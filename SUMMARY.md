@@ -1896,7 +1896,7 @@
 * [西田几多郎 Nishida Kitarō (John C. Maraldo)](n/nishida-kitaro.md)
 * [\*意向对象——见埃德蒙德·胡塞尔 noema — see Husserl, Edmund](h/husserl.md)
 * [\*唯名论 nominalism](README.md)
-  * [形而上学中的唯名论 in metaphysics (Sam Cowling and Daniel Giberman)](n/nominalism-metaphysics.md)
+  * [形而上学中的唯名论 Nominalism in Metaphysics (Sam Cowling and Daniel Giberman)](n/nominalism-metaphysics.md)
   * [\*数学哲学——见数学哲学：数学哲学中的唯名论 Nominalism in the Philosophy of Mathematics — see mathematics, philosophy of: nominalism](n/nominalism-mathematics.md)
 * [\*道德非自然主义——见道德非自然主义 non-naturalism, moral — see moral non-naturalism](m/moral-non-naturalism.md)
 * [\*非概念性内容——见非概念性心智内容 nonconceptual content — see mental content: nonconceptual](c/content-nonconceptual.md)

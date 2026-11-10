@@ -68,7 +68,7 @@
    "phase": "translate",
    "claimed_by": "I-main-20261110",
    "claimed_at": "2026-11-09T16:55:09Z",
-   "note": "2026-11-10 倒序线（I-main-20261110 承接 I-main-20261109，用户指令全权负责 I 条目）：intuitionism 收口 done（154 段全填、compose 37144 字符、对账五项全等、术语 47+人名 27）；it-moral-values 收口 done（114 段全填、compose 55376 字符、SUMMARY/mu-lu-s 截断标题补全、术语 25+人名 55）。I 批现 done 24/75。余：s3_checked 2（illumination 90/90、ingarden 55/55，待 r1–r3）、cleared 6（immunology 空壳、intrinsic-extrinsic／information-biological／impossible-worlds／imaginative-resistance 为 11-02 快照遗留无账本、待重走账本）、pending 43。下一条：illumination r1–r3 → 倒序队列 #68 intuitionistic-logic-development（175,231 词，需分多批）。",
+   "note": "2026-11-10 I-main-20261110（用户指令全权负责 I 条目，主会话直译）：本会话收口 4 条——intuitionism（154 段，37144 字符，术语 47+人名 27）、it-moral-values（114 段，55376 字符，SUMMARY/mu-lu-s 标题补全，术语 25+人名 55）、illumination（r1–r3，45038 字符）、ingarden（r1–r3，49668 字符）。I 批现 done 26/75。余：cleared 5（imaginative-resistance 12,032 词／information-biological 12,870 词／intrinsic-extrinsic 14,084 词／immunology 15,380 词／impossible-worlds 16,773 词，均须按 ADR-0021 重走账本，快照正文不得作底稿）、pending 43。下一顺位：imaginative-resistance（体量最小）→ information-biological → intrinsic-extrinsic → immunology → impossible-worlds；其后倒序队列 #68 intuitionistic-logic-development（175,231 词）。",
    "advanced_at": "2026-11-09T07:43:02Z"
   },
   "j": {
@@ -82,8 +82,8 @@
    "phase": "translate",
    "claimed_by": "K-main-20261110",
    "claimed_at": "2026-11-09T16:56:09Z",
-   "note": "2026-11-08 K 批接管（K-main-20261108b，用户指令：现在负责翻译 K，主会话直译不用子代理）：三源对账 done 21/36、s3_checked 1（korean-confucianism，本会话 s1-s3 完成：s1 定点修 16 处含 seg89 漏译三句、seg107 丁/郑氏兄弟、seg123《牧民心书》等；s2 prose 70→57（实修 21、余按学术长句/术语枚举/引文豁免）、s3 五维对账 defs 93:93·markers 94:94·H2 11:11·H3 8:8、四检全绿；人名登记补 24 行；r1-r3 归评审线 R-main-20261108）、cleared 14（源 31.6 万词，体量升序：kant-judgment → kukai → knowledge-how → kant-transcendental → kant-development → kant-spacetime → kant-religion → kant-conceptualism → kant-moral → kant → kant-hume-causality → kant-transcendental-idealism → kant-aesthetics → kyoto-school）。已纠正：kochen-specker 段101 标题粘连与段126/130/132 source 截断（HARD 清零）、kant-mathematics 半账留痕。在途接力：kant-judgment。｜冲突让出（2026-11-09，K-main-20261109）：kant-judgment 账本段76-82 在本会话开工核查期间（04:52-04:53）被另一活跃会话实时填入（untracked 在途件），判定上一 K 会话仍在线推进该条；本会话按用户预案自动顺延，转译下 5 条（体量升序）：kukai → knowledge-how → kant-transcendental → kant-development → kant-spacetime。kant-judgment 连同其 76-82 段成果全部归他会话，本会话对该文件零写入。",
-   "advanced_at": "2026-11-08T15:29:02Z"
+   "note": "2026-11-10 K-main-20261110：kukai（113 段）与 knowledge-how（195 段）均 s3_checked 已提交；kant-transcendental 在途（账本 22/140 段已填并分两批提交：段 1-10 导论与演绎概述、段 11-22 §16 统觉原理与 (S)/(W) 之争），术语 13 行登记。接力点：段 23 起（§16 第二阶段与 §17 起自下而上论证）。队列：kant-transcendental → kant-development → kant-spacetime → kant-religion → kant-conceptualism → kant-moral → kant → kant-hume-causality → kant-transcendental-idealism → kant-aesthetics → kyoto-school；kant-judgment 仍归他会话，r1-r3 属评审线。",
+   "advanced_at": "2026-11-10T01:23:36Z"
   },
   "l": {
    "phase": "translate",
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-10T02:50:00Z"
+ "updated_at": "2026-11-10T01:23:36Z"
 }

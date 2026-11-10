@@ -438,60 +438,48 @@ segments:
       The answer seems clear: reasonable trust is *practically rational* trust. The question of when one may rationally trust another may thus be resolved by a decision-theoretic calculation, factoring in the extent to which one’s evidence supports the potential trustee’s trustworthiness and the utilities of the possible outcomes, given one’s intended aims. The exercise of practical reasoning does include mental acts which are epistemically evaluable, however. When one takes it to be true in practical reasoning that someone will prove trustworthy, that mental act may be more or less epistemically rational: it would break the evidentialist norm to employ in a decision-theoretic calculation a credence that does not match one’s available evidence. In many situations, it will be practically rational, given one’s intentions, to trust another person only if one believes, or, at least, believes with high probability, that the person will prove trustworthy. In such situations it is also often the case, as already noted, that we don’t have adequate evidence in advance that *this* person will be trustworthy in *this* particular respect. Yet, affording high credence to a person’s trustworthiness may still be epistemically rational given wider available evidence of, for example, the person’s past friendliness and trustworthiness in other matters, or, if the person is a stranger, of our shared social experience that trusting others generally elicits a trustworthy response. Nevertheless, it can still be rational—*practically* rational, that is—to trust another when we *don’t* have adequate evidence that they will prove trustworthy. In a life-threatening situation, for example, it may be rational to trust unlikely rescuers if they are the only ones available. Or, when we have wider aims, it may be practically rational to trust those without a record of trustworthiness, as with ‘educative’ and ‘therapeutic’ trust where people are trusted for the sake of their development or rehabilitation as trustworthy persons. Being in established relationships of friendship with others, too, can also require commitment to continue to trust them even in the face of evidence that, otherwise, would make it reasonable to believe them unworthy of trust.
     step1: |-
       答案似乎很清楚：合理的信任是*实践上理性的*信任。于是，何时可以理性地信任另一个人的问题，可以通过决策论计算来解决：把证据在多大程度上支持潜在受托者的可靠性、以及给定一个人的意向目标时各种可能结果的效用都考虑在内。然而，实践推理的运用确实包含可以在认识上评价的心理行动。当一个人在实践推理中把某人将被证明可靠当作真时，那个心理行动可能在认识上或多或少是理性的：在决策论计算中使用一个与自己可得证据不匹配的置信度，将违反证据主义规范。在许多情形中，鉴于一个人的意图，只有当一个人相信——或至少以高概率相信——某人将被证明可靠时，信任这个人才是实践上理性的。而在这些情形中，如前所述，我们往往在事先并没有充分证据表明*这个*人会在*这个*特定方面可靠。可是，鉴于更宽的可得证据——例如这个人过往的友善与其他事务上的可靠性的证据，或者，如果这个人是陌生人，我们的共同社会经验（即信任他人通常引出可靠的回应）——给予一个人的可靠性以高置信度仍然可以在认识上是理性的。然而，当我们*并不*拥有他们将证明可靠的充分证据时，信任他人仍然可以是理性的——*实践上*理性的，也就是说。例如，在危及生命的情形中，如果他们是唯一可得的人，信任不太可能的救援者可能是理性的。或者，当我们有更宽的目标时，信任那些没有可靠性记录的人可能是实践上理性的——如“教育性”与“治疗性”信任，人们为了他们作为可靠之人的发展或康复而信任他们。处于与他人既立的友谊关系之中，同样可以要求承诺继续信任他们，即便面对那些在别的情况下会使相信他们不值得信任成为合理的证据。
-      在把有神论类信仰的根本构成视为一种信任行动的模型上，与人际信任的类比是有启发性的。当一个人信任另一个人时，似乎典型地（尽管不一律）有一个信念性的面向（信任者关于受托者可靠的信念）。但本质性的是信任性的面向——它在于对另一方的主动承诺或“托付”。保罗·黑尔姆提出，有神论信仰同样有截然不同且重要的信念性面向与信任性面向：除了以与信仰者证据相称的强度持有关于上帝存在及其拯救可靠性的信念之外，有信仰的人还必须把自己托付给其所倚靠的那一位（Helm 2000）[^helm-2000]。尽管人们广泛同意有神论信仰必须有一个认知面向，一些哲学家却主张这一面向不必是信念性的（我们将见第 8 节）。
     step2: |-
       答案似乎已然显明：合理的信任是*实践上理性的*信任。于是，“何时可以理性地信任他人”这一问题，可以交给一项决策论计算来裁定——把证据对潜在受托者可靠性的支持程度、以及给定行动者意向目标时诸可能结果的效用，一并纳入考量。然而，实践推理的行使确乎包含可在认识上评价的心理行动。当一个人在实践推理中把“某人将被证明可靠”当作真时，这一心理行动在认识上有理性多少之分：在决策论计算中启用一个与自身可得证据不相匹配的置信度，即违反证据主义规范。在许多情形中，就一个人的意图而言，唯有相信——或至少以高概率相信——某人将被证明可靠，信任其人方为实践上理性。而正如前文已述，在这类情形中，我们往往事先并无充分证据表明*这*个人会在*这*个特定方面可靠。可是，若另有更宽的可得证据佐证——比如此人过往的友善与其他事务上的可靠记录；或者，若其为陌生人，我们共同的社会经验（信任他人一般会引出可靠的回应）——那么对此人可靠性予以高置信度，仍可在认识上是理性的。尽管如此，当我们*并无*其将被证明可靠的充分证据时，信任他人仍可以是理性的——*实践上*理性，就是说。例如，在生死攸关的情形中，若看似不大可能施救的人是唯一可得之人，信任他们或许是理性的。或者，当我们怀有更宽的目标时，信任那些并无可靠记录者也可以是实践上理性的——如“教育性”与“治疗性”信任：人们之信任，为的正是对方作为可靠之人的成长或复元。此外，置身与他人既立的友谊关系，也可以要求承诺继续信任对方——即便面对的证据在别的情况下本会令“相信他们不配信任”成为合理。
-      在把有神论类信仰的根本构成看作一种信任行动的模型上，与人际信任的类比颇有启发。一个人信任另一个人时，似乎典型地（虽不一律）带有一个信念性面向——信任者关于受托者可靠的信念。但本质性的是信任性面向：它在于对另一方的主动承诺或“托付”。保罗·黑尔姆提出：有神论信仰同样具有判然有别且各自重要的信念性面向与信任性面向——除了以与信仰者证据相称的强度持有关于上帝存在及其拯救可靠性的信念之外，有信仰者还须把自己托付给其所倚靠的那一位（Helm 2000）[^helm-2000]。尽管“有神论信仰必有一个认知面向”广获同意，一些哲学家却主张：这一面向不必是信念性的（下文第 8 节将见）。
   - id: 54
     kind: body
     source: |-
       On models that take faith of the theist kind to consist fundamentally in an act of trust, the analogy with interpersonal trust is suggestive. When one person trusts another there seems typically (though not uniformly) to be a doxastic aspect (the truster’s belief that the trustee is trustworthy). But what’s essential is the fiducial aspect, which consists in an active commitment or ‘entrusting’ to the other. Paul Helm proposes that theist faith similarly has importantly distinct doxastic and fiducial aspects: in addition to belief about God’s existence and trustworthiness for salvation held with a degree of strength proportional to the believer’s evidence, persons of faith must also entrust themselves to the one on whom they rely (Helm 2000)[^helm-2000]. While it is widely agreed that theist faith must have a cognitive aspect, some philosophers hold that this need not be doxastic (as we shall see in Section 8).
     step1: |-
       在把有神论类信仰的根本构成视为一种信任行动的模型上，与人际信任的类比是有启发性的。当一个人信任另一个人时，似乎典型地（尽管不一律）有一个信念性的面向（信任者关于受托者可靠的信念）。但本质性的是信任性的面向——它在于对另一方的主动承诺或“托付”。保罗·黑尔姆提出，有神论信仰同样有截然不同且重要的信念性面向与信任性面向：除了以与信仰者证据相称的强度持有关于上帝存在及其拯救可靠性的信念之外，有信仰的人还必须把自己托付给其所倚靠的那一位（Helm 2000）[^helm-2000]。尽管人们广泛同意有神论信仰必须有一个认知面向，一些哲学家却主张这一面向不必是信念性的（我们将见第 8 节）。
-      ## 7. 作为信念冒险的信仰
     step2: |-
       在把有神论类信仰的根本构成看作一种信任行动的模型上，与人际信任的类比颇有启发。一个人信任另一个人时，似乎典型地（虽不一律）带有一个信念性面向——信任者关于受托者可靠的信念。但本质性的是信任性面向：它在于对另一方的主动承诺或“托付”。保罗·黑尔姆提出：有神论信仰同样具有判然有别且各自重要的信念性面向与信任性面向——除了以与信仰者证据相称的强度持有关于上帝存在及其拯救可靠性的信念之外，有信仰者还须把自己托付给其所倚靠的那一位（Helm 2000）[^helm-2000]。尽管“有神论信仰必有一个认知面向”广获同意，一些哲学家却主张：这一面向不必是信念性的（下文第 8 节将见）。
-      ## 7. 作为信念冒险的信仰
   - id: 55
     kind: body
     source: |-
       ## 7. Faith as doxastic venture
     step1: |-
       ## 7. 作为信念冒险的信仰
-      然而，有神论信仰所涉及的信任与人际信任所涉及的信任有显著差异。一方面，如果上帝确实是受托者，信任似乎不会冒任何失望的风险。鉴于不变之爱的上帝存在，人的信任处于终极的安全之中。但真正把自己托付给上帝的冒险，似乎始于一个挑战：能够相信或接受确实存在这样一位上帝。虽然有些人肯定这一主张是基本知识之事，有些人认为有充分证据为其辩护，但如前所述，另一些人主张每个人都必须面对奠基性有神论主张的证据模糊。对那些既拒绝把有神论信仰当作基本知识的模型、又认为上帝存在的问题不能凭可得证据在理智上得到解决的人来说，信靠上帝所涉及的冒险（如果真有这种冒险）似乎包含一个*信念性*冒险：信任者已经在越过可得证据而冒险——*就在他们相信或接受*上帝存在并可倚靠其得救之时。换句话说，信*靠*上帝似乎预设了相*信*上帝存在。但如果如此，问题便变得紧迫：一个人是否、以及在何种条件下，有权作出这样一种超越证据的冒险——在实践承诺中委身于关于终极实在的特定观点及其对我们应当如何生活的意涵。
     step2: |-
       ## 7. 作为信念冒险的信仰
-      然而，有神论信仰所涉及的信任，与人际信任所涉及的信任，差异显著。一则：倘若上帝确是受托者，信任似乎冒不到任何失望的风险——既有不变之爱的上帝存在，人的信任便处于终极的安稳之中。可真正把自己托付给上帝的冒险，似乎始于一个挑战：能够相信或接受——确有这样一位上帝。有人肯定这一主张属于基本知识；有人认为有充分证据足以辩护它；但如前所述，另一些人主张人人都须面对奠基性有神论主张的证据模糊。对那些既拒斥“有神论信仰即基本知识”的模型、又认为上帝存在的问题无法凭可得证据在理智上解决的人来说，信靠上帝所涉的冒险（果真有此冒险的话）似乎包含一个*信念性*的冒险：信任者已然越过了可得证据——*就在他们相信或接受*上帝存在、且可靠他得救*之际*。换言之，信*靠*上帝似乎预设了相*信*上帝存在。果如此，问题便变得紧迫：一个人是否有权、又在何种条件下有权，作出这般超越证据的冒险——在实践承诺中委身于某种关于终极实在的特定观点，及其对我们当如何生活的意涵。
   - id: 56
     kind: body
     source: |-
       There are significant differences, however, between the trusting involved in theistic faith and that involved in interpersonal trust. For one thing, trusting would seem not to risk any possibility of disappointment if God really is the trustee. Given the existence of the God of unchanging love, one trusts in ultimately perfect safety. But the venture of actually entrusting oneself to God seems to begin with the challenge of being able to believe or accept that, indeed, there is such a God. While some affirm that this claim is a matter of basic knowledge, and some that there is sufficient evidence to justify it, others, as already noted, hold that everyone has to confront the evidential ambiguity of foundational theistic claims. For those who reject the model of theist faith as basic knowledge and also think that the question of God’s existence cannot be settled intellectually on the basis of the available evidence, the venture involved in trusting in God (if such there be) may seem to include a *doxastic* venture: those who trust already venture beyond the available evidence, *in their very believing* *or accepting* that God exists and may be relied on for salvation. Trusting *in* God seems to presuppose, in other words, trusting *that* God exists. But, if so, the question becomes pressing whether, and under what conditions, one may be entitled to such an evidence-transcending venture in practical commitment to a particular view of ultimate reality and its implications for how we should live.
     step1: |-
       然而，有神论信仰所涉及的信任与人际信任所涉及的信任有显著差异。一方面，如果上帝确实是受托者，信任似乎不会冒任何失望的风险。鉴于不变之爱的上帝存在，人的信任处于终极的安全之中。但真正把自己托付给上帝的冒险，似乎始于一个挑战：能够相信或接受确实存在这样一位上帝。虽然有些人肯定这一主张是基本知识之事，有些人认为有充分证据为其辩护，但如前所述，另一些人主张每个人都必须面对奠基性有神论主张的证据模糊。对那些既拒绝把有神论信仰当作基本知识的模型、又认为上帝存在的问题不能凭可得证据在理智上得到解决的人来说，信靠上帝所涉及的冒险（如果真有这种冒险）似乎包含一个*信念性*冒险：信任者已经在越过可得证据而冒险——*就在他们相信或接受*上帝存在并可倚靠其得救之时。换句话说，信*靠*上帝似乎预设了相*信*上帝存在。但如果如此，问题便变得紧迫：一个人是否、以及在何种条件下，有权作出这样一种超越证据的冒险——在实践承诺中委身于关于终极实在的特定观点及其对我们应当如何生活的意涵。
-      **神学的非实在论**
     step2: |-
       然而，有神论信仰所涉及的信任，与人际信任所涉及的信任，差异显著。一则：倘若上帝确是受托者，信任似乎冒不到任何失望的风险——既有不变之爱的上帝存在，人的信任便处于终极的安稳之中。可真正把自己托付给上帝的冒险，似乎始于一个挑战：能够相信或接受——确有这样一位上帝。有人肯定这一主张属于基本知识；有人认为有充分证据足以辩护它；但如前所述，另一些人主张人人都须面对奠基性有神论主张的证据模糊。对那些既拒斥“有神论信仰即基本知识”的模型、又认为上帝存在的问题无法凭可得证据在理智上解决的人来说，信靠上帝所涉的冒险（果真有此冒险的话）似乎包含一个*信念性*的冒险：信任者已然越过了可得证据——*就在他们相信或接受*上帝存在、且可靠他得救*之际*。换言之，信*靠*上帝似乎预设了相*信*上帝存在。果如此，问题便变得紧迫：一个人是否有权、又在何种条件下有权，作出这般超越证据的冒险——在实践承诺中委身于某种关于终极实在的特定观点，及其对我们当如何生活的意涵。
-      **神学的非实在论**
   - id: 57
     kind: body
     source: |-
       *Theological non-realism*
     step1: |-
       **神学的非实在论**
-      缓解这一压力的一条途径，是对神学主张提供一种*非实在论*的分析。于是信任上帝将不蕴含任何对*实在*以特定方式存在的承诺。毋宁说，在可以说最精致的一类非实在论观点上，神学信念的产生是因为“以信任的方式生活”逐渐通过一种关于上帝及其伟大拯救行动的文化建构虚构得到表达和强化。这种生存论的信心于是可以用那虚构的语言描述为“信任上帝”（Cupitt 1980, Geering 1994）[^cupitt-1980][^geering-1994]。在这样一种非实在论说明上，作为信任的信仰模型把信仰的认知成分加上括号搁置，从而冒着实际上变成“信仰纯粹是某种情感状态”的模型的风险。但无论如何，非实在论模型将被那些认为信仰具有一种认知成分的人拒绝——该成分的功能在于把握——或试图把握——事物实际如何。
     step2: |-
       **神学的非实在论**
-      缓解这一压力的一条途径，是对神学主张提供*非实在论*的分析。如此一来，信任上帝便不蕴含任何对*实在*以特定方式存在的承诺。毋宁说，在可称最精致的一类非实在论观点上，神学信念之生起，是因为“以信任的姿态生活”渐渐经由一种关于上帝及其伟大拯救行动的文化建构虚构而得到表达与强化。这份生存论的信心，于是可以借那虚构的语言被描述为“信任上帝”（Cupitt 1980, Geering 1994）[^cupitt-1980][^geering-1994]。在这样一种非实在论说明下，作为信任的信仰模型把信仰的认知成分加括搁置，从而冒着实则沦为“信仰纯粹是某种情感状态”之模型的风险。但无论如何，非实在论模型必为如下这些人所拒：他们认为信仰具有一种认知成分，其功能在于把握——或试图把握——事物实际之所是。
   - id: 58
     kind: body
     source: |-
       One way to relieve this pressure is to offer a *non-realist* analysis of theological claims. Trusting God will then not entail any commitment to *reality’s* being a certain way. Rather, on arguably the most sophisticated kind of non-realist view, theological beliefs arise because living ‘trustingly’ comes to be expressed and reinforced through a culturally constructed fiction about God and his great saving acts. This existential confidence may then be described, using the language of the fiction, as ‘trusting God’ (Cupitt 1980, Geering 1994)[^cupitt-1980][^geering-1994]. On such a non-realist account, the model of faith as trust brackets the cognitive component of faith, and risks becoming, in effect, a model of faith as purely a certain kind of affective state. But, in any case, non-realist models will be rejected by those who take faith to have a cognitive component that functions as a grasping—or would-be grasping—of how things really are.
     step1: |-
       缓解这一压力的一条途径，是对神学主张提供一种*非实在论*的分析。于是信任上帝将不蕴含任何对*实在*以特定方式存在的承诺。毋宁说，在可以说最精致的一类非实在论观点上，神学信念的产生是因为“以信任的方式生活”逐渐通过一种关于上帝及其伟大拯救行动的文化建构虚构得到表达和强化。这种生存论的信心于是可以用那虚构的语言描述为“信任上帝”（Cupitt 1980, Geering 1994）[^cupitt-1980][^geering-1994]。在这样一种非实在论说明上，作为信任的信仰模型把信仰的认知成分加上括号搁置，从而冒着实际上变成“信仰纯粹是某种情感状态”的模型的风险。但无论如何，非实在论模型将被那些认为信仰具有一种认知成分的人拒绝——该成分的功能在于把握——或试图把握——事物实际如何。
-      **借人际信任之类比辩护信念冒险？**
     step2: |-
       缓解这一压力的一条途径，是对神学主张提供*非实在论*的分析。如此一来，信任上帝便不蕴含任何对*实在*以特定方式存在的承诺。毋宁说，在可称最精致的一类非实在论观点上，神学信念之生起，是因为“以信任的姿态生活”渐渐经由一种关于上帝及其伟大拯救行动的文化建构虚构而得到表达与强化。这份生存论的信心，于是可以借那虚构的语言被描述为“信任上帝”（Cupitt 1980, Geering 1994）[^cupitt-1980][^geering-1994]。在这样一种非实在论说明下，作为信任的信仰模型把信仰的认知成分加括搁置，从而冒着实则沦为“信仰纯粹是某种情感状态”之模型的风险。但无论如何，非实在论模型必为如下这些人所拒：他们认为信仰具有一种认知成分，其功能在于把握——或试图把握——事物实际之所是。
-      **借人际信任之类比辩护信念冒险？**
   - id: 59
     kind: body
     source: |-
@@ -504,110 +492,146 @@ segments:
     kind: body
     source: |-
       Assuming, then, that theist faith does include (under realist assumptions) a venture in practical commitment to truth-claims about ultimate reality, the justifiability of such a venture might yet be thought defensible by analogy with interpersonal situations where practical commitment seems justifiably to be made beyond one’s evidence to the claim that a person will prove trustworthy in some relevant respect. Reflecting on that proposal discloses further points of disanalogy, however. In cases of interpersonal trust, a venture is often needed in *initially* taking the trustee to be trustworthy, but evidence will inevitably later emerge which will either confirm or disconfirm the truth of that claim, and trust may, and rationally should, be withdrawn if the news is bad. But if—as we are here assuming—one ventures beyond evidential support in taking it to be true in practical reasoning that God exists and may be trusted for salvation, this may be a venture that is not confined to initial commitment but rather persists in needing to be made. This will be the case on accounts of the evidential ambiguity of theism that take the ambiguity to hold in principle, ruling out any possibility of evidential disambiguation. Those accounts may grant, of course, that continuing to journey in theistic faith may psychologically reinforce one’s commitment, providing subjective confirmation that the theist view of reality is correct. Yet these reinforcing experiences, which often involve faith renewed in the face of apparent *failures* of divine love, do not possess the uncontroversial status of evidence that independently and inter-subjectively confirms the initial venture.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      那么，假定有神论信仰确实（在实在论假定下）包含对关于终极实在的真理主张的实践承诺中的冒险，这种冒险的可辩护性或许仍可借与人际情形的类比来辩护——在那些情形中，实践承诺显得可以正当地越出一个人的证据而作出，即关于某个人将在某个相关方面被证明可靠的主张。然而，对这一提议的反思暴露出进一步的不类比之处。在人际信任的情形中，*最初*把受托者当作可靠时常常需要冒险，但证据将不可避免地在稍后出现，或确证或否证那一主张之真；如果消息不好，信任可以——而且理性上应当——被撤回。但如果——正如我们这里所假定的——一个人在实践推理中把上帝存在并可靠其拯救当作真时越出证据支持，这可能是一种不限于最初承诺、而是持续需要作出的冒险。在那些主张有神论证据模糊原则上成立、排除任何证据消歧可能性的说明上，情况将如此。这些说明当然可以承认：在有神论信仰中持续行进可能在心理上强化一个人的承诺，为主观地确证有神论实在观正确提供依据。然而这些强化经验——它们常常涉及在神圣之爱表面**失败** 面前重新的信仰——并不具有独立地、主体间地确证最初冒险的证据那种无可争议的地位。
+    step2: |-
+      那么，假定有神论信仰确实（在实在论假定下）包含对终极实在之真理主张的实践承诺中的冒险，这冒险的可辩护性或许仍能借人际情形的类比来辩护——在那些情形里，实践承诺显得可以正当地越出一个人的证据而作出：即就“某个人将在某相关方面被证明可靠”的主张作出承诺。然而，对这一提议细加反思，便暴露出更多不类比之处。人际信任的情形中，*最初*把受托者当作可靠时固然常需冒险，但证据迟早会浮现——或确证、或否证那一主张之真；消息若坏，信任可以撤回，而且理性上也应当撤回。可倘若——如我们此处所假定——一个人在实践推理中把“上帝存在、可靠其拯救”当作真时越出了证据支持，这就可能是一种不限于最初承诺、而是持续需要重作的冒险。在那些主张有神论证据模糊原则上成立、排除任何证据消歧可能的说明下，情形正是如此。这些说明当然可以承认：在有神论信仰中持续跋涉，或许能在心理上强化一个人的承诺，为其有神论实在观之正确提供主观确证。然而这些强化经验——它们常涉及在神圣之爱表面**失败** 面前重新燃起的信仰——并不具有那种独立地、主体间地确证最初冒险的证据所享有的无可争议地位。
   - id: 61
     kind: body
     source: |-
       *Doxastic venture without doxastic voluntarism*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **无信念意志论的信念冒险**
+    step2: |-
+      **无信念意志论的信念冒险**
   - id: 62
     kind: body
     source: |-
       Many dismiss the idea that one may venture in one’s very believing that God exists as committing a category error: ventures are voluntary, but propositional belief is not directly under voluntary control. Trusting God, however, entails *practical commitment to the truth of theological faith-propositions*, and commitment to the truth of a proposition in one’s practical reasoning *may* be under direct voluntary control.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      许多人以犯了范畴错误为由，摒弃“人可以在其相信上帝存在这一信念本身之中冒险”的观念：冒险是自愿的，而命题性信念并不直接受自愿控制。然而，信任上帝蕴含*对神学信仰命题之真的实践承诺*，而在实践推理中对一个命题之真的承诺*可以*受直接的自愿控制。
+    step2: |-
+      许多人摒弃“人可以在其相信上帝存在这一信念本身之中冒险”的观念，理由是它犯了范畴错误：冒险是自愿的，命题性信念却不受直接的自愿控制。然而，信任上帝蕴含着*对神学信仰命题之真的实践承诺*；而在实践推理中对一个命题之真作出承诺，*可以*受直接的自愿控制。
   - id: 63
     kind: body
     source: |-
       It is one thing to be in the mental state of holding that the proposition that *p* is true; it is another to take it to be true that *p* in one’s practical reasoning (although these typically go together, since to hold that *p* is true is *to be disposed* to take it to be true that *p* in practical reasoning whenever the question whether *p* becomes salient). Practical commitment to a faith-proposition’s truth therefore *could* be a venture: there is no category error in allowing this possibility. Doxastic venturing—venturing in believing—is thus not a matter of willing oneself to believe without adequate evidential support; rather it is a matter of taking *an already held* belief to be true in one’s practical reasoning even though (as one may oneself recognise) its truth lacks such support.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      处于“认为命题 *p* 为真”的心理状态是一回事；在实践推理中把 *p* 当作真则是另一回事（尽管两者通常相伴，因为认为 *p* 为真就是*倾向于*在“p 是否成立”变得突出时于实践推理中把 *p* 当作真）。因此，对一个信仰命题之真的实践承诺*可以*是一种冒险：容许这一可能性并无范畴错误。于是，信念冒险——在相信之中冒险——不是在缺乏充分证据支持时意愿自己相信的问题；而是在实践推理中把*一个已经持有的*信念当作真——即便（如一个人自己可能承认的）其真缺乏这种支持。
+    step2: |-
+      处于“认为命题 *p* 为真”的心理状态是一回事；在实践推理中把 *p* 当作真则是另一回事（尽管两者通常相伴：认为 *p* 为真，即是*倾向于*每当“p 是否成立”凸显于前时，在实践推理中把 *p* 当作真）。因此，对一个信仰命题之真的实践承诺*可以*是一种冒险：容许这一可能性并无范畴错误。于是，信念冒险——在相信之中冒险——并非“在缺乏充分证据支持时硬要自己相信”；而是在实践推理中把*一个已然持有的*信念当作真——哪怕（如当事人自己可能承认的）其真缺乏这种支持。
   - id: 64
     kind: body
     source: |-
       *The psychological possibility of doxastic venture*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **信念冒险的心理可能性**
+    step2: |-
+      **信念冒险的心理可能性**
   - id: 65
     kind: body
     source: |-
       Some philosophers have argued, however, that one cannot (in full reflective awareness, anyway) believe that *p* while accepting that one has insufficient evidence for *p*’s truth (Adler 2002)[^adler-2002]. The counterclaim that this is possible is defended by William James, in his controversial 1896 lecture, ‘The Will to Believe’ (James 1896 [1956])[^james-1896]. James agrees that belief cannot be directly willed and must be otherwise causally evoked (he later came to wish that he had used ‘The Right to Believe’ as his lecture’s title). James observes, however, that many beliefs have causes that do not constitute or imply an evidential grounding of their truth. James labels such causes ‘passional’—again, a potentially misleading term, since its intended referents include much more than emotional causes of belief. In particular, beliefs may be caused by ‘the circumpressure of one’s caste or set,’ of which one’s inherited religious tradition is a paradigm case (James 1896 [1956, 9])[^james-1896]. James is thus able to explain the psychological possibility of doxastic venture: one already has a ‘passionally’ caused belief, which one then takes to be true in practical reasoning despite its lack of adequate evidential grounding (compare Creel 1994, who similarly describes ‘faith’ as a ‘non-evidential doxastic passion’)[^creel-1994].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，一些哲学家论证：一个人不能（至少在充分的反思意识中）相信 *p*，同时又接受自己对 *p* 之真缺乏充分证据（Adler 2002）[^adler-2002]。这一事不可能的反题由威廉·詹姆斯在其备受争议的 1896 年演讲“信仰的意志”（‘The Will to Believe’）中辩护（James 1896 [1956]）[^james-1896]。詹姆斯同意信念不能被直接意愿、必须以别的方式因果地唤起（他后来表示希望自己当时用的是“相信的权利”作为演讲标题）。但詹姆斯观察到，许多信念的成因并不构成或蕴含其真理的证据根基。詹姆斯把这类成因贴上“激情性”（passional）的标签——这又是一个可能误导的术语，因为它意指的对象远不止信念的情感成因。特别地，信念可能由“一个人所属阶层或圈层的环压”造成，一个人承继的宗教传统便是其典范情形（James 1896 [1956, 9]）[^james-1896]。詹姆斯由此能够解释信念冒险的心理可能性：一个人已经有一个“激情地”造成的信念，随后在实践推理中把它当作真，尽管其缺乏充分的证据根基（比较 Creel 1994，他同样把“信仰”描述为一种“非证据的信念激情”）[^creel-1994]。
+    step2: |-
+      然而，一些哲学家论证：人不能（至少在充分的反思意识中）相信 *p*，同时又接受自己*对 p 之真缺乏充分证据*（Adler 2002）[^adler-2002]。反题——这是可能的——由威廉·詹姆斯在其备受争议的 1896 年演讲“信仰的意志”（‘The Will to Believe’）中辩护（James 1896 [1956]）[^james-1896]。詹姆斯同意：信念无法被直接意愿，须以别的方式因果地唤起（他后来但愿自己当年用的标题是“相信的权利”）。但詹姆斯观察到：许多信念的成因并不构成、也不蕴含其真理的证据根基。詹姆斯把这类成因称作“激情性”（passional）的——此词同样可能误导，因其所指远不止信念的情感成因。尤其，信念可能由“一个人所属阶层或圈层的环压”造成，承继而来的宗教传统便是其典范情形（James 1896 [1956, 9]）[^james-1896]。詹姆斯由此得以解释信念冒险的心理可能性：人先已有一个“激情地”造成的信念，随后在实践推理中把它当作真——尽管它缺乏充分的证据根基（比较 Creel 1994，他同样把“信仰”描述为一种“非证据的信念激情”）[^creel-1994]。
   - id: 66
     kind: body
     source: |-
       Note that a doxastic venture model of theistic faith reconciles faith as gift with faith’s active components: taking a faith-proposition to be true in practical reasoning is a basic (mental) action (which leads on to further actions involved in trusting God and seeking to do God’s will); the gift provides the motivational resources for this basic action, namely a firm belief in the truth of the faith-proposition, despite its lack of adequate evidential support. (In the next section, the possibility is considered that the gift of these motivational resources might be effective yet not amount to actual belief.) It is also worth noting that those who find the focus on the individual something of a deficiency in analytical accounts of faith (Eklund 2015) may perceive in James’ account some acknowledgment of the social aspect of faith. Arguably, the standard ‘passional’ or ‘non-evidential’ cause of religious belief is cultural immersion within an historical faith-tradition. The motivational resources for faith-commitment may thus be an essentially social possession.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      请注意，有神论信仰的信念冒险模型调和了作为恩赐的信仰与信仰的主动成分：在实践推理中把一个信仰命题当作真是基本（心理）行动（它引向信任上帝、寻求践行上帝旨意所涉及的进一步行动）；恩赐为这一基本行动提供动机资源，即对信仰命题之真的坚定信念——尽管其缺乏充分的证据支持。（下一节将考虑这样一种可能：这些动机资源的恩赐可能有效，却不相当于实际信念。）同样值得注意的是：那些认为分析性信仰说明聚焦于个人是某种缺陷的人（Eklund 2015），或许会在詹姆斯的说明中看到对信仰之社会面向的某种承认。可以说，宗教信念标准的“激情性”或“非证据”成因，是沉浸于一个历史信仰传统的文化之中。信仰承诺的动机资源因此可能本质上是一种社会性的拥有物。
+    step2: |-
+      须注意，有神论信仰的信念冒险模型使“作为恩赐的信仰”与信仰的主动成分得以调和：在实践推理中把一个信仰命题当作真，是一项基本（心理）行动——它进而引向信任上帝、寻求践行上帝旨意所涉的进一步行动；恩赐为这项基本行动提供动机资源，即对信仰命题之真的坚定信念——尽管它缺乏充分的证据支持。（下一节将考虑这样一种可能：这些动机资源的赐予可能生效，却不等于实际信念。）还有一点值得注意：那些认为分析性信仰说明聚焦个人是某种缺憾的人（Eklund 2015），或许能在詹姆斯的说明中看到对信仰之社会面向的某种承认。可以说，宗教信念的典型“激情性”或“非证据”成因，便是沉浸于一个历史信仰传统的文化之中。信仰承诺的动机资源，因此可能本质上是一种社会性的拥有。
   - id: 67
     kind: body
     source: |-
       *Examples of doxastic venture models*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **信念冒险模型诸例**
+    step2: |-
+      **信念冒险模型诸例**
   - id: 68
     kind: body
     source: |-
       On the doxastic venture model, faith involves *full* practical commitment to a faith-proposition’s truth, despite the recognition that this is not ‘objectively’ justified on the evidence. Kierkegaard’s definition of faith as ‘an objective uncertainty held fast in an appropriation process of the most passionate inwardness’ in *Concluding Unscientific Postscript* (Kierkegaard 1846 [1968, 180])[^kierkegaard-1846] is an example of a doxastic venture model. So too is Paul Tillich’s account of faith as ‘the state of being ultimately concerned’, since the claim of the object of one’s ultimate concern to ‘promise total fulfilment even if all other claims have to be subjected to it or rejected in its name’ cannot in principle be established on the basis of the evidence (Tillich 1957 [2001, 1 and 21])[^tillich-1957].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在信念冒险模型上，信仰包含对一个信仰命题之真的*充分*实践承诺，尽管承认这在证据上并非“客观地”得到辩护。克尔凯郭尔在《最后的非科学性附言》中把信仰定义为“在最热烈的内在性之占有过程中被牢牢把握的客观不确定性”（Kierkegaard 1846 [1968, 180]）[^kierkegaard-1846]，便是信念冒险模型的一个例子。保罗·蒂利希把信仰说明为“终极关切的状态”亦然，因为一个人的终极关切对象所主张的“允诺完全的实现，即便所有其他主张都必须屈从于它或以其名义遭到拒斥”，在原则上不能依证据确立（Tillich 1957 [2001, 1 and 21]）[^tillich-1957]。
+    step2: |-
+      在信念冒险模型上，信仰包含对一个信仰命题之真的*充分*实践承诺——尽管当事人承认，这在证据上并未获得“客观的”辩护。克尔凯郭尔在《最后的非科学性附言》中把信仰定义为“在最热烈的内在性之占有过程中被牢牢守持的客观不确定性”（Kierkegaard 1846 [1968, 180]）[^kierkegaard-1846]，即是信念冒险模型的一例。保罗·蒂利希把信仰说明为“终极关切的状态”，亦属此类——因为一个人的终极关切对象所主张的“允诺完全的成全，即便所有其他主张都必须屈从于它、或以其名义被拒斥”，在原则上无法依证据确立（Tillich 1957 [2001, 1 and 21]）[^tillich-1957]。
   - id: 69
     kind: body
     source: |-
       Aquinas’s model of faith, though widely thought of as conforming to an evidential requirement on belief, may arguably be open to interpretation as a doxastic venture model. As noted in Section 5, Aquinas holds that the available evidence, though it supports the truth of foundational faith-propositions, does not provide what Aquinas counts as sufficient (i.e., demonstrative) support to justify inner assent (in addition to references to the *Summa Theologiae* given previously, see 2a2ae. 2, 1 (Aquinas [2006], 63); and compare also Penelhum 1989, 120). Now, whether practical commitment to the truth of a given faith-proposition does or does not venture beyond adequate evidential support will be relative to assumptions about (a) where the level of evidential support required for ‘adequacy’ should be set, and (b) just how firm and decisive propositional faith-commitment needs to be. On some such assumptions, for example those made by Bayesians, the support provided by the evidence Aquinas adduces—or, by a suitable contemporary upgrading of that evidence such as that provided in the works of Richard Swinburne—may be considered enough to make reasonable a sufficiently high degree of belief (or credence) in the truth of theistic faith-propositions so that believers need not venture beyond the support of their evidence. Interpreting Aquinas’s model of faith as conforming to evidentialism may thus be viable. Nevertheless, Aquinas’s own assumptions on these matters may leave him closer to Kierkegaard and Tillich than is commonly thought (consider *Summa Theologiae* 2a2ae 4, 1 and, once again, 2a2ae 6, 1 (Aquinas [2006], 117–9 & 167)).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      阿奎那的信仰模型虽然被广泛认为符合对信念的证据要求，但或可作开放解释为信念冒险模型。如第 5 节所述，阿奎那主张可得证据虽然支持奠基性信仰命题的真理，却不提供阿奎那算作充分的（即证明性的）支持以正当化内在信从（除先前所引《神学大全》诸处外，另见 2a2ae. 2, 1 (Aquinas [2006], 63)；并比较 Penelhum 1989, 120）。现在，对一个给定信仰命题之真的实践承诺是否越出充分的证据支持，将相对于这样一些假定而异：（a）“充分”所要求的证据支持水平应设在哪里；（b）命题性信仰承诺需要何等坚定与决断。按某些这类假定——例如贝叶斯主义者所作的假定——阿奎那所引证据提供的支持，或经理查德·斯温伯恩著作中对那一证据的适当当代升级，可以被视为足以使对有神论信仰命题之真的充分高度的信念（或置信度）成为合理的，从而相信者无须越出其证据的支持。因此，把阿奎那的信仰模型解读为符合证据主义可能是可行的。尽管如此，阿奎那在这些事情上自己的假定，可能使他比人们通常所想的更接近克尔凯郭尔与蒂利希（考虑 *Summa Theologiae* 2a2ae 4, 1 以及再次 2a2ae 6, 1 (Aquinas [2006], 117–9 & 167)）。
+    step2: |-
+      阿奎那的信仰模型虽被广泛认为符合对信念的证据要求，却或可开放地解读为一个信念冒险模型。如第 5 节所述，阿奎那主张：可得证据虽支持奠基性信仰命题的真理，却提供不出阿奎那所要求的充分（即证明性的）支持来正当化内在信从（除前文所引《神学大全》诸处外，另见 2a2ae. 2, 1 (Aquinas [2006], 63)；并比较 Penelhum 1989, 120）。于是，对一个给定信仰命题之真的实践承诺是否越出充分的证据支持，将取决于两组假定：（a）“充分”所需的证据支持水平设定于何处；（b）命题性信仰承诺须何等坚定与决绝。依某些这类假定——例如贝叶斯主义者的假定——阿奎那所引证据提供的支持（或如理查德·斯温伯恩著作对那一证据的适当当代升级）可被视为足以使“对有神论信仰命题之真持有充分高度的信念（或置信度）”成为合理，从而相信者无须越出其证据的支持。如此解读阿奎那模型为合乎证据主义，或属可行。然而，阿奎那自己在这类事情上的假定，可能使他比通常所想的更接近克尔凯郭尔与蒂利希（参看 *Summa Theologiae* 2a2ae 4, 1，以及再次，2a2ae 6, 1 (Aquinas [2006], 117–9 & 167)）。
   - id: 70
     kind: body
     source: |-
       *The special role of faith-propositions*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **信仰命题的特殊角色**
+    step2: |-
+      **信仰命题的特殊角色**
   - id: 71
     kind: body
     source: |-
       Bayesians might argue that there is no occasion for faith as doxastic venture since, once practical commitment to the truth of propositions is recognised as a matter of degree, whatever the state of the available evidence relating to a given proposition, there will always (given initial credences) be a rational credence properly associated with that evidence, and hence there are no possible circumstances where ‘the evidence does not decide’, so that an evidentialist requirement can indeed apply universally. Note, however, Lara Buchak’s (2012, 2018) discussion of ways in which Bayesians might understand faith as going beyond the evidence, and her own proposal that faith-ventures essentially include an *additional* practical commitment, which may be rational under certain conditions, not to inquire further into evidence relevant to the truth of the propositions concerned for the sole purpose of deciding what to do. (For critical discussion of this kind of restriction on inquiry in connection with faith commitments, see Dormandy 2018 and Howard-Snyder and McKaughan 2022a. Katherine Dormandy has recently proposed a positive defence of evidentialism in considering the question of what makes it good to form positive beliefs about those you have faith in, including God (Dormandy 2022).)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      贝叶斯主义者可能论证：不存在作为信念冒险的信仰的场合，因为一旦对命题之真的实践承诺被承认为一个程度问题，无论与一个给定命题相关的可得证据处于何种状态，（给定初始置信度）总会有一个与那一证据恰当关联的理性置信度，因此不存在“证据不作决定”的可能情形，证据主义要求确实可以普遍适用。但请注意拉拉·布查克（2012, 2018）对贝叶斯主义者可能如何把信仰理解为超越证据的方式的讨论，以及她自己的提议：信仰冒险本质上包含一个*附加的*实践承诺——不为别的、只为决定如何行动而不进一步探究与相关命题之真相关的证据——这一承诺在某些条件下可能是理性的。（关于与信仰承诺相关的这种探究限制的批评性讨论，见 Dormandy 2018 与 Howard-Snyder and McKaughan 2022a。凯瑟琳·多曼迪近来在考虑“对所信者——包括上帝——形成积极信念何以是好的”这一问题时，为证据主义提出了一个正面辩护（Dormandy 2022）。）
+    step2: |-
+      贝叶斯主义者或可论证：作为信念冒险的信仰并无用武之地——因为一旦“对命题之真的实践承诺”被承认为程度问题，则无论与给定命题相关的可得证据处于何种状态，（给定初始置信度）总有一个与该证据恰当关联的理性置信度，于是不存在“证据作不了决定”的可能情形，证据主义要求确乎可以普遍适用。但请看拉拉·布查克（2012, 2018）的讨论：贝叶斯主义者可能以哪些方式把信仰理解为超越证据；她还提出己见：信仰冒险本质上包含一个*附加的*实践承诺——不为别的、只为决定如何行动，而不进一步探究与相关命题之真攸关的证据——此一承诺在某些条件下可以是理性的。（关于与信仰承诺相关之探究限制的批评性讨论，见 Dormandy 2018 与 Howard-Snyder and McKaughan 2022a。凯瑟琳·多曼迪近来在思考“对所信者——包括上帝——形成积极信念，何以是好的”这一问题时，为证据主义提出了正面辩护（Dormandy 2022）。）
   - id: 72
     kind: body
     source: |-
       If the domain of faith is, as Stephen Evans puts it, ‘the assumptions, convictions and attitudes which the believer *brings to* the evidence for and against religious truth’ (Evans 1985, 178)[^evans-1985], and faith’s cognitive component offers a ‘total interpretation’ of the world of our experience (Hick 1966, 154)[^hick-1966], then (foundational) faith-propositions function as ‘highest-order framing principles’ which *necessarily* cannot have their truth settled by appeal to the force of a body of independent evidence (Bishop 2007a, 139–44)[^bishop-2007a]. Taking such a faith-proposition to be true, then, is not something that comes in degrees: either one ‘buys into’ the overall worldview (foundational) faith-propositions propose, or one does not. Such a choice is existentially important, and settling it raises anxiety about exercising a responsibility that cannot—without ‘bad faith’—be transferred onto the relatively impersonal function of one’s reason, since a venture beyond any inter-subjectively rational evidential confirmation is required. The doxastic venture model may thus be regarded as capturing the spiritual challenge of faith more satisfactorily than do models that conform to evidentialism. This is because, on the doxastic venture model, faith involves a deeper surrender of self-reliant control, not only in trusting God, but in accepting at the level of practical commitment that there is a God—indeed, *this* God—who is to be trusted.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果信仰的领域——如斯蒂芬·埃文斯所言——是“信仰者*带给*宗教真理之证据与反证据的假定、信念与态度”（Evans 1985, 178）[^evans-1985]，而信仰的认知成分对我们经验的世界提供一个“总体诠释”（Hick 1966, 154）[^hick-1966]，那么（奠基性的）信仰命题便作为“最高阶的框架原则”起作用，其真理*必然*无法靠诉诸一批独立证据的力量来判定（Bishop 2007a, 139–44）[^bishop-2007a]。于是，把这样一个信仰命题当作真，不是有程度之分的事：一个人要么“接受”（奠基性）信仰命题所提出的总体世界观，要么不接受。这样一种选择在生存上至关重要，而了结它会引起焦虑——因为行使一项责任而该责任无法（若不“自欺”的话）转嫁给理性那相对无人格的功能，因为需要一次越出任何主体间理性证据确证的冒险。因此，信念冒险模型或可视为比符合证据主义的模型更令人满意地把握了信仰的精神性挑战。这是因为，在信念冒险模型上，信仰包含对自我倚赖之掌控的更深放弃——不仅在信任上帝时，而且在实践承诺的层面上接受有一位上帝——确然，*这位*上帝——值得信任。
+    step2: |-
+      如果信仰的领域——如斯蒂芬·埃文斯所言——是“信仰者*带给*宗教真理正反证据的假定、信念与态度”（Evans 1985, 178）[^evans-1985]，而信仰的认知成分对我们的经验世界提供一种“总体诠释”（Hick 1966, 154）[^hick-1966]，那么（奠基性的）信仰命题便充任“最高阶的框架原则”：其真理*必然*无法靠诉诸一批独立证据之力来判定（Bishop 2007a, 139–44）[^bishop-2007a]。于是，把这样一个信仰命题当作真，不是有程度之分的事：人要么“接受”（奠基性）信仰命题所提出的整体世界观，要么不接受。这样一次选择在生存上至关紧要；而要了结它，便引来焦虑——人所行使的是一项责任，而这责任（若不想“自欺”）无法转嫁给理性那相对无人格的功能，因为这里需要一次越出一切主体间理性证据确证的冒险。因此，与合乎证据主义的模型相比，信念冒险模型或可视为更令人满意地捕捉到了信仰的精神性挑战。理由在于：在信念冒险模型上，信仰包含对自我倚赖之掌控的更深弃绝——不仅在信任上帝之际，而且在实践承诺的层面上接受确有一位上帝——而且正是*这位*上帝——值得信任。
   - id: 73
     kind: body
     source: |-
       *Doxastic venture models of faith and epistemic concern*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **信念冒险模型与认识关切**
+    step2: |-
+      **信念冒险模型与认识关切**
   - id: 74
     kind: body
     source: |-
       Doxastic venture in relation to faith-propositions can be justifiable, of course, only if there are legitimate exceptions to the evidentialist requirement to take a proposition to be true just to the extent of its evidential support—and only if the legitimate exceptions include the kind of case involved in religious, theistic, faith-commitment.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当然，与信仰命题相关的信念冒险要能正当，唯有当证据主义要求——按命题的证据支持程度把它当作真——存在正当的例外，而且唯有当那些正当例外包含宗教的、有神论的信仰承诺所涉及的那类情形。
+    step2: |-
+      当然，与信仰命题相关的信念冒险要谈得上正当，须有两个前提：其一，“按命题所获证据支持的程度将其当作真”这条证据主义要求，须有正当的例外；其二，这些正当例外须涵盖宗教的、有神论的信仰承诺所涉及的那类情形。
   - id: 75
     kind: body
     source: |-
       A possible view of theistic faith-commitment is that it is wholly independent of the epistemic concern that cares about evidential support. On this view, faith reveals its authenticity most clearly when it takes faith-propositions to be true *contrary to* the weight of the evidence. This view is widely described as ‘fideist’, but ought more fairly to be called *arational* fideism, or, where commitment contrary to the evidence is positively favoured, *irrational* or *counter-rational* fideism. Despite its popular attribution both to the church father Tertullian and to ‘the father of existentialism’, Kierkegaard, counter-rational fideism does not seem to have been espoused by any significant theist philosophers (passages in Tertullian and Kierkegaard that appear to endorse this position may be interpreted as emphasizing that Christian faith requires accepting, not logical contradiction, but ‘contradiction’ of our ‘natural’ expectations, wholly overturned in the revelation that the power of divine love is triumphant in the Crucified One).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于有神论信仰承诺的一种可能观点是：它全然独立于关心证据支持的认识关切。按这一观点，当信仰*逆着*证据的分量把信仰命题当作真时，它最清晰地显出其本真性。这一观点被广泛描述为“信仰主义的”，但更公允地应称作*无关于理性的*信仰主义，或者，在逆证据的承诺受到正面青睐的情形下，称作*不理性的*或*反理性的*信仰主义。尽管它被通俗地归诸教父德尔图良与“存在主义之父”克尔凯郭尔，反理性的信仰主义似乎并未被任何重要的有神论哲学家信奉（德尔图良与克尔凯郭尔著作中貌似支持这一立场的段落，可以解读为强调：基督教信仰要求接受的不是逻辑矛盾，而是对我们“自然”预期的“矛盾”——这些预期在“神圣之爱的大能在被钉十字者身上得胜”这一启示中被全然翻转）。
+    step2: |-
+      关于有神论信仰承诺，一种可能的看法是：它全然独立于关切证据支持的认识关切。照此看法，当信仰*逆着*证据的分量把信仰命题当作真时，其本真性显露得最为清澈。这一立场常被称作“信仰主义的”；但更公允的说法是*无关于理性的*（arational）信仰主义，而在逆证据的承诺受到正面青睐之处，则是*不理性的*（irrational）或*反理性的*（counter-rational）信仰主义。尽管世人都爱把它归到教父德尔图良与“存在主义之父”克尔凯郭尔头上，反理性的信仰主义似乎从未被任何重要的有神论哲学家所信奉（德尔图良与克尔凯郭尔笔下貌似支持这一立场的段落，可以解读为强调：基督教信仰要求人接受的，并非逻辑矛盾，而是对我们“自然”预期的“矛盾”——在“神圣之爱的大能在被钉十字者身上得胜”的启示中，这些预期被全然翻转）。
   - id: 76
     kind: body
     source: |-
       Serious philosophical defence of a doxastic venture model of faith thus implies a moderate version of fideism, for which epistemic concern is not overridden and for which, therefore, it is a constraint on faith-commitment that it *not* accept what is known, or justifiably believed on the evidence, to be false. Rather, faith commits itself only *beyond*, and not against, the evidence—and it does so *out of* epistemic concern to grasp truth on matters of vital existential importance. The thought that one may be entitled to commit to an existentially momentous truth-claim in principle undecidable on the evidence when forced to decide either to do so or not is what motivates William James’s ‘justification of faith’ in ‘The Will to Believe’ (James 1896 [1956])[^james-1896]. If such faith is to be justified, its cognitive content will (on realist assumptions) have to cohere with our best evidence-based theories about the real world. Faith may extend our scientific grasp of the real, but may not counter it. Whether the desire to grasp more truth about the real than science can supply is a noble aspiration or a dangerous delusion is at the heart of the debate about entitlement to faith on this moderate fideist doxastic venture model.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，对信念冒险模型的严肃哲学辩护蕴含一种温和版本的信仰主义：在其中认识关切未被压制，因此对信仰承诺的一项约束是它*不*接受已知为假、或依证据可正当地相信为假的东西。毋宁说，信仰只*超越*证据而不违抗证据地委身——而且它这样做是*出于*把握重大生存攸关之事上真理的认识关切。当一个人被迫在“委身于一项在证据上原则上不可判定的、生存上重大的真理主张”与“不委身”之间作决断时，他可以有权利选择委身——正是这一思想推动威廉·詹姆斯在“信仰的意志”中作出“信仰的辩护”（James 1896 [1956]）[^james-1896]。如果这样的信仰要得到辩护，其认知内容将（在实在论假定下）必须与我们关于实在世界的最佳证据性理论融贯。信仰可以扩展我们对实在的科学把握，但不得与之对抗。把握多于科学所能供给的关于实在的真理，这一欲望究竟是高贵的抱负还是危险的迷妄——这正是这一温和信仰主义信念冒险模型上关于信仰权利之争的核心。
+    step2: |-
+      于是，对信念冒险模型的严肃哲学辩护，蕴含一种温和版的信仰主义：在其中，认识关切并未被压制；因此，信仰承诺受一条约束——它*不得*接受已知为假、或依证据可正当地相信为假的东西。毋宁说，信仰只*超越*证据而委身，绝不违抗证据——而且其委身*出于*认识关切：要在生死攸关之事上把握真理。当人被迫在“委身与否”之间作决断时，对一项在证据上原则上不可判定、却在生存上举足轻重的真理主张，人可以有权利选择委身——正是这一思想推动了威廉·詹姆斯在“信仰的意志”中的“信仰辩护”（James 1896 [1956]）[^james-1896]。这样的信仰若要得到辩护，其认知内容（在实在论假定下）便必须与我们关于实在世界的最佳证据性理论相融贯。信仰可以扩展我们对实在的科学把握，却不得与之作对。至于“把握多于科学所能供给的实在真理”这一欲望究竟是高贵的抱负还是危险的迷妄——正是这一温和信仰主义的信念冒险模型上信仰权利之争的核心所在。
   - id: 77
     kind: body
     source: |-
       A discussion of the debate between the moderate, Jamesian, fideist and the evidentialist is beyond this entry’s scope. Still, it is worth remarking that those who think that faith understood as doxastic venture may be justified as reasonable face the challenge of providing the tools for weeding out intuitively unreasonable forms of faith. On the other side, those evidentialists who reject doxastic venture as always impermissible have to consider whether taking a stance on the nature of reality beyond anything science can even in principle confirm may not, in the end, be unavoidable, and potentially implicated in the commitments required for science itself (see Bishop 2007a, Chapters 8 and 9; Bishop 2023)[^bishop-2007a][^bishop-2023][^bishop-2023-2]. For a useful recent collection of articles on the wider theme of the relation of religious faith to intellectual virtue, see Callahan and O’Connor 2014.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对温和的、詹姆斯式的信仰主义者与证据主义者之间论辩的讨论，超出本词条的范围。尽管如此，值得一提：那些认为作为信念冒险的信仰可以被辩护为合理的人，面临一个挑战——提供能把直觉上不合理的信仰形式清除出去的工具。另一方面，那些把信念冒险拒斥为总是不可允许的证据主义者，则必须考虑：就实在的本性采取一个超出科学在原则上所能确证之物的立场，最终或许不可避免，而且可能与科学自身所需的承诺有牵连（见 Bishop 2007a, Chapters 8 and 9; Bishop 2023）[^bishop-2007a][^bishop-2023][^bishop-2023-2]。关于宗教信仰与理智德性之关系这一更宽主题的一辑有用的近期文集，见 Callahan and O'Connor 2014。
+    step2: |-
+      温和的、詹姆斯式的信仰主义者与证据主义者之间的论辩，本词条存而不论。尽管如此，值得一提：凡认为“作为信念冒险的信仰可以辩护为合理”者，都面临一个挑战——须拿出能把直觉上不合理的信仰形式淘汰掉的工具。而另一边，那些把信念冒险一律拒为不可允许的证据主义者，则必须考虑：就实在的本性采取一个超出科学在原则上所能确证之物的立场，到头来或许不可避免，甚至可能与科学自身所需的承诺相牵连（见 Bishop 2007a, Chapters 8 and 9; Bishop 2023）[^bishop-2007a][^bishop-2023][^bishop-2023-2]。至于宗教信仰与理智德性之关系这一更宽主题，可参看一部有用的近期文集：Callahan and O'Connor 2014。
   - id: 78
     kind: body
     source: |-

@@ -2,7 +2,7 @@
   "slug": "nominalism-metaphysics",
   "kind": "retranslate",
   "zh_doc": "n/nominalism-metaphysics.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-11-09T23:05:56Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "N-main-20261110",
+      "at": "2026-11-10T01:17:17Z",
+      "evidence": "零信任全量重译：96 段账本双版（step1/step2）落盘，lq compose 生成 45,663 字符；源文 13,604 英文词；段落 254/254、marker 160/160、defs 159/159、节集合一致（另含 ## 致谢）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "N-main-20261110",
+      "at": "2026-11-10T01:17:17Z",
+      "evidence": "一校（准确性）：逐节对照 yuanwen 核销；脚注 marker 集全等 160、defs 键集全等 159（compose 照录）、非空段落 254/254；术语按册（唯名论/共相/抽象实体/特普/分体论/事物论/具体主义）；引文 (1)-(5) 编号与逻辑式 (5) 逐字核对"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "N-main-20261110",
+      "at": "2026-11-10T01:17:17Z",
+      "evidence": "二校（语言）：check_prose --strict 初检 40 条 → 实修 13 处（weak-verb 4→0、passive-bei 3→1、长句拆分 8 处含 (3)/(5) 编号句重排），残余 27 条逐类豁免（长句 13、的链 13、被动 1：术语密集定义句与引文内结构，按 ADR-0020 留痕）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "N-main-20261110",
+      "at": "2026-11-10T01:17:18Z",
+      "evidence": "三校（体例）：check_style 0 issue（ASCII 直引号 574 处→中文弯引号、单引号 20 处→‘ ’、CJK 斜体 156 处→加粗并补空格、书名号内斜体剥离）；check_academic --strict 0 硬错误；check_math 0 问题"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "N-main-20261110",
+      "at": "2026-11-10T01:17:18Z",
+      "evidence": "初审：§1/§2 抽读对照源文，未见漏译错译；质性本性—特普—严格唯名论三分链与源文论证一致；(1)-(3) 与 (4)/(5) 例证编号、逻辑式保持"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "N-main-20261110",
+      "at": "2026-11-10T01:17:18Z",
+      "evidence": "复审：§3/§4 回核源文；真值制造者/蒯因/弗雷格三路论证与归类核对；十一种严格唯名论名称与源文一一对应（类/谓词/概念/相似/元语言/因果/分体/事物/二阶/奠基/朴素）；改述 (4)→(5) 逻辑结构核对"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "N-main-20261110",
+      "at": "2026-11-10T01:17:19Z",
+      "evidence": "终审：check_style 0 / check_academic --strict 0 / check_math 0 / prose 27 条全部逐类豁免留痕 / 结构对账 marker 160、defs 159、段落 254 全等；单会话作业，按 ADR-0020 提请评审线冷置复读"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "N-main-20261110",
+      "at": "2026-11-10T01:17:19Z",
+      "evidence": "done：nominalism-metaphysics 全量重译收口；13,604 英文词 / 45,663 字符 / 96 段账本双版齐备；N 批完成度 +1"
     }
   ],
   "blockers": [],

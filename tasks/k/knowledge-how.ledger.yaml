@@ -11,104 +11,138 @@ segments:
     kind: body
     source: |-
       In introductory classes to epistemology, we are taught to distinguish between three different kinds of knowledge. The first kind is *acquaintance knowledge*: we know our mothers, our friends, our pets, etc., by being acquainted with them. The second kind is knowledge of facts, propositional knowledge, or *knowledge-that*: this is the sort of knowledge we acquire when we learn that, say, Ithaca is in New York State or that Turin is located in Italy. It is customary to add to the list a *third* kind of knowledge that is supposed to be distinct both from acquaintance knowledge and from propositional knowledge. One possesses this knowledge when one can be truly described as *knowing how* to do something: play the piano, make a pie, walk, speak, create, build, and so on.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在知识论的导论课上，我们被教导去区分三种不同的知识。第一种是亲知（*acquaintance knowledge*）：我们认识自己的母亲、朋友、宠物等等，是因为我们与它们相识。第二种是关于事实的知识、命题知识，或“知道那”（*knowledge-that*）：这是我们学到，比如说，伊萨卡在纽约州、或都灵在意大利时，所获得的那种知识。按惯例还要在这份清单上加上第三种知识，它应当既不同于亲知，也不同于命题知识。当一个人可以被真正地描述为“知道如何”（*knowing how*）做某事——弹钢琴、做馅饼、走路、说话、创造、建造等等——他就拥有这种知识。
+    step2: |-
+      在知识论的入门课上，我们被教导区分三种不同的知识。第一种是 **亲知**（*acquaintance knowledge*）：我们认识自己的母亲、朋友、宠物等等，靠的是与他们相识。第二种是关于事实的知识，即命题性知识，或 **命题知识**（*knowledge-that*）：这是我们得知，比方说，伊萨卡位于纽约州、都灵位于意大利时，所获得的知识。按惯例还要在清单上加上 **第三种** 知识，它应当既不同于亲知，也不同于命题知识。当一个人可以被真正地描述为 **知道如何** 做某事——弹钢琴、做馅饼、走路、说话、创造、建造等等——他便拥有这种知识。
   - id: 2
     kind: body
     source: |-
       The distinction between knowledge-how and knowledge-that was brought to scrutiny in analytic philosophy by Ryle in his seminal *The Concept of Mind* (1949), where he raised some of the now classical objections to the so-called “intellectualist legend”: the view that knowledge-how amounts to knowledge-that. Ryle instead advocated an “anti-intellectualist” view of knowledge-how according to which knowledge-how and knowledge-that are distinct kinds of knowledge, and manifestations of knowledge-how are not necessarily manifestations of knowledge-that. This anti-intellectualism has been the received view among philosophers for a long time. Even psychologists and neuroscientists have explicitly appealed to Ryle’s classical distinction when discussing their empirical findings (e.g., Cohen & Squire 1980; Anderson 1983)[^anderson-1983][^cohen-1980]. Nevertheless, in the last twenty years, a renewed interest by epistemologists in the nature of knowledge-how has brought new life to the debate, where new versions of intellectualism and anti-intellectualism have been developed and argued for. The debate is partly epistemological: is knowledge-how an altogether distinct kind of knowledge, different from knowledge-that? But it is also about a psychological question: what kind of psychological state is knowledge-how? The goal of this entry is to overview the debate between intellectualists and anti-intellectualists, while highlighting the implications of this debate for related questions concerning intelligence, cognition, language, and skills.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      知识-如何与命题知识之间的区别，被赖尔在其开创性著作《心的概念》（*The Concept of Mind*，1949）中带入分析哲学的审视，他在书中提出了若干如今已成经典的反对意见，针对所谓的“理智主义传说”：即知识-如何等于命题知识的观点。赖尔则主张一种关于知识-如何的“反理智主义”观点，据此知识-如何与命题知识是不同种类的知识，知识-如何的展现不必然是命题知识的展现。这种反理智主义长期以来是哲学家的公认之见。甚至心理学家和神经科学家在讨论其实证发现时也明确援引赖尔的经典区分（例如 Cohen & Squire 1980；Anderson 1983）[^anderson-1983][^cohen-1980]。然而在过去二十年里，知识论学者对知识-如何之本性的重新兴趣，使这场争论重获生机，其间提出了新的理智主义与反理智主义版本并加以论证。这场争论部分是知识论的：知识-如何是否是完全不同的一种知识，有别于命题知识？但它也关乎一个心理学问题：知识-如何是何种心理状态？本文的目标是概述理智主义者与反理智主义者之间的争论，同时凸显这场争论对智能、认知、语言与技能等相关问题的意涵。
+    step2: |-
+      知识-如何（knowledge-how）与命题知识之别，由赖尔（Ryle）在其奠基之作《心的概念》（*The Concept of Mind*，1949）中带入分析哲学的视野。他在书中提出若干至今已成经典的反对意见，针对所谓“理智主义传说”（intellectualist legend）——即知识-如何可归结为命题知识的观点。赖尔则主张一种“反理智主义”（anti-intellectualist）的知识-如何观：知识-如何与命题知识分属不同种类，知识-如何的展现不必是命题知识的展现。这一反理智主义长期是哲学家的公认之见。甚至心理学家与神经科学家在讨论其实证发现时，也明确援引赖尔的经典区分（例如 Cohen & Squire 1980；Anderson 1983）[^anderson-1983][^cohen-1980]。然而近二十年来，知识论学者对知识-如何之本性的重新关注，使这场争论重获生机：其间发展出理智主义与反理智主义的新版本，并为之论证。这场争论一部分是知识论的：知识-如何是否是完全不同的一种知识，有别于命题知识？但它也关乎一个心理学问题：知识-如何是何种心理状态？本文的目标是概述理智主义者与反理智主义者之间的争论，并凸显这场争论对智能、认知、语言与技能等相关问题的意涵。
   - id: 3
     kind: body
     source: |-
       This entry starts by looking at some classical arguments against intellectualism about knowledge-how: the regress argument (section 1), the insufficiency argument (section 2), and the gradability argument (section 3). Then two motivating arguments for intellectualism are considered: the linguistic argument (section 4) and the action theory argument (section 5). Section 6 overviews the recent epistemological debate on whether knowledge-how and propositional knowledge have the same epistemic profile. Section 7 discusses the cognitive science argument against intellectualism. Section 8 surveys what forms anti-intellectualism about knowledge-how has taken in the recent literature. Section 9 looks at the relation between knowledge-how and skills. Section 10 discusses knowledge-how and other related topics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本文首先考察一些反对知识-如何之理智主义的经典论证：无穷倒退论证（第 1 节）、不充分性论证（第 2 节）与可分级性论证（第 3 节）。然后考察两个为理智主义提供动机的论证：语言学论证（第 4 节）与行动理论论证（第 5 节）。第 6 节概述晚近知识论上关于知识-如何与命题知识是否具有相同知识论侧写的争论。第 7 节讨论反对理智主义的认知科学论证。第 8 节综览反理智主义关于知识-如何在晚近文献中所采取的诸形态。第 9 节考察知识-如何与技能的关系。第 10 节讨论知识-如何及其他相关论题。
+    step2: |-
+      本文先考察若干反对知识-如何之理智主义的经典论证：无穷倒退论证（第 1 节）、不充分性论证（第 2 节）与可分级性论证（第 3 节）。随后考察为理智主义辩护的两个动机性论证：语言学论证（第 4 节）与行动理论论证（第 5 节）。第 6 节概述晚近知识论上关于知识-如何与命题知识是否具有相同知识论侧写的争论。第 7 节讨论反对理智主义的认知科学论证。第 8 节综览晚近文献中反理智主义关于知识-如何所取的诸种形态。第 9 节考察知识-如何与技能的关系。第 10 节讨论知识-如何及其他相关论题。
   - id: 4
     kind: body
     source: |-
       ## 1. The Regress Argument
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1 无穷倒退论证
+    step2: |-
+      ## 1 无穷倒退论证
   - id: 5
     kind: body
     source: |-
       Ryle’s most famous objection to intellectualist accounts of skills and knowledge-how is that they lead to a vicious regress:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      赖尔对技能与知识-如何的理智主义说明所提最著名的反对意见是：这类说明导致恶性无穷倒退：
+    step2: |-
+      赖尔对技能与知识-如何之理智主义说明最著名的反对意见是：它们导致恶性无穷倒退：
   - id: 6
     kind: body
     source: |-
       > The consideration of propositions is itself an operation the execution of which can be more or less intelligent, less or more stupid. But if, for any operation to be intelligently executed, a prior theoretical operation had first to be performed and performed intelligently, it would be a logical impossibility for anyone ever to break into the circle. (1949: 19)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 对命题的考虑本身就是一种操作，其执行可以有不同程度的聪明，也可以有不同程度的愚蠢。但若任何操作要得到聪明的执行，都必须先执行一项先在的理论操作、并且聪明地执行它，那么任何人要进入这一循环，在逻辑上便都不可能。（1949: 19）
+    step2: |-
+      > 对命题的考虑本身是一种操作，其执行可以有不同程度的聪明，也可以有不同程度的愚笨。但若任何操作若要得到聪明的执行，都须先执行一种先在的理论操作、且须聪明地执行，那么任何人要打破这一循环便都逻辑上不可能。（1949: 19）
   - id: 7
     kind: body
     source: |-
       Ryle concludes:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      赖尔由此下结论说：
+    step2: |-
+      赖尔由此得出结论：
   - id: 8
     kind: body
     source: |-
       > “Intelligent” cannot be defined in terms of “intellectual” or “knowing how” in terms of “knowing that”, (1949: 20)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > “聪明”不能用“智性”来定义，“知道如何”也不能用“知道那”来定义，（1949: 20）
+    step2: |-
+      > “聪明”不能用“智性”来定义，“知道如何”也不能用“知道那”来定义，（1949: 20）
   - id: 9
     kind: body
     source: |-
       on pain of a vicious regress (see also Ryle 1946: 22)[^ryle-1946]. Exactly how to reconstruct Ryle’s argument is a matter of controversy (Stanley & Williamson 2001; Stanley 2011b; Bengson & Moffett 2011a; Cath 2013; Fantl 2011; Kremer 2020)[^bengson-2011a][^cath-2013][^kremer-2020][^stanley-2011b][^stanley-2001]. The next sections discuss different possible ways of understanding the regress challenge and possible responses on behalf of intellectualism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      否则就会陷入恶性倒退（另见 Ryle 1946: 22）[^ryle-1946]。究竟如何重构赖尔的论证，尚有争议（Stanley & Williamson 2001；Stanley 2011b；Bengson & Moffett 2011a；Cath 2013；Fantl 2011；Kremer 2020）[^bengson-2011a][^cath-2013][^kremer-2020][^stanley-2011b][^stanley-2001]。以下各节讨论理解这一倒退挑战的几种可能方式，以及站在理智主义一边的可能回应。
+    step2: |-
+      否则便陷于恶性倒退（另见 Ryle 1946: 22）[^ryle-1946]。究竟如何重构赖尔的论证，尚存争议（Stanley & Williamson 2001；Stanley 2011b；Bengson & Moffett 2011a；Cath 2013；Fantl 2011；Kremer 2020）[^bengson-2011a][^cath-2013][^kremer-2020][^stanley-2011b][^stanley-2001]。以下各节讨论理解这一倒退挑战的几种可能方式，以及为理智主义辩护的可能回应。
   - id: 10
     kind: body
     source: |-
       ### 1.1 The Contemplation Argument
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.1 沉思论证
+    step2: |-
+      ### 1.1 沉思论证
   - id: 11
     kind: body
     source: |-
       The contemplation argument assumes for *reductio* that for any action to be intelligently executed, a prior theoretical operation of “contemplating” has to be performed first :
-    step1: TBD
-    step2: TBD
+    step1: |-
+      沉思论证为了归谬而假定：任何行动要得到聪明的执行，都必须先执行一项“沉思”的在先理论操作：
+    step2: |-
+      沉思论证为归谬而假定：任何行动若要得到聪明的执行，都必须先执行一种“沉思”的在先理论操作：
   - id: 12
     kind: body
     source: |-
       **Contemplation premise (CP):** In order to employ one’s knowledge that *p*, one must contemplate the proposition *p*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **沉思前提（CP）**：要运用自己知道 *p*，人必须沉思命题 *p*。
+    step2: |-
+      **沉思前提（CP）**：要运用自己知道 *p*，人必须沉思命题 *p*。
   - id: 13
     kind: body
     source: |-
       Assume in addition the following definition of intellectualism:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外再假定理智主义的如下定义：
+    step2: |-
+      此外还假定理智主义的如下定义：
   - id: 14
     kind: body
     source: |-
       **Strong intellectualism (SI)**: For an action Φ, knowing how to Φ consists in knowing some proposition *p*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **强理智主义（SI）**：对于行动 Φ，知道如何 Φ 就在于知道某个命题 *p*。
+    step2: |-
+      **强理智主义（SI）**：对于行动 Φ，知道如何 Φ 就在于知道某个命题 *p*。
   - id: 15
     kind: body
     source: |-
       And assume further that in performing an action Φ, one employs one’s knowledge-how to Φ:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      并进一步假定：在执行行动 Φ 时，人运用了自己关于如何 Φ 的知识：
+    step2: |-
+      并进一步假定：在执行行动 Φ 时，人运用了自己关于如何 Φ 的知识：
   - id: 16
     kind: body
     source: |-
       **Action premise (AP)**: For an action Φ, if one Φs, then one employs one’s knowledge-how to Φ.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **行动前提（AP）**：对于行动 Φ，若某人 Φ，则他运用了自己关于如何 Φ 的知识。
+    step2: |-
+      **行动前提（AP）**：对于行动 Φ，若某人 Φ，则他运用了自己关于如何 Φ 的知识。
   - id: 17
     kind: body
     source: |-
       With these premises the regress goes as follows. Suppose that one performs an action Φ:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有了这些前提，倒退便如下展开。设某人执行行动 Φ：
+    step2: |-
+      有了这些前提，倒退如下展开。设某人执行行动 Φ：
   - id: 18
     kind: body
     source: |-
@@ -118,56 +152,84 @@ segments:
       4. But contemplating *p* is an action.
       5. So by AP, if one contemplates *p,* one employs one’s knowledge-how to contemplate *p*.
       6. By CP, one ought to contemplate another proposition *q*, for some *q*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 由 AP，他运用了自己关于如何 Φ 的知识。
+      2. 由 SI，他运用了知道某个 *p* 的知识。
+      3. 故由 CP，他沉思 *p*。
+      4. 但沉思 *p* 是一个行动。
+      5. 故由 AP，若他沉思 *p*，他便运用了自己关于如何沉思 *p* 的知识。
+      6. 由 CP，他应当沉思另一命题 *q*，*q* 为某个命题。
+    step2: |-
+      1. 由 AP，他运用了自己关于如何 Φ 的知识。
+      2. 由 SI，他运用了知道某个 *p* 的知识。
+      3. 故由 CP，他沉思 *p*。
+      4. 但沉思 *p* 是一个行动。
+      5. 故由 AP，若他沉思 *p*，他便运用了自己关于如何沉思 *p* 的知识。
+      6. 由 CP，他应当沉思另一个命题 *q*，*q* 为某个命题。
   - id: 19
     kind: body
     source: |-
       And so on.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如此以致无穷。
+    step2: |-
+      如此以至无穷。
   - id: 20
     kind: body
     source: |-
       The contemplation argument aims at showing the falsity of SI, by showing that its truth, together with the truth of AP and CP, triggers an infinite regress. If SI were true, then performing any action would require contemplating an infinite number of propositions of ever-increasing complexity. On the assumption that this cannot be done in a finite amount of time, the argument goes, accepting SI would lead to the clearly absurd conclusion that no agent could ever perform an action within a finite time (see Fantl 2011: 122).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      沉思论证意在表明 SI 是假的：表明它的真，连同 AP 与 CP 的真，会触发无穷倒退。如果 SI 是真的，那么执行任何行动都将要求沉思无穷多个复杂度不断增加的命题。在这个无法在有限时间内完成的假定下，论证继续说，接受 SI 就会导致一个明显荒谬的结论：没有任何行动者能在有限时间内执行任何行动（见 Fantl 2011: 122）。
+    step2: |-
+      沉思论证意在表明 SI 为假：其真，连同 AP 与 CP 为真，会触发无穷倒退。若 SI 为真，则执行任何行动都将要求沉思无穷多个复杂度递增的命题。该论证接着说，假定这无法在有限时间内完成，则接受 SI 将导致一个显然荒谬的结论：任何行动者在有限时间内都无法执行任何行动（见 Fantl 2011: 122）。
   - id: 21
     kind: body
     source: |-
       The question is whether AP and CP are plausible premises. Following Ginet (1975), Stanley & Williamson (2001) argue that AP is plausible only if the relevant Φ is an *intentional* action. To use one of Ryle’s (1949: 33) own examples, if a clumsy person inadvertently tumbles, it does not follow that in doing so, they employ their knowledge-how to tumble. By contrast, the clown employs their knowledge-how when they tumble on purpose. Nevertheless, if we restrict AP to intentional actions, then the regress can be stopped by observing that contemplating a proposition might happen non-intentionally. For example, when I employ my knowledge that there is a red light ahead by applying the brakes, I need not intentionally contemplate the proposition that there is a red light ahead. Correspondingly, if contemplating a proposition can be done non-intentionally, such contemplation is not the kind of action that requires us to know how to perform it—therefore, it does not trigger the restricted AP and the regress is blocked altogether. Some object that the contemplation in this example might be intentional but *unconscious* (as suggested by Noë 2005: 282)[^noë-2005]. But it is unclear what reasons there are for thinking that every time one employs one’s knowledge, one intentionally contemplates the relevant proposition (Cath 2013: 365–366)[^cath-2013].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      问题在于 AP 和 CP 是否是合理的前提。继 Ginet（1975）之后，Stanley & Williamson（2001）认为 AP 只有在相关 Φ 是意向性行动时才合理。用赖尔（1949: 33）自己的一个例子说，如果一个笨拙的人不留意跌倒，并不能推出他这样做时运用了自己关于如何跌倒的知识。相反，小丑有意跌倒时才运用了自己的知识-如何。然而，如果我们把 AP 限制于意向性行动，那么可以通过指出沉思一个命题可能是非意向地发生的来阻断倒退。例如，当我踩刹车以运用“前方有红灯”这一知识时，我不必有意地沉思“前方有红灯”这个命题。相应地，如果沉思一个命题可以非意向地完成，那么这种沉思就不是那种要求我们知道如何去做的行动——因此它不触发受限的 AP，倒退便被完全阻断。有人反驳说，这个例子中的沉思可能是有意的，但却是潜意识的（如 Noë 2005: 282 所提示）[^noë-2005]。但很难说有什么理由认为，人每次运用自己的知识，都在有意地沉思相关的命题（Cath 2013: 365–366）[^cath-2013]。
+    step2: |-
+      问题在于 AP 与 CP 是否为合理的前提。继 Ginet（1975）之后，Stanley & Williamson（2001）主张：AP 只有在相关 Φ 为 **意向性** 行动时才合理。用赖尔（1949: 33）自己的一个例子说，若一个笨拙的人不慎跌倒，并不能推出他这样做时运用了自己关于如何跌倒的知识；相反，小丑有意跌倒时才运用了其知识-如何。然而，若把 AP 限于意向性行动，则可通过指出沉思一个命题可能是非意向地发生的来阻止倒退。例如，当我踩刹车以运用“前方有红灯”这一知识时，我不必有意地沉思“前方有红灯”这个命题。相应地，若沉思一个命题可以非意向地完成，则这种沉思便不是那种要求我们知道如何去做的行动——因此它不触发受限的 AP，倒退便被完全阻断。有人反驳说，此例中的沉思可能有意为之，只不过 **是无意识的**（如 Noë 2005: 282 所提示）[^noë-2005]。但很难说有什么理由认为：人每次运用自己的知识，都在有意地沉思相关命题（Cath 2013: 365–366）[^cath-2013]。
   - id: 22
     kind: body
     source: |-
       The Contemplation Argument also assumes CP—i.e., that in order to employ propositional knowledge when acting, one ought to contemplate the relevant proposition. Against CP, Ginet (1975: 7) observes that one might manifest one’s knowledge that one can get the door open by turning the knob and pushing it (as well as my knowledge that there is a door there) by performing that operation quite automatically as one leaves the room; and one may do this without formulating (in one’s mind or out loud) that proposition or any other relevant proposition. Ginet concludes that Ryle’s original argument does not teach us that intellectualism about knowledge-how is false but only that knowledge can be acted upon and manifested without requiring any contemplation on the part of the agent. Indeed, some scholars think that this last weaker claim was the only goal of Ryle’s original argument (Rosefeldt 2004; Sax 2010)[^rosefeldt-2004][^sax-2010].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      沉思论证还假定 CP——即在行动中运用命题知识时，人应当沉思相关的命题。针对 CP，Ginet（1975: 7）指出：人可以在离开房间时相当自动地执行“转动把手并推门”这一操作，从而展现自己知道转动把手并推门就能把门打开（以及知道自己知道那里有门）；而人这样做时，并不在心里或出声地表述那个命题或任何其他相关命题。Ginet 由此得出结论：赖尔原来的论证并没有教我们知识-如何上的理智主义是假的，而只是说知识可以被据以行动、可以被展现，而无须行动者方面作任何沉思。的确，一些学者认为这后一较弱的论断才是赖尔原论证的唯一目标（Rosefeldt 2004；Sax 2010）[^rosefeldt-2004][^sax-2010]。
+    step2: |-
+      沉思论证还假定 CP——即在行动中运用命题知识时，人应当沉思相关命题。针对 CP，Ginet（1975: 7）指出：人可能在离开房间时相当自动地执行“转动把手并推门”这一操作。他借此展现自己知道“转动把手并推门就能把门打开”（以及知道那里有门），而全程并不在心里或出声地表述该命题或任何相关命题。Ginet 由此得出结论：赖尔的原论证并未教我们知识-如何上的理智主义为假，它只表明知识可据以行动、可被展现，而无须行动者作任何沉思。实际上，一些学者认为这后一较弱的论断才是赖尔原论证的唯一目标（Rosefeldt 2004；Sax 2010）[^rosefeldt-2004][^sax-2010]。
   - id: 23
     kind: body
     source: |-
       ### 1.2 The Employment Regress
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.2 运用倒退
+    step2: |-
+      ### 1.2 运用倒退
   - id: 24
     kind: body
     source: |-
       However, CP is not needed in order to trigger a regress. Perhaps the argument can be salvaged by replacing contemplation with a weaker relation. Consider replacing CP with EP:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，触发倒退并不需要 CP。也许可以用一种更弱的关系来替代沉思，从而挽救这个论证。试以 EP 替代 CP：
+    step2: |-
+      然而，触发倒退并不需要 CP。也许可以用一种更弱的关系替代沉思，从而挽救该论证。试以 EP 取代 CP：
   - id: 25
     kind: body
     source: |-
       **The Employment Premise (EP):** If one employs knowledge that *p*, one employs knowledge-how to employ one’s knowledge that *p* (and one’s state of knowledge that *p* is distinct from one’s state of knowing how to employ one’s knowledge that *p*). (Cath 2013: 367–8)[^cath-2013]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **运用前提（EP）**：若人运用知道 *p* 的知识，则他运用了关于如何运用自己知道 *p* 的知识（并且，其知道 *p* 的知识状态，与他知道如何运用自己知道 *p* 的知识这一状态不同）。（Cath 2013: 367–8）[^cath-2013]
+    step2: |-
+      **运用前提（EP）**：若人运用知道 *p* 的知识，则他运用了关于如何运用自己知道 *p* 的知识（且其知道 *p* 的知识状态，有别于其知道如何运用自己知道 *p* 的知识状态）。（Cath 2013: 367–8）[^cath-2013]
   - id: 26
     kind: body
     source: |-
       The regress is triggered as before. Suppose one Φs:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      倒退便一如既往地被触发。设某人 Φ：
+    step2: |-
+      倒退如前被触发。设某人 Φ：
   - id: 27
     kind: body
     source: |-
@@ -177,1008 +239,1360 @@ segments:
       4. But employing one’s knowledge-how is an action.
       5. By AP, one employs one’s knowledge-how about employing our knowledge-how to employ one’s knowledge that *p*.
       6. By SI, that amounts to employing one’s knowledge of *q*, for some *q*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 由 AP，他运用了自己关于如何 Φ 的知识。
+      2. 由 SI，那等于运用了知道某个 *p* 的知识。
+      3. 由 EP，他需要运用自己关于如何运用“知道 *p*”的知识。
+      4. 但运用自己的知识-如何是一个行动。
+      5. 由 AP，他运用了自己关于如何运用“关于如何运用知道 *p* 的知识”的知识。
+      6. 由 SI，那等于运用了自己知道某个 *q* 的知识。
+    step2: |-
+      1. 由 AP，他运用了自己关于如何 Φ 的知识。
+      2. 由 SI，那等于运用了知道某个 *p* 的知识。
+      3. 由 EP，他需要运用自己关于如何运用“知道 *p*”的知识。
+      4. 但运用自己的知识-如何本身是一个行动。
+      5. 由 AP，他运用了自己关于如何运用“关于如何运用知道 *p* 的知识”的知识。
+      6. 由 SI，那等于运用了自己知道某个 *q* 的知识。
   - id: 28
     kind: body
     source: |-
       and so on.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如此等等。
+    step2: |-
+      如此等等。
   - id: 29
     kind: body
     source: |-
       Intellectualists might object to EP in ways similar to how CP was resisted—i.e., that not every action requires for its performance the employment of one’s knowledge-how: only intentional actions do, as the clown example suggests. According to this line of reply, employing one’s propositional knowledge might be more like a reflex in response to stimuli, rather than an action. Further, this version of the regress challenge may be accused of assuming that knowledge-that is “behaviorally inert” and needs to be intentionally selected or employed in order to be manifested. Yet, intellectualists have independent reasons to resist this picture (Stalnaker 2012)[^stalnaker-2012]. On the other hand, if Ryleans insist that employments of knowledge-that are actions of sort, it seems there is no principled reason why employments of knowledge-how would not be subject to the same requirement. Therefore, it looks like any regress generated for the intellectualist is generated for Ryle as well (Stanley 2011b: 14, 26; though see Fantl 2011 for a possible difference between the regress generated for Ryle and the regress generated for intellectualism)[^stanley-2011b].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      理智主义者可能以类似于抵抗 CP 的方式来反对 EP——也就是说，并非每个行动在执行时都要求运用知识-如何：只有意向性行动才如此，如小丑的例子所示。照这条回应路线，运用命题知识也许更像是对刺激的反射，而不是行动。进一步说，这一版本的倒退挑战可能被指责为假定命题知识是“行为上惰性的”，须被有意地选取或运用才能展现。但理智主义者有独立的理由来抵制这幅图景（Stalnaker 2012）[^stalnaker-2012]。另一方面，如果赖尔派坚持命题知识的运用也是一种行动，那么似乎没有原则性的理由说明为何知识-如何的运用不受同一要求约束。因此，看起来为理智主义生成的任何倒退，也同样为赖尔生成（Stanley 2011b: 14, 26；不过 Fantl 2011 认为为赖尔生成的倒退与为理智主义生成的倒退可能不同）[^stanley-2011b]。
+    step2: |-
+      理智主义者可能以类似抵抗 CP 的方式来反对 EP——即并非每个行动在执行时都要求运用知识-如何：只有意向性行动才如此，如小丑之例所示。按这条回应路线，运用命题知识或许更像对刺激的反射，而非行动。进一步说，这一版本的倒退挑战可能被指为：它假定命题知识“行为上惰性”，须有意地选取或运用方能展现。然而，理智主义者有独立的理由来抵制这幅图景（Stalnaker 2012）[^stalnaker-2012]。另一方面，若赖尔派坚持：运用命题知识本身也是一种行动，那么似乎没有原则性的理由说明为何运用知识-如何不受同一要求的约束。因此，看起来为理智主义生成的任何倒退，也同样为赖尔生成（Stanley 2011b: 14, 26；不过 Fantl 2011 认为为赖尔与为理智主义生成的倒退可能有所不同）[^stanley-2011b]。
   - id: 30
     kind: body
     source: |-
       ### 1.3 A Revival of the Regress Argument
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.3 倒退论证的复兴
+    step2: |-
+      ### 1.3 倒退论证的复兴
   - id: 31
     kind: body
     source: |-
       A variety of actions—say, remembering to check the car’s blindspot when reversing—can be intelligent even though they are not intentional. Or one might manifest intelligence through *processes*—e.g., by coming to understand a difficult proposition, without them even being actions. If one accepts that intelligent performances, whether intentional or not, are necessarily guided by knowledge-how, one might try to recast the regress argument by replacing AP with IPP (Weatherson 2017)[^weatherson-2017]:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      各种行动——比如说，倒车时记得查看车子的盲区——即使不是意向性的，也可以是聪明的。或者，人也可以通过一些过程来展现聪明——例如逐渐理解一个困难的命题，而这些过程甚至算不上行动。如果人接受：聪明的表现无论是否意向性，都必然受知识-如何引导，那么他可能尝试重铸倒退论证，用 IPP 取代 AP（Weatherson 2017）[^weatherson-2017]：
+    step2: |-
+      种种行动——如倒车时记得查看车子的盲区——可以是聪明的，尽管并非意向性行动。人也可能通过一些 **过程** 展现聪明——例如渐渐理解一个困难的命题，而这些过程甚至算不上行动。若人接受：聪明的表现无论是否意向性，都必然受知识-如何的引导，则他可能尝试重铸倒退论证，以 IPP 取代 AP（Weatherson 2017）[^weatherson-2017]：
   - id: 32
     kind: body
     source: |-
       **Intelligent performance premise (IPP):** For a performance Φ, if one Φs intelligently, one manifests one’s knowledge-how to Φ.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **聪明表现前提（IPP）**：对于表现 Φ，若某人聪明地 Φ，则他展现了自己关于如何 Φ 的知识。
+    step2: |-
+      **聪明表现前提（IPP）**：对于表现 Φ，若某人聪明地 Φ，则他展现了自己关于如何 Φ 的知识。
   - id: 33
     kind: body
     source: |-
       Now it seems plausible that one’s manifestation of propositional knowledge can be intelligent in some cases but not in others. For example, one might manifest one’s knowledge intelligently by bringing to bear one maxim that is appropriate instead of any other that is not to the particular situation which the agent faces. By IPP, if one’s manifestation of knowledge-that in a particular situation is intelligent, it requires one’s manifesting one’s knowledge-how. If intellectualism is true, that would in turn require manifesting one’s knowledge-that. If this manifesting of propositional knowledge is intelligent too, though unintentional, it requires knowledge-how. And so on. We get an infinite regress if one accepts that manifesting propositional knowledge can be an intelligent performance, also when it is not an intentional action. (For similar lines of argument, see also Fridland 2013, 2015; Löwenstein 2016: 276–80; Small 2017: 62–3)[^fridland-2013][^löwenstein-2016][^small-2017].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在，人的命题知识之展现，在某些情形下可以是聪明的，在另一些情形下则不然，这看起来是合理的。例如，人可以通过就行动者所面对的具体情境动用一条恰当的原则、而不是任何其他不恰当的原则，来聪明地展现自己的知识。由 IPP，如果人在某一情境中展现命题知识是聪明的，那么这种展现要求他展现自己的知识-如何。如果理智主义为真，那又要求他展现自己的命题知识。如果这一命题知识的展现也是聪明的——尽管非意向性——则它要求知识-如何。如此以致无穷。如果人接受展现命题知识可以是一种聪明的表现（即便它不是意向性行动），我们就得到无穷倒退。（类似的论证路线，另见 Fridland 2013, 2015；Löwenstein 2016: 276–80；Small 2017: 62–3）[^fridland-2013][^löwenstein-2016][^small-2017]。
+    step2: |-
+      现在看起来合理的是：人对命题知识的展现，在某些情形下可以是聪明的，在另一些情形下则不然。例如，人可以通过就行动者所处的具体情境选用一条恰当原则、而非其他不恰当原则，来聪明地展现自己的知识。由 IPP，若人在某一情境中展现命题知识是聪明的，则该展现要求他展现自己的知识-如何。若理智主义为真，那又要求他展现自己的命题知识。若这一命题知识的展现同样是聪明的——尽管非意向性——则它要求知识-如何。如此以至无穷。人若接受：展现命题知识可以是一种聪明的表现（即便它不是意向性行动），我们便得到无穷倒退。（类似的论证路线，另见 Fridland 2013, 2015；Löwenstein 2016: 276–80；Small 2017: 62–3）[^fridland-2013][^löwenstein-2016][^small-2017]。
   - id: 34
     kind: body
     source: |-
       Intellectualists might respond by distinguishing *two* senses in which a performance can be intelligent and two corresponding senses of manifestation, only one of which gives rise to the regress. First, an intelligent action might manifest one’s knowledge-how in the case that it is *guided* by this knowledge-how. On this reading, the regress is triggered. But there is also another—epistemic—sense in which an intelligent action manifests knowledge-how as long as it *provides evidence* for that knowledge-how. For example, the rings on a tree provide evidence for the tree’s age (hence manifest its age in the epistemic sense) but the rings on a tree are not guided by its age. Crucially, the regress does not arise on the epistemic sense of manifestation. Checking the blindspot might be intelligent in this epistemic sense of manifesting —providing evidence of—knowledge-how. Yet, this epistemic manifestation itself is not something that qualifies as intelligent or unintelligent.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      理智主义者可能回应说，应当区分表现得以被称为聪明的两种意义，以及相应的两种展现意义，而其中只有一种会引发倒退。第一，一个聪明的行动在受这种知识-如何引导的情况下，展现了人的知识-如何；按这种读法，倒退被触发。但还有另一种——知识论的——意义：只要一个聪明行动为那种知识-如何提供证据，它便展现了这种知识-如何。例如，树的年轮为树的年龄提供证据（因而在知识论意义上展现了其年龄），但年轮并不受树的年龄引导。关键在于，按展现的知识论意义，倒退并不产生。查看盲区在此意义上可能是聪明的——它展现（提供证据）了知识-如何。然而，这种知识论意义上的展现本身，并不属于可以被称为聪明或不聪明的东西。
+    step2: |-
+      理智主义者可能回应说，应区分表现可以被称为聪明的 **两种** 意义，以及相应的两种展现意义，其中只有一种会引发倒退。第一，一个聪明的行动在其受该知识-如何 **引导** 的情形下，展现了此知识-如何；按这种读法，倒退被触发。但还有另一种——知识论的——意义：只要一个聪明行动为该知识-如何 **提供证据**，它便展现了此知识-如何。例如，树的年轮为树的年龄提供证据（因而在知识论意义上展现了其年龄），但年轮并不受树的年龄引导。关键在于，按展现的知识论意义，倒退并不产生。查看盲区在此意义上可能是聪明的——它展现（提供证据）了知识-如何。然而，这种知识论意义上的展现本身，并不属于可以被称为聪明或不聪明的东西。
   - id: 35
     kind: body
     source: |-
       ### 1.4 Lewis Carroll’s Regress
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.4 刘易斯·卡罗尔的倒退
+    step2: |-
+      ### 1.4 刘易斯·卡罗尔的倒退
   - id: 36
     kind: body
     source: |-
       A less discussed regress that can be found in Ryle (1946: 6–7) is an adaptation of Lewis Carroll’s (1895) regress. Suppose a student understands the premises of an argument and also its conclusion but fails to see that the conclusion follows. In order to help him, the teacher teaches him another proposition *P*—i.e., if the premises are true, then the conclusion is true. The student understands this and yet fails to see how from the premises and the additional premise *P* the conclusion follows. A second hypothetical proposition is added to his store, the proposition that if the premises is true, the conclusion is true too. The student still fails to see. And so on. Ryle concludes:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在赖尔（1946: 6–7）中还可以找到一个较少被讨论的倒退，它是对刘易斯·卡罗尔（1895）倒退的改写。设一名学生理解一个论证的前提，也理解其结论，却看不出结论是由前提推出的。为了帮助他，老师教给他另一个命题 *P*——即如果前提为真，则结论为真。学生理解了这一点，却仍然看不出如何从前提和这个追加的命题 *P* 推出结论。于是在他的储备里再加进第二个假言命题：如果前提为真，则结论也为真。学生仍然看不出。如此以致无穷。赖尔由此得出结论：
+    step2: |-
+      在赖尔（1946: 6–7）中还可以发现一个较少被讨论的倒退，那是对刘易斯·卡罗尔（1895）倒退的改写。设一名学生理解一个论证的前提，也理解其结论，却看不出结论是由前提推出的。为帮助他，老师教给他另一个命题 *P*——即若前提为真，则结论为真。学生理解了这个，却仍看不出如何由前提加上这个追加的前提 *P* 推出结论。于是再往他的储备里加进第二个假言命题：若前提为真，则结论亦真。学生仍然看不出。如此以至无穷。赖尔由此得出结论：
   - id: 37
     kind: body
     source: |-
       > Knowing a rule of inference is not possessing a bit of extra information but being able to perform an intelligent operation. Knowing a rule is knowing how. It is realized in performances which conform to the rule, not in theoretical citations of it. (1946: 7)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 知道一条推论规则，不是拥有额外的信息，而是能够执行一种聪明的操作。知道规则就是知道如何。它实现于符合该规则的表现之中，而不实现于对该规则的理论引述之中。（1946: 7）
+    step2: |-
+      > 知道一条推论规则，不是拥有额外的信息，而是能够执行一种聪明的操作。知道规则就是知道如何。它实现于符合该规则的表现之中，而不实现于对该规则的理论引述之中。（1946: 7）
   - id: 38
     kind: body
     source: |-
       One might respond (cf. Stanley 2011b)[^stanley-2011b] to this regress challenge that the student does not really understand the premises of an argument by *modus ponens* (*p*, if *p* then *q*), for that involves grasping the concept of a conditional, and on an inferentialist understanding (Boghossian 1996, 2003)[^boghossian-1996], that would dispose one to accept the conclusion of an inference by that rule. Inferentialism about meaning is, however, a controversial doctrine (for several criticisms, see Williamson 2011, 2012)[^williamson-2011]. Other replies might be available. Maybe the student does not represent the rule practically (see next section), or she is simply incapable of granting that the rule applies to this case, for that would explain her failure to be appropriately disposed to arrive at the conclusion, given the truth of the premises. (For yet other versions of the regress challenge, see Noë 2005: 285–6 and Hetherington 2006)[^hetherington-2006][^noë-2005].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对这一倒退挑战，有人可能回应（参 Stanley 2011b）[^stanley-2011b]说：这名学生其实并未真正理解由肯定前件式（*modus ponens*：*p*，若 *p* 则 *q*）所构成论证的前提，因为那要求把握条件句的概念；而按推论主义理解（Boghossian 1996, 2003）[^boghossian-1996]，把握该概念会使人倾向于接受依该规则所作推论的结论。然而，关于意义的推论主义本身是有争议的学说（若干批评见 Williamson 2011, 2012）[^williamson-2011]。其他回应也可能存在。也许这名学生并未以实践的方式表征该规则（见下一节），或者他根本无法承认该规则适用于此情形，而这恰好说明在前提为真的条件下，他为何未能适当地倾向于得出该结论。（关于该倒退挑战的另一些版本，见 Noë 2005: 285–6 与 Hetherington 2006）[^hetherington-2006][^noë-2005]。
+    step2: |-
+      对这一倒退挑战，有人可能回应（参 Stanley 2011b）[^stanley-2011b]：这名学生其实并未真正理解由 **肯定前件式**（*modus ponens*：*p*，若 *p* 则 *q*）所构成论证的前提，因为那要求把握条件句的概念；而按推论主义理解（Boghossian 1996, 2003）[^boghossian-1996]，把握该概念会使人倾向于接受依该规则所作推论的结论。然而，关于意义的推论主义本身就是有争议的学说（若干批评见 Williamson 2011, 2012）[^williamson-2011]。其他回应也可能存在。也许这名学生并未以实践的方式表征该规则（见下一节），或者他根本无法承认该规则适用于此情形，而这恰好说明：在前提为真的条件下，他为何未能适当地倾向于得出该结论。（关于该倒退挑战的另一些版本，见 Noë 2005: 285–6 与 Hetherington 2006）[^hetherington-2006][^noë-2005]。
   - id: 39
     kind: body
     source: |-
       ## 2. The Sufficiency Argument
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 不充分性论证
+    step2: |-
+      ## 2 不充分性论证
   - id: 40
     kind: body
     source: |-
       The claim that knowledge-how is a kind of knowledge-that encounters an immediate incredulous stare: how could propositional knowledge be sufficient for knowing how to do something? Ryle (1946: 5) himself poses this challenge as a starting point for his argument:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      知识-如何是命题知识之一类的说法，立刻招来怀疑的瞪视：命题知识怎么能足以知道如何做某事呢？赖尔（1946: 5）本人就以此挑战作为其论证的起点：
+    step2: |-
+      知识-如何是命题知识之一类的说法，立刻招来怀疑的瞪视：命题知识怎么能足以知道如何做某事呢？赖尔（1946: 5）本人就把这一挑战当作其论证的起点：
   - id: 41
     kind: body
     source: |-
       > Obviously there is no truth or set of truths of which we could say “If only the stupid player had been informed of them, he would be a clever player”, or “When once he had been apprised of these truths he would play well”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 显然，没有任何真理或真理集合能使我们说：“只要那个愚笨的演奏者被告知了这些，他就会是个聪明的演奏者”，或者“一旦他被告知这些真理，他就会演奏得好”。
+    step2: |-
+      > 显然，没有任何真理或真理集合能使我们说：“只要那个愚笨的演奏者被告知了这些，他就会是个聪明的演奏者”，或者“一旦他被告知这些真理，他就会演奏得好”。
   - id: 42
     kind: body
     source: |-
       Certainly, one might know all the propositions that are relevant to how to perform a task, and yet fail to know how to perform it: knowledge-that does not seem sufficient for knowledge-how (see also Ryle 1940: 38–9)[^ryle-1940].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当然，人可能知道一切与如何完成某任务相关的命题，却仍然不知道如何完成它：命题知识似乎不足以构成知识-如何（另见 Ryle 1940: 38–9）[^ryle-1940]。
+    step2: |-
+      当然，人可能知道一切与如何完成某任务相关的命题，却仍不知道如何完成它：命题知识似乎不足以构成知识-如何（另见 Ryle 1940: 38–9）[^ryle-1940]。
   - id: 43
     kind: body
     source: |-
       In order to assess this objection, it is helpful to start with a toy intellectualist theory, on which knowledge-how is a matter of knowing, for some way or method to perform a task *w*, that *w* is in fact a way to perform it. In section 4, we will see in more detail a linguistic argument for identifying knowledge-how with this sort of propositional knowledge (Stanley & Williamson 2001; Snowdon 2004)[^snowdon-2004][^stanley-2001]. How could, the insufficiency objection goes, one know how to perform a task just in virtue of knowing a proposition about a way to perform it? Consider the following counterexample to intellectualism:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为了评估这一反对意见，不妨从一种玩具式的理智主义理论入手：按该理论，知识-如何就在于知道——对于完成某任务 *w* 的某种方式或方法——*w* 事实上是完成该任务的一种方式。第 4 节将更详细地看到一种语言学论证，它把知识-如何等同于这类命题知识（Stanley & Williamson 2001；Snowdon 2004）[^snowdon-2004][^stanley-2001]。不充分性反对意见说：一个人怎么可能仅凭知道某个关于完成任务的某种方式的命题，就知道如何完成该任务呢？考虑下面这个反对理智主义的反例：
+    step2: |-
+      为评估这一反对意见，不妨从一种玩具式的理智主义理论入手：按该理论，知识-如何就在于知道——对完成某任务 *w* 的某种方式或方法——*w* 事实上是完成该任务的一种方式。第 4 节将更详细地看到一种语言学论证，它把知识-如何等同于这类命题知识（Stanley & Williamson 2001；Snowdon 2004）[^snowdon-2004][^stanley-2001]。不充分性反对意见说：一个人怎么可能仅凭知道某个关于完成该任务之方式的命题，就知道如何完成该任务呢？请看下面这个反对理智主义的反例：
   - id: 44
     kind: body
     source: |-
       **Swimming**: Suppose I look at a swimmer’s swimming, and my swimming instructor pointing to the swimmer says to me, “That is a way in which you could swim too”. I believe my instructor and we may suppose that what she said is in fact true. I may thereby come to know a true answer to the question “How could I swim?” However, in the relevant sense, I may not have come to know how to swim. If I took a swimming test, I might still fail it. If thrown in the swimming pool, I might still drown. I do not know how to swim in the relevant sense and yet I do know a true proposition about how to swim.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **游泳**：设我看着一位泳者的游法，我的游泳教练指着那位泳者对我说：“那是你也能据以游泳的一种方式。”我相信教练的话，我们还可以假定她所说的确实为真。我因此可能知道“我怎样才能游泳？”这个问题的一个真答案。然而在相关的意义上，我可能并未学会如何游泳。若我去参加游泳测试，我可能仍然通不过；若被扔进泳池，我可能仍然会淹死。在相关意义上，我不知道如何游泳，而我确实知道一个关于如何游泳的真命题。
+    step2: |-
+      **游泳**：设我看着一位泳者的泳姿，我的游泳教练指着那位泳者对我说：“那是你也能据以游泳的一种方式。”我相信教练的话，我们还可以假定她所说的确实为真。我因此可能知道“我怎样才能游泳？”这个问题的一个真答案。然而在相关的意义上，我可能并未学会如何游泳。若我去参加游泳测试，我可能仍然通不过；若被扔进泳池，我可能仍然会淹死。在相关意义上，我不知道如何游泳，而我确实知道一个关于如何游泳的真命题。
   - id: 45
     kind: body
     source: |-
       In response to this sort of counterexample, intellectualists often appeal to “practical modes of presentation”: knowing a proposition observationally or demonstratively is not the same as knowing it practically. Knowledge-how is, at least in part, a matter of representing propositions about tasks and ways of executing tasks in a distinctively practical fashion. For one to know how to swim, in the relevant sense, one must know of a way to swim represented under a distinctive practical mode of presentation, which is essentially different from the observational or demonstrative mode of presentation in **Swimming**. This kind of practically represented propositional knowledge is what (some) intellectualists call knowledge-how and is what is absent in the example above.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      针对这类反例，理智主义者常常诉诸“实践呈现方式”：以观察或指示的方式知道一个命题，不同于以实践的方式知道它。知识-如何至少部分地在于以独特的实践方式表征关于任务及执行任务方式的命题。在相关意义上，一个人要知道如何游泳，就必须知道某种游泳方式，而这种方式是以一种独特的实践呈现方式被表征的——它与**游泳**一例中的观察或指示呈现方式本质不同。这种以实践方式表征的命题知识，就是（某些）理智主义者所称的知识-如何，也是上例中所缺者。
+    step2: |-
+      针对这类反例，理智主义者常诉诸“实践呈现方式”（practical modes of presentation）：以观察方式或指示方式知道一个命题，不同于以实践方式知道它。知识-如何至少部分地在于：以独特的实践方式表征关于任务以及执行任务方式的命题。一个人在相关意义上要知道如何游泳，就必须知道某种游泳方式，而这种方式是以独特的实践呈现方式被表征的——它与 **游泳** 一例中的观察或指示呈现方式本质不同。这种以实践方式表征的命题知识，正是（某些）理智主义者所称的知识-如何，也正是上例中所缺者。
   - id: 46
     kind: body
     source: |-
       The notion of practical modes of presentation has received several criticisms (Schiffer 2002; Koethe 2002; Noë 2005; Fantl 2011; Glick 2015)[^glick-2015][^koethe-2002][^noë-2005][^schiffer-2002], on the ground that it seems excessively obscure or even question begging. Koethe (2002: 327) worries that practical modes of presentation smuggle in an antecedent notion of knowledge-how (though see Fantl 2008: 461 for a response)[^fantl-2008]. This widespread skepticism about practical modes of presentation has led some intellectualists to explore ways of responding to the insufficiency objection that do not appeal to practical modes of presentation. For example, Stanley (2011b: 126) considers answering the sufficiency challenge in **Swimming** by appealing to the context-sensitivity of the ability modal “could”. According to Stanley, depending on how the context for the modal is restricted, “That is how you could swim” could mean either that that is how you can swim *given your current physical state* or that that is how you could swim *after training*. But coming to know that that is how I could swim after training is clearly not enough for me to come to know how to swim now. Instead, the argument goes, what one needs to know is the former proposition: *that that is a way to swim given my current physical state*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      实践呈现方式这一观念受到若干批评（Schiffer 2002；Koethe 2002；Noë 2005；Fantl 2011；Glick 2015）[^glick-2015][^koethe-2002][^noë-2005][^schiffer-2002]，理由是它似乎过于晦涩，甚至有窃取论题之嫌。Koethe（2002: 327）担心实践呈现方式偷偷引入了一个先行的知识-如何概念（不过回应见 Fantl 2008: 461）[^fantl-2008]。这种对实践呈现方式的普遍怀疑，使一些理智主义者去探索不诉诸实践呈现方式来回应不充分性反对意见的途径。例如，Stanley（2011b: 126）考虑通过诉诸能力情态词“could”的语境敏感性来回答**游泳**中的充分性挑战。据 Stanley，视该情态词的语境如何受限，“That is how you could swim”既可以指那是你在当前身体状况下可以游泳的方式，也可以指那是你经训练后可以游泳的方式。但得知“那是我经训练后可以游泳的方式”，显然不足以让我现在就知道如何游泳。论证说，人所需要知道的其实是前一命题：“那是我在当前身体状况下游泳的一种方式”。
+    step2: |-
+      实践呈现方式这一观念受到若干批评（Schiffer 2002；Koethe 2002；Noë 2005；Fantl 2011；Glick 2015）[^glick-2015][^koethe-2002][^noë-2005][^schiffer-2002]，理由是它似乎过于晦涩，甚至有窃取论题之嫌。Koethe（2002: 327）担心：实践呈现方式偷偷引入了一个先行的知识-如何概念（回应见 Fantl 2008: 461）[^fantl-2008]。对实践呈现方式的这种普遍怀疑，使一些理智主义者去探索不诉诸实践呈现方式来回应不充分性反对意见的途径。例如，Stanley（2011b: 126）考虑通过诉诸能力情态词“could”的语境敏感性，来回答 **游泳** 中的充分性挑战。据 Stanley，视该情态词的语境如何受限，“那就是你据以游泳的方式”既可以指那是你在当前身体状况下可以游泳的方式，也可以指那是你经训练后可以游泳的方式。但得知“那是我经训练后可以游泳的方式”，显然不足以让我现在就知道如何游泳。于是论证说，人所需要知道的其实是前一命题：“那是我在当前身体状况下游泳的一种方式”。
   - id: 47
     kind: body
     source: |-
       Yet, it is unclear that even this response works. Consider a variant of the previous scenario, where Mary is a skilled swimmer who is one day affected by memory loss and so forgets how she is able to swim (Glick 2015)[^glick-2015]. Nothing has changed in Mary’s physical state: she is still able to swim but she just has forgotten how she is able to swim. Suppose she is told, by looking at a recording of her swimming the day before, that *that* is how she can in fact swim given her current physical state. She might come to know how she is in fact able to swim (just like that!). Yet, she would still fail to know how to swim in the relevant sense and still drown if thrown into the pool.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，即使这一回应能否奏效也不清楚。考虑前一场景的一个变体：玛丽是一名熟练的泳者，某天受失忆影响，忘记了自己何以能够游泳（Glick 2015）[^glick-2015]。玛丽的生理状态没有任何变化：她仍然能够游泳，只是忘了自己何以能够游泳。设有人让她看前一天她游泳的录像，告诉她：那就是她在当前生理状态下事实上能够游泳的方式。她可能就此知道自己事实上何以能够游泳（就是这样！）。然而，她在相关意义上仍然不知道如何游泳，若被扔进泳池仍会淹死。
+    step2: |-
+      然而，即使这一回应能否奏效也不清楚。考虑前一场景的一个变体：玛丽是一名熟练的泳者，某天受失忆影响，忘记了自己何以能够游泳（Glick 2015）[^glick-2015]。玛丽的生理状态没有任何变化：她仍然能够游泳，只是忘了自己何以能够游泳。设有人让她看前一天她游泳的录像，告诉她：那就是她在当前生理状态下事实上能够游泳的方式。她可能就此知道自己事实上何以能够游泳（就这样！）。然而，她在相关意义上仍然不知道如何游泳，若被扔进泳池仍会淹死。
   - id: 48
     kind: body
     source: |-
       So, practical modes of representation are hard to escape if intellectualism is to be defended against the sufficiency objection. To assuage concerns about the intelligibility of practical modes of presentation, Pavese (2015b) proposes we think of them along the lines of practical senses, which in turn can be modeled after computer programs. Programs determine an output, just like Fregean senses determine a referent; and they are practical in that they break down a task into the smallest parts that the system can execute (the primitive operations of the system as well as into primitive ways of combining those parts) so they ground the ability to perform a complex task in terms of the ability to perform all of its parts. On this view, if one represents a task practically, one represents all of its parts, and the combination of those parts, through instructions that one has the ability to execute. So representing practically a task entails that one has the ability to perform the corresponding task. (For a critical discussion of practical ways of thinking, see Mosdell 2019. Habgood-Coote 2018c argues that the classical generality problem for reliabilism (Feldman 1985; Conee & Feldman 1998)[^conee-1998][^feldman-1985] arises for intellectualism.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所以，若要以理智主义抵抗不充分性反对意见，实践表征方式很难避开。为了缓解人们对实践呈现方式之可理解性的担忧，Pavese（2015b）提议我们可以仿照实践意义来理解它们，而实践意义又可以仿照计算机程序来建模。程序决定输出，正如弗雷格式意义决定指称；它们之所以是实践的，在于它们把任务分解为系统所能执行的最小部分（系统的原初操作，以及组合这些部分的原初方式），从而以执行任务全部诸部分的能力为根基，为执行复杂任务的能力奠基。按这种观点，若人以实践方式表征一个任务，则他通过自己有能力执行的指令，表征了该任务的全部部分及这些部分的组合。因此，以实践方式表征一个任务，蕴涵着人具有执行相应任务的能力。（关于实践思维方式的批判性讨论，见 Mosdell 2019。Habgood-Coote 2018c 主张，可靠主义所面对的经典普遍性问题（Feldman 1985；Conee & Feldman 1998）[^conee-1998][^feldman-1985] 也会出现在理智主义上。）
+    step2: |-
+      所以，若要以理智主义抵抗不充分性反对意见，实践表征方式很难避开。为缓解人们对实践呈现方式之可理解性的担忧，Pavese（2015b）提议仿照实践意义来理解它们，而实践意义又可仿照计算机程序建模。程序决定输出，正如弗雷格式意义决定指称；它们之所以是实践的，在于把任务分解为系统所能执行的最小部分——系统原初操作，以及组合这些部分的原初方式。它们由此以执行任务全部诸部分的能力为根基，为执行复杂任务的能力奠基。按这种观点，若人以实践方式表征一个任务，他便借自己有能力执行的指令，表征该任务的全部部分及其组合。因此，以实践方式表征一个任务，蕴涵着人具有执行相应任务的能力。（关于实践思维方式的批判性讨论，见 Mosdell 2019。Habgood-Coote 2018c 主张，可靠主义面对的经典普遍性问题（Feldman 1985；Conee & Feldman 1998）[^conee-1998][^feldman-1985] 也会出现在理智主义上。）
   - id: 49
     kind: body
     source: |-
       The notion of distinctively practical concepts is motivated by work outside the debate on intellectualism about knowledge-how. Other scholars have discussed concepts that are practical in that they dissociate from semantic and observational concepts and play a central role in explaining behavior. Peacocke (1986: 49–50) talks of “action-based ways of thinking”, Israel, Perry,and Tutiya (1993: 534) of “executable ideas”, and Pacherie (2000, 2006) of “action concepts”. Mylopoulous and Pacherie (2017) suggest that executable action concepts might be needed to overcome the interface problem—the problem of how cognitive representations (intentions) interact with motor representations (Butterfill & Sinigaglia 2014)[^butterfill-2014]. Pavese (forthcoming-b) advances an empirical-functional case for practical concepts, arguing that they are needed to explain a distinctive sort of productive reasoning. Yet, other intellectualists argue we can dispense with practical modes of presentation altogether and instead appeal to *ways of knowing* that are distinctively practical or executive (Waights Hickman 2019; Cath 2020)[^cath-2020][^waights-2019].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      独特实践概念这一观念，其动机来自知识-如何之理智主义争论之外的研究。其他学者讨论过一些概念：它们之所以是实践的，在于它们与语义概念和观察概念相分离，并在解释行为时起核心作用。Peacocke（1986: 49–50）谈到“基于行动的思想方式”，Israel、Perry 与 Tutiya（1993: 534）谈到“可执行的观念”，Pacherie（2000, 2006）谈到“行动概念”。Mylopoulous 与 Pacherie（2017）提出，可能正需要可执行的行动概念来克服界面问题——即认知表征（意图）如何与运动表征相互作用的问题（Butterfill & Sinigaglia 2014）[^butterfill-2014]。Pavese（即将出版 b）为实践概念提出了一种经验-功能论证，主张需要它们来解释一种独特的生产性推理。然而，其他理智主义者主张，我们完全可以不用实践呈现方式，转而诉诸独特的实践性或执行性的**知道方式**（Waights Hickman 2019；Cath 2020）[^cath-2020][^waights-2019]。
+    step2: |-
+      独特实践概念这一观念，其动机来自知识-如何之理智主义争论之外的研究。其他学者讨论过一些概念：它们之所以是实践的，在于其与语义概念、观察概念相分离，并在解释行为时起核心作用。Peacocke（1986: 49–50）谈到“基于行动的思想方式”，Israel、Perry 与 Tutiya（1993: 534）谈到“可执行的观念”，Pacherie（2000, 2006）谈到“行动概念”。Mylopoulous 与 Pacherie（2017）提出，可能正需要可执行的行动概念来克服界面问题——即认知表征（意图）如何与运动表征相互作用的问题（Butterfill & Sinigaglia 2014）[^butterfill-2014]。Pavese（即将出版 b）为实践概念提出一种经验-功能论证，主张需要它们来解释一种独特的生产性推理。然而，其他理智主义者主张，我们完全可以不用实践呈现方式，转而诉诸独特的实践性或执行性的 **知道方式**（Waights Hickman 2019；Cath 2020）[^cath-2020][^waights-2019]。
   - id: 50
     kind: body
     source: |-
       Levy (2017) argues that a form of intellectualism that only invokes practical ways of thinking and practical concepts might not be able to explain skillful motor behavior, for motor representations of the sort required for skilled action and posited by cognitive psychologists are non-conceptual. Along similar lines, Fridland (2014, 2017) argues motor control and motor representation cannot be countenanced by Stanley & Williamson’s (2001) and Stanley’s (2011b) forms of intellectualism. So, more promising forms of intellectualism might have to invoke, in addition to practical ways of thinking, *non-conceptual practical representations* (Pavese 2019; Krakauer 2020)[^krakauer-2020][^pavese-2019]. Just like perceptual concepts are distinguished from non-conceptual perceptual representations, we might distinguish between practical conceptual representations and practical non-conceptual representations. Motor representations would fall under the latter heading. Nonconceptual motor representations also represent practically, as they break down a task in terms of the most basic operations that a system can perform.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Levy（2017）主张，一种只援引实践思维方式与实践概念的理智主义，也许无法解释熟练的运动行为，因为熟练行动所需的、且为认知心理学家所设定的那类运动表征是非概念的。沿着相似的路线，Fridland（2014, 2017）主张，Stanley & Williamson（2001）与 Stanley（2011b）形式的理智主义无法容纳运动控制与运动表征。所以，更有希望的理智主义形式也许必须在实践思维方式之外，还援引**非概念的实践表征**（Pavese 2019；Krakauer 2020）[^krakauer-2020][^pavese-2019]。正如知觉概念区别于非概念的知觉表征，我们也可以区分实践概念表征与实践非概念表征；运动表征属于后一类。非概念的运动表征也以实践方式表征，因为它们按系统所能执行的最基本操作来分解任务。
+    step2: |-
+      Levy（2017）主张，一种只援引实践思维方式与实践概念的理智主义，也许无法解释熟练的运动行为：熟练行动所需、且为认知心理学家所设定的那类运动表征是非概念的。沿着相似路线，Fridland（2014, 2017）主张，Stanley & Williamson（2001）与 Stanley（2011b）形式的理智主义无法容纳运动控制与运动表征。所以，更有希望的理智主义形式，也许必须在实践思维方式之外还援引 **非概念的实践表征**（Pavese 2019；Krakauer 2020）[^krakauer-2020][^pavese-2019]。正如知觉概念区别于非概念的知觉表征，我们也可以区分实践概念表征与实践非概念表征；运动表征属于后一类。非概念的运动表征也以实践方式表征，因为它们按系统所能执行的最基本操作来分解任务。
   - id: 51
     kind: body
     source: |-
       ## 3. The Gradability Argument
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 可分级性论证
+    step2: |-
+      ## 3 可分级性论证
   - id: 52
     kind: body
     source: |-
       Ryle (1949: 46) formulates the argument from gradability thus:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      赖尔（1949: 46）如此表述可分级性论证：
+    step2: |-
+      赖尔（1949: 46）如此表述出自可分级性的论证：
   - id: 53
     kind: body
     source: |-
       > we never speak of a person having partial knowledge of a fact or truth … it is proper and normal to speak of a person knowing in part how to do something. Learning how or improving in ability is not like learning that or acquiring information. Truths can be imparted, procedures can only be inculcated, and while inculcation is a gradual process, imparting is relatively sudden.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我们从不谈论某人对一个事实或真理拥有部分知识……说某人部分地知道如何做某事，却是恰当而正常的。学会如何或能力上有所长进，不同于学会某事实或获得信息。真理可以传授，程序只能反复灌输；而灌输是逐渐的过程，传授则相对突然。
+    step2: |-
+      > 我们从不谈论某人对一个事实或真理拥有部分知识……说某人部分地知道如何做某事，却是恰当而正常的。学会如何或能力上有所长进，不同于学会某事实或获得信息。真理可以传授，程序只能反复灌输；而灌输是逐渐的过程，传授则相对突然。
   - id: 54
     kind: body
     source: |-
       As Kremer (2020: 102) points out, here Ryle is making two distinguishable points: (i) ascriptions of knowledge-how are gradable, whereas ascriptions of know-that are not; (ii) the gradability of these ascriptions is explained by the fact that knowledge-how must come in degrees, because learning-how brings improvement in knowledge-how. There is no parallel phenomenon in learning-that, and so no need for degrees of knowledge-that. Others have followed Ryle in thinking that the gradability argument shows intellectualism wrong. For example, Bengson and Moffett (2011b) argue that because knowledge-how is gradable, knowledge-how is more similar to acquaintance knowledge, which also comes in degrees (see also Ryle 1949: 46; Wiggins 2012; Santorio 2016; Kremer 2020: 102)[^kremer-2020][^ryle-1949][^santorio-2016][^wiggins-2012].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如 Kremer（2020: 102）所指出的，赖尔在这里提出了两个可区分的论点：（i）知识-如何的归赋是可分级的，而命题知识的归赋则不是；（ii）这些归赋的可分级性，可由知识-如何必然有程度之别来解释，因为学会如何会带来知识-如何上的长进。学会命题知识则无平行的现象，因而无需命题知识的程度。其他人追随赖尔，认为可分级性论证表明理智主义是错的。例如，Bengson 与 Moffett（2011b）主张，既然知识-如何是可分级的，知识-如何就更接近亲知，而后者也是有程度的（另见 Ryle 1949: 46；Wiggins 2012；Santorio 2016；Kremer 2020: 102）[^kremer-2020][^ryle-1949][^santorio-2016][^wiggins-2012]。
+    step2: |-
+      如 Kremer（2020: 102）所指出的，赖尔在这里提出两个可区分的论点：（i）知识-如何的归赋可分级，命题知识的归赋则不然；（ii）这些归赋的可分级性，可由知识-如何必然有程度之别来解释——因为学会如何会带来知识-如何上的长进。学会命题知识则无平行现象，因而无需命题知识的程度。其他人追随赖尔，认为可分级性论证表明理智主义是错的。例如，Bengson 与 Moffett（2011b）主张：既然知识-如何可分级，它就更接近亲知，而后者亦有程度之别（另见 Ryle 1949: 46；Wiggins 2012；Santorio 2016；Kremer 2020: 102）[^kremer-2020][^ryle-1949][^santorio-2016][^wiggins-2012]。
   - id: 55
     kind: body
     source: |-
       Pavese (2017) distinguishes between two kinds of gradability of knowledge-how ascriptions: one might know how to do something in part or entirely (quantitative gradability) or one might know how to do something better than somebody else (qualitative gradability). Crucially, these two kinds of gradability are also present more generally in other knowledge-wh (knowledge-when, who, why, where) ascriptions, which do seem to reduce to propositional knowledge. For instance, one might know in part *who* came to the party (Lahiri 1991, 2000; Roberts 2009)[^lahiri-1991][^roberts-2009] or know a better answer to that question than somebody else (see also Stanley 2011b: 31–5)[^stanley-2011b]. If parts of an answer are propositions, then knowing an answer might still amount to knowledge of all of its parts. Knowing in part an answer would then amount to knowing at least one of the propositions that is part of that answer. Similarly, knowing a better answer amounts to knowing a proposition that better answers the relevant question. If this is true of other knowledge-wh ascriptions, it is certainly plausible that it is true for knowledge-how. One might know how to Φ in part by knowing only certain (propositional) parts of the answer to “how does one Φ?” and one might know a better answer to that question than someone else.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Pavese（2017）区分了知识-如何归赋的两种可分级性：人可能部分地或完全地知道如何做某事（量的可分级性），也可能比别人更好地知道如何做某事（质的可分级性）。关键在于，这两种可分级性也更普遍地存在于其他 wh-知识的归赋（如知道何时、何人、为何、何处）之中，而这些归赋确实似乎可还原为命题知识。例如，人可能部分地知道*谁*来了聚会（Lahiri 1991, 2000；Roberts 2009）[^lahiri-1991][^roberts-2009]，或者比别人更好地知道那个问题的答案（另见 Stanley 2011b: 31–5）[^stanley-2011b]。若答案的部分是命题，则知道一个答案仍可能等于知道其全部部分；部分地知道一个答案，便等于至少知道构成该答案的其中一个命题。类似地，知道一个更好的答案，便等于知道一个能更好地回答相关问题的命题。若这对其他 wh-知识归赋为真，那么对知识-如何也极可能为真。人可能只凭知道“人如何 Φ？”这一答案中的某些（命题性）部分而部分地知道如何 Φ，也可能比别人更好地知道该问题的答案。
+    step2: |-
+      Pavese（2017）区分了知识-如何归赋的两种可分级性：人可能部分地或整个地知道如何做某事（量上的可分级性），也可能比别人更好地知道如何做某事（质上的可分级性）。关键在于，这两种可分级性也更普遍地存在于其他 wh-知识归赋（知道何时、何人、为何、何处）之中，而这些归赋确实似乎可还原为命题知识。例如，人可能部分地知道 **谁** 来了聚会（Lahiri 1991, 2000；Roberts 2009）[^lahiri-1991][^roberts-2009]，或者比别人更好地知道那个问题的答案（另见 Stanley 2011b: 31–5）[^stanley-2011b]。若答案的部分是命题，则知道一个答案仍可能等于知道其全部部分；部分地知道一个答案，便等于至少知道构成该答案的其中一个命题。类似地，知道一个更好的答案，便等于知道一个能更好地回答相关问题的命题。若这对其他 wh-知识归赋成立，那么对知识-如何也极可能成立。人可能只凭知道“人如何 Φ？”这一答案中的某些（命题性）部分，而部分地知道如何 Φ；也可能比别人更好地知道该问题的答案。
   - id: 56
     kind: body
     source: |-
       This response to the first part of the gradability objection inspires a further response to the second part concerning learning-how. Suppose that knowledge-how is a matter of knowing a practical answer, where a practical answer encompasses a practical representation for a task or a way to Φ (section 2). As we have seen, practically representing requires possessing certain practical capacities and entails certain sorts of abilities. On this picture, one might gradually learn how to perform a task by gradually learning a practical answer to that question, for one requires time and practice to master a practical representation of how to perform the task. Thus, gradual learning may be compatible with the intellectualist picture, if it amounts to gradually coming to learn more parts of a practical answer.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对可分级性反对意见第一部分的这一回应，启发了对第二部分（涉及学会如何）的进一步回应。设知识-如何就在于知道一个实践性答案，而实践性答案包含对任务或对如何 Φ 的一种方式的实践表征（第 2 节）。如我们所见，以实践方式表征要求具备某些实践能力，并蕴涵某些能力。按这幅图景，人可以通过逐渐学会该问题的一个实践性答案，来逐渐学会如何完成一个任务，因为掌握一个关于如何完成任务的实践表征需要时间和练习。于是，逐渐学习可以与理智主义的图景相容，只要它等于逐渐学会实践性答案的更多部分。
+    step2: |-
+      对可分级性反对意见第一部分的这一回应，启发了对第二部分（涉及学会如何）的进一步回应。设知识-如何就在于知道一个实践性答案，而实践性答案包含对任务或对如何 Φ 之方式的实践表征（第 2 节）。如我们所见，以实践方式表征要求具备某些实践能力，并蕴涵某些能力。按这幅图景，人可以通过逐渐学会该问题的一个实践性答案，逐渐学会如何完成一个任务——因为掌握一个关于如何完成任务的实践表征需要时间与练习。于是，逐渐学习可以与理智主义图景相容，只要它等于逐渐学会实践性答案的更多部分。
   - id: 57
     kind: body
     source: |-
       ## 4. The Linguistic Argument
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 语言学论证
+    step2: |-
+      ## 4 语言学论证
   - id: 58
     kind: body
     source: |-
       Intellectualism has been motivated on the basis of a linguistic argument concerning knowledge-how ascriptions in English (Vendler 1972; Stanley & Williamson 2001; Snowdon 2004; Stanley 2011b, 2011c)[^snowdon-2004][^stanley-2011b][^stanley-2001][^vendler-1972]. Begin by noticing that (1) is remarkably similar to (2)–(3) (“finite knowledge wh ascriptions” as they embed a complement with a finitival verb) and to (4)–(5) (“infinitive knowledge-wh ascriptions” as they embed a complement with an infinitival verb):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      理智主义曾基于一个关于英语中知识-如何归赋的语言学论证而获得动机（Vendler 1972；Stanley & Williamson 2001；Snowdon 2004；Stanley 2011b, 2011c）[^snowdon-2004][^stanley-2011b][^stanley-2001][^vendler-1972]。先请注意：(1) 与 (2)–(3)（“有定 wh-知识归赋”，因其嵌入的补语带定式动词）以及 (4)–(5)（“不定式 wh-知识归赋”，因其嵌入的补语带不定式动词）极为相似：
+    step2: |-
+      理智主义曾基于一个关于英语中知识-如何归赋的语言学论证而获得动机（Vendler 1972；Stanley & Williamson 2001；Snowdon 2004；Stanley 2011b, 2011c）[^snowdon-2004][^stanley-2011b][^stanley-2001][^vendler-1972]。先请注意：(1) 与 (2)–(3)（“有定 wh-知识归赋”，因其嵌入带定式动词的补语）以及 (4)–(5)（“不定式 wh-知识归赋”，因其嵌入带不定式动词的补语）极为相似：
   - id: 59
     kind: body
     source: |-
       **(1)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(1)**
+    step2: |-
+      **(1)**
   - id: 60
     kind: body
     source: |-
       Marie knows how to play the piano
-    step1: TBD
-    step2: TBD
+    step1: |-
+      玛丽知道如何弹钢琴
+    step2: |-
+      玛丽知道如何弹钢琴
   - id: 61
     kind: body
     source: |-
       **(2)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(2)**
+    step2: |-
+      **(2)**
   - id: 62
     kind: body
     source: |-
       Mary knows where her piano is located in the house.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      玛丽知道她的钢琴放在屋里何处。
+    step2: |-
+      玛丽知道她的钢琴放在屋里何处。
   - id: 63
     kind: body
     source: |-
       **(3)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(3)**
+    step2: |-
+      **(3)**
   - id: 64
     kind: body
     source: |-
       Mary knows who can play her piano.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      玛丽知道谁能弹她的钢琴。
+    step2: |-
+      玛丽知道谁能弹她的钢琴。
   - id: 65
     kind: body
     source: |-
       **(4)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(4)**
+    step2: |-
+      **(4)**
   - id: 66
     kind: body
     source: |-
       Mary knows what to do in case of an emergency.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      玛丽知道在紧急情况下该做什么。
+    step2: |-
+      玛丽知道遇到紧急情况该做什么。
   - id: 67
     kind: body
     source: |-
       **(5)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(5)**
+    step2: |-
+      **(5)**
   - id: 68
     kind: body
     source: |-
       Mary knows where to find an Italian newspaper.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      玛丽知道到哪里去找意大利报纸。
+    step2: |-
+      玛丽知道到哪里去找意大利报纸。
   - id: 69
     kind: body
     source: |-
       According to the standard syntactic analysis, (2)–(5) have an interrogative as complement—“where is her piano located in the house?”, “who can play the piano?”, “what to do in case of an emergency?” are all interrogatives. Having said this, in broad outline, the linguistic argument for intellectualism has three steps. The first step is to follow the syntactic cues from (1)–(5) and identify the logical form of “*S* knows how to Φ” with that of “*S* knows + interrogative *Q* (= “how to Φ”). Call this premise **Logical Form**. The second step is to accept the orthodox semantics of knowledge-wh ascriptions, according to which in “*S* knows + interrogative *Q*”, *Q* denotes a question (C. Baker 1968)[^baker-1968] and according to which “*S* knows + *Q*” is true just in case *S* knows a proposition answering to the question expressed by *Q*. Call this premise **Semantics for Knowledge-Wh** (cf., among many others, Hamblin 1958, 1973; Hintikka 1976; Karttunen 1977; Heim 1994; Groenendijk & Stokhof 1982, 1997; and Higginbotham 1996)[^groenendijk-1982][^hamblin-1958][^heim-1994][^higginbotham-1996][^hintikka-1976][^karttunen-1977]. Finally, the third step is to extend this semantics to knowledge-how ascriptions, such that knowing how to Φ requires knowing a proposition that answers the question “how can one Φ?”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按标准的句法分析，(2)–(5) 以疑问句为补语——“她的钢琴在屋里何处？”“谁能弹钢琴？”“在紧急情况下该做什么？”都是疑问句。话虽如此，大体上，理智主义的语言学论证分三步。第一步是循 (1)–(5) 的句法线索，把“*S* 知道如何 Φ”的逻辑形式与“*S* 知道 + 疑问句 *Q*（＝“如何 Φ”）”的逻辑形式等同起来。称此前提为**逻辑形式**。第二步是接受 wh-知识归赋的正统语义学：按此，在“*S* 知道 + 疑问句 *Q*”中，*Q* 指谓一个问题（C. Baker 1968）[^baker-1968]；且“*S* 知道 + *Q*”为真，当且仅当 *S* 知道一个回答 *Q* 所表达问题的命题。称此前提为**wh-知识语义学**（参见 Hamblin 1958, 1973；Hintikka 1976；Karttunen 1977；Heim 1994；Groenendijk & Stokhof 1982, 1997；Higginbotham 1996 等）[^groenendijk-1982][^hamblin-1958][^heim-1994][^higginbotham-1996][^hintikka-1976][^karttunen-1977]。最后第三步，把这一语义学扩展至知识-如何归赋：知道如何 Φ，要求知道一个回答“人如何能 Φ？”这一问题的命题。
+    step2: |-
+      按标准的句法分析，(2)–(5) 都以疑问句为补语——“她的钢琴在屋里何处？”“谁能弹钢琴？”“在紧急情况下该做什么？”都是疑问句。话虽如此，大体上，理智主义的语言学论证分三步。第一步，循 (1)–(5) 的句法线索，把“*S* 知道如何 Φ”的逻辑形式与“*S* 知道 + 疑问句 *Q*（＝“如何 Φ”）”的逻辑形式等同起来。称此前提为 **逻辑形式**。第二步，接受 wh-知识归赋的正统语义学：按此，在“*S* 知道 + 疑问句 *Q*”中，*Q* 指谓一个问题（C. Baker 1968）[^baker-1968]；“*S* 知道 + *Q*”为真，当且仅当 *S* 知道一个回答 *Q* 所表达问题的命题。称此前提为 **wh-知识语义学**（参见 Hamblin 1958, 1973；Hintikka 1976；Karttunen 1977；Heim 1994；Groenendijk & Stokhof 1982, 1997；Higginbotham 1996 等）[^groenendijk-1982][^hamblin-1958][^heim-1994][^higginbotham-1996][^hintikka-1976][^karttunen-1977]。第三步，把这一语义学扩展至知识-如何归赋：知道如何 Φ，要求知道一个回答“人如何能 Φ？”这一问题的命题。
   - id: 70
     kind: body
     source: |-
       Next section (4.1) looks in some more detail to the intellectualist analysis of the truth conditions for knowledge-how ascriptions. The section after next (4.2) discusses several objections to the linguistic argument.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      下一节（4.1）将更详细地考察理智主义对知识-如何归赋之真值条件的分析。再下一节（4.2）讨论对语言学论证的若干反对意见。
+    step2: |-
+      下一节（4.1）更详细地考察理智主义对知识-如何归赋之真值条件的分析。再下一节（4.2）讨论对语言学论证的若干反对意见。
   - id: 71
     kind: body
     source: |-
       ### 4.1 The Details of the Intellectualist Proposal
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 理智主义方案详述
+    step2: |-
+      ### 4.1 理智主义方案详述
   - id: 72
     kind: body
     source: |-
       The linguistic argument concludes that Intellectualism is true:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      语言学论证得出结论：理智主义为真：
+    step2: |-
+      语言学论证得出结论：理智主义为真：
   - id: 73
     kind: body
     source: |-
       **Intellectualism about knowing how** *S* knows how to Φ just in case *S* knows a proposition answering the question “how to Φ”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **关于知道如何的理智主义**：*S* 知道如何 Φ，当且仅当 *S* 知道一个回答“如何 Φ”这一问题的命题。
+    step2: |-
+      **关于知道如何的理智主义**：*S* 知道如何 Φ，当且仅当 *S* 知道一个回答“如何 Φ”这一问题的命题。
   - id: 74
     kind: body
     source: |-
       But what is the proposition that one knows by knowing how to Φ?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但人在知道如何 Φ 时所知道的，究竟是哪个命题？
+    step2: |-
+      但人在知道如何 Φ 时所知道的，究竟是哪个命题？
   - id: 75
     kind: body
     source: |-
       First, note that the subject of the infinitival construction (“How to Φ”), or PRO, can either be interpreted *de se* (*de se* PRO) or generically (generic PRO). According to the first interpretation, that an agent knows how to perform a ski stunt requires their knowing how to perform a ski stunt *themselves*. According to the latter interpretation, it requires knowing how *one* (as a generic agent or any other agent) would perform a ski stunt. When it comes to ascriptions of knowledge-how, we care about *de se*, and not generic, readings of knowing how. If an agent knows how to Φ in the relevant sense, they know how to Φ themselves.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      首先请注意，不定式构造（“如何 Φ”）的主语，即 PRO，既可作自反（*de se* PRO）解读，也可作泛称（generic PRO）解读。按第一种解读，行动者知道如何做一个滑雪特技，要求他知道自己如何做这个滑雪特技。按后一种解读，则要求知道一个人（作为泛称行动者或任何其他行动者）会如何做滑雪特技。就知识-如何的归赋而言，我们所关心的是知道如何的自反解读，而不是泛称解读。若行动者在相关意义上知道如何 Φ，则他知道自己如何 Φ。
+    step2: |-
+      首先请注意，不定式构造（“如何 Φ”）的主语，即 PRO，既可作 **自反**（*de se* PRO）解读，也可作泛称（generic PRO）解读。按第一种解读，行动者知道如何做滑雪特技，要求他知道 **自己** 如何做滑雪特技。按后一种解读，则要求知道 **一个人**（作为泛称行动者或任何其他行动者）会如何做滑雪特技。就知识-如何归赋而言，我们关心的是知道如何的*de se* 解读，而非泛称解读。若行动者在相关意义上知道如何 Φ，则他知道自己如何 Φ。
   - id: 76
     kind: body
     source: |-
       Secondly, infinitival interrogatives such as “how to Φ” and “what to Φ” are ambiguous between a deontic reading (*how to* Φ = *how one should* Φ; *what to* Φ = *what one should do*) and an ability reading (*how to* Φ = *how one could* Φ; *what to* Φ = *what one could do*). The deontic reading does not seem relevant when we ascribe knowledge-how. Hence the relevant reading must be an ability reading. Joining these two disambiguations, the truth conditions of knowledge-how ascriptions are (cf. Schroeder 2012)[^schroeder-2012]:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其次，“如何 Φ”与“该 Φ 什么”这类不定式疑问句，在道义解读（*how to* Φ＝人应当如何 Φ；*what to* Φ＝人应当做什么）与能力解读（*how to* Φ＝人如何能够 Φ；*what to* Φ＝人能做什么）之间有歧义。当我们归赋知识-如何时，道义解读似乎并不相关。因此相关的解读必是能力解读。把这两重消歧合起来，知识-如何归赋的真值条件便是（参 Schroeder 2012）[^schroeder-2012]：
+    step2: |-
+      其次，“如何 Φ”与“该 Φ 什么”这类不定式疑问句，在道义解读（*how to* Φ＝ **人应当如何** Φ；*what to* Φ＝ **人应当做什么**）与能力解读（*how to* Φ＝ **人如何能够** Φ；*what to* Φ＝ **人能做什么**）之间是有歧义的。当我们归赋知识-如何时，道义解读似乎并不相关。因此相关解读必是能力解读。把这两重消歧合起来，知识-如何归赋的真值条件便是（参 Schroeder 2012）[^schroeder-2012]：
   - id: 77
     kind: body
     source: |-
       (**Truth conditions**) “*S* knows how to Φ” is true just in case *S* knows a proposition answering the question “How could they themselves Φ?”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （**真值条件**）“*S* 知道如何 Φ”为真，当且仅当 *S* 知道一个回答“他们自己如何能够 Φ？”这一问题的命题。
+    step2: |-
+      （**真值条件**）“*S* 知道如何 Φ”为真，当且仅当 *S* 知道一个回答“他们自己如何能够 Φ？”这一问题的命题。
   - id: 78
     kind: body
     source: |-
       Now, what counts as an answer to the question? Linguists distinguish between different kinds of answers that one might give to a question. An *exhaustive answer* to “How could *S* Φ?” would specify all the ways in which *S* could Φ; a *mention-some answer*, instead, would specify only one way in which *S* could Φ. For example, an exhaustive answer to the question “How could *S* make pasta?” would specify all different recipes for making pasta. A mention-some answer to the same question, instead, would specify (at least) only one recipe. When we ascribe knowledge-how, we don’t expect people to know all the possible ways of performing the relevant task. For example, “Mary knows how to make pasta” can be true, even if Mary only knows one recipe for pasta. This gives us the following truth conditions:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      那么，什么算是问题的回答？语言学家区分了人可能对一个问题给出的不同种类的回答。对“*S* 如何能够 Φ？”的穷尽式回答会指明 *S* 能够 Φ 的一切方式；提及其一式回答（mention-some answer）则只指明 *S* 能够 Φ 的一种方式。例如，对“*S* 如何能做意大利面？”的穷尽式回答会指明做意大利面的种种不同食谱；对同一问题的提及其一式回答则（至少）只指明一种食谱。当我们归赋知识-如何时，我们并不期待人知道完成相关任务的一切可能方式。例如，即便玛丽只知道一种做意大利面的食谱，“玛丽知道如何做意大利面”也可以为真。这便给出如下真值条件：
+    step2: |-
+      那么，什么才算对问题的回答？语言学家区分了人可能对一个问题给出的不同种类的回答。对“*S* 如何能够 Φ？”的 **穷尽式回答** 会指明 *S* 能够 Φ 的一切方式；**提及其一式回答**（mention-some answer）则只指明 *S* 能够 Φ 的一种方式。例如，对“*S* 如何能做意大利面？”的穷尽式回答会指明做意大利面的种种不同食谱；对同一问题的提及其一式回答则（至少）只指明一种食谱。当我们归赋知识-如何时，我们并不期待人知道完成相关任务的一切可能方式。例如，即便玛丽只知道一种做意大利面的食谱，“玛丽知道如何做意大利面”也可以为真。这便给出如下真值条件：
   - id: 79
     kind: body
     source: |-
       Intellectualism* “*S* knows how to Φ” is true just in case *S* knows, for *some way w of* Φ*-ing*, that *w* is a way he himself could Φ.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **理智主义**：*S* 知道如何 Φ，当且仅当对某种 Φ 的方式 *w*，*S* 知道 *w* 是他自己能够据以 Φ 的一种方式。
+    step2: |-
+      **理智主义**：“*S* 知道如何 Φ”为真，当且仅当对*某种 Φ 的方式 w*，*S* 知道 *w* 是他自己能够据以 Φ 的一种方式。
   - id: 80
     kind: body
     source: |-
       As we have seen in section 2, in addition to knowing that a way to Φ is a way to Φ, one needs to think of that way under a practical mode of presentation. Let *Pr* be a practical way of thinking of a way and let *way of* Φ*-ing* be a way of thinking of the property of being a way of Φ-ing; finally let ⦼ be a way of composing ways of thinking into a proposition. Then <Pr ⦼ *way of* Φ*-ing*> is the practical proposition that one comes to know when coming to know how to Φ. On how to implement Fregean senses in the compositional semantics, see Yalcin (2015).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如我们在第 2 节所见，除了知道某种 Φ 的方式是 Φ 的方式之外，人还须在一种实践呈现方式下思考该方式。令 *Pr* 为对一种方式的实践思考方式，令 *Φ 之方式* 为对“是 Φ 的一种方式”这一属性的思考方式；最后令 ⦼ 为把诸思考方式组合成命题的方式。那么 〈Pr ⦼ *Φ 之方式*〉 就是人在学会如何 Φ 时所获得的实践命题。关于如何在组合语义学中实现弗雷格式意义，见 Yalcin（2015）。
+    step2: |-
+      如我们在第 2 节所见，除了知道某种 Φ 的方式是 Φ 的方式之外，人还须在一种实践呈现方式下思考该方式。令 *Pr* 为对一种方式的实践思考方式，令 *Φ 之方式* 为对“是 Φ 的一种方式”这一属性的思考方式；最后令 ⦼ 为把诸思考方式组合成命题的方式。那么 〈Pr ⦼ *Φ 之方式*〉 就是人在学会如何 Φ 时所获得的实践命题。关于如何在组合语义学中实现弗雷格式意义，见 Yalcin（2015）。
   - id: 81
     kind: body
     source: |-
       ### 4.2 First Group of Objections
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2 第一组反对意见
+    step2: |-
+      ### 4.2 第一组反对意见
   - id: 82
     kind: body
     source: |-
       Several philosophers have objected that intellectualists are giving undue weight to linguistic considerations and that other considerations, coming from the cognitive sciences, should be taken into account too, when thinking about the nature of knowledge-how (Noë 2005, 2011; Devitt 2011; Brown 2013; Johnson 2006; Glick 2011; Roth & Cummins 2011)[^brown-2013][^devitt-2011][^glick-2011][^johnson-2006][^noë-2005][^roth-2011]. It does not follow from this worry that the linguistic argument ought to be dismissed as lacking *any* evidential value. Consider an analogy. Arguably, the best theory of beliefs and desires is one on which these are propositional attitudes. This theory is compatible with how we ascribe beliefs and desires (i.e., ascriptions of beliefs are of the form “*S* believes that *p*”, where “*p*” is standardly taken to stand for proposition). But it is also compatible with folk psychology, according to which thinking of beliefs and desires as propositional attitudes helps explain behavior. By parity of reasoning, ideally, the best theory of knowledge-how should presumably be compatible *both* with our best psychological theory and our best linguistic theory of knowledge-how ascriptions (cf. Stanley 2011a, 2011b, 2011c; Cath 2015a for a defense of the linguistic methodology)[^cath-2015a][^stanley-2011a].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若干哲学家反对说，理智主义者给予了语言学考虑过重的分量；在思考知识-如何的本性时，也应把来自认知科学的其他考虑纳入进来（Noë 2005, 2011；Devitt 2011；Brown 2013；Johnson 2006；Glick 2011；Roth & Cummins 2011）[^brown-2013][^devitt-2011][^glick-2011][^johnson-2006][^noë-2005][^roth-2011]。但由此并不推出语言学论证应被视为毫无证据价值而弃置。试看一种类比。可以说，关于信念与欲望的最佳理论，是把它们视为命题态度的理论。该理论与我们如何归赋信念与欲望相容（即信念归赋的形式是“*S* 相信 *p*”，其中“*p*”按标准被理解为代表一个命题）。但它也与常识心理学相容：按后者，把信念与欲望视为命题态度有助于解释行为。依同理，理想地说，关于知识-如何的最佳理论，应当既与我们最好的心理学理论相容，也与我们最好的关于知识-如何归赋的语言学理论相容（参 Stanley 2011a, 2011b, 2011c；Cath 2015a 对语言学方法论的辩护）[^cath-2015a][^stanley-2011a]。
+    step2: |-
+      若干哲学家反对说，理智主义者给了语言学考虑过重的分量；在思考知识-如何的本性时，也应把来自认知科学的其他考虑纳入进来（Noë 2005, 2011；Devitt 2011；Brown 2013；Johnson 2006；Glick 2011；Roth & Cummins 2011）[^brown-2013][^devitt-2011][^glick-2011][^johnson-2006][^noë-2005][^roth-2011]。但由此并不推出语言学论证应被视为 **毫无** 证据价值而弃置。试看一种类比。可以说，关于信念与欲望的最佳理论，是把它们视为命题态度的理论。该理论与我们如何归赋信念与欲望相容（即信念归赋的形式是“*S* 相信 *p*”，其中“*p*”按标准被理解为代表一个命题）。但它也与常识心理学相容：按后者，把信念与欲望视为命题态度有助于解释行为。依同理，理想地说，关于知识-如何的最佳理论，应当既与我们最好的心理学理论相容，也与我们最好的关于知识-如何归赋的语言学理论相容（参 Stanley 2011a, 2011b, 2011c；Cath 2015a 对语言学方法论的辩护）[^cath-2015a][^stanley-2011a]。
   - id: 83
     kind: body
     source: |-
       ### 4.3 Second Group of Objections
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.3 第二组反对意见
+    step2: |-
+      ### 4.3 第二组反对意见
   - id: 84
     kind: body
     source: |-
       Among those engaging with the linguistic argument, many have objected that it fails to adequately capture the truth conditions of knowledge-how ascriptions (Roberts 2009; Brogaard 2009, 2011; Michaelis 2011; Bengson & Moffett 2011a; Ginzburg 2011; Abbott 2013; Santorio 2016; Hornsby 2016)[^abbott-2013][^bengson-2011a][^brogaard-2009][^ginzburg-2011][^hornsby-2016][^michaelis-2011][^roberts-2009][^santorio-2016]. Some have argued against the claim that knowledge-wh is a matter of knowing a proposition that answers a question (**Semantics for knowledge-wh)**. For example, Carr (1979, 1981) argues that when you know how to do something, you have an attitude that essentially takes an act as its object. But when you know that something is the case, you have an attitude that essentially takes a proposition as its object. Yet, intellectualists might reply that knowledge-how might be an attitude towards an act *in virtue of* being an attitude towards a proposition about that act.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在参与语言学论证的人中，许多人反对说，该论证未能充分把握知识-如何归赋的真值条件（Roberts 2009；Brogaard 2009, 2011；Michaelis 2011；Bengson & Moffett 2011a；Ginzburg 2011；Abbott 2013；Santorio 2016；Hornsby 2016）[^abbott-2013][^bengson-2011a][^brogaard-2009][^ginzburg-2011][^hornsby-2016][^michaelis-2011][^roberts-2009][^santorio-2016]。有些人反对“wh-知识就在于知道一个回答某问题的命题”这一主张（**wh-知识语义学**）。例如，Carr（1979, 1981）主张：当你知道如何做某事时，你具有一种本质上以行动为对象的态度；而当你知道某事如此时，你具有一种本质上以命题为对象的态度。然而，理智主义者可能回应说：知识-如何可以是对某个行动的态度，其根据在于它是对关于该行动之命题的态度。
+    step2: |-
+      在参与语言学论证的人中，许多人反对说，该论证未能充分把握知识-如何归赋的真值条件（Roberts 2009；Brogaard 2009, 2011；Michaelis 2011；Bengson & Moffett 2011a；Ginzburg 2011；Abbott 2013；Santorio 2016；Hornsby 2016）[^abbott-2013][^bengson-2011a][^brogaard-2009][^ginzburg-2011][^hornsby-2016][^michaelis-2011][^roberts-2009][^santorio-2016]。有些人反对“wh-知识就在于知道一个回答某问题的命题”这一主张（**wh-知识语义学**）。例如，Carr（1979, 1981）主张：当你知道如何做某事时，你具有一种本质上以行动为对象的态度；而当你知道某事如此时，你具有一种本质上以命题为对象的态度。然而，理智主义者可能回应说：知识-如何可以是对某个行动的态度，**其根据在于** 它是对关于该行动之命题的态度。
   - id: 85
     kind: body
     source: |-
       Others have questioned whether the complement “which team is winning” in “*S* knows which team is winning” is, semantically, just like an interrogative (Brogaard 2009, 2011; Ginzburg 1995a, 1995b, 1996, 2011; Ginzburg & Sag 2000)[^brogaard-2009][^ginzburg-1995a][^ginzburg-2000]. One argument against this assumption is that, if, e.g., “which team is winning” denoted a question, we would expect it to co-refer with “the question of which team is winning”. Yet we cannot substitute such expression-pairs *salva veritate*. Suppose Jenny knows/discovered/revealed an interesting question and suppose the interesting question discovered by Jenny is “who left yesterday?”. Even so, it does not follow that Jenny knows/discovered/revealed who left yesterday. A response to this objection might be that these examples exploit a subtle equivocation (Stanley 2011b: ch. 2, following King 2002)[^king-2002][^stanley-2011b]. Consider “Jamaal discovered a new element”. In it, “discovered” denotes a relation between Jamaal and an object, a chemical element. On the other hand, in the sentence “Jamaal discovered who left yesterday”, “discovered” denotes a different relation, one that holds between Jamaal and something of a different sort, namely, the proposition answering the question expressed by “who left yesterday”. It is this second relation which is relevant for the intellectualist. This is supported by the fact that the “[t]he former relation would be expressed in German by ‘*kennen*’, and the latter by ‘*wissen*’” (Stanley 2011b: 66)[^stanley-2011b]. (For more relevant discussion, see Parent 2014.)[^parent-2014]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一些人质疑，“*S* 知道哪支队伍在获胜”中的补语“哪支队伍在获胜”，在语义上是否就等同于一个疑问句（Brogaard 2009, 2011；Ginzburg 1995a, 1995b, 1996, 2011；Ginzburg & Sag 2000）[^brogaard-2009][^ginzburg-1995a][^ginzburg-2000]。针对这一假定的一个论证是：若“哪支队伍在获胜”指谓一个问题，我们就应期待它与“哪支队伍在获胜这个问题”同指；然而我们无法在保全真值的条件下替换这样的表达式对。设珍妮知道／发现／揭示了一个有趣的问题，并设珍妮发现的这个有趣问题是“昨天谁离开了？”；即便如此，也推不出珍妮知道／发现／揭示了昨天谁离开了。对这一反对意见的一个回应可以是：这些例子利用了一种微妙的歧义（Stanley 2011b: 第 2 章，循 King 2002）[^king-2002][^stanley-2011b]。试看“贾马尔发现了一种新元素”。其中“发现”指谓贾马尔与一个对象（一种化学元素）之间的关系。另一方面，在“贾马尔发现昨天谁离开了”这句话中，“发现”指谓另一种关系，它成立于贾马尔与某种别的东西之间，即回答“昨天谁离开了”所表达问题的命题。对理智主义者相关的正是这第二种关系。这一点为如下事实所支持：“前一种关系在德语中以 *kennen* 表达，后一种关系以 *wissen* 表达”（Stanley 2011b: 66）[^stanley-2011b]。（更多相关讨论见 Parent 2014。）[^parent-2014]
+    step2: |-
+      另一些人质疑：“*S* 知道哪支队伍在获胜”中的补语“哪支队伍在获胜”，在语义上是否就等同于一个疑问句（Brogaard 2009, 2011；Ginzburg 1995a, 1995b, 1996, 2011；Ginzburg & Sag 2000）[^brogaard-2009][^ginzburg-1995a][^ginzburg-2000]。针对这一假定的一个论证是：若“哪支队伍在获胜”指谓一个问题，我们就应期待它与“哪支队伍在获胜这个问题”同指；然而我们无法在保全真值的条件下替换这样的表达式对。设珍妮知道／发现／揭示了一个有趣的问题，并设珍妮发现的这个有趣问题是“昨天谁离开了？”；即便如此，也推不出珍妮知道／发现／揭示昨天谁离开了。对此的一个回应是：这些例子利用了一种微妙的歧义（Stanley 2011b: 第 2 章，循 King 2002）[^king-2002][^stanley-2011b]。试看“贾马尔发现了一种新元素”：其中“发现”指谓贾马尔与一个对象（一种化学元素）之间的关系。另一方面，在“贾马尔发现昨天谁离开了”中，“发现”指谓另一种关系，它成立于贾马尔与某种别的东西之间，即回答“昨天谁离开了”所表达问题的命题。对理智主义者相关的正是这第二种关系。这一点为如下事实所支持：“前一种关系在德语中以 *kennen* 表达，后一种关系以 *wissen* 表达”（Stanley 2011b: 66）[^stanley-2011b]。（更多相关讨论见 Parent 2014。）[^parent-2014]
   - id: 86
     kind: body
     source: |-
       Others have questioned **Logical form**—the claim that in knowledge-how ascriptions, the embedded complement is an interrogative. *Objectualists* claim that the complement of knowledge-how ascriptions (“how to Φ”) is not an interrogative but an “objectual” complement—one denoting ways to Φ instead of propositions representing these ways (Bengson & Moffett 2011a)[^bengson-2011a]. Objectualism is motivated by the consideration that “knowing how to Φ” seems to be equivalent to “knowing a way to Φ” in pretty much every context and by the apparent gradability of “knows-how” ascriptions (cf. section 3). An objectual semantics is in a good place to explain the gradability of knowledge-how ascriptions, since objectual knowledge ascriptions also permit degree modifiers—one can have partial knowledge of Paris, or know Paris better than someone else. Along similar lines, Bach (2012) and Abbott (2013) argue that in knowledge-how ascriptions “how to Φ” might work as a *free relative*. A free relative is a wh-phrase that denotes an individual. So for example, “what I was given for dinner” can be used as an interrogative in “I asked what I was given for dinner” but also as a free relative in “I ate what I was given for dinner”. In the latter ascription, it denotes some food that was given to me for dinner. In that sense, “how to Φ” according to this proposal, in “*S* knows how to Φ” should be interpreted as a free relative denoting a way to Φ, rather than an answer to the question “how to Φ?”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一些人质疑**逻辑形式**——即主张在知识-如何归赋中，嵌入的补语是疑问句。**对象论者**主张，知识-如何归赋的补语（“如何 Φ”）不是疑问句，而是“对象性”补语——它指谓 Φ 的方式，而非表征这些方式的命题（Bengson & Moffett 2011a）[^bengson-2011a]。对象论的动机有二：几乎在每个语境中，“知道如何 Φ”似乎都等同于“知道一种 Φ 的方式”；以及“知道如何”归赋的表面可分级性（参第 3 节）。对象性语义学很适于解释知识-如何归赋的可分级性，因为对象性知识归赋也允许程度修饰——人可以拥有关于巴黎的部分知识，或比别人更了解巴黎。沿着相似路线，Bach（2012）与 Abbott（2013）主张，在知识-如何归赋中，“如何 Φ”可能充当**自由关系从句**（free relative）。自由关系从句是指谓个体的 wh-短语。例如，“我被给作晚餐的东西”既可在“我问我被给作晚餐的是什么”中用作疑问句，也可在“我吃了我被给作晚餐的东西”中用作自由关系从句；在后一归赋中，它指谓某种被给我作晚餐的食物。在这个意义上，按该提议，在“*S* 知道如何 Φ”中，“如何 Φ”应被解读为指谓一种 Φ 方式的自由关系从句，而非对“如何 Φ？”这一问题的回答。
+    step2: |-
+      另一些人质疑 **逻辑形式**——即在知识-如何归赋中，嵌入的补语是疑问句这一主张。对象论者主张，知识-如何归赋的补语（“如何 Φ”）不是疑问句，而是“对象性”补语——它指谓 Φ 的方式，而非表征这些方式的命题（Bengson & Moffett 2011a）[^bengson-2011a]。对象论的动机有二：一是在几乎每个语境中，“知道如何 Φ”似乎都等同于“知道一种 Φ 的方式”；二是“知道如何”归赋的表面可分级性（参第 3 节）。对象性语义学很适于解释知识-如何归赋的可分级性，因为对象性知识归赋也允许程度修饰——人可以拥有关于巴黎的部分知识，或比别人更了解巴黎。沿着相似路线，Bach（2012）与 Abbott（2013）主张，在知识-如何归赋中，“如何 Φ”可能充当自由关系从句（free relative）。自由关系从句是指谓个体的 wh-短语。例如，“我被给作晚餐的东西”既可在“我问我被给作晚餐的是什么”中用作疑问句，也可在“我吃了我被给作晚餐的东西”中用作自由关系从句；在后一归赋中，它指谓某种被给我作晚餐的食物。按该提议，在“*S* 知道如何 Φ”中，“如何 Φ”便应解读为指谓某种 Φ 方式的自由关系从句，而非对“如何 Φ？”这一问题的回答。
   - id: 87
     kind: body
     source: |-
       To this proposal, some respond that knowledge-how ascriptions do not pass the standard tests for detecting free relative complements (Schaffer 2009: 486–91; Habgood-Coote 2018a)[^habgood-coote-2018a][^schaffer-2009]. Take the coordinated use of knowledge-how and other knowledge-wh ascriptions in “*S* has always known how to swim and never has wondered how”. This coordination suggests that both kinds of ascriptions have an interrogative as a complement (Bresnan & Grimshaw 1978: 332; M. Baker 1996: 204–7)[^baker-1996][^bresnan-1978]. Further, knowledge-how ascriptions can be extended to embed a multiple interrogative, as in “Mark knows how to do what?” , whereas free relative complements do not tolerate multiple wh-phrases (C. Baker 1968; Bresnan & Grimshaw 1978: 335)[^baker-1968][^bresnan-1978]. Moreover, infinitival wh phrases, such as “what to do”, “how to do”, “who to ask” never allow for free relative reading (Huddleston & Pullum 2002: 1070–3)[^huddleston-2002]. Finally, a standard test for telling apart free relatives and interrogatives is to see if they embed under “believe”, for “believe” does not take interrogatives as complements but it does tolerate free relatives. (For example, “Mark believed who was charged guilty” cannot mean “Mark believed the answer to the question “Who was charged guilty?””. Rather, it means that Mark believed the person who was charged guilty.) However, interestingly, “believe” can never embed infinitival constructions such as “what to do”, “how to do”, or “who to ask”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对这一提议，有人回应说，知识-如何归赋不能通过检测自由关系从句补语的标准测试（Schaffer 2009: 486–91；Habgood-Coote 2018a）[^habgood-coote-2018a][^schaffer-2009]。试看“*S* 一直知道如何游泳，且从未想知道如何”中知识-如何与其他 wh-知识归赋的并列使用。这种并列表明，两类归赋都以疑问句为补语（Bresnan & Grimshaw 1978: 332；M. Baker 1996: 204–7）[^baker-1996][^bresnan-1978]。进一步说，知识-如何归赋可以扩展为嵌入多重疑问句，如“马克知道如何做什么？”；而自由关系从句补语不容许多重 wh-短语（C. Baker 1968；Bresnan & Grimshaw 1978: 335）[^baker-1968][^bresnan-1978]。此外，“该做什么”“如何做”“该问谁”这类不定式 wh-短语，从不允许自由关系从句读法（Huddleston & Pullum 2002: 1070–3）[^huddleston-2002]。最后，区分自由关系从句与疑问句的一项标准测试，是看它们能否嵌入“相信”之下，因为“相信”不以疑问句为补语，却容许自由关系从句。（例如，“马克相信谁被指控有罪”不能意指“马克相信‘谁被指控有罪？’这一问题的答案”，而是意指马克相信那个被指控有罪的人。）然而有趣的是，“相信”从不能嵌入“该做什么”“如何做”或“该问谁”这类不定式构造。
+    step2: |-
+      对这一提议，有人回应说：知识-如何归赋不能通过检测自由关系从句补语的标准测试（Schaffer 2009: 486–91；Habgood-Coote 2018a）[^habgood-coote-2018a][^schaffer-2009]。试看“*S* 一直知道如何游泳，且从未想知道如何”中知识-如何与其他 wh-知识归赋的并列使用——这种并列表明，两类归赋都以疑问句为补语（Bresnan & Grimshaw 1978: 332；M. Baker 1996: 204–7）[^baker-1996][^bresnan-1978]。进一步说，知识-如何归赋可以扩展为嵌入多重疑问句，如“马克知道如何做什么？”，而自由关系从句补语不容许多重 wh-短语（C. Baker 1968；Bresnan & Grimshaw 1978: 335）[^baker-1968][^bresnan-1978]。此外，“该做什么”“如何做”“该问谁”这类不定式 wh-短语，从不允许自由关系从句读法（Huddleston & Pullum 2002: 1070–3）[^huddleston-2002]。最后，区分自由关系从句与疑问句的一项标准测试，是看它们能否嵌入“相信”之下，因为“相信”不以疑问句为补语，却容许自由关系从句。（例如，“马克相信谁被指控有罪”不能意指“马克相信‘谁被指控有罪？’这一问题的答案”，而是意指马克相信那个被指控有罪的人。）然而有趣的是，“相信”从不能嵌入“该做什么”“如何做”或“该问谁”这类不定式构造。
   - id: 88
     kind: body
     source: |-
       Finally, some have questioned whether **Semantics for knowledge-wh** applies to ascriptions embedding infinitival complements, like knowledge-how ascriptions. Roberts (2009) argues that, as opposed to other wh complements, the meaning of “how” denotes a property rather than a proposition when embedded in infinitival clauses. Santorio (2016) defends a Gibbardian semantics for knowledge ascriptions embedding infinitive interrogatives, on which these ascriptions ascribe maximal performance plans compatible with an agent’s plans (for more objections to **Semantics for knowledge-wh**, see also Sgaravatti & Zardini 2008 and George 2013)[^george-2013][^sgaravatti-2008][^zardini-2013].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，有些人质疑**wh-知识语义学**是否适用于嵌入不定式补语的归赋，如知识-如何归赋。Roberts（2009）主张，与其他 wh-补语不同，“how”嵌入不定式从句时，其意义指谓一种属性而非命题。Santorio（2016）为嵌入不定式疑问句的知识归赋辩护一种吉伯德式语义学：按此，这类归赋归赋的是与行动者计划相容的最大表现计划（对**wh-知识语义学**的更多反对意见，另见 Sgaravatti & Zardini 2008 与 George 2013）[^george-2013][^sgaravatti-2008][^zardini-2013]。
+    step2: |-
+      最后，有些人质疑 **wh-知识语义学** 是否适用于嵌入不定式补语的归赋，如知识-如何归赋。Roberts（2009）主张：与其他 wh-补语不同，“how”嵌入不定式从句时，其意义指谓一种属性而非命题。Santorio（2016）为嵌入不定式疑问句的知识归赋，辩护一种吉伯德式语义学：按此，这类归赋所归赋者，是与行动者计划相容的最大表现计划（对 **wh-知识语义学** 的更多反对意见，另见 Sgaravatti & Zardini 2008 与 George 2013）[^george-2013][^sgaravatti-2008][^zardini-2013]。
   - id: 89
     kind: body
     source: |-
       ### 4.4 Third Group of Objections
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.4 第三组反对意见
+    step2: |-
+      ### 4.4 第三组反对意见
   - id: 90
     kind: body
     source: |-
       The perhaps most serious objection to the linguistic argument is that it ignores cross-linguistic evidence about how knowledge-how is ascribed in languages other than English (Rumfitt 2003; Roberts 2009; Glick 2012; Wiggins 2012; Abbott 2013; Douskos 2013; Ditter 2016)[^abbott-2013][^ditter-2016][^douskos-2013][^glick-2012][^roberts-2009][^rumfitt-2003][^wiggins-2012]. Rumfitt (2003) argues that the linguistic facts on behalf of intellectualism are overstated. Many languages—e.g., French, Italian, Spanish, and Russian—ascribe knowledge-how not just through ascriptions embedding interrogatives (“*S* knows how to Φ”) but also through ascriptions embedding bare infinitivals (“*S* knows + (bare infinitive) to Φ” (= “*S* knows to Φ”)) as in “*Marie sait nager*” and “*Maria sa nuotare*”. Stanley (2011b, 2011c) responds that these ascriptions are to be analyzed as embedding an *implicit* interrogative—one where the question word “how” is not explicitly articulated. However, Abbott (2013), Hornsby (2016), and Ditter (2016) have observed that this response does not help with yet other languages, such as Russian, in which knowledge-how ascriptions—of the form “*S* (attitude verb) *V*s + (infinitive) to Φ”—feature an embedding verb *V* (“*umetj*”) that *never* licenses an interrogative complement nor a declarative complement (i.e., a *that*-clause).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对语言学论证也许最严重的反对意见是：它忽视了关于英语之外语言如何归赋知识-如何的跨语言证据（Rumfitt 2003；Roberts 2009；Glick 2012；Wiggins 2012；Abbott 2013；Douskos 2013；Ditter 2016）[^abbott-2013][^ditter-2016][^douskos-2013][^glick-2012][^roberts-2009][^rumfitt-2003][^wiggins-2012]。Rumfitt（2003）主张，支持理智主义的语言学事实被夸大了。许多语言——例如法语、意大利语、西班牙语与俄语——不仅通过嵌入疑问句的归赋（“*S* 知道如何 Φ”）来归赋知识-如何，也通过嵌入光杆不定式的归赋（“*S* 知道 +（光杆不定式）Φ”（＝“*S* 知道去 Φ”））来归赋，如“*Marie sait nager*”与“*Maria sa nuotare*”。Stanley（2011b, 2011c）回应说，这类归赋应分析为嵌入了**隐含的**疑问句——即疑问词“how”未被明确说出的疑问句。然而，Abbott（2013）、Hornsby（2016）与 Ditter（2016）指出，这一回应无助于另一些语言，如俄语：在俄语中，形式为“*S*（态度动词）*V*s +（不定式）Φ”的知识-如何归赋，其嵌入动词 *V*（*umetj*）**从不**允许疑问句补语，也不允许陈述句补语（即 that-从句）。
+    step2: |-
+      对语言学论证也许最严重的反对意见是：它忽视了关于英语之外语言如何归赋知识-如何的跨语言证据（Rumfitt 2003；Roberts 2009；Glick 2012；Wiggins 2012；Abbott 2013；Douskos 2013；Ditter 2016）[^abbott-2013][^ditter-2016][^douskos-2013][^glick-2012][^roberts-2009][^rumfitt-2003][^wiggins-2012]。Rumfitt（2003）主张：支持理智主义的语言学事实被夸大了。许多语言——例如法语、意大利语、西班牙语与俄语——不仅通过嵌入疑问句的归赋（“*S* 知道如何 Φ”）归赋知识-如何，也通过嵌入光杆不定式的归赋（“*S* 知道 +（光杆不定式）Φ”，即“*S* 知道去 Φ”）来归赋，如“*Marie sait nager*”与“*Maria sa nuotare*”。Stanley（2011b, 2011c）回应说：这类归赋应分析为嵌入了 **隐含的** 疑问句——即疑问词“how”未被明确说出的疑问句。然而，Abbott（2013）、Hornsby（2016）与 Ditter（2016）指出，这一回应无助于另一些语言，如俄语：在俄语中，形式为“*S*（态度动词）*V*s +（不定式）Φ”的知识-如何归赋，其嵌入动词 *V*（*umetj*）**从不** 允许疑问句补语，也不允许陈述句补语（即 that-从句）。
   - id: 91
     kind: body
     source: |-
       In order to assess what this cross-linguistic evidence really establishes, consider a new version of the linguistic argument. Let “*S* *V*s Φ” be an ascription of knowledge-how in an arbitrary language *L* that is correctly translated in English by “*S* knows + (interrogative) how (*de se*) to Φ”. Assuming that translation preserves at least truth conditions, “*S* *V*s Φ” will be true in *L* just in case “*S* knows + (interrogative) how (*de se*) to Φ” is true in English. Call this the **Interpretation Premise.** By the Disquotational Schema, “*S* knows how to Φ” is true in English just in case *S* knows how to Φ; so, we have that “*S* *V*s Φ” is true in *L* just in case *S* knows how to Φ. This conclusion, together with the **Semantics for knowledge wh**, the **Logical Form**, and the **Interpretation Premise**, yields that “*S* *V*s Φ” is true in *L* just in case *S* bears a knowledge relation towards an answer to the question “How he himself could Φ”. Through this argument, the truth conditions of any knowledge-how ascription, whether in English or in any other language, are reduced to propositional knowledge, whether the relevant knowledge-how ascription has or not the interrogative form.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为评估这一跨语言证据究竟确立了些什么，考虑语言学论证的一个新版本。令“*S* *V*s Φ”是某种语言 *L* 中知识-如何的归赋，它在英语中被正确地译为“*S* knows +（疑问句）how（*de se*）to Φ”。假定翻译至少保全真值条件，则“*S* *V*s Φ”在 *L* 中为真，当且仅当“*S* knows +（疑问句）how（*de se*）to Φ”在英语中为真。称此前提为**解释前提**。由去引号图式，“*S* 知道如何 Φ”在英语中为真，当且仅当 *S* 知道如何 Φ；于是我们有：“*S* *V*s Φ”在 *L* 中为真，当且仅当 *S* 知道如何 Φ。
+    step2: |-
+      为评估这一跨语言证据究竟确立了什么，考虑语言学论证的一个新版本。令“*S* *V*s Φ”是某种语言 *L* 中知识-如何的归赋，它在英语中被正确地译为“*S* knows +（疑问句）how（*de se*）to Φ”。假定翻译至少保全真值条件，则“*S* *V*s Φ”在 *L* 中为真，当且仅当“*S* knows +（疑问句）how（*de se*）to Φ”在英语中为真。称此前提为 **解释前提**。由去引号图式，“*S* 知道如何 Φ”在英语中为真，当且仅当 *S* 知道如何 Φ；于是我们有：“*S* *V*s Φ”在 *L* 中为真，当且仅当 *S* 知道如何 Φ。这一结论，连同 **wh-知识语义学**、**逻辑形式** 与 **解释前提**，推出：“*S* *V*s Φ”在 *L* 中为真，当且仅当 *S* 对“他自己如何能够 Φ”这一问题的回答持一种知识关系。经由这一论证，任何知识-如何归赋（无论在英语中还是在任何别的语言中）的真值条件，都被还原为命题知识——无论该知识-如何归赋是否取疑问句形式。
   - id: 92
     kind: body
     source: |-
       Proponents of the cross-linguistic argument might challenge **Logical Form**: the different ways of ascribing knowledge-how (through the infinitival form and through the interrogative form) in these languages indicate that knowledge-how ascriptions in English are *ambiguous* between two not truth-conditionally equivalent logical forms: an interrogative form and a bare infinitival form (*Ambiguity Hypothesis*) (Rumfitt 2003; Wiggins 2012; Setiya 2012; Glick 2012; Ditter 2016; Hornsby 2016)[^ditter-2016][^glick-2012][^hornsby-2016][^rumfitt-2003][^setiya-2012][^wiggins-2012]. The main piece of evidence for the *Ambiguity Hypothesis* is that in languages employing both the interrogative form and the infinitival form, those different ascriptions *can* come apart in their truth conditions. For example, it is claimed that the Italian sentence “*Mario sa come nuotare*” (interrogative form = “Mario knows how to swim”) may be usedly true, while the sentence “*Mario sa nuotare*” (infinitival form = Mario knows to swim) is false. This would be the case, for example, if Mario lacks (in some sense) the ability to swim (so too for its French and Spanish translations). Similarly, Ditter argues that in Russian, the interrogative construction must ascribe a different state from the “*umetj*” ascription (+ infinitival), on the ground that one can coherently use in Russian sentences of the following form:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      跨语言论证的支持者可能挑战**逻辑形式**：这些语言中以不同方式（经由不定式形式与经由疑问句形式）归赋知识-如何，表明英语中的知识-如何归赋在两种真值条件并不等价的逻辑形式之间是**歧义的**：疑问句形式与光杆不定式形式（**歧义假说**）（Rumfitt 2003；Wiggins 2012；Setiya 2012；Glick 2012；Ditter 2016；Hornsby 2016）[^ditter-2016][^glick-2012][^hornsby-2016][^rumfitt-2003][^setiya-2012][^wiggins-2012]。支持**歧义假说**的主要证据是：在同时使用疑问句形式与不定式形式的语言中，这些不同的归赋**可以**在真值条件上分道。例如，据说意大利语句“*Mario sa come nuotare*”（疑问句形式＝“马里奥知道如何游泳”）可以恰当地为真，而“*Mario sa nuotare*”（不定式形式＝“马里奥知道去游泳”）则为假。例如，若马里奥（在某种意义上）缺乏游泳能力，情形便会如此（其法语与西班牙语译文亦然）。类似地，Ditter 主张，在俄语中，疑问句构造所归赋的状态必不同于使用“*umetj*”的归赋（+不定式），理由是俄语中如下形式的句子可以融贯地使用：
+    step2: |-
+      跨语言论证的支持者可能挑战 **逻辑形式**：这些语言中以不同方式（经不定式形式与经疑问句形式）归赋知识-如何。这表明，英语中的知识-如何归赋在两种真值条件并不等价的逻辑形式之间是歧义的：疑问句形式与光杆不定式形式（歧义假说）（Rumfitt 2003；Wiggins 2012；Setiya 2012；Glick 2012；Ditter 2016；Hornsby 2016）[^ditter-2016][^glick-2012][^hornsby-2016][^rumfitt-2003][^setiya-2012][^wiggins-2012]。支持歧义假说的主要证据是：在同时使用疑问句形式与不定式形式的语言中，这些不同的归赋可以在真值条件上分道。例如，据说意大利语句“*Mario sa come nuotare*”（疑问句形式＝“马里奥知道如何游泳”）可以恰当地为真，而“*Mario sa nuotare*”（不定式形式＝“马里奥知道去游泳”）则为假。例如，若马里奥（在某种意义上）缺乏游泳能力，情形便会如此（其法语与西班牙语译文亦然）。类似地，Ditter 主张，在俄语中，疑问句构造所归赋的状态必不同于使用“*umetj*”的归赋（+不定式），理由是俄语中如下形式的句子可以融贯地使用：
   - id: 93
     kind: body
     source: |-
       **(6)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(6)**
+    step2: |-
+      **(6)**
   - id: 94
     kind: body
     source: |-
       *John znaet kak igrat’ na pianino, no on ne umeyet igrat.* John knows + (interrogative) how to play the piano, but he does not know (“*umetj*”) + (infinitival) to play the piano. “John knows how to play the piano, but he doesn’t know how to do it”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *John znaet kak igratʼ na pianino, no on ne umeyet igrat.* 约翰知道（疑问句形式）如何弹钢琴，但他不知道（*umetj*，不定式形式）弹钢琴。即“约翰知道如何弹钢琴，但他不会弹”。
+    step2: |-
+      *John znaet kak igratʼ na pianino, no on ne umeyet igrat.* 约翰知道（疑问句形式）如何弹钢琴，但他不知道（*umetj*，不定式形式）弹钢琴。意即“约翰知道如何弹钢琴，但他不会弹”。
   - id: 95
     kind: body
     source: |-
       According to these authors, this difference between interrogative embedding constructions and infinitival embedding construction shows up also in English locally for the verb *learn*: “*S* learnt to swim” differs from “*S* learnt how to swim” in that the former, but not the latter, is ability-entailing (Rumfitt 2003; Glick 2012)[^glick-2012][^rumfitt-2003].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      据这些作者，疑问句嵌入构造与不定式嵌入构造之间的这一差异，在英语中也局部地见于动词 *learn*：“*S* learnt to swim”（学会了游泳）与“*S* learnt how to swim”（学会了如何游泳）之别在于，前者而非后者蕴涵能力（Rumfitt 2003；Glick 2012）[^glick-2012][^rumfitt-2003]。
+    step2: |-
+      据这些作者，疑问句嵌入构造与不定式嵌入构造之间的这一差异，在英语中也局部地见于动词 *learn*：“*S* learnt to swim”（学会了游泳）与“*S* learnt how to swim”（学会了如何游泳）之别在于：前者蕴涵能力，后者则否（Rumfitt 2003；Glick 2012）[^glick-2012][^rumfitt-2003]。
   - id: 96
     kind: body
     source: |-
       This argument for the *Ambiguity Hypothesis* might be in certain ways too quick. The only way to make (6) intelligible in English is to translate it as (7), where the generic interpretation of the first knowledge-how ascription and the *de se* interpretation of the second ascription are made explicit:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      支持**歧义假说**的这一论证在某方面也许过于仓促。要使 (6) 在英语中可理解，唯一的办法是把它译为 (7)，并把第一个知识-如何归赋的泛称解读与第二个归赋的自反解读明确说出来：
+    step2: |-
+      支持 **歧义假说** 的这一论证在某些方面也许过于仓促。要使 (6) 在英语中可理解，唯一的办法是把它译为 (7)，并把第一个知识-如何归赋的泛称解读与第二个归赋的*de se* 解读明确说出来：
   - id: 97
     kind: body
     source: |-
       **(7)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(7)**
+    step2: |-
+      **(7)**
   - id: 98
     kind: body
     source: |-
       Mary knows how one could play the piano but does not know how to play the piano herself.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      玛丽知道一个人可以如何弹钢琴，但她自己不知道如何弹钢琴。
+    step2: |-
+      玛丽知道一个人可以如何弹钢琴，但她自己不知道如何弹钢琴。
   - id: 99
     kind: body
     source: |-
       However, (6) cannot be interpreted as (8) on pain of contradiction:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，若把 (6) 解读为 (8)，便会陷于矛盾：
+    step2: |-
+      然而，若把 (6) 解读为 (8)，便会陷于矛盾：
   - id: 100
     kind: body
     source: |-
       **(8)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(8)**
+    step2: |-
+      **(8)**
   - id: 101
     kind: body
     source: |-
       Mary knows how she herself could play the piano but does not know how to play the piano herself.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      玛丽知道她自己可以如何弹钢琴，但她自己不知道如何弹钢琴。
+    step2: |-
+      玛丽知道她自己可以如何弹钢琴，但她自己不知道如何弹钢琴。
   - id: 102
     kind: body
     source: |-
       If so, the fact that (6) is acceptable in Russian does not establish that the interrogative form in Russian cannot *also* have an interpretation (the *de se* interpretation) on which it is truth conditionally equivalent to the Russian’s infinitival form. Here is a competitive explanation of the available cross-linguistic evidence that does not commit us to the *Ambiguity Hypothesis*. Just like English’s ascriptions, the interrogative form in Russian is ambiguous between a *de se* interpretation, on which it is truth conditionally equivalent to the infinitival form, and a generic interpretation of the subject of the infinitival embedded verb, on which it comes apart from the infinitival form. This explains why (6) is felicitous and why it can be translated as (7) but not as (8). On this explanation, this evidence might be compatible with English knowledge-how ascriptions univocally having the same logical form (the interrogative form), even though the embedded interrogative can receive either the generic or the *de se* interpretation, depending on the subject of the infinitival embedded verb.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若如此，则 (6) 在俄语中可接受这一事实，并不能确立俄语中的疑问句形式**不能**也有一种解读（自反解读），使其在真值条件上等同于俄语的不定式形式。这里有一种对现有跨语言证据的竞争性解释，它并不使我们承诺**歧义假说**。与英语的归赋一样，俄语中的疑问句形式也在两种解读之间有歧义：一种是自反解读，按此它与不定式形式在真值条件上等价；另一种是对不定式嵌入动词之主语的泛称解读，按此它与不定式形式分道。
+    step2: |-
+      若如此，则 (6) 在俄语中可接受这一事实，并不能确立俄语中的疑问句形式 **不能** 也有一种解读（即*de se* 解读），使其在真值条件上等同于俄语的不定式形式。这里有一种对现有跨语言证据的竞争性解释，它并不使我们承诺 **歧义假说**。与英语的归赋一样，俄语中的疑问句形式也在两种解读之间有歧义：一是*de se* 解读，按此它与不定式形式在真值条件上等价；二是对不定式嵌入动词之主语的泛称解读，按此它与不定式形式分道。
   - id: 103
     kind: body
     source: |-
       ## 5. The Action Theory Argument and the Question of Joint Action
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5 行动理论论证与联合行动问题
+    step2: |-
+      ## 5 行动理论论证与联合行动问题
   - id: 104
     kind: body
     source: |-
       Ryle is often interpreted as claiming that knowledge-how ascriptions are nothing more than ascriptions of an ability or a complex of dispositions to act in a skilled or intelligent manner (though see Hornsby 2011: 82 and Waights Hickman 2019 for dissent)[^hornsby-2011][^waights-2019]. This interpretation is based on passages in the *Concept of Mind*, such as the following:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人们常把赖尔解读为主张：知识-如何的归赋不过是对一种能力、或对一组以熟练或聪明方式行动之倾向的归赋（不过异议见 Hornsby 2011: 82 与 Waights Hickman 2019）[^hornsby-2011][^waights-2019]。这一解读基于《心的概念》中的一些段落，例如下面这段：
+    step2: |-
+      人们常把赖尔解读为主张：知识-如何的归赋不过是对一种能力、或对一组以熟练或聪明方式行动之倾向的归赋（异议见 Hornsby 2011: 82 与 Waights Hickman 2019）[^hornsby-2011][^waights-2019]。这一解读基于《心的概念》中的一些段落，例如下面这段：
   - id: 105
     kind: body
     source: |-
       > When a person is described by one or other of the intelligence epithets such as “shrewd” or “silly”, “prudent” or “imprudent”, the description imputes to him not the knowledge or ignorance of this or that truth, but the ability, or inability, to do certain sorts of things. (Ryle 1949: 27)[^ryle-1949]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 当一个人被“精明”或“愚笨”、“审慎”或“轻率”之类某个智能语词所描述时，这一描述归赋给他的，不是对某个真理的知识或无知，而是做某些种类事情的能力或无能力。（Ryle 1949: 27）[^ryle-1949]
+    step2: |-
+      > 当一个人被“精明”或“愚笨”、“审慎”或“轻率”之类某个智能语词所描述时，这一描述归赋给他的，不是对某个真理的知识或无知，而是做某些种类事情的能力或无能力。（Ryle 1949: 27）[^ryle-1949]
   - id: 106
     kind: body
     source: |-
       Early intellectualists argued that knowledge-how does not entail ability (Ginet 1975; Stanley & Williamson 2001; Snowdon 2004)[^ginet-1975][^snowdon-2004][^stanley-2001]. For example, a pianist who lost their arms in a car accident may have lost her ability to play but still preserve her knowledge-how to play the piano (cf. Snowdon’s 2004: 8 expert omelette maker)[^snowdon-2004]; or a ski instructor might know how to do a ski stunt and, according to Stanley & Williamson (2001), still fail to have the ability to do it. By contrast, anti-intellectualists argue that it is important to distinguish between knowing how to perform a task, which corresponds to a general ability, and being (actually and circumstantially) able to perform it (Noë 2005; Glick 2012; Setiya 2012)[^glick-2012][^noë-2005][^setiya-2012]. So the pianist might have both general ability as well as knowledge-how, though they lack circumstantial ability. By contrast, the ski instructor does not clearly have knowledge-how to perform the ski stunt themselves, while they know how *one*, in general, can do it. Recent intellectualist views also take knowledge-how to go together with abilities (understood along Hawley’s 2003 notion of counterfactual success)[^hawley-2003] and argue that rightly construed intellectualism can vindicate this connection (Pavese 2015b; Cath 2020)[^cath-2020][^pavese-2015b].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      早期理智主义者主张，知识-如何并不蕴涵能力（Ginet 1975；Stanley & Williamson 2001；Snowdon 2004）[^ginet-1975][^snowdon-2004][^stanley-2001]。例如，一位在车祸中失去双臂的钢琴家，可能失去了演奏的能力，却仍保有其如何弹钢琴的知识（参 Snowdon 2004: 8 的煎蛋专家）[^snowdon-2004]；又如滑雪教练可能知道如何做某个滑雪特技，而据 Stanley & Williamson（2001），仍不拥有做它的能力。相反，反理智主义者主张，重要的是区分知道如何完成一个任务（对应于一种一般能力）与实际地、境况性地能够完成它（Noë 2005；Glick 2012；Setiya 2012）[^glick-2012][^noë-2005][^setiya-2012]。所以那位钢琴家可能既有一能力、又有知识-如何，只是缺乏境况性能力；相反，滑雪教练自己并不清楚地拥有做该特技的知识-如何，尽管他知道一个人一般可以如何做它。晚近的理智主义观点也认为知识-如何与能力相随（能力按 Hawley 2003 的反事实成功概念理解）[^hawley-2003]，并主张正确理解的理智主义可以申明这一关联（Pavese 2015b；Cath 2020）[^cath-2020][^pavese-2015b]。
+    step2: |-
+      早期理智主义者主张，知识-如何并不蕴涵能力（Ginet 1975；Stanley & Williamson 2001；Snowdon 2004）[^ginet-1975][^snowdon-2004][^stanley-2001]。例如，一位在车祸中失去双臂的钢琴家，可能失去了演奏能力，却仍保有其如何弹钢琴的知识（参 Snowdon 2004: 8 的煎蛋专家）[^snowdon-2004]；又如滑雪教练可能知道如何做某个滑雪特技，而据 Stanley & Williamson（2001），仍不拥有做它的能力。相反，反理智主义者主张，重要的是区分知道如何完成一个任务（对应于一种一般能力）与实际地、境况性地能够完成它（Noë 2005；Glick 2012；Setiya 2012）[^glick-2012][^noë-2005][^setiya-2012]。所以那位钢琴家可能既有一能力、又有知识-如何，只是缺乏境况性能力；相反，滑雪教练自己并不清楚地拥有做该特技的知识-如何，尽管他知道一个人一般可以如何做它。晚近的理智主义观点也认为知识-如何与能力相随（能力按 Hawley 2003 的反事实成功概念理解）[^hawley-2003]，并主张正确理解的理智主义可以申明这一关联（Pavese 2015b；Cath 2020）[^cath-2020][^pavese-2015b]。
   - id: 107
     kind: body
     source: |-
       Yet, everybody agrees that while knowledge-how might entail ability, ability is not sufficient for knowledge-how, as demonstrated by an example from Hawley (2003):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不过，人人都同意：知识-如何也许蕴涵能力，但能力并不足以构成知识-如何——Hawley（2003）的一个例子可作证明：
+    step2: |-
+      不过，人人都同意：知识-如何也许蕴涵能力，但能力并不足以构成知识-如何——Hawley（2003）的一个例子可作证明：
   - id: 108
     kind: body
     source: |-
       **Annoyance.** Susie is attempting to annoy Joe; she thinks smoking will do the trick. Whenever she smokes, she unconsciously and inadvertently taps on her cigarette pack. Unbeknownst to Susie, Joe does not mind cigarette smoke, but finds her tapping obnoxious.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **恼怒**：苏西正试图惹恼乔；她认为抽烟会奏效。每当她抽烟，她都会无意识地、不经意地敲击烟盒。苏西不知道的是，乔并不介意烟味，却觉得她敲烟盒很讨厌。
+    step2: |-
+      **恼怒**：苏西正试图惹恼乔；她认为抽烟会奏效。每当她抽烟，她都会无意识地、不经意地敲击烟盒。苏西不知道的是，乔并不介意烟味，却觉得她敲烟盒很讨厌。
   - id: 109
     kind: body
     source: |-
       Susie has the ability to annoy Joe, since she has the disposition to annoy Joe whenever she attempts to do so. But, intuitively, she does not know how to annoy him. A natural explanation of this is that she cannot annoy him *intentionally* (for structurally similar cases, see Carr 1979, 1981 and Bengson, Moffett, & Wright 2009)[^carr-1979]. Pretty much all sides of the dispute agree on the following claim (Ryle 1949; Stanley & Williamson 2001; Hawley 2003; Hornsby 2004, 2011; Stanley 2011b; Setiya 2012)[^hawley-2003][^hornsby-2004][^ryle-1949][^setiya-2012][^stanley-2011b][^stanley-2001]:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      苏西有惹恼乔的能力，因为她有“每次尝试便能惹恼乔”的倾向。但直觉上，她并不知道如何惹恼他。对此的一个自然解释是：她不能**有意地**惹恼他（结构上类似的例子，见 Carr 1979, 1981 与 Bengson, Moffett, & Wright 2009）[^carr-1979]。争论的各方几乎都同意如下主张（Ryle 1949；Stanley & Williamson 2001；Hawley 2003；Hornsby 2004, 2011；Stanley 2011b；Setiya 2012）[^hawley-2003][^hornsby-2004][^ryle-1949][^setiya-2012][^stanley-2011b][^stanley-2001]：
+    step2: |-
+      苏西有惹恼乔的能力，因为她有“每次尝试便能惹恼乔”的倾向。但直觉上，她并不知道如何惹恼他。对此的一个自然解释是：她不能 **有意地** 惹恼他（结构上类似的例子，见 Carr 1979, 1981 与 Bengson, Moffett, & Wright 2009）[^carr-1979]。争论各方几乎都同意如下主张（Ryle 1949；Stanley & Williamson 2001；Hawley 2003；Hornsby 2004, 2011；Stanley 2011b；Setiya 2012）[^hawley-2003][^hornsby-2004][^ryle-1949][^setiya-2012][^stanley-2011b][^stanley-2001]：
   - id: 110
     kind: body
     source: |-
       (*Knowledge-how/Intentionality*): If *S* intentionally Φs, *S* knows how to Φ.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （**知识-如何／意向性**）：若 *S* 有意地 Φ，则 *S* 知道如何 Φ。
+    step2: |-
+      （**知识-如何／意向性**）：若 *S* 有意地 Φ，则 *S* 知道如何 Φ。
   - id: 111
     kind: body
     source: |-
       Many also endorse the biconditional (*Knowledge-how/Ability Intentional*) (Hawley 2003; Setiya 2012)[^hawley-2003][^setiya-2012]:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      许多人也赞同双条件句（**知识-如何／能力意向性**）（Hawley 2003；Setiya 2012）[^hawley-2003][^setiya-2012]：
+    step2: |-
+      许多人也赞同如下双条件句（**知识-如何／能力意向性**）（Hawley 2003；Setiya 2012）[^hawley-2003][^setiya-2012]：
   - id: 112
     kind: body
     source: |-
       (*Knowledge-how/Ability Intentional*): *S* has the ability to intentionally Φ if and only if *S* knows how to Φ.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （**知识-如何／能力意向性**）：*S* 有意地 Φ 的能力，当且仅当 *S* 知道如何 Φ。
+    step2: |-
+      （**知识-如何／能力意向性**）：*S* 拥有有意地 Φ 的能力，当且仅当 *S* 知道如何 Φ。
   - id: 113
     kind: body
     source: |-
       Now, suppose that knowing how to Φ does require the ability to intentionally perform Φ. If so, whether knowledge-how requires a propositional attitude depends on whether or not one can intentionally Φ without having a propositional attitude about how to Φ. But according to many influential views of intentional action, intentionally Φ-ing does require a propositional attitude, namely a belief about how to Φ. In particular, intentionally Φ-ing requires having an action plan, which is characterizable in terms of a belief about how to perform Φ. For example, on Goldman’s (1970) view, one intentionally Φs when one has a plan to Φ, where a plan to Φ is a belief that specifies the means to Φ (see, also, e.g., Harman 1976; Audi 1986; Bratman 1987; Velleman 1989; Ginet 1990; Mele & Moser 1994; Gibbons 2001)[^audi-1986][^bratman-1987][^gibbons-2001][^ginet-1990][^harman-1976][^mele-1994][^velleman-1989]. From this, we get:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在，设知道如何 Φ 确实要求有意地执行 Φ 的能力。若如此，知识-如何是否要求一种命题态度，便取决于人是否能有意地 Φ 而不具有关于如何 Φ 的命题态度。但按许多有影响的意向行动观，有意地 Φ 确实要求一种命题态度，即一个关于如何 Φ 的信念。具体说，有意地 Φ 要求拥有一个行动计划，而该计划可用关于如何执行 Φ 的信念来刻画。例如，按 Goldman（1970）的观点，当人拥有一个 Φ 的计划时，他就有意地 Φ；而 Φ 的计划是一个指明 Φ 之手段的信念（另见，例如 Harman 1976；Audi 1986；Bratman 1987；Velleman 1989；Ginet 1990；Mele & Moser 1994；Gibbons 2001）[^audi-1986][^bratman-1987][^gibbons-2001][^ginet-1990][^harman-1976][^mele-1994][^velleman-1989]。由此我们得到：
+    step2: |-
+      现在，设知道如何 Φ 确实要求有意地执行 Φ 的能力。若如此，知识-如何是否要求一种命题态度，便取决于人是否能有意地 Φ 而不具有关于如何 Φ 的命题态度。但按许多有影响的意向行动观，有意地 Φ 确实要求一种命题态度，即一个关于如何 Φ 的信念。具体说，有意地 Φ 要求拥有一个行动计划，而该计划可用关于如何执行 Φ 的信念来刻画。例如，按 Goldman（1970）的观点，当人拥有一个 Φ 的计划时，他就有意地 Φ；而 Φ 的计划是一个指明 Φ 之手段的信念（另见 Harman 1976；Audi 1986；Bratman 1987；Velleman 1989；Ginet 1990；Mele & Moser 1994；Gibbons 2001）[^audi-1986][^bratman-1987][^gibbons-2001][^ginet-1990][^harman-1976][^mele-1994][^velleman-1989]。由此我们得到：
   - id: 114
     kind: body
     source: |-
       (*Intentionality/Belief*): If *S* intentionally Φs, then there are some means $m_1$, …, $m_n$ to Φ such that *S* truly believes that $m_1$, …, $m_n$ are means for oneself to Φ.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （**意向性／信念**）：若 *S* 有意地 Φ，则存在某些 Φ 的手段 $m_1$、…、$m_n$，使得 *S* 真地相信 $m_1$、…、$m_n$ 是自己据以 Φ 的手段。
+    step2: |-
+      （**意向性／信念**）：若 *S* 有意地 Φ，则存在某些 Φ 的手段 $m_1$、…、$m_n$，使得 *S* 真地相信 $m_1$、…、$m_n$ 是自己据以 Φ 的手段。
   - id: 115
     kind: body
     source: |-
       Some intellectualists have argued on these bases that knowledge-how to Φ requires at least a propositional attitude about the means to Φ (Cath 2015b)[^cath-2015b].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一些理智主义者据此基础上的论证主张：知道如何 Φ 至少要求对 Φ 之手段的命题态度（Cath 2015b）[^cath-2015b]。
+    step2: |-
+      一些理智主义者以这些为前提论证说：知道如何 Φ 至少要求一种关于 Φ 之手段的命题态度（Cath 2015b）[^cath-2015b]。
   - id: 116
     kind: body
     source: |-
       But is propositional *knowledge* of means to ends required for intentional action, over and above true belief? Gibbons (2001) provides several examples to buttress the necessity of knowledge for intentional action. For example, one cannot plausibly intentionally win a fair lottery , nor can one intentionally defuse a bomb if one unintentionally and fortuitously chooses the correct wire; in both cases, a plausible explanation for the lack of intentionality is that the subjects does not have the relevant propositional knowledge about how to accomplish those tasks. These cases buttress the claim that intentional action requires knowledge of the means to execute it:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但意向行动所要求的，是否不只是真信念，而是关于手段的命题**知识**？Gibbons（2001）提供若干例子来支持知识对意向行动的必要性。例如，人不可能貌似有意地赢一场公平彩票；若一个人无意地、碰巧选对了导线，他也不能有意地拆除炸弹。两例中，缺少意向性的一个合理解释是：主体并不拥有关于如何完成那些任务的相关命题知识。这些例子支持如下主张：意向行动要求对执行手段的知识：
+    step2: |-
+      但意向行动所要求的，是否不只是真信念，而是关于手段的命题 **知识**？Gibbons（2001）提供若干例子，以支持知识对意向行动的必要性。例如，人不可能貌似有意地赢一场公平彩票；若一个人无意地、碰巧选对了导线，他也不能有意地拆除炸弹。两例中，缺少意向性的一个合理解释是：主体并不拥有关于如何完成那些任务的相关命题知识。这些例子支持如下主张：意向行动要求对执行手段的知识：
   - id: 117
     kind: body
     source: |-
       (*Intentionality/Knowledge*): If *S* intentionally Φs, then there are some means $m_1$, …, $m_n$ to Φ such that s knows that $m_1$, …, $m_n$ are means for oneself to Φ.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （**意向性／知识**）：若 *S* 有意地 Φ，则存在某些 Φ 的手段 $m_1$、…、$m_n$，使得 *S* 知道 $m_1$、…、$m_n$ 是自己据以 Φ 的手段。
+    step2: |-
+      （**意向性／知识**）：若 *S* 有意地 Φ，则存在某些 Φ 的手段 $m_1$、…、$m_n$，使得 *S* 知道 $m_1$、…、$m_n$ 是自己据以 Φ 的手段。
   - id: 118
     kind: body
     source: |-
       With these assumptions in the background, here is a non-linguistic argument for intellectualism. Start from (*Knowledge-how/Intentionality*): if *S* intentionally Φs, *S* knows how to Φ. Furthermore, suppose that (*Intentionality/Knowledge*) is true so that the intentionality of an action is to be explained at least in part in terms of propositional knowledge. Then, by these two premises, we get that if one intentionally Φs, one both knows how to Φ and one has propositional knowledge of the means to Φ:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在这些假定作为背景之下，便有一个支持理智主义的非语言学论证。从（**知识-如何／意向性**）出发：若 *S* 有意地 Φ，则 *S* 知道如何 Φ。进而，设（**意向性／知识**）为真，从而行动的意向性至少部分地要用命题知识来解释。那么由这两个前提，我们得到：若人有意地 Φ，则他既知道如何 Φ，又拥有关于 Φ 之手段的命题知识：
+    step2: |-
+      在这些假定作为背景之下，便有一个支持理智主义的非语言学论证。从（**知识-如何／意向性**）出发：若 *S* 有意地 Φ，则 *S* 知道如何 Φ。进而，设（**意向性／知识**）为真，从而行动的意向性至少部分地要用命题知识来解释。那么，由这两个前提，我们得到：若人有意地 Φ，则他既知道如何 Φ，又拥有关于 Φ 之手段的命题知识：
   - id: 119
     kind: body
     source: |-
       (*Knowledge-how, Intentionality, Knowledge*): If *S* intentionally Φs, *S* both knows how to Φ and for some means $m_1$, …, $m_n$, *S* knows that means $m_1$ , …, $m_n$ are means for oneself to Φ.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （**知识-如何、意向性、知识**）：若 *S* 有意地 Φ，则 *S* 既知道如何 Φ，又对某些手段 $m_1$、…、$m_n$，知道 $m_1$、…、$m_n$ 是自己据以 Φ 的手段。
+    step2: |-
+      （**知识-如何、意向性、知识**）：若 *S* 有意地 Φ，则 *S* 既知道如何 Φ，又对某些手段 $m_1$、…、$m_n$，知道 $m_1$、…、$m_n$ 是自己据以 Φ 的手段。
   - id: 120
     kind: body
     source: |-
       Now, according to standard formulations of intellectualism, one knows how to Φ only if, for some means *m* to Φ, one knows that *m* is a means for one to Φ:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在，按理智主义的标准表述，人知道如何 Φ，仅当对某种 Φ 的手段 *m*，他知道 *m* 是自己据以 Φ 的手段：
+    step2: |-
+      现在，按理智主义的标准表述，人知道如何 Φ 仅当：对某种 Φ 的手段 *m*，他知道 *m* 是自己据以 Φ 的手段：
   - id: 121
     kind: body
     source: |-
       (*Intellectualism about Knowledge-How*): *S* knows how to Φ is at least in part of a matter of knowing, for some means *m* to Φ, *S* knows that *m* is a means for oneself to Φ.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （**关于知识-如何的理智主义**）：*S* 知道如何 Φ，至少部分地在于：对某种 Φ 的手段 *m*，*S* 知道 *m* 是自己据以 Φ 的手段。
+    step2: |-
+      （**关于知识-如何的理智主义**）：*S* 知道如何 Φ，至少部分地在于：对某种 Φ 的手段 *m*，*S* 知道 *m* 是自己据以 Φ 的手段。
   - id: 122
     kind: body
     source: |-
       So, the argument from intentional action for intellectualism maintains that the intellectualist picture provides the best explanation for why (*Knowledge-How, Intentionality, Knowledge*) should hold. According to this explanation, (*Knowledge-How, Intentionality, Knowledge*) is true not just because of a coincidental alignment of propositional knowledge and knowledge-how in intentional action. Rather, its truth is grounded on the very nature of knowledge-how: one knows how to Φ *in virtue* of knowing, for some means *m* to Φ, that *m* is a means for oneself to Φ.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所以，出自意向行动的理智主义论证主张：理智主义的图景为（**知识-如何、意向性、知识**）为何成立提供了最佳解释。按这一解释，（**知识-如何、意向性、知识**）之真，并非仅仅因为命题知识与知识-如何在意向行动中偶然对齐；毋宁说，它的真奠基于知识-如何的本性：人知道如何 Φ，**其根据在于**他知道——对某种 Φ 的手段 *m*——*m* 是自己据以 Φ 的手段。
+    step2: |-
+      所以，出自意向行动的理智主义论证主张：理智主义图景为（**知识-如何、意向性、知识**）为何成立提供了最佳解释。按这一解释，该原理之真并非仅仅因为命题知识与知识-如何在意向行动中偶然对齐；毋宁说，它的真奠基于知识-如何的本性：人知道如何 Φ，**其根据在于** 他知道——对某种 Φ 的手段 *m*——*m* 是自己据以 Φ 的手段。
   - id: 123
     kind: body
     source: |-
       The view that intentional action requires belief has been challenged for the particular case of *basic actions*. Setiya (2012) observes that one can perform a basic action of clenching one’s fist without even having the belief that one can succeed at doing it. For example, someone might have had a paralyzing injury, fail to believe they have healed, and still form the intention to clench their fist. Intellectualists might reply that, although that subject does not believe that one will succeed, they might have a sufficiently high credence and that credence can amount to knowledge too (Pavese 2020)[^pavese-2020]. (For other possible responses to the idea that intentional action requires knowledge or belief, see Elzinga forthcoming).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “意向行动要求信念”这一观点，在**基本行动**的特定情形中已受到挑战。Setiya（2012）观察到：人可以在甚至不拥有“自己能成功”这一信念的情况下，执行握拳这一基本行动。例如，有人可能因伤瘫痪、不相信自己已经康复，却仍形成握拳的意向。理智主义者可能回应说：尽管该主体不相信自己会成功，但他可能拥有足够高的置信度，而该置信度也可以构成知识（Pavese 2020）[^pavese-2020]。（对于“意向行动要求知识”这一想法的其他可能回应，见相关文献。）
+    step2: |-
+      “意向行动要求信念”这一观点，在 **基本行动** 这一特定情形中已受到挑战。Setiya（2012）观察到：人可以在甚至不拥有“自己能成功”这一信念的情况下，执行握拳这一基本行动。例如，有人可能因伤瘫痪、不相信自己已经康复，却仍形成握拳的意向。理智主义者可能回应说：尽管该主体不相信自己会成功，但他可能拥有足够高的置信度，而该置信度也可以构成知识（Pavese 2020）[^pavese-2020]。
   - id: 124
     kind: body
     source: |-
       A further related question is how to think of knowledge-how in the case of joint actions. When two agents act jointly towards a goal, as when they row a boat together, they responsively coordinate and monitor each other’s movements in ways that produce a joint action. What kind of knowledge-how is manifested by successful joint action? It must be possible for the agents to coordinate without each having to know the different ways in which each must act to achieve their common goals: you and I can jointly make risotto even if I do not know how to season it and you do. Correspondingly, Birch (2019) suggests that joint knowledge-how must be accounted for *distributively*. If this is correct, then the agents can jointly know how to do something without *each* having a belief about how they jointly do it, but only in virtue of having a collective, or group, belief about how to do it. (For more discussion on group knowledge-how, see Palermos & Tollefsen 2018 and Strachan, Knoblich & Sebanz 2020)[^palermos-2018]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个进一步的相关问题是：在联合行动的情形中应如何看待知识-如何。当两个行动者共同朝一个目标行动——如共同划一条船——他们以彼此呼应、相互协调与监控对方动作的方式，产生一个联合行动。成功的联合行动所展现的是何种知识-如何？行动者们必须能够在不必各自知道对方须以何种不同方式行动的情况下协调一致：即使我不知道如何给意大利烩饭调味而你知道，你我仍能共同做出它。相应地，Birch（2019）提出，联合的知识-如何必须按**分布式**方式来说明。若这是对的，那么联合的知识-如何便不能被还原为任何单个行动者的知识-如何。
+    step2: |-
+      一个进一步的相关问题是：在联合行动的情形中应如何看待知识-如何。当两个行动者共同朝一个目标行动——如共同划一条船——他们以彼此呼应、相互协调与监控对方动作的方式，产生一个联合行动。成功的联合行动所展现的是何种知识-如何？行动者必须能够在不必各自知道对方须以何种不同方式行动的情况下协调一致：即使我不知道如何给意大利烩饭调味而你知道，你我仍能共同做出它。相应地，Birch（2019）提出：联合的知识-如何必须按 **分布式** 方式来说明。若这是对的，行动者便能共同知道如何做某事，而不必 **各自** 都拥有关于他们如何共同做此事的信念，只需凭借拥有一个关于如何做此事的集体信念或群体信念。（关于群体知识-如何的更多讨论，见 Palermos & Tollefsen 2018 与 Strachan, Knoblich & Sebanz 2020）[^palermos-2018]
   - id: 125
     kind: body
     source: |-
       ## 6. The Epistemology of Knowledge-How
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6 知识-如何的知识论
+    step2: |-
+      ## 6 知识-如何的知识论
   - id: 126
     kind: body
     source: |-
       ### 6.1 Knowledge-how and Belief
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.1 知识-如何与信念
+    step2: |-
+      ### 6.1 知识-如何与信念
   - id: 127
     kind: body
     source: |-
       Some have observed that knowledge-how may differ from propositional knowledge in that, whereas the latter plausibly entails belief, knowledge-how does not (Dreyfus 1991, 2005; Wallis 2008; Brownstein & Michaelson 2016)[^brownstein-2016][^dreyfus-1991][^wallis-2008]. For example, consider Brownstein & Michaelson (2016)’s example. When catching a ball, ball players make anticipatory saccades to shift their gaze ahead of the ball one or more times during the course of its flight towards them. These players know how to catch a ball, and their way of catching a ball requires making anticipatory saccades when watching the ball as it falls. Yet, the players do not believe that making anticipatory saccades is part of how they catch the ball. Rather they believe that they are tracking the ball the whole time. However, from the fact that the subject has false beliefs about how she catches the ball, it does not follow that the subject does not *also* have correct beliefs about it. So, a natural response is that there is *some* sense in which the player correctly believes that his manner of tracking the ball has a chance of resulting in success.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有人观察到：知识-如何可能与命题知识不同——后者似乎蕴涵信念，前者则不然（Dreyfus 1991, 2005；Wallis 2008；Brownstein & Michaelson 2016）[^brownstein-2016][^dreyfus-1991][^wallis-2008]。例如，看 Brownstein & Michaelson（2016）的例子。接球时，球员会作预期性的眼跳，在球朝自己飞来期间一至多次把目光移到球的前方。这些球员知道如何接球，而他们接球的方式要求他们在看着球下落时作预期性眼跳。然而，球员并不相信作预期性眼跳是接球的方式。
+    step2: |-
+      有人观察到：知识-如何可能与命题知识不同——后者似乎蕴涵信念，前者则不然（Dreyfus 1991, 2005；Wallis 2008；Brownstein & Michaelson 2016）[^brownstein-2016][^dreyfus-1991][^wallis-2008]。例如，看 Brownstein & Michaelson（2016）的例子。接球时，球员会作预期性眼跳（anticipatory saccades），在球朝自己飞来期间一至多次把目光移到球的前方。这些球员知道如何接球，而他们接球的方式要求他们在看着球下落时作预期性眼跳。然而，球员并不相信作预期性眼跳是接球的方式。
   - id: 128
     kind: body
     source: |-
       Whether this response is compelling might depend on what one takes beliefs to be. On this topic, philosophers widely disagree. On an “intellectualist” account of belief, on which believing that *p* requires the subject to acknowledge that *p*, it is implausible that the athletes have the relevant belief. But intellectualists about knowledge-how might advocate replacing this intellectual notion of belief with a less demanding one. According to a prominent functional characterization of belief, to believe that *p* entails being disposed to act in ways that would tend to satisfy one’s desires, whatever they are, in a world in which *p* (together with one’s other beliefs) are true” (cf. Stalnaker 1984: 15; Stalnaker 2012)[^stalnaker-1984][^stalnaker-2012]. Now, suppose that in game after game, Athena catches the ball using a certain method *m*, and that whenever she does so, her behavior is intentional. From this it seems to follow that Athena is disposed to perform the actions specified by *m*. Since, *ex hypothesi*, *m* is a way of catching the ball, it follows that in all the worlds where she performs these actions, she satisfies her desire of catching the ball (or at least is sufficiently likely to do so). By the previous functional characterization of belief, it follows that Athena believes that *m* is a way for her to catch the ball. The lesson of this debate might be, following Stalnaker (2012), that intellectualism about knowledge-how is best construed as a form of anti-intellectualism about knowledge, belief, and the mental.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一回应是否有说服力，也许取决于人如何理解信念。在这个题目上，哲学家分歧甚大。按关于信念的“理智主义”说明——即相信 *p* 要求主体承认 *p*——很难说这些运动员拥有相关信念。但知识-如何上的理智主义者可能主张，用一种要求较低的信念概念取代这个智性式信念概念。按一种著名的信念功能刻画，相信 *p* 蕴涵：在一个 *p*（连同自己其他信念）为真的世界中，倾向于以会趋于满足自己欲望（无论是什么欲望）的方式行动（参 Stalnaker 1984）。按这一理解，运动员确实可能相信其接球方式。
+    step2: |-
+      这一回应是否有说服力，也许取决于人如何理解信念。在这个题目上，哲学家分歧甚大。按关于信念的“理智主义”说明——即相信 *p* 要求主体承认 *p*——很难说这些运动员拥有相关信念。但知识-如何上的理智主义者可能主张，用一种要求较低的信念概念取代这个智性式信念概念。按一种著名的信念功能刻画，相信 *p* 蕴涵：在一个 *p*（连同自己其他信念）为真的世界中，倾向于以会趋于满足自己欲望（无论是什么欲望）的方式行动（参 Stalnaker 1984: 15；Stalnaker 2012）[^stalnaker-1984][^stalnaker-2012]。现在，设雅典娜在一场又一场比赛中用某种方法 *m* 接球，且每当她这样做时，其行为都是意向性的。由此似乎可以推出：雅典娜倾向于执行 *m* 所指定的那些动作。既然——按假设——*m* 是接球的一种方式，便可推出：在她执行这些动作的一切世界中，她都满足了自己接球的欲望（或至少很可能满足）。按前述信念的功能刻画，便推出雅典娜相信 *m* 是她接球的一种方式。这场争论的教训也许是（循 Stalnaker 2012）：知识-如何上的理智主义最好被理解为关于知识、信念与心灵的反理智主义的一种形式。
   - id: 129
     kind: body
     source: |-
       ### 6.2 Knowledge-How and Gettier
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.2 知识-如何与盖梯尔问题
+    step2: |-
+      ### 6.2 知识-如何与盖梯尔问题
   - id: 130
     kind: body
     source: |-
       Another way of challenging the intellectualist claim that knowledge-how is a species of knowledge-that is to question whether knowledge-how can be Gettiered. If knowledge-how survives Gettierization, that would be evidence that knowledge-how is not a species of knowledge-that, on the assumption that Gettiered justified true belief cannot constitute propositional knowledge (Gettier 1963)[^gettier-1963]. Stanley & Williamson (2001) argue that knowledge-how cannot be Gettiered. However, Cath (2011) responds by proposing the **Lucky Light Bulb** case, where Charlie wants to learn how to change a lightbulb, but he knows almost nothing about light fixtures or bulbs. Charlie consults *The Idiot’s Guide to Everyday Jobs*. Inside, he finds an accurate set of instructions describing the shape of a light fixture and bulb, and the way to change a bulb. Charlie grasps these instructions perfectly. And so there is a way such that Charlie now believes truly that that way is a way for him to change a light bulb, namely, the way described in the book. However, unbeknownst to Charlie, he is extremely lucky to have read these instructions, for the disgruntled author of *The Idiot’s Guide* filled her book with otherwise misleading instructions. Cath (2011) argues that intuitively Charlie still knows how to fix the light bulb, despite his belief being Gettiered (cf. also Poston 2009: 744)[^poston-2009].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      挑战“知识-如何是命题知识之一类”这一理智主义主张的另一方式，是追问知识-如何能否被盖梯尔化。若知识-如何经受得住盖梯尔化，那便会成为证据，表明知识-如何不是命题知识之一类——前提是：盖梯尔化的得到辩护的真信念不能构成命题知识（Gettier 1963）[^gettier-1963]。Stanley & Williamson（2001）主张，知识-如何不能被盖梯尔化。然而，Cath（2011）以**幸运灯泡**（Lucky Light Bulb）一例回应：查理想要学会如何换灯泡，但他对灯具和灯泡几乎一无所知。查理查阅《白痴的日常活儿指南》（*The Idiot’s Guide to Everyday Jobs*）。书中有一组准确的说明，描述灯具和灯泡的形状以及换灯泡的方法。查理完全把握了这些说明。于是存在一种方式，使查理现在真地相信那种方式是换灯泡的一种方式——即书中描述的那种方式。然而，查理并不知道，他读到这些说明是极其幸运的：那本指南的编者心怀不满，在书里塞满了在其他方面会引人误入歧途的说明。Cath（2011）主张，直觉上查理仍然知道如何换灯泡，尽管他的信念已被盖梯尔化（另参 Poston 2009: 744）[^poston-2009]。
+    step2: |-
+      挑战“知识-如何是命题知识之一类”这一理智主义主张的另一方式，是追问知识-如何能否被盖梯尔化。若知识-如何经受得住盖梯尔化，那便会成为证据，表明知识-如何不是命题知识之一类——前提是：盖梯尔化的得到辩护的真信念不能构成命题知识（Gettier 1963）[^gettier-1963]。Stanley & Williamson（2001）主张，知识-如何不能被盖梯尔化。然而，Cath（2011）以 **幸运灯泡**（Lucky Light Bulb）一例回应：查理想要学会如何换灯泡，但他对灯具和灯泡几乎一无所知。查理查阅《白痴的日常活儿指南》（*The Idiot’s Guide to Everyday Jobs*）。书中有一组准确说明，描述灯具与灯泡的形状以及换灯泡的方法；查理完全把握了它们。于是存在一种方式，使查理现在真地相信那种方式是换灯泡的一种方式——即书中描述的那种方式。然而，查理并不知道，他读到这些说明极其幸运：那本指南的编者心怀不满，在书里塞满了在其他方面会引人误入歧途的说明。Cath（2011）主张，直觉上查理仍然知道如何换灯泡，尽管他的信念已被盖梯尔化（另参 Poston 2009: 744）[^poston-2009]。
   - id: 131
     kind: body
     source: |-
       Stanley replies that knowledge-wh *in general* seems to be Gettierable and that might be explained in terms of features having to do with *knowing the answer*. For example, consider Hawthorne’s (2000) example of a teacher giving each child in their class a note with the name of a city. “Vienna” is written only on one of the notes. In this context, it seems true that one child knows the correct answer to the question “what is the capital of Austria”, even though the child’s belief is true by luck. (Though see Carter & Pritchard 2015c for a reply that while knowledge-how is similar to knowledge-that and knowledge-wh in that it is incompatible with intervening luck, it differs with these kinds of knowledge in being compatible with environmental luck.)[^carter-2015c] Others still have responded that intuitions are subtle and not all of them favor anti-intellectualism (Marley-Payne 2016; Pavese forthcoming-a)[^marley-payne-2016]. For a recent experimental study with mixed results, see Carter, Pritchard, and Shepherd (2019). Hawley (2003: 28) argues that knowledge-how, like propositional knowledge, requires “warrant” on the ground that success on the basis of a lucky guess does not seem to manifest one’s knowledge-how. A similar theoretical argument for thinking that lucky belief cannot suffice for knowledge-how starts from the thesis that knowledge-how enters in explanations of success and that satisfactory explanations must be “modally robust”. From this, the argument concludes that the sort of belief that robustly explains intentional success must be knowledge, for knowledge has the relevant modal profile (Sosa 1999; Williamson 2000; D. Greco 2016)[^greco-2016][^sosa-1999][^williamson-2000]. Another line of argument starts from the observations that knowledge-how to Φ explains the ability to intentionally Φ (see section 4) and that only knowledge can explain intentional action (Gibbons 2001: 589–590)[^gibbons-2001]. On these bases, some argue that knowledge-how cannot fall short of non-getteriable knowledge (Cath 2015b for objections to this line of argument)[^cath-2015b].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Stanley 回应说：**一般而言**，wh-知识似乎都可被盖梯尔化，而这也许可以用与**知道答案**相关的特征来解释。例如，看 Hawthorne（2000）的例子：老师给班上的每个孩子一张写着城市名字的纸条，其中只有一张写着“维也纳”。在此语境下，似乎可以说有一个孩子知道“奥地利的首都是什么”这一问题的正确答案，尽管该孩子的信念只是碰巧为真。（不过，Carter & Pritchard 2015c 回应说：知识-如何虽与命题知识和 wh-知识一样不容许介入性的运气，却与后二者有别的不同。）
+    step2: |-
+      Stanley 回应说：**一般而言**，wh-知识似乎都可被盖梯尔化，而这也许可以用与 **知道答案** 相关的特征来解释。例如，看 Hawthorne（2000）的例子：老师给班上每个孩子一张写着城市名字的纸条，其中只有一张写着“维也纳”。在此语境下，似乎可以说有一个孩子知道“奥地利的首都是什么”这一问题的正确答案，尽管其信念只是碰巧为真。（不过，Carter & Pritchard 2015c 回应说：知识-如何虽与命题知识和 wh-知识一样不容许介入性的运气，却与后二者不同，因为它容许环境性的运气。）[^carter-2015c] 另一些人则回应说，直觉颇为微妙，并非全都支持反理智主义（Marley-Payne 2016；Pavese 即将出版 a）[^marley-payne-2016]。关于晚近一项结果混杂的实验研究，见 Carter, Pritchard, and Shepherd（2019）。Hawley（2003: 28）主张，知识-如何与命题知识一样要求“保证”，理由是：基于幸运猜测的成功似乎并未展现人的知识-如何。另一种理论论证支持“幸运信念不足以构成知识-如何”，其出发点是：知识-如何进入对成功的解释，而令人满意的解释必须“模态稳固”。由此，论证得出结论：那种稳健地解释意向性成功的信念必是知识，因为知识具有相关的模态侧写（Sosa 1999；Williamson 2000；D. Greco 2016）[^greco-2016][^sosa-1999][^williamson-2000]。另一条论证路线从两个观察出发：知道如何 Φ 解释了有意地 Φ 的能力（见第 4 节）；且只有知识才能解释意向行动（Gibbons 2001: 589–590）[^gibbons-2001]。据此，有人论证说：知识-如何不能低于不可盖梯尔化的知识（对这一论证路线的反对，见 Cath 2015b）[^cath-2015b]。
   - id: 132
     kind: body
     source: |-
       ### 6.3 Knowledge How, Defeasibility, and Testimony
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.3 知识-如何、可挫败性与证言
+    step2: |-
+      ### 6.3 知识-如何、可挫败性与证言
   - id: 133
     kind: body
     source: |-
       Some object that while knowledge-that can be defeated by misleading evidence, not so knowledge-how (see Carter & Navarro 2017 for this line of argument and Pavese 2021 for a reply)[^carter-2017][^pavese-2021][^pavese-2021-2]. Finally, some object that knowledge-how cannot be knowledge-that because the latter is acquirable by testimony and the former is not. While the following argument (A–C) is valid, the following (i–iii) is not (Poston 2016)[^poston-2016]:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有人反对说：命题知识可以被误导性的证据所挫败，知识-如何则不然（这一论证路线见 Carter & Navarro 2017，回应见 Pavese 2021）[^carter-2017][^pavese-2021][^pavese-2021-2]。最后，还有人反对说：知识-如何不能是命题知识，因为后者可以经证言获得，前者则不能。下面这个论证（A–C）是有效的，而下面这个论证（i–iii）则无效（Poston 2016）[^poston-2016]：
+    step2: |-
+      有人反对说：命题知识可以被误导性证据挫败，知识-如何则不然（这一论证路线见 Carter & Navarro 2017，回应见 Pavese 2021）[^carter-2017][^pavese-2021][^pavese-2021-2]。最后，还有人反对说：知识-如何不能是命题知识，因为后者可以经证言获得，前者则不能。下面这个论证（A–C）有效，而下面这个论证（i–iii）则无效（Poston 2016）[^poston-2016]：
   - id: 134
     kind: body
     source: |-
       1. Mark knows that Turin is in Northern Italy.
       2. Mark tells that to John, who believes him.
       3. John comes to know that Turin is in Northern Italy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 马克知道都灵在意大利北部。
+      2. 马克把这一点告诉约翰，约翰相信他。
+      3. 约翰得以知道都灵在意大利北部。
+    step2: |-
+      1. 马克知道都灵在意大利北部。
+      2. 马克把这一点告诉约翰，约翰相信他。
+      3. 约翰由此知道都灵在意大利北部。
   - id: 135
     kind: body
     source: |-
       1. Mark knows how John could swim.
       2. Mark tells John.
       3. John comes to know how to swim.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 马克知道约翰可以如何游泳。
+      2. 马克告诉约翰。
+      3. 约翰得以知道如何游泳。
+    step2: |-
+      1. 马克知道约翰可以如何游泳。
+      2. 马克告诉约翰。
+      3. 约翰由此知道如何游泳。
   - id: 136
     kind: body
     source: |-
       Following Stanley’s (2011b: 126) modal restriction proposal (cf. section 3), Cath (2017, 2019) responds that depending on how the context for the modal is restricted, (i) could mean *either* that Mark knows how John could swim *given his current physical state or* how John could swim *after training*. If only the latter, that is not the sort of proposition that John needs to know in order for (iii) to be true: for that, John ought to know that that is how he could swim under his current physical state. (Though see section 2 for qualms about this intellectualist strategy.) Another avenue for reply to the challenge from testimony may be to insist that not every propositional knowledge is transferable through testimony. A comparison: visual knowledge that Mark murdered Tina differs in content and mode of presentation from the knowledge that of the murder obtained by being told by his prosecutor. The former observational knowledge is not transferable through mere testimony but (exactly because of that!) it is more helpful for the purpose of convicting Mark than second-hand knowledge. That does not mean that observational knowledge is not propositional. Like in the case of perceptual knowledge, the proposition that one knows by knowing how to do something involves distinct modes of presentation of ways of doing things (section 2, section 3). We should not expect propositions under this mode of presentation to be transferable through testimony. (For a response to Poston 2016, see also Peet 2019)[^peet-2019][^poston-2016].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      循 Stanley（2011b: 126）的情态限制方案（参第 3 节），Cath（2017, 2019）回应说：视该情态词语境如何受限，(i) 可以意指马克知道约翰**在当前身体状态下**可以如何游泳，**或**约翰**经训练后**可以如何游泳。若只是后者，那并不是约翰为使 (iii) 为真所需要知道的那种命题：为此，约翰所应当知道的是，那就是他在当前身体状态下可以游泳的方式。（关于这一理智主义策略的疑虑，见第 2 节。）回应证言挑战的另一途径，也许是指出并非一切命题知识都可经证言传递在实践上被接受为知识。
+    step2: |-
+      循 Stanley（2011b: 126）的情态限制方案（参第 3 节），Cath（2017, 2019）回应说：视该情态词语境如何受限，(i) 可以意指马克知道约翰 **在当前身体状态下** 可以如何游泳，**或** 约翰 **经训练后** 可以如何游泳。若只是后者，那并不是约翰为使 (iii) 为真所需要知道的那种命题：为此，约翰所应当知道的是，那就是他在当前身体状态下可以游泳的方式。（关于这一理智主义策略的疑虑，见第 2 节。）回应证言挑战的另一途径，也许是指出：并非一切命题知识都能经证言传递。试作比较：关于马克杀害蒂娜的视觉知识，在内容与呈现方式上不同于通过检察官告知而获得的关于该凶案的知识。前一种观察性知识不能仅凭证言传递，但（正因如此！）它比二手知识更有助于给马克定罪。这并不意味着观察性知识不是命题知识。如同知觉知识的情形，人通过知道如何做某事而知道的命题，涉及对做事方式的独特呈现方式（第 2 节、第 3 节）。我们不应期待处于这种呈现方式下的命题能经证言传递。（对 Poston 2016 的回应，另见 Peet 2019）[^peet-2019][^poston-2016]。
   - id: 137
     kind: body
     source: |-
       ## 7. The Argument from Cognitive Science
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 7 认知科学论证
+    step2: |-
+      ## 7 认知科学论证
   - id: 138
     kind: body
     source: |-
       ### 7.1 The Argument
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.1 论证
+    step2: |-
+      ### 7.1 论证
   - id: 139
     kind: body
     source: |-
       The argument from cognitive science against intellectualism starts by pointing out that cognitive scientists distinguish between different kinds of cognitive systems: It is often held that the *declarative system* is responsible for encoding propositional knowledge, whereas knowledge-how is encoded in the *procedural system*. Given empirical evidence that the declarative and procedural systems are separate (about which more below), it would seem to follow that knowledge-how is not reducible to propositional knowledge (Wallis 2008; Devitt 2011; Roth & Cummins 2011)[^devitt-2011][^roth-2011][^wallis-2008]:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      反对理智主义的认知科学论证，首先指出认知科学家区分了不同种类的认知系统：人们常认为，**陈述性系统**负责编码命题知识，而知识-如何则编码于**程序性系统**。鉴于有实证证据表明陈述性系统与程序性系统是分离的（详见下文），似乎便可推出：知识-如何不可还原为命题知识（Wallis 2008；Devitt 2011；Roth & Cummins 2011）[^devitt-2011][^roth-2011][^wallis-2008]：
+    step2: |-
+      反对理智主义的认知科学论证，首先指出认知科学家区分了不同种类的认知系统：人们常认为，**陈述性系统** 负责编码命题知识，而知识-如何则编码于 **程序性系统**。鉴于实证证据表明陈述性系统与程序性系统彼此分离（详见下文），似乎便可推出：知识-如何不可还原为命题知识（Wallis 2008；Devitt 2011；Roth & Cummins 2011）[^devitt-2011][^roth-2011][^wallis-2008]：
   - id: 140
     kind: body
     source: |-
       *The Cognitive Science Argument*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *认知科学论证*
+    step2: |-
+      **认知科学论证**
   - id: 141
     kind: body
     source: |-
       **C1**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **C1**
+    step2: |-
+      **C1**
   - id: 142
     kind: body
     source: |-
       The procedural system is distinct from the declarative system.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      程序性系统与陈述性系统不同。
+    step2: |-
+      程序性系统与陈述性系统不同。
   - id: 143
     kind: body
     source: |-
       **C2**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **C2**
+    step2: |-
+      **C2**
   - id: 144
     kind: body
     source: |-
       Motor knowledge-how is encoded entirely by the procedural system.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      运动性的知识-如何完全由程序性系统编码。
+    step2: |-
+      运动性的知识-如何完全由程序性系统编码。
   - id: 145
     kind: body
     source: |-
       **C3**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **C3**
+    step2: |-
+      **C3**
   - id: 146
     kind: body
     source: |-
       All propositional knowledge is encoded entirely in the declarative system.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一切命题知识都完全编码于陈述性系统之中。
+    step2: |-
+      一切命题知识都完全编码于陈述性系统之中。
   - id: 147
     kind: body
     source: |-
       **C4**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **C4**
+    step2: |-
+      **C4**
   - id: 148
     kind: body
     source: |-
       Some knowledge-how does not require propositional knowledge. (from C1, C2, C3)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      某些知识-如何并不要求命题知识。（由 C1、C2、C3）
+    step2: |-
+      某些知识-如何并不要求命题知识。（由 C1、C2、C3）
   - id: 149
     kind: body
     source: |-
       The usual evidence marshaled in favor of C1 relies on amnesiac case studies (Milner 1962; see Cohen & Squire 1980 for discussion)[^cohen-1980][^milner-1962]. A typical example is HM. After bilateral removal of the hippocampus, parahippocampal gyrus, entorhinal cortex, and most of the amygdala to relieve debilitating symptoms of epilepsy, HM was unable to form new memories of facts or events and he could no longer access memories he acquired in the few years leading up to his surgery. Nevertheless, it was found that over 10 trials, HM tuned his motor skill to trace the outline of a five-pointed star based only on looking at reflection in a mirror. Since he could not store new memories, HM’s declarative knowledge of the means of performing the task did not change from one trial to the next. But his performance improved. So, the reasoning goes, the improvement of motor skills is governed by a distinct cognitive system from that which governs the retention of declarative facts.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      通常用来支持 C1 的证据依赖失忆症病例研究（Milner 1962；讨论见 Cohen & Squire 1980）[^cohen-1980][^milner-1962]。典型病例是 H.M.。为缓解严重的癫痫症状，他的海马、海马旁回、内嗅皮层与大部分杏仁核被双侧切除；此后 H.M. 无法形成关于事实或事件的新记忆，也无法再获取手术前数年间的记忆。然而人们发现，在十次试次中，H.M. 仅凭看镜子里的映像，就改进了描画五角星轮廓的运动技能。由于他无法储存新记忆，H.M. 关于执行该任务之手段的陈述性知识在试次之间没有变化。
+    step2: |-
+      通常用来支持 C1 的证据依赖失忆症病例研究（Milner 1962；讨论见 Cohen & Squire 1980）[^cohen-1980][^milner-1962]。典型病例是 H.M.。为缓解严重的癫痫症状，他的海马、海马旁回、内嗅皮层与大部分杏仁核被双侧切除；此后 H.M. 无法形成关于事实或事件的新记忆，也无法再获取手术前数年间的记忆。然而人们发现：在十次试次中，H.M. 仅凭看镜子里的映像，就改进了描画五角星轮廓的运动技能。由于他无法储存新记忆，H.M. 关于执行该任务之手段的陈述性知识在试次之间并无变化。
   - id: 150
     kind: body
     source: |-
       Many embrace C2 (e.g., Lewicki, Czyzewska, & Hoffman 1987: 523; Devitt 2011; Wallis 2008)[^devitt-2011][^wallis-2008]. But some object that a closer look at the details of HM’s case (as reported in Milner 1962)[^milner-1962] supports a different diagnosis, on which knowledge-how is realized by a combination of the procedural and the declarative system (Pavese 2013; Stanley & Krakauer 2013)[^pavese-2013][^stanley-2013]. At the beginning of each trial, prior to being given verbal instructions on how to perform the motor task, HM lacked the ability to intentionally perform it: HM was able to perform the motor task *only after being reminded of what the task consisted in*. This suggests, against C2, that there was an important declarative component to HM’s ability to perform the motor task (for the role of declarative knowledge in skillful action, see also Christensen, Sutton, & Bicknell 2019).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      许多人接受 C2（例如 Lewicki, Czyzewska, & Hoffman 1987: 523；Devitt 2011；Wallis 2008）[^devitt-2011][^wallis-2008]。但有人反对说，细看 H.M. 病例的细节（如 Milner 1962 所报告）[^milner-1962]，会支持另一种诊断：知识-如何由程序性系统与陈述性系统共同实现（Pavese 2013；Stanley & Krakauer 2013）[^pavese-2013][^stanley-2013]。在每次试次开始时，在获得有关如何执行该运动任务的口头指示之前，H.M. 缺乏有意执行该任务的能力：H.M. 只有在被提醒该任务是什么之后，才能执行该运动任务。这提示（反对 C2）：H.M. 执行该运动任务的能力中有一个重要的陈述性成分。
+    step2: |-
+      许多人接受 C2（例如 Lewicki, Czyzewska, & Hoffman 1987: 523；Devitt 2011；Wallis 2008）[^devitt-2011][^wallis-2008]。但有人反对说：细看 H.M. 病例的细节（如 Milner 1962 所报告）[^milner-1962]，会支持另一种诊断——知识-如何由程序性系统与陈述性系统共同实现（Pavese 2013；Stanley & Krakauer 2013）[^pavese-2013][^stanley-2013]。在每次试次开始时，在获得有关如何执行该运动任务的口头指示之前，H.M. 缺乏有意执行该任务的能力：H.M. 只有在被提醒该任务是什么之后，才能执行该运动任务。这提示（反对 C2）：H.M. 执行该运动任务的能力中，有一个重要的陈述性成分。
   - id: 151
     kind: body
     source: |-
       ### 7.2 Improving the Argument
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.2 改进论证
+    step2: |-
+      ### 7.2 改进论证
   - id: 152
     kind: body
     source: |-
       Here is a possible way to patch up the Argument from Cognitive Science (Fridland 2014, 2017; Levy 2017)[^fridland-2014][^levy-2017]. Replace C2 with:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里有一个修补认知科学论证的可能办法（Fridland 2014, 2017；Levy 2017）[^fridland-2014][^levy-2017]。把 C2 替换为：
+    step2: |-
+      这里有一个修补认知科学论证的可能办法（Fridland 2014, 2017；Levy 2017）[^fridland-2014][^levy-2017]。以 C2* 替换 C2：
   - id: 153
     kind: body
     source: |-
       C2*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      C2*
+    step2: |-
+      C2*
   - id: 154
     kind: body
     source: |-
       Knowledge-how is not exhausted by declarative knowledge.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      知识-如何并不被陈述性知识所穷尽。
+    step2: |-
+      知识-如何并不被陈述性知识所穷尽。
   - id: 155
     kind: body
     source: |-
       With C2*, the argument goes on as before. Stanley & Krakauer (2013) seems to accept this conclusion (for more discussion and critiques, see Krakauer 2019; Springle 2019; De Brigard 2019; Schwartz & Drayson 2019)[^krakauer-2019][^schwartz-2019][^springle-2019]. Other intellectualists reply that this argument misses the intellectualist target. Cath (2020) argues that procedural representation might be a prerequisite for knowledge-how rather than a constituent. Pavese (2019) develops an account on which procedural representations, of the sort studied by motor scientists when giving an account of the procedural aspect of skill (Wolpert 1997; Jeannerod 1997)[^jeannerod-1997][^wolpert-1997], can be understood as practical, albeit nonconceptual, representations—the sort of representations that intellectualism independently requires for knowledge-how (section 2).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有了 C2*，论证照旧进行。Stanley & Krakauer（2013）似乎接受这一结论（更多讨论与批评，见 Krakauer 2019；Springle 2019；De Brigard 2019；Schwartz & Drayson 2019）[^krakauer-2019][^schwartz-2019][^springle-2019]。其他理智主义者回应说，这一论证没有击中理智主义的目标。Cath（2020）主张，程序性表征也许是知识-如何的先决条件，而非其构成成分。Pavese（2019）发展了一种说明：运动科学家在解释技能的程序性面向时所研究的那类程序性表征（Wolpert 1997；Jeannerod 1997）[^jeannerod-1997][^wolpert-1997]，可理解为实践的、尽管非概念的表征——而这正是理智主义独立地要求知识-如何所具备的那类表征（第 2 节）。
+    step2: |-
+      有了 C2*，论证照旧进行。Stanley & Krakauer（2013）似乎接受这一结论（更多讨论与批评，见 Krakauer 2019；Springle 2019；De Brigard 2019；Schwartz & Drayson 2019）[^krakauer-2019][^schwartz-2019][^springle-2019]。其他理智主义者回应说，这一论证没有击中理智主义的目标。Cath（2020）主张，程序性表征也许是知识-如何的先决条件，而非其构成成分。Pavese（2019）发展了一种说明：运动科学家在解释技能的程序性面向时所研究的那类程序性表征（Wolpert 1997；Jeannerod 1997）[^jeannerod-1997][^wolpert-1997]，可理解为实践的、尽管是概念性的表征——而这正是理智主义独立地要求知识-如何所具备的那类表征（第 2 节）。
   - id: 156
     kind: body
     source: |-
       ### 7.3 Articulability
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.3 可表述性
+    step2: |-
+      ### 7.3 可表述性
   - id: 157
     kind: body
     source: |-
       According to C3, propositional knowledge corresponds to “declarative” knowledge—to a sort of knowledge that is, at least in principle, verbalizable. Opponents of intellectualism often uses C3 in a novel argument against intellectualism: if propositional knowledge has to be verbalizable, then knowledge-how cannot be propositional knowledge, for often subjects know how to perform tasks even though they cannot explain how they do it (Schiffer 2002; Devitt 2011; Adams 2009; Wallis 2008)[^adams-2009][^devitt-2011][^schiffer-2002][^wallis-2008]. On behalf of intellectualism, there do seem to be cases in which you come to know how to do something precisely by consulting a manual and learning some propositions (see, e.g., Snowdon 2004: 12; Bengson and Moffett 2011a: 8; and Katzoff 1984: 65ff)[^bengson-2011a][^katzoff-1984][^snowdon-2004]. Moreover, it is not clear that the anti-intellectualist demand that propositional knowledge be always verbalizable is motivated. In fact, it seems to conflate knowing how to perform a task with *knowing how to explain how the task is performed* (cf. Fodor 1968: 634; Stalnaker 2012)[^fodor-1968][^stalnaker-2012]. Stanley (2011b: 161) points out that there is a sense in which knowledge-how *is* always verbalizable. A punch-drunk boxer who can at best demonstratively refer to his re-enactment of the way of boxing against southpaws, and says, “This is the way I fight against a southpaw” intuitively knows that this is the way he fights against southpaws. This knowledge has an essential demonstrative or indexical component. But the same goes for much other propositional knowledge like, for example, the knowledge we express by saying, “This is the tool for the job”, or “That is going to be trouble”. This reply assumes that ways to execute tasks are *ostensible* and as such can be picked up by a demonstrative. This does not need to be so: on any single occasion, one may only act on *parts* of a way. So, one will not thereby be able to pick up the *general* way one’s knowledge-how is about. Another reply on behalf of intellectualism is to point out that practical concepts for tasks differ from “semantic” concepts for the same tasks precisely in that, even if propositional, they are not necessarily verbalizable.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按 C3，命题知识对应于“陈述性”知识——即一种至少在原则上可用语言表述的知识。理智主义的反对者常借 C3 提出一个反对理智主义的新论证：若命题知识必须可用语言表述，则知识-如何便不能是命题知识，因为主体常常知道如何完成任务，却无法解释自己如何做到（Schiffer 2002；Devitt 2011；Adams 2009；Wallis 2008）[^adams-2009][^devitt-2011][^schiffer-2002][^wallis-2008]。为理智主义辩护，确实似乎存在这样的情形：人正是通过查阅手册、学会某些命题，才知道如何做某事的（例如见 Snowdon 2004: 12；Bengson and Moffett 2011a: 8；Katzoff 1984: 65 以下）[^bengson-2011a][^katzoff-1984][^snowdon-2004]。此外，反理智主义要求命题知识总可用语言表述，这一要求是否有动机也不清楚。事实上，它似乎把知道如何完成一个任务，与*知道如何解释该任务是如何完成的*混为一谈（参 Fodor 1968: 634；Stalnaker 2012）[^fodor-1968][^stalnaker-2012]。Stanley（2011b: 161）指出，在某种意义上，知识-如何**确实**总可用语言表述。一个被打得晕头转向的拳手，至多只能指示性地指称自己对“对付左撇子拳手之打法”的重演，说“我打左撇子就是这么打的”；他直觉上知道自己打左撇子就是这么打的。这一知识有一个本质性的指示或索引成分。但其他许多命题知识亦然，例如我们通过说“这就是干这活儿的工具”或“那会惹麻烦”所表达的知识。这一回应假定：执行任务的方式是**显见的**，故可被指示词所拾取。但这不必如此：在任何单一场合，人也许只按一种方式的**部分**行动。所以，人并不能借此拾取其知识-如何所关涉的**一般**方式。为理智主义辩护的另一回应是指出：任务之实践概念与同一任务之“语义”概念的区别恰在于：即便它们是命题性的，也不必然可用语言表述。
+    step2: |-
+      按 C3，命题知识对应于“陈述性”知识——即一种至少在原则上可用语言表述的知识。理智主义的反对者常借 C3 提出一个反对理智主义的新论证：若命题知识必须可用语言表述，则知识-如何便不能是命题知识。理由在于：主体常常知道如何完成任务，却无法解释自己如何做到（Schiffer 2002；Devitt 2011；Adams 2009；Wallis 2008）[^adams-2009][^devitt-2011][^schiffer-2002][^wallis-2008]。为理智主义辩护：确实似乎存在这样的情形——人正是通过查阅手册、学会某些命题，才知道如何做某事的（例如见 Snowdon 2004: 12；Bengson and Moffett 2011a: 8；Katzoff 1984: 65 以下）[^bengson-2011a][^katzoff-1984][^snowdon-2004]。此外，反理智主义要求命题知识总可用语言表述，这一要求是否有动机也不清楚。事实上，它似乎把知道如何完成一个任务，与 **知道如何解释该任务是如何完成的** 混为一谈（参 Fodor 1968: 634；Stalnaker 2012）[^fodor-1968][^stalnaker-2012]。Stanley（2011b: 161）指出：在某种意义上，知识-如何 **确实** 总可用语言表述。一个被打得晕头转向的拳手，至多只能指示性地指称自己对“对付左撇子拳手之打法”的重演，说“我打左撇子就是这么打的”；他直觉上知道自己打左撇子就是这么打的。这一知识有一个本质性的指示或索引成分。但其他许多命题知识亦然，例如我们通过说“这就是干这活儿的工具”或“那会惹麻烦”所表达的知识。这一回应假定：执行任务的方式是 **显见的**，故可被指示词所拾取。但情形不必如此：在任何单一场合，人也许只按一种方式的 **部分** 行动。所以，人并不能借此拾取其知识-如何所关涉的 **一般** 方式。为理智主义辩护的另一回应是指出：任务之实践概念与同一任务之“语义”概念的区别恰在于：即便它们是命题性的，也不必然可用语言表述。
   - id: 158
     kind: body
     source: |-
       ### 7.4 Knowledge-How in Preverbal Children and Nonhuman Animals
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.4 前语言儿童与非人动物中的知识-如何
+    step2: |-
+      ### 7.4 前语言儿童与非人动物中的知识-如何
   - id: 159
     kind: body
     source: |-
       A final objection is that intellectualism overintellectualizes knowledge-how in a way that is incompatible with what we know about animals’ cognition (Noë 2005; Hornsby 2007; Dreyfus 2007; Elzinga forthcoming)[^dreyfus-2007][^noë-2005]. According to this objection, unsophisticated and non- (or pre-) linguistic agents such as babies and non-human animals can know how to perform certain tasks, while lacking the concepts that are required for propositional knowledge. Some intellectualists respond that ordinary speakers routinely also ascribe propositional knowledge to animals and babies, as we say that Fido knows that its owner is arriving or that a baby knows that their mother is present (Stanley & Williamson 2001)[^stanley-2001]. Thus, while propositional knowledge may require concept possession, our ordinary knowledge ascriptions suggest that we regard relatively unsophisticated agents as possessing the relevant concepts. Comparative psychologists do routinely credit many non-human and non-linguistic animals with the possession of concepts. (See Allen & Bekoff 1999 for a comprehensive overview)[^allen-1999].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后一个反对意见是：理智主义把知识-如何过度智性化，其程度与我们对动物认知所知者不相容（Noë 2005；Hornsby 2007；Dreyfus 2007；Elzinga 即将出版）[^dreyfus-2007][^noë-2005]。按这一反对意见，婴儿与非人动物这类不复杂且非（或前）语言的行动者，能够知道如何完成某些任务，却缺乏命题知识所需的概念。一些理智主义者回应说，平常说话者本就惯于把命题知识也归赋给动物与婴儿，比如我们说菲多知道主人快回来了，或婴儿知道母亲在场（Stanley & Williamson 2001）[^stanley-2001]。所以，命题知识虽然可能要求拥有概念，但我们的日常知识归赋表明：我们把相对不复杂的行动者也视为拥有相关概念。比较心理学家确实惯于认为许多非人且非语言的动物拥有概念。（综述见 Allen & Bekoff 1999）[^allen-1999]。
+    step2: |-
+      最后一个反对意见是：理智主义把知识-如何过度智性化，其程度与我们对动物认知所知者不相容（Noë 2005；Hornsby 2007；Dreyfus 2007；Elzinga 即将出版）[^dreyfus-2007][^noë-2005]。按这一反对意见，婴儿与非人动物这类不复杂且非（或前）语言的行动者，能够知道如何完成某些任务，却缺乏命题知识所需的概念。一些理智主义者回应说：平常说话者本就惯于把命题知识归赋给动物与婴儿——我们说菲多知道主人快回来了，或婴儿知道母亲在场（Stanley & Williamson 2001）[^stanley-2001]。所以，命题知识虽然可能要求拥有概念，但我们的日常知识归赋表明：我们把相对不复杂的行动者也视为拥有相关概念。比较心理学家确实惯于认为许多非人且非语言的动物拥有概念。（综述见 Allen & Bekoff 1999）[^allen-1999]。
   - id: 160
     kind: body
     source: |-
       This response might be less plausible, though, when it comes to lower animals, or insects. Here too, we might describe ants as knowing how to carry food back to their nest. And yet, there is less evidence from cognitive science that insects are capable of concepts too (though see Gallistel & King 2009)[^gallistel-2009]. In response, a different line of argument might be more promising (cf. McDowell 2007)[^mcdowell-2007]: it does not follow from the fact that we are disposed to ascribe knowledge-how to lower animals that what explains their goal-directed behavior is the same sort of psychological state that underlies human knowledge-how and human action. For from the fact that their behavior resembles humans’ in some respects (for example, in its goal-directedness) does not entail that it resembles humans’ skilled behavior in *all respects that matter* (for example, in the susceptibility of the relevant behavior to rational revision).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不过，这一回应在涉及较低等动物或昆虫时，也许就不那么可信了。这里我们也可以把蚂蚁描述为知道如何把食物搬回巢穴。然而，认知科学中支持昆虫也能拥有概念的证据较少（不过见 Gallistel & King 2009）[^gallistel-2009]。对此，另一条论证路线也许更有希望（参 McDowell 2007）[^mcdowell-2007]：从我们倾向于把知识-如何归赋给较低等动物，推不出解释其目标导向行为的东西，就是支撑人类知识-如何与人类行动的同一类心理状态。因为，它们的行为在某些方面（例如目标导向性）与人类相似。但这一事实并不蕴涵：它在**一切要紧方面**都与人类的熟练行为相似（例如在相关行为对理性修正的敏感度方面）。
+    step2: |-
+      不过，这一回应涉及较低等动物或昆虫时，也许就不那么可信了。这里我们也可以把蚂蚁描述为知道如何把食物搬回巢穴。然而，认知科学中支持昆虫也拥有概念这一点的证据较少（不过见 Gallistel & King 2009）[^gallistel-2009]。对此，另一条论证路线也许更有希望（参 McDowell 2007）[^mcdowell-2007]。从我们倾向于把知识-如何归赋给较低等动物，推不出下述结论——解释其目标导向行为的东西，就是支撑人类知识-如何与人类行动的那一类心理状态。因为，它们的行为在某些方面（例如目标导向性）与人类相似这一事实，并不蕴涵它在 **一切要紧方面** 都与人类的熟练行为相似（例如，在相关行为对理性修正的敏感度方面）。
   - id: 161
     kind: body
     source: |-
       ## 8. Varieties of Anti-Intellectualism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 8 反理智主义的诸形态
+    step2: |-
+      ## 8 反理智主义的诸形态
   - id: 162
     kind: body
     source: |-
       ### 8.1 Revisionary Intellectualism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 8.1 修正主义理智主义
+    step2: |-
+      ### 8.1 修正主义理智主义
   - id: 163
     kind: body
     source: |-
       According to orthodox intellectualism, knowledge-how is a species of propositional knowledge. Revisionary intellectualism, instead, contends that although knowledge-how is a kind of knowledge-that, the relevant knowledge is *sui generis* and differs from standard propositional knowledge in some important ways. For example, Brogaard (2009, 2011) argues that, in general, knowledge can have cognitive abilities or practical abilities as its justificatory grounds. In the latter case, agents know in virtue of ability states that are not subject to the usual epistemic constraints that characterize belief states generated by cognitive abilities. Correspondingly, knowledge-how fits the bill for this practically grounded knowledge. Cath (2015b) argues that we should distinguish between *theoretical* knowledge-that and *practical* knowledge-that. The former is subject to the usual epistemic constraints, like being sensitive to Gettierization (cf. also Zardini 2013)[^zardini-2013]. The latter, instead, is not sensitive to the usual epistemic constraints of theoretical knowledge-that—and can therefore constitute knowledge-that even if Gettierized. Waights Hickman (2019) suggests that knowledge-how is a distinct kind of knowledge-that relation, characterized by knowing something in “the executive way”, which requires
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按正统理智主义，知识-如何是命题知识的一个种类。修正主义理智主义则主张：知识-如何虽然是一种命题知识，但相关的知识是自成一类的（*sui generis*），并在若干重要方面不同于标准的命题知识。例如，Brogaard（2009, 2011）主张，一般而言，知识可以以认知能力或实践能力为其辩护根据。在后一种情形中，行动者是凭能力状态而知的，而这些能力状态不受那些刻画由认知能力生成的信念状态的通常知识论约束。相应地，知识-如何正符合这种以实践为根据的知识。Cath（2015b）主张，我们应区分*理论性的*命题知识与*实践性的*命题知识。前者受通常的知识论约束，如对盖梯尔化的敏感（另参 Zardini 2013）[^zardini-2013]。后者则不受理论性命题知识的那些通常约束——因此即便被盖梯尔化，也可以构成命题知识。Waights Hickman（2019）提出，知识-如何是一种独特的命题知识关系，其特征是以“执行的方式”知道某事，此方式要求：
+    step2: |-
+      按正统理智主义，知识-如何是命题知识的一个种类。修正主义理智主义则主张：知识-如何虽然是一种命题知识，但相关知识是自成一类的（*sui generis*），并在若干重要方面不同于标准命题知识。例如，Brogaard（2009, 2011）主张：一般而言，知识可以以认知能力或实践能力为其辩护根据。在后一种情形中，行动者是凭能力状态而知的，而这些能力状态不受那些刻画由认知能力生成之信念状态的通常知识论约束。相应地，知识-如何正符合这种以实践为根据的知识。Cath（2015b）主张，我们应区分 **理论性的** 命题知识与 **实践性的** 命题知识。前者受通常的知识论约束，如对盖梯尔化的敏感（另参 Zardini 2013）[^zardini-2013]。后者则不受理论性命题知识的那些通常约束——因此即便被盖梯尔化，也可以构成命题知识。Waights Hickman（2019）提出：知识-如何是一种独特的命题知识关系，其特征是以“执行的方式”知道某事，此方式要求：
   - id: 164
     kind: body
     source: |-
       > possession of (a) dispositions to attend to features of an action-context on which one’s knowledge (how) bears; and (b) dispositions to adjust one’s use of that knowledge accordingly. (2019: 333).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 拥有（a）留意行动语境中与自己的（如何）知识相关之特征的倾向；以及（b）相应地调整自己对该知识之运用的倾向。（2019: 333）
+    step2: |-
+      > 拥有（a）留意行动语境中与自己的（如何）知识相关之特征的倾向；以及（b）相应地调整自己对该知识之运用的倾向。（2019: 333）
   - id: 165
     kind: body
     source: |-
       As we have seen (section 4), Bengson & Moffett (2007, 2011b) defend *Non-propositional (or Objectualist) Intellectualism*. On this view, knowing how to Φ necessarily involves having *objectual knowledge* of a way of Φ-ing but having objectual knowledge of a way of Φ-ing is not sufficient to know how to Φ. For example, a tropical swimmer may be acquainted with a way of escaping an avalanche, namely making swimming motions. Yet, if this swimmer had no conception whatsoever of an avalanche or of snow, he would not know how to escape an avalanche. This suggests that there must be some propositional/representational aspect of knowing how to Φ. Hence, according to this view for one to know how to Φ, (i) one must have objectual knowledge of a way of Φ-ing and (ii) one must grasp a correct and complete conception of this way.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如我们所见（第 4 节），Bengson & Moffett（2007, 2011b）为*非命题的（或对象论的）理智主义*辩护。按这种观点，知道如何 Φ 必然涉及对某种 Φ 方式的*对象性知识*，但对某种 Φ 方式拥有对象性知识并不足以知道如何 Φ。例如，一位热带泳者可能熟悉一种从雪崩中逃生的方式，即做出游泳的动作。然而，若这位泳者对雪崩或雪毫无概念，他便不会知道如何从雪崩中逃生。这提示：知道如何 Φ 必有某种命题性／表征性的方面。因此，按这种观点，人要 知道如何 Φ，（i）必须对某种 Φ 方式拥有对象性知识，（ii）必须把握关于该方式的一个正确而完整的概念。
+    step2: |-
+      如我们所见（第 4 节），Bengson & Moffett（2007, 2011b）为 **非命题的（或对象论的）理智主义** 辩护。按这种观点，知道如何 Φ 必然涉及对某种 Φ 方式的 **对象性知识**，但对某种 Φ 方式拥有对象性知识并不足以知道如何 Φ。例如，一位热带泳者可能熟悉一种从雪崩中逃生的方式，即做出游泳的动作。然而，若这位泳者对雪崩或雪毫无概念，他便不会知道如何从雪崩中逃生。这提示：知道如何 Φ 必有某种命题性／表征性的方面。因此，按这种观点，人要 知道如何 Φ，（i）必须对某种 Φ 方式拥有对象性知识，（ii）必须把握关于该方式的一个正确而完整的构想。
   - id: 166
     kind: body
     source: |-
       ### 8.2 Ability Based Anti-Intellectualism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 8.2 以能力为基础的反理智主义
+    step2: |-
+      ### 8.2 以能力为基础的反理智主义
   - id: 167
     kind: body
     source: |-
       As we have seen, Ryle is often interpreted as claiming that knowledge-how ascriptions are nothing more than ascriptions of an ability or a complex of dispositions to act in a skilled or intelligent manner (Hornsby 2011)[^hornsby-2011]. (For a recent defense of knowledge-how as an ability, see Markie 2015.)[^markie-2015] Anti-intellectualism of this sort has been voiced by Lewis (1990) and has been thought to undercut the so-called “knowledge-argument” in the philosophy of mind (see Jackson 1986 for a classic formulation. For further discussion, see Nemirow 1990 and Alter 2001)[^alter-2001][^jackson-1986][^nemirow-1990]. However, Cath (2009) argues that similar worries about the argument survive even on some prominent intellectualist views. For a survey of other consequences thought to follow from the various positions in the knowledge-how debate, see Bengson and Moffett (2011b: 44–54).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如我们所见，赖尔常被解读为主张：知识-如何的归赋不过是对一种能力、或对一组以熟练或聪明方式行动之倾向的归赋（Hornsby 2011）[^hornsby-2011]。（关于“知识-如何即能力”的晚近辩护，见 Markie 2015。）[^markie-2015] 这种反理智主义已由 Lewis（1990）提出，并被认为削弱了心灵哲学中所谓的“知识论证”（经典表述见 Jackson 1986；进一步讨论见 Nemirow 1990 与 Alter 2001）[^alter-2001][^jackson-1986][^nemirow-1990]。然而，Cath（2009）主张：即便在某些著名的理智主义观点上，对知识论证的类似担忧依然存在。关于知识-如何之争中各立场被认为带来的其他后果的综览，见 Bengson and Moffett（2011b: 44–54）。
+    step2: |-
+      如我们所见，赖尔常被解读为主张：知识-如何的归赋不过是对一种能力、或对一组以熟练或聪明方式行动之倾向的归赋（Hornsby 2011）[^hornsby-2011]。（关于“知识-如何即能力”的晚近辩护，见 Markie 2015）[^markie-2015]。这种反理智主义已由 Lewis（1990）提出，并被认为削弱了心灵哲学中所谓的“知识论证”（经典表述见 Jackson 1986；进一步讨论见 Nemirow 1990 与 Alter 2001）[^alter-2001][^jackson-1986][^nemirow-1990]。然而，Cath（2009）主张：即便在某些著名的理智主义观点上，对知识论证的类似担忧依然存在。关于知识-如何之争中各立场被认为带来的其他后果的综览，见 Bengson and Moffett（2011b: 44–54）。
   - id: 168
     kind: body
     source: |-
       However, few theorists nowadays identify knowledge-how with bare abilities. Setiya (2012) holds that to have knowledge-how is to have the disposition to act guided by one’s intention; Constantin (2018) argues that knowing how to Φ is to have the disposition to have the ability to Φ. Neo-Rylean views are also developed by Craig (1990), Wiggins (2012), and Löwenstein (2016). Craig suggests that knowledge-how to Φ amounts to the ability to teach others how to Φ. Wiggins argues that genuine knowledge-how stems from a bundle of practical abilities that constitute the ethos of a practice and, while interrelated with propositional knowledge, cannot be reduced to it. In turn, Löwenstein argues that knowledge-how to Φ is the ability to Φ intelligently guided by the understanding of the activity of Φ-ing.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，如今很少有理论家把知识-如何等同于赤裸的能力。Setiya（2012）认为，拥有知识-如何就是拥有受自己意向引导而行动的倾向；Constantin（2018）主张，知道如何 Φ 就是拥有“拥有 Φ 之能力”的倾向。新赖尔式观点也由 Craig（1990）、Wiggins（2012）与 Löwenstein（2016）发展。Craig 提出，知道如何 Φ 等于能够教别人如何 Φ。Wiggins 主张，真正的知识-如何源于一组构成某一实践之风气的实践能力；它与命题知识相互关联，却不能还原为命题知识。Löwenstein 则主张，知道如何 Φ 就是在对 Φ 这一活动的理解引导下聪明地 Φ 的能力。
+    step2: |-
+      然而，如今很少有理论家把知识-如何等同于赤裸的能力。Setiya（2012）认为，拥有知识-如何就是拥有受自己意向引导而行动的倾向；Constantin（2018）主张，知道如何 Φ 就是拥有“拥有 Φ 之能力”的倾向。新赖尔式观点也由 Craig（1990）、Wiggins（2012）与 Löwenstein（2016）发展。Craig 提出：知道如何 Φ 等于能够教别人如何 Φ。Wiggins 主张：真正的知识-如何源于一组构成某一实践之风气的实践能力；它与命题知识相互关联，却不能还原为命题知识。Löwenstein 则主张：知道如何 Φ，就是在对 Φ 这一活动的理解引导下聪明地 Φ 的能力。
   - id: 169
     kind: body
     source: |-
       Carter and Pritchard (2015a,b,c) develop an alternative view which does not equate knowledge-how with an ability, but it still gives ability a central theoretical role. In their view, knowing how to Φ is a cognitive achievement, *given* our abilities to Φ: if one successfully Φs because of one’s ability, then one knows how to Φ. And if one knows how to Φ, then one is positioned to successfully Φ because of one’s ability. Therefore, for them, knowledge-how does not reduce to the mere possession of abilities but it essentially involves the successful enactment of these abilities. Habgood-Coote (2019) defends the view that knowing how to Φ just is the ability to generate the right answers to the question of how to Φ. Although on this view, knowledge-how is a relation an agent bears to a proposition—one that answers the relevant practical question—this relation to a proposition is not understood in epistemic terms but in terms of dispositions (see also Audi 2017 and Farkas 2017)[^audi-2017][^farkas-2017].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Carter 与 Pritchard（2015a,b,c）发展了一种替代观点，它不把知识-如何等同于能力，但仍赋予能力以核心的理论角色。在他们看来，知道如何 Φ 是一种认知成就，**鉴于**我们 Φ 的能力：若人因其能力而成功地 Φ，则他知道如何 Φ；反之，若他知道如何 Φ，则他处于能够因其能力而成功 Φ 的位置。因此，对他们而言，知识-如何并不还原为单纯拥有能力，而是本质上涉及这些能力的成功实施。Habgood-Coote（2019）辩护的观点是：知道如何 Φ 恰恰就是能够就如何 Φ 这一问题生成正确答案的能力。尽管按这种观点，知识-如何是行动者与一个命题（即回答相关实践问题的命题）之间的关系，这一与命题的关系却不是以知识论术语、而是以倾向来理解的（另见 Audi 2017 与 Farkas 2017）[^audi-2017][^farkas-2017]。
+    step2: |-
+      Carter 与 Pritchard（2015a,b,c）发展了一种替代观点：它不把知识-如何等同于能力，但仍赋予能力以核心的理论角色。在他们看来，知道如何 Φ 是一种认知成就，**鉴于** 我们 Φ 的能力：若人因其能力而成功地 Φ，则他知道如何 Φ；反之，若他知道如何 Φ，则他处于能够因其能力而成功 Φ 的位置。因此，对他们而言，知识-如何并不还原为单纯拥有能力，而是本质上涉及这些能力的成功实施。Habgood-Coote（2019）辩护的观点是：知道如何 Φ 恰恰就是能够就如何 Φ 这一问题生成正确答案的能力。尽管按这种观点，知识-如何是行动者与一个命题（即回答相关实践问题的命题）之间的关系，这种关系却不以知识论术语、而以倾向来理解（另见 Audi 2017 与 Farkas 2017）[^audi-2017][^farkas-2017]。
   - id: 170
     kind: body
     source: |-
       ### 8.3 Radical Anti-Intellectualism: Practicalism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 8.3 激进反理智主义：实践主义
+    step2: |-
+      ### 8.3 激进反理智主义：实践主义
   - id: 171
     kind: body
     source: |-
       While the intellectualist holds that knowledge-how must be understood in terms of knowledge-that, *radical anti-intellectualism* holds that knowledge-that must be understood in terms of knowledge-how or skill. As Hetherington puts it:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      理智主义者认为知识-如何必须用命题知识来理解，而*激进的反理智主义*则主张：命题知识必须用知识-如何或技能来理解。如 Hetherington 所言：
+    step2: |-
+      理智主义者认为知识-如何必须用命题知识来理解，而 **激进的反理智主义** 则主张：命题知识必须用知识-如何或技能来理解。如 Hetherington 所言：
   - id: 172
     kind: body
     source: |-
       > Your knowing that *p* *is* your having the ability to manifest various accurate representations of *p*. The knowledge as such is the ability as such. (2011: 42, original emphasis)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 你知道 *p*，**就是**你拥有展现关于 *p* 的种种准确表征的能力。知识本身即能力本身。（2011: 42，原文强调）
+    step2: |-
+      > 你知道 *p*，**就是** 你拥有展现关于 *p* 的种种准确表征的能力。知识本身即能力本身。（2011: 42，原文强调）
   - id: 173
     kind: body
     source: |-
       An agent knows that, for instance, she is in France whenever she is able to produce the corresponding true belief, to assert that she is indeed in France, provide justification, answer related questions, etc. (see Hartland-Swann 1956; Roland 1958 for classic formulation and Hetherington’s 2006, 2011, 2020 “practicalism” for a more recent form of radical anti-intellectualism)[^hartland-swann-1956][^hetherington-2006][^roland-1958].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      例如，行动者知道自己在法国，只要她能够产出相应的真信念、断言自己确实在法国、给出辩护、回答相关问题等等（经典表述见 Hartland-Swann 1956；Roland 1958；更晚近的激进反理智主义形式则见 Hetherington 2006, 2011, 2020 的“实践主义”）[^hartland-swann-1956][^hetherington-2006][^roland-1958]。
+    step2: |-
+      例如，行动者知道自己在法国，只要她能够产出相应的真信念、断言自己确实在法国、给出辩护、回答相关问题等等（经典表述见 Hartland-Swann 1956 与 Roland 1958；更晚近的激进反理智主义形式则见 Hetherington 2006, 2011, 2020 的“实践主义”）[^hartland-swann-1956][^hetherington-2006][^roland-1958]。
   - id: 174
     kind: body
     source: |-
       ## 9. Knowledge-How and Skill
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 9 知识-如何与技能
+    step2: |-
+      ## 9 知识-如何与技能
   - id: 175
     kind: body
     source: |-
       ### 9.1 Skill Across Cultures
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 9.1 跨文化的技能
+    step2: |-
+      ### 9.1 跨文化的技能
   - id: 176
     kind: body
     source: |-
       The most recent debate on knowledge-how has intertwined with a debate on the nature of skills. While there is no consensus on what counts as a skill, by and large people take skills to manifest in purposeful and goal-directed activities and to be learnable and improvable through practice (Fitts & Posner 1967; Stanley & Krakauer 2013; Willingham 1998; Yarrow, Brown, & Krakauer 2009)[^fitts-1967][^stanley-2013][^willingham-1998]. Skills are usually contrasted with *knacks* (or mere talents). Some contrast them with habits (Pear 1926; Ryle 1949)[^pear-1926][^ryle-1949] in that these are performed automatically, whereas the exercise of intelligent capacities involves self-control, attention to the conditions, and awareness of the task. Others, instead, argue that understanding skill requires a better understanding of what habits amount to (Gallagher 2017; Hutto & Robertson 2020)[^gallagher-2017][^hutto-2020].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      晚近关于知识-如何的争论，与关于技能本性的争论交织在一起。虽说对于什么算作技能尚无共识，但大体上人们认为技能表现于有目的、目标导向的活动中，且可通过练习学会并提高（Fitts & Posner 1967；Stanley & Krakauer 2013；Willingham 1998；Yarrow, Brown, & Krakauer 2009）[^fitts-1967][^stanley-2013][^willingham-1998]。技能通常与*诀窍*（或单纯的天赋）相对照。有些人把它与习惯相对照（Pear 1926；Ryle 1949）[^pear-1926][^ryle-1949]，理由是习惯自动执行，而智能能力的运用涉及自我控制、对条件的注意与对任务的觉察。另一些人则主张，理解技能需要更好地理解习惯究竟是什么（Gallagher 2017；Hutto & Robertson 2020）[^gallagher-2017][^hutto-2020]。
+    step2: |-
+      晚近关于知识-如何的争论，与关于技能本性的争论交织在一起。虽说对于什么算作技能尚无共识，但大体上人们认为：技能表现于有目的、目标导向的活动之中，且可通过练习学会并提高（Fitts & Posner 1967；Stanley & Krakauer 2013；Willingham 1998；Yarrow, Brown, & Krakauer 2009）[^fitts-1967][^stanley-2013][^willingham-1998]。技能通常与 **诀窍**（或单纯的天赋）相对照。有些人把它与习惯相对照（Pear 1926；Ryle 1949）[^pear-1926][^ryle-1949]，理由是习惯自动执行，而智能能力的运用涉及自我控制、对条件的注意与对任务的觉察。另一些人则主张：理解技能需要更好地理解习惯究竟是什么（Gallagher 2017；Hutto & Robertson 2020）[^gallagher-2017][^hutto-2020]。
   - id: 177
     kind: body
     source: |-
       The topic of skill and expertise is central since ancient philosophy through the notion of *technē*. Although both Plato and Aristotle took *technē* to be a kind of knowledge, there is significant controversy about their conceptions regarding the nature of this kind of knowledge and its relation to experience (*empeiria*) on one hand, and scientific knowledge (*epistēmē*) on the other (Johansen 2017; Lorenz & Morison 2019; Coope 2020)[^coope-2020][^johansen-2017][^lorenz-2019]. Annas (1995, 2001, 2011) develops an interpretation on which skill and virtue (or *phronēsis*) are closer in Aristotle’s action theory than usually thought and they are both conceived along a broadly intellectualist model.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      技能与专长这一题目自古希腊哲学以来便是核心，其线索是*技艺*（*technē*）这一概念。尽管柏拉图与亚里士多德都把*技艺*视为一种知识，但关于他们如何理解这类知识的本性、它同经验（*empeiria*）的关系、以及它同科学知识（*epistēmē*）的关系，仍有重大争议（Johansen 2017；Lorenz & Morison 2019；Coope 2020）[^coope-2020][^johansen-2017][^lorenz-2019]。Annas（1995, 2001, 2011）提出一种解读：在亚里士多德的行为理论中，技能与德性（或*实践智慧*，*phronēsis*）比通常所想的更为接近，且二者都按一种宽泛的理智主义模型来构想。
+    step2: |-
+      技能与专长这一题目自古希腊哲学以来便是核心，其线索是 **技艺**（*technē **）这一概念。尽管柏拉图与亚里士多德都把** 技艺*视为一种知识，但关于他们如何理解这类知识的本性——它同经验（*empeiria*）的关系、以及它同科学知识（*epistēmē*）的关系——仍有重大争议（Johansen 2017；Lorenz & Morison 2019；Coope 2020）[^coope-2020][^johansen-2017][^lorenz-2019]。Annas（1995, 2001, 2011）提出一种解读：在亚里士多德的行为理论中，技能与德性（或 **实践智慧**，*phronēsis*）比通常所想的更为接近，且二者都按一种宽泛的理智主义模型来构想。
   - id: 178
     kind: body
     source: |-
       In contemporary times, the notion of skill is central to the philosophy of the twentieth-century French phenomenologist Maurice Merleau-Ponty. Merleau-Ponty (1945 [1962]) distinguishes between *motor intentionality*—the sort of intentionality relevant for motor skills—and *cognitive intentionality*. While the latter is conceptual and representational, Merleau-Ponty thought that motor intentionality is non-representational and non-conceptual. Central to Merleau-Ponty is the role of motor skills in shaping perceptual experience: in paradigmatic cases of perception, the flow of information taken in by perceivers is inseparable from the way they move through a scene. On this view, even superficially static perceptions engage motor skills, such as seeing the color of a table as uniform when different parts of it are differently illuminated (see Siegel 2020 for an helpful introduction)[^siegel-2020].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在当代，技能这一概念在二十世纪法国现象学家梅洛-庞蒂的哲学中居于核心。梅洛-庞蒂（1945 [1962]）区分了*运动意向性*——与运动技能相关的那类意向性——与*认知意向性*。后者是概念的、表征性的；梅洛-庞蒂则认为运动意向性是非表征的、非概念的。梅洛-庞蒂的核心关切是运动技能在塑造知觉经验中的作用：在典型的知觉情形中，知觉者所接收的信息流，与他们在场景中移动的方式不可分离。按这种观点，即便表面上静态的知觉也牵动运动技能，例如在不同部分受光不同的情况下把桌子的颜色看作均匀的（有用的导论见 Siegel 2020）[^siegel-2020]。
+    step2: |-
+      在当代，技能这一概念在二十世纪法国现象学家梅洛-庞蒂的哲学中居于核心。梅洛-庞蒂（1945 [1962]）区分了 **运动意向性**——与运动技能相关的那类意向性——与 **认知意向性**。后者是概念的、表征性的；梅洛-庞蒂则认为，运动意向性是非表征的、非概念的。梅洛-庞蒂的核心关切，是运动技能在塑造知觉经验中的作用：在典型知觉情形中，知觉者接收的信息流，与他们在场景中移动的方式不可分离。按这种观点，即便表面静态的知觉也牵动运动技能。例如，在不同部分受光各异时，人仍会把桌子颜色看作均匀的（有用的导论见 Siegel 2020）[^siegel-2020]。
   - id: 179
     kind: body
     source: |-
       This phenomenological tradition inspires Dreyfus’ (1991, 2000, 2002, 2005, 2007) critique of standard action theory. According to Dreyfus, theories on which an action is intentional only if the agent is in a mental state that represents the goal of her action (cf. Searle 1980, 2001)[^searle-1980] or on which actions are permeated by conceptual rationality (cf. McDowell 2007)[^mcdowell-2007] are not supported by the phenomenology of purposive activity. Paradigmatic examples of these purposive activities are, for Dreyfus, skillful activities like playing tennis or habitual activity like rolling over in bed or making gestures while speaking. In this sort of skillful coping, Dreyfus thought that the mind does not represent the world as detached from it. Rather, it is fundamentally embedded, absorbed, and embodied (see Gehrman & Schwenkler 2020 for an helpful introduction to Dreyfus on skills)[^gehrman-2020].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一现象学传统启发了德雷福斯（1991, 2000, 2002, 2005, 2007）对标准行为理论的批评。据德雷福斯，那些主张“行动只有当行动者处于表征其行动目标的心里状态时才是意向性的”理论（参 Searle 1980, 2001）[^searle-1980]，或主张“行动渗透着概念的合理性”的理论（参 McDowell 2007）[^mcdowell-2007]，都得不到有目的活动之现象学的支持。对德雷福斯而言，这类有目的活动的典型例子，是打网球之类的技能性活动，或翻身穿衣、说话时打手势之类的习惯性活动。在这种技能性的应对中，德雷福斯认为心并不把世界表征为与自己相分离的东西；心根本上是嵌入世界的、沉浸的、具身的（关于德雷福斯论技能的有用导论，见 Gehrman & Schwenkler 2020）[^gehrman-2020]。
+    step2: |-
+      这一现象学传统启发了德雷福斯（1991, 2000, 2002, 2005, 2007）对标准行为理论的批评。据德雷福斯，有的理论主张“行动只有当行动者处于表征其行动目标的心理状态时才是意向性的”（参 Searle 1980, 2001）[^searle-1980]；有的主张“行动渗透着概念合理性”（参 McDowell 2007）[^mcdowell-2007]。这两类理论都得不到有目的活动之现象学的支持。对德雷福斯而言，这类有目的活动的典型例子，是打网球之类的技能性活动，或翻身、说话时打手势之类的习惯性活动。在这种技能性的应对中，德雷福斯认为心并不把世界表征为与自己相分离的东西；心根本上是嵌入世界、沉浸而具身的（关于德雷福斯论技能的有用导论，见 Gehrman & Schwenkler 2020）[^gehrman-2020]。
   - id: 180
     kind: body
     source: |-
       The notion of skill is central also in Eastern philosophy. Garfield and Priest (2020) examine the various roles that the notion of skill plays in the Indian school of Mahayana Buddhism, in Daoism, and in Chan/Zen thought. In Daoism as well as in Chan/Zen Buddhism, the emphasis on skill is also connected, fundamentally, to concerns about living a good and ethical life. Sarkissan (2020) argues that two prominent types of expertise often encountered in ancient Chinese thought from the sixth to third centuries BCE: The first is expertise at a particular craft, occupation, or *dao*, as is most famously presented in the Daoist anthology *Zhuangzi*. The second is ethical expertise in the Ruist (Confucian) and Mohist schools (cf. for more on skill in Buddhism, see also MacKenzie 2020)[^mackenzie-2020].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      技能这一概念在东方哲学中也居于核心。Garfield 与 Priest（2020）考察了技能概念在印度大乘佛教、道家与禅宗思想中所起的种种作用。在道家与禅宗中，对技能的强调也根本上与过一种善的、伦理的生活这一关切相连。Sarkissan（2020）主张，公元前六至三世纪的中国古代思想中常见两类显著的专长：第一类是对某种特定技艺、职业或*道*的专长，最著名的呈现见道家文集《庄子》；第二类是儒家与墨家的伦理专长（关于佛教中技能的更多讨论，另见 MacKenzie 2020）[^mackenzie-2020]。
+    step2: |-
+      技能这一概念在东方哲学中也居于核心。Garfield 与 Priest（2020）考察了技能概念在印度大乘佛教、道家与禅宗思想中所起的种种作用。在道家与禅宗中，对技能的强调也根本上与“过一种善而伦理的生活”这一关切相连。Sarkissan（2020）主张：公元前六至三世纪的中国古代思想中常见两类显著的专长——第一类是对某种特定技艺、职业或 **道** 的专长，最著名的呈现见道家文集《庄子》；第二类是儒家与墨家的伦理专长（关于佛教中技能的更多讨论，另见 MacKenzie 2020）[^mackenzie-2020]。
   - id: 181
     kind: body
     source: |-
       ### 9.2 Intellectualism and Anti-Intellectualism About Skill
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 9.2 关于技能的理智主义与反理智主义
+    step2: |-
+      ### 9.2 关于技能的理智主义与反理智主义
   - id: 182
     kind: body
     source: |-
       What is the relation between knowledge-how and skill? For many tasks at least, it is intuitive that one cannot be skilled at it without knowing how to perform it. At first, it also seems as if knowledge-how entails skill: one does not really know how to swim if one does not have the skill to swim; and one cannot know how to tell apart birds without the skills of a bird watcher. One might object to the sufficiency of knowledge-how for skill on the grounds that it is natural to say things such as “John may know how to make risotto, but I would not say he is skilled at it”. However, knowing how to make risotto *sufficiently well* (relative to contextually determined standards) might entail being skilled at it (relative to the same standards) (Cath 2020)[^cath-2020].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      知识-如何与技能之间是什么关系？至少对许多任务而言，直觉上，一个人若不知道如何完成它，就不能擅长它。起初，知识-如何似乎也蕴涵技能：若没有游泳的技能，人就不是真的知道如何游泳；若没有观鸟者的技能，人就不能知道如何辨别鸟类。有人可能以“约翰也许知道如何做意大利烩饭，但我不会说他擅长做它”这类说法之为自然，来反对“知识-如何足以构成技能”。然而，知道如何把意大利烩饭做得*足够好*（相对于语境所定的标准），也许就蕴涵着擅长做它（相对于同样的标准）（Cath 2020）[^cath-2020]。
+    step2: |-
+      知识-如何与技能之间是什么关系？至少对许多任务而言，直觉上，一个人若不知道如何完成它，就不能擅长它。起初，知识-如何似乎也蕴涵技能：若没有游泳的技能，人就不是真的知道如何游泳；若没有观鸟者的技能，人就不能知道如何辨别鸟类。有人可能以“约翰也许知道如何做意大利烩饭，但我不会说他擅长做它”这类说法之自然，来反对“知识-如何足以构成技能”。然而，知道如何把意大利烩饭做得 **足够好**（相对于语境所定的标准），也许就蕴涵擅长做它（相对于同样的标准）（Cath 2020）[^cath-2020]。
   - id: 183
     kind: body
     source: |-
       Ryle (1946, 1949) used “skill” and “knowledge-how” interchangeably in his criticism of the “Intellectualist legend” (for discussion, see Kremer 2020)[^kremer-2020]. In fact, Ryle’s view of knowledge-how is stated, literally, as the view that “skill” is a complex of dispositions (Ryle 1949: 33; see also Ryle 1967, 1974, 1976 for his views on how skill as a form of knowledge is distinguished by the forms on how it is taught and learned through training)[^ryle-1949][^ryle-1967]. This discussion brings us to whether intellectualism about knowledge-how and *intellectualism about skill* stand or fall together. Should intellectualists about knowledge-how identify skill too with propositional knowledge? While Stanley and Williamson (2001) embrace the view that knowledge-how is propositional knowledge, in a recent paper (Stanley & Williamson 2017)[^stanley-2017], they refuse to think of *skill* as a standing propositional knowledge state. Rather, they argue that skills are dispositions to know. One motivation for this view is that this addresses the novelty challenge raised by Dreyfus (1991, 2005). According to this challenge, propositional knowledge cannot explain the ability to respond intelligently to situations that have not been encountered by the agent before. If skills are dispositions to know, it is no mystery how novel situations can be handled by skillful agents. Stanley & Williamson (2017) claim that the resulting view is still broadly intellectualist in a sense, because on it, skillful action manifests propositional knowledge (for a criticism of this response to the novelty objection, see Pavese 2016 in Other Internet Resources).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      赖尔（1946, 1949）在批评“理智主义传说”时把“技能”与“知识-如何”互换使用（讨论见 Kremer 2020）[^kremer-2020]。事实上，赖尔关于知识-如何的观点，字面上就是“技能是倾向之复合体”的观点（Ryle 1949: 33；关于他如何认为作为知识形式的技能由教授与训练的方式所区分，另见 Ryle 1967, 1974, 1976）[^ryle-1949][^ryle-1967]。这一讨论引出一个问题：关于知识-如何的理智主义与*关于技能的理智主义*是否同存同亡？知识-如何上的理智主义者是否也应把技能等同于命题知识？Stanley 与 Williamson（2001）接受知识何以为命题知识，但在晚近一篇论文（Stanley & Williamson 2017）[^stanley-2017]中，他们拒绝把*技能*视为一种常存的命题知识状态；他们主张，技能是“知道的倾向”。这一观点的一个动机，是它回应了德雷福斯（1991, 2005）所提的新颖性挑战。按此挑战，命题知识无法解释人对自己此前未曾遭遇的情境作聪明回应的能力。若技能是知道的倾向，那么熟练行动者如何处理新颖情境便不再神秘。Stanley & Williamson（2017）声称，所得观点在某种意义上仍宽泛地是理智主义的，因为按它，熟练行动展现了命题知识（对这一回应新颖性反对意见之做法的批评，见 Other Internet Resources 中 Pavese 2016）。
+    step2: |-
+      赖尔（1946, 1949）在批评“理智主义传说”时把“技能”与“知识-如何”互换使用（讨论见 Kremer 2020）[^kremer-2020]。事实上，赖尔关于知识-如何的观点，字面上就是“技能是倾向之复合体”的观点（Ryle 1949: 33；关于他如何认为作为知识形式的技能由教授与训练的方式所区分，另见 Ryle 1967, 1974, 1976）[^ryle-1949][^ryle-1967]。这一讨论引出一个问题：关于知识-如何的理智主义与 **关于技能的理智主义** 是否同存同亡？知识-如何上的理智主义者是否也应把技能等同于命题知识？Stanley 与 Williamson（2001）接受知识何以为命题知识，但在晚近一篇论文（Stanley & Williamson 2017）[^stanley-2017]中，他们拒绝把 **技能** 视为一种常存的命题知识状态；他们主张，技能是“知道的倾向”。这一观点的一个动机，是它回应了德雷福斯（1991, 2005）所提的新颖性挑战。按此挑战，命题知识无法解释人对自己此前未曾遭遇的情境作聪明回应的能力。若技能是知道的倾向，则熟练行动者如何处理新颖情境便不再神秘。Stanley & Williamson（2017）声称：所得观点在某种意义上仍宽泛地是理智主义的，因为按它，熟练行动展现了命题知识（对这一回应新颖性反对意见之做法的批评，见 Other Internet Resources 中 Pavese 2016）。
   - id: 184
     kind: body
     source: |-
       Some authors argue that while skills may be related to propositional knowledge, they do not reduce to it. Dickie (2012) suggests that an agent is skilled at Φ whenever her intentions to Φ are non-lucky selectors of non-lucky means to Φ; while, in turn, these means might manifest propositional knowledge. Some argue that control is necessary for skills, and control cannot fully be understood in terms of propositional knowledge (Fridland 2014, 2017a, 2017b)[^fridland-2014]. In order to provide a theory of skill that makes room for control, Fridland (2020) develops a “functional” account of skills. In this view, a skill is a function from intentions to action, implemented through certain “control structures”, which include attention and strategic control. Among these control structures, there is also propositional knowledge, which is required for strategic control. In contrast, intellectualists about skills argue that being in control is not intelligible unless it is understood in terms of knowing what one is doing in virtue of knowing how to perform that action. Therefore, they argue that agentive control itself is best understood in terms of the capacity for propositional knowledge.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一些作者主张，技能虽可能与命题知识相关，却不还原为命题知识。Dickie（2012）提出，当行动者关于 Φ 的意向是非幸运地选取非幸运的 Φ 手段时，她就擅长 Φ；而这些手段反过来可能展现命题知识。有人主张控制对技能是必要的，而控制不能完全用命题知识来理解（Fridland 2014, 2017a, 2017b）[^fridland-2014]。为了提供一种为控制留出空间的技能理论，Fridland（2020）发展出一种“功能式”技能说明。按此观点，技能是从意向到行动的一个函数，经由某些“控制结构”实现，其中包括注意与策略性控制。在这些控制结构之中也有命题知识，它是策略性控制所需要的。相反，关于技能的理智主义者主张：除非用“凭知道如何执行该行动而知道自己正在做什么”来理解，控制便不可理解。因此他们主张，行动者性的控制本身最好用命题知识的能力来理解。
+    step2: |-
+      一些作者主张：技能虽可能与命题知识相关，却不还原为命题知识。Dickie（2012）提出，当行动者关于 Φ 的意向非幸运地选取了非幸运的 Φ 手段时，她就擅长 Φ；而这些手段反过来可能展现命题知识。有人主张控制对技能是必要的，而控制不能完全用命题知识来理解（Fridland 2014, 2017a, 2017b）[^fridland-2014]。为提供一种给控制留出空间的技能理论，Fridland（2020）发展出一种“功能式”技能说明：按此观点，技能是从意向到行动的一个函数，经由某些“控制结构”实现，其中包括注意与策略性控制；在这些控制结构之中也有命题知识，它是策略性控制所需要的。相反，关于技能的理智主义者主张：除非用“凭知道如何执行该行动而知道自己正在做什么”来理解，控制便不可理解。因此他们主张，行动者性的控制本身最好用命题知识的能力来理解。
   - id: 185
     kind: body
     source: |-
       ### 9.3 Skills in Epistemology
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 9.3 知识论中的技能
+    step2: |-
+      ### 9.3 知识论中的技能
   - id: 186
     kind: body
     source: |-
       Understanding the nature of skill and its relation with knowledge is of crucial importance for virtue epistemology—the view that knowledge is to be defined in terms of the success of our cognitive skills (Zagzebski 2003, 2008; Sosa 2007, 2009; J. Greco 2003, 2010; Pritchard 2012; Turri 2013, 2016; Beddor & Pavese 2020; Pritchard 2020)[^beddor-2020][^greco-2003][^pavese-2020][^pritchard-2012][^pritchard-2020][^sosa-2007][^turri-2013][^zagzebski-2003]. Nevertheless, if it turns out that skill must be explained in terms of knowledge, virtue epistemology would be trying to account for knowledge in terms of knowledge and so would be viciously circular (see Millar 2009; Stanley & Williamson 2017 for an argument in this spirit)[^millar-2009][^stanley-2017]. Some virtue epistemologists have responded by offering an anti-intellectualist account of knowledge-yielding cognitive skills. Sosa and Callahan (2020) describe the relevant skills as dispositions to succeed when one tries—such that knowledge is obtained when agents in the right shape and in the right situation enact these skills appropriately.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      理解技能的本性及其与知识的关系，对德性知识论至关重要——德性知识论主张，知识要用我们认知技能的成功来定义（Zagzebski 2003, 2008；Sosa 2007, 2009；J. Greco 2003, 2010；Pritchard 2012；Turri 2013, 2016；Beddor & Pavese 2020；Pritchard 2020）[^beddor-2020][^greco-2003][^pavese-2020][^pritchard-2012][^pritchard-2020][^sosa-2007][^turri-2013][^zagzebski-2003]。然而，若技能最终须用知识来解释，德性知识论便是在用知识来说明知识，从而陷入恶性循环（持此精神的一个论证见 Millar 2009；Stanley & Williamson 2017）[^millar-2009][^stanley-2017]。一些德性知识论者回应说，可以对产生知识的认知技能提出一种反理智主义说明。Sosa 与 Callahan（2020）把相关技能描述为“尝试即成功”的倾向——当处于恰当状态、恰当情境中的行动者恰当地施展这些技能时，知识便得以获得。
+    step2: |-
+      理解技能的本性及其与知识的关系，对德性知识论至关重要——德性知识论主张：知识要用我们认知技能的成功来定义（Zagzebski 2003, 2008；Sosa 2007, 2009；J. Greco 2003, 2010；Pritchard 2012；Turri 2013, 2016；Beddor & Pavese 2020；Pritchard 2020）[^beddor-2020][^greco-2003][^pavese-2020][^pritchard-2012][^pritchard-2020][^sosa-2007][^turri-2013][^zagzebski-2003]。然而，若技能最终须用知识来解释，德性知识论便是在用知识来说明知识，从而陷入恶性循环（持此精神的一个论证见 Millar 2009；Stanley & Williamson 2017）[^millar-2009][^stanley-2017]。一些德性知识论者回应说：可以对产生知识的认知技能提出一种反理智主义说明。Sosa 与 Callahan（2020）把相关技能描述为“尝试即成功”的倾向——当处于恰当状态、恰当情境中的行动者恰当地施展这些技能时，知识便得以获得。
   - id: 187
     kind: body
     source: |-
       ### 9.4 The Nature of Skilled Action
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 9.4 熟练行动的本性
+    step2: |-
+      ### 9.4 熟练行动的本性
   - id: 188
     kind: body
     source: |-
       Recent discussions on skill include a renewed debate on the nature of skilled action—i.e., on the sort of processes that are involved in the manifestation of skills. The most recent discussion on skilled action concerns the extent to which they are automatic or under conscious control. A long tradition has taken skilled action to be paradigmatically a matter of “absorbed coping” (Heidegger 1927; Merleau-Ponty 1945 [1962]; Dreyfus 1991)[^dreyfus-1991][^heidegger-1927][^merleau-ponty-1945]—characterized as immersion in the situation and intuitive response to its demands, with little awareness of the body, tools or even possibly the activity itself. Following Dreyfus and the phenomenological tradition, some enactivists (e.g., Noë 2004)[^noë-2004] highlight the analogies between skillful behavior and perception; other enactivists (e.g., Gallagher 2017; Hutto & Robertson 2020)[^gallagher-2017][^hutto-2020] argue that in order to understand the automaticity and unreflectiveness of skilled action, we ought to better understand habitual behavior. Even outside the phenomenological tradition, people have emphasized the unreflective aspect of skilled action. For example, Papineau (2013) argues that skilled actions are typically too fast for conscious control. One important argument for the unreflectiveness of skilled action starts from the phenomenon of choking under pressure, where an individual performs significantly worse than would be expected in a high-pressure situation. This phenomenon has been taken to be evidence that skillful action proceeds without conscious attention, because choking episodes are thought to arise from the fact that anxiety leads one to focus and direct one’s mind on the performance, which would proceed smoothly if mindless (Baumeister 1984; Masters 1992; Beilock & Carr 2001; Ford, Hodges, & Williams 2005; Jackson, Ashford, & Norsworthy 2006; Gucciardi & Dimmock 2008)[^baumeister-1984][^beilock-2001][^gucciardi-2008][^masters-1992]. Some argue that unreflectiveness also characterizes skillful joint action (Høffding 2014; Gallagher and Ilundáin-Agurruza 2020)[^gallagher-2020][^høffding-2014].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      晚近关于技能的讨论，包括一场关于熟练行动本性——即技能展现涉及何种过程——的重新开启的争论。关于熟练行动最新的讨论，关涉它在多大程度上是自动的、或在有意识控制之下。悠久的传统把熟练行动典型地理解为“沉浸式应对”（Heidegger 1927；Merleau-Ponty 1945 [1962]；Dreyfus 1991）[^dreyfus-1991][^heidegger-1927][^merleau-ponty-1945]——其特征在于沉浸于情境、对其要求作直觉回应，对身体、工具乃至活动本身都少有觉察。循德雷福斯与现象学传统，一些生成论者（如 Noë 2004）[^noë-2004]强调熟练行为与知觉之间的类比；另一些生成论者（如 Gallagher 2017；Hutto & Robertson 2020）[^gallagher-2017][^hutto-2020]主张，为理解熟练行动的自动性与非反思性，我们应当更好地理解习惯性行为。即便在现象学传统之外，人们也强调熟练行动的非反思面向。例如，Papineau（2013）主张，熟练行动通常快到无法受意识控制。支持熟练行动非反思性的一个重要论证始于“高压下失常”（choking under pressure）现象：在高压情境中，个体的表现显著差于预期。这一现象被当作熟练行动无意识进行的证据，因为失常事件被认为源于焦虑使人把心神聚焦并导向表现本身，而若无心地让表现自行展开便不会失常（Baumeister 1984；Masters 1992；Beilock & Carr 2001；Ford, Hodges, & Williams 2005；Jackson, Ashford, & Norsworthy 2006；Gucciardi & Dimmock 2008）[^baumeister-1984][^beilock-2001][^gucciardi-2008][^masters-1992]。有人主张，非反思性也是熟练联合行动的特征（Høffding 2014；Gallagher and Ilundáin-Agurruza 2020）[^gallagher-2020][^høffding-2014]。
+    step2: |-
+      晚近关于技能的讨论，包括一场关于熟练行动本性的重新开启的争论——即技能展现涉及何种过程。其中最新的讨论，关涉熟练行动在多大程度上是自动的、或在有意识控制之下。悠久的传统把熟练行动典型地理解为“沉浸式应对”（Heidegger 1927；Merleau-Ponty 1945 [1962]；Dreyfus 1991）[^dreyfus-1991][^heidegger-1927][^merleau-ponty-1945]——其特征是沉浸于情境、对其要求作直觉回应，对身体、工具乃至活动本身都少有觉察。循德雷福斯与现象学传统，一些生成论者（如 Noë 2004）[^noë-2004]强调熟练行为与知觉之间的类比；另一些生成论者（如 Gallagher 2017；Hutto & Robertson 2020）[^gallagher-2017][^hutto-2020]主张：为理解熟练行动的自动性与非反思性，我们应当更好地理解习惯性行为。即便在现象学传统之外，人们也强调熟练行动的非反思面向。例如，Papineau（2013）主张，熟练行动通常快到无法受意识控制。支持熟练行动非反思性的一个重要论证，始于“高压下失常”（choking under pressure）现象：在高压情境中，个体的表现显著差于预期。这一现象被当作熟练行动无意识地进行的证据，因为失常事件被认为源于焦虑使人把心神聚焦并导向表现本身——若让表现无心地自行展开，它本会顺畅进行（Baumeister 1984；Masters 1992；Beilock & Carr 2001；Ford, Hodges, & Williams 2005；Jackson, Ashford, & Norsworthy 2006；Gucciardi & Dimmock 2008）[^baumeister-1984][^beilock-2001][^gucciardi-2008][^masters-1992]。有人主张，非反思性也是熟练联合行动的特征（Høffding 2014；Gallagher and Ilundáin-Agurruza 2020）[^gallagher-2020][^høffding-2014]。
   - id: 189
     kind: body
     source: |-
       In recent years, however, some have emphasized the role of attention and consciousness in skillful performance (Montero 2016, 2020; Wu 2016, 2020)[^montero-2016]. Montero argues against the Dreyfusian idea of skillful and mindless coping, by noting that online conscious thought about what one is doing is compatible with expertise and by surveying empirical evidence that suggests revisiting the choking argument. Christensen, Sutton and McIlwain (2016) and Christensen, Sutton, and Bicknell’s (2019) argue for the centrality of cognition in explaining the flexibility of skilled action in complex situations and advance a “mesh theory” of skilled action, according to which skilled action results for a mesh of both automatic and cognitively controlled processes (for a survey of some of these issues, Christensen 2019. See also Sutton 2007 and Fridland 2017b)[^christensen-2019][^christensen-2019-2][^fridland-2017b][^sutton-2007].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而近年来，有人强调注意与意识在熟练表现中的作用（Montero 2016, 2020；Wu 2016, 2020）[^montero-2016]。Montero 反对德雷福斯式的“熟练而无心的应对”观念：她指出，关于自己正在做什么的在线有意识思考与专长是相容的；并综览了提示应重新审视失常论证的实证证据。Christensen、Sutton 与 McIlwain（2016）以及 Christensen、Sutton 与 Bicknell（2019）主张，认知在解释复杂情境中熟练行动的灵活性上居于核心，并提出熟练行动的“网合理论”：按此，熟练行动源于自动过程与认知控制过程二者的网合（关于其中一些问题的综述，见 Christensen 2019；另见 Sutton 2007 与 Fridland 2017b）[^christensen-2019][^christensen-2019-2][^fridland-2017b][^sutton-2007]。
+    step2: |-
+      然而近年来，有人强调注意与意识在熟练表现中的作用（Montero 2016, 2020；Wu 2016, 2020）[^montero-2016]。Montero 反对德雷福斯式的“熟练而无心的应对”观念：她指出，关于自己正在做什么的在线有意识思考与专长相容；并综览了提示应重新审视失常论证的实证证据。Christensen、Sutton 与 McIlwain（2016）以及 Christensen、Sutton 与 Bicknell（2019）主张：认知在解释复杂情境中熟练行动的灵活性上居于核心，并提出熟练行动的“网合理论”——按此，熟练行动源于自动过程与认知控制过程的网合（关于其中一些问题的综述，见 Christensen 2019；另见 Sutton 2007 与 Fridland 2017b）[^christensen-2019][^christensen-2019-2][^fridland-2017b][^sutton-2007]。
   - id: 190
     kind: body
     source: |-
       ## 10. Knowledge-How and Other Related Topics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 10 知识-如何与其他相关论题
+    step2: |-
+      ## 10 知识-如何与其他相关论题
   - id: 191
     kind: body
     source: |-
       Knowledge-how is related to but distinct from *practical knowledge* (Anscombe 1957)[^anscombe-1957]. Practical knowledge is occurrent during intentional action: when one intentionally acts, one knows what one is doing while knowing it. While being capable of practical knowledge might require knowledge-how, knowing how to perform an action does not entail performing that action, and so does not entail practical knowledge (Setiya 2008; Schwenkler 2019; Small 2020)[^schwenkler-2019][^setiya-2008][^small-2020]. Some have argued knowledge-how is the norm of intention (Habgood-Coote 2018b)[^habgood-coote-2018b], so that one can properly intend to perform an act only if one knows how to perform it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      知识-如何与*实践知识*相关而有别（Anscombe 1957）[^anscombe-1957]。实践知识在有意行动中当下发生：当人有意行动时，他在知道自己在做什么的同时知道它。具备实践知识的能力虽然可能要求知识-如何，但知道如何执行一个行动并不蕴涵执行该行动，因而也不蕴涵实践知识（Setiya 2008；Schwenkler 2019；Small 2020）[^schwenkler-2019][^setiya-2008][^small-2020]。有人主张，知识-如何是意向的规范（Habgood-Coote 2018b）[^habgood-coote-2018b]：因此，人唯有知道如何执行一个行动，才能正当地意向去执行它。
+    step2: |-
+      知识-如何与 **实践知识** 相关而有别（Anscombe 1957）[^anscombe-1957]。实践知识在有意行动中当下发生：当人有意行动时，他在知道自己在做什么的同时知道它。具备实践知识的能力虽然可能要求知识-如何，但知道如何执行一个行动并不蕴涵执行该行动，因而也不蕴涵实践知识（Setiya 2008；Schwenkler 2019；Small 2020）[^schwenkler-2019][^setiya-2008][^small-2020]。有人主张：知识-如何是意向的规范（Habgood-Coote 2018b）[^habgood-coote-2018b]——因此，人唯有知道如何执行一个行动，才能正当地意向去执行它。
   - id: 192
     kind: body
     source: |-
       An important question is whether knowledge-how is connected to distinctive kinds of epistemic injustice (Fricker 2007; Dotson 2011; Collins 1990, 1998; Medina 2011)[^collins-1990][^dotson-2011][^fricker-2007][^medina-2011]. Hawley (2011) discusses the phenomena whereby people ascribe less knowledge-how and ability to female musicians (Goldin & Rouse 2000)[^goldin-2000] and whereby standards for judgments of success due to ability rather than luck or “instinct” tend to be higher for women and non-white men (Biernat & Kobrynowicz 1997)[^biernat-1997]. In these cases, agents may be transmitting knowledge by being direct sources of information, rather than by testifying to the truth of a proposition. If so, the harms that they suffer might call for a different account than standard cases of epistemic injustices like Fricker’s (2007), which focus on testimonial transmission of knowledge-that.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个重要问题是：知识-如何是否与若干独特形态的知识论不义相关联（Fricker 2007；Dotson 2011；Collins 1990, 1998；Medina 2011）[^collins-1990][^dotson-2011][^fricker-2007][^medina-2011]。Hawley（2011）讨论了这样一些现象：人们归赋给女性音乐家较少的知识-如何与能力（Goldin & Rouse 2000）[^goldin-2000]；以及“因能力而非运气或‘本能’判定成功”的标准，对女性与非白人男性往往更高（Biernat & Kobrynowicz 1997）[^biernat-1997]。在这些情形中，行动者也许是通过作为直接的信息来源、而非通过证言某个命题之真来传递知识。若如此，她们所受的伤害也许需要一种不同于标准知识论不义（如 Fricker 2007）的说明——后者的焦点是命题知识的证言传递。
+    step2: |-
+      一个重要问题是：知识-如何是否与若干独特形态的知识论不义相关联（Fricker 2007；Dotson 2011；Collins 1990, 1998；Medina 2011）[^collins-1990][^dotson-2011][^fricker-2007][^medina-2011]。Hawley（2011）讨论了这样一些现象：人们归赋给女性音乐家较少的知识-如何与能力（Goldin & Rouse 2000）[^goldin-2000]；以及“因能力而非运气或‘本能’判定成功”的标准，对女性与非白人男性往往更高（Biernat & Kobrynowicz 1997）[^biernat-1997]。在这些情形中，行动者也许是通过作为直接的信息来源、而非通过证言某个命题之真来传递知识。若如此，她们所受的伤害也许需要一种不同于标准知识论不义（如 Fricker 2007）的说明——后者聚焦于命题知识的证言传递。
   - id: 193
     kind: body
     source: |-
       A final topic of interest is the relation between knowledge-how and faith. While most views on faith focus on its doxastic aspect, Sliwa (2018) argues that faith essentially involves agents acting in the right way with respect to the object of their faith. Having faith in a person, for instance, requires knowing how to interact with them so as to trust them, help them, and ensure their autonomy in general. Religious faith, similarly, requires faithful agents to know how to enact the relevant practices like going to mass, declaring one’s faith, and praying.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后一个值得关注的题目，是知识-如何与信仰的关系。关于信仰的观点大多聚焦其信念面向，而 Sliwa（2018）主张，信仰本质上涉及行动者对其信仰对象以正确的方式行动。例如，信任一个人，要求知道如何与之互动，以便信赖之、帮助之，并总体上确保其自主。宗教信仰同样要求虔诚的行动者知道如何践行相关实践，如望弥撒、宣信、祈祷。
+    step2: |-
+      最后一个值得关注的题目，是知识-如何与信仰的关系。关于信仰的观点大多聚焦其信念面向，而 Sliwa（2018）主张：信仰本质上涉及行动者对其信仰对象以正确的方式行动。例如，信任一个人，要求知道如何与之互动，以便信赖之、帮助之，并总体上确保其自主。宗教信仰同样要求虔诚的行动者知道如何践行相关实践，如望弥撒、宣信、祈祷。
   - id: 194
     kind: oir
     source: |-
@@ -1188,11 +1602,25 @@ segments:
       - “[Knowledge](https://iep.utm.edu/knowledg/#SH1d),” by Stephen Hetherington in *Internet Encyclopedia of Philosophy*.
       - Pavese, Carlotta, 2016, “Comments on “[Knowledge-How, Abilities, and Questions](https://mindsonline.philosophyofbrains.com/2016/2016-1/knowledge-how-abilities-and-questions/)” by Joshua Habgood-Coote”, *Minds Online* (blog), 5 September 2016.
       - Fantl, Jeremy, “Knowledge How”, *Stanford Encyclopedia of Philosophy* (Spring 2021 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/spr2021/entries/knowledge-how/](https://plato.stanford.edu/archives/spr2021/entries/knowledge-how/)>. [This was the previous entry on this topic in the *Stanford Encyclopedia of Philosophy* — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=knowledge-how).]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - Weatherson, Brian, 2006, “赖尔论知道如何”，*Thoughts Arguments and Rants* 博客文章。
+      - PhilPapers 上关于知识-如何晚近工作的[链接汇编](https://philpapers.org/browse/knowledge-how)，John Bengson 编。
+      - Charles Wallis 撰“[Know-how](https://sites.google.com/site/minddict/know-how)”，载 *Dictionary of Philosophy of Mind*。
+      - Stephen Hetherington 撰“[Knowledge](https://iep.utm.edu/knowledg/#SH1d)”，载 *Internet Encyclopedia of Philosophy*。
+      - Pavese, Carlotta, 2016, “对 Joshua Habgood-Coote《Knowledge-How, Abilities, and Questions》的评论”，*Minds Online*（博客），2016 年 9 月 5 日。
+      - Fantl, Jeremy, “Knowledge How”，*Stanford Encyclopedia of Philosophy*（2021 年春季版），Edward N. Zalta 编，URL = <[https://plato.stanford.edu/archives/spr2021/entries/knowledge-how/](https://plato.stanford.edu/archives/spr2021/entries/knowledge-how/)>.［此为 *Stanford Encyclopedia of Philosophy* 上本主题的前一词条——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=knowledge-how)。］
+    step2: |-
+      - Weatherson, Brian, 2006, “赖尔论知道如何”，*Thoughts Arguments and Rants* 博客文章。
+      - PhilPapers 上关于知识-如何晚近工作的[链接汇编](https://philpapers.org/browse/knowledge-how)，John Bengson 编。
+      - Charles Wallis 撰“[Know-how](https://sites.google.com/site/minddict/know-how)”，载 *Dictionary of Philosophy of Mind*。
+      - Stephen Hetherington 撰“[Knowledge](https://iep.utm.edu/knowledg/#SH1d)”，载 *Internet Encyclopedia of Philosophy*。
+      - Pavese, Carlotta, 2016, “对 Joshua Habgood-Coote《Knowledge-How, Abilities, and Questions》的评论”，*Minds Online*（博客），2016 年 9 月 5 日。
+      - Fantl, Jeremy, “Knowledge How”，*Stanford Encyclopedia of Philosophy*（2021 年春季版），Edward N. Zalta 编，URL = <[https://plato.stanford.edu/archives/spr2021/entries/knowledge-how/](https://plato.stanford.edu/archives/spr2021/entries/knowledge-how/)>.［此为 *Stanford Encyclopedia of Philosophy* 上本主题的前一词条——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=knowledge-how)。］
   - id: 195
     kind: ack
     source: |-
       The author would like to acknowledge the contributions of Alejandro Vesga to this entry. He brought to my attention recently published papers on knowledge-how; brainstormed with me about the structure of the entry and the order of the topics to be discussed; provided substantial criticisms of, and suggestions for, drafts of the content; contributed the idea of adding a final section that related knowledge-how to other related topics; and compiled the bibliography once the bulk of the entry was finished.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      作者谨感谢 Alejandro Vesga 对本词条的贡献：他提示我注意晚近发表的知识-如何论文；与我一同构思词条的结构与待论题目的次序；对内容初稿提出实质批评与建议；贡献了增写最后一节、把知识-如何与其他相关论题关联起来的想法；并在词条主体完成后编集了参考文献。
+    step2: |-
+      作者谨感谢 Alejandro Vesga 对本词条的贡献：他提示我注意晚近发表的知识-如何论文；与我一同构思词条的结构与待论题目的次序；对内容初稿提出实质批评与建议；提出增写最后一节、把知识-如何与其他相关论题关联起来的构想；并在词条主体完成后编集了参考文献。
