@@ -1,0 +1,348 @@
+{
+ "key": "steering",
+ "term": "steering",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T17:51:11+00:00",
+ "status": "ok",
+ "note": "variant=steering; 审定公布名词库=866; 海峡两岸名词对照库=224; 其他来源数据库=40; 预公布名词数据库=16; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "操舵",
+   "en": "steering",
+   "code": "08.0351",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_船艺"
+  },
+  {
+   "cn": "操舵装置",
+   "en": "steering gear,steering arrangement",
+   "code": "15.0501",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_轮机管理"
+  },
+  {
+   "cn": "机械转向",
+   "en": "mechanical steering,manual steering",
+   "code": "13.006",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_拖拉机_转向系_转向系类型"
+  },
+  {
+   "cn": "转向几何学",
+   "en": "steering geometry",
+   "code": "03.038",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_汽车行驶性能_操纵稳定性"
+  },
+  {
+   "cn": "转向角",
+   "en": "steering angle",
+   "code": "03.034",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_汽车行驶性能_操纵稳定性"
+  },
+  {
+   "cn": "操舵力",
+   "en": "steering force",
+   "code": "03.041",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_汽车行驶性能_操纵稳定性"
+  },
+  {
+   "cn": "操舵力矩",
+   "en": "steering moment",
+   "code": "03.043",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_汽车行驶性能_操纵稳定性"
+  },
+  {
+   "cn": "转向节",
+   "en": "steering knuckle",
+   "code": "05.541",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_底盘_车架和车桥"
+  },
+  {
+   "cn": "转向系",
+   "en": "steering system",
+   "code": "05.380",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_底盘_转向"
+  },
+  {
+   "cn": "转向管柱",
+   "en": "steering column",
+   "code": "05.397",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_底盘_转向"
+  },
+  {
+   "cn": "转向盘",
+   "en": "steering wheel",
+   "code": "05.399",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_底盘_转向"
+  },
+  {
+   "cn": "转向螺母",
+   "en": "steering nut",
+   "code": "05.413",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_底盘_转向"
+  },
+  {
+   "cn": "操舵",
+   "en": "steering",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "操舵轴",
+   "en": "steering shafting\",\"steering shaft",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "操舵装置",
+   "en": "steering gear\",\"steering apparatus",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "引导气流",
+   "en": "steering flow",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "操纵限制",
+   "en": "steering constraints",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "操舵罗经",
+   "en": "steering compass",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "操舵试验",
+   "en": "steering test",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "操舵遥控传动装置",
+   "en": "steering telemotor",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "操舵装置",
+   "en": "steering gear",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "操纵缆",
+   "en": "steering line",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "舵轮",
+   "en": "steering wheel",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "操舵拉杆",
+   "en": "steering rod",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "转向装置",
+   "en": "steering",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "掌舵",
+   "en": "steer",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "掌舵",
+   "en": "steer",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "方向标",
+   "en": "steering marker",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "掌舵",
+   "en": "cox\",\"steer",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "美国大数据研发高级指导小组",
+   "en": "Big Data Senior Steering Group (USA)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "推进“一带一路”建设工作领导小组",
+   "en": "Steering Group for the Belt and Road Initiative",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "字符串",
+   "en": "string",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "一组",
+   "en": "string",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "球拍线",
+   "en": "string",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "球拍线",
+   "en": "string",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "一组！",
+   "en": "String!",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "扫墓",
+   "en": "tomb-sweeping",
+   "code": "4.0276",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "寻租",
+   "en": "rent seeking",
+   "code": "6.4.3.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用"
+  },
+  {
+   "cn": "猎奇心理",
+   "en": "sensation seeking",
+   "code": "3.3.2.8.2.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测"
+  },
+  {
+   "cn": "亲骨性核素",
+   "en": "osteo-seeking nuclide",
+   "code": "6.3.2.33",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢"
+  },
+  {
+   "cn": "亲肾性分布",
+   "en": "kidney-seeking distribution",
+   "code": "6.3.2.35",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢"
+  },
+  {
+   "cn": "信息寻租",
+   "en": "information rent-seeking",
+   "code": "17.1.1.1.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_信息与技术_卫生信息经济学"
+  },
+  {
+   "cn": "求医行为",
+   "en": "health seeking behavior",
+   "code": "3.3.1.1.6",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测"
+  },
+  {
+   "cn": "求医行为",
+   "en": "health-seeking behavior",
+   "code": "4.041",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医疗人际关系"
+  },
+  {
+   "cn": "五弦",
+   "en": "Five string lute",
+   "code": "3.0644",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_新疆研究"
+  },
+  {
+   "cn": "贮青",
+   "en": "storing of green leaf",
+   "code": "5.19.20",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_茶与代用茶"
+  },
+  {
+   "cn": "亲网状内皮系统分布",
+   "en": "reticulo-endothelium seeking distribution",
+   "code": "6.3.2.34",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢"
+  },
+  {
+   "cn": "贮源水井",
+   "en": "storing the source well",
+   "code": "6.5.3.8",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_工业应用的放射防护_工业辐照应用"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

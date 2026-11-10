@@ -1,0 +1,47 @@
+{
+ "key": "standesstaat",
+ "term": "Ständesstaat",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T17:40:40+00:00",
+ "status": "ok",
+ "note": "variant=Ständesstaat; 审定公布名词库=5; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "ST向量",
+   "en": "ST vector",
+   "code": "01.389",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_心血管病学"
+  },
+  {
+   "cn": "ST段抬高心肌梗死",
+   "en": "ST segment elevation myocardial infarction,STEMI",
+   "code": "04.0486",
+   "standard": "核医学名词",
+   "subject": "核医学_临床核医学_心血管系统核医学_临床常见心血管病"
+  },
+  {
+   "cn": "非ST段抬高心肌梗死",
+   "en": "non-ST segment elevation myocardial infarction,NSTEMI",
+   "code": "04.0487",
+   "standard": "核医学名词",
+   "subject": "核医学_临床核医学_心血管系统核医学_临床常见心血管病"
+  },
+  {
+   "cn": "ST段抬高型心肌梗死",
+   "en": "ST-segment elevation myocardial infarction;STEMI",
+   "code": "03.059",
+   "standard": "急救医学名词",
+   "subject": "急救医学_日常医学急救_内科学_循环系统"
+  },
+  {
+   "cn": "非ST段抬高型心肌梗死",
+   "en": "non ST-segment elevation myocardial infarction;NSTEMI",
+   "code": "03.060",
+   "standard": "急救医学名词",
+   "subject": "急救医学_日常医学急救_内科学_循环系统"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

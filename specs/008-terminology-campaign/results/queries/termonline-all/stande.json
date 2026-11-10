@@ -1,0 +1,271 @@
+{
+ "key": "stande",
+ "term": "Stände",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T17:40:40+00:00",
+ "status": "ok",
+ "note": "variant=Stände; 审定公布名词库=553; 海峡两岸名词对照库=80; 其他来源数据库=46; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "ST向量",
+   "en": "ST vector",
+   "code": "01.389",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_心血管病学"
+  },
+  {
+   "cn": "ST段抬高心肌梗死",
+   "en": "ST segment elevation myocardial infarction,STEMI",
+   "code": "04.0486",
+   "standard": "核医学名词",
+   "subject": "核医学_临床核医学_心血管系统核医学_临床常见心血管病"
+  },
+  {
+   "cn": "非ST段抬高心肌梗死",
+   "en": "non-ST segment elevation myocardial infarction,NSTEMI",
+   "code": "04.0487",
+   "standard": "核医学名词",
+   "subject": "核医学_临床核医学_心血管系统核医学_临床常见心血管病"
+  },
+  {
+   "cn": "ST段抬高型心肌梗死",
+   "en": "ST-segment elevation myocardial infarction;STEMI",
+   "code": "03.059",
+   "standard": "急救医学名词",
+   "subject": "急救医学_日常医学急救_内科学_循环系统"
+  },
+  {
+   "cn": "非ST段抬高型心肌梗死",
+   "en": "non ST-segment elevation myocardial infarction;NSTEMI",
+   "code": "03.060",
+   "standard": "急救医学名词",
+   "subject": "急救医学_日常医学急救_内科学_循环系统"
+  },
+  {
+   "cn": "步幅",
+   "en": "stride",
+   "code": "02.294",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_饲养管理_马饲养"
+  },
+  {
+   "cn": "林分",
+   "en": "stand",
+   "code": "12.0074",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林生态_植物生态学"
+  },
+  {
+   "cn": "核",
+   "en": "stone",
+   "code": "03.0571",
+   "standard": "植物学名词",
+   "subject": "植物学_植物形态与结构植物学_植物形态学"
+  },
+  {
+   "cn": "群落地段",
+   "en": "stand",
+   "code": "13.0204",
+   "standard": "植物学名词",
+   "subject": "植物学_植物生态学_植物群落与植被"
+  },
+  {
+   "cn": "林分",
+   "en": "stand",
+   "code": "06.012",
+   "standard": "林学名词",
+   "subject": "林学_森林经理_森林作业与资源调查"
+  },
+  {
+   "cn": "探空仪",
+   "en": "sonde",
+   "code": "02.211",
+   "standard": "大气科学名词",
+   "subject": "大气科学_大气探测"
+  },
+  {
+   "cn": "林分",
+   "en": "stand",
+   "code": "11.070",
+   "standard": "资源科学技术名词",
+   "subject": "资源科学技术_森林资源学"
+  },
+  {
+   "cn": "林分",
+   "en": "stand\",\"forest stand",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "林分",
+   "en": "stand\",\"forest stand",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "平潮",
+   "en": "stand\",\"slack tide",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "核",
+   "en": "stone",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "探空仪",
+   "en": "sonde",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "探空仪",
+   "en": "sonde",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "奎宿",
+   "en": "Legs\",\"Stride",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "胆结石",
+   "en": "gall stone",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "林分结构",
+   "en": "stand structure",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "电化学探空仪",
+   "en": "electrochemical sonde",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "辐射探空仪",
+   "en": "radiation sonde",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "气球探空",
+   "en": "balloon sonde",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "步幅",
+   "en": "stride",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "步幅",
+   "en": "stride",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "步幅",
+   "en": "stride",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "站在池中",
+   "en": "stand",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_水球名词"
+  },
+  {
+   "cn": "站姿",
+   "en": "stance\",\"stand\",\"standing position",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "马步",
+   "en": "horse stance\",\"riding stance",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "站姿",
+   "en": "seogi\",\"stance",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "第二跳",
+   "en": "skip\",\"stride",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "高压态势",
+   "en": "tough stance",
+   "code": null,
+   "standard": "中央文献重要术语",
+   "subject": "其他"
+  },
+  {
+   "cn": "射门位置",
+   "en": "shooting stance",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_手球名词"
+  },
+  {
+   "cn": "开式站姿",
+   "en": "open stance",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "封闭站姿",
+   "en": "closed stance",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "阶级立场",
+   "en": "class stand",
+   "code": "01.0223",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

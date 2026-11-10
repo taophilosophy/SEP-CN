@@ -1,0 +1,348 @@
+{
+ "key": "standard account",
+ "term": "standard account",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T17:37:40+00:00",
+ "status": "ok",
+ "note": "variant=standard account; 审定公布名词库=1619; 海峡两岸名词对照库=605; 其他来源数据库=293; 预公布名词数据库=169; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "会计准则",
+   "en": "accounting standard",
+   "code": "06.0027",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_会计_财务会计"
+  },
+  {
+   "cn": "账户",
+   "en": "account",
+   "code": "06.0032",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_会计_财务会计"
+  },
+  {
+   "cn": "账号",
+   "en": "account",
+   "code": "01.761",
+   "standard": "地理信息系统名词",
+   "subject": "地理信息系统_基本概念"
+  },
+  {
+   "cn": "会计核算",
+   "en": "accounting",
+   "code": "07.017",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_企业经营管理"
+  },
+  {
+   "cn": "问责",
+   "en": "accountability",
+   "code": "17.125",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_媒体与传播法_媒体责任与公共服务"
+  },
+  {
+   "cn": "会计",
+   "en": "accounting",
+   "code": "06.0001",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_会计_财务会计"
+  },
+  {
+   "cn": "会计学",
+   "en": "accounting",
+   "code": "06.0002",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_会计_财务会计"
+  },
+  {
+   "cn": "责任性",
+   "en": "accountability",
+   "code": "04.0023",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_组织行为与人力资源管理_组织与行为管理"
+  },
+  {
+   "cn": "会计核算",
+   "en": "accounting",
+   "code": "06.0003",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_会计_财务会计"
+  },
+  {
+   "cn": "问责",
+   "en": "accountability",
+   "code": "14.182",
+   "standard": "教育学名词",
+   "subject": "教育学_教育经济"
+  },
+  {
+   "cn": "可审核性",
+   "en": "accountability",
+   "code": "07.009",
+   "standard": "通信科学技术名词",
+   "subject": "通信科学技术_网络安全"
+  },
+  {
+   "cn": "美国会计准则委员会",
+   "en": "Financial Accounting Standards Board,FASB",
+   "code": "06.0256",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_会计_财务会计"
+  },
+  {
+   "cn": "账号",
+   "en": "account",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "标准会计实务公报",
+   "en": "Statement of Standard Accounting Practice",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "财务会计准则公报",
+   "en": "Statement of Financial Accounting Standards",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "国际会计准则公报",
+   "en": "Statement of International Accounting Standards",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "心理账户",
+   "en": "mental account\",\"mental accounting",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "保证金账户",
+   "en": "margin account",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "备忘账户，备查账户",
+   "en": "memorandum account",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "出口账户",
+   "en": "export account",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "储蓄账户",
+   "en": "savings account",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "贷款账户",
+   "en": "loan account",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "单边账户",
+   "en": "single account",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "担保账户",
+   "en": "secured account",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "可追责",
+   "en": "accountability",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "账户支付",
+   "en": "account payment",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "公众号",
+   "en": "official account",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "财务会计",
+   "en": "Financial Accounting",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "会计等式",
+   "en": "accounting equation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "标准",
+   "en": "standard",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "远程开户",
+   "en": "remote account opening",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "应收账款融资",
+   "en": "accounts receivable financing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "应收账款质押",
+   "en": "accounts receivable pledging",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "日本标准化组织相关标准",
+   "en": "Japanese Standards Association Standards",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "注册会计师",
+   "en": "certified public accountant",
+   "code": null,
+   "standard": "外语中文译写规范部际联席会议专家委员会",
+   "subject": "其他"
+  },
+  {
+   "cn": "会计信息系统",
+   "en": "Accounting Information System",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "会计核算",
+   "en": "accounting",
+   "code": "16.1.4.5.5",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生系统改革_中国卫生系统改革"
+  },
+  {
+   "cn": "基金决算",
+   "en": "final accounts",
+   "code": "11.5.3.8",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_健康保险_健康保险筹资与运行"
+  },
+  {
+   "cn": "经济核算",
+   "en": "economic accounting",
+   "code": "02.0303",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_列宁斯大林时期"
+  },
+  {
+   "cn": "成本核算",
+   "en": "cost accounting",
+   "code": "12.1.1.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生经济学评价_卫生经济学评价"
+  },
+  {
+   "cn": "总会计师",
+   "en": "chief accountant",
+   "code": "16.1.4.5.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生系统改革_中国卫生系统改革"
+  },
+  {
+   "cn": "标准",
+   "en": "standard",
+   "code": "9.2.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生法规标准_放射卫生标准"
+  },
+  {
+   "cn": "标准化",
+   "en": "standardization",
+   "code": "9.2.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生法规标准_放射卫生标准"
+  },
+  {
+   "cn": "社会保险账户",
+   "en": "social insurance account",
+   "code": "3.18.2.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_社会保障_社会保险"
+  },
+  {
+   "cn": "计算货币",
+   "en": "money of account",
+   "code": "02.0072",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "医疗储蓄账户",
+   "en": "medical savings accounts",
+   "code": "11.2.1.4.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_健康保险_健康保险类型"
+  },
+  {
+   "cn": "行业标准",
+   "en": "sector standard，industry standard",
+   "code": "9.2.1.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生法规标准_放射卫生标准"
+  },
+  {
+   "cn": "记账法",
+   "en": "accounting dietary survey",
+   "code": "7.3.1.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队营养与食品卫生_军队营养调查与评价"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
