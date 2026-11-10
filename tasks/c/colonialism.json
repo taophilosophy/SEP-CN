@@ -2,7 +2,7 @@
   "slug": "colonialism",
   "kind": "retranslate",
   "zh_doc": "c/colonialism.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "C-main-20261107",
       "at": "2026-11-07T11:00:49Z",
       "evidence": "三校收口：登记册增补人名 30 行（Tocqueville/Fanon/Said/Spivak/Wallerstein/Las Casas/Victoria IV/Innocent IV 等，现代学者按 ADR-0022 判据）+ 术语 20 行（定居者殖民主义/后殖民理论/去殖民化/东方主义/庶民研究/万民法/terra nullius/买办资产阶级/satyagraha/ahimsa/扎根规范性等）；check_terms 硬错误 0（本批新增两行缺原文列已补）；check_all 七项待复跑"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-10T02:17:02Z",
+      "evidence": "r1 校订：正文标题去英文句点（1.–6.→1–6）；References（引用注释）→参考文献；参考文献说明处加粗句并入标准引语（改为引语第二段）；致谢由 h2 降为 h3（对齐源文 Acknowledgments 层级）；〔Hayden King〕→（Hayden King）；迈克尔·阿什（Michael Ash）→迈克尔·阿施（Michael Asch）——源文正文误拼，据同条脚注 [^asch-2018] 与书目正形订正并记此源缺陷；相关词条 10 项核对均与 SUMMARY 一致，人名无新增（正文人名已在册）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-10T02:17:02Z",
+      "evidence": "r2 prose 3→0：de-chain 3 处（L50 东方专制主义段、L60 法农暴力论述段、L88 库尔特哈德段）逐句改写，无引文豁免需要"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-10T02:17:03Z",
+      "evidence": "r3 复验：h2 10:10、h3 1:1、脚注定义 47:47 键集一致、H1 与 SUMMARY 一致、加粗记号偶数平衡、无直角引号；prose 0、style 0、terms 0、academic 硬错误 0"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-10T02:17:03Z",
+      "evidence": "C 批 done 并入：三校全绿；本条人名已在册，无补登"
     }
   ],
   "blockers": [],
