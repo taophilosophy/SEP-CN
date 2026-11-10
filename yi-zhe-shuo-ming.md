@@ -11,6 +11,8 @@
 
 ## A
 
+## A
+
 | A Modern Elementary Logic | — | 《逻辑学现代基础》 | 首译（stebbing） | 斯泰宾著作（1943）；书名体例译；凭证 2026-11-09 | 2026-11-09 |
 | A Modern Introduction to Logic | — | 《逻辑学现代导论》 | 首译（stebbing） | 斯泰宾著作（1930）；书名体例译；凭证 2026-11-09 | 2026-11-09 |
 | A New Elucidation of the First Principles of Metaphysical Cognition | — | 《形而上学认识诸第一原则的新阐明》（简称《新阐明》） | kant-science | 学界通行；kant-leibniz 短形先例 | 2026-11-05 |
@@ -44,6 +46,7 @@
 | abstract term | terminus abstractus | 抽象词项 | 首译（sharpe） | 中世纪逻辑通行（如 humanitas；与 concrete term 具体词项对举）；凭证 2026-11-09 | 2026-11-09 |
 | abstract utopia | — | 抽象乌托邦 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | abstraction theory | — | 抽象理论 | 首现（scholz） | 学界惯例（逻辑与数学基础通行）；凭证 2026-11-07 | 2026-11-07 |
+| abstractionism | — | 抽象论 | 首现（porphyry） | 学界通行（认识论学说，与直觉论对举）；凭证 2026-11-11 | 2026-11-11 |
 | abstractive cognition | — | 抽象认知（亦作“抽象认识”） | auriol；ockham | 与 intuitive cognition 相对；司各脱—奥卡姆传统通行（“认知”“认识”两形正文并用，主形取语料多数：抽象认知 24 处/3 篇、抽象认识 13 处/2 篇）；凭证 2026-11-07 | 2026-11-07 |
 | abstractum / abstracta | — | 抽象物 | god-necessary-being | 学界惯例（abstracta 复数形随文译抽象物，与抽象对象 abstract objects 并用） | 2026-11-09 |
 | academic freedom | — | 学术自由 | 语料回收（academic-freedom） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
@@ -1209,6 +1212,7 @@
 | Doppler shift | — | 多普勒频移 | cosmology-30s 首译 | 天体物理通行（Doppler effect 多普勒效应；本词条 cosmic Doppler shift 宇宙多普勒频移）；凭证 2026-11-09 | 2026-11-09 |
 | doṣa | दोष | 过失 | early-modern-india | 认识论义译（epistemic defect；与 guṇa 善德对举）；凭证 2026-11-10 | 2026-11-10 |
 | dōshakuga | — | 道释画 | japanese-aesthetics | 学界惯例（日本美术史研究通行译法“道释画”） | 2026-11-02 |
+| double activity | — | 双重活动 | 首现（porphyry） | 新柏拉图主义研究通行（内在活动与外在活动两层；neoplatonism 正文同款行文）；凭证 2026-11-11 | 2026-11-11 |
 | double negation | — | 双重否定 | gorampa | 逻辑学通行（double negation elimination 双重否定消去） | 2026-11-09 |
 | double particular election | — | 双重个别拣选 | gregory-rimini | 与 double predestination 同义（中世纪—宗教改革神学）；凭证 2026-11-10 | 2026-11-10 |
 | double predestination | — | 双重预定 | gregory-rimini | 神学通行（双重预定论；与 reprobation 弃绝配对）；凭证 2026-11-10 | 2026-11-10 |
@@ -2676,12 +2680,14 @@
 | Methodology of Scientific Research Programmes (MSRP) | — | 科学研究纲领方法论 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | metric | — | 度规 | spacetime-holearg | A 档（物理学通行译名，“度规”优于“度量”） | 2026-10-28 |
 | metric field | — | 度规场 | spacetime-holearg | A 档（物理学通行译名） | 2026-10-28 |
+| metriopatheia | — | 适度情感 | 首现（porphyry） | 新柏拉图主义研究通行（源文括注希腊文；与 apatheia 无情欲对举）；凭证 2026-11-11 | 2026-11-11 |
 | microbiome | — | 微生物组 | cancer | 学界通行（微生物学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | microbiota | — | 微生物群 | cancer | 学界通行（微生物学；与 microbiome 微生物组按原文分用）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | microcephaly | — | 小头畸形 | 首译（stem-cells） | 学界惯例（医学通行）；凭证 2026-11-09 | 2026-11-09 |
 | microcosm | — | 小宇宙 | neoplatonism | 学界通行；本词条正文作“缩影” | 2026-11-07 |
 | microworld | — | 微世界 | f/frame-problem 首译 | AI 史通行译法；凭证 2026-11-10 | 2026-11-10 |
 | middle knowledge | — | 中知识 | petitionary-prayer | 学界通行译法（Molina 的 scientia media；沿 leibniz-evil 既定“中知识”形）；凭证 2026-11-09 | 2026-11-09 |
+| Middle Platonism | — | 中期柏拉图主义 | 首现（porphyry） | 学界通行（希腊化—帝国时期柏拉图学派阶段名；neoplatonism 正文在先）；凭证 2026-11-11 | 2026-11-11 |
 | middle term | — | 中项 | analogy-medieval 首译 | 学界通行（三段论术语）；凭证 2026-11-08 | 2026-11-08 |
 | mikunigokoro | — | 御国心 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | millenarianism | — | 千禧年论 | bessarion | 宗教史学通行汉译 | 2026-11-10 |
@@ -3375,6 +3381,7 @@
 | possible object | — | 可能对象 | object 首译 | 学界通行汉译（迈农主义文献）；凭证 2026-11-07 | 2026-11-07 |
 | possible worlds / possible world | — | 可能世界 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | post market surveillance | — | 上市后监管 | risk | 学界惯例（药品与器械监管通行，PMS）；凭证 2026-11-09 | 2026-11-09 |
+| post rem universals | — | 后于事物的共相 | 首现（porphyry） | 中世纪共相学说通行（post rem 与 ante rem／in re 对举）；凭证 2026-11-11 | 2026-11-11 |
 | post-colonial theory | — | 后殖民理论 | colonialism | 学界通行译名；凭证 2026-11-07 | 2026-11-07 |
 | post-knowledge cognition（bcad shes） | — | 已决识（bcad shes） | epistemology-language-tibetan | 藏传量论通行 | 2026-11-04 |
 | Posterior Analytics | — | 《后分析篇》（亚里士多德） | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
@@ -4072,7 +4079,7 @@
 | shi (actuality) | 實 | 实 | han-dynasty | 徐干名实论（actuality） | 2026-11-10 |
 | shi (timeliness) | 時 | 时 | han-dynasty | 王符、徐干（timeliness）；与“实”同音异字 | 2026-11-10 |
 | shibumi | 渋み | 涩味 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“涩味”） | 2026-11-02 |
-| shifting balance theory | — | 转换平衡理论 | ecological-genetics 首译 | Wright 理论通行译名之一（附原文备考）；凭证 2026-11-09 | 2026-11-09 |
+| shifting balance theory | — | 动态平衡说（亦作“转换平衡理论”） | ecological-genetics 首译 | 审定名词库（termonline-all·遗传学名词，2026-11-11 浏览器通道凭证）；Wright 理论通行译名 | 2026-11-11 |
 | Shiji | 史記 | 《史记》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
 | shimandara | 四種曼荼羅 | 四种曼荼罗 | kukai | 真言宗汉语传统（空海四种曼荼罗判分） | 2026-11-09 |
 | shingon / mantra | 眞言 | 真言；真言密教（Shingon Buddhism） | kukai | 真言宗汉语传统（mantra 日读 shingon）；凭证 2026-11-09 | 2026-11-09 |
@@ -4559,6 +4566,7 @@
 | theory theory | — | 理论论 | f/frame-problem 首译 | 心灵哲学通行译名（民间心理学论争）；凭证 2026-11-10 | 2026-11-10 |
 | theosophy | — | 神智学 | antonio-rosmini | 罗斯米尼《Teosofia》书名定译（与神智学协会 theosophy 同形异指） | 2026-11-07 |
 | therapeutic cloning / research cloning | — | 治疗性克隆／研究性克隆 | 首现（cloning） | 学界惯例（生命伦理学通行）；凭证 2026-11-07 | 2026-11-07 |
+| theurgy | — | 通神术 | 首现（porphyry） | 学界通行（晚期希腊宗教—新柏拉图主义术语；亦作“神术”）；凭证 2026-11-11 | 2026-11-11 |
 | thin particular | — | 薄殊相 | object 首译 | 学界惯例（与裸殊相对举；Armstrong 术语）；凭证 2026-11-07 | 2026-11-07 |
 | thing-in-itself | — | 物自体（康德；亦作“自在之物”） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | Thinking Dispositions | — | 思维倾向 | 语料回收（标题词） | 审定“思维”复合词群佐证（认知心理学）；凭证 2026-11-01 | 2026-11-01 |
@@ -4723,6 +4731,7 @@
 | undo the done | — | 使已成之事未成（已废弃，见新行） | peter-damian | 学界通行（Damian 研究文献译法；undoing of the done 作“取消已成之事”）；凭证 2026-11-09 | 2026-11-09 |
 | undo the done | — | 取消已成之事 | peter-damian | 用户裁定 2026-11-10（词条内动词式与名词式统一主形；完整句式 bring it about that what has been done has not been done 作“使已成之事成为未曾做过”）；凭证 2026-11-10 | 2026-11-10 |
 | unfairness | — | 不公 | justice-moral-psych | 与“公平”对举（vice of unfairness 不公之恶）；凭证 2026-11-10 | 2026-11-10 |
+| unfused union (asynchytos henōsis) | — | 不融合的联合 | 首现（porphyry） | 新柏拉图主义研究通行（波菲利灵魂—身体关系术语，源文 unfused union）；凭证 2026-11-11 | 2026-11-11 |
 | unicity | — | 独一性 | kant-transcendental | Onof & Schulting 2015 语境本词条首译（与 unity 统一性分立）；凭证 2026-11-11 | 2026-11-11 |
 | unidimensionally aligned | — | 单维对齐（的） | belief-merging | 学界通行（判断聚合文献 unidimensional alignment）；凭证 2026-11-10 | 2026-11-10 |
 | unificationist account | — | 统一论说明 | 首译（scientific-explanation-20th） | 学界通行（Friedman 1974、Kitcher 1989）；凭证 2026-11-10 | 2026-11-10 |
