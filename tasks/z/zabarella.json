@@ -2,7 +2,7 @@
   "slug": "zabarella",
   "kind": "retranslate",
   "zh_doc": "z/zabarella.md",
-  "state": "r1_reviewed",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,13 @@
       "actor": "ZR-main-20261110",
       "at": "2026-11-10T04:56:56Z",
       "evidence": "初审（独立会话，初译为 Z2-main-20261109）：逐段对照 yuanwen/z/zabarella.md 全文（导语+§1–9+尾节）核销；脚注 78 条定义逐字符一致、正文 42 处引用键全配平、参考文献分节与源同构、学术工具四行/OIR/相关词条对位一致。实修 4 处：①§7 拉丁篇名方括号改斜体；②res considerata 归位为登记形「所考虑之物」；③scientiae mediae 补登记形「中间科学」；④subalternated science 改用登记形「从属科学」。另核 §4 与 §7 两处源文本身无句末句号（Lines 2002、Mikkeli 三条），同构照录不改。问题分级：Minor 4，Critical/Major 0。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ZR-main-20261110",
+      "at": "2026-11-10T05:18:33Z",
+      "evidence": "复审（逐句回核原文与逻辑，机检＋通读并行）：①正文数字/年代 149↔152 全对齐，差异仅为源文英文月日转汉字数字记法（May 17→5 月 17 日、5th September→9 月 5 日、15th October→10 月 15 日）与「30 treatises→三十篇」，无实数错漏；②九节标题与源一一正对位，尾部四节序合模板 v1.4；③引用组 36/36 逐字符一致（全半角括号归一后比对）；④斜体标记映射核销：源 *On the Soul.*/*Parts of Animals.* 等句点内嵌形转《书名》+拉丁括注，*Categories, On Interpretation* 等并列形拆对，无漏项无增项；⑤逻辑链抽查（§2 两重确定性、§5 回归法三步、§6 双重照亮过程、§7 欧几里得类比、§8 两种认识人体部分的方式）与源一致。新增问题：0（Critical/Major/Minor 均为 0），无改动。"
     }
   ],
   "blockers": [],
