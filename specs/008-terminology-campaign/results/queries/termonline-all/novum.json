@@ -1,0 +1,180 @@
+{
+ "key": "novum",
+ "term": "novum",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T03:16:23+00:00",
+ "status": "ok",
+ "note": "variant=novum; 审定公布名词库=25; 海峡两岸名词对照库=18; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "背板",
+   "en": "tergum,notum",
+   "code": "02.0451",
+   "standard": "古生物学名词",
+   "subject": "古生物学_古无脊椎动物学_节肢动物门"
+  },
+  {
+   "cn": "卵子",
+   "en": "ovum",
+   "code": "07.026",
+   "standard": "兽医学名词",
+   "subject": "兽医学_家畜胚胎学"
+  },
+  {
+   "cn": "卵子",
+   "en": "ovum",
+   "code": "18.009",
+   "standard": "组织学与胚胎学名词",
+   "subject": "组织学与胚胎学_组织学_女性生殖系统"
+  },
+  {
+   "cn": "卵子",
+   "en": "ovum",
+   "code": "01.112",
+   "standard": "医学名词 第三分册",
+   "subject": "医学_医学遗传学"
+  },
+  {
+   "cn": "卵子",
+   "en": "egg,ovum",
+   "code": "05.118",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_繁殖_繁殖生理"
+  },
+  {
+   "cn": "卵",
+   "en": "ovum,egg,oosphere",
+   "code": "06.048",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞分化与发育"
+  },
+  {
+   "cn": "背板",
+   "en": "tergum,terga (复),nota (复),notum",
+   "code": "03.013",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫外部形态"
+  },
+  {
+   "cn": "卵",
+   "en": "egg,ovum,ova (复)",
+   "code": "05.043",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫发育与生活史"
+  },
+  {
+   "cn": "背板",
+   "en": "tergum;notum",
+   "code": "5.2371",
+   "standard": "动物学名词",
+   "subject": "动物学_无脊椎动物学_节肢动物门_多足动物亚门"
+  },
+  {
+   "cn": "卵子",
+   "en": "egg;ovum",
+   "code": "06.137",
+   "standard": "内分泌代谢病学名词",
+   "subject": "性腺疾病_女性内分泌及相关疾病_概述"
+  },
+  {
+   "cn": "受精卵",
+   "en": "fertilized ovum",
+   "code": "06.195",
+   "standard": "内分泌代谢病学名词",
+   "subject": "性腺疾病_妊娠内分泌及相关疾病"
+  },
+  {
+   "cn": "受精卵",
+   "en": "fertilized ovum",
+   "code": "07.064",
+   "standard": "兽医学名词",
+   "subject": "兽医学_家畜胚胎学"
+  },
+  {
+   "cn": "新[订学]名",
+   "en": "new name\",\"nomen novum",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "新属",
+   "en": "new genus\",\"genus novum",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "新名",
+   "en": "nomen novum(拉)\",\"nomina nova(复)\",\"nom. nov.",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "新属",
+   "en": "new genus\",\"n. gen.\",\"genus novum(拉)\",\"gen. nov.",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "卵",
+   "en": "ovum",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "节",
+   "en": "node\",\"nodum",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "卵[子]",
+   "en": "ovum\",\"egg",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "裸卵",
+   "en": "naked ovum",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "植被抽象单位",
+   "en": "nodum\",\"noda(复)",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "受精卵",
+   "en": "fertilized ovum\",\"fertilized egg\",\"pregnant ovum",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "卵",
+   "en": "ovum\",\"egg\",\"oosphere",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "受精卵",
+   "en": "fertilized ovum\",\"oosperm",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

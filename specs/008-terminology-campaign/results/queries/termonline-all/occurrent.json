@@ -1,0 +1,334 @@
+{
+ "key": "occurrent",
+ "term": "occurrent",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T03:26:58+00:00",
+ "status": "ok",
+ "note": "variant=occurrent; 审定公布名词库=1605; 海峡两岸名词对照库=485; 其他来源数据库=10; 预公布名词数据库=14; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "发生",
+   "en": "occurrence",
+   "code": "07.210",
+   "standard": "林学名词",
+   "subject": "林学_森林保护_林业有害生物管理"
+  },
+  {
+   "cn": "产状",
+   "en": "occurrence",
+   "code": "04.067",
+   "standard": "资源科学技术名词",
+   "subject": "资源科学技术_资源地学"
+  },
+  {
+   "cn": "出现",
+   "en": "occurrence",
+   "code": "02.0009",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "产状",
+   "en": "occurrence",
+   "code": "03.060",
+   "standard": "地质学名词",
+   "subject": "地质学_构造地质学"
+  },
+  {
+   "cn": "火成岩产状",
+   "en": "igneous occurrence",
+   "code": "04.02.010",
+   "standard": "地质学名词",
+   "subject": "地质学_火成岩岩石学_岩体产状"
+  },
+  {
+   "cn": "侵入岩产状",
+   "en": "intrusive occurrence",
+   "code": "04.02.012",
+   "standard": "地质学名词",
+   "subject": "地质学_火成岩岩石学_岩体产状"
+  },
+  {
+   "cn": "火山岩产状",
+   "en": "volcanic occurrence",
+   "code": "04.02.037",
+   "standard": "地质学名词",
+   "subject": "地质学_火成岩岩石学_岩体产状"
+  },
+  {
+   "cn": "事件矩阵",
+   "en": "occurrence matrix",
+   "code": "03.031",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程模拟"
+  },
+  {
+   "cn": "随机发生",
+   "en": "random occurrence",
+   "code": "01.2688",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震信号处理"
+  },
+  {
+   "cn": "定义性出现",
+   "en": "definitional occurrence",
+   "code": "05.0239",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_语言与编译"
+  },
+  {
+   "cn": "顺序发生",
+   "en": "sequential occurrence",
+   "code": "02.0626",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_佩特里网"
+  },
+  {
+   "cn": "出现网",
+   "en": "occurrence net",
+   "code": "02.0664",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_佩特里网"
+  },
+  {
+   "cn": "事件矩阵",
+   "en": "occurrence matrix",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "出现网",
+   "en": "occurrence net",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "出现序列",
+   "en": "occurrence sequence",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "定义性出现",
+   "en": "definitional occurrence",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "顺序发生",
+   "en": "sequential occurrence",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "系值",
+   "en": "set occurrence",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "共生矩阵",
+   "en": "co-occurrence matrix",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "流",
+   "en": "current",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "电流",
+   "en": "current",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "电流",
+   "en": "current",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "海流",
+   "en": "current",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "并流操作",
+   "en": "cocurrent operation",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "并发计算",
+   "en": "Concurrent computing",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "水流",
+   "en": "current\",\"stream",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_皮划艇名词"
+  },
+  {
+   "cn": "大地电流",
+   "en": "Telluric current",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "热流",
+   "en": "heat current",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "沿岸流",
+   "en": "longshore current",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "复发性抑郁障碍",
+   "en": "recurrent depressive disorder",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "递归神经网络",
+   "en": "recurrent neural network",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "涡流制动",
+   "en": "Eddy current brake",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "赤道逆流",
+   "en": "Equatorial Counter Current",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "现行标准下农村贫困人口实现脱贫",
+   "en": "enabling all the rural population living below the current poverty line shake off poverty",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "患病概率",
+   "en": "probability of disease occurrence",
+   "code": "1.4.4.73",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "随时消毒",
+   "en": "concurrent disinfection",
+   "code": "4.4.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_疫源地消毒"
+  },
+  {
+   "cn": "复发性流产",
+   "en": "recurrent abortion, RA",
+   "code": "5.4.3",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_生育调节_自然流产"
+  },
+  {
+   "cn": "灯丝电流",
+   "en": "filament current",
+   "code": "6.4.2.51",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  },
+  {
+   "cn": "社会潮流",
+   "en": "social current",
+   "code": "2.1.4.11",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会现象"
+  },
+  {
+   "cn": "正在吸烟者",
+   "en": "current smoker",
+   "code": "3.3.2.3.1.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测"
+  },
+  {
+   "cn": "再发传染病",
+   "en": "recurrent infectious disease",
+   "code": "7.1.6",
+   "standard": "消毒学",
+   "subject": "消毒学_其他_生物安全"
+  },
+  {
+   "cn": "电流时间乘积",
+   "en": "current time product",
+   "code": "6.4.2.52",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  },
+  {
+   "cn": "经常性卫生费用",
+   "en": "current health expenditure",
+   "code": "2.1.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生总费用"
+  },
+  {
+   "cn": "时政歌",
+   "en": "current political songs",
+   "code": "4.0388",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "慢性复发性多灶性骨髓炎",
+   "en": "chronic recurrent multifocal osteomyelitis, CRMO",
+   "code": "2.18.7.3",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_遗传性疾病"
+  },
+  {
+   "cn": "X射线管电流",
+   "en": "X-ray tube current",
+   "code": "6.4.2.50",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

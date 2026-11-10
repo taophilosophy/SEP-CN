@@ -1,0 +1,47 @@
+{
+ "key": "obscenity",
+ "term": "obscenity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T03:22:28+00:00",
+ "status": "ok",
+ "note": "variant=obscenity; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "淫秽内容",
+   "en": "obscenity",
+   "code": "17.073",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限"
+  },
+  {
+   "cn": "猥亵内容",
+   "en": "obscenity",
+   "code": "17.075",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限"
+  },
+  {
+   "cn": "嵇志清峻，阮旨遥深",
+   "en": "Elevated Clarity, and Unfathomable Obscurity: the Poetic Voices of Ji Kang and Ruan Ji",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "淫秽品",
+   "en": "obscene materials",
+   "code": "3.3.4.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性社会学_性法律"
+  },
+  {
+   "cn": "淫秽品法",
+   "en": "product obscenity law",
+   "code": "3.3.4.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性社会学_性法律"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

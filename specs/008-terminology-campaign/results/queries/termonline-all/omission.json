@@ -1,0 +1,348 @@
+{
+ "key": "omission",
+ "term": "omission",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T03:26:58+00:00",
+ "status": "ok",
+ "note": "variant=omission; 审定公布名词库=712; 海峡两岸名词对照库=223; 其他来源数据库=44; 预公布名词数据库=36; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "忽略",
+   "en": "omission",
+   "code": "04.207",
+   "standard": "阿尔茨海默病名词",
+   "subject": "阿尔茨海默病_精神与心理认知学"
+  },
+  {
+   "cn": "漏检",
+   "en": "miss,omissions",
+   "code": "05.179",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息检索_检索技术与方法"
+  },
+  {
+   "cn": "行政不作为",
+   "en": "administrative omission",
+   "code": "11.0394",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_公共管理_政府管理"
+  },
+  {
+   "cn": "省略画法",
+   "en": "omissive representation",
+   "code": "03.0199",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械设计与制图_机械制图_二维制图"
+  },
+  {
+   "cn": "省略信息的谎言",
+   "en": "lying by omission",
+   "code": "12.026",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_政治传播_政治传播基础"
+  },
+  {
+   "cn": "阙字",
+   "en": "omissive characters in a book,missing characters in a book",
+   "code": "08.294",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_文献学_校勘学"
+  },
+  {
+   "cn": "漏检率",
+   "en": "losses,silence ratio,elimination factor,miss ratio,missing rate,omission factor,undetected rate",
+   "code": "05.180",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息检索_检索技术与方法"
+  },
+  {
+   "cn": "泌精",
+   "en": "emission",
+   "code": "3.325",
+   "standard": "生殖医学名词",
+   "subject": "生殖医学_生殖生理与内分泌_男性生殖生理与内分泌"
+  },
+  {
+   "cn": "发射",
+   "en": "emission",
+   "code": "04.1581",
+   "standard": "物理学名词",
+   "subject": "物理学_光学、声学_光学_光谱学、激光、非线性光学"
+  },
+  {
+   "cn": "发射",
+   "en": "emission",
+   "code": "03.0214",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学设备与操作_成像设备"
+  },
+  {
+   "cn": "泌精",
+   "en": "emission",
+   "code": "10.054",
+   "standard": "泌尿外科学名词",
+   "subject": "泌尿外科学_男科"
+  },
+  {
+   "cn": "发射",
+   "en": "emission",
+   "code": "01.323",
+   "standard": "通信科学技术名词",
+   "subject": "通信科学技术_通信原理与基本技术"
+  },
+  {
+   "cn": "遗漏误差",
+   "en": "omission error",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "遗漏性误差",
+   "en": "omission error",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "遗漏性误差",
+   "en": "error of omission",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "发射",
+   "en": "emission",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "排放",
+   "en": "emission",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "排放",
+   "en": "emission",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "[废气]排放",
+   "en": "emission",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "发射",
+   "en": "emission",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "发射",
+   "en": "emission",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "散发",
+   "en": "emission",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "断键",
+   "en": "scission",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "佣金",
+   "en": "commission",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "声发射",
+   "en": "Acoustic emission",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "自发辐射",
+   "en": "spontaneous emission",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "排污权",
+   "en": "emission right",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "原子发射光谱法",
+   "en": "Atomic Emission Spectroscopy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "正电子发射断层成像",
+   "en": "Positron-Emission Tomography",
+   "code": null,
+   "standard": "外语中文译写规范部际联席会议专家委员会",
+   "subject": "其他"
+  },
+  {
+   "cn": "碳排放权",
+   "en": "carbon emission right",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "排污权交易市场",
+   "en": "emission trading market",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "卢森堡妥协",
+   "en": "Hallstein Commission",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "准入控制",
+   "en": "admission control",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "医务委员会",
+   "en": "medical commission",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "检查委员会",
+   "en": "control commission",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "医务委员会",
+   "en": "medical commission",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "缓解",
+   "en": "remission",
+   "code": "1.6.2.2",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的疾病评估_预后与转归"
+  },
+  {
+   "cn": "准入控制",
+   "en": "admission control",
+   "code": "7.3.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务要素市场_医学教育人才市场"
+  },
+  {
+   "cn": "住院率",
+   "en": "admission rate",
+   "code": "3.7.11.14",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食源性疾病负担"
+  },
+  {
+   "cn": "核裂变",
+   "en": "nuclear fission",
+   "code": "3.1.43",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_核物理基本概念"
+  },
+  {
+   "cn": "裂变室",
+   "en": "fission chamber",
+   "code": "5.2.3.14",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测设备_中子监测设备"
+  },
+  {
+   "cn": "核裂变",
+   "en": "nuclear fission",
+   "code": "8.1.10",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_核武器医学防护学_核武器"
+  },
+  {
+   "cn": "裂变原则",
+   "en": "fission principle",
+   "code": "1.0541",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "正电子发射体层成像",
+   "en": "positron emission tomography,PET",
+   "code": "1.5.5.6",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_影像学检测"
+  },
+  {
+   "cn": "最高容许排放浓度",
+   "en": "maximum allowable emission concentration",
+   "code": "6.3.2.5",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_安全性检验"
+  },
+  {
+   "cn": "发射计算机体层成像",
+   "en": "emission computed tomography，ECT",
+   "code": "6.4.3.11",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_核医学"
+  },
+  {
+   "cn": "正电子发射体层显像",
+   "en": "positron emission tomography，PET",
+   "code": "6.4.3.14",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_核医学"
+  },
+  {
+   "cn": "社会工作使命",
+   "en": "mission of social work",
+   "code": "4.4.1.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的基本概念"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

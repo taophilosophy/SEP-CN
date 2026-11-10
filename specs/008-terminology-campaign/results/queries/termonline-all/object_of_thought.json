@@ -1,0 +1,348 @@
+{
+ "key": "object of thought",
+ "term": "object of thought",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T03:19:24+00:00",
+ "status": "ok",
+ "note": "variant=object of thought; 审定公布名词库=10000; 海峡两岸名词对照库=7788; 其他来源数据库=1910; 预公布名词数据库=2743; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "思维迟缓",
+   "en": "retardation of thought,inhibition of thought",
+   "code": "02.076",
+   "standard": "精神医学名词",
+   "subject": "精神医学_症状与体征_思维障碍症状"
+  },
+  {
+   "cn": "思",
+   "en": "thought",
+   "code": "03.403",
+   "standard": "中医药学名词",
+   "subject": "中医药学_中医基础理论_气血津液精神"
+  },
+  {
+   "cn": "思维经济",
+   "en": "economy of thought",
+   "code": "03.021",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学实在论"
+  },
+  {
+   "cn": "思维迟缓",
+   "en": "retardation of thought",
+   "code": "16.044",
+   "standard": "行为医学名词",
+   "subject": "行为医学_其他神经行为障碍_异常行为症状"
+  },
+  {
+   "cn": "思维贫乏",
+   "en": "poverty of thought",
+   "code": "16.045",
+   "standard": "行为医学名词",
+   "subject": "行为医学_其他神经行为障碍_异常行为症状"
+  },
+  {
+   "cn": "思维破裂",
+   "en": "splitting of thought",
+   "code": "16.049",
+   "standard": "行为医学名词",
+   "subject": "行为医学_其他神经行为障碍_异常行为症状"
+  },
+  {
+   "cn": "思维贫乏",
+   "en": "poverty of thought",
+   "code": "02.077",
+   "standard": "精神医学名词",
+   "subject": "精神医学_症状与体征_思维障碍症状"
+  },
+  {
+   "cn": "思维奔逸",
+   "en": "flight of thought",
+   "code": "10.147",
+   "standard": "心理学名词",
+   "subject": "心理学_医学心理学"
+  },
+  {
+   "cn": "思维贫乏",
+   "en": "poverty of thought",
+   "code": "02.307",
+   "standard": "全科医学与社区卫生名词",
+   "subject": "全科医学与社区卫生_社区常见临床问题"
+  },
+  {
+   "cn": "思维奔逸",
+   "en": "flight of thought",
+   "code": "08.046",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_精神病学"
+  },
+  {
+   "cn": "思维破裂",
+   "en": "splitting of thought",
+   "code": "08.051",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_精神病学"
+  },
+  {
+   "cn": "思维不连贯",
+   "en": "incoherence of thought",
+   "code": "08.052",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_精神病学"
+  },
+  {
+   "cn": "思维，思考",
+   "en": "thinking\",\"thought",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "表征思维",
+   "en": "representational thought",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "自动思维",
+   "en": "automatic thought",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "分析性思维",
+   "en": "analytical thought",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "地理学思想史",
+   "en": "history of geographic thought",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "客体",
+   "en": "object",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "对象",
+   "en": "object",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "对象",
+   "en": "object",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "客体",
+   "en": "object",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "保险对象，保险标的物",
+   "en": "object of insurance",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "目标不对称",
+   "en": "asymmetry of object",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "客观性",
+   "en": "objectivity",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "法律客体",
+   "en": "object of law",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "诸子百家",
+   "en": "A Hundred Schools of Thought",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "思无邪",
+   "en": "No Depraved Thoughts",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "诸子学",
+   "en": "Study of A Hundred Schools of Thought",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "数据对象",
+   "en": "data object",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "对象模型",
+   "en": "object model",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "客体重用",
+   "en": "object reuse",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "目标代码",
+   "en": "Object code",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "双目标",
+   "en": "dual objectives",
+   "code": null,
+   "standard": "中央文献重要术语",
+   "subject": "其他"
+  },
+  {
+   "cn": "诚意",
+   "en": "Be Sincere in Thought",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "有心之器",
+   "en": "Objects of Intelligence and Sentiment",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "近地天体",
+   "en": "Near-Earth object",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "思想",
+   "en": "thought",
+   "code": "01.0014",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "社会思想",
+   "en": "social thought",
+   "code": "2.1.7.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会意识"
+  },
+  {
+   "cn": "燕京学派",
+   "en": "Yenching School of thought",
+   "code": "1.1.2.46",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想"
+  },
+  {
+   "cn": "客体",
+   "en": "object",
+   "code": "01.0161",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "观察对象",
+   "en": "object of observation",
+   "code": "4.3.1.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员健康监护基础名词"
+  },
+  {
+   "cn": "对象意识",
+   "en": "consciousness of object",
+   "code": "01.0130",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "客体性",
+   "en": "objectivity",
+   "code": "01.0162",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "客观",
+   "en": "objective",
+   "code": "01.0164",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "客观性",
+   "en": "objectivity",
+   "code": "01.0165",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "毛泽东哲学思想",
+   "en": "philosophical thought of Mao Zedong",
+   "code": "01.0227",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "三个代表重要思想",
+   "en": "important thought of Three Represents",
+   "code": "03.0620",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "医学伦理思想史",
+   "en": "history of medical ethical thought",
+   "code": "1.182",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
