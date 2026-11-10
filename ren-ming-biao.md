@@ -105,7 +105,7 @@
 | Alexander of Aphrodisias | — | 阿弗罗狄西亚的亚历山大 | — | — | delmedigo | 学界通行（古代亚里士多德注释家通译；亦作“阿弗罗迪西亚的亚历山大”） | 2026-11-06 |
 | Alexander of Hales | — | 黑尔斯的亚历山大 | 英格兰／方济各会经院神学 | c. 1185–1245 | analogy-medieval | 中世纪神学通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | Alexander the Great | — | 亚历山大大帝 | — | — | cosmopolitanism | 学界通行汉译；凭证 2026-11-09 | 2026-11-09 |
-| Alexander V | 亚历山大五世 | — | — | — | gregory-rimini | 教宗通译惯例（原名 Peter of Candia，方济各会士）；凭证 2026-11-10 | 2026-11-10 |
+| Alexander V | — | 亚历山大五世 | — | — | gregory-rimini | 教宗通译惯例（原名 Peter of Candia，方济各会士）；凭证 2026-11-10 | 2026-11-10 |
 | Alexander, Larry | — | 拉里·亚历山大 | — | — | ethics-deontological | 学界惯例（本词条作者，通行音译） | 2026-11-04 |
 | Alexandre Koyré | Alexandre Koyré | 亚历山大·柯瓦雷 | — | — | 语料回收（全目录） | 学界惯例（科学革命史研究）；凭证 2026-11-01 | 2026-11-01 |
 | Alexinus | — | 阿勒克西努斯 | — | — | dialectical-school | 学界通行汉译（欧布里德门生，约前339–前265，或属辩证宗派）；凭证 2026-11-07 | 2026-11-07 |
@@ -123,7 +123,7 @@
 | Allwein, Gerard | — | Gerard Allwein | — | — | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Alois Riehl | — | 阿洛伊斯·里尔 | — | — | scholz | 学界通行汉译（新康德主义者）；凭证 2026-11-07 | 2026-11-07 |
 | Alonzo Church | — | 邱奇（Alonzo Church） | — | — | schema | 学界惯例（数理逻辑通行汉译） | 2026-11-06 |
-| Alphonsus Vargas of Toledo | 托莱多的阿方索·巴尔加斯 | 西班牙 | — | — | gregory-rimini | 依驻地冠称音译（Alfonso Vargas de Toledo，奥古斯丁会）；凭证 2026-11-10 | 2026-11-10 |
+| Alphonsus Vargas of Toledo | — | 托莱多的阿方索·巴尔加斯 | 西班牙 | — | gregory-rimini | 依驻地冠称音译（Alfonso Vargas de Toledo，奥古斯丁会）；凭证 2026-11-10 | 2026-11-10 |
 | Alston, William | — | 威廉·阿尔斯顿 | — | — | closure-epistemic | 学界通行音译（知识证成、感知理论）；凭证 2026-11-08 | 2026-11-08 |
 | Alter, Robert | — | 罗伯特·阿尔特 | 美国 | 1935– | scholem | 学界通行汉译（圣经文学研究）；凭证 2026-11-08 | 2026-11-08 |
 | Alvin Plantinga | — | 阿尔文·普兰丁格 | — | — | leibniz-modal | 学界通行汉译（《论必然性》作者）；待 specs/008 审定库复核 | 2026-11-03 |
@@ -1115,7 +1115,7 @@
 | Francis Glisson | — | 弗朗西斯·格利森 | — | — | locke-on-medicine | 医史通行音译（盖伦传统医家） | 2026-11-05 |
 | Francis Mercury Van Helmont | — | 弗朗西斯·墨丘里·范·赫尔蒙特 | — | — | 18thGerman-preKant | 学界通行汉译（Joan Baptista van Helmont 之子；译名对齐既有“范·赫尔蒙特”行）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
 | Francis of Assisi, St. | — | 亚西西的圣方济各 | — | — | arabic-islamic-mysticism | 基督教史通行汉译 | 2026-11-07 |
-| Francis of Marchia | 马尔基亚的弗朗西斯 | 意大利 | — | — | gregory-rimini | 依驻地冠称（Franciscus de Marchia，方济各会神学家）；凭证 2026-11-10 | 2026-11-10 |
+| Francis of Marchia | — | 马尔基亚的弗朗西斯 | 意大利 | — | gregory-rimini | 依驻地冠称（Franciscus de Marchia，方济各会神学家）；凭证 2026-11-10 | 2026-11-10 |
 | Francis of Prato | — | 普拉托的弗朗西斯 | 意大利 | 活跃于 1340 年代 | sharpe | 本词条首译（14 世纪意大利多明我会逻辑学家，无通行汉名；Amerini 研究文献）；凭证 2026-11-09 | 2026-11-09 |
 
 | Franck, Jacob | — | 雅各布·弗兰克 | 波兰（波多利亚生） | c. 1726–1791 | scholem | 学界通行汉译（十八世纪沙巴泰派领袖）；凭证 2026-11-08 | 2026-11-08 |
@@ -1371,7 +1371,7 @@
 | Gutschoven, Gerard van | — | 赫拉德·范·古茨霍芬 | — | — | la-forge | 学界惯例音译（鲁汶解剖学家，笛卡儿《论人》插图作者之一）；凭证 2026-11-09 | 2026-11-09 |
 | Guttmann, Julius | — | 尤利乌斯·古特曼 | — | — | delmedigo | 学界通行（犹太哲学史家） | 2026-11-06 |
 | Gutton, Jean | — | 让·居东 | — | — | bergson | 第七版《绵延与同时性》编者；学界通行音译 | 2026-11-08 |
-| Guy Terrena | 居伊·特雷纳 | 加泰罗尼亚 | — | — | gregory-rimini | 音译（Guiu Terrena，加尔默罗会士）；凭证 2026-11-10 | 2026-11-10 |
+| Guy Terrena | — | 居伊·特雷纳 | 加泰罗尼亚 | — | gregory-rimini | 音译（Guiu Terrena，加尔默罗会士）；凭证 2026-11-10 | 2026-11-10 |
 | Guyer, Paul | — | 保罗·盖耶 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
 | Guyon, Madame | — | 盖恩夫人 | — | — | lady-masham | 学界通行汉译（寂静主义倡导者） | 2026-11-07 |
 | Guzman, Juan Carlos | — | Juan Carlos Guzman | — | — | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
@@ -1590,7 +1590,7 @@
 | Hügli, Anton | — | Anton Hügli（现代学者，保留英文） | — | — | jaspers | ADR-0022：无通行汉名者保留英文（KJG 协作）；凭证 2026-11-09 | 2026-11-09 |
 | Hugo Grotius | — | 雨果·格劳秀斯 | — | — | leibniz-ethics | 学界通行汉译（国际法之父）；待 specs/008 审定库复核 | 2026-11-04 |
 | Hugo Münsterberg | Hugo Münsterberg | 雨果·明斯特伯格 | — | — | landmann-kalischer | 学界通行汉译（新康德主义心理学家）；待 specs/008 审定库复核 | 2026-11-04 |
-| Hugolino of Orvieto | 奥尔维耶托的乌戈利诺 | 意大利 | — | — | gregory-rimini | 依驻地冠称（Ugolino da Orvieto，奥古斯丁会）；凭证 2026-11-10 | 2026-11-10 |
+| Hugolino of Orvieto | — | 奥尔维耶托的乌戈利诺 | 意大利 | — | gregory-rimini | 依驻地冠称（Ugolino da Orvieto，奥古斯丁会）；凭证 2026-11-10 | 2026-11-10 |
 | Hui Shi | — | 惠施 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Hui-kuo | 惠果 | 惠果 | 唐 | 746–805 | kukai | 佛学界千年传统译名（青龙寺阿阇黎，空海之师） | 2026-11-09 |
 | Huike | — | 慧可 | — | — | buddhism-chan | 佛学界通行汉译（二祖） | 2026-11-05 |
@@ -1691,7 +1691,7 @@
 | Jakob Thomasius | — | 雅各布·托马修斯 | — | — | 18thGerman-preKant | 学界通行汉译（老托马修斯，莱比锡法学家兼哲学家）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
 | Jamāli | जामालि | 阇摩利 | 古印度／耆那教 | — | jaina-philosophy | 梵音自拟（《世尊教说》中问难的弟子） | 2026-11-08 |
 | James E. Sabin | — | 詹姆斯·萨宾 | — | — | justice-healthcareaccess | 学界惯例（生物伦理通行译法） | 2026-11-02 |
-| James of Eltville | 埃尔茨维尔的雅各 | 德国 | — | — | gregory-rimini | 依驻地冠称（Jakob von Eltville，西多会士）；凭证 2026-11-10 | 2026-11-10 |
+| James of Eltville | — | 埃尔茨维尔的雅各 | 德国 | — | gregory-rimini | 依驻地冠称（Jakob von Eltville，西多会士）；凭证 2026-11-10 | 2026-11-10 |
 | James Shelley | — | 詹姆斯·雪莱 | — | — | aesthetics-18th-british | 学界通行汉译；SUMMARY/署名行定名沿用；待 specs/008 审定库复核 | 2026-11-04 |
 | James Tyrrell | — | 詹姆斯·蒂勒尔 | — | — | locke-on-medicine | 学界通行汉译（洛克友人，回忆录作者） | 2026-11-05 |
 | James Ward | — | 詹姆斯·沃德 | — | — | 语料回收（全目录） | 学界惯例（英国观念论心理学家）；凭证 2026-11-01 | 2026-11-01 |
@@ -2011,7 +2011,7 @@
 | Lana de Terzi, Francisco | — | 弗朗切斯科·拉纳·德·泰尔齐 | 意大利／耶稣会自然哲学家 | 1631–1687 | johann-sturm | 学界通行音译；凭证 2026-11-10 | 2026-11-10 |
 | Landemore, Hélène | Hélène Landemore | Hélène Landemore | — | — | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
 | Landman, Fred | — | Fred Landman | — | — | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
-| Landulph Caracciolo | 兰杜尔夫·卡拉乔洛 | 意大利 | — | — | gregory-rimini | 音译（14 世纪方济各会神学家）；凭证 2026-11-10 | 2026-11-10 |
+| Landulph Caracciolo | — | 兰杜尔夫·卡拉乔洛 | 意大利 | — | gregory-rimini | 音译（14 世纪方济各会神学家）；凭证 2026-11-10 | 2026-11-10 |
 | Lang, Matthew | — | 马修·朗 | — | — | gianfrancesco-pico | 音译（古尔克主教、帝国代牧） | 2026-11-09 |
 | Lange, Martin | — | Martin Lange | — | — | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Langer, Susanne K. | — | 苏珊·K·朗格 | — | — | langer | 学界通行汉译（《情感与形式》汉译语境）；凭证 2026-11-08 | 2026-11-08 |
@@ -2360,7 +2360,7 @@
 | Michael Moore | — | 迈克尔·摩尔 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01） | 2026-11-01 |
 | Michael of Cesena | — | 切塞纳的迈克尔 | — | — | ockham | 方济各会总会长；城名 Cesena 通行汉译“切塞纳”（亦作塞萨纳/切泽纳）；凭证 2026-11-07 | 2026-11-07 |
 | Michael of Marbais | — | 马尔拜的米迦勒 | — | — | boethius-dacia | 学界惯例（13 世纪模态主义者，《意指样式大全》作者）；凭证 2026-11-08 | 2026-11-08 |
-| Michael of Massa | 马萨的米凯莱 | 意大利 | — | — | gregory-rimini | 依驻地冠称，意大利名音译（Michele da Massa，奥古斯丁会）；凭证 2026-11-10 | 2026-11-10 |
+| Michael of Massa | — | 马萨的米凯莱 | 意大利 | — | gregory-rimini | 依驻地冠称，意大利名音译（Michele da Massa，奥古斯丁会）；凭证 2026-11-10 | 2026-11-10 |
 | Michael Psellos | — | 米海尔·普塞洛斯 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Michael Redhead | — | 雷德黑德（Michael Redhead） | — | — | spacetime-convensimul | 学界惯例（科学哲学通行汉译） | 2026-11-06 |
 | Michael Slote | — | 迈克尔·斯洛特 | — | — | justice-virtue | 学界通行汉译（德性/关怀伦理）；凭证 2026-11-02 | 2026-11-02 |
@@ -2618,8 +2618,8 @@
 | Pandit Gulab Singh | — | 潘迪特·古拉布·辛格 | 印度（旁遮普） | 18 世纪 | sikh-philosophy | 本库首译（尼尔马拉派学者，《解脱之道》作者） | 2026-11-09 |
 | Pandit Tara Singh Narotam | — | 潘迪特·塔拉·辛格·纳罗塔姆 | 印度（旁遮普） | 1822–1891 | sikh-philosophy | 本库首译（尼尔马拉派学者，《古鲁教法决断海》作者） | 2026-11-09 |
 | Pāṇini | पाणिनि | 波你尼 | 古印度 | 约前 4 世纪 | early-modern-india | 佛典古译传统译名（梵语法家；“波尼你”异写从略）；凭证 2026-11-10 | 2026-11-10 |
-| Peter of Candia | 坎迪亚的彼得 | 克里特（威尼斯属地） | — | — | gregory-rimini | 依驻地冠称（后为教宗亚历山大五世，方济各会）；凭证 2026-11-10 | 2026-11-10 |
-| Pierre d'Ailly | 皮埃尔·戴利 | 法国 | 1351–1420 | — | gregory-rimini | 中世纪研究通行音译（康布雷主教）；凭证 2026-11-10 | 2026-11-10 |
+| Peter of Candia | — | 坎迪亚的彼得 | 克里特（威尼斯属地） | — | gregory-rimini | 依驻地冠称（后为教宗亚历山大五世，方济各会）；凭证 2026-11-10 | 2026-11-10 |
+| Pierre d'Ailly | — | 皮埃尔·戴利 | 法国 | 1351–1420 | gregory-rimini | 中世纪研究通行音译（康布雷主教）；凭证 2026-11-10 | 2026-11-10 |
 | Pines, Shlomo | — | 施洛莫·派因斯 | 法国（巴黎出生）／以色列／犹太与伊斯兰哲学 | 1908–1990 | ibn-kammuna | 学界通行音译（阿维森纳研究） | 2026-11-10 |
 | Pankenier, David W. | — | 班大伟 | — | — | chinese-phil-science | 学界通行（汉名班大伟，中国考古天文学）；凭证 2026-11-07 | 2026-11-07 |
 | Pantacleia | — | 潘塔克莱娅 | — | — | dialectical-school | 学界通行汉译（狄奥多罗斯之女，据称逻辑学家）；凭证 2026-11-07 | 2026-11-07 |
@@ -2926,7 +2926,7 @@
 | Robert Alyngton | Robert Alyngton | 保留英文（无通行汉名） | — | — | sophismata | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
 | Robert Audi | — | 罗伯特·奥迪 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Robert Brandom | — | 罗伯特·布兰登 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
-| Robert Halifax | 罗伯特·哈利法克斯 | 英格兰 | — | — | gregory-rimini | 音译（14 世纪牛津神学家）；凭证 2026-11-10 | 2026-11-10 |
+| Robert Halifax | — | 罗伯特·哈利法克斯 | 英格兰 | — | gregory-rimini | 音译（14 世纪牛津神学家）；凭证 2026-11-10 | 2026-11-10 |
 | Robert Holcot | — | 罗伯特·霍尔科特 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
 | Robert Hooke | — | 罗伯特·胡克 | — | — | nicole-oresme | 科学史千年通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | Robert Post | — | Robert Post（现代学者正文保留英文；通行汉译“波斯特”备查） | — | — | academic-freedom | 学界通行；审定库模糊命中 20 条存查（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
@@ -3370,7 +3370,7 @@
 | Thirteenth Dalai Lama | — | 十三世达赖喇嘛 | — | — | gorampa | 土登嘉措（1876–1933）；通行汉译 | 2026-11-09 |
 | Thomas Aquinas | — | 托马斯·阿奎那 | — | — | 语料回收（全目录）、leibniz-evil | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | Thomas Bradwardine | Thomas Bradwardine | 托马斯·布拉德沃丁 | — | — | sophismata | 学界通行汉译（牛津计算者，物理与神学家）；凭证 2026-11-07 | 2026-11-07 |
-| Thomas Buckingham | 托马斯·白金汉 | 英格兰 | — | — | gregory-rimini | 音译（14 世纪牛津神学家）；凭证 2026-11-10 | 2026-11-10 |
+| Thomas Buckingham | — | 托马斯·白金汉 | 英格兰 | — | gregory-rimini | 音译（14 世纪牛津神学家）；凭证 2026-11-10 | 2026-11-10 |
 | Thomas Carlyle | — | 托马斯·卡莱尔 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Thomas Gresham | — | 托马斯·格雷欣 | — | — | nicole-oresme | 经济学通行汉译（格雷欣法则）；凭证 2026-11-08 | 2026-11-08 |
 | Thomas Hobbes | — | 托马斯·霍布斯 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -3642,7 +3642,7 @@
 | William of Alvernia | — | 奥弗涅的威廉 | — | — | condemnation | 依地名冠称（源文作 Alvernia，即 William of Auvergne，巴黎主教）；凭证 2026-11-08 | 2026-11-08 |
 | William of Auvergne | — | 奥弗涅的威廉 | — | — | illumination | 中世纪哲学通行汉译（巴黎主教，以能动理智即上帝）；凭证 2026-11-08 | 2026-11-08 |
 | William of Ockham | — | 奥卡姆的威廉 | — | — | richard-sophister | SUMMARY 既有条目名（o/ockham.md）；学界通行汉译 | 2026-11-04 |
-| William of Rubio | 鲁比奥的威廉 | — | — | — | gregory-rimini | 依驻地冠称（方济各会神学家）；凭证 2026-11-10 | 2026-11-10 |
+| William of Rubio | — | 鲁比奥的威廉 | — | — | gregory-rimini | 依驻地冠称（方济各会神学家）；凭证 2026-11-10 | 2026-11-10 |
 | William of Sherwood | — | 舍伍德的威廉 | — | — | lambert-auxerre | 学界通行汉译（中世纪逻辑学家）；待 specs/008 审定库复核 | 2026-11-04 |
 | William of Ware | — | 韦尔的威廉 | — | — | auriol | 司各脱学派先驱通行（依地名冠称） | 2026-11-07 |
 | William Paley | — | 威廉·佩利 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
