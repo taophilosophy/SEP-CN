@@ -2,7 +2,7 @@
   "slug": "paradox-of-tragedy",
   "kind": "retranslate",
   "zh_doc": "p/paradox-of-tragedy.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "P-main-20261110b",
       "at": "2026-11-10T04:41:33Z",
       "evidence": "复审（逐句回核原文与逻辑）：按段回读 body 120 段 + 脚注 1 段，逐句核对命题连接（对比/让步/因果/条件）与论证次序，重点：①§2.2 元反应与沉浸的消长关系及三种回应；②§3.1 距离论三条反对（情绪强度前提、同一情绪、虚构/非虚构之分）；③§6 修正主义强弱两版与准情绪反诘的推进链；④12 处引文逐句比对源文，无增删改义。check_prose 40 告警：37 条 de-chain 沿用 s2 判读豁免（复核无三连「的」与超长定语链），long-sentence 1（并列枚举）、passive-bei 1（休谟引文双被动）判读保留；r1 引入的 weak-verb 1 已随 r1 实修清除。分级：Critical 0、Major 0、Minor 0（本轮无新问题）。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "P2-main-20261110",
+      "at": "2026-11-10T08:47:38Z",
+      "evidence": "体例终检（P2 会话独立复核并实修）：check_style --strict 0 issue；check_academic --strict 0 硬错误；check_math 0 缺失 0 失衡；check_summary 0 H1 不符；check_prose 39 告警全为『的』密度/引文句（ADR-0020 判读豁免，s2 已留痕）；check_all 七项全绿（2026-11-10 本机实跑）。终检期实修（r2 后）：术语漂移 9 处归一为修正式（对齐 revisionary 登记行）、杜博斯→杜博（对齐登记册与 hume-aesthetics）、L’Abbé→L'Abbé 词内 ASCII；补登记 Johnson, Samuel 行。结构与源对位：H2 11:12（源 Notes 双标题）、引块 15:20（学术工具表格→四行 bullet）两处为转换器/体例差异判读，非缺件。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "P2-main-20261110",
+      "at": "2026-11-10T08:49:28Z",
+      "evidence": "P 批第 8 条收口：paradox-of-tragedy 九步齐备（clear/draft/s1/s2/s3/r1/r2/r3/done），122 段账本守恒、脚注定义 77:77、引用组 44:44 顺序全等；四检与 check_all 七项全绿。r1/r2 由独立会话 P-main-20261110b 执行，r3 终检与术语/人名归一由 P2-main-20261110 执行。"
     }
   ],
   "blockers": [],
