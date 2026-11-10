@@ -1,0 +1,348 @@
+{
+ "key": "landscape model",
+ "term": "landscape model",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T00:31:03+00:00",
+ "status": "ok",
+ "note": "variant=landscape model; 审定公布名词库=3974; 海峡两岸名词对照库=1170; 其他来源数据库=165; 预公布名词数据库=206; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "景观模型",
+   "en": "landscape model",
+   "code": "08.060",
+   "standard": "生态学名词",
+   "subject": "生态学_景观生态学"
+  },
+  {
+   "cn": "数字景观模型",
+   "en": "digital landscape model",
+   "code": "04.078",
+   "standard": "测绘学名词",
+   "subject": "测绘学_地图学"
+  },
+  {
+   "cn": "景观中性模型",
+   "en": "landscape neutral model",
+   "code": "08.061",
+   "standard": "生态学名词",
+   "subject": "生态学_景观生态学"
+  },
+  {
+   "cn": "空间景观模型",
+   "en": "spatial landscape model",
+   "code": "08.063",
+   "standard": "生态学名词",
+   "subject": "生态学_景观生态学"
+  },
+  {
+   "cn": "随机景观模型",
+   "en": "stochastic landscape model",
+   "code": "08.065",
+   "standard": "生态学名词",
+   "subject": "生态学_景观生态学"
+  },
+  {
+   "cn": "数字景观模型",
+   "en": "digital landscape model,DLM",
+   "code": "01.596",
+   "standard": "地理信息系统名词",
+   "subject": "地理信息系统_基本概念"
+  },
+  {
+   "cn": "风景园林信息模型",
+   "en": "landscape architecture information model",
+   "code": "06.0020",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林设计_设计理论方法"
+  },
+  {
+   "cn": "空间直观景观模型",
+   "en": "spatially explicit landscape model",
+   "code": "08.064",
+   "standard": "生态学名词",
+   "subject": "生态学_景观生态学"
+  },
+  {
+   "cn": "景观图谱",
+   "en": "landscape graphic structure model",
+   "code": "08.098",
+   "standard": "生态学名词",
+   "subject": "生态学_景观生态学"
+  },
+  {
+   "cn": "景观过程模型",
+   "en": "process-based landscape model",
+   "code": "08.062",
+   "standard": "生态学名词",
+   "subject": "生态学_景观生态学"
+  },
+  {
+   "cn": "景观",
+   "en": "landscape",
+   "code": "07.655",
+   "standard": "天文学名词",
+   "subject": "天文学_星系和宇宙学"
+  },
+  {
+   "cn": "景观",
+   "en": "landscape",
+   "code": "13.0574",
+   "standard": "植物学名词",
+   "subject": "植物学_植物生态学_生态系统与景观生态学"
+  },
+  {
+   "cn": "空间景观模型",
+   "en": "spatial landscape model",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "随机景观模型",
+   "en": "stochastic landscape model",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "数字景观模型",
+   "en": "digital landscape model\",\"DLM",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "景观",
+   "en": "landscape",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "景观",
+   "en": "landscape",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "地景,景观",
+   "en": "landscape",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "景观（＝地景）",
+   "en": "landscape",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "横向",
+   "en": "landscape",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "景观指数",
+   "en": "landscape index\",\"landscape metrics",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "景观指数",
+   "en": "landscape index\",\"landscape metrics",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "景观动态",
+   "en": "landscape dynamics",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "景观多样性",
+   "en": "landscape diversity",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "地貌",
+   "en": "Landscape",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "景观生态学",
+   "en": "landscape ecology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "山水诗",
+   "en": "Landscape Poetry",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "网状模型",
+   "en": "Database model",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "关系模型",
+   "en": "Relational model",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "瀑布模型",
+   "en": "Waterfall Model",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "模型论",
+   "en": "Model theory",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "麦克斯韦模型",
+   "en": "Maxwell model",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "标准模型",
+   "en": "Standard Model",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "线框模型",
+   "en": "wireframe model",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "系统架构",
+   "en": "view model",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "概念模型",
+   "en": "Conceptual Model",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "型号",
+   "en": "model",
+   "code": "5.2.8",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_产品监管"
+  },
+  {
+   "cn": "文化景观遗产",
+   "en": "cultural landscape heritage",
+   "code": "1.006",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "建模后相加模型",
+   "en": "model-then-add model",
+   "code": "1.4.4.90",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "传统模式",
+   "en": "traditional model",
+   "code": "4.071000000000001",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医疗人际关系"
+  },
+  {
+   "cn": "模型膳食",
+   "en": "model diets",
+   "code": "1.4.4.54",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "概率单位模型",
+   "en": "Probit model",
+   "code": "1.4.4.76",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "隔室模型",
+   "en": "compartment model",
+   "code": "6.3.2.41",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢"
+  },
+  {
+   "cn": "关联模型",
+   "en": "association model",
+   "code": "1.2.5.70",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "模型设定",
+   "en": "model specification",
+   "code": "1.2.5.97",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "对数单位模型",
+   "en": "logit model",
+   "code": "1.2.5.103",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "概率单位模型",
+   "en": "probit model",
+   "code": "1.2.5.106",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "边缘模型",
+   "en": "marginal model",
+   "code": "1.2.5.112",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

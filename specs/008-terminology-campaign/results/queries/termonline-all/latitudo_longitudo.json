@@ -1,0 +1,432 @@
+{
+ "key": "latitudo / longitudo",
+ "term": "latitudo / longitudo",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T00:34:03+00:00",
+ "status": "ok",
+ "note": "variant=latitudo; 审定公布名词库=202; 海峡两岸名词对照库=166; 其他来源数据库=2; 预公布名词数据库=43; variant=longitudo; 审定公布名词库=41; 海峡两岸名词对照库=54; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "纬度",
+   "en": "latitude",
+   "code": "01.019",
+   "standard": "测绘学名词",
+   "subject": "测绘学_总论"
+  },
+  {
+   "cn": "纬度",
+   "en": "latitude",
+   "code": "10.0505",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑物理_建筑气候学"
+  },
+  {
+   "cn": "地平纬度",
+   "en": "altitude",
+   "code": "02.024",
+   "standard": "天文学名词",
+   "subject": "天文学_天体测量学"
+  },
+  {
+   "cn": "海拔",
+   "en": "altitude",
+   "code": "5.171",
+   "standard": "睡眠医学名词",
+   "subject": "睡眠医学_睡眠疾病治疗学_睡眠环境与睡眠卫生"
+  },
+  {
+   "cn": "高程",
+   "en": "altitude",
+   "code": "08.167",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天遥感"
+  },
+  {
+   "cn": "海拔",
+   "en": "altitude",
+   "code": "27.077",
+   "standard": "电气工程名词",
+   "subject": "电气工程_环境技术（电工学）"
+  },
+  {
+   "cn": "高线",
+   "en": "altitude",
+   "code": "08.0066",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_欧几里得几何学"
+  },
+  {
+   "cn": "高程",
+   "en": "elevation,altitude",
+   "code": "01.220",
+   "standard": "地理信息系统名词",
+   "subject": "地理信息系统_基本概念"
+  },
+  {
+   "cn": "海拔",
+   "en": "altitude,height above sea level",
+   "code": "03.028",
+   "standard": "地理学名词",
+   "subject": "地理学_地貌学"
+  },
+  {
+   "cn": "黄纬",
+   "en": "celestial latitude,ecliptic latitude",
+   "code": "11.0244",
+   "standard": "物理学名词",
+   "subject": "物理学_交叉学科_天体物理学"
+  },
+  {
+   "cn": "黄纬",
+   "en": "ecliptic latitude; celestial latitude",
+   "code": "02.056",
+   "standard": "天文学名词",
+   "subject": "天文学_天体测量学"
+  },
+  {
+   "cn": "纬度效应",
+   "en": "latitude effect",
+   "code": "13.03.142",
+   "standard": "地质学名词",
+   "subject": "地质学_地球化学_同位素地球化学"
+  },
+  {
+   "cn": "纬度",
+   "en": "latitude",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "纬度",
+   "en": "latitude",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "纬度",
+   "en": "latitude",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "纬度",
+   "en": "latitude",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "纵距",
+   "en": "latitude",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "纬度",
+   "en": "latitude",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "地平纬度",
+   "en": "altitude",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "海拔",
+   "en": "altitude",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "海拔",
+   "en": "altitude",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "高度",
+   "en": "altitude",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "黄纬",
+   "en": "ecliptic latitude\",\"celestial latitude",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "黄纬圈",
+   "en": "latitude circle\",\"parallel of latitude",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "海拔",
+   "en": "altitude",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "高海拔宇宙线观测站",
+   "en": "Large High Air Altitude Shower Observatory",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "海拔高度",
+   "en": "altitude",
+   "code": "3.2.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_寒区军事卫生_环境冷强度"
+  },
+  {
+   "cn": "高空缺氧",
+   "en": "altitude hypoxia",
+   "code": "11.1.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_航空和航天医学_航空医学"
+  },
+  {
+   "cn": "高原",
+   "en": "high altitude",
+   "code": "5.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_高原军事卫生_高原"
+  },
+  {
+   "cn": "高驻低训",
+   "en": "high altitude living - low altitude training",
+   "code": "5.1.3.4",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_高原军事卫生_高原"
+  },
+  {
+   "cn": "低驻高训",
+   "en": "low altitude living - high altitude training",
+   "code": "5.1.3.5",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_高原军事卫生_高原"
+  },
+  {
+   "cn": "高原习服",
+   "en": "high altitude acclimatization",
+   "code": "5.4",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_高原军事卫生_高原习服"
+  },
+  {
+   "cn": "高原作业",
+   "en": "high altitude work",
+   "code": "5.1.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_高原军事卫生_高原"
+  },
+  {
+   "cn": "急性高空缺氧",
+   "en": "acute altitude hypoxia",
+   "code": "11.1.2.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_航空和航天医学_航空医学"
+  },
+  {
+   "cn": "高原病",
+   "en": "high altitude disease",
+   "code": "5.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_高原军事卫生_高原病"
+  },
+  {
+   "cn": "高原高血压",
+   "en": "high altitude hypertension",
+   "code": "5.3.2.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_高原军事卫生_高原病"
+  },
+  {
+   "cn": "生理等效高度",
+   "en": "physiological equivalent altitude",
+   "code": "5.1.1.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_高原军事卫生_高原"
+  },
+  {
+   "cn": "高原适应",
+   "en": "high altitude adaptation",
+   "code": "5.5",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_高原军事卫生_高原适应"
+  },
+  {
+   "cn": "经度",
+   "en": "longitude",
+   "code": "01.018",
+   "standard": "测绘学名词",
+   "subject": "测绘学_总论"
+  },
+  {
+   "cn": "经度",
+   "en": "longitude",
+   "code": "10.0504",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑物理_建筑气候学"
+  },
+  {
+   "cn": "黄经",
+   "en": "celestial longitude,ecliptic longitude",
+   "code": "11.0245",
+   "standard": "物理学名词",
+   "subject": "物理学_交叉学科_天体物理学"
+  },
+  {
+   "cn": "黄经",
+   "en": "ecliptic longitude; celestial longitude",
+   "code": "02.055",
+   "standard": "天文学名词",
+   "subject": "天文学_天体测量学"
+  },
+  {
+   "cn": "卡林顿经度",
+   "en": "Carrington longitude",
+   "code": "09.043",
+   "standard": "天文学名词",
+   "subject": "天文学_太阳"
+  },
+  {
+   "cn": "日面经度",
+   "en": "heliographic longitude",
+   "code": "09.047",
+   "standard": "天文学名词",
+   "subject": "天文学_太阳"
+  },
+  {
+   "cn": "活动经度",
+   "en": "active longitude",
+   "code": "09.133",
+   "standard": "天文学名词",
+   "subject": "天文学_太阳"
+  },
+  {
+   "cn": "黄经圈",
+   "en": "longitude circle",
+   "code": "02.053",
+   "standard": "天文学名词",
+   "subject": "天文学_天体测量学"
+  },
+  {
+   "cn": "银经",
+   "en": "galactic longitude",
+   "code": "02.063",
+   "standard": "天文学名词",
+   "subject": "天文学_天体测量学"
+  },
+  {
+   "cn": "天文经度",
+   "en": "astronomical longitude",
+   "code": "02.081",
+   "standard": "天文学名词",
+   "subject": "天文学_天体测量学"
+  },
+  {
+   "cn": "地心经度",
+   "en": "geocentric longitude",
+   "code": "02.282",
+   "standard": "天文学名词",
+   "subject": "天文学_天体测量学"
+  },
+  {
+   "cn": "大地经度",
+   "en": "geodetic longitude",
+   "code": "02.284",
+   "standard": "天文学名词",
+   "subject": "天文学_天体测量学"
+  },
+  {
+   "cn": "经度",
+   "en": "longitude",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "经度",
+   "en": "longitude",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "经度",
+   "en": "longitude",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "经度",
+   "en": "longitude",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "黄经",
+   "en": "ecliptic longitude\",\"celestial longitude",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "黄经",
+   "en": "celestial longitude",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "大地经度",
+   "en": "geodetic longitude",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "地面经度",
+   "en": "terrestrial longitude",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "地心经度",
+   "en": "geocentric longitude",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "活动经度",
+   "en": "active longitude",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
