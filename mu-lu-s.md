@@ -1492,7 +1492,7 @@ outline: [1, 6]
 * [罗伯特·波义耳 Boyle, Robert (Peter Anstey and Jan-Erik Jones)](b/boyle.md)
 * [艾萨克·牛顿 Newton, Isaac (George Smith)](n/newton.md)
   * [牛顿对空间、时间和运动的观点 views on space, time, and motion (Robert Rynasiewicz)](n/newton-stm.md)
-  * [牛顿的哲学 philosophy (Andrew Janiak)](n/newton-philosophy.md)
+  * [牛顿的哲学 Newton’s Philosophy (Andrew Janiak)](n/newton-philosophy.md)
     * [自然哲学的数学原理 Philosophiae Naturalis Principia Mathematica (George Smith)](n/newton-principia.md)
 * [皮埃尔·迪昂 Duhem, Pierre (Roger Ariew)](d/duhem.md)
 * [勒伊岑·艾赫贝特斯·扬·布劳威尔 Brouwer, Luitzen Egbertus Jan (Mark van Atten)](b/brouwer.md)
@@ -1594,7 +1594,7 @@ outline: [1, 6]
 * [本体论与信息系统 Ontology and Information Systems (Adam Pease)](o/ontology-is.md)
 * [模式生物 Model Organisms (Michael Dietrich and Nedah Nemati)](m/model-organisms.md)
 * [语义概念的信息 semantic conceptions of (Sebastian Sequoiah-Grayson and Luciano Floridi)](i/information-semantic.md)
-* [信息技术与道德价值 and moral values (John Sullins)](i/it-moral-values.md)
+* [信息技术与道德价值 Information Technology and Moral Values (John Sullins)](i/it-moral-values.md)
 * [信息技术伦理学的现象学方法 phenomenological approaches to ethics and (Lucas Introna)](e/ethics-it-phenomenology.md)
 * [隐私与信息技术 privacy and information technology (Jeroen van den Hoven, Martijn Blaauw, Wolter Pieters, and Martijn Warnier)](i/it-privacy.md)
 * [逻辑与信息 and information (Maricarmen Martinez and Sebastian Sequoiah-Grayson)](l/logic-information.md)
@@ -1826,7 +1826,7 @@ outline: [1, 6]
 * [奇迹 miracles (Timothy McGrew and Robert Larmer)](m/miracles.md)
 * [神学意志主义 voluntarism, theological (Mark Murphy)](v/voluntarism-theological.md)
   * [上帝与其他终极存在 and other ultimates (Jeanine Diller)](g/god-ultimates.md)
-  * [上帝和其他必然存在 and other necessary beings (Matthew Davidson)](g/god-necessary-being.md)
+  * [上帝和其他必然存在 God and Other Necessary Beings (Matthew Davidson)](g/god-necessary-being.md)
 
 ### 基督教
 
@@ -2039,7 +2039,7 @@ outline: [1, 6]
 ### 社会正义（结构性不平等和不公正、对待他人的平等和尊重）
 
 * [歧视 discrimination (Anthony Sangiuliano)](d/discrimination.md)
-* [分配正义与实证道德心理学 and empirical moral psychology (Christian B. Miller)](j/justice-moral-psych.md)
+* [分配正义与经验道德心理学 Distributive Justice and Empirical Moral Psychology (Christian B. Miller)](j/justice-moral-psych.md)
 * [平等 equality (Stefan Gosepath)](e/equality.md)
 * [剥削 exploitation (Matt Zwolinski, Benjamin Ferguson, and Alan Wertheimer)](e/exploitation.md)
 * [公正 impartiality (Troy Jollimore)](i/impartiality.md)

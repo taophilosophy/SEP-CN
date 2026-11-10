@@ -2,7 +2,7 @@
   "slug": "intuitionism",
   "kind": "retranslate",
   "zh_doc": "i/intuitionism.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-11-09T04:14:46Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "I-main-20261110",
+      "at": "2026-11-09T18:52:01Z",
+      "evidence": "账本 p5（段 107–154）双版落盘：§5.2 分析学—§6.4 有限主义（海廷算术/无规律序列/创造主体形式化/基础/反推数学/哲学）；lqi.py check 154 段守恒 HARD=0（软旗：机械段 step1==step2 12 处、* 计数 6 段属斜体改引号）；compose --write 37144 字符 474 行"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "I-main-20261110",
+      "at": "2026-11-09T18:52:01Z",
+      "evidence": "一校（准确性）对照 yuanwen/i/intuitionism.md：段落块 191=191、节标题 34=34、脚注 marker 48=48（零缺零多，撇号归一）、defs 键 72=72、年份序列全等、货币符号计数 650=650；修正相关词条无载项 Hilbert, David→大卫·希尔伯特；人名定名按册回改勒伊岑·艾赫贝特斯·扬·布劳威尔、根岑→Gentzen 演算"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "I-main-20261110",
+      "at": "2026-11-09T18:52:01Z",
+      "evidence": "二校（语言）check_prose --strict 12→1：long-sentence 5、weak-verb 3、de-chain 3、passive-bei 1 逐条实修；余 1 条 L39 为源文直引块（布劳威尔两幕引文）按 ADR-0020 豁免留痕"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "I-main-20261110",
+      "at": "2026-11-09T18:52:02Z",
+      "evidence": "三校（体例）check_style --docs --strict 0 issue（角引号 18 对→弯引号、CJK 斜体 19 处→加粗含空格补齐）；check_academic --strict 无硬错误；check_math 294 公式 missing 0；术语登记 47 条、人名 23 条并 registry_azsort 归位"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "I-main-20261110",
+      "at": "2026-11-09T19:44:23Z",
+      "evidence": "r1 初审：通读成稿 474 行全文逐节对照 yuanwen/i/intuitionism.md；实修 1 处误植（§2.2 KS 段「天然数序列」→「自然数序列」，源 natural numbers）；叙述汉名补登 4 行（范德瓦尔登/克鲁斯卡尔/博雷尔/勒贝格）；术语抽查 无规律序列/合规律的/创造主体/棒·扇/邻域函数 与 §3–§5 用词一致"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "I-main-20261110",
+      "at": "2026-11-09T19:44:23Z",
+      "evidence": "r2 复审（逐句回核）：§2.2 创造主体、§5.4 CS1–CS3 与 KS、§6.2 维特根斯坦引文与 Marion 转述逐句对照源文；公式 294 条 missing 0 unbalanced 0；defs 照录区逐键 72:72；引文键与年份照录核销"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "I-main-20261110",
+      "at": "2026-11-09T19:44:24Z",
+      "evidence": "r3 终审：定点四项绿（style 0 / academic 硬 0 / prose 1 条为直引块豁免留痕 / math 0）+ 对账五项全等（段落 191:191、节 34:34、marker 48:48、defs 72:72、货币符号 650:650）+ check_terms 绿（本批术语 47 行、人名 27 行入库）；check_all 两红系并行会话在途（j/justice-moral-psych H1 未联动、early-modern-india 登记冲突与 han-dynasty Lüshi 同译异键重复），非本词条项；冷置回读后签字"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "I-main-20261110",
+      "at": "2026-11-09T19:44:25Z",
+      "evidence": "I 批倒序 #69 收口：账本 154 段守恒、成稿 37144 字符、六道留痕齐备；done"
     }
   ],
   "blockers": [],

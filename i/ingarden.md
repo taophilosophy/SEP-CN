@@ -107,7 +107,7 @@
 
 ## 4 影响
 
-英伽登对哲学与文学研究的影响日增。其现象学美学进路对 Mikel Dufrenne 的《审美经验现象学》（1953）影响甚深。他论文学的著作（尤其《文学的艺术作品》）于文学研究影响极大：Wolfgang Kayser 的《语言的文学作品》以及新批评与读者反应理论两个学派（分别见于 René Wellek 与 Wolfgang Iser 等理论家的著述）都留有痕迹。他在分析哲学中影响最大的领域同样是美学：其艺术本体论与分析美学当代工作（Joseph Margolis、Nelson Goodman、Jerrold Levinson 等）多有呼应。Świderski（2023）把他的音乐美学贡献与 Scruton、Levinson 近作相较。近来“审美态度”之争复兴，他论审美经验的研究也重被讨论。用 Harri Mäcklin 的话说：“英伽登关于审美态度的思考，在许多方面预示、超出并扩充了当代关于审美注意的争论”（2023, 139）。虚构与虚构人物理论（如 Thomasson 1999）[^thomasson-1999]受其影响甚深。也有人借他的工作理解新的艺术形式：Matthew Gladden（2023）援引英伽登的具体化概念与艺术作品的“生命周期”概念，解释 1980 年代那些相对不确定的 8 位电脑游戏何以长葆魅力。
+英伽登对哲学与文学研究的影响日增。其现象学美学进路对 Mikel Dufrenne 的《审美经验现象学》（1953）影响甚深。他论文学的著作（尤其《文学的艺术作品》）于文学研究影响极大：Wolfgang Kayser 的《语言的艺术作品》以及新批评与读者反应理论两个学派（分别见于 René Wellek 与 Wolfgang Iser 等理论家的著述）都留有痕迹。他在分析哲学中影响最大的领域同样是美学：其艺术本体论与分析美学当代工作（Joseph Margolis、Nelson Goodman、Jerrold Levinson 等）多有呼应。Świderski（2023）把他的音乐美学贡献与 Scruton、Levinson 近作相较。近来“审美态度”之争复兴，他论审美经验的研究也重被讨论。用 Harri Mäcklin 的话说：“英伽登关于审美态度的思考，在许多方面预示、超出并扩充了当代关于审美注意的争论”（2023, 139）。虚构与虚构人物理论（如 Thomasson 1999）[^thomasson-1999]受其影响甚深。也有人借他的工作理解新的艺术形式：Matthew Gladden（2023）援引英伽登的具体化概念与艺术作品的“生命周期”概念，解释 1980 年代那些相对不确定的 8 位电脑游戏何以长葆魅力。
 
 英伽登对教宗若望·保禄二世（卡罗尔·沃伊蒂瓦）的生平与事功亦有重要影响。他是沃伊蒂瓦在克拉科夫雅盖隆大学时的老师，把后者引入现象学，二人后来在现象学上还有合作（Kuliniak and Pandura 2025, 4）[^kuliniak-2025]。沃伊蒂瓦从英伽登及自己对马克斯·舍勒的研究中，接受了一种实在论现象学进路，它兼有“对人类主体不可还原性的坚持与对客观实在的承认”（Köchler 2008. 175）[^köchler-2008]。1970 年，沃伊蒂瓦还在英伽登葬礼上致悼词（Rice 2008, 305）[^rice-2008]。关于沃伊蒂瓦的哲学工作、其与现象学的关系、以及他作为若望·保禄二世的牧职，见 Köchler（2008）。
 
@@ -116,14 +116,6 @@
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
-
-### Select Works in German
-
-### Select Works in Polish
-
-### Select Works in English Translation
-
-### Other Works Cited
 
 [^intuition-1921]: *Intuition und Intellekt bei Henri Bergson*, Halle: Max Niemeyer, 1921.
 [^essentiale-1925]: *Essentiale Fragen. Ein Beitrag zum Problem des Wesens*, Halle: Max Niemeyer, 1925.

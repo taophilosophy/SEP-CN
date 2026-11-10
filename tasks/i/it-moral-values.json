@@ -2,7 +2,7 @@
   "slug": "it-moral-values",
   "kind": "retranslate",
   "zh_doc": "i/it-moral-values.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-11-08T14:22:33Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "I-main-20261110",
+      "at": "2026-11-09T21:55:04Z",
+      "evidence": "账本 p9（段 99–114）双版落盘：§4 道德的信息技术（道德发现模型/道德系统/信息有机体）收口，含 oir 1 段与 note 2 段；lqi check 114 段守恒 HARD=0（软旗 10 段机械段）；compose 55376 字符 415 行；同时修 SUMMARY/mu-lu-s 截断标题（信息技术与道德价值 Information Technology and Moral Values）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "I-main-20261110",
+      "at": "2026-11-09T21:55:05Z",
+      "evidence": "一校（准确性）：段落块 123 vs 122（差 1 为 byline 豁免）、节标题 26 vs 27（源端空 ## Notes（原文脚注） 不镜像）、脚注 marker 124=124、defs 157=157、年份 343=343、公式 0；相关词条 property: intellectual→知识产权；正文交叉引用改 SUMMARY 定名（亚里士多德的伦理学）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "I-main-20261110",
+      "at": "2026-11-09T21:55:05Z",
+      "evidence": "二校（语言）check_prose --strict 36→1：实修 35 处（long-sentence 17、de-chain 12、passive-bei 3、weak-verb 2、plural-men 1）逐条改写；余 1 条 L85 为 Clarke 引布兰德直引块，按 ADR-0020 豁免留痕"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "I-main-20261110",
+      "at": "2026-11-09T21:55:06Z",
+      "evidence": "三校（体例）：check_style --docs --strict 0 issue；check_academic --strict 无硬错误；check_math 0 公式；check_terms 绿（本批术语 25 行、人名 55 行）；弗洛里迪定名统一为卢西亚诺（沿册内先登）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "I-main-20261110",
+      "at": "2026-11-09T22:03:06Z",
+      "evidence": "r1 初审：通读成稿 415 行全文；修正文交叉引用 SUMMARY 定名（亚里士多德的伦理学）与书名体例（《道德机器》补拉丁原名斜体）；抽查 §2.1.1 隐私三说（Westin 控制说／Tavani–Moor 有限控制／Nissenbaum 语境）与源文对位无误"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "I-main-20261110",
+      "at": "2026-11-09T22:03:06Z",
+      "evidence": "r2 复审：§3.1.3 透明性悖论三引文（扎克伯格股东信／O'Neill 2002／Vallor 2016）逐句回核；§3.4.2 AI/ALife 史实（图灵 1950、Bedau 两形态、Langton 圈 1989、Venter 2010 合成细胞）核销；marker 124=124、defs 157=157 复核"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "I-main-20261110",
+      "at": "2026-11-09T22:03:07Z",
+      "evidence": "r3 终审：四项定点绿（style 0／academic 硬 0／prose 1 直引豁免／math 0）+ 对账（段落差 1 为 byline、源端空 Notes 标题不镜像已判读）+ check_terms 绿；check_all 两红系并行会话在途（j/justice-moral-psych H1、early-modern-india 登记冲突），非本词条项"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "I-main-20261110",
+      "at": "2026-11-09T22:03:07Z",
+      "evidence": "I 批在途件收口：账本 114 段守恒、成稿 55376 字符 415 行、六道留痕齐备；done"
     }
   ],
   "blockers": [],

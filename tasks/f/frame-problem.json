@@ -2,7 +2,7 @@
   "slug": "frame-problem",
   "kind": "retranslate",
   "zh_doc": "f/frame-problem.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-06T10:58:03Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "F-main-20261110",
+      "at": "2026-11-09T20:33:05Z",
+      "evidence": "账本 40 段 step1/step2 双版齐；lq.py check HARD=0（SOFT 16 条留痕：5 机械标题段、5 处斜体→中文粗体体例转换、6 处 * 计数漂移）；compose --write 落盘 17126 字符"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "F-main-20261110",
+      "at": "2026-11-09T20:33:05Z",
+      "evidence": "对账五项全等：内联 marker 60:60、defs 45:45、节 9:9、段 35:35、键序一致；引用组与书名照录复核；相关词条 9 条全匹配无 NOTE；同键异译回改 心智计算理论→心灵计算理论（SUMMARY 定名）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "F-main-20261110",
+      "at": "2026-11-09T20:38:13Z",
+      "evidence": "check_prose 告警 14 处全部实修（weak-verb 3、long-sentence 7、de-chain 4），豁免 0，复跑残余 0；check_style --strict 0 issue"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "F-main-20261110",
+      "at": "2026-11-09T20:38:14Z",
+      "evidence": "check_academic --strict OK（非存根 1）；check_math 0 missing/unbalanced；术语登记 24 行、人名登记 10 行（Brooks 复用 bodily-awareness 既有行同译名）；登记册按 index=HEAD+己方行外科暂存防他会扫走"
     }
   ],
   "blockers": [],
