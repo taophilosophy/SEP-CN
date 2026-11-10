@@ -68,7 +68,7 @@
    "phase": "translate",
    "claimed_by": "I-main-20261110",
    "claimed_at": "2026-11-09T16:55:09Z",
-   "note": "2026-11-10 倒序线（I-main-20261110 承接 I-main-20261109，用户指令全权负责 I 条目）：intuitionism 收口 done（154 段全填、compose 37144 字符、对账五项全等、术语 47+人名 27）；it-moral-values 收口 done（114 段全填、compose 55376 字符、SUMMARY/mu-lu-s 截断标题补全、术语 25+人名 55）。I 批现 done 24/75。余：s3_checked 2（illumination 90/90、ingarden 55/55，待 r1–r3）、cleared 6（immunology 空壳、intrinsic-extrinsic／information-biological／impossible-worlds／imaginative-resistance 为 11-02 快照遗留无账本、待重走账本）、pending 43。下一条：illumination r1–r3 → 倒序队列 #68 intuitionistic-logic-development（175,231 词，需分多批）。",
+   "note": "2026-11-10 I-main-20261110（用户指令全权负责 I 条目，主会话直译）：本会话收口 4 条——intuitionism（154 段，37144 字符，术语 47+人名 27）、it-moral-values（114 段，55376 字符，SUMMARY/mu-lu-s 标题补全，术语 25+人名 55）、illumination（r1–r3，45038 字符）、ingarden（r1–r3，49668 字符）。I 批现 done 26/75。余：cleared 5（imaginative-resistance 12,032 词／information-biological 12,870 词／intrinsic-extrinsic 14,084 词／immunology 15,380 词／impossible-worlds 16,773 词，均须按 ADR-0021 重走账本，快照正文不得作底稿）、pending 43。下一顺位：imaginative-resistance（体量最小）→ information-biological → intrinsic-extrinsic → immunology → impossible-worlds；其后倒序队列 #68 intuitionistic-logic-development（175,231 词）。",
    "advanced_at": "2026-11-09T07:43:02Z"
   },
   "j": {
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-10T02:50:00Z"
+ "updated_at": "2026-11-10T04:10:00Z"
 }
