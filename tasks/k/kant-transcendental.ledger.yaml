@@ -1,0 +1,896 @@
+version: 1
+slug: kant-transcendental
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Among Immanuel Kant’s (1724–1804) most influential contributions to philosophy is his development of the transcendental argument. In Kant’s conception, an argument of this kind begins with a compelling premise about our thought, experience, or knowledge, and then reasons to a conclusion that is a substantive and unobvious presupposition and necessary condition of this premise. The crucial steps in this reasoning are claims to the effect that a subconclusion or conclusion is a presupposition and necessary condition of a premise. Such a necessary condition might be a logically necessary condition, but often in Kant’s transcendental arguments the condition is necessary in the sense that it is the only possible explanation for the premise, whereupon the necessity might be weaker than logical. Typically, this reasoning is intended to be *a priori* in some sense, either strict (Smit 1999)[^smit-1999] or more relaxed (Philip Kitcher 1981, Pereboom 1990)[^kitcher-1981][^pereboom-1990]. The conclusion of the argument is often directed against skepticism of some sort. For example, Kant’s Transcendental Deduction targets Humean skepticism about the applicability of *a priori* metaphysical concepts, and his Refutation of Idealism takes aim at skepticism about external objects. These two transcendental arguments are found in the *Critique of Pure Reason* (1781, 1787), but such arguments are found throughout Kant’s writings, for example in the *Groundwork of the Metaphysics of Morals* (1785), in the *Critique of Practical Reason* (1788), in the *Critique of the Power of Judgment* (1790), and in the *Opus Posthumum* (1804; Förster 1989)[^förster-1989]. This article focuses on the Transcendental Deduction, the Refutation of Idealism, several transcendental arguments that are inspired by Kant’s work. (For recent general accounts of the nature of transcendental arguments, see Stern and Cheng 2023 and Jędrczak 2026.)[^jędrczak-2026][^stern-2023]
+    step1: |-
+      伊曼努尔·康德（1724–1804）对哲学最具影响力的贡献之一，是他对先验论证的发展。在康德的构想中，这类论证从一个关于我们思想、经验或知识的强前提开始，然后推论出一个作为该前提之实质而并不显见的预设与必要条件的结论。这一推理的关键步骤，是主张某个子结论或结论乃某前提的预设与必要条件。这样的必要条件可以是逻辑上必要的条件，但在康德的先验论证中，这一条件常常是“唯一可能的解释”意义上的必要——就此而言，其必要性也许弱于逻辑必然性。通常，这一推理意在某种意义上成为*先天*的，或取严格意义（Smit 1999）[^smit-1999]，或取较宽松的意义（Philip Kitcher 1981, Pereboom 1990）[^kitcher-1981][^pereboom-1990]。论证的结论常针对某种怀疑论。例如，康德的先验演绎针对休谟关于先天形而上学概念之适用性的怀疑论，而其驳斥唯心论则针对关于外部对象的怀疑论。这两项先验论证见于《纯粹理性批判》（1781, 1787），但这类论证遍见于康德著作，例如《道德形而上学奠基》（1785）、《实践理性批判》（1788）、《判断力批判》（1790）以及《遗著》（1804；Förster 1989）[^förster-1989]。本文聚焦先验演绎、驳斥唯心论，以及若干受康德工作启发的先验论证。（关于先验论证本性的晚近综论，见 Stern and Cheng 2023 与 Jędrczak 2026。）[^jędrczak-2026][^stern-2023]
+    step2: |-
+      伊曼努尔·康德（1724–1804）对哲学最具影响力的贡献之一，是他对先验论证（transcendental argument）的发展。在康德的构想中，这类论证以一个关于我们思想、经验或知识的强前提开篇，进而推论出一个结论：该结论是这一前提的实质而并不显见的预设与必要条件。推理的关键步骤，是主张某个子结论或结论乃某前提的预设与必要条件。这样的必要条件可以是逻辑上必要的条件；但在康德的先验论证中，该条件常常是“唯一可能的解释”意义上的必要——就此而言，其必要性也许弱于逻辑必然性。通常，这一推理意在某种意义上成为*先天*的，或取严格意义（Smit 1999）[^smit-1999]，或取较宽松的意义（Philip Kitcher 1981, Pereboom 1990）[^kitcher-1981][^pereboom-1990]。论证的结论常针对某种怀疑论。例如，康德的先验演绎针对休谟关于先天形而上学概念之适用性的怀疑论，其驳斥唯心论则针对关于外部对象的怀疑论。这两项先验论证见于《纯粹理性批判》（1781, 1787），但这类论证遍见于康德著作，例如《道德形而上学奠基》（1785）、《实践理性批判》（1788）、《判断力批判》（1790）以及《遗著》（1804；Förster 1989）[^förster-1989]。本文聚焦先验演绎、驳斥唯心论，以及若干受康德工作启发的先验论证。（关于先验论证本性的晚近综论，见 Stern and Cheng 2023 与 Jędrczak 2026。）[^jędrczak-2026][^stern-2023]
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. The Transcendental Deduction
+    step1: |-
+      ## 1 先验演绎
+    step2: |-
+      ## 1 先验演绎
+  - id: 3
+    kind: body
+    source: |-
+      The Transcendental Deduction (A84–130, B116–169) is Kant’s attempt to demonstrate against classical empiricism that certain *a priori* concepts correctly apply to objects featured in our experience. Dieter Henrich (1989; cf., Proops 2003)[^proops-2003] points out that Kant’s use of ‘*Deduktion*’ redeploys German legal vocabulary; in Holy Roman Empire Law, ‘*Deduktion*’ signifies an argument intended to yield a historical justification for the legitimacy of a property claim. In Kant’s derivative epistemological sense, a deduction is an argument that aims to justify the use of a concept, one that demonstrates that the concept correctly applies to objects. For Kant a concept is *a priori* just in case its source is the faculty of the understanding of the subject and not in sensory experience (A80/B106; Strawson 1966: 86)[^strawson-1966]. The specific *a priori* concepts whose applicability to objects of experience Kant aims to vindicate in the Transcendental Deduction are given in his Table of Categories (A80/B106); they are Unity, Plurality, and Totality (the Categories of Quantity); Reality, Negation, and Limitation (the Categories of Quality); Inherence and Subsistence, Causality and Dependence, and Community (the Categories of Relation), and Possibility-Impossibility, Existence-Nonexistence, Necessity-Contingency (the Categories of Modality).
+    step1: |-
+      先验演绎（A84–130, B116–169）是康德针对古典经验论、用以证明某些*先天*概念确实适用于我们经验中的对象的尝试。迪特·亨利希（Dieter Henrich 1989；参 Proops 2003）[^proops-2003]指出，康德对“*Deduktion*”一词的使用挪用了德国法律语汇；在神圣罗马帝国法中，“*Deduktion*”指一种旨在为某项财产主张的正当性提供历史性辩护的论证。在康德派生的知识论意义上，演绎是一种旨在证成一个概念之使用的论证，它表明该概念确实适用于对象。对康德而言，一个概念是*先天*的，当且仅当其来源是主体的知性能力，而非感官经验（A80/B106；Strawson 1966: 86）[^strawson-1966]。康德在先验演绎中力图证成其适用于经验对象的那些特定*先天*概念，见其范畴表（A80/B106）：单一性、多数性、全体性（量之范畴）；实在性、否定性、限制性（质之范畴）；依存性与自存性、因果性与依赖性、协同性（关系之范畴）；以及可能性—不可能性、存在—不存在、必然性—偶然性（模态之范畴）。
+    step2: |-
+      先验演绎（A84–130, B116–169）是康德针对古典经验论、用以证明某些*先天*概念确实适用于我们经验中对象的尝试。迪特·亨利希（Dieter Henrich 1989；参 Proops 2003）[^proops-2003]指出：康德对“*Deduktion*”一词的使用挪用了德国法律语汇——在神圣罗马帝国法中，“*Deduktion*”指一种旨在为某项财产主张之正当性提供历史性辩护的论证。在康德派生的知识论意义上，演绎是一种旨在证成一个概念之使用的论证，它表明该概念确实适用于对象。对康德而言，一个概念是*先天*的，当且仅当其来源是主体的知性能力，而非感官经验（A80/B106；Strawson 1966: 86）[^strawson-1966]。康德在先验演绎中力图证成其适用于经验对象的那些特定*先天*概念，见其范畴表（A80/B106）：单一性、多数性、全体性（量之范畴）；实在性、否定性、限制性（质之范畴）；依存性与自存性、因果性与依赖性、协同性（关系之范畴）；以及可能性—不可能性、存在—不存在、必然性—偶然性（模态之范畴）。
+  - id: 4
+    kind: body
+    source: |-
+      The empiricist David Hume (1711–1776) in effect denies that a deduction can be provided for a number of metaphysical concepts – *ideas*, in his terminology – including the ideas of personal identity, of identity over time more generally, of the self as a subject distinct from its perceptions, and of causal power or force (1739, 1748). In Hume’s view, a concept can be validated only by finding a sensory experience, that is, an *impression*, in particular the one that is the ‘original’ of that idea, that resembles the idea. But because, for example, any attempt to find an impression of causal power turns out to be fruitless, Hume concludes that this idea does not legitimately apply (1748: §7). In Kant’s terminology, Hume is determining whether it’s possible to provide an *empirical* deduction of the concept of causal power (A85/B117), and from the failure of the attempt to do so, he concludes that this concept lacks *objective validity*, that is, it does not apply to the objects of our experience as they are independently of our subjective states (e.g., Kraus 2020, 22–24)[^kraus-2020].
+    step1: |-
+      经验论者大卫·休谟（1711–1776）实际上否认能为若干形而上学概念——用他的术语说，是若干*观念*——提供演绎，其中包括人格同一性、更一般的时间中的同一性、作为区别于其知觉的主体之自我，以及因果力或因果力的观念（1739, 1748）。在休谟看来，一个概念唯有找到与之相似的感官经验，即一个*印象*——尤其是作为该观念“原本”的那个印象——才能得到证成。但由于例如任何寻找因果力之印象的尝试都归于徒劳，休谟便结论说这一观念并不合法地适用（1748: §7）。用康德的术语说，休谟是在判定能否为因果力概念提供一种*经验性*演绎（A85/B117）；而由这一尝试的失败，他结论说该概念缺乏*客观有效性*——即它并不适用于我们经验的对象，就这些对象独立于我们主观状态而言（例如 Kraus 2020, 22–24）[^kraus-2020]。
+    step2: |-
+      经验论者大卫·休谟（1711–1776）实际上否认能为若干形而上学概念——用他的术语说，是若干*观念*——提供演绎，其中包括人格同一性、更一般的时间中的同一性、作为区别于其知觉的主体之自我，以及因果力或因果作用力的观念（1739, 1748）。在休谟看来，一个概念唯有找到与之相似的感官经验——即一个*印象*，尤其是作为该观念“原本”的那个印象——才能得到证成。但由于例如任何寻找因果力之印象的尝试都归于徒劳，休谟便结论说：这一观念并不合法地适用（1748: §7）。用康德的术语说，休谟是在判定能否为因果力概念提供一种*经验性*演绎（A85/B117）；由这一尝试的失败，他结论说该概念缺乏*客观有效性*——即它并不适用于我们经验的对象，就这些对象独立于我们主观状态而言（例如 Kraus 2020, 22–24）[^kraus-2020]。
+  - id: 5
+    kind: body
+    source: |-
+      Hume’s position on the deducibility of *a priori* metaphysical concepts is Kant’s quarry in the Transcendental Deduction. But Kant concurs with Hume’s proposal that no empirical deduction can be supplied for such concepts. Instead, he sets out to provide a different sort of justification for their use, one that is *transcendental* rather than empirical. Such a transcendental deduction begins with a premise about any possible human experience, a premise to which reasonable participants in the debate can be expected initially to agree, and then contends that a presupposition and necessary condition of the truth of that premise is the applicability of the *a priori* concepts in question to the objects of experience. Kant’s Transcendental Deduction features a number of component transcendental arguments. Each begins with a premise either about the self-attributability of mental items, *apperception*, or else a premise about the necessity and universality of some feature of our experience of objects. Kant’ strategy is to establish a theory of mental processing, *synthesis*, by arguing that its truth is a necessary condition for the truth of such a premise, and then to show that the *a priori* concepts at issue – the categories – play an essential role in this sort of mental processing. On a metaphysical idealist interpretation of his position, the objects of experience result from this mental processing, and it is in virtue of the role that the categories play in this processing that they correctly apply to objects. In the Transcendental Deduction Kant would thus intend to secure a normative claim, that the categories correctly apply to the objects of our experience, by establishing a psychological theory (Henrich 1989; Patricia Kitcher 1990: 2–29; for information on related argumentative strategies in Kant’s historical context, see Kuehn 1997 and Dyck 2011)[^dyck-2011][^henrich-1989][^kitcher-1990][^kuehn-1997]. The Transcendental Deduction presents general considerations supporting the applicability of all the categories to the objects of our experience; it does not concentrate on the applicability of specific categories. This more focused task is taken up in the Analytic of Principles (A130–235/B169–287).
+    step1: |-
+      休谟关于先天形而上学概念可演绎性的立场，是康德在先验演绎中的猎物。但康德同意休谟的提议：此类概念无法提供经验性演绎。他转而着手为它们的使用提供另一种证成——一种*先验的*而非经验性的证成。这样的先验演绎始于一个关于任何可能人类经验的前提，一个论辩中理性的参与者起初可望同意的前提；然后主张：该前提之真的一个预设与必要条件，就是所论先天概念对经验对象的可适用性。康德的先验演绎包含若干组成部分性的先验论证。每一论证或始于关于心理事项之自我归赋——即*统觉*——的前提，或始于关于我们对象经验之某特征的必要性与普遍性的前提。康德的策略是：先论证一种心理加工理论即*综合*之真乃此类前提之真的必要条件，从而确立该理论；然后再表明所论先天概念——范畴——在这种心理加工中起本质作用。按其立场的形而上学唯心论解读，经验的对象由这一心理加工产生，而范畴正是凭借在此加工中所起的作用而正确地适用于对象。于是，康德在先验演绎中便意在通过确立一种心理学理论，来确保一个规范性主张：范畴正确地适用于我们经验的对象（Henrich 1989；Patricia Kitcher 1990: 2–29；关于康德历史语境中相关论证策略的信息，见 Kuehn 1997 与 Dyck 2011）[^dyck-2011][^henrich-1989][^kitcher-1990][^kuehn-1997]。先验演绎呈现的是支持一切范畴适用于我们经验对象的一般性考虑，并不专注于特定范畴的可适用性；这一更聚焦的任务由《原理分析论》（A130–235/B169–287）承担。
+    step2: |-
+      休谟关于先天形而上学概念可演绎性的立场，是康德在先验演绎中的猎物。但康德同意休谟的提议：此类概念无法提供经验性演绎。他转而着手为它们的使用提供另一种证成——一种*先验的*而非经验性的证成。这样的先验演绎始于一个关于任何可能人类经验的前提，一个论辩中理性参与者起初可望同意的前提；然后主张：该前提之真的一个预设与必要条件，就是所论先天概念对经验对象的可适用性。康德的先验演绎包含若干组成部分性的先验论证。每一论证或始于关于心理事项之自我归赋——即*统觉*——的前提，或始于关于我们对象经验之某特征的必要性与普遍性的前提。康德的策略是：先论证一种心理加工理论即*综合*之真乃此类前提之真的必要条件，从而确立该理论；再表明所论先天概念——范畴——在这种心理加工中起本质作用。按其立场的形而上学唯心论解读，经验的对象由这一心理加工产生，而范畴正是凭借在此加工中所起的作用而正确地适用于对象。于是，康德在先验演绎中便意在通过确立一种心理学理论，来确保一个规范性主张：范畴正确地适用于我们经验的对象（Henrich 1989；Patricia Kitcher 1990: 2–29；关于康德历史语境中相关论证策略的信息，见 Kuehn 1997 与 Dyck 2011）[^dyck-2011][^henrich-1989][^kitcher-1990][^kuehn-1997]。先验演绎呈现的是支持一切范畴适用于我们经验对象的一般性考虑，并不专注于特定范畴的可适用性；这一更聚焦的任务由《原理分析论》（A130–235/B169–287）承担。
+  - id: 6
+    kind: body
+    source: |-
+      In the *Metaphysical Deduction* (A66–83, B92–116) Kant intends to derive the categories from the specific modes or forms of any human thought about the world, the *logical forms of judgment*. The Metaphysical Deduction has an essential role in the Transcendental Deduction, and we will discuss this argument at an appropriate juncture (when we reach §19 of the B-Deduction).
+    step1: |-
+      在*形而上学演绎*（A66–83, B92–116）中，康德意欲从任何人类关于世界的思想之特定模式或形式即*判断的逻辑形式*，推导出范畴。形而上学演绎在先验演绎中具有本质作用；我们将在适当关节（讨论到 B 版演绎第 19 节时）讨论这一论证。
+    step2: |-
+      在*形而上学演绎*（A66–83, B92–116）中，康德意欲从任何人类关于世界的思想之特定模式或形式——即*判断的逻辑形式*——推导出范畴。形而上学演绎在先验演绎中具有本质作用；我们将在适当关节（讨论到 B 版演绎第 19 节时）讨论这一论证。
+  - id: 7
+    kind: body
+    source: |-
+      For Kant, the most significant rival theory of mental processing is that of his main empiricist target, Hume. Hume concurs that a theory of experience requires an account of the processing of mental items, but he denies that such an account demands *a priori* concepts or issues in their legitimate applicability to experience. According to his theory, *associationism*, our mental repertoire consists solely of perceptions, all of which are sensory items – the more vivid *impressions*, which constitute sensory experience, and their less vivid copies, *ideas*, which function in imagination, memory, reasoning, and conceptualization (1748, §§2, 3). Association is the process by which these perceptions are related and ordered. A signature feature of association on Hume’s view is that it requires no resources distinct from the perceptions themselves. How perceptions are ordered is solely a function of what perceptions alone can provide. Significantly, a subject not constituted solely of perceptions has no role in Hume’s theory; the Humean subject is just a collection of perceptions (1739: I, IV, vi). These last two features in particular make Humean associationism a highly economical theory, which provides it with an initial advantage over Kant’s more complex view. However, Kant contends that associationism cannot account for the facts to which the premises of the Transcendental Deduction appeal, and that synthesis by *a priori* concepts, that is, the categories, is required in addition.
+    step1: |-
+      对康德而言，最重要的心理加工竞争理论，来自他的主要经验论对手休谟。休谟同意经验理论需要一种关于心理事项加工的说明，但他否认这种说明需要先天概念、或能得出它们对经验的合法适用性。按他的理论即*联想主义*，我们的心理储备仅由知觉构成，而一切知觉都是感官事项——较生动的*印象*构成感官经验，其较不生动的复本*观念*则在想象、记忆、推理与概念化中起作用（1748, §§2, 3）。联想就是把这些知觉关联并排序的过程。休谟观点中联想的一个标志性特征是：它不需要知觉本身之外的任何资源；知觉如何被排序，纯粹是仅凭知觉所能提供者而来的函数。值得注意的是，在休谟的理论中，并非仅由知觉构成的主体没有位置；休谟式的主体只是一个知觉的集合（1739: I, IV, vi）。尤其后两个特征使休谟式联想主义成为一种高度经济的理论，这使它相对于康德更复杂的观点具有初始优势。然而康德主张：联想主义无法说明先验演绎诸前提所诉诸的事实；除联想之外，还需要由*先天*概念即范畴而来的综合。
+    step2: |-
+      对康德而言，最重要的心理加工竞争理论，来自他的主要经验论对手休谟。休谟同意经验理论需要一种关于心理事项加工的说明，但他否认这种说明需要先天概念、或能得出它们对经验的合法适用性。按他的理论即*联想主义*，我们的心理储备仅由知觉构成，而一切知觉都是感官事项——较生动的*印象*构成感官经验，其较不生动的复本*观念*则在想象、记忆、推理与概念化中起作用（1748, §§2, 3）。联想就是把这些知觉关联并排序的过程。休谟观点中联想的一个标志性特征是：它不需要知觉本身之外的任何资源；知觉如何被排序，纯粹取决于仅凭知觉所能提供者。值得注意的是，在休谟的理论中，并非仅由知觉构成的主体没有位置；休谟式的主体只是一个知觉的集合（1739: I, IV, vi）。尤其后两个特征使休谟式联想主义成为一种高度经济的理论，这使它相对于康德更复杂的观点具有初始优势。然而康德主张：联想主义无法说明先验演绎诸前提所诉诸的事实；除联想之外，还需要由*先天*概念即范畴而来的综合。
+  - id: 8
+    kind: body
+    source: |-
+      Kant characterizes synthesis as “the act of putting different representations together, and grasping what is manifold in them in one cognition” (A77/B103); it is a process that “gathers the elements for cognition, and unites them to form a certain content” (A78/B103). Synthesis takes multiple representations – in Kant’s terminology, a ‘manifold’ – and connects them with one another to produce a single further representation with cognitive content (Patricia Kitcher 1990, 2011)[^kitcher-1990]. This process employs concepts as modes or ways of ordering representations. A claim critical to the Transcendental Deduction is that it is the categories by means of which manifolds of our representations are synthesized. Since the understanding of the subject is the source of the categories, and also a faculty that yields synthesis, the subject plays a crucial role in mental processing. It is important for Kant’s view on mental processing that this subject is distinct from its representations or perceptions, and this is another respect in which it differs from Hume’s theory.
+    step1: |-
+      康德把综合刻画为“把不同表象放在一起、并在一个认识中把握其中之杂多的活动”（A77/B103）；它是“为认识收集要素、并联合它们以形成某种内容”的过程（A78/B103）。综合取多个表象——用康德的术语，取一个“杂多”——把它们彼此联结，以产生一个具有认知内容的单一进一步表象（Patricia Kitcher 1990, 2011）[^kitcher-1990]。这一过程把概念用作排序表象的模式或方式。对先验演绎至关重要的一个主张是：正是凭借范畴，我们表象的杂多才得到综合。既然主体的知性是范畴的来源，又是产生综合的能力，主体便在心理加工中起关键作用。对康德的心理加工观来说要紧的是：这一主体区别于其表象或知觉——这又是它不同于休谟理论的一个方面。
+    step2: |-
+      康德把综合刻画为“把不同表象放在一起、并在一个认识中把握其中之杂多的活动”（A77/B103）；它是“为认识收集要素、并联合它们以形成某种内容”的过程（A78/B103）。综合取多个表象——用康德的术语，取一个“杂多”——把它们彼此联结，以产生一个具有认知内容的单一进一步表象（Patricia Kitcher 1990, 2011）[^kitcher-1990]。这一过程把概念用作排序表象的模式或方式。对先验演绎至关重要的一个主张是：正是凭借范畴，我们表象的杂多才得到综合。既然主体的知性是范畴的来源，又是产生综合的能力，主体便在心理加工中起关键作用。对康德的心理加工观来说要紧的是：这一主体区别于其表象或知觉——这又是它不同于休谟理论的一个方面。
+  - id: 9
+    kind: body
+    source: |-
+      This discussion will focus on the Transcendental Deduction in the second edition of the *Critique of Pure Reason* (1787) – the *B-Deduction* – thoroughly rewritten and rethought relative to the *A-Deduction* of the first edition (1781). On my reading, in §§16–20 of the B-Deduction Kant employs a two-pronged strategy for defeating associationism as a complete theory of human mental processing and establishing the need for synthesis. The first, contained in §§15–16, is designed to show that association cannot account for an aspect of one’s consciousness of one’s self that Kant refers to as *the consciousness of its unity*, and that synthesis is required to provide this explanation. This type of argument he calls an *argument from above*, signifying that it begins with a premise about self-consciousness. Correlatively, in §§17–20 we find an *argument from below*, by which Kant intends to establish that synthesis by means of the categories is needed as a necessary condition of how we represent objects (the above/below terminology is derived from A119; for relevant historical background, see Carl 1989, 1992)[^carl-1989]. On several other readings, as we shall see, the B-Deduction is a more unified argument. There are reasons to accept and reasons to resist interpretations of this kind.
+    step1: |-
+      本文讨论将聚焦《纯粹理性批判》第二版（1787）中的先验演绎——即*B 版演绎*——它相对于第一版（1781）的*A 版演绎*经过了彻底重写与重新思考。按我的解读，在 B 版演绎第 16–20 节中，康德采用一种双管齐下的策略，以击败作为人类心理加工完整理论的联想主义、确立综合之必要。第一条策略（第 15–16 节）意在表明：联想不到说明人对自己之意识的一个方面——康德称之为*对其统一性的意识*——而说明此点需要综合。这类论证他称为*自上而下的论证*，意指它始于关于自我意识的前提。相应地，在第 17–20 节中我们看到*自下而上的论证*：康德借此意在确立，以范畴进行的综合乃我们如何表象对象的必要条件（上／下之名取自 A119；相关历史背景见 Carl 1989, 1992）[^carl-1989]。按其他几种解读，如我们将见，B 版演绎是一个更为统一的论证。接受这类解读有理由，抵制它们也有理由。
+    step2: |-
+      本文讨论将聚焦《纯粹理性批判》第二版（1787）中的先验演绎——即*B 版演绎*，它相对于第一版（1781）的*A 版演绎*经过了彻底重写与重新思考。按我的解读，在 B 版演绎第 16–20 节中，康德采用一种双管齐下的策略，以击败作为人类心理加工完整理论的联想主义、确立综合之必要。第一条（第 15–16 节）意在表明：联想不到说明人对自己之意识的一个方面——康德称之为*对其统一性的意识*——而说明此点需要综合。这类论证他称为*自上而下的论证*，意指它始于关于自我意识的前提。相应地，第 17–20 节中则是*自下而上的论证*：康德借此意在确立，以范畴进行的综合乃我们如何表象对象的必要条件（上／下之名取自 A119；相关历史背景见 Carl 1989, 1992）[^carl-1989]。按其他几种解读，如我们将见，B 版演绎是一个更为统一的论证。接受这类解读有理由，抵制它们也有理由。
+  - id: 10
+    kind: body
+    source: |-
+      ### 1.1 Apperception and its Unity
+    step1: |-
+      ### 1.1 统觉及其统一性
+    step2: |-
+      ### 1.1 统觉及其统一性
+  - id: 11
+    kind: body
+    source: |-
+      The argument from above in §16 can be divided into two stages. The goal of the first is to establish the various components of *the principle of the necessary unity of apperception*. The second stage aims to show that synthesis is a necessary condition for the aforementioned aspect of self-consciousness, which this principle highlights. *Apperception* is the apprehension of a mental state – of a representation, in Kant’s terminology – as one’s own; one might characterize it as the self-ascription or self-attribution of a mental state (Strawson 1966: 93–94)[^strawson-1966]. In Kant’s conception, my apperception has *necessary unity* since all of my representations *must* be grounded “in pure apperception, that is, in the thoroughgoing *identity* of the self in all possible representations” (B131–32, emphasis mine). By this he means that:
+    step1: TBD
+    step2: TBD
+  - id: 12
+    kind: body
+    source: |-
+      > (*The principle of the necessary unity of apperception*) It must be the case that each of my representations is such that I can attribute it to my self, a subject which is the same, i.e., numerically identical, for all of my self-attributions, which is distinct from its representations, and which can be conscious of its representations (A116, B131–32, B134–35).
+    step1: TBD
+    step2: TBD
+  - id: 13
+    kind: body
+    source: |-
+      One might note three aspects of the meaning of this principle. First, as pointed out earlier, Kant maintains that the apperceiving subject is not itself a collection of representations. Kant affirms that I have no inner intuition of the subject (e.g. B157), and this claim would conflict with the subject’s being a collection of representations, since he holds that I can intuit my representations by inner sense (e.g. A33/B49). Also, in §16 Kant remarks: “through the ‘I’, as simple representation, nothing manifold is given; only in intuition, which is distinct from the ‘I’, can a manifold be given” (B135). If he held the apperceiving subject to be a collection of representations, it would be surprising for him to deny that anything manifold is given through my representation of it. Second, my ability to attribute representations to myself as subject of them is *pure*, as opposed to *empirical* apperception. This means that I have this ability not in virtue of Humean inner perception, or Kantian inner sense but rather independently of any such empirical faculties and instead by virtue of the faculty of the understanding. However, Kant repeatedly affirms that the purity of this apperception does not imply that the subject to which one’s representations can be attributed is intuited – represented as an object – in a purely rational or *a priori* way (e.g., B406–9; Smit 2009, 2026)[^smit-2009]. Third, Kant states that pure apperception is *original*, and the explication he provides is that “it is that self-consciousness which, while generating the representation ‘I think’ … cannot itself be accompanied by any further representation” (B132). I cannot have a representation of myself as apperceiving subject other than by way of ‘I think…’-type thoughts, and hence these thoughts are the original representations of this subject (e.g., A350). At the same time, by virtue of my capacity for apperception, I can have a kind of propositional grasp of the apperceiving subject; Kant affirms that in apperception, I am conscious *that* I exist as subject (B157). (For recent extensive discussions of Kant on self-knowledge, see Rosefeldt 2000, Kitcher 2011, and Longuenesse 2017; cf. Howell 2001.)[^howell-2001][^kitcher-2011][^longuenesse-2017][^rosefeldt-2000]
+    step1: TBD
+    step2: TBD
+  - id: 14
+    kind: body
+    source: |-
+      Kant initiates the first stage of the argument in §16 by claiming:
+    step1: TBD
+    step2: TBD
+  - id: 15
+    kind: body
+    source: |-
+      > It must be possible for the ‘I think’ to accompany all my representations; for otherwise something would be represented in me which could not be thought at all, and that is equivalent to saying that the representation would be impossible, or at least would be nothing to me. (B131–32)
+    step1: TBD
+    step2: TBD
+  - id: 16
+    kind: body
+    source: |-
+      On one interpretation, the sense in which a representation would be impossible or nothing to me if it could not be accompanied by the ‘I think’ is simply that I could not then become conscious of it (Guyer 1987: 139–44)[^guyer-1987]. It is credible that for any representation of which I am conscious, I can attribute it to myself as subject, assuming my mental faculties are in working order, and if no controversial account of the nature of the subject is presupposed. However, the claim that I can become conscious of *each* of my representations, and that it is therefore possible for me attribute each of them to myself as their subject, is likely false. Plausibly, some of my representations are so thoroughly subconscious that I cannot attribute them to myself, while they are nevertheless mine due to the causal relations they bear to other representations and to actions that are paradigmatically mine. Fortunately, however, the premise that each of my representations is such that I can attribute it to myself is not crucial for the argument from above. Rather, the premise Kant ultimately singles out is less committed, and focuses more specifically on the identity or sameness of the subject of different self-attributions, and my being conscious of this identity.
+    step1: TBD
+    step2: TBD
+  - id: 17
+    kind: body
+    source: |-
+      A number of interpreters, including Robert Howell (1992) and James van Cleve (1999), maintain that the argument of §16 requires a premise affirming the possibility of my being *simultaneously* conscious of the multiple elements of my representations, and that the implausibility of this premise jeopardizes the soundness of the argument. Howell’s specific objection is that Kant does not establish the following crucial premise:
+    step1: TBD
+    step2: TBD
+  - id: 18
+    kind: body
+    source: |-
+      > (S) All of the elements of the manifold of *i* (where *i* is some arbitrary intuition) are such that H is or can become conscious, in thought, that all of those elements, taken together, are accompanied by the *I think*.
+    step1: TBD
+    step2: TBD
+  - id: 19
+    kind: body
+    source: |-
+      (S) asserts that all of the individual elements of the selected intuition are such that the subject is or can become conscious of them simultaneously. In Howell’s interpretation, only if the elements of an intuition together and at the same time are accompanied by the same *I think* will it be plausible that the subject must synthesize these elements (Howell 1992: 162)[^howell-1992]. On van Cleve’s reading, it is required that for any intuition that I have, I actually become simultaneously conscious of its elements. If this co-consciousness were just merely possible, Kant could only conclude is that the resulting representation is only possibly subject to the categories (van Cleve 1999: 84)[^cleve-1999]. On an interpretation of this type, the mechanism of the argument of §16 is to adduce a kind of unity or combination that my representations actually exhibit, and then to argue that this unity requires synthesis by means of the categories as a condition or for its explanation. Kant is thus read as contending that actual co-consciousness is a type of unity that demands synthesis by means of the categories, and that any variety of unity short of co-consciousness will be inadequate to establishing this objective of the Deduction.
+    step1: TBD
+    step2: TBD
+  - id: 20
+    kind: body
+    source: |-
+      Howell points out that (S) contrasts with a weaker claim:
+    step1: TBD
+    step2: TBD
+  - id: 21
+    kind: body
+    source: |-
+      > (W) Each element of the manifold of *i* is such that H is or can become conscious, in thought, that the *I think* accompanies that element. (Howell 1992: 161)[^howell-1992]
+    step1: TBD
+    step2: TBD
+  - id: 22
+    kind: body
+    source: |-
+      which allows that the individual elements of the intuition are such that the subject can only become conscious of each separately, perhaps in turn. He contends, however, that the unity expressed by (W) is insufficient to generate this need for synthesis. If I am merely (possibly or actually) serially conscious of the elements of an intuition, it won’t be required that I synthesize them into a unified intuition. Howell goes on to argue that while (W) is credible, Kant cannot establish (S); it is implausible that such co-consciousness for any arbitrary intuition is actual or even genuinely possible for us. Consequently, the soundness of this argument, and the overall argument of the B-Deduction is imperiled.
+    step1: TBD
+    step2: TBD
+  - id: 23
+    kind: body
+    source: |-
+      However, it may be that only the weaker premise (W) is required for the success of the argument of §16. First, although the co-consciousness premise (S) might be *suggested* in §16 by the following text:
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      > That relation comes about, not simply through my accompanying each representation with consciousness, but only in so far as I conjoin one representation with another, and am conscious of the synthesis of them. (B133)
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      that claim is not uncontroversially made here. For by the assertion that I “am conscious of the synthesis of them,” i.e., of these representations, Kant may mean only that I am conscious that they stand in a certain intimate relation to one another, for instance, that that they are integrated with each other in a way that is distinct from how mine are integrated with yours, and that does not require co-consciousness (Pereboom 1995)[^pereboom-1995].
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      Moreover, it might well be that the argument of §16 features a subtlety that obviates the need for actual co-consciousness. The text indicates that the argument crucially turns on the claim that only *a priori* synthesis – that is, synthesis by *a priori* concepts – can explain *how I might represent the identity of my apperceptive consciousness* (B133) or *how I might represent the identity of the apperceiving subject* (B135) for different elements of the manifold of intuition to which I can attach the *I think*. The inadequacy Kant claims for “empirical consciousness,” that is, for consciousness according to Humean psychological theory, is that “it is in itself dispersed (*an sich zerstreut*) and without relation to the identity of the subject (*und ohne Beziehung auf die Identität des Subjects*)” (B133). One implication of this passage is that Hume’s theory does not have the resources needed to explain how I can self-attribute various of my representations or their elements to a subject that is both conscious of them and the same subject for each act of their self-attribution. This objection does not beg the question in Kant’s dispute with Hume, since it assumes only a claim that uncommitted and reasonable participants in this discussion would not want to initially deny, that the conscious subject of these apperceptive self-attributions is the same. Hume’s theory lacks the resources to account for this identity. Hume himself provides no account of apperception, but possibilities for a Humean account are that apperceptive consciousness amounts to perceptions that are intrinsically self-conscious, or else consists in perceptions of perceptions. But intrinsically self-conscious perceptions would be distinct from one another, as would perceptions of perceptions; and thus they too would be “dispersed” (B133), and share no common element. Hume might propose to explain our sense of the identity of the conscious subject of different self-attributions by the intrinsically self-conscious perceptions or the perceptions of perceptions being components of a single causally coherent bundle. However, this bundle would not itself be conscious of perceptions. Consciousness of perceptions would instead be an intrinsic feature of an individual self-conscious perception or a feature of individual perceptions of a perception. In Kant’s conception, by contrast, accounting for our sense of the identity of the conscious subject of different self-attributions requires that this subject be distinct from its representations.
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      The second stage of the argument of §16 highlights another implication of the claim that “the empirical consciousness, which accompanies different representations, is dispersed and without relation to the identity of the subject” (B133). Kant contends that Hume’s theory lacks the resources to account for my representation of that which is conscious of its various representations *as one and the same subject*, to account for how I “represent to myself the *identity of the consciousness in [i.e. throughout] these representations*” (B133). We might imagine several kinds of explanation for my representation of this identity. One candidate appeals to sensory awareness: the way I represent the identity of the subject is akin to how I commonly represent the identity over time of ordinary objects: directly by sensory awareness of similarities among both intrinsic and relational properties of these objects. For example, I reidentify my car after returning to it in the parking lot by sensory awareness of its color, shape, and location. In the case of the conscious subject, such sensory awareness would be by inner sense. However, Kant and Hume concur that this model does not capture how I represent the identity of the conscious subject, since they agree that by inner sense I cannot represent any intrinsic properties of this subject. A second kind of explanation, which Kant endorses, is that this representation instead accounted for indirectly since it depends on my apprehending *relational properties of the subject’s representations*; specifically, an order they stand in, which Kant calls a *unity* (Allison 1983: 142–44; Guyer 1977: 267, 1987: 133–39; Pereboom 1995; Patricia Kitcher 2011: 147)[^allison-1983][^guyer-1977][^kitcher-2011][^pereboom-1995]. If the representations I can attribute to myself possess such a unity, and if I am conscious of and represent it, then I will be able to represent the conscious subject of any one of these representations as identical with that of any other.
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      Thus my representation of the identity of the subject comes about “only in so far as I conjoin one representation with another, and am conscious of the synthesis of them” (B133). This consciousness is not of the act or process of synthesis itself, but of the unity that is its outcome (Strawson 1966: 94–96; Dicker 2004: 133–4)[^dicker-2004][^strawson-1966]). What sort of unity must I consciously recognize among my representations that would account for my representation of this identity? Note that it is not plausibly co-consciousness, for I represent the subject as identical for self-attributed representations that are not co-conscious, so actual co-consciousness could not explain generally how I represent this sort of identity. A credible alternative is that the unity consists in certain intimate ways in which representations in a single subject are typically related. Arguably, the essential feature of this unity is that a single subject’s representations be inferentially and causally integrated to a high degree, and in this respect they are unified in a way in which representations possessed by discrete subjects are not. Alternatively, several commentators have argued that the relevant unity might be a temporal order among my representations, thereby linking the B-Deduction with the arguments of the Second Analogy and the Refutation of Idealism (Guyer 1977: 267; Dicker 2004: 137–44)[^dicker-2004][^guyer-1977]. A concern about this route is that a cognitive sensitivity to the time-ordering of representations does not obviously facilitate our representing them as belonging to a single subject (Brueckner 1984: 199–208)[^brueckner-1984]. By contrast, when mental states fail to exhibit inferential and causal integration, as in the case of multiple-personality disorder, we have a tendency to posit multiple subjects, while we do not do so when such integration is present.
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      In Kant’s view, the candidates for explaining how this kind of unity comes to be, or, less ambitiously, for explaining my ability to recognize this sort of unity, are association and synthesis. At this point he appears to suppose that because Hume’s psychological theory has already been ruled out, synthesis is the only remaining option. So for me to represent the identity of the subject of different self-attributions, I must generate or at least recognize the right sort of unity among these representations, and synthesis must be invoked to account for this unity. Thus Kant contends that this combination “is an affair of the understanding alone, which itself is nothing but the faculty of combining *a priori*” (B134–5. Since the understanding provides concepts for synthesis, and because for synthesis to be *a priori* is, at least in part, for it to employ *a priori* concepts, Kant is contending here that synthesis by means of *a priori* concepts is required to account for the unity in question.
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      Here is a representation of the structure of transcendental deduction up to this point so far, the argument from above:
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      1. I am conscious of the identity of myself as the subject of different self-attributions of mental states. (premise)
+      2. I am not directly conscious of the identity of this subject of different self-attributions of mental states. (premise)
+      3. If (1) and (2) are true, then this consciousness of identity is accounted for indirectly by my consciousness of a particular kind of unity of my mental states. (premise)
+      4. This consciousness of identity is accounted for indirectly by my consciousness of a particular kind of unity of my mental states. (1, 2, 3)
+      5. If (4) is true, then my mental states indeed have this particular kind of unity. (premise)
+      6. My mental states have this particular kind of unity, (4, 5)
+      7. This particular kind of unity of my mental states cannot be accounted for by association. (premise)
+      8. If (6) is true, then this particular kind of unity of my mental states is accounted for by synthesis by *a priori* concepts. (premise)
+      9. My mental states have a particular kind of unity that is accounted for by synthesis by *a priori* concepts. (7, 8)
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      Premise (1) is intended as a claim the skeptic about the legitimate applicability of *a priori* concepts will at least initially accept. The crucial necessary conditions, expressed by (3) and (7), are necessary conditions of only possible explanation. However, Paul Guyer forcefully argues that establishing the need for synthesis by means of *a priori* concepts would require ruling out the alternative explanation that empirical information and concepts derived from it is sufficient to account for the recognition of the unity at issue (Guyer 1987:146–47)[^guyer-1987]. And in his view it remains open, given what Kant has shown, that this recognition requires only awareness of information derived from inner sense or introspective experience. Kant does not attempt at this point in the argument to rule out such a rival empiricist hypothesis, but he arguably would need to do so to establish the need for *a priori* synthesis. To advance his claims, one might appeal to features of this unity that would render such an empiricist account inadequate. As we shall see, Kant employs this tactic in the next phase of the argument, which introduces his account of our representations of objects.
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      ### 1.2 Representations of Objects and the Single-Substantive-Premise Interpretation of the B-Deduction
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      According to one widespread reading of the B-Deduction, §§15–20 comprise a an argument whose only assumption is the premise about self-consciousness that Kant defends in §16. Strawson, for example, is a proponent of such an interpretation (1966), as are Robert Paul Wolff (1963), Jonathan Bennett (1966), Henry Allison (1983), Edwin McCann (1985), and Dennis Schulting (2012a). Demonstrating that we represent objects or an objective world has a key role in most versions of this reading. On Strawson’s interpretation, for instance, “the fact that my experience is of a unified objective world is a necessary consequence of the fact that only under this condition could I be conscious of my diverse experiences as one and all my own” (1966: 94). Some interpreters dissent; Karl Ameriks, for example, contends that Strawson’s conception of the Deduction is motivated by a desire to see it as showing that the skeptic about the external world is mistaken, while in fact refuting this sort of skeptic is not one of Kant’s aims for this argument (Ameriks 1978; also Allais 2011, 2015)[^allais-2011][^ameriks-1978]. Patricia Kitcher (2011: 115–18) argues against the single premise about self-consciousness interpretation on historical and textual grounds.
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      An uncontroversial role of §17 is to provide a characterization of an object, or more to the point, of a representation of an object, that facilitates a challenge to Humean associationism. Kant’s proposal is that an object is “that in the concept of which a manifold of a given intuition is united” (B137). Here ‘object’ should be read in the broad sense of *objective feature of reality* – a feature whose existence and nature is independent of how it is perceived (B 142; Bird 1962/1973 130–31; Strawson 1966: 98–104; Guyer 1987: 11–24)[^bird-1962][^guyer-1987][^strawson-1966]. Allison is a proponent of the view that §17 contain not only this challenge to Hume, but also an attempt to demonstrate that we represent objects on the basis of the conclusions about self-consciousness established in §16. This interpretation is a component of Allison’s broader vision of the B-Deduction, according to which Kant demonstrates that the unity of apperception entails that we represent objects, and, conversely, that our representing objects entails the necessary unity of apperception (Allison 1983: 144ff; 2015: 352–55; 2015: 335–55, esp. 352)[^allison-1983] Indeed, the crucial claim for Allison’s interpretation is that the unity of apperception is not only a necessary but also sufficient condition for our representing of objects. This he calls the *reciprocity thesis*. Other commentators, including Richard Aquila (1989: 159), Howell (1992: 227–8) and Schulting (2012a) agree that the B-Deduction features the reciprocity thesis and an attempt to establish its truth, while Ameriks (1978), for example, disagrees. On an account of the sort Ameriks favors, the unity of apperception, and more exactly, the synthesis that explains our consciousness of the identity of the subject, is only a necessary condition for the representation of objects (cf. Allais 2011)[^allais-2011].
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      Allison’s interpretation is attractive particularly because it promises leverage against the skeptic who denies that we represent objects, and also because this leverage is generated by premises about self-consciousness that this skeptic is likely to accept. Nevertheless, there are textual and charitable reasons to resist this reading (Ameriks 1978, Pereboom 1995; Patricia Kitcher 2011: 115–60; Vinci 2014: 193–94)[^ameriks-1978][^kitcher-2011][^pereboom-1995][^vinci-2014]. First of all, in §§18–20 Kant makes significant assumptions about features of our representations of objects that exceed anything that he has argued for in §17 or earlier. In particular, §18 he assumes that our representations of objects manifest a certain kind of necessity and universality, and this he does not purport to establish in §17 or earlier. Moreover, in the summary of the preceding steps of the B-Deduction in §20 Kant does not include premises from §§15–16. What we actually encounter in §20 indicates that Kant intends §§17–20, with some help from §13, to constitute a single, self-contained argument that does not depend on the conclusions about self-consciousness developed in §§15–16.
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      On Allison’s conception, the argument from the unity of apperception (or, equivalently, from the unity of consciousness) for our representing objects occurs in the following passage:
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      > Understanding is, to use general terms, the faculty of cognitions (*Erkenntnisse*). They consist (*bestehen*) in the determinate relation of given representations to an object: and an object is that in the concept of which the manifold of a given intuition is united. Now all unification of representations demands unity of consciousness in the synthesis of them. Consequently it is the unity of consciousness that alone constitutes the relation of representations to an object, and therefore their objective validity and the fact that they are cognitions (*Erkenntnisse*): and upon it therefore rests the very possibility of the understanding. (B137)
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      Allison himself presents a problem for his interpretation of this passage from B137. He contends, first of all, that the reciprocity thesis is encapsulated in this sentence:
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      > (A) It is the unity of consciousness that alone constitutes [*ausmacht*] the relation of representations to an object, and therefore their objective validity.
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      and that Kant presents (A) as a direct consequence of the claim:
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      > (B) All unification of representations demands unity of consciousness in the synthesis of them.
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      Allison points out that on this reading Kant’s reasoning appears to involve a *non sequitur*, since (B) supports only that the unity of consciousness is a necessary condition for the representation of an object, and not for its also being a sufficient condition. Howell raises a similar concern: “In §17 Kant simply does not make this inference clear, and an air of blatant fallacy hovers over this part of his reasoning” (Howell 1992: 228; for an opposing view see Keller 1998: 80)[^howell-1992][^keller-1998]. But Ameriks argues that the B-Deduction should not be interpreted as providing an argument for the sufficiency claim, and a respectable case can be made for his reading (Ameriks 1978; Pereboom 1995; Patricia Kitcher 2011: 115–60)[^ameriks-1978][^kitcher-2011][^pereboom-1995].
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      Allison and Howell both argue that (A) should be read as a statement of the sufficiency claim. Now in the B137 passage Kant contends that cognitions of objects consist in a determinate relation of representations to objects, and as (A) indicates, this relation is constituted or produced by a synthesis that essentially involves the unity of consciousness. However, (A) does not indicate that the synthesis that involves unity of consciousness cannot occur without its resulting in a relation of a representation to an object. By analogy, the smelting and molding of steel are processes that constitute or produce steel girders, but from this one should not conclude that the processes of smelting and molding steel cannot take place without the production of steel girders. Just as producing steel girders also requires molds of particular shapes, so producing representations of objects might require, in addition to the synthesis that involves the unity of consciousness, specific concepts.
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      If the sufficiency claim, and with it the reciprocity thesis, is denied, we need an alternative account of how §17 functions in the overall argument of the B-Deduction. It may be that the role of this section is largely to provide a characterization of an object that has a key role in the ensuing challenge to Humean associationism, and thereby initiates an argument from below. Kant’s proposal is that an object is “that in the concept of which a manifold of a given intuition is united” (B137). The subsequent claim is that the unification of a manifold requires synthesis; immediately following the characterization of an object he states that “all unification of representations demands unity of consciousness in the synthesis of them” (B137). It seems consistent with these texts that Kant’s characterization of an object is designed just to present his anti-Humean theory of the mental processing required for representing objects, and that the subsequent claim for the need for synthesis does not express a view he expects us to accept without further argument, but rather one he aims to confirm in §§18–20. If this argument succeeds, it will turn out that the *a priori* synthesis required to account for the features of our representations of objects Kant singles out is the same process that yields my consciousness of the identity of myself as subject of different self-attributions.
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      ### 1.3 Universality and Necessity in our Experience of Objects
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      In §18 Kant draws our attention to certain features of our representations of objects that in his view will serve to defeat associationism and establish *a priori* synthesis:
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      > The transcendental unity of apperception is that unity through which all the manifold given in an intuition is united in a concept of the object. It is therefore entitled objective, and must be distinguished from the subjective unity of consciousness… Whether I can become *empirically* conscious of the manifold as simultaneous or as successive depends on circumstances and empirical conditions. Therefore, the empirical unity of consciousness, through association of representations, itself concerns an appearance, and is wholly contingent… Only the original unity is objectively valid: the empirical unity of apperception,… which… is merely derived from the former under given conditions *in concreto*, has only subjective validity. One person connects the representation of a certain word with one thing, the other [person] with another thing; the unity of consciousness in that which is empirical is not, as regards what is given, necessarily and universally valid. (B139–4
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      For Kant, a defining feature of our representations of objects is their objective validity. For a representation to be objectively valid it must be a representation of an objective feature of reality, that is, a feature whose existence and nature is independent of how it is perceived (Guyer 1987:11–24)[^guyer-1987]. In this argument, it appears that Kant just assumes that the representations that make up experience are objectively valid. He then aims to establish that association is inadequate because it can yield only representations that are not objectively valid. In the above passage, Kant contends that our objectively valid representations must in a sense be necessary and universal. However, the empirical unity of consciousness, which involves an ordering of representations achieved by association, can only be non-universal, contingent, and hence merely subjectively valid, by contrast with the transcendental unity of apperception, which involves an ordering that is universal and necessary, and is therefore objectively valid. In Kant’s conception, it is the fact that the transcendental unity of apperception is generated by *a priori* synthesis that allows it to yield an ordering that is universal, necessary, and objectively valid. (Ameriks 1978, Pereboom 1995, Patricia Kitcher 2011: 115–60; Allais 2011, 2015, 2022; Vinci 2014)[^allais-2011][^ameriks-1978][^kitcher-2011][^pereboom-1995][^vinci-2014]. On Lucy Allais’s proposal, empirically we are acquainted with objects, but absent a priori synthesis, empirical representations would be of objects that are indeterminate with respect to multiple possible ways of conceptualizing and individuating them. Only with a priori synthesis is the representation of determinate objects possible. The concept of cause has a key role here, since determinacy is paradigmatically a function of represented causal unity of objects (Allais 2015: 275–85; cf. Beck 1978; Vinci 2014: 134–44)[^allais-2015][^beck-1978][^beck-1978-2][^vinci-2014]. This determinacy, by virtue of a shared scheme of a priori concepts, yields the universality and necessity Kant has in mind.
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      To illustrate and support these claims, Kant invokes examples of the ordering of phenomena in time that also have the key role in the discussion of the Second Analogy (cf. Guyer 1987: 87–90; Dicker 2004: 137–44)[^dicker-2004][^guyer-1987]. There Kant argues that our representations, considered independently of their content, are always successive. For example, when I view the front, sides, and back of the house when walking around it, and when I watch a boat float downstream, my representations of the individual parts and states occur successively. The content of these successive representations, however, can be represented as either determinately and objectively successive or as determinately and objectively simultaneous. And as it in fact turns out, despite the representations in each of these sequences being subjectively successive, we represent the parts of the house as objectively simultaneous, and the positions of the boat as objectively successive. How might we account for this difference in objectivity despite the similarity in subjectivity? (Melnick 1973: 89)[^melnick-1973]
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      The important clue for answering this question is that these representations of objective simultaneity and succession are universal and necessary. It is the universality and necessity of our representing the parts of the house as simultaneous that accounts for our representing them as objectively simultaneous, and the universality and necessity of our representing the positions of the boat as successive that accounts for our representing them as objectively successive. Association is inadequate for accounting for this objectivity because it is incapable of yielding such universality and necessity, a defect not shared by synthesis.
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      A first approximation of the import of ‘universal’ in the house example is:
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      > (U) Any human experience of the parts of the house is an experience of these parts as objectively simultaneous.
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      The addition of necessity has the following effect on (U):
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      > (U-N, first pass) Necessarily, any human experience of the parts of the house is an experience of these parts as objectively simultaneous.
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      This claim would be resisted by Hume if the necessity were specified as ranging over all possible circumstances, for Hume’s theory would allow for the possibility of a deviant ordering in unusual empirical conditions. But (U-N, first pass) can be reformulated more precisely as
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      > (U-N) Necessarily, if empirical conditions are normal, any human experience of the parts of the house is an experience of these parts as objectively simultaneous.
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      Kant’s view is that given only the resources of association, the truth of (U-N) cannot be explained. The reason is “whether I can become empirically conscious of the manifold as simultaneous or as successive depends on circumstances or empirical conditions,” and so “the empirical unity of consciousness, through association of representations, itself concerns an appearance, and is wholly contingent” (B139–40). Association cannot explain the truth of (U-N), for given only the resources of association, the parts of the house will not necessarily or universally be represented as objectively simultaneous even supposing only normal empirical conditions. Kant asks us to consider an activity, word association, which functions as a paradigm for association. Word association, familiarly, does not yield universal and necessary patterns; “one person connects the representation of a certain word with one thing, the other [person] with another thing…” (B140). Hume’s own paradigm for association in is the relations among parts of a conversation (1748: §3). In such conversations, people make different associations in the same circumstances. Kant’s point is that if the very paradigms for association fail to exhibit the sort of necessity and universality at issue, then the hypothesis that association is powerful enough to yield such an ordering of representations – wherever we find it – is ruled out. (Pereboom 1995; Dickerson 2004: 170–77; for an account of a more general relationship in Kant between universality and necessity on the one hand and apriority on the other, see Smit 2009)[^dicker-2004][^dickerson-2004][^pereboom-1995][^smit-2009].
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      Here we should see Kant as advancing his claim for the applicability of the categories by ruling out association as an explanation for (U-N). The structure of this part of the transcendental deduction, the argument from below, can be represented as follows:
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      1. We have representations of objects, i.e., of objectively valid phenomena. (premise)
+      2. All of our representations of objects are (in part) of universal and necessary features of experience. (premise)
+      3. Necessary and universal features of experience cannot be explained by association. (premise, from reflection on the nature of association))
+      4. If (2) and (3) are true, all of our representations of objects require a faculty for ordering mental states distinct from association. (premise)
+      5. All of our representations of objects require a faculty for ordering mental states distinct from association. (3, 4)
+      6. If (5) is true, all of our representations of objects require a faculty for synthesis by *a priori* concepts. (premise)
+      7. We have representations of objects, all of which require a faculty for synthesis by *a priori* concepts. (1, 5, 6)
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      We can expand (7) to explicitly note the link to the argument from above:
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: body
+    source: |-
+      > 7*. We have representations of objects, all of which require a faculty for synthesis by *a priori* concepts, the same faculty required to account for my consciousness of the identity of myself as subject of different self-attributions of mental states.
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: body
+    source: |-
+      To this we can add the final moves, which are explained in the subsequent sections of the B-Deduction:
+    step1: TBD
+    step2: TBD
+  - id: 64
+    kind: body
+    source: |-
+      > 8. Insofar as our representations of objects require a faculty for synthesis by *a priori* concepts, certain *a priori* concepts – the categories – legitimately apply to these objects. (premise)
+    step1: TBD
+    step2: TBD
+  - id: 65
+    kind: body
+    source: |-
+      Together with (7*), this yields:
+    step1: TBD
+    step2: TBD
+  - id: 66
+    kind: body
+    source: |-
+      > 9. We have representations of objects, all of which are such that the categories legitimately apply to them. (7*, 8)
+    step1: TBD
+    step2: TBD
+  - id: 67
+    kind: body
+    source: |-
+      The key necessary conditions, expressed by (4) and (6), like those of the argument from above, are on Kant’s account necessary conditions of only possible explanation.
+    step1: TBD
+    step2: TBD
+  - id: 68
+    kind: body
+    source: |-
+      Guyer objects that at various places in the Transcendental Deduction Kant illegitimately assumes knowledge of necessity, and perhaps this argument falls to such a concern (Guyer 1987: 146–47)[^guyer-1987]. While this concern has the potential of weakening Kant’s argument, perhaps Hume would not deny the necessity under consideration at this point in the argument. Hume does maintain that it is in some sense impossible, given an experience of constant conjunction, that the mind not be carried from an impression of the first conjunct to an idea of the next:
+    step1: TBD
+    step2: TBD
+  - id: 69
+    kind: body
+    source: |-
+      > … having found, in many instances, that any two kinds of objects, flame and heat, snow and cold, have always been conjoined together; if flame or snow be presented anew to the senses, the mind is carried by custom to expect heat or cold, and to *believe*, that such a quality does exist, and will discover itself upon a nearer approach. This belief is the necessary result of placing the mind in such circumstances. It is an operation of the soul, when we are so situated, as unavoidable as to feel the passion of love, when we receive benefits; or hatred, when we meet with injuries. (1748: §5)
+    step1: TBD
+    step2: TBD
+  - id: 70
+    kind: body
+    source: |-
+      Thus Hume himself contends that given certain specific empirical circumstances, a particular type of ordering of perceptions in a sense necessarily comes about.
+    step1: TBD
+    step2: TBD
+  - id: 71
+    kind: body
+    source: |-
+      A further concern of Guyer’s is that Kant assumes without defense that all knowledge of necessity is grounded in *a priori* concepts, the categories specifically. But, in response, perhaps we need not interpret Kant as arguing directly from (U-N) to the claim that the categories correctly apply to objects in our experience. Rather, we can see him as advancing his claim for the applicability of the categories by ruling out association as an explanation for (U-N). The challenge Kant issues is to explain why, under normal conditions, the ordering in question is universal and necessary. Part of the best explanation, he believes, is that we must have a faculty for ordering the representations. Hume might agree with this conclusion, supposing a sufficiently thin conception of ‘faculty,’ and that this faculty is association. Kant counters by arguing that association cannot account for the truth of propositions such as (U-N), since the very paradigms of association, such as word association and the association of topics in a conversation, do not exhibit the requisite universality and necessity. The alternative that can account for the truth of propositions such as (U-N) involves affirming that the faculty in question must be one that employs the categories.
+    step1: TBD
+    step2: TBD
+  - id: 72
+    kind: body
+    source: |-
+      The associationist might respond that sensory experience is sufficiently uniform for association to produce the universalities and necessities at issue. Perhaps Kant is too quick to conclude that the argument from universality and necessity is decisive, for in addition, associationist objections of this sort must be answered – as contemporary critical discussions of proposals for innate concepts indicate (Pereboom 1995: 31–3)[^pereboom-1995]. But this arguably does not detract from the anti-associationist force provided by the sorts of universalities and necessities Kant has in mind, and this fact is recognized by the contemporary discussion.
+    step1: TBD
+    step2: TBD
+  - id: 73
+    kind: body
+    source: |-
+      ### 1.4 Logical Forms of Judgment and the Categories
+    step1: TBD
+    step2: TBD
+  - id: 74
+    kind: body
+    source: |-
+      In §§19–20, Kant contends that the vehicle that brings about the synthesis at issue is judgment, and that this vehicle employs certain forms of judgment, which are in turn intimately related to the twelve categories. By connecting synthesis to judgment in this way, and the forms of judgment to the categories, Kant aims to show that we must employ the categories in the synthesis of our experience of objects.
+    step1: TBD
+    step2: TBD
+  - id: 75
+    kind: body
+    source: |-
+      In §19, Kant argues that there must be a certain way in which each of my representations is unified in the subject, and he identifies this way with judgment: “I find that a judgment is nothing but the manner in which given cognitions are brought to the objective unity of apperception” (B141). Judgment, Kant proposes, is objectively rather than subjectively valid, and hence exhibits the type of universality and necessity that characterizes objective validity (B142). He then claims that without synthesis and judgment as its vehicle, an ordering of representations might reflect what appears to be the case, but it would not explain how we make distinctions between objective valid phenomena (i.e., objects) and the subjective states they induce (e.g., Allison 2015: 363–69; Sethi 2020)[^allison-2015][^sethi-2020].
+    step1: TBD
+    step2: TBD
+  - id: 76
+    kind: body
+    source: |-
+      In §20, Kant ties this notion of judgment to the twelve forms of judgment presented in the Metaphysical Deduction (A70/B95), and he then connects these forms of judgment to the twelve categories (A76–83/B102–9; see Longuenesse 1998 and Stang 2024 for detailed discussion)[^longuenesse-1998][^stang-2024]. The claim has often been made that the links Kant specifies between synthesis and judgment, judgment and the forms of judgment, the forms of judgment and the categories are not sufficiently supported. Guyer, for example, argues that Kant has not adequately established the last of these connections, that although Kant claims that the categories are simply the forms of judgment as they are employed in the synthesis of representations in an intuition (A79/B104–A80/B105, B143), he has failed to make this claim plausible (Guyer 1987: 94–102)[^guyer-1987]. These concerns have merit. Kant’s assertions about these ties remain more obscure than the preceding part of the Transcendental Deduction, and it continues to be a serious challenge for interpreters to clarify and vindicate them.
+    step1: TBD
+    step2: TBD
+  - id: 77
+    kind: body
+    source: |-
+      Béatrice Longuenesse (1998), in her interpretation of the Metaphysical Deduction, takes up this challenge. In her view, the faculty at issue in the production and use of concepts, the understanding, is the power to judge (*Vermögen zu Urteilen*), which is ultimately a disposition or a *conatus* to make judgments and to shape how we are affected so that we can make them (Longuenesse 1998: 208, 394)[^longuenesse-1998]. The logical forms of judgment are in essence the forms of combination of concepts in judgments. One such form is the categorical, which is the form of subject-predicate judgments; another is the hypothetical, the form of conditional judgments. Kant contends that the logical form of a judgment is what makes it capable of truth or falsity, for by means of such a form a judgment can constitute a relation of a subject’s representations to an objective feature of reality (Longuenesse 2000, 93–4)[^longuenesse-2000]. For instance, by its categorical form, the judgment ‘the boat is moving’ can constitute the relation of my representations of a boat and of motion to an objectively existing boat in motion, and as a result this judgment can be true or false.
+    step1: TBD
+    step2: TBD
+  - id: 78
+    kind: body
+    source: |-
+      One role of the logical forms of judgment is in the process of analysis, by which the objects we intuit are subsumed under concepts. What results from this process is a judgment that expresses what Kant calls an *analytic unity* – paradigmatically, the unity in the subsumption of several intuited objects under a single concept. But a logical form of judgment can also function in a different role: in the synthesis of a manifold of an intuition. The result in this case is a *synthetic unity*, the unity of a synthesized multiplicity of representations in a single intuition. The understanding, as the power to judge, functions in each of these two roles; “the same function that gives unity to concepts in judgment, also gives unity to the mere synthesis of representations in intuition” (A79/B104–5). In its synthetic role, the understanding adds content to the forms of judgment:
+    step1: TBD
+    step2: TBD
+  - id: 79
+    kind: body
+    source: |-
+      > The same understanding, and indeed by means of the very same actions through which it brings the logical form of judgment into concepts by means of the analytical unity, also brings a transcendental content into its representations by means of the synthetic unity of the manifold in intuition in general. (A79/B105)
+    step1: TBD
+    step2: TBD
+  - id: 80
+    kind: body
+    source: |-
+      The addition of such transcendental content turns the form of judgment into a category. This content is a feature of the forms of intuition, space and time, which are called upon when the power to judge sets out to unify a manifold of intuition (B128–9). The categories – more precisely, the versions of the categories that are schematized for our way of cognizing (A137/B176ff) – are thus generated from the forms of judgment in the process of synthesizing intuitions by the addition of spatial and temporal content. For example, generated from the categorical form of judgment by the addition of such content is the category of substance, and generated from the hypothetical form of judgment in this way is the category of cause. (For beings possessing the power of understanding but with different forms of intuition, the categories would be schematized differently from ours.)
+    step1: TBD
+    step2: TBD
+  - id: 81
+    kind: body
+    source: |-
+      ### 1.5 The Second Step of the B-Deduction
+    step1: TBD
+    step2: TBD
+  - id: 82
+    kind: body
+    source: |-
+      In §20 Kant, draws a conclusion from the considerations he has so far advanced: “Consequently, the manifold in a given intuition is necessarily subject to the categories” (B143). One might think that this is precisely what Kant intended to establish in the Transcendental Deduction, and thus that the argument is brought to an end in §20. However, in §21 he indicates that the Transcendental Deduction is not yet complete: “Thus in the above proposition a beginning is made of a deduction of the pure concepts of understanding” (B144). Kant goes on to explain:
+    step1: TBD
+    step2: TBD
+  - id: 83
+    kind: body
+    source: |-
+      > In what follows (cf. §26) it will be shown, from the mode in which the empirical intuition is given in sensibility, that its unity is no other than that which the category (according to §20) prescribes to the manifold of a given intuition in general. Only thus, by demonstration of the *a priori* validity of the categories in respect of all objects of our senses, will the purpose of the deduction by fully attained. (B144–5)
+    step1: TBD
+    step2: TBD
+  - id: 84
+    kind: body
+    source: |-
+      Here a perennial interpretive question arises: how should we construe the argument we find in §26, together with material from §24, which is sometimes designated as the second step of the B-Deduction?
+    step1: TBD
+    step2: TBD
+  - id: 85
+    kind: body
+    source: |-
+      One position on this interpretive issue is advanced by Erich Adickes (1889: 139–4) and H. G. Paton (1936, v. 1: 501), who argue that while the material that precedes §21 constitutes an *objective* deduction, material in §24 and §26 comprise a *subjective* deduction. This distinction has its source in the Preface to the A edition:
+    step1: TBD
+    step2: TBD
+  - id: 86
+    kind: body
+    source: |-
+      > This enquiry, which is somewhat deeply grounded, has two sides. The one refers to the objects of pure understanding, and is intended to expound and render intelligible the objective validity of its *a priori* concepts. It is therefore essential to my purposes. The other seeks to investigate the pure understanding itself, its possibility and the cognitive faculties upon which it rests: and so deals with it in its subjective aspect. Although this latter exposition is of great importance for my chief purpose, it does not form an essential part of it. (Axvi–xvii)
+    step1: TBD
+    step2: TBD
+  - id: 87
+    kind: body
+    source: |-
+      Henrich (1968–69) rejects the Adickes/Paton proposal for the reason that in §21 Kant states that the demonstration of the validity of the categories is completed only in §26, and the passage from the A-Preface indicates that this is a task for the objective deduction. In defense of Adickes and Paton, in §20 Kant claims to have established that the categories apply to the manifold in any one given intuition, and affirms that he will now show that categories apply to any object presented to the senses. In view of the aim of the objective deduction, this move would seem to require only a straightforward and trivial application of the result of §20 to any empirical intuition we might have (as many commentators have noted). So, on a charitable interpretation of Kant’s agenda, showing that the categories apply to any object presented to the senses plausibly involves considerations beyond the scope of the objective deduction.
+    step1: TBD
+    step2: TBD
+  - id: 88
+    kind: body
+    source: |-
+      Henrich points out that although in the B-Deduction Kant sought to avoid the problems of a subjective deduction, this “does not mean that he neglected the demand for an explanation of the possibility of relating the categories to intuitions.” However, by Kant’s account, a subjective deduction features not only an examination of cognitive faculties, but also an investigation of “the possibility of the pure understanding,” which would include an investigation of how the categories are related to a priori and to empirical intuition and to the objects presented to us in such intuition. This is precisely the type of inquiry that we encounter in §24 and §26 – and Henrich agrees. Thus it seems that the views of Henrich, Paton, and Adickes can be reconciled: they concur that the second step aims to show how it is that the categories are related to objects of intuition and thus of experience in such a way as to demonstrate that they correctly apply to them.
+    step1: TBD
+    step2: TBD
+  - id: 89
+    kind: body
+    source: |-
+      Anil Gomes (2010) proposes a more precise hypothesis for what is missing in the first step that is addressed by the second step. Gomes first appeals to a problem James van Cleve (1999) raises for the Transcendental Deduction. Even if Kant succeeds in showing that synthesis involves judging, and that judging involves the application of the categories.
+    step1: TBD
+    step2: TBD
+  - id: 90
+    kind: body
+    source: |-
+      > this would not be enough for his purposes. For that result in conjunction with the rest of the Transcendental Deduction would yield no conclusion stronger than this: all my representations are connected in judgements that use Kant’s categories. But Kant wants to show that the categories are objectively valid – that they actually apply to objects of experience. (van Cleve 1999: 89)[^cleve-1999]
+    step1: TBD
+    step2: TBD
+  - id: 91
+    kind: body
+    source: |-
+      Kant hasn’t established, according to van Cleve, that the categories actually apply to experience. As Gomes (2010: 121) puts it, “perhaps our application of the categories in experience is always mistaken, and there is nothing which corresponds to the way in which we have synthesized the manifold.” As he points out, the second step reaches its conclusion through the analysis of the structure of our representation of space and time, from which Kant then draws the conclusion that space and time themselves have that very structure (Gomes 2010: 130; Gomes cites a similar claim by Longuenesse 1998, 213)[^gomes-2010][^longuenesse-1998]. If space and time themselves have the structure of our representations of them, then the requisite correspondence is in place, and van Cleve’s objection is answered.
+    step1: TBD
+    step2: TBD
+  - id: 92
+    kind: body
+    source: |-
+      This is a contending and plausible hypothesis for a role for the second step in the B-Deduction. One might ask, however, whether the account Kant provides on that hypothesis can respond convincingly to van Cleve’s objection. Even on certain idealist views, such as that of G. W. Leibniz (1646–1716) according to Robert Adams (1983, 1994: 217–61, cf. Wilson 1987)[^wilson-1987], our ordinary sensible representations of space, and of physical entities more generally, may not represent them as they really are. By contrast, on the idealist position of George Berkeley’s (1685–1753) as represented in the third of the *Three Dialogues between Hylas and Philonous* (1713/1998), the properties of physical entities match our sensible representations of them exactly, without a possibility of a mismatch; the oar in the water really is bent when I see it as bent. On the type of idealism Kant endorses (and one might of course question whether it has been established), the possibility of a mismatch remains in place even if our representation of space structures space itself (Pereboom 1988; Stang 2018; Jauernig 2021)[^jauernig-2021][^pereboom-1988][^stang-2018]. For instance, we may sensibly represent space as Euclidean while is in fact Riemannian. One might respond that the representation that structures space would then also be Riemannian, and we would have a match. But then a crucial feature of our representation of space would be inaccessible absent serious empirical investigation, and the nature of the project would be altered.
+    step1: TBD
+    step2: TBD
+  - id: 93
+    kind: body
+    source: |-
+      The core text that divides interpretations of the second step is the note to B160–61:
+    step1: TBD
+    step2: TBD
+  - id: 94
+    kind: body
+    source: |-
+      > Space, represented as object (as is really required in geometry), contains more than the mere form of intuition, namely the comprehension of the manifold given in accordance with the form of sensibility in an intuitive representation, so that the form of intuition merely gives the manifold, but the formal intuition gives the unity of the representation. In the Aesthetic I ascribed this unity merely to sensibility, only in order to note that it precedes all concepts, though to be sure it presupposes a synthesis, which does not belong to the senses but through which all concepts of space and time first become possible. For since through it (as the understanding determines the sensibility) space or time are first given as intuitions, the unity of this a priori intuition belongs to space and time, and not to the concepts of the understanding (§24).
+    step1: TBD
+    step2: TBD
+  - id: 95
+    kind: body
+    source: |-
+      It’s widely agreed that a crucial feature of the second step is the claim that our intuitions of space and time are constituted in such a way as to necessitate the unification of the manifold of appearance by the application of the categories. In the Transcendental Aesthetic, Kant aimed to show that space and time are forms of our sensible intuition, and that for us appearances can only occur in accord with these forms. But now, in the note to B160–1, Kant draws our attention to the fact that space and time are not only forms of intuition, but are intuitions themselves, and that they are intuitions that feature unity. What’s more, Kant specifies that this unity ‘precedes all concepts, though to be sure it presupposes a synthesis, which does not belong to the senses but through which all concepts of space and time first become possible.’ By the synthesis that is presupposed ‘the understanding determines the sensibility.’ So the unity of space and time is to be explained with reference to the effect of the understanding upon sensibility itself (Longuenesse 1998: 211–33; Keller 1998: 88–94; Dickerson 2004: 196–201; Pollok 2008; Vinci 2014: 197–229; Onof and Schulting 2015; Allison 2015: 374–432; Rosefeldt 2022)[^allison-2015][^dicker-2004][^dickerson-2004][^keller-1998][^longuenesse-1998][^onof-2015][^pollok-2008][^rosefeldt-2022][^vinci-2014].
+    step1: TBD
+    step2: TBD
+  - id: 96
+    kind: body
+    source: |-
+      The text, and in particular the B160–61 note, gives rise to a number of interpretive issues for Kant’s overall position. One is whether here Kant countenances a kind of unity in our representations that is not a result of categorical synthesis, but is instead is independent of the categories. Hermann Cohen (1871/1885/1918) and Eric Dufour (2003) are strict categorical conceptualists about any such unity, while Martin Heidegger (1929/1997) argues that there is a unity that is accounted for by the productive imagination independently of the categories; (Falkenstein 1995, Fichant 1997, Hanna 2008, 2011, Grüne 2011, Schulting 2012b, Messina 2014, McLear 2015, and Williams 2018 also contain defenses of nonconceptualist positions on this score; see McLear 2014, 2025 for overviews)[^falkenstein-1995][^fichant-1997][^grüne-2011][^hanna-2008][^mclear-2014][^mclear-2015][^messina-2014][^schulting-2012b][^williams-2018]. Longuenesse (1998) contends that unity-yielding synthesis is always a function of the understanding, but that there is a kind of synthesis of the understanding that does not involve the categories, while it yet anticipates them. Messina (2014), McLear (2015), Onof and Schulting (2015), and Williams (2018) argue that there are multiple kinds of unity for Kant, and while some require categorical synthesis, others do not. In particular, they maintain that space as intuited by us has a unity that Onof and Schulting (2015) call unicity, which consists of its singularity, its infinity, and its mereological inversion, i.e., a metaphysical structure involving parts ontologically depending on the whole, by contrast with the whole ontologically depending on parts, as is the case for material objects generally (here see Desmond Hogan 2021)[^hogan-2021]. Intuitive awareness of space as featuring unicity does not, on their account, require categorical synthesis.
+    step1: TBD
+    step2: TBD
+  - id: 97
+    kind: body
+    source: |-
+      As Tobias Rosefeldt (2022) points out, a longstanding puzzle for the B160–1 note is that it references a notion of synthesis that precedes all concepts, while the notion of synthesis to which Kant appeals in the preceding sections of the B-Deduction is one that does employ concepts, i.e., the categories, and thus does not precede concepts. Commentators generally agree that this synthesis that precedes all concepts must be subject to the unity of apperception (e.g., Messina 2014, Williams 2018)[^messina-2014][^williams-2018], but how might it be more thoroughly characterized? Rosefeldt proposes an account of the second step that at this point features the notion of a decomposing synthesis, which contrasts with a composing synthesis. Kant, as he points out, introduces the notion of a decomposing synthesis only in the Second Antinomy (A505/B533, A524/B552), but in Rosefeldt’s view this notion is aptly suited for Kant’s objectives for the second step. While a compositional synthesis constructs a whole from given parts, a decomposing synthesis begins with a given whole and then decomposes it in some way into parts. In this context, it decomposes space as we are intuitively aware of it into one or more of its finite parts, such as spheres or cubes, while the remaining infinite spatial region excluded by those parts is represented as their phenomenal background or horizon (cf., Husserl 1913, 1939)[^husserl-1913].
+    step1: TBD
+    step2: TBD
+  - id: 98
+    kind: body
+    source: |-
+      A test for this proposal is how a decomposing synthesis might represent space given that we conceptualize it as infinite. On Rosefeldt’s account, the decomposition into finite parts may involve imaginatively drawing line segments that form a square. We can subsequently extend these lines in the imagination, and we are conscious that we can freely vary the lines so that “however large the finite space that we construct by drawing lines is, this space will always only be phenomenally present to us within the horizon of a still larger unlimited space.” This does not amount to intuiting space as infinite, but rather coming to understand that the space we intuit is infinite by a *progressus ad infinitum* (A510–11/B538–39), a progression of a series that we understand is never complete (Onof and Schulting 2015)[^onof-2015]. Accordingly, space itself, in this way given as infinite, is an object of intuition for us as the phenomenal horizon of finite regions of space from which we distinguish it in the decomposing synthesis. A parallel account holds for time. This account supplies the meaning, Rosefeldt argues, of Kant’s claim that “a synthesis which does not belong to the senses” is required for “space and time [to be] first given to us as intuitions” (B160–61n).
+    step1: TBD
+    step2: TBD
+  - id: 99
+    kind: body
+    source: |-
+      As Rosefeldt notes, the conclusion of the second step, the applicability of the categories to space and time, requires appeal to a composing synthesis, since the decomposing synthesis precedes all concepts, and only in the composing synthesis are the categories invoked. Thus a transition from the decomposing to a composing synthesis must be made. One possible strategy is to claim that a composing synthesis is not required for our representation of space as whole, but only for our representations of determinate parts of space, as when we construct figures in geometry. But while the text of the B160–1 note does reference geometry, it also suggests (in the final sentence) that a composing synthesis is required for our representation of space as a whole. Onof and Schulting (2015) argue that it is our explicit representation of the unicity of space as a whole that requires synthesis in accord with the categories, and they embellish their account by specifying precisely which categories are required for the various aspects of unicity (Allison 2015: 420–30 provides a complementary account)[^allison-2015]. An alternative, suggested by Rosefeldt (2022), is that first of all, the finite spatial parts that we actually distinguish in decomposing synthesis, either of individual spatial parts or of various such parts taken as a group, feature a unity, representation of which must be accounted for by compositional synthesis. But further, we are conscious of the fact that the infinite space revealed as the phenomenal horizon in the decomposing synthesis can be subdivided infinitely into finite spatial parts, all of which are represented as parts of that one all-encompassing infinite space. Our representation of the unity of all of this, which Rosefeldt calls world-unity, must also be accounted for by a composing synthesis. From this we can see that given that a composing synthesis accounts for the represented unity of the actual finite spaces we distinguish, it can account for the represented world-unity as well. (For a discussion on how a composing synthesis can operate on a target that is indeterminate in the way that world-unity is, see Daniel Sutherland 2021, ch. 5, referenced in Rosefeldt 2022: 16 n.5)[^rosefeldt-2022][^sutherland-2021].
+    step1: TBD
+    step2: TBD
+  - id: 100
+    kind: body
+    source: |-
+      Since it has already been shown that composing syntheses generally must feature the categories, the claim is that we can infer that the categories structure our representation of space, and by parallel argument, our representation of time, and, moreover (in accord with Kant’s idealism), that they structure space and time themselves, together with the spatial and temporal features of objects in space and time. This allows us to see that the categories correctly apply to objects in space and time, and to see that they do so from how they structure our representations of space and time, and space and time themselves. This would secure the generally agreed-upon objective of the second step: to show how it is that the categories are related to objects of intuition and thus of experience in such a way as to demonstrate that they correctly apply to them.
+    step1: TBD
+    step2: TBD
+  - id: 101
+    kind: body
+    source: |-
+      ## 2. The Refutation of Idealism
+    step1: TBD
+    step2: TBD
+  - id: 102
+    kind: body
+    source: |-
+      In the transcendental argument of the Refutation of Idealism, Kant’s target is not Humean skepticism about the applicability of *a priori* concepts, but rather Cartesian skepticism about the external world. This argument was added by Kant to the second edition of the *Critique of Pure Reason* (B274–79, with a change suggested in the Preface to B, Bxxxix–Bxli), and subsequently embellished and reworked in a series of Reflections (Guyer 1987: 279–316)[^guyer-1987]. More specifically, Kant intends to refute what he calls problematic idealism, according to which the existence of objects outside us in space is “doubtful and indemonstrable” (B274). His strategy is to derive the claim that such objects exist from my awareness that my representations have a specific temporal order. At the present time I am aware of the specific temporal order of many of my past experiences, an awareness produced by memory. But what is it about what I remember that allows me to determine the temporal order of my experiences? There must be something by reference to which I can correlate the remembered experiences that allows me to determine their temporal order. But first, I have no conscious states that can play this role. Further, this reference cannot be time itself, for “time by itself is not perceived;” Kant argues for this claim in the First Analogy (B224–25). As Guyer puts it, it is not as if the content of memories of individual events are manifestly indexed to specific times, as sportscasts and videotapes often are (Guyer 1987: 244)[^guyer-1987]. Kant contends that the only other candidate for this reference is something outside of me in space, and it must be something (relatively) permanent (cf. First Analogy, B224–5). Perhaps this claim is made plausible by how we often actually determine the times at which our experiences occur. We use observations of sun’s positions, or of a clock that indicates time by way of the period of a pendulum, or by the period of the vibration of a cesium atom. Kant’s argument can be seen as exploiting this fact, together with the observation that there is no similar periodic process in human conscious experience considered independently of any spatial objects it might represent, and that we lack any awareness of time by itself, to show we must perceive objects outside us in space by reference to which we can determine the temporal order of our past experiences.
+    step1: TBD
+    step2: TBD
+  - id: 103
+    kind: body
+    source: |-
+      George Dicker provides a compelling initial representation of Kant’s argument (Dicker 2004, 2008)[^dicker-2004]:
+    step1: TBD
+    step2: TBD
+  - id: 104
+    kind: body
+    source: |-
+      1. I am conscious of my own existence in time; that is, I am aware, and can be aware, that I have experiences that occur in a specific temporal order. (premise)
+      2. I can be aware of having experiences that occur in a specific temporal order only if I perceive something permanent by reference to which I can determine their temporal order. (premise)
+      3. No conscious state of my own can serve as the permanent entity by reference to which I can determine the temporal order of my experiences. (premise)
+      4. Time itself cannot serve as this permanent entity by reference to which I can determine the temporal order of my experiences. (premise)
+      5. If (2), (3), and (4), are true, then I can be aware of having experiences that occur in a specific temporal order only if I perceive persisting objects in space outside me by reference to which I can determine the temporal order of my experiences. (premise)
+      6. Therefore, I perceive persisting objects in space outside me by reference to which I can determine the temporal order of my experiences. (1–5)
+    step1: TBD
+    step2: TBD
+  - id: 105
+    kind: body
+    source: |-
+      Several points of interpretation should be noted. First, it is generally agreed that the notion of awareness in Premise (1) should be interpreted as a success notion, i.e., that to be aware that I have experiences that occur in a specific temporal order is to correctly determine that they occur in this order (Allison 1983: 290ff, Guyer 1987: 293ff, Dicker 2004, 195ff., 2008; Chignell 2010)[^allison-1983][^chignell-2010][^dicker-2004][^guyer-1987]. Second, most commentators concur that the experiences at issue are my past experiences. Guyer suggests that the argument might be extended to combinations of my past and my present experience, but Dicker objects that the fact that past experiences occurred before the present one is directly knowable by introspection, and so doesn’t require the external reference (Guyer 1987; Dicker 2004: 195ff.)[^dicker-2004][^guyer-1987]. Third, Jonathan Bennett points out that we have single memories whose content spans an appreciable length of time that allow us to determine the order of past mental states . When one remembers hearing a certain word, one can accurately determine by the content of a single memory that certain phoneme-experiences occurred prior to other phoneme-experiences – for example, that one heard ‘mad’ and not ‘dam’ (Bennett 1966: 228–29)[^bennett-1966]. Dicker (2004: 201–2) remarks that we may be able to determine accurately the order some of our past states by means of such memories, but we cannot ascertain the order of most of our past experiences in this way. He therefore advocates a restriction of the argument to the experiences we can correctly order but not in the way Bennett adduces. Fourth, many commentators have noted that we might have perceived time directly. Guyer, as we just saw, suggests that all of our conscious experiences might have featured a time clock, much like a television sportscast or a video camera (1987: 244; cf. Strawson 1966)[^strawson-1966]. But as Dicker points out, in actual fact our experience does not have any such feature, and he is content for Premise (4), that time itself cannot serve as the reference whereby I correctly determine the temporal order of my past experiences, to state a merely contingent fact about us (2004, 2008). Andrew Chignell (2010) expresses a concern about interpretations of the Refutation in which it is merely a contingent fact about us that the alternative methods for determining the temporal order of my past experiences are unavailable, for then the conclusion, that we perceive objects in space, would inherit such mere contingency, which he argues to be at odds with Kant’s hopes for the Refutation. Fifth, commentators differ on the relation that must obtain between the objects in space and the experiences whose temporal order we can correctly determine. Guyer argues that the relation must be causal, since “the states of the self are judged to have a unique order just insofar as they are judged to be caused… by the successive states of enduring objects” (Guyer 1987: 309; cf. Dicker 2004: 200, 2008)[^dicker-2004][^guyer-1987]. By contrast, in Allison’s view we require the temporal order of objects in space only as a backdrop against which to determine the temporal order of our experiences; “an enduring, perceivable object (or objects) is required to provide a frame of reference by means of which the succession, coexistence, and duration of appearances in a common time can be determined” (Allison 1983: 201)[^allison-1983]. If the object in space that provides the reference is the sun, for example, the states of the sun don’t need to cause my experiences for me to determine their temporal order by means of those states.
+    step1: TBD
+    step2: TBD
+  - id: 106
+    kind: body
+    source: |-
+      Three of the most pressing problems that have been raised for the Refutation are the following. First, a skeptic might well reject Premise (1) on the ground of a general skepticism about memory (Allison 1983: 306–7)[^allison-1983]. Bertrand Russell, for example, suggests that for all I know I was born five minutes ago (Russell 1912)[^russell-1912]. On this skeptical hypothesis, I would be mistaken in my belief that I had experiences A, B, and C which occurred more than five minutes ago, first A, then B, and lastly C. Plausibly, a skeptic who claimed that we lack adequate justification for a belief that external objects exist would likely also be disposed to claim that I lack justification for my belief that I had experiences that occurred in the past in that specific temporal order. Thus Kant’s supposition that Premise (1) yields leverage against an external-world skeptic is mistaken (cf. Dicker 2008, Chignell 2010)[^chignell-2010][^dicker-2008].
+    step1: TBD
+    step2: TBD
+  - id: 107
+    kind: body
+    source: |-
+      Second, consider the claim that my mental states (or the mental subject itself) are as suited as objects in space to function as a reference whereby I can correctly judge the temporal order of my past experiences. Suppose I had available as such a reference only the mere mental appearance of a digital clock in one corner of my field of consciousness. This would not clearly be less effective than an actual clock in space. To this one might reply, with Dicker, that there are no actual mental states that are adequate to serve as such a reference. However, and this is the deeper worry, on Berkeley’s idealist view according to which the *esse* (to be) of objects in space is their *percipi* (to be perceived), any spatial objects would be nothing more than mental states of some subject, or aspects of those states, but Berkeleyan spatial perceptions would be as adequate a reference by which to determine the temporal order of my past experiences as perceptions of spatial objects that are in some sense distinct from my mental states (cf. Allison 1983: 300–1; Vogel 1993; Chignell 2010)[^allison-1983][^chignell-2010][^vogel-1993].
+    step1: TBD
+    step2: TBD
+  - id: 108
+    kind: body
+    source: |-
+      Third, one might contend that Kant’s Refutation demonstrates that the reference in question must be (relatively) permanent, and that there is nothing in the Berkeleyan spatial realm that satisfies this requirement. However, to this one might respond that the reference by which I determine the temporal order of my past experiences need not be permanent in a way that cannot be satisfied by Berkeleyan spatial objects. If in the corner of my field of consciousness featured distinct momentary flashes, every second, indicating the date and time to the second, I would be able to determine the temporal order of my past experiences by their means (cf., van Cleve, reported in Dicker 2004: 207)[^dicker-2004].
+    step1: TBD
+    step2: TBD
+  - id: 109
+    kind: body
+    source: |-
+      A note on the second of these concerns: Several commentators have argued that Kant’s Refutation of Idealism is meant to undermine any metaphysical sort of idealism, including metaphysical idealisms that have been attributed to Kant (Guyer 1987: 317–29)[^guyer-1987]. But while this reading has interesting support, one should hesitate to endorse it solely on the ground that Kant maintains that spatial objects are distinct from the states of the perceiver. On a plausible metaphysical interpretation of Kant’s idealism, the *esse* of objects in space is not their *percipi* since Kant’s spatial objects, by contrast with Berkeley’s, transcend what we immediately perceive by sensation – they are in this sense recognition-transcendent. In Berkeley’s position, a subject’s perception of an oar in the water as crooked is not a misperception, for “what he immediately perceives by sight is not in error, and so far he is in the right,” and it is misleading only because it is apt to give rise to mistaken inferences (Berkeley 1713: Third Dialogue)[^berkeley-1713]; while for Kant this perception is in error. In Kant’s view, the oar is recognition-transcendent by virtue of the Second Postulate’s provision that the actuality of such objects is determined causally:
+    step1: TBD
+    step2: TBD
+  - id: 110
+    kind: body
+    source: |-
+      > That which is bound up with the material conditions of experience, that is, with sensation, is actual (*wirklich*). (A218=B266)
+    step1: TBD
+    step2: TBD
+  - id: 111
+    kind: body
+    source: |-
+      The actual is that which conforms to the system of empirical causal laws (A225/B272ff.), and because the crookedness of the oar does not so conform, it is not actual. How the Second Postulate rules out the existence of the apparent spatial objects of dreams and hallucinations is spelled out in the third note to the Refutation of Idealism:
+    step1: TBD
+    step2: TBD
+  - id: 112
+    kind: body
+    source: |-
+      > Note 3. From the fact that the existence of outer things is required for the possibility of a determinate consciousness of the self, it does not follow that every intuitive representation of outer things involves the existence of those things, for their representation can very well be the product merely of the imagination (as in dreams and delusions). Such representation is merely the product of previous outer perceptions, which, as has been shown, are possible only through the reality of outer objects… Whether this or that supposed experience be not purely imaginary, must be ascertained from its special determinations, and through its congruence with the criteria of all actual experience (*wirklichen Erfahrung*). (B278–79 cf.A376, cf. A492/B520–21)
+    step1: TBD
+    step2: TBD
+  - id: 113
+    kind: body
+    source: |-
+      The objects of dreams and hallucinations don’t meet the criterion of actuality of the Second Postulate, that is, according with the laws of causality. Thus while in Berkeley’s view the *esse* of spatial things consists in their being perceived by the senses, for Kant they are the objects of the correct causal/scientific account of the contents of our outer experience. This causal criterion allows that a spatial object, or, more precisely, the matter from which it is constituted, is (at least relatively) permanent – which would seem ruled out in Berkeley’s position, since the spatial object does not last any longer than the idea does. (Berkeley does say that the ideas of what “are called real things” differ from “those excited in the imagination” by “being less regular, vivid, and constant” (Berkeley 1710, *Principles* Part I, 33)[^berkeley-1710], but for him this difference does not challenge or undermine the claim that the *esse* of a physical object is its *percipi*.) None of this forces a metaphysical realist as opposed to an idealist reading of Kant.
+    step1: TBD
+    step2: TBD
+  - id: 114
+    kind: body
+    source: |-
+      Yet at the same time, according to the second concern, the Refutation is inadequate even if its ambition is restricted to demonstrating the existence of merely metaphysically ideal but nonetheless recognition-transcendent objects outside us in space. For granting that the Refutation establishes that for me to determine the temporal order of my past experiences I must perceive objects in space, it fails to show that I need to perceive spatial objects any more realistic than the Berkeleyan ones. More generally, the worry is that Berkeleyan version of idealism has the resources to yield as adequate a reference for me to determine the temporal order of my past experiences as any rival position Kant is plausibly interpreted as endorsing, and that for this reason the Refutation falls short of its aim.
+    step1: TBD
+    step2: TBD
+  - id: 115
+    kind: body
+    source: |-
+      ## 3. Contemporary World-Directed Transcendental Arguments
+    step1: TBD
+    step2: TBD
+  - id: 116
+    kind: body
+    source: |-
+      Kant-inspired transcendental arguments against skepticism about the external world were developed with vigor in the mid-twentieth century, notably by P. F. Strawson, most famously in his Kantian reflections in *The Bounds of Sense* (1966). These arguments are often reinterpretations of, or at least inspired by, Kant’s Transcendental Deduction and his Refutation of Idealism. Some are more ambitious than Kant’s would seem to be, insofar as they attempt to refute some variety of skepticism by showing that there is an essential commitment of the skeptical position for which the falsity of that position is a necessary condition (Nagel 1997: 60ff.)[^nagel-1997]. Strawson’s most famous transcendental argument (1966: 97–104) is modeled on the Transcendental Deduction, but explicitly without a commitment to synthesis or any other aspect of Kant’s transcendental psychology. His target is a purely sense-datum experience, which does not feature objects, “conceived of as distinct from any particular states of awareness of them,” that is, a Berkeleyan experience of spatial objects whose *esse* is *percipi* (1966: 98). The core of the argument is as follows. From the premise that every (human) experience is such that it is possible for its subject to become aware of it and ascribe it to herself, we can infer that in every experience the subject must be capable of distinguishing a recognitional component not wholly absorbed by, and thus distinct from, the item recognized (1966: 100). From this we can infer that the subject must conceptualize her experiences in such a way so as to contain the basis for a distinction between a subjective component – how the experienced item seems to the subject, and an objective component – how the item actually is. Strawson specifies that “collectively,” this comes to “the distinction between the subjective order and arrangement of a series of such experiences on the one hand, and the objective order and arrangement of the items of which they are the experiences on the other” (1966: 101). Conceptualizing experience as involving an objective order and arrangement of items amounts to making objectively valid judgments about it, which, in turn, implies that experience must consist of a rule-governed connectedness of representations (1966: 98). Summarizing, from a premise about self-consciousness, we can infer that the subject must conceptualize her experience so as to feature a distinction between “the subjective route of his experience and the objective world through which it is a route,” where the experience of the objective world consists in a rule-governed order of representations (1966: 105).
+    step1: TBD
+    step2: TBD
+  - id: 117
+    kind: body
+    source: |-
+      Barry Stroud, in his 1968 article “Transcendental Arguments,” issued a formidable challenge to the enterprise of defeating the external-world skeptic by transcendental arguments of this sort (Stroud 1968)[^stroud-1968]. There Stroud contends that such transcendental arguments are undermined by a problem which can be stated quite generally. These arguments feature reasoning from some aspect of experience or knowledge to the claim that the contested feature of the external world in fact exists. In each case the *existence* of the external feature will not be a necessary condition of the aspect of experience or knowledge in question, for a *belief* about the external feature would always suffice. Although the claim about existence of the aspect of the external world could be secured if certain kinds of verificationism or idealism were presupposed, these views are highly controversial. Besides, one could make as much of an inroad against the skeptic armed with the verificationism or idealism alone, without adducing the transcendental argument at all (cf. Brueckner 1983, 1984)[^brueckner-1983].
+    step1: TBD
+    step2: TBD
+  - id: 118
+    kind: body
+    source: |-
+      Although Strawson’s transcendental argument in *The Bounds of Sense* is not a specific target in Stroud’s (1968), Anthony Brueckner suggests that it is susceptible to the line of criticism that Stroud develops (Brueckner 1983: 557–8)[^brueckner-1983]. For, arguably, Strawson can only conclude that experience must be conceptualized in a certain way, such as to allow the subject to make the distinction between an objective world and her subjective path through it. This is not a conclusion about how a mind-independent world must be, but only about how it must be thought. (Alternatively, Strawson might be read as drawing only a conclusion about how experience must be conceptualized, which would render the transcendental argument as one of a more modest variety (see below)).
+    step1: TBD
+    step2: TBD
+  - id: 119
+    kind: body
+    source: |-
+      Recent developments of transcendental arguments reflect a struggle to accommodate Stroud’s criticism, and often chastened expectations about what such arguments might establish by way of refuting skepticism. One more modest sort of transcendental argument begins with a premise about experience or knowledge that is acceptable to the skeptic in question, and then proceeds not to the existence of some aspect of the external world, but in accord with Stroud’s criticism, to a belief in the existence of some aspect of the external world. Stroud himself advocates a strategy of this sort (Stroud 1994, 1999)[^stroud-1994], as does Robert Stern (1999). The kind proposed by Stroud begins with the premise that we think of the world as being independent of us, and it concludes, as a necessary condition of this premise, that we must think of it as containing enduring particulars. Such an argument does not claim that as a necessary condition of this premise there must exist such particulars. It contends only for “a connection solely within our thought: if we think in certain ways, we must think in certain other ways” (Stroud 1999: 165)[^stroud-1999]. A belief or thought to which one reasons in this way would, in Stroud’s conception, have a certain *indispensability*, “because no belief that must be present in any conception or any set of beliefs about an independent world could be abandoned consistently with our conception of the world at all,” and it would be *invulnerable* “in the special sense that it could not be found to be false consistently with its being found to be held by people” (Stroud 1999: 166)[^stroud-1999].
+    step1: TBD
+    step2: TBD
+  - id: 120
+    kind: body
+    source: |-
+      Stern advances a conception of this kind of argument on which it addresses a skeptic who questions whether certain beliefs cohere with others in one’s set, as opposed to a skeptic who questions whether certain beliefs are true (Stern 1999)[^stern-1999]. A modest transcendental argument would then aim to show that a belief whose coherence with the other beliefs is challenged so coheres after all. The requisite coherence might be demonstrated by showing that the belief in question is actually a necessary condition of a belief that is indispensable (in some coherentist sense) to one’s set. Mark Sacks (1999) objects that if at the same time one were to admit that the belief might not be true, one’s sense that one is justified in holding the belief would be undermined. This worry is a serious one. Sacks argues that it arises because of a tension between the coherentist theory of justification and the realist correspondence theory of truth that the external world skeptic presupposes. One might respond, he points out, by accepting a coherence theory of truth as well, but this would be to adopt a version of idealism. Moreover, it seems that Sacks’s proposal would not solve the problem, for the reason that even if one accepted a coherence theory of truth, one would still have to admit that for specific instances of a belief one might be mistaken, even if one maintained that one was justified in holding that belief on grounds of coherence.
+    step1: TBD
+    step2: TBD
+  - id: 121
+    kind: body
+    source: |-
+      An important criticism of Stroud’s proposed sort of modest transcendental argument is raised by Brueckner (1996). Brueckner addresses the fit between the claim that certain non-skeptical beliefs are invulnerable in Stroud’s sense, and the admission that they might not be true. More precisely, he challenges the claim that one can simultaneously affirm the following two principles, each gleaned from Stroud (1994):
+    step1: TBD
+    step2: TBD
+  - id: 122
+    kind: body
+    source: |-
+      > (CT) If we attribute beliefs to speakers (if we believe that they have beliefs with determinate contents), then we must also believe that there is an independent world of enduring objects with which they interact.
+    step1: TBD
+    step2: TBD
+  - id: 123
+    kind: body
+    source: |-
+      and
+    step1: TBD
+    step2: TBD
+  - id: 124
+    kind: body
+    source: |-
+      > (SK) Although we believe many things about a world independent of us and our experiences, … none of those beliefs is true.
+    step1: TBD
+    step2: TBD
+  - id: 125
+    kind: body
+    source: |-
+      Brueckner divides (SK) into
+    step1: TBD
+    step2: TBD
+  - id: 126
+    kind: body
+    source: |-
+      1. We believe many things about an external reality independent of us and our experiences; and:
+      2. None of these beliefs is true.
+    step1: TBD
+    step2: TBD
+  - id: 127
+    kind: body
+    source: |-
+      Stroud argues, in effect, that given CT we cannot believe that (i) and (ii) are true, but nonetheless, we can believe that (i) and (ii) are logically compossible given CT. Brueckner argues that using similar reasoning, given CT we cannot conceive of a possible world in which both (i) and (ii) hold, and this fact undermines Stroud’s claim. To conceive of a world W in which (i) is true is to conceive of a world in which we (in the actual world) attribute beliefs about mind-independent objects to counterfactual versions of us (CVs) in W. But given CT, we must now also conceive of W as featuring mind-independent objects with which these CVs interact. Consider the CVs’ belief *that there exist mind-independent objects* – a belief they share with us. This belief of theirs will be true. And thus in W (ii) will be false. Hence we have not conceived of a world in which given CT, SK is nevertheless true, and indeed, we will not be able to conceive of such a world. But our not being able to conceive of a possible world in which given CT, SK is true, constitutes strong evidence against the claim that SK is logically possible given CT (1996: 274–75). Brueckner does not think that this argument demonstrates that it is inconsistent to accept CT and assert that SK is logically possible, but that there will be no evidence of the usual kind for this claim – evidence from conceivability. Thus given the transcendental argument he advances, Stroud will be pushed in the direction of the immodest conclusion that it is not possible for us to be mistaken in our belief that there exist mind-independent objects.
+    step1: TBD
+    step2: TBD
+  - id: 128
+    kind: body
+    source: |-
+      From this one might be tempted to conclude that despite his critique of 1968, Stroud, with Brueckner’s assistance, has found a transcendental argument that does in fact establish a conclusion about the external world. However, so far nothing has been said to turn back Stroud’s 1968 critique, and it seems much more likely that the argument Stroud now advances can at best conclude with a version of CT in which the term “independent” must be read in a transcendentally ideal sense – in which, for example, the nature of certain physical objects is determined by our best scientific theories about them, and our sensory experiences can be in error about these objects. And if this is so, then the argument would secure a belief about the external world only on the presupposition of metaphysical idealism, and this is one of the ways in which anti-skeptical transcendental arguments might be doomed according to Stroud’s 1968 critique.
+    step1: TBD
+    step2: TBD
+  - id: 129
+    kind: body
+    source: |-
+      Despite these sorts of challenges, the aspiration to forge transcendental arguments with considerable anti-skeptical force has not waned. Qassim Cassam (1999), Sacks (2000), and Stern (2000), for example, have developed creative and nuanced versions of transcendental arguments designed to negotiate the type of problem Stroud has pressed.
+    step1: TBD
+    step2: TBD
+  - id: 130
+    kind: body
+    source: |-
+      ## 4. Contemporary Practical Transcendental Arguments
+    step1: TBD
+    step2: TBD
+  - id: 131
+    kind: body
+    source: |-
+      Kant ethical writings (1785, 1788) feature several widely and intensely discussed transcendental arguments (see the entry Kant’s moral philosophy). As in metaphysics and epistemology, in recent times anti-skeptical transcendental arguments have also been developed in the practical sphere.
+    step1: TBD
+    step2: TBD
+  - id: 132
+    kind: body
+    source: |-
+      One of P. F. Strawson’s most influential works is his essay on moral responsibility, “Freedom and Resentment” (Strawson 1962)[^strawson-1962]. The reasoning in this article has not traditionally been interpreted as a transcendental argument, but recently Justin Coates has made a strong case for such a reading (Coates 2017; cf. Pereboom 2016)[^coates-2017][^pereboom-2016]. In Coates’s account, the argument begins with the premise to which the moral responsibility skeptic would agree, that meaningful adult interpersonal relationships are possible for us. It continues by pointing out that relationships of this sort require that the participants show each other good will and respect, and that they be justified in expecting this of one another. Expectations for good will and respect in turn require susceptibility to the reactive attitudes, such as moral resentment, indignation, and gratitude, and in particular, justified expectations for good will and respect presuppose that the participants are apt recipients of these reactive attitudes. But to be an apt target of the reactive attitudes is just what it is to be a morally responsible agent. Consequently, that we are morally responsible agents is a necessary condition of the possibility for us of meaningful adult interpersonal relationships.
+    step1: TBD
+    step2: TBD
+  - id: 133
+    kind: body
+    source: |-
+      Note that not all the connections among the steps of the argument are plausibly instances of appeals to logical or even metaphysical necessary conditions. True, some are: if being an apt target of the reactive attitudes is what it is to be a morally responsible agent, the necessary connection invoked would be conceptual or metaphysical. But if expectations for good will and respect do require susceptibility to the reactive attitudes, this would be plausibly a case of nomological necessitation, where the relevant laws are psychological. But given the sort of skepticism targeted, nomological necessitation is not too weak a connection; it is not called into question by the arguments of the moral responsibility skeptic.
+    step1: TBD
+    step2: TBD
+  - id: 134
+    kind: body
+    source: |-
+      Critics have in effect taken issue with a number of steps of this argument, for example that expectations for good will and respect require susceptibility to the reactive attitudes, and that justified expectations for good will and respect presuppose that the participants are apt recipients of the reactive attitudes. Perhaps human relationships do not require susceptibility to moral resentment and indignation, but only to the nonreactive attitudes of moral protest, disappointment, and sorrow (Pereboom 2021)[^pereboom-2021]. Another avenue of criticism involves separating moral responsibility from being an apt target of the reactive attitudes. It may be that a forward-looking, that is, what Strawson calls an ‘optimistic’ notion of responsibility, is all that’s required for good relationships, and it is not characterized by being an apt target of the reactive attitudes. But these criticisms are controversial, and Strawson’s argument is widely accepted and acclaimed.
+    step1: TBD
+    step2: TBD
+  - id: 135
+    kind: body
+    source: |-
+      Another prominent transcendental argument in the practical sphere is the sort Christine Korsgaard (1996) develops for Kantian claim that we must value ourselves as rational agents. Here is Robert Stern and Tony Cheng’s (2023) representation of one argument of this sort. The initial premise concerns rational choice, and crucially features the notion of an agent’s practical identity, the distinctive nature of a person as an agent, which may include, for example, being a parent or a philosophy professor:
+    step1: TBD
+    step2: TBD
+  - id: 136
+    kind: body
+    source: |-
+      1. To rationally choose to do X, you must take it that doing X is the rational thing to do.
+      2. Since there is no reason in itself to do X, you can take it that X is the rational thing to do only if you regard your practical identity as making X the rational thing to do.
+      3. You cannot regard your practical identity as making doing X the rational thing to do unless you can see some value in that practical identity.
+      4. You cannot see any value in any particular practical identity as such, but can regard it as valuable only because of the contribution it makes to giving you reasons and values by which to live.
+      5. You cannot see having a practical identity as valuable in this way unless you think your having a life containing reasons and values is important.
+      6. You cannot regard it as important that your life contain reasons and values unless you regard your leading a rationally structured life as valuable.
+      7. You cannot regard your leading a rationally structured life as valuable unless you value yourself qua rational agent.
+      8. Therefore, you must value yourself qua rational agent, if you are to make any rational choice.
+    step1: TBD
+    step2: TBD
+  - id: 137
+    kind: body
+    source: |-
+      Stern and Cheng (2023) explain this argument as follows. To act is to do or choose something for a reason. However, an agent has reasons to act only because of her practical identity; she does not have reasons to act independently of that identity. But a practical identity can yield such a reason only if she regards that identity as valuable. Merely being a parent gives one no reason to care for one’s children. Rather, valuing one’s parenthood has this force. At the same time, an agent cannot regard a particular practical identity as valuable in itself; Korsgaard argues that this sort of realism about value is implausible. The only remaining explanation is that she regards it as valuable because of the contribution it makes to providing her with reasons and values by which to live. But then she must believe that it matters that her life has the sort of rational structure that having such identities provides. However, to see that as mattering, she must regard leading a rationally structured life as valuable. Then, in conclusion, to regard leading such a life as valuable, an agent must see her rational nature as valuable.
+    step1: TBD
+    step2: TBD
+  - id: 138
+    kind: body
+    source: |-
+      ## 5. Concluding Remarks
+    step1: TBD
+    step2: TBD
+  - id: 139
+    kind: body
+    source: |-
+      The legacy of the arguments such as the Transcendental Deduction and the Refutation of Idealism includes not only Kant’s actual successes, but also a number of influential philosophical strategies: the now-standard tactic of arguing for concepts whose source is in the mind from universal and necessary features of experience; the idea of drawing significant philosophical conclusions from premises about self-consciousness alone; and the notion of a transcendental argument, which from an uncontroversial premise about our thought, knowledge or experience, reasons to a substantive and unobvious presupposition and necessary condition of this claim.
+    step1: TBD
+    step2: TBD
+  - id: 140
+    kind: oir
+    source: |-
+      - [Kant on the Web](http://www.hkbu.edu.hk/~ppp/Kant.html), including many links to other sites and e-texts, maintained by Stephen Palmquist.
+    step1: TBD
+    step2: TBD
