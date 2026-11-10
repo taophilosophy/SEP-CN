@@ -431,5 +431,17 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
   startle response（下位「震惊条件反射实验」）、statistical learning（下位「统计学习理论」）、steering（航海「操舵」异义）、
   stem cell bank（下位「胚胎干细胞库」）。
 
+### 六、第四批增量裁定（offset 2116–2172，8 条）
+
+* 审计刷新：一致 556 / 不一致 376 / 查无 1990 / 未查证 5755；新增不一致 8 条。
+* **主译变更 2 条**：strict finitism「严格有限主义」→「严格有穷论」（审定名词·自然辩证法名词；`i/intuitionism.md` 看齐）、
+  subjective well-being「主观幸福」→「主观幸福感」（审定名词·心理学名词；`d/disability-care-rationing.md` 看齐）。
+* **保留 5 条**：strategy-proof（「证明策略」假阳性）、strict implication（社会学假阳性）、subject-matter（经贸「标的物」异义）、
+  subjunctive hypocrisy（假阳性）、subsistence（地理「自给」异义）。
+* **待用户裁定 1 条**：Stoic——审定命中「斯多葛学派/斯多葛派」（自然辩证法·世界历史，en=Stoics），本库现行「斯多亚（斯多亚学派）」
+  全库正文 372 处（斯多亚派 171/斯多亚主义 43/斯多亚学派 21），而词汇表 Stoicism 行已用「斯多葛主义」（两形并存约 1:15）。
+  按 ADR-0012 档位应采审定形，但涉全库批量改名，上报裁定后另批执行。
+
+
 
 

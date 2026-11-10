@@ -4310,7 +4310,7 @@
 | stratified | — | 分层的 | quine-nf | 数理逻辑通行译名（stratified formula 分层公式）；凭证 2026-11-09 | 2026-11-09 |
 | stratified comprehension | — | 分层概括 | quine-nf | NF 公理图式通行译名；凭证 2026-11-09 | 2026-11-09 |
 | stratified semantics | — | 分层语义 | logic-relevance | Fine 1988b 术语直译；凭证 2026-11-09 | 2026-11-09 |
-| strict finitism | — | 严格有限主义 | 首现（intuitionism） | 本词条首译（Wright）；凭证 2026-11-10 | 2026-11-10 |
+| strict finitism | — | 严格有穷论（亦作“严格有限主义”） | 首现（intuitionism） | 审定名词库（termonline-all·自然辩证法名词，2026-11-11 浏览器通道凭证）；Wright 1982 | 2026-11-11 |
 | strict implication | — | 严格蕴涵 | dialectical-school | 逻辑学通行译法（现代模态条件句）；凭证 2026-11-07 | 2026-11-07 |
 | strict/tolerant validity | — | 严格/宽容有效性 | logic-substructural | Cobreros 等术语直译；凭证 2026-11-10 | 2026-11-09 |
 | string | — | 字符串 | schema | 学界惯例（计算机与数理逻辑通行） | 2026-11-06 |
@@ -4339,7 +4339,7 @@
 | subject-matter | — | 主题（伽达默尔/艺术语境；Gadamer 的 Sache） | logic-relevance；gadamer-aesthetics | 学界惯例（美学研究通行）；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | subjective probability | — | 主观概率 | 语料回收（bayes-theorem） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | subjective right | — | 主观权利 | marsilius-padua | 学界通行（Brett/Tierney 讨论用）；凭证 2026-11-08 | 2026-11-08 |
-| subjective well-being | — | 主观幸福 | disability-care-rationing | 幸福研究通行（Kahneman, Diener & Schwarz 1999）；凭证 2026-11-08 | 2026-11-08 |
+| subjective well-being | — | 主观幸福感（亦作“主观幸福”） | disability-care-rationing | 审定名词库（termonline-all·心理学名词，2026-11-11 浏览器通道凭证）；Kahneman, Diener & Schwarz 1999 | 2026-11-11 |
 | subjectivism | — | 主观主义 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | Subjekt-Objekt-Spaltung | Subjekt-Objekt-Spaltung | 主客分裂 | jaspers 首译 | 学界通行（雅斯贝尔斯“主体—客体分裂”）；凭证 2026-11-09 | 2026-11-09 |
 | subjunctive conditional | — | 虚拟条件句 | necessary-sufficient | 逻辑学/语言学通行；凭证 2026-11-08 | 2026-11-08 |
