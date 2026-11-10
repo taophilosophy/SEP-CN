@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-10 01:14（UTC）
+生成时间：2026-11-10 01:29（UTC）
 
 ## 总览
 
@@ -12,9 +12,9 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1173|
+|已建任务|1174|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|270|
+|已完成（done）|271|
 |在途（drafted 起、done 前）|226|
 |阻塞|0|
 
@@ -23,13 +23,13 @@
 |状态|数量|
 |---|---|
 |pending|677|
-|cleared|151|
+|cleared|152|
 |drafted|3|
 |s1_checked|1|
-|s3_checked|67|
+|s3_checked|66|
 |r1_reviewed|3|
 |r2_reviewed|1|
-|done|270|
+|done|271|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -37,7 +37,7 @@
 |---|---|---|---|---|
 |A|160|160|160|57|
 |B|62|62|62|15|
-|C|172|172|172|12|
+|C|172|172|172|13|
 |D|92|92|92|12|
 |E|99|99|99|19|
 |F|96|96|96|1|
@@ -46,7 +46,7 @@
 |I|75|75|75|22|
 |J|38|38|38|9|
 |K|36|36|36|21|
-|L|144|144|28|27|
+|L|144|144|29|27|
 |M|139|139|14|6|
 |N|50|50|7|4|
 |O|21|21|11|8|
@@ -131,7 +131,6 @@
 |byzantine-philosophy|retranslate|cleared|task_ops 2026-11-01|
 |cambridge-platonists|retranslate|r2_reviewed|REV-main-20261109 2026-11-09|
 |cancer|retranslate|s3_checked|C-main-20261109b 2026-11-09|
-|carneades|retranslate|s3_checked|主代理 2026-11-01|
 |cassirer|retranslate|s3_checked|主代理 2026-11-01|
 |certainty|retranslate|s3_checked|主代理 2026-11-01|
 |change|retranslate|s3_checked|主代理 2026-11-01|
@@ -267,6 +266,7 @@
 |kukai|retranslate|cleared|task_ops 2026-11-01|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
 |logic-linear|retranslate|s3_checked|L-main-20261109c 2026-11-10|
+|logic-massexpress|retranslate|cleared|task_ops 2026-11-10|
 |mandeville|retranslate|s3_checked|M-main-20261108 2026-11-08|
 |marsilius-padua|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |model-organisms|retranslate|s3_checked|M-main-20261109 2026-11-09|
