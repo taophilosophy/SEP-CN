@@ -2,7 +2,7 @@
   "slug": "organs-sale",
   "kind": "retranslate",
   "zh_doc": "o/organs-sale.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-10T19:01:51Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "O3-main-20261110",
+      "at": "2026-11-10T21:27:17Z",
+      "evidence": "draft（O3-main-20261110 主会话直译）：task create/clear 基线门通过；lq init 124 段（body 122 + oir + ack，biblio 照录 79）；六批（p1–p5 + 名称修）填双版；lq check HARD=0（SOFT：8 标题段 step1==step2；段 121 斜体书名号化 6→4；段 123 oir 斜体 2→0）；货币 $ 符号按源保留（段 28/75/89 共 4 处，守恒门 $ 计数硬门要求）；compose 写回 29,678 字符；italic→bold 20 行；postfix bullets 10。版本钉 Oct 17, 2011 / substantive revision Mar 10, 2025。"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "O3-main-20261110",
+      "at": "2026-11-10T21:27:17Z",
+      "evidence": "s1 对照核销（124 段逐段回核 yuanwen/o/organs-sale.md）：结构五维——H2/H3 17:17、脚注标记 130:130（键集全等）、defs 79:79（键集全等）、年份序列一致、公式 0（无 $ 数学，货币 $ 照源）。术语核对：器官买卖/器官贩运/利他主义/超义务/对象化/工具化/商品化/剥削/强制选择/推定同意 均合册；新登 7 行（commodification、crowding out、instrumentalisation、organ sale、organ trafficking、risky labour、undue inducement）。人名：诺齐克/桑德尔/萨武列斯库 按册内汉名回改（原文初稿作英文）；新登 7 行（Arrow 肯尼斯·阿罗、Titmuss 理查德·蒂特马斯、Wertheimer 艾伦·沃特海默、Radcliffe Richards/Cameron/Hoffenberg/Wackenheim 保留英文）。相关词条 3 条源文以 markdown 链接给出（compose 不识别），s1 按 SUMMARY 正形改写为「集体责任 | 共同善 | 人类卵子和精子的捐献与买卖」。源文疑点照录：段 5「Radcliffe Richards et al. (1998, 1950)」页码疑为 1950 页（照录）；段 92 引文「concensual」系 consensual 笔误（译按同意义）；OIR 十条链接照录。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "O3-main-20261110",
+      "at": "2026-11-10T21:27:17Z",
+      "evidence": "s2 语言优化（check_prose 实修）：首轮 23 → 实修 22（第二轮 1）→ 终态 3，余 3 条全在直引文内部（段 30 Fabre 2006、段 97 Radcliffe Richards 2010 两处），按 ADR-0020 引文完整性豁免。实修分类：de-chain 10（如「本词条概述器官买卖可能采取的几种形态，简述支持的理由」→「先概述…简述支持理由」）；长句拆分 9（段 14 84/79 汉字、段 20 74、段 53 73、段 62 78、段 64 72、段 90 70、段 95 73、段 121 79）；weak-verb 2（加以监管→实行监管）；passive-bei 3（广被接受→广受接受、被视为→算、被不公分配→分配不公）。cjk-spacing 1（$10,000 后补空格）。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "O3-main-20261110",
+      "at": "2026-11-10T21:27:18Z",
+      "evidence": "s3 四检：check_style --strict 0 issue；check_academic --strict 无硬错误（版本钉 Oct 17, 2011 / Mar 10, 2025）；check_math organs-sale 公式 0 缺失 0 失衡；check_prose 余 3 条均为直引文内部（ADR-0020 豁免）；check_summary 本条 H1「人体器官买卖 sale of human organs (Stephen Wilkinson)」与 SUMMARY 全等；markdownlint 本文件待复跑。守恒门 124 段 HARD=0。"
     }
   ],
   "blockers": [],
