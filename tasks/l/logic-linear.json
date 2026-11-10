@@ -2,7 +2,7 @@
   "slug": "logic-linear",
   "kind": "retranslate",
   "zh_doc": "l/logic-linear.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "L-main-20261109c",
       "at": "2026-11-10T01:06:42Z",
       "evidence": "对照 yuanwen/l/logic-linear.md 逐段回读 113 段：标题层级 1–6 节与 1.1–6.3 子节一致；90 条脚注定义与文内 [^key] 引用逐键对位；11 幅图的相对路径与 assets/logic-linear 文件一一有解（SHA-256 相符）；源文长句（'Sequentializing' 段、ELL 段）按分句处理不增删命题"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-10T01:52:52Z",
+      "evidence": "冷置后 r1（间隔：logic-massexpress 全条新译）：四门禁复跑全绿（style 0 / prose 0 / math missing 0，unbalanced 2 为 yuanwen $0、$2^n 货币启发式假阳性）；11 幅图相对路径逐条解析通过；相关词条与源对位"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-10T01:52:53Z",
+      "evidence": "r2 复校：术语一致性查得 substructural logic 产物作“次结构逻辑”，与 SUMMARY/mu-lu-s 及 logic-fuzzy、logic-relevance 既有“子结构逻辑”不一致——正文 1 处与登记册行同步改为“子结构逻辑”（check_terms 硬错误仍 0）；矢列演算 20 处无“序列演算”异形；check_terms/check_academic/check_summary 均绿"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-10T01:52:55Z",
+      "evidence": "r3 终校：全文回读 113 段，1–6 节及 1.1–6.3 与源标题一致；90 条文献脚注齐备；规则块 \\frac 标签（init/cut/\\one R 等）照录不改；无 TBD/英文残句"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-10T01:52:56Z",
+      "evidence": "done 收口：四门禁 + 学术规范 + 术语/摘要检查全绿；images 11/11 校验和相符；r2 修术语异形"
     }
   ],
   "blockers": [],

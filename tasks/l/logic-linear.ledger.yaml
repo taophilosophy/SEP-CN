@@ -127,9 +127,9 @@ segments:
     source: |-
       Prior to the introduction of linear logic in 1987, various researchers had been working on various kinds of substructural logic in which not all of Gentzen’s structural rules (contraction, weakening, and exchange) are accepted. Lambek studied a sequent calculus proof systems in which none of these structural rules were permitted (Lambek 1958)[^lambek-1958]. Other examples of such logics are relevant logic (in which weakening is not accepted) (Anderson & Belnap 1975, Anderson *et al.* 1992, Avron 1988, Read 1988)[^anderson-1975][^anderson-1975-2][^avron-1988][^read-1988]. and affine logic (in which contraction is not accepted) (Grishin 1981)[^grishin-1981].
     step1: |-
-      1987 年线性逻辑问世之前，已有研究者在研究各种次结构逻辑：其中 Gentzen 的结构规则（收缩、弱化、交换）并非全部被接受。Lambek 研究过一种矢列演算证明系统，其中三条结构规则一概不许（Lambek 1958）[^lambek-1958]。这类逻辑的其他例子有相干逻辑（不接受弱化）（Anderson & Belnap 1975, Anderson *et al.* 1992, Avron 1988, Read 1988）[^anderson-1975][^anderson-1975-2][^avron-1988][^read-1988]，以及仿射逻辑（不接受收缩）（Grishin 1981）[^grishin-1981]。
+      1987 年线性逻辑问世之前，已有研究者在研究各种子结构逻辑：其中 Gentzen 的结构规则（收缩、弱化、交换）并非全部被接受。Lambek 研究过一种矢列演算证明系统，其中三条结构规则一概不许（Lambek 1958）[^lambek-1958]。这类逻辑的其他例子有相干逻辑（不接受弱化）（Anderson & Belnap 1975, Anderson *et al.* 1992, Avron 1988, Read 1988）[^anderson-1975][^anderson-1975-2][^avron-1988][^read-1988]，以及仿射逻辑（不接受收缩）（Grishin 1981）[^grishin-1981]。
     step2: |-
-      1987 年线性逻辑问世之前，已有不少人在研究各种次结构逻辑：Gentzen 的结构规则（收缩、弱化、交换）并非全部接受。Lambek 研究过一种三条结构规则一概不许的矢列演算证明系统（Lambek 1958）[^lambek-1958]；其他例子有相干逻辑（不接受弱化）（Anderson & Belnap 1975, Anderson *et al.* 1992, Avron 1988, Read 1988）[^anderson-1975][^anderson-1975-2][^avron-1988][^read-1988]，以及仿射逻辑（不接受收缩）（Grishin 1981）[^grishin-1981]。
+      1987 年线性逻辑问世之前，已有不少人在研究各种子结构逻辑：Gentzen 的结构规则（收缩、弱化、交换）并非全部接受。Lambek 研究过一种三条结构规则一概不许的矢列演算证明系统（Lambek 1958）[^lambek-1958]；其他例子有相干逻辑（不接受弱化）（Anderson & Belnap 1975, Anderson *et al.* 1992, Avron 1988, Read 1988）[^anderson-1975][^anderson-1975-2][^avron-1988][^read-1988]，以及仿射逻辑（不接受收缩）（Grishin 1981）[^grishin-1981]。
   - id: 16
     kind: body
     source: |-

@@ -31,7 +31,7 @@
 
 Gentzen 的直觉主义矢列演算，是把其经典矢列演算限制为右手侧至多一个公式而来（Gentzen 1935）[^gentzen-1935]。这种单结论限制也能在线性逻辑里探讨。多位研究者考察过 MLL、MALL、MELL 的直觉主义变体：IMLL（Lamarche 1996）[^lamarche-1996]、IMALL（Lincoln *et al.* 1993）[^lincoln-1993]、IMELL（Dal Lago 与 Laurent 2008）[^dal-2008]。Schellinx（1991）给出经典线性逻辑相对相应直觉主义变体的一些保守性结果，另见（Troelstra 1992）[^troelstra-1992]。
 
-1987 年线性逻辑问世之前，已有不少人在研究各种次结构逻辑：Gentzen 的结构规则（收缩、弱化、交换）并非全部接受。Lambek 研究过一种三条结构规则一概不许的矢列演算证明系统（Lambek 1958）[^lambek-1958]；其他例子有相干逻辑（不接受弱化）（Anderson & Belnap 1975, Anderson *et al.* 1992, Avron 1988, Read 1988）[^anderson-1975][^anderson-1975-2][^avron-1988][^read-1988]，以及仿射逻辑（不接受收缩）（Grishin 1981）[^grishin-1981]。
+1987 年线性逻辑问世之前，已有不少人在研究各种子结构逻辑：Gentzen 的结构规则（收缩、弱化、交换）并非全部接受。Lambek 研究过一种三条结构规则一概不许的矢列演算证明系统（Lambek 1958）[^lambek-1958]；其他例子有相干逻辑（不接受弱化）（Anderson & Belnap 1975, Anderson *et al.* 1992, Avron 1988, Read 1988）[^anderson-1975][^anderson-1975-2][^avron-1988][^read-1988]，以及仿射逻辑（不接受收缩）（Grishin 1981）[^grishin-1981]。
 
 ### 1.2 线性逻辑与计算机科学
 
