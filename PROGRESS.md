@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-10 02:17（UTC）
+生成时间：2026-11-10 02:46（UTC）
 
 ## 总览
 
@@ -12,24 +12,23 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1175|
+|已建任务|1174|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|278|
-|在途（drafted 起、done 前）|220|
+|已完成（done）|286|
+|在途（drafted 起、done 前）|213|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|677|
-|cleared|152|
+|pending|675|
+|cleared|143|
 |drafted|3|
-|s1_checked|1|
-|s3_checked|60|
-|r1_reviewed|3|
+|s3_checked|62|
+|r1_reviewed|4|
 |r2_reviewed|1|
-|done|278|
+|done|286|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -41,20 +40,20 @@
 |D|92|92|92|12|
 |E|99|99|99|19|
 |F|96|96|96|1|
-|G|49|49|49|4|
+|G|49|49|49|8|
 |H|61|61|61|11|
-|I|75|75|75|22|
+|I|75|75|75|26|
 |J|38|38|38|9|
 |K|36|36|36|21|
-|L|144|144|30|28|
+|L|144|144|29|28|
 |M|139|139|14|6|
-|N|50|50|7|4|
+|N|50|50|7|5|
 |O|21|21|11|8|
 |P|165|165|11|7|
 |Q|34|34|34|1|
 |R|85|85|85|9|
 |S|161|161|18|16|
-|T|71|71|7|3|
+|T|71|71|7|2|
 |U|4|4|0|0|
 |V|15|15|0|0|
 |W|38|38|7|3|
@@ -66,7 +65,7 @@
 
 |slug|类型|状态|最后执行|
 |---|---|---|---|
-|adorno|retranslate|s1_checked|A5-main-20261110 2026-11-10|
+|adorno|retranslate|cleared|task_ops 2026-10-31|
 |aesthetic-testimony|retranslate|cleared|task_ops 2026-10-31|
 |aesthetics-19th-romantic|retranslate|cleared|task_ops 2026-10-31|
 |aesthetics-cogsci|retranslate|cleared|task_ops 2026-10-31|
@@ -146,7 +145,7 @@
 |cosmopolitanism|retranslate|s3_checked|C-main-20261109b 2026-11-09|
 |crescas|retranslate|s3_checked|C-main-20261108 2026-11-07|
 |dai-zhen|retranslate|s3_checked|D-main-20261107 2026-11-07|
-|davidson|retranslate|cleared|task_ops 2026-11-01|
+|davidson|retranslate|s3_checked|D-main-20261110 2026-11-09|
 |deductivism-mathematics|retranslate|s3_checked|D-main-20261107 2026-11-07|
 |demonstration-medieval|retranslate|s3_checked|sub-demonstration-medieval 2026-11-01|
 |descartes-ethics|retranslate|s3_checked|? 2026-11-04|
@@ -163,7 +162,7 @@
 |early-modern-india|retranslate|cleared|task_ops 2026-11-09|
 |ecological-genetics|retranslate|s3_checked|EF-main3-20261109 2026-11-09|
 |experimental-aesthetics|retranslate|s3_checked|EFG-main-20261108 2026-11-08|
-|frame-problem|retranslate|cleared|task_ops 2026-11-06|
+|frame-problem|retranslate|s3_checked|F-main-20261110 2026-11-09|
 |gadamer-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |galen|retranslate|cleared|task_ops 2026-11-01|
 |galileo|retranslate|cleared|task_ops 2026-11-01|
@@ -174,22 +173,19 @@
 |genetic-drift|retranslate|cleared|task_ops 2026-11-01|
 |genotype-phenotype|retranslate|cleared|task_ops 2026-11-01|
 |george-eliot|retranslate|cleared|task_ops 2026-11-01|
-|gianfrancesco-pico|retranslate|s3_checked|g-beta-G-main-20261109 2026-11-09|
-|giles|retranslate|cleared|task_ops 2026-11-01|
 |global-democracy|retranslate|cleared|task_ops 2026-11-01|
-|god-necessary-being|retranslate|s3_checked|g-gamma-G-main-20261109 2026-11-09|
 |goedel|retranslate|cleared|task_ops 2026-11-01|
 |goodman|retranslate|cleared|task_ops 2026-11-01|
 |haecceitism|retranslate|cleared|task_ops 2026-11-01|
 |halevi|retranslate|cleared|task_ops 2026-11-01|
 |hamann|retranslate|cleared|task_ops 2026-11-01|
-|han-dynasty|retranslate|cleared|task_ops 2026-11-01|
+|han-dynasty|retranslate|s3_checked|H-main-20261110 2026-11-09|
 |happiness|retranslate|cleared|task_ops 2026-11-01|
 |hartley|retranslate|cleared|task_ops 2026-11-01|
 |health-disease|retranslate|cleared|task_ops 2026-11-01|
 |hedonism|retranslate|cleared|task_ops 2026-11-01|
 |hegel-dialectics|retranslate|cleared|task_ops 2026-11-01|
-|hegel-social-political|retranslate|cleared|task_ops 2026-11-01|
+|hegel-social-political|retranslate|s3_checked|H-main-20261110 2026-11-09|
 |heraclitus|retranslate|r1_reviewed|H-main-20261109 2026-11-09|
 |heritability|retranslate|cleared|task_ops 2026-11-01|
 |hermann-helmholtz|retranslate|cleared|task_ops 2026-11-01|
@@ -206,15 +202,11 @@
 |hume-freewill|retranslate|cleared|task_ops 2026-11-01|
 |hume-moral|retranslate|cleared|task_ops 2026-11-01|
 |humor|retranslate|cleared|task_ops 2026-11-01|
-|illumination|retranslate|s3_checked|I-main-20261108 2026-11-07|
 |imaginative-resistance|retranslate|cleared|task_ops 2026-11-01|
 |immunology|retranslate|cleared|task_ops 2026-11-01|
 |impossible-worlds|retranslate|cleared|task_ops 2026-11-01|
 |information-biological|retranslate|cleared|task_ops 2026-11-01|
-|ingarden|retranslate|s3_checked|I-main-20261108 2026-11-08|
 |intrinsic-extrinsic|retranslate|cleared|task_ops 2026-11-01|
-|intuitionism|retranslate|cleared|task_ops 2026-11-09|
-|it-moral-values|retranslate|cleared|task_ops 2026-11-08|
 |james-mill|retranslate|s3_checked|? 2026-11-07|
 |james-viterbo|retranslate|cleared|task_ops 2026-11-01|
 |japanese-confucian|retranslate|cleared|task_ops 2026-11-01|
@@ -240,7 +232,7 @@
 |justice-healthcareaccess|retranslate|cleared|task_ops 2026-11-01|
 |justice-inequality-health|retranslate|cleared|task_ops 2026-11-01|
 |justice-intergenerational|retranslate|cleared|task_ops 2026-11-01|
-|justice-moral-psych|retranslate|cleared|task_ops 2026-11-01|
+|justice-moral-psych|retranslate|s3_checked|J-main-20261110 2026-11-09|
 |justice-retributive|retranslate|cleared|task_ops 2026-11-01|
 |justice-transitional|retranslate|cleared|task_ops 2026-11-01|
 |justification-public|retranslate|cleared|task_ops 2026-11-01|
@@ -257,10 +249,9 @@
 |kant-transcendental-idealism|retranslate|cleared|task_ops 2026-11-01|
 |knowledge-how|retranslate|cleared|task_ops 2026-11-01|
 |korean-confucianism|retranslate|s3_checked|K-main-20261108b 2026-11-08|
-|kukai|retranslate|cleared|task_ops 2026-11-01|
+|kukai|retranslate|s3_checked|K-main-20261110 2026-11-09|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
 |logic-massexpress|retranslate|s3_checked|L-main-20261109c 2026-11-10|
-|logic-substructural|retranslate|cleared|task_ops 2026-11-10|
 |mandeville|retranslate|s3_checked|M-main-20261108 2026-11-08|
 |marsilius-padua|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |model-organisms|retranslate|s3_checked|M-main-20261109 2026-11-09|
@@ -268,7 +259,7 @@
 |moral-demands-permissions|retranslate|s3_checked|LMN-main-20261108f 2026-11-08|
 |moral-learning|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |music|retranslate|s3_checked|M-main-20261109b 2026-11-09|
-|newton-philosophy|retranslate|cleared|task_ops 2026-11-08|
+|nominalism-metaphysics|retranslate|cleared|task_ops 2026-11-09|
 |omnipresence|retranslate|drafted|OPQR-main-20261108 2026-11-08|
 |omniscience|retranslate|cleared|task_ops 2026-11-09|
 |paradox-of-tragedy|retranslate|s3_checked|P-main-20261110 2026-11-10|
@@ -277,6 +268,7 @@
 |risk|retranslate|s3_checked|qr-translator-1 2026-11-09|
 |sign-language-semantics|retranslate|cleared|task_ops 2026-11-10|
 |tarski-truth|retranslate|cleared|task_ops 2026-11-08|
+|telesio|retranslate|r1_reviewed|REV-main-20261109 2026-11-09|
 |theology-aristotle|retranslate|s3_checked|TZ-main-20261107 2026-11-08|
 |weyl|retranslate|cleared|task_ops 2026-11-08|
 |xunzi|retranslate|cleared|task_ops 2026-11-09|
