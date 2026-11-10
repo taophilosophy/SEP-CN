@@ -2683,7 +2683,7 @@
 * [\*统一科学——见科学：统一科学 unity of science — see science: unity of](s/scientific-unity.md)
 * [\*普遍的形质论——见最著名的一对 universal hylomorphism — see binarium famosissimum](b/binarium.md)
 * [\*普遍性——见属性 universals — see properties](p/properties.md)
-  * [中世纪的“普遍性 ”问题 The Medieval Problem of Universals](u/universals-medieval.md)
+  * [中世纪的“普遍性”问题 The Medieval Problem of Universals](u/universals-medieval.md)
 * [\*功利主义——见后果主义 utilitarianism — see consequentialism](c/consequentialism.md)
   * [功利主义史 history of (Julia Driver)](u/utilitarianism-history.md)
   * [\*规则——见后果主义：规则后果主义 rule — see consequentialism: rule](c/consequentialism-rule.md)

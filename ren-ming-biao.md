@@ -1904,8 +1904,8 @@
 | Korsmeyer, Carolyn | — | 卡罗琳·科尔斯梅耶 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
 | Koslicki, Kathrin | — | Kathrin Koslicki | — | — | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Kotarbiński, Tadeusz | — | Tadeusz Kotarbiński | — | — | lvov-warsaw | 本库惯例保留英文原名；凭证 2026-11-09 | 2026-11-09 |
-| Koyré, Alexander | — | 亚历山大·科伊雷 | 法国／科学史与现象学 | 1892–1964 | reinach | 学界通行汉译（科学史与现象学）；凭证 2026-11-09 | 2026-11-09 |
-| Koyré, Alexandre | — | Alexandre Koyré（现代学者，保留英文） | — | — | cambridge-platonists | ADR-0022（科学史家，正文 20 世纪评价段） | 2026-11-09 |
+| Koyré, Alexander | — | 亚历山大·柯瓦雷 | 法国／科学史与现象学 | 1892–1964 | reinach | 学界通行汉译（科学史与现象学）；亦作「科伊雷」；2026-11-10 裁定主形柯瓦雷（与语料回收行、词汇表、cassirer/duhem 一致）；凭证 2026-11-09 | 2026-11-10 |
+| Koyré, Alexandre | — | 亚历山大·柯瓦雷 | — | — | cambridge-platonists | ADR-0022（有通行汉名，汉名＋首现括注）；2026-11-10 由英文保留形改此，原形作废 | 2026-11-10 |
 | Kozen, Dexter | — | Dexter Kozen | — | — | logic-dynamic | 无通行汉名，保留英文原名（μ-演算）；凭证 2026-11-10 | 2026-11-09 |
 | Kraal, Anders | — | Anders Kraal（现代学者，保留英文） | — | — | deductivism-mathematics | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
 | Kraft, Victor | — | 维克托·克拉夫特 | — | — | langer | 奥地利哲学家（维也纳学派成员；学界惯用“克拉夫特”）；凭证 2026-11-08 | 2026-11-08 |

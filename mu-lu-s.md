@@ -886,7 +886,7 @@ outline: [1, 6]
 * [中世纪符号学 medieval (Stephan Meier-Oeser)](s/semiotics-medieval.md)
 * [诡辩 sophismata \[= sophisms\] (Fabienne Pironet and Joke Spruyt)](s/sophismata.md)
 * [中世纪词项属性理论 Medieval Theories: Properties of Terms](m/medieval-terms.md)
-* [中世纪的“普遍性 ”问题 The Medieval Problem of Universals](u/universals-medieval.md)
+* [中世纪的“普遍性”问题 The Medieval Problem of Universals](u/universals-medieval.md)
 * [《波尔·罗亚尔逻辑》 （《逻辑或思维的艺术》）Port Royal Logic (Alan Nelson and Jill Buroker)](p/port-royal-logic.md)
   * [中世纪情感理论 medieval theories of (Simo Knuuttila)](m/medieval-emotions.md)
   * [中世纪的未来偶然性理论 medieval theories of (Gloria Frost and Simo Knuuttila)](m/medieval-futcont.md)
