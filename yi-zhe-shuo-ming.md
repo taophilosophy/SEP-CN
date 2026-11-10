@@ -4541,7 +4541,7 @@
 | tea ceremony | — | 茶道仪式（茶会；日常语境亦作“茶道”） | japanese-aesthetics | 学界惯例（日本文化研究通行译法“茶道”） | 2026-11-02 |
 | technê | τέχνη | 技艺（亦作“技术”） | 语料回收 | 学界惯例（希腊哲学术语）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
 | technē | τέχνη | 技艺 | knowledge-how | 古希腊哲学通行译法（柏拉图／亚里士多德）；凭证 2026-11-10 | 2026-11-10 |
-| technical object | — | 技术物 | model-organisms 首译 | 与「认知物」对举的术语（Rheinberger 认知物/技术物）；审定名词库作“技术客体”（自然辩证法名词，2026-11-11 凭证），对举体例保留现译 | 2026-11-11 |
+| technical object | — | 技术物 | model-organisms 首译 | 与“认知物”对举的术语（Rheinberger 认知物/技术物）；审定名词库作“技术客体”（自然辩证法名词，2026-11-11 凭证），对举体例保留现译 | 2026-11-11 |
 | technological transparency paradox | — | 技术透明性悖论 | 首现（it-moral-values） | 首译（Vallor 2016）；凭证 2026-11-10 | 2026-11-10 |
 | tekmairesthai | τεκμαίρεσθαι | 凭征象推断 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-26 |
 | teleological explanation | — | 目的论说明 | aristotle-causality 首译 | 亚里士多德研究通行汉译；凭证 2026-11-08 | 2026-11-08 |
