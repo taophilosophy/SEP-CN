@@ -2,7 +2,7 @@
   "slug": "jaina-philosophy",
   "kind": "retranslate",
   "zh_doc": "j/jaina-philosophy.md",
-  "state": "done",
+  "state": "cleared",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,20 @@
       "actor": "?",
       "at": "2026-11-08T14:21:33Z",
       "evidence": "终审签字：六道全过，账本 137 段双版齐、四检全绿，独立复审完成；r2 补登术语两行随批提交"
+    },
+    {
+      "step": "reopen",
+      "status": "ok",
+      "actor": "pc6-20261110",
+      "at": "2026-11-10T15:31:18Z",
+      "evidence": "语体不合规（半文半白），按 ADR-0033 与用户 2026-11-10 裁定置空返工；凭证 specs/015 verdicts"
+    },
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-10T15:31:19Z",
+      "evidence": "baseline gate: hash_ok"
     }
   ],
   "blockers": [],
