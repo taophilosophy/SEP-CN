@@ -347,86 +347,114 @@ segments:
     kind: body
     source: |-
       > The separation [*Trennung*] of self and other, I and world, soul and lived body [*Leib*] is such an early separation, indeed, the first act of life, as it were, such that these derivatives appear as absolute, autonomous, and self-sufficient. (ST, pp. 11/12)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 自我与他者、我与世界、灵魂与活的身体[*Leib*]的分离[*Trennung*]是这样早的一场分离，堪称生命的第一行为，以致这些衍生者显得是绝对的、自主的、自足的。（ST, pp. 11/12）
+    step2: |-
+      > 自我与他者、我与世界、灵魂与活的身体[*Leib*]之间的分离[*Trennung*]，是这样早的一场分离——简直堪称生命的第一行为——以致这些衍生之物显得绝对、自主而自足。（ST, pp. 11/12）
   - id: 44
     kind: body
     source: |-
       Yorck concludes: “The self is only through the other, just as the other is only through the self” (ST, p. 11).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      约克总结道：“自我只有通过他者才是自身，正如他者只有通过自我才是自身。”（ST, p. 11）
+    step2: |-
+      约克的结论是：“自我唯有通过他者才成其为自身，正如他者唯有通过自我才成其为自身。”（ST, p. 11）
   - id: 45
     kind: body
     source: |-
       Yet “life” remains the primary datum for Yorck. Reminiscent of German Idealism, particularly Hegel and Hölderlin, Yorck understands life as “differentiated unity” [*differenzierte Einheitlichkeit*] (ST, p. 38). Life explicates itself in form of an inner division and polarity. Each stance of life is a particular configuration of life’s original division [*Urtheil* or *Urtheilung*] (ST, p. 25). Yorck writes:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，“生命”仍是约克那里的首要所与。约克对生命的理解令人想起德国观念论，尤其是黑格尔与荷尔德林：生命是“有差别的统一性”[*differenzierte Einheitlichkeit*]（ST, p. 38）。生命以内在划分与对立的形式展开自身。生命的每一种态度，都是生命原初划分[*Urtheil* 或 *Urtheilung*]的一种特定配置（ST, p. 25）。约克写道：
+    step2: |-
+      然而在约克那里，“生命”仍是首要的所与。约克对生命的理解，令人想起德国观念论——尤其是黑格尔与荷尔德林：生命是“有差别的统一性”[*differenzierte Einheitlichkeit*]（ST, p. 38）。生命以内在划分与对立的形式展开自身；生命的每一种态度，都是生命之原初划分[*Urtheil* 或 *Urtheilung*]的一种特定配置（ST, p. 25）。约克写道：
   - id: 46
     kind: body
     source: |-
       > Observation shows that primary life manifests a double diremption into [1] polarity [*Gegensätzlichkeit*] and [2] difference [*Verschiedenheit*], such that the character of polarity permeates and determines the elements of the articulation. (ST, p. 10)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 观察表明，原初生命显出一种双重的分裂，分为[1]对立性[*Gegensätzlichkeit*]与[2]差异性[*Verschiedenheit*]；对立性的品格渗透并规定着分节的诸要素。（ST, p. 10）
+    step2: |-
+      > 观察表明，原初生命显现为一种双重分裂：分为[1]对立性[*Gegensätzlichkeit*]与[2]差异性[*Verschiedenheit*]；对立性的品格渗透并规定着分节的诸要素。（ST, p. 10）
   - id: 47
     kind: body
     source: |-
       Life *articulates* or expresses itself *differently* in three “functions” or “comportments” [*Verhaltungen*], as life is lived in [1] “feeling” [*Empfinden*] or affectivity, [2] “willing” [*Wollen*], and [3] “cognizing” [*Vorstellen*] (ST, 32). Life is *divided* between the two antithetical or opposite poles of spontaneity and dependence (ST, p. 9), which, applied to the different comportments or functions of life, yields [1] the tension between motivation and spontaneity in volition, [2] the opposition in cognition between objective, matter-of-fact representation [*Sachlichkeit*] and spontaneous projection of formed images [*Bildlichkeit*] as the object of knowledge, and [3] the polarity between dependence on others versus ownness [*Eigenheit*] in the domain of affectivity (ST, p. 32).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      生命以三种“机能”或“行为方式”[*Verhaltungen*]而*分节地*、*不同地*表达自身：生命或活在[1]“感觉”[*Empfinden*]或情感性之中，或活在[2]“意愿”[*Wollen*]之中，或活在[3]“表象”[*Vorstellen*]之中（ST, 32）。生命*被划分*在自发性与依赖性这两个对立的两极之间（ST, p. 9）；把这一点用于生命不同的行为方式或机能，便得出：[1]意愿中动机与自发性的张力；[2]认知中客观而实事性的表象[*Sachlichkeit*]与作为知识对象的成形图像之自发投射[*Bildlichkeit*]之间的对立；[3]情感性领域中依赖他人与己有性[*Eigenheit*]之间的对立（ST, p. 32）。
+    step2: |-
+      生命以三种“机能”或“行为方式”[*Verhaltungen*]，*各不相同地*分节并表达自身：生命或是活在[1]“感觉”[*Empfinden*]、亦即情感性之中，或是活在[2]“意愿”[*Wollen*]之中，或是活在[3]“表象”[*Vorstellen*]之中（ST, 32）。生命*被划分*在自发性与依赖性这两个对立的两极之间（ST, p. 9）；将此施于生命的诸种行为方式或机能，便得出三重结果：[1]意愿之中动机与自发性之间的张力；[2]认知之中客观而实事性的表象[*Sachlichkeit*]，同作为知识对象的成形图像之自发投射[*Bildlichkeit*]之间的对立；[3]情感性领域中依赖他人与己有性[*Eigenheit*]之间的对立（ST, p. 32）。
   - id: 48
     kind: body
     source: |-
       Yorck claims that the three psychological “functions” or comportments circumscribe the fixed and unalterable “natural ground” [*Naturboden*], or the parameters within which all human history is played out (ST, p. 26). There is no history without such fixed reference points. The economy of the three functions is not fixed (unlike the functions as such), but is always open to the play of shifting configurations and imbalances (ST, p. 24 & 54). More specifically, the three functions are neither reducible to each other nor derivable from another source, making them in effect equiprimordial. However, they stand in a variable and inverse relationship to each other, where the relative preponderance of one function is offset by the relative subordination of the remaining ones, but at no time can any particular function be cancelled out altogether (ST, p. 98). This inverse relationship, coupled with the internal polarity within each function, accounts for “the restlessness of primary life” (ST, p. 32). Since life does not exist in some generality, but only as a particular configuration or alignment of its functions, the overall “totality” of the shape of a particular life is always determined by a pre-dominant position of one of its functions (ST, p. 55). This onesidedness, which necessarily fails to express life in its “entire fullness”[^note-10] (ST, p. 54), results in the instability of each particular shape of consciousness. Each real configuration of consciousness and its particular bias to one function, as well as one of the antithetical poles within, lends itself to a new transformation, without ever reaching a stable or final state. Since “historical life” is nothing other than “primary life” writ large, Yorck holds that this inbuilt instability and restlessness in primary life also constitutes the “motor of history” (ST, 33). (See Section 3.2 below.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      约克主张，这三种心理“机能”或行为方式划定了固定而不可更易的“自然基地”[*Naturboden*]，即一切人类历史于其中演出的参数（ST, p. 26）。没有这样的固定参照点，就没有历史。三种机能的配比不是固定的（不同于机能本身），而是始终敞开于配置移动与失衡的游戏（ST, p. 24 & 54）。更确切地说，三种机能既不能相互还原，也不能从别的源头导出，因而实际上是同等原初的。不过，它们彼此处于一种可变的、反向的关系之中：一种机能的相对优势，被其余机能的相对从属所抵偿；但任何时候，任何特定机能都不能被全然取消（ST, p. 98）。这种反向关系，加上每种机能内部的对立性，说明了“原初生命的躁动不宁”（ST, p. 32）。既然生命不是以某种普遍性存在，而只是作为其诸机能的一种特定配置或编配而存在，一个特定生命形态的总体“总体性”就总是由其某一机能的占先地位所决定（ST, p. 55）。这种片面性必然无法把生命表达于其“整全的充盈”之中[^note-10]（ST, p. 54），它导致每一种特定的意识形态都不稳定。每一个现实的意识配置，连同它对某一机能的特定偏倚、连同其内部两极中的一极，都容许新的转变，永不达到稳定或终极的状态。既然“历史生命”无非是放大了的“原初生命”，约克便认为，原初生命中这种固有的不稳定与躁动不宁，也构成“历史的发动机”（ST, 33）。（见下文 3.2 节。）
+    step2: |-
+      约克主张，这三种心理“机能”或行为方式，划出了一块固定而不可更易的“自然基地”[*Naturboden*]——也就是一切人类历史得以上演的那组参数（ST, p. 26）。没有这样的固定参照点，历史便无从谈起。三种机能之间的配比并非固定（机能本身才是固定的），它始终敞开于配置移动与失衡起伏的游戏（ST, p. 24 & 54）。确切地说，三种机能既不能相互还原，也无法从别的源头导出，就此而言它们同等原初。但它们彼此处在一种可变而反向的关系中：一种机能的相对优势，总被其余机能的相对从属所抵偿；而任何时候，任何一种机能都不可能被全然取消（ST, p. 98）。这种反向关系，再加上每种机能内部固有的对立性，便说明了“原初生命的躁动不宁”（ST, p. 32）。生命并不以某种普遍性的形式存在，只作为诸机能的一种特定配置或编配而存在；因此，一个特定生命之形态的总体“总体性”，总是由其中某一机能的占先地位所决定（ST, p. 55）。这种片面性必然表达不出生命“整全的充盈”[^note-10]（ST, p. 54），其结果是：意识的每一种特定形态都不稳定。每一个现实的意识配置——连同它对某一机能、乃至对内部两极之一的特定偏倚——都容许新的转变，从不抵达稳定或终极的状态。既然“历史生命”无非是放大了规模的“原初生命”，约克便认为：原初生命这种固有的不稳定与躁动不宁，同样构成“历史的发动机”（ST, 33）。（见下文 3.2 节。）
   - id: 49
     kind: body
     source: |-
       Yorck holds that two functions of life, willing and cognition, are “eccentric;” they pursue objects that are projected outside the felt interiority of self-consciousness (ST, p. 120). Concerning representation or cognition, Yorck writes:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      约克认为，生命的诸机能中有两者——意愿与认知——是“离心的”；它们追逐那些被投射到自我意识被感受到的内在性之外的对象（ST, p. 120）。关于表象或认知，约克写道：
+    step2: |-
+      约克认为，生命的诸机能中有两个——意愿与认知——是“离心的”：它们追逐的对象，被投射到自我意识那被感受到的内在性之外（ST, p. 120）。至于表象或认知，约克写道：
   - id: 50
     kind: body
     source: |-
       > Self-reflection reveals representation [*Vorstellen*] as an act of exteriorization, as a projection, which therefore is primarily marked by its opposition to feeling. The feature of projection, [i.e.,] expulsion from within [*innere Entfernen*], being the characteristic element of all representation, is spatialization [*Verraümlichung*] as such. (ST, p. 70)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 自我反思揭示：表象[*Vorstellen*]是一种外化行为，是一种投射，因此它首先以与情感的对立为标记。投射这一特征，[即]从内部的逐出[*innere Entfernen*]，是所有表象的特征性要素；它就是空间化[*Verraümlichung*]本身。（ST, p. 70）
+    step2: |-
+      > 自我反思揭示：表象[*Vorstellen*]是一种外化行为，一种投射；因此它首先以同情感的对立为标记。投射这一特征——[亦即]从内部的逐出[*innere Entfernen*]——是一切表象的特征性要素，它就是空间化[*Verraümlichung*]本身。（ST, p. 70）
   - id: 51
     kind: body
     source: |-
       Spatialization is thus necessary for representation or the work of the understanding, thought. By contrast, temporality (located in affectivity) is not at all necessary for cognition or representation:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，空间化对表象或知性的工作——思想——是必要的。相反，时间性（位于情感性之中）对认知或表象则全然不必要：
+    step2: |-
+      因此，对于表象、亦即知性的工作——思想——空间化是必不可少的。相反，时间性（它位于情感性之中）对于认知或表象，却全然不是必需的：
   - id: 52
     kind: body
     source: |-
       > Thought can abstract from temporality. Indeed, every act of thought contains […] an abstraction from [temporality], inasmuch as thought involves an expropriation [of inner feeling]. By contrast, spatiality is the precondition of all thought.[^note-11] (ST, p. 147)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 思想能够抽离时间性。诚然，思想的每一个行为都包含着对[时间性]的抽象，因为思想包含着一种[对内在情感的]剥夺。相反，空间性是一切思想的先决条件。[^note-11]（ST, p. 147）
+    step2: |-
+      > 思想能够抽离时间性。其实，思想的每一个行为都包含着对[时间性]的抽离，因为思想总已含着一种[对内在情感的]褫夺。相反，空间性才是一切思想的先决条件。[^note-11]（ST, p. 147）
   - id: 53
     kind: body
     source: |-
       All thought is inherently spatial, representing objects at a distance in space: “Spatiality is the basic character of all thought” (ST, p. 119). According to Yorck, thought or cognition may abstract from particular characters of space, such as “direction” and “place,” but it cannot do without the projective opening of spatiality as such (ST, p. 100). And Yorck suggests that it is the inherent spatiality in all thought which, within the intellectualist tradition of the West, has rendered “space” an unsurpassable “metaphysical” reality, or transcendental condition of reality as such (ST, p. 100). Since thought or cognition is an achievement of life in abstraction from temporality and feeling, space itself appears as eternal, neutral exteriority.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一切思想都固有空间性，在空间中隔距地表象对象：“空间性是一切思想的基本品格”（ST, p. 119）。依约克之见，思想或认知可以抽离空间的特定性质，如“方向”与“位置”，却离不开空间性本身的投射性敞开（ST, p. 100）。约克还提示：正是思想中固有的空间性，在西方的理智主义传统内，使“空间”成了一种不可超越的“形而上学”实在，或实在本身的先验条件（ST, p. 100）。既然思想或认知是生命抽离时间性与情感的一项成就，空间自身便显现为永恒而中立的外在性。
+    step2: |-
+      一切思想都固有空间性：它在空间中隔距地表象对象。“空间性是一切思想的基本品格”（ST, p. 119）。依约克之见，思想或认知可以抽离空间的特定性质——比如“方向”与“位置”——却离不开空间性本身的投射性敞开（ST, p. 100）。约克进而提示：正是思想中固有的空间性，在西方的理智主义传统之内，把“空间”抬举为一种不可超越的“形而上学”实在，即实在自身的先验条件（ST, p. 100）。既然思想或认知是生命抽离时间性与情感的一项成就，空间自身便显现为永恒而中立的外在性。
   - id: 54
     kind: body
     source: |-
       Yorck emphasizes that cognition of objects in space amounts to an act of “liberation,” because what has been “placed” at a “psychological distance” in the realm of an eternal, and neutral objectivity has lost its power over the representing subject, has no impact on the person’s affectivity, and can no longer excite the feeling that everything passes away (ST, p. 74).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      约克强调，对空间中对象的认知相当于一种“解放”行为：被“安放”在“心理距离”之外、处于永恒而中立的客观性领域中的东西，已经丧失了对表象主体的支配力，不再触动这个人的情感性，也不再能激起万物皆逝之感（ST, p. 74）。
+    step2: |-
+      约克强调：对空间中对象的认知，相当于一种“解放”行为——那被“安放”在“心理距离”之外、归入永恒而中立的客观性领域的东西，已经丧失了对表象主体的支配力；它触动不了这个人的情感性，也再激不起那种万物皆逝之感（ST, p. 74）。
   - id: 55
     kind: body
     source: |-
       There is thus a positive correlation between cognition and volition. Cognitive projection is already an attempt to gain a foothold relative to “the flight of impressions, appearances, and strivings,” and the fixation of an object in space goes hand in hand with the search for self-constancy and “self-affirmation” [*Selbstbehauptung*] (ST, p. 66). Therefore, Yorck holds that philosophy and science, as cognitive comportments in life, are rooted in the striving for self-affirmation. He thus attributes an eminent ethical impetus to them. “Freedom” and “autonomy” are the psychological motivation for philosophy and science (ST, p. 42).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，认知与意志之间有一种正向的关联。认知性投射已经是一种相对“印象、显象与追求之飞逝”而求取立足点的尝试；把对象固定于空间，与寻求自我持恒和“自我坚持”[*Selbstbehauptung*]携手并进（ST, p. 66）。因此，约克认为，哲学与科学作为生命中的认知性行为方式，植根于自我坚持的追求。他由此赋予它们一种卓越的伦理冲动。“自由”与“自主”是哲学与科学的心理动机（ST, p. 42）。
+    step2: |-
+      于是，认知与意志之间有一种正向的关联。认知性投射本身已是一种尝试：相对于“印象、显象与追求的飞逝”而求取立足点。把对象固定于空间，与寻求自我持恒、寻求“自我坚持”[*Selbstbehauptung*]携手并行（ST, p. 66）。因此约克认为，哲学与科学作为生命中的认知性行为方式，植根于自我坚持的追求；他由此赋予二者一种卓越的伦理冲动。“自由”与“自主”，正是哲学与科学的心理动机（ST, p. 42）。
   - id: 56
     kind: body
     source: |-
       In contrast to cognition and volition, which are “eccentric” and directed towards the “outer,” feeling or affectivity [*Gefühl* or *Empfindung*] is the awareness of inwardness or interiority. Yorck writes: “The essence of the inner [*des Innen*] is feeling [*Empfindung*]” (ST, p. 71). At the limit, feeling is object-less and an immersion in subjective life. As Yorck explains, feelings are only secondarily attached to objects. Pain or pleasure, for instance, has no “representational content” [*Vorstellungsinhalt*]. Yorck writes: When “I feel, I stay within me” (ST, 71)—*chez moi*, *bei mir*. Feeling is only minimally projective. However, since polarity permeates all psychological functions, Yorck is quick to recognize “a relation” to the other, for there is no “inner” without an “outer.”[^note-12] But the centre of feeling or affectivity is the sphere of one’s own, pure interiority, not as representation, but as something felt. Therefore, it is the actual seat of “all things personal” [*alles Persönliche*], the innermost centre of personal life (ST, p. 85). It is the “central” and immediate pulse of life, antecedent to the objectifications by cognition and volition (ST, p. 14). Yorck writes: “The relation of self to feeling is more immediate” than the subject’s relation to representation (ST, p. 99). Since the personal is something *felt* in the interiority of one’s life, and not something *thought* or represented and projected outwards, Yorck concludes that self-relation is not cognitive in the first place; it is not “knowledge” (ST, p. 72). Therefore, Yorck also finds it a misguided effort “to grasp natural and historical communities by means of representation,” because it misses the felt personal attachment, which alone lends reality to the historical connectivity and relation (ST, p. 72). Already in the *Correspondence*, Yorck had stated that “historical reality is a reality of feeling [*Empfindungsrealität*]” (CR, p. 113).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与“离心的”、指向“外部”的认知与意志相对，情感或情感性[*Gefühl* 或 *Empfindung*]是对内在性或内里的觉知。约克写道：“内在者[*des Innen*]的本质是感觉[*Empfindung*]”（ST, p. 71）。在极限处，情感是无对象的，是对主观生命的沉浸。正如约克解释的，情感只是次级地系于对象。例如痛苦或快乐，并没有“表象内容”[*Vorstellungsinhalt*]。约克写道：当“我感受时，我守于我之内”（ST, 71）——*chez moi*，*bei mir*。情感的投射性只有最低限度。不过，既然对立性渗透一切心理机能，约克随即承认与他者的“一种关系”，因为没有“外部”就没有“内部”。[^note-12] 但情感或情感性的中心，是一个人自己纯粹的内在性领域——不是作为表象，而是作为被感觉到的某物。因此，它是一切人格性之物的真正居所，是人格生活最深的中心（ST, p. 85）。它是生命“中心的”、直接的脉搏，先于认知与意志的对象化（ST, p. 14）。约克写道：“自我与情感的关系更为直接”，胜过主体与表象的关系（ST, p. 99）。既然人格性的东西是在一个人生命的内在性中被*感受到*的，而不是被*思想*、被表象并被投射出去的，约克便得出结论：自我关系首先不是认知性的；它不是“知识”（ST, p. 72）。因此，约克还认为“借表象把握自然共同体与历史共同体”是一种误入歧途的努力，因为它错失了被感到的人格性依恋——唯有这种依恋才赋予历史的联结与关系以实在（ST, p. 72）。早在《通信集》里，约克就已申明：“历史实在是一种感觉实在性[*Empfindungsrealität*]”（CR, p. 113）。
+    step2: |-
+      认知与意志是“离心的”，指向“外部”；与之相对，情感或情感性[*Gefühl* 或 *Empfindung*]是对内在性、对内里的觉知。约克写道：“内在者[*des Innen*]的本质是感觉[*Empfindung*]”（ST, p. 71）。在极限处，情感没有对象，只是沉浸于主观生命。正如约克所解释的，情感只是次级地系于对象：比如痛苦或快乐，并没有“表象内容”[*Vorstellungsinhalt*]。约克写道：当“我感受时，我守于我之内”（ST, 71）——我守在自己这里（*chez moi*，*bei mir*）。情感的投射性微乎其微。不过，既然对立性渗透着一切心理机能，约克随即承认与他者的“一种关系”——没有“外部”，就没有“内部”。[^note-12] 但情感或情感性的中心，毕竟是一个人自己那纯粹的内在性领域：不是作为表象，而是作为被感觉到的某物。因此，它是“一切人格性之物”[*alles Persönliche*]真正的居所，是人格生活最深的中心（ST, p. 85）。它是生命“中心的”、直接的脉搏，先于认知与意志的对象化（ST, p. 14）。约克写道：“自我与情感的关系更为直接”，胜过主体对表象的关系（ST, p. 99）。人格性的东西既然是在一个人生命的内在性中被*感受到*的，而不是被*思想*、被表象、被投射出去的，约克便得出结论：自我关系首先就不是认知性的；它不是“知识”（ST, p. 72）。因此约克还认为，“借表象去把握自然共同体与历史共同体”是一种误入歧途的努力：它错失了被感到的人格性依恋，而唯有这种依恋，才赋予历史的联结与关系以实在（ST, p. 72）。早在《通信集》中，约克就已申明：“历史实在是一种感觉实在性[*Empfindungsrealität*]”（CR, p. 113）。
   - id: 57
     kind: body
     source: |-
