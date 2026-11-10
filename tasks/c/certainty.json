@@ -1,50 +1,57 @@
 {
- "slug": "certainty",
- "kind": "retranslate",
- "zh_doc": "c/certainty.md",
- "state": "s3_checked",
- "steps": [
-  {
-   "step": "clear",
-   "status": "ok",
-   "actor": "task_ops",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "baseline gate: 英文镜像齐备（ADR-0009 逐字符），version_pin 一致"
-  },
-  {
-   "step": "draft",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "初译完成：零信任译自 yuanwen/certainty.md，账本双版（step1/step2）齐全"
-  },
-  {
-   "step": "s1",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "自校一：体例修复 italic-cjk→加粗、中西空格，check_style 正文 0"
-  },
-  {
-   "step": "s2",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "自校二：check_academic --strict 0 硬错误，引用键解析完整"
-  },
-  {
-   "step": "s3",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "自校三：翻译波收口，双版账本齐全，学术规范+体例双绿"
+  "slug": "certainty",
+  "kind": "retranslate",
+  "zh_doc": "c/certainty.md",
+  "state": "r1_reviewed",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "baseline gate: 英文镜像齐备（ADR-0009 逐字符），version_pin 一致"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "初译完成：零信任译自 yuanwen/certainty.md，账本双版（step1/step2）齐全"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "自校一：体例修复 italic-cjk→加粗、中西空格，check_style 正文 0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "自校二：check_academic --strict 0 硬错误，引用键解析完整"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "自校三：翻译波收口，双版账本齐全，学术规范+体例双绿"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-10T05:28:19Z",
+      "evidence": "r1（第一部分已完成）：单字母变量强调记号归一 126 处——原稿混用 **p**／*p **／** p*／**b** 四种写法，统一为 *p*／*b* 斜体变量，并补中文与拉丁字母间半角空格；References（引用注释）→参考文献；pubinfo 已是斜体、正文标题无英文句点（无需改）。r2 逐句去链尚未执行（prose 60 条待处理），本条暂留 r1_reviewed。"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-10-31T22:08:42Z",
+  "version_pin": {
+    "pubinfo_date": "Feb 21, 2022",
+    "archive_edition": "Spring 2022",
+    "sha256": "aee3c7a26bd05e830167a70fa546e990493718af670573c9abd593509564eda9"
   }
- ],
- "blockers": [],
- "created_at": "2026-10-31T22:08:42Z",
- "version_pin": {
-  "pubinfo_date": "Feb 21, 2022",
-  "archive_edition": "Spring 2022",
-  "sha256": "aee3c7a26bd05e830167a70fa546e990493718af670573c9abd593509564eda9"
- }
 }

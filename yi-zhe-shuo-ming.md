@@ -2663,18 +2663,22 @@
 | model theory | — | 模型论 | 语料回收 | 审定名词库（termonline-all·数学名词，2026-10-29 浏览器通道凭证）；“模型理论”为土木工程域不采（凭证 2026-10-29） | 2026-10-29 |
 | model-based fusion | — | 基于模型的融合 | belief-merging | 学界通行（信念合并文献，与句法进路对举）；凭证 2026-11-10 | 2026-11-10 |
 | model-free reinforcement learning | — | 无模型强化学习 | moral-learning | 强化学习通行（与 model-based 基于模型相对）；凭证 2026-11-09 | 2026-11-09 |
-| modes of signifying | — | 意指方式（modi significandi） | analogy-medieval 首译 | 学界通行（中世纪语法与语义理论）；凭证 2026-11-08 | 2026-11-08 |
+| modes of signifying | — | 意指方式（modi significandi；已废弃，见新行） | analogy-medieval 首译 | 学界通行（中世纪语法与语义理论）；凭证 2026-11-08 | 2026-11-08 |
+| modes of signifying | — | 意指样式（modi significandi） | analogy-medieval 首译；2026-11-10 改定 | 与 modi significandi 意指样式 统一（语料：erfurt 61 处、boethius-dacia 6 处）；“意谓”与 Frege Bedeutung 汉译“意谓”相混，不采；凭证 2026-11-10 | 2026-11-10 |
 | modesty | — | 谦逊 | modesty-humility | 学界通行译法（与 humility“谦卑”区分；凭证 2026-11-06） | 2026-11-06 |
 | mode（奥克肖特经验范畴） | mode | 模式 | oakeshott 首译 | 学界惯例（《经验及其模式》中译本通行）；凭证 2026-11-07 | 2026-11-07 |
+| modi intelligendi | modi intelligendi | 理解样式 | boethius-dacia | 沿存在样式（modi essendi）、意指样式（modi significandi）同族构词；凭证 2026-11-10 | 2026-11-10 |
 | modi praedicandi | modi praedicandi | 述谓样式 | 首现（simon-faversham） | 沿本册 modi essendi＝存在样式（boethius-dacia）构词；凭证 2026-11-08 | 2026-11-08 |
 | modi significandi | modi significandi | 意指样式（摩迪斯泰语法） | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；凭证 2026-11-04 | 2026-11-04 |
+| modism | — | 模态主义 | boethius-dacia | 本册 boethius-dacia 正条（中世纪思辨语法学说）；与 modalism 模态主义 同形不同指，随文可辨；与 modist 模态主义者 同族；凭证 2026-11-10 | 2026-11-10 |
 | modist | modista | 模态主义者 | 首现（simon-faversham） | 沿本册 boethius-dacia 条 modistae＝模态主义者；学界中世纪逻辑通行；凭证 2026-11-08 | 2026-11-08 |
 | modistic logic | — | 摩迪斯泰逻辑 | giles | 中世纪语言逻辑通行汉译（modistae 摩迪斯泰学派） | 2026-11-10 |
 | modularity thesis | — | 模块性论题 | f/frame-problem 首译 | 心灵哲学通行（与 Massive Modularity 大规模模块性假说同族）；凭证 2026-11-10 | 2026-11-10 |
 | modus considerandi | — | 考虑方式（保留拉丁） | zabarella | 学界惯例（同上）；凭证 2026-11-09 | 2026-11-09 |
 | modus ponens | modus ponens | 肯定前件 | 语料回收 | 学界惯例（逻辑学通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | modus se habendi | modus se habendi | 情状（modus se habendi） | nicole-oresme | 经院哲学术语通行译法；与样态（condicio）并列；凭证 2026-11-08 | 2026-11-08 |
-| modus significandi | modus significandi | 意谓方式 | 语料回收（marsilius-inghen 首译） | 中世纪语法/逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
+| modus significandi | modus significandi | 意谓方式（已废弃，见新行） | 语料回收（marsilius-inghen 首译） | 中世纪语法/逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
+| modus significandi | modus significandi | 意指样式 | 语料回收（marsilius-inghen 首译）；2026-11-10 改定 | 与 modi significandi 意指样式 统一；原“意谓方式”废弃（理由同上，2026-11-10 boethius-dacia r2 裁定）；凭证 2026-11-10 | 2026-11-10 |
 | modus tollens | modus tollens | 否定后件式 | 语料回收（lakatos 首译） | 逻辑学通行译法；凭证 2026-11-06 | 2026-11-06 |
 | mōgo | 妄語 | 妄语 | kukai | 真言/妄语对举之传统汉译 | 2026-11-09 |
 | Mohism | — | 墨家 | han-dynasty | 学界通行（上游作 Mohist ideas） | 2026-11-10 |
