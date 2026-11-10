@@ -2088,347 +2088,473 @@ segments:
     kind: body
     source: |-
       The second and third criteria are the most important, and can be stated more formally as follows. If *P* and *Q* are distinct properties, then (equipollence, *tulyatva*):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二与第三条判准最重要，可以更正式地陈述如下。如果 *P* 与 *Q* 是不同的性质，那么（等同，*tulyatva*）：
+    step2: |-
+      其二、其三两条判准至为紧要，可较正式地表之如下。设 *P*、*Q* 为两个不同性质，则（等同，*tulyatva*）：
   - id: 247
     kind: body
     source: |-
       > [*P*] = [*Q*] → either *P* or *Q* (or both) is not a universal,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > [*P*] = [*Q*] → either *P* or *Q* (or both) is not a universal,
+    step2: |-
+      > [*P*] = [*Q*] → either *P* or *Q* (or both) is not a universal,
   - id: 248
     kind: body
     source: |-
       where ‘[*P*]’ denotes the extension of *P*. The contraposed form is:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其中“[*P*]”表示 *P* 的外延。逆否形式是：
+    step2: |-
+      其中“[*P*]”表 *P* 之外延。其逆否形为：
   - id: 249
     kind: body
     source: |-
       > *P* and *Q* are universals → [*P*] ≠ [*Q*].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > *P* and *Q* are universals → [*P*] ≠ [*Q*].
+    step2: |-
+      > *P* and *Q* are universals → [*P*] ≠ [*Q*].
   - id: 250
     kind: body
     source: |-
       Note that this does not entail that universal properties are extensionally individuated or equivalent to classes, as some have maintained. It shows only that corresponding to each class, there is at most one universal. Although, within the domain of universals, a universal is uniquely determined by its extension, the distinction between a universal and a co-extensive imposed property (e.g. pothood and conch-shell-like-neck-hood) is an intensional distinction.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      注意，这并不蕴含——如有些人所主张的——普遍性质在外延上被个体化或等价于类。它只表明：对应于每个类，至多有一个普遍。虽然在诸普遍的领域之内，一个普遍由其外延唯一地确定，但普遍与共外延的假立性质（例如壶性与螺壳状颈性）之间的区分是一个内涵区分。
+    step2: |-
+      请注意：此条并不蕴含——如或人所持——普遍性质按外延个体化、或等价于类。其所示者唯是：对应每类，至多有一普遍。纵在诸普遍之域内，普遍为其外延所唯一确定；然普遍与共外延之假立性质（如壶性与螺壳状颈性）之分，仍是内涵之分。
   - id: 251
     kind: body
     source: |-
       As for the third impediment (*sāṃkarya*), if *P* and *Q* are distinct properties, then
-    step1: TBD
-    step2: TBD
+    step1: |-
+      至于第三个障碍（*sāṃkarya*），如果 *P* 与 *Q* 是不同的性质，那么
+    step2: |-
+      至第三类障（*sāṃkarya*），若 *P*、*Q* 为互异性质，则
   - id: 252
     kind: body
     source: |-
       > [*P*] partially overlaps [*Q*] → either *P* or *Q* (or both) is not a universal.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > [*P*] partially overlaps [*Q*] → either *P* or *Q* (or both) is not a universal.
+    step2: |-
+      > [*P*] partially overlaps [*Q*] → either *P* or *Q* (or both) is not a universal.
   - id: 253
     kind: body
     source: |-
       The contraposed form is:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      逆否形式是：
+    step2: |-
+      其逆否形为：
   - id: 254
     kind: body
     source: |-
       > *P* and *Q* are universals → [*P*] ⊂ [*Q*] or [*P*] ⊃ [*Q*] or [*P*] ∩ [*Q*] = ∅.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > *P* and *Q* are universals → [*P*] ⊂ [*Q*] or [*P*] ⊃ [*Q*] or [*P*] ∩ [*Q*] = ∅.
+    step2: |-
+      > *P* and *Q* are universals → [*P*] ⊂ [*Q*] or [*P*] ⊃ [*Q*] or [*P*] ∩ [*Q*] = ∅.
   - id: 255
     kind: body
     source: |-
       (The inclusion is strict because of the ‘equipollence’ constraint.) In other words, genuine universals are arranged in a hierarchy: given two universals, either they are related as genus and species, all instances of one being instances of the other, or else they are completely disjoint, having no instance in common (e.g. cowhood-animalhood, cowhood-treehood). The Nyāya say that, if one universal is thus subsumed by another, the former is ‘lower’ (*apara*) and the latter is ‘higher’ (*para*) (cf. TS 6). The ‘highest’ universal of all is ‘existentness’ (*sattā*), into whose extension falls every substance, quality and motion. The demand that universals be organised hierarchically shows that the Nyāya took as their paradigm the biological species, which tend to exhibit this structure. Bearing in mind that the term for “universal”, i.e. “*jāti*” is also the word for caste, Matilal (1971: 76) speculates that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （包含是严格的，因为“等同”约束。）换言之，真正的普遍排成一个层级：给定两个普遍，要么它们如属与种那样相关——其一的全部实例都是另一的实例——要么它们完全不相交，没有任何共同实例（例如牛性—动物性、牛性—树性）。正理派说，如果一个普遍由此被另一个所统摄，前者是“下位”（*apara*），后者是“上位”（*para*）（参见 TS 6）。一切普遍中“最高”的是“存在性”（*sattā*），每个实体、性质与运动都落入其外延。要求诸普遍层级地组织起来，表明正理派以生物物种为范式——生物物种趋于呈现这种结构。考虑到“普遍”一词——即“*jāti*”——也是“种姓”一词，Matilal（1971: 76）猜测
+    step2: |-
+      （包含取严格义，以“等同”约束故。）换言之，真普遍排成层级：任取二普遍，或如属种相系——其一之实例尽为另一之实例；或全然相离，无一共例（如牛性—动物性、牛性—树性）。正理派谓：一普遍如此为另一所统摄，则前者“下位”（*apara*），后者“上位”（*para*）（参见 TS 6）。诸普遍之至高者为“存在性”（*sattā*）：实体、性质、运动，尽落其外延。普遍须层级地组织——此一要求显示：正理派以生物物种为范式，物种固有此等结构。而“普遍”一词——“*jāti*”——亦即“种姓”。Matilal（1971: 76）遂揣想
   - id: 256
     kind: body
     source: |-
       > [O]ne might discover in the Nyāya doctrine of generic property a remote influence of the socio-religious ideas of the Brahmins. Translated into biological terms, the … principle of ‘non-overlapping’ becomes a principle which opposes cross-breeding. There is thus some evidence that the Nyāya bias for real generic properties was partly influenced by the Brahmanical concept of an ideal social order where intermixture of classes is not to be permitted.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 人们或许能在正理派的类性质学说中发现婆罗门社会—宗教观念的遥远影响。翻译成生物学术语，“不交叠”这一……原则变成了反对杂交的原则。因此有若干证据表明：正理派对实在类性质的偏爱，部分受到了婆罗门教理想社会秩序概念的影响——在那种秩序中，诸阶层的混合是不被允许的。
+    step2: |-
+      > 于正理派之类性质学说中，或可觅得婆罗门社会—宗教观念之远绪。移译为生物学语言，“不交叠”之……原则即转为反对杂交之原则。故有若干迹象可见：正理派偏爱实在类性质，部分受婆罗门教理想社会秩序概念之熏染——彼种秩序中，诸阶层不容混杂。
   - id: 257
     kind: body
     source: |-
       Some Naiyāyikas, especially Bhāsarvajña and Raghunātha, reject the ‘cross-connection’ impediment, pointing out the problems encountered trying to apply it to non-biological natural kinds (e.g. redness and greenness overlap, as do pothood and goldhood). Raghunātha suggests that consistent application of this principle would eliminate virtually all universals from the ontology. Udayana’s criterion of a property to be ‘natural’ is thus not a necessary one, and neither is it sufficient: none of his impediments shows why the pair ‘blue-green’ is more natural than Goodman’s pair ‘grue-bleen’ (where x is grue iff x is green and examined before time t, and is blue otherwise, and vice versa for bleen.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有些正理论者——尤其是跋萨婆若与罗怙那陀——拒绝“交叠”障碍，指出把它应用于非生物自然种类时遇到的困难（例如红性与绿性重叠，壶性与金性也重叠）。罗怙那陀提示，这一原则的一贯应用将把几乎一切普遍从存在论中清除出去。因此优陀耶那关于性质“自然”的判准既非必要，也非充分：他的任何障碍都没有表明为什么“蓝—绿”这一对比概念比古德曼的“grue—bleen”更自然（x 是 grue，当且仅当 x 是绿的且在时刻 t 之前被检验过，否则是蓝的；bleen 反之）。
+    step2: |-
+      正理论者中有人——尤以跋萨婆若与罗怙那陀——拒“交叠”一障：以之施于非生物之自然种类，困难立见（红与绿交叠，壶性与金性亦然）。罗怙那陀更进一解：此原则若一以贯之，存在论中之普遍将几乎荡然无存。故优陀耶那“自然”之判准，既不必要，亦不充分：其诸类障无一能示明，何以“蓝—绿”较古德曼之“grue—bleen”更为自然（x 为 grue，当且仅当 x 为绿且于时刻 t 前受检，否则为蓝；bleen 反是）。
   - id: 258
     kind: body
     source: |-
       The idea that universals are, in some sense, ‘located’ in particulars generated two distinctive objections to the theory. Diṅnāga trades on the spatial metaphor to argue that the Nyāya conception of universals is incoherent. For, if a universal is ‘unitary’, it can be located in at most one place, and thus not ‘plurally instanced’. If, conversely, if is located simultaneously at many places, that can only be because it has parts, each located at a different place, and hence is not ‘unitary’. This argument plays on the ambiguity of the notion of ‘being located’, and pretends that a universal like cowhood is located in individual cows in just the same sense that a cow is located in a field. Nevertheless, it forces the Nyāya to be more careful in its account of the universal-particular relation. As *The Manual of Reason* notes (TS 84), a universal is said to reside in its instances by the relation of ‘inherence’ (*samavāya*), defined as an “inseparability” (*ayutasiddhi*) relation. Of two entities, *x* and *y*,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      普遍在某种意义上“位于”殊相之中——这一想法生出了对这一理论的两个独特反驳。陈那利用空间隐喻论证说正理派的普遍概念不融贯。因为，如果普遍是“单一的”，它至多能位于一个场所，从而不是“复多地实例化的”；反之，如果它同时位于许多场所，那只能是因为它有部分，每个部分位于不同场所，从而它不是“单一的”。这一论证利用“被位于”概念的歧义，假装牛性这样的普遍位于个别牛之中，其意义与一头牛位于田中完全相同。尽管如此，它迫使正理派在普遍—殊相关系的说明上更加小心。如《理性手册》所注（TS 84），普遍据说是借“和合”（*samavāya*）关系栖居于其诸实例之中，和合定义为一种“不可分离”（*ayutasiddhi*）关系。对于两个实体 *x* 与 *y*，
+    step2: |-
+      普遍于某种意义上“位于”殊相——此一想生两独特之难。陈那即乘空间隐喻而攻：正理普遍概念不融贯。盖普遍若“单一”，则至多位于一所——遂非“复多实例化”；反之若同时位于多处，则必因有部分，各据一所——遂非“单一”。此论证乘“被位于”之歧义，佯作牛性位于个别之牛，与牛位于田中同义同型。然此攻亦迫正理派于普遍—殊相关系之说明更自谨慎。如《理性手册》所注（TS 84）：普遍栖于其诸实例，所凭乃“和合”（*samavāya*）关系；和合定义为“不离”（*ayutasiddhi*）关系。设有二实体 *x* 与 *y*，
   - id: 259
     kind: body
     source: |-
       > *x* is inseparable from *y* iff *x* cannot exist unless *y* exists.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > *x* 与 *y* 不可分离，当且仅当除非 *y* 存在，*x* 不能存在。
+    step2: |-
+      > *x* 不离于 *y*，当且仅当：无 *y* 则 *x* 不能存。
   - id: 260
     kind: body
     source: |-
       The idea is that a cow cannot exist unless the universal cowhood exists, and that it is in this sense that cowhood is located in the cow. (The same relation is claimed to occur between non-repeatable ‘qualities’ (*guṇa*) and substances, a whole and its parts, and the basic differentia and the atoms.) Spatial location, on the other hand, involves a quite different relation, namely contact (*saṃyoga*). In this way, the term ‘location’ is disambiguated.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      想法是：牛不能存在，除非普遍的牛性存在；正是在这个意义上，牛性位于牛之中。（同样的关系也被认为出现在不可重复的“性质”（*guṇa*）与实体之间、整体与部分之间、以及基本别异与极微之间。）另一方面，空间定位涉及一个截然不同的关系，即接触（*saṃyoga*）。这样，“定位”一词就得到消歧。
+    step2: |-
+      其意：牛之能存，必待牛性之存；牛性之“位于”牛，其义即在此。（同一关系亦被谓见于不可重复之“性质”（*guṇa*）与实体之间、整体与部分之间、基本别异与极微之间。）至若空间之定位，则凭截然另一关系：接触（*saṃyoga*）。“定位”一词之歧义遂解。
   - id: 261
     kind: body
     source: |-
       The other problem is the classic one: what happens to a universal if all its instances are destroyed? Can universals exist without being instantiated? The definition of the inherence relation permits this, for the requirement is that cows cannot exist without cowhood, not vice versa. We might say that the cow’s existence supervenes on that of the universal cowhood. However, it is not so clear that we can say in the same way that the parts (of a car, say) cannot exist unless the whole (car) exists.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一个问题则是经典问题：如果一个普遍的所有实例都被毁掉，这个普遍会怎样？普遍能否不被实例化而存在？和合关系的定义允许这一点，因为要求是牛没有牛性不能存在，而不是反过来。我们可以说牛的存在随附于普遍牛性的存在。然而，同样地说（比如说）汽车的部分不能存在，除非整体（汽车）存在，就不那么清楚了。
+    step2: |-
+      另一难则古已有之：普遍之实例尽毁，普遍将何如？普遍可不实例化而在乎？和合关系之定义许之：所求者乃“无牛性则牛不存”，非反是。牛之存在，可谓随附于普遍牛性之存在。然谓（譬如）车之部分不能存，除非整体（车）存——此说是否同样成立，便不甚了然。
   - id: 262
     kind: body
     source: |-
       ### 10.2 The Basic Differentia (*viśeṣa*)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 10.2 基本别异（*viśeṣa*）
+    step2: |-
+      ### 10.2 基本别异（*viśeṣa*）
   - id: 263
     kind: body
     source: |-
       The Vaiśeṣika traditionally and uniquely accept into their ontology a category of item called ‘basic differentia’ (*viśeṣa*), from which, some claim, they derive their name. *The Manual of Reason* defines these items as follows (TS 83): “those entities which reside in the eternal substances [i.e. the atoms] and function as their differentiators are called *viśeṣa*”. The idea is that, just as a cow and a horse are distinct entities, as they have distinct properties, so too even two atoms of the same substance, e.g. earth, must differ with respect to at least one property. Each atom, therefore, possesses a ‘differentium’ unique to itself, which serves to distinguish it from any other atom of the same type. The assumption, then, is that any two non-identical items are distinguished by virtue of possessing distinct properties. This is the contraposed version of Leibniz’ Law that Indiscernibles are Identical, that (∀*P*)(*Px* ≡ *Py*) → (*x* = *y*), where “*P*” ranges over properties. The principle faces triviality unless certain constraints are placed on the range of properties quantified over. For example, if the property “… = *y*” is permitted, the principle states vacuously that identicals are identical. The Vaiśeṣikas implicitly restrict the principle to intrinsic, non-relational properties of the objects concerned, ruling out, for example, ‘being at a certain spatial or temporal location’ as being a property capable of discriminating two otherwise identical objects. Thus, the claim seems to be that no two objects, including atoms, can be intrinsically identical. This is how Leibniz himself appears to have understood his Law, saying that “It is always necessary that beside the difference of time and place there be internal principles of distinction….thus although time and place serve in distinguishing things, we do not easily distinguish them by themselves,” and that “There is no such thing as two individuals indiscernible from each other. Two drops of water, or milk, viewed with a microscope, will appear distinguishable from each other”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      胜论传统上且独特地把一个称为“基本别异”（*viśeṣa*）的项目类别接纳进其存在论——有人主张，他们的名称即由此而来。《理性手册》如下定义这些项目（TS 83）：“那些栖居于永恒实体［即极微］之中并充当其别异者的实体，称为 *viśeṣa*”。想法是：正如牛与马因为拥有不同的性质而是不同的实体，同一实体的两个极微——例如土——也必须在至少一个性质上有别。因此每个极微拥有一个它独有的“别异”，用以把它与同类型的任何其他极微区分开来。于是这个假定是：任何两个不同一的项目都凭拥有不同性质而得到区分。这是莱布尼茨“不可分辨者同一”律的逆否版本： (∀*P*)(*Px* ≡ *Py*) → (*x* = *y*)，其中“*P*”遍历诸性质。除非对所量化的性质范围施加某些约束，这一原则将面临平庸化。例如，如果允许“…… = *y*”这样的性质，该原则就空洞地说同一者同一。胜论者隐含地把这一原则限于相关对象的内在的、非关系的性质，排除例如“处于某个空间或时间位置”作为能区分两个原本同一的对象的性质。于是，主张似乎是：没有两个对象——包括极微——能够内在地同一。莱布尼茨本人似乎正是这样理解他的律令的，他说：“除了时间与地点的差异之外，总还须有内在的区别原则……因此，虽然时间与地点用于区分事物，我们却不容易单凭它们来区分”，以及“不存在彼此不可分辨的两个个体。两滴水或两滴奶，用显微镜看，将显得彼此可分辨”。
+    step2: |-
+      胜论传统上独把“基本别异”（*viśeṣa*）一项纳入其存在论——或谓其派名即由此得。《理性手册》定义之曰（TS 83）：“居于永恒实体［即极微］之中、为其施行别异者，谓之 *viśeṣa*”。其意：牛与马因性质有别而为两物；同一实体之二极微——如土——亦必至少于一性质上有别。故每一极微各具一独有之“别异”，藉之与同类之任何他极微相区别。于是其设为：任何两个不同一之项目，皆因性质有别而得区别。此即莱布尼茨“不可分辨者同一”律之逆否形： (∀*P*)(*Px* ≡ *Py*) → (*x* = *y*)，“*P*”遍历诸性质。若不约束所量化性质之范围，此原则将陷于平庸。如“…… = *y*”一性若获允许，原则便空洞地言“同一者同一”。胜论者隐含地限此原则于对象之内在非关系性质——“处于某时空位置”之类，不得充作区分两个本同对象之性质。于是其主张似为：任何两个对象——极微亦在其列——不能内在地同一。莱布尼茨自解其律，似亦如此：“除时间地点之异外，恒须有内在之区别原则……故时间地点虽可助区分事物，吾人却难单凭其区分”；又谓“绝无彼此不可分辨之二个体。两滴水或两滴奶，置显微镜下，即见彼此可辨”。
   - id: 264
     kind: body
     source: |-
       The principle is, admittedly, as strong one. Wittgenstein (*Tractatus* 5.5302) points out that it entails the logical impossibility of a universe containing two identical spheres; Wiggins notes that it implies the logical impossibility of even a single sphere (or any other symmetrical object), since it entails the identity of the two hemispheres (and so on until one reaches a geometrical point). More to the point, as the Vaiśeṣikas implicitly realised, it implies the logical impossibility of more than one atom of a given substance (having a certain velocity, spin, etc.). Rather than reject the principle, however, they instead introduced new intrinsic properties, the basic differentia, thereby avoiding the unpalatable consequence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一原则确实是一条强原则。维特根斯坦（*Tractatus* 5.5302）指出，它蕴含一个包含两个相同球体的宇宙在逻辑上不可能；威金斯指出，它蕴含甚至单个球体（或任何其他对称对象）在逻辑上也不可能，因为它蕴含两个半球的同一（如此下去直到达到一个几何点）。更切题的是——胜论者隐含地意识到了——它蕴含同一实体的多于一个极微（具有一定速度、自旋等）在逻辑上不可能。然而他们并未拒绝这一原则，而是引入了新的内在性质——基本别异——从而避免了这一令人不快的后果。
+    step2: |-
+      此原则之强，无可讳言。维特根斯坦（*Tractatus* 5.5302）指出：由此律可推，容有二相同球体之宇宙逻辑上不可能；威金斯则指出：甚而单个球体（或任何对称物）亦逻辑上不可能——盖此律蕴含二半球同一（循此以至几何点而后止）。更要害者——胜论者隐含已识：由此律可推，同一实体之多于一极微（具定速、定旋等）逻辑上不可能。然彼等不拒此律，反引入新之内在一性质——基本别异——以此避却难堪之后果。
   - id: 265
     kind: body
     source: |-
       ## 11. The Ontology of Nonexistence (*abhāva*) and the Semantics of Negative Statements
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 11. 非存在（*abhāva*）的存在论与否定陈述的语义学
+    step2: |-
+      ## 11. 非存在（*abhāva*）的存在论与否定陈述的语义学
   - id: 266
     kind: body
     source: |-
       ### 11.1 Motivations
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 11.1 动机
+    step2: |-
+      ### 11.1 动机
   - id: 267
     kind: body
     source: |-
       The later Naiyāyikas develop a remarkable theory of nonexistence. According to them, the *absence* of an object or feature at a particular spatial or temporal location is a state of affairs just as objective as the *presence* of the object or feature there. To Kanāḍa’s original list of six categories (*padārtha*) or types of existent, they therefore add a seventh, ‘absence’ (*abhāva*). This ontological doctrine is underpinned by (i) phenomenological and (ii) semantic considerations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      后期正理论者发展出一个引人注目的非存在理论。按他们的说法，一个对象或特征在特定空间或时间位置上的*缺席*，与该对象或特征在彼处的*在场*同样客观，都是一种事态。因此，在迦那陀原来的六个句义（*padārtha*）或存在者类型的清单上，他们加上第七个：“缺席”（*abhāva*）。这一存在论学说有（i）现象学的与（ii）语义学的考虑作支撑。
+    step2: |-
+      后期正理论者立一非存在理论，殊为可观。彼等谓：对象或特征于某特定时空位置之*缺席*，与该对象或特征之*在场*同其客观，皆事态也。故于迦那陀六句义（*padārtha*）之原列，添以第七句义：“非存在”（*abhāva*）。此存在论学说之根基，一在现象学，二在语义学。
   - id: 268
     kind: body
     source: |-
       (i) The phenomenological point was that a negative awareness, say that a certain person is not in the room, is a kind of awareness phenomenally distinct from any awareness about what is in the room. Cognition of what is not has an autonomous phenomenology (this idea is notably articulated by Sartre). The principle appealed to is thus:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （i）现象学的要点是：一个否定的觉知——比如说某个特定的人不在房间里——是一种在现象上与任何关于房间中有什么的觉知相区别的觉知。对非存在者的认知有一种自主的现象学（这一观念由萨特著名地阐明）。所诉诸的原理因此是：
+    step2: |-
+      （i）现象学之要点：否定之觉知——如“某人不在此室”——在现象面目上迥异于任何关于室中之有之觉知。认知“无”，自有其自主之现象学（此义以萨特所阐为最著）。所依原理遂为：
   - id: 269
     kind: body
     source: |-
       **P₁**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **P₁**
+    step2: |-
+      **P₁**
   - id: 270
     kind: body
     source: |-
       Experiences of nonexistence are phenomenally distinct from, and irreducible to, experiences of existents.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      非存在的经验在现象上区别于存在者的经验，且不能还原为后者。
+    step2: |-
+      非存在之经验，现象面目上别于存在者之经验，且不可还原于后者。
   - id: 271
     kind: body
     source: |-
       The idea emerges in the Nyāya epistemology with their claim that absence is perceived, and that this perception is a *sui generis* type of perceptual experience, not reducible to a combination of ordinary perception and inference (cf. the sixth type of sensory connection in Uddyotakara’s list).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一观念在正理知识论中出现，他们主张非存在被知觉，而这种知觉是一种*自成一格*的知觉经验类型，不能还原为普通知觉与推断的结合（参见乌底耶多迦罗清单中的第六种感官连接）。
+    step2: |-
+      此义见诸正理知识论：彼等谓非存在可被知觉，而此知觉乃*自成一类*之知觉经验，不可还原为通常知觉与推断之复合（参见乌底耶多迦罗清单之第六种感官连接）。
   - id: 272
     kind: body
     source: |-
       (ii) The semantic point is that the Nyāya espouse a version of the correspondence theory of truth, according to which true sentences correspond to facts. It is alleged that true negative sentences (e.g. “The pot is not on the ground”) correspond to ‘negative facts’. Facts, however, are all, for the Nyāya, of the same basic relational form, ‘bRa’ (they are said to have a qualificand-relation-qualifier structure; i.e. they are complexes of existing entities). This restriction on what constitutes a fact is expressible via the following semantical principle:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （ii）语义学的要点是：正理派信奉真理符合论的一个版本，按它，真句子对应于事实。据说真的否定句子（例如“壶不在地上”）对应于“否定事实”。然而对正理派而言，事实全都有同一基本的关系形式‘bRa’（据说它们有所别—关系—能别结构；即它们是存在实体的复合物）。对什么构成事实的这一限制可以通过如下语义原理表达：
+    step2: |-
+      （ii）语义学之要点：正理派奉真理符合论之一型——真句对应事实。据谓，真之否定句（如“壶不在地上”）对应“否定事实”。然于正理派，事实悉具同一基本关系形式‘bRa’（谓其有所别—关系—能别之构；即皆存在实体之复合）。何谓事实，其限可由下述语义原理表出：
   - id: 273
     kind: body
     source: |-
       **P₂**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **P₂**
+    step2: |-
+      **P₂**
   - id: 274
     kind: body
     source: |-
       Sentences correspond to facts constructed out of simple or complex entities (i.e. entities like ‘a’, ‘absence of a’, ‘a-&-b’, ‘a-or-b’).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      句子对应于由简单或复杂实体构造的事实（即诸如‘a’、‘a 的缺席’、‘a-与-b’、‘a-或-b’这样的实体）。
+    step2: |-
+      句子所对应之事实，由简单或复杂实体构造而成（如‘a’、‘a 之缺席’、‘a-且-b’、‘a-或-b’等实体）。
   - id: 275
     kind: body
     source: |-
       The principle entails that one cannot use the truth-functional connectives to construct facts, except where they are equivalent to term-logical connectives. (For example, the sentence “Rama and Sita are righteous” is equivalent to “Rama is righteous and Sita is righteous”, but the term-connective in “Rama and Sita are married” is not similarly eliminable in favour of the truth-functional conjunction “Rama is married and Sita is married”.) The point is that a sentence like “The pot is not on the ground” cannot correspond to a fact of the form ‘¬bRa’ (as there are no such facts according to P₂), but must rather correspond to a fact of the form ‘bRā’. Hence the introduction into one’s ontology of negative entities.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一原则蕴含：人们不能用真值函项联结词构造事实，除非它们等价于词项逻辑联结词。（例如，“罗摩与悉多是正直的”等价于“罗摩是正直的且悉多是正直的”，但“罗摩与悉多结了婚”中的词项联结词不能以同样方式消去而代之以真值函项合取“罗摩结了婚且悉多结了婚”。）要点是：“壶不在地上”这样的句子不能对应于‘¬bRa’形式的事实（按 P₂ 没有这类事实），而必须对应于‘bRā’形式的事实。由此在存在论中引入否定实体。
+    step2: |-
+      此原则所蕴：真值函项联结词不得用以构造事实，惟其等价于词项逻辑联结词者除外。（例：“罗摩与悉多皆正直”等价于“罗摩正直且悉多正直”；然“罗摩与悉多成婚”中之词项联结词，不得如法消去而代以真值函项合取“罗摩成婚且悉多成婚”。）要义：如“壶不在地上”一类句子，不能对应‘¬bRa’形式之事实（按 P₂ 无此事实），必须对应‘bRā’形式之事实。否定实体遂引入存在论之中。
   - id: 276
     kind: body
     source: |-
       ### 11.2 Temporally and Spatially Located Absence
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 11.2 时间与空间上定位的缺席
+    step2: |-
+      ### 11.2 时间与空间上定位的缺席
   - id: 277
     kind: body
     source: |-
       *The Manual of Reason* (TS 85–88) reports the usual Nyāya view that there are four types of absence: prior nonexistence (*prāgabhāva*); posterior nonexistence or ‘destruction’ (*dhvaṃsa*); ‘constant’ or ‘absolute’ absence (*atyantābhāva*); and difference (*anyonyābhāva*). Of these, the first two refer to possible temporal states of a transient object. Suppose we represent the temporal duration of a person *A* by the following line (assuming that he lived between 1650 and 1750):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《理性手册》（TS 85–88）报告了通常的正理观点：缺席有四种类型：先无（*prāgabhāva*）；后无或“灭无”（*dhvaṃsa*）；“恒常”或“绝对”缺席（*atyantābhāva*）；与互无（*anyonyābhāva*）。其中前两者指一个短暂对象的可能时间状态。假设我们用下面这条线来表示一个人 *A* 的时间绵延（假设该人活于 1650 到 1750 之间）：
+    step2: |-
+      《理性手册》（TS 85–88）载正理通行之说：非存在有四——先无（*prāgabhāva*）、后无或“灭无”（*dhvaṃsa*）、“究竟无”（*atyantābhāva*）、互无（*anyonyābhāva*）。前二者关乎一无常对象之可能时间状态。设以如下一线表一人 *A* 之生存绵延（设其生卒在 1650 与 1750 之间）：
   - id: 278
     kind: body
     source: |-
       | *t*₁ | 1650 | *t*₂ | 1750 | *t*₃ |   |
       | --- | --- | --- | --- | --- | --- |
       |   |   |   |   |   |   |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      | *t*₁ | 1650 | *t*₂ | 1750 | *t*₃ |   |
+      | --- | --- | --- | --- | --- | --- |
+      |   |   |   |   |   |   |
+    step2: |-
+      | *t*₁ | 1650 | *t*₂ | 1750 | *t*₃ |   |
+      | --- | --- | --- | --- | --- | --- |
+      |   |   |   |   |   |   |
   - id: 279
     kind: body
     source: |-
       At any time *t*₁ prior to 1650, *A* does not yet exist, and at any time *t*₃ later than 1750, *A* no longer exists. In accordance with the above principles, Nyāya reformulates these negative existential claims as positive existential statements about negative entities, namely, the ‘prior absence of *A*’, ‘<*A*’ say, and the ‘posterior absence of *A*’, ‘*A*>’ say. Thus, the first reads:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 1650 之前的任何时刻 *t*₁，*A* 还不存在；在 1750 之后的任何时刻 *t*₃，*A* 不再存在。按照上述原理，正理派把这些否定存在主张重述为关于否定实体的肯定存在陈述，即“*A* 的先无”，记作“<*A*”，以及“*A* 的后无”，记作“*A*>”。于是，第一个读作：
+    step2: |-
+      凡 1650 前之时刻 *t*₁，*A* 尚未存在；凡 1750 后之时刻 *t*₃，*A* 不复存在。循上述原理，正理派将此等否定存在主张重述为关于否定实体之肯定存在陈述：“*A* 之先无”，记作“<*A*”；“*A* 之后无”，记作“*A*>”。于是第一条读作：
   - id: 280
     kind: body
     source: |-
       <*A* exists at *t*₁,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      <*A* 存在于 *t*₁，
+    step2: |-
+      <*A* 现存于 *t*₁，
   - id: 281
     kind: body
     source: |-
       or, since, in the Nyāya idiom, objects are said to be located in time as well as in space,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      或者，按正理派的习惯用语，对象既被说成位于空间中，也被说成位于时间中，
+    step2: |-
+      或依正理惯语，对象不惟位于空间，亦位于时间——
   - id: 282
     kind: body
     source: |-
       1. <*A* is located at *t*₁.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. <*A* 位于 *t*₁。
+    step2: |-
+      1. <*A* 定位于 *t*₁。
   - id: 283
     kind: body
     source: |-
       Similarly,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      类似地，
+    step2: |-
+      同理，
   - id: 284
     kind: body
     source: |-
       1. *A*> is located at *t*₃.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. *A*> 位于 *t*₃。
+    step2: |-
+      1. *A*> 定位于 *t*₃。
   - id: 285
     kind: body
     source: |-
       What happens at times such as *t*₂? These are times at which *A* exists or is present (is located). Note, furthermore, that, at *t*₂, there is a posterior absence of <*A* (for the prior absence of *A* is destroyed when *A* comes into existence), which we designate by ‘(<*A*)>’. There is also a prior absence of *A*> (for the posterior absence of *A* does not yet exist), i.e. ‘<(*A*>)’. *The Manual of Reason* (TSD 89E) records the older Naiyāyikas’ claim that these double absences must be identical with the original entity, on pain of an infinite regress. Thus:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在诸如 *t*₂ 这样的时刻发生了什么？这些是 *A* 存在或在场的时刻（被定位）。此外注意，在 *t*₂，<*A* 有一个后无（因为 *A* 的先无在 *A* 出现时被毁），我们记作‘(<*A*)>’。*A*> 也有一个先无（因为 *A* 的后无尚不存在），即‘<(*A*>)’。《理性手册》（TSD 89E）记录了较早期正理论者的主张：这些双重缺席必须与原初实体同一，否则无穷倒退。于是：
+    step2: |-
+      于 *t*₂ 一类时刻，何事发生？此等时刻，*A* 存在而在场（被定位）。且请留意：*t*₂ 时，<*A* 有一后无（*A* 之先无，随 *A* 之出现而灭），记作‘(<*A*)>’。*A*> 亦有一先无（*A* 之后无，彼时尚未存在），即‘<(*A*>)’。《理性手册》（TSD 89E）录早期正理论者之主张：此等双重缺席必与原初实体同一，否则无穷倒退。于是：
   - id: 286
     kind: body
     source: |-
       (<*A*)> = <(*A*>) = *A*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (<*A*)> = <(*A*>) = *A*.
+    step2: |-
+      (<*A*)> = <(*A*>) = *A*.
   - id: 287
     kind: body
     source: |-
       Later Naiyāyikas apparently disputed this natural identity (which corresponds to the Law of Double Negation in classical logic), on the ground that double negative constructions contain the concept of negation, and hence are logically more complex.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      后期正理论者显然对这一自然的同一性提出异议（它对应于经典逻辑中的双重否定律），理由是双重否定构造包含否定的概念，因而在逻辑上更为复杂。
+    step2: |-
+      后期正理论者显然不认此自然同一（其对应经典逻辑之双重否定律），其理由：双重否定之构造内含否定之概念，故逻辑上更为繁复。
   - id: 288
     kind: body
     source: |-
       A third type of absence, called ‘constant’ or ‘absolute’ absence (*atyantābhāva*) is illustrated by constructions of the form “The pot is not on the ground”. *The Manual of Reason* states (TS 87) that what distinguishes this type of absence is that it is located in the three times—past, present and future. This seems odd, as it might be that the pot is on the ground at some times but not others. Perhaps the point is that the locus of the absence here is a spatial entity rather than a temporal one. For example, the construction “Heat is not in ice” illustrates this kind of absence. Perhaps, furthermore, the force of this negation is that the pot is *never* located on the ground—hence we cannot speak of the prior or posterior absence of the pot (for these concepts are defined in terms of times when the pot is present). (E.g. Udayana’s definition of a substance as that which does not have a constant absence of qualities.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第三种缺席类型，“恒常”或“绝对”缺席（*atyantābhāva*），由“壶不在地上”这类构造来例示。《理性手册》说（TS 87），这类缺席的独特之处在于它位于三个时间——过去、现在与未来。这看起来很奇怪，因为壶可能在一些时间在地上而另一些不在。或许要点在于：这里缺席的处所是一个空间实体而非时间实体。例如“热不在冰中”这一构造例示了这类缺席。或许，这一否定的力量还在于壶*从不*位于地上——因此我们不能谈壶的先无或后无（因为这些概念按壶在场的时刻来定义）。（例如优陀耶那把实体定义为不具有性质的恒常缺席者。）
+    step2: |-
+      第三类非存在——“究竟无”（*atyantābhāva*，恒常或绝对之缺席）——以“壶不在地上”一类构造为式例。《理性手册》谓（TS 87）：此类缺席之特质，在其位于三时——过去、现在、未来。此说似怪：壶或于此时在地上、于彼时不在。要点或在于：此处缺席之处所乃空间实体，非时间实体。如“热不在冰中”一式，即例示此类缺席。或更进一层：此否定之力，谓壶*从不*位于地上——故不得言壶之先无或后无（此二概念按壶在场之时刻定义）。（如优陀耶那定义实体为“不具有性质之究竟无”者。）
   - id: 289
     kind: body
     source: |-
       The fourth type of absence, ‘difference’ (*anyonyābhāva*), is illustrated by the sentence “The pot is not (the) cloth”. This is to be read as a non-identity statement.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第四种缺席类型，“互无”（*anyonyābhāva*），由“壶不是（那块）布”一句来例示。它应读作一个非同一陈述。
+    step2: |-
+      第四类非存在——互无（*anyonyābhāva*）——式例如“壶非（彼）布”。此语当读作一非同一之陈述。
   - id: 290
     kind: body
     source: |-
       The Naiyāyikas thus say that every negative sentence is the negation of a sentence of the form “*aRb*”, and they distinguish between cases where the relation *R* is the identity relation and cases where it is a relation other than identity. The object *a* is called the locus of the absence, and the object *b* is called the ‘counterpositive’ or ‘negatum’ (*pratiyogin*) of the absence, i.e. it is the object whose presence in the locus is being denied. This highlights the fact that absences are thought of as a kind of property or ‘locatable’, rather than as a kind of ‘location’ (at least when the relation is not identity). For example, the absence of *A* is located in many places at once. It is not said that there is a distinct absence-of-*A* at each and every place where *A* is absent. We can now see how the Nyāya parse negative sentences without using a sentential negation. Take the sentence “The pot is not blue”. The first-order paraphrase of this would be: It is not the case that the pot is blue (¬*Fa*). The Nyāya strategy is first to say that every property, such as blueness, has both an extension *F* (places where it is located) and a counter-extension *F*′ (places where its absence is located), and then to paraphrase the sentence as: The pot has absence-of-blue. Note that a partially locatable property is one for which the extension and counter-extension overlap—it is possible for a feature to be collocated with its absence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是正理论者说：每个否定句子都是形如“*aRb*”的句子的否定，并且他们区分关系 *R* 是同一关系的情形与它是非同一关系的情形。对象 *a* 称为缺席的处所，对象 *b* 称为缺席的“所遮”或“被否定者”（*pratiyogin*），即其在该处所中的在场被否认的那个对象。这凸显了如下事实：缺席被想作一种性质或“可定位者”，而不是一种“定位”（至少当关系不是同一时）。例如，*A* 的缺席同时位于许多场所。并不说在 *A* 缺席的每一处都各有一个不同的 *A* 缺席。现在我们可以看到正理派如何解析否定句子而不用句子否定。取“壶不是蓝的”一句。它的一阶转写将是：并非壶是蓝的（¬*Fa*）。正理派策略是先说每个性质——如蓝性——既有外延 *F*（它位于的场所）又有补外延 *F*′（其缺席位于的场所），然后把句子转写为：壶具有蓝之缺席。注意，部分可定位的性质是其外延与补外延重叠的性质——特征可以与其缺席同处。
+    step2: |-
+      正理论者遂谓：一切否定句皆形如“*aRb*”之句之否定；且分判 *R* 为同一关系之情形与非同一关系之情形。对象 *a* 谓之缺席之处所；对象 *b* 谓之缺席之“所遮”（*pratiyogin*）——即其于处所之在场被否认者。此足显明：缺席被想作一种性质、一种“可定位者”，而非一种“定位”（至少当关系非同一时）。例如 *A* 之缺席，同时位于多处；并非 *A* 缺席之每一处各有一相异之 *A* 缺席。正理派解析否定句而不用句否定之法，于今可见。取“壶不是蓝的”一句：其一阶转写为“并非壶是蓝的”（¬*Fa*）。正理之策略：先谓任一性质——如蓝性——既有外延 *F*（其所在之场所）复有补外延 *F*′（其缺席所在之场所）；然后将句转写为：壶具有蓝之缺席。请注意：部分可定位之性质，即外延与补外延交叠者——特征可与自身之缺席同所依。
   - id: 291
     kind: body
     source: |-
       ### 11.3 The Logic of Negation
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 11.3 否定的逻辑
+    step2: |-
+      ### 11.3 否定的逻辑
   - id: 292
     kind: body
     source: |-
       *The Manual of Reason* (TS 89) makes some very interesting observations about the logical properties of absence or negation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《理性手册》（TS 89）对缺席或否定的逻辑性质作了一些非常有趣的观察。
+    step2: |-
+      《理性手册》（TS 89）于缺席或否定之逻辑性质，有数则极具启发性之观察。
   - id: 293
     kind: body
     source: |-
       **Reference versus description**. It is claimed that there is a distinction between a qualified absence (*viśiṣṭābhāva*) and a mere absence (*kevalābhāva*). Consider the following pair of sentences:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **指称与描述**。据称存在别有所无（*viśiṣṭābhāva*）与唯无（*kevalābhāva*）之分。考虑下面这对句子：
+    step2: |-
+      **指称对描述**。据谓有“别有所无”（*viśiṣṭābhāva*）与“唯无”（*kevalābhāva*）之分。请看下列一对句子：
   - id: 294
     kind: body
     source: |-
       1. Annambhaṭṭa is not in the room, and
       2. The author of *The Manual of Reason* is not in the room.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 阿南跋塔不在房间里，且
+      2. 《理性手册》的作者不在房间里。
+    step2: |-
+      1. 阿南跋塔不在室中，且
+      2. 《理性手册》之作者不在室中。
   - id: 295
     kind: body
     source: |-
       The idea is that in (3) the ‘mere’ absence of Annambhaṭṭa is located in the room, whereas in (4) a qualified absence (of Annambhaṭṭa as qualified by authorhood) is located in the room. Do (3) and (4) really have distinct logical forms? Perhaps we find here a realisation that nominal expressions such as “The author of *The Manual of Reason*” have two distinct logical functions, namely those of *referring* to an individual and *describing* an individual *via* his properties. (4) can thus be read either as asserting the same as (3), that Annambhaṭṭa is not in the room, or as saying that the author of *The Manual of Reason*, whoever it or she is, is not in the room, i.e. that the properties “being the author of *The Manual of Reason*” and “being in the room” are not collocated. If that is the sense in which (4) involves a qualified absence, then (3) and (4) do have different logical forms.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      想法是：在（3）中，阿南跋塔的“单纯的”缺席位于房间里，而在（4）中，一个有别的缺席（阿南跋塔的缺席，由作者身份所限定）位于房间里。（3）与（4）真有不同的逻辑形式吗？或许我们在这里看到这样一种领悟：诸如“《理性手册》的作者”这样的名词表达式有两个不同的逻辑功能，即*指称*一个个体的功能与*经由其性质描述*一个个体的功能。于是（4）既可以读作与（3）相同的断言——阿南跋塔不在房间里——也可以读作说《理性手册》的作者，无论其人为谁，不在房间里，即“是《理性手册》的作者”与“在房间里”这两个性质不同处。如果那就是（4）涉及有别缺席的意义，那么（3）与（4）确实有不同的逻辑形式。
+    step2: |-
+      其意：（3）中所位于室者，乃阿南跋塔之“单纯”缺席；（4）中所位于室者，乃一别有所无——阿南跋塔之缺席，由作者身份所限定。（3）与（4）果有不同的逻辑形式乎？于此或可见一悟：如“《理性手册》之作者”一类名词表达式，实有二逻辑职能——*指称*一个体，与*经其性质*而*描述*之。（4）故可读作与（3）同一之断言——阿南跋塔不在室中；亦可读作谓：《理性手册》之作者，无论其人为谁，不在室中——即“为《理性手册》之作者”与“在室中”二性不同所依。若（4）之涉别有所无取此义，则（3）与（4）逻辑形式果异。
   - id: 296
     kind: body
     source: |-
       **Universal Quantification**. *The Manual of Reason* draws another very important distinction, between a specific absence (*viśeṣābhāva*) and a generic absence (*sāmānyābhāva*). These are illustrated by the following sentences:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **全称量化**。《理性手册》作出另一个非常重要的区分：特定缺席（*viśeṣābhāva*）与通类缺席（*sāmānyābhāva*）之分。以下句子例示之：
+    step2: |-
+      **全称量化**。《理性手册》另立一极重要之分：特定非存在（*viśeṣābhāva*）与通类非存在（*sāmānyābhāva*）。式例如下：
   - id: 297
     kind: body
     source: |-
       1. (This) pot is not in the room, and
       2. (Any) pot is not in the room
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. （这）壶不在房间里，且
+      2. （任何）壶都不在房间里
+    step2: |-
+      1. （这）壶不在室中，且
+      2. （任何）壶皆不在室中
   - id: 298
     kind: body
     source: |-
       (N.B. they would be expressed by the same sentence in Sanskrit; hence the brackets). To say that there is a specific absence of pot in the room is to say that some particular pot is not in the room, but to say that generic absence of pot in the room is to say that any pot is not in the room (i.e. no pot is in the room). The distinction is thus linked to the formulation of universally quantified constructions. Indeed, in Nyāya logical theory, generic absences are used to formulate the pervasion (*vyāpti*) relation: “where there is smoke there is fire” is contraposed to give “where there is no fire there is no smoke”, and this is expressed by saying that there is a generic absence of smoke in places where there is a generic absence of fire (cf. Ingalls 1951: 54–5)[^ingalls-1951]. It is clear that (5) and (6) do have distinct logical forms. In the Nyāya technical language, the distinction is made out by saying that the property which delimits the counterpositiveness of the absence (i.e. the *pratiyogitāvacchedaka*) is this-pot-hood in (5), but pothood in (6).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （注意：在梵语中二者会由同一个句子表达，所以有括号。）说房间里有一个壶的特定缺席，是说某个特定的壶不在房间里；说房间里有一个壶的通类缺席，是说任何壶都不在房间里（即没有壶在房间里）。这一区分因此与全称量化构造的表述相关。确实，在正理逻辑理论中，通类缺席被用来表述遍充（*vyāpti*）关系：“有烟处即有火”经过换质位给出“无火处即无烟”，而后者表达为：在火有通类缺席之处所有烟的通类缺席（参见 Ingalls 1951: 54–5）[^ingalls-1951]。显然（5）与（6）确有不同的逻辑形式。在正理的技术语言中，这一区分如此说明：限定缺席之所遮性的性质（即 *pratiyogitāvacchedaka*）在（5）中是“这只壶性”，在（6）中是“壶性”。
+    step2: |-
+      （按：梵语中二者将由同一句表达，括号以此。）谓室中有壶之特定非存在，谓某特定壶不在室中；谓室中有壶之通类非存在，谓任何壶皆不在室中（即室中无壶）。此分遂与全称量化构造之表述相系。诚然，正理逻辑理论中，通类非存在用以表述遍充（*vyāpti*）关系：“有烟处即有火”换质位得“无火处即无烟”，而后者表作：凡火有通类缺席之处所，烟有通类缺席（参见 Ingalls 1951: 54–5）[^ingalls-1951]。（5）与（6）逻辑形式确异，明矣。正理技术语言中，此分如此道出：限定缺席之所遮性之性质（即 *pratiyogitāvacchedaka*），于（5）为“此壶性”，于（6）为“壶性”。
   - id: 299
     kind: body
     source: |-
       **Logical Connectives and De Morgan’s Laws**. *The Manual of Reason* touches on the meaning of conjunctive and disjunctive absence, i.e. absence of (both *A* and *B*) (*ubhayābhāva*) and absence of (either *A* or *B*) (*anyatarābhāva*). It observes that an awareness that two pots are absent is consistent with an awareness that one pot is present (and the other absent). In fact, as Ingalls shows (1951: 63–67) the Nyāya recognised the validity of two general equations:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **逻辑联结词与德摩根律**。《理性手册》触及合取缺席与析取缺席的意义，即（*A* 与 *B*）的缺席（*ubhayābhāva*）与（*A* 或 *B*）的缺席（*anyatarābhāva*）。它观察到：知道两个壶缺席，与知道一个壶在场（另一个缺席）是一致的。实际上，正如 Ingalls 所示（1951: 63–67），正理派承认两条普遍等式的有效性：
+    step2: |-
+      **逻辑联结词与德摩根律**。《理性手册》兼及合取缺席与析取缺席之义——即（*A* 且 *B*）之缺席（*ubhayābhāva*）与（*A* 或 *B*）之缺席（*anyatarābhāva*）。其观察为：知二壶皆缺席，与知一壶在场（另一缺席）相容。实则如 Ingalls 所示（1951: 63–67），正理派认两条普遍等式之效：
   - id: 300
     kind: body
     source: |-
       > absence of (both *A* and *B*) = (absence of *A*) or (absence of *B*), and
       >
       > absence of (either *A* or *B*) = (absence of *A*) and (absence of *B*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > （*A* 与 *B*）的缺席 ＝（*A* 的缺席）或（*B* 的缺席），且
+      >
+      > （*A* 或 *B*）的缺席 ＝（*A* 的缺席）且（*B* 的缺席）。
+    step2: |-
+      > （*A* 且 *B*）之缺席 ＝（*A* 之缺席）或（*B* 之缺席），且
+      >
+      > （*A* 或 *B*）之缺席 ＝（*A* 之缺席）且（*B* 之缺席）。
   - id: 301
     kind: body
     source: |-
       These are recognisably versions of De Morgan’s Laws, that ¬(*A* & *B*) ≡ ¬*A* ∨ ¬*B*, and that ¬ (*A*∨*B*) ≡ ¬*A* & ¬*B*. As an example of the second of these laws, consider Mathuranātha’s remark (1951: 66) that a ‘heap’ of (specific) absences (*abhāva-kūṭa*) is equivalent to a generic absence. A place which is the locus of generic absence of fire is a place at which every particular fire is absent, and conversely, if every specific fire is absent, then fire is generically absent. Thus the ‘heap’ (conjunction) of specific absences of fire, is equivalent to the absence of any fire at all (the disjunction of specific fires).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些显然是德摩根律的版本：¬(*A* & *B*) ≡ ¬*A* ∨ ¬*B*，以及 ¬(*A*∨*B*) ≡ ¬*A* & ¬*B*。作为第二条律的例子，考虑摩偷罗那陀的评论（1951: 66）：（特定的）缺席的“堆”（*abhāva-kūṭa*）等价于一个通类缺席。火有通类缺席的处所是每个特定的火都缺席的处所；反之，如果每个特定的火都缺席，火就通类缺席。于是火之特定缺席的“堆”（合取）等价于任何火的缺席（特定火的析取）。
+    step2: |-
+      此二式显为德摩根律之变形：¬(*A* & *B*) ≡ ¬*A* ∨ ¬*B*，与 ¬(*A*∨*B*) ≡ ¬*A* & ¬*B*。试举第二律之例：摩偷罗那陀有言（1951: 66），（特定）缺席之“堆”（*abhāva-kūṭa*）等价于通类缺席。火有通类缺席之处所，即每个特定火皆缺席之处所；反之，诸特定火皆缺席，则火通类缺席。故火之特定缺席之“堆”（合取），等价于任何火之缺席（诸特定火之析取）。
   - id: 302
     kind: oir
     source: |-
       - [Göttingen Register of Electronic Texts in Indian Languages](http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm), including several in Nyāya and Vaiśeṣika.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - [印度语言电子文本哥廷根登记册](http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm)，其中若干种属正理与胜论。
+    step2: |-
+      - [印度语言电子文本哥廷根登记册](http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm)，内有数种属正理、胜论之列。
