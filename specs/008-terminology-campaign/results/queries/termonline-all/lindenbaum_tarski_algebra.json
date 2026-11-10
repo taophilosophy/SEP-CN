@@ -1,0 +1,348 @@
+{
+ "key": "lindenbaum–tarski algebra",
+ "term": "Lindenbaum–Tarski algebra",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T00:49:04+00:00",
+ "status": "ok",
+ "note": "variant=Lindenbaum–Tarski algebra; 审定公布名词库=439; 海峡两岸名词对照库=125; 其他来源数据库=15; 预公布名词数据库=15; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "代数学",
+   "en": "algebra",
+   "code": "04.0388",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_域·多项式"
+  },
+  {
+   "cn": "代数",
+   "en": "algebras",
+   "code": "04.1472",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_非结合环"
+  },
+  {
+   "cn": "代数的",
+   "en": "algebraic",
+   "code": "04.0397",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_域·多项式"
+  },
+  {
+   "cn": "代数的李代数",
+   "en": "algebraic Lie algebra",
+   "code": "04.1993",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_代数群"
+  },
+  {
+   "cn": "中心代数",
+   "en": "central algebra,normal algebra",
+   "code": "04.1431",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_结合环"
+  },
+  {
+   "cn": "地图代数",
+   "en": "map algebra",
+   "code": "04.136",
+   "standard": "测绘学名词",
+   "subject": "测绘学_地图学"
+  },
+  {
+   "cn": "流代数",
+   "en": "current algebra",
+   "code": "09.1316",
+   "standard": "物理学名词",
+   "subject": "物理学_原子核物理学、粒子物理学_粒子物理学"
+  },
+  {
+   "cn": "算符代数",
+   "en": "operator algebra",
+   "code": "09.1379",
+   "standard": "物理学名词",
+   "subject": "物理学_原子核物理学、粒子物理学_粒子物理学"
+  },
+  {
+   "cn": "效应代数",
+   "en": "effect algebra",
+   "code": "12.0066",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_量子计算与量子信息学"
+  },
+  {
+   "cn": "进程代数",
+   "en": "process algebra",
+   "code": "02.0862",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_算法设计与分析"
+  },
+  {
+   "cn": "布尔代数",
+   "en": "Boolean algebra",
+   "code": "02.0132",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "组合代数",
+   "en": "combinatory algebra",
+   "code": "02.0881",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_程序理论"
+  },
+  {
+   "cn": "地理代数",
+   "en": "geo-algebra",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "地图代数",
+   "en": "map algebra",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "关系代数",
+   "en": "relational algebra",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "布尔代数",
+   "en": "Boolean algebra",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "程序代数",
+   "en": "program algebra",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "关系代数",
+   "en": "relational algebra",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "代数模型",
+   "en": "algebraic model",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "代数规约",
+   "en": "algebraic specification",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "代数简化",
+   "en": "algebraic simplification",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "代数逻辑",
+   "en": "algebraic logic",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "代数码",
+   "en": "algebraic code",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "代数语言",
+   "en": "algebraic language",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "布尔逻辑",
+   "en": "Boolean algebra",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数值代数",
+   "en": "numerical algebra",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "进程代数",
+   "en": "process algebra",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "线性代数",
+   "en": "linear algebra",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "外代数",
+   "en": "Exterior algebra",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "微分代数",
+   "en": "Differential algebra",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "表面",
+   "en": "algebraic surface",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "跗骨",
+   "en": "Tarsus",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "底线任务",
+   "en": "bottom-line tasks",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "任务调度",
+   "en": "task scheduling",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "任务程序",
+   "en": "task program",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "通用信息模型",
+   "en": "Distributed Management Task Force",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "历史任务",
+   "en": "historical tasks",
+   "code": "03.0105",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "《拉失德史》",
+   "en": "Tarikh-i-Rashidi",
+   "code": "3.0268",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族文化"
+  },
+  {
+   "cn": "跗管综合征",
+   "en": "tarsal tunnel syndrome，TATS",
+   "code": "2.18.8.20",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征"
+  },
+  {
+   "cn": "第一要务",
+   "en": "primary task",
+   "code": "03.0824",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "任务相关监测",
+   "en": "task-related monitoring",
+   "code": "5.4.2.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测类型"
+  },
+  {
+   "cn": "任务中心模式",
+   "en": "task-centered model",
+   "code": "4.4.8.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式"
+  },
+  {
+   "cn": "最大的政治",
+   "en": "biggest political task",
+   "code": "04.0182",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期"
+  },
+  {
+   "cn": "社会主义的根本任务",
+   "en": "fundamental task of socialism",
+   "code": "03.0586",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "党的历史任务",
+   "en": "historical task of the Party",
+   "code": "03.0716",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "民族工作主线",
+   "en": "central task in ethnic work",
+   "code": "2.0155",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族理论_马克思主义民族理论中国化"
+  },
+  {
+   "cn": "人民军队的三大任务",
+   "en": "three major tasks of the peoples army",
+   "code": "03.0409",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "党的建设两大历史性课题",
+   "en": "two major historical tasks of the Party building",
+   "code": "03.0626",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
