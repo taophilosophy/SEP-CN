@@ -48,7 +48,8 @@ DEPRECATED_MARK = '已废弃'
 # 译法列尾段疑似词条 slug（小写拉丁＋连字符，前面带分号）：中文译法不会以此收尾
 SLUG_TAIL_RE = re.compile(r'；\s*[a-z][a-z0-9]*(?:-[a-z0-9]+)*\s*$')
 HEADER_WORDS = {'原文', '译法', '首现', '依据', '裁定日期', '人名', '文献',
-                '条目', 'term', '原文形态', '通行中文', '键', '出处', '日期'}
+                '条目', 'term', '原文形态', '通行中文', '键', '出处', '日期',
+                '英语', '中文'}  # 词汇表内嵌第二表头（|英语|中文|）不得当数据行
 
 # 原文列视为「缺」的写法（迁移占位符；英文术语按体例同样填「—」，但不算缺）
 ORIG_BLANK = {'', '—', '–', '--', '-', '－', '——', 'n/a', 'na', '无'}
@@ -121,10 +122,17 @@ _VARIANT_SPLIT = re.compile(r'[/／]')
 
 
 
+# 引号/撇号类字符统一折叠（2026-11-10 补遗）：阿拉伯转写的 hamza/ayn（ʾ ʿ U+02BE/02BF）
+# 与弯/直撇号（’ ‘ ʼ ′）在登记册与词汇表间常混用，曾使同一键被算作两个（Ikhwān al-Ṣafāʾ
+# 与 Ikhwān al-Ṣafā’ 互不相等 → 虚假孤儿键，且真实冲突可借此藏身）。
+_QUOTE_FOLD = str.maketrans({'ʾ': "'", 'ʿ': "'", '’': "'",
+                             '‘': "'", 'ʼ': "'", '′': "'", '`': "'"})
+
+
 def norm_key(text):
-    """术语键：剥斜体标记与空白、变音符折叠（ADR-0013 同人归并）、casefold 比对。"""
+    """术语键：剥斜体标记与空白、引号类折叠、变音符折叠（ADR-0013 同人归并）、casefold 比对。"""
     import unicodedata
-    s = unicodedata.normalize('NFD', text.replace('*', '').strip())
+    s = unicodedata.normalize('NFD', text.replace('*', '').strip().translate(_QUOTE_FOLD))
     s = ''.join(ch for ch in s if not unicodedata.combining(ch))
     return re.sub(r'\s+', ' ', s).casefold()
 
