@@ -2,7 +2,7 @@
   "slug": "closure-epistemic",
   "kind": "retranslate",
   "zh_doc": "c/closure-epistemic.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "C-main-20261108c",
       "at": "2026-11-08T12:56:24Z",
       "evidence": "自校三：守恒五维全等——marker 113:113（顺序与键集全等）、defs 77:77 键集全等、年份 263:263 多重集全等、H2 10:10、H3 11:11；正文块 199 段与账本逐段对位；人名登记 31 行（本次补 Hawthorne/舍曼 2 行）、术语 8 行；四检全绿；r1-r3 归 R-main-20261108 评审线"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-10T08:23:09Z",
+      "evidence": "冷置回读（草案 C-main-20261108c，2026-11-08）：节级对位 22/22（_r_align 正常）；脚注引用键 28、定义键 77 全等；数字差 1 处判读：源 10 million → 一千万、译 12 为版本行 12 月；全文通读 §1–§6 与尾节，五类紧闭论证（知识分析/获取方式/不可知命题/怀疑论/证成闭合）逐段核源；源缺陷两处照录登记：(1) '(There is a substantial literature … Davies (1998).' 缺右括号——原始 HTML（en/closure-epistemic/index.html）同样缺，SEP 源自身残缺；(2) 斑马例正文列 1./2./3. 而后文称 (a)–(c)，源文原样如此"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-10T08:23:10Z",
+      "evidence": "句级复读：check_prose 告警 0；公式化原则块（K/GK/SP1-3/BT/CR/BMT/SI/CRA/CRR/SRA/SIR/PC/TC/OC/RC/IC/NC/SPC/J/GJ/E/JD/JP/PK）逐个与源符号一致；数值例（1 号票/2 号票、千万美元别墅）核对无误"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-10T08:23:11Z",
+      "evidence": "终检：check_style 0；check_academic --strict 无硬错误；check_math 0；账本 lq check 守恒 113 段（SOFT 为 note 机械段 step1==step2 与斜体→书名号）；斜体 1588→1170、粗体 43→214 属模板转换（术语斜体保留+CJK 粗体化）；版本行为 **粗体** 属存量形态（全库 104 条粗体/273 条斜体），非本条独有，不动"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-10T08:23:11Z",
+      "evidence": "r1–r3 收口，四门禁绿、账本守恒；两处源缺陷（缺右括号、a-c 指称）照录登记"
     }
   ],
   "blockers": [],
