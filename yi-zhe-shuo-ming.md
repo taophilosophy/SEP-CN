@@ -239,6 +239,7 @@
 | anti-zombie | — | 反僵尸 | 首现（zombies） | 本词条语境（弗兰基什术语），直译；凭证 2026-11-10 | 2026-11-10 |
 | anticipated utility | — | 预期效用 | risk | 本词条首译（Quiggin 1982 专门用语，与 expected utility“期望效用”分列）；凭证 2026-11-09 | 2026-11-09 |
 | anticipation | — | 预期 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
+| anticipation of completeness | Vorgriff der Vollkommenheit | 完满性前把握 | gadamer | 伽达默尔《真理与方法》术语；洪汉鼎译本通行；凭证 2026-11-10 | 2026-11-10 |
 | antifoundation | — | 反基础 | quine-nf | 集合论通行译名（Aczel 反基础公理）；凭证 2026-11-09 | 2026-11-09 |
 | antilogic | — | 反论术（antilogic） | zeno-elea | 学界惯例（智者研究：对立论证之术，Kerferd 语境）；凭证 2026-11-09 | 2026-11-09 |
 | antinomianism | — | 反律法主义 | s/scholem 首译 | 学界通行译名（宗教研究）；凭证 2026-11-08 | 2026-11-08 |
@@ -273,6 +274,7 @@
 | appellatum | — | 被称谓者 | 首现（william-sherwood） | 学界惯例（appaellatio 的对象）；凭证 2026-11-07 | 2026-11-07 |
 | apperception | — | 统觉 | leibniz-mind、abhidharma | 学界惯例（莱布尼茨/康德术语通行）；凭证 2026-11-03 | 2026-11-03 |
 | appetite | — | 嗜欲 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
+| application | applicatio | 应用 | gadamer | 伽达默尔诠释学三要素之一（理解—诠释—应用）；凭证 2026-11-10 | 2026-11-10 |
 | appreciation condition | — | 欣赏条件 | paradox-of-tragedy | 本词条首译（悖论三条件之一）；凭证 2026-11-10 | 2026-11-10 |
 | apprehended object / grasped object（gzung yul） | — | 所取境（gzung yul） | epistemology-language-tibetan | 藏传量论通译（所取=gzung ba） | 2026-11-04 |
 | apprehension | — | 领会 | 首现（intuitionism-ethics） | 学界惯例（与 understanding“理解”分立；factive 领会） | 2026-11-09 |
@@ -397,6 +399,7 @@
 | Babylonian Talmud | — | 《巴比伦塔木德》 | 首译（saadya） | 犹太教经典通行（与既有 Talmud 塔木德行相承）；凭证 2026-11-09 | 2026-11-09 |
 | back-and-forth | — | 来回 | logic-infinitary | 模型论通行译法（来回论证）；凭证 2026-11-10 | 2026-11-09 |
 | back-tracking counterfactual | — | 回溯式反事实条件句 | prophecy | 构词直译（后件时间早于前件的反事实条件句，学界亦称 backtracking）；凭证 2026-11-09 | 2026-11-09 |
+| bad infinity | schlechte Unendlichkeit | 坏的无限 | gadamer | 黑格尔术语，学界通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | Bahir | — | 《巴希尔之书》 | s/scholem 首译 | 学界通行译名（早期卡巴拉经典）；凭证 2026-11-08 | 2026-11-08 |
 | Baihutong | 白虎通 | 《白虎通》 | han-dynasty | 学界通行学名 | 2026-11-10 |
 | Baihutong Delun | 白虎通德論 | 《白虎通德论》 | han-dynasty | 学界通行学名（全书名） | 2026-11-10 |
@@ -1270,6 +1273,7 @@
 | ecosystem | — | 生态系统 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | ecotype | — | 生态型 | model-organisms 首译 | 植物学通行译名；凭证 2026-11-09 | 2026-11-09 |
 | ECQ (ex contradictione quodlibet) | ex contradictione quodlibet | 爆炸原理（从矛盾可任意推出） | 语料回收（mathematics-inconsistent 首译） | 哲学逻辑界通行译法（亦作 ex falso quodlibet）；凭证 2026-11-06 | 2026-11-06 |
+| effective history | Wirkungsgeschichte | 效果历史 | gadamer | 伽达默尔诠释学核心术语；凭证 2026-11-10 | 2026-11-10 |
 | effective population size | — | 有效种群大小 | ecological-genetics 首译 | 学界通行译名（记号 Ne）；凭证 2026-11-09 | 2026-11-09 |
 | effective prayer | — | 有效祷告 | petitionary-prayer | 构词直译（本词条术语：使神因祷告而行动，即 difference-making）；凭证 2026-11-09 | 2026-11-09 |
 | efference copy | — | 传出副本 | 语料回收（标题词） | 学界惯例（行动感知/认知科学通行）；凭证 2026-11-01 | 2026-11-01 |
@@ -1641,6 +1645,7 @@
 | folk psychology | — | 民间心理学 | f/frame-problem 首译 | 心灵哲学通行译法；凭证 2026-11-10 | 2026-11-10 |
 | footprint of selection | — | 选择足迹 | ecological-genetics 首译 | 学界通行译名（分子进化文献）；凭证 2026-11-10 | 2026-11-10 |
 | forced loan | — | 强制借款 | gregory-rimini | 经济史通行（意大利公社强制公债）；凭证 2026-11-10 | 2026-11-10 |
+| fore-structure | Vorstruktur | 前结构 | gadamer | 海德格尔《存在与时间》术语，学界通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | foreknowledge | — | 预知 | omniscience | 学界通行译名；凭证 2026-11-09 | 2026-11-09 |
 | form | — | 形式（亚里士多德 eidos 语境） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | form of corporeity | — | 形体性形式 | binarium 首译 | 中世纪哲学通行汉译（forma corporeitatis）；凭证 2026-11-08 | 2026-11-08 |
@@ -1713,6 +1718,7 @@
 | fundamental ontology | — | 基础存在论 | adorno | 学界通行汉译（《存在与时间》中译本通行）；凭证 2026-11-10 | 2026-11-10 |
 | Fundamental Theorem of Prevision | — | 预现基本定理 | 首现（imprecise-probabilities） | 学界惯例（de Finetti 术语）；凭证 2026-11-08 | 2026-11-08 |
 | fundamentalist debate | — | 基础主义之争 | music | 学界通行（Matheson & Caplan 2011 术语，指音乐作品基本本体范畴之争）；凭证 2026-11-09 | 2026-11-09 |
+| fusion of horizons | Horizontverschmelzung | 视域融合 | gadamer | 伽达默尔诠释学核心术语；凭证 2026-11-10 | 2026-11-10 |
 | fusion operator | — | 融合算子 | belief-merging | 学界通行（信念合并文献）；凭证 2026-11-10 | 2026-11-10 |
 | future contingent event / future contingents | — | 未来偶然事件 | prophecy | 中世纪模态与神意论题通行（登记册既有“未来偶然后件”系 auriol 词条特定用法，本词条用通名）；凭证 2026-11-09 | 2026-11-09 |
 | future contingents | — | 未来偶然后件 | auriol | 中世纪模态与神意论题通行 | 2026-11-07 |
@@ -1895,6 +1901,7 @@
 | hermeneutic circle | — | 诠释学循环 | gadamer-aesthetics | 学界惯例（诠释学通行） | 2026-11-01 |
 | hermeneutic identity | — | 诠释学同一性 | gadamer-aesthetics | 学界惯例（伽达默尔研究通行） | 2026-11-01 |
 | hermeneutical aesthetics | — | 诠释学美学 | gadamer-aesthetics | 学界惯例（伽达默尔美学研究通行） | 2026-11-01 |
+| hermeneutical situation | hermeneutische Situation | 诠释学处境 | gadamer | 伽达默尔诠释学通行译法；凭证 2026-11-10 | 2026-11-10 |
 | hermeneutical sublime | — | 诠释学的崇高 | gadamer-aesthetics | 学界惯例（美学研究通行） | 2026-11-01 |
 | hermeneutics | — | 诠释学（亦作“解释学”） | gadamer-aesthetics | 权威译本通行译法（洪汉鼎《真理与方法》）；审定库无直接收录（凭证 2026-11-01） | 2026-11-01 |
 | Hesychast | — | 静修派 | bessarion | 东正教研究通行汉译（14 世纪拜占庭静观传统；通行亦作“静默派”） | 2026-11-10 |
@@ -1919,6 +1926,7 @@
 | histopathology | — | 组织病理学 | cancer | 学界通行（病理学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | historical individual | — | 历史个体 | music | Rohrbaugh 术语（historical individuals）；凭证 2026-11-09 | 2026-11-09 |
 | historical school of law | — | 历史法学派 | august-rehberg 首译 | 法学史通行（萨维尼开创的历史法学派）；凭证 2026-11-08 | 2026-11-08 |
+| historically-effected consciousness | wirkungsgeschichtliches Bewußtsein | 效果历史意识 | gadamer | 伽达默尔诠释学核心术语；凭证 2026-11-10 | 2026-11-10 |
 | historicism | — | 历史主义 | oakeshott 首译 | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | historico-critical method | — | 历史-批判方法 | gregory-rimini | 哲学神学史通行（奥古斯丁文本考订）；凭证 2026-11-10 | 2026-11-10 |
 | historiê | — | 探究 | 首现（xenophanes） | 学界惯例（伊奥尼亚“探究”；正文保留斜体原词）；凭证 2026-11-07 | 2026-11-07 |
@@ -2478,6 +2486,7 @@
 | linear logic | — | 线性逻辑 | logic-relevance | Girard 体系通行译法；凭证 2026-11-09 | 2026-11-09 |
 | linear pooling | — | 线性池化 | 首现（imprecise-probabilities） | 学界惯例（判断聚合文献）；凭证 2026-11-08 | 2026-11-08 |
 | linguistic turn | — | 语言学转向 | gadamer-aesthetics | 学界惯例（哲学史通行） | 2026-11-01 |
+| linguisticality | Sprachlichkeit | 语言性 | gadamer | 伽达默尔诠释学通行译法；凭证 2026-11-10 | 2026-11-10 |
 | Liu yi / Liu jing | 六藝/六經 | 六艺/六经 | chinese-phil-science | 学界通行；凭证 2026-11-07 | 2026-11-07 |
 | Liujing zaidao | 六經載道 | 六经载道 | dai-zhen | 上游自带汉字；儒学通行命题（英 the Six Classics convey the dao）；凭证 2026-11-07 | 2026-11-07 |
 | lived experience | Erlebnis | 体验（亦作“生命体验”） | dilthey 首译 | 学界通行（狄尔泰 Erlebnis；与“经验”Erfahrung 分用）；凭证 2026-11-09 | 2026-11-09 |
@@ -3325,6 +3334,7 @@
 | Philosophy and Logical Syntax | — | 《哲学与逻辑句法》 | 首译（stebbing） | 卡尔纳普著作（1935）；书名体例译；凭证 2026-11-09 | 2026-11-09 |
 | Philosophy and the Physicists | — | 《哲学与物理学家》 | 首译（stebbing） | 斯泰宾著作（1937）；书名体例译；凭证 2026-11-09 | 2026-11-09 |
 | philosophy of life | Lebensphilosophie | 生命哲学 | dilthey 首译 | 学界通行；凭证 2026-11-09 | 2026-11-09 |
+| philosophy of reflection | Reflexionsphilosophie | 反思哲学 | gadamer | 黑格尔—伽达默尔语境通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | philosophy of right | — | 法哲学 | 首现（schlegel） | 学界惯例（黑格尔研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | phlogiston | — | 燃素 | kant-science | 化学史通行 | 2026-11-05 |
 | Phoronomy | — | 运动学（康德《形而上学基础》首章章名；源文本章即以 kinematics 释之） | kant-science | 李秋零译本通行 | 2026-11-05 |
@@ -4279,6 +4289,7 @@
 | spontaneous conduct | — | 自发行为 | moral-responsibility-empirical | 行动哲学（spontaneous conduct；与慎思行动对举） | 2026-11-07 |
 | spontaneous generation | — | 自然发生说（亦作“自然发生”） | natphil-ren | 审定名词库（termonline-all·动物学/微生物学名词，2026-11-11 浏览器通道凭证）；abiogenesis 前身之说 | 2026-11-11 |
 | sprachloses Denken | sprachloses Denken | 无语言的思维 | karl-reinhold | 主会话直译收口 432e0a76；凭证 2026-11-04 | 2026-11-04 |
+| Sprachnot | Sprachnot | 语言之匮乏 | gadamer | 伽达默尔论海德格尔后期术语；正文保留德文；凭证 2026-11-10 | 2026-11-10 |
 | spread (intuitionism) | — | 展形 | 首现（intuitionism） | 直觉主义数学通行（亦作“展开”；与统计学 spread 分列）；凭证 2026-11-10 | 2026-11-10 |
 | spyware | — | 间谍软件 | 首现（it-moral-values） | 信息安全通行译名；凭证 2026-11-10 | 2026-11-10 |
 | square of contraries | — | 对立方阵 | lorenzo-valla | 逻辑史通行（即对当方阵；SUMMARY 词条题名“传统逻辑方阵”） | 2026-11-04 |
@@ -4565,15 +4576,19 @@
 | tetralemma | — | 四句 | gorampa | 中观因明通行（catuṣkoṭi，四句分别/四句否定）；本条目正文作“四句”，括注梵藏原词 | 2026-11-09 |
 | tetraploid complementation | — | 四倍体补偿 | 首现（cloning） | 学界惯例（干细胞生物学通行）；凭证 2026-11-07 | 2026-11-07 |
 | textual lineage | — | 文本谱系 | chinese-phil-science | 学界通行（参 Lewis《早期中国的书写与权威》）；凭证 2026-11-07 | 2026-11-07 |
+| The Beginning of Philosophy | Der Anfang der Philosophie | 《哲学的开端》 | gadamer | 伽达默尔著作通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | The Elements | — | 《几何原本》 | zabarella | 学界千年通行汉译（欧几里得著作）；凭证 2026-11-09 | 2026-11-09 |
 | the First | — | 第一者 | neoplatonism | 新柏拉图主义研究通行（the One 之别称，正文并用“太一”） | 2026-11-07 |
 | the Good | τὸ ἀγαθόν | 善 | neoplatonism | 学界通行（柏拉图—新柏拉图主义最高本原之名） | 2026-11-07 |
+| The Hermeneutics of Facticity | Hermeneutik der Faktizität | 《实际性的诠释学》 | gadamer | 海德格尔早期讲座通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | The King’s Two Bodies | — | 《国王的两个身体》（康托洛维茨 1957） | s/sovereignty 首译 | 学界通行译名（中译本既名）；凭证 2026-11-07 | 2026-11-07 |
 | The Nature of the Physical World | — | 《物理世界的本性》 | 首译（stebbing） | 爱丁顿著作（1928/1935 版）；书名体例译；凭证 2026-11-09 | 2026-11-09 |
 | the nonidentical / non-identity | — | 非同一性（亦作“非同一之物”） | adorno | 学界通行汉译（《否定的辩证法》研究通行）；审定库无查询件（termonline-all 目录现查 2026-11-10） | 2026-11-10 |
 | the numinous | — | 努秘（保留原词，随文括注；本册既有行复核一致） | religious-experience | 学界通行（奥托《论“神圣”》汉译传统） | 2026-11-05 |
 | the One | — | 太一（普罗提诺 to hen） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | The Only Possible Basis for a Demonstration of the Existence of God | — | 《上帝存在证明的唯一可能根据》 | kant-science | 学界通行 | 2026-11-05 |
+| The Origin of the Work of Art | Der Ursprung des Kunstwerkes | 《艺术作品的本源》 | gadamer | 海德格尔1936年讲座通行汉译；凭证 2026-11-10 | 2026-11-10 |
+| The Relevance of the Beautiful | Die Aktualität des Schönen | 《美的现实性》 | gadamer | 伽达默尔美学论集通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | The Right of Sovereignty | — | 《主权之权利》（丹尼尔·李 2021） | s/sovereignty 首译 | 构词直译，无中译本，待 specs/008 审定库复核；凭证 2026-11-07 | 2026-11-07 |
 | the ultimate that is realized | — | 所证胜义 | gorampa | 藏传中观通行（rtogs pa’i don dam，证悟胜义/所证胜义） | 2026-11-09 |
 | the ultimate that is taught | — | 所教胜义 | gorampa | 藏传中观通行（bstan pa’i don dam，言教胜义/所教胜义）；与所证胜义对项 | 2026-11-09 |
@@ -4748,6 +4763,7 @@
 | unbiasedness | — | 无偏性 | jury-theorems | 学界惯例（统计学通行）；凭据 2026-11-02 | 2026-11-02 |
 | unbounded iteration | — | 无界迭代 | logic-dynamic | 程序逻辑通行译法；凭证 2026-11-10 | 2026-11-09 |
 | uncertainty | — | 不确定性 | risk | 学界惯例（决策论与认识论通行）；与 indeterminacy“非确定性”分列；凭证 2026-11-09 | 2026-11-09 |
+| unconcealment | Unverborgenheit | 无蔽 | gadamer | 海德格尔真理学说通行汉译（与“正确性”对举）；凭证 2026-11-10 | 2026-11-10 |
 | unconditional competence | — | 无条件胜任度 | jury-theorems | 学界惯例（本词条定名）；凭据 2026-11-02 | 2026-11-02 |
 | unconditional independence | — | 无条件独立 | jury-theorems | 学界惯例（本词条定名）；凭据 2026-11-02 | 2026-11-02 |
 | unconditional probabilities | — | 无条件概率 | 语料回收（bayes-theorem） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
