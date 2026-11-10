@@ -1,0 +1,348 @@
+{
+ "key": "vision-for-recognition",
+ "term": "vision-for-recognition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T21:36:37+00:00",
+ "status": "ok",
+ "note": "variant=vision-for-recognition; 审定公布名词库=7084; 海峡两岸名词对照库=1505; 其他来源数据库=859; 预公布名词数据库=648; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "视觉",
+   "en": "vision",
+   "code": "3.249",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为的生物学基础_遗传学基础_感觉遗传学"
+  },
+  {
+   "cn": "视觉",
+   "en": "vision",
+   "code": "28.030",
+   "standard": "光学名词",
+   "subject": "光学_生物光学与激光医疗"
+  },
+  {
+   "cn": "视觉",
+   "en": "vision",
+   "code": "03.293",
+   "standard": "生理学名词",
+   "subject": "生理学_神经生理学"
+  },
+  {
+   "cn": "视觉",
+   "en": "vision",
+   "code": "04.0689",
+   "standard": "物理学名词",
+   "subject": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学"
+  },
+  {
+   "cn": "视觉",
+   "en": "vision",
+   "code": "05.080",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_光生物物理学_光受体和光信号转导"
+  },
+  {
+   "cn": "愿景",
+   "en": "vision",
+   "code": "04.0280",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_组织行为与人力资源管理_组织变革与创新"
+  },
+  {
+   "cn": "视觉",
+   "en": "vision",
+   "code": "10.0008",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑物理_建筑光学"
+  },
+  {
+   "cn": "视觉",
+   "en": "vision",
+   "code": "02.162",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "视力",
+   "en": "vision",
+   "code": "08.095",
+   "standard": "全科医学与社区卫生名词",
+   "subject": "全科医学与社区卫生_社区健康管理"
+  },
+  {
+   "cn": "视觉",
+   "en": "vision",
+   "code": "04.020",
+   "standard": "中医药学名词（2013）",
+   "subject": "中医药学_眼科学_解剖生理"
+  },
+  {
+   "cn": "示现",
+   "en": "vision",
+   "code": "08.212",
+   "standard": "语言学名词",
+   "subject": "语言学_修辞学_修辞方法"
+  },
+  {
+   "cn": "视觉",
+   "en": "vision",
+   "code": "22.102",
+   "standard": "电气工程名词",
+   "subject": "电气工程_电气照明"
+  },
+  {
+   "cn": "视觉",
+   "en": "vision",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "视觉",
+   "en": "vision",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "再认",
+   "en": "recognition",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "识别",
+   "en": "recognition",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "识别",
+   "en": "recognition",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "识别",
+   "en": "recognition",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "初级视觉",
+   "en": "early vision\",\"primary vision",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "面孔识别，人脸识别，面部识别",
+   "en": "face recognition\",\"facial recognition",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "轮廓识别",
+   "en": "contour recognition\",\"outline recognition",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "明视觉",
+   "en": "photopic vision",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "管状视觉",
+   "en": "tunnel vision",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "中央视觉",
+   "en": "central vision",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "计算机视觉",
+   "en": "computer vision",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "机器视觉",
+   "en": "machine vision",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "机器视觉",
+   "en": "Machine vision",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生物特征识别",
+   "en": "biometric recognition",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "人脸识别",
+   "en": "face recognition",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "模式识别",
+   "en": "pattern recognition",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "识别序列",
+   "en": "recognition sequence",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子目标识别",
+   "en": "quantum target recognition",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "人脸识别支付",
+   "en": "face recognition payment",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "人像识别技术",
+   "en": "facial recognition technology",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "深度语音识别技术",
+   "en": "deep speech recognition technology",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "遥感图像识别",
+   "en": "remote sensing image recognition",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "视觉",
+   "en": "vision",
+   "code": "4.2.5.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_儿童保健_儿童生长发育"
+  },
+  {
+   "cn": "视力不良",
+   "en": "poor vision",
+   "code": "3.2.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测"
+  },
+  {
+   "cn": "视力损伤",
+   "en": "vision impairment",
+   "code": "3.2.2.1.8",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测"
+  },
+  {
+   "cn": "低视力",
+   "en": "low vision",
+   "code": "3.2.2.1.9",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测"
+  },
+  {
+   "cn": "社会承认",
+   "en": "social recognition",
+   "code": "2.1.5.19",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会生活"
+  },
+  {
+   "cn": "生物识别",
+   "en": "biological recognition",
+   "code": "1.2.57",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品完整性"
+  },
+  {
+   "cn": "视力残疾筛查",
+   "en": "vision disability screening",
+   "code": "4.4.3.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_儿童保健_儿童保健管理"
+  },
+  {
+   "cn": "承认政治",
+   "en": "politics of recognition",
+   "code": "3.6.4.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_政治社会学_公民权与公民参与"
+  },
+  {
+   "cn": "承认理论",
+   "en": "theory of recognition",
+   "code": "05.0044",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "抗原识别受体",
+   "en": "antigen recognition receptor",
+   "code": "1.3.4.8",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_抗原与抗体"
+  },
+  {
+   "cn": "模式识别受体",
+   "en": "pattern recognition receptor",
+   "code": "1.3.5.38",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_炎症介质"
+  },
+  {
+   "cn": "模式识别受体",
+   "en": "pattern recognition receptor",
+   "code": "3.4.15",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物过敏"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

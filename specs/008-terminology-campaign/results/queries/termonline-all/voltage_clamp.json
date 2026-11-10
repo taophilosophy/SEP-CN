@@ -1,0 +1,348 @@
+{
+ "key": "voltage clamp",
+ "term": "voltage clamp",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T21:41:07+00:00",
+ "status": "ok",
+ "note": "variant=voltage clamp; 审定公布名词库=1590; 海峡两岸名词对照库=203; 其他来源数据库=23; 预公布名词数据库=59; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "电压钳",
+   "en": "voltage clamp",
+   "code": "02.395",
+   "standard": "生理学名词",
+   "subject": "生理学_细胞生理学"
+  },
+  {
+   "cn": "电压钳",
+   "en": "voltage clamp",
+   "code": "05.098",
+   "standard": "阿尔茨海默病名词",
+   "subject": "阿尔茨海默病_诊断技术与实验方法_电生理学"
+  },
+  {
+   "cn": "电压钳",
+   "en": "voltage clamp",
+   "code": "08.280",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫生理与生化"
+  },
+  {
+   "cn": "电压钳技术",
+   "en": "voltage clamp technique",
+   "code": "04.008",
+   "standard": "兽医学名词",
+   "subject": "兽医学_动物生理学"
+  },
+  {
+   "cn": "电压钳技术",
+   "en": "voltage clamp technique",
+   "code": "13.195",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_技术与方法_单细胞检测"
+  },
+  {
+   "cn": "吸铗",
+   "en": "clamp",
+   "code": "5.0938",
+   "standard": "动物学名词",
+   "subject": "动物学_无脊椎动物学_扁形动物门"
+  },
+  {
+   "cn": "线夹",
+   "en": "clamp",
+   "code": "22.174",
+   "standard": "电力名词",
+   "subject": "电力_输电线路"
+  },
+  {
+   "cn": "抱卡",
+   "en": "clamp",
+   "code": "02.0315",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_物料搬运机械_输送机械_索道"
+  },
+  {
+   "cn": "β钳",
+   "en": "β-clamp",
+   "code": "5.0147",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制"
+  },
+  {
+   "cn": "夹钩",
+   "en": "clamps",
+   "code": "01.0469",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_物料搬运机械_起重机械_堆垛起重机"
+  },
+  {
+   "cn": "夹紧元件",
+   "en": "clamping element,clamp",
+   "code": "13.030",
+   "standard": "机械工程名词 第二分册",
+   "subject": "机械工程（二）_机械制造工艺与设备_夹具"
+  },
+  {
+   "cn": "钳位",
+   "en": "clamping",
+   "code": "03.1059",
+   "standard": "物理学名词",
+   "subject": "物理学_电磁学"
+  },
+  {
+   "cn": "电压钳",
+   "en": "voltage clamp",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "箝位",
+   "en": "clamping",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "锁状联合",
+   "en": "clamp connection",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "分子钳",
+   "en": "molecular clamp",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "滑卡,滑动钳",
+   "en": "sliding clamp",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "上盘制动",
+   "en": "upper clamp",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "水平制动螺旋",
+   "en": "horizontal clamp",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "下盘制动",
+   "en": "lower clamp",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "固着铗",
+   "en": "attaching clamp",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "膜片钳",
+   "en": "patch clamp",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "膜片钳",
+   "en": "patch clamping",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "制动误差",
+   "en": "clamping error",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "膜片钳",
+   "en": "patch clamp technique",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "保护继电器",
+   "en": "Voltage converter",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "并网逆变器",
+   "en": "Voltage converter",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "电压门控离子通道",
+   "en": "Voltage-gated ion channels",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "裂隙灯",
+   "en": "slit lamp",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "氖灯",
+   "en": "neon lamp",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "重复灯",
+   "en": "repetition lamp",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "夹绳器",
+   "en": "clam cleat",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "重复灯",
+   "en": "repetition lamp",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "水陆联运",
+   "en": "portage",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_皮划艇名词"
+  },
+  {
+   "cn": "嚼衔铁",
+   "en": "champ the bit",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "占先",
+   "en": "advantage\",\"vantage",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "止血钳载体",
+   "en": "hemostatic clamp carrier",
+   "code": "6.2.5.1.8",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "脐带结扎",
+   "en": "umbilical cord clamping",
+   "code": "3.5.3.33",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_孕产期保健"
+  },
+  {
+   "cn": "延迟脐带结扎",
+   "en": "delayed cord clamping, DCC",
+   "code": "3.5.3.35",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_孕产期保健"
+  },
+  {
+   "cn": "高压发生器",
+   "en": "high-voltage generator",
+   "code": "6.4.2.23",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  },
+  {
+   "cn": "脉冲高电压",
+   "en": "pulse high voltage",
+   "code": "6.5.1.12",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_工业应用的放射防护_加速器应用"
+  },
+  {
+   "cn": "高压静电场",
+   "en": "high-voltage electrostatic field",
+   "code": "2.2.5.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术_物理消毒"
+  },
+  {
+   "cn": "高压静电",
+   "en": "high-voltage static electricity",
+   "code": "3.1.2.4.3.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "X射线管电压",
+   "en": "X-ray tube voltage",
+   "code": "6.4.2.46",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  },
+  {
+   "cn": "静电高压发生器",
+   "en": "electrostatic high voltage generator",
+   "code": "6.5.1.13",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_工业应用的放射防护_加速器应用"
+  },
+  {
+   "cn": "恒压高压发生器",
+   "en": "constant potential high-voltage generator",
+   "code": "6.4.2.25",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  },
+  {
+   "cn": "标称X射线管电压",
+   "en": "nominal X-ray tube voltage",
+   "code": "6.4.2.47",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  },
+  {
+   "cn": "X射线管峰值电压",
+   "en": "X-ray tube peak voltage",
+   "code": "6.4.2.48",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

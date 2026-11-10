@@ -1,0 +1,215 @@
+{
+ "key": "vulgate",
+ "term": "Vulgate",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T21:44:08+00:00",
+ "status": "ok",
+ "note": "variant=Vulgate; 审定公布名词库=167; 海峡两岸名词对照库=46; 其他来源数据库=4; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "皮大麦",
+   "en": "barley,Hordeum vulgate",
+   "code": "07.059",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_饲料与营养_饲料原料"
+  },
+  {
+   "cn": "镊合状",
+   "en": "valvate",
+   "code": "03.0268",
+   "standard": "植物学名词",
+   "subject": "植物学_植物形态与结构植物学_植物形态学"
+  },
+  {
+   "cn": "硫酸盐",
+   "en": "sulfate",
+   "code": "06.102",
+   "standard": "药学名词",
+   "subject": "药学_药物分析"
+  },
+  {
+   "cn": "硫酸盐",
+   "en": "sulfate",
+   "code": "04.668",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_发动机_发动机排放"
+  },
+  {
+   "cn": "硫酸盐",
+   "en": "sulfate",
+   "code": "04.377",
+   "standard": "地质学名词",
+   "subject": "地质学_矿物学"
+  },
+  {
+   "cn": "硫酸盐",
+   "en": "sulfate,water soluble sulfate",
+   "code": "24.0697",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_动力机械_内燃机_发动机排放_排放物"
+  },
+  {
+   "cn": "硫酸水",
+   "en": "sulfate water",
+   "code": "16.04.050",
+   "standard": "地质学名词",
+   "subject": "地质学_水文地质学_水文地球化学"
+  },
+  {
+   "cn": "硫酸盐矿物",
+   "en": "sulfate mineral",
+   "code": "03.10.001",
+   "standard": "地质学名词",
+   "subject": "地质学_矿物学_硫酸盐矿物"
+  },
+  {
+   "cn": "硫酸角质素",
+   "en": "keratan sulfate",
+   "code": "6.0213",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_糖类_多糖_单糖衍生物"
+  },
+  {
+   "cn": "硫酸软骨素",
+   "en": "chondroitin sulfate",
+   "code": "6.0214",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_糖类_多糖_单糖衍生物"
+  },
+  {
+   "cn": "硫酸皮肤素",
+   "en": "dermatan sulfate",
+   "code": "6.0215",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_糖类_多糖_单糖衍生物"
+  },
+  {
+   "cn": "硫酸乙酰肝素",
+   "en": "heparan sulfate",
+   "code": "6.0217",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_糖类_多糖_单糖衍生物"
+  },
+  {
+   "cn": "镊合状",
+   "en": "valvate",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "硫酸盐",
+   "en": "sulfate",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "硫酸软骨素",
+   "en": "chondroitin sulfate",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "雌球花（=大孢子叶球）",
+   "en": "ovulate strobilus",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "大孢子叶球，雌球花",
+   "en": "ovulate strobilus",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "硫酸盐同化",
+   "en": "sulfate assimilation",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "镊合状花被卷叠式",
+   "en": "valvate aestivation",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "硫酸铵",
+   "en": "Ammonium sulfate",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "硫酸盐气溶胶",
+   "en": "sulfate aerosol",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "硫酸盐纸浆",
+   "en": "sulfate pulp",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "硫酸盐制纸浆法",
+   "en": "sulfate process",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "硫酸盐浆",
+   "en": "sulfate pulp",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "纤连蛋白",
+   "en": "heparan sulfate",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "硫酸脱氢表雄酮",
+   "en": "Dehydroepiandrosterone sulfate",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "硫酸亚铁",
+   "en": "iron(II) sulfate",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "碱式硫酸铬",
+   "en": "Basic chromic sulfate",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "庸俗进化论",
+   "en": "vulgar evolutionism",
+   "code": "01.0201",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
