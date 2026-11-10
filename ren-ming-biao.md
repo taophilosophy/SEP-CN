@@ -254,6 +254,7 @@
 | Baelde, David | — | David Baelde | — | — | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Bahya ibn Paquda | Bahya ibn Paquda | 巴希亚·伊本·帕库达 | — | — | abraham-daud | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Bai Juyi | — | 白居易 | — | — | buddhism-chan | 学界千年通行译名 | 2026-11-05 |
+| Baier, Annette | — | 安妮特·拜尔 | 新西兰／美国／哲学家 | 1929–2012 | reflective-equilibrium | 学界通行音译；凭证 2026-11-11 | 2026-11-11 |
 | Bailey, Samuel | — | 塞缪尔·贝利 | — | — | 语料回收（molyneux-problem 首译） | 学界通行汉译（苏格兰常识学派，Mill 论战对象）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Baillet, Adrien | — | 巴耶 | — | — | descartes-works | 学界通行（笛卡尔早期传记作者） | 2026-11-06 |
 | Bain, Alexander | — | 亚历山大·贝恩 | — | — | brentano-judgement 首译 | 学界通行汉译（苏格兰哲学家，《感觉与理智》作者）；凭证 2026-11-09 | 2026-11-09 |
@@ -457,6 +458,7 @@
 | Brandes, Ernst | — | 恩斯特·布兰德斯 | 德国／汉诺威政论家 | — | august-rehberg | 学界通行音译；仅注内出现，生卒待核；凭证 2026-11-08 | 2026-11-08 |
 | Brandon, Robert | — | 罗伯特·布兰登 | — | — | biology-philosophy | 学界通行汉译（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Brands, Hartmut | — | Hartmut Brands（现代学者，保留英文） | — | — | william-sherwood | ADR-0022（舍伍德校勘本编者） | 2026-11-09 |
+| Brandt, Richard B. | — | 理查德·B. 布兰特 | 美国／哲学家 | 1910–1997 | reflective-equilibrium | 学界通行音译（认知疗法）；凭证 2026-11-11 | 2026-11-11 |
 | Bregy | — | 布雷吉 | — | — | descartes-works | 音译（瑞典宫廷侍臣，笛卡尔晚岁通信人） | 2026-11-06 |
 | Breheny, Richard | — | Richard Breheny | — | — | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Brentano, Franz | — | 弗朗茨·布伦塔诺 | — | — | intentionality-ancient | 学界通行汉译（《经验立场之心理学》） | 2026-11-07 |
@@ -784,6 +786,7 @@
 | Danecki | — | Danecki | — | — | logic-dynamic | 源文仅称姓（Danecki 1984a/1984b），保留英文；凭证 2026-11-10 | 2026-11-09 |
 | Daniel Bell | — | 丹尼尔·贝尔 | — | — | law-ideology | 学界通行汉译（社会学家，《意识形态的终结》作者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Daniel Sennert | — | 丹尼尔·森纳特 | — | — | locke-on-medicine | 医史学界通行音译（维滕贝格医学教授）；待 specs/008 审定库复核 | 2026-11-05 |
+| Daniels, Norman | — | 诺曼·丹尼尔斯 | 美国／哲学家 | 1942– | reflective-equilibrium | 学界通行汉译（《正义与证成》作者，广义反思平衡提出者之一）；凭证 2026-11-11 | 2026-11-11 |
 | Danielson, Peter | — | 彼得·丹尼尔森 | 加拿大 | — | it-moral-values | 学界通行音译（应用伦理与建模）；凭证 2026-11-10 | 2026-11-10 |
 | Danos, Vincent | — | Vincent Danos | — | — | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Dante | Dante | 但丁 | — | — | schlegel | 学界千年通行；凭证 2026-11-07 | 2026-11-07 |
@@ -846,6 +849,7 @@
 | Demosthenes | — | 狄摩西尼 | — | — | olympiodorus | 雅典演说家；史学通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | den Hartogh, Govert | — | den Hartogh | — | — | organ-donation | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
 | Dennett, Daniel | — | 丹尼尔·丹尼特 | — | — | behaviorism | 学界通行汉译（《意识的解释》作者） | 2026-11-05 |
+| DePaul, Michael R. | — | 迈克尔·德保罗 | 美国／哲学家 | — | reflective-equilibrium | 学界通行音译（《平衡与精炼》作者，激进反思平衡）；凭证 2026-11-11 | 2026-11-11 |
 | Depew, David | — | 戴维·迪普 | — | — | origin-descent | 学界惯例（达尔文修辞研究）；凭证 2026-11-07 | 2026-11-07 |
 | Derk Pereboom | — | 德克·佩雷布姆 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
 | DeRose, Keith | — | 基思·德罗斯 | — | — | closure-epistemic | 学界通行音译（语境论）；凭证 2026-11-08 | 2026-11-08 |
@@ -962,6 +966,7 @@
 | Einstein, Albert | — | 爱因斯坦 | — | — | 语料回收（lakatos 首译） | 学界千年通行汉译；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Ekert, Artur | — | 阿图尔·埃克特 | 波兰／英国 | 1961– | qt-entangle | 学界通行汉译（量子密码学 E91 协议）；凭证 2026-11-09 | 2026-11-09 |
 | Electress Sophie of Hanover | — | 汉诺威选帝侯夫人索菲 | — | — | 18thGerman-preKant | 学界通行汉译（莱布尼茨通信人）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Elgin, Catherine Z. | — | 凯瑟琳·Z. 埃尔金 | 美国／哲学家 | 1948– | reflective-equilibrium | 学界通行音译（《深思熟虑的判断》作者）；凭证 2026-11-11 | 2026-11-11 |
 | Elias | — | 埃利亚斯 | — | — | olympiodorus | 6 世纪亚历山大里亚注疏家（与 David 并称）；学界音译；凭证 2026-11-08 | 2026-11-08 |
 | Elihu | — | 以利户 | — | — | gersonides | 《约伯记》人物；和合本通行译名 | 2026-11-09 |
 | Eliot, T.S. | — | T.S. 艾略特 | — | — | bergson | 学界通行汉译（诗人；法兰西公学院听众） | 2026-11-08 |
@@ -1206,6 +1211,7 @@
 | Gatti, Giovanni | — | 乔瓦尼·加蒂 | 意大利／多明我会 | 卒于 1484 前 | bessarion | 本词条首译（15 世纪多明我会神学家，源文 d. ante 1484；无通行汉名） | 2026-11-10 |
 | Gaukroger, Stephen | — | 高克罗格 | — | — | descartes-works | 学界通行（《笛卡尔智识传记》作者） | 2026-11-06 |
 | Gaunilo | — | 高尼罗 | — | — | descartes-ontological | 学界通行（马尔穆捷修士，安瑟伦同时代批评者） | 2026-11-06 |
+| Gaus, Gerald F. | — | 杰拉尔德·高斯 | 美国／哲学家 | 1952– | reflective-equilibrium | 学界通行音译（《证成性自由主义》作者）；凭证 2026-11-11 | 2026-11-11 |
 | Gautama（正理） | गौतम | 乔答摩（正理） | 古印度／正理派 | 约 2 世纪 | jaina-philosophy | 梵音自拟（《逻辑经》作者；与悉达多·乔达摩、因陀罗菩提·乔答摩分立） | 2026-11-08 |
 | Gauthier, David | — | 戴维·戈蒂耶 | — | — | ethics-deontological | 学界通行汉译（《作为契约的道德》作者） | 2026-11-04 |
 | Gaza, Theodore | Theodore Gaza | 西奥多·加扎 | 拜占庭 | 卒于 1476 | bessarion | 本词条首译（拜占庭人文主义者，源文 d. 1476；学界通行音译） | 2026-11-10 |
@@ -1429,6 +1435,7 @@
 | Harclay, Henry of | — | 亨利·哈克莱 | — | — | 首现（crathorn） | 学界惯例（牛津方济各会士，音译）；凭证 2026-11-07 | 2026-11-07 |
 | Hardie, W. F. R. | — | W. F. R. 哈迪 | 英国 | — | african-ethics | 学界通行音译（亚里士多德伦理学）；凭证 2026-11-09 | 2026-11-09 |
 | Hardin, Garrett | — | 加勒特·哈丁 | — | — | economic-democracy | 学界通行汉译（"公地悲剧"作者；与桑德拉·哈丁异人） | 2026-11-04 |
+| Hare, R. M. | — | 理查德·M. 黑尔 | 英国／哲学家 | 1919–2002 | reflective-equilibrium | 学界通行汉译（普遍规定主义）；凭证 2026-11-11 | 2026-11-11 |
 | Hare, Richard Mervyn | — | 理查德·默尔文·黑尔 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Harel, David | — | 戴维·哈雷尔 | — | — | social-procedures | 构词直译（算法教材作者）；凭证 2026-11-07 | 2026-11-07 |
 | Haribhadra Sūri | हरीभद्रसूरि | 诃梨跋陀罗 | 古印度／耆那教 | 约 770 年前后 | jaina-philosophy | 梵音自拟（白衣派论师；Sūri 为尊称，正文保留拉丁原形） | 2026-11-08 |
@@ -2180,6 +2187,7 @@
 | Łukasiewicz, Jan | — | Jan Łukasiewicz | — | —；lvov-warsaw | logic-fuzzy | 本库惯例保留英文原名（波兰逻辑学家）；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 
 ## M
+| Maagt, Sem de | — | 塞姆·德马格特 | 荷兰／哲学家 | — | reflective-equilibrium | 学界通行音译（反思平衡与道德客观性）；凭证 2026-11-11 | 2026-11-11 |
 
 | Macclesfield, Earl of (Thomas Parker) | — | 麦克尔斯菲尔德勋爵 | 英格兰 | 1666–1732 | mandeville | 学界通行汉译（大法官 Thomas Parker，第一代麦克尔斯菲尔德伯爵；正文以爵号行文）；凭证 2026-11-08 | 2026-11-08 |
 | MacColl, Hugh | — | Hugh MacColl | — | — | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
@@ -2837,6 +2845,7 @@
 | Quattromani, Sertorio | — | 塞尔托里奥·夸特罗马尼 | — | — | telesio | 学界惯例（特莱西奥在科森扎学院的继任者）；凭证 2026-11-08 | 2026-11-08 |
 | Quetelet, Adolphe | — | 阿道夫·凯特勒 | — | — | william-jevons | 学界通行（统计物理学派创始者通译）；凭证 2026-11-07 | 2026-11-07 |
 | Quine | — | 蒯因 | — | — | 语料回收（quine） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
+| Quine, W. V. | — | 威拉德·范·奥曼·蒯因 | 美国／哲学家 | 1908–2000 | reflective-equilibrium | 学界通行汉译；凭证 2026-11-11 | 2026-11-11 |
 | Quine, W.V.O. | — | Quine | — | — | logical-consequence | 本库惯例保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Quinn, Warren | — | 沃伦·奎因 | — | — | ethics-deontological | 学界通行汉译（义务论伦理学家；与逻辑学家 Quine 蒯因异人） | 2026-11-04 |
 | Quintilian | — | 昆体良 | — | — | erasmus | 学界惯例（《演说术原理》作者千年通行译名） | 2026-11-04 |
@@ -3050,6 +3059,7 @@
 | Savulescu, Julian | — | 朱利安·萨武列斯库 | — | — | disability | 学界惯例音译（生物伦理学，牛津；正文首现括注）；凭证 2026-11-09 | 2026-11-09 |
 | Sayyid al-Sharīf al-Jurjānī | — | 赛义德·谢里夫·朱尔加尼 | 波斯（朱尔扬）／教义学与语义学 | 1340–1413 | arabic-islamic-phil-math | 音译（学界无统一汉名） | 2026-11-08 |
 | Scaliger, Julius Caesar | — | 尤利乌斯·凯撒·斯卡利杰 | 意大利／文艺复兴哲学家与医学家 | 1484–1558 | johann-sturm | 学界通行汉译（勿与 Joseph Justus Scaliger 相混）；凭证 2026-11-10 | 2026-11-10 |
+| Scanlon, T. M. | — | 托马斯·M. 斯坎伦 | 美国／哲学家 | 1940– | reflective-equilibrium | 学界通行汉译（《我们彼此负有什么义务》作者）；凭证 2026-11-11 | 2026-11-11 |
 | Scanlon, Thomas | — | 托马斯·斯坎伦 | — | — | ethics-deontological | 学界通行汉译（《我们彼此负有什么义务》作者） | 2026-11-04 |
 | Scanu, Maria | — | 玛丽亚·斯坎努 | — | — | erotic-art | 学界惯例音译（雕塑家） | 2026-11-08 |
 | Scarpellini, Bruno | — | Bruno Scarpellini | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
@@ -3453,6 +3463,7 @@
 | Ŭich’ŏn | 義天 | 义天 | — | — | korean-buddhism | 汉文传统写法（源文汉字 義天；高丽大觉国师，天台宗） | 2026-11-05 |
 | Ŭisang | Ŭisang | 义湘 | — | — | korean-buddhism | 汉文传统写法（源文汉字 義湘；新罗华严初祖） | 2026-11-05 |
 | Ulam, Stanisław | — | Stanisław Ulam | — | — | logic-infinitary | 无通行汉名，保留英文原名（波兰裔美国数学家，1909–1984）；凭证 2026-11-10 | 2026-11-09 |
+| Ullian, J. S. | — | 约瑟夫·S. 厄利安 | 美国／哲学家 | — | reflective-equilibrium | 学界通行音译（《信念之网》合著者）；凭证 2026-11-11 | 2026-11-11 |
 | Ulrich of Strasbourg | — | 斯特拉斯堡的乌尔里希 | — | — | albert-great | 学界惯例（13 世纪多明我会神学家） | 2026-11-06 |
 | Umāsvāmin | उमास्वामिन् | 乌摩斯瓦敏 | 古印度／耆那教 | 约 2–4 世纪 | jaina-philosophy | 梵音自拟（《论存在者》传统作者；与注者 Umāsvāti 分立两行） | 2026-11-08 |
 | Umāsvāti | उमास्वाति | 乌摩斯伐底 | 古印度／耆那教 | 约 400–450 | jaina-philosophy | 梵音自拟（《论存在者注》作者，与 Umāsvāmin 分立） | 2026-11-08 |

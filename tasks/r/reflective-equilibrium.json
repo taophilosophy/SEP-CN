@@ -2,7 +2,7 @@
   "slug": "reflective-equilibrium",
   "kind": "retranslate",
   "zh_doc": "r/reflective-equilibrium.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-10T07:29:08Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-10T17:24:37Z",
+      "evidence": "方向声明（rules/08）：r 批 reflective-equilibrium（源文 8796 词、109 段账本=108 body+1 oir，67 条 biblio 照录）。目标：走完 draft→s1→s2→s3→r1→r2→r3→done；验收判据=守恒门 109 段通过、四检全绿、check_all 9 项全绿。非目标：不改源文、不补内容、不动他会话在途文件。冷置安排：本件 s3 后转 next 件，r1–r3 回读另起。正文 310 行已 compose 落盘。"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-10T17:26:56Z",
+      "evidence": "忠实性（全文对照 yuanwen）：9 节（导语+1-3 节，h2 7:7、h3 14:14）；脚注 marker 166:166 多重集全等、defs 67:67 键集全等；引文块 13 处逐一比对（Lewis 1983、Rawls 1971/1974、Daniels 1996、DePaul 1993、Baier 1985、Scanlon 2003/2014、Singer 2005、Raz 1982、Freeman 2007）；人名首现括注对齐登记册（罗尔斯/丹尼尔斯/埃尔金/德保罗/斯坎伦/拜尔/黑尔/布兰特/高斯/蒯因/厄利安/德马格特）。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-10T17:33:46Z",
+      "evidence": "文体与术语（落实 ADR-0033 语体复核：禁文言腔）：check_style --strict issues 0；check_prose --strict 残余 4 条全在引文块（Scanlon 2003 长句/被动、Singer 2005 弱动词），按 ADR-0020 逐类豁免留痕；叙述散文已实修 20 处（de-chain 5、weak-verb 12、long-sentence 4、passive 1），修正直接改账本可复现。术语册新登 15 条（深思熟虑的判断/初始判断/信心约束/认知约束/独立性约束/证成装置/表征装置/狭义·广义·完全·公共反思平衡/重叠共识/反理论/充足主义的/助产式反思/道德改宗）。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-10T17:38:03Z",
+      "evidence": "学术规范（rules/07）：check_academic --strict OK；check_math formulas 0 missing 0 unbalanced 0；书目 67 条 defs 逐字符照录（键集与源全等，含 doi/编者/丛书）；Academic Tools 四行制；Other Internet Resources 1 条中译括注原名；相关词条 8 条照 SUMMARY 定名（含“元伦理学中的建构主义”）。术语册与人名表登记与主提交同批；check_all 9 项全绿。"
     }
   ],
   "blockers": [],
