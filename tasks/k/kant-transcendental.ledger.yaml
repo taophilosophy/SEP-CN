@@ -91,74 +91,98 @@ segments:
     kind: body
     source: |-
       The argument from above in §16 can be divided into two stages. The goal of the first is to establish the various components of *the principle of the necessary unity of apperception*. The second stage aims to show that synthesis is a necessary condition for the aforementioned aspect of self-consciousness, which this principle highlights. *Apperception* is the apprehension of a mental state – of a representation, in Kant’s terminology – as one’s own; one might characterize it as the self-ascription or self-attribution of a mental state (Strawson 1966: 93–94)[^strawson-1966]. In Kant’s conception, my apperception has *necessary unity* since all of my representations *must* be grounded “in pure apperception, that is, in the thoroughgoing *identity* of the self in all possible representations” (B131–32, emphasis mine). By this he means that:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      §16 的自上而下的论证可分为两个阶段。第一阶段旨在确立*统觉的必然统一性原则*的各个组成部分。第二阶段意在表明：综合是上述自我意识面向的必要条件，而这一原则所凸显的正是该面向。*统觉*是把一个心理状态——用康德的术语，把一个表象——把握为自己的；人们可以把它刻画为对一个心理状态的自我归赋或自我归属（Strawson 1966: 93–94）[^strawson-1966]。在康德的构想中，我的统觉具有*必然的统一性*，因为我的一切表象都*必须*被奠基“于纯粹统觉之中，即在一切可能表象中自我的彻底*同一性*”（B131–32，着重为我所加）。他以此意指：
+    step2: |-
+      §16 的自上而下的论证可分为两个阶段。第一阶段旨在确立*统觉的必然统一性原则*的各个组成部分。第二阶段意在表明：综合是上述自我意识面向的必要条件，而这一原则所凸显的正是该面向。*统觉*是把一个心理状态——用康德的术语，把一个表象——把握为自己的；可以把它刻画为对一个心理状态的自我归赋或自我归属（Strawson 1966: 93–94）[^strawson-1966]。在康德的构想中，我的统觉具有*必然的统一性*，因为我的一切表象都*必须*被奠基“于纯粹统觉之中，即在一切可能表象中自我的彻底*同一性*”（B131–32，着重为我所加）。他以此意指：
   - id: 12
     kind: body
     source: |-
       > (*The principle of the necessary unity of apperception*) It must be the case that each of my representations is such that I can attribute it to my self, a subject which is the same, i.e., numerically identical, for all of my self-attributions, which is distinct from its representations, and which can be conscious of its representations (A116, B131–32, B134–35).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > （*统觉的必然统一性原则*）我的每一表象都必是这样的：我能把它归赋于我的自我——一个在我一切自我归赋中保持同一、即数目上同一的主体；它区别于其表象，并能意识到自己的表象（A116, B131–32, B134–35）。
+    step2: |-
+      > （*统觉的必然统一性原则*）我的每一表象都必是这样的：我能把它归赋于我的自我——一个在我一切自我归赋中保持同一、即数目上同一的主体；它区别于其表象，并能意识到自己的表象（A116, B131–32, B134–35）。
   - id: 13
     kind: body
     source: |-
       One might note three aspects of the meaning of this principle. First, as pointed out earlier, Kant maintains that the apperceiving subject is not itself a collection of representations. Kant affirms that I have no inner intuition of the subject (e.g. B157), and this claim would conflict with the subject’s being a collection of representations, since he holds that I can intuit my representations by inner sense (e.g. A33/B49). Also, in §16 Kant remarks: “through the ‘I’, as simple representation, nothing manifold is given; only in intuition, which is distinct from the ‘I’, can a manifold be given” (B135). If he held the apperceiving subject to be a collection of representations, it would be surprising for him to deny that anything manifold is given through my representation of it. Second, my ability to attribute representations to myself as subject of them is *pure*, as opposed to *empirical* apperception. This means that I have this ability not in virtue of Humean inner perception, or Kantian inner sense but rather independently of any such empirical faculties and instead by virtue of the faculty of the understanding. However, Kant repeatedly affirms that the purity of this apperception does not imply that the subject to which one’s representations can be attributed is intuited – represented as an object – in a purely rational or *a priori* way (e.g., B406–9; Smit 2009, 2026)[^smit-2009]. Third, Kant states that pure apperception is *original*, and the explication he provides is that “it is that self-consciousness which, while generating the representation ‘I think’ … cannot itself be accompanied by any further representation” (B132). I cannot have a representation of myself as apperceiving subject other than by way of ‘I think…’-type thoughts, and hence these thoughts are the original representations of this subject (e.g., A350). At the same time, by virtue of my capacity for apperception, I can have a kind of propositional grasp of the apperceiving subject; Kant affirms that in apperception, I am conscious *that* I exist as subject (B157). (For recent extensive discussions of Kant on self-knowledge, see Rosefeldt 2000, Kitcher 2011, and Longuenesse 2017; cf. Howell 2001.)[^howell-2001][^kitcher-2011][^longuenesse-2017][^rosefeldt-2000]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      可以指出这一原则意义的三个方面。第一，如前所述，康德主张统觉的主体本身不是表象的集合。康德断言我对主体没有内直观（例如 B157），而这一主张会与“主体是表象集合”之说相冲突，因为他认为我能通过内感官直观我的表象（例如 A33/B49）。此外，康德在 §16 中说：“通过‘我’这一单纯表象，并没有给出任何杂多；只有在不同于‘我’的直观中，杂多才能被给出”（B135）。若他主张统觉的主体是表象的集合，那么他否认通过我对它的表象给出了任何杂多，便会令人惊讶。第二，我把表象归赋给自己（作为其主体）的能力是*纯粹的*，与*经验性*统觉相对。这意味着：我拥有这一能力，不是凭休谟式内知觉或康德式内感官，而是独立于任何此类经验性能力，凭的是知性能力。然而康德反复申明：这种统觉的纯粹性并不意味着，表象可被归赋于其上的那个主体会以纯理性或*先天*的方式被直观——被表象为一个对象（例如 B406–9；Smit 2009, 2026）[^smit-2009]。第三，康德说纯粹统觉是*本源的*；他给出的阐释是：“它是这样一种自我意识：在产生‘我思’这一表象的同时……它本身不能再被任何进一步的表象所伴随”（B132）。除了通过“我思……”型的思想，我不能拥有关于自己作为统觉主体的表象；因此这些思想就是该主体的本源表象（例如 A350）。与此同时，凭借我的统觉能力，我能对统觉主体有一种命题性的把握：康德申明，在统觉中我意识到*我*作为主体而存在（B157）。（关于康德自我知识的晚近详尽讨论，见 Rosefeldt 2000、Kitcher 2011 与 Longuenesse 2017；参 Howell 2001。）[^howell-2001][^kitcher-2011][^longuenesse-2017][^rosefeldt-2000]
+    step2: |-
+      可以指出这一原则意义的三个方面。第一，如前所述，康德主张统觉的主体本身不是表象的集合。康德断言：我对主体没有内直观（例如 B157）。这一主张会与“主体是表象集合”之说冲突，因为他认为我能通过内感官直观自己的表象（例如 A33/B49）。此外，康德在 §16 中说：“通过‘我’这一单纯表象，并没有给出任何杂多；只有在不同于‘我’的直观中，杂多才能被给出”（B135）。若他主张统觉的主体是表象集合，那么他否认通过我对它的表象给出了任何杂多，便会令人惊讶。第二，我把表象归赋给自己（作为其主体）的能力是*纯粹的*，与*经验性*统觉相对。这意味着：我拥有这一能力，不是凭休谟式内知觉或康德式内感官，而是独立于任何此类经验性能力，凭的是知性能力。然而康德反复申明：这种统觉的纯粹性并不意味着，表象可被归赋于其上的那个主体会以纯理性或*先天*的方式被直观——被表象为一个对象（例如 B406–9；Smit 2009, 2026）[^smit-2009]。第三，康德说纯粹统觉是*本源的*；他给出的阐释是：“它是这样一种自我意识：在产生‘我思’这一表象的同时……它本身不能再被任何进一步的表象所伴随”（B132）。除了通过“我思……”型的思想，我不能拥有关于自己作为统觉主体的表象；因此这些思想就是该主体的本源表象（例如 A350）。与此同时，凭借统觉能力，我能对统觉主体有一种命题性把握：康德申明，在统觉中我意识到*我*作为主体而存在（B157）。（关于康德自我知识的晚近详尽讨论，见 Rosefeldt 2000、Kitcher 2011 与 Longuenesse 2017；参 Howell 2001。）[^howell-2001][^kitcher-2011][^longuenesse-2017][^rosefeldt-2000]
   - id: 14
     kind: body
     source: |-
       Kant initiates the first stage of the argument in §16 by claiming:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德在 §16 中以如下主张开启第一阶段：
+    step2: |-
+      康德在 §16 中以下述主张开启第一阶段：
   - id: 15
     kind: body
     source: |-
       > It must be possible for the ‘I think’ to accompany all my representations; for otherwise something would be represented in me which could not be thought at all, and that is equivalent to saying that the representation would be impossible, or at least would be nothing to me. (B131–32)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > “我思”必须能够伴随我的一切表象；否则，在我之中就会有某种东西被表象，而它根本不能被思考——这等于说：该表象将是不可能的，或者至少对我来说等于无。（B131–32）
+    step2: |-
+      > “我思”必须能够伴随我的一切表象；否则，在我之中就会有某种东西被表象，而它根本不能被思考——这等于说：该表象将是不可能的，或者至少对我说来等于无。（B131–32）
   - id: 16
     kind: body
     source: |-
       On one interpretation, the sense in which a representation would be impossible or nothing to me if it could not be accompanied by the ‘I think’ is simply that I could not then become conscious of it (Guyer 1987: 139–44)[^guyer-1987]. It is credible that for any representation of which I am conscious, I can attribute it to myself as subject, assuming my mental faculties are in working order, and if no controversial account of the nature of the subject is presupposed. However, the claim that I can become conscious of *each* of my representations, and that it is therefore possible for me attribute each of them to myself as their subject, is likely false. Plausibly, some of my representations are so thoroughly subconscious that I cannot attribute them to myself, while they are nevertheless mine due to the causal relations they bear to other representations and to actions that are paradigmatically mine. Fortunately, however, the premise that each of my representations is such that I can attribute it to myself is not crucial for the argument from above. Rather, the premise Kant ultimately singles out is less committed, and focuses more specifically on the identity or sameness of the subject of different self-attributions, and my being conscious of this identity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按一种解读，一个表象若不能被“我思”所伴随便“不可能”或“对我等于无”，其意思不过是：我那时无法意识到它（Guyer 1987: 139–44）[^guyer-1987]。可信的是：对于我所意识到的任何表象，只要我的心理能力运转正常、且不预设任何有争议的主体本性学说，我就能把它归赋给自己、作为主体。然而，“我能意识到我的*每一*表象、因而能把每一表象归赋给自己作为其主体”这一主张，很可能是假的。说得通的是：我的某些表象深深处于潜意识，以致我无法把它们归赋给自己，而它们凭其与其他表象及那些典型地属于我的行动之间的因果关系，仍是我的表象。不过幸运的是，“我的每一表象都使我能把它归赋给自己”这一前提对自上而下的论证并不关键。康德最终挑出的前提承诺更少，它更具体地聚焦于不同自我归赋之主体的同一性或同一，以及我对这一同一的意识。
+    step2: |-
+      按一种解读，一个表象若不能被“我思”所伴随，便“不可能”或“对我等于无”，其意思不过是：我届时无法意识到它（Guyer 1987: 139–44）[^guyer-1987]。可信的是：对于我所意识到的任何表象，只要我的心理能力运转正常、且不预设任何有争议的主体本性学说，我就能把它归赋给自己、作为主体。然而，“我能意识到自己的*每一*表象、因而能把每一表象归赋给自己作为其主体”这一主张，很可能是假的。说得通的是：我的某些表象深深处于潜意识，以致我无法把它们归赋给自己；而它们凭其与其他表象、以及与那些典型地属于我的行动之间的因果关系，仍是我的表象。不过幸运的是，“我的每一表象都使我能把它归赋给自己”这一前提对自上而下的论证并不关键。康德最终挑出的前提承诺更少，它更具体地聚焦于不同自我归赋之主体的同一性，以及我对这一同一的意识。
   - id: 17
     kind: body
     source: |-
       A number of interpreters, including Robert Howell (1992) and James van Cleve (1999), maintain that the argument of §16 requires a premise affirming the possibility of my being *simultaneously* conscious of the multiple elements of my representations, and that the implausibility of this premise jeopardizes the soundness of the argument. Howell’s specific objection is that Kant does not establish the following crucial premise:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一批解读者，包括 Robert Howell（1992）与 James van Cleve（1999），主张 §16 的论证需要一个前提，确认我能够*同时*意识到我的表象的多个要素；而这一前提之不可信，危及该论证的健全性。Howell 的具体反对是：康德并未确立如下关键前提：
+    step2: |-
+      一批解读者，包括 Robert Howell（1992）与 James van Cleve（1999），主张 §16 的论证需要一个前提，确认我能够*同时*意识到自己表象的多个要素；而这一前提不可信，危及该论证的健全性。Howell 的具体反对是：康德并未确立如下关键前提：
   - id: 18
     kind: body
     source: |-
       > (S) All of the elements of the manifold of *i* (where *i* is some arbitrary intuition) are such that H is or can become conscious, in thought, that all of those elements, taken together, are accompanied by the *I think*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > （S）*i* 之杂多的一切要素（*i* 为某个任意直观）都是这样的：*H* 在思想中意识到、或能够意识到，所有这些要素合在一起被“我思”所伴随。
+    step2: |-
+      > （S）*i* 之杂多的一切要素（*i* 为某个任意直观）都是这样的：*H* 在思想中意识到、或能够意识到，所有这些要素合在一起被“我思”所伴随。
   - id: 19
     kind: body
     source: |-
       (S) asserts that all of the individual elements of the selected intuition are such that the subject is or can become conscious of them simultaneously. In Howell’s interpretation, only if the elements of an intuition together and at the same time are accompanied by the same *I think* will it be plausible that the subject must synthesize these elements (Howell 1992: 162)[^howell-1992]. On van Cleve’s reading, it is required that for any intuition that I have, I actually become simultaneously conscious of its elements. If this co-consciousness were just merely possible, Kant could only conclude is that the resulting representation is only possibly subject to the categories (van Cleve 1999: 84)[^cleve-1999]. On an interpretation of this type, the mechanism of the argument of §16 is to adduce a kind of unity or combination that my representations actually exhibit, and then to argue that this unity requires synthesis by means of the categories as a condition or for its explanation. Kant is thus read as contending that actual co-consciousness is a type of unity that demands synthesis by means of the categories, and that any variety of unity short of co-consciousness will be inadequate to establishing this objective of the Deduction.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (S) 断言：所选直观的所有个别要素都使主体同时意识到、或能够同时意识到它们。按 Howell 的解读，只有当一个直观的诸要素共同且同时被同一个“我思”所伴随，主体才可信地必须综合这些要素（Howell 1992: 162）[^howell-1992]。按 van Cleve 的读法，则要求：对我所拥有的任何直观，我实际上同时意识到其要素。若这种共同意识只是可能，康德便只能结论说：由此产生的表象只是可能地服从范畴（van Cleve 1999: 84）[^cleve-1999]。按这一类解读，§16 论证的机制是：先举出我的表象实际展现出的某种统一或联结，然后论证这种统一以范畴进行的综合为其条件或解释。于是康德被读作主张：实际的共同意识是一种要求以范畴进行综合的统一；任何不及共同意识的统一，都不足以确立演绎的这一目标。
+    step2: |-
+      (S) 断言：所选直观的所有个别要素都使主体同时意识到、或能够同时意识到它们。按 Howell 的解读，只有当一个直观的诸要素共同且同时被同一个“我思”所伴随，主体才可信地必须综合这些要素（Howell 1992: 162）[^howell-1992]。按 van Cleve 的读法，则要求：对我所拥有的任何直观，我实际上同时意识到其要素。若这种共同意识只是可能，康德便只能结论说：由此产生的表象只是可能地服从范畴（van Cleve 1999: 84）[^cleve-1999]。按这一类解读，§16 论证的机制是：先举出我的表象实际展现出的某种统一或联结，再论证这种统一以范畴进行的综合为其条件或解释。于是康德被读作主张：实际的共同意识是一种要求以范畴进行综合的统一；任何不及共同意识的统一，都不足以确立演绎的这一目标。
   - id: 20
     kind: body
     source: |-
       Howell points out that (S) contrasts with a weaker claim:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Howell 指出，(S) 与一个更弱的主张相对照：
+    step2: |-
+      Howell 指出，(S) 与一个更弱的主张相对照：
   - id: 21
     kind: body
     source: |-
       > (W) Each element of the manifold of *i* is such that H is or can become conscious, in thought, that the *I think* accompanies that element. (Howell 1992: 161)[^howell-1992]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > （W）*i* 之杂多的每一要素都是这样的：*H* 在思想中意识到、或能够意识到“我思”伴随该要素。（Howell 1992: 161）[^howell-1992]
+    step2: |-
+      > （W）*i* 之杂多的每一要素都是这样的：*H* 在思想中意识到、或能够意识到“我思”伴随该要素。（Howell 1992: 161）[^howell-1992]
   - id: 22
     kind: body
     source: |-
       which allows that the individual elements of the intuition are such that the subject can only become conscious of each separately, perhaps in turn. He contends, however, that the unity expressed by (W) is insufficient to generate this need for synthesis. If I am merely (possibly or actually) serially conscious of the elements of an intuition, it won’t be required that I synthesize them into a unified intuition. Howell goes on to argue that while (W) is credible, Kant cannot establish (S); it is implausible that such co-consciousness for any arbitrary intuition is actual or even genuinely possible for us. Consequently, the soundness of this argument, and the overall argument of the B-Deduction is imperiled.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （W）容许：该直观的个别要素只让主体分别地、也许依次地意识到。然而他主张，(W) 所表达的统一不足以产生对综合的这一需要。若我只是（可能地或实际地）依次意识到一个直观的诸要素，便不会要求我把它们综合为一个统一的直观。Howell 进而论证：尽管 (W) 可信，康德却无法确立 (S)；对我们的任何任意直观而言，这种共同意识是实际的、乃至真正可能的，都不可信。于是，这一论证的健全性、以及 B 版演绎的整体论证，便都岌岌可危。
+    step2: |-
+      （W）容许：该直观的个别要素只让主体分别地、也许依次地意识到。然而他主张，(W) 所表达的统一不足以产生对综合的这一需要。若我只是（可能地或实际地）依次意识到一个直观的诸要素，便不会要求我把它们综合为一个统一的直观。Howell 进而论证：尽管 (W) 可信，康德却无法确立 (S)；对我们的任何任意直观而言，这种共同意识是实际的、乃至真正可能的，都不可信。于是，这一论证的健全性、以及 B 版演绎的整体论证，便都岌岌可危。
   - id: 23
     kind: body
     source: |-
