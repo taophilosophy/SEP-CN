@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-10 01:01（UTC）
+生成时间：2026-11-10 01:14（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1879|
 |已建任务|1173|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|268|
-|在途（drafted 起、done 前）|228|
+|已完成（done）|270|
+|在途（drafted 起、done 前）|226|
 |阻塞|0|
 
 ## 任务状态分布
@@ -23,13 +23,13 @@
 |状态|数量|
 |---|---|
 |pending|677|
-|cleared|152|
+|cleared|151|
 |drafted|3|
 |s1_checked|1|
-|s3_checked|68|
+|s3_checked|67|
 |r1_reviewed|3|
 |r2_reviewed|1|
-|done|268|
+|done|270|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -37,7 +37,7 @@
 |---|---|---|---|---|
 |A|160|160|160|57|
 |B|62|62|62|15|
-|C|172|172|172|11|
+|C|172|172|172|12|
 |D|92|92|92|12|
 |E|99|99|99|19|
 |F|96|96|96|1|
@@ -46,7 +46,7 @@
 |I|75|75|75|22|
 |J|38|38|38|9|
 |K|36|36|36|21|
-|L|144|144|28|26|
+|L|144|144|28|27|
 |M|139|139|14|6|
 |N|50|50|7|4|
 |O|21|21|11|8|
@@ -152,7 +152,6 @@
 |cosmology-30s|retranslate|s3_checked|C-main-20261109 2026-11-09|
 |cosmopolitanism|retranslate|s3_checked|C-main-20261109b 2026-11-09|
 |crescas|retranslate|s3_checked|C-main-20261108 2026-11-07|
-|croce-aesthetics|retranslate|s3_checked|主代理 2026-11-01|
 |dai-zhen|retranslate|s3_checked|D-main-20261107 2026-11-07|
 |davidson|retranslate|cleared|task_ops 2026-11-01|
 |deductivism-mathematics|retranslate|s3_checked|D-main-20261107 2026-11-07|
@@ -267,8 +266,7 @@
 |korean-confucianism|retranslate|s3_checked|K-main-20261108b 2026-11-08|
 |kukai|retranslate|cleared|task_ops 2026-11-01|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
-|logic-dynamic|retranslate|s3_checked|L-main-20261109c 2026-11-09|
-|logic-linear|retranslate|cleared|task_ops 2026-11-09|
+|logic-linear|retranslate|s3_checked|L-main-20261109c 2026-11-10|
 |mandeville|retranslate|s3_checked|M-main-20261108 2026-11-08|
 |marsilius-padua|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |model-organisms|retranslate|s3_checked|M-main-20261109 2026-11-09|
