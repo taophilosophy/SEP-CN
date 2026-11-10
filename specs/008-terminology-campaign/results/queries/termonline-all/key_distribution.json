@@ -1,0 +1,348 @@
+{
+ "key": "key distribution",
+ "term": "key distribution",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T00:20:33+00:00",
+ "status": "ok",
+ "note": "variant=key distribution; 审定公布名词库=1744; 海峡两岸名词对照库=650; 其他来源数据库=110; 预公布名词数据库=52; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "密钥分发中心",
+   "en": "key distribution center",
+   "code": "10.0036",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_信息安全_密码理论与技术"
+  },
+  {
+   "cn": "量子密钥分配",
+   "en": "quantum key distribution",
+   "code": "02.082",
+   "standard": "光学名词",
+   "subject": "光学_非线性光学与量子光学"
+  },
+  {
+   "cn": "量子密钥分发",
+   "en": "quantum key distribution",
+   "code": "06.0847",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子信息"
+  },
+  {
+   "cn": "密钥",
+   "en": "key",
+   "code": "06.04.068",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_数字出版_网络出版"
+  },
+  {
+   "cn": "检索表",
+   "en": "key",
+   "code": "2.0156",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_动物分类学"
+  },
+  {
+   "cn": "键",
+   "en": "key",
+   "code": "07.0206",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械零件_紧固件_键、花键"
+  },
+  {
+   "cn": "键槽",
+   "en": "key",
+   "code": "14.069",
+   "standard": "电力名词",
+   "subject": "电力_水工与金属结构"
+  },
+  {
+   "cn": "键",
+   "en": "key",
+   "code": "07.0021",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据模型"
+  },
+  {
+   "cn": "检索表",
+   "en": "key",
+   "code": "02.059",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫分类与进化"
+  },
+  {
+   "cn": "电键",
+   "en": "key",
+   "code": "07.0691",
+   "standard": "铁道科学技术名词",
+   "subject": "铁道科学技术_铁道通信"
+  },
+  {
+   "cn": "键槽",
+   "en": "key",
+   "code": "08.127",
+   "standard": "水利科学技术名词",
+   "subject": "水利科学技术_水工建筑_挡水建筑物"
+  },
+  {
+   "cn": "密钥加密密钥",
+   "en": "key-encryption key",
+   "code": "10.0030",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_信息安全_密码理论与技术"
+  },
+  {
+   "cn": "密钥分配中心",
+   "en": "key distribution center\",\"KDC",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "键",
+   "en": "key",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "调",
+   "en": "key",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "[键]码",
+   "en": "key",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "检索[表]",
+   "en": "key",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "检索表",
+   "en": "key",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "密钥加密密钥",
+   "en": "key-encryption key",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "秘密密钥",
+   "en": "○1privacy key○2secret key",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "关键组分",
+   "en": "key component",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "关键字",
+   "en": "key word",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "调号",
+   "en": "key-signature",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "键孔步号",
+   "en": "key bugle",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "量子密钥分发",
+   "en": "quantum key distribution (QKD)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "密钥交换",
+   "en": "Key exchange",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "色键",
+   "en": "Chroma key",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "共享密钥",
+   "en": "shared key",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "人工智能关键设备",
+   "en": "key AI equipment",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "键值存储",
+   "en": "key-value store",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "键值数据库",
+   "en": "key-value database",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "公开密钥密码体制",
+   "en": "public-key cryptosystem",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "公钥密码",
+   "en": "public key cipher",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "实用化量子密钥分发BB84协议（美国）",
+   "en": "Practical Quantum Key Distribution Based on BB84 Protocol (USA)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "分布式存储关键技术和共性基础标准",
+   "en": "key technical and general basic standards for distributed storage",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "指数分布",
+   "en": "Exponential distribution",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "重点场所",
+   "en": "key place",
+   "code": "4.1.4.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_环境消毒"
+  },
+  {
+   "cn": "重点单位",
+   "en": "key unit",
+   "code": "4.1.4.3",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_环境消毒"
+  },
+  {
+   "cn": "分布",
+   "en": "distribution",
+   "code": "6.3.2.30",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢"
+  },
+  {
+   "cn": "分布",
+   "en": "distribution",
+   "code": "1.2.5.19",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "分配",
+   "en": "distribution",
+   "code": "02.0007",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "分布",
+   "en": "distribution",
+   "code": "16.1.2.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事毒理学_军事毒理学基础"
+  },
+  {
+   "cn": "累积分布",
+   "en": "cumulative distribution cumulative distribution",
+   "code": "1.2.5.24",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "关键事件",
+   "en": "key event, KE",
+   "code": "1.4.2.55",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "重点政策领域",
+   "en": "key policy areas",
+   "code": "10.1.2.4",
+   "standard": "社会医学名词",
+   "subject": "政策与策略"
+  },
+  {
+   "cn": "剂量分布",
+   "en": "dose distribution",
+   "code": "5.21.6",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_辐照食品"
+  },
+  {
+   "cn": "分配系数",
+   "en": "distribution coefficient",
+   "code": "7.1.70",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品相关产品_食品接触材料及制品"
+  },
+  {
+   "cn": "选择性分布",
+   "en": "selective distribution",
+   "code": "6.3.2.32",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
