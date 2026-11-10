@@ -343,6 +343,10 @@ def is_non_english(term):
 ORIG_EDITORIAL_PAREN = frozenset({
     'competence（医疗与法律语境）', 'yielding（虚空）',
     'anarchy（国际关系）', 'token（令牌环语境）',
+    # 2026-11-10 补遗：键含编者括注或非英语专名，但基准词为英文，原文列恒「—」
+    'ontology (Leśniewski)', 'proper function（普兰丁格认识论）',
+    'chimera（生物医学语境）', 'Gödel encoding',
+    'Ł-modal system', 'modal μ-calculus',
 })
 
 

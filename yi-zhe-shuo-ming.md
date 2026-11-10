@@ -14,7 +14,7 @@
 | A Modern Elementary Logic | — | 《逻辑学现代基础》 | 首译（stebbing） | 斯泰宾著作（1943）；书名体例译；凭证 2026-11-09 | 2026-11-09 |
 | A Modern Introduction to Logic | — | 《逻辑学现代导论》 | 首译（stebbing） | 斯泰宾著作（1930）；书名体例译；凭证 2026-11-09 | 2026-11-09 |
 | A New Elucidation of the First Principles of Metaphysical Cognition | — | 《形而上学认识诸第一原则的新阐明》（简称《新阐明》） | kant-science | 学界通行；kant-leibniz 短形先例 | 2026-11-05 |
-| a posteriori | — | 后验 | logical-consequence | 哲学通行译法；凭证 2026-11-09 | 2026-11-09 |
+| a posteriori | a posteriori | 后验 | logical-consequence | 哲学通行译法；凭证 2026-11-09；拉丁/德语原形即键（2026-11-10 取证） | 2026-11-09 |
 | a posteriori necessity | — | 后天必然性 | 首现（zombies） | 学界惯例（同上）；凭证 2026-11-10 | 2026-11-10 |
 | a priori | a priori | 先天（康德传统；与“先验”transzendental 相区分） | logical-consequence；语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | a priori knowledge | — | 先天知识 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
@@ -25,7 +25,7 @@
 | abhāva-kūṭa | अभावकूट | 非存在堆 | early-modern-india | Ingalls 译语义译（heap of absences）；凭证 2026-11-10 | 2026-11-10 |
 | abhāva（胜论句义） | अभाव | 非存在（无） | early-modern-india 首译 | 胜论第七句义义译（玄奘句义通例；与 jayaraasi abhāva=无体量〔因明否定证义〕同键多义分工）；凭证 2026-11-10 | 2026-11-10 |
 | Abhidhamma | अभिधम्म | 阿毗达磨（巴利语拼形，与梵语 Abhidharma 同指；古译传统作“阿毗昙”） | 首现（abhidharma） | 佛学界通行；与既有 Abhidharma=阿毗达磨 对齐；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
-| Abhidharma | — | 阿毗达磨 | gorampa | 佛教论藏通行译名 | 2026-11-09 |
+| Abhidharma | अभिधर्म | 阿毗达磨 | gorampa | 佛教论藏通行译名；原文取证（wisdomlib.org Monier-Williams 词条显式配对，2026-11-10） | 2026-11-09 |
 | Abhisamayālaṃkāra | अभिसमयालंकार | 《现观庄严论》 | gelukpa | 佛学界通行译名 | 2026-11-01 |
 | abhivyāpya | अभिव्याप्य | 饱满（饱和） | early-modern-india | 新正理义译（saturated；整体遍转之喻）；凭证 2026-11-10 | 2026-11-10 |
 | abilities | — | 能力 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 a/abilities））；凭证 2026-11-04 | 2026-11-04 |
@@ -978,7 +978,7 @@
 | Dasein | Dasein | 此在（海德格尔；亦作“缘在”） | 语料回收 | 学界惯例（海德格尔《存在与时间》陈嘉映译本）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | de | 德 | 德 | han-dynasty | 儒学通行（virtue） | 2026-11-10 |
 | De anima / On the Soul | — | 《论灵魂》 | zabarella | 学界通行汉译（亚里士多德著作）；凭证 2026-11-09 | 2026-11-09 |
-| de dicto | — | 言语性的（de dicto） | omniscience | 学界通行译名；凭证 2026-11-09 | 2026-11-09 |
+| de dicto | de dicto | 言语性的（de dicto） | omniscience | 学界通行译名；凭证 2026-11-09；拉丁/德语原形即键（2026-11-10 取证） | 2026-11-09 |
 | De doctrinae ordine apologia | — | 《为学说之序辩护》（*De doctrinae ordine apologia*） | zabarella | 直译（apologia 辩护）；凭证 2026-11-09 | 2026-11-09 |
 | De Inventione | — | 《论发明》 | marsilius-padua | 学界通行汉译（西塞罗修辞学著作）；凭证 2026-11-08 | 2026-11-08 |
 | De la république | De la république | 《国家六论》（法文原词保留斜体，博丹 1576） | s/sovereignty 首译 | 学界通行译名（萨拜因《政治学说史》中译通行）；凭证 2026-11-07 | 2026-11-07 |
@@ -986,7 +986,7 @@
 | De natura logicae | — | 《论逻辑的本性》（*De natura logicae*） | zabarella | 直译；凭证 2026-11-09 | 2026-11-09 |
 | De naturalis scientiae constitutione | — | 《论自然科学的构造》（*De naturalis scientiae constitutione*） | zabarella | 直译；凭证 2026-11-09 | 2026-11-09 |
 | De perfectione scientiae naturalis ac de eius ordine | — | 《论自然科学的完善及其秩序》 | zabarella | 直译（正文节题引）；凭证 2026-11-09 | 2026-11-09 |
-| de re | — | 对象性的（de re） | omniscience | 学界通行译名；凭证 2026-11-09 | 2026-11-09 |
+| de re | de re | 对象性的（de re） | omniscience | 学界通行译名；凭证 2026-11-09；拉丁/德语原形即键（2026-11-10 取证） | 2026-11-09 |
 | De rebus naturalibus | — | 《论自然事物》（*De rebus naturalibus*） | zabarella | 直译；凭证 2026-11-09 | 2026-11-09 |
 | De Revolutionibus | De Revolutionibus | 《天体运行论》 | 语料回收（lakatos 首译） | 学界通行译名（哥白尼 1543，亦译《天球运行论》）；凭证 2026-11-06 | 2026-11-06 |
 | de se | — | 涉己的 | 首现（erotic-art） | 分析哲学通行（拉丁 de se，与 de dicto 相对） | 2026-11-08 |
@@ -1382,7 +1382,7 @@
 | essential omniscience | — | 本质全知 | omniscience | 本词条首译裁定（essentially omniscient）；凭证 2026-11-09 | 2026-11-09 |
 | essential predication | — | 本质述谓 | auriol | 中世纪逻辑与形而上学通行 | 2026-11-07 |
 | essential property | — | 本质属性 | logic-relevance | 哲学通行译法；凭证 2026-11-09 | 2026-11-09 |
-| essential structures (Wesenszusammenhänge) | — | 本质结构 | reinach | 学界惯例（胡塞尔—莱纳赫研究；亦作“本质关联”）；凭证 2026-11-09 | 2026-11-09 |
+| essential structures (Wesenszusammenhänge) | Wesenszusammenhänge | 本质结构 | reinach | 学界惯例（胡塞尔—莱纳赫研究；亦作“本质关联”）；凭证 2026-11-09；拉丁/德语原形即键（2026-11-10 取证） | 2026-11-09 |
 | Essentialism | — | 本质主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | essentialist nominalism | — | 本质主义唯名论 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | est concedendum | — | 必须承认 | obligationes 首译 | 学界惯例（中世纪义务论核心术语）；凭证 2026-11-07 | 2026-11-07 |
@@ -2478,7 +2478,7 @@
 | Magna Charta Universitatum | Magna Charta Universitatum | 《大学大宪章》 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
 | Magna Graecia | — | 大希腊 | zeno-elea | 学界千年通行（南意大利希腊殖民区通名）；凭证 2026-11-09 | 2026-11-09 |
 | magokoro | 真心 | 真心 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
-| Mahāvairocana | — | 大毗卢遮那（大日如来） | kukai | 佛学界传统译名（真言宗称大日） | 2026-11-09 |
+| Mahāvairocana | महावैरोचन | 大毗卢遮那（大日如来） | kukai | 佛学界传统译名（真言宗称大日）；原文取证（wisdomlib.org Monier-Williams 词条显式配对，2026-11-10） | 2026-11-09 |
 | major premise | — | 大前提 | logical-consequence | 逻辑史通行译法；凭证 2026-11-09 | 2026-11-09 |
 | Major Trends of Jewish Mysticism | — | 《犹太神秘主义主流》 | s/scholem 首译 | 学界通行译名（朔勒姆 1941 讲演集）；凭证 2026-11-08 | 2026-11-08 |
 | majority operator | — | 多数算子 | belief-merging | 学界通行（信念合并文献）；凭证 2026-11-10 | 2026-11-10 |
@@ -2767,7 +2767,7 @@
 | multiset rewriting | — | 多重集重写 | logic-linear | 计算模型通行译法；凭证 2026-11-10 | 2026-11-09 |
 | multispecies | — | 多物种 | cancer | 本条术语（Sepich-Poore 等，癌症克隆演化作为多物种过程）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | multistage theory | — | 多阶段理论 | cancer | 本条术语（Armitage-Doll 癌症多阶段论）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
-| Mündigkeit | — | 成熟（康德启蒙语境“自行成熟”；阿多诺政治语境“政治成熟”） | adorno | 学界通行汉译（康德《答复这个问题：“什么是启蒙运动？”》通行）；凭证 2026-11-10 | 2026-11-10 |
+| Mündigkeit | Mündigkeit | 成熟（康德启蒙语境“自行成熟”；阿多诺政治语境“政治成熟”） | adorno | 学界通行汉译（康德《答复这个问题：“什么是启蒙运动？”》通行）；凭证 2026-11-10；拉丁/德语原形即键（2026-11-10 取证） | 2026-11-10 |
 | muqaddamāt fiṭrīyāt al-qiyās | — | 内置三段论的天性前提（Gutas 2012 英译 data with built-in syllogisms；本条照译“内置三段论的资料”） | arabic-islamic-phil-math | 译名裁定（Gutas 2012 译语直译） | 2026-11-08 |
 | Muromachi | 室町 | 室町（室町时代） | japanese-aesthetics | 学界惯例（日本史研究通行译法“室町时代”） | 2026-11-08 |
 | music alone | — | 纯音乐（music alone） | music | 学界通行（Kivy 1990 书名与论题通行译法）；凭证 2026-11-09 | 2026-11-09 |
@@ -2833,7 +2833,7 @@
 | necessitation rule | — | 必然化规则 | logic-dynamic | 模态逻辑通行译法；凭证 2026-11-10 | 2026-11-09 |
 | necessity | — | 必然性 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | necromancy / geomancy / divination | — | 死灵术／地占术／占卜 | condemnation 首译 | 中世纪禁书类目通行汉译；凭证 2026-11-08 | 2026-11-08 |
-| need of being heard (Vernehmungsbedürftigkeit) | — | 需被听闻性 | reinach | 本词条首译（源文括注德文）；凭证 2026-11-09 | 2026-11-09 |
+| need of being heard (Vernehmungsbedürftigkeit) | Vernehmungsbedürftigkeit | 需被听闻性 | reinach | 本词条首译（源文括注德文）；凭证 2026-11-09；拉丁/德语原形即键（2026-11-10 取证） | 2026-11-09 |
 | Needham problem | 李约瑟问题 | 李约瑟问题 | chinese-phil-science | 学界通行；凭证 2026-11-07 | 2026-11-07 |
 | negative attributes | — | 否定属性 | albo-joseph 首译 | 迈蒙尼德否定神学语境通行 | 2026-11-07 |
 | negative dialectics | — | 否定的辩证法 | adorno | 学界通行汉译（aesthetics-critical-theory 既定书名形沿用）；审定库无查询件（termonline-all 目录现查 2026-11-10） | 2026-11-10 |
@@ -3974,7 +3974,7 @@
 | Shuowen Jiezi | 說文解字 | 《说文解字》 | han-dynasty | 学界通行学名 | 2026-11-10 |
 | Siddham / shittan | 悉曇 | 悉昙 | kukai | 佛学界传统译名（梵字悉昙书体） | 2026-11-09 |
 | siddhānta-lakṣaṇa | सिद्धान्तलक्षण | 宗义相 | early-modern-india | 新正理通行义译（Gaṅgeśa 遍充终极定义）；凭证 2026-11-10 | 2026-11-10 |
-| Siddhānta-muktāvalī | — | 《宗义摩尼鬘》 | early-modern-india | 新正理教科书书名义译（muktāvalī=鬘/璎珞）；凭证 2026-11-10 | 2026-11-10 |
+| Siddhānta-muktāvalī | सिद्धान्तमुक्तावली | 《宗义摩尼鬘》 | early-modern-india | 新正理教科书书名义译（muktāvalī=鬘/璎珞）；凭证 2026-11-10；原文取证（wisdomlib.org Monier-Williams 词条显式配对，2026-11-10） | 2026-11-10 |
 | side condition | — | 附加条件 | schema | 学界惯例（数理逻辑通行；亦作“侧条件”） | 2026-11-06 |
 | ṣifāt | — | 属性 | 首现（theology-aristotle） | 学界惯例（伊斯兰神学'神之属性'，正文保留原词）；凭证 2026-11-08 | 2026-11-08 |
 | significant form | — | 有意味的形式 | 首现（erotic-art） | 美学通行（Clive Bell 术语；旧译“有意义的形式”） | 2026-11-08 |
@@ -4423,7 +4423,7 @@
 | theoretical wisdom | — | 理论智慧 | 首现（wisdom） | 学界通行（亚里士多德 sophia）；凭证 2026-11-07 | 2026-11-07 |
 | theoretically/empirically progressive | — | 理论上／经验上进步 | 语料回收（lakatos 首译） | 科学研究纲领方法论通行译法；凭证 2026-11-06 | 2026-11-06 |
 | theōria | θεωρία | 静观（亦作“沉思”） | 语料回收 | 学界惯例（希腊哲学术语）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
-| theory of deduction (Schlußlehre) | — | 推论学说 | reinach | 本词条首译（源文括注德文）；凭证 2026-11-09 | 2026-11-09 |
+| theory of deduction (Schlußlehre) | Schlußlehre | 推论学说 | reinach | 本词条首译（源文括注德文）；凭证 2026-11-09；拉丁/德语原形即键（2026-11-10 取证） | 2026-11-09 |
 | theory of play | — | 对局理论 | s/social-procedures 首译 | 学界通行译法（van Benthem 学派术语；亦作“博弈过程理论”）；凭证 2026-11-07 | 2026-11-07 |
 | theory of rays | — | 光线说 | gianfrancesco-pico | 肯迪—费奇诺脉络通行（辐射论）；正文交代“术士体内发出光线” | 2026-11-09 |
 | theory theory | — | 理论论 | f/frame-problem 首译 | 心灵哲学通行译名（民间心理学论争）；凭证 2026-11-10 | 2026-11-10 |
@@ -4650,7 +4650,7 @@
 | Vaibhāṣika | वैभाषिक | 毗婆沙宗 | epistemology-language-tibetan | 佛学界通行 | 2026-11-04 |
 | vainglory | — | 虚荣 | hobbes-moral 首译 | 学界通行；凭证 2026-11-09 | 2026-11-09 |
 | vaiśeṣika | वैशेषिक | 胜论派 | early-modern-india 首译 | 千年通行汉译（胜宗；承 jaina-philosophy 先例）；凭证 2026-11-10 | 2026-11-10 |
-| Vaiśeṣika-sūtra | — | 《胜论经》 | early-modern-india | 学界通行（承“胜论”派名；简称 VS）；凭证 2026-11-10 | 2026-11-10 |
+| Vaiśeṣika-sūtra | वैशेषिकसूत्र | 《胜论经》 | early-modern-india | 学界通行（承“胜论”派名；简称 VS）；凭证 2026-11-10；原文取证（wisdomlib.org Monier-Williams 词条显式配对，2026-11-10） | 2026-11-10 |
 | vajra | 金剛杵 | 金刚（杵） | kukai | 佛学界传统译名 | 2026-11-09 |
 | Vajrasattva / Kongō-satta | 金剛薩埵 | 金刚萨埵 | kukai | 佛学界千年传统译名 | 2026-11-09 |
 | vākya | वाक्य | 句 | early-modern-india | 印度语义学通行（sentence；佛典“句”古译）；凭证 2026-11-10 | 2026-11-10 |
@@ -4737,7 +4737,7 @@
 | vyāpaka | व्यापक | 能遍充 | early-modern-india | 因明通行（pervader；与 vyāpya 所遍充对举）；凭证 2026-11-10 | 2026-11-10 |
 | vyāpāra | व्यापार | 作用条件 | early-modern-india | 新正理因果义译（operating condition；紧接果之前之因）；凭证 2026-11-10 | 2026-11-10 |
 | vyāpti | व्याप्ति | 遍充 | jaina-philosophy | 因明与印度逻辑学界通行（不相离性） | 2026-11-08 |
-| vyāpti-pañcaka | — | 遍充五定义 | early-modern-india | 新正理文献通行（Gaṅgeśa 所拒前五定义；“五遍充”备查）；凭证 2026-11-10 | 2026-11-10 |
+| vyāpti-pañcaka | व्याप्तिपञ्चक | 遍充五定义 | early-modern-india | 新正理文献通行（Gaṅgeśa 所拒前五定义；“五遍充”备查）；凭证 2026-11-10；原文取证（wisdomlib.org Monier-Williams 词条显式配对，2026-11-10） | 2026-11-10 |
 | vyāpya | व्याप्य | 所遍充 | early-modern-india | 因明通行（pervaded）；凭证 2026-11-10 | 2026-11-10 |
 | vyāsajya-vṛtti-dharma | — | 共转属性 | early-modern-india | 正理义译（properties which occur jointly；集体属性）；凭证 2026-11-10 | 2026-11-10 |
 | vyatireka | व्यतिरेक | 同无 | early-modern-india | 因明“异品无”通行（agreement in absence；与 anvaya 同有对举）；凭证 2026-11-10 | 2026-11-10 |
