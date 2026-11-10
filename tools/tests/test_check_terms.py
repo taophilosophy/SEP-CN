@@ -16,6 +16,7 @@ REG = os.path.join(FIX, 'registry.md')
 REG5 = os.path.join(FIX, 'registry5.md')
 PERSONS = os.path.join(FIX, 'persons.md')
 GLO = os.path.join(FIX, 'glossary.md')
+SLUG = os.path.join(FIX, 'registry_slug.md')
 
 
 def run(*extra):
@@ -98,6 +99,14 @@ class CheckTermsTests(unittest.TestCase):
         code, out = run()
         self.assertIn('缺依据列（告警）：abductive reasoning', out)
         self.assertEqual(code, 1)  # 告警不计硬错误，退出码仍由冲突/自洽决定
+
+    def test_slug_in_translation_column_is_hard_error(self):
+        # 2026-11-10 补遗：合并脚本曾把来源 slug 写进译法列，slug 被当译法变体比对，
+        # 造成词汇表滞后伪欠账（lvov-warsaw / cancer / logical-consequence 三例）。
+        code, out = run('--registry', SLUG)
+        self.assertIn('译法列混入词条 slug：deductive system', out)
+        self.assertNotIn('译法列混入词条 slug：modus ponens', out)
+        self.assertEqual(code, 1)
 
 
 if __name__ == '__main__':
