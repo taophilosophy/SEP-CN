@@ -2,7 +2,7 @@
   "slug": "zombies",
   "kind": "retranslate",
   "zh_doc": "z/zombies.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,13 @@
       "actor": "task_ops",
       "at": "2026-11-08T23:08:13Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "Z-main-20261110",
+      "at": "2026-11-10T03:52:21Z",
+      "evidence": "直译流水线(主会话无子代理): 账本79段(77 body+oir+ack)双版齐, 分3批落盘(1-18/19-45/46-79)每批即commit; lq check守恒过(SOFT:标题机械段+斜体转书名号); compose 30178字符; italic_to_bold 22行; 批参数 model GLM-5.3-Flash 温度0.2 已登记params; 术语28行+人名17行先登记后使用"
     }
   ],
   "blockers": [],

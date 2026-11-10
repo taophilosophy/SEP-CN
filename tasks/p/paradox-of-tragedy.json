@@ -2,7 +2,7 @@
   "slug": "paradox-of-tragedy",
   "kind": "retranslate",
   "zh_doc": "p/paradox-of-tragedy.md",
-  "state": "s3_checked",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,20 @@
       "actor": "P-main-20261110",
       "at": "2026-11-10T00:30:59Z",
       "evidence": "体例门禁：check_style --strict 0 issue；markdownlint-cli2 本文件 0 报错（MD004 已清）；check_terms --docs 0 硬错误（0 冲突 0 自洽；正文缺登记译法 0）；check_academic --strict 0 硬错误；check_math 0 缺失/0 失配；check_summary H1 0 失配；check_all 全局 7 项全绿。术语先登后用收口：paradox of tragedy、valence、hedonic、compensatory、conversionary、revisionary、quasi-emotion、欣赏/协调/反应条件、pro tanto、benign masochism、hedonic reversal、acedia、threnody、formal object、catharsis、content-given-form 共 18 行；人名 Warhol、Tate、Dickens、Cordelia 4 行；登记册 A–Z 归位（周界 0 守恒）。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "P-main-20261110b",
+      "at": "2026-11-10T04:39:56Z",
+      "evidence": "初审（独立会话 P-main-20261110b；初译者 P-main-20261110，满足 ADR-0020 复核独立性）：逐节对照 yuanwen 原文 §1–§6 全段，引文 12 处逐字比对，脚注定义集 77:77 完全一致（键集差集为空），相关词条 9 项经 SUMMARY 复核全等（审美体验/美学与认知科学/情感/对虚构的情感反应/享乐主义/大卫·休谟/想象/疼痛/快乐）。实修 8 处：①§2.3.1 源文笔误 Morreal→Morreall（与脚注键 morreall-1985、人名表一致）；②L'Abbe→L'Abbé 恢复重音符；③§1 叔本华版次「1844：」全角冒号改半角；④§1「且是 qua 负面情绪来激起」→「以 qua 负面情绪的方式激起」；⑤§3.1「把…情绪反应节制、压服下去」→「节制住、压服下去」（并避免弱动词「加以」）；⑥§6「其他相关似的作品」→「其他与之相关的类似作品」（relevantly similar）；⑦§6「说你是在（在体验上）想象感到悲伤」→「说你是（在体验上）想象自己感到悲伤」；⑧§5 标题补全为「对现象的更宽泛进路」（A Broader Approach to the Phenomenon）。分级：Critical 0、Major 0、Minor 8。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "P-main-20261110b",
+      "at": "2026-11-10T04:41:33Z",
+      "evidence": "复审（逐句回核原文与逻辑）：按段回读 body 120 段 + 脚注 1 段，逐句核对命题连接（对比/让步/因果/条件）与论证次序，重点：①§2.2 元反应与沉浸的消长关系及三种回应；②§3.1 距离论三条反对（情绪强度前提、同一情绪、虚构/非虚构之分）；③§6 修正主义强弱两版与准情绪反诘的推进链；④12 处引文逐句比对源文，无增删改义。check_prose 40 告警：37 条 de-chain 沿用 s2 判读豁免（复核无三连「的」与超长定语链），long-sentence 1（并列枚举）、passive-bei 1（休谟引文双被动）判读保留；r1 引入的 weak-verb 1 已随 r1 实修清除。分级：Critical 0、Major 0、Minor 0（本轮无新问题）。"
     }
   ],
   "blockers": [],
