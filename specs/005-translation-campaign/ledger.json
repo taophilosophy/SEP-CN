@@ -17,8 +17,8 @@
   },
   "b": {
    "phase": "translate",
-   "claimed_by": "B-main-20261109c",
-   "claimed_at": "2026-11-09T16:54:09Z",
+   "claimed_by": "B-main-20261110",
+   "claimed_at": "2026-11-10T03:32:56Z",
    "note": "B-main-20261109 接管：done 15/62；在途 8（s3_checked 6、r1_reviewed 1、drafted 3: bessarion/brouwer/belief-merging）；cleared 37 按源文词数升序推进；behaviorism 缺 [^ross-2008] 已补齐 | 2026-11-09 复账接管（B-main-20261109b，用户指令：现在由你负责翻译 B，主会话直译不用子代理）：三源对账 62 条——done 15（源 125,767 词）/ s3_checked 6（54,938 词）/r1_reviewed 1（boethius-dacia 6,829 词，R-main 初审 02431e93 已提交）/ drafted 3（20,240 词：bessarion 4,223、brouwer 4,827、belief-merging 11,190）/ cleared 37（553,393 词）；有正文 25 条，清空桩 37 条（正文仅 H1，clear 语义合规）；步序、凭证、时间单调、version_pin 四维探针零异常——仅 boolalg-math 旧会话直写 JSON 的 intent 步（task_ops 不识别，不影响状态判定）与 bessarion/brouwer draft 步 evidence 空为已登记旧存量，不补造；账本 1 份（belief-merging 112 段，lq check HARD=0，compose 与正文归一化后逐字节一致）；NO_LEDGER 61（旧存量口径不补造）。纠正：①批次注记原记 done 7/cleared 39 已过时，按实测重记；②队列文档三表重建（cleared 37、在途 10）；③PROGRESS 刷新 B=15。交接：belief-merging draft 为 B-main-20261109 收口件（f6cec931，已入库），本会话自队列 A 队首 brentano-judgement（11,321 词）起继续全量重译；原 B-main-20261109 会话请勿再推进 B 批词条（避免同件双写）。 | 2026-11-09 接管（B-main-20261109c，用户指令：主会话直译不用子代理）：首次认领两次被他会话 rebase/clean 波及（ledger 竞态覆盖、en/+yuanwen/ 未跟踪目录被清），rebase 收编后重认领；b 批源文经 fetch_entry+yuanwen.py 重建（bessarion sha256 与版本钉一致，零上游漂移）；先收口 drafted 3（bessarion 4,223/brouwer 4,827/belief-merging 11,190）s1→s3，随后队列 A 队首 byzantine-philosophy 升序全量重译；原 B 批会话勿再推进 b/ 词条",
    "advanced_at": "2026-11-08T18:42:32Z"
   },
@@ -87,15 +87,15 @@
   },
   "l": {
    "phase": "translate",
-   "claimed_by": "L-main-20261109c",
-   "claimed_at": "2026-11-08T02:45:53Z",
+   "claimed_by": "L-main-20261110",
+   "claimed_at": "2026-11-10T03:51:17Z",
    "note": "2026-11-08 复账同步（LMN-main-20261108b）：五方复算账实零偏差；done 18/144，pending 1（langer），未建 125；本线续译未建词条，r1-r3 归 R-main-20261108 评审线；2026-11-09 接管复账（L-main-20261109，主会话直译不用子代理）：五方复算 144=done 18/在途 1（langer，状态滞后件已收编并推进至 r1）/pending 0/未建 125（剩余源文 2,013,089 词）；langer 纠正详 qa-findings §8（s1 脚注 216=216 逐键、s2 prose 72→4、s3 术语 9+人名 25 登记）；登记行被 ef67405e/5dbc8cc2 并行收编留痕；本线续译未建词条按源文词数升序（首条 la-forge 7,851 词），r2-r3 仍归评审线口径不变；2026-11-09 本会话复账（L-main-20261109b，主会话直译不用子代理）：144=成稿 19（done 18+langer r1_reviewed）/pending 0/未建 124；la-forge 已由 pending 转 s3_checked（账本 82 段、四检绿、术语 14+人名 8 登记，r1-r3 归评审线），未建 125→124，剩余源文约 200.5 万词；PROGRESS.md 未重生成：工作区含他会话未提交 tasks/q(34)、tasks/r(85) 等 untracked 任务，重生成会误收他人在途态，L 行变更（已建任务 19→20）留待其提交后统一生成；续译收口（2026-11-09）：la-forge、logic-hybrid 均至 s3_checked（账本 82+81 段、术语 14+20 登记；成稿 21/在途 3/未建 123），下一目标 logic-relevance（8,512 词）；2026-11-09 接管（L-main-20261109c，用户裁定全包到 done）：续译 logic-relevance TBD 76 段并将其余 22 段改写白话、新译 logic-fuzzy 全条，两条冷置后 r1–r3→done；存量 langer r2–r3、la-forge/logic-hybrid r1–r3 一并收口；L 批 done 23/144、在途 0、未建任务 121，下一目标 logical-consequence（8,856 词）；术语/人名登记、术语裁定与并行收编留痕详 qa-findings §11；2026-11-10 续（L-main-20261109c）：logical-consequence 新译 80 段→done（标题/SUMMARY/mu-lu-s/别名/Fu-lu-A 一律改「逻辑后承」）；lvov-warsaw 新译 86 段→done（r1 查得补充材料页悬空，已建 l/lvov-warsaw.seminar.md + 图片入 assets，SHA-256 与镜像一致）；logic-infinitary 新译 213 段→s3_checked（术语 31、人名 14）。L 批现 26 条任务（done 25 / s3 1），未建 118，下一目标 logic-dynamic（9,439 词）；logic-infinitary 冷置后 r1–r3 收口；2026-11-10 续二：logic-infinitary done（213 段，r1 修账本级 de-chain 与粗体合并）、logic-dynamic 新译 186 段→done（补 model1/2 图入 assets，术语 31/人名 43）、logic-linear 新译 113 段→s3_checked（11 图入 assets，术语 28/人名 75 登记行待并行收编）。L 批现 28 条任务（done 27 / s3 1），未建 116，logic-massexpress 新译 169 段→s3（术语 18/人名 56）、logic-linear 冷置后 r1–r3→done（术语 substructural logic 统一为“子结构逻辑”）。L 批现 29 条任务（done 28 / s3 1），未建 115，logic-substructural 新译 104 段→s3（术语 14/人名 16）、logic-massexpress 冷置后 r1–r3→done。L 批现 30 条任务（done 29 / s3 1），未建 114，下一目标 loyalty（10,009 词）",
    "advanced_at": "2026-11-06T23:54:21Z"
   },
   "m": {
    "phase": "translate",
-   "claimed_by": "M-main-20261109b",
-   "claimed_at": "2026-11-09T08:19:49Z",
+   "claimed_by": "M-main-20261110",
+   "claimed_at": "2026-11-10T03:37:15Z",
    "note": "2026-11-09 02:4x 接管复算（M-main-20261109）：139 正式 = 基线 139 = 镜像 139；成稿 9 = done 6 + s3_checked 2（评审线 R-main）+ drafted 1（marsilius-padua，本会话三重验收后收编）；任务 14 = done 6 + s3_checked 2 + drafted 1 + pending 5；未建 125；待译主线 130 = 139 − done 6 − 评审线 2 − 已 drafted 1。账实零偏差（script/m_audit_20261109.py 五方对账），唯一偏差 marsilius-padua 状态滞后已纠正。",
    "advanced_at": "2026-11-08T18:43:29Z"
   },
