@@ -2,7 +2,7 @@
   "slug": "hobbes-moral",
   "kind": "retranslate",
   "zh_doc": "h/hobbes-moral.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "H-main-20261110b",
       "at": "2026-11-10T21:14:21Z",
       "evidence": "r2 复审（新会话逐句回核 + 定向核查）：①中英全文对照，11 节论证链逐段相符；②实修 2 处——§9 末句补回漏译（en『by permitting Hobbes to maintain that subjects can obey even commands to perform actions they believe to be sinful without fear of divine punishment』整层被上一版概括成『免除道德负担』，已还原）；§3『理论上受限制的自然权利…』de-chain 触发（的 三连）改写为『这项自然权利理论上本有限制，实践中却成了对万物的无限权利——霍布斯所谓“对万物”的权利』；③标题英文截断『moral and political philosophy』还原上游全题『Hobbes’s Moral and Political Philosophy』（H1/SUMMARY/mu-lu-s 三处同步）；④相关词条 11 项与 SUMMARY 站内名逐一对齐（自利契约论/利己主义/伦理学中的自然法传统/博弈论/托马斯·霍布斯/法律权利/自由主义/洛克的政治哲学/自然法理论/囚徒困境/权利）；⑤账本完整性修复：发现账本 step2 与成品 15 段漂移（s2 润色只落成品未回账本，compose 重放会回滚润色），已全部回写为终稿并复验 lq check 35 段守恒 OK；⑥书名体例《法律要义：自然与政治》冒号形与全书一致；⑦相关引文（Leviathan xlii, 106；xlii. 11）页码与源一致。check_prose 余 1 条为霍布斯原文直引（§6『和平是善的…』，ADR-0020 豁免）；check_style 0。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "H-main-20261110b",
+      "at": "2026-11-10T22:05:37Z",
+      "evidence": "r3 终稿验收：定点四检 check_style --strict 0 issue、check_academic --strict 0 硬错误、check_prose 余 1 条为霍布斯原文直引（ADR-0020 豁免）、check_math 0 缺式 0 失衡；lq check 35 段守恒 OK（账本 15 段 step2 已回写终稿，compose 与成品仅余粗体空格归一化差）；标题 H1=SUMMARY=mu-lu-s 三处一致为上游全题『Hobbes’s Moral and Political Philosophy』；语体核验：现代汉语学术书面语、无文言化、破折号无滥用（通则见 s2/r1 补记）。全库 check_all 当次红点全部来自并行会话在途件（tasks/n/natphil-ren.json s2 语体留痕、yi-zhe-shuo-ming technical object 行直角引号、ren-ming-biao 合并冲突标记——该冲突观测到后已由他会话自行清除），本条文件不在其中；本条 HEAD 状态已在推送前用临时 worktree 全库复验全绿。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "H-main-20261110b",
+      "at": "2026-11-10T22:08:05Z",
+      "evidence": "收口：r1（前手冷置回读）→ r2（新会话逐句回核，补漏译 1 处、de-chain 1 处、账本 15 段漂移回写）→ r3（定点四检全绿＋标题三处一致＋语体留痕），对账全等，账本可重放"
     }
   ],
   "blockers": [],
