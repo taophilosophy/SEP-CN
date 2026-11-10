@@ -2,7 +2,7 @@
   "slug": "ontology-is",
   "kind": "retranslate",
   "zh_doc": "o/ontology-is.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-10T16:13:54Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "O3-main-20261110",
+      "at": "2026-11-10T18:50:34Z",
+      "evidence": "draft（O3-main-20261110 主会话直译，零信任全量重译）：task create/clear 基线哈希门通过；lq.py init 起 74 段账本（body 72 + oir 1 + ack 1，biblio 照录 85 条）；74 段 step1（忠实初译）+ step2（语言优化）双版全填，分批 p1/p1b/p1c/p2a/p2b/p3a/p3b 落盘。lq.py check 守恒 HARD=0（SOFT：11 个标题段 step1==step2 属结构性机械段；段 49 公式承接段）。compose 写回 34,876 字符；italic→bold 9 行；op_postfix bullets 归一 36 处。公式完整性另做 token 核对：38 个 $…$ 与源文多重集全等（修复了初稿经 shell heredoc 时 \\f/\\t 被转义吞字的 6 段：\\forall/\\text 复原，见 §4 待裁定记录）。版本钉 Jan 3, 2026 / sha256 86e4a9e6…"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "O3-main-20261110",
+      "at": "2026-11-10T18:50:34Z",
+      "evidence": "s1 对照核销（74 段逐段回核 yuanwen/o/ontology-is.md）：结构五维全等——H2/H3 15:15（10 正文节 + References/学术工具/其他网络资源/相关词条/致谢）、脚注标记 140:140（键集全等）、defs 82:82（键集全等）、$ 38:38、年份序列一致。术语一致：本体论/本体论承诺/一阶逻辑/分体论 用册内正形；新登 14 行（上层本体论、领域本体论、描述逻辑、高阶逻辑、知识图谱、语义网络、概念漂移、推理机、自动定理证明、延存论、持续论、神经—符号、能力问题、模型发现器）。人名：林奈/波菲利/奥古斯特·孔德 依册；弗雷格按本库 38 篇正文惯用汉名（并回改册内 Frege 行，2026-11-11）；Wilkins/Pease/Schulz/Gruber 新登 4 行。源文疑点照录留痕：段 53「Newton1990」为源文引用键写法（无脚注定义，照录）；段 60/段 57 等处源文括号与「an ontology」冠词笔误照源不擅改；OIR 四条链接照录。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "O3-main-20261110",
+      "at": "2026-11-10T18:50:34Z",
+      "evidence": "s2 语言优化（check_prose 实修）：首轮告警 19 → 实修 18、二轮 4 → 实修 4，终态 0。分类：weak-verb 7（「进行交流」「予以标准化」「加以定义」「作出承诺×3」「作出概括」「作出解释」→ 改为实义动词或名词化）；de-chain 10（如「哲学本体论因此会声称要指出实在的基本构成、它们所属的范畴，以及彼此之间的关系」→「要辨明：实在由哪些基本构成组成，它们各属什么范畴，彼此又有何关系」）；长句拆分 3（段 30 71 汉字、段 34 87 汉字、段 61 76 汉字）。另 sd 项：段 28 公式与中文混排处保留 LaTeX 原样，未做任何符号改写（守恒门 + token 多重集核验）。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "O3-main-20261110",
+      "at": "2026-11-10T18:50:35Z",
+      "evidence": "s3 四检：check_style --docs o/ontology-is.md --strict 0 issue；check_academic --strict 无硬错误（在途豁免 1；版本钉 Jan 3, 2026 / SHA-256 86e4a9e6…）；check_math ontology-is 公式 16 组（38 个定界）缺失 0 失衡 0；check_summary 全库 HARD 0（本条 SUMMARY 行与 H1 全等）；markdownlint-cli2 本文件 0 告警。守恒门复跑 74 段 HARD=0。登记随本提交入库：术语 14 行、人名 4 行、Frege 行改定。"
     }
   ],
   "blockers": [],
