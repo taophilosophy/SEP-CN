@@ -29,11 +29,13 @@
 4. 判“文言”：正文主体（题目、导言、节下叙述）以文言或仿古四六写就。
 5. 破折号：另记“是否滥用”——破折号充当默认停顿／连接，或同段多处、可替换为冒号／括号／分句而未替换。
 6. 每条结论必须附**证据句**（从该词条抄出 1–3 句）与处理动作；无证据句的结论视为未复核。
+7. 破折号滥用的修复（用户 2026-11-10 裁定）：以含破折号的原句为单位、回英文源句（`yuanwen/` 镜像）整句重新翻译，禁止符号层机械替换（已入 `rules/02`“破折号滥用的修复方式”）；重译只重整句法与停顿，不得改变命题内容。脚本只枚举用量排优先级（`results/dash-scan.jsonl`），滥用与否均为语义判定。
 
 ## 队列与记录
 
 * `results/queue.jsonl`：全部 done 词条（slug、路径、字节数、done 时间戳），只作枚举与断点，不含判定。
 * `results/verdicts.jsonl`：逐条 `{slug, path, verdict, dash, evidence, action, cleared_at, reviewer, at}`；`verdict` ∈ modern／mixed／classical，`action` ∈ none／clear。
+* `results/dash-verdicts.jsonl`（破折号专项线，与语体线并行）：逐条 `{slug, path, dash, evidence, action, reviewer, at}`；`dash` ∈ ok／abused，`action` ∈ none／fix／pending（fix=需整句重译修复，完成复核后追加 `dash=ok` 新记录）。先做 `dash-scan.jsonl` 密度 ≥6/千字的高密度段（共 51 条），余量按密度续推。
 * 顺序：先复核 J 批 done（已知违例所在批次），再按 done 时间升序推进；每批交接写 `results/handoff.md`。
 
 ## 验收判据
