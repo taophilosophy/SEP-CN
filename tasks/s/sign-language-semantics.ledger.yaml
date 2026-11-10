@@ -219,206 +219,274 @@ segments:
     kind: body
     source: |-
       **(4)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(4)**
+    step2: |-
+      **(4)**
   - id: 28
     kind: body
     source: |-
       Loci corresponding to the signer (1), the addressee (2), and different third persons (3a and 3b) (from Pfau, Salzmann, & Steinbach 2018: Figure 1) ![signer with a dot labeled (1) faces forward with a dot labeled (2), the addressee, directly in front. Dots labeled (3a) and (3b) are to the front right and front left of the signer.](../assets/sign-language-semantics/image001-s.svg)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对应于手语者 (1)、受话者 (2) 以及不同第三方 (3a 与 3b) 的位点（取自 Pfau, Salzmann, & Steinbach 2018: Figure 1）![手语者标着 (1)，面向前方；正前方是标着 (2) 的受话者。(3a) 与 (3b) 分别标在手语者的右前方与左前方。](../yuanwen/assets/sign-language-semantics/image001-s.svg)
+    step2: |-
+      对应于手语者 (1)、受话者 (2) 以及不同第三方 (3a 与 3b) 的位点（取自 Pfau, Salzmann, & Steinbach 2018: Figure 1）![手语者标着 (1)，面向前方；正前方是标着 (2) 的受话者。(3a) 与 (3b) 分别标在手语者的右前方与左前方。](../yuanwen/assets/sign-language-semantics/image001-s.svg)
   - id: 29
     kind: body
     source: |-
       We focus on the description of loci in American Sign Language (ASL) and French Sign Language (LSF, for ‘*Langue des Signes Française*’), but these properties appear in a similar form across the large majority of sign languages. Singular pronouns are signed by directing the index finger towards a point in space; plural pronouns can be signed with a variety of strategies, including using the index finger to trace a semi-circle around an area of space, and are typically used to refer to groups of at least three entities. Other pronouns specify a precise number of participants with an incorporated numeral (e.g., dual, trial), and move between two or more points in space. In addition, some verbs, called ‘agreement verbs’, behave as if they contain a pronominal form in their realization, pertaining to the subject and/or to the object. For instance, *TELL* in ASL targets different positions depending on whether the object is second person (5a) or third person (5b).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们集中描述美国手语（ASL）与法国手语（LSF，即 *Langue des Signes Française*）中的位点，但这些性质在绝大多数手语中都以类似形式出现。单数代词通过将食指指向空间中一点来打出；复数代词可用多种策略打出，包括用食指在空间某一区域画半圆，它们通常用于指称至少三个实体的群体。另一些代词通过内嵌数词指定确切数目的参与者（如双数、三数），并在空间中两点或更多点之间移动。此外，一些动词，即所谓“一致动词”，在实现中表现得仿佛内含代词形式，涉及主语和／或宾语。例如 ASL 的 *TELL* 依宾语是第二人称 (5a) 还是第三人称 (5b) 而指向不同位置。
+    step2: |-
+      我们集中描写美国手语（ASL）与法国手语（LSF，即 *Langue des Signes Française*）中的位点，但这些性质在绝大多数手语中形态类似。单数代词以食指指向空间一点打出；复数代词可用多种策略，包括以食指在空间某区域划出半圆，通常用于指称至少三个实体的群体。另一些代词借内嵌数词标定确切数目的参与者（如双数、三数），并在空间中两点或更多点之间移动。此外，有些动词（所谓“一致动词”）的实现仿佛内含代词形式，关涉主语和／或宾语。例如 ASL 的 *TELL* 便随宾语为第二人称 (5a) 或第三人称 (5b) 而指向不同位置。
   - id: 30
     kind: body
     source: |-
       **(5)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(5)**
+    step2: |-
+      **(5)**
   - id: 31
     kind: body
     source: |-
       An object agreement verb in ASL ![start of 'I tell you'. In a human picture, dominant hand's index finger extended and near mouth.](../assets/sign-language-semantics/image002.jpg) ![end of 'I tell you'. the dominant hand with index finger extended, palm up, is pointing to a point in front of the signer.](../assets/sign-language-semantics/image003.png) (a) I tell you. ![start of 'I tell him/her'. In a human picture, dominant hand's index finger extended and near mouth.](../assets/sign-language-semantics/image004.png) ![end of 'I tell him/her'. the hand with index finger extended, palm up, is pointing to a point to the side of the signer.](../assets/sign-language-semantics/image005.png) (b) I tell him/her *Credits:* © Dr. Bill Vicars: [TELL in ASL (description with short video clip, no audio)](https://www.lifeprint.com/asl101/pages-signs/t/tell.htm)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ASL 中一个宾语一致动词 ![‘I tell you’ 的起始：图中人物惯用手食指伸出，靠近嘴部。](../yuanwen/assets/sign-language-semantics/image002.jpg) ![‘I tell you’ 的结束：惯用手食指伸出、掌心朝上，指向手语者前方一点。](../yuanwen/assets/sign-language-semantics/image003.png) (a) I tell you.（我告诉你。） ![‘I tell him/her’ 的起始：图中人物惯用手食指伸出，靠近嘴部。](../yuanwen/assets/sign-language-semantics/image004.png) ![‘I tell him/her’ 的结束：手食指伸出、掌心朝上，指向手语者侧方一点。](../yuanwen/assets/sign-language-semantics/image005.png) (b) I tell him/her.（我告诉他／她。） *图片来源：* © Dr. Bill Vicars：[TELL in ASL（说明附短视频，无音频）](https://www.lifeprint.com/asl101/pages-signs/t/tell.htm)
+    step2: |-
+      ASL 中一个宾语一致动词 ![‘I tell you’ 的起始：图中人物惯用手食指伸出，靠近嘴部。](../yuanwen/assets/sign-language-semantics/image002.jpg) ![‘I tell you’ 的结束：惯用手食指伸出、掌心朝上，指向手语者前方一点。](../yuanwen/assets/sign-language-semantics/image003.png) (a) I tell you.（我告诉你。） ![‘I tell him/her’ 的起始：图中人物惯用手食指伸出，靠近嘴部。](../yuanwen/assets/sign-language-semantics/image004.png) ![‘I tell him/her’ 的结束：手食指伸出、掌心朝上，指向手语者侧方一点。](../yuanwen/assets/sign-language-semantics/image005.png) (b) I tell him/her.（我告诉他／她。） *图片来源：* © Dr. Bill Vicars：[TELL in ASL（说明附短视频，无音频）](https://www.lifeprint.com/asl101/pages-signs/t/tell.htm)
   - id: 32
     kind: body
     source: |-
       Loci often make it possible to disambiguate pronominal reference. For instance, the ambiguity of the example in (2) can be removed in LSF, where the sentence comes in two versions. In both, Sarkozy is assigned a locus on the signer’s left (by way of the index of the left hand held upright, ‘👆_{left}’ below), and Obama a locus on the right (using the index of the right hand held upright, ‘👆_{right}’ below). The verb *tell* in *he (Sarkozy) tells him (Obama)* is realized as a single sign linking the Sarkozy locus on the left to the Obama locus on the right (unlike the ASL version, which just displays object agreement, the LSF version displays both subject and object agreement: ‘_{left}TELL_{right}’ indicates that the sign moves from the Sarkozy locus on the left to the Obama locus on the right). If *he* refers to Sarkozy, the signer points towards the Sarkozy locus on the left (‘👉_{left}’); if *he* refers to Obama, the signer points towards the Obama locus on the right (‘👉_{right}’).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      位点常常使代词指称的消歧成为可能。例如，(2) 例的歧义在 LSF 中可以消除：该句在 LSF 中有两个版本。两个版本都把左手手语者左侧的一个位点指派给 Sarkozy（用竖起的左手食指，下文记作 ‘👆_{left}’），把右侧的一个位点指派给 Obama（用竖起的右手食指，下文记作 ‘👆_{right}’）。*他（Sarkozy）告诉他（Obama）* 中的动词 *tell* 实现为单个手势，把左侧的 Sarkozy 位点与右侧的 Obama 位点连结起来（与只显示宾语一致的 ASL 版本不同，LSF 版本同时显示主语与宾语一致：‘_{left}TELL_{right}’ 表示该手势从左侧 Sarkozy 位点移动到右侧 Obama 位点）。若 *he* 指 Sarkozy，手语者指向左侧 Sarkozy 位点（‘👉_{left}’）；若 *he* 指 Obama，手语者指向右侧 Obama 位点（‘👉_{right}’）。
+    step2: |-
+      位点常可消解代词指称的歧义。例如 (2) 的歧义在 LSF 中即可消除：该句在 LSF 中有两个版本。二者都为 Sarkozy 指派手语者左侧一个位点（以竖起的左手食指，下文记 ‘👆_{left}’），为 Obama 指派右侧一个位点（以竖起的右手食指，下文记 ‘👆_{right}’）。*他（Sarkozy）告诉他（Obama）* 中的动词 *tell* 实现为单个手势，把左侧 Sarkozy 位点与右侧 Obama 位点连结起来（ASL 版本只显示宾语一致，LSF 版本则同时显示主语与宾语一致：‘_{left}TELL_{right}’ 表示该手势从左侧 Sarkozy 位点移向右侧 Obama 位点）。若 *he* 指 Sarkozy，手语者指向左侧 Sarkozy 位点（‘👉_{left}’）；若 *he* 指 Obama，则指向右侧 Obama 位点（‘👉_{right}’）。
   - id: 33
     kind: body
     source: |-
       **(6)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(6)**
+    step2: |-
+      **(6)**
   - id: 34
     kind: body
     source: |-
       SARKOZY 👆_{left} OBAMA 👆_{right} _{left}TELL_{right} ‘Sarkozy told Obama… a. 👉_{left} WILL WIN ELECTION. that he, Sarkozy, would win the election.’
-    step1: TBD
-    step2: TBD
+    step1: |-
+      SARKOZY 👆_{left} OBAMA 👆_{right} _{left}TELL_{right} ‘Sarkozy 对 Obama 说…… a. 👉_{left} WILL WIN ELECTION. 他，Sarkozy，会赢得选举。’
+    step2: |-
+      SARKOZY 👆_{left} OBAMA 👆_{right} _{left}TELL_{right} ‘Sarkozy 对 Obama 说…… a. 👉_{left} WILL WIN ELECTION. 他，Sarkozy，会赢得选举。’
   - id: 35
     kind: body
     source: |-
       **b.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **b.**
+    step2: |-
+      **b.**
   - id: 36
     kind: body
     source: |-
       👉_{right} WILL WIN ELECTION. that he, Obama, would win the election.’
-    step1: TBD
-    step2: TBD
+    step1: |-
+      👉_{right} WILL WIN ELECTION. 他，Obama，会赢得选举。’
+    step2: |-
+      👉_{right} WILL WIN ELECTION. 他，Obama，会赢得选举。’
   - id: 37
     kind: body
     source: |-
       In sign language linguistics, signs are transcribed in capital letters, as was the case above, and loci are encoded by way of letters (*a*, *b*, *c*, …), starting from the signer’s dominant side (right for a right-handed signer, left for a left-handed signer). The upward fingers used to establish positions for Sarkozy and Obama are called ‘classifiers’ and are glossed here as *CL* (with the conventions of Section 4.2. the gloss would be *PERSON-cl*; classifiers are just one way to establish the position of antecedents, and they are not essential here). Pronouns involving pointing with the index finger are glossed as *IX*. With these conventions, the sentence in (6) can be represented as in (7). (Examples are followed by the name of the language, as well as the reference of the relevant video when present in the original source; thus ‘LSF 4, 235’ indicates that the sentence is from LSF, and can be found in the video referenced as 4, 235.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在手语语言学中，手势以大写字母转写（如上所示），位点则以字母（*a*、*b*、*c*、……）编码，从手语者的主用手侧开始（右利手为右，左利手为左）。用来为 Sarkozy 与 Obama 设立位置的竖起手指称为“类标记”（classifiers），在此标注为 *CL*（按 4.2 节的约定，标注应为 *PERSON-cl*；类标记只是确立先行语位置的方式之一，在这里并非关键）。以食指指点实现的人称代词标注为 *IX*。依这些约定，(6) 中的句子可表示为 (7)。（例句后附语言名称，以及相关视频在原始文献中的编号；‘LSF 4, 235’ 表示该句来自 LSF，可在编号 4, 235 的视频中找到。）
+    step2: |-
+      在手语语言学中，手势以大写字母转写（如上），位点以字母（*a*、*b*、*c*、……）编码，自手语者主用手一侧起算（右利手为右，左利手为左）。为 Sarkozy 与 Obama 设位的竖起手指称为“类标记”（classifiers），此处标注为 *CL*（按 4.2 节约定应标作 *PERSON-cl*；类标记只是确立先行语位置的方式之一，此处并非关键）。以食指点指实现的代词标注为 *IX*。据此，(6) 的句子可表示为 (7)。（例句后附语言名及相关视频在原始文献中的编号：‘LSF 4, 235’ 表示该句出自 LSF，见编号 4, 235 的视频。）
   - id: 38
     kind: body
     source: |-
       **(7)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(7)**
+    step2: |-
+      **(7)**
   - id: 39
     kind: body
     source: |-
       SARKOZY CL_{*b*} OBAMA CL_{*a*} *b*-TELL-*a* {IX-*b* / IX-*a*} WILL WIN ELECTION. ‘Sarkozy told Obama that he, {Sarkozy/Obama}, would win the election.’ (LSF 4, 235)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      SARKOZY CL_{*b*} OBAMA CL_{*a*} *b*-TELL-*a* {IX-*b* / IX-*a*} WILL WIN ELECTION. ‘Sarkozy 对 Obama 说，他（Sarkozy／Obama）会赢得选举。’（LSF 4, 235）
+    step2: |-
+      SARKOZY CL_{*b*} OBAMA CL_{*a*} *b*-TELL-*a* {IX-*b* / IX-*a*} WILL WIN ELECTION. ‘Sarkozy 对 Obama 说，他（Sarkozy／Obama）会赢得选举。’（LSF 4, 235）
   - id: 40
     kind: body
     source: |-
       The ambiguity of quantified sentences such as (3) can also be removed in sign, as illustrated in an LSF sentence in (8).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (3) 这类量词句的歧义在手语中同样可以消除，如 (8) 中的 LSF 例句所示。
+    step2: |-
+      (3) 这类量词句的歧义在手语中同样可以消除，如 (8) 的 LSF 例句所示。
   - id: 41
     kind: body
     source: |-
       **(8)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(8)**
+    step2: |-
+      **(8)**
   - id: 42
     kind: body
     source: |-
       DEPUTY_{*b*} SENATOR_{*a*} CL_{*b*}-CL_{*a*} IX-*b* *a*-TELL-*b* {IX-*a* / IX-*b*} WIN ELECTION ‘An MP_{*b*} told a senator_{*a*} that he_{*a*} / he_{*b*} (= the deputy) would win the election.’ (LSF 4, 233)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      DEPUTY_{*b*} SENATOR_{*a*} CL_{*b*}-CL_{*a*} IX-*b* *a*-TELL-*b* {IX-*a* / IX-*b*} WIN ELECTION ‘一位议员_{*b*} 对一位参议员_{*a*} 说，他_{*a*}／他_{*b*}（=议员）会赢得选举。’（LSF 4, 233）
+    step2: |-
+      DEPUTY_{*b*} SENATOR_{*a*} CL_{*b*}-CL_{*a*} IX-*b* *a*-TELL-*b* {IX-*a* / IX-*b*} WIN ELECTION ‘一位议员_{*b*} 对一位参议员_{*a*} 说，他_{*a*}／他_{*b*}（=议员）会赢得选举。’（LSF 4, 233）
   - id: 43
     kind: body
     source: |-
       In light of these data, the claim of Logical Visibility is that sign language loci (when used—for they need not be) are an overt realization of logical variables.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      依据这些数据，逻辑可见性主张是：手语位点（在使用时，因为它们并非必须使用）是逻辑变量的一种显性实现。
+    step2: |-
+      就此类数据而言，逻辑可见性主张是：手语位点（在使用时，它们并非必须使用）是逻辑变量的显性实现。
   - id: 44
     kind: body
     source: |-
       One potential objection is that pointing in sign might be very different from pronouns in speech: after all, one points when speaking, but pointing gestures are not pronouns. However this objection has little plausibility in view of formal constraints that are shared between pointing signs and spoken language pronouns. For example, pronouns in speech are known to follow grammatical constraints that determine which terms can be used in which environments (e.g., the non-reflexive pronoun *her* when the antecedent is ‘far enough’ vs. the reflexive pronoun *herself* when the antecedent is ‘close enough’). Pointing signs obey similar rules, and enter into an established typology of cross-linguistic variation. For instance, the ASL reflexive displays the same kinds of constraints as the Mandarin reflexive pronoun in terms of what counts as ‘close enough’ (see Wilbur 1996; Koulidobrova 2009; Kuhn 2021)[^koulidobrova-2009][^kuhn-2021][^wilbur-1996].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个潜在的异议是，手语中的指点可能与口语中的代词大不相同：毕竟人们说话时也会指点，但指点手势并不是代词。然而，鉴于指点手势与口语代词共享形式约束，这一异议没什么说服力。例如，口语代词遵循语法约束，决定哪些词项可用于哪些环境（如先行语“足够远”时用非反身代词 *her*，“足够近”时用反身代词 *herself*）。指点手势服从类似规则，并进入一个既定的跨语言变异类型学。例如，ASL 的反身形式在何谓“足够近”方面与汉语普通话的反身代词呈现相同类型的约束（见 Wilbur 1996; Koulidobrova 2009; Kuhn 2021）。
+    step2: |-
+      一种潜在异议认为，手语中的指点或许与口语代词大不相同：说话时人也会指点，但指点手势并不是代词。然而，指点手势与口语代词共享形式约束，此异议因此难以成立。口语代词遵循语法约束，决定哪些词项可用于哪些环境（如先行语“足够远”时用非反身代词 *her*，“足够近”时用反身代词 *herself*）。指点手势服从类似规则，并进入既定的跨语言变异类型学。例如，在何谓“足够近”上，ASL 反身式与汉语普通话反身代词呈现同类约束（见 Wilbur 1996; Koulidobrova 2009; Kuhn 2021）。
   - id: 45
     kind: body
     source: |-
       It is thus generally agreed that pronouns in sign are part of the same abstract system as pronouns in speech. It is also apparent that loci play a similar function to logical variables, disambiguating antecedents and tracking reference. This being said, the claim that loci are a direct morphological spell-out of logical variables requires a more systematic evaluation of the extent to which sign language loci have the formal properties of logical variables. As a concrete counterpoint, one observes that gender features in English *also* play a similar function, disambiguating antecedents and tracking reference. For instance, *Joe Biden told Kamala Harris that he would be elected* has a rather unambiguous reading (*he* = *Biden),* while *Joe Biden told Kamala Harris that she would be elected* has a different one (*she* = *Harris*). Such parallels have led some linguists to propose that loci should best be viewed as grammatical features akin to gender features (Neidle et al. 2000; Kuhn 2016)[^kuhn-2016][^neidle-2000].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人们由此普遍同意：手语代词与口语代词同属一个抽象系统。同样明显的是，位点发挥与逻辑变量相似的功能，即消歧先行语并追踪指称。尽管如此，“位点是逻辑变量的直接形态实现”这一主张，需要对手语位点在多大程度上具有逻辑变量的形式性质作更系统的评估。作为一个具体的对照，人们观察到英语中的性特征*也*发挥类似功能：消歧先行语、追踪指称。例如 *Joe Biden told Kamala Harris that he would be elected* 的读法相当无歧义（*he* = *Biden*），而 *Joe Biden told Kamala Harris that she would be elected* 则有另一种读法（*she* = *Harris*）。这类平行促使一些语言学家提出：最好把位点看作类似于性特征的语法特征（Neidle et al. 2000; Kuhn 2016）。
+    step2: |-
+      由此人们普遍同意：手语代词与口语代词同属一个抽象系统；位点也与逻辑变量功能相似，消歧先行语并追踪指称。尽管如此，“位点直接在形态上实现逻辑变量”这一主张，仍须系统评估手语位点在多大程度上具备逻辑变量的形式性质。一个具体的对照是：英语的性特征*也*有类似功能，消歧先行语并追踪指称。如 *Joe Biden told Kamala Harris that he would be elected* 的读法相当确定（*he* = *Biden*），而 *Joe Biden told Kamala Harris that she would be elected* 则不同（*she* = *Harris*）。这类平行促使一些语言学家主张：位点宜视为类似性特征的语法特征（Neidle et al. 2000; Kuhn 2016）。
   - id: 46
     kind: body
     source: |-
       As it turns out, sign language loci seem to share some properties with logical variables, and some properties with grammatical features. On the one hand, the flexibility with which loci can be used seems closer to the nature of logical variables than to grammatical features. First, gender features are normally drawn from a finite inventory, whereas there seems to be no upper bound to the number of loci used except for reasons of performance. Second, gender features have a fixed form, whereas loci can be created ‘on the fly’ in various parts of signing space. On the other hand, loci may sometimes be disregarded in ways that resemble gender features. A large part of the debate has focused on sign language versions of sentences such as: *Only Ann did her homework*. This has a salient (‘bound variable’) reading that entails that Bill didn’t do **his** homework. In order to derive this reading, linguists have proposed that the gender features of the pronoun *her* must be disregarded, possibly because they are the result of grammatical agreement. Loci can be disregarded in the very same kind of context, suggesting that they are features, not logical variables (Kuhn 2016)[^kuhn-2016]. In light of this theoretical tension, a possible synthesis is that loci are a visible realization of logical variables, but mediated by a featural level (Schlenker 2018a)[^schlenker-2018a]. The debate continues to be relatively open.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      事实上，手语位点似乎既与逻辑变量共享某些性质，也与语法特征共享某些性质。一方面，位点使用的灵活性似乎更接近逻辑变量的本性而非语法特征。首先，性特征通常取自有限清单，而位点数目似乎除表现因素外没有上限。其次，性特征有固定形式，而位点可以在手势空间各处“即时”创设。另一方面，位点有时可以像性特征那样被忽略。争论的很大一部分集中在类似 *Only Ann did her homework* 这样的手语句上。这个句子有一个显著的（“约束变量”）读法，蕴含 Bill 没做**他的**作业。为导出这一读法，语言学家提出，代词 *her* 的性特征必须被忽略，可能因为它们是语法一致的结果。位点在完全相同类型的语境中也可以被忽略，这提示它们是特征而非逻辑变量（Kuhn 2016）。在这一理论张力下，一种可能的综合是：位点是逻辑变量的可见实现，但经由特征层面中介（Schlenker 2018a）。争论仍相对开放。
+    step2: |-
+      实际上，手语位点似乎既与逻辑变量共享某些性质，也与语法特征共享某些性质。一方面，位点使用的灵活性更近于逻辑变量的本性，而非语法特征：性特征通常取自有限清单，位点数目则除表现因素外似无上限；性特征形式固定，位点则可在手势空间各处“即时”创设。另一方面，位点有时可像性特征一样被忽略。争论很大部分聚焦于 *Only Ann did her homework* 一类手语句。此句有一个显著的（“约束变量”）读法，蕴含 Bill 没做**他的**作业。为导出该读法，语言学家提出代词 *her* 的性特征必须被忽略，可能因为它们源自语法一致。位点在完全同类语境中亦可被忽略，提示它们是特征而非逻辑变量（Kuhn 2016）。在此理论张力下，一种可能的综合是：位点是逻辑变量的可见实现，但经特征层面中介（Schlenker 2018a）。争论仍相对开放。
   - id: 47
     kind: body
     source: |-
       While there has been much theoretical interest in cases in which reference is disambiguated by loci, this is usually an option, not an obligation. In ASL, for instance, it is often possible to realize pronouns by pointing towards a neutral locus that need not be introduced explicitly by nominal antecedents, and in fact several antecedents can be associated with this default locus. This gives rise to instances of referential ambiguity that are similar to those found in English in (2)–(3) above (see Frederiksen & Mayberry 2022; for an account that treats loci as corresponding to entire regions of signing space, and also allows for sign language pronouns without locus specification, see Steinbach & Onea 2016)[^frederiksen-2022][^steinbach-2016].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管理论上对位点消歧指称的情形兴趣浓厚，这通常是一种选择而非义务。例如在 ASL 中，常常可以通过指向一个中立位点来实现代词，该位点无须由名词先行语显性引入，而且事实上多个先行语可以关联到这一默认位点。这会产生与上文 (2)–(3) 中英语类似的指称歧义（见 Frederiksen & Mayberry 2022；一种把位点当作对应手势空间整个区域、并允许手语代词不带位点标定的处理，见 Steinbach & Onea 2016）。
+    step2: |-
+      尽管位点消歧指称的情形在理论上备受关注，这通常是一种选择而非义务。例如在 ASL 中，代词常可指向一个中立位点来实现，该位点无须由名词先行语显性引入；事实上多个先行语都可关联到这一默认位点。由此产生的指称歧义与上文 (2)–(3) 中英语的情形类似（见 Frederiksen & Mayberry 2022；把位点当作对应手势空间整个区域、并允许手语代词不带位点标定的处理，见 Steinbach & Onea 2016）。
   - id: 48
     kind: body
     source: |-
       ### 1.2 Time and world-denoting loci
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.2 指称时间与世界的位点
+    step2: |-
+      ### 1.2 指称时间与世界的位点
   - id: 49
     kind: body
     source: |-
       Regardless of implementation, the flexible nature of sign language loci allows one to revisit foundational questions about anaphora and reference.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不论如何实现，手语位点灵活的本性使人得以重新审视回指与指称的基础性问题。
+    step2: |-
+      无论采取何种实现，手语位点的灵活本性都让人得以重审回指与指称的基础问题。
   - id: 50
     kind: body
     source: |-
       In the analysis of temporal and modal constructions in speech, there are two broad directions. One goes back to quantified tense logic and modal logic, and takes temporal and modal expressions of natural language to be fundamentally different from individual-denoting expressions: the latter involve the full power of variables and quantifiers, whereas no variables exist in the temporal and modal domain, although operators manipulate implicit parameters. The opposite view is that natural language has in essence the same logical vocabulary across the individual, the temporal and the modal domains, with variables (which may take different forms across different domains) and quantifiers that may bind them (see for instance von Stechow 2004)[^stechow-2004]. This second tradition was forcefully articulated by Partee (1973) for tense and Stone (1997) for mood. Partee’s and Stone’s argument was in essence that tense and mood have virtually all the uses that pronouns do. This suggests, theory-neutrally, that pronouns, tenses and moods have a common semantic core. With the additional assumption that pronouns should be associated with variables, this suggests that tenses and moods should be associated with variables as well, perhaps with time- and world-denoting variables, or with a more general category of situation-denoting variables.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在口语中时间构造与模态构造的分析里，有两个大致的方向。一个可追溯到量化时态逻辑与模态逻辑，认为自然语言的时间与模态表达式根本上有别于指称个体的表达式：后者动用变量与量词的全部能力，而时间与模态域中不存在变量，尽管算子操纵着隐含参数。相反的观点认为，自然语言在个体域、时间域与模态域中使用本质上相同的逻辑词库，即变量（在不同域中形式可以不同）与可约束它们的量词（例如见 von Stechow 2004）。第二种传统由 Partee (1973) 就时态、Stone (1997) 就语气作了有力阐述。Partee 与 Stone 的论证实质是：时态与语气几乎具备代词的一切用法。这提示（理论中立地）：代词、时态与语气有一个共同的语义内核。再补充“代词应与变量关联”这一假设，则时态与语气也应与变量关联，或许是时间变量与世界变量，或更一般的情境变量。
+    step2: |-
+      口语中时间构造与模态构造的分析有两大方向。其一可上溯量化时态逻辑与模态逻辑：自然语言的时间与模态表达式根本上不同于指称个体的表达式，后者动用变量与量词的全部能力，而时间与模态域中并无变量，只有算子操纵隐含参数。相反的观点认为，自然语言在个体域、时间域与模态域使用本质上相同的逻辑词库，即变量（在各域形态可以不同）与约束它们的量词（例如 von Stechow 2004）。第二种传统由 Partee (1973) 论时态、Stone (1997) 论语气作出有力阐述。其论证实质是：时态与语气几乎具备代词的一切用法。这（以理论中立的方式）提示：代词、时态与语气共享一个语义内核。若再加“代词应与变量关联”的假设，则时态与语气也应与变量关联，或是时间变量与世界变量，或是更一般的情境变量。
   - id: 51
     kind: body
     source: |-
       As an example, pronouns can have a deictic reading on which they refer to salient entities in the context; if a person sitting alone with their head in their hands utters: *She left me*, one will understand that *she* refers to the person’s former partner. Partee argued that tense has deictic uses too. For instance, if an elderly author looks at a picture selected by their publisher for a forthcoming book, and says: *I wasn’t young*, one will understand that the author wasn’t young *when the picture was taken*. Stone similarly argued that mood can have deictic readings, as in the case of someone who, while looking at a high-end stereo in a store, says: *My neighbors would kill me*. The interpretation is that the speaker’s neighbors would (metaphorically) kill them “if the speaker bought the stereo and played it a ‘satisfying’ volume”, in Stone’s words. A wide variety of other uses of pronouns can similarly be replicated with tense and mood, such as cross-sentential binding with indefinite antecedents. (In the individual domain: *A woman will go to Mars. She [=the woman who goes to Mars] will be famous*. In the temporal domain: *I sometimes go to China. I eat Peking duck [=in the situations in which I visit China]*.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      举例来说，代词可以有指示读法，指称语境中突出的实体；如果一个人独坐、双手抱头发话：*She left me*（她离开了我），人们会理解 *she* 指其前伴侣。Partee 论证时态也有指示用法。例如，一位年长作者看着出版人为其即将出版的书选定的照片说：*I wasn’t young*（我那时不年轻），人们会理解作者*在照片拍摄时*并不年轻。Stone 类似地论证语气可以有指示读法：如有人在商店里看着一套高端音响说：*My neighbors would kill me*（我的邻居会杀了我）。用 Stone 的话说，其解读是：说话人的邻居们“如果说话人买下音响并开到‘令人满意’的音量播放”，就会（隐喻地）杀了他。代词的许多其他用法同样可以由时态与语气复现，如不定先行语的跨句约束。（个体域：*A woman will go to Mars. She [=the woman who goes to Mars] will be famous*（一位女性将去火星。她［=去火星的那位女性］会出名）。时间域：*I sometimes go to China. I eat Peking duck [=in the situations in which I visit China]*（我有时去中国。我吃北京烤鸭［=在我到访中国的那些情境里］）。）
+    step2: |-
+      举例来说，代词可有指示读法，指语境中突出的实体：有人独坐抱头发话 *She left me*（她离开了我），听者会理解 *she* 指其前伴侣。Partee 论证时态亦有指示用法：一位年长作者看着出版人为其新书选定的照片说 *I wasn’t young*（我那时不年轻），听者会理解作者*在照片拍摄时*并不年轻。Stone 同样论证语气可有指示读法：有人在商店里看着一套高端音响说 *My neighbors would kill me*（我的邻居会杀了我）。按 Stone 的措辞，其解读是：说话人的邻居们“如果说话人买下音响并开到‘令人满意’的音量播放”，就会（隐喻地）杀了他。代词的许多其他用法同样可由时态与语气复现，如不定先行语的跨句约束。（个体域：*A woman will go to Mars. She [=the woman who goes to Mars] will be famous*（一位女性将去火星。她［=去火星的那位女性］会出名）。时间域：*I sometimes go to China. I eat Peking duck [=in the situations in which I visit China]*（我有时去中国。我吃北京烤鸭［=在我到访中国的那些情境里］）。）
   - id: 52
     kind: body
     source: |-
       While strong, these arguments are indirect because the *form* of tense and mood looks nothing like pronouns. In several sign languages, including at least ASL (Schlenker 2018a)[^schlenker-2018a] and Chinese Sign Language (Lin et al. 2021)[^lin-2021], loci provide a more direct argument because in carefully constructed examples, pointing to loci can be used not just to refer to individuals, but also to temporal and modal situations, with a meaning akin to that of the word *then* in English. It follows that the logical system underlying the ASL pronominal system (e.g., as variables) extends to temporal and modal situations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些论证虽有力，却是间接的，因为时态与语气的*形式*看起来完全不像代词。在包括至少 ASL（Schlenker 2018a）与中国手语（Lin et al. 2021）在内的若干手语中，位点提供了更直接的论证：在精心构造的例子里，指向位点不仅可用于指称个体，还可用于指称时间与模态情境，其意义类似英语中的 *then*。由此可知，ASL 代词系统底层的逻辑系统（如作为变量）扩展到时间与模态情境。
+    step2: |-
+      这些论证虽有力，却是间接的：时态与语气的*形式*看起来完全不像代词。在至少包括 ASL（Schlenker 2018a）与中国手语（Lin et al. 2021）在内的若干手语中，位点提供了更直接的论证：在精心构造的例子里，指向位点不仅可指称个体，还可指称时间与模态情境，意义类似英语的 *then*。由此可知，ASL 代词系统底层的逻辑系统（如作为变量）延伸到时间与模态情境。
   - id: 53
     kind: body
     source: |-
       A temporal example appears in (9). In the first sentence, *SOMETIMES WIN* is signed in a locus *a*. In the second sentence, the pointing sign *IX-a* refers back to the situations in which I win. The resulting meaning is that I am happy *in those situations in which I win*, not in general; this corresponds to the reading obtained with the word *then* in English: ‘then I am happy’. (Here and below, ‘re’ glosses raised eyebrows, with a line above the words over which eyebrow raising occurs.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      时间例子见 (9)。第一句中，*SOMETIMES WIN* 打在位点 *a*。第二句中，指点手势 *IX-a* 回指我获胜的那些情境。所得意义是：我高兴是*在我获胜的那些情境中*，而非一般而言；这对应英语用 *then* 得到的读法：‘then I am happy’。（此处及下文，‘re’ 标注扬眉，其上方横线覆盖扬眉发生的语词范围。）
+    step2: |-
+      时间例子见 (9)。第一句中，*SOMETIMES WIN* 打在位点 *a*；第二句中，指点手势 *IX-a* 回指我获胜的那些情境。所得意义是：我高兴是*在我获胜的那些情境中*，而非泛泛而言；这对应英语用 *then* 得到的读法：‘then I am happy’。（下文 ‘re’ 标注扬眉，其上横线覆盖扬眉所及的语词范围。）
   - id: 54
     kind: body
     source: |-
       **(9)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(9)**
+    step2: |-
+      **(9)**
   - id: 55
     kind: body
     source: |-
       *Context:* Every week I play in a lottery. IX-1 [SOMETIMES WIN]_{*a*}. IX-*a*ʳᵉ IX-1 HAPPY. ‘Sometimes I win. Then I am happy.’ (ASL 7, 202)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *语境：* 我每周玩一次彩票。IX-1 [SOMETIMES WIN]_{*a*}。IX-*a*ʳᵉ IX-1 HAPPY。‘我有时赢。那时我就高兴。’（ASL 7, 202）
+    step2: |-
+      *语境：* 我每周玩一次彩票。IX-1 [SOMETIMES WIN]_{*a*}。IX-*a*ʳᵉ IX-1 HAPPY。‘我有时赢。那时我就高兴。’（ASL 7, 202）
   - id: 56
     kind: body
     source: |-
       Formally, *SOMETIMES* can be seen as an existential quantifier over temporal situations, so the first sentence is semantically existential: *there are situations in which I win*. The pointing sign thus displays cross-sentential anaphora, depending on a temporal existential quantifier that appears in a preceding sentence. A further point made by Chinese Sign Language (but not by the ASL example above) is that loci may be ordered on a temporal line, with the result that not just the loci but also their ordering can be made visible (Lin et al. 2021)[^lin-2021].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      形式上，*SOMETIMES* 可视为对时间情境的存在量化，因此第一句在语义上是存在性的：*存在我获胜的情境*。指点手势由此呈现跨句回指，依赖前一句中出现的时间存在量词。中国手语（而非上述 ASL 例子）进一步表明，位点可以排布在一条时间线上，其结果是不仅位点本身、连位点的次序也可以显性化（Lin et al. 2021）。
+    step2: |-
+      形式上，*SOMETIMES* 可视为对时间情境的存在量化，故第一句在语义上是存在性的：*存在我获胜的情境*。指点手势由此呈现跨句回指，依赖前句出现的时间存在量词。中国手语（而非上述 ASL 例）进一步表明：位点可排布在一条时间线上，从而不仅位点本身，连其次序也可显性化（Lin et al. 2021）。
   - id: 57
     kind: body
     source: |-
       A related argument can be made about anaphoric reference to modal situations: in (10), the second sentence just asserts that there are possible situations in which I am infected, associating the locus *a* with situations of infection. The second sentence makes reference to them: in those situations (not in general), I have a problem. Here too, the reading obtained corresponds to a use of the word *then* in English.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于对模态情境的回指也可以作出类似论证：在 (10) 中，第二句只是断言存在我可能被感染的可能情境，把位点 *a* 与感染情境关联起来。第三句提及这些情境：在那些情境中（而非一般而言），我有麻烦。这里得到的读法同样对应英语 *then* 的一种用法。
+    step2: |-
+      对模态情境的回指可作类似论证：(10) 的第二句只断言存在我可能被感染的可能情境，并把位点 *a* 与感染情境关联。第三句提及这些情境：在那些情境中（而非一般而言），我有麻烦。此处读法同样对应英语 *then* 的一种用法。
   - id: 58
     kind: body
     source: |-
       **(10)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(10)**
+    step2: |-
+      **(10)**
   - id: 59
     kind: body
     source: |-
       FLU SPREAD. IX-1 POSSIBLE INFECTED_{*a*}. IX-*a*ʳᵉ IX-1 PROBLEM. ‘There was a flu outbreak. I might get infected. Then I have a problem.’ (ASL 7, 186)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      FLU SPREAD. IX-1 POSSIBLE INFECTED_{*a*}. IX-*a*ʳᵉ IX-1 PROBLEM. ‘流感爆发了。我可能被感染。那时我就有麻烦了。’（ASL 7, 186）
+    step2: |-
+      FLU SPREAD. IX-1 POSSIBLE INFECTED_{*a*}. IX-*a*ʳᵉ IX-1 PROBLEM. ‘流感爆发了。我可能被感染。那时我就有麻烦了。’（ASL 7, 186）
   - id: 60
     kind: body
     source: |-
       In sum, temporal and modal loci make two points. First, theory-neutrally, the pointing sign can have both the use of English pronouns and of temporal and modal readings of the word *then*, suggesting that a single system of reference underlies individual, temporal and modal reference. Second, on the assumption that loci are the overt realization of some logical variables, sign languages provide a morphological argument for the existence of temporal and modal variables alongside individual variables.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      总之，时间与模态位点表明两点。第一，以理论中立的方式，指点手势既可以有英语代词的用法，也可以有 *then* 的时间与模态读法，这提示一个单一的指称系统支撑着个体、时间与模态指称。第二，在位点为某些逻辑变量的显性实现这一假设下，手语为时间与模态变量（与个体变量并存）的存在提供了形态学论证。
+    step2: |-
+      总之，时间与模态位点表明两点。其一，以理论中立的方式看，指点手势既有英语代词的用法，也有 *then* 的时间与模态读法，提示一个单一的指称系统支撑个体、时间与模态指称。其二，若假设位点是某些逻辑变量的显性实现，手语就为时间与模态变量（与个体变量并存）的存在提供了形态论证。
   - id: 61
     kind: body
     source: |-
