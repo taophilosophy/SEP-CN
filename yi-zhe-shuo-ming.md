@@ -390,6 +390,7 @@
 | ʾarbaʿīya | ارباعية | 四性 | arabic-islamic-phil-math | 译名裁定（arbaʿīya 直译；苏赫拉瓦尔迪反数之偶性论证） | 2026-11-08 |
 | ʿamalī / naẓarī | عملی／نظری | 应用的／理论的（法拉比数学之分） | arabic-islamic-phil-math | 译名裁定（practical/theoretical） | 2026-11-08 |
 | ʿaql | عقل | 智识（intellect；勿泛译“理性”） | arabic-islamic-phil-math | 学界通行（noūs 对译） | 2026-11-08 |
+| Anschauung | Anschauung | 直观 | yorck 首译 | 学界惯例（德国古典哲学通行，康德 Anschauung 直观）；凭证 2026-11-11 | 2026-11-11 |
 
 ## B
 
@@ -537,6 +538,10 @@
 | burhān al-taṭābuq / al-taṭbīq | — | 映射论证（Mapping Argument） | arabic-islamic-phil-math | 译名裁定（taṭābuq 对应贴合；Zarepour 2020b 英译 mapping） | 2026-11-08 |
 | bushidō | 武士道 | 武士道 | japanese-aesthetics | 学界惯例（日本文化研究通行译法“武士道”） | 2026-11-02 |
 | business condition | — | 关己条件 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
+| Bewusstseinsstellung | Bewusstseinsstellung | 意识立场 | yorck 首译 | B 档：约克书名用语（Bewusstsein 意识＋Stellung 立场；书名《意识立场与历史》）；凭证 2026-11-11 | 2026-11-11 |
+| Bildlichkeit | Bildlichkeit | 图像性 | yorck 首译 | B 档：词面直译（Bild 图像；作者英译 projection of formed images）；凭证 2026-11-11 | 2026-11-11 |
+| Bodenlosigkeit | Bodenlosigkeit | 无根基性 | yorck 首译 | 学界通行（海德格尔研究 Boden 无根基义；本册定“无根基性”一形）；凭证 2026-11-11 | 2026-11-11 |
+| Bodenständigkeit | Bodenständigkeit | 扎根性 | yorck 首译 | 学界通行（海德格尔研究 Bodenständigkeit 扎根性；本册定“扎根性”一形）；凭证 2026-11-11 | 2026-11-11 |
 
 ## C
 
@@ -978,6 +983,7 @@
 | Cut rule | — | 切规则 | logic-substructural | 证明论通行译法；凭证 2026-11-10 | 2026-11-09 |
 | cyberterrorism | — | 网络恐怖主义 | 首现（it-moral-values） | 法学与安全研究通行译名；凭证 2026-11-10 | 2026-11-10 |
 | Cynics | — | 犬儒派 | 首现（timon-phlius） | 学界惯例（古希腊哲学流派；本库无独立词条）；凭证 2026-11-07 | 2026-11-07 |
+| contrapposto | contrapposto | 对置 | yorck 首译 | 学界惯例（艺术史术语通行“对置”；此处喻历史重心之再平衡）；凭证 2026-11-11 | 2026-11-11 |
 
 ## D
 
@@ -1245,6 +1251,7 @@
 | dynamic rationality | — | 动态理性 | belief-merging | 构词直译（Dietrich & List 2024 语境）；凭证 2026-11-10 | 2026-11-10 |
 | dynamic semantics | — | 动态语义 | logical-consequence | 形式语义通行译法；凭证 2026-11-09 | 2026-11-09 |
 | dynamic voluntarism | — | 动态唯意志论（米哈乌夫斯卡语） | kilvington | 主会话直译收口 de6bb4b1；凭证 2026-11-04 | 2026-11-04 |
+| der ganze Mensch | der ganze Mensch | 完整的人 | yorck 首译 | B 档：词面直译（作者英译 the full human being）；凭证 2026-11-11 | 2026-11-11 |
 
 ## E
 
@@ -1543,6 +1550,10 @@
 | extrapolation | — | 外推 | model-organisms 首译 | 科学哲学通行译名；凭证 2026-11-09 | 2026-11-09 |
 | extraversion | — | 外向性 | justice-moral-psych | 大五特质通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | ε-notation | ε-notation | ε 记号 | spacetime-convensimul | 构词直译 | 2026-11-06 |
+| Eigenheit | Eigenheit | 己有性 | yorck 首译 | B 档：词面直译（eigen 己有；作者英译 ownness）；凭证 2026-11-11 | 2026-11-11 |
+| Empfindung | Empfindung | 感觉 | yorck 首译 | 学界通行（德国哲学 Empfindung 感觉，与 Gefühl 情感分义）；凭证 2026-11-11 | 2026-11-11 |
+| Empfindungsrealität | Empfindungsrealität | 感觉实在性 | yorck 首译 | B 档：词面直译（作者英译 a reality of feeling）；凭证 2026-11-11 | 2026-11-11 |
+| Existenzialfragen | Existenzialfragen | 实存问题 | yorck 首译 | B 档：词面直译（Existenzial 实存的；作者英译 existential questions）；凭证 2026-11-11 | 2026-11-11 |
 
 ## F
 
@@ -1828,6 +1839,10 @@
 | Guru Granth Sahib | — | 《古鲁·格兰特·萨希卜》 | 首译（sikh-philosophy） | 学界通行汉译（锡克正典，1604 阿尔詹古鲁编定；亦作《室利·古鲁·格兰特·萨希卜》SGGS）；凭证 2026-11-09 | 2026-11-09 |
 | gurutva | गुरुत्व | 重性 | early-modern-india | 胜论动力学通行义译（weight）；凭证 2026-11-10 | 2026-11-10 |
 | Gymnosophists | — | 裸形智者 | gianfrancesco-pico | 希腊文术语通行汉译（印度苦行者） | 2026-11-09 |
+| Gefühl | Gefühl | 情感 | yorck 首译 | 学界通行（德语哲学 Gefühl 情感）；凭证 2026-11-11 | 2026-11-11 |
+| Gefühl der Vergänglichkeit | Gefühl der Vergänglichkeit | 无常感 | yorck 首译 | B 档：词面直译（Vergänglichkeit 暂逝性；作者英译 the feeling that everything passes）；凭证 2026-11-11 | 2026-11-11 |
+| Gestaltlichkeit | Gestaltlichkeit | 形态性 | yorck 首译 | B 档：约克用语（Gestalt 形态；作者英译 plasticity）；凭证 2026-11-11 | 2026-11-11 |
+| Geschichtlichkeit | Geschichtlichkeit | 历史性 | yorck 首译 | 学界通行汉译（历史哲学与诠释学通行；约克为该词较早哲学使用者）；凭证 2026-11-11 | 2026-11-11 |
 
 ## H
 
@@ -1991,6 +2006,8 @@
 | Hypothetical Reasoning | — | 假说推理 | 语料回收（标题词） | 学界惯例（皮尔士溯因语境（abduction 词条））；凭证 2026-11-01 | 2026-11-01 |
 | hypothetico-deductive | — | 假设演绎 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | hypothetico-deductivism | — | 假说—演绎主义 | cosmology-30s 首译 | 科学哲学通行（H-D method 假说—演绎方法之立场形态）；凭证 2026-11-08 | 2026-11-08 |
+| historicity | Geschichtlichkeit | 历史性 | yorck 首译 | 学界通行汉译（与德文键 Geschichtlichkeit 同词互指）；凭证 2026-11-11 | 2026-11-11 |
+| historicization | Vergeschichtlichung | 历史化 | yorck 首译 | 学界通行（历史哲学语境）；凭证 2026-11-11 | 2026-11-11 |
 
 ## I
 
@@ -2378,6 +2395,7 @@
 | Kripke's schema | — | 克里普克图式 | 首现（intuitionism） | 直觉主义数学通行（**KS**；亦作“克里普克模式”）；凭证 2026-11-10 | 2026-11-10 |
 | Krogh organism | — | Krogh 生物 | model-organisms 首译 | 本词条术语（Green et al. 2018，源自 August Krogh 的极端适应生物选材）；凭证 2026-11-09 | 2026-11-09 |
 | kyūdō | 弓道 | 弓道 | japanese-aesthetics | 学界惯例（日本武道研究通行译法“弓道”） | 2026-11-02 |
+| Kraftübertragung | Kraftübertragung | 力量传递 | yorck 首译 | B 档：词面直译（作者英译 virtual transmission of power）；凭证 2026-11-11 | 2026-11-11 |
 
 ## L
 
@@ -2526,6 +2544,10 @@
 | lymph | — | 淋巴 | cancer | 学界通行（免疫学与肿瘤学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | Ł-modal system | — | Ł-模态系统 | lvov-warsaw | Łukasiewicz 术语照录；凭证 2026-11-09 | 2026-11-09 |
 | Łukasiewicz logic | Łukasiewicz logic | 卢卡西维茨逻辑 | 语料回收 | 学界惯例（数理逻辑通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
+| Lebendigkeit | Lebendigkeit | 生命性 | yorck 首译 | B 档：词面直译（Leben 生命之抽象名词；作者英译 aliveness）；凭证 2026-11-11 | 2026-11-11 |
+| Lebensmanifestation | Lebensmanifestation | 生命显现 | yorck 首译 | B 档：词面直译（作者英译 a manifestation of life）；凭证 2026-11-11 | 2026-11-11 |
+| Lebensstellung | Lebensstellung | 生活态度 | yorck 首译 | B 档：词面直译（作者英译 stance towards life）；凭证 2026-11-11 | 2026-11-11 |
+| Leib | Leib | 活的身体 | yorck 首译 | 学界通行（现象学 Leib 与 Körper 躯体相对；本册定“活的身体”一形）；凭证 2026-11-11 | 2026-11-11 |
 
 ## M
 
@@ -3032,6 +3054,7 @@
 | numinous | — | 努秘（奥托 das Heilige 语境） | 首现（emotion-Christian-tradition） | 学界惯例（汉语宗教学界通行（《论“神圣”》译本））；凭证 2026-11-04 | 2026-11-04 |
 | Nyāya | न्याय | 正理派 | early-modern-india 首译 | 千年通行（正理派；承 jaina-philosophy 先例）；凭证 2026-11-10 | 2026-11-10 |
 | Nyāya-sūtra | न्यायसूत्र | 《逻辑经》 | early-modern-india | 本库家法（jaina-philosophy 先例；简称 NS 沿用）；凭证 2026-11-10 | 2026-11-10 |
+| Naturboden | Naturboden | 自然基地 | yorck 首译 | B 档：词面直译（Natur 自然＋Boden 地基；作者英译 natural ground）；凭证 2026-11-11 | 2026-11-11 |
 
 ## O
 
@@ -3161,6 +3184,7 @@
 | Oxford Realists | — | 牛津实在论者 | penbygull | 学界通行（中世纪后期实在论研究文献）；凭证 2026-11-09 | 2026-11-09 |
 | ω-consistency | ω-consistency | ω-一致性 | logic-provability | 数理逻辑通行 | 2026-11-05 |
 | ω-provability | ω-provability | ω-可证性 | logic-provability | 本词条定案（Japaridze GLB） | 2026-11-05 |
+| Okularität | Okularität | 目视性 | yorck 首译 | B 档：约克自铸词（ocular 目视之抽象名词；作者英译 ocularity）；凭证 2026-11-11 | 2026-11-11 |
 
 ## P
 
@@ -4456,6 +4480,13 @@
 | systematicity | — | 系统性（Systematicity Principle → 系统性原则） | reasoning-analogy | 学界通行 | 2026-11-05 |
 | systems biology | — | 系统生物学 | cancer | 学界通行；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | systems theory | — | 系统论 | cancer | 学界通行；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
+| Sachlichkeit | Sachlichkeit | 实事性 | yorck 首译 | 学界通行（德语 Sachlichkeit 实事性／就事论事；本册定“实事性”一形）；凭证 2026-11-11 | 2026-11-11 |
+| Selbstbesinnung | Selbstbesinnung | 自我反思 | yorck 首译 | 学界通行（狄尔泰—伽达默尔研究 Selbstbesinnung 反思义）；凭证 2026-11-11 | 2026-11-11 |
+| Selbstbehauptung | Selbstbehauptung | 自我坚持 | yorck 首译 | B 档：词面直译（作者英译 self-affirmation；本册定“自我坚持”一形）；凭证 2026-11-11 | 2026-11-11 |
+| Selbstaufgabe | Selbstaufgabe | 自我舍弃 | yorck 首译 | B 档：词面直译（作者英文作 self-renunciation；与 Selbsthingabe 自我交付分义）；凭证 2026-11-11 | 2026-11-11 |
+| Selbsthingabe | Selbsthingabe | 自我交付 | yorck 首译 | B 档：词面直译（Hingabe 交付；作者英文同作 self-renunciation，本册分译）；凭证 2026-11-11 | 2026-11-11 |
+| Sterblichkeitsgefühl | Sterblichkeitsgefühl | 有死感 | yorck 首译 | B 档：词面直译（作者英译 the feeling of one's own mortality；有死性为通行哲学术语）；凭证 2026-11-11 | 2026-11-11 |
+| syndesmos | syndesmos | 联结纽带 | yorck 首译 | B 档：希腊语词（本义联结之带；作者英译 historical band）；凭证 2026-11-11 | 2026-11-11 |
 
 ## T
 
@@ -4694,6 +4725,7 @@
 | typical ambiguity | — | 典型歧义 | quine-nf | 类型论通行译名（Quine/Specker）；凭证 2026-11-09 | 2026-11-09 |
 | typology | — | 预表论（type 预表；antitype 所预表者） | edwards 首译 | 学界通行汉译（圣经研究；和合本传统）；凭证 2026-11-10 | 2026-11-10 |
 | T’ong Pulgyo | 통불교 | 统一佛教 | korean-buddhism | 韩国佛教史学界通行（통불교；Shim Jaeryong 批判对象） | 2026-11-05 |
+| temporality | — | 时间性 | yorck 首译 | 学界通行汉译（现象学与历史哲学通行）；凭证 2026-11-11 | 2026-11-11 |
 
 ## U
 
@@ -4788,6 +4820,7 @@
 | utopia | — | 乌托邦 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | utopian function | — | 乌托邦功能 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | utopian hermeneutics | — | 乌托邦诠释学 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
+| Urtheilung | Urtheil 或 Urtheilung | 原初划分 | yorck 首译 | B 档：约克用语（Ur-teil 兼指原初判断与原初划分；作者英译 original division）；凭证 2026-11-11 | 2026-11-11 |
 
 ## V
 
@@ -4890,6 +4923,8 @@
 | vyāpya | व्याप्य | 所遍充 | early-modern-india | 因明通行（pervaded）；凭证 2026-11-10 | 2026-11-10 |
 | vyāsajya-vṛtti-dharma | — | 共转属性 | early-modern-india | 正理义译（properties which occur jointly；集体属性）；凭证 2026-11-10 | 2026-11-10 |
 | vyatireka | व्यतिरेक | 同无 | early-modern-india | 因明“异品无”通行（agreement in absence；与 anvaya 同有对举）；凭证 2026-11-10 | 2026-11-10 |
+| Vergeschichtlichung | Vergeschichtlichung | 历史化 | yorck 首译 | B 档（与英文键 historicization 同词互指）；凭证 2026-11-11 | 2026-11-11 |
+| Verräumlichung | Verräumlichung | 空间化 | yorck 首译 | 学界通行（空间化为哲学通行译法；作者英译 spatialization）；凭证 2026-11-11 | 2026-11-11 |
 
 ## W
 
@@ -4968,6 +5003,8 @@
 | wu lun | 五倫 | 五伦 | han-dynasty | 儒学通行（Five Relationships） | 2026-11-10 |
 | wu xing | — | 五行 | chinese-phil-science | 学界通行（五行；本词条首次系统登记）；凭证 2026-11-07 | 2026-11-07 |
 | wuwei | 無爲 | 无为（無爲） | japanese-aesthetics | 学界惯例（中国哲学/道家通行译法“无为”） | 2026-11-02 |
+| Weltfreiheit | Weltfreiheit | 脱离世界 | yorck 首译 | B 档：词面直译（作者英译 freedom from the world）；凭证 2026-11-11 | 2026-11-11 |
+| Wollen | Wollen | 意愿 | yorck 首译 | 学界通行（德语哲学 Wollen 意愿）；凭证 2026-11-11 | 2026-11-11 |
 
 ## X
 
