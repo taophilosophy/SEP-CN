@@ -95,7 +95,11 @@ PIN_FIELDS = ('pubinfo_date', 'archive_edition', 'sha256')
 
 
 def norm_rel(path, root):
-    return os.path.relpath(path, root).replace(os.sep, '/').replace('\\', '/')
+    try:
+        rel = os.path.relpath(path, root)
+    except ValueError:  # 跨盘符（测试临时目录在 C:、仓库在 D:）退化为绝对路径
+        rel = os.path.abspath(path)
+    return rel.replace(os.sep, '/').replace('\\', '/')
 
 
 def parse_en_date(text):
