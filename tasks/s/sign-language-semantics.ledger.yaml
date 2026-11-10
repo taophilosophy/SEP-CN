@@ -971,365 +971,491 @@ segments:
     kind: body
     source: |-
       **(19)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(19)**
+    step2: |-
+      **(19)**
   - id: 122
     kind: body
     source: |-
       Normal vs. incompletive form of *DIE* in ASL (*Credits:* J. Kuhn) ![an image of the non-dominant hand in before, palm up, and after, palm down, positions.](../assets/sign-language-semantics/image015.png) a. DIE in ASL ![an image of the non-dominant hand in before, palm vertical, and after, palm down, positions.](../assets/sign-language-semantics/image016.png) b. ALMOST-DIE in ASL
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ASL 中 *DIE* 的正常形式与不完整体形式（*图片来源：* J. Kuhn）![非惯用手在动作前掌心向上、动作后掌心向下的示意图。](../yuanwen/assets/sign-language-semantics/image015.png) a. ASL 中的 DIE ![非惯用手在动作前掌心竖直、动作后掌心向下的示意图。](../yuanwen/assets/sign-language-semantics/image016.png) b. ASL 中的 ALMOST-DIE
+    step2: |-
+      ASL 中 *DIE* 的正常形式与不完整体形式（*图片来源：* J. Kuhn）![非惯用手在动作前掌心向上、动作后掌心向下的示意图。](../yuanwen/assets/sign-language-semantics/image015.png) a. ASL 中的 DIE ![非惯用手在动作前掌心竖直、动作后掌心向下的示意图。](../yuanwen/assets/sign-language-semantics/image016.png) b. ASL 中的 ALMOST-DIE
   - id: 123
     kind: body
     source: |-
       Similarly to the fact that multiple levels of speed and size can be indicated by the verb *GROW* in (18), the incompletive form of verbs can be modulated to indicate arbitrarily many degrees of completion, depending on how far the hand travels; these examples thus seem to necessitate an iconic rule (Kuhn 2015)[^kuhn-2015]. On the other hand, while the examples with *GROW* can be analyzed by simple predicate modification (‘The group grew and it happened like this: slowly’), examples of incompletive modification require a deeper integration in the semantics, similar to the semantic analysis of the adverb *almost* or the progressive aspect in English. (Notably, it’s nonsense to say: ‘My grandmother died and it happened like this: incompletely.’)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如 (18) 中动词 *GROW* 可以指示多个速度与幅度等级，动词的不完整体形式也可以按手的移动距离调制，以指示任意多个完成程度；这些例子因此似乎需要一条象似规则（Kuhn 2015）。另一方面，*GROW* 的例子可以用简单的谓语修饰来分析（‘这群人长大了，而且是这样发生的：缓慢地’），不完整体修改的例子则要求在语义学中作更深的整合，类似英语副词 *almost* 或进行体的语义分析。（值得注意的是，说‘我祖母死了，而且是这样发生的：不完全地’是无意义的。）
+    step2: |-
+      正如 (18) 中动词 *GROW* 可指示多个速度与幅度等级，动词的不完整体形式也可按手的移动距离调制，以指示任意多个完成程度；这些例子因此似乎需要一条象似规则（Kuhn 2015）。另一方面，*GROW* 的例子可用简单的谓语修饰来分析（‘这群人长大了，而且是这样发生的：缓慢地’），不完整体修改的例子则要求在语义学中作更深的整合，类似英语副词 *almost* 或进行体的语义分析。（值得注意的是，说‘我祖母死了，而且是这样发生的：不完全地’是无意义的。）
   - id: 124
     kind: body
     source: |-
       The key theoretical question lies in the integration between iconic and conventional elements in such cases. If one posits a decompositional analysis involving a morpheme representing the endstate (*EndState* or *Res*, see Section 2.1), one must certainly add to it an iconic component (with a non-trivial challenge for incompletive forms, where the iconic component does not just specify but radically alters the lexical meaning). Alternatively, one may posit that a structural form of iconicity is all one needs, without morphemic decomposition. An iconic analysis along these lines has been proposed (Kuhn 2015: Section 6.5)[^kuhn-2015], although a full account has yet to be developed.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关键的理论问题在于此类案例中象似成分与约定成分之间的整合。若设定涉及表示结果状态的词素（*EndState* 或 *Res*，见 2.1 节）的分解分析，就必须给它加上一个象似成分（对不完整体形式而言有非平凡的挑战：象似成分不只是指定，而是彻底改变词汇意义）。或者，也可以设定只需要一种结构形式的象似性，无须词素分解。沿此路线的象似分析已被提出（Kuhn 2015: 第 6.5 节），尽管完整说明尚待发展。
+    step2: |-
+      关键的理论问题在于此类案例中象似成分与约定成分的整合。若设定涉及表示结果状态的词素（*EndState* 或 *Res*，见 2.1 节）的分解分析，就必须加上一个象似成分（对不完整体形式而言挑战不小：象似成分不只指定，而是彻底改变词汇意义）。或者，也可设定只需一种结构形式的象似性，无须词素分解。沿此路线的象似分析已被提出（Kuhn 2015: 第 6.5 节），完整说明尚待发展。
   - id: 125
     kind: body
     source: |-
       ### 3.3 Plurals and pluractionals
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.3 复数与复数动作
+    step2: |-
+      ### 3.3 复数与复数动作
   - id: 126
     kind: body
     source: |-
       The logical notion of plurality is expressed overtly in some way in many of the world’s languages: pluralizing operations may apply to nouns or verbs to indicate a plurality of objects or events (for nouns: ‘plurals’; for verbs: ‘pluractionals’). Historically, arguments of Logical Visibility have not been made for plurals in sign languages, since—while overt plural marking certainly exists in sign language—plural morphemes also appear overtly in spoken languages (e.g., English singular *horse* vs. plural *horses*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      复数的逻辑概念在世界许多语言中以某种方式显性表达：复数化操作可应用于名词或动词，以指示对象或事件的复数（名词称“复数”，动词称“复数动作”）。历史上，逻辑可见性论证并未针对手语的复数提出，因为尽管手语中确实存在显性复数标记，复数词素在口语中也显性出现（如英语单数 *horse* 对复数 *horses*）。
+    step2: |-
+      复数的逻辑概念在世界许多语言中以某种方式显性表达：复数化操作可应用于名词或动词，以指示对象或事件的复数（名词称“复数”，动词称“复数动作”）。历史上，逻辑可见性论证并未针对手语的复数提出，因为手语中固然有显性复数标记，复数词素在口语中也显性出现（如英语单数 *horse* 对复数 *horses*）。
   - id: 127
     kind: body
     source: |-
       Nevertheless, mirroring areas of language in which arguments of Logical Visibility *do* apply, plural formation in sign language shows a number of unique and revealing properties. First, the morphological expression of this logical concept is similar for both nouns and verbs across a large number of unrelated sign languages: for both plural nouns (Pfau & Steinbach 2006)[^pfau-2006] and pluractional verbs (Kuhn & Aristodemo 2017)[^aristodemo-2017][^kuhn-2017], plurality is expressed by repetition. We note that repetition-based plurals and pluractionals also exist in speech (Sapir 1921: 79)[^sapir-1921].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，与逻辑可见性论证*确实*适用的语言领域相映照，手语中的复数形成显示出若干独特而有启发性的性质。首先，在大量彼此无关的手语中，这一逻辑概念的形态表达对名词与动词都相似：无论复数名词（Pfau & Steinbach 2006）还是复数动作动词（Kuhn & Aristodemo 2017），复数都通过重复来表达。我们注意到，基于重复的复数与复数动作在口语中也存在（Sapir 1921: 79）。
+    step2: |-
+      然而，与逻辑可见性论证*确实*适用的语言领域相映照，手语中的复数形成显示出若干独特而有启发性的性质。首先，在大量彼此无关的手语中，这一逻辑概念的形态表达对名词与动词都一样：无论复数名词（Pfau & Steinbach 2006）还是复数动作动词（Kuhn & Aristodemo 2017），复数都通过重复表达。我们注意到，基于重复的复数与复数动作在口语中也存在（Sapir 1921: 79）。
   - id: 128
     kind: body
     source: |-
       Second, in sign language, these repeated plural forms have been shown to feed iconic processes. Modifications of the way in which the sign is repeated may indicate the number of objects or events, or may indicate the arrangement of these pluralities in space or time. Relatedly, so-called ‘punctuated’ repetitions (with clear breaks between the iterations) refer to precise plural quantities (e.g., three objects or events for three iterations), while ‘unpunctuated’ repetitions (without clear breaks between the iterations) refer to plural quantities with vague thresholds, and often ‘at least’ readings (Pfau & Steinbach 2006; Schlenker & Lamberton 2022)[^pfau-2006][^schlenker-2022].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其次，在手语中，这些重复的复数形式已被证明会馈入象似过程。重复手势的方式的修改，可以指示对象或事件的数目，也可以指示这些复数在空间或时间中的排列。相关地，所谓“有停顿的”重复（各次重复之间有清楚间隔）指精确的复数数量（如三次重复指三个对象或事件），而“无停顿的”重复（各次重复之间没有清楚间隔）指阈值模糊的复数数量，且常有“至少”读法（Pfau & Steinbach 2006; Schlenker & Lamberton 2022）。
+    step2: |-
+      其次，在手语中，这些重复的复数形式已被证明会馈入象似过程。手势重复方式的修改，可指示对象或事件的数目，也可指示这些复数在空间或时间中的排列。相关地，所谓“有停顿的”重复（各次重复之间有清楚间隔）指精确的复数数量（如三次重复指三个对象或事件），而“无停顿的”重复（各次重复之间没有清楚间隔）指阈值模糊的复数数量，且常有“至少”读法（Pfau & Steinbach 2006; Schlenker & Lamberton 2022）。
   - id: 129
     kind: body
     source: |-
       In the nominal domain, the number of repetitions may provide an indication of the number of objects, and the arrangement of the repetitions in signing space can provide a pictorial representation of the arrangement of the denotations in real space (Schlenker & Lamberton 2022)[^schlenker-2022]. For instance, the word *TROPHY* can be iterated three times on a straight line to refer to a group of trophies that are horizontally arranged; or the three iterations can be arranged as a triangle to refer to trophies arranged in a triangular fashion. A larger number of iterations serves to refer to larger groups. Here too, the iconic contribution can be at-issue and thus be interpreted in the scope of logical operators such as *if*-clauses.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在名词域中，重复次数可以指示对象数目，而重复在手势空间中的排列可以为其指称对象在真实空间中的排列提供图画式表征（Schlenker & Lamberton 2022）。例如，*TROPHY* 一词可以在一条直线上重复三次，指一组水平排列的奖杯；三次重复也可以排成三角形，指按三角形排列的奖杯。重复次数更多则指更大的群体。这里同样，象似贡献可以是断言内容，因而在 *if* 从句等逻辑算子的辖域内得到解释。
+    step2: |-
+      在名词域中，重复次数可指示对象数目，重复在手势空间中的排列则可为其指称对象在真实空间中的排列提供图画式表征（Schlenker & Lamberton 2022）。例如，*TROPHY* 可在一条直线上重复三次，指一组水平排列的奖杯；三次重复也可排成三角形，指按三角形排列的奖杯。重复次数更多则指更大的群体。这里同样，象似贡献可以是断言内容，因而在 *if* 从句等逻辑算子辖域内得到解释。
   - id: 130
     kind: body
     source: |-
       **(20)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(20)**
+    step2: |-
+      **(20)**
   - id: 131
     kind: body
     source: |-
       a. *TROPHY* in ASL, repetition on a line: ![The TROPHY sign repeated to the signer's upper left, upper front, and upper right.](../assets/sign-language-semantics/image017.png)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      a. ASL 中的 *TROPHY*，在一条线上重复：![TROPHY 手势依次打在手语者左上方、正前方上方与右上方。](../yuanwen/assets/sign-language-semantics/image017.png)
+    step2: |-
+      a. ASL 中的 *TROPHY*，在一条线上重复：![TROPHY 手势依次打在手语者左上方、正前方上方与右上方。](../yuanwen/assets/sign-language-semantics/image017.png)
   - id: 132
     kind: body
     source: |-
       **b.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **b.**
+    step2: |-
+      **b.**
   - id: 133
     kind: body
     source: |-
       *TROPHY* in ASL, repetition as a triangle: ![The TROPHY sign repeated to the signer's middle left, upper front, and middle right](../assets/sign-language-semantics/image018.png)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *TROPHY* 在 ASL 中，以三角形方式重复：![TROPHY 手势依次打在手语者左中方、正前方上方与右中方](../yuanwen/assets/sign-language-semantics/image018.png)
+    step2: |-
+      *TROPHY* 在 ASL 中，以三角形方式重复：![TROPHY 手势依次打在手语者左中方、正前方上方与右中方](../yuanwen/assets/sign-language-semantics/image018.png)
   - id: 134
     kind: body
     source: |-
       Punctuated (= easy to count) repetitions yield meanings with precise thresholds (often with an ‘exactly’ reading, e.g., ‘exactly three trophies’ for three punctuated iterations); unpunctuated repetitions yield vague thresholds and often ‘at least’ readings (e.g., ‘several trophies’ for three unpunctuated iterations). While one may take the distinction to be conventional, it might have an iconic source. In essence, unpunctuated iterations result in a kind of pictorial vagueness on which the threshold is hard to discern; deriving the full range of ‘exactly’ and ‘at least’ readings is non-trivial, however (Schlenker & Lamberton 2022)[^schlenker-2022].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有停顿（=易于计数）的重复产生具有精确阈值的意义（常有“恰好”读法，如三次有停顿重复指“恰好三个奖杯”）；无停顿重复产生模糊阈值，且常有“至少”读法（如三次无停顿重复指“好几个奖杯”）。人们可以把这一区分当作约定的，但它也可能有象似来源。实质上，无停顿重复造成一种图画式的模糊性，阈值难以辨认；然而，导出“恰好”与“至少”读法的完整范围并非易事（Schlenker & Lamberton 2022）。
+    step2: |-
+      有停顿（=易于计数）的重复产生具有精确阈值的意义（常有“恰好”读法，如三次有停顿重复指“恰好三个奖杯”）；无停顿重复产生模糊阈值，且常有“至少”读法（如三次无停顿重复指“好几个奖杯”）。人们可把这一区分当作约定的，但它也可能有象似来源。实质上，无停顿重复造成一种图画式的模糊性，阈值难以辨认；然而，导出“恰好”与“至少”读法的完整范围并非易事（Schlenker & Lamberton 2022）。
   - id: 135
     kind: body
     source: |-
       In the verbal domain, pluractionals (referring to pluralities of events) can be created by repeating a verb, for instance in LSF and ASL. A complete analysis seems to require both conventionalized grammatical components and iconic components. The form of reduplication—as identical reduplication or as alternating two-handed reduplication—appears to conventionally communicate the distribution of events with respect to either time or to participants. But a productive iconic rule also appears to be involved, as the number and speed of the repetitions gives an idea of the number and speed of the denoted events (Kuhn & Aristodemo 2017)[^aristodemo-2017][^kuhn-2017]; again, the iconic contribution can be at-issue.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在动词域中，复数动作（指事件的复数）可以通过重复动词来创造，例如在 LSF 与 ASL 中。完整的分析似乎既需要约定化的语法成分，也需要象似成分。重叠的形式（完全相同的重叠，或双手交替的重叠）似乎约定地传达事件在时间上或在参与者上的分布。但也似乎涉及一条能产的象似规则，因为重复的次数与速度让人大致了解所指事件的数目与速度（Kuhn & Aristodemo 2017）；同样，象似贡献可以是断言内容。
+    step2: |-
+      在动词域中，复数动作（指事件的复数）可通过重复动词创造，例如在 LSF 与 ASL 中。完整的分析似乎既需要约定化的语法成分，也需要象似成分。重叠的形式（完全相同的重叠，或双手交替的重叠）似乎约定地传达事件在时间上或在参与者上的分布。但也似乎涉及一条能产的象似规则，因为重复的次数与速度让人大致了解所指事件的数目与速度（Kuhn & Aristodemo 2017）；同样，象似贡献可以是断言内容。
   - id: 136
     kind: body
     source: |-
       Iconic plurals and pluractionals alike are now treated by way of mixed lexical entries that include a grammatical/logical component and an iconic component. For instance, if *N* is a (singular) noun denoting a set of entities *S*, then the iconic plural *N*-rep denotes the set of entities *x* such that:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      象似复数与象似复数动作现在都通过混合词项来处理，其中既含语法／逻辑成分，也含象似成分。例如，若 *N* 是表示实体集 *S* 的（单数）名词，则象似复数 *N*-rep 表示满足以下条件的实体 *x* 之集：
+    step2: |-
+      象似复数与象似复数动作现在都通过混合词项处理，其中既含语法／逻辑成分，也含象似成分。例如，若 *N* 是表示实体集 *S* 的（单数）名词，则象似复数 *N*-rep 表示满足以下条件的实体 *x* 之集：
   - id: 137
     kind: body
     source: |-
       1. *x* is the sum of atomic elements in *S* (i.e., $x \in *S$), and
       2. the form of *N*-rep iconically represents *x*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. *x* 是 *S* 中原子元素之和（即 $x \in *S$），且
+      2. *N*-rep 的形式象似地表征 *x*。
+    step2: |-
+      1. *x* 是 *S* 中原子元素之和（即 $x \in *S$），且
+      2. *N*-rep 的形式象似地表征 *x*。
   - id: 138
     kind: body
     source: |-
       Condition (i) is the standard definition of a plural; condition (ii) is the iconic part, which is itself in need of an elucidation using general tools of pictorial semantics (see Section 4).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      条件 (i) 是复数的标准定义；条件 (ii) 是象似部分，它本身需要用图画语义学的一般工具来阐明（见第 4 节）。
+    step2: |-
+      条件 (i) 是复数的标准定义；条件 (ii) 是象似部分，其本身需要用图画语义学的一般工具来阐明（见第 4 节）。
   - id: 139
     kind: body
     source: |-
       ### 3.4 Iconic loci
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.4 象似位点
+    step2: |-
+      ### 3.4 象似位点
   - id: 140
     kind: body
     source: |-
       Loci, which have been hypothesized to be (sometimes) the overt realization of variables, can lead a dual life as iconic representations. Singular loci may (but need not) be simplified pictures of their denotations: if so, a person-denoting locus is a structured area *I*, and pronouns are directed towards a point *i* that corresponds to the upper part of the body. In ASL, when the person is tall, one can thus point upwards (there are also metaphorical cases in which one points upwards because the person is powerful or important). When a person is understood to be in a rotated position, the direction of the pronoun correspondingly changes, as seen in (21) for a person standing upright or hanging upside down (Schlenker 2018a; see also Liddell 2003)[^liddell-2003][^schlenker-2018a].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      位点曾被假设为（有时是）变量的显性实现，也可以过一种双重生活，充当象似表征。单数位点可以（但不必）是其指称对象的简化图画：若如此，指人的位点就是一个结构化的区域 *I*，而代词则指向与身体上部对应的点 *i*。在 ASL 中，当此人个子高时，人们就可以向上指（也有隐喻情形：因为此人有权势或重要而向上指）。当一个人被理解为处于转动的位置时，代词的方向也相应改变，如 (21) 所示，用于一个直立的人或一个倒挂的人（Schlenker 2018a; 亦见 Liddell 2003）。
+    step2: |-
+      位点曾被假设为（有时是）变量的显性实现，也可过一种双重生活，充当象似表征。单数位点可以（但不必）是其指称对象的简化图画：若如此，指人的位点就是一个结构化的区域 *I*，代词则指向与身体上部对应的点 *i*。在 ASL 中，当此人个子高时，人们便可向上指（也有隐喻情形：因此人有权势或重要而向上指）。当一个人被理解为处于转动的位置时，代词方向也相应改变，如 (21) 所示，用于一个直立的人或一个倒挂的人（Schlenker 2018a; 亦见 Liddell 2003）。
   - id: 141
     kind: body
     source: |-
       **(21)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(21)**
+    step2: |-
+      **(21)**
   - id: 142
     kind: body
     source: |-
       An iconic locus schematically representing an upright person (left) or upside down person (right) ![](../assets/sign-language-semantics/image019.png)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个象似位点，示意地表示一个直立的人（左）或倒挂的人（右）![](../yuanwen/assets/sign-language-semantics/image019.png)
+    step2: |-
+      一个象似位点，示意地表示一个直立的人（左）或倒挂的人（右）![](../yuanwen/assets/sign-language-semantics/image019.png)
   - id: 143
     kind: body
     source: |-
       Iconic mappings involving loci may also preserve abstract structural relations that have been posited to exist for various kinds of ontological objects, including mereological relations, total orderings, and domains of quantification.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      涉及位点的象似映射也可能保留人们为各类本体对象设定的抽象结构关系，包括部分—整体关系、总序与量化域。
+    step2: |-
+      涉及位点的象似映射也可能保留人们为各类本体对象设定的抽象结构关系，包括部分—整体关系、总序与量化域。
   - id: 144
     kind: body
     source: |-
       First, two plural loci—indexed over areas of space—may (but need not) express mereological relations diagrammatically, with a locus *a* embedded in a locus *b* if the denotation of *a* is a mereological part of the denotation of *b* (Schlenker 2018a)[^schlenker-2018a]. For example, in (22), the ASL expression *POSS-1 STUDENT* (‘my students’) introduces a large locus (glossed as *ab* to make it clear that it contains subloci *a* and *b*—but initially just a large locus). *MOST* introduces a sublocus *a* within this large locus because the plurality denoted by *a* is a proper part of that denoted by *ab*. And critically, diagrammatic reasoning also makes available a third discourse referent: when a plural pronoun points towards *b*—the complement of the sublocus *a* within the large locus *ab*—the sentence is acceptable, and *b* is understood to refer to the students who did *not* come to class.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      首先，两个复数位点（以空间区域为索引）可以（但不必）以图解方式表达部分—整体关系：若 *a* 的指称是 *b* 的指称的部分—整体部分，则位点 *a* 嵌于位点 *b*。例如在 (22) 中，ASL 表达式 *POSS-1 STUDENT*（‘我的学生’）引入一个大位点（标注为 *ab*，以表明它包含子位点 *a* 与 *b*，但起初只是一个大位点）。*MOST* 在这个大位点内引入子位点 *a*，因为 *a* 所指的复数是大位点 *ab* 所指复数的真部分。关键是，图解推理还使第三个话语指称对象可用：当一个复数代词指向 *b*（即大位点 *ab* 内子位点 *a* 的补）时，句子可接受，且 *b* 被理解为指那些*没有*来上课的学生。
+    step2: |-
+      首先，两个复数位点（以空间区域为索引）可以（但不必）以图解方式表达部分—整体关系：若 *a* 的指称是 *b* 的指称的部分—整体部分，则位点 *a* 嵌于位点 *b*。例如在 (22) 中，ASL 表达式 *POSS-1 STUDENT*（‘我的学生’）引入一个大位点（标注为 *ab*，以表明它包含子位点 *a* 与 *b*，但起初只是一个大位点）。*MOST* 在这个大位点内引入子位点 *a*，因为 *a* 所指的复数是大位点 *ab* 所指复数的真部分。关键是，图解推理还使第三个话语指称对象可用：当一个复数代词指向 *b*（即大位点 *ab* 内子位点 *a* 的补）时，句子可接受，且 *b* 被理解为指那些*没有*来上课的学生。
   - id: 145
     kind: body
     source: |-
       **(22)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(22)**
+    step2: |-
+      **(22)**
   - id: 146
     kind: body
     source: |-
       POSS-1 STUDENT IX-arc-*ab* MOST IX-arc-*a* *a*-COME CLASS. IX-arc-*b* *b*-STAY HOME. ‘Most of my students came to class. They stayed home.’ (ASL, 8, 196)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      POSS-1 STUDENT IX-arc-*ab* MOST IX-arc-*a* *a*-COME CLASS. IX-arc-*b* *b*-STAY HOME. ‘我的大多数学生来上课了。他们待在家里。’（ASL, 8, 196）
+    step2: |-
+      POSS-1 STUDENT IX-arc-*ab* MOST IX-arc-*a* *a*-COME CLASS. IX-arc-*b* *b*-STAY HOME. ‘我的大多数学生来上课了。他们待在家里。’（ASL, 8, 196）
   - id: 147
     kind: body
     source: |-
       **(23)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(23)**
+    step2: |-
+      **(23)**
   - id: 148
     kind: body
     source: |-
       ![small oval containing 'Sublocus a: students that came to class'; larger oval containing the small oval and also the the text 'Complement locus b: students that didn't come'; text outside both 'Large locus ab: (relevant) students'.](../assets/sign-language-semantics/image020.svg)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ![小椭圆内写‘子位点 a：来上课的学生’；较大的椭圆包含小椭圆，并写有‘补位点 b：没来的学生’；两椭圆之外写‘大位点 ab：（相关的）学生’。](../yuanwen/assets/sign-language-semantics/image020.svg)
+    step2: |-
+      ![小椭圆内写‘子位点 a：来上课的学生’；较大的椭圆包含小椭圆，并写有‘补位点 b：没来的学生’；两椭圆之外写‘大位点 ab：（相关的）学生’。](../yuanwen/assets/sign-language-semantics/image020.svg)
   - id: 149
     kind: body
     source: |-
       In English, the plural pronoun *they* clearly lacks such a reading when one says, *Most of my students came to class. They stayed home*, which sounds contradictory. (One can communicate the target interpretation by saying, *The others stayed home*, but *the others* is not a pronoun.) Likewise, in ASL, if the same discourse is uttered using default, non-localized plural pronouns, the pattern of inferences is exactly identical to the English translation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在英语中，当人们说 *Most of my students came to class. They stayed home* 时，复数代词 *they* 显然没有这种读法，这句话听起来自相矛盾。（人们可以说 *The others stayed home* 来传达目标解释，但 *the others* 不是代词。）同样，在 ASL 中，若同一话语使用默认的、非局部化的复数代词说出，推理模式与英语译文完全相同。
+    step2: |-
+      在英语中，人们说 *Most of my students came to class. They stayed home* 时，复数代词 *they* 显然没有这种读法，整句听起来自相矛盾。（人们可说 *The others stayed home* 来传达目标解释，但 *the others* 不是代词。）同样，在 ASL 中，若同一话语使用默认的、非局部化的复数代词说出，推理模式与英语译文完全相同。
   - id: 150
     kind: body
     source: |-
       A second case of preservation of abstract orders pertains to degree-denoting and sometimes time-denoting loci. In LIS, degree-denoting loci are represented iconically, with the total ordering mapped to an axis in space, as described in Section 1.3. Time-denoting loci may but need not give rise to preservation of ordering on an axis, depending on whether normal signing space is used (as in the ASL examples (9) above), or a specific timeline, as mentioned in Section 1.2 in relation to Chinese Sign Language. As in the case of diagrammatic plural pronouns, the spatial ordering of degree- and time-denoting loci generates an iconic inference—beyond the meaning of the words themselves—about the relative degree of a property or temporal order of events.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      保留抽象序的第二个案例涉及指称程度的位点，有时也涉及指称时间的位点。在 LIS 中，指称程度的位点以象似方式表示，总序映射到空间中的一条轴上，如 1.3 节所述。指称时间的位点可以但不必在一条轴上造成序的保留，取决于使用的是常规手势空间（如上述 ASL 例子 (9)）还是特定的时间线（如 1.2 节就中国手语所述）。与图解式复数代词一样，指称程度与时间的位点的空间排序产生一种象似推理——超出词语本身意义——关于性质的相对程度或事件的时间顺序。
+    step2: |-
+      保留抽象序的第二个案例涉及指称程度的位点，有时也涉及指称时间的位点。在 LIS 中，程度位点以象似方式表示，总序映射到空间中的一条轴上，如 1.3 节所述。时间位点可以但不必在一条轴上造成序的保留，取决于使用的是常规手势空间（如上述 ASL 例子 (9)）还是特定时间线（如 1.2 节就中国手语所述）。与图解式复数代词一样，程度与时间位点的空间排序产生一种超出词语本身意义的象似推理：关于性质的相对程度或事件的时间顺序。
   - id: 151
     kind: body
     source: |-
       A third case involves the partial ordering of domain restrictions of nominal quantifiers: greater height in signing space may be mapped to a larger domain of quantification, as is the case in ASL (Davidson 2015)[^davidson-2015] and at least indefinite pronouns in Catalan Sign Language (Barberà 2015)[^barberà-2015].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第三个案例涉及名词量词域限制的偏序：手势空间中更高的位置可以映射到更大的量化域，如 ASL（Davidson 2015）以及至少加泰罗尼亚手语的不定代词（Barberà 2015）所示。
+    step2: |-
+      第三个案例涉及名词量词域限制的偏序：手势空间中更高的位置可映射到更大的量化域，如 ASL（Davidson 2015）以及至少加泰罗尼亚手语的不定代词（Barberà 2015）所示。
   - id: 152
     kind: body
     source: |-
       ## 4. Iconicity II: Classifier Predicates
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 象似性 II：类标记谓语
+    step2: |-
+      ## 4 象似性 II：类标记谓语
   - id: 153
     kind: body
     source: |-
       ### 4.1 The demonstrative analysis of classifier predicates
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 类标记谓语的指示词分析
+    step2: |-
+      ### 4.1 类标记谓语的指示词分析
   - id: 154
     kind: body
     source: |-
       A special construction type, classifier predicates (‘classifiers’ for short), has raised difficult conceptual questions because they involve a combination of conventional and iconic meaning. Classifier predicates are lexical expressions that refer to classes of animate or inanimate entities that share some physical characteristics—e.g., objects with a flat surface, cylindrical objects, upright individuals, sitting individuals, etc. Their form is conventional; for instance, the ASL ‘three’ handshape, depicted below, represents a vehicle. But their position, orientation and movement in signing space is interpreted iconically and gradiently (Emmorey & Herzig 2003)[^emmorey-2003], as illustrated in the translation of the example below.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一类特殊构造，即类标记谓语（简称“类标记”），提出了困难的概念问题，因为它们结合了约定意义与象似意义。类标记谓语是词汇表达式，指称具有某些物理特征的生物或非生物实体类别，如有平面的物体、圆柱形物体、直立的人、坐着的人等。它们的形式是约定的；例如下图所示的 ASL‘三’手形代表车辆。但它们在手势空间中的位置、朝向与移动以象似方式、渐变地解释（Emmorey & Herzig 2003），如下面例子的译文所示。
+    step2: |-
+      一类特殊构造，即类标记谓语（简称“类标记”），提出了困难的概念问题，因为它们结合了约定意义与象似意义。类标记谓语是词汇表达式，指称具有某些物理特征的生物或非生物实体类别，如有平面的物体、圆柱形物体、直立的人、坐着的人等。它们的形式是约定的；例如下图所示的 ASL‘三’手形代表车辆。但它们在手势空间中的位置、朝向与移动以象似方式、渐变地解释（Emmorey & Herzig 2003），如下面例子的译文所示。
   - id: 155
     kind: body
     source: |-
       **(24)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(24)**
+    step2: |-
+      **(24)**
   - id: 156
     kind: body
     source: |-
       CAR CL-vehicle-DRIVE-BY. (ASL, Valli and Lucas 2000) ![right hand with thumb, index, and middle fingers extended moves right to left across the chest](../assets/sign-language-semantics/image022.png) ‘A car drove by [with a movement resembling that of the hand]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      CAR CL-vehicle-DRIVE-BY.（ASL, Valli and Lucas 2000）![右手拇指、食指与中指伸出，横过胸前从右向左移动](../yuanwen/assets/sign-language-semantics/image022.png) ‘一辆汽车驶过［手的移动与此相似］’
+    step2: |-
+      CAR CL-vehicle-DRIVE-BY.（ASL, Valli and Lucas 2000）![右手拇指、食指与中指伸出，横过胸前从右向左移动](../yuanwen/assets/sign-language-semantics/image022.png) ‘一辆汽车驶过［手的移动与此相似］’
   - id: 157
     kind: body
     source: |-
       These constructions have on several occasions been compared to gestures in spoken language, especially to gestures that fully replace some words, as in: *This airplane is about to FLY-take-off*, with the verb replaced with a a hand gesture representing an airplane taking off. But there is an essential difference: classifier predicates are stable parts of the lexicon, gestures are not.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些构造曾多次被比作口语中的手势，尤其是完全取代某些词的手势，如：*This airplane is about to FLY-take-off*，其中动词被一个表示飞机起飞的手势取代。但有本质区别：类标记谓语是词库中稳定的部分，手势则不是。
+    step2: |-
+      这些构造曾多次被比作口语中的手势，尤其是完全取代某些词的手势，如 *This airplane is about to FLY-take-off*，其中动词被一个表示飞机起飞的手势取代。但有本质区别：类标记谓语是词库中稳定的部分，手势则不是。
   - id: 158
     kind: body
     source: |-
       Early semantic analyses, notably by Zucchi 2011 and Davidson 2015, took classifier predicates to have a self-referential demonstrative component, with the result that the moving vehicle classifier in (24) means in essence ‘move like this’, where ‘this’ makes reference to the very form of the classifier movement. As mentioned in Section 2.2, this analysis has been extended to Role Shift by Davidson (Davidson 2015)[^davidson-2015], who took the classifier to be in this case the signer’s rotated body.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      早期语义分析，尤其是 Zucchi 2011 与 Davidson 2015，认为类标记谓语有一个自指的指示词成分，结果是 (24) 中移动的车辆类标记实质上意味着‘像这样移动’，其中‘this’指类标记动作的形式本身。如 2.2 节所述，Davidson 把这一分析扩展到角色转换（Davidson 2015），他认为此处的类标记就是手语者转动后的身体。
+    step2: |-
+      早期语义分析，尤其是 Zucchi 2011 与 Davidson 2015，认为类标记谓语有一个自指的指示词成分，结果是 (24) 中移动的车辆类标记实质上意味着‘像这样移动’，其中‘this’指类标记动作的形式本身。如 2.2 节所述，Davidson 把这一分析扩展到角色转换（Davidson 2015），他认为此处的类标记就是手语者转动后的身体。
   - id: 159
     kind: body
     source: |-
       ### 4.2 The pictorial analysis of classifier predicates
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2 类标记谓语的图画分析
+    step2: |-
+      ### 4.2 类标记谓语的图画分析
   - id: 160
     kind: body
     source: |-
       The demonstrative analysis of classifier predicates as stated has two general drawbacks. First, it establishes a natural class containing classifiers and demonstratives (like English *this*), but the two phenomena possibly display different behaviors. Notably, while demonstratives behave roughly like free variables that can pick up their referent from any of a number of contextual sources, the iconic component of classifiers can only refer to the position/movement and configuration of the hand (any demonstrative variable is thus immediately saturated). Second, the demonstrative analysis currently relegates the iconic component to a black box. Without any interpretive principles on what it means for an event to be ‘like’ the demonstrated representation, one cannot provide any truth conditions for the sentence as a whole.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如上所述的类标记谓语的指示词分析有两个一般缺陷。第一，它建立了一个包含类标记与指示词（如英语 *this*）的自然类，但两种现象可能表现不同。特别是，指示词的行为大致像自由变量，可以从多种语境来源取得其指称对象，而类标记的象似成分只能指手的位置／移动与配置（因此任何指示词变量都立即被饱和）。第二，指示词分析目前把象似成分降入一个黑箱。若没有任何解释原则说明一个事件‘像’所示表征意味着什么，就无法为整个句子提供真值条件。
+    step2: |-
+      如上所述的类标记谓语指示词分析有两个一般缺陷。第一，它建立了一个包含类标记与指示词（如英语 *this*）的自然类，但两种现象可能表现不同。特别是，指示词的行为大致像自由变量，可从多种语境来源取得指称对象，而类标记的象似成分只能指手的位置／移动与配置（因此任何指示词变量都立即被饱和）。第二，指示词分析目前把象似成分降入黑箱。若没有任何解释原则说明一个事件‘像’所示表征意味着什么，就无法为整个句子提供真值条件。
   - id: 161
     kind: body
     source: |-
       Any complete analysis must thus develop an explicit semantics for the iconic component. This is more generally necessary to derive explicit truth conditions from other iconic constructions in sign language, such as the repetition-based plurals discussed in Section 3.3. above: in the metalanguage, the condition *[a certain expression] iconically represents [a certain object]* was in need of explication.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，任何完整的分析都必须为象似成分发展出一套明确的语义学。更一般地说，要从手语中其他象似构造（如上文 3.3 节讨论的基于重复的复数）导出明确的真值条件，这也是必要的：在元语言中，条件*［某表达式］象似地表征［某对象］*需要阐明。
+    step2: |-
+      因此，任何完整的分析都必须为象似成分发展出一套明确的语义学。更一般地说，要从手语中其他象似构造（如上文 3.3 节讨论的基于重复的复数）导出明确的真值条件，这也是必要的：元语言中的条件*［某表达式］象似地表征［某对象］*需要阐明。
   - id: 162
     kind: body
     source: |-
       A recent model has been offered by formal pictorial semantics, developed by Greenberg and Abusch (e.g., Greenberg 2013, 2021; Abusch 2020)[^abusch-2020][^greenberg-2013]. The basic idea is that a picture obtained by a given projection rule (for instance, perspective projection) is true of precisely those situations that can project onto the picture. Greenberg has further extended this analysis with the notion of an object projecting onto a picture part (in addition to a situation projecting onto a whole picture). This notion proves useful for sign language applications because they usually involve partial iconic representations, with one iconic element representing a single object or event in a larger situation. To illustrate, below, the picture in (25a) is true of the situation in (25b), and the left-most shape in the picture in (25a) denotes the top cube in the situation in (25b).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Greenberg 与 Abusch 发展的形式图画语义学提供了一个近期模型（如 Greenberg 2013, 2021; Abusch 2020）。基本观念是：由给定投影规则（如透视投影）得到的图画，恰好对能够投影到该图画上的那些情境为真。Greenberg 进一步用“对象投影到图画部分”（除情境投影到整幅图画之外）这一概念扩展了该分析。这个概念对手语应用很有用，因为手语应用通常涉及部分象似表征，其中一个象似元素代表更大情境中的单个对象或事件。举例来说，下文 (25a) 中的图画对 (25b) 中的情境为真，而 (25a) 图画中最左边的形状指 (25b) 情境中最上面的立方体。
+    step2: |-
+      Greenberg 与 Abusch 发展的形式图画语义学提供了一个近期模型（如 Greenberg 2013, 2021; Abusch 2020）。基本观念是：由给定投影规则（如透视投影）得到的图画，恰好对能够投影到该图画上的那些情境为真。Greenberg 进一步用“对象投影到图画部分”（除情境投影到整幅图画之外）这一概念扩展了该分析。此概念对手语应用很有用，因为手语应用通常涉及部分象似表征，其中一个象似元素代表更大情境中的单个对象或事件。举例来说，下文 (25a) 的图画对 (25b) 的情境为真，而 (25a) 图画中最左边的形状指 (25b) 情境中最上面的立方体。
   - id: 163
     kind: body
     source: |-
       **(25)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(25)**
+    step2: |-
+      **(25)**
   - id: 164
     kind: body
     source: |-
       Illustration of a projection rule relating (parts of) a picture to (objects in) a world. (*Credits:* Gabriel Greenberg) ![Drawing of two cubes with the left (and front) one partially obscuring the back one.](../assets/sign-language-semantics/picture-world-1.svg) (a) Picture ![a two dimensional view of (a) from above labeled 'world w'. On the left is a point labeled 'viewpoint v' on the right are three squares with the top (and left) one corresponding to the left block of (a), a bottom square, and to the right of both a small square. From viewpoint v, two lines extend to the top and bottom corners to the top left square which indicate that part of the bottom square and all of the small square are obscured.](../assets/sign-language-semantics/picture-world-2.svg) (b) Situation
-    step1: TBD
-    step2: TBD
+    step1: |-
+      把（图画的）部分与（世界中的）对象联系起来的投影规则示例。（*图片来源：* Gabriel Greenberg）![两幅立方体图，左边（靠前）的立方体部分遮挡后面的立方体。](../yuanwen/assets/sign-language-semantics/picture-world-1.svg) (a) 图画 ![从上方看的 (a) 的二维视图，标为‘世界 w’。左侧标为‘视点 v’的一点，右侧有三个方块：上方（靠左）的方块对应 (a) 中左边的方块，还有下方一个方块，以及两者右方一个小方块。从视点 v 引出两条线，延伸到左上方方块的上下角，表明下方方块的一部分与小方块全部被遮挡。](../yuanwen/assets/sign-language-semantics/picture-world-2.svg) (b) 情境
+    step2: |-
+      把（图画的）部分与（世界中的）对象联系起来的投影规则示例。（*图片来源：* Gabriel Greenberg）![两幅立方体图，左边（靠前）的立方体部分遮挡后面的立方体。](../yuanwen/assets/sign-language-semantics/picture-world-1.svg) (a) 图画 ![从上方看的 (a) 的二维视图，标为‘世界 w’。左侧标为‘视点 v’的一点，右侧有三个方块：上方（靠左）的方块对应 (a) 中左边的方块，还有下方一个方块，以及两者右方一个小方块。从视点 v 引出两条线，延伸到左上方方块的上下角，表明下方方块的一部分与小方块全部被遮挡。](../yuanwen/assets/sign-language-semantics/picture-world-2.svg) (b) 情境
   - id: 165
     kind: body
     source: |-
       The full account makes reference to a notion of viewpoint relative to which perspective projection is assessed, and a picture plane, both represented in (25b). This makes it possible to say that the top cube (top-cube) projects onto the left-hand shape (left-shape) relative to the viewpoint (call it π), at the time *t* and in the world *w* in which the projection is assessed. In brief:
 
       $$ \textrm{proj}(\textrm{top-cube}, \pi, t, w) = \textrm{left-shape}. $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      完整说明涉及视点（透视投影相对于它来评估）与图画平面这两个概念，(25b) 中均有表示。由此可以说明：最上面的立方体（top-cube）相对于视点（记作 π）、在评估投影的时间 *t* 与世界 *w* 中，投影到左边的形状（left-shape）上。简言之：
+
+      $$ \textrm{proj}(\textrm{top-cube}, \pi, t, w) = \textrm{left-shape}. $$
+    step2: |-
+      完整说明涉及视点（透视投影相对于它来评估）与图画平面这两个概念，(25b) 中均有表示。由此可以说明：最上面的立方体（top-cube）相对于视点（记作 π）、在评估投影的时间 *t* 与世界 *w* 中，投影到左边的形状（left-shape）上。简言之：
+
+      $$ \textrm{proj}(\textrm{top-cube}, \pi, t, w) = \textrm{left-shape}. $$
   - id: 166
     kind: body
     source: |-
       Classifier predicates (as well as other iconic constructions, such as repetition-based plurals) may be analyzed with a version of pictorial semantics to explicate the truth-conditional contribution of iconic elements.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      类标记谓语（以及其他象似构造，如基于重复的复数）可以用图画语义学的一个版本来分析，以阐明象似元素的真值条件贡献。
+    step2: |-
+      类标记谓语（以及其他象似构造，如基于重复的复数）可用图画语义学的一个版本来分析，以阐明象似元素的真值条件贡献。
   - id: 167
     kind: body
     source: |-
       To illustrate, consider a pair of minimally different words in ASL that can be translated as ‘airplane’: one is a normal noun, glossed as *PLANE*, and the other is a classifier predicate, glossed below as *PLANE-cl*. Both forms involve the handshape in (26), but the normal noun includes a tiny repetition (different from that of plurals) which is characteristic of some nominals in ASL. As we will see, the position of the classifier version is interpreted iconically (‘an airplane in position such and such’), whereas the nominal version need not be.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      举例来说，考虑 ASL 中一对最小差异的词，都可译为“飞机”：一个是普通名词，标注为 *PLANE*；另一个是类标记谓语，下文标注为 *PLANE-cl*。两种形式都涉及 (26) 的手形，但普通名词包含一次微小的重复（不同于复数重复），这是 ASL 某些名词的特征。我们将看到，类标记版本的位置以象似方式解释（‘一架处于如此这般位置的飞机’），而名词版本则不必如此。
+    step2: |-
+      举例来说，考虑 ASL 中一对最小差异的词，都可译为“飞机”：一个是普通名词，标注为 *PLANE*；另一个是类标记谓语，下文标注为 *PLANE-cl*。两种形式都涉及 (26) 的手形，但普通名词包含一次微小重复（不同于复数重复），这是 ASL 某些名词的特征。我们将看到，类标记版本的位置以象似方式解释（‘一架处于如此这般位置的飞机’），名词版本则不必如此。
   - id: 168
     kind: body
     source: |-
       **(26)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(26)**
+    step2: |-
+      **(26)**
   - id: 169
     kind: body
     source: |-
       Handshape for both (i) ASL *PLANE* (= nominal version) and (ii) ASL *PLANE-cl* (= classifier predicate version). (*Credits:* J. Kuhn) ![hand with thumb, index, and little fingers extended and other two not.](../assets/sign-language-semantics/image026.png)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      同时用于 (i) ASL *PLANE*（=名词版本）与 (ii) ASL *PLANE-cl*（=类标记谓语版本）的手形。（*图片来源：* J. Kuhn）![拇指、食指与小指伸出、其余两指收拢的手。](../yuanwen/assets/sign-language-semantics/image026.png)
+    step2: |-
+      同时用于 (i) ASL *PLANE*（=名词版本）与 (ii) ASL *PLANE-cl*（=类标记谓语版本）的手形。（*图片来源：* J. Kuhn）![拇指、食指与小指伸出、其余两指收拢的手。](../yuanwen/assets/sign-language-semantics/image026.png)
   - id: 170
     kind: body
     source: |-
       Semantically, the difference between the two forms is that only the classifier generates obligatory iconic inferences about the plane’s configuration and movement. This has clear semantic consequences when several classifier predicates occur in the same sentence. In (27b), two tokens of *PLANE-cl* appear in positions *a* and *b*, and as the video makes clear, the two classifiers are signed close to each other and in parallel. As a result, the sentence only makes an assertion about cases in which two airplanes take off next to each other or side by side. In contrast, with a normal noun in (27a), the assertion is that there is danger whenever two airplanes take off at the same time, irrespective of how close the two airplanes are, or how they are oriented relative to each other.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在语义上，两种形式的区别在于：只有类标记会产生关于飞机配置与移动的强制象似推理。当同一句中出现多个类标记谓语时，这有清楚的语义后果。在 (27b) 中，两个 *PLANE-cl* 记号出现在位置 *a* 与 *b*，如视频所示，两个类标记彼此靠近平行打出。结果是，该句只对两架飞机彼此相邻或并排起飞的情形作出断言。相反，(27a) 用普通名词，断言的是：每当两架飞机同时起飞，无论两架飞机相距多近、彼此相对朝向如何，都有危险。
+    step2: |-
+      在语义上，两种形式的区别在于：只有类标记会产生关于飞机配置与移动的强制象似推理。同一句中出现多个类标记谓语时，这有清楚的语义后果。在 (27b) 中，两个 *PLANE-cl* 记号出现在位置 *a* 与 *b*，如视频所示，两个类标记彼此靠近平行打出。结果是，该句只对两架飞机彼此相邻或并排起飞的情形作出断言。相反，(27a) 用普通名词，断言的是：每当两架飞机同时起飞，无论相距多近、彼此朝向如何，都有危险。
   - id: 171
     kind: body
     source: |-
       **(27)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(27)**
+    step2: |-
+      **(27)**
   - id: 172
     kind: body
     source: |-
       HERE ANYTIME __ SAME-TIME TAKE-OFF, DANGEROUS. ‘Here, whenever ___ take off at the same time, there is danger.’ a. ⁷PLANE_{*a*} PLANE_{*b*} ‘two planes’
-    step1: TBD
-    step2: TBD
+    step1: |-
+      HERE ANYTIME __ SAME-TIME TAKE-OFF, DANGEROUS. ‘在这里，每当 ___ 同时起飞，就有危险。’ a. ⁷PLANE_{*a*} PLANE_{*b*} ‘两架飞机’
+    step2: |-
+      HERE ANYTIME __ SAME-TIME TAKE-OFF, DANGEROUS. ‘在这里，每当 ___ 同时起飞，就有危险。’ a. ⁷PLANE_{*a*} PLANE_{*b*} ‘两架飞机’
   - id: 173
     kind: body
     source: |-
       **b.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **b.**
+    step2: |-
+      **b.**
   - id: 174
     kind: body
     source: |-
       ⁷PLANE-cl_{*a*} PLANE-cl_{*b*} ‘two planes side by side/next to each other’
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ⁷PLANE-cl_{*a*} PLANE-cl_{*b*} ‘两架飞机并排／彼此相邻’
+    step2: |-
+      ⁷PLANE-cl_{*a*} PLANE-cl_{*b*} ‘两架飞机并排／彼此相邻’
   - id: 175
     kind: body
     source: |-
       To capture these differences, one can posit the following lexical entries for the normal noun and for its classifier predicate version. Importantly, the interpretation of *PLANE-cl* in (28b) is defined for a particular token of the sign (not a type), produced with a phonetic realization Φ.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为捕捉这些差异，可以为普通名词及其类标记谓语版本设定如下词项。重要的是，(28b) 中 *PLANE-cl* 的解释是针对该手势的一个特定记号（而非类型）定义的，该记号以语音实现 Φ 打出。
+    step2: |-
+      为捕捉这些差异，可为普通名词及其类标记谓语版本设定如下词项。重要的是，(28b) 中 *PLANE-cl* 的解释针对该手势的一个特定记号（而非类型）定义，该记号以语音实现 Φ 打出。
   - id: 176
     kind: body
     source: |-
       **(28)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(28)**
+    step2: |-
+      **(28)**
   - id: 177
     kind: body
     source: |-
       For a context *c*, time of evaluation *t* and world of evaluation *w*: a. PLANE, normal noun [[PLANE]] ^{*c,t,w*} = $\lambda x_{e}$ . plane'_{*t,w*}(*x*)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对于语境 *c*、评估时间 *t* 与评估世界 *w*：a. PLANE，普通名词 [[PLANE]] ^{*c,t,w*} = $\lambda x_{e}$ . plane'_{*t,w*}(*x*)
+    step2: |-
+      对于语境 *c*、评估时间 *t* 与评估世界 *w*：a. PLANE，普通名词 [[PLANE]] ^{*c,t,w*} = $\lambda x_{e}$ . plane'_{*t,w*}(*x*)
   - id: 178
     kind: body
     source: |-
       **b.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **b.**
+    step2: |-
+      **b.**
   - id: 179
     kind: body
     source: |-
       PLANE-cl$_{\Phi}$, classifier predicate [token with phonetic realization $\Phi$] [[PLANE-cl$_{\Phi}$]]^{*c,t,w*} = $\lambda x_{e}$ . plane'_{*t,w*}(x) and $\boldsymbol{\textbf{proj}(x, \pi_{c}, t, w) = \Phi}$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      PLANE-cl$_{\Phi}$，类标记谓语［以语音实现 $\Phi$ 打出的记号］ [[PLANE-cl$_{\Phi}$]]^{*c,t,w*} = $\lambda x_{e}$ . plane'_{*t,w*}(x) and $\boldsymbol{\textbf{proj}(x, \pi_{c}, t, w) = \Phi}$
+    step2: |-
+      PLANE-cl$_{\Phi}$，类标记谓语［以语音实现 $\Phi$ 打出的记号］ [[PLANE-cl$_{\Phi}$]]^{*c,t,w*} = $\lambda x_{e}$ . plane'_{*t,w*}(x) and $\boldsymbol{\textbf{proj}(x, \pi_{c}, t, w) = \Phi}$
   - id: 180
     kind: body
     source: |-
       Evaluation is relative to a context c that provides the viewpoint, $\pi_{c}$. In the lexical entry for the normal noun in (28a), plane'_{*t,w*} is a (metalanguage) predicate of individuals that applies to anything that is an airplane at *t* in *w*. The classifier predicate has the lexical entry in (28b). It has the same conventional component as the normal noun, but adds to it an (iconic) projective condition: for a token of the predicate *PLANE-cl* to be true of an object *x*, *x* should project onto this very token.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      求值相对于提供视点 $\pi_{c}$ 的语境 c。在 (28a) 普通名词的词项中，plane'_{*t,w*} 是个体的（元语言）谓语，适用于在 *t* 时于 *w* 中为飞机的任何东西。类标记谓语有 (28b) 的词项。它与普通名词有相同的约定成分，但增加了一个（象似）投影条件：要使谓语 *PLANE-cl* 的一个记号对对象 *x* 为真，*x* 应当投影到这个记号上。
+    step2: |-
+      求值相对于提供视点 $\pi_{c}$ 的语境 c。在 (28a) 普通名词的词项中，plane'_{*t,w*} 是个体的（元语言）谓语，适用于在 *t* 时于 *w* 中为飞机的任何东西。类标记谓语有 (28b) 的词项。它与普通名词有相同的约定成分，但增加了一个（象似）投影条件：要使谓语 *PLANE-cl* 的一个记号对对象 *x* 为真，*x* 应当投影到这个记号上。
   - id: 181
     kind: body
     source: |-
