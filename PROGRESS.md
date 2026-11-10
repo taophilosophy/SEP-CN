@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-10 01:48（UTC）
+生成时间：2026-11-10 01:56（UTC）
 
 ## 总览
 
@@ -12,10 +12,10 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1174|
+|已建任务|1175|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|273|
-|在途（drafted 起、done 前）|224|
+|已完成（done）|275|
+|在途（drafted 起、done 前）|223|
 |阻塞|0|
 
 ## 任务状态分布
@@ -23,13 +23,13 @@
 |状态|数量|
 |---|---|
 |pending|677|
-|cleared|151|
+|cleared|152|
 |drafted|3|
 |s1_checked|1|
-|s3_checked|65|
+|s3_checked|63|
 |r1_reviewed|3|
 |r2_reviewed|1|
-|done|273|
+|done|275|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -37,7 +37,7 @@
 |---|---|---|---|---|
 |A|160|160|160|57|
 |B|62|62|62|15|
-|C|172|172|172|15|
+|C|172|172|172|16|
 |D|92|92|92|12|
 |E|99|99|99|19|
 |F|96|96|96|1|
@@ -46,7 +46,7 @@
 |I|75|75|75|22|
 |J|38|38|38|9|
 |K|36|36|36|21|
-|L|144|144|29|27|
+|L|144|144|30|28|
 |M|139|139|14|6|
 |N|50|50|7|4|
 |O|21|21|11|8|
@@ -140,7 +140,6 @@
 |closure-epistemic|retranslate|s3_checked|C-main-20261108c 2026-11-08|
 |collingwood-aesthetics|retranslate|s3_checked|主代理 2026-11-01|
 |colonialism|retranslate|s3_checked|C-main-20261107 2026-11-07|
-|computability|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |concept-emotion-india|retranslate|s3_checked|主代理 2026-11-01|
 |conceptual-art|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |confucius|retranslate|s3_checked|主代理 2026-11-01|
@@ -263,8 +262,8 @@
 |korean-confucianism|retranslate|s3_checked|K-main-20261108b 2026-11-08|
 |kukai|retranslate|cleared|task_ops 2026-11-01|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
-|logic-linear|retranslate|s3_checked|L-main-20261109c 2026-11-10|
 |logic-massexpress|retranslate|s3_checked|L-main-20261109c 2026-11-10|
+|logic-substructural|retranslate|cleared|task_ops 2026-11-10|
 |mandeville|retranslate|s3_checked|M-main-20261108 2026-11-08|
 |marsilius-padua|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |model-organisms|retranslate|s3_checked|M-main-20261109 2026-11-09|

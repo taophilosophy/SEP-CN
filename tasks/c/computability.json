@@ -2,7 +2,7 @@
   "slug": "computability",
   "kind": "retranslate",
   "zh_doc": "c/computability.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "ABCDE-main-20261103",
       "at": "2026-11-02T18:23:02Z",
       "evidence": "check_style 0 issue（补译段加粗空格合规）；check_math 0 unbalanced（公式显示块经去重后逐一核对）；check_academic --strict 0 硬错误（门禁实拦）；其他网络资源 2 项与相关词条 9 项已汉化（阿隆佐·邱奇|邱奇-图灵论题|计算复杂性理论|库尔特·哥德尔|量子计算|递归函数|集合论|艾伦·图灵|图灵机）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-10T01:56:43Z",
+      "evidence": "r1 校订：pubinfo 改斜体；重复首现括注删除（L9 邱奇/哥德尔，L5 已括注）；Entscheidungsproblem 斜体补齐并删掉重复的（判定问题）括注 3 处；第 $i$ᵗʰ 个程序→第 $i$ 个程序；$\\mu[f$] 括号残缺补全；$E$(0,0)→$E(0,0)$ 等 3 处公式包裹；$\\tau$(w)…$ 拆散的内联公式合并；超指数塔句补出原文「with a tower of n 2s」之义；经费德→因费德；P 对 NP→P 与 NP；图前补源文斜体图题（改加粗以合中文强调规范）；NP 笔误译注改为「译注：」体；补登人名 9 行"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-10T01:56:43Z",
+      "evidence": "r2 prose 11→0：de-chain 9、long-sentence 2 全部改写（L5/L13/L15/L42/L44/L77/L157/L190/L203/L219/L249），含术语并列句与公式句的链式「的」拆解，无引文豁免"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-10T01:56:43Z",
+      "evidence": "r3 复验：h2 8:8、h3 7:7、脚注定义 45:45 键集一致、H1 与 SUMMARY 一致、$ 定界符偶数平衡（778/778）、加粗偶数、无直角引号；prose 0、style 0（图题改加粗后）、terms 0、academic 硬错误 0"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-10T01:56:44Z",
+      "evidence": "C 批 done 并入：三校全绿；9 行人名补登入库"
     }
   ],
   "blockers": [],
