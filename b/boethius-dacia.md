@@ -54,7 +54,7 @@
 8. \* *De somniis*（《论梦》）。无疑基于已散佚的《论睡眠与觉醒》问答（即上文自然哲学部分第 7 项）。版本：Niels Jørgen Green-Pedersen 编，收入*CPhD* VI.2，1976 年。有丹麦语译本（Green-Pedersen 2001）[^green-pedersen-2001]、英语译本（Wippel 1987）[^wippel-1987]、意大利语译本（Sannelli 1997）[^sannelli-1997]。
 9. † *Quaestiones super librum De animalibus*。
 10. § *Quaestiones super librum De plantis et vegetabilibus*。
-11. \*§ *De aeternitate mundi*（《论世界的永恒》，“*De aetern.*”）。版本：Niels Jørgen Green-Pedersen 编，收入*CPhD* VI.2，1976 年。有丹麦语译本（Green-Pedersen 2001）[^green-pedersen-2001]、英语译本（Wippel 1987）[^wippel-1987]、德语译本（Nicki 2000）[^nicki-2000]、意大利语译本（Bianchi 2003）[^bianchi-2003]、葡萄牙语译本（Santiago de Carvalho 1996）[^santiago-1996]。
+11. \*§ *De aeternitate mundi*（“*De aetern.*”，《论世界的永恒》）。版本：Niels Jørgen Green-Pedersen 编，收入*CPhD* VI.2，1976 年。有丹麦语译本（Green-Pedersen 2001）[^green-pedersen-2001]、英语译本（Wippel 1987）[^wippel-1987]、德语译本（Nicki 2000）[^nicki-2000]、意大利语译本（Bianchi 2003）[^bianchi-2003]、葡萄牙语译本（Santiago de Carvalho 1996）[^santiago-1996]。
 
 ### 形而上学
 
@@ -372,6 +372,6 @@
 
 ## 相关词条
 
-艾尔伯图斯·麦格努斯（大阿尔伯特） | 托马斯·阿奎那 | 1277 年巴黎谴责 | 存在 | 信仰 | 自由意志 | 方丹的戈弗雷 | 幸福 | 伊本·鲁世德 | 布拉班特的西格尔 | 使真者
+大阿尔伯特 | 托马斯·阿奎那 | 1277 年巴黎谴责 | 存在 | 信仰 | 自由意志 | 方丹的戈弗雷 | 幸福 | 伊本·鲁世德 | 布拉班特的西格尔 | 使真者
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

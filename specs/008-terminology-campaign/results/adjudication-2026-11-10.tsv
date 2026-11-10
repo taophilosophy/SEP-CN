@@ -1,0 +1,333 @@
+idx	table	term	line	现译	判定	亦作	理由	说明
+000	术语	a priori	17	先天（康德传统；与“先验”transzendental 相区分）；logical	N2		英文对上但学科为跨域同名，保留现译
+001	术语	ableism	30	能力主义	P3		命中仅维基来源（禁作依据），保留现译
+002	术语	abstractum / abstracta	46	抽象物	N1		模糊匹配污染，命中与查询词元不符
+003	术语	acceptance system	50	接受系统	N2		英文对上但学科为跨域同名，保留现译
+004	术语	accidents	59	偶性	N1		模糊匹配污染，命中与查询词元不符
+005	术语	actualist	77	实际论	N1		模糊匹配污染，命中与查询词元不符
+006	术语	ad hoc	79	特设性的	K		人工判读：跨域/词序不同/同义异形，保留现译
+007	术语	adharma（静止媒介）	88	静止之媒介	N1		模糊匹配污染，命中与查询词元不符
+008	术语	admissible set	91	可容许集	N2		英文对上但学科为跨域同名，保留现译
+009	术语	aesthetic adjectives	96	审美形容词	N1		模糊匹配污染，命中与查询词元不符
+010	术语	aesthetic experience	101	审美经验（亦作“审美体验”）	P1		审定命中为下位词（复合限定形），不改主译
+011	术语	aesthetic intuition	103	审美直观	K		人工判读：跨域/词序不同/同义异形，保留现译
+012	术语	aesthetic protectionism	106	审美保护主义	N1		模糊匹配污染，命中与查询词元不符
+013	术语	aesthetic spectator	107	审美旁观者	N1		模糊匹配污染，命中与查询词元不符
+014	术语	affected ignorance	115	故作无知	N1		模糊匹配污染，命中与查询词元不符
+015	术语	affectedness (Betroffenheit)	116	受触动	N1		模糊匹配污染，命中与查询词元不符
+016	术语	affection	117	情意（affectiones：源于意志/智性欲求的心灵倾向；爱德华兹 Relig	K		人工判读：跨域/词序不同/同义异形，保留现译
+017	术语	affectual intuitionism	119	情感直觉主义	N1		模糊匹配污染，命中与查询词元不符
+018	术语	agent（奥克肖特实践哲学）	133	能动者	N1		模糊匹配污染，命中与查询词元不符
+019	术语	allegory	167	寓言	Y	讽喻	人工判读：同概念且学科相符，记亦作；主译保留
+020	术语	Analects / Lun yu / Lunyu	185	《论语》	N2		英文对上但学科为跨域同名，保留现译
+021	术语	anarchy（国际关系）	203	无政府状态（国际关系语境；与 anarchism 无政府主义分义）	N1		模糊匹配污染，命中与查询词元不符
+022	术语	aretê	285	德性（亦作“卓越”）	N1		模糊匹配污染，命中与查询词元不符
+023	术语	Aristotelianism	293	亚里士多德主义	N1		模糊匹配污染，命中与查询词元不符
+024	术语	arithmetical completeness/soundness	294	算术完全性／算术可靠性	N1		模糊匹配污染，命中与查询词元不符
+025	术语	assignment	319	指派	N2		英文对上但学科为跨域同名，保留现译
+026	术语	authenticity	353	本真性	K		人工判读：跨域/词序不同/同义异形，保留现译
+027	术语	avatar	363	化身	N2		英文对上但学科为跨域同名，保留现译
+028	术语	Axiom of Reducibility	375	可还原性公理	Y	还原公理	人工判读：同概念且学科相符，记亦作；主译保留
+029	术语	barbarism	410	野蛮（对个体性的否认）	N2		英文对上但学科为跨域同名，保留现译
+030	术语	basic action	415	基本行动	N2		英文对上但学科为跨域同名，保留现译
+031	术语	belief function	439	信念函数	N2		英文对上但学科为跨域同名，保留现译
+032	术语	Bell inequalities	445	贝尔不等式	N1		模糊匹配污染，命中与查询词元不符
+033	术语	beneficence	449	行善	Y	有利	人工判读：同概念且学科相符，记亦作；主译保留
+034	术语	bijection	463	双射	N1		模糊匹配污染，命中与查询词元不符
+035	术语	binder	465	约束子	N2		英文对上但学科为跨域同名，保留现译
+036	术语	biofact	467	生物人工物	N1		模糊匹配污染，命中与查询词元不符
+037	术语	biological information	468	生物信息	N2		英文对上但学科为跨域同名，保留现译
+038	术语	bit commitment	475	比特承诺	P1		审定命中为下位词（复合限定形），不改主译
+039	术语	blob	484	团块	N2		英文对上但学科为跨域同名，保留现译
+040	术语	bodily experience	487	身体经验	N2		英文对上但学科为跨域同名，保留现译
+041	术语	body plan	491	体型蓝图（亦作“身体蓝图”）	N2		英文对上但学科为跨域同名，保留现译
+042	术语	bona fide	498	真实的	N2		英文对上但学科为跨域同名，保留现译
+043	术语	bundle theory	524	束理论	N2		英文对上但学科为跨域同名，保留现译
+044	术语	burhān al-taṭābuq / al-taṭbīq	527	映射论证（Mapping Argument）	N1		模糊匹配污染，命中与查询词元不符
+045	术语	canon	539	咏礼司铎	N2		英文对上但学科为跨域同名，保留现译
+046	术语	cardinal virtues	549	四枢德	K		人工判读：跨域/词序不同/同义异形，保留现译
+047	术语	causal explanation	576	因果说明	P1		审定命中为下位词（复合限定形），不改主译
+048	术语	Celestial Masters	587	天师道	N1		模糊匹配污染，命中与查询词元不符
+049	术语	ceteris paribus	597	其余条件相同	K		人工判读：跨域/词序不同/同义异形，保留现译
+050	术语	Chancellor	602	总务长	N1		模糊匹配污染，命中与查询词元不符
+051	术语	channel theory	604	信道论	N2		英文对上但学科为跨域同名，保留现译
+052	术语	characteristic value	608	特征价值	N2		英文对上但学科为跨域同名，保留现译
+053	术语	chimera	614	客迈拉	N2		英文对上但学科为跨域同名，保留现译
+054	术语	chimera（生物医学语境）	615	嵌合体	N1		模糊匹配污染，命中与查询词元不符
+055	术语	Chinese Room	619	中文屋（审定作“中文屋论证”）	K		人工判读：跨域/词序不同/同义异形，保留现译
+056	术语	chŏnghye ssangsu（定慧雙修）	624	定慧双修	N1		模糊匹配污染，命中与查询词元不符
+057	术语	ch’e-yong（體用）	634	体用	N1		模糊匹配污染，命中与查询词元不符
+058	术语	classical information	656	经典信息	N2		英文对上但学科为跨域同名，保留现译
+059	术语	classical limit	657	古典极限	N2		英文对上但学科为跨域同名，保留现译
+060	术语	closed theory	666	封闭理论	N2		英文对上但学科为跨域同名，保留现译
+061	术语	cluster concept	669	簇概念；logical-consequence	K		人工判读：跨域/词序不同/同义异形，保留现译
+062	术语	CNOT gate	670	受控非门	N2		英文对上但学科为跨域同名，保留现译
+063	术语	coherence	682	融贯	K		人工判读：跨域/词序不同/同义异形，保留现译
+064	术语	coherence theory of truth	685	真理融贯论	K		人工判读：跨域/词序不同/同义异形，保留现译
+065	术语	common causes	701	共同原因	N1		模糊匹配污染，命中与查询词元不符
+066	术语	conceptualism	754	概念论	Y	概念主义	人工判读：同概念且学科相符，记亦作；主译保留
+067	术语	concrete objects	763	具体对象	N2		英文对上但学科为跨域同名，保留现译
+068	术语	concrete utopia	765	具体乌托邦	K		人工判读：跨域/词序不同/同义异形，保留现译
+069	术语	conditional independence	774	条件独立	P1		审定命中为下位词（复合限定形），不改主译
+070	术语	confirmation theory	782	确证理论	K		人工判读：跨域/词序不同/同义异形，保留现译
+071	术语	connectedness	793	相连感	N2		英文对上但学科为跨域同名，保留现译
+072	术语	conscious experience	802	意识经验	N2		英文对上但学科为跨域同名，保留现译
+073	术语	context of discovery/context of justification	836	发现语境／辩护语境	K		人工判读：跨域/词序不同/同义异形，保留现译
+074	术语	continuum	843	连续体	N2		英文对上但学科为跨域同名，保留现译
+075	术语	contract theory	846	契约论	N2		英文对上但学科为跨域同名，保留现译
+076	术语	contractarian	847	契约主义者	N1		模糊匹配污染，命中与查询词元不符
+077	术语	contractarianism	848	自利契约论（正文亦作“契约主义”）	N1		模糊匹配污染，命中与查询词元不符
+078	术语	contractualism	851	非自利契约论	N1		模糊匹配污染，命中与查询词元不符
+079	术语	converse	863	换位（互为换位）	P3		命中仅维基来源（禁作依据），保留现译
+080	术语	corporate enterprise	879	公司式事业	N2		英文对上但学科为跨域同名，保留现译
+081	术语	correspondence theory of truth	890	真理符合论	K		人工判读：跨域/词序不同/同义异形，保留现译
+082	术语	cost-benefit analysis	902	成本—收益分析	N2		英文对上但学科为跨域同名，保留现译
+083	术语	CP-net	919	CP 网（条件偏好网络）	N1		模糊匹配污染，命中与查询词元不符
+084	术语	cultural rights	942	文化权利	N2		英文对上但学科为跨域同名，保留现译
+085	术语	dactylic hexameter	958	扬抑抑六音步	N1		模糊匹配污染，命中与查询词元不符
+086	术语	Dao	961	道	N2		英文对上但学科为跨域同名，保留现译
+087	术语	de dicto	974	言语性的（de dicto）	K		人工判读：跨域/词序不同/同义异形，保留现译
+088	术语	de re	982	对象性的（de re）	K		人工判读：跨域/词序不同/同义异形，保留现译
+089	术语	deceased donor	992	已故捐献者	N2		英文对上但学科为跨域同名，保留现译
+090	术语	decolonization	1001	去殖民化	K		人工判读：跨域/词序不同/同义异形，保留现译
+091	术语	deductivism	1009	演绎主义	N1		模糊匹配污染，命中与查询词元不符
+092	术语	Default Mode Network	1011	默认模式网络	N2		英文对上但学科为跨域同名，保留现译
+093	术语	definiens / definiendum / definitional basis	1018	能表（定义项）／所表（被定义项）／表基（定义基处）	K		人工判读：跨域/词序不同/同义异形，保留现译
+094	术语	degenerating research programme	1021	退化的研究纲领	K		人工判读：跨域/词序不同/同义异形，保留现译
+095	术语	delectatio	1027	愉悦	N1		模糊匹配污染，命中与查询词元不符
+096	术语	dense-in-itself	1038	自密的	N2		英文对上但学科为跨域同名，保留现译
+097	术语	denumerably infinite	1039	可数无穷	N1		模糊匹配污染，命中与查询词元不符
+098	术语	developmental constraint	1059	发育约束	N2		英文对上但学科为跨域同名，保留现译
+099	术语	dictum	1084	所述	N1		模糊匹配污染，命中与查询词元不符
+100	术语	dictum (Abelard)	1085	所言（阿伯拉尔）	N1		模糊匹配污染，命中与查询词元不符
+101	术语	direct / indirect realization（dngos rtogs / shugs rtogs）	1101	直证／间接证	N2		英文对上但学科为跨域同名，保留现译
+102	术语	direct reference	1104	直接指称	N2		英文对上但学科为跨域同名，保留现译
+103	术语	disinformation	1121	虚假信息	N2		英文对上但学科为跨域同名，保留现译
+104	术语	disjunctive proposition	1126	选言命题	N1		模糊匹配污染，命中与查询词元不符
+105	术语	disjunctive syllogism	1127	析取三段论	N1		模糊匹配污染，命中与查询词元不符
+106	术语	divine intellect	1156	神圣理智（亦作“神性理智”）	N1		模糊匹配污染，命中与查询词元不符
+107	术语	docta ignorantia	1160	有学问的无知	N1		模糊匹配污染，命中与查询词元不符
+108	术语	doctrina gentium	1161	异教教义	N1		模糊匹配污染，命中与查询词元不符
+109	术语	Dutch book	1201	荷兰赌	K		人工判读：跨域/词序不同/同义异形，保留现译
+110	术语	ECQ (ex contradictione quodlibet)	1228	爆炸原理（从矛盾可任意推出）	N1		模糊匹配污染，命中与查询词元不符
+111	术语	efficacy	1232	实效	N2		英文对上但学科为跨域同名，保留现译
+112	术语	egg donor	1236	卵子捐赠者	N2		英文对上但学科为跨域同名，保留现译
+113	术语	embryo twinning / embryo splitting	1260	胚胎孪生／胚胎分裂	N1		模糊匹配污染，命中与查询词元不符
+114	术语	empirically equivalent	1271	经验等价的（亦作“经验等价”；审定名词作“经验等价的理论”）	K		人工判读：跨域/词序不同/同义异形，保留现译
+115	术语	emptiness	1273	空性	N2		英文对上但学科为跨域同名，保留现译
+116	术语	endophenotype	1283	内表型	N2		英文对上但学科为跨域同名，保留现译
+117	术语	Enlightenment	1289	启蒙（时代名，视语境亦作「启蒙运动」）	K		人工判读：跨域/词序不同/同义异形，保留现译
+118	术语	entanglement	1295	纠缠	N2		英文对上但学科为跨域同名，保留现译
+119	术语	environmental ethics	1306	环境伦理学	K		人工判读：跨域/词序不同/同义异形，保留现译
+120	术语	epistemology of belief / of degrees of belief	1343	信念的认识论／信念度的认识论	N1		模糊匹配污染，命中与查询词元不符
+121	术语	equivocation	1353	歧义（同名异义）	N2		英文对上但学科为跨域同名，保留现译
+122	术语	ether	1388	以太	N2		英文对上但学科为跨域同名，保留现译
+123	术语	ethical intuitionism	1391	伦理直觉主义	K		人工判读：跨域/词序不同/同义异形，保留现译
+124	术语	evaluation system	1403	评价系统	K		人工判读：跨域/词序不同/同义异形，保留现译
+125	术语	expected value	1454	期望价值	N2		英文对上但学科为跨域同名，保留现译
+126	术语	explanans	1460	解释项	Y	说明项	人工判读：同概念且学科相符，记亦作；主译保留
+127	术语	explanatory power	1466	说明力	Y	说明能力	人工判读：同概念且学科相符，记亦作；主译保留
+128	术语	explicit definition	1470	显式定义	Y	显定义	人工判读：同概念且学科相符，记亦作；主译保留
+129	术语	extended fiction	1481	扩展虚构	N1		模糊匹配污染，命中与查询词元不符
+130	术语	external / internal sovereignty	1487	对外主权／对内主权	N2		英文对上但学科为跨域同名，保留现译
+131	术语	external world	1491	外部世界	K		人工判读：跨域/词序不同/同义异形，保留现译
+132	术语	faculty	1506	官能	K		人工判读：跨域/词序不同/同义异形，保留现译
+133	术语	Fajie yuanqi（法界緣起）	1513	法界缘起	N1		模糊匹配污染，命中与查询词元不符
+134	术语	fang ji	1523	方技	N2		英文对上但学科为跨域同名，保留现译
+135	术语	fang shi	1524	方士	N2		英文对上但学科为跨域同名，保留现译
+136	术语	festival	1538	节日（节庆；festive celebration 节庆）	N2		英文对上但学科为跨域同名，保留现译
+137	术语	fictitious mean	1540	虚构均值	N2		英文对上但学科为跨域同名，保留现译
+138	术语	first mover	1554	第一推动者	N2		英文对上但学科为跨域同名，保留现译
+139	术语	flux	1575	流变	N2		英文对上但学科为跨域同名，保留现译
+140	术语	foliation	1580	叶状剖分	N2		英文对上但学科为跨域同名，保留现译
+141	术语	Form-Number	1586	形式数	N1		模糊匹配污染，命中与查询词元不符
+142	术语	Four-Seven Debate（四端七情論爭）	1612	四端七情之辩	N1		模糊匹配污染，命中与查询词元不符
+143	术语	fragment	1616	断片	N2		英文对上但学科为跨域同名，保留现译
+144	术语	frame of reference	1619	参照系	K		人工判读：跨域/词序不同/同义异形，保留现译
+145	术语	frame problem	1620	框架问题	N2		英文对上但学科为跨域同名，保留现译
+146	术语	free choice	1623	自由选择	K		人工判读：跨域/词序不同/同义异形，保留现译
+147	术语	frequency interpretation	1635	频率解释	P1		审定命中为下位词（复合限定形），不改主译
+148	术语	front (Front)	1637	前线	N2		英文对上但学科为跨域同名，保留现译
+149	术语	fundamental	1648	基本的	K		人工判读：跨域/词序不同/同义异形，保留现译
+150	术语	general ability	1682	一般能力	P1		审定命中为下位词（复合限定形），不改主译
+151	术语	general characteristic	1683	共相	N2		英文对上但学科为跨域同名，保留现译
+152	术语	generalist	1690	通才	N2		英文对上但学科为跨域同名，保留现译
+153	术语	generic word / generic object（sgra spyi / don spyi）	1697	声总／义共相	K		人工判读：跨域/词序不同/同义异形，保留现译
+154	术语	Genesis	1699	《创世记》	N2		英文对上但学科为跨域同名，保留现译
+155	术语	geomancy	1710	土占术	N2		英文对上但学科为跨域同名，保留现译
+156	术语	german philosophy	1718	德国哲学	K		人工判读：跨域/词序不同/同义异形，保留现译
+157	术语	gradable adjectives	1741	可分级形容词	N1		模糊匹配污染，命中与查询词元不符
+158	术语	graft survival	1743	移植物存活	N2		英文对上但学科为跨域同名，保留现译
+159	术语	Great Schism	1747	教会大分裂	P1		审定命中为下位词（复合限定形），不改主译
+160	术语	green screen	1751	“绿屏”（支付能力筛查）	N2		英文对上但学科为跨域同名，保留现译
+161	术语	homogeneous	1864	齐次的	N2		英文对上但学科为跨域同名，保留现译
+162	术语	Horak（湖洛）	1877	湖洛之辩	N1		模糊匹配污染，命中与查询词元不符
+163	术语	horizon	1878	视域	N2		英文对上但学科为跨域同名，保留现译
+164	术语	horizontal / vertical relations	1879	水平关系／垂直关系	N1		模糊匹配污染，命中与查询词元不符
+165	术语	horoscope	1882	占星命盘	N2		英文对上但学科为跨域同名，保留现译
+166	术语	human sciences	1901	人文科学	N1		模糊匹配污染，命中与查询词元不符
+167	术语	hwajaeng（和諍）	1913	和诤	N1		模糊匹配污染，命中与查询词元不符
+168	术语	hypostasis	1925	位格（神学语境）；本体／实体（哲学语境）	N2		英文对上但学科为跨域同名，保留现译
+169	术语	hypothetico-deductive	1931	假设演绎	K		人工判读：跨域/词序不同/同义异形，保留现译
+170	术语	hypothetico-deductivism	1932	假说—演绎主义	N1		模糊匹配污染，命中与查询词元不符
+171	术语	illusion	1976	幻象	K		人工判读：跨域/词序不同/同义异形，保留现译
+172	术语	immunorejection	1986	免疫排斥	N1		模糊匹配污染，命中与查询词元不符
+173	术语	impartial spectator	1990	公正旁观者	N1		模糊匹配污染，命中与查询词元不符
+174	术语	impetus	1995	冲力	N2		英文对上但学科为跨域同名，保留现译
+175	术语	imposition	1999	命名（词项施加；亦作“设定”）；peter-spain	N2		英文对上但学科为跨域同名，保留现译
+176	术语	incompleteness / incomparability	2012	不完备性／不可比性	N2		英文对上但学科为跨域同名，保留现译
+177	术语	indefinite	2020	不定的	K		人工判读：跨域/词序不同/同义异形，保留现译
+178	术语	indeterminate adjective	2025	不确定形容词	N1		模糊匹配污染，命中与查询词元不符
+179	术语	index number	2029	指数	N2		英文对上但学科为跨域同名，保留现译
+180	术语	inductive empiricism	2046	归纳经验主义	N1		模糊匹配污染，命中与查询词元不符
+181	术语	inertial frame	2052	惯性系	N2		英文对上但学科为跨域同名，保留现译
+182	术语	infinite	2064	无限的	K		人工判读：跨域/词序不同/同义异形，保留现译
+183	术语	injection	2082	单射	N2		英文对上但学科为跨域同名，保留现译
+184	术语	integral wholes	2102	整全整体	N1		模糊匹配污染，命中与查询词元不符
+185	术语	integrity	2103	诚信	N2		英文对上但学科为跨域同名，保留现译
+186	术语	intellection	2105	理智活动	N1		模糊匹配污染，命中与查询词元不符
+187	术语	intellective faculty	2106	理智官能	N1		模糊匹配污染，命中与查询词元不符
+188	术语	intellectualist	2112	主智论者	N1		模糊匹配污染，命中与查询词元不符
+189	术语	intelligent design	2114	智能设计论	N2		英文对上但学科为跨域同名，保留现译
+190	术语	intelligent（奥克肖特历史范畴）	2115	有智力的	N1		模糊匹配污染，命中与查询词元不符
+191	术语	intension	2121	内涵	K		人工判读：跨域/词序不同/同义异形，保留现译
+192	术语	interactionism	2133	交互作用论（笛卡尔式交互作用论）	K		人工判读：跨域/词序不同/同义异形，保留现译
+193	术语	internal/external history	2141	内部史／外部史	N2		英文对上但学科为跨域同名，保留现译
+194	术语	interval algebra	2150	区间代数	N2		英文对上但学科为跨域同名，保留现译
+195	术语	intrinsic characteristic	2153	自相（佛教因明 rang mtshan；笛卡尔物理语境指“内在特性”，勿混）	N2		英文对上但学科为跨域同名，保留现译
+196	术语	intrinsic property	2155	内在属性	N2		英文对上但学科为跨域同名，保留现译
+197	术语	intrinsic/extrinsic preference	2157	内在偏好／外在偏好	K		人工判读：跨域/词序不同/同义异形，保留现译
+198	术语	introgression	2158	基因渗入	N2		英文对上但学科为跨域同名，保留现译
+199	术语	intuitive knowledge	2168	直觉知识	K		人工判读：跨域/词序不同/同义异形，保留现译
+200	术语	inverse method	2171	逆方法	N2		英文对上但学科为跨域同名，保留现译
+201	术语	irwŏnsang（一圓相）	2182	一圆相	N1		模糊匹配污染，命中与查询词元不符
+202	术语	isometry	2187	等距（映射）	N2		英文对上但学科为跨域同名，保留现译
+203	术语	Kanhwa Sŏn（看話禪）	2247	看话禅	N1		模糊匹配污染，命中与查询词元不符
+204	术语	kata	2266	型（形）	N2		英文对上但学科为跨域同名，保留现译
+205	术语	key distribution	2275	密钥分发	N2		英文对上但学科为跨域同名，保留现译
+206	术语	kinêsis	2280	运动（希腊语境）	N1		模糊匹配污染，命中与查询词元不符
+207	术语	knowledge first	2292	知识优先	N2		英文对上但学科为跨域同名，保留现译
+208	术语	laissez-faire	2316	自由放任	N2		英文对上但学科为跨域同名，保留现译
+209	术语	landscape model	2320	景观模式	N2		英文对上但学科为跨域同名，保留现译
+210	术语	Laozi / Lao Tzu	2323	《老子》	N1		模糊匹配污染，命中与查询词元不符
+211	术语	latency	2327	潜隐	N2		英文对上但学科为跨域同名，保留现译
+212	术语	Law of Contradiction	2333	矛盾律	N1		模糊匹配污染，命中与查询词元不符
+213	术语	law of nations	2336	万民法	N2		英文对上但学科为跨域同名，保留现译
+214	术语	laws of nature	2343	自然法	N2		英文对上但学科为跨域同名，保留现译
+215	术语	league of nations	2349	国联（诸国联盟）	Y	国际联盟	人工判读：同概念且学科相符，记亦作；主译保留
+216	术语	lex	2365	拉丁原文保留（法律）	N2		英文对上但学科为跨域同名，保留现译
+217	术语	libertarianism	2376	自由至上主义（政治语境；自由意志之争语境留给“自由意志论”）	K		人工判读：跨域/词序不同/同义异形，保留现译
+218	术语	linear logic	2389	线性逻辑	N2		英文对上但学科为跨域同名，保留现译
+219	术语	living donor	2396	活体捐献者	Y	活体供者	人工判读：同概念且学科相符，记亦作；主译保留
+220	术语	living well	2398	过好生活	N2		英文对上但学科为跨域同名，保留现译
+221	术语	locality	2404	定域性	Y	局域性	人工判读：同概念且学科相符，记亦作；主译保留
+222	术语	logic fiction	2408	逻辑虚构	N1		模糊匹配污染，命中与查询词元不符
+223	术语	logical empiricism	2419	逻辑经验主义	Y	逻辑经验论	人工判读：同概念且学科相符，记亦作；主译保留
+224	术语	logistic	2434	逻辑斯蒂（20 世纪早期对符号逻辑/数理逻辑的旧称）	N1		模糊匹配污染，命中与查询词元不符
+225	术语	Lowell Lectures	2441	洛厄尔讲座	N1		模糊匹配污染，命中与查询词元不符
+226	术语	lower envelope / upper envelope	2443	下包络／上包络	N2		英文对上但学科为跨域同名，保留现译
+227	术语	Lutheranism	2452	路德宗	N1		模糊匹配污染，命中与查询词元不符
+228	术语	machine model	2465	机器模型	N2		英文对上但学科为跨域同名，保留现译
+229	术语	majority voting	2478	多数表决	N2		英文对上但学科为跨域同名，保留现译
+230	术语	master of arts	2508	艺学硕士	N2		英文对上但学科为跨域同名，保留现译
+231	术语	material / formal analogy	2512	实质类比／形式类比	N2		英文对上但学科为跨域同名，保留现译
+232	术语	material principles	2520	质料原则（克鲁修斯；与形式原则 formal principle 相对）	N1		模糊匹配污染，命中与查询词元不符
+233	术语	matter	2526	质料（亚里士多德 hylê 语境；近代物理语境译“物质”）	K		人工判读：跨域/词序不同/同义异形，保留现译
+234	术语	mechanical philosophy	2544	机械哲学	Y	机械论哲学	人工判读：同概念且学科相符，记亦作；主译保留
+235	术语	mechanism	2545	机械论	N2		英文对上但学科为跨域同名，保留现译
+236	术语	medical model	2550	医学模型	Y	医学模式	人工判读：同概念且学科相符，记亦作；主译保留
+237	术语	mental events	2559	心理事件（戴维森语境）	N1		模糊匹配污染，命中与查询词元不符
+238	术语	middle term	2610	中项	K		人工判读：跨域/词序不同/同义异形，保留现译
+239	术语	mimesis	2617	模仿（亦作“摹仿”）	K		人工判读：跨域/词序不同/同义异形，保留现译
+240	术语	mind	2619	心灵（当代心灵哲学；审定库作“心智”，自然辩证法·科学哲学；黑格尔 Geist 	K		人工判读：跨域/词序不同/同义异形，保留现译
+241	术语	mixture	2638	混合态	N2		英文对上但学科为跨域同名，保留现译
+242	术语	modal abstraction	2639	样态抽象	N1		模糊匹配污染，命中与查询词元不符
+243	术语	modal soundness/completeness	2643	模态可靠性／模态完全性	N1		模糊匹配污染，命中与查询词元不符
+244	术语	mode	2646	样态	K		人工判读：跨域/词序不同/同义异形，保留现译
+245	术语	model surrogate	2651	替代模型	N2		英文对上但学科为跨域同名，保留现译
+246	术语	model system	2652	模式系统	K		人工判读：跨域/词序不同/同义异形，保留现译
+247	术语	mode（奥克肖特经验范畴）	2658	模式	N1		模糊匹配污染，命中与查询词元不符
+248	术语	moral integrity	2698	道德完整性	K		人工判读：跨域/词序不同/同义异形，保留现译
+249	术语	moral justification	2701	道德辩护	N2		英文对上但学科为跨域同名，保留现译
+250	术语	moral knowledge	2702	道德知识	N2		英文对上但学科为跨域同名，保留现译
+251	术语	moral pluralism	2712	道德多元论	K		人工判读：跨域/词序不同/同义异形，保留现译
+252	术语	moral psychology	2714	道德心理学	K		人工判读：跨域/词序不同/同义异形，保留现译
+253	术语	National Institutes of Health	2786	美国国立卫生研究院	N2		英文对上但学科为跨域同名，保留现译
+254	术语	natural kind	2795	自然种类；cancer	Y	自然类	人工判读：同概念且学科相符，记亦作；主译保留
+255	术语	natural light	2801	自然之光（心灵的）	N2		英文对上但学科为跨域同名，保留现译
+256	术语	natural philosophy	2804	自然哲学	P1		审定命中为下位词（复合限定形），不改主译
+257	术语	natural right	2806	自然权利	N2		英文对上但学科为跨域同名，保留现译
+258	术语	natural theology	2810	自然神学	K		人工判读：跨域/词序不同/同义异形，保留现译
+259	术语	negative model	2829	负模型	N2		英文对上但学科为跨域同名，保留现译
+260	术语	neutral theory of molecular evolution	2844	（分子进化）中性理论	N2		英文对上但学科为跨域同名，保留现译
+261	术语	Ngor subsect	2849	俄尔支派	N1		模糊匹配污染，命中与查询词元不符
+262	术语	no signaling	2866	无信号传递	N2		英文对上但学科为跨域同名，保留现译
+263	术语	nociceptor	2868	伤害感受器	N2		英文对上但学科为跨域同名，保留现译
+264	术语	nominal	2873	名项	N2		英文对上但学科为跨域同名，保留现译
+265	术语	non-intervention	2890	不干涉	P1		审定命中为下位词（复合限定形），不改主译
+266	术语	non-object	2895	非对象	N2		英文对上但学科为跨域同名，保留现译
+267	术语	novelty	2921	新得	Y	新奇性	人工判读：同概念且学科相符，记亦作；主译保留
+268	术语	NP-complete	2924	NP 完全	K		人工判读：跨域/词序不同/同义异形，保留现译
+269	术语	object language	2941	对象语言；lvov-warsaw	N2		英文对上但学科为跨域同名，保留现译
+270	术语	obscenity	2953	淫秽	N2		英文对上但学科为跨域同名，保留现译
+271	术语	Olympiad	2971	奥林匹亚德	N2		英文对上但学科为跨域同名，保留现译
+272	术语	omission	2973	遗漏	N2		英文对上但学科为跨域同名，保留现译
+273	术语	ω-consistency	3058	ω-一致性	K		人工判读：跨域/词序不同/同义异形，保留现译
+274	术语	Pietism	3216	虔敬派	N1		模糊匹配污染，命中与查询词元不符
+275	术语	practical knowledge	3291	实践知识	K		人工判读：跨域/词序不同/同义异形，保留现译
+276	术语	predicate letter	3328	谓词字母	N1		模糊匹配污染，命中与查询词元不符
+277	术语	problem of universals / universals	3399	共相问题／共相（与“殊相”相对；勿译“普遍性问题”）	N1		模糊匹配污染，命中与查询词元不符
+278	术语	projective sets	3414	射影集合	N1		模糊匹配污染，命中与查询词元不符
+279	术语	quality	3513	性质	K		人工判读：跨域/词序不同/同义异形，保留现译
+280	术语	representationalism	3668	表征主义（亦作“表象主义”“表象论”）	N1		模糊匹配污染，命中与查询词元不符
+281	术语	retinal image	3699	视网膜像	K		人工判读：跨域/词序不同/同义异形，保留现译
+282	术语	scientific practice	3841	科学实践	P1		审定命中为下位词（复合限定形），不改主译
+283	术语	sentimentalism	3910	情感主义	N1		模糊匹配污染，命中与查询词元不符
+284	术语	specific ability	4084	特殊能力（亦作“特定能力”）	N2		英文对上但学科为跨域同名，保留现译
+285	术语	sunna	4235	逊奈（圣行）	N1		模糊匹配污染，命中与查询词元不符
+286	术语	taṣdīq	4330	断定（阿拉伯逻辑学；与 taṣawwur 概念相对）	N1		模糊匹配污染，命中与查询词元不符
+287	术语	the One	4388	太一（普罗提诺 to hen）	N2		英文对上但学科为跨域同名，保留现译
+288	术语	transcendental	4464	先验（康德术语 transzendental）	N2		英文对上但学科为跨域同名，保留现译
+289	术语	understanding	4568	知性（康德 Verstand；日常语境译“理解”）	K		人工判读：跨域/词序不同/同义异形，保留现译
+290	术语	universal	4584	共相（中世纪-黑格尔传统）	N2		英文对上但学科为跨域同名，保留现译
+291	术语	virtue	4675	德性（古希腊伦理学传统；亦作“美德”）	K		人工判读：跨域/词序不同/同义异形，保留现译
+292	术语	warrant	4736	保证（普兰丁格认识论语境；勿译“担保”）	N2		英文对上但学科为跨域同名，保留现译
+293	人名	Achilles	46	阿基里斯	N2		人名跨域同名或噪声命中，保留现译
+294	人名	Adam Mickiewicz	51	亚当·密茨凯维奇	N2		人名跨域同名或噪声命中，保留现译
+295	人名	Adam Wodeham	53	亚当·德·沃德汉姆（亦作“亚当·沃德姆”，2026-11-06 重复行合并）	N2		人名跨域同名或噪声命中，保留现译
+296	人名	Addams, Jane	54	简·亚当斯	N2		人名跨域同名或噪声命中，保留现译
+297	人名	Addison, Joseph	55	约瑟夫·艾迪生	N2		人名跨域同名或噪声命中，保留现译
+298	人名	Adolf Grünbaum	56	格吕恩鲍姆（Adolf Grünbaum）	N2		人名跨域同名或噪声命中，保留现译
+299	人名	Adolf von Harnack	58	阿道夫·冯·哈纳克	N2		人名跨域同名或噪声命中，保留现译
+300	人名	Adolph Friedrich Hoffmann	59	阿道夫·弗里德里希·霍夫曼	N2		人名跨域同名或噪声命中，保留现译
+301	人名	Alfred North Whitehead	128	阿尔弗雷德·诺思·怀特海	N2		人名跨域同名或噪声命中，保留现译
+302	人名	Alfred Tarski	129	塔尔斯基	N2		人名跨域同名或噪声命中，保留现译
+303	人名	Alison, Archibald	132	阿奇博尔德·艾利森	N2		人名跨域同名或噪声命中，保留现译
+304	人名	Alois Riehl	137	阿洛伊斯·里尔	N2		人名跨域同名或噪声命中，保留现译
+305	人名	Alonzo Church	138	邱奇（Alonzo Church）	N2		人名跨域同名或噪声命中，保留现译
+306	人名	Alter, Robert	140	罗伯特·阿尔特	N2		人名跨域同名或噪声命中，保留现译
+307	人名	Alvin Plantinga	141	阿尔文·普兰丁格	N2		人名跨域同名或噪声命中，保留现译
+308	人名	Alyngton, Robert	142	罗伯特·阿林顿	N2		人名跨域同名或噪声命中，保留现译
+309	人名	Ammonio, Andrea	144	安德烈亚·阿蒙尼奥	N2		人名跨域同名或噪声命中，保留现译
+310	人名	Ammonius Hermeiou	145	赫尔米亚的阿莫尼俄斯（正文简作“阿莫尼俄斯”；旧形“阿摩尼奥斯·赫尔米埃”并档）	N2		人名跨域同名或噪声命中，保留现译
+311	人名	Ammonius Saccas	146	阿摩尼乌斯·萨卡斯	N2		人名跨域同名或噪声命中，保留现译
+312	人名	Anantavīrya	151	阿难陀维罗	N2		人名跨域同名或噪声命中，保留现译
+313	人名	Anaxagoras	152	阿那克萨戈拉	N2		人名跨域同名或噪声命中，保留现译
+314	人名	Anaximenes	154	阿那克西美尼	N2		人名跨域同名或噪声命中，保留现译
+315	人名	Andersen, Mikkel Birkegaard	155	米克尔·比尔克高·安德森	N2		人名跨域同名或噪声命中，保留现译
+316	人名	Anderson, Elizabeth	158	伊丽莎白·安德森	N2		人名跨域同名或噪声命中，保留现译
+317	人名	André of Neufchâteau	162	讷沙托的安德烈	N2		人名跨域同名或噪声命中，保留现译
+318	人名	Andreas Rüdiger	164	安德烈亚斯·吕迪格	N2		人名跨域同名或噪声命中，保留现译
+319	人名	Andronikos Doukas	166	安德罗尼科斯·杜卡斯	N2		人名跨域同名或噪声命中，保留现译
+320	人名	Christian Wolff	631	克里斯蒂安·沃尔夫	N2		人名跨域同名或噪声命中，保留现译
+321	人名	Galen	1158	盖伦	N2		人名跨域同名或噪声命中，保留现译
+322	人名	Hao Wang	1392	王浩	N2		人名跨域同名或噪声命中，保留现译
+323	人名	Hui Shi	1555	惠施	N2		人名跨域同名或噪声命中，保留现译
+324	人名	Marin Mersenne	2186	马兰·梅森	N2		人名跨域同名或噪声命中，保留现译
+325	人名	Porphyry	2700	波菲利	N2		人名跨域同名或噪声命中，保留现译
+326	人名	Theophrastus	3262	特奥弗拉斯托斯	N2		人名跨域同名或噪声命中，保留现译
+327	人名	Yan Hui	3607	颜回	N2		人名跨域同名或噪声命中，保留现译
+328	人名	Yang Zhu	3611	杨朱	N2		人名跨域同名或噪声命中，保留现译
+329	人名	Achilles	3720	阿喀琉斯	N2		人名跨域同名或噪声命中，保留现译
+330	人名	Xenophanes	3731	色诺芬尼	N2		人名跨域同名或噪声命中，保留现译
+汇总	331	条（保留 315 / 记亦作 15 / 同键归并 1）

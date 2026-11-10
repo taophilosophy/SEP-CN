@@ -258,9 +258,9 @@ segments:
       
       $$\begin{align*} \tag*{\(B_6\)} p>q \rightarrow\neg q>\neg p&& \textrm{(contraposition)}\\ \tag*{\(B_7\)} p>q \lor p\equiv q \lor q>p && \textrm{ (connected)} \end{align*}$$
     step2: |-
-      - 命题演算的一切定理都是 B 的公设。
-      - 理论 A 的推理规则 $R_1, R_2$ 与 $R_3$ 也适用于理论 B。
-      
+      * 命题演算的一切定理都是 B 的公设。
+      * 理论 A 的推理规则 $R_1, R_2$ 与 $R_3$ 也适用于理论 B。
+
       $$\begin{align*} \tag*{\(B_6\)} p>q \rightarrow\neg q>\neg p&& \textrm{(contraposition)}\\ \tag*{\(B_7\)} p>q \lor p\equiv q \lor q>p && \textrm{ (connected)} \end{align*}$$
   - id: 31
     kind: body
@@ -365,10 +365,10 @@ segments:
       - 定性偏好 对 可测量的价值（如效用）
       - 无风险的偏好 对 不确定性下的偏好
     step2: |-
-      - 事态之间的偏好 对 手段或方法的偏好
-      - 内在偏好（内在较优） 对 外在偏好（有理由的偏好）
-      - 定性偏好 对 可测量的价值（如效用）
-      - 无风险的偏好 对 不确定性下的偏好
+      * 事态之间的偏好 对 手段或方法的偏好
+      * 内在偏好（内在较优） 对 外在偏好（有理由的偏好）
+      * 定性偏好 对 可测量的价值（如效用）
+      * 无风险的偏好 对 不确定性下的偏好
   - id: 41
     kind: body
     source: |-
@@ -730,9 +730,9 @@ segments:
       
       $$\begin{align*} \tag*{P1} \neg (\varphi> \varphi) \\ \tag*{P2} \varphi>\psi \land \psi >\chi \rightarrow \varphi> \chi\\ \tag*{P3} \varphi>\psi \land \psi \equiv\chi \rightarrow \varphi> \chi\\ \tag*{P4} \varphi>\psi \rightarrow \neg \psi > \neg \varphi\\ \end{align*}$$
     step2: |-
-      - 古典命题逻辑的一切重言式都是公理。
-      - 分离规则与替换（见 Halldén 的理论 A）
-      
+      * 古典命题逻辑的一切重言式都是公理。
+      * 分离规则与替换（见 Halldén 的理论 A）
+
       $$\begin{align*} \tag*{P1} \neg (\varphi> \varphi) \\ \tag*{P2} \varphi>\psi \land \psi >\chi \rightarrow \varphi> \chi\\ \tag*{P3} \varphi>\psi \land \psi \equiv\chi \rightarrow \varphi> \chi\\ \tag*{P4} \varphi>\psi \rightarrow \neg \psi > \neg \varphi\\ \end{align*}$$
   - id: 78
     kind: body
@@ -947,14 +947,14 @@ segments:
       - $\lozenge^{\geq}\lozenge^{>} \varphi\rightarrow\lozenge^{>} \varphi$
       - $\psi\land \lozenge^{\geq}\varphi\rightarrow\lozenge^{>}\varphi\lor \lozenge^{\geq}(\varphi\land \lozenge^{\geq}\psi)$
     step2: |-
-      - $\lozenge^{\geq}$ 采用 S4，E 采用 S5，$\lozenge^{>}$ 采用 K。
-      - 包含公理：
-      - $\lozenge^{>} \varphi\rightarrow\lozenge^{\geq} \varphi$
-      - $\lozenge^{\geq} \varphi\rightarrow\lozenge E\varphi$
-      - $\lozenge^{\geq}\varphi$ 与 $\lozenge^{>} \varphi$ 的交互公理：
-      - $\lozenge^{>}\lozenge^{\geq} \varphi\rightarrow\lozenge^{>} \varphi$
-      - $\lozenge^{\geq}\lozenge^{>} \varphi\rightarrow\lozenge^{>} \varphi$
-      - $\psi\land \lozenge^{\geq}\varphi\rightarrow\lozenge^{>}\varphi\lor \lozenge^{\geq}(\varphi\land \lozenge^{\geq}\psi)$
+      * $\lozenge^{\geq}$ 采用 S4，E 采用 S5，$\lozenge^{>}$ 采用 K。
+      * 包含公理：
+      * $\lozenge^{>} \varphi\rightarrow\lozenge^{\geq} \varphi$
+      * $\lozenge^{\geq} \varphi\rightarrow\lozenge E\varphi$
+      * $\lozenge^{\geq}\varphi$ 与 $\lozenge^{>} \varphi$ 的交互公理：
+      * $\lozenge^{>}\lozenge^{\geq} \varphi\rightarrow\lozenge^{>} \varphi$
+      * $\lozenge^{\geq}\lozenge^{>} \varphi\rightarrow\lozenge^{>} \varphi$
+      * $\psi\land \lozenge^{\geq}\varphi\rightarrow\lozenge^{>}\varphi\lor \lozenge^{\geq}(\varphi\land \lozenge^{\geq}\psi)$
   - id: 103
     kind: body
     source: |-
@@ -1390,9 +1390,9 @@ segments:
       - 对任意两个属性集合，$S_x \geq S_y$ 表示 $S_x$ 中的属性优于 $S_y$ 中的属性。
       - 权衡关系因此充当一个稳定的底层结构，支撑行动者在不同动机状态下的偏好排序。
     step2: |-
-      - 每个备选物 x 可以由它所具有的属性集合刻画，记作 $S_x$。
-      - 对任意两个属性集合，$S_x \geq S_y$ 表示 $S_x$ 中的属性优于 $S_y$ 中的属性。
-      - 权衡关系因此充当一个稳定的底层结构，支撑行动者在不同动机状态下的偏好排序。
+      * 每个备选物 x 可以由它所具有的属性集合刻画，记作 $S_x$。
+      * 对任意两个属性集合，$S_x \geq S_y$ 表示 $S_x$ 中的属性优于 $S_y$ 中的属性。
+      * 权衡关系因此充当一个稳定的底层结构，支撑行动者在不同动机状态下的偏好排序。
   - id: 151
     kind: body
     source: |-
@@ -1486,8 +1486,8 @@ segments:
       - 世界 $w_1$：安装了火灾报警器（更安全的世界）；
       - 世界 $w_2$：未安装火灾报警器（当前的、较不安全的世界）。
     step2: |-
-      - 世界 $w_1$：安装了火灾报警器（更安全的世界）；
-      - 世界 $w_2$：未安装火灾报警器（当前的、较不安全的世界）。
+      * 世界 $w_1$：安装了火灾报警器（更安全的世界）；
+      * 世界 $w_2$：未安装火灾报警器（当前的、较不安全的世界）。
   - id: 161
     kind: body
     source: |-
@@ -1595,10 +1595,10 @@ segments:
       - **添加**：向所考虑的选项集添加一个新备选物。
       - **删除**：从所考虑的选项集中移除一个选项。
     step2: |-
-      - **修正**：获得对 $\varphi$ 优于 $\psi$ 的偏好，伴随修正陈述“$\varphi$ 优于 $\psi$”。
-      - **收缩**：移除“$\varphi$ 优于 $\psi$”这一偏好。
-      - **添加**：向所考虑的选项集添加一个新备选物。
-      - **删除**：从所考虑的选项集中移除一个选项。
+      * **修正**：获得对 $\varphi$ 优于 $\psi$ 的偏好，伴随修正陈述“$\varphi$ 优于 $\psi$”。
+      * **收缩**：移除“$\varphi$ 优于 $\psi$”这一偏好。
+      * **添加**：向所考虑的选项集添加一个新备选物。
+      * **删除**：从所考虑的选项集中移除一个选项。
   - id: 173
     kind: body
     source: |-
@@ -1812,9 +1812,9 @@ segments:
       - 给 A 最低优先性：可以把 A 加在底部，使之优先性最低。
       - **并列**：可以把 A 与 $\mathscr{B}$ 并置，不在 A 与其他优先性之间建立次序。
     step2: |-
-      - 给 A 最高优先性：可把 A 放在优先基顶部，使之成为最重要的命题。
-      - 给 A 最低优先性：可把 A 加在底部，使之优先性最低。
-      - **并列**：可把 A 与 $\mathscr{B}$ 并置，不在 A 与其他优先性之间建立次序。
+      * 给 A 最高优先性：可把 A 放在优先基顶部，使之成为最重要的命题。
+      * 给 A 最低优先性：可把 A 加在底部，使之优先性最低。
+      * **并列**：可把 A 与 $\mathscr{B}$ 并置，不在 A 与其他优先性之间建立次序。
   - id: 194
     kind: body
     source: |-
@@ -2122,9 +2122,9 @@ segments:
       - $\trianglerighteq_{\Gamma}$ 是由 $w\trianglerighteq_{\Gamma}v$ 当且仅当 $w\succeq v$ 且 $w \approx_{\Gamma} v$ 给出的二元关系
       - 严格子关系 $\trianglerighteq_{\Gamma}$ 由 $w\succ v$ 且 $w \approx_{\Gamma} v$ 定义
     step2: |-
-      - W 是状态集合，$\succeq$ 是二元偏好关系，V 是赋值
-      - $\trianglerighteq_{\Gamma}$ 是由 $w\trianglerighteq_{\Gamma}v$ 当且仅当 $w\succeq v$ 且 $w \approx_{\Gamma} v$ 给出的二元关系
-      - 严格子关系 $\trianglerighteq_{\Gamma}$ 由 $w\succ v$ 且 $w \approx_{\Gamma} v$ 定义
+      * W 是状态集合，$\succeq$ 是二元偏好关系，V 是赋值
+      * $\trianglerighteq_{\Gamma}$ 是由 $w\trianglerighteq_{\Gamma}v$ 当且仅当 $w\succeq v$ 且 $w \approx_{\Gamma} v$ 给出的二元关系
+      * 严格子关系 $\trianglerighteq_{\Gamma}$ 由 $w\succ v$ 且 $w \approx_{\Gamma} v$ 定义
   - id: 229
     kind: body
     source: |-
@@ -2144,9 +2144,9 @@ segments:
       - $\mathcal{M}, w \models \langle \Gamma \rangle^{>}\varphi$    当且仅当 $\exists v$ 使得 $v \vartriangleright_{\Gamma} w$，且 $\mathcal{M}, v\models \varphi$
       - $\mathcal{M}, w \models \langle \Gamma \rangle\varphi$    当且仅当 $\exists v$ 使得 $v \approx_{\Gamma} w$，且 $\mathcal{M}, v\models \varphi$
     step2: |-
-      - $\mathcal{M}, w \models \langle \Gamma \rangle^{\geq}\varphi$    当且仅当 $\exists v$，使 $v \trianglerighteq_{\Gamma} w$，且 $\mathcal{M}, v\models \varphi$
-      - $\mathcal{M}, w \models \langle \Gamma \rangle^{>}\varphi$    当且仅当 $\exists v$，使 $v \vartriangleright_{\Gamma} w$，且 $\mathcal{M}, v\models \varphi$
-      - $\mathcal{M}, w \models \langle \Gamma \rangle\varphi$    当且仅当 $\exists v$，使 $v \approx_{\Gamma} w$，且 $\mathcal{M}, v\models \varphi$
+      * $\mathcal{M}, w \models \langle \Gamma \rangle^{\geq}\varphi$    当且仅当 $\exists v$，使 $v \trianglerighteq_{\Gamma} w$，且 $\mathcal{M}, v\models \varphi$
+      * $\mathcal{M}, w \models \langle \Gamma \rangle^{>}\varphi$    当且仅当 $\exists v$，使 $v \vartriangleright_{\Gamma} w$，且 $\mathcal{M}, v\models \varphi$
+      * $\mathcal{M}, w \models \langle \Gamma \rangle\varphi$    当且仅当 $\exists v$，使 $v \approx_{\Gamma} w$，且 $\mathcal{M}, v\models \varphi$
   - id: 231
     kind: body
     source: |-
@@ -2283,8 +2283,8 @@ segments:
       - 每个变量 $X_i$ 对应一个节点。
       - $X_i$ 的父节点记作 $\text{Pa}(X_i)$，即有边指向 $X_i$ 的节点。这些父节点表示影响 $X_i$ 之偏好的变量。从 $X_i$ 到 $X_j$ 的边意味着：对 $X_j$ 的偏好依赖于 $X_i$ 的值。
     step2: |-
-      - 每个变量 $X_i$ 对应一个节点。
-      - $X_i$ 的父节点记作 $\text{Pa}(X_i)$，即有边指向 $X_i$ 的节点。这些父节点表示影响 $X_i$ 之偏好的变量。从 $X_i$ 到 $X_j$ 的边意味着：对 $X_j$ 的偏好依赖于 $X_i$ 的值。
+      * 每个变量 $X_i$ 对应一个节点。
+      * $X_i$ 的父节点记作 $\text{Pa}(X_i)$，即有边指向 $X_i$ 的节点。这些父节点表示影响 $X_i$ 之偏好的变量。从 $X_i$ 到 $X_j$ 的边意味着：对 $X_j$ 的偏好依赖于 $X_i$ 的值。
   - id: 246
     kind: body
     source: |-

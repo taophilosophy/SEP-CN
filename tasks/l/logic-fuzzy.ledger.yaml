@@ -30,7 +30,7 @@ segments:
     step1: |-
       “模糊逻辑”常在很宽泛的意义上使用，包括各种处理某类 *度* 的系统化形式化方法与技术（例如见 Nguyen & Walker 2000）。尤其在工程语境中（模糊控制、模糊分类、软计算），它追求的是能容忍次优与不精确的高效计算方法（例如见 Ross 2010）。本词条聚焦于狭义模糊逻辑，即继 Petr Hájek（1998）的开创性专著之后确立为数学逻辑一个学科、如今通常称为“数学模糊逻辑”的那部分。关于模糊逻辑各种变体历史的细节，参见 Bělohlávek, Dauben, & Klir 2017。
     step2: |-
-      “模糊逻辑”常被用在很宽的意义上，泛指各种系统处理某类 *度* 的形式化方法与技术（例如 Nguyen & Walker 2000）。在工程语境中（模糊控制、模糊分类、软计算），它追求的是能容忍次优和不精确的高效计算方法（例如 Ross 2010）。本词条讲的模糊逻辑取狭义，即自 Petr Hájek（1998）那部开创性专著之后确立为数学逻辑分支、如今通称“数学模糊逻辑”的部分。各变体的历史细节，见 Bělohlávek, Dauben, & Klir 2017。
+      “模糊逻辑”常被用在很宽的意义上，泛指各种系统处理某类 **度** 的形式化方法与技术（例如 Nguyen & Walker 2000）。在工程语境中（模糊控制、模糊分类、软计算），它追求的是能容忍次优和不精确的高效计算方法（例如 Ross 2010）。本词条讲的模糊逻辑取狭义，即自 Petr Hájek（1998）那部开创性专著之后确立为数学逻辑分支、如今通称“数学模糊逻辑”的部分。各变体的历史细节，见 Bělohlávek, Dauben, & Klir 2017。
   - id: 4
     kind: body
     source: |-
@@ -70,7 +70,7 @@ segments:
     step1: |-
       通常还会加入另一个非幂等的合取 $\&$，以说明这样一种直觉：把一个部分真的假设应用两次，可能得到与只应用一次不同的真值度。这种合取通常由 $[0,1]$ 上的一个二元运算解释，它不一定幂等，但仍可结合、可交换、在两个变元上都非递减，并以 $1$ 为单位元。这类运算称为 *t-范数*（*三角范数*），其数学性质已得到充分研究（见 Klement, Mesiar, & Pap 2000）。t-范数的著名例子有已提到的函数 $\min$、实数的标准乘积 $\cdot$，以及 Łukasiewicz t-范数：$x *_{Ł} y=\max\{x+y-1,0\}$。这三个 t-范数其实都是连续函数，而任何其他连续 t-范数都可描述为这三个基本 t-范数的 *序和*（Ling 1965; Mostert & Shields 1957）[^ling-1965][^mostert-1957]。
     step2: |-
-      通常还会添一个非幂等合取 $\&$，因为把一个部分真的假设用两次，真值度可能和只用一次不同。这种合取通常用 $[0,1]$ 上的一个二元运算解释：它未必幂等，但可结合、可交换、对两个变元都单调不减，并以 $1$ 为单位元。这类运算叫 *t-范数*（*三角范数*），其数学性质研究得很透（见 Klement, Mesiar, & Pap 2000）。著名的 t-范数有前面提过的 $\min$、实数的标准乘法 $\cdot$，以及 Łukasiewicz t-范数 $x *_{Ł} y=\max\{x+y-1,0\}$。这三个都是连续函数；任何别的连续 t-范数，都可写成这三个基本 t-范数的 *序和*（Ling 1965; Mostert & Shields 1957）[^ling-1965][^mostert-1957]。
+      通常还会添一个非幂等合取 $\&$，因为把一个部分真的假设用两次，真值度可能和只用一次不同。这种合取通常用 $[0,1]$ 上的一个二元运算解释：它未必幂等，但可结合、可交换、对两个变元都单调不减，并以 $1$ 为单位元。这类运算叫 **t-范数**（**三角范数**），其数学性质研究得很透（见 Klement, Mesiar, & Pap 2000）。著名 t-范数有：前文提过的 $\min$、实数标准乘法 $\cdot$，以及 Łukasiewicz t-范数 $x *_{Ł} y=\max\{x+y-1,0\}$。这三个都是连续函数；任何别的连续 t-范数，都可写成这三个基本 t-范数的 **序和**（Ling 1965; Mostert & Shields 1957）[^ling-1965][^mostert-1957]。
   - id: 9
     kind: body
     source: |-
@@ -78,7 +78,7 @@ segments:
     step1: |-
       有趣的是，每个左连续 t-范数都决定一个合适的蕴涵选择。事实上，已知 t-范数 $\ast$ 左连续，当且仅当存在唯一的 $[0,1]$ 上二元运算 $\Rightarrow_\ast$，满足所谓的 *剩余条件*：$$ x \ast y \leq z\ \text{ if and only if }\ x \leq y \Rightarrow_\ast z. $$ 函数 $\Rightarrow_\ast$ 称为 *$\ast$ 的剩余*，可以证明 $x \Rightarrow_\ast y = \max\{z \mid x \ast z \leq y\}$。上述三个著名 t-范数的剩余分别是：$x \Rightarrow_\min y = 1$（当 $x\leq y$），否则为 $y$；$x \Rightarrow_\cdot y = 1$（当 $x\leq y$），否则为 $\frac{y}{x}$；以及 $x \Rightarrow_{Ł} y = \min\{1, 1 - x+y\}$。
     step2: |-
-      有意思的是，每个左连续 t-范数都对应一个合适的蕴涵。事实上，t-范数 $\ast$ 左连续，当且仅当 $[0,1]$ 上恰有一个二元运算 $\Rightarrow_\ast$ 满足所谓 *剩余条件*：$$ x \ast y \leq z\ \text{ if and only if }\ x \leq y \Rightarrow_\ast z. $$ 这个 $\Rightarrow_\ast$ 叫 *$\ast$ 的剩余*，并且可以证明 $x \Rightarrow_\ast y = \max\{z \mid x \ast z \leq y\}$。三个著名 t-范数的剩余分别是：$x \Rightarrow_\min y = 1$（当 $x\leq y$），否则为 $y$；$x \Rightarrow_\cdot y = 1$（当 $x\leq y$），否则为 $\frac{y}{x}$；以及 $x \Rightarrow_{Ł} y = \min\{1, 1 - x+y\}$。
+      有意思的是，每个左连续 t-范数都对应一个合适的蕴涵。事实上，t-范数 $\ast$ 左连续，当且仅当 $[0,1]$ 上恰有一个二元运算 $\Rightarrow_\ast$ 满足所谓 **剩余条件**：$$ x \ast y \leq z\ \text{ if and only if }\ x \leq y \Rightarrow_\ast z. $$ 这个 $\Rightarrow_\ast$ 叫 *$\ast$ 的剩余*，并且可以证明 $x \Rightarrow_\ast y = \max\{z \mid x \ast z \leq y\}$。三个著名 t-范数的剩余分别是：$x \Rightarrow_\min y = 1$（当 $x\leq y$），否则为 $y$；$x \Rightarrow_\cdot y = 1$（当 $x\leq y$），否则为 $\frac{y}{x}$；以及 $x \Rightarrow_{Ł} y = \min\{1, 1 - x+y\}$。
   - id: 10
     kind: body
     source: |-
@@ -102,7 +102,7 @@ segments:
     step1: |-
       用上述类型真值函项解释联结词的最弱逻辑是 MTL（*幺半群 t-范数逻辑*，Esteva & Godo 2001）[^esteva-2001][^esteva-2001-2]。它是一个带有原始二元联结词 $\mathbin{\&}, \to, \wedge$ 与真常项 $\overline{0}$ 的逻辑，可导出联结词定义为：$$ \begin{align} \varphi \lor \psi &= ((\varphi \to \psi) \to \psi) \land ((\psi \to \varphi) \to \varphi),\\ \neg \varphi &= \varphi \to \overline{0}, \\ \varphi \leftrightarrow \psi &= (\varphi \to \psi) \land (\psi \to \varphi),\\ \overline{1} &= \neg \overline{0}. \end{align} $$ MTL 通过所有左连续 t-范数给出的语义定义为后承关系。即，给定特定的左连续 t-范数 $\ast$ 与从命题变元到 $[0,1]$ 的映射，我们把 $\&$ 解释为 $\ast$、蕴涵 $\to$ 解释为其剩余 $\Rightarrow$、$\land$ 与 $\overline{0}$ 分别解释为 $\min$ 与 $0$，从而定义所有公式的 $\ast$-赋值。
     step2: |-
-      用上述类型真值函项解释联结词的最弱逻辑是 MTL（*幺半群 t-范数逻辑*，Esteva & Godo 2001）[^esteva-2001][^esteva-2001-2]。它的原始二元联结词是 $\mathbin{\&}, \to, \wedge$，另有真常项 $\overline{0}$；可导出联结词定义为：$$ \begin{align} \varphi \lor \psi &= ((\varphi \to \psi) \to \psi) \land ((\psi \to \varphi) \to \varphi),\\ \neg \varphi &= \varphi \to \overline{0}, \\ \varphi \leftrightarrow \psi &= (\varphi \to \psi) \land (\psi \to \varphi),\\ \overline{1} &= \neg \overline{0}. \end{align} $$ MTL 的后承关系由所有左连续 t-范数给出的语义定义：给定左连续 t-范数 $\ast$ 以及从命题变元到 $[0,1]$ 的映射，把 $\&$ 解释为 $\ast$、蕴涵 $\to$ 解释为其剩余 $\Rightarrow$、$\land$ 与 $\overline{0}$ 分别解释为 $\min$ 与 $0$，就得到所有公式的 $\ast$-赋值。
+      用上述类型真值函项解释联结词的最弱逻辑是 MTL（*幺半群 t-范数逻辑*，Esteva & Godo 2001）[^esteva-2001][^esteva-2001-2]。它的原始二元联结词是 $\mathbin{\&}, \to, \wedge$，另有真常项 $\overline{0}$；可导出联结词定义为：$$ \begin{align} \varphi \lor \psi &= ((\varphi \to \psi) \to \psi) \land ((\psi \to \varphi) \to \varphi),\\ \neg \varphi &= \varphi \to \overline{0}, \\ \varphi \leftrightarrow \psi &= (\varphi \to \psi) \land (\psi \to \varphi),\\ \overline{1} &= \neg \overline{0}. \end{align} $$ MTL 的后承关系由所有左连续 t-范数给出的语义来定义。给定左连续 t-范数 $\ast$ 与从命题变元到 $[0,1]$ 的映射，把 $\&$ 解释为 $\ast$、蕴涵 $\to$ 解释为其剩余 $\Rightarrow$、$\land$ 与 $\overline{0}$ 解释为 $\min$ 与 $0$，就得到全部公式的 $\ast$-赋值。
   - id: 13
     kind: body
     source: |-
@@ -132,7 +132,7 @@ segments:
     step1: |-
       并以 *肯定前件* 为唯一推理规则：从 $\varphi$ 与 $\varphi \to \psi$ 推出 $\psi$。只要在这个系统中存在从 $\Gamma$ 到 $\varphi$ 的证明，即存在一个以 $\varphi$ 结尾的有限公式序列，其成员或是公理的实例、或是 $\Gamma$ 的元素、或由前面的成员按推理规则（*肯定前件*）得出，我们就写作 $\Gamma \vdash_\mathrm{MTL} \varphi$。这个希尔伯特式系统是逻辑 MTL 的强完全（有穷）公理化，即对每个前提集 $\Gamma$ 都有：$\Gamma \models_\mathrm{MTL} \varphi$ 当且仅当 $\Gamma \vdash_\mathrm{MTL} \varphi$。已知 $\mathrm{MTL}$ 的有效性问题可判定，但其计算复杂性尚未确定。
     step2: |-
-      推理规则只有 *肯定前件*：由 $\varphi$ 与 $\varphi \to \psi$ 推出 $\psi$。若在这个系统里能从 $\Gamma$ 证明 $\varphi$——也就是有一个以 $\varphi$ 结尾的有限公式序列，其中每一项或是公理实例、或是 $\Gamma$ 的元素、或由前面各项按 *肯定前件* 得出——就记作 $\Gamma \vdash_\mathrm{MTL} \varphi$。这套希尔伯特式系统是 MTL 的强完全（有穷）公理化：对每个前提集 $\Gamma$，$\Gamma \models_\mathrm{MTL} \varphi$ 当且仅当 $\Gamma \vdash_\mathrm{MTL} \varphi$。已知 $\mathrm{MTL}$ 的有效性问题可判定，但计算复杂性还未定。
+      推理规则只有 **肯定前件**：由 $\varphi$ 与 $\varphi \to \psi$ 推出 $\psi$。若在这个系统里能从 $\Gamma$ 证明 $\varphi$——也就是有一个以 $\varphi$ 结尾的有限公式序列，其中每一项或是公理实例、或是 $\Gamma$ 的元素、或由前面各项按 **肯定前件** 得出——就记作 $\Gamma \vdash_\mathrm{MTL} \varphi$。这套希尔伯特式系统是 MTL 的强完全（有穷）公理化：对每个前提集 $\Gamma$，$\Gamma \models_\mathrm{MTL} \varphi$ 当且仅当 $\Gamma \vdash_\mathrm{MTL} \varphi$。已知 $\mathrm{MTL}$ 的有效性问题可判定，但计算复杂性还未定。
   - id: 16
     kind: body
     source: |-
@@ -148,7 +148,7 @@ segments:
     step1: |-
       Łukasiewicz 逻辑可这样定义：在 MTL 的希尔伯特式证明系统中加入公理（称为 Wajsberg 公理）$$((\varphi \to \psi) \to \psi) \to ((\psi \to \varphi) \to \varphi)$$。它对应于相对于 Łukasiewicz t-范数赋值所定义的后承关系的有穷版本（符号表示：对每个 *有限* 公式集 $\Gamma$ 与每个公式 $\varphi$，$\Gamma \models_{Ł} \varphi$ 当且仅当 $\Gamma \vdash_{Ł} \varphi$）。[^note-2]
     step2: |-
-      Łukasiewicz 逻辑是在 MTL 的希尔伯特式证明系统中加入 Wajsberg 公理 $$((\varphi \to \psi) \to \psi) \to ((\psi \to \varphi) \to \varphi)$$ 得到的。它对应的是按 Łukasiewicz t-范数赋值所定义后承关系的有穷版本：对每个 *有限* 公式集 $\Gamma$ 和每个公式 $\varphi$，$\Gamma \models_{Ł} \varphi$ 当且仅当 $\Gamma \vdash_{Ł} \varphi$。[^note-2]
+      Łukasiewicz 逻辑是在 MTL 的希尔伯特式证明系统中加入 Wajsberg 公理 $$((\varphi \to \psi) \to \psi) \to ((\psi \to \varphi) \to \varphi)$$ 得到的。它对应的是按 Łukasiewicz t-范数赋值所定义后承关系的有穷版本：对每个 **有限** 公式集 $\Gamma$ 和每个公式 $\varphi$，$\Gamma \models_{Ł} \varphi$ 当且仅当 $\Gamma \vdash_{Ł} \varphi$。[^note-2]
   - id: 18
     kind: body
     source: |-
@@ -160,7 +160,7 @@ segments:
 
       $$ \begin{align} \varphi &\to (\psi \to \varphi)\\ (\varphi \to \psi) &\to ((\psi \to \chi) \to (\varphi \to \chi))\\ ((\varphi \to \psi) \to \psi) &\to ((\psi \to \varphi) \to \varphi)\\ (\neg \psi \to \neg \varphi) &\to (\varphi \to \psi)\\ ((\varphi \to \psi) &\to (\psi \to \varphi)) \to (\psi \to \varphi). \end{align} $$
     step2: |-
-      这是多值逻辑的早期例子：Jan Łukasiewicz 与 Alfred Tarski（1930）在模糊集合论问世之前很久就提出了它，用的是等价公理系统，推理规则只有 *肯定前件*：
+      这是多值逻辑的早期例子：Jan Łukasiewicz 与 Alfred Tarski（1930）在模糊集合论问世之前很久就提出了它，用的是等价公理系统，推理规则只有 **肯定前件**：
 
       $$ \begin{align} \varphi &\to (\psi \to \varphi)\\ (\varphi \to \psi) &\to ((\psi \to \chi) \to (\varphi \to \chi))\\ ((\varphi \to \psi) \to \psi) &\to ((\psi \to \varphi) \to \varphi)\\ (\neg \psi \to \neg \varphi) &\to (\varphi \to \psi)\\ ((\varphi \to \psi) &\to (\psi \to \varphi)) \to (\psi \to \varphi). \end{align} $$
   - id: 19
@@ -170,7 +170,7 @@ segments:
     step1: |-
       Łukasiewicz 逻辑是唯一一种所有联结词都由连续函数解释的基于 t-范数的模糊逻辑，其中包括由函数 $x \Rightarrow_{Ł} y=\min\{1,1-x+y\}$ 给出的蕴涵。McNaughton 定理（1951）指出，在 [0,1] 上解释 Łukasiewicz 逻辑公式的实值函数，恰好是整系数连续分段线性函数。就计算复杂性而言，这个逻辑的有效性问题渐近地不比经典逻辑差：它仍是 coNP 完全的。
     step2: |-
-      Łukasiewicz 逻辑是唯一一种所有联结词（包括由 $x \Rightarrow_{Ł} y=\min\{1,1-x+y\}$ 给出的蕴涵）都由连续函数解释的基于 t-范数的模糊逻辑。McNaughton 定理（1951）说，在 [0,1] 上解释 Łukasiewicz 逻辑公式的实值函数，正好是整系数的连续分段线性函数。论计算复杂性，它的有效性问题渐近地不比经典逻辑糟：仍是 coNP 完全的。
+      Łukasiewicz 逻辑是唯一的基于 t-范数的模糊逻辑：其中所有联结词——包括由 $x \Rightarrow_{Ł} y=\min\{1,1-x+y\}$ 给出的蕴涵——都由连续函数解释。McNaughton 定理（1951）说，在 [0,1] 上解释 Łukasiewicz 逻辑公式的实值函数，正好是整系数的连续分段线性函数。论计算复杂性，它的有效性问题渐近地不比经典逻辑糟：仍是 coNP 完全的。
   - id: 20
     kind: body
     source: |-
@@ -202,7 +202,7 @@ segments:
     step1: |-
       除了 MTL（所有左连续 t-范数的逻辑）以及 Łukasiewicz 与 Gödel–Dummett 逻辑（各由某个特定 t-范数诱导）之外，还可以考虑由 t-范数集合 *诱导* 的逻辑，或更一般地，MTL 的任意公理化扩张。特别地，所有 *连续* t-范数的逻辑（Hájek 的基本模糊逻辑 BL）是在 MTL 公理上加入 $$\varphi\mathbin{\&}(\varphi\to{{\psi}}) \to \psi\mathbin{\&}(\psi\to\varphi)$$ 得到的。事实上，对任何连续 t-范数集合，相应的逻辑都有有穷公理化（Esteva, Godo, & Montagna 2003; Haniková 2014）[^haniková-2014]；多数情形下，该公理化刻画的是从 *有限* 前提集出发的语义后承。特别地，第三个著名连续 t-范数（代数乘积）的逻辑，称为乘积逻辑，是 BL 加公理 $$\neg\varphi \vee ((\varphi\to\varphi\mathbin{\&}{{\psi}})\to{{\psi}})$$ 的扩张。另一方面，并非 MTL 的所有公理化扩张都能给出基于 t-范数的语义。例如，经典逻辑可公理化为 MTL $+$ $\varphi\vee\neg \varphi$，但排中律在任何基于 t-范数的解释下都不是重言式。
     step2: |-
-      除了 MTL（所有左连续 t-范数的逻辑）以及 Łukasiewicz、Gödel–Dummett 逻辑（各由某个特定 t-范数诱导），还可以考虑由一组 t-范数 *诱导* 的逻辑，或更一般地，MTL 的任意公理化扩张。特别地，所有 *连续* t-范数的逻辑，即 Hájek 的基本模糊逻辑 BL，就是 MTL 加公理 $$\varphi\mathbin{\&}(\varphi\to{{\psi}}) \to \psi\mathbin{\&}(\psi\to\varphi)$$ 得到的。事实上，任何一组连续 t-范数，其对应逻辑都有有穷公理化（Esteva, Godo, & Montagna 2003; Haniková 2014）[^haniková-2014]；多数情况下，公理化刻画的是从 *有限* 前提集出发的语义后承。第三个著名连续 t-范数（代数乘积）的逻辑叫乘积逻辑，是 BL 加公理 $$\neg\varphi \vee ((\varphi\to\varphi\mathbin{\&}{{\psi}})\to{{\psi}})$$ 的扩张。反过来，并非 MTL 的每个公理化扩张都能有基于 t-范数的语义：比如经典逻辑可公理化为 MTL $+$ $\varphi\vee\neg \varphi$，但排中律在任何基于 t-范数的解释下都不是重言式。
+      除了 MTL（所有左连续 t-范数的逻辑）以及 Łukasiewicz、Gödel–Dummett 逻辑（各由某个特定 t-范数诱导），还可以考虑由一组 t-范数 **诱导** 的逻辑，或更一般地，MTL 的任意公理化扩张。特别地，所有 **连续** t-范数的逻辑，即 Hájek 的基本模糊逻辑 BL，就是 MTL 加公理 $$\varphi\mathbin{\&}(\varphi\to{{\psi}}) \to \psi\mathbin{\&}(\psi\to\varphi)$$ 得到的。事实上，任何一组连续 t-范数，其对应逻辑都有有穷公理化（Esteva, Godo, & Montagna 2003; Haniková 2014）[^haniková-2014]；多数情况下，公理化刻画的是从 **有限** 前提集出发的语义后承。第三个著名连续 t-范数（代数乘积）的逻辑叫乘积逻辑，是 BL 加公理 $$\neg\varphi \vee ((\varphi\to\varphi\mathbin{\&}{{\psi}})\to{{\psi}})$$ 的扩张。反过来，并非 MTL 的每个公理化扩张都能有基于 t-范数的语义：比如经典逻辑可公理化为 MTL $+$ $\varphi\vee\neg \varphi$，但排中律在任何基于 t-范数的解释下都不是重言式。
   - id: 24
     kind: body
     source: |-
@@ -210,7 +210,7 @@ segments:
     step1: |-
       也有理由考虑更弱的模糊逻辑。例如，可以论证，迫使合取 & 的解释成为 t-范数的那些假设太强。特别是，假设 $1$ 是它的单位元，就强制把重言式定义为始终取值 $1$ 的公式，并把后承关系定义为值 $1$ 的保持——也就是说，$1$ 是语义中唯一的 *指定值*。[^note-3] 引入具有多个指定真值度的逻辑的一种自然方式，是假设 & 的解释的单位元是一个数 $t <1$。可以证明，在这种情况下，指定真值度恰好是那些大于或等于 $t$ 的值。这种合取解释称为 *uninorm*。左连续 uninorm 的逻辑由 Metcalfe & Montagna（2007）公理化。
     step2: |-
-      也有理由考虑更弱的模糊逻辑。比如可以说，逼着合取 & 的解释成为 t-范数的那些假设太强了。尤其是“$1$ 是单位元”这条，就逼着重言式只能是始终取值 $1$ 的公式、后承关系只能是值 $1$ 的保持，也就是把 $1$ 当成语义里唯一的 *指定值*。[^note-3] 要引入有多个指定真值度的逻辑，一个自然的办法是假设 & 的解释以某个数 $t <1$ 为单位元。可以证明，这时指定真值度正好是大于或等于 $t$ 的那些值。这种合取解释叫 *uninorm*。左连续 uninorm 的逻辑由 Metcalfe & Montagna（2007）公理化。
+      也有理由考虑更弱的模糊逻辑。比如可以说，逼着合取 & 的解释成为 t-范数的那些假设太强了。尤其是“$1$ 是单位元”这条，就逼着重言式只能是始终取值 $1$ 的公式、后承关系只能是值 $1$ 的保持，也就是把 $1$ 当成语义里唯一的 **指定值**。[^note-3] 要引入有多个指定真值度的逻辑，办法之一是让 & 的解释以某个数 $t <1$ 为单位元。可以证明，这时指定真值度正好是大于或等于 $t$ 的那些值。这种合取解释叫 *uninorm*。左连续 uninorm 的逻辑由 Metcalfe & Montagna（2007）公理化。
   - id: 25
     kind: body
     source: |-
@@ -250,7 +250,7 @@ segments:
     step1: |-
       命题逻辑 MTL 可以按下述方式在谓词语言 $\mathcal{P\!L}$（定义与经典情形相同）中给出一阶对应物 MTL$\forall$。语义由结构给出，其中谓词符号被解释为把论域元素的元组映射到真值的函数。更确切地说，给定左连续 t-范数 $\ast$，一个 $\ast$-结构 ${\mathbf M}$ 由一个非空元素域 $M$、对每个 $n$ 元函数符号 $f\in \mathcal{P\!L}$ 的一个函数 $f_{\mathbf M}\colon M^n\to M$，以及对每个 $n$ 元谓词符号 $P\in \mathcal{P\!L}$ 的一个函数 $P_{\mathbf M}\colon M^n\to [0,1]$ 组成。固定对象变元在 $M$ 中的一个赋值 ${\mathrm v}$，就可定义项的值（$\|f(t_1,\dots,t_n)\|^{\mathbf M}_{\mathrm v} = f_{\mathbf M}(\|t_1\|^{\mathbf M}_{\mathrm v},\dots,\|t_n\|^{\mathbf M}_{\mathrm v})$）与原子公式的真值（$\|P(t_1,\dots,t_n)\|^{\mathbf M}_{\mathrm v} = P_{\mathbf M}(\|t_1\|^{\mathbf M}_{\mathrm v},\dots,\|t_n\|^{\mathbf M}_{\mathrm v})$）。全称/存在量化公式的真值，按公式实例真值的下确界/上确界计算，其中量化变元遍历域 $M$ 的所有元素。形式地：$$ \begin{align} \|\forall x\, \varphi\|^{\mathbf M}_{\mathrm v} & = \inf\{\|\varphi\|^{\mathbf M}_{{\mathrm v}[x{:}a]} \mid a\in M\}\\ \|\exists x\,\varphi\|^{\mathbf M}_{\mathrm v} & = \sup\{\|\varphi\|^{\mathbf M}_{{\mathrm v}[x{:}a]}\mid a\in M\},\\ \end{align} $$ 其中 ${\mathrm v}[x{:}a]$ 是把 $x$ 送到 $a$、其余变元取值不变的赋值。其他公式的值按命题语义那样计算：把 $\&$ 解释为 $\ast$、蕴涵 $\to$ 解释为其剩余 $\Rightarrow_\ast$、$\land$ 与 $\overline{0}$ 分别解释为 $\min$ 与 $0$。
     step2: |-
-      命题逻辑 MTL 可以在一阶谓词语言 $\mathcal{P\!L}$（定义同经典情形）中给出一阶对应物 MTL$\forall$。语义由结构给出：谓词符号解释为把论域元素元组映到真值的函数。确切地说，给定左连续 t-范数 $\ast$，一个 $\ast$-结构 ${\mathbf M}$ 包括：非空元素域 $M$；对每个 $n$ 元函数符号 $f\in \mathcal{P\!L}$ 的一个函数 $f_{\mathbf M}\colon M^n\to M$；对每个 $n$ 元谓词符号 $P\in \mathcal{P\!L}$ 的一个函数 $P_{\mathbf M}\colon M^n\to [0,1]$。固定对象变元在 $M$ 中的赋值 ${\mathrm v}$，就可以定义项的值（$\|f(t_1,\dots,t_n)\|^{\mathbf M}_{\mathrm v} = f_{\mathbf M}(\|t_1\|^{\mathbf M}_{\mathrm v},\dots,\|t_n\|^{\mathbf M}_{\mathrm v})$）和原子公式的真值（$\|P(t_1,\dots,t_n)\|^{\mathbf M}_{\mathrm v} = P_{\mathbf M}(\|t_1\|^{\mathbf M}_{\mathrm v},\dots,\|t_n\|^{\mathbf M}_{\mathrm v})$）。全称或存在量化公式的真值，取公式各实例真值的下确界或上确界，量化变元遍历域 $M$ 的全部元素。形式地：$$ \begin{align} \|\forall x\, \varphi\|^{\mathbf M}_{\mathrm v} & = \inf\{\|\varphi\|^{\mathbf M}_{{\mathrm v}[x{:}a]} \mid a\in M\}\\ \|\exists x\,\varphi\|^{\mathbf M}_{\mathrm v} & = \sup\{\|\varphi\|^{\mathbf M}_{{\mathrm v}[x{:}a]}\mid a\in M\},\\ \end{align} $$ 其中 ${\mathrm v}[x{:}a]$ 是把 $x$ 送到 $a$、其余变元保持不变的赋值。其他公式的值照命题语义算：$\&$ 解释为 $\ast$，蕴涵 $\to$ 解释为其剩余 $\Rightarrow_\ast$，$\land$ 与 $\overline{0}$ 分别解释为 $\min$ 与 $0$。
+      命题逻辑 MTL 可以在一阶谓词语言 $\mathcal{P\!L}$（定义同经典情形）中给出一阶对应物 MTL$\forall$。语义由结构给出：谓词符号解释为把论域元素元组映到真值的函数。确切地说，给定左连续 t-范数 $\ast$，一个 $\ast$-结构 ${\mathbf M}$ 包括：非空元素域 $M$；对每个 $n$ 元函数符号 $f\in \mathcal{P\!L}$ 的一个函数 $f_{\mathbf M}\colon M^n\to M$；对每个 $n$ 元谓词符号 $P\in \mathcal{P\!L}$ 的一个函数 $P_{\mathbf M}\colon M^n\to [0,1]$。把对象变元在 $M$ 中的赋值 ${\mathrm v}$ 固定下来，就能定义项的值（$\|f(t_1,\dots,t_n)\|^{\mathbf M}_{\mathrm v} = f_{\mathbf M}(\|t_1\|^{\mathbf M}_{\mathrm v},\dots,\|t_n\|^{\mathbf M}_{\mathrm v})$）和原子公式的真值（$\|P(t_1,\dots,t_n)\|^{\mathbf M}_{\mathrm v} = P_{\mathbf M}(\|t_1\|^{\mathbf M}_{\mathrm v},\dots,\|t_n\|^{\mathbf M}_{\mathrm v})$）。全称或存在量化公式的真值，取公式各实例真值的下确界或上确界，量化变元遍历域 $M$ 的全部元素。形式地：$$ \begin{align} \|\forall x\, \varphi\|^{\mathbf M}_{\mathrm v} & = \inf\{\|\varphi\|^{\mathbf M}_{{\mathrm v}[x{:}a]} \mid a\in M\}\\ \|\exists x\,\varphi\|^{\mathbf M}_{\mathrm v} & = \sup\{\|\varphi\|^{\mathbf M}_{{\mathrm v}[x{:}a]}\mid a\in M\},\\ \end{align} $$ 其中 ${\mathrm v}[x{:}a]$ 是把 $x$ 送到 $a$、其余变元保持不变的赋值。其他公式的值照命题语义算：$\&$ 解释为 $\ast$，蕴涵 $\to$ 解释为其剩余 $\Rightarrow_\ast$，$\land$ 与 $\overline{0}$ 分别解释为 $\min$ 与 $0$。
   - id: 30
     kind: body
     source: |-
@@ -297,7 +297,7 @@ segments:
     step1: |-
       MTL$\forall$ 的推理规则是 *肯定前件* 加上 *概括* 规则：从 $\varphi$ 推出 $\forall x\,\varphi$。
     step2: |-
-      MTL$\forall$ 的推理规则，是 *肯定前件* 再加 *概括*：由 $\varphi$ 推出 $\forall x\,\varphi$。
+      MTL$\forall$ 的推理规则，是 **肯定前件** 再加 **概括规则**：由 $\varphi$ 推出 $\forall x\,\varphi$。
   - id: 34
     kind: body
     source: |-
@@ -386,7 +386,7 @@ segments:
     step1: |-
       MTL-链是整个代数学科的基本构件，意思是每个 MTL-代数都可分解为链的 *次直积*。这意味着该逻辑相对于 MTL-链语义也是完全的，而这又被用作证明它相对于基于 t-范数语义完全的第一步（Jenei & Montagna 2002）[^jenei-2002]。
     step2: |-
-      MTL-链是整个代数类的基本构件：每个 MTL-代数都能分解成链的 *次直积*。这意味着该逻辑相对于 MTL-链语义也完全；证明它相对于基于 t-范数语义完全时，第一步靠的就是这一点（Jenei & Montagna 2002）[^jenei-2002]。
+      MTL-链是整个代数类的基本构件：每个 MTL-代数都能分解成链的 **次直积**。这意味着该逻辑相对于 MTL-链语义也完全；证明它相对于基于 t-范数语义完全时，第一步靠的就是这一点（Jenei & Montagna 2002）[^jenei-2002]。
   - id: 44
     kind: body
     source: |-
@@ -450,7 +450,7 @@ segments:
     step1: |-
       投票语义基于这样的想法：不同的行动者（投票者）可以对同一命题作出一致而不同的判断。接受命题 $\varphi$ 为真的行动者比例，可以看作一个真值。不加进一步限制，这不会导致真值函项语义，而只是给命题指派概率。但如果给每个行动者指定固定的 *怀疑水平*，并施加一些自然条件，使对逻辑复合陈述的判断与这些水平保持一致，就能把 $\min$、$\max$ 与 $1-x$ 分别恢复为合取、析取与否定的真值函项。细节见 Lawry 1998。
     step2: |-
-      投票语义的想法是：不同的行动者（投票者）可以各自一致地对同一命题作出不同判断。把接受命题 $\varphi$ 为真的人所占比例看作真值。若不加限制，这得不到真值函项语义，只会给命题指派概率。但若给每个行动者定一个固定的 *怀疑水平*，再加一些自然条件，使他们对逻辑复合陈述的判断与这些水平相容，就能把 $\min$、$\max$、$1-x$ 分别还原为合取、析取、否定的真值函项。细节见 Lawry 1998。
+      投票语义的想法是：不同的行动者（投票者）可以融贯地对同一命题给出不同判断。把接受命题 $\varphi$ 为真的人所占比例看作真值。若不加限制，这得不到真值函项语义，只会给命题指派概率。但若给每个行动者定一个固定的 **怀疑水平**，再加一些自然条件，使他们对逻辑复合陈述的判断与这些水平相容，就能把 $\min$、$\max$、$1-x$ 分别还原为合取、析取、否定的真值函项。细节见 Lawry 1998。
   - id: 52
     kind: body
     source: |-
@@ -539,7 +539,7 @@ segments:
     step1: |-
       为含模糊谓词与模糊命题的推理建模，常被引为引入模糊逻辑的主要动机。关于模糊性有许多替代理论，但大家普遍同意，易受连锁悖论影响是模糊性的主要特征。考虑该悖论的如下版本：
     step2: |-
-      人们常说，引入模糊逻辑的主要动机，是要为含模糊谓词、模糊命题的推理建模。模糊性理论不少，但一般认为，容易陷入连锁悖论是模糊性的主要特征。看下面这个悖论版本：
+      人们常说，引入模糊逻辑的主要动机，是要为含模糊谓词、模糊命题的推理建模。模糊性理论不少，但一般认为，容易陷入堆垛悖论是模糊性的主要特征。看下面这个悖论版本：
   - id: 62
     kind: body
     source: |-
@@ -558,7 +558,7 @@ segments:
     step1: |-
       表面看来，接受这两个假设似乎并非不合理。把 (2) 中的 $n$ 实例化为 $10^{100}$，并以 (1) 作另一前提应用 *肯定前件*，我们推出 $10^{100}-1$ 是巨大的。只要重复这类推理，就会到达不合理的陈述
     step2: |-
-      乍看之下，接受这两个假设并不算不合理。把 (2) 里的 $n$ 换成 $10^{100}$，再拿 (1) 作另一前提用 *肯定前件*，就推出 $10^{100}-1$ 是巨大的。照这样一路推下去，便得到不合理的陈述
+      乍看之下，接受这两个假设并不算不合理。把 (2) 里的 $n$ 换成 $10^{100}$，再拿 (1) 作另一前提用 **肯定前件**，就推出 $10^{100}-1$ 是巨大的。照这样一路推下去，便得到不合理的陈述
   - id: 64
     kind: body
     source: |-
@@ -574,7 +574,7 @@ segments:
     step1: |-
       模糊逻辑提供了一种对 *连锁悖论* 的分析，它尊重这样的直觉：陈述 (2) 虽说不上完全真，却几乎是真。
     step2: |-
-      模糊逻辑对 *连锁悖论* 给出一种分析，照顾到这样一个直觉：陈述 (2) 虽然算不上完全真，但几乎是真的。
+      模糊逻辑对 **堆垛悖论** 给出一种分析，照顾到这样一个直觉：陈述 (2) 虽然算不上完全真，但几乎是真的。
   - id: 66
     kind: body
     source: |-
@@ -582,7 +582,7 @@ segments:
     step1: |-
       在基于 t-范数的模糊逻辑中，有各种方式为这种推理建模并消解该悖论。例如，可以规定：只要结论的真值度不低于其前提的强合取的真值度，任何 *肯定前件* 实例都是可靠的。[^note-5] 如前所示，人们规定 (2) 的每个实例都以 $1-\epsilon$ 的程度为真，其中 $\epsilon$ 是某个非常小的数。即便我们宣布 (1) 完全真，“$10^{100}-1$ 也是巨大的”这一陈述仍可能不那么完全真，而不牺牲实例化与 *肯定前件* 的可靠性。此外，若两个并非完全真（也并非完全假）的陈述之合取的真值度低于每个合取项的真值度，我们就可以放心宣布陈述 (3) 完全假，同时仍坚持上述推理链每一步都可靠。用大白话说，悖论之所以消失，是因为把某个完全巨大的数反复减去一个小量，所得的数“也是巨大的”这一点会越来越不那么真。
     step2: |-
-      在基于 t-范数的模糊逻辑里，有好几种办法给这种推理建模并消解悖论。比如可以规定：只要结论的真值度不低于其前提强合取的真值度，任何 *肯定前件* 实例都算可靠。[^note-5] 如前所说，规定 (2) 的每个实例都以 $1-\epsilon$ 的程度为真，$\epsilon$ 是某个很小的数。这样，即便宣布 (1) 完全真，“$10^{100}-1$ 也是巨大的”仍可能不是完全真，而实例化和 *肯定前件* 的可靠性并不受损。再者，若两个不完全真（也不完全假）的陈述，其合取的真值度低于任一合取项，我们就可以放心宣布 (3) 完全假，同时仍坚持推理链每一步都可靠。通俗地说，悖论之所以消失，是因为把一个完全巨大的数反复减去一小点，得到的数“也是巨大的”会越来越不那么真。
+      在基于 t-范数的模糊逻辑里，有好几种办法给这种推理建模并消解悖论。比如可以规定：只要结论的真值度不低于其前提强合取的真值度，任何 **肯定前件** 实例都算可靠。[^note-5] 如前所说，规定 (2) 的每个实例都以 $1-\epsilon$ 的程度为真，$\epsilon$ 是某个很小的数。这样，即便宣布 (1) 完全真，“$10^{100}-1$ 也是巨大的”仍可能不是完全真，而实例化和 **肯定前件** 的可靠性并不受损。再者，若两个不完全真（也不完全假）的陈述，其合取的真值度低于任一合取项，我们就可以放心宣布 (3) 完全假，同时仍坚持推理链每一步都可靠。通俗地说，悖论之所以消失，是因为把一个完全巨大的数反复减去一小点，就越来越说不上所得的数“也是巨大的”了。
   - id: 67
     kind: body
     source: |-
@@ -590,7 +590,7 @@ segments:
     step1: |-
       Hájek & Novák 2003 提出了另一种基于真值度的 *连锁悖论* 解决方案。他们引入一个新联结词，为“几乎真的是”这一表达建模。这样，他们就在一个适当的基于 t-范数的模糊逻辑的公理理论中形式化了 *连锁* 式推理。
     step2: |-
-      Hájek & Novák 2003 另提出一种基于真值度的 *连锁悖论* 解法：引入一个新联结词，替“几乎可以说是”这一说法建模。这样，他们就在合适的基于 t-范数的模糊逻辑里，用公理理论形式化了 *连锁* 式推理。
+      Hájek & Novák 2003 另提出一种基于真值度的 **堆垛悖论** 解法：引入一个新联结词，替“几乎可以说是”这一说法建模。这样，他们就在合适的基于 t-范数的模糊逻辑里，用公理理论形式化了 **堆垛** 式推理。
   - id: 68
     kind: body
     source: |-
@@ -598,7 +598,7 @@ segments:
     step1: |-
       Nicholas J.J. Smith（2005、2008）主张，所谓 *接近原则* 抓住了模糊性的本质。它说的是：关于不可区分对象的同形式陈述，在真值上应当保持接近。许多用模糊逻辑处理连锁悖论的方法都有一个标志性特征：它们与该原则相容。[^note-6]
     step2: |-
-      Nicholas J.J. Smith（2005、2008）主张，模糊性的本质就在所谓 *接近原则* 里：关于不可区分对象的同形式陈述，在真值上应当彼此接近。许多借助模糊逻辑处理连锁悖论的进路，其标志之一正是与该原则相容。[^note-6]
+      Nicholas J.J. Smith（2005、2008）主张，模糊性的本质就在所谓 **接近原则** 里：关于不可区分对象的同形式陈述，在真值上应当彼此接近。许多借助模糊逻辑处理堆垛悖论的进路，其标志之一正是与该原则相容。[^note-6]
   - id: 69
     kind: oir
     source: |-

@@ -70,7 +70,7 @@ segments:
     step1: |-
       混合逻辑的一个主要动机是给普通模态逻辑增加表达力，以便能够形式化第二类语句。办法是给普通模态逻辑加入第二类命题符号，称为 *名项*，使得在 Kripke 语义中每个名项恰相对于一个点为真。第二类自然语言语句（如以 2021 年 11 月 15 日五点整为时间的例句）便用名项而非普通命题符号来形式化（后者用于形式化下雨天气的例句）。名项恰相对于一个点为真这一事实意味着，名项可视为指称一个点的词项；例如，若 $\mathtt{a}$ 是代表“现在是 2021 年 11 月 15 日五点整”的名项，则该名项可视为指称 2021 年 11 月 15 日五点整这一时间的词项。因此，在混合逻辑中，词项是一类特殊的命题符号，而在一阶逻辑中，词项是谓词的论元。
     step2: |-
-      混合逻辑的一大动机，是增强普通模态逻辑的表达力，以形式化上述第二类语句。其做法是引入第二类命题符号——*名项*，并规定在 Kripke 语义中每个名项恰相对于一个点为真。于是，第二类自然语言语句（如以 2021 年 11 月 15 日五点整为时间的那句）便以名项而非普通命题符号来形式化；普通命题符号则用于“正在下雨”一类例句。名项恰相对于一个点为真，这意味着名项可以看作指称某一点的词项：设 $\mathtt{a}$ 为代表“现在是 2021 年 11 月 15 日五点整”的名项，则它可视为指称该时刻的词项。由此可见，混合逻辑中的词项是一类特殊的命题符号，而在一阶逻辑中词项是谓词的论元。
+      混合逻辑的一大动机，是增强普通模态逻辑的表达力，以形式化上述第二类语句。其做法是引入第二类命题符号——**名项**，并规定在 Kripke 语义中每个名项恰相对于一个点为真。于是，第二类自然语言语句（如以 2021 年 11 月 15 日五点整为时间的那句）便以名项而非普通命题符号来形式化；普通命题符号则用于“正在下雨”一类例句。名项恰相对于一个点为真，这意味着名项可以看作指称某一点的词项：设 $\mathtt{a}$ 为代表“现在是 2021 年 11 月 15 日五点整”的名项，则它可视为指称该时刻的词项。由此可见，混合逻辑中的词项是一类特殊的命题符号，而在一阶逻辑中词项是谓词的论元。
   - id: 9
     kind: body
     source: |-
@@ -78,7 +78,7 @@ segments:
     step1: |-
       大多数混合逻辑还涉及名项之外的更多机制。此类增添有多种选择；这里我们考察所谓 *满足算子*。加入满足算子的动机，是能够形式化“某陈述在特定时间、可能世界或其他东西上为真”。例如，我们希望能形式化“正在下雨”这一陈述在 2021 年 11 月 15 日五点整为真，即：
     step2: |-
-      多数混合逻辑还设有名项之外的其他机制，可供选择者不止一种；这里只考察所谓 *满足算子*。引入满足算子，是为了能形式化“某陈述在特定时间、可能世界或其他对象上为真”。例如，我们希望形式化“正在下雨”在 2021 年 11 月 15 日五点整为真，亦即：
+      多数混合逻辑还设有名项之外的其他机制，可供选择者不止一种；这里只考察所谓 **满足算子**。引入满足算子，是为了能形式化“某陈述在特定时间、可能世界或其他对象上为真”。例如，我们希望形式化“正在下雨”在 2021 年 11 月 15 日五点整为真，亦即：
   - id: 10
     kind: body
     source: |-
@@ -94,7 +94,7 @@ segments:
     step1: |-
       这由公式 $\mathtt{@_a p}$ 形式化，其中名项 $\mathtt{a}$ 如上代表“现在是 2021 年 11 月 15 日五点整”，$\mathtt{p}$ 是代表“正在下雨”的普通命题符号。公式 $\mathtt{@_a p}$ 中的 $\mathtt{@_a}$ 部分称为满足算子。一般地，若 $\mathtt{a}$ 是名项、$\mathtt{\phi}$ 是任意公式，则可构造新公式 $\mathtt{@_a\phi}$，称为 *满足陈述*。满足陈述 $\mathtt{@_a\phi}$ 表达：公式 $\mathtt{\phi}$ 相对于一个特定点为真，即名项 $\mathtt{a}$ 所指称的那个点。
     step2: |-
-      这由公式 $\mathtt{@_a p}$ 形式化：其中名项 $\mathtt{a}$ 如上代表“现在是 2021 年 11 月 15 日五点整”，$\mathtt{p}$ 则是代表“正在下雨”的普通命题符号。公式 $\mathtt{@_a p}$ 中的 $\mathtt{@_a}$ 部分即所谓满足算子。一般地，给定名项 $\mathtt{a}$ 与任意公式 $\mathtt{\phi}$，即可构造新公式 $\mathtt{@_a\phi}$，称为 *满足陈述*。满足陈述 $\mathtt{@_a\phi}$ 表达：公式 $\mathtt{\phi}$ 相对于某一特定点——即名项 $\mathtt{a}$ 所指称之点——为真。
+      这由公式 $\mathtt{@_a p}$ 形式化：其中名项 $\mathtt{a}$ 如上代表“现在是 2021 年 11 月 15 日五点整”，$\mathtt{p}$ 则是代表“正在下雨”的普通命题符号。公式 $\mathtt{@_a p}$ 中的 $\mathtt{@_a}$ 部分即所谓满足算子。一般地，给定名项 $\mathtt{a}$ 与任意公式 $\mathtt{\phi}$，即可构造新公式 $\mathtt{@_a\phi}$，称为 **满足陈述**。满足陈述 $\mathtt{@_a\phi}$ 表达：公式 $\mathtt{\phi}$ 相对于某一特定点——即名项 $\mathtt{a}$ 所指称之点——为真。
   - id: 12
     kind: body
     source: |-
@@ -198,7 +198,7 @@ segments:
     step1: |-
       除名项与满足算子外，下文还考察所谓 *约束子* $\mathtt{\forall}$ 与 $\mathtt{\downarrow}$，它们使我们能构造公式 $\mathtt{\forall a \phi}$ 与 $\mathtt{{\downarrow} a \phi}$。这两个约束子以两种不同方式把名项约束到点上：$\mathtt{\forall}$ 约束子像标准一阶全称量词那样对点进行量化，即 $\mathtt{\forall a \phi}$ 相对于 $w$ 为真，当且仅当无论名项 $\mathtt{a}$ 指称哪个点，$\mathtt{\phi}$ 都相对于 $w$ 为真。$\mathtt{\downarrow}$ 约束子把名项约束到求值点，即 $\mathtt{{\downarrow} a \phi}$ 相对于 $w$ 为真，当且仅当在 $\mathtt{a}$ 指称 $w$ 时 $\mathtt{\phi}$ 相对于 $w$ 为真。结果表明，$\mathtt{\downarrow}$ 约束子可由 $\mathtt{\forall}$ 定义（如下所示）。
     step2: |-
-      除名项与满足算子，下文还考察所谓 *约束子* $\mathtt{\forall}$、$\mathtt{\downarrow}$，用以构造公式 $\mathtt{\forall a \phi}$ 与 $\mathtt{{\downarrow} a \phi}$。二者约束名项的方式不同：$\mathtt{\forall}$ 约束子仿照标准一阶全称量词对点作量化，即 $\mathtt{\forall a \phi}$ 相对于 $w$ 为真，当且仅当无论名项 $\mathtt{a}$ 指称何点，$\mathtt{\phi}$ 都相对于 $w$ 为真；$\mathtt{\downarrow}$ 约束子则把名项约束到求值点，即 $\mathtt{{\downarrow} a \phi}$ 相对于 $w$ 为真，当且仅当令 $\mathtt{a}$ 指称 $w$ 时，$\mathtt{\phi}$ 相对于 $w$ 为真。结果表明，$\mathtt{\downarrow}$ 约束子可用 $\mathtt{\forall}$ 定义（见下文）。
+      除名项与满足算子，下文还考察所谓 **约束子** $\mathtt{\forall}$、$\mathtt{\downarrow}$，用以构造公式 $\mathtt{\forall a \phi}$ 与 $\mathtt{{\downarrow} a \phi}$。二者约束名项的方式不同：$\mathtt{\forall}$ 约束子仿照标准一阶全称量词对点作量化，即 $\mathtt{\forall a \phi}$ 相对于 $w$ 为真，当且仅当无论名项 $\mathtt{a}$ 指称何点，$\mathtt{\phi}$ 都相对于 $w$ 为真；$\mathtt{\downarrow}$ 约束子则把名项约束到求值点，即 $\mathtt{{\downarrow} a \phi}$ 相对于 $w$ 为真，当且仅当令 $\mathtt{a}$ 指称 $w$ 时，$\mathtt{\phi}$ 相对于 $w$ 为真。结果表明，$\mathtt{\downarrow}$ 约束子可用 $\mathtt{\forall}$ 定义（见下文）。
   - id: 23
     kind: body
     source: |-
@@ -214,7 +214,7 @@ segments:
     step1: |-
       我们所考察的语言，是在普通命题符号 $\mathtt{p}, \mathtt{q}, \mathtt{r}, …$ 以及名项 $\mathtt{a}, \mathtt{b}, \mathtt{c}, …$ 之上建立的普通模态逻辑语言，并加入满足算子与约束子。我们把命题联结词 $\mathtt{\wedge}$ 与 $\mathtt{\neg}$ 作为初始符号；其他命题联结词按通常方式定义。同样，我们把模态算子 $\mathtt{\Box}$ 作为初始符号，并把模态算子 $\mathtt{\Diamond}$ 定义为 $\mathtt{\neg \Box \neg}$。顾名思义，约束子约束名项，名项的自由出现与约束出现概念仿照一阶逻辑定义。满足算子不约束名项，即公式 $\mathtt{@_a \phi}$ 中名项的自由出现，是 $\mathtt{\phi}$ 中名项的自由出现再加上 $\mathtt{a}$ 的出现。我们以 $\mathtt{\phi[c/a]}$ 表示这样的公式 $\mathtt{\phi}$：其中名项 $\mathtt{c}$ 已代入名项 $\mathtt{a}$ 的一切自由出现。若名项 $\mathtt{a}$ 在 $\mathtt{\phi}$ 中于 $\mathtt{\forall c}$ 或 $\mathtt{{\downarrow} c}$ 的辖域内自由出现，则 $\mathtt{\phi}$ 中的约束名项 $\mathtt{c}$ 按需改名。
     step2: |-
-      本词条考察的语言，是在普通命题符号 $\mathtt{p}, \mathtt{q}, \mathtt{r}, …$ 与名项 $\mathtt{a}, \mathtt{b}, \mathtt{c}, …$ 之上建立的普通模态逻辑语言，再加入满足算子与约束子。命题联结词以 $\mathtt{\wedge}$、$\mathtt{\neg}$ 为初始符号，其余按通常方式定义；模态算子以 $\mathtt{\Box}$ 为初始符号，$\mathtt{\Diamond}$ 则定义为 $\mathtt{\neg \Box \neg}$。约束子约束名项，名项的自由出现与约束出现仿照一阶逻辑界定。满足算子不约束名项：公式 $\mathtt{@_a \phi}$ 中名项的自由出现，即 $\mathtt{\phi}$ 中名项的自由出现加上 $\mathtt{a}$ 的出现。记 $\mathtt{\phi[c/a]}$ 为将名项 $\mathtt{c}$ 代入 $\mathtt{a}$ 的一切自由出现所得的公式 $\mathtt{\phi}$；若 $\mathtt{a}$ 在 $\mathtt{\phi}$ 中于 $\mathtt{\forall c}$ 或 $\mathtt{{\downarrow} c}$ 的辖域内自由出现，则相应改名 $\mathtt{\phi}$ 中的约束名项 $\mathtt{c}$。
+      本词条考察的语言，是在普通命题符号 $\mathtt{p}, \mathtt{q}, \mathtt{r}, …$ 与名项 $\mathtt{a}, \mathtt{b}, \mathtt{c}, …$ 之上建立的普通模态逻辑语言，再加入满足算子与约束子。命题联结词以 $\mathtt{\wedge}$、$\mathtt{\neg}$ 为初始符号，其余按通常方式定义；模态算子以 $\mathtt{\Box}$ 为初始符号，$\mathtt{\Diamond}$ 则定义为 $\mathtt{\neg \Box \neg}$。约束子约束名项；名项何谓自由出现、何谓约束出现，仿照一阶逻辑界定。满足算子不约束名项：$\mathtt{@_a \phi}$ 中自由出现的名项，等于 $\mathtt{\phi}$ 中自由出现的名项再加上 $\mathtt{a}$。记 $\mathtt{\phi[c/a]}$ 为如下结果：把名项 $\mathtt{c}$ 代入 $\mathtt{\phi}$，替换 $\mathtt{a}$ 的全部自由出现。若 $\mathtt{a}$ 在 $\mathtt{\phi}$ 中于 $\mathtt{\forall c}$ 或 $\mathtt{{\downarrow} c}$ 辖域内自由出现，则相应改名 $\mathtt{\phi}$ 里的约束名项 $\mathtt{c}$。
   - id: 25
     kind: body
     source: |-
@@ -222,7 +222,7 @@ segments:
     step1: |-
       我们现在定义模型与框架。混合逻辑的 *模型* 是三元组 $(W, R, V)$，其中 $W$ 是非空集合，$R$ 是 $W$ 上的二元关系，$V$ 是把集合 $\{0,1\}$ 的元素指派给“$W$ 的元素与普通命题符号”的每一对的函数。对 $(W, R)$ 称为 *框架*。因此，模型与框架同普通模态逻辑一样。$W$ 的元素称为 *世界*，关系 $R$ 称为 *可及关系*。称模型 $(W, R, V)$ *基于* 框架 $(W, R)$。
     step2: |-
-      现在定义模型与框架。混合逻辑的 *模型* 为三元组 $(W, R, V)$：$W$ 是非空集，$R$ 是 $W$ 上的二元关系，$V$ 是把 $\{0,1\}$ 中的元素指派给每一“$W$ 的元素与普通命题符号”对的函数。对 $(W, R)$ 称为 *框架*。可见模型、框架与普通模态逻辑无异。$W$ 的元素称 *世界*，$R$ 称 *可及关系*；模型 $(W, R, V)$ 称 *基于* 框架 $(W, R)$。
+      现在定义模型与框架。混合逻辑的 **模型** 为三元组 $(W, R, V)$：$W$ 是非空集，$R$ 是 $W$ 上的二元关系，$V$ 是函数：给每一对“$W$ 中元素与普通命题符号”指派 $\{0,1\}$ 中一个元素。对 $(W, R)$ 称为 **框架**。可见模型、框架与普通模态逻辑无异。$W$ 的元素称 **世界**，$R$ 称 **可及关系**；模型 $(W, R, V)$ 称 **基于** 框架 $(W, R)$。
   - id: 26
     kind: body
     source: |-
@@ -230,7 +230,7 @@ segments:
     step1: |-
       模型 $M = (W, R, V)$ 的 *指派* 是把 $W$ 的元素指派给每个名项的函数 $g$。若指派 $g'$ 除可能对 $\mathtt{a}$ 外与 $g$ 在所有名项上一致，则称 $g'$ 是 $g$ 的 $\mathtt{a}$ *变体*。关系 $M, g, w \vDash \phi$ 按归纳定义，其中 $g$ 是指派，$w$ 是 $W$ 的元素，$\mathtt{\phi}$ 是公式。
     step2: |-
-      模型 $M = (W, R, V)$ 的 *指派* 是给每个名项指派 $W$ 中元素的函数 $g$。若 $g'$ 与 $g$ 在除 $\mathtt{a}$ 外的所有名项上一致，则称 $g'$ 为 $g$ 的 $\mathtt{a}$ *变体*。关系 $M, g, w \vDash \phi$ 按归纳定义，其中 $g$ 为指派、$w$ 为 $W$ 的元素、$\mathtt{\phi}$ 为公式。
+      模型 $M = (W, R, V)$ 的 **指派** 是给每个名项指派 $W$ 中元素的函数 $g$。若 $g'$ 与 $g$ 在除 $\mathtt{a}$ 外的所有名项上一致，则称 $g'$ 为 $g$ 的 $\mathtt{a}$ **变体**。关系 $M, g, w \vDash \phi$ 按归纳定义，其中 $g$ 为指派、$w$ 为 $W$ 的元素、$\mathtt{\phi}$ 为公式。
   - id: 27
     kind: body
     source: |-
@@ -246,7 +246,7 @@ segments:
     step1: |-
       若 $M, g, w \vDash \mathtt{\phi}$，则称公式 $\mathtt{\phi}$ 在 $w$ 处 *真*，否则称在 $w$ 处 *假*。按约定，$M, g \vDash \mathtt{\phi}$ 表示对 $W$ 的每个元素 $w$ 都有 $M, g, w \vDash \mathtt{\phi}$；$M \vDash \mathtt{\phi}$ 表示对每个指派 $g$ 都有 $M, g \vDash \mathtt{\phi}$。公式 $\mathtt{\phi}$ 在框架中 *有效*，当且仅当对任何基于该框架的模型 $M$ 都有 $M \vDash \mathtt{\phi}$。公式 $\mathtt{\phi}$ 在框架类 $F$ 中 *有效*，当且仅当 $\mathtt{\phi}$ 在 $F$ 的任一框架中都有效。公式 $\mathtt{\phi}$ *有效*，当且仅当它在所有框架构成的类中有效。可满足性的定义留给读者。
     step2: |-
-      若 $M, g, w \vDash \mathtt{\phi}$，称 $\mathtt{\phi}$ 在 $w$ 处 *真*，否则称在 $w$ 处 *假*。约定 $M, g \vDash \mathtt{\phi}$ 指对 $W$ 中一切 $w$ 均有 $M, g, w \vDash \mathtt{\phi}$；$M \vDash \mathtt{\phi}$ 指对一切指派 $g$ 均有 $M, g \vDash \mathtt{\phi}$。$\mathtt{\phi}$ 在某框架中 *有效*，当且仅当一切基于该框架的模型 $M$ 都满足 $M \vDash \mathtt{\phi}$；$\mathtt{\phi}$ 在框架类 $F$ 中 *有效*，当且仅当 $\mathtt{\phi}$ 在 $F$ 的每个框架中都有效；$\mathtt{\phi}$ *有效*，当且仅当 $\mathtt{\phi}$ 在一切框架的类中有效。可满足性的定义从略。
+      若 $M, g, w \vDash \mathtt{\phi}$，称 $\mathtt{\phi}$ 在 $w$ 处 **真**，否则称在 $w$ 处 **假**。约定 $M, g \vDash \mathtt{\phi}$ 指对 $W$ 中一切 $w$ 均有 $M, g, w \vDash \mathtt{\phi}$；$M \vDash \mathtt{\phi}$ 指对一切指派 $g$ 均有 $M, g \vDash \mathtt{\phi}$。$\mathtt{\phi}$ 在某框架中 **有效**，当且仅当一切基于该框架的模型 $M$ 都满足 $M \vDash \mathtt{\phi}$；$\mathtt{\phi}$ 在框架类 $F$ 中 **有效**，当且仅当 $\mathtt{\phi}$ 在 $F$ 的每个框架中都有效；$\mathtt{\phi}$ **有效**，当且仅当 $\mathtt{\phi}$ 在一切框架的类中有效。可满足性的定义从略。
   - id: 29
     kind: body
     source: |-
@@ -312,7 +312,7 @@ segments:
 
       $$\begin{align*} \mathrm{ST}_\mathtt{a} (\mathtt{{\downarrow} c\Box \neg c}) &= \mathrm{ST}_\mathtt{a} (\mathtt{\Box \neg c})[\mathtt{a}/\mathtt{c}] \\ &= \mathtt{\forall b(R(a, b) \rightarrow } \mathrm{ST}_\mathtt{b} (\mathtt{\neg c})\mathtt{)}[\mathtt{a}/\mathtt{c}] \\ &= \mathtt{\forall b(R(a, b) \rightarrow \neg } \mathrm{ST}_\mathtt{b} (\mathtt{c})\mathtt{)}[\mathtt{a}/\mathtt{c}] \\ &= \mathtt{\forall b(R(a, b) \rightarrow \neg b=c)}[\mathtt{a}/\mathtt{c}] \\ &= \mathtt{\forall b(R(a, b) \rightarrow \neg b=a)}. \end{align*}$$
     step2: |-
-      $\mathrm{ST}_\mathtt{b}$ 的定义只需互换 $\mathtt{a}$、$\mathtt{b}$。此翻译是模态逻辑到一阶逻辑的著名 *标准翻译* 之扩展。下面逐步演示混合逻辑公式 $\mathtt{{\downarrow} c\Box \neg c}$ 如何译成一阶公式：
+      $\mathrm{ST}_\mathtt{b}$ 的定义只需互换 $\mathtt{a}$、$\mathtt{b}$。此翻译是模态逻辑到一阶逻辑的著名 **标准翻译** 之扩展。下面逐步演示混合逻辑公式 $\mathtt{{\downarrow} c\Box \neg c}$ 如何译成一阶公式：
 
       $$\begin{align*} \mathrm{ST}_\mathtt{a} (\mathtt{{\downarrow} c\Box \neg c}) &= \mathrm{ST}_\mathtt{a} (\mathtt{\Box \neg c})[\mathtt{a}/\mathtt{c}] \\ &= \mathtt{\forall b(R(a, b) \rightarrow } \mathrm{ST}_\mathtt{b} (\mathtt{\neg c})\mathtt{)}[\mathtt{a}/\mathtt{c}] \\ &= \mathtt{\forall b(R(a, b) \rightarrow \neg } \mathrm{ST}_\mathtt{b} (\mathtt{c})\mathtt{)}[\mathtt{a}/\mathtt{c}] \\ &= \mathtt{\forall b(R(a, b) \rightarrow \neg b=c)}[\mathtt{a}/\mathtt{c}] \\ &= \mathtt{\forall b(R(a, b) \rightarrow \neg b=a)}. \end{align*}$$
   - id: 36
@@ -356,7 +356,7 @@ segments:
 
       $$ \mathrm{HT}(\mathtt{\forall c(R(a, c) \rightarrow \phi)}) = \mathtt{@_a \Box {\downarrow} c}\mathrm{HT}(\mathtt{\phi}). $$
     step2: |-
-      同理，一阶逻辑的所谓 *有界片段* 亦可译入混合逻辑，但此时仅需 $\mathtt{\downarrow}$ 约束子——Areces, Blackburn, and Marx (2001) 已指出此点。有界片段是一阶逻辑的一个片段，其中量词只以 $\mathtt{\forall c(R(a, c) \rightarrow \phi)}$ 的形式出现，且要求变元 $\mathtt{a}$ 与 $\mathtt{c}$ 相异。将有界片段译入不含 $\mathtt{\forall}$ 约束子的混合逻辑，只须把翻译 HT 的最后一款改为
+      同理，一阶逻辑的所谓 **有界片段** 亦可译入混合逻辑，但此时仅需 $\mathtt{\downarrow}$ 约束子——Areces, Blackburn, and Marx (2001) 已指出此点。有界片段是一阶逻辑的一个片段，其中量词只以 $\mathtt{\forall c(R(a, c) \rightarrow \phi)}$ 的形式出现，且要求变元 $\mathtt{a}$ 与 $\mathtt{c}$ 相异。将有界片段译入不含 $\mathtt{\forall}$ 约束子的混合逻辑，只须把翻译 HT 的最后一款改为
 
       $$ \mathrm{HT}(\mathtt{\forall c(R(a, c) \rightarrow \phi)}) = \mathtt{@_a \Box {\downarrow} c}\mathrm{HT}(\mathtt{\phi}). $$
   - id: 40
@@ -374,7 +374,7 @@ segments:
     step1: |-
       上述翻译保持真值。为形式陈述这一点，可利用一个众所周知的观察：混合逻辑的模型与指派可视为一阶逻辑的模型与指派，反之亦然。这些真值保持结果表述起来很直接，细节留给读者。于是，带 $\mathtt{\forall}$ 约束子的混合逻辑与带等词的一阶逻辑表达力相同；不含 $\mathtt{\forall}$ 约束子（但含 $\mathtt{\downarrow}$ 约束子）的混合逻辑，与一阶逻辑的有界片段表达力相同（注意：任何不含 $\mathtt{\forall}$ 约束子的公式 $\mathtt{\phi}$，其翻译 $\mathrm{ST}_\mathtt{a} (\mathtt{\phi})$ 都在有界片段中）。
     step2: |-
-      上述翻译保持真值。欲形式陈述此点，可利用一个公认的观察：混合逻辑的模型与指派可视为一阶逻辑的模型与指派，反之亦然。真值保持结果的表述颇为直接，细节从略。由此，含 $\mathtt{\forall}$ 约束子的混合逻辑与带等词的一阶逻辑表达力相当；不含 $\mathtt{\forall}$ 约束子而含 $\mathtt{\downarrow}$ 约束子的混合逻辑，则与一阶逻辑的有界片段相当（注意：凡不含 $\mathtt{\forall}$ 约束子的公式 $\mathtt{\phi}$，其翻译 $\mathrm{ST}_\mathtt{a} (\mathtt{\phi})$ 均属有界片段）。
+      上述翻译保持真值。为形式陈述此点，可用一个公认观察：混合逻辑模型与指派，可视为一阶逻辑模型与指派，反之亦然。真值保持结果，表述颇为直接，细节从略。由此，凡含 $\mathtt{\forall}$ 约束子之混合逻辑，与带等词一阶逻辑表达力相当；不含 $\mathtt{\forall}$ 约束子而含 $\mathtt{\downarrow}$ 约束子之混合逻辑，则与一阶逻辑有界片段相当。（注意：凡不含 $\mathtt{\forall}$ 约束子之公式 $\mathtt{\phi}$，其翻译 $\mathrm{ST}_\mathtt{a} (\mathtt{\phi})$ 均属有界片段。）
   - id: 42
     kind: body
     source: |-
@@ -398,7 +398,7 @@ segments:
     step1: |-
       混合逻辑的历史可追溯到 Arthur N. Prior 的混合时态逻辑，它是普通时态逻辑的混合化版本。为进一步考察这一点，我们给出混合时态逻辑的形式定义。混合时态逻辑的语言就是上述混合逻辑的语言，只是有两个模态算子 $\mathtt{G}$ 与 $\mathtt{H}$，而非单一模态算子 $\mathtt{\Box}$。这两个新模态算子称为 *时态算子*。混合时态逻辑的语义即混合逻辑的语义（参前），只是把 $\mathtt{\Box}$ 的条款替换为时态算子 $\mathtt{G}$ 与 $\mathtt{H}$ 的条款。
     step2: |-
-      混合逻辑的历史可上溯至 Arthur N. Prior 的混合时态逻辑，即普通时态逻辑的混合化版本。为深入考察，先给出混合时态逻辑的形式定义。其语言同上述混合逻辑，只是以两个模态算子 $\mathtt{G}$、$\mathtt{H}$ 取代单一模态算子 $\mathtt{\Box}$；这两个新算子称 *时态算子*。语义沿用混合逻辑（见前），只将 $\mathtt{\Box}$ 的条款换成 $\mathtt{G}$、$\mathtt{H}$ 的条款。
+      混合逻辑的历史可上溯至 Arthur N. Prior 的混合时态逻辑，即普通时态逻辑的混合化版本。为深入考察，先给出混合时态逻辑的形式定义。其语言同上述混合逻辑，只是以两个模态算子 $\mathtt{G}$、$\mathtt{H}$ 取代单一模态算子 $\mathtt{\Box}$；这两个新算子称 **时态算子**。语义沿用混合逻辑（见前），只将 $\mathtt{\Box}$ 的条款换成 $\mathtt{G}$、$\mathtt{H}$ 的条款。
   - id: 45
     kind: body
     source: |-
@@ -414,7 +414,7 @@ segments:
     step1: |-
       于是现在有两个模态算子：一个沿可及关系“向前看”，一个“向后看”。在时态逻辑中，集合 $W$ 的元素称为 *时刻* 或 *瞬间*，关系 $R$ 称为 *先后关系*。
     step2: |-
-      于是有了两个模态算子：一沿可及关系“向前看”，一“向后看”。在时态逻辑中，$W$ 的元素称 *时刻* 或 *瞬间*，关系 $R$ 称 *先后关系*。
+      于是有了两个模态算子：一沿可及关系“向前看”，一“向后看”。在时态逻辑中，$W$ 的元素称 **时刻** 或 **瞬间**，关系 $R$ 称 **先后关系**。
   - id: 47
     kind: body
     source: |-
@@ -422,7 +422,7 @@ segments:
     step1: |-
       当然，容易修改上述翻译 $\mathrm{ST}_a$ 与 $\mathrm{HT}$，从而得到混合时态逻辑（含 $\mathtt{\forall}$ 约束子）与带等词一阶逻辑之间的翻译。所考虑的一阶逻辑即 Prior 所谓 *一阶先后逻辑*。由这些翻译可知，Prior 的一阶先后逻辑与混合时态逻辑表达力相同。
     step2: |-
-      当然，只需稍改上述 $\mathrm{ST}_a$ 与 $\mathrm{HT}$，便可得混合时态逻辑（含 $\mathtt{\forall}$ 约束子）与带等词一阶逻辑间的翻译。所论一阶逻辑，即 Prior 所称 *一阶先后逻辑*。据这些翻译，Prior 的一阶先后逻辑与混合时态逻辑表达力相当。
+      当然，只需稍改上述 $\mathrm{ST}_a$ 与 $\mathrm{HT}$，便可得混合时态逻辑（含 $\mathtt{\forall}$ 约束子）与带等词一阶逻辑间的翻译。所论一阶逻辑，即 Prior 所称 **一阶先后逻辑**。据这些翻译，Prior 的一阶先后逻辑与混合时态逻辑表达力相当。
   - id: 48
     kind: body
     source: |-
@@ -518,7 +518,7 @@ segments:
     step1: |-
       如上一节所述，Prior 引入混合时态逻辑是为了处理时间哲学中的一个特定问题；但在 Prior (1968) 第十四章（新版 Prior (2003) 亦为第十四章）中，他还表明混合时态逻辑可以取代 Hans Kamp 于 1967 年未刊材料中提出、后收入 Kamp (1971) 的二维时态逻辑。维度就是公式求值所相对的时刻数目，因此加入混合逻辑机制可使两个维度化约为一个。这项工作近来由 Blackburn 与 Jørgensen 在一系列论文中跟进，概述见 Blackburn and Jørgensen (2016a)。现在我们按本词条术语简述这一研究方向。所论混合逻辑版本有一个指派名项 $\mathtt{now}$，每个模型带有一个指派时间 $ t_0 $，使得 i) 任何独立公式都相对于 $ t_0 $ 求值，ii) 名项 $\mathtt{now}$ 指称 $ t_0 $。更形式地说，我们采用约定：$(M,t_0), g \vDash \mathtt{\phi}$ 表示 $M, g, t_0 \vDash \mathtt{\phi}$，且只考虑满足 $g(\mathtt{now})=t_0$ 的指派 $g$。注意，名项 $\mathtt{now}$ 作为独立公式在此语义中有效，而其他名项则不然。Blackburn 与 Jørgensen 称这种新的有效性概念为 *语境有效性*。Blackburn and Jørgensen (2013) 给出了关于该语境有效性概念完全的 axiom system。Blackburn and Jørgensen (2012) 给出了完全的表列系统，但该文语义与 Kamp 原初二维语义一致。两文还考察了 $\mathtt{yesterday}$、$\mathtt{today}$、$\mathtt{tomorrow}$ 等进一步索引词。
     step2: |-
-      如上一节所述，Prior 引入混合时态逻辑，本为处理时间哲学中的一个特定问题；但 Prior (1968) 第十四章（新版 Prior (2003) 亦为第十四章）又表明，混合时态逻辑可取代 Hans Kamp 于 1967 年未刊稿中提出、后收入 Kamp (1971) 的二维时态逻辑。所谓维度，即公式求值所相对的时刻数目；加入混合逻辑机制，便可使二维化为一维。此线工作近由 Blackburn 与 Jørgensen 在一系列论文中推进，概述见 Blackburn and Jørgensen (2016a)。今按本词条术语略述其要。所论混合逻辑版本设一个指派名项 $\mathtt{now}$，每个模型各带一指派时间 $ t_0 $，使得 i) 任何独立公式皆相对于 $ t_0 $ 求值，ii) 名项 $\mathtt{now}$ 指称 $ t_0 $。更形式地说，约定 $(M,t_0), g \vDash \mathtt{\phi}$ 意即 $M, g, t_0 \vDash \mathtt{\phi}$，且只考虑 $g(\mathtt{now})=t_0$ 的指派 $g$。注意，名项 $\mathtt{now}$ 作为独立公式在此语义中有效，其他名项则不然。Blackburn 与 Jørgensen 称此新的有效性概念为 *语境有效性*；Blackburn and Jørgensen (2013) 给出关于该概念完全的公理系统，Blackburn and Jørgensen (2012) 则给出完全的表列系统，唯其语义与 Kamp 原初二维语义一致。两文还论及 $\mathtt{yesterday}$、$\mathtt{today}$、$\mathtt{tomorrow}$ 等索引词。
+      如上一节所述，Prior 引入混合时态逻辑，本为处理时间哲学中的一个特定问题；但 Prior (1968) 第十四章（新版 Prior (2003) 亦为第十四章）又表明，混合时态逻辑可取代 Hans Kamp 于 1967 年未刊稿中提出、后收入 Kamp (1971) 的二维时态逻辑。所谓维度，即公式求值所相对的时刻数目；加入混合逻辑机制，便可使二维化为一维。此线工作近由 Blackburn 与 Jørgensen 在一系列论文中推进，概述见 Blackburn and Jørgensen (2016a)。今按本词条术语略述其要。所论混合逻辑版本设一个指派名项 $\mathtt{now}$，每个模型各带一指派时间 $ t_0 $，使得 i) 任何独立公式皆相对于 $ t_0 $ 求值，ii) 名项 $\mathtt{now}$ 指称 $ t_0 $。更形式地说，约定 $(M,t_0), g \vDash \mathtt{\phi}$ 意即 $M, g, t_0 \vDash \mathtt{\phi}$，且只考虑 $g(\mathtt{now})=t_0$ 的指派 $g$。注意，名项 $\mathtt{now}$ 作为独立公式在此语义中有效，其他名项则不然。Blackburn 与 Jørgensen 称此新的有效性概念为 **语境有效性**；Blackburn and Jørgensen (2013) 给出关于该概念完全的公理系统，Blackburn and Jørgensen (2012) 则给出完全的表列系统，唯其语义与 Kamp 原初二维语义一致。两文还论及 $\mathtt{yesterday}$、$\mathtt{today}$、$\mathtt{tomorrow}$ 等索引词。
   - id: 60
     kind: body
     source: |-
@@ -550,7 +550,7 @@ segments:
     step1: |-
       混合逻辑的公理已有不少论文处理，例如 Gargov and Goranko (1993)、Blackburn (1993) 与 Blackburn and Tzakova (1999)。Gargov and Goranko (1993) 给出了混合逻辑的一个公理系统，并表明：若给该系统增加一组作为 *纯* 公式（即所有命题符号都是名项的公式）的附加公理，则扩展后的公理系统相对于使这些公理有效的框架类完全。纯公式对应于可及关系上的一阶条件（参上述翻译 $\mathrm{ST}_\mathtt{a}$），因此，为具有可及关系一阶条件的新混合逻辑建立公理系统，可以统一地通过按需增加公理而得到。于是，例如，若把公式 $\mathtt{c\rightarrow \Box \neg c}$ 作为公理加入，所得系统相对于非自反框架完全，如前所述。此类规则的讨论见 Blackburn (2000) 第 4 节。
     step2: |-
-      混合逻辑的公理系统，已有不少论文讨论，如 Gargov and Goranko (1993)、Blackburn (1993)、Blackburn and Tzakova (1999)。Gargov and Goranko (1993) 给出一个混合逻辑公理系统，并证明：若增补一组 *纯* 公式（即所有命题符号均为名项的公式）作为附加公理，则扩展后的系统相对于使这些公理有效的框架类完全。纯公式对应可及关系上的一阶条件（参前述翻译 $\mathrm{ST}_\mathtt{a}$），故凡以可及关系一阶条件刻画的新混合逻辑，其公理系统皆可按需增补公理而统一获得。例如加入公理 $\mathtt{c\rightarrow \Box \neg c}$，所得系统即相对于非自反框架完全（如前所述）。此类规则的讨论见 Blackburn (2000) 第 4 节。
+      混合逻辑的公理系统，已有不少论文讨论，如 Gargov and Goranko (1993)、Blackburn (1993)、Blackburn and Tzakova (1999)。Gargov and Goranko (1993) 给出一个混合逻辑公理系统，并证明：若增补一组 **纯** 公式（即所有命题符号均为名项的公式）作为附加公理，则扩展后的系统相对于使这些公理有效的框架类完全。纯公式对应可及关系上的一阶条件（参前述翻译 $\mathrm{ST}_\mathtt{a}$），故凡以可及关系一阶条件刻画的新混合逻辑，其公理系统皆可按需增补公理而统一获得。例如加入公理 $\mathtt{c\rightarrow \Box \neg c}$，所得系统即相对于非自反框架完全（如前所述）。此类规则的讨论见 Blackburn (2000) 第 4 节。
   - id: 64
     kind: body
     source: |-
@@ -566,7 +566,7 @@ segments:
     step1: |-
       Blackburn and ten Cate (2006) 考察 *正统* 证明规则，即无附条件的证明规则，并表明：若要求用纯公式获得扩展完全性，则在无约束子混合逻辑的公理系统中，非正统证明规则不可或缺。然而，在包含 $\mathtt{\downarrow}$ 约束子的更强混合逻辑情形，可以给出只涉及正统证明规则的公理系统。另见 Braüner (2011a) 一书，其中有混合逻辑的另一公理系统，以及直觉主义混合逻辑与纳尔逊悖论逻辑 N4 的混合化（比较 Costa and Martins (2017) 所考虑的另一悖论混合逻辑）。直觉主义混合逻辑的综述见 Braüner (2011b)。
     step2: |-
-      Blackburn and ten Cate (2006) 考察 *正统* 证明规则（即无附条件的规则），并表明：若欲借纯公式获得扩展完全性，则无约束子混合逻辑的公理系统离不开非正统规则。但在含 $\mathtt{\downarrow}$ 约束子的更强混合逻辑中，可以给出仅用正统规则的公理系统。另见 Braüner (2011a)：其中既有混合逻辑的另一公理系统，也有直觉主义混合逻辑及纳尔逊悖论逻辑 N4 之混合化的公理系统（比较 Costa and Martins (2017) 所论另一悖论混合逻辑）。直觉主义混合逻辑的综述见 Braüner (2011b)。
+      Blackburn and ten Cate (2006) 考察 **正统** 证明规则（即无附条件的规则），并表明：若欲借纯公式获得扩展完全性，则无约束子混合逻辑的公理系统离不开非正统规则。但在含 $\mathtt{\downarrow}$ 约束子的更强混合逻辑中，可以给出仅用正统规则的公理系统。另见 Braüner (2011a)：其中既有混合逻辑的另一公理系统，也有直觉主义混合逻辑及纳尔逊悖论逻辑 N4 之混合化的公理系统（比较 Costa and Martins (2017) 所论另一悖论混合逻辑）。直觉主义混合逻辑的综述见 Braüner (2011b)。
   - id: 66
     kind: body
     source: |-
@@ -598,7 +598,7 @@ segments:
     step1: |-
       混合逻辑的自然演绎式证明论已在 Braüner (2011a) 一书中得到探讨。该书还给出了混合逻辑的无切 Gentzen 序列系统。无切性通过规范化自然演绎系统证明，但这一结果也可直接证明，见 Indrzejczak (2016)。Braüner (2011a) 的自然演绎与 Gentzen 系统可以加入额外的证明规则，以对应由所谓 *几何理论* 表达的、可及关系上的一阶条件（这当然类似于用纯公理扩展表列与公理系统）。另见 Braüner and de Paiva (2006)，其中给出了直觉主义混合逻辑的自然演绎系统（Braüner (2011a) 第 8 章）。
     step2: |-
-      Braüner (2011a) 探讨了混合逻辑的自然演绎证明论，并给出无切 Gentzen 序列系统。无切性经规范化自然演绎系统证得，但亦可直接证明，见 Indrzejczak (2016)。Braüner (2011a) 的自然演绎与 Gentzen 系统可增补证明规则，以对应所谓 *几何理论* 所表达的可及关系一阶条件（这自然类似于以纯公理扩展表列与公理系统）。另见 Braüner and de Paiva (2006) 所给直觉主义混合逻辑的自然演绎系统（Braüner (2011a) 第 8 章）。
+      Braüner (2011a) 探讨了混合逻辑的自然演绎证明论，并给出无切 Gentzen 序列系统。无切性经规范化自然演绎系统证得，但亦可直接证明，见 Indrzejczak (2016)。Braüner (2011a) 的自然演绎与 Gentzen 系统可增补证明规则，以对应所谓 **几何理论** 所表达的可及关系一阶条件（这自然类似于以纯公理扩展表列与公理系统）。另见 Braüner and de Paiva (2006) 所给直觉主义混合逻辑的自然演绎系统（Braüner (2011a) 第 8 章）。
   - id: 70
     kind: body
     source: |-
@@ -678,7 +678,7 @@ segments:
     step1: |-
       这里 $\mathtt{\Box}$ 与 $\mathtt{\Diamond}$ 是全称模态的方框与菱形形式。在普通命题符号 $\mathtt{p}$ 前加上 $\mathtt{Q}$ 算子，就把 $\mathtt{p}$ 转换为名项。更准确地说，若取命题量词 $\mathtt{\forall q}$ 的范围为一切世界集合，则 $\mathtt{Qp}$ 表示 $\mathtt{p}$ 指称一个单元素集，即 $\mathtt{p}$ 是标准名项。但还有另一种解释命题量词的方式，称为一般（或 Henkin）方式，其中命题量词的范围是 *预先选定* 的世界子集。按这两种不同方式解释，$\mathtt{Q}$ 算子产生两种不同的名项“物种”，而结果表明，这两个物种在全称例示规则方面表现不同。Blackburn, Braüner, and Kofod (2020) 对此作了研究，给出了带 Henkin 式命题量词、包含两种名项的混合逻辑的表列系统。该文还描述了这种形式定义的“物种划分”如何与 Prior 著作中可辨识的两种名项直觉颇为吻合。
     step2: |-
-      此处 $\mathtt{\Box}$、$\mathtt{\Diamond}$ 为全称模态的方框与菱形形式。在普通命题符号 $\mathtt{p}$ 前冠以 $\mathtt{Q}$ 算子，即把 $\mathtt{p}$ 化为名项。更准确地说，若命题量词 $\mathtt{\forall q}$ 的范围取一切世界集合，则 $\mathtt{Qp}$ 表示 $\mathtt{p}$ 指称单元素集，即 $\mathtt{p}$ 是标准名项。但命题量词另有一种解释方式，称为一般（或 Henkin）方式，其范围是 *预先选定* 的世界子集。两种解释之下，$\mathtt{Q}$ 算子生出两种不同的名项“物种”；结果表明，二者在全称例示规则上表现各异。Blackburn, Braüner, and Kofod (2020) 对此作了研究，给出带 Henkin 式命题量词、兼含两种名项的混合逻辑表列系统，并说明这种形式定义的“物种划分”与 Prior 著作中可辨识的两种名项直觉颇为契合。
+      此处 $\mathtt{\Box}$、$\mathtt{\Diamond}$ 为全称模态的方框与菱形形式。在普通命题符号 $\mathtt{p}$ 前冠以 $\mathtt{Q}$ 算子，即把 $\mathtt{p}$ 化为名项。更准确地说，若命题量词 $\mathtt{\forall q}$ 的范围取一切世界集合，则 $\mathtt{Qp}$ 表示 $\mathtt{p}$ 指称单元素集，即 $\mathtt{p}$ 是标准名项。但命题量词另有一种解释方式，称为一般（或 Henkin）方式，其范围是 **预先选定** 的世界子集。两种解释之下，$\mathtt{Q}$ 算子生出两种不同的名项“物种”；结果表明，二者在全称例示规则上表现各异。Blackburn, Braüner, and Kofod (2020) 对此作了研究，给出带 Henkin 式命题量词、兼含两种名项的混合逻辑表列系统，并说明这种形式定义的“物种划分”与 Prior 著作中可辨识的两种名项直觉颇为契合。
   - id: 80
     kind: body
     source: |-
@@ -694,4 +694,4 @@ segments:
     step1: |-
       - [A.N. Prior——时态逻辑之父](http://www.priorstudies.org/)
     step2: |-
-      - [A.N. Prior——时态逻辑之父](http://www.priorstudies.org/)
+      * [A.N. Prior——时态逻辑之父](http://www.priorstudies.org/)

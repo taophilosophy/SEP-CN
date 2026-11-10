@@ -2,7 +2,7 @@
   "slug": "boethius-dacia",
   "kind": "retranslate",
   "zh_doc": "b/boethius-dacia.md",
-  "state": "r1_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,27 @@
       "actor": "R-main-20261108",
       "at": "2026-11-08T15:01:50Z",
       "evidence": "评审线接管初审：源文 376 行/61 defs 全文回读对照，五维对账复算全等（段落 103:103、marker 多重集 102:102 含 ASCII 撇号归一、defs 键集 61:61、尾节四件套齐、粗体缩写键 0:0）；实修三类——①结构回填确认：前会话未提交工作区的 References 说明行+三个空子标题（校勘本/译本/二手文献）系源端空节镜像，验证保留；②忠实性 4 处：§3.3.3 后半论式行（1\\*/（2）/\\（2\\*）五组显示块由连排段还原为源文 10 分段结构（C1 段差-8 根因）、「动物不被存在」误译 2 处改「不存在或未受设想」、「来自其世纪」改「来自他那个世纪」；③prose 实修 20 处（de-chain 14/长句 2/被字 4，含论式段重排后收敛），prose 21→1，余 1 条为 §3.1 引块（every being either a thing...）按 ADR-0020 引文豁免留痕；四检全绿（style 0/academic 无硬错误/prose 1 豁免/math 0 公式）；年份序列 3 差全为 1270s/1260s/1290s 十年词中文展开体例豁免"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "B-main-20261110",
+      "at": "2026-11-10T09:10:50Z",
+      "evidence": "二审（逐句回源）：24 段正文＋著述清单 27 项＋尾节逐段对照 yuanwen；实修五类——①交叉编号：源全表连续编号 1–27 在 zh 分节重启，第 12 项→逻辑学部分第 8 项、第 19 项→自然哲学部分第 7 项、三部小著作改按书名点名（《论梦》《论世界的永恒》《论至善》）、逻辑学 5/6/7 项互指改本地号（6/7·5/7·5/6，原 9/11 一处误作 10/11）；②术语族统一：模态主义三形（意指模式 4／意指样式 6／意谓方式 0）→ 意指样式（语料 erfurt 61 处＋本词条为证；意谓之“意谓”与 Frege Bedeutung 汉译相混不采），modi intelligendi→理解样式，truth-maker 真之制造者→真值制造者 3 处（登记册主形），verifier→真值制造者；③体例：pubinfo 转斜体、删冗余作者行（H1 已载）、refs 三空子标题还原英文 Editions/Translations/Secondary Literature、refs 说明行对齐生成器形、学术工具表改中文四行 bullet、相关词条补译注占位行＋大阿尔伯特对齐 SUMMARY 名；④语序语气 3 处（“是……一条基本原理”倒装、only as true as 补“只”、near-contemporaries 补“接近”）；⑤人名 1 处（杰弗里→戈弗雷）。术语登记：modism／modi intelligendi 各 1 新行，modes of signifying／modus significandi 旧行留痕废弃＋新行，marsilius-inghen 2 处对齐。机检 _b_verify：H2 9/9、H3 17:17、defs 61:61 键集全等、引注 41:41"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "B-main-20261110",
+      "at": "2026-11-10T09:13:52Z",
+      "evidence": "终审：check_all 8/8 全绿（SUMMARY/分类目录/文件大小/垃圾/术语/直角引号/学术规范/单元测试）；check_style 0 issue；check_academic --strict 0 硬错误（pubinfo “首次发表于 2020 年 9 月 7 日” 对 baseline Sep 7, 2020、无实质修订 ✓）；check_terms 定点 0 硬错误；markdownlint 本文件 0；check_prose 仅 2 条 de-chain（一条为源文直引）豁免留痕；结构完整性：5 节＋著述清单六类（语法/逻辑/自然哲学/形而上学/伦理/修辞）＋尾节五件（脚注定义区 61 条/参考文献/学术工具四行/OIR/相关词条＋译注）；defs 61:61 与 yuanwen 逐键对齐、引注 41:41"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "B-main-20261110",
+      "at": "2026-11-10T09:13:52Z",
+      "evidence": "九步状态机完成；b/boethius-dacia.md 30.5k 字符成稿（正文 5 节 + 27 项著作清单 + 61 条书目定义）；B 批 done 16/62"
     }
   ],
   "blockers": [],
