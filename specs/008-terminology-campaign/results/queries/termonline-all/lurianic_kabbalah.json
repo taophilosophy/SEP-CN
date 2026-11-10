@@ -1,0 +1,33 @@
+{
+ "key": "lurianic kabbalah",
+ "term": "Lurianic Kabbalah",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T01:05:35+00:00",
+ "status": "ok",
+ "note": "variant=Lurianic Kabbalah; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=1; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "债务依附制",
+   "en": "Kabala",
+   "code": "02.0761",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_东欧"
+  },
+  {
+   "cn": "盐酸",
+   "en": "muriatic acid",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "盐酸",
+   "en": "Muriatic acid",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

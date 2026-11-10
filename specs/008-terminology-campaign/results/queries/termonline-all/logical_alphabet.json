@@ -1,0 +1,348 @@
+{
+ "key": "logical alphabet",
+ "term": "logical alphabet",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T00:59:35+00:00",
+ "status": "ok",
+ "note": "variant=logical alphabet; 审定公布名词库=968; 海峡两岸名词对照库=394; 其他来源数据库=47; 预公布名词数据库=31; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "字母表",
+   "en": "alphabet",
+   "code": "02.0468",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_形式语言与自动机"
+  },
+  {
+   "cn": "字母表",
+   "en": "alphabet",
+   "code": "02.0260",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_递归论"
+  },
+  {
+   "cn": "字顺排序法",
+   "en": "alphabetization",
+   "code": "04.090",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_一般概念"
+  },
+  {
+   "cn": "希腊字母命名",
+   "en": "Greek alphabet",
+   "code": "05.119",
+   "standard": "天文学名词",
+   "subject": "天文学_天文学史"
+  },
+  {
+   "cn": "字母表效应",
+   "en": "alphabet effect",
+   "code": "14.044",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_媒介环境_媒介影响研究与人类环境"
+  },
+  {
+   "cn": "多掺杂激光器",
+   "en": "alphabet laser",
+   "code": "10.047",
+   "standard": "光学名词",
+   "subject": "光学_光源"
+  },
+  {
+   "cn": "识字图书",
+   "en": "alphabet book",
+   "code": "03.061",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息资源建设_文献类型"
+  },
+  {
+   "cn": "输入字母表",
+   "en": "input alphabet",
+   "code": "02.0504",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_形式语言与自动机"
+  },
+  {
+   "cn": "输出字母表",
+   "en": "output alphabet",
+   "code": "02.0534",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_形式语言与自动机"
+  },
+  {
+   "cn": "带字母表",
+   "en": "tape alphabet",
+   "code": "02.0562",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_形式语言与自动机"
+  },
+  {
+   "cn": "栈字母表",
+   "en": "stack alphabet",
+   "code": "02.0555",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_形式语言与自动机"
+  },
+  {
+   "cn": "希腊字母",
+   "en": "Greek Alphabet",
+   "code": "02.0383",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_希腊"
+  },
+  {
+   "cn": "字母表",
+   "en": "alphabet",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "带字母表",
+   "en": "tape alphabet",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "输出字母表",
+   "en": "output alphabet",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "输入字母表",
+   "en": "input alphabet",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "栈字母表",
+   "en": "stack alphabet",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "字母代码",
+   "en": "alphabetic code",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "字母编码",
+   "en": "alphabetic coding",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "字母编址",
+   "en": "alphabetic addressing",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "字母串",
+   "en": "alphabetic string",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "字母－数字的",
+   "en": "alphabetic-numeric",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "字母字",
+   "en": "alphabetic word",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "字母电报",
+   "en": "alphabetical telegraph",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "格拉哥里字母",
+   "en": "Avestan alphabet",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "彝文",
+   "en": "Avestan alphabet",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "希腊字母",
+   "en": "Avestan alphabet",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "组合逻辑电路",
+   "en": "Combinatorial logic, combinational logic",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "逻辑结构",
+   "en": "logical structure",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "谓词逻辑",
+   "en": "predicate logic",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "相干逻辑",
+   "en": "Relevant logic",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "逻辑分析仪",
+   "en": "Logic analyzer",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数理逻辑",
+   "en": "Mathematical logic",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "逻辑部件",
+   "en": "logic unit",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "逻辑编程",
+   "en": "logic programming",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "婆罗米字母",
+   "en": "Brahmī alphabet",
+   "code": "5.0389",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族文字"
+  },
+  {
+   "cn": "佉卢字母",
+   "en": "Kharosthī alphabet",
+   "code": "5.0406",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族文字"
+  },
+  {
+   "cn": "思辨逻辑",
+   "en": "speculative logic",
+   "code": "01.0101",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "先逻辑思维",
+   "en": "pre-logical thinking",
+   "code": "1.0534",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "抽象逻辑思维",
+   "en": "abstract logic thinking",
+   "code": "2.5.5.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_心理行为发育"
+  },
+  {
+   "cn": "地方政府",
+   "en": "local authorities",
+   "code": "10.1.2.3.2",
+   "standard": "社会医学名词",
+   "subject": "政策与策略"
+  },
+  {
+   "cn": "地方性法规",
+   "en": "local regulation",
+   "code": "9.1.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生法规标准_放射卫生法规"
+  },
+  {
+   "cn": "地方标准",
+   "en": "local standard",
+   "code": "9.2.1.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生法规标准_放射卫生标准"
+  },
+  {
+   "cn": "局部独立",
+   "en": "local independence",
+   "code": "1.2.5.137",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "地方法团主义",
+   "en": "local corporatism",
+   "code": "3.6.1.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_政治社会学_政治社会学"
+  },
+  {
+   "cn": "地方性知识",
+   "en": "local knowledge",
+   "code": "4.2.9.14",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_文化现象"
+  },
+  {
+   "cn": "地方自治",
+   "en": "local autonomy",
+   "code": "03.0051",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
