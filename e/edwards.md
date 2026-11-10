@@ -1,1 +1,1 @@
-# 乔纳森·爱德华兹 Edwards, Jonathan (William Wainwright)
+# 乔纳森·爱德华兹 Jonathan Edwards (William Wainwright)
