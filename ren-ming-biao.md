@@ -321,7 +321,6 @@
 | Bell, John L. | — | John L. Bell | — | — | logic-infinitary | 无通行汉名，保留英文原名（加拿大逻辑学家，1945– ）；凭证 2026-11-10 | 2026-11-09 |
 | Bellamy, Edward | — | 爱德华·贝拉米 | — | — | dewey-political | 学界通行汉译（《回头看》作者） | 2026-11-05 |
 | Belnap, Nuel | — | Nuel Belnap | — | —；logical-consequence；logic-linear | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
-| Belnap, Nuel | — | Nuel Belnap | — | —；logical-consequence | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | Bělohlávek, Radim | — | Bělohlávek | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Bembo, Pietro | — | 彼得罗·本博 | — | — | gianfrancesco-pico | 学界通行汉译（人文主义者、枢机） | 2026-11-09 |
 | Ben-Ner, Avner | — | Avner Ben-Ner（现代学者，保留英文） | — | — | justice-moral-psych | ADR-0022：无通行汉名者保留英文（独裁者博弈实验）；凭证 2026-11-10 | 2026-11-10 |
@@ -421,7 +420,6 @@
 | Booth, Andrew | — | 安德鲁·布思 | 英国 | 1918–2009 | computing-history | 学界通行音译（磁鼓存储器先驱，伦敦伯克贝克学院）；凭证 2026-11-10 | 2026-11-09 |
 | Bonnay, Denis | — | Bonnay | — | — | logical-consequence | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Borer, Hagit | — | Hagit Borer | — | — | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
-| Bonnay, Denis | — | Bonnay | — | — | logical-consequence | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Booker T. Washington | — | 布克·托·华盛顿 | — | — | alexander-crummell | 学界通行汉译 | 2026-11-07 |
 | Boorse, Christopher | — | 克里斯托弗·伯尔斯 | 美国 | — | disability | 学界惯例音译（生物医学“正常功能”与自然主义健康理论代表；正文首现括注）；凭证 2026-11-09 | 2026-11-09 |
 | Bordin | — | 博尔丹 | — | — | descartes-works | 音译（《沉思集》较晚版诘难人） | 2026-11-06 |
@@ -876,7 +874,6 @@
 | Domenico Giulini | — | 保留英文（无通行汉名） | — | — | spacetime-convensimul | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
 | Donato, Girolamo | — | 吉罗拉莫·多纳托 | — | — | delmedigo | 音译（15 世纪威尼斯人文主义者，意人名通例） | 2026-11-06 |
 | Donatus | — | 多纳图斯 | 罗马 | 4 世纪 | peter-spain | 古典语法学界通行汉译；凭证 2026-11-09 | 2026-11-09 |
-| Dong Zhongshu | — | 董仲舒 | — | — | han-dynasty | 上游自带汉字（西汉儒者） | 2026-11-10 |
 | Donna Haraway | — | 唐娜·哈拉维 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
 | Dorothea Christiane Erxleben (née Leporin) | Dorothea Christiane Erxleben (née Leporin) | 多罗特娅·克里斯蒂安妮·埃克斯莱本（娘家姓莱波林） | — | — | 18thGerman-preKant | 学界通行汉译（德国首位女医学博士）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
 | Dorothea Veit | Dorothea Veit | 多萝特娅·法伊特 | — | — | schlegel | 学界惯例（门德尔松之女，后为施莱格尔之妻）；凭证 2026-11-07 | 2026-11-07 |
@@ -954,8 +951,6 @@
 | Emperor Huan | — | 汉桓帝 | — | — | han-dynasty | 东汉皇帝刘志（上游作 Emperor Huan of Han） | 2026-11-10 |
 | Emperor Wu (Han) | — | 汉武帝 | — | — | han-dynasty | 西汉皇帝刘彻（上游作 Emperor Wu of Han） | 2026-11-10 |
 | Emperor Zhao (Han) | — | 汉昭帝 | — | — | han-dynasty | 西汉皇帝刘弗陵（上游作 Emperor Zhao of Han） | 2026-11-10 |
-| Engel, Amir | — | 阿米尔·恩格尔 | 以色列 | — | scholem | 构词直译（朔勒姆传记作者）；凭证 2026-11-08 | 2026-11-08 |
-| Engel, Johann Jakob | — | 约翰·雅各布·恩格尔 | 德国／作家与康德派 | — | august-rehberg | 学界通行音译；正文一次提称；凭证 2026-11-08 | 2026-11-08 |
 | Enoch | — | 以诺 | — | — | peter-damian | 圣经人名通行汉译；凭证 2026-11-09 | 2026-11-09 |
 | Epictetus | — | 爱比克泰德 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Epicurus | — | 伊壁鸠鲁 | — | — | democritus | 学界千年通行（花园学派创立者） | 2026-11-06 |
@@ -1252,12 +1247,6 @@
 | Goldman, Alvin | — | 阿尔文·戈德曼 | — | — | bayes-theorem | 学界通行汉译（可靠主义认识论） | 2026-11-05 |
 | Goldstein, Laurence | — | Laurence Goldstein（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09 | 2026-11-09 |
 | Göller, Stefan | — | Stefan Göller | — | — | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
-| Godwin, William | — | 威廉·戈德温 | — | —；godwin | godwin | 学界通行汉译（哲学无政府主义奠基人） | 2026-11-10 合并（同键变体，来源列并双 slug） |
-| Goethe | — | 歌德 | — | — | 首现（wisdom） | 学界通行汉译（德国文学家）；凭证 2026-11-07 | 2026-11-07 |
-| Goguen, Joseph | — | Joseph Goguen | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
-| Goldblatt, Robert | — | Robert Goldblatt | — | — | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
-| Goldman, Alvin | — | 阿尔文·戈德曼 | — | — | bayes-theorem | 学界通行汉译（可靠主义认识论） | 2026-11-05 |
-| Goldstein, Laurence | — | Laurence Goldstein（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09 | 2026-11-09 |
 | Gollwitzer, Manfred | — | Manfred Gollwitzer（现代学者，保留英文） | — | — | justice-moral-psych | ADR-0022：无通行汉名者保留英文（正义敏感性研究）；凭证 2026-11-10 | 2026-11-10 |
 | Gombrich, E. H. | — | 恩斯特·贡布里希 | — | — | langer | 英籍奥地利艺术史家（学界惯用“贡布里希”，正文以姓行文）；凭证 2026-11-08 | 2026-11-08 |
 | Gomes, Gilberto | — | Gilberto Gomes（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09 | 2026-11-09 |
@@ -1505,13 +1494,6 @@
 | Hoernlé, Agnes Winifred | Agnes Winifred Hoernlé | 阿格尼丝·温妮弗雷德·霍尔恩勒 | — | — | langer | 南非社会人类学奠基者之一（R.F.A. Hoernlé 之妻；音译）；凭证 2026-11-08 | 2026-11-08 |
 | Hoernlé, R.F.A. | R.F.A. Hoernlé | 霍尔恩勒 | — | — | langer | 音译（南非哲学与社会人类学先驱，学界无惯用汉名）；凭证 2026-11-08 | 2026-11-08 |
 | Hofmann, Martin | — | Martin Hofmann | — | — | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
-| Hissette, Roland | — | 罗兰·希塞特 | — | — | condemnation | 学界惯例（鲁汶 219 条研究作者，音译）；凭证 2026-11-08 | 2026-11-08 |
-| Hitchcock, Alfred | — | 阿尔弗雷德·希区柯克 | 英国／美国 | 1899–1980 | paradox-suspense | 学界与影史通行汉译；凭证 2026-11-09 | 2026-11-09 |
-| Hiż, Henryk | — | Henryk Hiż | — | — | lvov-warsaw | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
-| Hjortland, Ole | — | Hjortland | — | — | logical-consequence | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
-| Hobbes, Thomas | — | 托马斯·霍布斯 | — | — | descartes-works | 学界千年通行（《利维坦》作者） | 2026-11-06 |
-| Hoernlé, Agnes Winifred | Agnes Winifred Hoernlé | 阿格尼丝·温妮弗雷德·霍尔恩勒 | — | — | langer | 南非社会人类学奠基者之一（R.F.A. Hoernlé 之妻；音译）；凭证 2026-11-08 | 2026-11-08 |
-| Hoernlé, R.F.A. | R.F.A. Hoernlé | 霍尔恩勒 | — | — | langer | 音译（南非哲学与社会人类学先驱，学界无惯用汉名）；凭证 2026-11-08 | 2026-11-08 |
 | Hoeven, Gerrit van der | — | van der Hoeven（现代学者，保留英文） | 荷兰 | — | intuitionism | ADR-0022：无通行汉名者保留英文；凭证 2026-11-10 | 2026-11-10 |
 | Höffe, Otfried | — | Otfried Höffe（现代学者，保留英文） | — | — | jaspers | ADR-0022：无通行汉名者保留英文（KJG 主编）；凭证 2026-11-09 | 2026-11-09 |
 | Hoffman, Joshua | — | Joshua Hoffman（现代学者，保留英文） | — | — | omnipresence | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
@@ -1538,9 +1520,6 @@
 | Horthy, Miklós | Miklós Horthy | 霍尔蒂 | — | — | 语料回收（lakatos 首译） | 学界通行汉译（匈牙利摄政，史学界通行省略教名）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Hosiasson, Janina | — | Janina Hosiasson | — | — | lvov-warsaw | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Howard, William | — | William Howard | — | — | logic-linear | 无通行汉名，保留英文原名（Curry–Howard 对应）；凭证 2026-11-10 | 2026-11-09 |
-| Horčík, Rostislav | — | Horčík | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
-| Horthy, Miklós | Miklós Horthy | 霍尔蒂 | — | — | 语料回收（lakatos 首译） | 学界通行汉译（匈牙利摄政，史学界通行省略教名）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
-| Hosiasson, Janina | — | Janina Hosiasson | — | — | lvov-warsaw | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Hotho | — | 霍托 | — | — | bauer | 学界通行音译（黑格尔《美学讲演录》编者 H.G. Hotho） | 2026-11-08 |
 | Hŏŭngdang Pou | 虛應堂 普雨 | 虚应堂普雨 | — | — | korean-buddhism | 汉文传统写法（源文汉字 虛應堂普雨；朝鲜僧，《一正论》） | 2026-11-05 |
 | Howard | — | Howard（现代学者，保留英文） | — | — | disability | ADR-0022：无通行汉名者保留英文（Howard & Aas 2018 残疾社会定义）；凭证 2026-11-09 | 2026-11-09 |
@@ -1900,7 +1879,6 @@
 | Kooi, Barteld | — | Barteld Kooi | — | — | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Koslicki, Kathrin | — | Kathrin Koslicki | — | — | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Kolmogorov, Andrey | — | 安德烈·柯尔莫哥洛夫 | 苏联 | 1903–1987 | intuitionism | 学界通行汉译（BHK 解释）；凭证 2026-11-10 | 2026-11-10 |
-| Komnene, Anna | — | 安娜·科穆宁娜 | — | — | john-italos | 学界通行汉译（《阿莱克修斯传》作者）；凭证 2026-11-06 | 2026-11-06 |
 | Koppelman, Jacob | — | 雅各布·科佩尔曼 | — | — | albo-joseph | 16 世纪注家音译 | 2026-11-07 |
 | Korcz, Keith Allen | — | 基思·艾伦·科尔奇 | — | — | basing-epistemic | 学界惯例（音译，本词条作者）；凭证 2026-11-08 | 2026-11-08 |
 | Korsmeyer, Carolyn | — | 卡罗琳·科尔斯梅耶 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
@@ -1916,9 +1894,6 @@
 | Krifka, Manfred | — | Manfred Krifka | — | — | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Krika, Manfred | — | Manfred Krika | — | — | logic-massexpress | 源文拼作 Krika（1989），保留英文；凭证 2026-11-10 | 2026-11-09 |
 | Kramer, Amit | — | Amit Kramer（现代学者，保留英文） | — | — | justice-moral-psych | ADR-0022：无通行汉名者保留英文（独裁者博弈实验）；凭证 2026-11-10 | 2026-11-10 |
-| Kramer, Heinrich | — | 海因里希·克雷默 | — | — | gianfrancesco-pico | 学界通行音译（《女巫之锤》合著者） | 2026-11-09 |
-| Kramers, Hendrik | — | 亨德里克·克拉默斯 | — | — | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
-| Krasner, Stephen D. | — | 斯蒂芬·克拉斯纳 | — | — | sovereignty | 学界通行汉译（国际关系研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | Kreisel, Georg | — | Kreisel | — | — | logical-consequence | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Kretzmann, Norman | — | Norman Kretzmann（现代学者，保留英文） | — | — | william-sherwood | ADR-0022（舍伍德著作校订与英译者） | 2026-11-09 |
 | Krige, J. D. and E. J. | — | J. D. 克里格与 E. J. 克里格 | 南非 | — | african-ethics | 学界通行音译（洛维杜人研究）；凭证 2026-11-09 | 2026-11-09 |
@@ -2258,7 +2233,6 @@
 | McKay, Thomas | — | Thomas McKay | — | — | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | McCrea, William | — | 威廉·麦卡里 | — | — | cosmology-30s | 学界通行音译（皇家天文学会，罗伯逊—沃克度规合作者之一；沿用本词条既用「麦卡里」）；凭证 2026-11-08 | 2026-11-08 |
 | McCrae, Robert | — | Robert R. McCrae（现代学者，保留英文） | — | — | justice-moral-psych | ADR-0022：无通行汉名者保留英文（五因素模型）；凭证 2026-11-10 | 2026-11-10 |
-| McCrea, William | — | 威廉·麦卡里 | — | — | cosmology-30s | 学界通行音译（皇家天文学会，罗伯逊—沃克度规合作者之一；沿用本词条既用「麦卡里」）；凭证 2026-11-08 | 2026-11-08 |
 | McCullough, Michael | — | Michael McCullough（现代学者，保留英文） | — | — | justice-moral-psych | ADR-0022：无通行汉名者保留英文（致谢）；凭证 2026-11-10 | 2026-11-10 |
 | McDermott, Drew | — | 德鲁·麦克德莫特 | — | — | f/frame-problem | AI 学界通行汉译（耶鲁射击问题） | 2026-11-10 |
 | McEwan, Ian | — | 伊恩·麦克尤恩 | — | — | erotic-art | 学界通行（英国小说家） | 2026-11-08 |
@@ -2269,7 +2243,6 @@
 | McNaughton, Robert | — | McNaughton | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | McLuhan, Marshall | — | 马歇尔·麦克卢汉 | — | — | globalization | 学界通行汉译（媒介理论家） | 2026-11-10 |
 | McMahon, Joan M. | — | 麦克马洪 | 美国 | — | it-moral-values | 学界通行音译（性别与游戏研究）；凭证 2026-11-10 | 2026-11-10 |
-| McNaughton, Robert | — | McNaughton | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | McNealy, Scott | — | 斯科特·麦克尼利 | 美国 | 1954– | it-moral-values | 新闻与商业通行音译（太阳微系统公司创办人）；凭证 2026-11-10 | 2026-11-10 |
 | McTaggart, J.M.E. | — | 麦克塔加特 | — | — | oakeshott | 学界通行汉译（黑格尔研究文献；亦作『麦克塔格特』备查）；凭证 2026-11-07 | 2026-11-07 |
 | McVeigh, Malcolm J. | — | 马尔科姆·J. 麦克维 | 美国 | — | african-ethics | 学界通行音译（非洲伦理研究）；凭证 2026-11-09 | 2026-11-09 |
@@ -3046,8 +3019,6 @@
 | Sher, Gila | — | Sher | — | — | logical-consequence | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Sherman | — | Sherman | — | — | logic-dynamic | 源文仅称姓（Harel & Sherman 1982），保留英文；凭证 2026-11-10 | 2026-11-09 |
 | Shen Buhai | — | 申不害 | — | — | han-dynasty | 上游自带汉字（战国法家） | 2026-11-10 |
-| Shen Dao | — | 慎到 | — | — | chinese-phil-science | 上游自带汉字（稷下学者）；凭证 2026-11-07 | 2026-11-07 |
-| Sher, Gila | — | Sher | — | — | logical-consequence | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Sherman, Benjamin | — | 本杰明·舍曼 | — | — | closure-epistemic | 学界通行音译（哈曼与舍曼 2004 确信要求）；凭证 2026-11-08 | 2026-11-08 |
 | Sherrington, Charles | — | 查尔斯·谢灵顿 | — | — | bodily-awareness | 学界通行汉译（神经生理学家）；凭证 2026-11-07 | 2026-11-07 |
 | Shields, Allen | — | Shields | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
