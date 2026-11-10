@@ -131,104 +131,138 @@ segments:
     kind: body
     source: |-
       ## 3. Philosophy, Encyclopedia, and the Turn to Empirical Science
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. 哲学、百科全书与转向经验科学
+    step2: |-
+      ## 3. 哲学、百科全书与转向经验科学
   - id: 17
     kind: body
     source: |-
       *Das Allgemeine Brouillon* brings to light the close connection in Novalis’s work between philosophy and empirical science. Yet the *Brouillon* is not meant to give a final account of philosophical knowledge, but aspires to recapitulate the state of knowledge as it currently is, hence providing an impetus to revision and improvement. In order to enhance its stakes and procedures, however, reason needs a point of orientation, an idea of what universal knowledge would amount to, even though such knowledge by definition is out of reach. In Novalis’s work, the very idea of a philosophical encyclopedia provides such a point of orientation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《浪漫百科笔记》揭示了诺瓦利斯著作中哲学与经验科学的紧密联系。然而《笔记》并非要为哲学知识提供最终说明，而是力图概述知识当下的状况，从而为修订与改进提供动力。不过，为了提升自身的分量与程序，理性需要一个定向之点，一个关于普遍知识将会是什么的观念——尽管这样的知识按定义不可企及。在诺瓦利斯的著作中，正是哲学百科全书的观念提供了这样一个定向之点。
+    step2: |-
+      《浪漫百科笔记》显出诺瓦利斯笔下哲学与经验科学的紧密关联。但《笔记》不打算给哲学知识一个最终的交代，而是力求总述知识当下的状况，以便推动修订与改进。不过，理性若要提高自身的分量、改进自身的程序，就需要一个定向点，一个关于“普遍知识将意味着什么”的观念——尽管这种知识按定义不可企及。在诺瓦利斯那里，提供这一方向的正是哲学百科全书的观念。
   - id: 18
     kind: body
     source: |-
       The affiliation with empirical science is another point at which Novalis’s understanding of the fragment differs from that of Friedrich Schlegel. Whereas Schlegel establishes a close link between philosophy and poetry—at times he even dismantles the distinction between them—Novalis is convinced that if human reason seeks everywhere for the unconditioned (*das Unbedingte*) but finds nothing but things (*Dinge*) (MO #1), then we better study these things closely and try to make sense of them. That is, in his view, reason is inevitably driven towards the idea of an infinite, pre-reflexive, and pre-subjective ground or first principle, an unconditioned, which it itself can never grasp; what it can grasp, though, are the manifestations of such a ground in the world to which it has access through experience and science. Thus Novalis claims that “Idealism is nothing but genuine *empiricism*” (AB #402). Novalis also defines philosophy as a science of science (AB #886); it explores the conditions for the study of nature, human nature included.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与经验科学的关联，是诺瓦利斯对断片的理解不同于弗里德里希·施莱格尔的又一个方面。施莱格尔在哲学与诗之间建立起紧密联系——有时甚至拆解二者的区分——而诺瓦利斯确信：如果人类理性到处寻求无条件者（*das Unbedingte*），却只发现事物（*Dinge*）（MO #1），那么我们最好仔细研究这些事物，努力理解它们。也就是说，在他看来，理性不可避免地趋向一个无限、前反思、前主体的根据或第一原理、一个无条件者，而它自身永远无法把握这个无条件者；但它所能把握的，是这一根据在世界中的种种显现，而它通过经验与科学通达这个世界。因此诺瓦利斯声称“唯心主义不过是真正的*经验论*”（AB #402）。诺瓦利斯还把哲学定义为科学之科学（AB #886）；它探究研究自然的条件，其中也包括人性。
+    step2: |-
+      与经验科学的亲缘，是诺瓦利斯与弗里德里希·施莱格尔对断片理解相异的又一处。施莱格尔使哲学与诗紧密相连，有时甚至抹去二者之分；诺瓦利斯则确信：人类理性处处寻求无条件者（*das Unbedingte*），所得却只是事物（*Dinge*）（MO #1），那么我们就该仔细研究这些事物，努力弄懂它们。也就是说，理性必然被引向一个无限、前反思、前主体的根据或第一原理，即无条件者；此物理性永不能把握，所能把握的只是它在世界中的显现，而人借经验与科学通达此世界。所以诺瓦利斯说：“唯心主义不过是真正的*经验论*”（AB #402）。他又把哲学界定为科学之科学（AB #886）：它探究研究自然（包括人性）的条件。
   - id: 19
     kind: body
     source: |-
       So conceived, philosophy is not cut off from practical purposes. Under the heading “Encyclopedistics,” Novalis explains that “Half theories lead *away* from *praxis*—whole theories lead *back* to it” (AB #537). Or, as he, in the spirit of Kant’s teleology of nature, stages his metaphysical program: “Philosophy cannot bake bread—however, it can provide us with God, freedom and immortality—now which is more practical—philosophy or economics?” (AB #401). And in a slightly earlier work, Novalis, referring to the Kantian definition of metaphysics, claims that “We only *know* it, *insofar* we *realize* it” (KS, 331, cf. also HKA 2, 378).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如此理解的哲学并不与实践目的相隔绝。在“百科全书学”这一标题下，诺瓦利斯解释说：“半截理论把人从*实践*引*开*——完整理论则把人引*回*实践”（AB #537）。或者，他本着康德自然目的论的精神，如此安排自己的形而上学纲领：“哲学不能烤面包——但它能给我们神、自由与不朽——那么哪个更实用——哲学还是经济学？”（AB #401）。在稍早的一部著作中，诺瓦利斯针对康德的形而上学定义声称：“我们唯有*实现*它，才*认识*它”（KS, 331，亦参 HKA 2, 378）。
+    step2: |-
+      这样理解的哲学并不脱离实践。诺瓦利斯在“百科全书学”一节中解释：“半截理论把人带*离*实践，完整理论则把人带*回*实践”（AB #537）。他又依康德自然目的论的精神如此陈述自己的形而上学纲领：“哲学烤不出面包——可它能给我们神、自由和不朽——那么哪个更实用：哲学还是经济学？”（AB #401）。稍早一部著作中，他就康德的形而上学定义说：“我们只有*实现*它，才*认识*它”（KS, 331，亦参 HKA 2, 378）。
   - id: 20
     kind: body
     source: |-
       In Novalis’s view, true philosophical insight, addressing issues of legitimacy as well as the question of meaning (or, in Kantian language, the regulative ideas of reason), provides a deepened self-understanding that guides our practice and orientation in the world. The fragment strengthens this dimension of philosophy in that it fosters critical distance and independent thinking. Such an intellectual stance, in turn, is a condition of possibility for genuine intersubjectivity, ultimately also for the republican ideals that Novalis is promoting. Before we get that far, however, we need to look, in more detail, at Novalis’s engagement with the ideals of the Enlightenment and the philosophy of German Idealism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在诺瓦利斯看来，真正的哲学洞见既处理正当性问题，也处理意义问题（或用康德的话说，理性的调节性理念），它提供一种深化的自我理解，指引我们在世界中的实践与定向。断片强化了哲学的这一维度，因为它培育批判的距离与独立的思考。反过来，这样的思想姿态又是真正的交互主体性的可能条件，最终也是诺瓦利斯所倡导的共和理想的可能条件。然而，在达到那一步之前，我们还需要更详细地考察诺瓦利斯对启蒙理想与德国观念论哲学的介入。
+    step2: |-
+      在诺瓦利斯看来，真正的哲学洞见既问正当性，也问意义（用康德的话说，即理性的调节性理念）；它带来更深的自我理解，指引我们如何实践、如何在世界中定向。断片所以强化哲学的这一面，正因它培育批判的距离与独立的思考。这样的思想姿态，反过来又是真正交互主体性的可能条件，最终也是他所倡导的共和理想的条件。但在谈到那里之前，还须较详细地考察诺瓦利斯如何介入启蒙理想与德国观念论哲学。
   - id: 21
     kind: body
     source: |-
       ## 4. Critique, Reflexivity, Subjectivity
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. 批判、反身性与主体性
+    step2: |-
+      ## 4. 批判、反身性与主体性
   - id: 22
     kind: body
     source: |-
       Novalis’s philosophical readership, his critics and supporters alike, have paid a great deal of attention to his interpretation of Fichte. For Novalis’s generation, Fichte was seen as the true heir of Kant’s critical thinking. In the *Athenaeum Fragments,* Schlegel applauds Fichte’s move beyond the Kantian architecture of reason, and in his *Lectures on the History of Philosophy* Hegel, likewise, suggests that it was Fichte who provided the speculative unity that Kant’s system was lacking. By emphasizing the I’s absolute and immediate positing of itself, Fichte, it was claimed, suspended the self-imposed limitations of Kantian idealism. He thus succeeded in overcoming the dichotomies that had plagued Kant’s contemporary readers, including the dichotomies of reason and sensibility, spontaneity and receptivity, freedom and necessity. With Fichte, philosophy was grounded in one ultimate and unifying principle: that of the I’s positing of itself as absolute and free (that is, in the jargon of the period, of the I positing itself as absolutely self-positing).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      诺瓦利斯的哲学读者，无论批评者还是支持者，都对其费希特解释给予了极大关注。在诺瓦利斯那一代人看来，费希特是康德批判思想的真正继承人。在《雅典娜神庙断片》中，施莱格尔赞赏费希特对康德理性建筑的超越；而黑格尔在其《哲学史讲演录》中同样提示，正是费希特提供了康德体系所缺乏的思辨统一。人们认为，费希特通过强调“我”对自身的绝对而直接的设定，取消了康德唯心主义自我设定的局限。他由此成功克服了困扰康德同时代读者的种种二分，包括理性与感性、自发性与接受性、自由与必然的二分。有了费希特，哲学被奠基在一个终极而统一的原则之上：即“我”把自身设定为绝对而自由的（用当时的行话说，即“我把自身设定为绝对自我设定的”）。
+    step2: |-
+      诺瓦利斯哲学的读者，无论赞成还是反对，都格外看重他对费希特的解读。在诺瓦利斯那一代人眼中，费希特是康德批判思想的真正嗣响。施莱格尔在《雅典娜神庙断片》里称赞费希特越出了康德的理性建构；黑格尔《哲学史讲演录》也同样认为，正是费希特补上了康德体系所缺的思辨统一。人们说，费希特强调“我”对自身的绝对而直接的设定，从而解除了康德唯心主义自设的界限，克服了困扰康德同时代读者的种种二分：理性与感性、自发性与接受性、自由与必然。有了费希特，哲学便以一条终极而统一的原则为基：“我”把自身设定为绝对、自由者（用当时的行话说，“我把自身设定为绝对自我设定的”）。
   - id: 23
     kind: body
     source: |-
       As Friedrich Schlegel lays out his philosophical-poetic principles in the famous *Athenaeum Fragment* 216, Fichte’s theory of the I’s absolute self-positing established a *sine qua non* of the romantic program. If the French Revolution, in its earlier phases, had opened up a new space of political action, realizing, *in concreto*, the principle of the rational self-determination of a people, and if Goethe’s *Wilhelm Meister*, crossing genre boundaries by drawing on philosophy, poetry, and drama alike, had set a new standard for the modern novel as a complete and all-encompassing work of art—a literary *Gesamtkunstwerk*—it was Fichte who had led philosophy back to the unbound spontaneity of subjectivity, thus realizing the implicit promise of Kant’s transcendental turn.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如弗里德里希·施莱格尔在著名的《雅典娜神庙断片》第216则中铺陈其哲学-诗学原则时所说，费希特关于“我”之绝对自我设定的理论，确立了浪漫主义纲领的一个 *sine qua non*（必要条件）。如果说法国革命在其早期阶段开辟了政治行动的新空间，在*具体中*实现了一个民族的理性自决原则；如果说歌德的《威廉·迈斯特》跨越体裁界限，兼取哲学、诗与戏剧，为作为完整而包罗万象之艺术作品的现代小说——一部文学上的 *Gesamtkunstwerk*——确立了新标准；那么，正是费希特把哲学带回主体性无拘束的自发性，从而实现了康德先验转向的隐含承诺。
+    step2: |-
+      弗里德里希·施莱格尔在著名的《雅典娜神庙断片》第216则中陈述其哲学—诗学原则：费希特关于“我”绝对自我设定的学说，是浪漫主义纲领不可或缺的前提（*sine qua non*）。法国大革命在其早期阶段开辟了政治行动的新场域，在*具体*中实现了一个民族的理性自决原则；歌德的《威廉·迈斯特》打破体裁界限，兼取哲学、诗与戏剧，为现代小说立下新标尺——一部完整而包罗万象的艺术作品，一部文学上的 *Gesamtkunstwerk*；而把哲学重新带回主体性无拘无束之自发性的，正是费希特，由此实现了康德先验转向的隐含许诺。
   - id: 24
     kind: body
     source: |-
       In his aesthetics, Kant had discussed how natural beauty, in triggering a free play between imagination and understanding, gives the disinterested spectator a hint that nature might be designed so as to facilitate the work of our cognitive faculties, hence also allowing for the possibility of a system of inductive knowledge and the idea of a will behind what, from the perspective of the understanding, appears as the realm of blind causality. In the aesthetic experience, transcendental imagination is furnished with the regulative function of providing human beings with a sense of orientation in the world—a sense of belonging or purpose. Kant also had proposed that man-made beauty, i.e., art, puts forth a sensuous presentation of the ideas of reason. And, finally, he had established a close connection between the work of art and the spontaneous production of creative genius.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在美学中，康德曾讨论自然美如何通过触发想象力与知性的自由游戏，向无利害的旁观者暗示：自然或许被设计得恰好便于我们认识官能的运作，从而也容许一个归纳性知识体系的可能性，以及这样一个观念——在知性看来纯属盲目因果的领域背后，有一个意志。在审美经验中，先验想象力被赋予了调节性的功能：为人在世界中提供方向感——一种归属感或目的感。康德还提出，人造的美即艺术，是对理性理念的感性呈现。最后，他还在艺术作品与创造性天才的自发产生之间建立了紧密联系。
+    step2: |-
+      在美学中，康德曾讨论自然美如何触发想象与知性的自由游戏，从而向无利害的旁观者暗示：自然也许恰好被安排得便于我们认识官能运作，于是也容许一套归纳的知识体系，并容许这样一个念头——在知性看来纯属盲目因果的领域之后，尚有一个意志。审美经验中，先验想象获得调节性的职能，为人提供在世的方向感，一种归属感或目的感。康德还提出，人造之美即艺术，是理性理念的感性呈现；最后，他把艺术作品同创造性天才的自发产生紧密相连。
   - id: 25
     kind: body
     source: |-
       In Kant’s system, however, the bridge between freedom and necessity is restricted to the realm of the aesthetic judgment. The pure aesthetic judgment can be ascribed a merely subjective universality. Fichte, however, brought out the full philosophical potential of the Kantian idea of freedom. In Fichte’s theory, the creative spontaneity of imagination is so to speak universalized—it is turned into the distinctive feature of the absolute, positing I, which is free even to posit its ontological counterpart in the limiting non-I. Hence the cautious “as if”-status of the purposiveness of nature in the aesthetic experience is sublated. At a transcendental level, even causally determined nature is explained in light of the self-positing ego. The gap between subjectivity and nature, freedom and necessity, spontaneity and receptivity is ultimately bridged. This, thought Novalis and many with him, was the achievement of Fichte’s philosophy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而在康德体系中，自由与必然之间的桥梁仅限于审美判断的领域。纯粹审美判断只能被赋予一种主观的普遍性。而费希特则发掘出康德自由观念的全部哲学潜能。在费希特的理论中，想象力的创造自发性可以说被普遍化了——它被变成绝对设定之“我”的标志性特征，这个“我”甚至自由到可以把它的本体论对应物设定为限制性的“非我”。于是，审美经验中自然合目的性的那种谨慎的“仿佛”地位被扬弃了。在先验层面上，就连因果地被规定的自然，也依据自我设定的自我而得到解释。主体性与自然、自由与必然、自发性与接受性之间的鸿沟最终被架通。诺瓦利斯与许多同代人认为，这就是费希特哲学的成就。
+    step2: |-
+      但在康德体系中，自由与必然之间的桥只架在审美判断一域。纯粹审美判断所能有的，只是主观的普遍性。费希特却把康德自由观中的哲学潜能尽数引出。在他那里，想象力的创造自发性可以说被普遍化了，成了绝对设定之“我”的本色：此“我”自由到甚至能把它的本体对应物设定为起限制作用的“非我”。于是，审美经验中自然合目的性那种小心谨慎的“仿佛”身份被扬弃了。在先验层面，连因果地被规定的自然也要依自我设定的自我来解释。主体性与自然、自由与必然、自发性与接受性之间的鸿沟，终究被架通了。诺瓦利斯与许多同代人以为，这就是费希特哲学的功绩。
   - id: 26
     kind: body
     source: |-
       Yet, for all his progress beyond the Kantian framework, Fichte had failed to address the more deep-seated problem of meaning that was part of the Kantian agenda: the possibility of there being a will or rationality behind the universe as such, a will or rationality that is prior to and constitutive of subjectivity, hence granting it a sense of meaning and purpose. Whereas Kant had framed this as a question of teleology and natural beauty, Novalis and his fellow romantics linked it to the experience of art and poetry in particular. I return to Novalis’s philosophy of art in the next section. What is important at this point, however, is to realize how Novalis develops his standpoint in critical response to the philosophical challenges posed by Kant and Fichte.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，尽管费希特超越了康德框架，他仍未能处理康德议程中那个更深层的意义问题：宇宙本身背后是否可能有一个意志或理性，一个先于主体性并构成主体性的意志或理性，从而赋予主体性以意义感与目的感。康德把这一问题表述为目的论与自然美的问题，而诺瓦利斯及其浪漫派同道则把它特别地同艺术与诗的经验联系起来。我将在下一节回到诺瓦利斯的艺术哲学。此处重要的是认识到：诺瓦利斯是如何在批判性地回应康德与费希特所提出的哲学挑战中，发展出自己的立场的。
+    step2: |-
+      然而费希特虽越出康德樊篱，却仍未触及康德议程中那个更深的意义问题：宇宙本身之后是否有一个意志或理性，先于主体性并构成主体性，从而赋予主体以意义与目的。康德把这问题说成目的论与自然美的问题；诺瓦利斯与浪漫派同道则把它特别系于艺术与诗的经验。诺瓦利斯的艺术哲学留待下节。此处要紧的是看出：他如何在对康德、费希特所提哲学难题的批判回应中，形成自己的立场。
   - id: 27
     kind: body
     source: |-
       Allegedly, Hölderlin and Novalis met with Fichte in the home of Friedrich Immanuel Niethammer in Jena in 1795. The meeting with Fichte, it is said (though the historical documentation is scant), strengthened Novalis’s interest in his philosophy and led to the work that would culminate in the *Fichte Studies*. Nonetheless, the collection was not given its title by Novalis himself but added by the editor, Hans-Joachim Mähl. The *Fichte Studies* does not deal exclusively with Fichte’s philosophy, but addresses a broad range of philosophical problems, one of which is Novalis’s worries with regard to subjective idealism. Other topics include the history of philosophy, the relationship between art and philosophy, and the relationship between art and science. Nonetheless, this collection of notes and observations shelters the most coherent account of Novalis’s interpretation of Fichte.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      据称，荷尔德林与诺瓦利斯于1795年在耶拿弗里德里希·伊曼努埃尔·尼特哈默尔家中与费希特会面。据说（尽管史料稀少），这次会面增强了诺瓦利斯对费希特哲学的兴趣，并促成了最终汇成《费希特研究》的工作。然而，这部集子并非诺瓦利斯本人命名，而是由编者汉斯-约阿希姆·梅尔所加。《费希特研究》并不只处理费希特的哲学，而是涉及广泛的哲学问题，其中之一是诺瓦利斯对主观唯心主义的忧虑。其他主题包括哲学史、艺术与哲学的关系，以及艺术与科学的关系。尽管如此，这组笔记与观察仍最连贯地保存了诺瓦利斯对费希特的解释。
+    step2: |-
+      据说1795年，荷尔德林与诺瓦利斯在耶拿弗里德里希·伊曼努埃尔·尼特哈默尔家中与费希特相会。据称（史料却很单薄），此番相会使诺瓦利斯对费希特哲学更感兴趣，并促成了后来汇编为《费希特研究》的工作。只是这书名并非诺瓦利斯自题，而是编者汉斯-约阿希姆·梅尔所加。《费希特研究》并不专论费希特，而涉及广泛的哲学问题，其中之一便是诺瓦利斯对主观唯心主义的忧虑；其余题目包括哲学史、艺术与哲学的关系、艺术与科学的关系。尽管如此，这组笔记与随想仍是关于诺瓦利斯如何解读费希特的最连贯记载。
   - id: 28
     kind: body
     source: |-
       Although Novalis admires Fichte, he is more cautious in his attitude than many of his contemporaries. In the *Fichte Studies* he polemically asks whether Fichte has not “too arbitrarily packed everything into the I” (FS #5). And in *Notes for a Romantic Encyclopaedia* (*Das Allgemeine Brouillon*), written a few years later, his critique is poignantly articulated in the analogy between the Fichtean ego and the desolate main character of Daniel Defoe’s famous novel: “Fichte’s ego—is a Robinson Crusoe—a scientific *fiction*” (AB #717).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管诺瓦利斯钦佩费希特，他的态度却比许多同代人更为审慎。在《费希特研究》中，他论战性地问道：费希特是否“过于任意地把一切都塞进了‘我’”（FS #5）。而在数年之后写成的《浪漫百科笔记》（*Das Allgemeine Brouillon*）中，他的批评借费希特式自我与丹尼尔·笛福著名小说中那位孤寂主人公之间的类比，得到了尖锐的表达：“费希特的自我——是一个鲁滨逊·克鲁索——一个科学上的*虚构*”（AB #717）。
+    step2: |-
+      诺瓦利斯虽钦敬费希特，态度却比许多同代人谨慎。他在《费希特研究》中带论战意味地问：费希特是否“把一切都过于任意地塞进了‘我’”（FS #5）？数年后的《浪漫百科笔记》（*Das Allgemeine Brouillon*）里，他的批评借一个类比说得更尖锐：费希特的自我之于丹尼尔·笛福笔下那位孤寂的主人公——“费希特的自我——是个鲁滨逊·克鲁索——一个科学上的*虚构*”（AB #717）。
   - id: 29
     kind: body
     source: |-
       According to Novalis—whose thinking at this point converges with Hölderlin’s response to subjective idealism—Fichte’s theory is ultimately rooted in the immediacy of the I’s self-positing, and it presupposes that the capacity for self-reflection can be traced back to a non-representational self-relation or intellectual intuition that evades the very structure of reflectivity and hence also the subject-object relationship between the reflecting and the reflected ego. Novalis maintains that in order to take a reflective stance towards itself, the self needs to represent itself in some form or another. The I’s most original self-relation cannot simply take the form of an original *Tathandlung* in which the reflecting self (the subject pole of the self-reflection) claims immediate identity with itself as reflected (i.e., as the object pole of the self-reflection). In Novalis’s view, self-reflection requires some kind of external representation. Such a representation cannot, however, be deduced from the immediate identity (FS #11). The identity of the reflecting and the reflected I is grounded in a feeling (FS #11). Thought, however, fails to grasp this feeling.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按照诺瓦利斯的看法——其思路在此与荷尔德林对主观唯心主义的回应相合——费希特的理论归根到底植根于“我”自我设定的直接性，它预设自我反思的能力可以追溯为一种非表象性的自我关联或智性直观，而这种关联或直观避开了反思性结构本身，因而也避开了反思的自我与被反思的自我之间的主客关系。诺瓦利斯主张，为了对自身采取反思性的姿态，自我需要以某种形式表现自身。“我”最原初的自我关联，不能简单地采取一种原初 *Tathandlung*（事实行动）的形式，在其中，反思的自我（自我反思的主体极）声称与被反思的自我（即自我反思的客体极）具有直接的同一性。在诺瓦利斯看来，自我反思需要某种外在的表现。然而这种表现不能从直接的同一性中推出（FS #11）。反思的“我”与被反思的“我”的同一性，植根于一种感觉之中（FS #11）。而思想却无法把握这种感觉。
+    step2: |-
+      诺瓦利斯在此与荷尔德林对主观唯心主义的回应合辙。他认为费希特之说终究立基于“我”自我设定的直接性，并预设自我反思的能力可以还原为一种非表象性的自我关联，即智性直观；而后者避开了反思结构本身，也就避开了反思的自我与被反思的自我之间的主客关系。诺瓦利斯主张，自我要对自身取反思姿态，就须以某种形式表现自身。“我”最原初的自我关联，不能径直取一种原初 *Tathandlung*（事实行动）的形式，使反思的自我（反思的主体极）声称与被反思者（反思的客体极）直接同一。在他看来，自我反思需要某种外在的表现；而这种表现无法从直接同一中推出（FS #11）。反思之“我”与被反思之“我”的同一，植根于一种感觉（FS #11）；思想却抓不住这种感觉。
   - id: 30
     kind: body
     source: |-
       Novalis follows Kant in claiming that thought and feeling make up two irreducible sources of experience. Given this dual source of experience, philosophy cannot, as Fichte would have it, be rooted in one single principle. To be sure, the idea of such a principle is attractive to the extent that it would aid in undermining the Kantian dualism of concept and intuition, and ultimately also guarantee the self-determination of rational subjectivity. Yet such a principle cannot be given. Instead of adhering to the completely autonomous subjectivity of Fichtean philosophy, Novalis argues that the subject is inwardly split, not just between thought and feeling, but ultimately also between the hubris of believing that thought can in fact grasp the basic self-feeling, and the realization that this feeling cannot be conceptually processed as such. The latter point not only involves a modification of the scope of reflexive subjectivity, but also of philosophy itself. As Novalis emphatically puts it, “[t]he borders of feeling *are* the borders of philosophy” (FS #15, emphasis added).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      诺瓦利斯追随康德，主张思想与感觉构成经验的两种不可还原的来源。既然经验有双重来源，哲学就不能像费希特所设想的那样，植根于单一原则。诚然，这样一个原则的观念颇具吸引力：它有助于破除康德的概念与直观的二元论，最终还能保证理性主体性的自决。然而这样的原则无法给出。诺瓦利斯不坚持费希特哲学那种完全自主的主体性，而是主张主体在内部是分裂的：不仅分裂为思想与感觉，而且最终还分裂为两方——一方狂妄地相信思想确实能把握基本的自我感觉，另一方则认识到这种感觉本身无法被概念地加工。后一点不仅涉及反思性主体性范围的修正，也涉及哲学本身的修正。正如诺瓦利斯着重指出的：“感觉的边界*就是*哲学的边界”（FS #15，强调为引者所加）。
+    step2: |-
+      诺瓦利斯随康德，认思想与感觉为经验的两个不可还原之源。经验既有双重来源，哲学便不能像费希特所设想的那样系于单一原则。这样一个原则的念头固然诱人：它可助破除康德的概念与直观二元，最终还能担保理性主体的自决。然而此原则无从给出。诺瓦利斯不取费希特式的完全自主主体性，而主张主体内部分裂：不只分为思想与感觉，终究还分为两面——一面狂妄地相信思想真能把握基本的自我感觉，另一面则认识到这种感觉本身无法被概念加工。后一点不只修正了反思性主体性的范围，也修正了哲学本身。用诺瓦利斯强调的话说：“感觉的边界*就是*哲学的边界”（FS #15，强调系引者所加）。
   - id: 31
     kind: body
     source: |-
       If Novalis develops his own philosophical voice through the encounter with Fichte, he also takes a significant step beyond the epistemological framework of *The Science of Knowledge*. Some scholars, such as Manfred Frank and Jane Kneller, see the *Fichte Studies*, with its insistence on the two sources of experience, as gesturing back to a more Kantian position—a Kantian moderation of Fichte’s idealism. Such an interpretation is not only justified by reference to Novalis’s critique of Fichte, but also given historical support in light of Novalis’s relatively close contact with Kantian philosophers such as Karl Leonhard Reinhold and Carl Christian Erhard Schmid. Furthermore, on having completed his studies of Fichte, Novalis quickly returns to Kant. In the so-called *Kant Studies*, whose scope spans Kant’s practical as well as theoretical philosophy, he speaks of Kant’s philosophizing as scholastic, yet celebrates it as “one of the most remarkable phenomena of the human spirit” (KS, 337). In critically endorsing Kant’s idea of transcendental idealism as the science of philosophy, Novalis, too, wishes to see philosophy as a meta-discipline, a rational account of the boundaries of rationality.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果说诺瓦利斯是在与费希特的交锋中发展出自己的哲学声音，那么他也迈出了超出《知识学》认识论框架的重要一步。一些学者，如曼弗雷德·弗兰克与简·克内勒，把《费希特研究》对经验双重来源的坚持，看作回指一种更康德式的立场——以康德的方式节制费希特的唯心主义。这样的解释不仅有诺瓦利斯对费希特的批评为据，也有历史支持：诺瓦利斯与卡尔·莱昂哈德·莱因霍尔德、卡尔·克里斯蒂安·埃尔哈德·施米德等康德派哲学家往来较密。此外，完成费希特研究后，诺瓦利斯很快回到康德。在所谓《康德研究》中（其范围兼及康德的实践哲学与理论哲学），他把康德的哲学思考称为经院式的，却又称之为“人类精神最值得注意的现象之一”（KS, 337）。诺瓦利斯批判性地认可康德把先验唯心主义视为哲学之科学的想法，也愿把哲学看作一门元学科，一种关于理性之边界的理性说明。
+    step2: |-
+      如果说诺瓦利斯在与费希特的遭逢中形成自己的哲学声音，他也迈出了超出《知识学》认识论框架的一大步。曼弗雷德·弗兰克、简·克内勒等学者认为，《费希特研究》坚持经验的双重来源，是向更近康德立场回摆，即以康德式的方式节制费希特的唯心论。此解不只有诺瓦利斯对费希特的批评为证，也有史实支持：他与卡尔·莱昂哈德·莱因霍尔德、卡尔·克里斯蒂安·埃尔哈德·施米德等康德派学者过从较密。何况他研究完费希特后，很快又回到康德。在所谓《康德研究》（兼及康德的理论哲学与实践哲学）中，他称康德的哲学思考为经院式的，却又赞之为“人类精神最值得注意的现象之一”（KS, 337）。诺瓦利斯批判地认可康德把先验唯心论当作哲学之科学的想法，也愿视哲学为元学科，即对理性之界线的理性说明。
   - id: 32
     kind: body
     source: |-
       Novalis’s work is neither strictly speaking Kantian nor strictly speaking Fichtean in spirit. On assessing Novalis’s reflections on transcendental idealism, it is important to keep in mind that when he, in 1797, returns to Kant’s thinking, he views it through the lens of Fichte’s philosophy. Furthermore, Fichte’s thinking, for Novalis, did not just consist in the various theses of *The Science of Knowledge* (*Wissenschaftslehre*), but also in a certain way of doing philosophy. “Fichtean philosophy is a call to self-activity,” insists Novalis (FS #567). That is, it is a mode of philosophizing rather than a given claim about the absolute freedom of the transcendental ego. In this respect, Fichte’s most important work is not the *Wissenschaftslehre*, but his lecture on the scholar’s vocation, *Über die Bestimmung des Gelehrten*, which he supposedly read in Jena in 1794 and which would then be eagerly studied in Jena and Weimar. Even though Novalis had good family connections to Fichte, we do not know for sure whether he had access to the unpublished version of this text. However, Novalis’s emphasis on intellectual responsibility, self-thinking, and autonomy speaks clearly of a responsiveness to this dimension of Fichte’s work. Novalis’s reflections on these issues culminate in his notion of *Bildung*. This is also the point at which Novalis ceases to present himself as a critical commentator of subjective idealism and produces an independent philosophical contribution of lasting force and value.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      严格说来，诺瓦利斯的工作在精神上既非康德式，也非费希特式。评估诺瓦利斯关于先验唯心主义的思考时，重要的是记住：当他1797年回到康德的思想时，他是透过费希特哲学的透镜来看康德的。此外，对诺瓦利斯而言，费希特的思想并不只在于《知识学》（*Wissenschaftslehre*）的各种论题，也在于某种做哲学的方式。“费希特哲学是对自我活动的召唤”，诺瓦利斯坚称（FS #567）。也就是说，它是一种哲学化的方式，而非关于先验自我之绝对自由的既定主张。就此而言，费希特最重要的著作不是《知识学》，而是他论学者天职的讲演《论学者的使命》（*Über die Bestimmung des Gelehrten*）；据说他1794年在耶拿宣读过此文，随后在耶拿与魏玛被热切研读。尽管诺瓦利斯与费希特有良好的家世渊源，我们并不能确知他是否读到了此文未刊的版本。然而，诺瓦利斯对思想责任、自我思考与自主的强调，清楚表明他对费希特工作的这一维度有所回应。诺瓦利斯对这些问题的思考，最终凝聚为他的 *Bildung*（教化）概念。也正是在这一点上，诺瓦利斯不再以主观唯心主义的批判评论者身份出现，而是作出了具有持久力量与价值的独立哲学贡献。
+    step2: |-
+      严格说来，诺瓦利斯的工作在精神上既不属于康德，也不属于费希特。评估他关于先验唯心论的思考时须记住：1797年他重回康德，是透过费希特的透镜去看的。何况在诺瓦利斯看来，费希特的思想不只在《知识学》（*Wissenschaftslehre*）的诸论题，更在一种做哲学的方式。“费希特哲学是对自我活动的召唤”，诺瓦利斯坚称（FS #567）——它是一种哲学化的方式，而不是关于先验自我绝对自由的既定论断。就此而言，费希特最重要的著作不是《知识学》，而是论学者天职的讲演《论学者的使命》（*Über die Bestimmung des Gelehrten*）；据说他1794年在耶拿宣读过，随后在耶拿与魏玛被争相传读。诺瓦利斯与费希特两家本有交谊，但他是否读过此文的未刊稿，已不可确知。不过，诺瓦利斯对思想责任、自我思考与自主的强调，分明回应着费希特工作的这一面。他对这些问题的思考，最终凝结为 *Bildung*（教化）概念。也正在此处，他不再只是主观唯心主义的批评者，而作出了有持久力量的独立哲学贡献。
   - id: 33
     kind: body
     source: |-
