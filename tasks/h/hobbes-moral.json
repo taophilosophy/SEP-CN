@@ -2,7 +2,7 @@
   "slug": "hobbes-moral",
   "kind": "retranslate",
   "zh_doc": "h/hobbes-moral.md",
-  "state": "r1_reviewed",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,13 @@
       "actor": "H-main-20261109",
       "at": "2026-11-08T23:23:40Z",
       "evidence": "初审（冷置回读，间隔逾三小时、中途他条目作业）：全文 247 行分三段回读，十一节论证链（主要著作→哲学规划→自然状态→战争状态→再问→自然法→主权建立→绝对主义→责任与限度→宗教→性别与种族）顺序与源文一致；回读修订 1 处（「受规则约束的议会这样的拟制人格」三连「的」改并列句式；「祖先状态」Critical 已在一校修）；标题与正文层级、文献区、学术工具、OIR、相关词条、译注齐备，无孤立定义异常（144 defs 源文同构）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "H-main-20261110b",
+      "at": "2026-11-10T21:14:21Z",
+      "evidence": "r2 复审（新会话逐句回核 + 定向核查）：①中英全文对照，11 节论证链逐段相符；②实修 2 处——§9 末句补回漏译（en『by permitting Hobbes to maintain that subjects can obey even commands to perform actions they believe to be sinful without fear of divine punishment』整层被上一版概括成『免除道德负担』，已还原）；§3『理论上受限制的自然权利…』de-chain 触发（的 三连）改写为『这项自然权利理论上本有限制，实践中却成了对万物的无限权利——霍布斯所谓“对万物”的权利』；③标题英文截断『moral and political philosophy』还原上游全题『Hobbes’s Moral and Political Philosophy』（H1/SUMMARY/mu-lu-s 三处同步）；④相关词条 11 项与 SUMMARY 站内名逐一对齐（自利契约论/利己主义/伦理学中的自然法传统/博弈论/托马斯·霍布斯/法律权利/自由主义/洛克的政治哲学/自然法理论/囚徒困境/权利）；⑤账本完整性修复：发现账本 step2 与成品 15 段漂移（s2 润色只落成品未回账本，compose 重放会回滚润色），已全部回写为终稿并复验 lq check 35 段守恒 OK；⑥书名体例《法律要义：自然与政治》冒号形与全书一致；⑦相关引文（Leviathan xlii, 106；xlii. 11）页码与源一致。check_prose 余 1 条为霍布斯原文直引（§6『和平是善的…』，ADR-0020 豁免）；check_style 0。"
     }
   ],
   "blockers": [],
