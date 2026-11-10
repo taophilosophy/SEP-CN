@@ -1,0 +1,348 @@
+{
+ "key": "lex",
+ "term": "lex",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T00:44:34+00:00",
+ "status": "ok",
+ "note": "variant=lex; 审定公布名词库=842; 海峡两岸名词对照库=326; 其他来源数据库=54; 预公布名词数据库=48; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "Lex语言",
+   "en": "Lex",
+   "code": "05.0022",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_语言与编译"
+  },
+  {
+   "cn": "广义m维单纯形",
+   "en": "generalized m-dimensional simp- lex",
+   "code": "05.0753",
+   "standard": "数学名词",
+   "subject": "数学_分析学_凸分析"
+  },
+  {
+   "cn": "辞书覆盖面",
+   "en": "dictionary coverage,lex icographic(al) coverage",
+   "code": "06.141",
+   "standard": "语言学名词",
+   "subject": "语言学_辞书学_辞书编纂"
+  },
+  {
+   "cn": "辞书释义",
+   "en": "dictionary definition,lex icographic(al) definition",
+   "code": "06.274",
+   "standard": "语言学名词",
+   "subject": "语言学_辞书学_辞书释义"
+  },
+  {
+   "cn": "勒[克斯]",
+   "en": "lux,lx",
+   "code": "01.898",
+   "standard": "电气工程名词",
+   "subject": "电气工程_电工基础及通用名词"
+  },
+  {
+   "cn": "岱[克斯]",
+   "en": "dex",
+   "code": "01.095",
+   "standard": "天文学名词",
+   "subject": "天文学_天文学"
+  },
+  {
+   "cn": "性",
+   "en": "sex",
+   "code": "01.006",
+   "standard": "男科及性医学名词",
+   "subject": "男科及性医学_学科概论"
+  },
+  {
+   "cn": "性别",
+   "en": "sex",
+   "code": "07.214",
+   "standard": "兽医学名词",
+   "subject": "兽医学_家畜胚胎学"
+  },
+  {
+   "cn": "特",
+   "en": "tex",
+   "code": "4.0273",
+   "standard": "化工名词（七）高分子化工",
+   "subject": "化工（七）_合成纤维_总论"
+  },
+  {
+   "cn": "求偶场",
+   "en": "lek",
+   "code": "7.028",
+   "standard": "动物学名词",
+   "subject": "动物学_动物生态学_个体生态学"
+  },
+  {
+   "cn": "后腿肌肉",
+   "en": "leg",
+   "code": "06.107",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_畜产品与加工_肉_胴体及其品质"
+  },
+  {
+   "cn": "勒[克斯]",
+   "en": "lux",
+   "code": "01.420",
+   "standard": "电力名词",
+   "subject": "电力_总论"
+  },
+  {
+   "cn": "法院地法",
+   "en": "lex fori",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "从签约地法",
+   "en": "lex loci contractus",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "特[克斯]",
+   "en": "tex",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "求偶场",
+   "en": "lek",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "择偶场",
+   "en": "lek",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "焊脚",
+   "en": "leg",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "交换局",
+   "en": "exchange\",\"EX",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "交换",
+   "en": "exchange\",\"switch\",\"EX",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "性别",
+   "en": "sex\",\"sexuality",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "胡格诺教徒",
+   "en": "Huguenots\",\"Les",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "仙女们",
+   "en": "Sylphides\",\"Les",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "母鹿",
+   "en": "Biches\",\"Les",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "擦网重发",
+   "en": "let",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "重发球",
+   "en": "let",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "擦网重发",
+   "en": "let\",\"let service",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_乒乓球名词"
+  },
+  {
+   "cn": "擦网重发！",
+   "en": "Let!",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "重发球！",
+   "en": "Let!",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "绊",
+   "en": "leg grappling\",\"leg sweep\",\"leg trip",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "摆动腿",
+   "en": "free leg\",\"swinging leg",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "段",
+   "en": "leg\",\"relay",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "金兹堡-朗道方程",
+   "en": "Lev Gor'kov",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "背风波",
+   "en": "lee wave",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "腿全旋",
+   "en": "leg circle",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "前导腿",
+   "en": "leading leg",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "生理性别",
+   "en": "sex",
+   "code": "3.2.1.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别概念"
+  },
+  {
+   "cn": "性",
+   "en": "sex",
+   "code": "3.3.1.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性社会学_性社会学基本概念"
+  },
+  {
+   "cn": "第二性",
+   "en": "second sex",
+   "code": "3.2.2.16",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_女性主义"
+  },
+  {
+   "cn": "性工作者",
+   "en": "sex worker",
+   "code": "3.2.5.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别与工作"
+  },
+  {
+   "cn": "性别比",
+   "en": "sex ratio",
+   "code": "3.2.6.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别与发展"
+  },
+  {
+   "cn": "性征",
+   "en": "sex character",
+   "code": "3.3.1.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性社会学_性社会学基本概念"
+  },
+  {
+   "cn": "婚前性活动",
+   "en": "premarital sex",
+   "code": "3.3.2.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性社会学_性规范"
+  },
+  {
+   "cn": "婚外性活动",
+   "en": "extramarital sex",
+   "code": "3.3.2.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性社会学_性规范"
+  },
+  {
+   "cn": "性犯罪",
+   "en": "sex crimes",
+   "code": "3.3.2.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性社会学_性规范"
+  },
+  {
+   "cn": "性教育",
+   "en": "sex education",
+   "code": "3.3.3.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性社会学_性发展"
+  },
+  {
+   "cn": "性度",
+   "en": "sex degree",
+   "code": "3.3.3.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性社会学_性发展"
+  },
+  {
+   "cn": "性权利",
+   "en": "sex right",
+   "code": "3.3.6.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性社会学_性的多元论"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
