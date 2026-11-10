@@ -1,0 +1,50 @@
+{
+  "slug": "logic-massexpress",
+  "kind": "retranslate",
+  "zh_doc": "l/logic-massexpress.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-10T01:19:37Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-10T01:46:41Z",
+      "evidence": "lq compose 169 段全填、守恒 HARD 0（段12 误用 $y$ 改回 *y*；段128 脚注键 champellion 笔误改回 champollion）；l/logic-massexpress.md 32,149 字符；p1–p7 分批（1–23/24–42/43–70/71–88/89–113/114–145/146–169）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-10T01:46:41Z",
+      "evidence": "check_style 0（修 1 处引号不配对：物化“无中生有”的转换）；check_prose 0；check_math missing 0/unbalanced 0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-10T01:46:42Z",
+      "evidence": "check_academic --strict 0 硬错误（23 条 note 脚注键齐备）；check_terms 硬错误 0（新增术语 18、人名 56，script/l_reg_logic_massexpress.py；Parsons, Terence 与 Charles Parsons 分列、Cartwright, Helen Morris 与 Nancy Cartwright 分列）；check_summary H1 mismatch 0"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-10T01:48:26Z",
+      "evidence": "对照 yuanwen/l/logic-massexpress.md 逐段回读 169 段：1–10 节与源标题一一对应；23 条 note 与 73 条文献脚注逐键齐备；致谢段置于相关词条之后与源同序；无 TBD/英文残句；lq 169 段守恒 OK"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-10T01:19:36Z",
+  "version_pin": {
+    "pubinfo_date": "Jan 31, 2024",
+    "archive_edition": "Spring 2024",
+    "sha256": "3b02c855e9f74dbd4acec135b05a41495f76d6f486c60fec21481161b745a8ec"
+  }
+}

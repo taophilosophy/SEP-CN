@@ -1,0 +1,1391 @@
+version: 1
+slug: logic-massexpress
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      In many languages, like English, nominal expressions headed by common nouns can be divided into two subtypes, mass expressions (like *wine*, *silverware*, *wisdom*) and count expressions (like *cat*, *army*, *idea*). We first characterize what mass expressions are. Then we discuss various proposals concerning their semantics.
+    step1: |-
+      在许多语言（如英语）中，以普通名词为核心的指称表达式可分为两个子类：物质名词表达（如 *wine*、*silverware*、*wisdom*）与可数表达（如 *cat*、*army*、*idea*）。我们先刻画物质名词表达是什么，再讨论关于其语义的各种方案。
+    step2: |-
+      在许多语言（如英语）中，以普通名词为核心的指称表达式分两类：物质名词表达（如 *wine*、*silverware*、*wisdom*）与可数表达（如 *cat*、*army*、*idea*）。本文先刻画物质名词表达是什么，再讨论关于其语义的种种方案。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. What are mass expressions?
+    step1: |-
+      ## 1. 什么是物质名词表达？
+    step2: |-
+      ## 1 什么是物质名词表达？
+  - id: 3
+    kind: body
+    source: |-
+      How can we identify a class of mass expressions as distinct from a class of count expressions? In order to do so, one may try to employ syntactic criteria or semantic criteria. We present them in turn. As we shall see, only the syntactic criteria are satisfactory.
+    step1: |-
+      怎样把物质名词表达这个类与可数表达这个类区分开来？为此可以尝试句法判据或语义判据。下面依次介绍。我们会看到，只有句法判据令人满意。
+    step2: |-
+      怎样划出物质名词表达与可数表达这两类？可以试句法判据，也可以试语义判据。下面依次介绍；将看到，只有句法判据令人满意。
+  - id: 4
+    kind: body
+    source: |-
+      ### 1.1 Syntactic criteria
+    step1: |-
+      ### 1.1 句法判据
+    step2: |-
+      ### 1.1 句法判据
+  - id: 5
+    kind: body
+    source: |-
+      At the syntactic level, there are two viable positions concerning the mass / count distinction: it applies at the level of nouns; or it only applies at the level of noun phrases.
+    step1: |-
+      在句法层面，关于物质/可数之分有两种可行立场：它适用于名词层面；或者它只适用于名词短语层面。
+    step2: |-
+      句法层面，物质/可数之分有两种可行立场：或在名词层面适用，或只在名词短语层面适用。
+  - id: 6
+    kind: body
+    source: |-
+      The first position is the traditional, dominant view (e.g., Weinreich 1966; Krifka 1991; Gillon 1992)[^gillon-1992][^krifka-1991][^weinreich-1966]. According to it, in a language like English (or French, German, Greek, Italian, etc.), common nouns are divided into two morphosyntactic subclasses, mass nouns and count nouns. A defining characteristic of mass nouns, like *milk*, *gold*, *furniture*, *wisdom* and *love*, is that they are invariable in grammatical number, while count nouns, like *rabbit*, *bottle*, *table*, *idea* and *set*, can be used in the singular and in the plural. Depending on the language, this basic morphosyntactic difference between the two types of noun is supplemented by differences as to the determiners they can combine with. Thus, in English, mass nouns can be used with determiners like *much* and *a lot of*, but neither with *one* nor *many*. On the contrary, count nouns can be employed with numerals like *one* and determiners like *many*, but not with *much.*
+    step1: |-
+      第一种立场是传统的主流看法（如 Weinreich 1966; Krifka 1991; Gillon 1992）[^gillon-1992][^krifka-1991][^weinreich-1966]。按此看法，在英语（或法语、德语、希腊语、意大利语等）这样的语言中，普通名词分为两个形态句法子类：物质名词与可数名词。物质名词（如 *milk*、*gold*、*furniture*、*wisdom*、*love*）的一个界定特征是语法数上不变，而可数名词（如 *rabbit*、*bottle*、*table*、*idea*、*set*）可用于单数与复数。依语言不同，两类名词这一基本形态句法差异还伴随可搭配限定词的差异。例如英语中，物质名词可与 *much*、*a lot of* 这类限定词连用，却不能与 *one* 或 *many* 连用。相反，可数名词可与 *one* 这类数词及 *many* 这类限定词连用，却不能与 *much* 连用。
+    step2: |-
+      第一种立场是传统主流看法（如 Weinreich 1966; Krifka 1991; Gillon 1992）[^gillon-1992][^krifka-1991][^weinreich-1966]：在英语（或法语、德语、希腊语、意大利语等）中，普通名词分两个形态句法子类——物质名词与可数名词。物质名词（*milk*、*gold*、*furniture*、*wisdom*、*love*）的界定特征是语法数不变；可数名词（*rabbit*、*bottle*、*table*、*idea*、*set*）则单复数两用。这个基本差异还伴随可搭配限定词的不同：英语里物质名词能跟 *much*、*a lot of*，却不能跟 *one*、*many*；可数名词能跟 *one* 这类数词与 *many*，却不能跟 *much*。
+  - id: 7
+    kind: body
+    source: |-
+      However, as is well known, mass nouns (like *milk*) can often be used as count nouns: *You should take a hot milk with some honey.* And vice versa: *You will find a lot of rabbit around here*. For this reason, several researchers have denied that the mass / count distinction applies at the level of nouns, and proposed instead that it only applies at the level of noun phrases (e.g., Damourette & Pichon 1927; Pelletier 1975, 2012; Ware 1975)[^damourette-1927][^pelletier-1975][^ware-1975]. Under this view, at the level of nouns, there are only common nouns, but common nouns can be used in a mass way or in a count way depending on the morphosyntactic environment they are put into. Mass determiners, like *much* or *a little*, lead to a mass use of the noun (*much water*, *much table*), while count determiners, like *a* or *two*, lead to a count use (*two waters*, *two tables*).[^note-1]
+    step1: |-
+      然而众所周知，物质名词（如 *milk*）常可用作可数名词：*You should take a hot milk with some honey.* 反过来也一样：*You will find a lot of rabbit around here*。因此，好几位研究者否认物质/可数之分适用于名词层面，转而主张它只适用于名词短语层面（如 Damourette & Pichon 1927; Pelletier 1975, 2012; Ware 1975）[^damourette-1927][^pelletier-1975][^ware-1975]。按此看法，名词层面上只有普通名词，但普通名词可因其进入的形态句法环境而以物质方式或可数方式使用。物质限定词（如 *much* 或 *a little*）导致名词的物质用法（*much water*、*much table*），可数限定词（如 *a* 或 *two*）导致可数用法（*two waters*、*two tables*）。[^note-1]
+    step2: |-
+      可众所周知，物质名词（如 *milk*）常能当可数名词用：*You should take a hot milk with some honey.*；反过来亦然：*You will find a lot of rabbit around here*。因此好几位研究者否认物质/可数之分在名词层面成立，主张它只在名词短语层面成立（如 Damourette & Pichon 1927; Pelletier 1975, 2012; Ware 1975）[^damourette-1927][^pelletier-1975][^ware-1975]。照此说，名词层面只有普通名词；普通名词随所处形态句法环境而以物质方式或可数方式使用——物质限定词（*much*、*a little*）带来物质用法（*much water*、*much table*），可数限定词（*a*、*two*）带来可数用法（*two waters*、*two tables*）。[^note-1]
+  - id: 8
+    kind: body
+    source: |-
+      The two positions seem to be viable (cf. Pelletier & Schubert 2003)[^pelletier-2003] and they have their respective proponents. For ease of exposition, we adopt the dominant view in the rest of the entry.[^note-2]
+    step1: |-
+      两种立场似乎都可行（参看 Pelletier & Schubert 2003）[^pelletier-2003]，各有其拥护者。为便于阐述，本文其余部分采用主流看法。[^note-2]
+    step2: |-
+      两种立场似乎都站得住（参看 Pelletier & Schubert 2003）[^pelletier-2003]，各有拥护者。为便于阐述，本文余下部分采用主流看法。[^note-2]
+  - id: 9
+    kind: body
+    source: |-
+      ### 1.2 Semantic criteria
+    step1: |-
+      ### 1.2 语义判据
+    step2: |-
+      ### 1.2 语义判据
+  - id: 10
+    kind: body
+    source: |-
+      At the semantic level, two properties have been proposed as being characteristic of mass nouns: cumulative reference and distributive reference. But as we shall see, cumulative reference is also a property of plurals, while distributive reference doesn’t apply to all mass nouns.
+    step1: |-
+      在语义层面，有人提出两个性质作为物质名词的特征：累积指称与分配指称。但我们会看到，累积指称也是复数具有的性质，而分配指称并不适用于所有物质名词。
+    step2: |-
+      语义层面，有人提出两个性质作物质名词的特征：累积指称与分配指称。但将看到，累积指称复数也有，分配指称则不适用于一切物质名词。
+  - id: 11
+    kind: body
+    source: |-
+      Since Quine (1960), it is generally accepted that mass nouns refer cumulatively. Consider a mass noun *M*. Suppose that we can truly say of something *x* that *This is M* (with *this* referring to *x*) and of something distinct, *y*, that *This is M* (with *this* now referring to *y*). Then in the same circumstance, we can also refer to *x* and *y* together, and say of *x* and *y* that *This is M*. This property of mass nouns is called cumulative reference. Plural count nouns also have the same property. Let *Ns* be a plural count noun. If these are Ns and those are Ns, then we can refer to these and those together, and say of all of them that they are Ns.
+    step1: |-
+      自 Quine（1960）以来，人们普遍接受物质名词作累积指称。考虑物质名词 *M*。假设对某物 *x* 我们能真地说 *This is M*（*this* 指 *x*），又对另一物 *y* 能真地说 *This is M*（此时 *this* 指 *y*）。那么在同一情形下，我们也能合指 *x* 与 *y*，说 *x* 与 *y* 是 *This is M*。物质名词的这一性质叫累积指称。复数可数名词也有同样性质。设 *Ns* 是复数可数名词。若这些是 Ns，那些也是 Ns，则我们能合指这些与那些，说它们全都是 Ns。
+    step2: |-
+      自 Quine（1960）以来，物质名词作累积指称已成共识。取物质名词 *M*：设对某物 *x* 能真说 *This is M*（*this* 指 *x*），对另一物 *y* 也能真说 *This is M*（此时 *this* 指 *y*）；那么在同一情形下，*x* 与 *y* 可以合指，说 *This is M*。这就是累积指称。复数可数名词同样如此：若这些是 Ns、那些是 Ns，则合指二者，说它们全是 Ns。
+  - id: 12
+    kind: body
+    source: |-
+      Various authors have proposed that mass nouns also refer distributively (e.g., Cheng 1973; ter Meulen 1981)[^cheng-1973][^meulen-1981]. Let *M* be a mass noun. Suppose that we can truly say of something *x* that *This is M* (with *this* referring to *x*). Then in the same circumstance, for anything *y* that is part of *x*, we can also say of y that *This is M* (with *this* now referring to *y*). However, with many mass nouns, the property doesn’t apply when one considers parts that are small enough. Water is made of oxygen and hydrogen, but oxygen isn’t water. And with mass nouns like *furniture* or *silverware*, the problem appears even more clearly, at the macroscopic level: a table is furniture, a leg of the table is part of the table, but the leg isn’t furniture. Thus, the thesis that mass nouns refer distributively is mistaken (e.g., Gillon 1992; Nicolas 2002)[^gillon-1992][^nicolas-2002].
+    step1: |-
+      多位作者提出物质名词也作分配指称（如 Cheng 1973; ter Meulen 1981）[^cheng-1973][^meulen-1981]。设 *M* 是物质名词。假设对某物 *x* 我们能真地说 *This is M*（*this* 指 *x*）。那么在同一情形下，对 *x* 的任何部分 *y*，我们也能说 $y$ 是 *This is M*（此时 *this* 指 *y*）。然而对许多物质名词，一旦考虑足够小的部分，该性质就不成立。水由氧和氢构成，氧却不是水。对 *furniture*、*silverware* 这类物质名词，问题在宏观层面就更明显：桌子是家具，桌腿是桌子的一部分，桌腿却不是家具。因此，物质名词作分配指称这一论题是错的（如 Gillon 1992; Nicolas 2002）[^gillon-1992][^nicolas-2002]。
+    step2: |-
+      多位作者提出物质名词也作分配指称（如 Cheng 1973; ter Meulen 1981）[^cheng-1973][^meulen-1981]。设 *M* 是物质名词，对某物 *x* 能真说 *This is M*（*this* 指 *x*）；则同一情形下，对 *x* 的任何部分 *y* 也能说它是 *This is M*（*this* 指 *y*）。可对许多物质名词，部分小到一定程度，该性质就不灵了：水由氧和氢构成，氧却不是水；*furniture*、*silverware* 这类词在宏观层面更明显——桌子是家具，桌腿是桌子的一部分，桌腿却不是家具。所以，“物质名词作分配指称”这一论题是错的（如 Gillon 1992; Nicolas 2002）[^gillon-1992][^nicolas-2002]。
+  - id: 13
+    kind: body
+    source: |-
+      A first attempt to defend the view would be as follows. Bunt (1985) and others have proposed that, although modern science is in conflict with the claim that the mass noun *water* refers distributively, English speakers use the noun as if it did. The problem with this suggestion is that it cannot be falsified, since it puts aside the very cases that would do so. So it doesn’t seem to be an empirical hypothesis and it doesn’t appear to make any prediction. What benefit would there be to add this claim to any theory?
+    step1: |-
+      为该看法辩护的第一次尝试如下。Bunt（1985）等人提出：尽管现代科学与“物质名词 *water* 作分配指称”这一主张相冲突，英语使用者却仍像它成立那样使用该名词。这个建议的问题在于无法证伪，因为它恰恰把会证伪它的情形排除在外。所以它似乎不是经验假说，也不见作出任何预测。把这一主张加进任何理论，有何益处？
+    step2: |-
+      为这看法辩护的头一种尝试是：Bunt（1985）等人主张，现代科学虽与“*water* 作分配指称”相冲突，英语使用者却照旧这样用。毛病在于无法证伪——它恰恰把会证伪它的情形排除在外。这样它就不像经验假说，也不见给出任何预测。把这话加进理论，有什么好处？
+  - id: 14
+    kind: body
+    source: |-
+      A better attempt would consist, in effect, in attributing a weaker property to mass nouns. As we will see in section 2, an approach based on mereology may well, contrary to what is usually assumed, want to use a non-extensional mereology, where the notion of part is defined in terms of the notion of sum. If distributive reference were understood using such a notion of part, it could avoid the problems mentioned here. There is nothing wrong with that, but then, the property attributed to mass nouns would be much weaker than that originally advocated by its partisans (see Nicolas 2002, chapter 3, for a proposal of this kind)[^nicolas-2002]. The claim made here is simply that distributive reference, as usually conceived, is not a property of mass nouns.
+    step1: |-
+      更好的尝试是给物质名词归属一个较弱的性质。我们将在第 2 节看到，基于分体论的进路很可能——与通常设想相反——想采用非外延的分体论，其中部分概念由和概念定义。若用这样的部分概念来理解分配指称，就能避开此处提到的问题。这没什么不对，但那样一来，归给物质名词的性质就比其拥护者原初主张的弱得多（此类的方案见 Nicolas 2002 第 3 章）[^nicolas-2002]。这里的主张只是：通常设想的分配指称，并不是物质名词的性质。
+    step2: |-
+      更好的尝试，是给物质名词归属一个较弱的性质。第 2 节将看到，基于分体论的进路很可能——与通常设想相反——要采用非外延的分体论，其中部分概念由和概念定义。用这样的部分概念理解分配指称，就能避开上述难题；这没什么不对，只是归给物质名词的性质会比拥护者原初主张的弱得多（此类方案见 Nicolas 2002 第 3 章）[^nicolas-2002]。本文只主张：通常设想的分配指称，并非物质名词的性质。
+  - id: 15
+    kind: body
+    source: |-
+      But more generally, it seems that there are no necessary and sufficient semantic conditions that would specify what mass nouns are and what count nouns are (see Gillon 1992, Koslicki 1999, and Nicolas 2002 for detailed arguments to this effect[^note-3]; *a contrario*, see for instance Landman 2020)[^gillon-1992][^koslicki-1999][^landman-2020][^nicolas-2002]. A common noun that is mass in a language (like *luggage* in English) may be count in another (like *bagage* in French). The distinction between mass nouns and count nouns should be drawn syntactically. A key feature of count nouns is that they admit the singular / plural contrast while mass nouns do not. So languages that do not mark the singular / plural contrast could lack count nouns and all their common nouns function in a similar way as mass nouns do in English. This might the case of certain classifier languages, like Mandarin (Chierchia 1998, 2010)[^chierchia-1998].[^note-4] Alternatively, the mass / count distinction could just fail to apply to such languages. The proper way to draw the mass / count distinction across languages is still debated (see Doetjes 2012, Rothstein 2017, and Bale & Barner 2018 for cross-linguistic overviews)[^bale-2018][^doetjes-2012][^rothstein-2017].
+    step1: |-
+      但更一般地说，似乎没有既必要又充分的语义条件能规定什么是物质名词、什么是可数名词（详细论证见 Gillon 1992、Koslicki 1999、Nicolas 2002[^note-3]；反面意见例如见 Landman 2020）[^gillon-1992][^koslicki-1999][^landman-2020][^nicolas-2002]。一种语言中属物质名词的普通名词（如英语的 *luggage*），在另一种语言中可能属可数名词（如法语的 *bagage*）。物质名词与可数名词之分应当从句法上划定。可数名词的一个关键特征是容许单复数对立，物质名词则不容许。因此，不标记单复数对立的语言可能没有可数名词，其普通名词的功能都类似于英语中的物质名词。某些量词语言（如汉语普通话）也许如此（Chierchia 1998, 2010）[^chierchia-1998]。[^note-4] 另一种可能是，物质/可数之分根本不适用于这类语言。跨语言划定物质/可数之分的恰当方式仍有争论（跨语言概览见 Doetjes 2012、Rothstein 2017、Bale & Barner 2018）[^bale-2018][^doetjes-2012][^rothstein-2017]。
+    step2: |-
+      更一般地说，似乎没有既必要又充分的语义条件能规定何谓物质名词、何谓可数名词（详见 Gillon 1992、Koslicki 1999、Nicolas 2002[^note-3]；反面意见如 Landman 2020）[^gillon-1992][^koslicki-1999][^landman-2020][^nicolas-2002]。一种语言里的物质名词（英语 *luggage*），到另一种语言里可能成可数名词（法语 *bagage*）。此分应当从句法上划定：可数名词的关键特征是容许单复数对立，物质名词不容许。于是，不标记单复数对立的语言可能没有可数名词，其普通名词的功能都类似英语物质名词，某些量词语言（如汉语普通话）或即如此（Chierchia 1998, 2010）[^chierchia-1998]。[^note-4] 另一种可能是：物质/可数之分根本不适用于这类语言。跨语言划定此分的恰当方式仍有争论（跨语言概览见 Doetjes 2012、Rothstein 2017、Bale & Barner 2018）[^bale-2018][^doetjes-2012][^rothstein-2017]。
+  - id: 16
+    kind: body
+    source: |-
+      In the rest of this entry, we examine how sentences containing mass nouns are interpreted, i.e., how their truth-conditions can be specified. We consider several approaches to the semantics of mass nouns. Even though a given approach may turn out to be unsatisfactory, it is important to know in what precise respects it fails. For some of its key proposals may be retained in (or transposed to) a better, overall framework.
+    step1: |-
+      本文其余部分考察含物质名词的句子如何解释，即其真值条件如何规定。我们考虑物质名词语义的几种进路。即便某条进路最终不尽如人意，知道它究竟在哪方面失败也很重要。因为它的一些关键提议，也许能保留在（或转译进）一个更好的总体框架。
+    step2: |-
+      本文余下部分考察含物质名词的句子如何解释，即其真值条件怎样规定。我们会看几种进路；某条进路最终不尽如人意，弄清它究竟败在何处仍然要紧——它的某些关键提议，也许能保留进（或转译进）更好的总体框架。
+  - id: 17
+    kind: body
+    source: |-
+      ## 2. The purely mereological approach
+    step1: |-
+      ## 2. 纯分体论进路
+    step2: |-
+      ## 2 纯分体论进路
+  - id: 18
+    kind: body
+    source: |-
+      We first consider the purely mereological approach (Moravcsik 1973)[^moravcsik-1973], which uses mereological sums as the denotata of mass nouns, and interprets mass predication (e.g., *This is water*) in terms of parthood.
+    step1: |-
+      先看纯分体论进路（Moravcsik 1973）[^moravcsik-1973]：它用分体论的和作为物质名词的指称物，并以部分关系解释物质述谓（如 *This is water*）。
+    step2: |-
+      先看纯分体论进路（Moravcsik 1973）[^moravcsik-1973]：以分体论的和作物质名词的指称物，用部分关系解释物质述谓（如 *This is water*）。
+  - id: 19
+    kind: body
+    source: |-
+      Take the noun *water*. The view is that this noun denotes the sum of all the water that there is. The notion of sum involved here can be characterized formally, as done in mereology (cf. Varzi 2016, Cotnoir & Varzi 2021)[^cotnoir-2021][^varzi-2016]. Intuitively, suppose there is some water in a bottle, *a*, and some water in a cup, *b*. Then we can also refer to the water in the bottle and the cup. This is a bigger portion of water, the sum of *a* and *b*, noted *a*∨*b* (or *a*+*b*). *a* is part of *a*∨*b*, and so is *b*. More generally, we can sum all the portions of water together. This is a very big portion of water, which is the denotation of the noun *water*. Mass predication is then interpreted in terms of these associated notions of sum and parthood:
+    step1: |-
+      以名词 *water* 为例。该看法认为，这个名词指称一切存在之水的和。这里涉及的和概念可以形式地刻画，分体论正是这样做的（参看 Varzi 2016、Cotnoir & Varzi 2021）[^cotnoir-2021][^varzi-2016]。直观地说，假设瓶中有一些水 *a*，杯中有一些水 *b*。那么我们也能指称瓶中和杯中的水。这是更大的一份水，即 *a* 与 *b* 的和，记作 *a*∨*b*（或 *a*+*b*）。*a* 是 *a*∨*b* 的部分，*b* 也是。更一般地，可以把所有部分的水加在一起。这是一份极大的水，即名词 *water* 的指称。物质述谓于是用这些相关的和概念与部分概念来解释：
+    step2: |-
+      以 *water* 为例。该看法认为这个名词指称一切存在之水的和。这里涉及的和概念可形式刻画，分体论正是这么做的（参看 Varzi 2016、Cotnoir & Varzi 2021）[^cotnoir-2021][^varzi-2016]。直观地说：瓶中有水 *a*，杯中有水 *b*，则也能指称瓶中与杯中的水合起来——更大的一份水，即 *a* 与 *b* 之和，记作 *a*∨*b*（或 *a*+*b*）。*a*、*b* 都是 *a*∨*b* 的部分。更一般地，可把所有水份加在一起，得到极大的一份水，那就是 *water* 的指称。物质述谓便用这些和与部分概念解释：
+  - id: 20
+    kind: body
+    source: |-
+      *This is M* is true iff [*this*] ≤ [*M*],
+    step1: |-
+      *This is M* 为真，当且仅当 [*this*] ≤ [*M*]，
+    step2: |-
+      *This is M* 为真，当且仅当 [*this*] ≤ [*M*]，
+  - id: 21
+    kind: body
+    source: |-
+      where [ · ] is the denotation function, [*this*] is the sum of what is demonstrated and [*M*] is the sum of all *M*. For instance:
+    step1: |-
+      其中 [ · ] 是指称函数，[*this*] 是被指示之物的和，[*M*] 是一切 *M* 的和。例如：
+    step2: |-
+      其中 [ · ] 为指称函数，[*this*] 是被指示之物的和，[*M*] 是一切 *M* 的和。例如：
+  - id: 22
+    kind: body
+    source: |-
+      *This is water* is true iff [*this*] ≤ [*water*], the sum of all water.
+    step1: |-
+      *This is water* 为真，当且仅当 [*this*] ≤ [*water*]，即一切水的和。
+    step2: |-
+      *This is water* 为真，当且仅当 [*this*] ≤ [*water*]，即一切水之和。
+  - id: 23
+    kind: body
+    source: |-
+      However, this quickly runs into a problem, since there are parts of water (e.g., oxygen) that are too small to count as water. Water seems to have “minimal parts”, smallest parts that count as water. (As said in section 1.2, this is even clearer with mass nouns like *furniture*.)
+    step1: |-
+      然而这很快就遇到问题：水有些部分（如氧）太小，算不上水。水似乎有“极小部分”，即算得上水的最小部分。（如 1.2 节所说，对 *furniture* 这类物质名词，这一点更明显。）
+    step2: |-
+      可这很快就出问题：水有些部分（如氧）太小，算不上水。水似乎有“极小部分”——算得上水的最小部分。（1.2 节说过，*furniture* 这类词上这一点更明显。）
+  - id: 24
+    kind: body
+    source: |-
+      Parsons (1970, reprinted in 1979: 150) points out a related difficulty, the ‘WOOD = FURNITURE’ problem. Suppose that all wood is used to make up furniture and all furniture is made of wood. Then it would seem that the sum of the wood is identical with the sum of the furniture. Therefore, all sentences of the form *The wood P* and *The furniture P* are predicted to have the same truth-value, for any predicate *P*. Yet, it might well be that *The furniture is heterogeneous* is true, intuitively, while *The wood is heterogeneous* is false.
+    step1: |-
+      Parsons（1970，重印于 1979: 150）指出一个相关困难，即“木头＝家具”问题。假设所有木头都用来做家具，所有家具都由木头制成。那么木头的和似乎就与家具的和同一。于是，对任何谓词 *P*，形如 *The wood P* 与 *The furniture P* 的句子都被预测有相同真值。然而很可能，*The furniture is heterogeneous* 直觉上为真，而 *The wood is heterogeneous* 为假。
+    step2: |-
+      Parsons（1970，重印于 1979: 150）指出一个相关困难：“木头＝家具”问题。设所有木头都拿来做家具、所有家具都由木头制成，则木头之和似乎与家具之和同一；于是对任何谓词 *P*，*The wood P* 与 *The furniture P* 都被预测同真同假。可直觉上很可能 *The furniture is heterogeneous* 为真，而 *The wood is heterogeneous* 为假。
+  - id: 25
+    kind: body
+    source: |-
+      **Remark 1:** The purely mereological approach is usually understood in terms of classical extensional mereology. However, such an approach doesn’t seem to require the full power of this theory. The notion of sum used could be the join operation ∨ in a join semi-lattice. And the notion of parthood employed could be the order relation ≤ defined in this way: *x* ≤ *y* =_{def} *x* ∨ *y* = *y*. The notion of join semi-lattice is more general and far less constrained than classical extensional mereology (see Moltmann 1997, ch. 1, for other criticisms of the mereological extensional view)[^moltmann-1997].
+    step1: |-
+      **评论 1：** 纯分体论进路通常按经典外延分体论理解。然而这种进路似乎并不需要该理论的全部力量。所用的和概念可以是并半格中的并运算 ∨，所用的部分概念可以是由 *x* ≤ *y* =_{def} *x* ∨ *y* = *y* 定义的序关系 ≤。并半格概念比经典外延分体论更一般、约束远少（对分体外延观的其他批评，见 Moltmann 1997 第 1 章）[^moltmann-1997]。
+    step2: |-
+      **评论 1：** 纯分体论进路通常按经典外延分体论理解，但似乎用不着该理论的全部力量：和概念可用并半格中的并运算 ∨，部分概念可用 *x* ≤ *y* =_{def} *x* ∨ *y* = *y* 定义的序关系 ≤。并半格比经典外延分体论更一般，约束少得多（对分体外延观的其他批评见 Moltmann 1997 第 1 章）[^moltmann-1997]。
+  - id: 26
+    kind: body
+    source: |-
+      **Remark 2:** Thus, against Parsons, one may well want to deny that the (sum or join of the) wood is identical to the (sum or join of the) furniture. Indeed, if the furniture is broken, it ceases to exist, while the wood does not. This line of argumentation is adopted more generally by those who deny the identity of a ship and the wood it is made of, of a man and its molecules, etc. (cf. Wasserman 2012). Parsons’ argument is based on a controversial metaphysical assumption, one that a semantics of mass nouns need not make.[^note-5] (See Steen 2012, section 2.2 and supplement 1, for other metaphysical considerations concerning the purely mereological approach.)[^steen-2012]
+    step1: |-
+      **评论 2：** 所以，可以反 Parsons 而否认木头（的和）与家具（的和）同一。确实，家具若被打碎就不复存在，木头却不。否认船与其所用木头同一、人与构成其分子同一的人，一般也采取这条论证路线（参看 Wasserman 2012）。Parsons 的论证基于一个有争议的形而上学假定，物质名词语义学不必作出它。[^note-5]（关于纯分体论进路的其他形而上学考量，见 Steen 2012 第 2.2 节及补充材料 1。）[^steen-2012]
+    step2: |-
+      **评论 2：** 于是可以反 Parsons 而否认木头（之和）与家具（之和）同一：家具打碎了就不复存在，木头却不能。否认船与所用木头同一、人与分子同一的人，一般也走这条论证路线（参看 Wasserman 2012）。Parsons 的论证建在一个有争议的形而上学假定上，物质名词语义学不必接受它。[^note-5]（纯分体论进路的其他形而上学考量见 Steen 2012 第 2.2 节与补充材料 1。）[^steen-2012]
+  - id: 27
+    kind: body
+    source: |-
+      **Remark 3:** Indeed, Moravcsik (1973) proposes to do something of this kind in order to avoid the problem of minimal parts. The idea is to associate to any mass noun its own part-whole relation. Let *M* be a mass noun, [*M*] the sum it denotes, and ≤_{M} the associated part-whole relation. The sentence *This is M* is represented as: [*this*] ≤_{M} [*M*]. Then, the leg of a table isn’t a *furniture*-part of the furniture, so the problem of minimal parts is avoided.
+    step1: |-
+      **评论 3：** 的确，Moravcsik（1973）提议做这类事情以避开极小部分问题。想法是给每个物质名词配上它自己的部分—整体关系。设 *M* 是物质名词，[*M*] 是它所指示的和，≤_{M} 是相伴随的部分—整体关系。句子 *This is M* 表示为：[*this*] ≤_{M} [*M*]。这样，桌腿不是家具的 *furniture*-部分，极小部分问题便避开了。
+    step2: |-
+      **评论 3：** Moravcsik（1973）正是提议这么做，以避开极小部分问题：给每个物质名词配它自己的部分—整体关系。设 *M* 是物质名词，[*M*] 是其指示的和，≤_{M} 是相应部分—整体关系，则 *This is M* 表示为 [*this*] ≤_{M} [*M*]。这样桌腿不是家具的 *furniture*-部分，极小部分问题就避开了。
+  - id: 28
+    kind: body
+    source: |-
+      **Remark 4:** However, this doesn’t account for the validity of syllogisms like the following (Burge 1972: 266–267)[^burge-1972]:
+    step1: |-
+      **评论 4：** 然而这无法说明下述三段论的有效性（Burge 1972: 266–267）[^burge-1972]：
+    step2: |-
+      **评论 4：** 可这解释不了下述三段论为何有效（Burge 1972: 266–267）[^burge-1972]：
+  - id: 29
+    kind: body
+    source: |-
+      *This is gold. Gold is metal. Therefore, this is metal.*
+    step1: |-
+      *This is gold. Gold is metal. Therefore, this is metal.*
+    step2: |-
+      *This is gold. Gold is metal. Therefore, this is metal.*
+  - id: 30
+    kind: body
+    source: |-
+      Presumably, it represents it as follows:
+    step1: |-
+      大概会把它表示为：
+    step2: |-
+      大概会这样表示：
+  - id: 31
+    kind: body
+    source: |-
+      [*this*] ≤_{GOLD} [*gold*] & [*gold*] ≤_{METAL} [*metal*] → [*this*] ≤_{METAL} [*metal*]
+    step1: |-
+      [*this*] ≤_{GOLD} [*gold*] & [*gold*] ≤_{METAL} [*metal*] → [*this*] ≤_{METAL} [*metal*]
+    step2: |-
+      [*this*] ≤_{GOLD} [*gold*] & [*gold*] ≤_{METAL} [*metal*] → [*this*] ≤_{METAL} [*metal*]
+  - id: 32
+    kind: body
+    source: |-
+      This is invalid, since only a uniform part-whole relation could guarantee transitivity.[^note-6]
+    step1: |-
+      这无效，因为只有统一的部分—整体关系才能保证传递性。[^note-6]
+    step2: |-
+      这无效：只有统一的部分—整体关系才能保证传递性。[^note-6]
+  - id: 33
+    kind: body
+    source: |-
+      **Remark 5:** The purely mereological approach faces yet another, very general problem. One still needs a uniform framework for doing semantics: for proper names, singular count nouns, plurals, mass nouns, adjectives, verbs, etc. This has to be set theory, or something as powerful like “non-singular” or “plural” logic (see section 9).
+    step1: |-
+      **评论 5：** 纯分体论进路还面临另一个非常一般的难题。做语义学终究需要一个统一的框架，适用于专名、单数可数名词、复数、物质名词、形容词、动词等。这只能是集合论，或某种同样有力的东西，如“非单数”逻辑或“复数”逻辑（见第 9 节）。
+    step2: |-
+      **评论 5：** 纯分体论进路还有更一般的麻烦：做语义学终究需要统一框架，能处理专名、单数可数名词、复数、物质名词、形容词、动词等。这只能是集合论，或同样有力的东西，如“非单数”逻辑、“复数”逻辑（见第 9 节）。
+  - id: 34
+    kind: body
+    source: |-
+      ## 3. The purely set-theoretic approach
+    step1: |-
+      ## 3. 纯集合论进路
+    step2: |-
+      ## 3 纯集合论进路
+  - id: 35
+    kind: body
+    source: |-
+      By contrast, the purely set-theoretic approach (Burge 1972; Grandy 1973; Montague 1973[^note-7])[^burge-1972][^grandy-1973][^montague-1973] treats mass nouns as ordinary predicates that denote sets[^note-8]. Mass predication is interpreted as set membership. For any mass noun *M* and predicate *P*:
+    step1: |-
+      相比之下，纯集合论进路（Burge 1972; Grandy 1973; Montague 1973[^note-7]）[^burge-1972][^grandy-1973][^montague-1973] 把物质名词当作指称集合的普通谓词[^note-8]，物质述谓解释为集合成员关系。对任何物质名词 *M* 与谓词 *P*：
+    step2: |-
+      相比之下，纯集合论进路（Burge 1972; Grandy 1973; Montague 1973[^note-7]）[^burge-1972][^grandy-1973][^montague-1973] 把物质名词看作指称集合的普通谓词[^note-8]，把物质述谓解释为集合成员关系。对任何物质名词 *M* 与谓词 *P*：
+  - id: 36
+    kind: body
+    source: |-
+      *This is M* is true iff [*this*] ⊆ [*M*] Some *M* P is true iff [*M*] ∩ [*P*] ≠ ∅,
+    step1: |-
+      *This is M* 为真，当且仅当 [*this*] ⊆ [*M*]；*Some M P* 为真，当且仅当 [*M*] ∩ [*P*] ≠ ∅，
+    step2: |-
+      *This is M* 为真，当且仅当 [*this*] ⊆ [*M*]；*Some M P* 为真，当且仅当 [*M*] ∩ [*P*] ≠ ∅，
+  - id: 37
+    kind: body
+    source: |-
+      where [*this*] is the set whose elements are what is demonstrated, [*M*] is the set having for elements everything that is *M*, [*P*] is the set having for elements everything that *P*.
+    step1: |-
+      其中 [*this*] 是以被指示之物为元素的集合，[*M*] 是以一切为 *M* 者为元素的集合，[*P*] 是以一切为 *P* 者为元素的集合。
+    step2: |-
+      其中 [*this*] 以被指示之物为元素，[*M*] 以一切为 *M* 者为元素，[*P*] 以一切为 *P* 者为元素。
+  - id: 38
+    kind: body
+    source: |-
+      A difficulty for this approach is to specify, for any mass noun *M*, what the “portions of M” are. This difficulty appears especially clearly with definite descriptions, as in *The gold on the table weighs fifty grams.* If the description *the gold on the table* denotes the set having for elements everything that is gold on the table, then how can we evaluate the truth of the sentence? It would not do to give the sum of all weights (cf. Bunt 1985: 41)[^bunt-1985]. So it seems we must impose restrictions on the elements of the set [*the gold on the table*].[^note-9]
+    step1: |-
+      这条进路的一个困难是：对任何物质名词 *M*，要规定“*M* 的份”是什么。这个困难在限定摹状词中尤其明显，如 *The gold on the table weighs fifty grams.* 若摹状词 *the gold on the table* 指称以桌上一切为金者为元素的集合，那怎样评定句子的真值？把所有重量加起来是不行的（参看 Bunt 1985: 41）[^bunt-1985]。看来必须对集合 [*the gold on the table*] 的元素施加限制。[^note-9]
+    step2: |-
+      这条进路的难点在于：对任何物质名词 *M*，要规定“*M* 的份”是什么。限定摹状词上尤其明显，如 *The gold on the table weighs fifty grams.*：若 *the gold on the table* 指称以桌上一切金者为元素的集合，句子的真值怎么评？把所有重量加起来显然不行（参看 Bunt 1985: 41）[^bunt-1985]。看来只能对 [*the gold on the table*] 的元素设限。[^note-9]
+  - id: 39
+    kind: body
+    source: |-
+      Now comes a second and crucial difficulty concerning identity over time. Consider:
+    step1: |-
+      接着是第二个、也至关重要的困难，关乎跨时间同一性。考虑：
+    step2: |-
+      接下来是第二个、也顶要紧的困难：跨时间同一性。看：
+  - id: 40
+    kind: body
+    source: |-
+      *The clay that was on the desk on July 1ˢᵗ is identical with the clay that was on the table on July 2ⁿᵈ.* (Context of utterance: three solid bits of clay were on the desk on July 1ˢᵗ, and two solid bits of clay were on the table on July 2ⁿᵈ. Example inspired by Cartwright 1965.)[^cartwright-1965]
+    step1: |-
+      *The clay that was on the desk on July 1ˢᵗ is identical with the clay that was on the table on July 2ⁿᵈ.*（话语语境：7 月 1 日桌上有三块实心黏土，7 月 2 日桌上有两块实心黏土。例子受 Cartwright 1965 启发。）[^cartwright-1965]
+    step2: |-
+      *The clay that was on the desk on July 1ˢᵗ is identical with the clay that was on the table on July 2ⁿᵈ.*（语境：7 月 1 日桌上有三块实心黏土，7 月 2 日桌上有两块实心黏土。例子受 Cartwright 1965 启发。）[^cartwright-1965]
+  - id: 41
+    kind: body
+    source: |-
+      Which set could make [*the clay that was on the desk on July 1ˢᵗ*] = [*the clay that was on the table on July 2ⁿᵈ*] true? What about the set of all minimal parts of clay, i.e., the set of all the instances of clay that have no other instance of clay as part? However, with mass nouns like *garbage*, it is not clear what the minimal parts would be (cf. Pelletier & Schubert 2003)[^pelletier-2003]. And more crucially, one cannot exclude *a priori* the possibility that what a given mass noun applies to may be indefinitely divisible. So the semantics should not require mass nouns to have minimal parts (cf. Bunt 1985; Gillon 1992)[^bunt-1985][^gillon-1992]. (See section 9 for a solution to this problem within the framework of non-singular logic; see Steen 2012, section 2.3, for various metaphysical considerations concerning the purely set-theoretic approach.)[^steen-2012]
+    step1: |-
+      哪个集合能使 [*the clay that was on the desk on July 1ˢᵗ*] = [*the clay that was on the table on July 2ⁿᵈ*] 为真？或许是一切黏土极小部分的集合，即一切不以其他黏土实例为部分的黏土实例之集？然而对 *garbage* 这类物质名词，极小部分是什么并不清楚（参看 Pelletier & Schubert 2003）[^pelletier-2003]。更关键的是，无法 *先验地* 排除某个物质名词所适用者可以无限可分。所以语义学不应要求物质名词有极小部分（参看 Bunt 1985; Gillon 1992）[^bunt-1985][^gillon-1992]。（在非单数逻辑框架内解决此问题，见第 9 节；关于纯集合论进路的各种形而上学考量，见 Steen 2012 第 2.3 节。）[^steen-2012]
+    step2: |-
+      哪个集合能使 [*the clay that was on the desk on July 1ˢᵗ*] = [*the clay that was on the table on July 2ⁿᵈ*] 为真？也许是一切黏土极小部分之集，即不以其他黏土实例为部分的那些黏土实例？可对 *garbage* 这类词，极小部分是什么并不清楚（参看 Pelletier & Schubert 2003）[^pelletier-2003]；更关键的是，无法 *先验* 排除某物质名词的适用对象无限可分。因此语义学不应要求物质名词有极小部分（参看 Bunt 1985; Gillon 1992）[^bunt-1985][^gillon-1992]。（非单数逻辑框架内的解法见第 9 节；纯集合论进路的形而上学考量见 Steen 2012 第 2.3 节。）[^steen-2012]
+  - id: 42
+    kind: body
+    source: |-
+      ## 4. The mixed set-theoretic and mereological approach
+    step1: |-
+      ## 4. 集合论与分体论混合进路
+    step2: |-
+      ## 4 集合论与分体论混合进路
+  - id: 43
+    kind: body
+    source: |-
+      From what precedes, one may be tempted to draw the following lessons:
+    step1: |-
+      从前文也许可以引出如下教训：
+    step2: |-
+      前文似乎可以引出几条教训：
+  - id: 44
+    kind: body
+    source: |-
+      - Mass predication (as in *This is water*) should not be understood in terms of parthood, but in terms of set membership.
+      - The denotation of a mass noun *M* (the set whose elements are everything that is *M*) should be the join semi-lattice generated by the sum or join operation on portions of M.[^note-10]
+    step1: |-
+      - 物质述谓（如 *This is water*）不应按部分关系理解，而应按集合成员关系理解。
+      - 物质名词 *M* 的指称（以一切为 *M* 者为元素的集合）应当是由 *M* 的各份上的和运算或并运算生成的并半格。[^note-10]
+    step2: |-
+      - 物质述谓（如 *This is water*）不该用部分关系解释，该用集合成员关系解释。
+      - 物质名词 *M* 的指称（以一切为 *M* 者为元素的集合），应当是由 *M* 各份上的和运算或并运算生成的并半格。[^note-10]
+  - id: 45
+    kind: body
+    source: |-
+      This solves the problems encountered above by the purely mereological approach and the purely set-theoretic approach. Indeed, what precedes suggests that mass predication (*to be M*), like count predication or adjectival predication, is well rendered in terms of set membership. The purely set-theoretic approach has problems with definite descriptions because it just uses sets, avoiding sums. But as we saw earlier, mass nouns have the property of cumulative reference. If there is some clay in two cups, then one can refer to all of the clay as the clay in the two cups. This suggests that portions of clay can be summed, and that the set of portions of clay should have the structure of a join semi-lattice. When this is guaranteed for any mass noun *M*, the semantic value of definite descriptions can easily be specified. The description the *M* that Q denotes the sum of everything that is some M that Q. It is such a sum that is weighted in *The gold on the table weighs fifty grams*. And it is such a sum whose identity over time is asserted in *The clay that was on the desk on July 1ˢᵗ is identical with the clay that was on the table on July 2ⁿᵈ.* (Another treatment of identity over time is presented in section 9.)
+    step1: |-
+      这就解决了前文纯分体论进路与纯集合论进路遇到的难题。确实，前文表明，物质述谓（*是 M*）像可数述谓或形容词述谓一样，用集合成员关系来刻画得不错。纯集合论进路在限定摹状词上出问题，是因为它只用集合而避开了和。但如前所见，物质名词有累积指称的性质。若两个杯子里有黏土，则可指称两只杯中的全部黏土。这表明黏土的份可以求和，黏土份之集应当具有并半格的结构。只要对任何物质名词 *M* 都保证这一点，限定摹状词的语义值就容易规定。摹状词 the *M* that Q 指称一切作为某个“是 Q 的 M”者的和。*The gold on the table weighs fifty grams* 中称重的正是这样一个和；*The clay that was on the desk on July 1ˢᵗ is identical with the clay that was on the table on July 2ⁿᵈ.* 中断言跨时间同一性的，也是这样一个和。（跨时间同一性的另一种处理见第 9 节。）
+    step2: |-
+      这样，纯分体论与纯集合论各自的难题都解决了。前文表明：物质述谓（*是 M*）与可数述谓、形容词述谓一样，用集合成员关系刻画得挺好。纯集合论在限定摹状词上出问题，是因为它只用集合、避开了和；可物质名词有累积指称——两只杯里都有黏土，就可以指称两只杯中的全部黏土。可见黏土的份可以求和，黏土份之集应当有并半格结构。只要对任何物质名词 *M* 都保证这一点，限定摹状词就容易规定：the *M* that Q 指称一切“是 Q 的 M”之和。*The gold on the table weighs fifty grams* 称的正是这个和；*The clay that was on the desk on July 1ˢᵗ is identical with the clay that was on the table on July 2ⁿᵈ.* 断言跨时间同一性的也是它。（跨时间同一性的另一种处理见第 9 节。）
+  - id: 46
+    kind: body
+    source: |-
+      Accordingly, we arrive at the mixed set-theoretic and mereological approach:
+    step1: |-
+      于是我们得到集合论与分体论的混合进路：
+    step2: |-
+      于是有了集合论与分体论的混合进路：
+  - id: 47
+    kind: body
+    source: |-
+      *This is M* is true iff [*this*] ⊆ [*M*] Some *M* P is true iff [*M*] ∩ [*P*] ≠ ∅ The *M* (that *Q*) P is true iff [the *M* (that *Q*)] ⊆ [*P*],
+    step1: |-
+      *This is M* 为真，当且仅当 [*this*] ⊆ [*M*]；*Some M P* 为真，当且仅当 [*M*] ∩ [*P*] ≠ ∅；*The M (that Q) P* 为真，当且仅当 [the *M* (that *Q*)] ⊆ [*P*]，
+    step2: |-
+      *This is M* 为真，当且仅当 [*this*] ⊆ [*M*]；*Some M P* 为真，当且仅当 [*M*] ∩ [*P*] ≠ ∅；*The M (that Q) P* 为真，当且仅当 [the *M* (that *Q*)] ⊆ [*P*]，
+  - id: 48
+    kind: body
+    source: |-
+      where [*this*] is the set having for sole member the sum of what is demonstrated, [*M*] is the set of everything that is M (a join semi-lattice), [the *M* (that *Q*)] is the set having for sole member the sum of everything that is some M (that Q), [*P*] is the set having for members everything that P.
+    step1: |-
+      其中 [*this*] 是以被指示之物的和为唯一成员的集合，[*M*] 是一切为 M 者之集（一个并半格），[the *M* (that *Q*)] 是以一切作为某个“是 M（且 Q）者”者的和为唯一成员的集合，[*P*] 是以一切为 P 者为成员的集合。
+    step2: |-
+      其中 [*this*] 以被指示之物的和为唯一成员；[*M*] 是一切为 M 者之集（并半格）；[the *M* (that *Q*)] 以一切“是 M（且 Q）者”之和为唯一成员；[*P*] 以一切为 P 者为成员。
+  - id: 49
+    kind: body
+    source: |-
+      This offers a simple way to accommodate the hindsights of the set-theoretic and mereological approaches, while avoiding the previous pitfalls. A decisive advantage of this view over the purely mereological one is that the overall framework for doing semantics remains the usual one, set theory. Gillon (1992) and Nicolas (2010) can be seen as instances of such a mixed view,[^note-11] with an additional component, namely “aggregations” or “coverings” (see section 8 below).
+    step1: |-
+      这提供了一个简单办法，既吸收集合论进路与分体论进路的洞见，又避开先前的陷阱。此看法相对纯分体论的一个决定性优势是：做语义学的总体框架仍是通常的集合论。Gillon（1992）与 Nicolas（2010）可视为这种混合看法的实例，[^note-11] 另有一个附加成分，即“聚合”或“覆盖”（见下文第 8 节）。
+    step2: |-
+      这个办法简单：既吸收两条进路的洞见，又避开先前的坑。相对纯分体论，它的决定性优势是总体框架仍为通常的集合论。Gillon（1992）与 Nicolas（2010）可算这种混合看法的实例，[^note-11] 只是多一个成分：“聚合”或“覆盖”（见第 8 节）。
+  - id: 50
+    kind: body
+    source: |-
+      ## 5. Negation
+    step1: |-
+      ## 5. 否定
+    step2: |-
+      ## 5 否定
+  - id: 51
+    kind: body
+    source: |-
+      However, a difficulty appears with negation (Roeper 1983; Lønning 1987; Higginbotham 1994)[^higginbotham-1994][^lønning-1987][^roeper-1983]. Consider a positive sentence of the form The *M* P and its negation The *M* not P, where *M* is a mass noun and *P* a predicate. For instance: *The gold is in the safe* and *The gold is not in the safe.* Imagine that the universe of discourse contains only two bits of gold, *a* and *b*, and their sum *a*∨*b*. Then under the mixed view, [*gold*] = {*a*, *b*, *a*∨*b*}, [*the gold*] = {*a*∨*b*}. Suppose further that only *a* is in the safe: [*in the safe*] = {*a*}. Given what we said in section 4:
+    step1: |-
+      然而否定会带来困难（Roeper 1983; Lønning 1987; Higginbotham 1994）[^higginbotham-1994][^lønning-1987][^roeper-1983]。考虑形如 The *M* P 的肯定句及其否定 The *M* not P，其中 *M* 是物质名词、*P* 是谓词。例如 *The gold is in the safe* 与 *The gold is not in the safe.* 设想论域中只有两块金 *a* 与 *b* 及其和 *a*∨*b*。按混合看法，[*gold*] = {*a*, *b*, *a*∨*b*}，[*the gold*] = {*a*∨*b*}。再设只有 *a* 在保险柜里：[*in the safe*] = {*a*}。按第 4 节所说：
+    step2: |-
+      可否定会带来麻烦（Roeper 1983; Lønning 1987; Higginbotham 1994）[^higginbotham-1994][^lønning-1987][^roeper-1983]。看形如 The *M* P 的肯定句及其否定 The *M* not P（*M* 为物质名词，*P* 为谓词）。例如 *The gold is in the safe* 与 *The gold is not in the safe.* 设论域中只有两块金 *a*、*b* 及其和 *a*∨*b*，则按混合看法 [*gold*] = {*a*, *b*, *a*∨*b*}，[*the gold*] = {*a*∨*b*}；再设只有 *a* 在保险柜里，[*in the safe*] = {*a*}。按第 4 节：
+  - id: 52
+    kind: body
+    source: |-
+      *The gold is in the safe* is true iff [*the gold*] ⊆ [*in the safe*]
+    step1: |-
+      *The gold is in the safe* 为真，当且仅当 [*the gold*] ⊆ [*in the safe*]
+    step2: |-
+      *The gold is in the safe* 为真，当且仅当 [*the gold*] ⊆ [*in the safe*]
+  - id: 53
+    kind: body
+    source: |-
+      So the sentence is predicted to be false.
+    step1: |-
+      所以该句被预测为假。
+    step2: |-
+      于是该句被判为假。
+  - id: 54
+    kind: body
+    source: |-
+      Now, it seems plausible that the semantics should validate the following equivalence: The *M* not P is true iff *The M P* is false. Then, the sentence *The gold is not in the safe* is predicted to be true. This is a problem for the mixed approach developed so far, since one would like to ascribe the same status to the positive sentence and its negation. Either because both sentences are taken to be false. Or because both are judged inapplicable in the circumstance, being as it were partly true and partly false.
+    step1: |-
+      可是，语义学似乎理应使下述等价成立：The *M* not P 为真，当且仅当 *The M P* 为假。那么句子 *The gold is not in the safe* 就被预测为真。这对迄今发展的混合进路是个问题，因为人们希望对肯定句及其否定赋予相同地位：要么两句都判为假；要么在该情形下都判为不适用，即可以说部分真、部分假。
+    step2: |-
+      然而语义学似乎理应承认等价：The *M* not P 为真，当且仅当 *The M P* 为假。这样一来 *The gold is not in the safe* 又被预测为真。这与迄今的混合进路冲突：人们希望肯定句与其否定地位相同——要么都假，要么在该情形下都不适用，即部分真部分假。
+  - id: 55
+    kind: body
+    source: |-
+      Consider also noun phrases of the form the *M* that P and the *M* that not P. For instance: *the gold that is in the safe* and *the gold that is not in the safe*. Here, intuitions are very clear: the first noun phrase designates the solid bit of gold *a*, while the second designates *b*. However, under the mixed approach, *The gold is not in the safe* is true. This means that *a*+*b* (the gold) is in the denotation of *is not in the safe*. So it may seem that *a*+*b* is also in the denotation of *gold that is not in the safe* and in that of *the gold that is not in the safe*, contradicting speakers’ intuitions.
+    step1: |-
+      再看形如 the *M* that P 与 the *M* that not P 的名词短语。例如 *the gold that is in the safe* 与 *the gold that is not in the safe*。这里直觉很明确：第一个名词短语指那块实心金 *a*，第二个指 *b*。然而按混合进路，*The gold is not in the safe* 为真，这意味着 *a*+*b*（那块金）落在 *is not in the safe* 的指称中。于是 *a*+*b* 似乎也落在 *gold that is not in the safe* 以及 *the gold that is not in the safe* 的指称中，与说话者的直觉相矛盾。
+    step2: |-
+      再看 the *M* that P 与 the *M* that not P 这类名词短语，如 *the gold that is in the safe* 与 *the gold that is not in the safe*。直觉很清楚：前者指那块实心金 *a*，后者指 *b*。可混合进路说 *The gold is not in the safe* 为真，即 *a*+*b*（那块金）落在 *is not in the safe* 的指称里；那么它似乎也落在 *gold that is not in the safe*、*the gold that is not in the safe* 的指称里，与说话者直觉相左。
+  - id: 56
+    kind: body
+    source: |-
+      How can we avoid these difficulties? Roeper (1983), Lønning (1987) and Higginbotham (1994) propose that the solution lies in defining predication and negation in a certain way within a Boolean algebra.[^note-12] They consider only cases where predicates (mass nouns included) are “homogeneous”, like above. Following ter Meulen (1981), a predicate is said to be homogeneous if it applies both cumulatively and distributively. Predicates like *gold* and *in the safe* may indeed seem to apply distributively and cumulatively, if we stay at the macroscopic level for *gold*. In this approach, mass nouns and predicates denote elements in a certain Boolean algebra, (*B*,≤,∨,∧0,1). ≤ is the order (or parthood) relation. ∨ is the join (or sum) operation. ∧ is the meet (or intersection) operation. 0 is the smallest element. 1 is the largest element. As in any Boolean algebra, every element *x* has a Boolean complement, noted −*x* (cf. Monk 2018)[^monk-2018].
+    step1: |-
+      怎样避开这些困难？Roeper（1983）、Lønning（1987）与 Higginbotham（1994）提出，解法在于在某个布尔代数中以特定方式定义述谓与否定。[^note-12] 他们只考虑谓词（包括物质名词）为“齐性的”的情形，如上例。沿 ter Meulen（1981），若一个谓词既作累积指称又作分配指称，就称它齐性。只要对 *gold* 停留在宏观层面，*gold* 与 *in the safe* 这类谓词似乎确实既作分配指称又作累积指称。在此进路中，物质名词与谓词指称某个布尔代数 (*B*,≤,∨,∧0,1) 中的元素。≤ 是序（或部分）关系，∨ 是并（或和）运算，∧ 是交（或交叠）运算，0 是最小元，1 是最大元。与任何布尔代数一样，每个元素 *x* 都有布尔补，记作 −*x*（参看 Monk 2018）[^monk-2018]。
+    step2: |-
+      怎样绕开？Roeper（1983）、Lønning（1987）、Higginbotham（1994）认为，解法是在某个布尔代数里以特定方式定义述谓与否定。[^note-12] 他们只处理谓词（含物质名词）为“齐性”的情形，如上例。沿 ter Meulen（1981），谓词既累积又分配地指称，就叫齐性。只要 *gold* 停在宏观层面，*gold*、*in the safe* 这类谓词似乎确实既分配又累积。这条进路里，物质名词与谓词指称某布尔代数 (*B*,≤,∨,∧0,1) 的元素：≤ 是序（部分）关系，∨ 是并（和），∧ 是交（交叠），0 最小、1 最大。如任何布尔代数一样，每个元素 *x* 有布尔补，记作 −*x*（参看 Monk 2018）[^monk-2018]。
+  - id: 57
+    kind: body
+    source: |-
+      Predication is understood in terms of Boolean intersection:
+    step1: |-
+      述谓按布尔交来理解：
+    step2: |-
+      述谓按布尔交理解：
+  - id: 58
+    kind: body
+    source: |-
+      *This is M* is true iff [*this*] ∧ [*M*] = [*this*] iff [*this*] ≤ [*M*] The *M* P is true iff [*M*] ∧ [*P*] = [*M*] iff [*M*] ≤ [*P*] Some *M* P is true iff [*M*] ∧ [*P*] ≠ 0,
+    step1: |-
+      *This is M* 为真，当且仅当 [*this*] ∧ [*M*] = [*this*]，当且仅当 [*this*] ≤ [*M*]；The *M* P 为真，当且仅当 [*M*] ∧ [*P*] = [*M*]，当且仅当 [*M*] ≤ [*P*]；Some *M* P 为真，当且仅当 [*M*] ∧ [*P*] ≠ 0，
+    step2: |-
+      *This is M* 为真，当且仅当 [*this*] ∧ [*M*] = [*this*]，当且仅当 [*this*] ≤ [*M*]；The *M* P 为真，当且仅当 [*M*] ∧ [*P*] = [*M*]，当且仅当 [*M*] ≤ [*P*]；Some *M* P 为真，当且仅当 [*M*] ∧ [*P*] ≠ 0，
+  - id: 59
+    kind: body
+    source: |-
+      where [*this*] is the join of what is demonstrated, [*M*] is join of everything that is M, and [*P*] is the join of everything that P.
+    step1: |-
+      其中 [*this*] 是被指示之物的并，[*M*] 是一切为 M 者的并，[*P*] 是一切为 P 者的并。
+    step2: |-
+      其中 [*this*] 是被指示之物的并，[*M*] 是一切为 M 者之并，[*P*] 是一切为 P 者之并。
+  - id: 60
+    kind: body
+    source: |-
+      And negation is defined in terms of Boolean complement: [*not P*] = −[*P*]. So The *M* not P is true iff [*M*] ≤ [*not P*] = −[*P*].
+    step1: |-
+      否定按布尔补定义：[*not P*] = −[*P*]。于是 The *M* not P 为真，当且仅当 [*M*] ≤ [*not P*] = −[*P*]。
+    step2: |-
+      否定按布尔补定义：[*not P*] = −[*P*]。于是 The *M* not P 为真，当且仅当 [*M*] ≤ [*not P*] = −[*P*]。
+  - id: 61
+    kind: body
+    source: |-
+      Applying this, both *The gold is in the safe* and *The gold is not in the safe* are predicted to be false*.* Indeed, in the situation imagined, the universe of discourse contains only two bits of gold, *a* and *b*, and their join *a*∨*b*. So [*gold*] = *a*∨*b* = 1, [*is in the safe*] = *a*, [*is not in the safe*] = −*a* = *b*.[^note-13]
+    step1: |-
+      照此，*The gold is in the safe* 与 *The gold is not in the safe* 都被预测为假*.* 确实，在所设想情形中，论域只含两块金 *a* 与 *b* 及其并 *a*∨*b*。所以 [*gold*] = *a*∨*b* = 1，[*is in the safe*] = *a*，[*is not in the safe*] = −*a* = *b*。[^note-13]
+    step2: |-
+      照此，*The gold is in the safe* 与 *The gold is not in the safe* 都判为假*.* 确实，设想情形中论域只含 *a*、*b* 及其并 *a*∨*b*，故 [*gold*] = *a*∨*b* = 1，[*is in the safe*] = *a*，[*is not in the safe*] = −*a* = *b*。[^note-13]
+  - id: 62
+    kind: body
+    source: |-
+      The denotation of complex noun phrases is also built through Boolean intersection: [*M that P*] = [*M*] ∧ [*P*]. So [*gold that is in the safe*] = [*gold*]∧[*is in the safe*] = (*a*∨*b*)∧*a* = *a*. And [*gold that is not in the safe*] = (*a*∨*b*)∧*b* = *b*.
+    step1: |-
+      复杂名词短语的指称也通过布尔交构造：[*M that P*] = [*M*] ∧ [*P*]。所以 [*gold that is in the safe*] = [*gold*]∧[*is in the safe*] = (*a*∨*b*)∧*a* = *a*。而 [*gold that is not in the safe*] = (*a*∨*b*)∧*b* = *b*。
+    step2: |-
+      复杂名词短语的指称同样用布尔交构造：[*M that P*] = [*M*] ∧ [*P*]。于是 [*gold that is in the safe*] = [*gold*]∧[*is in the safe*] = (*a*∨*b*)∧*a* = *a*；[*gold that is not in the safe*] = (*a*∨*b*)∧*b* = *b*。
+  - id: 63
+    kind: body
+    source: |-
+      **Remark 1:** Under this approach, the whole universe of discourse (for mass nouns and their predicates) is specified by a single Boolean algebra, with uniformly defined join (sum), meet (intersection), and order (parthood). Predication is defined in terms of Boolean intersection (or equivalently, order or parthood in the case of definite subjects). This works with mass nouns and predicates that are homogeneous (i.e., refer distributively and cumulatively). But mass nouns like *furniture* are clearly not homogeneous. And a predicate like *made by John* isn’t homogeneous either. When something is made by John (e.g., a piece of furniture), it doesn’t imply that any part of it (e.g., some wood used to make it up) is also made by John. For the reasons given in section 2, the Boolean approach may ascribe incorrect truth-conditions to sentences like *This is furniture*, *Some furniture is made by John*, and *The furniture is made by John*. For instance, [*this*] ≤ [*furniture*] does not guarantee that what is demonstrated is furniture, since a piece of wood may be a part of a piece of furniture without being furniture. So there are mass nouns and predicates to which the approach doesn’t seem to apply, even though the same difficulties with negation appear with them. If in the examples above we replace *gold* by *furniture* and *in the safe* by *made by John*, we meet the same problems with negation. (If there are two pieces of furniture, only one of which is made by John, is it true or false that *The furniture is made by John*?) So an appropriate solution had better not be tied to the assumption of homogeneity.[^note-14]
+    step1: |-
+      **评论 1：** 在此进路下，（物质名词及其谓词的）整个论域由单个布尔代数规定，并、交、序（部分）都统一定义。述谓按布尔交定义（在限定主语情形，等价地按序或部分定义）。这对齐性的物质名词与谓词（即既分配又累积指称者）有效。但 *furniture* 这类物质名词显然不齐性，*made by John* 这类谓词也不齐性：某物（如一件家具）由约翰制造，并不蕴涵其任何部分（如做它用的木料）也由约翰制造。按第 2 节的理由，布尔进路可能给 *This is furniture*、*Some furniture is made by John*、*The furniture is made by John* 这类句子指派错误真值条件。例如 [*this*] ≤ [*furniture*] 并不保证被指示之物是家具：一块木料可以是某件家具的部分而不是家具。所以有些物质名词与谓词这条进路似乎用不上，尽管否定上的同样困难在它们身上也出现。若把上例的 *gold* 换成 *furniture*、*in the safe* 换成 *made by John*，否定上的问题依旧。（有两件家具，只有一件由约翰制造，*The furniture is made by John* 是真是假？）所以合适的解法最好不绑在齐性假定上。[^note-14]
+    step2: |-
+      **评论 1：** 这条进路用单个布尔代数规定整个论域（物质名词及其谓词），并、交、序（部分）统一定义；述谓按布尔交定义（限定主语时等价地按序定义）。这对齐性的物质名词与谓词（既分配又累积者）有效；可 *furniture* 显然不齐性，*made by John* 也不齐性：某物（如一件家具）由约翰制造，不蕴涵其任何部分（如木料）也由约翰制造。按第 2 节的理由，布尔进路可能给 *This is furniture*、*Some furniture is made by John*、*The furniture is made by John* 指派错误真值条件——[*this*] ≤ [*furniture*] 并不保证被指示之物是家具，一块木料可以是家具的一部分而不是家具。可见有些物质名词与谓词用不上这条进路，尽管否定上的同样困难在它们身上也出现：把上例的 *gold* 换成 *furniture*、*in the safe* 换成 *made by John*，问题依旧。（两件家具只有一件由约翰制造时，*The furniture is made by John* 是真是假？）所以合适的解法最好别绑在齐性假定上。[^note-14]
+  - id: 64
+    kind: body
+    source: |-
+      **Remark 2:** Indeed, the proposed treatment of negation can be adapted within the mixed approach. The basic idea is that if something *x* P and something *y* not P, then *x* and *y* do not overlap (have no part in common, have 0 as intersection). So, within the mixed view, one may define [*not P*] as the set comprising anything that does not overlap ∨[*P*], the sum of everything that P. This solves the problems above, without requiring homogeneity.
+    step1: |-
+      **评论 2：** 的确，所提出的否定处理可以改造进混合进路。基本想法是：若某物 *x* P，某物 *y* not P，则 *x* 与 *y* 不交叠（无共同部分，交为 0）。于是在混合看法内，可以把 [*not P*] 定义为不含任何与 ∨[*P*]（一切为 P 者之和）交叠之物者所成的集。这就解决了上述问题，而不要求齐性。
+    step2: |-
+      **评论 2：** 这套否定处理其实能改造进混合进路。基本想法：某物 *x* P、某物 *y* not P，则 *x* 与 *y* 不交叠（无共同部分，交为 0）。于是混合看法内可把 [*not P*] 定义为：任何与 ∨[*P*]（一切为 P 者之和）不交叠者所成之集。如此便解决问题，且不要求齐性。
+  - id: 65
+    kind: body
+    source: |-
+      **Remark 3:** However, defining negation in terms of Boolean complement or non-overlap doesn’t work with all predicates. Consider the adjective *cheap*. Fix the context of speech so that what counts as cheap is specified and what counts as not cheap is also specified. The pieces of furniture *a* and *b* may each count as cheap, while together they (*a*∨*b*) count as not cheap. So non-overlap isn’t satisfied here: something not cheap overlaps with something cheap. *Cheap* is a vague predicate. But the same phenomenon is observed with an exact predicate like *costs fifty euros*: *a* and *b* may each cost fifty euros, while together they don’t, costing ninety euros, for instance. So non-overlap should not be required. In general, [*not P*] cannot be defined in terms of [*P*]. Instead, it seems that [*P*] and [*not P*] should be separately specified. (This is done in many approaches to vagueness.)
+    step1: |-
+      **评论 3：** 然而用布尔补或不交叠来定义否定，并非对所有谓词都行。考虑形容词 *cheap*。把言语语境固定下来，使何谓便宜、何谓不便宜都有规定。家具件 *a* 与 *b* 可能各自算便宜，合起来（*a*∨*b*）却算不便宜。这不交叠就失效了：不便宜的东西与便宜的东西交叠。*Cheap* 是模糊谓词。但对 *costs fifty euros* 这类精确谓词也观察到同样现象：*a* 与 *b* 可能各自值五十欧元，合起来却不值，例如共值九十欧元。所以不应要求不交叠。一般地，[*not P*] 不能由 [*P*] 定义；看来 [*P*] 与 [*not P*] 应分别规定。（模糊性研究中许多进路正是这么做的。）
+    step2: |-
+      **评论 3：** 可用布尔补或不交叠定义否定，并非对所有谓词都灵。看 *cheap*：把语境固定，何谓便宜、何谓不便宜都有规定。家具件 *a*、*b* 可能各自便宜，合起来（*a*∨*b*）却不便宜；不交叠就破了——不便宜的东西与便宜的东西交叠。*Cheap* 是模糊谓词，可 *costs fifty euros* 这类精确谓词也有同样现象：*a*、*b* 各自值五十欧元，合起来共值九十欧元便不值。所以不交叠不可强求。一般地，[*not P*] 不能由 [*P*] 定义；看来 [*P*] 与 [*not P*] 得分别规定。（模糊性研究的许多进路正是如此。）
+  - id: 66
+    kind: body
+    source: |-
+      **Remark 4:** The same difficulties also appear with plurals, as we can see if we replace *gold* by *pieces of furniture* and *in the safe* by *made by John* in the examples above. There is no agreement on what the proper treatment of negated plural sentences is. Still, a popular view is the following (Krifka 1996; Löbner 2000; see Breheny 2005 *a contrario*)[^breheny-2005][^krifka-1996][^löbner-2000]. Sentences like *The pieces of furniture are in the safe* and *The pieces of furniture are not in the safe* make a presupposition of “indivisibility”: they can be used felicitously only if all the pieces of furniture are in safe or if none is.[^note-15] The same could be proposed concerning mass nouns. In any case, a unified treatment of negation would be welcome, given that negation seems to create the same basic problem with mass nouns and with plurals.
+    step1: |-
+      **评论 4：** 复数也有同样困难，只要把上例的 *gold* 换成 *pieces of furniture*、*in the safe* 换成 *made by John* 便可见。否定复数句究竟该怎么处理，尚无定论。不过一种流行看法如下（Krifka 1996; Löbner 2000; 反面意见见 Breheny 2005）[^breheny-2005][^krifka-1996][^löbner-2000]：*The pieces of furniture are in the safe* 与 *The pieces of furniture are not in the safe* 这类句子含有“不可分”预设——只有当所有家具件都在保险柜里或都不在时，才能恰当使用。[^note-15] 对物质名词也可提出同样说法。无论如何，既然否定在物质名词与复数上似乎造成同一基本问题，统一的否定处理总是受欢迎的。
+    step2: |-
+      **评论 4：** 复数也如此，把上例的 *gold* 换成 *pieces of furniture*、*in the safe* 换成 *made by John* 便见。否定复数句该怎么处理尚无定论，但一种流行看法是（Krifka 1996; Löbner 2000; 反面意见见 Breheny 2005）[^breheny-2005][^krifka-1996][^löbner-2000]：*The pieces of furniture are in the safe* 与 *The pieces of furniture are not in the safe* 带“不可分”预设——只有全部家具件都在保险柜里或都不在，句子才恰当。[^note-15] 物质名词亦可照此说。无论如何，否定在物质名词与复数上造成同一基本难题，统一的处理总受欢迎。
+  - id: 67
+    kind: body
+    source: |-
+      **Remark 5:** But the problem is even more general, since it also appears with subjects that are count and singular, like *table*. Is the table in the living-room, when one half of it is, while the other half is in the bedroom? The application of a predicate to an entity (or the application of the negated predicate) seems to be often sensitive to the part structure of the entity (Löbner 2000; Corblin 2008)[^corblin-2008][^löbner-2000]. More work on this is needed to understand how predication and negation work in connection to part-structure.
+    step1: |-
+      **评论 5：** 但问题还要更一般，因为它也出现在 *table* 这类可数单数主语上。桌子一半在客厅、一半在卧室时，桌子在客厅里吗？谓词对实体的施用（或否定谓词的施用），似乎常常对实体的部分结构敏感（Löbner 2000; Corblin 2008）[^corblin-2008][^löbner-2000]。述谓与否定如何与部分结构相关联，还需更多研究。
+    step2: |-
+      **评论 5：** 问题还要更一般：*table* 这类可数单数主语也有。桌子一半在客厅、一半在卧室，桌子算在客厅里吗？谓词（或否定谓词）对实体的施用，似乎常对实体的部分结构敏感（Löbner 2000; Corblin 2008）[^corblin-2008][^löbner-2000]。述谓、否定与部分结构如何挂钩，还需更多研究。
+  - id: 68
+    kind: body
+    source: |-
+      ## 6. Quantifiers
+    step1: |-
+      ## 6. 量词
+    step2: |-
+      ## 6 量词
+  - id: 69
+    kind: body
+    source: |-
+      What is the semantics of quantifiers combining with mass nouns: *some, all, no, only, little, much, most, two liters of…*? Higginbotham and May (1981) propose that the semantics of quantifiers combining with count nouns (*some, all, no, only, few, many, most, two*…) can be captured within the framework of generalized quantification. Inspired by Roeper (1983) and Lønning (1987), Higginbotham (1994) applies similar ideas to the case of mass nouns. His proposals are made in the Boolean approach criticized in the last section. So we transpose them directly into the mixed set-theoretic and mereological framework. This also has the advantage that the same framework is used for count quantifiers and mass quantifiers.
+    step1: |-
+      与物质名词结合的量词（*some, all, no, only, little, much, most, two liters of…*）语义如何？Higginbotham 与 May（1981）提出，与可数名词结合的量词（*some, all, no, only, few, many, most, two*…）的语义可在广义量化框架内刻画。受 Roeper（1983）与 Lønning（1987）启发，Higginbotham（1994）把类似想法用于物质名词。他的提议是在上节批评过的布尔进路中作出的，所以我们直接把它们转译进集合论与分体论混合框架。这样做还有个好处：可数量词与物质名词量词用同一框架。
+    step2: |-
+      与物质名词结合的量词（*some, all, no, only, little, much, most, two liters of…*）语义如何？Higginbotham 与 May（1981）提出，与可数名词结合的量词（*some, all, no, only, few, many, most, two*…）可在广义量化框架内刻画。受 Roeper（1983）、Lønning（1987）启发，Higginbotham（1994）把类似想法用于物质名词；他的提议建在上节批评过的布尔进路上，故这里直接转译进集合论与分体论混合框架——顺带的好处是，可数量词与物质名词量词共用一个框架。
+  - id: 70
+    kind: body
+    source: |-
+      We consider sentences of the form Q *M* P, where *Q* is a quantifier, *M* a mass noun and *P* a predicate. [*M*] is the denotation of the mass noun, i.e., the set that has for members everything that is M (a join semi-lattice). [*P*] is the set that has for members everything that P. Using set-theoretic intersection ∩, one may propose:
+    step1: |-
+      我们考虑形如 Q *M* P 的句子，其中 *Q* 是量词、*M* 是物质名词、*P* 是谓词。[*M*] 是物质名词的指称，即以一切为 M 者为成员的集合（并半格）。[*P*] 是以一切为 P 者为成员的集合。用集合论交 ∩，可以提出：
+    step2: |-
+      看形如 Q *M* P 的句子：*Q* 是量词，*M* 是物质名词，*P* 是谓词。[*M*] 是物质名词的指称，即以一切为 M 者为成员的集合（并半格）；[*P*] 以一切为 P 者为成员。用集合论交 ∩，可以提出：
+  - id: 71
+    kind: body
+    source: |-
+      *Some M P* is true iff [*M*] ∩ [*P*] ≠ ∅ *All M P* is true iff [*M*] ∩ [*P*] = [*M*][^note-16] *No M P* is true iff [*M*] ∩ [*P*] = ∅ *Only M P* is true iff [*M*] ∩ [*P*] = [*P*]
+    step1: |-
+      *Some M P* 为真，当且仅当 [*M*] ∩ [*P*] ≠ ∅；*All M P* 为真，当且仅当 [*M*] ∩ [*P*] = [*M*][^note-16]；*No M P* 为真，当且仅当 [*M*] ∩ [*P*] = ∅；*Only M P* 为真，当且仅当 [*M*] ∩ [*P*] = [*P*]
+    step2: |-
+      *Some M P* 为真，当且仅当 [*M*] ∩ [*P*] ≠ ∅；*All M P* 为真，当且仅当 [*M*] ∩ [*P*] = [*M*][^note-16]；*No M P* 为真，当且仅当 [*M*] ∩ [*P*] = ∅；*Only M P* 为真，当且仅当 [*M*] ∩ [*P*] = [*P*]
+  - id: 72
+    kind: body
+    source: |-
+      This applies to sentences like *Some / All / No / Only gold was stolen*.
+    step1: |-
+      这适用于 *Some / All / No / Only gold was stolen* 这类句子。
+    step2: |-
+      这适用于 *Some / All / No / Only gold was stolen* 这类句子。
+  - id: 73
+    kind: body
+    source: |-
+      With the other quantifiers (*little*, *much*, *most*, *two liters of*…), one seems to say something about the quantity of M (*little gold*) or intensity of M (*little wisdom*). Let us suppose that a mass noun *M* has an associated function, μ, that measures quantity or intensity. We focus here on mass nouns that apply to concrete entities, like *water* or *furniture* (see section 10 for “abstract” mass nouns). In that case, it is handy (though perhaps not necessary) to suppose that μ is monotonic:
+    step1: |-
+      对其他量词（*little*、*much*、*most*、*two liters of*…），人们似乎在说 *M* 的量（*little gold*）或 *M* 的强度（*little wisdom*）。让我们假定物质名词 *M* 配有函数 μ，用来度量量或强度。这里聚焦于适用于具体实体的物质名词，如 *water*、*furniture*（“抽象”物质名词见第 10 节）。此时方便（虽然也许并非必要）假定 μ 单调：
+    step2: |-
+      其余量词（*little*、*much*、*most*、*two liters of*…）似乎在说 *M* 的量（*little gold*）或强度（*little wisdom*）。假定物质名词 *M* 配有度量量或强度的函数 μ。这里聚焦适用于具体实体的物质名词，如 *water*、*furniture*（“抽象”物质名词见第 10 节）。此时便于（也许并非必要）假定 μ 单调：
+  - id: 74
+    kind: body
+    source: |-
+      *x* ≤ *y* → μ(*x*) ≤ μ(*y*)
+    step1: |-
+      *x* ≤ *y* → μ(*x*) ≤ μ(*y*)
+    step2: |-
+      *x* ≤ *y* → μ(*x*) ≤ μ(*y*)
+  - id: 75
+    kind: body
+    source: |-
+      and additive (if *x* and *y* don’t overlap, the measure of their sum is the sum of their measures):
+    step1: |-
+      且可加（若 *x* 与 *y* 不交叠，其和的度量等于各自度量之和）：
+    step2: |-
+      且可加（*x*、*y* 不交叠时，二者之和的度量等于各自度量之和）：
+  - id: 76
+    kind: body
+    source: |-
+      ¬∃*z* (*z* ≤ *x* & *z* ≤ *y*) → μ(*x*∨*y*) = μ(*x*) + μ(*y*)
+    step1: |-
+      ¬∃*z* (*z* ≤ *x* & *z* ≤ *y*) → μ(*x*∨*y*) = μ(*x*) + μ(*y*)
+    step2: |-
+      ¬∃*z* (*z* ≤ *x* & *z* ≤ *y*) → μ(*x*∨*y*) = μ(*x*) + μ(*y*)
+  - id: 77
+    kind: body
+    source: |-
+      (The measure function μ is associated to a certain mass noun *M*. But of course, some mass nouns may share the same measure function. And with a single mass noun *M*, different measure functions may perhaps be used, in different contexts, to measure the “quantity of M” that is relevant in the context.)
+    step1: |-
+      （度量函数 μ 与某个物质名词 *M* 相关联。当然，有些物质名词可能共用同一度量函数；而对单个物质名词 *M*，在不同语境中或许可用不同度量函数来度量语境中相关的“*M* 的量”。）
+    step2: |-
+      （μ 与某个物质名词 *M* 相关联。当然，几个物质名词可能共用同一度量函数；而对单个 *M*，不同语境或许用不同度量函数来量语境中相关的“*M* 的量”。）
+  - id: 78
+    kind: body
+    source: |-
+      One can also define the measure of a set *E*:
+    step1: |-
+      也可以定义一个集合 *E* 的度量：
+    step2: |-
+      还能定义集合 *E* 的度量：
+  - id: 79
+    kind: body
+    source: |-
+      μ(*E*) =_{def} μ(∨*E*),
+    step1: |-
+      μ(*E*) =_{def} μ(∨*E*)，
+    step2: |-
+      μ(*E*) =_{def} μ(∨*E*)，
+  - id: 80
+    kind: body
+    source: |-
+      where ∨*E* is the sum (or join) of the elements of *E*.
+    step1: |-
+      其中 ∨*E* 是 *E* 的元素之和（或并）。
+    step2: |-
+      其中 ∨*E* 是 *E* 各元素之和（并）。
+  - id: 81
+    kind: body
+    source: |-
+      With this in hand, the meanings of *little*, *much* and *most* can be specified as follows, the numerical values *p*, *q*, *r* and *s* being specified contextually when a sentence is uttered:
+    step1: |-
+      有了这些，*little*、*much* 与 *most* 的意义可规定如下，数值 *p*、*q*、*r*、*s* 在句子说出时按语境确定：
+    step2: |-
+      有了这些，*little*、*much*、*most* 的意义可规定如下；数值 *p*、*q*、*r*、*s* 于句子说出时按语境确定：
+  - id: 82
+    kind: body
+    source: |-
+      *Little*₁ *M P* is true iff μ([*M*] ∩ [*P*]) ≤ *p* *Little*₂ *M P* is true iff μ([*M*] ∩ [*P*]) ≤ *r**μ([*M*]) *Much*₁ *M P* is true iff μ([*M*] ∩ [*P*]) ≥ *q* *Much*₂ *M P* is true iff μ([*M*] ∩ [*P*]) ≥ *s**μ([*M*]) *Most M P* is true iff μ([*M*] ∩ [*P*]) ≥ μ([*M*]) / 2 *Two liters of M P* is true iff μ([*M*] ∩ [*P*]) = 2 with a function μ measuring in liters
+    step1: |-
+      *Little*₁ *M P* 为真，当且仅当 μ([*M*] ∩ [*P*]) ≤ *p*；*Little*₂ *M P* 为真，当且仅当 μ([*M*] ∩ [*P*]) ≤ *r**μ([*M*])；*Much*₁ *M P* 为真，当且仅当 μ([*M*] ∩ [*P*]) ≥ *q*；*Much*₂ *M P* 为真，当且仅当 μ([*M*] ∩ [*P*]) ≥ *s**μ([*M*])；*Most M P* 为真，当且仅当 μ([*M*] ∩ [*P*]) ≥ μ([*M*]) / 2；*Two liters of M P* 为真，当且仅当 μ([*M*] ∩ [*P*]) = 2，其中函数 μ 以升度量
+    step2: |-
+      *Little*₁ *M P* 为真，当且仅当 μ([*M*] ∩ [*P*]) ≤ *p*；*Little*₂ *M P* 为真，当且仅当 μ([*M*] ∩ [*P*]) ≤ *r**μ([*M*])；*Much*₁ *M P* 为真，当且仅当 μ([*M*] ∩ [*P*]) ≥ *q*；*Much*₂ *M P* 为真，当且仅当 μ([*M*] ∩ [*P*]) ≥ *s**μ([*M*])；*Most M P* 为真，当且仅当 μ([*M*] ∩ [*P*]) ≥ μ([*M*]) / 2；*Two liters of M P* 为真，当且仅当 μ([*M*] ∩ [*P*]) = 2，其中函数 μ 以升度量
+  - id: 83
+    kind: body
+    source: |-
+      Above, *little* and *much* are given two meanings, an “absolute” one and a “proportional” one. Thus, a sentence like *Much gold was stolen* may mean that:
+    step1: |-
+      上面对 *little* 与 *much* 各给了两个意义：一个“绝对”意义，一个“比例”意义。于是 *Much gold was stolen* 这类句子可以意味着：
+    step2: |-
+      上面给 *little* 与 *much* 各配了两个意义：一个“绝对”，一个“比例”。于是 *Much gold was stolen* 这类句子可意味着：
+  - id: 84
+    kind: body
+    source: |-
+      - The stolen gold was a large quantity of gold (absolute interpretation): μ([*M*] ∩ [*P*]) ≥ *q*, where *q* is specified contextually.
+      - The stolen gold was a great proportion of the gold (proportional interpretation):[^note-17] μ([*M*] ∩ [*P*]) ≥ *s**μ([*M*]), where *s* is specified contextually.
+    step1: |-
+      - 被偷的金是很大量的金（绝对解释）：μ([*M*] ∩ [*P*]) ≥ *q*，其中 *q* 按语境确定。
+      - 被偷的金占金的一大比例（比例解释）：[^note-17] μ([*M*] ∩ [*P*]) ≥ *s**μ([*M*])，其中 *s* 按语境确定。
+    step2: |-
+      - 被偷的金量很大（绝对解释）：μ([*M*] ∩ [*P*]) ≥ *q*，*q* 按语境确定。
+      - 被偷的金占金的一大比例（比例解释）：[^note-17] μ([*M*] ∩ [*P*]) ≥ *s**μ([*M*])，*s* 按语境确定。
+  - id: 85
+    kind: body
+    source: |-
+      **Remark 1:** What precedes allows one to characterize the meaning(s) of the various mass quantifiers. But of course, it leaves room for improvement concerning the specific meanings attributed. For instance, Solt (2009) argues in favor of a different condition for the quantifier *most*.
+    step1: |-
+      **评论 1：** 前文可用来刻画各种物质名词量词的意义。当然，所归属的具体意义仍有改进余地。例如 Solt（2009）为量词 *most* 主张另一种条件。
+    step2: |-
+      **评论 1：** 前文可刻画各种物质名词量词的意义，当然所归属的具体意义仍有改进余地——比如 Solt（2009）为 *most* 主张另一种条件。
+  - id: 86
+    kind: body
+    source: |-
+      **Remark 2:** In the case of the count quantifiers *few* and *many*, there is evidence that each quantifier is really ambiguous between two interpretations, the absolute one and the proportional one (Partee 1989)[^partee-1989]. It remains to be seen whether there is similar evidence in the case of *little* and *much*.
+    step1: |-
+      **评论 2：** 就可数量词 *few* 与 *many* 而言，有证据表明每个量词其实在两义间歧义：绝对义与比例义（Partee 1989）[^partee-1989]。*little* 与 *much* 是否有类似证据，尚待研究。
+    step2: |-
+      **评论 2：** 就 *few* 与 *many* 而言，有证据表明它们各在绝对义与比例义间歧义（Partee 1989）[^partee-1989]；*little* 与 *much* 是否也有类似证据，尚待研究。
+  - id: 87
+    kind: body
+    source: |-
+      **Remark 3:** Adding negation to this picture creates the same difficulties as we saw above in the case of definites. In certain cases, [*not P*] can be defined in terms of [*P*] and non-overlap. But in general, [*P*] and [*not P*] should be separately specified.
+    step1: |-
+      **评论 3：** 在此图景中加入否定，会产生与上文限定摹状词情形相同的困难。某些情形下，[*not P*] 可由 [*P*] 与不交叠定义；但一般地，[*P*] 与 [*not P*] 应分别规定。
+    step2: |-
+      **评论 3：** 把否定加进这幅图景，会带来与上文限定摹状词相同的困难。某些情形 [*not P*] 可由 [*P*] 与不交叠定义；一般地则须分别规定 [*P*] 与 [*not P*]。
+  - id: 88
+    kind: body
+    source: |-
+      **Remark 4:** Stemming from Krika’s (1989) work, several constraints have been put forward to characterize which measure functions can be used with quantified nouns, partitives, and nominal comparatives and equatives. The most often cited are those defined above, monotonicity and additivity (Schwarzschild 2006). But there are also other proposals (Champollion 2017, Wellwood 2020, Kuhn et al. 2022)[^champollion-2017][^kuhn-2022][^wellwood-2020].
+    step1: |-
+      **评论 4：** 源于 Krika（1989）的工作，人们提出若干约束，以刻画哪些度量函数可用于量化名词、部分格以及名词比较句与等同句。最常引用的是上述单调性与可加性（Schwarzschild 2006）。但也有其他提议（Champollion 2017, Wellwood 2020, Kuhn et al. 2022）[^champollion-2017][^kuhn-2022][^wellwood-2020]。
+    step2: |-
+      **评论 4：** 自 Krika（1989）起，人们提出若干约束，刻画哪些度量函数可用于量化名词、部分格、名词比较句与等同句。最常引的是上述单调性与可加性（Schwarzschild 2006），此外还有其他提议（Champollion 2017, Wellwood 2020, Kuhn et al. 2022）[^champollion-2017][^kuhn-2022][^wellwood-2020]。
+  - id: 89
+    kind: body
+    source: |-
+      ## 7. Logical relations
+    step1: |-
+      ## 7. 逻辑关系
+    step2: |-
+      ## 7 逻辑关系
+  - id: 90
+    kind: body
+    source: |-
+      In what precedes, we have looked at the semantics of various kinds of sentences where mass nouns appear. But we haven’t considered whether there are logical relations between such sentences, i.e., whether the semantics makes up for an adequate logic of mass nouns. This is the topic of this section. An appropriate semantics for mass nouns should guarantee things like what follows. (For a more detailed discussion, see Pelletier & Schubert 2003: 63–74.)[^pelletier-2003]
+    step1: |-
+      前文考察了物质名词出现于其中的各类句子的语义，但未考虑这类句子之间是否存在逻辑关系，即语义是否撑得起物质名词的适当逻辑。这是本节主题。物质名词的适当语义应保证如下这类推理成立。（更详细讨论见 Pelletier & Schubert 2003: 63–74。）[^pelletier-2003]
+    step2: |-
+      前文看了物质名词所入各类句子的语义，但没问这类句子之间有没有逻辑关系——语义是否撑得起物质名词的适当逻辑。这是本节主题。适当的语义应保证下述推理成立。（详细讨论见 Pelletier & Schubert 2003: 63–74。）[^pelletier-2003]
+  - id: 91
+    kind: body
+    source: |-
+      Existential generalization: there are many sentences whose truth entails the truth of an existential generalization. For instance:
+    step1: |-
+      存在概括：许多句子的真蕴涵某个存在概括的真。例如：
+    step2: |-
+      存在概括：许多句子为真时，某个存在概括随之真。例如：
+  - id: 92
+    kind: body
+    source: |-
+      *The wine is on the table. So some wine is on the table.*
+    step1: |-
+      *The wine is on the table. So some wine is on the table.*
+    step2: |-
+      *The wine is on the table. So some wine is on the table.*
+  - id: 93
+    kind: body
+    source: |-
+      Universal instantiation: as mentioned in section 2, this kind of reasoning also seems to be valid:
+    step1: |-
+      全称例示：如第 2 节所说，这类推理似乎也有效：
+    step2: |-
+      全称例示：如第 2 节所说，这类推理似乎也有效：
+  - id: 94
+    kind: body
+    source: |-
+      *This is gold. All gold is metal. Therefore, this is metal.*
+    step1: |-
+      *This is gold. All gold is metal. Therefore, this is metal.*
+    step2: |-
+      *This is gold. All gold is metal. Therefore, this is metal.*
+  - id: 95
+    kind: body
+    source: |-
+      Also, sentences like the following should come out as always true, given the meanings of the words involved: *All gold is gold.* And in any situation in which there is some gold in Zurich, this should also be true: *The gold in Zurich is gold.*
+    step1: |-
+      另外，考虑所用词语的意义，下述句子应恒真：*All gold is gold.* 而在苏黎世有金的任何情形中，这句也应为真：*The gold in Zurich is gold.*
+    step2: |-
+      另外，按相关词语的意义，下句应恒真：*All gold is gold.*；而苏黎世凡有金之处，这句也应为真：*The gold in Zurich is gold.*
+  - id: 96
+    kind: body
+    source: |-
+      Mass nouns can also be used in generic sentences, which express generalizations: *Gold is metal*. So one would need a semantics for generic sentences to check, for instance, if this reasoning is validated: *This is gold. Gold is metal. Therefore, this is metal.* However, the semantics of genericity is a vast topic, which falls out of the scope of this entry (see also [^note-7]).
+    step1: |-
+      物质名词还可用于表达概括的类属句：*Gold is metal*. 那么就需要类属句的语义，来检验诸如下述推理是否被认可：*This is gold. Gold is metal. Therefore, this is metal.* 但类属句语义是很大的题目，超出本文范围（另见 [^note-7]）。
+    step2: |-
+      物质名词也能进类属句，表达概括：*Gold is metal*. 于是需要类属句语义来检验诸如下述推理是否成立：*This is gold. Gold is metal. Therefore, this is metal.* 可类属语义题目甚大，超出本文范围（另见 [^note-7]）。
+  - id: 97
+    kind: body
+    source: |-
+      Finally, mass nouns can also be used as count nouns: *Gold is a metal*. So a full-blown semantics, covering both mass nouns and count nouns, should be able to validate syllogisms like the following, which involve mass and count uses of a mass noun: *This is gold. Gold is a metal. Therefore, this is a metal.*
+    step1: |-
+      最后，物质名词也能当可数名词用：*Gold is a metal*. 所以完备的语义——同时覆盖物质名词与可数名词——应能认可下述涉及物质名词的物质用法与可数用法的三段论：*This is gold. Gold is a metal. Therefore, this is a metal.*
+    step2: |-
+      最后，物质名词也能当可数名词用：*Gold is a metal*. 完备的语义（同时覆盖物质名词与可数名词）应能认可下述三段论，其中物质名词有物质用法与可数用法：*This is gold. Gold is a metal. Therefore, this is a metal.*
+  - id: 98
+    kind: body
+    source: |-
+      For illustration, let us see how the mixed set-theoretic and mereological framework developed in sections 4 and 6 handles some of these cases. According to section 4:
+    step1: |-
+      作为示例，看看第 4 节与第 6 节发展的集合论与分体论混合框架如何处理其中一些情形。按第 4 节：
+    step2: |-
+      作为示例，看第 4、6 节的混合框架怎么处理其中一些情形。按第 4 节：
+  - id: 99
+    kind: body
+    source: |-
+      *The wine is on the table* is true iff [*the wine*] ⊆ [*on the table*],
+    step1: |-
+      *The wine is on the table* 为真，当且仅当 [*the wine*] ⊆ [*on the table*]，
+    step2: |-
+      *The wine is on the table* 为真，当且仅当 [*the wine*] ⊆ [*on the table*]，
+  - id: 100
+    kind: body
+    source: |-
+      where [*the wine*] denotes the sum of the wine, and [*on the table*] denotes the set containing everything that is on the table.
+    step1: |-
+      其中 [*the wine*] 指称酒的和，[*on the table*] 指称包含一切在桌上者的集合。
+    step2: |-
+      其中 [*the wine*] 指称酒之和，[*on the table*] 指称包含一切在桌上者的集合。
+  - id: 101
+    kind: body
+    source: |-
+      *Some wine is on the table* is true iff [*wine*] ∩ [*on the table*] ≠ ∅,
+    step1: |-
+      *Some wine is on the table* 为真，当且仅当 [*wine*] ∩ [*on the table*] ≠ ∅，
+    step2: |-
+      *Some wine is on the table* 为真，当且仅当 [*wine*] ∩ [*on the table*] ≠ ∅，
+  - id: 102
+    kind: body
+    source: |-
+      where [*wine*] is the set containing everything that is wine (a join semi-lattice).
+    step1: |-
+      其中 [*wine*] 是包含一切为酒者的集合（并半格）。
+    step2: |-
+      其中 [*wine*] 是包含一切为酒者的集合（并半格）。
+  - id: 103
+    kind: body
+    source: |-
+      Since [*wine*] is the join semi-lattice containing everything that is wine, it contains in particular the sum of the wine. So, given how the semantics is set-up, the truth of *The wine is one the table* guarantees that of *Some wine is on the table*.
+    step1: |-
+      既然 [*wine*] 是包含一切为酒者的并半格，它特别包含酒的和。所以按这个语义安排，*The wine is one the table* 的真保证 *Some wine is on the table* 的真。
+    step2: |-
+      [*wine*] 是含一切为酒者的并半格，自然含酒之和。所以按此语义安排，*The wine is one the table* 真则 *Some wine is on the table* 真。
+  - id: 104
+    kind: body
+    source: |-
+      For a different case, according to sections 4 and 6:
+    step1: |-
+      另一个例子，按第 4 节与第 6 节：
+    step2: |-
+      换个例子，按第 4、6 节：
+  - id: 105
+    kind: body
+    source: |-
+      *This is gold* is true iff [*this*] ⊆ [*gold*] *All gold is metal* is true iff [*gold*] ∩ [*metal*] = [*gold*]
+    step1: |-
+      *This is gold* 为真，当且仅当 [*this*] ⊆ [*gold*]；*All gold is metal* 为真，当且仅当 [*gold*] ∩ [*metal*] = [*gold*]
+    step2: |-
+      *This is gold* 为真，当且仅当 [*this*] ⊆ [*gold*]；*All gold is metal* 为真，当且仅当 [*gold*] ∩ [*metal*] = [*gold*]
+  - id: 106
+    kind: body
+    source: |-
+      So the truth of *This is gold* and *All gold is metal* guarantees that [*this*] ⊆ [*metal*] and so that *This is metal* is true.
+    step1: |-
+      所以 *This is gold* 与 *All gold is metal* 的真保证 [*this*] ⊆ [*metal*]，从而 *This is metal* 为真。
+    step2: |-
+      于是 *This is gold*、*All gold is metal* 皆真则 [*this*] ⊆ [*metal*]，从而 *This is metal* 真。
+  - id: 107
+    kind: body
+    source: |-
+      ## 8. Collective and non-collective construals, coverings
+    step1: |-
+      ## 8. 集体与非集体解读、覆盖
+    step2: |-
+      ## 8 集体与非集体解读、覆盖
+  - id: 108
+    kind: body
+    source: |-
+      According to Gillon (1992), a sentence containing a mass noun may receive so-called “collective” and “distributive” construals, modulo the meaning of the particular lexical items composing the sentence, context of speech and knowledge of the world. (Sentences containing plurals also receive such construals. This is well documented by Gillon (1992, 1996) and Schwarzschild (1996). This may be confirmed by replacing mass nouns with plurals in the examples we give below.)
+    step1: |-
+      按 Gillon（1992），含物质名词的句子可以得到所谓“集体”与“分配”解读，视句子各词项的意义、言语语境与世界知识而定。（含复数的句子也得到此类解读，Gillon（1992, 1996）与 Schwarzschild（1996）有充分记录。把下文例子中的物质名词换成复数即可证实。）
+    step2: |-
+      按 Gillon（1992），含物质名词的句子可得所谓“集体”与“分配”解读，随句中词项意义、言语语境与世界知识而定。（复数句同样如此，Gillon 1992, 1996 与 Schwarzschild 1996 有充分记录；把下例中的物质名词换成复数即可证实。）
+  - id: 109
+    kind: body
+    source: |-
+      Take the following sentence: *This silverware costs a hundred euros.* The sentence may be true if the silverware costs, altogether, a hundred euros: this is the collective construal of the sentence. It may be true if each piece of silverware, by itself, costs a hundred euros: this is the distributive construal. It may also be true if the silverware demonstrated consists in two sets of silverware, each set of silverware costing, by itself, a hundred euros: this may be called an “intermediate” construal.
+    step1: |-
+      看下句：*This silverware costs a hundred euros.* 若整套银器合共一百欧元，句可真：这是句子的集体解读。若每件银器单独各值一百欧元，句可真：这是分配解读。若所指示的银器由两套银器组成、每套单独各值一百欧元，句亦可真：这可称“居间”解读。
+    step2: |-
+      看下句：*This silverware costs a hundred euros.* 整套银器合共一百欧元，句可真——集体解读；每件银器各值一百欧元，句亦可真——分配解读；所指示的银器由两套组成、每套各值一百欧元，句也可真——“居间”解读。
+  - id: 110
+    kind: body
+    source: |-
+      A partly similar range of construals is observed with a mass noun like *wine*: *This wine costs a hundred euros.* A collective construal would assert that the wine, altogether, costs a hundred euros. A non-collective construal may be obtained, for instance, when the wine demonstrated consists of two cases of wine. The speaker could then assert that each case of wine costs a hundred euros. What about a distributive construal of the sentence? In fact, this notion does not apply in this case, since a mass noun like *wine* has no linguistically specified minimal part.
+    step1: |-
+      用 *wine* 这类物质名词，可观察到部分类似的一列解读：*This wine costs a hundred euros.* 集体解读断言酒合共一百欧元。非集体解读可这样得到：所指示的酒由两箱酒组成，说话者便可断言每箱酒各值一百欧元。那分配解读呢？其实这里谈不上分配，因为 *wine* 这类物质名词没有语言学规定的极小部分。
+    step2: |-
+      换 *wine* 这类物质名词，解读的范围部分类似：*This wine costs a hundred euros.* 集体解读说酒合共一百欧元；非集体解读可以这样来——所指示的酒由两箱组成，说话者便断言每箱各值一百欧元。那分配解读呢？其实无从谈起：*wine* 这类物质名词没有语言学规定的极小部分。
+  - id: 111
+    kind: body
+    source: |-
+      Therefore, the distinction that concerns all mass nouns is not that between collective and distributive construals (nor that between collective, distributive and intermediate readings), but rather, that between collective and non-collective construals. What happens is that, in the specific case of mass nouns like *silverware*, one can identify, among the non-collective construals, one reading that may be called distributive and other readings that may be called intermediate.
+    step1: |-
+      因此，关乎所有物质名词的区分不是集体与分配解读之分（也不是集体、分配与居间之分），而是集体与非集体解读之分。实际发生的是：在 *silverware* 这类物质名词的特定情形，人们能在非集体解读中认出一个可称分配的读法，以及若干可称居间的读法。
+    step2: |-
+      所以，关乎一切物质名词的区分，不是集体与分配之分（也非集体、分配、居间三分），而是集体与非集体之分。只是对 *silverware* 这类词，人们能在非集体解读中认出一个可称分配的读法，外加若干可称居间的读法。
+  - id: 112
+    kind: body
+    source: |-
+      The specific meanings of the verbal expression and its arguments, combined with knowledge of the world and context of speech, may render a type of construal more, or less, plausible. In particular, non-collective, “intermediate” construals may be harder to get than the collective reading, or than the “distributive” reading if there is one. Such construals require specific information about the context in order to become available. They are often easier to get when the verb has several arguments, as in the following example due to Gillon (1992): *This fruit was wrapped in that paper.* A non-collective, “intermediate” construal with respect to its first argument (*this fruit*) would be one where there are several pieces of paper, each enclosing several pieces of fruit.
+    step1: |-
+      动词表达式及其各论元的具体意义，加上世界知识与言语语境，可使某类解读更或更不可信。特别是，非集体“居间”解读可能比集体读法、或比“分配”读法（若有的话）更难得。这类解读需要关于语境的特定信息才能获得。动词有几个论元时往往更容易，如 Gillon（1992）的例子：*This fruit was wrapped in that paper.* 对第一论元（*this fruit*）的非集体“居间”解读是：有几张纸，每张包着几块水果。
+    step2: |-
+      动词表达式及各论元的具体意义，加上世界知识与言语语境，会让某类解读更可信或更不可信。尤其非集体“居间”解读，可能比集体读法、或“分配”读法（若有的话）更难得：它需要特定语境信息才可获得。动词多论元时往往容易些，如 Gillon（1992）的例子 *This fruit was wrapped in that paper.*：对第一论元（*this fruit*）的非集体“居间”解读是几张纸、每张包几块水果。
+  - id: 113
+    kind: body
+    source: |-
+      In the examples we have given so far (as well as in those considered by Gillon), non-collective construals always correspond to partitions of the denotation of the mass noun phrase. However, some interpretations correspond to a more general notion, that of a “covering”: a set *X* is a covering of a set *Y* just in case the sum of the elements of *X* is identical with the sum of the elements of *Y*.[^note-18] Thus, with *This livestock carried that furniture*, it may be that some pieces of furniture were repeatedly part of the furniture carried by some of the livestock. The relation of carrying thus applies between elements of a covering of [*this livestock*] and elements of a covering of [*that furniture*]. So it seems that the semantics of mass nouns should leave room, not only for partitions, but also for all kinds of coverings.[^note-19]
+    step1: |-
+      在我们迄今的例子中（Gillon 所举亦然），非集体解读总对应物质名词短语指称的一个划分。然而有些解释对应更一般的概念，即“覆盖”：集合 *X* 是集合 *Y* 的覆盖，当且仅当 *X* 的元素之和等于 *Y* 的元素之和。[^note-18] 于是对 *This livestock carried that furniture*，可能有些家具件反复地是某几头牲口所驮家具的一部分。“驮”关系便施用于 [*this livestock*] 的覆盖元素与 [*that furniture*] 的覆盖元素之间。看来物质名词的语义应当为划分留下位置，也为各种覆盖留下位置。[^note-19]
+    step2: |-
+      我们迄今的例子（Gillon 所举亦然）中，非集体解读总对应物质名词短语指称的一个划分；可有些解释对应更一般的概念——“覆盖”：集合 *X* 是集合 *Y* 的覆盖，当且仅当 *X* 元素之和等于 *Y* 元素之和。[^note-18] 于是对 *This livestock carried that furniture*，可能有些家具件反复地是某几头牲口所驮家具的一部分；“驮”便施用于 [*this livestock*] 覆盖元素与 [*that furniture*] 覆盖元素之间。看来物质名词的语义该给划分留位置，也给各种覆盖留位置。[^note-19]
+  - id: 114
+    kind: body
+    source: |-
+      Let us now see how Gillon (1992, 1996, 2012) accounts for these data. We follow him quite closely, but introduce a few technical modifications to ensure that everything works.
+    step1: |-
+      现在看看 Gillon（1992, 1996, 2012）如何说明这些材料。我们大致追随他，但作几处技术修改以确保一切行得通。
+    step2: |-
+      现在看 Gillon（1992, 1996, 2012）怎么说明这些材料。这里大致追随他，只作几处技术修改以确保行得通。
+  - id: 115
+    kind: body
+    source: |-
+      The denotation of a mass noun *M* is the set [*M*] that has for elements everything that is M (a join semi-lattice). This is needed in order to specify correctly the truth-conditions of *This is M*:[^note-20]
+    step1: |-
+      物质名词 *M* 的指称是以一切为 M 者为元素的集合 [*M*]（并半格）。这是正确规定 *This is M* 真值条件所需要的：[^note-20]
+    step2: |-
+      物质名词 *M* 的指称是以一切为 M 者为元素的集合 [*M*]（并半格）。规定 *This is M* 的真值条件非此不可：[^note-20]
+  - id: 116
+    kind: body
+    source: |-
+      *This is M* is true iff [*this*] ⊆ [*M*],
+    step1: |-
+      *This is M* 为真，当且仅当 [*this*] ⊆ [*M*]，
+    step2: |-
+      *This is M* 为真，当且仅当 [*this*] ⊆ [*M*]，
+  - id: 117
+    kind: body
+    source: |-
+      where [*this*] is the set having for sole member the sum of what is demonstrated.
+    step1: |-
+      其中 [*this*] 是以被指示之物的和为唯一成员的集合。
+    step2: |-
+      其中 [*this*] 以被指示之物的和为唯一成员。
+  - id: 118
+    kind: body
+    source: |-
+      A set *Y* is an *M*-covering of a set *Z* just in case these two conditions are satisfied:
+    step1: |-
+      集合 *Y* 是集合 *Z* 的 *M*-覆盖，当且仅当下列两个条件满足：
+    step2: |-
+      集合 *Y* 是集合 *Z* 的 *M*-覆盖，当且仅当满足下列两个条件：
+  - id: 119
+    kind: body
+    source: |-
+      - *Y* is a subset of [*M*]: *Y* ⊆ [*M*].
+      - The sum of the elements of *Y* is identical to the sum of the elements of *Z*.
+    step1: |-
+      - *Y* 是 [*M*] 的子集：*Y* ⊆ [*M*]。
+      - *Y* 的元素之和等于 *Z* 的元素之和。
+    step2: |-
+      - *Y* 是 [*M*] 的子集：*Y* ⊆ [*M*]。
+      - *Y* 的元素之和等于 *Z* 的元素之和。
+  - id: 120
+    kind: body
+    source: |-
+      The interpretation of sentences like the following depends on the choice of an *M*-covering of the noun’s denotation.[^note-21] Relative to this choice of covering *C*:
+    step1: |-
+      下述句子的解释取决于对名词指称选定一个 *M*-覆盖。[^note-21] 相对于所选覆盖 *C*：
+    step2: |-
+      下述句子的解释，取决于给名词指称选定一个 *M*-覆盖。[^note-21] 相对于所选覆盖 *C*：
+  - id: 121
+    kind: body
+    source: |-
+      *The M P* is true iff *C* ⊆ [*P*] *Some M P* is true iff *C* ∩ [*P*] ≠ ∅ *All M P* is true iff *C* ∩ [*P*] = *C*
+    step1: |-
+      *The M P* 为真，当且仅当 *C* ⊆ [*P*]；*Some M P* 为真，当且仅当 *C* ∩ [*P*] ≠ ∅；*All M P* 为真，当且仅当 *C* ∩ [*P*] = *C*
+    step2: |-
+      *The M P* 为真，当且仅当 *C* ⊆ [*P*]；*Some M P* 为真，当且仅当 *C* ∩ [*P*] ≠ ∅；*All M P* 为真，当且仅当 *C* ∩ [*P*] = *C*
+  - id: 122
+    kind: body
+    source: |-
+      Gillon doesn’t extend his account to other quantified statements. However, this is easily done, following section 6. Thus, one may define the measure of a set *E*:
+    step1: |-
+      Gillon 未把其说明扩展到其他量化陈述。但按第 6 节，这很容易做。于是可以定义集合 *E* 的度量：
+    step2: |-
+      Gillon 没把这套说明推广到其他量化陈述，但按第 6 节很容易办到。于是可定义集合 *E* 的度量：
+  - id: 123
+    kind: body
+    source: |-
+      μ(*E*) =_{def} μ(∨*E*),
+    step1: |-
+      μ(*E*) =_{def} μ(∨*E*)，
+    step2: |-
+      μ(*E*) =_{def} μ(∨*E*)，
+  - id: 124
+    kind: body
+    source: |-
+      where ∨*E* is the sum of the elements of *E*.
+    step1: |-
+      其中 ∨*E* 是 *E* 的元素之和。
+    step2: |-
+      其中 ∨*E* 是 *E* 各元素之和。
+  - id: 125
+    kind: body
+    source: |-
+      And propose that:
+    step1: |-
+      并提出：
+    step2: |-
+      并提出：
+  - id: 126
+    kind: body
+    source: |-
+      *Most M P* is true iff μ(*C* ∩ [*P*]) ≥ μ(*C*) / 2
+    step1: |-
+      *Most M P* 为真，当且仅当 μ(*C* ∩ [*P*]) ≥ μ(*C*) / 2
+    step2: |-
+      *Most M P* 为真，当且仅当 μ(*C* ∩ [*P*]) ≥ μ(*C*) / 2
+  - id: 127
+    kind: body
+    source: |-
+      And similarly for the other quantifiers whose interpretation involve a measure.
+    step1: |-
+      其他解释涉及度量的量词同理。
+    step2: |-
+      其他涉及度量的量词同理。
+  - id: 128
+    kind: body
+    source: |-
+      **Remark:** For Gillon, each choice of covering determines a specific interpretation of the sentence. The sentence is thus many-ways ambiguous. Schwarzschild (1996) offers a detailed defense for a similar position in the case of plurals (see also Champollion 2017)[^champollion-2017]. But the view also has opponents, like Lasersohn (1995). Among the alternatives, one could propose that a sentence of the form *The M P* is true just in case there exists a covering *C* of [*M*] such that *C* ⊆ [*P*]. The sentence wouldn’t be ambiguous but indeterminate with respect to coverings. A problem is that this wouldn’t predict the distributive / collective ambiguity, which does seem real (see Gillon 1992 for evidence)[^gillon-1992].
+    step1: |-
+      **评论：** 对 Gillon 来说，每种覆盖选择决定句子的一个特定解释。于是句子是多义歧义的。Schwarzschild（1996）就复数情形为类似立场作了详细辩护（另见 Champellion 2017）[^champollion-2017]。但此看法也有反对者，如 Lasersohn（1995）。在各种替代方案中，可以主张：形如 *The M P* 的句子为真，当且仅当存在 [*M*] 的覆盖 *C* 使 *C* ⊆ [*P*]。这样句子并不歧义，只是在覆盖上不确定。问题在于这预测不出分配/集体歧义，而这种歧义似乎确实存在（证据见 Gillon 1992）[^gillon-1992]。
+    step2: |-
+      **评论：** 在 Gillon 看来，每种覆盖选择决定句子的一个特定解释，于是句子有多种歧义。Schwarzschild（1996）就复数情形为类似立场作了详细辩护（另见 Champellion 2017）[^champollion-2017]，但也有反对者，如 Lasersohn（1995）。替代方案之一：*The M P* 为真，当且仅当存在 [*M*] 的覆盖 *C* 使 *C* ⊆ [*P*]。这样句子不歧义，只在覆盖上不确定；毛病是预测不出分配/集体歧义，而这种歧义似乎真实存在（证据见 Gillon 1992）[^gillon-1992]。
+  - id: 129
+    kind: body
+    source: |-
+      ## 9. Non-singular terms
+    step1: |-
+      ## 9. 非单数词项
+    step2: |-
+      ## 9 非单数词项
+  - id: 130
+    kind: body
+    source: |-
+      There are many similarities between the semantics of mass nouns and plurals, cf. sections 5, 6, and 8. Also, at a very intuitive level, if there are eight pieces of silverware on the table, then the speaker seems to refer to eight things at once when he says: *The silverware that is on the table comes from Italy*. If this intuition is taken seriously, then a mass noun isn’t a singular term. Rather, it is a non-singular term that may refer to one or several things at once.
+    step1: |-
+      物质名词与复数的语义有许多相似之处，参看第 5、6、8 节。而且在极直观的层面：若桌上有八件银器，说话者说 *The silverware that is on the table comes from Italy* 时，似乎一次指称了八个东西。认真对待这个直觉，物质名词就不是单数词项，而是可一次指称一个或多个东西的非单数词项。
+    step2: |-
+      物质名词与复数的语义相似处甚多（参看第 5、6、8 节）；极直观地说，桌上有八件银器时，说话者说 *The silverware that is on the table comes from Italy*，似乎一次指了八样东西。认真对待这个直觉，物质名词便不是单数词项，而是能一次指一个或多个东西的非单数词项。
+  - id: 131
+    kind: body
+    source: |-
+      Nicolas (2008) puts forwards a semantics of mass nouns that does justice to this intuition (see Laycock (2006), Cocchiarella (2009) and McKay (2016) for related proposals). It is cashed out in “non-singular” or “plural” logic. In usual logic frameworks, like predicate logic, constants and variables are singular in the following sense. Under any interpretation, a constant is interpreted as one individual, and under any assignment, a variable is interpreted as one individual. By contrast, non-singular or plural logic possesses singular and non-singular constants and variables. Under any interpretation and variable assignment, a non-singular term (a constant or a variable) may be interpreted as one or more individuals in the domain of interpretation. In particular, a formula consisting of a predicate whose argument is a non-singular constant is true just in case the constant is interpreted as one or more individuals that jointly satisfy the predicate (cf. Linnebo 2017[^note-22])[^linnebo-2017].
+    step1: |-
+      Nicolas（2008）提出一种物质名词语义，恰当地对待这个直觉（相关方案见 Laycock (2006)、Cocchiarella (2009)、McKay (2016)）。它用“非单数”逻辑或“复数”逻辑兑现。在谓词逻辑这类通常逻辑框架中，常项与变元在下述意义上是单数的：任何解释下，常项被解释为一个个体；任何赋值下，变元被解释为一个个体。相反，非单数逻辑或复数逻辑既有单数常项与变元，也有非单数常项与变元。在任何解释与变元赋值下，非单数词项（常项或变元）可被解释为解释域中的一个或多个个体。特别是，谓词的论元为非单数常项时，该公式为真，当且仅当该常项被解释为一个或多个共同满足该谓词的个体（参看 Linnebo 2017[^note-22]）[^linnebo-2017]。
+    step2: |-
+      Nicolas（2008）提出一种对待此直觉的物质名词语义（相关方案见 Laycock 2006、Cocchiarella 2009、McKay 2016），用“非单数”逻辑或“复数”逻辑兑现。通常的谓词逻辑框架里，常项与变元都是单数的：任何解释下常项指一个个体，任何赋值下变元指一个个体。非单数逻辑则兼有单数与非单数常项、变元；任何解释与赋值下，非单数词项可解释为解释域中一个或多个个体。特别是，谓词论元为非单数常项的公式为真，当且仅当该常项被解释为一个或多个共同满足该谓词的个体（参看 Linnebo 2017[^note-22]）[^linnebo-2017]。
+  - id: 132
+    kind: body
+    source: |-
+      **Remark:** The claim is not that mass nouns are plurals. It is that mass nouns and plurals share a common property, namely the ability to refer non-singularly, to one or several things at once.
+    step1: |-
+      **评论：** 这并非主张物质名词就是复数，而是主张物质名词与复数共有一种性质：非单数地指称，一次指一个或多个东西。
+    step2: |-
+      **评论：** 这并非说物质名词就是复数，而是说二者共有一种性质：非单数地指称，一次指一个或多个东西。
+  - id: 133
+    kind: body
+    source: |-
+      The resulting semantics has the following features:
+    step1: |-
+      所得语义有如下特征：
+    step2: |-
+      所得语义有如下特征：
+  - id: 134
+    kind: body
+    source: |-
+      - Axioms guaranteeing the existence of mereological sums are replaced by non-singular or plural reference. (See also Nicolas 2009 on mereological constancy and Nicolas 2021 on mixtures and mass terms.)[^nicolas-2009][^nicolas-2021]
+      - Combined with a generalized notion of covering, this allows a treatment of identity statements different from that offered by the mixed set-theoretic and mereological approach (where what remains identical over time is a certain mereological sum).
+    step1: |-
+      - 保证分体论的和存在的公理，由非单数指称或复数指称取代。（关于分体论常性与混合物、物质词项，另见 Nicolas 2009 与 Nicolas 2021。）[^nicolas-2009][^nicolas-2021]
+      - 与广义覆盖概念结合，这给出一种与集合论兼分体论混合进路不同的同一性陈述处理（在后者中，跨时间保持同一的是某个分体论的和）。
+    step2: |-
+      - 保证分体论的和存在的公理，被非单数指称或复数指称取代。（分体论常性、混合物与物质词项，另见 Nicolas 2009、Nicolas 2021。）[^nicolas-2009][^nicolas-2021]
+      - 结合广义覆盖概念，可给出另一种同一性陈述处理，不同于混合进路（后者中跨时间保持同一的是某个分体论的和）。
+  - id: 135
+    kind: body
+    source: |-
+      Imagine that three solid bits of clay, the *as*, were on the desk on July 1ˢᵗ, and two solid bits of clay, the *bs*, were on the table on July 2ⁿᵈ. Now consider the statement:
+    step1: |-
+      设想 7 月 1 日桌上有三块实心黏土，即那几个 *a*；7 月 2 日桌上有两块实心黏土，即那几个 *b*。现在考虑陈述：
+    step2: |-
+      设想 7 月 1 日桌上有三块实心黏土（那几个 *a*），7 月 2 日桌上有两块（那几个 *b*）。看这个陈述：
+  - id: 136
+    kind: body
+    source: |-
+      *The clay that was on the desk on July 1ˢᵗ is identical with the clay that was on the table on July 2ⁿᵈ.*
+    step1: |-
+      *The clay that was on the desk on July 1ˢᵗ is identical with the clay that was on the table on July 2ⁿᵈ.*
+    step2: |-
+      *The clay that was on the desk on July 1ˢᵗ is identical with the clay that was on the table on July 2ⁿᵈ.*
+  - id: 137
+    kind: body
+    source: |-
+      According to Nicolas (2008), the sentence is true when a common non-singular covering can be chosen for the *as* and the *bs*.[^note-23] This means that there are some small bits of clay, each of which has retained its identity over time. On July 1ˢᵗ, these bits of clay were so arranged that they made up the *as* (i.e., they were a covering of the *as*). On July 2ⁿᵈ, they were arranged differently, in such a way that they made up the *bs*. This doesn’t require the existence of minimal parts of clay. It only requires the existence of a common division of the *as* and the *bs* into certain bits of clay. (See Steen 2012, section 2.4, for metaphysical considerations concerning the non-singularist or pluralist approach.)[^steen-2012]
+    step1: |-
+      按 Nicolas（2008），当能为 *a* 与 *b* 选出一个共同的非单数覆盖时，句子为真。[^note-23] 这意味着有一些小黏土块，各自跨时间保持同一。7 月 1 日，这些黏土块以某种方式排列，构成了那几个 *a*（即它们是 *a* 的覆盖）。7 月 2 日，它们以不同方式排列，构成了那几个 *b*。这并不要求黏土有极小部分，只要求存在把 *a* 与 *b* 共同划分为某些黏土块的划分。（关于非单数论或复数论进路的形而上学考量，见 Steen 2012 第 2.4 节。）[^steen-2012]
+    step2: |-
+      按 Nicolas（2008），能为 *a* 与 *b* 选出共同的非单数覆盖时，句子为真。[^note-23] 就是说，有些小黏土块各自跨时间保持同一：7 月 1 日它们以某种方式排列，构成那几个 *a*（是 *a* 的覆盖）；7 月 2 日以另一种方式排列，构成那几个 *b*。这不需要黏土有极小部分，只需要存在把 *a* 与 *b* 共同划分为某些黏土块的划分。（非单数论或复数论进路的形而上学考量，见 Steen 2012 第 2.4 节。）[^steen-2012]
+  - id: 138
+    kind: body
+    source: |-
+      ## 10. Abstract mass nouns
+    step1: |-
+      ## 10. 抽象物质名词
+    step2: |-
+      ## 10 抽象物质名词
+  - id: 139
+    kind: body
+    source: |-
+      “Abstract” nouns like *sadness* and *wisdom* and “concrete” nouns like *water* and *furniture* all belong to the morphosyntactic class of mass nouns. However, semantics for mass nouns have generally focused on concrete terms, i.e., terms that apply to concrete entities. This raises an important question: are abstract mass nouns a separate species of mass nouns, with their own semantic properties? Or can a general account be proposed, which would work both for concrete mass nouns and abstract ones?
+    step1: |-
+      *sadness*、*wisdom* 这类“抽象”名词与 *water*、*furniture* 这类“具体”名词，同属物质名词这一形态句法类。然而物质名词语义一般聚焦具体词项，即适用于具体实体的词项。这就提出一个重要问题：抽象物质名词是否是物质名词的独立种类，有其自身的语义性质？还是能提出一种既适用于具体物质名词又适用于抽象物质名词的一般说明？
+    step2: |-
+      *sadness*、*wisdom* 这类“抽象”名词与 *water*、*furniture* 这类“具体”名词同属物质名词这一形态句法类，可物质名词语义一般聚焦具体词项（适用于具体实体的词项）。由此有个要紧问题：抽象物质名词是物质名词的独立种类、自有语义性质吗？还是能提出一种兼顾具体与抽象的一般说明？
+  - id: 140
+    kind: body
+    source: |-
+      Nicolas (2004, 2010) shows that a general account of the semantics of mass nouns can indeed be proposed, provided one takes a more general stance than when focusing on concrete mass nouns alone (see also Grimm 2014)[^grimm-2014]. Several issues arise.
+    step1: |-
+      Nicolas（2004, 2010）表明，只要采取比只盯具体物质名词时更一般的立场，确实可以提出物质名词语义的一般说明（另见 Grimm 2014）[^grimm-2014]。这里浮现几个问题。
+    step2: |-
+      Nicolas（2004, 2010）表明，只要立场比单看具体物质名词时更一般，确实能提出一般说明（另见 Grimm 2014）[^grimm-2014]。其中浮现几个问题。
+  - id: 141
+    kind: body
+    source: |-
+      Reference: concrete common nouns can be used in definite descriptions, where they seem to refer to entities of various types. Do abstract mass nouns refer to something when they are used in definite descriptions? And if so, what do they refer to? Consider sentences like these: *Julie’s wisdom attracted Tom. Julie’s love for Tom lasted several years.* Nicolas proposes that their subjects, which are headed by abstract mass nouns, do refer (or make as if to refer) to instances of properties or relations, thereby introducing these as referents in the discourse (Moltmann 2007 proposes something similar)[^moltmann-2007]. He argues that this provides the most unified explanation of the various uses of abstract mass nouns.
+    step1: |-
+      指称：具体普通名词可用于限定摹状词，此时它们似乎指称各种类型的实体。抽象物质名词用于限定摹状词时指称什么东西吗？若指称，又指称什么？考虑这类句子：*Julie’s wisdom attracted Tom. Julie’s love for Tom lasted several years.* Nicolas 提议，这些以抽象物质名词为核心的主语确实指称（或装作指称）性质或关系的实例，从而把它们作为指称物引入话语（Moltmann 2007 提出类似看法）[^moltmann-2007]。他论证说，这为抽象物质名词的各种用法提供了最统一的说明。
+    step2: |-
+      指称：具体普通名词能用于限定摹状词，此时似指各类实体。抽象物质名词用于限定摹状词时指不指东西？若指，指什么？看这类句子：*Julie’s wisdom attracted Tom. Julie’s love for Tom lasted several years.* Nicolas 提议，这些以抽象物质名词为核心的主语确实指称（或装作指称）性质或关系的实例，从而把它们作为指称物引入话语（Moltmann 2007 有类似提议）[^moltmann-2007]；他论证说，这最能统一说明抽象物质名词的种种用法。
+  - id: 142
+    kind: body
+    source: |-
+      Nominalization: many abstract mass nouns are derived from an adjective or verb. What is the semantic effect of nominalization? Nicolas proposes that its intuitive effect, namely reification, a “something-from-nothing transformation”, is adequately captured by meaning postulates. Thus, a meaning postulate relates the meanings of the mass noun *love* and the verb *to love*. It ensures that an instance of love from John towards Mary exists if and only if John loves Mary.
+    step1: |-
+      名词化：许多抽象物质名词由形容词或动词派生。名词化的语义效果是什么？Nicolas 提议，其直观效果即物化，一种“无中生有”的转换，可由意义公设充分刻画。例如一条意义公设关联物质名词 *love* 与动词 *to love* 的意义：它确保约翰对玛丽的爱的实例存在，当且仅当约翰爱玛丽。
+    step2: |-
+      名词化：许多抽象物质名词由形容词或动词派生。名词化的语义效果为何？Nicolas 提议，其直观效果即物化，即“无中生有”的转换，可由意义公设充分刻画。比如一条意义公设关联 *love* 与动词 *to love*：约翰对玛丽的爱之实例存在，当且仅当约翰爱玛丽。
+  - id: 143
+    kind: body
+    source: |-
+      Distributive, collective, and intermediate construals: sentences with concrete mass nouns or plurals may receive so-called distributive, collective, and intermediate construals (cf. section 8 above). Is it also the case with abstract mass nouns? Nicolas (2010) suggests that this is so. Take the sentence *The strength of these men is impressive*, uttered in a context where two strong teams are competing. The sentence can assert that the strength of each team is impressive. This corresponds to a construal which is neither distributive (the strength of each man is impressive), nor collective (the strength of the men all together is impressive), but intermediate between distributive and collective. Nicolas shows that these construals can be accounted for by Gillon’s (1996) rule for the interpretation of complex noun phrases containing a prepositional phrase.
+    step1: |-
+      分配、集体与居间解读：含具体物质名词或复数的句子可得到所谓分配、集体与居间解读（参看上文第 8 节）。抽象物质名词是否也如此？Nicolas（2010）认为如此。取句子 *The strength of these men is impressive*，说于两支强队比赛的语境。句子可以断言每支队的力气令人印象深刻。这对应一种既非分配（每个人各自的力气令人印象深刻）、也非集体（这些人合起来的力气令人印象深刻），而是介于二者之间的解读。Nicolas 表明，这些解读可由 Gillon（1996）关于含介词短语的复杂名词短语的解释规则来说明。
+    step2: |-
+      分配、集体与居间解读：含具体物质名词或复数的句子可得分配、集体、居间解读（参看第 8 节）。抽象物质名词也如此吗？Nicolas（2010）认为是的。取 *The strength of these men is impressive*，说于两支强队比赛时：句子可断言每支队的力气都令人印象深刻。这既非分配（每个人各自的力气令人印象深刻），也非集体（所有人合起来的力气），而是介于二者之间。Nicolas 表明，Gillon（1996）关于含介词短语的复杂名词短语的解释规则足以说明这些解读。
+  - id: 144
+    kind: body
+    source: |-
+      Overall, then, it seems that a unified semantics can be specified for all mass nouns.
+    step1: |-
+      总之，看来可以为所有物质名词规定一套统一的语义。
+    step2: |-
+      总之，所有物质名词似乎都能有一套统一语义。
+  - id: 145
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: |-
+      [请联系作者提出建议。]
+    step2: |-
+      [请联系作者提出建议。]
+  - id: 146
+    kind: ack
+    source: |-
+      For comments, I would like to thank Alan Bale, Francis Corblin, Carmen Dobrovie-Sorin, Brendan Gillon, Giorgio Magri, Barry Schein, Mark Steen, Martin Stokhof, Lucia Tovena, and an anonymous reviewer for *Stanford Encyclopedia of Philosophy*. Thanks also to audiences in Istanbul, Montreal, Paris, and Storrs for their feedback. This work was supported by the grants ANR-10-LABX-0087 IEC and ANR-10-IDEX-0001-02 PSL*.
+    step1: |-
+      感谢 Alan Bale、Francis Corblin、Carmen Dobrovie-Sorin、Brendan Gillon、Giorgio Magri、Barry Schein、Mark Steen、Martin Stokhof、Lucia Tovena 以及《斯坦福哲学百科全书》一位匿名审稿人的评论。也感谢伊斯坦布尔、蒙特利尔、巴黎与斯托斯听众的反馈。本研究由基金 ANR-10-LABX-0087 IEC 与 ANR-10-IDEX-0001-02 PSL* 资助。
+    step2: |-
+      感谢 Alan Bale、Francis Corblin、Carmen Dobrovie-Sorin、Brendan Gillon、Giorgio Magri、Barry Schein、Mark Steen、Martin Stokhof、Lucia Tovena 以及《斯坦福哲学百科全书》一位匿名审稿人的评论。也感谢伊斯坦布尔、蒙特利尔、巴黎与斯托斯听众的反馈。本研究由基金 ANR-10-LABX-0087 IEC 与 ANR-10-IDEX-0001-02 PSL* 资助。
+  - id: 147
+    kind: note
+    source: |-
+      [^note-1]: Borer (2005) advocates an even more radical view, according to which there is no distinction between nouns and verbs.
+    step1: |-
+      [^note-1]: Borer（2005）主张更激进的看法：名词与动词之间没有区分。
+    step2: |-
+      [^note-1]: Borer（2005）主张更激进的看法：名词与动词之间没有区分。
+  - id: 148
+    kind: note
+    source: |-
+      [^note-2]: Under the dominant view, these two sentences are cases of conversion: *You should take a hot milk with some honey. You will find a lot of rabbit around here.* In the first sentence, the mass noun *milk* is converted into (used as) a count noun, while in the second sentence, the count noun *rabbit* is converted into a mass noun. Cf. Gillon (1992), Nicolas (2002: chapters 1 and 7). Conversion is a common grammatical possibility, whereby a member of a grammatical category is used in the morphosyntactic environment characteristic of another grammatical category. For instance, proper names like *Picasso* can be converted into (used as) common nouns: *The professor has two Picassos in his class.*
+    step1: |-
+      [^note-2]: 按主流看法，这两句是转换的案例：*You should take a hot milk with some honey. You will find a lot of rabbit around here.* 第一句中物质名词 *milk* 转换为（用作）可数名词，第二句中可数名词 *rabbit* 转换为物质名词。参看 Gillon（1992）、Nicolas（2002：第 1、7 章）。转换是常见的语法可能性：一个语法范畴的成员被用于另一语法范畴特有的形态句法环境。例如专名 *Picasso* 可转换为（用作）普通名词：*The professor has two Picassos in his class.*
+    step2: |-
+      [^note-2]: 按主流看法，这两句是转换的案例：*You should take a hot milk with some honey. You will find a lot of rabbit around here.* 第一句中物质名词 *milk* 转换为（用作）可数名词，第二句中可数名词 *rabbit* 转换为物质名词。参看 Gillon（1992）、Nicolas（2002：第 1、7 章）。转换是常见的语法可能性：一个语法范畴的成员被用于另一语法范畴特有的形态句法环境。例如专名 *Picasso* 可转换为（用作）普通名词：*The professor has two Picassos in his class.*
+  - id: 149
+    kind: note
+    source: |-
+      [^note-3]: Limited generalizations may still be drawn (Nicolas 2002; Grimm 2016; Sutton & Filip 2017)[^nicolas-2002][^sutton-2017]. For instance, in languages that draw a distinction between count nouns and mass nouns, nouns that name substances are generally mass.
+    step1: |-
+      [^note-3]: 局部的一般化仍可作出（Nicolas 2002; Grimm 2016; Sutton & Filip 2017）[^nicolas-2002][^sutton-2017]。例如，在区分可数名词与物质名词的语言中，命名实体的名词一般是物质的。
+    step2: |-
+      [^note-3]: 局部的一般化仍可作出（Nicolas 2002; Grimm 2016; Sutton & Filip 2017）[^nicolas-2002][^sutton-2017]。比如，在区分可数名词与物质名词的语言里，命名实体的名词一般是物质的。
+  - id: 150
+    kind: note
+    source: |-
+      [^note-4]: More precisely, in Mandarin, only a very restricted subset of common nouns admits the mark of the plural (the suffix -*men*). So under this view, only these nouns would function like count nouns, while the vast majority of Mandarin common nouns would function like mass nouns. (For a different view, see Li 2013.)
+    step1: |-
+      [^note-4]: 更准确地说，普通话中只有很受限制的一小部分普通名词容许复数标记（后缀 -*men*）。按此看法，只有这些名词的功能像可数名词，而绝大多数普通话普通名词的功能像物质名词。（另一种看法见 Li 2013。）
+    step2: |-
+      [^note-4]: 更准确地说，普通话里只有很受限的一小部分普通名词容许复数标记（后缀 -*men*）。按此看法，只有这些名词功能像可数名词，绝大多数普通话普通名词功能像物质名词。（另一种看法见 Li 2013。）
+  - id: 151
+    kind: note
+    source: |-
+      [^note-5]: To avoid assumptions that are not necessary and that are controversial seems a good idea in general. However, a semantic theory presumably cannot avoid making some metaphysical assumptions. Which are acceptable, then, and which are not? It’s not clear whether there is a principled and precise answer to this question.
+    step1: |-
+      [^note-5]: 一般而言，避免不必要且有争议的假定似乎是个好主意。然而语义理论大概无法避免作某些形而上学假定。那么哪些可接受，哪些不可？是否有原则性的、精确的答案，并不清楚。
+    step2: |-
+      [^note-5]: 避开不必要且有争议的假定，一般说是个好主意。可语义理论大概没法不作任何形而上学假定；哪些可接受、哪些不可，有没有原则而精确的答案，并不清楚。
+  - id: 152
+    kind: note
+    source: |-
+      [^note-6]: One way to answer the challenge would be to (try to) deny that the inference considered is formally valid.
+    step1: |-
+      [^note-6]: 回应这一挑战的一种办法是（试图）否认所考虑的推理在形式上有效。
+    step2: |-
+      [^note-6]: 回应这一挑战的一种办法，是（试图）否认所考虑的推理在形式上有效。
+  - id: 153
+    kind: note
+    source: |-
+      [^note-7]: An extensional approach doesn’t distinguish between coextensive predicates. For this reason, Montague uses an intensional framework. However, this worry about coextensivity is orthogonal to the main questions concerning mass nouns, so we ignore it in this entry. Similarly, we say nothing about bare mass nouns, which can receive either an existential or a generic interpretation. There are different views about their semantics:
+
+      - The generic interpretation is primary; the existential interpretation derives from it (Carlson 1977)[^carlson-1977].
+      - Bare mass nouns are directly interpreted as indefinites when they combine with stage- or individual-level predicates (Wilkinson 1991)[^wilkinson-1991].
+      - Generic interpretations correspond to a variety of phenomena that should be treated independently from the semantics of mass nouns proper (Bunt 1985; Gillon 1992; Koslicki 1999)[^bunt-1985][^gillon-1992][^koslicki-1999].
+    step1: |-
+      [^note-7]: 外延进路不区分共延谓词。因此 Montague 采用内涵框架。但对共延性的这种顾虑与物质名词的主要问题正交，本文忽略之。同样，我们对光物质名词不置一词：它们可获存在解释或类属解释。关于其语义有不同看法：
+
+      - 类属解释是基本的，存在解释由之派生（Carlson 1977）[^carlson-1977]。
+      - 光物质名词与阶段层或个体层谓词结合时，直接解释为不定词（Wilkinson 1991）[^wilkinson-1991]。
+      - 类属解释对应于应与物质名词语义本身独立处理的一类现象（Bunt 1985; Gillon 1992; Koslicki 1999）[^bunt-1985][^gillon-1992][^koslicki-1999]。
+    step2: |-
+      [^note-7]: 外延进路不分共延谓词，所以 Montague 采用内涵框架。可共延性顾虑与物质名词的主要问题正交，本文略去。光物质名词亦然：可获存在解释或类属解释，其语义众说纷纭：
+
+      - 类属解释为主，存在解释派生（Carlson 1977）[^carlson-1977]。
+      - 与阶段层或个体层谓词结合时，光物质名词直接解释为不定词（Wilkinson 1991）[^wilkinson-1991]。
+      - 类属解释对应一类应与物质名词语义本身分开处理的现象（Bunt 1985; Gillon 1992; Koslicki 1999）[^bunt-1985][^gillon-1992][^koslicki-1999]。
+  - id: 154
+    kind: note
+    source: |-
+      [^note-8]: Pelletier (1974) treats mass nouns as predicates and opposes what he calls the “set-theoretic interpretation” proposed by Cartwright (1965). But the problems he points out seem to concern only Cartwright’s specific proposals.
+    step1: |-
+      [^note-8]: Pelletier（1974）把物质名词当作谓词，反对 Cartwright（1965）提出的他所谓“集合论解释”。但他指出的问题似乎只关乎 Cartwright 的具体方案。
+    step2: |-
+      [^note-8]: Pelletier（1974）把物质名词当作谓词，反对 Cartwright（1965）的“集合论解释”。他指出的问题似乎只关乎 Cartwright 的具体方案。
+  - id: 155
+    kind: note
+    source: |-
+      [^note-9]: One way out of the problem would be to weigh the mereological sum of the instances of *M* (cf. section 4). But it’s not available to the purely set-theoretic approach.
+    step1: |-
+      [^note-9]: 出路之一是称量 *M* 各实例的分体论的和（参看第 4 节）。但纯集合论进路用不上。
+    step2: |-
+      [^note-9]: 出路之一是称量 *M* 各实例的分体论的和（参看第 4 节）；纯集合论进路没有这个选项。
+  - id: 156
+    kind: note
+    source: |-
+      [^note-10]: As explained in remark 1, section 2, the corresponding mereology need not be as strong as classical extensional mereology.
+    step1: |-
+      [^note-10]: 如第 2 节评论 1 所说，相应分体论不必如经典外延分体论那么强。
+    step2: |-
+      [^note-10]: 如第 2 节评论 1 所说，相应分体论不必如经典外延分体论那么强。
+  - id: 157
+    kind: note
+    source: |-
+      [^note-11]: See also Link (1983) and Champollion (2017); and La Palme-Reyes et al. (1994) in a category theoretic setting.
+    step1: |-
+      [^note-11]: 另见 Link（1983）与 Champollion（2017）；以及范畴论语境中的 La Palme-Reyes et al.（1994）。
+    step2: |-
+      [^note-11]: 另见 Link（1983）与 Champollion（2017）；范畴论语境下的 La Palme-Reyes et al.（1994）。
+  - id: 158
+    kind: note
+    source: |-
+      [^note-12]: Their approach is nearly equivalent to the purely mereological approach discussed in section 2. As we shall see, what is new is that they propose an interpretation of negation in terms of the notion of Boolean complement. A similar solution can be adopted within the mixed set-theoretic and mereological framework. Likewise, formulas mentioning the bottom element (0) of the Boolean algebra can be reformulated in terms of non-overlap. See remark 2 (section 5).
+    step1: |-
+      [^note-12]: 他们的进路与第 2 节讨论的纯分体论进路几乎等价。如我们将看到的，新东西在于他们提出用布尔补概念解释否定。类似解法也可在混合框架内采用。同样，提及布尔代数底元（0）的公式可按不交叠改写。见第 5 节评论 2。
+    step2: |-
+      [^note-12]: 他们的进路与第 2 节的纯分体论进路几乎等价；新东西在于用布尔补概念解释否定。类似解法也能放进混合框架；提及布尔代数底元（0）的公式也可按不交叠改写。见第 5 节评论 2。
+  - id: 159
+    kind: note
+    source: |-
+      [^note-13]: To simplify computations, we treat *is in the safe* as an unanalyzed predicate, similar to *red* for instance.
+    step1: |-
+      [^note-13]: 为简化计算，我们把 *is in the safe* 当作未分析的谓词，类似 *red* 这类。
+    step2: |-
+      [^note-13]: 为简化计算，把 *is in the safe* 当作未分析的谓词，类似 *red*。
+  - id: 160
+    kind: note
+    source: |-
+      [^note-14]: The null hypothesis, which we adopt, is that all mass nouns should have the same semantics. *A contrario,* see for instance Bale & Barner (2009) and Schwarzschild (2011).
+    step1: |-
+      [^note-14]: 我们采用的零假说是：所有物质名词应当有同一语义。反面意见例如见 Bale & Barner（2009）与 Schwarzschild（2011）。
+    step2: |-
+      [^note-14]: 我们采用的零假说是：所有物质名词有同一语义。反面意见如 Bale & Barner（2009）、Schwarzschild（2011）。
+  - id: 161
+    kind: note
+    source: |-
+      [^note-15]: This is also called “the presupposition of homogeneity”. But the sense of homogeneity at play is different from the one occurring in the hypothesis that mass nouns are homogeneous (i.e., refer distributively and cumulatively).
+    step1: |-
+      [^note-15]: 这也叫“齐性预设”。但此处涉及的齐性，与“物质名词齐性（即既分配又累积地指称）”假说中的齐性不同。
+    step2: |-
+      [^note-15]: 这也叫“齐性预设”，但此处齐性与“物质名词齐性（既分配又累积指称）”假说中的齐性不同。
+  - id: 162
+    kind: note
+    source: |-
+      [^note-16]: Under the Boolean approach, the truth-conditions of this sentence can be specified as follows:
+
+      > *Some M P* is true iff [*M*] ∧ [*P*] ≠ 0, where ∧ is Boolean intersection, 0 is the bottom element, [*M*] is the join of everything that is M, and [*P*] is the join of everything that P.
+    step1: |-
+      [^note-16]: 在布尔进路下，此句的真值条件可规定如下：
+
+      > *Some M P* 为真，当且仅当 [*M*] ∧ [*P*] ≠ 0，其中 ∧ 是布尔交，0 是底元，[*M*] 是一切为 M 者的并，[*P*] 是一切为 P 者的并。
+    step2: |-
+      [^note-16]: 布尔进路下此句的真值条件可规定如下：
+
+      > *Some M P* 为真，当且仅当 [*M*] ∧ [*P*] ≠ 0，其中 ∧ 是布尔交，0 是底元，[*M*] 是一切为 M 者的并，[*P*] 是一切为 P 者的并。
+  - id: 163
+    kind: note
+    source: |-
+      [^note-17]: I.e., *Much gold was stolen* is interpreted as meaning the same as *Much of the gold was stolen*.
+    step1: |-
+      [^note-17]: 即 *Much gold was stolen* 被解释为与 *Much of the gold was stolen* 同义。
+    step2: |-
+      [^note-17]: 即 *Much gold was stolen* 被解释为与 *Much of the gold was stolen* 同义。
+  - id: 164
+    kind: note
+    source: |-
+      [^note-18]: This notion of covering is based on the notion of sum and so it differs from the set-theoretic notion of cover. It can be seen as a generalization of the latter.
+    step1: |-
+      [^note-18]: 这个覆盖概念基于和概念，故不同于集合论中的覆盖概念；可视为后者的推广。
+    step2: |-
+      [^note-18]: 这个覆盖概念基于和概念，故不同于集合论的覆盖概念，可视为其推广。
+  - id: 165
+    kind: note
+    source: |-
+      [^note-19]: Gillon uses a more specific notion, that of “aggregation”. An aggregation is a covering of which no element is part of another. Nothing crucial hinges on this choice.
+    step1: |-
+      [^note-19]: Gillon 用更特定的概念，即“聚合”。聚合是任何元素都不为其他元素部分的覆盖。这个选择无关宏旨。
+    step2: |-
+      [^note-19]: Gillon 用更特定的“聚合”概念：聚合是任何元素都不为其他元素部分的覆盖。这个选择无关宏旨。
+  - id: 166
+    kind: note
+    source: |-
+      [^note-20]: For Gillon, the denotation of a mass noun *M* is the set having for sole member the sum of everything that is M. However, this makes it hard to specify adequate truth-conditions for *This is M*.
+    step1: |-
+      [^note-20]: 对 Gillon 来说，物质名词 *M* 的指称是以一切为 M 者之和为唯一成员的集合。然而这使 *This is M* 的适当真值条件难以规定。
+    step2: |-
+      [^note-20]: 在 Gillon 看来，物质名词 *M* 的指称是以一切为 M 者之和为唯一成员的集合；可这样 *This is M* 的适当真值条件反而难规定。
+  - id: 167
+    kind: note
+    source: |-
+      [^note-21]: By contrast, the interpretation of a sentence containing the demonstrative noun phrase *This M* depends on the choice of an *M*-covering of the noun phrase’s denotation. And [*This M*] is the set having for sole member the sum of the M demonstrated in the circumstance. Relative to this choice of covering *C*: *This M P* is true iff *C* ⊆ [*P*].
+    step1: |-
+      [^note-21]: 相比之下，含指示名词短语 *This M* 的句子的解释，取决于为该名词短语指称选定一个 *M*-覆盖；而 [*This M*] 是以该情形中被指示之 M 的和为唯一成员的集合。相对于所选覆盖 *C*：*This M P* 为真，当且仅当 *C* ⊆ [*P*]。
+    step2: |-
+      [^note-21]: 相比之下，含指示名词短语 *This M* 的句子，其解释取决于为该短语指称选定一个 *M*-覆盖；[*This M*] 以该情形中被指示之 M 的和为唯一成员。相对于所选覆盖 *C*：*This M P* 为真，当且仅当 *C* ⊆ [*P*]。
+  - id: 168
+    kind: note
+    source: |-
+      [^note-22]: Although plural logic and second-order logic share certain features, the two should be distinguished (see Linnebo 2017, section 2, for a detailed discussion)[^linnebo-2017].
+    step1: |-
+      [^note-22]: 复数逻辑与二阶逻辑虽有共同特征，二者仍应区分（详细讨论见 Linnebo 2017 第 2 节）[^linnebo-2017]。
+    step2: |-
+      [^note-22]: 复数逻辑与二阶逻辑有共同特征，但应区分（详论见 Linnebo 2017 第 2 节）[^linnebo-2017]。
+  - id: 169
+    kind: note
+    source: |-
+      [^note-23]: Following Gillon (1992), Nicolas (2008) takes a sentence containing a mass noun to be ambiguous with respect to coverings. As mentioned in the remark at the end of section 8, an alternative view is that the sentence is indeterminate with respect to coverings. It is true if there exists a suitable covering, false otherwise.
+    step1: |-
+      [^note-23]: 沿 Gillon（1992），Nicolas（2008）认为含物质名词的句子在覆盖上歧义。如第 8 节末评论所说，另一看法是句子在覆盖上不确定：存在合适覆盖则真，否则假。
+    step2: |-
+      [^note-23]: 沿 Gillon（1992），Nicolas（2008）认为含物质名词的句子在覆盖上歧义。如第 8 节末评论所说，另一看法是句子在覆盖上不确定：存在合适覆盖则真，否则假。
