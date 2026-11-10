@@ -2,7 +2,7 @@
   "slug": "logic-massexpress",
   "kind": "retranslate",
   "zh_doc": "l/logic-massexpress.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "L-main-20261109c",
       "at": "2026-11-10T01:48:26Z",
       "evidence": "对照 yuanwen/l/logic-massexpress.md 逐段回读 169 段：1–10 节与源标题一一对应；23 条 note 与 73 条文献脚注逐键齐备；致谢段置于相关词条之后与源同序；无 TBD/英文残句；lq 169 段守恒 OK"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-10T03:07:37Z",
+      "evidence": "冷置后 r1（间隔：logic-substructural 全条新译）：结构核对——1–10 节标题与源一致，23 条 note 与文内引用逐键对位，致谢位置与源同序；四门禁复跑 style 0 / prose 0 / math missing 0 unbalanced 0"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-10T03:07:38Z",
+      "evidence": "r2 复校：术语一致性（物质名词/可数名词/累积指称/分配指称/并半格/覆盖/聚合/非单数词项/度量函数）与登记册一致；check_terms 硬错误 0；check_academic strict 0 硬错误；check_summary H1 0；champollion-2017 脚注键已按源文拼写校正"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-10T03:07:39Z",
+      "evidence": "r3 终校：全文回读 169 段，无 TBD/英文残句；源文缺陷（Krika 拼写、段落式子句）按源照录并在术语注记中说明；相关词条段与源 Related Entries 对位；lq 169 段守恒 OK"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-10T03:07:39Z",
+      "evidence": "done 收口：四门禁 + 学术规范 + 术语/摘要检查全绿；r1 结构、r2 术语、r3 终校均留凭据"
     }
   ],
   "blockers": [],
