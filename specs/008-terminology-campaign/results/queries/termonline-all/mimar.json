@@ -1,0 +1,33 @@
+{
+ "key": "mimar",
+ "term": "mimar",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T01:47:38+00:00",
+ "status": "ok",
+ "note": "variant=mimar; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "蒂马尔制",
+   "en": "Timar System",
+   "code": "04.0368",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_西亚"
+  },
+  {
+   "cn": "鼠墩",
+   "en": "Mima mound",
+   "code": "07.132",
+   "standard": "土壤学名词",
+   "subject": "土壤学_土壤生态与土壤肥力"
+  },
+  {
+   "cn": "长谷川−三间方程",
+   "en": "Hasegawa-Mima equation",
+   "code": "3.032",
+   "standard": "核科学技术名词",
+   "subject": "核科学技术_核聚变_核聚变基础"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

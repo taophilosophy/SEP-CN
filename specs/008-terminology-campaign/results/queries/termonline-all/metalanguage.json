@@ -1,0 +1,61 @@
+{
+ "key": "metalanguage",
+ "term": "metalanguage",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T01:41:38+00:00",
+ "status": "ok",
+ "note": "variant=metalanguage; 审定公布名词库=4; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "元语言",
+   "en": "metalanguage",
+   "code": "6.04",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播总论_传播研究基础"
+  },
+  {
+   "cn": "元语言",
+   "en": "metalanguage",
+   "code": "05.115",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_词与词汇"
+  },
+  {
+   "cn": "元语言",
+   "en": "metalanguage",
+   "code": "02.0141",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_证明论"
+  },
+  {
+   "cn": "元语言",
+   "en": "meta language",
+   "code": "05.0070",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_语言与编译"
+  },
+  {
+   "cn": "元语言",
+   "en": "metalanguage",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "集合语言",
+   "en": "set language",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "网语言",
+   "en": "net language",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
