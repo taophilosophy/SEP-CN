@@ -2,7 +2,7 @@
   "slug": "adorno",
   "kind": "retranslate",
   "zh_doc": "a/adorno.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "A-main-20261111",
       "at": "2026-11-10T21:18:03Z",
       "evidence": "复审脱稿通读全篇（纯中文读者视角）+ 双被句机检扫查 0 命中 + check_prose 78 条与 s2 豁免档全等（零新增）：实修 3 处语流与指代（马克思的时代以来→自马克思的时代以来；他视为其哲学家终身任务叠其删除；理解……的角色，这是一条路径→这是理解……的一条路径，修正 This 回指断裂——回指上文形而上学冲动句而非理解行为本身）；逐句回核源文于 r1 已完成（§1–§7 全节对照+逻辑核对：量词、否定、代词回指、引块内逻辑），本轮复核未发现忠实性问题；check_style 0 issue、check_math 0、academic --strict 0 硬错误"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "A-main-20261111",
+      "at": "2026-11-10T21:49:28Z",
+      "evidence": "终审验收：定点六检全绿（style 0 / math 缺失0未闭合0 / academic --strict 0 硬错误 / markdownlint 0 / summary H1 mismatch 0 / terms 硬错误 0）；check_all 九项 7/9——2 项失败均属他批在途（yi-zhe-shuo-ming.md:4533 直角引号系并行会话全库清扫未提交改动、tasks/n/natphil-ren.json s2 缺语体结论系 N 批存量），A 批范围零涉；结构节序与源文逐节对位（7 正文节+References 现制+学术工具四行+OIR+相关词条 20 项+致谢）；复核独立性：初译 actor A5-main-20261110（2026-11-09/10）、s2 actor A-main-20261110b（2026-11-10），本会话 A-main-20261111（2026-11-11）为第三会话独立执行 r1–r3，异会话+间隔逾 24h，冷置条款满足"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "A-main-20261111",
+      "at": "2026-11-10T21:49:28Z",
+      "evidence": "收口：六检 0 告警；r1 实修 20 处、r2 实修 3 处全部复检通过；脚注 267 条定义与镜像逐字符一致、引用键计数全等、相关词条 20 项对位；源文 2024-11-04 版（pubinfo 首次 2003-05-05，version_pin sha256 dd24b349…408）；账本 tasks/a/adorno.ledger.yaml 84 段双版在库"
     }
   ],
   "blockers": [],

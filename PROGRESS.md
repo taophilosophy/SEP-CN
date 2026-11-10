@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-10 20:02（UTC）
+生成时间：2026-11-10 21:51（UTC）
 
 ## 总览
 
@@ -12,9 +12,9 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1177|
+|已建任务|1178|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|302|
+|已完成（done）|304|
 |在途（drafted 起、done 前）|212|
 |阻塞|0|
 
@@ -22,18 +22,19 @@
 
 |状态|数量|
 |---|---|
-|pending|663|
+|pending|662|
 |cleared|150|
 |drafted|2|
 |s3_checked|58|
-|r1_reviewed|2|
-|done|302|
+|r1_reviewed|1|
+|r2_reviewed|1|
+|done|304|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
-|A|160|160|160|55|
+|A|160|160|160|56|
 |B|62|62|62|16|
 |C|172|172|172|22|
 |D|92|92|92|14|
@@ -46,7 +47,7 @@
 |K|36|36|36|21|
 |L|144|144|30|30|
 |M|139|139|14|7|
-|N|50|50|8|6|
+|N|50|50|8|7|
 |O|21|21|11|8|
 |P|165|165|12|8|
 |Q|34|34|34|2|
@@ -57,14 +58,13 @@
 |V|15|15|0|0|
 |W|38|38|7|3|
 |X|3|3|3|2|
-|Y|2|2|1|0|
+|Y|2|2|2|0|
 |Z|6|6|6|2|
 
 ## 在途任务
 
 |slug|类型|状态|最后执行|
 |---|---|---|---|
-|adorno|retranslate|s3_checked|A-main-20261111 2026-11-10|
 |aesthetic-testimony|retranslate|cleared|task_ops 2026-10-31|
 |aesthetics-18th-german|retranslate|cleared|task_ops 2026-11-10|
 |aesthetics-19th-romantic|retranslate|cleared|task_ops 2026-10-31|
@@ -130,7 +130,7 @@
 |byzantine-philosophy|retranslate|cleared|task_ops 2026-11-01|
 |cancer|retranslate|s3_checked|C-main-20261109b 2026-11-09|
 |cassirer|retranslate|s3_checked|主代理 2026-11-01|
-|certainty|retranslate|r1_reviewed|主代理 2026-11-10|
+|certainty|retranslate|r2_reviewed|CR-main-20261111 2026-11-10|
 |change|retranslate|s3_checked|主代理 2026-11-01|
 |chinese-phil-science|retranslate|s3_checked|C-main-20261107 2026-11-07|
 |cloning|retranslate|s3_checked|CD-main-20261106 2026-11-06|
@@ -160,7 +160,7 @@
 |epistemology-latin-america|retranslate|cleared|task_ops 2026-11-10|
 |experimental-aesthetics|retranslate|s3_checked|EFG-main-20261108 2026-11-08|
 |faith|retranslate|s3_checked|F-main-20261111 2026-11-10|
-|falaquera|retranslate|cleared|task_ops 2026-11-10|
+|falaquera|retranslate|s3_checked|F-main-20261111 2026-11-10|
 |frame-problem|retranslate|s3_checked|F-main-20261110 2026-11-09|
 |gadamer|retranslate|cleared|task_ops 2026-11-10|
 |gadamer-aesthetics|retranslate|cleared|task_ops 2026-11-01|
@@ -258,8 +258,7 @@
 |montessori-maria|retranslate|s3_checked|M-main-20261111 2026-11-10|
 |moral-learning|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |music|retranslate|s3_checked|M-main-20261109b 2026-11-09|
-|natphil-ren|retranslate|s3_checked|ZCode-N-20261110 2026-11-10|
-|nietzsche-aesthetics|retranslate|cleared|task_ops 2026-11-10|
+|nietzsche-aesthetics|retranslate|s3_checked|ZCode-N-20261110 2026-11-10|
 |omnipresence|retranslate|s3_checked|O3-main-20261110 2026-11-10|
 |omniscience|retranslate|s3_checked|O3-main-20261110 2026-11-10|
 |ontology-is|retranslate|s3_checked|O3-main-20261110 2026-11-10|
@@ -272,6 +271,8 @@
 |tarski-truth|retranslate|cleared|task_ops 2026-11-08|
 |weyl|retranslate|cleared|task_ops 2026-11-08|
 |xunzi|retranslate|cleared|task_ops 2026-11-09|
+|yogacara|retranslate|cleared|task_ops 2026-11-10|
+|yorck|retranslate|cleared|task_ops 2026-11-10|
 |zermelo-set-theory|retranslate|cleared|task_ops 2026-11-08|
 |zhu-xi|retranslate|cleared|task_ops 2026-11-08|
 |zhuangzi|retranslate|cleared|task_ops 2026-11-08|
