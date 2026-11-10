@@ -2,7 +2,7 @@
   "slug": "edwards",
   "kind": "retranslate",
   "zh_doc": "e/edwards.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-10T04:19:28Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "E-main-20261110b",
+      "at": "2026-11-10T16:10:06Z",
+      "evidence": "账本 72 段（body 71 + oir 1）双版全填；lq check 守恒通过 HARD 0（SOFT 57 条均属书名号/中文粗体体例转换与机械段留痕）；compose 写回 24,138 字符；底稿仅用 yuanwen/e/edwards.md（版本钉 pubinfo 2020-07-15 / Summer 2024 / sha256 88d2c628…）；模型深译（主会话直译，无子代理）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "E-main-20261110b",
+      "at": "2026-11-10T16:18:21Z",
+      "evidence": "逐节对照核销（准确性与事实）：72 段年份/数字多重集对账仅 1 处差异（1758 年 3 月 22 日的月份数字，中文写法所增，非漏译）；文献引用组（Edwards 1957–, 第 N 卷, 页）全部随文保留；人名按 ren-ming-biao 核销（马勒伯朗士/贝克莱/哈奇森/沙夫茨伯里/洛克/牛顿/霍尔布鲁克/埃尔伍德），H1 作者倒装正装化并联动 SUMMARY；相关词条 9 项全部映射（无 NOTE 未匹配）；补充材料无（源包仅 index.html）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "E-main-20261110b",
+      "at": "2026-11-10T16:18:21Z",
+      "evidence": "check_prose 36→9 条：实修 27 处（叙述散文 de-chain 重写 15、长句拆分 8、弱动词 3、as-one 1）；豁免 9 条逐条留痕，均为引文内部（Edwards 原话转译的属格链与长句：段 8/16/37/61/77/125/141）与术语引号内属格链（段 9「哲学的/俗常的」），依 ADR-0020 分类豁免；中文强调一律粗体、书名号替换源文斜体"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "E-main-20261110b",
+      "at": "2026-11-10T16:18:22Z",
+      "evidence": "check_style --docs e/edwards.md --strict 0 issue；check_math e edwards 0 公式缺失/0 不配对；check_academic --strict 0 硬错误（现制 References：保留源节标题 Primary/Secondary Sources + 文末 defs 53 条照录）；check_summary H1 mismatch 0；check_all 9 项全绿"
     }
   ],
   "blockers": [],
