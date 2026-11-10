@@ -31,6 +31,9 @@ jobs:
       - name: 术语一致性门禁（tools/check_terms.py）
         run: python tools/check_terms.py
 
+      - name: 直角引号总检（tools/check_quotes.py，rules/02 第 11 条）
+        run: python tools/check_quotes.py
+
       - name: 哲学学术规范门禁（tools/check_academic.py，rules/07）
         run: python tools/check_academic.py
 
