@@ -3,8 +3,8 @@
 哲学学术规范并落地；收工前/推审前跑一次，输出逐项门禁结果）。
 
 覆盖（与 checks.yml CI 一致，另含需本地数据的项）：
-  check_summary / check_mulu_s / check_doc_size / check_junk / check_terms /
-  check_academic（词条+任务版本钉）/ 单元测试；
+  check_summary / check_mulu_s / check_doc_size / check_junk / check_images /
+  check_terms / check_quotes / check_academic（词条+任务版本钉）/ 单元测试；
   可选 --all：加 baseline_audit（依赖本地 en/ 原始物，gitignore 不入 CI）与
   compare 全量对比（依赖网络，默认不跑）。
 
@@ -26,6 +26,7 @@ GATES = [
     ("分类目录对应性", "check_mulu_s.py", False),
     ("单体文件大小", "check_doc_size.py", False),
     ("垃圾与产物入库", "check_junk.py", False),
+    ("图片引用完整性", "check_images.py --gate", False),
     ("术语一致性", "check_terms.py", False),
     ("直角引号总检", "check_quotes.py", False),
     ("哲学学术规范", "check_academic.py", False),

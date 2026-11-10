@@ -8,11 +8,11 @@
 
 | 工作流 | 行为 | 触发 |
 | ---- | ---- | ---- |
-| `checks.yml` | 仓库一致性门禁：`check_summary.py` + `check_mulu_s.py` + `check_junk.py`（垃圾/产物入库 + 根目录白名单，ADR-0023）+ `check_doc_size.py`（单体文件大小，ADR-0004）+ `check_terms.py`（术语一致性）+ `check_academic.py`（哲学学术规范，rules/07）+ `check_all.py --quiet`（一键全量复核汇总）+ 管线单元测试，硬错误即红灯 | push / 手动 |
+| `checks.yml` | 仓库一致性门禁：`check_summary.py` + `check_mulu_s.py` + `check_junk.py`（垃圾/产物入库 + 根目录白名单，ADR-0023）+ `check_images.py --gate`（图片引用完整性，rules/01）+ `check_doc_size.py`（单体文件大小，ADR-0004）+ `check_terms.py`（术语一致性）+ `check_academic.py`（哲学学术规范，rules/07）+ `check_all.py --quiet`（一键全量复核汇总）+ 管线单元测试，硬错误即红灯 | push / 手动 |
 | `sync-headers.yml` | 只读校验每个 SUMMARY 条目对应文件的 H1 是否与条目文字一致（转义还原后比较；跳过 frontmatter、README、别名行），不一致即红灯；**不提交、不推送**（ADR-0024：远端永不写回 main，避免造出本地没有的提交而与并行会话分叉） | push |
 | `file-name-check.yml` | 校验 SUMMARY 条目文件存在，缺失自动开 issue | push |
 | `markdown-lint2.yml`（手动）/ `Markdown-lint2-pr.yml`（PR 触发） | markdownlint 检查（统一配置 `.markdownlint-cli2.jsonc`；手动流可 `--fix` 开格式化 PR） | 手动 / pull_request |
-| `check-images.yml` | 图片引用检查（悬空、可解析、大小写、本地化、未引用资产），逻辑在 `tools/check_images.py`（`.github/scripts/check_images.py` 为 CI 入口）；只报告，发现问题经报告开 issue，不设红灯（2026-11-07 补齐缺失脚本） | push（`.gitbook/assets/**`）/ 手动 |
+| `check-images.yml` | 图片引用检查（悬空、可解析、大小写、本地化、未引用资产），逻辑在 `tools/check_images.py`（`.github/scripts/check_images.py` 为 CI 入口）；报告开 issue；同一检查已以 `--gate` 入 `checks.yml`（悬空/大小写/外链硬拦，2026-11-10 入闸） | push（`.gitbook/assets/**`）/ 手动 |
 | `links.yml` | 链接检查 | 定时（每月 15 日 18:00 UTC）+ 手动 + repository_dispatch |
 | `md-padding.yml`、`AutoCorrect.yml` | 手动触发，自动补 CJK 空格并以 PR 提交，合并前人工核对 diff | 手动 |
 | `Auto-Assign.yml`、`GC.yml` | issue/PR 自动分配、垃圾回收 | 各自约定 |
@@ -23,6 +23,13 @@
 * CI 红灯定位：打开 `checks.yml` 的第一个失败 step，按上表同名工具在本地用相同命令复现（如 `python tools/check_summary.py`）；各工具退出码语义见其 docstring，不按文字推断。
 * lint 配置统一在根目录 `.markdownlint-cli2.jsonc`（规则、纳入范围、按文件豁免），`.github/.markdownlint.json` 保留为等价规则副本；`yuanwen/`（原文照录）与 `.zcode/`（本地工具）不参与 lint。
 * 修改工作流须同步更新本表（变更管理见 [06-governance.md](06-governance.md)）。
+
+## 运行时基线（2026-11-10 起，ADR-0032）
+
+* **Python ≥ 3.15**（本地验证 3.15.2；`tools/` 仅标准库，`check_all` 9 项与单元测试全绿）。
+* **Node ≥ 26**（本地验证 26.13.0；Vite 8 要求 `^20.19 || >=22.12`，Node 26 满足；站点命令仍走 bun，见 ADR-0014）。
+* **bun ≥ 1.4**（本地 1.4.4，`package.json` 的 `engines`/`packageManager` 已钉）。
+* PDF 导出线（`create-pdf.yml`）暂留 Python 3.13：weasyprint 依赖面未随 3.15 验证，待上游支持后跟进（ADR-0032）。
 
 ## 本地工具（`tools/`，Python 3 仅标准库）
 
@@ -36,7 +43,7 @@
 | `check_style.py` | 体例检查（引号、空格、HTML/AsciiDoc 残留；输出 JSON） |
 | `check_prose.py` | 语言质量预检（ADR-0020，**告警级**，不进 CI）：长句、被动、弱动词、“的”链、类名“们”、作为一个、存在着、当…的时候 八则反欧化模式；输出 JSON，默认退出码 0，`--strict` 升硬 |
 | `check_render_artifacts.py` | 渲染产物残留物扫描（ADR-0019）：对构建产物 HTML 做文本级检查——裸 `**`（星内空格粗体永不渲染）、字面 `[^`（脚注配对失效）、`](`链接残留、数学哨兵 `@@M`；代码块/预排块内字面量豁免。分期转硬门禁（`raw[^` 待镜像脚注修复后纳入） |
-| `check_images.py` | 图片引用检查（rules/01 图片三条硬性要求）：悬空引用、大小写不符（Windows 不敏感/CI 404）、外部地址、`assets/` 未引用资产；跳过代码块与行内代码，`yuanwen/` 缺位（CI）时跳过镜像引用；报告写 `state/image-report.md`（本地）或 `image-report.md`（CI 开 issue 用），无问题即清除旧报告，退出码 0 |
+| `check_images.py` | 图片引用检查（rules/01 图片三条硬性要求）：悬空引用、大小写不符（Windows 不敏感/CI 404）、外部地址、`assets/` 未引用资产；跳过代码块与行内代码，`yuanwen/` 缺位（CI）时跳过镜像引用；报告写 `state/image-report.md`（本地）或 `image-report.md`（CI 开 issue 用），无问题即清除旧报告，默认退出码 0；`--gate` 时悬空/大小写/外链任一 >0 退出 1（check_all 与 CI 门禁用） |
 | `check_summary.py` | SUMMARY.md 结构审计（条目解析、缺失文件、孤儿文件、命名、重复）＋ H1 一致性硬门禁（SUMMARY 条目文字 ↔ 文件 H1，ADR-0024）＋ 别名行英文完整标题硬门禁（`alias fragment`，ADR-0024）；硬错误退出码 1；`--headers` 只查标题（CI 用），`--sync-headers` 按 SUMMARY 同步 H1（本地用，写回后跑残差门） |
 | `check_mulu_s.py` | 分类目录 ↔ SUMMARY 对应性检测（坏链、覆盖缺口、标题不一致、重复收录）；坏链/路径错/标题不一致为硬错误，退出码 1 |
 | `check_junk.py` | 垃圾/产物入库门禁（ADR-0003 + ADR-0023 + ADR-0027）：缓存、构建产物、系统杂物命中即退出码 1（`en/`、`yuanwen/` 已入库，不再判违规）；根目录白名单对跟踪清单与工作区双向核对，根级散件无论是否入库一律红灯 |
@@ -51,7 +58,7 @@
 | `cnki_query.py` | 术语依据查询（ADR-0012 译名依据源）：知网系权威源（CNKI 翻译助手、术语在线）在线查询与缓存 |
 | `term_audit.py` / `term_harvest.py` | 术语战役工具（specs/008）：登记册审计与候选收割（008 池裁定流水线） |
 | `campaign.py` | 全局统计表与批次调度（specs/005 并行设计）：a–z 批次账本（认领/阶段/断点续上），计数实时推导零漂移，多会话独立无耦合 |
-| `check_all.py` | 一键全量合规复核（七项门禁 + 单元测试；`--all` 加 baseline_audit 与 en_integrity；`--quiet` 只报失败）；收工前/推审前跑一次 |
+| `check_all.py` | 一键全量合规复核（八项门禁 + 单元测试；`--all` 加 baseline_audit 与 en_integrity；`--quiet` 只报失败）；收工前/推审前跑一次 |
 | `clean.py` | 本地垃圾清理器：默认试运行，`--go` 删除未跟踪缓存与临时文件（不触碰跟踪文件与 en/ 原始物） |
 | `progress.py` | 生成 `PROGRESS.md` 进度汇总（自动生成，不手改） |
 | `tests/` | 管线单元测试（unittest，金样本 fixtures） |

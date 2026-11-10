@@ -130,15 +130,12 @@ def advance(slug, step, actor, evidence, unblock=False):
         raise UsageError("step 必须是 %s" % "/".join(STEPS))
     order = ORDER[task["kind"]]
     cur = task["state"]
-    if step == "done":
-        expect = "r3_reviewed"
-    else:
-        expect = STEP_EXPECT_PREV[step]
-        if isinstance(expect, tuple):
-            if cur not in expect:
-                raise PreconditionError("step %s 要求状态 %s，当前 %s" % (step, expect, cur))
-        elif cur != expect:
-            raise PreconditionError("step %s 要求状态 %s，当前 %s（禁止跳步）" % (step, expect, cur))
+    expect = STEP_EXPECT_PREV[step]
+    if isinstance(expect, tuple):
+        if cur not in expect:
+            raise PreconditionError("step %s 要求状态 %s，当前 %s" % (step, expect, cur))
+    elif cur != expect:
+        raise PreconditionError("step %s 要求状态 %s，当前 %s（禁止跳步）" % (step, expect, cur))
     if cur not in order:
         raise PreconditionError("非法状态 %s" % cur)
     if step != "done" and task["kind"] == "update" and step in ("s1", "s2") \

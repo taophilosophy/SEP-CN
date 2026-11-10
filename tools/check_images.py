@@ -10,11 +10,13 @@
 口径：
   * 只扫 md（跳过代码块与行内代码里的字面量，如文档示例 `<img src="imageN.jpg">`）；
   * `yuanwen/**` ADR-0027 起入库：目录在场即照常解析镜像引用；仅当克隆缺该目录（稀疏检出）时跳过并计数（ADR-0010 镜像桥）；
-  * 只报告，不改内容；退出码 0（问题经报告落地，CI 由 check-images 工作流开 issue）。
+  * 只报告，不改内容；默认退出码 0（问题经报告落地，CI 由 check-images 工作流开 issue）；
+  * `--gate`：悬空／大小写／外链任一 >0 退出 1（`tools/check_all.py` 门禁用；未引用资产仍只告警）。
 
 用法：
     python tools/check_images.py                  # 报告写 state/image-report.md（本地，不入库）
     python tools/check_images.py --out image-report.md   # CI 工作流用法（仓库根）
+    python tools/check_images.py --gate           # 门禁模式：硬项 >0 退出 1
 """
 import argparse
 import io
@@ -177,6 +179,8 @@ def main(argv=None):
     ap.add_argument('--root', default=ROOT)
     ap.add_argument('--out', default=os.path.join(ROOT, 'state', 'image-report.md'),
                     help='报告输出路径（无问题时删除旧报告）')
+    ap.add_argument('--gate', action='store_true',
+                    help='门禁模式：悬空／大小写／外链任一 >0 退出 1（未引用资产只告警）')
     args = ap.parse_args(argv)
 
     res = scan(args.root)
@@ -193,6 +197,11 @@ def main(argv=None):
         if os.path.isfile(args.out):
             os.remove(args.out)
         print('OK：图片引用无问题')
+    if args.gate and (res['dangling'] or res['case'] or res['remote']):
+        print('GATE-FAIL：悬空 %d、大小写 %d、外链 %d（未引用资产 %d，仅告警）'
+              % (len(res['dangling']), len(res['case']), len(res['remote']),
+                 len(res['orphans'])))
+        return 1
     return 0
 
 

@@ -89,5 +89,42 @@ class ScanTest(unittest.TestCase):
         self.assertEqual(res["dangling"], [])
 
 
+class GateTest(unittest.TestCase):
+    """--gate 门禁模式：硬项 >0 退出 1，未引用资产只告警（默认退出码仍为 0）。"""
+
+    def setUp(self):
+        self._tmp = tempfile.TemporaryDirectory()
+        self.root = self._tmp.name
+
+    def tearDown(self):
+        self._tmp.cleanup()
+
+    def write(self, rel, text):
+        full = os.path.join(self.root, rel)
+        os.makedirs(os.path.dirname(full), exist_ok=True)
+        with open(full, "w", encoding="utf-8", newline="") as f:
+            f.write(text)
+
+    def run_gate(self):
+        out = os.path.join(self.root, "report.md")
+        with redirect_stdout(io.StringIO()):
+            return check_images.main(["--root", self.root, "--gate", "--out", out])
+
+    def test_gate_fails_on_dangling(self):
+        self.write("a/x.md", "![m](../assets/x/missing.png)\n")
+        self.assertEqual(self.run_gate(), 1)
+
+    def test_gate_passes_on_clean(self):
+        self.write("a/x.md", "![m](../assets/x/ok.png)\n")
+        self.write("assets/x/ok.png", "x")
+        self.assertEqual(self.run_gate(), 0)
+
+    def test_gate_ignores_orphans(self):
+        self.write("a/x.md", "![m](../assets/x/ok.png)\n")
+        self.write("assets/x/ok.png", "x")
+        self.write("assets/x/extra.png", "x")
+        self.assertEqual(self.run_gate(), 0)
+
+
 if __name__ == "__main__":
     unittest.main()

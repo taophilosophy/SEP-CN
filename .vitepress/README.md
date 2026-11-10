@@ -13,6 +13,8 @@ bun run preview  # 预览构建产物（不跑 prepare-assets）
 
 `npm run dev` 不是受支持路径：Windows 下 npm 用 cmd.exe 执行 script，不识别 `NODE_OPTIONS=` 前缀（ADR-0014）。
 
+运行时基线（ADR-0032）：Node ≥ 26（本地验证 26.13.0；Vite 8 要求 `^20.19 || >=22.12`）、bun ≥ 1.4（本地 1.4.4）。`bun run build` 需约 8 GB 空闲内存（`NODE_OPTIONS=--max-old-space-size=8192` 为硬上限，内存不足时 V8 以 `FATAL ERROR: Reached heap limit` 退出 134）；并行跑其它会话时先腾内存再构建。
+
 ## 构建期准备（prepare-assets.mjs）
 
 `dev` 与 `build` 先运行 `.vitepress/prepare-assets.mjs`：把 `node_modules/mathjax/es5/tex-svg.js` 复制到 `public/mathjax/tex-svg.js`（该目录 gitignore，克隆后首次运行自动重建）。缺 `node_modules` 时脚本直接 exit 1 并提示 `bun install`。`preview` 不跑此步骤，故 `preview` 前须至少 `build` 过一次。
