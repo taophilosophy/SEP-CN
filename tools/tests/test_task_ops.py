@@ -90,6 +90,20 @@ class TestTaskOps(unittest.TestCase):
         with self.assertRaises(task_ops.PreconditionError):
             task_ops.clear("test-no-baseline-xyz")
 
+    def test_done_requires_r3(self):
+        # done 不得绕过 r3（2026-11-10 修 done 分支缺前置校验，实测重复 done 由并发撞出）
+        task_ops.create("test-e", "retranslate", zh_doc=self._md("e.md"))
+        task_ops.clear("test-e")
+        for step in ("draft", "s1", "s2", "s3"):
+            task_ops.advance("test-e", step, actor="t", evidence="e")
+        with self.assertRaises(task_ops.PreconditionError):
+            task_ops.advance("test-e", "done", actor="t", evidence="跳步收口")
+        for step in ("r1", "r2", "r3", "done"):
+            t = task_ops.advance("test-e", step, actor="t", evidence="e")
+        self.assertEqual(t["state"], "done")
+        with self.assertRaises(task_ops.PreconditionError):
+            task_ops.advance("test-e", "done", actor="t", evidence="重复收口")
+
     def test_block_unblock(self):
         task_ops.create("test-d", "retranslate", zh_doc=self._md("d.md"))
         task_ops.block("test-d", "等待术语裁定")
