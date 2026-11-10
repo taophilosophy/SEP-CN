@@ -51,7 +51,7 @@
 | `cnki_query.py` | 术语依据查询（ADR-0012 译名依据源）：知网系权威源（CNKI 翻译助手、术语在线）在线查询与缓存 |
 | `term_audit.py` / `term_harvest.py` | 术语战役工具（specs/008）：登记册审计与候选收割（008 池裁定流水线） |
 | `campaign.py` | 全局统计表与批次调度（specs/005 并行设计）：a–z 批次账本（认领/阶段/断点续上），计数实时推导零漂移，多会话独立无耦合 |
-| `check_all.py` | 一键全量合规复核（六项门禁 + 单元测试；`--all` 加 baseline_audit 与 en_integrity；`--quiet` 只报失败）；收工前/推审前跑一次 |
+| `check_all.py` | 一键全量合规复核（七项门禁 + 单元测试；`--all` 加 baseline_audit 与 en_integrity；`--quiet` 只报失败）；收工前/推审前跑一次 |
 | `clean.py` | 本地垃圾清理器：默认试运行，`--go` 删除未跟踪缓存与临时文件（不触碰跟踪文件与 en/ 原始物） |
 | `progress.py` | 生成 `PROGRESS.md` 进度汇总（自动生成，不手改） |
 | `tests/` | 管线单元测试（unittest，金样本 fixtures） |

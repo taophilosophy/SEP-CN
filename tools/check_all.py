@@ -27,6 +27,7 @@ GATES = [
     ("单体文件大小", "check_doc_size.py", False),
     ("垃圾与产物入库", "check_junk.py", False),
     ("术语一致性", "check_terms.py", False),
+    ("直角引号总检", "check_quotes.py", False),
     ("哲学学术规范", "check_academic.py", False),
 ]
 OPTIONAL = [
@@ -50,7 +51,7 @@ def main(argv=None):
     ap.add_argument("--quiet", action="store_true", help="只输出失败项与汇总")
     args = ap.parse_args(argv)
 
-    # 七项门禁相互独立，并行执行（能并行的并行）
+    # 八项门禁相互独立，并行执行（能并行的并行）
     from concurrent.futures import ThreadPoolExecutor
     results = []
     with ThreadPoolExecutor(max_workers=4) as pool:

@@ -55,7 +55,7 @@
 
 ## 质量门与完成定义
 
-* **一键全量复核**：`python tools/check_all.py`（六项门禁：结构/分类/单体/垃圾/术语/学术规范 + 管线单元测试；`--all` 另加基线审计与英文镜像复核，共九项）——收工前与推审前必跑。
+* **一键全量复核**：`python tools/check_all.py`（七项门禁：结构/分类/单体/垃圾/术语/引号/学术规范 + 管线单元测试；`--all` 另加基线审计与英文镜像复核，共十项）——收工前与推审前必跑。
 * **文档任务 done** = 六道全部完成（状态机 `r3_reviewed → done`）+ 学术规范挂钩通过（s3/r3 自动跑 `check_academic --docs --strict`，0 硬错误）+ `tools/check_style.py` 0 issue + markdownlint 绿 + CI 全绿。
 * **结构改动 done** = `check_summary.py` 与 `check_mulu_s.py` 报告 0 坏链 0 标题不一致；`rebuild_dir.py check` 镜像无缺口。
 * **术语改动 done** = 登记册新行有首现与裁定日期；发布词汇表同步。

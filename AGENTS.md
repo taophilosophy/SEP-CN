@@ -28,7 +28,7 @@
 0. **方向确认**：按 `rules/08-intent-first.md` 用一句话复述用户到底要什么，写清目标/非目标与验收判据；含糊先问不猜，禁止猜着做；
 1. `git log --oneline -5` + `git status`——核对基点；本仓库多会话+双机定岗（M1 本机 `C:\Users\ykla\Documents\SEP-CN` **只做词条翻译**／M2 `D:\SEP-CN` 管其余全部，ADR-0026/0028），开工先 `python tools/sync_guard.py pull`（判弃自检实拦），**推送前先 pull --rebase**（并行会话 push 竞态会孤儿化对方提交，见 `rules/06-governance.md`）；
 2. 通读 `rules/README.md` 的“规则地图”与“快速判例”；
-3. 跑门禁：`python tools/check_all.py`（一键全量：六项门禁 + 单元测试，共 7 项，并行约 6 秒，应全绿）；
+3. 跑门禁：`python tools/check_all.py`（一键全量：七项门禁 + 单元测试，共 8 项，并行约 6 秒，应全绿）；
 4. 查进度与任务：`PROGRESS.md`、`python tools/task_ops.py show <slug>`；
 5. 收工前：相关检查器复跑、相关文件提交（中文一行信息），不留未提交的半成品。
 
@@ -51,4 +51,4 @@
 * **单体文件**：叙事/规则/规格类 md 超 1000 行或 100KB 必须按文件夹拆分（登记册与生成物豁免，见 ADR-0004）；门禁 `tools/check_doc_size.py`。
 * **根目录白名单**：根层只放白名单条目（工具链配置、顶层叙事文档、A–Z 词条目录、结构目录、包管理文件，ADR-0023）；中间产物/一次性脚本/提示词工作台归 `script/`（本地）、`state/`（运行态）或 `specs/<NNN>-*/bin|results/`（入库）；`tools/check_junk.py` 对跟踪清单与工作区双向核对，新增根级条目须走 ADR。
 * **批量改写纪律**：生成器/批量改写执行写回前置门（残余≠0 禁止写回）、幂等（重跑不追加重复行）、逐行身份追踪验收、改写前强制基线还原——细则见 `rules/05-ci-and-tools.md`“生成器与批量改写脚本”。
-* **检查**：本地一键 `python tools/check_all.py`（六项门禁 + 单元测试，共 7 项；`--all` 另加基线审计与英文镜像复核，共 9 项）；定点 `check_academic.py --docs <路径> --strict`；推送后 CI 为最终裁判。
+* **检查**：本地一键 `python tools/check_all.py`（七项门禁 + 单元测试，共 8 项；`--all` 另加基线审计与英文镜像复核，共 10 项）；定点 `check_academic.py --docs <路径> --strict`；推送后 CI 为最终裁判。
