@@ -51,20 +51,26 @@ segments:
     kind: body
     source: |-
       A second thread of semantically-relevant research relates to the observation that sign languages make rich use of iconicity (Liddell 2003; Taub 2001; Cuxac & Sallandre 2007)[^cuxac-2007][^liddell-2003][^taub-2001], the property by which a symbol resembles its denotation by preserving some its structural properties. Sign language iconicity raises three foundational questions. First, some of the same semantic elements that are implicated in arguments for Logical Visibility turn out to be employed and manipulated in the expression of concrete or abstract iconic relations (e.g., pictorial uses of individual-denoting expressions; scalar structure; mereological structure), thus suggesting that logical and iconic notions are intertwined at the core of sign language. Second, sign languages have designated conventional words (‘classifier predicates’) whose position or movement must be interpreted iconically; this calls for an integration of techniques from pictorial semantics into natural language semantics (Schlenker 2018a; Schlenker & Lamberton forthcoming)[^schlenker-2018a]. Finally, this high degree of iconicity raises questions about the comparison between speech and sign, with the possibility that, along iconic dimensions, the latter is expressively richer (Goldin-Meadow & Brentari 2017; Schlenker 2018a)[^goldin-meadow-2017][^schlenker-2018a].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与语义相关的第二条研究线索，关涉这一观察：手语大量使用象似性（iconicity）（Liddell 2003; Taub 2001; Cuxac & Sallandre 2007）[^cuxac-2007][^liddell-2003][^taub-2001]——即符号通过保留其指称对象某些结构属性而与之相似的特性。手语的象似性提出三个基础性问题。其一，支持逻辑可见性论证的某些语义成分，原来也用于表达具体或抽象的象似关系，并被加以操纵（例如以指称个体的表达式作图画式使用；标量结构；部分—整体结构），这提示逻辑概念与象似概念在手语核心处相互交织。其二，手语有专门的约定词（“类标记谓语”），其位置或移动必须作象似解释；这要求把图画语义学的技术整合进自然语言语义学（Schlenker 2018a; Schlenker & Lamberton forthcoming）[^schlenker-2018a]。最后，如此高的象似程度引出关于口语与手语之比较的问题：沿着象似这一维度，后者在表达上可能更为丰富（Goldin-Meadow & Brentari 2017; Schlenker 2018a）[^goldin-meadow-2017][^schlenker-2018a]。
+    step2: |-
+      与语义相关的第二条线索，关涉如下观察：手语大量运用象似性（iconicity）（Liddell 2003; Taub 2001; Cuxac & Sallandre 2007）[^cuxac-2007][^liddell-2003][^taub-2001]——符号保留其指称对象的某些结构属性，因而与之相似。手语象似性引出三个基础问题。其一，支持逻辑可见性论证的某些语义成分，原来也用于表达具体或抽象的象似关系并受操纵（如指称个体表达式的图画式用法、标量结构、部分—整体结构），可见逻辑概念与象似概念在手语核心处交织。其二，手语有专门的约定词（“类标记谓语”），其位置或移动须作象似解释；这要求把图画语义学的技术并入自然语言语义学（Schlenker 2018a; Schlenker & Lamberton forthcoming）[^schlenker-2018a]。最后，象似程度如此之高，引出比较口语与手语的问题：沿象似维度，后者表达或更丰富（Goldin-Meadow & Brentari 2017; Schlenker 2018a）[^goldin-meadow-2017][^schlenker-2018a]。
   - id: 7
     kind: body
     source: |-
       Possibly due in part to the above factors, sign languages—even when historically unrelated—behave as a coherent language family, with several semantic properties in common that are not generally shared with spoken languages (Sandler & Lillo-Martin 2006)[^sandler-2006]. Furthermore, some of these properties occasionally seem to be ‘known’ by individuals that do not have access to sign language; these include hearing non-signers and also deaf homesigners (i.e., deaf individuals that are not in contact with a Deaf community and thus have to invent signs to communicate with their hearing environment). Explaining this convergence is a key theoretical challenge.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      部分由于上述因素，手语——即便历史上彼此无关——表现得像一个连贯的语系，共享若干一般不与口语共享的语义性质（Sandler & Lillo-Martin 2006）[^sandler-2006]。此外，其中一些性质有时似乎被无法接触手语的个体所“知晓”：这些个体包括听力正常的非手语者，也包括失聪的家庭手语者（即未与聋人社群接触、因而不得不自创手势与听人环境交流的失聪者）。解释这种趋同是一项关键的理论挑战。
+    step2: |-
+      部分缘于上述因素，手语——即便历史上彼此无关——仍表现得像一个连贯语系，共享若干通常不为口语所有的语义性质（Sandler & Lillo-Martin 2006）[^sandler-2006]。此外，其中某些性质有时似被无法接触手语者所“知”：此类个体既有听力正常的非手语者，也有失聪的家庭手语者（未与聋人社群接触、只得自创手势与听人环境交流的失聪者）。解释这一趋同，是关键的理论难题。
   - id: 8
     kind: body
     source: |-
       Besides semantics proper, sign raises important questions for the analysis of information structure, notably topic and focus. These are often realized by way of facial articulators, including raised eyebrows, which have sometimes been taken to play the same role as some intonational properties of speech (e.g., Dachkovsky & Sandler 2009)[^dachkovsky-2009]. For reasons of space, we leave these issues aside in what follows.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除语义学本身之外，手语还对信息结构的分析提出重要问题，尤其是话题与焦点。这些往往通过面部发音器官实现，包括扬眉；有人曾认为它们与口语的某些语调性质起相同作用（如 Dachkovsky & Sandler 2009）[^dachkovsky-2009]。因篇幅所限，下文将这些问题搁置。
+    step2: |-
+      除语义学本身，手语于信息结构分析亦提出重要问题，尤以话题与焦点为著。二者常借面部发音器官实现（如扬眉），有人以为它们与口语的某些语调性质同功（Dachkovsky & Sandler 2009）[^dachkovsky-2009]。篇幅所限，下文从略。
   - id: 9
     kind: body
     source: |-

@@ -331,122 +331,162 @@ segments:
     kind: body
     source: |-
       Some of its proponents, such as MacAskill, eschew the idea that effective altruism is committed to utilitarianism or any other substantive moral view. For many others the consequentialist underpinnings are important. Though maximizing the good one can do in the world might allow for a variety of ways of defining the good, effective altruism seems committed to producing the best outcomes or, in prospect, identifying the best action by measuring the expected value of any action. The motive of the donor matters little or not at all. As a result, consequentialists embrace the idea of self-interest (e.g., the production of a “warm glow” in giving; taking satisfaction in doing good) alongside benefits to others. And they are eager to embrace self-interest when it might be shown to be useful in stimulating others to give or to give more (e.g., naming rights on buildings, reputational competition in philanthropic giving).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有些倡导者（如麦卡斯基尔）回避这样的说法：有效利他主义信奉功利主义或任何其他实质性的道德观点。对许多其他人来说，后果论的基础很重要。虽然最大化一个人能在世上做出的善，可以容许对善作多种定义，但有效利他主义似乎仍致力于产生最佳结果，或在预期上通过衡量任何行动的期望值来认定最佳行动。捐赠者的动机几乎无关紧要，甚至完全无关。因此，后果论者接纳自利的想法（例如给予时产生“温情效应”；从行善中获得满足），同时也接纳对他人的益处。而当自利能被表明有助于刺激他人给予或给予更多时（例如建筑冠名权、慈善捐赠中的声誉竞争），他们乐于接纳自利。
+    step2: |-
+      有些倡导者（如麦卡斯基尔）回避这样的说法：有效利他主义信奉功利主义或任何其他实质性的道德观点。对许多其他人来说，后果论的基础很重要。虽然最大化一个人能在世上做出的善，可以容许对善作多种定义，但有效利他主义似乎仍致力于产生最佳结果，或在预期上通过衡量任何行动的期望值来认定最佳行动。捐赠者的动机几乎无关紧要，甚至完全无关。因此，后果论者接纳自利的想法（例如给予时产生“温情效应”；从行善中获得满足），同时也接纳对他人的益处。而当自利能被表明有助于刺激他人给予或给予更多时（例如建筑冠名权、慈善捐赠中的声誉竞争），他们乐于接纳自利。
   - id: 42
     kind: body
     source: |-
       In recent years, effective altruism has spawned two new developments: earning to give and longtermism. Earning to give takes the approach of effective altruism and applies it to one’s time and career choice: what job should one take to maximize good in the world? Against conventional wisdom that doing good in the world involves working at an international aid organization, for example, earning to give suggests that an individual choose a high-earning career path with the intention of donating a significant portion of income to highly effective charities. By maximizing one’s earnings potential, effective altruists claim that one may do more good overall by donating that money to carefully selected charities than through typical altruistic career paths. The cryptocurrency mogul Sam Bankman-Fried adopted this approach, allegedly because of a college encounter with William MacAskill, in choosing a career that might earn him billions and allow him to donate most of it to effective altruist causes. (Bankman-Fried was convicted of criminal charges related to his cryptocurrency platform in 2023.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      近年来，有效利他主义催生了两个新发展：赚钱捐赠与长期主义。赚钱捐赠把有效利他主义的方法用于一个人的时间与职业选择：一个人应当从事什么工作，才能最大化世上的善？与“在世上行善就是到国际援助组织工作”这种常规看法相反，赚钱捐赠建议个人选择高收入职业道路，打算把收入的很大一部分捐给高效慈善机构。有效利他主义者声称，通过最大化自己的收入潜力，把那些钱捐给精心挑选的慈善机构，可能比走典型的利他职业道路做出更多善。加密货币巨头萨姆·班克曼-弗里德采取了这种做法——据称是因为大学时与威廉·麦卡斯基尔的一次相遇——选择了一条可能让他赚到数十亿美元、并得以把大部分捐给有效利他事业的职业道路。（班克曼-弗里德 2023 年因与其加密货币平台相关的刑事指控被定罪。）
+    step2: |-
+      近年来，有效利他主义催生了两个新发展：赚钱捐赠与长期主义。**赚钱捐赠**把有效利他主义的方法用于一个人的时间与职业选择：一个人应当从事什么工作，才能最大化世上的善？与“在世上行善就是到国际援助组织工作”这种常规看法相反，赚钱捐赠建议个人选择高收入职业道路，打算把收入的很大一部分捐给高效慈善机构。有效利他主义者声称，通过最大化自己的收入潜力，把那些钱捐给精心挑选的慈善机构，可能比走典型的利他职业道路做出更多善。加密货币巨头萨姆·班克曼—弗里德采取了这种做法——据称是因为大学时与威廉·麦卡斯基尔的一次相遇——选择了一条可能让他赚到数十亿美元、并得以把大部分捐给有效利他事业的职业道路。（班克曼—弗里德 2023 年因与其加密货币平台相关的刑事指控被定罪。）
   - id: 43
     kind: body
     source: |-
       Longtermism extends the concern of effective altruism from seeking to improve currently living human beings (and animals) to seeking to influence the indefinite future and the interest in there being a great many future generations. As a practical matter, this orients effective altruism away from identifying highly effective aid organizations and toward reducing existential risks to humanity, low probability events that could prevent future generations from coming into existence (Ord 2020; MacAskill 2022)[^macaskill-2022][^ord-2020].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      长期主义把有效利他主义的关切从改善当前活着的人类（与动物）扩展到试图影响无限未来、以及关心未来世代数量极大。就实践而言，这使有效利他主义从识别高效援助组织，转向降低人类的存在性风险——那些可能阻止未来世代存在的低概率事件（Ord 2020; MacAskill 2022）[^macaskill-2022][^ord-2020]。
+    step2: |-
+      **长期主义**把有效利他主义的关切从改善当前活着的人类（与动物）扩展到试图影响无限未来、以及关心未来世代数量极大。就实践而言，这使有效利他主义从识别高效援助组织，转向降低人类的**存在性风险**——那些可能阻止未来世代存在的低概率事件（Ord 2020; MacAskill 2022）[^macaskill-2022][^ord-2020]。
   - id: 44
     kind: body
     source: |-
       Critics of effective altruism frequently point to its antipolitics and strong orientation toward individual rather than institutional change (see Srinivasan 2015; Berkey 2018; Dietz 2019; Lechterman 2020; Crary 2021)[^berkey-2018][^crary-2021][^dietz-2019][^lechterman-2020][^lechterman-2020-2][^srinivasan-2015]. Srinivasan, for example, criticizes effective altruism for a certain paradoxical conservatism. Despite its ambition to change the world for the better, the effective altruist takes the political and organizational structure of the world as is—global capitalism, minimalist democracy, and the existing set of international aid organizations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有效利他主义的批评者常常指出它的反政治性、以及强烈偏向个体而非制度变革（见 Srinivasan 2015; Berkey 2018; Dietz 2019; Lechterman 2020; Crary 2021）[^berkey-2018][^crary-2021][^dietz-2019][^lechterman-2020][^lechterman-2020-2][^srinivasan-2015]。例如，斯里尼瓦桑批评有效利他主义有一种悖论式的保守主义。尽管它志在把世界变得更好，有效利他主义者却把世界的政治与组织结构当作既定——全球资本主义、极简民主，以及现有的国际援助组织体系。
+    step2: |-
+      有效利他主义的批评者常常指出它的反政治性、以及强烈偏向个体而非制度变革（见 Srinivasan 2015; Berkey 2018; Dietz 2019; Lechterman 2020; Crary 2021）[^berkey-2018][^crary-2021][^dietz-2019][^lechterman-2020][^lechterman-2020-2][^srinivasan-2015]。例如，斯里尼瓦桑批评有效利他主义有一种悖论式的保守主义。尽管它志在把世界变得更好，有效利他主义者却把世界的政治与组织结构当作既定——全球资本主义、极简民主，以及现有的国际援助组织体系。
   - id: 45
     kind: body
     source: |-
       > No expected value calculation is likely to counsel an individual to undertake to uproot capitalism, build a new political movement, or even start a new aid organization,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 任何期望值计算都不太可能劝一个人去连根拔起资本主义、建立新的政治运动，甚至创办一个新的援助组织，
+    step2: |-
+      > 任何期望值计算都不太可能劝一个人去连根拔起资本主义、建立新的政治运动，甚至创办一个新的援助组织，
   - id: 46
     kind: body
     source: |-
       she writes (Srinivasan 2015)[^srinivasan-2015].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      她写道（Srinivasan 2015）[^srinivasan-2015]。
+    step2: |-
+      她写道（Srinivasan 2015）[^srinivasan-2015]。
   - id: 47
     kind: body
     source: |-
       > Its utilitarian calculations presuppose that everyone else will continue to conduct business as usual; the world is a given, in which one can make careful, piecemeal interventions. The tacit assumption is that the individual, not the community, class or state, is the proper object of moral theorizing. (ibid.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 它的功利主义计算预设其他所有人都会照常行事；世界是给定的，人可以在此中作出审慎的、零敲碎打的干预。隐含的假定是：道德理论化的恰当对象是个体，而不是共同体、阶级或国家。（同上）
+    step2: |-
+      > 它的功利主义计算预设其他所有人都会照常行事；世界是给定的，人可以在此中作出审慎的、零敲碎打的干预。隐含的假定是：道德理论化的恰当对象是个体，而不是共同体、阶级或国家。（同上）
   - id: 48
     kind: body
     source: |-
       Critics of longtermism may hold that we have stronger duties to the present and near-term generations because the relationships and causal connections we share make us more responsible for their interests. They may also point to the difficulty of predicting the effects of our actions over the long term, especially in comparison with more reliable predictions we can make about nearer events (Tarsney 2023)[^tarsney-2023]. Others may point to controversial axioms prominent longtermists hold about population ethics (Setiya 2022)[^setiya-2022]. Some have sought to defend Parfit’s Repugnant Conclusion (Parfit 1984)[^parfit-1984], which holds that maximizing wellbeing can lead us to prefer a world of many lives barely worth living over an alternative world where a smaller population enjoys flourishing lives (see the entry on the repugnant conclusion).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      长期主义的批评者可能主张，我们对当下与近期世代负有更强义务，因为我们共享的关系与因果联系使我们对其利益负有更大责任。他们也可能指出，预测我们行动在长时段内的效果很困难，尤其是与我们对较近事件能作出的更可靠预测相比（Tarsney 2023）[^tarsney-2023]。其他人可能指出，著名长期主义者持有一些有争议的人口伦理学公理（Setiya 2022）[^setiya-2022]。有些人试图为帕菲特的“令人厌恶的结论”辩护（Parfit 1984）[^parfit-1984]：该结论认为，最大化福祉可能使我们宁愿选择一个由许多仅勉强值得活的生命组成的世界，也不愿选择一个人口较少但生活繁荣的替代世界（见“令人厌恶的结论”词条）。
+    step2: |-
+      长期主义的批评者可能主张，我们对当下与近期世代负有更强义务，因为我们共享的关系与因果联系使我们对其利益负有更大责任。他们也可能指出，预测我们行动在长时段内的效果很困难，尤其是与我们对较近事件能作出的更可靠预测相比（Tarsney 2023）[^tarsney-2023]。其他人可能指出，著名长期主义者持有一些有争议的人口伦理学公理（Setiya 2022）[^setiya-2022]。有些人试图为帕菲特的“令人厌恶的结论”辩护（Parfit 1984）[^parfit-1984]：该结论认为，最大化福祉可能使我们宁愿选择一个由许多仅勉强值得活的生命组成的世界，也不愿选择一个人口较少但生活繁荣的替代世界（见“令人厌恶的结论”词条）。
   - id: 49
     kind: body
     source: |-
       ### 3.3 Nonconsequentialist Views
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.3 非后果论观点
+    step2: |-
+      ### 3.3 非后果论观点
   - id: 50
     kind: body
     source: |-
       Kant, and those influenced by him, generally discuss philanthropy in connection with the virtue of beneficence, which directs us to promote the happiness of others and assist others in need (Kant 1797; see the entry on Kant’s moral philosophy)[^kant-1797]. Beneficence is an imperfect duty, meaning that determining its targets and strategies requires individual judgment and cannot be defined in advance (Hill 2018)[^hill-2018]. Imperfect duties are contrasted with perfect duties, like justice and promise-keeping, which admit of less discretion and whose satisfaction ordinarily take priority (ibid.).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德及其追随者一般在行善德性的关联中讨论慈善：行善德性指引我们促进他人的幸福、援助有需要者（Kant 1797；见“康德道德哲学”词条）[^kant-1797]。行善是不完全义务，这意味着确定其对象与策略需要个人判断，无法预先规定（Hill 2018）[^hill-2018]。不完全义务与完全义务相对，后者如正义与守信，裁量余地较小，其履行通常优先（同上）。
+    step2: |-
+      康德及其追随者一般在行善德性的关联中讨论慈善：行善德性指引我们促进他人的幸福、援助有需要者（Kant 1797；见“康德道德哲学”词条）[^kant-1797]。行善是不完全义务，这意味着确定其对象与策略需要个人判断，无法预先规定（Hill 2018）[^hill-2018]。不完全义务与完全义务相对，后者如正义与守信，裁量余地较小，其履行通常优先（同上）。
   - id: 51
     kind: body
     source: |-
       Kant requires that individuals be attentive to others’ needs and respond to emergencies, and he stresses that beneficence is not optional, even as he denies that beneficence must always be impartial among potential objects or maximizing in its focus. He allows that individuals may sometimes count personal attachments as reasons to favor some persons or causes over others, and he supports investments in culture and education as necessary for cultivating human virtues. Proponents of a Kantian approach defend Kant’s lack of systematic guidance on these questions, stressing that choosing whom to benefit and how requires many personal and contextual judgments that resist precise calculation (Hill 2018)[^hill-2018].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德要求个人关注他人需要并回应紧急情况，并强调行善不是可选的，尽管他否认行善必须始终在潜在对象之间不偏不倚、或以最大化为焦点。他容许个人有时把私人情谊算作偏爱某些人或事业的理由，并支持对文化与教育的投入，视之为培养人类德性所必需。康德式进路的支持者为康德在这些问题上缺乏系统指导辩护，强调选择造福谁、如何造福需要许多个人与情境判断，抗拒精确计算（Hill 2018）[^hill-2018]。
+    step2: |-
+      康德要求个人关注他人需要并回应紧急情况，并强调行善不是可选的，尽管他否认行善必须始终在潜在对象之间不偏不倚、或以最大化为焦点。他容许个人有时把私人情谊算作偏爱某些人或事业的理由，并支持对文化与教育的投入，视之为培养人类德性所必需。康德式进路的支持者为康德在这些问题上缺乏系统指导辩护，强调选择造福谁、如何造福需要许多个人与情境判断，抗拒精确计算（Hill 2018）[^hill-2018]。
   - id: 52
     kind: body
     source: |-
       It is important to consider Kant’s moral theory in connection with his political and legal theory, which covers property rights, economic institutions, and constitutional design. Kant assigns to the state the duty to insure against absolute deprivation, and he has mixed feelings about private almsgiving as a general practice—calling it demeaning (Kant *Lectures on Ethics*: AK 27:455 [1997: 209]) and illustrative of government injustice, while at the same time noting that unjustly rich citizens may indeed have duties to give alms, but as duties of reparative justice rather than beneficence (Kant 1797 AK 6:454 [1996: 573)[^kant-1797].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      重要的是把康德的道德理论与其政治与法权理论联系起来考察，后者涵盖财产权、经济制度与宪制设计。康德把防范绝对匮乏的义务赋予国家，并对私人施舍作为一般实践怀有矛盾情感——他称其有损人格（Kant *Lectures on Ethics*: AK 27:455 [1997: 209]），是政府不义的例证；同时又指出，不义地富有的公民确实可能有施舍义务，但那是补偿正义的义务，而非行善的义务（Kant 1797 AK 6:454 [1996: 573]）[^kant-1797]。
+    step2: |-
+      重要的是把康德的道德理论与其政治与法权理论联系起来考察，后者涵盖财产权、经济制度与宪制设计。康德把防范绝对匮乏的义务赋予国家，并对私人施舍作为一般实践怀有矛盾情感——他称其有损人格（Kant *Lectures on Ethics*: AK 27:455 [1997: 209]），是政府不义的例证；同时又指出，不义地富有的公民确实可能有施舍义务，但那是**补偿正义**的义务，而非行善的义务（Kant 1797 AK 6:454 [1996: 573]）[^kant-1797]。
   - id: 53
     kind: body
     source: |-
       For an effective altruist, the core question is how one person can benefit another person, and the relationship placed in the foreground is benefactor to beneficiary. But for Kant, the core question is about justice, and the relationship placed in the foreground is mutual respect and accountability. (For more on the contrast between effective altruism and Kant, see Darwall 2024)[^darwall-2024]. Furthermore, because on Kant’s view the immiseration of some is likelier due to injustice than misfortune, the voluntary action of the advantaged to assist the disadvantaged is improperly described as charity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对有效利他主义者来说，核心问题是：一个人如何能造福另一个人？被置于前景的关系是施惠者与受益人。但对康德来说，核心问题是正义，被置于前景的关系是相互尊重与问责。（关于有效利他主义与康德之对照的更多讨论，见 Darwall 2024）[^darwall-2024]。此外，在康德看来，某些人的贫困更可能源于不义而非不幸，因此优势者援助劣势者的自愿行动，被不恰当地描述为慈善。
+    step2: |-
+      对有效利他主义者来说，核心问题是：一个人如何能造福另一个人？被置于前景的关系是施惠者与受益人。但对康德来说，核心问题是正义，被置于前景的关系是相互尊重与问责。（关于有效利他主义与康德之对照的更多讨论，见 Darwall 2024）[^darwall-2024]。此外，在康德看来，某些人的贫困更可能源于不义而非不幸，因此优势者援助劣势者的自愿行动，被不恰当地描述为慈善。
   - id: 54
     kind: body
     source: |-
       > Having the resources to practice such beneficence as depends on the goods of fortune is, for the most part, a result of certain human beings being favored through the injustice of government, which introduces an inequality of wealth that makes others need their beneficence. Under such circumstances, does a rich man’s help to the needy, on which he so readily prides himself as something meritorious, really deserve to be called beneficence at all? (Kant 1797 AK 6:454 [1996: 573])[^kant-1797]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 拥有资源去实践这种依赖于幸运之物的行善，多半是某些人因政府的不义而受惠的结果；这种不义引入了财富不平等，使他人需要他们的行善。在这种情况下，富人对穷人的帮助——他如此轻易地引以为功——真的还配称为行善吗？（Kant 1797 AK 6:454 [1996: 573]）[^kant-1797]
+    step2: |-
+      > 拥有资源去实践这种依赖于幸运之物的行善，多半是某些人因政府的不义而受惠的结果；这种不义引入了财富不平等，使他人需要他们的行善。在这种情况下，富人对穷人的帮助——他如此轻易地引以为功——真的还配称为行善吗？（Kant 1797 AK 6:454 [1996: 573]）[^kant-1797]
   - id: 55
     kind: body
     source: |-
       Kant assigns the state the duty to provide public goods, noting that private action on behalf of the public can often be unauthorized, unilateral vigilantism (Ripstein 2009)[^ripstein-2009]. To be legitimate, action that affects all members of a society must be authorized by all of them omnilaterally. Similar arguments can be found in contemporary Kantian treatments of philanthropy, which tend to see philanthropy as completing and adorning the work of just institutions and temporarily repairing the mistakes of unjust institutions, but never seeking to supplant them (e.g., Herman 2001; Cordelli 2016, 2020)[^cordelli-2016][^cordelli-2016-2][^herman-2001].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德把提供公共善的义务赋予国家，并指出代表公众的私人行动往往可能是未经授权的、单方面的自行执法（Ripstein 2009）[^ripstein-2009]。要具有正当性，影响社会全体成员的行动必须由全体成员共同授权。类似的论证见于当代康德式慈善论述：它们倾向于把慈善看作对正义制度工作的补全与增饰、对不义制度错误的临时修补，但绝不试图取代它们（例如 Herman 2001; Cordelli 2016, 2020）[^cordelli-2016][^cordelli-2016-2][^herman-2001]。
+    step2: |-
+      康德把提供公共善的义务赋予国家，并指出代表公众的私人行动往往可能是未经授权的、单方面的自行执法（Ripstein 2009）[^ripstein-2009]。要具有正当性，影响社会全体成员的行动必须由全体成员共同授权。类似的论证见于当代康德式慈善论述：它们倾向于把慈善看作对正义制度工作的补全与增饰、对不义制度错误的临时修补，但绝不试图取代它们（例如 Herman 2001; Cordelli 2016, 2020）[^cordelli-2016][^cordelli-2016-2][^herman-2001]。
   - id: 56
     kind: body
     source: |-
       In addition to positive guidance about duties to give, deontological perspectives can be important in specifying *constraints* on philanthropic action. Without providing a complete positive theory of how or how much one ought to give, neo-Kantians have argued that donors’ moral discretion to give as they like does not apply under conditions of institutional injustice, where wealthy people’s moral claims to their property are significantly weaker than is generally supposed (Cordelli 2016, 2020)[^cordelli-2016][^cordelli-2016-2].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除了关于给予义务的正面指导，义务论视角在具体说明慈善行动的*约束*方面也可能很重要。新康德主义者没有提供一套完整的正面理论来说明应当如何给予、给予多少，但他们主张：在制度不义的条件下，捐赠者按自己所好给予的道德裁量并不适用——在这种条件下，富人对财产的道德主张远比通常所设想的要弱（Cordelli 2016, 2020）[^cordelli-2016][^cordelli-2016-2]。
+    step2: |-
+      除了关于给予义务的正面指导，义务论视角在具体说明慈善行动的**约束**方面也可能很重要。新康德主义者没有提供一套完整的正面理论来说明应当如何给予、给予多少，但他们主张：在制度不义的条件下，捐赠者按自己所好给予的道德裁量并不适用——在这种条件下，富人对财产的道德主张远比通常所设想的要弱（Cordelli 2016, 2020）[^cordelli-2016][^cordelli-2016-2]。
   - id: 57
     kind: body
     source: |-
       ## 4. Politics of Giving
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. 给予的政治学
+    step2: |-
+      ## 4 给予的政治学
   - id: 58
     kind: body
     source: |-
       ### 4.1 Tensions between Philanthropy and Democracy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 慈善与民主之间的张力
+    step2: |-
+      ### 4.1 慈善与民主之间的张力
   - id: 59
     kind: body
     source: |-
       The relationship between philanthropy and democracy is a question of longstanding interest (e.g., Tocqueville 1840 [2000: 485–92])[^tocqueville-1840]. Of course, a state need not be democratic for tensions between public power and private philanthropy to arise: Livy and Machiavelli, for example, both note that munificent citizens can acquire popularity and power through their giving, in ways that present threats to ruling political elites. But the role of philanthropy, and especially philanthropy by the very rich, is often thought to present particular problems in democratic societies (Reich 2018)[^reich-2018]. Big philanthropy represents the direction of private resources toward some public purpose or influence, and in this respect it is an exercise of power. Democracies promise their citizens political equality and equal opportunity for voice or influence over important public decisions. By contrast, large scale philanthropy gives donors the power to influence public outcomes and thereby threatens to amplify the voices of the wealthy. In this respect, big philanthropy is a plutocratic element in a democratic setting, and the relevant question to be asked is whether wealth can be domesticated to serve rather than subvert core democratic principles and practices (Reich 2018)[^reich-2018].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      慈善与民主的关系是一个长期受到关注的问题（例如 Tocqueville 1840 [2000: 485–92]）[^tocqueville-1840]。当然，国家不必是民主的，公共权力与私人慈善之间的张力也会出现：例如李维与马基雅维利都指出，慷慨的公民可以通过赠予获得声望与权力，从而对执政的政治精英构成威胁。但慈善、尤其是极富者的慈善所扮演的角色，常被认为在民主社会中带来特殊问题（Reich 2018）[^reich-2018]。大慈善意味着把私人资源导向某种公共目的或影响力，就此而言它是一种权力行使。民主向其公民承诺政治平等，以及在重要公共决策上平等的声音或影响机会。相比之下，大规模慈善给予捐赠者影响公共结果的能力，从而可能放大富人的声音。在这个意义上，大慈善是民主环境中的财阀因素；应当追问的相关问题是：财富能否被驯化，使其服务于而非颠覆核心民主原则与实践（Reich 2018）[^reich-2018]。
+    step2: |-
+      慈善与民主的关系是一个长期受到关注的问题（例如 Tocqueville 1840 [2000: 485–92]）[^tocqueville-1840]。当然，国家不必是民主的，公共权力与私人慈善之间的张力也会出现：例如李维与马基雅维利都指出，慷慨的公民可以通过赠予获得声望与权力，从而对执政的政治精英构成威胁。但慈善、尤其是极富者的慈善所扮演的角色，常被认为在民主社会中带来特殊问题（Reich 2018）[^reich-2018]。大慈善意味着把私人资源导向某种公共目的或影响力，就此而言它是一种权力行使。民主向其公民承诺政治平等，以及在重要公共决策上平等的声音或影响机会。相比之下，大规模慈善给予捐赠者影响公共结果的能力，从而可能放大富人的声音。在这个意义上，大慈善是民主环境中的财阀因素；应当追问的相关问题是：财富能否被驯化，使其服务于而非颠覆核心民主原则与实践（Reich 2018）[^reich-2018]。
   - id: 60
     kind: body
     source: |-
       Some democratic perspectives focus on the concept of *legitimacy* and attempt to resolve the tensions between philanthropy and democracy by more strictly delimiting the appropriate role of philanthropy in the institutional division of labor. Cordelli (2020) offers a Kantian argument against the privatization of state functions, which applies to much *non-*profit (not just for-profit) private action. On her account, privatization represents an illegitimate outsourcing of decision-making power to private actors, who are empowered to define and affect people’s rights in ways that can only legitimately be done by a state’s democratically authorized and accountable representatives. Beerbohm (2016) and Pevnick (2016) also attempt to isolate the state functions that must remain under democratic control. And Lechterman (2022) develops an account of “democratic sovereignty” which charges that philanthropic influence over essential public goods or matters of basic justice violates citizens’ rights to self-determination.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有些民主视角聚焦*正当性*概念，试图通过更严格地界定慈善在制度分工中的恰当角色，来化解慈善与民主之间的张力。科尔代利（2020）提出一个康德式论证，反对国家职能的私有化；该论证适用于大量*非*营利（不只是营利）的私人行动。在她看来，私有化是把决策权非法外包给私人行动者，而这些行动者被赋予界定并影响他人权利的能力——这种能力只能由经民主授权并负责任的代表正当地行使。比尔博姆（2016）与佩夫尼克（2016）也试图界定必须留在民主控制之下的国家职能。莱克特曼（2022）则提出一种“民主主权”理论，指控慈善对基本公共善或基本正义事务的影响侵犯了公民的自决权。
+    step2: |-
+      有些民主视角聚焦**正当性**概念，试图通过更严格地界定慈善在制度分工中的恰当角色，来化解慈善与民主之间的张力。科尔代利（2020）提出一个康德式论证，反对国家职能的私有化；该论证适用于大量**非**营利（不只是营利）的私人行动。在她看来，私有化是把决策权非法外包给私人行动者，而这些行动者被赋予界定并影响他人权利的能力——这种能力只能由经民主授权并负责任的代表正当地行使。比尔博姆（2016）与佩夫尼克（2016）也试图界定必须留在民主控制之下的国家职能。莱克特曼（2022）则提出一种“民主主权”理论，指控慈善对基本公共善或基本正义事务的影响侵犯了公民的自决权。
   - id: 61
     kind: body
     source: |-

@@ -2,7 +2,7 @@
   "slug": "montessori-maria",
   "kind": "retranslate",
   "zh_doc": "m/montessori-maria.md",
-  "state": "cleared",
+  "state": "s1_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,20 @@
       "actor": "task_ops",
       "at": "2026-11-09T14:52:06Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "M-main-20261110",
+      "at": "2026-11-10T10:25:37Z",
+      "evidence": "账本 182/182 段双版落盘（段 57 漏译重译 + 段 58–182 新译，7 批：49b08068/…/末批）；lq.py check 守恒 HARD=0（软标旗均为机械段与斜体→书名号正常项）；compose 57513 字符；italic_to_bold_cjk 22 行；check_style 0 issue、check_math 0、check_summary H1 0、check_academic --strict 0 硬错误"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "M-main-20261110",
+      "at": "2026-11-10T10:27:24Z",
+      "evidence": "逐段核销 182/182（126 段新译逐段对照 yuanwen）；结构全等：脚注定义 135:135、正文 marker 162:162、键集合零差、h2 15:15（尾部模板节 9 编号节一致）、h3 语义对应 15:15（Acknowledgments 按模板作 h2 致谢）；年份多重集零差（EN−ZH=∅、ZH−EN=∅）；相关词条 7/7 对 summary（compose 未报 NOTE），EN 原列 embodied cognition/critical thinking/Dewey/philosophy of education/virtue epistemology/Herbart/James 全数映射；biblio_audit flagged=0（无中国文献，无需 ADR-0011 还原）；check_terms 硬错误 0（Freire 已改登记形「保罗·弗莱雷」）；H1 与 SUMMARY 逐字符一致（check_summary 0 偏差）"
     }
   ],
   "blockers": [],
