@@ -489,7 +489,7 @@ outline: [1, 6]
 * [查尔斯·莱斯利·史蒂文森 Stevenson, Charles Leslie (Daniel Boisvert and Teemu Toppinen)](s/stevenson.md)
 * [查理·邓巴·布罗德 Broad, Charlie Dunbar (Kent Gustavsson)](b/broad.md)
 * [以赛亚·伯林 Berlin, Isaiah (Joshua L. Cherniss and Henry Hardy)](b/berlin.md)
-* [罗德里克·奇泽姆 Chisholm, Roderick (Richard Feldman and Fred Feldman)](c/chisholm.md)
+* [罗德里克·齐硕姆 Chisholm, Roderick (Richard Feldman and Fred Feldman)](c/chisholm.md)
 * [纳尔逊·古德曼 Goodman, Nelson (Daniel Cohnitz and Marcus Rossberg)](g/goodman.md)
   * [古德曼的美学 aesthetics (Alessandro Giovannelli)](g/goodman-aesthetics.md)
 * [保罗·格莱斯 Grice, Paul (Richard E. Grandy and Richard Warner)](g/grice.md)

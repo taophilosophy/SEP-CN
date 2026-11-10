@@ -459,7 +459,7 @@
   * [\*庄子——见庄子 Zhuang Zi — see Zhuangzi](z/zhuangzi.md)
   * [\*朱熹——见朱熹 Zhu Xi — see Zhu Xi](z/zhu-xi.md)
 * [中文房间论证 Chinese room argument (David Cole)](c/chinese-room.md)
-* [罗德里克·奇泽姆 Chisholm, Roderick (Richard Feldman and Fred Feldman)](c/chisholm.md)
+* [罗德里克·齐硕姆 Chisholm, Roderick (Richard Feldman and Fred Feldman)](c/chisholm.md)
 * [选择公理 choice, axiom of (John L. Bell)](a/axiom-choice.md)
 * [动态选择 choice, dynamic (Chrisoula Andreou)](d/dynamic-choice.md)
 * [\*社会选择——见社会选择理论 choice, social — see social choice theory](s/social-choice.md)
