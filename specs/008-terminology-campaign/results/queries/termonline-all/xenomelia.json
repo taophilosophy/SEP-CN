@@ -1,0 +1,47 @@
+{
+ "key": "xenomelia",
+ "term": "xenomelia",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T22:18:43+00:00",
+ "status": "ok",
+ "note": "variant=xenomelia; 审定公布名词库=1; 海峡两岸名词对照库=4; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "残肢畸形",
+   "en": "meromelia",
+   "code": "31.057",
+   "standard": "组织学与胚胎学名词",
+   "subject": "组织学与胚胎学_胚胎学_骨骼、肌肉和四肢的发生"
+  },
+  {
+   "cn": "残肢畸形，四肢不全畸形",
+   "en": "meromelia\",\"peromelia",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "四肢不全畸形（=残肢畸形）",
+   "en": "meromelia\",\"peromelia",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "短肢畸形，海豹肢",
+   "en": "phocomelia\",\"nanomelia\",\"micromelia",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "海豹肢（=短肢畸形）",
+   "en": "phocomelia\",\"nanomelia\",\"micromelia",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

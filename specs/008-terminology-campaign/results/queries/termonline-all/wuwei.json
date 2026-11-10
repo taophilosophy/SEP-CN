@@ -1,0 +1,26 @@
+{
+ "key": "wuwei",
+ "term": "wuwei",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T22:18:43+00:00",
+ "status": "ok",
+ "note": "variant=wuwei; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "鱼尾",
+   "en": "fishtail,Yuwei",
+   "code": "08.250",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_文献学_版本学"
+  },
+  {
+   "cn": "乌梅散",
+   "en": "wumei powder",
+   "code": "19.543",
+   "standard": "兽医学名词",
+   "subject": "兽医学_中兽医学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
