@@ -2,7 +2,7 @@
   "slug": "belief-merging",
   "kind": "retranslate",
   "zh_doc": "b/belief-merging.md",
-  "state": "s1_checked",
+  "state": "s2_checked",
   "steps": [
     {
       "step": "clear",
@@ -24,6 +24,13 @@
       "actor": "B-main-20261110",
       "at": "2026-11-10T05:09:33Z",
       "evidence": "逐节对照 yuanwen 英文源核销 112 段（正文 1–105 + OIR 106 + 致谢 107 + 脚注 108–112）：结构 4 节 3 小节全型对应；文献定义区 99 键与 yuanwen 逐字节一致（94 条文献照录 + note-1..5 译文）。实修 4 类硬伤：①consistent 系系统性误译「融贯」（源 68 处 consistent/11 处 inconsistent，仅 1 处 coherent），全篇改「一致」共 62 处，coherence→融贯 语义分工入登记册；②段52 IC7/IC8 句「$E$ 在 IC1 与 IC2 之下的合并结果」误读源文 Δ_IC1(E)∧IC2，「让 E 则在」衍字，「IC1」漏数学定界符，整句重译；③段68 公式内 \\textrm{ iff } 被改写为「当且仅当」违反 LaTeX 逐字符保留，回改；④段94/95 源文两处笔误（if…syntax-dependent 与 project-then-merge 与自身体系不合）加译注留痕。另修：自趣→旨趣、Poisson/Arrow/Gärdenfors/Black/Williamson/Pacuit 汉译补注、违犯→违反、私家车位→私人停车场、新规→新规则、OIR 样板句、章标题去英文句点（模板 #4）、单维对齐（unidimensionally aligned 误作单向）、受众多寡（popularity 误读）、极大融贯子集→极大一致子集、段100 三方法（Endpoint/Full/Output）重译补全、段52 相合项句意纠偏。术语登记 60 行（belief-merging 组）、人名 3 行（Duncan Black/Poisson/Vacca）。四检：check_style 0、check_math 0 缺失 0 不配（262 公式）、check_summary H1 mismatch 0、check_academic --strict 0 硬错误；check_prose 1 条豁免（段17「被告」名词性被动非被动句）。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "B-main-20261110",
+      "at": "2026-11-10T06:53:47Z",
+      "evidence": "二校（语言）脱稿通读全篇 376 行，实修 18 处：①衍字「使得到」3 处（段151/155/163，源 the distance to / minimize）；②「被告确已做了」改「确实做了」（去滥用「已」字）；③议程括号中西混配（半角左括号配全角右括号）改为议程（$A\\subseteq L$）；④「被分作前提与结论」被动句改主动（法庭一例把……分为）；⑤「铸造了论辩困境一词」改「首创」并补引号；⑥「所辨析的三种主要理论变化」改「所研究的三种理论变化」（源 studied）；⑦「证明了这一划时代的结果」改「证明了一个里程碑式的定理」，并破「的」字链；⑧「如何写就便无关痛痒」改「如何书写便无关紧要」；⑨股票列举标点归一；⑩「自信念基剖面」歧义改为「两条自信念基剖面导出……的路径」；⑪表示怀疑改表示质疑（questioned）；⑫段204「违反 IC」补斜体 *IC*；⑬「为建造专家系统而对……的聚合」去「对……的」欧化；⑭段147 公式内 \\textrm{ iff } 回改（源文逐字符，s1 遗漏项）。check_prose 2→1：余 1 条为段17「被告」三现（defendant 名词，非被动句），逐条豁免留痕；check_style 0 issue。"
     }
   ],
   "blockers": [],
