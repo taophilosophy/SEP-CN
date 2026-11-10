@@ -491,362 +491,482 @@ segments:
     kind: body
     source: |-
       ### 1.3 Degree-denoting loci
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.3 指称程度的位点
+    step2: |-
+      ### 1.3 指称程度的位点
   - id: 62
     kind: body
     source: |-
       In spoken language semantics, there is a related debate about the existence of degree-denoting variables. The English sentences *Ann is tall* and *Ann is taller than Bill* (as well as other gradable constructions) can be analyzed in terms of reference to degrees, for instance as in (11).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在口语语义学中，关于指称程度的变量是否存在，有一场相关的争论。英语句子 *Ann is tall* 与 *Ann is taller than Bill*（以及其他可分级构造）可以按指称程度来分析，例如 (11) 所示。
+    step2: |-
+      在口语语义学中，指称程度的变量是否存在，有一场相关争论。英语句子 *Ann is tall* 与 *Ann is taller than Bill*（以及其他可分级构造）可按指称程度来分析，如 (11) 所示。
   - id: 63
     kind: body
     source: |-
       **(11)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(11)**
+    step2: |-
+      **(11)**
   - id: 64
     kind: body
     source: |-
       a. Ann is tall. *the maximal degree to which Ann is tall ≥ the threshold for ‘tall’*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      a. Ann is tall.（Ann 个子高。）*Ann 身高的最大程度 ≥“高”的阈值*
+    step2: |-
+      a. Ann is tall.（Ann 个子高。）*Ann 身高的最大程度 ≥“高”的阈值*
   - id: 65
     kind: body
     source: |-
       **b.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **b.**
+    step2: |-
+      **b.**
   - id: 66
     kind: body
     source: |-
       Ann is taller than Bill. *the maximal degree to which Ann is tall ≥ the maximal degree to which Bill is tall*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Ann is taller than Bill.（Ann 比 Bill 高。）*Ann 身高的最大程度 ≥ Bill 身高的最大程度*
+    step2: |-
+      Ann is taller than Bill.（Ann 比 Bill 高。）*Ann 身高的最大程度 ≥ Bill 身高的最大程度*
   - id: 67
     kind: body
     source: |-
       To say that one *can* analyze the meaning in terms of reference to degrees doesn’t entail that one must (for discussion, see Klein 1980)[^klein-1980]. And even if one posits quantification over degrees, a further question is whether natural language has counterparts of pronouns that refer to degrees—if so, one would have an argument that natural language is committed to degrees. Importantly, this debate is logically independent from that about the existence of time- and world-denoting pronominals, as one may consistently believe that there are pronominals in one domain but not in the other. The question must be asked anew, and here too sign language brings important insights.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      说人们*可以*按指称程度来分析意义，并不蕴含必须如此（讨论见 Klein 1980）。即便设定对程度的量化，进一步的问题是：自然语言是否有指称程度的代词对应物？若有，人们就有论证说自然语言承诺了程度的存在。重要的是，这场争论在逻辑上独立于关于时间与世界指称代词存在的争论，因为人们可以一致地相信某个域有代词而另一个域没有。这个问题必须重新提出，而手语在此同样带来重要洞见。
+    step2: |-
+      说人们*可以*按指称程度分析意义，并不蕴含必须如此（讨论见 Klein 1980）。即便设定对程度的量化，仍有进一步问题：自然语言是否有指称程度的代词对应物？若有，便可论证自然语言承诺了程度的存在。要紧的是，这场争论在逻辑上独立于时间与世界指称代词之争，因为人们可以一致地相信一个域有代词而另一个域没有。此问题须重新提出，手语在此同样带来重要洞见。
   - id: 68
     kind: body
     source: |-
       Degree-denoting pronouns exist in some constructions of Italian Sign Language (LIS; Aristodemo 2017)[^aristodemo-2017]. In (12), the movement of the sign *TALL* ends at a particular location on the vertical axis (which we call α, to avoid confusion with the Latin characters used for individual loci in the horizontal plane), which intuitively represents Gianni’s degree of height. In the second sentence, the pronoun points towards this degree-denoting locus, and the rest of the sentence characterizes this degree of height.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      指称程度的代词存在于意大利手语的某些构造中（LIS；Aristodemo 2017）。在 (12) 中，手势 *TALL* 的移动终止于竖直轴上的某一位置（我们称之为 α，以免与用于水平面上个体位点的拉丁字母混淆），直觉上它代表 Gianni 的身高程度。第二句中，代词指向这个指称程度的位点，句子其余部分则刻画这一身高程度。
+    step2: |-
+      指称程度的代词见于意大利手语（LIS）的某些构造（Aristodemo 2017）。在 (12) 中，手势 *TALL* 的移动终止于竖直轴上的某一位置（记作 α，以免与水平面上个体位点所用的拉丁字母混淆），直觉上代表 Gianni 的身高程度。第二句中，代词指向这一程度位点，其余部分则刻画该身高程度。
   - id: 69
     kind: body
     source: |-
       **(12)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(12)**
+    step2: |-
+      **(12)**
   - id: 70
     kind: body
     source: |-
       GIANNI TALL$_{\alpha}$. IX-$\alpha$ 1 METER 70 ‘Gianni is tall. His height is 1.70 meters.’ (Aristodemo 2017: example 2.23)[^aristodemo-2017]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      GIANNI TALL$_{\alpha}$. IX-$\alpha$ 1 METER 70 ‘Gianni 个子高。他的身高是 1.70 米。’（Aristodemo 2017: example 2.23）
+    step2: |-
+      GIANNI TALL$_{\alpha}$. IX-$\alpha$ 1 METER 70 ‘Gianni 个子高。他的身高是 1.70 米。’（Aristodemo 2017: example 2.23）
   - id: 71
     kind: body
     source: |-
       More complicated examples can be constructed in which *Ann is taller than Bill* makes available two degree-denoting loci, one corresponding to Ann’s height and the other to Bill’s.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      可以构造更复杂的例子，使 *Ann is taller than Bill* 提供两个指称程度的位点，一个对应 Ann 的身高，另一个对应 Bill 的身高。
+    step2: |-
+      可以构造更复杂的例子，使 *Ann is taller than Bill* 提供两个程度位点，一个对应 Ann 的身高，一个对应 Bill 的身高。
   - id: 72
     kind: body
     source: |-
       In sum, some constructions of LIS provide evidence for the existence of degree-denoting pronouns in sign language, which in turn suggests that natural language is sometimes committed to the existence of degrees. And if one grants that loci are the realization of variables, one obtains the further conclusion that natural language has at least some degree-denoting variables. (It is a separate question whether all languages *avail* themselves of degree variables; see Beck et al. 2009 for the hypothesis that this is a parameter of semantic variation.)[^beck-2009]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      总之，LIS 的某些构造为手语中存在指称程度的代词提供了证据，这反过来提示自然语言有时承诺程度的存在。若再承认位点是变量的实现，便可进一步得出结论：自然语言至少有一些指称程度的变量。（是否所有语言都*利用*程度变量，是另一个问题；关于这构成语义变异的一个参数这一假设，见 Beck et al. 2009。）
+    step2: |-
+      总之，LIS 的某些构造为手语中程度代词的存在提供了证据，进而提示自然语言有时承诺程度的存在。若再承认位点是变量的实现，便可进一步得出：自然语言至少有一些程度变量。（是否所有语言都*利用*程度变量是另一个问题；关于这构成语义变异的一个参数这一假设，见 Beck et al. 2009。）
   - id: 73
     kind: body
     source: |-
       Finally, we observe that, unlike the examples of individual-denoting pronouns seen so far, the placement of degree pronouns along a particular axis is semantically interpreted, reflecting the total ordering of their denotations: not only are degrees visibly realized, but so is their ordering (see also Section 1.3 regarding the ordering on temporal loci on timelines in Chinese Sign Language, and Section 3.4 for a discussion of a structural iconicity).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后我们注意到，与迄今所见指称个体的代词例子不同，程度代词沿特定轴的安置具有语义解释，反映其指称对象的总序：不仅程度被可见地实现，其排序亦然（另见 1.3 节关于中国手语时间线上时间位点的排序，以及 3.4 节关于结构象似性的讨论）。
+    step2: |-
+      最后我们注意到，与迄今所见个体代词不同，程度代词沿特定轴的安置具有语义解释，反映其指称对象的总序：不仅程度可见地实现，其排序亦然（另见 1.3 节关于中国手语时间线上时间位点排序的讨论，以及 3.4 节关于结构象似性的讨论）。
   - id: 74
     kind: body
     source: |-
       In sum, loci have been argued to be the overt realization of individual, time, world, and degree variables. If one grants this point, it follows that sign language is ontologically committed to these object types. But the debate is still ongoing, with alternatives that take loci to be similar to features rather than to variables. Let us add that the loci-as-variable analysis has offered a new argument in favor of dynamic semantics, where a variable can depend on a quantifier without being in its syntactic scope; see the [supplement on Dynamic Loci](sign-language-semantics.dynamic-loci.md).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      总之，有论证认为位点是个体变量、时间变量、世界变量与程度变量的显性实现。若承认这一点，则手语在本体论上承诺了这些对象类型。但争论仍在继续，另有立场把位点视为类似特征而非变量。还要补充：位点即变量的分析为动态语义学提供了新论证，其中变量可以依赖量词而不在其句法辖域内；见[动态位点补充材料](sign-language-semantics.dynamic-loci.md)。
+    step2: |-
+      总之，有论证认为位点是个体变量、时间变量、世界变量与程度变量的显性实现。若承认这一点，手语便在本体论上承诺了这些对象类型。但争论仍在继续，另有立场把位点视为类似特征而非变量。还需补充：位点即变量的分析为动态语义学提供了新论证，其中变量可以依赖量词而不在其句法辖域内；见[动态位点补充材料](sign-language-semantics.dynamic-loci.md)。
   - id: 75
     kind: body
     source: |-
       ## 2. Logical Visibility II: Beyond Loci
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 逻辑可见性 II：位点之外
+    step2: |-
+      ## 2 逻辑可见性 II：位点之外
   - id: 76
     kind: body
     source: |-
       There are further cases in which sign language arguably makes visible some components of Logical Forms that are not always overt in spoken language.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      还有更多案例，手语可以说使逻辑形式的某些在口语中并不总是显性的成分变得可见。
+    step2: |-
+      还有更多案例表明，手语可使逻辑形式中某些在口语里并不总是显性的成分变得可见。
   - id: 77
     kind: body
     source: |-
       ### 2.1 Telicity
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.1 终结性
+    step2: |-
+      ### 2.1 终结性
   - id: 78
     kind: body
     source: |-
       Semanticists traditionally classify event descriptions as *telic* if they apply to events that have a natural endpoint determined by that description, and they call them *atelic* otherwise. *Ann arrived* and *Mary understood* have such a natural endpoint, e.g., the point at which Ann reached her destination, and that at which Mary saw the light, so to speak: *arrive* and *understand* are telic. By contrast, *Ann waited* and *Mary thought* lack such natural endpoints: *wait* and *think* are atelic. As a standard test (e.g., Rothstein 2004)[^rothstein-2004], a temporal modifier of the form *in X time* modifies telic VPs while *for X time* modifies atelic VPs (e.g., *Ann arrived in five minutes* vs. *Ann waited for five minutes*, *Mary understood in a second* vs. *Mary thought for a second*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      语义学传统上把事件描述分为*终结性*（telic）：若其适用于具有由该描述所决定的自然终点的事件；否则称为*非终结性*（atelic）。*Ann arrived* 与 *Mary understood* 有这种自然终点，例如 Ann 到达目的地的时点、Mary 恍然大悟的时点：*arrive* 与 *understand* 是终结性的。相反，*Ann waited* 与 *Mary thought* 缺少这种自然终点：*wait* 与 *think* 是非终结性的。作为标准测试（如 Rothstein 2004），*in X time* 形式的时间修饰语修饰终结性 VP，而 *for X time* 修饰非终结性 VP（如 *Ann arrived in five minutes* 对 *Ann waited for five minutes*，*Mary understood in a second* 对 *Mary thought for a second*）。
+    step2: |-
+      语义学传统上把事件描述分为*终结性*（telic）：若其适用于具有由该描述所决定的自然终点的事件；否则称为*非终结性*（atelic）。*Ann arrived* 与 *Mary understood* 有这种自然终点，即 Ann 到达目的地的时点、Mary 恍然大悟的时点：*arrive* 与 *understand* 是终结性的。相反，*Ann waited* 与 *Mary thought* 缺少此类终点：*wait* 与 *think* 是非终结性的。标准测试是（如 Rothstein 2004）：*in X time* 形式的时间修饰语修饰终结性 VP，*for X time* 则修饰非终结性 VP（如 *Ann arrived in five minutes* 对 *Ann waited for five minutes*，*Mary understood in a second* 对 *Mary thought for a second*）。
   - id: 79
     kind: body
     source: |-
       Telicity is a property of predicates (i.e., verbs complete with arguments and modifiers), not of verbs themselves. Whether a predicate is telic or atelic may thus result from a variety of different factors; these include adverbial modifiers that explicitly identify an endpoint—*run 10 kilometers (in an hour)* is telic, but *run back and forth (for an hour)* is atelic—and properties of the nominal arguments—*eat an apple (in two minutes)* is telic whereas *eat lentil soup (for two minutes)* is atelic. But telicity also depends on properties of the lexical semantics of the verb itself, as illustrated by the intransitive verbs above, as well as transitive examples like *found a solution (in an hour)* versus *look for a solution (for an hour)*. In work on spoken language, some theorists have posited that these lexical factors can be explained by a morphological decomposition of the verb, and that inherently telic verbs like *arrive* or *find* include a morpheme that specifies the endstate resulting from a process (Pustejovsky 1991; Ramchand 2008)[^pustejovsky-1991][^ramchand-2008]. This morpheme has been called various things in the literature, including ‘EndState’ (Wilbur 2003)[^wilbur-2003] and ‘Res’ (Ramchand 2008)[^ramchand-2008].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      终结性是谓语（即动词连同论元与修饰语）的性质，而非动词本身的性质。因此，一个谓语是终结性还是非终结性，可能由多种不同因素造成；其中包括明确标出终点的状语修饰语（*run 10 kilometers (in an hour)* 是终结性的，而 *run back and forth (for an hour)* 是非终结性的），以及名词论元的性质（*eat an apple (in two minutes)* 是终结性的，而 *eat lentil soup (for two minutes)* 是非终结性的）。但终结性也取决于动词本身词汇语义的性质，如上文的不及物动词所示，也如 *found a solution (in an hour)* 对 *look for a solution (for an hour)* 这类及物例子所示。在口语研究中，一些理论家设定：这些词汇因素可以由动词的形态分解来解释，而 *arrive* 或 *find* 这类固有终结性动词包含一个词素，用来指定过程所致的结果状态（Pustejovsky 1991; Ramchand 2008）。这个词素在文献中有不同名称，包括‘EndState’（Wilbur 2003）与‘Res’（Ramchand 2008）。
+    step2: |-
+      终结性是谓语（动词连同论元与修饰语）的性质，而非动词本身的性质。一个谓语是终结性还是非终结性，可能缘于多种因素：明确标出终点的状语修饰语（*run 10 kilometers (in an hour)* 是终结性的，*run back and forth (for an hour)* 是非终结性的），名词论元的性质（*eat an apple (in two minutes)* 是终结性的，*eat lentil soup (for two minutes)* 是非终结性的），以及动词本身词汇语义的性质，如上文不及物动词所示，也如 *found a solution (in an hour)* 对 *look for a solution (for an hour)* 这类及物例子所示。在口语研究中，一些理论家设定：这些词汇因素可由动词的形态分解来解释，*arrive* 或 *find* 这类固有终结性动词包含一个词素，用以指定过程所致的结果状态（Pustejovsky 1991; Ramchand 2008）。此词素在文献中名称不一，包括‘EndState’（Wilbur 2003）与‘Res’（Ramchand 2008）。
   - id: 80
     kind: body
     source: |-
       In influential work, Wilbur (2003, 2008; Wilbur & Malaia 2008)[^wilbur-2008][^wilbur-2008-2] has argued that the lexical factors related to telicity are often realized overtly in the phonology of several sign languages: inherently telic verbs tend to be realized with sharp sign boundaries; inherently atelic verbs are realized without them (Wilbur 2003, 2008; Wilbur & Malaia 2008)[^wilbur-2003][^wilbur-2008][^wilbur-2008-2]. For instance, the ASL sign *ARRIVE* involves a sharp deceleration, as one hand makes contact with the other, as shown in (13).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在有影响的研究中，Wilbur（2003, 2008; Wilbur & Malaia 2008）论证：与终结性相关的词汇因素，常在若干手语的音系中显性实现：固有终结性动词倾向于以鲜明的手势边界实现；固有非终结性动词则没有这种边界（Wilbur 2003, 2008; Wilbur & Malaia 2008）。例如，ASL 手势 *ARRIVE* 包含一次鲜明的减速，即一只手与另一只手接触，如 (13) 所示。
+    step2: |-
+      在有影响的研究中，Wilbur（2003, 2008; Wilbur & Malaia 2008）论证：与终结性相关的词汇因素，常在若干手语的音系中显性实现：固有终结性动词倾向于以鲜明的手势边界实现，固有非终结性动词则没有这种边界（Wilbur 2003, 2008; Wilbur & Malaia 2008）。例如 ASL 手势 *ARRIVE* 包含一次鲜明减速，一只手与另一只手接触，如 (13) 所示。
   - id: 81
     kind: body
     source: |-
       **(13)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(13)**
+    step2: |-
+      **(13)**
   - id: 82
     kind: body
     source: |-
       ARRIVE in ASL (telic) ![Drawing of a human with the open left hand is at the front lower chest with palm upwards. The open right hand is nearer the right should, palm facing towards the signer. An arrow indicates that the second hand moves down to the front lower chest where it stops when meeting the second hand.](../assets/sign-language-semantics/image006-crop.png) [Short video clip of ARRIVE (ASL), no audio ](https://www.signingsavvy.com/sign/ARRIVE/12/1) *Picture credits:* Valli, Clayton: 2005, *The Gallaudet Dictionary of American Sign Language*, Gallaudet University Press.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ASL 中的 ARRIVE（终结性）![图示：左手张开置于胸前下方，掌心向上；右手张开，靠近右肩，掌心朝向手语者。箭头表示右手向下移动到胸前下方，与左手相遇时停止。](../yuanwen/assets/sign-language-semantics/image006-crop.png) [ARRIVE（ASL）短视频，无音频](https://www.signingsavvy.com/sign/ARRIVE/12/1) *图片来源：* Valli, Clayton: 2005, *The Gallaudet Dictionary of American Sign Language*, Gallaudet University Press.
+    step2: |-
+      ASL 中的 ARRIVE（终结性）![图示：左手张开置于胸前下方，掌心向上；右手张开，靠近右肩，掌心朝向手语者。箭头表示右手向下移动到胸前下方，与左手相遇时停止。](../yuanwen/assets/sign-language-semantics/image006-crop.png) [ARRIVE（ASL）短视频，无音频](https://www.signingsavvy.com/sign/ARRIVE/12/1) *图片来源：* Valli, Clayton: 2005, *The Gallaudet Dictionary of American Sign Language*, Gallaudet University Press.
   - id: 83
     kind: body
     source: |-
       In contrast, *WAIT* is realized with a trilled movement of the fingers and optional circular movement of the hands, without a sharp boundary:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      相反，*WAIT* 以手指的颤动动作、手部可选的圆周运动实现，没有鲜明边界：
+    step2: |-
+      相反，*WAIT* 以手指颤动、手部可选的圆周运动实现，没有鲜明边界：
   - id: 84
     kind: body
     source: |-
       **(14)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(14)**
+    step2: |-
+      **(14)**
   - id: 85
     kind: body
     source: |-
       WAIT in ASL (atelic) ![both hands are open and in front of the upper chest, not touching, palms facing towards the signer and a symbol indicating the hand are moving ](../assets/sign-language-semantics/image007-crop.png) [Short video clip of WAIT (ASL), no audio](https://www.signingsavvy.com/sign/wait/463/4) *Picture credits:* Valli, Clayton: 2005, *The Gallaudet Dictionary of American Sign Language*, Gallaudet University Press.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ASL 中的 WAIT（非终结性）![双手张开置于上胸前，互不接触，掌心朝向手语者，并有一个表示手在移动的符号](../yuanwen/assets/sign-language-semantics/image007-crop.png) [WAIT（ASL）短视频，无音频](https://www.signingsavvy.com/sign/wait/463/4) *图片来源：* Valli, Clayton: 2005, *The Gallaudet Dictionary of American Sign Language*, Gallaudet University Press.
+    step2: |-
+      ASL 中的 WAIT（非终结性）![双手张开置于上胸前，互不接触，掌心朝向手语者，并有一个表示手在移动的符号](../yuanwen/assets/sign-language-semantics/image007-crop.png) [WAIT（ASL）短视频，无音频](https://www.signingsavvy.com/sign/wait/463/4) *图片来源：* Valli, Clayton: 2005, *The Gallaudet Dictionary of American Sign Language*, Gallaudet University Press.
   - id: 86
     kind: body
     source: |-
       Similarly, in LSF *UNDERSTAND*, which is telic, is realized with three fingers forming a tripod that ends up closing on the forehead; the closure is realized quickly, and thus displays a sharp boundary. By contrast, *REFLECT,* which is atelic, is realized by the repeated movement of the curved index finger towards the temple, without sharp boundaries.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      类似地，LSF 的 *UNDERSTAND*（终结性）以三指构成三脚架、最终在额头上合拢的方式实现；合拢动作很快，因而呈现鲜明边界。相反，*REFLECT*（非终结性）以弯曲食指反复移向太阳穴的方式实现，没有鲜明边界。
+    step2: |-
+      类似地，LSF 的 *UNDERSTAND*（终结性）以三指构成三脚架、最终在额头上合拢的方式实现；合拢很快，故有鲜明边界。相反，*REFLECT*（非终结性）以弯曲食指反复移向太阳穴的方式实现，没有鲜明边界。
   - id: 87
     kind: body
     source: |-
       **(15)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(15)**
+    step2: |-
+      **(15)**
   - id: 88
     kind: body
     source: |-
       a. UNDERSTAND (LSF) ![COMPRENDRE (UNDERSTAND): thumb and first two fingers apart then touch tips as they touch the forehead](../assets/sign-language-semantics/image008-crop.png) [Short video clip of UNDERSTAND (LSF), no audio](https://www.elix-lsf.fr/spip.php?page=signes&id_article=146439&lang=fr)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      a. UNDERSTAND（LSF）![COMPRENDRE（UNDERSTAND）：拇指与食指、中指先分开，后指尖相触，同时触及额头](../yuanwen/assets/sign-language-semantics/image008-crop.png) [UNDERSTAND（LSF）短视频，无音频](https://www.elix-lsf.fr/spip.php?page=signes&id_article=146439&lang=fr)
+    step2: |-
+      a. UNDERSTAND（LSF）![COMPRENDRE（UNDERSTAND）：拇指与食指、中指先分开，后指尖相触，同时触及额头](../yuanwen/assets/sign-language-semantics/image008-crop.png) [UNDERSTAND（LSF）短视频，无音频](https://www.elix-lsf.fr/spip.php?page=signes&id_article=146439&lang=fr)
   - id: 89
     kind: body
     source: |-
       **b.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **b.**
+    step2: |-
+      **b.**
   - id: 90
     kind: body
     source: |-
       REFLECT (LSF) ![REFLÉCHIR (REFLECT): curved index finger touches the forehead ](../assets/sign-language-semantics/image009-crop.png) [Short video clip of REFLECT (LSF), no audio](https://www.elix-lsf.fr/spip.php?page=signes&id_article=206984&lang=fr)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      REFLECT（LSF）![REFLÉCHIR（REFLECT）：弯曲食指触及额头](../yuanwen/assets/sign-language-semantics/image009-crop.png) [REFLECT（LSF）短视频，无音频](https://www.elix-lsf.fr/spip.php?page=signes&id_article=206984&lang=fr)
+    step2: |-
+      REFLECT（LSF）![REFLÉCHIR（REFLECT）：弯曲食指触及额头](../yuanwen/assets/sign-language-semantics/image009-crop.png) [REFLECT（LSF）短视频，无音频](https://www.elix-lsf.fr/spip.php?page=signes&id_article=206984&lang=fr)
   - id: 91
     kind: body
     source: |-
       Wilbur (2008) posits that in ASL and other sign languages, this phonological cue, the “rapid deceleration of the movement to a complete stop”, is an overt manifestation of the morpheme EndState, yielding inherently telic lexical predicates. If Wilbur’s analysis is correct, this is another possible instance of visibility of an abstract component of Logical Forms that is not usually overt in spoken languages. An alternative is that an abstract version of iconicity is responsible for this observation (Kuhn 2015)[^kuhn-2015], as we will see in Section 3.2.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Wilbur (2008) 设定：在 ASL 及其他手语中，这一音系线索，即“动作迅速减速至完全停止”，是词素 EndState 的显性表现，产生固有终结性的词汇谓语。若 Wilbur 的分析正确，这又是一个可能的实例：逻辑形式的抽象成分在口语中通常不显性，而在手语中可见。另一种可能是，象似性的一种抽象版本解释了这一观察（Kuhn 2015），我们将在 3.2 节看到。
+    step2: |-
+      Wilbur (2008) 设定：在 ASL 等手语中，这一音系线索（“动作迅速减速至完全停止”）是词素 EndState 的显性表现，产生固有终结性的词汇谓语。若 Wilbur 分析正确，这又是一个可能实例：逻辑形式的抽象成分在口语中通常不显性，却在手语中可见。另一种可能是，象似性的一种抽象版本解释了这一观察（Kuhn 2015），详见 3.2 节。
   - id: 92
     kind: body
     source: |-
       It is also possible that the analysis of this phonological cue varies across languages. Of note, both ASL and LSF have exceptions to the generalization (Davidson et al. 2019)[^davidson-2019], for example ASL *SLEEP* is atelic but ends with deceleration and contact between the fingers; LSF *RESIDE* is similarly atelic but ends with deceleration and contact. In contrast, in Croatian Sign Language (HZJ), endmarking appears to be a regular morphological process, allowing a verb stem to alternate between an end-marked and non-endmarked form (Milković 2011)[^milković-2011].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一音系线索的分析也可能因语言而异。值得注意的是，ASL 与 LSF 都有该概括的反例（Davidson et al. 2019），例如 ASL 的 *SLEEP* 是非终结性的，却以减速与手指接触结尾；LSF 的 *RESIDE* 同样是非终结性的，也以减速与接触结尾。相反，在克罗地亚手语（HZJ）中，终结标记似乎是规则的形态过程，允许动词词干在有终结标记与无终结标记的形式之间交替（Milković 2011）。
+    step2: |-
+      这一音系线索的分析也可能因语言而异。值得注意的是，ASL 与 LSF 都有该概括的反例（Davidson et al. 2019）：ASL 的 *SLEEP* 是非终结性的，却以减速与手指接触结尾；LSF 的 *RESIDE* 同样非终结性，也以减速与接触结尾。相反，在克罗地亚手语（HZJ）中，终结标记似乎是规则的形态过程，动词词干可在有终结标记与无终结标记的形式之间交替（Milković 2011）。
   - id: 93
     kind: body
     source: |-
       ### 2.2 Context shift
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2 语境移位
+    step2: |-
+      ### 2.2 语境移位
   - id: 94
     kind: body
     source: |-
       In the classic analysis of indexicals developed by Kaplan (1989), the value of an indexical (words like *I*, *here*, and *now*) is determined by a context parameter that crucially doesn’t interact with time and world operators (in other words, the context parameter is not shiftable). The empirical force of this idea can be illustrated by the distinction between *I*, an indexical, and *the person speaking*, which is indexical-free. *The speaker is always late* may, on one reading, refer to different speakers in different situations because *speaker* can be evaluated relative to a time quantified by *always*. Similarly, *The speaker must be late* can be uttered even if one has no idea who the speaker is supposed to be; this is because *speaker* can be evaluated relative to a world quantified by *must*. By contrast, *I am always late* and *I must be late* disallow such a dependency because *I* is dependent on the context parameter alone, not on time and world quantification. This analysis raises a question: are there any operators that can manipulate the context of evaluation of indexicals? While such operators can be defined for a formal language, Kaplan famously argued that they do not exist in natural language and called them, for this reason, ‘monsters’.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 Kaplan (1989) 提出的经典指示词分析中，指示词（*I*、*here*、*now* 这类词）的值由语境参数决定，而语境参数关键地不与时间算子与世界算子互动（换言之，语境参数不可移位）。这一观念的经验力量可由 *I*（一个指示词）与 *the person speaking*（不含指示词）之间的区分来说明。*The speaker is always late* 在一种读法上可以指不同情境中的不同说话者，因为 *speaker* 可以相对于 *always* 所量化的时间得到求值。类似地，即使人们完全不知道说话者应该是谁，也可以说出 *The speaker must be late*；这是因为 *speaker* 可以相对于 *must* 所量化的世界得到求值。相反，*I am always late* 与 *I must be late* 不允许这种依赖，因为 *I* 只依赖语境参数，不依赖时间量化与世界量化。这一分析提出一个问题：是否存在能够操纵指示词求值语境的算子？虽然这种算子可以为形式语言定义，Kaplan 却著名地论证自然语言中不存在，并因此称之为“怪物”（monsters）。
+    step2: |-
+      在 Kaplan (1989) 的经典指示词分析中，指示词（*I*、*here*、*now* 一类词）的值由语境参数决定，而语境参数关键地不与时间算子、世界算子互动（换言之，语境参数不可移位）。这一观念的经验力量可由 *I*（指示词）与 *the person speaking*（不含指示词）之别说明。*The speaker is always late* 在一种读法上可指不同情境中的不同说话者，因为 *speaker* 可相对于 *always* 量化的时间求值。类似地，即使完全不知说话者是谁，也可说出 *The speaker must be late*；这是因为 *speaker* 可相对于 *must* 量化的世界求值。相反，*I am always late* 与 *I must be late* 不允许这种依赖，因为 *I* 只依赖语境参数，不依赖时间量化与世界量化。此分析引出一个问题：是否存在能操纵指示词求值语境的算子？这种算子虽可为形式语言定义，Kaplan 却著名地论证自然语言中并无此类算子，并因此称之为“怪物”（monsters）。
   - id: 95
     kind: body
     source: |-
       Against this claim, an operator of ‘context shift’ (a Kaplanian monster) has been argued to exist in several spoken languages (including Amharic and Zazaki). The key observation was that some indexicals can be shifted in the scope of some attitude verbs, and in the absence of quotation (e.g., Anand & Nevins 2004; Anand 2006; Deal 2020)[^anand-2004][^anand-2006][^deal-2020]. Schematically, in such languages, *Ann says that I am a hero* can mean that Ann says that she herself is a hero, with *I* interpreted from Ann’s perspective. Several researchers have argued that context shift can be overt in sign language, and realized by an operation called ‘Role Shift’, whereby the signer rotates her body to adopt the perspective of another character (Quer 2005, 2013; Schlenker 2018a)[^quer-2005][^schlenker-2018a].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      针对这一主张，有论证认为“语境移位”算子（一种 Kaplan 式怪物）存在于若干口语中（包括阿姆哈拉语与扎扎其语）。关键观察是：某些指示词可以在某些态度动词的辖域内、且在没有引号的情况下发生移位（如 Anand & Nevins 2004; Anand 2006; Deal 2020）。示意地说，在这类语言中，*Ann says that I am a hero* 可以表示 Ann 说她自己是个英雄，其中 *I* 从 Ann 的视角解释。若干研究者论证，语境移位在手语中可以是显性的，并由一种称为“角色转换”（Role Shift）的操作实现：手语者转动身体，采取另一人物的视角（Quer 2005, 2013; Schlenker 2018a）。
+    step2: |-
+      针对此主张，有论证认为“语境移位”算子（一种 Kaplan 式怪物）存在于若干口语中（包括阿姆哈拉语与扎扎其语）。关键观察是：某些指示词可在某些态度动词辖域内、且无引号的情况下发生移位（如 Anand & Nevins 2004; Anand 2006; Deal 2020）。示意地说，在这类语言中，*Ann says that I am a hero* 可表示 Ann 说她自己是个英雄，其中 *I* 从 Ann 的视角解释。若干研究者论证，语境移位在手语中可以是显性的，并由称为“角色转换”（Role Shift）的操作实现：手语者转动身体，采取另一人物的视角（Quer 2005, 2013; Schlenker 2018a）。
   - id: 96
     kind: body
     source: |-
       A simple example involves the sentence WIFE SAY **IX-2 FINE**, where the boldfaced words are signed from the rotated position, illustrated below. As a result, the rest of the sentence is interpreted from the wife’s perspective, with the consequence that the second person pronoun *IX-2* refers to whoever the wife is talking to, and not the addressee of the signer.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个简单的例子涉及句子 WIFE SAY **IX-2 FINE**，其中粗体词从转动后的位置打出，如下图所示。其结果是，句子其余部分从妻子的视角解释，因此第二人称代词 *IX-2* 指妻子正在交谈的对象，而非手语者的受话者。
+    step2: |-
+      一个简单例子涉及句子 WIFE SAY **IX-2 FINE**，其中粗体词从转动后的位置打出，如下图所示。句子其余部分由此从妻子的视角解释，第二人称代词 *IX-2* 因而指妻子正在交谈的对象，而非手语者的受话者。
   - id: 97
     kind: body
     source: |-
       **(16)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(16)**
+    step2: |-
+      **(16)**
   - id: 98
     kind: body
     source: |-
       An example of Role Shift in ASL (*Credits:* Lillo-Martin 2012)[^lillo-martin-2012] ![four pictures of the signer. The first two for 'WIFE SAY' looking one way then rotating to look another way to sign the last two 'IX-2 FINE'](../assets/sign-language-semantics/image011.jpg) WIFE SAY **IX-2 FINE**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ASL 中角色转换的一个例子（*图片来源：* Lillo-Martin 2012）![手语者的四幅图。前两幅表现 ‘WIFE SAY’，先朝一个方向看，然后转向另一方向，打出后两幅 ‘IX-2 FINE’](../yuanwen/assets/sign-language-semantics/image011.jpg) WIFE SAY **IX-2 FINE**
+    step2: |-
+      ASL 中角色转换的一个例子（*图片来源：* Lillo-Martin 2012）![手语者的四幅图。前两幅表现 ‘WIFE SAY’，先朝一个方向看，然后转向另一方向，打出后两幅 ‘IX-2 FINE’](../yuanwen/assets/sign-language-semantics/image011.jpg) WIFE SAY **IX-2 FINE**
   - id: 99
     kind: body
     source: |-
       Role Shift exists in several languages, and in some cases (notably in Catalan and German sign languages [Quer 2005; Herrmann & Steinbach 2012])[^herrmann-2012][^quer-2005], it has been argued not to involve mere quotation. On the context-shifting analysis of Role Shift (e.g., Quer 2005, 2013)[^quer-2005], the point at which the signer rotates her body corresponds to the insertion of a context-shifting operator C, yielding the representation: WIFE SAY C [**IX-2 FINE**]. The boldfaced words are signed in rotated position and are taken to be interpreted in the scope of C.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      角色转换存在于若干语言中，在某些情形下（尤其是加泰罗尼亚手语与德国手语 [Quer 2005; Herrmann & Steinbach 2012]），有论证认为它并不只是引用。按角色转换的语境移位分析（如 Quer 2005, 2013），手语者转动身体的时点对应语境移位算子 C 的插入，得到表示：WIFE SAY C [**IX-2 FINE**]。粗体词以转动后的位置打出，并被解释为处于 C 的辖域内。
+    step2: |-
+      角色转换存在于若干语言中，在某些情形下（尤其是加泰罗尼亚手语与德国手语 [Quer 2005; Herrmann & Steinbach 2012]），有论证认为它并不只是引用。按角色转换的语境移位分析（如 Quer 2005, 2013），手语者转动身体的时点对应语境移位算子 C 的插入，得到表示：WIFE SAY C [**IX-2 FINE**]。粗体词以转动后的位置打出，解释为处于 C 的辖域内。
   - id: 100
     kind: body
     source: |-
       Interestingly, Role Shift differs from context-shifting operations described in speech in that it can be used outside of attitude reports (to distinguish the two cases, researchers use the term ‘Attitude Role Shift’ for the case we discussed before, and ‘Action Role Shift’ for the non-attitudinal case). For example, if one is talking about an angry man who has been established at locus *a*, one can use an English-strategy and say *IX-a WALK-AWAY* to mean that he walked away. But an alternative possibility is to apply Role Shift after the initial pointing sign, and say the following (with the operator *C* realized by the signer’s rotation):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有趣的是，角色转换与口语中描述的语境移位操作不同：它可以用在态度报道之外（为区分两种情形，研究者把前面讨论的情形称为“态度角色转换”，把非态度情形称为“行动角色转换”）。例如，若正在谈论一个已设立在位点 *a* 的愤怒男子，人们可以采用英语策略说 *IX-a WALK-AWAY*，表示他走开了。但另一种可能是，在起始指点手势之后应用角色转换，说出下句（算子 *C* 由手语者转动身体实现）：
+    step2: |-
+      有趣的是，角色转换与口语所述语境移位操作不同：它可用于态度报道之外（为区分两种情形，研究者把前述情形称为“态度角色转换”，把非态度情形称为“行动角色转换”）。例如，若正在谈论一个已设立在位点 *a* 的愤怒男子，可采用英语策略说 *IX-a WALK-AWAY*，表示他走开了。另一种可能是在起始指点手势之后应用角色转换，说出下句（算子 *C* 由手语者转动身体实现）：
   - id: 101
     kind: body
     source: |-
       **(17)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(17)**
+    step2: |-
+      **(17)**
   - id: 102
     kind: body
     source: |-
       IX-*a* C [**1-WALK-AWAY**].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      IX-*a* C [**1-WALK-AWAY**].
+    step2: |-
+      IX-*a* C [**1-WALK-AWAY**].
   - id: 103
     kind: body
     source: |-
       Here *1-WALK-AWAY* is a first person version of ‘walk away’, but the overall meaning is just that the angry person associated with locus *a* walked away. By performing a body shift and adopting that person’s position to sign *1-WALK-AWAY*, the signer arguably makes the description more vivid.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里 *1-WALK-AWAY* 是“walk away”的第一人称版本，但整体意义只是：与位点 *a* 关联的愤怒男子走开了。通过转动身体、采取那个人的位置来打出 *1-WALK-AWAY*，手语者可以说使描述更生动。
+    step2: |-
+      这里 *1-WALK-AWAY* 是“walk away”的第一人称版本，整体意义却只是：与位点 *a* 关联的愤怒男子走开了。通过转动身体、采取那个人的位置来打出 *1-WALK-AWAY*，手语者可使描述更生动。
   - id: 104
     kind: body
     source: |-
       Importantly, in ASL and LSF, Role Shift interacts with iconicity. Attitude Role Shift has, at a minimum, a strong quotational component. For instance, angry facial expressions under Role Shift must be attributed to the attitude holder, not to the signer (Schlenker 2018a)[^schlenker-2018a]. This observation extends to ASL and LSF Action Role Shift: disgusted facial expressions under Action Role Shift are attributed to the agent rather than to the signer.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      重要的是，在 ASL 与 LSF 中，角色转换与象似性互动。态度角色转换至少有一个很强的引用成分。例如，角色转换下的愤怒面部表情必须归于态度持有者，而非手语者（Schlenker 2018a）。这一观察延伸到 ASL 与 LSF 的行动角色转换：行动角色转换下的厌恶面部表情归于施事，而非手语者。
+    step2: |-
+      重要的是，在 ASL 与 LSF 中，角色转换与象似性互动。态度角色转换至少有一个很强的引用成分。例如，角色转换下的愤怒面部表情必须归于态度持有者，而非手语者（Schlenker 2018a）。这一观察同样适用于 ASL 与 LSF 的行动角色转换：行动角色转换下的厌恶表情归于施事，而非手语者。
   - id: 105
     kind: body
     source: |-
       As in other cases of purported Logical Visibility, the claim that Role Shift is the visible reflex of an operation that is covert in speech has been challenged. In the analysis of Davidson (2015, following Supalla 1982)[^supalla-1982], Role Shift falls under the category of classifier predicates, specific constructions of sign language that are interpreted in a highly iconic fashion (we discuss them in Section 4). What is special about Role Shift is that the classifier is not signed with a hand (as other classifiers are), but with the signer’s own body. The iconic nature of this classifier means that properties of role-shifted expressions that can be iconically assigned to the described situation must be. For Attitude Role Shift, the analysis essentially derives a quotational reading via a demonstration—for our example above, something like: *My wife said this, “You are fine”*. Cases of Attitude Role Shift that have been argued not to involve standard quotation ( in Catalan and German sign language) require refinements of the analysis. For Action Role Shift, the operation has the effect of demonstrating those parts of signs that are not conventional, yielding in essence: *He walked away like this,* where *this* refers to all iconically interpretable components of the role-shifted construction (including the signer’s angry expression, if applicable).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如其他所谓的逻辑可见性案例，“角色转换是口语中隐性操作的可见反映”这一主张也受到挑战。按 Davidson (2015，沿 Supalla 1982) 的分析，角色转换属于类标记谓语，即手语中以高度象似方式解释的特定构造（我们在第 4 节讨论）。角色转换的特殊之处在于，类标记不是用手（如其他类标记那样）打出，而是用手语者自己的身体打出。这个类标记的象似本性意味着：角色转换表达式中那些可以象似地归属所描述情境的性质，必须如此归属。对于态度角色转换，该分析实质上通过示范导出一个引用读法；就上文例子而言，大致是：*我妻子这样说：“你没事。”* 有论证认为不涉及标准引用的态度角色转换案例（加泰罗尼亚手语与德国手语）需要对该分析作修正。对于行动角色转换，该操作的效果是示范手势中非约定的部分，实质上得到：*他这样走开了*，其中 *this* 指角色转换构造中所有可作象似解释的成分（若适用，包括手语者的愤怒表情）。
+    step2: |-
+      正如其他所谓的逻辑可见性案例，“角色转换是口语中隐性操作的可见反映”这一主张也受到挑战。按 Davidson (2015，沿 Supalla 1982) 的分析，角色转换属于类标记谓语，即手语中以高度象似方式解释的特定构造（第 4 节讨论）。角色转换的特殊之处在于，类标记不是用手（如其他类标记那样）打出，而是用手语者自己的身体打出。这个类标记的象似本性意味着：角色转换表达式中那些可以象似地归属所描述情境的性质，必须如此归属。对于态度角色转换，该分析实质上通过示范导出一个引用读法；就上文例子而言，大致是：*我妻子这样说：“你没事。”* 有论证认为不涉及标准引用的态度角色转换案例（加泰罗尼亚手语与德国手语）需要修正该分析。对于行动角色转换，该操作的效果是示范手势中非约定的部分，实质上得到：*他这样走开了*，其中 *this* 指角色转换构造中所有可作象似解释的成分（若适用，包括手语者的愤怒表情）。
   - id: 106
     kind: body
     source: |-
       Debates about Role Shift have two possible implications. On one view, Role Shift provides overt evidence for context shift, and extends the typology of Kaplanian monsters beyond spoken languages and beyond attitude operators (due to the existence of Action Role Shift alongside Attitude Role Shift). On the alternative view developed by Davidson, Role Shift suggests that some instances of quotation should be tightly connected to a broader analysis of iconicity owing to the similarity between Attitude Role Shift an Action Shift.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于角色转换的争论有两个可能的意涵。一种观点认为，角色转换为语境移位提供了显性证据，并把 Kaplan 式怪物的类型学扩展到口语之外、态度算子之外（因为行动角色转换与态度角色转换并存）。Davidson 提出的另一种观点认为，由于态度角色转换与行动角色转换的相似性，角色转换提示某些引用实例应与更广泛的象似性分析紧密联系。
+    step2: |-
+      关于角色转换的争论有两个可能意涵。一种观点认为，角色转换为语境移位提供了显性证据，并把 Kaplan 式怪物的类型学扩展到口语之外、态度算子之外（因为行动角色转换与态度角色转换并存）。Davidson 提出的另一种观点认为，由于态度角色转换与行动角色转换相似，角色转换提示某些引用实例应与更广泛的象似性分析紧密联系。
   - id: 107
     kind: body
     source: |-
       In sum, it has been argued that telicity and context shift can be overtly marked in sign language, hence instances of Logical Visibility beyond loci, but alternative accounts exist as well. Let us add that there are cases of Logical *non*-visibility, in which logical elements that are often overt in speech can be covert in sign. See the [supplement on Coordination](sign-language-semantics.coordination.md) for the case of an ASL construction ambiguous between conjunction and disjunction.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      总之，有论证认为终结性与语境移位可以在手语中显性标记，因而是位点之外的逻辑可见性实例；但也存在替代解释。还要补充：存在逻辑*不可见性*的案例，即某些在口语中常显性的逻辑成分在手语中可以是隐性的。关于 ASL 一种在合取与析取之间有歧义的构造，见[并列补充材料](sign-language-semantics.coordination.md)。
+    step2: |-
+      总之，有论证认为终结性与语境移位可在手语中显性标记，因而是位点之外的逻辑可见性实例；但也存在替代解释。还需补充：存在逻辑*不可见性*的案例，某些在口语中常显性的逻辑成分在手语中可以是隐性的。关于 ASL 一种在合取与析取之间有歧义的构造，见[并列补充材料](sign-language-semantics.coordination.md)。
   - id: 108
     kind: body
     source: |-
       ## 3. Iconicity I: Optional Iconic Modulations
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 象似性 I：可选象似调制
+    step2: |-
+      ## 3 象似性 I：可选象似调制
   - id: 109
     kind: body
     source: |-
       On a standard (Saussurean) view, language is made of discrete conventional elements, with iconic effects at the margins. Sign languages cast doubt on this view because iconicity interacts in complex and diverse ways with grammar.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按标准的（索绪尔式）观点，语言由离散的约定成分构成，象似效果只处于边缘。手语使这一观点受到质疑，因为象似性以复杂多样的方式与语法互动。
+    step2: |-
+      按标准的（索绪尔式）观点，语言由离散的约定成分构成，象似效果仅处于边缘。手语使这一观点受到质疑，因为象似性以复杂多样的方式与语法互动。
   - id: 110
     kind: body
     source: |-
       By iconicity, we mean a rule-governed way in which an expression denotes something by virtue of its resemblance to it, as is for instance the case of a photograph of a cat, or of a vocal imitation of a cat call. By contrast, the conventional word *cat* does not refer by resembling cats. There are also mixed cases in which an expression has both a conventional and an iconic component.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所谓象似性，我们指一种受规则支配的方式：表达式凭借与其指称对象的相似来指称某物，例如猫的照片，或对猫叫声的模仿。相反，约定词 *cat* 并不通过像猫来指称。也有混合情形：一个表达式同时具有约定成分与象似成分。
+    step2: |-
+      所谓象似性，我们指一种受规则支配的方式：表达式凭借与指称对象的相似来指称某物，如猫的照片，或对猫叫声的模仿。相反，约定词 *cat* 并不通过像猫来指称。也有混合情形：一个表达式同时具有约定成分与象似成分。
   - id: 111
     kind: body
     source: |-
       In this section and the next, we survey constructions that display optional or obligatory iconicity in sign, and call for the development of a formal semantics with iconicity. As we will see, some purported cases of Logical Visibility might be better analyzed as more or less abstract versions of iconicity, with the result that several phenomena discussed above can be analyzed from at least two theoretical perspectives.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本节与下一节考察手语中显示可选或强制象似性的构造，并呼吁发展带象似性的形式语义学。我们将看到，一些所谓的逻辑可见性案例，也许更适合分析为程度不等的抽象象似性；结果是，上文讨论的若干现象至少可以从两个理论视角来分析。
+    step2: |-
+      本节与下一节考察手语中显示可选或强制象似性的构造，并呼吁发展带象似性的形式语义学。我们将看到，一些所谓的逻辑可见性案例也许更适合分析为程度不等的抽象象似性；结果是，上文若干现象至少可从两个理论视角分析。
   - id: 112
     kind: body
     source: |-
       ### 3.1 Iconic modulations
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 象似调制
+    step2: |-
+      ### 3.1 象似调制
   - id: 113
     kind: body
     source: |-
       As in spoken language, it is possible to modulate some conventional words in an iconic fashion. In English, *the talk was looong* suggests that the talk wasn’t just long but *very* long. Similarly, the conventional verb *GROW* in ASL can be realized more quickly to evoke a faster growth, and with broader endpoints to suggest a larger growth, as is illustrated below (Schlenker 2018b)[^schlenker-2018b]. There are multiple potential levels of speed and endpoint breadth, which suggests that a rule is genuinely at work in this case.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与口语一样，某些约定词可以按象似方式调制。英语中 *the talk was looong* 暗示讲座不只是长，而是*很长*。类似地，ASL 的约定动词 *GROW* 可以打得更快，以唤起更快的生长；也可以打的端点更宽，以暗示更大的生长，如下图所示（Schlenker 2018b）。速度与端点宽度有多个潜在等级，这提示此处确实有一条规则在起作用。
+    step2: |-
+      与口语一样，某些约定词可按象似方式调制。英语 *the talk was loooong* 暗示讲座不只是长，而是*很长*。类似地，ASL 的约定动词 *GROW* 可打得更快，以唤起更快的生长；也可使端点更宽，以暗示更大的生长，如下图所示（Schlenker 2018b）。速度与端点宽度有多个潜在等级，提示此处确有一条规则在起作用。
   - id: 114
     kind: body
     source: |-
       **(18)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(18)**
+    step2: |-
+      **(18)**
   - id: 115
     kind: body
     source: |-
       Different iconic modulations of the sign *GROW* in ASL (*Picture credits:* M. Bonnet) **Slow movement** **Fast movement** Narrow endpoints ![two drawings of a human with the first showing their left hand clasping the clenched fist of the right in front of the upper chest region and the second with the two hands spread and separated horizontally but still in front of the chest.](../assets/sign-language-semantics/image012-crop.png) small amount, slowly small amount, quickly Medium endpoints ![two drawings of a human with the first showing their left hand clasping the clenched fist of the right in front of the upper chest region and the second with the two hands spread and separated horizontally and in front of the shoulders.](../assets/sign-language-semantics/image013-crop.png) medium amount, slowly medium amount, quickly Broad endpoints ![two drawings of a human with the first showing their left hand clasping the clenched fist of the right in front of the upper chest region and the second with the two hands spread and separated horizontally and far outside the chest region.](../assets/sign-language-semantics/image014-crop.png) large amount, slowly large amount, quickly
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ASL 手势 *GROW* 的不同象似调制（*图片来源：* M. Bonnet）**慢速动作** **快速动作** 窄端点 ![两幅人物图：第一幅左手在胸前上方握住右手握紧的拳头，第二幅双手水平张开并分开，仍在胸前。](../yuanwen/assets/sign-language-semantics/image012-crop.png) 小量，慢 小量，快 中等端点 ![两幅人物图：第一幅左手在胸前上方握住右手握紧的拳头，第二幅双手水平张开并分开，位于胸前。](../yuanwen/assets/sign-language-semantics/image013-crop.png) 中量，慢 中量，快 宽端点 ![两幅人物图：第一幅左手在胸前上方握住右手握紧的拳头，第二幅双手水平张开并分开，远在胸部区域之外。](../yuanwen/assets/sign-language-semantics/image014-crop.png) 大量，慢 大量，快
+    step2: |-
+      ASL 手势 *GROW* 的不同象似调制（*图片来源：* M. Bonnet）**慢速动作** **快速动作** 窄端点 ![两幅人物图：第一幅左手在胸前上方握住右手握紧的拳头，第二幅双手水平张开并分开，仍在胸前。](../yuanwen/assets/sign-language-semantics/image012-crop.png) 小量，慢 小量，快 中等端点 ![两幅人物图：第一幅左手在胸前上方握住右手握紧的拳头，第二幅双手水平张开并分开，位于胸前。](../yuanwen/assets/sign-language-semantics/image013-crop.png) 中量，慢 中量，快 宽端点 ![两幅人物图：第一幅左手在胸前上方握住右手握紧的拳头，第二幅双手水平张开并分开，远在胸部区域之外。](../yuanwen/assets/sign-language-semantics/image014-crop.png) 大量，慢 大量，快
   - id: 116
     kind: body
     source: |-
       In English, iconic modulations can arguably be at-issue and thus interpreted in the scope of grammatical operators. An example is the following sentence: *If the talk is loooong*, *I’ll leave before the end*. This means that if the talk is very long, I’ll leave before the end (but if it’s only moderately long, maybe not); here, the iconic contribution is interpreted in the scope of the *if-*clause, just like normal at-issue contributions. The iconic modulation of *GROW* has similarly been argued to be at-issue (Schlenker 2018b)[^schlenker-2018b]. (See Section 5.2 for further discussion on the at-issue vs. non-at-issue semantic contributions.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在英语中，有论证认为象似调制可以是断言内容（at-issue），因而在语法算子的辖域内得到解释。下句是一例：*If the talk is loooong*, *I’ll leave before the end*. 这意思是：若讲座很长，我会在结束前离开（但若只是中等长，也许不会）；这里象似贡献在 *if* 从句的辖域内得到解释，正如正常的断言内容贡献。*GROW* 的象似调制同样被论证为断言内容（Schlenker 2018b）。（关于断言内容与非断言内容语义贡献的进一步讨论，见 5.2 节。）
+    step2: |-
+      在英语中，有论证认为象似调制可以是断言内容（at-issue），因而在语法算子辖域内得到解释。下句是一例：*If the talk is loooong*, *I’ll leave before the end*. 意思是：若讲座很长，我会在结束前离开（但若只是中等长，也许不会）；此处象似贡献在 *if* 从句辖域内得到解释，正如正常的断言内容贡献。*GROW* 的象似调制同样被论证为断言内容（Schlenker 2018b）。（断言内容与非断言内容语义贡献的进一步讨论，见 5.2 节。）
   - id: 117
     kind: body
     source: |-
       While conceptually similar to iconic modulations in English, the sign language versions are arguably richer and more pervasive than their spoken language counterparts.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      虽然概念上类似英语的象似调制，手语版本可以说比其口语对应物更丰富、更普遍。
+    step2: |-
+      手语版本在概念上类似英语的象似调制，却可以说比口语对应物更丰富、更普遍。
   - id: 118
     kind: body
     source: |-
       ### 3.2 Event structure
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 事件结构
+    step2: |-
+      ### 3.2 事件结构
   - id: 119
     kind: body
     source: |-
       Iconic modulation interacts with the marking of telicity noticed by Wilbur (Section 2.1). *GROW*, discussed in the preceding sub-section, is an (atelic) degree achievement; the iconic modifications above indicate the final degree reached and the time it took to reach that degree. Similarly, for telic verbs, the speed and manner in which the phonological movement reaches its endpoint can indicate the speed and manner in which the result state is reached. For example, if LSF *UNDERSTAND* is realized slowly and then quickly, the resulting meaning is that there was a difficult beginning, and then an easier conclusion. Atelic verbs that don’t involve degrees can also be iconically modulated; for instance, if LSF *REFLECT* is signed slowly and then quickly, the resulting meaning is that the person’s reflection intensified. Here too, the iconic contribution has been argued to be at-issue (Schlenker 2018b)[^schlenker-2018b].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      象似调制与 Wilbur 注意到的终结性标记互动（2.1 节）。上一小节讨论的 *GROW* 是一个（非终结性的）程度达成动词；上述象似修改指示最终达到的程度以及达到该程度所需的时间。类似地，对于终结性动词，音系动作到达终点的速度与方式，可以指示结果状态达到的速度与方式。例如，若 LSF 的 *UNDERSTAND* 先慢后快打出，所得意义是：开头困难，随后结论较易。不涉及程度的非终结性动词也可以作象似调制；例如，若 LSF 的 *REFLECT* 先慢后快打出，所得意义是此人的反思加强了。这里同样有论证认为象似贡献是断言内容（Schlenker 2018b）。
+    step2: |-
+      象似调制与 Wilbur 注意到的终结性标记互动（2.1 节）。上一小节讨论的 *GROW* 是一个（非终结性的）程度达成动词；上述象似修改指示最终达到的程度以及达到该程度所需的时间。类似地，对于终结性动词，音系动作到达终点的速度与方式可指示结果状态达到的速度与方式。例如，若 LSF 的 *UNDERSTAND* 先慢后快打出，所得意义是：开头困难，随后结论较易。不涉及程度的非终结性动词也可作象似调制；例如，若 LSF 的 *REFLECT* 先慢后快打出，所得意义是此人的反思加强了。这里同样有论证认为象似贡献是断言内容（Schlenker 2018b）。
   - id: 120
     kind: body
     source: |-
       There are also cases in which the event structure is not just specified but radically altered by a modulation, as in the case of incompletive forms (also called unrealized inceptive, Liddell 1984; Wilbur 2008)[^liddell-1984][^wilbur-2008][^wilbur-2008-2]. ASL *DIE*, a telic verb, is expressed by turning the dominant hand palm-down to palm-up as shown below (the non-dominant hand turns palm-up to palm-down). If the hands only turn partially, the sign is roughly interpreted as ‘almost die’.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      也有案例中，事件结构不只是被指定，而是被调制彻底改变，如不完整体形式（亦称未实现起始体，Liddell 1984; Wilbur 2008）。ASL 的 *DIE*（终结性动词）以惯用手掌心由下转上的方式表达，如下图所示（非惯用手掌心由上转下）。若双手只转动一部分，该手势大致解释为‘差点死’。
+    step2: |-
+      也有案例中，事件结构不只是被指定，而是被调制彻底改变，如不完整体形式（亦称未实现起始体，Liddell 1984; Wilbur 2008）。ASL 的 *DIE*（终结性动词）以惯用手掌心由下转上的方式表达，如下图所示（非惯用手掌心由上转下）。若双手只转动一部分，该手势大致解释为‘差点死’。
   - id: 121
     kind: body
     source: |-
