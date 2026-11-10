@@ -2,7 +2,7 @@
   "slug": "logic-dynamic",
   "kind": "retranslate",
   "zh_doc": "l/logic-dynamic.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "L-main-20261109c",
       "at": "2026-11-09T21:31:06Z",
       "evidence": "对照 yuanwen/l/logic-dynamic.md 逐段回读 186 段：先修 9 处 $ 计数失配（44/54/78/97/106/125/127/138/158，step2 改写时丢了行内公式，逐处补回；158 第三处 pi ^{-1} 间距变体照录），lq 守恒 HARD 0（仅 段67 SOFT 斜体计数）；proof 表 4 张逐行核对编号/理由列；注意源文 'In one sentence' 段与 185 节结论照译"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-10T01:12:15Z",
+      "evidence": "冷置后 r1（间隔：logic-linear 全条新译）：结构核对（1–5 节 + 2.1–4.4 小节与源一致）；查得 model1/model2 两图仅存于 yuanwen/assets，产物相对路径 ../assets/logic-dynamic/ 无解——已复制入 assets/logic-dynamic（SHA-256 相符）；四门禁复跑仍绿（style 0 / prose 0 / math missing 0）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-10T01:14:00Z",
+      "evidence": "r2 复校：术语一致性（标记转移系统 4、互模拟 5、有穷模型性质 7、小模型性质 2、部分/完全正确性 2/5、可推演性 3）与登记册一致；check_terms 硬错误 0、check_academic strict 0 硬错误、check_summary H1 0；proof 表与 (A5) 导出两处逐步核对无误"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-10T01:14:01Z",
+      "evidence": "r3 终校：全文回读 186 段，无 TBD/英文残句；图片两处相对路径现可解析（assets/logic-dynamic，校验和相符）；References 79 条照录；相关词条/学术工具段与源对位；lq 守恒 186 段 OK"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-10T01:14:01Z",
+      "evidence": "done 收口：style 0 / prose 0 / math missing 0（unbalanced 4 为 yuanwen 数字起头货币启发式假阳性）/ academic strict 0 硬错误 / terms 硬错误 0 / H1 一致；r1 修图片悬空"
     }
   ],
   "blockers": [],
