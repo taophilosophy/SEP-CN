@@ -576,6 +576,7 @@
 | Cobreros, Pablo | — | Cobreros | — | — | logical-consequence | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Cockburn, Catharine Trotter | — | 凯瑟琳·特洛特·考克本 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Cohen, Felix S. | — | 费利克斯·S·科恩 | — | — | langer | 美国法律人类学家、反形式主义法理论家（美洲原住民权利律师；音译）；凭证 2026-11-08 | 2026-11-08 |
+| Coleridge, Samuel Taylor | — | 塞缪尔·泰勒·柯勒律治 | 英国 | 1772–1834 | cudworth | 学界通行汉译（诗人、批评家，库德沃斯推崇者）；凭证 2026-11-10 | 2026-11-09 |
 | Cohen, Hermann | — | 赫尔曼·科恩 | 德国 | 1842–1918 | scholem | 学界通行汉译（马堡学派）；凭证 2026-11-08 | 2026-11-08 |
 | Cohen, Stewart | — | 斯图尔特·科恩 | — | — | closure-epistemic | 学界通行音译（语境论；与赫尔曼·科恩异人）；凭证 2026-11-08 | 2026-11-08 |
 | Cole, G.D.H. | — | G.D.H.柯尔 | — | — | dewey-political | 学界通行（基尔特社会主义者，字母保留体例） | 2026-11-05 |
@@ -1166,6 +1167,7 @@
 | György Lukács | György Lukács | 格奥尔格·卢卡奇 | — | — | lakatos | 同上（匈牙利语原名形式）；2026-11-04 | 2026-11-04 |
 
 ## H
+| Harrison, John | — | 约翰·哈里森 | 英国 | 19 世纪 | cudworth | 学界通行音译（1845 年《TISU》版本编者，伦敦出版商 Thomas Tegg 版）；凭证 2026-11-10 | 2026-11-09 |
 
 | H.L.A. Hart | — | 哈特（首现括注 H.L.A. Hart） | — | — | lawphil-theory | 学界通行汉译（法哲学家，《法律的概念》作者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Haakonssen, Knud | — | 克努德·哈孔森 | — | — | oakeshott | 学界惯例（自然法与思想史研究文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -1450,6 +1452,7 @@
 | Jāmī, ʿAbd al-Raḥmān | نورالدین عبدالرحمن جامی | 贾米 | — | — | al-qudat | 学界通行汉译（波斯诗人/苏菲） | 2026-11-06 |
 | Jamyang Chokla Öser | — | 绛央乔拉·奥色 | — | — | epistemology-language-tibetan | 佛学界通行（'Jam dbyangs mChog lha 'od zer） | 2026-11-04 |
 | Jamyang Zhepa | — | 嘉木样协巴 | — | — | gelukpa | 藏传佛教通行汉译 | 2026-11-01 |
+| Janet, Paul | — | 保罗·雅内 | 法国 | 1823–1899 | cudworth | 学界通行汉译（法国哲学家，19 世纪中叶为库德沃斯辩护）；凭证 2026-11-10 | 2026-11-09 |
 | Jan Salamucha | Jan Salamucha | 保留英文（无通行汉名） | — | — | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
 | Jan Łukasiewicz | Jan Łukasiewicz | 扬·卢卡西维茨 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Jandun, John of | — | 让丹的约翰 | — | — | delmedigo | 学界通行（中世纪哲人以出生地+教名通称；r2 改定，初译作“让·德·让丹”） | 2026-11-06 |
@@ -2237,6 +2240,7 @@
 | Parry, William | — | William Parry | — | — | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Parsons, Charles | — | Charles Parsons（现代学者，保留英文） | — | — | deductivism-mathematics | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
 | Partee, Barbara | — | 帕蒂 | — | —；tarski-truth | tarski-truth | 学界通行汉译（形式语义学家） | 2026-11-09 合并（同键变体，来源列并双 slug） |
+| Passmore, John | — | 约翰·帕斯莫尔 | 澳大利亚 | 1914–2004 | cudworth | 学界通行汉译（哲学史家，1951 年库德沃斯未刊手稿研究开山）；凭证 2026-11-10 | 2026-11-09 |
 | Pasch, Moritz | — | 莫里茨·帕施 | — | — | deductivism-mathematics | 学界通行汉译（几何公理化先驱）；凭证 2026-11-08 | 2026-11-08 |
 | Paseau, Alexander | — | Alexander Paseau（现代学者，保留英文） | — | — | deductivism-mathematics | ADR-0022：本词条作者，保留英文；凭证 2026-11-08 | 2026-11-08 |
 | Pashukanis, Evgeny | — | 叶夫根尼·帕舒卡尼斯 | — | — | bloch | 学界通行汉译（苏联法学家）；凭证 2026-11-07 | 2026-11-07 |
@@ -2342,6 +2346,7 @@
 | Podong Choklé Namgyel | — | 博东·却列南杰 | — | — | epistemology-language-tibetan | 佛学界通行（Bo dong Phyogs las rnam rgyal） | 2026-11-04 |
 | Pogge, Thomas | — | 托马斯·博格 | — | — | sovereignty | 学界通行汉译（全球正义研究通行“博格”）；凭证 2026-11-07 | 2026-11-07 |
 | Poggio Bracciolini | — | 波焦·布拉乔利尼 | — | — | lorenzo-valla | 学界通行汉译（人文主义者、教宗秘书）；待 specs/008 审定库复核 | 2026-11-04 |
+| Pope, Alexander | — | 亚历山大·蒲柏 | 英国 | 1688–1744 | cudworth | 学界通行汉译（诗人，库德沃斯推崇者）；凭证 2026-11-10 | 2026-11-09 |
 | Poincaré, Henri | — | Poincaré | — | — | lvov-warsaw | 本库惯例保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Polanyi, Michael | — | 波兰尼 | — | — | 语料回收（lakatos 首译） | 学界通行汉译（《个人知识》作者，科学哲学家与经济学家）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Polger, Thomas | — | 托马斯·波尔格 | — | — | zombies | 学界惯例（心灵哲学文献通译）；凭证 2026-11-10 | 2026-11-10 |
@@ -2419,6 +2424,7 @@
 | Raphals, Lisa | — | 瑞丽 | — | — | chinese-phil-science | 学界通行（汉名瑞丽，本词条作者）；凭证 2026-11-07 | 2026-11-07 |
 | Rashdall, Hastings | — | 黑斯廷斯·拉什达尔 | — | — | autrecourt | 学界通行（中世纪大学史家） | 2026-11-06 |
 | Ratzinger, Joseph | — | 约瑟夫·拉青格 | conscience | 学界通行音译（本笃十六世本名）；凭证 2026-11-08 | 2026-11-08 |
+| Ray, John | — | 约翰·雷 | 英国 | 1627–1705 | cudworth | 学界通行汉译（博物学家，《上帝在造物中的智慧》作者，承续塑形自然说）；凭证 2026-11-10 | 2026-11-09 |
 | Ravaisson, Félix | Félix Ravaisson | 费利克斯·拉维松 | — | — | bergson | 法国唯灵论哲学家，柏格森之师；学界通行音译 | 2026-11-08 |
 | Ravitzky, Aviezer | — | 阿维泽·拉维茨基 | — | — | crescas | 学界通行中译（克雷斯卡斯研究专家）；凭证 2026-11-08 | 2026-11-08 |
 | Rawls, John | — | 约翰·罗尔斯 | — | — | ethics-deontological | 学界通行汉译（《正义论》作者） | 2026-11-04 |
@@ -3099,6 +3105,7 @@
 | Wilton, Thomas | — | 托马斯·威尔顿 | — | — | autrecourt | 学界通行（牛津神学家） | 2026-11-06 |
 | Winchelsey, John | — | 温切尔西尔 | — | †1313 | simon-faversham | 音译（坎特伯雷大主教）；凭证 2026-11-08 | 2026-11-08 |
 | Winckelmann | Winckelmann | 温克尔曼 | — | — | schlegel | 学界通行汉译（艺术史家）；凭证 2026-11-07 | 2026-11-07 |
+| Wise, Thomas | — | 托马斯·怀斯 | 英国 | 17–18 世纪 | cudworth | 学界通行音译（1706 年《对无神论之理与哲学的驳斥》节本编者）；凭证 2026-11-10 | 2026-11-09 |
 | Wippel, John F. | — | 约翰·F·维佩尔 | — | — | condemnation | 学界惯例（中世纪哲学史家，音译）；凭证 2026-11-08 | 2026-11-08 |
 | Wiredu, Kwasi | — | 夸西·维雷杜 | 加纳 | 1931–2022 | african-ethics | 学界通行音译（阿肯哲学）；凭证 2026-11-09 | 2026-11-09 |
 | Wisdom, John | — | 约翰·威兹德姆 | 英国 | 1904–1993 | stebbing | 学界通行汉译（剑桥分析学派；常作 John Oulton Wisdom） | 2026-11-09 |
