@@ -1,0 +1,152 @@
+{
+ "key": "collapse postulate",
+ "term": "collapse postulate",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-10T18:02:46+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=39",
+ "hits": [
+  {
+   "cn": "倒塌",
+   "en": "collapse",
+   "code": "GB/T 51306—2018",
+   "standard": "工程振动术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "塌陷",
+   "en": "collapse",
+   "code": "GB/T 50279—2014",
+   "standard": "岩土工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "塌帮",
+   "en": "collapse",
+   "code": "GB/T 50562—2019",
+   "standard": "煤炭矿井工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "塌方",
+   "en": "collapse",
+   "code": "GB/T 51339—2018",
+   "standard": "非煤矿山采矿术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "失稳",
+   "en": "collapse",
+   "code": "GB/T 38036—2019",
+   "standard": "航天产品结构应力分析要求",
+   "subject": "航空器和航天器工程"
+  },
+  {
+   "cn": "塌帮",
+   "en": "collapse",
+   "code": "GB 51227—2017",
+   "standard": "立井钻井法施工及验收规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "软塌",
+   "en": "collapse",
+   "code": "GB/T 31114—2014",
+   "standard": "冷冻饮品  冰淇淋",
+   "subject": "食品技术"
+  },
+  {
+   "cn": "倒塌",
+   "en": "collapse",
+   "code": "GB 6675.12—2014",
+   "standard": "玩具安全 第12部分：玩具滑板车",
+   "subject": "家用和商用设备、文娱、体育"
+  },
+  {
+   "cn": "倒塌",
+   "en": "collapse",
+   "code": "GB 6675.2—2014",
+   "standard": "玩具安全 第2部分:机械与物理性能",
+   "subject": "家用和商用设备、文娱、体育"
+  },
+  {
+   "cn": "塌泡",
+   "en": "collapse",
+   "code": "GB/T 9887—2008",
+   "standard": "胶乳制品术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "塌泡",
+   "en": "collapse",
+   "code": "GB/T 9881—2008",
+   "standard": "橡胶  术语",
+   "subject": "橡胶和塑料工业"
+  },
+  {
+   "cn": "坍場",
+   "en": "collapse",
+   "code": "GB/T 15236—2008",
+   "standard": "职业安全卫生术语 ",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "连续倒塌",
+   "en": "progressive collapse",
+   "code": "GB/T 50083—2014",
+   "standard": "工程结构设计基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "湿陷变形",
+   "en": "collapse deformation",
+   "code": "GB/T 50279—2014",
+   "standard": "岩土工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "连续倒塌",
+   "en": "progressive collapse",
+   "code": "GB 50068—2018",
+   "standard": "建筑结构可靠性设计统一标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "连续倒塌",
+   "en": "progressive collapse",
+   "code": "GB 50135—2019",
+   "standard": "高耸结构设计标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "剩余湿陷量",
+   "en": "remnant collapse",
+   "code": "GB 50025—2018",
+   "standard": "湿陷性黄土地区建筑标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "湿陷量",
+   "en": "collapse value",
+   "code": "GB 50025—2018",
+   "standard": "湿陷性黄土地区建筑标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "湿陷变形",
+   "en": "collapse deformation",
+   "code": "GB 50025—2018",
+   "standard": "湿陷性黄土地区建筑标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "地面塌陷",
+   "en": "surface collapse",
+   "code": "GB/T 14157—2023",
+   "standard": "水 文 地 质 术 语",
+   "subject": "数学、自然科学"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 6, \"2021\": 3, \"2020\": 1, \"2019\": 2, \"2018\": 1, \"2017\": 1, \"2015\": 1, \"2014\": 4, \"2011\": 1, \"2008\": 5, \"暂无年份\": 14}, \"sourceStats\": {\"食品技术\": 1, \"道路车辆工程\": 1, \"航空器和航天器工程\": 1, \"综合、术语学、标准化、文献\": 3, \"石油及相关技术\": 1, \"电气工程\": 2, \"环保、保健和安全\": 4, \"流体系统和通用件\": 1, \"橡胶和塑料工业\": 2, \"数学、自然科学\": 6, \"家用和商用设备、文娱、体育\": 2, \"其它\": 15}, \"typeStats\": {\"7\": 39}, \"totalRecords\": 39, \"tmWordList\": [{\"id\": \"ff948c8d00274ee9ac681d44de64997c\", \"databaseId\": null, \"standardId\": \"134223fdf52d47f4bfbbd99003cfe562\", \"standardCode\": \"GB/T 51306—2018\", \"standardName\": \"工程振动术语和符号标准\", \"standardEnName\": \"Standard for terms and symbols of engineering vibration\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"6.3.28\", \"cnName\": \"倒塌\", \"enName\": \"collapse\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 17900, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"倒塌\", \"cnNameSearch\": \"倒塌\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"collapse\", \"wordSearch\": \"collapse\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由于振动过大导致建（构）筑物关键构件破坏而出现坍塌现象。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"39d8d3c4021d44899b275dfdc03f1fc5\", \"databaseId\": null, \"standardId\": \"2b07352d5f964837a51fe81e19c9e6d2\", \"standardCode\": \"GB/T 50279—2014\", \"standardName\": \"岩土工程基本术语标准\", \"standardEnName\": \"Standard for fundamental terms of geotechnical engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"11.3.4\", \"cnName\": \"塌陷\", \"enName\": \"collapse\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 43848, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"塌陷\", \"cnNameSearch\": \"塌陷\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"collapse\", \"wordSearch\": \"collapse\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"地表岩、土体因自然或人为因素失去平衡产生下沉或塌落，在地面形成塌陷坑（洞）的现象。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8e878063bf05427b84355ca951648138\", \"databaseId\": null, \"standardId\": \"42d9740119184914a86604c47989def7\", \"standardCode\": \"GB/T 50562—2019\", \"standardName\": \"煤炭矿井工程基本术语标准\", \"standardEnName\": \"Standard for basic terms of coal mine construction engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.4.59\", \"cnName\": \"塌帮\", \"enName\": \"collapse\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 71119, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"塌帮\", \"cnNameSearch\": \"塌帮\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"collapse\", \"wordSearch\": \"collapse\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"因泥浆或钻机操作不当导致钻机钻进过程中井帮局部塌的现象。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"182606068a574916abaafba30bb6fadd\", \"databaseId\": null, \"standardId\": \"6c45b8b3d47c4dff9a417311f3dcd4b9\", \"standardCode\": \"GB/T 51339—2018\", \"standardName\": \"非煤矿山采矿术语标准\", \"standardEnName\": \"Standard of mining terms for non-coal mine\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.4.34\", \"cnName\": \"塌方\", \"enName\": \"collapse\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 109228, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"塌方\", \"cnNameSearch\": \"塌方\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"collapse\", \"wordSearch\": \"collapse\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"岩体发生急剧移动和破坏的现象。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6cbe1c28af8c40a0815bc1fe10a7dd30\", \"databaseId\": null, \"standardId\": \"b030813bae7a458c841c6cda7660f7f1\", \"standardCode\": \"GB/T 38036—2019\", \"standardName\": \"航天产品结构应力分析要求\", \"standardEnName\": \"Requirements for structural stress analysis of space products\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"3.26\", \"cnName\": \"失稳\", \"enName\": \"collapse\", \"publishTime\": \"2019-10-18\", \"publishYear\": \"2019\", \"implementTime\": \"2020-05-01\", \"ics\": \"49.04549\", \"ccs\": \"V70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 181813, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"失稳\", \"cnNameSearch\": \"失稳\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"collapse\", \"wordSearch\": \"collapse\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"准静态压缩、剪切或其耦合应力引起的，伴有急速不可逆的承载能力损失的失效模式。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0afcf52c97514c488cc5d59574cafa87\", \"databaseId\": null, \"standardId\": \"32f9a142eb504f3b9bbc08c3bdf2a069\", \"standardCode\": \"GB 51227—2017\", \"standardName\": \"立井钻井法施工及验收规范\", \"standardEnName\": \"Code for construction and acceptance of vertical shaft drilling\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.15\", \"cnName\": \"塌帮\", \"enName\": \"collapse\", \"publishTime\": \"2017-03-03\", \"publishYear\": \"2017\", \"implementTime\": \"2017-11-01\", \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 55805, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"塌帮\", \"cnNameSearch\": \"塌帮\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"collapse\", \"wordSearch\": \"collapse\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"钻进过程中井帮局部坍塌的现象。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c8ee517b133845c4b2ea0d0e0c6ff452\", \"databaseId\": null, \"standardId\": \"249f310fb71445008dea92325d29616f\", \"standardCode\": \"GB/T 31114—2014\", \"standardName\": \"冷冻饮品  冰淇淋\", \"standardEnName\": \"Frozen drinks—Ice cream\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"3.11\", \"cnName\": \"软塌\", \"enName\": \"collapse\", \"publishTime\": \"2014-09-03\", \"publishYear\": \"2014\", \"implementTime\": \"2015-04-01\", \"ics\": \"67.100.40\", \"ccs\": \"X53\", \"parentTermId\": null, \"titleId\": null, \"oid\": 34454, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"软塌\", \"cnNameSearch\": \"软塌\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"collapse\", \"wordSearch\": \"collapse\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"冰淇淋的形态软化塌落。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"80c5d458f64c47d58ad3fcfe57201776\", \"databaseId\": null, \"standardId\": \"4f24aaab91fc41079590658a1b8176fd\", \"standardCode\": \"GB 6675.12—2014\", \"standardName\": \"玩具安全 第12部分：玩具滑板车\", \"standardEnName\": \"Safety of toys—Part 12: Toy scooter\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"家用和商用设备、文娱、体育\", \"termCode\": \"3.2\", \"cnName\": \"倒塌\", \"enName\": \"collapse\", \"publishTime\": \"2014-12-05\", \"publishYear\": \"2014\", \"implementTime\": \"2016-01-01\", \"ics\": \"97.200.50\", \"ccs\": \"Y 57\", \"parentTermId\": null, \"titleId\": null, \"oid\": 81721, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"倒塌\", \"cnNameSearch\": \"倒塌\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"collapse\", \"wordSearch\": \"collapse\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"突然和未预见的结构折叠。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"940640c7cf40493aa6c6daf8ad2a8460\", \"databaseId\": null, \"standardId\": \"62d9ce18e569427fa959479a9157251e\", \"standardCode\": \"GB 6675.2—2014\", \"standardName\": \"玩具安全 第2部分:机械与物理性能\", \"standardEnName\": \"Safety of toys—Part2: Mechanical and physical properties\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"家用和商用设备、文娱、体育\", \"termCode\": \"3.7\", \"cnName\": \"倒塌\", \"enName\": \"collapse\", \"publishTime\": \"2014-05-06\", \"publishYear\": \"2014\", \"implementTime\": \"2016-01-01\", \"ics\": \"97.200.5097\", \"ccs\": \"Y57\", \"parentTermId\": null, \"titleId\": null, \"oid\": 98801, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"倒塌\", \"cnNameSearch\": \"倒塌\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"collapse\", \"wordSearch\": \"collapse\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"突然或意想不到的结构体折叠。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4fdd5eb7e7db45e9a8a1fc5232bd057c\", \"databaseId\": null, \"standardId\": \"32691c9a29774e358da4b5c1edded184\", \"standardCode\": \"GB/T 9887—2008\", \"standardName\": \"胶乳制品术语\", \"standardEnName\": \"Rubber latex products terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"5.23\", \"cnName\": \"塌泡\", \"enName\": \"collapse\", \"publishTime\": \"2008-06-04\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"01.040.83\", \"ccs\": \"G40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 55224, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"塌泡\", \"cnNameSearch\": \"塌泡\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"collapse\", \"wordSearch\": \"collapse\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"在制造海绵过程中,由于泡沫胶乳破泡而使制品下塌的现象。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a56cd2a367fc49798b082e4b9775fac5\", \"databaseId\": null, \"standardId\": \"6e8e91f0f4f14cd59839324632d4ab97\", \"standardCode\": \"GB/T 9881—2008\", \"standardName\": \"橡胶  术语\", \"standardEnName\": \"Rubber - Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"橡胶和塑料工业\", \"termCode\": \"2.82\", \"cnName\": \"塌泡\", \"enName\": \"collapse\", \"publishTime\": \"2008-06-18\", \"publishYear\": \"2008\", \"implementTime\": \"2009-02-01\", \"ics\": \"83.060\", \"ccs\": \"G40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 111816, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"塌泡\", \"cnNameSearch\": \"塌泡\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"collapse\", \"wordSearch\": \"collapse\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"〈多孔材料〉海绵材料在其制造期间因其孔眼结构破坏而引起的偶然压实。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"653c4d5fb1e840b69f6e71ac188a344b\", \"databaseId\": null, \"standardId\": \"cfc479bed77749b5ac64b5fa399a0a26\", \"standardCode\": \"GB/T 15236—2008\", \"standardName\": \"职业安全卫生术语 \", \"standardEnName\": \"Occupational safety and health glossary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.15\", \"cnName\": \"坍場\", \"enName\": \"collapse\", \"publishTime\": \"2008-12-15\", \"publishYear\": \"2008\", \"implementTime\": \"2009-10-01\", \"ics\": \"ICS 13.100\", \"ccs\": \"C 65\", \"parentTermId\": null, \"titleId\": null, \"oid\": 207938, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"坍場\", \"cnNameSearch\": \"坍場\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"collapse\", \"wordSearch\": \"collapse\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"物体在外力或重力作用下,超过自身的强度极限或因结构稳定性破坏而造成的陷落和倒塌事故,如</p><p>挖沟时的土石塌方、脚手架坍塌、堆置物倒塌等。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e3c5575e66ea40ebbf418d6d5b1d6939\", \"databaseId\": null, \"standardId\": \"060dc7933ba4422c81404f3785c41628\", \"standardCode\": \"GB/T 50083—2014\", \"standardName\": \"工程结构设计基本术语标准\", \"standardEnName\": \"Standard for general terms used in design of engineering structures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.7.42\", \"cnName\": \"连续倒塌\", \"enName\": \"progressive collapse\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 4324, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"连续倒塌\", \"cnNameSearch\": \"连续倒塌\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"progressive collapse\", \"wordSearch\": \"progressive collapse\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"初始的局部破坏，从构件到构件扩展，最终导致整个结构倒塌，或与起因不相称的一部分结构倒塌。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1bcdff0a560040398a534b5f9eabbb01\", \"databaseId\": null, \"standardId\": \"2b07352d5f964837a51fe81e19c9e6d2\", \"standardCode\": \"GB/T 50279—2014\", \"standardName\": \"岩土工程基本术语标准\", \"standardEnName\": \"Standard for fundamental terms of geotechnical engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.2.84\", \"cnName\": \"湿陷变形\", \"enName\": \"collapse deformation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 44403, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"湿陷变形\", \"cnNameSearch\": \"湿陷变形\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"collapse deformation\", \"wordSearch\": \"collapse deformation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"黄土类土等在荷重和浸水共同作用下，由于结构遭破坏产生显著的变形。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d21c30037f2d40099ac589eb9b994518\", \"databaseId\": null, \"standardId\": \"6101518af9fc4392bb29dddc7f16b565\", \"standardCode\": \"GB 50068—2018\", \"standardName\": \"建筑结构可靠性设计统一标准\", \"standardEnName\": \"Unified standard for reliability design of building structures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.22\", \"cnName\": \"连续倒塌\", \"enName\": \"progressive collapse\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 97409, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"连续倒塌\", \"cnNameSearch\": \"连续倒塌\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"progressive collapse\", \"wordSearch\": \"progressive collapse\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"初始的局部破坏，从构件到构件扩展，最终导致整个结构倒場或与起因不相称的一部分结构倒塌。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fca72e1900184af9a26e3c950bc587d7\", \"databaseId\": null, \"standardId\": \"7afd88586b644522a84d879d3103ce88\", \"standardCode\": \"GB 50135—2019\", \"standardName\": \"高耸结构设计标准\", \"standardEnName\": \"Standard for design of high-rising structures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.7\", \"cnName\": \"连续倒塌\", \"enName\": \"progressive collapse\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 130721, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"连续倒塌\", \"cnNameSearch\": \"连续倒塌\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"progressive collapse\", \"wordSearch\": \"progressive collapse\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"初始的局部破坏，从构件到构件扩展，最终导致整个结构倒塌或与起因不相称的一部分结构倒塌。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d3c6b4a9a72046908b7e6ad2739fbd6e\", \"databaseId\": null, \"standardId\": \"c10bff58c52f4bc08ce8c15b04e58751\", \"standardCode\": \"GB 50025—2018\", \"standardName\": \"湿陷性黄土地区建筑标准\", \"standardEnName\": \"Standard for building construction in collapsible loess regions\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.13\", \"cnName\": \"剩余湿陷量\", \"enName\": \"remnant collapse\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 194214, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"剩余湿陷量\", \"cnNameSearch\": \"剩余湿陷量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"remnant collapse\", \"wordSearch\": \"remnant collapse\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"拟处理土层底面下未处理湿陷性黄土的湿陷量。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b6bb4c84c97b450ea3fb68ed67bb80e0\", \"databaseId\": null, \"standardId\": \"c10bff58c52f4bc08ce8c15b04e58751\", \"standardCode\": \"GB 50025—2018\", \"standardName\": \"湿陷性黄土地区建筑标准\", \"standardEnName\": \"Standard for building construction in collapsible loess regions\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.10\", \"cnName\": \"湿陷量\", \"enName\": \"collapse value\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 194218, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"湿陷量\", \"cnNameSearch\": \"湿陷量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"collapse value\", \"wordSearch\": \"collapse value\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"湿陷性黄土在一定压力作用下，下沉稳定后，浸水饱和产生的附加下沉量。可通过计算或实测取得。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fa6ade1d1fce48d8b3fff744aaf8ad38\", \"databaseId\": null, \"standardId\": \"c10bff58c52f4bc08ce8c15b04e58751\", \"standardCode\": \"GB 50025—2018\", \"standardName\": \"湿陷性黄土地区建筑标准\", \"standardEnName\": \"Standard for building construction in collapsible loess regions\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.6\", \"cnName\": \"湿陷变形\", \"enName\": \"collapse deformation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 194220, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"湿陷变形\", \"cnNameSearch\": \"湿陷变形\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"collapse deformation\", \"wordSearch\": \"collapse deformation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"湿陷性黄土或具有湿陷性的其他土在一定压力作用下，下沉稳定后，受水浸湿产生的附加下沉。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2ce95ee58f7a4000a9654ed0cfd7261c\", \"databaseId\": null, \"standardId\": \"770466f1dd894af78ad8b0ce30cca975\", \"standardCode\": \"GB/T 14157—2023\", \"standardName\": \"水 文 地 质 术 语\", \"standardEnName\": \"Terminology of hydrogeology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"4.1.2.5\", \"cnName\": \"地面塌陷\", \"enName\": \"surface collapse\", \"publishTime\": \"2023-11-27\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"07.06007\", \"ccs\": \"D14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 121727, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"地面塌陷\", \"cnNameSearch\": \"地面塌陷\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"surface collapse\", \"wordSearch\": \"surface collapse\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"天然洞穴或人工洞室、巷道上覆岩土体失稳，导致小范围内地面快速下沉、开裂、突然陷落形成坑状\\n的现象或过程。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 2}}, \"timestamp\": 1794333767303}"
+}

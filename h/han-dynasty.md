@@ -229,38 +229,38 @@
 ### Works Cited
 
 [^all-nd]: All citations of Chinese texts follow the Chinese Text Project (CTP) ([https://ctext.org/](https://ctext.org/)) numbering. Note that translations of Chinese material are included in the Works Cited list where available. Translations are cited by name, CTP numbering, translator and year. While the texts here are broken into Pre-Han, Han, and Post-Han categories, for some of these texts dating is difficult and controversial. The categorization here is based on traditionally accepted dating.
-[^analects-nd]: [Analects](https://ctext.org/analects) (*Lunyu*).
-[^xunzi-nd]: [*Xunzi*](https://ctext.org/xunzi).
-[^daodejing-nd]: Daodejing (*Laozi*), https://ctext.org/dao-de-jing
-[^lushi-nd]: [*Lushi Chunqiu*](https://ctext.org/lv-shi-chun-qiu), commissioned by Lu Buwei.
-[^chuci-nd]: [*Chuci*](https://ctext.org/chu-ci) (Songs of Chu).
-[^gongyang-nd]: [*Gongyang Zhuan*](https://ctext.org/gongyang-zhuan) (Gongyang Commentary on the Spring and Autumn).
-[^zuo-nd]: [*Zuo Zhuan*](https://ctext.org/chun-qiu-zuo-zhuan) (Zuo Commentary on the Spring and Autumn).
-[^hanfeizi-nd]: [*Hanfeizi*](https://ctext.org/hanfeizi).
-[^shangjunshu-nd]: [*Shangjunshu*](https://ctext.org/shang-jun-shu) (Book of Lord Shang).
-[^xinyu-nd]: [*Xinyu*](https://ctext.org/xinyu) (*New Discussions*), Lu Jia.
-[^xinshu-nd]: [*Xinshu*](https://ctext.org/xin-shu) (*New Writings*), Jia Yi.
-[^chunqiu-nd]: [*Chunqiu Fanlu*](https://ctext.org/chun-qiu-fan-lu) (Luxuriant Dew of the “Spring and Autumn”), traditionally attributed to Dong Zhongshu.
-[^huainanzi-nd]: [*Huainanzi*](https://ctext.org/huainanzi), commissioned by Liu An.
-[^fayan-nd]: [*Fayan*](https://ctext.org/yangzi-fayan) (*Model Sayings*), Yang Xiong.
-[^taixuanjing-nd]: [*Taixuanjing*](https://ctext.org/taixuanjing) (Classic of Supreme Mystery), Yang Xiong.
-[^xinlun-nd]: *Xinlun* (*New Discourses*), Huan Tan
-[^lunheng-nd]: [*Lunheng*](https://ctext.org/lunheng) (*Balanced Discourses*), Wang Chong.
-[^nüjie-nd]: *Nüjie* (*Instructions for Women*), Ban Zhao
-[^qianfulun-nd]: [*Qianfulun*](https://ctext.org/qian-fu-lun) (*Discourses of a Hermit*), Wang Fu.
-[^zhonglun-nd]: [*Zhonglun*](https://ctext.org/zhong-lun) (*Discourses Hitting the Mark*), Xu Gan.
-[^kongzi-nd]: [*Kongzi Jiayu*](https://ctext.org/kongzi-jiayu) (*Discussions of the Confucius School*), Wang Su.
-[^kong-nd]: [*Kong Congzi*](https://ctext.org/kongcongzi) (*Collected Sayings of Confucius*), Wang Su.
-[^lunyu-nd]: *Lunyu Jijie* (*Collected Explanations of the* Analects), He Yan (ed.)
-[^shuowen-nd]: [*Shuowen Jiezi*](https://ctext.org/shuo-wen-jie-zi)(Explanation of Written Characters), Xu Shen (ed.).
-[^baihutong-nd]: [*Baihutong Delun*](https://ctext.org/bai-hu-tong) (Virtuous Discussions at the White Tiger Hall), compiled by Ban Gu.
-[^yantielun-nd]: [*Yantielun*](https://ctext.org/yan-tie-lun) (Salt and Iron Discourses), Huan Kuan.
-[^han-nd]: [*Han Shu*](https://ctext.org/han-shu) (Book of the Han), Ban Gu.
-[^huangdi-nd]: [*Huangdi Neijing*](https://ctext.org/huangdi-neijing) (Internal Classic of the Yellow Emperor).
-[^lienü-nd]: [*Lienü Zhuan*](https://ctext.org/lie-nv-zhuan) (Biographies of Exemplary Women), compiled by Liu Xiang.
-[^hongming-nd]: *Hongming Ji* (*Collection for the Expansion and Clarification [of Buddhism]*), Sengyou
-[^hou-nd]: [*Hou Han Shu*](https://ctext.org/hou-han-shu) (Book of the Later Han), Fan Ye.
-[^sanguo-nd]: [*Sanguo Yanyi*](https://ctext.org/sanguo-yanyi) (Romance of the Three Kingdoms), Luo Guanzhong.
+[^analects-nd]: [《论语》](https://ctext.org/analects)（*Lunyu*）。
+[^xunzi-nd]: [《荀子》](https://ctext.org/xunzi)（*Xunzi*）。
+[^daodejing-nd]: 《道德经》（*Daodejing*，*Laozi*），https://ctext.org/dao-de-jing
+[^lushi-nd]: [《吕氏春秋》](https://ctext.org/lv-shi-chun-qiu)（*Lushi Chunqiu*），吕不韦主持编纂。
+[^chuci-nd]: [《楚辞》](https://ctext.org/chu-ci)（*Chuci*，Songs of Chu）。
+[^gongyang-nd]: [《公羊传》](https://ctext.org/gongyang-zhuan)（*Gongyang Zhuan*，Gongyang Commentary on the Spring and Autumn）。
+[^zuo-nd]: [《左传》](https://ctext.org/chun-qiu-zuo-zhuan)（*Zuo Zhuan*，Zuo Commentary on the Spring and Autumn）。
+[^hanfeizi-nd]: [《韩非子》](https://ctext.org/hanfeizi)（*Hanfeizi*）。
+[^shangjunshu-nd]: [《商君书》](https://ctext.org/shang-jun-shu)（*Shangjunshu*，Book of Lord Shang）。
+[^xinyu-nd]: [《新语》](https://ctext.org/xinyu)（*Xinyu*，*New Discussions*），陆贾。
+[^xinshu-nd]: [《新书》](https://ctext.org/xin-shu)（*Xinshu*，*New Writings*），贾谊。
+[^chunqiu-nd]: [《春秋繁露》](https://ctext.org/chun-qiu-fan-lu)（*Chunqiu Fanlu*，Luxuriant Dew of the “Spring and Autumn”）, traditionally attributed to Dong Zhongshu.
+[^huainanzi-nd]: [《淮南子》](https://ctext.org/huainanzi)（*Huainanzi*），刘安主持编纂。
+[^fayan-nd]: [《法言》](https://ctext.org/yangzi-fayan)（*Fayan*，*Model Sayings*），扬雄。
+[^taixuanjing-nd]: [《太玄经》](https://ctext.org/taixuanjing)（*Taixuanjing*，Classic of Supreme Mystery），扬雄。
+[^xinlun-nd]: 《新论》（*Xinlun*，*New Discourses*），桓谭
+[^lunheng-nd]: [《论衡》](https://ctext.org/lunheng)（*Lunheng*，*Balanced Discourses*），王充。
+[^nüjie-nd]: 《女诫》（*Nüjie*，*Instructions for Women*），班昭
+[^qianfulun-nd]: [《潜夫论》](https://ctext.org/qian-fu-lun)（*Qianfulun*，*Discourses of a Hermit*），王符。
+[^zhonglun-nd]: [《中论》](https://ctext.org/zhong-lun)（*Zhonglun*，*Discourses Hitting the Mark*），徐干。
+[^kongzi-nd]: [《孔子家语》](https://ctext.org/kongzi-jiayu)（*Kongzi Jiayu*，*Discussions of the Confucius School*），王肃。
+[^kong-nd]: [《孔丛子》](https://ctext.org/kongcongzi)（*Kong Congzi*，*Collected Sayings of Confucius*），王肃。
+[^lunyu-nd]: 《论语集解》（*Lunyu Jijie*，*Collected Explanations of the* Analects），何晏（编）
+[^shuowen-nd]: [《说文解字》](https://ctext.org/shuo-wen-jie-zi)（*Shuowen Jiezi*，Explanation of Written Characters），许慎（编）。
+[^baihutong-nd]: [《白虎通德论》](https://ctext.org/bai-hu-tong)（*Baihutong Delun*，Virtuous Discussions at the White Tiger Hall），班固编。
+[^yantielun-nd]: [《盐铁论》](https://ctext.org/yan-tie-lun)（*Yantielun*，Salt and Iron Discourses），桓宽。
+[^han-nd]: [《汉书》](https://ctext.org/han-shu)（*Han Shu*，Book of the Han），班固。
+[^huangdi-nd]: [《黄帝内经》](https://ctext.org/huangdi-neijing)（*Huangdi Neijing*，Internal Classic of the Yellow Emperor）。
+[^lienü-nd]: [《列女传》](https://ctext.org/lie-nv-zhuan)（*Lienü Zhuan*，Biographies of Exemplary Women），刘向编。
+[^hongming-nd]: 《弘明集》（*Hongming Ji*，*Collection for the Expansion and Clarification [of Buddhism]*），僧祐
+[^hou-nd]: [《后汉书》](https://ctext.org/hou-han-shu)（*Hou Han Shu*，Book of the Later Han），范晔。
+[^sanguo-nd]: [《三国演义》](https://ctext.org/sanguo-yanyi)（*Sanguo Yanyi*，Romance of the Three Kingdoms），罗贯中。
 [^czikszentmihalyi-2006]: Czikszentmihalyi, Mark (ed./trans.), 2006, *Readings in Han Chinese Thought*, Indianapolis, IN: Hackett.
 [^fung-1931]: Fung Yu-Lan [Feng Youlan], 1931–1934 [1983], 中國哲學史 *Zhongguo zhexue shi*, Shanghai: Commercial Press. Translated as *A History of Chinese Philosophy*, two volumes, Derk Bodde (trans.), Princeton, NJ: Princeton University Press, 1952–1953, paperback reprinting 1983.
 [^ing-2016]: Ing, Michael D. K., 2016, “Philosophy in Western Han Dynasty China (206 BCE–9 CE): Philosophy in Western Han Dynasty China”, *Philosophy Compass*, 11(6): 289–304. doi:10.1111/phc3.12326

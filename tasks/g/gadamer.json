@@ -2,8 +2,16 @@
   "slug": "gadamer",
   "kind": "retranslate",
   "zh_doc": "g/gadamer.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-10T18:02:08Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:30:08Z",
   "version_pin": {

@@ -11,279 +11,403 @@ segments:
     kind: body
     source: |-
       Quantum mechanics is, at least at first glance and at least in part, a mathematical machine for predicting the behaviors of microscopic particles — or, at least, of the measuring instruments we use to explore those behaviors — and in that capacity, it is spectacularly successful: in terms of power and precision, head and shoulders above any theory we have ever had. Mathematically, the theory is well understood; we know what its parts are, how they are put together, and why, in the mechanical sense (i.e., in a sense that can be answered by describing the internal grinding of gear against gear), the whole thing performs the way it does, how the information that gets fed in at one end is converted into what comes out the other. The question of what kind of a world it describes, however, is controversial; there is very little agreement, among physicists and among philosophers, about what the world *is like* according to quantum mechanics. Minimally interpreted, the theory describes a set of facts about the way the microscopic world impinges on the macroscopic one, how it affects our measuring instruments, described in everyday language or the language of classical mechanics. Disagreement centers on the question of what a microscopic world, which affects our apparatuses in the prescribed manner, is, or even could be, like *intrinsically*; or how those apparatuses could themselves be built out of microscopic parts of the sort the theory describes.[^note-1]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      量子力学至少乍看之下、至少在某种程度上是一台用于预测微观粒子行为的数学机器——或者至少，是预测我们用来探索那些行为的测量仪器之行为的数学机器——而就这一职能而言，它取得了辉煌的成功：在威力与精度方面，远在我们曾有过的任何理论之上。在数学上，这个理论是被很好地理解的；我们知道它的部件是什么、它们如何被装配在一起，以及为什么——在机械的意义上（即在一个可以通过描述齿轮与齿轮之间的内部咬合来回答的意义上）——整体会以它那样的方式运转，输入一端的信息如何被转换为另一端输出的东西。然而，它描述的是什么样的世界，这个问题是有争议的；在物理学家之间和哲学家之间，关于按量子力学世界是什么样的，几乎没有一致意见。作最小的解释，这个理论描述了一组关于微观世界如何冲击宏观世界、如何影响我们测量仪器的事实，这些仪器是用日常语言或经典力学的语言描述的。分歧集中于这个问题：一个以被规定的方式影响我们仪器的微观世界就其本身而言是什么样的，甚至可能是什么样的；或者那些仪器如何能够由理论所描述的那类微观部件建造出来。[^note-1]
+    step2: |-
+      至少在初见之下、至少在部分上，量子力学是一台预测微观粒子行为的数学机器——或者至少，是预测我们用来探究那些行为的测量仪器之行为的机器；就这一职能而论，它成绩斐然：论威力与精度，远驾于我们迄今有过的任何理论之上。在数学层面，这个理论已被透彻理解：它的部件是什么、如何拼装起来、为什么整体会如此运转（这是在机械的意义上说，即可以靠描述齿轮与齿轮如何咬合来回答的意义上）、一端喂入的信息如何被转换为另一端的输出——凡此种种，我们全都清楚。至于它描述的是一个怎样的世界，则是有争议的；无论物理学家还是哲学家，对按量子力学来看世界**究竟**是什么样的，几乎全无共识。作最起码的解释，这个理论描述的是微观世界如何作用于宏观世界、如何影响我们测量仪器的一组事实，而仪器是用日常语言或经典力学的语言描述的。分歧聚焦于这样一个问题：一个按特定方式作用于我们仪器的微观世界，就其本身而言是什么样子、甚至可能是什么样子；或者说，那些仪器本身如何能由理论所描述的那类微观部件组装而成。[^note-1]
   - id: 2
     kind: body
     source: |-
       That is what an interpretation of the theory would provide: a proper account of what the world is like according to quantum mechanics, intrinsically and from the bottom up. The problems with giving an interpretation (not just a comforting, homey sort of interpretation, i.e., not just an interpretation according to which the world isn’t too different from the familiar world of common sense, but any interpretation at all) are dealt with in other sections of this encyclopedia. Here, we are concerned only with the mathematical heart of the theory, the theory in its capacity as a mathematical machine, and — whatever is true of the rest of it — *this* part of the theory makes exquisitely good sense.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这就是对这个理论的一种解释所要提供的东西：对按量子力学世界是什么样的、就其本身而言、自下而上的一个恰当说明。给出一种解释的种种困难（不只是某种令人安心的、家常式的解释，即不只是那种认为世界与常识所熟悉的世界相差不大的解释，而是任何解释）在本百科全书的其他条目中处理。这里，我们只关心这个理论的数学心脏，即作为数学机器的理论；而无论其余部分如何——理论的*这一*部分是讲得极通的。
+    step2: |-
+      这正是一个解释所要提供的东西：对按量子力学来看世界是什么样子——就其本身、自下而上——给出的一个恰当说明。给出解释的种种困难（不只是某种令人安心的家常解释，即不只限于“世界与常识世界相去不远”的解释，而是任何解释都难）由本百科全书的其他条目处理。这里我们只关心这个理论的数学心脏，即它作为数学机器的一面；且无论其余部分情形如何——理论的**这一**部分是极为通顺的。
   - id: 3
     kind: body
     source: |-
       ## 1. Terminology
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1 术语
+    step2: |-
+      ## 1 术语
   - id: 4
     kind: body
     source: |-
       Physical systems are divided into **types** according to their unchanging (or ‘state-independent’) properties, and the **state** of a system at a time consists of a complete specification of those of its properties that change with time (its ‘state-dependent’ properties). To give a complete description of a system, then, we need to say what type of system it is and what its state is at each moment in its history.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      物理系统按其不变的（或“独立于态的”）性质被划分为**类型**，而一个系统在某一时刻的**态**由对那些随时间变化的性质（其“依赖于态的”性质）的完全规定构成。于是，要给出一个系统的完全描述，我们需要说它是什么类型的系统，以及它在历史中每一时刻的态是什么。
+    step2: |-
+      物理系统按其不变的（或“独立于态的”）性质分为若干**类型**；一个系统在某一时刻的**态**，则由对其随时间变化的那些性质（其“依赖于态的”性质）的完备刻画构成。因此，要完备地描述一个系统，就要说明它属于什么类型，以及在它历史的每一时刻处于什么态。
   - id: 5
     kind: body
     source: |-
       A **physical quantity** is a mutually exclusive and jointly exhaustive family of physical properties (for those who know this way of talking, it is a family of properties with the structure of the cells in a partition). Knowing what kinds of values a quantity takes can tell us a great deal about the relations among the properties of which it is composed. The values of a bivalent quantity, for instance, form a set with two members; the values of a real-valued quantity form a set with the structure of the real numbers. This is a special case of something we will see again and again, *viz.*, that knowing what kind of mathematical objects represent the elements in some set (here, the values of a physical quantity; later, the states that a system can assume, or the quantities pertaining to it) tells us a very great deal (indeed, arguably, all there is to know) about the relations among them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个**物理量**是一族互相排斥而合起来穷尽的物理性质（对熟悉这种说法的人而言，它是一族具有划分之小胞结构的性质）。知道一个量取什么种类的值，就能告诉我们许多关于构成它的那些性质之间的关系。例如，一个二值量的值构成一个有两个成员的集合；一个实值量的值构成一个具有实数结构的集合。这是我们将一再见到的事情的一个特例，即：知道某种数学对象被用来表示某个集合中的元素（这里是物理量的值；以后是系统可处的态，或属于它的量），就能告诉我们关于它们之间的关系的极多东西（可以说，是全部可知的东西）。
+    step2: |-
+      **物理量**是一族互斥而合起来穷尽的物理性质（熟悉这套讲法的人会认出：这是一族具有“划分之小胞”结构的性质）。知道一个量取哪类值，就能使我们对其构成性质之间的关系了解许多。例如，二值量的值构成一个两元集合；实值量的值构成一个具有实数结构的集合。这是一件我们会反复见到的事情的特例：知道用哪类数学对象表示某个集合中的元素（此处是物理量的值；往后则是系统可取的态，或属于该系统的量），就能告诉我们关于这些元素之间关系的极多东西——甚至可以说，是全部可知的东西。
   - id: 6
     kind: body
     source: |-
       In quantum mechanical contexts, the term ‘**observable**’ is used interchangeably with ‘physical quantity’, and should be treated as a technical term with the same meaning. It is no accident that the early developers of the theory chose the term, but the choice was made for reasons that are not, nowadays, generally accepted. The **state-space** of a system is the space formed by the set of its possible states,[^note-2] i.e., the physically possible ways of combining the values of quantities that characterize it internally. In classical theories, a set of quantities which forms a supervenience basis for the rest is typically designated as ‘basic’ or ‘fundamental’, and, since any mathematically possible way of combining their values is a physical possibility, the state-space can be obtained by simply taking these as coordinates.[^note-3] So, for instance, the state-space of a classical mechanical system composed of $n$ particles, obtained by specifying the values of $6n$ real-valued quantities — three components of position, and three of momentum for each particle in the system — is a $6n$-dimensional coordinate space. Each possible state of such a system corresponds to a point in the space, and each point in the space corresponds to a possible state of such a system. The situation is a little different in quantum mechanics, where there are mathematically describable ways of combining the values of the quantities that don’t represent physically possible states. As we will see, the state-spaces of quantum mechanics are special kinds of vector spaces, known as Hilbert spaces, and they have more internal structure than their classical counterparts.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在量子力学语境中，“**可观测量**”一词与“物理量”互换使用，应被当作一个具有相同意义的技术术语。早期理论发展者选择这个词并非偶然，但选择它的理由如今已不被普遍接受。一个系统的**状态空间**是由其可能态的集合构成的空间，[^note-2] 即刻画它内部的那些量的值在物理上可能的组合方式。在经典理论中，一组构成其余量之随附基的量通常被指定为“基本的”或“根本的”；由于这些值的任何数学上可能的组合都是一个物理可能性，状态空间可以简单地取它们为坐标而得到。[^note-3] 例如，一个由 $n$ 个粒子组成的经典力学系统，通过指定 $6n$ 个实值量的值——系统中每个粒子三个位置分量、三个动量分量——得到的状态空间是一个 $6n$ 维坐标空间。这类系统的每个可能态对应空间中一个点，空间中每个点对应这类系统的一个可能态。量子力学中的情况略有不同：存在一些数学上可描述的量值组合方式，它们并不表示物理上可能的态。正如我们将看到的，量子力学的状态空间是一些特殊的矢量空间，称为希尔伯特空间，它们比经典对应物有更多的内部结构。
+    step2: |-
+      在量子力学语境中，“**可观测量**”一词与“物理量”交替使用，应视为含义相同的技术术语。理论的早期开创者选用这个词绝非偶然，但当初选它的理由如今已不被普遍接受。一个系统的**状态空间**是由其可能态的集合构成的空间，[^note-2] 也就是刻画系统内部特征的那些量的值在物理上可能的组合方式。在经典理论中，一组构成其余量之随附基的量通常被称作“基本的”或“根本的”；由于这些值的任何数学上可能的组合都是物理可能的，状态空间可以直接取它们为坐标而得到。[^note-3] 例如，一个由 $n$ 个粒子组成的经典力学系统，通过指定 $6n$ 个实值量的值——系统中每个粒子三个位置分量、三个动量分量——所得到的状态空间是一个 $6n$ 维坐标空间。这类系统的每个可能态对应空间中一个点，空间中每个点也对应这类系统的一个可能态。量子力学的情况略有不同：有些量的值的组合方式在数学上可以描述，却不表示物理上可能的态。正如我们将看到的，量子力学的状态空间是一类特殊的矢量空间，即希尔伯特空间，它们比经典对应物具有更丰富的内部结构。
   - id: 7
     kind: body
     source: |-
       A **structure** is a set of elements on which certain operations and relations are defined, a **mathematical structure** is just a structure in which the elements are mathematical objects (numbers, sets, vectors) and the operations mathematical ones, and a **model** is a mathematical structure used to represent some physically significant structure in the world.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个**结构**是一个定义了某些运算和关系的元素集合；一个**数学结构**就是元素为数学对象（数、集合、矢量）而运算为数学运算的结构；一个**模型**是用来表示世界中某个物理上有意义的结构的数学结构。
+    step2: |-
+      **结构**是定义了某些运算与关系的元素集合；**数学结构**即元素为数学对象（数、集合、矢量）、运算亦为数学运算的结构；而**模型**则是用来表示世界中某个物理上有意义的结构的数学结构。
   - id: 8
     kind: body
     source: |-
       The heart and soul of quantum mechanics is contained in the Hilbert spaces that represent the state-spaces of quantum mechanical systems. The internal relations among states and quantities, and everything this entails about the ways quantum mechanical systems behave, are all woven into the structure of these spaces, embodied in the relations among the mathematical objects which represent them.[^note-4] This means that understanding what a system is like according to quantum mechanics is inseparable from familiarity with the internal structure of those spaces. Know your way around Hilbert space, and become familiar with the dynamical laws that describe the paths that vectors travel through it, and you know everything there is to know, in the terms provided by the theory, about the systems that it describes.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      量子力学的心脏与灵魂包含在表示量子力学系统状态空间的那些希尔伯特空间之中。态与量之间的内部关系，以及这一切所蕴含的量子力学系统行为方式，全都编织在这些空间的结构之中，体现在表示它们的数学对象之间的关系里。[^note-4] 这意味着，理解一个系统按量子力学是什么样的，与熟悉那些空间的内部结构不可分离。熟悉希尔伯特空间，熟悉描述矢量在其中穿行的路径的动力学定律，你就知道了——用理论提供的术语来说——它所描述的系统的全部可知之事。
+    step2: |-
+      量子力学的心髓，尽在表示量子力学系统状态空间的那些希尔伯特空间之中。态与量之间的内部关系，以及由此蕴含的量子力学系统的一切行为方式，全都编织在这些空间的结构里，体现在表示它们的数学对象之间的关系中。[^note-4] 这意味着：理解一个系统按量子力学是什么样子，与熟悉这些空间的内部结构密不可分。熟悉希尔伯特空间，并熟悉描述矢量在其中穿行路径的动力学定律，那么——用理论自己的术语来说——关于它所描述的系统，凡是可知的你就都知道了。
   - id: 9
     kind: body
     source: |-
       By ‘know your way around’ Hilbert space, I mean something more than possess a description or a map of it; anybody who has a quantum mechanics textbook on their shelf has that. I mean know your way around it in the way you know your way around the city in which you live. This is a practical kind of knowledge that comes in degrees and it is best acquired by learning to solve problems of the form: How do I get from A to B? Can I get there without passing through C? And what is the shortest route? Graduate students in physics spend long years gaining familiarity with the nooks and crannies of Hilbert space, locating familiar landmarks, treading its beaten paths, learning where secret passages and dead ends lie, and developing a sense of the overall lay of the land. They learn how to navigate Hilbert space in the way a cab driver learns to navigate his city.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所谓“熟悉”希尔伯特空间，我的意思不只是拥有一份描述或一张地图；凡是书架上有一本量子力学教科书的人都有那个。我的意思是像熟悉你居住的城市那样熟悉它。这是一种有程度之分的实践性知识，最好通过学习解决如下形式的问题来获得：我如何从 A 到 B？能否不经过 C 到达那里？最短路线是什么？物理学研究生花多年时间熟悉希尔伯特空间的犄角旮旯，找到熟悉的地标，走过它的常走之路，弄清秘密通道和死胡同在哪里，并对整体地形形成感觉。他们学会像出租车司机学会在城里认路那样在希尔伯特空间中导航。
+    step2: |-
+      所谓“熟悉”希尔伯特空间，我指的不只是拥有一份描述或一张地图——书架上放着一本量子力学教科书的人都有那个。我指的是像熟悉你居住的城市那样熟悉它。这是一种有程度之分的实践性知识，最好通过学习求解这样一类问题来获得：我如何从 A 到 B？能否不经过 C 就到达？最短路线是什么？物理系研究生要花多年工夫熟悉希尔伯特空间的犄角旮旯：辨认熟悉的地标，走熟它的大路小径，摸清密道与死胡同都在哪里，并对整体地形形成一种感觉。他们学会在希尔伯特空间中认路，就像出租车司机学会在城里认路一样。
   - id: 10
     kind: body
     source: |-
       How much of this kind of knowledge is needed to approach the philosophical problems associated with the theory? In the beginning, not very much: just the most general facts about the geometry of the landscape (which is, in any case, unlike that of most cities, beautifully organized), and the paths that (the vectors representing the states of) systems travel through them. That is what will be introduced here: first a bit of easy math, and then, in a nutshell, the theory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      要着手处理与这个理论相关的哲学问题，需要多少这种知识？起初，不需要很多：只需关于这片地形的几何的最一般事实（它毕竟不同于多数城市，组织得极其漂亮），以及（表示系统之态的）矢量在其中穿行的路径。这就是这里要介绍的：先来一点容易的数学，然后简要地讲这个理论。
+    step2: |-
+      要着手处理与这个理论相关的哲学问题，需要多少这类知识？起初并不多：只需知道这片地形的几何中最一般的事实（何况它不像多数城市那样杂乱，组织得极有章法），以及（表示系统之态的）矢量在其中穿行的路径。这便是此处要介绍的：先来一点不难的数学，然后简明地讲一讲理论本身。
   - id: 11
     kind: body
     source: |-
       ## 2. Mathematics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 数学
+    step2: |-
+      ## 2 数学
   - id: 12
     kind: body
     source: |-
       ### 2.1 Vectors and vector spaces
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.1 矢量与矢量空间
+    step2: |-
+      ### 2.1 矢量与矢量空间
   - id: 13
     kind: body
     source: |-
       A **vector** $A$, written ‘$\ket{A}$’, is a mathematical object characterized by a length, $|A|$, and a direction. A normalized vector is a vector of length 1; i.e., $|A| = 1$. Vectors can be added together, multiplied by constants (including complex numbers), and multiplied together. Vector addition maps any pair of vectors onto another vector, specifically, the one you get by moving the second vector so that its tail coincides with the tip of the first, without altering the length or direction of either, and then joining the tail of the first to the tip of the second. This addition rule is known as the parallelogram law. So, for example, adding vectors $\ket{A}$ and $\ket{B}$ yields vector $\ket{C} (= \ket{A} + \ket{B})$ as in Figure 1:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个**矢量** $A$，写作“$\ket{A}$”，是一个由长度 $|A|$ 和方向刻画的数学对象。归一化矢量是长度为 1 的矢量，即 $|A| = 1$。矢量可以相加，乘以常数（包括复数），以及相互相乘。矢量加法把任何一对矢量映到另一个矢量，具体说，就是把第二个矢量平移使其尾部与第一个矢量的尖端重合（两者长度方向均不变），然后连接第一个矢量的尾部与第二个矢量的尖端所得的矢量。这条加法规则称为平行四边形法则。例如，矢量 $\ket{A}$ 与 $\ket{B}$ 相加得到矢量 $\ket{C} (= \ket{A} + \ket{B})$，如图 1 所示：
+    step2: |-
+      **矢量** $A$，记作“$\ket{A}$”，是由长度 $|A|$ 与方向共同刻画的数学对象。归一化矢量是长度为 1 的矢量，即 $|A| = 1$。矢量可以相加、乘以常数（包括复数），也可以彼此相乘。矢量加法把任一对矢量映为另一个矢量：将第二个矢量平移，使其尾部与第一个矢量的尖端重合（二者长度与方向均不变），再从第一个矢量的尾部连到第二个矢量的尖端，所得即为和矢量。这条规则称为平行四边形法则。例如，矢量 $\ket{A}$ 与 $\ket{B}$ 相加得矢量 $\ket{C} (= \ket{A} + \ket{B})$，如图 1 所示：
   - id: 14
     kind: body
     source: |-
       *Figure 1*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *Figure 1*
+    step2: |-
+      *Figure 1*
   - id: 15
     kind: body
     source: |-
       ![vector addition](../assets/qm/figure1.gif)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ![vector addition](../assets/qm/figure1.gif)
+    step2: |-
+      ![vector addition](../assets/qm/figure1.gif)
   - id: 16
     kind: body
     source: |-
       Figure 1. Vector Addition
-    step1: TBD
-    step2: TBD
+    step1: |-
+      图 1：矢量加法
+    step2: |-
+      图 1：矢量加法
   - id: 17
     kind: body
     source: |-
       Multiplying a vector $\ket{A}$ by $n$, where $n$ is a constant, gives a vector which is the same direction as $\ket{A}$ but whose length is $n$ times $\ket{A}$’s length.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      用 $n$ 乘矢量 $\ket{A}$（$n$ 为常数），得到一个与 $\ket{A}$ 方向相同但长度为 $\ket{A}$ 长度 $n$ 倍的矢量。
+    step2: |-
+      用 $n$ 乘矢量 $\ket{A}$（$n$ 为常数），得到一个方向与 $\ket{A}$ 相同、长度为 $\ket{A}$ 之长 $n$ 倍的矢量。
   - id: 18
     kind: body
     source: |-
       In a real vector space, the (inner or dot) product of a pair of vectors $\ket{A}$ and $\ket{B}$, written ‘$\braket{A}{B}$’ is a scalar equal to the product of their lengths (or ‘norms’) times the cosine of the angle, $\theta$, between them:
 
       $$ \braket{A}{B} = |A| |B| \cos \theta $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在实矢量空间中，一对矢量 $\ket{A}$ 与 $\ket{B}$ 的（内积或点）积，写作“$\braket{A}{B}$”，是一个标量，等于它们的长度（或“模”）之积乘以它们之间夹角 $\theta$ 的余弦：
+
+      $$ \braket{A}{B} = |A| |B| \cos \theta $$
+    step2: |-
+      在实矢量空间中，矢量 $\ket{A}$ 与 $\ket{B}$ 的（内）积或点积，记作“$\braket{A}{B}$”，是一个标量：等于二者长度（或“模”）之积，再乘以两矢量间夹角 $\theta$ 的余弦：
+
+      $$ \braket{A}{B} = |A| |B| \cos \theta $$
   - id: 19
     kind: body
     source: |-
       Let $\ket{A_1}$ and $\ket{A_2}$ be vectors of length 1 (“unit vectors”) such that $\braket{A_1}{A_2} = 0$. (So the angle between these two unit vectors must be 90 degrees.) Then we can represent any two-dimensional vector $\ket{B}$ in terms of our unit vectors as follows:
 
       $$ \ket{B} = b_1 \ket{A_1} + b_2 \ket{A_2} $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      设 $\ket{A_1}$ 与 $\ket{A_2}$ 是长度为 1 的矢量（“单位矢量”），且 $\braket{A_1}{A_2} = 0$。（于是这两个单位矢量之间的夹角必为 90 度。）那么我们可以用这两个单位矢量如下地表示任何二维矢量 $\ket{B}$：
+
+      $$ \ket{B} = b_1 \ket{A_1} + b_2 \ket{A_2} $$
+    step2: |-
+      设 $\ket{A_1}$、$\ket{A_2}$ 为长度是 1 的矢量（“单位矢量”），且 $\braket{A_1}{A_2} = 0$。（这两个单位矢量间的夹角必为 90 度。）如此一来，任何二维矢量 $\ket{B}$ 都可以用这两个单位矢量表示为：
+
+      $$ \ket{B} = b_1 \ket{A_1} + b_2 \ket{A_2} $$
   - id: 20
     kind: body
     source: |-
       For example, here is a graph which shows how $\ket{B}$ can be represented as the sum of the two unit vectors $\ket{A_1}$ and $\ket{A_2}$:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      例如，下图显示如何把 $\ket{B}$ 表示为两个单位矢量 $\ket{A_1}$ 与 $\ket{A_2}$ 之和：
+    step2: |-
+      例如，下图展示 $\ket{B}$ 如何被表示为两个单位矢量 $\ket{A_1}$ 与 $\ket{A_2}$ 之和：
   - id: 21
     kind: body
     source: |-
       *Figure 2*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *Figure 2*
+    step2: |-
+      *Figure 2*
   - id: 22
     kind: body
     source: |-
       ![figure2](../assets/qm/figure2.gif)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ![figure2](../assets/qm/figure2.gif)
+    step2: |-
+      ![figure2](../assets/qm/figure2.gif)
   - id: 23
     kind: body
     source: |-
       Figure 2. Representing $\ket{B}$ by Vector Addition of Unit Vectors
-    step1: TBD
-    step2: TBD
+    step1: |-
+      图 2：用单位矢量相加表示 $\ket{B}$
+    step2: |-
+      图 2：用单位矢量相加表示 $\ket{B}$
   - id: 24
     kind: body
     source: |-
       Now the definition of the inner product $\braket{A}{B}$ has to be modified to apply to complex spaces. Let $c^*$ be the complex conjugate of $c$. (When $c$ is a complex number of the form $a \pm bi$, then the complex conjugate $c^*$ of $c$ is defined as follows:
 
       $$ [a+bi]^* = a-bi \\ [a-bi]^* = a+bi $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在必须修改内积 $\braket{A}{B}$ 的定义使其适用于复空间。设 $c^*$ 为 $c$ 的复共轭。（当 $c$ 是形如 $a \pm bi$ 的复数时，$c$ 的复共轭 $c^*$ 定义如下：
+
+      $$ [a+bi]^* = a-bi \\ [a-bi]^* = a+bi $$
+    step2: |-
+      接下来须将内积 $\braket{A}{B}$ 的定义改造一下，使之适用于复空间。设 $c^*$ 为 $c$ 的复共轭。（当 $c$ 是形如 $a \pm bi$ 的复数时，$c$ 的复共轭 $c^*$ 定义如下：
+
+      $$ [a+bi]^* = a-bi \\ [a-bi]^* = a+bi $$
   - id: 25
     kind: body
     source: |-
       So, for all complex numbers $c$, $[c^*]^* = c$, but $c^* = c$ just in case $c$ is real.) Now definition of the inner product of $\ket{A}$ and $\ket{B}$ for complex spaces can be given in terms of the conjugates of complex coefficients as follows. Where $\ket{A_1}$ and $\ket{A_2}$ are the unit vectors described earlier, $\ket{A} = a_1 \ket{A_1} + a_2 \ket{A_2}$ and $\ket{B} = b_1 \ket{A_1} + b_2 \ket{A_2}$, then
 
       $$ \braket{A}{B} = (a_1^*)(b_1) + (a_2^*)(b_2) $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是，对所有复数 $c$，$[c^*]^* = c$，但当且仅当 $c$ 是实数时 $c^* = c$。）现在，复空间中 $\ket{A}$ 与 $\ket{B}$ 的内积可以用复系数的共轭如下给出。设 $\ket{A_1}$ 与 $\ket{A_2}$ 是前面描述的单位矢量，$\ket{A} = a_1 \ket{A_1} + a_2 \ket{A_2}$ 和 $\ket{B} = b_1 \ket{A_1} + b_2 \ket{A_2}$，则
+
+      $$ \braket{A}{B} = (a_1^*)(b_1) + (a_2^*)(b_2) $$
+    step2: |-
+      于是，对一切复数 $c$ 都有 $[c^*]^* = c$，而 $c^* = c$ 当且仅当 $c$ 是实数。）这样，复空间中 $\ket{A}$ 与 $\ket{B}$ 的内积便可通过复系数的共轭定义如下。设 $\ket{A_1}$、$\ket{A_2}$ 即前述单位矢量，$\ket{A} = a_1 \ket{A_1} + a_2 \ket{A_2}$ 和 $\ket{B} = b_1 \ket{A_1} + b_2 \ket{A_2}$，则
+
+      $$ \braket{A}{B} = (a_1^*)(b_1) + (a_2^*)(b_2) $$
   - id: 26
     kind: body
     source: |-
       The most general and abstract notion of an inner product, of which we’ve now defined two special cases, is as follows. $\braket{A}{B}$ is an inner product on a vector space $V$ just in case
-    step1: TBD
-    step2: TBD
+    step1: |-
+      内积的最一般、最抽象的概念——我们如今已定义了它的两个特例——如下。$\braket{A}{B}$ 是矢量空间 $V$ 上的内积，当且仅当
+    step2: |-
+      内积最一般、最抽象的概念（上文已定义其两个特例）如下。$\braket{A}{B}$ 是矢量空间 $V$ 上的内积，当且仅当
   - id: 27
     kind: body
     source: |-
       1. $\braket{A}{A} = |A|^2$, and $\braket{A}{A}=0$ if and only if $A=0$
       2. $\braket{B}{A} = \braket{A}{B}^*$
       3. $\braket{B}{A+C}=\braket{B}{A} + \braket{B}{C}$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. $\braket{A}{A} = |A|^2$，且当且仅当 $A=0$ 时 $\braket{A}{A}=0$
+      2. $\braket{B}{A} = \braket{A}{B}^*$
+      3. $\braket{B}{A+C}=\braket{B}{A} + \braket{B}{C}$。
+    step2: |-
+      1. $\braket{A}{A} = |A|^2$，且当且仅当 $A=0$ 时 $\braket{A}{A}=0$
+      2. $\braket{B}{A} = \braket{A}{B}^*$
+      3. $\braket{B}{A+C}=\braket{B}{A} + \braket{B}{C}$。
   - id: 28
     kind: body
     source: |-
       It follows from this that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由此可得
+    step2: |-
+      由此可得
   - id: 29
     kind: body
     source: |-
       1. the length of $\ket{A}$ is the square root of inner product of $\ket{A}$ with itself, i.e., $$ |A| = \sqrt{\braket{A}{A}} $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. $\ket{A}$ 的长度是 $\ket{A}$ 与自身内积的平方根，即 $$ |A| = \sqrt{\braket{A}{A}} $$
+    step2: |-
+      1. $\ket{A}$ 的长度是 $\ket{A}$ 与自身之内积的平方根，即 $$ |A| = \sqrt{\braket{A}{A}} $$
   - id: 30
     kind: body
     source: |-
       and
-    step1: TBD
-    step2: TBD
+    step1: |-
+      且
+    step2: |-
+      且
   - id: 31
     kind: body
     source: |-
       1. $\ket{A}$ and $\ket{B}$ are mutually perpendicular, or **orthogonal**, if, and only if, $\braket{A}{B} = 0$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 当且仅当 $\braket{A}{B} = 0$ 时，$\ket{A}$ 与 $\ket{B}$ 互相垂直，即**正交**。
+    step2: |-
+      1. 当且仅当 $\braket{A}{B} = 0$ 时，$\ket{A}$ 与 $\ket{B}$ 互相垂直，即**正交**。
   - id: 32
     kind: body
     source: |-
       A **vector space** is a set of vectors closed under addition, and multiplication by constants, **an inner product space** is a vector space on which the operation of vector multiplication has been defined, and the **dimension** of such a space is the maximum number of nonzero, mutually orthogonal vectors it contains.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **矢量空间**是对加法和与常数乘法封闭的一组矢量；**内积空间**是定义了矢量乘法运算的矢量空间；这种空间的**维数**是它所含的非零、互相正交的矢量的最大数目。
+    step2: |-
+      **矢量空间**是对加法与常数乘法封闭的矢量集合；**内积空间**是定义了矢量乘法运算的矢量空间；这类空间的**维数**，是它所能容纳的非零且互相正交的矢量的最大数目。
   - id: 33
     kind: body
     source: |-
       Any collection of $N$ mutually orthogonal vectors of length 1 in an $N$-dimensional vector space constitutes an **orthonormal basis** for that space. Let $\ket{A_1}, \ldots, \ket{A_N}$ be such a collection of unit vectors. Then every vector in the space can be expressed as a sum of the form:
 
       $$ \ket{B} = b_1 \ket{A_1} + b_2 \ket{A_2} + \ldots + b_N \ket{A_N}, $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $N$ 维矢量空间中任意 $N$ 个长度为 1 且互相正交的矢量，构成该空间的一个**标准正交基**。设 $\ket{A_1}, \ldots, \ket{A_N}$ 是这样一组单位矢量。那么空间中每个矢量都可表示为如下形式的和：
+
+      $$ \ket{B} = b_1 \ket{A_1} + b_2 \ket{A_2} + \ldots + b_N \ket{A_N}, $$
+    step2: |-
+      $N$ 维矢量空间中，任何 $N$ 个长度为 1 且互相正交的矢量都构成该空间的一个**标准正交基**。设 $\ket{A_1}, \ldots, \ket{A_N}$ 是这样一组单位矢量，那么空间中的每个矢量都可表为如下形式的和：
+
+      $$ \ket{B} = b_1 \ket{A_1} + b_2 \ket{A_2} + \ldots + b_N \ket{A_N}, $$
   - id: 34
     kind: body
     source: |-
       where $b_i = \braket{B}{A_i}$. The $b_i$’s here are known as $B$’s **expansion coefficients** in the $A$-basis.[^note-5]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其中 $b_i = \braket{B}{A_i}$。这里的 $b_i$ 称为 $B$ 在 $A$ 基中的**展开系数**。[^note-5]
+    step2: |-
+      其中 $b_i = \braket{B}{A_i}$。这些 $b_i$ 称为 $B$ 在 $A$ 基下的**展开系数**。[^note-5]
   - id: 35
     kind: body
     source: |-
       Notice that:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      请注意：
+    step2: |-
+      请注意：
   - id: 36
     kind: body
     source: |-
       1. for all vectors $A$, $B$, and $C$ in a given space, $$ \braket{A}{B+C} = \braket{A}{B} + \braket{A}{C} $$
       2. for any vectors $M$ and $Q$, expressed in terms of the $A$-basis, $$ \ket{M} + \ket{Q} = \sum_{i=1}^N (m_i + q_i) \ket{A_i}, $$ and $$ \braket{M}{Q} = \sum_{i=1}^N m_i^* q_i $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 对给定空间中所有矢量 $A$、$B$、$C$，$$ \braket{A}{B+C} = \braket{A}{B} + \braket{A}{C} $$
+      2. 对以 $A$ 基表示的任何矢量 $M$ 与 $Q$，$$ \ket{M} + \ket{Q} = \sum_{i=1}^N (m_i + q_i) \ket{A_i}, $$ 且 $$ \braket{M}{Q} = \sum_{i=1}^N m_i^* q_i $$
+    step2: |-
+      1. 对给定空间中所有矢量 $A$、$B$、$C$，$$ \braket{A}{B+C} = \braket{A}{B} + \braket{A}{C} $$
+      2. 对以 $A$ 基表出的任何矢量 $M$ 与 $Q$，$$ \ket{M} + \ket{Q} = \sum_{i=1}^N (m_i + q_i) \ket{A_i}, $$ 且 $$ \braket{M}{Q} = \sum_{i=1}^N m_i^* q_i $$
   - id: 37
     kind: body
     source: |-
       There is another way of writing vectors, namely by writing their expansion coefficients (relative to a given basis) in a column, like so:
 
       $$ \ket{Q} = \begin{bmatrix} q_1 \\ q_2 \end{bmatrix} $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      还有另一种写矢量的方式，即把它们的（相对于给定基的）展开系数写成一列，如下：
+
+      $$ \ket{Q} = \begin{bmatrix} q_1 \\ q_2 \end{bmatrix} $$
+    step2: |-
+      矢量还有另一种写法：把它的（相对于给定基的）展开系数写成一列，如下：
+
+      $$ \ket{Q} = \begin{bmatrix} q_1 \\ q_2 \end{bmatrix} $$
   - id: 38
     kind: body
     source: |-
       where $q_i = \braket{Q}{A_i}$ and the $A_i$ are the chosen basis vectors.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其中 $q_i = \braket{Q}{A_i}$，而 $A_i$ 是选定的基矢。
+    step2: |-
+      其中 $q_i = \braket{Q}{A_i}$，而 $A_i$ 是选定的基矢。
   - id: 39
     kind: body
     source: |-
       When we are dealing with vector spaces of infinite dimension, since we can’t write the whole column of expansion coefficients needed to pick out a vector since it would have to be infinitely long, so instead we write down the function (called the ‘wave function’ for $Q$, usually represented $\psi(i))$ which has those coefficients as values. We write down, that is, the function:
 
       $$ \psi(i) = q_i = \braket{Q}{A_i} $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      处理无限维矢量空间时，由于无法写出挑选一个矢量所需的整列展开系数（它必须无限长），我们改写下一个函数（称为 $Q$ 的“波函数”，通常表示为 $\psi(i)$），它以那些系数为值。也就是说，我们写下函数：
+
+      $$ \psi(i) = q_i = \braket{Q}{A_i} $$
+    step2: |-
+      处理无穷维矢量空间时，挑出一个矢量所需的展开系数列写不完整（它得无限长），于是我们改写下一个函数（称为 $Q$ 的“波函数”，通常记作 $\psi(i)$），它以那些系数为值。也就是说，我们写下这个函数：
+
+      $$ \psi(i) = q_i = \braket{Q}{A_i} $$
   - id: 40
     kind: body
     source: |-
       Given any vector in, and any basis for, a vector space, we can obtain the wave-function of the vector in that basis; and given a wave-function for a vector, in a particular basis, we can construct the vector whose wave-function it is. Since it turns out that most of the important operations on vectors correspond to simple algebraic operations on their wave-functions, this is the usual way to represent state-vectors.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      给定矢量空间中任何矢量与任何基，我们可以得到该矢量在该基中的波函数；给定一个矢量在特定基中的波函数，我们也可以构造出以它为波函数的矢量。由于矢量上的大多数重要运算对应于其波函数的简单代数运算，这是表示态矢量的通常方式。
+    step2: |-
+      给定矢量空间中的任意矢量与任意一组基，就能得到该矢量在这组基下的波函数；反过来，给定一个矢量在特定基下的波函数，也能构造出以它为波函数的那个矢量。矢量上的多数重要运算恰好对应其波函数上的简单代数运算，因此这就是表示态矢量的惯用方式。
   - id: 41
     kind: body
     source: |-
       When a pair of physical systems interact, they form a composite system, and, in quantum mechanics as in classical mechanics, there is a rule for constructing the state-space of a composite system from those of its components, a rule that tells us how to obtain, from the state-spaces, $H_A$ and $H_B$ for $A$ and $B$, respectively, the state-space — called the ‘tensor product’ of $H_A$ and $H_B$, and written $H_A \otimes H_B$ — of the pair. There are two important things about the rule; first, so long as $H_A$ and $H_B$ are Hilbert spaces, $H_A \otimes H_B$ will be as well, and second, there are some facts about the way $H_A \otimes H_B$ relates to $H_A$ and $H_B$, that have surprising consequences for the relations between the complex system and its parts. In particular, it turns out that the state of a composite system is not uniquely defined by those of its components. What this means, or at least what it appears to mean, is that there are, according to quantum mechanics, facts about composite systems (and not just facts about their spatial configuration) that don’t supervene on facts about their components; it means that there are facts about systems as wholes that don’t supervene on facts about their parts and the way those parts are arranged in space. The significance of this feature of the theory cannot be overplayed; it is, in one way or another, implicated in most of its most difficult problems.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当两个物理系统相互作用时，它们构成一个复合系统；在量子力学中与在经典力学中一样，有一条由组件的状态空间构造复合系统状态空间的规则，这条规则告诉我们，如何从分别为 $A$ 与 $B$ 的状态空间 $H_A$ 与 $H_B$ 得到这一对系统的状态空间——称为 $H_A$ 与 $H_B$ 的“张量积”，写作 $H_A \otimes H_B$。关于这条规则有两件重要的事；第一，只要 $H_A$ 与 $H_B$ 是希尔伯特空间，$H_A \otimes H_B$ 也就是；第二，关于 $H_A \otimes H_B$ 与 $H_A$、$H_B$ 如何关联，有一些事实对复合系统与其部分之间的关系产生惊人的后果。特别地，结果表明复合系统的态并非由其组件的态唯一地定义。这意味着，或至少看起来意味着：按照量子力学，有关于复合系统的事实（不只是关于其空间构型的事实）不随附于关于其组件的事实；它意味着有关于作为整体的系统的事实，不随附于关于其部分的事实以及这些部分在空间中排列的方式。这个理论特征的意义怎么说都不为过；它以这样或那样的方式牵涉于这个理论的大多数最困难的问题之中。
+    step2: |-
+      两个物理系统相互作用时便构成一个复合系统。与经典力学一样，量子力学也有一条规则，可以从组件的状态空间构造复合系统的状态空间：由分别为 $A$ 与 $B$ 的状态空间 $H_A$ 与 $H_B$，得到这一对系统的状态空间——称为 $H_A$ 与 $H_B$ 的“张量积”，记作 $H_A \otimes H_B$。这条规则有两点要紧之处。其一，只要 $H_A$ 与 $H_B$ 是希尔伯特空间，$H_A \otimes H_B$ 也是；其二，关于 $H_A \otimes H_B$ 与 $H_A$、$H_B$ 如何关联，有些事实会给复合系统与其部分之间的关系带来惊人的后果。特别地，结果表明：复合系统的态并不由其组件的态唯一决定。这意味着——至少看起来意味着——按量子力学，关于复合系统存在这样一些事实（不只是关于其空间构型的事实），它们不随附于关于其组件的事实；也就是说，关于作为整体的系统存在一些事实，不随附于关于其部分的事实及这些部分在空间中的排列方式。这个理论特征的重要性怎么强调都不为过；这个理论的大多数最困难的问题，都以这样或那样的方式牵涉其中。
   - id: 42
     kind: body
     source: |-
       In a little more detail: if $\{v_{i}^A\}$ is an orthonormal basis for $H_A$ and $\{u_{j}^B\}$ is an orthonormal basis for $H_B$, then the set of pairs $(v_{i}^A, u_{j}^B)$ is taken to form an orthonormal basis for the tensor product space $H_A \otimes H_B$. The notation $v_i^A \otimes u_j^B$ is used for the pair $(v_{i}^A,u_{j}^B)$, and inner product on $H_A \otimes H_B$ is defined as:[^note-6]
 
       $$ \braket{v_i^A \otimes u_m^B}{v_j^A \otimes u_n^B} = \braket{v_i^A}{v_j^A} \braket{u_m^B}{u_n^B} $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      稍微详细一点：如果 $\{v_{i}^A\}$ 是 $H_A$ 的一个标准正交基，$\{u_{j}^B\}$ 是 $H_B$ 的一个标准正交基，则序对 $(v_{i}^A, u_{j}^B)$ 的集合被取为张量积空间 $H_A \otimes H_B$ 的一个标准正交基。记号 $v_i^A \otimes u_j^B$ 用于序对 $(v_{i}^A,u_{j}^B)$，而 $H_A \otimes H_B$ 上的内积定义为：[^note-6]
+
+      $$ \braket{v_i^A \otimes u_m^B}{v_j^A \otimes u_n^B} = \braket{v_i^A}{v_j^A} \braket{u_m^B}{u_n^B} $$
+    step2: |-
+      说得稍细一点：设 $\{v_{i}^A\}$ 是 $H_A$ 的一组标准正交基，$\{u_{j}^B\}$ 是 $H_B$ 的一组标准正交基，则序对 $(v_{i}^A, u_{j}^B)$ 之集被取作张量积空间 $H_A \otimes H_B$ 的标准正交基。记号 $v_i^A \otimes u_j^B$ 用于序对 $(v_{i}^A,u_{j}^B)$，而 $H_A \otimes H_B$ 上的内积定义为：[^note-6]
+
+      $$ \braket{v_i^A \otimes u_m^B}{v_j^A \otimes u_n^B} = \braket{v_i^A}{v_j^A} \braket{u_m^B}{u_n^B} $$
   - id: 43
     kind: body
     source: |-
       It is a result of this construction that although every vector in $H_A \otimes H_B$ is a linear sum of vectors expressible in the form $v^A \otimes u^B$, not every vector in the space is itself expressible in that form, and it turns out that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一构造的一个结果是：虽然 $H_A \otimes H_B$ 中每个矢量都是可表为 $v^A \otimes u^B$ 形式的矢量的线性和，但并非空间中每个矢量本身都能表为该形式，而且结果是
+    step2: |-
+      这一构造的一个结果是：虽然 $H_A \otimes H_B$ 中的每个矢量都是可表为 $v^A \otimes u^B$ 形式之矢量的线性和，但并非空间中每个矢量自身都可表为该形式；并且，结果有
   - id: 44
     kind: body
     source: |-
@@ -291,431 +415,611 @@ segments:
       2. if the states of $A$ and $B$ are pure (i.e., representable by vectors $v^A$ and $u^B$, respectively), then the state of $(A+B)$ is pure and represented by $v^A \otimes u^B$, and
       3. if the state of $(A+B)$ is pure and expressible in the form $v^A \otimes u^B$, then the states of $A$ and $B$ are pure, but
       4. if the states of $A$ and $B$ are not pure, i.e., if they are mixed states (these are defined below), they do not uniquely define the state of $(A+B)$; in particular, it may be a pure state not expressible in the form $v^A \otimes u^B$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 任何复合态唯一地定义其组件的态。
+      2. 如果 $A$ 与 $B$ 的态是纯的（即分别可用矢量 $v^A$ 与 $u^B$ 表示），则 $(A+B)$ 的态是纯的且由 $v^A \otimes u^B$ 表示，而且
+      3. 如果 $(A+B)$ 的态是纯的且可表为 $v^A \otimes u^B$ 的形式，则 $A$ 与 $B$ 的态是纯的，但是
+      4. 如果 $A$ 与 $B$ 的态不纯，即它们是混合态（定义见下文），则它们不唯一地定义 $(A+B)$ 的态；特别地，后者可以是一个不可表为 $v^A \otimes u^B$ 形式的纯态。
+    step2: |-
+      1. 任何复合态都唯一地确定其组件的态。
+      2. 若 $A$ 与 $B$ 的态是纯态（即分别可由矢量 $v^A$ 与 $u^B$ 表示），则 $(A+B)$ 的态是纯态且由 $v^A \otimes u^B$ 表示；且
+      3. 若 $(A+B)$ 的态是纯态且可表为 $v^A \otimes u^B$ 的形式，则 $A$ 与 $B$ 的态是纯态；但是
+      4. 若 $A$ 与 $B$ 的态不是纯态（即它们是混合态，定义见下），则它们并不唯一确定 $(A+B)$ 的态；特别地，后者可以是一个无法表为 $v^A \otimes u^B$ 形式的纯态。
   - id: 45
     kind: body
     source: |-
       ### 2.2 Operators
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2 算符
+    step2: |-
+      ### 2.2 算符
   - id: 46
     kind: body
     source: |-
       An **operator** $O$ is a mapping of a vector space onto itself; it takes any vector $\ket{B}$ in a space onto another vector $\ket{B'}$ also in the space; $O \ket{B} = \ket{B'}$. **Linear operators** are operators that have the following properties:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个**算符** $O$ 是矢量空间到其自身的映射；它把空间中任何矢量 $\ket{B}$ 映到空间中另一矢量 $\ket{B'}$；$O \ket{B} = \ket{B'}$。**线性算符**是具有如下性质的算符：
+    step2: |-
+      **算符** $O$ 是矢量空间到其自身的映射：它把空间中的任一矢量 $\ket{B}$ 映为该空间中的另一矢量 $\ket{B'}$，即 $O \ket{B} = \ket{B'}$。**线性算符**是满足如下性质的算符：
   - id: 47
     kind: body
     source: |-
       1. $O(\ket{A} + \ket{B}) = O \ket{A} + O \ket{B}$, and
       2. $O(c \ket{A}) = c(O \ket{A})$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. $O(\ket{A} + \ket{B}) = O \ket{A} + O \ket{B}$，且
+      2. $O(c \ket{A}) = c(O \ket{A})$。
+    step2: |-
+      1. $O(\ket{A} + \ket{B}) = O \ket{A} + O \ket{B}$，且
+      2. $O(c \ket{A}) = c(O \ket{A})$。
   - id: 48
     kind: body
     source: |-
       Just as any vector in an $N$-dimensional space can be represented by a column of $N$ numbers, relative to a choice of basis for the space, any linear operator on the space can be represented in a column notation by $N^2$ numbers:
 
       $$O = \begin{bmatrix} O_{11} & O_{12} \\ O_{21} & O_{22} \end{bmatrix}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如 $N$ 维空间中任何矢量可以（相对于空间的一组基的选择）由 $N$ 个数构成的列表示，空间上任何线性算符也可以用列记法由 $N^2$ 个数表示：
+
+      $$O = \begin{bmatrix} O_{11} & O_{12} \\ O_{21} & O_{22} \end{bmatrix}$$
+    step2: |-
+      正如 $N$ 维空间中的任何矢量都可以（相对于空间的一组基）用 $N$ 个数构成的列来表示，空间上的任何线性算符也可以用列记法由 $N^2$ 个数表示：
+
+      $$O = \begin{bmatrix} O_{11} & O_{12} \\ O_{21} & O_{22} \end{bmatrix}$$
   - id: 49
     kind: body
     source: |-
       where $O_{ij} = \braket{A_i}{O \mid A_j}$ and the $A_N$ are the basis vectors of the space. The effect of the linear operator $O$ on the vector $B$ is, then, given by
 
       $$\begin{align} O \ket{B} &= \begin{bmatrix} O_{11} & O_{12} \\ O_{21} & O_{22} \end{bmatrix} \times \begin{bmatrix} b_1 \\ b_2 \end{bmatrix} \\ &= \begin{bmatrix} (O_{11}b_1 + O_{12}b_2) \\ (O_{21}b_1 + O_{22}b_2) \end{bmatrix} \\ &= (O_{11}b_1 + O_{12}b_2)|A_1\rangle + (O_{21}b_1 + O_{22}b_2|A_2\rangle \\ &=|B'\rangle \end{align}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其中 $O_{ij} = \braket{A_i}{O \mid A_j}$，而 $A_N$ 是空间的基矢。线性算符 $O$ 对矢量 $B$ 的作用由下式给出
+
+      $$\begin{align} O \ket{B} &= \begin{bmatrix} O_{11} & O_{12} \\ O_{21} & O_{22} \end{bmatrix} \times \begin{bmatrix} b_1 \\ b_2 \end{bmatrix} \\ &= \begin{bmatrix} (O_{11}b_1 + O_{12}b_2) \\ (O_{21}b_1 + O_{22}b_2) \end{bmatrix} \\ &= (O_{11}b_1 + O_{12}b_2)|A_1\rangle + (O_{21}b_1 + O_{22}b_2|A_2\rangle \\ &=|B'\rangle \end{align}$$
+    step2: |-
+      其中 $O_{ij} = \braket{A_i}{O \mid A_j}$，而 $A_N$ 是该空间的基矢。于是，线性算符 $O$ 作用于矢量 $B$ 的效果由下式给出：
+
+      $$\begin{align} O \ket{B} &= \begin{bmatrix} O_{11} & O_{12} \\ O_{21} & O_{22} \end{bmatrix} \times \begin{bmatrix} b_1 \\ b_2 \end{bmatrix} \\ &= \begin{bmatrix} (O_{11}b_1 + O_{12}b_2) \\ (O_{21}b_1 + O_{22}b_2) \end{bmatrix} \\ &= (O_{11}b_1 + O_{12}b_2)|A_1\rangle + (O_{21}b_1 + O_{22}b_2|A_2\rangle \\ &=|B'\rangle \end{align}$$
   - id: 50
     kind: body
     source: |-
       Two more definitions before we can say what Hilbert spaces are, and then we can turn to quantum mechanics. $\ket{B}$ is an **eigenvector** of $O$ with eigenvalue $a$ if, and only if, $O \ket{B} = a \ket{B}$. Different operators can have different eigenvectors, but the eigenvector/operator relation depends only on the operator and vectors in question, and not on the particular basis in which they are expressed; the eigenvector/operator relation is, that is to say, invariant under change of basis. A **Hermitean operator** is an operator which has the property that there is an orthonormal basis consisting of its eigenvectors and those eigenvalues are all real.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在我们能说出希尔伯特空间是什么之前还需要两个定义，然后就可以转向量子力学。$\ket{B}$ 是 $O$ 的具有本征值 $a$ 的**本征矢量**，当且仅当 $O \ket{B} = a \ket{B}$。不同的算符可以有不同的本征矢量，但本征矢量/算符关系只取决于相关的算符与矢量，而不取决于表示它们所用的特定基；也就是说，本征矢量/算符关系在基变换下不变。**厄米算符**是具有如下性质的算符：存在一个由其本征矢量构成的标准正交基，且那些本征值全是实数。
+    step2: |-
+      在说明希尔伯特空间是什么之前，还需要两个定义；然后便可转入量子力学。$\ket{B}$ 是 $O$ 的、本征值为 $a$ 的**本征矢量**，当且仅当 $O \ket{B} = a \ket{B}$。不同算符可以有不同的本征矢量，但本征矢量与算符的关系只取决于所论的算符与矢量，而不取决于表示它们所用的特定基；换言之，这一关系在基变换下不变。**厄米算符**则是具有如下性质的算符：存在一组由其本征矢量构成的标准正交基，且这些本征值全为实数。
   - id: 51
     kind: body
     source: |-
       A **Hilbert space**, finally, is a vector space on which an inner product is defined, and which is complete, i.e., which is such that any Cauchy sequence of vectors in the space converges to a vector in the space. All finite-dimensional inner product spaces are complete, and I will restrict myself to these. The infinite case involves some complications that are not fruitfully entered into at this stage.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，**希尔伯特空间**是定义了内积且完备的矢量空间，即空间中任何矢量的柯西序列都收敛于空间中一个矢量。所有有限维内积空间都是完备的，我将把自己限于这些空间。无穷维情形涉及一些复杂性，在此阶段深入进去没有益处。
+    step2: |-
+      最后，**希尔伯特空间**是定义了内积、并且完备的矢量空间；所谓完备，是指空间中矢量的任何柯西序列都收敛于空间中的一个矢量。一切有限维内积空间都完备，我把自己限于这类空间。无穷维情形带来若干复杂问题，在此阶段深究并无益处。
   - id: 52
     kind: body
     source: |-
       ## 3. Quantum Mechanics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 量子力学
+    step2: |-
+      ## 3 量子力学
   - id: 53
     kind: body
     source: |-
       Four basic principles of quantum mechanics are:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      量子力学有四条基本原理：
+    step2: |-
+      量子力学有四条基本原理：
   - id: 54
     kind: body
     source: |-
       **(3.1)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(3.1)**
+    step2: |-
+      **(3.1)**
   - id: 55
     kind: body
     source: |-
       **Physical States.** Every physical system is associated with a Hilbert Space, every unit vector in the space corresponds to a possible pure state of the system, and every possible pure state, to some vector in the space.[^note-7]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **物理态。** 每个物理系统都伴随有一个希尔伯特空间，空间中每个单位矢量对应系统的一个可能纯态，而每个可能纯态对应空间中某个矢量。[^note-7]
+    step2: |-
+      **物理态。** 每个物理系统都伴随一个希尔伯特空间；空间中的每个单位矢量对应该系统的一个可能纯态，而每个可能纯态也对应空间中的某个矢量。[^note-7]
   - id: 56
     kind: body
     source: |-
       **(3.2)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(3.2)**
+    step2: |-
+      **(3.2)**
   - id: 57
     kind: body
     source: |-
       **Physical Quantities.** Hermitian operators in the Hilbert space associated with a system represent physical quantities, and their eigenvalues represent the possible results of measurements of those quantities. There is an operator, called the Hamiltonian, that plays a special role in quantum theory because the dynamics of a system can be conveniently formulated by tracking its evolution. The Hamiltonian – written $H$, or $\hat{H}$ – stands for the total energy of the system. Its eigenvalues are the possible results that might be obtained in measurements of total energy. It is given by summing over the kinetic and potential energies of the system’s components.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **物理量。** 与系统相伴随的希尔伯特空间中的厄米算符表示物理量，它们的本征值表示这些量的测量的可能结果。有一个称为哈密顿量的算符在量子理论中扮演特殊角色，因为系统的动力学可以方便地通过追踪其演化来表述。哈密顿量——写作 $H$ 或 $\hat{H}$——代表系统的总能量。它的本征值是总能量测量中可能得到的结果。它由对系统各组件的动能与势能求和而给出。
+    step2: |-
+      **物理量。** 与系统相伴随的希尔伯特空间中的厄米算符表示物理量，其本征值表示测量这些量可能得到的结果。有一个算符称为哈密顿量，在量子理论中扮演特殊角色：只要追踪系统的演化，系统的动力学就能得到很方便的表述。哈密顿量——记作 $H$ 或 $\hat{H}$——代表系统的总能量，其本征值就是测量总能量可能得到的结果。它由对系统各组件的动能与势能求和而得。
   - id: 58
     kind: body
     source: |-
       **(3.3)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(3.3)**
+    step2: |-
+      **(3.3)**
   - id: 59
     kind: body
     source: |-
       **Composition.** The Hilbert space associated with a complex system is the tensor product of those associated with the simple systems (in the standard, non-relativistic, theory: the individual particles) of which it is composed.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **组合。** 与复合系统相伴随的希尔伯特空间是与其组成的简单系统（在标准的非相对论理论中：个体粒子）相伴随的那些希尔伯特空间的张量积。
+    step2: |-
+      **组合。** 与复合系统相伴随的希尔伯特空间，是组成它的那些简单系统（在标准非相对论理论中即单个粒子）所伴随的希尔伯特空间的张量积。
   - id: 60
     kind: body
     source: |-
       **(3.4)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(3.4)**
+    step2: |-
+      **(3.4)**
   - id: 61
     kind: body
     source: |-
       **Dynamics.** a. *Contexts of type 1*: Given the state of a system at $t$ and the forces and constraints to which it is subject, there is an equation, ‘**Schrödinger’s equation**’, that gives the state at any other time $U \ket{v_t} \rightarrow \ket{v_{t'}}$.[^note-8] The important properties of $U$ for our purposes are that it is **deterministic**, which is to say that it takes the state of a system at one time into a unique state at any other, it is **unitary**, which means that it is an automorphism of the Hilbert space on which it acts (i.e., a mapping of that space onto itself that preserves the linear space structure and inner product), and it is **linear**, which is to say that if it takes a state $\ket{A}$ onto the state $\ket{A'}$, and it takes the state $\ket{B}$ onto the state $\ket{B'}$, then it takes any state of the form $\alpha \ket{A} + \beta \ket{B}$ onto the state $\alpha \ket{A'} + \beta \ket{B'}$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **动力学。** a. *类型 1 语境*：给定系统在 $t$ 时刻的态以及它所受的力与约束，有一个方程，即**薛定谔方程**，给出任何其他时刻的态 $U \ket{v_t} \rightarrow \ket{v_{t'}}$。[^note-8] 对我们的目的来说，$U$ 的重要性质是：它是**决定论的**，也就是说它把系统在一个时刻的态带到任何其他时刻的唯一一个态；它是**幺正的**，这意味着它是它所作用其上的希尔伯特空间的自同构（即该空间到自身的保持线性空间结构与内积的映射）；它是**线性的**，也就是说，如果它把态 $\ket{A}$ 带到态 $\ket{A'}$，把态 $\ket{B}$ 带到态 $\ket{B'}$，那么它把任何形如 $\alpha \ket{A} + \beta \ket{B}$ 的态带到态 $\alpha \ket{A'} + \beta \ket{B'}$。
+    step2: |-
+      **动力学。** a. “类型 1 语境”：给定系统在 $t$ 时刻的态以及它所受的力与约束，有一个方程——**薛定谔方程**——给出任何其他时刻的态：$U \ket{v_t} \rightarrow \ket{v_{t'}}$。[^note-8] 就我们的目的而言，$U$ 的要点在于：它是**决定论的**，即把系统某时刻的态带到任何其他时刻的唯一态；它是**幺正的**，即它是所作用于其上的希尔伯特空间的自同构（该空间到其自身的、保持线性空间结构与内积的映射）；它还是**线性的**，即若它把态 $\ket{A}$ 带到态 $\ket{A'}$、把态 $\ket{B}$ 带到态 $\ket{B'}$，则它把任何形如 $\alpha \ket{A} + \beta \ket{B}$ 的态带到态 $\alpha \ket{A'} + \beta \ket{B'}$。
   - id: 62
     kind: body
     source: |-
       **b.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **b.**
+    step2: |-
+      **b.**
   - id: 63
     kind: body
     source: |-
       *Contexts of type 2* (“Measurement Contexts”):[^note-9] Carrying out a “measurement” of an observable $B$ on a system in a state $\ket{A}$ has the effect of collapsing the system into a $B$-eigenstate corresponding to the eigenvalue observed. This is known as the **Collapse Postulate**. Which *particular* $B$-eigenstate it collapses into is a matter of probability, and the probabilities are given by a rule known as **Born’s Rule**: $$ \Pr(b_i) = |\braket{A}{B=b_i}|^2 $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *类型 2 语境*（“测量语境”）：[^note-9] 对处于态 $\ket{A}$ 的系统实施对可观测量 $B$ 的一次“测量”，其效果是使系统塌缩到与观测到的本征值相应的 $B$ 本征态。这就是所谓的**塌缩公设**。它塌缩到哪一个特定的 $B$ 本征态则是个概率问题，概率由一条称为**玻恩规则**的规则给出： $$ \Pr(b_i) = |\braket{A}{B=b_i}|^2 $$
+    step2: |-
+      “类型 2 语境”（“测量语境”）：[^note-9] 对处于态 $\ket{A}$ 的系统就可观测量 $B$ 实施一次“测量”，其效果是使系统塌缩到与所观测到的本征值相应的那个 $B$ 本征态。这就是所谓的**塌缩公设**。至于它塌缩到哪个特定的 $B$ 本征态，则是概率问题；概率由一条称为**玻恩规则**的规则给出： $$ \Pr(b_i) = |\braket{A}{B=b_i}|^2 $$
   - id: 64
     kind: body
     source: |-
       There are two important points to note about these two kinds of contexts:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于这两类语境，有两点值得注意：
+    step2: |-
+      关于这两类语境，有两点值得注意：
   - id: 65
     kind: body
     source: |-
       - The distinction between contexts of type 1 and 2 remains to be made out in quantum mechanical terms; nobody has managed to say in a completely satisfactory way, in the terms provided by the theory, which contexts are measurement contexts, and
       - Even if the distinction is made out, it is an open interpretive question whether there *are* contexts of type 2; i.e., it is an open interpretive question whether there are any contexts in which systems are governed by a dynamical rule *other* than Schrödinger’s equation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 类型 1 与类型 2 语境之间的区分尚待用量子力学术语来阐明；没有人能以完全令人满意的方式、用理论提供的术语说出哪些语境是测量语境，而且
+      - 即使作出了这一区分，是否存在类型 2 语境也是一个开放的解释性问题；即，是否存在任何系统受薛定谔方程以外的动力学规则支配的语境，这是一个开放的解释性问题。
+    step2: |-
+      - 类型 1 与类型 2 语境之别尚待用量子力学的术语来阐明：尚无人能用理论提供的术语、以完全令人满意的方式说清哪些语境是测量语境；以及
+      - 即便这一区分能够成立，**是否真的存在**类型 2 语境仍是一个悬而未决的解释性问题；也就是说，是否存在这样一些语境——系统在其中受薛定谔方程**以外**的动力学规则支配——这仍是一个开放问题。
   - id: 66
     kind: body
     source: |-
       ## 4. Structures on Hilbert Space
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 希尔伯特空间上的结构
+    step2: |-
+      ## 4 希尔伯特空间上的结构
   - id: 67
     kind: body
     source: |-
       I remarked above that in the same way that all the information we have about the relations between locations in a city is embodied in the spatial relations between the points on a map which represent them, all of the information that we have about the internal relations among (and between) states and quantities in quantum mechanics is embodied in the mathematical relations among the vectors and operators which represent them.[^note-10] From a mathematical point of view, what really distinguishes quantum mechanics from its classical predecessors is that states and quantities have a richer structure; they form families with a more interesting network of relations among their members.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我在上面指出，正如关于城中各处位置之间关系的全部信息都体现在地图上表示它们的点之间的空间关系中，我们关于量子力学中态与量之间（和之间）内部关系的全部信息都体现在表示它们的矢量与算符之间的数学关系中。[^note-10] 从数学的观点看，真正把量子力学与其经典前身区别开来的是：态与量具有更丰富的结构；它们构成的家族，其成员之间有更有趣的关系网络。
+    step2: |-
+      上文我曾指出：正如关于城中各处位置之间关系的全部信息，都体现在地图上代表这些位置的点之间的空间关系中；我们关于量子力学中态与量之间内部关系的全部信息，也都体现在代表它们的矢量与算符之间的数学关系中。[^note-10] 从数学的观点看，真正把量子力学与经典前身区别开来的，是态与量具有更丰富的结构：它们构成的家族，成员之间有一张更有趣的关系网络。
   - id: 68
     kind: body
     source: |-
       All of the physically consequential features of the behaviors of quantum mechanical systems are consequences of mathematical properties of those relations, and the most important of them are easily summarized:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      量子力学系统行为的所有物理上有后果的特征，都是这些关系的数学性质的后果，其中最重要的很容易概述如下：
+    step2: |-
+      量子力学系统行为中一切物理上有分量的特征，都是这些关系的数学性质的推论；其中最重要者，可以容易地概述如下：
   - id: 69
     kind: body
     source: |-
       **(P1)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(P1)**
+    step2: |-
+      **(P1)**
   - id: 70
     kind: body
     source: |-
       Any way of adding vectors in a Hilbert space or multiplying them by scalars will yield a vector that is also in the space. In the case that the vector is normalized, it will, from (3.1), represent a possible state of the system, and in the event that it is the sum of a pair of eigenvectors of an observable $B$ with distinct eigenvalues, it will not itself be an eigenvector of $B$, but will be associated, from (3.4b), with a set of probabilities for showing one or another result in $B$-measurements.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在希尔伯特空间中把矢量相加或乘以标量的任何方式都将产生一个也在该空间中的矢量。在该矢量被归一化的情形下，由 (3.1) 它将表示系统的一个可能态；而当它是本征值相异的一个可观测量 $B$ 的一对本征矢量之和时，它本身将不是 $B$ 的本征矢量，但由 (3.4b) 它将伴随有一组概率，对应于在 $B$ 测量中显示这样或那样结果。
+    step2: |-
+      在希尔伯特空间中将矢量相加或以标量相乘，无论怎么做，所得矢量仍在这个空间中。若所得矢量是归一化的，则按 (3.1) 它表示系统的一个可能态；而若它是一对具有相异本征值的、关于可观测量 $B$ 的本征矢量之和，则它本身并非 $B$ 的本征矢量，但按 (3.4b)，它将伴随一组概率，对应 $B$ 测量中出现这个或那个结果的机会。
   - id: 71
     kind: body
     source: |-
       **(P2)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(P2)**
+    step2: |-
+      **(P2)**
   - id: 72
     kind: body
     source: |-
       For any Hermitian operator on a Hilbert space, there are others, on the same space, with which it doesn’t share a full set of eigenvectors; indeed, it is easy to show that there are other such operators with which it has *no* eigenvectors in common.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对于希尔伯特空间上任何厄米算符，在同一空间上存在另一些算符与它不共享一个完整的本征矢量集；事实上，容易证明存在另一些这样的算符与它没有共同的本征矢量。
+    step2: |-
+      希尔伯特空间上的任何厄米算符，在同空间上都有别的算符与它不共享完整的本征矢量集；事实上，容易证明还存在与它毫无共同本征矢量的算符。
   - id: 73
     kind: body
     source: |-
       If we make a couple of additional interpretive assumptions, we can say more. Assume, for instance, that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果我们再作几条附加的解释性假设，就能说得更多。例如，假设
+    step2: |-
+      若再作几条附加的解释性假设，我们可以说得更多。例如，不妨假设
   - id: 74
     kind: body
     source: |-
       **(4.1)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(4.1)**
+    step2: |-
+      **(4.1)**
   - id: 75
     kind: body
     source: |-
       Every Hermitian operator on the Hilbert space associated with a system represents a distinct observable, and (hence) every normalized vector, a distinct state, and
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与系统相伴随的希尔伯特空间上的每个厄米算符表示一个独特的可观测量，因而（于是）每个归一化矢量表示一个独特的态，而且
+    step2: |-
+      与系统相伴随的希尔伯特空间上的每个厄米算符都表示一个单独的可观测量，因而每个归一化矢量表示一个单独的态；而且
   - id: 76
     kind: body
     source: |-
       **(4.2)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(4.2)**
+    step2: |-
+      **(4.2)**
   - id: 77
     kind: body
     source: |-
       A system has a value for observable $A$ if, and only if, the vector representing its state is an eigenstate of the $A$-operator. The value it has, in such a case, is just the eigenvalue associated with that eigenstate.[^note-11]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个系统对可观测量 $A$ 有一个值，当且仅当表示其态的矢量是 $A$ 算符的本征态。在这种情形下，它具有的值就是与该本征态相联系的本征值。[^note-11]
+    step2: |-
+      一个系统对可观测量 $A$ 具有取值，当且仅当表示其态的矢量是 $A$ 算符的本征态；此时它所具有的值，就是与该本征态相联系的那个本征值。[^note-11]
   - id: 78
     kind: body
     source: |-
       It follows from (P2), by (3.1), that no quantum mechanical state is an eigenstate of all observables (and indeed that there are observables which have *no* eigenstates in common), and so, by (3.2), that no quantum mechanical system ever has simultaneous values for all of the quantities pertaining to it (and indeed that there are pairs of quantities to which *no* state assigns simultaneous values).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由 (P2)，据 (3.1)，可得：没有任何量子力学态是所有可观测量的本征态（事实上，存在一些可观测量彼此之间没有共同本征态），于是据 (3.2)：没有任何量子力学系统曾对所有属于它的量同时具有值（事实上，存在一些量对，没有任何态对它们赋予同时的值）。
+    step2: |-
+      由 (P2) 并据 (3.1)：没有任何量子力学态是所有可观测量的本征态（实际上，确有一些可观测量彼此毫无共同本征态）；于是再据 (3.2)：任何量子力学系统都从不对其所属的全部量同时取值（实际上，确有一些量对，没有任何态对它们赋予同时的值）。
   - id: 79
     kind: body
     source: |-
       There are Hermitian operators on the tensor product $H_1 \otimes H_2$ of a pair of Hilbert spaces $H_1$ and $H_2$ ... In the event that $H_1$ and $H_2$ are the state spaces of systems $S1$ and $S2$, $H_1 \otimes H_2$ is the state-space of the complex system $(S1+S2)$. It follows from this by (4.1) that there are observables pertaining to $(S1+S2)$ whose values are not determined by the values of observables pertaining to the two individually.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在一对希尔伯特空间 $H_1$ 与 $H_2$ 的张量积 $H_1 \otimes H_2$ 上存在厄米算符……如果 $H_1$ 与 $H_2$ 是系统 $S1$ 与 $S2$ 的状态空间，则 $H_1 \otimes H_2$ 是复合系统 $(S1+S2)$ 的状态空间。由此据 (4.1) 可得：存在属于 $(S1+S2)$ 的可观测量，其值不由分别属于二者的可观测量的值所决定。
+    step2: |-
+      在一对希尔伯特空间 $H_1$ 与 $H_2$ 的张量积 $H_1 \otimes H_2$ 上存在厄米算符……若 $H_1$ 与 $H_2$ 是系统 $S1$ 与 $S2$ 的状态空间，则 $H_1 \otimes H_2$ 便是复合系统 $(S1+S2)$ 的状态空间。由此按 (4.1) 可得：存在属于 $(S1+S2)$ 的可观测量，其值并不由分别属于两系统的可观测量的值所决定。
   - id: 80
     kind: body
     source: |-
       These are all straightforward consequences of taking vectors and operators in Hilbert space to represent, respectively, states and observables, and applying Born’s Rule (and later (4.1) and (4.2)), to give empirical meaning to state assignments. That much is perfectly well understood; the real difficulty in understanding quantum mechanics lies in coming to grips with their implications — physical, metaphysical, and epistemological.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些都是把希尔伯特空间中的矢量与算符分别当作态与可观测量的表示、并应用玻恩规则（以及后来的 (4.1) 与 (4.2)）以赋予态指派以经验意义所产生的直截了当的后果。这些是完全被很好地理解的；理解量子力学的真正困难在于把握它们的含义——物理的、形而上学的与认识论的。
+    step2: |-
+      这些全都是如下做法的直接推论：把希尔伯特空间中的矢量与算符分别当作态与可观测量的表示，并应用玻恩规则（以及后文的 (4.1) 与 (4.2)）来赋予态指派以经验意义。这部分是彻头彻尾清楚的；理解量子力学的真正困难，在于把握这些推论的含义——物理的、形而上学的与认识论的含义。
   - id: 81
     kind: body
     source: |-
       Anyone trying to come to an understanding about what quantum mechanics says about the world has to grapple with one remaining fact. This problem is not an issue with Hilbert spaces, but of the dynamics – the rules that describe the trajectories that systems follow through the space. From a physical point of view, it is far more worrisome than anything discussed to this point. It not only presents difficulties to someone trying to provide an *interpretation* of the theory, but also seems to point to a logical inconsistency in the theory’s foundations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      任何试图理解量子力学关于世界说了什么的人都必须与剩下的事实搏斗。这个问题不是希尔伯特空间的问题，而是动力学的问题——描述系统在空间中遵循的轨迹的规则。从物理的观点看，它比到此为止讨论的任何东西都更令人担忧。它不仅给试图提供理论的解释的人带来困难，而且似乎指向理论基础中的一个逻辑不一致。
+    step2: |-
+      凡是想弄清量子力学对世界说了什么的人，都得同一个余下的事实缠斗。这个问题不关乎希尔伯特空间，而关乎动力学——描述系统在空间中走过何种轨迹的那些规则。从物理的观点看，它比此前讨论的一切都更令人不安：它不仅给想为理论提供解释的人制造困难，还似乎指向理论基础中的一处逻辑矛盾。
   - id: 82
     kind: body
     source: |-
       Suppose that we have a system $S$ and a device $S^*$ which measures an observable $A$ on $S$ with values $\{a_1, a_2, a_3, ...\}$. Then there is some state of $S^*$ (the ‘ground state’), and some observable $B$ with values $\{b_1, b_2, b_3, ...\}$ pertaining to $S^*$ (its ‘pointer observable’, so called because it is whatever plays the role of the pointer on a dial on the front of a schematic measuring instrument in registering the result of the experiment), which are such that, if $S^*$ is started in its ground state and interacts in an appropriate way with $S$, and if the value of $A$ immediately before the interaction is $a_1$, then $B$’s value immediately thereafter is $b_1$. If, however, $A$’s value immediately before the interaction is $a_2$, then $B$’s value afterwards is $b_2$; if the value of $A$ immediately before the interaction is $a_3$, then $B$’s value immediately after is $b_3$, and so on. That is just what it *means* to say that $S^*$ measures $A$. So, if we represent the joint, partial state of $S$ and $S^*$ (just the part of it which specifies the value of [$A$ on $S$ & $B$ on $S^*$], the observable whose values correspond to joint assignments of values to the measured observable on $S$ and the pointer observable on $S^*$) by the vector $\ket{A=a_i}_s \ket{B=b_i}_{s^*}$, and let “$\rightarrow$” stand in for the dynamical description of the interaction between the two, to say that $S^*$ is a measuring instrument for $A$ is to say that the dynamical laws entail that,
 
       $$\begin{align} \ket{A=a_1}_s \ket{B=\text{ground state}}_{s^*} &\rightarrow \ket{A=a_1}_s \ket{B=b_1}_{s^*} \\ \ket{A=a_2}_s \ket{B=\text{ground state}}_{s^*} &\rightarrow \ket{A=a_2}_s \ket{B=b_2}_{s^*} \\ \ket{A=a_3}_s \ket{B=\text{ground state}}_{s^*} &\rightarrow \ket{A=a_3}_s \ket{B=b_3}_{s^*} \end{align}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      假设我们有一个系统 $S$ 和一个装置 $S^*$，后者测量 $S$ 上取值 $\{a_1, a_2, a_3, ...\}$ 的可观测量 $A$。那么 $S^*$ 有某个态（“基态”），$S^*$ 上有某个可观测量 $B$，取值 $\{b_1, b_2, b_3, ...\}$（它的“指针可观测量”，这样称呼是因为它是 Whatever 在示意图测量仪器前面的刻度盘上扮演指针的角色以记录实验结果），使得：如果 $S^*$ 从其基态启动并以适当方式与 $S$ 相互作用，且相互作用前 $A$ 的值是 $a_1$，则其后 $B$ 的值是 $b_1$。然而，如果相互作用前 $A$ 的值是 $a_2$，则其后 $B$ 的值是 $b_2$；如果相互作用前 $A$ 的值是 $a_3$，则相互作用后 $B$ 的值是 $b_3$，依此类推。这正是说 $S^*$ 测量 $A$ 的含义。于是，如果我们用矢量 $\ket{A=a_i}_s \ket{B=b_i}_{s^*}$ 表示 $S$ 与 $S^*$ 的联合的部分态（只是规定 [$S$ 上的 $A$ 与 $S^*$ 上的 $B$] 之值的那部分，该可观测量的值对应于对 $S$ 上被测可观测量与 $S^*$ 上指针可观测量取值的联合指派），并让“$\rightarrow$”代表二者之间相互作用的动力学描述，则说 $S^*$ 是 $A$ 的测量仪器就是说动力学定律蕴涵
+
+      $$\begin{align} \ket{A=a_1}_s \ket{B=\text{ground state}}_{s^*} &\rightarrow \ket{A=a_1}_s \ket{B=b_1}_{s^*} \\ \ket{A=a_2}_s \ket{B=\text{ground state}}_{s^*} &\rightarrow \ket{A=a_2}_s \ket{B=b_2}_{s^*} \\ \ket{A=a_3}_s \ket{B=\text{ground state}}_{s^*} &\rightarrow \ket{A=a_3}_s \ket{B=b_3}_{s^*} \end{align}$$
+    step2: |-
+      设我们有一个系统 $S$ 与一台装置 $S^*$，后者测量 $S$ 上取值为 $\{a_1, a_2, a_3, ...\}$ 的可观测量 $A$。那么，$S^*$ 会有某个态（“基态”），而 $S^*$ 上会有某个可观测量 $B$，取值为 $\{b_1, b_2, b_3, ...\}$（称为它的“指针可观测量”——因为正是它扮演示意图中测量仪器正面表盘上指针的角色，来登记实验结果），并且：若 $S^*$ 从基态启动、以适当方式与 $S$ 相互作用，而相互作用前一刻 $A$ 的值是 $a_1$，则相互作用后 $B$ 的值就是 $b_1$；若相互作用前 $A$ 的值是 $a_2$，则其后 $B$ 的值是 $b_2$；若相互作用前 $A$ 的值是 $a_3$，则相互作用后 $B$ 的值是 $b_3$；依此类推。这正是“$S^*$ 测量 $A$”的含义。于是，设我们用矢量 $\ket{A=a_i}_s \ket{B=b_i}_{s^*}$ 表示 $S$ 与 $S^*$ 的联合部分态（即规定 [$S$ 上的 $A$ 与 $S^*$ 上的 $B$] 之值的那一部分态；该可观测量的值对应于对 $S$ 上被测可观测量与 $S^*$ 上指针可观测量取值的联合指派），并让“$\rightarrow$”代表对二者相互作用的动力学描述，那么，说 $S^*$ 是 $A$ 的一台测量仪器，就是说动力学定律蕴涵：
+
+      $$\begin{align} \ket{A=a_1}_s \ket{B=\text{ground state}}_{s^*} &\rightarrow \ket{A=a_1}_s \ket{B=b_1}_{s^*} \\ \ket{A=a_2}_s \ket{B=\text{ground state}}_{s^*} &\rightarrow \ket{A=a_2}_s \ket{B=b_2}_{s^*} \\ \ket{A=a_3}_s \ket{B=\text{ground state}}_{s^*} &\rightarrow \ket{A=a_3}_s \ket{B=b_3}_{s^*} \end{align}$$
   - id: 83
     kind: body
     source: |-
       and so on.[^note-12]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      依此类推。[^note-12]
+    step2: |-
+      依此类推。[^note-12]
   - id: 84
     kind: body
     source: |-
       Intuitively, $S^*$ is a measuring instrument for an observable $A$ just in case there is some observable feature of $S^*$ (it doesn’t matter what, just something whose values can be ascertained by looking at the device), which is correlated with the $A$-values of systems fed into it in such a way that we can read those values off of $S^*$’s observable state after the interaction. In philosophical parlance, $S^*$ is a measuring instrument for $A$ just in case there is some observable feature of $S^*$ which *tracks* or *indicates* the $A$-values of systems with which it interacts in an appropriate way.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      直观地说，$S^*$ 是可观测量 $A$ 的测量仪器，当且仅当 $S^*$ 有某个可观察的特征（是什么无关紧要，只要是通过查看装置就能确定其值的某种东西），它与输入其中的系统的 $A$ 值相关联，使我们能够在相互作用之后从 $S^*$ 的可观察态读出那些值。用哲学术语说，$S^*$ 是 $A$ 的测量仪器，当且仅当 $S^*$ 有某个可观察特征，它以适当的方式跟踪或指示与它相互作用的系统的 $A$ 值。
+    step2: |-
+      直观地说，$S^*$ 是可观测量 $A$ 的一台测量仪器，当且仅当 $S^*$ 具有某个可观察的特征（是什么无所谓，只要其值可以靠查看装置来确定），该特征与输入系统的 $A$ 值相关联，使我们在相互作用之后能从 $S^*$ 的可观察态读出那些值。用哲学的行话说：$S^*$ 是 $A$ 的测量仪器，当且仅当 $S^*$ 有某个可观察特征，它以适当的方式**追踪**或**指示**与它相互作用的系统的 $A$ 值。
   - id: 85
     kind: body
     source: |-
       Now, it follows from (3.1), above, that there are states of $S$ (too many to count) which are not eigenstates of $A$, and if we consider what Schrödinger’s equation tells us about the joint evolution of $S$ and $S^*$ when $S$ is started out in one of these, we find that the state of the pair after interaction is a superposition of eigenstates of [$A$ on $S$ & $B$ on $S^*$]. It doesn’t matter what observable on $S$ is being measured, and it doesn’t matter what particular superposition $S$ starts out in; when it is fed into a measuring instrument for that observable, if the interaction is correctly described by Schrödinger’s equation, it follows just from the linearity of the $U$ in that equation, the operator that effects the transformation from the earlier to the later state of the pair, that the joint state of $S$ and the apparatus after the interaction is a superposition of eigenstates of this observable on the joint system.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在，由上面的 (3.1) 可得，$S$ 存在许多不可数的态不是 $A$ 的本征态；如果我们考虑当 $S$ 从其中某个态启动时薛定谔方程关于 $S$ 与 $S^*$ 的联合演化告诉我们什么，我们会发现相互作用后这一对的态是 [$S$ 上的 $A$ 与 $S^*$ 上的 $B$] 的本征态的叠加。被测量的是 $S$ 上的什么可观测量无关紧要，$S$ 从什么特定叠加出发也无关紧要；当它被馈入该可观测量的一台测量仪器时，如果相互作用由薛定谔方程正确描述，那么仅从该方程中的 $U$（实现从这一对的较早态到较晚态的转变的算符）的线性就得出一对相互作用后 $S$ 与仪器的联合态是复合系统上该可观测量的本征态的叠加。
+    step2: |-
+      现在，由上文 (3.1) 可得：$S$ 有多得数不清的态不是 $A$ 的本征态。若 $S$ 从其中某个态出发，考虑薛定谔方程对 $S$ 与 $S^*$ 联合演化的论断，便会发现相互作用后这一对系统的态是 [$S$ 上的 $A$ 与 $S^*$ 上的 $B$] 之诸本征态的叠加。测的是 $S$ 上哪个可观测量，无关紧要；$S$ 从哪个特定叠加出发，也无关紧要。只要把它馈入该可观测量的一台测量仪器，只要相互作用确由薛定谔方程描述，那么单凭该方程中 $U$——实现这一对系统从较早态到较晚态之转变的算符——的线性就可得出：相互作用后 $S$ 与仪器的联合态，是复合系统上该可观测量之诸本征态的叠加。
   - id: 86
     kind: body
     source: |-
       Suppose, for example, that we start $S^*$ in its ground state, and $S$ in the state
 
       $$ \frac{1}{\sqrt{2}} \ket{A = a_1}_s + \frac{1}{\sqrt{2}} \ket{A=a_2}_s $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      例如，假设我们让 $S^*$ 处于其基态，而让 $S$ 处于态
+
+      $$ \frac{1}{\sqrt{2}} \ket{A = a_1}_s + \frac{1}{\sqrt{2}} \ket{A=a_2}_s $$
+    step2: |-
+      例如，设我们把 $S^*$ 置于基态，把 $S$ 置于态
+
+      $$ \frac{1}{\sqrt{2}} \ket{A = a_1}_s + \frac{1}{\sqrt{2}} \ket{A=a_2}_s $$
   - id: 87
     kind: body
     source: |-
       It is a consequence of the rules for obtaining the state-space of the composite system that the combined state of the pair is
 
       $$ \frac{1}{\sqrt{2}} \ket{A=a_1}_s \ket{B=\text{ground state}}_{s^*} + \frac{1}{\sqrt{2}} \ket{A = a_2}_s \ket{B = \text{ground state}}_{s^*} $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由获得复合系统状态空间的规则可知，这一对的联合态是
+
+      $$ \frac{1}{\sqrt{2}} \ket{A=a_1}_s \ket{B=\text{ground state}}_{s^*} + \frac{1}{\sqrt{2}} \ket{A = a_2}_s \ket{B = \text{ground state}}_{s^*} $$
+    step2: |-
+      由复合系统状态空间的构成规则可知，这一对系统的联合态是
+
+      $$ \frac{1}{\sqrt{2}} \ket{A=a_1}_s \ket{B=\text{ground state}}_{s^*} + \frac{1}{\sqrt{2}} \ket{A = a_2}_s \ket{B = \text{ground state}}_{s^*} $$
   - id: 88
     kind: body
     source: |-
       and it follows from the fact that $S^*$ is a measuring instrument for $A$, and the linearity of $U$ that their combined state *after* interaction, is
 
       $$ \frac{1}{\sqrt{2}} \ket{A=a_1}_s \ket{B=b_1}_{s^*} + \frac{1}{\sqrt{2}} \ket{A = a_2}_s \ket{B = b_2}_{s^*} $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      而由 $S^*$ 是 $A$ 的测量仪器这一事实以及 $U$ 的线性可知，它们相互作用*之后*的联合态是
+
+      $$ \frac{1}{\sqrt{2}} \ket{A=a_1}_s \ket{B=b_1}_{s^*} + \frac{1}{\sqrt{2}} \ket{A = a_2}_s \ket{B = b_2}_{s^*} $$
+    step2: |-
+      再由 $S^*$ 是 $A$ 的测量仪器这一事实以及 $U$ 的线性可知，它们在相互作用**之后**的联合态是
+
+      $$ \frac{1}{\sqrt{2}} \ket{A=a_1}_s \ket{B=b_1}_{s^*} + \frac{1}{\sqrt{2}} \ket{A = a_2}_s \ket{B = b_2}_{s^*} $$
   - id: 89
     kind: body
     source: |-
       This, however, is inconsistent with the dynamical rule for contexts of type 2, for the dynamical rule for contexts of type 2 (and if there are any such contexts, *this* is one) entails that the state of the pair after interaction is *either*
 
       $$ \ket{A=a_1}_s \ket{B=b_1}_{s^*} $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，这与类型 2 语境的动力学规则不一致，因为类型 2 语境的动力学规则（如果存在任何这样的语境，*这*就是一个）蕴涵相互作用后这一对的态*要么*是
+
+      $$ \ket{A=a_1}_s \ket{B=b_1}_{s^*} $$
+    step2: |-
+      然而，这与类型 2 语境的动力学规则相矛盾。类型 2 语境的动力学规则（若这样的语境存在，此处便是一例）蕴涵：相互作用后这一对系统的态**要么**是
+
+      $$ \ket{A=a_1}_s \ket{B=b_1}_{s^*} $$
   - id: 90
     kind: body
     source: |-
       or
 
       $$ \ket{A=a_2}_s \ket{B=b_2}_{s^*} $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      或者
+
+      $$ \ket{A=a_2}_s \ket{B=b_2}_{s^*} $$
+    step2: |-
+      要么是
+
+      $$ \ket{A=a_2}_s \ket{B=b_2}_{s^*} $$
   - id: 91
     kind: body
     source: |-
       Indeed, it entails that there is a precise probability of $\frac{1}{2}$ that it will end up in the former, and a probability of $\frac{1}{2}$ that it will end up in the latter.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      事实上，它蕴涵：它以精确的概率 $\frac{1}{2}$ 终止于前者，以概率 $\frac{1}{2}$ 终止于后者。
+    step2: |-
+      实际上，该规则还蕴涵：系统以恰为 $\frac{1}{2}$ 的概率终止于前者，以 $\frac{1}{2}$ 的概率终止于后者。
   - id: 92
     kind: body
     source: |-
       We can try to restore logical consistency by giving up the dynamical rule for contexts of type 2 (or, what amounts to the same thing, by denying that there *are* any such contexts), but then we have the problem of consistency with experience. For it was no mere blunder that that rule was included in the theory; we *know* what a system looks like when it is in an eigenstate of a given observable, and we know *from looking* that the measuring apparatus after measurement is in an eigenstate of the pointer observable. And so we *know* from the outset that if a theory tells us something else about the post-measurement states of measuring apparatuses, whatever that something else is, it is wrong.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们可以试着通过放弃类型 2 语境的动力学规则（或等价地，否认存在任何这样的语境）来恢复逻辑一致性，但那样我们就有了与经验一致的问题。因为那条规则被纳入理论绝非单纯的失误；我们知道系统处于给定可观测量的本征态时是什么样子，而且我们从观看中知道测量装置在测量之后处于指针可观测量的本征态。所以我们从一开始就知道：如果关于测量装置的测量后状态，一个理论告诉我们别的东西，无论那别的东西是什么，它就是错的。
+    step2: |-
+      我们可以试着放弃类型 2 语境的动力学规则来恢复逻辑一致性（或者，等价地，干脆否认存在这类语境），但这样一来又冒出与经验一致的问题。因为那条规则被纳入理论绝非一时失误：系统处于某可观测量的本征态时是什么样子，我们**知道**；测量之后测量装置处于指针可观测量之本征态，我们**从观察中**就知道。所以从一开始我们就**知道**：一个理论若就测量装置在测量后的态告诉我们别的东西，无论那是什么，它就是错的。
   - id: 93
     kind: body
     source: |-
       That, in a nutshell, is the Measurement Problem in quantum mechanics; any interpretation of the theory, any detailed story about what the world is like according to quantum mechanics, and in particular those bits of the world in which measurements are going on, has to grapple with it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      简而言之，这就是量子力学中的测量问题；对理论的任何解释，任何关于按量子力学世界是什么样子的详细故事，特别是关于世界中正在进行测量的那些部分的故事，都必须与它搏斗。
+    step2: |-
+      要言之，这就是量子力学中的**测量问题**。对理论的任何解释、任何关于按量子力学世界是什么样子的详细讲述——尤其是关于世界中正在进行测量的那些部分——都必须与它缠斗。
   - id: 94
     kind: body
     source: |-
       ### Loose Ends
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 尚待厘清的几点
+    step2: |-
+      ### 尚待厘清的几点
   - id: 95
     kind: body
     source: |-
       **Mixed states** are weighted sums of pure states, and they can be used to represent the states of ensembles whose components are in different pure states, or states of individual systems about which we have only partial knowledge. In the first case, the weight attached to a given pure state reflects the size of the component of the ensemble which is in that state (and hence the objective probability that an arbitrary member of the ensemble is); in the second case, they reflect the epistemic probability that the system in question to which the state is assigned is in that state.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **混合态**是纯态的加权和，它们可用于表示各组件处于不同纯态的系综的态，或表示我们只有部分了解的个体系统的态。在第一种情形中，附加于给定纯态的权重反映系综中处于该态的组件的大小（因而也就是系综任一成员所处的客观概率）；在第二种情形中，它们反映被指派该态的相关系统处于该态的认识概率。
+    step2: |-
+      **混合态**是纯态的加权和。它可以用来表示这样两种情形的态：一是系综的态——其成员分别处于不同的纯态；二是个体系统的态——我们对其只有部分了解。第一种情形下，附加在给定纯态上的权重反映系综中处于该态的成员所占的多寡（从而也就是系综任一成员处于该态的客观概率）；第二种情形下，权重反映被指派该态的那个系统处于该态的认识概率。
   - id: 96
     kind: body
     source: |-
       If we don’t want to lose the distinction between pure and mixed states, we need a way of representing the weighted sum of a set of pure states (equivalently, of the probability functions associated with them) that is different from adding the (suitably weighted) vectors that represent them, and that means that we need either an alternative way of representing mixed states, or a uniform way of representing both pure and mixed states that preserves the distinction between them. There is a kind of operator in Hilbert spaces, called a **density operator**, that serves well in the latter capacity, and it turns out not to be hard to restate everything that has been said about state vectors in terms of density operators. So, even though it is common to speak as though pure states are represented by vectors, the official rule is that states – pure and mixed, alike – are represented in quantum mechanics by density operators.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果我们不想失去纯态与混合态之间的区分，我们需要一种表示一组纯态的加权和（等价地，与其相关联的概率函数的加权和）的方式，它不同于把表示它们的矢量（适当地加权）相加；这意味着我们需要么有一个表示混合态的替代方式，么有一个统一表示纯态与混合态并保持二者之区分的方式。希尔伯特空间中有一类算符，称为**密度算符**，它很好地充当了后一角色；而且结果表明，用密度算符重新表述已说的关于态矢量的一切并不困难。因此，尽管人们常常像纯态由矢量表示那样说话，官方的规则是：态——纯的与混合的都一样——在量子力学中由密度算符表示。
+    step2: |-
+      如果不想抹平纯态与混合态之分，我们就需要一种表示一组纯态之加权和（等价地，与其相联系的概率函数之加权和）的办法，它不同于把表示这些纯态的矢量作加权相加；这意味着我们要么另寻表示混合态的办法，要么找到一种统一表示纯态与混合态、同时保住二者区分的办法。希尔伯特空间中有一类算符，称为**密度算符**，恰好胜任后一角色；而且结果表明，把前文关于态矢量所说的一切改用密度算符重新表述，并非难事。所以，尽管人们口头上常把纯态说成由矢量表示，正式的规则却是：在量子力学中，态——无论纯混——都由密度算符表示。
   - id: 97
     kind: body
     source: |-
       Although mixed states *can*, as I said, be used to represent our ignorance of the states of systems that are actually in one or another pure state, and although this has seemed to many to be an adequate way of interpreting mixtures in classical contexts, there are serious obstacles to applying it generally to quantum mechanical mixtures. These are left for detailed discussion in the other entries on quantum mechanics in the Encyclopedia.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管如我所说，混合态可以被用来表示我们对实际处于或此或彼纯态的系统的态的无知，尽管在经典语境中这似乎已被许多人视为解释混合物的充分方式，但把它一般地应用于量子力学混合物存在严重的障碍。这些留待百科全书中量子力学的其他条目详细讨论。
+    step2: |-
+      固然，如前所述，混合态可以用来表示我们的无知——当系统实际处于某个纯态而我们不知其为何时；也固然，在经典语境中，许多人觉得这是解释混合物的够用方式；但要把它一般地用于量子力学的混合物，却有严重的障碍。这些留待本百科全书其他量子力学条目详论。
   - id: 98
     kind: body
     source: |-
       Everything that has been said about observables, strictly speaking, applies only to the case in which the values of the observable form a discrete set; the mathematical niceties that are needed to generalize it to the case of **continuous observables** are complicated, and raise problems of a more technical nature. These, too, are best left for detailed discussion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于可观测量所说的一切，严格地说，只适用于可观测量的值构成离散集的情形；把它推广到**连续可观测量**的情形所需的数学细节是复杂的，并且提出更具技术性质的问题。这些也最好留待详细讨论。
+    step2: |-
+      严格地说，前文关于可观测量所说的一切，只适用于可观测量的取值构成离散集的情形；要把它推广到**连续可观测量**的情形，所需的数学讲究颇为繁难，且会引出更具技术性的问题。这些同样最好留待详论。
   - id: 99
     kind: body
     source: |-
       This should be all the initial preparation one needs to *approach* the philosophical discussion of quantum mechanics, but it is only a first step. The more one learns about the relationships among and between vectors and operators in Hilbert space, about how the spaces of simple systems relate to those of complex ones, and about the equation which describes how state-vectors move through the space, the better will be one’s appreciation of both the nature and the difficulty of the problems associated with the theory. The funny backwards thing about quantum mechanics, the thing that makes it endlessly absorbing to a philosopher, is that the more one learns, the harder the problems get.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这应当是着手哲学地讨论量子力学所需的全部初步准备，但这只是第一步。一个人对希尔伯特空间中矢量与算符之间（和之间）的关系、简单系统的空间如何与复合系统的空间关联、以及描述态矢量如何在空间中运动的方程了解得越多，他对与这个理论相关的问题之性质与困难的领会就越好。量子力学有趣而反向的地方，使它对哲学家有无穷吸引力的东西，是学得越多，问题越难。
+    step2: |-
+      以上应当就是着手从哲学上讨论量子力学所需的全部预备知识，但这只是第一步。关于希尔伯特空间中矢量与算符的关系、简单系统的空间如何关联于复合系统的空间、以及描述态矢量如何在空间中运动的方程，了解得越多，就越能体会与这个理论相关的问题之性质与难度。量子力学妙就妙在这份“倒挂”：学得越多，问题越难——正是这一点让哲学家对它兴味无穷。
   - id: 100
     kind: oir
     source: |-
       - Preskill, J., 1998, [Quantum Computation](http://www.theory.caltech.edu/people/preskill/ph229/index.html#lecture) (Lecture Notes for Physics 219, California Institute of Technology)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - Preskill, J.，1998，[量子计算](http://www.theory.caltech.edu/people/preskill/ph229/index.html#lecture)（Physics 219 讲义，加州理工学院）
+    step2: |-
+      - Preskill, J.，1998，[量子计算](http://www.theory.caltech.edu/people/preskill/ph229/index.html#lecture)（加州理工学院 Physics 219 课程讲义）
   - id: 101
     kind: note
     source: |-
       [^note-1]: Indeed, when pressed, we find we can’t even say explicitly (in the terms provided by the theory, in terms that apply directly to the entities, quantities, and relations of which the world is, by its lights, composed) which systems count as macroscopic (or what would be just as good, which are ‘classical’, which are fit to act as measuring apparatuses, or which interactions count as measurements).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-1]: 的确，若被追问，我们会发现我们甚至无法明确说出（用理论提供的术语，用直接适用于世界的——按理论的看法——所由构成的实体、量与关系的术语）哪些系统算作宏观的（或同样好的说法：哪些是“经典的”，哪些适合充当测量装置，或哪些相互作用算作测量）。
+    step2: |-
+      [^note-1]: 的确，一经追问就会发现：我们甚至无法明确说出哪些系统算作宏观系统——或者同样有用的问法：哪些系统是“经典的”、哪些适合充当测量装置、哪些相互作用算作测量——而这还是在用理论提供的术语、用直接适用于（按理论自己的看法）构成世界的实体、量与关系的术语来说。
   - id: 102
     kind: note
     source: |-
       [^note-2]: It is also sometimes used to refer to a mathematical model that represents that space, a mathematical model that provides a kind of map of the set of possible states.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-2]: 它有时也被用来指表示那个空间的数学模型，一种提供可能态集合之地图的数学模型。
+    step2: |-
+      [^note-2]: 它有时也用来指称表示该空间的一个数学模型——一个为可能态集合提供某种地图的数学模型。
   - id: 103
     kind: note
     source: |-
       [^note-3]: There will, of course, be arbitrariness in the coordinate description of the state-space, thus obtained, precisely as much arbitrariness as there is in the choice of mathematical names for the values of basic quantities.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-3]: 当然，如此得到的状态空间的坐标描述会有任意性，其任意程度恰好同给基本量的值选择数学名称的任意程度一样多。
+    step2: |-
+      [^note-3]: 当然，如此得到的状态空间坐标描述带有任意性，其任意程度恰与为基本量的值选取数学名称的任意程度相当。
   - id: 104
     kind: note
     source: |-
       [^note-4]: Another way to put this: if you consider the set of states associated with any quantum mechanical system, you would find that it had the structure of the set of vectors in a Hilbert space.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-4]: 换一种说法：如果你考察与任何量子力学系统相联系的态的集合，你会发现它具有希尔伯特空间中矢量集合的结构。
+    step2: |-
+      [^note-4]: 换个说法：若考察与任一量子力学系统相联系的态之集，你会发现它具有希尔伯特空间中矢量之集的结构。
   - id: 105
     kind: note
     source: |-
       [^note-5]: Notice the relations between bases and coordinate systems; vectors of norm 1 pointing along the perpendicular coordinate axes of an $N$-dimensional point space constitute an orthonormal basis for the associated $N$-dimensional vector space, and there are as many bases for the vector space as possible coordinatizations of the point space.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-5]: 注意基与坐标系之间的关系：模为 1、沿 $N$ 维点空间的垂直坐标轴指向的矢量构成相应 $N$ 维矢量空间的一个标准正交基，而且该矢量空间有多少个基，点空间就有多少种可能的坐标化。
+    step2: |-
+      [^note-5]: 请留意基与坐标系之间的对应：模为 1、沿 $N$ 维点空间诸垂直坐标轴方向的矢量，构成相应 $N$ 维矢量空间的一组标准正交基；点空间有多少种可能的坐标化，矢量空间就有多少组基。
   - id: 106
     kind: note
     source: |-
       [^note-6]: The reader can satisfy herself that since $(v_{i}^A, u_{j}^B)$ spans $H_A \otimes H_B$, the equation defines, by linearity, an inner product on the whole space, and also that, since $|v| = 0$ just in case $v$ is the zero vector, it follows that $v^A\otimes 0 = 0 = 0\otimes u^B$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-6]: 读者可以自行验证：由于 $(v_{i}^A, u_{j}^B)$ 张成 $H_A \otimes H_B$，该方程由线性性定义了整个空间上的内积；还可验证，由于 $|v| = 0$ 当且仅当 $v$ 是零矢量，故 $v^A\otimes 0 = 0 = 0\otimes u^B$。
+    step2: |-
+      [^note-6]: 读者可自行验证：由于 $(v_{i}^A, u_{j}^B)$ 张成 $H_A \otimes H_B$，该方程依线性性定义了整个空间上的内积；又由于 $|v| = 0$ 当且仅当 $v$ 为零矢量，可知 $v^A\otimes 0 = 0 = 0\otimes u^B$。
   - id: 107
     kind: note
     source: |-
       [^note-7]: The correspondence isn’t unique; any vectors $\ket{A}$ and $@ \ket{A}$ where $@$ is any complex number of absolute value 1 correspond to the same state. There may be other redundancies; some interpretations, for instance, invoke what are called superselection rules that identify states represented by distinct normalized vectors. (i) is modified below, when mixed states are defined.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-7]: 这个对应不是唯一的；任何矢量 $\ket{A}$ 与 $@ \ket{A}$（其中 $@$ 是模为 1 的任何复数）都对应于同一个态。可能还有其他冗余；例如，某些解释诉诸所谓超选规则，它们把由不同归一化矢量表示的态视为同一。（i）在下面定义混合态时会被修改。
+    step2: |-
+      [^note-7]: 这个对应并非一一无余：任何矢量 $\ket{A}$ 与 $@ \ket{A}$（$@$ 为模 1 的任一复数）都对应同一个态。可能还有别的冗余；例如，某些解释援引所谓的超选规则，把由不同归一化矢量表示的态认同为同一个态。原理（i）将随下文混合态的定义而被修改。
   - id: 108
     kind: note
     source: |-
       [^note-8]: The equation is usually expressed in the form $i \frac{dv}{dt} = \mathbf{H}v$, where $v$ is the system’s state vector and $\mathbf{H}$ the operator representing its energy, but, again, the details aren’t immediately important.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-8]: 该方程通常表达为 $i \frac{dv}{dt} = \mathbf{H}v$ 的形式，其中 $v$ 是系统的态矢量，$\mathbf{H}$ 是表示其能量的算符，不过，其细节眼下并不重要。
+    step2: |-
+      [^note-8]: 该方程通常写作 $i \frac{dv}{dt} = \mathbf{H}v$ 的形式，其中 $v$ 是系统的态矢量，$\mathbf{H}$ 是表示系统能量的算符；不过，细节眼下并不重要。
   - id: 109
     kind: note
     source: |-
       [^note-9]: The quotes are to recommend caution about reading too much of one’s ordinary understanding of this word into its use in quantum mechanics; one usually thinks of measurement as a way of obtaining information about a system, but the only information one takes away from an individual quantum-mechanical ‘measurement’ about the state of the measured system before the interaction is that it was not (or, at least, there is a measure zero probability that it was) in an eigenstate of the measured observable with an eigenvalue other than the one observed. Of course, if the Collapse Postulate is correct, one knows the state of the system after measurement, but if I shoot someone at close range, I can be pretty sure that they are dead afterward; that doesn’t make the interaction a measurement of the state of their health.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-9]: 加引号是要提醒谨慎，不要把我们对这个词的日常理解过多地带入它在量子力学中的用法；人们通常把测量当作获取系统信息的方式，但从一次个体量子力学“测量”中，关于被测系统在相互作用之前的态，我们能带走的信息只有：它不处于（或至少，它处于……的概率测度为零）被测可观测量的、具有不同于所观测本征值的本征值的本征态。当然，如果塌缩公设正确，我们知道测量后系统的态；但如果我近距离枪击某人，我可以相当肯定他随后会死；这并不使该相互作用成为对其健康状况的一次测量。
+    step2: |-
+      [^note-9]: 加引号意在提醒：莫要把对这个词的日常理解过多掺入它在量子力学中的用法。人们通常把测量视为获取系统信息的方式，但对于一次个别的量子力学“测量”，关于被测系统在相互作用之前的态，我们能带走的信息只有一条：它并不（至少，它如此的概率测度为零）处于被测可观测量之下、本征值不同于所观测值的本征态上。当然，若塌缩公设正确，测量之后系统的态我们是知道的；可要是我在近距离开枪打人，我也能相当肯定他随后会死——这并不使那次相互作用成为对其健康状况的一次测量。
   - id: 110
     kind: note
     source: |-
       [^note-10]: The two are not independent, of course; a system’s state is just a specification of the values of those quantities pertaining to it that change over time. Internal relations between a set of elements are relations that supervene on their intrinsic natures; they do not include nomological relations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-10]: 当然，二者并非独立；一个系统的态恰是对属于它且随时间变化的那些量之值的规定。一组元素之间的内部关系是随附于其内在本性（内在性质）的关系；它们不包括律则关系。
+    step2: |-
+      [^note-10]: 当然，二者并非互不相干：一个系统的态，就是对属于它且随时间变化的那些量之取值的规定。一组元素之间的内部关系，是随附于诸元素内在本性的关系；其中不包含律则关系。
   - id: 111
     kind: note
     source: |-
       [^note-11]: These are strong assumptions: the first denies the existence of superselection rules, and the second, known as the eigenstate-eigenvalue link, is the principle that defines the orthodox Copenhagen interpretation of the theory. I make them here only to illustrate some of the implications of (P2) in an interpretive context.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-11]: 这些是强假设：第一条否认超选规则的存在；第二条称为本征态-本征值链接，是定义该理论之正统哥本哈根解释的原理。我在这里作出它们，只是为了在解释语境中说明 (P2) 的若干含义。
+    step2: |-
+      [^note-11]: 这两条都是强假设：第一条否认超选规则的存在；第二条即所谓本征态-本征值链接，是界定该理论正统哥本哈根解释的原理。此处作出这两条假设，只是为了在解释语境中展示 (P2) 的若干推论。
   - id: 112
     kind: note
     source: |-
       [^note-12]: It is inessential that the reduced state of $S$ after the interaction be what it was beforehand; that is so only in the special case of measurements that leave the value of the measured observable undisturbed.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-12]: 相互作用后 $S$ 的约化态是否与之前相同并非本质所在；那只是在使被测可观测量之值不受扰动的测量这一特殊情形下才如此。
+    step2: |-
+      [^note-12]: 相互作用后 $S$ 的约化态是否与相互作用前相同，并非要害；这只在一种特殊测量——即被测可观测量之值不受扰动的测量——中才成立。

@@ -1,0 +1,896 @@
+version: 1
+slug: ramsey-economics
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      How should we conceptualise human well-being over time and across generations? How ought the interests of people in the distant future to be taken into account when we make our own decisions? How much of its output should a nation invest for the future? In which assets should that investment be made? What should be the balance among private, public, and communitarian investments in the overall investment that a generation makes for the future? How much should the world spend in countering global climate change?
+    step1: |-
+      我们应当如何构想跨时间、跨世代的人类福祉？当我们作出自己的决定时，应当如何顾及遥远未来之人的利益？一个国家应为其未来投入多少产出？这种投资应当投向哪些资产？在一代为未来所作的总投资中，私人、公共与共同体投资之间应保持何种平衡？世界应当为应对全球气候变化花多少钱？
+    step2: |-
+      跨时间、跨世代的人类福祉应当如何构想？我们作决定时，应如何顾及遥远未来者的利益？一国应把多少产出留作未来投资？投资又当投向哪些资产？在一代为未来所作的全部投资中，私人投资、公共投资与共同体投资应各占几许？世界又该为应对全球气候变化支出多少？
+  - id: 2
+    kind: body
+    source: |-
+      In a remarkable paper Frank Ramsey developed a framework in which each of these questions can be studied in a form that is precise and tractable enough to elicit answers (Ramsey 1928; see, also, Misak 2020)[^misak-2020][^ramsey-1928]. His approach was to apply the Classical-Utilitarian calculus to identify the best match from among attainable and desirable utility streams over time and across generations. Although very famous today, the paper had no initial impact. Some economists have attributed the lack of interest to the paper’s technical character. In answering the question he posed (“How much of a nation’s output should it save?”), Ramsey had to use the calculus of variations. There is no question but that few economists then knew the required technicalities. But it is difficult to imagine that there were no economists capable of learning the necessary mathematics had they wished to do so. The reason there was little interest in Ramsey’s paper lay elsewhere. In the years following the publication, a period now known as The Great Depression, the central economic problem in industrialised countries was to find ways to increase employment. Factories lay idle, as did people. The unemployment rate in Europe and USA was in the region of 25%. Policies that were needed then had to do with creating incentives for employers to hire workers. Even though there were controversies among economists on what those policies should be, no one doubted that industrialized societies were facing a problem of the short run. In contrast, Ramsey addressed a question involving the long run; and, so as to have an uncluttered problem to analyse, he took it as given that there is full employment at every date of both capital and labour.
+    step1: |-
+      在一篇非凡的论文中，弗兰克·拉姆齐建立了一个框架，使上述每个问题都能以足够精确、可处理的形式加以研究，从而引出答案（Ramsey 1928; 亦见 Misak 2020）[^misak-2020][^ramsey-1928]。他的做法是运用古典功利主义的计算，在可达到的、可欲的效用流中找出最佳匹配——这些效用流既跨时间，也跨世代。尽管此文今日极为著名，最初却毫无反响。一些经济学家把缺乏兴趣归因于该文的技术性。在回答他自己提出的问题（“一国的产出应储蓄多少？”）时，拉姆齐不得不使用变分法。当年懂得所需技术细节的经济学家寥寥无几，这毫无疑问。但很难设想，当时就没有经济学家愿意学、并且学得会必要的数学。对拉姆齐论文兴趣寥寥的原因在别处。论文发表后的年月，即今称“大萧条”的时期，工业化国家的核心经济问题是设法增加就业。工厂闲置，人亦闲置。欧洲与美国的失业率约为 25%。当时所需的政策，都与激励雇主雇工有关。尽管经济学家对那些政策应当如何存在争议，却无人怀疑工业化社会面对的是短期问题。相比之下，拉姆齐所处理的问题涉及长期；而为了得到一个干净的问题来作分析，他假定资本与劳动在每个时点都充分就业。
+    step2: |-
+      弗兰克·拉姆齐在一篇非凡的论文中建立了一个框架，上述每一问题皆可在其中以足够精确、足够可处理的形式加以研究，从而引出答案（Ramsey 1928; 亦见 Misak 2020）[^misak-2020][^ramsey-1928]。其做法是运用古典功利主义的算法，在可得且可欲的效用流中择出最佳匹配——这些效用流跨时间、跨世代。此文今日声名极盛，初出时却几无反响。有些经济学者将该文之受冷落归因于其技术性：为回答自己提出的问题（“一国产出应储蓄多少？”），拉姆齐不得不用变分法；当年通晓所需技术细节者寥寥，自无疑义。然而总难设想：当时竟无一经济学者愿意去学、且学得会那些必要的数学。冷落的缘由另有所在。论文问世之后的那段年月，今称“大萧条”，工业化国家的核心经济难题是设法扩大就业：工厂停摆，人亦无事；欧洲与美国的失业率约在 25%。彼时所需的政策，皆系于为雇主创造雇工诱因。经济学者虽对那些政策应如何设计争论不休，却无人怀疑工业化社会面临的是短期问题。相形之下，拉姆齐所处理的却是长期问题；且为使问题免于纠缠，他径直假定资本与劳动在每个时点均充分就业。
+  - id: 3
+    kind: body
+    source: |-
+      With the emergence of post-colonial nations following the Second World War, long run economic development became prominent in economic studies. By the early 1960s it had become clear that Ramsey’s paper is the natural starting point for studying the welfare economics of the long run, not only for pursuing optimum development in centrally planned economies (Chakravarty 1969)[^chakravarty-1969], but also for use in social cost-benefit analysis of public investment in mixed economies (Arrow and Kurz 1970)[^arrow-1970], the choice of technology in labour-surplus economies (Little and Mirrlees 1968, 1974)[^little-1968], and more recently, the welfare economics of climate change (Cline 1992; Nordhaus 1994; Stern 2007)[^cline-1992][^nordhaus-1994]. The number of trails Ramsey laid was remarkable. In academic economics it is one of the dozen or so most influential papers of the 20th century.
+    step1: |-
+      随着二战后后殖民国家的兴起，长期经济发展在经济研究中变得突出。到 1960 年代初，人们已清楚：拉姆齐的论文是研究长期福利经济学的自然起点，不仅用于中央计划经济中的最优发展（Chakravarty 1969）[^chakravarty-1969]，也用于混合经济中公共投资的社会成本—收益分析（Arrow and Kurz 1970）[^arrow-1970]、劳动剩余经济中的技术选择（Little and Mirrlees 1968, 1974）[^little-1968]，以及更晚近的气候变化福利经济学（Cline 1992; Nordhaus 1994; Stern 2007）[^cline-1992][^nordhaus-1994]。拉姆齐开辟的路径之多令人瞩目。在学院经济学中，它是 20 世纪最有影响的十来篇论文之一。
+    step2: |-
+      第二次世界大战后后殖民国家纷纷兴起，长期经济发展遂在经济研究中占据显要位置。至 1960 年代初，学界已然明白：研究长期福利经济学，拉姆齐的论文是天然的起点——不仅可用于中央计划经济的最优发展（Chakravarty 1969）[^chakravarty-1969]，亦可用于混合经济中公共投资的社会成本—收益分析（Arrow and Kurz 1970）[^arrow-1970]、劳动剩余经济中的技术选择（Little and Mirrlees 1968, 1974）[^little-1968]，以及更晚近的气候变化福利经济学（Cline 1992; Nordhaus 1994; Stern 2007）[^cline-1992][^nordhaus-1994]。拉姆齐所辟蹊径之多，实堪惊叹；在学院经济学中，此文属 20 世纪最有影响的十来篇论文之列。
+  - id: 4
+    kind: body
+    source: |-
+      Classical Utilitarianism takes the good to be the expected value of the sum of utilities over time and across the generations (Sidgwick 1907)[^sidgwick-1907]. Ramsey’s formulation was built on that moral reasoning. He even used the term “enjoyment” to interpret utility. The article embodies the sort of ethical deliberation Sen and Williams (1982) called “Government House Utilitarianism.” But Ramsey’s article thrives today because Government House needs ethical guidance that isn’t a prop for paid Officials to act in nepotistic, never mind predatory ways, but are instead impartial over people’s needs and sensitivities. Although Ramsey used the Utilitarian language, a generous reading of his paper says that much would be gained if, instead of “enjoyment,” we were to work with the broader notion of “well-being.” Such a move allows one to pay greater attention to the factors, be they material or otherwise, that make for flourishing lives.
+    step1: |-
+      古典功利主义把善理解为效用之和的期望值，此和既跨时间，也跨世代（Sidgwick 1907）[^sidgwick-1907]。拉姆齐的表述即建立在这一道德推理之上。他甚至用“享受”一词来解释效用。这篇文章体现了森与威廉斯（1982）所谓“官邸功利主义”那类伦理慎思。但拉姆齐的文章今日仍兴盛，是因为官邸需要一种伦理指引——它不是让领薪官员以裙带乃至掠夺方式行事的拐杖，而是对人们的需要与感受保持不偏不倚。尽管拉姆齐使用了功利主义的语言，对他的论文作宽厚的解读可以说：若我们以更宽泛的“福祉”概念取代“享受”，将会大有收获。这样的转向使人能更多关注那些使人生蓬勃的因素，无论其为物质的还是别的。
+    step2: |-
+      古典功利主义以善为效用总和之期望，此总和兼跨时间与世代（Sidgwick 1907）[^sidgwick-1907]。拉姆齐的表述正奠基于这一道德推理；他甚至以“享受”一词训释效用。此文所体现的伦理慎思，即森与威廉斯（1982）所称的“官邸功利主义”。然而拉姆齐此文至今仍有生机，是因为官邸需要一种伦理指引：它不该充当领薪官员行裙带乃至掠夺之事的拄杖，而应对人人的需要与感受一视同仁。拉姆齐虽用功利主义语汇，若对此文作宽厚解读，则可以说：倘若以更宽泛的“福祉”取代“享受”，收获将大得多。如此一转，便可更多留意那些成就蓬勃人生的因素，无论属物质抑或其他。
+  - id: 5
+    kind: body
+    source: |-
+      ## 1. Production Possibilities in Ramsey’s Formulation
+    step1: |-
+      ## 1. Production Possibilities in Ramsey’s Formulation
+    step2: |-
+      ## 1 拉姆齐表述中的生产可能性
+  - id: 6
+    kind: body
+    source: |-
+      Ramsey’s goal was practical: “How much of a nation’s output should it save for the future?” The demographic profile over time was taken by him to be given, meaning that future numbers of people were seen as exogenous and predictable. We were therefore to imagine that economic policies have a negligible effect on reproductive behaviour (but see Dasgupta, 1969, for a study of the joint population/saving problem, using Classical Utilitarianism as the guiding principle). Parfit (1984) christened choices involving the same demographic profile, “Same Numbers Choices.”
+    step1: |-
+      拉姆齐的目标是实践的：“一个国家的产出应当为未来储蓄多少？”他把随时间变化的人口状况视为给定，即未来人口数量被视为外生的、可预测的。因此我们应当设想，经济政策对生育行为的影响可以忽略（但参见 Dasgupta, 1969，该文以古典功利主义为指引原则，研究人口／储蓄的联合问题）。帕菲特（1984）把涉及同一人口状况的选择称为“同数选择”。
+    step2: |-
+      拉姆齐的目标是实践性的：“一国的产出应为未来储蓄多少？”他把长时段的人口状况当作给定，即未来人口数目被视为外生而可预知。于是我们须设想：经济政策对生育行为的影响微不足道（但参见 Dasgupta, 1969：该文以古典功利主义为指引，研究人口与储蓄的联合问题）。帕菲特（1984）把人口状况相同的选择唤作“同数选择”。
+  - id: 7
+    kind: body
+    source: |-
+      The ingredients of Ramsey’s theory are individuals’ lifetime well-beings. Government House in his world maximizes the expected sum of the lifetime well-beings of all who are here today and all who will ever be born, subject to resource constraints. The optimum distribution of lifetime well-beings across generations is derived from that maximization exercise. Of course, the passage of time is not the same as the advance of generations. An individual’s lifetime well-being is an aggregate of the flow of well-being she experiences, while intergenerational well-being is an aggregate of the lifetime well-beings of all who appear on the scene. It is doubtful that the two aggregates should have the same functional form. On the other hand, there is little evidence to suggest that we would be way off the mark in assuming they do have the same form. As a matter of practical ethics, it helps enormously to approximate by not distinguishing the functional form of someone’s well-being over time from that of well-being across the generations. Ramsey adopted this short-cut. People were also taken to be identical, so we may as well assume that there is a single individual at each date. The move removes any distinction between time and generations. An alternative interpretation would have us imagine that the economy consists of a single dynasty, where parents in each generation leave bequests for their children (Meade 1966, adopted this interpretation)[^meade-1966]. Ramsey also assumed, probably because the mathematics is simpler, that time is a continuous variable, not discrete.
+    step1: |-
+      拉姆齐理论的要素是个体一生的福祉。在他所设想的世界里，官邸在资源约束下最大化所有今世之人与所有未来将出生者一生福祉的期望总和。代际之间一生福祉的最优分配，即由这一最大化推演而来。当然，时间的推移并不等同于世代的更替。个体一生的福祉是其经历的福祉流之总和，而代际福祉是所有出场者一生福祉之总和。这两个总和是否应具有相同的函数形式，颇可怀疑。另一方面，也少有证据表明，假定二者形式相同会使我们大错。就实践伦理学而言，不区分某人随时间变化的福祉与跨世代的福祉在函数形式上的差别，从而作近似处理，帮助极大。拉姆齐采取了这一捷径。人也被视为同一的，因此不妨假定每个时点只有一个个体。这一做法取消了时间与世代之间的一切区分。另一种解释则要我们设想经济由单一王朝构成，每代的父母为子女留下遗赠（Meade 1966 采取了这一解释）[^meade-1966]。拉姆齐还假定时间是连续变量而非离散变量——大概因为数学上更简单。
+    step2: |-
+      拉姆齐理论的构成要素，是个体一生的福祉。在他设想的世界中，官邸在资源约束下最大化一切今人与一切将生者一生福祉的期望总和；代际间一生福祉的最优分配，便由此最大化推演而出。自然，时间的流逝不等于世代的更替：个体一生的福祉，是其一生所历福祉流之聚合；而代际福祉，是一切登场者一生福祉之聚合。这两个聚合法是否应具同一函数形式，殊可怀疑；但另一方面，也少有证据表明假定二者同形会使我们偏离太远。就实践伦理学言，不去区分个体跨时间福祉与跨世代福祉在函数形式上的差异、径作近似，助益极大——拉姆齐便采此捷径。人又被视为彼此相同，故不妨假定每个时点只有单一个体；此举抹去了时间与世代之别。另一种解释则设想经济由单一王朝构成，每代父母向子女遗留遗产（Meade 1966 即采此解）[^meade-1966]。拉姆齐还假定时间为连续变量而非离散变量，多半是因为数学上更简便。
+  - id: 8
+    kind: body
+    source: |-
+      Let $t \ge 0$ denote time. In Ramsey’s model there is no uncertainty (but see Levhari and Srinivasan, 1969, for one of the first of many extensions of the Ramsey model that incorporate uncertainty about future possibilities). The economy is endowed with a *single, non-depreciating* commodity that can be worked by labour to produce output at each date (Gale 1967 and Brock 1973, were among the first of many extensions of the Ramsey model that contain a heterogeneous collection of capital goods)[^brock-1973][^gale-1967]. The economy is assumed to be closed to international trade (opening the economy to trade involves only a minor extension to Ramsey’s model). That means some of the output can be invested so as to add to the commodity’s stock while the remainder can be consumed immediately. We call the stock of the commodity that serves to produce output, “capital.” The problem is then to find the optimum allocation of output at each date between consumption and investment.
+    step1: |-
+      令 $t \ge 0$ 表示时间。在拉姆齐的模型中没有不确定性（但参见 Levhari and Srinivasan, 1969，那是众多把未来可能性的不确定性纳入拉姆齐模型的扩展之一）。经济被赋予一种 *单一的、不发生折旧的* 商品，可由劳动加工而于每个时点生产产出（Gale 1967 与 Brock 1973 是最早一批把异质资本品集合纳入拉姆齐模型的扩展）[^brock-1973][^gale-1967]。经济被假定对国际贸易封闭（向贸易开放只涉及对拉姆齐模型的微小扩展）。这意味着部分产出可投资以增加该商品的存量，其余则可立即消费。我们把用来生产产出的商品存量称为“资本”。问题于是变成：在每个时点上，如何在消费与投资之间最优分配产出。
+    step2: |-
+      令 $t \ge 0$ 表时间。拉姆齐模型中不含不确定性（但参见 Levhari and Srinivasan, 1969：那是把未来诸可能之不确定性纳入拉姆齐模型的最早扩展之一）。经济只被赋予 **一种不折旧的商品**，可经由劳动加工而在每个时点产出产品（Gale 1967 与 Brock 1973 属最早一批把异质资本品集合纳入该模型的扩展）[^brock-1973][^gale-1967]。经济被设定为对国际贸易封闭（开放贸易只须对拉姆齐模型作微小扩展）。这意味着：一部分产出可作投资以增添该商品存量，余者则可即时消费。我们把用以生产产出的该商品存量称作“资本”。问题遂为：在每个时点，如何在消费与投资之间最优地分配产出。
+  - id: 9
+    kind: body
+    source: |-
+      Ramsey assumed that work is unpleasant. But because including the disutility of work in our account of his work here would add nothing of substance, we suppose that labour supply is an exogenously given constant (e.g., it is independent of the wages labour can demand). That enables us to suppress the supply of labour in both production and the factors affecting well-being.
+    step1: |-
+      拉姆齐假定劳动是令人不快的。但由于把劳动的负效用在本文的叙述中计入，不会增添任何实质内容，我们假定劳动供给是外生给定的常数（例如与劳动所能要求的工资无关）。这使我们能够略去生产中的劳动供给以及影响福祉的因素。
+    step2: |-
+      拉姆齐假定工作令人不快。但在我们此处对其学说的叙述中，把劳动的负效用计入并不会增添任何实质内容，故径直假定劳动供给为外生常数（例如不随劳动所能索取的工资而变）。如此便可略去生产中的劳动供给，以及影响福祉的诸因素。
+  - id: 10
+    kind: body
+    source: |-
+      If $K$ is the stock of capital of the economy’s one and only commodity, output is taken to be $F(K)$, where $F(0) = 0$ (i.e., output is zero if there is no capital), $dF(K)/dK \gt 0$ (i.e., the marginal product of capital is positive), and $d^2 F(K)/dK^2 \le 0$ (i.e., the marginal product of $K$ does not increase with $K$). $F(K)$ is a *flow* (production at a moment in time), in contrast to $K$, which is a *stock* (quantity of capital, period). Notice also that output depends solely on the stock of capital. No mention is made of possible improvements in the quality of capital or labour. Thus, there is no prospect of technological progress or accumulation of human capital in Ramsey’s model (but see Mirrlees 1967, for one of the first of many extensions of the Ramsey model that include technological advances in production and human capital formation)[^mirrlees-1967]; nor are there any natural resources in the model (but see Dasgupta and Heal 1974, for one of the first of many extensions of the Ramsey model that include natural capital in production)[^dasgupta-1974].
+    step1: |-
+      若 $K$ 是经济中唯一商品的资本存量，产出取为 $F(K)$，其中 $F(0) = 0$（即无资本则产出为零）、$dF(K)/dK \gt 0$（即资本的边际产品为正）、$d^2 F(K)/dK^2 \le 0$（即 $K$ 的边际产品不随 $K$ 增加而增加）。$F(K)$ 是一个 *流量*（某一时刻的生产），与 $K$ 相对，后者是 *存量*（资本数量，按时期计）。还须注意，产出仅取决于资本存量。文中未提及资本或劳动质量的可能改进。因此，在拉姆齐的模型中没有技术进步或人力资本积累的前景（但参见 Mirrlees 1967，那是众多在拉姆齐模型中加入生产的技术进步与人力资本形成的扩展之一）[^mirrlees-1967]；模型中也没有自然资源（但参见 Dasgupta and Heal 1974，那是众多在生产中加入自然资本的扩展之一）[^dasgupta-1974]。
+    step2: |-
+      设 $K$ 为经济中唯一商品的资本存量，则产出取为 $F(K)$，其中 $F(0) = 0$（无资本则无产出）、$dF(K)/dK \gt 0$（资本的边际产品为正）、$d^2 F(K)/dK^2 \le 0$（$K$ 的边际产品不随 $K$ 递增）。$F(K)$ 是 **流量**（某一时刻的产量），与 $K$ 之为 **存量**（按时期计的资本数量）相对。又须注意：产出仅系于资本存量，全未言及资本或劳动质量的改进。故拉姆齐模型中既无技术进步，亦无人力资本积累之前景（但参见 Mirrlees 1967：众多加入生产技术改进与人力资本形成的扩展之一）[^mirrlees-1967]；模型中亦无自然资源（但参见 Dasgupta and Heal 1974：众多在生产中加入自然资本的扩展之一）[^dasgupta-1974]。
+  - id: 11
+    kind: body
+    source: |-
+      Let $C(t)$ be consumption at $t$. It is a flow (units of consumption per moment). Similarly, we write $K(t)$ for the stock of capital at $t$. As $dK(t)/dt$ is the rate of change in the capital stock at $t$, it is “net investment at $t$,” which too is a flow. And because the capital stock is assumed not to depreciate, gross investment equals net investment.
+    step1: |-
+      令 $C(t)$ 为 $t$ 时的消费。它是流量（每时刻的消费单位）。同样，以 $K(t)$ 记 $t$ 时的资本存量。由于 $dK(t)/dt$ 是 $t$ 时资本存量的变化率，它就是“$t$ 时的净投资”，同样是流量。又因假定资本存量不折旧，总投资等于净投资。
+    step2: |-
+      令 $C(t)$ 为 $t$ 时的消费，此乃流量（每时刻的消费单位）。同理，以 $K(t)$ 记 $t$ 时的资本存量。$dK(t)/dt$ 既是 $t$ 时资本存量的变化率，即“$t$ 时的净投资”，亦为流量。又因资本存量假定不折旧，故总投资等于净投资。
+  - id: 12
+    kind: body
+    source: |-
+      In Ramsey’s model anticipated output at each moment equals the sum of intended investment and intended consumption. Intentions are always realized. To put it in technical language, the economy is in equilibrium at each moment, which is another way of saying that at each moment intended saving equals intended investment. (The assumption needs no explanation in a model with a single agent, but has real bite in a world where savers are not the same agents as investors.) Capital is assumed to be always fully deployed, and labour (which is hidden in the production function $F(K)$) is taken to be fully employed. Output at $t$ is $F(K(t))$. It follows that the economy is driven by the dynamical equation
+
+      $$\tag{1} \frac{dK(t)}{dt} = F(K(t)) - C(t) $$
+    step1: |-
+      在拉姆齐模型中，每个时刻的预期产出等于计划投资与计划消费之和。意图总能实现。用技术语言说，经济在每个时刻都处于均衡，这换一种说法就是：每个时刻的计划储蓄等于计划投资。（在只有单一主体的模型中，这一假定无须解释；但在储蓄者与投资者不是同一主体的世界里，它确有实际约束力。）资本假定始终充分动用，劳动（隐含在生产函数 $F(K)$ 中）被视为充分就业。$t$ 时的产出为 $F(K(t))$。由此可知经济由如下动态方程驱动
+
+      $$\tag{1} \frac{dK(t)}{dt} = F(K(t)) - C(t) $$
+    step2: |-
+      拉姆齐模型中，每一时刻的预期产出等于计划投资与计划消费之和，而意图总能实现。用技术语言说：经济在每个时刻均处于均衡；换个说法，每个时刻的计划储蓄等于计划投资。（在单一主体的模型里，此假定无须解释；但在储蓄者与投资者并非同一主体的世界中，它确有其力。）资本假定始终充分动用，劳动（隐于生产函数 $F(K)$ 之中）视为充分就业。$t$ 时的产出为 $F(K(t))$，于是经济由下述动态方程驱动
+
+      $$\tag{1} \frac{dK(t)}{dt} = F(K(t)) - C(t) $$
+  - id: 13
+    kind: body
+    source: |-
+      Equation (1) says that if consumption is $C(t)$, investment is what remains of output. So, Ramsey’s problem can be cast equally as, “How much of a nation’s output should it consume?” If consumption is less than output at $t$ (i.e., $C(t) \lt F(K(t))$, investment is positive (i.e., $dK(t)/dt \gt 0)$ and the stock of capital increases; but if consumption exceeds output at $t$, investment is negative, which means capital is eaten into and the stock declines (i.e., $dK(t)/dt \lt 0).$ We now imagine that Government House is advised by a “socially-concerned citizen,” the person being someone who is trying to determine the right balance between the economy’s consumption and investment at each date. We shall call that person the *decision maker*, or DM. Ramsey imagined that DM is a Classical-Utilitarian.
+    step1: |-
+      方程 (1) 说，若消费为 $C(t)$，投资便是产出所余。因此，拉姆齐的问题同样可以表述为：“一个国家的产出应消费多少？”若 $t$ 时的消费小于产出（即 $C(t) \lt F(K(t))$，投资为正（即 $dK(t)/dt \gt 0)$），资本存量增加；但若 $t$ 时消费超过产出，投资为负，意味着资本被蚕食，存量下降（即 $dK(t)/dt \lt 0).$ 我们现在设想，官邸由一位“关心社会的公民”提供咨询，此人正试图确定每个时点上经济的消费与投资之间的恰当平衡。我们称此人为 *决策者*，简称 DM。拉姆齐设想 DM 是一位古典功利主义者。
+    step2: |-
+      方程 (1) 表明：消费若为 $C(t)$，投资便是产出之余。是故拉姆齐的问题亦可表述为：“一国产出应消费多少？”$t$ 时消费小于产出（即 $C(t) \lt F(K(t))$）则投资为正（即 $dK(t)/dt \gt 0)$，资本存量上升；反之，$t$ 时消费超过产出则投资为负，意味着资本被蚕食、存量下降（即 $dK(t)/dt \lt 0).$ 现在设想官邸有一位“关心社会的公民”充任顾问，此人正试图为每个时点确定经济中消费与投资的恰当平衡。我们称此人为 **决策者**，简称 DM。拉姆齐设想，DM 乃一古典功利主义者。
+  - id: 14
+    kind: body
+    source: |-
+      ## 2. The Classical-Utilitarian Calculus
+    step1: |-
+      ## 2. The Classical-Utilitarian Calculus
+    step2: |-
+      ## 2 古典功利主义的计算
+  - id: 15
+    kind: body
+    source: |-
+      Classical Utilitarianism identifies the good as the expected sum of well-being over time and across generations. Here is Sidgwick (1907: 414) on the matter:
+    step1: |-
+      古典功利主义把善认定为福祉跨时间、跨世代的期望总和。西季威克（1907: 414）就此写道：
+    step2: |-
+      古典功利主义以善为福祉兼跨时间与世代的期望总和。此点上西季威克（1907: 414）有言：
+  - id: 16
+    kind: body
+    source: |-
+      > It seems … clear that the time at which a man exists cannot affect the value of his happiness from the universal point of view; and that the interests of posterity must concern a Utilitarian as much as those of his contemporaries, except in so far as the effect of his actions on posterity – *and even the existence of human beings to be affected* – must necessarily be more uncertain. (Italics added)
+    step1: |-
+      > 看来……清楚的是，一个人存在的时刻不能从普遍观点影响其幸福的价值；而后代的利益必须与同时代人的利益一样牵动功利主义者，除非他的行为对后代的影响——*甚至包括将被影响的人类是否存在*——必然更为不确定。（斜体为引者所加）
+    step2: |-
+      > 看来……分明的是：一个人生于何时，从普遍观点看并不能左右其幸福之价值；而后世之利害，对功利主义者而言必当与同时代人之利害同等关切——除非其行为对后世之影响，*乃至受其影响者之是否存在*，势必要更为不确定。（斜体为引者所加）
+  - id: 17
+    kind: body
+    source: |-
+      To formalize this, we consider an arbitrary date $t$ at which DM is deliberating. Let $\tau$ denote dates not earlier than $t$ (i.e., $\tau \ge t)$. Ramsey considered a deterministic, infinitely lived world (but see Yaari, 1965, for the first of many extensions of the Ramsey model that incorporate the risk of individual or societal extinction). Well-being is assumed to be a numerical quantity. Let $U(t)$ be well-being at $t$, and let $V(t)$ be an aggregate measure of the flow of well-being across time and generations, as evaluated at time $t$. Ramsey followed Sidgwick in assuming that
+
+      $$\tag{2} V(t) = \int^{\infty}_t[U(\tau)]d\tau $$
+    step1: |-
+      为使之形式化，我们考虑 DM 正在慎思的任意日期 $t$。令 $\tau$ 表示不早于 $t$ 的日期（即 $\tau \ge t)$。拉姆齐考虑了一个确定性的、无限存活的世界（但参见 Yaari, 1965，那是众多在拉姆齐模型中加入个体或社会灭绝风险的扩展中的第一篇）。福祉被假定为数值量。令 $U(t)$ 为 $t$ 时的福祉，令 $V(t)$ 为跨时间与世代的福祉流的汇总度量（以 $t$ 时评估）。拉姆齐随西季威克假定
+
+      $$\tag{2} V(t) = \int^{\infty}_t[U(\tau)]d\tau $$
+    step2: |-
+      为使此点形式化，取 DM 正在慎思的任一日期 $t$；令 $\tau$ 表不早于 $t$ 的日期（即 $\tau \ge t)$。拉姆齐所考虑的，是一个确定性的、无限绵延的世界（但参见 Yaari, 1965：众多纳入个体或社会灭绝风险的扩展之始）。福祉假定为数值量。令 $U(t)$ 为 $t$ 时之福祉，$V(t)$ 为跨时间与世代福祉流之汇总度量（依 $t$ 时评估）。拉姆齐承西季威克之说来假定
+
+      $$\tag{2} V(t) = \int^{\infty}_t[U(\tau)]d\tau $$
+  - id: 18
+    kind: body
+    source: |-
+      $V(t)$ is *intergenerational well-being* at $t$. Because Ramsey’s world is deterministic, $V(t)$ is also the expected value of $V(t)$. So Sidgwick’s criterion is the $V(t)$ in equation (2).
+    step1: |-
+      $V(t)$ 是 $t$ 时的 *代际福祉*。由于拉姆齐的世界是确定性的，$V(t)$ 同时也是 $V(t)$ 的期望值。因此西季威克的标准就是方程 (2) 中的 $V(t)$。
+    step2: |-
+      $V(t)$ 即 $t$ 时的 **代际福祉**。拉姆齐的世界既为确定性的，$V(t)$ 亦即是 $V(t)$ 的期望值。故西季威克的标准，便是方程 (2) 中的 $V(t)$。
+  - id: 19
+    kind: body
+    source: |-
+      Well-being at any given date is assumed to be a function solely of consumption at that date. We therefore write $U(t) = U(C(t))$. Ramsey assumed that marginal well-being is positive (i.e., $dU(C)/dC \gt 0)$ but diminishes with increasing consumption levels (i.e., $d^2 U(C)/dC^2 \lt 0)$. The latter property implies that $U(C)$ is a *strictly concave* function. (Edgeworth 1885, had routinized the idea that marginal well-being declines with increasing consumption.) Thus equation (2) can be written as
+
+      $$\tag{3} V(t) = \int^{\infty}_t [U(C(\tau))]d\tau $$
+    step1: |-
+      任一给定日期的福祉，被假定仅是该日消费的函数。我们因此写作 $U(t) = U(C(t))$。拉姆齐假定边际福祉为正（即 $dU(C)/dC \gt 0)$）但随消费水平提高而递减（即 $d^2 U(C)/dC^2 \lt 0)$。后一性质意味着 $U(C)$ 是一个 *严格凹* 函数。（埃奇沃思 1885 已把“边际福祉随消费增加而下降”这一想法常规化。）于是方程 (2) 可写作
+
+      $$\tag{3} V(t) = \int^{\infty}_t [U(C(\tau))]d\tau $$
+    step2: |-
+      任一给定日期的福祉，设为其日消费的单一函数，故记作 $U(t) = U(C(t))$。拉姆齐假定边际福祉为正（即 $dU(C)/dC \gt 0)$），但随消费水平上升而递减（即 $d^2 U(C)/dC^2 \lt 0)$）。后一性质意味着 $U(C)$ 是 **严格凹** 函数。（埃奇沃思 1885 已将“边际福祉随消费递增而递减”之说常规化。）于是方程 (2) 可写作
+
+      $$\tag{3} V(t) = \int^{\infty}_t [U(C(\tau))]d\tau $$
+  - id: 20
+    kind: body
+    source: |-
+      Classical Utilitarianism, as reflected in equation (3), requires that if $U$ is a numerical measure of well-being, then so is $\alpha U+\beta$, where $\alpha$ is a positive number and $\beta$ is a number of either sign. Formally, we say that $U$ is unique up to “positive affine transformations.” We confirm presently that the theory’s recommendations are invariant under such transformations.
+    step1: |-
+      如方程 (3) 所体现的，古典功利主义要求：若 $U$ 是福祉的数值度量，则 $\alpha U+\beta$ 也是，其中 $\alpha$ 为正数，$\beta$ 为任意符号的数。形式上我们说，$U$ 只在“正仿射变换”下唯一。我们稍后确认，该理论的建议在此类变换下不变。
+    step2: |-
+      如方程 (3) 所示，古典功利主义要求：若 $U$ 为福祉的一种数值度量，则 $\alpha U+\beta$ 亦然，其中 $\alpha$ 为正数、$\beta$ 可取正负。形式上说，$U$ 只具“正仿射变换”下的唯一性。下文将确认，该理论的建议在此类变换之下保持不变。
+  - id: 21
+    kind: body
+    source: |-
+      ### 2.1 Zero Discounting of Future Well-Beings
+    step1: |-
+      ### 2.1 Zero Discounting of Future Well-Beings
+    step2: |-
+      ### 2.1 对未来福祉的零贴现
+  - id: 22
+    kind: body
+    source: |-
+      In equation (3), future values of $U$ are not discounted when viewed from the present moment, $t$. This particular move has provoked more debate among economists and philosophers than any other feature of Ramsey’s theory of optimum saving. The debate has on occasion been shriller than even we economists are used to (see in particular Nordhaus 2007)[^nordhaus-2007]. At the risk of generalizing wildly, economists have favoured the use of positive rates to discount future well-beings (e.g., Arrow and Kurz 1970)[^arrow-1970], whereas philosophers have insisted that the well-being of future people should be given the same weight as that of present people (e.g., Parfit 1984)[^parfit-1984].
+    step1: |-
+      在方程 (3) 中，从当下 $t$ 看，未来的 $U$ 值并未贴现。相对于拉姆齐最优储蓄理论的其他任何特征，这一做法在经济学家与哲学家中引发的争论更多。争论有时之激烈，连我们经济学家都感到不惯（尤其见 Nordhaus 2007）。冒着过分概化的风险说，经济学家倾向于使用正利率来贴现未来福祉（例如 Arrow and Kurz 1970），而哲学家则坚持未来人的福祉应与今人福祉同等分量（例如 Parfit 1984）。
+    step2: |-
+      方程 (3) 中，自当下 $t$ 观之，未来的 $U$ 值一概不贴现。拉姆齐最优储蓄理论的诸特征中，唯此一端在经济学者与哲学家中激起的争论最多，有时其激烈程度连我们经济学者也觉得不惯（尤见 Nordhaus 2007）[^nordhaus-2007]。大而化之地说：经济学者倾向于以正利率贴现未来福祉（如 Arrow and Kurz 1970）[^arrow-1970]，哲学家则坚持未来人的福祉应与今人同权（如 Parfit 1984）[^parfit-1984]。
+  - id: 23
+    kind: body
+    source: |-
+      What would Classical Utilitarianism with positive discounting of future well-beings look like? Let $\delta \gt 0$ be the rate at which it is deemed desirable to discount future well-beings (for simplicity we take the discount rate to be constant). Then, in place of equations (2)–(3), intergenerational well-being at $t$, would read as
+
+      $$\tag{4} \begin{align} V(t) &= \int^{\infty}_t [U(\tau)e^{-\delta(\tau -t)}]d\tau \\ &= \int^{\infty}_t [U(C(\tau))e^{-\delta(\tau -t)}]d\tau, t \ge 0 \\ \end{align}$$
+    step1: |-
+      带有未来福祉正贴现的古典功利主义会是什么样子？令 $\delta \gt 0$ 为被视为可欲的未来福祉贴现率（为简单起见，取贴现率为常数）。那么，以之取代方程 (2)—(3)，$t$ 时的代际福祉应读作
+
+      $$\tag{4} \begin{align} V(t) &= \int^{\infty}_t [U(\tau)e^{-\delta(\tau -t)}]d\tau \\ &= \int^{\infty}_t [U(C(\tau))e^{-\delta(\tau -t)}]d\tau, t \ge 0 \\ \end{align}$$
+    step2: |-
+      若古典功利主义改采未来福祉的正贴现，会是什么模样？令 $\delta \gt 0$ 为被视为可欲的未来福祉贴现率（为简便计，取贴现率为常数）。那么，取代方程 (2)—(3)，$t$ 时的代际福祉应写作
+
+      $$\tag{4} \begin{align} V(t) &= \int^{\infty}_t [U(\tau)e^{-\delta(\tau -t)}]d\tau \\ &= \int^{\infty}_t [U(C(\tau))e^{-\delta(\tau -t)}]d\tau, t \ge 0 \\ \end{align}$$
+  - id: 24
+    kind: body
+    source: |-
+      In equation (4), $\delta$ the “time discount rate” and $e^{-\delta}$ the resulting “time discount factor.”
+    step1: |-
+      在方程 (4) 中，$\delta$ 是“时间贴现率”，$e^{-\delta}$ 是相应的“时间贴现因子”。
+    step2: |-
+      方程 (4) 里，$\delta$ 称“时间贴现率”，$e^{-\delta}$ 则是相应的“时间贴现因子”。
+  - id: 25
+    kind: body
+    source: |-
+      $\delta \gt 0$ implies $e^{-\delta} \lt 1$. That means $e^{-\delta(\tau -t)}$ tends to zero exponentially as $\tau$ tends to infinity. In the latter part of his paper Ramsey (1928: 553–555) did use equation (4) to study the problem of optimum saving, but he did not approve of the formulation. Instead, he wrote (p. 543) that to discount later $U$’s in comparison with earlier ones is “… ethically indefensible and arises merely from the weakness of the imagination.” In a book that inaugurated the formal study of economic development, Harrod (1948: 40) followed suit by calling the practice a “… polite expression for rapacity and the conquest of reason by passion.”
+    step1: |-
+      $\delta \gt 0$ 意味着 $e^{-\delta} \lt 1$。这表示当 $\tau$ 趋于无穷时，$e^{-\delta(\tau -t)}$ 以指数方式趋于零。在其论文的后半部分，拉姆齐（1928: 553–555）确实用方程 (4) 研究了最优储蓄问题，但他并不赞同这一表述。他反而写道（第 543 页）：把较晚的 $U$ 相对于较早的 $U$ 加以贴现，“……在伦理上无可辩护，只源于想象力的薄弱。”在开创经济发展之形式研究的一本书中，哈罗德（1948: 40）随之把这种做法称为“……对贪婪的客气说法，是激情对理性的征服。”
+    step2: |-
+      $\delta \gt 0$ 意味着 $e^{-\delta} \lt 1$，即当 $\tau \to \infty$ 时 $e^{-\delta(\tau -t)}$ 按指数衰减至零。拉姆齐（1928: 553–555）在论文后半确实用方程 (4) 研究过最优储蓄问题，却不赞同这一表述；他反倒写道（第 543 页）：把较晚的 $U$ 相对较早者加以贴现，“……在伦理上无可辩护，只缘于想象力的薄弱”。哈罗德（1948: 40）在开创经济发展之形式研究的那部著作中随声附和，把此种做法称作“……对贪婪的客气说法，是激情对理性的征服”。
+  - id: 26
+    kind: body
+    source: |-
+      Strong words, but to some economists, the Ramsey-Harrod stricture in a deterministic world reads like a Sunday pronouncement. Solow (1974a: 9) expressed this feeling exactly when he wrote, “In solemn conclave assembled, so to speak, we ought to act as if the [discount rate on future well-beings] were zero.”
+    step1: |-
+      措辞严厉，但在一些经济学家看来，拉姆齐—哈罗德的这一训诫在确定性世界中读起来像一份周日宣言。索洛（1974a: 9）把这种感觉表达得恰如其分：“可以说，在庄严的集会上，我们应当表现得仿佛〔未来福祉的贴现率〕为零。”
+    step2: |-
+      话虽严厉，在某些经济学者看来，拉姆齐—哈罗德这声训诫置于确定性世界之中，读来不过是一纸礼拜日宣言。索洛（1974a: 9）把此种感受说得再贴切不过：“不妨说，在庄严的集会之上，我们应当表现得仿佛〔未来福祉的贴现率〕为零。”
+  - id: 27
+    kind: body
+    source: |-
+      But the matter cannot be settled without a study of production and consumption possibilities open to an economy. Consider the following tension between two sets of considerations:
+    step1: |-
+      但若不研究一个经济所面对的生产与消费可能性，这个问题无法了结。试看以下两组考量之间的张力：
+    step2: |-
+      然而，不考察一个经济在生产和消费上的可能空间，此事便无从定夺。请看以下两组考量之间的紧张：
+  - id: 28
+    kind: body
+    source: |-
+      1. Low rates of consumption by generations sufficiently far into the future would not be seen to be a bad thing by the current DM if future well-beings were discounted at a positive rate. So today’s DM would recommend high consumption rates for now and the near future even if that meant generations in the distant future would live in penury. But if such a policy were followed, the demands of a further moral requirement to Classical Utilitarianism that DM may hold, namely, “intergenerational equity,” would not be met. Therefore we should follow Ramsey and not discount future well-beings.
+      2. Write $dF(K)/dK$ as $F_K$. From equation (1) it is simple to deduce that $F_K$ is the rate of return on investment. In Ramsey’s economy $F_K \gt 0$, which means every unit of output that is saved yields more than a unit of future consumption, other things equal. For example, if DM were to reduce consumption at $t$ by a unit, the additional consumption that would be available in the briefest of periods later – we write that as $\Delta t$ – without affecting consumption at any future date would be $1+[dF(K(t))/dK(t)]\Delta t$. The productivity of capital is thus tied to the arrow of time, which creates a bias in favour of future generations. This bias gives bite to the adage, “We can do something for posterity, but what can posterity ever do for us?” The thought inevitably arises that perhaps the bias should be countered in DM’s calculus if some attention were to be given by her to intergenerational equity in realized well-being as a supplement to Classical Utilitarianism. That in turn suggests that DM should abandon Ramsey and discount future well-beings at a positive rate.
+    step1: |-
+      1. 若未来福祉以正率贴现，则足够遥远之世代消费率偏低，在当下 DM 看来并不算坏事。因此今天的 DM 会建议当下与近未来保持高消费率，即使这意味着遥远未来的世代生活于贫困。但若奉行此种政策，则 DM 可能持有的、古典功利主义之外的另一道德要求——“代际公平”——便得不到满足。因此我们应当追随拉姆齐，不贴现未来福祉。
+      2. 把 $dF(K)/dK$ 写作 $F_K$。由方程 (1) 容易推出，$F_K$ 是投资的收益率。在拉姆齐经济中 $F_K \gt 0$，这意味着其他条件不变时，每节约一单位产出，可换来超过一单位的未来消费。例如，若 DM 在 $t$ 时减少一单位消费，则在稍后极短一段时间（记作 $\Delta t$）内可多得的、且不影响任何未来日期消费的额外消费，将是 $1+[dF(K(t))/dK(t)]\Delta t$。资本的生产率于是与时间之箭相系，形成一种有利于未来世代的偏倚。这一偏倚使那句老话有了分量：“我们能为后代做些什么，而后代又能为我们做什么？”念头不免浮现：若 DM 在古典功利主义之外还稍加留意实现福祉上的代际公平，或许就该在她的计算中抵消这一偏倚。这又提示，DM 应当放弃拉姆齐、以正率贴现未来福祉。
+    step2: |-
+      1. 若未来福祉按正率贴现，则足够遥远之世代消费率偏低，在当下 DM 眼中并不为害。于是今日的 DM 会为当下与近未来建议高消费率，纵令远处世代因此陷入穷困。然而一旦行此政策，DM 所可能持有的另一项道德要求——“代际公平”——便落空了。故当追随拉姆齐，不贴现未来福祉。
+      2. 将 $dF(K)/dK$ 记作 $F_K$。由方程 (1) 不难推出，$F_K$ 即投资的收益率。拉姆齐经济中 $F_K \gt 0$，意谓其他条件不变时，每节约一单位产出，可换来不止一单位的未来消费。譬如 DM 在 $t$ 时减一单位消费，则在紧随的极短一段（记作 $\Delta t$）内、且不损及任何未来日期消费的前提下，可多得 $1+[dF(K(t))/dK(t)]\Delta t$ 的消费。资本的生产率由此与时间之箭相绾，形成偏向未来世代的偏倚。此一偏倚使那句老话有了锋芒：“我们能为后世做些事，而后世又能为我们做什么？”于是不免想到：倘若 DM 在古典功利主义之外，还稍顾实现福祉上的代际公平，就该在她的计算中抵销这一偏倚。这又提示：DM 应弃拉姆齐而从正率贴现未来福祉。
+  - id: 29
+    kind: body
+    source: |-
+      The force of each consideration has been demonstrated in the economics literature. It has been shown in the context of a simple model that if production requires produced capital and exhaustible resources, then optimum consumption declines to zero in the long run if future well-beings are discounted at a positive rate (Dasgupta and Heal 1974)[^dasgupta-1974], but increases indefinitely if we follow Ramsey in not discounting future well-beings (Solow 1974b)[^solow-1974b]. The exercises tell us that the long-run features of optimum saving policies depend on the relative magnitudes of the rate at which future well-beings are discounted and the long-term productivity of capital assets.
+    step1: |-
+      每一项考量的力量都已在经济学文献中得到演示。已经表明，在一个简单模型中，若生产需要生产出来的资本与可耗竭资源，则在未来福祉以正率贴现时，最优消费在长期将降至零（Dasgupta and Heal 1974）；但若追随拉姆齐而不贴现未来福祉，则会无限增长（Solow 1974b）。这些练习告诉我们，最优储蓄政策的长期特征，取决于未来福祉贴现率与资本资产长期生产率二者的相对大小。
+    step2: |-
+      两项考量各自的分量，经济学文献均已演示。有以简单模型表明：若生产既需生产出来的资本、又需可耗竭资源，则未来福祉按正率贴现时，最优消费在长期将趋降至零（Dasgupta and Heal 1974）[^dasgupta-1974]；若效法拉姆齐而不贴现未来福祉，则最优消费将无限增长（Solow 1974b）[^solow-1974b]。此类演练告诉我们：最优储蓄政策的长期面貌，系于未来福祉贴现率与资本资产长期生产率二者的相对大小。
+  - id: 30
+    kind: body
+    source: |-
+      There is a more general point here, which was explored by Koopmans (1960, 1965, 1967, 1972) in a remarkable set of publications on the idea of economic development. In such complex exercises as those involving consumption and investment over a long time horizon, it is foolish to regard any ethical principle (e.g., Classical Utilitarianism) as sacrosanct. One can never know in advance what it may run up against. A more judicious tactic than Ramsey’s would be to to play off one set of ethical assumptions against another in not-implausible worlds, see what their implications are for the distribution of well-being across generations, and then appeal to our intuitive senses before arguing over policy. Settling *ex ante* whether to use a positive rate to discount future well-beings could be a self-defeating move.[^note-1]
+    step1: |-
+      这里有一个更一般的要点，科普曼斯（1960、1965、1967、1972）在一系列论经济发展的出色论著中作了探讨。在诸如涉及时长跨度消费与投资的复杂演练中，把任何伦理原则（例如古典功利主义）视为神圣不可侵犯都是愚蠢的。人永远无法预先知道它会撞上什么。比拉姆齐更审慎的策略是：在不那么难以置信的诸世界中，让一套伦理假定与另一套相互较量，看它们对代际福祉分配有何意涵，然后诉诸我们的直觉，再争论政策。预先就断定是否使用正率贴现未来福祉，可能是一步自拆台脚的棋。[^note-1]
+    step2: |-
+      此处尚有一个更一般的要点，科普曼斯（1960、1965、1967、1972）在一系列论经济发展的精彩论著中曾加探讨：在涉及时长跨度消费与投资的复杂推演里，把任何伦理原则（如古典功利主义）奉为不可侵犯，都是愚不可及。人总不能预知它会撞上什么。较拉姆齐更为审慎的策略是：在不那么难以设想的世界中，令一套伦理假定与另一套彼此较量，看它们对代际福祉分配有何蕴含，然后诉诸吾人的直觉，再议政策。事先就断定当否以正率贴现未来福祉，恐怕是一着自拆台脚的棋。[^note-1]
+  - id: 31
+    kind: body
+    source: |-
+      ## 3. The Problem of Optimum Saving
+    step1: |-
+      ## 3. The Problem of Optimum Saving
+    step2: |-
+      ## 3 最优储蓄问题
+  - id: 32
+    kind: body
+    source: |-
+      Ramsey considered a world with an indefinite future. This could appear to be an odd move, but it has a strong rationale. Suppose DM were to choose a horizon of $T$ years. As she doesn’t know when our world will end, she will want to specify the resources that should be left behind at $T$ in case the world doesn’t terminate then. But to find a justification for the amount to leave behind at $T$, DM will need an assessment of the world beyond $T$. That would, however, amount to including the world beyond $T$. And so on.
+    step1: |-
+      拉姆齐考虑了一个前景无限的未来世界。这看起来或许是个古怪的做法，却有其强有力的理由。假定 DM 选择一个 $T$ 年的期限。由于她不知道我们的世界何时终结，她会希望规定在世界未于 $T$ 终结时应留下哪些资源。但若要为 $T$ 时留下多少找出正当理由，DM 就需要对 $T$ 之后的世界作一番评估。然而那等于把 $T$ 之后的世界也纳入进来。如此推下去，便无终了。
+    step2: |-
+      拉姆齐所设想的，是一个前景无有尽期的世界。此举看似古怪，实有强有力的理据。设 DM 选定 $T$ 年为期。她既不知我们的世界何日告终，便要规定：万一世界并未在 $T$ 时终结，应留下哪些资源。然而，要为“$T$ 时留多少”找出理据，DM 必须先对 $T$ 以后的世界有所估量；而这就等于把 $T$ 之后的世界一并纳入。如此递推，遂无尽头。
+  - id: 33
+    kind: body
+    source: |-
+      Denote a consumption stream from the present $(t = 0)$ to infinity as $\{C(t)\}.$ $K(0) \gt 0$ circumscribes the economy; it is the quantity of capital that society has inherited from the past. Mathematicians would call $K(0)$ an “initial condition.” The problem Ramsey set himself was to determine the consumption stream $\{C(t)\}$ from 0 to infinity that DM would select if she were a Classical Utilitarian.
+    step1: |-
+      以 $\{C(t)\}$ 记从当下（$t = 0$）到无穷的消费流。$K(0) \gt 0$ 界定了经济；它是社会从过去继承的资本数量。数学家会把 $K(0)$ 称作“初始条件”。拉姆齐为自己设定的问题，是确定从 0 到无穷的消费流 $\{C(t)\}$——若 DM 是一位古典功利主义者，她会选择的那一条。
+    step2: |-
+      以 $\{C(t)\}$ 记自当下（$t = 0$）绵延至无穷的消费流。$K(0) \gt 0$ 界定了该经济，即社会自往昔继承的资本数量；数学家会称 $K(0)$ 为“初始条件”。拉姆齐自设的问题便是：若 DM 为古典功利主义者，她将从 0 到无穷的诸消费流中择出哪一条 $\{C(t)\}$。
+  - id: 34
+    kind: body
+    source: |-
+      ### 3.1 Undiscounted Utilitarianism
+    step1: |-
+      ### 3.1 Undiscounted Utilitarianism
+    step2: |-
+      ### 3.1 不贴现的功利主义
+  - id: 35
+    kind: body
+    source: |-
+      Call a consumption stream $\{C(t)\}$ *feasible* if it satisfies equation (1) with initial condition $K(0)$. In Ramsey’s deterministic world the Classical Utilitarian formulation of the problem of optimum national saving at date $t = 0$ is thus:
+    step1: |-
+      若消费流 $\{C(t)\}$ 在初始条件 $K(0)$ 下满足方程 (1)，则称之为 *可行的*。在拉姆齐的确定性世界里，$t = 0$ 时最优国民储蓄问题的古典功利主义表述于是为：
+    step2: |-
+      设消费流 $\{C(t)\}$ 在初始条件 $K(0)$ 下满足方程 (1)，则称之为 **可行的**。在拉姆齐的确定性世界中，$t = 0$ 时最优国民储蓄问题的古典功利主义表述遂为：
+  - id: 36
+    kind: body
+    source: |-
+      “From the set of all feasible consumption streams, find that $\{C(t)\}$ which maximizes
+
+      $$ V(0) = \int^{\infty}_0 [U(C(t))]dt.” $$
+    step1: |-
+      “从一切可行消费流的集合中，找出使
+
+      $$ V(0) = \int^{\infty}_0 [U(C(t))]dt.” $$
+
+      最大化的那个 $\{C(t)\}$。”
+    step2: |-
+      “自一切可行消费流之集合中，求出使
+
+      $$ V(0) = \int^{\infty}_0 [U(C(t))]dt.” $$
+
+      取最大者 $\{C(t)\}$。”
+  - id: 37
+    kind: body
+    source: |-
+      We will call this optimization problem, *Ramsey Mark I*.
+    step1: |-
+      我们把这一最优化问题称为 *拉姆齐第一式*。
+    step2: |-
+      这一最优化问题，我们称之为 **拉姆齐第一式**。
+  - id: 38
+    kind: body
+    source: |-
+      There is a serious difficulty with *Ramsey Mark I*: it is not coherent. Infinite sums don’t necessarily converge. For any $\{C(t)\}$ for which the infinite integral doesn’t converge, $V(0)$ doesn’t exist. If the integral is non-convergent for every feasible consumption streams $\{C(t)\}$, the maximization problem is meaningless: One cannot maximize something that appears to be a real-valued function $V(0)$ when in fact the function doesn’t exist.
+    step1: |-
+      *拉姆齐第一式* 有一个严重困难：它并不自洽。无穷和不必然收敛。对任何使该无穷积分不收敛的 $\{C(t)\}$，$V(0)$ 并不存在。若对每一条可行消费流 $\{C(t)\}$ 该积分都不收敛，则最大化问题毫无意义：当函数实际上并不存在时，人无法把看似实值函数 $V(0)$ 的东西最大化。
+    step2: |-
+      **拉姆齐第一式** 有一个严重毛病：它并不自洽。无穷和未必收敛；对任何使该无穷积分不收敛的 $\{C(t)\}$，$V(0)$ 根本不存在。倘若对每一条可行消费流 $\{C(t)\}$ 该积分皆不收敛，则最大化问题便成虚设：函数实际并不存在，人又如何能把它当作实值函数 $V(0)$ 来最大化？
+  - id: 39
+    kind: body
+    source: |-
+      The force of this observation can be seen in
+    step1: |-
+      这一观察的力量可见于
+    step2: |-
+      此一观察的分量，可见于下例。
+  - id: 40
+    kind: body
+    source: |-
+      **Example 1** (attributed to David Gale)
+    step1: |-
+      **例 1**（归于戴维·盖尔）
+    step2: |-
+      **例 1**（归于戴维·盖尔〔David Gale〕）
+  - id: 41
+    kind: body
+    source: |-
+      Suppose as an extreme special case of the Ramsey economy, $F(K) = 0$ for all $K \ge 0$. Then equation (1) reduces to
+
+      $$\tag{5} \frac{dK(t)}{dt} = - C(t) $$
+    step1: |-
+      设作为拉姆齐经济的一个极端特例，对所有 $K \ge 0$，$F(K) = 0$。于是方程 (1) 化为
+
+      $$\tag{5} \frac{dK(t)}{dt} = - C(t) $$
+
+      方程 (5) 所描述的经济，由一块不腐坏的蛋糕构成，其初始日期的大小为 $K(0) \gt 0$。显然，满足方程 (5) 的每一条消费流 $\{C(t)\}$ 在长期都趋于零。形式上，当 $t \rightarrow \infty$ 时 $C(t) \rightarrow 0$。
+    step2: |-
+      试取拉姆齐经济的一个极端特例：对所有 $K \ge 0$，$F(K) = 0$。于是方程 (1) 化为
+
+      $$\tag{5} \frac{dK(t)}{dt} = - C(t) $$
+
+      方程 (5) 所刻画的经济，不过是一块不会腐坏的蛋糕，其初始日期大小为 $K(0) \gt 0$。显然，凡满足方程 (5) 的消费流 $\{C(t)\}$，长期必趋于零；形式上即当 $t \rightarrow \infty$ 时 $C(t) \rightarrow 0$。
+  - id: 42
+    kind: body
+    source: |-
+      The economy described in equation (5) consists of a non-deteriorating piece of cake, of size $K(0) \gt 0$ at the initial date. It is obvious that every consumption stream $\{C(t)\}$ satisfying equation (5) tends to zero in the long run. Formally, $C(t) \rightarrow 0$ as $t \rightarrow \infty$.
+    step1: |-
+      由于 $U$ 函数只在正仿射变换下唯一，我们可以不失一般性地把它规范化，使 $U(0) \ne 0$。于是显然：对一切可行 $\{C(t)\}$，若 $U(0) \lt 0$，*拉姆齐第一式* 中的 $V(0)$ 发散至负无穷；若 $U(0) \gt 0$，则发散至正无穷。
+    step2: |-
+      $U$ 函数只具正仿射变换下的唯一性，故可不失一般性地将其规范化，使 $U(0) \ne 0$。于是显而易见：对一切可行的 $\{C(t)\}$，若 $U(0) \lt 0$，**拉姆齐第一式** 中的 $V(0)$ 发散至负无穷；若 $U(0) \gt 0$，则发散至正无穷。
+  - id: 43
+    kind: body
+    source: |-
+      Because the $U$-function is unique up to positive affine transformations, we may without any loss of generality normalize it so that $U(0) \ne 0$. It is then obvious that for all feasible $\{C(t)\}$, $V(0)$ in *Ramsey Mark I* diverges to minus infinity if $U(0) \lt 0$, but diverges to plus infinity if $U(0) \gt 0$. That an optimum policy does not exist in the cake-eating model can be seen if we now recall that $U(C)$ has been assumed to be strictly concave. The assumption implies that any non-egalitarian distribution of consumption among the generations can be improved upon by a suitable redistribution. The ideal distribution would be equal consumption for all generations. The only consumption stream with the latter property is $C(t) = 0$ for all $t$. But that’s the worst possible distribution. QED
+    step1: |-
+      吃蛋糕模型中不存在最优政策，这一点可见于如下：我们现已记起，$U(C)$ 被假定为严格凹。该假定意味着，世代间任何不平等的消费分配都可通过适当再分配而改善。理想的分配是各世代消费相等。而唯一具有后一性质的消费流是 $C(t) = 0$（对所有 $t$）。但那却是最坏的分配。证毕。
+    step2: |-
+      吃蛋糕模型里不存在最优政策，可由下述推知：我们记得 $U(C)$ 被假定为严格凹；此假定意味着，代际间任何不平等的消费分配，都可借适当再分配而改善。理想的分配是各代消费均等；而唯一具此性质的消费流，是 $C(t) = 0$（对所有 $t$）。偏偏那又是最坏的分配。证毕。
+  - id: 44
+    kind: body
+    source: |-
+      ### 3.2 Re-normalizing Undiscounted Utilitarianism
+    step1: |-
+      ### 3.2 Re-normalizing Undiscounted Utilitarianism
+    step2: |-
+      ### 3.2 重新规范化不贴现的功利主义
+  - id: 45
+    kind: body
+    source: |-
+      The question arises whether there are circumstances in which there is a best consumption stream even though $V(0)$ does not converge for all consumption streams. Ramsey formulated the question by altering the way the saving problem is posed.
+    step1: |-
+      问题在于：是否存在这样的情形——尽管 $V(0)$ 对一切消费流都不收敛，却仍有一条最佳消费流？拉姆齐通过改变储蓄问题的提法来表述这一问题。
+    step2: |-
+      问题随之而来：是否可能存在某种情形，使 $V(0)$ 对一切消费流皆不收敛，却仍有一条最佳消费流？拉姆齐改换储蓄问题的提法，以此表述该问题。
+  - id: 46
+    kind: body
+    source: |-
+      Imagine that well-being is bounded above no matter how large consumption happens to be. Let $U$ be the numerical measure of well-being that DM chooses to work with. (All positive affine transformations of $U$ would be equally legitimate measures of well-being.) Let $B$ be the lowest upper bound of $U$. Ramsey christened it “Bliss”. Because the rate of return on investment $(F_K)$ in his model is positive, consumption would grow indefinitely and tend to infinity in the long run if saving rates were suitably chosen. That means there are possible paths of economic development in which $U(C(t))$ tend to $B$ in the long run. But that implies there are possible paths of economic development in which the short-fall of $U(C(t))$ from $B$ tends to zero in the long run. If the short-fall tends to zero fast enough, the undiscounted integral of the difference between $U(C(t))$ and $B$ would exist, and DM could seek to maximize the modified integral. So we have *Ramsey Mark II*, which reads as
+    step1: |-
+      设想无论消费多大，福祉都有上界。令 $U$ 为 DM 选用的福祉数值度量。（$U$ 的一切正仿射变换都同样是合法的福祉度量。）令 $B$ 为 $U$ 的最小上界。拉姆齐称之为“至福”。由于他模型中投资的收益率 $(F_K)$ 为正，若储蓄率选择得当，消费将无限增长并在长期趋于无穷。这意味着存在一些可能的经济发展路径，沿之 $U(C(t))$ 在长期趋于 $B$。但这也意味着存在一些路径，沿之 $U(C(t))$ 与 $B$ 的差在长期趋于零。若该差趋于零足够快，则 $U(C(t))$ 与 $B$ 之差的未贴现积分将会存在，DM 便可寻求最大化修改后的积分。于是我们有 *拉姆齐第二式*，其表述为
+    step2: |-
+      设想无论消费多大，福祉总有上界。令 $U$ 为 DM 所选用的福祉数值度量（$U$ 的一切正仿射变换同样合法）。令 $B$ 为 $U$ 的最小上界，拉姆齐名之曰“至福”。他模型中投资的收益率 $(F_K)$ 既为正，则只要储蓄率选得相宜，消费将无限增长、长期趋于无穷。这就是说，存在若干可能的经济发展路径，沿之 $U(C(t))$ 长期趋于 $B$；而这也意味着，存在若干路径，沿之 $U(C(t))$ 与 $B$ 之差长期趋于零。此差若趋于零足够迅疾，则 $U(C(t))$ 与 $B$ 之差的未贴现积分便存在，DM 遂可转而最大化修改后的积分。于是有 **拉姆齐第二式**：
+  - id: 47
+    kind: body
+    source: |-
+      “From the set of all feasible consumption streams, find that $\{C(t)\}$ which maximizes
+
+      $$ V(0) = \int^{\infty}_0 [U(C(t))-B]dt.” $$
+    step1: |-
+      “从一切可行消费流的集合中，找出使
+
+      $$ V(0) = \int^{\infty}_0 [U(C(t))-B]dt.” $$
+
+      最大化的那个 $\{C(t)\}$。”
+    step2: |-
+      “自一切可行消费流之集合中，求出使
+
+      $$ V(0) = \int^{\infty}_0 [U(C(t))-B]dt.” $$
+
+      取最大者 $\{C(t)\}$。”
+  - id: 48
+    kind: body
+    source: |-
+      Notice that *Mark II* is a transformation of *Mark I*. The transformation amounts to re-normalizing the optimality criterion. Not only was the move from *Mark I* to *Mark II* on Ramsey’s part ingenious, it also displayed his moral integrity. It would have been easy enough for him to ask DM instead to discount future consumption and expand the range of circumstances in which Utilitarianism provides an answer to the problem DM is attempting to solve. He chose not to do that.
+    step1: |-
+      注意，*第二式* 是 *第一式* 的一种变换。该变换相当于重新规范化最优性判据。从 *第一式* 走向 *第二式*，不仅显露出拉姆齐的巧思，也显出他的道德操守。他完全可以要求 DM 转而贴现未来消费，从而扩大功利主义能为 DM 所求解问题提供答案的情形范围。他没有那样做。
+    step2: |-
+      须注意，**第二式** 乃是 **第一式** 的一种变换，变换的实质是重新规范化最优性判据。自 *第一式* 转出 *第二式*，既见拉姆齐的巧思，亦见其道德操守：他本可转而要求 DM 贴现未来消费，好让功利主义在更多情形下能为 DM 作答；他偏偏不取此途。
+  - id: 49
+    kind: body
+    source: |-
+      Ramsey’s intuition in moving from *Mark I* to *Mark II* was powerful, but in a paper that initiated the modern literature on the Ramsey problem, Chakravarty (1962) observed that to rely exclusively on the condition Ramsey had identified as being *necessary* for a consumption stream to be the optimum (see below) can lead to absurd results (see below, Sect. 4). In effect Chakravarty observed that infinite integrals, even when cast in the re-normalized form in *Ramsey Mark II*, don’t necessarily converge to finite values.
+    step1: |-
+      拉姆齐从 *第一式* 走向 *第二式* 的直觉很强，但在一篇开启拉姆齐问题现代文献的论文中，查克拉瓦蒂（1962）指出：仅倚赖拉姆齐所认定的、消费流成为最优所 *必需* 的条件（见下文），可能导致荒谬的结果（见下文第 4 节）。实际上查克拉瓦蒂指出，无穷积分即便改写为 *拉姆齐第二式* 的重新规范化形式，也不必然收敛到有限值。
+    step2: |-
+      拉姆齐自 **第一式** 转向 **第二式**，其直觉颇为有力；然而查克拉瓦蒂（1962）在开启拉姆齐问题现代文献的那篇论文中指出：若一味倚赖拉姆齐所认定的“消费流成为最优”之 **必要** 条件（见下文），便会引出荒谬之果（见下文第 4 节）。查克拉瓦蒂实则是说：无穷积分纵经 **拉姆齐第二式** 的重新规范化，亦未必收敛于有限值。
+  - id: 50
+    kind: body
+    source: |-
+      ### 3.3 The Overtaking Criterion
+    step1: |-
+      ### 3.3 The Overtaking Criterion
+    step2: |-
+      ### 3.3 赶超标准
+  - id: 51
+    kind: body
+    source: |-
+      What was needed was to de-link the question whether infinite well-being integrals converge from the question whether optimum consumption streams exist. That insight was provided by Koopmans (1965) and von Weizsacker (1965). The latter author’s re-statement of the problem of optimum saving was as follows:
+    step1: |-
+      所需要的，是把“无穷福祉积分是否收敛”与“最优消费流是否存在”这两个问题脱钩。这一洞见由科普曼斯（1965）与冯·魏茨泽克（1965）提供。后一位作者对最优储蓄问题的重述如下：
+    step2: |-
+      当务之急，是把“无穷福祉积分是否收敛”与“最优消费流是否存在”这两问拆开。此一洞见出自科普曼斯（1965）与冯·魏茨泽克（1965）。后者对最优储蓄问题的重述如下：
+  - id: 52
+    kind: body
+    source: |-
+      We say that the feasible consumption stream $\{C^*(t)\}$ is *superior* to a feasible consumption stream $\{C(t)\}$ if there exists $T \gt 0$ such that for all $t \ge T$,
+
+      $$\tag{6} \int^t_0 [U(C^*(s))]ds \ge \int^t_0 [U(C(s))]ds $$
+    step1: |-
+      我们说可行消费流 $\{C^*(t)\}$ *优于* 可行消费流 $\{C(t)\}$，若存在 $T \gt 0$，使对一切 $t \ge T$，
+
+      $$\tag{6} \int^t_0 [U(C^*(s))]ds \ge \int^t_0 [U(C(s))]ds $$
+    step2: |-
+      我们说可行消费流 $\{C^*(t)\}$ **优于** 可行消费流 $\{C(t)\}$，倘若存在 $T \gt 0$，使对一切 $t \ge T$ 皆有
+
+      $$\tag{6} \int^t_0 [U(C^*(s))]ds \ge \int^t_0 [U(C(s))]ds $$
+  - id: 53
+    kind: body
+    source: |-
+      We call $\{C^*(t)\}$ *optimum* if it is superior to all other feasible consumption streams.
+    step1: |-
+      若 $\{C^*(t)\}$ 优于其他一切可行消费流，我们称它为 *最优*。
+    step2: |-
+      若 $\{C^*(t)\}$ 优于其他一切可行消费流，我们便称其为 **最优**。
+  - id: 54
+    kind: body
+    source: |-
+      The condition that is represented in inequality (6) is known as the *Overtaking Criterion* (OC), for that is what it is. OC avoids asking whether the integrals on either side of inequality (6) converge as $t \rightarrow \infty$. If they do, OC reduces to Classical Utilitarianism. But OC is able to respond to Ramsey’s saving problem in a wider class of situations. In his work Koopmans (1965) identified a canonical economic model in which the $U$-function is bounded above and in which *Ramsey Mark II* is equivalent to an optimization problem that is posed in terms of OC.
+    step1: |-
+      不等式 (6) 所表示的条件，称为 *赶超标准*（OC），因为它正是这么回事。OC 避开了追问不等式 (6) 两侧的积分当 $t \rightarrow \infty$ 时是否收敛。若二者收敛，OC 就化为古典功利主义。但 OC 能在更广的一类情形中回应拉姆齐的储蓄问题。科普曼斯（1965）在其工作中识别出一个典范经济模型：其中 $U$ 函数有上界，且 *拉姆齐第二式* 等价于一个以 OC 表述的最优化问题。
+    step2: |-
+      不等式 (6) 所示的条件，即所谓 **赶超标准**（Overtaking Criterion, OC）——名副其实。OC 避开了“不等式 (6) 两侧积分当 $t \rightarrow \infty$ 时是否收敛”之问。二者若收敛，OC 便归为古典功利主义；然而 OC 能在更宽广的一类情形中回应拉姆齐的储蓄问题。科普曼斯（1965）在其论著中辨明了一个典范经济模型：其中 $U$ 函数有上界，且 **拉姆齐第二式** 等价于一个以 OC 表述的最优化问题。
+  - id: 55
+    kind: body
+    source: |-
+      What are we to make of the ethics of discounting the well-beings of future generations? Ramsey (1928) began by dismissing it but then studied it at the tail end of his paper. DM could of course justify discounting future well-being if there is a possibiliy of future extinction. Sidgwick (1907) himself noted that in the passage quoted earlier. If Classical Utilitarianism is taken to commend the expected sum of well-beings, then the “hazard rate” at date $t$ (i.e., the probability of extinction at date $t$ conditional on society surviving until $t)$ would appear in the expression for expected well-being as a discount rate for well-being at $t$. The question remains whether Classical Utilitarianism would insist on zero-discounting of future utilities in a deterministic world.
+    step1: |-
+      我们该如何看待贴现未来世代福祉的伦理？拉姆齐（1928）起初斥之，但后来在论文末段又加以研究。当然，若存在未来灭绝的可能，DM 便有理由贴现未来福祉。西季威克（1907）本人在前引段落中即已指出这一点。若把古典功利主义理解为推荐福祉的期望总和，则 $t$ 时的“风险率”（即在社会存活至 $t$ 的条件下 $t$ 时灭绝的概率）将作为 $t$ 时福祉的贴现率，出现在期望福祉的表达式中。问题仍然是：在确定性世界中，古典功利主义是否坚持对未来效用零贴现。
+    step2: |-
+      我们当如何看待“贴现未来世代福祉”这一伦理？拉姆齐（1928）起初加以斥弃，末了却又在论文尾段加以研究。自然，倘若未来有灭绝之可能，DM 便有理由贴现未来福祉——西季威克（1907）本人在前引那段话中已见及此。若把古典功利主义理解为推许福祉的期望总和，则 $t$ 时的“风险率”（即在社会存活至 $t$ 的条件下，$t$ 时灭绝的概率）将作为 $t$ 时福祉的贴现率，现于期望福祉的表达式之中。问题依旧：在确定性世界里，古典功利主义是否仍坚持对未来效用零贴现？
+  - id: 56
+    kind: body
+    source: |-
+      In a remarkable pair of works Koopmans (1960, 1972) exposed internal contradictions in ethical reasoning in a deterministic world in both *Ramsey Mark I* and *Ramsey Mark II*. He (and subsequently Diamond, 1965) showed that if relatively weak normative requirements are imposed on the concept of intergenerational well-being in a deterministic world, equal treatment of the $U$-function across generations has to be abandoned. We turn to that now.
+    step1: |-
+      在一对出色的论著中，科普曼斯（1960、1972）揭示了确定性世界中伦理推理在 *拉姆齐第一式* 与 *拉姆齐第二式* 中的内在矛盾。他（以及随后的戴蒙德，1965）表明：若对确定性世界中的代际福祉概念施加相对温和的规范要求，则 $U$ 函数在各代之间的平等待遇就必须放弃。我们现在转向这一点。
+    step2: |-
+      科普曼斯（1960、1972）在一对精彩论著中，揭示了确定性世界里的伦理推理在 **拉姆齐第一式** 与 **拉姆齐第二式** 中的内在矛盾。他与随后的戴蒙德（1965）表明：若对确定性世界中的代际福祉概念施加较为温和的规范性要求，则 $U$ 函数在各代之间的平等待遇便不得不放弃。下文即论此点。
+  - id: 57
+    kind: body
+    source: |-
+      ### 3.4 Discounted Utilitarianism
+    step1: |-
+      ### 3.4 Discounted Utilitarianism
+    step2: |-
+      ### 3.4 贴现的功利主义
+  - id: 58
+    kind: body
+    source: |-
+      It transpires the mathematics is a lot simpler if, instead of assuming time is continuous, time is taken to be discrete. Thus we now assume that $t = 0,1,2,\ldots$ . Assume also that intergenerational well-being at $t = 0$ can be measured in terms of a numerical function $V$. The idea is to require the function, which is defined on infinite well-being streams, to satisfy properties that reflect ethical directives.
+    step1: |-
+      可以看到，若把时间取为离散而非连续，数学要简单得多。因此我们现在假定 $t = 0,1,2,\ldots$。又假定 $t = 0$ 时的代际福祉可用数值函数 $V$ 来度量。其想法是要求该函数（定义于无穷福祉流之上）满足反映伦理指令的诸性质。
+    step2: |-
+      可以发现，若不把时间设为连续而设为离散，数学会简便得多。故今假定 $t = 0,1,2,\ldots$，并假定 $t = 0$ 时的代际福祉可由数值函数 $V$ 度量。此处的用意，是要求这一按于无穷福祉流之上的函数，满足若干反映伦理指令的性质。
+  - id: 59
+    kind: body
+    source: |-
+      Let $\{U(t)\}$ be an infinite well-being stream, that is, $\{U(t)\} = (U(0),U(1),\ldots ,U(t),\ldots)$. We say $V(\{U(t)\})$ is *continuous* if in an appropriate mathematical sense the values of $V$ for well-being streams $\{U(t)\}$ that don’t differ much in the space of $\{U(t)\}$s are close to one another. A further condition on the $V$-function that is ethically attractive is “monotonicity”. To define the notion let us say a well-being stream is “superior” to another if no generation enjoys less well-being along the former than along the latter and if there is at least one generation that enjoys greater well-being in the former than it does in the latter. We say that $V$ is *monotonic* if $V$ is larger for a well-being stream than it is for another if the former is superior to the latter.
+    step1: |-
+      令 $\{U(t)\}$ 为无穷福祉流，即 $\{U(t)\} = (U(0),U(1),\ldots ,U(t),\ldots)$。我们称 $V(\{U(t)\})$ 是 *连续的*，若在适当的数学意义上，对那些在 $\{U(t)\}$ 空间中相差不大的福祉流，$V$ 的取值彼此接近。$V$ 函数另一个在伦理上有吸引力的条件是“单调性”。为定义此概念，我们说一个福祉流比另一个“更优”，若没有任何一代在前者下享有的福祉少于后者，且至少有一代在前者下享有更多福祉。我们称 $V$ 是 *单调的*，若当前者优于后者时，$V$ 对前者取值更大。
+    step2: |-
+      令 $\{U(t)\}$ 为无穷福祉流，即 $\{U(t)\} = (U(0),U(1),\ldots ,U(t),\ldots)$。若在适当的数学意义上，在 $\{U(t)\}$ 空间中彼此相差不大的福祉流，其 $V$ 值也彼此相近，则称 $V(\{U(t)\})$ 是 **连续的**。$V$ 函数另有一个在伦理上颇具吸引力的条件，曰“单调性”。为立此概念，先说一个福祉流较另一个“更优”：倘若没有任何一代在前者之下所享福祉少于后者，且至少有一代在前者之下所享更多。若当前者优于后者时 $V$ 对前者取值更大，则称 $V$ 是 **单调的**。
+  - id: 60
+    kind: body
+    source: |-
+      Both properties are attractive. Lexicographic orderings notwithstanding, there are not convincing arguments against continuity. Of course Rawls (1972) placed priority rules and the lexicographic orderings on the objects of interest in his conception of justice that come with them at the centre of his theory, but that has proved to have been one of his most contentious moves. The richness and depth of his analysis would not be lessened if small tradeoffs were admitted between the objects of justice. And it’s hard to find reasons against monotonicity. Even Rawls, whose work was so pointed toward distributive justice, insisted on monotonicity.
+    step1: |-
+      这两个性质都有吸引力。撇开词典序不论，并没有令人信服的论证反对连续性。诚然，罗尔斯（1972）把优先规则及随之而来的、施加于其正义构想所关注对象之上的词典序，置于其理论的核心，但事实证明这是他最具争议的举措之一。倘若允许正义诸对象之间作小的权衡，其分析的丰富与深度并不会减少。而要找理由反对单调性也很难。就连罗尔斯，其著作如此着力于分配正义，也坚持单调性。
+    step2: |-
+      这两个性质都动人。除去词典序的情形，反对连续性之说并不足信。罗尔斯（1972）确曾把优先规则连同由此而来的词典序，置于其正义构想所关注对象的核心，然而此举后来被证明是他最受争议的举措之一；倘若容许正义诸对象之间作细微权衡，其分析的丰赡与深邃并不会稍减。至于反对单调性，理由更难寻觅——就连罗尔斯这样倾力于分配正义的论者，也坚持单调性。
+  - id: 61
+    kind: body
+    source: |-
+      But it can be shown that any $V$-function that satisfies continuity and monotonicity must have generation discounting built into it. It would seem the real numbers are not rich enough to accommodate infinite well-being streams in a manner that respects continuity and monotonicity while awarding the well-beings of all generations equal weight. Proof of the proposition is in Diamond (1965), and was attributed by the author to Menahem Yaari. So we now introduce positive well-being discounting in the $V$-function and formulate *Ramsey Mark III*.
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: body
+    source: |-
+      Return once again to the formulation where time is continuous. As previously, we say a consumption stream $\{C(t)\}$ is *feasible* if it satisfies equation (1) with an initial capital stock of $K(0)$. *Ramsey Mark III* (Ramsey 1928, 553–555)[^ramsey-1928] is then:
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: body
+    source: |-
+      “From the set of all feasible consumption streams, find that $\{C(t)\}$ which maximizes
+
+      $$ V(0) = \int^{\infty}_0 [U(C(t))e^{-\delta t}]dt, \delta \gt 0.” $$
+    step1: TBD
+    step2: TBD
+  - id: 64
+    kind: body
+    source: |-
+      In *Mark III* the discount rate $\delta$ is a positive constant. That means the corresponding discount factor $e^{-\delta}$ is less than 1. The latter in turn can be shown to mean that in a wide range of economic models $e^{-\delta t}$ tends to zero at so fast a rate that *Mark III* has an answer.
+    step1: TBD
+    step2: TBD
+  - id: 65
+    kind: body
+    source: |-
+      Let $\{C^*(t)\}$ be the solution of *Ramsey Mark III*. Heuristically it is useful to imagine that there is a DM at each date. The measure of intergenerational well-being for the DM at date $t$ is the $V(t)$ of equation (4). Notice that the ethical views of the successive DMs are congruent with one another. There is thus no need for the DMs to draw up an “intergenerational contract”. The DM at every date will want to choose the level of consumption it deems to be optimum, aware that succeeding DMs will choose in accordance with what she had planned for them. In modern game theoretic parlance, Ramsey’s optimum consumption stream $\{C^*(t)\}$ is a “non-cooperative” (Nash) equilibrium among the DMs.
+    step1: TBD
+    step2: TBD
+  - id: 66
+    kind: body
+    source: |-
+      ## 4. The Ramsey Rule and Its Ramifications
+    step1: TBD
+    step2: TBD
+  - id: 67
+    kind: body
+    source: |-
+      We now construct an informal version of the variational argument Ramsey used for determining $\{C^*(t)\}$ in *Mark III*. Loosely speaking, the DMs require the marginal rate of ethically indifferent substitution between consumption at any two brief periods of time to equal the marginal rate at which consumption can be transformed between those same pair of brief periods of time. Their equality (i.e., the right balance from among the “desirables” and the “feasibles”) is a *necessary* property of an optimum consumption stream.
+    step1: TBD
+    step2: TBD
+  - id: 68
+    kind: body
+    source: |-
+      Ramsey constructed a mathematical expression of the property, but did not look for conditions that, taken together, are both necessary and *sufficient*. We will use a simple example, which is also in his paper, to show how a sufficient condition can be obtained.
+    step1: TBD
+    step2: TBD
+  - id: 69
+    kind: body
+    source: |-
+      ### 4.1 The Variational Argument
+    step1: TBD
+    step2: TBD
+  - id: 70
+    kind: body
+    source: |-
+      Write $dU/dC = U_C$ and $d^2 U/dC^2 = U_{CC}.$ Let $\{C(t)\}$ be a feasible consumption stream. We first deduce a formal expression for the marginal rate of ethically indifferent substitution between consumption at any two brief periods of time. Suppose the intention is to reduce consumption at some future date $t$ by a small quantity $\Delta C(t)$ and raise consumption at a nearby date $t+\Delta t$ while keeping consumption at all other dates the same as in $\{C(t)\}$. The loss in well-being that would follow from the move is $e^{-\delta t}U_{C(t)}\Delta C(t)$. We now seek to determine the percentage increase in consumption that would be required at $t+\Delta t$ if $V(0)$ is to remain unchanged; because that’s the marginal rate of ethically indifferent substitution between consumption at $t$ and consumption at $t+\Delta t$. Denote that rate by $\varrho(t)$. Then $\varrho(t)$ must be the percentage rate at which discounted marginal well-being declines at $t$. It also follows that $\varrho(t)$ is the rate the DM at $t = 0$ would use to discount a unit of consumption at $t$ so as to bring it to the present (because that’s what is meant by the percentage rate at which discounted marginal well-being declines at $t$ – for a formal demonstration, see Dasgupta, 2008). Some economists call $\varrho(t)$ the *consumption rate of interest* (Little and Mirrlees 1974)[^little-1974], others call it the *social rate of discount* (Arrow and Kurz 1970)[^arrow-1970]. $\varrho(t)$ is a fundamental object in social cost-benefit analysis.
+    step1: TBD
+    step2: TBD
+  - id: 71
+    kind: body
+    source: |-
+      Let $\Delta$ be vanishingly small. Then, by definition
+
+      $$\tag{7} \varrho(t) = - [d(e^{-\delta t}U_{C(t)})/dt]/e^{-\delta t}U_{C(t)} $$
+    step1: TBD
+    step2: TBD
+  - id: 72
+    kind: body
+    source: |-
+      So as to simplify the notation let $g(C(t))$ denote the percentage rate of growth in $C(t)$ (i.e. $g(C(t)) = [dC(t)/dt]/C(t)$, which can be negative), and let $\sigma(C)$ denote the elasticity of marginal well-being (i.e., $\sigma(C) = -CU_{CC}/U_C \gt 0)$. Equation (7) then simplifies to
+
+      $$\tag{8} \varrho(t) = \delta + \sigma(C(t))g(C(t)) $$
+    step1: TBD
+    step2: TBD
+  - id: 73
+    kind: body
+    source: |-
+      Because $\{C^*(t)\}$ is by assumption the optimum, no feasible deviation from $\{C^*(t)\}$ can increase $V(0)$. That means the consumption rate of interest $(\varrho(t))$ must equal the social rate of return on investment $(F_{K(t)})$ at every $t$. To see why, suppose in some vanishingly small interval of time $F_{K(t)} \gt \varrho(t)$. Then $V(0)$ could be increased by consuming a unit less at $t$ and enjoying the return of $(1+F_{K(t)})$ soon after. Alternatively, if $F_{K(t)} \lt \varrho(t), V(0)$ could be increased by consuming a unit more at $t$ and reducing consumption soon after by an amount equal to the return $(1+F_{K(t)})$. But that means the consumption rate of interest $\varrho(t)$ equals the social rate of return $F_{K(t)}$ along $\{C^*(t)\}$ at every date. Using equation (8) we have,
+
+      $$\tag{9} \delta + \sigma(C(t))g(C(t)) = F_{K(t)} $$
+    step1: TBD
+    step2: TBD
+  - id: 74
+    kind: body
+    source: |-
+      Equation (9) is the Ramsey Rule. It is a necessary condition for optimality in *Ramsey Mark III* and is unarguably the most famous equation in intertemporal welfare economics. The rule is a formal statement of the requirement of $\{C^*(t)\}$, that the marginal rate of substitution between consumption at two nearby dates (the left-hand-side of eq. 9) equals the marginal rate of transformation between consumption at those same pair of nearby dates (the right-hand-side of eq. (9). It is simple to confirm that equation (9) is invariant under positive affine transformations of the $U$-function.
+    step1: TBD
+    step2: TBD
+  - id: 75
+    kind: body
+    source: |-
+      ### 4.2 Incompleteness in Ramsey’s Analysis
+    step1: TBD
+    step2: TBD
+  - id: 76
+    kind: body
+    source: |-
+      Presently we will specify a $U$-function for which $\sigma$ is independent of $C$. For the moment we merely suppose that $\sigma$ is constant. In that case the Ramsey Rule reads as
+
+      $$\tag{10} \delta + \sigma g(C(t)) = F_{K(t)} $$
+    step1: TBD
+    step2: TBD
+  - id: 77
+    kind: body
+    source: |-
+      In *Ramsey Mark III*, $K(0)$ is given as an inheritance from the past. That means $F_{K(0)}$ is given as an initial condition, it is not a choice for the DM at $t = 0$. Moreover $\delta$ and $\sigma$ are parameters, both reflecting ethical values. The DM can therefore determine $g(C(0))$ from equation (10). But that’s the optimum percentage rate of growth in consumption at the initial date. The Ramsey Rule gives the DM an equation for determining the initial growth rate of consumption, but it does not say what the initial *level* of consumption ought to be. Below we show by way of an example that there are an infinity of feasible consumption paths satisfying the Ramsey Rule. It follows that the DM at $t = 0$ needs a further condition to determine $C^*(0)$.
+    step1: TBD
+    step2: TBD
+  - id: 78
+    kind: body
+    source: |-
+      **Example 2** (the linear economy)
+    step1: TBD
+    step2: TBD
+  - id: 79
+    kind: body
+    source: |-
+      Assume
+
+      $$\begin{align} \tag{11a} F(K) &= \mu K, \mu \gt 0 \\ \tag{11b} U(C) &= - C^{-(\sigma -1)}, \sigma \gt 1 \end{align}$$
+    step1: TBD
+    step2: TBD
+  - id: 80
+    kind: body
+    source: |-
+      From equation (11a) it follows that $F_K = \mu$, which means the rate of return on investment is constant. From equation (11b) it follows that $\sigma$ is the elasticity of marginal well-being. Notice also that $U(C) \rightarrow -\infty$ as $C \rightarrow 0$ and that, under the chosen normaliztion of the $U$-function, $U(C) \rightarrow 0$ as $C \rightarrow \infty$. Using equation (11a) in equation (1) yields,
+
+      $$\tag{12} \frac{dK(t)}{dt} = \mu K(t) - C(t) $$
+    step1: TBD
+    step2: TBD
+  - id: 81
+    kind: body
+    source: |-
+      Write $m = (\mu -\delta)/\sigma$. Applying equations (11a–b) to equation (10) reduces the Ramsey Rule to
+
+      $$\tag{13} \frac{dC(t)}{dt} = [(\mu - \delta)/\sigma]C(t) = mC(t) $$
+    step1: TBD
+    step2: TBD
+  - id: 82
+    kind: body
+    source: |-
+      Equation (13) says that if $\mu \lt \delta , C(t)$ declines to 0 at an exponential rate. Empirically, the pausible case to consider is $\mu \gt \delta$, which is what we shall do here. It means that the rate of return on investment $(\mu)$ exceeds the rate at which time is discounted $(\delta)$. And that in turn means $m \gt 0$. Integrating equation (13) yields
+
+      $$\tag{14} C(t) = C(0)e^{mt} $$
+    step1: TBD
+    step2: TBD
+  - id: 83
+    kind: body
+    source: |-
+      Equation (14) says $C(t)$ grows exponentially at the rate $m$. We reconfirm a point that was made previously, that although equation (14) reveals the rate of growth optimum consumption at the initial date (i.e., $t = 0)$, it doesn’t reveal the initial level of consumption (i.e., $C(0)$). That’s the indeterminacy in the Ramsey Rule.
+    step1: TBD
+    step2: TBD
+  - id: 84
+    kind: body
+    source: |-
+      The simplest way to determine the optimum initial consumption, $C^*(0)$, is to observe from equation (14) that if $C^*(t)$ grows indefinitely at the rate $m$, so should $K(t)$ be required to grow at that same rate. The reason is that if the growth rate of $K(t)$ were to be less than $m$, capital would be eaten into, which means the stock would be exhausted in finite time. The economy would then cease to exist $(V(0)$ would be minus infinity if the future trajectory of the economy were to be thus.) If on the other hand the growth rate of $K(t)$ were to exceed $m$, there would be over-accumulation of capital, in the sense that consumption would be lower at every date than it needs be. The situation would resemble one where DM throws away a part of the initial capital stock $K(0)$ and then settles on a saving behaviour that satisfies the Ramsey Rule.
+    step1: TBD
+    step2: TBD
+  - id: 85
+    kind: body
+    source: |-
+      Exponential growth in our linear economy (eq. 11a) tells us that the saving rate should be constant. Let us define the *saving rate*, $s$, as the proportion of output (GDP) that is invested at each instant. Then equation (1) can be re-written as
+
+      $$\tag{15} \frac{dK(t)}{dt} = s\mu K(t) $$
+    step1: TBD
+    step2: TBD
+  - id: 86
+    kind: body
+    source: |-
+      Equation (15) says that intended saving equals intended investment. Integrating equation (15) yields
+
+      $$\tag{16} K(t) = K(0)e^{s\mu t} $$
+    step1: TBD
+    step2: TBD
+  - id: 87
+    kind: body
+    source: |-
+      But we are insisting that both $K(t)$ and $C(t)$ should grow at the same rate. Equations (14) and (16) therefore imply
+
+      $$\tag{17} m = \frac{\mu -\delta}{\sigma} = s\mu $$
+    step1: TBD
+    step2: TBD
+  - id: 88
+    kind: body
+    source: |-
+      The saving rate in equation (17) is the optimum. So we write it as $s^*$. Thus
+
+      $$\tag{18} s^* = \frac{m}{\mu} = \frac{\mu -\delta}{\sigma\mu} \lt 1 $$
+    step1: TBD
+    step2: TBD
+  - id: 89
+    kind: body
+    source: |-
+      Equations (16)–(18) tell us that the optimum rate of growth of consumption, $g^*$, is
+
+      $$\tag{19} g^* = \frac{\mu -\delta}{\sigma} \gt 0 $$
+    step1: TBD
+    step2: TBD
+  - id: 90
+    kind: body
+    source: |-
+      Notice also that if $\delta = 0$, equation (18) reduces to
+
+      $$\tag{20} s^* = \frac{1}{\sigma} $$
+    step1: TBD
+    step2: TBD
+  - id: 91
+    kind: body
+    source: |-
+      Equation (20) offers as elegant a simplified answer as there could be to the question with which Ramsey started his paper.
+    step1: TBD
+    step2: TBD
+  - id: 92
+    kind: body
+    source: |-
+      ### 4.3 The Transversality Condition
+    step1: TBD
+    step2: TBD
+  - id: 93
+    kind: body
+    source: |-
+      The linear technology (eq. 11a) and the iso-elastic $U$-function (eq. 11b) allowed us to recognise immediately that if a consumption stream satisfying the Ramsey Rule is to be the optimum, both capital and consumption should grow at the same exponential rate, $m$. Identifying a sufficient condition for optimality in more general models is a lot more difficult. What we need is a condition on the long-run features of a consumption stream satisfying the Ramsey Rule that can ensure it is the optimum. von Weizsacker (1965) showed that the required condition relates to the long-run behaviour of the social value of capital associated with that consumption stream. We now formalize the condition.
+    step1: TBD
+    step2: TBD
+  - id: 94
+    kind: body
+    source: |-
+      Let $U$ be the unit of account. Consider a consumption stream $\{C(t)\}$. It follows that $U_{C(t)}$ is the social worth of a marginal unit of consumption. Write $P(t)$ for $U_{C(t)}. P(t)$ is called the (spot) *accounting price* of consumption. Because $e^{-\delta t}P(t)$ is the discounted value of $P(t)$, it is called the present-value accounting price of consumption. If $\{C(t)\}$ satisfies the Ramsey Rule in *Mark III*, $e^{-\delta t}P(t)$ is also the present-value accounting price of a unit of capital stock. von Weizsacker (1965) showed that a sufficient condition for the optimality of $\{C(t)\}$ is $e^{-\delta t}P(t)K(t) \rightarrow A$ as t $\rightarrow \infty$, where $A$ is a (finite) non-negative number. In words, a necessary and sufficient condition for $\{C(t)\}$ to be the optimum is (i) that it satisfies the Ramsey Rule, and (ii) that the present-value of the economy’s stock of capital is finite. Condition (ii), which is widely known as the “transversality condition,” eliminates those feasible consumption streams that satisfy the Ramsey Rule but along which there is excessive saving. A simple calculation confirms that in Example 2 the transversality condition is satisfied if the saving rate is $s^*$ (eq. 18).
+    step1: TBD
+    step2: TBD
+  - id: 95
+    kind: body
+    source: |-
+      ### 4.4 Numerical Estimates of the Optimum Rate of Saving
+    step1: TBD
+    step2: TBD
+  - id: 96
+    kind: body
+    source: |-
+      Equation (18) says that $s^*$ is an increasing function of the return on investment $(\mu)$, a decreasing function of the time rate of discount $(\delta)$, and a decreasing function of the elasticity of marginal well-being $(\sigma)$. Each of these properties is intuitively obvious:
+    step1: TBD
+    step2: TBD
+  - id: 97
+    kind: body
+    source: |-
+      (1) The higher is the rate of return on investment $(\mu)$, the greater is the gain to future generations from a marginal increase in saving by initial generations. That says the optimum rate of saving should be an increasing function of $\mu$, other things equal.
+    step1: TBD
+    step2: TBD
+  - id: 98
+    kind: body
+    source: |-
+      (2) The larger is the value of the time discount rate $(\delta)$ chosen by DM, the lower is the weight that she awards to the well-being of future generations. That implies higher optimum consumption levels for early generations (Sect. 2.1), which in turn implies that the optimum rate of saving is lower, other things equal.
+    step1: TBD
+    step2: TBD
+  - id: 99
+    kind: body
+    source: |-
+      (3) As the return on investment is positive $(\mu \gt 0)$, the arrow of time displays a bias in favour of future generations (Sect. 2.1). But the larger is the chosen value of $\sigma$, the more DM displays concerns over equity in consumption across the generations. Therefore, the larger is that concern, the higher is the optimum rate of consumption to be enjoyed by initial generations. So we should expect the optimum rate of saving to be a decreasing function of $\sigma$, other things equal.
+    step1: TBD
+    step2: TBD
+  - id: 100
+    kind: body
+    source: |-
+      It is instructive to consider stylized figures for the parameters on the right-hand-sides of equations (18) and (19), respectively. Although stylized, they are figures for the pair of ethical parameters $\sigma$ and $\delta$ that economists who have written on the economics of climate change have assumed in their work. To be sure, the welfare economics of climate change has demanded more complicated models than the model that is represented in equations (1) and (11a), but as we confirm below, it has not offered any additional *theoretical* insights. In what follows we take a year to be the unit of time and assume that $\mu = 0.05$ (i.e., 5% a year). Along the optimum, the consumption rate of interest equals the rate of return on investment (the Ramsey Rule), which means that the optimum consumption rate of interest equals a constant 5% a year.
+    step1: TBD
+    step2: TBD
+  - id: 101
+    kind: body
+    source: |-
+      A figure of 5% a year for $\mu$ implies a capital-output ratio $(1/\mu)$ of 20 years, which is far higher than the estimates of capital-output ratios from inter-industry studies that economists in various parts of the world have arrived at (Behrman 2001)[^behrman-2001]; a representative figure for 1/$\mu$ in that literature is 3 years. But their estimates have been based on a definition of “capital” that is confined to “produced” capital, such as factories, roads, ports, and buildings. Human capital (education, health, knowledge) is missing from them, as is natural capital (ecosystems, sub-soil resources). Ramsey’s model, as encapsulated in equation (11a), embraces all forms of capital goods. No doubt his formulation requires a heroic (read, impossible!) feat of aggregation, but when all capital goods that enter production are taken into account, we should expect an aggregate capital-output ratio (which we should call the (inclusive) wealth-output ratio), to be a lot higher than 3 years; perhaps even higher than 20 years (Arrow et al., 2012, 2013). Large categories of capital goods are absent from the national economic accounts that inform we economists’ understanding of production and consumption possibilities (Dasgupta, 2019). It would thus seem there is still a long way to go before we can reach a good approximation of what we should bequeath to our descendants.
+    step1: TBD
+    step2: TBD
+  - id: 102
+    kind: body
+    source: |-
+      **Example 3** (taken from the economics of climate change)
+    step1: TBD
+    step2: TBD
+  - id: 103
+    kind: body
+    source: |-
+      We now turn our attention to the values of the two ethical parameters in equation (11b) that were chosen by three economists in their study of the economics of climate change.
+
+      $$\begin{align} \tag*{Cline (1992)} \sigma = 1.5 \quad &\text{and} \quad \delta = 0 \\ \tag*{Nordhaus (1994)} \sigma = 1 \quad &\text{and} \quad \delta = 0.03 \text{ (3% a year)} \\ \tag*{Stern (2007)} \sigma = 1 \quad &\text{and} \quad \delta = 0.001 \text{ (0.1% a year)} \end{align}$$
+    step1: TBD
+    step2: TBD
+  - id: 104
+    kind: body
+    source: |-
+      (NB: $\sigma = 1$ corresponds to the logarithmic well-being function, that is $U(C) =$ log$C$, and can be obtained as a limit of the functional form of $U(C)$ in equation (11b) as $\sigma \rightarrow 1.)$
+    step1: TBD
+    step2: TBD
+  - id: 105
+    kind: body
+    source: |-
+      We impose those parameter values to find that the optimum saving rate $s^*$ (eq. 18) and the optimum rate of growth of consumption (eq. 19) are, in turn:
+
+      $$\begin{align} \tag{21a} s^* = 67\% \quad &\text{and} \quad g^* = 3.3\% \text{ a year (Cline)} \\ \tag{21b} s^* = 40\% \quad &\text{and} \quad g^* = 2.0\% \text{ a year (Nordhaus)} \\ \tag{21c} s^* = 98\% \quad &\text{and} \quad g^* = 4.9\% \text{ a year (Stern)} \end{align}$$
+    step1: TBD
+    step2: TBD
+  - id: 106
+    kind: body
+    source: |-
+      ### 4.5 Commentary
+    step1: TBD
+    step2: TBD
+  - id: 107
+    kind: body
+    source: |-
+      A national saving rate of 40% (eq. 21b) is no doubt high by the standards of contemporary western economies, but there are countries that in recent years have achieved 40–45% saving rates (China is a prominent example). A figure of 67% for $s^*$ (eq. 21a) is higher than the saving rate in any country, but is not beyond belief. The truly outlandish figures is 98% (eq. 21c). It is outlandish especially because the figure is the optimum saving rate no matter how small $K(0)$ happens to be. Admittedly, the model here (eqs. 11a–b) is phenomenally stylized, but it does bring out sharply the observation of Koopmans (1965), that it is foolish to assume $\delta = 0$ (or close to 0) without first checking its possible consequences for the distribution of well-being across the generations.
+    step1: TBD
+    step2: TBD
+  - id: 108
+    kind: body
+    source: |-
+      Equation (19) has shown that the optimum growth rate of consumption is bounded above by $\mu$, which explains why $g^*$ is less than 5% a year for each of the three parametric specifications we have considered. The specifications come from three studies in the welfare economics of global climate change, in which the authors worked with models that are a lot more complex than Ramsey’s. And yet their findings are exactly what his formulation would point to (Dasgupta 2008)[^dasgupta-2008], namely, that other things equal, the lower is the chosen value of $\delta$ and/or the larger is the damage to future well-being that is expected to be caused by global climate change, the greater is the investment level DM should recommend to avert climate change or soften the effects of that change on human well-being. The often shrill debate (e.g., Nordhaus 2007)[^nordhaus-2007] on the extent to which global investment should be directed at reducing the deletarious effects of climate change was spurred by differences in model specification among climate-change economists.
+    step1: TBD
+    step2: TBD
+  - id: 109
+    kind: body
+    source: |-
+      The linear technology (eq. 11a) and the iso-elastic $U$-function (eq. 11b), when taken together, have offered deep insights even though we have restricted the discussion to pen-and-paper calculations here. The functional forms are not believable; nevertheless, Ramsey made use of them. His paper showed that unbelievably simplified models, provided their construction is backed by strong intuition, can illuminate questions that are seemingly impossible to frame, let alone to answer quantitatively. That has been Ramsey’s enduring gift to theoretical economics.
+    step1: TBD
+    step2: TBD
+  - id: 110
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: TBD
+    step2: TBD
+  - id: 111
+    kind: note
+    source: |-
+      [^note-1]: In a talk on 28 February 1925 before fellow Apostles (a secret mostly-undergraduate discussion society in Cambridge University, known to its fraternity as “The Society”), Ramsey had expressed a different viewpoint:
+
+      > My picture of the world is drawn to perspective, and not like a model to scale. The foreground is occupied by human beings and the stars are as small as threepenny bits. I don’t really believe in astronomy, except as a complicated description of part of the course of human and possibly animal sensation. I apply my perspective not merely to space but also to time. In time the world will cool and everything will die; but that is a long time off still, and its present value at compound interest is almost nothing. Nor is the present less valuable because the future is blank. (Ramsey, 1931: 291).
+
+      Ramsey was speaking after dinner, behind closed doors, to his fraternity of Apostles. But as the talk predated his famous 1928 paper in the *Economic Journal*, one can’t tell whether he had changed his mind by the time he came to compose the paper, or whether he had just put on Sunday-best clothes for a journal publication (see also Arrow and Kurz, 1970: 12). Recently the economist Ken-Ichi Akao suggested an entirely convincing third explanation to me. Akao observed that in his talk to the Apostles, Ramsey was giving expression to his personal discount rate, whereas in his *Economic Journal* paper, concerned as he was there with social optimum saving, Ramsey was speaking of the public discount rate.
+    step1: TBD
+    step2: TBD

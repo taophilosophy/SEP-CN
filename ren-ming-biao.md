@@ -1152,7 +1152,7 @@
 | Frederick Douglass | — | 弗雷德里克·道格拉斯 | — | — | alexander-crummell | SUMMARY 定名沿用（frederick-douglass 词条既名） | 2026-11-07 |
 | Freeman, Walter J. | — | 沃尔特·弗里曼 | — | — | f/frame-problem | 神经科学通行汉译（神经动力学） | 2026-11-10 |
 | Frega, Roberto | — | 罗伯托·弗雷加 | — | — | economic-democracy | 学界惯例（杜威研究/职场民主，通行音译） | 2026-11-04 |
-| Frege, Gottlob | — | Frege | — | — | logical-consequence | 本库惯例保留英文原名；凭证 2026-11-09 | 2026-11-09 |
+| Frege, Gottlob | — | 弗雷格（Frege） | — | — | logical-consequence | 本库正文多数条目（38 篇）用「弗雷格」汉名，书目区保留 Frege 原形；2026-11-11 复核改定 | 2026-11-11 |
 | Freind, John | — | 约翰·弗赖因德 | — | — | emilie-du-chatelet | 学界惯例（牛顿派化学家/医师，通行音译） | 2026-11-04 |
 | Freire, Paulo | Paulo Freire | 保罗·弗莱雷 | 巴西 | 1921–1997 | montessori-maria | 学界通行汉译（《被压迫者教育学》中译者）；凭证 2026-11-10 | 2026-11-10 |
 | French, Rohan | — | Rohan French | — | — | logic-substructural | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
@@ -1372,6 +1372,7 @@
 | Grofman, Bernard | — | Bernard Grofman | — | — | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
 | Grosseteste, Robert | — | 罗伯特·格罗斯泰斯特 | — | — | binarium | 学界通行汉译（SUMMARY 定名沿用，g/grosseteste.md）；凭证 2026-11-08 | 2026-11-08 |
 | Grosz, George | — | 格奥尔格·格罗斯 | — | — | erotic-art | 学界通行（德国表现主义画家） | 2026-11-08 |
+| Gruber, Thomas | — | Thomas Gruber（现代学者，保留英文） | 美国 | — | ontology-is | ADR-0022：本体定义提出者，无通行汉名；凭证 2026-11-11 | 2026-11-11 |
 | Gu Yanwu | — | 顾炎武 | — | — | dai-zhen | 上游自带汉字；学界千年通行（“经学即理学”之倡）；凭证 2026-11-07 | 2026-11-07 |
 | Guericke, Otto von | — | 奥托·冯·居里克 | 德国／物理学家、马德堡市长 | 1602–1686 | johann-sturm | 学界通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | Guerrini, Stefano | — | Stefano Guerrini | — | — | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
@@ -2703,6 +2704,7 @@
 | Pauli, Wolfgang | — | 沃尔夫冈·泡利 | — | — | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Pavlov, Ivan | — | 伊万·巴甫洛夫 | — | — | behaviorism | 学界通行汉译（条件反射） | 2026-11-05 |
 | Peacock, George | — | 乔治·皮科克 | 英国 | 1791–1858 | peirce-benjamin | 数学史通行音译（代数形式／质料之辨；与 Christopher Peacocke 皮科克 异人）；凭证 2026-11-09 | 2026-11-09 |
+| Pease, Adam | — | Adam Pease（现代学者，保留英文） | 美国 | — | ontology-is | ADR-0022：本词条作者，无通行汉名；凭证 2026-11-11 | 2026-11-11 |
 | Pecquet, Jean | — | 让·佩凯 | 法国／解剖学家 | 1622–1674 | johann-sturm | 学界通行音译；凭证 2026-11-10 | 2026-11-10 |
 | Pedro IV | — | 佩德罗四世 | — | — | crescas | 学界惯例（阿拉贡国王，1349–1387 在位）；凭证 2026-11-08 | 2026-11-08 |
 | Peirce, Benjamin | — | 本杰明·皮尔斯 | 美国 | 1809–1880 | peirce-benjamin | SUMMARY 定名沿用（数学家；须与实用主义者查尔斯·桑德斯·皮尔士〔其子，“皮尔士”形〕分立）；凭证 2026-11-09 | 2026-11-09 |
@@ -3138,6 +3140,7 @@
 | Schubert, Lenhart | — | Lenhart Schubert | — | — | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Schuhmann, Karl | — | 卡尔·舒曼 | 德国／现象学史家 | — | reinach | 学界惯例音译（现象学史家，莱纳赫校勘版编者）；凭证 2026-11-09 | 2026-11-09 |
 | Schulz, Reinhard | — | Reinhard Schulz（现代学者，保留英文） | — | — | jaspers | ADR-0022：无通行汉名者保留英文（KJG 编者）；凭证 2026-11-09 | 2026-11-09 |
+| Schulz, Stephan | — | Stephan Schulz（现代学者，保留英文） | 德国 | — | ontology-is | ADR-0022：自动定理证明学者，无通行汉名；凭证 2026-11-11 | 2026-11-11 |
 | Schulzke, Marcus | — | 马库斯·舒尔茨克 | 美国 | — | it-moral-values | 学界通行音译（虚拟暴力伦理）；凭证 2026-11-10 | 2026-11-10 |
 | Schütte, Kurt | — | Kurt Schütte | — | — | logic-substructural | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Schuurman, Henry | — | Henry Schuurman（现代学者，保留英文） | — | — | william-sherwood | ADR-0022（奥卡姆著作英译者） | 2026-11-09 |
@@ -3685,6 +3688,7 @@
 | Wilhelm Wundt | — | 威廉·冯特 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Wilkerson, W.S. | — | 威尔克森 | — | — | f/frame-problem | 学界惯例（音译，心灵哲学家） | 2026-11-10 |
 | Wilkes, Maurice | — | 莫里斯·威尔克斯 | 英国 | 1913–2010 | computing-history | 学界通行汉译（EDSAC 建造者，图灵奖得主）；凭证 2026-11-10 | 2026-11-09 |
+| Wilkins, John | — | 约翰·威尔金斯 | 英格兰 | 1614–1672 | ontology-is | 学界通行汉译（《论真实字符与哲学语言》作者，自然神学家）；凭证 2026-11-11 | 2026-11-11 |
 | Wilkinson, Karina | — | Karina Wilkinson | — | — | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Wilkinson, Martin | — | Wilkinson | — | — | organ-donation | ADR-0022：无通行汉名者保留英文（词条作者，H1 随 SUMMARY） | 2026-11-06 |
 | Wilkinson, Stephen | — | Wilkinson | — | — | organ-donation | ADR-0022：无通行汉名者保留英文（词条作者；正文 “S. Wilkinson” 同） | 2026-11-06 |

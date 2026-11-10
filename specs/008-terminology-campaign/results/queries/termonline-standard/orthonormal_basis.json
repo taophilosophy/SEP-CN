@@ -1,0 +1,152 @@
+{
+ "key": "orthonormal basis",
+ "term": "orthonormal basis",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-10T18:04:11+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=92",
+ "hits": [
+  {
+   "cn": "正交小波基",
+   "en": "orthonormal wavelet bases",
+   "code": "GB/T 40859—2021",
+   "standard": "流式数据监测控制图",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "基体材料",
+   "en": "basis material",
+   "code": "GB/T 3138—2015",
+   "standard": "金属及其他无机覆盖层  表面处理  术语",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "设计基准",
+   "en": "design basis",
+   "code": "GB/T 50294—2014",
+   "standard": "核电厂总平面及运输设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "设计基准",
+   "en": "design basis",
+   "code": "GB/T 41143—2021",
+   "standard": "核电厂仪表和控制术语",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "评估依据",
+   "en": "evaluation basis",
+   "code": "GB/T 40148—2021",
+   "standard": "科技评估基本术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "测试依据",
+   "en": "test basis",
+   "code": "GB/T 38634.1—2020",
+   "standard": "系统与软件工程 软件测试第1部分:概念和定义",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "设计基础",
+   "en": "design basis",
+   "code": "GB/T 21412.7—2018",
+   "standard": "石油天然气工业 水下生产系统的设计与操作 第7部分:完井或修井隔水管系统",
+   "subject": "石油及相关技术"
+  },
+  {
+   "cn": "基材",
+   "en": "basis materials",
+   "code": "GB/T 33284—2016",
+   "standard": "室内装饰装修材料  门、窗用未增塑聚氯乙烯（PVC-U）型材有害物质限量",
+   "subject": "橡胶和塑料工业"
+  },
+  {
+   "cn": "干基",
+   "en": "dry basis",
+   "code": "GB/T 26631—2011",
+   "standard": "粮油名词术语  理化特性和质量",
+   "subject": "食品技术"
+  },
+  {
+   "cn": "湿基",
+   "en": "wet basis",
+   "code": "GB/T 26631—2011",
+   "standard": "粮油名词术语  理化特性和质量",
+   "subject": "食品技术"
+  },
+  {
+   "cn": "设计基准",
+   "en": "design basis",
+   "code": "GB/T 50663—2011",
+   "standard": "核电厂工程水文技术规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "设计依据",
+   "en": "design basis",
+   "code": "GB/T 50504—2009",
+   "standard": "民用建筑设计术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "新鲜基",
+   "en": "green basis",
+   "code": "GB/T 21923—2008",
+   "standard": "固体生物质燃料检验通则",
+   "subject": "石油及相关技术"
+  },
+  {
+   "cn": "干燥基",
+   "en": "dry basis",
+   "code": "GB/T 21923—2008",
+   "standard": "固体生物质燃料检验通则",
+   "subject": "石油及相关技术"
+  },
+  {
+   "cn": "干燥基",
+   "en": "dry basis",
+   "code": "GB/T 9977—2008",
+   "standard": "焦 化 产 品 术 语",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "饵料基础",
+   "en": "food basis",
+   "code": "GB/T 8588—2001",
+   "standard": "渔业资源基本术语",
+   "subject": "农业"
+  },
+  {
+   "cn": "建立比较基础",
+   "en": "establishing comparison basis",
+   "code": "GB/T 50899—2013",
+   "standard": "房地产估价基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "设计基准事故",
+   "en": "design basis accident",
+   "code": "GB/T 51390—2019",
+   "standard": "核电厂混凝土结构技术标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "正交测量基矢",
+   "en": "orthogonal measurement basis",
+   "code": "GB/T 43692—2024",
+   "standard": "量子通信术语和定义",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "S-基准许用值",
+   "en": "S-basis allowable",
+   "code": "GB/T 43127—2023",
+   "standard": "航天产品结构部件与组件通用要求",
+   "subject": "航空器和航天器工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 3, \"2023\": 7, \"2022\": 1, \"2021\": 13, \"2020\": 2, \"2019\": 5, \"2018\": 3, \"2016\": 4, \"2015\": 5, \"2014\": 1, \"2013\": 1, \"2011\": 6, \"2010\": 3, \"2009\": 1, \"2008\": 16, \"2007\": 8, \"2006\": 2, \"2001\": 1, \"1996\": 1, \"暂无年份\": 9}, \"sourceStats\": {\"食品技术\": 5, \"采矿和矿产品\": 13, \"计量学和测量、物理现象\": 1, \"航空器和航天器工程\": 3, \"能源和热传导工程\": 16, \"综合、术语学、标准化、文献\": 2, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 4, \"石油及相关技术\": 7, \"环保、保健和安全\": 2, \"橡胶和塑料工业\": 9, \"机械制造\": 1, \"木材技术\": 2, \"成像技术\": 1, \"化工技术\": 8, \"冶金\": 1, \"农业\": 2, \"其它\": 12, \"信息技术、办公机械\": 3}, \"typeStats\": {\"7\": 92}, \"totalRecords\": 92, \"tmWordList\": [{\"id\": \"7e5fe845e0c6479ba5bc09202ca9d8f3\", \"databaseId\": null, \"standardId\": \"b328bcefda4d43ef883a44bbc592005b\", \"standardCode\": \"GB/T 40859—2021\", \"standardName\": \"流式数据监测控制图\", \"standardEnName\": \"Control chart for streaming data monitoring\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.10\", \"cnName\": \"正交小波基\", \"enName\": \"orthonormal wavelet bases\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"03.120.30\", \"ccs\": \"A 41\", \"parentTermId\": null, \"titleId\": null, \"oid\": 183578, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"正交小波基\", \"cnNameSearch\": \"正交小波基\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"orthonormal wavelet bases\", \"wordSearch\": \"orthonormal wavelet bases\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用某些小波基函数进行特定的离散化伸缩与平移，得到的可作为正交基的小波函数。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>Haar 小波是可用于产生正交小波基的一种小波基函数。d</p>\", \"通常选取伸缩参数a=2，平移参数b=1。\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"bda1184b497440c29763c4a380632c6e\", \"databaseId\": null, \"standardId\": \"5265f81d796d4c3893d81722265c1e0a\", \"standardCode\": \"GB/T 3138—2015\", \"standardName\": \"金属及其他无机覆盖层  表面处理  术语\", \"standardEnName\": \"Metallic and other inorganic coatings—Surface treatment,metallic and other inorganic coatings—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.22\", \"cnName\": \"基体材料\", \"enName\": \"basis material\", \"publishTime\": \"2015-05-15\", \"publishYear\": \"2015\", \"implementTime\": \"2016-01-01\", \"ics\": \"25.220.40\", \"ccs\": \"A29\", \"parentTermId\": null, \"titleId\": null, \"oid\": 85885, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"基体材料\", \"cnNameSearch\": \"基体材料\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"basis material\", \"wordSearch\": \"basis material\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"基体金属\", \"cnNameSearch\": \"基体金属\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"basis metal\", \"wordSearch\": \"basis metal\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"在其上沉积覆盖层的材料。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [], \"refer\": [\"<p>基材（3.185）</p>\"], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"19bebc5422644deea56456bbb5a74af0\", \"databaseId\": null, \"standardId\": \"9c3ad0fcabc6449e97ad27f09657dff9\", \"standardCode\": \"GB/T 50294—2014\", \"standardName\": \"核电厂总平面及运输设计规范\", \"standardEnName\": \"Design code for general plan and transportationof nuclear power plants\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.9\", \"cnName\": \"设计基准\", \"enName\": \"design basis\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 162319, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"设计基准\", \"cnNameSearch\": \"设计基准\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"design basis\", \"wordSearch\": \"design basis\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在核电厂的设计过程中根据既定标准明确考虑的各种工况和事件,以便该核电厂通过安全系统的计划运行能够经受住这些工况和事件而不超过管理限值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9c9f3128cb8f40b1a1f229822cb6922e\", \"databaseId\": null, \"standardId\": \"9a3281b024204573a8330e152cafba1a\", \"standardCode\": \"GB/T 41143—2021\", \"standardName\": \"核电厂仪表和控制术语\", \"standardEnName\": \"Glossary of terms of instrumentation and control for nuclear power plants\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"3.3\", \"cnName\": \"设计基准\", \"enName\": \"design basis\", \"publishTime\": \"2021-12-31\", \"publishYear\": \"2021\", \"implementTime\": \"2022-07-01\", \"ics\": \"27.120.01\", \"ccs\": \"F 80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 160741, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"设计基准\", \"cnNameSearch\": \"设计基准\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"design basis\", \"wordSearch\": \"design basis\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在进行一个设施的构筑物、系统、部件和设备设计时，根据已确立的准则充分考虑的各种工况和事件的范围，以便该设施经受住这些工况和事件面不超过管理限值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"052468429f7c48e08ee6f00fce4ea63e\", \"databaseId\": null, \"standardId\": \"e00db6cd205c47c9ab07856a07b93071\", \"standardCode\": \"GB/T 40148—2021\", \"standardName\": \"科技评估基本术语\", \"standardEnName\": \"Basic terminology of science and technology evaluation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"6.9\", \"cnName\": \"评估依据\", \"enName\": \"evaluation basis\", \"publishTime\": \"2021-05-21\", \"publishYear\": \"2021\", \"implementTime\": \"2021-12-01\", \"ics\": \"01.040.03\", \"ccs\": \"A 22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 219018, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"评估依据\", \"cnNameSearch\": \"评估依据\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"evaluation basis\", \"wordSearch\": \"evaluation basis\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"评估活动遵循的依托和判断基准。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>一般包括法律法规、规章、规范性文件、标准、评估合同或协议、经委托者和评估者双方确认的评估方案和评估手册等。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1eabf30ba1204607bede863d54d24bec\", \"databaseId\": null, \"standardId\": \"891cb85588cb4637b5f4829bf915ff51\", \"standardCode\": \"GB/T 38634.1—2020\", \"standardName\": \"系统与软件工程 软件测试第1部分:概念和定义\", \"standardEnName\": \"Systems and software engineering—Software testing—Part1: Concepts and definitions\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.47\", \"cnName\": \"测试依据\", \"enName\": \"test basis\", \"publishTime\": \"2020-04-28\", \"publishYear\": \"2020\", \"implementTime\": \"2020-11-01\", \"ics\": \"35.08035\", \"ccs\": \"L77\", \"parentTermId\": null, \"titleId\": null, \"oid\": 144351, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"测试依据\", \"cnNameSearch\": \"测试依据\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"test basis\", \"wordSearch\": \"test basis\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"作为测试分析和测试用例设计基础的知识体系。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>测试依据可以采用文件的形式，例如需求规格说明、设计规格说明或模块规格说明，但也可以是非书面形式对需求行为的理解。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"92abfe0d0b2a48e1aa14216b6705cf1c\", \"databaseId\": null, \"standardId\": \"32414ed15c5147159b31044ae7d229e6\", \"standardCode\": \"GB/T 21412.7—2018\", \"standardName\": \"石油天然气工业 水下生产系统的设计与操作 第7部分:完井或修井隔水管系统\", \"standardEnName\": \"Petroleum and natural gas industries-Design and operation of subsea production systems-Part 7: Completion/workover riser systems\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"石油及相关技术\", \"termCode\": \"3.1.21\", \"cnName\": \"设计基础\", \"enName\": \"design basis\", \"publishTime\": \"2018-03-15\", \"publishYear\": \"2018\", \"implementTime\": \"2018-10-01\", \"ics\": \"75.180.10\", \"ccs\": \"E 94\", \"parentTermId\": null, \"titleId\": null, \"oid\": 55018, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"设计基础\", \"cnNameSearch\": \"设计基础\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"design basis\", \"wordSearch\": \"design basis\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"项目确定设计数据和功能要求，这些数据通用性的行业标准中不予给定。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9132e51a0ef546a4901e0906638bf404\", \"databaseId\": null, \"standardId\": \"46ce7b317cb24f45b0af575704b23d9d\", \"standardCode\": \"GB/T 33284—2016\", \"standardName\": \"室内装饰装修材料  门、窗用未增塑聚氯乙烯（PVC-U）型材有害物质限量\", \"standardEnName\": \"Indoor decorating and refurbshing materials—Limit of harmful substances of unplasticized polyvinyl chloride(PVC-U)profiles for the doors and windows\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"橡胶和塑料工业\", \"termCode\": \"3.2\", \"cnName\": \"基材\", \"enName\": \"basis materials\", \"publishTime\": \"2016-12-13\", \"publishYear\": \"2016\", \"implementTime\": \"2017-07-01\", \"ics\": \"83.140\", \"ccs\": \"G33\", \"parentTermId\": null, \"titleId\": null, \"oid\": 74173, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"基材\", \"cnNameSearch\": \"基材\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"basis materials\", \"wordSearch\": \"basis materials\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"型材除装饰面以外的主体。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9f5515b52fe54907b95db1f5fa22e093\", \"databaseId\": null, \"standardId\": \"60b3d6f081db4e95a0b40cb9844770c9\", \"standardCode\": \"GB/T 26631—2011\", \"standardName\": \"粮油名词术语  理化特性和质量\", \"standardEnName\": \"Grain and oil terminology - Physicochemical properties and quality\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"9.17\", \"cnName\": \"干基\", \"enName\": \"dry basis\", \"publishTime\": \"2011-06-16\", \"publishYear\": \"2011\", \"implementTime\": \"2011-11-01\", \"ics\": \"67.040\", \"ccs\": \"X04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 97097, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"干基\", \"cnNameSearch\": \"干基\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"dry basis\", \"wordSearch\": \"dry basis\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"检验结果的计算以试样干物质质量为基础。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"91ddab82edb94586bc9ee7687bd8678d\", \"databaseId\": null, \"standardId\": \"60b3d6f081db4e95a0b40cb9844770c9\", \"standardCode\": \"GB/T 26631—2011\", \"standardName\": \"粮油名词术语  理化特性和质量\", \"standardEnName\": \"Grain and oil terminology - Physicochemical properties and quality\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"9.18\", \"cnName\": \"湿基\", \"enName\": \"wet basis\", \"publishTime\": \"2011-06-16\", \"publishYear\": \"2011\", \"implementTime\": \"2011-11-01\", \"ics\": \"67.040\", \"ccs\": \"X04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 97127, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"湿基\", \"cnNameSearch\": \"湿基\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"wet basis\", \"wordSearch\": \"wet basis\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"检验结果的计算以含水试样质量为基础。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"849be48191bb4b348ab2e142bb51c4cd\", \"databaseId\": null, \"standardId\": \"68c4167d2c3147f0bbd8125b4b6be810\", \"standardCode\": \"GB/T 50663—2011\", \"standardName\": \"核电厂工程水文技术规范\", \"standardEnName\": \"Technical code for engineering hydrology for nuclear power plant\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.3\", \"cnName\": \"设计基准\", \"enName\": \"design basis\", \"publishTime\": \"2011-02-18\", \"publishYear\": \"2011\", \"implementTime\": \"2012-03-01\", \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 103677, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"设计基准\", \"cnNameSearch\": \"设计基准\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"design basis\", \"wordSearch\": \"design basis\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"为达到核安全重要物项设计标准确定的设计参数值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e20247f5a0ec4410a3fbaec644ec8eee\", \"databaseId\": null, \"standardId\": \"915004b470d440b59d1297f28c12d9ea\", \"standardCode\": \"GB/T 50504—2009\", \"standardName\": \"民用建筑设计术语标准\", \"standardEnName\": \"Standard for terminology of civil architectural design\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.3.6\", \"cnName\": \"设计依据\", \"enName\": \"design basis\", \"publishTime\": \"2009-05-13\", \"publishYear\": \"2009\", \"implementTime\": \"2009-12-01\", \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 153647, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"设计依据\", \"cnNameSearch\": \"设计依据\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"design basis\", \"wordSearch\": \"design basis\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"整个设计过程应遵照执行并以此为据的法律性文件、工程建设标准和相关资料。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0dd05934a1e94f49b8742e9782d187cc\", \"databaseId\": null, \"standardId\": \"2113f292638c48ea9ff8b04d548f6661\", \"standardCode\": \"GB/T 21923—2008\", \"standardName\": \"固体生物质燃料检验通则\", \"standardEnName\": \"General testing rules for solid biofuels\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"石油及相关技术\", \"termCode\": \"3.99\", \"cnName\": \"新鲜基\", \"enName\": \"green basis\", \"publishTime\": \"2008-05-26\", \"publishYear\": \"2008\", \"implementTime\": \"2008-11-01\", \"ics\": \"75.160.10\", \"ccs\": \"D 21\", \"parentTermId\": null, \"titleId\": null, \"oid\": 31389, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"新鲜基\", \"cnNameSearch\": \"新鲜基\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"green basis\", \"wordSearch\": \"green basis\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": null, \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"84e3a7101f7d422e983f41238fca1144\", \"databaseId\": null, \"standardId\": \"2113f292638c48ea9ff8b04d548f6661\", \"standardCode\": \"GB/T 21923—2008\", \"standardName\": \"固体生物质燃料检验通则\", \"standardEnName\": \"General testing rules for solid biofuels\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"石油及相关技术\", \"termCode\": \"3.102\", \"cnName\": \"干燥基\", \"enName\": \"dry basis\", \"publishTime\": \"2008-05-26\", \"publishYear\": \"2008\", \"implementTime\": \"2008-11-01\", \"ics\": \"75.160.10\", \"ccs\": \"D 21\", \"parentTermId\": null, \"titleId\": null, \"oid\": 31395, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"干燥基\", \"cnNameSearch\": \"干燥基\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"dry basis\", \"wordSearch\": \"dry basis\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以假想无水状态的固体生物质燃料为基准。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a5b7a8fc5f6e475ab90de223cb78351f\", \"databaseId\": null, \"standardId\": \"5c0af3f91cd44a12aa3d93e84f544e9b\", \"standardCode\": \"GB/T 9977—2008\", \"standardName\": \"焦 化 产 品 术 语\", \"standardEnName\": \"The terms of coking products\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"3.4.3\", \"cnName\": \"干燥基\", \"enName\": \"dry basis\", \"publishTime\": \"2008-08-19\", \"publishYear\": \"2008\", \"implementTime\": \"2009-04-01\", \"ics\": \"71.08071\", \"ccs\": \"G18\", \"parentTermId\": null, \"titleId\": null, \"oid\": 93077, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"干燥基\", \"cnNameSearch\": \"干燥基\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"dry basis\", \"wordSearch\": \"dry basis\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"曾用名“干基”，以假想无水状态的试样为基准，符号（d)。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"58f8158ec71c49e29d9244068a79378a\", \"databaseId\": null, \"standardId\": \"d49627f0383f4133978f564dfaa47671\", \"standardCode\": \"GB/T 8588—2001\", \"standardName\": \"渔业资源基本术语\", \"standardEnName\": \"Fundamental terms of fisheries resource science\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"2.2.2\", \"cnName\": \"饵料基础\", \"enName\": \"food basis\", \"publishTime\": \"2001-11-12\", \"publishYear\": \"2001\", \"implementTime\": \"2002-03-01\", \"ics\": \"65.150\", \"ccs\": \"B50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 210750, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"饵料基础\", \"cnNameSearch\": \"饵料基础\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"food basis\", \"wordSearch\": \"food basis\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"可作为水产动物食物的生物的种类和数量。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"88a3ed2a80344025a2330a6209a31248\", \"databaseId\": null, \"standardId\": \"5d36672f76954b50b06c80b613f1834e\", \"standardCode\": \"GB/T 50899—2013\", \"standardName\": \"房地产估价基本术语标准\", \"standardEnName\": \"Standard for basic terminology of real estate appraisal\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"6.1.4\", \"cnName\": \"建立比较基础\", \"enName\": \"establishing comparison basis\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 94044, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"建立比较基础\", \"cnNameSearch\": \"建立比较基础\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"establishing comparison basis\", \"wordSearch\": \"establishing comparison basis\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"使可比实例成交价格与估价对象价值或价格之间，各个可比实例的成交价格之间口径一致，相互可比的处理。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7804a4e5e66d44eeb69beb43ff0eb958\", \"databaseId\": null, \"standardId\": \"61f4d9f18cd8411da83df1fd3a815bde\", \"standardCode\": \"GB/T 51390—2019\", \"standardName\": \"核电厂混凝土结构技术标准\", \"standardEnName\": \"Technical standard for concrete structures of nuclear power plants\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.1\", \"cnName\": \"设计基准事故\", \"enName\": \"design basis accident\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 97872, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"设计基准事故\", \"cnNameSearch\": \"设计基准事故\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"design basis accident\", \"wordSearch\": \"design basis accident\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"导致核电厂事故工况的假设事故，事故的放射性物质释放在可接受限值内，且核电厂是按确定的设计准则和采取了针对性措施来设计的事故。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"885faa31340c4fc8a94b6eb42e079ebc\", \"databaseId\": null, \"standardId\": \"d4f5d6cfa0f94041aee4f8ea8f12d73e\", \"standardCode\": \"GB/T 43692—2024\", \"standardName\": \"量子通信术语和定义\", \"standardEnName\": \"Quantum communication terminology and definition\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.43\", \"cnName\": \"正交测量基矢\", \"enName\": \"orthogonal measurement basis\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"01.040.350\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 211101, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"正交测量基矢\", \"cnNameSearch\": \"正交测量基矢\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"orthogonal measurement basis\", \"wordSearch\": \"orthogonal measurement basis\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一组两两互相正交的量子态，每个量子态对应某个可观测物理量的不同本征态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"849c9bdb08cd4c1e8235ae53b3353ebc\", \"databaseId\": null, \"standardId\": \"02b24e0696e446a28fa422beef5285a2\", \"standardCode\": \"GB/T 43127—2023\", \"standardName\": \"航天产品结构部件与组件通用要求\", \"standardEnName\": \"General requirements for structural components and assemblies of space products\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"3.23\", \"cnName\": \"S-基准许用值\", \"enName\": \"S-basis allowable\", \"publishTime\": \"2023-09-07\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"49.020\", \"ccs\": \"V 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 1869, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"S-基准许用值\", \"cnNameSearch\": \"S-基准许用值\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"S-basis allowable\", \"wordSearch\": \"S-basis allowable\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由标准或用户规定的最小机械强度值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 5}}, \"timestamp\": 1794333852346}"
+}

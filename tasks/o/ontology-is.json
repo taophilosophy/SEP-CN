@@ -2,8 +2,16 @@
   "slug": "ontology-is",
   "kind": "retranslate",
   "zh_doc": "o/ontology-is.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-10T16:13:54Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T05:38:11Z",
   "version_pin": {

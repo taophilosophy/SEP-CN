@@ -1,0 +1,152 @@
+{
+ "key": "mixed state",
+ "term": "mixed state",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-10T18:03:56+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=607",
+ "hits": [
+  {
+   "cn": "纤度混杂",
+   "en": "mixed size",
+   "code": "GB/T 32014—2015",
+   "standard": "蚕丝  性能与试验术语",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "混合（方）式",
+   "en": "mixed mode",
+   "code": "GB/T 5271.15—2008",
+   "standard": "信息技术  词汇 第15部分：编程语言",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "状态",
+   "en": "state",
+   "code": "GB/T 39470—2020",
+   "standard": "自动化系统与集成 对象过程方法",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "状态",
+   "en": "state",
+   "code": "GB/T 39470—2020",
+   "standard": "自动化系统与集成 对象过程方法",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "状态",
+   "en": "state",
+   "code": "GB/T 39470—2020",
+   "standard": "自动化系统与集成 对象过程方法",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "状态",
+   "en": "state",
+   "code": "GB/T 39470—2020",
+   "standard": "自动化系统与集成 对象过程方法",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "状态",
+   "en": "state",
+   "code": "GB/Z 36471—2018",
+   "standard": "信息技术 包括老年人和残疾人的所有用户可访问的图标和符号设计指南",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "状态",
+   "en": "state",
+   "code": "GB/T 36457—2018",
+   "standard": "复杂产品虚拟样机建模方法",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "状态",
+   "en": "state",
+   "code": "GB/T 30973—2014",
+   "standard": "信息技术  软件状态转换的人际通信表示",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "状态",
+   "en": "state",
+   "code": "GB/T 3358.2—2009",
+   "standard": "统计学词汇及符号第2部分：应用统计",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "指示差",
+   "en": "state",
+   "code": "GB/T 9820.2—2008",
+   "standard": "计时学术语  第2部分: 技术和商业用定义",
+   "subject": "精密机械、珠宝"
+  },
+  {
+   "cn": "状态",
+   "en": "state",
+   "code": "GB/T 19892.1—2005",
+   "standard": "批控制 第1部分：模型和术语",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "状态",
+   "en": "state",
+   "code": "GB/T 19659.1—2005",
+   "standard": "工业自动化系统与集成  开放系统应用集成框架  第1部分:通用的参考描述",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "状态",
+   "en": "state",
+   "code": "GB/T 19400—2003",
+   "standard": "工业机器人  抓握型夹持器物体搬运  词汇和特性表示",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "混合煤气",
+   "en": "mixed gas",
+   "code": "GB 50390—2017",
+   "standard": "焦化机械设备安装验收规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "混合照明",
+   "en": "mixed lighting",
+   "code": "GB 50034—2013",
+   "standard": "建筑照明设计标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "混合产流",
+   "en": "mixed runoffyield",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "混合式系统",
+   "en": "mixed system",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "混合潮",
+   "en": "mixed tide",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "混合废料",
+   "en": "mixed waste",
+   "code": "GB 50879—2013",
+   "standard": "人造板生产热能中心工程设计规范",
+   "subject": "其它"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 23, \"2023\": 56, \"2022\": 44, \"2021\": 82, \"2020\": 35, \"2019\": 33, \"2018\": 34, \"2017\": 19, \"2016\": 23, \"2015\": 33, \"2014\": 30, \"2013\": 8, \"2012\": 11, \"2011\": 10, \"2010\": 4, \"2009\": 15, \"2008\": 22, \"2007\": 3, \"2006\": 1, \"2005\": 5, \"2004\": 2, \"2003\": 2, \"2001\": 2, \"1998\": 8, \"1997\": 1, \"1995\": 3, \"1988\": 10, \"1985\": 1, \"暂无年份\": 87}, \"sourceStats\": {\"食品技术\": 10, \"采矿和矿产品\": 8, \"道路车辆工程\": 13, \"造船和海上构筑物\": 5, \"造纸技术\": 1, \"试验\": 2, \"计量学和测量、物理现象\": 7, \"航空器和航天器工程\": 7, \"能源和热传导工程\": 58, \"综合、术语学、标准化、文献\": 26, \"纺织和皮革技术\": 9, \"精密机械、珠宝\": 5, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 32, \"石油及相关技术\": 12, \"电气工程\": 61, \"电子学\": 32, \"电信、音频和视频工程\": 6, \"玻璃和陶瓷工业\": 3, \"环保、保健和安全\": 28, \"流体系统和通用件\": 2, \"橡胶和塑料工业\": 9, \"材料储运设备\": 6, \"机械系统和通用件\": 2, \"机械制造\": 40, \"木材技术\": 2, \"服装工业\": 2, \"数学、自然科学\": 6, \"成像技术\": 2, \"建筑材料和建筑物\": 21, \"家用和商用设备、文娱、体育\": 17, \"医药卫生技术\": 7, \"化工技术\": 2, \"冶金\": 9, \"农业\": 17, \"其它\": 99, \"信息技术、办公机械\": 38}, \"typeStats\": {\"7\": 607}, \"totalRecords\": 607, \"tmWordList\": [{\"id\": \"401aa41bc2e34c679ab83c3efe79cbf3\", \"databaseId\": null, \"standardId\": \"4c9d248acefb4a43b4c0927756f3dca5\", \"standardCode\": \"GB/T 32014—2015\", \"standardName\": \"蚕丝  性能与试验术语\", \"standardEnName\": \"Silk—Terminology for property and test\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"2.76\", \"cnName\": \"纤度混杂\", \"enName\": \"mixed size\", \"publishTime\": \"2015-09-11\", \"publishYear\": \"2015\", \"implementTime\": \"2016-04-01\", \"ics\": \"59.080.01\", \"ccs\": \"W40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 79944, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"纤度混杂\", \"cnNameSearch\": \"纤度混杂\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mixed size\", \"wordSearch\": \"mixed size\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"支别混错\", \"cnNameSearch\": \"支别混错\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mixed count\", \"wordSearch\": \"mixed count\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"同一批丝内混有不同规格的丝绞或丝筒。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9536a3fe2e324906b00ff354939e34f9\", \"databaseId\": null, \"standardId\": \"91a98429325f459eb04448b5251175eb\", \"standardCode\": \"GB/T 5271.15—2008\", \"standardName\": \"信息技术  词汇 第15部分：编程语言\", \"standardEnName\": \"Information technology — Vocabulary — Part 15: Programming languages\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"15.05.34\", \"cnName\": \"混合（方）式\", \"enName\": \"mixed mode\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.240.20\", \"ccs\": \"L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 154276, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"混合（方）式\", \"cnNameSearch\": \"混合（方）式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mixed mode\", \"wordSearch\": \"mixed mode\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"混合（类）型\", \"cnNameSearch\": \"混合（类）型\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mixed type\", \"wordSearch\": \"mixed type\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"修饰或说明某一表达式：包含多种不同的数据类型。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e899d7813207421dbf7c34e0da224c88\", \"databaseId\": null, \"standardId\": \"10aa7dc13b3146f8966b6b0f2883175d\", \"standardCode\": \"GB/T 39470—2020\", \"standardName\": \"自动化系统与集成 对象过程方法\", \"standardEnName\": \"Automation systems and integration-Object-process methodology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.69\", \"cnName\": \"状态\", \"enName\": \"state\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2021-06-01\", \"ics\": \"35.240.5035\", \"ccs\": \"J07\", \"parentTermId\": null, \"titleId\": null, \"oid\": 15436, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"状态\", \"cnNameSearch\": \"状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"state\", \"wordSearch\": \"state\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在某一时间点所抓拍的系统模型的《系统>快照，显示了在进行抓拍快照的时间点内正在执行的所\\n有现有的对象实例、每一个有状态对象实例的当前状态以及过程实例。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0d437cc73185443b924e7a02abaeacb3\", \"databaseId\": null, \"standardId\": \"10aa7dc13b3146f8966b6b0f2883175d\", \"standardCode\": \"GB/T 39470—2020\", \"standardName\": \"自动化系统与集成 对象过程方法\", \"standardEnName\": \"Automation systems and integration-Object-process methodology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.68\", \"cnName\": \"状态\", \"enName\": \"state\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2021-06-01\", \"ics\": \"35.240.5035\", \"ccs\": \"J07\", \"parentTermId\": null, \"titleId\": null, \"oid\": 15483, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"状态\", \"cnNameSearch\": \"状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"state\", \"wordSearch\": \"state\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一个对象的<对象>可能情况或位置。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"在对象-过程方法论(3.43)中并无过程（3.58)状态的概念，如一个模型中的“启动”“运行中”或“完成”。作为替\\n代，对象-过程方法论对子过程进行表示和建模，如启动、加工处理或完成。参见附录C中有关对象-过程方法论\\n过程元模型的讨论。\\n6\\nGB/T39470—2020/ISO/PAS19450:2015\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5682d413333841a3b738f8f4162c7c06\", \"databaseId\": null, \"standardId\": \"10aa7dc13b3146f8966b6b0f2883175d\", \"standardCode\": \"GB/T 39470—2020\", \"standardName\": \"自动化系统与集成 对象过程方法\", \"standardEnName\": \"Automation systems and integration-Object-process methodology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.68\", \"cnName\": \"状态\", \"enName\": \"state\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2021-06-01\", \"ics\": \"35.240.5035\", \"ccs\": \"J07\", \"parentTermId\": null, \"titleId\": null, \"oid\": 15502, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"状态\", \"cnNameSearch\": \"状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"state\", \"wordSearch\": \"state\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一个对象的（对象）可能情况或位置。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"在对象-过程方法论（3.43）中并无过程（3.58）状态的概念，如一个模型中的”启动”\\\"运行中”或\\\"完成”，作为替\\n代，对象-过程方法论对子过程进行表示和建模，如启动、加工处理或完成，参见附录C中有关对象-过程方法论\\n过程元模型的讨论，\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fdf494f6915d46c0bb300590618e30d7\", \"databaseId\": null, \"standardId\": \"10aa7dc13b3146f8966b6b0f2883175d\", \"standardCode\": \"GB/T 39470—2020\", \"standardName\": \"自动化系统与集成 对象过程方法\", \"standardEnName\": \"Automation systems and integration-Object-process methodology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.69\", \"cnName\": \"状态\", \"enName\": \"state\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2021-06-01\", \"ics\": \"35.240.5035\", \"ccs\": \"J07\", \"parentTermId\": null, \"titleId\": null, \"oid\": 15517, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"状态\", \"cnNameSearch\": \"状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"state\", \"wordSearch\": \"state\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在某一时间点所抓拍的系统模型的<系统>快照，显示了在进行抓拍快照的时间点内正在执行的所\\n有现有的对象实例、每一个有状态对象实例的当前状态以及过程实例。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"66b3daadd6144b5a87f05637d9e7062b\", \"databaseId\": null, \"standardId\": \"04391511eec44c25b68f041f363f00b1\", \"standardCode\": \"GB/Z 36471—2018\", \"standardName\": \"信息技术 包括老年人和残疾人的所有用户可访问的图标和符号设计指南\", \"standardEnName\": \"Information technology—Guidelines for the design of icons and symbols accessible to all users, including the elderly and persons with disabilities\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.5\", \"cnName\": \"状态\", \"enName\": \"state\", \"publishTime\": \"2018-06-07\", \"publishYear\": \"2018\", \"implementTime\": \"2019-01-01\", \"ics\": \"35.240.2035\", \"ccs\": \"L73\", \"parentTermId\": null, \"titleId\": null, \"oid\": 2663, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"状态\", \"cnNameSearch\": \"状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"state\", \"wordSearch\": \"state\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"和当前被允许与图标进行的交互行为相关的图标情形。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [\"<p>有些状态包含：“激活”“可用”“选中”“不可用”。</p>\"], \"notes\": [\"<p>符合ISO/IEC TR 11580。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f49ed931d38b45ad86d911557cb4c8ad\", \"databaseId\": null, \"standardId\": \"bc959b251618412d80b4817be17c5803\", \"standardCode\": \"GB/T 36457—2018\", \"standardName\": \"复杂产品虚拟样机建模方法\", \"standardEnName\": \"Modeling method of complex product virtual prototype\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.15\", \"cnName\": \"状态\", \"enName\": \"state\", \"publishTime\": \"2018-06-07\", \"publishYear\": \"2018\", \"implementTime\": \"2019-01-01\", \"ics\": \"35.080\", \"ccs\": \"L77\", \"parentTermId\": null, \"titleId\": null, \"oid\": 190909, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"状态\", \"cnNameSearch\": \"状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"state\", \"wordSearch\": \"state\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在生命周期内，复杂产品对象满足一定条件或等待某个事件时的状况或情形。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"每个状态都代表了对象行为在一段时间的累积。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"23994b7fad584068a1e4cae05cd7f168\", \"databaseId\": null, \"standardId\": \"a0814e2089064b368eda19041d3e88d5\", \"standardCode\": \"GB/T 30973—2014\", \"standardName\": \"信息技术  软件状态转换的人际通信表示\", \"standardEnName\": \"Information technology―Representation for human communication of state transition of software\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"2.1\", \"cnName\": \"状态\", \"enName\": \"state\", \"publishTime\": \"2014-09-03\", \"publishYear\": \"2014\", \"implementTime\": \"2015-02-01\", \"ics\": \"35.080\", \"ccs\": \"L77\", \"parentTermId\": null, \"titleId\": null, \"oid\": 165644, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"状态\", \"cnNameSearch\": \"状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"state\", \"wordSearch\": \"state\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"表示软件在其执行过程进展的某阶段的唯一值。状态应有唯一的名字作为其标识，称为“状态名”。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"425be376810348a9876787b0367dfe48\", \"databaseId\": null, \"standardId\": \"c76c3976adc6496ba5a0435095b46d9a\", \"standardCode\": \"GB/T 3358.2—2009\", \"standardName\": \"统计学词汇及符号第2部分：应用统计\", \"standardEnName\": \"Statistics—Vocabulary and symbols—Part 2: Applied statistics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.5.3\", \"cnName\": \"状态\", \"enName\": \"state\", \"publishTime\": \"2009-10-15\", \"publishYear\": \"2009\", \"implementTime\": \"2010-02-01\", \"ics\": \"03.120.30\", \"ccs\": \"A41\", \"parentTermId\": null, \"titleId\": null, \"oid\": 199849, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"状态\", \"cnNameSearch\": \"状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"state\", \"wordSearch\": \"state\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"特定条件。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c2dd803ce007450d8593be86cbe62455\", \"databaseId\": null, \"standardId\": \"6493030a86b94ad19de2f122c888de88\", \"standardCode\": \"GB/T 9820.2—2008\", \"standardName\": \"计时学术语  第2部分: 技术和商业用定义\", \"standardEnName\": \"Horological vocabulary - Part 2: Technical and commercial definitions\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"精密机械、珠宝\", \"termCode\": \"5.1\", \"cnName\": \"指示差\", \"enName\": \"state\", \"publishTime\": \"2008-07-31\", \"publishYear\": \"2008\", \"implementTime\": \"2009-05-01\", \"ics\": \"39.040.01\", \"ccs\": \"Y11\", \"parentTermId\": null, \"titleId\": null, \"oid\": 100200, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"指示差\", \"cnNameSearch\": \"指示差\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"state\", \"wordSearch\": \"state\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"计时器在同一瞬间所指示的时刻与标准时刻的差值。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>根据计时器所指时刻与标准时刻比较是走快还是走慢确定指示差是正或负。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3a61fad2b4f74a369e75ca6105e7201c\", \"databaseId\": null, \"standardId\": \"018e44d8e46843cb8f00f9fc6efa4a32\", \"standardCode\": \"GB/T 19892.1—2005\", \"standardName\": \"批控制 第1部分：模型和术语\", \"standardEnName\": \"Batch control Part 1:Models and terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.57\", \"cnName\": \"状态\", \"enName\": \"state\", \"publishTime\": \"2005-09-09\", \"publishYear\": \"2005\", \"implementTime\": \"2006-04-01\", \"ics\": \"25.040.40\", \"ccs\": \"N19\", \"parentTermId\": null, \"titleId\": null, \"oid\": 948, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"状态\", \"cnNameSearch\": \"状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"state\", \"wordSearch\": \"state\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一个装置实体或者一个程序元素在某个指定时间的工况。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"装置可能存在的状态数及名称因装置和程序元素面变。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"eecf9022ce5742c392f240097eaa30d5\", \"databaseId\": null, \"standardId\": \"5e92f3ccaed7413cb395968cdefdddae\", \"standardCode\": \"GB/T 19659.1—2005\", \"standardName\": \"工业自动化系统与集成  开放系统应用集成框架  第1部分:通用的参考描述\", \"standardEnName\": \"Industrial automation systems and integration—Open systems application integration framework—Part 1:Generic reference description\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.31\", \"cnName\": \"状态\", \"enName\": \"state\", \"publishTime\": \"2005-01-25\", \"publishYear\": \"2005\", \"implementTime\": \"2005-06-01\", \"ics\": \"25.040.30\", \"ccs\": \"J07\", \"parentTermId\": null, \"titleId\": null, \"oid\": 95200, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"状态\", \"cnNameSearch\": \"状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"state\", \"wordSearch\": \"state\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对象的生命期限中的条件或情况，在此期间它满足某个条件、执行某个活动，或者等待某个事件。\\n[UML]\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0ec3887b4c8645d08417d57e7234a79a\", \"databaseId\": null, \"standardId\": \"162c0850b3e24c669910ffcd5bb49974\", \"standardCode\": \"GB/T 19400—2003\", \"standardName\": \"工业机器人  抓握型夹持器物体搬运  词汇和特性表示\", \"standardEnName\": \"Industrial robots——Object handling grasp—type grippers——Vocabulary and presentation of characteristics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.1.7\", \"cnName\": \"状态\", \"enName\": \"state\", \"publishTime\": \"2003-11-20\", \"publishYear\": \"2003\", \"implementTime\": \"2004-05-01\", \"ics\": \"25.040.30\", \"ccs\": \"J28\", \"parentTermId\": null, \"titleId\": null, \"oid\": 21552, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"状态\", \"cnNameSearch\": \"状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"state\", \"wordSearch\": \"state\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"物体的约束状况和物体形成的位姿。\\n参见图1。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d4508ac514bc4f3a8aba3a5f6d77d9d6\", \"databaseId\": null, \"standardId\": \"1781eb89c0d04f2a87589fb967f67d67\", \"standardCode\": \"GB 50390—2017\", \"standardName\": \"焦化机械设备安装验收规范\", \"standardEnName\": \"Code for installation acceptance of coking and chemical mechanical equipment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.4\", \"cnName\": \"混合煤气\", \"enName\": \"mixed gas\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 22568, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"混合煤气\", \"cnNameSearch\": \"混合煤气\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mixed gas\", \"wordSearch\": \"mixed gas\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"少量焦炉煤气掺入高炉煤气后形成的焦炉加热用低热值混合燃气。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"35707056c1d04f1aadbff7790e6dc740\", \"databaseId\": null, \"standardId\": \"2741b2d6ba6147bdb964a84697e2e3d8\", \"standardCode\": \"GB 50034—2013\", \"standardName\": \"建筑照明设计标准\", \"standardEnName\": \"Standard for lighting design of buildings\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.16\", \"cnName\": \"混合照明\", \"enName\": \"mixed lighting\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 37260, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"混合照明\", \"cnNameSearch\": \"混合照明\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mixed lighting\", \"wordSearch\": \"mixed lighting\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由一般照明与局部照明组成的照明。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"13e4dea21d134d87a669b6c3538cd59c\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"6.3.3.3\", \"cnName\": \"混合产流\", \"enName\": \"mixed runoffyield\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 42118, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"混合产流\", \"cnNameSearch\": \"混合产流\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mixed runoffyield\", \"wordSearch\": \"mixed runoffyield\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"蓄满产流和超渗产流两种产流方式并存所形成的径流。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6b5cf69bab004b20a932b40e5d2d960c\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"11.12.11 \", \"cnName\": \"混合式系统\", \"enName\": \"mixed system\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 42582, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"混合式系统\", \"cnNameSearch\": \"混合式系统\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mixed system\", \"wordSearch\": \"mixed system\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由自报式和查询-应答式两种遥测方式的遥测站组成的遥测系统。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"aab87b572aaa4a63857ba1dfcc8425d6\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.12.6.3\", \"cnName\": \"混合潮\", \"enName\": \"mixed tide\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 42948, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"混合潮\", \"cnNameSearch\": \"混合潮\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mixed tide\", \"wordSearch\": \"mixed tide\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"半日潮和全日潮过渡的混合形式。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6bee05b419e34cf8be08d26c179d28ba\", \"databaseId\": null, \"standardId\": \"3883cd684a5e4cd09b742261b2caea6b\", \"standardCode\": \"GB 50879—2013\", \"standardName\": \"人造板生产热能中心工程设计规范\", \"standardEnName\": \"Code for design of thermal energy plant engineering of wood-based panel production\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.4\", \"cnName\": \"混合废料\", \"enName\": \"mixed waste\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 62266, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"混合废料\", \"cnNameSearch\": \"混合废料\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mixed waste\", \"wordSearch\": \"mixed waste\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"树皮、板边、锯屑等混合在一起组成的潮湿、松散的物料。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 31}}, \"timestamp\": 1794333837314}"
+}

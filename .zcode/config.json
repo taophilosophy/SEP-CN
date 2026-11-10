@@ -1,7 +1,9 @@
 {
   "plugins": {
     "enabledPlugins": {
-      "zcode-mcp-app-dev@zcode-plugins-official": false
-    }
+      "zcode-mcp-app-dev@zcode-plugins-official": false,
+      "visualize@zcode-plugins-official": true
+    },
+    "visualizeDefaultOffMigrated": true
   }
 }

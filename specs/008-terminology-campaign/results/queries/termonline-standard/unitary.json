@@ -1,0 +1,26 @@
+{
+ "key": "unitary",
+ "term": "unitary",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-10T18:04:46+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=2",
+ "hits": [
+  {
+   "cn": "单位质量密度 unitary mass density [符号: ρ<sub>u</sub> ; 单位: kg / (m<sup>3</sup> ·Pa) ]",
+   "en": "unitary mass density",
+   "code": "GB/T 3163—2007",
+   "standard": "真空技术 术语",
+   "subject": "流体系统和通用件"
+  },
+  {
+   "cn": "单层背衬",
+   "en": "unitary backing",
+   "code": "GB/T 26847—2011",
+   "standard": "纺织铺地物  词汇",
+   "subject": "纺织和皮革技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2011\": 1, \"2007\": 1}, \"sourceStats\": {\"纺织和皮革技术\": 1, \"流体系统和通用件\": 1}, \"typeStats\": {\"7\": 2}, \"totalRecords\": 2, \"tmWordList\": [{\"id\": \"0a86b07ec77249a58f072c405d896b5a\", \"databaseId\": null, \"standardId\": \"782a48d229524237aff3cc6aa665da86\", \"standardCode\": \"GB/T 3163—2007\", \"standardName\": \"真空技术 术语\", \"standardEnName\": \"Vacuum technology - Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"流体系统和通用件\", \"termCode\": \"2.19\", \"cnName\": \"单位质量密度 unitary mass density [符号: ρ<sub>u</sub> ; 单位: kg / (m<sup>3</sup> ·Pa) ]\", \"enName\": \"unitary mass density\", \"publishTime\": \"2007-12-20\", \"publishYear\": \"2007\", \"implementTime\": \"2008-06-01\", \"ics\": \"23.160\", \"ccs\": \"J78\", \"parentTermId\": null, \"titleId\": null, \"oid\": 124222, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"单位质量密度 unitary mass density [符号: ρ<sub>u</sub> ; 单位: kg / (m<sup>3</sup> ·Pa) ]\", \"cnNameSearch\": \"单位质量密度 unitary mass density [符号: ρ<sub>u</sub> ; 单位: kg / (m<sup>3</sup> ·Pa) ]\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"unitary mass density\", \"wordSearch\": \"unitary mass density\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"<p>ρ<sub>u</sub></p>\", \"unitSymbol\": \"<p>kg / (m<sup>3</sup> ·Pa)</p>\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"气体的质量密度除以其压力。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"00cab65c455448e39f36f57b45084142\", \"databaseId\": null, \"standardId\": \"683ad95612c94b2894032a390e1ba649\", \"standardCode\": \"GB/T 26847—2011\", \"standardName\": \"纺织铺地物  词汇\", \"standardEnName\": \"Textile floor covering - Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"6.31\", \"cnName\": \"单层背衬\", \"enName\": \"unitary backing\", \"publishTime\": \"2011-07-29\", \"publishYear\": \"2011\", \"implementTime\": \"2011-12-15\", \"ics\": \"59.080.60\", \"ccs\": \"W56\", \"parentTermId\": null, \"titleId\": null, \"oid\": 103207, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"单层背衬\", \"cnNameSearch\": \"单层背衬\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"unitary backing\", \"wordSearch\": \"unitary backing\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"聚酯背衬涂层材料,例如:橡胶含量较高的胶乳或热熔树脂化合物,采用单项操作涂敷到背衬上,用以增加强度,增强绒簇粘合力和尺寸稳定性。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794333887325}"
+}

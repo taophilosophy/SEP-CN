@@ -1,0 +1,535 @@
+version: 1
+slug: epistemology-latin-america
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      After presenting the current situation of epistemological research in Latin America and part of its history, this entry will address six topics: skepticism (especially in its Pyrrhonian stripe), core epistemology, formal epistemology, Wittgenstein’s thought in connection with epistemology and skepticism, epistemology of law, and religious epistemology. It should be noted from the outset that the entry does not purport to provide a comprehensive account of epistemology in Latin America, but rather to paint a general picture of it by focusing on the main issues that have been discussed within that field.
+    step1: |-
+      在介绍拉丁美洲认识论研究的现状及其部分历史之后，本词条将讨论六个主题：怀疑论（尤其是皮浪主义一路）、核心认识论、形式认识论、维特根斯坦与认识论及怀疑论相关的思想、法律认识论，以及宗教认识论。需要从一开始就说明：本词条并不打算对拉丁美洲的认识论作全面论述，而是聚焦于该领域内讨论过的主要问题，勾画一幅总体图景。
+    step2: |-
+      本词条先介绍拉丁美洲认识论研究的现状及其部分历史，随后讨论六个主题：怀疑论（尤以皮浪主义一路为重）、核心认识论、形式认识论、维特根斯坦关于认识论与怀疑论的思想、法律认识论与宗教认识论。须先说明：本词条无意对拉美认识论作全面论述，只想围绕该领域讨论过的主要问题，勾画一幅总体图景。
+  - id: 2
+    kind: body
+    source: |-
+      We will take into consideration the work of those scholars who have written (in Spanish, Portuguese, or English) on epistemological issues independently of both whether they are currently based in Latin America and whether they have worked in a non-Latin American country for a considerable part of their careers. The touchstone for inclusion was not whether they were born in Latin America—although all but one of those who will be mentioned were born there—but whether they are of Latin American origin, earned a degree from a Latin American university, and worked for at least some time in Latin America, thus receiving (part of) their philosophical education in such a milieu. For this reason, there will be no mention of, e.g., Ernesto Sosa’s and Linda Martín Alcoff’s extensive and influential work in epistemology.[^note-1]
+    step1: |-
+      我们将考察那些以西班牙语、葡萄牙语或英语写作认识论问题之学者的工作，不论其目前是否身处拉丁美洲，亦不论其是否长期在拉美以外国家工作。入选标准不是他们是否生于拉美——尽管下文提到的学者除一人外都生于拉美——而是他们是否有拉美出身、取得过拉美大学的学位，并至少在拉美工作过一段时间，因而（部分地）在这种环境中接受了哲学教育。为此，本词条不会提及，例如，欧内斯特·索萨与琳达·马丁·阿尔科夫在认识论领域广博而有影响的工作。[^note-1]
+    step2: |-
+      我们考察的标准，是学者是否以西班牙语、葡萄牙语或英语写过认识论问题，而不问其眼下是否身处拉美，也不问其是否长期在拉美以外工作。入选的依据不是出生地——下文提及的学者除一人外都生于拉美——而是：有拉美出身，取得过拉美大学的学位，且至少在拉美工作过一段时间，因而（部分地）在这种环境里受过哲学训练。正因如此，例如欧内斯特·索萨与琳达·马丁·阿尔科夫在认识论上广博而有影响的工作，本词条不予提及。[^note-1]
+  - id: 3
+    kind: body
+    source: |-
+      ## 1. Introduction
+    step1: |-
+      ## 1 导论
+    step2: |-
+      ## 1 导论
+  - id: 4
+    kind: body
+    source: |-
+      There is a growing interest in epistemological topics and problems among members of what may be called, somewhat artificially, “the Latin American philosophical community”. However, it should be noted from the start that, despite the large size of that community and its connections with philosophers and research groups particularly from the United States and the United Kingdom, on the whole epistemological investigation in Latin America significantly differs in approach, breadth, and originality from mainstream Anglophone epistemology—which at present can reasonably be taken as emblematic owing to its depth, precision, innovation, and fecundity.
+    step1: |-
+      在可（有点人为地）称为“拉丁美洲哲学共同体”的成员中，对认识论题与问题的兴趣正在增长。不过，一开始就应指出：尽管这个共同体规模庞大，且与美国、英国等地的哲学家与研究团队联系密切，拉丁美洲的认识论研究总体上在进路、广度与原创性上，与英语世界的主流认识论有显著差异——后者以其深度、精确、创新与丰产，目前有理由被视为典范。
+    step2: |-
+      在对认识论题与认识论问题的兴趣上，可（略带人为地）称为“拉丁美洲哲学共同体”的成员正日益增长。但须先指出：这个共同体固然规模庞大，与美英等地的哲学家和研究团队也联系紧密，拉美认识论研究在总体上却在进路、广度与原创性上，与英语学界的主流认识论判然有别——后者凭其深度、精确、创新与丰产，如今有理由被视为典范。
+  - id: 5
+    kind: body
+    source: |-
+      Within Latin America, epistemology has traditionally been approached from a historico-exegetical rather than systematic perspective. Even today, it is not uncommon for an epistemology course in the philosophy department of a Latin American university to focus (almost) exclusively on the views on the nature and possibility of knowledge found in the works of Descartes, Hume, Kant, Husserl, Heidegger, Merleau-Ponty, or Ricoeur rather than on the main epistemological positions adopted in contemporary analytic philosophy. The reason is, at least in part, that most professors in charge of courses on the theory of knowledge have traditionally been historians of modern philosophy or phenomenologists influenced by the way philosophy has customarily been practiced in France, Germany, and Spain, thus following the tradition of so-called continental philosophy. In the Latin American academic milieu, philosophy in general has predominantly been approached either through the exegesis of philosophical texts or through the history of philosophical ideas, both with a markedly continental orientation.
+    step1: |-
+      在拉丁美洲，认识论传统上是从历史—注释而非系统的视角来处理。即便在今天，拉美大学哲学系的认识论课程（几乎）只集中于笛卡尔、休谟、康德、胡塞尔、海德格尔、梅洛-庞蒂或利科著作中关于知识本性与可能性的观点，而不及当代分析哲学的主要认识论立场，这并不少见。原因至少部分在于：多数讲授知识论的教授，传统上都是近代哲学史家或现象学家，受法国、德国、西班牙哲学惯例的影响，因而沿袭所谓大陆哲学的传统。在拉美学术环境中，哲学总体上也主要以哲学文本的注释或哲学观念史的方式处理，二者都有鲜明的大陆取向。
+    step2: |-
+      拉美处理认识论，传统上取历史—注释的视角，而非系统的视角。即便今天，拉美大学哲学系的知识论课程（几乎）只讲笛卡尔、休谟、康德、胡塞尔、海德格尔、梅洛-庞蒂或利科著作中关于知识本性与可能性的观点，对当代分析哲学的主要认识论立场则不置一词——这种情况并不少见。原因至少有一半在于：讲授知识论的教授，传统上多是近代哲学史家或现象学家，受法、德、西三国哲学惯例的熏陶，沿袭所谓大陆哲学的传统。在拉美的学术环境里，哲学总体上也多以两种方式处理：注疏哲学文本，或梳理哲学观念史。二者都有鲜明的大陆取向。
+  - id: 6
+    kind: body
+    source: |-
+      Even though the history of analytic philosophy in Latin America starts in the 1950s–1960s (see Pérez & Ortiz-Millán 2010)[^pérez-2010], one had to wait until the last two decades of the twentieth century for a strong and widespread trend of analytic philosophy to emerge. The seminal impetus for the production and dissemination in Latin America (particularly in Argentina, Brazil, and Mexico) of new work within the analytic tradition was the founding of research centers taking a distinctly analytic approach and the subsequent launches of their respective journals: the Instituto de Investigaciones Filosóficas (IIF, 1967) at the Universidad Autónoma de México (UNAM), with its journal *Crítica* (1967); the Sociedad Argentina de Análisis Filosófico (SADAF, 1972) with its journal *Análisis Filosófico* (1981); and the Centro de Lógica, Epistemologia e História da Ciência (CLE, 1976) at the Universidade Estadual de Campinas (UNICAMP) in Brazil, with its journal *Manuscrito* (1977). The founding in 2007 of the Asociación Latinoamericana de Filosofía Analítica (ALFA) reflects the sustained development of analytic philosophy in Latin American countries. The recent unprecedented impetus in what may be regarded as the analytic way of doing philosophy explains why, since the turn of the millennium, the primarily historico-exegetical and continental approach to epistemology has slowly started to be replaced by a systematic and analytic one.
+    step1: |-
+      尽管拉丁美洲分析哲学史始于 1950–60 年代（见 Pérez & Ortiz-Millán 2010）[^pérez-2010]，但直到 20 世纪最后二十年，才出现强劲而广泛的分析哲学潮流。推动分析传统新作在拉美（尤其是阿根廷、巴西与墨西哥）生产与传播的奠基性动力，是若干明显采取分析进路的研究中心的建立，及其各自刊物的相继创刊：墨西哥自治大学（UNAM）的哲学研究所（IIF，1967）与《批评》（*Crítica*，1967）；阿根廷哲学分析学会（SADAF，1972）与《哲学分析》（*Análisis Filosófico*，1981）；巴西坎皮纳斯州立大学（UNICAMP）的逻辑、认识论与科学史中心（CLE，1976）与《手稿》（*Manuscrito*，1977）。2007 年拉丁美洲分析哲学协会（ALFA）的成立，反映了分析哲学在拉美国家的持续发展。近年来所谓分析式哲学做法的空前动力，解释了为何自世纪之交起，主要基于历史—注释与大陆进路的认识论，已开始缓慢被系统而分析的进路取代。
+    step2: |-
+      拉美分析哲学史始于 1950–60 年代（见 Pérez & Ortiz-Millán 2010）[^pérez-2010]，但强劲而广泛的分析哲学潮流，要等到 20 世纪最后二十年才出现。真正为分析传统的新作在拉美（尤以阿根廷、巴西、墨西哥为甚）的生产与传播奠基的，是一批明显取分析进路的研究中心的成立，以及它们各自刊物的相继创刊：墨西哥自治大学（UNAM）哲学研究所（IIF，1967）与《批评》（*Crítica*，1967）；阿根廷哲学分析学会（SADAF，1972）与《哲学分析》（*Análisis Filosófico*，1981）；巴西坎皮纳斯州立大学（UNICAMP）的逻辑、认识论与科学史中心（CLE，1976）与《手稿》（*Manuscrito*，1977）。2007 年拉丁美洲分析哲学协会（ALFA）成立，可见分析哲学在拉美各国已成持续之势。近年“分析式”哲学做法的空前势头，也解释了何以自世纪之交起，以历史—注释与大陆进路为主的认识论，开始缓慢让位于系统而分析的进路。
+  - id: 7
+    kind: body
+    source: |-
+      With regard to the breadth of Latin American studies in epistemology, a considerable number of the subjects discussed in present-day analytic epistemology have not received the slightest attention, others have been addressed only superficially, and still others have been tackled by but a few researchers. This situation is not limited to relatively new areas such as the epistemology of testimony, the epistemology of disagreement, or collective epistemology (all falling within so-called social epistemology), but is a more general phenomenon. This may be due to the fact that, for some reason, in analytic-style Latin American philosophy, epistemology has received less attention than logic, philosophy of science, or philosophy of language.
+    step1: |-
+      就拉美认识论研究的广度而言，当代分析认识论讨论的相当多主题在拉美未受丝毫关注，另一些只得到表面处理，还有一些仅有少数学者涉猎。这种状况并不限于证言认识论、分歧认识论或集体认识论（皆属所谓社会认识论）等相对新的领域，而是更普遍的现象。原因或许在于：在分析风格的拉美哲学中，认识论受到的关注少于逻辑学、科学哲学或语言哲学。
+    step2: |-
+      就研究的广度而言，当代分析认识论所讨论的主题，相当一部分在拉美无人问津，一部分只被浅尝辄止，还有一部分仅有少数学者涉足。这种局面并不限于证言认识论、分歧认识论、集体认识论（皆属所谓社会认识论）这类较新的领域，而是普遍现象。原因或许在于：在分析风格的拉美哲学里，认识论受重视的程度不及逻辑学、科学哲学与语言哲学。
+  - id: 8
+    kind: body
+    source: |-
+      Finally, even though original positions and arguments with regard to specific topics have been developed by Latin American scholars, it is safe to say that there is not a *distinctively* Latin American epistemology. The epistemological issues and problems currently examined in the work of those Latin American authors who adopt a systematic approach either have been discussed throughout the history of philosophy or have been “imported” from Anglophone scholarship. Nor is there a particular way of doing epistemology that could be identified as Latin American. For this reason, one may talk of “epistemology in Latin America” or “epistemology done by Latin Americans” rather than of “Latin American epistemology”.
+    step1: |-
+      最后，尽管拉美学者已就具体主题提出原创的立场与论证，仍可稳妥地说：并不存在 *独具特色* 的拉美认识论。采取系统进路的拉美作者目前所考察的认识论题与问题，要么贯穿哲学史一直有人讨论，要么是从英语学界“输入”的。也不存在可辨认为拉美特有的认识论做法。因此，人们谈的是“拉丁美洲的认识论”或“拉美学者所做的认识论”，而非“拉美认识论”。
+    step2: |-
+      最后，拉美学者固然就具体主题提出过原创立场与论证，仍可稳妥地说：并无一种 **独具特色** 的拉美认识论。取系统进路的拉美作者眼下所探究的认识论题，或为哲学史上历来有之，或自英语学界“输入”。也没有哪种认识论做法可辨认为拉美特有。所以，人们谈的是“拉丁美洲的认识论”或“拉美学者所做的认识论”，而不是“拉美认识论”。
+  - id: 9
+    kind: body
+    source: |-
+      A caveat is in order: the above is intended as a *general* description of the *current* situation in the Latin American philosophical community. The academic collaboration between research groups within and outside Latin America, the growing number of visiting scholars from Latin American countries at philosophy departments of North America and Europe where the best epistemological investigation is carried out, and the increase of financial resources in some of those countries will, one can reasonably expect, change the situation in the years to come by building on what has already been done in the field and opening up further research and debate. Within the next few decades, there will probably be a consolidated Latin American community working on epistemological issues, and one will perhaps even be able to start talking of a distinctively Latin American epistemology.
+    step1: |-
+      须作一点提醒：以上是对拉美哲学共同体 *当前* 状况的 *总体* 描述。拉美内外研究团队之间的学术合作、拉美国家访问学者在北美与欧洲（认识论研究最佳之处）哲学系的人数增长，以及其中一些国家财力的增加，有理由预期将在未来数年改变这一状况：既依托该领域已有成果，也开辟更多研究与论辩。未来几十年内，或许会出现一个稳固的、研究认识论问题的拉美共同体，人们甚至可能开始谈论独具特色的拉美认识论。
+    step2: |-
+      须有一句提醒：以上只是对拉美哲学共同体 **当前** 状况的 **总体** 描述。拉美内外研究团队之间的学术合作、拉美国家访问学者在北美与欧洲（认识论研究最精之处）哲学系人数的增长、部分拉美国家财力的增加——这些都有理由让人预期，未来数年局面将改观：既依托既有成果，也开辟更多研究与论辩。几十年之内，或许会形成一个稳固的、专门研究认识论问题的拉美共同体，人们甚至可能开始谈独具特色的拉美认识论。
+  - id: 10
+    kind: body
+    source: |-
+      ## 2. Skepticism
+    step1: |-
+      ## 2 怀疑论
+    step2: |-
+      ## 2 怀疑论
+  - id: 11
+    kind: body
+    source: |-
+      It is safe to say that skepticism is the main issue discussed by Latin American scholars working in epistemology, judging by the number of works devoted to it. In addition, in certain Latin American countries there is a short but strong tradition of scholarship on both the history and the philosophical significance of skepticism. This is why it is the first topic to be addressed in this entry.
+    step1: |-
+      从相关论著的数量判断，可以说怀疑论是拉美认识论学者讨论的主要问题。此外，某些拉美国家在怀疑论的历史与哲学意义上，有着虽短却强的学术传统。故本词条先讨论这一主题。
+    step2: |-
+      以论著数量判断，怀疑论是拉美认识论学者着力最多的问题。此外，若干拉美国家研究怀疑论之历史与哲学意义的传统虽短，却相当扎实。故本词条先论此题。
+  - id: 12
+    kind: body
+    source: |-
+      As Cresto (2010a: 468) points out, the study of the history of skepticism is one of the lines of research to be considered when providing an overview of epistemological investigation in Latin America. But contrary to what she claims, it is hard to find any systematic epistemological discussion of skepticism in the numerous works in which Latin American scholars have dealt with the history of ancient or modern skepticism. Still, it is primarily in connection with the study of ancient Pyrrhonism that the field has seen the emergence of systematic discussions of the nature of skepticism and the epistemic challenges it raises. Pyrrhonism is the variety of skepticism most commonly dealt with in the works of Latin American academics, both in general and in connection with epistemological issues.
+    step1: |-
+      正如克雷斯托（Cresto 2010a: 468）所指出的，怀疑论史研究是概览拉美认识论研究时应予考虑的研究路线之一。但与她的说法相反，在拉美学者处理古代或近代怀疑论史的大量论著中，很难找到对怀疑论的系统的认识论讨论。不过，正是在古代皮浪主义研究方面，该领域出现了关于怀疑论本性及其所提认识论挑战的系统讨论。皮浪主义是拉美学者论著中最常处理的怀疑论类型，无论一般而论还是就认识论问题而论。
+    step2: |-
+      克雷斯托（Cresto 2010a: 468）指出，怀疑论史研究是概览拉美认识论研究时该纳入的路线之一。但与她的说法相反，拉美学者处理古代或近代怀疑论史的大量论著中，很难找到对怀疑论的系统的认识论讨论。系统的讨论，主要还是围绕古代皮浪主义研究出现的：关于怀疑论的本性、关于它所提出的认识论挑战，都有人系统作答。拉美学者论著中最常处理的怀疑论类型，正是皮浪主义，一般而论如此，就认识论问题而论亦如此。
+  - id: 13
+    kind: body
+    source: |-
+      The Latin American tradition of scholarship on the history of ancient and modern skepticism started in the 1970s with Oswaldo Porchat Pereira (1933–2017) in Brazil and Ezequiel de Olaso (1932–1996) in Argentina, who were in close contact and co-organized two conferences on skepticism: one in Campinas (Brazil) in 1986 and one in Buenos Aires (Argentina) in 1992. Porchat pursued his undergraduate and graduate studies in philosophy at the Universidade de São Paulo (USP), obtaining a Ph.D. with a dissertation on Aristotle’s conception of science. He spent research periods in the United States, the United Kingdom, and France, where he was heavily influenced by French historians of philosophy. He was professor at USP and the founder of both the philosophy department and the Centro de Lógica, Epistemologia e História da Ciência (on which see Section 1) at UNICAMP.
+    step1: |-
+      拉美关于古今怀疑论史的学术传统，始于 1970 年代巴西的奥斯瓦尔多·波尔沙特·佩雷拉（1933–2017）与阿根廷的埃塞基埃尔·德·奥拉索（1932–1996）；二人交往密切，共同组织了两次怀疑论会议：1986 年在巴西坎皮纳斯，1992 年在阿根廷布宜诺斯艾利斯。波尔沙特在圣保罗大学（USP）完成哲学本科与研究生学业，以一篇论亚里士多德科学观的论文获博士学位。他曾在美国、英国与法国从事研究，深受法国哲学史家影响。他是 USP 教授，也是 UNICAMP 哲学系与逻辑、认识论与科学史中心（见第 1 节）的创建者。
+    step2: |-
+      拉美研究古今怀疑论史的传统，起于 1970 年代的巴西人奥斯瓦尔多·波尔沙特·佩雷拉（1933–2017）与阿根廷人埃塞基埃尔·德·奥拉索（1932–1996）。两人交往密切，合办过两次怀疑论会议：1986 年在巴西坎皮纳斯，1992 年在阿根廷布宜诺斯艾利斯。波尔沙特在圣保罗大学（USP）读完哲学本科与研究生，博士论文写亚里士多德的科学观。他曾赴美、英、法从事研究，受法国哲学史家影响甚深。他是 USP 教授，也是 UNICAMP 哲学系与逻辑、认识论与科学史中心（见第 1 节）的创办人。
+  - id: 14
+    kind: body
+    source: |-
+      De Olaso obtained his B.A. (*Licenciatura*) in philosophy from the University of Buenos Aires and his Ph.D. in the same field from Bryn Mawr College, with a dissertation on Leibniz and ancient skepticism. He taught at the Universidad Nacional de La Plata, the Universidad de Buenos Aires, and the Universidad de San Andrés, all in Argentina. He was also a researcher at the Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) of Argentina, and a founding member of the Centro de Investigaciones Filosóficas (CIF, 1965) and its journal *Revista Latinoamericana de Filosofía* (RLF, 1975). He also seems to have helped Porchat in the foundation of CLE.
+    step1: |-
+      德·奥拉索在布宜诺斯艾利斯大学取得哲学学士（*Licenciatura*），在布林莫尔学院取得同一领域博士学位，论文研究莱布尼茨与古代怀疑论。他先后任教于拉普拉塔国立大学、布宜诺斯艾利斯大学与圣安德烈斯大学（均在阿根廷），也是阿根廷国家科学技术研究委员会（CONICET）研究员，以及哲学研究中心（CIF，1965）及其刊物《拉丁美洲哲学评论》（RLF，1975）的创始成员。他似乎还协助波尔沙特创建了 CLE。
+    step2: |-
+      德·奥拉索的哲学学士（*Licenciatura*）得自布宜诺斯艾利斯大学，博士亦治哲学，就读于布林莫尔学院，论文写莱布尼茨与古代怀疑论。他先后执教于拉普拉塔国立大学、布宜诺斯艾利斯大学与圣安德烈斯大学（皆在阿根廷），兼任阿根廷国家科学技术研究委员会（CONICET）研究员，并是哲学研究中心（CIF，1965）及其刊物《拉丁美洲哲学评论》（RLF，1975）的创始成员。CLE 的创建，他似乎也出过力。
+  - id: 15
+    kind: body
+    source: |-
+      While Porchat’s studies on skepticism (all but one, Porchat Pereira 2013, collected in his 2007 book)[^porchat-2013] bear almost exclusively on the Pyrrhonism expounded in the extant works of the second-century physician Sextus Empiricus, de Olaso’s are concerned not only with Sextus’s Pyrrhonism (de Olaso 1983, 1988, 1992)[^olaso-1983], but also with Hume’s and Leibniz’s discussions of skepticism, particularly in its Pyrrhonian variety (de Olaso 1974, 1977, 1978, 1980, 1984)[^olaso-1974]. Towards the very end of his life, de Olaso’s writings focused on epistemology as practiced in the analytic tradition: e.g., he offered an analysis of the concepts of certainty, knowledge, and skepticism, and of their relations, in both modern and contemporary philosophy (de Olaso 1999)[^olaso-1999], but without making an original contribution to the present-day debates on those issues. While Porchat considered himself a skeptic, de Olaso did not, adopting a much more critical approach to skepticism. We will here focus on Porchat both because he claimed to adopt a neo-Pyrrhonian stance and particularly because it has been said that his writings offer significant epistemological reflections on skepticism. However, first, when discussing ancient Pyrrhonism in his published work, he seldom touches on, or proposes solutions to, the most complex interpretive and philosophical questions posed by Sextus’s presentation of Pyrrhonism, and he cursorily engages with only a tiny part of the vast specialist literature. We make this remark because some of those questions extensively discussed in the secondary literature concern intriguing epistemological problems: e.g., the epistemic challenge posed by the Five Modes of Agrippa, the attack on the criterion of truth, the Pyrrhonist’s stance on the standards of justification and norms of rationality, and the possibility of skeptical inquiry. And secondly, when proposing his neo-Pyrrhonism, he completely disregards the hundreds of epistemological studies on skepticism in general or on Pyrrhonism in particular published especially since the late 1970s. The reason is simply that Porchat does not engage in any systematic discussion of epistemological matters. (For a different appraisal of Porchat’s work, see Smith & Bueno 2016 and Smith 2018.)[^smith-2016][^smith-2018][^smith-2016-2]
+    step1: |-
+      波尔沙特关于怀疑论的研究（除 Porchat Pereira 2013 一篇外，均收入其 2007 年著作）[^porchat-2013] 几乎只涉及二世纪医生塞克斯都·恩披里柯现存著作所阐述的皮浪主义；德·奥拉索的研究则不限于塞克斯都的皮浪主义（de Olaso 1983, 1988, 1992）[^olaso-1983]，还涉及休谟与莱布尼茨对怀疑论——尤其是其皮浪主义一路——的讨论（de Olaso 1974, 1977, 1978, 1980, 1984）[^olaso-1974]。在其生命最后阶段，德·奥拉索的写作转向分析传统中的认识论：例如，他在近代与当代哲学中分析确定性、知识与怀疑论诸概念及其关系（de Olaso 1999）[^olaso-1999]，但并未对当代相关论争作出原创贡献。波尔沙特自认怀疑论者，德·奥拉索则不，他对怀疑论采取远为批判的态度。此处我们将聚焦波尔沙特：既因为他自称采取新皮浪主义立场，尤其因为据说他的著作为怀疑论提供了重要的认识论反思。然而，第一，在其已刊著作中讨论古代皮浪主义时，他很少触及、更少提出方案去解决塞克斯都的皮浪主义阐述所引发的最复杂的解释与哲学问题，只是浮光掠影地涉及大量专门文献中的极小部分。我们作此评论，是因为二手文献中广泛讨论的某些问题关涉引人入胜的认识论难题：例如，阿格里帕五式所提的认识论挑战、对真理标准的攻击、皮浪主义者关于辩护标准与合理性规范的立场，以及怀疑论探究的可能性。第二，在提出其新皮浪主义时，他完全无视自 1970 年代后期以来尤其大量涌现的、关于一般怀疑论或皮浪主义的上百种认识论研究。原因很简单：波尔沙特并不从事任何系统的认识论讨论。（对波尔沙特工作的不同评价，见 Smith & Bueno 2016 与 Smith 2018。）[^smith-2016][^smith-2018][^smith-2016-2]
+    step2: |-
+      波尔沙特论怀疑论的文章（除 Porchat Pereira 2013 一篇外，皆收入其 2007 年著作）[^porchat-2013] 几乎只谈一个题目：二世纪医生塞克斯都·恩披里柯现存著作中的皮浪主义。德·奥拉索则不然，他的研究既及塞克斯都的皮浪主义（de Olaso 1983, 1988, 1992）[^olaso-1983]，也及休谟与莱布尼茨关于怀疑论的讨论，尤其是皮浪主义一路（de Olaso 1974, 1977, 1978, 1980, 1984）[^olaso-1974]。晚年，德·奥拉索转向分析传统中的认识论：例如在近代与当代哲学中分析确定性、知识与怀疑论诸概念及其关系（de Olaso 1999）[^olaso-1999]，只是未对当代相关论争作出原创贡献。波尔沙特自认怀疑论者，德·奥拉索不然，他对怀疑论的态度远为批判。这里我们聚焦波尔沙特，原因有二：他自称取新皮浪主义立场；尤有甚者，据说他的著作为怀疑论提供了重要的认识论反思。然而，其一，他在已刊著作中处理古代皮浪主义时，对塞克斯都的阐述所引发的那些最复杂的解释与哲学问题，或极少触及，或提不出方案，对浩繁的专门文献也只是浮泛地涉及极小一部分。我们提及这一点，是因为二手文献中讨论甚多的若干问题，牵涉引人入胜的认识论难题：阿格里帕五式所提的认识论挑战、对真理标准的攻击、皮浪主义者关于辩护标准与合理性规范的立场、怀疑论探究是否可能，皆在其列。其二，他提出新皮浪主义时，完全不顾自 1970 年代后期以来涌现的上百种认识论研究，无论泛论怀疑论还是专论皮浪主义。原因很简单：波尔沙特根本不做系统的认识论讨论。（对波尔沙特工作的另一种评价，见 Smith & Bueno 2016、Smith 2018。）[^smith-2016][^smith-2018][^smith-2016-2]
+  - id: 16
+    kind: body
+    source: |-
+      It must nonetheless be observed that, unlike de Olaso’s, Porchat’s teaching and writings exerted a strong influence on his students, to the extent that several of them devoted their own work to the study of skepticism, creating in Brazil a relatively large community of academics interested in that philosophical movement. The work of those Brazilian scholars influenced by Porchat has been primarily exegetical and historical, with special focus on ancient and modern skepticism. A clear exception is Otávio Bueno (b. 1970), who after completing his B.A. and M.A. studies at USP, did his Ph.D. at the University of Leeds and is at present a professor at the University of Miami. Although Bueno’s main areas of research are the philosophy of science, the philosophy of mathematics, and logic, he has also discussed epistemological issues in connection with skepticism, particularly of a Pyrrhonian stripe. He has argued that it is mistake to claim that the Pyrrhonist is in the end committed to epistemic internalism, given that the latter’s arguments against epistemic externalism are merely dialectical (Bueno 2011)[^bueno-2011]. He has also rejected the view that the Pyrrhonist cannot induce the state of suspension of judgment on the basis of the Agrippan mode from disagreement alone (Bueno 2013)[^bueno-2013]. In other articles in which Pyrrhonism is also taken into account, Bueno has critically assessed Donald Davidson’s and Ernest Sosa’s responses to skepticism (Bueno 2005 and 2009, respectively)[^bueno-2005][^bueno-2009]. It is finally worth mentioning that he has defended a Pyrrhonian approach to contemporary science, in connection with Bas van Fraassen’s (1980) constructive empiricism (Bueno 2015, 2021)[^bueno-2015].
+    step1: |-
+      不过必须指出，与德·奥拉索不同，波尔沙特的授课与著作对学生影响很大，以致其中数人将自己的工作投入怀疑论研究，在巴西形成了一个规模较大的、对该哲学运动感兴趣的学术共同体。受波尔沙特影响的巴西学者，其工作主要是注释与历史的，特别集中于古今怀疑论。一个明显的例外是奥塔维奥·布埃诺（1970 年生），他在 USP 完成学士与硕士学业后，于利兹大学获博士学位，现为迈阿密大学教授。布埃诺的主要研究领域是科学哲学、数学哲学与逻辑学，但他也讨论过与怀疑论尤其是皮浪主义怀疑论相关的认识论问题。他论证说，声称皮浪主义者最终承诺认知内在主义是错误的，因为后者对认知外在主义的论证只是辩证性的（Bueno 2011）[^bueno-2011]。他还反驳了“皮浪主义者无法仅凭分歧、依阿格里帕式推理引出悬置判断状态”的观点（Bueno 2013）[^bueno-2013]。在其他也考虑皮浪主义的文章中，布埃诺批判性评估了唐纳德·戴维森与欧内斯特·索萨对怀疑论的回应（分别为 Bueno 2005、2009）[^bueno-2005][^bueno-2009]。最后值得一提的是，他结合巴斯·范弗拉森（1980）的构造经验论，为当代科学中的一种皮浪主义进路作了辩护（Bueno 2015, 2021）[^bueno-2015]。
+    step2: |-
+      但须指出：波尔沙特的授课与著作对学生影响甚大，德·奥拉索则不。他的学生中有数人专治怀疑论，在巴西形成了一个规模可观的、关心这一哲学运动的学术群体。受波尔沙特影响的巴西学者，所做多为注释与历史研究，重心在古今怀疑论。明显的例外是奥塔维奥·布埃诺（1970 年生）：他在 USP 读完学士与硕士，赴利兹大学取得博士，现任迈阿密大学教授。布埃诺主治科学哲学、数学哲学与逻辑学，也讨论过与怀疑论特别是皮浪主义怀疑论相关的认识论问题。他指出，说皮浪主义者最终承诺认知内在主义，是个错误——因为其反对认知外在主义的论证只是辩证性的（Bueno 2011）[^bueno-2011]。他也驳斥了这样一种看法：皮浪主义者无法只凭分歧、依阿格里帕式推理引出悬置判断（Bueno 2013）[^bueno-2013]。在另一些同样涉及皮浪主义的文章里，布埃诺分别批判评估了唐纳德·戴维森与欧内斯特·索萨对怀疑论的回应（Bueno 2005、2009）[^bueno-2005][^bueno-2009]。最后还应一提：他结合巴斯·范弗拉森（1980）的构造经验论，主张对当代科学采取皮浪主义进路（Bueno 2015, 2021）[^bueno-2015]。
+  - id: 17
+    kind: body
+    source: |-
+      Regarding Brazilian scholarship on epistemological skepticism, three other researchers may be mentioned: Plínio Junqueira Smith (b. 1964), Waldomiro José da Silva Filho (b. 1966), and Claudio Gonçalves de Almeida (1960).
+    step1: |-
+      关于巴西的认识论怀疑论研究，还可提及三位学者：普利尼奥·荣凯拉·史密斯（1964 年生）、瓦尔多米罗·若泽·达·席尔瓦·菲略（1966 年生）与克劳迪奥·贡萨尔维斯·德·阿尔梅达（1960 年生）。
+    step2: |-
+      巴西的认识论怀疑论研究，还可举出三位学者：普利尼奥·荣凯拉·史密斯（1964 年生）、瓦尔多米罗·若泽·达·席尔瓦·菲略（1966 年生）、克劳迪奥·贡萨尔维斯·德·阿尔梅达（1960–）。
+  - id: 18
+    kind: body
+    source: |-
+      Smith, who pursued his undergraduate and graduate studies in philosophy at USP, is probably the Brazilian scholar most influenced by Porchat’s teaching and writings. He is currently a professor at the Universidade Federal de São Paulo (UNIFESP) and the editor of the Brazilian journal *Sképsis* (2007)—one of the two journals devoted to skepticism (co-)edited in Latin America. Although his work bears mainly on the history of modern skepticism, Smith has recently written somewhat more epistemologically oriented papers devoted to Porchat’s skeptical stance (Smith 2015)[^smith-2015] and to what he regards as Barry Stroud’s neo-Pyrrhonism (Smith 2016)[^smith-2016][^smith-2016-2].
+    step1: |-
+      史密斯在 USP 完成哲学本科与研究生学业，大概是受波尔沙特授课与著作影响最深的巴西学者。他现任圣保罗联邦大学（UNIFESP）教授，并主编巴西刊物《探究》（*Sképsis*，2007）——拉美（合）办的两份怀疑论专门刊物之一。其工作主要涉及近代怀疑论史，但近来也写了若干更偏认识论的论文，讨论波尔沙特的怀疑论立场（Smith 2015）[^smith-2015]，以及他所理解的巴里·斯特劳德的新皮浪主义（Smith 2016）[^smith-2016][^smith-2016-2]。
+    step2: |-
+      史密斯在 USP 读完哲学本科与研究生，大约是受波尔沙特授课与著作影响最深的巴西学者。他现任圣保罗联邦大学（UNIFESP）教授，主编巴西刊物《探究》（*Sképsis*，2007）——拉美（合）办的两份怀疑论专刊之一。其研究以近代怀疑论史为主，近来也写了几篇更偏认识论的论文，讨论波尔沙特的怀疑论立场（Smith 2015）[^smith-2015]，以及他所理解的巴里·斯特劳德的新皮浪主义（Smith 2016）[^smith-2016][^smith-2016-2]。
+  - id: 19
+    kind: body
+    source: |-
+      Da Silva Filho obtained his B.A. in philosophy from the Universidade Estadual de Santa Cruz and his M.A. and Ph.D. in communication and contemporary culture from the Universidade Federal da Bahia (UFBA). Currently a professor at UFBA, he works in the fields of philosophy of mind and epistemology. In some of his publications, he has examined certain skeptical difficulties concerning self-knowledge (da Silva Filho 2007, 2008)[^silva-2007]. Even though he was not one of Porchat’s students, he has also been influenced by Porchat’s skeptical stance.
+    step1: |-
+      达·席尔瓦·菲略在圣克鲁斯州立大学取得哲学学士，在巴伊亚联邦大学（UFBA）取得传播与当代文化专业的硕士与博士学位。他现任 UFBA 教授，研究心灵哲学与认识论。在一些论著中，他考察了与自我知识有关的若干怀疑论难题（da Silva Filho 2007, 2008）[^silva-2007]。虽非波尔沙特的学生，他也受其怀疑论立场影响。
+    step2: |-
+      达·席尔瓦·菲略的哲学学士得自圣克鲁斯州立大学，硕士与博士则治传播与当代文化，就读于巴伊亚联邦大学（UFBA）。他现任 UFBA 教授，治心灵哲学与认识论。在一些论著里，他考察了关乎自我知识的若干怀疑论难题（da Silva Filho 2007, 2008）[^silva-2007]。他不是波尔沙特的学生，却也受其怀疑论立场影响。
+  - id: 20
+    kind: body
+    source: |-
+      De Almeida obtained his B.A. in social communication from the Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), his M.A. in philosophy from USP, and his Ph.D. in philosophy from McMaster University (Canada). Currently a professor at PUCRS, his main area of research is epistemology. He has written on epistemic closure and skepticism—arguing *inter alia* that neither knowledge nor epistemic justification are closed under logical implication and that this closure-failure does not affect Cartesian skepticism (de Almeida 2007, 2012)[^almeida-2007]—and on Stroud’s influential interpretation of Cartesian skepticism, which de Almeida claims is crippled by a level confusion (de Almeida 2016)[^almeida-2016][^almeida-2016-2].
+    step1: |-
+      德·阿尔梅达在里奥格兰德天主教大学（PUCRS）取得社会传播学学士，在 USP 取得哲学硕士，在加拿大麦克马斯特大学取得哲学博士。他现任 PUCRS 教授，主要研究领域为认识论。他写过关于认知闭合与怀疑论的论著——其中论证知识与认知辩护都不对逻辑蕴含封闭，而这种封闭失效并不影响笛卡尔式怀疑论（de Almeida 2007, 2012）[^almeida-2007]；也写过关于斯特劳德对笛卡尔式怀疑论之影响深远解释的论著，他称该解释受层次混淆之累（de Almeida 2016）[^almeida-2016][^almeida-2016-2]。
+    step2: |-
+      德·阿尔梅达的社会传播学学士得自里奥格兰德天主教大学（PUCRS），哲学硕士得自 USP，哲学博士得自加拿大麦克马斯特大学。他现任 PUCRS 教授，主治认识论。论著涉及认知闭合与怀疑论，其中论证知识与认知辩护都不对逻辑蕴含封闭，而这种封闭失效并不波及笛卡尔式怀疑论（de Almeida 2007, 2012）[^almeida-2007]；他也写过斯特劳德对笛卡尔式怀疑论那个影响深远的解释，认为后者受层次混淆之累（de Almeida 2016）[^almeida-2016][^almeida-2016-2]。
+  - id: 21
+    kind: body
+    source: |-
+      As regards Argentina, one finds several researchers exploring skepticism in the context of contemporary epistemology, among whom one may mention Eleonora Cresto (b. 1971), Juan Comesaña (b. 1972), and Diego Machuca (b. 1976).
+    step1: |-
+      关于阿根廷，有数位研究者在当代认识论语境中探讨怀疑论，可提及埃莱奥诺拉·克雷斯托（1971 年生）、胡安·科梅萨尼亚（1972 年生）与迭戈·马丘卡（1976 年生）。
+    step2: |-
+      阿根廷亦有数位学者在当代认识论语境中探究怀疑论，可举出埃莱奥诺拉·克雷斯托（1971 年生）、胡安·科梅萨尼亚（1972 年生）、迭戈·马丘卡（1976 年生）。
+  - id: 22
+    kind: body
+    source: |-
+      Cresto’s initial interest in skepticism arose under the influence of de Olaso, who supervised her B.A. thesis at the Universidad de Buenos (UBA). She later on pursued her M.A, M.Phil., and Ph.D. at Columbia University. Currently a researcher at CONICET and a professor at the Universidad Nacional de Tres de Febrero in Argentina, she works primarily in formal epistemology (on which see Section 4). In her first published papers, she critically examined both reliabilist and naturalistic anti-skeptical responses proposed in the literature, finding them unsatisfactory (Cresto 1996a, 1996b)[^cresto-1996a], but also put forward a reliabilist reply of her own to skepticism (Cresto 1997)[^cresto-1997].
+    step1: |-
+      克雷斯托最初对怀疑论的兴趣，是在德·奥拉索指导下产生的——后者指导了她在布宜诺斯艾利斯大学（UBA）的学士论文。她后来在哥伦比亚大学攻读硕士、哲学硕士与博士。她现任阿根廷国家科学技术研究委员会（CONICET）研究员，特雷斯德费布雷罗国立大学教授，主要研究形式认识论（见第 4 节）。在最初发表的论文中，她批判考察了文献中提出的可靠主义与自然主义反怀疑论回应，认为二者皆不能令人满意（Cresto 1996a, 1996b）[^cresto-1996a]，但也提出了她自己的一种可靠主义回应（Cresto 1997）[^cresto-1997]。
+    step2: |-
+      克雷斯托最初对怀疑论的兴趣，源自德·奥拉索——他在布宜诺斯艾利斯大学（UBA）指导了她的学士论文。此后她在哥伦比亚大学攻读硕士、哲学硕士与博士。她现任阿根廷国家科学技术研究委员会（CONICET）研究员、特雷斯德费布雷罗国立大学教授，主治形式认识论（见第 4 节）。她最初的论文批判考察了文献中的可靠主义与自然主义反怀疑论回应，认为皆难令人满意（Cresto 1996a, 1996b）[^cresto-1996a]；不过她也提出了自己的一套可靠主义回应（Cresto 1997）[^cresto-1997]。
+  - id: 23
+    kind: body
+    source: |-
+      After pursuing his undergraduate studies at UBA, Comesaña obtained his Ph.D. from Brown University under Sosa’s supervision, and is at present a professor at Rutgers University. In Buenos Aires, he was a founding member of the influential but now-defunct Grupo de Acción Filosófica (GAF). Having published on various epistemological issues (on which see Section 3), he has devoted some studies to skepticism. He has offered useful overviews of both the so-called Pyrrhonian problematic and skepticism in general (Comesaña 2006a and 2009a, respectively)[^comesaña-2006a][^comesaña-2009a]. He has also explored whether the contemporary theories of contextualism and contrastivism can help Pyrrhonists offer a philosophically satisfactory reply to the traditional objection according to which they are reduced to inactivity because action requires belief and they claim to suspend judgment regarding either philosophico-scientific beliefs or all beliefs whatsoever. Comesaña’s verdict is negative (Comesaña 2011)[^comesaña-2011].
+    step1: |-
+      科梅萨尼亚在 UBA 完成本科后，在布朗大学索萨指导下获博士学位，现为罗格斯大学教授。在布宜诺斯艾利斯，他是颇有影响、如今已停止活动的“哲学行动小组”（GAF）的创始成员。他发表过多种认识论问题的论著（见第 3 节），也做过一些怀疑论研究。他对所谓皮浪主义难题以及一般怀疑论都提供了有用的综述（分别为 Comesaña 2006a、2009a）[^comesaña-2006a][^comesaña-2009a]。他还探讨了当代的语境主义与对照主义理论能否帮助皮浪主义者，对一项传统反驳作出哲学上令人满意的回应——该反驳称，他们终将沦于无所行动，因为行动需要信念，而他们声称对哲学—科学信念或一切信念皆悬置判断。科梅萨尼亚的结论是否定的（Comesaña 2011）[^comesaña-2011]。
+    step2: |-
+      科梅萨尼亚在 UBA 读完本科，赴布朗大学在索萨指导下取得博士，现任罗格斯大学教授。在布宜诺斯艾利斯，他是颇有影响而如今已解散的“哲学行动小组”（GAF）创始成员。他的论著涉及多种认识论问题（见第 3 节），也做过一些怀疑论研究，为所谓皮浪主义难题与一般怀疑论分别提供了有用的综述（Comesaña 2006a、2009a）[^comesaña-2006a][^comesaña-2009a]。他还追问：当代的语境主义与对照主义理论，能否帮皮浪主义者对一项传统反驳给出哲学上令人满意的答复？那项反驳说：皮浪主义者终将沦于无所行动，因为行动需要信念，而他们却声称对哲学—科学信念、乃至一切信念都悬置判断。科梅萨尼亚的结论是否定的（Comesaña 2011）[^comesaña-2011]。
+  - id: 24
+    kind: body
+    source: |-
+      Machuca, who pursued his undergraduate and graduate studies in Argentina, obtaining his Ph.D. at UBA, is currently a researcher at CONICET and the editor (with Duncan Pritchard) of the *International Journal for the Study of Skepticism* (2011). Having initially devoted himself to examining Sextus’s Pyrrhonism and moral skepticism, he has more recently focused also on a systematic discussion of skepticism in relation to epistemological issues. He has looked at the relevance of Pyrrhonism to contemporary theories of knowledge and justification and, in particular, to the present-day debate over the epistemic significance of disagreement, defending a neo-Pyrrhonian stance (Machuca 2013b, 2015a, 2017a, 2022)[^machuca-2013b]. He has also examined the connection between disagreement and skepticism in general, arguing *inter alia* that a radical disagreement-based skepticism cannot be dismissed out of hand as being patently untenable or absurd (Machuca 2015b, 2017b)[^machuca-2015b].
+    step1: |-
+      马丘卡在阿根廷完成本科与研究生学业，在 UBA 获博士学位，现任 CONICET 研究员，并与邓肯·普里查德合编《国际怀疑论研究杂志》（2011）。他起初研究塞克斯都的皮浪主义与道德怀疑论，近来也着重系统讨论怀疑论与认识论问题的关联。他考察了皮浪主义对当代知识与辩护理论的意义，尤其是对当今关于分歧之认识论意义的论争的意义，并捍卫一种新皮浪主义立场（Machuca 2013b, 2015a, 2017a, 2022）[^machuca-2013b]。他还考察了一般而论的分歧与怀疑论之间的关联，其中论证：基于彻底分歧的怀疑论不能因显然站不住脚或荒谬而被轻易摒弃（Machuca 2015b, 2017b）[^machuca-2015b]。
+    step2: |-
+      马丘卡在阿根廷读完本科与研究生，于 UBA 取得博士，现任 CONICET 研究员，并与邓肯·普里查德合编《国际怀疑论研究杂志》（2011）。他起初治塞克斯都的皮浪主义与道德怀疑论，近来更着重系统讨论怀疑论同认识论问题的关联。他考察了皮浪主义对当代知识论与辩护理论的意义，特别是对当下关于分歧之认识论意义的论争的意义，并为之捍卫一种新皮浪主义立场（Machuca 2013b, 2015a, 2017a, 2022）[^machuca-2013b]。他也考察了一般而论的分歧与怀疑论之间的关联，其中论证：基于彻底分歧的怀疑论，不能因看似站不住脚或荒谬就被轻易打发（Machuca 2015b, 2017b）[^machuca-2015b]。
+  - id: 25
+    kind: body
+    source: |-
+      In other Latin American countries, one finds some epistemological studies on skepticism, and Pyrrhonism in particular, but interest in this topic is much more sporadic. We will here summarize the works of Pedro Stepanenko (Mexico) and Mauricio Zuluaga (Colombia) that are more epistemological in nature.
+    step1: |-
+      在其他拉美国家，也有一些关于怀疑论尤其是皮浪主义的认识论研究，但对这一主题的兴趣零散得多。这里我们概述墨西哥的佩德罗·斯捷潘年科与哥伦比亚的毛里西奥·苏卢阿加较具认识论性质的工作。
+    step2: |-
+      其他拉美国家也有关于怀疑论、尤其是皮浪主义的认识论研究，只是兴趣零散得多。这里概述墨西哥佩德罗·斯捷潘年科与哥伦比亚毛里西奥·苏卢阿加较偏认识论的几篇工作。
+  - id: 26
+    kind: body
+    source: |-
+      Stepanenko (b. 1960), a specialist on Kant, obtained a Ph.D. in philosophy at the Universidad Autónoma de México, where he is currently a professor and a member of the Instituto de Investigaciones Filosóficas (on which see Section 1). In Stepanenko (2011), he argues that, by using either a conditional or a disjunctivist interpretation of his appearance-statements, the Pyrrhonian skeptic can report on his own experiences without being epistemically committed to the beliefs one usually accepts when ascribing mental states to oneself.
+    step1: |-
+      斯捷潘年科（1960 年生）是康德专家，在墨西哥自治大学取得哲学博士，现任该校教授、哲学研究所成员（见第 1 节）。在 Stepanenko（2011）中，他论证：皮浪主义怀疑者只要对其显象陈述采取条件句式或析取主义式的解释，就能报告自己的经验，而不必在认识论上承诺人们通常自我归属心理状态时所接受的那些信念。
+    step2: |-
+      斯捷潘年科（1960 年生）专治康德，在墨西哥自治大学取得哲学博士，现任该校教授、哲学研究所成员（见第 1 节）。Stepanenko（2011）论证：皮浪主义怀疑者只要把其显象陈述作条件句式或析取主义式的解释，便可报告自身经验，而无须在认识论上承诺那些人们自我归属心理状态时通常接受的信念。
+  - id: 27
+    kind: body
+    source: |-
+      Zuluaga obtained his B.A. and M.A. in philosophy from the Universidad de los Andes and the Universidad Nacional de Colombia, respectively, and his Ph.D. in the same field from the Ludwig-Maximilians-Universität München (Germany). He is currently a professor at the Universidad del Valle (Colombia). Zuluaga has looked at Agrippa’s trilemma in the context of contemporary epistemological discussions of the regress argument, but his approach is merely expository: he limits himself to providing an overview of part of the literature on the trilemma and on the problems faced by foundationalism and coherentism (Zuluaga 2005)[^zuluaga-2005]. He has also written about contemporary reconstructions of Cartesian skepticism that are based on the closure principle (Zuluaga 2012)[^zuluaga-2012], but his approach is again entirely expository.
+    step1: |-
+      苏卢阿加的哲学学士与硕士分别得自安第斯大学与哥伦比亚国立大学，博士则在德国慕尼黑大学取得。他现任哥伦比亚山谷大学教授。苏卢阿加在当代关于回溯论证的认识论讨论中考察了阿格里帕三难，但其进路纯属叙述：只满足于概述关于三难、以及基础主义与融贯论所遇问题的部分文献（Zuluaga 2005）[^zuluaga-2005]。他还写过关于基于闭合原则的笛卡尔式怀疑论之当代重构的文章（Zuluaga 2012）[^zuluaga-2012]，进路同样纯属叙述。
+    step2: |-
+      苏卢阿加的哲学学士与硕士分别得自安第斯大学、哥伦比亚国立大学，博士则得自德国慕尼黑大学。他现任哥伦比亚山谷大学教授。在当代关于回溯论证的认识论讨论中，他考察过阿格里帕三难，但进路纯属叙述：只是概述了关于三难、以及关于基础主义与融贯论所遇难题的部分文献（Zuluaga 2005）[^zuluaga-2005]。他也写过基于闭合原则的笛卡尔式怀疑论之当代重构（Zuluaga 2012）[^zuluaga-2012]，进路同样纯属叙述。
+  - id: 28
+    kind: body
+    source: |-
+      ## 3. Core Epistemology
+    step1: |-
+      ## 3 核心认识论
+    step2: |-
+      ## 3 核心认识论
+  - id: 29
+    kind: body
+    source: |-
+      Core epistemology is concerned basically with the systematic analysis of knowledge and justified belief. So, in this section we will refer to works that examine fundamental epistemological concepts—such as knowledge, truth, and justification—or that defend or attack certain general epistemological theories—such as reliabilism and fallibilism.
+    step1: |-
+      核心认识论主要关注知识与得到辩护的信念的系统分析。故本节将涉及两类工作：或考察知识、真理、辩护等基本认识论概念，或为可靠主义、可错主义等一般认识论理论辩护或加以攻击。
+    step2: |-
+      核心认识论大体上关心知识与有辩护信念的系统分析。因此本节涉及两类工作：一类考察知识、真理、辩护这类基本认识论概念；一类为可靠主义、可错主义这类一般认识论理论辩护，或向其发难。
+  - id: 30
+    kind: body
+    source: |-
+      The Instituto de Investigaciones Filosóficas is where Luis Villoro (1922–2014) spent the bulk of his academic career. Born in Barcelona (Spain) to a Mexican mother and a Spanish father, and raised in Spain and Belgium, he settled in Mexico at the outbreak of the Second World War and became a Mexican citizen. He did his undergraduate and graduate studies at the Universidad Autónoma de México and spent research periods in France and Germany. In 1982, he published the first analytically oriented book on epistemology written in Spanish: *Creer, saber, conocer* (Villoro 1982)[^villoro-1982], translated into English as *Belief, Personal, and Propositional Knowledge* (Villoro 1998)[^villoro-1998]. Villoro examined fundamental concepts such as belief, knowledge, truth, objectivity, and epistemic communities. He distinguished between *saber* and *conocer*, which roughly correspond to what may be called “propositional” and “personal knowledge”, respectively, the latter consisting in having direct experiences of a given object. *S* can assert that he has personal knowledge of *x* provided that he has the relevant personal experiences, but if *S* wants to justify to someone else the claim that he has such knowledge of *x*, *S* must show that he has propositional knowledge of his personal knowledge. Villoro seems to have defended a form of epistemic relativism inasmuch as he claimed that to know (in the sense of *saber*) that *p* is to believe that *p*, and to have objectively sufficient reasons to so believe—an objectively sufficient reason being one that is conclusive, coherent, and complete—but also maintained that what is considered as an objectively sufficient reason in one epistemic community may not be so considered in another. For this reason, he claimed that empirical knowledge is fallible: on the basis of the reasons that are objectively sufficient for any member of his epistemic community, *S* knows that *p*, but he cannot rule out the possibility that there might be contrary reasons available to a different epistemic community that would undermine his knowledge that *p*. Objectively sufficient reasons are our best guarantee of empirical truths, but they do not of necessity imply such truths (Villoro 1982: 180, 192)[^villoro-1982]. Villoro held that the view that all knowledge is socially conditioned is the only valid alternative to skepticism (1982: 164). He also proposed a surprising reform of the traditional concept of knowledge: the notion of truth should not be included in the definition of knowledge because, even though the notion of an *objectively* sufficient reason cannot be *understood* without the notion of truth, one may know that *p* even if *p* is not true, for truth is not a necessary condition for a reason to be objectively sufficient (1982: ch. 8). (For a fuller overview of Villoro’s book, see Cresto 2010a: 474–477.)[^cresto-2010a]
+    step1: |-
+      路易斯·比略罗（1922–2014）的学术生涯大半在哲学研究所度过。他生于西班牙巴塞罗那，母亲是墨西哥人，父亲是西班牙人，在西班牙与比利时长大，二战爆发时定居墨西哥并加入墨西哥籍。他在墨西哥自治大学完成本科与研究生学业，并在法国与德国从事研究。1982 年，他出版了第一部以西班牙语写作的分析取向的认识论著作：《相信、知道、认识》（*Creer, saber, conocer*；Villoro 1982）[^villoro-1982]，英译本为 *Belief, Personal, and Propositional Knowledge*（Villoro 1998）[^villoro-1998]。比略罗考察了信念、知识、真理、客观性与认知共同体等基本概念。他区分了 *saber* 与 *conocer*，二者大致对应于所谓“命题性知识”与“个人知识”，后者在于对某一对象的直接经验。*S* 只要具有相关的个人经验，便可声称对 *x* 有个人知识；但若 *S* 要向他人证成自己拥有这种知识，*S* 就必须表明自己对自己的个人知识有命题性知识。比略罗似乎捍卫某种认知相对主义：他主张，知道（*saber* 意义上的）*p*，就是相信 *p*，并有客观充分的理由如此相信——客观充分的理由须是决定性的、融贯的与完整的——但他同时主张，在一个认知共同体中被视为客观充分的理由，在另一个共同体中未必如此。因此他主张经验知识是可错的：基于对其认知共同体任何成员都客观充分的理由，*S* 知道 *p*，但他无法排除另一种可能：另一个认知共同体掌握着相反的理由，足以瓦解他关于 *p* 的知识。客观充分的理由是我们对经验真理的最佳保证，但并不必然蕴含这些真理（Villoro 1982: 180, 192）[^villoro-1982]。比略罗认为，一切知识都受社会制约这一观点，是怀疑论唯一有效的替代方案（1982: 164）。他还提出一项对传统知识概念出人意料的改革：真理概念不应纳入知识的定义，因为尽管没有真理概念就无法 **理解** 客观充分的理由这一概念，人们却可以在 *p* 不真的情况下知道 *p*——真理并非理由成为客观充分的必要条件（1982: ch. 8）。（关于比略罗此书更完整的概述，见 Cresto 2010a: 474–477。）[^cresto-2010a]
+    step2: |-
+      路易斯·比略罗（1922–2014）的学术生涯大半在哲学研究所度过。他生于巴塞罗那，母为墨西哥人，父为西班牙人，在西班牙与比利时长大，二战爆发后定居墨西哥，入墨西哥籍。本科与研究生学业均在墨西哥自治大学完成，又曾赴法国、德国从事研究。1982 年，他出版了第一部用西班牙语写的分析取向认识论著作：《相信、知道、认识》（*Creer, saber, conocer*；Villoro 1982）[^villoro-1982]，英译本题为 *Belief, Personal, and Propositional Knowledge*（Villoro 1998）[^villoro-1998]。比略罗所考察的，是信念、知识、真理、客观性、认知共同体这类基本概念。他把 *saber* 与 *conocer* 分开，二者约略相当于“命题性知识”与“个人知识”，后者在于对某对象有直接经验。*S* 只要有相关经验，便可声称对 *x* 有个人知识；但 要向别人证成这一声称，*S* 就得表明：他对自己的个人知识有命题性知识。比略罗似乎持某种认知相对主义：他主张知道（*saber* 义的）*p*，即相信 *p* 并有客观充分的理由如此相信——客观充分的理由须具决定性、融贯而完整——可他同时认为，某一认知共同体视为客观充分的理由，另一共同体未必如此看。由此他主张经验知识可错：凭其共同体任何成员都视为客观充分的理由，*S* 知道 *p*；但他无法排除这种可能：另一认知共同体握有相反理由，足以瓦解他关于 *p* 的知识。客观充分的理由是我们对经验真理的最佳保证，却不必定蕴含这些真理（Villoro 1982: 180, 192）[^villoro-1982]。比略罗还认为，一切知识皆受社会制约这一看法，是怀疑论唯一可行的替代（1982: 164）。此外，他对传统知识概念提出一项出人意料的改革：真理概念不该写进知识的定义；因为尽管没有真理概念便无法 **理解** 客观充分的理由，人却可以在 *p* 不真时知道 *p*——真理不是理由成为客观充分的必要条件（1982: ch. 8）。（比略罗此书的更完整概述，见 Cresto 2010a: 474–477。）[^cresto-2010a]
+  - id: 31
+    kind: body
+    source: |-
+      Villoro’s position has been criticized by Guillermo Hurtado (b. 1962), a professor at the Universidad Autónoma de Mexico who obtained a B.A. in philosophy at this university as well as a B.A. and a Ph.D. in the same field at the University of Oxford. Hurtado (2003) argues that Villoro’s epistemic relativism and his redefinition of the concept of knowledge are the result of the fact that Villoro grants the skeptic the unacceptable view that, in order to be able to claim that one knows that *p*, one must have an infallible criterion for knowing that one knows.
+    step1: |-
+      比略罗的立场受到吉列尔莫·乌尔塔多（1962 年生）的批评。乌尔塔多现任墨西哥自治大学教授，先在该校取得哲学学士，后在牛津大学取得同一领域的学士与博士学位。Hurtado（2003）论证说，比略罗的认知相对主义及其对知识概念的重新界定，源于他接受了怀疑论者一个不可接受的看法：要能声称自己知道 *p*，就必须拥有一个不可错的判准来判断自己知道自己。
+    step2: |-
+      比略罗的立场遭到吉列尔莫·乌尔塔多（1962 年生）的批评。乌尔塔多现任墨西哥自治大学教授：哲学学士得自该校，同一领域的学士与博士则得自牛津大学。Hurtado（2003）指出，比略罗的认知相对主义与其对知识概念的重新界定，都出于他让给了怀疑论者一个不可接受的看法：要能声称自己知道 *p*，先得有一个不可错的判准，用来判断自己知道自己。
+  - id: 32
+    kind: body
+    source: |-
+      Eleonora Cresto (on whom see Section 2) has devoted some papers to examining core epistemological issues. For instance, adopting a moderately Peircean perspective, she has called into question the traditional picture of knowledge attribution according to which one can attribute knowledge of *p* to *S* only if *p* is true and *S* is epistemically justified in believing in *p*. Cresto maintains that epistemic justification (understood either in internalist or externalist terms) is not *always* viewed as a necessary condition for knowledge, and hence as a necessary condition for making a correct knowledge attribution, according to our pre-theoretical usage of standard epistemic terms (Cresto 2018; cf. Cresto 2012: 928–929)[^cresto-2012][^cresto-2018].
+    step1: |-
+      埃莱奥诺拉·克雷斯托（见第 2 节）写过若干论文考察核心认识论问题。例如，她采取温和的皮尔士式视角，质疑传统的知识归属图景——按此图景，只有当 *p* 为真且 *S* 在认识论上有理由相信 *p* 时，才能把 *p* 的知识归属于 *S*。克雷斯托主张，按我们对标准认识论词汇的前理论用法，认知辩护（无论作内在主义还是外在主义理解）并不 *总是* 被视为知识的必要条件，因而不总是正确知识归属的必要条件（Cresto 2018; 参 Cresto 2012: 928–929）[^cresto-2012][^cresto-2018]。
+    step2: |-
+      埃莱奥诺拉·克雷斯托（见第 2 节）有几篇论文专论核心认识论问题。例如，她取一种温和的皮尔士式视角，质疑传统的知识归属图景：按那图景，只有当 *p* 为真、且 *S* 有认识论辩护地相信 *p* 时，才可把 *p* 的知识归属于 *S*。克雷斯托认为，就我们对标准认识论词汇的前理论用法而言，认知辩护（无论作内在主义还是外在主义理解）并不 **总是** 知识的必要条件，因而也不总是正确知识归属的必要条件（Cresto 2018；参 Cresto 2012: 928–929）[^cresto-2012][^cresto-2018]。
+  - id: 33
+    kind: body
+    source: |-
+      There has also been some discussion of the concept of knowledge in terms of both reliability and fallibility. Let us begin with the former. Succinctly put, reliabilism holds that a belief is knowledge if it is true and if it was produced, or is sustained, by a reliable process that yields mostly true beliefs. Reliabilist theories of knowledge require a reliable mechanism for belief formation, but do not require that the epistemic agent be aware or have evidence of the mechanism’s reliability. For this reason, reliabilism is a form of externalism. Juan Comesaña (on whom see the previous section) has proposed an original theory of epistemic justification that combines elements of both reliabilism and evidentialism—which represent two competing approaches in contemporary analytic epistemology. This theory, which he calls “evidentialist reliabilism”, is intended to incorporate the best aspects of both positions while avoiding the most serious problems they face (Comesaña 2010)[^comesaña-2010]. Comesaña has also argued that reliabilism is able to successfully deal with the so-called “generality problem” (Comesaña 2006b)[^comesaña-2006b], and that the epistemological problems stemming from lotteries either are not peculiar to reliabilism or can be solved by appealing to a probabilistic account of reliability (Comesaña 2009b)[^comesaña-2009b]. He has as well referred to reliability in his discussion of “safety”. Several epistemologists (such as Ernest Sosa, Timothy Williamson, and Duncan Pritchard) have defended the view that safety is a necessary condition for knowledge. Roughly put, what that condition says is that *S* knows that *p* if and only if *S* would believe that *p* only if *p* were true. On the basis of a counterexample, Comesaña (2005) has argued that safety, as this notion has been defined by Sosa, is not actually a necessary condition for knowledge. The reason is that, whereas reliability is plausibly a necessary condition for knowledge, reliable reliability is not, and whereas knowledge is compatible with unreliably reliable beliefs, safety is not. Hence, one can have “unsafe” knowledge. Comesaña’s more recent work in collaboration with Matthew McGrath and Stewart Cohen has focused on the part played by false beliefs in epistemology. He has argued that false propositions can be part of one’s evidence or can be reasons to do something (Comesaña & McGrath 2014, 2016)[^comesaña-2014] and, against Williamson, that one can have rational or justified false beliefs (Cohen & Comesaña 2013a, 2013b, forthcoming)[^cohen-2013a].
+    step1: |-
+      关于知识概念，也有一些讨论围绕可靠性与可错性展开。先说前者。简言之，可靠主义主张：一个信念若为真，且由（或持续由）一个多半产生真信念的可靠过程产生，便是知识。可靠主义的知识理论要求有可靠的信念形成机制，但不要求认知主体意识到该机制的可靠性或有其证据。故可靠主义是外在主义的一种。胡安·科梅萨尼亚（见上节）提出了一种原创的认知辩护理论，兼采可靠主义与证据主义——二者是当代分析认识论中两条相互竞争的进路。这一理论他称为“证据主义式可靠主义”，意在吸收二者的长处，同时避开它们各自最严重的问题（Comesaña 2010）[^comesaña-2010]。科梅萨尼亚还论证：可靠主义能成功应对所谓“一般性问题”（Comesaña 2006b）[^comesaña-2006b]；源于抽奖的认识论难题，要么并非可靠主义所特有，要么可借概率式的可靠性说明解决（Comesaña 2009b）[^comesaña-2009b]。他在讨论“安全性”时也提到可靠性。若干认识论者（如索萨、威廉姆森、普里查德）主张安全性是知识的必要条件。粗略地说，该条件是说：*S* 知道 *p*，当且仅当 *S* 只有在 *p* 为真时才会相信 *p*。科梅萨尼亚（2005）以一个反例论证，按索萨的定义，安全性其实并非知识的必要条件。理由在于：可靠性多半是知识的必要条件，但可靠的可靠性却不是；知识可与不可靠地可靠的信念相容，安全性却不能。故人可以拥有“不安全的”知识。科梅萨尼亚与马修·麦格拉思、斯图尔特·科恩合作的晚近工作，聚焦于虚假信念在认识论中的作用。他论证虚假命题可以成为证据的一部分，也可以成为做某事的理由（Comesaña & McGrath 2014, 2016）[^comesaña-2014]；并针对威廉姆森论证，人可以拥有合理的或有辩护的虚假信念（Cohen & Comesaña 2013a, 2013b, forthcoming）[^cohen-2013a]。
+    step2: |-
+      围绕知识概念，另有一路讨论涉及可靠性与可错性。先说可靠性。可靠主义大致主张：一个信念只要为真，且由（或持续由）多半产生真信念的可靠过程产生，便是知识。它要求有可靠的信念形成机制，却不要认知主体意识到这机制的可靠性、或握有其证据；故可靠主义属于外在主义。胡安·科梅萨尼亚（见上节）提出一套原创的认知辩护理论，兼采可靠主义与证据主义——当代分析认识论中两条相争的进路。他称之为“证据主义式可靠主义”，意在兼取二者之长，避开各自最棘手的问题（Comesaña 2010）[^comesaña-2010]。他还论证：可靠主义足以应对所谓“一般性问题”（Comesaña 2006b）[^comesaña-2006b]；源于抽奖的认识论难题，或非可靠主义所独有，或可借概率式的可靠性说明化解（Comesaña 2009b）[^comesaña-2009b]。谈“安全性”时，他也提到可靠性。索萨、威廉姆森、普里查德等若干认识论者主张，安全性是知识的必要条件。粗略地说，这条件是说：*S* 知道 *p*，当且仅当 *S* 只有在 *p* 为真时才会相信 *p*。科梅萨尼亚（2005）举一反例论证：依索萨的定义，安全性其实并不是知识的必要条件。理由是：可靠性多半是知识的必要条件，可靠的可靠性却不然；知识可与不可靠地可靠的信念相容，安全性则不能。故人可以有“不安全”的知识。晚近，科梅萨尼亚与马修·麦格拉思、斯图尔特·科恩合作，聚焦虚假信念在认识论中的作用：他论证虚假命题可以是证据的一部分，也可以是做某事的理由（Comesaña & McGrath 2014, 2016）[^comesaña-2014]；又针对威廉姆森论证，人可以拥有合理、有辩护的虚假信念（Cohen & Comesaña 2013a, 2013b, forthcoming）[^cohen-2013a]。
+  - id: 34
+    kind: body
+    source: |-
+      As regards fallibilism, it is safe to say that nearly all present-day epistemologists are fallibilists: we sometimes make mistakes—occasionally even about those things we deem to be most evident—despite having good justification for our beliefs. More precisely, *S* fallibly knows that *p* in case, despite the good justification underlying one’s knowledge, *S*’s belief that *p* might have been false or might have been accidentally true (cf. Reed 2002)[^reed-2002]. Hurtado (2000) rejects such a virtually unanimous position—which he defines as “the doctrine that any of our beliefs might turn out to be false”—on the grounds both that it is revisionist and that we lack good reasons to accept it. Fallibilism is revisionist because, he argues, it runs counter to common sense both by erasing the ordinary distinction between those beliefs that cannot be false and those that can, and by claiming that no evidence or no reasons can guarantee the truth of a given belief. And there are no good reasons to accept fallibilism because Hurtado claims to be able to refute what he describes as the historico-pragmatic, epistemological, and ethical arguments in its favor, and because he believes that fallibilism is dialectically weak against both skepticism and dogmatism.
+    step1: |-
+      关于可错主义，可以说当今几乎所有认识论者都是可错主义者：我们有时会出错——偶尔甚至在我们视为最明显的事情上出错——尽管我们的信念有良好的辩护。更精确地说：*S* 可错地知道 *p*，是说尽管知识背后有良好辩护，*S* 关于 *p* 的信念仍可能为假，或可能只是碰巧为真（参 Reed 2002）[^reed-2002]。乌尔塔多（2000）拒斥这一近乎一致的立场——他称之为“我们任何信念都可能被证明为假”的学说——理由有二：它是修正主义的；我们缺乏接受它的好理由。说它修正主义，是因为它违背常识：既抹去了不可为假的信念与可为假的信念之间通常的区分，又主张没有任何证据或理由能保证某一信念为真。说没有好理由接受它，是因为乌尔塔多自称能驳倒他所描述的、为其辩护的历史—实用主义论证、认识论论证与伦理论证，并认为可错主义在辩证上既无力对付怀疑论，也无力对付独断论。
+    step2: |-
+      至于可错主义，可以说今天几乎所有认识论者都持此说：我们有时会弄错，偶尔连自以为最显然的事也弄错，尽管信念本有良好辩护。说得精确些：*S* 可错地知道 *p*，是说纵有良好辩护，*S* 关于 *p* 的信念仍可能为假，或可能只是碰巧为真（参 Reed 2002）[^reed-2002]。乌尔塔多（2000）偏要反对这一近乎人人首肯的立场——他称之为“我们任何信念都可能被证明为假”的学说——理由是：它属于修正主义，且我们没有好理由接受它。说它修正主义，是因它违逆常识：一面抹去不可为假的信念与可为假的信念之间寻常的界线，一面宣称没有任何证据或理由能保证某信念为真。说没有好理由，是因乌尔塔多自谓能驳倒他为它归纳的历史—实用主义、认识论与伦理三类论证，并认为可错主义在辩证上对怀疑论与独断论都显软弱。
+  - id: 35
+    kind: body
+    source: |-
+      It is also worth mentioning that Claudio de Almeida (on whom see Section 2) has devoted part of his work to the so-called Moore’s paradox, arguing that none of the most influential analyses of the paradox provides a successful solution to it, and proposing a solution of his own (de Almeida 2001, 2009)[^almeida-2001]. More recently, he has published on the defeasibility theory of knowledge, arguing that a fallibilistic version of this theory provides the correct solution to the Gettier problem (de Almeida & Fett 2016, de Almeida 2017)[^almeida-2016][^almeida-2017][^almeida-2016-2].
+    step1: |-
+      值得一提的是，克劳迪奥·德·阿尔梅达（见第 2 节）也有一部分工作研究所谓摩尔悖论：他论证该悖论最有影响的诸分析皆未成功解决之，并提出自己的方案（de Almeida 2001, 2009）[^almeida-2001]。晚近他发表关于知识的可废止性理论的文章，论证该理论的可错主义版本为盖梯尔问题提供了正确解决（de Almeida & Fett 2016、de Almeida 2017）[^almeida-2016][^almeida-2017][^almeida-2016-2]。
+    step2: |-
+      还有一项值得提及：克劳迪奥·德·阿尔梅达（见第 2 节）有一部分工作专治所谓摩尔悖论。他论证该悖论最有影响的几种分析都未成功，并提出自己的解法（de Almeida 2001, 2009）[^almeida-2001]。晚近他又论知识的可废止性理论，主张该理论的可错主义版本恰能正确解决盖梯尔问题（de Almeida & Fett 2016、de Almeida 2017）[^almeida-2016][^almeida-2017][^almeida-2016-2]。
+  - id: 36
+    kind: body
+    source: |-
+      We should finally refer to the work of Carlos Pereda (b. 1944), even though epistemology has not been the focus of his research. Born in Uruguay, he obtained a B.A. in philosophy and educational sciences from the Universidad de la República in his home country, as well as a M.A. and a Ph.D. in philosophy from Universität Konstanz (Germany). He pursued most of his academic career in Mexico, first at the Universidad Autónoma Metropolitana and then at UNAM’s Instituto de Investigaciones Filosóficas. His work is mainly concerned with the nature and purpose of argumentation (Pereda 1994a, 1994b)[^pereda-1994a], and it is in this context that he deals with certain epistemological subjects. For instance, he calls the rules that govern the way in which the argumentative game is to be played “epistemic virtues”, which are character traits or dispositions of those involved in a debate, such as coherence, rigor, and willingness to consider one’s rival theses. The exercise of the epistemic virtues is what makes argumentation possible and what enables us to resolve conflicts of beliefs. Pereda also discusses what he calls “the trilemma of knowledge” (*el trilema del saber*), which arises from the following three claims:
+    step1: |-
+      最后还应提到卡洛斯·佩雷达（1944 年生）的工作，尽管认识论并非其研究重心。他生于乌拉圭，在本国共和国大学取得哲学与教育科学学士，并在德国康斯坦茨大学取得哲学硕士与博士。其学术生涯大半在墨西哥度过，先在墨西哥自治城市大学，后在 UNAM 哲学研究所。他的工作主要关注论证的本性与目的（Pereda 1994a, 1994b）[^pereda-1994a]，正是在这一语境中他处理某些认识论主题。例如，他把支配论证游戏之玩法的规则称为“认知德性”——即参与辩论者的品格特质或倾向，如融贯、严谨与愿意考虑对手的论题。正是认知德性的运用使论证成为可能，并使我们得以解决信念冲突。佩雷达还讨论他所谓“知识三难”（*el trilema del saber*），它源于以下三个主张：
+    step2: |-
+      末了还应一提卡洛斯·佩雷达（1944 年生），尽管认识论并非其重心。他生于乌拉圭，哲学与教育科学学士得自本国共和国大学，哲学硕士与博士得自德国康斯坦茨大学。学术生涯大半在墨西哥：先在墨西哥自治城市大学，后入 UNAM 哲学研究所。他主要研究论证的本性与目的（Pereda 1994a, 1994b）[^pereda-1994a]，某些认识论题目正是在这一脉络里处理的。譬如，他把支配论证游戏玩法的规则称为“认知德性”——参与辩论者的品格特质或倾向，如融贯、严谨、肯考虑对手的论题。论证之所以可能、信念冲突之所以可解，都靠认知德性的运用。佩雷达还讨论他所称的“知识三难”（*el trilema del saber*），其源出以下三个主张：
+  - id: 37
+    kind: body
+    source: |-
+      1. We know (understood in the sense that many of our beliefs are knowledge).
+      2. We are fallible (understood in the sense that any of our beliefs may turn out to be false).
+      3. *S* knows that *p* iff (a) *S* believes that *p*, (b) *p* is true, (c) *S* is wholly justified in believing that *p*, and (d) between the fact *p* and the belief that *p* there is an appropriate causal connection and *S* correctly reconstructs such a connection in her justification.
+    step1: |-
+      1. 我们知道（意为我们的许多信念是知识）。
+      2. 我们可错（意为我们的任何信念都可能被证明为假）。
+      3. *S* 知道 *p*，当且仅当 (a) *S* 相信 *p*，(b) *p* 为真，(c) *S* 完全有理由相信 *p*，且 (d) 事实 *p* 与信念 *p* 之间有恰当的因果联系，而 *S* 在其辩护中正确重构了这一联系。
+    step2: |-
+      1. 我们知道（意为我们的许多信念是知识）。
+      2. 我们可错（意为我们的任何一个信念都可能被证明为假）。
+      3. *S* 知道 *p*，当且仅当：(a) *S* 相信 *p*；(b) *p* 为真；(c) *S* 完全有理由相信 *p*；(d) 事实 *p* 与信念 *p* 之间有恰当的因果联系，且 *S* 在其辩护中正确重构了这联系。
+  - id: 38
+    kind: body
+    source: |-
+      The trilemma emerges because, given that (3) formulates the concept of knowledge as infallible knowledge, only two of (1), (2), and (3) can be held together: if (1) and (2) are true, then (3) is false (there is fallible knowledge); if (1) and (3) are true, then (2) is false (there is infallible knowledge); and if (2) and (3) are true, then (1) is false (there is no knowledge). Pereda maintains that the solution to the trilemma is not to abandon one of the claims, but to recognize that there is both a strong and a weak sense of the concept of knowledge. Pereda’s view has been criticized by Guillermo Hurtado (1996), who contends that the trilemma results from incorrectly analyzing (2), which should be understood not as the claim that *any* of our beliefs may turn out to be false, but as the claim that *some* of our beliefs may turn out to be false.
+    step1: |-
+      三难之所以出现，是因为 (3) 把知识概念表述为不可错的知识，故 (1)(2)(3) 中只能同时成立两个：若 (1) 与 (2) 为真，则 (3) 为假（存在可错的知识）；若 (1) 与 (3) 为真，则 (2) 为假（存在不可错的知识）；若 (2) 与 (3) 为真，则 (1) 为假（不存在知识）。佩雷达主张，解决三难的出路不是放弃其中一个主张，而是承认知识概念有强、弱两义。吉列尔莫·乌尔塔多（1996）批评了这一看法，他主张三难源于对 (2) 的错误分析：(2) 不应理解为“我们的 *任何* 信念都可能被证明为假”，而应理解为“我们的 *某些* 信念可能被证明为假”。
+    step2: |-
+      三难之起，在于 (3) 把知识概念定为不可错的知识，于是 (1)(2)(3) 只能同持其二：若 (1)(2) 为真，(3) 便假（有可错的知识）；若 (1)(3) 为真，(2) 便假（有不可错的知识）；若 (2)(3) 为真，(1) 便假（并无知识）。佩雷达主张，出路不在舍弃其一，而在承认知识概念有强弱二义。吉列尔莫·乌尔塔多（1996）不以为然：他认为三难源于对 (2) 的误析——(2) 不该读作“我们的 **任何** 信念都可能被证明为假”，而该读作“我们的 **某些** 信念可能被证明为假”。
+  - id: 39
+    kind: body
+    source: |-
+      ## 4. Formal Epistemology
+    step1: |-
+      ## 4 形式认识论
+    step2: |-
+      ## 4 形式认识论
+  - id: 40
+    kind: body
+    source: |-
+      Formal epistemology is concerned with the examination of traditional epistemological questions using the formal tools of logic and probability. There has been a small but important group of Latin American researchers working within this subfield of epistemology—sometimes in close collaboration with scholars from the United States, Europe, and Australia—particularly on such topics as belief change, Bayesian epistemology, and theory choice.
+    step1: |-
+      形式认识论关注用逻辑与概率的形式工具考察传统认识论问题。拉美有一小群但重要的研究者在这一认识论分支内工作——有时与美国、欧洲与澳大利亚的学者密切合作——尤其研究信念变更、贝叶斯认识论与理论选择等主题。
+    step2: |-
+      形式认识论用逻辑与概率的形式工具考察传统认识论问题。拉美有一小群重要学者在这一分支内工作——有时与美、欧、澳的同行密切合作——尤以信念变更、贝叶斯认识论和理论选择为题。
+  - id: 41
+    kind: body
+    source: |-
+      Argentina has been the main center of development of the subfield of formal epistemology in Latin America, beginning in the mid-1980s. The first central figure was the Argentinian Carlos Alchourrón (1931–1996), who obtained his B.A. in law and his Ph.D. in law and social sciences at the Universidad de Buenos Aires (UBA), where he taught until his death. He was one of the founders of the Sociedad Argentina de Análisis Filosófico (on which see Section 1). He also founded, at UBA’s philosophy department, a logic group that would eventually incorporate researchers working on artificial intelligence at UBA’s computer science department. The interdisciplinary group became a hotbed of formal epistemology.
+    step1: |-
+      阿根廷自 1980 年代中期起，是拉美形式认识论分支发展的主要中心。第一位核心人物是阿根廷人卡洛斯·阿尔丘龙（1931–1996），他在布宜诺斯艾利斯大学（UBA）取得法学学士与法学及社会科学博士，并在该校任教直至去世。他是阿根廷哲学分析学会（见第 1 节）的创始人之一。他还在 UBA 哲学系创办了一个逻辑小组，该小组后来吸收 UBA 计算机科学系从事人工智能研究的学者。这个跨学科小组成为形式认识论的温床。
+    step2: |-
+      阿根廷是拉美形式认识论发展的主要中心，自 1980 年代中期起步。第一位核心人物是阿根廷人卡洛斯·阿尔丘龙（1931–1996）：法学学士与法学及社会科学博士均得自布宜诺斯艾利斯大学（UBA），此后在该校执教终身。他是阿根廷哲学分析学会（见第 1 节）的创办人之一，又在 UBA 哲学系组建了一个逻辑小组；小组后来吸纳了 UBA 计算机科学系做人工智能的研究者，成为形式认识论的温床。
+  - id: 42
+    kind: body
+    source: |-
+      Alchourrón’s main line of research concerned the theory of belief change, which basically deals with the question of how a belief set is to be updated in light of new information. In 1985 he published, together with Peter Gändenfors and David Makinson, a seminal article in which they advanced an axiomatic theory that has come to be known as “the AGM theory of belief change”, “the AGM account of the logic of belief change”, or “the AGM theory of belief revision” (Alchourrón, Gändenfors, & Makinson 1985; cf. Alchourrón & Makinson 1982, 1985, 1986)[^alchourrón-1982]. The AGM theory identifies three types of belief change: expansion, contraction, and revision, focusing on the last two. Roughly put, expansion consists in adding to a given belief set a new belief that does not conflict with the current beliefs of the set; contraction involves removing a belief from the set; and revision amounts to adding a new belief to the set and removing others from it so that the resulting set stays consistent. The AGM theory proposes six basic and two supplementary postulates for each of the two operations of contraction and revision that every appropriate belief-change method must satisfy. Since its appearance in 1985, the AGM theory has had a tremendous impact on subsequent discussions of belief change, becoming the predominant paradigm, even though some of its main assumptions have been questioned and several modifications or extensions of it have been proposed (for an overview, see Arló-Costa & Fermé 2010 and Hansson 2011; see also Fermé & Hansson 2011, which is a special issue on the occasion of the 25 years of the AGM theory)[^arló-costa-2010][^arló-costa-2010-2][^arló-costa-2011][^fermé-2011][^hansson-2011]. The theory has also had a considerable influence on research on artificial intelligence (on which see Carnota & Rodríguez 2010)[^carnota-2010]. Towards the end of his life, Alchourrón’s work focused on the logic of defeasible conditionals (Alchourrón 1993, 1995, 1996; see Fermé & Rodríguez 2006 for an analysis of his theory of conditionals)[^alchourrón-1993][^fermé-2006].
+    step1: |-
+      阿尔丘龙的主要研究路线是信念变更理论，它基本上处理这样的问题：信念集应如何依新信息更新。1985 年，他与彼得·加登福斯、大卫·梅金森发表一篇奠基性文章，提出一套公理化理论，后来被称为“AGM 信念变更理论”“AGM 信念变更逻辑”或“AGM 信念修正理论”（Alchourrón, Gändenfors, & Makinson 1985; 参 Alchourrón & Makinson 1982, 1985, 1986）[^alchourrón-1982]。AGM 理论区分三类信念变更：扩充、收缩与修正，重点关注后两类。粗略地说，扩充是向给定信念集加入一个与集内现有信念不冲突的新信念；收缩是从集中移除一个信念；修正则是向集内加入新信念并移除其他信念，使所得集合保持一致。AGM 理论为收缩与修正这两种运算各提出六个基本公设与两个补充公设，任何恰当的信念变更方法都必须满足。自 1985 年问世以来，AGM 理论对随后的信念变更讨论影响巨大，成为主流范式，尽管其某些主要假定受到质疑，也提出了若干修改或扩展（概述见 Arló-Costa & Fermé 2010 与 Hansson 2011；另见 Fermé & Hansson 2011，那是 AGM 理论二十五周年专号）[^arló-costa-2010][^arló-costa-2010-2][^arló-costa-2011][^fermé-2011][^hansson-2011]。该理论对人工智能研究也有相当影响（见 Carnota & Rodríguez 2010）[^carnota-2010]。晚年，阿尔丘龙的工作集中于可废止条件句的逻辑（Alchourrón 1993, 1995, 1996；其条件句理论的分析见 Fermé & Rodríguez 2006）[^alchourrón-1993][^fermé-2006]。
+    step2: |-
+      阿尔丘龙的主攻方向是信念变更理论，其基本问题是：信念集该怎样依新信息更新。1985 年，他与彼得·加登福斯、大卫·梅金森合发一篇奠基之作，提出一套公理化理论，后世称之为“AGM 信念变更理论”“AGM 信念变更逻辑”或“AGM 信念修正理论”（Alchourrón, Gändenfors, & Makinson 1985；参 Alchourrón & Makinson 1982, 1985, 1986）[^alchourrón-1982]。AGM 理论把信念变更分为三类：扩充、收缩、修正，而重心在后两类。粗略言之：扩充是往既定信念集里添入一个与集内诸信念不相冲突的新信念；收缩是从集中撤去一个信念；修正是添入新信念、同时撤去其他信念，使所得之集保持融贯。收缩与修正这两种运算，AGM 各设六个基本公设与两个补充公设，凡恰当的信念变更方法皆须满足。1985 年问世以来，AGM 理论对信念变更的后续讨论影响极大，成为主流范式——尽管其中若干主要假定已遭质疑，修改与扩展之议亦层出不穷（综述见 Arló-Costa & Fermé 2010、Hansson 2011；另见 Fermé & Hansson 2011，为 AGM 理论二十五周年专号）[^arló-costa-2010][^arló-costa-2010-2][^arló-costa-2011][^fermé-2011][^hansson-2011]。它对人工智能研究也颇有影响（见 Carnota & Rodríguez 2010）[^carnota-2010]。晚年，阿尔丘龙专注于可废止条件句的逻辑（Alchourrón 1993, 1995, 1996；其条件句理论之分析见 Fermé & Rodríguez 2006）[^alchourrón-1993][^fermé-2006]。
+  - id: 43
+    kind: body
+    source: |-
+      A second key contributor to the development of formal epistemology, not only in Latin America but worldwide, was Horacio Arló-Costa (1956–2011). Born in Montevideo (Uruguay), he pursued his undergraduate studies at UBA, obtaining his B.A. in philosophy under the supervision of Alchourrón, and was a member of Alchourrón’s logic group since its founding. He later on obtained his Ph.D. in philosophy at Columbia University under the supervision of Isaac Levi, with whom he would collaborate in a number of publications. From 1997 until his death, he worked at Carnegie Mellon University, where he helped found the Center for Formal Epistemology. Arló-Costa made significant contributions to the study of the logic of belief change (Arló-Costa 1990, 2006; Arló-Costa & Levi 2006)[^arló-costa-1990][^arló-costa-2006][^arló-costa-2006-2], conditionals (Arló-Costa 1995, 1999; Arló-Costa & Levi 1996)[^arló-costa-1995][^arló-costa-1996][^arló-costa-1995-2][^arló-costa-1996-2], Bayesian epistemology (Arló-Costa 2001, Arló-Costa & Thomason 2001, Arló-Costa & Parikh 2005, Arló-Costa & Pedersen 2012)[^arló-costa-2001][^arló-costa-2005][^arló-costa-2012][^arló-costa-2001-2], and rationality and decision theory (Arló-Costa 1996; Arló-Costa, Collins, & Levi 1995; Arló-Costa & Helzner 2010; Arló-Costa & Pedersen 2011, 2013)[^arló-costa-1996][^arló-costa-2010][^arló-costa-2010-2][^arló-costa-1996-2][^arló-costa-2011]. (For a brief presentation of Arló-Costa’s original contributions to those subjects as well as to modal logic, see Cresto 2011.)[^cresto-2011]
+    step1: |-
+      形式认识论发展的第二位关键贡献者，不仅对拉美、而且对全世界而言，是奥拉西奥·阿尔洛-科斯塔（1956–2011）。他生于乌拉圭蒙得维的亚，在 UBA 读本科，在阿尔丘龙指导下取得哲学学士，并自该逻辑小组成立起便是成员。后来他在哥伦比亚大学在艾萨克·列维指导下取得哲学博士，并与列维合作发表多种论著。1997 年起直至去世，他在卡内基梅隆大学工作，并协助创办了形式认识论中心。阿尔洛-科斯塔在信念变更逻辑（Arló-Costa 1990, 2006; Arló-Costa & Levi 2006）[^arló-costa-1990][^arló-costa-2006][^arló-costa-2006-2]、条件句（Arló-Costa 1995, 1999; Arló-Costa & Levi 1996）[^arló-costa-1995][^arló-costa-1996][^arló-costa-1995-2][^arló-costa-1996-2]、贝叶斯认识论（Arló-Costa 2001, Arló-Costa & Thomason 2001, Arló-Costa & Parikh 2005, Arló-Costa & Pedersen 2012）[^arló-costa-2001][^arló-costa-2005][^arló-costa-2012][^arló-costa-2001-2]、以及合理性与决策论（Arló-Costa 1996; Arló-Costa, Collins, & Levi 1995; Arló-Costa & Helzner 2010; Arló-Costa & Pedersen 2011, 2013）[^arló-costa-1996][^arló-costa-2010][^arló-costa-2010-2][^arló-costa-1996-2][^arló-costa-2011] 等方面都有重要贡献。（关于阿尔洛-科斯塔在这些题目以及模态逻辑上的原创贡献的简要介绍，见 Cresto 2011。）[^cresto-2011]
+    step2: |-
+      形式认识论发展的第二位关键人物，于拉美、于世界皆然，是奥拉西奥·阿尔洛-科斯塔（1956–2011）。他生于蒙得维的亚，本科就读于 UBA，在阿尔丘龙指导下取得哲学学士，自逻辑小组成立即为成员。其后赴哥伦比亚大学，在艾萨克·列维指导下获哲学博士，并屡与列维合作发表。1997 年起至去世，他在卡内基梅隆大学任职，并参与创办形式认识论中心。他的重要贡献遍及信念变更逻辑（Arló-Costa 1990, 2006; Arló-Costa & Levi 2006）[^arló-costa-1990][^arló-costa-2006][^arló-costa-2006-2]、条件句（Arló-Costa 1995, 1999; Arló-Costa & Levi 1996）[^arló-costa-1995][^arló-costa-1996][^arló-costa-1995-2][^arló-costa-1996-2]、贝叶斯认识论（Arló-Costa 2001, Arló-Costa & Thomason 2001, Arló-Costa & Parikh 2005, Arló-Costa & Pedersen 2012）[^arló-costa-2001][^arló-costa-2005][^arló-costa-2012][^arló-costa-2001-2] 与合理性及决策论（Arló-Costa 1996; Arló-Costa, Collins, & Levi 1995; Arló-Costa & Helzner 2010; Arló-Costa & Pedersen 2011, 2013）[^arló-costa-1996][^arló-costa-2010][^arló-costa-2010-2][^arló-costa-1996-2][^arló-costa-2011]。（关于他在这些问题及模态逻辑上的原创贡献，Cresto 2011 有简要介绍。）[^cresto-2011]
+  - id: 44
+    kind: body
+    source: |-
+      Another former student of Alchourrón to be mentioned is the Argentinian Eduardo Fermé (b. 1964), who was also a member of Alchourrón’s group when it became interdisciplinary. Currently a professor at the Universidad de Madeira (Portugal), he obtained his B.A. and Ph.D. in computer science at UBA, and his Ph.D. in philosophy at the Royal Institute of Technology (Sweden). Fermé’s research has focused mainly on theory contraction and on epistemic entrenchment, extending or modifying in several of his publications the AGM theory (Fermé 1998, 2000, 2001; Fermé & Hansson 1999; Fermé & Reis 2013)[^fermé-1998][^fermé-1999][^fermé-2013].
+    step1: |-
+      另一位应提及的阿尔丘龙旧学生是阿根廷人爱德华多·费尔梅（1964 年生），在该小组转为跨学科时也是成员。他现任葡萄牙马德拉大学教授，在 UBA 取得计算机科学学士与博士，并在瑞典皇家理工学院取得哲学博士。费尔梅的研究主要集中于理论收缩与认知固化，在多篇论著中扩展或修改了 AGM 理论（Fermé 1998, 2000, 2001; Fermé & Hansson 1999; Fermé & Reis 2013）[^fermé-1998][^fermé-1999][^fermé-2013]。
+    step2: |-
+      还应提及阿尔丘龙的另一位旧学生：阿根廷人爱德华多·费尔梅（1964 年生），小组转为跨学科时他也在其中。他现任葡萄牙马德拉大学教授；计算机科学学士与博士得自 UBA，哲学博士得自瑞典皇家理工学院。费尔梅主治理论收缩与认知固化，多次著文扩展或修改 AGM 理论（Fermé 1998, 2000, 2001; Fermé & Hansson 1999; Fermé & Reis 2013）[^fermé-1998][^fermé-1999][^fermé-2013]。
+  - id: 45
+    kind: body
+    source: |-
+      A leading international specialist in database theory, the Argentinian Alberto Mendelzon (1951–2005), also deserves a mention because of his key contribution to the theory of belief change. He obtained a B.Sc. from UBA as well as a M.S.E., a M.A., and a Ph.D. from Princeton University. From 1980 until his death, he taught at the University of Toronto. He also contributed to the creation of UBA’s computer science department in the early 1980s. In 1992 he published, together with Hirofumi Katsuno, a highly influential paper that addresses the issue of updating knowledge bases (Katsuno & Mendelzon 1992)[^katsuno-1992]. They distinguished between two kinds of modification to a knowledge base: *update* and *revision*. While the former consists in bringing the knowledge base up to date when the world it describes changes, the latter consists in modifying the knowledge base when new information about a static world is acquired. Mendelzon and Katsuno claimed that the AGM postulates describe only *revision* and hence that, in order to describe *update*, the AGM theory should be considerably modified by adding new postulates. (On Mendelzon’s work on belief change, see also Katsuno & Mendelzon 1989 and 1991.)[^katsuno-1989][^katsuno-1991]
+    step1: |-
+      国际知名的数据库理论专家、阿根廷人阿尔贝托·门德尔松（1951–2005）也值得提及，因为他对信念变更理论有重要贡献。他在 UBA 取得理学士，并在普林斯顿大学取得理学硕士、文学硕士与博士。自 1980 年起直至去世，他在多伦多大学任教。他还在 1980 年代早期参与创建 UBA 计算机科学系。1992 年，他与 Hirofumi Katsuno 发表一篇影响极大的论文，处理知识库更新问题（Katsuno & Mendelzon 1992）[^katsuno-1992]。他们区分了对知识库的两种修改：*更新* 与 *修正*。前者是在所描述的世界变化时使知识库跟上时势；后者是在获得关于静态世界的新信息时修改知识库。门德尔松与 Katsuno 主张，AGM 公设只描述 *修正*，故要描述 *更新*，必须通过增加新公设而对 AGM 理论作相当修改。（关于门德尔松的信念变更工作，另见 Katsuno & Mendelzon 1989 与 1991。）[^katsuno-1989][^katsuno-1991]
+    step2: |-
+      还有一位值得提及：国际知名的数据库理论专家、阿根廷人阿尔贝托·门德尔松（1951–2005），他对信念变更理论贡献甚大。理学士得自 UBA，理学硕士、文学硕士与博士得自普林斯顿大学。1980 年起至去世，他在多伦多大学执教，1980 年代初还参与创办了 UBA 的计算机科学系。1992 年，他与 Hirofumi Katsuno 合发一文，影响极大，专论知识库的更新（Katsuno & Mendelzon 1992）[^katsuno-1992]。二人把对知识库的修改分为两种：**更新** 与 **修正**。前者是在所描述的世界发生变化时，让知识库跟上时势；后者是在获得关于静态世界的新信息时，改动知识库。他们主张：AGM 公设所描述的只是 **修正**；要描述 **更新**，就得为 AGM 理论增补新公设，作相当大的改动。（门德尔松的信念变更工作，另见 Katsuno & Mendelzon 1989、1991。）[^katsuno-1989][^katsuno-1991]
+  - id: 46
+    kind: body
+    source: |-
+      Regarding formal epistemology in Argentina, one may finally refer to a number of works by Eleonora Cresto, who completed her Ph.D. under the supervision of Isaac Levi. Her first publications in the field were concerned with formal belief-revision theories (Cresto 2008, 2010b)[^cresto-2008]. She later on offered a defense of a moderate version of the so-called KK principle—according to which if *S* knows that *p*, then *S* knows that she knows that *p*—as a normative rather than descriptive epistemic principle. Her defense of such a principle of epistemic transparency is different from that traditionally proposed by epistemic internalists inasmuch as her argument is a formal one that appeals to lower- and higher-order probabilities (Cresto 2012)[^cresto-2012]. Cresto’s more recent research in the subfield of formal epistemology focuses on such topics as group knowledge and probability aggregation (Cresto 2015a, 2016, 2017)[^cresto-2015a].
+    step1: |-
+      关于阿根廷的形式认识论，最后可提到埃莱奥诺拉·克雷斯托的若干工作，她在艾萨克·列维指导下完成博士论文。她在此领域的首批论著关注形式信念修正理论（Cresto 2008, 2010b）[^cresto-2008]。后来她为所谓 KK 原则的温和版本辩护——按此原则，若 *S* 知道 *p*，则 *S* 知道自己知道 *p*——把它作为规范性而非描述性的认识论原则。她对这一认知透明性原则的辩护不同于认知内在主义者传统上提出的辩护，因为她的论证是形式论证，诉诸低阶与高阶概率（Cresto 2012）[^cresto-2012]。克雷斯托在形式认识论分支中较晚近的研究，聚焦群体知识与概率聚合等主题（Cresto 2015a, 2016, 2017）[^cresto-2015a]。
+    step2: |-
+      阿根廷形式认识论的最后一位，可举埃莱奥诺拉·克雷斯托，其博士论文由艾萨克·列维指导。她在这一领域的首批论著讨论形式信念修正理论（Cresto 2008, 2010b）[^cresto-2008]。后来她为所谓 KK 原则的温和版辩护——按此原则，*S* 若知道 *p*，便知道自己知道 *p*——但把它当作规范性的而非描述性的认识论原则。她对这条认知透明性原则的辩护，与认知内在主义者的传统辩护不同：她的论证是形式的，诉诸低阶与高阶概率（Cresto 2012）[^cresto-2012]。她较晚近的形式认识论研究，围绕群体知识与概率聚合等题目（Cresto 2015a, 2016, 2017）[^cresto-2015a]。
+  - id: 47
+    kind: body
+    source: |-
+      Research in formal epistemology has also been important in Brazil, where several researchers from artificial intelligence and computer science have examined the application of belief-change theory to various areas. Among them one may mention Odinaldo Rodrigues (b. 1968) and Renata Wassermann (b. 1971).
+    step1: |-
+      形式认识论研究在巴西也很重要，若干来自人工智能与计算机科学的研究者考察了信念变更理论在各领域的应用。其中可提及奥迪纳尔多·罗德里格斯（1968 年生）与雷纳塔·瓦瑟曼（1971 年生）。
+    step2: |-
+      形式认识论在巴西同样有分量：一批人工智能与计算机科学出身的研究者，考察信念变更理论在各领域的应用。其中可举奥迪纳尔多·罗德里格斯（1968 年生）与雷纳塔·瓦瑟曼（1971 年生）。
+  - id: 48
+    kind: body
+    source: |-
+      Rodrigues, who has been teaching at King’s College London since 1998, obtained his B.Sc. in computer science at the Universidade de Fortaleza, his MSc in computer science at the Universidade Federal do Rio de Janeiro, and his Ph.D. in computing at Imperial College London. He has applied the principles of belief change to non-classical logics, software engineering, and social choice theory (Gabbay & Rodrigues 1996; Gabbay, Pigozzi, & Rodrigues 2006, 2007; Gabbay, Rodrigues, & Russo 2008; Gabbay, Rodrigues, & Pigozzi 2009)[^gabbay-1996].
+    step1: |-
+      罗德里格斯自 1998 年起在伦敦国王学院任教，在福塔莱萨大学取得计算机科学理学士，在里约热内卢联邦大学取得计算机科学硕士，在伦敦帝国学院取得计算机博士学位。他把信念变更原理应用于非经典逻辑、软件工程与社会选择理论（Gabbay & Rodrigues 1996; Gabbay, Pigozzi, & Rodrigues 2006, 2007; Gabbay, Rodrigues, & Russo 2008; Gabbay, Rodrigues, & Pigozzi 2009）[^gabbay-1996]。
+    step2: |-
+      罗德里格斯 1998 年起执教于伦敦国王学院；计算机科学理学士得自福塔莱萨大学，计算机科学硕士得自里约热内卢联邦大学，计算机博士得自伦敦帝国学院。他把信念变更原理用于非经典逻辑、软件工程与社会选择理论（Gabbay & Rodrigues 1996; Gabbay, Pigozzi, & Rodrigues 2006, 2007; Gabbay, Rodrigues, & Russo 2008; Gabbay, Rodrigues, & Pigozzi 2009）[^gabbay-1996]。
+  - id: 49
+    kind: body
+    source: |-
+      Wassermann obtained her B.Sc. in computer science and her M.Sc. in applied mathematics at the Universidade de São Paulo (USP), and her Ph.D. in computer science at the University of Amsterdam. She is at present a professor at USP’s computer science department and a member of the research group “Lógica, Inteligência Artificial e Métodos Formais” (LIAMF), which was founded in 2000 at USP and is one of the most active Latin American groups working on belief change. Wassermann has published extensively in this field, examining local belief change and applying the AGM theory to non-classical logics and to computer science (Wassermann 1999; Chopra, Parikh, & Wassermann 2001; Hansson & Wassermann 2002; Ribeiro, Wassermann, Flouris, & Antoniou 2013; Wassermann & Ribeiro 2015)[^hansson-2002][^wassermann-1999][^wassermann-2015].
+    step1: |-
+      瓦瑟曼在圣保罗大学（USP）取得计算机科学理学士与应用数学硕士，在阿姆斯特丹大学取得计算机科学博士。她现任 USP 计算机科学系教授，并是研究小组“逻辑、人工智能与形式方法”（LIAMF）成员；该组 2000 年成立于 USP，是拉美研究信念变更最活跃的团队之一。瓦瑟曼在此领域发表甚多，考察局部信念变更，并将 AGM 理论应用于非经典逻辑与计算机科学（Wassermann 1999; Chopra, Parikh, & Wassermann 2001; Hansson & Wassermann 2002; Ribeiro, Wassermann, Flouris, & Antoniou 2013; Wassermann & Ribeiro 2015）[^hansson-2002][^wassermann-1999][^wassermann-2015]。
+    step2: |-
+      瓦瑟曼的计算机科学理学士与应用数学硕士得自圣保罗大学（USP），计算机科学博士得自阿姆斯特丹大学。她现任 USP 计算机科学系教授，也是研究组“逻辑、人工智能与形式方法”（LIAMF）成员——该组 2000 年成立于 USP，是拉美研究信念变更最活跃的团队之一。瓦瑟曼著述甚丰，考察局部信念变更，并把 AGM 理论用于非经典逻辑与计算机科学（Wassermann 1999; Chopra, Parikh, & Wassermann 2001; Hansson & Wassermann 2002; Ribeiro, Wassermann, Flouris, & Antoniou 2013; Wassermann & Ribeiro 2015）[^hansson-2002][^wassermann-1999][^wassermann-2015]。
+  - id: 50
+    kind: body
+    source: |-
+      ## 5. Wittgenstein: Epistemology and Skepticism
+    step1: |-
+      ## 5 维特根斯坦：认识论与怀疑论
+    step2: |-
+      ## 5 维特根斯坦：认识论与怀疑论
+  - id: 51
+    kind: body
+    source: |-
+      Another line of epistemological research in Latin America concerns Ludwig Wittgenstein’s thought. The first scholar to be mentioned is Alejandro Tomasini Bassols (b. 1952). A member of the Instituto de Investigaciones Filosóficas at the Universidad Autónoma de México, he has devoted a considerable part of his work to interpreting Wittgenstein’s thought and endorses what he describes as “a radical Wittgensteinism”. Although from the vantage point of the numerous Anglophone specialists on Wittgenstein his writings might not offer original insights, they have contributed to the dissemination of the Austrian philosopher’s thought in the Spanish-speaking world. In his 2001 book, Tomasini Bassols examines the concept of knowledge, the problem of skepticism, and various issues concerning perception, memory, self-knowledge, personal identity, and truth by contrasting the “classical” and the Wittgensteinian approaches to each of those questions. Availing himself primarily of the epistemological considerations found in *On Certainty*, his main contention is that the type of grammatical analysis proposed by Wittgenstein shows that the traditional problems that classical epistemology intended to solve through the construction of elaborate theories are nothing but pseudo-problems arising from conceptual misunderstandings. For this reason, he contends, it is no longer possible to continue to practice epistemology the way it was practiced before Wittgenstein.
+    step1: |-
+      拉美另一条认识论研究路线关涉路德维希·维特根斯坦的思想。首先要提及的学者是亚历杭德罗·托马西尼·巴索尔斯（1952 年生）。他是墨西哥自治大学哲学研究所成员，相当一部分工作致力于解释维特根斯坦的思想，并自称持“一种激进的维特根斯坦主义”。尽管从众多英语世界维特根斯坦专家的眼光看，他的著作或许没有原创洞见，却有助于这位奥地利哲学家的思想在西班牙语世界的传播。在 2001 年的著作中，托马西尼·巴索尔斯通过对比“古典”进路与维特根斯坦式进路，考察知识概念、怀疑论问题，以及涉及知觉、记忆、自我知识、人格同一性与真理的种种问题。他主要借助《论确定性》中的认识论考量，核心主张是：维特根斯坦所提议的那种语法分析表明，古典认识论打算通过构造精巧理论来解决的传统问题，不过是源于概念误解的伪问题。因此，他主张，已不可能再按维特根斯坦之前的方式从事认识论。
+    step2: |-
+      拉美的另一条认识论路线，关涉路德维希·维特根斯坦。首先要说的是亚历杭德罗·托马西尼·巴索尔斯（1952 年生）：墨西哥自治大学哲学研究所成员，相当一部分工作用于解读维特根斯坦，自称持“一种激进的维特根斯坦主义”。在众多英语世界维特根斯坦专家看来，他的著作或许并无原创洞见，却推动了这位奥地利哲学家的思想在西班牙语世界的传播。其 2001 年著作以“古典”进路与维特根斯坦式进路对照，逐一考察知识概念、怀疑论问题，以及知觉、记忆、自我知识、人格同一性、真理诸问题。他主要取材于《论确定性》中的认识论考量，核心主张是：维特根斯坦所倡导的语法分析表明，古典认识论欲以精巧理论解决的那些传统问题，不过是概念误解所生的伪问题。因此，按维特根斯坦之前的方式再做认识论，已不可能。
+  - id: 52
+    kind: body
+    source: |-
+      In Colombia, one finds several scholars interested in Wittgenstein’s philosophy, among whom one should mention Magdalena Holguín (b. 1950) and Raúl Meléndez (b. 1964). Holguín obtained her B.A. and M.A. in philosophy from Georgetown University, her M.A. in law from the Universidad de los Andes (Colombia), and her Ph.D. in philosophy from Columbia University. She taught at the Universidad de los Andes and the Universidad Nacional de Colombia. In her short 1997 book, she explores Wittgenstein’s stance on certain skeptical problems. After presenting Wittgenstein’s view that philosophy is not a theory or a doctrine but an activity, as well as the changes in his conception of philosophy over the different phases of his thought, Holguín examines the distinction between appearance and reality, the distinction between subjective and objective, and the idea, shared by skeptics and dogmatists but rejected by Wittgenstein as being based on confusion, that knowledge requires an ultimate foundation. (It should be noted that skeptics of a Pyrrhonian stripe suspend judgment about whether knowledge requires an ultimate foundation.)
+    step1: |-
+      在哥伦比亚，有数位学者对维特根斯坦哲学感兴趣，其中应提及玛格达莱娜·奥尔金（1950 年生）与劳尔·梅伦德斯（1964 年生）。奥尔金在乔治敦大学取得哲学学士与硕士，在安第斯大学（哥伦比亚）取得法学硕士，在哥伦比亚大学取得哲学博士。她曾在安第斯大学与哥伦比亚国立大学任教。在其 1997 年的短篇著作中，她探讨维特根斯坦对某些怀疑论问题的立场。她先呈现维特根斯坦的观点——哲学不是理论或学说，而是一种活动——以及其哲学观在其思想各阶段的变化，然后考察显象与实在之别、主观与客观之别，以及一个为怀疑论者与独断论者共有、却被维特根斯坦斥为基于混淆的观念：知识需要一个终极基础。（须注意，皮浪主义一路的怀疑论者对“知识是否需要终极基础”悬置判断。）
+    step2: |-
+      哥伦比亚有数位学者留心维特根斯坦，可举玛格达莱娜·奥尔金（1950 年生）与劳尔·梅伦德斯（1964 年生）。奥尔金的哲学学士与硕士得自乔治敦大学，法学硕士得自安第斯大学（哥伦比亚），哲学博士得自哥伦比亚大学；她先后执教于安第斯大学与哥伦比亚国立大学。其 1997 年的小书探讨维特根斯坦对若干怀疑论问题的立场：先述其“哲学不是理论或学说，而是一种活动”之见，及其哲学观在各思想阶段的变迁；继而考察显象与实在之别、主观与客观之别，以及一个为怀疑论者与独断论者共持、却被维特根斯坦斥为混淆之产的观念——知识需要一个终极基础。（须注意：皮浪主义一路的怀疑论者，对“知识是否需要终极基础”是悬置判断的。）
+  - id: 53
+    kind: body
+    source: |-
+      Meléndez is a professor at the Universidad Nacional de Colombia, where he also obtained his Ph.D. in philosophy. In his 1998 book, he explores the notion of truth from the vantage point of Wittgenstein’s later philosophy, although he also takes into account the conception of truth defended in the *Tractatus*. Meléndez’s main aim is to call into question the attempts to construct a general theory of truth that would make it rest on an ultimate and unshakable foundation. In a later publication, he discusses Wittgenstein’s examination of the notions of justification, persuasion, and world-picture (*Weltbild*) in *On Certainty*, focusing on whether world-pictures are taken to be incommensurable and hence on whether Wittgenstein endorses a form of epistemic relativism (Meléndez 2014)[^meléndez-2014].
+    step1: |-
+      梅伦德斯是哥伦比亚国立大学教授，也在该校取得哲学博士。在其 1998 年的著作中，他从维特根斯坦后期哲学的视角探讨真理概念，同时也考虑《逻辑哲学论》所捍卫的真理观。梅伦德斯的主要目标是质疑那些试图构造一般真理理论、使之立足于某个终极而不可动摇的基础的尝试。在后来的论著中，他讨论维特根斯坦在《论确定性》中对辩护、说服与世界图景（*Weltbild*）诸概念的考察，聚焦于世界图景是否被视为不可通约，因而维特根斯坦是否持某种认知相对主义（Meléndez 2014）[^meléndez-2014]。
+    step2: |-
+      梅伦德斯是哥伦比亚国立大学教授，哲学博士亦得自该校。其 1998 年著作从后期维特根斯坦的视角探讨真理概念，兼及《逻辑哲学论》所持的真理观。他要质疑的，是那些构造一般真理理论、并使之奠基于某个终极而不可动摇之基础的尝试。后来的论著讨论维特根斯坦在《论确定性》中对辩护、说服与世界图景（*Weltbild*）的考察，焦点在于：世界图景是否被视为彼此不可通约，从而维特根斯坦是否持某种认知相对主义（Meléndez 2014）[^meléndez-2014]。
+  - id: 54
+    kind: body
+    source: |-
+      It should finally be pointed out that in Brazil there has been some discussion of the philosophical connections between Wittgenstein’s thought and Pyrrhonian skepticism—a comparison first made, to the best of my knowledge, by Richard Watson (1969) and Robert Fogelin (1981). Plínio Junqueira Smith (1993) has claimed that there are strong similarities between Wittgenstein’s later philosophy and the Pyrrhonism expounded in Sextus Empiricus’s surviving works. For instance, according to Smith, both reject the conception of philosophy as a theory that provides us with knowledge of the essence of things that lies beneath their surface, conceiving of it instead as an ability and a therapeutic practice whose function is negative and critical. Smith’s interpretation was later on called into question by Paulo Roberto Margutti Pinto—currently a professor at the Faculdade Jesuíta de Filosofia e Teologia—who maintained that, although there exist similarities, they are merely superficial while the differences are radical: e.g., while the Pyrrhonist accepts that there are philosophical problems to be solved, Wittgenstein dissolves them by appealing to the way in which words are used in ordinary language (Margutti Pinto 1996)[^margutti-1996].
+    step1: |-
+      最后应指出，巴西曾有关于维特根斯坦思想与皮浪主义怀疑论之哲学关联的讨论——据我所知，这一比较最早由理查德·沃森（1969）与罗伯特·福格林（1981）提出。普利尼奥·荣凯拉·史密斯（1993）主张，维特根斯坦后期哲学与塞克斯都·恩披里柯现存著作所阐述的皮浪主义有强烈相似之处。例如，据史密斯，二者都拒斥把哲学视为提供关于事物表层之下本质之知识的理论，而视之为一种能力与治疗实践，其功能是否定性的、批判性的。史密斯的解释后来受到保罗·罗贝托·马尔古蒂·平托的质疑——他现任耶稣会哲学与神学院教授——后者主张，虽有相似，却仅浮于表面，差异则是根本的：例如，皮浪主义者承认有哲学问题待解决，维特根斯坦则诉诸日常语言中词语的用法，将其消解（Margutti Pinto 1996）[^margutti-1996]。
+    step2: |-
+      最后应指出，巴西讨论过维特根斯坦思想与皮浪主义怀疑论的哲学关联——据我所知，这一比较最早见于理查德·沃森（1969）与罗伯特·福格林（1981）。普利尼奥·荣凯拉·史密斯（1993）主张，后期维特根斯坦与塞克斯都·恩披里柯现存著作中的皮浪主义，相似之处甚强。例如据他看，二者都拒斥把哲学当作提供表层之下事物本质之知识的理论，而视之为一种能力、一种治疗实践，其功能是否定性的、批判性的。史密斯的解释后来受到保罗·罗贝托·马尔古蒂·平托的质疑。马尔古蒂·平托现任耶稣会哲学与神学院教授，他认为相似只是表面的，差异才是根本的：皮浪主义者承认有哲学问题有待解决，维特根斯坦却诉诸日常语言中词语的用法，把问题消解掉（Margutti Pinto 1996）[^margutti-1996]。
+  - id: 55
+    kind: body
+    source: |-
+      ## 6. Epistemology of Law
+    step1: |-
+      ## 6 法律认识论
+    step2: |-
+      ## 6 法律认识论
+  - id: 56
+    kind: body
+    source: |-
+      We can also briefly refer to an area that has received some attention in recent years, namely, the epistemology of law. In this area, we can mention the work of Andrés Páez and Eleonora Cresto.
+    step1: |-
+      还可以简要提及近年受到一些关注的领域，即法律认识论。在此领域，可提及安德烈斯·帕埃斯与埃莱奥诺拉·克雷斯托的工作。
+    step2: |-
+      还有一个近年稍受关注的领域，可略作交代：法律认识论。此地可举安德烈斯·帕埃斯与埃莱奥诺拉·克雷斯托的工作。
+  - id: 57
+    kind: body
+    source: |-
+      Páez obtained his B.A. in philosophy from the Universidad de los Andes (Colombia) and his M.A. and Ph.D. in philosophy from The City University of New York. He is currently a professor at the Universidad de los Andes. While in Páez (2014) he examines the relevance of the epistemological debate between reductionism and anti-reductionism about testimony to the problem of the reliability of testimonial evidence by focusing on both Colombian and American legislation, in Páez (2016) he explores the nature of legal reputation from the point of view of social epistemology by considering recent views on group beliefs.
+    step1: |-
+      帕埃斯在安第斯大学（哥伦比亚）取得哲学学士，在纽约城市大学取得哲学硕士与博士。他现任安第斯大学教授。Páez（2014）考察关于证言的还原论与反还原论之争对证言证据可靠性问题的意义，聚焦哥伦比亚与美国立法；Páez（2016）则从社会认识论视角探讨法律声誉的本性，考察晚近关于群体信念的观点。
+    step2: |-
+      帕埃斯的哲学学士得自安第斯大学（哥伦比亚），哲学硕士与博士得自纽约城市大学，现任安第斯大学教授。Páez（2014）以哥伦比亚与美国的立法为据，考察证言问题上还原论与反还原论之争对证言证据可靠性问题的意义；Páez（2016）则从社会认识论的角度探讨法律声誉的本性，参酌晚近关于群体信念的种种看法。
+  - id: 58
+    kind: body
+    source: |-
+      We have already discussed Cresto’s work in epistemology in previous sections. Concerning the epistemology of law, while Cresto (2015b) outlines a theory of evidence in the legal context by focusing on a particular model of the inference to the best explanation that is based on elements of decision theory, Cresto (2016) proposes a solution to the problem of judgment aggregation that can be applied to the problem of opinion aggregation in the context of a court of appeals or a jury.
+    step1: |-
+      前几节已讨论克雷斯托的认识论工作。就法律认识论而言，Cresto（2015b）勾勒一种法律语境中的证据理论，聚焦于一种基于决策论要素的最佳解释推论模型；Cresto（2016）则提出一种判断聚合问题的解法，可用于上诉法院或陪审团语境中的意见聚合问题。
+    step2: |-
+      克雷斯托的认识论工作，前几节已述。就法律认识论而言，Cresto（2015b）勾勒法律语境中的一种证据理论，所据是建在决策论要素之上的最佳解释推论模型；Cresto（2016）则提出一种判断聚合难题的解法，可施用于上诉法院或陪审团语境中的意见聚合。
+  - id: 59
+    kind: body
+    source: |-
+      ## 7. Religious Epistemology
+    step1: |-
+      ## 7 宗教认识论
+    step2: |-
+      ## 7 宗教认识论
+  - id: 60
+    kind: body
+    source: |-
+      There is at present an emerging interest in religious epistemology among Latin American scholars. Such an interest has been fostered by several projects funded by the John Templeton Foundation, especially “LATAM Bridges in the Epistemology of Religion” (2019–2023), directed by Luis Oliveira at the University of Houston. This religiously neutral project consists in a series of activities intended to create bridges between North American philosophers working in analytic epistemology of religion and Latin American philosophers interested in engaging in research in that domain: organization of seminars on religious epistemology in Argentina, Brazil, and Chile; selection of scholars for mentoring and research fellowships; and establishment of prizes to incentivize scholarly activity. The ultimate goal of the project is to train several dozen Latin American scholars to do serious work on religious epistemology in their own universities—thus increasing the number of classes taught on it and the number of majors and grad students introduced to it—and to help them develop academic relationships with the North American philosophical community.
+    step1: |-
+      拉美学者目前对宗教认识论的兴趣正在兴起。这一兴趣由约翰·坦普尔顿基金会资助的若干项目培育而成，尤其是“宗教认识论中的拉美桥梁”（2019–2023），由休斯敦大学的路易斯·奥利维拉主持。这个宗教中立项目由一系列活动构成，意在为从事分析宗教哲学研究的北美哲学家与有志于此的拉美哲学家搭桥：在阿根廷、巴西与智利组织宗教认识论研讨会；遴选学者参加指导与研究资助；设立奖项以激励学术活动。项目的终极目标是训练数十名拉美学者，使其能在本校认真从事宗教认识论研究——从而增加相关课程数量、增加接触此领域的主修生与研究生——并帮助他们与北美哲学界建立学术联系。
+    step2: |-
+      拉美学者对宗教认识论的兴趣，眼下正在兴起。这兴趣多由约翰·坦普尔顿基金会资助的项目培育而来，尤以“宗教认识论中的拉美桥梁”（2019–2023）为要；该项目由休斯敦大学的路易斯·奥利维拉主持，立场宗教中立，由一系列活动组成，意在为做分析宗教哲学的北美哲学家与有意涉足此域的拉美哲学家牵线：在阿根廷、巴西、智利举办宗教认识论研讨会；遴选学者给予指导与研究资助；设奖以奖掖学术。项目的终极目标，是把数十名拉美学者训练到能在本校认真做宗教认识论的程度——相关课程因之增多，接触此域的主修生与研究生也随之增多——并帮他们与北美哲学界建立学术往来。
+  - id: 61
+    kind: body
+    source: |-
+      Worth mentioning are also two editorial projects. One is the publication of the first companion to contemporary philosophy of religion in the Spanish-speaking world (Rossi & Garcia forthcoming), which will include a section on the epistemic status of religious belief. One third of the contributions to this volume will be written by Latin American scholars working in the philosophy of religion, while the rest will be authored by North American and European scholars and translated into Spanish. The companion is intended to contribute to the development of Latin American scholarship in analytic philosophy of religion.
+    step1: |-
+      另有两个编辑项目值得一提。其一是出版西语世界第一部当代宗教哲学指南（Rossi & Garcia forthcoming），其中将包括一节讨论宗教信念的认识论地位。该文集三分之一的撰稿人将是研究宗教哲学的拉美学者，其余由北美与欧洲学者撰写并译为西班牙语。该指南意在促进拉美分析宗教哲学研究的发展。
+    step2: |-
+      另有两个编辑项目值得一提。一是西语世界首部当代宗教哲学指南的出版（Rossi & Garcia forthcoming），其中设一节讨论宗教信念的认识论地位。文集三分之一的文章出自拉美宗教哲学学者之手，其余由北美与欧洲学者撰写、再译为西班牙语。此指南意在推动拉美分析宗教哲学研究。
+  - id: 62
+    kind: body
+    source: |-
+      The second project is the edition of a special issue of the journal *Religious Studies* (Alvarado & Portugal forthcoming), which will bring together some of the results of various recent research projects on the existence and nature of God and the rationality or justification of religious beliefs and practices that have been funded by the Templeton Foundation. These projects were supported by two large grants aimed to foster systematic research in analytic philosophy of religion in both Spanish- and Portuguese-speaking Latin America.
+    step1: |-
+      第二个项目是《宗教研究》杂志的一期专号（Alvarado & Portugal forthcoming），将汇集若干近期研究项目的成果，这些项目研究上帝的存在与本性，以及宗教信念与实践的合理性或辩护，由坦普尔顿基金会资助。这些项目由两笔大额资助支持，旨在推动西语与葡语拉美的分析宗教哲学系统研究。
+    step2: |-
+      二是《宗教研究》杂志一期专号的编辑（Alvarado & Portugal forthcoming），将汇集若干近期项目的研究成果；这些项目由坦普尔顿基金会资助，研究上帝的存在与本性，以及宗教信念与实践的合理性或辩护。两笔大额资助支撑了这些项目，用意在推动西语与葡语拉美的分析宗教哲学走上系统研究的轨道。
+  - id: 63
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: |-
+      [Please contact the author with suggestions.]
+    step2: |-
+      ［欢迎向作者提出建议。］
+  - id: 64
+    kind: ack
+    source: |-
+      For their comments, I am grateful to an anonymous reviewer, Otávio Bueno, and Edward Zalta.
+    step1: |-
+      感谢一位匿名审稿人、奥塔维奥·布埃诺与 Edward Zalta 的评论。
+    step2: |-
+      承一位匿名审稿人、奥塔维奥·布埃诺与 Edward Zalta 惠赐评论，谨致谢忱。
+  - id: 65
+    kind: note
+    source: |-
+      [^note-1]: Although Sosa was born in Cuba and has had longstanding connections with the Latin American philosophical community, participating in colloquia and conferences in several Latin American countries, he was wholly educated and has pursued his entire academic career in the United States. Martín Alcoff was born in Panamá, but at the age of three she moved to the United States, where she obtained all of her degrees and has held all of her academic positions.
+    step1: |-
+      [^note-1]: 虽然索萨生于古巴，且与拉美哲学界有长期联系，在若干拉美国家参加学术研讨会与会议，但他完全在美国受教育，整个学术生涯也在美国。马丁·阿尔科夫生于巴拿马，但三岁时移居美国，所有学位均在美国取得，所有学术职位也都在美国。
+    step2: |-
+      [^note-1]: 索萨虽生于古巴，与拉美哲学界亦有长期往来，在若干拉美国家参加讨论会与会议；但他完全在美国受教育，整个学术生涯也在美国度过。马丁·阿尔科夫生于巴拿马，三岁即移居美国，学位皆在美国取得，学术职位亦皆在美国。

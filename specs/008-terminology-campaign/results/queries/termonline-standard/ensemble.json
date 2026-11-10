@@ -1,0 +1,54 @@
+{
+ "key": "ensemble",
+ "term": "ensemble",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-10T18:03:16+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=6",
+ "hits": [
+  {
+   "cn": "套装",
+   "en": "ensemble",
+   "code": "GB/T 38300—2019",
+   "standard": "防护服装 冷环境防护服",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "总成信号",
+   "en": "ensemble",
+   "code": "GB/T 7400—2011",
+   "standard": "广播电视术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "整套服装",
+   "en": "clothing ensemble",
+   "code": "GB/T 39605—2020",
+   "standard": "服装湿阻测试方法 出汗暖体假人法",
+   "subject": "服装工业"
+  },
+  {
+   "cn": "总成信号标识符",
+   "en": "ensemble identifier",
+   "code": "GB/T 7400—2011",
+   "standard": "广播电视术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "整套服装的透湿指数",
+   "en": "permeability index for a clothing ensemble",
+   "code": "GB/T 40288—2021",
+   "standard": "热环境的人类工效学 术语和符号",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "着装总蒸发阻力",
+   "en": "evaporative resistance of a clothing ensemble",
+   "code": "GB/T 40288—2021",
+   "standard": "热环境的人类工效学 术语和符号",
+   "subject": "环保、保健和安全"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2021\": 2, \"2020\": 1, \"2019\": 1, \"2011\": 2}, \"sourceStats\": {\"综合、术语学、标准化、文献\": 2, \"环保、保健和安全\": 3, \"服装工业\": 1}, \"typeStats\": {\"7\": 6}, \"totalRecords\": 6, \"tmWordList\": [{\"id\": \"0f7a9e05971240db8ee08766fdb64397\", \"databaseId\": null, \"standardId\": \"3fd72f0c9b0247c7b4dfe8f10ba59147\", \"standardCode\": \"GB/T 38300—2019\", \"standardName\": \"防护服装 冷环境防护服\", \"standardEnName\": \"Protective clothing-Ensembles and garments for protection against cold\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.4 \", \"cnName\": \"套装\", \"enName\": \"ensemble\", \"publishTime\": \"2019-12-10\", \"publishYear\": \"2019\", \"implementTime\": \"2020-07-01\", \"ics\": \"13.340.1013\", \"ccs\": \"c73\", \"parentTermId\": null, \"titleId\": null, \"oid\": 68365, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"套装\", \"cnNameSearch\": \"套装\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ensemble\", \"wordSearch\": \"ensemble\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"包括两件、单件(连体服)或多件服装的组合。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ebe154f24bfa4e79b97e8086744d257c\", \"databaseId\": null, \"standardId\": \"8c57580bcd594be2b2516923ee4479ad\", \"standardCode\": \"GB/T 7400—2011\", \"standardName\": \"广播电视术语\", \"standardEnName\": \"Radio and television terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.1421\", \"cnName\": \"总成信号\", \"enName\": \"ensemble\", \"publishTime\": \"2011-12-30\", \"publishYear\": \"2011\", \"implementTime\": \"2012-06-01\", \"ics\": \"01.040.33\", \"ccs\": \"M 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 148660, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"总成信号\", \"cnNameSearch\": \"总成信号\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ensemble\", \"wordSearch\": \"ensemble\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在数字音频广播（DAB）系统中，由一组规则且紧密相间的正交载波构成的传输信号。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"78a67b99c3684f9eb989a2e31061dcd0\", \"databaseId\": null, \"standardId\": \"4be23cbb05594444b486ede849237107\", \"standardCode\": \"GB/T 39605—2020\", \"standardName\": \"服装湿阻测试方法 出汗暖体假人法\", \"standardEnName\": \"Test method for measuring the evaporative resistance of clothing—Sweating manikin method\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"服装工业\", \"termCode\": \"3.1\", \"cnName\": \"整套服装\", \"enName\": \"clothing ensemble\", \"publishTime\": \"2020-12-14\", \"publishYear\": \"2020\", \"implementTime\": \"2021-07-01\", \"ics\": \"ICS 61.020\", \"ccs\": \"Y 75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 78644, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"整套服装\", \"cnNameSearch\": \"整套服装\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"clothing ensemble\", \"wordSearch\": \"clothing ensemble\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"按一定的次序穿在假人身上的一组服装。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b4caeac6b8be4272a35acc911773da61\", \"databaseId\": null, \"standardId\": \"8c57580bcd594be2b2516923ee4479ad\", \"standardCode\": \"GB/T 7400—2011\", \"standardName\": \"广播电视术语\", \"standardEnName\": \"Radio and television terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.1422\", \"cnName\": \"总成信号标识符\", \"enName\": \"ensemble identifier\", \"publishTime\": \"2011-12-30\", \"publishYear\": \"2011\", \"implementTime\": \"2012-06-01\", \"ics\": \"01.040.33\", \"ccs\": \"M 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 148354, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"总成信号标识符\", \"cnNameSearch\": \"总成信号标识符\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ensemble identifier\", \"wordSearch\": \"ensemble identifier\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在数字音频广播（DAB）中，分配给一个总成信号唯一的 16 比特码，并用来在全球范围内准确地标识该总成信号。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"117204eb21964b99b65b111b70820639\", \"databaseId\": null, \"standardId\": \"b1bff6048b34471fa22522182b50eba3\", \"standardCode\": \"GB/T 40288—2021\", \"standardName\": \"热环境的人类工效学 术语和符号\", \"standardEnName\": \"Ergonomics of the thermal environment—Vocabulary and symbols\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"2.76\", \"cnName\": \"整套服装的透湿指数\", \"enName\": \"permeability index for a clothing ensemble\", \"publishTime\": \"2021-05-21\", \"publishYear\": \"2021\", \"implementTime\": \"2021-12-01\", \"ics\": \"13.180\", \"ccs\": \"A 25\", \"parentTermId\": null, \"titleId\": null, \"oid\": 182585, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"整套服装的透湿指数\", \"cnNameSearch\": \"整套服装的透湿指数\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"permeability index for a clothing ensemble\", \"wordSearch\": \"permeability index for a clothing ensemble\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用整套服装的十表服总服装热阻（<em>I</em><sub>cl</sub>）与服装总湿阻（<em>R</em><sub>e，cl</sub>）的比值，再除以刘易斯数（16.5 K/kPa）得到。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>该指标是服装汗液蒸发特性的评价指标。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"adc3e0b706204bada67c7cd90c5ea039\", \"databaseId\": null, \"standardId\": \"b1bff6048b34471fa22522182b50eba3\", \"standardCode\": \"GB/T 40288—2021\", \"standardName\": \"热环境的人类工效学 术语和符号\", \"standardEnName\": \"Ergonomics of the thermal environment—Vocabulary and symbols\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"2.38\", \"cnName\": \"着装总蒸发阻力\", \"enName\": \"evaporative resistance of a clothing ensemble\", \"publishTime\": \"2021-05-21\", \"publishYear\": \"2021\", \"implementTime\": \"2021-12-01\", \"ics\": \"13.180\", \"ccs\": \"A 25\", \"parentTermId\": null, \"titleId\": null, \"oid\": 182658, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"着装总蒸发阻力\", \"cnNameSearch\": \"着装总蒸发阻力\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"evaporative resistance of a clothing ensemble\", \"wordSearch\": \"evaporative resistance of a clothing ensemble\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"覆盖整个身体表面服装热阻层、具有与标准（静态，无风）条件下实际着装相同蒸发热损失的水蒸气传输阻力。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1794333797304}"
+}

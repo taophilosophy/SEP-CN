@@ -1,0 +1,152 @@
+{
+ "key": "pointer observable",
+ "term": "pointer observable",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-10T18:04:16+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=25",
+ "hits": [
+  {
+   "cn": "可观测面积",
+   "en": "observable area",
+   "code": "GB/T 3163—2007",
+   "standard": "真空技术 术语",
+   "subject": "流体系统和通用件"
+  },
+  {
+   "cn": "指针",
+   "en": "pointer",
+   "code": "GB/T 6960.8—2021",
+   "standard": "拖拉机术语第8部分:电子控制系统",
+   "subject": "农业"
+  },
+  {
+   "cn": "指针",
+   "en": "pointer",
+   "code": "GB/T 15409—2008",
+   "standard": "同步数字体系信号的帧结构 ",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "指针",
+   "en": "pointer",
+   "code": "GB/T 5271.4—2000",
+   "standard": "信息技术  词汇  第4部分:数据的组织",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "可观测立体角",
+   "en": "observable solid angle",
+   "code": "GB/T 3163—2007",
+   "standard": "真空技术 术语",
+   "subject": "流体系统和通用件"
+  },
+  {
+   "cn": "约束指针",
+   "en": "restricted pointer",
+   "code": "GB/T 4092—2008",
+   "standard": "高山滑雪杖和旅行滑雪杖 要求和试验方法",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "激光指示器",
+   "en": "laser pointer",
+   "code": "GB/T 39118—2020",
+   "standard": "激光指示器产品光辐射安全要求",
+   "subject": "电子学"
+  },
+  {
+   "cn": "当前指针",
+   "en": "current pointer",
+   "code": "GB/T 5271.17—2010",
+   "standard": "信息技术 词汇 第17部分：数据库",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "空指针",
+   "en": "null pointer",
+   "code": "GB/T 5271.15—2008",
+   "standard": "信息技术  词汇 第15部分：编程语言",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "逻辑指针",
+   "en": "logical pointer",
+   "code": "GB/T 17579—1998",
+   "standard": "信息技术 开放系统互连 虚拟终端基本类服务",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "显示指针",
+   "en": "display pointer",
+   "code": "GB/T 17579—1998",
+   "standard": "信息技术 开放系统互连 虚拟终端基本类服务",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "指针式仪表",
+   "en": "pointer-type meter",
+   "code": "GB/T 50063—2017",
+   "standard": "电力装置电测量仪表装置设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "当前卷指针",
+   "en": "current volume pointer",
+   "code": "GB/T 4092—2008",
+   "standard": "高山滑雪杖和旅行滑雪杖 要求和试验方法",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "最大需量指针",
+   "en": "maximum demand pointer",
+   "code": "GB/T 22265—2008",
+   "standard": "直接作用模拟指示最大需量电流表",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "基本显示指针",
+   "en": "primitive display pointer",
+   "code": "GB/T 17579—1998",
+   "standard": "信息技术 开放系统互连 虚拟终端基本类服务",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "扩充显示指针",
+   "en": "extended display pointer",
+   "code": "GB/T 17579—1998",
+   "standard": "信息技术 开放系统互连 虚拟终端基本类服务",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "消费类激光指示器",
+   "en": "laser pointer for consumer",
+   "code": "GB/T 39118—2020",
+   "standard": "激光指示器产品光辐射安全要求",
+   "subject": "电子学"
+  },
+  {
+   "cn": "指针（用于编程语言）",
+   "en": "pointer (in programming languages)",
+   "code": "GB/T 5271.15—2008",
+   "standard": "信息技术  词汇 第15部分：编程语言",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "指针（类）型",
+   "en": "pointer type",
+   "code": "GB/T 5271.15—2008",
+   "standard": "信息技术  词汇 第15部分：编程语言",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "指针（用于计算机图形）",
+   "en": "pointer (in computer graphics)",
+   "code": "GB/T 5271.13—2008",
+   "standard": "信息技术 词汇 第13部分：计算机图形",
+   "subject": "信息技术、办公机械"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2021\": 3, \"2020\": 2, \"2010\": 1, \"2008\": 8, \"2007\": 2, \"2000\": 3, \"1998\": 5, \"暂无年份\": 1}, \"sourceStats\": {\"计量学和测量、物理现象\": 3, \"综合、术语学、标准化、文献\": 4, \"电子学\": 2, \"电信、音频和视频工程\": 1, \"流体系统和通用件\": 2, \"农业\": 1, \"其它\": 1, \"信息技术、办公机械\": 11}, \"typeStats\": {\"7\": 25}, \"totalRecords\": 25, \"tmWordList\": [{\"id\": \"cec896b7a9ec4b2eb1319b902c2eace0\", \"databaseId\": null, \"standardId\": \"782a48d229524237aff3cc6aa665da86\", \"standardCode\": \"GB/T 3163—2007\", \"standardName\": \"真空技术 术语\", \"standardEnName\": \"Vacuum technology - Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"流体系统和通用件\", \"termCode\": \"9.1.11\", \"cnName\": \"可观测面积\", \"enName\": \"observable area\", \"publishTime\": \"2007-12-20\", \"publishYear\": \"2007\", \"implementTime\": \"2008-06-01\", \"ics\": \"23.160\", \"ccs\": \"J78\", \"parentTermId\": null, \"titleId\": null, \"oid\": 124294, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"可观测面积\", \"cnNameSearch\": \"可观测面积\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"observable area\", \"wordSearch\": \"observable area\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"由指示仪显示的试样宏观表面发射部分。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6164e3d0d1894751b7061012e77e3143\", \"databaseId\": null, \"standardId\": \"04e854fd55964a7cb728462e2a7c04c5\", \"standardCode\": \"GB/T 6960.8—2021\", \"standardName\": \"拖拉机术语第8部分:电子控制系统\", \"standardEnName\": \"Tractor terminology-Part 8:Electronic control system\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.1.8.8\", \"cnName\": \"指针\", \"enName\": \"pointer\", \"publishTime\": \"2021-12-31\", \"publishYear\": \"2021\", \"implementTime\": \"2022-07-01\", \"ics\": \"65.060.1065\", \"ccs\": \"T60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 3416, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"指针\", \"cnNameSearch\": \"指针\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"pointer\", \"wordSearch\": \"pointer\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种标识内存读写操作的待测设备的编码。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"指针类型有内存直接寻址、定向空间寻址。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f34012bd014441a897cf6d1640a2e162\", \"databaseId\": null, \"standardId\": \"3be1faa48b7147d2bd99c2f50f49fee8\", \"standardCode\": \"GB/T 15409—2008\", \"standardName\": \"同步数字体系信号的帧结构 \", \"standardEnName\": \"Frame structure for synchronous digital hierarchy signal\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"3.5\", \"cnName\": \"指针\", \"enName\": \"pointer\", \"publishTime\": \"2008-10-29\", \"publishYear\": \"2008\", \"implementTime\": \"2009-05-01\", \"ics\": \"ICS 33.040. 20\", \"ccs\": \"M 33\", \"parentTermId\": null, \"titleId\": null, \"oid\": 65350, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"指针\", \"cnNameSearch\": \"指针\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"pointer\", \"wordSearch\": \"pointer\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于规定虚容器相对于支持它的传输实体的帧参考点的顿偏移。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"59eb7df9287d471ea731c9acb01cbb38\", \"databaseId\": null, \"standardId\": \"d14d1c3ef7884c15bad032d52232772a\", \"standardCode\": \"GB/T 5271.4—2000\", \"standardName\": \"信息技术  词汇  第4部分:数据的组织\", \"standardEnName\": \"Information technology——Vocabulary——Part 4:Organization of data\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"04.09.05\", \"cnName\": \"指针\", \"enName\": \"pointer\", \"publishTime\": \"2000-07-14\", \"publishYear\": \"2000\", \"implementTime\": \"2001-03-01\", \"ics\": \"01.040.35\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 209000, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"指针\", \"cnNameSearch\": \"指针\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"pointer\", \"wordSearch\": \"pointer\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一个数据元，指示另一个数据元的位置。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"30a346987dd44e00a06d3542a9edc14f\", \"databaseId\": null, \"standardId\": \"782a48d229524237aff3cc6aa665da86\", \"standardCode\": \"GB/T 3163—2007\", \"standardName\": \"真空技术 术语\", \"standardEnName\": \"Vacuum technology - Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"流体系统和通用件\", \"termCode\": \"9.1.12\", \"cnName\": \"可观测立体角\", \"enName\": \"observable solid angle\", \"publishTime\": \"2007-12-20\", \"publishYear\": \"2007\", \"implementTime\": \"2008-06-01\", \"ics\": \"23.160\", \"ccs\": \"J78\", \"parentTermId\": null, \"titleId\": null, \"oid\": 124696, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"可观测立体角\", \"cnNameSearch\": \"可观测立体角\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"observable solid angle\", \"wordSearch\": \"observable solid angle\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"由试样一个点上发射的粒子可由分析器显示的立体角。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d249de2da93d45c098baaa3033be553c\", \"databaseId\": null, \"standardId\": \"747d6bbb97ec45cdbc1a5aa8847af7f3\", \"standardCode\": \"GB/T 4092—2008\", \"standardName\": \"高山滑雪杖和旅行滑雪杖 要求和试验方法\", \"standardEnName\": \"Information technology — Programming languages — COBOL\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"4.165\", \"cnName\": \"约束指针\", \"enName\": \"restricted pointer\", \"publishTime\": \"2021-11-26\", \"publishYear\": \"2021\", \"implementTime\": \"2021-11-26\", \"ics\": \"35.060\", \"ccs\": \"L 74\", \"parentTermId\": null, \"titleId\": null, \"oid\": 117252, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"约束指针\", \"cnNameSearch\": \"约束指针\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"restricted pointer\", \"wordSearch\": \"restricted pointer\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一个指针数据项，受某个规定类型的数据项或与规定程序同特征的程序约束。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2d04738afc2245fbac8d6e6ba09baca4\", \"databaseId\": null, \"standardId\": \"58d19a4c5dbd44c5b1faed530b234adb\", \"standardCode\": \"GB/T 39118—2020\", \"standardName\": \"激光指示器产品光辐射安全要求\", \"standardEnName\": \"Safety requirements of optical radiation for laser pointers products\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.1 \", \"cnName\": \"激光指示器\", \"enName\": \"laser pointer\", \"publishTime\": \"2020-10-11\", \"publishYear\": \"2020\", \"implementTime\": \"2021-05-01\", \"ics\": \"31.26031\", \"ccs\": \"L51\", \"parentTermId\": null, \"titleId\": null, \"oid\": 91016, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"激光指示器\", \"cnNameSearch\": \"激光指示器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"laser pointer\", \"wordSearch\": \"laser pointer\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于指示目标物体或空间位置的激光产品。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f65aedc3c18442aca34846aeaeb768a0\", \"databaseId\": null, \"standardId\": \"dca4f6bb43ae4d65877e88ba063ead8b\", \"standardCode\": \"GB/T 5271.17—2010\", \"standardName\": \"信息技术 词汇 第17部分：数据库\", \"standardEnName\": \"Information technology—Vocabulary—Part: 17: Databases\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"17.03.15\", \"cnName\": \"当前指针\", \"enName\": \"current pointer\", \"publishTime\": \"2010-12-01\", \"publishYear\": \"2010\", \"implementTime\": \"2011-04-01\", \"ics\": \"01.040.35；35.240.20\", \"ccs\": \"L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 216551, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"当前指针\", \"cnNameSearch\": \"当前指针\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"current pointer\", \"wordSearch\": \"current pointer\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在执行数据操纵语言语句过程中，必要时加以更新，以便标识该数据操纵的当前记录的部位的\\n指针。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"df425b4b18d645dfab71ed6f9e54311b\", \"databaseId\": null, \"standardId\": \"91a98429325f459eb04448b5251175eb\", \"standardCode\": \"GB/T 5271.15—2008\", \"standardName\": \"信息技术  词汇 第15部分：编程语言\", \"standardEnName\": \"Information technology — Vocabulary — Part 15: Programming languages\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"15.03.21\", \"cnName\": \"空指针\", \"enName\": \"null pointer\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.240.20\", \"ccs\": \"L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 154297, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"空指针\", \"cnNameSearch\": \"空指针\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"null pointer\", \"wordSearch\": \"null pointer\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种不显式指向任何数据对象的指针。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>随编程语言的不同，空指针所具有的表示称为\\\"nil”、“null\\\"等等。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"10d9fa61b0f74977b70637fb17715a70\", \"databaseId\": null, \"standardId\": \"5e627fe461354a679fb899ac8ead85e6\", \"standardCode\": \"GB/T 17579—1998\", \"standardName\": \"信息技术 开放系统互连 虚拟终端基本类服务\", \"standardEnName\": \"Information technology-Open systems interconnection-- Virtual terminal basic class service\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.3.15  \", \"cnName\": \"逻辑指针\", \"enName\": \"logical pointer\", \"publishTime\": \"1998-11-18\", \"publishYear\": \"1998\", \"implementTime\": \"1999-07-01\", \"ics\": \"ICS 35.100.70\", \"ccs\": \"L 79\", \"parentTermId\": null, \"titleId\": null, \"oid\": 94815, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"逻辑指针\", \"cnNameSearch\": \"逻辑指针\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"logical pointer\", \"wordSearch\": \"logical pointer\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由二个或三个坐标值构成的集合,用于标识在显示客体中定义的某个域中的特定数组元素。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>基本显示指针和扩充显示指针不能同时存在。然而,若有一个逻辑指针存在,则它是作为显示指针或扩充显示指针的补充。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0b800945a3d34f5b8ec5924a1ad596e1\", \"databaseId\": null, \"standardId\": \"5e627fe461354a679fb899ac8ead85e6\", \"standardCode\": \"GB/T 17579—1998\", \"standardName\": \"信息技术 开放系统互连 虚拟终端基本类服务\", \"standardEnName\": \"Information technology-Open systems interconnection-- Virtual terminal basic class service\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.3.14  \", \"cnName\": \"显示指针\", \"enName\": \"display pointer\", \"publishTime\": \"1998-11-18\", \"publishYear\": \"1998\", \"implementTime\": \"1999-07-01\", \"ics\": \"ICS 35.100.70\", \"ccs\": \"L 79\", \"parentTermId\": null, \"titleId\": null, \"oid\": 94865, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"显示指针\", \"cnNameSearch\": \"显示指针\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"display pointer\", \"wordSearch\": \"display pointer\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用来指基本显示指针或指扩充显示指针;根据是否使用了块说明到底指的是哪一种指针。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ec83d6c04e2749a1a844de7c3bd81289\", \"databaseId\": null, \"standardId\": \"d64f8f19cb74499ab53874156aef3632\", \"standardCode\": \"GB/T 50063—2017\", \"standardName\": \"电力装置电测量仪表装置设计规范\", \"standardEnName\": \"Code for design of electrical measuring device of power system\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.4\", \"cnName\": \"指针式仪表\", \"enName\": \"pointer-type meter\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 211692, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"指针式仪表\", \"cnNameSearch\": \"指针式仪表\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"pointer-type meter\", \"wordSearch\": \"pointer-type meter\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"按指针与标度尺之间的关系指示被测量值的仪表。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"915e5a57a3964ff391168ecfedf85947\", \"databaseId\": null, \"standardId\": \"747d6bbb97ec45cdbc1a5aa8847af7f3\", \"standardCode\": \"GB/T 4092—2008\", \"standardName\": \"高山滑雪杖和旅行滑雪杖 要求和试验方法\", \"standardEnName\": \"Information technology — Programming languages — COBOL\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"4.55\", \"cnName\": \"当前卷指针\", \"enName\": \"current volume pointer\", \"publishTime\": \"2021-11-26\", \"publishYear\": \"2021\", \"implementTime\": \"2021-11-26\", \"ics\": \"35.060\", \"ccs\": \"L 74\", \"parentTermId\": null, \"titleId\": null, \"oid\": 117211, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"当前卷指针\", \"cnNameSearch\": \"当前卷指针\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"current volume pointer\", \"wordSearch\": \"current volume pointer\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一个概念实体，它指向一个顺序文件的当前卷。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"11209d80d9434fd8b76467846026f922\", \"databaseId\": null, \"standardId\": \"9d1bd81fb2dd48dd9316e17c10977b72\", \"standardCode\": \"GB/T 22265—2008\", \"standardName\": \"直接作用模拟指示最大需量电流表\", \"standardEnName\": \"Direct acting indicating analogue max-demand ammeters\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"3.9\", \"cnName\": \"最大需量指针\", \"enName\": \"maximum demand pointer\", \"publishTime\": \"2008-08-06\", \"publishYear\": \"2008\", \"implementTime\": \"2009-03-01\", \"ics\": \"17.220.20\", \"ccs\": \"N 21\", \"parentTermId\": null, \"titleId\": null, \"oid\": 163209, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"最大需量指针\", \"cnNameSearch\": \"最大需量指针\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"maximum demand pointer\", \"wordSearch\": \"maximum demand pointer\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由需量指示器推动向正方向移动，当需量指示器脱离它时，该指针停留在原位而不跟随需量指示器移动，只有需量复零钮能使其向反方向移动或复零的指针。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"18b0bdbd843e4c45ab7f5f327091de69\", \"databaseId\": null, \"standardId\": \"5e627fe461354a679fb899ac8ead85e6\", \"standardCode\": \"GB/T 17579—1998\", \"standardName\": \"信息技术 开放系统互连 虚拟终端基本类服务\", \"standardEnName\": \"Information technology-Open systems interconnection-- Virtual terminal basic class service\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.3.12  \", \"cnName\": \"基本显示指针\", \"enName\": \"primitive display pointer\", \"publishTime\": \"1998-11-18\", \"publishYear\": \"1998\", \"implementTime\": \"1999-07-01\", \"ics\": \"ICS 35.100.70\", \"ccs\": \"L 79\", \"parentTermId\": null, \"titleId\": null, \"oid\": 94879, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"基本显示指针\", \"cnNameSearch\": \"基本显示指针\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"primitive display pointer\", \"wordSearch\": \"primitive display pointer\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由一到三个坐标值构成的集合,用于标识显示客体中某一元素。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"138cf24f22484f629be0def4dd602f83\", \"databaseId\": null, \"standardId\": \"5e627fe461354a679fb899ac8ead85e6\", \"standardCode\": \"GB/T 17579—1998\", \"standardName\": \"信息技术 开放系统互连 虚拟终端基本类服务\", \"standardEnName\": \"Information technology-Open systems interconnection-- Virtual terminal basic class service\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.3.13  \", \"cnName\": \"扩充显示指针\", \"enName\": \"extended display pointer\", \"publishTime\": \"1998-11-18\", \"publishYear\": \"1998\", \"implementTime\": \"1999-07-01\", \"ics\": \"ICS 35.100.70\", \"ccs\": \"L 79\", \"parentTermId\": null, \"titleId\": null, \"oid\": 94887, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"扩充显示指针\", \"cnNameSearch\": \"扩充显示指针\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"extended display pointer\", \"wordSearch\": \"extended display pointer\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由二到四个坐标值构成的集合,用于标识在显示客体中定义的块中的某一数组元素。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a9f601c1d0494fa195952294a163c8d7\", \"databaseId\": null, \"standardId\": \"58d19a4c5dbd44c5b1faed530b234adb\", \"standardCode\": \"GB/T 39118—2020\", \"standardName\": \"激光指示器产品光辐射安全要求\", \"standardEnName\": \"Safety requirements of optical radiation for laser pointers products\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.2 \", \"cnName\": \"消费类激光指示器\", \"enName\": \"laser pointer for consumer\", \"publishTime\": \"2020-10-11\", \"publishYear\": \"2020\", \"implementTime\": \"2021-05-01\", \"ics\": \"31.26031\", \"ccs\": \"L51\", \"parentTermId\": null, \"titleId\": null, \"oid\": 91015, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"消费类激光指示器\", \"cnNameSearch\": \"消费类激光指示器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"laser pointer for consumer\", \"wordSearch\": \"laser pointer for consumer\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"预期在合理可预见的情况下供消费者使用的激光指示器。 \", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p><span style=\\\"color: rgb(0, 0, 0);\\\">发射出低功率、小发散角可见光光辐射,一般手持使用,例如:激光笔。 </span></p>\", \"<p><span style=\\\"color: rgb(0, 0, 0);\\\">使用者通常不需要经过激光专业培训,按照产品使用说明书就可以正确使用的激光指示器。</span></p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"11dc495a55a8496289c79fd982724d7c\", \"databaseId\": null, \"standardId\": \"91a98429325f459eb04448b5251175eb\", \"standardCode\": \"GB/T 5271.15—2008\", \"standardName\": \"信息技术  词汇 第15部分：编程语言\", \"standardEnName\": \"Information technology — Vocabulary — Part 15: Programming languages\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"15.03.20\", \"cnName\": \"指针（用于编程语言）\", \"enName\": \"pointer (in programming languages)\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.240.20\", \"ccs\": \"L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 154265, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"指针（用于编程语言）\", \"cnNameSearch\": \"指针（用于编程语言）\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"pointer (in programming languages)\", \"wordSearch\": \"pointer (in programming languages)\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"其数据值是另一数据对象的地址的数据对象。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>见图1。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2511b382631b4c55a999093de81c512d\", \"databaseId\": null, \"standardId\": \"91a98429325f459eb04448b5251175eb\", \"standardCode\": \"GB/T 5271.15—2008\", \"standardName\": \"信息技术  词汇 第15部分：编程语言\", \"standardEnName\": \"Information technology — Vocabulary — Part 15: Programming languages\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"15.04.18\", \"cnName\": \"指针（类）型\", \"enName\": \"pointer type\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.240.20\", \"ccs\": \"L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 154272, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"指针（类）型\", \"cnNameSearch\": \"指针（类）型\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"pointer type\", \"wordSearch\": \"pointer type\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"访问(类)型\", \"cnNameSearch\": \"访问(类)型\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"access type\", \"wordSearch\": \"access type\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"其中各数据对象都是一个指针的数据类型。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>见图1。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7fefaf47bce44648adeabd4868ea98ca\", \"databaseId\": null, \"standardId\": \"c9563aa26d8f43cea06260ecce7358f0\", \"standardCode\": \"GB/T 5271.13—2008\", \"standardName\": \"信息技术 词汇 第13部分：计算机图形\", \"standardEnName\": \"Information technology — Vocabulary Part 13: Computer graphics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"13.04.33\", \"cnName\": \"指针（用于计算机图形）\", \"enName\": \"pointer (in computer graphics)\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.140\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 202245, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"指针（用于计算机图形）\", \"cnNameSearch\": \"指针（用于计算机图形）\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"pointer (in computer graphics)\", \"wordSearch\": \"pointer (in computer graphics)\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种显示在屏幕上，用户能通过指点器(例如鼠标)使之移动以便选项的符号。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 2}}, \"timestamp\": 1794333857318}"
+}
