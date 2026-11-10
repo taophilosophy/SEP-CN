@@ -2,7 +2,7 @@
   "slug": "gregory-rimini",
   "kind": "retranslate",
   "zh_doc": "g/gregory-rimini.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-10T03:30:52Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "G2-main-20261110",
+      "at": "2026-11-10T17:17:51Z",
+      "evidence": "ADR-0021 段落账本（62 段：body 59/oir 1/ack 1/note 1）双版填写完成，lq check 守恒门 0 HARD（脚注键 85:85、$ 0:0、** 仅段31/55 斜体→中文粗体合法增量），compose 落盘 31931 字符"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "G2-main-20261110",
+      "at": "2026-11-10T17:17:52Z",
+      "evidence": "s1 忠实核销：逐段对照 yuanwen 源（59 正文块）段落 1:1、年份序列 235:235 全等、脚注 marker 顺序全等（译侧多出 note-nd 定义属## 脚注节）、引用组与书名照录、3 个引块保留源引注；源文自身不一致（Mandalarella/Knuuttila 1971/Nannini 2015 与 defs 键不符）照源直译"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "G2-main-20261110",
+      "at": "2026-11-10T17:17:52Z",
+      "evidence": "check_prose 55→8：叙述散文实修 50 处（长句拆句 20、de-chain 26、被动 5、弱动词 4 中的叙述部分），残余 8 条全部为 ADR-0020 豁免——段19/21/23 专名列举（地名冠称人名链）、段20/38 引文块内长句与的链（Rimini 1979 直引）；非引文叙述零豁免"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "G2-main-20261110",
+      "at": "2026-11-10T17:17:53Z",
+      "evidence": "s3 四检：check_style --strict 0（3 处 CJK 斜体已转粗体并补半角空格）、check_academic --strict 0 硬错、check_math 0/0、check_prose 8 条引文与专名豁免留痕；check_all 九项全绿（含本次修正 ADR-0032/术语册直角引号）"
     }
   ],
   "blockers": [],
