@@ -1152,7 +1152,7 @@
 | Frederick Douglass | — | 弗雷德里克·道格拉斯 | — | — | alexander-crummell | SUMMARY 定名沿用（frederick-douglass 词条既名） | 2026-11-07 |
 | Freeman, Walter J. | — | 沃尔特·弗里曼 | — | — | f/frame-problem | 神经科学通行汉译（神经动力学） | 2026-11-10 |
 | Frega, Roberto | — | 罗伯托·弗雷加 | — | — | economic-democracy | 学界惯例（杜威研究/职场民主，通行音译） | 2026-11-04 |
-| Frege, Gottlob | — | 弗雷格（Frege） | — | — | logical-consequence | 本库正文多数条目（38 篇）用「弗雷格」汉名，书目区保留 Frege 原形；2026-11-11 复核改定 | 2026-11-11 |
+| Frege, Gottlob | — | 弗雷格（Frege） | — | — | logical-consequence | 本库正文多数条目（38 篇）用“弗雷格”汉名，书目区保留 Frege 原形；2026-11-11 复核改定 | 2026-11-11 |
 | Freind, John | — | 约翰·弗赖因德 | — | — | emilie-du-chatelet | 学界惯例（牛顿派化学家/医师，通行音译） | 2026-11-04 |
 | Freire, Paulo | Paulo Freire | 保罗·弗莱雷 | 巴西 | 1921–1997 | montessori-maria | 学界通行汉译（《被压迫者教育学》中译者）；凭证 2026-11-10 | 2026-11-10 |
 | French, Rohan | — | Rohan French | — | — | logic-substructural | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
@@ -1649,7 +1649,6 @@
 | Iacona, Andrea | — | Andrea Iacona（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09 | 2026-11-09 |
 | Iamblichus | — | 杨布里科斯 | — | — | neoplatonism | SUMMARY 定名沿用（i/iamblichus）；学界亦作“扬布利科斯” | 2026-11-07 |
 | Iblīs | إِبْلِيسْ | 伊布利斯 | — | — | al-qudat | 学界惯例（《古兰经》堕落天使，通行音译） | 2026-11-06 |
-| Ibn Abi Usaybi'a | Ibn Abi Usaybi'a | 伊本·阿比·乌赛比阿 | — | — | israeli | 阿拉伯医学史通行汉译 | 2026-11-06 |
 | Ibn Abi Usaybi'a | — | 伊本·阿比·乌赛比阿 | 叙利亚／阿拉伯医学史家 | c. 1203–1270 | israeli | 阿拉伯医学史通行汉译；凭证 2026-11-11 | 2026-11-11 |
 | Ibn al-Haytham / Alhazen | Ibn al-Haytham / Alhazen | 伊本·海赛姆（阿尔哈增） | — | — | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
 | Ibn al-Jazzar | Ibn al-Jazzar | 伊本·贾扎尔 | — | — | israeli | 阿拉伯医学史通行汉译 | 2026-11-06 |

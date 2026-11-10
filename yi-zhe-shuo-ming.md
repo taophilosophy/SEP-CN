@@ -1363,7 +1363,7 @@
 | epistemic constraint | — | 认知约束 | reflective-equilibrium | 学界惯例（Kelly & McGrath 2010 语境）；凭证 2026-11-11 | 2026-11-11 |
 | epistemic contact | — | 认知接触 | 首现（zombies） | 学界无定译，取直译（柯克本词条术语）；凭证 2026-11-10 | 2026-11-10 |
 | epistemic deference | — | 认知顺从 | moral-responsibility-empirical | 社会认识论通行（deference to testimony） | 2026-11-07 |
-| epistemic entrenchment | — | 认知固化 | epistemology-latin-america 首译 | 学界惯例（AGM 文献；亦译「知识固着」，本文统一「认知固化」） | 2026-11-11 |
+| epistemic entrenchment | — | 认知固化 | epistemology-latin-america 首译 | 学界惯例（AGM 文献；亦译“知识固着”，本文统一“认知固化”） | 2026-11-11 |
 | epistemic game theory | — | 认知博弈论 | s/social-procedures 首译 | 学界通行译法（博弈论通行）；凭证 2026-11-07 | 2026-11-07 |
 | epistemic humility | — | 认知谦逊 | 首现（wisdom） | 学界通行（智慧理论五进路之首）；凭证 2026-11-07 | 2026-11-07 |
 | epistemic injustice | — | 认知不义（亦作“认知不公正”） | 语料回收 | 学界惯例（Fricker 中译《认知不义》）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |

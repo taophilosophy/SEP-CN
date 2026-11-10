@@ -11,362 +11,482 @@ segments:
     kind: body
     source: |-
       Isaac ben Solomon Israeli (ca. 855–955 CE), not to be confused with Isaac Israeli the Younger (an astronomer of Spain, d. 1322 CE), served as physician to the founder of the Fatimid Dynasty in North Africa and wrote several philosophical and medical treatises in Arabic which were subsequently translated and widely read in Latin and Hebrew. Israeli was one of the earliest medieval Jewish Neoplatonist writers, though not as original in his thinking as later Jewish philosophers such as Solomon Ibn Gabirol (Avicebron), Moses Maimonides and Gersonides. His work reflected and encapsulated the prevailing philosophical paradigm, namely, Aristotelian thought read through a Neoplatonist lens. Israeli’s thought was largely influenced by the Arab philosopher al-Kindi (d. ca. 870 CE) and by available Neoplatonist sources, either *The Theology of Aristotle* or (by S. M. Stern’s hypothesis) a pseudepigraphic Neoplatonist treatise (no longer extant in the Arabic original) which was later translated into Hebrew by Abraham Ibn Hasday (d. 1240) and appended to the belles-lettrist work *The Prince and the Ascetic*. Although much of his work is paraphrase and commentary on these two sources, Israeli’s thought did include a few divergences from al-Kindi, such as the idea of the emanation of shadow, and a reversal of the process of intellection described in al-Kindi’s model. Israeli’s philosophical works were read by several later Jewish and Christian authors who occasionally quoted him, sometimes without attribution. His medical treatises were widely read and respected by physicians for centuries in Muslim and Christian domains.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      伊萨克·本·所罗门·伊斯拉埃利（约公元 855–955 年）不可与较年轻的伊萨克·伊斯拉埃利（西班牙天文学家，卒于公元 1322 年）相混。他曾任北非法蒂玛王朝创立者的御医，并用阿拉伯语撰写了几部哲学与医学论著；这些论著后来被译为拉丁语与希伯来语，流传甚广。伊斯拉埃利是中世纪最早的犹太新柏拉图主义作家之一，尽管就思想的原创性而言，他不及后来的犹太哲学家，如所罗门·伊本·盖比鲁勒（阿维斯布隆）、摩西·迈蒙尼德与格森尼德。他的著作反映并概括了当时占主导地位的哲学范式，即以新柏拉图主义的透镜来读解的亚里士多德思想。伊斯拉埃利的思想主要受阿拉伯哲学家肯迪（卒于约公元 870 年）以及当时可得的新柏拉图主义来源的影响：或为《亚里士多德神学》，或（依 S. M. 施特恩的假说）为一部伪托的新柏拉图主义论著（阿拉伯文原本已不存）。后者后来由亚伯拉罕·伊本·哈斯代（卒于 1240 年）译为希伯来语，并附于美文集《王子与苦行者》之后。他的著作大部分是对这两个来源的改写与评注，但其思想确有几处偏离肯迪，例如影之流溢的观念，以及对肯迪模型所述理智活动过程的反转。伊斯拉埃利的哲学著作曾为后来若干犹太与基督教作者阅读，他们偶尔引用他，有时不加注明。他的医学论著在穆斯林与基督教地区被医生广泛阅读并推崇，达数百年之久。
+    step2: |-
+      伊萨克·本·所罗门·伊斯拉埃利（约 855–955）不可与较晚的西班牙天文学家小伊萨克·伊斯拉埃利（卒于 1322 年）相混。他曾任北非法蒂玛王朝创建者的御医，以阿拉伯语撰写多部哲学与医学论著，这些论著后来被译成拉丁语和希伯来语，流传甚广。伊斯拉埃利是中世纪最早的犹太新柏拉图主义作家之一，但论思想的原创性，他不及后来的犹太哲学家，如所罗门·伊本·盖比鲁勒（阿维斯布隆）、摩西·迈蒙尼德与格森尼德。他的著作反映并概括了当时占主导地位的哲学范式，即以新柏拉图主义的透镜读解亚里士多德思想。伊斯拉埃利的思想主要受阿拉伯哲学家肯迪（卒于约 870 年）和当时可得的新柏拉图主义文献影响：或是《亚里士多德神学》，或是（依 S. M. 施特恩的假说）一部伪托的新柏拉图主义论著，其阿拉伯文原本已不存。后者后来由亚伯拉罕·伊本·哈斯代（卒于 1240 年）译为希伯来语，附在美文集《王子与苦行者》之后。他的著作大部分是对这两个来源的改写和评注，但仍有几处偏离肯迪，例如影之流溢的观念，以及对肯迪模型所述理智活动过程的反转。伊斯拉埃利的哲学著作曾为后来若干犹太与基督教作者所阅读，他们偶尔加以引用，有时并不注明出处。他的医学论著则在穆斯林和基督教地区被医生广泛阅读、长期推崇，达数百年之久。
   - id: 2
     kind: body
     source: |-
       ## 1. Biography
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1. Biography
+    step2: |-
+      ## 1 生平
   - id: 3
     kind: body
     source: |-
       We have only a few scant clues of his biography, and we cannot be sure of their veracity, especially in the issue of the date of his death. We know that he lived the first half of his life in Egypt, before moving to Karouan, Tunisia between the years of 905–907. Most biographers agree that he lived to the age of 100, though they disagree on the years of birth and death. Saᶜid al-Andalusi (mid-11ᵗʰ century), in his work *Kitab Tabakat al-Umam*, indicates that he died in 932 (R. Blachere 1935, p. 157)[^blachere-1935]. However, one of Israeli’s pupils, Ibn al-Jazzar died in 1009 at an approximate age of 80. If Israeli had died in 932, Ibn al-Jazzar would have been only five years old at his death, thus this date is unlikely. Abraham Ibn Hasday, a translator of Israeli’s works from Arabic into Hebrew, provides the date of his passing as 942. But Altmann and Stern (*Isaac Israeli*, p. xx) have pointed out that Ibn Hasday likely made a transcription error in his quotation of Saᶜid al-Andalusi. Another student of Israeli, Dunash Ibn Tamim, wrote a commentary on the Jewish mystical work *Sefer Yetzirah* in 956, and indicated therein that Israeli was no longer alive, though not mentioning the year of his death.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于他的生平，我们只有少许零星的线索，而且无法确定其真实性，死亡日期问题尤其如此。我们确知他前半生住在埃及，公元 905–907 年间移居突尼斯的凯鲁万。多数传记作者都同意他活到一百岁，但对生年与卒年意见不一。赛义德·安达卢西（11 世纪中叶）在《诸民族分类书》中指出他卒于 932 年（R. Blachere 1935, p. 157）[^blachere-1935]。然而，伊斯拉埃利的一位学生伊本·贾扎尔卒于 1009 年，享年约八十岁。倘若伊斯拉埃利卒于 932 年，则伊本·贾扎尔在他去世时年仅五岁，因此这一日期不大可能。将伊斯拉埃利著作由阿拉伯语译为希伯来语的亚伯拉罕·伊本·哈斯代，给出的卒年是 942 年。但阿尔特曼与施特恩（*Isaac Israeli*, p. xx）指出，伊本·哈斯代引用赛义德·安达卢西时很可能发生了抄写错误。伊斯拉埃利的另一位学生杜纳什·伊本·塔米姆于 956 年为犹太神秘主义著作《创世书》（*Sefer Yetzirah*）撰写注释，并在其中表明伊斯拉埃利已不在人世，但没有提及他卒于何年。
+    step2: |-
+      关于他的生平，可靠的线索只有零星几点，其真实性也无法确证，死亡日期尤其如此。我们确知他前半生居于埃及，905 至 907 年间移居突尼斯的凯鲁万。多数传记作者都同意他活到一百岁，但对生卒年份说法不一。赛义德·安达卢西（11 世纪中叶）在《诸民族分类书》中称他卒于 932 年（R. Blachere 1935, p. 157）[^blachere-1935]。可是，伊斯拉埃利的学生伊本·贾扎尔卒于 1009 年，享年约八十岁。若伊斯拉埃利卒于 932 年，则伊本·贾扎尔在他去世时只有五岁，此说因此难以成立。把伊斯拉埃利著作从阿拉伯语译成希伯来语的亚伯拉罕·伊本·哈斯代给出的卒年是 942 年。但阿尔特曼与施特恩（*Isaac Israeli*, p. xx）指出，伊本·哈斯代引用赛义德·安达卢西时很可能抄录有误。伊斯拉埃利的另一位学生杜纳什·伊本·塔米姆于 956 年为犹太神秘主义著作《创世书》（*Sefer Yetzirah*）撰写注释，其中表明伊斯拉埃利已不在人世，但没有提到卒年。
   - id: 4
     kind: body
     source: |-
       The Arab chroniclers of physicians indicate that Isaac Israeli served as a doctor to Ubayd Allah al-Mahdi, the founder of the Fatimid Dynasty of North Africa, who reigned from 910–934. In his capacity as physician, Israeli wrote several medical treatises which were widely regarded in the Islamic world, and highly valued in Christian scholastic circles as well. These works include the *Book of Fevers*, the *Book of Foodstuffs and Drugs*, and the *Book of Urine*. Later Islamic historians relate accounts that the first and third Fatimid rulers died from not following the sound advice of Isaac Israeli, though the absence of these anecdotes in the earlier chronicles, combined with their literary trope-like character, render the tales suspect. Nonetheless, these narratives do indicate the great respect accorded to Isaac Israeli.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      阿拉伯的医生编年史家记载，伊萨克·伊斯拉埃利曾担任欧拜杜拉·马赫迪的医生；后者是北非法蒂玛王朝的创立者，公元 910–934 年在位。伊斯拉埃利以医生身份撰写了若干医学论著，在伊斯兰世界广受重视，在基督教经院学界也备受推崇。这些著作包括《热病书》、《食物与药物书》和《尿书》。后来的伊斯兰史家记述说，法蒂玛王朝第一与第三位统治者都因未听从伊萨克·伊斯拉埃利的良言而死去；不过，这些轶事不见于较早的编年史，又带有文学套语的色彩，因此颇为可疑。尽管如此，这些叙述确实表明伊萨克·伊斯拉埃利受到极大尊重。
+    step2: |-
+      阿拉伯的医生编年史家记载，伊萨克·伊斯拉埃利曾任欧拜杜拉·马赫迪的医生。欧拜杜拉·马赫迪是北非法蒂玛王朝的创建者，910 至 934 年在位。伊斯拉埃利以医生身份撰写了几部医学论著，在伊斯兰世界广受重视，在基督教经院学界也备受推崇，其中包括《热病书》《食物与药物书》和《尿书》。后来的伊斯兰史家记载，法蒂玛王朝第一代和第三代统治者都因未听从伊萨克·伊斯拉埃利的良言而丧命。不过，这些轶事不见于较早的编年史，又带着文学套语的色彩，因此颇为可疑。尽管如此，它们确实表明伊萨克·伊斯拉埃利受到极大尊重。
   - id: 5
     kind: body
     source: |-
       Although the chronicler Ibn Abi Usaybi’a, as well as titles of some of Israeli’s work in manuscripts, assign Israeli the patronymic term Abu Yaᶜqub (“father of Jacob”), the biographers state that he never married or fathered children, and attribute to him the statement that his books will cause his name to be remembered far better than children would. The assignment of patronymics to persons who did not marry and beget offspring is not altogether rare—thus we also see the patronymic “Abu Ayub” applied to the childless poet and philosopher Solomon Ibn Gabirol. As some of Israeli’s treatises have survived over a millennium and remain the occasional subject of scholarly research, his prediction is correct.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      虽然编年史家伊本·阿比·乌赛比阿以及伊斯拉埃利某些著作的抄本题名，都给伊斯拉埃利加上了父名式称谓阿布·雅各布（“雅各之父”），但传记作者们说，他从未结婚，也没有子女，并为他记下这样一句话：他的书使他的名字被人记住，远胜于子女所能做到的。给未曾结婚生育的人加上父名，并不十分罕见；因此我们也看到，无子女的诗人兼哲学家所罗门·伊本·盖比鲁勒被冠以“阿布·阿尤布”的父名。伊斯拉埃利的若干论著存世已逾千年，至今仍偶尔成为学术研究的对象，可见他的预言应验了。
+    step2: |-
+      编年史家伊本·阿比·乌赛比阿以及伊斯拉埃利某些著作的抄本题名，都给他加上了父名式称谓阿布·雅各布（“雅各之父”）。但传记作者们说，他从未结婚，也没有子女，并记下他的一句话：他的书使他的名字被人记住，远胜于子女所能做到的。给未曾结婚生育的人加父名，并不十分罕见：无子女的诗人兼哲学家所罗门·伊本·盖比鲁勒，也被冠以“阿布·阿尤布”的父名。伊斯拉埃利的若干论著存世已逾千年，至今仍偶尔成为学术研究的对象，他的预言由此应验。
   - id: 6
     kind: body
     source: |-
       ## 2. Isaac Israeli’s Philosophical Sources
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2. Isaac Israeli’s Philosophical Sources
+    step2: |-
+      ## 2 伊斯拉埃利的哲学来源
   - id: 7
     kind: body
     source: |-
       Regrettably, in his surviving treatises, Israeli does not discuss his philosophical studies. We do know that by Isaac Israeli’s lifetime, several Greek books of philosophy translated into Arabic as well as original Arabic philosophical works were available, though perhaps some of these treatises, mostly produced in Baghdad and its environs, had not yet journeyed westward to North Africa. Much of Aristotle’s corpus had been translated in the previous century, as had Porphyry’s *Isagoge*, often studied as an introduction to Aristotle’s works. Further, an Arabic partial paraphrase of Plotinus’ *Enneads* circulated under the pseudepigraphic title *The Theology of Aristotle* in two recensions, the shorter of which is called the *Vulgate Theology of Aristotle* (due to its larger number of manuscripts) while the other recension is called the *Longer Theology of Aristotle*. There are both significant parallels and significant variances between Israeli’s writings and the *Longer Theology* *of Aristotle*. Thus, the influences of Aristotle and Plotinus on Israeli’s philosophy are strong, and he likely read translations of their works as well as commentaries on them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      遗憾的是，在现存论著中，伊斯拉埃利并未讨论自己的哲学研习。我们确知，到伊斯拉埃利生活的时代，已有若干希腊哲学著作译为阿拉伯语，也有阿拉伯语原创哲学著作行世；不过其中一些论著大多产生于巴格达及其周边，也许尚未西传至北非。亚里士多德著作的很大一部分在上一世纪已经译出，波菲利的《导论》（*Isagoge*）亦然，后者常被用作研读亚里士多德著作的入门。此外，普罗提诺《九章集》的一部阿拉伯语节改写本以伪托的标题《亚里士多德神学》流传，有两个版本：较短的一版因抄本较多而被称为《亚里士多德神学通行本》（*Vulgate Theology of Aristotle*），另一版则称《亚里士多德神学长编本》（*Longer Theology of Aristotle*）。伊斯拉埃利的著作与《亚里士多德神学长编本》之间既有显著的相似之处，也有显著的差异。可见亚里士多德与普罗提诺对伊斯拉埃利哲学的影响都很强，他很可能读过二人著作的译本，也读过对他们的注疏。
+    step2: |-
+      遗憾的是，伊斯拉埃利在现存论著中没有讨论过自己的哲学研习。我们确知，到他生活的时代，已有若干希腊哲学著作译成阿拉伯语，也有阿拉伯语的原创哲学著作行世；但其中一些论著大多产生于巴格达及其周边，或许尚未西传到北非。亚里士多德著作的很大一部分上一世纪已经译出，波菲利的《导论》（*Isagoge*）亦然，后者常被用作研读亚里士多德著作的入门书。此外，普罗提诺《九章集》的阿拉伯语节改写本以伪托的标题《亚里士多德神学》流传，有两个版本：较短的一版因抄本较多而称《亚里士多德神学通行本》（*Vulgate Theology of Aristotle*），另一版称《亚里士多德神学长编本》（*Longer Theology of Aristotle*）。伊斯拉埃利的著作与《亚里士多德神学长编本》之间既有显著相似，也有显著差异。可见亚里士多德和普罗提诺对伊斯拉埃利哲学的影响都很强，他很可能读过二人著作的译本及对它们的注疏。
   - id: 8
     kind: body
     source: |-
       S.M. Stern argues for the existence of a lost pseudepigraphic Arabic treatise which influenced the longer recension of *The Theology of Aristotle* and Isaac Israeli, and was quoted without proper attribution by both. Further, he argues that this same treatise is identical to a philosophical excursus which was appended to the literary tale *The Tale of the Prince and the Ascetic* (Hebrew: *Sefer ben ha-melech veha-nazir*) when Abraham Ibn Hasday translated the text from Arabic (*Bilawhar wa-Yudasaf*) into Hebrew in the thirteenth century. Although one may be tempted to conjecture that the Neoplatonist appendix is an original work by Ibn Hasday which largely paraphrases Israeli—a hypothesis strengthened by the fact that Ibn Hasday had translated Israeli’s *Book of the Elements*—Stern disproves this possibility by demonstrating that Israeli’s *Book of Substances* is largely a commentary on the metaphysics of Ibn Hasday’s treatise, and Israeli’s *Book on Spirit and the Soul* is an attempt to reconcile Ibn Hasday’s treatise with scriptural proof texts. Hence, according to Altmann and Stern, Israeli was strongly influenced by this treatise they call “Ibn Hasday’s Neoplatonist.” Further, we know that Israeli did not author this treatise, for when he quoted it, he cited “the philosopher,” thereby indicating that he thought he was quoting Aristotle.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      S.M. 施特恩论证存在一部已佚的伪托阿拉伯语论著，它影响了《亚里士多德神学》的长编本与伊萨克·伊斯拉埃利，而两者都曾引用它却未适当注明。他进一步论证，这部论著与一篇哲学附论相同；后者是亚伯拉罕·伊本·哈斯代在 13 世纪把文学作品《王子与苦行者故事》（希伯来语：*Sefer ben ha-melech veha-nazir*）从阿拉伯语（*Bilawhar wa-Yudasaf*）译为希伯来语时附在书后的。人们或会倾向于猜想，这篇新柏拉图主义附论是伊本·哈斯代的原作，多半是对伊斯拉埃利的改写；伊本·哈斯代曾翻译伊斯拉埃利的《元素书》，这一点更加强了上述猜想。然而施特恩否证了这一可能：他表明伊斯拉埃利的《实体书》大部分是对伊本·哈斯代那篇论著形而上学的评注，而伊斯拉埃利的《论精神与灵魂》则是试图把伊本·哈斯代的论著与经文证明文本调和起来。因此，据阿尔特曼与施特恩，伊斯拉埃利深受这部论著的影响，他们称之为“伊本·哈斯代的新柏拉图主义者”。此外，我们知道伊斯拉埃利并非这部论著的作者，因为他引用它时称引“那位哲学家”，这表明他以为自己引用的是亚里士多德。
+    step2: |-
+      S.M. 施特恩论证，有一部已佚的伪托阿拉伯语论著影响了《亚里士多德神学》长编本和伊萨克·伊斯拉埃利，二者都引用过它，却都未适当注明。他还论证，这部论著就是亚伯拉罕·伊本·哈斯代 13 世纪把文学作品《王子与苦行者故事》（希伯来语：*Sefer ben ha-melech veha-nazir*）从阿拉伯语（*Bilawhar wa-Yudasaf*）译成希伯来语时附在书后的那篇哲学附论。人们也许会猜想，这篇新柏拉图主义附论是伊本·哈斯代的原作，多半改写自伊斯拉埃利；伊本·哈斯代曾翻译伊斯拉埃利的《元素书》，这一点更加强了上述猜想。但施特恩否证了这一可能：他表明，伊斯拉埃利的《实体书》大部分是对伊本·哈斯代那篇论著形而上学的评注，而《论精神与灵魂》则是试图把伊本·哈斯代的论著与经文证明文本调和起来。因此，据阿尔特曼与施特恩，伊斯拉埃利深受这部论著的影响，他们称之为“伊本·哈斯代的新柏拉图主义者”。此外，我们知道伊斯拉埃利并非该论著的作者，因为他引用它时称引“那位哲学家”，可见他以为自己引用的是亚里士多德。
   - id: 9
     kind: body
     source: |-
       More recently, Fritz Zimmerman has argued that Stern’s hypothesis of an otherwise unattested “Neoplatonist” as source for Israeli is superfluous. Israeli’s source may have been the *Longer Theology of Aristotle*, while Ibn Hasday’s source may simply have been Israeli, either synthesizing the view’s in Israeli’s extant treatises, or paraphrasing a lost treatise of Israeli’s. In the absence of further documentary evidence, neither Stern’s nor Zimmerman’s theory can be definitively ruled out.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      晚近，Fritz Zimmerman 论证说，施特恩关于存在一位别处无证的“新柏拉图主义者”作为伊斯拉埃利来源的假说，是多余的。伊斯拉埃利的来源可能就是《亚里士多德神学长编本》，而伊本·哈斯代的来源可能只是伊斯拉埃利：或是综合了伊斯拉埃利现存论著中的观点，或是改写了伊斯拉埃利的一部佚失论著。在缺乏更多文献证据的情况下，施特恩与 Zimmerman 的理论都无法被断然排除。
+    step2: |-
+      晚近，Fritz Zimmerman 提出，施特恩的假说，即另有一位别处无证的“新柏拉图主义者”充当伊斯拉埃利的来源，是多余的。伊斯拉埃利的来源可能就是《亚里士多德神学长编本》；伊本·哈斯代的来源则可能只是伊斯拉埃利，或综合了伊斯拉埃利现存论著中的观点，或改写了伊斯拉埃利一部佚失的论著。在缺乏更多文献证据的情况下，施特恩与 Zimmerman 的理论都无法被断然排除。
   - id: 10
     kind: body
     source: |-
       Isaac Israeli’s passages on intellection, interpreted by Stern as a misreading of al-Kindi, actually mirrors a passage in John of Damascus’ (c. 676–c. 749) *De Fide Orthodoxa*, which was translated into Arabic in the tenth century (Wolfson, 1961: 279–280). While it is within the realm of possibility that Israeli read this translation, it is also possible that both authors are citing a previous source which is no longer extant.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      伊萨克·伊斯拉埃利论理智活动的段落，被施特恩解释为对肯迪的误读，实际上与大马士革的约翰（约 676–约 749 年）《正统信仰阐详》（*De Fide Orthodoxa*）中的一段相应，该书在 10 世纪译成了阿拉伯语（Wolfson, 1961: 279–280）。伊斯拉埃利读过这个译本，固然在可能范围之内；但同样可能的是，两位作者都在引用一个已不存的更早来源。
+    step2: |-
+      伊萨克·伊斯拉埃利论理智活动的段落，被施特恩解释为对肯迪的误读，其实与大马士革的约翰（约 676–约 749）《正统信仰阐详》（*De Fide Orthodoxa*）中的一段相对应；此书 10 世纪已有阿拉伯语译本（Wolfson, 1961: 279–280）。伊斯拉埃利读过这个译本，固然在可能范围之内；但同样可能的是，两位作者都在引用一个已不存的更早来源。
   - id: 11
     kind: body
     source: |-
       A clear and strong influence of the Arab philosopher al-Kindi (d. 873) is evident in the work of Isaac Israeli. Like the former, he wrote a book of definitions, many of which are strongly similar to definitions in al-Kindi’s *Fi Hudud al-ashya’ wa-rusumiha*. Scholars Altmann and Stern illustrate the extensive similarities between the two books in their commentary on Israeli’s *Book of Definitions* in their study *Isaac Israeli: A Neoplatonic Philosopher of the Early Tenth Century*. Further, Israeli uses much of al-Kindi’s terminology for both astronomical and terrestrial objects. Nonetheless, it would be wrong to call the book a paraphrase of al-Kindi, as there are numerous divergences as well.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      阿拉伯哲学家肯迪（卒于 873 年）对伊萨克·伊斯拉埃利的著作有明显而强烈的影响。与肯迪一样，他也写了一部定义集，其中许多定义与肯迪《论事物的界限及其定义》（*Fi Hudud al-ashya’ wa-rusumiha*）中的定义高度相似。学者阿尔特曼与施特恩在其研究著作《伊萨克·伊斯拉埃利：十世纪早期的一位新柏拉图主义哲学家》（*Isaac Israeli: A Neoplatonic Philosopher of the Early Tenth Century*）中评注伊斯拉埃利的《定义书》时，举例说明了这两部书之间广泛的相似之处。此外，伊斯拉埃利在描述天体与地上对象时大量采用肯迪的术语。不过，若把这部书称为对肯迪的改写，却是错的，因为其中也有许多差异。
+    step2: |-
+      阿拉伯哲学家肯迪（卒于 873 年）对伊萨克·伊斯拉埃利的影响明显而强烈。与肯迪一样，他也写了一部定义集，其中许多定义与肯迪《论事物的界限及其定义》（*Fi Hudud al-ashyaʼ wa-rusumiha*）中的定义高度相似。学者阿尔特曼与施特恩在专著《伊萨克·伊斯拉埃利：十世纪早期的一位新柏拉图主义哲学家》（*Isaac Israeli: A Neoplatonic Philosopher of the Early Tenth Century*）中评注伊斯拉埃利的《定义书》，举例说明了这两部书之间广泛的相似之处。此外，伊斯拉埃利描述天体与地上对象时大量采用肯迪的术语。不过，若把这部书称为对肯迪的改写，却是错的，因为其中也有许多差异。
   - id: 12
     kind: body
     source: |-
       Though we see overlap with *The Theology of Aristotle* and al-Kindi, we do not have any evidence that Israeli read the works of his younger contemporary al-Farabi (ca. 870–ca. 950), nor do we see the influence of his younger coreligionist philosopher Saadya Gaon (882–942 C.E.).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管我们看到他同《亚里士多德神学》和肯迪有重合之处，却没有证据表明伊斯拉埃利读过比他年轻的同代人法拉比（约 870–约 950 年）的著作，也看不到比他年轻的同教哲学家萨阿迪亚·加昂（公元 882–942 年）的影响。
+    step2: |-
+      我们虽能看到伊斯拉埃利与《亚里士多德神学》和肯迪的重合，却没有证据表明他读过比他年轻的同代人法拉比（约 870–约 950）的著作，也看不到比他年轻的同教哲学家萨阿迪亚·加昂（882–942）的影响。
   - id: 13
     kind: body
     source: |-
       ## 3. Metaphysics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. Metaphysics
+    step2: |-
+      ## 3 形而上学
   - id: 14
     kind: body
     source: |-
       ### 3.1 The Four Kinds of Inquiry
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 The Four Kinds of Inquiry
+    step2: |-
+      ### 3.1 四类探究
   - id: 15
     kind: body
     source: |-
       The four kinds of inquiry, introduced by Aristotle in his *Posterior Analytics*, and subsequently modified by Neoplatonist commentators, were such a universal and fundamental component of the cultural *episteme*, that elaboration of the four inquiries often formed part of the introduction to philosophical and medical treatises. Aristotle lists the four questions thusly:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      四类探究由亚里士多德在《后分析篇》中引入，后经新柏拉图主义注疏家修改，是文化 *episteme* 中如此普遍而基本的成分，以致对四类探究的阐述常常构成哲学与医学论著导言的一部分。亚里士多德这样列出四个问题：
+    step2: |-
+      四类探究由亚里士多德在《后分析篇》中引入，后经新柏拉图主义注疏家修改，是当时文化 *episteme* 中如此普遍而基本的成分，以致对四类探究的阐述常常成为哲学和医学论著导言的一部分。亚里士多德把四个问题列举如下：
   - id: 16
     kind: body
     source: |-
       “(1) whether the connexion of an attribute with a thing is a fact, (2) what is the reason of the connexion, (3) whether a thing exists, (4) what is the nature of the thing.” (*Posterior Analytics* ii.1, G.R.G. Mure translation)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “(1) 属性与某物的联系是否为事实；(2) 这种联系的原因是什么；(3) 某物是否存在；(4) 某物的本性是什么。”（《后分析篇》ii.1，G.R.G. Mure 译）
+    step2: |-
+      “（1）属性与某物的联系是否成其为事实；（2）这种联系的原因何在；（3）某物是否存在；（4）某物的本性为何。”（《后分析篇》ii.1，G.R.G. Mure 译）
   - id: 17
     kind: body
     source: |-
       Following the practice of thinkers of his age, at the very beginning of his *Book of Definitions* and also at the beginning of his *Book on Fevers*, Isaac Israeli introduces the Aristotelian distinction of the four kinds of inquiry, in a slightly modified form:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      遵循其时代思想家的做法，伊萨克·伊斯拉埃利在《定义书》的开篇，也在《热病书》的开篇，以略微修改的形式引入了亚里士多德关于四类探究的区分：
+    step2: |-
+      伊萨克·伊斯拉埃利遵循同时代思想家的通例，在《定义书》开篇和《热病书》开篇都以稍加修改的形式引入了亚里士多德关于四类探究的区分：
   - id: 18
     kind: body
     source: |-
       “(1) The first is existence: when one inquires whether so-and-so exists; (2) the second is quiddity: when one inquires what so-and-so is; (3) the third is quality: when one inquires how so-and-so is; (4) the fourth is ‘quarity’: when one inquires why so-and-so is.” (Altmann and Stern, *Isaac Israeli*, pp. 10–11)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “(1) 其一是存在：当我们追问某某是否存在；(2) 其二是何性：当我们追问某某是什么；(3) 其三是性质：当我们追问某某如何；(4) 其四是‘何因’：当我们追问某某为何。”（Altmann and Stern, *Isaac Israeli*, pp. 10–11）
+    step2: |-
+      “（1）第一是存在：追问某某是否存在；（2）第二是何性：追问某某是什么；（3）第三是性质：追问某某如何；（4）第四是‘何因’：追问某某为何。”（Altmann and Stern, *Isaac Israeli*, pp. 10–11）
   - id: 19
     kind: body
     source: |-
       Israeli’s description mirrors the list of al-Jahiz (d. ca. 869) in the *Book of Indications and Considerations* (Arabic: *Kitab al-Dala’il wa’l-ᶜItibar*) as well as ᶜAli ibn Sahl Rabban al-Tabari (fl. 9ᵗʰ century), in his medical text *Firdaws al-Hikmah fi al-Tibb*. His list varies slightly from that of al-Kindi, who in his treatise on metaphysics *Al-Falsafah al-ᶜula* defines the third inquiry as *which*, rather than *how*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      伊斯拉埃利的描述与贾希兹（卒于约 869 年）在《征象与考察之书》（阿拉伯语：*Kitab al-Dala’il wa’l-ᶜItibar*）中的列举相合，也与 ʿAli ibn Sahl Rabban al-Tabari（活跃于 9 世纪）在其医学著作《医学智慧乐园》（*Firdaws al-Hikmah fi al-Tibb*）中的列举相合。他的列举与肯迪略有不同：肯迪在其形而上学论著《第一哲学》（*Al-Falsafah al-ᶜula*）中把第三类探究定义为 *哪一个*，而不是 *如何*。
+    step2: |-
+      伊斯拉埃利的描述与贾希兹（卒于约 869 年）《征象与考察之书》（阿拉伯语：*Kitab al-Dalaʼil wa'l-ʿItibar*）中的列举相合，也与 ʿAli ibn Sahl Rabban al-Tabari（9 世纪在世）的医学著作《医学智慧乐园》（*Firdaws al-Hikmah fi al-Tibb*）中的列举相合。他的列举与肯迪略异：肯迪在形而上学论著《第一哲学》（*Al-Falsafah al-ʿula*）中把第三类探究定义为 *哪一个*，而非 *如何*。
   - id: 20
     kind: body
     source: |-
       ### 3.2 The Four Causes
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 The Four Causes
+    step2: |-
+      ### 3.2 四因
   - id: 21
     kind: body
     source: |-
       Just as medieval thinkers adopted Aristotle’s four inquiries, so too did they adopt his distinction of four types of causes (material, formal, efficient, and final) elaborated in Aristotle’s *Metaphysics* v.2 and other places. Although Israeli adopts the schema, he notes that within each of the four categories a cause can be either spiritual or corporeal. While a “spiritual material cause” might sound oxymoronic to our ears, in his *Book of Definitions* Israeli provides an example:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如中世纪思想家采纳了亚里士多德的四类探究，他们也采纳了他在《形而上学》v.2 及其他地方阐述的四种原因（质料因、形式因、动力因与目的因）的区分。伊斯拉埃利虽然采纳了这一图式，却指出在四个范畴中的每一个之内，原因既可以是精神的，也可以是形体的。尽管“精神性的质料因”在我们听来或许自相矛盾，伊斯拉埃利在《定义书》中还是给出了一个例子：
+    step2: |-
+      中世纪思想家采纳了亚里士多德的四类探究，也同样采纳了他在《形而上学》v.2 等处阐述的四种原因之分：质料因、形式因、动力因与目的因。伊斯拉埃利接受了这一图式，但指出四个范畴中的每一个之内，原因都可以是精神的或形体的。“精神性的质料因”在我们听来或许自相矛盾，伊斯拉埃利却在《定义书》中给出了一个例子：
   - id: 22
     kind: body
     source: |-
       > A case of a spiritual material cause is that of the genera which are divided into their species and are the substratum for their forms which complete their speciality, as for instance ‘living being’, which is the genus of man and horse and other species, and is the substratum for their forms which constitute their essence. (Altmann and Stern, *Isaac Israeli*, p. 24)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 精神性质料因的一个例子，是那些分为各属的种，它们是其形式的基底，而这些形式使它们的特殊性得以完成；例如“生物”，它是人与马的属，也是其他各属的属，并且是其形式的基底，而这些形式构成其本质。（Altmann and Stern, *Isaac Israeli*, p. 24）
+    step2: |-
+      > 精神性质料因之一例，是那些划分为若干属的种：它们是自身形式的基底，而这些形式成全其特殊性。例如“动物”是人与马的属，也是其他种的属，并且是这些形式的基底，而这些形式构成其本质。（Altmann and Stern, *Isaac Israeli*, p. 24）
   - id: 23
     kind: body
     source: |-
       Just as spiritual material causes are the material substratum for genera, spiritual formal causes are substantial forms of genera. These genera “cause” those objects which partake of them to be as they are. Israeli’s example of a spiritual efficient cause is paradoxical:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如精神性质料因是各属的质料基底，精神性形式因则是各属的实体形式。这些属“使”分有它们的对象成为其所是。伊斯拉埃利关于精神性动力因的例子则是悖论式的：
+    step2: |-
+      正如精神性质料因是各属的质料基底，精神性形式因就是各属的实体形式。这些属“使”分有它们的对象成为其所是。伊斯拉埃利为精神性动力因所举的例子则是悖论式的：
   - id: 24
     kind: body
     source: |-
       > A case of the spiritual efficient cause is the power of the sphere which was appointed by the Creator, may He be exalted, in nature, and ordained in it over the effects which take place in the corporeal microcosm… (Altmann and Stern, *Isaac Israeli*, p. 25)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 精神性动力因的一个例子，是造物主（愿祂受颂扬）在自然中指派、并在其中为有形小宇宙中发生的结果所规定的天球之力……（Altmann and Stern, *Isaac Israeli*, p. 25）
+    step2: |-
+      > 精神性动力因之一例，是造物主（愿祂受颂扬）在自然中指派、并据以规定有形小宇宙中所发生结果的天球之力……（Altmann and Stern, *Isaac Israeli*, p. 25）
   - id: 25
     kind: body
     source: |-
       The prevalent medieval conception of the sphere of the cosmos is that it is not a vacuum, but rather, crystalline and composed of a fifth element superior to the four elements of our terrestrial world. Hence, it would appear that the efficient spiritual cause could also be an efficient material cause. However, this difficulty is resolved if what Israeli meant here was an intelligence or soul governing the sphere. Although Israeli does not in any of his surviving writings and fragments mention a soul of the spheres, his pupil Dunash Ibn Tamim affirms it in his commentary on *Sefer Yetzirah*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      中世纪关于宇宙天球的流行观念是：它并非虚空，而是由一种晶体状的、优于我们地上世界四元素的第五元素构成。因此，精神性动力因似乎也可以同时是动力性质料因。不过，如果伊斯拉埃利此处指的是掌管天球的某种理智或灵魂，这一困难便化解了。伊斯拉埃利现存的著作与残篇中都没有提到天球的灵魂，但他的学生杜纳什·伊本·塔米姆在《创世书》注释中肯定了它。
+    step2: |-
+      中世纪关于宇宙天球的流行观念认为，天球并非虚空，而是晶体状的，由一种第五元素构成，此元素优于我们地上世界的四元素。这样一来，精神性动力因似乎也可以同时是动力性质料因。不过，若伊斯拉埃利此处指的是掌管天球的某种理智或灵魂，这一困难便化解了。伊斯拉埃利现存的著作与残篇都没有提到天球的灵魂，但他的学生杜纳什·伊本·塔米姆在《创世书》注释中予以肯定。
   - id: 26
     kind: body
     source: |-
       ### 3.3 The Four Elements
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.3 The Four Elements
+    step2: |-
+      ### 3.3 四元素
   - id: 27
     kind: body
     source: |-
       Israeli adopts the Aristotelian doctrine of the four elements which compose all material objects: earth, air, fire and water. These elements are generated by the motion of the heavenly sphere, and they inhere in a material substratum—though Israeli does not elucidate its nature. Although Israeli does not explicitly state that the elements are made up of form and matter, Altmann and Stern (*Isaac Israeli*, p. 183) present a strong case for his acceptance of this idea. In his *Mantua Text*, also known as the *Chapter on the Elements*, he describes the generative order of the elements. The motion of the sphere of the world generated heat, and thus is fire brought into existence. As fire cooled, it became air, which, moving away from fire, cooled and moistened into water, and as water moved from air it cooled and dried and generated earth (Altmann and Stern, *Isaac Israeli*, pp. 120–121).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      伊斯拉埃利采纳亚里士多德关于四元素的学说：一切物质对象都由土、气、火、水构成。这些元素由天球的运动生成，并寓于某种质料基底之中，不过伊斯拉埃利并未阐明这一基底的本性。伊斯拉埃利虽未明言元素由形式与质料构成，阿尔特曼与施特恩（*Isaac Israeli*, p. 183）却为他对这一观念的接受提出了强有力的论证。在其《曼图亚文本》（*Mantua Text*，亦称《论元素章》）中，他描述了元素的生成次序。世界天球的运动产生了热，火由此存在。火冷却而成为气；气离开火，冷却变湿而成为水；水离开气，冷却变干而生成土（Altmann and Stern, *Isaac Israeli*, pp. 120–121）。
+    step2: |-
+      伊斯拉埃利采纳亚里士多德关于四元素的学说：一切物质对象都由土、气、火、水构成。这些元素由天球运动生成，并寓于某种质料基底之中，但伊斯拉埃利没有阐明这一基底的本性。他虽未明言元素由形式与质料构成，阿尔特曼与施特恩（*Isaac Israeli*, p. 183）仍为他对这一观念的接受提出了有力论证。在《曼图亚文本》（*Mantua Text*，亦称《论元素章》）中，他描述了元素的生成次序：世界天球的运动产生热，火由此存在；火冷却而为气；气离开火，冷却变湿而为水；水离开气，冷却变干而生成土（Altmann and Stern, *Isaac Israeli*, pp. 120–121）。
   - id: 28
     kind: body
     source: |-
       ### 3.4 Substance, Form and Matter
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.4 Substance, Form and Matter
+    step2: |-
+      ### 3.4 实体、形式与质料
   - id: 29
     kind: body
     source: |-
       Similar to most other Neoplatonists, Israeli accepted the Aristotelian definition of a substance as a something of which something is said or predicated—and not something which is said of something else. Within a substance, matter is the substratum for the form which determines its being as substance. Further matter can be either particular or general and universal, and if particular “it is the substratum for a special form which constitutes the essence of a particular species…” (*Isaac Israeli*, p. 86)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与大多数其他新柏拉图主义者相似，伊斯拉埃利接受亚里士多德关于实体的定义：实体是某种被述说或被谓述的某物，而不是被用来述说其他某物的东西。在实体之内，质料是形式的基底，形式则规定该物作为实体的存在。此外，质料既可以是特殊的，也可以是一般的、普遍的；若为特殊的，“它就是某种特殊形式的基底，这种形式构成某一特殊种的本质……”（*Isaac Israeli*, p. 86）
+    step2: |-
+      与大多数新柏拉图主义者一样，伊斯拉埃利接受亚里士多德对实体的定义：实体是某种被述说、被谓述的东西，而不是用来述说其他某物的东西。在实体之内，质料是形式的基底，形式规定该物作为实体的存在。质料既可以是特殊的，也可以是一般的、普遍的；若为特殊的，“它就是某一特殊形式的基底，这种形式构成某个特殊种的本质……”（*Isaac Israeli*, p. 86）
   - id: 30
     kind: body
     source: |-
       ### 3.5 Theology
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.5 Theology
+    step2: |-
+      ### 3.5 神学
   - id: 31
     kind: body
     source: |-
       Although explication of the nature of God is absent in the surviving fragments of Israeli’s philosophical corpus, it is apparent that Israeli, like the Muslim philosopher al-Kindi before him, combined the Neoplatonist notion of God as the source of emanation of all things, with the idea common to the monotheistic religions, of a willful Creator who created the world in time. In blending these two conceptions, these philosophers rejected the Aristotelian conception of the eternity of the world, as well as the idea of eternal emanation of some of the Greek Neoplatonists. Israeli’s use of the Arabic term, *al-Bari*, “the Creator” reflects the religious sensitivities of his age—and is not simply a translation of Plotinus’ “The One”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      伊斯拉埃利现存的哲学著作残篇中没有对上帝本性的阐发，但可以看出，伊斯拉埃利像他之前的穆斯林哲学家肯迪一样，把新柏拉图主义关于上帝是一切事物流溢之源的观念，与一神教共有的观念结合起来：上帝是一位有意志的造物主，在时间中创造了世界。在融合这两种构想时，这些哲学家既拒绝了亚里士多德关于世界永恒的观念，也拒绝了某些希腊新柏拉图主义者关于永恒流溢的观念。伊斯拉埃利使用阿拉伯语词 *al-Bari*（“造物主”），反映了他那个时代的宗教感受，而不只是对普罗提诺“太一”的翻译。
+    step2: |-
+      伊斯拉埃利现存哲学著作的残篇中没有对上帝本性的阐发，但可以看出，他像之前的穆斯林哲学家肯迪一样，把新柏拉图主义关于上帝是一切事物流溢之源的观念，与一神教共有的观念结合起来：上帝是有意志的造物主，在时间中创造世界。融合这两种构想，也就意味着拒绝亚里士多德关于世界永恒的学说，以及某些希腊新柏拉图主义者关于永恒流溢的学说。伊斯拉埃利使用阿拉伯语词 *al-Bari*（“造物主”），反映了他那个时代的宗教感受，而不只是对普罗提诺“太一”的译名。
   - id: 32
     kind: body
     source: |-
       In Plotinus’ *Enneads*, the founding text of Neoplatonist philosophy, *The One* contains a will which is not separate from itself (*Enneads*, vi 8.21), and precedes the emanation of *Nous* (The Intellect/Intelligence) a secondary entity from which all lower beings emanate. In Arabic paraphrases of Plotinus, the *Will* or *Word* of God is a secondary hypostasis which creates *Intellect* (ᶜAql). This model is also seen in later Jewish Neoplatonist philosophers Solomon Ibn Gabirol and Judah Halevi. However, Isaac Israeli, like Plotinus, does not treat the will of God as a separate hypostasis or secondary being.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在普罗提诺的《九章集》这部新柏拉图主义哲学奠基之作中，*太一* 包含一个不与自身分离的意志（《九章集》vi 8.21），并且先于 *理智*（Nous，即智性/理智）的流溢；理智是一个次级的实体，一切较低存在者都由它流溢而出。在普罗提诺的阿拉伯语改写本中，上帝的 *意志* 或 *道* 是一个次级本体，它创造 *理智*（ᶜAql）。这一模型也见于后来的犹太新柏拉图主义哲学家所罗门·伊本·盖比鲁勒与犹大·哈列维。然而，伊萨克·伊斯拉埃利同普罗提诺一样，并不把上帝的意志当作一个分离的本体或次级存在者。
+    step2: |-
+      在普罗提诺的《九章集》这部新柏拉图主义哲学的奠基之作中，*太一* 含有一个不与自身分离的意志（《九章集》vi 8.21），并先于 *理智*（Nous）的流溢；理智是次级实体，一切较低存在者都从它流溢而出。在普罗提诺的阿拉伯语改写本中，上帝的 *意志* 或 *道* 是次级本体，由它创造 *理智*（ʿAql）。这一模型也见于后来的犹太新柏拉图主义哲学家所罗门·伊本·盖比鲁勒和犹大·哈列维。然而，伊萨克·伊斯拉埃利同普罗提诺一样，并不把上帝的意志当作分离的本体或次级存在者。
   - id: 33
     kind: body
     source: |-
       One prominent feature in most variants of Neoplatonist thought is Negative Theology, the idea that one cannot predicate anything of God. The problems which this approach intended to avoid were two undesired implications arising from predication of a quality of God—namely, that if we attribute a particular quality to God, this quality exists co-extensively with God, and must hence be co-eternal; secondly, it introduces multiplicity to God. The Neoplatonists, in the main, wished to conceive of God as a simple and radical unity, preceding all multiplicity in the world, and as such, must precede the existence of qualities. Hence the only two allowable predications of God are God’s Unity and God’s Existence. In none of the surviving materials do we find Israeli expressing Negative Theology explicitly. Israeli’s pupil Dunash Ibn Tamim promotes negative theology in his commentary on the mystical work *Sefer Yetzirah*, which lead scholars Altmann and Stern (*Isaac Israeli*, pp. 157–8) to conclude that we can safely assume that Israeli held this opinion as well.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      大多数新柏拉图主义思想变体中都有一个突出特征，即否定神学：人不能对上帝作任何谓述。这一进路想要避开的问题，来自对上帝作性质谓述所引出的两个不受欢迎的推论：第一，若我们赋予上帝某种性质，这种性质便与上帝共延，因而必定与上帝同样永恒；第二，这样会引入上帝的杂多性。新柏拉图主义者大体上希望把上帝设想为一个单纯而彻底的统一体，先于世界一切杂多，因此也必须先于性质的存在。于是，对上帝唯一允许的两种谓述便是上帝的单一性与上帝的存在。在现存材料中，我们都看不到伊斯拉埃利明确表达否定神学。他的学生杜纳什·伊本·塔米姆在神秘主义著作《创世书》的注释中提倡否定神学，这使学者阿尔特曼与施特恩（*Isaac Israeli*, pp. 157–8）断定，我们可以稳妥地假定伊斯拉埃利也持这一观点。
+    step2: |-
+      大多数新柏拉图主义思想变体都有一个突出特征，即否定神学：人不能对上帝作任何谓述。这一进路要避开两个不受欢迎的推论，它们都来自对上帝作性质谓述：其一，若我们赋予上帝某种性质，这种性质便与上帝共延，因而必定与上帝同样永恒；其二，这会把杂多引入上帝。新柏拉图主义者大体上希望把上帝设想为单纯而彻底的统一体，先于世界一切杂多，因而也必须先于性质的存在。于是，对上帝唯一允许的两种谓述，就是上帝的单一性与上帝的存在。现存材料中看不到伊斯拉埃利明确表达否定神学。他的学生杜纳什·伊本·塔米姆在神秘主义著作《创世书》的注释中提倡否定神学，学者阿尔特曼与施特恩（*Isaac Israeli*, pp. 157–8）据此断定，可以稳妥地假定伊斯拉埃利也持这一观点。
   - id: 34
     kind: body
     source: |-
       ### 3.6 The Sequence of Emanation
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.6 The Sequence of Emanation
+    step2: |-
+      ### 3.6 流溢序列
   - id: 35
     kind: body
     source: |-
       Whereas for Plotinus, the second being in the emanative chain is *Nous* (Intellect), Israeli concurs with the model in “Ibn Hasday’s Neoplatonist”, that First Matter and First Form are the first and only “creations” of the Creator—that is, produced by an act of Will—and precede the Intellect. First Matter and First Form conjoin to form the First Intellect. After God creates First Matter and First Form, God’s active role in creation ceases and all subsequent beings emanate in a chain of hypostases from Intellect, downward to the three kinds of soul, and culminating in the material and corporeal Sphere/Nature. Further, Israeli adds a second Intellect which is a distinct hypostasis from First Intellect. First Intellect contains the totality of forms and knows itself intuitively with perfect unchanging knowledge. Second Intellect exists within the domain of Soul, and knows the actualization of particular things via temporal knowledge.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对普罗提诺来说，流溢链条中的第二个存在者是 *理智*（Nous）；伊斯拉埃利则同意“伊本·哈斯代的新柏拉图主义者”的模型：第一质料与第一形式是造物主最初的、也是仅有的“创造物”，即由意志活动所产生者，并且先于理智。第一质料与第一形式结合，形成第一理智。上帝创造第一质料与第一形式之后，其在创造中的主动作用便告终止，此后一切存在者都以本体之链从理智流溢而出，向下直至三类灵魂，最终止于物质的、形体的天球/自然。此外，伊斯拉埃利还增加了一个第二理智，它是与第一理智不同的本体。第一理智包含形式的整体，并以完善而不变的知识直观地认识自身。第二理智存在于灵魂的领域之内，并通过时间性的知识认识个别事物的现实化。
+    step2: |-
+      对普罗提诺而言，流溢链条中的第二个存在者是 *理智*（Nous）；伊斯拉埃利则赞同“伊本·哈斯代的新柏拉图主义者”的模型：第一质料与第一形式是造物主最初、也是仅有的“创造物”，即由意志活动产生者，并且先于理智。第一质料与第一形式结合，形成第一理智。上帝创造第一质料与第一形式之后，便在创造中停止主动作用；此后一切存在者都以本体之链从理智流溢而出，向下直到三类灵魂，最终止于物质的、形体的天球/自然。伊斯拉埃利还增加了一个第二理智，它是与第一理智不同的本体。第一理智包含形式的整体，以完善不变的知识直观地认识自身；第二理智存在于灵魂的领域之内，通过时间性的知识认识个别事物的现实化。
   - id: 36
     kind: body
     source: |-
       Soul is the next realm in the emanative sequence, and Israeli here replicates Aristotle’s threefold division. This universal soul is made up of the higher Rational Soul, the Animal Soul and the Vegetative/Nutritive Soul and from these emanates the superlunary sphere of heaven—the point where the material world emerges from Soul. Whereas most other Neoplatonists use the term “Nature” for the corporeal world, Israeli uses the term “the sphere.” The motions of the superlunary sphere of heaven, made up of a fifth unchanging element, govern the combinations and recombinations of the four elements in the material world below the moon—hence they govern the processes of generation and corruption. Israeli’s student Dunash Ibn Tamim calls this fourth soul the soul of the sphere.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      灵魂是流溢序列中的下一个领域，伊斯拉埃利在此复述了亚里士多德的三分法。这个普遍灵魂由较高的理性灵魂、动物灵魂与植物性/营养性灵魂构成，并从这些灵魂流溢出月上天球，即物质世界从灵魂中涌现的那一点。大多数其他新柏拉图主义者用“自然”一词指形体世界，伊斯拉埃利则用“天球”一词。由不变的第五元素构成的月上天球的运动，支配着月下物质世界中四元素的结合与再结合，因而支配着生成与消亡的过程。伊斯拉埃利的学生杜纳什·伊本·塔米姆称这第四个灵魂为天球的灵魂。
+    step2: |-
+      灵魂是流溢序列中的下一个领域，伊斯拉埃利在此复述了亚里士多德的三分法。普遍灵魂由较高的理性灵魂、动物灵魂与植物性/营养性灵魂构成，月上天球由这些灵魂流溢而出，物质世界正是在这一点上从灵魂中涌现。大多数新柏拉图主义者用“自然”指称形体世界，伊斯拉埃利则用“天球”。月上天球由不变的第五元素构成，其运动支配月下物质世界中四元素的结合与再结合，因而支配生成与消亡的过程。伊斯拉埃利的学生杜纳什·伊本·塔米姆称这第四个灵魂为天球的灵魂。
   - id: 37
     kind: body
     source: |-
       ### 3.7 Metaphors of Light and Shadow
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.7 Metaphors of Light and Shadow
+    step2: |-
+      ### 3.7 光与影的隐喻
   - id: 38
     kind: body
     source: |-
       In Neoplatonist philosophy the metaphor of light emitted from its source illustrates the process of emanation. The light spreads out from its source, but does not diminish its source. Similarly, the generation of emanated entities and hypostases in no way diminishes the source of each emanation. Israeli accounts for the increasing corporeality and particularity and imperfection of each emanated hypostasis by adding the idea of shadow or shade to emanation. Each emanated hypostasis has a lighter region closer to the source of its emanation, but it also contains regions of shade or shadow in areas further from their source. It is in these shaded regions that the emanation of the next sequential entity begins. Further, each emanated hypostasis receives light from its source but also shadow, which grows denser as the ontological distance from the source of emanation increases.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在新柏拉图主义哲学中，光从光源发出的隐喻用来说明流溢过程。光从光源向外扩散，却不减损光源。同样，被流溢的实体与本体的生成，也丝毫不减损每一流溢的来源。伊斯拉埃利为了说明每个被流溢的本体何以愈益形体化、个体化且不完善，在流溢之上增加了影或荫的观念。每个被流溢的本体都有一个较亮的区域，靠近其流溢的来源；但它也包含影或荫的区域，位于离来源较远处。正是在这些荫蔽的区域中，下一个序列实体的流溢才开始。此外，每个被流溢的本体都从来源接受光，也接受影；随着与流溢来源的存在论距离增大，影也愈发浓密。
+    step2: |-
+      在新柏拉图主义哲学中，光从光源发出的隐喻用来说明流溢过程。光自光源向外扩散，却不减损光源；同样，被流溢的实体与本体的生成，也丝毫不减损每一流溢的来源。伊斯拉埃利为了说明每个被流溢的本体何以愈益形体化、个体化且不完善，在流溢之上加入了影或荫的观念。每个被流溢的本体都有较亮的区域，靠近其流溢来源；也有影或荫的区域，位于离来源较远处。下一个序列实体的流溢，正是在这些荫蔽区域中开始。此外，每个被流溢的本体都从来源接受光，也接受影；与流溢来源的存在论距离越大，影便越浓。
   - id: 39
     kind: body
     source: |-
       ### 3.8 On Generation and Passing Away
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.8 On Generation and Passing Away
+    step2: |-
+      ### 3.8 论生成与消亡
   - id: 40
     kind: body
     source: |-
       As is standard within the intellectual milieu dominated by Aristotelian physics, Israeli opined that the generation and passing away of terrestrial objects was the result of recombination of elements and their attendant properties (heat, coldness, wetness and dryness), a process which is governed by the movement of the cosmic sphere. Later thinkers would, via astrology, attribute certain roles in this process to the “intelligences” governing individual celestial objects and their relative positions. The heavens, which are not composed of the four elements and hence not affected by their contrary qualities, are not subject to generation and degeneration. (*Isaac Israeli* [*Book of Definitions*], p. 48)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如在亚里士多德物理学主导的思想氛围中的通行做法，伊斯拉埃利认为地上对象的生成与消亡是元素及其伴生性质（热、冷、湿、干）重新组合的结果，这一过程由宇宙天球的运动支配。后来的思想家会借助占星术，把这一过程中的某些作用归给支配各个天体及其相对位置的“理智”。诸天不由四元素构成，因而不受其对立性质的影响，也就不服从生成与衰败。（*Isaac Israeli* [*Book of Definitions*], p. 48）
+    step2: |-
+      在亚里士多德物理学主导的思想氛围中，这是通行看法：地上对象的生成与消亡，是元素及其伴生性质（热、冷、湿、干）重新组合的结果，而这一过程由宇宙天球的运动支配。后来的思想家会借占星术，把这一过程中的某些作用归给支配各个天体及其相对位置的“理智”。诸天不由四元素构成，不受其对立性质影响，因而也不服从生成与衰败。（*Isaac Israeli* [*Book of Definitions*], p. 48）
   - id: 41
     kind: body
     source: |-
       ## 4. Psychology
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. Psychology
+    step2: |-
+      ## 4 心理学
   - id: 42
     kind: body
     source: |-
       ### 4.1 Intellect and Intellection
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 Intellect and Intellection
+    step2: |-
+      ### 4.1 理智与理智活动
   - id: 43
     kind: body
     source: |-
       In a few instances in his *Book of Definitions*, Israeli diverges from models given by his forerunner al-Kindi. Although Israeli posits a *first intellect* and a *second intellect*, Israeli describes three hypostases of intellect. *First intellect*, the entity which emerges from the conjunction of first matter and first form, contains all subsequent forms, which emanate from the f*irst intellect* and determine the specificality of all substances and knows all things eternally. The secondary hypostasis of intellect is actually in the rational soul, and is potential intellect before it passes into the actual intellect of the first intellect. The “second intellect” (actually the third hypostasis of intellect) is a faculty of the rational soul, which via sense perception and imagination (the “internal senses”) conveys information to the higher hypostasis in the rational soul. The second intellect of the rational soul unites with the objects of its intellection in a spiritual, non-corporeal sense and similarly, upon conveyance of the intellection to the higher intellect of the rational soul, the higher hypostasis of intellect within the rational soul also spiritually unites with the objects of its intellection. (Altmann and Stern, *Isaac Israeli*, pp. 36–7) Since Israeli here diverges from al-Kindi, Stern accuses Israeli of a clumsy misreading of the latter. (*Isaac Israeli*, p. 39) However, since Israeli’s description of internal senses largely mirrors the description in John of Damascus’ *De Fide Orthodoxa*, (Book II, Chapter 20) it is likely that Israeli derived his overall schema of intellection from another source. While Stern rejected the connection between the text of John of Damascus and Israeli (Isaac Israeli, p. 59), Harry Wolfson rejoined that *De Fida Orthodoxa* was available in Arabic translation in the tenth century (Wolfson, 1961, p. 279). Further, it is possible that Israeli was drew his conception from another lost source common to himself and John of Damascus, or from a lost Arabic commentator on the latter.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在《定义书》的少数几处，伊斯拉埃利偏离了他的先行者肯迪所给出的模型。伊斯拉埃利虽然设定了 *第一理智*（*first intellect*）与 *第二理智*（*second intellect*），却描述了三个理智本体。*第一理智* 是第一质料与第一形式结合而产生的实体，它包含随后的一切形式，这些形式由第一理智流溢而出，规定一切实体的种性，并永恒地认识万物。理智的次级本体实际上就在理性灵魂之中，它在进入第一理智的现实理智之前是潜能理智。“第二理智”（实际上是理智的第三个本体）是理性灵魂的一种能力，它经由感官知觉与想象（“内部感觉”）把信息传达给理性灵魂中较高的本体。理性灵魂的第二理智以精神的、非形体的方式与其理智活动的对象结合；同样，当理智活动被传达给理性灵魂中较高的理智时，理性灵魂中较高的理智本体也以精神的方式与其理智活动的对象结合。（Altmann and Stern, *Isaac Israeli*, pp. 36–7）由于伊斯拉埃利在此偏离肯迪，施特恩指责他笨拙地误读了后者。（*Isaac Israeli*, p. 39）然而，伊斯拉埃利对内部感觉的描述大体上与大马士革的约翰《正统信仰阐详》（第二卷第二十章）的描述相应，因此他的理智活动总体图式很可能取自另一来源。施特恩虽否认大马士革的约翰文本与伊斯拉埃利之间的联系（Isaac Israeli, p. 59），哈里·沃尔夫森却回应说，《正统信仰阐详》在 10 世纪已有阿拉伯语译本（Wolfson, 1961, p. 279）。此外，伊斯拉埃利也可能从另一个与他本人及大马士革的约翰共同的佚失来源，或从一位佚失的阿拉伯语约翰注疏家那里取得这一构想。
+    step2: |-
+      在《定义书》的少数几处，伊斯拉埃利偏离了先行者肯迪给出的模型。他虽设定 *第一理智*（*first intellect*）与 *第二理智*（*second intellect*），却描述了三个理智本体。*第一理智* 由第一质料与第一形式结合而产生，包含随后的一切形式；这些形式从第一理智流溢而出，规定一切实体的种性，并永恒地认识万物。理智的次级本体实际就在理性灵魂之中，在进入第一理智的现实理智之前，它是潜能理智。“第二理智”（实为理智的第三个本体）是理性灵魂的一种能力，经由感官知觉和想象（“内部感觉”）把信息传达给理性灵魂中较高的本体。理性灵魂的第二理智以精神的、非形体的方式与其理智活动的对象结合；同样，当理智活动传达给理性灵魂中较高的理智时，这较高的理智本体也以精神的方式与其对象结合。（Altmann and Stern, *Isaac Israeli*, pp. 36–7）由于此处偏离肯迪，施特恩指责伊斯拉埃利笨拙地误读了后者。（*Isaac Israeli*, p. 39）不过，伊斯拉埃利对内部感觉的描述大体与大马士革的约翰《正统信仰阐详》第二卷第二十章相应，因此他的理智活动总体图式很可能另有来源。施特恩否认大马士革的约翰文本与伊斯拉埃利之间有联系（Isaac Israeli, p. 59），哈里·沃尔夫森则回应说，《正统信仰阐详》10 世纪已有阿拉伯语译本（Wolfson, 1961, p. 279）。此外，伊斯拉埃利也可能从另一佚失来源取得这一构想；该来源为他本人与大马士革的约翰所共有，或是一位佚失的阿拉伯语约翰注疏家。
   - id: 44
     kind: body
     source: |-
       ### 4.2 Soul, Spirit and Body
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2 Soul, Spirit and Body
+    step2: |-
+      ### 4.2 灵魂、精神与身体
   - id: 45
     kind: body
     source: |-
       Isaac Israeli did not believe in the ensoulment of souls in bodies. The three souls, despite their role in the governance of the body, and the role of bodily sense perception in conveying information to the rational soul, remained outside the body. In his *Book on Spirit and Soul*, Israeli utilizes scriptural proof texts to argue that the rational soul is what entitles mankind to reward or punishment after death. But he writes tersely and vaguely on the subject of reward and punishment and does not explicitly clarify the relationship between the generic rational soul and rational souls of individuals. Presumably, we all have separate rational souls, otherwise the idea of reward and punishment of rational souls makes no sense. He notes that the perfect actions of man pass beyond the corporeal sphere while those actions to satisfy bodily appetites do not. Further, he affirms that the soul of the righteous will endure in the upper realm with the intellect. Although he has sidestepped the traditional Rabbinic Jewish conception of bodily resurrection of the righteous by stating that the world to come is the upper non-physical world, he does not spell out whether this dwelling entails reintegration of one’s rational soul with the intellect, or a separate yet proximate existence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      伊萨克·伊斯拉埃利不相信灵魂被注入身体。三类灵魂尽管掌管身体，身体感官知觉尽管负责把信息传达给理性灵魂，它们本身仍留在身体之外。在《论精神与灵魂》中，伊斯拉埃利利用经文证明文本论证：正是理性灵魂使人有资格在死后受赏或受罚。但他关于赏罚的论述简短而含糊，也没有明确澄清普遍的理性灵魂与各个人的理性灵魂之间的关系。想来我们都有各自分离的理性灵魂，否则理性灵魂受赏罚的观念便无从成立。他指出，人的完善行为超出形体世界，而为满足身体欲望的行为则不然。他还肯定，义人的灵魂将与理智一起存续于上界。他一方面说，来世是非物质的上界，由此回避了拉比犹太教关于义人身体复活的传统观念；另一方面，他又没有讲明这种居留究竟意味着个人的理性灵魂重新与理智合一，还是各自分离而邻近存在。
+    step2: |-
+      伊萨克·伊斯拉埃利不相信灵魂被注入身体。三类灵魂尽管掌管身体，身体感官知觉尽管负责把信息传达给理性灵魂，它们本身仍留在身体之外。在《论精神与灵魂》中，伊斯拉埃利借经文证明文本论证：正是理性灵魂使人有资格在死后受赏或受罚。但他论赏罚的篇幅简短而含糊，也没有明确澄清普遍的理性灵魂与各个人的理性灵魂之间是什么关系。想来我们都有各自分离的理性灵魂，否则理性灵魂受赏受罚便无从谈起。他指出，人的完善行为超出形体世界，为满足身体欲望的行为则不然。他还肯定，义人的灵魂将与理智一同存续于上界。他说来世是非物质的上界，由此回避了拉比犹太教关于义人身体复活的传统观念；但他没有讲明这种居留究竟意味着个人的理性灵魂重新与理智合一，还是彼此分离而邻近存在。
   - id: 46
     kind: body
     source: |-
       Israeli, like the physician Qusta Ibn Luqa (ca. 835–912), argued that in addition to its connection with souls, a living being has a vital spirit, which unlike souls, is contained within the body and dies with the body, and he employs scripture (Psalms 78: 39) to argue this point. Altmann and Stern show that Israeli’s text very closely parallels Ibn Luqa’s, hence either derived it directly from the former, or they both are quoting the same prior source. (*Isaac Israeli*, p. 50)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      伊斯拉埃利像医生库斯塔·伊本·卢卡（约 835–912 年）一样论证：活物除了与灵魂的联结之外，还有一种生命精气；与灵魂不同，精气包含在身体之内，并随身体一同死去。他引用经文（《诗篇》78:39）来论证这一点。阿尔特曼与施特恩表明，伊斯拉埃利的文本与伊本·卢卡的文本极为接近，因此要么直接取自后者，要么二者都在引用同一个更早的来源。（*Isaac Israeli*, p. 50）
+    step2: |-
+      伊斯拉埃利像医生库斯塔·伊本·卢卡（约 835–912）一样主张：活物除与灵魂相连之外，还有一种生命精气；它与灵魂不同，包含在身体之内，并随身体一同死去。他引《诗篇》78:39 为证。阿尔特曼与施特恩表明，伊斯拉埃利的文本与伊本·卢卡极为接近，因此或直接取自后者，或二者同引一个更早的来源。（*Isaac Israeli*, p. 50）
   - id: 47
     kind: body
     source: |-
       ### 4.3 The Perfection of the Rational Soul
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.3 The Perfection of the Rational Soul
+    step2: |-
+      ### 4.3 理性灵魂的完善
   - id: 48
     kind: body
     source: |-
       In addition to an emanative/generative order, a prominent feature of Neoplatonist philosophy is the idea that through withdrawal from bodily desires, and perfection of the intellect, one’s rational soul can attain unity with the higher world. The early Neoplatonists—those outside of the “revealed” monotheistic traditions of Islam, Judaism and Christianity—suggest that it is possible for the rational soul to achieve unity with The One/God. However, the Neoplatonists who were members of established monotheist religions do not think that one’s rational soul is capable of so high an ascent up the emanative chain, and advocation of such belief might have lead to prosecution for blasphemy or heresy. Nonetheless, Neoplatonists of religious traditions did think that the rational soul’s union with the realm of intellect was possible. Neoplatonists from Proclus onwards describe unification as a three-part process, which Altmann and Stern characterize as Purification—Illumination—Union. For Israeli, the Purification stage involves three activities: an ascetic rejection of bodily desires and pleasures, and the dominance of the two lower souls; a worship of God combined with ethical behavior towards one’s fellow men; and the study of philosophy to develop one’s rational soul. In the second stage, the soul is illuminated by truth. In the third stage, one’s rational soul becomes spiritual and divine, though not achieving full unity with the Creator.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除了流溢/生成的秩序之外，新柏拉图主义哲学的另一个突出特征是这样一种观念：人通过摆脱身体欲望、完善理智，可以让自己的理性灵魂与较高世界达致合一。早期新柏拉图主义者，即那些置身于伊斯兰教、犹太教与基督教这些“启示”一神教传统之外的人，认为理性灵魂有可能与太一/上帝合一。然而，属于建制一神教的那些新柏拉图主义者并不认为人的理性灵魂能够沿流溢链条上升到如此之高，宣扬这种信仰甚至可能招致亵渎或异端之诉。尽管如此，宗教传统中的新柏拉图主义者确实认为理性灵魂与理智领域的结合是可能的。从普罗克洛斯以降，新柏拉图主义者把合一描述为一个三阶段过程，阿尔特曼与施特恩将其概括为净化、照明与合一。对伊斯拉埃利而言，净化阶段包含三项活动：禁欲式地拒绝身体欲望与快乐，并让两类较低灵魂居于支配地位；崇拜上帝，同时对同类行合宜之事；以及研习哲学以发展自己的理性灵魂。在第二阶段，灵魂被真理照亮。在第三阶段，人的理性灵魂变得精神化、神圣化，但并未与造物主完全合一。
+    step2: |-
+      除流溢/生成的秩序之外，新柏拉图主义哲学还有一个突出特征：人可以通过摆脱身体欲望、完善理智，使自己的理性灵魂与较高世界达致合一。早期新柏拉图主义者置身于伊斯兰教、犹太教、基督教这些“启示”一神教传统之外，他们认为理性灵魂有可能与太一/上帝合一。属于建制一神教的新柏拉图主义者则不然：他们认为人的理性灵魂无法沿流溢链条升得这样高，宣扬这种信仰甚至可能招致亵渎或异端之诉。尽管如此，宗教传统中的新柏拉图主义者确实认为，理性灵魂与理智领域的结合是可能的。从普罗克洛斯以降，新柏拉图主义者把合一描述为三阶段过程，阿尔特曼与施特恩概括为净化、照明与合一。对伊斯拉埃利来说，净化阶段包含三项活动：以禁欲方式拒绝身体欲望与快乐，让两类较低灵魂居于支配地位；崇拜上帝，同时对同类行合宜之事；研习哲学以发展理性灵魂。第二阶段，灵魂被真理照亮。第三阶段，人的理性灵魂变得精神化、神圣化，但并未与造物主完全合一。
   - id: 49
     kind: body
     source: |-
       ### 4.4 Free Will and Negation of Akrasia
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.4 Free Will and Negation of Akrasia
+    step2: |-
+      ### 4.4 自由意志与对意志薄弱的否定
   - id: 50
     kind: body
     source: |-
       According to Israeli, a human being can act in a number of ways when faced with a specific situation. The reason for this ability is the capacity of discernment, and more specifically of cogitation and consideration. Due to these capacities people are able to acquire theoretical and practical knowledge and to differentiate between good and evil. Because animals do not possess intellectual capacities, they are limited to acting in a definite way in particular situations. However, the ability of humans to act in different ways is a consequence of humans’ position between pure intellect and beast. People use their cogitation and consideration to attain a higher level of knowledge. However, as long as humans use those capacities their knowledge will remain imperfect and they will continue to hesitate and be uncertain. When they are united with intellect they no longer are uncertain and act in the best possible way in all situations without any tension in their soul. According to Israeli, the certainty of truth cancels all kinds of bad temptations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      据伊斯拉埃利，人在面对特定情境时可以采取多种行动方式。这种能力源于辨别力，更确切地说，源于思考与考量。凭借这些能力，人们能够获得理论知识与实践知识，并区分善恶。动物不具备理智能力，因此在特定情境中只能以确定的方式行动。而人能以不同方式行动，其根源在于人处于纯粹理智与野兽之间。人们运用思考与考量去达到更高层次的知识。然而，只要人还在运用这些能力，其知识便仍不完善，他们也仍会犹豫、不确定。当他们与理智结合时，便不再犹豫，而在一切情境中以尽可能最好的方式行动，灵魂中不再有紧张。据伊斯拉埃利，真理的确定性会取消一切不良诱惑。
+    step2: |-
+      据伊斯拉埃利，人在特定情境中可以采取多种行动方式，这种能力源于辨别力，更确切地说，源于思考和考量。凭借这些能力，人能够获得理论知识和实践知识，并区分善恶。动物没有理智能力，在特定情境中只能以确定的方式行动。人之所以能以不同方式行动，根源在于人处于纯粹理智与野兽之间。人运用思考和考量去达到更高层次的知识。但只要还在运用这些能力，人的知识便仍不完善，也仍会犹豫、犹疑。一旦与理智结合，人便不再犹疑，在一切情境中以尽可能最好的方式行动，灵魂中再无紧张。据伊斯拉埃利，真理的确定性会取消一切不良诱惑。
   - id: 51
     kind: body
     source: |-
       One may interpret Israeli here as saying that if a man has an imperfect knowledge that it is bad to eat unhealthy candies, his knowledge and his temptation for these candies are in struggle in his soul. His capacities of consideration and cogitation (אלפכר) have to decide between this imperfect knowledge and the temptation. Once this person attains perfect knowledge, he or she no longer wishes to eat the candies. S. Sadik argues that Israeli’s remarks constitute a Socratic negation of akrasia (Sadik 2013)[^sadik-2013].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此处可以这样理解伊斯拉埃利：如果一个人抱有不完善的知识，知道吃不健康的糖果不好，那么他的知识与他对这些糖果的诱惑便在灵魂中相互斗争。他的考量与思考能力（אלפכר）必须在不完善的知识与诱惑之间作出决定。一旦此人获得完善的知识，他或她便不再想吃糖果。S. Sadik 论证，伊斯拉埃利的论述构成了对意志薄弱的苏格拉底式否定（Sadik 2013）[^sadik-2013]。
+    step2: |-
+      此处可以这样理解伊斯拉埃利：假如一个人抱有不完善的知识，知道吃不健康的糖果不好，那么他的知识与他对糖果的诱惑便在灵魂中相互斗争。他的考量与思考能力（אלפכר）必须在不完善的知识与诱惑之间作出决定。一旦此人获得完善的知识，他或她便不再想吃糖果。S. Sadik 论证，伊斯拉埃利的论述构成了对意志薄弱的苏格拉底式否定（Sadik 2013）[^sadik-2013]。
   - id: 52
     kind: body
     source: |-
       ## 5. Philosophical Works, Manuscripts and Translations
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5. Philosophical Works, Manuscripts and Translations
+    step2: |-
+      ## 5 哲学著作、抄本与译本
   - id: 53
     kind: body
     source: |-
       All of the following works, except the *Book on the Elements*, have been translated by Alexander Altmann and S. M. Stern in their monograph *Isaac Israeli: A Neoplatonic Philosopher of the Early Tenth Century*. In the 1950s and 1960s these two scholars have also published transcriptions of the fragments and manuscripts of these works in a number of journals. In addition to publishing and translating known works of Isaac Israeli, Altmann and Stern firmly established the hypothesis suggested by Gershom Scholem that Isaac Israeli authored a work previously erroneously attributed to Aristotle: *The Chapter on the Elements* (Mantua Text). Further, in their extensive analyses of Israeli’s texts (in which they often compare Israeli’s text to parallel passages in al-Kindi and other authors), they established the surprising antiquity of the Neoplatonic treatise which Abraham Ibn Hasday (d. 1240) appended to his Hebrew translation of *The Prince and the Ascetic*. This work, which they dubbed “Ibn Hasday’s Neoplatonist” actually predated and influenced both Isaac Israeli and the *Longer Recension of the Theology of Aristotle*, and Stern’s article on “Ibn Hasday’s Neoplatonist” is an important component of any thorough study of the philosophy of Isaac Israeli.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      以下著作除《元素书》之外，均由亚历山大·阿尔特曼与 S. M. 施特恩在其专著《伊萨克·伊斯拉埃利：十世纪早期的一位新柏拉图主义哲学家》中译出。20 世纪 50 与 60 年代，这两位学者还在若干期刊上发表了这些著作残篇与抄本的转录本。除了出版并翻译伊萨克·伊斯拉埃利的已知著作之外，阿尔特曼与施特恩还牢固地确立了格肖姆·朔勒姆提出的假说：伊萨克·伊斯拉埃利撰有一部先前被误归给亚里士多德的著作，即《论元素章》（曼图亚文本）。此外，在他们对伊斯拉埃利文本的广泛分析中（其中常把伊斯拉埃利的文本与肯迪及其他作者的相应段落相比较），他们确立了亚伯拉罕·伊本·哈斯代（卒于 1240 年）附在其《王子与苦行者》希伯来语译本之后的这部新柏拉图主义论著具有惊人的古老性。这部论著被他们称为“伊本·哈斯代的新柏拉图主义者”，实际上早于并影响了伊萨克·伊斯拉埃利与《亚里士多德神学长编本》；施特恩论“伊本·哈斯代的新柏拉图主义者”的文章，是任何深入研究伊萨克·伊斯拉埃利哲学的工作的重要组成部分。
+    step2: |-
+      以下著作除《元素书》外，均由亚历山大·阿尔特曼与 S. M. 施特恩在其专著《伊萨克·伊斯拉埃利：十世纪早期的一位新柏拉图主义哲学家》中译出。20 世纪 50 与 60 年代，两位学者还在若干期刊上发表了这些著作残篇与抄本的转录本。除出版、翻译伊萨克·伊斯拉埃利的已知著作外，阿尔特曼与施特恩还牢固确立了格肖姆·朔勒姆提出的假说：伊萨克·伊斯拉埃利撰有一部先前误归亚里士多德的著作，即《论元素章》（曼图亚文本）。在他们对伊斯拉埃利文本的广泛分析中（常把伊斯拉埃利文本与肯迪及其他作者的相应段落相比较），两人还确认了亚伯拉罕·伊本·哈斯代（卒于 1240 年）附在其《王子与苦行者》希伯来语译本之后的那部新柏拉图主义论著具有惊人的古老性。他们把这部论著称为“伊本·哈斯代的新柏拉图主义者”；它实际早于并影响了伊萨克·伊斯拉埃利与《亚里士多德神学长编本》。施特恩论“伊本·哈斯代的新柏拉图主义者”的文章，是任何深入研究伊萨克·伊斯拉埃利哲学的工作都不可或缺的部分。
   - id: 54
     kind: body
     source: |-
       ### 5.1 The Book of Definitions
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.1 The Book of Definitions
+    step2: |-
+      ### 5.1 《定义书》
   - id: 55
     kind: body
     source: |-
       Originally written in Arabic, this work is extant in two Latin (Liber *de Definicionibus/Definitionibus*) and two Hebrew translations (*Sefer ha-Gvulim*), but only a fragment of the original Arabic (*Kitab al-Hudud*) survived. That this book was widely read by Christian scholastics is evidenced by Thomas Aquinas’ and Albertus Magnus’ misattribution of Avicenna’s definition of truth to Isaac’s *Book of Definitions* (see Altmann & Stern, *Isaac Israeli*, p. 59). This book is a collection of 57 definitions, the bulk of which are paraphrases and quotes (often without attribution) of various passages of al-Kindi. In some instances, he cites “the philosopher” who would be understood to mean Aristotle, but he is actually paraphrasing al-Kindi, who oftentimes purports to elucidate what Aristotle had written on a particular subject. Occasionally, his definitions derive from other possible sources such as Qusta ibn Luqa (a physician, mathematician, scientist and translator, lived 835–912 C.E.), Ammonius Hermiae of Alexandria (Fifth Century C.E.) and John Philoponus (490–ca. 570 C.E.). A few ideas expressed in this work are not attested in any other known sources. Yet, because of the book’s close adherence to al-Kindi, Stern hypothesizes that these deviations are often either quotation of definitions of al-Kindi which have been lost, or are misreadings of al-Kindi. One of the colophons at the end noted that the work is a “collection,” perhaps indicating that the material was not original, nor intended to be read as such. In another manuscript the colophon asserts that Isaac Israeli had written it, yet this same colophon contains spurious information—that Israeli was from Spain and that he had fathered children whom he hoped would study it (Altmann & Stern, *Isaac Israeli*, p. 78), hence its claim that the treatise is an entirely original work of Israeli’s must not be regarded as authoritative.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此书原以阿拉伯语写成，现存两种拉丁语译本（*Liber de Definicionibus/Definitionibus*）与两种希伯来语译本（*Sefer ha-Gvulim*），但阿拉伯语原文（*Kitab al-Hudud*）仅存一个残篇。托马斯·阿奎那与大阿尔伯特把阿维森纳关于真理的定义误归于伊萨克的《定义书》，可见此书曾为基督教经院学者广泛阅读（见 Altmann & Stern, *Isaac Israeli*, p. 59）。此书是一部包含 57 条定义的汇集，其中大部分是对肯迪各段文字的改写与引用（常常不加注明）。有些地方，他称引“那位哲学家”，读者会理解为亚里士多德，但他实际上是在改写肯迪，而肯迪又常常自称是在阐明亚里士多德就某一主题所写的内容。偶尔，他的定义也取自其他可能的来源，如库斯塔·伊本·卢卡（医生、数学家、科学家与翻译家，公元 835–912 年在世）、亚历山大里亚的赫尔米亚的阿莫尼俄斯（公元 5 世纪）与约翰·菲洛波努斯（公元 490–约 570 年）。此书所表达的少数观念，不见于任何其他已知来源。然而，由于此书紧密依附肯迪，施特恩推测这些偏离往往或是对肯迪已佚定义的引用，或是对肯迪的误读。书末的一则题跋指出，此书是一部“汇编”，这或许表明材料并非原创，也无意被当作原创来读。另一抄本的题跋则声称此书为伊萨克·伊斯拉埃利所撰，但同一题跋含有虚假信息：说伊斯拉埃利来自西班牙，还说他有子女并希望他们研读此书（Altmann & Stern, *Isaac Israeli*, p. 78）；因此，该题跋关于此书完全是伊斯拉埃利原创著作的说法，不可视为权威。
+    step2: |-
+      此书原以阿拉伯语写成，现存两种拉丁语译本（*Liber de Definicionibus/Definitionibus*）和两种希伯来语译本（*Sefer ha-Gvulim*），阿拉伯语原文（*Kitab al-Hudud*）则仅存一个残篇。托马斯·阿奎那与大阿尔伯特把阿维森纳关于真理的定义误归给伊萨克的《定义书》，可见此书曾为基督教经院学者广泛阅读（见 Altmann & Stern, *Isaac Israeli*, p. 59）。全书汇集 57 条定义，大部分是对肯迪各段文字的改写与引用，且常常不加注明。有些地方他称引“那位哲学家”，读者会理解为亚里士多德，其实他是在改写肯迪，而肯迪又常自称在阐明亚里士多德就某一主题所写的内容。偶尔，他的定义也取自其他来源，如库斯塔·伊本·卢卡（医生、数学家、科学家与翻译家，835–912 年在世）、亚历山大里亚的赫尔米亚的阿莫尼俄斯（5 世纪）和约翰·菲洛波努斯（490–约 570）。书中有少数观念不见于任何其他已知来源。由于此书紧密依附肯迪，施特恩推测这些偏离或是对肯迪已佚定义的引用，或是对肯迪的误读。书末一则题跋称此书为“汇编”，或许表明材料并非原创，也无意被当作原创来读。另一抄本的题跋则声称此书为伊萨克·伊斯拉埃利所撰，但同一题跋含有虚假信息：说伊斯拉埃利来自西班牙，还说他有子女并希望他们研读此书（Altmann & Stern, *Isaac Israeli*, p. 78）。因此，该题跋关于此书全为伊斯拉埃利原创的说法不可视为权威。
   - id: 56
     kind: body
     source: |-
       Both Latin versions were published by J.T. Muckle, “Issac Israeli, Liber de Definicionibus” in *Archives d’histoire doctrinale et litteraire du moyen age*, 1937–8. The longer version was translated by Gerard of Cremona (1114–1187), and appears in manuscripts (Paris B.N. 14,700; Paris B.N. 6443; Vatican Lat. 2186) as well as a printed edition *Omnia opera Ysaac*, from Lyons in 1515. M. Alonso speculated that the shorter version (MS Munich Lat. 8001) is a translation by Domingo Gundissalinus and predated the longer version (Alonso, 1947, pp. 295, 325) (See “Traducciones del arcediano Domingo Gundisalvo” in *Al-Andalus*, 1947, pp. 295, 325). Altmann and Stern challenge this hypothesis, arguing that the shorter version is an epitome of the longer version, improving the translation at points (*Isaac Israeli*, p. 5).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      两种拉丁语译本均由 J.T. Muckle 刊行，题为“Issac Israeli, Liber de Definicionibus”，载《中世纪学说与文学史文库》（*Archives d’histoire doctrinale et litteraire du moyen age*），1937–8 年。较长的译本出自克雷莫纳的杰拉德（1114–1187）之手，见于若干抄本（Paris B.N. 14,700；Paris B.N. 6443；Vatican Lat. 2186），另有 1515 年里昂印本《伊萨克全集》（*Omnia opera Ysaac*）。M. Alonso 推测，较短的译本（慕尼黑拉丁文抄本 8001 号）是多明戈·贡迪萨尔维的译本，且早于较长的译本（Alonso, 1947, pp. 295, 325）（见“Traducciones del arcediano Domingo Gundisalvo”，载 *Al-Andalus*, 1947, pp. 295, 325）。阿尔特曼与施特恩对这一假说提出质疑，认为较短的译本只是较长译本的节本，在某些地方改进了译文（*Isaac Israeli*, p. 5）。
+    step2: |-
+      两种拉丁语译本均由 J.T. Muckle 刊行，题为“Issac Israeli, Liber de Definicionibus”，载《中世纪学说与文学史文库》（*Archives dʼhistoire doctrinale et litteraire du moyen age*），1937–8 年。较长的译本出自克雷莫纳的杰拉德（1114–1187）之手，见于若干抄本（Paris B.N. 14,700；Paris B.N. 6443；Vatican Lat. 2186），另有 1515 年里昂印本《伊萨克全集》（*Omnia opera Ysaac*）。M. Alonso 推测，较短的译本（慕尼黑拉丁文抄本 8001 号）是多明戈·贡迪萨尔维所译，且早于较长译本（Alonso, 1947, pp. 295, 325；并见“Traducciones del arcediano Domingo Gundisalvo”，*Al-Andalus*, 1947, pp. 295, 325）。阿尔特曼与施特恩质疑这一假说，认为较短译本只是较长译本的节本，在某些地方改进了译文（*Isaac Israeli*, p. 5）。
   - id: 57
     kind: body
     source: |-
       Nissim ben Solomon translated one of the Hebrew versions, and it can be found in its entirety in H. Hirschfeld, *Festschrift zum 80. Geburtstag M. Steinschneiders*, pp. 131–42. J.L. Teicher was of the opinion that the Hebrew version was translated from the Latin version (See “The Latin-Hebrew school of translators in Spain in the twelfth century,” in *Homanaje a Millas-Vallicrosa, v.ii*, pp. 416–22). Julius Guttman and Stern think that his primary source was the Arabic version (Stern and Altmann, *Isaac Israeli*, p. 6). The second Hebrew translation, whose translator is unknown, was published by Altmann in *Journal of Semitic Studies*, 1957, pp. 232–42.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尼西姆·本·所罗门翻译了其中一种希伯来语译本，全文可见于 H. Hirschfeld 编《M. 施泰因施奈德八十寿辰纪念文集》（*Festschrift zum 80. Geburtstag M. Steinschneiders*），pp. 131–42。J.L. Teicher 认为，希伯来语译本译自拉丁语译本（见“The Latin-Hebrew school of translators in Spain in the twelfth century”，载 *Homanaje a Millas-Vallicrosa, v.ii*，pp. 416–22）。尤利乌斯·古特曼与施特恩则认为，其主要来源是阿拉伯语译本（Stern and Altmann, *Isaac Israeli*, p. 6）。第二种希伯来语译本译者不详，由阿尔特曼刊于《闪米特研究杂志》（*Journal of Semitic Studies*），1957 年，pp. 232–42。
+    step2: |-
+      尼西姆·本·所罗门翻译了其中一种希伯来语译本，全文见 H. Hirschfeld 编《M. 施泰因施奈德八十寿辰纪念文集》（*Festschrift zum 80. Geburtstag M. Steinschneiders*），pp. 131–42。J.L. Teicher 认为，该希伯来语译本译自拉丁语译本（见“The Latin-Hebrew school of translators in Spain in the twelfth century”，*Homanaje a Millas-Vallicrosa, v.ii*，pp. 416–22）；尤利乌斯·古特曼与施特恩则认为，其主要来源是阿拉伯语译本（Stern and Altmann, *Isaac Israeli*, p. 6）。第二种希伯来语译本译者不详，由阿尔特曼刊于《闪米特研究杂志》（*Journal of Semitic Studies*），1957 年，pp. 232–42。
   - id: 58
     kind: body
     source: |-
       The surviving Arabic fragment is written in Hebrew characters, but there are indications that the original text was written in Arabic script. The Arabic fragment can be found in the Cambridge Taylor-Schechter collection, document TS. 8 Ka.6² and has been published twice—by H. Hirschfeld in “The Arabic portion of the Cairo Genizah at Cambridge,” Jewish Quarterly Review xv (1902), pp. 689–93 and by Altmann in *Journal of Semitic Studies*, 1957, pp. 232–42. This work is accessible in English translation with commentary in Altmann and Stern’s *Isaac Israeli*, 9–78.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现存的阿拉伯语残篇以希伯来字母书写，但有迹象表明原文是用阿拉伯文字母写成的。该阿拉伯语残篇见于剑桥泰勒-谢克特收藏，编号 TS. 8 Ka.6²，已刊行两次：一次由 H. Hirschfeld 刊于“The Arabic portion of the Cairo Genizah at Cambridge”，《犹太评论季刊》（*Jewish Quarterly Review*）xv（1902），pp. 689–93；一次由阿尔特曼刊于《闪米特研究杂志》，1957 年，pp. 232–42。此书的英译与评注见阿尔特曼与施特恩《伊萨克·伊斯拉埃利》，9–78 页。
+    step2: |-
+      现存阿拉伯语残篇以希伯来字母书写，但有迹象表明原文用的是阿拉伯文字母。该残篇藏于剑桥泰勒-谢克特收藏，编号 TS. 8 Ka.6²，已刊行两次：H. Hirschfeld，“The Arabic portion of the Cairo Genizah at Cambridge”，《犹太评论季刊》（*Jewish Quarterly Review*）xv（1902），pp. 689–93；阿尔特曼，《闪米特研究杂志》，1957 年，pp. 232–42。此书的英译与评注见阿尔特曼与施特恩《伊萨克·伊斯拉埃利》，9–78 页。
   - id: 59
     kind: body
     source: |-
       Stern prepared a critical edition of the Hebrew versions but did not publish it; it was published posthumously, together with a critical edition of the *Book on Sprit and Soul* in Freudenthal and Stern (2017).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      施特恩准备了一份希伯来语译本的校勘本，但生前未刊；该校本后来与《论精神与灵魂》的校勘本一同刊于 Freudenthal and Stern（2017）。
+    step2: |-
+      施特恩编成希伯来语译本的校勘本，生前未刊；后来与《论精神与灵魂》的校勘本一同发表于 Freudenthal and Stern（2017）。
   - id: 60
     kind: body
     source: |-
       ### 5.2 The Book of Substances
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.2 The Book of Substances
+    step2: |-
+      ### 5.2 《实体书》
   - id: 61
     kind: body
     source: |-

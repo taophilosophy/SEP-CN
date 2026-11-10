@@ -371,47 +371,27 @@ segments:
 
       $$\tag{5} \frac{dK(t)}{dt} = - C(t) $$
     step1: |-
-      设作为拉姆齐经济的一个极端特例，对所有 $K \ge 0$，$F(K) = 0$。于是方程 (1) 化为
+      设作为拉姆齐经济的一个极端特例，对所有 $K \ge 0$，$F(K) = 0$。那么方程 (1) 就约化为
 
       $$\tag{5} \frac{dK(t)}{dt} = - C(t) $$
-
-      方程 (5) 所描述的经济，由一块不腐坏的蛋糕构成，其初始日期的大小为 $K(0) \gt 0$。显然，满足方程 (5) 的每一条消费流 $\{C(t)\}$ 在长期都趋于零。形式上，当 $t \rightarrow \infty$ 时 $C(t) \rightarrow 0$。
     step2: |-
       试取拉姆齐经济的一个极端特例：对所有 $K \ge 0$，$F(K) = 0$。于是方程 (1) 化为
 
       $$\tag{5} \frac{dK(t)}{dt} = - C(t) $$
-
-      方程 (5) 所刻画的经济，不过是一块不会腐坏的蛋糕，其初始日期大小为 $K(0) \gt 0$。显然，凡满足方程 (5) 的消费流 $\{C(t)\}$，长期必趋于零；形式上即当 $t \rightarrow \infty$ 时 $C(t) \rightarrow 0$。
   - id: 42
     kind: body
     source: |-
       The economy described in equation (5) consists of a non-deteriorating piece of cake, of size $K(0) \gt 0$ at the initial date. It is obvious that every consumption stream $\{C(t)\}$ satisfying equation (5) tends to zero in the long run. Formally, $C(t) \rightarrow 0$ as $t \rightarrow \infty$.
     step1: |-
-      由于 $U$ 函数只在正仿射变换下唯一，我们可以不失一般性地把它规范化，使 $U(0) \ne 0$。于是显然：对一切可行 $\{C(t)\}$，若 $U(0) \lt 0$，*拉姆齐第一式* 中的 $V(0)$ 发散至负无穷；若 $U(0) \gt 0$，则发散至正无穷。
+      方程 (5) 所描述的经济由一块不腐坏的蛋糕构成，初始日期时大小为 $K(0) \gt 0$。显然，满足方程 (5) 的每一条消费流 $\{C(t)\}$ 长期都趋于零。形式上，$C(t) \rightarrow 0$ 当 $t \rightarrow \infty$。
     step2: |-
-      $U$ 函数只具正仿射变换下的唯一性，故可不失一般性地将其规范化，使 $U(0) \ne 0$。于是显而易见：对一切可行的 $\{C(t)\}$，若 $U(0) \lt 0$，**拉姆齐第一式** 中的 $V(0)$ 发散至负无穷；若 $U(0) \gt 0$，则发散至正无穷。
-  - id: 43
-    kind: body
-    source: |-
-      Because the $U$-function is unique up to positive affine transformations, we may without any loss of generality normalize it so that $U(0) \ne 0$. It is then obvious that for all feasible $\{C(t)\}$, $V(0)$ in *Ramsey Mark I* diverges to minus infinity if $U(0) \lt 0$, but diverges to plus infinity if $U(0) \gt 0$. That an optimum policy does not exist in the cake-eating model can be seen if we now recall that $U(C)$ has been assumed to be strictly concave. The assumption implies that any non-egalitarian distribution of consumption among the generations can be improved upon by a suitable redistribution. The ideal distribution would be equal consumption for all generations. The only consumption stream with the latter property is $C(t) = 0$ for all $t$. But that’s the worst possible distribution. QED
+      方程 (5) 所刻画的经济，不过是一块不会腐坏的蛋糕，其初始日期大小为 $K(0) \gt 0$。显然，凡满足方程 (5) 的消费流 $\{C(t)\}$，长期必趋于零；形式上即当 $t \rightarrow \infty$ 时 $C(t) \rightarrow 0$。
+infinity if $U(0) \lt 0$, but diverges to plus infinity if $U(0) \gt 0$. That an optimum policy does not exist in the cake-eating model can be seen if we now recall that $U(C)$ has been assumed to be strictly concave. The assumption implies that any non-egalitarian distribution of consumption among the generations can be improved upon by a suitable redistribution. The ideal distribution would be equal consumption for all generations. The only consumption stream with the latter property is $C(t) = 0$ for all $t$. But that’s the worst possible distribution. QED
     step1: |-
-      吃蛋糕模型中不存在最优政策，这一点可见于如下：我们现已记起，$U(C)$ 被假定为严格凹。该假定意味着，世代间任何不平等的消费分配都可通过适当再分配而改善。理想的分配是各世代消费相等。而唯一具有后一性质的消费流是 $C(t) = 0$（对所有 $t$）。但那却是最坏的分配。证毕。
+      由于 $U$ 函数只在正仿射变换下唯一，我们可以不失一般性地把它规范化，使 $U(0) \ne 0$。于是显然：对一切可行 $\{C(t)\}$，*拉姆齐第一式* 中的 $V(0)$ 若 $U(0) \lt 0$ 则发散到负无穷，若 $U(0) \gt 0$ 则发散到正无穷。吃蛋糕模型中不存在最优政策，这一点可以这样看出：我们记得 $U(C)$ 已被假定为严格凹。该假定意味着，世代间任何不平等的消费分配都可以通过适当再分配来改善。理想的分配是各世代消费相等。唯一具有后一性质的消费流是 $C(t) = 0$（对所有 $t$）。但那是最坏的分配。证毕。
     step2: |-
-      吃蛋糕模型里不存在最优政策，可由下述推知：我们记得 $U(C)$ 被假定为严格凹；此假定意味着，代际间任何不平等的消费分配，都可借适当再分配而改善。理想的分配是各代消费均等；而唯一具此性质的消费流，是 $C(t) = 0$（对所有 $t$）。偏偏那又是最坏的分配。证毕。
-  - id: 44
-    kind: body
-    source: |-
-      ### 3.2 Re-normalizing Undiscounted Utilitarianism
-    step1: |-
-      ### 3.2 Re-normalizing Undiscounted Utilitarianism
-    step2: |-
-      ### 3.2 重新规范化不贴现的功利主义
-  - id: 45
-    kind: body
-    source: |-
-      The question arises whether there are circumstances in which there is a best consumption stream even though $V(0)$ does not converge for all consumption streams. Ramsey formulated the question by altering the way the saving problem is posed.
-    step1: |-
-      问题在于：是否存在这样的情形——尽管 $V(0)$ 对一切消费流都不收敛，却仍有一条最佳消费流？拉姆齐通过改变储蓄问题的提法来表述这一问题。
+      $U$ 函数只具正仿射变换下的唯一性，故可不失一般性地将其规范化，使 $U(0) \ne 0$。于是显而易见：对一切可行的 $\{C(t)\}$，若 $U(0) \lt 0$，**拉姆齐第一式** 中的 $V(0)$ 发散至负无穷；若 $U(0) \gt 0$，则发散至正无穷。吃蛋糕模型里不存在最优政策，可由下述推知：我们记得 $U(C)$ 被假定为严格凹；此假定意味着，代际间任何不平等的消费分配，都可借适当再分配而改善。理想的分配是各代消费均等；而唯一具此性质的消费流，是 $C(t) = 0$（对所有 $t$）。偏偏那又是最坏的分配。证毕。
+一问题。
     step2: |-
       问题随之而来：是否可能存在某种情形，使 $V(0)$ 对一切消费流皆不收敛，却仍有一条最佳消费流？拉姆齐改换储蓄问题的提法，以此表述该问题。
   - id: 46
@@ -539,9 +519,10 @@ segments:
     source: |-
       Let $\{U(t)\}$ be an infinite well-being stream, that is, $\{U(t)\} = (U(0),U(1),\ldots ,U(t),\ldots)$. We say $V(\{U(t)\})$ is *continuous* if in an appropriate mathematical sense the values of $V$ for well-being streams $\{U(t)\}$ that don’t differ much in the space of $\{U(t)\}$s are close to one another. A further condition on the $V$-function that is ethically attractive is “monotonicity”. To define the notion let us say a well-being stream is “superior” to another if no generation enjoys less well-being along the former than along the latter and if there is at least one generation that enjoys greater well-being in the former than it does in the latter. We say that $V$ is *monotonic* if $V$ is larger for a well-being stream than it is for another if the former is superior to the latter.
     step1: |-
-      令 $\{U(t)\}$ 为无穷福祉流，即 $\{U(t)\} = (U(0),U(1),\ldots ,U(t),\ldots)$。我们称 $V(\{U(t)\})$ 是 *连续的*，若在适当的数学意义上，对那些在 $\{U(t)\}$ 空间中相差不大的福祉流，$V$ 的取值彼此接近。$V$ 函数另一个在伦理上有吸引力的条件是“单调性”。为定义此概念，我们说一个福祉流比另一个“更优”，若没有任何一代在前者下享有的福祉少于后者，且至少有一代在前者下享有更多福祉。我们称 $V$ 是 *单调的*，若当前者优于后者时，$V$ 对前者取值更大。
+      令 $\{U(t)\}$ 为无穷福祉流，即 $\{U(t)\} = (U(0),U(1),\ldots ,U(t),\ldots)$。我们称 $V(\{U(t)\})$ 是 *连续的*，若在适当的数学意义上，对那些在 $\{U(t)\}$ 空间中相差不大的福祉流，$V$ 的取值彼此接近。$V$ 函数另一个在伦理上有吸引力的条件是“单调性”。为定义此概念，我们说一个福祉流 $\{U(t)\}$ 比另一个“更优”，若没有任何一代在前者下享有的福祉少于后者，且至少有一代在前者下享有更多福祉。我们称 $V$ 是 *单调的*，若当前者优于后者时，$V$ 对前者取值更大。
     step2: |-
-      令 $\{U(t)\}$ 为无穷福祉流，即 $\{U(t)\} = (U(0),U(1),\ldots ,U(t),\ldots)$。若在适当的数学意义上，在 $\{U(t)\}$ 空间中彼此相差不大的福祉流，其 $V$ 值也彼此相近，则称 $V(\{U(t)\})$ 是 **连续的**。$V$ 函数另有一个在伦理上颇具吸引力的条件，曰“单调性”。为立此概念，先说一个福祉流较另一个“更优”：倘若没有任何一代在前者之下所享福祉少于后者，且至少有一代在前者之下所享更多。若当前者优于后者时 $V$ 对前者取值更大，则称 $V$ 是 **单调的**。
+      令 $\{U(t)\}$ 为无穷福祉流，即 $\{U(t)\} = (U(0),U(1),\ldots ,U(t),\ldots)$。若在适当的数学意义上，在 $\{U(t)\}$ 空间中彼此相差不大的福祉流，其 $V$ 值也彼此相近，则称 $V(\{U(t)\})$ 是 **连续的**。$V$ 函数另有一个在伦理上颇具吸引力的条件，曰“单调性”。为立此概念，先说一个福祉流 $\{U(t)\}$ 较另一个“更优”：倘若没有任何一代在前者之下所享福祉少于后者，且至少有一代在前者之下所享更多。若当前者优于后者时 $V$ 对前者取值更大，则称 $V$
+ 是 **单调的**。
   - id: 60
     kind: body
     source: |-
