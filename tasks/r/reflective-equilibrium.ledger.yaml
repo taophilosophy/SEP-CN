@@ -1,0 +1,881 @@
+version: 1
+slug: reflective-equilibrium
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      If you believe that conduct in some case is right or wrong, you have a moral judgment or intuition. Perhaps you have many such judgments about different cases. You might, nevertheless, consider that judgments alone do not *justify* the moral views they express. You and your moral interlocutors might be concerned that “what we actually accept is fraught with idiosyncrasy and vulnerable to vagaries of history and personality” (Elgin 1996: 108)[^elgin-1996] or displays “irregularities and distortions” (Rawls 1971: 48)[^rawls-1971].
+    step1: |-
+      如果你认为某情形下的行为是对的或错的，你就有了一个道德判断或直觉。也许你对不同情形有许多这样的判断。不过，你也许认为，判断本身并不 *证成* 它们所表达的道德观点。你与你的道德对话者可能担心，“我们实际接受的东西充满个人癖性，易受历史与人格之无常变故的摆布”（Elgin 1996: 108）[^elgin-1996]，或者显示出“不规则与扭曲”（Rawls 1971: 48）[^rawls-1971]。
+    step2: |-
+      你若认为某种情形下的行为是对的或错的，便拥有一个道德判断或直觉。对于不同的情形，你或许有许多这样的判断。然而你仍可能认为，单凭判断并不足以 **证成** 其所表达的道德观点。你与自己的道德对话者也许都会忧心：“我们实际所接受的东西充满了个人癖性，极易受历史与人格之无常的摆布”（Elgin 1996: 108）[^elgin-1996]，或者显出“种种不规则与扭曲”（Rawls 1971: 48）[^rawls-1971]。
+  - id: 2
+    kind: body
+    source: |-
+      John Rawls proposed to address these concerns through the *method of reflective equilibrium.* We first ensure that our judgments are considered, being made in circumstances appropriate for moral deliberation. We are then to consider general principles that might accommodate our set of considered judgments—and more than that, explain and extend them. On the standard *wide* reflective equilibrium, we are to consider
+    step1: |-
+      约翰·罗尔斯提出，通过 *反思平衡的方法* 来应对这些忧虑。我们首先确保自己的判断是经过考虑的，即它们是在适宜于道德慎思的情形中作出的。然后，我们要考虑那些可能容纳我们这组经过考虑的判断的普遍原则——并且不止于此，还要解释并扩展它们。按标准的 *广义* 反思平衡，我们要考虑
+    step2: |-
+      约翰·罗尔斯提出以 **反思平衡的方法** 来应对这类忧虑。首先要确保我们的判断是深思熟虑的，即它们产生于适宜道德慎思的情境之中；其次须考虑那些有可能容纳我们这组深思熟虑判断的普遍原则——并且不止于容纳，还要加以解释和推展。按照标准的 **广义** 反思平衡，我们须考虑
+  - id: 3
+    kind: body
+    source: |-
+      > all possible descriptions to which one might plausibly conform one’s judgments together with all relevant philosophical arguments for them. (Rawls 1971: 49)[^rawls-1971]
+    step1: |-
+      > 一个人有可能合情合理地使自己的判断与之相符的一切描述，连同支持这些描述的一切相关哲学论证。（Rawls 1971: 49）[^rawls-1971]
+    step2: |-
+      > 一切这样的描述——人们有理由使自己的判断与之相合——连同为其提供支持的一切相关哲学论证。（Rawls 1971: 49）[^rawls-1971]
+  - id: 4
+    kind: body
+    source: |-
+      This requires that we reflect on a wide range of principles, arguments, and theories. Equilibrium is reached where principles and judgments have been revised such that they agree with each other. In short, the method of reflective equilibrium is the mutual adjustment of principles and judgments in the light of relevant argument and theory.
+    step1: |-
+      这要求我们反思广泛的原则、论证与理论。当原则与判断经过修正而彼此一致时，平衡便达成了。简言之，反思平衡的方法，就是在相关论证与理论的观照下，对原则与判断作相互调整。
+    step2: |-
+      这要求我们通盘反思各类原则、论证与理论。平衡达成于原则与判断经修正而彼此相符之处。简言之，反思平衡的方法，便是在相关论证与理论的引导下，使原则与判断相互调适。
+  - id: 5
+    kind: body
+    source: |-
+      Reflective equilibrium is the dominant method in moral and political philosophy (McPherson 2015: 652; Anderson 2015; de Maagt 2017: 444)[^anderson-2015][^maagt-2017][^mcpherson-2015]. Its advocates suggest that “it is the only rational game in town for the moral theorist” or “the only defensible method” (DePaul 1993: 6; Scanlon 2003: 149; see also Freeman 2007: 35–36; Floyd 2017: 377–378)[^depaul-1993][^floyd-2017][^freeman-2007][^scanlon-2003]. Though often endorsed, it is far more frequently used. Wherever a philosopher presents principles, motivated by arguments and examples, they are likely to be using the method. They are adjusting their principles—and with luck, their readers’—to the judgments suggested by the arguments and examples. Alternatively they might “bite the bullet” by adjusting initially discordant judgments to accommodate otherwise appealing principles. Either way, they are usually describing a process of reflective equilibrium, with principles adjusted to judgments or vice versa. Reflective equilibrium is a formal expression of standard methodological practice in moral and political philosophy. (See Rawls 1971, e.g., 19–21, for a famous application of reflective equilibrium, and Rechnitzer 2022 for a reconstruction of Thomson 2008 in terms of reflective equilibrium.)[^rawls-1971][^rechnitzer-2022][^thomson-2008]
+    step1: |-
+      反思平衡是道德与政治哲学中的主导方法（McPherson 2015: 652; Anderson 2015; de Maagt 2017: 444）[^anderson-2015][^maagt-2017][^mcpherson-2015]。其倡导者称，“对道德理论家而言，它是城里唯一理性的游戏”，或者说它是“唯一站得住的方法”（DePaul 1993: 6; Scanlon 2003: 149; 亦见 Freeman 2007: 35–36; Floyd 2017: 377–378）[^depaul-1993][^floyd-2017][^freeman-2007][^scanlon-2003]。尽管常被赞成，它被使用得更为频繁。凡哲学家提出原则、并以论证和例子为动机之处，他们很可能就在使用这一方法。他们在把原则——如果幸运，还有读者的原则——调整到论证与例子所提示的判断上去。另一种做法是“咬紧牙关”，把起初不协调的判断调整到本来有吸引力的原则上去。无论哪种方式，他们所描述的通常都是一个反思平衡的过程：原则被调整到判断，或反过来。反思平衡是道德与政治哲学中标准方法论实践的正式表达。（关于反思平衡的一个著名应用，见 Rawls 1971，例如 19–21；关于以反思平衡重构 Thomson 2008，见 Rechnitzer 2022。）[^rawls-1971][^rechnitzer-2022][^thomson-2008]
+    step2: |-
+      反思平衡是道德哲学与政治哲学中的主导方法（McPherson 2015: 652; Anderson 2015; de Maagt 2017: 444）[^anderson-2015][^maagt-2017][^mcpherson-2015]。其拥护者声称，对道德理论家来说，“这是现有唯一合乎理性的玩法”，或曰“这是唯一可辩护的方法”（DePaul 1993: 6; Scanlon 2003: 149; 亦见 Freeman 2007: 35–36; Floyd 2017: 377–378）[^depaul-1993][^floyd-2017][^freeman-2007][^scanlon-2003]。这一方法虽常获首肯，却更常被使用。举凡哲学家提出原则、并借论证与事例加以推动之处，他们多半就在运用此法：他们调整自己的原则——运气好时还有读者的原则——使之切合论证与事例所提示的判断。另一种做法是“咬紧牙关”，把起初不和谐的判断调整过来，以迁就本来颇具吸引力的原则。无论走哪条路径，所描述的通常都是一个反思平衡的过程：原则被调向判断，或判断被调向原则。反思平衡是道德与政治哲学中标准方法论实践的正式表达。（关于反思平衡的一个著名运用，见 Rawls 1971，如 19–21；以反思平衡重构 Thomson 2008 者，见 Rechnitzer 2022。）[^rawls-1971][^rechnitzer-2022][^thomson-2008]
+  - id: 6
+    kind: body
+    source: |-
+      This entry first addresses the judgments that are the starting point for reflective equilibrium, examining various interpretations of them found in the literature. It then explores the principles and theories that take us from merely having judgments to reaching reflective equilibrium. Finally, it considers some of the main objections to the method. Throughout the focus will be on reflective equilibrium in its archetypal setting of moral and political philosophy, especially as it has been developed by Rawls and Norman Daniels, though with some reference to versions of the method developed in other branches of philosophy (e.g., Goodman 1965; Lewis 1983; Elgin 1996)[^elgin-1996][^goodman-1965][^lewis-1983].
+    step1: |-
+      本文首先讨论作为反思平衡出发点的判断，考察文献中对这些判断的各种解读。随后探讨那些把我们从严仅有判断带到反思平衡的原则与理论。最后考虑对该方法的一些主要反对意见。通篇的焦点将放在反思平衡的典型场景，即道德与政治哲学中的反思平衡，尤其是罗尔斯与诺曼·丹尼尔斯所发展的形态；同时也会参照其他哲学分支中发展出的版本（例如 Goodman 1965; Lewis 1983; Elgin 1996）[^elgin-1996][^goodman-1965][^lewis-1983]。
+    step2: |-
+      本文先论反思平衡的出发点——判断，梳理文献中对判断的种种解释；继而探讨那些使人从仅仅拥有判断走向反思平衡的原则与理论；末了评述针对该方法的主要反对意见。全篇聚焦于反思平衡在道德与政治哲学这一典型场景中的形态，尤其是罗尔斯与诺曼·丹尼尔斯所发展的版本，间亦旁及哲学其他分支中形成的变体（如 Goodman 1965; Lewis 1983; Elgin 1996）[^elgin-1996][^goodman-1965][^lewis-1983]。
+  - id: 7
+    kind: body
+    source: |-
+      ## 1. Judgments
+    step1: |-
+      ## 1. Judgments
+    step2: |-
+      ## 1 判断
+  - id: 8
+    kind: body
+    source: |-
+      While the distinction between judgments and principles may intuitively correspond to that between the particular and the general,
+    step1: |-
+      判断与原则之间的区分，直觉上也许对应于特殊者与普遍者之间的区分，
+    step2: |-
+      判断与原则之别，直觉上或与特殊之物同普遍之物的区别相应，
+  - id: 9
+    kind: body
+    source: |-
+      > [p]eople have considered judgments at all levels of generality, from those about particular situations and institutions up through broad standards and first principles to formal and abstract conditions on moral conceptions. (Rawls 1974: 8)[^rawls-1974]
+    step1: |-
+      > 人们在各层次普遍性上都有经过考虑的判断，从关于特定情境与制度的判断，直到宽泛的标准与第一原则，乃至对道德构想的正式而抽象的条件。（Rawls 1974: 8）[^rawls-1974]
+    step2: |-
+      > 人们在一切普遍性层次上都持有深思熟虑的判断：既有关乎具体情境与制度者，亦有宽泛标准与第一原则，直至对道德构想所设的形式化、抽象的条件。（Rawls 1974: 8）[^rawls-1974]
+  - id: 10
+    kind: body
+    source: |-
+      A first distinction is, then, that while principles necessarily generalize to more than one case (List & Valentini 2016; Slavny et al. 2021)[^list-2016][^slavny-2021], judgments may be either general or particular. A second distinction is that judgments express an agent’s moral outlook while principles are candidate representations of that outlook (cf. Brun 2014)[^brun-2014]. In reflective equilibrium, judgments are the views actually held by the moral deliberator while a “scheme of principles represents their moral conception and characterizes their moral sensibility” (Rawls 1974: 7; see also Rawls 1971: 48)[^rawls-1971][^rawls-1974]. This section examines judgments, while the next considers principles.
+    step1: |-
+      那么第一个区分是：原则必然推广到不止一个情形（List & Valentini 2016; Slavny et al. 2021）[^list-2016][^slavny-2021]，而判断则可以是普遍的，也可以是特殊的。第二个区分是：判断表达行动者的道德视野，而原则是该视野的候选表征（参较 Brun 2014）[^brun-2014]。在反思平衡中，判断是道德慎思者实际持有的观点，而“一套原则表征其道德构想、刻画其道德感受性”（Rawls 1974: 7; 亦见 Rawls 1971: 48）[^rawls-1971][^rawls-1974]。本节考察判断，下一节考察原则。
+    step2: |-
+      由此得第一层区分：原则必定要推广及于不止一个场合（List & Valentini 2016; Slavny et al. 2021）[^list-2016][^slavny-2021]，判断则或普遍或特殊，皆无不可。第二层区分是：判断表达行动者本人的道德视野，原则则是对这一视野的候选表征（参较 Brun 2014）[^brun-2014]。在反思平衡中，判断是道德慎思者实际持有的看法，而“一套原则表征其道德构想，并刻画其道德感受性”（Rawls 1974: 7; 亦见 Rawls 1971: 48）[^rawls-1971][^rawls-1974]。本节专论判断，下节再论原则。
+  - id: 11
+    kind: body
+    source: |-
+      ### 1.1 Considered Judgments
+    step1: |-
+      ### 1.1 Considered Judgments
+    step2: |-
+      ### 1.1 深思熟虑的判断
+  - id: 12
+    kind: body
+    source: |-
+      The method of reflective equilibrium starts with judgments. An initial question is which of these judgments should be allowed entry to the process.
+    step1: |-
+      反思平衡的方法从判断开始。一个起初的问题是：这些判断中哪些应被允许进入这一过程。
+    step2: |-
+      反思平衡的方法自判断起步。首要的问题是：其中哪些判断才有资格进入这一过程。
+  - id: 13
+    kind: body
+    source: |-
+      An obvious position with some appeal is to allow *any* judgments or intuitions. A permissive view says that
+    step1: |-
+      一个显然且有吸引力的立场是，允许 *任何* 判断或直觉。一种宽容的观点说，
+    step2: |-
+      一种显而易见而颇有余地的主张是：允许 **任何** 判断或直觉进入。宽容论者说：
+  - id: 14
+    kind: body
+    source: |-
+      > [o]ur “intuitions” are simply opinions; our philosophical theories are the same. Some are commonsensical, some are sophisticated; some are particular, some general; some are more firmly held, some less. But they are all opinions, and a reasonable goal for a philosopher is to bring them into equilibrium … If our official theories disagree with what we cannot help thinking outside the philosophy room, then no real equilibrium has been reached. (Lewis 1983: x; cf. Goodman 1965: 63–64)[^goodman-1965][^lewis-1983]
+    step1: |-
+      > 我们的“直觉”不过是意见；我们的哲学理论也一样。有些是常识的，有些是精致的；有些是特殊的，有些是普遍的；有些更为牢固，有些则不然。但它们全都是意见，而哲学家的一个合理目标，就是使之达到平衡……如果我们的正式理论与我们在哲学教室之外不得不持有的想法相抵触，那么就没有达到真正的平衡。（Lewis 1983: x; 参较 Goodman 1965: 63–64）[^goodman-1965][^lewis-1983]
+    step2: |-
+      > 我们的“直觉”无非是意见，我们的哲学理论亦然。其中有常识之见，也有精致之论；有特殊者，也有普遍者；有执之较坚者，也有执之较松者。但它们终究都是意见，而哲学家的合理目标，是使这些意见归于平衡……倘若我们的正式理论与我们在哲学讲堂之外不得不持有的想法相抵牾，那就谈不上真正的平衡。（Lewis 1983: x; 参较 Goodman 1965: 63–64）[^goodman-1965][^lewis-1983]
+  - id: 15
+    kind: body
+    source: |-
+      This might seem cavalier, but we are at the moment only discussing the starting point of the method. If reflective equilibrium does its job, our initial judgments may be transformed, and will at any rate cohere with theoretical considerations.
+    step1: |-
+      这看起来也许有些轻率，但此刻我们只讨论这一方法的起点。如果反思平衡发挥了作用，我们最初的判断就可能被转化，并且无论如何都会与理论上的考虑相一致。
+    step2: |-
+      此说看似轻率，然而眼下所论只是这一方法的起点。倘若反思平衡尽其职分，最初的判断便可能被转化，无论如何终将与理论上的考量相协调。
+  - id: 16
+    kind: body
+    source: |-
+      The mainstream view, by contrast, suggests that only *considered judgments* should be used in reflective equilibrium. These are “those judgments in which our moral capacities are most likely to be displayed without distortion” (Rawls 1971: 47)[^rawls-1971]. We should (1) be capable of reaching the right decision (e.g., be reasonably well informed), (2) be in circumstances where we can do so (e.g., not be scared or upset), and (3) be motivated to do so (e.g., not stand to gain or lose from the results of our deliberations). In short, we should have the ability, opportunity, and desire to make the right decision (Rawls 1971: 48)[^rawls-1971]. In moral and political philosophy, the judgments used in reflective equilibrium are usually these Rawlsian considered judgments.
+    step1: |-
+      相比之下，主流观点主张，反思平衡中只应使用 *经过考虑的判断*。这些是“我们的道德能力最可能不受扭曲地显现出来的那些判断”（Rawls 1971: 47）[^rawls-1971]。我们应当 (1) 有能力作出正确决定（例如，得到合理充分的信息），(2) 处于能够如此的情形（例如，不恐惧、不心烦），并且 (3) 有如此去做的动机（例如，不会因慎思的结果而得益或受损）。简言之，我们应当具备作出正确决定的能力、机会与意愿（Rawls 1971: 48）[^rawls-1971]。在道德与政治哲学中，反思平衡所使用的判断通常就是这些罗尔斯式的经过考虑的判断。
+    step2: |-
+      主流观点则主张，反思平衡只应采用 **深思熟虑的判断**，即“我们的道德能力最可能不受扭曲地显现于其中的那些判断”（Rawls 1971: 47）[^rawls-1971]。为达此境，我们须：(1) 有能力作出正确决定（例如掌握合理充分的信息）；(2) 处于能够如此作决定的情境（例如不惊恐、不烦乱）；(3) 有如此作决定的动机（例如不会因慎思的结果而有所得或有所失）。简言之，必须具备作出正确决定的能力、机会与意愿（Rawls 1971: 48）[^rawls-1971]。在道德与政治哲学中，反思平衡所用的判断通常就是这类罗尔斯式的深思熟虑判断。
+  - id: 17
+    kind: body
+    source: |-
+      Intuitions are frequently used interchangeably with considered judgments in the critical literature on reflective equilibrium. But intuitions as typically described have characteristics that are not generally true of considered judgments, especially non-inferentiality (Brun 2014; Greenspan 2015; Cath 2016: 228–229)[^brun-2014][^cath-2016][^greenspan-2015]. This entry will therefore focus on considered judgments rather than intuitions.
+    step1: |-
+      在关于反思平衡的批评文献中，直觉与经过考虑的判断常被交替使用。但按通常的描述，直觉具有一些并非普遍见于经过考虑的判断的特征，尤其是非推论性（Brun 2014; Greenspan 2015; Cath 2016: 228–229）[^brun-2014][^cath-2016][^greenspan-2015]。因此本文将聚焦于经过考虑的判断，而非直觉。
+    step2: |-
+      在批评反思平衡的文献里，直觉与深思熟虑的判断往往混用互替。然而按通常的刻画，直觉具有某些一般并不属于深思熟虑判断的特征，尤以非推论性为要（Brun 2014; Greenspan 2015; Cath 2016: 228–229）[^brun-2014][^cath-2016][^greenspan-2015]。有鉴于此，本文取深思熟虑的判断而舍直觉。
+  - id: 18
+    kind: body
+    source: |-
+      ### 1.2 The Confidence Constraint
+    step1: |-
+      ### 1.2 The Confidence Constraint
+    step2: |-
+      ### 1.2 信心约束
+  - id: 19
+    kind: body
+    source: |-
+      Rawls proposes that “we can discard those judgments made with hesitation, or in which we have little confidence” (Rawls 1971: 47)[^rawls-1971]. In other words, considered judgments are subject to a *confidence constraint.* Relatedly, Rawls frequently refers to considered judgments as “convictions” (e.g., Rawls 1971: 19–21, 45, 48, 53, 246, 318–320, 447, 520, 580)[^rawls-1971]. The confidence constraint extends to *revisions* of judgments, which must be made “with conviction and confidence” (Rawls 1974: 8)[^rawls-1974]. A more modest version of the confidence constraint is a compromise between the ideal of accounting for all judgments and practical limitations (Scanlon 2003: 144)[^scanlon-2003].
+    step1: |-
+      罗尔斯提出，“我们可以舍弃那些犹豫不决、或我们对之信心不足的判断”（Rawls 1971: 47）[^rawls-1971]。换言之，经过考虑的判断须服从一个 *信心约束*。与此相关，罗尔斯常把经过考虑的判断称为“确信”（例如 Rawls 1971: 19–21, 45, 48, 53, 246, 318–320, 447, 520, 580）[^rawls-1971]。信心约束也延伸到对判断的 *修正*，这些修正必须“带着确信与信心”作出（Rawls 1974: 8）[^rawls-1974]。信心约束的一个较为温和的版本，是在“顾及一切判断”的理想与实践限制之间的折中（Scanlon 2003: 144）[^scanlon-2003]。
+    step2: |-
+      罗尔斯提出，“对于那些犹豫不决、或我们缺乏信心的判断，尽可弃置不顾”（Rawls 1971: 47）[^rawls-1971]。换言之，深思熟虑的判断须受一条 **信心约束** 的支配。与此相关，罗尔斯屡屡把这类判断称作“确信”（如 Rawls 1971: 19–21, 45, 48, 53, 246, 318–320, 447, 520, 580）[^rawls-1971]。信心约束亦及于判断的 **修正**：修正须“带着确信与信心”作出（Rawls 1974: 8）[^rawls-1974]。信心约束还有一种更为克制的版本，即在“顾及全部判断”的理想与实践限度之间取一折中（Scanlon 2003: 144）[^scanlon-2003]。
+  - id: 20
+    kind: body
+    source: |-
+      An alternative view suggests that, if, as Rawls supposes, we are trying to describe our moral capacity, it may appear self-defeating to exclude some of our moral judgments from consideration. Our lack of confidence in some judgments means they are likely to be rejected during the reflective process but gives no reason to dismiss them out of hand (Raz 1982: 318–319)[^raz-1982]. Such a move may increase rather than decrease the distortion of moral sensibilities that reflective equilibrium is supposed to address (Knight 2017: 47–48)[^knight-2017]. Consider someone with certain far right commitments, but not so far gone that they don’t recognize some appeal to such values as equality and liberty, though they have little confidence in them or a clear idea of their contours. It may seem peremptory to exclude the unconfident judgments supporting these values from consideration in reflective equilibrium, where they might have found principled support.
+    step1: |-
+      另一观点认为，如果像罗尔斯所设想的那样，我们是在描述自己的道德能力，那么把某些道德判断排除在考虑之外，可能反而是自我拆台的。我们对某些判断缺乏信心，这意味着它们很可能在反思过程中被否决，但这并不构成断然弃置它们的理由（Raz 1982: 318–319）[^raz-1982]。这种做法可能加重而非减轻反思平衡本应处理的道德感受性扭曲（Knight 2017: 47–48）[^knight-2017]。设想某人有某些极右主张，但尚未极端到看不出平等与自由之类价值有某种吸引力——尽管他对这些价值信心不足，对其轮廓也缺乏清晰观念。把这些支持此类价值的低信心判断排除在反思平衡的考虑之外，从而不让它们获得原则性支持，似乎过于武断。
+    step2: |-
+      另一种看法则主张：倘若如罗尔斯所设想，我们是在描述自己的道德能力，那么把一部分道德判断排除在考虑之外，便显得自拆台脚。对某些判断缺乏信心，只意味着它们很可能在反思过程中被淘汰，却并不构成径行弃置它们的理由（Raz 1982: 318–319）[^raz-1982]。这样做，非但不能减轻、反而可能加重反思平衡原欲矫正的道德感受性扭曲（Knight 2017: 47–48）[^knight-2017]。设某人有若干极右信念，但尚未偏激到对平等、自由这类价值毫无感应，只是对其信心寡薄、对其实质轮廓亦无清晰观念。此时若把这些支持此类价值的低信心判断排除于反思平衡之外——而它们本可在其中获得原则性的支持——便未免失之武断。
+  - id: 21
+    kind: body
+    source: |-
+      ### 1.3 The Epistemic Constraint
+    step1: |-
+      ### 1.3 The Epistemic Constraint
+    step2: |-
+      ### 1.3 认知约束
+  - id: 22
+    kind: body
+    source: |-
+      Considered judgments, even those that satisfy the confidence constraint, are not limited as to their content. One might have the ability, opportunity, and desire to make the right decision, yet make a grossly mistaken decision, and be confident in it (see Sternberg [ed.] 2002). This may motivate an *epistemic constraint.* A modest version would exclude judgments that are logically inconsistent or founded on empirical error. A more ambitious constraint excludes any unjustified or unwarranted beliefs (Kelly & McGrath 2010)[^kelly-2010]. For example, Gerald Gaus comments that “clearly unjustified beliefs are, if anything, epistemic liabilities,” approvingly quoting Quine and Ullian’s suggestion that “insofar as we are rational, we will drop a belief when we have in vain tried to find evidence for it” (Gaus 1996: 86; Quine & Ullian 1970: 16)[^gaus-1996][^quine-1970].
+    step1: |-
+      经过考虑的判断，即便满足信心约束，在内容上也不受限制。一个人可能有能力、有机会、有意愿作出正确决定，却作出大错特错的决定，并且对此充满信心（见 Sternberg [编] 2002）。这或许促使人提出一种 *认知约束*。温和的版本会排除逻辑上不一致或基于经验错误的判断。更有雄心的约束则排除一切未获证成或无保证的信念（Kelly & McGrath 2010）[^kelly-2010]。例如，杰拉尔德·高斯评论说，“明显未获证成的信念，如果算什么的话，也是认知上的负债”，并赞同地引用蒯因与厄利安的建议：“就我们是理性的而言，当我们徒劳地寻找证据而不得时，我们就会放弃一个信念”（Gaus 1996: 86; Quine & Ullian 1970: 16）[^gaus-1996][^quine-1970]。
+    step2: |-
+      深思熟虑的判断纵已满足信心约束，其内容仍不受任何限制。一个人可能既有能力、又有机缘、也有意愿作出正确决定，却仍旧作出大谬不然的决定，且对此深信不疑（见 Sternberg [编] 2002）。这就可能引出一种 **认知约束**。温和版只排除逻辑上不自洽、或建立在经验错误之上的判断；更有抱负的版本则排除一切未获证成、无保证的信念（Kelly & McGrath 2010）[^kelly-2010]。例如，杰拉尔德·高斯（Gerald Gaus）便评论道：“明显未获证成的信念，倘若算什么，也只能是认知上的负债”；他还称引蒯因与厄利安（Quine and Ullian）之说以为佐证：“只要我们是理性的，一旦徒劳地寻求证据而不得，我们就会放弃那个信念”（Gaus 1996: 86; Quine & Ullian 1970: 16）[^gaus-1996][^quine-1970]。
+  - id: 23
+    kind: body
+    source: |-
+      Friends of reflective equilibrium largely reject such a constraint. The basic complaint is that it makes epistemological determinations in advance of the reflective process where these are rather the proper upshot of that process. Reflective equilibrium can be viewed as a negative method, i.e., as what we’re left with when we decide that positive criteria for epistemic success cannot be laid out prior to fully considering our substantive topics (Walden 2013: 255)[^walden-2013]. On this view, what counts as justification, warrant, or consistency should be decided with all relevant theory on the table as part of the process of reflective equilibrium and is not prescribed by the method itself.
+    step1: |-
+      反思平衡的友人们大体上拒斥这样一种约束。基本的不满在于：它在反思过程之前就作出认识论上的判定，而这些判定本应是那个过程的结果。反思平衡可以被看作一种否定性方法，即：当我们认定，关于认知成功的正面标准无法在充分考虑实质论题之前被列出时，我们所剩下的就是它（Walden 2013: 255）[^walden-2013]。按这种看法，什么算作证成、保证或一致性，应当在一切相关理论都摆上桌面之后、作为反思平衡过程的一部分来决定，而不由方法本身预先规定。
+    step2: |-
+      反思平衡的拥护者大体拒斥此类约束。他们的基本不满是：这条约束在反思过程尚未展开之前便作出了认识论上的判定，而这类判定恰应是从该过程中得出的结论。反思平衡不妨视为一种否定性的方法：一旦我们认定，认知成功的正面标准无法在充分考量实质论题之先被列出，剩下的便只有它（Walden 2013: 255）[^walden-2013]。依此看法，何谓证成、保证或一贯，须待一切相关理论摆上桌面之后、作为反思平衡过程的一环来裁定，而非由方法本身预先规定。
+  - id: 24
+    kind: body
+    source: |-
+      ### 1.4 Initial Judgments
+    step1: |-
+      ### 1.4 Initial Judgments
+    step2: |-
+      ### 1.4 初始判断
+  - id: 25
+    kind: body
+    source: |-
+      Cutting across the issue of which constraints, if any, to put on judgments is the question of the priority of *initial* judgments over those arising during the reflective process.
+    step1: |-
+      与“是否应对判断施加约束、施加何种约束”这一议题相交的，是 *初始* 判断相对于反思过程中产生的判断是否具有优先性。
+    step2: |-
+      横切“对判断加以何种约束（若有）”这一问题的是另一问题：**初始** 判断相对于反思过程中新生的判断，是否享有优先性。
+  - id: 26
+    kind: body
+    source: |-
+      Narrow reflective equilibrium, described but not endorsed by Rawls and Daniels, matches principles to initial judgments, with only minor changes allowed (Rawls 1971: 49; Rawls 1974: 8; Daniels 1996: 22, 49)[^daniels-1996][^rawls-1971][^rawls-1974]. A more moderate position is that “initially tenable commitments have a presumption in their favor” (Elgin 1996: 107)[^elgin-1996]. On this view, “independently motivated, initially tenable commitments must underwrite coherence,” for however coherent the components of reflective equilibrium may be, “their mutual support may derive from a judicious disregard for contravening considerations” (Elgin 1996: 107; see also Baumberger & Brun 2021)[^baumberger-2021][^elgin-1996]. Initial judgments anchor reflective equilibrium to something outside itself. A similar suggestion is that inchoate initial judgments are “a central constraint” (Schroeter 2004: 122)[^schroeter-2004].
+    step1: |-
+      狭义反思平衡——罗尔斯与丹尼尔斯有所描述但并不赞同——使原则与初始判断相配，只允许作微小改动（Rawls 1971: 49; Rawls 1974: 8; Daniels 1996: 22, 49）[^daniels-1996][^rawls-1971][^rawls-1974]。一个更温和的立场是：“起初站得住的承诺具有有利于自身的推定”（Elgin 1996: 107）[^elgin-1996]。按此看法，“独立地得到推动力、起初站得住的承诺必须为融贯提供担保”，因为无论反思平衡的各组成部分多么融贯，“它们的相互支持也可能来自对相反考量的明智漠视”（Elgin 1996: 107; 亦见 Baumberger & Brun 2021）[^baumberger-2021][^elgin-1996]。初始判断把反思平衡锚定在自身之外的某种东西上。一个类似的提法是，初始的模糊判断是“一个核心约束”（Schroeter 2004: 122）[^schroeter-2004]。
+    step2: |-
+      狭义反思平衡——罗尔斯与丹尼尔斯虽加描述却不予采纳——让原则去迁就初始判断，只容许作细枝末节的改动（Rawls 1971: 49; Rawls 1974: 8; Daniels 1996: 22, 49）[^daniels-1996][^rawls-1971][^rawls-1974]。较为温和的立场则称：“起初站得住的承诺自带一种有利的推定”（Elgin 1996: 107）[^elgin-1996]。依此说，“独立地得到支撑、起初站得住的承诺必须为融贯性奠基”；因为反思平衡各要素纵然彼此融贯，“其相互支持也可能源自对反证考量的明智漠视”（Elgin 1996: 107; 亦见 Baumberger & Brun 2021）[^baumberger-2021][^elgin-1996]。初始判断使反思平衡得以锚定于自身之外的某种东西。与此相近的一种提法是：混沌未凿的初始判断乃是“一项核心约束”（Schroeter 2004: 122）[^schroeter-2004]。
+  - id: 27
+    kind: body
+    source: |-
+      An opposing view gives initial judgments no priority over subsequent judgments. Moral beliefs may be formed that are not just different from but discontinuous with one’s initial beliefs, which may be rejected. One may, for instance, undergo a moral conversion, becoming convinced by the worldview of a Marx or Nietzsche (DePaul 1993: ch. 1)[^depaul-1993]. This “radical” version of reflective equilibrium allows the moral deliberator to comprehensively change their mind.
+    step1: |-
+      一种对立观点不给初始判断以任何优于后续判断的地位。可能形成这样的道德信念：它们不仅不同于、而且与某人最初的信念不连续，而后者可能被弃置。例如，一个人可能经历一场道德转变，被马克思或尼采的世界观说服（DePaul 1993: 第 1 章）[^depaul-1993]。反思平衡的这一“激进”版本允许道德慎思者彻底改变想法。
+    step2: |-
+      与此对立的一种观点则否认初始判断对后续判断有任何优先性。人可能形成某些道德信念，它们不但相异于、而且断裂于自己早先的信念，而那早先的信念尽可弃置。譬如有人经历一场道德上的改宗，为马克思或尼采的世界观所说服（DePaul 1993: 第 1 章）[^depaul-1993]。反思平衡的这一 **激进** 版本，允许道德慎思者彻底改变其想法。
+  - id: 28
+    kind: body
+    source: |-
+      Though Michael DePaul states the radical position most clearly, contrasting it with a “conservative” reflective equilibrium that he takes as dominant (DePaul 1993: 31)[^depaul-1993], the radical view seems more in line with canonical reflective equilibrium, which encourages revision of judgment on theoretical grounds (see, e.g., Daniels 1996: 2–4, 26–28, 60–61, 70–71)[^daniels-1996]. While Rawls’ applications of reflective equilibrium assume that we have certain “convictions” (such as those opposing racial discrimination or religious intolerance), in explaining the method he is clear that “a person’s sense of justice may or may not undergo a radical shift” (Rawls 1971: 49)[^rawls-1971]—and on closer inspection we see that convictions are only “*provisional* fixed points” (Rawls 1971: 20; Rawls 2005: 8, emphasis added; see also Rawls 1974: 8)[^rawls-1971][^rawls-1974][^rawls-2005]. Even Elgin allows that “considerations with no initial tenability sometimes dislodge initially tenable commitments”; it’s just that the latter “are not to be given up without reason” (Elgin 1996: 108, 107)[^elgin-1996].
+    step1: |-
+      虽然迈克尔·德保罗最清楚地陈述了激进立场，并把它与他视为主导的“保守”反思平衡相对照（DePaul 1993: 31）[^depaul-1993]，但激进观点似乎更符合典范的反思平衡——后者鼓励基于理论理由修正判断（例如见 Daniels 1996: 2–4, 26–28, 60–61, 70–71）[^daniels-1996]。尽管罗尔斯对反思平衡的应用假定我们拥有某些“确信”（例如反对种族歧视或宗教不宽容的那些），但在解释该方法时他说得很清楚：“一个人的正义感可能会、也可能不会经历彻底转变”（Rawls 1971: 49）[^rawls-1971]——而细察之下我们会看到，确信只是“*暂时的* 固定点”（Rawls 1971: 20; Rawls 2005: 8, 强调为引者所加; 亦见 Rawls 1974: 8）[^rawls-1971][^rawls-1974][^rawls-2005]。即便埃尔金也承认，“毫无初始站得住性的考量有时会撬动起初站得住的承诺”；只是后者“不应无理由地被放弃”（Elgin 1996: 108, 107）[^elgin-1996]。
+    step2: |-
+      迈克尔·德保罗（Michael DePaul）把激进立场表述得最为清晰，并以之与他眼中居于主流的“保守”反思平衡相对举（DePaul 1993: 31）[^depaul-1993]；然而激进之说似乎更贴合典范的反思平衡，因为后者本就鼓励凭理论理由修正判断（例如见 Daniels 1996: 2–4, 26–28, 60–61, 70–71）[^daniels-1996]。罗尔斯在运用反思平衡时假定我们抱有某些“确信”（如反对种族歧视、反对宗教不宽容），但在阐释方法时他明确表示：“一个人的正义感或许会、也或许不会经历根本的转变”（Rawls 1971: 49）[^rawls-1971]；细究之下更可见，确信不过是“**暂时的** 固定点”（Rawls 1971: 20; Rawls 2005: 8, 强调为引者所加; 亦见 Rawls 1974: 8）[^rawls-1971][^rawls-1974][^rawls-2005]。就连埃尔金也承认，“毫无初始站得住性的考量，有时竟会撼动起初站得住的承诺”；只不过后者“不可无理由地放弃”（Elgin 1996: 108, 107）[^elgin-1996]。
+  - id: 29
+    kind: body
+    source: |-
+      There is, then, significant agreement that initial judgments can be overridden by subsequent ones, with a residual disagreement as to whether they nevertheless receive weak presumptive priority.
+    step1: |-
+      因此，存在一个重要共识：初始判断可以被后续判断压倒；残余的分歧在于，它们是否仍然获得微弱的推定优先性。
+    step2: |-
+      由此可见，各家大体同意初始判断可以被后续判断所压倒；尚存的分歧只在于，初始判断是否仍享有微弱的推定优先地位。
+  - id: 30
+    kind: body
+    source: |-
+      ## 2. Principles and Theories
+    step1: |-
+      ## 2. Principles and Theories
+    step2: |-
+      ## 2 原则与理论
+  - id: 31
+    kind: body
+    source: |-
+      Reflective equilibrium, at least on its classic construal, arises where judgments are brought together with their representation in principles. Theories play a dual role as agglomerations of the principles and priority rules that are the outputs of reflective equilibrium, and as sources of argument for selecting those principles. This section considers the role of principles and theories in reflective equilibrium.
+    step1: |-
+      反思平衡，至少按经典理解，出现在判断与判断在原则中的表征汇合之处。理论有双重角色：既是反思平衡产出的原则与优先规则之聚集，也是选择那些原则的论证来源。本节考察原则与理论在反思平衡中的作用。
+    step2: |-
+      反思平衡——至少按经典的理解——成于判断同其在原则中的表征相会合之处。理论身兼二职：既汇聚反思平衡所产出的原则与优先规则，又充当择定这些原则的论证来源。本节讨论原则与理论在反思平衡中的地位。
+  - id: 32
+    kind: body
+    source: |-
+      ### 2.1 Wide Reflective Equilibrium
+    step1: |-
+      ### 2.1 Wide Reflective Equilibrium
+    step2: |-
+      ### 2.1 广义反思平衡
+  - id: 33
+    kind: body
+    source: |-
+      As mentioned above, a *narrow* reflective equilibrium is reached where principles are matched to initial judgments, allowing only for the “smoothing out of certain irregularities” (Rawls 1971: 49)[^rawls-1971]. In moral and political philosophy this is of interest mainly as a contrast with the *wide* reflective equilibrium endorsed by Rawls, Daniels, and many others in their wake (but see Beisbart, Betz, & Brun 2021). A wide reflective equilibrium is achieved where the deliberator has brought judgments and principles into agreement having reflected on a wide range of considerations. Wide reflective equilibrium contrasts with narrow reflective equilibrium in several respects.
+    step1: |-
+      如上所述，当一个 *狭义* 反思平衡使原则与初始判断相配、只允许“抹平某些不规则之处”时，它就达成了（Rawls 1971: 49）[^rawls-1971]。在道德与政治哲学中，它主要作为一种对照而有意义——对照的是罗尔斯、丹尼尔斯及其后学所赞成的 *广义* 反思平衡（但见 Beisbart, Betz, & Brun 2021）[^beisbart-2021]。当慎思者在反思了广泛考量之后使判断与原则达成一致时，广义反思平衡便实现了。广义反思平衡在若干方面与狭义反思平衡形成对照。
+    step2: |-
+      如前所述，**狭义** 反思平衡达成于原则与初始判断相配、而仅容许“抹平某些不规则之处”的境地（Rawls 1971: 49）[^rawls-1971]。在道德与政治哲学里，它的意义主要在于与 **广义** 反思平衡相对照——后者为罗尔斯、丹尼尔斯及其众多后学所称许（但见 Beisbart, Betz, & Brun 2021）。慎思者思量过广泛考量而使之判断与原则归于一致，广义反思平衡便告达成。二者的差别有以下数端。
+  - id: 34
+    kind: body
+    source: |-
+      First, we are not merely looking for principles that look like our initial judgments, giving our pre-theoretical opinions a philosophical sheen. Rather, *a wide range of principles* should be considered. Indeed, we should consider all principles to which our judgments might plausibly conform, though “it is doubtful whether one can ever reach this state” (Rawls 1971: 49)[^rawls-1971]. We will return to this contrast between the ideal and the practical.
+    step1: |-
+      第一，我们不只是寻找看起来像我们初始判断的原则，从而给我们的前理论意见涂上一层哲学光泽。相反，应当考虑 *广泛的原则*。我们实在应当考虑我们的判断有可能合理地与之相符的一切原则，尽管“人们是否能达到这种状态是可疑的”（Rawls 1971: 49）[^rawls-1971]。我们会回到理想与实践之间的这一对照。
+    step2: |-
+      其一，我们并非只求寻得看似吻合初始判断的原则，替自己的前理论意见镀一层哲学光泽；恰恰相反，须考量 **广泛的原则**。我们确应考虑一切原则——只要我们的判断有可能合理地与之相符——尽管“人能否企及这一境地，实在可疑”（Rawls 1971: 49）[^rawls-1971]。理想与实践之间的这一落差，后文还会论及。
+  - id: 35
+    kind: body
+    source: |-
+      Second, our initial judgments are *revisable.* If you encounter a principle that seems to fit many of your most important judgments, or even that does not fit them but has appeal nonetheless, you are free to change judgments that disagree with that principle. Perhaps a principle even ranges over terrain on which you had no prior judgments (e.g., moral dimensions of generative AI), in which case you can make new judgments that agree or disagree with it, as you see fit. Everything is up for grabs. (Note that this second feature is consistent with giving initial judgments either no priority or weak presumptive priority as discussed earlier.)
+    step1: |-
+      第二，我们的初始判断是 *可修正的*。如果你遇到一个原则，它似乎符合你许多最重要的判断，或者虽不符合却仍有吸引力，你尽可改变与该原则相冲突的判断。也许某个原则甚至延伸到你先前提未作判断的领域（例如生成式人工智能的道德维度），此时你可以自行作出与该原则相符或相悖的新判断。一切都可以重新议定。（注意，这第二个特征与前述“不给初始判断优先性或只给微弱推定优先性”是相容的。）
+    step2: |-
+      其二，初始判断是 **可修正的**。倘若你遇到一个原则，它似能契合你许多要紧的判断，甚或虽不契合却仍具吸引力，你便可自由改动与之抵牾的判断。有的原则也许还伸展到你从前未曾置判断的领域（例如生成式人工智能的道德面向），此时你尽可相机作出与之相合或相违的新判断。一切都可重新商定。（须注意，这第二项特征与前文所说的“不给初始判断任何优先性、或只给微弱推定优先性”并不冲突。）
+  - id: 36
+    kind: body
+    source: |-
+      Third, we are to consider not just a very wide range of principles, but *a wide range of* *arguments* for them. Ideally we should consider all such arguments (Rawls 1971: 49)[^rawls-1971]. We are also to consider arguments *against* principles. The arguments show the strengths and weaknesses of the principles under consideration (Daniels 1996: 82)[^daniels-1996]. One important kind of argument is the thought experiment. For instance, in relation to the principle of utility, one might consider utilitarian sheriffs, utility monsters, experience machines, trolley problems, and repugnant conclusions, among countless others. A “directed reflective equilibrium” offers a sequencing for consideration of such cases (Slavny et al. 2021)[^slavny-2021]. Note that such arguments may not only support one principle over another, but generate new principles, such as variant forms of utilitarianism—and there will be new arguments for and against these variants, which generate their own variants, and so on.
+    step1: |-
+      第三，我们要考虑的不只是很广泛的原则，还有支持它们的 *广泛论证*。理想上我们应考虑一切这样的论证（Rawls 1971: 49）[^rawls-1971]。我们还要考虑 *反对* 原则的论证。这些论证显示所考虑原则的强处与弱处（Daniels 1996: 82）[^daniels-1996]。一类重要的论证是思想实验。例如就功利原则而言，人们可能考虑功利主义的治安官、效用怪物、体验机、电车难题与可憎结论等等，数不胜数。“有向反思平衡”为这类情形的考量提供了次序安排（Slavny et al. 2021）[^slavny-2021]。注意，这类论证不仅可以在原则之间有所取舍，还会生成新原则，例如功利主义的诸变体——而这些变体又会有支持与反对它们的新论证，后者再生出自己的变体，如此递进。
+    step2: |-
+      其三，所须考量的不止是极广泛的原则，还有为它们辩护的 **广泛论证**。理想地说，一切此类论证都应在考量之列（Rawls 1971: 49）[^rawls-1971]；此外还须考虑 **反对** 诸原则的论证。论证能显出所论原则的短长（Daniels 1996: 82）[^daniels-1996]。思想实验是重要的一类：就功利原则而言，人们可以设想功利主义的治安官、效用怪物、体验机、电车难题、可憎结论，等等，不胜枚举。“有向反思平衡”为这类个案的考量安排了一套次序（Slavny et al. 2021）[^slavny-2021]。须注意，此类论证不仅能在原则之间分出高下，还会催生新的原则，如功利主义的种种变体——而这些变体又会引出新的支持与反对论证，再生变体，如此递嬗不已。
+  - id: 37
+    kind: body
+    source: |-
+      Fourth, as well as arguments, we should consider “devices of representation” (Rawls 2005: 23–28)[^rawls-2005] or “justificatory devices” (Daniels 1996: 59–60)[^daniels-1996]. It may be that we have greater confidence in certain conditions on the selection of principles than we antecedently have in any particular principles. Prominent examples of such justificatory devices are Rawls’ original position, other contemporary (Scanlon 1998)[^scanlon-1998] and historical (Locke 1689; Rousseau 1762)[^locke-1689][^rousseau-1762] contractualist devices, as well as their contractarian (Hobbes 1651; Gauthier 1986)[^gauthier-1986][^hobbes-1651] and ideal observer (Hume 1740, book 3; Smith 1759)[^hume-1740][^smith-1759] counterparts. Whether we find any such device useful is a matter of whether it fits our judgments in wide reflective equilibrium. If we do, we may have a powerful new argument for the principles that the device supports.
+    step1: |-
+      第四，除了论证，我们还应当考虑“表征装置”（Rawls 2005: 23–28）[^rawls-2005]或“证成装置”（Daniels 1996: 59–60）[^daniels-1996]。也许我们对原则选择上的某些条件的信心，胜过我们在预先对任何特定原则的信心。这类证成装置的著名例子有罗尔斯的原初状态、其他当代的（Scanlon 1998）[^scanlon-1998]与历史上的（Locke 1689; Rousseau 1762）[^locke-1689][^rousseau-1762]契约论装置，以及它们的契约主义（Hobbes 1651; Gauthier 1986）[^gauthier-1986][^hobbes-1651]与理想观察者（Hume 1740, 第 3 卷; Smith 1759）[^hume-1740][^smith-1759]对应物。我们是否觉得这类装置有用，取决于它在广义反思平衡中是否契合我们的判断。若契合，我们或许就获得了支持该装置所支撑之原则的一个有力的新论证。
+    step2: |-
+      其四，除论证而外，还须考量“表征装置”（Rawls 2005: 23–28）[^rawls-2005]或“证成装置”（Daniels 1996: 59–60）[^daniels-1996]。我们对于择定原则所设某些条件的信心，或许强于事先对任何具体原则的信心。此类装置中的显例，有罗尔斯的原初状态，有当代（Scanlon 1998）[^scanlon-1998]与历史上（Locke 1689; Rousseau 1762）[^locke-1689][^rousseau-1762]的其他契约论装置，以及与它们相应的契约主义（Hobbes 1651; Gauthier 1986）[^gauthier-1986][^hobbes-1651]与理想观察者（Hume 1740, 第 3 卷; Smith 1759）[^hume-1740][^smith-1759]版本。这类装置是否有用，取决于它能否在广义反思平衡中契合我们的判断。若能契合，我们便可能得到一条有力的新论证，用以支持该装置所支撑的原则。
+  - id: 38
+    kind: body
+    source: |-
+      Finally, moral and non-moral *background theories* can inform our equilibrium. Arguments for and against principles referred to above are “inferences from relevant background theories” (Daniels 1996: 82)[^daniels-1996]. Background theories can similarly be used to inform our assessment of justificatory devices. For instance, our view of Rawls’ contract device may be informed by our view of personal identity (Daniels 1996: 60)[^daniels-1996]. Indeed, Rawls
+    step1: |-
+      最后，道德的与非道德的 *背景理论* 都能为我们提供启发。上文提到的支持与反对原则的论证，是“从相关背景理论出发的推论”（Daniels 1996: 82）[^daniels-1996]。背景理论同样可以用来启发我们对证成装置的评估。例如，我们对罗尔斯契约装置的看法，可能受我们对人格同一性的看法所启发（Daniels 1996: 60）[^daniels-1996]。事实上，罗尔斯
+    step2: |-
+      末了，道德的与非道德的 **背景理论** 皆可为我们提供参照。上文所述支持与反对诸原则的论证，本是“由相关背景理论作出的推论”（Daniels 1996: 82）[^daniels-1996]。背景理论同样能用以校订我们对证成装置的评估：譬如我们对罗尔斯契约装置的看法，或会受我们对人格同一性的看法所左右（Daniels 1996: 60）[^daniels-1996]。事实上，罗尔斯
+  - id: 39
+    kind: body
+    source: |-
+      > went to great lengths to insure that the principles of justice did ‘fit’ with what we know about psychology, biology, evolutionary theory, economics, and other social and natural sciences. (Freeman 2007: 40)[^freeman-2007]
+    step1: |-
+      > 不遗余力地确保正义原则与我们关于心理学、生物学、演化论、经济学以及其他社会科学与自然科学所知的东西“相合”。（Freeman 2007: 40）[^freeman-2007]
+    step2: |-
+      > 竭尽全力确保正义诸原则与我们关于心理学、生物学、演化理论、经济学及其他社会科学与自然科学所知者“相合”。（Freeman 2007: 40）[^freeman-2007]
+  - id: 40
+    kind: body
+    source: |-
+      A wide reflective equilibrium achieves coherence not only between judgments and principles regarding the issue at hand, but across the full breadth of the deliberator’s thought that might have implications for it.
+    step1: |-
+      广义反思平衡不仅在当前问题上的判断与原则之间，而且在慎思者可能对该问题有所含意的整个思想广度上达成融贯。
+    step2: |-
+      广义反思平衡所成就的融贯，不限于当前问题上的判断与原则之间，而是遍及慎思者思想中可能对此问题有所含意的全部范围。
+  - id: 41
+    kind: body
+    source: |-
+      To summarize, wide reflective equilibrium consists of agreement between revisable judgments and principles following reflection on a wide range of principles, arguments, justificatory devices, and background theories. In its pure form, it is an impossibly demanding method, drawing a vast and ever-growing expanse of principles, arguments and theories within its ambit. This exacting standard can nevertheless inform our approach to a more modest reflective equilibrium, as where Rawls compares his theory of justice’s “principles and arguments with a few other familiar views,” which “moves us closer to the philosophical ideal; it does not, of course, achieve it” (Rawls 1971: 49, 50; see also Rawls 2005: 97)[^rawls-1971][^rawls-2005].
+    step1: |-
+      总之，广义反思平衡在于：在反思了广泛的原则、论证、证成装置与背景理论之后，可修正的判断与原则之间达成一致。就其纯粹形态而言，它是一种要求高得不可能的方法，把大量且不断扩大的原则、论证与理论纳入自己的范围。然而这一严格标准仍可为我们走向较为温和的反思平衡提供指引，例如罗尔斯把他的正义理论的“原则与论证同少数其他熟悉的观点相比较”，而这样“使我们更接近哲学理想；当然它并未达到该理想”（Rawls 1971: 49, 50; 亦见 Rawls 2005: 97）[^rawls-1971][^rawls-2005]。
+    step2: |-
+      要之，广义反思平衡在于：经对广泛原则、论证、证成装置与背景理论的反思之后，可修正的判断与原则彼此相符。就其纯粹形态言，此法要求之苛，几无可能实现，它将日增无已的大量原则、论证与理论尽收入彀中。然而这一严格标准仍可引导我们走向较为朴素的反思平衡：如罗尔斯将其正义理论的“原则与论证同少数其他习见的观点相较”，此举“使我们更接近哲学理想；当然并未真正达到”（Rawls 1971: 49, 50; 亦见 Rawls 2005: 97）[^rawls-1971][^rawls-2005]。
+  - id: 42
+    kind: body
+    source: |-
+      ### 2.2 The Independence Constraint
+    step1: |-
+      ### 2.2 The Independence Constraint
+    step2: |-
+      ### 2.2 独立性约束
+  - id: 43
+    kind: body
+    source: |-
+      A large part of the appeal of wide reflective equilibrium is its appeal to deeper background theories. For example, my principles of justice may depend in part on my views of individual agency; and my views on agency may in turn depend on my views about free will and causation. But isn’t there a danger that this broad coherence is bought at the cost of circularity?
+    step1: |-
+      广义反思平衡的吸引力很大一部分在于它诉诸更深的背景理论。例如，我的正义原则可能部分取决于我对个体能动性的看法；而我对能动性的看法又可能取决于我对自由意志与因果作用的看法。但是，这种广泛的融贯难道不会有以循环为代价的危险吗？
+    step2: |-
+      广义反思平衡之所以动人，大半在于它诉诸更为深层的背景理论。例如，我的正义原则或部分取决于我对个体能动性的看法，而我对能动性的看法又或取决于我对自由意志与因果关系的看法。然而，这种广泛的融贯是否有以循环论证为代价之虞？
+  - id: 44
+    kind: body
+    source: |-
+      Suppose, for instance, that I have the conviction that no one should be very badly off. This judgment might support a sufficientarian principle of justice requiring that no one is very badly off (e.g., Frankfurt 1987)[^frankfurt-1987]. But suppose I now claim that this principle is also supported by the combination of the luck egalitarian background theory that no one should be badly off through no genuine choice of their own (Cohen 1989)[^cohen-1989] with the hard determinist background theory that no one is responsible for their choices, and my basis for the latter theory is the original judgment no one should be very badly off. In such a case it seems that the background theories give no independent support for the sufficientarian principle, i.e., no support that was not already there in the bare judgment that no one should be very badly off. If it were not for that judgment, I would not have a basis for my hard determinist background theory, and the luck egalitarian background theory alone would not support the sufficientarian principle, as it is consistent with some being very badly off due to choice.
+    step1: |-
+      例如，假定我有这样一个确信：没有人应当处境极差。这一判断可能支持一条充足主义正义原则，要求没有人处境极差（例如 Frankfurt 1987）[^frankfurt-1987]。但假定我现在主张，这条原则还由以下两者的结合所支持：运气平等主义的背景理论（没有人应当由于并非自己真正选择的原因而处境糟糕）（Cohen 1989）[^cohen-1989]，以及硬决定论的背景理论（没有人对自己的选择负责）；而我对后一理论的依据，正是最初的那个判断——没有人应当处境极差。在这种情形下，背景理论似乎并没有为充足主义原则提供独立支持，即没有提供原本不在“没有人应当处境极差”这一赤裸判断之中的支持。若不是那个判断，我就没有依据接受硬决定论的背景理论；而单独的运气平等主义背景理论也不会支持充足主义原则，因为它与“某些人因选择而处境极差”是相容的。
+    step2: |-
+      譬如，我确信没有人应当陷于极度困顿。这一判断或可支持一条充足主义的正义原则，要求无人陷于极度困顿（如 Frankfurt 1987）[^frankfurt-1987]。但现在假设我又主张：该原则另有两重支持——其一为运气平等主义的背景理论，即无人应因非出于真正自主选择的原因而陷于困顿（Cohen 1989）[^cohen-1989]；其二为硬决定论的背景理论，即无人对自己的选择负责——而我对后一理论的根据，恰是“没有人应当陷于极度困顿”这一原初判断。若果真如此，则背景理论似未给充足主义原则提供任何独立支持，即未提供任何本不在那条素朴判断之中的支持。设无此判断，我便无从为硬决定论的背景理论立据；而单凭运气平等主义的背景理论，也不足以支持充足主义原则，因为它与“有人因选择而陷于极度困顿”并不相悖。
+  - id: 45
+    kind: body
+    source: |-
+      In response to such cases we can utilize an *independence constraint* (Daniels 1996: 22–24)[^daniels-1996]*.* Suppose we distinguish *principle* *judgments*, which support the principles, from *background judgments*, which support the background theories. The independence constraint requires that principle judgments are not also background judgments. Background theories must draw on their own judgments and cannot “recycle” principle judgments. As Daniels puts it,
+    step1: |-
+      针对这类情形，我们可以采用一项 *独立性约束*（Daniels 1996: 22–24）[^daniels-1996]。假定我们把支持原则的 *原则判断* 与支持背景理论的 *背景判断* 区分开来。独立性约束要求，原则判断不能同时又是背景判断。背景理论必须取用自身的判断，不能“回收”原则判断。正如丹尼尔斯所说，
+    step2: |-
+      应对这类情形，可启用一条 **独立性约束**（Daniels 1996: 22–24）[^daniels-1996]。设我们将支持原则的 **原则判断** 与支持背景理论的 **背景判断** 区分开来。独立性约束要求：原则判断不得兼为背景判断；背景理论须取用自身的判断，不得“回收”原则判断。丹尼尔斯如是说：
+  - id: 46
+    kind: body
+    source: |-
+      > [t]he background theories in (c) should show that the moral principles in (b) are more acceptable than alternative principles on grounds to some degree independent of (b)’s match with relevant considered moral judgments in (a). If they are not in this way independently supported, then there seems to be no gain over the support the principles would have had in a corresponding narrow equilibrium, where there never was any appeal to (c). (Daniels 1996: 22)[^daniels-1996]
+    step1: |-
+      > (c) 中的背景理论应当表明：(b) 中的道德原则比替代原则更可接受，其理由在某种程度上独立于 (b) 与 (a) 中相关经过考虑的道德判断的匹配。如果它们不是以这种方式得到独立支持，那么与一个相应的狭义平衡中原则本来会得到的支持相比——在那里从来不曾诉诸 (c)——似乎就没有增益。（Daniels 1996: 22）[^daniels-1996]
+    step2: |-
+      > (c) 中的背景理论应当显示：(b) 中的道德原则较之其他原则更为可取，而其据以判定之理由于某种程度上独立于 (b) 与 (a) 中相关深思熟虑的道德判断是否相合。倘若背景理论并非以此方式获得独立支持，那么较之一相应的狭义平衡——那里从未诉诸 (c)——原则所获的支持便似乎并无增益。（Daniels 1996: 22）[^daniels-1996]
+  - id: 47
+    kind: body
+    source: |-
+      He applies this to Rawls’ theory of justice, arguing that Rawls’ theories of the person and the role of morality are not just redescriptions of the judgments that support Rawls’ two principles of justice and thereby satisfy the constraint (Daniels 1996: 23–24, 50–62)[^daniels-1996].
+    step1: |-
+      他把这一点应用于罗尔斯的正义理论，论证罗尔斯关于人以及道德之作用的诸理论，并不只是对支持罗尔斯两项正义原则的那些判断的重新描述，因而满足了该约束（Daniels 1996: 23–24, 50–62）[^daniels-1996]。
+    step2: |-
+      他将此施于罗尔斯的正义理论，主张罗尔斯关于人格与道德作用的诸理论并非只是把支持其两条正义原则的那些判断改述一遍，因而自足地满足了这一约束（Daniels 1996: 23–24, 50–62）[^daniels-1996]。
+  - id: 48
+    kind: body
+    source: |-
+      Some commentators consider the independence constraint objectionable, for instance suggesting that it encourages holding back some principle judgments so they can be used as background judgments to create a wide reflective equilibrium (Haslett 1987: 307–308)[^haslett-1987]. Yet the independence constraint doesn’t allow judgments to be held back in this way—if they support the principles they are necessarily principle judgments and cannot be used as background judgments (Knight 2006: 211)[^knight-2006].
+    step1: |-
+      有些评论者认为独立性约束有可议之处，例如说它会鼓励人们扣留某些原则判断，以便把它们用作背景判断来造出广义反思平衡（Haslett 1987: 307–308）[^haslett-1987]。然而独立性约束并不允许以这种方式扣留判断——如果它们支持原则，它们就必然是原则判断，不能用作背景判断（Knight 2006: 211）[^knight-2006]。
+    step2: |-
+      有些论者以为这条约束不妥，谓其鼓励人们把某些原则判断扣下不用，好留作背景判断去凑成一个广义反思平衡（Haslett 1987: 307–308）[^haslett-1987]。然而独立性约束并不容许如此扣留：判断若支持原则，便必然是原则判断，自不能充作背景判断（Knight 2006: 211）[^knight-2006]。
+  - id: 49
+    kind: body
+    source: |-
+      Others argue that the constraint is superfluous, as
+    step1: |-
+      另一些人论证说，这条约束是多余的，因为
+    step2: |-
+      另有些人则辩称此约束实属蛇足，理由是：
+  - id: 50
+    kind: body
+    source: |-
+      > [a] person who explicitly cooked up all her relevant background beliefs on the basis of her considered moral judgments would not be following the method of reflective equilibrium in the first place. (DePaul 1993: 15)[^depaul-1993]
+    step1: |-
+      > 一个人若明确地依据自己的经过考虑的道德判断去炮制一切相关背景信念，那么他一开始就不会遵循反思平衡的方法。（DePaul 1993: 15）[^depaul-1993]
+    step2: |-
+      > 一个人倘若明白地依据自己的深思熟虑的道德判断去编造其全部相关背景信念，那么他打一开始便没有在遵循反思平衡的方法。（DePaul 1993: 15）[^depaul-1993]
+  - id: 51
+    kind: body
+    source: |-
+      But perhaps the more serious problem the constraint addresses is not deliberate circularity. We want to ensure that our moral principles are not merely “accidental generalizations” of “moral facts,” and we can do this by independently testing them against background theories, just as scientific generalizations that inadvertently correspond to observations can be distinguished from scientific laws by their lack of coherence with connected theory (Daniels 1996: 22)[^daniels-1996]. Critics suggest accidental generalizations might alternatively be weeded out simply by considering a sufficiently large number of cases (DePaul 1993: 15)[^depaul-1993]. A combination of the two approaches may be preferable (Holmgren 1989: 59)[^holmgren-1989].
+    step1: |-
+      但这条约束所要处理的更严重问题，或许并不是蓄意的循环。我们要确保自己的道德原则不只是“道德事实”的“偶然概括”，而这一点可以靠用背景理论独立检验它们来做到，正如那些偶然与观察相符的科学概括，可因与相关理论缺乏融贯而被区别于科学定律（Daniels 1996: 22）[^daniels-1996]。批评者提出，偶然概括也可以干脆通过考虑足够多的情形来剔除（DePaul 1993: 15）[^depaul-1993]。两种进路的结合或许更可取（Holmgren 1989: 59）[^holmgren-1989]。
+    step2: |-
+      但此约束所要对付的更棘手问题，或许并非有意为之的循环。我们欲确保自己的道德原则不只是“道德事实”的“偶合概括”；为此，可用背景理论对之加以独立检验，恰如科学概括若偶然与观察相符，便可因其与相关理论不融贯而被辨出于科学定律之外（Daniels 1996: 22）[^daniels-1996]。批评者则谓，偶合概括也可以单靠考察足够多的情形来汰除（DePaul 1993: 15）[^depaul-1993]。两法并用，或更可取（Holmgren 1989: 59）[^holmgren-1989]。
+  - id: 52
+    kind: body
+    source: |-
+      ### 2.3 Coherentist or Foundationalist?
+    step1: |-
+      ### 2.3 Coherentist or Foundationalist?
+    step2: |-
+      ### 2.3 融贯论还是基础主义？
+  - id: 53
+    kind: body
+    source: |-
+      A commonsense form of justification is *inferential* and *linear.* It is inferential because each belief is justified by another, and it is linear because beliefs cannot justify any of their antecedent beliefs. A is justified by B, which is justified by C, and so on. The problem with such inferential and linear justification is that it falls into infinite regress. For anything to be justified at all, it seems we have to give an endless chain of justification that we cannot possibly proffer. The regress can be ended either by permitting non-inferential justification, as *foundationalism* proposes, or by permitting non-linear justification, as *coherentism* proposes (Brink 1989: 105–106)[^brink-1989]. Some have interpreted reflective equilibrium as foundationalist, but most interpret it as coherentist.
+    step1: |-
+      一种常识形式的证成是 *推论式的* 与 *线性的*。它是推论式的，因为每个信念都由另一个信念证成；它是线性的，因为信念不能证成自己的任何在先信念。A 由 B 证成，B 由 C 证成，如此下去。这种推论式线性证成的问题在于，它陷入无穷倒退。要有什么得到证成，似乎我们就必须给出一条我们不可能给出的无尽证成链条。这一倒退只能这样终止：或者如 *基础主义* 所主张，允许非推论的证成；或者如 *融贯论* 所主张，允许非线性的证成（Brink 1989: 105–106）[^brink-1989]。有人把反思平衡解释为基础主义的，但多数人把它解释为融贯论的。
+    step2: |-
+      常识所理解的证成，是 **推论式** 的、**线性** 的。说它推论式，是因每一信念皆由另一信念证成；说它线性，是因信念无从证成其先前信念。A 由 B 证成，B 由 C 证成，如是递推。这种推论式线性证成的难处，在于坠入无穷倒退：似乎任何东西要获得证成，我们都得端出一条不可能端出的无尽证成之链。终止倒退之途有二：或如 **基础主义** 所倡，容许非推论的证成；或如 **融贯论** 所倡，容许非线性的证成（Brink 1989: 105–106）[^brink-1989]。有人把反思平衡解作基础主义的，多数人则解作融贯论的。
+  - id: 54
+    kind: body
+    source: |-
+      Support for the foundationalist interpretation comes from considered judgments’ clear justificatory role in reflective equilibrium. All justification in reflective equilibrium relies on the deliberator’s actual considered judgments. The most powerful principle or elegantly coherent theory must be rejected if they do not agree with judgment. Principles and theories have no influence on the process except through the medium of considered judgments—if the deliberator is not won around to them, they do not move the equilibrium one iota. For the foundationalist, a judgment does not need to prove itself as a principle or theory does. The mere fact that the deliberator holds it is enough for it to guide equilibrium. That said, the kind of foundationalism at hand is clearly rather modest (Ebertz 1993; Cath 2016: 219–220)[^cath-2016][^ebertz-1993]. Judgments are treated as revisable even where they are viewed as empirical data (Floyd 2017)[^floyd-2017]. The method, at least in its usual, wide form, gives no place to the unrevisable beliefs of traditional foundationalism or intuitionism (DePaul 1993: 34)[^depaul-1993].
+    step1: |-
+      对基础主义解读的支持，来自经过考虑的判断在反思平衡中显而易见的证成作用。反思平衡中的一切证成都依赖慎思者实际持有的经过考虑的判断。最有力的原则或最优美融贯的理论，若与判断不合，也必须被拒斥。原则与理论除经由经过考虑的判断这一媒介外，对过程没有影响——如果慎思者未被说服，它们就丝毫不能推动平衡。对基础主义者而言，一个判断不必像原则或理论那样证明自己；仅仅慎思者持有它，就足以让它引导平衡。话虽如此，这里所涉的基础主义显然相当温和（Ebertz 1993; Cath 2016: 219–220）[^cath-2016][^ebertz-1993]。即便判断被视为经验材料，也被当作可修正的（Floyd 2017）[^floyd-2017]。该方法至少在其通常的广义形态中，不给传统基础主义或直觉主义那些不可修正的信念留位置（DePaul 1993: 34）[^depaul-1993]。
+    step2: |-
+      基础主义解读之根据，在于深思熟虑的判断在反思平衡中显豁的证成作用。反思平衡里的一切证成，都系于慎思者实际持有的深思熟虑判断。再有力的原则、再优雅融贯的理论，苟与判断相违，也须弃置。原则与理论唯有借深思熟虑判断这一媒介方能施影响于过程——慎思者若不被说服，它们便不能使平衡挪动分毫。在基础主义者看来，判断无须像原则或理论那样自证其名分；只消慎思者持有它，便足以让它引导平衡。话虽如此，此处的基础主义显然甚为温和（Ebertz 1993; Cath 2016: 219–220）[^cath-2016][^ebertz-1993]。判断纵被视为经验材料，仍作可修正者看待（Floyd 2017）[^floyd-2017]。这一方法至少在其通常的广义形态下，不为传统基础主义或直觉主义的不可修正信念留一席之地（DePaul 1993: 34）[^depaul-1993]。
+  - id: 55
+    kind: body
+    source: |-
+      The prevalence of the coherentist interpretation is, in part, based on the obvious contrast with this traditional foundationalism. Wide reflective equilibrium is, furthermore, an exemplar of the broadly coherentist idea that beliefs can be justified by their coherence with a system of beliefs (Rawls 1974: 8; Daniels 1996: 60–61; Tersman 2008: 398–400)[^daniels-1996][^rawls-1974][^tersman-2008]. The deliberator is not expected to consider a principle in isolation, but rather to consider its connections with other principles as well as a wide range of moral and non-moral background theories. A principle can be justified by its fit with a comprehensive system of thought exhibiting logical, probabilistic, and explanatory relations among its members (Brink 1989: 103)[^brink-1989]. For example, and as we have seen, Rawls’ theory of justice justifies its principles of justice by appeal to theories of the person and of morality, among other background theories. Coherentists claim that moral beliefs alone are not enough for reflective equilibrium; they rely on theory-grounded second-order beliefs about the reliability of first order beliefs (Brink 1989: 127; Tersman 2008: 399)[^brink-1989][^tersman-2008].
+    step1: |-
+      融贯论解读的流行，部分基于它同这一传统基础主义的明显对照。此外，广义反思平衡还是如下这一宽泛融贯论观念的范例：信念可以通过与一个信念系统的融贯而得到证成（Rawls 1974: 8; Daniels 1996: 60–61; Tersman 2008: 398–400）[^daniels-1996][^rawls-1974][^tersman-2008]。并不指望慎思者孤立地考虑一个原则，而是考虑它与其他原则、以及与广泛的道德与非道德背景理论之间的联系。一个原则可以通过与一个思想体系的契合而得到证成——该体系在其成员之间展现出逻辑的、概率的与解释的关系（Brink 1989: 103）[^brink-1989]。例如，如我们所见，罗尔斯的正义理论通过诉诸关于人与道德的理论等背景理论来证成其正义原则。融贯论者主张，单有道德信念不足以达成反思平衡；他们还倚赖有理论根据的、关于一阶信念可靠性的二阶信念（Brink 1989: 127; Tersman 2008: 399）[^brink-1989][^tersman-2008]。
+    step2: |-
+      融贯论解读之所以盛行，部分系于它同这一传统基础主义的显著对照。而且，广义反思平衡正是如下宽泛融贯论观念的范本：信念可因与一个信念系统相融贯而获证成（Rawls 1974: 8; Daniels 1996: 60–61; Tersman 2008: 398–400）[^daniels-1996][^rawls-1974][^tersman-2008]。此处并不要求慎思者孤立地打量某一原则，而要求他打量该原则与其他原则、以及与广泛道德及非道德背景理论之间的勾连。一个原则若能契合于一个思想体系——该体系成员间呈有逻辑的、概率的与解释性的关联——便由此获证成（Brink 1989: 103）[^brink-1989]。例如，如前所见，罗尔斯的正义理论正是借关于人格与道德的理论等背景理论来证成其正义原则的。融贯论者主张：单凭道德信念不足以成就反思平衡；他们还要倚重有理论根据的、关于一阶信念可靠与否的二阶信念（Brink 1989: 127; Tersman 2008: 399）[^brink-1989][^tersman-2008]。
+  - id: 56
+    kind: body
+    source: |-
+      ### 2.4 Reflective Equilibrium without Principles?
+    step1: |-
+      ### 2.4 Reflective Equilibrium without Principles?
+    step2: |-
+      ### 2.4 没有原则的反思平衡？
+  - id: 57
+    kind: body
+    source: |-
+      The standard construal of reflective equilibrium seeks a theoretically-driven balance between judgments and principles. It is therefore unsurprising that it has been opposed by *anti-theorists*, who set themselves against “an approach to ethical enquiry that seeks a systematizing account of correct ethical thought and practice” (Robertson 2017: 678)[^robertson-2017]. Bernard Williams objected that Rawls’ reflective equilibrium failed to deliver mutually acceptable principles (Williams 1985: 110–116)[^williams-1985], while Annette Baier was
+    step1: |-
+      反思平衡的标准理解寻求判断与原则之间由理论驱动的平衡。因此，它遭到 *反理论者* 的反对并不奇怪；这些人反对“一种寻求对正确伦理思想与实践作出系统化说明的伦理探究进路”（Robertson 2017: 678）[^robertson-2017]。伯纳德·威廉斯反对说，罗尔斯的反思平衡未能给出彼此都可接受的原则（Williams 1985: 110–116）[^williams-1985]，而安妮特·拜尔则
+    step2: |-
+      反思平衡的标准理解，求的是判断与原则之间由理论驱动的平衡。因此它遭到 **反理论者** 的反对，原不足怪——这些人所反对的，正是“一种旨在对正确的伦理思想与实践做出系统化说明的伦理探究路向”（Robertson 2017: 678）[^robertson-2017]。伯纳德·威廉斯（Bernard Williams）曾诘难说，罗尔斯的反思平衡未能给出双方都能接受的原则（Williams 1985: 110–116）[^williams-1985]；安妮特·拜尔（Annette Baier）则
+  - id: 58
+    kind: body
+    source: |-
+      > not content, like Rawls (1971: 50) to retreat to the aim of finding a theory that accommodates all *my* considered judgments, while resigning myself to the likelihood that yours are different and require a different theory. (Baier 1985: 140)[^baier-1985]
+    step1: |-
+      > 不像罗尔斯（1971: 50）那样满足于退守这样一个目标：找到一种容纳 *我* 全部经过考虑判断的理论，同时听任你的判断与之不同、需要另一种理论。（Baier 1985: 140）[^baier-1985]
+    step2: |-
+      > 不愿像罗尔斯（1971: 50）那样退而求其次，只求一种能容纳 **我** 全部深思熟虑判断的理论，同时无奈地承认你的判断与之不同、需要另立一说。（Baier 1985: 140）[^baier-1985]
+  - id: 59
+    kind: body
+    source: |-
+      This criticism of reflective equilibrium may be misplaced. Williams appears to “conflate Rawls’s contractualism with his coherentist justification” (Clarke 1987: 243)[^clarke-1987]. It is Rawls’ original position, not his reflective equilibrium, which aims to provide principles for a well-ordered society. Reflective equilibrium has no commitment to contractualism or justificatory devices generally; these are useful, where they are, simply because they place conditions on practical reason that the individual deliberator finds appealing. This may, however, seem to put reflective equilibrium in Baier’s sights, and in danger of solipsism; this concern is addressed below in the discussion of public reflective equilibrium.
+    step1: |-
+      这一对反思平衡的批评可能弄错了对象。威廉斯似乎“把罗尔斯的契约论与其融贯论证成混为一谈”（Clarke 1987: 243）[^clarke-1987]。旨在为一个良序社会提供原则的是罗尔斯的原初状态，而不是他的反思平衡。反思平衡并不承诺契约论或一般的证成装置；这些装置之所以有用（在其有用之处），仅仅因为它们对实践理性所设的条件，个体慎思者觉得有吸引力。然而这或许显得把反思平衡放进了拜尔的射程，并有陷入唯我论的危险；这一疑虑将在下文讨论公共反思平衡时处理。
+    step2: |-
+      这项针对反思平衡的批评，或许瞄错了靶子。威廉斯似乎“把罗尔斯的契约论同他的融贯论证成混为一谈”（Clarke 1987: 243）[^clarke-1987]。为良序社会提供原则者，是罗尔斯的原初状态，而非其反思平衡。反思平衡并不委身于契约论，也不委身于一般意义上的证成装置；这类装置之所以有用（在其有用之处），只因它们为实践理性所设的条件，个体慎思者觉得可取。不过这样一来，反思平衡似乎便落入拜尔的射程，且有唯我论之虞；此一疑虑留待下文论公共反思平衡时再理。
+  - id: 60
+    kind: body
+    source: |-
+      While reflective equilibrium is not committed to devices of justification, it is usually understood as being committed to principles. Rawls and Daniels understand an equilibrium as between judgments and principles, so if there are no principles, there can be no equilibrium. This could, nevertheless, be seen as an arbitrary restriction on moral deliberation. Someone might be convinced by anti-theory, so that their considered judgments will settle on no moral principles, maintaining that ethics should be more local and practical. A supplementary line of thought inspired by foundationalism might suggest that principles are superfluous to the method because the real balance is struck between judgments. Such principle-less moral conclusions do not seem admissible on the standard understanding of reflective equilibrium. It is not clear why the formal category of principles should be considered untouchable when everything else, including the entire content of all principles and the background theories by which they are assessed, is available for revision.
+    step1: |-
+      虽然反思平衡并不承诺证成装置，它通常被理解为承诺原则。罗尔斯与丹尼尔斯把平衡理解为判断与原则之间的平衡，因此如果没有原则，就不可能有平衡。不过，这可以被看作对道德慎思的一种任意限制。有人可能被反理论说服，以致其经过考虑的判断最终不落在任何道德原则上，坚持伦理学应当更为局部、更为实践。一条受基础主义启发的补充思路可能提出，原则对方法而言是多余的，因为真正的平衡是在判断之间达成的。按反思平衡的标准理解，这类无原则的道德结论似乎不可接受。当其他一切——包括所有原则的全部内容、以及据以评估原则的背景理论——都可修正时，为何唯独原则这一形式范畴应被视为不可触碰，尚不清楚。
+    step2: |-
+      反思平衡虽不委身于证成装置，却通常被理解为委身于原则。罗尔斯与丹尼尔斯所谓平衡，本指判断与原则之间的平衡；无原则，则无平衡可言。然而这也不妨视为对道德慎思的一种武断限制。有人或为反理论所动，其深思熟虑的判断终不落在任何道德原则上，而主张伦理学应更贴近局部、更切于实践。另有一条受基础主义启发的补充思路，或谓原则于方法为多余，因为真正的平衡乃在判断之间达成。依反思平衡的标准理解，这类无原则的道德结论似难获准。可怪者在于：其余一切——包括所有原则的全部内容、以及据以评断原则的背景理论——皆可修正，何以偏偏“原则”这一形式范畴被视为不可触碰？
+  - id: 61
+    kind: body
+    source: |-
+      We might, then, consider whether reflective equilibrium is possible without principles. On one view the core of reflective equilibrium is inspired by Socrates’ transformation of his pupils’ “inarticulate hunches into fully explicit beliefs” (Schroeter 2004: 121)[^schroeter-2004]. This “maieutic reflection” makes our inchoate moral notions more precise; sometimes we will endorse them, but at other times we may find they conflict and revise some of them. Maieutic reflection is a valuable tool of moral enquiry even if there is no “stable resting point” and no intention to build a moral theory (Schroeter 2004: 122)[^schroeter-2004]. Even antitheorists could use this method. An apparent qualification is that constructivists—those that hold that “moral facts are epistemically constrained” (Schroeter 2004: 111)[^schroeter-2004]—are committed to moral theory after all.
+    step1: |-
+      于是我们可以考虑，没有原则的反思平衡是否可能。一种看法认为，反思平衡的核心受苏格拉底启发：他把学生的“含糊直觉转化为完全明确的信念”（Schroeter 2004: 121）[^schroeter-2004]。这种“助产式反思”使我们混沌的道德观念更为精确；有时我们会认可它们，但另一些时候我们会发现它们相互冲突，并修正其中一些。即便没有“稳定的停歇点”、也无建立道德理论的意图，助产式反思仍是道德探究的有价值工具（Schroeter 2004: 122）[^schroeter-2004]。就连反理论者也可以使用这一方法。一个表面上的限制是：建构主义者——那些认为“道德事实在认知上受约束”的人（Schroeter 2004: 111）[^schroeter-2004]——终究还是承诺了道德理论。
+    step2: |-
+      如是，我们便可一问：没有原则的反思平衡是否可能？有一说以为，反思平衡的核心得自苏格拉底的启示——他将弟子的“含混直觉化为完全明确的信念”（Schroeter 2004: 121）[^schroeter-2004]。这种“助产式反思”使吾人混沌的道德观念趋于精确：有时我们首肯之，有时则见其相互抵牾而修正其中若干。纵无“稳定的休止点”，亦无构建道德理论之意图，助产式反思仍不失为道德探究的一件利器（Schroeter 2004: 122）[^schroeter-2004]。即便反理论者亦可操用此法。表面上的一重限制是：建构主义者——即主张“道德事实在认知上受到约束”者（Schroeter 2004: 111）[^schroeter-2004]——终究还是委身于道德理论。
+  - id: 62
+    kind: body
+    source: |-
+      Curiously, the index of Rawls’ *Political Liberalism* provides a concise statement of a principle-less method: “Reflective equilibrium: defined as when judgments at all levels of generality are in line on due reflection” (Rawls 2005: 514)[^rawls-2005]. Rather than bringing principles and judgments into agreement, as per Rawls’ official position, this variant would only bring judgments into agreement with each other. This would still allow us to retain major justificatory elements of wide reflective equilibrium, arriving at a coherent set of considered judgments revised in light of a wide range of competing principles, arguments, and background theories. The only difference is that our judgments are not necessarily represented in principles. Deliberators are free to follow the classic mutual adjustment of principles and judgments should they wish, but the output that is measured is judgments alone, “at all levels of generality”: utilitarians’ one big judgment, anti-theorists’ countless smaller ones, and every position in between.
+    step1: |-
+      有趣的是，罗尔斯《政治自由主义》的索引给出了一个无原则方法的简明表述：“反思平衡：定义为当一切普遍性层次的判断在适当反思后归于一致”（Rawls 2005: 514）[^rawls-2005]。这一变体不像罗尔斯的正式立场那样使原则与判断达成一致，而只使判断彼此一致。这样我们仍可保留广义反思平衡的主要证成要素，得到一组在广泛竞争性原则、论证与背景理论的光照下修正过的、彼此融贯的经过考虑判断。唯一的差别是，我们的判断不必被表征为原则。慎思者若愿意，尽可遵循经典的原则与判断相互调整；但被衡量的产出只是判断本身，“在一切普遍性层次上”：功利主义者那一个大判断、反理论者无数较小的判断，以及两者之间的一切立场。
+    step2: |-
+      有趣的是，罗尔斯《政治自由主义》的索引为一种无原则的方法留下了简明界说：“反思平衡：指一切普遍性层次的判断经适当反思后归于一致的状态”（Rawls 2005: 514）[^rawls-2005]。这一变体不像罗尔斯的正式主张那样使原则与判断相合，而只使判断彼此相合。如此我们仍可保住广义反思平衡的诸主要证成要素：得到一组彼此融贯、且在广泛竞争性的原则、论证与背景理论观照下修正过的深思熟虑判断。唯一的不同在于，我们的判断未必以原则的形式表征出来。慎思者若愿意，尽可循经典做法让原则与判断相互调适，但所衡量的产出只是判断本身——“在一切普遍性层次上”：功利主义者那一个大判断、反理论者无数较小的判断，以及介于其间的种种立场。
+  - id: 63
+    kind: body
+    source: |-
+      ### 2.5 Public Reflective Equilibrium
+    step1: |-
+      ### 2.5 Public Reflective Equilibrium
+    step2: |-
+      ### 2.5 公共反思平衡
+  - id: 64
+    kind: body
+    source: |-
+      The mainstream reflective equilibrium of the early Rawls and Daniels is *individualist.* It is a method for a philosopher to work out her views (Rawls 1971; Daniels 1996)[^daniels-1996][^rawls-1971]. Further, they claim it is a method that makes those views reasonable or justified. Yet it might be claimed that a single philosopher’s views on a topic of public interest, such as Rawls’ and Daniels’ main substantive topic of social justice, cannot really be justified in that way. That individual may have justified their view to themselves, but they have not justified it to other people, who have different considered judgments and find different principles and theories appealing.
+    step1: |-
+      早期罗尔斯与丹尼尔斯的主流反思平衡是 *个人主义的*。它是哲学家借以厘清自己观点的方法（Rawls 1971; Daniels 1996）[^daniels-1996][^rawls-1971]。他们还主张，这是一种使那些观点显得合理或得到证成的方法。然而有人可能主张，单个哲学家对一个公共关切议题的观点——例如罗尔斯与丹尼尔斯的主要实质议题社会正义——并不能真以这种方式得到证成。那个人也许向自己证成了自己的观点，但没有向他人证成；他人拥有不同的经过考虑判断，觉得不同的原则与理论有吸引力。
+    step2: |-
+      早期罗尔斯与丹尼尔斯的主流反思平衡是 **个人主义的**：它是哲学家借以厘清一己之见的方法（Rawls 1971; Daniels 1996）[^daniels-1996][^rawls-1971]，并且他们还说，此法能使那些观点成为合理的、得到证成的。然而或可诘难：单个哲学家对某一公共关切议题（如罗尔斯与丹尼尔斯的主要实质议题社会正义）的看法，其实无从以这种方式获证成。那个人也许已向自己证成了自己的看法，却未向他人证成；他人持有不同的深思熟虑判断，觉得另一些原则与理论更为可取。
+  - id: 65
+    kind: body
+    source: |-
+      One response here is to insist that, if you have followed the method correctly, it does justify one’s principles, and not only to oneself (see the discussions of credibility and relativism below). It might nevertheless be urged that, if our views are to have some impact in the real world, they should move other people as well as ourselves (Anderson 2015)[^anderson-2015]. This is a challenge to reflective equilibrium from political practice rather than moral epistemology, and philosophers may feel it is not their role to address it—it is enough for them to set out justified views. Still, those with policy ambitions for reflective equilibrium have described three broad forms of *public reflective equilibrium.*
+    step1: |-
+      这里的一种回应是坚持：如果你正确地遵循了方法，它确实证成你的原则，且不只是对你自己而言（见下文关于可信性与相对主义的讨论）。不过仍可提出：如果我们的观点要在现实世界中产生某种影响，它们应当能打动别人，而不只是打动我们自己（Anderson 2015）[^anderson-2015]。这是从政治实践、而非道德认识论出发对反思平衡提出的挑战；哲学家或许觉得回应它不是自己的职分——对他们来说，摆出得到证成的观点就够了。尽管如此，那些对反思平衡抱有政策抱负的人，已描述了 *公共反思平衡* 的三种大致形态。
+    step2: |-
+      对此的一种回应是力言：只要循法无误，它确实证成你的原则，且非仅对你自己而言（参见下文关于可信性与相对主义的讨论）。不过仍可主张：我们的看法若要在现实世界中见些效力，便应能打动他人，而不只是打动我们自己（Anderson 2015）[^anderson-2015]。这一诘难出自政治实践而非道德认识论，哲学家或觉得非其职分所在——于他们而言，摆明得到证成的看法便已足够。尽管如此，那些对反思平衡怀有政策抱负的人，仍描述了 **公共反思平衡** 的三种大体形态。
+  - id: 66
+    kind: body
+    source: |-
+      The first keeps individualist reflective equilibrium as its starting point, but aims to achieve convergence between equilibria (Daniels 1996: 33–39)[^daniels-1996]. The later Rawls particularly appeals to the idea of an “overlapping consensus” (Rawls 2005)[^rawls-2005]. The broad motivation here is that in a plural society with a diversity of comprehensive moral doctrines we cannot rely on any one comprehensive doctrine, such as utilitarianism, Kantianism, or a specific religious faith, to support our political principles. Rather, the reflective equilibria of adherents of each of these comprehensive doctrines can converge on a specific set of liberal principles, each for different reasons. The later Rawls continues to assume that reflective equilibria are wide, but now maintains that they should be *general:* “the same conception is affirmed in everyone’s considered judgments” (Rawls 2005: 384 n. 16)[^rawls-2005]. He refers to wide and general reflective equilibrium as *full reflective equilibrium.*
+    step1: |-
+      第一种以个人主义反思平衡为起点，但力求各平衡之间达成趋同（Daniels 1996: 33–39）[^daniels-1996]。晚期罗尔斯尤其诉诸“重叠共识”的观念（Rawls 2005）[^rawls-2005]。其大体动机是：在一个拥有多种完备性道德学说的多元社会中，我们不能倚赖任何单一完备性学说（如功利主义、康德主义或某种特定宗教信仰）来支撑我们的政治原则。相反，每一种此类完备性学说的信奉者的反思平衡，可以各自出于不同理由，汇聚到一组特定的自由主义原则上。晚期罗尔斯仍假定反思平衡是广义的，但现在主张它们应当是 *普遍的*：“同一构想得到每个人经过考虑判断的确认”（Rawls 2005: 384 注 16）[^rawls-2005]。他把既广义又普遍的反思平衡称为 *完全反思平衡*。
+    step2: |-
+      其一以个人主义的反思平衡为起点，而志在各平衡之间的趋同（Daniels 1996: 33–39）[^daniels-1996]。晚期罗尔斯尤其称引“重叠共识”之说（Rawls 2005）[^rawls-2005]。此说的宏旨在于：在一个兼备多种完备性道德学说的多元社会里，我们无法倚仗任何单一完备性学说——无论是功利主义、康德主义，还是某一特定宗教信仰——来支撑政治原则；反之，各该学说的信奉者各自的反思平衡，可以出于不同理由而汇聚于同一组自由主义原则。晚期罗尔斯仍假定反思平衡为广义，但进而主张它应是 **普遍的**：“同一构想得到人人深思熟虑判断的确认”（Rawls 2005: 384 注 16）[^rawls-2005]。他把既广义又普遍的反思平衡称作 **完全反思平衡**。
+  - id: 67
+    kind: body
+    source: |-
+      An alternative form of public reflective equilibrium appears to reject individualism even as a starting point, drawing on empirical work to form judgments and principles. One version of this approach is quantitative, drawing on survey data (Savulescu et al. 2021)[^savulescu-2021]. Another version is qualitative, using interviews or “semi-structured discussions” (Wolff & de Shalit 2007: 11)[^wolff-2007]. For instance, in a study on social disadvantage, the researchers
+    step1: |-
+      公共反思平衡的另一种形态，似乎连作为起点也不接受个人主义，转而借助经验研究来形成判断与原则。这一进路的一个版本是定量的，倚赖调查数据（Savulescu et al. 2021）[^savulescu-2021]。另一个版本是定性的，使用访谈或“半结构化讨论”（Wolff & de Shalit 2007: 11）[^wolff-2007]。例如，在一项关于社会劣势的研究中，研究者们
+    step2: |-
+      公共反思平衡的又一形态，似乎连起点也弃个人主义不用，转而依凭经验研究以形成判断与原则。此路之一为量化一路，取给于调查数据（Savulescu et al. 2021）[^savulescu-2021]；之二为质性一路，采行访谈或“半结构化讨论”（Wolff & de Shalit 2007: 11）[^wolff-2007]。例如，在一项关于社会劣势的研究中，研究者
+  - id: 68
+    kind: body
+    source: |-
+      > consulted our interviewees about our views and we learnt from them. In this process we revised and modified our theory according to the theories and intuitions expressed by the interviewees. (Wolff & de Shalit 2007: 12)[^wolff-2007]
+    step1: |-
+      > 就我们的看法征询受访者，并从他们那里学到东西。在此过程中，我们根据受访者所表达的理论与直觉，修正并改动了我们的理论。（Wolff & de Shalit 2007: 12）[^wolff-2007]
+    step2: |-
+      > 就自己的看法向受访者求教，并从中获益。在此过程中，我们依据受访者所表述的理论与直觉，修订并改动了自己的理论。（Wolff & de Shalit 2007: 12）[^wolff-2007]
+  - id: 69
+    kind: body
+    source: |-
+      The specific topic might make particular interviewees appropriate—in the disadvantage case, those that provide services to the disadvantaged as well as disadvantaged people themselves—or more informal selection methods may be used:
+    step1: |-
+      具体议题可能使某些受访者更为合适——在劣势案例中，既包括为弱势者提供服务的人，也包括弱势者本人——或者可以使用更非正式的选择方法：
+    step2: |-
+      所论议题或使某类受访者更为适宜——在劣势一例中，既有为弱势者提供服务者，也有弱势者本人——或者也可采用更不拘形式的选择法：
+  - id: 70
+    kind: body
+    source: |-
+      > If possible, the decision with whom to talk should be done by strolling in different parts of the city, bumping into people every now and then, and asking them to enter into a discussion. (de Shalit 2020: 19)[^shalit-2020]
+    step1: |-
+      > 如果可能，决定与谁交谈，应当靠在城市不同区域漫步、不时撞见行人并与攀谈来完成。（de Shalit 2020: 19）[^shalit-2020]
+    step2: |-
+      > 若有可能，该与谁交谈，不妨这样定夺：于城中各处闲步，不时与人照面，遂请其加入讨论。（de Shalit 2020: 19）[^shalit-2020]
+  - id: 71
+    kind: body
+    source: |-
+      A difficulty with this approach is that it may be too ambitious in its expectations of the general public’s theorizing, as it takes not only judgments but theories from consultees. Yet the general public may not have moral and political principles, if they do have such principles they may conflict, and their views certainly do not mirror theoretical divides in philosophy (e.g., between Kantians and utilitarians) (Baderin 2017: 11–12)[^baderin-2017].
+    step1: |-
+      这一进路的困难在于，它对一般公众的理论化能力期望过高，因为它不只从受访者那里取判断，还取理论。然而一般公众可能并无道德与政治原则；即便有，也可能相互冲突；而他们的观点肯定不反映哲学中的理论分野（例如康德主义者与功利主义者之别）（Baderin 2017: 11–12）[^baderin-2017]。
+    step2: |-
+      此路的难处，在于它对普通公众的理论思辨期望过高——它向受访者求取的不只是判断，还有理论。然而普通公众未必持有道德与政治原则；即便持有，也可能彼此扞格；而他们的看法断然不会映射出哲学中的理论分野（如康德主义者与功利主义者之别）（Baderin 2017: 11–12）[^baderin-2017]。
+  - id: 72
+    kind: body
+    source: |-
+      This may motivate a final form of public reflective equilibrium, which uses the public’s judgments but not their theories, and in particular their case-specific judgments (Baderin 2017; see also Miller 1999)[^baderin-2017][^miller-1999]. The merit of using the public’s judgments is that they are *independent of principles*, which might be considered an essential requirement if a meaningful balance is to be struck between judgments and principles, but one which can hardly be met by philosophers’ judgments (Baderin 2017: 15–19)[^baderin-2017]. The point is similar to Elgin’s reason for giving priority to initial judgments—principles can enslave as well as enlighten. The philosopher remains the one undergoing reflective equilibrium, and is free to reject the public’s judgments, but a persistent refusal to adapt theory to public judgment suggests a refusal to earnestly engage in reflective equilibrium (Baderin 2017: 19–20)[^baderin-2017]. Among challenges for such a view are the lack of *mutual* adjustment of judgments and principles where judgments are the public’s rather than the individual’s.
+    step1: |-
+      这可能促使人提出公共反思平衡的最后一种形态：它使用公众的判断而不使用他们的理论，尤其是他们对具体情形的判断（Baderin 2017; 亦见 Miller 1999）[^baderin-2017][^miller-1999]。使用公众判断的优点在于，它们是 *独立于原则的*；若要在判断与原则之间达成有意义的平衡，这或许被视为一项本质要求，而哲学家的判断却几乎无法满足它（Baderin 2017: 15–19）[^baderin-2017]。这一点与埃尔金给初始判断以优先性的理由相似——原则既能启明，也能奴役。哲学家仍是经历反思平衡的那个人，尽可拒斥公众的判断；但若一味拒绝使理论适应公众判断，便显出不愿认真参与反思平衡（Baderin 2017: 19–20）[^baderin-2017]。此种观点面临的挑战之一，是当判断属于公众而非个人时，判断与原则之间缺乏 *相互的* 调整。
+    step2: |-
+      于是或可引出公共反思平衡的末一种形态：取用公众的判断而不取其理论，尤其取用他们对具体个案的判断（Baderin 2017; 亦见 Miller 1999）[^baderin-2017][^miller-1999]。取用公众判断之可取处，在于此类判断 **独立于原则**；倘若要在判断与原则之间求得有意义的平衡，这或可视为一项必要之举，而哲学家的判断却难以副此（Baderin 2017: 15–19）[^baderin-2017]。此理与埃尔金予初始判断以优先性的理由相仿——原则既能启迪人，也能奴役人。经历反思平衡的仍是哲学家本人，他尽可拒斥公众的判断；但若一味拒绝使理论迁就公众判断，便见其无意认真从事反思平衡（Baderin 2017: 19–20）[^baderin-2017]。此类主张所遇的难题之一，在于判断若取自公众而非个人，则判断与原则之间便乏 **相互的** 调整。
+  - id: 73
+    kind: body
+    source: |-
+      ## 3. Objections
+    step1: |-
+      ## 3. Objections
+    step2: |-
+      ## 3 反对意见
+  - id: 74
+    kind: body
+    source: |-
+      Given its central role in contemporary ethics, it is no surprise that reflective equilibrium has been confronted with many objections. Here we will consider a selection of the main objections along with responses put forward by reflective equilibrium’s defenders.
+    step1: |-
+      鉴于它在当代伦理学中的核心地位，反思平衡遭遇许多反对意见并不奇怪。这里我们将考察若干主要反对意见，以及反思平衡辩护者提出的回应。
+    step2: |-
+      反思平衡在当代伦理学中居于枢要，故其所受诘难之多，自不待言。下文择取主要反对意见若干，并附其辩护者的回应。
+  - id: 75
+    kind: body
+    source: |-
+      ### 3.1 Initial Credibility
+    step1: |-
+      ### 3.1 Initial Credibility
+    step2: |-
+      ### 3.1 初始可信性
+  - id: 76
+    kind: body
+    source: |-
+      Critics have queried the epistemic value of the considered judgments or “intuitions” that underpin reflective equilibrium (Williamson 2022: 246–248)[^williamson-2022]. While reflective equilibrium may deliver a coherent set of beliefs, the objection is that there are no grounds for supposing that this set is credible:
+    step1: |-
+      批评者质疑支撑反思平衡的经过考虑判断或“直觉”的认识论价值（Williamson 2022: 246–248）[^williamson-2022]。反思平衡也许能给出一个融贯的信念集合，但反对意见是：没有理由认为这个集合是可信的：
+    step2: |-
+      批评者质疑为反思平衡奠基的那些深思熟虑判断或“直觉”究竟有无认识论价值（Williamson 2022: 246–248）[^williamson-2022]。反思平衡或能得出一个融贯的信念集合，但批评者诘难道：并无理由设想这个集合是可信的：
+  - id: 77
+    kind: body
+    source: |-
+      > In the case of normative beliefs, no reason has been offered why we should think that initial credence levels, for a person, correspond to credibilities. (Brandt 1979: 20)[^brandt-1979]
+    step1: |-
+      > 就规范性信念而言，没有人给出理由，说明为何我们应当认为，一个人最初的信度水平与可信性相符。（Brandt 1979: 20）[^brandt-1979]
+    step2: |-
+      > 就规范性信念而言，从来没有人提出理由，说明我们何以应当认为，一个人起初的信度水平与可信性恰相对应。（Brandt 1979: 20）[^brandt-1979]
+  - id: 78
+    kind: body
+    source: |-
+      The outcome of reflective equilibrium may be believed, but that is consistent with it being coherent fiction. Indeed, some considered judgments seem plainly unreasonable. The judgment that killing at random is morally required would have to be accepted as a considered judgment on the standard account of reflective equilibrium that rejects an epistemic constraint on considered judgments (Kelly & McGrath 2010)[^kelly-2010].
+    step1: |-
+      反思平衡的产物也许可以被相信，但这与它只是融贯的虚构并不矛盾。的确，某些经过考虑的判断显得明显不合理。“随机杀人在道德上是必需的”这一判断，在拒斥对经过考虑判断施加认知约束的标准反思平衡说明下，将不得不被接受为一个经过考虑的判断（Kelly & McGrath 2010）[^kelly-2010]。
+    step2: |-
+      反思平衡的结果或可被人相信，然而这与其纯属融贯的虚构并不相悖。的确，有些深思熟虑的判断显得全然不合理：按照那种拒绝对深思熟虑判断施加认知约束的反思平衡标准说明，“随机杀人在道德上是必需的”这一判断，竟也须被接受为一项深思熟虑的判断（Kelly & McGrath 2010）[^kelly-2010]。
+  - id: 79
+    kind: body
+    source: |-
+      This objection arguably foregrounds considered judgments to the extent of neglecting the justificatory heart of the method, which is its *process.* This
+    step1: |-
+      这一反对意见可以说把经过考虑判断推到前台，以致忽视了方法的证成核心，即它的 *过程*。这个过程
+    step2: |-
+      此一诘难或可谓扬深思熟虑判断而抑方法之证成核心，即其 **过程**。这个过程
+  - id: 80
+    kind: body
+    source: |-
+      > involves identifying our considered judgments, learning more about them, and perhaps modifying them in the process of considering principles that would account for them. (Scanlon 2014: 84)[^scanlon-2014]
+    step1: |-
+      > 包括辨识我们的经过考虑判断、对其了解更多，并也许在考虑能够解释它们的原则的过程中修正它们。（Scanlon 2014: 84）[^scanlon-2014]
+    step2: |-
+      > 包含辨识吾人的深思熟虑判断、进而深悉之，并且或许在考量足以解释这些判断的原则之际对之加以修正。（Scanlon 2014: 84）[^scanlon-2014]
+  - id: 81
+    kind: body
+    source: |-
+      Indeed, the objection seems directed more at narrow reflective equilibrium, where the reflective process has little effect on the outcome. Consider the coherentist interpretation of reflective equilibrium discussed above, which highlights that judgments and principles in equilibrium cohere with the deliberator’s entire system of thought, which has arisen from reflection on all relevant principles and argument. It is hard to claim that this is not at least something in favour of their position. Someone who has not followed the method, and whose judgments and principles are only partially formed, extend only to a few cases, are flagrantly contradictory in some of those cases, and result from consideration of a limited range of principles and argument, does not, at least typically, have a view that is as credible.
+    step1: |-
+      的确，这一反对意见似乎更多针对狭义反思平衡，那里反思过程对结果影响甚微。试看上文讨论的融贯论解读，它强调处于平衡的判断与原则同慎思者的整个思想系统相融贯，而该系统产生于对一切相关原则与论证的反思。很难说这至少不是有利于其立场的东西。一个未曾遵循该方法的人，其判断与原则只具部分形态、仅及于少数情形、在其中的某些情形中公然自相矛盾、且出自对有限范围原则与论证的考虑，至少通常不会拥有同样可信的观点。
+    step2: |-
+      其实，这一诘难似乎更多指向狭义反思平衡——那里反思过程对结果影响甚微。试观上文所述的融贯论解读：它强调处于平衡的判断与原则同慎思者的整个思想系统相融贯，而该系统源自对一切相关原则与论证的反思。要说这至少无利于其立场，殊非易事。反之，一个未曾循法而行的人，其所持判断与原则仅粗具形态、只及于少数情形、在若干情形中公然自相矛盾、且得自对有限原则与论证的考量，则至少通常不会持有同样可信的看法。
+  - id: 82
+    kind: body
+    source: |-
+      It is true that there is little about wide reflective equilibrium that would prevent implausible considered judgments from entering the process, but this is because it is supposed that this filtering is properly conducted with all relevant theory on the table. Filtering in advance would require epistemic and (given the above examples) moral criteria that could well conflict with the theories accepted in wide reflective equilibrium.
+    step1: |-
+      诚然，广义反思平衡几乎没有阻止不可信的经过考虑判断进入过程之处；但这是因为，人们假定这种过滤应在一切相关理论都摆上桌面的情况下妥善进行。预先过滤则需要认识论的、以及（鉴于上述例子）道德的判准，而这些判准很可能与广义反思平衡所接受的理论相冲突。
+    step2: |-
+      诚然，广义反思平衡几无一处会阻止不近情理的深思熟虑判断进入过程；但这正因为人们假定：此种筛选应在一切相关理论摆上桌面的条件下妥为进行。若在事先筛选，便需有认识论的乃至（鉴于上述诸例）道德的判准，而这些判准很可能与广义反思平衡所接受的理论相抵牾。
+  - id: 83
+    kind: body
+    source: |-
+      To be sure, it is possible that some of those who claim to follow the method start with such unreasonable views (e.g., a cast iron commitment to random killing) that they will still have unreasonable views in equilibrium, but this could be seen as analogous to a scientist having such unreasonable views (e.g., a cast iron commitment to creationism or climate change denial) that their findings are unreasonable despite apparently following scientific procedure (Knight 2017: 53–54)[^knight-2017]. It might be held that, for people starting with such radically different beliefs from our own, it is not unreasonable to reach seemingly perverse equilibria (Cath 2016: 225–226)[^cath-2016]. Alternatively, and as explored below, the method might allow that their views are unjustified even though they are in equilibrium.
+    step1: |-
+      诚然，某些自称遵循该方法的人从如此不合理的观点出发（例如对随机杀人的铁一般承诺），以致他们在平衡中仍持有不合理的观点；但这可以类比于一位科学家持有如此不合理的观点（例如对神创论或否认气候变化的铁一般承诺），以致其研究结果不合理，尽管表面上遵循了科学程序（Knight 2017: 53–54）[^knight-2017]。或许可以说，对出发点与我们如此不同的人而言，达到看似反常的平衡并不算不合理（Cath 2016: 225–226）[^cath-2016]。另一种可能，如下文所探讨，是该方法允许他们的观点虽处于平衡却未获证成。
+    step2: |-
+      诚然，有些自称循法的人，其出发点之不合理（如对随机杀人的铁定执守）竟至于使他们即便在平衡中仍持不合理之见；但这可比于一位科学家抱有如此不合理的成见（如对神创论或否认气候变化的铁定执守），以致其研究结论虽外观上循科学程序，实则不合理（Knight 2017: 53–54）[^knight-2017]。或可主张：对出发点与我们如此悬隔的人而言，达到看似悖理的平衡并不为不合理（Cath 2016: 225–226）[^cath-2016]。另一种可能（详见下文）是：该方法容许其观点虽处平衡却未获证成。
+  - id: 84
+    kind: body
+    source: |-
+      ### 3.2 Relativism
+    step1: |-
+      ### 3.2 Relativism
+    step2: |-
+      ### 3.2 相对主义
+  - id: 85
+    kind: body
+    source: |-
+      Several critics object that there is no *unique* reflective equilibrium. There are two objections here, one interpersonal, one intrapersonal. The interpersonal objection is considered first.
+    step1: |-
+      若干批评者反对说，并不存在 *唯一的* 反思平衡。这里有两个反对意见，一个是人际的，一个是个人内的。先考虑人际的反对意见。
+    step2: |-
+      有几位批评者诘难说，反思平衡并不 **唯一**。此中实含两项反对意见：一属人际，一属个人内。先论人际者。
+  - id: 86
+    kind: body
+    source: |-
+      Some advocates of reflective equilibrium combine the view with moral realism, maintaining that the method can provide evidence of objective moral truth (Brink 1989 and more tentatively Daniels 1996: 37–39)[^brink-1989][^daniels-1996]. Rawls takes a less metaethically ambitious approach, his constructivist theory providing “objectivity for its limited political purposes” (Rawls 2005: 110; see also Nielsen 1993; Brandstedt & Brännmark 2020)[^brandstedt-2020][^nielsen-1993][^rawls-2005]. On either view reflective equilibrium can offer objective support for moral principles.
+    step1: |-
+      一些反思平衡的倡导者把这一观点与道德实在论结合起来，主张该方法能提供客观道德真理的证据（Brink 1989，以及更为试探性的 Daniels 1996: 37–39）[^brink-1989][^daniels-1996]。罗尔斯采取一种在元伦理学上抱负较小的进路，其建构主义理论提供“为其有限政治目的服务的客观性”（Rawls 2005: 110; 亦见 Nielsen 1993; Brandstedt & Brännmark 2020）[^brandstedt-2020][^nielsen-1993][^rawls-2005]。按任一观点，反思平衡都能为道德原则提供客观支持。
+    step2: |-
+      有些反思平衡的倡导者将此说与道德实在论相结合，主张该方法能提供客观道德真理的证据（Brink 1989；Daniels 1996: 37–39 则较为迟疑）[^brink-1989][^daniels-1996]。罗尔斯的进路在元伦理学上抱负较小，其建构主义理论所提供的只是“为其有限政治目的服务的客观性”（Rawls 2005: 110; 亦见 Nielsen 1993; Brandstedt & Brännmark 2020）[^brandstedt-2020][^nielsen-1993][^rawls-2005]。无论取哪一说，反思平衡都能为道德原则提供客观支持。
+  - id: 87
+    kind: body
+    source: |-
+      Critics disagree, claiming that reflective equilibrium falls victim to *relativism.* The objection starts with the observation that different people following the method may reach different, conflicting equilibria (Dworkin 1973 [1975: 34–36]; de Maagt 2017: 450–451)[^maagt-2017][^dworkin-1973]. How can it be the case that each of two or more conflicting views are objectively justified? The justification rather looks to be relative to the deliberator.
+    step1: |-
+      批评者不同意，声称反思平衡沦为 *相对主义* 的牺牲品。这一反对意见从如下观察出发：遵循该方法的不同人可能达到不同而相互冲突的平衡（Dworkin 1973 [1975: 34–36]; de Maagt 2017: 450–451）[^maagt-2017][^dworkin-1973]。两个或更多相互冲突的观点怎么可能各自都得到客观证成？证成看起来毋宁是相对于慎思者的。
+    step2: |-
+      批评者不以为然，斥反思平衡已陷于 **相对主义**。此诘难始于一项观察：循法而行的不同人可能达到彼此相异、相互扞格的平衡（Dworkin 1973 [1975: 34–36]; de Maagt 2017: 450–451）[^maagt-2017][^dworkin-1973]。两个或更多相互冲突的看法，何以竟能各得其客观证成？此处的证成看来毋宁是相对于慎思者而言的。
+  - id: 88
+    kind: body
+    source: |-
+      But reflective equilibrium is properly understood as a *potential* source of justification. There is no need to claim that it always offers evidence of moral truth or practical guidance. Hence, the mere existence of conflicting equilibria does not mark the descent into relativism. As Scanlon notes,
+    step1: |-
+      但反思平衡应当被恰当理解为证成的一种 *潜在* 来源。无须主张它总能提供道德真理的证据或实践指引。因此，相互冲突的平衡之存在本身，并不标志坠入相对主义。正如斯坎伦所指出的，
+    step2: |-
+      然而，反思平衡本应被恰当地理解为证成的一种 **可能的** 来源，无须宣称它总能提供道德真理的证据或实践上的指引。是故，相互冲突的平衡之存在本身，并不足以标志沦于相对主义。斯坎伦（Scanlon）说得好：
+  - id: 89
+    kind: body
+    source: |-
+      > accepting that some person is well informed and has carried out the search for reflective equilibrium conscientiously does not even commit one to the conclusion that this person is justified in accepting the principles that result, let alone the conclusion that those principles are justified. (Scanlon 2003: 152)[^scanlon-2003]
+    step1: |-
+      > 承认某人消息灵通、并且认真地进行了反思平衡的探求，甚至并不使人有理由得出这样的结论：此人有理由接受由此产生的原则；更不用说得出这些原则得到证成的结论。（Scanlon 2003: 152）[^scanlon-2003]
+    step2: |-
+      > 承认某人见闻广博、且已兢兢业业地做过反思平衡的探求，甚至并不使人足以断定：此人接受由此得出的原则是有理由的；更不必说断定那些原则本身已获证成。（Scanlon 2003: 152）[^scanlon-2003]
+  - id: 90
+    kind: body
+    source: |-
+      He asks us to enquire as to the reasons for divergences between our equilibrium and that of another. Did we start with different considered judgments? Did the divergence arise due to later adjustments in considered judgments? Is it due to consideration of different moral principles? At each stage we are to ask whether we feel we made the better decisions or whether we might now revise our judgments and principles (Scanlon 2003: 152–153; Scanlon 2014: 79–81)[^scanlon-2003][^scanlon-2014].
+    step1: |-
+      他要求我们追问我们的平衡与另一人的平衡之间分歧的理由。我们是从不同的经过考虑判断出发的吗？分歧是由后来对经过考虑判断的调整引起的吗？是由于考虑了不同的道德原则吗？在每一阶段，我们都要问：我们是否觉得自己作了更好的决定，或者我们是否现在就要修正自己的判断与原则（Scanlon 2003: 152–153; Scanlon 2014: 79–81）[^scanlon-2003][^scanlon-2014]。
+    step2: |-
+      他教我们追问：自己的平衡与他人的平衡何以有歧。我们起初所持的深思熟虑判断是否不同？歧异是否起于后来对深思熟虑判断的调整？抑或起于所考量的道德原则有别？每一环节都须自问：我们是否觉得当初抉择较善，抑或此刻正该修正自己的判断与原则（Scanlon 2003: 152–153; Scanlon 2014: 79–81）[^scanlon-2003][^scanlon-2014]。
+  - id: 91
+    kind: body
+    source: |-
+      What if we are content with the decisions leading to *both* equilibria? Two conflicting views being equally justified is not really suggestive of relativism, but rather supports a pluralistic position (Scanlon 2014: 79)[^scanlon-2014]. It seems no less objective to judge that two equilibria are equally justified than it is to judge that one is more justified than the other.
+    step1: |-
+      假如我们对导致 *两个* 平衡的那些决定都感到满意，又当如何？两种相互冲突的观点同等地得到证成，并不真正提示相对主义，反而支持一种多元主义立场（Scanlon 2014: 79）[^scanlon-2014]。判定两个平衡同等得到证成，似乎并不比判定其中一个比另一个更得到证成更不客观。
+    step2: |-
+      倘若我们对导致 **两个** 平衡的那些决断都感到满意，又当如何？两种相互冲突的看法同等地得到证成，其实并不暗示相对主义，反倒支持一种多元主义的立场（Scanlon 2014: 79）[^scanlon-2014]。判定两个平衡同等获得证成，似乎并不比判定其一较另一更获证成少些客观性。
+  - id: 92
+    kind: body
+    source: |-
+      ### 3.3 Indeterminacy
+    step1: |-
+      ### 3.3 Indeterminacy
+    step2: |-
+      ### 3.3 不确定性
+  - id: 93
+    kind: body
+    source: |-
+      On, then, to the objection to the lack of a unique *intra*personal equilibrium. Just as different people may reach different equilibria, the same person may reach different equilibria at different times, as their judgments are revisable. The ethical deliberator can simply change their mind even if the relevant facts stay the same, the claimed standard of justification being a drifting one (Copp 1985: 165)[^copp-1985]. Alternatively, there may be multiple simultaneous equilibria even for a single person, where principles and judgments can be made to fit each other in different combinations (Haslett 1987: 310)[^haslett-1987]. Critics worry that such an indeterminate procedure cannot tell us what to believe or results in an arbitrary outcome (McPherson 2015: 662–663; List & Valentini 2016: 542)[^list-2016][^mcpherson-2015].
+    step1: |-
+      接下来是反对缺乏唯一 *个人内* 平衡的意见。正如不同的人可能达到不同的平衡，同一个人在不同时间也可能达到不同的平衡，因为其判断是可修正的。伦理慎思者即便相关事实不变，也能干脆改变主意；所谓证成标准于是成了漂移不定的东西（Copp 1985: 165）[^copp-1985]。另一种可能是，即便对单个人而言，也可能同时存在多个平衡，原则与判断可以以不同组合彼此相配（Haslett 1987: 310）[^haslett-1987]。批评者担心，这种不确定的程序无法告诉我们该相信什么，或者会导致任意的结果（McPherson 2015: 662–663; List & Valentini 2016: 542）[^list-2016][^mcpherson-2015]。
+    step2: |-
+      其次，是反对缺乏唯一的 **个人内** 平衡的意见。正如不同的人可能达到不同的平衡，同一个人在不同时候也可能达到不同的平衡，因为其判断可加修正。伦理慎思者纵然面对同一事实，也尽可改弦易辙；所谓证成的标准遂成漂移无定之物（Copp 1985: 165）[^copp-1985]。另一可能是，即便对单独一人而言，也可同时并存多个平衡，原则与判断能以不同方式彼此相配（Haslett 1987: 310）[^haslett-1987]。批评者忧心：这样一种游移不定的程序，既无从告诉我们该信什么，又会导致任意独断的结果（McPherson 2015: 662–663; List & Valentini 2016: 542）[^list-2016][^mcpherson-2015]。
+  - id: 94
+    kind: body
+    source: |-
+      This line of objection is largely anticipated by Rawls, who acknowledges that there may be no unique equilibrium even for one person, and that the judgments we start with, or the “course of reflection itself,” may affect the principles we settle on (Rawls 1971: 50)[^rawls-1971]. He simply sets such questions aside, saying that reflective equilibrium “is, if you wish, a kind of psychology and does not presuppose the existence of objective moral truths” (Rawls 1974: 9)[^rawls-1974]. For reasons parallel to those in the interpersonal case, it may also be that the truth of moral realism, and the existence of objective moral facts, are compatible with drifting equilibria (Knight 2006: 220)[^knight-2006]. Advocates of reflective equilibrium do not claim that it gives direct access to or perfectly tracks moral truth, only that it can justify moral beliefs. Even where the ultimate facts are static, a belief can become more justified by becoming endorsed by the deliberators’ judgments and cohering with their reflectively-derived system of beliefs.
+    step1: |-
+      这一路反对意见大体上已被罗尔斯预见到，他承认即便对一个人而言也可能不存在唯一的平衡，而且我们据以出发的判断、或“反思过程本身”，都可能影响我们最终确定的原则（Rawls 1971: 50）[^rawls-1971]。他干脆把此类问题搁置一旁，说反思平衡“如果你愿意，可以说是一种心理学，并不预设客观道德真理的存在”（Rawls 1974: 9）[^rawls-1974]。出于与人际情形相平行的理由，道德实在论的真、以及客观道德事实的存在，也可能与漂移的平衡相容（Knight 2006: 220）[^knight-2006]。反思平衡的倡导者并不声称它直接通达或完美追踪道德真理，只声称它能证成道德信念。即便终极事实静止不变，一个信念也可以因得到慎思者判断的认可、并与他们由反思得出的信念系统相融贯而变得更获证成。
+    step2: |-
+      这一路诘难，罗尔斯大体早有预见：他承认即便对一个人来说也未必有唯一的平衡，且我们起初所持的判断、或“反思的进程本身”，都可能左右最终所定的原则（Rawls 1971: 50）[^rawls-1971]。他只是把这类问题搁置一旁，谓反思平衡“若你愿意，可算一种心理学，并不预设客观道德真理之存在”（Rawls 1974: 9）[^rawls-1974]。与人际一例同理，道德实在论之为真、客观道德事实之存在，亦不妨与漂移的平衡相容（Knight 2006: 220）[^knight-2006]。反思平衡的倡导者从不声称它径直通达道德真理、或与之分毫不差地相应，只声称它能证成道德信念。纵令终极事实凝然不动，一个信念仍可因获慎思者判断之认可、且与其由反思所得的信念系统相融贯，而益增其证成。
+  - id: 95
+    kind: body
+    source: |-
+      ### 3.4 Bias
+    step1: |-
+      ### 3.4 Bias
+    step2: |-
+      ### 3.4 偏倚
+  - id: 96
+    kind: body
+    source: |-
+      The further objection might then be raised that reflective equilibrium is vulnerable to arbitrary order or framing biases (McPherson 2015: 662–663; List & Valentini 2016: 542)[^list-2016][^mcpherson-2015]. One study found that professional philosophers were vulnerable to order and framing effects, and that this was not reduced by reflection or expertise on the topics in question (Schwitzgebel & Cushman 2015)[^schwitzgebel-2015]. The judgments of participants in reflective equilibrium might be considered unreliable in the sense that they vary with factors that they themselves consider irrelevant (Paulo 2020: 335–336)[^paulo-2020].
+    step1: |-
+      随后还可能提出进一步的反对意见：反思平衡易受任意的顺序或框架偏倚影响（McPherson 2015: 662–663; List & Valentini 2016: 542）[^list-2016][^mcpherson-2015]。一项研究发现，专业哲学家易受顺序效应与框架效应影响，且这种影响并未因反思或对所论议题的专门知识而减少（Schwitzgebel & Cushman 2015）[^schwitzgebel-2015]。反思平衡参与者的判断可能被视为不可靠，因为它们随参与者本人认为无关的因素而变化（Paulo 2020: 335–336）[^paulo-2020]。
+    step2: |-
+      继而或可提出更进一步的诘难：反思平衡易受任意的次序偏倚与框定偏倚之害（McPherson 2015: 662–663; List & Valentini 2016: 542）[^list-2016][^mcpherson-2015]。有研究显示，专业哲学家亦不免于次序效应与框定效应，且此弊并不因反思或对所论议题的专门素养而稍减（Schwitzgebel & Cushman 2015）[^schwitzgebel-2015]。反思平衡参与者的判断或可视为不可靠——因为它们随参与者自认为无关的因素而变（Paulo 2020: 335–336）[^paulo-2020]。
+  - id: 97
+    kind: body
+    source: |-
+      Additional biases are suggested by experiments bringing out the emotional nature of moral reasoning. They show, for instance, that there is greater activation of brain areas associated with emotional processing in personal cases, such as the variant of the trolley problem where a large person is pushed from a footbridge, than in otherwise similar impersonal cases, such as the original trolley problem (Greene et al. 2001)[^greene-2001]. Peter Singer suggests that considered judgments in such cases are emotionally-driven evolved responses to circumstances that no longer obtain:
+    step1: |-
+      还有实验提示了额外的偏倚，这些实验揭示出道德推理的情感性质。例如它们显示，在涉身情形中——如把一个大个子从人行天桥上推下去的电车难题变体——与情感加工相关的脑区激活程度，高于在其他方面相似的无人称情形，如原版电车难题（Greene et al. 2001）[^greene-2001]。彼得·辛格提出，此类情形中的经过考虑判断，是对已不复存在之境况的、由情感驱动的演化反应：
+    step2: |-
+      另有实验揭示道德推理的情感底蕴，从中可见别的偏倚。例如，在涉身个案——如将一名胖子从天桥上推落的电车难题变体——中，与情感加工相关脑区的激活程度，高于其他方面相当的无人称个案，如原版电车难题（Greene et al. 2001）[^greene-2001]。彼得·辛格（Peter Singer）主张，此类个案中的深思熟虑判断，乃是对早已不复存在之境况所作的情感驱动的演化反应：
+  - id: 98
+    kind: body
+    source: |-
+      > the salient feature that explains our different intuitive judgments concerning the two cases is that the footbridge case is the kind of situation that was likely to arise during the eons of time over which we were evolving; whereas the standard trolley case describes a way of bringing about someone’s death that has only been possible in the past century or two, a time far too short to have any impact on our inherited patterns of emotional response. But what is the moral salience of the fact that I have killed someone in a way that was possible a million years ago, rather than in a way that became possible only two hundred years ago? I would answer: none. (Singer 2005: 348)[^singer-2005]
+    step1: |-
+      > 解释我们对两案作出不同直觉判断的显著特征在于：天桥一案属于在我们演化所经历的漫长岁月中很可能出现的那类情境；而标准电车案所描述的致人死亡方式，只在过去一两百年间才有可能，这段时间太短，无从影响我们继承下来的情感反应模式。但我以百万年前可能的方式、而非两百年前才可能的方式杀了一个人，这一事实的道德显著性何在？我的回答是：毫无。（Singer 2005: 348）[^singer-2005]
+    step2: |-
+      > 何以我们对两案作出不同的直觉判断？其显著缘由在于：天桥一案所描摹的情境，在我们演化所经历的悠悠岁月中本有可能出现；而标准电车案所述致人于死的方式，只在近一两百年方才可能，其时间之短，远不足以触动我们承袭而来的情感反应模式。然而，我是以百万年前即已可能的方式杀人，还是以两百年前方始可能的方式杀人，这一事实究竟有何道德上的显著性？我的回答是：全无。（Singer 2005: 348）[^singer-2005]
+  - id: 99
+    kind: body
+    source: |-
+      He therefore concludes that reflective equilibrium is mistaken in giving considered judgments a central role in moral theorizing. Other critics similarly suggest that considered judgments may be based on prejudice (Brandt 1979: 22; Hare 1981: 12; Anderson 2015)[^anderson-2015][^brandt-1979][^hare-1981].
+    step1: |-
+      他因此得出结论：反思平衡让经过考虑判断在道德理论化中居于核心地位，这是错误的。其他批评者同样提出，经过考虑判断可能基于偏见（Brandt 1979: 22; Hare 1981: 12; Anderson 2015）[^anderson-2015][^brandt-1979][^hare-1981]。
+    step2: |-
+      他由此断言：反思平衡使深思熟虑判断在道德理论建构中占据枢要，这是错的。其他批评者亦谓，深思熟虑判断或出于偏见（Brandt 1979: 22; Hare 1981: 12; Anderson 2015）[^anderson-2015][^brandt-1979][^hare-1981]。
+  - id: 100
+    kind: body
+    source: |-
+      Wide reflective equilibrium may be able to take on board these concerns, and revise judgments accordingly. For instance, if we are moved by Singer’s argument about the strongly emotional and evolutionary character of some of our moral judgments, we could use a revised conception of considered judgments that excludes judgments distorted in this way (Tersman 2008: 398)[^tersman-2008]. Alternatively, we could allow such judgments to enter the process, but revise them given the background theory that Singer introduces (see Tersman 2008: 397)[^tersman-2008]. Order or framing effects would similarly be highlighted by psychological background theories, allowing the deliberator to take compensatory measures.
+    step1: |-
+      广义反思平衡也许能够吸纳这些顾虑，并据此修正判断。例如，如果我们为辛格关于我们某些道德判断具有强烈情感性与演化特征的论证所动，我们可以采用一种修正过的经过考虑判断概念，把以此方式被扭曲的判断排除在外（Tersman 2008: 398）[^tersman-2008]。或者，我们可以允许此类判断进入过程，但依据辛格所引入的背景理论修正它们（见 Tersman 2008: 397）[^tersman-2008]。顺序效应或框架效应同样会因心理学背景理论而被凸显出来，从而让慎思者采取补偿措施。
+    step2: |-
+      广义反思平衡或能容纳这些顾虑，并据以修正判断。例如，倘若我们为辛格关于某些道德判断之强烈情感性与演化品格的论证所动，便可采用一种经过修正的深思熟虑判断概念，将如此被扭曲的判断排除在外（Tersman 2008: 398）[^tersman-2008]；或者容许此类判断进入过程，却依据辛格所引入的背景理论对之加以修正（见 Tersman 2008: 397）[^tersman-2008]。次序效应与框定效应，同样会因心理学的背景理论而彰显，慎思者遂可采取补救之策。
+  - id: 101
+    kind: body
+    source: |-
+      ### 3.5 An Empty Method?
+    step1: |-
+      ### 3.5 An Empty Method?
+    step2: |-
+      ### 3.5 一种空洞的方法？
+  - id: 102
+    kind: body
+    source: |-
+      By this point the critic may be exasperated. If you identify a problem with someone’s way of doing philosophy, and they agree that it’s a problem, you might expect them to change how they do it. But the adherent of wide reflective equilibrium accepts the criticism but maintains their method, saying that they have adopted the criticism within the method. To critics this suggests that the method is “close to vacuous” (Singer 2005: 349)[^singer-2005], absorbing methodological controversies rather than adjudicating them (McPherson 2015: 661; Paulo 2020: 346; de Maagt 2017: 458)[^maagt-2017][^mcpherson-2015][^paulo-2020]. It just takes us
+    step1: |-
+      说到这里，批评者可能已经忍无可忍。如果你指出某人做哲学的方式有问题，而他们也同意那是个问题，你也许会期待他们改变做法。但广义反思平衡的信奉者接受批评却坚持其方法，声称他们已在方法内部采纳了该批评。在批评者看来，这说明该方法“近乎空洞”（Singer 2005: 349）[^singer-2005]，是吸收方法论争议而非裁断它们（McPherson 2015: 661; Paulo 2020: 346; de Maagt 2017: 458）[^maagt-2017][^mcpherson-2015][^paulo-2020]。它只是把我们
+    step2: |-
+      至此，批评者或已按捺不住：你若指出某人做哲学的方式有毛病，而他也承认确有毛病，你便会指望他改弦更张。然而广义反思平衡的信徒接受了批评，却仍固守其法，声称已把批评纳入方法之中。在批评者看来，这正表明该方法“近于空洞”（Singer 2005: 349）[^singer-2005]——它只是把方法论上的争议吸纳进来，而不加裁断（McPherson 2015: 661; Paulo 2020: 346; de Maagt 2017: 458）[^maagt-2017][^mcpherson-2015][^paulo-2020]。它不过是把我们
+  - id: 103
+    kind: body
+    source: |-
+      > back to the usual philosophical argument about the merits and demerits of various methods of argument and of various theories. The method of reflective equilibrium is then not a method in moral philosophy at all. (Raz 1982: 309)[^raz-1982]
+    step1: |-
+      > 带回关于各种论证方法与各种理论之优劣的常见哲学争论。于是，反思平衡的方法根本不是道德哲学中的一种方法。（Raz 1982: 309）[^raz-1982]
+    step2: |-
+      > 带回到关于各种论证方式与各种理论孰优孰劣的老生常谈的哲学论辩。这样看来，反思平衡的方法根本算不上道德哲学中的一种方法。（Raz 1982: 309）[^raz-1982]
+  - id: 104
+    kind: body
+    source: |-
+      Defenders of wide reflective equilibrium describe it in similar terms to the critics, while rejecting their negative evaluation. Its ability to absorb apparent rivals is seen as a feature, not a bug:
+    step1: |-
+      广义反思平衡的辩护者用与批评者相似的措辞描述它，却拒斥其负面评价。它吸收表面竞争对手的能力被视为特征而非缺陷：
+    step2: |-
+      广义反思平衡的辩护者对其描述与批评者相仿，却不接受后者的贬评。他们把该方法吸纳表面敌手的能力看作长处，而非短处：
+  - id: 105
+    kind: body
+    source: |-
+      > This charge of emptiness seems to me to be largely correct, but nonetheless mistaken in one important respect, and therefore not as damaging as it sounds. The charge is largely correct because the search for wide reflective equilibrium, as Rawls describes it, allows for what might have been seen as alternative methods of justification to be incorporated within it. … What the method of reflective equilibrium prescribes is, so to speak, a level playing field of intuitive justification on which principles and judgments of all levels of generality must compete for our allegiance. It thus allows all possible sources of justificatory force to be considered. But the method is not vacuous because it is incompatible with some views about these sources. It is incompatible, first, with the idea that any particular class of judgments or principles can be singled out in advance of this process as justified on some other basis and, second, with the idea that any class of considered judgments should be left out of this process. (Scanlon 2003: 151)[^scanlon-2003].
+    step1: |-
+      > 在我看来，这一空洞指控大体正确，但在一处重要方面却错了，因此并不像听上去那样有害。说它大体正确，是因为如罗尔斯所描述的，对广义反思平衡的探求，容许那些本可能被视为替代性证成方法的东西被纳入其中。……反思平衡的方法所规定的，可以说是一个直观证成的公平竞技场，一切普遍性层次的原则与判断都须在此争夺我们的效忠。它因而容许一切可能的证成性力量来源都被考虑在内。但该方法并非空洞，因为它与关于这些来源的某些看法不相容：第一，它与如下观念不相容——任何特定类别的判断或原则可以在这一过程之前被单独挑出，说它基于其他某种根据而得到证成；第二，它与如下观念不相容——任何类别的经过考虑判断都应被排除在这一过程之外。（Scanlon 2003: 151）[^scanlon-2003]
+    step2: |-
+      > 这一空洞之讥，我看大体是对的，然于一处要紧处却错了，故其杀伤力并不如听来之大。讥其大体为是，是因为如罗尔斯所述，对广义反思平衡的探求本容许那些本来或被视作替代性证成方法的东西被纳入其中。……反思平衡的方法所规定的，可谓一方直观证成的公平竞技场，一切普遍性层次的原则与判断俱须在此争夺吾人之归心。是故它容许一切可能的证成力量之源尽入考量。然而此法并不空洞，因为它与关于此类来源的某些见解不相容：其一，不容许任何特定类别的判断或原则在这一过程之前便被单独挑出，谓其依凭别的根据已获证成；其二，不容许任何类别的深思熟虑判断被摒除于这一过程之外。（Scanlon 2003: 151）[^scanlon-2003]
+  - id: 106
+    kind: body
+    source: |-
+      It might be added that critics of reflective equilibrium are rich sources of methods incompatible with reflective equilibrium. For instance, Brandt’s cognitive psychotherapy, Hare’s universal prescriptivism, Anderson’s pragmatism, or de Maagt’s transcendentalism describe methods for justifying moral views prior to, or without, reflective equilibrium (Brandt 1979; Hare 1981; Anderson 2015; de Maagt 2017)[^anderson-2015][^brandt-1979][^maagt-2017][^hare-1981]. Reflective equilibrium rules out
+    step1: |-
+      还可补充说，反思平衡的批评者正是与反思平衡不相容的方法的丰富来源。例如，布兰特的认识疗法、黑尔的普遍规定主义、安德森的实用主义、或德马格特的先验论，都描述了在反思平衡之前、或无需反思平衡而证成道德观点的方法（Brandt 1979; Hare 1981; Anderson 2015; de Maagt 2017）[^anderson-2015][^brandt-1979][^maagt-2017][^hare-1981]。反思平衡排除了
+    step2: |-
+      还可补上一句：反思平衡的批评者本身，恰是与反思平衡不相容的种种方法的渊薮。例如布兰特（Brandt）的认知疗法、黑尔（Hare）的普遍规定主义、安德森（Anderson）的实用主义、德马格特（de Maagt）的先验论，都提出了在反思平衡之先、或舍弃反思平衡以证成道德观点的方术（Brandt 1979; Hare 1981; Anderson 2015; de Maagt 2017）[^anderson-2015][^brandt-1979][^maagt-2017][^hare-1981]。反思平衡则排除了
+  - id: 107
+    kind: body
+    source: |-
+      > moral skepticism and nihilism and other doctrines that doubt our capacities for morality altogether, as well as naturalism and other reductionist efforts to justify moral principles purely on the basis of factual, linguistic, or metaphysical claims. (Freeman 2007: 37; see also Rawls 1971: 51)[^freeman-2007][^rawls-1971]
+    step1: |-
+      > 道德怀疑论与虚无主义，以及一切全然怀疑我们道德能力的学说，还有自然主义以及其他纯凭事实的、语言的或形而上学的断言来证成道德原则的还原论努力。（Freeman 2007: 37; 亦见 Rawls 1971: 51）[^freeman-2007][^rawls-1971]
+    step2: |-
+      > 道德怀疑论、虚无主义，以及其他一概怀疑吾人道德能力的学说；亦排除自然主义，以及其他仅凭事实、语言或形而上学的断言来证成道德原则的还原论图谋。（Freeman 2007: 37; 亦见 Rawls 1971: 51）[^freeman-2007][^rawls-1971]
+  - id: 108
+    kind: body
+    source: |-
+      Given the many methods and theories at odds with reflective equilibrium, it is hard to maintain that it is devoid of content, or nearly so. If it looks that way it may be because its assumptions are widely accepted in moral and political philosophy, a victim of its own success.
+    step1: |-
+      鉴于有许多方法与理论同反思平衡相抵牾，很难坚持说它没有内容，或几乎没有内容。如果它看起来如此，也许是因为它的假定在道德与政治哲学中被广泛接受——成了自身成功的牺牲品。
+    step2: |-
+      既有许多方法与理论同反思平衡枘凿，要坚称它空洞无物、或近乎无物，便不易办到。倘若它看上去如此，或许只是因为其假定在道德与政治哲学中已获普遍接受——它成了自身成功的牺牲品。
+  - id: 109
+    kind: oir
+    source: |-
+      - Daniels, Norman, “Reflective Equilibrium”, *Stanford Encyclopedia of Philosophy* (Fall 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <[https://plato.stanford.edu/archives/fall2023/entries/reflective-equilibrium/](https://plato.stanford.edu/archives/fall2023/entries/reflective-equilibrium/)>. [This was the previous entry on this topic in the *Stanford Encyclopedia of Philosophy* – see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=reflective-equilibrium).]
+    step1: |-
+      - 丹尼尔斯，诺曼（Daniels, Norman），“反思平衡”（Reflective Equilibrium），《斯坦福哲学百科全书》（2023 年秋季版），Edward N. Zalta、Uri Nodelman 编，URL = <[https://plato.stanford.edu/archives/fall2023/entries/reflective-equilibrium/](https://plato.stanford.edu/archives/fall2023/entries/reflective-equilibrium/)>。［此为《斯坦福哲学百科全书》该主题的较早词条——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=reflective-equilibrium)。］
+    step2: |-
+      - 诺曼·丹尼尔斯（Daniels, Norman），“反思平衡”，载《斯坦福哲学百科全书》（2023 年秋季版），Edward N. Zalta、Uri Nodelman 编，URL = <[https://plato.stanford.edu/archives/fall2023/entries/reflective-equilibrium/](https://plato.stanford.edu/archives/fall2023/entries/reflective-equilibrium/)>。［这是《斯坦福哲学百科全书》先前关于本主题的词条——参见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=reflective-equilibrium)。］

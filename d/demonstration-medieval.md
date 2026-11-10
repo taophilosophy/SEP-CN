@@ -1,4 +1,4 @@
-# 中世纪的演绎理论 medieval theories of (John Longeway)
+# 中世纪的证明理论 Medieval Theories of Demonstration (John Longeway)
 
 *首次发表于 2005 年 8 月 12 日。*
 

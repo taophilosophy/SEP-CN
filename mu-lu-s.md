@@ -373,7 +373,7 @@ outline: [1, 6]
 * [赫尔曼·洛采 Lotze, Hermann (David Sullivan)](h/hermann-lotze.md)
 * [格奥尔格·威廉·弗里德里希·黑格尔 Hegel, Georg Wilhelm Friedrich (Paul Redding)](h/hegel.md)
   * [黑格尔的辩证法 dialectics (Julie E. Maybee)](h/hegel-dialectics.md)
-  * [黑格尔的社会与政治哲学 social and political philosophy (Thom Brooks)](h/hegel-social-political.md)
+  * [黑格尔的社会与政治哲学 Hegel's Social and Political Philosophy (Thom Brooks)](h/hegel-social-political.md)
   * [黑格尔的美学 aesthetics (Stephen Houlgate)](h/hegel-aesthetics.md)
 * [麦克斯·施蒂纳 Stirner, Max (David Leopold)](m/max-stirner.md)
 * [布鲁诺·鲍威尔 Bauer, Bruno (Douglas Moggach and Gabriele Schimmenti)](b/bauer.md)
@@ -880,7 +880,7 @@ outline: [1, 6]
 ### 逻辑史
 
 * [不可解命题 insolubles \[= insolubilia\] (Paul Vincent Spade and Stephen Read)](i/insolubles.md)
-* [中世纪的演绎理论 medieval theories of (John Longeway)](d/demonstration-medieval.md)
+* [中世纪的证明理论 Medieval Theories of Demonstration (John Longeway)](d/demonstration-medieval.md)
 * [中世纪的三段论理论 medieval theories of (Henrik Lagerlund)](m/medieval-syllogism.md)
 * [中世纪和文艺复兴时期哲学中的概率 probability, in medieval and Renaissance philosophy (Rudolf Schuessler)](p/probability-medieval-renaissance.md)
 * [中世纪符号学 medieval (Stephan Meier-Oeser)](s/semiotics-medieval.md)
