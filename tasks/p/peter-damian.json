@@ -2,7 +2,7 @@
   "slug": "peter-damian",
   "kind": "retranslate",
   "zh_doc": "p/peter-damian.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "P-main-20261110",
       "at": "2026-11-09T19:09:10Z",
       "evidence": "三校（体例）：check_style --docs 两文件 --strict 0 issue；markdownlint-cli2 对 p/peter-damian.md 与 p/peter-damian.supplement.md 0 报错（MD037 已清零；全库余量在他人在途文件）；check_terms 定点 0 硬错误（自洽 0：废弃链完整、同键非废弃行齐备；正文新形已落地）；check_academic --strict 0 硬错误（脚注引用/定义一一对应、结构节集合与源一致）；check_math 0 缺失 0 失配；check_summary H1 mismatch 0；check_images 不适用（本词条无图）；biblio_audit flagged=0。术语主形：取消已成之事 / 使已成之事成为未曾做过 / 恢复贞洁（登记册 2026-11-10 两行变更 + 伯多禄·达弥盎人名行）。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "P-main-20261110",
+      "at": "2026-11-10T00:50:40Z",
+      "evidence": "初审（冷置后回读：期间完成 paradox-of-tragedy 全条翻译，间隔充分）：重核结构与引注——节集合 §1–§6 含 5.1/5.2 与源一一对应；脚注引用 31:31、定义 27:27 与源逐项相等；版本行 2003-08-27 首发／2024-10-07 修订与 baseline pubinfo 一致；相关词条 9 项对 SUMMARY 主词条名复验；补充材料 H1/溯源行/小节与源 supplement 对位。发现并记录：引文内保留直译形『已做之事成为未做之事』（拉丁 factum non fuerit 的直译），正文主形统一『取消已成之事／使已成之事成为未曾做过』——判定引文直译与正文术语分层成立，不作改动。签字：P-main-20261110。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "P-main-20261110",
+      "at": "2026-11-10T00:52:23Z",
+      "evidence": "复审（逐句回核原文与逻辑）：①§2 五步论证（1)–(5) 与源 steps [1]–[5] 逐一对应，『取消已成之事』两处与长句式的分工一致；②§5.1 两项预备性考虑（辩证法之后承问题、神意论）论证链与 604A/607A/608D–609A 锚点相符；③§5.2 posse/potest/potuit 三层区别与『本可以选择另一套神意计划』结论回核无漂移；④§6 双重目的（节制谈论上帝／自我辩白）与 597C、620D 引文闭合；⑤三处引文（611D–612B、608C、618B–C）逐句对源（Holopainen 译本）核验无增删。复核未发现需改处。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "P-main-20261110",
+      "at": "2026-11-10T00:54:48Z",
+      "evidence": "终审：门禁复跑全绿——check_style 两文件 --strict 0 issue；markdownlint-cli2 两文件 0 报错；check_academic --strict 0 硬错误；check_math 0 缺失/0 失配；check_summary 0 失配；check_terms 0 硬错误；check_prose 0 告警；check_all 全局 7 项全绿。结构完整（六节+脚注+文献+工具+OIR+相关词条+补充材料）；零信任链完整（version_pin Winter 2024 / 2024-10-07 / sha256 674f91c5…）。验收签字：P-main-20261110（单会话冷置复核，独立性依 ADR-0020 冷置条款）。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "P-main-20261110",
+      "at": "2026-11-10T00:59:21Z",
+      "evidence": "收口：六道+三审全过（draft→s1→s2→s3→r1→r2→r3），成品 p/peter-damian.md 34491 字符 + 补充材料 6243 字符；证据链：账本 59 段守恒、术语登记 3 行变更（undo/restoration 废弃链 + 伯多禄·达弥盎人名行）、s1/s2 实修清单见前序 evidence；门禁全绿见 r3。done 计 P 批第 7 条。"
     }
   ],
   "blockers": [],
