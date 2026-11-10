@@ -2,7 +2,7 @@
   "slug": "heraclitus",
   "kind": "retranslate",
   "zh_doc": "h/heraclitus.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -59,6 +59,20 @@
       "actor": "H-main-20261110b",
       "at": "2026-11-10T17:33:19Z",
       "evidence": "r2 复审（新会话逐句回核 + 登记册/术语定向核查）：①全文中英对照复核 27 处引块（B1/B2/B10/B12/B25/B31/B32/B36/B40/B49a/B50/B53/B55/B57/B61/B64/B67/B80/B88/B91a/B93/B102/B104/B107/B112/B114/B116/B119/B121 等）归属、残篇编号与译文逐条相符，标点与〈〉伪标记保留；②人名登记册逐名核销 28 位（赫拉克利特/泰勒斯/阿那克西曼德/阿那克西美尼/第欧根尼·拉尔修/特奥弗拉斯托斯/赫卡泰奥斯/比阿斯/阿尔基洛科斯/克拉底鲁/克勒安忒斯/埃奈西德穆/普鲁塔克/优西比乌/赫尔莫多鲁斯/希庇亚斯/阿里乌斯·迪迪穆斯/柏格森/怀特海/休谟等）全在册；③现代学者体例归一——全文其余现代学者（Barnes/Kirk/Marcovich/Reinhardt/Tarán/Polito）均保西文，唯『查尔斯·卡恩』一处汉译破例，已改『Kahn』与篇内引用式（Kahn 1979/1960）一致，免造未登记汉名；④êthos 译名统一——引文作『习性』而解说处作『性情』，已统一为『习性』；⑤相关词条 7 项与 SUMMARY 站内名逐一对齐（矛盾/巴门尼德/前苏格拉底哲学/过程哲学/毕达哥拉斯/古代灵魂理论/克塞诺芬尼）；⑥check_terms 本文档硬错误 0；⑦账本回写两处实修（lq check 92 段守恒复验 OK）。四检：check_style 0、check_academic --strict 0 硬错、check_prose 0（s2 已清零且本轮未回潮）、check_math 0/0。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "H-main-20261110b",
+      "at": "2026-11-10T19:01:24Z",
+      "evidence": "r3 终稿验收：check_all 九项全绿（SUMMARY 结构/分类目录/单体文件大小/垃圾入库/图片引用/术语一致性/直角引号总检/学术规范/管线单元测试）；定点四检 check_style 0 issue、check_academic --strict 0 硬错误、check_prose 0（44→0 后保持零回潮）、check_math 0 缺式 0 失衡；账本 92 段守恒复验 OK 且 r2 两处实修已回写 step2；正文 marker 25:25、defs 49:49、引块 27 处、H2 差异 1 处为模板合成脚注节（源 Notes 在文末，s1 已核）。附带清障：并行会话在途登记册两处直角引号（ren-ming-biao Frege 行、yi-zhe-shuo-ming epistemic entrenchment 行）与 Ibn Abi Usaybi'a 重复行已按 rules/02 与合并体例处置。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "H-main-20261110b",
+      "at": "2026-11-10T19:01:24Z",
+      "evidence": "收口：r1（前手冷置回读）→ r2（新会话逐句回核 27 处引块＋28 位人名核销＋现代学者体例归一＋êthos 译名统一）→ r3（终稿验收＋九项门禁全绿），对账全等，账本可重放"
     }
   ],
   "blockers": [],
