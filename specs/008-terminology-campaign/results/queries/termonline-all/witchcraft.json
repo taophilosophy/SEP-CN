@@ -1,0 +1,33 @@
+{
+ "key": "witchcraft",
+ "term": "witchcraft",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T22:08:12+00:00",
+ "status": "ok",
+ "note": "variant=witchcraft; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "塞勒姆灭巫事件",
+   "en": "Salem Witchcraft Trials of 1692",
+   "code": "03.0005",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_美国"
+  },
+  {
+   "cn": "巫术崇拜",
+   "en": "witchcraft worship",
+   "code": "4.0298",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "巫术",
+   "en": "witchcraft（wu shu）",
+   "code": "4.0303",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

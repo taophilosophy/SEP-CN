@@ -1,0 +1,348 @@
+{
+ "key": "words of first imposition",
+ "term": "words of first imposition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T22:08:12+00:00",
+ "status": "ok",
+ "note": "variant=words of first imposition; 审定公布名词库=10000; 海峡两岸名词对照库=7877; 其他来源数据库=2033; 预公布名词数据库=2732; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "组版",
+   "en": "imposition",
+   "code": "02.08.140",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_编辑_报刊编辑"
+  },
+  {
+   "cn": "拼大版",
+   "en": "imposition",
+   "code": "03.02.123",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_印刷_印前工艺"
+  },
+  {
+   "cn": "折手",
+   "en": "imposition",
+   "code": "04.345",
+   "standard": "测绘学名词",
+   "subject": "测绘学_地图学"
+  },
+  {
+   "cn": "计算机拼版",
+   "en": "computerized imposition",
+   "code": "02.08.141",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_编辑_报刊编辑"
+  },
+  {
+   "cn": "行政征收",
+   "en": "administrative imposition",
+   "code": "11.0402",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_公共管理_政府管理"
+  },
+  {
+   "cn": "颅像重合",
+   "en": "facial image imposition",
+   "code": "03.0663",
+   "standard": "古生物学名词",
+   "subject": "古生物学_古脊椎动物学与古人类学_古人类学"
+  },
+  {
+   "cn": "字",
+   "en": "word",
+   "code": "03.0128",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机体系结构_计算机模型"
+  },
+  {
+   "cn": "字",
+   "en": "word",
+   "code": "14.0787",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑设备与系统_弱电系统设备与智能设计"
+  },
+  {
+   "cn": "词",
+   "en": "word",
+   "code": "04.028",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_词与词汇"
+  },
+  {
+   "cn": "词",
+   "en": "word",
+   "code": "04.028",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "字",
+   "en": "word",
+   "code": "04.1854",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_群论"
+  },
+  {
+   "cn": "提要用语",
+   "en": "wording of summary",
+   "code": "04.854",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_文摘"
+  },
+  {
+   "cn": "台纸",
+   "en": "imposition sheet",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "字",
+   "en": "word",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "词码表",
+   "en": "code list of words",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "词流通频度",
+   "en": "circulation frequency of word",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "词使用频度",
+   "en": "utility frequency of word",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "关键字",
+   "en": "key word",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "词盲",
+   "en": "word blindness",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "功能词",
+   "en": "function word",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "字词联想",
+   "en": "word association",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "保留字",
+   "en": "reserved word",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "关键字",
+   "en": "key word",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "保留字",
+   "en": "reserved word",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "词义",
+   "en": "word sense; meaning of word",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "词袋模型",
+   "en": "Bag-of-words model",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "词袋模型",
+   "en": "bag-of-words model",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "上半场",
+   "en": "first half\",\"first period",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "量词",
+   "en": "measure word",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "实词",
+   "en": "Content word",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "造词法",
+   "en": "word formation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "词云",
+   "en": "word cloud",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "词模型",
+   "en": "word  model",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "热力学第一定律",
+   "en": "First Law of Thermodynamics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "第一入境点",
+   "en": "first point of entry",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "理念举措_具体措施"
+  },
+  {
+   "cn": "第一原理",
+   "en": "First principle",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "词语计数",
+   "en": "words count",
+   "code": "1.2.5.17",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "底层词",
+   "en": "substratum words",
+   "code": "5.0142",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_语言状况与规划"
+  },
+  {
+   "cn": "遗嘱",
+   "en": "dying word",
+   "code": "7.04",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_临终关怀与死亡伦理"
+  },
+  {
+   "cn": "同源词",
+   "en": "cognate word",
+   "code": "5.007",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "暗语",
+   "en": "code word",
+   "code": "4.036",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "孕早期",
+   "en": "first trimester of pregnancy",
+   "code": "3.5.2.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_孕产期保健"
+  },
+  {
+   "cn": "生长第一高峰",
+   "en": "first peak of growth",
+   "code": "4.3.2.2",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健"
+  },
+  {
+   "cn": "生命早期1000天",
+   "en": "first 1000 days of life",
+   "code": "4.5.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_儿童保健_儿童早期发展"
+  },
+  {
+   "cn": "第一语言",
+   "en": "first language",
+   "code": "5.0181",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_语言状况与规划"
+  },
+  {
+   "cn": "最初响应人员",
+   "en": "first responder",
+   "code": "7.2.2.16.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应"
+  },
+  {
+   "cn": "第一印象",
+   "en": "first impression",
+   "code": "4.1.10.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_印象"
+  },
+  {
+   "cn": "第一国际",
+   "en": "First International",
+   "code": "04.0398",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
