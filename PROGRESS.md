@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-10 00:45（UTC）
+生成时间：2026-11-10 01:01（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1879|
 |已建任务|1173|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|267|
-|在途（drafted 起、done 前）|229|
+|已完成（done）|268|
+|在途（drafted 起、done 前）|228|
 |阻塞|0|
 
 ## 任务状态分布
@@ -26,10 +26,10 @@
 |cleared|152|
 |drafted|3|
 |s1_checked|1|
-|s3_checked|69|
+|s3_checked|68|
 |r1_reviewed|3|
 |r2_reviewed|1|
-|done|267|
+|done|268|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -50,7 +50,7 @@
 |M|139|139|14|6|
 |N|50|50|7|4|
 |O|21|21|11|8|
-|P|165|165|11|6|
+|P|165|165|11|7|
 |Q|34|34|34|1|
 |R|85|85|85|9|
 |S|161|161|18|16|
@@ -280,7 +280,6 @@
 |omnipresence|retranslate|drafted|OPQR-main-20261108 2026-11-08|
 |omniscience|retranslate|cleared|task_ops 2026-11-09|
 |paradox-of-tragedy|retranslate|s3_checked|P-main-20261110 2026-11-10|
-|peter-damian|retranslate|s3_checked|P-main-20261110 2026-11-09|
 |quine-nf|retranslate|cleared|task_ops 2026-11-08|
 |religion-epistemology|retranslate|cleared|task_ops 2026-11-08|
 |risk|retranslate|s3_checked|qr-translator-1 2026-11-09|
