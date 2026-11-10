@@ -387,95 +387,127 @@ segments:
     kind: body
     source: |-
       If there is a relative distinction between poetry and philosophy in Novalis’s work—the two need one another, yet answer to different human needs and capacities—the situation is more complicated with regard to art and politics. From Heinrich Heine onwards, the aestheticization of politics has been one of the strongest cards played out by the critics of romantic philosophy. And even among the most sympathetic readers of Novalis’s work, the liberally minded will have a hard time swallowing his attempt to create a higher union between politics, art, and religion, and his tendency to valorize religion over philosophy and art. The same applies for the way in which he, for example in a lyrical work such as “Hymns to the Night,” written in response to the death of his young fiancée, infuses the erotic yearning for the beloved with a longing for religious redemption. That said, Novalis’s political thinking neither can nor should be reduced to these potentially reactionary sentiments. Novalis’s idea of a synthesis of art and politics is far more complex than is typically acknowledged by its critics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果说诺瓦利斯著作中诗与哲学之间存在一种相对区分——二者彼此需要，却回应不同的人类需求与能力——那么涉及艺术与政治时，情况就更复杂了。从海因里希·海涅开始，政治的美学化一直是浪漫主义哲学批评者打出的最强牌之一。即便在诺瓦利斯最富同情的读者中，胸怀自由主义者也难以接受他试图在政治、艺术与宗教之间建立更高结合的努力，以及他那种把宗教置于哲学与艺术之上的倾向。同样难以接受的是，他如何——例如在《夜颂》这样为年轻未婚妻之死而写的抒情作品中——把对爱人的情欲渴望灌注以对宗教救赎的渴慕。话虽如此，诺瓦利的政治思考既不能也不应被化约为这些可能带有反动色彩的情绪。诺瓦利斯关于艺术与政治综合的想法，远比其批评者通常承认的更为复杂。
+    step2: |-
+      如果说诺瓦利斯笔下的诗与哲学尚有相对的分别——二者彼此需要，却回应不同的人类需求与能力——那么遇到艺术与政治，情形就更复杂了。自海因里希·海涅以来，政治的美学化一直是浪漫主义哲学的批评者手中最锋利的武器之一。即便在最同情诺瓦利斯的读者中，自由主义者也难接受他想在政治、艺术与宗教之间结成更高统一的努力，以及他那种把宗教置于哲学与艺术之上的倾向；同样难接受的，是他在《夜颂》这类为年轻未婚妻之死而作的抒情作品中，如何把对爱人的情欲渴慕掺入对宗教救赎的渴慕。话虽如此，诺瓦利的政治思考既不能、也不该被缩成这些可能带着反动气味的情绪。他关于艺术与政治综合的构想，远比批评者通常承认的复杂。
   - id: 49
     kind: body
     source: |-
       While Novalis was always sympathetic to the ideals of the French revolution, he grew increasingly skeptical in his assessment of their actual realization in late eighteenth-century France. In his view, the proponents of *liberté*, *egalité*, and *fraternité* had failed to live up to their celebrated ideals. For all its good intentions, the revolution had resulted in inequality, injustice, and terror. It is characteristic of Novalis’s political philosophy that he not only offers a principled discussion of this predicament, but also a historical critique. Novalis sees the revolution in continuity with the Enlightenment, and worries that these movements cultivate a notion of reason that fails to take historical reality into account. The proponents of the revolution had forgotten to ask if the people were ready to take on the admirable ideals of liberty, equality, and solidarity. Novalis wishes not only to endorse the ideals of the revolution, but also to offer reflections on how the people can be brought to a stage where they can responsibly take on the principles of the revolution and make its ideals their own. This is the ultimate task and purpose of *Bildung*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      诺瓦利斯始终同情法国革命的理想，但他对其在18世纪晚期法国的实际实现的评价却日益怀疑。在他看来，*自由*、*平等*、*博爱*的拥护者未能践履他们所标举的理想。尽管动机良好，革命仍带来了不平等、不义与恐怖。诺瓦利斯政治哲学的一个特点是：他对这一困境不仅作出原则性的讨论，也作出历史性的批判。诺瓦利斯把革命看作启蒙的延续，并担心这些运动会培育出一种不顾历史现实的理性概念。革命的拥护者忘了问：人民是否已准备好承担自由、平等与团结这些可敬的理想。诺瓦利斯不仅希望认可革命的理想，也希望思考如何使人民被带到能够负责任地承担革命原则、并把其理想化为己有的阶段。这就是 *Bildung* 的终极任务与目的。
+    step2: |-
+      诺瓦利斯一向同情法国大革命的理想，却越来越怀疑它们在18世纪末法国的实际落实。在他看来，*自由*、*平等*、*博爱*的鼓吹者并未践履他们所标举的理想。革命虽出于善意，结果却是不平等、不义与恐怖。诺瓦利斯政治哲学的特色在于：他不仅对这一困境作原则性的讨论，还作历史的批判。他把革命视为启蒙的延续，又担心这些运动养出一种不顾历史实情的理性观。革命的拥护者忘了问：人民是否已准备好承接自由、平等、团结这些可敬的理想。诺瓦利斯既要认可革命的理想，又要思考如何把人民带到能够负责任地承担革命原则、并把其理想化为己有的地步。这正是 *Bildung* 的终极任务与目的。
   - id: 50
     kind: body
     source: |-
       The first political pamphlet of the romantic movement was Schleiermacher’s *On Religion: Speeches to its Cultured Despisers,* and Novalis is thoroughly influenced by this work. In *On Religion*, Schleiermacher advocates an egalitarian, organic, and ecumenical religion, and professes that only such a religious-political system can provide a framework within which the individual can fully grow into and take responsibility for itself. At the same time, such a religion is only possible—it can only be realized *in concreto—*when the individuals of a given society have generally reached at least a minimal stage of self-understanding and respect for others. Hence there is a close connection between the existence of a broad-spanning group of educated and mature individuals and the possibility of introducing a sensible religious and ultimately also political order. The problem, according to Schleiermacher, is that modern religion has been dominated by philistines who have placed themselves in between the people and the true democratic truths of the New Testament. What is needed is a rethinking of religious life—and, as part of this, a rethinking of the relationship to tradition. This is why *On Religion* anticipates Schleiermacher’s later writings in hermeneutics. And this point, as it is appropriated by Novalis, also establishes a connection between his hermeneutic historicism and his political philosophy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      浪漫主义运动的第一部政治小册子是施莱尔马赫的《论宗教：对有教养的蔑视者的讲演》，诺瓦利斯深受此书影响。在《论宗教》中，施莱尔马赫倡导一种平等主义的、有机的、普世主义的宗教，并宣称唯有这样的宗教-政治体系才能提供一个框架，使个体得以在其中充分成长并为自身承担责任。同时，这样的宗教只有在某一社会的个体普遍至少达到自我理解与尊重他人的最低阶段时才有可能——它只能在*具体中*实现。因此，受过教育而成熟的个体所构成的广覆群体的存在，与引入一种合理的宗教秩序、并最终引入政治秩序的可能性之间，有着紧密联系。按照施莱尔马赫的看法，问题在于现代宗教已被庸人所支配，这些人把自己置于人民与新约的真正民主真理之间。所需要的，是对宗教生活的重新思考——其中也包括对与传统之关系的重新思考。这就是《论宗教》预示着施莱尔马赫后来解释学著作的原因。而当这一点被诺瓦利斯吸纳时，也把他的解释学历史主义与政治哲学联系了起来。
+    step2: |-
+      浪漫主义运动的第一部政治小册子，是施莱尔马赫的《论宗教：对有教养的蔑视者的讲演》，诺瓦利斯深受其影响。施莱尔马赫在书中倡导一种平等、有机、普世的宗教，并声称唯有这样的宗教—政治体系才能提供框架，使个体在其中充分成长、为自身负责。同时，这样的宗教只有在某一社会的个体普遍至少达到自我理解与尊重他人的最低阶段时才有可能，只能在*具体中*实现。因此，一个广覆的、受过教育而成熟的个体群体之存在，同引入合理宗教秩序（最终也是政治秩序）的可能性密切相关。施莱尔马赫认为，问题在于现代宗教被市侩把持，他们横在人民与新约的真正民主真理之间。当务之急是重新思考宗教生活，其中也包括重新思考与传统的关系。正因如此，《论宗教》预示了施莱尔马赫后来的解释学著作；而诺瓦利斯吸纳此点时，也把他自己的解释学历史主义同政治哲学接了起来。
   - id: 51
     kind: body
     source: |-
       Novalis’s political reflections inform the *Miscellaneous Observations*, get more poignantly voiced in *Faith and Love* and the “Political Aphorisms” (written in 1798), and find their quasi-religious culmination in *Christianity or Europe*, the 1799-text that even his *Athenaeum* friends deemed problematic in its call for a new Catholic unity in Europe. In spite of Schlegel’s willingness to publish the text, the furore it caused amongst Novalis’s peers, including Goethe, Schelling, and Schiller, held him back, and *Christianity or Europe* remained unpublished till 1826.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      诺瓦利的政治思考见诸《杂感》，在《信仰与爱》与《政治格言》（写于1798年）中表达得更为尖锐，并在《基督教或欧洲》中达到准宗教式的高峰；这篇1799年的文本因其呼吁在欧洲建立新的天主教统一，连他的《雅典娜神庙》友人也觉得有问题。尽管施莱格尔愿意发表该文，但它在诺瓦利斯同侪——包括歌德、谢林与席勒——中引起的轩然大波使他迟疑，《基督教或欧洲》直到1826年才得出版。
+    step2: |-
+      诺瓦利的政治思考见诸《杂感》，在《信仰与爱》与《政治格言》（1798年）中说得更尖锐，到《基督教或欧洲》则达到近乎宗教式的高潮。这篇1799年的文字呼吁在欧洲重结天主教式的新统一，连他的《雅典娜神庙》友人也觉得棘手。施莱格尔虽愿意刊布，但此文在诺瓦利斯同侪——歌德、谢林、席勒亦在其列——中惹起的风波令他迟疑，于是《基督教或欧洲》直到1826年才问世。
   - id: 52
     kind: body
     source: |-
       There is an overall unity in Novalis’s political writings, as they span almost the entire ten years of his productive period: the idea that democracy can only be effectively realized among a people that is historically ready for it, that such readiness takes a capacity for critique and independent thinking, and that *Bildung* is the way in which independent thinking is best achieved. In combining critical skills, analytic abilities, and the motivational force provided by art and cultured discourse, Novalis is hopeful that romantic philosophy will find a way to retain the ideals of the revolution without, at the same time, repeating its mistakes.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      诺瓦利的政治著作贯穿其创作期几乎整整十年，其中有一种整体的统一性：民主只能在一个已在历史中为其做好准备的人民中间有效实现；这种准备需要批判与独立思考的能力；而 *Bildung* 是达成独立思考的最佳途径。诺瓦利斯把批判技能、分析能力与艺术和有教养的言谈所提供的动因结合起来，希望浪漫主义哲学能找到一条途径，既保留革命的理想，又不重蹈其错误。
+    step2: |-
+      诺瓦利的政治文字横跨其创作期近十年，其中有一以贯之的思路：民主只能在一个于历史中已做好准备的人民中间有效实现；这种准备需要批判与独立思考的能力；而达成独立思考的最佳途径是 *Bildung*。批判的技能、分析的能力，加上艺术与有教养的言谈所提供的动力，诺瓦利斯希望浪漫主义哲学能借此既保住革命的理想，又不重犯革命的错误。
   - id: 53
     kind: body
     source: |-
       Romanticism, in his view, aims at preserving the enlightenment commitment to self-determination and freedom without turning it into a merely abstract and alienating discourse. Individuality and self-determination can only be achieved in organic communion with other self-determining individuals. It needs to be realized as part of an ongoing discussion of the ultimate meaning, goals, and self-understanding of a given, historical society. A healthy intersubjectivity makes up a presupposition for a mature and well-developed personality. Conversely, the organically developed community consists of unique, yet mutually recognizing individuals and their bonds of interaction. Diversity is a condition for the sought unity. As such, the ideal society is likened to a work of art. No mechanical rules or abstract theories can guarantee the successful realization of the community as a unity in manifold. This is the lesson Novalis takes from Schleiermacher, and which serves as the determining ground for his political theory. This is also the thought that undergirds his lasting commitment to republicanism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在他看来，浪漫主义旨在保存启蒙对自决与自由的承诺，而不把它变成一种纯然抽象、令人疏离的话语。个体性与自决只能在与别的自决个体的有机交融中实现。它需要作为对某一既定历史社会的终极意义、目标与自我理解的持续讨论的一部分来实现。健康的交互主体性构成了成熟而充分发展之人格的前提。反过来，有机地发展起来的共同体由独特的、却相互承认的个体及其互动纽带构成。多样性是所寻求之统一的条件。因此，理想社会被比作一件艺术作品。没有任何机械规则或抽象理论能保证共同体作为“杂多中的统一”得到成功实现。这是诺瓦利斯从施莱尔马赫那里得到的教训，也是其政治理论的决定性根据。这一思想同样支撑着他对共和主义持久的承诺。
+    step2: |-
+      在诺瓦利斯看来，浪漫主义要保存启蒙对自决与自由的承诺，却不把它变成抽象而令人疏离的话语。个体性与自决只能在与别的自决个体的有机交融中达成，且须在对某一既定历史社会之终极意义、目标与自我理解的持续讨论中实现。健康的交互主体性是成熟而充分发展之人格的前提。反过来，有机生长的共同体由独特而相互承认的个体及其互动纽带构成；多样性是所求统一的条​​件。因此，理想社会被比作一件艺术品。没有任何机械规则或抽象理论能担保共同体作为“杂多中的统一”顺利实现。这是诺瓦利斯从施莱尔马赫处学得的教训，也是他政治理论的决定性根据；同一想法也支撑着他对共和主义的长久信守。
   - id: 54
     kind: body
     source: |-
       In the period between *Faith and Love* and *Christianity or Europe*, written only two years before Novalis’s death, there is a significant change in Novalis’s views on how a good society is best achieved. In 1798 Novalis was inspired by the idea of a democracy from above and connected the idea of education to the motivational force of monarchy. By positing their own lives and actions as examples, the king and the queen, representing at one and the same time the community of living individuals and the larger whole of the tradition, should inspire the people to strive for self-understanding and freedom through education. That is, by setting an example of autonomous thinking while, all the same, representing a continuity with the past, the royal couple would turn the monarchy into a symbol of the democratic state itself. Around 1799, however, Novalis’s view changes. He now imagines that this motivational force can only be led back to the unifying power of the church, or, more precisely, that of the papal state. At this point, the democratic ethos of his thinking is considerably weakened.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在《信仰与爱》与《基督教或欧洲》之间——后者写于诺瓦利斯去世前仅两年——诺瓦利斯关于良好社会如何最佳实现的看法发生了显著变化。1798年，诺瓦利斯受“自上而下的民主”这一观念启发，把教育的观念与君主制的动因联系起来。国王与王后以自身的生命与行动为榜样，同时代表活着的个体所组成的共同体与更大的传统整体，应当激励人民通过教育去追求自我理解与自由。也就是说，王室夫妇通过树立自主思考的榜样、同时又代表与过去的连续性，会把君主制变成民主国家本身的象征。然而到1799年前后，诺瓦利斯的看法改变了。他现在设想，这种动因只能被引回教会的统一力量，或者更准确地说，是教宗国的统一力量。此时，他思想的民主气质已大为削弱。
+    step2: |-
+      在《信仰与爱》与《基督教或欧洲》之间——后者写于诺瓦利斯去世前仅两年——他对良好社会如何实现看法大变。1798年，他受“自上而下的民主”启发，把教育与君主制的动员力联系起来：国王与王后以身作则，既代表活生生的个体共同体，又代表更大的传统整体，应当激励人民通过教育去追求自我理解与自由。也就是说，王室夫妇既树立自主思考的榜样，又体现与过去的连续，从而把君主制变成民主国家本身的象征。但到1799年前后，他的看法变了：这种动员力只能归到教会的统一力量，确切说，是教宗国的统一力量。至此，他思想中的民主气韵已大为削弱。
   - id: 55
     kind: body
     source: |-
       Novalis’s turn to the church is indisputably problematic when judged from a 21st century perspective. Yet it is important to see that within his own time, most of his political writing, up until around 1798, is representative of the progressive reformist movement in Germany. Furthermore, Novalis’s democratic, pluralistic, and egalitarian ideals should not be dismissed because of his later, more conservative sentiments, nor should the connection he sees between these ideals and a commitment to *Bildung*. It is this notion of *Bildung*, the idea that democracy requires a triad of individual education, societal plurality, and, not least, a capacity for impartial judging, that will remain Novalis’s most valuable contribution to political thought.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从21世纪的视角判断，诺瓦利斯转向教会无疑是有问题的。然而重要的是看到：在他自己的时代，直到1798年前后，他的大部分政治写作都代表着德国进步改良运动。此外，诺瓦利斯的民主、多元与平等理想不应因他后来较为保守的情绪而被弃置，他与这些理想同对 *Bildung* 之承诺的联系也不应被弃置。正是这种 *Bildung* 观念——民主需要个体教育、社会多元以及不偏不倚的判断能力这三者的观念——仍将是诺瓦利斯对政治思想最有价值的贡献。
+    step2: |-
+      从21世纪的眼光看，诺瓦利斯转向教会当然成问题。但须看到：在他自己的时代，直到1798年前后，他的政治文字大多代表着德国进步的改良运动。而且，不能因他后来较为保守的情绪便弃置他的民主、多元与平等理想，也不能弃置他把这些理想与 *Bildung* 相连的做法。正是这种 *Bildung* 观念——民主需要个体教育、社会多元，以及不偏不倚的判断能力，三者缺一不可——仍将是诺瓦利斯对政治思想最可贵的贡献。
   - id: 56
     kind: body
     source: |-
       ## 8. Novalis’s Philosophical Legacy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 8. 诺瓦利斯的哲学遗产
+    step2: |-
+      ## 8. 诺瓦利斯的哲学遗产
   - id: 57
     kind: body
     source: |-
       Soon after Novalis’s death, his friends amongst the romantics, led by Tieck and Friedrich Schlegel, started spinning the myth about the *über*-sensitive visionary poet and aesthete, the beautiful soul, forever longing for the unattainable blue flower, the symbol of eternal love and divine grace that would so enthrall the character of Heinrich von Ofterdingen. The legend of Novalis as the arch-romantic author rapidly gained credence, and his literary style became influential for writers from Georg Büchner, via the symbolists, to Hermann Hesse and the avant-garde movement in France and Germany. In the philosophical domain, the reception of Novalis has been more reluctant. Some of this reluctance must be explained by the fact that until the publication of the critical edition, it was difficult to distinguish between the posthumously created image of Novalis, on the one hand, and his real philosophical contribution, on the other. This difficulty also colors the harsh judgments of Hegel, Novalis’s most rampant critic among his contemporary Germans.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      诺瓦利斯去世后不久，他在浪漫派中的友人——以蒂克与弗里德里希·施莱格尔为首——便开始编织神话：一位*过度*敏感的先知诗人与唯美者，一个美的灵魂，永远渴望着那不可企及的蓝花，那是永恒之爱与神恩的象征，后来使海因里希·冯·奥弗特丁根这个人物如此着迷。诺瓦利斯作为头号浪漫派作家的传说迅速获得信从，他的文学风格影响了从格奥尔格·毕希纳、经象征派直到赫尔曼·黑塞以及法国与德国先锋派运动的作家。在哲学领域，对诺瓦利斯的接受则较为迟疑。这种迟疑有一部分须解释为：在考订版问世之前，人们难以区分诺瓦利斯身后被制造出来的形象与他真正的哲学贡献。这一困难也染上了黑格尔那些严厉判断的色彩——黑格尔是诺瓦利斯同时代德国人中对他攻击最凶的批评者。
+    step2: |-
+      诺瓦利斯去世不久，他在浪漫派中的友人——以蒂克与弗里德里希·施莱格尔为首——便开始编织一个神话：一位*过度*敏感的先知诗人、唯美者，一个美的灵魂，永远渴慕那不可企及的蓝花；蓝花是永恒之爱与神恩的象征，后来令《海因里希·冯·奥弗特丁根》的主人公魂牵梦萦。诺瓦利斯作为头号浪漫派作家的传说很快取信于人，其文风影响了从格奥尔格·毕希纳、经象征派，直到赫尔曼·黑塞以及法德两国先锋派的作家。但在哲学领域，人们对诺瓦利斯的接受却迟疑得多。这份迟疑，部分须归因于：考订版未出之前，很难把身后制造的诺瓦利斯形象同他真正的哲学贡献分开。这一困难也影响了黑格尔那些严厉的评判——在同时代的德国人里，要数他对诺瓦利斯的攻击最烈。
   - id: 58
     kind: body
     source: |-
       Hegel is critical of what he takes to be an undue turn to isolated subjectivity, and in particular its affective and emotional aspects, in romantic philosophy. He traces this turn to subjectivity back to the romantic reading of Fichte. The romantics, in his interpretation, misunderstood Fichte’s work. They hypostatized his notion of spontaneous self-positing, baking it into a largely aesthetic vocabulary of the creative power of imagination. While he places Novalis within this framework, Hegel overlooks how he (Novalis) not only draws on but also criticizes Fichte’s philosophy. In Hegel’s understanding, romanticism in general and Novalis’s philosophy in particular leads to a pathological cultivation of inwardness, a naïve and otherworldly position that is not only philosophically at fault but also constitutes a genuine political risk in that it represents an alluring conversion from critical thinking to otherworldly reveries. However, as Otto Pöggeler demonstrates in his 1956 study, as soon as one distinguishes philosophical romanticism proper from its mythological image, it becomes clear that Hegel stands far closer to the romantics than he was ever willing to admit. In Novalis’s case, the philosophy of *Bildung*, a notion that features prominently in Hegel’s own work, would be an important point of connection. Others would be his philosophy of interpretation and his conception of the relationship between pre-modern and modern thought.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      黑格尔批评浪漫主义哲学中他所认为的不当转向，即转向孤立的主体性，尤其是其情感与情绪方面。他把这一转向追溯到浪漫派对费希特的解读。按他的解释，浪漫派误解了费希特的工作。他们把他关于自发自我设定的概念实体化，把它焙进一套大体属于审美的语汇，即想象力的创造力量。黑格尔把诺瓦利斯置于这一框架之内，却忽略了他（诺瓦利斯）不仅汲取、也批评费希特哲学。在黑格尔的理解中，浪漫主义一般地、诺瓦利斯的哲学特别地，导致一种病态的内向性培育，一种天真而彼世的立场；这种立场不仅在哲学上有误，还构成真正的政治风险，因为它代表着从批判思维向彼世遐想的一种诱人转变。然而，正如奥托·珀格勒在1956年的研究中所表明的，一旦把哲学浪漫主义本身同它的神话形象区分开来，就会清楚看到：黑格尔与浪漫派的距离远比他愿意承认的要近。就诺瓦利斯而言，*Bildung* 哲学——这一概念在黑格尔自己的著作中也十分突出——将是一个重要的连接点。其他连接点还有他的解释哲学，以及他关于前现代思想与现代思想之关系的构想。
+    step2: |-
+      黑格尔批评浪漫主义哲学中他所认为的不当转向：转向孤立的主体性，尤其是其情感与情绪的一面。他把这一转向追溯到浪漫派对费希特的解读，认为他们误解了费希特：把他关于自发自我设定的概念实体化，焙进一套大体属于审美的语汇，即想象力的创造力。黑格尔把诺瓦利斯纳入这一框架，却忽略了他既取用费希特、也批评费希特。在黑格尔看来，浪漫主义一般地、诺瓦利斯哲学特别地，导致一种病态的内向培育，一种天真而向往彼世的立场；它不仅在哲学上有误，还构成真实的政治危险，因为它代表一种从批判思维滑向彼世遐想的诱惑。然而，正如奥托·珀格勒1956年的研究所表明：一旦把哲学浪漫主义本身与它的神话形象分开，便会看清黑格尔离浪漫派远比他所愿承认的更近。就诺瓦利斯而言，*Bildung* 哲学——此概念在黑格尔自己笔下也极显眼——就是一个重要的连接点；其他连接点还有他的解释哲学，以及他关于前现代思想与现代思想之关系的构想。
   - id: 59
     kind: body
     source: |-
       Hegel’s negative assessment proved influential to later times and readings of Novalis’s work. Even though Novalis’s experimenting with the philosophical form of the fragment paved the way for such stylistically bold and innovative thinkers as Kierkegaard and Nietzsche, these figures would, with few exceptions, stage themselves as critics rather than followers of romantic philosophy. In a wider intellectual context, we find Novalis’s writing attacked in Heinrich Heine’s work on recent German literature (1836 [1995]), Rudolf Haym’s *Die romantische Schule* (1870), Arnold Ruge and the young Hegelian philosophy of history (which viewed romanticism through the lens of the later Friedrich Schlegel’s engagement with Metternich and the restoration), and Karl Mannheim’s sociological explanation of the rise of German conservatism (1925 [1986]). Whereas the young Georg Lukács applauds Novalis’s aesthetics and philosophy of nature, the late Lukács worries about the irrationalism of post-Enlightenment German thought. From the other side of the political spectrum, there is Carl Schmitt’s 1919 critique of the romantic movement as effecting a dangerous occasionalism in modern political life.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      黑格尔的负面评价对后世及诺瓦利斯的接受影响深远。尽管诺瓦利斯对断片这一哲学形式的试验，为克尔凯郭尔、尼采这类文风大胆而富创新的思想家开辟了道路，这些人却少有例外地把自己摆成浪漫主义哲学的批评者而非追随者。在更广的知识语境中，诺瓦利斯的写作遭到海因里希·海涅论近代德国文学的著作（1836 [1995]）、鲁道夫·哈伊姆的《浪漫派》（1870）、阿诺德·卢格与青年黑格尔派的历史哲学（后者透过晚年弗里德里希·施莱格尔与梅特涅及复辟的纠葛来看浪漫主义），以及卡尔·曼海姆对德国保守主义兴起的社会学解释（1925 [1986]）的攻击。青年卢卡奇赞赏诺瓦利斯的美学与自然哲学，晚年卢卡奇则担忧后启蒙德国思想中的非理性主义。在政治光谱的另一端，则有卡尔·施米特1919年对浪漫主义运动的批评，认为它在现代政治生活中造成了一种危险的机会主义。
+    step2: |-
+      黑格尔的负面评判对后世、对诺瓦利斯的接受影响甚大。诺瓦利斯以断片作哲学形式的试验，固然为克尔凯郭尔、尼采这类文风大胆而富创造的思想家开了路，但他们少有例外，都把自己装扮成浪漫主义哲学的批评者而非追随者。在更宽的知识语境中，诺瓦利斯的文字先后遭到攻击：海因里希·海涅论近代德国文学之作（1836 [1995]）、鲁道夫·哈伊姆的《浪漫派》（1870）、阿诺德·卢格与青年黑格尔派的历史哲学（后者透过晚年弗里德里希·施莱格尔同梅特涅及复辟的纠葛来看浪漫主义），以及卡尔·曼海姆对德国保守主义兴起的社会学解释（1925 [1986]）。青年卢卡奇称赞诺瓦利斯的美学与自然哲学，晚年卢卡奇却忧心后启蒙德国思想中的非理性主义。政治光谱的另一端，则有卡尔·施米特1919年的批评，指浪漫主义运动在现代政治生活中造成了一种危险的机会主义。
   - id: 60
     kind: body
     source: |-
       Among the nineteenth century historians it was Wilhelm Dilthey who, in his grand effort to rehabilitate late eighteenth-century German philosophy, was able to see through the myth of Novalis and call for a reassessment of his philosophical work. As is the case with Dilthey’s return to the young Hegel, his reading of Novalis emphasizes the humanistic drive of his thinking as well as his philosophy of art and nature, which gets reinterpreted, in Dilthey’s lexicon, as a budding philosophy of life. Dilthey, however, situates Novalis with Goethe and Hölderlin, and ends up, quite against his own intention, highlighting the aesthetic rather than critical-intellectual force of his philosophy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在19世纪的历史学家中，是威廉·狄尔泰在其重建18世纪晚期德国哲学的宏大努力中，得以看穿诺瓦利斯的神话，并呼吁重新评估他的哲学工作。正如狄尔泰对青年黑格尔的回归一样，他对诺瓦利斯的解读强调其思想中的人本冲动以及其艺术与自然哲学；在狄尔泰的语汇中，后者被重新解释为一种萌发中的生命哲学。然而，狄尔泰把诺瓦利斯与歌德、荷尔德林并列，结果相当违背他自己的意图，反而突出了他哲学中的审美力量而非批判-智性力量。
+    step2: |-
+      在19世纪史家当中，威廉·狄尔泰力图重振18世纪末的德国哲学，正因如此，他看穿了诺瓦利斯的神话，呼吁重新评估其哲学工作。与他重访青年黑格尔一样，狄尔泰解读诺瓦利斯时着重其思想中的人本冲动，以及其艺术哲学与自然哲学——按狄尔泰的语汇，那是一种初萌的生命哲学。不过他终究把诺瓦利斯与歌德、荷尔德林并列，结果恰与自己的本意相违，凸显的反而是其哲学中的审美一面，而非批判智性一面。
   - id: 61
     kind: body
     source: |-
       The philosophical-literary reception of Novalis’s work first took off with Walter Benjamin’s 1919 study of the romantic notion of literary criticism. In situating the young romantics within the paradigm of Fichte’s philosophy of reflection, Benjamin places himself well within the traditional reception of their work. Nonetheless, Benjamin’s interest in philosophy of history, his recognition of philosophers such as Herder, Hamann, and Humboldt, and his general openness towards the late eighteenth-century mindset, makes it possible for him to transcend the framework of traditional (Hegelian) prejudices and tease out of the romantic idea of criticism a pregnant conception of art and subjectivity. Furthermore, because he views modernity as a period of aesthetic reflectivity and self-criticism, Benjamin is among the first to see in romantic philosophy a prefiguration of aesthetic modernism and the European avant-garde. This idea would later fuel the growing interest in German romantic philosophy amongst French intellectuals, including philosopher-poets like Maurice Blanchot, George Bataille, and, in the 1970s and 1980s, the chief proponents of literary deconstruction, Jacques Derrida and, in an Anglophone context, Paul de Man.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对诺瓦利斯著作的哲学-文学接受，首先随瓦尔特·本雅明1919年关于浪漫主义文学批评概念的研究而兴起。本雅明把青年浪漫派置于费希特反思哲学的范式之中，就此而言，他自己也稳稳站在其作品的传统接受之内。然而，本雅明对历史哲学的兴趣、他对赫尔德、哈曼、洪堡等哲学家的承认，以及他对18世纪晚期心态的总体开放，使他有可能超越传统（黑格尔式）偏见的框架，并从浪漫主义的批评观念中梳理出一种富于孕意的艺术与主体性概念。此外，由于他把现代性看作一个审美反身性与自我批判的时期，本雅明是较早看到浪漫主义哲学预示着审美现代主义与欧洲先锋派的人之一。这一想法后来推动了法国知识分子对德国浪漫主义哲学日益增长的兴趣，其中包括莫里斯·布朗肖、乔治·巴塔耶这样的哲学家-诗人，以及1970与1980年代文学解构的主要倡导者雅克·德里达，以及在英语语境中的保罗·德曼。
+    step2: |-
+      对诺瓦利斯著作的哲学—文学接受，始于瓦尔特·本雅明1919年论浪漫主义文学批评概念的研究。本雅明把青年浪漫派置于费希特反思哲学的范式之中，就此而言，他仍稳稳站在传统接受之内。但他对历史哲学的兴趣、对赫尔德、哈曼、洪堡等人的推重，以及他对18世纪末心态的总体开放，使他得以跳出传统（黑格尔式）偏见的樊篱，从浪漫主义的批评观念中拈出一种意味深长的艺术与主体性概念。又因他把现代性看作一个审美反身与自我批判的时代，本雅明是最早一批在浪漫主义哲学中看出审美现代主义与欧洲先锋派先声的人。这一想法后来又助长了法国知识界对德国浪漫主义哲学日渐浓厚的兴趣，其中包括莫里斯·布朗肖、乔治·巴塔耶等哲人—诗人，以及1970、1980年代文学解构的主要倡导者雅克·德里达，还有英语世界的保罗·德曼。
   - id: 62
     kind: body
     source: |-
       The broader literary reception of Novalis’s fragments and poetical work across comparative literature departments in Europe and North America contributed to the recent rediscovery of his philosophy: a rediscovery, one might hope, that will lead to a greater awareness of the breadth of his philosophical contribution and a recognition of the fact that his thinking, though celebrated for its religious-poetic sensitivity and aesthetic ambience, encompasses much more than that. Although it is unlikely that Novalis’s work will ever make it to the front rows of academic philosophy, his contribution deserves to be revisited, reread, and reconsidered by scholars of post-Kantian thought. Only in this way is it possible fully to reassess the systematic impact of his theory of *Bildung*, social philosophy, philosophy of history, and theory of language as well as his contribution to aesthetics and philosophy of art.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      诺瓦利斯的断片与诗作在欧洲与北美比较文学系中的广泛接受，促成了晚近对其哲学的重新发现：人们有理由希望，这一重新发现将带来对其哲学贡献之广度的更多认识，并使人们承认这一事实：他的思想虽然以其宗教-诗的敏感与审美氛围著称，所涵盖的却远不止于此。尽管诺瓦利斯的工作不太可能跻身学院哲学的前排，他的贡献仍值得后康德思想的研究者重新访求、重新阅读、重新考量。唯有如此，才能充分重估其 *Bildung* 理论、社会哲学、历史哲学与语言理论的系统影响，以及他对美学与艺术哲学的贡献。
+    step2: |-
+      诺瓦利斯的断片与诗作在欧洲与北美各比较文学系中广被接受，推动了晚近对其哲学的重新发现。人们有理由希望，这一重新发现能让人更清楚地看到他哲学贡献的广度，并承认：他的思想虽以宗教—诗的敏感与审美氛围著称，所含却远不止此。诺瓦利斯之作恐怕难登学院哲学的前排，但后康德思想的研究者仍值得重新探访、重读、重新考量他的贡献。唯有如此，才能充分重估其 *Bildung* 理论、社会哲学、历史哲学与语言理论的系统影响，以及他对美学与艺术哲学的贡献。
   - id: 63
     kind: oir
     source: |-
       [Please contact the author with suggestions.]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [请联系作者提出建议。]
+    step2: |-
+      [请联系作者提出建议。]
