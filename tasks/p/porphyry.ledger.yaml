@@ -11,80 +11,106 @@ segments:
     kind: body
     source: |-
       Porphyry (234?–305? C.E.) was a Neoplatonist philosopher born in Tyre in Phoenicia. He studied with Longinus in Athens and then with Plotinus in Rome from 263–269 C.E. and became a follower of the latter’s version of Platonism. Porphyry wrote in just about every branch of learning practiced at the time but only a portion of his large output is extant. Porphyry was an influential thinker. He applied Neoplatonism to pagan religion and other spheres and is, as such, a key figure in the promulgation of Neoplatonic thought. His writings on Aristotle’s logical works, preserved in part and influential in the Latin West through Boethius’ translations, contain attempts to harmonize Aristotle’s logical writings with Platonism. Such reconciliatory attitude towards Aristotle characterizes much of his philosophy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      波菲利（Porphyry，约 234—约 305 年）是一位新柏拉图主义哲学家，生于腓尼基的提尔。他先随朗吉努斯在雅典学习，263—269 年在罗马随普罗提诺学习，并成为后者所主张的柏拉图主义版本的追随者。波菲利几乎在当时所实践的每一个学问分支中都有著述，但他大量作品只有一部分存世。波菲利是一位有影响的思想家。他把新柏拉图主义应用于异教宗教及其他领域，因此是新柏拉图主义思想传播中的关键人物。他关于亚里士多德逻辑著作的著述有一部分保存下来，并通过波爱修斯的译本在拉丁西方产生影响；这些著述试图把亚里士多德的逻辑著作与柏拉图主义调和起来。对亚里士多德的这种调和态度贯穿于他哲学的许多方面。
+    step2: |-
+      波菲利（Porphyry，约 234—约 305 年）是新柏拉图主义哲学家，生于腓尼基的提尔。他先赴雅典随朗吉努斯学习，263—269 年间在罗马随普罗提诺学习，并接受了后者所阐释的柏拉图主义。波菲利的著述几乎遍及当时一切学问分支，但大量作品仅有部分存世。他是一位颇具影响的思想家，把新柏拉图主义运用于异教宗教等领域，因而成为传播新柏拉图主义思想的关键人物。他论亚里士多德逻辑著作的作品有一部分保存下来，又经波爱修斯译介而在拉丁西方发生影响；这些作品试图将亚里士多德的逻辑学与柏拉图主义调和起来。这种对亚里士多德的调和态度，贯穿于他哲学的许多方面。
   - id: 2
     kind: body
     source: |-
       ## 1. Life
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1. 生平
+    step2: |-
+      ## 1 生平
   - id: 3
     kind: body
     source: |-
       Porphyry was born in Tyre in Phoenicia (now in Lebanon), probably in 234 C.E. His name was ‘Malcus’, ‘king’ in his native tongue, hence he became ‘Basileus’ (‘king’) in Greek. He, however, calls himself Porphyry, which supposedly was a common name in Tyre, the city of purple, and is generally known under that name. Little is known with certainty about his life, except what can be gleaned from his own account of Plotinus’ life, the *Life of Plotinus*. There is an account of his life in Eunapius’ *Lives of Philosophers and Sophists* but this account clearly depends on the *Life of Plotinus* and has little reliable to add. Before he came to study with Plotinus in Rome in 263 C.E. he studied with the Middle Platonist Longinus in Athens. In Rome he stayed for some five years and converted to Plotinus’ version of Platonism. On Plotinus’ advice he left Rome for Sicily in order to recover from a bout of depression in 268 C.E. He must have stayed there for some time, even beyond Plotinus’ death in 270 C.E. There are some untrustworthy reports about a school of Porphyry in Rome after Plotinus’ death. In reality we do not know anything with certainty about where he lived in the latter half of his life. He may have been Iamblichus’ teacher. The evidence for this, however, is not beyond dispute. It is clear, though, that Iamblichus was strongly influenced by Porphyry, even if he turned vehemently against him. Towards the end of his life (301 C.E.), Porphyry edited Plotinus’ writings, the *Enneads*, dividing them into six books of nine treatises each, which he prefaced with his *Life of Plotinus*. The latter is the most reliable and the most informative source about his life and attitudes. He married fairly late an older wife, for whom one of his extant writings, the *Letter to Marcella*, is written.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      波菲利生于腓尼基的提尔（今属黎巴嫩），大概在公元 234 年。他的名字叫“Malcus”，在他母语中意思是“王”，因此到希腊语中便成了“Basileus”（“王”）。不过，他自称波菲利（Porphyry），据信这是提尔——即“紫色之城”——的一个常见名字，人们一般也以此名相称。关于他的生平，除他本人对普罗提诺生平的记述《普罗提诺传》所提供的材料外，确切可知者甚少。欧纳皮乌斯的《哲人与智者传》中也有他的传记，但该传显然依据《普罗提诺传》，几乎没有可靠的新材料。公元 263 年在罗马随普罗提诺学习之前，他曾师从雅典的中期柏拉图主义者朗吉努斯。他在罗马逗留了约五年，并皈依了普罗提诺版本的柏拉图主义。268 年，他听从普罗提诺的劝告离开罗马前往西西里，以从一场抑郁中恢复。他必定在那里停留了一段时间，甚至超过了 270 年普罗提诺去世之时。有一些不可信的记载说，普罗提诺去世后波菲利在罗马办过一所学校。实际上，对于他后半生居于何处，我们一无所知。他可能是杨布里科斯的老师；但支持这一点的证据并非没有争议。不过，杨布里科斯深受波菲利影响，这一点是清楚的，尽管他后来猛烈地反对波菲利。晚年（公元 301 年），波菲利编辑了普罗提诺的著作《九章集》，将其分为六卷，每卷九篇，并冠以自己的《普罗提诺传》。后者是关于他本人生活与态度的最可靠、信息最丰富的资料。他较晚才与一位年长的女子结婚，现存作品中的《致玛尔凯拉》便是为她而写。
+    step2: |-
+      波菲利生于腓尼基的提尔（今属黎巴嫩），时约公元 234 年。他的本名是“Malcus”，在母语中意为“王”，到希腊语里便成了“Basileus”（“王”）。但他自称波菲利（Porphyry）——据信这是提尔这座“紫色之城”的常见名字——后人也通称他为波菲利。关于他的生平，除了他自述普罗提诺生平的《普罗提诺传》，确切可知的材料很少。欧纳皮乌斯的《哲人与智者传》也载有他的传记，但该传明显取材于《普罗提诺传》，几乎没有增添可靠信息。公元 263 年赴罗马随普罗提诺学习之前，他曾师从雅典的中期柏拉图主义者朗吉努斯。他在罗马住了约五年，皈依了普罗提诺所传的柏拉图主义。268 年，他听从普罗提诺的劝告，离开罗马前往西西里，以从一场抑郁中康复。他显然在那里住了相当长一段时间，甚至超过了 270 年普罗提诺去世之时。有若干不可信的记载称，普罗提诺死后波菲利在罗马办过学校。实际上，他后半生住在哪里，我们毫无确凿知识。他或许是杨布里科斯的老师，但相关证据仍有争议。不过可以确定，杨布里科斯深受波菲利影响，尽管他后来激烈地反对波菲利。晚年（公元 301 年），波菲利编定普罗提诺的著作《九章集》，分为六卷、每卷九篇，并冠以自己的《普罗提诺传》。这篇传记是了解他生平与思想态度的最可靠、信息最丰富的材料。他结婚较晚，妻子比他年长，现存作品《致玛尔凯拉》就是为她写的。
   - id: 4
     kind: body
     source: |-
       ## 2. Works and Profile
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2. 著作与思想面貌
+    step2: |-
+      ## 2 著作与思想面貌
   - id: 5
     kind: body
     source: |-
       Porphyry was a prolific author who wrote about a whole range of topics. There are some sixty works attributed to him, but most of them are now lost or survive in mere fragments. Extant (though not all complete) are: *Life of Plotinus*, *Life of Pythagoras*, *Letter to Marcella*, *On Abstinence from Eating Food from Animals*, *Starting-points Leading to the Intelligibles* (usually called the *Sententiae*; in Latin the work is called *Sententiae ad intelligibilia ducentes*), the *Isagoge* (*Introduction*), *On the cave of the Nymphs*, *Introduction to Ptolemy’s opus quadripartitum* (see Bezza 2012)[^bezza-2012] and there are commentaries on Ptolemy’s *Harmonics* and Aristotle’s *Categories*. An extant work attributed to Galen, *To Gaurus*, is almost certainly by him. There are fragments of a history of philosophy and fragments of a number of works on psychology. One such work, the *Symmikta zetemata*, has been partly reconstructed by Heinrich Dörrie (1959). It has been argued by Pierre Hadot (1968 and several articles) that Porphyry is the author of anonymous fragments of a commentary on Plato’s *Parmenides*. This attribution has been widely accepted but also forcefully challenged (see below). He also wrote commentaries on Plato’s *Timaeus* and several works by Aristotle. The fragments of these are given in Smith 1993, which contains the extant fragments and testimonia of Porphyry. In addition we know that Porphyry wrote on such diverse subjects as grammar, philology, rhetoric, and geometry. *Against the Christians* is perhaps Porphyry’s best known title. Of this large work only some fragments have survived.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      波菲利是一位多产作者，论述的主题范围十分广泛。归于他名下的作品约有六十种，但大多数如今已经失传，或仅存残篇。现存的作品（并非都完整）有：《普罗提诺传》《毕达哥拉斯传》《致玛尔凯拉》《论禁食动物》《通往可知领域的出发点》（通常称《箴言集》；拉丁文题名为 *Sententiae ad intelligibilia ducentes*）、《导论》（*Isagoge*）、《论宁芙的洞穴》、《托勒密〈四部书〉导论》（见 Bezza 2012）[^bezza-2012]，另有对托勒密《和声学》和亚里士多德《范畴篇》的注释。一部归于盖伦名下的现存作品《致高鲁斯》，几乎肯定出自他手。此外还有一部哲学史的残篇，以及若干心理学著作的残篇。其中《杂论》（*Symmikta zetemata*）已由 Heinrich Dörrie（1959）部分重构。Pierre Hadot（1968 及多篇文章）主张，波菲利是柏拉图《巴门尼德篇》一部匿名注释残篇的作者。这一归属已被广泛接受，但也受到有力质疑（见下文）。他还撰有柏拉图《蒂迈欧篇》及亚里士多德若干著作的注释。这些注释的残篇收于 Smith 1993，该书汇编了波菲利的现存残篇与证言。此外我们知道，波菲利还写过语法、语文学、修辞学和几何学等各类题材。《驳基督徒》也许是波菲利最著名的作品，但这部大书只有一些残篇留存。
+    step2: |-
+      波菲利著述宏富，涉猎主题极为广泛。归于他名下的作品约有六十种，但多数已经失传，或仅存残篇。现存者（未必完整）包括：《普罗提诺传》《毕达哥拉斯传》《致玛尔凯拉》《论禁食动物》《通往可知领域的出发点》（通称《箴言集》，拉丁文题名 *Sententiae ad intelligibilia ducentes*）、《导论》（*Isagoge*）、《论宁芙的洞穴》、《托勒密〈四部书〉导论》（见 Bezza 2012）[^bezza-2012]，以及对托勒密《和声学》和亚里士多德《范畴篇》的注释。现存一部归于盖伦的《致高鲁斯》，几乎可以肯定出自波菲利之手。另有哲学史残篇和若干心理学著作的残篇；其中《杂论》（*Symmikta zetemata*）已由 Heinrich Dörrie（1959）部分重构。Pierre Hadot（1968 年及多篇论文）提出，柏拉图《巴门尼德篇》的一部匿名注释残篇出自波菲利。此说流传甚广，却也遭到有力反驳（详见下文）。他还注释过柏拉图《蒂迈欧篇》和亚里士多德的多种著作，残篇见 Smith 1993——该书汇编了波菲利的现存残篇与证言。此外，波菲利还写过语法、语文学、修辞学、几何学等题材。《驳基督徒》大概是他最广为人知的书名，这部大著同样只剩残篇。
   - id: 6
     kind: body
     source: |-
       In his monumental study, *La vie de Porphyre* (1913), Bidez portrayed the young Porphyry as someone prone to religion and superstition. He was supposed to have become a more rational thinker during his sojourn with Plotinus, though later to have relapsed to some extent into his previous mode. Later research has found that there is no clear support for such a view of Porphyry’s development. He may throughout his life have used different styles, perhaps aiming at different readerships, while maintaining somehow both his proneness for religion and superstition and his rational tendencies.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在其巨著《波菲利传》（*La vie de Porphyre*，1913）中，Bidez 把年轻的波菲利描绘成一个易受宗教与迷信吸引的人。据说他在随普罗提诺学习期间变成了更为理性的思想家，后来又在某种程度上退回先前的状态。后来的研究并未发现支持这种波菲利发展观的明确证据。他也许一生都在使用不同的风格，可能针对不同的读者群，同时以某种方式既保持对宗教与迷信的倾向，又保持理性倾向。
+    step2: |-
+      Bidez 在巨著《波菲利传》（*La vie de Porphyre*，1913）中，把青年波菲利写成容易沉溺于宗教与迷信的人，并说他在师从普罗提诺期间变得更为理性，后来又部分地故态复萌。后世研究并未找到支持这一发展图景的明确证据。波菲利也许终身兼用不同文风，以面向不同读者，同时以某种方式既保留宗教与迷信的倾向，又保留理性的倾向。
   - id: 7
     kind: body
     source: |-
       It is clear that Porphyry was a very learned man. He is sometimes claimed as a highly important promulgator of the late ancient branch of Platonism (usually called ‘Neoplatonism’) rather than as an original philosopher. The former claim is certainly true: he applied Neoplatonic doctrines to traditional pagan religion and myths and was in many respects a more extrovert thinker interested in applying Platonic philosophy to various spheres than his master, Plotinus. The judgment that he was unoriginal may, however, be overhasty, since the sample of his writings we are left with is very small and among these his more theoretical works are clearly underrepresented. What we have and know to be his, however, does not indicate drastic theoretical innovations, except in the sphere of the philosophy of logic and language. To judge from the evidence of subsequent ancient Platonists, Porphyry was an independent philosopher whose views were taken very seriously indeed. Late ancient Platonists, however, often mention him in the pair “Plotinus and Porphyry”. So, as should be clear from what already has been said, Porphyrian scholarship, when soberly done, is filled with caveats: we rarely know when he wrote what, and we do not know for sure what his philosophical doctrines were. What is extant suggests a close doctrinal affinity with Plotinus, except for the fragment of the *Parmenides* commentary for which the authorship and relationship to Porphyry is disputed. To this we can add Porphyry’s take on Aristotle’s *Categories* with consequences for his view on the structure of the sensible realm. Thus, we are faced with a figure whom we know to have been respected in late antiquity, who was influential long beyond then, but we do not know with any certainty what he stood for philosophically or what was original with him in the central areas of philosophy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      波菲利显然是一位非常博学的人。人们有时说他是晚期古代柏拉图主义（通常称“新柏拉图主义”）极为重要的传播者，而不是一位有原创性的哲学家。前一说法当然正确：他把新柏拉图主义学说应用于传统的异教宗教与神话，在许多方面比其师普罗提诺更为外向，更热心于把柏拉图哲学应用于各个领域。然而，说他缺乏原创性，这一判断可能过于仓促，因为我们所剩下的作品样本非常小，而且其中较理论性的著作明显代表性不足。不过，现存且确知属于他的作品，除逻辑与语言哲学领域外，并未显示出剧烈的理论创新。从后世古代柏拉图主义者的证据看，波菲利是一位独立思考的哲学家，其观点确实受到高度重视。然而晚期古代柏拉图主义者常把他与普罗提诺并称“普罗提诺与波菲利”。因此，正如上文已经表明的，波菲利研究若做得审慎，就充满保留：我们很少知道他何时写了什么，也不能确知他的哲学学说是什么。现存材料显示，他与普罗提诺在学说上关系密切，唯有《巴门尼德篇》注释残篇例外——其作者归属及其与波菲利的关系尚有争议。此外还可加上波菲利对亚里士多德《范畴篇》的理解，这影响了他关于可感领域结构的看法。于是，我们面对的是这样一位人物：我们知道他在晚期古代受到尊重，其影响远远超出那个时代，却不能确知他在哲学上究竟主张什么，也不能确知他在哲学核心领域的原创之处何在。
+    step2: |-
+      波菲利无疑十分博学。有人称他是晚期古代柏拉图主义（通常叫“新柏拉图主义”）极其重要的传播者，而非有原创性的哲学家。前一点当然成立：他把新柏拉图主义学说用于传统异教宗教与神话，在许多方面比老师普罗提诺更外向，更热衷于把柏拉图哲学推广到各个领域。但说他缺乏原创性，这一判断或许过于仓促，因为我们手头的作品样本太少，其中偏理论的著作又明显不足。就现存且确属他本人的作品而言，除了逻辑与语言哲学，几乎看不到剧烈的理论创新。不过，从后世古代柏拉图主义者的引述看，波菲利是一位独立思考的哲学家，其观点很受重视。晚期古代柏拉图主义者常将他与普罗提诺并举，合称“普罗提诺与波菲利”。因此，前文已表明，波菲利研究若做得踏实，就必然处处存疑：我们很少知道他何时写了什么，也无法确知他的哲学学说。现存材料显示，他在学说上与普罗提诺相当接近；例外是《巴门尼德篇》注释残篇，其作者归属及与波菲利的关系尚有争议。此外还应考虑他对亚里士多德《范畴篇》的解读，这影响了他对可感世界结构的看法。总之，我们面对的是这样一个人：确知他在晚期古代备受尊重、影响远播后世，却无法确知他在哲学上究竟持何立场，也无法确知他在哲学核心领域的原创贡献何在。
   - id: 8
     kind: body
     source: |-
       ## 3. Philosophical Views
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. 哲学观点
+    step2: |-
+      ## 3 哲学观点
   - id: 9
     kind: body
     source: |-
       It seems safe to assume that before his encounter with Plotinus, Porphyry’s philosophical views were shaped by Longinus, Numenius and other Middle Platonists, in addition to Plato, Aristotle and other classics of Greek philosophy. After meeting with him he turned into a follower of Plotinus, even if some of his Middle Platonist background shows through also in his post-Plotinian phase. This picture is strongly suggested both by his *Life of Plotinus* and the *Sententiae*, the only extant work in which he lays out his basic philosophical views that is with certainty attributable to him.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      可以稳妥地假定，在与普罗提诺相遇之前，波菲利的哲学观点除受柏拉图、亚里士多德及其他希腊哲学经典影响外，还由朗吉努斯、努梅尼乌斯等中期柏拉图主义者塑造。遇到普罗提诺之后，他成了普罗提诺的追随者，尽管其中期柏拉图主义背景在他后普罗提诺阶段也有所显露。这一图景得到《普罗提诺传》和《箴言集》的强烈支持；后者是唯一一部可确证出自他手、系统阐述其基本哲学观点的现存著作。
+    step2: |-
+      可以放心假定：在遇到普罗提诺之前，波菲利的哲学观点除了受柏拉图、亚里士多德等希腊哲学经典影响，还由朗吉努斯、努梅尼乌斯等中期柏拉图主义者塑造。结识普罗提诺后，他转而追随普罗提诺；不过，其中期柏拉图主义的背景在后期思想中仍有流露。《普罗提诺传》与《箴言集》都强烈支持这一判断；后者是唯一可确证为他所写、系统陈述其基本哲学观点的现存作品。
   - id: 10
     kind: body
     source: |-
       For Plotinus and Porphyry, there is a categorical gap between two realms, the sensible and the intelligible. The latter realm contains three “hypostases” (three different ontological levels), the One, Intellect and Soul. Of these, the One is the first cause of everything else; it is characterized by sheer unity which renders it beyond thought and beyond description in language. Intellect is the sphere of real being, identified with the Platonic Forms, which are the thoughts of a universal intellect. Soul, the lowest of the intelligible hypostases, is the intelligible item directly responsible for the sensible realm. The sensible realm, which is an imperfect image of the intelligible, also consists of levels: There are organisms, of which the sensible cosmos is one, comprising the other, lesser organisms. Organisms are ensouled beings and thus include an intelligible component. Below them on the scale are forms in matter, bodies, and matter itself. These too are results of Soul’s creative activity but are not intelligible entities.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对普罗提诺和波菲利来说，两个领域之间存在绝对的鸿沟：可感领域与可知领域。可知领域包含三个“位格”（三个不同的本体论层次）：太一、理智与灵魂。其中，太一是一切其他事物的第一原因；其特征是纯粹的单一性，这使它超越思想，也超越语言描述。理智是真正存在的领域，与柏拉图的形式相同一，这些形式是一个普遍理智的思想。灵魂是最低的可知位格，是直接对可感领域负责的可知项。可感领域是可知领域的不完善影像，也由若干层次构成：有生物体，其中可感宇宙是一个生物体，包含其他较小的生物体。生物体是有灵魂的存在者，因而包含一个可知成分。在它们之下，按层次依次是质料中的形式、物体和质料本身。这些也是灵魂创造性活动的结果，但不是可知实体。
+    step2: |-
+      在普罗提诺和波菲利看来，可感领域与可知领域之间横着一道绝对的鸿沟。可知领域包含三个“位格”，即三个不同的本体论层次：太一、理智与灵魂。太一是一切其他事物的第一原因，以纯粹的单一性为特征，因而超乎思想，也超乎语言描述。理智是真正存在的领域，等同于柏拉图的形式；这些形式是一个普遍理智的思想。灵魂是最低的可知位格，直接负责可感领域。可感领域是可知领域的不完善影像，同样分层：最低层之上有生物体，可感宇宙本身就是一个生物体，其中包含其他较小的生物体；生物体是有灵魂的存在者，因而含有可知成分。再往下依次是质料中的形式、物体和质料本身。这些同样是灵魂创造活动的结果，却不是可知实体。
   - id: 11
     kind: body
     source: |-
       The relationship between these levels is in general described in terms of a doctrine of double activity: each higher level has its characteristic internal activity which is accompanied by an external power or activity which constitutes the level below. This talk of internal and external activities (powers) is equivalent to what is known as the relationship between paradigms and imitations in traditional Platonism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些层次之间的关系，一般用双重活动学说来描述：每一较高层次都有其特有的内在活动，并伴随一种外在的力量或活动，后者构成其下一层次。这种关于内在活动与外在活动（力量）的说法，相当于传统柏拉图主义中所谓范式与模仿的关系。
+    step2: |-
+      各层次之间的关系，通常用“双重活动”学说来说明：每一较高层次都有自身特有的内在活动，同时又伴随着一种外在的力量或活动，后者构成它下面的层次。所谓内在活动与外在活动（力量），其实相当于传统柏拉图主义所说的范式与模仿的关系。
   - id: 12
     kind: body
     source: |-
       Human beings have, so to speak, one leg in each realm: Through the body and its non-rational soul (the seat of appetitive and spirited desires and sense-perception) they belong to the sensible realm, through their higher soul (intellect) to the intelligible. Actually, the true human being is to be identified with the intellect and the intelligible Man. It follows from this that the task set for human beings is to free themselves from the sensible and live by the intelligible, which after all is their true or real nature.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人可以说一只脚站在一个领域里：通过身体及其非理性灵魂（欲望、激情与感官知觉的所在），人属于可感领域；通过其更高灵魂（理智），人属于可知领域。实际上，真正的人应当被等同于理智和可知的人。由此推出，人的任务就是把自己从可感领域解放出来，依可知领域而生活，因为后者毕竟是其真正或实在的本性。
+    step2: |-
+      人可以说一只脚踩在一个领域里：凭借身体及其非理性灵魂（欲望、激情和感官知觉的所在），人属于可感领域；凭借更高的灵魂（理智），人又属于可知领域。实际上，真正的人就是理智，就是可知的人。由此可以推出人的任务：摆脱可感领域，依照可知领域生活——后者才是人真正、实在的本性。
   - id: 13
     kind: body
     source: |-
       This is Plotinus’ philosophy, which Porphyry shares, in broad outline (see entry on Plotinus). There are, however, some differences in terminology, which show Porphyry to have a certain scholarly bent that Plotinus avoids, and Porphyry is in general more interested in reconciling Aristotle with Platonism than Plotinus was. This is seen, for example, in Porphyry’s more positive attitude towards the doctrine of Aristotele’s *Categories*. In what follows, we focus on some points where Porphyry diverges from Plotinus or has been taken to diverge from him, or may seem to develop his thought.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这就是普罗提诺的哲学，波菲利在大体轮廓上与之相同（见“普罗提诺”词条）。不过，两者在术语上有一些差异，显示出波菲利具有某种普罗提诺所回避的学术倾向；而且波菲利总体上比普罗提诺更热心于调和亚里士多德与柏拉图主义。例如，这体现在波菲利对亚里士多德《范畴篇》学说更为肯定的态度上。下文集中讨论波菲利与普罗提诺分歧、被认为有分歧、或可能发展其思想的若干要点。
+    step2: |-
+      以上是普罗提诺的哲学，波菲利大体上亦持此说（见“普罗提诺”词条）。但两人的术语有些出入，可见波菲利有某种普罗提诺有意避开的学院作风；而且他总体上比普罗提诺更热衷于调和亚里士多德与柏拉图主义，他对亚里士多德《范畴篇》学说更为肯定的态度即是一例。下面集中考察波菲利与普罗提诺确有分歧、被认为有分歧，或可能推进了其思想的若干要点。
   - id: 14
     kind: body
     source: |-
