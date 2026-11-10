@@ -395,146 +395,194 @@ segments:
     kind: body
     source: |-
       Truthmaker-based approaches discern the ontological consequences of sentences like (1)–(3) by asking what entity (or entities) serve as their truthmaker(s). On this approach, the truthmaking relation is a distinctive one that holds between sentences or propositions, on the one hand, and entities like facts, states of affairs, or objects on the other. (On truthmaker theory, see Armstrong 2004 and the entry on truthmakers. On truthmaking and nominalism, see Armstrong 1997: 115, Melia 2005, and Asay 2020: 175–197.)[^armstrong-1997][^armstrong-2004][^asay-2020][^melia-2005] The extraction of ontological commitments via truthmaker theory crucially depends upon the details of the relevant theory of truthmakers and truthmaking rather than the semantics or syntax of claims like (1)–(3). For instance, some truthmaker theorists hold the sentence ‘Socrates is a human’ has as its truthmaker a fact or state of affairs involving Socrates and the property *being human.* Contrasting truthmaker approaches instead hold that neither facts, states of affairs, or properties are required by the truth of ‘Socrates is human’; it requires instead tropes or perhaps only the existence of Socrates as he actually is as a truthmaker. Along with differing general approaches to truthmaking, the precise truthmaker posited for a sentence is regularly a matter of controversy. The truthmaker approach for defending anti-nominalism will hold that, without abstract entities like seven, the Pythagorean Theorem, and Superman, we cannot plausibly account for the truth of claims like (1)–(3). If, however, truthmaker theorists can supply an account of truthmaking that identifies viable, nominalist-friendly truthmakers for claims like (1)–(3), nominalists are in a position to resist a truthmaker-based argument for anti-nominalism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      真值制造者式进路通过追问何实体充当 (1)–(3) 之类句子的真值制造者，来辨别其本体论后果。按这一进路，真值制造关系是一种独特的关系，一端是句子或命题，另一端是事实、事态或对象之类实体。（关于真值制造者理论，见 Armstrong 2004 与"真值制造者"词条；关于真值制造与唯名论，见 Armstrong 1997: 115、Melia 2005、Asay 2020: 175–197。）[^armstrong-1997][^armstrong-2004][^asay-2020][^melia-2005] 借真值制造者理论提取本体论承诺，关键在于相关真值制造者与真值制造理论的细节，而不是 (1)–(3) 之类主张的语义或句法。例如，一些真值制造者理论家认为，"苏格拉底是人"这一句子的真值制造者是涉及苏格拉底与*为人*这一属性的事实或事态。与之相对的真值制造者进路则认为，"苏格拉底是人"之为真既不要求事实、事态，也不要求属性；它要求的是特普，或只需苏格拉底以其实际所是而存在作为真值制造者。除了对真值制造的一般进路各异，为某个句子设定何种真值制造者也常是争议所在。为反唯名论辩护的真值制造者进路会主张：若无七、毕达哥拉斯定理、超人这类抽象实体，我们便无法可信地说明 (1)–(3) 之类主张之为真。然而，若真值制造者理论家能提供一种说明，为 (1)–(3) 之类主张找出可行且亲唯名论的真值制造者，唯名论者便有资格抵制基于真值制造者的反唯名论论证。
+    step2: |-
+      真值制造者式进路，靠追问哪些实体充当 (1)–(3) 之类句子的真值制造者，来辨别其本体论后果。按这条进路，真值制造关系颇为独特：一端是句子或命题，另一端是事实、事态或对象。（关于真值制造者理论，见 Armstrong 2004 与"真值制造者"词条；关于真值制造与唯名论，见 Armstrong 1997: 115、Melia 2005、Asay 2020: 175–197。）[^armstrong-1997][^armstrong-2004][^asay-2020][^melia-2005] 借真值制造者理论提取本体论承诺，关键在相关真值制造者理论的细节，而不在 (1)–(3) 之类主张的语义或句法。例如，一些真值制造者理论家认为，"苏格拉底是人"的真值制造者是涉及苏格拉底与*为人*这一属性的事实或事态；与之对立的进路则认为，"苏格拉底是人"之为真既不要求事实、事态，也不要求属性——它要求特普，或只需苏格拉底以其实际所是而存在。除了对真值制造的一般进路各异，为某句设定何种真值制造者也常聚讼纷纭。为反唯名论辩护的真值制造者进路会主张：若无七、毕达哥拉斯定理、超人这类抽象实体，便无法可信地说明 (1)–(3) 之类主张之为真。但只要真值制造者理论家能给出说明，为 (1)–(3) 找出可行且亲唯名论的真值制造者，唯名论者便有资格抵制这条论证。
   - id: 50
     kind: body
     source: |-
       The Quinean approach supplements the truth of claims (1)–(3) with a criterion of ontological commitment, which provides a method for determining what entities must exist if such claims are true. Roughly speaking, the Quinean criterion takes the ontological commitments of a sentence to be the values of the variables that fall within the scope of the quantifiers of the sentence when translated into first-order logic as part of a theory. Where truthmaker-based arguments depend upon a background theory of truthmaking, arguments of this sort hinge upon a distinctive role for quantifiers and variables as means of discerning the commitments of theories (see Quine 1948 and the relevant sections of the entry on ontological commitment)[^quine-1948]. For instance, the sentence “Socrates is human” would be translated as “∃x Socratizes(x) & Is-Human(x)” and thus any theory in which “Socrates is human” occurs is ontologically committed to something that is Socrates by virtue of the variable bound by the existential quantifier ranging over a domain that includes such an entity. The Quinean criterion for ontological commitment provides a highly specific answer to questions regarding the ontological commitments of sentences; however, the Quinean criterion leaves open which theories to accept as well as the proper regimentation of theories and their constituent sentences. As we will see below, some nominalist responses to Quinean arguments proceed by denying that claims like (1)–(3) are properly regimented in ways that require quantification over putatively abstract entities.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      蒯因式进路用一条本体论承诺判准来补充 (1)–(3) 之类主张之为真；这条判准提供了判定如下问题的方法：若这些主张为真，则必须存在哪些实体。大致说，蒯因式判准把句子的本体论承诺视为：当该句子作为某一理论的一部分译为一级逻辑时，落入其量词辖域内的变元所取的值。真值制造者式论证依赖背景的真值制造理论，而这类论证则系于量词与变元在辨别理论承诺方面的独特作用（见 Quine 1948 与"本体论承诺"词条相关各节）[^quine-1948]。例如，"苏格拉底是人"会被译为"∃x Socratizes(x) & Is-Human(x)"；于是，任何含有"苏格拉底是人"的理论，都因存在量词所约束的变元取值于包含苏格拉底这一实体的论域，而在本体论上承诺了苏格拉底。蒯因式判准对句子本体论承诺问题给出高度具体的答案；但它并不裁决接受哪些理论，也不裁决理论与构成句子的恰当整编方式。如下文将见，一些唯名论者对蒯因式论证的回应，就是否认 (1)–(3) 之类主张应当以需要对被认为抽象实体作量化的方式来整编。
+    step2: |-
+      蒯因式进路，用一条本体论承诺判准来补充 (1)–(3) 之为真。这条判准给出判定方法：若这些主张为真，则须有哪些实体存在。大致说，蒯因式判准把句子的本体论承诺，视为该句子作为理论的一部分译成一级逻辑时，落入量词辖域的变元所取的值。真值制造者式论证依赖背景的真值制造理论，这类论证则系于量词与变元在辨别理论承诺上的独特作用（见 Quine 1948、"本体论承诺"词条相关各节）[^quine-1948]。例如，"苏格拉底是人"会译作"∃x Socratizes(x) & Is-Human(x)"；于是任何含有"苏格拉底是人"的理论，都因存在量词所约束的变元取值于包含苏格拉底的论域，而在本体论上承诺了苏格拉底。这条判准对"句子承诺了什么"给出高度具体的答案；但它不裁决接受哪些理论，也不裁决理论及其构成句子的恰当整编方式。如下文将见，一些唯名论者对蒯因式论证的回应，正是否认 (1)–(3) 应当按需要对被认为抽象实体作量化的方式来整编。
   - id: 51
     kind: body
     source: |-
       In developing arguments for anti-nominalism, Quine’s criterion of ontological commitment is widely adopted; however, Quine pairs his deployment of the criterion with a more general commitment to the thesis of ontological naturalism, according to which our best, mature scientific theories are the proper arbiters of what sentences we ought to accept. In turn, these theories are our best guides to what exists. The conjunction of Quine’s criterion and ontological naturalism along with the apparent indispensability of mathematical entities for our best physical theories is the basis of what is often-called the Quine-Putnam indispensability argument for mathematical realism. This argument has been the subject of intense interest in the philosophy of mathematics (see Quine 1970, Putnam 1971, Colyvan 2001 and entry on Indispensability Arguments in the Philosophy of Mathematics)[^colyvan-2001][^putnam-1971][^quine-1970]. Many who reject ontological naturalism nevertheless rely upon Quine’s criterion in order to determine what the ontological commitments of true sentences might be. Quine’s criterion is therefore a premise in various arguments for different kinds of abstract entities. For instance, Quine’s criterion would seem to suggest that, despite the fact that (3) is not part of any scientific theory, its truth requires the existence of fictional characters and musical works provided that one accepts that (3) ought to regimented in a manner that requires quantification over entities that have the property of *being Superman* or *being Liszt’s Piano Sonata in B Minor.*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在发展反唯名论论证时，蒯因的本体论承诺判准被广泛采用；然而蒯因在运用该判准时，还配上对本体论自然主义论旨的更一般承诺：我们最好的成熟科学理论，才是判定我们应当接受哪些句子的恰当裁决者；而这些理论反过来又是关于何物存在的最佳向导。蒯因判准、本体论自然主义，加上数学实体对于我们最好的物理理论似乎不可或缺，三者合起来，便构成通常所谓支持数学实在论的蒯因—普特南不可或缺性论证的基础。这一论证一直是数学哲学中热烈关注的题目（见 Quine 1970、Putnam 1971、Colyvan 2001 与"数学哲学中的不可或缺性论证"词条）[^colyvan-2001][^putnam-1971][^quine-1970]。许多拒斥本体论自然主义的人，仍依靠蒯因判准来判定真句子的本体论承诺可能是什么。因此，蒯因判准成为支持各类抽象实体的种种论证的前提。例如，蒯因判准似乎会提示：尽管 (3) 并不属于任何科学理论，但只要你接受 (3) 应当按需要对*是超人*或*是李斯特的 b 小调钢琴奏鸣曲*这类属性的实体作量化的方式来整编，那么 (3) 之为真便要求虚构人物与音乐作品存在。
+    step2: |-
+      发展反唯名论论证时，蒯因的本体论承诺判准被广泛采用；不过蒯因在运用它时，还配上对本体论自然主义的更一般承诺：我们最好的成熟科学理论，才是判定应当接受哪些句子的恰当裁决者，而这些理论又是关于何物存在的最佳向导。蒯因判准、本体论自然主义，加上数学实体对我们最好的物理理论似乎不可或缺——三者合起来，便是通常所谓支持数学实在论的蒯因—普特南不可或缺性论证之基础。这一论证一直是数学哲学的热门题目（见 Quine 1970、Putnam 1971、Colyvan 2001、"数学哲学中的不可或缺性论证"词条）[^colyvan-2001][^putnam-1971][^quine-1970]。许多拒斥本体论自然主义的人，仍靠蒯因判准来判定真句子的本体论承诺。于是，这条判准成了支持各类抽象实体的种种论证的前提。例如，蒯因判准似乎提示：尽管 (3) 不属于任何科学理论，但只要你接受 (3) 应按需要对"是超人"或"是李斯特的 b 小调钢琴奏鸣曲"这类属性的实体作量化的方式来整编，那么 (3) 之为真便要求虚构人物与音乐作品存在。
   - id: 52
     kind: body
     source: |-
       The arguments above proceed from the truth of claims that apparently express or refer to abstract entities. Other anti-nominalist arguments focus on the explanatory role of abstract entities or universals as theoretical posits. *Explanatory* or abductive arguments for anti-nominalism aim to show that theories committed to the existence of abstract entities provide the best or perhaps the only viable explanations of certain phenomena. Generally speaking, anti-nominalist theories enjoy an advantage in simplicity of formulation even if they require the existence of abstract entities. In contrast, nominalist theories often seek to replace or translate claims like (1)–(3) into claims that make no reference to (and therefore require no quantification over) abstract entities. Focus on explanatory considerations in ontology has brought questions about theoretical virtues and their correct application to the forefront of metaphysical debate, while raising broader concerns about the (dis)analogies between metaphysical posits like properties or propositions and scientific posits like electrons or genes. (On theoretical virtues, see Schindler 2018 and Nolan 1999.)[^nolan-1999][^schindler-2018]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上述论证从表面上表达或指称抽象实体的主张之为真出发。其他反唯名论论证则聚焦于抽象实体或共相作为理论设定的解释作用。支持反唯名论的*解释性*或溯因论证意在表明：承诺抽象实体存在的理论，为某些现象提供了最佳、或许唯一可行的解释。一般说来，反唯名论理论在表述的简单性上占有优势，即便它们需要抽象实体存在。相反，唯名论理论往往设法把 (1)–(3) 之类主张替换或翻译为不指称（因而不需要对之作量化）抽象实体的主张。本体论中对解释性考虑的重视，把理论德性及其正确运用的问题推到形而上学论战的前台，同时引出更广泛的关切：属性、命题之类形而上学设定与电子、基因之类科学设定之间，究竟有何相似与不相似。（关于理论德性，见 Schindler 2018 与 Nolan 1999。）[^nolan-1999][^schindler-2018]
+    step2: |-
+      上述论证从"表面上表达或指称抽象实体"的主张之为真出发；其他反唯名论论证则聚焦于抽象实体或共相作为理论设定的解释作用。支持反唯名论的解释性（溯因）论证意在表明：承诺抽象实体存在的理论，为某些现象提供了最佳、或许唯一可行的解释。大体说来，反唯名论理论在表述的简单性上占优，即便它们需要抽象实体存在；唯名论理论则往往设法把 (1)–(3) 之类主张替换或翻译成不指称（因而不必量化）抽象实体的主张。本体论中对解释性考虑的重视，把理论德性及其正确运用的问题推到形而上学论战的前台，也引出更广泛的关切：属性、命题之类形而上学设定与电子、基因之类科学设定之间，究竟几分相似、几分不似。（关于理论德性，见 Schindler 2018、Nolan 1999。）[^nolan-1999][^schindler-2018]
   - id: 53
     kind: body
     source: |-
       Explanatory anti-nominalist arguments are wide-ranging. For example, arguments for the existence of propositions allege that theories without such entities are incapable of suitably explaining semantic phenomena like meaning, linguistic practices like translation, or cognitive phenomena like belief and doubt (see Church 1951)[^church-1951]. Parallel arguments for anti-nominalist views about possible worlds hold that we cannot satisfactorily explain our modal reasoning or the content of our counterfactual thought and talk without positing such entities. Additional arguments hold that our best theories of laws of nature require commitment to universals and relations among universals, which some hold to be abstract entities (see, e.g., Armstrong 1982 and Tooley 1977)[^armstrong-1982][^tooley-1977]. Other anti-nominalist arguments in the philosophy of art claim that we cannot account for the phenomena of musical appreciation or authentic performance without commitment to the existence of musical works (see Dodd 2000)[^dodd-2000]. In advancing an argument for properties, propositions, and other entities, the remarks of Church (1951: 104) are representative of explanatory anti-nominalist efforts: “To those who find forbidding the array of abstract entities and principles concerning them which is here proposed, I would say that the problems which give rise to [an anti-nominalist theory] are difficult and a simpler theory is not known to be possible.” Although propositions, properties, and possible worlds are familiar posits of philosophical theories, the breadth and power of explanatory anti-nominalist arguments is significantly increased if the pervasive reference to and theorizing about entities like linguistic types, biological kinds, and chemical properties like *malleability* is best understood as abstract discourse. On such a view, our commitments to abstract entities are exceptionally broad in scope. (For a remarkable catalogue of the deployment of types in various contexts, see Wetzel 2009: 3–21.)[^wetzel-2009]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      解释性反唯名论论证范围很广。例如，支持命题存在的论证主张：没有这类实体的理论，无法恰当地解释意义之类语义现象、翻译之类语言实践，或信念与怀疑之类认知现象（见 Church 1951）[^church-1951]。支持关于可能世界之反唯名论观点的平行论证主张：若不设定这类实体，我们就无法令人满意地解释我们的模态推理或反事实思想与谈论的内容。另有论证主张：我们最好的自然定律理论要求承诺共相与共相之间的关系，而一些人认为这些是抽象实体（例如见 Armstrong 1982 与 Tooley 1977）[^armstrong-1982][^tooley-1977]。艺术哲学中其他反唯名论论证主张：若不承诺音乐作品存在，我们就无法说明音乐欣赏或本真演奏的现象（见 Dodd 2000）[^dodd-2000]。在为属性、命题及其他实体提出论证时，Church（1951: 104）的话可谓解释性反唯名论努力的代表："对于那些觉得这里所提议的一大批抽象实体及关于它们的原则难以接受的人，我要说：引生[反唯名论理论]的那些问题很困难，而更简单的理论尚未有人知道是可能的。"命题、属性与可能世界固然是哲学理论中熟悉的设定，但若对语言类型、生物种类、*可延展性*之类化学属性等实体的普遍指称与理论化，最好被理解为抽象话语，那么解释性反唯名论论证的广度与力量便显著增加。按这种观点，我们对抽象实体的承诺范围异常宽广。（关于类型在各种语境中运用的出色编目，见 Wetzel 2009: 3–21。）[^wetzel-2009]
+    step2: |-
+      解释性反唯名论论证范围很广。例如，支持命题存在的论证主张：没有这类实体的理论，无法恰当解释意义之类语义现象、翻译之类语言实践，或信念与怀疑之类认知现象（见 Church 1951）[^church-1951]。关于可能世界的平行论证主张：若不设定这类实体，我们就无法令人满意地解释模态推理，或反事实思想与谈论的内容。另有论证主张：我们最好的自然定律理论要求承诺共相以及共相之间的关系，而有些人认为共相是抽象实体（例如见 Armstrong 1982、Tooley 1977）[^armstrong-1982][^tooley-1977]。艺术哲学中还有一类论证：若不承诺音乐作品存在，就无法说明音乐欣赏或本真演奏的现象（见 Dodd 2000）[^dodd-2000]。为属性、命题等实体立论时，Church（1951: 104）的话颇能代表这一路数："有人觉得这里所提议的一大批抽象实体及关于它们的原则叫人吃不消；我要说：引生[反唯名论理论]的那些问题本来艰难，而更简单的理论尚未有人知道是可能的。"命题、属性、可能世界固然是哲学理论中的老设定；但若对语言类型、生物种类、*可延展性*之类化学属性的普遍指称与理论化，最好被理解为抽象话语，那么解释性反唯名论论证的广度与力量便大增。照这种看法，我们对抽象实体的承诺，范围异常宽广。（关于类型在各类语境中运用的出色编目，见 Wetzel 2009: 3–21。）[^wetzel-2009]
   - id: 54
     kind: body
     source: |-
       ## 4. Nominalist Strategies
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. 唯名论策略
+    step2: |-
+      ## 4 唯名论策略
   - id: 55
     kind: body
     source: |-
       Those who accept nominalism about abstract entities and hold that entities like propositions, fictional entities, and numbers would be properly categorized as abstract are in the difficult situation of having to do without them. Nominalists of this kind must therefore find a way to make sense of the apparent meaningfulness and apparent truth of our thought and talk as in claims like (1)–(3) above. This section provides an overview of what can be seen as the positive component of nominalist metaphysical theories.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      那些接受关于抽象实体之唯名论、并认为命题、虚构实体、数之类实体应被正确归为抽象的人，处境艰难：他们必须不用这些实体。这类唯名论者因此必须找到办法，来理解我们如上述 (1)–(3) 那样的思想与谈论之表面有意义与表面为真。本节概述可视为唯名论形而上学理论之肯定性成分的内容。
+    step2: |-
+      既接受关于抽象实体之唯名论、又认为命题、虚构实体、数之类应归为抽象的人，处境艰难：他们必须不用这些实体。这类唯名论者因此得设法理解：我们如 (1)–(3) 那样的思想与谈论，何以表面上有意义、表面上为真。本节概述唯名论形而上学理论中可称为肯定性成分的部分。
   - id: 56
     kind: body
     source: |-
       We divide our survey of nominalist strategies by first considering *general strategies*—roughly, strategies that are applicable to a variety of domains that apparently concern abstract entities like mathematical entities, propositions, musical works, types, or other kinds. We then consider *property-theoretic strategies*, which are specifically aimed at accounting for property-theoretic phenomena like similarity, predication, and other matters linked to qualitative natures. Although some general strategies can be applied to the property-theoretic domain, nominalist approaches within metaphysics have often focused specifically on the case of properties. For this reason, a variety of distinctive proposals regarding our thought and talk about properties have been developed. The aim of the remaining two sections is therefore to introduce a very broad range of nominalist theories within metaphysics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们划分唯名论策略的方式是：先考察*一般策略*——大致指适用于多种领域的策略，这些领域表面上涉及数学实体、命题、音乐作品、类型或其他种类等抽象实体；然后再考察*属性论策略*，它们专门旨在说明相似性、谓述及其他与质性本性相联的属性论现象。尽管一些一般策略可用于属性论领域，形而上学中的唯名论进路却常常专门聚焦于属性情形。因此，关于我们思想和谈论属性的种种独特提议已发展出来。余下两节的目的，即在于引介形而上学家园中范围极广的唯名论理论。
+    step2: |-
+      我们先考察*一般策略*——大致指适用于多种领域的策略，这些领域表面上涉及数学实体、命题、音乐作品、类型等抽象实体；然后再考察*属性论策略*，它们专门用来说明相似性、谓述以及别的与质性本性相关的属性论现象。有些一般策略也可用于属性论领域，但形而上学中的唯名论进路往往专门盯住属性；关于我们如何思想和谈论属性，由此生出种种独特提议。余下两节，便是要引介形而上学家园中范围极广的唯名论理论。
   - id: 57
     kind: body
     source: |-
       ### 4.1 General Nominalist Strategies
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 一般唯名论策略
+    step2: |-
+      ### 4.1 一般唯名论策略
   - id: 58
     kind: body
     source: |-
       Suppose that we accept nominalism about abstract entities and also hold that some category of entities, *F*s, would be properly categorized as abstract. It follows that, on our view, there are no *F*s. How, then, can we make sense of the apparent meaningfulness, truth, and usefulness of our thought and talk about *F*s? As we noted in Section Three, claims such as (1)–(3) are often used to motivate a commitment to abstract entities. So, if nominalism about abstract entities is to prove an attractive metaphysical position, nominalists are obliged to explain how these claims might be (or merely appear to be) meaningful, true, and useful, given the nonexistence of their ostensible subject matter.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      设我们接受关于抽象实体之唯名论，并认为某类实体 *F* 应被正确归为抽象。由此推出：按我们的观点，*F* 不存在。那么，我们如何理解关于 *F* 的思想与谈论之表面有意义、为真与有用？如第三节所指出的，(1)–(3) 之类主张常被用来促使人承诺抽象实体。因此，关于抽象实体之唯名论若要成为有吸引力的形而上学立场，唯名论者就有义务说明：在其表面主项不存在的情况下，这些主张如何可能（或只显得）有意义、为真与有用。
+    step2: |-
+      设我们接受关于抽象实体之唯名论，并认为某类实体 *F* 应归为抽象。由此推出：按我们的观点，*F* 不存在。那么，我们如何理解关于 *F* 的思想与谈论表面上既有意义、又为真、还有用？如第三节所述，(1)–(3) 之类主张常被用来促使人承诺抽象实体。因此，关于抽象实体之唯名论若要成为有吸引力的立场，唯名论者便有义务说明：在其表面主项并不存在的情况下，这些主张何以可能（或只显得）有意义、为真、有用。
   - id: 59
     kind: body
     source: |-
       General nominalist strategies seek to provide an account of what we will call “abstract discourse”—roughly, theories or claims such as (1)–(3) that apparently refer to and quantify over entities like numbers, theorems, properties, fictional characters, and so on. Given their commitment to abstract entities, anti-nominalists are well positioned to treat abstract discourse as meaningful, intended literally, true, as well as ontologically committal. In contrast, nominalists must reject some component of the anti-nominalist stance toward abstract discourse. In cataloging various general nominalist strategies, we will leave aside certain approaches that eschew abstract entities, but involve even broader disagreements with anti-nominalists—e.g., idealism, solipsism, and certain forms of skepticism. (On anti-nominalism and idealism, see Hofweber 2016.)[^hofweber-2016]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一般唯名论策略设法为我们所谓"抽象话语"提供说明——大致指 (1)–(3) 之类表面上指称并对数、定理、属性、虚构人物等实体作量化的理论或主张。鉴于其对抽象实体的承诺，反唯名论者很有条件把抽象话语当作有意义的、按字面意图的、真的，并在本体论上有承诺的。相反，唯名论者必须拒斥反唯名论者对抽象话语立场中的某一成分。在编目各种一般唯名论策略时，我们将搁置某些回避抽象实体但对反唯名论有更广泛分歧的进路——例如唯心论、唯我论以及某些形式的怀疑论。（关于反唯名论与唯心论，见 Hofweber 2016。）[^hofweber-2016]
+    step2: |-
+      一般唯名论策略，设法为我们所谓"抽象话语"提供说明——大致指 (1)–(3) 之类表面上指称、并对数、定理、属性、虚构人物等实体作量化的理论或主张。反唯名论者既承诺抽象实体，便有充分条件把抽象话语当作有意义的、按字面理解的、真的，且在本体论上有承诺。唯名论者则必须放弃这一立场中的某一成分。编目各种一般策略时，我们要搁置一些回避抽象实体、却与反唯名论分歧更广的进路——比如唯心论、唯我论，以及某些形式的怀疑论。（关于反唯名论与唯心论，见 Hofweber 2016。）[^hofweber-2016]
   - id: 60
     kind: body
     source: |-
       Perhaps the most radical nominalist view of abstract discourse is *non-cognitivism*, according to which claims like (1)–(3) are without ordinary semantic content. Such a view enjoys little plausibility if we focus solely on the commonalities between abstract discourse and ordinary discourse. This is because (1)–(3) seem unexceptional when compared with parallel claims about concrete entities. There are, however, a range of instrumentalist views regarding our discourse about unobservable entities within scientific theories that, if otherwise defensible, would provide a precedent for accommodating abstract discourse. On these views, claims such as (1)–(3) have no descriptive semantic function and serve instead as “instruments” for systematizing our descriptive claims about concrete entities. Instrumentalist views of this kind have been specifically developed with regard to mathematical discourse and the avoidance of ontological commitment to mathematical entities (see Burgess 1983 and Leng 2010)[^burgess-1983][^leng-2010].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于抽象话语最激进的唯名论观点或许是*非认知主义*：按此说，(1)–(3) 之类主张没有通常的语义内容。若只着眼于抽象话语与日常话语的共通处，这种观点似乎不太可信，因为与关于具体实体的平行主张相比，(1)–(3) 显得并无可异。然而，关于科学理论中不可观察实体话语，已有一系列工具主义观点；这些观点若在其他方面站得住，便为安置抽象话语提供了先例。按这些观点，(1)–(3) 之类主张没有描述性的语义功能，而是充当"工具"，用来系统化我们关于具体实体的描述性主张。这类工具主义观点曾专门就数学话语、以及回避对数学实体的本体论承诺而发展出来（见 Burgess 1983 与 Leng 2010）[^burgess-1983][^leng-2010]。
+    step2: |-
+      最激进的唯名论主张，或属*非认知主义*：(1)–(3) 之类主张并无通常的语义内容。若只看抽象话语与日常话语的共通处，这种观点似乎不太可信，因为与关于具体实体的平行主张相比，(1)–(3) 并无异样。但围绕科学理论中的不可观察实体话语，已有一系列工具主义观点；它们若在其他方面站得住，便为安置抽象话语提供了先例。照这些观点，(1)–(3) 没有描述性的语义功能，只是充当"工具"，用来系统化我们关于具体实体的描述。这类工具主义曾专门针对数学话语、以及回避对数学实体的本体论承诺而发展（见 Burgess 1983、Leng 2010）[^burgess-1983][^leng-2010]。
   - id: 61
     kind: body
     source: |-
       For nominalists who accept that abstract discourse has semantic content yet warrants a kind of non-literal construal, a different strategy is to deny that claims like (1)–(3) are typically used to assert their apparent semantic content and instead communicate metaphorical or figurative information. Such views acknowledge merely apparent commitment to numbers or propositions in claims like (1)–(3) but recast them as “representational aids” rather than entities named by singular terms. The taxonomy of strategies that rely on this approach is controversial. Moreover, several views about the content of abstract discourse may turn out to undermine the possibility of literally denying the existence of abstract entities, since attempts to assert the thesis of nominalism would be surreptitiously non-literal. Figuralist and fictionalist approaches of this sort, which seek to explain the representational contribution of abstract discourse as broadly metaphorical, remain actively debated. (For discussion, see Yablo 2002a, 2002b, 2005, and the entries on fictionalism and fictionalism in the philosophy of mathematics.)[^yablo-2002a]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对于承认抽象话语有语义内容、却主张它需要某种非字面解释的唯名论者，另一条策略是：否认 (1)–(3) 之类主张通常被用来断定其表面语义内容，而是传达隐喻性或比喻性的信息。这类观点承认 (1)–(3) 中对数或命题的承诺只是表面的，却把它们重新表述为"表征辅助物"，而非单称词项所命名的实体。倚赖这一进路的策略分类有争议。此外，若干关于抽象话语内容的观点，可能反过来使"按字面否认抽象实体存在"成为不可能，因为断然主张唯名论论旨本身便会暗中变成非字面的。这类比喻主义与虚构主义进路，把抽象话语的表征贡献大致解释为隐喻性的，至今争论不衰。（讨论见 Yablo 2002a、2002b、2005 与"虚构主义"及"数学哲学中的虚构主义"词条。）[^yablo-2002a]
+    step2: |-
+      对承认抽象话语有语义内容、却主张须作非字面解读的唯名论者来说，还有一条路：否认 (1)–(3) 之类主张通常用于断定其表面语义内容，而认为它们传达的是隐喻性或比喻性的信息。这类观点承认 (1)–(3) 对数或命题的承诺只是表面的，把它们改述为"表征辅助物"，而非单称词项所命名的实体。倚赖这一进路的策略如何分类，尚有争议。此外，某些关于抽象话语内容的观点，可能反过来使"按字面否认抽象实体存在"变得不可能——因为断然主张唯名论论旨本身，就会悄悄成了非字面的说法。这类比喻主义与虚构主义进路，把抽象话语的表征贡献大致解为隐喻性的，至今争论不休。（讨论见 Yablo 2002a、2002b、2005，"虚构主义""数学哲学中的虚构主义"词条。）[^yablo-2002a]
   - id: 62
     kind: body
     source: |-
       For nominalists who grant that abstract discourse is meaningful and intended literally, a remaining alternative is to deny its truth. This strategy sets nominalism about abstract entities in apparent conflict with common sense, since nominalists must plausibly explain away the robust intuition that at least some claims like (1)–(3) are true.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对于承认抽象话语有意义且按字面理解的唯名论者，剩下的一个替代方案是否认其为真。这一策略使关于抽象实体的唯名论与常识显得冲突，因为唯名论者必须可信地把"至少 (1)–(3) 中有些主张为真"这一强烈直觉解释掉。
+    step2: |-
+      对承认抽象话语有意义、且按字面理解的唯名论者来说，剩下的路是否认其为真。这条路使关于抽象实体的唯名论与常识看似冲突：唯名论者必须可信地把"至少 (1)–(3) 中有此主张为真"这一强烈直觉化解掉。
   - id: 63
     kind: body
     source: |-
       An influential strategy for nominalists who take abstract discourse to be meaningful and intended literally is to hold that our alethic intuitions about claims like (1)–(3) are best explained in parallel to our intuitions that Sherlock Holmes is a detective or that Garfield is a cat. All such claims are false *simpliciter* yet true according to familiar and contextually salient fictions. (See, e.g., Field 1980 on mathematical entities and Rosen 1990 on possible worlds.)[^field-1980][^rosen-1990] Although it is not true that Sherlock Holmes is a detective, the following claim is held to be true: according to the Sherlock Holmes stories, Sherlock Holmes is a detective. Once made explicit, speakers are inclined to recognize the distinction between these kinds of claims and the corresponding difference in their truth values. Moreover, for nominalists who accept this sort of fictionalist approach, the denial of claims like (1)–(3) can be paired with the claim that there are contextually salient “fictions” like arithmetic, property theory, or realism about propositions, any of which can be used to explain our apparent confidence in the truth of (1)–(3). Furthermore, the development and adoption of these fictions is explained by their expedience or value in reasoning about concrete entities. For instance, the development of a robust fiction regarding numbers or about a plurality of abstract possible worlds is of value precisely because it allows us to speak and reason in concise or powerful ways about a world of exclusively concrete entities.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对把抽象话语视为有意义且按字面理解的唯名论者，一条有影响的策略是主张：我们关于 (1)–(3) 之类主张的真值直觉，最好平行于我们关于"夏洛克·福尔摩斯是侦探"或"加菲猫是猫"的直觉来解释。所有这些主张都是*无条件地*假的，却按熟悉且在语境中显著的虚构而为真。（例如见 Field 1980 论数学实体与 Rosen 1990 论可能世界。）[^field-1980][^rosen-1990] 虽说"夏洛克·福尔摩斯是侦探"并不为真，下列主张却被认为真：按照福尔摩斯故事，夏洛克·福尔摩斯是侦探。一旦明说出来，说话者便倾向于承认这类主张之别及其真值的相应差异。此外，对于接受这种虚构主义进路的唯名论者，否认 (1)–(3) 之类主张，可与如下主张配对：存在算术、属性论或命题实在论之类语境上显著的"虚构"，其中任何一种都可用来说明我们对 (1)–(3) 之为真的表面确信。而且，这些虚构之发展与采用，可由它们在关于具体实体推理中的便利或价值来解释。例如，发展一套关于数或关于抽象可能世界复多的有力虚构，其价值恰在于它让我们能以简洁或有力的方式谈论、推理一个只含具体实体的世界。
+    step2: |-
+      对把抽象话语视为有意义、且按字面理解的唯名论者来说，一条有影响的策略是：把我们对 (1)–(3) 之类主张的真值直觉，与我们关于"夏洛克·福尔摩斯是侦探"或"加菲猫是猫"的直觉平行地解释。这些主张都*无条件地*为假，却按熟悉且在语境中显著的虚构而为真。（例如见 Field 1980 论数学实体、Rosen 1990 论可能世界。）[^field-1980][^rosen-1990] "夏洛克·福尔摩斯是侦探"固然不真，但下列主张被认为真：按照福尔摩斯故事，夏洛克·福尔摩斯是侦探。一旦明说出来，说话者便愿意承认这两类主张之别，以及真值上的相应差异。而且，对接受这种虚构主义进路的唯名论者来说，否认 (1)–(3) 之类主张时，还可一并主张：存在算术、属性论、命题实在论之类语境上显著的"虚构"，其中任何一种都能说明我们对 (1)–(3) 之为真的表面确信。这些虚构之所以被发展、被采用，则由它们在关于具体实体的推理中的便利或价值来解释：例如，一套关于数、或关于抽象可能世界之复多的有力虚构，价值恰在于它让我们能简洁有力地谈论和推理一个只含具体实体的世界。
   - id: 64
     kind: body
     source: |-
       In developing general nominalist strategies, efforts to provide “paraphrases” of abstract discourse play a significant but controversial role. For example, some nominalists have proposed that we ought to reject the following sort of claim as false given its ontological commitment to the number two:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在发展一般唯名论策略时，为抽象话语提供"改述"的努力起着重要而有争议的作用。例如，一些唯名论者提议，鉴于下列主张在本体论上承诺了数二，我们应将其判为假：
+    step2: |-
+      发展一般唯名论策略时，"改述"抽象话语的努力作用重要，也颇有争议。例如，有些唯名论者提议：下列主张在本体论上承诺了数二，故应判为假：
   - id: 65
     kind: body
     source: |-
       **(4)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(4)**
+    step2: |-
+      **(4)**
   - id: 66
     kind: body
     source: |-
       Two is the number of solar gas giants.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      二是太阳系气态巨行星的数目。
+    step2: |-
+      二是太阳系气态巨行星的数目。
   - id: 67
     kind: body
     source: |-
       At the same time, the nominalist who pursues this paraphrase strategy holds the following sentence, (5), to be true and lacking the ontological commitment of (4) to the abstract entity, the number two:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      同时，采取这一改述策略的唯名论者认为下列句子 (5) 为真，且不像 (4) 那样对抽象实体即数二有本体论承诺：
+    step2: |-
+      同时，采取这一改述策略的唯名论者认为下列句子 (5) 为真，且不像 (4) 那样承诺抽象实体"数二"：
   - id: 68
     kind: body
     source: |-
       **(5)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(5)**
+    step2: |-
+      **(5)**
   - id: 69
     kind: body
     source: |-
       There is a solar gas giant *x* and a solar gas giant *y* and *x* is distinct from *y* and every solar gas giant is either identical to *x* or identical to *y*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      存在一个太阳系气态巨行星 *x* 和一个太阳系气态巨行星 *y*，*x* 不同于 *y*，并且每一个太阳系气态巨行星要么与 *x* 同一，要么与 *y* 同一。
+    step2: |-
+      存在一个太阳系气态巨行星 *x*、一个太阳系气态巨行星 *y*；*x* 不同于 *y*；且任一太阳系气态巨行星要么与 *x* 同一，要么与 *y* 同一。
   - id: 70
     kind: body
     source: |-
       The final component of this paraphrase strategy holds that our ontological commitments are determined by nominalist-friendly sentences like (5) that serve as “replacements” of claims like (4). Importantly, if (4) and its replacement (5) are supposed to be synonymous, it is unclear how only one could be true or why the nominalist is obliged to accept only the ontological commitments of (5) rather than (4). If, however, the proffered replacement for (4) need not be synonymous, the nominalist who pursues this strategy must explain precisely why it is a satisfactory replacement that obviates the ontological commitments of (4). For these and other reasons, the role of paraphrase in ontological debates, especially those regarding abstract entities, remains a controversial topic in nominalist metaphysics (see Alston 1958, Keller 2015, von Solodkoff 2014, Melia 2000)[^alston-1958][^keller-2015][^melia-2000][^solodkoff-2014].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一改述策略的最后一环是：我们的本体论承诺由 (5) 之类亲唯名论的句子决定，这些句子充当 (4) 之类主张的"替代者"。重要的是，若 (4) 及其替代者 (5) 意在同义，便不清楚何以只有一个能为真，也不清楚唯名论者何以有义务只接受 (5) 而非 (4) 的本体论承诺。然而，若为 (4) 提供的替代者不必同义，则采取此策略的唯名论者就必须准确说明：它为何是一个令人满意的替代者、从而免除了 (4) 的本体论承诺。由于这些及其他理由，改述在本体论论战——尤其关于抽象实体的论战——中的作用，仍是唯名论形而上学中有争议的题目（见 Alston 1958、Keller 2015、von Solodkoff 2014、Melia 2000）[^alston-1958][^keller-2015][^melia-2000][^solodkoff-2014]。
+    step2: |-
+      这一改述策略的最后一环是：我们的本体论承诺，由 (5) 之类亲唯名论的句子决定——它们充当 (4) 之类主张的"替代者"。要紧的是，若 (4) 与其替代者 (5) 意在同义，便说不清何以只有一方为真，也说不清唯名论者何以只该接受 (5) 而非 (4) 的本体论承诺。可若替代者不必同义，采取此策略的唯名论者就须准确说明：它何以是令人满意的替代者，从而免除了 (4) 的本体论承诺。由于这些及其他理由，改述在本体论论战——尤其在抽象实体论战——中的作用，至今仍是唯名论形而上学中有争议的题目（见 Alston 1958、Keller 2015、von Solodkoff 2014、Melia 2000）[^alston-1958][^keller-2015][^melia-2000][^solodkoff-2014]。
   - id: 71
     kind: body
     source: |-
       Burgess and Rosen (1997, 2005) draw an influential distinction among nominalist strategies which is useful for understanding the structure and aims of various approaches. They divide *hermeneutic nominalists* who hold that “nominalist disbelief in numbers and their ilk is in the fullest sense compatible with belief in current mathematics and science” (p. 7) from *revolutionary nominalists* who take as their goal “reconstruction or revision: the production of novel mathematical and scientific theories to replace current theories” (p. 6). (On this distinction, see Hellman 2001.)[^hellman-2001] This distinction draws out a key question for would-be nominalists: how can we reconcile the nominalist rejection of abstract entities with the role abstract discourse plays in our best scientific theories? Broadly speaking, Burgess and Rosen’s revolutionary nominalist approaches seek to produce “novel theories by assigning novel meanings to the words of current theories” in order to “permit the nominalist to speak and write just like everyone else while doing mathematics or science” while, at the same time, providing a nominalistic reinterpretation of such claims “while doing philosophy” (p. 6). In contrast, their hermeneutic nominalist does not aim to produce anything novel by way of reconstrual or reinterpretation. Instead, the hermeneutic nominalist claims that nominalist theories are ultimately “an analysis of what really ‘deep down’ words of current theories have meant all along, despite appearances ‘on the surface’.” Producing comprehensive and satisfactory nominalist paraphrases is therefore a way to demonstrate that the apparent commitment of mathematics and science to abstract entities is *merely* apparent. Each stance takes the production of nominalist theories that avoid ontological commitment to abstract entities as significant; however, they differ over what the aim of these “nominalistic construals” ought to be (Burgess 1998, Leng 2010, Colyvan 2006)[^burgess-1998][^colyvan-2006][^leng-2010].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Burgess 与 Rosen（1997、2005）在唯名论策略间作了一个有影响的区分，有助于理解各种进路的结构与目标。他们把*解释学唯名论者*与*革命性唯名论者*分开：前者主张"唯名论者对数及其同类的不信，在最充分的意义上与对当前数学与科学的信念相容"（第 7 页）；后者以"重构或修订：生产新的数学与科学理论以取代当前理论"为目标（第 6 页）。（关于这一区分，见 Hellman 2001。）[^hellman-2001] 这一区分引出准唯名论者的一个关键问题：我们如何把唯名论者对抽象实体的拒斥，与抽象话语在我们最好的科学理论中所起的作用协调起来？大致说，Burgess 与 Rosen 的革命性唯名论进路，力求"通过给当前理论的词语指派新意义来生产新理论"，以便"让唯名论者在做数学或科学时能像别人一样说和写"，同时"在做哲学时"对这类主张给出唯名论式的重新解释（第 6 页）。相反，他们的解释学唯名论者并不意在通过重构或重新解释生产任何新东西；解释学唯名论者主张，唯名论理论终究是"对当前理论的词语'深层'一直意谓着什么的分析，尽管'表面上'另有样子"。因此，生产全面而令人满意的唯名论改述，就是表明数学与科学对抽象实体的表面承诺*仅仅是*表面的。两种立场都看重生产回避对抽象实体本体论承诺的唯名论理论；分歧在于这些"唯名论式解释"的目标应当是什么（Burgess 1998、Leng 2010、Colyvan 2006）[^burgess-1998][^colyvan-2006][^leng-2010]。
+    step2: |-
+      Burgess 与 Rosen（1997、2005）在唯名论策略间作了一个有影响的区分，有助于理解各路进路的结构与目标。他们分出*解释学唯名论者*与*革命性唯名论者*：前者主张"唯名论者对数及其同类的不信，在最充分的意义上与对当前数学和科学的信念相容"（第 7 页）；后者则以"重构或修订：造出新的数学与科学理论，取代当前理论"为目标（第 6 页）。（关于这一区分，见 Hellman 2001。）[^hellman-2001] 这一区分逼出准唯名论者的一个关键问题：唯名论者对抽象实体的拒斥，如何与抽象话语在我们最好的科学理论中的作用相协调？大体说，革命性进路力求"通过给当前理论的词语指派新意义来造出新理论"，以便"让唯名论者做数学或科学时能像旁人一样说和写"，同时"做哲学时"给这类主张一套唯名论式的重新解释（第 6 页）。解释学唯名论者则不同：他们不靠重构或重释去造什么新东西，而主张唯名论理论终究是"对当前理论的词语'深层'一直意谓着什么的分析，尽管'表面上'另有样子"。于是，生产全面而令人满意的唯名论改述，便是要表明：数学与科学对抽象实体的承诺*仅仅是*表面的。两种立场都看重造出回避抽象实体承诺的唯名论理论；分歧在于这些"唯名论式解释"该以什么为目标（Burgess 1998、Leng 2010、Colyvan 2006）[^burgess-1998][^colyvan-2006][^leng-2010]。
   - id: 72
     kind: body
     source: |-
       Nominalists who accept what is often called Meinongianism aim to preserve abstract discourse and its truth but reject certain theses regarding language and ontology (see Routley 1980 [2018]: 14; and Priest 2005: vii, 134–155)[^priest-2005][^routley-1980]. For those who accept the Quinean view of ontological commitment, the domains of what there is and of what exists are coextensive, so, of necessity, there are no objects that do not exist (see the entry on ontological commitment). In opposition, Meinongians assert that there are objects that do not exist (see Meinong 1904 and Parsons 1980, and the entry on nonexistent objects)[^meinong-1904][^parsons-1980]. When implemented by nominalists, the Meinongian approach permits the positing of nonexistent entities as referents of singular terms and the values of variables and, in turn, upholds the truth of claims like (1)–(3) even while denying that abstract entities actually exist. The Meinongian tradition has received comparatively limited discussion as a specific tool for would-be nominalists. This is perhaps because nonexistent objects are subject to some of the same metaphysical objections as abstract entities.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      接受通常所称迈农主义的唯名论者，意在保留抽象话语及其真值，却拒斥某些关于语言与本体论的论旨（见 Routley 1980 [2018]: 14；与 Priest 2005: vii, 134–155）[^priest-2005][^routley-1980]。对接受蒯因式本体论承诺观的人来说，"有什么"的论域与"存在什么"的论域外延相同；因此，必然没有不存在的对象（参"本体论承诺"词条）。与此相反，迈农主义者主张存在不存在的对象（见 Meinong 1904 与 Parsons 1980，及"不存在的对象"词条）[^meinong-1904][^parsons-1980]。唯名论者采用迈农主义进路时，便可以把不存在的实体设定为单称词项的指称对象与变元的值，进而维护 (1)–(3) 之类主张之为真，同时又否认抽象实体实际存在。作为准唯名论者的专门工具，迈农主义传统所获讨论相对有限。这或许是因为不存在的对象会遭受与抽象实体相同的某些形而上学反对。
+    step2: |-
+      接受通常所谓迈农主义的唯名论者，意在保留抽象话语及其真值，却拒斥某些关于语言与本体论的论旨（见 Routley 1980 [2018]: 14；Priest 2005: vii, 134–155）[^priest-2005][^routley-1980]。按蒯因式本体论承诺观，"有什么"的论域与"存在什么"的论域外延相同，故必然没有不存在的对象（参"本体论承诺"词条）。迈农主义者反其道而行：主张存在不存在的对象（见 Meinong 1904、Parsons 1980，"不存在的对象"词条）[^meinong-1904][^parsons-1980]。唯名论者采用迈农主义进路，便可把不存在的实体设定为单称词项的指称对象与变元的值，从而维护 (1)–(3) 之类主张之为真，同时否认抽象实体实际存在。作为准唯名论者的专门工具，迈农主义传统所获讨论相对有限——或许因为不存在的对象会招致与抽象实体相同的某些形而上学反对。
   - id: 73
     kind: body
     source: |-
