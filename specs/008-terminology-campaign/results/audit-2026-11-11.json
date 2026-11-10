@@ -6,10 +6,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "未查证": 5557,
-  "查无": 2196,
-  "不一致": 406,
-  "一致": 603
+  "未查证": 5507,
+  "查无": 2236,
+  "不一致": 409,
+  "一致": 610
  },
  "results": [
   {
@@ -81077,9 +81077,9 @@
    "table": "术语",
    "line": 4629,
    "term": "transient polymorphism",
-   "trans": "暂态多态性",
-   "basis": "学界通行译名（附原文备考）；凭证 2026-11-09",
-   "status": "不一致",
+   "trans": "过渡性多态性（亦作“暂态多态性”）",
+   "basis": "审定名词库（termonline-all·遗传学名词，2026-11-11 浏览器通道凭证）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -82052,9 +82052,11 @@
    "term": "Two Visual Systems Model",
    "trans": "双视觉系统模型",
    "basis": "认知科学界通行译法（Goodale–Milner）；凭证 2026-11-06",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82062,9 +82064,11 @@
    "term": "two-dimensional semantics",
    "trans": "二维语义学",
    "basis": "学界惯例（查尔莫斯框架通译）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82072,9 +82076,11 @@
    "term": "two-layer structure",
    "trans": "双层结构",
    "basis": "本领域通行（优先基+偏好）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82082,9 +82088,18 @@
    "term": "type I error",
    "trans": "第一类错误",
    "basis": "学界惯例（统计推断通行；括注“假阳性”）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "第一类错误",
+     "en": "type I error",
+     "source": "管理科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82092,9 +82107,18 @@
    "term": "type II error",
    "trans": "第二类错误",
    "basis": "学界惯例（统计推断通行；括注“假阴性”）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "第二类错误",
+     "en": "type II error",
+     "source": "管理科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82102,9 +82126,54 @@
    "term": "Type Theory",
    "trans": "类型论",
    "basis": "逻辑学界通行译法；凭证 2026-11-06",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "类型论",
+     "en": "type theory",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "类型论",
+     "en": "type theory",
+     "source": "心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "分支类型论",
+     "en": "ramified theory of types",
+     "source": "数学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "性格机能类型论",
+     "en": "theory of character function type",
+     "source": "心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "气质血型说",
+     "en": "blood type theory of temperament",
+     "source": "心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "类型论",
+     "en": "type theory",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "基于类型理论的方法",
+     "en": "type theory-based method",
+     "source": "海峡两岸信息科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82112,9 +82181,36 @@
    "term": "type-form",
    "trans": "类型形式",
    "basis": "构词直译（ Naturally apt to be present-in 的共相形态）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "植被型",
+     "en": "vegetation form;vegetation type",
+     "source": "风景园林名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "植被类型",
+     "en": "vegetation form;vegetation type ",
+     "source": "草学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "植被型",
+     "en": "vegetation type\",\"vegetation form",
+     "source": "海峡两岸植物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "植被型",
+     "en": "vegetation form\",\"vegetation type",
+     "source": "海峡两岸生态学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82122,9 +82218,11 @@
    "term": "typical ambiguity",
    "trans": "典型歧义",
    "basis": "类型论通行译名（Quine/Specker）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82132,9 +82230,30 @@
    "term": "typology",
    "trans": "预表论（type 预表；antitype 所预表者）",
    "basis": "学界通行汉译（圣经研究；和合本传统）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "模式概念",
+     "en": "typology",
+     "source": "动物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "类型学",
+     "en": "typology",
+     "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模式概念",
+     "en": "typology",
+     "source": "海峡两岸动物学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82154,9 +82273,11 @@
    "term": "U.S. Coast Survey",
    "trans": "美国海岸测量局",
    "basis": "机构史通行译名（1867–1874 年皮尔斯任局长）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82164,9 +82285,11 @@
    "term": "Überlieferung",
    "trans": "传承（伽达默尔语境）",
    "basis": "学界惯例（伽达默尔研究通行）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82174,9 +82297,11 @@
    "term": "ubhayābhāva",
    "trans": "双无非存在",
    "basis": "否定语义译（absence of both A and B）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82184,9 +82309,11 @@
    "term": "ubiquity",
    "trans": "遍在性",
    "basis": "学界通行（Inman 语；与全在区分，作属性名）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82194,9 +82321,11 @@
    "term": "Udasi",
    "trans": "乌达西派",
    "basis": "锡克研究通行（室利·昌德所创游方苦修系）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82204,9 +82333,11 @@
    "term": "uddeśa",
    "trans": "列举",
    "basis": "正理方法论义译（enumeration；三步法第一步）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82214,9 +82345,11 @@
    "term": "udvāpa",
    "trans": "摒除",
    "basis": "语言习得义译（rejection；与 āvāpa 集取对举）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82224,9 +82357,11 @@
    "term": "ultimate control",
    "trans": "终极控制",
    "basis": "自由意志论通行",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82234,9 +82369,11 @@
    "term": "ultimate felicity",
    "trans": "终极幸福",
    "basis": "犹太-伊斯兰哲学通行（felicity）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82256,9 +82393,11 @@
    "term": "ultimatum game",
    "trans": "最后通牒博弈",
    "basis": "实验经济学通行汉译（亦作“最后通牒游戏”）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82266,9 +82405,11 @@
    "term": "Ultimum",
    "trans": "终极（Ultimum）",
    "basis": "学界通行译名（布洛赫研究文献）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82276,9 +82417,11 @@
    "term": "ultra-intuitionism",
    "trans": "超直觉主义",
    "basis": "本词条首译（Yessenin-Volpin）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82286,9 +82429,48 @@
    "term": "ultrafilter",
    "trans": "超滤子",
    "basis": "学界惯例（集合论/拓扑通行译名）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "超滤器",
+     "en": "ultrafilter",
+     "source": "生物化学与分子生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "超滤机",
+     "en": "ultrafilter",
+     "source": "化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "超滤子",
+     "en": "ultrafilter",
+     "source": "数学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "超滤机",
+     "en": "ultrafilter",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "超滤器",
+     "en": "ultrafilter",
+     "source": "海峡两岸生物化学与分子生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "超滤器",
+     "en": "ultrafilter",
+     "source": "海峡两岸药学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82296,9 +82478,11 @@
    "term": "umbrella view",
    "trans": "伞状观",
    "basis": "自译裁定（Rettler & Bailey 对“万物皆对象”立场的定名；凭证 2026-11-07）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82306,9 +82490,11 @@
    "term": "unanimity preservation",
    "trans": "全体一致保持",
    "basis": "学界通行（判断聚合文献）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82316,9 +82502,18 @@
    "term": "unbiasedness",
    "trans": "无偏性",
    "basis": "学界惯例（统计学通行）；凭据 2026-11-02",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "无偏性",
+     "en": "unbiasedness",
+     "source": "食品卫生学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82326,9 +82521,11 @@
    "term": "unbounded iteration",
    "trans": "无界迭代",
    "basis": "程序逻辑通行译法；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82336,9 +82533,120 @@
    "term": "uncertainty",
    "trans": "不确定性",
    "basis": "学界惯例（决策论与认识论通行）；与 indeterminacy“非确定性”分列；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "不确定性",
+     "en": "uncertainty",
+     "source": "经济学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "不确定性",
+     "en": "uncertainty",
+     "source": "食品科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "不确定度",
+     "en": "uncertainty",
+     "source": "化工名词（四）安全·环保·可持续发展"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "不确定度",
+     "en": "uncertainty",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "不确定度",
+     "en": "uncertainty",
+     "source": "化工名词(三)化学工程基础"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "不确定度",
+     "en": "uncertainty",
+     "source": "化学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "不确定性",
+     "en": "uncertainty",
+     "source": "管理科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "金融不确定性",
+     "en": "uncertainty",
+     "source": "管理科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "不确定性",
+     "en": "uncertainty",
+     "source": "药学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "不确定性",
+     "en": "uncertainty",
+     "source": "地理信息系统名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "不确定性",
+     "en": "uncertainty",
+     "source": "地理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "不确定性",
+     "en": "uncertainty",
+     "source": "化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "不确定性",
+     "en": "uncertainty",
+     "source": "海峡两岸大气科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "不确定度",
+     "en": "uncertainty",
+     "source": "海峡两岸化学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "不确定性",
+     "en": "uncertainty",
+     "source": "海峡两岸地理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "不确定性",
+     "en": "uncertainty",
+     "source": "海峡两岸地理信息系统名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "不确定度",
+     "en": "uncertainty",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "不确定度",
+     "en": "uncertainty",
+     "source": "食品卫生学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82346,9 +82654,11 @@
    "term": "unconditional competence",
    "trans": "无条件胜任度",
    "basis": "学界惯例（本词条定名）；凭据 2026-11-02",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82356,9 +82666,11 @@
    "term": "unconditional independence",
    "trans": "无条件独立",
    "basis": "学界惯例（本词条定名）；凭据 2026-11-02",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82380,9 +82692,11 @@
    "term": "unconditional security",
    "trans": "无条件安全",
    "basis": "密码学通行译名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82390,9 +82704,11 @@
    "term": "uncosmopolitan",
    "trans": "非世界主义（的）",
    "basis": "本条术语（作者刻意弱于 anti-cosmopolitan）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82400,9 +82716,11 @@
    "term": "undecidability",
    "trans": "不可判定性",
    "basis": "递归论通行译法；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82410,9 +82728,11 @@
    "term": "undefinability",
    "trans": "不可定义性",
    "basis": "模型论通行译法；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82445,9 +82765,11 @@
    "term": "underlying situation (Tatbestand)",
    "trans": "底层事况",
    "basis": "本词条首译（与 Sachverhalt“事态”分列，源文括注德文）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82455,9 +82777,11 @@
    "term": "underpervades",
    "trans": "周遍不足",
    "basis": "藏传因明通行（khyab chung ba）；格鲁派批评果让巴“否定不足”之术语",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82496,9 +82820,11 @@
    "term": "understanding (faculty)",
    "trans": "理智",
    "basis": "学界惯例（与“感性”对举的认知能力）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82506,9 +82832,11 @@
    "term": "undo the done",
    "trans": "使已成之事未成",
    "basis": "学界通行（Damian 研究文献译法；undoing of the done 作“取消已成之事”）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82516,9 +82844,11 @@
    "term": "undo the done",
    "trans": "使已成之事未成（已废弃，见新行）",
    "basis": "学界通行（Damian 研究文献译法；undoing of the done 作“取消已成之事”）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82526,9 +82856,11 @@
    "term": "undo the done",
    "trans": "取消已成之事",
    "basis": "用户裁定 2026-11-10（词条内动词式与名词式统一主形；完整句式 bring it about that what has been done has not been done 作“使已成之事成为未曾做过”）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82536,9 +82868,11 @@
    "term": "unfairness",
    "trans": "不公",
    "basis": "与“公平”对举（vice of unfairness 不公之恶）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82566,9 +82900,11 @@
    "term": "unidimensionally aligned",
    "trans": "单维对齐（的）",
    "basis": "学界通行（判断聚合文献 unidimensional alignment）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82576,9 +82912,11 @@
    "term": "unificationist account",
    "trans": "统一论说明",
    "basis": "学界通行（Friedman 1974、Kitcher 1989）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82586,9 +82924,11 @@
    "term": "unified theory of punishment",
    "trans": "惩罚统一论",
    "basis": "学界通行（Brooks 术语）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82596,9 +82936,11 @@
    "term": "uninorm",
    "trans": "uninorm",
    "basis": "无通行汉译，正文保留英文；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82606,9 +82948,11 @@
    "term": "uninstantiated",
    "trans": "未被实例化",
    "basis": "学界惯例（属性/共相用语）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82616,9 +82960,11 @@
    "term": "Unitarianism",
    "trans": "一神论派",
    "basis": "学界通行（宗教史通译；与 monotheism 一神论相区别）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82626,9 +82972,11 @@
    "term": "unitary complex (Einheitskomplex)",
    "trans": "统一的复合体",
    "basis": "本词条首译（源文括注德文）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82636,9 +82984,18 @@
    "term": "units of selection",
    "trans": "选择的单位",
    "basis": "学界通行译名（生物学哲学文献）；凭证 2026-11-07",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "选择单位",
+     "en": "unit of selection",
+     "source": "自然辩证法名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82646,9 +83003,11 @@
    "term": "unity of intellect",
    "trans": "理智统一性",
    "basis": "阿威罗伊主义论题通行译法（unity of the intellect）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -82656,9 +83015,18 @@
    "term": "unity of opposites",
    "trans": "对立统一",
    "basis": "学界通行（亦作“对立面的统一”）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "对立统一规律",
+     "en": "law of unity of opposites",
+     "source": "马克思主义"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
