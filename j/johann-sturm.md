@@ -17,7 +17,7 @@
 
 1669 年 8 月 15 日，施图尔姆受聘为阿尔多夫大学数学与物理学教授，继阿布迪亚斯·特鲁（1597–1669）之职，任至 1703 年卒。门下知名者有瑞士博学家约翰·雅各布·舍伊希策（1672–1733）；德国数学家、自然哲学家、百科全书家约翰·加布里埃尔·多佩尔迈尔（1671–1750）；约翰·海因里希·米勒（1671–1731），后亦继其阿尔多夫数学物理教席；马丁·克诺雷（1657–1699）；及克里斯蒂安·沃尔夫（1679–1754）之师格奥尔格·阿尔布雷希特·哈姆贝格尔（1662–1716）。除教授之职，施图尔姆两任阿尔多夫大学校长，九任哲学系主任。
 
-施图尔姆凡三娶：元配芭芭拉·约翰娜·凯斯勒，1664 年成婚，1679 年卒；继室玛丽亚·萨洛梅·赫希施泰特，1680 年成婚，1691 年卒；三娶多罗特娅·伊丽莎白·戈林，1692 年成婚，后卒于施图尔姆。有子女十三人，以莱昂哈德·克里斯托夫·施图尔姆最为知名。
+施图尔姆凡三娶：元配芭芭拉·约翰娜·凯斯勒，1664 年成婚，1679 年卒；继室玛丽亚·萨洛梅·赫希施泰特，1680 年成婚，1691 年卒；三娶多罗特娅·伊丽莎白·戈林，1692 年成婚，后施图尔姆而卒。有子女十三人，以莱昂哈德·克里斯托夫·施图尔姆最为知名。
 
 1703 年 12 月 25 日，施图尔姆殁于阿尔多夫，实两月前中风之余症所致。人谓其
 
@@ -31,27 +31,27 @@
 
 ### 1.1 施图尔姆思想的来源
 
-施图尔姆既取折衷之路（见第 2 节），其所涉猎依托者亦广。前苏格拉底作者有 Thales、Pythagoras、Heraclitus、Parmenides、Empedocles、Democritus；古典时期则有 Hippocrates、Plato、Aristotle、Epicurus、Euclid、Archimedes。当时学院哲学家的生涯为亚里士多德课程所笼罩，故施图尔姆称引 Aristotle（尤重其《物理学》）尤多，过于他家。罗马作者亦在其取资之列：斯多亚派有 Cicero、Seneca、Pliny the Elder、Plutarch，怀疑派有 Sextus Empiricus、Aulus Gellius。其余如亚历山大里亚的 Potamon——施图尔姆以之为折衷哲学之首倡者——以及 Galen、Diogenes Laërtius；后者乃近代早期学者探究古代哲学之要籍。
+施图尔姆既取折衷之路（见第 2 节），其所涉猎依托者亦广。前苏格拉底作者有泰勒斯（Thales）、毕达哥拉斯（Pythagoras）、赫拉克利特（Heraclitus）、巴门尼德（Parmenides）、恩培多克勒（Empedocles）、德谟克利特（Democritus）；古典时期则有希波克拉底（Hippocrates）、柏拉图（Plato）、亚里士多德（Aristotle）、伊壁鸠鲁（Epicurus）、欧几里得（Euclid）、阿基米德（Archimedes）。当时学院哲学家的生涯为亚里士多德课程所笼罩，故施图尔姆称引亚里士多德（尤重其《物理学》）尤多，过于他家。罗马作者亦在其取资之列：斯多亚派有西塞罗（Cicero）、塞涅卡（Seneca）、老普林尼（Pliny the Elder）、普鲁塔克（Plutarch），怀疑派有塞克斯都·恩披里柯（Sextus Empiricus）、奥卢斯·盖利乌斯（Aulus Gellius）。其余如亚历山大的波塔蒙（Potamon of Alexandria）——施图尔姆以之为折衷哲学之首倡者——以及盖伦（Galen）、第欧根尼·拉尔修（Diogenes Laërtius）；后者乃近代早期学者探究古代哲学之要籍。
 
-施图尔姆于教父著作亦不陌生，尝举 Clemens of Alexandria、Origen of Alexandria、Lucius Caecilius Firmianus Lactantius；且以教父为折衷之徒。
+施图尔姆于教父著作亦不陌生，尝举亚历山大的克莱门（Clemens of Alexandria）、亚历山大的奥利金（Origen of Alexandria）、拉克坦提乌斯（Lactantius）；且以教父为折衷之徒。
 
-施图尔姆深于亚里士多德评注之统绪。文艺复兴时重现的希腊注家（Schmitt 1983）[^schmitt-1983]，若 Iamblichus、Alexander of Aphrodisias、Themistius、Ammonius Hermeae、Simplicius of Cilicia、Philoponus（“语法学家约翰”）、Olympiodorus the Younger；阿拉伯注家若 Avicenna、Averroës；拉丁注家若 Albertus Magnus、Thomas Aquinas、Duns Scotus、Durandus of St. Pourçain、William of Ockham，皆所谙悉。文艺复兴以降，亚里士多德派与人文主义者同趋一途（Schmitt 1983）[^schmitt-1983]；施图尔姆沿之，谓希腊注家视拉丁注家更为可信，亦更得 Aristotle 之本旨（PE I: 序言）。
+施图尔姆深于亚里士多德评注之统绪。文艺复兴时重现的希腊注家（Schmitt 1983）[^schmitt-1983]，若杨布里科斯（Iamblichus）、阿弗罗狄西亚的亚历山大（Alexander of Aphrodisias）、特米斯提乌斯（Themistius）、赫尔米亚的阿莫尼俄斯（Ammonius Hermeae）、辛普里丘（Simplicius of Cilicia）、菲洛波努斯（Philoponus，即“语法学家约翰”）、小奥林匹奥多罗斯（Olympiodorus the Younger）；阿拉伯注家若阿维森纳（Avicenna）、阿威罗伊（Averroës）；拉丁注家若大阿尔伯特（Albertus Magnus）、托马斯·阿奎那（Thomas Aquinas）、邓斯·司各脱（Duns Scotus）、圣普尔桑的杜兰都斯（Durandus of St. Pourçain）、奥卡姆的威廉（William of Ockham），皆所谙悉。文艺复兴以降，亚里士多德派与人文主义者同趋一途（Schmitt 1983）[^schmitt-1983]；施图尔姆沿之，谓希腊注家视拉丁注家更为可信，亦更得亚里士多德之本旨（PE I: 序言）。
 
-施图尔姆取资于亚里士多德主义诸家甚广：上自中世纪经院作者如 Gabriel Biel，下逮文艺复兴与近代早期晚段之经院学者。后者同意大利有 Julius Caesar Scaliger、Andrea Caesalpino、Jacopo Zabarella、Giulio Pace、Francisco Lana de Terzi；荷兰有 Gijsbert Voet（Voetius）；西班牙、葡萄牙有 Gómez de Pereira、Pedro da Fonseca、Francisco de Toledo、Antonio Rubio、Francisco Suárez、Gabriel Vásquez、Pedro Hurtado de Mendoza、Rodrigo de Arriaga；法国有 Samuel Maresius、Honoré Fabri、Jean Baptiste Du Hamel、Pierre Daniel Huet；英国有 John Case、Gilbert Jack（Jacchaeus）；德国有 Daniel Sennert、Christoph Scheibler、Johannes Zeisold、Johann Sperling、Jakob Thomasius、Erhard Weigel。施图尔姆于德国学院哲学之全局知之甚稔：诸家各擅其域，影响甚著（见 Wundt 1938）[^wundt-1938]；或则为施图尔姆之同僚、师门，Zeisold 与 Weigel 即其例。
+施图尔姆取资于亚里士多德主义诸家甚广：上自中世纪经院作者如加布里埃尔·比尔（Gabriel Biel），下逮文艺复兴与近代早期晚段之经院学者。后者同意大利有尤利乌斯·凯撒·斯卡利杰（Julius Caesar Scaliger）、安德烈亚·切萨尔皮诺（Andrea Caesalpino）、贾科莫·萨巴雷拉（Jacopo Zabarella）、朱利奥·帕切（Giulio Pace）、弗朗切斯科·拉纳·德·泰尔齐（Francisco Lana de Terzi）；荷兰有吉斯伯特·沃埃修斯（Gijsbert Voet）；西班牙、葡萄牙有戈麦斯·佩雷拉（Gómez de Pereira）、佩德罗·达·丰塞卡（Pedro da Fonseca）、弗朗西斯科·德·托莱多（Francisco de Toledo）、安东尼奥·鲁维奥（Antonio Rubio）、弗朗西斯科·苏亚雷斯（Francisco Suárez）、加布里埃尔·巴斯克斯（Gabriel Vásquez）、佩德罗·乌尔塔多·德·门多萨（Pedro Hurtado de Mendoza）、罗德里戈·德·阿里亚加（Rodrigo de Arriaga）；法国有萨缪尔·马雷修斯（Samuel Maresius）、奥诺雷·法布里（Honoré Fabri）、让·巴蒂斯特·迪阿梅尔（Jean Baptiste Du Hamel）、皮埃尔·丹尼尔·于埃（Pierre Daniel Huet）；英国有约翰·凯斯（John Case）、吉尔伯特·杰克（Gilbert Jack，Jacchaeus）；德国有丹尼尔·森纳特（Daniel Sennert）、克里斯托夫·沙伊布勒（Christoph Scheibler）、约翰·蔡索尔德（Johannes Zeisold）、约翰·施佩林（Johann Sperling）、雅各布·托马修斯（Jakob Thomasius）、埃哈德·魏格尔（Erhard Weigel）。施图尔姆于德国学院哲学之全局知之甚稔：诸家各擅其域，影响甚著（见 Wundt 1938）[^wundt-1938]；或则为施图尔姆之同僚、师门，蔡索尔德与魏格尔即其例。
 
-施图尔姆亦熟于人文主义者，如 Lorenzo Valla、Juan Louis Vives、Philip Melanchthon、Pierre de la Ramée。其取资又及近代早期自然哲学家：显微镜家若 Marcello Malpighi、Antonie Philips van Leeuwenhoek、Nehemiah Grew；天文学家若 Nicolaus Copernicus、Tycho Brahe、Galileo Galilei。文艺复兴与近代早期之医家、解剖学家，若 Jean Fernel、William Harvey、Claude Perrault、Jean Pecquet，亦所稔知。
+施图尔姆亦熟于人文主义者，如劳伦佐·瓦拉（Lorenzo Valla）、胡安·路易斯·比韦斯（Juan Louis Vives）、菲利普·梅兰希顿（Philip Melanchthon）、皮埃尔·德·拉梅（Pierre de la Ramée）。其取资又及近代早期自然哲学家：显微镜家若马尔切洛·马尔皮基（Marcello Malpighi）、安东尼·菲利普斯·范·列文虎克（Antonie Philips van Leeuwenhoek）、尼希米亚·格鲁（Nehemiah Grew）；天文学家若尼古拉·哥白尼（Nicolaus Copernicus）、第谷·布拉赫（Tycho Brahe）、伽利略·伽利莱（Galileo Galilei）。文艺复兴与近代早期之医家、解剖学家，若让·费尔内尔（Jean Fernel）、威廉·哈维（William Harvey）、克洛德·佩罗（Claude Perrault）、让·佩凯（Jean Pecquet），亦所稔知。
 
-炼金术文献若《赫尔墨斯文集》（*Corpus Hermeticum*）、Paracelsus、Jan Baptista van Helmont、Athanasius Kircher，以及原子论者 Lucretius、Pierre Gassendi，施图尔姆皆有所知，然评价均不甚高。
+炼金术文献若《赫尔墨斯文集》（*Corpus Hermeticum*）、帕拉塞尔苏斯（Paracelsus）、让·巴普蒂斯塔·范·赫尔蒙特（Jan Baptista van Helmont）、阿塔纳修斯·基歇尔（Athanasius Kircher），以及原子论者卢克莱修（Lucretius）、皮埃尔·伽桑狄（Pierre Gassendi），施图尔姆皆有所知，然评价均不甚高。
 
-十七世纪哲学家中，施图尔姆于折衷哲学与科学方法取资于 Francis Bacon 与 Gerrit Janszoon Vos（Vossius）。于 Spinoza、Leibniz 的自然观则加驳难，又顺笔及于 Thomas Hobbes、Kenelm Digby、Blaise Pascal、Isaac Newton。剑桥柏拉图主义者 Henry More、Ralph Cudworth，亦在所驳之列。至于笛卡尔一系，则有所取：René Descartes、Johann Clauberg、Géraud de Cordemoy、Louis de la Forge、Antoine le Grand、Nicolas Malebranche，皆其来源。其偶因论之论据，则得 Cordemoy、La Forge、Malebranche 与基督教神秘主义者 Pierre Poiret 之启。
+十七世纪哲学家中，施图尔姆于折衷哲学与科学方法取资于弗朗西斯·培根（Francis Bacon）与福修斯（Vossius）。于斯宾诺莎、莱布尼茨的自然观则加驳难，又顺笔及于托马斯·霍布斯（Thomas Hobbes）、肯内尔姆·迪格比（Kenelm Digby）、布莱士·帕斯卡（Blaise Pascal）、艾萨克·牛顿（Isaac Newton）。剑桥柏拉图主义者亨利·莫尔（Henry More）、拉尔夫·库德沃斯（Ralph Cudworth），亦在所驳之列。至于笛卡尔一系，则有所取：勒内·笛卡尔（René Descartes）、约翰内斯·克劳贝格（Johann Clauberg）、热罗·德·科尔德穆瓦（Géraud de Cordemoy）、路易·德·拉弗尔热（Louis de la Forge）、安托万·勒·格兰德（Antoine le Grand）、尼古拉·马勒伯朗士（Nicolas Malebranche），皆其来源。其偶因论之论据，则得科尔德穆瓦、拉弗尔热、马勒伯朗士与基督教神秘主义者皮埃尔·普瓦雷（Pierre Poiret）之启。
 
-终则施图尔姆与皇家学会诸人通问甚勤，若 John Wallis、Robert Boyle、Robert Hooke。其“自然被动”之立场，在与 Leibniz、Schelhammer 论辩之际，正于 Boyle 处得所援据（见下文）。
+终则施图尔姆与皇家学会诸人通问甚勤，若约翰·沃利斯（John Wallis）、罗伯特·玻意耳（Robert Boyle）、罗伯特·胡克（Robert Hooke）。其“自然被动”之立场，在与莱布尼茨、舍尔哈默（Schelhammer）论辩之际，正于玻意耳处得所援据（见下文）。
 
 ### 1.2 莱布尼茨与沃尔夫对施图尔姆的接受
 
 今人忆及施图尔姆，多因其为莱布尼茨《论自然本身》（*De Ipsa Natura*，1698）的论战之的。此文乃二人一场层次分明之争的一环，所争在自然是否可被赋予能动本原：施图尔姆否认，莱布尼茨主张。二人实相知，盖同出埃哈德·魏格尔门下（Lemanski 2018）[^lemanski-2018]。其相遇或在 1660 年代，或在 1666 年莱布尼茨就读阿尔多夫大学之时，或在 1667 年其任纽伦堡炼金术学会秘书之时（莱布尼茨生平见 Arthur 2014: x–xvi）[^arthur-2014]。二人之争始于 1694–95 年间的通信（Palaia 1990），至 1690 年代复以学术论文及《学人学报》（*Acta eruditorum*）所刊文章续之（Henkel 2024, ch.2）[^henkel-2024]。
 
-《论自然本身》以施图尔姆为 Malebranche 偶因论之党。此责半是：施图尔姆固如 Malebranche，谓上帝乃自然中唯一运作之动力因。然莱布尼茨简化其说。施图尔姆论被动形式，实与 Malebranche 偶因论有异：其一，于解释自然现象时，犹以有限形式居一角色；其二，自然规律之念在其说中居次，作用较微（见第 3 节）。
+《论自然本身》以施图尔姆为马勒伯朗士偶因论之党。此责半是：施图尔姆固如马勒伯朗士，谓上帝乃自然中唯一运作之动力因。然莱布尼茨简化其说。施图尔姆论被动形式，实与马勒伯朗士偶因论有异：其一，于解释自然现象时，犹以有限形式居一角色；其二，自然规律之念在其说中居次，作用较微（见第 3 节）。
 
 进而言之，施图尔姆之规划与莱布尼茨适相背驰。莱布尼茨之讥弹，根柢在守经院旧说：实体与行动二义深相绾结（如 Leibniz 1989, 160）[^leibniz-1989]。其所以力攻施图尔姆“形式被动”之说者，正以行动为思实体本性之本。莱布尼茨不取此说：自然存在者可不涉任何活动而被充分设想，或具有存在论上的一贯性。而施图尔姆所拒者，恰是莱布尼茨这一根本主张——以活动为实体之存在论根据。故施图尔姆之答，自莱布尼茨观之，殆无一处可惬其意。
 
@@ -59,7 +59,7 @@
 
 莱布尼茨虽于施图尔姆之形而上学与自然哲学深致不满，然颇赏其（及魏格尔）于逻辑学之创获，且受其沾溉（Lemanski 2018）[^lemanski-2018]。又，莱布尼茨在德国之主要哲学盟友克里斯蒂安·沃尔夫，于施图尔姆本人推重甚至，遂助其《择取物理学》“特殊部分”付梓，且为之作序。沃尔夫之知施图尔姆，盖由旧师格奥尔格·阿尔布雷希特·哈姆贝格尔（1662–1716）；哈姆贝格尔则尝受业于施图尔姆（Gaab，载 Gaab et al. 2004: 48f）[^gaab-2004]。
 
-序中沃尔夫于施图尔姆称美甚至：盖谓其方法预示自家知识三分之说，即历史的知识（事实之知）、哲学的知识（原因之知）、数学的知识（事物数量之知）。此说具见《理性哲学》（*Philosophia Rationalis*）首章（参见 SEP 词条“克里斯蒂安·沃尔夫”第 3、7 节）。然沃尔夫亦知，数学量化在施图尔姆方法中不如其余二类之显。又赞其创设实验教学（*collegia*），为学界新事。于其三部物理学亦甚称许，褒其科学方法（第 2 节），且举《择取物理学》前编见纳之盛。所惜者，第三编“最特殊部分”本应论生命存在者，因施图尔姆之殁而中辍，未克终篇继刊。沃尔夫欲补此阙，遂导读者读 Honoré Fabri 论植物、动物、人之作。盖闻施图尔姆尝劝编者，取 Fabri 论此诸题之书，与《择取物理学》已成二编合为一完整物理学。除 Fabri 外，沃尔夫于导言中又导读者读 Gassendi、Clauberg、Du Hamel、La Forge、Cordemoy、Harvey、Perrault、Malpighi、Grew、Ray 之书，以知植物、动物，尤以知人身上心身之联系。
+序中沃尔夫于施图尔姆称美甚至：盖谓其方法预示自家知识三分之说，即历史之知（事实之知）、哲学之知（原因之知）、数学之知（事物数量之知）。此说具见《理性哲学》（*Philosophia Rationalis*）首章（参见 SEP 词条“克里斯蒂安·沃尔夫”第 3、7 节）。然沃尔夫亦知，数学量化在施图尔姆方法中不如其余二类之显。又赞其创设实验教学（*collegia*），为学界新事。于其三部物理学亦甚称许，褒其科学方法（第 2 节），且举《择取物理学》前编见纳之盛。所惜者，第三编“最特殊部分”本应论生命存在者，因施图尔姆之殁而中辍，未克终篇继刊。沃尔夫欲补此阙，遂导读者读奥诺雷·法布里（Honoré Fabri）论植物、动物、人之作。盖闻施图尔姆尝劝编者，取法布里论此诸题之书，与《择取物理学》已成二编合为一完整物理学。除法布里外，沃尔夫于导言中又导读者读伽桑狄、克劳贝格、迪阿梅尔、拉弗尔热、科尔德穆瓦、哈维、佩罗、马尔皮基、格鲁、约翰·雷（John Ray）之书，以知植物、动物，尤以知人身上心身之联系。
 
 ## 2 科学方法：实验的、假设的、折衷的
 
@@ -67,7 +67,7 @@
 
 第一步在收集现象：或采他家自然哲学家所报，或由观察、实验亲得。报告须忠（*fideliter*），必详其得此现象之情境（PE I: 序言, art. 3.4）。
 
-施图尔姆笃信新兴的实验自然哲学，为德国最早于学院中引入实验进路的教授之一。受培根、玻意耳实验方法之启，尝定期设私下实验课（*collegia*）。其《实验课程或奇趣集》（*Collegium experimentale sive curiosum*，1676/1685）可见其熟于实验科学之现状，善用当时新器：望远镜、显微镜、抽气泵、潜水钟之属。又，假设（理论建构之基）须以与现象相合之程度及实验结果为衡。其心目中实验之典范，为 Otto von Guericke、Caspar Schott 与玻意耳。
+施图尔姆笃信新兴的实验自然哲学，为德国最早于学院中引入实验进路的教授之一。受培根、玻意耳实验方法之启，尝定期设私下实验课（*collegia*）。其《实验课程或奇趣集》（*Collegium experimentale sive curiosum*，1676/1685）可见其熟于实验科学之现状，善用当时新器：望远镜、显微镜、抽气泵、潜水钟之属。又，假设（理论建构之基）须以与现象相合之程度及实验结果为衡。其心目中实验之典范，为奥托·冯·居里克（Otto von Guericke）、卡斯帕·肖特（Caspar Schott）与玻意耳。
 
 然施图尔姆不甘止于自然史——不止于罗列自然中所有之物，亦不止于新奇之实验结果。自然哲学须为现象之所以如此、所以发生者，别求深一层之因果解释。欲达此的，自然哲学家当盘点实验所得与可及之观察，而探究足以释之的假设。
 
@@ -79,7 +79,7 @@
 
 第三步则在选择、调和诸假设，终以调成对所论现象的惬意之说。施图尔姆之的，在撷其善者、理者，而弃伪解、偏见与先入之见。此步大抵由批判考察、理性讨论与逻辑推演而行，故于其法中最为哲学性、思辨性。其目标，即在批判地评估并整合所集之假设。
 
-《择取物理学》序言开篇（PE I: art. 3.1），施图尔姆（或受玻意耳与 Mariotte 之启）详考良假设所当具之准。一须有合理之可能性，且能示现象间之联系；二须合于实际情境。假设所容现象愈多、所摄显著情境愈广，则愈善；简者当先。是故施图尔姆于诸假设之间，用奥卡姆剃刀。其理曰：简假设映上帝之道的单纯（PE I: 序言, art. 3.1）。上帝为自然最智之创造者（*Opificem naturae Sapientissimum*），以简易之方构此世界；治自然及其设计者，不可不念及此。又，良假设不惟不可与现象相牾，亦不可与已成之假设、昭然之原理相牾（PE I: 序言, art. 3.2）。终则施图尔姆谓假设不独须惬于理智，亦须惬于想象与感官（PE I: 序言, art. 3.3）。其故在：凡自然现象，皆属广延世界及其形状、运动诸变状；感官与想象所司，正广延存在之域，故欲评估关于自然现象之假设是否适切，必质之二能。若经院学者所为，徒以抽象概念反思自然，则不足，盖世间现象最近于感官与想象，亦惟感官与想象能把捉之（PE I: 序言, art 3.3）。
+《择取物理学》序言开篇（PE I: art. 3.1），施图尔姆（或受玻意耳与马略特（Mariotte）之启）详考良假设所当具之准。一须有合理之可能性，且能示现象间之联系；二须合于实际情境。假设所容现象愈多、所摄显著情境愈广，则愈善；简者当先。是故施图尔姆于诸假设之间，用奥卡姆剃刀。其理曰：简假设映上帝之道的单纯（PE I: 序言, art. 3.1）。上帝为自然最智之创造者（*Opificem naturae Sapientissimum*），以简易之方构此世界；治自然及其设计者，不可不念及此。又，良假设不惟不可与现象相牾，亦不可与已成之假设、昭然之原理相牾（PE I: 序言, art. 3.2）。终则施图尔姆谓假设不独须惬于理智，亦须惬于想象与感官（PE I: 序言, art. 3.3）。其故在：凡自然现象，皆属广延世界及其形状、运动诸变状；感官与想象所司，正广延存在之域，故欲评估关于自然现象之假设是否适切，必质之二能。若经院学者所为，徒以抽象概念反思自然，则不足，盖世间现象最近于感官与想象，亦惟感官与想象能把捉之（PE I: 序言, art 3.3）。
 
 此三步之法中，现象之陈立其 **待释者** （explanandum），假设则所以渐近于解。然诸假设或相抵牾，或相比肩，故真解必于现有诸说中择其真、斥其伪、补其阙。于是而及施图尔姆之折衷主义。[^note-3]
 
@@ -117,7 +117,7 @@
 
 第一选项直趋施图尔姆之说。实体形式若为纯物质之存在者，则不能自为实体：盖一物体之形式不能为另一分离之物体，形式之运作，正赖其与所寓实体之质料亲密相合。由是观之，实体形式苟属纯物质，则必以之为质料之样态。
 
-第二选项之所以相干，以晚近经院作者（如 Suárez）多取理性灵魂为型，以解自然之实体形式。然理性灵魂乃自立之精神实体，可离所合之身而自存自思。是则理性灵魂非 **身体之形式** ，特与身体相合之另一独立实体耳。故（与经院相反）人之理性灵魂一例， **不可** 取为型，以概念化其他（非人）自然存在者之“实体形式”（PE I: 94）。
+第二选项之所以相干，以晚近经院作者（如苏亚雷斯）多取理性灵魂为型，以解自然之实体形式。然理性灵魂乃自立之精神实体，可离所合之身而自存自思。是则理性灵魂非 **身体之形式** ，特与身体相合之另一独立实体耳。故（与经院相反）人之理性灵魂一例， **不可** 取为型，以概念化其他（非人）自然存在者之“实体形式”（PE I: 94）。
 
 其三，施图尔姆驳第三选项之说如是：经院之常，以形式在解释复合存在者本性时所司之职来界定实体形式。如此界定，则所谓“实体形式”者不能属实体之存在论范畴，而惟属“关系项”或关系之物。施图尔姆申言：“形式之全性，通而言之、本质而言之，即在一关系”（PE I: 94）。形式非自存之存在者，乃某些存在者运作、受变之 **方式** 。于第三选项，施图尔姆谓形式非可离所赋形者而独存独思之物；自然形式 **不能** 解为介于物质实体与精神实体之间的实体或存在者，盖形式本 **非** 实体也。自然形式既为 **关系性** 之存在者，则不得为 **实体** ；“实体形式”之念，遂为虚妄，为范畴之误。所余可行者，唯施图尔姆所主：形式乃质料之样态；质料既无主动之力，形式亦然。
 
@@ -129,7 +129,7 @@
 
 > 吾今立此：上帝之动、之作，遍于自然全体，非依其绝对之能（此能无碍而极完美地得其所欲），乃依相关而假设之能；此能之施，上帝自（以至自由之方式）系之于质料或人心之某些条件。（PE I: 178）
 
-上帝未立仅以其自由意志之举而绝对地引出效果；乃自由地自系其行于某些特定条件之得，即自然存在者或人心之某些状态。施图尔姆不多用马勒伯朗士式“偶因”之语，然明以偶因等同 *sine quibus non* 因（PE I: 117）。*Sine qua non* 因者，为生某效果所（反事实地）必需之条件，然其物并不凭任何能动之力而真有所助（见 Sangiacomo 2019）[^sangiacomo-2019]。施图尔姆论上帝假设之能，其意谓：一切自然形式皆自然效果之 *sine quibus non* 条件。形式非凭或有的能动之力而助（本无此力），乃以上帝自由立定：某些质料变状（即形式）既具，则某些效果随之而生。马勒伯朗士所谓“偶因”既可依 *sine qua non* 因果而解，施图尔姆又谓一切自然形式皆自然效果之 *sine quibus non* 因，则谓其主一版本之偶因论，宜无大过。
+上帝未立仅以其自由意志之举而绝对地引出效果；乃自由地自系其行于某些特定条件之得，即自然存在者或人心之某些状态。施图尔姆不多用马勒伯朗士式“偶因”之语，然明以偶因等同 *sine quibus non* 因（PE I: 117）。*Sine qua non* 因者，为生某效果所（反事实地）必需之条件，然其物并不凭任何能动之力而真有所助（见 Sangiacomo 2019）[^sangiacomo-2019]。施图尔姆论上帝假设之能，其意谓：一切自然形式皆自然效果之 *sine quibus non* 条件。形式非凭或有的能动之力而助（本无此力），乃因上帝（自由地）立定：某些质料变状（即形式）既具，则某些效果随之而生。马勒伯朗士所谓“偶因”既可依 *sine qua non* 因果而解，施图尔姆又谓一切自然形式皆自然效果之 *sine quibus non* 因，则谓其主一版本之偶因论，宜无大过。
 
 如是，施图尔姆之策遂得其的：质料无主动之力，物质形式亦然。欲释自然中所见之变，必为因果活动觅一源；而此源于自然世界中遍觅不得，则上帝为唯一可任者。然上帝之力仅主自然现象之 **被生** ；其所以如此如彼之特定理由，仍在被动形式自身之特征。就此而言，上帝之入于自然，惟具形而上学奠基之功，非以代之，乃以证成细究被动形式之机械结构之必要。
 

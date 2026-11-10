@@ -669,134 +669,178 @@ segments:
     kind: body
     source: |-
       One role of the logical forms of judgment is in the process of analysis, by which the objects we intuit are subsumed under concepts. What results from this process is a judgment that expresses what Kant calls an *analytic unity* – paradigmatically, the unity in the subsumption of several intuited objects under a single concept. But a logical form of judgment can also function in a different role: in the synthesis of a manifold of an intuition. The result in this case is a *synthetic unity*, the unity of a synthesized multiplicity of representations in a single intuition. The understanding, as the power to judge, functions in each of these two roles; “the same function that gives unity to concepts in judgment, also gives unity to the mere synthesis of representations in intuition” (A79/B104–5). In its synthetic role, the understanding adds content to the forms of judgment:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      判断的逻辑形式有一种作用体现在分析过程中：我们直观到的对象借这一过程被归摄于概念之下。这一过程的产物是一个判断，它表达康德所谓的*分析统一性*——典型情形是若干被直观对象被归摄于单一概念之下的统一性。但判断的逻辑形式还能起另一种作用：在直观杂多的综合中起作用。此时的产物是*综合统一性*，即单一直观中被综合起来的诸表象之多样性的统一。知性作为判断的能力，在这两种作用中都起作用；“在判断中赋予概念以统一性的那个同一功能，也在直观中赋予表象的单纯综合以统一性”（A79/B104–5）。在其综合作用中，知性为判断形式增添内容：
+    step2: |-
+      判断的逻辑形式有一项作用是在分析过程中发挥的：我们直观到的对象经由这一过程被归摄于概念之下。由此产生的判断，表达康德所称的*分析统一性*——典型地，即若干被直观对象归摄于同一概念之下的统一。然而，判断的逻辑形式还可以担当另一种角色：在直观杂多的综合之中。此时产生的便是*综合统一性*，即单一直观中已被综合的诸表象之杂多性的统一。知性作为判断的能力，在这两种角色中都发挥作用；“在判断中赋予诸概念以统一性的同一功能，也在直观中赋予诸表象的单纯综合以统一性”（A79/B104–5）。在其综合角色中，知性为判断形式添入内容：
   - id: 79
     kind: body
     source: |-
       > The same understanding, and indeed by means of the very same actions through which it brings the logical form of judgment into concepts by means of the analytical unity, also brings a transcendental content into its representations by means of the synthetic unity of the manifold in intuition in general. (A79/B105)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 同一个知性，而且正是通过它借分析统一性把判断的逻辑形式带入概念的那些行为，也借直观中一般杂多的综合统一性，把一种先验内容带入其表象之中。（A79/B105）
+    step2: |-
+      > 同一知性，恰恰是借它通过分析统一性把判断之逻辑形式带入概念的那些行为，也通过直观中一般杂多的综合统一性，把一种先验内容带入自己的诸表象。（A79/B105）
   - id: 80
     kind: body
     source: |-
       The addition of such transcendental content turns the form of judgment into a category. This content is a feature of the forms of intuition, space and time, which are called upon when the power to judge sets out to unify a manifold of intuition (B128–9). The categories – more precisely, the versions of the categories that are schematized for our way of cognizing (A137/B176ff) – are thus generated from the forms of judgment in the process of synthesizing intuitions by the addition of spatial and temporal content. For example, generated from the categorical form of judgment by the addition of such content is the category of substance, and generated from the hypothetical form of judgment in this way is the category of cause. (For beings possessing the power of understanding but with different forms of intuition, the categories would be schematized differently from ours.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这种先验内容的加入，把判断形式变成了范畴。这一内容乃是直观形式即空间与时间的一个特征，当判断能力着手统一直观杂多时，这些形式便被调用（B128–9）。于是，范畴——更确切地说，为我们的认识方式而图型化了的那些范畴版本（A137/B176ff）——便是在综合直观的过程中、通过加入空间与时间的内容，从判断形式中生成的。例如，由直言判断形式加上此种内容而生成的是实体范畴；由假言判断形式以此方式生成的是原因范畴。（对于拥有知性能力、但直观形式不同的存在者，范畴的图型化将与我们的不同。）
+    step2: |-
+      先验内容的加入，使判断形式转化为范畴。此内容属于直观形式——空间与时间——的特征；当判断能力着手统一直观杂多时，便须诉诸这些形式（B128–9）。由此，范畴——更确切说，为我们的认知方式而图型化了的那些范畴形态（A137/B176ff）——就是在综合直观之际、借空间与时间内容之添加而从判断形式中生成的。譬如，直言判断形式加上此种内容，生成实体范畴；假言判断形式循此生成原因范畴。（至于具备知性能力而直观形式相异的存在者，其范畴的图型化当不同于我们。）
   - id: 81
     kind: body
     source: |-
       ### 1.5 The Second Step of the B-Deduction
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.5 B 版演绎的第二步
+    step2: |-
+      ### 1.5 B 版演绎的第二步骤
   - id: 82
     kind: body
     source: |-
       In §20 Kant, draws a conclusion from the considerations he has so far advanced: “Consequently, the manifold in a given intuition is necessarily subject to the categories” (B143). One might think that this is precisely what Kant intended to establish in the Transcendental Deduction, and thus that the argument is brought to an end in §20. However, in §21 he indicates that the Transcendental Deduction is not yet complete: “Thus in the above proposition a beginning is made of a deduction of the pure concepts of understanding” (B144). Kant goes on to explain:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 §20 中，康德从迄今提出的考虑得出一个结论：“因此，一个被给予直观中的杂多必然服从范畴”（B143）。人们也许会想，这正是康德在先验演绎中想要确立的东西，因而论证在 §20 便已结束。然而，在 §21 中他表明先验演绎尚未完成：“于是，在上述命题中，知性纯粹概念的演绎只是开了一个头”（B144）。康德接着解释说：
+    step2: |-
+      §20 中，康德从先前的种种考虑引出结论：“所以，一个被给予直观中的杂多必然服从诸范畴”（B143）。或许有人以为，这恰是康德在先验演绎中意欲确立者，论证至此便告完结。但 §21 表明，先验演绎尚未完成：“于是，在上述命题中，纯粹知性概念的演绎只是开了个头”（B144）。康德随即解释道：
   - id: 83
     kind: body
     source: |-
       > In what follows (cf. §26) it will be shown, from the mode in which the empirical intuition is given in sensibility, that its unity is no other than that which the category (according to §20) prescribes to the manifold of a given intuition in general. Only thus, by demonstration of the *a priori* validity of the categories in respect of all objects of our senses, will the purpose of the deduction by fully attained. (B144–5)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 下文（参 §26）将从经验直观在感性中被给予的方式出发，表明它的统一性不是别的，正是范畴（按 §20）为一般被给予直观的杂多所规定的统一性。唯有如此——通过证明范畴对我们一切感官对象的*先天*有效性——演绎的目的才算完全达到。（B144–5）
+    step2: |-
+      > 下文（参 §26）将依据经验直观在感性中被给予的方式表明：它的统一性不是别的，正是范畴（依 §20）为一般被给予直观之杂多所规定的统一性。唯有如此，即通过证明范畴对我们一切感官对象具有*先天*有效性，演绎之目的方可完全达成。（B144–5）
   - id: 84
     kind: body
     source: |-
       Here a perennial interpretive question arises: how should we construe the argument we find in §26, together with material from §24, which is sometimes designated as the second step of the B-Deduction?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此处浮现出一个由来已久的解释问题：我们应当如何理解 §26 中的论证，以及常常被称为 B 版演绎第二步的那些连同 §24 在内的材料？
+    step2: |-
+      这里出现了一个历久弥新的解释难题：§26 中的论证——连同有时被称作 B 版演绎第二步骤的 §24 材料——究竟应当如何理解？
   - id: 85
     kind: body
     source: |-
       One position on this interpretive issue is advanced by Erich Adickes (1889: 139–4) and H. G. Paton (1936, v. 1: 501), who argue that while the material that precedes §21 constitutes an *objective* deduction, material in §24 and §26 comprise a *subjective* deduction. This distinction has its source in the Preface to the A edition:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于这一解释问题，Erich Adickes（1889: 139–4）与 H. G. Paton（1936, v. 1: 501）提出了一种立场：他们认为，§21 之前的材料构成一种*客观的*演绎，而 §24 与 §26 的材料则构成一种*主观的*演绎。这一区分源自 A 版序言：
+    step2: |-
+      对这一解释难题，Erich Adickes（1889: 139–4）与 H. G. Paton（1936, v. 1: 501）提出一种立场：§21 以前的材料构成*客观的*演绎，而 §24 与 §26 的材料则构成*主观的*演绎。此种区分的源头在 A 版序言：
   - id: 86
     kind: body
     source: |-
       > This enquiry, which is somewhat deeply grounded, has two sides. The one refers to the objects of pure understanding, and is intended to expound and render intelligible the objective validity of its *a priori* concepts. It is therefore essential to my purposes. The other seeks to investigate the pure understanding itself, its possibility and the cognitive faculties upon which it rests: and so deals with it in its subjective aspect. Although this latter exposition is of great importance for my chief purpose, it does not form an essential part of it. (Axvi–xvii)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 这一探究根基略深，有两个方面。一方面关涉纯粹知性的对象，意在阐明并使其*先天*概念的客观有效性成为可理解的。因此它对我们的目的来说是本质性的。另一方面则要探究纯粹知性本身、它的可能性以及它所依据的诸认识能力：故而从它的主观方面来处理它。后一种阐述对我的主要目的虽然极为重要，却不构成其主要部分。（Axvi–xvii）
+    step2: |-
+      > 这项根基稍深的探究有两个方面。其一是就纯粹知性的对象而言，旨在阐发其*先天*概念的客观有效性并使之可被理解；故此举对我的目的而言是本质性的。其二则要考察纯粹知性本身、它的可能性以及它所凭借的诸认识能力，因而是从主观方面来处理它。后一种阐述对我的主要目的固然极为重要，却并不构成其实质部分。（Axvi–xvii）
   - id: 87
     kind: body
     source: |-
       Henrich (1968–69) rejects the Adickes/Paton proposal for the reason that in §21 Kant states that the demonstration of the validity of the categories is completed only in §26, and the passage from the A-Preface indicates that this is a task for the objective deduction. In defense of Adickes and Paton, in §20 Kant claims to have established that the categories apply to the manifold in any one given intuition, and affirms that he will now show that categories apply to any object presented to the senses. In view of the aim of the objective deduction, this move would seem to require only a straightforward and trivial application of the result of §20 to any empirical intuition we might have (as many commentators have noted). So, on a charitable interpretation of Kant’s agenda, showing that the categories apply to any object presented to the senses plausibly involves considerations beyond the scope of the objective deduction.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Henrich（1968–69）否弃 Adickes／Paton 的提议，理由是：在 §21 中康德说，范畴有效性的证明要到 §26 才完成，而 A 版序言那段文字表明，这属于客观演绎的任务。为 Adickes 与 Paton 辩护者则可以说：在 §20 中康德声称已确立范畴适用于任何一个被给予直观中的杂多，并声明他现在要表明范畴适用于呈现给感官的任何对象。鉴于客观演绎的目标，这一举动似乎只需要把 §20 的结果径直而无碍地应用于我们可能拥有的任何经验直观（许多评论者已指出这一点）。因此，若对康德的议程作善意解读，表明范畴适用于呈现给感官的任何对象，大概会涉及超出客观演绎范围的考虑。
+    step2: |-
+      Henrich（1968–69）不取 Adickes／Paton 之说，理由是：§21 中康德明言范畴有效性的证明要到 §26 才完备，而 A 版序言那段文字又表明这属于客观演绎的任务。然而，若要为 Adickes 与 Paton 辩护：§20 中康德宣称已确立范畴可适用于任一被给予直观中的杂多，并声明他接着要表明范畴适用于呈现于感官的任何对象。就客观演绎的目标而言，此举似乎只需把 §20 的结果径直、顺当地施用于我们可能具有的任何经验直观（不少评论者已如此指出）。那么，若善意地理解康德的规划，则“表明范畴适用于呈现于感官的任何对象”这一任务，很可能牵涉超出客观演绎范围的考虑。
   - id: 88
     kind: body
     source: |-
       Henrich points out that although in the B-Deduction Kant sought to avoid the problems of a subjective deduction, this “does not mean that he neglected the demand for an explanation of the possibility of relating the categories to intuitions.” However, by Kant’s account, a subjective deduction features not only an examination of cognitive faculties, but also an investigation of “the possibility of the pure understanding,” which would include an investigation of how the categories are related to a priori and to empirical intuition and to the objects presented to us in such intuition. This is precisely the type of inquiry that we encounter in §24 and §26 – and Henrich agrees. Thus it seems that the views of Henrich, Paton, and Adickes can be reconciled: they concur that the second step aims to show how it is that the categories are related to objects of intuition and thus of experience in such a way as to demonstrate that they correctly apply to them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Henrich 指出，尽管康德在 B 版演绎中力图避免主观演绎的诸问题，这“并不意味着他忽视了如下要求：说明把范畴与直观关联起来的可能性”。然而，按康德的说法，主观演绎不仅包括对认识能力的考察，还包括对“纯粹知性的可能性”的探究，而这将包括探究范畴如何与*先天*直观及经验直观相关联、并与在这类直观中呈现给我们的对象相关联。我们恰在 §24 与 §26 中遇到这类探究，而 Henrich 也同意这一点。于是，Henrich、Paton 与 Adickes 的看法似可调和：他们都同意，第二步旨在表明范畴如何与直观对象、从而与经验对象相关联，以此证明它们正确地适用于这些对象。
+    step2: |-
+      Henrich 指出，康德在 B 版演绎中虽力求避开主观演绎的种种麻烦，但这“并不等于说他放弃了下述要求：解释范畴与直观发生关联的可能性”。可是依康德所述，主观演绎不只考察诸认识能力，还要探究“纯粹知性的可能性”，其中便包括考察范畴如何关联于*先天*直观与经验直观，以及如何关联于这类直观中呈现给我们的对象。我们在 §24 与 §26 中所遇到的，恰是这一类探究——Henrich 亦承认此点。由此看来，Henrich、Paton 与 Adickes 的见解可以调和：三者都同意，第二步意在表明范畴以何种方式关联于直观对象、因而是经验对象，从而证明它们确实适用于这些对象。
   - id: 89
     kind: body
     source: |-
       Anil Gomes (2010) proposes a more precise hypothesis for what is missing in the first step that is addressed by the second step. Gomes first appeals to a problem James van Cleve (1999) raises for the Transcendental Deduction. Even if Kant succeeds in showing that synthesis involves judging, and that judging involves the application of the categories.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Anil Gomes（2010）就第一步所缺、而由第二步补足的东西，提出了一个更精确的假说。Gomes 首先援引 James van Cleve（1999）对先验演绎提出的一个问题。即便康德成功地表明了综合涉及判断、判断涉及范畴的运用，
+    step2: |-
+      Anil Gomes（2010）就“第一步缺什么、第二步补什么”提出了一个更精细的假说。他先援引 James van Cleve（1999）针对先验演绎提出的诘难：纵然康德成功表明综合牵涉判断、判断牵涉范畴之运用，
   - id: 90
     kind: body
     source: |-
       > this would not be enough for his purposes. For that result in conjunction with the rest of the Transcendental Deduction would yield no conclusion stronger than this: all my representations are connected in judgements that use Kant’s categories. But Kant wants to show that the categories are objectively valid – that they actually apply to objects of experience. (van Cleve 1999: 89)[^cleve-1999]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 这仍不足以达其目的。因为这一结果连同先验演绎的其余部分，所能得出的结论不外是：我的一切表象都在使用康德范畴的判断中被联结起来。但康德要表明的是范畴具有客观有效性——它们实际上适用于经验的对象。（van Cleve 1999: 89）[^cleve-1999]
+    step2: |-
+      > 这对他的目的仍不够。因为该结果连同先验演绎其余部分，至多只能得出：我的一切表象都在运用康德诸范畴的判断中相联结。可康德想表明的是：范畴具客观有效性，即它们确实适用于经验对象。（van Cleve 1999: 89）[^cleve-1999]
   - id: 91
     kind: body
     source: |-
       Kant hasn’t established, according to van Cleve, that the categories actually apply to experience. As Gomes (2010: 121) puts it, “perhaps our application of the categories in experience is always mistaken, and there is nothing which corresponds to the way in which we have synthesized the manifold.” As he points out, the second step reaches its conclusion through the analysis of the structure of our representation of space and time, from which Kant then draws the conclusion that space and time themselves have that very structure (Gomes 2010: 130; Gomes cites a similar claim by Longuenesse 1998, 213)[^gomes-2010][^longuenesse-1998]. If space and time themselves have the structure of our representations of them, then the requisite correspondence is in place, and van Cleve’s objection is answered.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按 van Cleve 的看法，康德并未确立范畴实际适用于经验。正如 Gomes（2010: 121）所说，“也许我们在经验中对范畴的运用总是错的，根本没有东西与我们综合杂多的方式相对应”。他指出，第二步是通过分析我们关于空间与时间之表象的结构来达到结论的，而康德由此结论说空间与时间本身也具有这一结构（Gomes 2010: 130；Gomes 引及 Longuenesse 1998, 213 的类似主张）[^gomes-2010][^longuenesse-1998]。若空间与时间本身具有我们对它们之表象的结构，则所需的对应关系便已就位，van Cleve 的反对也就得到回应。
+    step2: |-
+      据 van Cleve，康德并未确立范畴实际适用于经验。Gomes（2010: 121）说得直白：“我们在经验中对范畴的运用也许从来都是错的，并没有什么东西与我们综合杂多的方式相应。”他指出，第二步是经由分析我们关于空间与时间之表象的结构而抵达结论的，康德由此断定：空间与时间本身即具此结构（Gomes 2010: 130；Gomes 引及 Longuenesse 1998, 213 的类似看法）[^gomes-2010][^longuenesse-1998]。倘若空间与时间本身便具有我们对它们的表象所具有的结构，则所需的对应关系即已具备，van Cleve 的诘难也就可以作答。
   - id: 92
     kind: body
     source: |-
       This is a contending and plausible hypothesis for a role for the second step in the B-Deduction. One might ask, however, whether the account Kant provides on that hypothesis can respond convincingly to van Cleve’s objection. Even on certain idealist views, such as that of G. W. Leibniz (1646–1716) according to Robert Adams (1983, 1994: 217–61, cf. Wilson 1987)[^wilson-1987], our ordinary sensible representations of space, and of physical entities more generally, may not represent them as they really are. By contrast, on the idealist position of George Berkeley’s (1685–1753) as represented in the third of the *Three Dialogues between Hylas and Philonous* (1713/1998), the properties of physical entities match our sensible representations of them exactly, without a possibility of a mismatch; the oar in the water really is bent when I see it as bent. On the type of idealism Kant endorses (and one might of course question whether it has been established), the possibility of a mismatch remains in place even if our representation of space structures space itself (Pereboom 1988; Stang 2018; Jauernig 2021)[^jauernig-2021][^pereboom-1988][^stang-2018]. For instance, we may sensibly represent space as Euclidean while is in fact Riemannian. One might respond that the representation that structures space would then also be Riemannian, and we would have a match. But then a crucial feature of our representation of space would be inaccessible absent serious empirical investigation, and the nature of the project would be altered.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这是一个有竞争力且可信的假说，用以说明第二步在 B 版演绎中的作用。然而人们可以问：按这一假说，康德所提供的说明能否令人信服地回应 van Cleve 的反对？即便在某些唯心论观点下——例如据 Robert Adams（1983, 1994: 217–61，参 Wilson 1987）[^wilson-1987]所解释的莱布尼茨（G. W. Leibniz, 1646–1716）观点——我们对空间、以及更一般地对物理对象的日常感性表象，也许并未把它们表象为其本来所是。相反，在乔治·贝克莱（1685–1753）的唯心论立场下——如《希勒斯与菲洛诺斯的三篇对话》（1713/1998）第三篇所表述的——物理对象的性质与我们的感性表象完全吻合，不可能出现不符；我见水中的桨是弯的，桨便真是弯的。而在康德所主张的那类唯心论下（人们当然可以质疑它是否已被确立），即便我们对空间的表象构造了空间本身，不符的可能性依然存在（Pereboom 1988; Stang 2018; Jauernig 2021）[^jauernig-2021][^pereboom-1988][^stang-2018]。例如，我们可以在感性上把空间表象为欧几里得式的，而它实际上是黎曼式的。或可回应说：那么构造空间的表象便也会是黎曼式的，我们便有了吻合。但这样一来，我们对空间之表象的一个关键特征，若不经过严肃的经验探究便无法通达，而整个工程的性质也就随之改变。
+    step2: |-
+      这是个有竞争力、也说得通的假说，用来说明第二步在 B 版演绎中所司何职。但人们不妨追问：依此假说，康德所给的说明能否有力地回应 van Cleve 的诘难？即便在某些唯心论观点之下——例如 Robert Adams（1983, 1994: 217–61；参 Wilson 1987）[^wilson-1987]所诠释的莱布尼茨（G. W. Leibniz, 1646–1716）之说——我们关于空间、进而关于一般物理对象的日常感性表象，未必把它们表象为其本来面目。反之，在乔治·贝克莱（1685–1753）的唯心论立场下（如《希勒斯与菲洛诺斯的三篇对话》〔1713/1998〕第三篇所述），物理对象的性质与我们关于它们的感性表象严丝合缝，不容错位：我见水中之桨为弯，桨便真弯。至于康德所主张的那类唯心论（其是否成立，自然大可存疑），纵使我们关于空间的表象构造了空间本身，错位的可能性仍未消除（Pereboom 1988; Stang 2018; Jauernig 2021）[^jauernig-2021][^pereboom-1988][^stang-2018]。譬如，我们或可在感性上把空间表象为欧氏空间，而它实际上是黎曼式的。有人会回应：那么构造空间的表象便也是黎曼式的，正好吻合。可这样一来，我们空间表象的一个关键特征，便非经严肃的经验探究而不可得；整个工程的性质也随之改变。
   - id: 93
     kind: body
     source: |-
       The core text that divides interpretations of the second step is the note to B160–61:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      使第二步的诸种解读分道扬镳的核心文本，是 B160–61 的那条注释：
+    step2: |-
+      划分第二步之诸种解读的核心文本，是 B160–61 的注释：
   - id: 94
     kind: body
     source: |-
       > Space, represented as object (as is really required in geometry), contains more than the mere form of intuition, namely the comprehension of the manifold given in accordance with the form of sensibility in an intuitive representation, so that the form of intuition merely gives the manifold, but the formal intuition gives the unity of the representation. In the Aesthetic I ascribed this unity merely to sensibility, only in order to note that it precedes all concepts, though to be sure it presupposes a synthesis, which does not belong to the senses but through which all concepts of space and time first become possible. For since through it (as the understanding determines the sensibility) space or time are first given as intuitions, the unity of this a priori intuition belongs to space and time, and not to the concepts of the understanding (§24).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 空间被表象为对象（如几何学中实际所需的那样），所包含的多于直观的单纯形式，即：包含按照感性形式被给予的杂多在一种直观表象中的总括，以至于直观形式只给出杂多，而形式直观则给出表象的统一性。在感性论中，我把这种统一性仅仅归于感性，只是为了指明它先于一切概念，虽然它确实预设了一种综合——这综合不属于感官，但一切空间与时间的概念都唯有通过它才成为可能。因为，由于通过它（知性规定感性），空间或时间才首次作为直观被给予，所以这种*先天*直观的统一性便属于空间与时间，而不属于知性的概念（§24）。
+    step2: |-
+      > 空间若被表象为对象（几何学实在需要如此），便含有超出直观单纯形式的东西，即：把依照感性形式被给予的杂多总括进一个直观表象之中；于是直观形式只提供杂多，形式直观则提供表象的统一性。在《感性论》中，我把这统一性仅仅归诸感性，只为点明它先于一切概念——尽管它确实预设了一种综合，这综合不属感官，而一切空间、时间概念唯赖它才首次成为可能。因为，正是通过它（知性由此规定感性），空间或时间才首次作为直观被给予；故这种*先天*直观的统一性属于空间与时间，而不属于知性概念（§24）。
   - id: 95
     kind: body
     source: |-
       It’s widely agreed that a crucial feature of the second step is the claim that our intuitions of space and time are constituted in such a way as to necessitate the unification of the manifold of appearance by the application of the categories. In the Transcendental Aesthetic, Kant aimed to show that space and time are forms of our sensible intuition, and that for us appearances can only occur in accord with these forms. But now, in the note to B160–1, Kant draws our attention to the fact that space and time are not only forms of intuition, but are intuitions themselves, and that they are intuitions that feature unity. What’s more, Kant specifies that this unity ‘precedes all concepts, though to be sure it presupposes a synthesis, which does not belong to the senses but through which all concepts of space and time first become possible.’ By the synthesis that is presupposed ‘the understanding determines the sensibility.’ So the unity of space and time is to be explained with reference to the effect of the understanding upon sensibility itself (Longuenesse 1998: 211–33; Keller 1998: 88–94; Dickerson 2004: 196–201; Pollok 2008; Vinci 2014: 197–229; Onof and Schulting 2015; Allison 2015: 374–432; Rosefeldt 2022)[^allison-2015][^dicker-2004][^dickerson-2004][^keller-1998][^longuenesse-1998][^onof-2015][^pollok-2008][^rosefeldt-2022][^vinci-2014].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人们普遍同意，第二步的一个关键特征是如下主张：我们对空间与时间的直观，其构成方式使得现象杂多必须借范畴的运用而得到统一。在《先验感性论》中，康德意在表明空间与时间是我们的感性直观形式，而对我们来说，现象只能依照这些形式出现。但如今在 B160–1 的注释中，康德要我们注意：空间与时间不仅是直观形式，而且本身就是直观，并且是带有统一性的直观。此外康德还指明，这种统一性“先于一切概念，虽然它确实预设了一种综合——这综合不属于感官，但一切空间与时间的概念都唯有通过它才成为可能”。通过这一被预设的综合，“知性规定感性”。因此，空间与时间的统一性须参照知性对感性本身的作用来加以说明（Longuenesse 1998: 211–33; Keller 1998: 88–94; Dickerson 2004: 196–201; Pollok 2008; Vinci 2014: 197–229; Onof and Schulting 2015; Allison 2015: 374–432; Rosefeldt 2022）[^allison-2015][^dicker-2004][^dickerson-2004][^keller-1998][^longuenesse-1998][^onof-2015][^pollok-2008][^rosefeldt-2022][^vinci-2014]。
+    step2: |-
+      论者大体一致认为，第二步的关键特征在于这一主张：我们关于空间与时间的直观，其构成方式使现象之杂多必然借范畴的运用而被统一。在《先验感性论》里，康德旨在表明空间与时间是我们感性直观的形式，因而对我们而言，现象只能依照这些形式发生。然而到了 B160–1 的注释，康德提醒我们注意：空间与时间不只是直观形式，本身也是直观，而且是带有统一性的直观。他并且指明，这种统一性“先于一切概念——尽管它确实预设了一种综合，这综合不属感官，而一切空间、时间概念唯赖它才首次成为可能”。经由这一被预设的综合，“知性规定感性”。所以，空间与时间的统一性，须参照知性对感性本身的作用来解释（Longuenesse 1998: 211–33; Keller 1998: 88–94; Dickerson 2004: 196–201; Pollok 2008; Vinci 2014: 197–229; Onof and Schulting 2015; Allison 2015: 374–432; Rosefeldt 2022）[^allison-2015][^dicker-2004][^dickerson-2004][^keller-1998][^longuenesse-1998][^onof-2015][^pollok-2008][^rosefeldt-2022][^vinci-2014]。
   - id: 96
     kind: body
     source: |-
       The text, and in particular the B160–61 note, gives rise to a number of interpretive issues for Kant’s overall position. One is whether here Kant countenances a kind of unity in our representations that is not a result of categorical synthesis, but is instead is independent of the categories. Hermann Cohen (1871/1885/1918) and Eric Dufour (2003) are strict categorical conceptualists about any such unity, while Martin Heidegger (1929/1997) argues that there is a unity that is accounted for by the productive imagination independently of the categories; (Falkenstein 1995, Fichant 1997, Hanna 2008, 2011, Grüne 2011, Schulting 2012b, Messina 2014, McLear 2015, and Williams 2018 also contain defenses of nonconceptualist positions on this score; see McLear 2014, 2025 for overviews)[^falkenstein-1995][^fichant-1997][^grüne-2011][^hanna-2008][^mclear-2014][^mclear-2015][^messina-2014][^schulting-2012b][^williams-2018]. Longuenesse (1998) contends that unity-yielding synthesis is always a function of the understanding, but that there is a kind of synthesis of the understanding that does not involve the categories, while it yet anticipates them. Messina (2014), McLear (2015), Onof and Schulting (2015), and Williams (2018) argue that there are multiple kinds of unity for Kant, and while some require categorical synthesis, others do not. In particular, they maintain that space as intuited by us has a unity that Onof and Schulting (2015) call unicity, which consists of its singularity, its infinity, and its mereological inversion, i.e., a metaphysical structure involving parts ontologically depending on the whole, by contrast with the whole ontologically depending on parts, as is the case for material objects generally (here see Desmond Hogan 2021)[^hogan-2021]. Intuitive awareness of space as featuring unicity does not, on their account, require categorical synthesis.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这段文字、尤其是 B160–61 的注释，给康德的整体立场带来若干解释问题。其一是：康德在此是否容许我们表象中有一类统一性，它不是范畴综合的结果，而是独立于范畴的。Hermann Cohen（1871/1885/1918）与 Eric Dufour（2003）对任何此类统一性都持严格范畴概念论立场，而 Martin Heidegger（1929/1997）则主张有一类统一性由生产性想象力说明、独立于范畴（Falkenstein 1995、Fichant 1997、Hanna 2008, 2011、Grüne 2011、Schulting 2012b、Messina 2014、McLear 2015 与 Williams 2018 也就此提出了非概念论立场的辩护；综述见 McLear 2014, 2025）[^falkenstein-1995][^fichant-1997][^grüne-2011][^hanna-2008][^mclear-2014][^mclear-2015][^messina-2014][^schulting-2012b][^williams-2018]。Longuenesse（1998）主张，产生统一的综合始终是知性的功能，但知性有某种综合并不涉及范畴，却已预先指向它们。Messina（2014）、McLear（2015）、Onof 与 Schulting（2015）以及 Williams（2018）主张，在康德那里有多类统一性，其中一些需要范畴综合，另一些则不需要。他们尤其坚持：我们所直观的空间具有一种统一性，Onof 与 Schulting（2015）称之为“独一性”（unicity），它由空间的单一性、无限性及其部分—整体结构倒转（*mereological inversion*）构成——所谓倒转，即一种形而上学结构，其中部分在存在论上依赖于整体，而不同于一般物质对象那里整体在存在论上依赖于部分的情形（参见 Desmond Hogan 2021）[^hogan-2021]。按他们的说明，对具有独一性的空间之直观觉察并不要求范畴综合。
+    step2: |-
+      B160–61 的注释以及相关文本，给康德的整体立场引出若干解释难题。其一：康德在此是否认可我们表象中有一种统一性，它不出自范畴综合，反而独立于范畴？Hermann Cohen（1871/1885/1918）与 Eric Dufour（2003）对任何此类统一性都持严格的范畴概念论立场；Martin Heidegger（1929/1997）则主张，有一种统一性由生产性想象力来说明，与范畴无涉（Falkenstein 1995、Fichant 1997、Hanna 2008, 2011、Grüne 2011、Schulting 2012b、Messina 2014、McLear 2015、Williams 2018 亦为此提供了非概念论立场的辩护；综述见 McLear 2014, 2025）[^falkenstein-1995][^fichant-1997][^grüne-2011][^hanna-2008][^mclear-2014][^mclear-2015][^messina-2014][^schulting-2012b][^williams-2018]。Longuenesse（1998）则主张：生成统一的综合总是知性的功能，但知性另有一类综合并不动用范畴，却已先行指向范畴。Messina（2014）、McLear（2015）、Onof 与 Schulting（2015）及 Williams（2018）认为，康德那里存在多种统一性；有些须经范畴综合，有些则不必。他们尤其坚称：我们所直观的空间具有一种统一性，Onof 与 Schulting（2015）名之为“独一性”（unicity），由空间的单一性、无限性与其部分—整体倒转（*mereological inversion*）合成——倒转指部分在存在论上依赖整体，而一般物质对象恰相反，是整体依赖部分（参见 Desmond Hogan 2021）[^hogan-2021]。照他们的说法，对具独一性的空间之直观觉察，并不要求范畴综合。
   - id: 97
     kind: body
     source: |-
       As Tobias Rosefeldt (2022) points out, a longstanding puzzle for the B160–1 note is that it references a notion of synthesis that precedes all concepts, while the notion of synthesis to which Kant appeals in the preceding sections of the B-Deduction is one that does employ concepts, i.e., the categories, and thus does not precede concepts. Commentators generally agree that this synthesis that precedes all concepts must be subject to the unity of apperception (e.g., Messina 2014, Williams 2018)[^messina-2014][^williams-2018], but how might it be more thoroughly characterized? Rosefeldt proposes an account of the second step that at this point features the notion of a decomposing synthesis, which contrasts with a composing synthesis. Kant, as he points out, introduces the notion of a decomposing synthesis only in the Second Antinomy (A505/B533, A524/B552), but in Rosefeldt’s view this notion is aptly suited for Kant’s objectives for the second step. While a compositional synthesis constructs a whole from given parts, a decomposing synthesis begins with a given whole and then decomposes it in some way into parts. In this context, it decomposes space as we are intuitively aware of it into one or more of its finite parts, such as spheres or cubes, while the remaining infinite spatial region excluded by those parts is represented as their phenomenal background or horizon (cf., Husserl 1913, 1939)[^husserl-1913].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如 Tobias Rosefeldt（2022）所指出的，B160–1 注释的一个长期谜题在于：它提到一种先于一切概念的综合，而康德在 B 版演绎前面各节所诉诸的综合概念却是运用概念的，即运用范畴的，因而并不先于概念。评论者一般同意，这种先于一切概念的综合必定服从统觉的统一性（例如 Messina 2014, Williams 2018）[^messina-2014][^williams-2018]，但它可以怎样得到更充分的刻画？Rosefeldt 提出了一个关于第二步的说明，其特点在于引入“分解的综合”这一概念，与“组合的综合”相对照。他指出，康德只在第二组二律背反（A505/B533, A524/B552）中引入分解综合的概念，但在 Rosefeldt 看来，这一概念恰好契合康德第二步的目标。组合的综合从被给予的部分构造整体，而分解的综合则始于一个被给予的整体，然后以某种方式把它分解为部分。在此语境中，它把我们所直观觉察的空间分解为一个或多个有限部分，如球体或立方体，而由这些部分所排除的其余无限空间区域，则被表象为它们的现象背景或视域（参 Husserl 1913, 1939）[^husserl-1913]。
+    step2: |-
+      Tobias Rosefeldt（2022）指出，B160–1 注释有个由来已久的谜：它提及一种先于一切概念的综合，而 B 版演绎前文所诉诸的综合概念却动用概念、即范畴，因而并不先于概念。论者大体同意，这种先于一切概念的综合必服从统觉的统一性（如 Messina 2014、Williams 2018）[^messina-2014][^williams-2018]；但它该如何更充分地刻画？Rosefeldt 为第二步提出一种说明，其要旨是引入“分解的综合”（decomposing synthesis）概念，以与“组合的综合”（composing synthesis）对照。他指出，康德只在第二组二律背反（A505/B533, A524/B552）中引入分解综合；但在 Rosefeldt 看来，此概念恰合康德第二步之目标。组合的综合由被给予的部分构造整体；分解的综合则始于被给予的整体，再以某种方式把它分解为部分。在此语境中，它把我们所直观觉察的空间分解为若干有限部分，如球体、立方体；而被这些部分排除在外的其余无限空间区域，则被表象为它们的现象背景或视域（参 Husserl 1913, 1939）[^husserl-1913]。
   - id: 98
     kind: body
     source: |-
       A test for this proposal is how a decomposing synthesis might represent space given that we conceptualize it as infinite. On Rosefeldt’s account, the decomposition into finite parts may involve imaginatively drawing line segments that form a square. We can subsequently extend these lines in the imagination, and we are conscious that we can freely vary the lines so that “however large the finite space that we construct by drawing lines is, this space will always only be phenomenally present to us within the horizon of a still larger unlimited space.” This does not amount to intuiting space as infinite, but rather coming to understand that the space we intuit is infinite by a *progressus ad infinitum* (A510–11/B538–39), a progression of a series that we understand is never complete (Onof and Schulting 2015)[^onof-2015]. Accordingly, space itself, in this way given as infinite, is an object of intuition for us as the phenomenal horizon of finite regions of space from which we distinguish it in the decomposing synthesis. A parallel account holds for time. This account supplies the meaning, Rosefeldt argues, of Kant’s claim that “a synthesis which does not belong to the senses” is required for “space and time [to be] first given to us as intuitions” (B160–61n).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      检验这一提议的一个办法是：既然我们把空间概念化为无限的，分解的综合如何表象空间？按 Rosefeldt 的说明，分解为有限部分可能涉及在想象中画出构成一个正方形的线段。我们随后可以在想象中延长这些线，并意识到我们能自由改变这些线，以至于“无论我们借画线构造出的有限空间有多大，这一空间对我们而言都始终只是在更大的无限空间的视域之中现象性地在场”。这并不等于把空间直观为无限的，而是借*无限进展*（*progressus ad infinitum*，A510–11/B538–39）——即一个我们理解其为永不完结的序列的推进——逐渐理解我们所直观的空间是无限的（Onof and Schulting 2015）[^onof-2015]。据此，以这种方式被给予为无限的空间本身，作为有限空间区域的现象视域，就是我们直观的一个对象；我们在分解的综合中把它与这些区域区分开来。对时间也有类似的说明。Rosefeldt 论证说，这一说明给出了康德如下主张的含义：“一种不属于感官的综合”是“空间与时间〔首次〕作为直观被给予我们”所必需的（B160–61n）。
+    step2: |-
+      要检验这一提议，可看：既然我们把空间概念化为无限的，分解的综合如何表象空间？据 Rosefeldt，分解为有限部分可涉及在想象中画出构成正方形的线段。我们随后可在想象中延长这些线，并意识到可自由变换它们，以致“无论我们凭画线所构造的有限空间有多大，它对我们始终只是在更大无界空间之视域内现象性地在场”。这并非把空间直观为无限，而是借*无限进展*（*progressus ad infinitum*，A510–11/B538–39）——即一个我们知其永不完结的序列之推进——逐渐领会我们所直观的空间是无限的（Onof and Schulting 2015）[^onof-2015]。准此，如此被给予为无限的空间本身，作为有限空间区域的现象视域，便成为我们直观的对象；在分解的综合中，我们把它与那些区域区分开来。时间亦有平行之说。Rosefeldt 认为，正是这一说明赋予了康德下述主张以意义：“一种不属于感官的综合”乃是“空间与时间〔首次〕作为直观被给予我们”所必需（B160–61n）。
   - id: 99
     kind: body
     source: |-
       As Rosefeldt notes, the conclusion of the second step, the applicability of the categories to space and time, requires appeal to a composing synthesis, since the decomposing synthesis precedes all concepts, and only in the composing synthesis are the categories invoked. Thus a transition from the decomposing to a composing synthesis must be made. One possible strategy is to claim that a composing synthesis is not required for our representation of space as whole, but only for our representations of determinate parts of space, as when we construct figures in geometry. But while the text of the B160–1 note does reference geometry, it also suggests (in the final sentence) that a composing synthesis is required for our representation of space as a whole. Onof and Schulting (2015) argue that it is our explicit representation of the unicity of space as a whole that requires synthesis in accord with the categories, and they embellish their account by specifying precisely which categories are required for the various aspects of unicity (Allison 2015: 420–30 provides a complementary account)[^allison-2015]. An alternative, suggested by Rosefeldt (2022), is that first of all, the finite spatial parts that we actually distinguish in decomposing synthesis, either of individual spatial parts or of various such parts taken as a group, feature a unity, representation of which must be accounted for by compositional synthesis. But further, we are conscious of the fact that the infinite space revealed as the phenomenal horizon in the decomposing synthesis can be subdivided infinitely into finite spatial parts, all of which are represented as parts of that one all-encompassing infinite space. Our representation of the unity of all of this, which Rosefeldt calls world-unity, must also be accounted for by a composing synthesis. From this we can see that given that a composing synthesis accounts for the represented unity of the actual finite spaces we distinguish, it can account for the represented world-unity as well. (For a discussion on how a composing synthesis can operate on a target that is indeterminate in the way that world-unity is, see Daniel Sutherland 2021, ch. 5, referenced in Rosefeldt 2022: 16 n.5)[^rosefeldt-2022][^sutherland-2021].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如 Rosefeldt 所注意到的，第二步的结论即范畴对空间与时间的可适用性，要求诉诸组合的综合，因为分解的综合先于一切概念，而唯有在组合的综合中范畴才被调用。因此，必须从分解的综合过渡到组合的综合。一种可能的策略是主张：组合的综合对于我们关于作为整体的空间的表象并不必要，而只对于我们关于空间之确定部分的表象必要，例如我们在几何学中构造图形时。但 B160–1 注释的文本虽然提到几何学，也在最后一句中暗示：组合的综合对于我们关于作为整体的空间的表象是必要的。Onof 与 Schulting（2015）论证说，正是我们对作为整体的空间之独一性的明确表象，要求依照范畴的综合，他们还精确地指明独一性的各个方面分别需要哪些范畴（Allison 2015: 420–30 提供了一个互补的说明）[^allison-2015]。Rosefeldt（2022）提出的另一方案是：首先，我们在分解的综合中实际区分的那些有限空间部分（或是个别空间部分，或是被当作一组的若干此类部分）具有一种统一性，关于它的表象必须由组合的综合来说明。但进一步说，我们意识到：在分解的综合中作为现象视域而显露的无限空间，可以被无限地细分为有限空间部分，而这些部分全都被表象为那唯一的、无所不包的无限空间的部分。我们对这一切之统一性的表象——Rosefeldt 称之为世界统一性——也必须由组合的综合来说明。由此可见，既然组合的综合说明了我们所区分的实际有限空间的被表象统一性，它也能说明被表象的世界统一性。（关于组合的综合如何能作用于像世界统一性这样未确定的目标，见 Daniel Sutherland 2021 第 5 章，Rosefeldt 2022: 16 n.5 曾引及）[^rosefeldt-2022][^sutherland-2021]。
+    step2: |-
+      Rosefeldt 亦指出：第二步的结论——范畴可适用于空间与时间——须诉诸组合的综合，因为分解的综合先于一切概念，唯有组合的综合才调用范畴。于是，必须由分解的综合过渡到组合的综合。一种可能的策略是：组合的综合对于我们关于空间整体的表象并非必需，仅对于我们关于空间之确定部分的表象才必需——比如在几何学中构造图形时。然而 B160–1 注释虽提及几何学，却也在末句暗示：组合的综合对于我们关于空间整体的表象乃是必需。Onof 与 Schulting（2015）主张，恰是我们对空间整体之独一性的明确表象，要求合乎范畴的综合；他们并精细指明独一性各个侧面分别需要哪些范畴（Allison 2015: 420–30 提供了一个互补说明）[^allison-2015]。Rosefeldt（2022）另提一方案：首先，我们在分解的综合中实际区分的有限空间部分——无论是个别部分，还是被合为一组的若干部分——具有某种统一性，其表象须由组合的综合来说明。其次，我们意识到：在分解的综合中作为现象视域显露的无限空间，可被无限地细分为有限部分，而这些部分一概被表象为那唯一无外的无限空间之部分。我们关于这一切之统一的表象——Rosefeldt 谓之世界统一性——同样须由组合的综合来说明。由此可知：组合的综合既说明了我们所区分的实际有限空间之被表象的统一，也就能说明被表象的世界统一性。（组合的综合如何能作用于像世界统一性那样未确定的目标，参 Daniel Sutherland 2021 第 5 章，见 Rosefeldt 2022: 16 n.5 所引）[^rosefeldt-2022][^sutherland-2021]。
   - id: 100
     kind: body
     source: |-

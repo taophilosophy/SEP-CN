@@ -2,7 +2,7 @@
   "slug": "han-dynasty",
   "kind": "retranslate",
   "zh_doc": "h/han-dynasty.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "H-main-20261110",
       "at": "2026-11-09T20:53:31Z",
       "evidence": "s3 体例终校：check_style 0 issue（bold-spacing 8 处实修后复零）、check_prose 3 条全在引文块（ADR-0020 豁免）、check_math 0/0、check_academic --strict 无硬错误、check_terms 定点核销无缺译（余 Nyāya/vaiśeṣika 两条为他批存量冲突）、登记册行已在 HEAD（术语 59 行、人名 39 行）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "H-main-20261110b",
+      "at": "2026-11-10T05:43:26Z",
+      "evidence": "r1 初审（新会话独立复核，满足 ISO 17100 复核独立性）：yuanwen 14.8k 词与译文 327 行全文对照通读；对账——正文脚注 marker 25:25 键集全等、defs 77:77、标题 24:24、内联引用组 8:9（+1 为引文内页码括注属合法）。实修 7 处：①段51 删「行动。 《」间杂空格；②段99『以对那些占筮用…的短小描述』改『以占筮所用…的短小描述』；③段143『改变理式』→『改变既有格局』（patterns 非术语理）；④段163『人八岁』→『孩子八岁』（children）；⑤段181『名不符实』→『名不副实』；⑥段203 括注归位『断言他——以及某些相类思想家——是法家哲学家』；⑦标题还原上游全题：H1/SUMMARY/mu-lu-s 三处『Han Dynasty』→『Philosophy in Han Dynasty China』。四检：check_style 0、check_academic --strict 0 硬错误、check_prose 残 3 条全在引文块内（23/129/157，ADR-0020 豁免）、check_math 0/0。"
     }
   ],
   "blockers": [],

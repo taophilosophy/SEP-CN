@@ -2,7 +2,7 @@
   "slug": "digital-art",
   "kind": "retranslate",
   "zh_doc": "d/digital-art.md",
-  "state": "cleared",
+  "state": "s1_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,20 @@
       "actor": "task_ops",
       "at": "2026-11-01T05:20:20Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "DR-main-20261110",
+      "at": "2026-11-10T05:47:40Z",
+      "evidence": "ADR-0021 段落账本 91 段全填（step1/step2 反思两步），lq check 守恒门通过，compose 合成 284 行"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "D-main-20261110",
+      "at": "2026-11-10T06:08:10Z",
+      "evidence": "对照核销：marker 60:60 顺序全等、defs 59:59 键集全等、节数 16:16、汉字 17664、粗体缩写 0:0；H1「数字艺术哲学 digital art, philosophy of」与 SUMMARY 第 698 行定名一致；相关词条 5 条（现代计算机发展史/创造力/电影哲学/古德曼的美学/艺术本体论史）对照 SUMMARY 无误"
     }
   ],
   "blockers": [],

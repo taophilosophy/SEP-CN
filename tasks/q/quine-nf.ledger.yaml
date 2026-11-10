@@ -200,70 +200,96 @@ segments:
     kind: body
     source: |-
       and an axiom scheme of comprehension at each type. Notice that the formula displayed above is not, strictly speaking, an axiom of extensionality, since the variables do not have concrete type subscripts, so it is not officially a formula at all. It’s a kind of axiom scheme. Annoyingly, this subtlety matters. The fact that variables have type subscripts precludes the more usual exploitations of subscripting for purposes such as indicating position in a sequence. This makes the language of type theory infeasible for most mathematical purposes, so one looks for excuses to omit the type subscripts. Why might this be a safe manœuvre? Let us define $\Phi^+$ to be the result of raising all the type subscripts on all variables in $\Phi$. It’s safe because the theory has the same axioms at each type, so it has the same theorems at each type, so whenever one has a proof of a formula $\Phi$ one also has a proof of $\Phi^+$. One omits the type subscripts because even though, once has omitted them, there are infinitely many ways of restoring them, these infinitely many differently restored versions do not appear to differ significantly. We shall take up later the theme of the significance of this difference, but for the moment we note only that it appears – as it appeared to Russell and his successors up to and including Quine – that the differences could be safely overlooked. This strategy of overlooking is called *typical ambiguity*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      以及每一类型上的概括公理图式。请注意，上面展示的公式严格说来并非一条外延性公理，因为其中的变量没有具体的类型下标，所以它正式地讲根本不是一个公式。它是一种公理图式。恼人的是，这一微妙之处确有影响。变量带类型下标这一事实，排除了更常见的利用下标来表示序列中的位置之类的做法。这使类型论的语言对大多数数学目的而言不可行，于是人们去找借口省掉类型下标。为什么这可能是安全的操作？让我们把 $\Phi^+$ 定义为把 $\Phi$ 中所有变量上的类型下标统统提升一级所得的结果。它是安全的，因为该理论在每个类型上都有相同的公理，所以在每个类型上都有相同的定理，因此只要有了公式 $\Phi$ 的证明，也就有了 $\Phi^+$ 的证明。人们之所以省略类型下标，是因为省略之后恢复的方式有无穷多种，而这无穷多种不同恢复的版本看上去并无显著差异。这一差异的意义何在，我们稍后再论；此刻只指出一点：看起来——在罗素以及直到蒯因为止的他的后继者看来也是如此——这些差异可以安全地忽略。这种忽略的策略叫作典型歧义。
+    step2: |-
+      以及每一类型上的概括公理图式。请注意，上文展示的公式严格说来并不是外延性公理：其中变量没有具体的类型下标，所以它正式说来根本算不上公式，只是一种公理图式。恼人的是，这个细微之处确有影响。变量带类型下标，就把利用下标表示序列位置之类更常见的用法堵死了，于是类型论的语言对大多数数学用途都不可行，人们便要给自己找借口省掉类型下标。这为什么可以算安全之举？令 $\Phi^+$ 表示把 $\Phi$ 中所有变量的类型下标统统提升一级所得的结果。安全的原因是：该理论在每个类型上的公理相同，因而在每个类型上的定理也相同，所以只要有公式 $\Phi$ 的证明，也就有 $\Phi^+$ 的证明。至于为什么能省掉类型下标，是因为省掉之后恢复的方式虽然无穷多，这些不同的恢复版本看上去并无显著差别。这种差别的意义，我们后文再说；眼下只需指出：看起来——罗素及其直到蒯因为止的后继者也都这样看——这些差别尽可放心忽略。这种忽略的策略就叫 **典型歧义**。
   - id: 23
     kind: body
     source: |-
       This version of Type theory, as simplified by Ramsey, Gödel, Carnap and Quine. is the point of departure for Quine [1937a] (which is still a good place to read the background). NF is obtained from this type theory by taking its axioms and stripping the type subscripts off all the variables. This is subtly different from Type Theory used with a policy of typical ambiguity. Under that scheme a formula like
 
       $$\tag{A} \exists x\forall y(y \in x) $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一经拉姆齐、哥德尔、卡尔纳普与蒯因逐步简化的类型论版本，是蒯因 [1937a] 的出发点（该文至今仍是了解背景的好读物）。NF 就是从这套类型论出发，取其公理、把所有变量的类型下标剥掉而得到的。这与按典型歧义策略使用的类型论有细微差别。在后一方案下，像
+
+      $$\tag{A} \exists x\forall y(y \in x) $$
+    step2: |-
+      这个由拉姆齐、哥德尔、卡尔纳普与蒯因相继简化而成的类型论版本，正是蒯因 [1937a] 的出发点（该文至今仍是了解背景的好读物）。NF 的来历是：取这套类型论的公理，把所有变量上的类型下标一概剥去。这与按典型歧义策略使用的类型论有细微差别。按后一种策略，下面这样的式子
+
+      $$\tag{A} \exists x\forall y(y \in x) $$
   - id: 24
     kind: body
     source: |-
       isn’t really a formula at all, but a formula scheme, a shorthand for any of the genuine formulæ to be obtained from it by adding subscripts to ‘$x$’ and ‘$y$’. Which subscript? In every setting it will either (i) become clear which subscript, or (ii) become clear that it doesn’t matter. At all events, (A) is not an axiom of Type theory: the theory does not have a universal set, what it has is a universal set at each type.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      根本不是一个公式，而是一个公式图式，是给它加上 '$x$' 与 '$y$' 的下标所能得到的任何真正公式的简写。加哪个下标？在每一种场合，要么 (i) 会弄清楚该加哪个下标，要么 (ii) 会弄清楚加哪个都无所谓。无论如何，(A) 不是类型论的公理：该理论没有全集，它有的是每个类型上的一个全集。
+    step2: |-
+      其实根本算不上公式，只是个公式图式——一个简写，代表给 '$x$' 与 '$y$' 配上下标之后所能得到的任何一个真正的公式。配哪个下标？在任何场合，答案要么是 (i) 会看清楚该配哪个下标，要么是 (ii) 会看清楚配哪个都不打紧。总之，(A) 不是类型论的公理：该理论没有全集；它有的是每个类型各有一个全集。
   - id: 25
     kind: body
     source: |-
       However it is not just the universal set that appears at each type. We also get the naturals, the reals and the rationals etc. etc. at each type, and this *Hall of Mirrors* effect is clearly not what we want. Quine’s move in [1937a] is the natural one of taking the pseudoformulæ such as (A) and thinking of them as *genuine* formulæ in a new, one-sorted, language. The new theory does not have a universal set at each type, for it has no types: it has a single universal set. And a single implementation of the reals, and so on. Formulæ of the one-sorted language obtained in this way from formulæ of type theory are said to be *stratified*. The axioms of NF are now extensionality plus those instances of naïve comprehension that happen to be stratified.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而在每个类型上出现的并不只有全集。我们还会在每个类型上得到自然数、实数与有理数等等，这种*Hall of Mirrors*效应显然不是我们想要的。蒯因在 [1937a] 中的做法是很自然的：把像 (A) 这样的伪公式拿来，视为一种新的、单排序语言中的*真正*公式。新理论没有每个类型上的全集，因为它根本没有类型：它只有一个全集。实数也只实现一份，如此等等。以这种方式从类型论公式得到的单排序语言公式，被称为*分层的*。现在 NF 的公理就是外延性，加上那些恰好分层的朴素概括实例。
+    step2: |-
+      然而，每个类型上冒出来的不只是全集：自然数、实数、有理数等等，也都在每个类型上各来一份。这种 **镜厅** 效应显然不是我们想要的。蒯因 [1937a] 的招法很自然：把 (A) 这类伪公式当成一种新的、单排序语言中的 **真正** 公式。新理论并没有每个类型各一个全集——它压根没有类型之分——它只有一个全集；实数也只实现一次，其余类推。凡以这种方式由类型论公式得到的单排序语言公式，都叫作 **分层的**。于是 NF 的公理就是外延性，加上那些碰巧分层的朴素概括实例。
   - id: 26
     kind: body
     source: |-
       Interestingly, natural and well-motivated though this progression sounds, it does not provide a consistency proof for the system it leads to. We will discuss this later.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有趣的是，这一推演听起来虽然自然且动机充分，却并不为它所导向的系统提供一致性证明。这一点我们稍后讨论。
+    step2: |-
+      有意思的是，这套推演听起来顺理成章、动机也充分，却给不出它所通往的那个系统的一致性证明。下文再谈。
   - id: 27
     kind: body
     source: |-
       The hard part is to fully understand stratification. There is an easy rule of thumb with formulæ that are in primitive notation, for one can just ask oneself whether the formula could become a wff of type theory by adding type indices. It’s harder when one has formulæ no longer in primitive notation, and the reader encounters these difficulties very early on, since the ordered pair is not a set-theoretic notion. How does one determine whether or not a formula is stratified when it contains subformulæ like $f(x) = y$? The technical/notational difficulty here lands on top of – as so often – a conceptual difficulty. The answer is that of course one has to fix an implementation of ordered pair and stick to it. Does that mean that – for formulæ involving ordered pairs – whether or not the given formula is stratified depends on how one implements ordered pairs? The answer is ‘yes’ but the situation is not as grave as this suggests. There are various standard definitions of ordered pair, and they are all legitimate in NF, and all satisfactory in the sense that they are “level” or *homogeneous*. All of them make the formula “$\langle x, y\rangle = z$” stratified and give the variables $x$ and $y$ the same type; $z$ takes a higher type in most cases (never lower). *How* much higher depends on the version of ordered pair being used, but there are very few formulæ that come out stratified on one version of ordered pair but unstratified on another, and they are all pathological in ways reminiscent of the paradoxes.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      难的部分在于彻底理解分层。对于处于原始记法中的公式，有一条容易的经验法则：只要问自己，能否通过添加类型指称使该公式成为类型论的合式公式。当公式不再处于原始记法时，事情就难了，而读者很早就会遇到这些困难，因为有序对并不是集合论的概念。当一个公式含有 $f(x) = y$ 这样的子公式时，如何判定它是否分层？这里的技术／记法困难又一如往常地叠加在概念困难之上。答案是：当然必须先固定一种有序对的实现并坚持用它。这是否意味着——对于涉及有序对的公式——给定公式是否分层取决于如何实现有序对？答案是“是”，但情况并没有这么严重。有序对有种种标准定义，它们在 NF 中都合法，而且都令人满意，即都是“齐平”的或*homogeneous*的。它们都使公式 “$\langle x, y\rangle = z$” 分层，并给变量 $x$ 与 $y$ 相同的类型；$z$ 在多数情形下取更高的类型（绝不会更低）。高出多少取决于所用的有序对版本，但很少有公式在一种有序对版本下分层、在另一种下不分层，而这类公式全都病态得让人想起悖论。
+    step2: |-
+      关键在于把分层彻底弄明白。若公式还处在原始记法中，有条省事的经验法则：只消自问，给它添上类型标号，能不能变成类型论的合式公式。一旦公式不在原始记法里，就难办了——读者很早就撞上这个难处，因为有序对并非集合论概念。面对含有 $f(x) = y$ 这类子公式的式子，怎么判定分层？这里的技术与记法困难，照例压在概念困难之上。答案是：当然得先把有序对的一种实现方式定下来，然后守住它。那么，对涉及有序对的公式而言，分层与否岂不取决于有序对怎么实现？答案是“是”，可局面并没有那么糟。有序对的标准定义有好几种，在 NF 里全都合法，也都令人满意，因为它们都是“齐平的”或 *homogeneous* 的。它们都让 “$\langle x, y\rangle = z$” 分层，并赋予 $x$ 与 $y$ 相同的类型；$z$ 在多数情形下拿高一级的类型（从不会更低）。至于高出多少，要看用的是哪种有序对，不过很少有公式在一种实现下分层、换一种就不分层；这类公式全都病态得叫人想起悖论。
   - id: 28
     kind: body
     source: |-
       The best way to illustrate this is by considering ordinals $(=$ isomorphism classes of wellorderings) in NF. For any ordinal $\alpha$ the order type of the set (and it is a set) of the ordinals below $\alpha$ is wellordered. In ZF one can prove that the wellordering of the ordinals below $\alpha$ is of length $\alpha$. In NF one cannot prove this equation for arbitrary $\alpha$ since the formula in the set abstract whose extension is the graph of the isomorphism is not stratified for any implementation of ordered pair. Now any wellordering $R$ of a set $A$ to length $\alpha$ gives rise to a wellordering of $\{\{\{a\}\} : a \in A\}$, and if instead one tries to prove (in NF) that the ordinals below $\alpha$ are isomorphic to the wellordering of length $\alpha$ decorated with curly brackets, one finds that the very assertion that there is an isomorphism between these two wellorderings comes out stratified or unstratified depending on one’s choice of implementation of ordered pair! This is because, in some sense, the applications of the pairing function are *two* deep in wellordering of the ordinals below $\alpha$, but only *one* deep in the wellordering of the set of double singletons. If we use Quine ordered pairs, the assertion is stratified – and provable. If one uses Wiener-Kuratowski ordered pairs then the assertion is unstratified and refutable. However if one uses Wiener-Kuratowski ordered pairs there is instead the assertion that the ordinals below $\alpha$ are isomorphic to the obvious wellordering of $\{\{\{\{\{a\}\}\}\} : a \in A\}$, which comes out stratified (and provable). In general for each implementation of ordered pair there is a depth of nesting of curly brackets which will make a version of this equality come out stratified and true. This does not work with deviant implementations of ordered pair under which “$\langle x, y\rangle = z$” is unstratified or even with those which are stratified but give the variables $x$ and $y$ different types. Use of such implementations of ordered pairs results in certain sets not being the same size as themselves!
-    step1: TBD
-    step2: TBD
+    step1: |-
+      说明这一点最好的办法，是考察 NF 中的序数（$=$ 良序的同构类）。对任何序数 $\alpha$，小于 $\alpha$ 的序数所成之集（它确实是集合）的序型是良序的。在 ZF 中可证：小于 $\alpha$ 的序数上的良序长度为 $\alpha$。在 NF 中不能对任意 $\alpha$ 证明这一等式，因为其外延是同构图的集合抽象式中的公式，无论采用哪种有序对实现都不分层。现在，集合 $A$ 上长度为 $\alpha$ 的任何良序 $R$ 都会给出 $\{\{\{a\}\} : a \in A\}$ 上的一个良序；而若改而（在 NF 中）试图证明小于 $\alpha$ 的序数与加了大括号装饰的长度为 $\alpha$ 的良序同构，就会发现：这两个良序之间存在同构这一断言本身，究竟分层还是不分层，取决于对有序对实现方式的选择！这是因为，在某种意义上，配对函数的施用在下述两种情形中嵌套深度不同：在小于 $\alpha$ 的序数的良序中是*两*层深，而在双单元素集之集的良序中只有*一层*深。若用蒯因有序对，该断言分层——而且可证。若用维纳—库拉托夫斯基有序对，该断言不分层且可反驳。不过若用维纳—库拉托夫斯基有序对，另有一条断言：小于 $\alpha$ 的序数与 $\{\{\{\{\{a\}\}\}\} : a \in A\}$ 的显然良序同构，这条倒分层（而且可证）。一般地，对每种有序对实现，都存在一个使这个等式某个版本分层且为真的花括号嵌套深度。但对于“$\langle x, y\rangle = z$”不分层的乖异实现，乃至虽分层却给变量 $x$ 与 $y$ 分配不同类型的实现，这套办法不管用。使用这类有序对实现，会导致某些集合与自己大小不同！
+    step2: |-
+      要把这一点说清楚，最好的办法是考察 NF 中的序数（$=$ 良序的同构类）。任取序数 $\alpha$，小于 $\alpha$ 的那些序数构成一个集合（它确实是集合），其序型是良序的。在 ZF 里可以证明：小于 $\alpha$ 的序数上的这个良序，长度为 $\alpha$。在 NF 里，对任意的 $\alpha$ 证不出这个等式，因为那个以该同构之图为其外延的集合抽象式中的公式，无论怎样实现有序对，都不分层。话说回来，集合 $A$ 上长度 $\alpha$ 的任一良序 $R$，都会给出 $\{\{\{a\}\} : a \in A\}$ 上的一个良序；此时若改而（在 NF 中）去证小于 $\alpha$ 的序数同构于把长度 $\alpha$ 的良序套上几层花括号所要得到的那个良序，就会发现：这两个良序之间存在同构这一断言本身，到底分层还是不分层，全看你怎么实现有序对！原因在于，在某种意义上，配对函数的施用嵌在小于 $\alpha$ 的序数的良序里有两层深，而嵌在双单元素集之集的良序里只有一层深。用蒯因有序对，该断言分层——而且可证。用维纳—库拉托夫斯基有序对，该断言就不分层，而且可被反驳。不过换用维纳—库拉托夫斯基有序对，另有一条断言顶上：小于 $\alpha$ 的序数同构于 $\{\{\{\{\{a\}\}\}\} : a \in A\}$ 上那个显而易见的良序，这一条反倒分层（而且可证）。一般说来，对每一种有序对实现，总有一个花括号嵌套深度，能让这个等式的某个版本分层并且为真。可要是碰上“$\langle x, y\rangle = z$”都不分层的乖异实现，或者虽然分层却给变量 $x$ 与 $y$ 分配了不同类型的实现，这套办法就失灵了。使用这类有序对实现，会让某些集合跟自己大小不等！
   - id: 29
     kind: body
     source: |-
       Perhaps a concrete example would help. Let us try to prove Cantor’s theorem. The key step in showing there is no surjection $f : X \to \wp(X)$ by *reductio ad absurdum* is the construction of the diagonal set $\{x \in X : x \not\in f(x)\}$. The proof relies on this object being a set, which it will be a set if “$x \in X \amp x \not\in f(x) \amp f : X \rightarrow \wp(X)$” is stratified. This in turn depends on “$\exists y[y \in \wp(X) \amp \langle y, x\rangle \in f \amp f : X \rightarrow \wp(X)]$” being stratified. And it *isn’t* stratified, because “$\langle y, x\rangle \in f$” compels ‘$x$’ and ‘$y$’ to be given the same type, while “$f : X \rightarrow \wp(X)$” will compel ‘$y$’ to be given a type one higher than ‘$x$’. This is because we have subformulæ ‘$x \in X$’ and ‘$y \subseteq X$’. Notice that we can draw this melancholy conclusion without knowing whether the type of ‘$f$’ is one higher than that type of its argument, or two, or three …. We cannot prove Cantor’s theorem.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      也许一个具体例子会有帮助。让我们试着证明康托尔定理。用*reductio ad absurdum*证明不存在满射 $f : X \to \wp(X)$ 的关键一步，是构造对角集 $\{x \in X : x \not\in f(x)\}$。该证明依赖于这个对象是集合；只要 “$x \in X \amp x \not\in f(x) \amp f : X \rightarrow \wp(X)$” 分层，它就是集合。而这又取决于 “$\exists y[y \in \wp(X) \amp \langle y, x\rangle \in f \amp f : X \rightarrow \wp(X)]$” 是否分层。它*并不*分层，因为 “$\langle y, x\rangle \in f$” 迫使 ‘$x$’ 与 ‘$y$’ 取相同类型，而 “$f : X \rightarrow \wp(X)$” 又迫使 ‘$y$’ 取比 ‘$x$’ 高一级的类型。缘故在于我们有子公式 ‘$x \in X$’ 与 ‘$y \subseteq X$’。请注意，我们无需知道 ‘$f$’ 的类型比其变目的类型高一级、两级还是三级……就能得出这个令人沮丧的结论。我们证不出康托尔定理。
+    step2: |-
+      不妨举个具体例子。试证康托尔定理。要用归谬法证明不存在满射 $f : X \to \wp(X)$，关键一步是造出对角集 $\{x \in X : x \not\in f(x)\}$。证明要靠这个对象是集合；而只要 “$x \in X \amp x \not\in f(x) \amp f : X \rightarrow \wp(X)$” 分层，它就是集合。这一步又取决于 “$\exists y[y \in \wp(X) \amp \langle y, x\rangle \in f \amp f : X \rightarrow \wp(X)]$” 是否分层。它偏偏不分层：因为 “$\langle y, x\rangle \in f$” 硬要 ‘$x$’ 与 ‘$y$’ 同类型，而 “$f : X \rightarrow \wp(X)$” 又硬要 ‘$y$’ 比 ‘$x$’ 高一级。这都源于我们手里有 ‘$x \in X$’ 与 ‘$y \subseteq X$’ 这样的子公式。请注意，我们并不需要知道 ‘$f$’ 的类型比其变目高一级、两级还是三级……就能得出这个令人沮丧的结论。康托尔定理，我们证不出来。
   - id: 30
     kind: body
     source: |-
       However if we try instead to prove that $\{\{x\} : x \in X\}$ cannot be mapped onto $\wp(X)$ we find that the diagonal set is defined by a stratified condition and exists, so the proof succeeds. This tells us that we cannot prove that $\lvert X\rvert = \lvert \{\{x\} : x \in X\}\rvert$ for arbitrary $X$: graphs of restrictions of the singleton function tend not to exist. If they did, we would be able to prove Cantor’s theorem in full generality. This gives rise to an endomorphism $T$ on cardinals, where $T\lvert X\rvert =_{df} \lvert \{\{x\} : x \in X\}\rvert$. $T$ misbehaves in connection with the sets that in NF studies we call *big* (as opposed to *large*, as in *large cardinals* (in ZF)). These are the collections like the universal set, and the set of all cardinals and the set of all ordinals: collections denoted by expressions which in ZF-like theories will pick out proper classes. If $\lvert X\rvert = \lvert \{\{x\} : x \in X\}\rvert$ we say that $X$ is *cantorian*. If the singleton function restricted to $X$ exists, we say that $X$ is *strongly cantorian*. Sets whose sizes are concrete natural numbers are strongly cantorian. IN (the set of Frege natural numbers) is cantorian, but the assertion that it is strongly cantorian implies the consistency of NF.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，如果我们改而证明 $\{\{x\} : x \in X\}$ 不能满射到 $\wp(X)$ 上，就会发现对角集由一个分层的条件定义，因而存在，证明于是成功。这告诉我们，对任意的 $X$，我们证不出 $\lvert X\rvert = \lvert \{\{x\} : x \in X\}\rvert$：单元素函数之限制的图往往不存在。若它们存在，我们就能完全一般地证明康托尔定理。这就产生基数上的一个自同态 $T$，其中 $T\lvert X\rvert =_{df} \lvert \{\{x\} : x \in X\}\rvert$。在 NF 研究中称为*大*（big，以区别于大基数意义上的 large）的那些集合上，$T$ 行为失常。这类集合就是全集、所有基数之集、所有序数之集之类：凡在类 ZF 理论中会挑出真类的表达式所指称的汇集。若 $\lvert X\rvert = \lvert \{\{x\} : x \in X\}\rvert$，我们就说 $X$ 是*康托尔的*。若限制在 $X$ 上的单元素函数存在，我们就说 $X$ 是*强康托尔的*。大小为具体自然数的集合是强康托尔的。IN（弗雷格自然数之集）是康托尔的，但断言它是强康托尔的，会蕴涵 NF 的一致性。
+    step2: |-
+      换个路子，去证 $\{\{x\} : x \in X\}$ 不能满射到 $\wp(X)$ 上，就会发现对角集由分层条件定义，因而存在，证明也就成立了。由此可见，对任意的 $X$，$\lvert X\rvert = \lvert \{\{x\} : x \in X\}\rvert$ 是证不出来的：单元素函数受限于该集之后所得函数的图，往往根本不存在。倘若存在，康托尔定理就能完全一般地证出。这就引出基数上的一个自同态 $T$，其中 $T\lvert X\rvert =_{df} \lvert \{\{x\} : x \in X\}\rvert$。碰上 NF 研究中称作 **大集合**（big，以别于 ZF 中 **大基数** 意义上的大）的那些集合，$T$ 的举止就失常了。所谓大集合，就是全集、全体基数之集、全体序数之集这一类汇集：在类 ZF 理论里，指称它们的表达式挑出的是真类。若 $\lvert X\rvert = \lvert \{\{x\} : x \in X\}\rvert$，我们说 $X$ 是 **康托尔的**；若单元素函数限制在 $X$ 上存在，就说 $X$ 是 **强康托尔的**。大小为具体自然数的集合都是强康托尔的。IN（弗雷格自然数之集）是康托尔的；但断言它强康托尔，就会蕴涵 NF 的一致性。
   - id: 31
     kind: body
     source: |-
       It can be plausibly argued that the bizarre behaviour of the $T$ function (and it is at its most bizarre in connection with the big sets) is just the paradoxes bubbling up again. Assertions to the effect that $T$ is well-behaved have strong consistency strength (Orey [1955], [1956]) and play in NF studies the kind of rôle that large cardinal axioms play in ZF-like systems. Indeed there are some exact equivalents. The $T$-assertions may look odd, but their oddness is only skin-deep. They are actually expressing the same mathematics that happens in ZF, but through an unfamiliar formalisation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      可以言之成理地主张：$T$ 函数的怪异行为（在与大集合相关时最为怪异）不过是悖论再度冒泡。断言 $T$ 行为良好，具有很强的一致性强度（Orey [1955], [1956]），在 NF 研究中扮演的角色类似类 ZF 系统中的大基数公理。事实上还存在一些精确的等价物。$T$ 断言也许显得古怪，但其古怪只是表皮之下的。它们实际上表达的正是 ZF 中发生的那套数学，只不过通过一种陌生的形式化而已。
+    step2: |-
+      有一个颇有道理的说法：$T$ 函数的怪异举止（碰到大集合时怪到极点）无非是悖论又冒上来了。那些说 $T$ 循规蹈矩的断言，一致性强度很高（Orey [1955], [1956]），在 NF 研究里扮演的角色，正像大基数公理在类 ZF 系统中所扮演的角色。两者甚至还有一些精确的对应。$T$ 断言看着怪，可怪只是皮相的；它们其实说的是 ZF 里发生的那同一套数学，只是换了一种陌生的形式化讲法。
   - id: 32
     kind: body
     source: |-
       ## 4. History
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. History
+    step2: |-
+      ## 4 历史
   - id: 33
     kind: body
     source: |-
