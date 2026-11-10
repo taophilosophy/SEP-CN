@@ -4890,10 +4890,10 @@
 | virtuality | — | 虚拟性 | langer 首译 | 朗格研究通行；凭证 2026-11-08 | 2026-11-08 |
 | virtue | — | 德性（古希腊伦理学传统；亦作“美德”） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | virtue epistemology | — | 德性知识论 | knowledge-how | 知识论通行（Sosa/Zagzebski 谱系）；凭证 2026-11-10 | 2026-11-10 |
-| virtue ethics | — | 德性伦理学 | 首现（justice-virtue） | 学界惯例（德性伦理复兴通行译法，Hursthouse/Foot 谱系）；凭证 2026-11-02 | 2026-11-02 |
+| virtue ethics | — | 德性伦理学（亦作“美德论”） | 首现（justice-virtue） | 学界惯例（德性伦理复兴通行译法，Hursthouse/Foot 谱系）；审定名词库作“美德论”（自然辩证法名词，2026-11-11 凭证），通行形为主 | 2026-11-11 |
 | virtue of fairness | — | 公平之德 | justice-moral-psych | 仿“正义之德”构词（本词条专名）；凭证 2026-11-10 | 2026-11-10 |
 | virtue of justice | — | 正义之德 | justice-moral-psych | 沿用 justice-virtue 词条定名；凭证 2026-11-10 | 2026-11-10 |
-| virtue theory | — | 德性论 | 首译（saadya） | 伦理学通行（virtue theory／德性伦理学）；凭证 2026-11-09 | 2026-11-09 |
+| virtue theory | — | 德性论（亦作“美德论”） | 首译（saadya） | 伦理学通行（virtue theory／德性伦理学）；审定名词库作“美德论”（医学伦理学名词，2026-11-11 凭证），通行形为主 | 2026-11-11 |
 | virtue-prior | — | 德性优先 | 首现（justice-virtue） | 学界惯例（与规范优先相对：德性在先、规范在后）；凭证 2026-11-02 | 2026-11-02 |
 | virtuous person | — | 有德之人（德性伦理学；亦作“有德者”“德性之人”） | 语料回收 | 学界惯例；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
 | vis aestimativa | vis aestimativa | 估量力 | lorenzo-valla | 中世纪灵魂论通行（亦作“评判力”备查） | 2026-11-04 |
