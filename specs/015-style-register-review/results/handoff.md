@@ -1,29 +1,33 @@
 # specs/015 交接卡（语体全局复核）
 
-更新：2026-11-10 18:10（pc6）。进度只认 `results/verdicts.jsonl`，不认会话记忆。
+更新：2026-11-11（pc6）。进度只认 `results/verdicts.jsonl`，不认会话记忆。
 
 ## 已完成
 
 * 规则与门禁：`rules/02` 语体与文风条款、`rules/04` 二校/r1 通读、ADR-0033、`check_academic` 的 `task-style-attest`（只查语义复核留痕）、`task_ops.py reopen`（done→pending）。
-* J 批 12 条 done 全部语义通读完毕，结论入 `verdicts.jsonl`：
+* 2026-11-10：J 批 12 条 done 全部语义通读（classical：jayaraasi、john-norris、johann-sturm；mixed：john-italos、jaina-philosophy；余 7 modern），5 条已置空。
+* 2026-11-11：全库快速复核（用户指令「每个 .md 随机抽查 3 段，语义分析，同类条目置空」）。方法：每文件随机 3 段语义抽样 + `bin/register_metrics.py` 的真·之/的比与文言句式定位（剔除“之一/之后/之间”等现代固定搭配；**命中数不作判定依据**）。新判 23 条，入 `verdicts.jsonl`（累计 35 条）。
 
-| verdict | 词条 |
-| ---- | ---- |
-| classical（置空） | jayaraasi、john-norris、johann-sturm |
-| mixed（置空） | john-italos、jaina-philosophy |
-| modern | japanese-aesthetics、joane-petrizi、james-ward、justus-lipsius、james、justice-virtue、justep-coherence |
+| verdict | 本轮词条 | 处置 |
+| ---- | ---- | ---- |
+| classical | intentionality-ancient、james-mill、israeli、early-modern-india | 置空（cleared） |
+| mixed | africana、aesthetics-18th-german | 置空（cleared） |
+| modern（保留） | buddha、davidson、legrand、confucius、korean-philosophy、natphil-ren、albalag、kukai、dai-zhen、knowledge-acquaindescrip、newton-philosophy、cudworth、luxemburg、peter-damian、peter-damian.supplement、telesio、gorampa | none（其中 davidson/legrand/dai-zhen/knowledge-acquaindescrip/gorampa 有个别文言句，列入定点改写） |
 
-* 5 条不合规词条已按用户裁定置空（`reopen` → `clear`），正文仅余 H1，任务状态 `cleared`，回到重译队列；旧 steps 与账本保留为历史凭证。新 draft 必须新建账本，不得沿用旧 step2。
+* 本轮 6 条置空均按 ADR-0033：`reopen` → `clear`，正文仅余 H1，任务状态 `cleared`，旧 steps 与账本保留为历史凭证。其中 james-mill、early-modern-india 原为 `s3_checked`（在途），按同一语义手工追记 `reopen` 步后回 `pending`，再经 `clear` 工具门置空。
+* 判定分界（与 015 先例一致）：真·之/的 ≥0.35 或文言句式成段 → classical/mixed；<0.35 且主体句法为现代汉语 → modern（个别文言句按定点改写登记，不整篇回炉）。john-italos（0.53）判 mixed 的既有先例即此线的上端。
 
 ## 待办
 
-1. `results/queue.jsonl` 现有 301 条 done 词条（置空 5 条后重生成）。按 done 时间升序逐条通读，结论追加 `verdicts.jsonl`；判 classical/mixed 即 `task_ops.py reopen` + `clear`。
+1. `results/queue.jsonl` 现有 297 条 done 词条（本轮后重生成）。全量逐条通读仍按 done 时间升序推进，结论追加 `verdicts.jsonl`；判 classical/mixed 即 `reopen` + `clear`。
 2. 通读口径：排除 `>` 引块中的直接引文、典籍原文、碑铭、题记原引文与参考文献照录区；判据是“当代中文学术读者能否自然读懂”，不按关键词命中数判定。
-3. 破折号：`bin/dash_scan.py` 只排复核优先级，不产生结论；滥用与否按语义判断。
-4. 每批复核后重生成 queue 与 `PROGRESS.md`，跑 `check_all.py`，提交相关文件。
+3. 破折号：`bin/dash_scan.py` 只排复核优先级；本轮 verdicts 的 `dash` 字段一律记 `pending`（破折号线未评），由 `dash-verdicts.jsonl` 另线推进。
+4. 定点改写候选（不置空，待语体全量复核完成后统一处理）：davidson 一处文言收束句、legrand「危乎殆哉」、dai-zhen「欲两部分俱成全」句、knowledge-acquaindescrip 散见文言成分、gorampa「既已……便……」句。
+5. 每批复核后重生成 queue 与 `PROGRESS.md`，跑 `check_all.py`，提交相关文件。
 
 ## 注意
 
 * 置空会改变 `PROGRESS.md` 的 done 计数与批次统计（生成物实时推导），不要手工回填。
 * 旧账本（如 `tasks/j/jayaraasi.ledger.yaml`）仍在库内，仅作违规记录；重译时覆盖前先确认新建。
 * 若并行会话正在写同一条目，先 `git status` 与 mtime 判落定再动。
+* 抽样工具：`bin/register_metrics.py`（指标与证据句，`--json` 落 `script/tmp/register_metrics.json`）、`bin/review_cards.py`（复核卡）。二者只定位、不判级。

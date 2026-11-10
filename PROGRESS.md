@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-10 15:32（UTC）
+生成时间：2026-11-10 16:56（UTC）
 
 ## 总览
 
@@ -14,29 +14,29 @@
 |已建英文基线|1879|
 |已建任务|1176|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|301|
-|在途（drafted 起、done 前）|207|
+|已完成（done）|297|
+|在途（drafted 起、done 前）|212|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|668|
-|cleared|144|
+|pending|667|
+|cleared|149|
 |drafted|2|
 |s1_checked|1|
 |s2_checked|1|
 |s3_checked|55|
 |r1_reviewed|3|
 |r2_reviewed|1|
-|done|301|
+|done|297|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
-|A|160|160|160|57|
+|A|160|160|160|55|
 |B|62|62|62|16|
 |C|172|172|172|22|
 |D|92|92|92|14|
@@ -44,7 +44,7 @@
 |F|96|96|96|1|
 |G|49|49|49|8|
 |H|61|61|61|13|
-|I|75|75|75|27|
+|I|75|75|75|25|
 |J|38|38|38|7|
 |K|36|36|36|21|
 |L|144|144|30|29|
@@ -69,9 +69,11 @@
 |---|---|---|---|
 |adorno|retranslate|s2_checked|A-main-20261110b 2026-11-10|
 |aesthetic-testimony|retranslate|cleared|task_ops 2026-10-31|
+|aesthetics-18th-german|retranslate|cleared|task_ops 2026-11-10|
 |aesthetics-19th-romantic|retranslate|cleared|task_ops 2026-10-31|
 |aesthetics-cogsci|retranslate|cleared|task_ops 2026-10-31|
 |affirmative-action|retranslate|cleared|task_ops 2026-10-31|
+|africana|retranslate|cleared|task_ops 2026-11-10|
 |africana-contemporary|retranslate|cleared|task_ops 2026-10-31|
 |afterlife|retranslate|cleared|task_ops 2026-10-31|
 |agency|retranslate|cleared|task_ops 2026-10-31|
@@ -155,11 +157,11 @@
 |disability|retranslate|s3_checked|D-main-20261109 2026-11-09|
 |disability-care-rationing|retranslate|s3_checked|D-main-20261108 2026-11-08|
 |double-effect|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
-|early-modern-india|retranslate|s3_checked|E-main-20261110 2026-11-10|
+|early-modern-india|retranslate|cleared|task_ops 2026-11-10|
 |ecological-genetics|retranslate|s3_checked|EF-main3-20261109 2026-11-09|
-|edwards|retranslate|cleared|task_ops 2026-11-10|
+|edwards|retranslate|s3_checked|E-main-20261110b 2026-11-10|
 |experimental-aesthetics|retranslate|s3_checked|EFG-main-20261108 2026-11-08|
-|faith|retranslate|cleared|task_ops 2026-11-09|
+|faith|retranslate|s3_checked|F-main-20261111 2026-11-10|
 |frame-problem|retranslate|s3_checked|F-main-20261110 2026-11-09|
 |gadamer-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |galen|retranslate|cleared|task_ops 2026-11-01|
@@ -203,9 +205,11 @@
 |immunology|retranslate|cleared|task_ops 2026-11-01|
 |impossible-worlds|retranslate|cleared|task_ops 2026-11-01|
 |information-biological|retranslate|cleared|task_ops 2026-11-01|
+|intentionality-ancient|retranslate|cleared|task_ops 2026-11-10|
 |intrinsic-extrinsic|retranslate|cleared|task_ops 2026-11-01|
+|israeli|retranslate|cleared|task_ops 2026-11-10|
 |jaina-philosophy|retranslate|cleared|task_ops 2026-11-10|
-|james-mill|retranslate|s3_checked|? 2026-11-07|
+|james-mill|retranslate|cleared|task_ops 2026-11-10|
 |james-viterbo|retranslate|cleared|task_ops 2026-11-01|
 |japanese-confucian|retranslate|cleared|task_ops 2026-11-01|
 |japanese-philosophy|retranslate|cleared|task_ops 2026-11-01|
@@ -261,6 +265,7 @@
 |nietzsche-aesthetics|retranslate|cleared|task_ops 2026-11-10|
 |omnipresence|retranslate|s3_checked|O3-main-20261110 2026-11-10|
 |omniscience|retranslate|s3_checked|O3-main-20261110 2026-11-10|
+|ontology-is|retranslate|cleared|task_ops 2026-11-10|
 |qm|retranslate|cleared|task_ops 2026-11-10|
 |reflective-equilibrium|retranslate|cleared|task_ops 2026-11-10|
 |religion-epistemology|retranslate|s3_checked|R-main-20261110 2026-11-10|

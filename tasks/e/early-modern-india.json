@@ -2,7 +2,7 @@
   "slug": "early-modern-india",
   "kind": "retranslate",
   "zh_doc": "e/early-modern-india.md",
-  "state": "s3_checked",
+  "state": "cleared",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,20 @@
       "actor": "E-main-20261110",
       "at": "2026-11-10T11:00:37Z",
       "evidence": "s3 收口四检全绿：check_style --strict 0、check_academic --strict OK、check_math missing/unbalanced 0、check_summary/mulu_s HARD 0、check_terms 硬错误 0（本词条 0 条 orig-missing）；段对齐 en=254/zh=257 差额为译注行与学术工具非链接式 bullet（体例性）"
+    },
+    {
+      "step": "reopen",
+      "status": "ok",
+      "actor": "M1-20261111-register",
+      "at": "2026-11-10T16:32:39Z",
+      "evidence": "specs/015 语体复核：半文半白（真之/的=0.96 与 0.79，文言句式成段出现），按 ADR-0033 置空重译"
+    },
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-10T16:39:55Z",
+      "evidence": "baseline gate: hash_ok"
     }
   ],
   "blockers": [],

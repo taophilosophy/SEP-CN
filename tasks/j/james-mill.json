@@ -2,7 +2,7 @@
   "slug": "james-mill",
   "kind": "retranslate",
   "zh_doc": "j/james-mill.md",
-  "state": "s3_checked",
+  "state": "cleared",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,20 @@
       "actor": "?",
       "at": "2026-11-07T01:40:31Z",
       "evidence": "三校：check_academic --strict 通过（在途豁免 1）；check_prose 仅存段34 引文豁免 1 项；check_math 0 公式 0 缺失；lq check 84 段守恒通过；书目 defs 照录"
+    },
+    {
+      "step": "reopen",
+      "status": "ok",
+      "actor": "M1-20261111-register",
+      "at": "2026-11-10T16:32:39Z",
+      "evidence": "specs/015 语体复核：半文半白（真之/的=0.96 与 0.79，文言句式成段出现），按 ADR-0033 置空重译"
+    },
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-10T16:39:54Z",
+      "evidence": "baseline gate: hash_ok"
     }
   ],
   "blockers": [],
