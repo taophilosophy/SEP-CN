@@ -845,26 +845,34 @@ segments:
     kind: body
     source: |-
       Since it has already been shown that composing syntheses generally must feature the categories, the claim is that we can infer that the categories structure our representation of space, and by parallel argument, our representation of time, and, moreover (in accord with Kant’s idealism), that they structure space and time themselves, together with the spatial and temporal features of objects in space and time. This allows us to see that the categories correctly apply to objects in space and time, and to see that they do so from how they structure our representations of space and time, and space and time themselves. This would secure the generally agreed-upon objective of the second step: to show how it is that the categories are related to objects of intuition and thus of experience in such a way as to demonstrate that they correctly apply to them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      既然已经表明组合的综合一般必须含有范畴，其主张便是：我们可以推断范畴构造了我们关于空间的表象，并以平行的论证推断它们构造了我们关于时间的表象，此外（依照康德的唯心论）还构造了空间与时间本身，以及空间中与时间中的对象的空间性、时间性特征。这使我们得以看出范畴正确地适用于空间与时间中的对象，并且是从范畴如何构造我们关于空间与时间的表象、以及空间与时间本身这一点上看出的。这样便确保了第二步那个公认的目标：表明范畴如何与直观对象、从而与经验对象相关联，以证明它们正确地适用于这些对象。
+    step2: |-
+      既已表明组合的综合一般必含范畴，便可由此推断：范畴构造了我们关于空间的表象，并依平行论证构造了我们关于时间的表象；进一步（依康德的唯心论），它们也构造了空间与时间本身，以及时空中对象的时空特征。由此我们得以看出：范畴确实正确地适用于时空中的对象，而且看出这一点的方式，正是从范畴如何构造我们关于时空的表象以及时空本身着眼。这样一来，第二步那项公认的目标——表明范畴如何关联于直观对象、因而是经验对象，从而证明它们确当地适用于这些对象——便得到了保障。
   - id: 101
     kind: body
     source: |-
       ## 2. The Refutation of Idealism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 驳斥唯心论
+    step2: |-
+      ## 2 驳斥唯心论
   - id: 102
     kind: body
     source: |-
       In the transcendental argument of the Refutation of Idealism, Kant’s target is not Humean skepticism about the applicability of *a priori* concepts, but rather Cartesian skepticism about the external world. This argument was added by Kant to the second edition of the *Critique of Pure Reason* (B274–79, with a change suggested in the Preface to B, Bxxxix–Bxli), and subsequently embellished and reworked in a series of Reflections (Guyer 1987: 279–316)[^guyer-1987]. More specifically, Kant intends to refute what he calls problematic idealism, according to which the existence of objects outside us in space is “doubtful and indemonstrable” (B274). His strategy is to derive the claim that such objects exist from my awareness that my representations have a specific temporal order. At the present time I am aware of the specific temporal order of many of my past experiences, an awareness produced by memory. But what is it about what I remember that allows me to determine the temporal order of my experiences? There must be something by reference to which I can correlate the remembered experiences that allows me to determine their temporal order. But first, I have no conscious states that can play this role. Further, this reference cannot be time itself, for “time by itself is not perceived;” Kant argues for this claim in the First Analogy (B224–25). As Guyer puts it, it is not as if the content of memories of individual events are manifestly indexed to specific times, as sportscasts and videotapes often are (Guyer 1987: 244)[^guyer-1987]. Kant contends that the only other candidate for this reference is something outside of me in space, and it must be something (relatively) permanent (cf. First Analogy, B224–5). Perhaps this claim is made plausible by how we often actually determine the times at which our experiences occur. We use observations of sun’s positions, or of a clock that indicates time by way of the period of a pendulum, or by the period of the vibration of a cesium atom. Kant’s argument can be seen as exploiting this fact, together with the observation that there is no similar periodic process in human conscious experience considered independently of any spatial objects it might represent, and that we lack any awareness of time by itself, to show we must perceive objects outside us in space by reference to which we can determine the temporal order of our past experiences.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在驳斥唯心论的先验论证中，康德的目标不是休谟关于*先天*概念可适用性的怀疑论，而是笛卡尔式关于外部世界的怀疑论。这一论证是康德在《纯粹理性批判》第二版中加进去的（B274–79，B 版序言中提示了一处改动，Bxxxix–Bxli），随后又在一系列《反思录》中加以润饰和改写（Guyer 1987: 279–316）[^guyer-1987]。更具体地说，康德意在驳斥他所称的问题性唯心论，按此观点，我们之外空间中的对象之存在是“可疑而不可证明的”（B274）。他的策略是：从我意识到我的表象具有特定的时间次序，推出这类对象存在。此刻我意识到我许多过去经验的特定时间次序，这种意识由记忆产生。但在我所记忆的东西中，究竟是什么使我能够确定我那些经验的时间次序？必定有某种东西，我参照它便能把我所记忆的经验相互关联起来，从而确定它们的时间次序。然而第一，我没有任何能充当这一角色的意识状态。其次，这一参照不可能是时间本身，因为“时间本身是不能被知觉的”，康德在第一类比中论证了这一主张（B224–25）。如 Guyer 所说，情况并不是：对个别事件的记忆内容都明白地标示着特定时刻，像体育转播和录像带往往那样（Guyer 1987: 244）[^guyer-1987]。康德主张，这一参照的唯一其他候选者，是我之外空间中的某种东西，而且它必须是某种（相对）持存的东西（参第一类比，B224–5）。我们实际上常常如此确定经验发生的时间，这也许使该主张显得可信：我们观察太阳的位置，或观察一座借摆的周期、或借铯原子振动周期来指示时间的钟。康德的论证可以看作利用了这一事实，再加上另一观察：人类意识经验中若撇开它所可能表象的任何空间对象，便没有类似的周期过程，而且我们对时间本身没有任何意识；由此表明，我们必须知觉我们之外空间中的对象，以便参照它们确定我们过去经验的时间次序。
+    step2: |-
+      驳斥唯心论这一先验论证的靶子，并非休谟式关于*先天*概念可适用性的怀疑论，而是笛卡尔式关于外部世界的怀疑论。此论证乃康德在《纯粹理性批判》第二版所增补（B274–79；B 版序言提示一处改动，Bxxxix–Bxli），其后又在一系列《反思录》中加以补缀与改作（Guyer 1987: 279–316）[^guyer-1987]。更确切说，康德要驳斥的是他所谓的问题性唯心论：按此说，我们之外空间中的对象之存在“可疑而不可证明”（B274）。其策略是从“我意识到我的表象具有特定时间次序”推出这类对象存在。此刻我能意识到自己许多过去经验的特定时间次序，而此意识由记忆产生。然而，我所记忆的东西凭什么使我得以确定经验的时间次序？必有某物可供参照，使我可把所记忆的经验相互关联，从而定其先后。但第一，我没有任何意识状态可担此任。第二，这参照不会是时间本身，因为“时间本身无从被知觉”——康德在第一类比中论证此点（B224–25）。如 Guyer 所言，情形并非：对个别事件的记忆内容都明白地系于特定时刻，如同体育转播与录像带常有的那样（Guyer 1987: 244）[^guyer-1987]。康德主张，这参照的其余候选唯有一个：我之外的某种空间之物，且它须是（相对）持存者（参第一类比，B224–5）。该主张之所以显得可信，或许正因我们实际上常如此确定经验发生之时：观太阳之位置，或看一座借摆之周期、借铯原子振动周期而指示时刻的钟。康德的论证可说正是利用了这一点，再加上另一项观察——人类意识经验若撇开它可能表象的任何空间对象，便无类似的周期过程，且我们对时间本身毫无意识——从而表明：我们必须知觉我之外的空间对象，据以确定过去经验的时间次序。
   - id: 103
     kind: body
     source: |-
       George Dicker provides a compelling initial representation of Kant’s argument (Dicker 2004, 2008)[^dicker-2004]:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Dicker 对康德的论证提供了一个有说服力的初步表述（Dicker 2004, 2008）[^dicker-2004]：
+    step2: |-
+      George Dicker 为康德的论证给出了一个有说服力的初步重构（Dicker 2004, 2008）[^dicker-2004]：
   - id: 104
     kind: body
     source: |-
@@ -874,8 +882,20 @@ segments:
       4. Time itself cannot serve as this permanent entity by reference to which I can determine the temporal order of my experiences. (premise)
       5. If (2), (3), and (4), are true, then I can be aware of having experiences that occur in a specific temporal order only if I perceive persisting objects in space outside me by reference to which I can determine the temporal order of my experiences. (premise)
       6. Therefore, I perceive persisting objects in space outside me by reference to which I can determine the temporal order of my experiences. (1–5)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 我意识到自己在时间中的存在；也就是说，我意识到、并且能够意识到，我有一些在特定时间次序中发生的经验。（前提）
+      2. 只有当我知觉到某种持存的东西、可以参照它来确定我的经验的时间次序时，我才能意识到自己有一些在特定时间次序中发生的经验。（前提）
+      3. 我自己的任何意识状态都不能充当这种持存的实体，供我参照以确定我的经验的时间次序。（前提）
+      4. 时间本身不能充当这种持存的实体，供我参照以确定我的经验的时间次序。（前提）
+      5. 若 (2)、(3)、(4) 为真，则只有当我知觉到我之外空间中持存的对象、可以参照它们来确定我的经验的时间次序时，我才能意识到自己有一些在特定时间次序中发生的经验。（前提）
+      6. 因此，我知觉到我之外空间中持存的对象，可以参照它们来确定我的经验的时间次序。（1–5）
+    step2: |-
+      1. 我意识到自己在时间中的存在；即：我意识到——并且能够意识到——自己拥有一些在特定时间次序中发生的经验。（前提）
+      2. 唯有当我知觉到某一持存之物、可据以确定那些经验的时间次序时，我才可能意识到自己拥有在特定时间次序中发生的经验。（前提）
+      3. 我自己的任何意识状态，都不足以充当这种持存之物，供我据以确定经验的时间次序。（前提）
+      4. 时间本身也不足以充当这种持存之物，供我据以确定经验的时间次序。（前提）
+      5. 倘若 (2)、(3)、(4) 成立，则唯有当我知觉到我之外空间中持存的对象、可据以确定经验的时间次序时，我才可能意识到自己拥有在特定时间次序中发生的经验。（前提）
+      6. 因此，我知觉到我之外空间中持存的对象，可据以确定我经验的时间次序。（1–5）
   - id: 105
     kind: body
     source: |-
