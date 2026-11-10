@@ -459,86 +459,114 @@ segments:
     kind: body
     source: |-
       Next, Yorck also claims that “time originates in feeling” (ST, p. 135). But as feeling is non-projective, it follows that, originally, “temporality” is not “objective”[^note-13] (ST, 146). Yorck distinguishes between the feeling of transitoriness, i.e., that everything passes away [*Vergänglichkeitsgefühl*] (ST, p. 33), and the feeling or awareness of one’s own mortality [*Sterblichkeitsgefühl*][^note-14] (ST, p. 90). Acquiescence into one’s own mortality constitutes the opposite pole to self-affirmation: “self-renunciation” [*Selbsthingabe*] (ST, p. 14), which is thus distinct from and even antithetical to the ethical impetus in philosophy and science. Yorck argues that the inversion of volitional and cognitive projection in feeling and its concentration in pure, passive interiority amounts to a “religious comportment” and the feeling of dependency (ST, 121). To the extent that the religious concentration of life in interiority is inversely related to projective representation, Yorck understands religious life in terms of its “freedom from the world” or *Weltfreiheit* (ST, p. 81 & 112). Psychologically, freedom from the world is the precondition for the consciousness of a world-transcendent God, or the consciousness of transcendence (ST, p. 105). Yorck only hints at the projection *sui generis* involved in transcendence. But it is a projection that has no cognitive or volitional content: God is intended without becoming “an object,” and willing becomes a “non-willing,” albeit without loss of energy (ST, 104).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      再者，约克还主张“时间起源于情感”（ST, p. 135）。但情感是非投射的，由此可知，“时间性”原本就不是“客观的”[^note-13]（ST, 146）。约克区分了无常感——即万物皆逝之感[*Vergänglichkeitsgefühl*]（ST, p. 33）——与对自己有死性的感觉或意识[*Sterblichkeitsgefühl*][^note-14]（ST, p. 90）。默认自己的有死性，构成与自我坚持相对的另一极：“自我交付”[*Selbsthingabe*]（ST, p. 14）；它因而既区别于、甚至对立于哲学与科学中的伦理冲动。约克认为，意愿性与认知性投射在情感中的倒转，及其在纯粹、被动的内在性中的凝聚，相当于一种“宗教性行为方式”与依赖感（ST, 121）。宗教的生命凝聚于内在性，与投射性表象成反比；正是在这个限度内，约克以“脱离世界”或*Weltfreiheit*来理解宗教生命（ST, p. 81 & 112）。在心理学上，脱离世界是超世界的上帝意识、亦即超越意识的先决条件（ST, p. 105）。对于超越所涉及的独成一类的投射（*sui generis*），约克只是暗示。但那是一种没有认知或意志内容的投射：上帝被意指而不成为“对象”，意愿成为“不意愿”，却并不因此丧失力量（ST, 104）。
+    step2: |-
+      再者，约克主张“时间起源于情感”（ST, p. 135）。情感既然是非投射的，由此可知：“时间性”原本就不是“客观的”[^note-13]（ST, 146）。约克区分了两种感受：其一是无常感——万物皆逝之感[*Vergänglichkeitsgefühl*]（ST, p. 33）；其二是对自身有死性的感觉与意识[*Sterblichkeitsgefühl*][^note-14]（ST, p. 90）。默认自己的有死性，构成了自我坚持的另一极：“自我交付”[*Selbsthingabe*]（ST, p. 14）；它因而区别于哲学与科学的伦理冲动，甚至与之对立。约克认为：意愿性与认知性的投射在情感中倒转过来，凝聚于纯粹而被动的内在性，这就相当于一种“宗教性行为方式”与依赖感（ST, 121）。宗教生命凝聚于内在性，恰与投射性表象成反比；正是在这一限度内，约克用“脱离世界”、亦即 *Weltfreiheit* 来理解宗教生命（ST, p. 81 & 112）。在心理学层面上，脱离世界是超世界上帝意识、亦即超越意识的先决条件（ST, p. 105）。至于超越所涉及的那种独成一类的投射（*sui generis*），约克只是略作暗示。但那是一种没有认知内容、也没有意志内容的投射：上帝被意指而不成为“对象”；意愿变成“不意愿”，却不因此丧失力量（ST, 104）。
   - id: 58
     kind: body
     source: |-
       Drawing on Dilthey and Schleiermacher, Yorck argues that the immediate and indubitable reality of life is exclusively “guaranteed” through volition and affectivity alone. Yorck writes: “That which opposes me or that which I feel, I call real,” because I cannot doubt what resists my will or affects my personal life, whereas it is always possible to doubt objects neutrally represented in space outside me (ST, p. 89). What is thought and grasped as an unchanging, stable and self-same object in the space of thought does not affect me or solicit a desire. For Yorck, cognition, in abstraction from feeling and volition, is the realm of pure “phenomenality,” which is always open to doubt in virtue of its being merely represented or thought (ST, p. 88). Because “the category of reality is a predicate of feeling and willing” alone (ST, p. 128), Yorck concludes that it is an “utterly uncritical” and self-contradictory undertaking to attempt to prove “the reality of the world” by means of the understanding (ST, p. 129). What Yorck writes to Dilthey in a more general vein is also applicable to this particular problem:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      约克援引狄尔泰与施莱尔马赫，主张生命的直接而无可怀疑的实在，唯独通过意志与情感性才得到“担保”。约克写道：“凡对抗我的东西，或我所感觉的东西，我称之为实在”；因为我无法怀疑抵抗我的意志、触动我人格生活的东西，而对于在我之外的空间中被中立表象的对象，怀疑始终是可能的（ST, p. 89）。在思想空间中被思想并把握为不变、稳定而自同对象的东西，触动不了我，也唤不起欲望。对约克而言，认知在抽离情感与意志之后，是纯粹“现象性”的领域；因为它只是被表象或被思想的，所以始终可以对之怀疑（ST, p. 88）。既然“实在范畴是情感与意愿的谓词”（ST, p. 128），约克得出结论：试图凭知性证明“世界的实在性”，是一项“全然无批判”而自相矛盾的事业（ST, p. 129）。约克以更一般的笔调写给狄尔泰的话，也适用于这个特殊问题：
+    step2: |-
+      约克援引狄尔泰与施莱尔马赫，主张生命那直接而无可怀疑的实在，唯独通过意志与情感性才得到“担保”。约克写道：“凡对抗我的东西，或我所感觉的东西，我称之为实在。”理由在于：抵抗我的意志、触动我人格生活的东西，我无法怀疑；而对于在我之外的空间里被中立表象的那些对象，怀疑始终可能（ST, p. 89）。在思想空间中被思想、被把握为不变、稳定而自同的对象，触动不了我，也唤不起欲望。对约克来说，认知一旦抽离情感与意志，就成了纯粹“现象性”的领域：它只是被表象或被思想的，因此始终可以对之怀疑（ST, p. 88）。既然“实在范畴是情感与意愿的谓词”（ST, p. 128），约克便得出结论：试图凭知性证明“世界的实在性”，是一项“全然无批判”且自相矛盾的事业（ST, p. 129）。约克以更一般的笔调写给狄尔泰的话，同样适用于这个具体问题：
   - id: 59
     kind: body
     source: |-
       > Thinking moves in circles and the people appear to me like flies which always bump into the window pane when they try to get out into the open. Someone has got to open the window, but much work and leisure is required for that.[^note-15]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 思想绕着圈子打转，而人们在我看来像苍蝇：他们想飞向户外，却总撞在窗玻璃上。总得有人来把窗子打开，但那需要许多功夫与闲暇。[^note-15]
+    step2: |-
+      > 思想绕着圈子打转；人们在我看来活像苍蝇，一心想飞向户外，却总撞在窗玻璃上。总得有人来把窗子打开——可这需要多少功夫与闲暇。[^note-15]
   - id: 60
     kind: body
     source: |-
       ### 3.2 History of Life
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 生命的历史
+    step2: |-
+      ### 3.2 生命的历史
   - id: 61
     kind: body
     source: |-
       According to Yorck, the characteristics of human psychology and the economy of primary life delimit the course of history, since historical life merely repeats or amplifies the primary stances of consciousness. Although there is thus a natural ground for history, Yorck is at pains to emphasize that the three psychological functions outline “possibilities” only, without any inbuilt teleology or fixed equilibrium, or a relation to “an unchanging *ordo*” as a permanent backdrop for history (ST, p. 4). Against such approximations of history to nature, Yorck argues for a thoroughly historical conception of the historical: “History has nothing of the isolation [*Selbständigkeit*] of the natural [order]” (ST, p. 6), but rather, in each of its phases, history is self-reflexively involved in its own historicity—“as the ferment of its aliveness”—and thus opens itself to the ever new “historical *contrapposto*” (ST, p. 6). Nothing is exempt from historical change. Philosophical categories through which the world is understood are historical products of life and hence inextricably bound up with the historicity of humankind. For instance, Yorck explicitly claims that the category of “being” is itself “a result of life” (ST, p. 8). This liberates history from all relation to an unchanging, fixed point of reference outside historical life.[^note-16]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      依约克之见，人类心理学的特征与原初生命的配比划定了历史的进程，因为历史生命只是重演或放大原初的意识立场。虽然历史因此有一个自然基地，约克却着力强调：三种心理机能只勾画出一些“可能性”，其中没有任何内置的目的论或固定均衡，也没有与“不变的*秩序*（*ordo*）”的关系——仿佛历史有一个永久背景（ST, p. 4）。针对这类把历史自然化的取径，约克主张一种彻底历史的、关于历史的概念：“历史丝毫没有自然[秩序]的那种自立性[*Selbständigkeit*]”（ST, p. 6）；毋宁说，在它的每一个阶段，历史都自反地牵涉于自身的历史性之中——“作为其生命性的酵素”——从而向不断更新的历史“对置”（*contrapposto*）敞开自己（ST, p. 6）。没有什么能豁免于历史变化。人们借以理解世界的哲学范畴，是生命的历史产物，因而与人类的历史性难解难分。例如，约克明确主张，“存在”范畴本身就是“生命的一个结果”（ST, p. 8）。这就把历史从它与历史生命之外某个不变的、固定的参照点的一切关系中解放出来。[^note-16]
+    step2: |-
+      依约克之见，人类心理学的特征与原初生命的配比，划定了历史的进程：历史生命不过是重演或放大原初的意识立场罢了。历史固然因此有它的自然基地，约克却极力强调：三种心理机能只勾画出一些“可能性”，其中没有任何内置的目的论或固定均衡，也没有与“不变的*秩序*（*ordo*）”的关系——仿佛历史背后立着一块永久的背景板（ST, p. 4）。针对这类把历史自然化的取径，约克主张一种彻底历史的“历史”概念：“历史丝毫没有自然[秩序]的那种自立性[*Selbständigkeit*]”（ST, p. 6）。毋宁说，在它的每一个阶段，历史都自反地牵涉于自身的历史性之中——“作为其生命性的酵素”——从而向不断更新的历史“对置”（*contrapposto*）敞开自己（ST, p. 6）。没有什么能豁免于历史变化。人们借以理解世界的哲学范畴，是生命的历史产物，因而与人类的历史性难解难分。比如，约克明确主张：“存在”范畴本身就是“生命的一个结果”（ST, p. 8）。如此一来，历史便从它与历史生命之外某个不变而固定的参照点的一切关系中解放出来。[^note-16]
   - id: 62
     kind: body
     source: |-
       Although Yorck provides only an unfinished sketch of the empirical course of the history of life, he marks three decisive turning-points: (1) The breakthrough to philosophy and science on the basis of the dominant stance of the psychological function of representation or cognition, primarily in ancient Greece and India; (2) the predominance of willing in the Roman and Jewish stance towards the world; and (3) the focal centrality of feeling and interiority in Christianity, particular in the Reformation, i.e., Luther. Somewhat like Hegel, Yorck holds that history unfolds through particular primary stances towards life which then become dominant in particular historical peoples.[^note-17]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      约克对生命之历史的经验进程只提供了一个未完成的草图，但他标出了三个决定性的转折点：（1）以表象或认知这一心理机能的主导态度为基础、向哲学与科学的突破，主要发生在古代希腊与印度；（2）意愿在罗马与犹太世界态度中的支配地位；（3）情感与内在性在基督教中的焦点中心地位，尤其是在宗教改革、即路德那里。约克多少像黑格尔，认为历史经由特定的原初生活态度而展开，这些态度继而在特定的历史民族中成为主导。[^note-17]
+    step2: |-
+      关于生命之历史的经验进程，约克给出的只是一幅未完成的草图；但他标出了三个决定性的转折点：（1）以表象或认知这一心理机能的主导态度为基础，向哲学与科学突破——主要发生在古代希腊与印度；（2）意愿在罗马与犹太的世界态度中取得支配；（3）情感与内在性在基督教中占据焦点中心——尤见于宗教改革，即路德。约克有点像黑格尔：他认为历史经由特定的原初生活态度而展开，这些态度继而在特定的历史民族那里成为主导。[^note-17]
   - id: 63
     kind: body
     source: |-
       #### 3.2.1 The Greek World
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 3.2.1 希腊世界
+    step2: |-
+      #### 3.2.1 希腊世界
   - id: 64
     kind: body
     source: |-
       According to Yorck, in Ancient Greece consciousness displayed a particular configuration of the primacy of cognition. For the Greeks, the stance of consciousness towards the world is pure looking. It is through looking that reality is understood. Affectivity (feeling) and volition are not countenanced as functions that disclose the world as such.[^note-18] Truth lies in the beholding eye alone; contemplation, *theoria*, and intuition take centre stage.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      依约克之见，在古希腊，意识展现出认知居先的一种特定配置。对希腊人来说，意识对世界的态度是纯粹的观看。实在正是通过观看而被理解。情感性（感觉）与意志不被承认为如其所示地开显世界的机能。[^note-18] 真理只在于观看的眼睛；静观、*theoria* 与直观居于舞台中央。
+    step2: |-
+      依约克之见，在古希腊，意识展现出一种认知居先的特定配置。对希腊人而言，意识对世界的态度就是纯粹的观看；实在正是通过观看而被理解。情感性（感觉）与意志，则不被承认为如其所示地开显世界的机能。[^note-18] 真理只寓于观看的眼睛；静观、*theoria* 与直观，居于舞台的中央。
   - id: 65
     kind: body
     source: |-
       > It is as if the clear-sighted eye is expressed in words. On the basis of this condition of consciousness, the function of looking [*Anschauung*], ocularity [*Okularität*], becomes the organ of all free work of the mind, particularly of philosophy. (ST, p. 30)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 仿佛那看得清亮的眼睛化成了言词。以这种意识状态为根基，观看[*Anschauung*]的机能——目视性[*Okularität*]——成为心灵一切自由工作的器官，尤其是哲学的器官。（ST, p. 30）
+    step2: |-
+      > 仿佛那双看得清亮的眼睛，化作了言词。以这种意识状态为根基，观看[*Anschauung*]之机能——目视性[*Okularität*]——成了心灵一切自由工作的器官，哲学尤其如此。（ST, p. 30）
   - id: 66
     kind: body
     source: |-
       Yorck finds evidence for the prevalence of ocularity or the aesthetic attitude, which is centred on plasticity [*Gestaltlichkeit*], in Homer, Pythagoras, Plato, and Aristotle, among others.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      目视性或以形态性[*Gestaltlichkeit*]为中心的审美态度之盛行，约克在荷马、毕达哥拉斯、柏拉图与亚里士多德等人那里找到了证据。
+    step2: |-
+      至于目视性、以及以形态性[*Gestaltlichkeit*]为中心的审美态度何以盛行，约克在荷马、毕达哥拉斯、柏拉图与亚里士多德等人那里找到了证据。
   - id: 67
     kind: body
     source: |-
       > Form and content constitute the aesthetic dichotomy which governs Greek thought in its entirety, the result of the liberation of ocularity from all other sensuality, the aesthetic liberation, which strikes a chord in everyone who has entered the threshold of Greek life. Looking is the essential comportment; hence, Gestalt or Form [qualifies as] ousia or substance.[^note-19] (ST, p. 31)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 形式与内容构成美学的二分，它支配着希腊思想的整体；这是目视性从其余一切感性中解放出来的结果，是审美的解放——凡踏入希腊生活门槛者，无不为之心弦震动。观看是本质性的行为方式；因此，形态（Gestalt）或形式[便]堪称 ousia，即实体。[^note-19]（ST, p. 31）
+    step2: |-
+      > 形式与内容构成美学的二分，它支配着希腊思想的整体。这是目视性从其余一切感性中解放出来的结果——一场审美的解放：凡踏入希腊生活门槛的人，无不为之心弦震动。观看是本质性的行为方式；因此，形态（Gestalt）或形式[便]堪称 ousia，即实体。[^note-19]（ST, p. 31）
   - id: 68
     kind: body
     source: |-
       That Greek metaphysics seeks the unchangeable and impassable is the result of the relative suppression of feeling and willing latent in all cognition, which abstracts from desires, feelings, and temporality (ST, p. 42). Put differently, the structural timelessness of thought as such is intensified in metaphysical thought where it becomes “absolute” (ST, p. 42). Yorck emphasizes that “negation of temporality” marks “the decisive metaphysical step” (ST, p. 66). Metaphysics constitutes the counter-move against the feeling of temporality (that everything passes away), as well as the liberation from the dependence on objects desired by the will. According to Yorck, the escape from temporality and attachment determines the entire metaphysical tradition up to and including Hegel (because even Hegel “ontologizes” life and renders it ontic) (ST, p. 83).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      希腊形而上学寻求不变而不受触动者，这是一切认知中潜在地压制情感与意愿的结果——认知抽离欲望、情感与时间性（ST, p. 42）。换句话说，思想本身的结构性超时间性在形而上学思想中被强化，在那里成为“绝对的”（ST, p. 42）。约克强调，“时间性的否定”标志着“决定性的形而上学步骤”（ST, p. 66）。形而上学构成对时间性感（万物皆逝）的反向举动，也是对意志所欲对象之依赖的解放。依约克之见，对时间性与执着依附的逃离，规定了直到黑格尔并包括黑格尔在内的整个形而上学传统（因为连黑格尔也把生命“存在论化”，使之成为存在者层面的东西）（ST, p. 83）。
+    step2: |-
+      希腊形而上学寻求不变而不受触动者——这是一切认知潜在地压制情感与意愿的结果，因为认知抽离欲望、情感与时间性（ST, p. 42）。换句话说，思想本身的结构性超时间性，在形而上学思想中被强化为“绝对的”（ST, p. 42）。约克强调：“时间性的否定”标志着“决定性的形而上学步骤”（ST, p. 66）。形而上学是对时间性感——万物皆逝之感——的反向举动，也是从意志所欲对象之依赖中的解放。依约克之见，逃离时间性与执着依附，规定了直到黑格尔（并包括黑格尔）的整个形而上学传统：连黑格尔也把生命“存在论化”，使之沦为存在者层面的东西（ST, p. 83）。
   - id: 69
     kind: body
     source: |-
       #### 3.2.2 The Roman & Jewish World
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 3.2.2 罗马世界与犹太世界
+    step2: |-
+      #### 3.2.2 罗马世界与犹太世界
   - id: 70
     kind: body
     source: |-
       The breakthrough to a form of life predominantly lived through striving and volition is, according to Yorck, characteristic of the Jewish and Roman world. Concerning the former, Yorck writes:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      依约克之见，向一种主要由奋斗与意愿来活的生命形式的突破，是犹太世界与罗马世界的特征。关于前者，约克写道：
+    step2: |-
+      依约克之见，向一种主要以奋斗与意愿来活的生命形式突破，正是犹太世界与罗马世界的特征。关于前者，约克写道：
   - id: 71
     kind: body
     source: |-
