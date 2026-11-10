@@ -310,7 +310,7 @@ outline: [1, 6]
   * [休谟论宗教 on religion (Paul Russell and Anders Kraal)](h/hume-religion.md)
   * [休谟的美学 aesthetics (Theodore Gracyk)](h/hume-aesthetics.md)
 * [托马斯·霍布斯 Hobbes, Thomas (Stewart Duncan)](h/hobbes.md)
-  * [霍布斯的道德与政治哲学 moral and political philosophy (Sharon A. Lloyd and Susanne Sreedhar)](h/hobbes-moral.md)
+  * [霍布斯的道德与政治哲学 Hobbes’s Moral and Political Philosophy (Sharon A. Lloyd and Susanne Sreedhar)](h/hobbes-moral.md)
   * [霍布斯的科学哲学 philosophy of science (Marcus P. Adams)](h/hobbes-science.md)
   * [安东尼·柯林斯 Collins, Anthony (William Uzgalis)](c/collins.md)
 * [弗兰西斯·哈奇森 Hutcheson, Francis (Dale Dorsey)](h/hutcheson.md)

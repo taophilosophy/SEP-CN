@@ -1165,7 +1165,7 @@
 * [\*希庇亚斯——见智者 Hippias — see Sophists, The](s/sophists.md)
 * [历史哲学 history, philosophy of (Daniel Little)](h/history.md)
 * [托马斯·霍布斯 Hobbes, Thomas (Stewart Duncan)](h/hobbes.md)
-  * [霍布斯的道德与政治哲学 moral and political philosophy (Sharon A. Lloyd and Susanne Sreedhar)](h/hobbes-moral.md)
+  * [霍布斯的道德与政治哲学 Hobbes’s Moral and Political Philosophy (Sharon A. Lloyd and Susanne Sreedhar)](h/hobbes-moral.md)
   * [霍布斯的科学哲学 philosophy of science (Marcus P. Adams)](h/hobbes-science.md)
   * [\*情感学说——见情感：17 世纪和 18 世纪的情感理论 theory of emotion — see emotion: 17th and 18th century theories of](e/emotions-17th18th.md)
 * [保尔-亨利·提利·霍尔巴赫 Paul-Henri Thiry (Baron) d’Holbach (Michael LeBuffe)](h/holbach.md)
