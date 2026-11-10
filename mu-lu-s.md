@@ -1167,7 +1167,7 @@ outline: [1, 6]
 * [形而上学解释 metaphysical explanation (Andrew Brenner, Anna-Sofia Maurin, Alexander Skiles, Robin Stenwall, and Naomi Thompson)](m/metaphysical-explanation.md)
 * [形而上学 metaphysics (Peter van Inwagen, Meghan Sullivan, and Sara Bernstein)](m/metaphysics.md)
 * [形而上学中的柏拉图主义 in metaphysics (Mark Balaguer)](p/platonism.md)
-* [形而上学中的唯名论 in metaphysics (Sam Cowling and Daniel Giberman)](n/nominalism-metaphysics.md)
+* [形而上学中的唯名论 Nominalism in Metaphysics (Sam Cowling and Daniel Giberman)](n/nominalism-metaphysics.md)
 * [自然主义 naturalism (David Papineau)](n/naturalism.md)
 * [法哲学中的自然主义 in legal philosophy (Brian Leiter and Matthew X. Etchemendy)](l/lawphil-naturalism.md)
 * [道德自然主义 moral (Matthew Lutz)](n/naturalism-moral.md)
