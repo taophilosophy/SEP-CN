@@ -45,6 +45,8 @@ ORIG_REPORT = os.path.join(ROOT, 'specs', '008-terminology-campaign', 'results',
 PERSON_REPORT = os.path.join(ROOT, 'specs', '013-person-attribution', 'results',
                              'person-missing.txt')
 DEPRECATED_MARK = '已废弃'
+# 译法列尾段疑似词条 slug（小写拉丁＋连字符，前面带分号）：中文译法不会以此收尾
+SLUG_TAIL_RE = re.compile(r'；\s*[a-z][a-z0-9]*(?:-[a-z0-9]+)*\s*$')
 HEADER_WORDS = {'原文', '译法', '首现', '依据', '裁定日期', '人名', '文献',
                 '条目', 'term', '原文形态', '通行中文', '键', '出处', '日期'}
 
@@ -438,6 +440,11 @@ def check_registry_self(rows):
         for term, trans, date, lineno in items:
             if not date or set(date) <= set(':- '):
                 warns.append('缺裁定日期（告警）：%s（第 %d 行）' % (term, lineno))
+            # 译法列混入词条 slug（2026-11-10 补遗）：合并脚本曾把来源 slug 写进第 3 列，
+            # 使 slug 被当作译法变体参与比对（词汇表滞后伪欠账 3 项即由此而来）。
+            if SLUG_TAIL_RE.search(trans):
+                errors.append('译法列混入词条 slug：%s（第 %d 行）「%s」——slug 属词条列'
+                              % (term, lineno, trans.strip()))
             sig = (norm_key(term), trans.strip())
             if sig in seen:
                 errors.append('重复行：%s|%s 第 %d 行与第 %d 行重复'
