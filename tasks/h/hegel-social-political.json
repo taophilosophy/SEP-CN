@@ -2,7 +2,7 @@
   "slug": "hegel-social-political",
   "kind": "retranslate",
   "zh_doc": "h/hegel-social-political.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "H-main-20261110",
       "at": "2026-11-09T23:32:13Z",
       "evidence": "s3 体例终校：check_style 0 issue（bold-spacing 5 处、italic-cjk 1 处 *合法*→**合法** 已修）、check_prose 1 条引文豁免、check_math 0/0、check_academic --strict 无硬错误、check_terms 硬错误 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "H-main-20261110b",
+      "at": "2026-11-10T14:10:25Z",
+      "evidence": "r1 初审（新会话独立复核，满足复核独立性）：yuanwen 8.7k 词与译文 293 行全文对照通读；对账——正文脚注 marker 58:58 键集全等、defs 72:72、标题 22:22、内联引用组 37:37 全中。实修 5 处：①标题英文截断『social and political philosophy』还原上游全题『Hegel's Social and Political Philosophy』（H1/SUMMARY/mu-lu-s 三处同步）；②『其他网络资源』首条 6 空格缩进会把 bullet 渲染成代码块，已去缩进；③段55『意志那自由的自由意志』语义打结，改『意欲自由意志的自由意志』（the free will which wills the free will）；④段87『站不住脚』强于原文 controversial，改『颇有争议』；⑤段143 贫困句『但对于不改变经济体系如何能解决贫困』语序断裂，改为『但若不改变经济体系，贫困问题究竟如何克服，他拿不出任何令人信服的方案』。四检：check_style 0、check_academic --strict 0 硬错、check_prose 余 1 条在《逻辑学》引文块内（ADR-0020 豁免）、check_math 0/0。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "H-main-20261110b",
+      "at": "2026-11-10T14:14:40Z",
+      "evidence": "r2 复审（逐句回核 + 登记册/术语定向核查）：①残留扫描——正文区拉丁词仅 3 处且全部合法（quietist 术语括注、Additions/Zusätze 讲义概念、§212 附释段德语术语 gesetzmäßig/Recht/Rechtens 照源）；②人名登记册——佩尔钦斯基/德沃金/布拉德雷/格林/泰勒/波普尔/马克思/康德/黑格尔各行在册（本条 2026-11-10 批登记）；③R=附释、A=补充 记法全篇一致（§45/83/89/97/107/125/129/161/179/183/189/191）；④相关词条 3 项与 SUMMARY 站内名逐一对齐（格奥尔格·威廉·弗里德里希·黑格尔/黑格尔的辩证法/伊曼努尔·康德）；⑤defs 72 条照录未译、键集全等；⑥pubinfo 双日期与 baseline/版本钉一致（2021-06-03 首发、2025-03-31 实质修订）；⑦账本回写——r1 五处实修已同步 tasks/h/hegel-social-political.ledger.yaml step2（lq check 96 段守恒复验 OK）；⑧『市民社会』『伦理生活』『贱民』（rabble）均按通行黑格尔译名。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "H-main-20261110b",
+      "at": "2026-11-10T14:37:58Z",
+      "evidence": "r3 终稿验收：check_all 九项全绿（现行门禁集：SUMMARY 结构/分类目录/单体文件大小/垃圾入库/图片引用/术语一致性/直角引号总检/学术规范/管线单元测试）；定点四检 check_style 0 issue、check_academic --strict 0 硬错、check_prose 余 1 条为《逻辑学》引文块内（ADR-0020 豁免）、check_math 0/0；账本 96 段守恒复验 OK 且 r1 五处实修已回写 step2；正文 marker 58:58、defs 72:72、标题 22:22、内联引用组 37:37 与源全等；标题 H1=SUMMARY=mu-lu-s 三处一致为上游全题。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "H-main-20261110b",
+      "at": "2026-11-10T14:37:58Z",
+      "evidence": "收口：r1–r3 三审凭据齐备（独立初审 5 处实修 / 逐句回核+登记册定向核查 / 终稿验收+门禁全绿），对账四项全等，账本可重放"
     }
   ],
   "blockers": [],
