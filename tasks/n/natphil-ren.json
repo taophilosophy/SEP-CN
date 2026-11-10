@@ -2,7 +2,7 @@
   "slug": "natphil-ren",
   "kind": "retranslate",
   "zh_doc": "n/natphil-ren.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-10T03:21:56Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ZCode-N-20261110",
+      "at": "2026-11-10T09:52:16Z",
+      "evidence": "43 段账本双版齐（p1-p4 四批写入，n_fill in_fill 守卫），lq check HARD=0（软旗 31 条：书名号转换 26、机械段 8，逐条留痕）；compose 写回 30052 字符；References（引用注释）defs 100 照录、正文 marker 0=0（源文同构）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ZCode-N-20261110",
+      "at": "2026-11-10T09:52:17Z",
+      "evidence": "逐段对照 yuanwen 核销 43 段（42 正文段+oir）：无漏译增译；H2 8=8、H3 6=6、H4 2=2；defs 100=100、marker 1=1（注记行同构）；书目推荐文献孤立定义照源同构，现制豁免；相关词条 11 项按 SUMMARY 主名核对（贝萨里翁/塔雷路斯/康帕内拉名形从 SUMMARY）；书名拉丁斜体转《》体例；H1 补全英文全题"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ZCode-N-20261110",
+      "at": "2026-11-10T09:52:17Z",
+      "evidence": "check_prose 34 项→0（长句拆分 28、弱动词 4、的链 3、被动被字 1，全部实修）；check_style --strict 0（先修 cjk-spacing 70 处，再修 3 项长句）；修正直接改 compose 产物，未再跑 assemble"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ZCode-N-20261110",
+      "at": "2026-11-10T09:52:18Z",
+      "evidence": "check_academic --strict 无硬错误（任务版本钉 hash_ok）；check_terms 定点核销 0 硬错误/0 疑似缺译法；人名登记 51 行、术语 14 行（先登记后使用，正文名形对齐册内形：加扎/居里克/利纳克尔/戴塔普尔/托里拆利/阿威罗伊/拉梅/阿格里帕/老普林尼）；check_math formulas 0 missing 0"
     }
   ],
   "blockers": [],
