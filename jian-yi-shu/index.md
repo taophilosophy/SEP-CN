@@ -571,7 +571,7 @@
 | --- | --- | --- |
 | 检查脚本 | `.github/scripts/sep_sync_check.py` | 抓取官方目录并解析（主条目＋别名），与已提交基线比对，输出 `status.json` 与 `report.md`；`--write-baseline` 用于更新基线。只报告，不改动任何内容文件 |
 | 基线快照 | `.github/sep-baseline/official-snapshot.json` | 批准时的上游状态（2026-10-26，主 1872＋别名 654）。每次人工落地变化后更新并随改动提交 |
-| 定时工作流 | `.github/workflows/sep-sync-check.yml` | 每周一 18:30 UTC 自动运行（可手动触发）；发现漂移或异常时创建/更新 issue「SEP 上游变化同步报告」，附完整报告与受影响本地文件提示；不自动 commit/push |
+| 定时工作流 | `.github/workflows/sep-sync-check.yml` | 每周一 18:30 UTC 自动运行（可手动触发）；发现漂移或异常时创建/更新 issue“SEP 上游变化同步报告”，附完整报告与受影响本地文件提示；不自动 commit/push |
 
 ### 10.2 同步规程（每周期）
 

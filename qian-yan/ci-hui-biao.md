@@ -135,7 +135,7 @@
 |David Hull|大卫·赫尔|生物学哲学|
 |David Velleman|大卫·维勒曼||
 |Davidson, Donald|戴维森||
-|deflationary|紧缩|「紧缩论」（deflationism）形容词形|
+|deflationary|紧缩|“紧缩论”（deflationism）形容词形|
 |Delmedigo, Elijah|以利亚·德尔·梅第戈||
 |demythologization|去神话化||
 |deontic status|道义地位|道义逻辑|
@@ -638,7 +638,7 @@
 |Alexander Gerard|亚历山大·杰拉德||
 |Alexander of Aphrodisias|阿弗罗狄西亚的亚历山大|旧键 Aphrosias 系拼写笔误；学界通行（古代亚里士多德注释家通译），对齐人名表 2026-11-06（弃维基百科依据，ADR-0012）|
 |Alfred North Whitehead|阿尔弗雷德·诺思·怀特海|国家图书馆规范标目亦作“艾尔弗雷德·诺思·怀特海”|
-|Alfred Tarski|塔尔斯基|对齐人名表（2026-11-04）；本册既定「林登鲍姆–塔尔斯基代数」同形|
+|Alfred Tarski|塔尔斯基|对齐人名表（2026-11-04）；本册既定“林登鲍姆–塔尔斯基代数”同形|
 |All Men are Mortal|人都是要死的||
 |Allan Ramsay|艾伦·拉姆齐||
 |Alternative Axiomatic Set Theories|替代性公理集合论||
@@ -821,7 +821,7 @@
 |Determinacy|决定性||
 |determinism|决定论|勿译“宿命论”（fatalism）|
 |development|发展；发育|哲学与一般语境译“发展”，生物学语境译“发育”|
-|dialetheism|双面真理论|Priest 与 Routley 1981 年造词；中文维基百科条目作“双面真理说”|
+|dialetheism|双面真理论|Priest 与 Routley 1981 年造词；对齐登记册（语料回收 logic-classical，B 档联网核查 2026-10-27；词条标题与 SUMMARY 同形）|
 |difference principle|差别原则|罗尔斯《正义论》|
 |dictum (Abelard)|所言|阿伯拉尔；首现 abelard|
 |Diodorus|狄奥多罗斯||
@@ -937,7 +937,7 @@
 |idealism|唯心论；观念论|贝克莱、黑格尔语境通译“唯心论”，德国古典哲学语境亦作“观念论”，全库按语境取一并保持一致|
 |Identity|同一性||
 |identity theory|同一论|心脑同一论语境；“同一性”译法见 Identity 条|
-|Ikhwān al-Ṣafā’|精诚兄弟会|中文维基百科作“精诚兄弟会”（Brethren of Purity）；其文集 Rasā’il 即《论文集》|
+|Ikhwān al-Ṣafā’|精诚兄弟社|学界通行组织名译法，亦作“精诚兄弟会”“纯洁兄弟会”；对齐本库词条标题与 SUMMARY/mu-lu-s（2026-11-10 主形裁定）|
 |imperialism|帝国主义||
 |implicit bias|内隐偏见||
 |imposition|命名、设定|词项施加（impositio 另作“设定”，见 analogy-medieval 行）|
@@ -1106,12 +1106,12 @@
 |pessimism|悲观主义||
 |Peter Abelard|彼得·阿伯拉尔|法语原名 Pierre Abelard（皮埃尔·阿伯拉尔）；正文通常简称阿伯拉尔，见 Abelard 条|
 |Peter Frederick Strawson|彼得·弗雷德里克·斯特劳森||
-|Phaedo|斐多篇||
+|Phaedo|《斐多篇》|柏拉图对话；亦作“斐多篇”；对齐登记册（ancient-soul 首译，2026-11-09）|
 |Philip the Chancellor|菲利普校长|13 世纪巴黎主教座堂总务长，神学家；亦作“校长腓力”（ren-ming-biao 正形对齐 2026-11-08）|
 |Phenomenological Approaches|现象学方法||
 |Philo|斐洛||
-|Philolaus|菲洛劳斯|毕达哥拉斯学派；勿与 Philoponus（斐洛波努斯）混淆|
-|Philoponus|斐洛波努斯|约翰·斐洛波努斯（John Philoponus，约 490—570），亚历山大里亚注释家；中文维基作“费罗普勒斯”。勿与 Philolaus（菲洛劳斯，毕达哥拉斯学派）混淆|
+|Philolaus|菲洛劳斯|毕达哥拉斯学派；勿与 Philoponus（菲洛波努斯）混淆|
+|Philoponus|菲洛波努斯|约翰·菲洛波努斯（John Philoponus，约 490—570），亚历山大里亚注释家；对齐人名表（亦作“菲洛波诺斯”，凭证 2026-11-06；语料 28 见）。勿与 Philolaus（菲洛劳斯，毕达哥拉斯学派）混淆|
 |Philosophy of Sport|体育哲学||
 |Philosophy of Statistical Mechanics|统计力学哲学||
 |Philosophy of Statistics|统计学哲学||
@@ -1145,7 +1145,7 @@
 |probability theory|概率论|审定名词（数学）|
 |Principia Mathematica|《数学原理》|罗素、怀特海著，通行译名《数学原理》|
 |Prior Analytics|《前分析篇》|亚里士多德著作，通行译名|
-|problem of universals|共相问题|中文维基百科立“共相问题”条目；旧译“普遍性问题”|
+|problem of universals|共相问题|对齐登记册（termonline-standard GB 标准库凭证 2026-10-28；审定库复核 2026-10-29 保留现译）；旧译“普遍性问题”不采|
 |Progress|进步||
 |projective sets|射影集合|描述集合论语境|
 |Proof-Theoretic|证明论||

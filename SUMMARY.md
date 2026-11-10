@@ -1868,7 +1868,7 @@
   * [法律实证主义 legal positivism (Leslie Green and Thomas Adams)](l/legal-positivism.md)
   * [自然法理论 natural law theories (John Finnis)](n/natural-law-theories.md)
   * [纯粹法理论 pure theory of law (Andrei Marmor)](l/lawphil-theory.md)
-* [\*新理正派——见早期现代印度的分析哲学 Navya-Nyāya — see Early Modern India, analytic philosophy in](e/early-modern-india.md)
+* [\*新正理派——见早期现代印度的分析哲学 Navya-Nyāya — see Early Modern India, analytic philosophy in](e/early-modern-india.md)
 * [必要条件和充分条件 necessary and sufficient conditions (Andrew Brennan)](n/necessary-sufficient.md)
 * [上帝和其他必然存在 God and Other Necessary Beings (Matthew Davidson)](g/god-necessary-being.md)
   * [\*上帝——见上帝和其他必然存在 God and Other Necessary Beings — see God: and other necessary beings](g/god-necessary-being.md)
