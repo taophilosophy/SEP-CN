@@ -2,7 +2,7 @@
   "slug": "falaquera",
   "kind": "retranslate",
   "zh_doc": "f/falaquera.md",
-  "state": "s3_checked",
+  "state": "cleared",
   "steps": [
     {
       "step": "clear",
@@ -10,34 +10,6 @@
       "actor": "task_ops",
       "at": "2026-11-10T17:33:28Z",
       "evidence": "baseline gate: hash_ok"
-    },
-    {
-      "step": "draft",
-      "status": "ok",
-      "actor": "F-main-20261111",
-      "at": "2026-11-10T20:23:31Z",
-      "evidence": "账本 32 段（body 31/oir 1）双版齐；lq.py check HARD=0；7 段反思两步补写初译版（19/20/22/26/27/28/30）；compose 落盘 30851 字符"
-    },
-    {
-      "step": "s1",
-      "status": "ok",
-      "actor": "F-main-20261111",
-      "at": "2026-11-10T20:23:31Z",
-      "evidence": "对账：marker 1:1、defs 72:72、段 21:21、节 11:11、引块 4:4；书名与希伯来/阿拉伯转写照录；SUMMARY 定名统一（法拉奎拉 68 处、闪-托夫 2 处）；相关词条映射复核"
-    },
-    {
-      "step": "s2",
-      "status": "ok",
-      "actor": "F-main-20261111",
-      "at": "2026-11-10T20:23:32Z",
-      "evidence": "check_prose 26→4：实修 22 处（long-sentence 10、de-chain 8、weak-verb 3、plural-men 2、passive 1）；余 4 条全在引文块（拉奎拉引阿维森纳枚举导言、阿威罗伊拼合引语），ADR-0020 豁免留痕；check_style 0 issue（italic→bold 4 行、转写撇号 3 处、词尾属格 5 处）"
-    },
-    {
-      "step": "s3",
-      "status": "ok",
-      "actor": "F-main-20261111",
-      "at": "2026-11-10T20:23:33Z",
-      "evidence": "check_academic --strict OK（非存根 1）；check_math 0 missing/unbalanced；术语 6 行（maqāmah 玛卡梅/virtuous city 完善城/active intellect 主动理智/middle commentary 中等评注/pietist 虔信者/paraphrase 改写）+人名 7 行（法拉奎拉/约斯佩/金希/阿尔法哈尔/阿德雷特/希夫曼/伪恩培多克勒）；同键异译回改 原初质料→第一质料"
     }
   ],
   "blockers": [],
