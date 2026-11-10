@@ -228,7 +228,7 @@ outline: [1, 6]
 * [文艺复兴时期的亚里士多德主义 in the Renaissance (Heinrich Kuhn)](a/aristotelianism-renaissance.md)
 * [乔瓦尼·皮科·德拉·米兰多拉 Pico della Mirandola, Giovanni (Brian Copenhaver)](p/pico-della-mirandola.md)
 * [乔瓦尼·弗朗切斯科·皮科·德拉·米兰多拉 Giovanni Francesco [Gianfrancesco] Pico della Mirandola (Francesco Molinarolo)](g/gianfrancesco-pico.md)
-* [文艺复兴时期的自然哲学 in the Renaissance (Eva Del Soldato)](n/natphil-ren.md)
+* [文艺复兴时期的自然哲学 Natural Philosophy in the Renaissance (Eva Del Soldato)](n/natphil-ren.md)
 * [尼古拉·哥白尼 Copernicus, Nicolaus (Sheila Rabin)](c/copernicus.md)
 * [乔尔丹诺·布鲁诺 Bruno, Giordano (Dilwyn Knox)](b/bruno.md)
 * [贝尔纳迪诺·特莱西奥 Telesio, Bernardino (Michaela Boenke)](t/telesio.md)

@@ -1860,7 +1860,7 @@
 * [\*自然法 natural law](README.md)
   * [\*伦理学传统——见伦理学：伦理学中的自然法传统 tradition in ethics — see ethics: natural law tradition](n/natural-law-ethics.md)
 * [\*自然哲学 natural philosophy](README.md)
-  * [文艺复兴时期的自然哲学 in the Renaissance (Eva Del Soldato)](n/natphil-ren.md)
+  * [文艺复兴时期的自然哲学 Natural Philosophy in the Renaissance (Eva Del Soldato)](n/natphil-ren.md)
 * [自然选择 natural selection (Peter Gildenhuys)](n/natural-selection.md)
   * [选择的单位与层次 units and levels of (Elisabeth Lloyd)](s/selection-units.md)
 * [法律的本质 nature of law (Emad Atiq, Andrei Marmor, and Alexander Sarch)](l/lawphil-nature.md)
