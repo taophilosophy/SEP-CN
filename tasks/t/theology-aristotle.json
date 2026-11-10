@@ -2,7 +2,7 @@
   "slug": "theology-aristotle",
   "kind": "retranslate",
   "zh_doc": "t/theology-aristotle.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "TZ-main-20261107",
       "at": "2026-11-08T02:32:36Z",
       "evidence": "体例校：check_style 0 issue、check_academic --strict 0 硬错误、check_math 0/0/0、check_terms 硬错误 0（顺带对齐词汇表 Philip the Chancellor 异形）、check_all 七项全绿；术语 21 行/人名 11 行入册。单会话作业冷置后走复审波 r1-r3"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-10T05:23:44Z",
+      "evidence": "冷置回读（草案 TZ-main-20261107，2026-11-08）：节级对位 14/14（_r_align 哨兵对位正常）；脚注引用键 41、定义键 60 与源全等；数字串 1 处判读：源 51-2 译作 51–2（页码区间连字符归一 en-dash，风格项）；源自带字上标 Enn. IV.7.8⁵ 照录正确；阿拔斯年表 833–842/218–227 AD/AH 两见均一致；专名（肯迪/希姆西/法拉比/普罗提诺/波菲利/西吉斯塔尼/利桑·丁·伊本·哈提卜等）音译一致零混形；全文通读，序言引文、太一比对引文、第二 mimar 无知段三类引文块逐句与源对应"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-10T05:23:44Z",
+      "evidence": "句级复读：check_prose 告警 0；通读无欧化句/倒装残留；术语（流溢/隐德来希/mimar/长版本/否定神学）全篇一致"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-10T05:23:45Z",
+      "evidence": "终检：check_style 0；check_academic --strict 无硬错误；check_math 0；账本 lq check 守恒 50 段（SOFT 为斜体→书名号）；斜体星差 412→248 与粗体 1→3 对 属模板转换（书名号化+CJK 粗体化），书目 60 条照录"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-10T05:23:45Z",
+      "evidence": "r1–r3 收口，四门禁绿、账本守恒、结构对账判读完毕（含源字上标照录与页码区间归一）"
     }
   ],
   "blockers": [],
