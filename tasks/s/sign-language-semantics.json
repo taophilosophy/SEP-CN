@@ -2,8 +2,16 @@
   "slug": "sign-language-semantics",
   "kind": "retranslate",
   "zh_doc": "s/sign-language-semantics.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-10T00:07:18Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T05:38:14Z",
   "version_pin": {
