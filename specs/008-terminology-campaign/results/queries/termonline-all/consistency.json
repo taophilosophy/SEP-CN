@@ -1,11 +1,18 @@
 {
- "key": "consistency",
- "term": "consistency",
+ "key": "ω-consistency",
+ "term": "ω-consistency",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T15:47:01+00:00",
+ "queried_at": "2026-11-10T22:39:45+00:00",
  "status": "ok",
- "note": "variant=consistency; 审定公布名词库=111; 海峡两岸名词对照库=50; 其他来源数据库=9; 预公布名词数据库=3; browser-channel（cookie 会话，raw 略）",
+ "note": "variant=ω-consistency; 审定公布名词库=133; 海峡两岸名词对照库=55; 其他来源数据库=10; 预公布名词数据库=3; browser-channel（cookie 会话，raw 略）",
  "hits": [
+  {
+   "cn": "ω相容性",
+   "en": "ω-consistency,omega- consistency",
+   "code": "02.0133",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_证明论"
+  },
   {
    "cn": "稠度",
    "en": "consistency,consistence",
@@ -86,13 +93,6 @@
   {
    "cn": "一致性",
    "en": "consistency",
-   "code": "14.226",
-   "standard": "电气工程名词",
-   "subject": "电气工程_继电器及继电保护装置"
-  },
-  {
-   "cn": "一致性",
-   "en": "consistency",
    "code": null,
    "standard": "海峡两岸大气科学名词",
    "subject": "大气科学"
@@ -133,18 +133,18 @@
    "subject": "航海科学技术"
   },
   {
-   "cn": "稠度",
-   "en": "consistency\",\"thickness",
-   "code": null,
-   "standard": "海峡两岸化学工程名词",
-   "subject": "化学工程"
-  },
-  {
    "cn": "一致性",
    "en": "conformance\",\"consistency",
    "code": null,
    "standard": "海峡两岸地理信息系统名词",
    "subject": "地理信息系统"
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency\",\"thickness",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
   },
   {
    "cn": "一致性检验",
@@ -154,6 +154,13 @@
    "subject": "大气科学"
   },
   {
+   "cn": "标准稠度",
+   "en": "standard consistency",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
    "cn": "稠度试验",
    "en": "consistency test",
    "code": null,
@@ -161,18 +168,11 @@
    "subject": "化学工程"
   },
   {
-   "cn": "一致性试验",
-   "en": "consistency test",
+   "cn": "热力学一致性",
+   "en": "thermodynamic consistency",
    "code": null,
    "standard": "海峡两岸化学工程名词",
    "subject": "化学工程"
-  },
-  {
-   "cn": "相容收敛",
-   "en": "consistency-convergent",
-   "code": null,
-   "standard": "海峡两岸信息科学技术名词",
-   "subject": "信息科学技术"
   },
   {
    "cn": "土壤结持度",
@@ -238,6 +238,13 @@
    "subject": "其他"
   },
   {
+   "cn": "ω-9脂肪酸",
+   "en": "ω−9 fatty acidsn−9 fatty acids",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
    "cn": "一致性",
    "en": "consistency",
    "code": "1.3.30",
@@ -245,18 +252,18 @@
    "subject": "食品卫生学_总论_食品安全风险分析"
   },
   {
-   "cn": "一致性评价",
-   "en": "consistency evaluation",
-   "code": "1.4.3.35",
-   "standard": "食品卫生学名词",
-   "subject": "食品卫生学_总论_食品安全风险评估"
-  },
-  {
    "cn": "内部一致性信度",
    "en": "internal consistency",
    "code": "4.9.1.4",
    "standard": "社会医学名词",
    "subject": "社会医学研究方法"
+  },
+  {
+   "cn": "一致性评价",
+   "en": "consistency evaluation",
+   "code": "1.4.3.35",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
   }
  ],
  "error": null,

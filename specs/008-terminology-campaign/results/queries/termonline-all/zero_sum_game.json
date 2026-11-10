@@ -1,0 +1,348 @@
+{
+ "key": "zero-sum game",
+ "term": "zero-sum game",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T22:33:44+00:00",
+ "status": "ok",
+ "note": "variant=zero-sum game; 审定公布名词库=1786; 海峡两岸名词对照库=503; 其他来源数据库=137; 预公布名词数据库=58; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "零和博弈",
+   "en": "zero-sum game",
+   "code": "03.151",
+   "standard": "经济学名词",
+   "subject": "经济学_微观经济学"
+  },
+  {
+   "cn": "零和对策",
+   "en": "zero-sum game",
+   "code": "011.0427",
+   "standard": "数学名词",
+   "subject": "数学_运筹学_对策论"
+  },
+  {
+   "cn": "零和博弈",
+   "en": "zero sum game",
+   "code": "12.053",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_政治传播_政治传播基础"
+  },
+  {
+   "cn": "非零和博弈",
+   "en": "non zero sum game",
+   "code": "12.054",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_政治传播_政治传播基础"
+  },
+  {
+   "cn": "非零和对策",
+   "en": "non-zero-sum game",
+   "code": "10.171",
+   "standard": "经济学名词",
+   "subject": "经济学_数量经济学"
+  },
+  {
+   "cn": "非零和对策",
+   "en": "non-zero-sum game",
+   "code": "02.0311",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_对策理论与方法"
+  },
+  {
+   "cn": "非零和对策",
+   "en": "non-zero-sum game",
+   "code": "011.0438",
+   "standard": "数学名词",
+   "subject": "数学_运筹学_对策论"
+  },
+  {
+   "cn": "零和对策模型",
+   "en": "zero sum game model",
+   "code": "03.309",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_自动化技术系统_系统工程"
+  },
+  {
+   "cn": "非零和博弈政策",
+   "en": "non-zero-sum game policy",
+   "code": "11.0218",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_公共管理_公共政策"
+  },
+  {
+   "cn": "两人零和对策",
+   "en": "two-person zero-sum game",
+   "code": "011.0440",
+   "standard": "数学名词",
+   "subject": "数学_运筹学_对策论"
+  },
+  {
+   "cn": "n人零和对策",
+   "en": "n-person zero-sum game",
+   "code": "011.0445",
+   "standard": "数学名词",
+   "subject": "数学_运筹学_对策论"
+  },
+  {
+   "cn": "零对策",
+   "en": "zero game",
+   "code": "011.0426",
+   "standard": "数学名词",
+   "subject": "数学_运筹学_对策论"
+  },
+  {
+   "cn": "零和博弈,零和对策",
+   "en": "zero sum game",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "博弈，对策",
+   "en": "game",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "零点",
+   "en": "Zero",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "零",
+   "en": "zero",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "保证金额",
+   "en": "guarantee sum",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "和波束",
+   "en": "sum beam",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "博弈论，对策论",
+   "en": "game theory",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "狩猎牧场,供猎牧场",
+   "en": "game pasture",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "狩猎管理,狩猎经营",
+   "en": "game management",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "博弈论,对策论",
+   "en": "game theory",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "等待博弈",
+   "en": "wait game",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "狩猎动物",
+   "en": "game animal",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "局",
+   "en": "game",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "局",
+   "en": "game",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "局",
+   "en": "game",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "局",
+   "en": "game",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_乒乓球名词"
+  },
+  {
+   "cn": "零点",
+   "en": "Zero",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "局点",
+   "en": "game ball\",\"game point",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "比赛",
+   "en": "game\",\"match",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "局",
+   "en": "game\",\"inning",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "比赛",
+   "en": "game\",\"match",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_篮球名词"
+  },
+  {
+   "cn": "网络游戏",
+   "en": "Online Game",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "手机游戏",
+   "en": "Mobile Game",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "电子游戏",
+   "en": "video game",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "零和权力",
+   "en": "zero-sum power",
+   "code": "3.6.2.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_政治社会学_权力与支配"
+  },
+  {
+   "cn": "博弈论",
+   "en": "game theory",
+   "code": "3.5.3.14",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_经济社会学_新经济社会学"
+  },
+  {
+   "cn": "教学游戏",
+   "en": "teaching game",
+   "code": "5.2.2.5",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法"
+  },
+  {
+   "cn": "互动式游戏",
+   "en": "interactive game",
+   "code": "9.1.3.2.2",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇幼健康教育与健康促进_妇幼健康教育"
+  },
+  {
+   "cn": "民间游戏",
+   "en": "folk games",
+   "code": "4.0428",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "“一笔过”拨款",
+   "en": "lump sum grant",
+   "code": "4.4.3.28",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施"
+  },
+  {
+   "cn": "零形式",
+   "en": "zero form",
+   "code": "5.0064",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "民间竞技",
+   "en": "folk competitive games",
+   "code": "4.043",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "药品零差率",
+   "en": "zero drug markup policy ",
+   "code": "16.1.6.2.7",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生系统改革_中国卫生系统改革"
+  },
+  {
+   "cn": "前生殖期性游戏",
+   "en": "pre-reproductive period sex games",
+   "code": "3.3.3.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性社会学_性发展"
+  },
+  {
+   "cn": "松巴堪布益喜班觉",
+   "en": "Sum pa ye shes dpal vbyor",
+   "code": "3.0412",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "酸酯总量",
+   "en": "sum of total acid and total ester",
+   "code": "5.12.5.7",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_酒类"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

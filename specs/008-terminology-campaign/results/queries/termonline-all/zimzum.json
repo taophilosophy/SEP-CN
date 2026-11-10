@@ -1,0 +1,47 @@
+{
+ "key": "zimzum",
+ "term": "Zimzum",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T22:36:44+00:00",
+ "status": "ok",
+ "note": "variant=Zimzum; 审定公布名词库=2; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "齐姆图",
+   "en": "Zimm plot",
+   "code": "05.0804",
+   "standard": "化学名词",
+   "subject": "化学_高分子化学_高分子物理化学与高分子物理"
+  },
+  {
+   "cn": "舒尔茨-齐姆分布",
+   "en": "Schulz-Zimm distribution",
+   "code": "05.0755",
+   "standard": "化学名词",
+   "subject": "化学_高分子化学_高分子物理化学与高分子物理"
+  },
+  {
+   "cn": "齐姆图",
+   "en": "Zimm plot",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "舒尔茨-齐姆分布",
+   "en": "Schulz-Zimm distribution",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "舒尔茨-齐姆分布",
+   "en": "Schulz-Zimm distribution",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
