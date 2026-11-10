@@ -10,8 +10,8 @@
   },
   "a": {
    "phase": "translate",
-   "claimed_by": "A-main-20261110b",
-   "claimed_at": "2026-11-10T05:32:56Z",
+   "claimed_by": "A-main-20261111",
+   "claimed_at": "2026-11-10T16:20:08Z",
    "note": "A4-main-20261109 接手（2026-11-09）：done 54→56——african-ethics 全链 done（s2-r3 复核修 3 句+体例 40 处）、aesthetic-judgment 全链 done（账本 112 段、32.8k 字符、r3 冷置终审）；al-din-al-razi 落至 r2（账本 68 段、44.3k 字符、prose 豁免 3）；工具侧修 lq.py 的 ** 守恒判据与列表符（script/ 本地）；下一目标 ancient-soul | 2026-11-10 接管（A-main-20261110b，用户指令：接手 A 条目所有翻译，主会话直译不用子代理，可随时 rebase push）：现状 done 57/160、在途 adorno s1_checked（A5-main-20261110 已做 s1 与 s2 两批并正在写回，本会话接收其工作树成果继续）、cleared 15、pending 87；方向：A 批 103 条逐条六道全流程至 done，验收=步序齐备+evidence 可复核+check_all 全绿+check_academic --strict 0 硬错误+CI 绿；非目标=不改他批、不补写内容、不造引文；原 A5 会话请勿再推进 a/ 词条（避免同件双写）。",
    "advanced_at": "2026-11-09T12:53:59Z"
   },
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-10T14:43:45Z"
+ "updated_at": "2026-11-10T16:20:08Z"
 }
