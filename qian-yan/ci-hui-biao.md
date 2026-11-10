@@ -633,7 +633,7 @@
 |Albert Camus|阿尔贝·加缪||
 |Albert of Saxony|萨克森的阿尔伯特||
 |Albert the Great|大阿尔伯特||
-|Albertus Magnus|艾尔伯图斯·麦格努斯|即“大阿尔伯特”（Albert the Great），同人异译；中文维基百科条目作“艾尔伯图斯·麦格努斯”|
+|Albertus Magnus|大阿尔伯特|拉丁名形，与 Albert the Great 同指；亦作“艾尔伯图斯·麦格努斯”（音译形）；2026-11-10 对齐人名表（ADR-0012），弃维基百科依据|
 |Alcmaeon|阿尔克迈翁|克罗顿的阿尔克迈翁，SUMMARY 标题已用此译名|
 |Alexander Gerard|亚历山大·杰拉德||
 |Alexander of Aphrodisias|阿弗罗狄西亚的亚历山大|旧键 Aphrosias 系拼写笔误；学界通行（古代亚里士多德注释家通译），对齐人名表 2026-11-06（弃维基百科依据，ADR-0012）|
