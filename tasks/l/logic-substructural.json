@@ -30,7 +30,7 @@
       "status": "ok",
       "actor": "L-main-20261109c",
       "at": "2026-11-10T02:58:18Z",
-      "evidence": "check_academic --strict 0 硬错误；check_terms 硬错误 0（新增术语 14、人名 16，script/l_reg_logic_substructural.py）；check_summary H1 mismatch 0"
+      "evidence": "check_academic --strict 0 硬错误；check_terms 硬错误 0（新增术语 14、人名 16，script/l_reg_logic_substructural.py）；check_summary H1 mismatch 0；语体：现代汉语学术书面语（非文言），破折号 26 处均为插入/解说式（3.1/千字）无滥用，单破折号 1 处为“输入—输出”连接号；文言成分清零（“既已有”实修“既然已有”，正文与账本同步）；ADR-0033 回检 2026-11-11"
     },
     {
       "step": "s3",
