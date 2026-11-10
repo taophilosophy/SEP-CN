@@ -1,0 +1,33 @@
+{
+ "key": "subvariety",
+ "term": "subvariety",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T18:22:45+00:00",
+ "status": "ok",
+ "note": "variant=subvariety; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "子簇",
+   "en": "subvariety",
+   "code": "04.1034",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_代数几何学"
+  },
+  {
+   "cn": "线性子簇",
+   "en": "linear subvariety",
+   "code": "04.1035",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_代数几何学"
+  },
+  {
+   "cn": "亚变种",
+   "en": "subvariety",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

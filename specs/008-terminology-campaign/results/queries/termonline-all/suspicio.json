@@ -1,0 +1,61 @@
+{
+ "key": "suspicio",
+ "term": "suspicio",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T18:43:47+00:00",
+ "status": "ok",
+ "note": "variant=suspicio; 审定公布名词库=5; 海峡两岸名词对照库=1; 其他来源数据库=1; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "疑似感染动物",
+   "en": "suspicious infected animal",
+   "code": "02.009",
+   "standard": "兽医学名词",
+   "subject": "兽医学_动物传染病学"
+  },
+  {
+   "cn": "可疑有毒植物",
+   "en": "suspicious poisonous plant ",
+   "code": "2.0514",
+   "standard": "草学名词",
+   "subject": "草学_草地生态与草地培育_草地培育与利用"
+  },
+  {
+   "cn": "可疑肿瘤细胞",
+   "en": "suspicious tumor cell",
+   "code": "11.051",
+   "standard": "消化内镜学名词",
+   "subject": "消化内镜学_消化内镜病理诊断_内镜相关病理诊断"
+  },
+  {
+   "cn": "切缘可疑阳性",
+   "en": "suspicious positive resection margin",
+   "code": "11.045",
+   "standard": "消化内镜学名词",
+   "subject": "消化内镜学_消化内镜病理诊断_内镜相关病理诊断"
+  },
+  {
+   "cn": "多疑",
+   "en": "suspiciousness",
+   "code": "04.033",
+   "standard": "阿尔茨海默病名词",
+   "subject": "阿尔茨海默病_精神与心理认知学"
+  },
+  {
+   "cn": "互相怀疑",
+   "en": "mutual suspicion",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "金融可疑交易自动化拦截",
+   "en": "automatic interception of suspicious financial  transactions",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

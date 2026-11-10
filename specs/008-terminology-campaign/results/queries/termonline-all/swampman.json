@@ -1,0 +1,40 @@
+{
+ "key": "swampman",
+ "term": "Swampman",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T18:43:47+00:00",
+ "status": "ok",
+ "note": "variant=Swampman; 审定公布名词库=3; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "舢板",
+   "en": "sampan",
+   "code": "01.093",
+   "standard": "船舶工程名词",
+   "subject": "船舶工程_船舶种类及船舶检验、国际公约和证书"
+  },
+  {
+   "cn": "舢板信号灯",
+   "en": "sampan signalling light",
+   "code": "07.156",
+   "standard": "船舶工程名词",
+   "subject": "船舶工程_船舶电气"
+  },
+  {
+   "cn": "泥沼地区路基",
+   "en": "subgrade in bog [soil] zone,sub-grade in morass region,subgra- de in swampland",
+   "code": "02.0216",
+   "standard": "铁道科学技术名词",
+   "subject": "铁道科学技术_铁道工程建设"
+  },
+  {
+   "cn": "舢板",
+   "en": "sampan",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

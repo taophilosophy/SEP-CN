@@ -1,0 +1,33 @@
+{
+ "key": "sukiya",
+ "term": "sukiya",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T18:22:45+00:00",
+ "status": "ok",
+ "note": "variant=sukiya; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=3; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "萨迦寺",
+   "en": "Sa skya dgon",
+   "code": "3.056",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "萨迦派",
+   "en": "Sa skya pa",
+   "code": "3.0481",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "《萨迦格言》",
+   "en": "Sa skya legs bshad",
+   "code": "3.0359",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

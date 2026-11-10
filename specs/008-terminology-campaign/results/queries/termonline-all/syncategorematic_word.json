@@ -1,0 +1,348 @@
+{
+ "key": "syncategorematic word",
+ "term": "syncategorematic word",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T18:51:18+00:00",
+ "status": "ok",
+ "note": "variant=syncategorematic word; 审定公布名词库=1835; 海峡两岸名词对照库=526; 其他来源数据库=163; 预公布名词数据库=203; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "字",
+   "en": "word",
+   "code": "03.0128",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机体系结构_计算机模型"
+  },
+  {
+   "cn": "字",
+   "en": "word",
+   "code": "14.0787",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑设备与系统_弱电系统设备与智能设计"
+  },
+  {
+   "cn": "词",
+   "en": "word",
+   "code": "04.028",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_词与词汇"
+  },
+  {
+   "cn": "词",
+   "en": "word",
+   "code": "04.028",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "字",
+   "en": "word",
+   "code": "04.1854",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_群论"
+  },
+  {
+   "cn": "未登录词",
+   "en": "unregistered word,unlisted word,unknown word",
+   "code": "11.033",
+   "standard": "语言学名词",
+   "subject": "语言学_计算语言学_词处理"
+  },
+  {
+   "cn": "词汇词",
+   "en": "lexical word,content word",
+   "code": "05.056",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_词与词汇"
+  },
+  {
+   "cn": "同类词",
+   "en": "class word,group word",
+   "code": "05.074",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_词与词汇"
+  },
+  {
+   "cn": "概念词",
+   "en": "concept word,conception word",
+   "code": "05.097",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_词与词汇"
+  },
+  {
+   "cn": "感情色彩词",
+   "en": "emotive word,affective word",
+   "code": "05.098",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_词与词汇"
+  },
+  {
+   "cn": "逐词排列法",
+   "en": "word-by-word filing",
+   "code": "04.093",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_一般概念"
+  },
+  {
+   "cn": "主题词",
+   "en": "thematic word",
+   "code": "02.04.054",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_编辑_编辑加工"
+  },
+  {
+   "cn": "字",
+   "en": "word",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "关键字",
+   "en": "key word",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "词盲",
+   "en": "word blindness",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "功能词",
+   "en": "function word",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "字词联想",
+   "en": "word association",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "保留字",
+   "en": "reserved word",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "关键字",
+   "en": "key word",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "保留字",
+   "en": "reserved word",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "词的使用度",
+   "en": "word usage",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "词范畴",
+   "en": "word category",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "词频",
+   "en": "word frequency",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "词切分，分词",
+   "en": "word segmentation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "量词",
+   "en": "measure word",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "实词",
+   "en": "Content word",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "造词法",
+   "en": "word formation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "词云",
+   "en": "word cloud",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "词模型",
+   "en": "word  model",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "词义",
+   "en": "word sense; meaning of word",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "超长指令字",
+   "en": "Very long instruction word",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "词义消歧",
+   "en": "word sense disambiguation (WSD)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "词袋模型",
+   "en": "Bag-of-words model",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "词袋模型",
+   "en": "bag-of-words model",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "主文而谲谏",
+   "en": "Admonition Through Tactful Wording",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "君子一言，驷马难追",
+   "en": "A word spoken is a word that must be honored.",
+   "code": null,
+   "standard": "中央文献重要术语",
+   "subject": "其他"
+  },
+  {
+   "cn": "遗嘱",
+   "en": "dying word",
+   "code": "7.04",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_临终关怀与死亡伦理"
+  },
+  {
+   "cn": "同源词",
+   "en": "cognate word",
+   "code": "5.007",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "暗语",
+   "en": "code word",
+   "code": "4.036",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "词语计数",
+   "en": "words count",
+   "code": "1.2.5.17",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "底层词",
+   "en": "substratum words",
+   "code": "5.0142",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_语言状况与规划"
+  },
+  {
+   "cn": "双词句阶段",
+   "en": "two-word stage",
+   "code": "2.5.7.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_心理行为发育"
+  },
+  {
+   "cn": "藏汉对音",
+   "en": "Chinese transcription of the old Tibetan words",
+   "code": "5.0033",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "朝汉对音",
+   "en": "Korean transcription of the borrowed Chinese words",
+   "code": "5.0032",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "越汉对音",
+   "en": "Vietnamese transcription of the borrowed Chinese words",
+   "code": "5.0034",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "世界",
+   "en": "world",
+   "code": "01.0018",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "社会世界",
+   "en": "social world",
+   "code": "2.1.3.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会存在"
+  },
+  {
+   "cn": "工作班组",
+   "en": "work group",
+   "code": "2.5.13.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念群体和组织"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

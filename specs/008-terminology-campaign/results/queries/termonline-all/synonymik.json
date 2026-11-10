@@ -1,0 +1,180 @@
+{
+ "key": "synonymik",
+ "term": "Synonymik",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T18:54:18+00:00",
+ "status": "ok",
+ "note": "variant=Synonymik; 审定公布名词库=35; 海峡两岸名词对照库=15; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "[同物]异名录",
+   "en": "synonymia",
+   "code": "01.0119",
+   "standard": "古生物学名词",
+   "subject": "古生物学_总论"
+  },
+  {
+   "cn": "[同物]异名关系",
+   "en": "synonymy",
+   "code": "2.0103",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_动物分类学"
+  },
+  {
+   "cn": "同义关系",
+   "en": "synonymy",
+   "code": "05.126",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_词义"
+  },
+  {
+   "cn": "[同物]异名",
+   "en": "synonym",
+   "code": "2.0101",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_动物分类学"
+  },
+  {
+   "cn": "同义词",
+   "en": "synonym",
+   "code": "04.266",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_主题法"
+  },
+  {
+   "cn": "[同物]异名",
+   "en": "synonym",
+   "code": "02.0133",
+   "standard": "植物学名词",
+   "subject": "植物学_系统与进化植物学"
+  },
+  {
+   "cn": "异名",
+   "en": "synonym",
+   "code": "02.100",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物系统学"
+  },
+  {
+   "cn": "同义词",
+   "en": "synonym",
+   "code": "05.086",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_词与词汇"
+  },
+  {
+   "cn": "同物异名",
+   "en": "synonym",
+   "code": "01.0118",
+   "standard": "古生物学名词",
+   "subject": "古生物学_总论"
+  },
+  {
+   "cn": "[同物]异名",
+   "en": "synonym,syn.",
+   "code": "02.099",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫分类与进化"
+  },
+  {
+   "cn": "同义字",
+   "en": "synonymic character",
+   "code": "02.164",
+   "standard": "语言学名词",
+   "subject": "语言学_文字学_汉字系统内部关系"
+  },
+  {
+   "cn": "同义换读",
+   "en": "synonymic interchange",
+   "code": "02.165",
+   "standard": "语言学名词",
+   "subject": "语言学_文字学_汉字系统内部关系"
+  },
+  {
+   "cn": "[同物]异名",
+   "en": "synonym\",\"anoname",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "同物异名",
+   "en": "synonym\",\"syn.",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "同物异名",
+   "en": "synonym",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "[同物]异名",
+   "en": "synonym",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "分类学异名（=异模式异名）",
+   "en": "taxonomical synonym (=heterotypic synonym)",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "命名法异名（=同模式异名）",
+   "en": "nomenclatural synonym (=homotypic synonym)",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "被替代异名",
+   "en": "replaced synonym",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "同模式异名",
+   "en": "homotypic synonym",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "异模式异名",
+   "en": "heterotypic synonym",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "首异名",
+   "en": "senior synonym",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "主观异名",
+   "en": "subjective synonym",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "客观异名",
+   "en": "objective synonym",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

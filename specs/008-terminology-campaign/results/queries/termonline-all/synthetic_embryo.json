@@ -1,0 +1,348 @@
+{
+ "key": "synthetic embryo",
+ "term": "synthetic embryo",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T18:58:48+00:00",
+ "status": "ok",
+ "note": "variant=synthetic embryo; 审定公布名词库=613; 海峡两岸名词对照库=321; 其他来源数据库=12; 预公布名词数据库=13; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "胚胎",
+   "en": "embryo",
+   "code": "1.016",
+   "standard": "妇产科学名词",
+   "subject": "总论"
+  },
+  {
+   "cn": "胚胎",
+   "en": "embryo",
+   "code": "3.189",
+   "standard": "生殖医学名词",
+   "subject": "生殖医学_生殖生理与内分泌_女性生殖生理与内分泌"
+  },
+  {
+   "cn": "胚胎",
+   "en": "embryo",
+   "code": "4.0216",
+   "standard": "动物学名词",
+   "subject": "动物学_动物胚胎学_受精"
+  },
+  {
+   "cn": "胚胎",
+   "en": "embryo",
+   "code": "02.168",
+   "standard": "计划生育名词",
+   "subject": "计划生育_生殖医学基础_妊娠"
+  },
+  {
+   "cn": "胚",
+   "en": "embryo",
+   "code": "03.0601",
+   "standard": "植物学名词",
+   "subject": "植物学_植物形态与结构植物学_植物形态学"
+  },
+  {
+   "cn": "胚",
+   "en": "embryo",
+   "code": "02.359",
+   "standard": "林学名词",
+   "subject": "林学_林学基础_森林植物"
+  },
+  {
+   "cn": "胚胎",
+   "en": "embryo",
+   "code": "20.094",
+   "standard": "组织学与胚胎学名词",
+   "subject": "组织学与胚胎学_胚胎学_绪论"
+  },
+  {
+   "cn": "胚",
+   "en": "embryo",
+   "code": "20.095",
+   "standard": "组织学与胚胎学名词",
+   "subject": "组织学与胚胎学_胚胎学_绪论"
+  },
+  {
+   "cn": "胚胎",
+   "en": "embryo",
+   "code": "02.0045",
+   "standard": "中医药学名词（2010）",
+   "subject": "中医药学_妇科学"
+  },
+  {
+   "cn": "胚胎",
+   "en": "embryo",
+   "code": "06.133",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞分化与发育"
+  },
+  {
+   "cn": "胚胎",
+   "en": "embryo",
+   "code": "05.063",
+   "standard": "遗传学名词",
+   "subject": "遗传学_发育遗传学"
+  },
+  {
+   "cn": "胚胎",
+   "en": "embryo",
+   "code": "04.306",
+   "standard": "水产名词",
+   "subject": "水产_水产养殖学"
+  },
+  {
+   "cn": "胚[胎]",
+   "en": "embryo",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "胚",
+   "en": "embryo",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "胚胎",
+   "en": "embryo",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "胚胎",
+   "en": "embryo",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "胚[胎]",
+   "en": "embryo",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "胚胎",
+   "en": "embryo",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "胚胎",
+   "en": "embryo",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "冷藏胚胎",
+   "en": "cryopreserved embryo",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "盘状胚",
+   "en": "discoid embryo",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "胚胎成纤维细胞",
+   "en": "embryo fibroblast",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "胚胎萃取液",
+   "en": "embryo extract",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "胚胎分割",
+   "en": "embryo splitting",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "胚胎",
+   "en": "embryo",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "合成生物学",
+   "en": "synthetic biology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "合成大麻素",
+   "en": "Synthetic cannabinoids",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "塑胶跑道",
+   "en": "synthetic track\",\"tartan",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "合成孔径雷达",
+   "en": "Synthetic-aperture radar",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "全合成",
+   "en": "Total synthesis",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "句法成分",
+   "en": "syntactic constituent",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "语音合成",
+   "en": "voice synthesis",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "语法糖",
+   "en": "syntactic sugar",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "语法分析",
+   "en": "syntactic analysis",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "合成气",
+   "en": "Syngas  synthesis gas",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "切比雪夫滤波器",
+   "en": "Network synthesis filters",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "胚胎赠送",
+   "en": "embryo donation",
+   "code": "5.7.4",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_生育调节_辅助生殖技术"
+  },
+  {
+   "cn": "合成橡胶",
+   "en": "synthetic rubber",
+   "code": "6.1.10.3",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品添加剂_食品添加剂"
+  },
+  {
+   "cn": "合成甜味剂",
+   "en": "synthetic sweetener",
+   "code": "6.1.23.5",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品添加剂_食品添加剂"
+  },
+  {
+   "cn": "综合语",
+   "en": "synthetic language",
+   "code": "5.0063",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "合成生物学",
+   "en": "synthetic biology",
+   "code": "5.23.19",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_其他食品"
+  },
+  {
+   "cn": "冻存胚胎移植",
+   "en": "frozen-embryo transfer",
+   "code": "5.7.2.4",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_生育调节_辅助生殖技术"
+  },
+  {
+   "cn": "阴离子合成洗涤剂",
+   "en": "anion synthetic detergent",
+   "code": "4.2.2.6",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_物品消毒"
+  },
+  {
+   "cn": "食品用合成香料",
+   "en": "synthetic food flavors",
+   "code": "6.3.1.14",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品添加剂_食品用香精香料"
+  },
+  {
+   "cn": "体外受精胚胎移植",
+   "en": "in vitro fertilization and embryo transfer, IVF-ET",
+   "code": "5.7.2.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_生育调节_辅助生殖技术"
+  },
+  {
+   "cn": "靶向改善病情抗风湿药",
+   "en": "targeted synthetic, disease-modifying antirheumatic drug, ts-DMARD",
+   "code": "1.7.1.12",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_治疗药物"
+  },
+  {
+   "cn": "传统改善病情抗风湿药",
+   "en": "conventional synthetic disease-modifying antirheumatic drug，cs-DMARD",
+   "code": "1.7.1.4",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_治疗药物"
+  },
+  {
+   "cn": "分析和综合",
+   "en": "analysis and synthesis",
+   "code": "01.0042",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

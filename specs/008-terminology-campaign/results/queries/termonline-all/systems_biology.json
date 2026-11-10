@@ -1,0 +1,348 @@
+{
+ "key": "systems biology",
+ "term": "systems biology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T18:58:48+00:00",
+ "status": "ok",
+ "note": "variant=systems biology; 审定公布名词库=7978; 海峡两岸名词对照库=2327; 其他来源数据库=541; 预公布名词数据库=368; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "系统生物学",
+   "en": "systems biology",
+   "code": "1.0024",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_总论"
+  },
+  {
+   "cn": "系统生物学",
+   "en": "systems biology",
+   "code": "06.153",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_生物信息学_系统生物学与合成生物学"
+  },
+  {
+   "cn": "系统生物学",
+   "en": "systems biology",
+   "code": "12.0126",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_生物信息学"
+  },
+  {
+   "cn": "系统生物学",
+   "en": "system biology",
+   "code": "01.020",
+   "standard": "化工名词（六）生物化工",
+   "subject": "化工（六）_通类_生物化工"
+  },
+  {
+   "cn": "定量系统生物学",
+   "en": "quantitative systems biology",
+   "code": "02.186",
+   "standard": "化工名词（六）生物化工",
+   "subject": "化工（六）_代谢工程与合成生物学_系统生物学_功能基因组学"
+  },
+  {
+   "cn": "系统结构生物学",
+   "en": "system structural biology",
+   "code": "06.134",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_生物信息学_结构生物信息学"
+  },
+  {
+   "cn": "生物学",
+   "en": "biology",
+   "code": "01.0015",
+   "standard": "核医学名词",
+   "subject": "核医学_总论"
+  },
+  {
+   "cn": "重力生物学",
+   "en": "gravitational biology,gravity biology",
+   "code": "11.001",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_空间与极端环境生物物理学"
+  },
+  {
+   "cn": "进化生物学",
+   "en": "evolutionary biology",
+   "code": "06.026",
+   "standard": "农学名词",
+   "subject": "作物基因组学与遗传育种_作物起源进化与多样性"
+  },
+  {
+   "cn": "合成生物学",
+   "en": "synthetic biology",
+   "code": "15.081",
+   "standard": "农学名词",
+   "subject": "农业生物技术_基因工程"
+  },
+  {
+   "cn": "生物灾害",
+   "en": "biology disaster",
+   "code": "05.009",
+   "standard": "急救医学名词",
+   "subject": "急救医学_灾难医学_基本概念_通用概念"
+  },
+  {
+   "cn": "土壤生物学",
+   "en": "soil biology",
+   "code": "09.175",
+   "standard": "农学名词",
+   "subject": "土壤肥料_土壤学"
+  },
+  {
+   "cn": "发育生物学",
+   "en": "developmental biology",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "分子生物学",
+   "en": "molecular biology",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "细胞生物学",
+   "en": "cell biology",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "成花生物学",
+   "en": "floral biology",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "植物生物学",
+   "en": "plant biology",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "种群生物学",
+   "en": "population biology",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "海洋生物学",
+   "en": "marine biology",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "分子生物学",
+   "en": "molecular biology",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "环境生物学",
+   "en": "environmental biology",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "行星生物学",
+   "en": "planetary biology",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "种群生物学",
+   "en": "population biology",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "进化生物学",
+   "en": "evolutionary biology",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "系统生物学",
+   "en": "systems biology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生物群系",
+   "en": "Soil biology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "发育生物学",
+   "en": "Developmental biology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "分子生物学",
+   "en": "molecular biology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "合成生物学",
+   "en": "synthetic biology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "细胞生物学",
+   "en": "cell biology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "退化",
+   "en": "Devolution (biology)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "演化生物学",
+   "en": "evolutionary biology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "核酸分子杂交",
+   "en": "Complementarity (molecular biology)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "群体遗传学",
+   "en": "Index of evolutionary biology articles",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "异域物种形成",
+   "en": "Index of evolutionary biology articles",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "5-1阵型",
+   "en": "5-1 system",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_排球名词"
+  },
+  {
+   "cn": "分子生物学",
+   "en": "molecular biology",
+   "code": "1.5.1.1",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法"
+  },
+  {
+   "cn": "合成生物学",
+   "en": "synthetic biology",
+   "code": "5.23.19",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_其他食品"
+  },
+  {
+   "cn": "细胞放射生物学",
+   "en": "cellular radiation biology",
+   "code": "4.1.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射生物效应及其机制"
+  },
+  {
+   "cn": "分子放射生物学",
+   "en": "molecular radiation biology",
+   "code": "4.1.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射生物效应及其机制"
+  },
+  {
+   "cn": "社会生物学",
+   "en": "social biology/ Sociobiology",
+   "code": "2.1.7.18",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会意识"
+  },
+  {
+   "cn": "生物样品个人监测",
+   "en": "personal monitoring with biology sampling",
+   "code": "5.4.2.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测类型"
+  },
+  {
+   "cn": "继承制度",
+   "en": "succession system/inheritance system",
+   "code": "3.1.1.34",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_家庭社会学_家庭"
+  },
+  {
+   "cn": "系统思维",
+   "en": "systems thinking",
+   "code": "01.0254",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "山官制",
+   "en": "shanguan system",
+   "code": "1.0295",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "系统性风险",
+   "en": "system risk",
+   "code": "1.1.9",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全"
+  },
+  {
+   "cn": "剂量测定系统",
+   "en": "dosimetry system",
+   "code": "5.4.3.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测类型_工作场所监测"
+  },
+  {
+   "cn": "安全系统",
+   "en": "safety system",
+   "code": "6.1.6.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_分析评估"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

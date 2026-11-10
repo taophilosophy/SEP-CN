@@ -1,0 +1,75 @@
+{
+ "key": "suffrage",
+ "term": "suffrage",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T18:22:45+00:00",
+ "status": "ok",
+ "note": "variant=suffrage; 审定公布名词库=7; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "全美妇女参政协会",
+   "en": "National Woman Suffrage Association",
+   "code": "03.0122",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_美国"
+  },
+  {
+   "cn": "副帧",
+   "en": "subframe",
+   "code": "07.658",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天测控与通信"
+  },
+  {
+   "cn": "副帧同步",
+   "en": "subframe synchronization",
+   "code": "07.664",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天测控与通信"
+  },
+  {
+   "cn": "识别字副帧同步",
+   "en": "identification subframe synchronization,ID subframe synchronization",
+   "code": "07.666",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天测控与通信"
+  },
+  {
+   "cn": "副帧同步码",
+   "en": "subframe sync pattern",
+   "code": "07.665",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天测控与通信"
+  },
+  {
+   "cn": "反码副帧同步",
+   "en": "inverse code subframe synchronization",
+   "code": "07.667",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天测控与通信"
+  },
+  {
+   "cn": "循环码副帧同步",
+   "en": "cyclic code subframe synchronization",
+   "code": "07.668",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天测控与通信"
+  },
+  {
+   "cn": "选举权",
+   "en": "suffrage",
+   "code": "04.0056",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_马克思恩格斯时期"
+  },
+  {
+   "cn": "普选权",
+   "en": "universal suffrage",
+   "code": "03.0135",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
