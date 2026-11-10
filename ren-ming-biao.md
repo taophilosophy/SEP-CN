@@ -562,6 +562,7 @@
 | Cavendish, Margaret Lucas | — | 玛格丽特·卢卡斯·卡文迪许 | — | — | rationalism-early-modern | 学界通行（SUMMARY 定名沿用；与 margaret-cavendish 同簇，行文简称“卡文迪许”） | 2026-11-06 |
 | Celestine V | — | 塞莱斯廷五世 | — | — | giles | 教皇通译惯例（本名 Pietro da Morrone） | 2026-11-10 |
 | Cervesato, Iliano | — | Iliano Cervesato | — | — | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
+| Corbin, Henri | — | 亨利·科尔班 | 法国／伊斯兰哲学与神秘主义研究 | 1903–1978 | ibn-kammuna | 学界通行音译（照明哲学研究先驱） | 2026-11-10 |
 | Césaire, Aimé | Aimé Césaire | 艾梅·塞泽尔 | — | — | colonialism | 学界通行汉译（《话语殖民》引介文献）；凭证 2026-11-07 | 2026-11-07 |
 | Cesare Beccaria | — | 切萨雷·贝卡里亚 | — | — | kant-social-political | 学界通行汉译（启蒙刑法改革家，《论犯罪与刑罚》） | 2026-11-05 |
 | Chaerephon | — | 凯瑞丰 | — | — | 首现（wisdom） | 学界通行汉译（苏格拉底友人）；凭证 2026-11-07 | 2026-11-07 |
@@ -1162,6 +1163,7 @@
 | Gaṅgeśa | गंगेश | 甘格沙 | 古印度／新正理 | 约 12–13 世纪 | early-modern-india | 梵音自拟（《真理思择摩尼》作者，新正理开祖）；凭证 2026-11-10 | 2026-11-10 |
 | Gaozu (Han) | — | 汉高祖 | — | — | han-dynasty | 汉开国皇帝刘邦庙号（上游作 Gaozu） | 2026-11-10 |
 | Garber, Daniel | — | 丹尼尔·加伯 | — | — | descartes-works | 学界通行（早期近代哲学名家） | 2026-11-06 |
+| Goldziher, Ignace | — | 伊格纳茨·戈尔德齐赫尔 | 匈牙利／伊斯兰研究 | 1850–1921 | ibn-kammuna | 学界通行音译（伊斯兰研究奠基者之一） | 2026-11-10 |
 | Gärdenfors, Peter | Peter Gärdenfors | 彼得·加登福斯 | — | — | social-procedures | 学界通行汉译（认知科学与概念空间）；凭证 2026-11-07 | 2026-11-07 |
 | Gardner, Howard | — | 霍华德·加德纳 | — | — | langer | 学界通行汉译（多元智能理论）；凭证 2026-11-08 | 2026-11-08 |
 | Gargov, George | — | George Gargov | — | — | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
@@ -2562,7 +2564,12 @@
 | Palamedes | — | 帕拉墨得斯 | 希腊神话 | — | zeno-elea | 学界通行汉译（希腊神话英雄，雄辩术发明者；《斐德罗篇》以“爱利亚的帕拉墨得斯”称芝诺）；凭证 2026-11-09 | 2026-11-09 |
 | Pandit Gulab Singh | — | 潘迪特·古拉布·辛格 | 印度（旁遮普） | 18 世纪 | sikh-philosophy | 本库首译（尼尔马拉派学者，《解脱之道》作者） | 2026-11-09 |
 | Pandit Tara Singh Narotam | — | 潘迪特·塔拉·辛格·纳罗塔姆 | 印度（旁遮普） | 1822–1891 | sikh-philosophy | 本库首译（尼尔马拉派学者，《古鲁教法决断海》作者） | 2026-11-09 |
+<<<<<<< Updated upstream
 | Pāṇini | पाणिनि | 波你尼 | 古印度 | 约前 4 世纪 | early-modern-india | 佛典古译传统译名（梵语法家；“波尼你”异写从略）；凭证 2026-11-10 | 2026-11-10 |
+=======
+| Pines, Shlomo | — | 施洛莫·派因斯 | 法国（巴黎出生）／以色列／犹太与伊斯兰哲学 | 1908–1990 | ibn-kammuna | 学界通行音译（阿维森纳研究） | 2026-11-10 |
+| Pāṇini | पाणिनि | 波你尼 | 古印度 | 约前 4 世纪 | early-modern-india | 佛典古译传统译名（梵语法家；「波尼你」异写从略）；凭证 2026-11-10 | 2026-11-10 |
+>>>>>>> Stashed changes
 | Pankenier, David W. | — | 班大伟 | — | — | chinese-phil-science | 学界通行（汉名班大伟，中国考古天文学）；凭证 2026-11-07 | 2026-11-07 |
 | Pantacleia | — | 潘塔克莱娅 | — | — | dialectical-school | 学界通行汉译（狄奥多罗斯之女，据称逻辑学家）；凭证 2026-11-07 | 2026-11-07 |
 | Panthoides | — | 潘托伊得斯 | — | — | dialectical-school | 学界通行汉译（辩证家，约前280–275年）；凭证 2026-11-07 | 2026-11-07 |
@@ -2786,6 +2793,7 @@
 | Rahel Levin | Rahel Levin | 拉赫尔·莱温 | — | — | schlegel | 学界惯例（柏林沙龙主人）；凭证 2026-11-07 | 2026-11-07 |
 | Raidl, Eric | — | Eric Raidl（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09 | 2026-11-09 |
 | Rainer Maria Rilke | — | 赖纳·马利亚·里尔克 | — | — | gadamer-aesthetics | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01） | 2026-11-01 |
+| Rashīd al-Dīn Hamadānī | رشيد الدين الهمذاني | 拉施德丁·哈马丹尼 | 波斯／伊利汗国史学 | c. 1247–1318 | ibn-kammuna | 学界通行（《史集》作者；由犹太家庭归信伊斯兰教） | 2026-11-10 |
 | Rákosi, Mátyás | Mátyás Rákosi | 拉科西 | — | — | 语料回收（lakatos 首译） | 学界通行汉译（匈牙利共产党领袖）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Ralph Cudworth | — | 拉尔夫·库德沃斯 | — | — | lady-masham | 学界通行汉译（剑桥柏拉图主义者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Ralph Strode | — | 拉尔夫·斯特罗德 | — | — | lorenzo-valla | 学界通行汉译（14 世纪牛津逻辑学家） | 2026-11-04 |
@@ -2942,6 +2950,7 @@
 | Said, Edward | — | 爱德华·萨义德 | — | — | colonialism | 学界通行汉译（《东方学》三联中译本署名）；凭证 2026-11-07 | 2026-11-07 |
 | Saint-Lambert, Jean-François de | Jean-François de Saint-Lambert | 让-弗朗索瓦·德·圣朗贝尔 | — | — | emilie-du-chatelet | 学界惯例（启蒙文人，通行音译） | 2026-11-04 |
 | Sakalauskaite, J. | — | J. Sakalauskaite | — | — | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
+| Steinschneider, Moritz | — | 莫里茨·施泰因施奈德 | 奥匈（普罗斯捷约夫）／书志学 | 1816–1907 | ibn-kammuna | 学界通行音译（希伯来书目学奠基者） | 2026-11-10 |
 | Śākya Chokden | — | 释迦秋登 | — | — | gorampa | 萨迦派学者（shākya mchog ldan，1428–1507）；通行音译 | 2026-11-09 |
 | Sakya Pandita Künga Gyeltsen | — | 萨迦·班智达·贡噶坚赞 | — | — | epistemology-language-tibetan | 佛学界通行（SUMMARY 定名沿用） | 2026-11-04 |
 | Śākyaśrībhadra | — | 释迦室利跋陀罗 | 克什米尔／佛教 | 1127–1225 | epistemology-language-tibetan | 佛学界通行（克什米尔班智达） | 2026-11-04 |
@@ -3720,6 +3729,8 @@
 | Zunuzī, Mullā ʿAlī | — | 穆拉·阿里·祖努齐 | — | — | arabic-islamic-mysticism | 德黑兰学派通行音译 | 2026-11-07 |
 | Zurbaran, Francisco de | — | 苏巴朗 | — | — | erotic-art | 学界通行（西班牙画家） | 2026-11-08 |
 | Zvi, Shabbatai | — | 沙巴泰·茨维 | 奥斯曼帝国（士麦那生） | 1626–1676 | scholem | 学界通行汉译（十七世纪假弥赛亚）；凭证 2026-11-08 | 2026-11-08 |
+
+| McCracken, Charles | — | 查尔斯·麦克拉肯 | 美国／哲学史家 | — | john-norris | 学界通行音译（*Malebranche and British Philosophy* 作者）；凭证 2026-11-10 | 2026-11-10 |
 
 ## 伊斯兰阿拉伯人物（ADR-0013 种子区，2026-10-28）
 
