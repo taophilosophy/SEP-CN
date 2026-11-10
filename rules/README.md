@@ -46,6 +46,7 @@
 ## 快速判例
 
 * 新任务或需求含糊 → 先写方向声明（用户到底要什么、目标/非目标、验收判据），再选手段（[08](08-intent-first.md)）。
+* 想用子代理（`Agent`／`Task`／workflow 扇出）跑任务 → 不许：主代理单干，翻译/检索/核对/工具一律主会话亲自做；仅当用户本轮提示词显式批准才可派发（[06](06-governance.md) §子代理禁用，ADR-0034）。
 * 改标题 → 只改 `SUMMARY.md`，再跑 `python tools/check_summary.py --sync-headers` 同步 H1；门禁与 CI 同器实拦，CI 不写回（[01](01-repository-structure.md)、ADR-0024）。
 * 新术语 → 先登记 `yi-zhe-shuo-ming.md`，再使用（[03](03-terminology.md)）。
 * 动手翻译 → 先建/查任务 `tasks/`，按状态机推进，禁止跳步（[04](04-translation-workflow.md)）。
