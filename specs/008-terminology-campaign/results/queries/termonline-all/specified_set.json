@@ -1,0 +1,348 @@
+{
+ "key": "specified set",
+ "term": "specified set",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T17:24:09+00:00",
+ "status": "ok",
+ "note": "variant=specified set; 审定公布名词库=3326; 海峡两岸名词对照库=1496; 其他来源数据库=191; 预公布名词数据库=122; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "[弹簧]工作载荷",
+   "en": "specified load",
+   "code": "07.0943",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械零件_弹簧_弹簧的设计和工艺"
+  },
+  {
+   "cn": "规定画法",
+   "en": "specified representation",
+   "code": "03.0198",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械设计与制图_机械制图_二维制图"
+  },
+  {
+   "cn": "指定杂质",
+   "en": "specified impurity",
+   "code": "06.044",
+   "standard": "药学名词",
+   "subject": "药学_药物分析"
+  },
+  {
+   "cn": "规定值",
+   "en": "specified value",
+   "code": "21.030",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_可靠性"
+  },
+  {
+   "cn": "定时限",
+   "en": "specified time",
+   "code": "14.214",
+   "standard": "电气工程名词",
+   "subject": "电气工程_继电器及继电保护装置"
+  },
+  {
+   "cn": "特殊地貌类",
+   "en": "specified landforms category",
+   "code": "04.0223",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景名胜_风景名胜区类型"
+  },
+  {
+   "cn": "爬电比距",
+   "en": "specified creepage distance",
+   "code": "22.251",
+   "standard": "电力名词",
+   "subject": "电力_输电线路"
+  },
+  {
+   "cn": "专类花园",
+   "en": "specified flower garden",
+   "code": "09.092",
+   "standard": "林学名词",
+   "subject": "林学_风景园林_风景园林规划与设计"
+  },
+  {
+   "cn": "定时限继电器",
+   "en": "specified-time relay",
+   "code": "14.053",
+   "standard": "电气工程名词",
+   "subject": "电气工程_继电器及继电保护装置"
+  },
+  {
+   "cn": "层系",
+   "en": "set",
+   "code": "05.03.021",
+   "standard": "地质学名词",
+   "subject": "地质学_沉积学与沉积岩岩石学_沉积岩结构、构造"
+  },
+  {
+   "cn": "系",
+   "en": "set",
+   "code": "07.0024",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据模型"
+  },
+  {
+   "cn": "集[合]",
+   "en": "set",
+   "code": "01.0075",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "指定通货",
+   "en": "specified currency",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "特定航次",
+   "en": "voyage specified",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "描述符",
+   "en": "descriptor\",\"specifier",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "测回",
+   "en": "observation set\",\"set",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "对准",
+   "en": "setting",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "移动位置逆向识别",
+   "en": "reverse floating position specifier",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "凝固时间",
+   "en": "set time\",\"setting time",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "夕没",
+   "en": "heliacal setting\",\"acronical setting",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "特定电阻型热双金属",
+   "en": "bimetal with specified electric resistivity",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "沉淀点",
+   "en": "set point",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "设定值",
+   "en": "set point",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "输出集",
+   "en": "output set",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "局",
+   "en": "set",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_沙滩排球名词"
+  },
+  {
+   "cn": "预备！",
+   "en": "Set!",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "预备！",
+   "en": "Set!",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_铁人三项名词"
+  },
+  {
+   "cn": "盘",
+   "en": "set",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "盘",
+   "en": "set",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "二传",
+   "en": "set",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_排球名词"
+  },
+  {
+   "cn": "局",
+   "en": "set",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_排球名词"
+  },
+  {
+   "cn": "校射",
+   "en": "setting",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "盘点",
+   "en": "set ball\",\"set point",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "决胜局",
+   "en": "deciding set\",\"final set",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_排球名词"
+  },
+  {
+   "cn": "抑郁型人格障碍",
+   "en": "Personality disorder not otherwise specified",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "表演型人格障碍",
+   "en": "Personality disorder not otherwise specified",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "角色丛",
+   "en": "role-set",
+   "code": "2.3.2.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会化_社会角色"
+  },
+  {
+   "cn": "议程设置",
+   "en": "agenda setting",
+   "code": "10.1.2.1.2",
+   "standard": "社会医学名词",
+   "subject": "政策与策略"
+  },
+  {
+   "cn": "模糊集合论",
+   "en": "fuzzy set theory",
+   "code": "1.2.5.157",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "群体与集合",
+   "en": "group and set",
+   "code": "05.0063",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "饮水处设置",
+   "en": "setting of drinking water",
+   "code": "9.5.2.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校生活设施卫生"
+  },
+  {
+   "cn": "另起炉灶",
+   "en": "set up a separate kitchen",
+   "code": "03.0500",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "水源设置",
+   "en": "setting of drinking water source",
+   "code": "9.5.2.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校生活设施卫生"
+  },
+  {
+   "cn": "托幼机构健康教育",
+   "en": "health education in childcare setting",
+   "code": "9.1.3.3",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇幼健康教育与健康促进_妇幼健康教育"
+  },
+  {
+   "cn": "餐[饮]具消毒",
+   "en": "disinfection of dinner and drinking set",
+   "code": "14.11.1.7",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队流行病学_部队特定场合消杀灭"
+  },
+  {
+   "cn": "部队特定场合消杀灭",
+   "en": "disinfection, disinsection and deratization in specific military settings",
+   "code": "14.11",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队流行病学_部队特定场合消杀灭"
+  },
+  {
+   "cn": "讲党性重品行作表率",
+   "en": "observing the Party spirit and ethical standards and setting good examples for the public",
+   "code": "03.0746",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "生理性别",
+   "en": "sex",
+   "code": "3.2.1.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别概念"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

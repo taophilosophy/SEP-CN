@@ -1,0 +1,54 @@
+{
+ "key": "soteriology",
+ "term": "soteriology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T17:13:38+00:00",
+ "status": "ok",
+ "note": "variant=soteriology; 审定公布名词库=4; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "材料学",
+   "en": "materiology",
+   "code": "08.0014",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学"
+  },
+  {
+   "cn": "体视学",
+   "en": "stereology",
+   "code": "01.108",
+   "standard": "组织学与胚胎学名词",
+   "subject": "组织学与胚胎学_组织学_绪论"
+  },
+  {
+   "cn": "材料体视学",
+   "en": "stereology in materials science",
+   "code": "07.0425",
+   "standard": "冶金学名词",
+   "subject": "冶金学_金属学_检查及分析"
+  },
+  {
+   "cn": "材料体视学",
+   "en": "stereology in materials science",
+   "code": "01.0693",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_材料科学技术基础_材料科学基础_材料的表征与测试"
+  },
+  {
+   "cn": "体视学",
+   "en": "stereology",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "材料体视学",
+   "en": "stereology in materials science",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

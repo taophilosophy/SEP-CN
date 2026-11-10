@@ -1,0 +1,187 @@
+{
+ "key": "speculative",
+ "term": "speculative",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T17:24:09+00:00",
+ "status": "ok",
+ "note": "variant=speculative; 审定公布名词库=6; 海峡两岸名词对照库=13; 其他来源数据库=1; 预公布名词数据库=6; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "投机",
+   "en": "speculation",
+   "code": "07.0039",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_金融工程_基本概念"
+  },
+  {
+   "cn": "投机性需求",
+   "en": "speculative demand",
+   "code": "04.138",
+   "standard": "经济学名词",
+   "subject": "经济学_宏观经济学"
+  },
+  {
+   "cn": "非法投机行为",
+   "en": "illegal speculation",
+   "code": "06.396",
+   "standard": "电力名词",
+   "subject": "电力_调度与通信、电力市场"
+  },
+  {
+   "cn": "思辨教育哲学",
+   "en": "speculative philosophy of education",
+   "code": "01.077",
+   "standard": "教育学名词",
+   "subject": "教育学_教育基本理论"
+  },
+  {
+   "cn": "镜铁矿",
+   "en": "specularite",
+   "code": "03.0163",
+   "standard": "冶金学名词",
+   "subject": "冶金学_选矿_一般术语"
+  },
+  {
+   "cn": "镜铁矿",
+   "en": "specularite;specular iron ore",
+   "code": "03.04.010",
+   "standard": "地质学名词",
+   "subject": "地质学_矿物学_氧化物矿物和氢氧化物矿物"
+  },
+  {
+   "cn": "投机进口",
+   "en": "speculative importation",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "投机买进，看涨买进",
+   "en": "speculative buying",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "投机收益",
+   "en": "speculative gain",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "投机损失",
+   "en": "speculative loss",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "投机投资",
+   "en": "speculative investment",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "投机性泡沫",
+   "en": "speculative bubble",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "货币投机",
+   "en": "currency speculation",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "投机市场",
+   "en": "speculation market",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "投机套利",
+   "en": "speculation arbitrage",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "外汇投机",
+   "en": "exchange speculation",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "外汇投机",
+   "en": "foreign exchange speculation",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "证券投机",
+   "en": "speculation in security",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "投机",
+   "en": "speculation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "投机",
+   "en": "speculate",
+   "code": "02.0249",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "思辨理性",
+   "en": "speculative reason",
+   "code": "01.0099",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "思辨逻辑",
+   "en": "speculative logic",
+   "code": "01.0101",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "思辩哲学",
+   "en": "speculative philosophy",
+   "code": "01.0102",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "思辨神学",
+   "en": "speculative theology",
+   "code": "01.0103",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "思辨唯心主义",
+   "en": "speculative idealism",
+   "code": "01.0104",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

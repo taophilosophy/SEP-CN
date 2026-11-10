@@ -1,0 +1,264 @@
+{
+ "key": "specimen",
+ "term": "specimen",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T17:24:09+00:00",
+ "status": "ok",
+ "note": "variant=specimen; 审定公布名词库=567; 海峡两岸名词对照库=439; 其他来源数据库=4; 预公布名词数据库=8; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "标本",
+   "en": "specimen ",
+   "code": "4.0653",
+   "standard": "草学名词",
+   "subject": "草学_种子和育种_牧草种质资源"
+  },
+  {
+   "cn": "标本",
+   "en": "specimen",
+   "code": "2.0113",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_动物分类学"
+  },
+  {
+   "cn": "试件",
+   "en": "specimen",
+   "code": "04.0003",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械强度_一般名词"
+  },
+  {
+   "cn": "标本",
+   "en": "specimen",
+   "code": "03.0742",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学设备与操作_非显像核医学技术_核医学体外分析"
+  },
+  {
+   "cn": "试样",
+   "en": "specimen",
+   "code": "04.095",
+   "standard": "计量学名词",
+   "subject": "计量学_力值、硬度_材料试验机"
+  },
+  {
+   "cn": "标本",
+   "en": "specimen",
+   "code": "09.046",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物学技术"
+  },
+  {
+   "cn": "试件",
+   "en": "specimen",
+   "code": "03.063",
+   "standard": "土木工程名词",
+   "subject": "土木工程_土力学与地基基础_土的勘探试验"
+  },
+  {
+   "cn": "试件",
+   "en": "specimen",
+   "code": "03.063",
+   "standard": "土木工程名词",
+   "subject": "土木工程_土木工程检测_土木工程检测室内试验"
+  },
+  {
+   "cn": "试样",
+   "en": "specimen",
+   "code": "28.021",
+   "standard": "电气工程名词",
+   "subject": "电气工程_产品品质"
+  },
+  {
+   "cn": "样品",
+   "en": "specimen",
+   "code": "18.018",
+   "standard": "电子学名词",
+   "subject": "电子学_可靠性和质量控制"
+  },
+  {
+   "cn": "样品",
+   "en": "sample,specimen",
+   "code": "09.036",
+   "standard": "运动医学名词",
+   "subject": "运动医学_反兴奋剂_《世界反兴奋剂条例》"
+  },
+  {
+   "cn": "样品",
+   "en": "sample,specimen",
+   "code": "01.0302",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "标本",
+   "en": "specimen",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "样品",
+   "en": "specimen",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "标本",
+   "en": "specimen",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "标本",
+   "en": "specimen",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "试件，试样",
+   "en": "specimen\",\"test specimen",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "模式标本",
+   "en": "type specimen",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "凭证标本",
+   "en": "voucher specimen",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "模式标本",
+   "en": "type specimen",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "模式标本",
+   "en": "type specimen",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "汉字样本",
+   "en": "Hanzi specimen\",\"Chinese character specimen",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "样品池组件",
+   "en": "specimen-cell assembly",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "汇票样本",
+   "en": "specimen of draft",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "异种",
+   "en": "Species",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "伞护种",
+   "en": "umbrella species",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "物种库",
+   "en": "species pool",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "活性氧类",
+   "en": "Reactive oxygen species",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "尿液标本",
+   "en": "urinary specimen",
+   "code": "3.6.20.13",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物中毒卫生学处置"
+  },
+  {
+   "cn": "头发标本",
+   "en": "hair specimen",
+   "code": "3.6.20.9",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物中毒卫生学处置"
+  },
+  {
+   "cn": "呕吐物标本",
+   "en": "vomit specimen",
+   "code": "3.6.20.7",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物中毒卫生学处置"
+  },
+  {
+   "cn": "血液标本",
+   "en": "blood specimen",
+   "code": "3.6.20.6",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物中毒卫生学处置"
+  },
+  {
+   "cn": "粪便样本",
+   "en": "fecal specimen",
+   "code": "3.6.20.10",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物中毒卫生学处置"
+  },
+  {
+   "cn": "胃内容物标本",
+   "en": "specimen of gastric content",
+   "code": "3.6.20.8",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物中毒卫生学处置"
+  },
+  {
+   "cn": "食品加工人员生物标本",
+   "en": "biological specimen of food processing staff",
+   "code": "3.6.20.5",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物中毒卫生学处置"
+  },
+  {
+   "cn": "活性氧",
+   "en": "reactive oxygen species，ROS",
+   "code": "4.1.1.1.25",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

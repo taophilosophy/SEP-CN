@@ -1,0 +1,75 @@
+{
+ "key": "sociolinguistics",
+ "term": "sociolinguistics",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T17:01:37+00:00",
+ "status": "ok",
+ "note": "variant=sociolinguistics; 审定公布名词库=5; 海峡两岸名词对照库=1; 其他来源数据库=1; 预公布名词数据库=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "社会语言学",
+   "en": "sociolinguistics",
+   "code": "12.001",
+   "standard": "语言学名词",
+   "subject": "语言学_社会语言学_总论"
+  },
+  {
+   "cn": "互动社会语言学",
+   "en": "interactional sociolinguistics",
+   "code": "12.002",
+   "standard": "语言学名词",
+   "subject": "语言学_社会语言学_总论"
+  },
+  {
+   "cn": "宏观社会语言学",
+   "en": "acro sociolinguistics",
+   "code": "12.003",
+   "standard": "语言学名词",
+   "subject": "语言学_社会语言学_总论"
+  },
+  {
+   "cn": "微观社会语言学",
+   "en": "icro sociolinguistics",
+   "code": "12.004",
+   "standard": "语言学名词",
+   "subject": "语言学_社会语言学_总论"
+  },
+  {
+   "cn": "社会语言标记",
+   "en": "sociolinguistic marker",
+   "code": "12.023",
+   "standard": "语言学名词",
+   "subject": "语言学_社会语言学_语言变异"
+  },
+  {
+   "cn": "社会语言学",
+   "en": "sociolinguistics",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "社会语言学",
+   "en": "sociolinguistics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会语言学",
+   "en": "sociolinguistics",
+   "code": "5.0011",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "社会语言标记",
+   "en": "sociolinguistic marker",
+   "code": "5.0086",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_语言状况与规划"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

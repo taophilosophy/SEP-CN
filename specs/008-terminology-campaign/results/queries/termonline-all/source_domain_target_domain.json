@@ -1,0 +1,432 @@
+{
+ "key": "source domain / target domain",
+ "term": "source domain / target domain",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T17:13:38+00:00",
+ "status": "ok",
+ "note": "variant=source domain; 审定公布名词库=4250; 海峡两岸名词对照库=900; 其他来源数据库=208; 预公布名词数据库=258; variant=target domain; 审定公布名词库=2424; 海峡两岸名词对照库=879; 其他来源数据库=181; 预公布名词数据库=270; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "域",
+   "en": "domain",
+   "code": "1.0162",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_总论"
+  },
+  {
+   "cn": "结构域",
+   "en": "domain",
+   "code": "07.438",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_饲料与营养_营养生理与生化_营养生化"
+  },
+  {
+   "cn": "畴",
+   "en": "domain",
+   "code": "08.1980",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_固体及其性质"
+  },
+  {
+   "cn": "[结构]域",
+   "en": "domain",
+   "code": "02.034",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_分子与结构生物学_蛋白质结构"
+  },
+  {
+   "cn": "论域",
+   "en": "domain",
+   "code": "02.0890",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_程序理论"
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "code": "09.0873",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_网络管理与安全"
+  },
+  {
+   "cn": "场域",
+   "en": "domain",
+   "code": "12.099",
+   "standard": "语言学名词",
+   "subject": "语言学_社会语言学_言语交际"
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "code": "02.016",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞化学"
+  },
+  {
+   "cn": "[结构]域",
+   "en": "domain",
+   "code": "1.085",
+   "standard": "免疫学名词",
+   "subject": "免疫学_概论_免疫学相关名词"
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "code": "02.096",
+   "standard": "通信科学技术名词",
+   "subject": "通信科学技术_通信网络"
+  },
+  {
+   "cn": "磁畴",
+   "en": "domain",
+   "code": "10.071",
+   "standard": "机械工程名词 第三分册",
+   "subject": "机械工程_仪器仪表_仪器仪表材料_磁性材料(仪器仪表)"
+  },
+  {
+   "cn": "定义域",
+   "en": "domain",
+   "code": "01.0101",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "领域",
+   "en": "domain",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "[结构]域",
+   "en": "domain",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "免疫球蛋白结构域",
+   "en": "immunoglobulin domain， Ig domain",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "源",
+   "en": "source",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "源",
+   "en": "source",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "Google Source社区",
+   "en": "Google Source community",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "单臂路由器",
+   "en": "routing domain",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "域名",
+   "en": "Domain Name",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "PH结构域",
+   "en": "PH domain",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "PDZ结构域",
+   "en": "PDZ domain",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "领域工程师",
+   "en": "domain engineer",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "用户域",
+   "en": "user domain",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "LIM结构域",
+   "en": "LIM domain",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "SH3结构域",
+   "en": "SH3 domain",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "公有领域",
+   "en": "public domain",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "SH2结构域",
+   "en": "SrcHomology 2 domain",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "烃源岩",
+   "en": "source rock",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "密封源",
+   "en": "sealed source",
+   "code": "6.2.2.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计"
+  },
+  {
+   "cn": "非密封源",
+   "en": "unsealed source",
+   "code": "6.2.2.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计"
+  },
+  {
+   "cn": "源组织",
+   "en": "source tissue",
+   "code": "6.3.2.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢"
+  },
+  {
+   "cn": "源器官",
+   "en": "source organ",
+   "code": "6.3.2.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢"
+  },
+  {
+   "cn": "贮源器",
+   "en": "source carrier",
+   "code": "6.4.4.55",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_放射治疗"
+  },
+  {
+   "cn": "施源器",
+   "en": "source applicator",
+   "code": "6.4.4.56",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_放射治疗"
+  },
+  {
+   "cn": "离子源",
+   "en": "ion source",
+   "code": "6.5.1.16",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_工业应用的放射防护_加速器应用"
+  },
+  {
+   "cn": "源材料",
+   "en": "source material",
+   "code": "6.6.7.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_核工业的放射防护"
+  },
+  {
+   "cn": "危险源",
+   "en": "dangerous source",
+   "code": "7.1.5.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源"
+  },
+  {
+   "cn": "失控源",
+   "en": "orphan source",
+   "code": "7.1.5.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源"
+  },
+  {
+   "cn": "控制源",
+   "en": "control source",
+   "code": "8.2.8",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生监管_工业及其他应用监管"
+  },
+  {
+   "cn": "换源器",
+   "en": "source changer",
+   "code": "8.2.9",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生监管_工业及其他应用监管"
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "code": "1.0162",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_总论"
+  },
+  {
+   "cn": "结构域",
+   "en": "domain",
+   "code": "07.438",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_饲料与营养_营养生理与生化_营养生化"
+  },
+  {
+   "cn": "畴",
+   "en": "domain",
+   "code": "08.1980",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_固体及其性质"
+  },
+  {
+   "cn": "[结构]域",
+   "en": "domain",
+   "code": "02.034",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_分子与结构生物学_蛋白质结构"
+  },
+  {
+   "cn": "论域",
+   "en": "domain",
+   "code": "02.0890",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_程序理论"
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "code": "09.0873",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_网络管理与安全"
+  },
+  {
+   "cn": "场域",
+   "en": "domain",
+   "code": "12.099",
+   "standard": "语言学名词",
+   "subject": "语言学_社会语言学_言语交际"
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "code": "02.016",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞化学"
+  },
+  {
+   "cn": "[结构]域",
+   "en": "domain",
+   "code": "1.085",
+   "standard": "免疫学名词",
+   "subject": "免疫学_概论_免疫学相关名词"
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "code": "02.096",
+   "standard": "通信科学技术名词",
+   "subject": "通信科学技术_通信网络"
+  },
+  {
+   "cn": "磁畴",
+   "en": "domain",
+   "code": "10.071",
+   "standard": "机械工程名词 第三分册",
+   "subject": "机械工程_仪器仪表_仪器仪表材料_磁性材料(仪器仪表)"
+  },
+  {
+   "cn": "定义域",
+   "en": "domain",
+   "code": "01.0101",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

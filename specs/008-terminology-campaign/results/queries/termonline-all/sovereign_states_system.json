@@ -1,0 +1,348 @@
+{
+ "key": "sovereign states system",
+ "term": "sovereign states system",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T17:16:38+00:00",
+ "status": "ok",
+ "note": "variant=sovereign states system; 审定公布名词库=10000; 海峡两岸名词对照库=2882; 其他来源数据库=630; 预公布名词数据库=484; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "主权国家",
+   "en": "sovereign state",
+   "code": "01.0725",
+   "standard": "世界历史名词",
+   "subject": "世界历史_综合_世界政治、世界经济"
+  },
+  {
+   "cn": "君药",
+   "en": "sovereign drug",
+   "code": "19.452",
+   "standard": "兽医学名词",
+   "subject": "兽医学_中兽医学"
+  },
+  {
+   "cn": "主权风险",
+   "en": "sovereign risk",
+   "code": "07.0396",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_金融工程_技术"
+  },
+  {
+   "cn": "君火",
+   "en": "sovereign fire",
+   "code": "03.100",
+   "standard": "中医药学名词",
+   "subject": "中医药学_中医基础理论_脏象"
+  },
+  {
+   "cn": "君药",
+   "en": "sovereign drug",
+   "code": "07.013",
+   "standard": "中医药学名词",
+   "subject": "中医药学_方剂学_方剂学总论"
+  },
+  {
+   "cn": "系统状态",
+   "en": "system state",
+   "code": "03.0635",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_系统工程"
+  },
+  {
+   "cn": "系统状态",
+   "en": "system state",
+   "code": "02.204",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_控制理论_现代控制论"
+  },
+  {
+   "cn": "国家所有制",
+   "en": "state ownership system",
+   "code": "05.053",
+   "standard": "经济学名词",
+   "subject": "经济学_制度经济学"
+  },
+  {
+   "cn": "系统状态变量",
+   "en": "system state variables",
+   "code": "04.089",
+   "standard": "电力名词",
+   "subject": "电力_电力系统"
+  },
+  {
+   "cn": "双态系统",
+   "en": "two-state system",
+   "code": "06.0485",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "稳态系统",
+   "en": "steady state system",
+   "code": "03.0798",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学设备与操作_非显像核医学技术_实验核医学示踪技术"
+  },
+  {
+   "cn": "有限状态系统",
+   "en": "finite state system",
+   "code": "02.0495",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_形式语言与自动机"
+  },
+  {
+   "cn": "国家贷款",
+   "en": "sovereign lending",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "主权豁免",
+   "en": "sovereign immunity",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "主权[财富]基金",
+   "en": "sovereign-wealth fund",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "状态记录系统",
+   "en": "states recording system",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "有穷状态系统",
+   "en": "finite state system",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "状态",
+   "en": "state",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "国家",
+   "en": "state",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "状态",
+   "en": "state",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "对外贸易国家垄断制，对外贸易国家专营制",
+   "en": "foreign trade state monopoly system",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "零稳态误差系统",
+   "en": "zero steady-state error system",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "稳态，定常态",
+   "en": "steady-state\",\"stable state",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "基[础]态",
+   "en": "ground state\",\"base state",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "主权国家",
+   "en": "Sovereign State",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "主权国家",
+   "en": "sovereign state",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "主权财富基金",
+   "en": "Sovereign wealth fund",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "超主权数字货币",
+   "en": "super-sovereign digital currency",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "静息态",
+   "en": "resting state",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "束缚态",
+   "en": "bound state",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "单重态",
+   "en": "Singlet state",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "超临界状态",
+   "en": "supercritical state",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子态",
+   "en": "quantum state",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "国家赔偿",
+   "en": "state compensation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "标准状态",
+   "en": "standard state",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "三态逻辑",
+   "en": "tri-state logicThree-state logic",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "国家制度",
+   "en": "state system",
+   "code": "03.0083",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "国家",
+   "en": "state",
+   "code": "1.0277",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "新民主主义的国体",
+   "en": "state system of new democracy",
+   "code": "03.0334",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "国家宏观调控体系",
+   "en": "macroeconomic regulatory system of the state",
+   "code": "03.0657",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "静态",
+   "en": "static state",
+   "code": "1.8.11",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒学_其他"
+  },
+  {
+   "cn": "标定值",
+   "en": "stated value",
+   "code": "3.1.4.4.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "动态",
+   "en": "dynamic state",
+   "code": "1.8.9",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒学_其他"
+  },
+  {
+   "cn": "空态",
+   "en": "empty state",
+   "code": "1.8.10",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒学_其他"
+  },
+  {
+   "cn": "状态标志",
+   "en": "state marker",
+   "code": "5.1.7.3",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_企业监管"
+  },
+  {
+   "cn": "通报国",
+   "en": "notifying State",
+   "code": "7.2.2.23",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应"
+  },
+  {
+   "cn": "国家女权主义",
+   "en": "state feminism",
+   "code": "3.2.2.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_女性主义"
+  },
+  {
+   "cn": "国家干预",
+   "en": "state intervention",
+   "code": "3.5.3.61",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_经济社会学_新经济社会学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,348 @@
+{
+ "key": "spinor",
+ "term": "spinor",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T17:27:09+00:00",
+ "status": "ok",
+ "note": "variant=spinor; 审定公布名词库=1177; 海峡两岸名词对照库=343; 其他来源数据库=56; 预公布名词数据库=14; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "旋量",
+   "en": "spinor",
+   "code": "06.0657",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "旋量变换",
+   "en": "spinor transformation",
+   "code": "06.0092",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_相对论"
+  },
+  {
+   "cn": "旋量场",
+   "en": "spinor field",
+   "code": "06.0091",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_相对论"
+  },
+  {
+   "cn": "旋量范",
+   "en": "spinor norm",
+   "code": "04.0817",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_型"
+  },
+  {
+   "cn": "旋量群",
+   "en": "spinor group",
+   "code": "04.1874",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_群论"
+  },
+  {
+   "cn": "狄拉克旋量",
+   "en": "Dirac spinor",
+   "code": "06.0687",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "旋量波函数",
+   "en": "spinor wave function",
+   "code": "06.0658",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "二分量旋量",
+   "en": "two-component spinor",
+   "code": "09.1524",
+   "standard": "物理学名词",
+   "subject": "物理学_原子核物理学、粒子物理学_粒子物理学"
+  },
+  {
+   "cn": "浑金旋子彩画",
+   "en": "gold spinor xuanzi painting",
+   "code": "11.0054",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林艺术_彩画艺术"
+  },
+  {
+   "cn": "格的旋量种",
+   "en": "spinor genus of a lattice",
+   "code": "04.0830",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_型"
+  },
+  {
+   "cn": "自旋",
+   "en": "spin",
+   "code": "05.081",
+   "standard": "医学影像技术学名词",
+   "subject": "医学影像技术学_磁共振成像技术_磁共振成像原理"
+  },
+  {
+   "cn": "自旋",
+   "en": "spin",
+   "code": "06.0399",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "自旋",
+   "en": "spin",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "自旋-自旋弛豫",
+   "en": "spin-spin relaxation",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "自旋-自旋耦合",
+   "en": "spin-spin coupling",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "自旋-自旋裂分",
+   "en": "spin-spin splitting",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "纺丝",
+   "en": "spinning",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "抽丝",
+   "en": "spinning",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "旋压",
+   "en": "spinning",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "纺丝",
+   "en": "spinning",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "甩胶",
+   "en": "spinning",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "自旋-自旋弛豫时间",
+   "en": "spin-spin relaxation time",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "纺丝罐",
+   "en": "spinning can\",\"spinning pot",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "喷丝头",
+   "en": "spinning jet\",\"spinning head\",\"spinning die\",\"spinneret",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "场",
+   "en": "Spinor field",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "狄拉克旋量",
+   "en": "Dirac spinor",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "自旋",
+   "en": "Spin",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "旋转",
+   "en": "spin",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "旋转",
+   "en": "spin",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跳水名词"
+  },
+  {
+   "cn": "旋转",
+   "en": "spin",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "旋转",
+   "en": "spin",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "旋转",
+   "en": "spin",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "旋转",
+   "en": "spin",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_花样游泳名词"
+  },
+  {
+   "cn": "旋转",
+   "en": "spin",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_乒乓球名词"
+  },
+  {
+   "cn": "旋转",
+   "en": "spin\",\"swerve",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "握单臂半过桥摔",
+   "en": "spin\",\"twist",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "自旋",
+   "en": "spin",
+   "code": "3.1.45",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_核物理基本概念"
+  },
+  {
+   "cn": "脊柱畸形",
+   "en": "spine malformation",
+   "code": "4.14.6.1.8",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务"
+  },
+  {
+   "cn": "微小缺陷",
+   "en": "minor anomaly",
+   "code": "2.9.1.3.1.6",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价"
+  },
+  {
+   "cn": "脊柱弯曲异常",
+   "en": "spinal curvature abnormality",
+   "code": "3.2.7",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测"
+  },
+  {
+   "cn": "长官司",
+   "en": "Senior Officer Commission",
+   "code": "3.0207",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族政治"
+  },
+  {
+   "cn": "吻合椎综合征",
+   "en": "kissing spine syndrome",
+   "code": "2.18.8.33",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征"
+  },
+  {
+   "cn": "老年活动中心",
+   "en": "senior citizen activity center",
+   "code": "3.15.7.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_老年和老龄化研究_老年社会服务"
+  },
+  {
+   "cn": "脊柱生理性弯曲",
+   "en": "natural curve of spine",
+   "code": "4.2.3.3",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_儿童保健_儿童生长发育"
+  },
+  {
+   "cn": "放射性脊髓损伤",
+   "en": "radiation induced spinal cord injury",
+   "code": "4.2.4.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射性疾病"
+  },
+  {
+   "cn": "脊髓疾病及损伤",
+   "en": "spinal cord disease and injury",
+   "code": "4.14.6.1.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务"
+  },
+  {
+   "cn": "汉藏语系",
+   "en": "Sino-Tibetan family",
+   "code": "5.0207",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族语言"
+  },
+  {
+   "cn": "《中俄伊犁条约》",
+   "en": "Sino Russian lli Treaty",
+   "code": "3.0613",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_新疆研究"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
