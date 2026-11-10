@@ -1,0 +1,348 @@
+{
+ "key": "venerabilis inceptor",
+ "term": "Venerabilis Inceptor",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T21:18:34+00:00",
+ "status": "ok",
+ "note": "variant=Venerabilis Inceptor; 审定公布名词库=789; 海峡两岸名词对照库=326; 其他来源数据库=24; 预公布名词数据库=27; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "起晕电压试验",
+   "en": "corona inception test",
+   "code": "11.027",
+   "standard": "电力名词",
+   "subject": "电力_汽轮发电机"
+  },
+  {
+   "cn": "初生空化系数",
+   "en": "cavitation inception coefficient",
+   "code": "16.106",
+   "standard": "电力名词",
+   "subject": "电力_水电站机电设备"
+  },
+  {
+   "cn": "放电起始试验",
+   "en": "discharge inception test",
+   "code": "12.059",
+   "standard": "电气工程名词",
+   "subject": "电气工程_绝缘配合和高电压试验技术"
+  },
+  {
+   "cn": "局部放电起始电压",
+   "en": "partial discharge inception voltage",
+   "code": "20.155",
+   "standard": "电力名词",
+   "subject": "电力_高电压技术"
+  },
+  {
+   "cn": "局部放电起始电压",
+   "en": "partial discharge inception voltage",
+   "code": "12.069",
+   "standard": "电气工程名词",
+   "subject": "电气工程_绝缘配合和高电压试验技术"
+  },
+  {
+   "cn": "局部放电起始试验",
+   "en": "partial discharge inception test",
+   "code": "12.060",
+   "standard": "电气工程名词",
+   "subject": "电气工程_绝缘配合和高电压试验技术"
+  },
+  {
+   "cn": "受体",
+   "en": "acceptor,receptor",
+   "code": "01.0185",
+   "standard": "化学名词",
+   "subject": "化学_无机化学_元素及无机化学"
+  },
+  {
+   "cn": "受体",
+   "en": "receptor,acceptor 　",
+   "code": "01.0185",
+   "standard": "化学名词",
+   "subject": "化学_有机化学_生物有机化学"
+  },
+  {
+   "cn": "感受器",
+   "en": "receptor,sensory receptor",
+   "code": "03.203",
+   "standard": "生理学名词",
+   "subject": "生理学_神经生理学"
+  },
+  {
+   "cn": "受体",
+   "en": "receptor",
+   "code": "01.065",
+   "standard": "内分泌代谢病学名词",
+   "subject": "总论_激素_激素分泌方式与作用机制"
+  },
+  {
+   "cn": "接受体",
+   "en": "acceptor",
+   "code": "1.0097",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_总论"
+  },
+  {
+   "cn": "受体",
+   "en": "receptor",
+   "code": "1.0098",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_总论"
+  },
+  {
+   "cn": "受体",
+   "en": "receptor\",\"acceptor",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "受体",
+   "en": "acceptor\",\"receptor",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "感受器",
+   "en": "receptor",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "受体",
+   "en": "receptor",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "受体",
+   "en": "receptor",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "原始种型",
+   "en": "ancestor",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "接纳体",
+   "en": "acceptor",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "受体",
+   "en": "receptor",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "受体",
+   "en": "receptor",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "受体",
+   "en": "receptor",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "受体",
+   "en": "receptor",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "接受器",
+   "en": "acceptor",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "趋化因子受体",
+   "en": "Chemokine receptor",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "孕酮受体",
+   "en": "progesterone receptor",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "类视黄醇",
+   "en": "Retinoid receptor",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "代谢型受体",
+   "en": "Metabotropic receptor",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "甘露糖受体",
+   "en": "Mannose receptor",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "维生素D",
+   "en": "calcitriol receptor",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "孤儿受体",
+   "en": "orphan receptor",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "雄激素受体",
+   "en": "androgen receptor",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "社交性投资者",
+   "en": "social investor",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "促甲状腺激素受体",
+   "en": "thyrotropin receptor",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "乙酰胆碱受体",
+   "en": "acetylcholine receptor",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "受体拮抗剂",
+   "en": "receptor antagonist",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "影像接收器",
+   "en": "image receptor",
+   "code": "6.4.2.40",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  },
+  {
+   "cn": "祖先崇拜",
+   "en": "ancestor worship",
+   "code": "4.2.5.24",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_亲属制度"
+  },
+  {
+   "cn": "清道夫受体",
+   "en": "scavenger receptor",
+   "code": "1.3.5.37",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_炎症介质"
+  },
+  {
+   "cn": "器官接受者",
+   "en": "organ receptor",
+   "code": "9.003",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_器官移植伦理"
+  },
+  {
+   "cn": "抗原识别受体",
+   "en": "antigen recognition receptor",
+   "code": "1.3.4.8",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_抗原与抗体"
+  },
+  {
+   "cn": "模式识别受体",
+   "en": "pattern recognition receptor",
+   "code": "1.3.5.38",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_炎症介质"
+  },
+  {
+   "cn": "模式识别受体",
+   "en": "pattern recognition receptor",
+   "code": "3.4.15",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物过敏"
+  },
+  {
+   "cn": "受体选择准则",
+   "en": "receptor selection criteria",
+   "code": "9.049",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_器官移植伦理"
+  },
+  {
+   "cn": "B细胞受体",
+   "en": "B cell receptor, BCR",
+   "code": "1.3.3.2.9",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_免疫细胞"
+  },
+  {
+   "cn": "T细胞受体",
+   "en": "T cell receptor, TCR",
+   "code": "1.3.3.2.16",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_免疫细胞"
+  },
+  {
+   "cn": "天然细胞毒性受体",
+   "en": "natural cytotoxicity receptor,NCR",
+   "code": "1.3.5.36",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_炎症介质"
+  },
+  {
+   "cn": "焦点-影像接收器距离",
+   "en": "focus-image receptor distance",
+   "code": "6.4.2.34",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
