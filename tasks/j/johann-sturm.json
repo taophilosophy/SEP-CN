@@ -2,7 +2,7 @@
   "slug": "johann-sturm",
   "kind": "retranslate",
   "zh_doc": "j/johann-sturm.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "?",
       "at": "2026-11-06T15:13:00Z",
       "evidence": "四检全绿：check_academic --strict OK；check_style --strict issues=0；check_prose 仅余 1 条术语链豁免；check_math formulas=0/missing=[]/unbalanced=[]；lq check 守恒门 76 段通过"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "J2-main-20261110",
+      "at": "2026-11-10T06:44:22Z",
+      "evidence": "独立复审：对照 yuanwen/j/johann-sturm.md 全文逐节通读（生平/著作/思想来源/莱布尼茨与沃尔夫接受/三步科学方法/偶因论三大论点）。结构对账：marker 70:70、defs 47:47、块引 7:7、节 17:17（源 18 含 Notes 双标题合为『## 脚注』一节）；lq 守恒 76 段 HARD=0。修复三批缺陷：①44 处斜体标记破坏（『（*X **）』『（** X*）』型，涉 physica generalis/specialis/specialissima、collegia、CPMS 引文、DSE 三处定义引文、PE 两处上帝之能引文、a priori/a posteriori）逐处还原为（*X*）；②2 处遗留拉丁人名（Aristotle→亚里士多德、Malebranche→马勒伯朗士 3 见）；③措辞订正 2 处（『后卒于施图尔姆』→『后施图尔姆而卒』；『乃以上帝自由立定』→『乃因上帝（自由地）立定』）。段 42 长度比 0.13 判读为拉丁人名照录所致，非漏译。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "J2-main-20261110",
+      "at": "2026-11-10T06:44:22Z",
+      "evidence": "登记册补课：ren-ming-biao.md 补登 36 行（前苏格拉底与古典作者、教父 3、希腊注家 7、阿拉伯注家、文艺复兴与经院学者 20、自然哲学与显微镜学派 9、居里克/肖特/马略特/舍尔哈默等），全部先登后用；正文拉丁人名全部汉化并首现括注原文（§1.1 八段、§1.2 沃尔夫序、§2 实验典范、§3 苏亚雷斯），人名册经 registry_azsort 归位（数据行守恒、重复空字母节 11 处折叠）。术语保持册内定形：偶因论/折衷主义/被动形式/样态/要求因/假设之能/待释者/解释项。prose 告警 1→0（『历史的知识/哲学的知识/数学的知识』改『历史之知/哲学之知/数学之知』），余 0 条。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "J2-main-20261110",
+      "at": "2026-11-10T06:48:55Z",
+      "evidence": "终稿验收：check_style --docs j/johann-sturm.md --strict issues=[]；check_academic --strict OK（0 硬错误）；check_math formulas=0 missing=[] unbalanced=[]；check_terms 无硬错误（新增 36 人名行无键冲突/无同键异译）；check_prose 0 告警；尾节齐备（## 脚注→## References（引用注释）+ 六个书目子节照录→## 学术工具→## 其他网络资源→## 相关词条），学术工具四行制；正文残留扫描无裸英文长句（拉丁串仅存括注原文与书目照录区）。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "J2-main-20261110",
+      "at": "2026-11-10T06:48:55Z",
+      "evidence": "终审签字：独立复审六道全过，账本 76 段双版齐、守恒 HARD=0；登记册补登 36 行随批提交；四检全绿。"
     }
   ],
   "blockers": [],

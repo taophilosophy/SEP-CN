@@ -1,4 +1,4 @@
-# 宗教认识论 epistemology of (Peter Forrest)
+# 宗教认识论 The Epistemology of Religion (Peter Forrest)
 
 *首次发表于 1997 年 4 月 23 日；2025 年 10 月 26 日实质修订。*
 

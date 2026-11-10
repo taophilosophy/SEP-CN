@@ -2,7 +2,7 @@
   "slug": "digital-art",
   "kind": "retranslate",
   "zh_doc": "d/digital-art.md",
-  "state": "s1_checked",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -24,6 +24,20 @@
       "actor": "D-main-20261110",
       "at": "2026-11-10T06:08:10Z",
       "evidence": "对照核销：marker 60:60 顺序全等、defs 59:59 键集全等、节数 16:16、汉字 17664、粗体缩写 0:0；H1「数字艺术哲学 digital art, philosophy of」与 SUMMARY 第 698 行定名一致；相关词条 5 条（现代计算机发展史/创造力/电影哲学/古德曼的美学/艺术本体论史）对照 SUMMARY 无误"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "DR-main-20261110",
+      "at": "2026-11-10T06:28:32Z",
+      "evidence": "prose 实修 39 条归零（de-chain 20、long-sentence 11、weak-verb 7、passive-bei 1），逐句改写后复跑 check_prose --strict 告警 0；引文块无告警，无需 ADR-0020 豁免留痕"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "DR-main-20261110",
+      "at": "2026-11-10T06:55:28Z",
+      "evidence": "体例三校：节标题编号补点号 5 处（账本内改后重合成）、CJK 斜体去标记 1 处（*就地*→无标记）、英译残留 2 处（singular→单例、ensuing→随后）；check_style/check_prose/check_academic --strict 与 check_math 四项 0 告警"
     }
   ],
   "blockers": [],

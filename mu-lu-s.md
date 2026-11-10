@@ -1880,7 +1880,7 @@ outline: [1, 6]
 * [无神论和不可知论 atheism and agnosticism (Paul Draper)](a/atheism-agnosticism.md)
 * [信仰主义 fideism (Richard Amesbury)](f/fideism.md)
 * [宗教的定义 concept of (Kevin Schilbrack)](c/concept-religion.md)
-* [宗教认识论 epistemology of (Peter Forrest)](r/religion-epistemology.md)
+* [宗教认识论 The Epistemology of Religion (Peter Forrest)](r/religion-epistemology.md)
 * [理性与宗教承诺 Reason and Religious Commitment (J. L. Schellenberg)](r/religious-commitment-reason.md)
 * [西方哲学中的宗教与道德 and morality (John Hare and Jennifer Herdt)](r/religion-morality.md)
 * [比较宗教哲学 comparative philosophy of (Mikel Burley)](r/religion-comparative.md)
