@@ -541,6 +541,11 @@ def main(argv=None):
     for label, term, rt, gt in lagging:
         print('词汇表滞后（告警）: [%s] %s | 登记侧: %s | 词汇表: %s'
               % (label, term, '、'.join(rt), '、'.join(gt)))
+    # 词汇表孤儿键（告警，不计硬错误）：词汇表有、两登记册皆无——违反「先登记后使用」，
+    # 但词汇表按体例收纳书名/作品与常用异形，故不阻断；数量与清单见 specs/008 报告。
+    orphans = sorted({k for k in glos if k not in reg1 and k not in reg2})
+    if orphans:
+        print('词汇表孤儿键（告警）：%d 条（两登记册皆无；书名/作品与异形待逐条裁定）' % len(orphans))
     for e in all_self_errors:
         print('自洽违例: %s' % e)
     for w in warns:
