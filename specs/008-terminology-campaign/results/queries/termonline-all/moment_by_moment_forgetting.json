@@ -1,0 +1,348 @@
+{
+ "key": "moment-by-moment forgetting",
+ "term": "moment-by-moment forgetting",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T02:02:40+00:00",
+ "status": "ok",
+ "note": "variant=moment-by-moment forgetting; 审定公布名词库=2726; 海峡两岸名词对照库=636; 其他来源数据库=180; 预公布名词数据库=168; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "力矩",
+   "en": "moment",
+   "code": "01.0312",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机构与机器人学_机构动力学"
+  },
+  {
+   "cn": "矩",
+   "en": "moment",
+   "code": "05.0057",
+   "standard": "化工名词(三)化学工程基础",
+   "subject": "化工（三）_数据处理"
+  },
+  {
+   "cn": "矩",
+   "en": "moment",
+   "code": "02.0556",
+   "standard": "物理学名词",
+   "subject": "物理学_力学"
+  },
+  {
+   "cn": "矩",
+   "en": "moment",
+   "code": "07.059",
+   "standard": "化学工程名词",
+   "subject": "化学工程_数据处理"
+  },
+  {
+   "cn": "矩",
+   "en": "moment",
+   "code": "09.0126",
+   "standard": "数学名词",
+   "subject": "数学_概率论_数理统计_随机变量"
+  },
+  {
+   "cn": "力矩",
+   "en": "moment,bending moment",
+   "code": "04.557",
+   "standard": "公路交通科技名词",
+   "subject": "公路交通科学技术_桥、涵、隧道、渡口工程"
+  },
+  {
+   "cn": "复原力矩",
+   "en": "righting moment,restoring moment",
+   "code": "03.034",
+   "standard": "船舶工程名词",
+   "subject": "船舶工程_船舶性能及其试验"
+  },
+  {
+   "cn": "地震矩",
+   "en": "seismic moment",
+   "code": "11.02.046",
+   "standard": "地质学名词",
+   "subject": "地质学_地震地质学_地震要素"
+  },
+  {
+   "cn": "偶极矩",
+   "en": "dipole moment",
+   "code": "13.01.071",
+   "standard": "地质学名词",
+   "subject": "地质学_地球化学_总论"
+  },
+  {
+   "cn": "矩变换",
+   "en": "moment transformation",
+   "code": "03.209",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程模拟"
+  },
+  {
+   "cn": "磁矩",
+   "en": "magnetic moment",
+   "code": "3.112",
+   "standard": "核科学技术名词",
+   "subject": "核科学技术_核聚变_磁约束聚变"
+  },
+  {
+   "cn": "大地测量地震矩",
+   "en": "geodetic moment",
+   "code": "01.1312",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_震源"
+  },
+  {
+   "cn": "矩",
+   "en": "moment",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "复原力矩",
+   "en": "righting moment\",\"restoring moment",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "原始矩",
+   "en": "raw moment",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "中心矩",
+   "en": "central moment",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "磁矩",
+   "en": "magnetic moment",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "偶极矩",
+   "en": "dipole moment",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "双极矩",
+   "en": "bipolar moment",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "时段形式",
+   "en": "moment-form",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "磁矩",
+   "en": "magnetic moment",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "地理矩",
+   "en": "geographical moment",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "磁矩",
+   "en": "magnetic moment",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "磁矩",
+   "en": "magnetic moment",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "矩估计",
+   "en": "method of moments",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "太阳",
+   "en": "Moment of inertia factor",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "矩量法",
+   "en": "Method of Moments, MoM",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "广义矩估计",
+   "en": "Generalized method of moments",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "腾空期",
+   "en": "moment of suspension\",\"period of suspension",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "疫情防控工作到了关键阶段",
+   "en": "The battle against the epidemic has arrived at a crucial moment.",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_百姓生活"
+  },
+  {
+   "cn": "因对方弃权获胜",
+   "en": "win by retirement\",\"win by withdrawal",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "不忘百姓之病",
+   "en": "Never Forget the Suffering of the People",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "对紧要关头当“逃兵”的干部要就地免职",
+   "en": "to remove from their posts officials who abandon the frontline at critical moments",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "理念举措_具体措施"
+  },
+  {
+   "cn": "电子商务",
+   "en": "DVD-by-mail",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "网络广告",
+   "en": "DVD-by-mail",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "法治",
+   "en": "Rule by Law",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "清洗剂洗",
+   "en": "washing by detergent",
+   "code": "4.6.19.4.7",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_医院消毒"
+  },
+  {
+   "cn": "消毒副产物",
+   "en": "disinfection by-product",
+   "code": "6.3.2.8",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_安全性检验"
+  },
+  {
+   "cn": "血亲关系",
+   "en": "relationship by consanguinity",
+   "code": "3.1.1.37",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_家庭社会学_家庭"
+  },
+  {
+   "cn": "姻亲关系",
+   "en": "relationship by affinity",
+   "code": "3.1.1.38",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_家庭社会学_家庭"
+  },
+  {
+   "cn": "干部特殊化",
+   "en": "privilegeseeking by cadres",
+   "code": "03.0552",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "体型匀称",
+   "en": "weight by stature",
+   "code": "4.2.2.19",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_儿童保健_儿童生长发育"
+  },
+  {
+   "cn": "掠夺婚",
+   "en": "marriage by capture",
+   "code": "1.0363",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "消毒副产物",
+   "en": "disinfection by-products, DBP",
+   "code": "1.4.2.69",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "负压熏蒸消毒",
+   "en": "fumigation disinfection by vacuum",
+   "code": "2.1.4.9.3",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术_化学消毒"
+  },
+  {
+   "cn": "受人口流动影响的儿童",
+   "en": "children affected by migration",
+   "code": "4.4.9.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作实务"
+  },
+  {
+   "cn": "受艾滋病影响儿童",
+   "en": "children affected by AIDS",
+   "code": "4.4.9.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作实务"
+  },
+  {
+   "cn": "通风除尘",
+   "en": "dust removal by ventilation",
+   "code": "2.3.3.2.8.4",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事环境卫生_驻扎环境卫生"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
