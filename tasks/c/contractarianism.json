@@ -2,7 +2,7 @@
   "slug": "contractarianism",
   "kind": "retranslate",
   "zh_doc": "c/contractarianism.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "CD-main-20261106",
       "at": "2026-11-06T22:09:23Z",
       "evidence": "check_style --strict 0 issue；check_academic --strict 0 硬错误（另按 done 级取消在途豁免模拟核查 0 硬 0 警）；check_math 0 缺式 0 不平衡；check_terms 0 硬错误；check_all 七项全绿；术语登记 8 行（contractarianism 自利契约论/contractualism 非自利契约论/contractarian 契约主义者/alienation contract 让渡契约/circumstances of justice 正义的环境/Lockean proviso 洛克式限制条款/minimax relative concession 最小最大相对让步/tuistic 利他的）+ 人名 1 行（卡罗尔·帕特曼）；尾节齐备：References（引用注释）+照录说明+34 条脚注定义、学术工具 4 行、其他网络资源、相关词条；相关词条“社会契约论的当代方法”对齐本批 contractarianism-contemporary 词条"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "C-main-20261109b",
+      "at": "2026-11-10T00:02:11Z",
+      "evidence": "初审（初译 actor 为前会话，独立性满足；本条曾由 C 批前一会话于 2026-11-07 做过 s1 重校）：通读 6 节逐节对位。问题分级——Critical 0、Major 0、Minor 3：H1 与 SUMMARY 一致（自利契约论）；pubinfo 与源 2025-08-22 修订一致；正文 Narveson、James Buchanan 二人以英文裸名出现，违 ADR-0022（有通行汉名者汉名＋首现括注），改「纳维森（Jan Narveson）」「詹姆斯·布坎南（James Buchanan）」并补登人名表 2 行（与既登记 Allen Buchanan 艾伦·布坎南 明示区分）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "C-main-20261109b",
+      "at": "2026-11-10T00:02:11Z",
+      "evidence": "复审逐句回核：术语（非利他 non-tuistic/最小最大相对让步/洛克式限制条款/受约束最大化者/颠覆性契约主义）一致；check_prose 4→0（的链 3、长句 1，实修 4 处）；四检 style 0 / academic 0 硬 / math 0 / prose 0 / terms 0 硬"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "C-main-20261109b",
+      "at": "2026-11-10T00:02:12Z",
+      "evidence": "终审：结构 h2 10:10、脚注定义 34:34 逐键一致、H1 与 SUMMARY 逐字一致（check_summary 0 硬）、尾部节序 References→学术工具→其他网络资源→相关词条 合规；四检全绿"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "C-main-20261109b",
+      "at": "2026-11-10T00:02:12Z",
+      "evidence": "r1-r3 全过，四检全绿，收口 done"
     }
   ],
   "blockers": [],

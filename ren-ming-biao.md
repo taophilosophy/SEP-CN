@@ -601,6 +601,7 @@
 | Cooper, Anthony Ashley (3rd Earl of Shaftesbury) | Shaftesbury | 安东尼·阿什利-柯柏 | 英国 | 1671–1713 | cambridge-platonists | 学界通行汉译（第三代沙夫茨伯里伯爵）；凭证 2026-11-09 | 2026-11-09 |
 | Cooper, John | — | 约翰·库珀 | — | — | democritus | 学界通行（古代哲学主编，斯多亚研究名家） | 2026-11-06 |
 | Copernicus, Nicolaus | — | 尼古拉·哥白尼 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
+| Cordelia | — | 考狄利娅 | 非历史人物（《李尔王》人物） | 不适用 | paradox-of-tragedy | 莎士比亚剧中人物通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | Cordemoy | — | 科尔德穆瓦 | — | — | descartes-works | 学界通行（原子论者，笛卡尔派） | 2026-11-06 |
 | Cordemoy, Géraud de | Géraud de Cordemoy | 热罗·德·科尔德穆瓦 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Cordemoy, Louis-Géraud de | Louis-Géraud | 路易-热罗·科尔德穆瓦 | 法国 | 17 世纪 | cordemoy | 学界惯例音译（科尔德穆瓦长子，续成《法国史》两卷）；凭证 2026-11-09 | 2026-11-09 |
@@ -730,6 +731,7 @@
 | Dharmakīrti | धर्मकीर्ति | 法称 | 南印度／佛教量论 | c. 600–660 | gelukpa | 佛学界通行汉译 | 2026-11-01 |
 | Dharmottara | — | 法上 | — | — | epistemology-language-tibetan、knowledge-analysis | 佛学界通行（印度量论师；汉文古译传统；法称后学因明论师，约 770 年；与中文同名古师别为二人） | 2026-11-04 |
 | Diagoras | — | 狄亚戈拉斯 | — | — | bayle | 学界通行汉译（古希腊无神论者，《神圣者》佚） | 2026-11-08 |
+| Dickens, Charles | Charles Dickens | 查尔斯·狄更斯（狄更斯） | 英国 | 1812–1870 | paradox-of-tragedy | 学界千年通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | Dickie, George | — | 迪基 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
 | Dickmann, M. A. | — | M. A. Dickmann | — | — | logic-infinitary | 无通行汉名，保留英文原名（模型论学家）；凭证 2026-11-10 | 2026-11-09 |
 | Diderot, Denis | — | 德尼·狄德罗 | — | — | SUMMARY 定名（d/diderot.md） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-06 | 2026-11-06 |
@@ -2821,6 +2823,7 @@
 | Tarski, Alfred | — | Alfred Tarski | — | —；logical-consequence | logic-fuzzy | 本库惯例保留英文原名；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | Tartaglia | — | 塔尔塔利亚 | — | — | descartes-works | 学界千年通行（文艺复兴数学家，三次方程解法） | 2026-11-06 |
 | Tarteys, John | — | 约翰·塔蒂斯 | — | — | alyngton | 本词条首译（牛津实在论者，无通行汉名） | 2026-11-06 |
+| Tate, Nahum | — | 纳胡姆·泰特 | 英国 | 1652–1715 | paradox-of-tragedy | 通行音译（《李尔王》改写本作者）；凭证 2026-11-10 | 2026-11-10 |
 | Taurek, John | — | 约翰·陶雷克 | — | — | ethics-deontological | 学界惯例（"数字不算数"论文作者，通行音译） | 2026-11-04 |
 | Tayasu Munetake | — | 田安宗武 | — | — | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
 | Taylor, Alan D. | — | 艾伦·泰勒 | — | — | social-procedures | 构词直译（公平分配研究者）；凭证 2026-11-07 | 2026-11-07 |
@@ -3015,6 +3018,7 @@
 | Ward, James | — | 詹姆斯·沃德 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Wardy, Robert | — | 沃迪 | — | — | democritus | 学界通行（《几何之壮丽》作者） | 2026-11-06 |
 | Warham, William | — | 威廉·沃勒姆 | — | — | erasmus | 学界惯例（坎特伯雷大主教通译） | 2026-11-04 |
+| Warhol, Andy | — | 安迪·沃霍尔 | 美国 | 1928–1987 | paradox-of-tragedy | 学界通行汉译（波普艺术家）；凭证 2026-11-10 | 2026-11-10 |
 | Warnock, Mary | — | 玛丽·沃诺克 | 英国 | 1924–2019 | stebbing | 学界通行汉译（牛津哲学家、教育者）；凭证 2026-11-09 | 2026-11-09 |
 | Warren, Jared | — | Jared Warren（现代学者，保留英文） | — | — | deductivism-mathematics | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
 | Wasserman, David | — | David Wasserman（现代学者，保留英文） | — | — | disability | ADR-0022：无通行汉名者保留英文（本词条合著者）；凭证 2026-11-09 | 2026-11-09 |
@@ -3283,7 +3287,6 @@
 ## 待裁定
 
 其余人名（Brotinus、Leon、Bathyllus、Theano、Iamblichus、Censorinus、Aetius、Chalcidius、Calcidius、Philoponus、Simplicius、Xenocrates、Thales、Callisthenes、Herophilus、Favorinus、Nicolaus Damascenus、Alcman 等）首次出现时保留英文原名，是否音译待 AGENTS.md 修正会话统一裁定（演示轮 1 登记的体例冲突：本仓库 SUMMARY.md 标题实际对古典人名用通行汉译，与《UNIX 生活》项目 AGENTS.md“人名一律保留英文”冲突）。
-| Warhol, Andy | — | 安迪·沃霍尔 | 美国 | 1928–1987 | paradox-of-tragedy | 学界通行汉译（波普艺术家）；凭证 2026-11-10 | 2026-11-10 |
-| Tate, Nahum | — | 纳胡姆·泰特 | 英国 | 1652–1715 | paradox-of-tragedy | 通行音译（《李尔王》改写本作者）；凭证 2026-11-10 | 2026-11-10 |
-| Dickens, Charles | Charles Dickens | 查尔斯·狄更斯（狄更斯） | 英国 | 1812–1870 | paradox-of-tragedy | 学界千年通行汉译；凭证 2026-11-10 | 2026-11-10 |
-| Cordelia | — | 考狄利娅 | 非历史人物（《李尔王》人物） | 不适用 | paradox-of-tragedy | 莎士比亚剧中人物通行汉译；凭证 2026-11-10 | 2026-11-10 |
+| Black, Duncan | — | 邓肯·布莱克 | 英国（苏格兰）／经济与社会选择理论 | 1908–1991 | belief-merging | 学界通行汉译（社会选择理论文献，《委员会抉择的理论》作者；与 Max Black 异人）；凭证 2026-11-10 | 2026-11-10 |
+| Poisson, Siméon Denis | — | 泊松 | 法国 | 1781–1840 | belief-merging | 学界通行汉译（数学家，泊松分布之泊松）；凭证 2026-11-10 | 2026-11-10 |
+| Vacca | — | Vacca（保留英文） | 意大利 | fl. 1921 | belief-merging | ADR-0022：无通行汉名者保留英文（意大利法理学家，1921 论文作者）；凭证 2026-11-10 | 2026-11-10 |
