@@ -603,7 +603,7 @@
 | Chierchia, Gennaro | — | Gennaro Chierchia | — | — | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Chinhŭng | 真興王 | 真兴王 | — | — | korean-buddhism | 汉文传统写法（新罗王，转轮圣王理想） | 2026-11-05 |
 | Chinul | — | 知讷 | — | — | korean-buddhism | 汉文传统写法（源文汉字 知訥；高丽曹溪宗中兴祖，谥普照） | 2026-11-05 |
-| Chisholm, Roderick | — | 罗德里克·齐硕姆 | — | — | behaviorism | 学界通行汉译（知识论/形而上学） | 2026-11-05 |
+| Chisholm, Roderick | — | 罗德里克·齐硕姆 | 美国 | 1916–1999 | behaviorism、chisholm、certainty | 学界通行汉译（知识论/形而上学）；亦作“奇泽姆”；2026-11-10 C 批复审裁定主形齐硕姆（登记册 + 语料 21:10 多数），全库“奇泽姆”已归一（certainty/chisholm/incompatibilism-theories + SUMMARY/mu-lu-s 标题） | 2026-11-10 |
 | Chomsky, Noam | — | 诺姆·乔姆斯基 | 美国 | 1928– | early-modern-india | 学界通行汉译（例句出处提及）；凭证 2026-11-10 | 2026-11-10 |
 | Chŏng Chedu | 鄭齊斗 | 郑齐斗 | — | — | korean-philosophy | 汉文传统写法（源文汉字 鄭齊斗；朝鲜阳明学者，霞谷） | 2026-11-05 |
 | Chŏng Mongju | 鄭夢周 | 郑梦周 | 1337–1392 | — | korean-confucianism | 汉文传统写法（高丽末性理学者，号圃隐） | 2026-11-08 |
