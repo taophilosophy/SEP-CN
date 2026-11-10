@@ -1,1 +1,1 @@
-# 韦斯利·萨尔蒙 Salmon, Wesley (Maria Carla Galavotti)
+# 韦斯利·萨蒙 Salmon, Wesley (Maria Carla Galavotti)

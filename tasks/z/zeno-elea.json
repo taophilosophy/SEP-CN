@@ -2,7 +2,7 @@
   "slug": "zeno-elea",
   "kind": "retranslate",
   "zh_doc": "z/zeno-elea.md",
-  "state": "s3_checked",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,20 @@
       "actor": "Z-main-20261110",
       "at": "2026-11-09T17:42:17Z",
       "evidence": "check_style 0 issue; check_prose 0; check_math missing/unbalanced 均空; check_academic --strict 0 硬错误(在途豁免1); H1 与 SUMMARY 一致; 脚注键与 yuanwen 逐字符一致(现制 References 引用注释); 弯引号/半角空格/禁HTML过; markdownlint 由 CI 复核"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ZR-main-20261110",
+      "at": "2026-11-10T10:40:35Z",
+      "evidence": "初审（独立会话，初译 Z-main-20261110）：逐段对照 yuanwen/z/zeno-elea.md 全文核销；脚注 124 条定义逐字符一致、正文引用键 2 配平；图 1–4 路径../yuanwen/assets/zeno-elea/graphicN.jpg 与镜像资产一一对应、alt 译出；运动场双图对照 en/zeno-elea 原始 HTML（嵌套表格转换缺陷：图1=2列表格 A 跨列+B→+←C，图2=单列三行）按显然意图重建为 markdown 表并留痕；H1/尾部四节/学术工具四行/OIR 占位/相关词条对位一致。实修 7 处（均同步账本 step2 双写，lq check 65 段守恒 HARD=0）：①per se②ad infinitum③reductio④reductio ad absurdum⑤⑥endoxa 补登记形「公认意见（*endoxa*）」⑦这些人 补源文 <em> 强调映射（bold-spacing 空格过门）。分级：Minor 7，Critical/Major 0。豁免留痕 2：Epiphanius/Eudemus 处于引注照录区（模板#6 引用组原样保留），登记形不适用。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ZR-main-20261110",
+      "at": "2026-11-10T10:45:54Z",
+      "evidence": "复审（逐句回核原文与逻辑）：①引注组 28↔28 全对位，差异仅标点本地化（, i.e.→，即；cf.→参见）与「especially」译出，无编号/页码错漏；②正文数字机检 67↔66，余额差仅为「book 1→第一卷」汉字数字与日期记法（May 12→5 月 12 日），无事实错；③逻辑链重核：二分法递推（pₙ/pₙ₋₁ 无终点）、大与小双向往返（引理过渡）、飞矢「与等量者相并」三段、运动队列公设推理、处所无穷倒退、§3 通行观点—柏拉图证据—芝诺纠正—Barnes 判断四段结构，均与源一致；④交叉引用 2.1.1/2.1.2/2.2.1 与实存小节对应；⑤相关词条七项与 SUMMARY 定名逐字对位（辛普利修斯取 SUMMARY 词条定名形，正文主形辛普里丘按登记册，双形裁定见人名表 Simplicius 行）。新增问题 0，无改动。"
     }
   ],
   "blockers": [],

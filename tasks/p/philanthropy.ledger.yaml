@@ -491,161 +491,215 @@ segments:
     kind: body
     source: |-
       Many recent normative theories of democracy link its justification to a concern for people’s ability to relate as social equals, rather than as superiors and inferiors (e.g., Anderson 1999; Kolodny 2014, 2023; Wilson 2019)[^anderson-1999][^kolodny-2014][^wilson-2019]. Social or relational egalitarian theories of democracy, while often focused on formal political institutions and processes, have reason to be concerned about social inequalities that arise informally—including through philanthropy, which has the potential to contribute to informal hierarchies of control and esteem. Saunders-Hastings (2019, 2022a) argues for a presumption against giving in *paternalistic* ways that express disrespect for the judgment of beneficiaries and that may contribute to subordinating relationships. The concern that philanthropy can express objectionable forms of paternalism grows stronger still once one considers that philanthropy consists not only of isolated transactions but often creates ongoing relationships between donors and recipients (e.g., in institutional settings). According to Saunders-Hastings and Reich (2024), paternalism involves one party putting itself in a position of longer-term authority over an autonomous agent and making judgments on their behalf, even if the paternalized party consents. Thus, paternalism can be objectionable even if it makes the paternalized party better off and they genuinely consent. The wrong lies in the insult to autonomy and the unequal power dynamic, not just in coercion or negative outcomes. Philanthropic foundations often act paternalistically by retaining control over decision making and imposing their own judgments rather than empowering grantees and beneficiaries. Respect for those affected requires foundations to give them more of a say, both for instrumental reasons (local knowledge improves outcomes) and intrinsic reasons (mitigating power imbalances and respecting autonomy).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      晚近许多民主规范性理论把民主的正当性联系到对人们能否作为社会平等者相互交往的关切上（例如 Anderson 1999; Kolodny 2014, 2023; Wilson 2019）[^anderson-1999][^kolodny-2014][^wilson-2019]。社会平等主义或关系平等主义的民主理论，虽常聚焦正式政治制度与程序，却有理由关切非正式产生的社会不平等——包括通过慈善产生的不平等，因为慈善有可能助长非正式的控制与尊崇等级。桑德斯-黑斯廷斯（2019, 2022a）主张，应推定反对以*家长主义*方式给予——这种方式表达对受益人判断的不尊重，并可能助长从属关系。一旦考虑到慈善不只由孤立交易构成，还常常在捐赠者与接受者之间创造持续关系（例如在机构环境中），慈善可能表达可反对的家长主义形式这一担忧就更强了。据桑德斯-黑斯廷斯与赖希（2024），家长主义是指一方把自己置于对自主行动者的长期权威地位，并代替其作出判断，即便被家长主义对待的一方同意也是如此。因此，即便家长主义使被对待者过得更好、且其真心同意，它仍可能可反对。错误在于对自主性的侮辱与不平等的权力动态，而不只是强制或负面结果。慈善基金会常常以家长主义方式行事：保留决策控制权、强加自己的判断，而不是赋权受赠者与受益人。尊重受影响者，要求基金会给他们更多发言权，既有工具性理由（地方知识改善结果），也有内在理由（缓解权力失衡、尊重自主）。
+    step2: |-
+      晚近许多民主规范性理论把民主的正当性联系到对人们能否作为社会平等者相互交往的关切上（例如 Anderson 1999; Kolodny 2014, 2023; Wilson 2019）[^anderson-1999][^kolodny-2014][^wilson-2019]。社会平等主义或关系平等主义的民主理论，虽常聚焦正式政治制度与程序，却有理由关切非正式产生的社会不平等——包括通过慈善产生的不平等，因为慈善有可能助长非正式的控制与尊崇等级。桑德斯-黑斯廷斯（2019, 2022a）主张，应推定反对以**家长主义**方式给予——这种方式表达对受益人判断的不尊重，并可能助长从属关系。一旦考虑到慈善不只由孤立交易构成，还常常在捐赠者与接受者之间创造持续关系（例如在机构环境中），慈善可能表达可反对的家长主义形式这一担忧就更强了。据桑德斯-黑斯廷斯与赖希（2024），家长主义是指一方把自己置于对自主行动者的长期权威地位，并代替其作出判断，即便被家长主义对待的一方同意也是如此。因此，即便家长主义使被对待者过得更好、且其真心同意，它仍可能可反对。错误在于对自主性的侮辱与不平等的权力动态，而不只是强制或负面结果。慈善基金会常常以家长主义方式行事：保留决策控制权、强加自己的判断，而不是赋权受赠者与受益人。尊重受影响者，要求基金会给他们更多发言权，既有工具性理由（地方知识改善结果），也有内在理由（缓解权力失衡、尊重自主）。
   - id: 62
     kind: body
     source: |-
       Some perspectives argue that the relationship between philanthropy and democracy can be complementary, or that the tensions between philanthropy and democracy can be resolved through institutional designs that render philanthropy compatible with democratic ideals. Reich (2018) argues that philanthropy can be supportive of democracy when it contributes to the distinctive goods of *pluralism* (i.e., in the provision of public goods) and *discovery* (roughly, innovation in the provision of public goods, in ways that electoral incentives may militate against). For Reich, if democracy is construed as a political system that champions a diverse and contestatory civil society, then philanthropic support from a broad base of ordinary citizens can provide one form of fuel for a pluralistic civil society and diminish governmental orthodoxy in defining its contours. Institutionalized philanthropy, such as through philanthropic foundations, can be one vehicle for experimentalism in social problem-solving, over longer-time horizons than state agencies and commercial firms are likely to undertake. Pevnick (2013) argues that the nonprofit sector might be democratized if the power to contribute were more widely dispersed, e.g., by replacing existing tax mechanisms for subsidizing philanthropy with vouchers distributed in equal amounts to all citizens. Rubenstein (2022) argues that small-dollar donating is itself a democratic practice. MacKenzie (2021) has proposed using participatory budgeting models within philanthropic foundations to democratize the allocation of funds.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有些视角主张，慈善与民主的关系可以是互补的，或者二者之间的张力可以通过制度设计化解，使慈善与民主理想相容。赖希（2018）主张，当慈善有助于*多元主义*（即在公共善的供给中）与*发现*（大致指公共善供给中的创新，而选举激励可能不利于此类创新）这两种独特善时，它就能支持民主。对赖希而言，若把民主理解为一种拥护多元且可争辩的公民社会的政治制度，那么来自广大普通公民的慈善支持，就能为多元公民社会提供一种燃料，并削弱政府在界定其轮廓上的正统地位。制度化的慈善，例如通过慈善基金会，可以成为社会问题解决实验主义的一种载体，其时间视野比国家机关与商业公司通常愿意承担的更长。佩夫尼克（2013）主张，如果捐赠权力分配得更广，非营利部门或许可以民主化，例如用平均分配给全体公民的抵用券取代现有的补贴慈善的税收机制。鲁宾斯坦（2022）主张，小额捐赠本身就是一种民主实践。麦肯齐（2021）提议在慈善基金会内部采用参与式预算模式，使资金分配民主化。
+    step2: |-
+      有些视角主张，慈善与民主的关系可以是互补的，或者二者之间的张力可以通过制度设计化解，使慈善与民主理想相容。赖希（2018）主张，当慈善有助于**多元主义**（即在公共善的供给中）与**发现**（大致指公共善供给中的创新，而选举激励可能不利于此类创新）这两种独特善时，它就能支持民主。对赖希而言，若把民主理解为一种拥护多元且可争辩的公民社会的政治制度，那么来自广大普通公民的慈善支持，就能为多元公民社会提供一种燃料，并削弱政府在界定其轮廓上的正统地位。制度化的慈善，例如通过慈善基金会，可以成为社会问题解决实验主义的一种载体，其时间视野比国家机关与商业公司通常愿意承担的更长。佩夫尼克（2013）主张，如果捐赠权力分配得更广，非营利部门或许可以民主化，例如用平均分配给全体公民的抵用券取代现有的补贴慈善的税收机制。鲁宾斯坦（2022）主张，小额捐赠本身就是一种民主实践。麦肯齐（2021）提议在慈善基金会内部采用参与式预算模式，使资金分配民主化。
   - id: 63
     kind: body
     source: |-
       The tensions between philanthropy and democracy are often explored within the context of the nation-state, but some philosophers explore them in a global context. International non-governmental organizations (INGOs) are often government-funded, but many rely at least in part on philanthropic funding (from either elite donors, large numbers of small donors, or a combination thereof). There is ongoing debate as to whether the activities of INGOs ought to be understood as a form of (unelected) interest-representation, and how (if at all) such representation can meet democratic standards (Rubenstein 2015; Montanaro 2018)[^montanaro-2018][^rubenstein-2015]. Others have proposed mechanisms for democratizing the allocation of international philanthropic funds themselves: Tanasoca and Dryzek (2021) advocate for deliberative democratic fora in which the global poor could exercise collective voice in the direction of proposed donations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      慈善与民主之间的张力，常在民族国家语境中探讨，但有些哲学家在全球语境中探讨它们。国际非政府组织（INGO）常由政府资助，但许多至少部分依赖慈善资金（来自精英捐赠者、大量小额捐赠者，或二者兼有）。关于 INGO 的活动是否应被理解为一种（未经选举的）利益代表，以及这种代表如何（如果可能）满足民主标准，存在持续争论（Rubenstein 2015; Montanaro 2018）[^montanaro-2018][^rubenstein-2015]。其他人提出了使国际慈善资金分配本身民主化的机制：塔纳索卡与德里泽克（2021）倡导协商民主论坛，让全球穷人在拟议捐赠的方向上行使集体声音。
+    step2: |-
+      慈善与民主之间的张力，常在民族国家语境中探讨，但有些哲学家在全球语境中探讨它们。国际非政府组织（INGO）常由政府资助，但许多至少部分依赖慈善资金（来自精英捐赠者、大量小额捐赠者，或二者兼有）。关于 INGO 的活动是否应被理解为一种（未经选举的）利益代表，以及这种代表如何（如果可能）满足民主标准，存在持续争论（Rubenstein 2015; Montanaro 2018）[^montanaro-2018][^rubenstein-2015]。其他人提出了使国际慈善资金分配本身民主化的机制：塔纳索卡与德里泽克（2021）倡导协商民主论坛，让全球穷人在拟议捐赠的方向上行使集体声音。
   - id: 64
     kind: body
     source: |-
       ### 4.2 Philanthropy and Freedom
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2 慈善与自由
+    step2: |-
+      ### 4.2 慈善与自由
   - id: 65
     kind: body
     source: |-
       Libertarian views vary in their justifications and implications, but most tend to create comparatively wide space for philanthropy as a consequence of limiting the scope of permissible state action. For libertarians, freedom is typically understood as non-interference with individual choices (except to prevent harm or protect the rights of others) and a just society is one that minimizes the exercise of coercive force. Liberty encompasses the freedom to allocate one’s resources according to one’s preferences, and it includes the permission to donate one’s resources to willing recipients. For libertarians, philanthropy—as with marketplace activity—can be understood as a form of consensual exchange or contract (Nozick 1974)[^nozick-1974]. A society organized largely in terms of voluntary transactions will likely contain many inequalities and unmet needs. Consequently, libertarians tend to see philanthropy as an especially praiseworthy exercise of liberty (Lomasky 1995)[^lomasky-1995]. But it is more than praiseworthy; a libertarian view emphasizes the beneficial outcomes and moral superiority of philanthropy when compared to government-provided assistance. Charity is regarded as a commendable and liberty-preserving means of aiding the underprivileged, as it is voluntary in nature, unlike public provision, which relies on state coercion through taxation and redistribution. Consequently, private charity is considered to have greater legitimacy than government programs. Furthermore, libertarians argue that, due to its often localized and innovative approach, private charity is more likely to yield effective results than government aid.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      自由至上主义观点在证成与含义上各有不同，但大多数倾向于因限制许可的国家行动范围，而为慈善创造相对宽广的空间。对自由至上主义者而言，自由通常被理解为对个人选择的不干涉（除非为防止伤害或保护他人权利），而正义社会是使强制力行使最小化的社会。自由包括按自己偏好分配资源的自由，也包括把自己的资源捐赠给愿意接受的受赠者的许可。对自由至上主义者来说，慈善——如同市场活动——可以被理解为一种合意交换或契约（Nozick 1974）[^nozick-1974]。一个主要按自愿交易组织的社会，很可能包含许多不平等与未满足的需要。因此，自由至上主义者倾向于把慈善视为对自由的一种特别值得称赞的运用（Lomasky 1995）[^lomasky-1995]。但它不只是值得称赞；自由至上主义观点强调，与政府提供的援助相比，慈善具有有益结果与道德优越性。慈善被视为一种值得赞许、且维护自由的援助弱势者的手段，因为它本质上是自愿的，不像公共供给依赖通过税收与再分配的国家强制。因此，私人慈善被认为比政府项目具有更大正当性。此外，自由至上主义者论证说，由于其往往地方化且具创新性，私人慈善比政府援助更可能产生有效结果。
+    step2: |-
+      自由至上主义观点在证成与含义上各有不同，但大多数倾向于因限制许可的国家行动范围，而为慈善创造相对宽广的空间。对自由至上主义者而言，自由通常被理解为对个人选择的不干涉（除非为防止伤害或保护他人权利），而正义社会是使强制力行使最小化的社会。自由包括按自己偏好分配资源的自由，也包括把自己的资源捐赠给愿意接受的受赠者的许可。对自由至上主义者来说，慈善——如同市场活动——可以被理解为一种合意交换或契约（Nozick 1974）[^nozick-1974]。一个主要按自愿交易组织的社会，很可能包含许多不平等与未满足的需要。因此，自由至上主义者倾向于把慈善视为对自由的一种特别值得称赞的运用（Lomasky 1995）[^lomasky-1995]。但它不只是值得称赞；自由至上主义观点强调，与政府提供的援助相比，慈善具有有益结果与道德优越性。慈善被视为一种值得赞许、且维护自由的援助弱势者的手段，因为它本质上是自愿的，不像公共供给依赖通过税收与再分配的国家强制。因此，私人慈善被认为比政府项目具有更大正当性。此外，自由至上主义者论证说，由于其往往地方化且具创新性，私人慈善比政府援助更可能产生有效结果。
   - id: 66
     kind: body
     source: |-
       However, this position also suggests that the appropriate role of the state with respect to philanthropy is not to subsidize it (which involves interfering with the liberty of some for the benefit of others) (Fleischer 2010)[^fleischer-2010]. And the state is generally to respect and enforce the terms that donors choose to attach to their gifts—despite the disadvantages this may create for recipients and third parties (Florino 2016)[^florino-2016].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，这一立场也意味着，国家对慈善的恰当角色不是补贴它（这涉及为他人利益干涉某些人的自由）（Fleischer 2010）[^fleischer-2010]。国家一般应尊重并执行捐赠者选择附加于其赠与的条件——尽管这可能给受赠者与第三方带来不利（Florino 2016）[^florino-2016]。
+    step2: |-
+      然而，这一立场也意味着，国家对慈善的恰当角色不是补贴它（这涉及为他人利益干涉某些人的自由）（Fleischer 2010）[^fleischer-2010]。国家一般应尊重并执行捐赠者选择附加于其赠与的条件——尽管这可能给受赠者与第三方带来不利（Florino 2016）[^florino-2016]。
   - id: 67
     kind: body
     source: |-
       Republicans understand freedom as non-domination, where to be dominated is to be susceptible to arbitrary exercises of power (Pettit 1997)[^pettit-1997]. Government legitimacy requires that power is limited in ways that track citizens’ interests. But the threat of domination can also come from private sources, and republicans are especially critical of dominating relationships between philanthropists and beneficiaries, who may depend on gifts for their livelihood and thus live a precarious and servile existence. Republican arguments can thus lend support to institutional designs that seek to make the necessities of life more reliably accessible. The welfare state and universal basic income schemes are familiar proposals here (Pettit 2006)[^pettit-2006]. However, republicanism also supports the position that a sufficient number of philanthropists competing in an area can limit domination by enabling beneficiaries to choose more freely among them (Taylor 2018)[^taylor-2018]. For many republicans, whether or how much philanthropy dominates depends on background conditions and policy choices. Additionally, a prominent theme in republican thought is the importance of a contestatory citizenry for checking government domination (Pettit 2012)[^pettit-2012]. Such efforts require resources, and philanthropy is the most obvious source of funds for civil society organizations that monitor, protest, and advocate (Lechterman & Reich 2020)[^lechterman-2020][^lechterman-2020-2].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      共和主义者把自由理解为*无支配*：受支配就是易受任意权力行使之害（Pettit 1997）[^pettit-1997]。政府正当性要求权力以符合公民利益的方式受到限制。但支配的威胁也可能来自私人来源，共和主义者尤其批评慈善家与受益人之间的支配关系——受益人可能靠赠与维生，因而过着朝不保夕、仰人鼻息的生活。因此，共和主义论证可以支持那些力图使生活必需品更可靠可得的制度设计。福利国家与全民基本收入方案是这里常见的提议（Pettit 2006）[^pettit-2006]。然而，共和主义也支持这样一种立场：某一领域内有足够多的慈善家相互竞争，可以限制支配，使受益人能在他们之间更自由地选择（Taylor 2018）[^taylor-2018]。对许多共和主义者来说，慈善是否支配、支配多少，取决于背景条件与政策选择。此外，共和主义思想的一个突出主题是：可争辩的公民群体对于制约政府支配十分重要（Pettit 2012）[^pettit-2012]。这类努力需要资源，而慈善是监督、抗议与倡导的公民社会组织最显而易见的资金来源（Lechterman & Reich 2020）[^lechterman-2020][^lechterman-2020-2]。
+    step2: |-
+      共和主义者把自由理解为**无支配**：受支配就是易受任意权力行使之害（Pettit 1997）[^pettit-1997]。政府正当性要求权力以符合公民利益的方式受到限制。但支配的威胁也可能来自私人来源，共和主义者尤其批评慈善家与受益人之间的支配关系——受益人可能靠赠与维生，因而过着朝不保夕、仰人鼻息的生活。因此，共和主义论证可以支持那些力图使生活必需品更可靠可得的制度设计。福利国家与全民基本收入方案是这里常见的提议（Pettit 2006）[^pettit-2006]。然而，共和主义也支持这样一种立场：某一领域内有足够多的慈善家相互竞争，可以限制支配，使受益人能在他们之间更自由地选择（Taylor 2018）[^taylor-2018]。对许多共和主义者来说，慈善是否支配、支配多少，取决于背景条件与政策选择。此外，共和主义思想的一个突出主题是：可争辩的公民群体对于制约政府支配十分重要（Pettit 2012）[^pettit-2012]。这类努力需要资源，而慈善是监督、抗议与倡导的公民社会组织最显而易见的资金来源（Lechterman & Reich 2020）[^lechterman-2020][^lechterman-2020-2]。
   - id: 68
     kind: body
     source: |-
       ## 5. Current Controversies
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5. 当前争议
+    step2: |-
+      ## 5 当前争议
   - id: 69
     kind: body
     source: |-
       ### 5.1 The Problem of Dirty Money
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.1 脏钱问题
+    step2: |-
+      ### 5.1 脏钱问题
   - id: 70
     kind: body
     source: |-
       Putatively “dirty” or “tainted” gifts are a perennial source of controversy in the ethics and politics of philanthropy. Is it morally permissible to accept tainted wealth if it supports a praiseworthy cause? “Dirty money” and related terms (e.g., tainted money, blood money) can be used in different ways. In legal and business contexts, these terms are often used narrowly to refer to money that represents the proceeds of illegal activities such as fraud or organized crime (i.e., money that needs to be “laundered”). Philosophers often use the terms more broadly, to refer to money or other goods produced from unjust or otherwise seriously morally objectionable activities, transactions, and relationships (even if the activities in question are not illegal). More broadly still, “dirty money” can refer to gifts from controversial donors, even if moral criticisms of the donors are not primarily about how their wealth was acquired (e.g., donations from accused or convicted sex offenders, such as Jeffrey Epstein or Harvey Weinstein). Prominent contemporary examples include debates about whether universities and art institutions should refuse or return gifts from the Sackler family, given their company Purdue Pharma’s role in the opioid epidemic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所谓“脏”或“受污染”的赠与，是慈善伦理与政治中一个长期争议之源。如果受污染的财富支持一项值得称赞的事业，接受它在道德上可允许吗？“脏钱”及相关词语（例如受污染的钱、血钱）可以有不同的用法。在法律与商业语境中，这些词常被狭义地用来指欺诈或组织犯罪等非法活动的收益（即需要“洗”的钱）。哲学家则常更宽泛地使用这些词，指来自不义或其他在道德上严重可反对的活动、交易与关系的金钱或其他物品（即便相关活动并不违法）。更宽泛地说，“脏钱”可以指来自有争议捐赠者的赠与，即便对捐赠者的道德批评主要不在于其财富如何获得（例如来自被指控或被定罪的性犯罪者的捐赠，如杰弗里·爱泼斯坦或哈维·韦恩斯坦）。当代著名例子包括：鉴于萨克勒家族的公司普渡制药在阿片类药物流行中的作用，大学与艺术机构是否应拒绝或退还萨克勒家族的捐赠。
+    step2: |-
+      所谓“脏”或“受污染”的赠与，是慈善伦理与政治中一个长期争议之源。如果受污染的财富支持一项值得称赞的事业，接受它在道德上可允许吗？“脏钱”及相关词语（例如受污染的钱、血钱）可以有不同的用法。在法律与商业语境中，这些词常被狭义地用来指欺诈或组织犯罪等非法活动的收益（即需要“洗”的钱）。哲学家则常更宽泛地使用这些词，指来自不义或其他在道德上严重可反对的活动、交易与关系的金钱或其他物品（即便相关活动并不违法）。更宽泛地说，“脏钱”可以指来自有争议捐赠者的赠与，即便对捐赠者的道德批评主要不在于其财富如何获得（例如来自被指控或被定罪的性犯罪者的捐赠，如杰弗里·爱泼斯坦或哈维·韦恩斯坦）。当代著名例子包括：鉴于萨克勒家族的公司普渡制药在阿片类药物流行中的作用，大学与艺术机构是否应拒绝或退还萨克勒家族的捐赠。
   - id: 71
     kind: body
     source: |-
       Traditionally, worries about dirty money have been more prominent in non-consequentialist philosophical traditions. Both consequentialists and non-consequentialists can take account of the potential bad effects of accepting dirty money, such as the risk of legitimizing or further encouraging harmful economic activities. But for consequentialists, the potential for donations to do good (relative to the relevant alternative uses to which the money might be put) will often outweigh these risks. Peter Singer, for example, has argued against a generalized rejection of Sackler money (Singer 2019)[^singer-2019]. Put in the extreme, one thinks of the adage attributed to the founder of the Salvation Army, William Booth, who is alleged to have said, “The only problem with tainted money is that there just tain’t enough of it”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      传统上，对脏钱的担忧在非后果论哲学传统中更为突出。后果论者与非后果论者都能考虑接受脏钱可能带来的坏效果，例如使有害经济活动合法化或进一步受到鼓励的风险。但对后果论者来说，捐赠行善的潜力（相对于这笔钱可能的其他相关用途）往往压过这些风险。例如，彼得·辛格曾论证反对一概拒绝萨克勒的钱（Singer 2019）[^singer-2019]。说得极端些，人们会想到据传出自救世军创始人威廉·布斯的一句格言：“受污染的钱唯一的问题，就是这种钱实在不够多。”
+    step2: |-
+      传统上，对脏钱的担忧在非后果论哲学传统中更为突出。后果论者与非后果论者都能考虑接受脏钱可能带来的坏效果，例如使有害经济活动合法化或进一步受到鼓励的风险。但对后果论者来说，捐赠行善的潜力（相对于这笔钱可能的其他相关用途）往往压过这些风险。例如，彼得·辛格曾论证反对一概拒绝萨克勒的钱（Singer 2019）[^singer-2019]。说得极端些，人们会想到据传出自救世军创始人威廉·布斯的一句格言：“受污染的钱唯一的问题，就是这种钱实在不够多。”
   - id: 72
     kind: body
     source: |-
       Dirty money debates often focus on particularly famous individuals or families. However, objections to institutions profiting from—and to donors’ discretion in disposing of—ill-gotten gains potentially apply much more widely. Cordelli (2016, 2020) argues that *everything* that donors own, beyond what they would have under just institutions, is morally speaking not theirs at all; they should therefore enjoy no moral discretion in deciding how to spend it but should instead direct it to improving the condition of the worst off members of society, as a demand of reparative justice. For philosophers who object to economic injustice more broadly, and not only to particular bad actors, any distinction between clean and dirty money may be difficult to sustain.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      脏钱争论常聚焦于特别著名的人物或家族。然而，反对机构从非法所得中获利、以及反对捐赠者任意处置非法所得的异议，可能适用范围要广得多。科尔代利（2016, 2020）主张，捐赠者拥有的一切、超出他们在正义制度下本会拥有的部分，在道德上根本不属于他们；因此他们在决定如何花这些钱时不应享有道德裁量，而应作为补偿正义的要求，把它用于改善社会最不利者的境况。对那些更宽泛地反对经济不义、而不只是反对特定坏行动者的哲学家来说，干净钱与脏钱之间的任何区分都可能难以维持。
+    step2: |-
+      脏钱争论常聚焦于特别著名的人物或家族。然而，反对机构从非法所得中获利、以及反对捐赠者任意处置非法所得的异议，可能适用范围要广得多。科尔代利（2016, 2020）主张，捐赠者拥有的一切、超出他们在正义制度下本会拥有的部分，在道德上根本不属于他们；因此他们在决定如何花这些钱时不应享有道德裁量，而应作为补偿正义的要求，把它用于改善社会最不利者的境况。对那些更宽泛地反对经济不义、而不只是反对特定坏行动者的哲学家来说，干净钱与脏钱之间的任何区分都可能难以维持。
   - id: 73
     kind: body
     source: |-
       ### 5.2 Corporate Giving and Corporate Social Responsibility
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.2 企业捐赠与企业社会责任
+    step2: |-
+      ### 5.2 企业捐赠与企业社会责任
   - id: 74
     kind: body
     source: |-
       One of the most striking developments in the practice of philanthropy over the past several decades has been the attempts to combine philanthropy with commercial activity. Should business firms engage in philanthropy, and if so, how? Strong social norms support the donation of some portion of profits to charitable causes. Corporate philanthropy might be justified, for instance, on the grounds that corporations have surplus resources that can often be put to better uses than padding executive salaries or lining shareholders’ pockets. Perhaps businesses owe donations to society in return for their many privileges. However, corporate philanthropy also invites fundamental criticisms. Some libertarians, such as the economist Milton Friedman, hold that the social responsibility of business is to increase profits, and therefore corporate philanthropy is tantamount to theft of shareholder’s assets (Friedman 1970)[^friedman-1970]. Corporate profits are shareholders’ property, and it is the right of shareholders—not business managers—to determine whether and how to donate their property. A more recent “market failures” view holds that businesses maximize their contribution to social welfare by seeking efficiency, which they accomplish by conscientious profit-seeking (Heath 2014)[^heath-2014]. From this perspective, directly seeking good outcomes through philanthropy may reduce firms’ efficiency gains and compromise their contributions to social welfare. Democratic critics question the potential distortions to political equality of corporate giving programs, which may allow corporations disproportionate influence over matters of common concern, and the ways in which firms’ business goals may distort their philanthropic priorities (Lechterman 2022; Saunders-Hastings 2022b)[^lechterman-2022][^saunders-hastings-2022b]. And a common cynical view regards philanthropy as a way of deflecting attention from misconduct and exploitation in other areas of a firm’s business activities. Critics of corporate philanthropy often agree there are nonetheless certain limited forms of corporate giving that may be morally permissible if not morally required in certain cases, such as the sharing of proprietary resources during emergencies (Mejia 2021)[^mejia-2021].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      过去几十年慈善实践中最引人注目的发展之一，是试图把慈善与商业活动结合起来。企业应当从事慈善吗？如果应当，又该如何做？强有力的社会规范支持把一部分利润捐给慈善事业。例如，企业慈善可以被证成：企业拥有剩余资源，而这些资源往往可以比用来抬高高管薪酬或填塞股东腰包得到更好的用途。也许企业因其享有的许多特权而欠社会一笔捐赠。然而，企业慈善也招致根本性批评。一些自由至上主义者，如经济学家米尔顿·弗里德曼，认为企业的社会责任就是增加利润，因此企业慈善无异于窃取股东资产（Friedman 1970）[^friedman-1970]。企业利润是股东的财产，决定是否捐赠、如何捐赠是股东的权利，而不是企业管理者的权利。晚近一种“市场失灵”观点认为，企业通过追求效率来最大化其对社会福利的贡献，而它们靠尽责的逐利行为实现效率（Heath 2014）[^heath-2014]。从这个视角看，通过慈善直接追求好结果，可能降低企业的效率收益，并损害其对社会福利的贡献。民主批评者质疑企业捐赠项目对政治平等的潜在扭曲——它们可能让企业对共同关切的事务拥有不成比例的影响力——以及企业的商业目标可能如何扭曲其慈善优先事项（Lechterman 2022; Saunders-Hastings 2022b）[^lechterman-2022][^saunders-hastings-2022b]。一种常见的愤世嫉俗看法则把慈善视为转移注意力之举，使人不去注意企业其他业务领域的不当行为与剥削。企业慈善的批评者常常同意：某些有限形式的企业捐赠即便不是道德上必需，在某些情况下也可能是道德上可允许的，例如在紧急情况下共享专有资源（Mejia 2021）[^mejia-2021]。
+    step2: |-
+      过去几十年慈善实践中最引人注目的发展之一，是试图把慈善与商业活动结合起来。企业应当从事慈善吗？如果应当，又该如何做？强有力的社会规范支持把一部分利润捐给慈善事业。例如，企业慈善可以被证成：企业拥有剩余资源，而这些资源往往可以比用来抬高高管薪酬或填塞股东腰包得到更好的用途。也许企业因其享有的许多特权而欠社会一笔捐赠。然而，企业慈善也招致根本性批评。一些自由至上主义者，如经济学家米尔顿·弗里德曼，认为企业的社会责任就是增加利润，因此企业慈善无异于窃取股东资产（Friedman 1970）[^friedman-1970]。企业利润是股东的财产，决定是否捐赠、如何捐赠是股东的权利，而不是企业管理者的权利。晚近一种“市场失灵”观点认为，企业通过追求效率来最大化其对社会福利的贡献，而它们靠尽责的逐利行为实现效率（Heath 2014）[^heath-2014]。从这个视角看，通过慈善直接追求好结果，可能降低企业的效率收益，并损害其对社会福利的贡献。民主批评者质疑企业捐赠项目对政治平等的潜在扭曲——它们可能让企业对共同关切的事务拥有不成比例的影响力——以及企业的商业目标可能如何扭曲其慈善优先事项（Lechterman 2022; Saunders-Hastings 2022b）[^lechterman-2022][^saunders-hastings-2022b]。一种常见的愤世嫉俗看法则把慈善视为转移注意力之举，使人不去注意企业其他业务领域的不当行为与剥削。企业慈善的批评者常常同意：某些有限形式的企业捐赠即便不是道德上必需，在某些情况下也可能是道德上可允许的，例如在紧急情况下共享专有资源（Mejia 2021）[^mejia-2021]。
   - id: 75
     kind: body
     source: |-
       A more recent development shows organizations blending commercial and philanthropic purposes more fundamentally, by designing business models that seek to achieve social goals using commercial tactics. So-called social enterprise offers many potential advantages. For instance, by eliminating donations from the equation, such organizations may work against longstanding worries about inequitable benefactor-beneficiary relations. Additionally, the ability to draw on multiple funding sources may make their services easier to sustain. But their unusual combination of purposes and tactics may create conflicts of interest that create challenges for their stakeholders. The aggressive pursuit of social-problem-solving by entrepreneurs may also raise democratic concerns about power and voice. Under what conditions is social enterprise a morally superior approach to conventional philanthropy or business, a valuable complement to conventional forms and strategies, or neither (Lechterman & Mair 2024)[^lechterman-2024]?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      晚近一种发展显示，组织正在更根本地混合商业与慈善目的，通过设计用商业手段实现社会目标的商业模式。所谓社会企业提供了许多潜在优势。例如，通过把捐赠从等式中去掉，这类组织可能有助于缓解关于施惠者—受益人关系不公平的长期担忧。此外，能够动用多种资金来源，可能使其服务更容易维持。但它们不同寻常的目的与手段组合，可能造成利益冲突，给其利益相关者带来挑战。创业者对社会问题解决的积极追求，也可能引发关于权力与声音的民主担忧。在什么条件下，社会企业是比常规慈善或商业在道德上更优越的进路、是对常规形式与策略的有价值补充，抑或两者都不是（Lechterman & Mair 2024）[^lechterman-2024]？
+    step2: |-
+      晚近一种发展显示，组织正在更根本地混合商业与慈善目的，通过设计用商业手段实现社会目标的商业模式。所谓社会企业提供了许多潜在优势。例如，通过把捐赠从等式中去掉，这类组织可能有助于缓解关于施惠者—受益人关系不公平的长期担忧。此外，能够动用多种资金来源，可能使其服务更容易维持。但它们不同寻常的目的与手段组合，可能造成利益冲突，给其利益相关者带来挑战。创业者对社会问题解决的积极追求，也可能引发关于权力与声音的民主担忧。在什么条件下，社会企业是比常规慈善或商业在道德上更优越的进路、是对常规形式与策略的有价值补充，抑或两者都不是（Lechterman & Mair 2024）[^lechterman-2024]？
   - id: 76
     kind: body
     source: |-
       ### 5.3 Tax Treatment of Giving
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.3 捐赠的税收待遇
+    step2: |-
+      ### 5.3 捐赠的税收待遇
   - id: 77
     kind: body
     source: |-
       In the modern age, philanthropy is a legally codified and institutionalized practice. It’s possible, of course, to give money away outside the sight of the state. But contemporary philanthropy is embedded within a legal framework, varying across societies, that structures and defines its practice. Whether, when, to whom, and how much a person gives is to some extent a consequence of laws that govern the establishment of not-for-profit organizations, charitable trusts, philanthropic and community foundations, and related charitable vehicles such as donor-advised funds. Donor intent is protected by the law in many different countries, and charitable endowments and philanthropic foundations are often legally designed to exist beyond the grave in perpetuity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在现代，慈善是一种在法律上被编纂、并被制度化的实践。当然，可以在国家视线之外把钱捐出去。但当代慈善嵌入一个因社会而异的法律框架之中，该框架建构并界定其实践。一个人是否捐赠、何时捐赠、捐给谁、捐多少，在某种程度上取决于规范非营利组织、慈善信托、慈善与社区基金会，以及捐赠者建议基金等相关慈善工具之设立的法律。捐赠者意图在许多国家受到法律保护，慈善基金与慈善基金会常常在法律上被设计为在捐赠者身后永久存续。
+    step2: |-
+      在现代，慈善是一种在法律上被编纂、并被制度化的实践。当然，可以在国家视线之外把钱捐出去。但当代慈善嵌入一个因社会而异的法律框架之中，该框架建构并界定其实践。一个人是否捐赠、何时捐赠、捐给谁、捐多少，在某种程度上取决于规范非营利组织、慈善信托、慈善与社区基金会，以及捐赠者建议基金等相关慈善工具之设立的法律。捐赠者意图在许多国家受到法律保护，慈善基金与慈善基金会常常在法律上被设计为在捐赠者身后永久存续。
   - id: 78
     kind: body
     source: |-
       Beyond establishing legal entities and frameworks, however, one of the most distinctive and controversial practices concerns whether the law should provide affirmative encouragement for philanthropy via advantageous tax treatment. Philanthropy is often considered a paradigmatic example of voluntary activity, nothing more than the rightful exercise of one’s liberty to dispose of one’s possessions as one likes. But in many countries, philanthropy is a tax-advantaged activity, and therefore subsidized by citizens.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，除了设立法律实体与框架，最具特色、也最有争议的实践之一，是法律是否应通过优惠税收待遇对慈善给予积极鼓励。慈善常被视为自愿活动的典范，不过是正当行使按自己所好处置财产的自由。但在许多国家，慈善是一种享有税收优惠的活动，因而由公民补贴。
+    step2: |-
+      然而，除了设立法律实体与框架，最具特色、也最有争议的实践之一，是法律是否应通过优惠税收待遇对慈善给予积极鼓励。慈善常被视为自愿活动的典范，不过是正当行使按自己所好处置财产的自由。但在许多国家，慈善是一种享有税收优惠的活动，因而由公民补贴。
   - id: 79
     kind: body
     source: |-
       The tax treatment of charitable donations in the United States allows individuals to deduct (up to some limit) the sum of their eligible charitable donations from their taxable income. However, this policy instrument contains a plutocratic bias that favors the wealthy and their charitable projects. The deduction creates an “upside-down effect” where higher income earners in a system of progressive taxation receive a larger subsidy for the same charitable contribution compared to lower income earners. Insofar as charitable giving is a virtue, the cost of virtue is distributed unevenly.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      美国的慈善捐赠税收待遇允许个人从应税收入中扣除（有上限）其合格慈善捐赠的总额。然而，这一政策工具带有财阀偏向，有利于富人及其慈善项目。该扣除造成一种“倒挂效应”：在累进税制中，较高收入者为同一笔慈善捐赠获得的补贴比较低收入者更多。若慈善给予是一种德性，那么德性的代价分配不均。
+    step2: |-
+      美国的慈善捐赠税收待遇允许个人从应税收入中扣除（有上限）其合格慈善捐赠的总额。然而，这一政策工具带有财阀偏向，有利于富人及其慈善项目。该扣除造成一种“倒挂效应”：在累进税制中，较高收入者为同一笔慈善捐赠获得的补贴比较低收入者更多。若慈善给予是一种德性，那么德性的代价分配不均。
   - id: 80
     kind: body
     source: |-
       But if the distribution of charitable contributions were directed chiefly, or better exclusively, at the deprived and disadvantaged, the plutocratic bias of a tax deduction might be less objectionable. Whatever the amount of the subsidy, it is the beneficiary that matters most. Liam Murphy and Thomas Nagel point in this direction:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但如果慈善捐赠的流向主要、或更好地专一地指向贫困与弱势者，税收扣除的财阀偏向或许就不那么可反对了。无论补贴数额多少，最要紧的是受益人。利亚姆·墨菲与托马斯·内格尔正指向这一点：
+    step2: |-
+      但如果慈善捐赠的流向主要、或更好地专一地指向贫困与弱势者，税收扣除的财阀偏向或许就不那么可反对了。无论补贴数额多少，最要紧的是受益人。利亚姆·墨菲与托马斯·内格尔正指向这一点：
   - id: 81
     kind: body
     source: |-
       > The word charity suggests that this deduction is a means of decentralizing the process by which a community discharges its collective responsibility to alleviate the worst aspects of life at the bottom of the socioeconomic ladder. Since there is disagreement about what the exact nature of that responsibility is, and about which are the most efficient agencies, it is arguably a good idea for the state to subsidize individuals’ contributions to agencies of their choice rather than making all the decisions about the use of public funds for this purpose. (Murphy & Nagel 2002: 127)[^murphy-2002]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > “慈善”一词意味着，这一扣除是把共同体履行其减轻社会经济阶梯底层最恶劣生活之集体责任的过程加以分散化的一种手段。由于对于该责任的确切性质、以及哪些机构最有效率存在分歧，国家补贴个人向其所选机构的捐赠、而不是替所有人决定公共资金在此的用途，或许是个好主意。（Murphy & Nagel 2002: 127）[^murphy-2002]
+    step2: |-
+      > “慈善”一词意味着，这一扣除是把共同体履行其减轻社会经济阶梯底层最恶劣生活之集体责任的过程加以分散化的一种手段。由于对于该责任的确切性质、以及哪些机构最有效率存在分歧，国家补贴个人向其所选机构的捐赠、而不是替所有人决定公共资金在此的用途，或许是个好主意。（Murphy & Nagel 2002: 127）[^murphy-2002]
   - id: 82
     kind: body
     source: |-
       But they quickly reverse ground because the catalogue of eligible charitable organizations in the United States includes cultural and educational organizations, far beyond organizations whose mission it is to fight poverty and disadvantage.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但他们很快又改弦更张，因为美国合格慈善组织的名录包括文化与教育组织，远远超出以抗击贫困与不利处境为使命的组织。
+    step2: |-
+      但他们很快又改弦更张，因为美国合格慈善组织的名录包括文化与教育组织，远远超出以抗击贫困与不利处境为使命的组织。
   - id: 83
     kind: body
     source: |-
       If support for the pluralism of civil society rather than the fulfillment of basic needs is the rationale for public subsidies for philanthropy, then the policy instrument of a charitable tax deduction is harder to support. The plutocratic bias in the charitable deduction policies means that the public funds forgone due to the deduction flow disproportionately to the favored charities and causes of the wealthy. The charitable priorities of the rich are weighted more heavily than those of lower and middle-income households. According to data from 2005, the distribution of charitable giving across causes differs significantly between high-income and general households. Religious and basic-needs organizations receive a much smaller share of donations from high-income households compared to the general population (Reich 2018: chapter 2)[^reich-2018].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果补贴慈善的理由是支持公民社会的多元主义，而不是满足基本需要，那么慈善税收扣除这一政策工具就更难得到支持。慈善扣除政策中的财阀偏向意味着，因扣除而放弃的公共资金不成比例地流向富人所偏爱的慈善机构与事业。富人的慈善优先事项，比中低收入家庭的优先事项权重更大。根据 2005 年的数据，高收入家庭与一般家庭在各类事业上的慈善捐赠分布差异显著。与一般人群相比，宗教与基本需要组织在高收入家庭的捐赠中所占份额小得多（Reich 2018: 第 2 章）[^reich-2018]。
+    step2: |-
+      如果补贴慈善的理由是支持公民社会的多元主义，而不是满足基本需要，那么慈善税收扣除这一政策工具就更难得到支持。慈善扣除政策中的财阀偏向意味着，因扣除而放弃的公共资金不成比例地流向富人所偏爱的慈善机构与事业。富人的慈善优先事项，比中低收入家庭的优先事项权重更大。根据 2005 年的数据，高收入家庭与一般家庭在各类事业上的慈善捐赠分布差异显著。与一般人群相比，宗教与基本需要组织在高收入家庭的捐赠中所占份额小得多（Reich 2018: 第 2 章）[^reich-2018]。
   - id: 84
     kind: body
     source: |-
       If a key justification for tax exemptions for charitable giving is to support a diverse and pluralistic civil society that amplifies the voices of citizens, then the current charitable deduction fails this test. Its plutocratic bias makes it indefensible from the perspective of supporting democracy. Some argue that the tax advantages should be eliminated. Others, such as Pevnick (2016), argue that it should be replaced with a flat tax credit, available to all taxpayers, that provides an equal subsidy for the charitable contributions of all citizens regardless of income. This would better align tax policy with the aim of promoting equality of citizen voice and influence in civil society.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果慈善捐赠税收豁免的一个关键理由，是支持一个放大公民声音的多元公民社会，那么现行慈善扣除未能通过这一检验。其财阀偏向使其从支持民主的角度看不可辩护。有人主张应取消税收优惠。其他人，如佩夫尼克（2016），主张应代之以一种统一的税收抵免，向所有纳税人开放，对全体公民的慈善捐赠给予同等补贴，不论收入高低。这将使税收政策更好地与促进公民在公民社会中声音与影响平等的目标相一致。
+    step2: |-
+      如果慈善捐赠税收豁免的一个关键理由，是支持一个放大公民声音的多元公民社会，那么现行慈善扣除未能通过这一检验。其财阀偏向使其从支持民主的角度看不可辩护。有人主张应取消税收优惠。其他人，如佩夫尼克（2016），主张应代之以一种统一的税收抵免，向所有纳税人开放，对全体公民的慈善捐赠给予同等补贴，不论收入高低。这将使税收政策更好地与促进公民在公民社会中声音与影响平等的目标相一致。
   - id: 85
     kind: body
     source: |-
       ## 6. Conclusion
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6. 结论
+    step2: |-
+      ## 6 结论
   - id: 86
     kind: body
     source: |-
       This entry has traced debates over the concept, conception, and practice of philanthropy across periods and schools of philosophical thought. As we have seen, philanthropy raises ethical and political issues that have long been subjects of philosophical investigation; more recently, a contemporary philosophical literature has developed that considers philanthropy as a distinctive space of ethical and political action. Space limitations naturally preclude a comprehensive treatment of the topics we have chosen, and we have omitted many interesting and important topics altogether. We have made only brief contact with the ethics of nonprofit organizations (the intermediaries of philanthropic gifts), as a related but distinct topic of philosophical study. We have entirely ignored the question of state philanthropy, i.e., whether philanthropy is something in which states can also engage, and if so, how such a practice might figure in moral and political philosophy (Dworkin 1985; Murphy & Nagel 2002; Weinberg 2011)[^dworkin-1985][^murphy-2002][^weinberg-2011]. As philosophers show increasing interest in the topic of philanthropy, we look forward to further efforts to unravel lingering puzzles about this crucial and stimulating topic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本文梳理了各时期、各哲学流派关于慈善的概念、构想与实践的争论。如我们所见，慈善提出的伦理与政治问题，长期以来一直是哲学研究的主题；晚近更发展出一支当代哲学文献，把慈善视为伦理与政治行动的独特空间。篇幅所限，自然无法对所选主题作全面处理，我们也完全省略了许多有趣而重要的主题。我们只是简要触及非营利组织（慈善赠与的中介）的伦理，把它作为一个相关但独立的哲学研究主题。我们完全忽略了国家慈善的问题，即国家是否也能从事慈善，若能，这种实践又如何在道德与政治哲学中定位（Dworkin 1985; Murphy & Nagel 2002; Weinberg 2011）[^dworkin-1985][^murphy-2002][^weinberg-2011]。随着哲学家对慈善主题兴趣日增，我们期待更多努力，解开这个关键而令人兴奋的主题上遗留的谜题。
+    step2: |-
+      本文梳理了各时期、各哲学流派关于慈善的概念、构想与实践的争论。如我们所见，慈善提出的伦理与政治问题，长期以来一直是哲学研究的主题；晚近更发展出一支当代哲学文献，把慈善视为伦理与政治行动的独特空间。篇幅所限，自然无法对所选主题作全面处理，我们也完全省略了许多有趣而重要的主题。我们只是简要触及非营利组织（慈善赠与的中介）的伦理，把它作为一个相关但独立的哲学研究主题。我们完全忽略了国家慈善的问题，即国家是否也能从事慈善，若能，这种实践又如何在道德与政治哲学中定位（Dworkin 1985; Murphy & Nagel 2002; Weinberg 2011）[^dworkin-1985][^murphy-2002][^weinberg-2011]。随着哲学家对慈善主题兴趣日增，我们期待更多努力，解开这个关键而令人兴奋的主题上遗留的谜题。
   - id: 87
     kind: oir
     source: |-
       [Please contact the author with suggestions.]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ［请与作者联系提出建议。］
+    step2: |-
+      ［请与作者联系提出建议。］
