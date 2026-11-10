@@ -123,104 +123,138 @@ segments:
     kind: body
     source: |-
       Traditionally, hermeneutics is taken to have its origins in problems of biblical exegesis and in the development of a theoretical framework to govern and direct such exegetical practice. In the hands of eighteenth and early nineteenth century theorists, writers such as Chladenius and Meier, Ast and Schleiermacher, hermeneutics was developed into a more encompassing theory of textual interpretation in general—a set of rules that provide the basis for good interpretive practice no matter what the subject matter. Inasmuch as hermeneutics is the method proper to the recovery of meaning, so Wilhelm Dilthey broadened hermeneutics still further, taking it as the methodology for the recovery of meaning that is essential to understanding within the ‘human’ or ‘historical’ sciences (the *Geisteswissenschaften*). For these writers, as for many others, the basic problem of hermeneutics was methodological: how to found the human sciences, and so how to found the science of interpretation, in a way that would make them properly ‘scientific’. Moreover, if the mathematical models and procedures that appeared to be the hallmark of the sciences of nature could not be duplicated in the human sciences, then the task at issue must involve finding an alternative methodology proper to the human sciences as such—hence Schleiermacher’s ambition to develop a formal methodology that would codify interpretive practice, while Dilthey aimed at the elaboration of a ‘psychology’ that would elucidate and guide interpretive understanding.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      传统上，诠释学被认为起源于圣经解经的问题，以及为支配和指导这类解经实践而发展出的理论框架。在十八与十九世纪初的理论家——克拉登尼乌斯、迈尔、阿斯特与施莱尔马赫等人——手中，诠释学被发展成一种更具包容性的文本诠释一般理论，即一套为良好诠释实践提供基础的规则，无论主题是什么。既然诠释学是恢复意义的固有方法，威廉·狄尔泰便进一步扩展诠释学，把它当作恢复意义的方法论，而这种恢复对于“人文”或“历史”科学（*Geisteswissenschaften*）中的理解是本质性的。对这些作者以及许多其他人来说，诠释学的基本问题是方法论问题：如何为精神科学奠基，从而如何为诠释的科学奠基，使它们真正成为“科学的”。而且，如果那些看似自然科学标志的数学模型与程序无法在精神科学中复制，那么当下的任务就必须是找到一种专属于精神科学本身的方法论——于是有施莱尔马赫要发展一套形式方法论以编纂诠释实践的雄心，而狄尔泰则以阐明一种能廓清并指导诠释理解的“心理学”为目标。
+    step2: |-
+      传统上，诠释学被认为起源于圣经解经问题，以及为支配和指导这类解经实践而发展出的理论框架。在十八与十九世纪初的理论家手中——克拉登尼乌斯、迈尔、阿斯特与施莱尔马赫等人——诠释学被发展成一种更具包容性的文本诠释一般理论：一套为良好诠释实践提供基础的规则，无论主题为何。既然诠释学是恢复意义的固有方法，威廉·狄尔泰便进一步扩展诠释学，把它当作恢复意义的方法论；而这种恢复对于“人文”或“历史”科学（*Geisteswissenschaften*，精神科学）中的理解是本质性的。对这些作者以及许多其他人来说，诠释学的基本问题在于方法论：如何为精神科学奠基，从而如何为诠释的科学奠基，使它们真正成为“科学的”。而且，如果那些看似自然科学标志的数学模型与程序无法在精神科学中复制，那么当务之急就是找到一种专属于精神科学本身的方法论——于是有施莱尔马赫要发展一套形式方法论以编纂诠释实践的雄心，而狄尔泰则以阐明一种能廓清并指导诠释理解的“心理学”为目标。
   - id: 16
     kind: body
     source: |-
       Already familiar with earlier hermeneutic thinking, Heidegger redeployed hermeneutics to a very different purpose and within a very different frame. In Heidegger’s early thinking, particularly the lectures from the early 1920s (‘The Hermeneutics of Facticity’), hermeneutics is presented as that by means of which the investigation of the basic structures of factical existence is to be pursued—not as that which constitutes a ‘theory’ of textual interpretation nor a method of ‘scientific’ understanding, but rather as that which allows the self-disclosure of the structure of understanding as such. The ‘hermeneutic circle’ that had been a central idea in previous hermeneutic thinking, and that had been viewed in terms of the interpretative interdependence, within any meaningful structure, between the parts of that structure and the whole, was transformed by Heidegger, so that it was now seen as expressing the way in which all understanding was ‘always already’ given over to that which is to be understood (to ‘the things themselves’—*die Sachen selbst*). Thus, to take a simple example, if we wish to understand some particular artwork, we must already have some prior understanding of that work (even if only as a set of paint marks on canvas), otherwise it cannot even be seen as something to be understood. To put the point more generally, and in more basic ontological terms, if we are to understand anything at all, we must already find ourselves ‘in’ the world ‘along with’ that which is to be understood. All understanding that is directed at the grasp of some particular subject matter is thus based in a prior ‘ontological’ understanding—a prior hermeneutical situatedness. On this basis, hermeneutics can be understood as the attempt to ‘make explicit’ the structure of such situatedness. Yet since that situatedness is indeed prior to any specific event of understanding, so it must always be presupposed even in the attempt at its own explication. Consequently, the explication of this situatedness—of this basic ontological mode of understanding—is essentially a matter of exhibiting or ‘laying-bare’ a structure with which we are already familiar (as well as a structure that is present in every event of understanding) and in which we are already embedded. In this respect, hermeneutics becomes one with phenomenology, itself understood, in Heidegger’s thinking, as just such a ‘laying bare’ (it also takes the form, given the focus on situation and situatedness, of what Heidegger later calls a ‘topology’ (*Topologie*) or a ‘saying of place’—see Malpas 2014).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      海德格尔早已熟悉先前的诠释学思想，但他把诠释学重新部署于非常不同的目的与框架之中。在海德格尔的早期思想中，尤其是 1920 年代初的讲座（《实际性的诠释学》），诠释学被呈现为借以探究实际生存之基本结构的东西，它不是文本诠释的“理论”，也不是“科学的”理解方法，而是使理解本身的结构得以自我显露的东西。先前诠释学思想的核心观念“诠释学循环”——曾被理解为任何有意义结构中部分与整体之间的诠释性相互依赖——经海德格尔改造，现在被看作表达了一切理解都“始终已经”交付给所要理解的东西（交付给“事情本身”，*die Sachen selbst*）。举个简单的例子：如果我们想理解某件艺术品，我们必须已经对该作品有所先行理解（哪怕只是把它看作画布上的一组颜料痕迹），否则它甚至不能被看作有待理解的东西。更一般地说，用更基本的本体论措辞：如果要理解任何东西，我们必须已经发现自己“在”世界之中，“与”所要理解的东西“一道”。一切指向把握某个特定主题的理解，都因此基于一种先行的“本体论”理解，即一种先行的诠释学处境性。在此基础之上，诠释学可以被理解为使这种处境性的结构“明确化”的尝试。然而，既然该处境性确实先于任何具体的理解事件，那么即使在试图阐明它自身时，也必须始终预设它。因此，对这种处境性的阐明，本质上是展示或“剥露”一种我们已熟悉、且我们已嵌入其中的结构，这种结构也存在于每一个理解事件中。就此而言，诠释学与现象学合而为一；在海德格尔的思想中，现象学正被理解为这样一种“剥露”（鉴于对处境与处境性的关注，它也采取海德格尔后来所谓“拓扑学”*Topologie*或“场所之言”的形态——见 Malpas 2014）。
+    step2: |-
+      海德格尔早已熟悉先前的诠释学思想，却把诠释学重新部署于大不相同的目的与框架。在他 1920 年代初的讲座（《实际性的诠释学》）中，诠释学被呈现为借以探究实际生存之基本结构的东西：它既不是文本诠释的“理论”，也不是“科学的”理解方法，而是使理解本身的结构得以自我显露的东西。先前诠释学思想的核心观念“诠释学循环”——曾被理解为任何有意义结构中部分与整体之间的诠释性相互依赖——经海德格尔改造，现在被看作表达了一切理解都“始终已经”交付给所要理解的东西（交付给“事情本身”，*die Sachen selbst*）。举个简单的例子：如果我们想理解某件艺术品，我们必须已经对该作品有所先行理解（哪怕只是把它看作画布上的一组颜料痕迹），否则它甚至不能被看作有待理解的东西。更一般地说，用更基本的本体论措辞：若要理解任何东西，我们必须已经发现自己“在”世界之中、“与”所要理解的东西“一道”。因此，一切旨在把握某个特定主题的理解，都基于一种先行的“本体论”理解，即一种先行的诠释学处境性。在这个基础上，诠释学可以被理解为使这种处境性的结构“明确化”的尝试。然而，该处境性既然确实先于任何具体的理解事件，那么即使在试图阐明它自身时，也必须始终预设它。所以，对这种处境性——对这种基本本体论的理解方式——的阐明，本质上是展示或“剥露”一种我们已熟悉、且已嵌入其中的结构，这种结构也存在于每一个理解事件之中。就此而言，诠释学与现象学合而为一；在海德格尔的思想中，现象学正被理解为这样一种“剥露”（鉴于其对处境与处境性的关注，它也采取海德格尔后来所谓“拓扑学”*Topologie*或“场所之言”的形态——见 Malpas 2014）。
   - id: 17
     kind: body
     source: |-
       It is hermeneutics, in this Heideggerian and phenomenological sense, that is taken up in Gadamer’s work, and that leads him, in conjunction with certain other insights from Heidegger’s later thinking, as well as the ideas of dialogue and practical wisdom, to elaborate a philosophical hermeneutics that provides an account of the nature of understanding in its universality (where this refers both to the ontologically fundamental character of the hermeneutical situation and the all-encompassing nature of hermeneutic practice) and, in the process, to develop a response to the earlier hermeneutic tradition’s preoccupation with the problem of interpretive method. In these respects, Gadamer’s work, in conjunction with that of Heidegger, represents a radical reworking of the idea of hermeneutics that constitutes a break with the preceding hermeneutical tradition at the same time as it also reflects back on that tradition. Gadamer thus develops a philosophical hermeneutics that provides an account of the proper ground for understanding, while nevertheless rejecting the attempt, whether in relation to the *Geisteswissenschaften* or elsewhere, to found understanding on any method or set of rules. This is not a rejection of the importance of methodological concerns, but rather an insistence on the limited role of method and the priority of understanding as a dialogic, practical, situated activity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正是这种海德格尔式、现象学意义上的诠释学被伽达默尔的工作所接续，并引导他——结合海德格尔后期思想的某些洞见，以及对话与实践智慧的观念——阐发一种哲学诠释学，它说明理解在其普遍性中的本性（这里的普遍性既指诠释学处境的本体论根本品格，也指诠释实践的无所不包），并在此过程中对早先诠释学传统执着于诠释方法问题作出回应。就此而言，伽达默尔的工作与海德格尔的工作一道，代表了对诠释学观念的一次彻底改造：它与此前的诠释学传统断裂，同时又回照该传统。于是伽达默尔发展出一种哲学诠释学，它说明了理解的正当根据，却拒绝把理解奠基于任何方法或规则集，无论就精神科学还是就其他地方而言。这并不是否定方法论关切的重要性，而是坚持方法的有限作用，以及理解作为对话性、实践性、处境性活动的优先性。
+    step2: |-
+      正是这种海德格尔式、现象学意义上的诠释学，被伽达默尔接了过来；他结合海德格尔后期思想的某些洞见以及对话与实践智慧的观念，阐发了一种哲学诠释学。这种诠释学说明了理解在其普遍性中的本性（普遍性既指诠释学处境的本体论根本品格，也指诠释实践的无所不包），并在此过程中回应了早先诠释学传统对诠释方法问题的执着。就此而言，伽达默尔与海德格尔的工作代表了对诠释学观念的一次彻底改造：它与此前的诠释学传统断裂，同时又回照该传统。伽达默尔因而发展出一种哲学诠释学，它说明了理解的正当根据，却拒绝把理解奠基于任何方法或规则集——无论就精神科学还是就其他地方而言。这并非否定方法论关切的重要性，而是坚持方法的有限作用，以及理解作为对话性、实践性、处境性活动的优先性。
   - id: 18
     kind: body
     source: |-
       ### 2.3 Aesthetics and Subjectivism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.3. 美学与主体主义
+    step2: |-
+      ### 2.3 美学与主体主义
   - id: 19
     kind: body
     source: |-
       In 1936 Heidegger gave three lectures on ‘The Origin of the Work of Art’. In these lectures, not published until 1950 (but which Gadamer heard at the time of their original presentation, see Gadamer 1997b, 47), Heidegger connects art with truth, arguing that the essence of the artwork is not its ‘representational’ character, but rather its capacity to allow the disclosure of a world. Thus the Greek temple establishes the ‘Greek’ world and in so doing allows things to take on a particular appearance within that world. Heidegger refers to this event of disclosure as the event of ‘truth’. The sense of truth at issue here is one that Heidegger presents in explicit contrast to what he views as the traditional concept of truth as ‘correctness’. Such correctness is usually taken to consist in some form of correspondence between individual statements and the world, but so-called ‘coherence’ accounts of truth, according to which truth is a matter of the consistency of a statement with a larger body of statements, can also be viewed as based upon the same underlying notion of truth as ‘correctness’. While Heidegger does not abandon the notion of truth as ‘correctness’, he argues that it is derivative of a more basic sense of truth as what he terms ‘unconcealment’. Understood in this latter sense, truth is not a property of statements as they stand in relation to the world, but rather an event or process in and through which both the things of the world and what is said about them come to be revealed at one and the same time—the possibility of ‘correctness’ arises on the basis of just such ‘unconcealment’.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1936 年，海德格尔作了三次关于《艺术作品的本源》的讲座。这些讲座直到 1950 年才出版（但伽达默尔在最初讲演时就听过，见 Gadamer 1997b, 47）。海德格尔在其中把艺术与真理联系起来，主张艺术作品的本质不在于其“再现”品格，而在于它让一个世界得以敞开的能力。希腊神庙由此建立起“希腊的”世界，并在此世界中让事物呈现出特定的面貌。海德格尔把这一敞开事件称为“真理”事件。这里所说的真理意义，是他明确用来对照他所理解的“正确性”真理观的。这种正确性通常被理解为个别陈述与世界之间的某种符合；但所谓真理的“融贯”论——按此真理是陈述与更大陈述体之间的一致性——也可以被视为基于同样的“正确性”真理观。海德格尔并不放弃“正确性”意义上的真理，但他主张它派生于一种更基本的真理意义，即他所谓的“无蔽”。在后一种意义上，真理不是陈述与世界发生关系时的属性，而是一个事件或过程：世界中的事物以及关于它们的言说在其中同时得以显露——“正确性”的可能性正基于这种“无蔽”。
+    step2: |-
+      1936 年，海德格尔作了三次关于《艺术作品的本源》的讲座。讲座直到 1950 年才出版，但伽达默尔当年就听过（见 Gadamer 1997b, 47）。海德格尔在其中把艺术与真理关联起来，主张艺术作品的本质不在其“再现”品格，而在其让一个世界得以敞开的能力。希腊神庙由此建立起“希腊的”世界，并让事物在其中呈现出特定面貌。海德格尔把这一敞开事件称为“真理”事件。这里所说的真理，是他明确用来对照其所谓“正确性”真理观的。正确性通常被理解为个别陈述与世界之间的某种符合；但所谓真理的“融贯”论——真理在于陈述与更大陈述体之间的一致性——也可视为基于同一种“正确性”真理观。海德格尔并不放弃“正确性”意义上的真理，但主张它派生于一种更基本的真理意义，即他所谓的“无蔽”。在后一种意义上，真理不是陈述与世界关系中的属性，而是一个事件或过程：世界中的事物与关于它们的言说在其中同时显露；“正确性”的可能性正奠基于这种“无蔽”。
   - id: 20
     kind: body
     source: |-
       It is important to recognize, however, that the unconcealment at issue is not a matter of the bringing about of some form of complete and absolute transparency. The revealing of things is, in fact, always dependent upon other things being simultaneously concealed (in much the same way as seeing something in one way depends on not seeing it in another). Truth is thus understood as the unconcealment that allows things to appear, and that also makes possible the truth and falsity of individual statements, and yet which arises on the basis of the ongoing play between unconcealment *and* concealment—a play that, for the most part, remains itself hidden and is never capable of complete elucidation. In the language Heidegger employs in ‘The Origin of the Work of Art’, the unconcealment of ‘world’ is thereby grounded in the concealment of ‘earth’. It is this sense of truth as the emergence of things into unconcealment that occurs on the basis of the play between concealing and unconcealing that is taken by Heidegger as the essence (or ‘origin’) of the work of art. This idea of truth, as well as the poetic language Heidegger employed in his exposition, had a decisive effect on Gadamer’s own thinking. Indeed, Gadamer described his philosophical hermeneutics as precisely an attempt “to take up and elaborate this line of thinking from the later Heidegger” (Gadamer 1997b, 47)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而必须认识到，这里所说的无蔽并不是要造成某种完备而绝对的透明。事实上，事物的显露始终依赖于其他事物同时被遮蔽（这与“以一种方式看见某物依赖于不以另一种方式看见它”颇为相似）。于是真理被理解为那种让事物得以显现、并使个别陈述的真与假成为可能的无蔽；然而它产生于无蔽*与*遮蔽之间持续不断的游戏——这种游戏多半本身仍隐而不显，也永远无法被完全阐明。用海德格尔在《艺术作品的本源》中的话说，“世界”的无蔽因此奠基于“大地”的遮蔽。正是这种“事物在遮蔽与无蔽之游戏中进入无蔽”的真理意义，被海德格尔当作艺术作品的本质（或“本源”）。这种真理观念，以及海德格尔在阐述中所使用的诗性语言，对伽达默尔本人的思想产生了决定性影响。事实上，伽达默尔把自己的哲学诠释学恰好描述为一种尝试：“接续并阐发后期海德格尔的这一思路”（Gadamer 1997b, 47）。
+    step2: |-
+      然而必须认识到：这里所说的无蔽并非要造成某种完备而绝对的透明。事实上，事物的显露始终依赖其他事物同时被遮蔽（很像以某种方式看见某物，依赖着不以另一种方式看它）。真理因此被理解为那种让事物显现、并使个别陈述的真与假成为可能的无蔽；但它产生于无蔽*与*遮蔽之间持续的游戏——这游戏多半本身仍隐而不显，也永不能被完全阐明。用海德格尔《艺术作品的本源》中的话说，“世界”的无蔽因此奠基于“大地”的遮蔽。正是这种真理意义——事物在遮蔽与无蔽的游戏之中进入无蔽——被海德格尔当作艺术作品的本质（或“本源”）。这种真理观念，以及他在阐述时所用的诗性语言，对伽达默尔本人的思想产生了决定性影响。伽达默尔甚至把自己的哲学诠释学径直描述为一种尝试：“接续并阐发后期海德格尔的这一思路”（Gadamer 1997b, 47）。
   - id: 21
     kind: body
     source: |-
       There are two crucial elements to Gadamer’s appropriation of Heidegger here: first, the focus on art, and the connection of art with truth; second, the focus on truth itself as the event of prior and partial disclosure (or more properly, of concealment/unconcealment) in which we are already involved and that can never be made completely transparent. Both of these elements are connected with Gadamer’s response to the subjectivist and idealist elements in German thought that were present in the neo-Kantian tradition, and, more specifically, in romantic hermeneutics and aesthetic theory. As Gadamer saw it, aesthetic theory had, largely under the influence of Kant, become alienated from the actual experience of art—the response to art had become abstracted and ‘aestheticised’—while aesthetic judgment had become purely a matter of taste, and so of subjective response. Similarly, under the influence of the ‘scientific’ historiography of those such as Ranke, together with the romantic hermeneutics associated with Schleiermacher and others, the desire for objectivity had led to the separation of historical understanding from the contemporary situation that motivates it, and to a conception of historical method as based in the reconstruction of the subjective experiences of the author—a reconstruction that, as Hegel made clear, is surely impossible (see Gadamer 1989b, 164–9).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      伽达默尔在此对海德格尔的吸取有两个关键要素：第一，聚焦于艺术，以及艺术与真理的关联；第二，聚焦于真理本身，即作为先行的、部分的敞开（更确切地说，是遮蔽/无蔽）的事件，我们始终已卷入其中，且它永远无法被完全透明化。这两个要素都与伽达默尔对德国思想中主体主义与唯心主义要素的回应相关——这些要素见于新康德主义传统，更具体地说，见于浪漫主义诠释学与美学理论。在伽达默尔看来，美学理论在很大程度上受康德影响，已与艺术的实际经验相疏离——对艺术的回应变得抽象并被“审美化”——而审美判断变成了纯粹趣味之事，从而是主观回应之事。同样，在兰克等人“科学的”历史编纂学以及施莱尔马赫等人的浪漫主义诠释学影响下，对客观性的渴望导致历史理解被与其当代处境（正是该处境激发历史理解）相分离，并导致一种历史方法观：它基于对作者主观经验的重构——而正如黑格尔已清楚表明的，这种重构肯定是不可能的（见 Gadamer 1989b, 164–9）。
+    step2: |-
+      伽达默尔在此对海德格尔的吸取有两个关键要素：其一，聚焦艺术以及艺术与真理的关联；其二，聚焦真理本身，即作为先行而部分的敞开（更恰当地说，作为遮蔽/无蔽）的事件——我们始终已卷入其中，而它永远无法被完全透明化。这两个要素都关联着伽达默尔对德国思想中主体主义与唯心主义要素的回应；这些要素存在于新康德主义传统，更具体地说，存在于浪漫主义诠释学与美学理论。伽达默尔认为，美学理论在很大程度上受康德影响，已与艺术的实际经验相疏离：对艺术的回应变得抽象而“审美化”，审美判断则变成纯粹趣味之事，因而是主观回应之事。同样，在兰克等人“科学的”历史编纂学以及施莱尔马赫等人的浪漫主义诠释学影响下，对客观性的渴望使历史理解脱离了激发它的当代处境，也导致一种历史方法观：它以重构作者的主观经验为基础——而黑格尔已清楚表明，这种重构肯定不可能（见 Gadamer 1989b, 164–9）。
   - id: 22
     kind: body
     source: |-
       By turning back to the direct experience of art, and to the concept of truth as prior and partial disclosure, Gadamer was able to develop an alternative to subjectivism that also connected with the ideas of dialogue and practical wisdom taken from Plato and Aristotle, and of hermeneutical situatedness taken from the early Heidegger. Just as the artwork is taken as central and determining in the experience of art, so is understanding similarly determined by the matter to be understood; as the experience of art reveals, not in spite of, but precisely because of the way it also conceals, so understanding is possible, not in spite of, but precisely because of its prior involvement. In Gadamer’s developed work, the concept of ‘play’ (*Spiel*) has an important role here. Gadamer takes play as the basic clue to the ontological structure of art, emphasizing the way in which play is not a form of disengaged, disinterested exercise of subjectivity, but is rather something that has its own order and structure to which one is given over. The structure of play has obvious affinities with all of the other concepts at issue here—of dialogue, *phronesis*, the hermeneutical situation, the truth of art. Indeed, one can take all of these ideas as providing slightly different elaborations of what is essentially the same basic conception of understanding—one that takes our finitude, that is, our prior involvement and partiality, not as a barrier to understanding, but rather as its enabling condition. It is this conception that is worked out in detail in *Truth and Method*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      通过回到艺术的直接经验，并回到作为先行而部分敞开的真理概念，伽达默尔得以发展出一种主体主义替代方案；它同时与取自柏拉图、亚里士多德的对话与实践智慧观念，以及取自早期海德格尔的诠释学处境性观念相联系。正如在艺术经验中艺术作品被视为核心与决定性的，理解同样由所要理解的事情所决定；正如艺术经验所显示的，理解之所以可能，不是不顾其先行卷入，而恰恰是因为它；它之所以可能，不是不顾其遮蔽方式，而恰恰是因为这种遮蔽方式。在伽达默尔成熟的工作中，“游戏”（*Spiel*）概念在此有重要作用。伽达默尔把游戏当作艺术之本体论结构的基本线索，强调游戏不是主体性的超然、无利害的活动，而是有其自身秩序与结构、人须交付于其中的东西。游戏的结构与这里讨论的所有其他概念——对话、*phronesis*、诠释学处境、艺术之真理——都有明显的亲缘性。事实上，可以把这些观念都看作对同一种基本理解观的略微不同的阐发：这种理解观不把我们的有限性——即我们的先行卷入与偏狭——当作理解的障碍，而当作其可能条件。正是这一构想，在《真理与方法》中得到了详细展开。
+    step2: |-
+      通过回到艺术的直接经验，并回到“真理作为先行而部分的敞开”这一概念，伽达默尔得以发展出一种主体主义的替代方案；它与取自柏拉图、亚里士多德的对话与实践智慧观念，以及取自早期海德格尔的诠释学处境性观念相通。正如艺术经验以艺术作品为核心与决定者，理解同样由所要理解的事情所决定；正如艺术经验所显示的，理解之所以可能，恰恰不是不顾其先行卷入，而是因为这种卷入；恰恰不是不顾其遮蔽，而是因为这种遮蔽。在伽达默尔的成熟著作中，“游戏”（*Spiel*）概念在此居于要位。他把游戏当作艺术之本体论结构的基本线索，强调游戏并非主体性的超然、无利害活动，而是有其自身秩序与结构、人须交付于其中的东西。游戏的结构与这里讨论的其他一切概念——对话、*phronesis*、诠释学处境、艺术之真理——都有明显的亲缘性。事实上，这些观念都可以看作对同一种基本理解观的若干不同阐发：这种理解观不把我们的有限性——我们的先行卷入与偏狭——当作理解的障碍，而当作理解的可能条件。这一构想，正是《真理与方法》详细展开的内容。
   - id: 23
     kind: body
     source: |-
       ## 3. Philosophical Hermeneutics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. 哲学诠释学
+    step2: |-
+      ## 3 哲学诠释学
   - id: 24
     kind: body
     source: |-
       ### 3.1 The Positivity of ‘Prejudice’
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1. “偏见”的积极性
+    step2: |-
+      ### 3.1 “偏见”的积极性
   - id: 25
     kind: body
     source: |-
       One might respond to Gadamer’s emphasis on our prior hermeneutic involvement, whether in the experience of art or elsewhere, that such involvement cannot but remain subjective simply on the grounds that it is always determined by our particular dispositions to experience things in certain ways rather than others—our involvement, one might say, is thus always based on subjective *prejudice*. Such an objection can be seen as a simple reiteration of the basic tendency towards subjectivism that Gadamer rejects, but Gadamer also takes issue directly with this view of prejudice and the negative connotations often associated with the notion, arguing that, rather than closing us off, our prejudices are themselves what open us up to what is to be understood. In this way Gadamer can be seen as attempting to retrieve a positive conception of prejudice (German *Vorurteil*) that goes back to the meaning of the term as literally a *pre-judgment* (from the Latin *prae-judicium*) that was lost during the Renaissance. In *Truth and Method*, Gadamer redeploys the notion of our prior hermeneutical situatedness as it is worked out in more particular fashion in Heidegger’s *Being and Time* (first published in 1927) in terms of the ‘fore-structures’ of understanding, that is, in terms of the anticipatory structures that allow what is to be interpreted or understood to be grasped in a preliminary fashion. The fact that understanding operates by means of such anticipatory structures means that understanding always involves what Gadamer terms the ‘anticipation of completeness’—it always involves the revisable presupposition that what is to be understood constitutes something that is understandable, that is, something that is constituted as a coherent, and therefore meaningful, whole.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人们或许会回应伽达默尔对先行诠释学卷入（无论在艺术经验中还是在别处）的强调说：这种卷入只能停留于主观，理由仅仅是它始终由我们以某些方式而非另一些方式经验事物的特定倾向所决定——可以说，我们的卷入因此总是基于主观的*偏见*。这种反对意见可以被看作对伽达默尔所拒斥的主体主义基本倾向的简单重述；但伽达默尔也直接质疑这种偏见观以及该概念常带的负面含义，主张偏见并非把我们封闭起来，反而正是它们向我们敞开所要理解的东西。由此，伽达默尔可以被看作试图恢复一种积极的偏见观（德语*Vorurteil*），它可回溯到该词的字面意义——*前判断*（来自拉丁语*prae-judicium*），而这层意义在文艺复兴时期失落了。在《真理与方法》中，伽达默尔重新部署我们先行诠释学处境性的观念，其方式更具体地取自海德格尔《存在与时间》（初版于 1927 年）中理解的“前结构”，即那些使所要诠释或理解的东西得以初步把握的预期结构。理解凭借这类预期结构运作这一事实，意味着理解始终涉及伽达默尔所谓的“完满性前把握”——它始终涉及一个可修正的预设：所要理解的东西构成某种可理解的东西，即构成一个连贯因而有意义的整体。
+    step2: |-
+      有人可能会这样回应伽达默尔对先行诠释学卷入（无论在艺术经验还是别处）的强调：这种卷入只能停留于主观，因为它总是由我们以某些方式而非另一些方式经验事物的特定倾向所决定——可以说，我们的卷入总建立在主观的*偏见*之上。这种反对意见可看作对伽达默尔所拒斥的主体主义倾向的重述；但伽达默尔也直接质疑这种偏见观及其常见的负面含义，主张偏见并不把我们封闭起来，反而正是它们向我们敞开所要理解的东西。就此而言，伽达默尔是在试图恢复一种积极的偏见观（德语*Vorurteil*）：它可回溯到该词的字面义——*前判断*（拉丁语*prae-judicium*），而这层意义在文艺复兴时期失落了。在《真理与方法》中，伽达默尔重新部署了我们的先行诠释学处境性，其方式更具体地取自海德格尔《存在与时间》（1927 年初版）中理解的“前结构”，即让所要诠释或理解者得以初步把握的预期结构。理解凭借这类预期结构运作，这意味着理解始终涉及伽达默尔所谓的“完满性前把握”：它总带着一个可修正的预设——所要理解的东西是可理解的，即构成一个连贯因而有意义的整体。
   - id: 26
     kind: body
     source: |-
       Gadamer’s positive conception of prejudice as pre-judgment is connected with several ideas in his approach to hermeneutics. The way in which our prejudgments open us up to the matter at issue in such a way that those prejudgments are themselves capable of being revised exhibits the character of the Gadamerian conception of prejudgment, and its role in understanding, as itself constituting a version of the hermeneutic circle. The hermeneutical priority Gadamer assigns to prejudgment is also tied to Gadamer’s emphasis on the priority of the question in the structure of understanding—the latter emphasis being something Gadamer takes both from Platonic dialectic and also, in *Truth and Method*, from the work of R. G. Collingwood. Moreover, the indispensable role of prejudgment in understanding connects directly with Gadamer’s rethinking of the traditional concept of hermeneutics as necessarily involving, not merely explication, but also *application*. In this respect, all interpretation, even of the past, is necessarily ‘prejudgmental’ in the sense that it is always oriented to present concerns and interests, and it is those present concerns and interests that allow us to enter into the dialogue with the matter at issue. Here, of course, there is a further connection with the Aristotelian emphasis on the practical—not only is understanding a matter of the application of something like ‘practical wisdom’, but it is also always determined by the practical context out of which it arises.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      伽达默尔把偏见作为前判断的积极构想，与他对诠释学的若干观念相联系。我们的前判断以这样一种方式向我们敞开所讨论之事，使这些前判断自身能够被修正——这展现了伽达默尔前判断概念及其在理解中的角色的品格，即它本身构成诠释学循环的一个版本。伽达默尔赋予前判断的诠释学优先性，还与他强调问题在理解结构中的优先性相联系——后一强调既取自柏拉图辩证法，也在《真理与方法》中取自 R. G. 柯林武德的工作。此外，前判断在理解中不可或缺的作用，直接关涉伽达默尔对传统诠释学概念的重思：诠释学必然不仅涉及阐明，也涉及*应用*。就此而言，一切诠释——即使是对过去的诠释——都必然是“前判断性的”，因为它始终朝向当下的关切与利益，而正是这些当下关切与利益使我们得以进入与所讨论之事的对话。这里当然还有与亚里士多德对实践之强调的进一步关联：理解不仅是对某种“实践智慧”的应用，而且始终由它所出自的实践语境所决定。
+    step2: |-
+      伽达默尔把“偏见作为前判断”的积极构想，与他对诠释学的若干观念相联系。我们的前判断以某种方式向我们敞开所讨论之事，同时又能在这一过程中被修正——这显示出，伽达默尔的前判断概念及其在理解中的角色本身构成了诠释学循环的一个版本。伽达默尔赋予前判断的诠释学优先性，还与他强调“问题”在理解结构中的优先性相关；后一强调既取自柏拉图辩证法，也在《真理与方法》中取自 R. G. 柯林武德。此外，前判断在理解中不可或缺，直接关涉伽达默尔对传统诠释学概念的重思：诠释学必然不仅涉及阐明，也涉及*应用*。因此，一切诠释——哪怕是对过去的诠释——都必然是“前判断性的”，因为它总朝向当下的关切与利益，而正是这些关切与利益让我们得以进入与所讨论之事的对话。这里还有一层与亚里士多德对实践之强调的关联：理解不仅是对某种“实践智慧”的应用，而且始终由它所出自的实践语境所决定。
   - id: 27
     kind: body
     source: |-
       The prejudicial character of understanding means that, whenever we understand, we are necessarily involved in a dialogue that encompasses both our own self-understanding and our understanding of the matter at issue (and there is, it should be added, an essential alterity that obtains even in those cases where our engagement is primarily textual). In the dialogue of understanding our prejudices come to the fore, both inasmuch as they play a crucial role in opening up what is to be understood, and inasmuch as they themselves become evident in that process. As our prejudices thereby become apparent to us, so they can also become the focus of questioning in their own turn. While Gadamer has claimed that ‘temporal distance’ can play a useful role in enabling us better to identify those prejudices that exercise a problematic influence on understanding (Gadamer acknowledges that prejudices can sometimes distort—the point is that they do not always do so), it seems better to see the dialogical interplay that occurs in the process of understanding itself as the means by which such problematic elements are identified and worked through. One consequence of Gadamer’s rehabilitation of prejudice is a positive evaluation of the role of authority and tradition as legitimate sources of knowledge, and this has often been seen, most famously by Jürgen Habermas, as indicative of Gadamer’s ideological conservatism—Gadamer himself viewed it as merely providing a proper corrective to the over-reaction against these ideas that occurred with the Enlightenment.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      理解的偏见品格意味着：每当我们理解时，我们都必然卷入一场对话，它既涵盖我们自身的自我理解，也涵盖我们对所讨论之事的理解（还应补充：即使我们的交涉主要是文本性的，也存在一种本质性的他异性）。在理解的对话中，我们的偏见走到前台：它们既在敞开所要理解的东西方面起关键作用，又在这一过程中自身变得明显。当我们的偏见由此向我们显现，它们也就能转而成为质疑的焦点。伽达默尔曾主张，“时间距离”可以起有益作用，帮助我们更好地识别那些对理解施加有问题影响的偏见（伽达默尔承认偏见有时会扭曲——关键在于它们并非总是如此）；但更好的看法或许是：理解过程中发生的对话性交互本身就是识别并消化这些有问题要素的途径。伽达默尔复兴偏见的一个后果，是对权威与传统作为合法知识来源的积极评价；这一点常被看作——最著名的是被于尔根·哈贝马斯看作——伽达默尔意识形态保守主义的标志。伽达默尔本人则认为，这不过是对启蒙运动时期对这些观念过度反应的一种正当纠正。
+    step2: |-
+      理解的偏见品格意味着：每当我们有所理解，就必然卷入一场既涵盖自我理解、也涵盖对所讨论之事理解的对话（还应补一句：即使交涉主要是文本性的，也仍有一种本质性的他异存在）。在理解的对话中，我们的偏见浮上前台：它们既在敞开所要理解者方面起关键作用，又在这一过程中自身变得可见。偏见由此对我们显现，也就能转而成为被质疑的对象。伽达默尔曾主张，“时间距离”可以起有益作用，帮助我们识别那些对理解施加不良影响的偏见（他承认偏见有时会扭曲——关键在于并非总是如此）；但更好的看法似乎是：理解过程本身的对话性交互，就是识别并消化这些不良要素的途径。伽达默尔复兴偏见的一个后果，是对权威与传统作为合法知识来源的积极评价；这一点常被视为——最著名的是被于尔根·哈贝马斯视为——伽达默尔意识形态保守主义的标志。伽达默尔自己则认为，这不过是对启蒙时代对这些观念过度反应的一种正当纠正。
   - id: 28
     kind: body
     source: |-
       ### 3.2 The Happening of Tradition
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2. 传统的发生
+    step2: |-
+      ### 3.2 传统的发生
   - id: 29
     kind: body
     source: |-
       Inasmuch as understanding always occurs against the background of our prior involvement, so it always occurs on the basis of our *history*. Understanding, for Gadamer, is thus always an ‘effect’ of history, while hermeneutical ‘consciousness’ is itself that mode of being that is conscious of its own historical ‘being effected’—it is ‘historically-effected consciousness’ (*wirkungsgeschichtliches Bewußtsein*). Awareness of the historically effected character of understanding is, according to Gadamer, identical with an awareness of the hermeneutical situation and he also refers to that situation by means of the phenomenological concept of ‘horizon’ (*Horizont*)—understanding and interpretation thus always occurs from within a particular ‘horizon’ that is determined by our historically-determined situatedness. Understanding is not, however, imprisoned within the horizon of its situation—indeed, the horizon of understanding is neither static nor unchanging (it is, after all, always subject to the effects of history). Just as our prejudices are themselves brought into question in the process of understanding, so, in the encounter with another, is the horizon of our own understanding susceptible to change.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      既然理解始终在我们先行卷入的背景上发生，它也就始终在我们的*历史*基础上发生。因此对伽达默尔来说，理解始终是历史的“效果”，而诠释学“意识”本身就是那种意识到自身历史性“被效果”的存在方式——它是“效果历史意识”（*wirkungsgeschichtliches Bewußtsein*）。按照伽达默尔，对理解之效果历史品格的意识，与对诠释学处境的意识是同一回事；他还用现象学概念“视域”（*Horizont*）来指称该处境——因此理解与诠释始终从特定的“视域”内部发生，而该视域由我们受历史规定的处境性所决定。然而，理解并不被囚禁于其处境的视域之中——事实上，理解的视域既非静止也非不变（它毕竟始终受历史效果的影响）。正如我们的偏见在理解过程中被带入问题之中，在与另一个人的相遇中，我们自身理解的视域也易于改变。
+    step2: |-
+      理解既然总在我们先行卷入的背景上发生，也就总在我们的*历史*基础上发生。因此对伽达默尔来说，理解始终是历史的“效果”；而诠释学“意识”本身就是那种意识到自身“被历史效果”的存在方式——“效果历史意识”（*wirkungsgeschichtliches Bewußtsein*）。在伽达默尔看来，意识到理解的效果历史品格，就等于意识到诠释学处境；他也用现象学概念“视域”（*Horizont*）来指称这一处境——理解与诠释因而总是从特定“视域”内部发生，而该视域由我们受历史规定的处境性所决定。然而，理解并不被囚禁在其处境的视域之内；理解的视域既非静止也非不变（它毕竟始终受历史效果的影响）。正如我们的偏见在理解过程中被带入问题，在与另一个人的相遇中，我们自身理解的视域也易于改变。
   - id: 30
     kind: body
     source: |-
       Gadamer views understanding as a matter of negotiation between oneself and one’s partner in the hermeneutical dialogue such that the process of understanding can be seen as a matter of coming to an ‘agreement’ about the matter at issue. Coming to such an agreement means establishing a common framework or ‘horizon’ and Gadamer thus takes understanding to be a process of the ‘fusion of horizons’ (*Horizontverschmelzung*). In phenomenology, the ‘horizon’ is, in general terms, that larger context of meaning in which any particular meaningful presentation is situated. Inasmuch as understanding is taken to involve a ‘fusion of horizons’, then so it always involves the formation of a new context of meaning that enables integration of what is otherwise unfamiliar, strange or anomalous. In this respect, all understanding involves a process of mediation and dialogue between what is familiar and what is alien in which neither remains unaffected. This process of horizontal engagement is an ongoing one that never achieves any final completion or complete elucidation—moreover, inasmuch as our own history and tradition is itself constitutive of our own hermeneutic situation as well as being itself constantly taken up in the process of understanding, so our historical and hermeneutic situation can never be made completely transparent to us. As a consequence, Gadamer explicitly takes issue with the Hegelian ‘philosophy of reflection’ that aims at just such completion and transparency.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      伽达默尔把理解视为诠释学对话中自己与对话伙伴之间的协商，因此理解过程可以被看作就所讨论之事达成“一致”的过程。达成这种一致意味着建立一个共同的框架或“视域”，因此伽达默尔把理解看作“视域融合”（*Horizontverschmelzung*）的过程。在现象学中，“视域”一般而言指任何特定有意义呈现所处其中的更大意义语境。既然理解被看作涉及“视域融合”，那么它始终涉及一个新意义语境的构成，该语境使原本陌生、异样或异常的东西得以整合。就此而言，一切理解都涉及熟悉者与陌生者之间的中介与对话过程，其中双方都不保持原样。这种视域性交涉是持续进行的，永远不会达到最终完成或完全阐明——而且，既然我们自身的历史与传统既构成我们自身的诠释学处境，又不断被卷入理解过程，那么我们的历史与诠释学处境就永远无法向我们完全透明。因此，伽达默尔明确质疑黑格尔旨在达致这种完成与透明的“反思哲学”。
+    step2: |-
+      伽达默尔把理解看作诠释学对话中自己与伙伴之间的协商，因此理解过程可视为就所讨论之事达成“一致”。达成这种一致意味着建立一个共同框架或“视域”，所以伽达默尔把理解看作“视域融合”（*Horizontverschmelzung*）的过程。在现象学中，“视域”大体指任何特定有意义呈现所处其中的更大意义语境。既然理解涉及“视域融合”，它就始终涉及一个新意义语境的构成，使原本陌生、异样或异常的东西得以整合。就此而言，一切理解都涉及熟悉者与陌生者之间的中介与对话，其中双方都不保持原样。这种视域性交涉持续进行，永无最终完成或完全阐明；而且，既然我们自身的历史与传统既构成我们的诠释学处境，又不断被卷入理解过程，我们的历史与诠释学处境就永远无法向我们完全透明。因此，伽达默尔明确质疑黑格尔那种以完成与透明为目标的“反思哲学”。
   - id: 31
     kind: body
     source: |-
       In contrast with the traditional hermeneutic account, Gadamer thus advances a view of understanding that rejects the idea of understanding as achieved through gaining access to some inner realm of subjective meaning. Moreover, since understanding is an ongoing process, rather than something that is ever completed, so he also rejects the idea that there is any final determinacy to understanding. It is on this basis that Gadamer argues against there being any method or technique for achieving understanding or arriving at truth. The search for a methodology for the *Geisteswissenschaften* that would place them on a sound footing alongside the ‘sciences of nature’ (the *Naturwissenschaften*)—a search that had characterized much previous hermeneutical inquiry—is thus shown to be fundamentally misguided. Not only is there no methodology that describes the means by which to arrive at an understanding of the human or the historical, but neither is there any such methodology that is adequate to the understanding of the non-human or the natural. Gadamer’s conception of understanding as not reducible to method or technique, along with his insistence of understanding as an ongoing process that has no final completion, not only invites comparison with ideas to be found in the work of the later Wittgenstein, but can also be seen as paralleling developments in post-Kuhnian philosophy of science.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与传统诠释学说明相反，伽达默尔提出的理解观拒斥“理解即通过进入某种内在主观意义领域而达成”的观念。而且，既然理解是持续进行的过程，而非任何已完成之物，他也就拒斥理解有任何最终确定性的观念。正是在这一基础上，伽达默尔反对存在任何达成理解或抵达真理的方法或技术。为精神科学寻求一种方法论、使之与“自然科学”（*Naturwissenschaften*）并立而有牢固基础——这种寻求曾构成先前许多诠释学探究的特征——由此被表明从根本上走错了路。不仅没有一种方法论能描述达成对人或历史之理解的手段，也没有任何这类方法论足以理解非人或自然。伽达默尔把理解构想为不可化约为方法或技术，并坚持理解是永无最终完成的持续过程；这不仅引人将其与后期维特根斯坦著作中的观念相比较，也可以看作与后库恩科学哲学的发展相平行。
+    step2: |-
+      与传统诠释学说明不同，伽达默尔提出的理解观拒斥“理解在于进入某种内在主观意义领域”的观念。而且，理解是持续的过程，而非任何已完成之物，因此他也拒斥理解有任何最终确定性的想法。正是在这一基础上，伽达默尔反对存在任何达成理解或抵达真理的方法与技术。为精神科学寻求一种方法论、使之与“自然科学”（*Naturwissenschaften*）并立而有牢固基础——这种寻求曾构成先前许多诠释学探究的特征——由此被表明从根本上走错了路。不仅没有一种方法论能描述理解人或历史的手段，也没有任何方法论足以理解非人或自然。伽达默尔把理解构想为不可化约为方法或技术，并坚持理解是永无最终完成的持续过程；这不仅令人联想到后期维特根斯坦的观念，也可看作与后库恩科学哲学的发展相平行。
   - id: 32
     kind: body
     source: |-
