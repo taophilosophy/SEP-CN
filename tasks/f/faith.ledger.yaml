@@ -438,60 +438,48 @@ segments:
       The answer seems clear: reasonable trust is *practically rational* trust. The question of when one may rationally trust another may thus be resolved by a decision-theoretic calculation, factoring in the extent to which one’s evidence supports the potential trustee’s trustworthiness and the utilities of the possible outcomes, given one’s intended aims. The exercise of practical reasoning does include mental acts which are epistemically evaluable, however. When one takes it to be true in practical reasoning that someone will prove trustworthy, that mental act may be more or less epistemically rational: it would break the evidentialist norm to employ in a decision-theoretic calculation a credence that does not match one’s available evidence. In many situations, it will be practically rational, given one’s intentions, to trust another person only if one believes, or, at least, believes with high probability, that the person will prove trustworthy. In such situations it is also often the case, as already noted, that we don’t have adequate evidence in advance that *this* person will be trustworthy in *this* particular respect. Yet, affording high credence to a person’s trustworthiness may still be epistemically rational given wider available evidence of, for example, the person’s past friendliness and trustworthiness in other matters, or, if the person is a stranger, of our shared social experience that trusting others generally elicits a trustworthy response. Nevertheless, it can still be rational—*practically* rational, that is—to trust another when we *don’t* have adequate evidence that they will prove trustworthy. In a life-threatening situation, for example, it may be rational to trust unlikely rescuers if they are the only ones available. Or, when we have wider aims, it may be practically rational to trust those without a record of trustworthiness, as with ‘educative’ and ‘therapeutic’ trust where people are trusted for the sake of their development or rehabilitation as trustworthy persons. Being in established relationships of friendship with others, too, can also require commitment to continue to trust them even in the face of evidence that, otherwise, would make it reasonable to believe them unworthy of trust.
     step1: |-
       答案似乎很清楚：合理的信任是*实践上理性的*信任。于是，何时可以理性地信任另一个人的问题，可以通过决策论计算来解决：把证据在多大程度上支持潜在受托者的可靠性、以及给定一个人的意向目标时各种可能结果的效用都考虑在内。然而，实践推理的运用确实包含可以在认识上评价的心理行动。当一个人在实践推理中把某人将被证明可靠当作真时，那个心理行动可能在认识上或多或少是理性的：在决策论计算中使用一个与自己可得证据不匹配的置信度，将违反证据主义规范。在许多情形中，鉴于一个人的意图，只有当一个人相信——或至少以高概率相信——某人将被证明可靠时，信任这个人才是实践上理性的。而在这些情形中，如前所述，我们往往在事先并没有充分证据表明*这个*人会在*这个*特定方面可靠。可是，鉴于更宽的可得证据——例如这个人过往的友善与其他事务上的可靠性的证据，或者，如果这个人是陌生人，我们的共同社会经验（即信任他人通常引出可靠的回应）——给予一个人的可靠性以高置信度仍然可以在认识上是理性的。然而，当我们*并不*拥有他们将证明可靠的充分证据时，信任他人仍然可以是理性的——*实践上*理性的，也就是说。例如，在危及生命的情形中，如果他们是唯一可得的人，信任不太可能的救援者可能是理性的。或者，当我们有更宽的目标时，信任那些没有可靠性记录的人可能是实践上理性的——如“教育性”与“治疗性”信任，人们为了他们作为可靠之人的发展或康复而信任他们。处于与他人既立的友谊关系之中，同样可以要求承诺继续信任他们，即便面对那些在别的情况下会使相信他们不值得信任成为合理的证据。
-      在把有神论类信仰的根本构成视为一种信任行动的模型上，与人际信任的类比是有启发性的。当一个人信任另一个人时，似乎典型地（尽管不一律）有一个信念性的面向（信任者关于受托者可靠的信念）。但本质性的是信任性的面向——它在于对另一方的主动承诺或“托付”。保罗·黑尔姆提出，有神论信仰同样有截然不同且重要的信念性面向与信任性面向：除了以与信仰者证据相称的强度持有关于上帝存在及其拯救可靠性的信念之外，有信仰的人还必须把自己托付给其所倚靠的那一位（Helm 2000）[^helm-2000]。尽管人们广泛同意有神论信仰必须有一个认知面向，一些哲学家却主张这一面向不必是信念性的（我们将见第 8 节）。
     step2: |-
       答案似乎已然显明：合理的信任是*实践上理性的*信任。于是，“何时可以理性地信任他人”这一问题，可以交给一项决策论计算来裁定——把证据对潜在受托者可靠性的支持程度、以及给定行动者意向目标时诸可能结果的效用，一并纳入考量。然而，实践推理的行使确乎包含可在认识上评价的心理行动。当一个人在实践推理中把“某人将被证明可靠”当作真时，这一心理行动在认识上有理性多少之分：在决策论计算中启用一个与自身可得证据不相匹配的置信度，即违反证据主义规范。在许多情形中，就一个人的意图而言，唯有相信——或至少以高概率相信——某人将被证明可靠，信任其人方为实践上理性。而正如前文已述，在这类情形中，我们往往事先并无充分证据表明*这*个人会在*这*个特定方面可靠。可是，若另有更宽的可得证据佐证——比如此人过往的友善与其他事务上的可靠记录；或者，若其为陌生人，我们共同的社会经验（信任他人一般会引出可靠的回应）——那么对此人可靠性予以高置信度，仍可在认识上是理性的。尽管如此，当我们*并无*其将被证明可靠的充分证据时，信任他人仍可以是理性的——*实践上*理性，就是说。例如，在生死攸关的情形中，若看似不大可能施救的人是唯一可得之人，信任他们或许是理性的。或者，当我们怀有更宽的目标时，信任那些并无可靠记录者也可以是实践上理性的——如“教育性”与“治疗性”信任：人们之信任，为的正是对方作为可靠之人的成长或复元。此外，置身与他人既立的友谊关系，也可以要求承诺继续信任对方——即便面对的证据在别的情况下本会令“相信他们不配信任”成为合理。
-      在把有神论类信仰的根本构成看作一种信任行动的模型上，与人际信任的类比颇有启发。一个人信任另一个人时，似乎典型地（虽不一律）带有一个信念性面向——信任者关于受托者可靠的信念。但本质性的是信任性面向：它在于对另一方的主动承诺或“托付”。保罗·黑尔姆提出：有神论信仰同样具有判然有别且各自重要的信念性面向与信任性面向——除了以与信仰者证据相称的强度持有关于上帝存在及其拯救可靠性的信念之外，有信仰者还须把自己托付给其所倚靠的那一位（Helm 2000）[^helm-2000]。尽管“有神论信仰必有一个认知面向”广获同意，一些哲学家却主张：这一面向不必是信念性的（下文第 8 节将见）。
   - id: 54
     kind: body
     source: |-
       On models that take faith of the theist kind to consist fundamentally in an act of trust, the analogy with interpersonal trust is suggestive. When one person trusts another there seems typically (though not uniformly) to be a doxastic aspect (the truster’s belief that the trustee is trustworthy). But what’s essential is the fiducial aspect, which consists in an active commitment or ‘entrusting’ to the other. Paul Helm proposes that theist faith similarly has importantly distinct doxastic and fiducial aspects: in addition to belief about God’s existence and trustworthiness for salvation held with a degree of strength proportional to the believer’s evidence, persons of faith must also entrust themselves to the one on whom they rely (Helm 2000)[^helm-2000]. While it is widely agreed that theist faith must have a cognitive aspect, some philosophers hold that this need not be doxastic (as we shall see in Section 8).
     step1: |-
       在把有神论类信仰的根本构成视为一种信任行动的模型上，与人际信任的类比是有启发性的。当一个人信任另一个人时，似乎典型地（尽管不一律）有一个信念性的面向（信任者关于受托者可靠的信念）。但本质性的是信任性的面向——它在于对另一方的主动承诺或“托付”。保罗·黑尔姆提出，有神论信仰同样有截然不同且重要的信念性面向与信任性面向：除了以与信仰者证据相称的强度持有关于上帝存在及其拯救可靠性的信念之外，有信仰的人还必须把自己托付给其所倚靠的那一位（Helm 2000）[^helm-2000]。尽管人们广泛同意有神论信仰必须有一个认知面向，一些哲学家却主张这一面向不必是信念性的（我们将见第 8 节）。
-      ## 7. 作为信念冒险的信仰
     step2: |-
       在把有神论类信仰的根本构成看作一种信任行动的模型上，与人际信任的类比颇有启发。一个人信任另一个人时，似乎典型地（虽不一律）带有一个信念性面向——信任者关于受托者可靠的信念。但本质性的是信任性面向：它在于对另一方的主动承诺或“托付”。保罗·黑尔姆提出：有神论信仰同样具有判然有别且各自重要的信念性面向与信任性面向——除了以与信仰者证据相称的强度持有关于上帝存在及其拯救可靠性的信念之外，有信仰者还须把自己托付给其所倚靠的那一位（Helm 2000）[^helm-2000]。尽管“有神论信仰必有一个认知面向”广获同意，一些哲学家却主张：这一面向不必是信念性的（下文第 8 节将见）。
-      ## 7. 作为信念冒险的信仰
   - id: 55
     kind: body
     source: |-
       ## 7. Faith as doxastic venture
     step1: |-
       ## 7. 作为信念冒险的信仰
-      然而，有神论信仰所涉及的信任与人际信任所涉及的信任有显著差异。一方面，如果上帝确实是受托者，信任似乎不会冒任何失望的风险。鉴于不变之爱的上帝存在，人的信任处于终极的安全之中。但真正把自己托付给上帝的冒险，似乎始于一个挑战：能够相信或接受确实存在这样一位上帝。虽然有些人肯定这一主张是基本知识之事，有些人认为有充分证据为其辩护，但如前所述，另一些人主张每个人都必须面对奠基性有神论主张的证据模糊。对那些既拒绝把有神论信仰当作基本知识的模型、又认为上帝存在的问题不能凭可得证据在理智上得到解决的人来说，信靠上帝所涉及的冒险（如果真有这种冒险）似乎包含一个*信念性*冒险：信任者已经在越过可得证据而冒险——*就在他们相信或接受*上帝存在并可倚靠其得救之时。换句话说，信*靠*上帝似乎预设了相*信*上帝存在。但如果如此，问题便变得紧迫：一个人是否、以及在何种条件下，有权作出这样一种超越证据的冒险——在实践承诺中委身于关于终极实在的特定观点及其对我们应当如何生活的意涵。
     step2: |-
       ## 7. 作为信念冒险的信仰
-      然而，有神论信仰所涉及的信任，与人际信任所涉及的信任，差异显著。一则：倘若上帝确是受托者，信任似乎冒不到任何失望的风险——既有不变之爱的上帝存在，人的信任便处于终极的安稳之中。可真正把自己托付给上帝的冒险，似乎始于一个挑战：能够相信或接受——确有这样一位上帝。有人肯定这一主张属于基本知识；有人认为有充分证据足以辩护它；但如前所述，另一些人主张人人都须面对奠基性有神论主张的证据模糊。对那些既拒斥“有神论信仰即基本知识”的模型、又认为上帝存在的问题无法凭可得证据在理智上解决的人来说，信靠上帝所涉的冒险（果真有此冒险的话）似乎包含一个*信念性*的冒险：信任者已然越过了可得证据——*就在他们相信或接受*上帝存在、且可靠他得救*之际*。换言之，信*靠*上帝似乎预设了相*信*上帝存在。果如此，问题便变得紧迫：一个人是否有权、又在何种条件下有权，作出这般超越证据的冒险——在实践承诺中委身于某种关于终极实在的特定观点，及其对我们当如何生活的意涵。
   - id: 56
     kind: body
     source: |-
       There are significant differences, however, between the trusting involved in theistic faith and that involved in interpersonal trust. For one thing, trusting would seem not to risk any possibility of disappointment if God really is the trustee. Given the existence of the God of unchanging love, one trusts in ultimately perfect safety. But the venture of actually entrusting oneself to God seems to begin with the challenge of being able to believe or accept that, indeed, there is such a God. While some affirm that this claim is a matter of basic knowledge, and some that there is sufficient evidence to justify it, others, as already noted, hold that everyone has to confront the evidential ambiguity of foundational theistic claims. For those who reject the model of theist faith as basic knowledge and also think that the question of God’s existence cannot be settled intellectually on the basis of the available evidence, the venture involved in trusting in God (if such there be) may seem to include a *doxastic* venture: those who trust already venture beyond the available evidence, *in their very believing* *or accepting* that God exists and may be relied on for salvation. Trusting *in* God seems to presuppose, in other words, trusting *that* God exists. But, if so, the question becomes pressing whether, and under what conditions, one may be entitled to such an evidence-transcending venture in practical commitment to a particular view of ultimate reality and its implications for how we should live.
     step1: |-
       然而，有神论信仰所涉及的信任与人际信任所涉及的信任有显著差异。一方面，如果上帝确实是受托者，信任似乎不会冒任何失望的风险。鉴于不变之爱的上帝存在，人的信任处于终极的安全之中。但真正把自己托付给上帝的冒险，似乎始于一个挑战：能够相信或接受确实存在这样一位上帝。虽然有些人肯定这一主张是基本知识之事，有些人认为有充分证据为其辩护，但如前所述，另一些人主张每个人都必须面对奠基性有神论主张的证据模糊。对那些既拒绝把有神论信仰当作基本知识的模型、又认为上帝存在的问题不能凭可得证据在理智上得到解决的人来说，信靠上帝所涉及的冒险（如果真有这种冒险）似乎包含一个*信念性*冒险：信任者已经在越过可得证据而冒险——*就在他们相信或接受*上帝存在并可倚靠其得救之时。换句话说，信*靠*上帝似乎预设了相*信*上帝存在。但如果如此，问题便变得紧迫：一个人是否、以及在何种条件下，有权作出这样一种超越证据的冒险——在实践承诺中委身于关于终极实在的特定观点及其对我们应当如何生活的意涵。
-      **神学的非实在论**
     step2: |-
       然而，有神论信仰所涉及的信任，与人际信任所涉及的信任，差异显著。一则：倘若上帝确是受托者，信任似乎冒不到任何失望的风险——既有不变之爱的上帝存在，人的信任便处于终极的安稳之中。可真正把自己托付给上帝的冒险，似乎始于一个挑战：能够相信或接受——确有这样一位上帝。有人肯定这一主张属于基本知识；有人认为有充分证据足以辩护它；但如前所述，另一些人主张人人都须面对奠基性有神论主张的证据模糊。对那些既拒斥“有神论信仰即基本知识”的模型、又认为上帝存在的问题无法凭可得证据在理智上解决的人来说，信靠上帝所涉的冒险（果真有此冒险的话）似乎包含一个*信念性*的冒险：信任者已然越过了可得证据——*就在他们相信或接受*上帝存在、且可靠他得救*之际*。换言之，信*靠*上帝似乎预设了相*信*上帝存在。果如此，问题便变得紧迫：一个人是否有权、又在何种条件下有权，作出这般超越证据的冒险——在实践承诺中委身于某种关于终极实在的特定观点，及其对我们当如何生活的意涵。
-      **神学的非实在论**
   - id: 57
     kind: body
     source: |-
       *Theological non-realism*
     step1: |-
       **神学的非实在论**
-      缓解这一压力的一条途径，是对神学主张提供一种*非实在论*的分析。于是信任上帝将不蕴含任何对*实在*以特定方式存在的承诺。毋宁说，在可以说最精致的一类非实在论观点上，神学信念的产生是因为“以信任的方式生活”逐渐通过一种关于上帝及其伟大拯救行动的文化建构虚构得到表达和强化。这种生存论的信心于是可以用那虚构的语言描述为“信任上帝”（Cupitt 1980, Geering 1994）[^cupitt-1980][^geering-1994]。在这样一种非实在论说明上，作为信任的信仰模型把信仰的认知成分加上括号搁置，从而冒着实际上变成“信仰纯粹是某种情感状态”的模型的风险。但无论如何，非实在论模型将被那些认为信仰具有一种认知成分的人拒绝——该成分的功能在于把握——或试图把握——事物实际如何。
     step2: |-
       **神学的非实在论**
-      缓解这一压力的一条途径，是对神学主张提供*非实在论*的分析。如此一来，信任上帝便不蕴含任何对*实在*以特定方式存在的承诺。毋宁说，在可称最精致的一类非实在论观点上，神学信念之生起，是因为“以信任的姿态生活”渐渐经由一种关于上帝及其伟大拯救行动的文化建构虚构而得到表达与强化。这份生存论的信心，于是可以借那虚构的语言被描述为“信任上帝”（Cupitt 1980, Geering 1994）[^cupitt-1980][^geering-1994]。在这样一种非实在论说明下，作为信任的信仰模型把信仰的认知成分加括搁置，从而冒着实则沦为“信仰纯粹是某种情感状态”之模型的风险。但无论如何，非实在论模型必为如下这些人所拒：他们认为信仰具有一种认知成分，其功能在于把握——或试图把握——事物实际之所是。
   - id: 58
     kind: body
     source: |-
       One way to relieve this pressure is to offer a *non-realist* analysis of theological claims. Trusting God will then not entail any commitment to *reality’s* being a certain way. Rather, on arguably the most sophisticated kind of non-realist view, theological beliefs arise because living ‘trustingly’ comes to be expressed and reinforced through a culturally constructed fiction about God and his great saving acts. This existential confidence may then be described, using the language of the fiction, as ‘trusting God’ (Cupitt 1980, Geering 1994)[^cupitt-1980][^geering-1994]. On such a non-realist account, the model of faith as trust brackets the cognitive component of faith, and risks becoming, in effect, a model of faith as purely a certain kind of affective state. But, in any case, non-realist models will be rejected by those who take faith to have a cognitive component that functions as a grasping—or would-be grasping—of how things really are.
     step1: |-
       缓解这一压力的一条途径，是对神学主张提供一种*非实在论*的分析。于是信任上帝将不蕴含任何对*实在*以特定方式存在的承诺。毋宁说，在可以说最精致的一类非实在论观点上，神学信念的产生是因为“以信任的方式生活”逐渐通过一种关于上帝及其伟大拯救行动的文化建构虚构得到表达和强化。这种生存论的信心于是可以用那虚构的语言描述为“信任上帝”（Cupitt 1980, Geering 1994）[^cupitt-1980][^geering-1994]。在这样一种非实在论说明上，作为信任的信仰模型把信仰的认知成分加上括号搁置，从而冒着实际上变成“信仰纯粹是某种情感状态”的模型的风险。但无论如何，非实在论模型将被那些认为信仰具有一种认知成分的人拒绝——该成分的功能在于把握——或试图把握——事物实际如何。
-      **借人际信任之类比辩护信念冒险？**
     step2: |-
       缓解这一压力的一条途径，是对神学主张提供*非实在论*的分析。如此一来，信任上帝便不蕴含任何对*实在*以特定方式存在的承诺。毋宁说，在可称最精致的一类非实在论观点上，神学信念之生起，是因为“以信任的姿态生活”渐渐经由一种关于上帝及其伟大拯救行动的文化建构虚构而得到表达与强化。这份生存论的信心，于是可以借那虚构的语言被描述为“信任上帝”（Cupitt 1980, Geering 1994）[^cupitt-1980][^geering-1994]。在这样一种非实在论说明下，作为信任的信仰模型把信仰的认知成分加括搁置，从而冒着实则沦为“信仰纯粹是某种情感状态”之模型的风险。但无论如何，非实在论模型必为如下这些人所拒：他们认为信仰具有一种认知成分，其功能在于把握——或试图把握——事物实际之所是。
-      **借人际信任之类比辩护信念冒险？**
   - id: 59
     kind: body
     source: |-
