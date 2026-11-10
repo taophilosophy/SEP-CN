@@ -1,0 +1,961 @@
+version: 1
+slug: logic-linear
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Linear logic is a refinement of classical and intuitionistic logic. Instead of emphasizing *truth*, as in classical logic, or *proof*, as in intuitionistic logic, linear logic emphasizes the role of formulas as *resources*. To achieve this focus, linear logic does not allow the usual structural rules of contraction and weakening to apply to all formulas but only those formulas marked with certain modals. Linear logic contains a fully involutive negation while maintaining a strong constructive interpretation. Linear logic also provides new insights into the nature of proofs in both classical and intuitionistic logic. Given its focus on resources, linear logic has found many applications in Computer Science.
+    step1: |-
+      线性逻辑是经典逻辑与直觉主义逻辑的一种精细版本。经典逻辑强调 *真*，直觉主义逻辑强调 *证明*，线性逻辑强调的则是公式作为 *资源* 的角色。为聚焦于此，线性逻辑不允许通常的结构规则（收缩与弱化）适用于一切公式，只允许适用于带特定模态词的公式。线性逻辑含有一个完全对合的否定，同时又保持很强的构造性解释。线性逻辑还为经典逻辑与直觉主义逻辑中证明的本性提供了新洞见。由于聚焦于资源，线性逻辑在计算机科学中找到了许多应用。
+    step2: |-
+      线性逻辑是经典逻辑与直觉主义逻辑的一个精细版本。经典逻辑看重 *真*，直觉主义逻辑看重 *证明*，线性逻辑看重的是公式作为 *资源* 的角色。为把焦点放在这里，它不让通常的结构规则（收缩、弱化）适用于一切公式，只适用于带特定模态词的公式。线性逻辑有完全对合的否定，又保持很强的构造性解释，还给经典逻辑与直觉主义逻辑中证明的本性带来新洞见。因聚焦资源，它在计算机科学中应用甚广。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Introduction
+    step1: |-
+      ## 1. 引论
+    step2: |-
+      ## 1 引论
+  - id: 3
+    kind: body
+    source: |-
+      ### 1.1 A bit of history
+    step1: |-
+      ### 1.1 一段历史
+    step2: |-
+      ### 1.1 一段历史
+  - id: 4
+    kind: body
+    source: |-
+      Linear logic was introduced by Jean-Yves Girard in his seminal work (Girard 1987)[^girard-1987]. While the origin of the discovery of this new logic comes from a semantical analysis of the models of System F (or polymorphic $\lambda$-calculus), one can see the whole system of linear logic as a bold attempt to reconcile the beauty and symmetry of classical logic afforded by De Morgan's dualities with the quest for constructive proofs that had led to intuitionistic logic.
+    step1: |-
+      线性逻辑由 Jean-Yves Girard 在其开创性工作（Girard 1987）[^girard-1987] 中提出。这一新逻辑的发现源自对 System F（或多态 $\lambda$-演算）模型的语义分析；但也可以把整个线性逻辑系统看作一次大胆尝试：调和经典逻辑经由 De Morgan 对偶所呈现的美与对称，同追求构造性证明（此追求导向直觉主义逻辑）之间的张力。
+    step2: |-
+      线性逻辑由 Jean-Yves Girard 在开创性论文（Girard 1987）[^girard-1987] 中提出。这门新逻辑的发现源自对 System F（或多态 $\lambda$-演算）模型的语义分析；但也可以把整个系统视为一次大胆调和：经典逻辑借 De Morgan 对偶显露的美与对称，对上追求构造性证明的冲动（此冲动造就了直觉主义逻辑）。
+  - id: 5
+    kind: body
+    source: |-
+      Indeed, one could present a fragment of linear logic, known as *multiplicative additive linear logic* (MALL), as the outcome of two simple observations.
+    step1: |-
+      的确，可以把线性逻辑的一个片段——所谓 *乘法加性线性逻辑*（MALL）——呈现为两条简单观察的结果。
+    step2: |-
+      确实，线性逻辑有个片段叫 *乘法加性线性逻辑*（MALL），可以看成两条简单观察的产物。
+  - id: 6
+    kind: body
+    source: |-
+      - In the sequent calculus presentation of classical logic, the rules for the connectives “*and*” and “*or*”, as well as the Cut rule and the rule for implication may be presented equivalently in an additive form (the context of the premises are the same) or a multiplicative form (the context of the premises are different). These two presentations are equivalent, in classical logic, because of the availability of a few so-called “structural” rules, namely, contraction and weakening.
+      - Gentzen's use of the sequent calculus to capture proofs for both classical and intuitionistic logics demonstrated that non-constructive proofs made use of one or the other of these structural rules in the conclusion (succedent) of sequents.
+    step1: |-
+      - 在经典逻辑的矢列演算表述中，联结词“*与*”“*或*”的规则，以及切规则与蕴涵规则，都可以等价地写成加性形式（各前提的语境相同）或乘法形式（各前提的语境不同）。在经典逻辑中，这两种表述等价，因为有若干所谓“结构”规则可用，即收缩与弱化。
+      - Gentzen 用矢列演算同时刻画经典逻辑与直觉主义逻辑的证明，表明非构造性证明会在矢列的结论（后件）中用到这两条结构规则之一。
+    step2: |-
+      - 经典逻辑的矢列演算里，联结词“*与*”“*或*”的规则，以及切规则、蕴涵规则，都能等价地写成加性形式（各前提语境相同）或乘法形式（各前提语境不同）。经典逻辑中两者等价，靠的是几条所谓“结构”规则，即收缩与弱化。
+      - Gentzen 用矢列演算同时刻画经典逻辑与直觉主义逻辑的证明，表明非构造性证明总要在矢列结论（后件）里用到这两条结构规则之一。
+  - id: 7
+    kind: body
+    source: |-
+      So, if we want to eliminate the non-constructive proofs without destroying the symmetry of the sequent calculus, as is done in intuitionistic logic, we can try to eliminate the contraction and weakening rules instead. In doing so, we are left with two different versions of each connective: an additive version and a multiplicative version of conjunction and of disjunction. These different versions of the same connecitve are now no longer equivalent. These new connectives are & (“with”, additive *and*), $\oplus$ (“plus”, additive *or*), $\otimes$ (“tensor”, multiplicative *and*) and $\lpar$ (“par”, multiplicative *or*).
+    step1: |-
+      所以，若想在不破坏矢列演算对称性的前提下消除非构造性证明（直觉主义逻辑正是这样做的），我们可以试着反过来消除收缩与弱化规则。这样一来，每个联结词就剩下两个不同版本：合取的加性版本与乘法版本，析取的加性版本与乘法版本。同一联结词的不同版本此时不再等价。这些新联结词是 &（“with”，加性 *与*）、$\oplus$（“plus”，加性 *或*）、$\otimes$（“tensor”，乘法 *与*）与 $\lpar$（“par”，乘法 *或*）。
+    step2: |-
+      于是，若要在不破坏矢列对称性的前提下消除非构造性证明（直觉主义逻辑就是这样做的），不妨反过来消除收缩与弱化。这样每个联结词都一分为二：合取、析取各有加性版与乘法版。同一联结词的两个版本此时不再等价。新联结词是 &（“with”，加性 *与*）、$\oplus$（“plus”，加性 *或*）、$\otimes$（“tensor”，乘法 *与*）与 $\lpar$（“par”，乘法 *或*）。
+  - id: 8
+    kind: body
+    source: |-
+      This duplication of the connectives actually leads to a much clearer understanding of the conflict between classical and intuitionistic logic. For example, the law of excluded middle ($A$ *or* not-$A$) is considered valid in the classical world and absurd in the intuitionistic one. But in linear logic, this law has two readings: the additive version $(A \oplus \neg A)$ is not provable and corresponds to the intuitionistic reading of disjunction; the multiplicative version $(A \lpar \neg A)$ is trivially provable and simply corresponds to the tautology $(A$ *implies* $A)$ that is perfectly acceptable in intuitionistic logic too.
+    step1: |-
+      联结词的这种复制，其实使人更清楚地理解经典逻辑与直觉主义逻辑的冲突。例如排中律（$A$ *或* 非-$A$）在经典世界被视为有效，在直觉主义世界则荒谬。但在线性逻辑中，这条定律有两种读法：加性版本 $(A \oplus \neg A)$ 不可证，对应析取的直觉主义读法；乘法版本 $(A \lpar \neg A)$ 平凡可证，只对应重言式 $(A$ *蕴涵* $A)$，而后者在直觉主义逻辑中也完全可以接受。
+    step2: |-
+      联结词的这番复制，反倒让人更看清经典逻辑与直觉主义逻辑的冲突。比如排中律（$A$ *或* 非-$A$），经典世界视为有效，直觉主义世界视为荒谬；线性逻辑里它有两种读法：加性版 $(A \oplus \neg A)$ 不可证，对应析取的直觉主义读法；乘法版 $(A \lpar \neg A)$ 平凡可证，只相当于重言式 $(A$ *蕴涵* $A)$，这在直觉主义逻辑里同样可以接受。
+  - id: 9
+    kind: body
+    source: |-
+      Also, the disjunction property, essential in constructivism, is easily established for the additive disjunction.
+    step1: |-
+      此外，对构造主义至关重要的析取性质，对加性析取很容易建立。
+    step2: |-
+      另外，构造主义所倚重的析取性质，对加性析取很容易证。
+  - id: 10
+    kind: body
+    source: |-
+      We find then inside this richer logic a way to represent both the needs of intuitionism and the elegance of classical logic: negation is involutive, sequents are symmetric, and connectives are inter-definable. Contrast these properties with those of intuitionistic logic, where negation is not involutive, sequents are not symmetric, and connectives $\neg, \wedge, \vee, \Rightarrow$ are all not inter-definable.
+    step1: |-
+      于是我们在这门更丰富的逻辑内部找到一种方式，既能表达直觉主义的需求，又能保留经典逻辑的优雅：否定对合、矢列对称、联结词互相可定义。把这些性质与直觉主义逻辑对照一下：在那里否定不对合、矢列不对称，联结词 $\neg, \wedge, \vee, \Rightarrow$ 也全都不能互相定义。
+    step2: |-
+      于是线性逻辑兼顾两头：直觉主义的需求、经典逻辑的优雅——否定对合、矢列对称、联结词互相可定义。不妨与直觉主义逻辑对照：那里否定不对合、矢列不对称，$\neg, \wedge, \vee, \Rightarrow$ 也全都不能互相定义。
+  - id: 11
+    kind: body
+    source: |-
+      Notice that once one has eliminated the contraction and weakening rules, formulas no longer behave as truth values. Indeed, if we compose a proof of $A \Rightarrow B$ and a proof of $A$ without these structural rules, we consume them to get a proof of $B$: that is, $A \Rightarrow B$ and $A$ are no longer available after the composition. Linear logic formulas behave more like *resources* that can only be used in restricted ways.
+    step1: |-
+      注意：一旦消除收缩与弱化规则，公式就不再像真值那样行事。的确，若没有这些结构规则，把 $A \Rightarrow B$ 的证明与 $A$ 的证明复合起来，就会把它们消耗掉，得到 $B$ 的证明；也就是说，复合之后 $A \Rightarrow B$ 与 $A$ 都不再可用。线性逻辑的公式更像 *资源*，只能以受限的方式使用。
+    step2: |-
+      注意：一消除收缩与弱化，公式就不再像真值那样行事。没有这两条结构规则，把 $A \Rightarrow B$ 的证明与 $A$ 的证明复合，二者就被消耗掉，换来 $B$ 的证明；也就是说，复合之后 $A \Rightarrow B$ 与 $A$ 都不复可用。线性逻辑的公式更像 *资源*，只能按受限的方式使用。
+  - id: 12
+    kind: body
+    source: |-
+      To recover the full expressive power of intuitionistic and classical logic, it is then necessary to add to the MALL fragment two dual modalities, which are usually called *exponentials* in the linear logic literature. In particular, the “of-course” exponential $\bang$ permits contraction and weakening to be applied to the formula $\bang B$ in the left-hand sequent context while the “why-not” exponential $\quest$ permits contraction and weakening to be applied to the formula $\quest B$ on the right-hand sequent context. This leads to the full propositional linear logic and to a very nice connection with computer science.
+    step1: |-
+      要恢复直觉主义逻辑与经典逻辑的全部表达力，就得给 MALL 片段添两个对偶模态词，线性逻辑文献通常称之为 *指数*（exponentials）。特别是，“of-course”指数 $\bang$ 允许收缩与弱化施用于左手语境中的公式 $\bang B$，而“why-not”指数 $\quest$ 允许收缩与弱化施用于右手语境中的公式 $\quest B$。由此得到完全的命题线性逻辑，并与计算机科学建立起非常漂亮的联系。
+    step2: |-
+      要找回直觉主义逻辑与经典逻辑的全部表达力，须给 MALL 片段加两个对偶模态词，线性逻辑文献通常称 *指数*（exponentials）。其中“of-course”指数 $\bang$ 允许对左手语境中的 $\bang B$ 施用收缩与弱化，“why-not”指数 $\quest$ 允许对右手语境中的 $\quest B$ 施用。由此得到完全的命题线性逻辑，并与计算机科学结下极漂亮的缘分。
+  - id: 13
+    kind: body
+    source: |-
+      Notice that besides MALL, there are two other widely used fragments of Linear Logic: Multiplicative Linear Logic (MLL), which is MALL without the additive connectives; and Multiplicative Exponential Linear Logic (MELL), which is Linear Logic without the additive connectives.
+    step1: |-
+      注意：除 MALL 外，线性逻辑还有两个广泛使用的片段：乘法线性逻辑（MLL），即去掉加性联结词的 MALL；以及乘法指数线性逻辑（MELL），即去掉加性联结词的线性逻辑。
+    step2: |-
+      注意：除 MALL 外，线性逻辑还有两个常用片段：乘法线性逻辑（MLL），即去掉加性联结词的 MALL；乘法指数线性逻辑（MELL），即去掉加性联结词的线性逻辑。
+  - id: 14
+    kind: body
+    source: |-
+      Gentzen's sequent calculus proof system for intuitionistic logic was the result of restricting his sequent calculus for classical logic so that all sequents contained at most one formula on the right-hand side of sequents (Gentzen 1935)[^gentzen-1935]. Such a single-conclusion restriction can also be explored in the context of linear logic. Various researchers have considered intuitionistic variants of MLL, MALL, and MELL: for example, IMLL (Lamarche 1996)[^lamarche-1996], IMALL (Lincoln *et al.* 1993)[^lincoln-1993], and IMELL (Dal Lago and Laurent 2008)[^dal-2008]. Schellinx (1991) provided some general conservativity results of classical linear logic over the corresponding intuitionistic variants: see also (Troelstra 1992)[^troelstra-1992].
+    step1: |-
+      Gentzen 为直觉主义逻辑建立的矢列演算证明系统，是把他的经典逻辑矢列演算限制为所有矢列右手侧至多含一个公式而得（Gentzen 1935）[^gentzen-1935]。这种单结论限制也可以在线性逻辑语境中探讨。多位研究者考虑过 MLL、MALL 与 MELL 的直觉主义变体：例如 IMLL（Lamarche 1996）[^lamarche-1996]、IMALL（Lincoln *et al.* 1993）[^lincoln-1993] 与 IMELL（Dal Lago 与 Laurent 2008）[^dal-2008]。Schellinx（1991）给出了一些关于经典线性逻辑相对于相应直觉主义变体的保守性结果：另见（Troelstra 1992）[^troelstra-1992]。
+    step2: |-
+      Gentzen 的直觉主义矢列演算，是把其经典矢列演算限制为右手侧至多一个公式而来（Gentzen 1935）[^gentzen-1935]。这种单结论限制也能在线性逻辑里探讨。多位研究者考察过 MLL、MALL、MELL 的直觉主义变体：IMLL（Lamarche 1996）[^lamarche-1996]、IMALL（Lincoln *et al.* 1993）[^lincoln-1993]、IMELL（Dal Lago 与 Laurent 2008）[^dal-2008]。Schellinx（1991）给出经典线性逻辑相对相应直觉主义变体的一些保守性结果，另见（Troelstra 1992）[^troelstra-1992]。
+  - id: 15
+    kind: body
+    source: |-
+      Prior to the introduction of linear logic in 1987, various researchers had been working on various kinds of substructural logic in which not all of Gentzen’s structural rules (contraction, weakening, and exchange) are accepted. Lambek studied a sequent calculus proof systems in which none of these structural rules were permitted (Lambek 1958)[^lambek-1958]. Other examples of such logics are relevant logic (in which weakening is not accepted) (Anderson & Belnap 1975, Anderson *et al.* 1992, Avron 1988, Read 1988)[^anderson-1975][^anderson-1975-2][^avron-1988][^read-1988]. and affine logic (in which contraction is not accepted) (Grishin 1981)[^grishin-1981].
+    step1: |-
+      1987 年线性逻辑问世之前，已有研究者在研究各种次结构逻辑：其中 Gentzen 的结构规则（收缩、弱化、交换）并非全部被接受。Lambek 研究过一种矢列演算证明系统，其中三条结构规则一概不许（Lambek 1958）[^lambek-1958]。这类逻辑的其他例子有相干逻辑（不接受弱化）（Anderson & Belnap 1975, Anderson *et al.* 1992, Avron 1988, Read 1988）[^anderson-1975][^anderson-1975-2][^avron-1988][^read-1988]，以及仿射逻辑（不接受收缩）（Grishin 1981）[^grishin-1981]。
+    step2: |-
+      1987 年线性逻辑问世之前，已有不少人在研究各种次结构逻辑：Gentzen 的结构规则（收缩、弱化、交换）并非全部接受。Lambek 研究过一种三条结构规则一概不许的矢列演算证明系统（Lambek 1958）[^lambek-1958]；其他例子有相干逻辑（不接受弱化）（Anderson & Belnap 1975, Anderson *et al.* 1992, Avron 1988, Read 1988）[^anderson-1975][^anderson-1975-2][^avron-1988][^read-1988]，以及仿射逻辑（不接受收缩）（Grishin 1981）[^grishin-1981]。
+  - id: 16
+    kind: body
+    source: |-
+      ### 1.2 Linear logic and computer science
+    step1: |-
+      ### 1.2 线性逻辑与计算机科学
+    step2: |-
+      ### 1.2 线性逻辑与计算机科学
+  - id: 17
+    kind: body
+    source: |-
+      The computer science exploitation of intuitionistic and constructive logic began when people saw the possibility of reading $A \Rightarrow B$ as ‘if you give me an $A$, I will give you a $B$’, which is a significant departure from the classical reading ‘$A$ is false or $B$ is true’.
+    step1: |-
+      直觉主义逻辑与构造性逻辑在计算机科学中的利用，始于人们看出可以把 $A \Rightarrow B$ 读作“你给我一个 $A$，我就给你一个 $B$”——这大大偏离了经典读法“$A$ 为假或 $B$ 为真”。
+    step2: |-
+      直觉主义逻辑与构造性逻辑在计算机科学里的用场，始于人们看出 $A \Rightarrow B$ 可读作“你给我一个 $A$，我就给你一个 $B$”，这与经典读法“$A$ 假或 $B$ 真”相去甚远。
+  - id: 18
+    kind: body
+    source: |-
+      Linear logic provides a further twist in the interpretation of the implication ‘$A \Rightarrow B$ ’: now it can be read as ‘give me *as many* $A$'s as I might need and I will give you *one* $B$’. The notion of *copy* which is so central to the idea of computation is now wired into the logic. This new viewpoint opens up new possibilities, including:
+    step1: |-
+      线性逻辑对蕴涵“$A \Rightarrow B$”的解释又转了一道弯：如今它可以读作“给我 *所需的任意多个* $A$，我就给你 *一个* $B$”。对计算观念如此核心的 *复制* 概念，如今被接进了逻辑。这一新视角开辟了新可能，包括：
+    step2: |-
+      线性逻辑对蕴涵“$A \Rightarrow B$”的解释又拐了个弯：现在可读作“给我 *所需数目的* $A$，我就给你 *一个* $B$”。计算观念里居于核心的 *复制* 概念，就此接进了逻辑。新视角开辟出新可能：
+  - id: 19
+    kind: body
+    source: |-
+      - *new formulas* expressing refined operational properties like ‘give me $A$ once and I will give you $B$’. Applications here range from refined logic programming where the ability of linear logic to represent states is put to use (Hodas & Miller, 1994), to the analysis of classical logic and computational interpretations thereof (Abramsky 1993)[^abramsky-1993], to the specification of exception mechanisms in programming languages (Miller, 1996), and to linearity analysis (Wadler, 1991).
+      - *new rules* expressing constraints on the use of copies resulting in a fragment of linear logic for polytime computations to mention only the most spectacular application (Baillot & Terui, 2004, Baillot 2015)[^baillot-2015].
+      - *new ways* of representing proofs (Abramsky & Jagadeesan, 1994, Girard 1987)[^girard-1987].
+    step1: |-
+      - *新公式*，表达更精细的操作性质，如“给我一次 $A$，我就给你 $B$”。其应用范围从精化的逻辑编程（利用线性逻辑表示状态的能力）（Hodas & Miller, 1994），到对经典逻辑及其计算解释的分析（Abramsky 1993）[^abramsky-1993]，到编程语言中异常机制的规格说明（Miller, 1996），再到线性分析（Wadler, 1991）。
+      - *新规则*，表达对复制使用的约束，例如只举最惊人的应用：由此得到用于多项式时间计算的线性逻辑片段（Baillot & Terui, 2004, Baillot 2015）[^baillot-2015]。
+      - *新方式*，用来表示证明（Abramsky & Jagadeesan, 1994, Girard 1987）[^girard-1987]。
+    step2: |-
+      - *新公式*，表达更精细的操作性质，如“给我一次 $A$，我就给你 $B$”。应用从精化的逻辑编程（用线性逻辑表示状态）（Hodas & Miller, 1994），到对经典逻辑及其计算解释的分析（Abramsky 1993）[^abramsky-1993]，到编程语言异常机制的规格说明（Miller, 1996），再到线性分析（Wadler, 1991）。
+      - *新规则*，约束复制的使用，只举最惊人的应用：由此得到用于多项式时间计算的线性逻辑片段（Baillot & Terui, 2004, Baillot 2015）[^baillot-2015]。
+      - *新方式*，用来表示证明（Abramsky & Jagadeesan, 1994, Girard 1987）[^girard-1987]。
+  - id: 20
+    kind: body
+    source: |-
+      ## 2. Proof Systems
+    step1: |-
+      ## 2. 证明系统
+    step2: |-
+      ## 2 证明系统
+  - id: 21
+    kind: body
+    source: |-
+      The core propositional connectives of linear logic are divided into additive and multiplicative connectives. The classical conjunction and its identity, $\wedge$ and $\top$, split into the additive $\amp$ (with) and $\top$ (top) and the multiplicative $\otimes$ (tensor) and 1 (one). Similarly, the classical disjunction and its identity, $\vee$ and $\bot$, split into the additive $\oplus$ (oplus) and 0 (zero) and the multiplicative $\lpar$ (par) and $\bot$ (bottom). Negation is generally treated in one of two ways in presentations a linear logic. Negation can be viewed as a primitive propositional connective with no restrictions on its occurrences within formulas. Since De Morgan dualities exist between negation and all propositional connectives, exponentials, and quantifiers, it is also possible to treat negation as a special symbol that only occurs applied to atomic formulas. Implications are also commonly introduced into linear logic via definitions: the linear implication $B \limp C$ can be defined as $B^{\bot} \lpar C$, while the intuitionistic implication $B \Rightarrow C$ can be defined as $\bang B \limp C$. The operators $\bang$ and $\quest$ are variously called modals or exponentials. The term “exponential” is particularly appropriate since, following the usual relationship between exponentiation, addition, and multiplication, linear logic supports the equivalences $\bang (B \amp C) \equiv (\bang B \otimes \bang C)$ and $\quest(B \oplus C) \equiv (\quest B \lpar \quest C)$, as well as the 0-ary versions of these equivalences, namely, $(\bang\top \equiv 1)$ and $(\quest 0 \equiv \bot)$. Here, we use the binary equivalence $B \equiv C$ to mean that the formula $(B \limp C) \amp(C \limp B)$ is derivable in linear logic.
+    step1: |-
+      线性逻辑的核心命题联结词分加性与乘法两类。经典合取及其单位元 $\wedge$ 与 $\top$，分裂为加性 $\amp$（with）与 $\top$（top）、乘法 $\otimes$（tensor）与 1（one）。类似地，经典析取及其单位元 $\vee$ 与 $\bot$，分裂为加性 $\oplus$（oplus）与 0（zero）、乘法 $\lpar$（par）与 $\bot$（bottom）。在线性逻辑的各种表述中，否定一般按两种方式之一处理。可以把否定看作原始命题联结词，对其在公式中的出现不作限制。由于否定与所有命题联结词、指数、量词之间都有 De Morgan 对偶，也可以把否定当作只施用于原子公式的特殊符号。蕴涵通常也由定义引入线性逻辑：线性蕴涵 $B \limp C$ 可定义为 $B^{\bot} \lpar C$，直觉主义蕴涵 $B \Rightarrow C$ 可定义为 $\bang B \limp C$。算子 $\bang$ 与 $\quest$ 有时叫模态词，有时叫指数。“指数”一词格外贴切：按指数、加法、乘法之间的通常关系，线性逻辑支持等价式 $\bang (B \amp C) \equiv (\bang B \otimes \bang C)$ 与 $\quest(B \oplus C) \equiv (\quest B \lpar \quest C)$，以及它们 0 元版本，即 $(\bang\top \equiv 1)$ 与 $(\quest 0 \equiv \bot)$。这里用二元等价 $B \equiv C$ 表示公式 $(B \limp C) \amp(C \limp B)$ 在线性逻辑中可推导。
+    step2: |-
+      线性逻辑的核心命题联结词分加性与乘法两族。经典合取及单位元 $\wedge$ 与 $\top$，分为加性 $\amp$（with）、$\top$（top）与乘法 $\otimes$（tensor）、1（one）；经典析取及单位元 $\vee$ 与 $\bot$，分为加性 $\oplus$（oplus）、0（zero）与乘法 $\lpar$（par）、$\bot$（bottom）。否定的处理通常二择一：或视为原始命题联结词，出现不加限制；或视为只施于原子公式的特殊符号——之所以可行，是因为否定与一切命题联结词、指数、量词之间都有 De Morgan 对偶。蕴涵常由定义引入：线性蕴涵 $B \limp C$ 定义为 $B^{\bot} \lpar C$，直觉主义蕴涵 $B \Rightarrow C$ 定义为 $\bang B \limp C$。算子 $\bang$ 与 $\quest$ 偶称模态词，常称指数。“指数”之名格外贴切：按指数、加法、乘法的通常关系，线性逻辑有等价式 $\bang (B \amp C) \equiv (\bang B \otimes \bang C)$、$\quest(B \oplus C) \equiv (\quest B \lpar \quest C)$，以及 0 元版本 $(\bang\top \equiv 1)$、$(\quest 0 \equiv \bot)$。这里 $B \equiv C$ 指公式 $(B \limp C) \amp(C \limp B)$ 在线性逻辑中可推导。
+  - id: 22
+    kind: body
+    source: |-
+      ### 2.1 Sequent calculus
+    step1: |-
+      ### 2.1 矢列演算
+    step2: |-
+      ### 2.1 矢列演算
+  - id: 23
+    kind: body
+    source: |-
+      A two-sided sequent calculus for linear logic is presented in the figure below. Notice here that negation is treated as if it were any other logic connective: that is, its occurrences in formulas are not restricted and there are introduction rules on the left and right for negation. The left and right side of sequents are multiset of formulas: thus, the order of formulas in these contexts does not matter but their multiplicity does matter.
+    step1: |-
+      线性逻辑的双边矢列演算下图给出。注意这里把否定当作与其他逻辑联结词无异：它在公式中的出现不受限制，且否定有左、右引入规则。矢列左右两侧都是公式的多重集：因此这些语境中公式的次序无关紧要，但其重数要紧。
+    step2: |-
+      线性逻辑的双边矢列演算见下图。这里否定与其他联结词一视同仁：出现不受限制，且有左、右引入规则。矢列两侧都是公式的多重集，故公式次序无关紧要，重数却要紧。
+  - id: 24
+    kind: body
+    source: |-
+      **Identity Rules** $$ \frac{}{B \vdash B}\ \textit{init} \qquad \frac {\Delta_1 \vdash B,\Gamma_1 \qquad \Delta_2,B \vdash \Gamma_2} {\Delta_1,\Delta_2 \vdash \Gamma_1,\Gamma_2}\ \textit{cut} $$
+    step1: |-
+      **同一性规则** $$ \frac{}{B \vdash B}\ \textit{init} \qquad \frac {\Delta_1 \vdash B,\Gamma_1 \qquad \Delta_2,B \vdash \Gamma_2} {\Delta_1,\Delta_2 \vdash \Gamma_1,\Gamma_2}\ \textit{cut} $$
+    step2: |-
+      **同一性规则** $$ \frac{}{B \vdash B}\ \textit{init} \qquad \frac {\Delta_1 \vdash B,\Gamma_1 \qquad \Delta_2,B \vdash \Gamma_2} {\Delta_1,\Delta_2 \vdash \Gamma_1,\Gamma_2}\ \textit{cut} $$
+  - id: 25
+    kind: body
+    source: |-
+      **Negation Rules** $$ \frac{\Delta \vdash B,\Gamma}{\Delta,B^{\perp} \vdash \Gamma}\ (\cdot)^{\perp} L \qquad \frac{\Delta,B \vdash \Gamma}{\Delta \vdash B^{\perp},\Gamma}\ (\cdot)^{\perp} R $$
+    step1: |-
+      **否定规则** $$ \frac{\Delta \vdash B,\Gamma}{\Delta,B^{\perp} \vdash \Gamma}\ (\cdot)^{\perp} L \qquad \frac{\Delta,B \vdash \Gamma}{\Delta \vdash B^{\perp},\Gamma}\ (\cdot)^{\perp} R $$
+    step2: |-
+      **否定规则** $$ \frac{\Delta \vdash B,\Gamma}{\Delta,B^{\perp} \vdash \Gamma}\ (\cdot)^{\perp} L \qquad \frac{\Delta,B \vdash \Gamma}{\Delta \vdash B^{\perp},\Gamma}\ (\cdot)^{\perp} R $$
+  - id: 26
+    kind: body
+    source: |-
+      **Multiplicative Rules** $$\frac{\Delta \vdash \Gamma}{\Delta,\one \vdash \Gamma}\ \one L \qquad \frac{}{\vdash \one}\ \one R $$ $$\frac{}{\bot \vdash}\ \bot L \qquad \frac{\Delta \vdash \Gamma}{\Delta \vdash \bot,\Gamma}\ \bot R $$ $$\frac{\Delta, B_1,B_2 \vdash \Gamma}{\Delta, B_1\ot B_2 \vdash \Gamma}\ \ot L \qquad \frac{\Delta_1 \vdash B_1,\Gamma_1 \qquad \Delta_2 \vdash B_2,\Gamma_2} {\Delta_1, \Delta_2 \vdash B_1\ot B_2,\Gamma_{1},\Gamma_{2}}\ \ot R $$ $$\frac{\Delta_1,B_1 \vdash \Gamma_1 \qquad \Delta_2, B_2 \vdash \Gamma_2} {\Delta_1,\Delta_2, B_1\lpar B_2 \vdash \Gamma_1,\Gamma_2}\ \lpar L \qquad \frac{\Delta \vdash B_1, B_2,\Gamma}{\Delta \vdash B_1\lpar B_2, \Gamma}\ \lpar R $$
+    step1: |-
+      **乘法规则** $$\frac{\Delta \vdash \Gamma}{\Delta,\one \vdash \Gamma}\ \one L \qquad \frac{}{\vdash \one}\ \one R $$ $$\frac{}{\bot \vdash}\ \bot L \qquad \frac{\Delta \vdash \Gamma}{\Delta \vdash \bot,\Gamma}\ \bot R $$ $$\frac{\Delta, B_1,B_2 \vdash \Gamma}{\Delta, B_1\ot B_2 \vdash \Gamma}\ \ot L \qquad \frac{\Delta_1 \vdash B_1,\Gamma_1 \qquad \Delta_2 \vdash B_2,\Gamma_2} {\Delta_1, \Delta_2 \vdash B_1\ot B_2,\Gamma_{1},\Gamma_{2}}\ \ot R $$ $$\frac{\Delta_1,B_1 \vdash \Gamma_1 \qquad \Delta_2, B_2 \vdash \Gamma_2} {\Delta_1,\Delta_2, B_1\lpar B_2 \vdash \Gamma_1,\Gamma_2}\ \lpar L \qquad \frac{\Delta \vdash B_1, B_2,\Gamma}{\Delta \vdash B_1\lpar B_2, \Gamma}\ \lpar R $$
+    step2: |-
+      **乘法规则** $$\frac{\Delta \vdash \Gamma}{\Delta,\one \vdash \Gamma}\ \one L \qquad \frac{}{\vdash \one}\ \one R $$ $$\frac{}{\bot \vdash}\ \bot L \qquad \frac{\Delta \vdash \Gamma}{\Delta \vdash \bot,\Gamma}\ \bot R $$ $$\frac{\Delta, B_1,B_2 \vdash \Gamma}{\Delta, B_1\ot B_2 \vdash \Gamma}\ \ot L \qquad \frac{\Delta_1 \vdash B_1,\Gamma_1 \qquad \Delta_2 \vdash B_2,\Gamma_2} {\Delta_1, \Delta_2 \vdash B_1\ot B_2,\Gamma_{1},\Gamma_{2}}\ \ot R $$ $$\frac{\Delta_1,B_1 \vdash \Gamma_1 \qquad \Delta_2, B_2 \vdash \Gamma_2} {\Delta_1,\Delta_2, B_1\lpar B_2 \vdash \Gamma_1,\Gamma_2}\ \lpar L \qquad \frac{\Delta \vdash B_1, B_2,\Gamma}{\Delta \vdash B_1\lpar B_2, \Gamma}\ \lpar R $$
+  - id: 27
+    kind: body
+    source: |-
+      **Additive Rules** $$\frac{}{\Delta,\zero \vdash \Gamma}\ \zero L \qquad \frac{}{\Delta \vdash \top,\Gamma}\ \top R $$ $$\frac{\Delta, B_i \vdash \Gamma} {\Delta, B_1\amp B_2 \vdash \Gamma}\ {\amp}L\ (i=1,2) \qquad \frac{\Delta \vdash B_1,\Gamma \qquad \Delta \vdash B_2,\Gamma} {\Delta \vdash B_1\amp B_2,\Gamma}\ {\amp}R $$ $$\frac{\Delta,B_1 \vdash \Gamma \qquad \Delta,B_2 \vdash \Gamma} {\Delta,B_1\oplus B_2 \vdash \Gamma}\ {\oplus}L \qquad \frac{\Delta \vdash B_i,\Gamma} {\Delta \vdash B_1\oplus B_2,\Gamma}\ {\oplus}R\ (i=1,2) $$
+    step1: |-
+      **加性规则** $$\frac{}{\Delta,\zero \vdash \Gamma}\ \zero L \qquad \frac{}{\Delta \vdash \top,\Gamma}\ \top R $$ $$\frac{\Delta, B_i \vdash \Gamma} {\Delta, B_1\amp B_2 \vdash \Gamma}\ {\amp}L\ (i=1,2) \qquad \frac{\Delta \vdash B_1,\Gamma \qquad \Delta \vdash B_2,\Gamma} {\Delta \vdash B_1\amp B_2,\Gamma}\ {\amp}R $$ $$\frac{\Delta,B_1 \vdash \Gamma \qquad \Delta,B_2 \vdash \Gamma} {\Delta,B_1\oplus B_2 \vdash \Gamma}\ {\oplus}L \qquad \frac{\Delta \vdash B_i,\Gamma} {\Delta \vdash B_1\oplus B_2,\Gamma}\ {\oplus}R\ (i=1,2) $$
+    step2: |-
+      **加性规则** $$\frac{}{\Delta,\zero \vdash \Gamma}\ \zero L \qquad \frac{}{\Delta \vdash \top,\Gamma}\ \top R $$ $$\frac{\Delta, B_i \vdash \Gamma} {\Delta, B_1\amp B_2 \vdash \Gamma}\ {\amp}L\ (i=1,2) \qquad \frac{\Delta \vdash B_1,\Gamma \qquad \Delta \vdash B_2,\Gamma} {\Delta \vdash B_1\amp B_2,\Gamma}\ {\amp}R $$ $$\frac{\Delta,B_1 \vdash \Gamma \qquad \Delta,B_2 \vdash \Gamma} {\Delta,B_1\oplus B_2 \vdash \Gamma}\ {\oplus}L \qquad \frac{\Delta \vdash B_i,\Gamma} {\Delta \vdash B_1\oplus B_2,\Gamma}\ {\oplus}R\ (i=1,2) $$
+  - id: 28
+    kind: body
+    source: |-
+      **Quantifier Rules** $$\frac{\Delta, B[t/x] \vdash \Gamma}{\Delta,\forall x.B \vdash \Gamma}\ \forall L \qquad \frac{\Delta \vdash B[y/x],\Gamma}{\Delta \vdash \forall x.B,\Gamma}\ \forall R $$ $$\frac{\Delta \vdash B[t/x],\Gamma}{\Delta \vdash \exists x.B,\Gamma}\ \exists R \qquad \frac{\Delta,B[y/x] \vdash \Gamma}{\Delta,\exists x.B \vdash \Gamma}\ \exists L, $$
+    step1: |-
+      **量词规则** $$\frac{\Delta, B[t/x] \vdash \Gamma}{\Delta,\forall x.B \vdash \Gamma}\ \forall L \qquad \frac{\Delta \vdash B[y/x],\Gamma}{\Delta \vdash \forall x.B,\Gamma}\ \forall R $$ $$\frac{\Delta \vdash B[t/x],\Gamma}{\Delta \vdash \exists x.B,\Gamma}\ \exists R \qquad \frac{\Delta,B[y/x] \vdash \Gamma}{\Delta,\exists x.B \vdash \Gamma}\ \exists L, $$
+    step2: |-
+      **量词规则** $$\frac{\Delta, B[t/x] \vdash \Gamma}{\Delta,\forall x.B \vdash \Gamma}\ \forall L \qquad \frac{\Delta \vdash B[y/x],\Gamma}{\Delta \vdash \forall x.B,\Gamma}\ \forall R $$ $$\frac{\Delta \vdash B[t/x],\Gamma}{\Delta \vdash \exists x.B,\Gamma}\ \exists R \qquad \frac{\Delta,B[y/x] \vdash \Gamma}{\Delta,\exists x.B \vdash \Gamma}\ \exists L, $$
+  - id: 29
+    kind: body
+    source: |-
+      **Exponential Rules** $$\frac{\Delta \vdash \Gamma}{\Delta, \bang B \vdash \Gamma}\ \bang W \quad \frac{\Delta, \bang B, \bang B \vdash \Gamma}{\Delta, \bang B \vdash \Gamma}\ \bang C \quad \frac{\Delta,B \vdash \Gamma}{\Delta, \bang B \vdash \Gamma}\ \bang D \quad \frac{\bang\Delta \vdash B,\quest\Gamma}{\bang\Delta \vdash \bang B,\quest\Gamma}\ \bang R $$ $$\frac{\Delta \vdash \Gamma}{\Delta \vdash \quest B,\Gamma}\ \quest W \quad \frac{\Delta \vdash \quest B, \quest B,\Gamma}{\Delta \vdash \quest B,\Gamma}\ \quest C \quad \frac{\Delta \vdash B,\Gamma}{\Delta \vdash \quest B,\Gamma}\ \quest D \quad \frac{\bang\Delta,B \vdash \quest\Gamma}{\bang\Delta,\quest B \vdash \quest\Gamma}\ \quest L $$
+    step1: |-
+      **指数规则** $$\frac{\Delta \vdash \Gamma}{\Delta, \bang B \vdash \Gamma}\ \bang W \quad \frac{\Delta, \bang B, \bang B \vdash \Gamma}{\Delta, \bang B \vdash \Gamma}\ \bang C \quad \frac{\Delta,B \vdash \Gamma}{\Delta, \bang B \vdash \Gamma}\ \bang D \quad \frac{\bang\Delta \vdash B,\quest\Gamma}{\bang\Delta \vdash \bang B,\quest\Gamma}\ \bang R $$ $$\frac{\Delta \vdash \Gamma}{\Delta \vdash \quest B,\Gamma}\ \quest W \quad \frac{\Delta \vdash \quest B, \quest B,\Gamma}{\Delta \vdash \quest B,\Gamma}\ \quest C \quad \frac{\Delta \vdash B,\Gamma}{\Delta \vdash \quest B,\Gamma}\ \quest D \quad \frac{\bang\Delta,B \vdash \quest\Gamma}{\bang\Delta,\quest B \vdash \quest\Gamma}\ \quest L $$
+    step2: |-
+      **指数规则** $$\frac{\Delta \vdash \Gamma}{\Delta, \bang B \vdash \Gamma}\ \bang W \quad \frac{\Delta, \bang B, \bang B \vdash \Gamma}{\Delta, \bang B \vdash \Gamma}\ \bang C \quad \frac{\Delta,B \vdash \Gamma}{\Delta, \bang B \vdash \Gamma}\ \bang D \quad \frac{\bang\Delta \vdash B,\quest\Gamma}{\bang\Delta \vdash \bang B,\quest\Gamma}\ \bang R $$ $$\frac{\Delta \vdash \Gamma}{\Delta \vdash \quest B,\Gamma}\ \quest W \quad \frac{\Delta \vdash \quest B, \quest B,\Gamma}{\Delta \vdash \quest B,\Gamma}\ \quest C \quad \frac{\Delta \vdash B,\Gamma}{\Delta \vdash \quest B,\Gamma}\ \quest D \quad \frac{\bang\Delta,B \vdash \quest\Gamma}{\bang\Delta,\quest B \vdash \quest\Gamma}\ \quest L $$
+  - id: 30
+    kind: body
+    source: |-
+      Notice that the rules of weakening and contraction are available only for formulas marked with the exponential $\bang$ on the left or $\quest$ on the right of the sequent. The $\quest$R and $\bang$L rules are often called “dereliction” rules. The $\quest$L and $\bang$R rules are often called “promotion” rules and are similar to the sequent calculus rules used in the treatment of S4 modal logic (Ono 1998)[^ono-1998]. The usual proviso for the $\forall$-right and $\exists$-left introduction rules is assumed; in particular, the variable $y$ must not be free in the formulas of the lower sequent of those inference rules. Quantification here is assumed to be first-order. Girard presented a higher-order version of linear logic in his 1987 paper.
+    step1: |-
+      注意：弱化与收缩规则只对矢列左侧标记指数 $\bang$ 的公式或右侧标记 $\quest$ 的公式可用。$\quest$R 与 $\bang$L 规则常称“废弃”（dereliction）规则。$\quest$L 与 $\bang$R 规则常称“提升”（promotion）规则，类似 S4 模态逻辑处理中所用的矢列演算规则（Ono 1998）[^ono-1998]。$\forall$-右与 $\exists$-左引入规则假定通常的限制；特别是，变量 $y$ 在这些推理规则的下层矢列的公式中不得自由出现。这里假定量化是一阶的。Girard 在 1987 年论文中给出了线性逻辑的高阶版本。
+    step2: |-
+      注意：弱化与收缩只对左侧标 $\bang$、右侧标 $\quest$ 的公式可用。$\quest$R 与 $\bang$L 规则常称“废弃”（dereliction）规则；$\quest$L 与 $\bang$R 常称“提升”（promotion）规则，类似 S4 模态逻辑的矢列演算规则（Ono 1998）[^ono-1998]。$\forall$-右与 $\exists$-左引入规则照例有限制：变量 $y$ 不得在这些规则下层矢列的公式中自由出现。量化这里假定为一阶。Girard 1987 年的论文给出了高阶版本。
+  - id: 31
+    kind: body
+    source: |-
+      The cut rule can be eliminated and completeness is still maintained. Dually, the *init* rule can also be eliminated as well except for the occurrences of *init* involving atomic formulas.
+    step1: |-
+      切规则可以消除，完全性仍然保持。对偶地，*init* 规则除涉及原子公式的情形外也可以消除。
+    step2: |-
+      切规则可以消去，完全性照旧。对偶地，*init* 规则除涉及原子公式的用法外也可消去。
+  - id: 32
+    kind: body
+    source: |-
+      ### 2.2 Focused proofs
+    step1: |-
+      ### 2.2 聚焦证明
+    step2: |-
+      ### 2.2 聚焦证明
+  - id: 33
+    kind: body
+    source: |-
+      An important normal form theorem for the structure of cut-free proofs was provided by Andreoli (1992). He classified a non-atomic formula as *asynchronous* if its top-level logical connective is $\top$, &, $\bot , \lpar$, $\quest$, or $\forall$ or *synchronous* if its top-level logical connective is $0, \oplus , 1, \otimes$, $\bang$, or $\exists$.
+    step1: |-
+      Andreoli（1992）给出了关于无切证明结构的一个重要范式定理。他把非原子公式分类如下：若其顶层联结词为 $\top$、&、$\bot , \lpar$、$\quest$ 或 $\forall$，则称为 *异步的*；若其顶层联结词为 $0, \oplus , 1, \otimes$、$\bang$ 或 $\exists$，则称为 *同步的*。
+    step2: |-
+      Andreoli（1992）给出一个关于无切证明结构的重要范式定理。他把非原子公式分为两类：顶层联结词为 $\top$、&、$\bot , \lpar$、$\quest$、$\forall$ 的称 *异步*；顶层联结词为 $0, \oplus , 1, \otimes$、$\bang$、$\exists$ 的称 *同步*。
+  - id: 34
+    kind: body
+    source: |-
+      When viewing proof search as a computational model, we consider how inference rules can transform a sequent as its *conclusion* into *premises*. As a result, we can see formulas in a sequent as being “agents” that may act independently or in concert with others in their environment. Here, the actions of such agents are determined by reading the introduction rule for them bottom-up. If an asynchronous formula occurs on the right of a sequent, it can evolve without affecting provability and without interacting with its context, i.e., the corresponding introduction rule is invertible. For example, the agent $(B \lpar C)$ becomes (by applying the $\lpar$-right introduction rule) the two agents $B$ and $C$ (now working in parallel). Similarly, the agent $(B \amp C)$ yields (by applying the &-right introduction rule) two different identical worlds (sequents) except that $B$ is in one of these worlds and $C$ is in the other.
+    step1: |-
+      把证明搜索看作计算模型时，我们考虑推理规则如何把作为其 *结论* 的矢列转变为 *前提*。由此，可以把矢列中的公式看作“行动者”，它们可以各自行动，也可与所处环境中的其他行动者协同。这里，这类行动者的动作由自下而上地读取其引入规则来决定。若异步公式出现在矢列右侧，它可以在不影响可证性的情况下演化，也不与其语境相互作用，也就是说，相应的引入规则可逆。例如行动者 $(B \lpar C)$ 经（施用 $\lpar$-右引入规则）变成两个行动者 $B$ 与 $C$（此时并行工作）。类似地，行动者 $(B \amp C)$ 经（施用 &-右引入规则）产生两个不同的、除一个含 $B$、另一个含 $C$ 外完全相同的世界（矢列）。
+    step2: |-
+      把证明搜索看作计算模型时，要看推理规则如何把作为 *结论* 的矢列变成 *前提*。于是矢列中的公式可视为“行动者”：既可各自行动，也可与环境中的同伴协同。行动者的动作，由自下而上读其引入规则而定。异步公式若在矢列右侧，就能在不影响可证性、不与语境互动的情况下演化——相应引入规则可逆。例如 $(B \lpar C)$ 经 $\lpar$-右规则变成 $B$ 与 $C$ 两个行动者（此时并行干活）。$(B \amp C)$ 经 &-右规则产生两个世界（矢列），除一个含 $B$、另一个含 $C$ 外完全相同。
+  - id: 35
+    kind: body
+    source: |-
+      On the other hand, if we view a synchronous formula as an agent whose evolution is determined by reading the corresponding right-introduction rule from the bottom up, then it is possible for a provable sequent to evolve to a non-provable sequent (for example, by applying the $\oplus$ right-introduction rule). Also, the instances of such inference rules depend on details of the context of the formula. For example, the success of the 1-right introduction rule requires that the surrounding context is empty and the success of the $\otimes$-right introduction rule depends on how the agent’s surrounding context is divided into two contexts. Thus, the evolution of such agents depends on “synchronizing” with other parts of the context.
+    step1: |-
+      另一方面，若把同步公式看作行动者，其演化由自下而上读取相应的右引入规则决定，那么可证矢列有可能演化为不可证矢列（例如施用 $\oplus$ 右引入规则）。而且，这类推理规则的实例取决于该公式语境的细节。例如 1-右引入规则成功，要求周围语境为空；$\otimes$-右引入规则成功，则取决于行动者周围语境如何分成两个语境。因此，这类行动者的演化依赖于与语境其他部分的“同步”。
+    step2: |-
+      反之，若把同步公式看作行动者，其演化由自下而上读相应右引入规则决定，则可证矢列也可能演化成不可证矢列（如施用 $\oplus$ 右规则）。而且这类规则的实例取决于公式语境的细节：1-右规则成功要求周围语境为空，$\otimes$-右规则成功则看行动者的周围语境怎样一分为二。所以这类行动者的演化，取决于与语境其余部分的“同步”。
+  - id: 36
+    kind: body
+    source: |-
+      Now consider a one-sided sequent calculus presentation of linear logic where the only introduction rules are right-introduction rules. Given the above classification of connectives, it is possible to show that proof search can be structured into the following phases without loss of completeness. The *asynchronous phase* occurs if there is an asynchronous formula present in the sequent. In this phase, right-introduction rules are applied (bottom-up) in any order until there are no further asynchronous formulas. In the *synchronous phase* some synchronous formula is selected and becomes the “focus” of this phase: that is, right-introduction rules are applied (bottom-up) to it and to any synchronous subformula that it might generate.
+    step1: |-
+      现考虑线性逻辑的单边矢列演算表述，其中只有右引入规则。按上述联结词分类，可以证明：在不损失完全性的前提下，证明搜索可组织成下列阶段。若矢列中存在异步公式，就进入 *异步阶段*：在此阶段自下而上按任意次序施用右引入规则，直到不再有异步公式。在 *同步阶段*，选出某个同步公式作为本阶段的“焦点”：也就是说，对它以及它可能生成的任何同步子公式自下而上施用右引入规则。
+    step2: |-
+      现在看线性逻辑的单边矢列演算，其中只有右引入规则。按上述分类可以证明：不损完全性，证明搜索可分成下列阶段。矢列里若有异步公式，就进入 *异步阶段*：自下而上按任意次序施用右引入规则，直到异步公式没了为止。*同步阶段* 则选一个同步公式作本阶段“焦点”，对它及其可能生成的同步子公式自下而上施用右引入规则。
+  - id: 37
+    kind: body
+    source: |-
+      The following figure presents the focusing proof system for linear logic. Notice that the two phases are represented by different arrows: the up-arrow denotes the asynchronous phase and the down-arrow denotes the synchronous phase. Also, sequents are divided into three *zones* (where the zones are separated by either a semicolon or an up or down-arrow). In particular, to the left of the up-arrow and down-arrow are the two zones. The zone written as $\Psi$ denotes a set of formulas that can be used any number of times in the proof of that sequent. The zone written as $\Delta$ denotes a multiset of formulas. The zone to the right of an up-arrow is also a multiset of formulas while the zone to the right of a down-arrow is a single formula. It is possible to impose an arbitrary order on the formulas to the right of the up-arrow since the introduction of asynchronous formulas can be done in any order. Atoms are given polarity and in the figure below, $A$ stands for positive atoms and the negation of $A$ stands for negative atoms. Proofs built by these inference rules are called *focused* proofs. The completeness of focused proofs for linear logic is proved in Andreoli 1992.
+    step1: |-
+      下图给出线性逻辑的聚焦证明系统。注意两个阶段用不同箭头表示：上箭头表示异步阶段，下箭头表示同步阶段。此外，矢列分为三个 *区*（各区以分号或上、下箭头分隔）。具体说，上箭头与下箭头左侧是两个区。写作 $\Psi$ 的区表示一个公式集，其中的公式可在该矢列的证明中使用任意多次。写作 $\Delta$ 的区表示公式的多重集。上箭头右侧的区也是公式的多重集，下箭头右侧的区则是单个公式。由于异步公式的引入可按任意次序进行，可以给上箭头右侧的公式强加任意次序。原子被赋予极性；下图中 $A$ 代表正原子，$A$ 的否定代表负原子。由这些推理规则构造的证明称为 *聚焦* 证明。线性逻辑聚焦证明的完全性在 Andreoli 1992 中证明。
+    step2: |-
+      下图是线性逻辑的聚焦证明系统。两阶段用不同箭头：上箭头为异步阶段，下箭头为同步阶段。矢列分三个 *区*（以分号或上、下箭头隔开）。上、下箭头左侧是两个区：$\Psi$ 区是公式集，其中公式在该矢列证明中可用任意多次；$\Delta$ 区是公式的多重集。上箭头右侧也是多重集，下箭头右侧则是单个公式。异步公式可按任意次序引入，故上箭头右侧公式的顺序可随意安排。原子有极性，下图中 $A$ 代表正原子，$A$ 的否定代表负原子。这些规则构造的证明叫 *聚焦* 证明，其完全性见 Andreoli 1992。
+  - id: 38
+    kind: body
+    source: |-
+      **Asynchronous Phase** $$\frac{\Up{\Psi}{\Delta}{L}}{\Up{\Psi}{\Delta}{\bot,L}}\ [\bot] \qquad \frac{\Up{\Psi,F}{\Delta}{L}} {\Up{\Psi}{\Delta}{\quest F,L}}\ [\quest] $$ $$\frac{} {\Up{\Psi}{\Delta}{\top,L}}\ [\top] \qquad \frac{\Up{\Psi}{\Delta}{F[y/x],L}} {\Up{\Psi}{\Delta}{\forall x.F,L}}\ [\forall] $$ $$\frac{\Up{\Psi}{\Delta}{F_1,F_2,L}} {\Up{\Psi}{\Delta}{F_1\lpar F_2,L}}\ [\lpar] \qquad \frac{\Up{\Psi}{\Delta}{F_1,L}\quad \Up{\Psi}{\Delta}{F_2,L}} {\Up{\Psi}{\Delta}{F_1\amp F_2,L}}\ [\amp] $$ $$\frac{\Up{\Psi}{\Delta,F}{L}}{\Up{\Psi}{\Delta}{F,L}} \ [R\Uparrow]\ \text{provided that $F$ is not asynchronous} $$
+    step1: |-
+      **异步阶段** $$\frac{\Up{\Psi}{\Delta}{L}}{\Up{\Psi}{\Delta}{\bot,L}}\ [\bot] \qquad \frac{\Up{\Psi,F}{\Delta}{L}} {\Up{\Psi}{\Delta}{\quest F,L}}\ [\quest] $$ $$\frac{} {\Up{\Psi}{\Delta}{\top,L}}\ [\top] \qquad \frac{\Up{\Psi}{\Delta}{F[y/x],L}} {\Up{\Psi}{\Delta}{\forall x.F,L}}\ [\forall] $$ $$\frac{\Up{\Psi}{\Delta}{F_1,F_2,L}} {\Up{\Psi}{\Delta}{F_1\lpar F_2,L}}\ [\lpar] \qquad \frac{\Up{\Psi}{\Delta}{F_1,L}\quad \Up{\Psi}{\Delta}{F_2,L}} {\Up{\Psi}{\Delta}{F_1\amp F_2,L}}\ [\amp] $$ $$\frac{\Up{\Psi}{\Delta,F}{L}}{\Up{\Psi}{\Delta}{F,L}} \ [R\Uparrow]\ \text{前提是 $F$ 非异步} $$
+    step2: |-
+      **异步阶段** $$\frac{\Up{\Psi}{\Delta}{L}}{\Up{\Psi}{\Delta}{\bot,L}}\ [\bot] \qquad \frac{\Up{\Psi,F}{\Delta}{L}} {\Up{\Psi}{\Delta}{\quest F,L}}\ [\quest] $$ $$\frac{} {\Up{\Psi}{\Delta}{\top,L}}\ [\top] \qquad \frac{\Up{\Psi}{\Delta}{F[y/x],L}} {\Up{\Psi}{\Delta}{\forall x.F,L}}\ [\forall] $$ $$\frac{\Up{\Psi}{\Delta}{F_1,F_2,L}} {\Up{\Psi}{\Delta}{F_1\lpar F_2,L}}\ [\lpar] \qquad \frac{\Up{\Psi}{\Delta}{F_1,L}\quad \Up{\Psi}{\Delta}{F_2,L}} {\Up{\Psi}{\Delta}{F_1\amp F_2,L}}\ [\amp] $$ $$\frac{\Up{\Psi}{\Delta,F}{L}}{\Up{\Psi}{\Delta}{F,L}} \ [R\Uparrow]\ \text{前提是 $F$ 非异步} $$
+  - id: 39
+    kind: body
+    source: |-
+      **Synchronous Phase** $$\frac{}{\Down{\Psi}{\cdot}{\one}}\ [\one] \qquad \frac{\Down{\Psi}{\Delta_1}{F_1}\quad \Down{\Psi}{\Delta_2}{F_2}} {\Down{\Psi}{\Delta_1,\Delta_2}{F_1\ot F_2}} \ [\ot] \qquad \frac{\Up{\Psi}{\cdot}{F}}{\Down{\Psi}{\cdot}{\bang F}} \ [\bang] $$ $$\frac{\Down{\Psi}{\Delta}{F_i}}{\Down{\Psi}{\Delta}{F_1\oplus F_2}} \ [\oplus_i] \qquad \frac{\Down{\Psi}{\Delta}{F[t/x]}} {\Down{\Psi}{\Delta}{\exists x.F}} \ [\exists] $$ $$\frac{\Up{\Psi}{\Delta}{F}}{\Down{\Psi}{\Delta}{F}} \ [R\Downarrow]\ \text{provided that $F$ is either asynchronous or an atom} $$
+    step1: |-
+      **同步阶段** $$\frac{}{\Down{\Psi}{\cdot}{\one}}\ [\one] \qquad \frac{\Down{\Psi}{\Delta_1}{F_1}\quad \Down{\Psi}{\Delta_2}{F_2}} {\Down{\Psi}{\Delta_1,\Delta_2}{F_1\ot F_2}} \ [\ot] \qquad \frac{\Up{\Psi}{\cdot}{F}}{\Down{\Psi}{\cdot}{\bang F}} \ [\bang] $$ $$\frac{\Down{\Psi}{\Delta}{F_i}}{\Down{\Psi}{\Delta}{F_1\oplus F_2}} \ [\oplus_i] \qquad \frac{\Down{\Psi}{\Delta}{F[t/x]}} {\Down{\Psi}{\Delta}{\exists x.F}} \ [\exists] $$ $$\frac{\Up{\Psi}{\Delta}{F}}{\Down{\Psi}{\Delta}{F}} \ [R\Downarrow]\ \text{前提是 $F$ 或为异步公式，或为原子} $$
+    step2: |-
+      **同步阶段** $$\frac{}{\Down{\Psi}{\cdot}{\one}}\ [\one] \qquad \frac{\Down{\Psi}{\Delta_1}{F_1}\quad \Down{\Psi}{\Delta_2}{F_2}} {\Down{\Psi}{\Delta_1,\Delta_2}{F_1\ot F_2}} \ [\ot] \qquad \frac{\Up{\Psi}{\cdot}{F}}{\Down{\Psi}{\cdot}{\bang F}} \ [\bang] $$ $$\frac{\Down{\Psi}{\Delta}{F_i}}{\Down{\Psi}{\Delta}{F_1\oplus F_2}} \ [\oplus_i] \qquad \frac{\Down{\Psi}{\Delta}{F[t/x]}} {\Down{\Psi}{\Delta}{\exists x.F}} \ [\exists] $$ $$\frac{\Up{\Psi}{\Delta}{F}}{\Down{\Psi}{\Delta}{F}} \ [R\Downarrow]\ \text{前提是 $F$ 或为异步公式，或为原子} $$
+  - id: 40
+    kind: body
+    source: |-
+      **Identity and Decide Rules** $$\frac{}{\Down{\Psi}{A}{A^{\perp}}} \ [I_1] \qquad \frac{}{\Down{\Psi,A}{\cdot}{A^{\perp}}} \ [I_2]\ \text{where } A \text{ is an atom} $$ $$\frac{\Down{\Psi}{\Delta}{F}}{\Up{\Psi}{\Delta,F}{\cdot}} \ [D_1] \qquad \frac{\Down{\Psi}{\Delta}{F}}{\Up{\Psi,F}{\Delta}{\cdot}} \ [D_2]\ \text{where } F \text{ is a positive formula} $$
+    step1: |-
+      **同一性与判定规则** $$\frac{}{\Down{\Psi}{A}{A^{\perp}}} \ [I_1] \qquad \frac{}{\Down{\Psi,A}{\cdot}{A^{\perp}}} \ [I_2]\ \text{其中 } A \text{ 为原子} $$ $$\frac{\Down{\Psi}{\Delta}{F}}{\Up{\Psi}{\Delta,F}{\cdot}} \ [D_1] \qquad \frac{\Down{\Psi}{\Delta}{F}}{\Up{\Psi,F}{\Delta}{\cdot}} \ [D_2]\ \text{其中 } F \text{ 为正公式} $$
+    step2: |-
+      **同一性与判定规则** $$\frac{}{\Down{\Psi}{A}{A^{\perp}}} \ [I_1] \qquad \frac{}{\Down{\Psi,A}{\cdot}{A^{\perp}}} \ [I_2]\ \text{其中 } A \text{ 为原子} $$ $$\frac{\Down{\Psi}{\Delta}{F}}{\Up{\Psi}{\Delta,F}{\cdot}} \ [D_1] \qquad \frac{\Down{\Psi}{\Delta}{F}}{\Up{\Psi,F}{\Delta}{\cdot}} \ [D_2]\ \text{其中 } F \text{ 为正公式} $$
+  - id: 41
+    kind: body
+    source: |-
+      Focused proof systems have also been designed for classical and intuitionistic logics (Danos *et al*. 1997; Laurent *et al*. 2005; Liang & Miller 2009)[^danos-1997][^laurent-2005][^liang-2009].
+    step1: |-
+      聚焦证明系统也被设计用于经典逻辑与直觉主义逻辑（Danos *et al*. 1997; Laurent *et al*. 2005; Liang & Miller 2009）[^danos-1997][^laurent-2005][^liang-2009]。
+    step2: |-
+      聚焦证明系统也被设计用于经典逻辑与直觉主义逻辑（Danos *et al*. 1997; Laurent *et al*. 2005; Liang & Miller 2009）[^danos-1997][^laurent-2005][^liang-2009]。
+  - id: 42
+    kind: body
+    source: |-
+      ### 2.3 Proof nets
+    step1: |-
+      ### 2.3 证明网
+    step2: |-
+      ### 2.3 证明网
+  - id: 43
+    kind: body
+    source: |-
+      Proofs presented using a sequent calculus contain a lot of detail that sometimes is uninteresting: consider for example how many uninterestingly different ways there are to form a proof of $\vdash \Gamma , (A_1\lpar A_2), \ldots ,(A_{n-1}\lpar A_n)$ from a derivation of $\vdash \Gamma , A_1, A_2 , \ldots ,A_n$. This unpleasant fact derives from the sequential nature of proofs in a sequent calculus: if we want to apply a set $S$ of $n$ rules to different parts of a sequent, we cannot apply them in one step, even if they do not interfere with each other! We must *sequentialize* them, i.e., choose a linear order on $S$ and apply the rules in $n$ steps, according to this order.
+    step1: |-
+      用矢列演算给出的证明含有大量细节，有时索然无味：例如，由 $\vdash \Gamma , A_1, A_2 , \ldots ,A_n$ 的推导构造 $\vdash \Gamma , (A_1\lpar A_2), \ldots ,(A_{n-1}\lpar A_n)$ 的证明，有多少种无趣地互不相同的写法？这个不愉快的事实源自矢列演算中证明的序列本性：若要把含 $n$ 条规则的集合 $S$ 施用于矢列的不同部分，即便它们互不干扰，也不能一步施用！必须把它们 *序列化*，即在 $S$ 上选一个线性次序，按此次序分 $n$ 步施用规则。
+    step2: |-
+      矢列演算给出的证明含大量细节，有时索然无味：比如由 $\vdash \Gamma , A_1, A_2 , \ldots ,A_n$ 的推导，构造 $\vdash \Gamma , (A_1\lpar A_2), \ldots ,(A_{n-1}\lpar A_n)$ 的证明，有多少种无趣而互不相同的写法？这不愉快的事实源于矢列演算中证明的序列本性：要把 $n$ 条规则的集合 $S$ 施于矢列的不同部分，即便互不干扰，也不能一步完成！必须把它们 *序列化*——在 $S$ 上取一个线性次序，按此次序分 $n$ 步施用。
+  - id: 44
+    kind: body
+    source: |-
+      A natural question arises: “Is there a representation of proofs that abstracts from such uninteresting details?”. A similar question is answered positively in the case of intuitionistic sequent calculus by means of what is known as *natural deduction*, that has, via the Curry-Howard correspondence (Howard 1980)[^howard-1980], a strong connection with the computational device known as $\lambda$-calculus.
+    step1: |-
+      自然会问：“有没有一种表示证明的方式，能抽掉这类无趣的细节？”在直觉主义矢列演算的情形，类似问题已有肯定回答，靠的是所谓 *自然演绎*；经由 Curry–Howard 对应（Howard 1980）[^howard-1980]，它与称为 $\lambda$-演算的计算装置有强联系。
+    step2: |-
+      自然会问：“有没有一种表示证明的方式，能把这些无趣细节抽掉？”直觉主义矢列演算的情形已有肯定回答，靠的是 *自然演绎*；经 Curry–Howard 对应（Howard 1980）[^howard-1980]，它与 $\lambda$-演算这一计算装置紧密相关。
+  - id: 45
+    kind: body
+    source: |-
+      For linear logic, this succinct representation of proofs is given by *proof nets*, graph-like structures that enjoy particularly good properties for the MLL fragment of the logic. The first step towards this representation is to convert all the sequent calculus system, using the involutivity of negation, into a one-sided system, where sequents are of the form $\vdash \Gamma$. As a consequence, the number of rules is reduced since we have no left-introduction rules, but we keep the same expressive power, as provability stays the same.
+    step1: |-
+      对线性逻辑而言，这种简洁的证明表示由 *证明网* 给出：这是一种图状结构，在线性逻辑的 MLL 片段中性质格外好。走向这种表示的第一步，是利用否定的对合性把整个矢列演算系统转换为单边系统，其中矢列形如 $\vdash \Gamma$。其结果是规则数目减少，因为不再有左引入规则，而表达力不变，可证性依旧。
+    step2: |-
+      线性逻辑这种简洁的证明表示，就是 *证明网*：一种图状结构，在 MLL 片段里性质格外好。第一步是用否定的对合性把整个矢列演算改成单边系统，矢列形如 $\vdash \Gamma$。这样规则少了（没有左引入规则），表达力不减，可证性照旧。
+  - id: 46
+    kind: body
+    source: |-
+      To each sequent calculus proof in MLL, one can inductively associate a proof net with the same *conclusions* as follows:
+    step1: |-
+      对 MLL 中每个矢列演算证明，都可以归纳地配上一个具有相同 *结论* 的证明网，办法如下：
+    step2: |-
+      对 MLL 的每个矢列演算证明，归纳配上结论相同的证明网：
+  - id: 47
+    kind: body
+    source: |-
+      - To a proof reduced to the axiom rule, we associate an *axiom link*. ![Axiom net](../assets/logic-linear/Axiom.jpg)
+      - For a proof obtained by applying the cut rule to two proofs, we first inductively build the proof nets associated to those two proofs, and then we combine them using a *cut link*. ![Cut net construction](../assets/logic-linear/Cut.jpg)
+      - For a proof obtained by applying the tensor rule to two proofs, we first inductively build the proof nets associated to those two proofs, and then we combine them using a *tensor link*. ![Tensor net construction](../assets/logic-linear/Tensor.jpg)
+      - For a proof obtained by applying the par rule to a proof, first inductively build the proof net associated to that proof, and then we add a “par link”. ![Par net construction](../assets/logic-linear/Par.jpg)
+    step1: |-
+      - 对化归为公理规则的证明，配一个 *公理连线*。![公理网](../assets/logic-linear/Axiom.jpg)
+      - 对由切规则施于两个证明所得的证明，先归纳构造这两个证明对应的证明网，再用 *切连线* 把它们连起来。![切网构造](../assets/logic-linear/Cut.jpg)
+      - 对由张量规则施于两个证明所得的证明，先归纳构造这两个证明对应的证明网，再用 *张量连线* 把它们连起来。![张量网构造](../assets/logic-linear/Tensor.jpg)
+      - 对由 par 规则施于一个证明所得的证明，先归纳构造该证明对应的证明网，再加一条“par 连线”。![par 网构造](../assets/logic-linear/Par.jpg)
+    step2: |-
+      - 化归为公理规则的证明，配一条 *公理连线*。![公理网](../assets/logic-linear/Axiom.jpg)
+      - 切规则施于两个证明所得的证明：先归纳构造二者的证明网，再用 *切连线* 相连。![切网构造](../assets/logic-linear/Cut.jpg)
+      - 张量规则施于两个证明所得的证明：先归纳构造二者证明网，再用 *张量连线* 相连。![张量网构造](../assets/logic-linear/Tensor.jpg)
+      - par 规则施于一个证明所得的证明：先归纳构造该证明的证明网，再加一条“par 连线”。![par 网构造](../assets/logic-linear/Par.jpg)
+  - id: 48
+    kind: body
+    source: |-
+      All this can be properly formalized using hypergraphs (formulas are nodes and “links” are oriented hyperedges with hypotheses and conclusions), and we can formally define as a proof net a hypergraph inductively built out of a sequent calculus derivation of MLL. Notice that there are quite a lot of hypergraphs that are not proof nets.
+    step1: |-
+      凡此都可用超图恰当地形式化（公式为结点，“连线”为带假设与结论的有向超边）；于是可以把证明网形式地定义为由 MLL 的矢列演算推导归纳构造出的超图。注意有不少超图并不是证明网。
+    step2: |-
+      这些都能用超图形式化（公式是结点，“连线”是带假设与结论的有向超边）；于是证明网可形式地定义为由 MLL 矢列推导归纳构造的超图。注意大量超图并非证明网。
+  - id: 49
+    kind: body
+    source: |-
+      Now if you look at the proof net built from the derivations of $\vdash \Gamma , (A_1\lpar A_2), \ldots ,(A_{n-1}\lpar A_n)$ obtained from $\vdash \Gamma , A_1, A_2 , \ldots ,A_n$, you will see that all trace of the order of application of the rules has disappeared. In a sense, the proof nets are an equivalence class of sequent calculus derivations with respect to the derivation order of rules whose application commute.
+    step1: |-
+      现在看由 $\vdash \Gamma , A_1, A_2 , \ldots ,A_n$ 所得的 $\vdash \Gamma , (A_1\lpar A_2), \ldots ,(A_{n-1}\lpar A_n)$ 的推导所构造的证明网：你会发现，规则施用次序的一切痕迹都消失了。可以说，证明网是矢列演算推导在“施用可交换的规则之推导次序”下的等价类。
+    step2: |-
+      现在看：从 $\vdash \Gamma , A_1, A_2 , \ldots ,A_n$ 出发，得到 $\vdash \Gamma , (A_1\lpar A_2), \ldots ,(A_{n-1}\lpar A_n)$ 的推导，其证明网里规则施用次序的痕迹全没了。可以说，证明网就是矢列演算推导在“施用次序可交换的规则”下的等价类。
+  - id: 50
+    kind: body
+    source: |-
+      Suppose that somebody now comes to you with a huge hypergraph built with axiom, cut, par and tensor links, claiming that it is actually a representation of a proof. How can you verify that it is actually a representation of a proof, and not just a random structure?
+    step1: |-
+      假设现在有人拿来一个由公理、切、par 与张量连线搭成的巨大超图，声称它其实是某个证明的表示。你怎样验证它确实是证明的表示，而不只是一个随便的结构？
+    step2: |-
+      假设有人拿来一个由公理、切、par、张量连线搭成的巨大超图，声称它表示某个证明。你怎么验证它真是证明的表示，而不只是个随便的结构？
+  - id: 51
+    kind: body
+    source: |-
+      Performing this *correctness* check is a challenge that amounts to rebuilding a sequential construction history for your structure, corresponding to a derivation in sequent calculus, and seems at first a very complex problem. The first correctness criterion for MLL proof nets, called the “long trip criterion”, and present in Girard’s original paper, is exponential, as well as the ACC (Acyclic connected) criterion of Danos and Regnier (1989) found later on. Nevertheless, there exists a much more efficient criterion, known as Contractibility, due to Danos and Regnier, that has more recently been reformulated as the following elegant graph parsing criterion by Guerrini, Martini and Masini: a hypergraph is a proof net if and only if it reduces to the singleton node “net” via the following graph reduction rules
+    step1: |-
+      做这项 *正确性* 检查是个挑战：等于要为你的结构重建一段与矢列演算推导相应的序列构造史，乍看似乎极其复杂。MLL 证明网的第一个正确性判据叫“长途判据”（long trip criterion），见于 Girard 原文；后来 Danos 与 Regnier（1989）的 ACC（无环连通）判据也是指数时间的。然而存在一个高效得多的判据，称为可收缩性（Contractibility），由 Danos 与 Regnier 提出；最近 Guerrini、Martini 与 Masini 把它重述为下述优雅的图解析判据：一个超图是证明网，当且仅当它按下列图归约规则化归为单结点“net”。
+    step2: |-
+      这项 *正确性* 检查是个挑战：等于为结构重建一段与矢列演算推导相应的序列构造史，乍看极复杂。MLL 证明网的第一个正确性判据是 Girard 原文的“长途判据”（long trip criterion），指数时间；后来 Danos 与 Regnier（1989）的 ACC（无环连通）判据亦然。但另有高效得多的判据，称可收缩性（Contractibility），由 Danos 与 Regnier 提出，近来 Guerrini、Martini、Masini 重述为下述优雅的图解析判据：超图是证明网，当且仅当它按下列图归约规则归约到单结点“net”。
+  - id: 52
+    kind: body
+    source: |-
+      ![Graph Parsing for MLL proof net recognition](../assets/logic-linear/parsing.jpg)
+    step1: |-
+      ![MLL 证明网识别的图解析](../assets/logic-linear/parsing.jpg)
+    step2: |-
+      ![MLL 证明网识别的图解析](../assets/logic-linear/parsing.jpg)
+  - id: 53
+    kind: body
+    source: |-
+      Performing this check naively can take quadratic time (each application of a rule may require an entire lookup of the graph to find the redex, and we need to perform as many steps as there are hyperlinks in the graph). Linear time algorithms have been give by Guerrini (2011) and by Murawski and Ong (2006).
+    step1: |-
+      朴素地做这项检查可能需二次时间（每次施用规则都可能要遍历整张图去找可归约式，而步数等于图中超连线的数目）。线性时间算法已由 Guerrini（2011）以及 Murawski 与 Ong（2006）给出。
+    step2: |-
+      朴素地做这项检查可能耗时二次方（每施一条规则都要遍历整张图找可归约式，步数又等于超连线数目）。线性时间算法见 Guerrini（2011）、Murawski 与 Ong（2006）。
+  - id: 54
+    kind: body
+    source: |-
+      Another style of correctness criterion for MLL proof nets is given by Retoré (2003) in which a quadratic algorithm is given for MLL.
+    step1: |-
+      MLL 证明网的另一类正确性判据由 Retoré（2003）给出，其中为 MLL 提供了一个二次时间算法。
+    step2: |-
+      MLL 证明网的另一类正确性判据见 Retoré（2003），他为 MLL 给出二次时间算法。
+  - id: 55
+    kind: body
+    source: |-
+      On proof nets, one can perform cut elimination in a particularly clean way, because of their parallel nature, cuts can be eliminated locally via two simplification rules:
+    step1: |-
+      在证明网上，切消除可以做得格外干净：由于其并行本性，切可通过两条化简规则局部消除：
+    step2: |-
+      证明网上的切消除格外干净：凭其并行本性，切可用两条化简规则局部消去：
+  - id: 56
+    kind: body
+    source: |-
+      - Axiom move: ![Axiom move](../assets/logic-linear/Identity.jpg)
+      - Multiplicative move: ![Multiplicative move](../assets/logic-linear/Multiplicative.jpg)
+    step1: |-
+      - 公理移动：![公理移动](../assets/logic-linear/Identity.jpg)
+      - 乘法移动：![乘法移动](../assets/logic-linear/Multiplicative.jpg)
+    step2: |-
+      - 公理移动：![公理移动](../assets/logic-linear/Identity.jpg)
+      - 乘法移动：![乘法移动](../assets/logic-linear/Multiplicative.jpg)
+  - id: 57
+    kind: body
+    source: |-
+      These are actually computation rules over proof nets, and the correctness criteria allow to verify easily that any such rule preserves correctness, and as a consequence, the reduction of a proof net still comes from a sequent calculus proof of the same sequent.
+    step1: |-
+      这些其实是证明网上的计算规则，而正确性判据使人容易验证：任何这类规则都保持正确性；因此，证明网的归约结果仍来自同一矢列的矢列演算证明。
+    step2: |-
+      这些其实是证明网上的计算规则；有了正确性判据，就容易验证任何这类规则都保持正确性，于是证明网归约之后，仍来自同一矢列的矢列演算证明。
+  - id: 58
+    kind: body
+    source: |-
+      Hence, cut elimination in MLL proof nets can be performed in linear time and gives a simple, elegant cut-elimination result for all of MLL.
+    step1: |-
+      因此，MLL 证明网中的切消除可在线性时间内完成，并为整个 MLL 给出一个简单、优雅的切消除结果。
+    step2: |-
+      所以，MLL 证明网的切消除可于线性时间内完成，整个 MLL 由此得到一个简单优雅的切消除结果。
+  - id: 59
+    kind: body
+    source: |-
+      The proof nets approach can be extended to larger subsets of linear logic, but then it is less clear how to obtain the same elegant results as for MLL: the original system proposed in Girard 1987 works for MELL, for example, by associating to the four exponential rules the following hypergraph constructions:
+    step1: |-
+      证明网方法可扩展到线性逻辑更大的子集，但此时如何得到像 MLL 那样优雅的结果，就不那么清楚了：Girard 1987 提出的原系统对 MELL 有效，例如它给四条指数规则配上下列超图构造：
+    step2: |-
+      证明网方法可推广到线性逻辑更大的子集，只是能否同样优雅就不清楚了：Girard 1987 的原系统对 MELL 有效，例如给四条指数规则配上下列超图构造：
+  - id: 60
+    kind: body
+    source: |-
+      - Contraction ![Contraction construction](../assets/logic-linear/Contraction.jpg)
+      - Weakening ![Weakening construction](../assets/logic-linear/Weakening.jpg)
+      - Dereliction ![Dereliction construction](../assets/logic-linear/Dereliction.jpg)
+      - Promotion, that introduces the notion of “box”, a sequentialization mark around a piece of a proof net materialized in the pictures of the graphs by the rectangle drawn around the proof net of conclusions $A$ and $\quest\Gamma$. ![Promotion construction](../assets/logic-linear/Promotion.jpg)
+    step1: |-
+      - 收缩 ![收缩构造](../assets/logic-linear/Contraction.jpg)
+      - 弱化 ![弱化构造](../assets/logic-linear/Weakening.jpg)
+      - 废弃 ![废弃构造](../assets/logic-linear/Dereliction.jpg)
+      - 提升，它引入“箱”的概念：箱是围绕证明网某一部分的序列化标记，在图中以画在结论为 $A$ 与 $\quest\Gamma$ 的证明网周围的矩形表示。![提升构造](../assets/logic-linear/Promotion.jpg)
+    step2: |-
+      - 收缩 ![收缩构造](../assets/logic-linear/Contraction.jpg)
+      - 弱化 ![弱化构造](../assets/logic-linear/Weakening.jpg)
+      - 废弃 ![废弃构造](../assets/logic-linear/Dereliction.jpg)
+      - 提升，引入“箱”的概念——箱是围绕证明网某一部分的序列化标记，图里表现为画在结论为 $A$ 与 $\quest\Gamma$ 的证明网四周的矩形。![提升构造](../assets/logic-linear/Promotion.jpg)
+  - id: 61
+    kind: body
+    source: |-
+      While these constructions and the associated graph reductions bear striking similarity with $\lambda$-calculus with explicit substitutions, as first remarked by Di Cosmo & Kesner (1997), they are too similar to the corresponding sequent calculus rules. The parallelization effect so elegant for MLL does not properly carry on here, and the graph reduction rules involve boxes and are not local.
+    step1: |-
+      这些构造及相应的图归约，与带显式替换的 $\lambda$-演算有惊人的相似——Di Cosmo 与 Kesner（1997）最早指出这一点——但它们与相应的矢列演算规则也太相似了。MLL 中那般优雅的并行化效应，在这里并不能好好延续：图归约规则涉及箱，而且不是局部的。
+    step2: |-
+      这些构造及配套的图归约，与带显式替换的 $\lambda$-演算惊人地相似（Di Cosmo 与 Kesner 1997 首先指出），但也太像相应的矢列演算规则。MLL 里那种优雅的并行化效应，到这里就续不上了：图归约规则涉及箱，又不局部。
+  - id: 62
+    kind: body
+    source: |-
+      To recover a satisfactory system, many proposals have been made, starting from the one by Danos & Regnier (1995) but we want to mention here the very elegant approach by Guerrini, Martini and Masini (Guerrini *et al.* 2003)[^guerrini-2003], that neatly shows the connection between two level proof systems for modal logic, proper proof nets for MELL, and optimal reduction in the $\lambda$-calculus.
+    step1: |-
+      为找回令人满意的系统，人们提出了许多方案，始于 Danos 与 Regnier（1995）；这里想提一下 Guerrini、Martini 与 Masini 非常优雅的办法（Guerrini *et al.* 2003）[^guerrini-2003]，它干净地展示了模态逻辑的两层证明系统、MELL 的恰当证明网，与 $\lambda$-演算中最优归约之间的联系。
+    step2: |-
+      为找回满意的系统，方案不少，始于 Danos 与 Regnier（1995）；这里特别要提 Guerrini、Martini、Masini 的优雅办法（Guerrini *et al.* 2003）[^guerrini-2003]，它清楚地显出三者之间的联系：模态逻辑的两层证明系统、MELL 的恰当证明网、$\lambda$-演算的最优归约。
+  - id: 63
+    kind: body
+    source: |-
+      A recent paper by Heijltjes and Houston (2016) has shown that there can be no satisfactory notion of proof nets for MLL if units are also allowed.
+    step1: |-
+      Heijltjes 与 Houston（2016）的近期论文表明：如果还允许单位元，MLL 就不可能有令人满意的证明网概念。
+    step2: |-
+      Heijltjes 与 Houston（2016）近文表明：若连单位元也允许，MLL 便不可能有令人满意的证明网概念。
+  - id: 64
+    kind: body
+    source: |-
+      It is possible to provide a canonical treatment of additive connectives, even with first-order quantification (Heijltjes *et al*. 2019). Proof nets for formulas containing both multiplicative and additive connectives have various technical presentations, none of which appears canonical and satisfactory. Their treatment in proof-net-like proof systems is currently a topic of active research. In particular, see (Hughes and van Glabbeek 2005)[^hughes-2005] and (Hughes and Heijltjes 2016)[^heijltjes-2016][^hughes-2016].
+    step1: |-
+      加性联结词可以给出典范的处理，即便带一阶量化也行（Heijltjes *et al.* 2019）。含乘法与加性两类联结词的公式，其证明网有各种技术性表述，似乎没有一种是典范而令人满意的。这类公式在类证明网系统中的地位，目前是活跃的研究课题。特别可参看（Hughes 与 van Glabbeek 2005）[^hughes-2005] 以及（Hughes 与 Heijltjes 2016）[^heijltjes-2016][^hughes-2016]。
+    step2: |-
+      加性联结词可有典范处理，带一阶量化亦然（Heijltjes *et al.* 2019）。含乘法、加性两类联结词的公式，其证明网有种种技术性表述，似乎没有一种堪称典范又令人满意；它们在类证明网系统中的地位，眼下是活跃课题。尤见（Hughes 与 van Glabbeek 2005）[^hughes-2005]、（Hughes 与 Heijltjes 2016）[^heijltjes-2016][^hughes-2016]。
+  - id: 65
+    kind: body
+    source: |-
+      ## 3. Semantics
+    step1: |-
+      ## 3. 语义
+    step2: |-
+      ## 3 语义
+  - id: 66
+    kind: body
+    source: |-
+      Approaching the semantics of linear logic is usually done along two different paths. First, there are various semantic structures available that can be used to map formulas to denotations in such structures. That approach can be used to establish soundness and completeness for various fragments of linear logic. A more novel semantic approach to linear logic involves giving semantics to proofs directly. We describe briefly these two approaches and provide some links to the literature.
+    step1: |-
+      接近线性逻辑语义通常有两条路。其一，有各种可用的语义结构，可把公式映射为这些结构中的指称；这条路可用来为线性逻辑的各个片段建立可靠性与完全性。较新的语义进路则直接给证明赋予语义。下面简述这两种进路，并给出若干文献线索。
+    step2: |-
+      接近线性逻辑语义，通常有两条路。一条是用现成的语义结构，把公式映射为其中的指称，借此为其各片段建立可靠性与完全性；另一条较新，直接给证明赋予语义。下面简述二者，并给若干文献线索。
+  - id: 67
+    kind: body
+    source: |-
+      ### 3.1 Semantics of provability
+    step1: |-
+      ### 3.1 可证性的语义
+    step2: |-
+      ### 3.1 可证性的语义
+  - id: 68
+    kind: body
+    source: |-
+      One approach to attempting a sound and complete semantics for fragments of linear logic associates to a formula the set of all contexts that can be used to prove that formula. Of course, such a collection may need to be more abstract and to be given various closure properties. The *phase semantics* of Girard (1987) provides one such semantics: some uses of such semantics have been made in computer science to provide counterexamples and as a tool that can help establish that a given concurrent system cannot evolve into another with certain properties (Fages *et al*. 2001)[^fages-2001]. Phase semantics have also been used to give semantic proofs of cut elimination for both first-order and higher-order versions of linear logic (Okada 1999)[^okada-1999]. Similarly, Kripke-style semantics have been provided in Allwein & Dunn 1993 and Hodas & Miller 1994. Quantales, which are certain kind of partially ordered algebraic structures, have also been used to provide semantic models for parts of linear logic early on (Yetter 1990)[^yetter-1990].
+    step1: |-
+      为线性逻辑片段寻求可靠且完全语义的一种进路，是给公式配上一切可用于证明该公式的语境之集。当然，这样的集可能得更抽象，还得赋予各种闭包性质。Girard（1987）的 *相语义*（phase semantics）就是这种语义：计算机科学中已用这类语义构造反例，并用作工具来帮助证明某个并发系统不可能演化成具有某些性质的另一系统（Fages *et al.* 2001）[^fages-2001]。相语义也被用来给线性逻辑一阶与高阶版本的切消除作语义证明（Okada 1999）[^okada-1999]。类似地，Kripke 式语义见 Allwein & Dunn 1993 与 Hodas & Miller 1994。Quantale（某种偏序代数结构）也早已被用来为线性逻辑的部分内容提供语义模型（Yetter 1990）[^yetter-1990]。
+    step2: |-
+      为线性逻辑片段求可靠且完全的语义，一条进路是给公式配上一切能证明它的语境之集。这样的集往往更抽象，还要带各种闭包性质。Girard（1987）的 *相语义*（phase semantics）即是一例：计算机科学里用它造反例，也用它当工具，证明某并发系统无法演化成具备某些性质的另一系统（Fages *et al.* 2001）[^fages-2001]。相语义还用于给一阶、高阶线性逻辑的切消除作语义证明（Okada 1999）[^okada-1999]。类似地，Kripke 式语义见 Allwein & Dunn 1993、Hodas & Miller 1994。Quantale（一类偏序代数结构）也早就用来为线性逻辑的部分内容提供语义模型（Yetter 1990）[^yetter-1990]。
+  - id: 69
+    kind: body
+    source: |-
+      ### 3.2 Semantics of proofs
+    step1: |-
+      ### 3.2 证明的语义
+    step2: |-
+      ### 3.2 证明的语义
+  - id: 70
+    kind: body
+    source: |-
+      In the formulas-as-types analogy which is so popular and fruitful in theoretical computer science, a logical system is put in correspondence with a typed computational device (like typed $\lambda$-calculus), by associating to each proof of that formula a program having that formula as a type. For example, a proof of the tautology $A \Rightarrow A$ corresponds to the program *fun*$(x:A).x:A\rightarrow A$, the identity function on objects of type $A$. This is why, in constructive logical systems (such as intuitionistic logic and arithmetic), and in linear logic, so much importance is attached to proofs, to the point that building and studying models of proofs gets so much more attention than building and studying models of provability: we are not satisfied to know that a formula is provable, we really want to know the *computational content* of its proof.
+    step1: |-
+      在理论计算机科学中如此流行而有成果的“公式即类型”类比，是把逻辑系统与带类型的计算装置（如带类型 $\lambda$-演算）对应起来：给该公式的每个证明配一个以该公式为类型的程序。例如重言式 $A \Rightarrow A$ 的证明，对应于程序 *fun*$(x:A).x:A\rightarrow A$，即类型 $A$ 对象上的恒等函数。正因如此，在构造性逻辑系统（如直觉主义逻辑与算术）中，以及在线性逻辑中，证明才如此受重视：构造并研究证明的模型，远比构造并研究可证性的模型更受关注。我们不满足于知道公式可证，还想知道其证明的 *计算内容*。
+    step2: |-
+      “公式即类型”这个类比在理论计算机科学中既流行又有成果。它把逻辑系统与带类型的计算装置（如带类型 $\lambda$-演算）对应起来，给公式的每个证明配一个以该公式为类型的程序。比如重言式 $A \Rightarrow A$ 的证明，对应程序 *fun*$(x:A).x:A\rightarrow A$，即类型 $A$ 对象上的恒等函数。正因如此，构造性逻辑系统（直觉主义逻辑、算术）以及线性逻辑才如此看重证明：构造并研究证明的模型，远比构造并研究可证性的模型更受关注。光知道公式可证还不够，还想知道其证明的 *计算内容*。
+  - id: 71
+    kind: body
+    source: |-
+      Many models of linear logic proofs have been proposed; we consider that, to date, the simplest and most intuitive construction is the one based on the so-called “relational semantics” or “Kripke-style semantics”, where formulas are interpreted as multisets, one-sided sequents are interpreted as tuples of multisets, and proofs are interpreted as relations over the interpretation of sequents (Tortora de Falco 2003, Ehrhard 2012, Melliès 2018)[^ehrhard-2012][^melliès-2018][^tortora-2003]. If one wants to give a purely set-theoretic semantics, without resorting to multisets, it is possible to do it by means of coherence spaces, sets equipped with a special coherence relation, as originally shown by in Girard 1987. There are interesting category theoretical models of linear logic, such as the *-autonomous categories (Barr 1991)[^barr-1991] and hypercoherences (Ehrhard 1993)[^ehrhard-1993].
+    step1: |-
+      人们提出了许多线性逻辑证明的模型；我们认为，迄今最简单直观的构造基于所谓“关系语义”或“Kripke 式语义”：公式解释为多重集，单边矢列解释为多重集构成的元组，证明解释为矢列解释上的关系（Tortora de Falco 2003, Ehrhard 2012, Melliès 2018）[^ehrhard-2012][^melliès-2018][^tortora-2003]。若想给出纯集合论语义而不用多重集，则可以借相干空间（coherence spaces，即配备特殊相干关系的集合）来做，这最初由 Girard 1987 给出。还有一些有趣的范畴论模型，如 *-自治范畴（Barr 1991）[^barr-1991] 与超相干性（Ehrhard 1993）[^ehrhard-1993]。
+    step2: |-
+      线性逻辑证明的模型很多，我们认为迄今最简单直观的是基于所谓“关系语义”或“Kripke 式语义”的构造：公式解释为多重集，单边矢列解释为多重集元组，证明解释为矢列解释上的关系（Tortora de Falco 2003, Ehrhard 2012, Melliès 2018）[^ehrhard-2012][^melliès-2018][^tortora-2003]。若要纯集合论语义而不用多重集，可借相干空间（coherence spaces，即配以特殊相干关系的集合），这最初见于 Girard 1987。范畴论模型亦有可观，如 *-自治范畴（Barr 1991）[^barr-1991]、超相干性（Ehrhard 1993）[^ehrhard-1993]。
+  - id: 72
+    kind: body
+    source: |-
+      Another approach to the semantics of proofs is given by Girard’s *Geometry of Interaction*, that allows us to obtain a fully algebraic characterization of proofs. To each proof net, one can associate a partial permutation matrix $\sigma$ corresponding to the cut links, and a proper matrix $M$ corresponding expressions built out of a certain dynamic algebra, that describe the possible paths inside the proof net. It is then possible to fully describe the proof net via the *execution formula*
+
+      $$ \mathrm{EX}(\sigma ,M) = (1-\sigma^2) \left(\sum_i M(\sigma M)\right) (1-\sigma^2) $$
+    step1: |-
+      证明语义的另一进路由 Girard 的 *交互几何*（Geometry of Interaction）给出，它使人能对证明作完全代数的刻画。对每个证明网，可配一个对应切连线的部分置换矩阵 $\sigma$，以及一个由某种动态代数中的表达式构成的适当矩阵 $M$，后者描述证明网内部可能的路径。于是可以用 *执行公式* 完整描述证明网：
+
+      $$ \mathrm{EX}(\sigma ,M) = (1-\sigma^2) \left(\sum_i M(\sigma M)\right) (1-\sigma^2) $$
+    step2: |-
+      另一条证明语义之路是 Girard 的 *交互几何*（Geometry of Interaction），它能对证明作完全代数的刻画。给每个证明网配一个对应切连线的部分置换矩阵 $\sigma$，再配一个由某种动态代数表达式构成的矩阵 $M$，用以描述网内可能的路径。于是可用 *执行公式* 把证明网完整描述出来：
+
+      $$ \mathrm{EX}(\sigma ,M) = (1-\sigma^2) \left(\sum_i M(\sigma M)\right) (1-\sigma^2) $$
+  - id: 73
+    kind: body
+    source: |-
+      which, in the MLL case, is an invariant of the normalization process. Some nice connection to results coming from data-flow theory has been shown in some early work of Abramsky & Jagadeesan (1994).
+    step1: |-
+      在 MLL 情形，此式是规范化过程的不变量。Abramsky 与 Jagadeesan（1994）早期工作中展示了它与数据流理论某些结果的漂亮联系。
+    step2: |-
+      在 MLL 情形，此式是规范化过程的不变量。它与数据流理论的某些结果有漂亮联系，见 Abramsky 与 Jagadeesan（1994）早期工作。
+  - id: 74
+    kind: body
+    source: |-
+      The area of semantics that has developed around so-called *game semantics* deserves special attention. The strong connection between games and linear logic was pointed out quite early by A. Blass (1992). In fact, there are two different traditions to connecting logic to games. In the tradition of *dialog games* dating back to Lorenzen, one player attempts to prove a formula while a second player attempts to refute it. It is possible to provide MALL with such a dialog game that is completely symmetric for both the prover and the refuter (Delande *et al*. 2010)[^delande-2010]. In another tradition, formulas are interpreted as games, logical connectives as game constructors, and proofs as strategies that describe how a player reacts to opponent moves. By imposing different restrictions on the rules of the game, one can actually provide a precise semantics (technically, a fully abstract model) for various features of actual programming languages, hence the huge interest in this area over the past years. See, for example, Abramsky & Jagadeesan 1994, Abramsky & Melliès 1999, and Hyland & Ong 2000.
+    step1: |-
+      围绕所谓 *博弈语义* 发展起来的语义学领域值得特别注意。博弈与线性逻辑之间的强联系，A. Blass（1992）很早指出。其实把逻辑与博弈联系起来有两个不同传统。一是可追溯到 Lorenzen 的 *对话博弈* 传统：一方试图证明某公式，另一方试图反驳。可以为 MALL 提供这样一种对话博弈，它对证明者与反驳者完全对称（Delande *et al.* 2010）[^delande-2010]。另一传统把公式解释为博弈、逻辑联结词解释为博弈构造子、证明解释为描述玩家如何应对对手着法的策略。对博弈规则施加不同限制，其实可以为实际编程语言的种种特性提供精确语义（技术上即完全抽象模型），故这一领域近年备受瞩目。例如见 Abramsky & Jagadeesan 1994、Abramsky & Melliès 1999、Hyland & Ong 2000。
+    step2: |-
+      围绕 *博弈语义* 发展起来的领域值得单说。博弈与线性逻辑的强联系，A. Blass（1992）很早就指出。连接逻辑与博弈其实有两个传统。一是上溯到 Lorenzen 的 *对话博弈*：一方证明公式，另一方反驳。可为 MALL 提供这样的对话博弈，证明者与反驳者完全对称（Delande *et al.* 2010）[^delande-2010]。另一传统把公式看作博弈、联结词看作博弈构造子、证明看作策略，描述玩家如何应对对手着法。对博弈规则施加不同限制，就能为实际编程语言的种种特性给出精确语义（技术上即完全抽象模型），故而近年此领域热度极高，例如见 Abramsky & Jagadeesan 1994、Abramsky & Melliès 1999、Hyland & Ong 2000。
+  - id: 75
+    kind: body
+    source: |-
+      ## 4. Complexity
+    step1: |-
+      ## 4. 复杂性
+    step2: |-
+      ## 4 复杂性
+  - id: 76
+    kind: body
+    source: |-
+      For any given logic, it is useful to know whether or not there is an effective procedure to determine, for each sentence in the logic, if it is provable or not. A *decidable* logic—i.e., one for which there is an effective procedure for provability—is often described by its *complexity class*, which characterizes how difficult it is to perform the decision procedure. Extensive research work has been dedicated to the study of the complexity and decidability issues for several fragments of propositional linear logic. It is known that
+    step1: |-
+      对任何逻辑，知道是否存在有效程序来判定其中每个句子是否可证，都很有用。*可判定的* 逻辑——即存在可证性有效程序的逻辑——常以其 *复杂性类* 描述，后者刻画判定程序的难度。对命题线性逻辑若干片段的复杂性与可判定性问题，已有大量研究。已知：
+    step2: |-
+      任何逻辑，知道有没有有效程序判定其中每个句子可证与否，都很有用。*可判定* 的逻辑（存在可证性有效程序的）常用 *复杂性类* 来描述，后者刻画判定之难易。命题线性逻辑若干片段的复杂性与可判定性，研究甚多。已知：
+  - id: 77
+    kind: body
+    source: |-
+      - MLL provability is NP-complete (Kanovich 1992)[^kanovich-1992] and
+      - MALL provability is PSPACE-complete (Lincoln *et al*. 1992)[^lincoln-1992].
+    step1: |-
+      - MLL 可证性是 NP-完全的（Kanovich 1992）[^kanovich-1992]；
+      - MALL 可证性是 PSPACE-完全的（Lincoln *et al.* 1992）[^lincoln-1992]。
+    step2: |-
+      - MLL 可证性是 NP-完全的（Kanovich 1992）[^kanovich-1992]；
+      - MALL 可证性是 PSPACE-完全的（Lincoln *et al.* 1992）[^lincoln-1992]。
+  - id: 78
+    kind: body
+    source: |-
+      Here, NP and PSPACE are complexity classes such that NP $\subseteq$ PSPACE. Surprisingly, for those that may forget that the novelty in linear logic lies in the way formulas are managed without the structural rules of contraction and weakening, these results stay the same even if we focus on the fragments of the logics where only the constants, and no propositional variables, are allowed (Lincoln & Winkler 1994)[^lincoln-1994]. Indeed, it is possible to encode arbitrary formulas into constant-only formulas preserving provability.
+    step1: |-
+      这里 NP 与 PSPACE 是满足 NP $\subseteq$ PSPACE 的复杂性类。出人意料的是，对于可能忘记线性逻辑的新意在于不用收缩与弱化这两条结构规则来管理公式的人来说：这些结果即使只考虑不允许命题变元、只允许常项的逻辑片段，也依然成立（Lincoln & Winkler 1994）[^lincoln-1994]。的确，可以把任意公式编码成只含常项的公式，并保持可证性。
+    step2: |-
+      这里 NP 与 PSPACE 是满足 NP $\subseteq$ PSPACE 的复杂性类。出人意料的是——恐怕有人忘了，线性逻辑的新意正在于不用收缩、弱化这两条结构规则来管理公式——即便只考虑不许命题变元、只许常项的片段，这些结果仍成立（Lincoln & Winkler 1994）[^lincoln-1994]。的确，任意公式都能编码为只含常项的公式，可证性不变。
+  - id: 79
+    kind: body
+    source: |-
+      MELL is a surprisingly expressive logic. For example, the reachability problem in Petri nets can be encoded into MELL (Gunter & Gehlot 1989)[^gunter-1989] and that problem is equivalent to the reachability problem of vector addition systems with states (VASS) (Reutenauer 1989)[^reutenauer-1989]. Furthermore, the decidability problem of MELL is equivalent to the reachability problem for branching VASS (de Groote *et al*. 2004)[^groote-2004] and the latter is known to have a non-elementary lower bound (Lazic and Schmitz 2015)[^lazic-2015]. Thus, if MELL turns out to be decidable, it will be at least TOWER-hard (Lazic and Schmitz 2015)[^lazic-2015]. A proof of the decidability of MELL has been given by Bimbó (2015) but a gap in that proof has been reported by Straßburger (2019).
+    step1: |-
+      MELL 的表达力出人意料。例如 Petri 网的可达性问题可以编码进 MELL（Gunter & Gehlot 1989）[^gunter-1989]，而该问题等价于带状态向量加法系统（VASS）的可达性问题（Reutenauer 1989）[^reutenauer-1989]。此外，MELL 的可判定性问题等价于分支 VASS 的可达性问题（de Groote *et al.* 2004）[^groote-2004]，而后者已知有非初等下界（Lazic 与 Schmitz 2015）[^lazic-2015]。因此，若 MELL 最终可判定，它至少是 TOWER-难的（Lazic 与 Schmitz 2015）[^lazic-2015]。MELL 可判定性的一个证明由 Bimbó（2015）给出，但 Straßburger（2019）报告了其中一处漏洞。
+    step2: |-
+      MELL 的表达力出人意料。比如 Petri 网可达性问题可编码进 MELL（Gunter & Gehlot 1989）[^gunter-1989]，而该问题等价于带状态向量加法系统（VASS）的可达性问题（Reutenauer 1989）[^reutenauer-1989]。MELL 的可判定性还等价于分支 VASS 的可达性问题（de Groote *et al.* 2004）[^groote-2004]，后者已知有非初等下界（Lazic 与 Schmitz 2015）[^lazic-2015]。所以若 MELL 可判定，它至少 TOWER-难（Lazic 与 Schmitz 2015）[^lazic-2015]。Bimbó（2015）给过 MELL 可判定性的证明，但 Straßburger（2019）指出其中有一处漏洞。
+  - id: 80
+    kind: body
+    source: |-
+      Proofs of the undecidability of propositional linear logic were published in the early 1990s (Lincoln *et al*. 1992, Lincoln 1995)[^lincoln-1995][^lincoln-1992]. Kanovich (2016) showed that this undecidability result holds for a greatly reduced fragment of propositional linear logic. and a machine checked proof of undecidability has been published in (Forster & Larchey-Wendling, 2019). However, a proof of decidability of propositional linear logic has also been published by Bimbó & Dunn in (2022), who also claim to have found mistakes in the above-mentioned papers.
+    step1: |-
+      命题线性逻辑不可判定性的证明发表于 1990 年代初（Lincoln *et al.* 1992, Lincoln 1995）[^lincoln-1995][^lincoln-1992]。Kanovich（2016）表明，这一不可判定性结果对命题线性逻辑一个大大缩减的片段也成立；机器检验的不可判定性证明已发表于（Forster & Larchey-Wendling, 2019）。然而，Bimbó 与 Dunn 也在（2022）发表了命题线性逻辑可判定性的证明，并声称在上述论文中发现了错误。
+    step2: |-
+      命题线性逻辑不可判定性的证明发表于 1990 年代初（Lincoln *et al.* 1992, Lincoln 1995）[^lincoln-1995][^lincoln-1992]。Kanovich（2016）表明该结果对命题线性逻辑一个大幅缩减的片段仍成立；机器检验的不可判定性证明见（Forster & Larchey-Wendling, 2019）。不过 Bimbó 与 Dunn（2022）也发表了命题线性逻辑可判定性的证明，并声称在前述论文里发现了错误。
+  - id: 81
+    kind: body
+    source: |-
+      Linear logic with the unrestricted weakening rule added (also known as *linear affine logic*) is decidable (Kopylov 1995)[^kopylov-1995] and exponential space hard (Urquhart 2000)[^urquhart-2000].
+    step1: |-
+      加上无限制弱化规则的线性逻辑（亦称 *线性仿射逻辑*）可判定（Kopylov 1995）[^kopylov-1995]，且是指数空间难的（Urquhart 2000）[^urquhart-2000]。
+    step2: |-
+      加上无限制弱化规则的线性逻辑（也叫 *线性仿射逻辑*）可判定（Kopylov 1995）[^kopylov-1995]，且指数空间难（Urquhart 2000）[^urquhart-2000]。
+  - id: 82
+    kind: body
+    source: |-
+      A good overview of complexity results surrounding linear logic can be found in Lincoln 1995.
+    step1: |-
+      关于线性逻辑复杂性结果的良好概览，见 Lincoln 1995。
+    step2: |-
+      线性逻辑复杂性结果的概览，见 Lincoln 1995。
+  - id: 83
+    kind: body
+    source: |-
+      ## 5. Computer science impact
+    step1: |-
+      ## 5. 对计算机科学的影响
+    step2: |-
+      ## 5 对计算机科学的影响
+  - id: 84
+    kind: body
+    source: |-
+      When intuitionistic logic was first proposed early in the last century, it was presented as a challenge to the way traditional mathematicians were supposed to do business. Uses of the excluded middle and of proof-by-contradiction were considered suspect and problematic, particularly in the presence of infinity. As intuitionistic logic concerns were developed into constructive mathematics, new constructive approaches have arisen to topics such as topology, algebra, and analysis. Given that linear logic encompasses the dynamics of proof (algorithm) and resources, its primary impact has been not in traditional mathematics but in computer science. Before overviewing the nature of that impact, we outline the various ways in which logic more generally is used in computer science.
+    step1: |-
+      上世纪初直觉主义逻辑刚提出时，是对传统数学家行事方式的一种挑战。排中律与反证法的使用被视为可疑、有问题，尤其在涉及无穷时。随着直觉主义的关切发展为构造性数学，拓扑学、代数、分析等课题上出现了新的构造性进路。既然线性逻辑涵盖证明（算法）的动态与资源，其主要影响便不在传统数学，而在计算机科学。在概述这种影响的性质之前，先勾勒逻辑在计算机科学中较一般的各种用法。
+    step2: |-
+      上世纪初直觉主义逻辑刚提出时，是对传统数学家行事方式的一次挑战：排中律与反证法的使用被视为可疑，涉及无穷时尤其如此。随着直觉主义的关切长成构造性数学，拓扑学、代数、分析等课题上出现了新的构造性进路。线性逻辑既涵盖证明（算法）的动态，又涵盖资源，主要影响便不在传统数学而在计算机科学。概述其影响之前，先勾勒逻辑在计算机科学里的一般用法。
+  - id: 85
+    kind: body
+    source: |-
+      Logic plays different roles in the specification of computations. We can identify the following broad different approaches and note which roles have felt influences from linear logic.
+    step1: |-
+      逻辑在计算的规格说明中扮演不同角色。可以辨认出下列几类大体不同的进路，并指出哪些角色受到了线性逻辑的影响。
+    step2: |-
+      逻辑在计算规格说明中担当不同角色。下面辨认几类大体不同的进路，并指出哪些角色受了线性逻辑的影响。
+  - id: 86
+    kind: body
+    source: |-
+      In the *computation-as-model* approach, computations are encoded as mathematical structures and consist of such items as nodes, transitions, and states. Logic is used externally to make statements *about* those structures. That is, computations are used as models for logical expressions. Intensional operators, such as the modals of temporal and dynamic logics or the triples of Hoare logic, are often employed to express propositions about the change in state. This use of logic to represent and reason about computation is probably the most broadly successful use of logic for representing computation. This role for logic has felt little influence from linear logic.
+    step1: |-
+      在 *计算即模型* 进路中，计算被编码为数学结构，由结点、转移、状态之类构成。逻辑在外部使用，对这类结构 *作出* 陈述。也就是说，计算被用作逻辑表达式的模型。内涵算子，如时态逻辑与动态逻辑的模态词，或 Hoare 逻辑的三元组，常用来表达关于状态变化的命题。用逻辑表示并推理计算，大概是逻辑用于表示计算最广泛成功的用法。这一角色很少受线性逻辑影响。
+    step2: |-
+      在 *计算即模型* 进路里，计算被编码为数学结构，由结点、转移、状态之类组成；逻辑在外围使用，对这些结构 *作出* 陈述，即计算充当逻辑表达式的模型。内涵算子——时态逻辑、动态逻辑的模态词，或 Hoare 逻辑的三元组——常用来表达关于状态变化的命题。用逻辑表示并推理计算，大概是这方面最广泛成功的用法；线性逻辑对此影响甚微。
+  - id: 87
+    kind: body
+    source: |-
+      In the *computation-as-deduction* approach, pieces of logic’s syntax (such as formulas, terms, types, and proofs) are used directly as elements of the specified computation. In this more rarefied setting, there are two rather different approaches to how computation is modeled, called the *proof normalization* approach and the *proof search* approach.
+    step1: |-
+      在 *计算即演绎* 进路中，逻辑句法的成分（如公式、词项、类型、证明）直接用作所规定计算的元素。在这个更为精微的场合，对计算如何建模有两种相当不同的进路，称为 *证明规范化* 进路与 *证明搜索* 进路。
+    step2: |-
+      在 *计算即演绎* 进路里，逻辑句法的成分（公式、词项、类型、证明）直接充当所规定计算的元素。这个更精微的场合里，计算建模有两条相当不同的路：*证明规范化* 与 *证明搜索*。
+  - id: 88
+    kind: body
+    source: |-
+      We outline below the significant impacts that linear logic has had on both of these different settings.
+    step1: |-
+      下面概述线性逻辑对这两种场合的重大影响。
+    step2: |-
+      线性逻辑对这两种场合的重大影响，下面概述。
+  - id: 89
+    kind: body
+    source: |-
+      ### 5.1 Proof normalization
+    step1: |-
+      ### 5.1 证明规范化
+    step2: |-
+      ### 5.1 证明规范化
+  - id: 90
+    kind: body
+    source: |-
+      The *proof normalization* approach views the state of a computation as a proof term and the process of computing as normalization (known alternatively as $\beta$-reduction or cut-elimination). Functional programming can be explained using proof-normalization as its theoretical basis (Martin-Löf 1982)[^martin-löf-1982] and has been used to justify the design of new functional programming languages, e.g., Abramsky 1993. Linear logic provides this approach to computational specification with new types, new declarative means for statically understanding how resources may be used in a computation, and provided an appealing means for formalizing the duality between a function and the environment that supplies it with arguments.
+    step1: |-
+      *证明规范化* 进路把计算的状态看作证明项，把计算过程看作规范化（又称 $\beta$-归约或切消除）。函数式编程可以用证明规范化作理论基础来解释（Martin-Löf 1982）[^martin-löf-1982]，并曾被用来为新函数式编程语言的设计作辩护，例如 Abramsky 1993。线性逻辑为这种计算规格说明进路提供了新类型、用于静态理解计算中资源如何使用的新的陈述手段，并为函数与其供给参数的环境之间的对偶提供了有吸引力的形式化手段。
+    step2: |-
+      *证明规范化* 进路把计算状态看作证明项，把计算过程看作规范化（又称 $\beta$-归约或切消除）。函数式编程可以拿证明规范化作理论基础来解释（Martin-Löf 1982）[^martin-löf-1982]，也曾用来为新函数式语言的设计作辩护，如 Abramsky 1993。线性逻辑给这条规格说明之路添了新类型、静态理解资源如何被使用的新的陈述手段，还为函数与环境（供给参数者）之间的对偶提供了漂亮的形式化办法。
+  - id: 91
+    kind: body
+    source: |-
+      Another area where linear logic has been a powerful theoretical instrument is that of *optimal reduction*. The problem of building efficient (optimal) interpreters for the $\lambda$-calculus, that stayed open for quite a long time after its original definition by J.J. Lévy, was solved for the first time in Lamping 1990, via a sophisticated sharing graph implementation involving a quite impressive amount of rules. Using ideas and intuition from linear logic, many authors reconstructed Lamping’s solution, simplifying it and leading to a rich theory connected to that of the Geometry of Interaction. For further reading, a good reference is Asperti & Guerrini 1998.
+    step1: |-
+      线性逻辑作为有力理论工具的另一个领域是 *最优归约*。为 $\lambda$-演算构造高效（最优）解释器的问题，自 J.J. Lévy 最初定义它之后长期悬而未决，1990 年由 Lamping 首次解决：他借助一种精巧的共享图实现，涉及数目可观的规则。许多作者运用线性逻辑的观念与直觉重建了 Lamping 的解法，使之简化，并引出一个与交互几何相联系的丰富理论。进一步阅读的好参考是 Asperti & Guerrini 1998。
+    step2: |-
+      线性逻辑显身手的另一处是 *最优归约*。为 $\lambda$-演算造高效（最优）解释器的问题，自 J.J. Lévy 最初定义后悬了很久，1990 年由 Lamping 首次解决：他用了精巧的共享图实现，规则数目相当可观。不少作者借线性逻辑的观念与直觉重建 Lamping 的解法，将其简化，引出与交互几何相连的丰富理论。进阶阅读可看 Asperti & Guerrini 1998。
+  - id: 92
+    kind: body
+    source: |-
+      The refinement of intuitionistic logic provided by linear logic and the dualities of linear logic provided a setting in which one could view a function and its environment as similar entities that interact dually. For example, a function with the type $A \limp B$ can be modeled as a process that consumes a value of type $A$ from its environment and transforms it into a value of type $B$. In linear logic, this implication is equivalent to its contrapositive form: the type $B^{\bot} \limp A^{\bot}$ can lead to interpreting the same function as a process that transforms a demand for a value of type $B$ into a demand for a value of type $A$ (notice that this does not happen with functions of intuitionistic type since, for example, input argument may be vacuous) (Curien 2003)[^curien-2003]. The recent successes of using game semantics to model functional computation are similarly related to the dual treatment of function and environment (Abramsky and Jagadeesan 1994, Hyland & Ong 2000)[^abramsky-1994][^hyland-2000].
+    step1: |-
+      线性逻辑对直觉主义逻辑的精细改造，以及线性逻辑的对偶，提供了这样一种框架：可以把函数与其环境看作相互对偶作用的同类实体。例如类型为 $A \limp B$ 的函数，可以建模为一个过程：从环境中消耗一个类型 $A$ 的值，把它变成类型 $B$ 的值。在线性逻辑中，该蕴涵等价于其逆否形式：类型 $B^{\bot} \limp A^{\bot}$ 可导出把同一函数解释为一个过程，把对类型 $B$ 值的需求变成对类型 $A$ 值的需求（注意直觉主义类型的函数不会如此，例如输入参数可能形同虚设）（Curien 2003）[^curien-2003]。近来用博弈语义为函数式计算建模的成功，同样与函数和环境的对偶处理有关（Abramsky and Jagadeesan 1994, Hyland & Ong 2000）[^abramsky-1994][^hyland-2000]。
+    step2: |-
+      线性逻辑对直觉主义逻辑的精细改造，加上它自身的对偶，提供了这样一个框架：函数与环境是相互对偶作用的同类实体。类型 $A \limp B$ 的函数，可建模为一个过程：从环境消耗一个 $A$ 型值，变为 $B$ 型值。线性逻辑中该蕴涵等价于逆否形式：$B^{\bot} \limp A^{\bot}$ 可把同一函数解释成一个过程，其中对 $B$ 型值的需求变成对 $A$ 型值的需求（直觉主义类型下不会如此：输入参数可能形同虚设）（Curien 2003）[^curien-2003]。近来博弈语义为函数式计算建模的成功，同样系于函数与环境的对偶处理（Abramsky and Jagadeesan 1994, Hyland & Ong 2000）[^abramsky-1994][^hyland-2000]。
+  - id: 93
+    kind: body
+    source: |-
+      Finally, we mention that in the area of encoding computation as proof normalization, linear logic has been used to provide a type-based description of polytime recursive functions. For example, M. Hofmann (2003) introduced a $\lambda$-calculus with modal and linear types that extended the function algebra of Bellantoni & Cook 1992 to higher types. Types based on linear logic have also been used within functional programs: see Guzman & Hudak 1990 and Wadler 1991.
+    step1: |-
+      最后要提：在把计算编码为证明规范化的领域，线性逻辑曾用来为多项式时间递归函数提供基于类型的描述。例如 M. Hofmann（2003）引入带模态类型与线性类型的 $\lambda$-演算，把 Bellantoni & Cook 1992 的函数代数推广到高阶类型。基于线性逻辑的类型也用于函数式程序内部：见 Guzman & Hudak 1990 与 Wadler 1991。
+    step2: |-
+      最后一点：在把计算编码为证明规范化的领域，线性逻辑曾用来给多项式时间递归函数作基于类型的描述。比如 M. Hofmann（2003）引入带模态类型与线性类型的 $\lambda$-演算，把 Bellantoni & Cook 1992 的函数代数推到高阶类型。基于线性逻辑的类型也进了函数式程序：见 Guzman & Hudak 1990、Wadler 1991。
+  - id: 94
+    kind: body
+    source: |-
+      ### 5.2 Proof search
+    step1: |-
+      ### 5.2 证明搜索
+    step2: |-
+      ### 5.2 证明搜索
+  - id: 95
+    kind: body
+    source: |-
+      The *proof search* approach views the state of a computation as a sequent (a structured collection of formulas) and the process of computing as the process of searching for a proof of a sequent: the changes that take place in sequents capture the dynamics of computation. With this view of computation, we generally read inference rules bottom up, i.e., as a transformation of their conclusion into their premise(s). Logic programming can be explained using proof search as its theoretical basis, and linear logic provides this approach to computational specification with new combinators for building logic programs, new means to capture rich dynamics, and new declarative approaches to specifying concurrent computations. (See Miller 2004 for an overview of linear logic programming languages.)[^miller-2004]
+    step1: |-
+      *证明搜索* 进路把计算的状态看作矢列（公式的有结构集合），把计算过程看作寻找矢列证明的过程：矢列中发生的变化刻画计算的动态。按这种计算观，我们一般自下而上读取推理规则，即把它们看作把结论变为前提的变换。逻辑编程可以用证明搜索作理论基础来解释，而线性逻辑为这条规格说明之路提供了构造逻辑程序的新组合子、刻画丰富动态的新手段，以及规定并发计算的新的陈述进路。（线性逻辑编程语言的概览见 Miller 2004。）[^miller-2004]
+    step2: |-
+      *证明搜索* 进路把计算状态看作矢列（公式的有结构集合），把计算过程看作在矢列中搜索证明：其间变化刻画计算的动态。这样看计算，推理规则一般自下而上读，即当作把结论变成前提的变换。逻辑编程可以拿证明搜索作理论基础来解释；线性逻辑为这条规格说明之路添了新组合子、新手段与新陈述进路：构造逻辑程序、刻画丰富动态、规定并发计算。（线性逻辑编程语言概览见 Miller 2004。）[^miller-2004]
+  - id: 96
+    kind: body
+    source: |-
+      The completeness of focusing proof system can be used to provide a declarative explanation of part of the operational semantics of logic programming within linear logic. Consider, for example, the subset $L$ of formulas of linear logic that are built from only the connectives $\top$, &, $\limp , \Rightarrow$, and $\forall$. (Notice that if one adds $\bot$ to this list, it is possible to encode all connectives of linear logic.) It is possible to see that cut-free proof search in $L$ can be defined into to phases. Given a sequent $\Gamma$; $\Delta \vdash G$, where $\Gamma$ is a set of formulas (which can be contracted and weakened), $\Delta$ is multiset of formulas (which cannot be contracted nor weakened), and $G$ (the “goal” formula) is a single formula (all from $L)$, then proof search proceeds as follows.
+    step1: |-
+      聚焦证明系统的完全性，可用来在线性逻辑内部为逻辑编程的一部分操作语义提供陈述性解释。例如考虑线性逻辑公式的子集 $L$，它只由联结词 $\top$、&、$\limp , \Rightarrow$、$\forall$ 构造。（注意：若在此表中加入 $\bot$，就能编码线性逻辑的全部联结词。）可以看出，$L$ 中的无切证明搜索可分为两个阶段。给定矢列 $\Gamma$; $\Delta \vdash G$，其中 $\Gamma$ 是公式集（可收缩、可弱化），$\Delta$ 是公式的多重集（不可收缩、不可弱化），而 $G$（“目标”公式）是单个公式（三者都出自 $L$），则证明搜索如下进行。
+    step2: |-
+      聚焦证明系统的完全性，可用在线性逻辑内部为逻辑编程的部分操作语义作陈述性解释。例如取线性逻辑公式的子集 $L$，只由 $\top$、&、$\limp , \Rightarrow$、$\forall$ 构造。（若再加入 $\bot$，线性逻辑全部联结词都可编码。）可以看出，$L$ 中的无切证明搜索分两阶段。给定矢列 $\Gamma$; $\Delta \vdash G$：$\Gamma$ 是公式集（可收缩、可弱化），$\Delta$ 是公式多重集（不可收缩、不可弱化），$G$（“目标”公式）是单个公式，三者都出自 $L$。证明搜索如下：
+  - id: 97
+    kind: body
+    source: |-
+      1. If $G$ is non-atomic, then only a right introduction rule can be used to conclude this sequent. Given this set of connectives, the right rules are invertible and this *goal-reduction* phase corresponds exactly to the asynchronous phase of focused proofs.
+      2. If $G$ is atomic, then proof search proceeds by *deciding* on a single formula from a left-hand context.
+      3. Once a formula is chosen for the *focus*, all left-introduction rules are applied to only that formula and any positive subformulas that arise. This *backchaining* phase corresponds to the asynchronous phase of focused proof construction.
+    step1: |-
+      1. 若 $G$ 非原子，则只能用某条右引入规则来得到该矢列。就这组联结词而言，右规则都可逆，这个 *目标归约* 阶段恰好对应聚焦证明的异步阶段。
+      2. 若 $G$ 是原子，则证明搜索从左侧语境中 *判定* 选出单个公式。
+      3. 一旦选中某公式为 *焦点*，所有左引入规则都只施于该公式及其产生的任何正子公式。这个 *反向链接* 阶段对应聚焦证明构造的异步阶段。
+    step2: |-
+      1. $G$ 非原子时，只能用某条右引入规则得出该矢列。就这组联结词而言右规则都可逆，这个 *目标归约* 阶段正对应聚焦证明的异步阶段。
+      2. $G$ 为原子时，证明搜索从左侧语境 *判定* 选出单个公式。
+      3. 一旦选出 *焦点* 公式，所有左引入规则便只施于它及其产生的正子公式。这个 *反向链接* 阶段对应聚焦证明构造的异步阶段。
+  - id: 98
+    kind: body
+    source: |-
+      Formally, these various phases can be described using the following inference rules. Here, a new sequent arrow is introduced: this arrow is labeled with the formula that is the result of a left-introduction rule. Notice that the rule for left-introduction of $\limp$ requires splitting the $\Delta$ context into two parts $\Delta_1,\Delta_2$ (when reading the rule bottom up). There are, of course, $2^n$ such splittings if that context has $n \ge 0$ distinct formulas. The syntactic variable $A$ in these inference rules ranges over atomic formulas.
+    step1: |-
+      形式地，这些不同阶段可用下列推理规则描述。这里引入一种新的矢列箭头：该箭头以某条左引入规则的结果公式为标记。注意 $\limp$ 的左引入规则（自下而上读时）要求把 $\Delta$ 语境分成两部分 $\Delta_1,\Delta_2$。当然，若该语境有 $n \ge 0$ 个不同公式，这样的划分有 $2^n$ 种。这些推理规则中的句法变元 $A$ 取原子公式为值。
+    step2: |-
+      形式地，这些阶段用下列推理规则描述。这里引入一种新的矢列箭头，以某条左引入规则的结果公式为标记。注意 $\limp$ 的左引入规则（自下而上读）要求把 $\Delta$ 语境一分为二：$\Delta_1,\Delta_2$。若该语境有 $n \ge 0$ 个不同公式，划分自然有 $2^n$ 种。规则中的句法变元 $A$ 取原子公式。
+  - id: 99
+    kind: body
+    source: |-
+      **Goal Reduction Phase** $$ \frac{} {\Gamma;\Delta \vdash \top}\ \top R \qquad \frac{\Gamma;\Delta \vdash B \qquad \Gamma;\Delta \vdash C} {\Gamma;\Delta \vdash B \amp C}\ {\amp}R $$ $$\frac{\Gamma;\Delta, B \vdash C} {\Gamma;\Delta \vdash B \limp C}\ \limp R \qquad \frac{\Gamma,B ;\Delta \vdash C} {\Gamma;\Delta \vdash B \Rightarrow C}\ {\Rightarrow}R \qquad \frac{\Gamma;\Delta \vdash B[y/x]} {\Gamma;\Delta \vdash \forall x. B}\ \forall R $$
+    step1: |-
+      **目标归约阶段** $$ \frac{} {\Gamma;\Delta \vdash \top}\ \top R \qquad \frac{\Gamma;\Delta \vdash B \qquad \Gamma;\Delta \vdash C} {\Gamma;\Delta \vdash B \amp C}\ {\amp}R $$ $$\frac{\Gamma;\Delta, B \vdash C} {\Gamma;\Delta \vdash B \limp C}\ \limp R \qquad \frac{\Gamma,B ;\Delta \vdash C} {\Gamma;\Delta \vdash B \Rightarrow C}\ {\Rightarrow}R \qquad \frac{\Gamma;\Delta \vdash B[y/x]} {\Gamma;\Delta \vdash \forall x. B}\ \forall R $$
+    step2: |-
+      **目标归约阶段** $$ \frac{} {\Gamma;\Delta \vdash \top}\ \top R \qquad \frac{\Gamma;\Delta \vdash B \qquad \Gamma;\Delta \vdash C} {\Gamma;\Delta \vdash B \amp C}\ {\amp}R $$ $$\frac{\Gamma;\Delta, B \vdash C} {\Gamma;\Delta \vdash B \limp C}\ \limp R \qquad \frac{\Gamma,B ;\Delta \vdash C} {\Gamma;\Delta \vdash B \Rightarrow C}\ {\Rightarrow}R \qquad \frac{\Gamma;\Delta \vdash B[y/x]} {\Gamma;\Delta \vdash \forall x. B}\ \forall R $$
+  - id: 100
+    kind: body
+    source: |-
+      **Backchaining Phase** $$ \frac{\Gamma;\Delta \lvdash{D_1} A} {\Gamma;\Delta \lvdash{D_1\amp D_2}\, A} \ {\amp}L \qquad \frac{\Gamma;\Delta \lvdash{D_2} A} {\Gamma;\Delta \lvdash{D_1\amp D_2} A}\ {\amp}L \qquad \frac{\Gamma;\Delta \lvdash{D[t/x]} A} {\Gamma;\Delta \lvdash{\forall_{\tau}x.D} A}\ \forall L $$ $$\frac{\Gamma;\Delta_1 \vdash G \quad \Gamma;\Delta_2 \lvdash{D} A} {\Gamma;\Delta_1,\Delta_2 \lvdash{G\limp D} A} \ {\limp}L \qquad \frac{\Gamma;\cdot \vdash G \quad \Gamma;\Delta \lvdash{D} A} {\Gamma;\Delta \lvdash{G\Rightarrow D} A}\ {\Rightarrow}L $$
+    step1: |-
+      **反向链接阶段** $$ \frac{\Gamma;\Delta \lvdash{D_1} A} {\Gamma;\Delta \lvdash{D_1\amp D_2}\, A} \ {\amp}L \qquad \frac{\Gamma;\Delta \lvdash{D_2} A} {\Gamma;\Delta \lvdash{D_1\amp D_2} A}\ {\amp}L \qquad \frac{\Gamma;\Delta \lvdash{D[t/x]} A} {\Gamma;\Delta \lvdash{\forall_{\tau}x.D} A}\ \forall L $$ $$\frac{\Gamma;\Delta_1 \vdash G \quad \Gamma;\Delta_2 \lvdash{D} A} {\Gamma;\Delta_1,\Delta_2 \lvdash{G\limp D} A} \ {\limp}L \qquad \frac{\Gamma;\cdot \vdash G \quad \Gamma;\Delta \lvdash{D} A} {\Gamma;\Delta \lvdash{G\Rightarrow D} A}\ {\Rightarrow}L $$
+    step2: |-
+      **反向链接阶段** $$ \frac{\Gamma;\Delta \lvdash{D_1} A} {\Gamma;\Delta \lvdash{D_1\amp D_2}\, A} \ {\amp}L \qquad \frac{\Gamma;\Delta \lvdash{D_2} A} {\Gamma;\Delta \lvdash{D_1\amp D_2} A}\ {\amp}L \qquad \frac{\Gamma;\Delta \lvdash{D[t/x]} A} {\Gamma;\Delta \lvdash{\forall_{\tau}x.D} A}\ \forall L $$ $$\frac{\Gamma;\Delta_1 \vdash G \quad \Gamma;\Delta_2 \lvdash{D} A} {\Gamma;\Delta_1,\Delta_2 \lvdash{G\limp D} A} \ {\limp}L \qquad \frac{\Gamma;\cdot \vdash G \quad \Gamma;\Delta \lvdash{D} A} {\Gamma;\Delta \lvdash{G\Rightarrow D} A}\ {\Rightarrow}L $$
+  - id: 101
+    kind: body
+    source: |-
+      **Identity and Decide Rules** $$ \frac{\Gamma,D;\Delta \lvdash{D} A} {\Gamma,D;\Delta \vdash A}\ \textit{decide}{!} \qquad \frac{\Gamma;\Delta \lvdash{D} A} {\Gamma;\Delta,D \vdash A}\ \textit{decide} \qquad \frac{} {\Gamma;\cdot \lvdash{A} A}\ \textit{init} $$
+    step1: |-
+      **同一性与判定规则** $$ \frac{\Gamma,D;\Delta \lvdash{D} A} {\Gamma,D;\Delta \vdash A}\ \textit{decide}{!} \qquad \frac{\Gamma;\Delta \lvdash{D} A} {\Gamma;\Delta,D \vdash A}\ \textit{decide} \qquad \frac{} {\Gamma;\cdot \lvdash{A} A}\ \textit{init} $$
+    step2: |-
+      **同一性与判定规则** $$ \frac{\Gamma,D;\Delta \lvdash{D} A} {\Gamma,D;\Delta \vdash A}\ \textit{decide}{!} \qquad \frac{\Gamma;\Delta \lvdash{D} A} {\Gamma;\Delta,D \vdash A}\ \textit{decide} \qquad \frac{} {\Gamma;\cdot \lvdash{A} A}\ \textit{init} $$
+  - id: 102
+    kind: body
+    source: |-
+      Linear logic restricted to $L$ can be viewed as a linear logic programming language. As a consequence, it can serve as a specification language for computational systems, a role that is also occupied by, say, Petri nets, process calculi, $\lambda$-calculus, etc. Given that linear logic has a proof theory and various kinds of semantics, broad avenues of reasoning about computations specified in $L$ are provided by the meta-theory of linear logic.
+    step1: |-
+      限制在 $L$ 上的线性逻辑可看作一种线性逻辑编程语言。因此它可以充当计算系统的规格说明语言，这一角色也由 Petri 网、进程演算、$\lambda$-演算等承担。既然线性逻辑有证明论与各种语义，那么线性逻辑的元理论就为关于 $L$ 中规定的计算进行推理提供了宽广道路。
+    step2: |-
+      限制在 $L$ 上的线性逻辑，可视为一种线性逻辑编程语言，从而充当计算系统的规格说明语言——Petri 网、进程演算、$\lambda$-演算也干这活。线性逻辑既有证明论又有各种语义，其元理论便为 $L$ 中规定的计算提供了宽广的推理道路。
+  - id: 103
+    kind: body
+    source: |-
+      Given that the sequent calculus for linear logic uses multisets of formulas, proof search can directly encode *multiset rewriting*. Since many computations can naturally be seen as multiset rewriting, it has been possible to make numerous connections between linear logic and Petri nets (Gunter & Gehlot 1989)[^gunter-1989], process calculi (Andreoli & Pareschi 1991, Kobayashi *et al*. 1999, Miller 1996)[^andreoli-1991][^kobayashi-1999][^miller-1996], and security protocols (Cervesato *et al*. 1999, Miller 2003)[^cervesato-1999][^miller-2003].
+    step1: |-
+      由于线性逻辑的矢列演算使用公式的多重集，证明搜索可直接编码 *多重集重写*。既然许多计算天然可看作多重集重写，线性逻辑就得以与 Petri 网（Gunter & Gehlot 1989）[^gunter-1989]、进程演算（Andreoli & Pareschi 1991, Kobayashi *et al.* 1999, Miller 1996）[^andreoli-1991][^kobayashi-1999][^miller-1996]，以及安全协议（Cervesato *et al.* 1999, Miller 2003）[^cervesato-1999][^miller-2003] 建立起众多联系。
+    step2: |-
+      线性逻辑的矢列演算用公式多重集，证明搜索便能直接编码 *多重集重写*。许多计算天然就是多重集重写，于是线性逻辑与 Petri 网（Gunter & Gehlot 1989）[^gunter-1989]、进程演算（Andreoli & Pareschi 1991, Kobayashi *et al.* 1999, Miller 1996）[^andreoli-1991][^kobayashi-1999][^miller-1996]、安全协议（Cervesato *et al.* 1999, Miller 2003）[^cervesato-1999][^miller-2003] 之间建立起众多联系。
+  - id: 104
+    kind: body
+    source: |-
+      ## 6. Variations
+    step1: |-
+      ## 6. 变体
+    step2: |-
+      ## 6 变体
+  - id: 105
+    kind: body
+    source: |-
+      ### 6.1 Different treatments of modality
+    step1: |-
+      ### 6.1 模态词的不同处理
+    step2: |-
+      ### 6.1 模态词的不同处理
+  - id: 106
+    kind: body
+    source: |-
+      If one uses traditional sequent calculus presentations, the exponentials are not canonical in the following sense: if you introduce another copy of exponentials, say $\bang'$ and $\quest'$, with the same rules as the original ones, there is no way to prove that $\bang$ is equivalent to $\bang'$, and $\quest$ to $\quest'$, while for the other connectives this is easily established. Various applications of non-canonical exponentials can be found in (Danos et. al., 1993; Nigam & Miller, 2009). Although the decidability of MELL is currently being debated (Bimbó 2015, Straßburger 2019)[^bimbó-2015][^straßburger-2019], extending MLL with three pairs of $\bang$ and $\quest$ yields a logic that is undecidable (Chaudhuri 2018)[^chaudhuri-2018]. Martini and Masini 1995 describe a “2-sequent” proof system in which the exponentials are canonical.
+    step1: |-
+      若采用传统矢列演算表述，指数在下述意义上不是典范的：若你引入另一份指数，比如 $\bang'$ 与 $\quest'$，其规则与原指数相同，却无法证明 $\bang$ 等价于 $\bang'$、$\quest$ 等价于 $\quest'$；而对其他联结词，这一点却容易建立。非典范指数的各种应用见（Danos et. al., 1993; Nigam & Miller, 2009）。尽管 MELL 的可判定性目前尚有争议（Bimbó 2015, Straßburger 2019）[^bimbó-2015][^straßburger-2019]，把 MLL 用三对 $\bang$ 与 $\quest$ 扩展，所得逻辑不可判定（Chaudhuri 2018）[^chaudhuri-2018]。Martini 与 Masini 1995 描述了一种“2-矢列”证明系统，其中指数是典范的。
+    step2: |-
+      传统矢列演算表述里，指数不是典范的：再引入一份规则相同的指数，比如 $\bang'$ 与 $\quest'$，竟无法证明 $\bang$ 等价于 $\bang'$、$\quest$ 等价于 $\quest'$；别的联结词则容易做到。非典范指数的应用见（Danos et. al., 1993; Nigam & Miller, 2009）。MELL 可判定性眼下还有争议（Bimbó 2015, Straßburger 2019）[^bimbó-2015][^straßburger-2019]，但把 MLL 用三对 $\bang$、$\quest$ 扩展，所得逻辑不可判定（Chaudhuri 2018）[^chaudhuri-2018]。Martini 与 Masini 1995 描述了一种“2-矢列”证明系统，其中指数是典范的。
+  - id: 107
+    kind: body
+    source: |-
+      The fact that cut-elimination can make proofs in classical and intuitionistic logic grow to enormous size can be analyzed in terms of the application of the contraction rule in those proof systems. If proof systems introduce restrictions on contraction, it is possible to design new logics and proof systems for which cut-elimination has a much-reduced complexity. For example, *elementary linear logic* (ELL) is obtained by replacing the $\bang$ and $\quest$ introduction by a single rule introducing $\bang$ and $\quest$ at the same time. As a consequence, ELL can encode all and only the Kalmar elementary functions (computable in time bounded by a tower of exponentials of fixed height) (Girard 1998, Baillot 2015)[^baillot-2015][^girard-1998]. Still, other variations on the inference rules for the exponentials have been studied. For example, *light linear logic* (Girard 1998)[^girard-1998] and *soft linear logic* (Lafont 2004)[^lafont-2004] both characterize functions computable in polynomial time: see also (Baillot & Terui 2004)[^baillot-2004].
+    step1: |-
+      切消除可能使经典逻辑与直觉主义逻辑中的证明膨胀到极大，这一事实可以按这些证明系统中收缩规则的使用来分析。若证明系统对收缩加以限制，就有可能设计出切消除复杂性大大降低的新逻辑与证明系统。例如 *初等线性逻辑*（ELL）是把 $\bang$ 与 $\quest$ 的引入换成一条同时引入 $\bang$ 与 $\quest$ 的规则而得。因此，ELL 恰好能编码全部且仅 Kalmar 初等函数（可在高度固定的指数塔所界定的时间内计算）（Girard 1998, Baillot 2015）[^baillot-2015][^girard-1998]。此外，指数推理规则的其他变体也有人研究。例如 *轻线性逻辑*（Girard 1998）[^girard-1998] 与 *软线性逻辑*（Lafont 2004）[^lafont-2004] 都刻画多项式时间可计算的函数：另见（Baillot & Terui 2004）[^baillot-2004]。
+    step2: |-
+      切消除会让经典逻辑、直觉主义逻辑的证明膨胀到极大，这可以按证明系统里收缩规则的使用来分析。若对收缩设限，就可能设计出切消除复杂性大幅降低的新逻辑、新证明系统。比如 *初等线性逻辑*（ELL），把 $\bang$ 与 $\quest$ 的引入换成一条同时引入 $\bang$ 与 $\quest$ 的规则；于是 ELL 恰好编码全体 Kalmar 初等函数（可在高度固定的指数塔所界时间内计算）（Girard 1998, Baillot 2015）[^baillot-2015][^girard-1998]。指数规则的其他变体也有人研究，如 *轻线性逻辑*（Girard 1998）[^girard-1998] 与 *软线性逻辑*（Lafont 2004）[^lafont-2004] 都刻画多项式时间可计算函数：另见（Baillot & Terui 2004）[^baillot-2004]。
+  - id: 108
+    kind: body
+    source: |-
+      ### 6.2 Non-commutative linear logic
+    step1: |-
+      ### 6.2 非交换线性逻辑
+    step2: |-
+      ### 6.2 非交换线性逻辑
+  - id: 109
+    kind: body
+    source: |-
+      While linear logic rejects the universal application of the two structural rules of weakening and contraction, it allows the unrestricted use of the structural rule called *exchange*. A sequent calculus that does not universally employ the exchange rule has sequents whose left and right contexts are lists: the order of formulas within context becomes an expressive element of the logic. In this case, the multiplicative disjunction and conjunction can become non-commutative.
+    step1: |-
+      线性逻辑拒绝普遍施用弱化与收缩这两条结构规则，却允许无限制使用称为 *交换* 的结构规则。不普遍使用交换规则的矢列演算，其矢列左右语境是列表：语境中公式的次序成为逻辑的表达成分。此时乘法析取与乘法合取可以成为非交换的。
+    step2: |-
+      线性逻辑不许弱化、收缩普遍施用，却允许无限制使用 *交换* 规则。不普遍施用交换的矢列演算，左右语境是列表，公式在语境中的次序成了表达手段；此时乘法析取、乘法合取都可变为非交换的。
+  - id: 110
+    kind: body
+    source: |-
+      One of the first logics that rejects all three structural rules of the sequent calculus was given in Lambek 1958. While this logic contains *two* implications, it contains neither a negation nor any exponentials. Various papers have proposed extending linear logic to include non-commutative features and, at present, no proposal seems canonical. For a sampling of non-commutative linear logics, see Yetter 1990, Abrusci 1991, Retoré 1997, Abrusci & Ruet 1999, and Guglielmi & Straßburger 2001.
+    step1: |-
+      最早拒绝矢列演算全部三条结构规则的逻辑之一，由 Lambek 1958 给出。该逻辑含有 *两个* 蕴涵，却既无否定，也无任何指数。多篇论文提出把线性逻辑扩展到包含非交换特征，目前似乎还没有典范方案。非交换线性逻辑的样例，见 Yetter 1990、Abrusci 1991、Retoré 1997、Abrusci & Ruet 1999、Guglielmi & Straßburger 2001。
+    step2: |-
+      最早把矢列演算三条结构规则全部拒之门外的逻辑之一，见 Lambek 1958。它有 *两个* 蕴涵，却既无否定，也无指数。不少人提议把线性逻辑扩展出非交换特征，至今似无典范方案。非交换线性逻辑的样例见 Yetter 1990、Abrusci 1991、Retoré 1997、Abrusci & Ruet 1999、Guglielmi & Straßburger 2001。
+  - id: 111
+    kind: body
+    source: |-
+      ### 6.3 Treatment of unbounded behavior
+    step1: |-
+      ### 6.3 无界行为的处理
+    step2: |-
+      ### 6.3 无界行为的处理
+  - id: 112
+    kind: body
+    source: |-
+      While the MALL logic is an expressive and novel logic, it is also decidable and, thus, not capable of capturing the unbounded behaviors found in, say, iteration and recursion. As described above, the addition of the exponentials ! and ? enriches MALL to full linear logic and to a setting where unbounded behaviors can be captured. A second approach to extending MALL to capture unbounded behaviors involves the addition of the least and greatest fixed point operators as logical connectives directly into MALL. In order to properly characterize fixed points as being either the least or the greatest, it is necessary for the inference rules for fixed points to be “higher-order” in the sense that they involve invariants. Such an extension to MALL (also with first-order quantification and term equality) has been developed by Baelde (Baelde & Miller, 2007; Baelde 2012)[^baelde-2012] and has been used to provide a proof-theoretic foundation for model checking (Heath & Miller 2018)[^heath-2018].
+    step1: |-
+      MALL 逻辑虽有表达力、有新意，却也可判定，因此无法刻画诸如迭代与递归中出现的无界行为。如上所述，加入指数 ! 与 ? 把 MALL 丰富为完全线性逻辑，进入能刻画无界行为的境地。扩展 MALL 以刻画无界行为的第二条进路，是把最小与最大不动点算子作为逻辑联结词直接加入 MALL。为正确刻画不动点是“最小”还是“最大”，不动点的推理规则必须是“高阶”的，即涉及不变量。Baelde（Baelde & Miller, 2007; Baelde 2012）[^baelde-2012] 发展出对 MALL 的这种扩展（还带一阶量化与词项相等），并用来为模型检验提供证明论基础（Heath & Miller 2018）[^heath-2018]。
+    step2: |-
+      MALL 有表达力、有新意，却可判定，因而刻画不了迭代、递归里的无界行为。如上所述，加入指数 ! 与 ? 可把 MALL 丰富成完全线性逻辑，进入能刻画无界行为的境地。另一条路，是把最小、最大不动点算子直接作为联结词加进 MALL。要让不动点确为“最小”或“最大”，其推理规则须是“高阶”的，即涉及不变量。Baelde（Baelde & Miller, 2007; Baelde 2012）[^baelde-2012] 发展出对 MALL 的这类扩展（还带一阶量化与词项相等），并用来为模型检验提供证明论基础（Heath & Miller 2018）[^heath-2018]。
+  - id: 113
+    kind: oir
+    source: |-
+      - The [linear logic bibliography](http://www.cs.cmu.edu/~carsten/linearbib/llb.html) (up to 1998).
+      - Vincent Danos and Roberto Di Cosmo. [The Linear Logic Primer. Course Notes.](http://www.dicosmo.org/CourseNotes/LinLog/) (1992).
+    step1: |-
+      - [线性逻辑文献目录](http://www.cs.cmu.edu/~carsten/linearbib/llb.html)（截至 1998 年）。
+      - Vincent Danos 与 Roberto Di Cosmo。[《线性逻辑入门》（课程讲义）](http://www.dicosmo.org/CourseNotes/LinLog/)（1992）。
+    step2: |-
+      - [线性逻辑文献目录](http://www.cs.cmu.edu/~carsten/linearbib/llb.html)（截至 1998 年）。
+      - Vincent Danos 与 Roberto Di Cosmo。[《线性逻辑入门》（课程讲义）](http://www.dicosmo.org/CourseNotes/LinLog/)（1992）。

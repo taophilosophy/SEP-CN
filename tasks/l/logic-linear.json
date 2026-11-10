@@ -1,0 +1,50 @@
+{
+  "slug": "logic-linear",
+  "kind": "retranslate",
+  "zh_doc": "l/logic-linear.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-09T23:06:26Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-10T01:03:01Z",
+      "evidence": "lq compose 113 段全填、守恒 HARD 0（段107 补回 $\\bang$/\\quest 两处行内公式）；l/logic-linear.md 37,817 字符；p1–p4 分批（1–31/32–60/61–95/96–113）；11 幅图自 yuanwen/assets/logic-linear 镜像复制入 assets（SHA-256 逐一相符）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-10T01:03:01Z",
+      "evidence": "check_style 0（italic_to_bold 33 行 + 8 处单字/术语粗体合并、5 处三连星归并）；check_prose 0（7 条 de-chain/long-sentence/weak-verb 在账本 step2 改写后重 compose）；check_math missing 0，unbalanced 2 为 yuanwen 中 $0/$2^n 数字起头触发货币启发式的已知假阳性"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-10T01:03:01Z",
+      "evidence": "check_academic --strict 0 硬错误；check_terms 硬错误 0（新增术语 28、人名 75，script/l_reg_logic_linear.py；Dale Miller 与 David Miller/Russ Miller 分列）；check_summary H1 mismatch 0"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "L-main-20261109c",
+      "at": "2026-11-10T01:06:42Z",
+      "evidence": "对照 yuanwen/l/logic-linear.md 逐段回读 113 段：标题层级 1–6 节与 1.1–6.3 子节一致；90 条脚注定义与文内 [^key] 引用逐键对位；11 幅图的相对路径与 assets/logic-linear 文件一一有解（SHA-256 相符）；源文长句（'Sequentializing' 段、ELL 段）按分句处理不增删命题"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-09T23:06:26Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 16, 2023",
+    "archive_edition": "Fall 2023",
+    "sha256": "35b702fad4c06fc8057fbd920383f46678abd81c7f31b23498545f2e89d193b0"
+  }
+}
