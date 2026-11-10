@@ -817,7 +817,7 @@
   * [进化认识论 evolutionary (Michael Bradie and William Harms)](e/epistemology-evolutionary.md)
   * [\*女性主义——见女性主义哲学介入：女性主义认识论与科学哲学 feminist — see feminist philosophy, interventions: epistemology and philosophy of science](f/feminism-epistemology.md)
   * [\*古典印度哲学——见古典印度哲学：古典印度哲学认识论 Epistemology in Classical Indian Philosophy — see Indian Philosophy (Classical): epistemology](e/epistemology-india.md)
-  * [拉丁美洲的认识论 in Latin America (Diego Machuca)](e/epistemology-latin-america.md)
+  * [拉丁美洲的认识论 Epistemology in Latin America (Diego Machuca)](e/epistemology-latin-america.md)
   * [\*道德——见道德认识论 moral — see moral epistemology](m/moral-epistemology.md)
   * [\*道德先验主义——见道德认识论：道德认识论中的先验主义 A Priorism in Moral Epistemology — see moral epistemology: a priorism in](m/moral-epistemology-a-priori.md)
   * [自然主义认识论 naturalism in (Patrick Rysiew)](e/epistemology-naturalized.md)
@@ -2347,7 +2347,7 @@
 
 ## S
 
-* [萨阿迪亚·果昂 Saadya \[Saadiah\] (Sarah Pessin)](s/saadya.md)
+* [萨阿迪亚·加昂 Saadya \[Saadiah\] (Sarah Pessin)](s/saadya.md)
 * [寂护 Śāntarakṣita (James Blumenthal and James Apple)](s/saantarak-sita.md)
 * [寂天 Śāntideva (Charles Goodman)](s/shantideva.md)
 * [萨迦·班智达·贡噶坚赞 Sakya Paṇḍita \[sa skya paṇ ḍi ta\] (Jonathan C. Gold)](s/sakya-pandita.md)
