@@ -1,0 +1,348 @@
+{
+ "key": "topics",
+ "term": "Topics",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T19:54:22+00:00",
+ "status": "ok",
+ "note": "variant=Topics; 审定公布名词库=347; 海峡两岸名词对照库=80; 其他来源数据库=16; 预公布名词数据库=37; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "题目",
+   "en": "topic",
+   "code": "04.03.001",
+   "standard": "档案学名词",
+   "subject": "档案学_档案文献编纂_档案文献编纂方法"
+  },
+  {
+   "cn": "话题",
+   "en": "topic",
+   "code": "04.227",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_句法篇章"
+  },
+  {
+   "cn": "话题",
+   "en": "topic",
+   "code": "04.227",
+   "standard": "语言学名词",
+   "subject": "语言学_社会语言学_言语交际"
+  },
+  {
+   "cn": "题目研究",
+   "en": "studying topics",
+   "code": "04.03.009",
+   "standard": "档案学名词",
+   "subject": "档案学_档案文献编纂_档案文献编纂方法"
+  },
+  {
+   "cn": "选题",
+   "en": "selecting topic",
+   "code": "04.03.002",
+   "standard": "档案学名词",
+   "subject": "档案学_档案文献编纂_档案文献编纂方法"
+  },
+  {
+   "cn": "选题规划",
+   "en": "topic planning",
+   "code": "04.03.003",
+   "standard": "档案学名词",
+   "subject": "档案学_档案文献编纂_档案文献编纂方法"
+  },
+  {
+   "cn": "新闻选题",
+   "en": "news topic",
+   "code": "4.061",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻采访"
+  },
+  {
+   "cn": "选题",
+   "en": "topic selection",
+   "code": "03.109",
+   "standard": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "subject": "化工（五）_研发与工程化_基础研究与技术开发"
+  },
+  {
+   "cn": "主题描述",
+   "en": "topic description",
+   "code": "04.025",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_一般概念"
+  },
+  {
+   "cn": "主题分布",
+   "en": "topic distribution",
+   "code": "04.033",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_一般概念"
+  },
+  {
+   "cn": "主题发现",
+   "en": "topic discovery",
+   "code": "04.031",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_一般概念"
+  },
+  {
+   "cn": "主题抽取",
+   "en": "topic extraction",
+   "code": "04.032",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_一般概念"
+  },
+  {
+   "cn": "话题小组，课题小组",
+   "en": "topic group",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "点滴法",
+   "en": "topical application",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "点滴／注射毒性比率",
+   "en": "topical/ inject toxicity ratio\",\"TIR",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "海洋光学",
+   "en": "marine optics\",\"ocean optics",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "南回归线",
+   "en": "Tropic of Capricorn\",\"south tropic",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "营养神经",
+   "en": "tropic nerve",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "莨菪酸",
+   "en": "tropic acid",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "向性运动",
+   "en": "tropic movement",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "大气光学",
+   "en": "atmospheric optics",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "回归潮",
+   "en": "tropic tide",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "空气毒素",
+   "en": "air toxins",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "大气光学",
+   "en": "atmospheric optics",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "主题地图",
+   "en": "Topic Maps)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "潮汐能",
+   "en": "List of renewable energy topics by country",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "海洋能",
+   "en": "List of renewable energy topics by country",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "水力",
+   "en": "List of renewable energy topics by country",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "海流能",
+   "en": "List of renewable energy topics by country",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "热带",
+   "en": "Tropics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "光学",
+   "en": "Optics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "痛风石",
+   "en": "Tophus",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "漫画",
+   "en": "comics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "组学",
+   "en": "omics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "性菌毛",
+   "en": "Coley's toxins",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "物理光学",
+   "en": "physical optics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "题材模式",
+   "en": "topic mode",
+   "code": "4.0445",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_分支学科与研究领域"
+  },
+  {
+   "cn": "中等毒",
+   "en": "moderately toxic",
+   "code": "6.3.1.9.3",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_安全性检验"
+  },
+  {
+   "cn": "低毒",
+   "en": "slightly toxic",
+   "code": "6.3.1.9.4",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_安全性检验"
+  },
+  {
+   "cn": "毒剂剂量",
+   "en": "toxic dose",
+   "code": "10.5.13",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_化学武器医学防护学_化学战剂"
+  },
+  {
+   "cn": "毒效应",
+   "en": "toxic action",
+   "code": "16.1.1.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事毒理学_军事毒理学基础"
+  },
+  {
+   "cn": "毒效应",
+   "en": "toxic effect",
+   "code": "1.4.2.3",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "有毒蜂蜜",
+   "en": "toxic honey",
+   "code": "3.2.5.2",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_中毒型食源性疾病"
+  },
+  {
+   "cn": "毒蕈",
+   "en": "toxic mushroom",
+   "code": "3.2.3.1",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_中毒型食源性疾病"
+  },
+  {
+   "cn": "麻痹性贝类毒素",
+   "en": "paralytic shellfish toxins",
+   "code": "3.2.4.4",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_中毒型食源性疾病"
+  },
+  {
+   "cn": "失忆性贝类毒素",
+   "en": "amnesic shellfish toxins",
+   "code": "3.2.4.10",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_中毒型食源性疾病"
+  },
+  {
+   "cn": "贝类毒素中毒",
+   "en": "shellfish toxins poisoning",
+   "code": "3.2.4.3",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_中毒型食源性疾病"
+  },
+  {
+   "cn": "神经毒性贝类毒素",
+   "en": "neurotoxic shellfish toxins",
+   "code": "3.2.4.6",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_中毒型食源性疾病"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

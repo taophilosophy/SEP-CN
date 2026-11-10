@@ -1,0 +1,348 @@
+{
+ "key": "truth-bearer",
+ "term": "truth-bearer",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T20:19:57+00:00",
+ "status": "ok",
+ "note": "variant=truth-bearer; 审定公布名词库=1339; 海峡两岸名词对照库=321; 其他来源数据库=47; 预公布名词数据库=17; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "真值",
+   "en": "truth",
+   "code": "02.0042",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "半真相",
+   "en": "partial truth;half truth",
+   "code": "12.017",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_政治传播_政治传播基础"
+  },
+  {
+   "cn": "真实性",
+   "en": "truth authenticity",
+   "code": "04.0364",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景名胜_世界遗产和其他自然保护地"
+  },
+  {
+   "cn": "语义真理",
+   "en": "semantic truth",
+   "code": "03.131",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_说明"
+  },
+  {
+   "cn": "逻辑真理",
+   "en": "logical truth",
+   "code": "03.284",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "后真相",
+   "en": "post truth",
+   "code": "12.019",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_政治传播_政治传播基础"
+  },
+  {
+   "cn": "真值表",
+   "en": "truth-table",
+   "code": "02.0136",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "真值指派",
+   "en": "truth assignment",
+   "code": "02.0143",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "俄罗斯法典",
+   "en": "Russain Truth",
+   "code": "05.0108",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人"
+  },
+  {
+   "cn": "真假值表",
+   "en": "truth table",
+   "code": "02.0045",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "真假值",
+   "en": "truth value",
+   "code": "02.0041",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "真假值函数",
+   "en": "truth function",
+   "code": "02.0044",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "地面实况",
+   "en": "ground truth",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "地面实况",
+   "en": "ground truth",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "真值表",
+   "en": "truth table",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "简枕",
+   "en": "bearer",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "真实标记",
+   "en": "truth in labeling",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "真值表归约",
+   "en": "truth-table reduction",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "真值表可归约性",
+   "en": "truth-table reducibility",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "不记名债券",
+   "en": "bond bearer",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "无记名公司债券",
+   "en": "bearer debenture",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "无记名汇票",
+   "en": "bearer bill",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "无记名支票",
+   "en": "bearer cheque",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "承载能力",
+   "en": "bearer capability",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "幻中有真",
+   "en": "Truth in Imagination",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "二谛",
+   "en": "Satyadvaya / Two Truths",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "旗手",
+   "en": "flag-bearer\",\"standard bearer",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "火炬手",
+   "en": "torch-bearer",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "担架员",
+   "en": "stretcher bearer",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "实事求是",
+   "en": "Seek Truth from Facts",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "大道至简",
+   "en": "Great Truth in Simple Words",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "大道至简",
+   "en": "Great truths are always simple.",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "道济天下",
+   "en": "Support All People by Upholding Truth and Justice",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "航向",
+   "en": "bearing",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "方位",
+   "en": "bearing",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "滚珠轴承",
+   "en": "ball bearings",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "客观真理",
+   "en": "objective truth",
+   "code": "01.0209",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  },
+  {
+   "cn": "相对真理",
+   "en": "relative truth",
+   "code": "01.0210",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  },
+  {
+   "cn": "绝对真理",
+   "en": "absolute truth",
+   "code": "01.0211",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  },
+  {
+   "cn": "实事求是",
+   "en": "seeking truth from facts",
+   "code": "01.0245",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "真理标准大讨论",
+   "en": "debating over the criterion of truth",
+   "code": "03.0614",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "解放思想实事求是",
+   "en": "emancipate the mind seek truth from facts",
+   "code": "03.0560",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "生育代价及补偿",
+   "en": "bearing cost and compensating",
+   "code": "3.2.4.11",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别与家庭"
+  },
+  {
+   "cn": "含铜宫内节育器",
+   "en": "copper-bearing intrauterine device",
+   "code": "5.2.7.1.2.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_生育调节_避孕"
+  },
+  {
+   "cn": "含铜含药宫内节育器",
+   "en": "copper-bearing and medicated intrauterine device",
+   "code": "5.2.7.1.2.2",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_生育调节_避孕"
+  },
+  {
+   "cn": "以物易物",
+   "en": "barter",
+   "code": "1.0161",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "以物易物",
+   "en": "barter",
+   "code": "4.2.9.24",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_文化现象"
+  },
+  {
+   "cn": "物物交换",
+   "en": "barter",
+   "code": "02.0060",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

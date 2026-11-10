@@ -1,0 +1,180 @@
+{
+ "key": "trophoblast",
+ "term": "trophoblast",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T20:15:27+00:00",
+ "status": "ok",
+ "note": "variant=trophoblast; 审定公布名词库=43; 海峡两岸名词对照库=19; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "滋养层",
+   "en": "trophoblast",
+   "code": "3.172",
+   "standard": "生殖医学名词",
+   "subject": "生殖医学_生殖生理与内分泌_女性生殖生理与内分泌"
+  },
+  {
+   "cn": "滋养层",
+   "en": "trophoblast",
+   "code": "4.0259",
+   "standard": "动物学名词",
+   "subject": "动物学_动物胚胎学_胚胎卵裂"
+  },
+  {
+   "cn": "滋养层",
+   "en": "trophoblast",
+   "code": "05.335",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_繁殖_受精、妊娠、分娩"
+  },
+  {
+   "cn": "滋养层",
+   "en": "trophoblast",
+   "code": "02.164",
+   "standard": "计划生育名词",
+   "subject": "计划生育_生殖医学基础_妊娠"
+  },
+  {
+   "cn": "滋养层",
+   "en": "trophoblast",
+   "code": "21.034",
+   "standard": "组织学与胚胎学名词",
+   "subject": "组织学与胚胎学_胚胎学_配子发生、受精和胚前期发育"
+  },
+  {
+   "cn": "滋养层",
+   "en": "trophoblast",
+   "code": "06.181",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞分化与发育"
+  },
+  {
+   "cn": "滋养层[细胞]",
+   "en": "trophoblast,trophoblastic layer",
+   "code": "05.072",
+   "standard": "遗传学名词",
+   "subject": "遗传学_发育遗传学"
+  },
+  {
+   "cn": "滋养细胞肿瘤",
+   "en": "trophoblast tumor,trophoblastic tumor",
+   "code": "04.0165",
+   "standard": "核医学名词",
+   "subject": "核医学_临床核医学_肿瘤核医学_临床常见肿瘤"
+  },
+  {
+   "cn": "滋养层蛋白质",
+   "en": "trophoblast protein",
+   "code": "2.0677",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_氨基酸_肽与蛋白质_蛋白质_功能性蛋白质"
+  },
+  {
+   "cn": "滋养层",
+   "en": "trophoblast;trophoderm",
+   "code": "07.093",
+   "standard": "兽医学名词",
+   "subject": "兽医学_家畜胚胎学"
+  },
+  {
+   "cn": "滋养细胞",
+   "en": "trophoblast cell",
+   "code": "3.238",
+   "standard": "生殖医学名词",
+   "subject": "生殖医学_生殖生理与内分泌_女性生殖生理与内分泌"
+  },
+  {
+   "cn": "滋养细胞",
+   "en": "trophoblast cell",
+   "code": "2.179",
+   "standard": "妇科肿瘤学名词",
+   "subject": "妇科肿瘤学_妇科肿瘤学基础_妇科胚胎学_卵子发生"
+  },
+  {
+   "cn": "滋养层",
+   "en": "trophoblast",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "营养细胞",
+   "en": "trophoblast",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "滋养层",
+   "en": "trophoblast",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "滋养层[细胞]",
+   "en": "trophoblast\",\"trophoblastic layer",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "滋养层",
+   "en": "trophoblast\",\"trophoblastic layer\",\"trophoderm",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "滋养层细胞",
+   "en": "trophoblastic cell\",\"trophoblast cell",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "滋养层蛋白质",
+   "en": "trophoblast protein",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "胚端滋养层（=[胚]极滋养层）",
+   "en": "polar trophoblast",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "[胚]极滋养层，胚端滋养层",
+   "en": "polar trophoblast",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "脐部滋养层",
+   "en": "omphaloidean trophoblast",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "绒毛前滋养细胞",
+   "en": "previllous trophoblast",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "滋养层侵入",
+   "en": "trophoblastic invasion",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

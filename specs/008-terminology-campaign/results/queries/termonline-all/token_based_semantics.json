@@ -1,0 +1,348 @@
+{
+ "key": "token-based semantics",
+ "term": "token-based semantics",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T19:54:22+00:00",
+ "status": "ok",
+ "note": "variant=token-based semantics; 审定公布名词库=1711; 海峡两岸名词对照库=558; 其他来源数据库=187; 预公布名词数据库=80; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "词元",
+   "en": "token",
+   "code": null,
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能"
+  },
+  {
+   "cn": "标码",
+   "en": "token",
+   "code": "02.0670",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_佩特里网"
+  },
+  {
+   "cn": "记号",
+   "en": "token",
+   "code": "05.0141",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_语言与编译"
+  },
+  {
+   "cn": "例",
+   "en": "token",
+   "code": "01.163",
+   "standard": "语言学名词",
+   "subject": "语言学_理论语言学_核心术语"
+  },
+  {
+   "cn": "词例化程序",
+   "en": "tokenizer",
+   "code": "08.0508",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_计算语言学"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "code": "6.206",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播总论_模式与方法"
+  },
+  {
+   "cn": "语义",
+   "en": "semantics",
+   "code": "05.0005",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_语言与编译"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "code": "08.0484",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_计算语言学"
+  },
+  {
+   "cn": "语义",
+   "en": "semantics",
+   "code": "02.0016",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics,linguistic semantics",
+   "code": "05.001",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_语义学与语义理论"
+  },
+  {
+   "cn": "代币疗法",
+   "en": "token economy",
+   "code": "20.02",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为干预与治疗_行为治疗"
+  },
+  {
+   "cn": "个性标码",
+   "en": "individual token",
+   "code": "02.0657",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_佩特里网"
+  },
+  {
+   "cn": "令牌",
+   "en": "token",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "权标，令牌",
+   "en": "token",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "基于语义的查询优化",
+   "en": "semantics-based query optimization",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "语义",
+   "en": "semantic",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "代币法",
+   "en": "token economy",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "色块测验",
+   "en": "token test",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "象征性出口",
+   "en": "token export",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "象征性进口",
+   "en": "token import",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "单个记号",
+   "en": "single token",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "标记变量",
+   "en": "token variable",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "标记类型",
+   "en": "token type",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "代币化",
+   "en": "tokenization",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "令牌环",
+   "en": "Token-Ring",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "支付标记化",
+   "en": "payment tokenization",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "指称语义",
+   "en": "Denotational semantics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "普通语义学",
+   "en": "general semantics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "框架语义学",
+   "en": "frame semantics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义角色",
+   "en": "Semantic roles",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义信息",
+   "en": "semantic information",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义网络",
+   "en": "Semantic Network",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义网",
+   "en": "Semantic Web",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义网络",
+   "en": "semantic network",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义搜索",
+   "en": "semantic search",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义的不可通约性",
+   "en": "semantic incommensurability",
+   "code": "03.184",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向"
+  },
+  {
+   "cn": "语义差异量表",
+   "en": "semantic differential scale",
+   "code": "1.2.4.47",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "语义网络分析",
+   "en": "semantic network analysis",
+   "code": "1.2.5.16",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "表意文字",
+   "en": "semantic script; ideography",
+   "code": "5.0195",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_语言状况与规划"
+  },
+  {
+   "cn": "基准深度",
+   "en": "base depth",
+   "code": "6.4.4.25",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_放射治疗"
+  },
+  {
+   "cn": "社会基础",
+   "en": "social base",
+   "code": "2.1.3.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会存在"
+  },
+  {
+   "cn": "群众基础",
+   "en": "mass base",
+   "code": "03.0723",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "居家照护",
+   "en": "home-based care",
+   "code": "11.3.17",
+   "standard": "社会医学名词",
+   "subject": "社区卫生"
+  },
+  {
+   "cn": "醇类消毒剂",
+   "en": "alcohol-based disinfectant",
+   "code": "2.1.7",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术_化学消毒"
+  },
+  {
+   "cn": "街居制",
+   "en": "residence-based administration",
+   "code": "3.4.13.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_城市社会学_中国现代城市"
+  },
+  {
+   "cn": "社区组织",
+   "en": "community-based organizations",
+   "code": "3.17.1.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_社区_实践中的社区"
+  },
+  {
+   "cn": "基于投入支付",
+   "en": "input-based payment",
+   "code": "10.2.5",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,348 @@
+{
+ "key": "topic-neutral",
+ "term": "topic-neutral",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T19:54:22+00:00",
+ "status": "ok",
+ "note": "variant=topic-neutral; 审定公布名词库=2697; 海峡两岸名词对照库=812; 其他来源数据库=121; 预公布名词数据库=177; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "题目",
+   "en": "topic",
+   "code": "04.03.001",
+   "standard": "档案学名词",
+   "subject": "档案学_档案文献编纂_档案文献编纂方法"
+  },
+  {
+   "cn": "话题",
+   "en": "topic",
+   "code": "04.227",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_句法篇章"
+  },
+  {
+   "cn": "话题",
+   "en": "topic",
+   "code": "04.227",
+   "standard": "语言学名词",
+   "subject": "语言学_社会语言学_言语交际"
+  },
+  {
+   "cn": "选题",
+   "en": "selecting topic",
+   "code": "04.03.002",
+   "standard": "档案学名词",
+   "subject": "档案学_档案文献编纂_档案文献编纂方法"
+  },
+  {
+   "cn": "选题规划",
+   "en": "topic planning",
+   "code": "04.03.003",
+   "standard": "档案学名词",
+   "subject": "档案学_档案文献编纂_档案文献编纂方法"
+  },
+  {
+   "cn": "新闻选题",
+   "en": "news topic",
+   "code": "4.061",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻采访"
+  },
+  {
+   "cn": "选题",
+   "en": "topic selection",
+   "code": "03.109",
+   "standard": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "subject": "化工（五）_研发与工程化_基础研究与技术开发"
+  },
+  {
+   "cn": "主题描述",
+   "en": "topic description",
+   "code": "04.025",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_一般概念"
+  },
+  {
+   "cn": "主题分布",
+   "en": "topic distribution",
+   "code": "04.033",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_一般概念"
+  },
+  {
+   "cn": "主题发现",
+   "en": "topic discovery",
+   "code": "04.031",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_一般概念"
+  },
+  {
+   "cn": "主题抽取",
+   "en": "topic extraction",
+   "code": "04.032",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_一般概念"
+  },
+  {
+   "cn": "主题聚类",
+   "en": "topic clustering",
+   "code": "04.034",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_一般概念"
+  },
+  {
+   "cn": "话题小组，课题小组",
+   "en": "topic group",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "点滴法",
+   "en": "topical application",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "中性共生",
+   "en": "neutralism",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "中和",
+   "en": "neutralization",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "中和",
+   "en": "neutralization",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "中性共生",
+   "en": "neutralism",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "中和",
+   "en": "neutralization",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "中性共生",
+   "en": "neutralism",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "中和作用",
+   "en": "neutralization",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "中性共生",
+   "en": "neutralism",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "中和",
+   "en": "neutralization",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "中性作用",
+   "en": "neutralism",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "主题地图",
+   "en": "Topic Maps)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "中立角",
+   "en": "neutral corner",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "裁判员抛球",
+   "en": "neutral throw",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_水球名词"
+  },
+  {
+   "cn": "中立裁判员",
+   "en": "neutral judge",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "中立圈",
+   "en": "neutral lap",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "中立区",
+   "en": "neutral zone",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_篮球名词"
+  },
+  {
+   "cn": "数据中立性",
+   "en": "data neutrality",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "网络中立性",
+   "en": "network neutrality",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "碳中和",
+   "en": "carbon neutrality",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "潮汐能",
+   "en": "List of renewable energy topics by country",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "海洋能",
+   "en": "List of renewable energy topics by country",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "水力",
+   "en": "List of renewable energy topics by country",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "题材模式",
+   "en": "topic mode",
+   "code": "4.0445",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_分支学科与研究领域"
+  },
+  {
+   "cn": "中和剂",
+   "en": "neutralizer",
+   "code": "6.2.26.9.1",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "中性温度",
+   "en": "neutral temperature",
+   "code": "4.3.1.4",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健"
+  },
+  {
+   "cn": "中和抗体",
+   "en": "neutralizing antibody",
+   "code": "1.3.4.14",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_抗原与抗体"
+  },
+  {
+   "cn": "风险中立",
+   "en": "risk neutrality",
+   "code": "11.3.1.6",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_健康保险_健康保险市场"
+  },
+  {
+   "cn": "中性离子表面活性剂",
+   "en": "neutral ion surfactant",
+   "code": "2.1.12.9",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术_化学消毒"
+  },
+  {
+   "cn": "中性医用清洗剂",
+   "en": "neutral medical detergent",
+   "code": "4.6.19.4.10.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_医院消毒"
+  },
+  {
+   "cn": "中和剂鉴定试验",
+   "en": "neutralizer appraisal test",
+   "code": "6.2.26.9",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "中和产物",
+   "en": "product of neutralization",
+   "code": "6.2.26.9.3",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "化学中和法",
+   "en": "chemical neutralization method",
+   "code": "6.2.26.9.9",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "悬液定量中和剂鉴定试验",
+   "en": "neutralizer appraisal test by suspension quantitative method",
+   "code": "6.2.26.9.10",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "载体定量中和剂鉴定试验",
+   "en": "neutralizer appraisal test by carrier quantitative method",
+   "code": "6.2.26.9.11",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

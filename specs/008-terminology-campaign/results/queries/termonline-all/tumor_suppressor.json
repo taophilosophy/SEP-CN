@@ -1,0 +1,292 @@
+{
+ "key": "tumor suppressor",
+ "term": "tumor suppressor",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T20:25:58+00:00",
+ "status": "ok",
+ "note": "variant=tumor suppressor; 审定公布名词库=1366; 海峡两岸名词对照库=161; 其他来源数据库=10; 预公布名词数据库=6; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "肿瘤抑制蛋白",
+   "en": "tumor suppressor",
+   "code": "2.0763",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_氨基酸_肽与蛋白质_蛋白质_功能性蛋白质"
+  },
+  {
+   "cn": "肿瘤抑制因子",
+   "en": "tumor suppressor",
+   "code": "1.384",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "肿瘤抑制基因",
+   "en": "tumor suppressor gene",
+   "code": "1.383",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "抑癌基因",
+   "en": "tumor suppressor gene",
+   "code": "03.155",
+   "standard": "老年医学名词",
+   "subject": "老年医学_老年基础医学"
+  },
+  {
+   "cn": "抑癌基因",
+   "en": "tumor suppressor gene",
+   "code": "3.233",
+   "standard": "免疫学名词",
+   "subject": "免疫学_免疫病理、临床免疫_肿瘤免疫"
+  },
+  {
+   "cn": "肿瘤抑制基因",
+   "en": "tumor suppressor gene",
+   "code": "02.406",
+   "standard": "遗传学名词",
+   "subject": "遗传学_经典遗传学"
+  },
+  {
+   "cn": "抑癌基因",
+   "en": "antioncogene;tumor suppressor gene;cancer suppressor gene",
+   "code": "5.007",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因及其功能_结构"
+  },
+  {
+   "cn": "肿瘤",
+   "en": "tumor",
+   "code": "03.576",
+   "standard": "急救医学名词",
+   "subject": "急救医学_日常医学急救_外科学_肿瘤"
+  },
+  {
+   "cn": "肿瘤",
+   "en": "tumor",
+   "code": "18.124",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医外科及外科手术学"
+  },
+  {
+   "cn": "肿瘤",
+   "en": "tumor",
+   "code": "7.037",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "肿瘤",
+   "en": "tumor",
+   "code": "01.185",
+   "standard": "病理学名词",
+   "subject": "病理学_总论"
+  },
+  {
+   "cn": "肿瘤",
+   "en": "tumor",
+   "code": "01.0027",
+   "standard": "手外科学名词",
+   "subject": "手外科学_总论"
+  },
+  {
+   "cn": "肿瘤抑制基因",
+   "en": "tumor suppressor gene",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "抑癌基因",
+   "en": "tumor suppressor gene",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "肿瘤阻抑蛋白质",
+   "en": "tumor suppressor protein",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "肿瘤抑制基因",
+   "en": "tumor suppressor gene",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "肿瘤抑制基因(=抑癌基因)",
+   "en": "tumor suppressor gene(=antioncogene)",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "肿瘤",
+   "en": "tumor",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "抑制子",
+   "en": "suppressor",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "阻抑基因",
+   "en": "suppressor",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "阻抑基因",
+   "en": "suppressor",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "抑制器",
+   "en": "suppressor",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "病毒瘤",
+   "en": "virus tumor",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "线虫瘤",
+   "en": "nematode tumor",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "肿瘤抑制基因",
+   "en": "tumor suppressor gene",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "良性肿瘤",
+   "en": "benign tumor",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "肿瘤微环境",
+   "en": "Tumor microenvironment",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "肿瘤浸润淋巴细胞",
+   "en": "Tumor-infiltrating lymphocytes",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生殖细胞瘤",
+   "en": "germ cell tumor",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "卵泡膜细胞瘤",
+   "en": "Thecomas, theca cell tumors",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "滑膜肉瘤",
+   "en": "Malignant peripheral nerve sheath tumor",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "支持细胞瘤",
+   "en": "Sertoli cell tumour, Sertoli cell tumor",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "抑制消减杂交",
+   "en": "suppression subtractive hybridization",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "房水",
+   "en": "Aqueous humor",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "肿瘤坏死因子",
+   "en": "tumor necrosis factor, TNF",
+   "code": "1.3.5.7",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_炎症介质"
+  },
+  {
+   "cn": "肿瘤区",
+   "en": "gross tumor volume，GTV",
+   "code": "6.4.4.21.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_放射治疗"
+  },
+  {
+   "cn": "腱鞘巨细胞瘤",
+   "en": "giant cell tumor of tendon sheath,GCTS",
+   "code": "2.18.2.15",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_皮肤、软组织疾病"
+  },
+  {
+   "cn": "肿瘤坏死因子受体相关周期性综合征",
+   "en": "tumor necrosis factor receptor-associated periodic syndrome, TRAPS",
+   "code": "2.12.3",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_自身炎症性疾病"
+  },
+  {
+   "cn": "免疫抑制",
+   "en": "immune suppression",
+   "code": "1.3.7.3",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_免疫调节"
+  },
+  {
+   "cn": "谣言",
+   "en": "rumor",
+   "code": "4.1.14.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_沟通"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

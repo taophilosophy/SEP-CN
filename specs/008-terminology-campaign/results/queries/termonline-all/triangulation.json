@@ -1,0 +1,187 @@
+{
+ "key": "triangulation",
+ "term": "triangulation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T20:12:27+00:00",
+ "status": "ok",
+ "note": "variant=triangulation; 审定公布名词库=34; 海峡两岸名词对照库=45; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "三角测量",
+   "en": "triangulation",
+   "code": "02.284",
+   "standard": "测绘学名词",
+   "subject": "测绘学_大地测量学与导航定位"
+  },
+  {
+   "cn": "三角测量",
+   "en": "triangulation",
+   "code": "11.0098",
+   "standard": "物理学名词",
+   "subject": "物理学_交叉学科_天体物理学"
+  },
+  {
+   "cn": "三角测量",
+   "en": "triangulation",
+   "code": "06.004",
+   "standard": "水利科学技术名词",
+   "subject": "水利科学技术_水利勘测、工程地质_水利工程测量"
+  },
+  {
+   "cn": "三角测量",
+   "en": "triangulation",
+   "code": "12.0125",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_海上作业"
+  },
+  {
+   "cn": "三角剖分",
+   "en": "triangulation",
+   "code": "010.0472",
+   "standard": "数学名词",
+   "subject": "数学_数值分析_偏微分方程数值解"
+  },
+  {
+   "cn": "可三角剖分[的]",
+   "en": "triangulable",
+   "code": "08.0653",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_代数拓扑学"
+  },
+  {
+   "cn": "三角测量",
+   "en": "triangulation survey",
+   "code": "03.0245",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地球重力学_其他"
+  },
+  {
+   "cn": "三角网",
+   "en": "triangulation net",
+   "code": "03.0246",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地球重力学_其他"
+  },
+  {
+   "cn": "三角点",
+   "en": "triangulation station",
+   "code": "03.0247",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地球重力学_其他"
+  },
+  {
+   "cn": "三角点",
+   "en": "triangulation point",
+   "code": "02.281",
+   "standard": "测绘学名词",
+   "subject": "测绘学_大地测量学与导航定位"
+  },
+  {
+   "cn": "三角网",
+   "en": "triangulation network",
+   "code": "02.282",
+   "standard": "测绘学名词",
+   "subject": "测绘学_大地测量学与导航定位"
+  },
+  {
+   "cn": "三角锁",
+   "en": "triangulation chain",
+   "code": "02.283",
+   "standard": "测绘学名词",
+   "subject": "测绘学_大地测量学与导航定位"
+  },
+  {
+   "cn": "三角测量",
+   "en": "triangulation",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "三角测量",
+   "en": "triangulation",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "三角测量觇标",
+   "en": "triangulation signal\",\"triangulation tower",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "三角点",
+   "en": "triangulation point",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "三角锁",
+   "en": "triangulation chain",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "三角网",
+   "en": "triangulation network",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "解析三角测量",
+   "en": "analytical triangulation",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "空中三角测量",
+   "en": "aerial triangulation",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "多倍仪空中三角测量",
+   "en": "multiplex triangulation",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "辐射三角测量",
+   "en": "radial triangulation",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "弧形三角测量",
+   "en": "arc triangulation",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "闪光三角测量",
+   "en": "flare triangulation",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "三角测量",
+   "en": "triangulation",
+   "code": "1.2.1.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_方法论"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,348 @@
+{
+ "key": "tropes",
+ "term": "tropes",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T20:15:27+00:00",
+ "status": "ok",
+ "note": "variant=tropes; 审定公布名词库=230; 海峡两岸名词对照库=100; 其他来源数据库=36; 预公布名词数据库=16; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "比喻",
+   "en": "trope,rhetorical comparison",
+   "code": "08.092",
+   "standard": "语言学名词",
+   "subject": "语言学_修辞学_修辞方法"
+  },
+  {
+   "cn": "咀嚼器",
+   "en": "trophi",
+   "code": "5.1265",
+   "standard": "动物学名词",
+   "subject": "动物学_无脊椎动物学_轮虫动物门"
+  },
+  {
+   "cn": "三脚骨",
+   "en": "tripus",
+   "code": "6.0562",
+   "standard": "动物学名词",
+   "subject": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_骨骼系统"
+  },
+  {
+   "cn": "信风",
+   "en": "trades",
+   "code": "04.093",
+   "standard": "地理学名词",
+   "subject": "地理学_气候学"
+  },
+  {
+   "cn": "口器",
+   "en": "mouthparts,trophi",
+   "code": "03.145",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫外部形态"
+  },
+  {
+   "cn": "角分辨光电子谱[学]",
+   "en": "angular resolved photoemission spectroscopy,ARPES",
+   "code": "08.1057",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_结构"
+  },
+  {
+   "cn": "拔头馏分",
+   "en": "tops",
+   "code": "02.0042",
+   "standard": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "subject": "化工（一）_加工工艺_常减压蒸馏"
+  },
+  {
+   "cn": "绳",
+   "en": "rope",
+   "code": "08.0246",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_船艺"
+  },
+  {
+   "cn": "拔头馏分",
+   "en": "tops",
+   "code": "06.0012",
+   "standard": "石油名词",
+   "subject": "石油_石油炼制_石油炼制原料"
+  },
+  {
+   "cn": "特鲁瓦条约",
+   "en": "Troyes Treaty",
+   "code": "02.0580",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_西欧"
+  },
+  {
+   "cn": "复合农林业",
+   "en": "agroforestry,interplanting of trees and crops",
+   "code": "05.115",
+   "standard": "林学名词",
+   "subject": "林学_森林培育_种苗与营造"
+  },
+  {
+   "cn": "粮林间作",
+   "en": "inter-planting of trees and crops",
+   "code": "18.271",
+   "standard": "地理学名词",
+   "subject": "地理学_经济地理学"
+  },
+  {
+   "cn": "附加段",
+   "en": "trope",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "向性",
+   "en": "tropism",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "向性",
+   "en": "tropism",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "信风",
+   "en": "trades",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "三脚骨",
+   "en": "tripus",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "端齿区",
+   "en": "trepen",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "峭壁",
+   "en": "rupe\",\"rupes",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "绳",
+   "en": "rope",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "绳",
+   "en": "rope",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "粮林间作",
+   "en": "inter-planting of trees and crops",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "口器",
+   "en": "mouthparts\",\"trophi",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "南回归线",
+   "en": "Tropic of Capricorn\",\"south tropic",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "热带",
+   "en": "Tropics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "奖品",
+   "en": "trophy",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_铁人三项名词"
+  },
+  {
+   "cn": "奖品",
+   "en": "trophy",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "绳索",
+   "en": "line\",\"rope",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "围绳",
+   "en": "rope",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "绳",
+   "en": "rope",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "绳",
+   "en": "rope",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "推进",
+   "en": "propel\",\"propulsion",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_游泳名词"
+  },
+  {
+   "cn": "技术裁判员",
+   "en": "judge of strokes\",\"strokes judge",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_游泳名词"
+  },
+  {
+   "cn": "固有速度",
+   "en": "Proper velocity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "义政",
+   "en": "Proper Governance",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "长度收缩",
+   "en": "proper length",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "反应堆堆本体",
+   "en": "reactor proper",
+   "code": "6.6.4.19",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_核工业的放射防护"
+  },
+  {
+   "cn": "家庭角色",
+   "en": "family roles",
+   "code": "3.1.1.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_家庭社会学_家庭"
+  },
+  {
+   "cn": "性别角色",
+   "en": "sex roles",
+   "code": "1.0217",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "社会工作者角色",
+   "en": "social worker's roles",
+   "code": "4.4.1.12",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的基本概念"
+  },
+  {
+   "cn": "三百六十行",
+   "en": "all trades and professions",
+   "code": "4.0061",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "部队紧急接种",
+   "en": "emergency vaccination of troops",
+   "code": "14.6.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队流行病学_军队传染病预防与控制"
+  },
+  {
+   "cn": "科学家的社会角色",
+   "en": "social roles of scientists",
+   "code": "3.10.3.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_科学社会学_科学家的社会角色"
+  },
+  {
+   "cn": "中性粒细胞胞外诱捕网",
+   "en": "neutrophil extracellular traps， NETs",
+   "code": "1.3.5.43",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_炎症介质"
+  },
+  {
+   "cn": "统筹兼顾适当安排",
+   "en": "overall consideration and proper arrangement",
+   "code": "02.0381",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "三结合的武装力量",
+   "en": "armed forces composed of three troops",
+   "code": "03.0413",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "整合实务中的角色",
+   "en": "several roles in comprehensive practice",
+   "code": "4.4.4.17",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的过程"
+  },
+  {
+   "cn": "合理调整工商业",
+   "en": "make proper readjustments in industry and commerce",
+   "code": "02.0351",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

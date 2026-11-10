@@ -1,0 +1,138 @@
+{
+ "key": "transcriptomics",
+ "term": "transcriptomics",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T20:04:56+00:00",
+ "status": "ok",
+ "note": "variant=transcriptomics; 审定公布名词库=15; 海峡两岸名词对照库=5; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "转录物组学",
+   "en": "transcriptomics",
+   "code": "1.0046",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_总论"
+  },
+  {
+   "cn": "转录组学",
+   "en": "transcriptomics ",
+   "code": "5.0026",
+   "standard": "草学名词",
+   "subject": "草学_草业生物技术"
+  },
+  {
+   "cn": "转录组学",
+   "en": "transcriptomics",
+   "code": "1.04",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "转录物组学",
+   "en": "transcriptomics",
+   "code": "04.169",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_遗传育种_分子遗传学"
+  },
+  {
+   "cn": "转录组学",
+   "en": "transcriptomics",
+   "code": "12.0165",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_生物信息学"
+  },
+  {
+   "cn": "转录物组学",
+   "en": "transcriptomics",
+   "code": "01.051",
+   "standard": "遗传学名词",
+   "subject": "遗传学_总论"
+  },
+  {
+   "cn": "转录物组",
+   "en": "transcriptome",
+   "code": "1.0066",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_总论"
+  },
+  {
+   "cn": "转录物组",
+   "en": "transcriptome",
+   "code": "04.057",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_遗传育种_分子遗传学"
+  },
+  {
+   "cn": "转录物组",
+   "en": "transcriptome",
+   "code": "07.181",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞遗传"
+  },
+  {
+   "cn": "转录物组",
+   "en": "transcriptome",
+   "code": "08.049",
+   "standard": "遗传学名词",
+   "subject": "遗传学_基因组学"
+  },
+  {
+   "cn": "作物转录组学",
+   "en": "crop transcriptomics",
+   "code": "06.363",
+   "standard": "农学名词",
+   "subject": "作物基因组学与遗传育种_作物基因组学"
+  },
+  {
+   "cn": "空间转录物组学",
+   "en": "spatial transcriptomics",
+   "code": "06.385",
+   "standard": "农学名词",
+   "subject": "作物基因组学与遗传育种_作物基因组学"
+  },
+  {
+   "cn": "转录[物]组学",
+   "en": "transcriptomics",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "转录物组学",
+   "en": "transcriptomics",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "转录物组",
+   "en": "transcriptome",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "转录物组",
+   "en": "transcriptome",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "转录[物]组",
+   "en": "transcriptome",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "转录组学",
+   "en": "transcriptomics",
+   "code": "4.1.5.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射生物效应及其机制"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
