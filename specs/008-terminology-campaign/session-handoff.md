@@ -145,3 +145,9 @@ error 占比约 10–15%，集中在会话失效的连续段，批末补跑可�
 
 **验收**：`python tools/term_audit.py` 四态；凭证落
 `specs/008-terminology-campaign/results/queries/termonline-all/`，每 4–5 批 `git add` 提交。
+
+**2026-11-11 本轮收官（TL-main-20261111）**：术语表未查证队列 2772 项全部跑完（offset 1804→2772），
+凭证 3484 份（ok 3117 / empty 287 / error 80）；增量裁定 14 批 122 条、主译变更 12 条（明细见 execution-log 同日节）。
+**二轮队列实测 1951 项**（`--emit --table term --unverified` 重建：80 条 error + 队列重建/排序错位造成的漏查段，
+**不能只按 error 估计**）；人名表未查证队列已预生成 `%TEMP%/az-person.json`（3478 项）。
+两条队列共用站点限流预算（≈18 请求/5 分钟），**不要并行两条爬虫**；按 2.3 词/分，二轮术语约 14 小时。

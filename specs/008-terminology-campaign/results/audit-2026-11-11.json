@@ -6,10 +6,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "未查证": 5397,
-  "查无": 2395,
-  "不一致": 430,
-  "一致": 639
+  "未查证": 5358,
+  "查无": 2425,
+  "不一致": 435,
+  "一致": 643
  },
  "results": [
   {
@@ -14508,12 +14508,6 @@
      "provider": "termonline-all",
      "cn": "一致性",
      "en": "consistency",
-     "source": "电气工程名词"
-    },
-    {
-     "provider": "termonline-all",
-     "cn": "一致性",
-     "en": "consistency",
      "source": "海峡两岸大气科学名词"
     },
     {
@@ -27169,9 +27163,48 @@
    "term": "ε-notation",
    "trans": "ε 记号",
    "basis": "构词直译",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "μ记号",
+     "en": "μ-notation",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "λ表示法",
+     "en": "λ-notation",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "标记符号",
+     "en": "notation",
+     "source": "图书馆·情报与文献学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "表示法",
+     "en": "notation",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "记号",
+     "en": "notation",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "记法",
+     "en": "notation",
+     "source": "海峡两岸信息科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -46346,9 +46379,11 @@
    "term": "Ł-modal system",
    "trans": "Ł-模态系统",
    "basis": "Łukasiewicz 术语照录；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -57288,12 +57323,6 @@
      "provider": "termonline-all",
      "cn": "一致性",
      "en": "consistency",
-     "source": "电气工程名词"
-    },
-    {
-     "provider": "termonline-all",
-     "cn": "一致性",
-     "en": "consistency",
      "source": "海峡两岸大气科学名词"
     },
     {
@@ -57343,9 +57372,11 @@
    "term": "ω-provability",
    "trans": "ω-可证性",
    "basis": "本词条定案（Japaridze GLB）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -62579,9 +62610,11 @@
    "term": "provability",
    "trans": "可证性",
    "basis": "证明论通行译法；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -87956,9 +87989,11 @@
    "term": "Yale shooting problem",
    "trans": "耶鲁射击问题",
    "basis": "AI 逻辑史通行译名（Hanks–McDermott 1987）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -87966,9 +88001,11 @@
    "term": "Yamato gokoro / damashii",
    "trans": "大和心/大和魂",
    "basis": "主会话直译收口 c54a7fa4；凭证 2026-11-04",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -87976,9 +88013,11 @@
    "term": "yamato-e",
    "trans": "大和绘",
    "basis": "学界惯例（日本美术史研究通行译法“大和绘”）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88039,9 +88078,11 @@
    "term": "yang sheng",
    "trans": "养生",
    "basis": "学界通行（《庄子·养生主》系）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88049,9 +88090,11 @@
    "term": "Yantielun",
    "trans": "《盐铁论》",
    "basis": "学界通行学名",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88059,9 +88102,11 @@
    "term": "yaqīnī",
    "trans": "确然的（yaqīn 确信；certain）",
    "basis": "译名裁定（certain；朱尔加尼语境）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88069,9 +88114,11 @@
    "term": "yathārtha",
    "trans": "如实",
    "basis": "因明通行（true/veridical；忆之真假依源起认知）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88079,9 +88126,11 @@
    "term": "yathārthavaktā",
    "trans": "依实言者",
    "basis": "正理证言义译（one who speaks the truth；可信者之定义）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88120,9 +88169,11 @@
    "term": "yeshiva",
    "trans": "经学院（yeshiva）",
    "basis": "学界通行（犹太学园，保留原词括注）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88142,9 +88193,18 @@
    "term": "yi (arts)",
    "trans": "艺",
    "basis": "徐干（human arts）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "六艺",
+     "en": "liu yi;six noble arts",
+     "source": "中国古代史名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88152,9 +88212,30 @@
    "term": "yielding（虚空）",
    "trans": "让与",
    "basis": "学界通行（虚空本性，与原子相互抵抗相对；r2 改定，初译“让开”）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "司空",
+     "en": null,
+     "source": "维基百科"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "空晶石",
+     "en": null,
+     "source": "维基百科"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "真空",
+     "en": null,
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88162,9 +88243,11 @@
    "term": "Yijing",
    "trans": "《易经》",
    "basis": "学界通行学名",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88205,9 +88288,102 @@
    "term": "yin-yang",
    "trans": "阴阳",
    "basis": "学界通行；凭证 2026-11-07",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "阴阳",
+     "en": "yin-yang",
+     "source": "中医药学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "阴阳",
+     "en": "yin yang",
+     "source": "兽医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "阴阳家",
+     "en": "Yin Yang Jia;Yin Yang School",
+     "source": "中国古代史名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "阴阳线圈",
+     "en": "yin-yang coil",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "阴阳学说",
+     "en": "yin-yang theory",
+     "source": "中医药学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "阴阳失调",
+     "en": "yin-yang disharmony",
+     "source": "中医药学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "阴阳学说",
+     "en": "yin yang theory",
+     "source": "兽医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "阴阳易",
+     "en": "yin yang exchange",
+     "source": "中医药学名词（2010）"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "阴阳对立",
+     "en": "opposition of yin yang",
+     "source": "兽医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "阴阳失调",
+     "en": "yin and yang disharmony",
+     "source": "兽医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "平分阴阳",
+     "en": "ping fen yin yang",
+     "source": "语言学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "阴阳格拒",
+     "en": "expulsion of yin-yang",
+     "source": "中医药学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "阴阳",
+     "en": "Yin and Yang",
+     "source": "中华思想文化术语传播工程"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "阴阳之气",
+     "en": "The Qi (Vital Force) of Yin and Yang",
+     "source": "中华思想文化术语传播工程"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "一阴一阳之谓道",
+     "en": "The Alternation of Yin and Yang Constitutes the Way.",
+     "source": "中华思想文化术语传播工程"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88215,9 +88391,11 @@
    "term": "Yishuv",
    "trans": "伊舒夫（巴勒斯坦犹太社群）",
    "basis": "犹太研究通行音译；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88225,9 +88403,11 @@
    "term": "Yogācāra",
    "trans": "瑜伽行派",
    "basis": "佛学界通行译名",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88235,9 +88415,11 @@
    "term": "yogyatā",
    "trans": "义适",
    "basis": "弥曼差/正理语义学通行义译（semantic fitness）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88245,9 +88427,11 @@
    "term": "Yoruba",
    "trans": "约鲁巴语",
    "basis": "民族语言通行音译（尼日利亚 Yoruba；人作“约鲁巴人”）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88255,9 +88439,11 @@
    "term": "Yueling",
    "trans": "《月令》",
    "basis": "学界通行；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88265,9 +88451,11 @@
    "term": "yūgen",
    "trans": "幽玄",
    "basis": "学界惯例（日本美学/能乐研究通行译法“幽玄”）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88275,9 +88463,11 @@
    "term": "Zechariah",
    "trans": "《撒迦利亚书》",
    "basis": "圣经书卷通行汉译；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88285,9 +88475,84 @@
    "term": "zero-sum game",
    "trans": "零和博弈",
    "basis": "学界惯例（博弈论通行；凭证 2026-11-06）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "零和博弈",
+     "en": "zero-sum game",
+     "source": "经济学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "零和对策",
+     "en": "zero-sum game",
+     "source": "数学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "零和博弈",
+     "en": "zero sum game",
+     "source": "新闻学与传播学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "非零和博弈",
+     "en": "non zero sum game",
+     "source": "新闻学与传播学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "非零和对策",
+     "en": "non-zero-sum game",
+     "source": "经济学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "非零和对策",
+     "en": "non-zero-sum game",
+     "source": "管理科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "非零和对策",
+     "en": "non-zero-sum game",
+     "source": "数学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "零和对策模型",
+     "en": "zero sum game model",
+     "source": "自动化名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "非零和博弈政策",
+     "en": "non-zero-sum game policy",
+     "source": "管理科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "两人零和对策",
+     "en": "two-person zero-sum game",
+     "source": "数学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "n人零和对策",
+     "en": "n-person zero-sum game",
+     "source": "数学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "零和博弈,零和对策",
+     "en": "zero sum game",
+     "source": "海峡两岸心理学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88295,9 +88560,11 @@
    "term": "Zhonglun",
    "trans": "《中论》（徐干）",
    "basis": "徐干书；与龙树《中论》同译名异书，见同键行",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88332,9 +88599,18 @@
    "term": "Zika virus",
    "trans": "寨卡病毒",
    "basis": "学界惯例（医学通行）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "寨卡病毒",
+     "en": "Zika virus",
+     "source": "感染病学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88342,9 +88618,11 @@
    "term": "Zimzum",
    "trans": "齐姆祖姆（神性收缩）",
    "basis": "犹太神秘主义研究通行音译；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88352,9 +88630,18 @@
    "term": "Zionism",
    "trans": "锡安主义（犹太复国主义）",
    "basis": "学界通行译名（亦作“犹太复国主义”；历史语境用“锡安主义”；凭证 2026-11-08",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "犹太复国主义",
+     "en": "Zionism",
+     "source": "世界历史名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88362,9 +88649,11 @@
    "term": "ziran",
    "trans": "自然（self-so）",
    "basis": "戴震哲学术语：自然而然者，与“必然”对举（英 self-so）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88372,9 +88661,11 @@
    "term": "zodiac (galgal hamazalot)",
    "trans": "黄道",
    "basis": "学界通行；源文括注希伯来原词 *galgal hamazalot*",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88382,9 +88673,11 @@
    "term": "Zohar",
    "trans": "《光辉之书》",
    "basis": "学界通行译名（卡巴拉核心经典）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88392,9 +88685,24 @@
    "term": "zombie",
    "trans": "哲学僵尸",
    "basis": "学界惯例（心灵哲学意识文献通行）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "无魂人",
+     "en": "zombie",
+     "source": "生物物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "僵尸机",
+     "en": "zombie",
+     "source": "计算机科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88402,9 +88710,11 @@
    "term": "zombie twin",
    "trans": "僵尸孪生者",
    "basis": "本词条语境，直译；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88412,9 +88722,11 @@
    "term": "zombie world",
    "trans": "僵尸世界",
    "basis": "本词条主题词，直译；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88422,9 +88734,11 @@
    "term": "zuo",
    "trans": "作",
    "basis": "王充（creation）；汉代视为消极之事",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88432,9 +88746,11 @@
    "term": "Zuo Zhuan",
    "trans": "《左氏传》",
    "basis": "上游作 Zuo（左氏）；学界通行亦作《左传》",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88442,9 +88758,11 @@
    "term": "Zusätze",
    "trans": "补充",
    "basis": "学界通行（学生笔记“补充”，缩写 A）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88452,9 +88770,102 @@
    "term": "zygote",
    "trans": "受精卵",
    "basis": "学界惯例（胚胎学通行）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "合子",
+     "en": "zygote",
+     "source": "兽医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "受精卵",
+     "en": "zygote",
+     "source": "生殖医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "合子",
+     "en": "zygote",
+     "source": "畜牧学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "合子",
+     "en": "zygote",
+     "source": "植物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "合子",
+     "en": "zygote",
+     "source": "组织学与胚胎学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "[接]合子",
+     "en": "zygote",
+     "source": "微生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "合子",
+     "en": "zygote",
+     "source": "古生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "合子",
+     "en": "zygote",
+     "source": "遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "合子",
+     "en": "zygote",
+     "source": "水产名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "合子",
+     "en": "zygote",
+     "source": "医学名词 第三分册"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "合子",
+     "en": "zygote",
+     "source": "海峡两岸解剖与组织胚胎学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "合子",
+     "en": "zygote",
+     "source": "海峡两岸植物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "合子",
+     "en": "zygote",
+     "source": "海峡两岸海洋科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "合子",
+     "en": "zygote",
+     "source": "海峡两岸遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "合子",
+     "en": "zygote",
+     "source": "海峡两岸动物学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",

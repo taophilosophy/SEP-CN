@@ -523,6 +523,20 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
 * 审计刷新：一致 639 / 不一致 430 / 查无 2395 / 未查证 5397；新增不一致 1 条，**保留现译**：
   world community「世界共同体」（审定·世界历史作「国际社会」World Community，本条政治哲学语境取通行直译）。
 
+### 十七、第十四批增量裁定与本轮收官（offset 2732–2772，5 条）
+
+* 审计刷新（本轮终态）：一致 643 / 不一致 435 / 查无 2425 / 未查证 5358（术语 4863 + 人名 3761，共 8624 行）；
+  新增不一致 5 条，**全部保留现译**：ε-notation（审定命中为 μ/λ 记号平行词）、yi (arts)（六艺下位）、
+  yielding（维基垃圾）、Zionism（本条朔勒姆历史语境用「锡安主义」，审定「犹太复国主义」为通名，登记行已注亦作）、
+  zombie（生物物理「无魂人」/计算机「僵尸机」异义）。
+* **本轮队列收官**：术语表未查证队列 2772 项全部跑完（offset 1804→2772 由本会话承接，前段 0–1803 已由前批完成）；
+  凭证总量 3484 份（ok 3117 / empty 287 / error 80，错误率 2.3%）。**二轮 `--emit --unverified` 实测 1951 项**——
+  除 error 外还包含队列重建/排序错位造成的漏查段（offsets 0–1803 并未真正落凭证），不能按 error 数估计二轮规模。
+* 本轮累计增量裁定 14 批 122 条，主译变更 12 条（shifting balance theory、somatic mutation theory、spontaneous generation、
+  strict finitism、subjective well-being、tautology、substitutional load、time dilation、transient polymorphism、
+  Stoic/斯多亚→斯多葛全库统一、virtue ethics/virtue theory 补亦作）；其余 110 条保留并逐条留理由。
+
+
 
 
 
