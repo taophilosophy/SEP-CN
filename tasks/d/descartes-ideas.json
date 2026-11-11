@@ -2,7 +2,7 @@
   "slug": "descartes-ideas",
   "kind": "retranslate",
   "zh_doc": "d/descartes-ideas.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "?",
       "at": "2026-11-04T17:53:43Z",
       "evidence": "四检全绿：style 0/math 0/academic --strict OK/prose 48 豁免留痕见 s2；人名 1 条登记（吉比厄夫），术语沿用既有登记（样态/简单本性/天赋-外来-虚构观念三分）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "D-main-20261112",
+      "at": "2026-11-11T18:12:18Z",
+      "evidence": "独立复核一（全文回读 118 行正文 vs 源）：**发现结构性缺件**——参考文献节整体漏搬 Primary Sources/#### Descartes 两级子标题与 [AT]/[CSM] 缩写书目表（经典 s3 缺件形态，源 12:译 9 照录行），已按源补入三行表＋两子标题＋Secondary Sources 标题（尾节子标题 4:4、照录行 12:12 复原）；节标题残缺修正：'## 3 观念的三种'→'观念的三种类型'；术语误译修正：chimera 麒麟→喀迈拉（L17 引文）；pubinfo 加粗改斜体。准确性核销：三大存在范畴（实体/属性/样态）、形式实在-客观实在之分为三层级、质料-客观之分、天赋/外来/虚构三分、原初观念与 PR 原则、简单本性列举与清楚/分明/含混/混乱四判准逐段对读无漏译；AT/CSM 编号与源逐条相符（含源文 CSMK III 185 写法照录）。语体：现代汉语学术书面语，无文言句式（ADR-0033）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "D-main-20261112",
+      "at": "2026-11-11T18:22:15Z",
+      "evidence": "独立复核二（术语与人名）：术语核对——实体/属性/样态/存在方式/主要属性/形式实在/客观实在/质料-客观之分/表象主义/直接实在论/天赋观念/外来观念/虚构观念/原初观念/简单本性/列举/清楚/分明/含混/混乱/真理规则 与正文一致，均为笛卡尔研究通行译名（形式实在/客观实在沿 AT-CSM 中译惯例）；无人名册缺行遗漏：吉比厄夫/纳德尔/伦农/内尔森 在册，本批补登 Wahl=罗素·沃尔、Hoffman=保罗·霍夫曼（正文用汉名）；Smith（作者）/Nolan/Clatterbaugh/Chappell/De Rosa/Wilson 仅见引注条目，依体例不另行登记。相关词条 5 条（亚里士多德的心理学/笛卡尔的认识论/笛卡尔的模态形而上学/属性/中世纪的“普遍性”问题）对 SUMMARY 定名复核无误。prose 48 条沿用 s2 分类豁免（39 学术史与术语定语 de-chain、5 引文密集长句、4 概念定义被动），未新增"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "D-main-20261112",
+      "at": "2026-11-11T18:31:51Z",
+      "evidence": "独立复核三（终稿）：check_style 0 issue、check_academic --strict 0 硬错误、check_math 0/0、check_prose 48 沿用 s2 豁免、check_summary HARD 0；五维终跑 标题 5/0、marker 24:24 键序全等、defs 100:100 键集全等、段落 54:53（byline 豁免）、图 0:0、尾节子标题 4:4、照录行 12:12；脚注 node-1 引用约定注译出、书目 99 条照录；学术工具四行齐备；致谢节保留；H1 与 SUMMARY 定名一致"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "D-main-20261112",
+      "at": "2026-11-11T18:39:43Z",
+      "evidence": "全周期完成（九步齐备）：r1 全文回读补译参考文献缺件（[AT]/[CSM] 缩写表＋两子标题＋Secondary Sources）、修 chimera 麒麟→喀迈拉、节标题补全、pubinfo 体例；r2 登记 Wahl/Hoffman 两行、术语人名核销；r3 四检全绿；译文入库 d/descartes-ideas.md"
     }
   ],
   "blockers": [],
