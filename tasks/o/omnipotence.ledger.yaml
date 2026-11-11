@@ -522,9 +522,9 @@ segments:
     source: |-
       The period of time *t* is a sufficient interval for $s =_{df} s$ is a state of affairs such that: it is possible that *s* obtains at a time-period which has the duration of *t*.
     step1: |-
-      时段 *t* 是 $s$ 的充分区间 $=_{df}$ $s$ 是这样的一个事态：有可能 *s* 在一个持续时间为 *t* 的时段成立。
+      时段 *t* 对于 $s =_{df} s$ 是充分区间，而 *s* 是这样的一个事态：有可能 *s* 在一个持续时间为 *t* 的时段成立。
     step2: |-
-      时段 *t* 是 $s$ 的充分区间 $=_{df}$ $s$ 是这样一个事态：*s* 有可能在一个持续时间为 *t* 的时段成立。
+      时段 *t* 是 $s =_{df} s$ 的充分区间；也就是说，*s* 是这样的一个事态：*s* 有可能在一个持续时间为 *t* 的时段成立。
 
   - id: 57
     kind: body
@@ -566,62 +566,92 @@ segments:
     kind: body
     source: |-
       **(D3)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(D3)**
+    step2: |-
+      **(D3)**
+
   - id: 62
     kind: body
     source: |-
       *x* is omnipotent at $t =_{df} \forall s$(if it is possible for some agent to bring about *s* then at *t* *x* has it within his power to bring about $s)$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *x* 在 $t =_{df} \forall s$ 时全能，当且仅当：若某个行动者有可能造成 *s*，则在 *t* 时 *x* 有能力造成 $s$）。
+    step2: |-
+      *x* 在 $t =_{df} \forall s$ 时全能（即：若某个行动者有可能造成 *s*，则在 *t* 时 *x* 有能力造成 $s$）。
+
   - id: 63
     kind: body
     source: |-
       In (D3), *x* ranges over agents, and *s* over states of affairs that satisfy the following condition:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 (D3) 中，*x* 取行动者，*s* 取满足下列条件的事态：
+    step2: |-
+      在 (D3) 中，*x* 的取值范围是行动者，*s* 的取值范围是满足下列条件的事态：
+
   - id: 64
     kind: body
     source: |-
       **(C)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(C)**
+    step2: |-
+      **(C)**
+
   - id: 65
     kind: body
     source: |-
       (i) *s* is unrestrictedly repeatable, and of the form ‘in *n* minutes, *p*’, & $(p$ is a complex state of affairs $\rightarrow$ (each of the parts of *p* is unrestrictedly repeatable & possibly brought about by someone)), or (ii) *s* is of the form ‘*q* forever after’, where *q* is a state of affairs which satisfies (i).[^note-3]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (i) *s* 无限制可重复，且形如“在 *n* 分钟后，*p*”，并且 $(p$ 是复杂事态 $\rightarrow$（*p* 的每一部分都无限制可重复，且可能被某人造成））；或者 (ii) *s* 形如“*q* 此后永远”，其中 *q* 是满足 (i) 的事态。[^note-3]
+    step2: |-
+      (i) *s* 无限制可重复、且形如“在 *n* 分钟后，*p*”，并且 $(p$ 是复杂事态 $\rightarrow$（*p* 的每一部分既无限制可重复，又可能被某人造成））；或者 (ii) *s* 形如“*q* 此后永远”，其中 *q* 是满足 (i) 的事态。[^note-3]
+
   - id: 66
     kind: body
     source: |-
       In applying (D3) to states of affairs like (e) and (f) it should be observed that a *conjunct* of a conjunctive state of affairs is a *part* of such a complex state of affairs.[^note-4]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      把 (D3) 应用于 (e)、(f) 这类事态时应注意：合取事态的一个 *合取项* 是这种复杂事态的一个 *部分*。[^note-4]
+    step2: |-
+      把 (D3) 应用于 (e)、(f) 这类事态时应注意：合取事态的一个 **合取项**，正是这种复杂事态的 **部分**。[^note-4]
+
   - id: 67
     kind: body
     source: |-
       (C) (ii) refers to a state of affairs of the form ‘*q* forever after’, where *q* is a state of affairs satisfying (i). An example of a state of affairs of this kind is *in two minutes, a ball rolls forever after*. Two situations in which this state of affairs may obtain are, first, that the ball will start rolling in two minutes, and then continue to roll forever after, and second, that the ball will start rolling earlier than that, for instance, two minutes earlier, will be rolling in two minutes, and will continue to roll forever after.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (C) (ii) 指形如“*q* 此后永远”的事态，其中 *q* 是满足 (i) 的事态。此类事态的一个例子是 *两分钟后，一个球永远滚动下去*。该事态可能成立的两种情形是：第一，球将在两分钟后开始滚动，此后一直滚下去；第二，球将更早开始滚动，例如两分钟前就已开始，两分钟后正在滚动，并将一直滚下去。
+    step2: |-
+      (C) (ii) 指形如“*q* 此后永远”的事态，其中 *q* 是满足 (i) 的事态。此类事态的一个例子是 *两分钟后，一个球永远滚动下去*。该事态可能成立的情形有两种：其一，球将在两分钟后开始滚动，此后一直滚下去；其二，球在此前更早的时候（例如两分钟前）就已开始滚动，到两分钟时正在滚动，并将一直滚下去。
+
   - id: 68
     kind: body
     source: |-
       As intended, (D3) does not require an omnipotent agent to have the power to bring about either impossible or necessary states of affairs, or states of affairs such as (a)–(f). Furthermore, (D3) does not unduly limit the power of an omnipotent agent, since an agent’s bringing about a state of affairs can always be “cashed out” in terms of that agent’s bringing about an unrestrictedly repeatable state of affairs that it is possible for some agent to bring about. That is, necessarily, for any state of affairs, *s*, if an agent, *a*, brings about *s*, then either *s* is an unrestrictedly repeatable state of affairs which it is possible for some agent to bring about, or else *a* brings about *s by* bringing about *q*, where *q* is an unrestrictedly repeatable state of affairs which it is possible for some agent to bring about. For instance, an omnipotent agent can bring about the state of affairs, *that in one hour, Parmenides lectures for the first time*, by bringing about the state of affairs, *that in one hour, Parmenides lectures*, when this lecture is Parmenides’s first. And although the former state of affairs is a nonrepeatable one that (D3) does *not* require an omnipotent agent to be able to bring about, the latter state of affairs *is* an unrestrictedly repeatable state of affairs that (D3) *does* require an omnipotent agent to be able to bring about.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如所意图的，(D3) 不要求全能行动者有力量造成不可能事态或必然事态，也不要求其造成 (a)–(f) 这类事态。此外，(D3) 不过分限制全能行动者的力量，因为行动者造成某事态，总可“兑换”为该行动者造成某个无限制可重复、且可能被某个行动者造成的事态。也就是说，必然地，对任何事态 *s*，若行动者 *a* 造成 *s*，则要么 *s* 是无限制可重复、且可能被某个行动者造成的事态，要么 *a* *通过* 造成 *q* 而造成 *s*，其中 *q* 是无限制可重复、且可能被某个行动者造成的事态。例如，全能行动者可以通过造成事态 *一小时后，巴门尼德讲学* 来造成事态 *一小时后，巴门尼德第一次讲学*，只要这次讲学正是巴门尼德的首次讲学。前一事态是不可重复的，(D3) *不* 要求全能行动者能够造成它；后一事态 *则* 是无限制可重复的，(D3) *确实* 要求全能行动者能够造成它。
+    step2: |-
+      如所意图的，(D3) 不要求全能行动者有力量造成不可能事态或必然事态，也不要求其造成 (a)–(f) 这类事态。此外，(D3) 也不会过分限制全能行动者的力量，因为行动者造成某事态，总可以“兑换”为该行动者造成某个无限制可重复、且可能被某个行动者造成的事态。也就是说，必然地，对任何事态 *s*，若行动者 *a* 造成 *s*，则要么 *s* 是无限制可重复、且可能被某个行动者造成的事态，要么 *a* **通过** 造成 *q* 而造成 *s*，其中 *q* 是无限制可重复、且可能被某个行动者造成的事态。例如，只要那次讲学是巴门尼德的首次讲学，全能行动者就可以通过造成事态 *一小时后，巴门尼德讲学*，来造成事态 *一小时后，巴门尼德第一次讲学*。前一事态不可重复，(D3) **不** 要求全能行动者能够造成它；后一事态 **则** 无限制可重复，(D3) **确实** 要求全能行动者能够造成它。
+
   - id: 69
     kind: body
     source: |-
       ## 4. Omnipotence and the Shared Histories Approach
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 全能与共享历史进路
+    step2: |-
+      ## 4 全能与共享历史进路
+
   - id: 70
     kind: body
     source: |-
       The alternative approach to analyzing omnipotence in terms of two worlds sharing their histories up to a time is exemplified by the accounts of Flint and Freddoso, and Wierenga. As we shall see, although these two accounts are similar, they differ in certain significant respects.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      以两个世界在某一时刻之前历史相同来分析全能的另一条进路，以弗林特与弗雷多索、以及维伦加的说明为范例。我们将会看到，这两种说明虽相似，却在某些重要方面不同。
+    step2: |-
+      以“两个世界在某一时刻之前历史相同”来分析全能的另一条进路，以弗林特与弗雷多索以及维伦加的说明为范例。下文将表明，这两种说明虽相似，却在某些重要方面有所不同。
+
   - id: 71
     kind: body
     source: |-
