@@ -539,62 +539,82 @@ segments:
     kind: body
     source: |-
       In the early stages of his work on the *Principia* Newton had identified three logically equivalent alternatives for the third law: the action-reaction principle he ultimately chose, the principle we call conservation of linear momentum (Corollary 3 in the *Principia*), and the principle that “the common center of gravity of two or more bodies does not change its state whether of motion or of rest as a result of the actions of the bodies upon one another” (Corollary 4). Huygens had stated that both of these principles follow from his solution for spheres in collision, and the center of gravity principle, as Newton emphasizes, amounts to nothing more than a generalization of the principle of inertia. Even though his third law was novel in comparison with these other two,[^note-23] Newton nevertheless chose it and relegated the other two to corollaries. Two things can be said about this choice. First, the third law is a local principle, while the two alternatives to it are global principles, and Newton, unlike those working in mechanics on the Continent at the time, generally preferred fundamental principles to be local, perhaps because they pose less of an evidence burden. Second, with the choice of the third law, the three laws all expressly concern impressed forces: the first law authorizes inferences to the presence of an impressed force on a body, the second, to its magnitude and direction, and the third to the correlative force on the body producing it. In this regard, Newton's three laws of motion are indeed axioms characterizing impressed force. Real forces, in contrast to such apparent forces as Coriolis forces (of which Newton was entirely aware, though of course not under this name), are forces for which the third law, as well as the first two, hold, for only by means of this law can real forces and hence changes of motion be distinguished from apparent ones.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在《原理》工作的初期，牛顿为第三定律认定了三个逻辑等价的备选：他最终选择的作用与反作用原理、我们称为线动量守恒的原理（《原理》中的推论 3），以及“两个或多个物体的公共重心不因物体彼此的作用而改变其运动或静止状态”这一原理（推论 4）。惠更斯曾指出，这两条原理都从他的球体碰撞解中推出；而重心原理，正如牛顿所强调的，不过是惯性原理的推广。尽管与另外两条相比，他的第三定律是新颖的，[^note-23] 牛顿仍然选择了它，而把另外两条降为推论。就这一选择而言，可以指出两点。第一，第三定律是一条局部原理，而另外两条是全局原理；与当时在欧洲大陆研究力学的人不同，牛顿一般更偏好基本原理是局部的，也许因为它们对证据的要求较低。第二，选择了第三定律后，三条定律都明确涉及外加力：第一定律授权推断物体受到外加力，第二定律授权推断该力的大小与方向，第三定律则授权推断产生它的、作用于另一个物体上的相关力。在这方面，牛顿的三条运动定律确实是刻画外加力的公理。与科里奥利力之类的表观力（牛顿完全知道这种力，当然不是用这个名称）相对，真实的力是第三定律以及前两条定律都对其成立的力，因为只有借助这条定律，真实的力以及运动的真实变化才能与表观的力与变化区分开来。
+    step2: |-
+      在《原理》工作的早期阶段，牛顿为第三定律认定了三个逻辑等价的备选：他最终选择的作用与反作用原理、我们称为线动量守恒的原理（《原理》中的推论 3），以及“两个或多个物体的公共重心不因物体彼此的作用而改变其运动或静止状态”这一原理（推论 4）。惠更斯曾指出，这两条原理都从他的球体碰撞解中推出；而重心原理，正如牛顿所强调的，不过是惯性原理的推广。尽管与另外两条相比，他的第三定律是新颖的，[^note-23] 牛顿仍然选择了它，而把另外两条降为推论。关于这一选择，可以说两点。第一，第三定律是一条局部原理，而另外两条是全局原理；与当时在欧洲大陆研究力学的人不同，牛顿一般更偏好基本原理是局部的，也许因为它们对证据的要求较低。第二，选择了第三定律后，三条定律都明确涉及外加力：第一定律授权推断物体受到外加力，第二定律授权推断该力的大小与方向，第三定律则授权推断产生它的、作用于另一个物体上的相关力。在这方面，牛顿的三条运动定律确实是刻画外加力的公理。与科里奥利力之类的表观力（牛顿完全知道这种力，当然不是用这个名称）相对，真实的力是第三定律以及前两条定律都对其成立的力，因为只有借助这条定律，真实的力以及运动的真实变化才能与表观的力与变化区分开来。
   - id: 62
     kind: body
     source: |-
       Newton presents his first two laws as already “accepted by mathematicians and confirmed by experiments of many kinds” [**P**, 424].[^note-24] For the third law, by contrast, he offers a variety of forms of support, including experiments on impact. One important element that becomes clear in his discussion of evidence for the third law — and also in Corollary 2 — is that Newton's impressed force is the same as static force that had been employed in the theory of equilibrium of devices like the level and balance for some time. Newton is not introducing a novel notion of force, but only extending a familiar notion of force. Indeed, Huygens too had employed this notion of static force in his *Horologium Oscillatorium* when he identified his centrifugal force with the tension in the string (or the pressure on a wall) retaining an object in circular motion, in explicit analogy with the tension exerted by a heavy body on a string from which it is dangling. Huygens's theory of centrifugal force was going beyond the standard treatment of static forces only in its inferring the magnitude of the force from the motion of the body in a circle. Newton's innovation beyond Huygens was first to focus not on the force on the string, but on the correlative force on the moving body, and second to abstract this force away from the mechanism by which it acts on the body. Three steps were thus involved in passing from the already familiar static forces to the more abstract Newtonian “dynamic” forces, one by Huygens and two by Newton.[^note-25]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      牛顿把前两条定律说成已经“为数学家所接受，并为多种实验所证实”[**P**, 424]。[^note-24] 相比之下，对于第三运动定律，他提供了多种形式的支持，包括碰撞实验。在他讨论第三定律证据时——在推论 2 中也是如此——变得清楚的一个重要因素是：牛顿所说的外加力，与长久以来在杠杆和天平这类装置的平衡理论中所使用的静力是同一个东西。牛顿并未引入一种新的力的概念，而只是扩展了一个熟悉的力的概念。其实，惠更斯在《摆钟论》中也用过这种静力概念：当他把他所说的离心力等同于使物体作圆周运动的绳中张力（或对壁面的压力）时，就明确类比于重物对悬挂它的绳子所施加的张力。惠更斯的离心力理论超出静力标准处理的地方只在于：它从物体在圆中的运动推断力的大小。牛顿超出惠更斯的创新，首先在于不再关注绳上的力，而关注作用于运动物体上的相关力；其次在于把这种力从它作用于物体的机制中抽象出来。于是，从已经熟悉的静力过渡到更抽象的牛顿式“动力”，共有三步：惠更斯一步，牛顿两步。[^note-25]
+    step2: |-
+      牛顿把前两条定律说成已经“为数学家所接受，并为多种实验所证实”[**P**, 424]。[^note-24] 相比之下，对于第三定律，他提供了多种形式的支持，包括碰撞实验。在他讨论第三定律证据时——在推论 2 中也是如此——变得清楚的一个重要因素是：牛顿所说的外加力，与长久以来在杠杆和天平这类装置的平衡理论中所使用的静力是同一个东西。牛顿并未引入一种新的力的概念，而只是扩展了一个熟悉的力的概念。事实上，惠更斯在《摆钟论》中也使用过这种静力概念：当他把他所说的离心力等同于使物体作圆周运动的绳中张力（或对壁面的压力）时，就明确类比于重物对悬挂它的绳子所施加的张力。惠更斯的离心力理论超出静力标准处理的地方只在于：它从物体在圆中的运动推断力的大小。牛顿超出惠更斯的创新，首先在于不再关注绳上的力，而关注作用于运动物体上的相关力；其次在于把这种力从它作用于物体的机制中抽象出来。于是，从已经熟悉的静力过渡到更抽象的牛顿式“动力”，共有三步：惠更斯一步，牛顿两步。[^note-25]
   - id: 63
     kind: body
     source: |-
       The continuity with Huygens's theory of centrifugal force is important in another respect. In his brief defense of the first two laws of motion Newton remarks, “What has been demonstrated concerning the times of oscillating pendulums depends on the same first two laws and first two corollaries, and this is supported by daily experience with clocks” [**P**, 424]. In Huygens's *Horologium Oscillatorium*, the only place any counterpart to the second law surfaces is in the theory of centrifugal force and uniform circular motion. The theory Huygens presents extends to conical pendulums, including a conical pendulum clock that he indicates has advantages over simple pendulum clocks. In the 1670s Newton had used a conical pendulum to confirm Huygens's announced value of the strength of surface gravity as measured by simple cycloidal and small-arc circular pendulums.[^note-26] (Huygens himself had measured the strength of surface gravity with a conical pendulum, obtaining the same value to four significant figures as he had obtained with simple pendulums.[^note-27]) The precise agreement between these two theory-mediated measures of surface gravity, one of them predicated on Newton's first two laws of motion and the other not, in fact constituted the strongest evidence for the first two laws at the time the *Principia* was first published. For, the simple pendulum measure was known to be stable and accurate into the fourth significant figure. The evidence in hand for the first two laws, taken as a basis for measuring forces, was thus much stronger than has often been appreciated.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与惠更斯离心力理论的连续性，在另一方面同样重要。牛顿在简短地为前两条运动定律辩护时写道：“关于摆动摆的时间所已证明的东西，依赖于同样的前两条定律与前两条推论，而这得到日常钟表经验的支承”[**P**, 424]。在惠更斯的《摆钟论》中，第二定律的任何对应物唯一出现的地方，就是离心力与匀速圆周运动的理论。惠更斯提出的理论扩展到圆锥摆，包括一种他指明比简单摆钟更有优势的圆锥摆钟。在 1670 年代，牛顿曾用一个圆锥摆来确认惠更斯所宣布的表面重力强度值，后者是用简单摆线摆与小弧圆摆测得的。[^note-26]（惠更斯本人曾用圆锥摆测量表面重力强度，所得值与用简单摆所得值在四位有效数字上相同。[^note-27]）这两种受理论中介的表面重力量度——其中一个以牛顿前两条运动定律为前提，另一个则不是——之间的精确一致，实际上构成了《原理》首次出版时支持前两条定律的最强证据。因为人们知道，简单摆的量度稳定而准确到第四位有效数字。因此，当时手头支持前两条定律（把它们当作量度力的基础）的证据，比通常所认识到的要强得多。
+    step2: |-
+      与惠更斯离心力理论的连续性在另一方面也很重要。牛顿在简短地为前两条运动定律辩护时写道：“关于摆动摆的时间所已证明的东西，依赖于同样的前两条定律与前两条推论，而这得到日常钟表经验的支承”[**P**, 424]。在惠更斯的《摆钟论》中，第二定律的任何对应物唯一出现的地方，就是离心力与匀速圆周运动的理论。惠更斯提出的理论扩展到圆锥摆，包括一种他指明比简单摆钟更有优势的圆锥摆钟。在 1670 年代，牛顿曾用一个圆锥摆来确认惠更斯所宣布的表面重力强度值，后者是用简单摆线摆与小弧圆摆测得的。[^note-26]（惠更斯本人曾用圆锥摆测量表面重力强度，所得值与用简单摆所得值在四位有效数字上相同。[^note-27]）这两种受理论中介的表面重力量度——其中一个以牛顿前两条运动定律为前提，另一个则不是——之间的精确一致，实际上是《原理》首次出版时支持前两条定律的最强证据。因为人们知道，简单摆的量度稳定而准确到第四位有效数字。因此，当时手头支持前两条定律（把它们当作量度力的基础）的证据，比通常所认识到的要强得多。
   - id: 64
     kind: body
     source: |-
       Save perhaps for the attribution of the *F=ma* form of the second law to the *Principia*, the most widespread mistake about Newton's three laws of motion is that they alone sufficed for all problems in classical mechanics. Those who developed what we now call Newtonian mechanics during the eighteenth century at all times appreciated how far from the truth this is. Newton's three laws of motion suffice for problems involving what Euler dubbed “point-masses.” Indeed, once given the forces acting on a point mass, the three laws hold for all point-masses, including those that lie within bodies. But the three laws must be supplemented by further principles for a whole host of celebrated problems involving bodies, rigid or otherwise, that are not mere point-masses. Perhaps the simplest prominent example at the time was the problem of a small arc circular pendulum with two (or more) point-mass bobs along the string. Huygens had solved this problem in the part of his *Horologium Oscillatorium* entitled “The Center of Oscillation,” in the process providing the theoretical basis for using added masses to tune pendulum clocks.[^note-28] The reason why Newton's three laws of motion have to be supplemented to solve this problem is easy to see. Consider the case of a pendulum with two point-masses along the length of a rigid string. The outer point-mass has the effect of reducing the speed of the inner one, versus what it would have had without the outer one, and the inner point-mass increases the speed of the outer one. In other words, motion is transferred from the inner one to the outer one along the segment of the string joining them. Once the force transmitted to each point-mass along the string is known, Newton's three laws of motion are sufficient to determine the motion. But his three laws are not sufficient to determine what this force transmitted along the string is. Some other principle beyond them is needed to solve the problem. Which principle is to be preferred in solving this problem became a celebrated issue extending across most of the eighteenth century.[^note-29]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除了把第二定律的 *F=ma* 形式归到《原理》名下之外，关于牛顿三条运动定律最普遍的误解，是以为它们本身就足以解决经典力学中的一切问题。那些在 18 世纪发展我们今天所称牛顿力学的人，一直都很清楚这离事实有多远。牛顿的三条运动定律足以解决涉及欧拉所称“质点”的问题。的确，一旦给定了作用在一个质点上的力，三条定律对所有质点都成立，包括位于物体内部的质点。但对于一整串涉及并非质点之物体（无论刚性与否）的著名问题，三条定律必须由进一步的原理来补充。当时最显眼的一个简单例子，是绳上有两个（或更多）质点摆锤的小弧圆摆问题。惠更斯在《摆钟论》中题为“振动中心”的部分解决了这个问题，并在此过程中为用附加质量来调节摆钟提供了理论基础。[^note-28] 为什么必须补充牛顿三条运动定律才能解决这个问题，很容易看出。考虑一个在刚性绳的长度上带有两个质点的摆。外侧质点会使内侧质点的速度减小，相对于没有外侧质点时它会有的速度；而内侧质点则使外侧质点的速度增大。换句话说，运动沿着连接它们的绳段从内侧质点传递到外侧质点。一旦知道沿绳传递给每个质点的力，牛顿的三条运动定律就足以确定运动。但他的三条定律不足以确定沿绳传递的这个力是什么。要解决这个问题，需要超出它们之外的某种其他原理。在解决这个问题时应优先采用哪条原理，成为贯穿 18 世纪大部分时间的一个著名问题。[^note-29]
+    step2: |-
+      除了把第二定律的 *F=ma* 形式归给《原理》之外，关于牛顿三条运动定律最普遍的误解，是以为它们本身就足以解决经典力学中的一切问题。那些在 18 世纪发展我们今天所称牛顿力学的人，一直都很清楚这离事实有多远。牛顿的三条运动定律足以解决涉及欧拉所称“质点”的问题。的确，一旦给定了作用在一个质点上的力，三条定律对所有质点都成立，包括位于物体内部的质点。但对于一整串涉及并非质点之物体（无论刚性与否）的著名问题，三条定律必须由进一步的原理来补充。当时也许最简单的一个突出例子，是绳上有两个（或更多）质点摆锤的小弧圆摆问题。惠更斯在《摆钟论》中题为“振动中心”的部分解决了这个问题，并在此过程中为用附加质量来调节摆钟提供了理论基础。[^note-28] 为什么必须补充牛顿三条运动定律才能解决这个问题，很容易看出。考虑一个在刚性绳的长度上带有两个质点的摆。外侧质点会使内侧质点的速度减小，相对于没有外侧质点时它会有的速度；而内侧质点则使外侧质点的速度增大。换句话说，运动沿着连接它们的绳段从内侧质点传递到外侧质点。一旦知道沿绳传递给每个质点的力，牛顿的三条运动定律就足以确定运动。但他的三条定律不足以确定沿绳传递的这个力是什么。要解决这个问题，需要超出它们之外的某种其他原理。在解决这个问题时应优先采用哪条原理，成为贯穿 18 世纪大部分时间的一个著名问题。[^note-29]
   - id: 65
     kind: body
     source: |-
       ## 6. Book 1 of the *Principia*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6. 《原理》第一卷
+    step2: |-
+      ## 6 《原理》第一卷
   - id: 66
     kind: body
     source: |-
       Book 1 develops a mathematical theory of motion under centripetal forces. In keeping with the Euclidean tradition, the propositions mathematically derived from the laws of motion are labeled either as theorems or as problems. The theorems all have an “if-then” form, enabling them to authorize inferences of their consequents, given their antecedents.[^note-30] But then so too do the problems in effect have an “if-then” logical form, for the (geometric style) solutions they provide authorize inferences from given information to unknowns. The best way to think of the derived propositions, therefore, is as “inference-tickets.” As such, the propositions fall into three categories: (1) ones that license conclusions about forces from information about motions, (2) ones that license conclusions about motions from information about forces, and (3) ones that license conclusions about (net) forces directed toward whole bodies from information about (contributing) forces directed toward the individual parts of the bodies.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第一卷发展了一种向心力下运动的数学理论。依照欧几里得传统，从运动定律数学地推出的命题被标为定理或问题。定理都具有“如果—那么”形式，使它们能够在给定前件时授权推断后件。[^note-30] 但问题实际上也具有“如果—那么”的逻辑形式，因为它们所提供的（几何风格的）解，授权从给定信息推断未知。因此，思考这些推导出的命题的最佳方式，是把它们看作“推理许可证”。作为这类东西，这些命题分为三类：（1）从关于运动的信息授权得出关于力的结论；（2）从关于力的信息授权得出关于运动的结论；（3）从关于指向物体各部分的（分）力的信息，授权得出关于指向整个物体的（合）力的结论。
+    step2: |-
+      第一卷发展了一种向心力下运动的数学理论。按照欧几里得传统，从运动定律数学地推出的命题被标为定理或问题。定理都具有“如果—那么”形式，使它们能够在给定前件时授权推断后件。[^note-30] 但问题实际上也具有“如果—那么”的逻辑形式，因为它们所提供的（几何风格的）解，授权从给定信息推断未知。因此，思考这些推导出的命题的最佳方式，是把它们看作“推理许可证”。作为这样的东西，这些命题分为三类：（1）从关于运动的信息授权得出关于力的结论；（2）从关于力的信息授权得出关于运动的结论；（3）从关于指向物体各部分的（分）力的信息，授权得出关于指向整个物体的（合）力的结论。
   - id: 67
     kind: body
     source: |-
       A fundamental contrast between Newton's mathematical theory of motion under centripetal forces and the mathematical theories of motion developed by Galileo and Huygens is that Newton's is generic. Galileo and Huygens examined one kind of force, uniform gravity, with a goal of deriving testable consequences. Newton's theory covers not only forces that vary as 1/*r*², for which the *Principia* is famous, but also forces that vary as *r*, as 1/*r*³, and even as any arbitrary function of *r*. At the end of Section 11 he gives a reason, quoted earlier:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      牛顿关于向心力下运动的数学理论，与伽利略和惠更斯所发展的运动数学理论之间的一个根本对照是：牛顿的理论是通用的。伽利略与惠更斯考察一种力，即均匀重力，其目标是推出可检验的后果。牛顿的理论不仅覆盖按 1/*r*² 变化的力（《原理》因此著名），而且覆盖按 *r*、按 1/*r*³ 甚至按 *r* 的任意函数变化的力。在第十一节末尾，他给出了一个理由（前文已引）：
+    step2: |-
+      牛顿关于向心力下运动的数学理论，与伽利略和惠更斯所发展的运动数学理论之间的一个根本对比是：牛顿的理论是通用的。伽利略与惠更斯考察一种力，即均匀重力，目标是推出可检验的后果。牛顿的理论不仅覆盖按 1/*r*² 变化的力（《原理》因此著名），而且覆盖按 *r*、按 1/*r*³ 甚至按 *r* 的任意函数变化的力。在第十一节末尾，他给出了一个理由（前文已引）：
   - id: 68
     kind: body
     source: |-
       > Mathematics requires an investigation of those quantities of forces and their proportions that follow from any conditions that may be supposed. Then, coming down to physics, these proportions must be compared with the phenomena, so that it may be found out which conditions of forces apply to each kind of attracting bodies. And then, finally, it will be possible to argue more securely concerning the physical species, physical causes, and physical proportions of these forces. [**P**, 588f]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 数学要求研究那些由任何可被设想的条件得出的力的量及其比例。然后，下到物理学，必须把这些比例与现象相比较，以便发现哪些力的条件适用于每一类相互吸引的物体。最后，才有可能更可靠地论证这些力的物理种类、物理原因与物理比例。[**P**, 588f]
+    step2: |-
+      > 数学要求研究那些由任何可被设想的条件得出的力的量及其比例。然后，下到物理学，必须把这些比例与现象相比较，以便发现哪些力的条件适用于每一类相互吸引的物体。最后，才有可能更可靠地论证这些力的物理种类、物理原因与物理比例。[**P**, 588f]
   - id: 69
     kind: body
     source: |-
       He had other reasons as well. The theory of gravity entails that gravity below the surface of a uniformly dense sphere varies linearly with the distance from the center, and hence, at least to a first approximation, this is how gravity varies below the surface of the Earth. Centripetal forces that vary as 1/*r*³ hold if and only if the trajectory is a spiral;[^note-31] and, given any stationary orbit governed by centripetal forces, superposition of a 1/*r*³ centripetal force will cause that orbit to precess, as in the case of the lunar orbit.[^note-32] Still, Newton's main reason appears to have been the one given in the quotation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      他另有别的理由。引力理论蕴含：在均匀密度的球体表面以下，重力随到中心的距离线性变化；因此，至少在一级近似下，地球表面以下的重力就是这样变化的。按 1/*r*³ 变化的向心力成立，当且仅当轨迹是螺线；[^note-31] 而且，给定任何由向心力支配的驻定轨道，叠加一个 1/*r*³ 的向心力都会使该轨道进动，月球轨道的情形就是如此。[^note-32] 不过，牛顿的主要理由看来仍是引文中所给的那一个。
+    step2: |-
+      他还有别的理由。引力理论蕴含：在均匀密度的球体表面以下，重力随到中心的距离线性变化；因此，至少在一级近似下，地球表面以下的重力就是这样变化的。按 1/*r*³ 变化的向心力成立，当且仅当轨迹是螺线；[^note-31] 而且，给定任何由向心力支配的驻定轨道，叠加一个 1/*r*³ 的向心力都会使该轨道进动，月球轨道的情形就是如此。[^note-32] 不过，牛顿的主要理由看来还是引文中所给的那个。
   - id: 70
     kind: body
     source: |-
       In one curious respect that Newton mentions only once in passing, the theory does not cover all “conditions that may be supposed.” Newton's theory treats centripetal forces that vary only with the distance from the force center, that is, ones for which the force on two bodies equally distant from that center is always the same. It does not treat centripetal forces that vary with *θ* and *φ*, the two angular components of (*r*, *θ*, *φ*) spherical coordinates. This is notable for two reasons. First, the central forces arising in Cartesian vortices would almost certainly have varied with both of these angular components, and hence Newton is tacitly begging a question. Second, as Newton himself realized and noted in Section 13 of Book 1, gravity around a spheroid does not vary simply as 1/*r*², but must also vary with latitude.[^note-33] From Newton's point of view, therefore, gravity around Jupiter and the Earth, and surely the Sun as well, does not vary simply as 1/*r*². This is one of many often ignored cues pointing to the extent to which the evidential reasoning in the *Principia* has to be more intricate and subtle than was appreciated at the time, or for that matter even now.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在一点奇特之处——牛顿只顺带提到过一次——该理论并未覆盖“一切可被设想的条件”。牛顿的理论处理只随到力心距离变化的向心力，也就是：对与该中心等距的两个物体，力总是相同的那些向心力。它不处理随 *θ* 与 *φ*（球坐标 (*r*, *θ*, *φ*) 的两个角分量）变化的向心力。这一点值得注意，理由有二。第一，笛卡尔涡旋中产生的中心力几乎肯定随这两个角分量变化，因此牛顿是在暗中回避问题。第二，正如牛顿本人所意识到并在第一卷第十三节中指出的，椭球体周围的重力并不简单地按 1/*r*² 变化，而必然还随纬度变化。[^note-33] 因此，从牛顿的观点看，木星与地球周围的重力，当然还有太阳周围的重力，并不简单地按 1/*r*² 变化。这是许多常被忽视的线索之一，指向《原理》中的证据推理必须比当时（甚至现在）所认识到的更复杂、更微妙。
+    step2: |-
+      在一个奇特方面——牛顿只顺带提到过一次——该理论并未覆盖“一切可被设想的条件”。牛顿的理论处理只随到力心距离变化的向心力，也就是：对与该中心等距的两个物体，力总是相同的那些向心力。它不处理随 *θ* 与 *φ*（球坐标 (*r*, *θ*, *φ*) 的两个角分量）变化的向心力。这值得注意，有两个理由。第一，笛卡尔涡旋中产生的中心力几乎肯定随这两个角分量变化，因此牛顿是在暗中回避问题。第二，正如牛顿本人所意识到并在第一卷第十三节中指出的，椭球体周围的重力并不简单地按 1/*r*² 变化，而必然还随纬度变化。[^note-33] 因此，从牛顿的观点看，木星与地球周围的重力，当然还有太阳周围的重力，并不简单地按 1/*r*² 变化。这是许多常被忽视的线索之一，指向《原理》中的证据推理必须比当时（甚至现在）所认识到的更复杂、更微妙。
   - id: 71
     kind: body
     source: |-
