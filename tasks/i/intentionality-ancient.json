@@ -2,7 +2,7 @@
   "slug": "intentionality-ancient",
   "kind": "retranslate",
   "zh_doc": "i/intentionality-ancient.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -108,6 +108,34 @@
       "actor": "I-main-20261111",
       "at": "2026-11-11T00:50:01Z",
       "evidence": "三校体例：check_style --docs --strict 0 issue；check_academic --strict 0 硬错误；check_math 0/0/0；check_summary H1 mismatch 0；defs 21:21；marker 18:18；check_terms 硬错误 0；人名无需新增（册内已有）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T03:41:30Z",
+      "evidence": "独立复审冷置回读：源文 95 行↔译文 139 行逐段核销 45 段；script/i_reconcile.py 五项对账全等（段落/节 10:10、marker 18:18、defs 21:21、年份 96:96）；引文定位逐条核销柏拉图篇目（Tht./Rep./Parm./Soph./Symp./Charm./Phlb./Crat./Euthd.）、亚里士多德（De An./De Mem./Metaph./Int./EN）、斯多亚（DL VII、S.E. VII-VIII-XI、Stob.、Sen. Ep.、Plut.、Aet.、Origen、Cic. Acad.、Clem. Strom.）、柏拉图-维特根斯坦（PI I.133 §462/II.177 §iii）全在场无遗漏；源文自身引证 425b25-426a27 等照源直译。人名形核销与跨条统一：胡塞尔→埃德蒙德·胡塞尔，布伦塔诺→弗朗兹·布伦塔诺（家法形），ren-ming-biao 同人双行合并"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T03:43:04Z",
+      "evidence": "逐句回核高风险段（§1 奥古斯丁三项结构、§3 不一致三元组 A/B/C 编号对应、§5 亚里士多德 phantasmata 两组反例、§6 ennoēmata/lekta 区分与巴门尼德-布伦塔诺论题两脉）：语义与源文逐句相符，0 新错；前轮两处修订核销在位（图式…形成一表象，即——；universal generalization→全称概括）；二值原则/排中律两处区分正确，非理性动物 lekta 归谬链完整；术语 phantasma=幻象、lekton=可说者/所意、phantasia katalēptikē=可靠表象全档统一"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T03:43:05Z",
+      "evidence": "终稿验收：check_style --docs --strict 0 issue；check_academic --strict 无硬错误（任务绑定 pin 在册）；check_math 缺失 0/不平衡 0；check_summary H1 mismatch 0；check_prose 余 2 条（long-sentence、passive-bei）均在巴门尼德 B2 直接引文内部，按 ADR-0020 引文豁免留痕；lq 守恒不变量保持"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T03:43:06Z",
+      "evidence": "终审签字：ADR-0033 置空重译 45 段全周期完成（draft→s3→r1-r3），六道机械门全绿，独立冷置回读无新错，跨条人名形统一两处并合并登记册同人双行"
     }
   ],
   "blockers": [],
