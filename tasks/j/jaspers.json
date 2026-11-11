@@ -2,7 +2,7 @@
   "slug": "jaspers",
   "kind": "retranslate",
   "zh_doc": "j/jaspers.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "J-main-20261109",
       "at": "2026-11-09T01:09:42Z",
       "evidence": "三校体例四检全绿：check_style --docs j/jaspers.md --strict issues=[]；check_academic --strict OK；check_math formulas=0 missing=[] unbalanced=[]；check_summary H1 mismatch=0 HARD=0；术语一致性硬错误 0（17 条新登记体例合规）；markdown 标题按模板去英文句点（## 1 生平 等 7 节）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "REV-main-20261111",
+      "at": "2026-11-11T13:23:42Z",
+      "evidence": "初审（REV-main-20261111 独立复核，异于初译 actor J-main-20261109）：对照 yuanwen 七节逐节回读，无漏译/增译/立场偏移；结构对账 defs 42:42（键集与顺序全等）、内联 marker 3:3（ehrlich-1975/note-1，另 en 转换器注记字面 [^key]）、节 7:7、脚注 1:1、图 0:0、H1 与 SUMMARY 行 1342 逐字一致。实修 4 处：①§2「两人之间时而关系含毒」→「两人关系时有交恶」（envenomed relations）；②§2「后者把大学呈现为…」→「这部后出的著作…」（The later work 指 1946 年本，原译误指 1923 年本）；③§2「其他言论」→「其他出版物」（other publications）；④§6「落后弊病」→「反动痼疾」（reactionary malaise）。人名（雅斯贝尔斯/海德格尔/阿伦特/韦伯/克尔凯郭尔等）与书名照录核对；相关词条 8 项与 SUMMARY 主形逐字一致；源文错拼（Philophische/Pscyhopathology）照录不擅改。检查：check_style 0 / check_math 0 式 / check_academic --strict OK / check_prose 2 条（L53 括注长句、L65 源文 de-chain，沿用 s2 豁免）。语体：现代汉语学术书面语，无文言仿古；长句以插入语分层，无欧化倒装"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "REV-main-20261111",
+      "at": "2026-11-11T13:38:37Z",
+      "evidence": "复审（逐句回核与对账，REV-main-20261111）：r1 四处修订复核在位且语义与源一致；增修 1 处：§5「神性的实存要素」→「神性的事实性要素」（factual elements of deity；避免与登记册 Existenz=生存 的「实存」异形相撞）。客观对账：四位数年份多重集差异全部核销为良性——「19XX 年代」中文展开（1830/1920/1930/1950/1960 对 en 1830s/1920s/thirties/1950s/1960s）、1913 双句合一（「1913 年起…同年出版」）、III/8.2 中文题名行含「（1942–1968）」致 1942/1968 各多 1；引注组 1:1（Ehrlich 1975, 211 经 Heinrich Barth 转引）。术语漂移扫描 0：生存（Existenz）/生存哲学（Existenzphilosophie）/界限（Grenze）/界限处境（Grenzsituationen）/包摄者（das Umgreifende）/哲学信仰/超越之密码均与登记册主形一致；check_style 0；check_academic --strict OK。语体：现代汉语学术书面语，无文言仿古"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "REV-main-20261111",
+      "at": "2026-11-11T13:45:54Z",
+      "evidence": "终审（REV-main-20261111）：四检复跑全绿——check_style 0 / check_math 0 式 0 缺失 0 失衡 / check_academic --strict 0 硬错误 / check_prose 2 条（L53 括注长句、L65 源文 de-chain，s2 豁免留痕一致）；结构终验 defs 42:42、marker 3:3、节 7:7、脚注 1:1、图 0:0；H1 与 SUMMARY 行 1342 逐字一致；check_quotes 0 违例；语体结论：现代汉语学术书面语"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "REV-main-20261111",
+      "at": "2026-11-11T13:52:03Z",
+      "evidence": "done 收口（REV-main-20261111）：r3 验收签字后正文零改动；四检全绿维持（check_style 0 / check_academic --strict OK / check_math 0/0 / check_prose 2 条豁免留痕）；复核独立性满足（初译为 J 线，r1–r3 为 REV 线）"
     }
   ],
   "blockers": [],
