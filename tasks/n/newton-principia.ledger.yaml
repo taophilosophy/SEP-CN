@@ -173,20 +173,30 @@ segments:
       > Law 3: The relative motions of bodies enclosed in a given space are the same whether that space is at rest or moves perpetually and uniformly in a straight line without circular motion.
       >
       > Law 4: The common center of gravity does not alter its state of motion or rest through the mutual actions of bodies. [**U**, 267]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 定律 3：被包围在给定空间中的诸物体之相对运动，无论该空间静止，还是永远沿直线匀速运动而不作圆周运动，都是一样的。
+      >
+      > 定律 4：公共重心不因诸物体彼此的作用而改变其运动或静止状态。[**U**, 267]
+    step2: |-
+      > 定律 3：被包围在给定空间中的诸物体的相对运动，无论该空间处于静止，还是永远沿直线匀速运动而不作圆周运动，都是一样的。
+      >
+      > 定律 4：诸物体借相互作用并不改变其公共重心的运动或静止状态。[**U**, 267]
   - id: 22
     kind: body
     source: |-
       The second of the two added passages concerns motion in resisting media; it provides a context in which to read Book 2 of the *Principia*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      两段增补中的第二段，涉及在阻性介质中的运动；它为阅读《原理》第二卷提供了一个语境。
+    step2: |-
+      两段增补中的第二段涉及在阻性介质中的运动；它为阅读《原理》第二卷提供了一个语境。
   - id: 23
     kind: body
     source: |-
       The first added passage, which has become known as the “Copernican scholium,” we here quote in full because it, better than anything else, explains what led Newton into the further research that turned the nine-page tract into the five hundred page *Principia*. It occurs as a single long paragraph, but is here broken into three segments in order to facilitate commenting on it:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第一段增补后来被称为“哥白尼附释”。我们在此全文引用它，因为它比任何其他东西都更好地说明了是什么引导牛顿投入进一步研究，把这篇九页论文变成了五百页的《原理》。它在原文中是一个单一的长段落，但为了便于评注，这里分成三段：
+    step2: |-
+      第一段增补后来被称为“哥白尼附释”，我们在此全文引用，因为它比任何其他东西都更好地说明了是什么引导牛顿投入进一步研究，把这篇九页论文变成了五百页的《原理》。它在原文中是一整个长段落，但为了便于评注，这里分成三段：
   - id: 24
     kind: body
     source: |-
@@ -195,44 +205,66 @@ segments:
       > By reason of this deviation of the Sun from the center of gravity the centripetal force does not always tend to that immobile center, and hence the planets neither move exactly in ellipses nor revolve twice in the same orbit. Each time a planet revolves it traces a fresh orbit, as happens also with the motion of the Moon, and each orbit depends upon the combined motions of all the planets, not to mention their actions upon each other. Unless I am much mistaken, it would exceed the force of human wit to consider so many causes of motion at the same time, and to define the motions by exact laws which would allow of an easy calculation.
       >
       > Leaving aside these fine points, the simple orbit that is the mean between all vagaries will be the ellipse that I have discussed already. If any one shall attempt to determine this ellipse by trigonometrical computation from three observations (as is usual) he will be proceeding without due caution. For these observations will share in the very small irregular motions here neglected and so cause the ellipse to deviate somewhat from its actual magnitude and position (which ought to be the mean among all errors), and so there will be as many ellipses differing from each other as there are trios of observations employed. Very many observations must therefore be joined together and assigned to a single operation which mutually moderate each other and display the mean ellipse both as regards position and magnitude. [**U**, 280]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 此外，行星天的整个空间或者静止（如通常所信），或者沿直线匀速运动，而行星的公共重心也同样（依定律 4）或者静止，或者同时运动。无论哪种情况，诸行星彼此之间的运动（依定律 3）都以同样方式进行，它们的公共重心相对于整个空间静止，因此应当被视为整个行星系统不动的中心。由此，哥白尼体系确实被先天地证明了。因为若对行星的任何位置计算公共重心，该重心或者落在太阳体内，或者总是离它很近。
+      >
+      > 由于太阳偏离重心，向心力并不总是指向那个不动的中心，因此诸行星既不确切地沿椭圆运动，也不在同一轨道上转两圈。行星每转一周便描出一条新轨道，月球运动也是如此，并且每条轨道都取决于所有行星的合成运动，更不用说它们彼此的作用了。除非我大错特错，要同时考虑如此多的运动原因，并以精确的定律界定这些运动、使之易于计算，将超出人类才智之力。
+      >
+      > 把这些微妙之处撇开，作为一切游移之间的平均的那条简单轨道，将是我已经讨论过的椭圆。若有人试图从三次观测用三角计算来确定这个椭圆（这是通常做法），他就是在不够谨慎地行事。因为这些观测会分享这里所忽略的那些极小的不规则运动，从而使椭圆多少偏离其实际大小与位置（后者本应是所有误差的平均），于是被采用的每三组观测就会给出彼此不同的椭圆，有多少组三观测就有多少个椭圆。因此必须把大量观测结合起来，归入同一次运算，使它们互相调节，并在位置与大小两方面显示平均的椭圆。[**U**, 280]
+    step2: |-
+      > 再者，行星天的整个空间或者静止（如通常所信），或者沿直线匀速运动，而行星的公共重心也同样（依定律 4）或者静止，或者同时运动。无论哪种情况，诸行星彼此之间的运动（依定律 3）都以同样方式进行，它们的公共重心相对于整个空间静止，因此应当被视为整个行星系统不动的中心。由此，哥白尼体系确实被先天地证明了。因为若对行星的任何位置计算公共重心，该重心或者落在太阳体内，或者总是离它很近。
+      >
+      > 由于太阳偏离重心，向心力并不总是指向那个不动的中心，因此诸行星既不确切地沿椭圆运动，也不在同一轨道上转两圈。行星每转一圈就描出一条新的轨道，月球运动也是如此，并且每条轨道都取决于所有行星的合成运动，更不用说它们彼此的作用了。除非我大错特错，要同时考虑如此多的运动原因，并以精确的定律界定这些运动、使之易于计算，将超出人类才智之力。
+      >
+      > 撇开这些精细之处，作为一切游移之间的平均的那条简单轨道，将是我已经讨论过的椭圆。若有人试图从三次观测用三角计算来确定这个椭圆（这是通常做法），他就是在不够谨慎地行事。因为这些观测会分享这里所忽略的那些极小的不规则运动，从而使椭圆多少偏离其实际大小与位置（后者本应是所有误差的平均），于是被采用的每三组观测就会给出彼此不同的椭圆，有多少组三观测就有多少个椭圆。因此必须把大量观测结合起来，归入同一次运算，使它们互相调节，并在位置与大小两方面显示平均的椭圆。[**U**, 280]
   - id: 25
     kind: body
     source: |-
       The first segment highlights a further component of the historical context in which the *Principia* was written and read. Galileo's discovery of the phases of Venus in 1613 had provided decisive evidence against the Ptolemaic system,[^note-6] but it could not provide grounds favoring the Copernican over the Tychonic system. In the latter, Mercury, Venus, Mars, Jupiter and Saturn circumnavigate the Sun, and the Sun circumnavigates the Earth, with the consequence that these seven bodies are at all times in the same position in relation to one another as they are in the Copernican system. Whether any decisive empirical grounds could be found favoring the Copernican over the Tychonic system became one of the most celebrated issues of the seventeenth century. Kepler, Galileo, and Descartes all published major books in the first half of the century purporting to resolve this issue,[^note-7] Kepler and Descartes basing their arguments on the physical mechanism each had proposed as governing the orbital motion. Nevertheless, the leading observational astronomer of the second half of the century, G. D. Cassini, was a Tychonist. In the first segment of the “Copernican Scholium” Newton identifies the center of gravity of the planetary system as the appropriate point to which all the motion should be referred — the technical issue behind the issue over the two systems — and then announces that the centripetal forces identified in the text of “De Motu” as governing the orbital motion open the way to establishing a slightly qualified form of the Copernican system.[^note-8] Newton's discovery of this line of reasoning was surely a major factor urging him on to the *Principia*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第一段突出了《原理》写作与阅读之历史背景的又一层面。伽利略 1613 年发现金星相位，为反对托勒密体系提供了决定性证据，[^note-6] 但它不能提供理由，以支持哥白尼体系而非第谷体系。在后一体系中，水星、金星、火星、木星与土星绕太阳运行，太阳绕地球运行，其后果是这七个天体彼此之间的相对位置在任何时候都与哥白尼体系中相同。能否找到任何决定性的经验理由支持哥白尼体系而非第谷体系，成为 17 世纪最著名的问题之一。开普勒、伽利略与笛卡尔都在该世纪上半叶出版了重要著作，声称要解决这一问题，[^note-7] 开普勒与笛卡尔把论证建立在各自提出的、支配轨道运动的物理机制上。然而该世纪下半叶首屈一指的观测天文学家卡西尼却是第谷派。在“哥白尼附释”的第一段中，牛顿把行星系统的重心确定为一切运动都应当参照的恰当点——这是两个体系之争背后的技术问题——然后宣布，“《论运动》”正文中识别出的、支配轨道运动的向心力，为确立一种稍加限定的哥白尼体系开辟了道路。[^note-8] 牛顿发现这一推理线索，必定是促使他走向《原理》的主要因素。
+    step2: |-
+      第一段凸显了《原理》写作与阅读之历史背景的又一层面。伽利略 1613 年发现金星相位，为反对托勒密体系提供了决定性证据，[^note-6] 但它无法提供支持哥白尼体系而非第谷体系的理由。在第谷体系中，水星、金星、火星、木星与土星绕太阳运行，太阳绕地球运行，结果是这七个天体彼此之间的相对位置在任何时候都与哥白尼体系中相同。能否找到任何决定性的经验理由支持哥白尼体系而非第谷体系，成为 17 世纪最著名的问题之一。开普勒、伽利略与笛卡尔都在该世纪上半叶出版了重要著作，声称要解决这一问题，[^note-7] 开普勒与笛卡尔把论证建立在各自提出的、支配轨道运动的物理机制上。然而该世纪下半叶首屈一指的观测天文学家卡西尼却是第谷派。在“哥白尼附释”的第一段中，牛顿把行星系统的重心确定为一切运动都应当参照的恰当点——这是两个体系之争背后的技术问题——然后宣布，“《论运动》”正文中识别出的、支配轨道运动的向心力，为确立一种稍加限定的哥白尼体系开辟了道路。[^note-8] 牛顿发现这一推理线索，必定是促使他走向《原理》的主要因素。
   - id: 26
     kind: body
     source: |-
       The second segment of the “Copernican Scholium” addresses an issue in orbital astronomy that forms a still further component in the historical context of the *Principia*. Separate from the question whether Kepler's or some other approach was to be preferred was the question whether the true motions are significantly more irregular and complicated than the calculated motions in any of these approaches. The complexity of the lunar orbit and the continuing failure to describe it within the accuracy Kepler had achieved for the planets was one consideration lying behind this question. Another came from Kepler's own finding, noted in the Preface to his *Rudolphine Tables*[^note-9] and subsequently supported by others, that the true motions may involve further vagaries, as evidenced by apparent changes in the values of orbital elements over time. The most important consideration behind this question, however, came from Descartes' claim that, in keeping with the changing motions of his vortices over long periods of time, the orbits are not mathematically perfect and “they are continuously changed by the passing of the ages” [**D**, 3, 34]. In the second segment of the quoted Scholium, Newton concludes that, in contrast to the ellipse that answered the mathematical question put to him by Hooke and Halley, the true orbits are not ellipses, but are indeed indefinitely complex. This conclusion is nowhere so forcefully stated in the published *Principia*, but knowledgeable readers nonetheless saw the work as answering the question whether the true motions are mathematically perfect in the negative.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      附释的第二段处理轨道天文学中的一个问题，它构成《原理》历史背景的又一层。与“应优先采用开普勒的进路还是某种其他进路”这一问题相分离的，是另一个问题：真实运动是否比这些进路中任何一种所计算出的运动都显著更不规则、更复杂。月球轨道的复杂性，以及一直未能以开普勒为行星达到的精度来描述它，是这一问题背后的一个考虑。另一个考虑来自开普勒本人的发现——他在《鲁道夫星表》序言中指出了这一点[^note-9]，后来得到他人支持——即真实运动可能包含进一步的游移，其证据是轨道要素的数值随时间出现明显变化。然而这一问题背后最重要的考虑，来自笛卡尔的主张：按照其涡旋在长时段中的变化运动，轨道并非数学上完美的，“它们随着时代的推移不断改变”[**D**, 3, 34]。在所引附释的第二段中，牛顿断定：与回答胡克和哈雷向他提出的数学问题的椭圆相反，真实轨道不是椭圆，而确实无限复杂。这一结论在出版后的《原理》中没有如此有力的表述，但懂行的读者仍把这部著作看作对“真实运动是否数学上完美”这一问题给出了否定回答。
+    step2: |-
+      “哥白尼附释”的第二段处理轨道天文学中的一个问题，它构成《原理》历史背景的又一层面。与“应优先采用开普勒的进路还是某种其他进路”这一问题相分离的，是另一个问题：真实运动是否比这些进路中任何一种所计算出的运动都显著更不规则、更复杂。月球轨道的复杂性，以及一直未能以开普勒为行星达到的精度来描述它，是这一问题背后的一个考虑。另一个考虑来自开普勒本人的发现——他在《鲁道夫星表》序言中指出了这一点[^note-9]，后来得到他人支持——即真实运动可能包含进一步的游移，其证据是轨道要素的数值随时间出现明显变化。然而这一问题背后最重要的考虑，来自笛卡尔的主张：按照其涡旋在长时段中的变化运动，轨道并非数学上完美的，“它们随着时代的推移不断改变”[**D**, 3, 34]。在所引附释的第二段中，牛顿断定：与回答胡克和哈雷向他提出的数学问题的椭圆相反，真实轨道不是椭圆，而确实无限复杂。这一结论在出版后的《原理》中没有如此有力的表述，但懂行的读者仍把这部著作看作对“真实运动是否数学上完美”这一问题给出了否定回答。
   - id: 27
     kind: body
     source: |-
       Finally, the second and third segments together not only point out that Keplerian motion is only an approximation to the true motions, but they call attention to the potential pitfalls in using the orbits published by Kepler and others as evidence for claims about the planetary system. For example, if the true motions are so complicated, then it is not surprising that all the different calculational approaches were achieving comparable accuracy, for all of them at best hold only approximately. Equally, the success in calculating the orbits could not serve as a basis to argue against Cartesian vortices, for the irregularities entailed by them could not simply be dismissed. The spectre raised was the very one Newton had objected to during the controversy over his earlier light and color papers: too many hypotheses could be made to fit the same data.[^note-10] Worse, the multiplicity of tenable hypotheses was a spectre haunting mathematical astronomy as a discipline from the end of the sixteenth century forward.[^note-11] So, the conclusion that calculated orbits can at most be mere approximations would have been seen as raising the possibility that truth and exactness were beyond the reach of mathematical astronomy. The main reason why the *Principia* includes so much beyond the “De Motu” tract is Newton's endeavor to reach conclusions that had claim to being exact and true in spite of the inordinate complexities of the actual motions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      末了，第二段与第三段合在一起，不仅指出开普勒式运动只是对真实运动的近似，而且提醒人们注意把开普勒等人发表的轨道当作关于行星系统之主张的证据所存在的潜在陷阱。例如，如果真实运动如此复杂，那么所有不同的计算进路都达到可比精度就不足为奇，因为它们充其量都只是近似成立。同样，计算轨道的成功也不能作为反对笛卡尔涡旋的依据，因为涡旋所蕴含的不规则性不能简单地被打发掉。由此唤起的幽灵，正是牛顿在早先关于光的论文之争中曾反对过的那个：太多假设都能被弄得适合同一批数据。[^note-10] 更糟的是，可成立的假设之多，是从 16 世纪末以来一直困扰数学天文学作为一门学科的那个幽灵。[^note-11] 因此，“计算出的轨道充其量只能是近似”这一结论，会被看作提出了真理与精确性非数学天文学所能企及的可能性。《原理》之所以包含远超《论运动》论文的内容，主要原因就是牛顿力图得出有资格被称为精确而真实的结论，尽管实际运动极其复杂。
+    step2: |-
+      最后，第二段与第三段合在一起，不仅指出开普勒式运动只是对真实运动的近似，而且提醒人们注意：把开普勒等人发表的轨道当作关于行星系统之主张的证据，存在潜在陷阱。例如，如果真实运动如此复杂，那么所有不同的计算进路都达到可比精度就不足为奇，因为它们充其量都只是近似成立。同样，计算轨道的成功也不能作为反对笛卡尔涡旋的依据，因为涡旋所蕴含的不规则性不能简单地被打发掉。所唤起的幽灵，正是牛顿在早先关于光的论文之争中曾反对过的那个：太多假设都能被弄得适合同一批数据。[^note-10] 更糟的是，可成立的假设之多，是从 16 世纪末以来一直困扰数学天文学作为一门学科的那个幽灵。[^note-11] 因此，“计算出的轨道充其量只能是近似”这一结论，会被看作提出了真理与精确性非数学天文学所能企及的可能性。《原理》之所以包含远超《论运动》论文的内容，主要原因就是牛顿力图得出有资格被称为精确而真实的结论，尽管实际运动极其复杂。
   - id: 28
     kind: body
     source: |-
       The historical context in which Newton wrote the *Principia* involved a set of issues that readers of the first edition saw it as addressing: Was Kepler's approach to calculating the orbits, or some other, to be preferred? Was there some empirical basis for resolving the issue of the Copernican versus the Tychonic system? Were the true motions complicated and irregular versus the calculated motions? Can mathematical astronomy be an exact science? No reader of the *Principia* at the time had the benefit of seeing how Newton had these questions tied together in the “Copernican Scholium” because it did not appear in print until two hundred years later.[^note-12] Nothing, however, brings out more clearly the extent to which the expanded scope of the *Principia* stemmed from Newton's preoccupation with the problem of reaching conclusions that had claim to being exact from evidence that, by his reckoning, held at best to high approximation. This is why the “Copernican scholium” provides the most illuminating context for reading the *Principia*. Equally, its being unknown for so long helps to explain why the *Principia* has generally been read so simplistically.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      牛顿写作《原理》时的历史背景，涉及一组问题，而第一版的读者认为该书正是在处理这些问题：应当优先采用开普勒的轨道计算进路，还是某种其他进路？是否存在某种经验依据来解决哥白尼体系与第谷体系之争？与计算出的运动相比，真实运动是否复杂而不规则？数学天文学能否成为一门精确科学？当时《原理》的读者没有一个能得益于看到牛顿如何把这些在“哥白尼附释”中串起来，因为该附释直到两百年后才付印。[^note-12] 然而，没有任何东西比这一点更清楚地表明：《原理》范围的扩大，源于牛顿执意要从按他估计充其量只高度近似成立的证据中，得出有资格被称为精确的结论。这就是为什么“哥白尼附释”为阅读《原理》提供了最富启发性的语境。同样，它长期不为人知，也有助于解释《原理》为何一般被读得如此简单化。
+    step2: |-
+      牛顿写作《原理》时的历史背景，涉及一组问题，而第一版的读者认为该书正是在处理这些问题：应当优先采用开普勒的轨道计算进路，还是某种其他进路？是否存在某种经验依据来解决哥白尼体系与第谷体系之争？与计算出的运动相比，真实运动是否复杂而不规则？数学天文学能否成为一门精确科学？当时《原理》的读者没有一个能得益于看到牛顿如何把这些在“哥白尼附释”中串起来，因为该附释直到两百年后才付印。[^note-12] 然而，没有任何东西比这一点更清楚地表明：《原理》范围的扩大，源于牛顿执意要从按他估计充其量只高度近似成立的证据中，得出有资格被称为精确的结论。这就是为什么“哥白尼附释”为阅读《原理》提供了最富启发性的语境。同样，它长期不为人知，也有助于解释《原理》为何一般被读得如此简单化。
   - id: 29
     kind: body
     source: |-
       ## 3. The Three Editions of the *Principia*^{[[^note-13]]}
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. 《原理》的三个版本^{[[^note-13]]}
+    step2: |-
+      ## 3 《原理》的三个版本^{[[^note-13]]}
   - id: 30
     kind: body
     source: |-
       Newton originally planned a two-book work, with the first book consisting of propositions mathematically derived from the laws of motion, including a handful concerning motion under resistance forces, and the second book, written and even formatted in the manner of Descartes's *Principia*, applying these propositions to lay out the system of the world. By the middle of 1686 Newton had switched to a three-book structure, with the second book devoted to motion in resisting media. What appears to have convinced him that this topic required a separate book was the promise of pendulum-decay experiments to allow him to measure the variation of resistance forces with velocity.[^note-14] When Hooke raised a priority issue on inverse-square forces, Newton dropped the original version of the last book, switching to presenting the system of the world in a sequence of mathematically argued propositions, many of which demand far more of the reader than anything in the original version. The original “System of the World” did appear in print the year after Newton died. No complete text for the original version of Book 1 has ever been found.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      牛顿起初计划写一部两卷本的著作：第一卷由从运动定律数学地推出的命题组成，其中包括少数关于阻力作用下运动的命题；第二卷按笛卡尔《原理》的方式写作甚至排版，用这些命题来展开世界体系。到 1686 年中，牛顿已改为一卷三册的结构，第二卷专门讨论阻性介质中的运动。看来使他相信这一主题需有单独一卷的，是摆的衰减实验有望让他测量阻力随速度的变化。[^note-14] 当胡克就平方反比力提出优先权问题时，牛顿放弃了最后一卷原来的版本，改为以一系列数学论证的命题来呈现世界体系，其中许多命题对读者的要求远高于原版本中的任何内容。原版“世界体系”在牛顿去世后的次年付印。起初那一卷的完整文本始终没有被发现。
+    step2: |-
+      牛顿最初计划写一部两卷本著作：第一卷由从运动定律数学地推出的命题组成，其中包括少数关于阻力作用下运动的命题；第二卷按笛卡尔《原理》的方式写作甚至排版，用这些命题来展开世界体系。到 1686 年中，牛顿已改为一卷三册的结构，第二卷专门讨论阻性介质中的运动。看来使他确信这一主题需要单独一卷的，是摆的衰减实验有望让他测量阻力随速度的变化。[^note-14] 当胡克就平方反比力提出优先权问题时，牛顿放弃了最后一卷原来的版本，改为以一系列数学论证的命题来呈现世界体系，其中许多命题对读者的要求远高于原版本中的任何内容。原版“世界体系”在牛顿去世后的次年付印。原版第一卷的完整文本从未被发现。
   - id: 31
     kind: body
     source: |-
