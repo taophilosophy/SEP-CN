@@ -2,7 +2,7 @@
   "slug": "qm-relational",
   "kind": "retranslate",
   "zh_doc": "q/qm-relational.md",
-  "state": "r1_reviewed",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,13 @@
       "actor": "Q-main-20261111",
       "at": "2026-11-11T07:42:36Z",
       "evidence": "初审（自译条目的结构+实读复核）：14 h3 + 7 h2 对位；文献 defs 89:89；年份 210:210；公式 116:0 缺失；无图；H1 与 SUMMARY 逐字一致；OIR 11 项齐备；相关词条 9 项映射正确；通读成稿（compose 后回读 1.5/2.1/2.3 各节）未发现 compose 截断或错位。问题分级：Critical 0 / Major 0 / Minor 0"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "Q-main-20261111",
+      "at": "2026-11-11T08:01:49Z",
+      "evidence": "复审逐句回核：术语漂移扫描 0（塌缩/未登记译法无命中；「关系性量子力学」9 处、「视角」43 处锁定主形）；年份 210:210、引注键集 89:89 已对账；「跨视角链接」「主体间性」「存在结构实在论」等术语行与登记册一致；欧化句抽查（§2.3/§3.1）通顺无倒装"
     }
   ],
   "blockers": [],

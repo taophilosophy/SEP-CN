@@ -54,7 +54,7 @@ from tools.biblio_audit import probe_text  # noqa: E402  文献探针（疑似�
 WESTERN_PUB_RE = re.compile(
     r"\b(University Press|Journal|Studies|Review|Quarterly|ed\.|trans\.|eds\.|"
     r"Proceedings|Archiv|Annals|Institute|Society|Handbook|Companion|Yearbook|"
-    r"Imprint|monograph)", re.I)
+    r"Imprint|monographs?|Dissertation|Brill|SUNY|Press)\b|doi:", re.I)
 
 EXCLUDE_DIRS = {
     '.git', '.github', '.vitepress', '.specify', '.zcode', 'node_modules',

@@ -1,0 +1,1521 @@
+version: 1
+slug: kant-religion
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Kant has long been seen as hostile to religion. Many of his contemporaries, ranging from his students to the Prussian authorities, saw his Critical project as inimical to traditional Christianity. The impression of Kant as a fundamentally secular philosopher became even more deeply entrenched through the twentieth century, although this is belied by a closer inspection of his writings both before and after the publication of his *Critique of Pure Reason* (1781), i.e., what are commonly referred to as his “pre-Critical” and “Critical” periods.
+    step1: |-
+      康德长期以来被视为敌视宗教。他的许多同代人，从学生到普鲁士当局，都把其批判事业看作对传统基督教的敌意。康德作为彻底世俗哲学家的印象，在 20 世纪变得更为牢固，尽管只要更仔细地考察他在《纯粹理性批判》（1781）出版前后的著作——即通常所谓“前批判”与“批判”时期——这一印象便不攻自破。
+    step2: |-
+      长期以来，康德被看作敌视宗教的人。从学生到普鲁士当局，同代人中不少都把其批判事业视为与传统基督教为敌。到 20 世纪，“康德是彻底世俗的哲学家”这一印象愈发根深蒂固；然而，只要细读他 1781 年《纯粹理性批判》前后——即通常所谓“前批判”与“批判”时期——的著作，这印象便站不住脚。
+  - id: 2
+    kind: body
+    source: |-
+      After an initial overview of Kant’s philosophy of religion, this entry will turn to his views during the pre-Critical and then the Critical periods. Regarding the former period, we will discuss Kant’s religious background, his views on the relationship between God and nature, and then how some of the key figures of the period influenced his philosophy of religion. We will also discuss his conception of God and his approach to the arguments for God’s existence during this period.
+    step1: |-
+      本词条先概述康德的宗教哲学，然后转向他在前批判时期与批判时期的观点。关于前一时期，我们将讨论康德的宗教背景、他关于上帝与自然之关系的观点，以及该时期一些关键人物如何影响了他的宗教哲学。我们还将讨论他在这时期的上帝概念及其处理上帝存在论证的方式。
+    step2: |-
+      本词条先给康德宗教哲学一个概览，再依次考察其前批判时期与批判时期的观点。前批判部分将讨论他的宗教背景、上帝与自然关系的看法，以及该时期几位关键人物如何塑造了他的宗教哲学；也会论及他此时的上帝概念与对上帝存在诸论证的处理。
+  - id: 3
+    kind: body
+    source: |-
+      We will then turn to his Critical period, where we will discuss: how Transcendental Idealism shaped his philosophy of religion, his Critical treatment of the arguments for God’s existence, his conception of God, his epistemology of religion, the distinction he draws between Deism and Theism, the relationship he asserts between our concept of the highest good and the practical postulates, the various interpretations of his approach to Christian doctrine. We will end with an overview of the four parts of *Religion within the Boundaries of Mere Reason*, and, finally, his *Opus Postumum*. Throughout, attention will be paid to many of the points of interpretative dispute over key aspects of his philosophy of religion.
+    step1: |-
+      随后我们转向他的批判时期，讨论：先验观念论如何塑造了他的宗教哲学；他对上帝存在论证的批判性处理；他的上帝概念；他的宗教认识论；他在自然神论与有神论之间所作的区分；他所主张的至善概念与实践设准之间的关系；关于他处理基督教教义之方式的种种解释。最后，我们将概述《单纯理性限度内的宗教》四部分，以及他的《遗著》。通篇将关注围绕其宗教哲学关键方面的诸多解释争议。
+    step2: |-
+      接着进入批判时期，议题包括：先验观念论如何塑造其宗教哲学；他对上帝存在诸论证的批判处理；其上帝概念；其宗教认识论；自然神论与有神论之别；至善概念与实践设准之关系；以及对其处理基督教教义方式的各种解读。篇末概述《单纯理性限度内的宗教》四部分与《遗著》。全篇随时留意围绕其宗教哲学关键问题上的解释分歧。
+  - id: 4
+    kind: body
+    source: |-
+      ## 1. Overview
+    step1: |-
+      ## 1. 概览
+    step2: |-
+      ## 1 概览
+  - id: 5
+    kind: body
+    source: |-
+      The twentieth-century impression of Kant as a fundamentally secular philosopher was due in part to various interpretative conventions (such as Strawson’s “principle of significance” – Strawson 1966, 16)[^strawson-1966] that denied the meaningfulness and/or thinkability of the supersensible, and in part to an almost exclusive focus on his objections to the traditional proofs of God’s existence, which is evinced in the popular anthologies of the period.
+    step1: |-
+      20 世纪关于康德是彻底世俗哲学家的印象，部分源于各种解释惯例（如斯特劳森的“意义原则”——Strawson 1966, 16）[^strawson-1966]，它们否认超感性者有意义和/或可思；部分源于几乎只关注他对上帝存在传统证明的反对——该时期流行文选即显出此点。
+    step2: |-
+      20 世纪“康德彻底世俗”的印象，一半来自各种解释成规（如斯特劳森的“意义原则”——Strawson 1966, 16）[^strawson-1966]，它们否认超感性者有意义、可思；一半来自人们几乎只盯住他对上帝存在传统证明的驳难——当时流行的文选即是明证。
+  - id: 6
+    kind: body
+    source: |-
+      Kant’s philosophy in the pre-Critical period has been characterized variously as a progression from rationalism to empiricism to criticism (Paulsen 1898 [1902, 1963])[^paulsen-1898], as the continued search for a more proper method for metaphysics (De Vleeschauwer 1962), as a reconciliation of Newtonian and Leibnizian-Wolffian ideas (Friedman 1994)[^friedman-1994] or of natural science and metaphysics (Schönfeld 2000; cf. Anderson 2015)[^anderson-2015][^schönfeld-2000], and as an attempted articulation of a metaphysical alternative to Leibnizian “logicism,” i.e., the view that “anything that is not logically contradictory is possible” (Stang 2016)[^stang-2016]. But what nearly all of Kant’s pre-Critical writings have in common is the desire to frame a more adequate concept of God and of the relation of this being to the created universe. Thus among his earliest unpublished notes (the so-called *Reflexionen*) we find all the major themes of Kant’s pre-Critical philosophy within a detailed sketch of a religious outlook extracted from Alexander Pope’s “An Essay on Man” (1734) and a discussion, among other things, of why this position is philosophically superior to that of Gottfried Wilhelm Leibniz (1646–1716) and Christian Wolff (1679–1754).
+    step1: |-
+      康德前批判时期的哲学曾被各种刻画：从理性主义到经验主义再到批判主义的进展（Paulsen 1898 [1902, 1963]）[^paulsen-1898]；为形而上学寻找更恰当方法的持续探索（De Vleeschauwer 1962）；牛顿式与莱布尼茨—沃尔夫式观念的调和（Friedman 1994）[^friedman-1994]；或自然科学与形而上学的调和（Schönfeld 2000; 参 Anderson 2015）[^anderson-2015][^schönfeld-2000]；以及对莱布尼茨式“逻辑主义”——即“凡不逻辑矛盾者皆可能”这一观点——之形而上学替代方案的努力表述（Stang 2016）[^stang-2016]。但康德几乎所有前批判著作的共同点，是渴望构拟一个更充分的上帝概念，以及这一存在者与被造宇宙之关系的概念。因此，在他最早的一批未刊札记（所谓*反思录*）中，我们便能看到康德前批判哲学的全部主要主题：一幅取自亚历山大·蒲柏《论人》（1734）的宗教观详细草图，以及（除其他外）关于这一立场为何在哲学上优于戈特弗里德·威廉·莱布尼茨（1646–1716）与克里斯蒂安·沃尔夫（1679–1754）的讨论。
+    step2: |-
+      对康德前批判时期的哲学，历来有种种刻画：或视为从理性主义经经验主义走向批判主义的过程（Paulsen 1898 [1902, 1963]）[^paulsen-1898]；或视为对更恰当的形而上学方法的持续寻求（De Vleeschauwer 1962）；或视为对牛顿式与莱布尼茨—沃尔夫式观念的调和（Friedman 1994）[^friedman-1994]，乃至对自然科学与形而上学的调和（Schönfeld 2000; 参 Anderson 2015）[^anderson-2015][^schönfeld-2000]；或视为对莱布尼茨式“逻辑主义”——“凡不逻辑矛盾者皆可能”——之形而上学替代方案的尝试表述（Stang 2016）[^stang-2016]。然而，康德前批判著作几乎都有一处共同点：力图构拟更充分的上帝概念，以及这一存在者与被造宇宙之关系的概念。于是，从他最早的一批未刊札记（所谓*反思录*）中，我们便已看到其前批判哲学的全部主要主题：一幅取自亚历山大·蒲柏《论人》（1734）的宗教观详图；以及（其中还有）关于这一立场何以在哲学上胜过戈特弗里德·威廉·莱布尼茨（1646–1716）与克里斯蒂安·沃尔夫（1679–1754）的讨论。
+  - id: 7
+    kind: body
+    source: |-
+      Within Kant’s Critical period, not only do all three *Critiques* {1781, 1788, 1790} contain powerful defenses of religious faith, but a considerable share of his work in the 1790s is also devoted to developing the positive side of his philosophy of religion. This includes parts of the *Critique of the Power of Judgment* (1790), his 1791 “Theodicy” essay, *Religion within the Boundaries of Mere Reason* (1793), “The End of All Things” (1794), and the *Conflict of the Faculties* (1798). Moreover, his lectures on logic, *Reflexionen* and the Jäsche Logic present a robust account of the nature of religious belief/faith [*Glaube*]. So, while Kant does deny the possibility of religious knowledge (as well as opinion), he characterizes this denial as necessary to safeguard faith, which he endorses as the proper mode of religious assent and considers an essential element in any earnest moral life. One must, therefore, understand the negative elements in his philosophy of religion, such as his infamous objections to the traditional proofs for God’s existence, in this context. As stated in the B-Preface to the *Critique of Pure Reason*, a central goal of the Critical project is to establish the limits to knowledge “in order to make room for faith” (Bxxx).
+    step1: |-
+      在康德的批判时期，不仅三部*《批判》*{1781, 1788, 1790}都包含对宗教信仰的有力辩护，而且他 1790 年代相当一部分工作也致力于发展其宗教哲学的肯定面。这包括《判断力批判》（1790）的部分内容、1791 年《神义论》论文、《单纯理性限度内的宗教》（1793）、《万物之终结》（1794），以及《学科之争》（1798）。此外，他关于逻辑学的讲座、《反思录》与《耶舍逻辑》对宗教信仰［*Glaube*］的本性给出了有力说明。所以，康德确实否认宗教知识（以及意见）的可能性，但他把这一否认刻画为守护信仰所必需——他认可信仰是宗教认同的恰当方式，并视之为任何真诚道德生活的一个本质要素。因此，必须在这一语境中理解其宗教哲学中的否定性要素，例如他对上帝存在传统证明的著名反对。如《纯粹理性批判》B 版序言所说，批判事业的一个中心目标，是划定知识的界限，“以便为信仰腾出地盘”（Bxxx）。
+    step2: |-
+      在批判时期，不仅三部*《批判》*{1781, 1788, 1790}都含有对宗教信仰的有力辩护，他 1790 年代的许多工作也用以阐发其宗教哲学的肯定面：包括《判断力批判》（1790）的部分章节、1791 年的《神义论》论文、《单纯理性限度内的宗教》（1793）、《万物之终结》（1794）与《学科之争》（1798）。他关于逻辑学的讲稿、《反思录》与《耶舍逻辑》还就宗教信仰［*Glaube*］的本性作了扎实的论述。可见康德虽否认宗教知识（连同意见）的可能，却称这一否认是护卫信仰之必需——他认可信仰为宗教认同的正当方式，并视之为任何真诚道德生活不可或缺的成分。因此，他宗教哲学里的否定性部分（例如他那些声名不佳的对上帝存在传统证明的驳难）必须放在这一脉络里读。《纯粹理性批判》B 版序言说得很清楚：批判事业的中心目标之一，是划出知识的界限，“以便为信仰腾出地盘”（Bxxx）。
+  - id: 8
+    kind: body
+    source: |-
+      Throughout Kant’s writings, we find ample discussions of further religious issues. These are, in many instances, clearly affirmative, though they are often framed within objections to theoretical reason’s encroachments into the domain that is instead proper to moral faith. Although his discussions of God and immortality are familiar to most Kantians, the Critical corpus moves well beyond just these. Especially in the 1790s, we find detailed treatments of biblical hermeneutics, miracles, revelation, as well as many distinctively Christian doctrines such as Original Sin, the Incarnation, Vicarious Atonement, and the Trinity.
+    step1: |-
+      通观康德的著作，我们能看到对更多宗教问题的充分讨论。其中许多显然是肯定的，尽管它们常被置于对理论理性侵越道德信仰固有领域的反对之中。虽然他对上帝与不朽的讨论对多数康德研究者来说耳熟能详，批判著作的整体远不止于此。尤其在 1790 年代，我们看到对圣经解释学、奇迹、启示的细致处理，以及许多独特的基督教教义，如原罪、道成肉身、代赎与三位一体。
+    step2: |-
+      翻检康德全部著作，还能读到许多宗教问题的充分讨论。其中不少明显是肯定的，尽管常被包在对理论理性越界侵入道德信仰固有地盘的驳难之中。上帝与不朽固然是康德研究者熟悉的题目，但批判著作的整体远不止此。尤其在 1790 年代，可见对圣经解释学、奇迹、启示的细致论述，以及原罪、道成肉身、代赎、三位一体等颇具基督教特色的教义。
+  - id: 9
+    kind: body
+    source: |-
+      Unfortunately, however, the many positive elements of Kant’s philosophy of religion have been eclipsed by its initial negative moments, moments not meant to oppose religion, but rather reflective of the Lutheranism (or more precisely, the anti-liturgical Lutheran Pietism) of his youth. Just as with Luther’s own negative polemics against religious despotism and scholastic arcana, we see in Kant a parallel dialectic, where he, rather than opposing religion, sought to free it from the “monopoly of the schools” and set it on a footing suitable to “the common human understanding” (Bxxxii). Hence, as we will discuss through this entry, the statement that Kant sought out the limits to knowledge [*Wissen*] in order to “make room for faith [*Glaube*]” (Bxxx) is not an empty bromide, but rather the key anthem for his overall philosophy of religion.
+    step1: |-
+      然而不幸的是，康德宗教哲学的许多肯定要素被其最初的否定环节遮蔽了——这些环节并非意在反对宗教，而是反映了他青年时代的路德宗（更确切说，是反礼仪的路德宗虔敬主义）背景。正如路德本人对宗教专制与经院秘义的否定性论战一样，我们在康德那里看到一种平行的辩证：他并不反对宗教，而是要把它从“学派的垄断”中解放出来，置于适合“普通人类知性”的基础之上（Bxxxii）。因此，如本词条将要讨论的，康德为知识［*Wissen*］划定界限以“为信仰［*Glaube*］腾出地盘”（Bxxx）这一说法，并非空洞的陈词，而是他整个宗教哲学的基调。
+    step2: |-
+      可惜的是，康德宗教哲学中的许多肯定要素，被开头那些否定环节掩盖了。那些环节本不意在反宗教，而是映现出他青年时代的路德宗——更确切说，是反礼仪的路德宗虔敬主义——背景。路德本人对宗教专制与经院秘义的论战是否定性的；康德这里有一种平行的辩证：他不反宗教，反要把宗教从“学派的垄断”中解放出来，安放在适合“普通人类知性”的地基上（Bxxxii）。所以，本词条将反复说明，康德为知识［*Wissen*］划界以“为信仰［*Glaube*］腾出地盘”（Bxxx）这话绝非空洞套话，而是其整个宗教哲学的基调。
+  - id: 10
+    kind: body
+    source: |-
+      ## 2. Kant’s Pre-Critical Religious Thought
+    step1: |-
+      ## 2. 康德前批判时期的宗教思想
+    step2: |-
+      ## 2 康德前批判时期的宗教思想
+  - id: 11
+    kind: body
+    source: |-
+      ### 2.1 Context and Influences
+    step1: |-
+      ### 2.1. 语境与影响
+    step2: |-
+      ### 2.1 语境与影响
+  - id: 12
+    kind: body
+    source: |-
+      The influences on Kant’s pre-Critical religious thought can be divided under three general headings, namely, the personal, the scientific and the philosophical.
+    step1: |-
+      对康德前批判宗教思想的影响可分为三大类，即个人的、科学的与哲学的。
+    step2: |-
+      影响康德前批判宗教思想的因素，可分归三路：身世、科学与哲学。
+  - id: 13
+    kind: body
+    source: |-
+      #### 2.1.1 Personal
+    step1: |-
+      #### 2.1.1. 个人经历
+    step2: |-
+      #### 2.1.1 个人经历
+  - id: 14
+    kind: body
+    source: |-
+      Among the most important influences on Kant’s understanding of religion is no doubt his experience of Pietism, a reform movement within German Lutheranism which aimed to fulfill what it saw as the original intention of Martin Luther. According to the founders of Pietism, such as Philip Jacob Spener (1635–1705), this original intention required a more scrupulous religious and moral outlook, a deep personal devotion to increasing one’s own piety and that of others (through *collegia pietatis*, i.e., through private meetings among lay persons for development of personal holiness), and consequently exacting self-examination as well as the creation of a general culture of supporting progress in these matters. Pietists saw Orthodox Lutheranism, by contrast, as having become frozen in vain intellectualism, an adherence to over-subtle and lifeless formalisms, and ecclesiastical politics. As a consequence, Pietists sought a return to what Spener referred to as “apostolic simplicity” in theological matters.
+    step1: |-
+      对康德宗教理解最重要的影响之一，无疑是他对虔敬主义的体验——那是德意志路德宗内部的一场改革运动，旨在实现它眼中马丁·路德的初衷。按虔敬主义创始人（如菲利普·雅各布·施佩纳，1635–1705）的说法，这一初衷要求更一丝不苟的宗教与道德观，要求深切地献身于增进自己与他人的虔敬（通过*collegia pietatis*，即平信徒为培养个人圣洁而举行的私下聚会），因而要求严格的自我审查，并要求营造一种支持在这些事上进步的一般文化。相比之下，虔敬派视正统路德宗为已僵化于空洞的理智主义、拘守过分微妙而无生气的形式主义以及教会政治。因此，虔敬派寻求回归施佩纳所谓神学事务上的“使徒式的纯朴”。
+    step2: |-
+      对康德宗教理解最重要的影响之一，无疑是他亲历的虔敬主义。那是德意志路德宗内部的改革运动，意在落实它心目中的马丁·路德初衷。按虔敬主义创始人如菲利普·雅各布·施佩纳（1635–1705）之见，这一初衷要求更严苛的宗教与道德态度，深切献身于增进本人与他人的虔敬（借*collegia pietatis*，即平信徒为培养个人圣洁而举行的私下聚会），因而也要求严格的自我省察，并要求养成一种支持此类进步的一般风气。相对而言，虔敬派眼里正统路德宗已冻结在空洞的理智主义、拘泥于过分精细而无生气的形式主义以及教会政治之中。于是，虔敬派力求回归施佩纳所称神学事务上的“使徒式纯朴”。
+  - id: 15
+    kind: body
+    source: |-
+      Kant lived his entire life in the city of Königsberg, the second largest center of Pietism after Halle. His parents were Pietists and he was educated at the Collegium Fridericianum, a Pietist gymnasium directed by Franz Albert Schultz (1692–1763). Although the positive influence of Protestantism in general, and Pietism in particular, has been strongly disputed (Wood 1970: 197n.; Kuehn 2001)[^kuehn-2001][^wood-1970], the majority of scholars have argued otherwise. Kant’s use of Pietist terminology such as the “change of heart” (*Herzensänderung*), classic theological language such as “radical evil” (*radix malorum*), his detailed engagement with Augustinian themes throughout the *Religion* and focus on Pietist and Moravian models of grace (AK 7:54–57 [1798]), which were prevalent in his region, all indicate the lasting influence of his religious upbringing.
+    step1: |-
+      康德一生都生活在柯尼斯堡城，那是仅次于哈勒的虔敬主义第二大中心。他的父母是虔敬派，他在弗兰茨·阿尔贝特·舒尔茨（1692–1763）主持的虔敬派文理中学 Collegium Fridericianum 受的教育。尽管新教一般、尤其虔敬主义的正面影响备受争议（Wood 1970: 197n.; Kuehn 2001）[^kuehn-2001][^wood-1970]，大多数学者却持相反看法。康德使用虔敬派术语（如“心灵转变”*Herzensänderung*）、经典神学语言（如“根本恶”*radix malorum*）、贯穿《宗教》对奥古斯丁主题的细致回应，以及对其所在地区流行的虔敬派与摩拉维亚式恩典典范的关注（AK 7:54–57 [1798]），都表明他宗教教养的持久影响。
+    step2: |-
+      康德终生居于柯尼斯堡，那是仅次于哈勒的虔敬主义第二大中心。其父母皆属虔敬派，他本人则在弗兰茨·阿尔贝特·舒尔茨（1692–1763）主持的虔敬派文理中学 Collegium Fridericianum 就读。新教一般、虔敬主义尤甚，其正面影响固然争议颇多（Wood 1970: 197n.; Kuehn 2001）[^kuehn-2001][^wood-1970]，但大多数学者认为影响确实存在。康德使用虔敬派术语（“心灵转变”*Herzensänderung*）、经典神学语汇（“根本恶”*radix malorum*），《宗教》一书通篇细致回应奥古斯丁式主题，又关注家乡一带流行的虔敬派与摩拉维亚式恩典模式（AK 7:54–57 [1798]）：这些都说明宗教教养对他影响深远。
+  - id: 16
+    kind: body
+    source: |-
+      Like all of his German contemporaries, Kant could not have avoided being affected by memories of the acrimonious conflict that had occurred between the Pietists and Christian Wolff (1679–1754) at the University of Halle just a generation prior. However, by the time Kant arrived at the Collegium Fridericianum, Pietism—particularly in Königsberg—had taken on a milder form, one which often sought to adopt but also revise the teachings of Wolff according to Pietist principles (De Vleeschauwer 1962; Kuehn 2001)[^kuehn-2001]. The most significant example of this is found in Kant’s influential teacher at the University of Königsberg, Martin Knutzen (1713–1751), whose *Philosophical Proof of the Truth of the Christian Religion* (1740) argues that the core of Christianity lies in “presenting us with a genuine means of atonement” (Knutzen 1740: §39)[^knutzen-1740] and that the necessary revelation of such a means can be rationally demonstrated using largely, but not exclusively, Wolffian principles.
+    step1: |-
+      与所有德意志同代人一样，康德不可能不受一代人之前哈勒大学虔敬派与克里斯蒂安·沃尔夫（1679–1754）之间那场激烈冲突之记忆的感染。然而，到康德进入 Collegium Fridericianum 时，虔敬主义——尤其在柯尼斯堡——已采取较温和的形态，常常设法依虔敬派原则采纳、但也修订沃尔夫的学说（De Vleeschauwer 1962; Kuehn 2001）[^kuehn-2001]。最重大的例子见于康德在柯尼斯堡大学影响深远的老师马丁·克努岑（1713–1751），其《基督教真理的哲学证明》（1740）主张基督教的要义在于“向我们提供一种真正的赎罪手段”（Knutzen 1740: §39）[^knutzen-1740]，并主张这一手段的必要启示可借大体上、但并非专一的沃尔夫式原则作理性证明。
+    step2: |-
+      与所有德意志同代人一样，康德难免受一代人之前哈勒大学虔敬派与克里斯蒂安·沃尔夫（1679–1754）激烈冲突之余波的影响。不过到康德入读 Collegium Fridericianum 之时，虔敬主义——尤其在柯尼斯堡——已趋于温和，往往设法按虔敬派原则采纳、同时修订沃尔夫的学说（De Vleeschauwer 1962; Kuehn 2001）[^kuehn-2001]。最显著的例子是康德在柯尼斯堡大学影响最大的老师马丁·克努岑（1713–1751）：其《基督教真理的哲学证明》（1740）主张基督教的核心在于“向我们提供一种真正的赎罪手段”（Knutzen 1740: §39）[^knutzen-1740]，并主张这一手段之必要启示可凭大体上、而非专属的沃尔夫式原则作理性证明。
+  - id: 17
+    kind: body
+    source: |-
+      Finally, among the personal influences on Kant’s view of religion, whether positive or negative, there must be numbered his long associations with Johann Georg Hamann (1730–1788) and Johann Gottfried Herder (1744–1803). Hamann, who at points was part of Kant’s small circle of friends, fiercely defended a mystical fideism and railed against the Enlightenment’s confidence in reason. Through both his published writings and his direct personal contacts, Hamann continually challenged Kant to develop and defend his own views regarding the relation between faith and reason, often drawing support from the skepticism of David Hume (see e.g., Hamann’s letters to Kant dated 27 July 1759 [AK 10:7–17; C 47–54] and December 1759 [AK 10:26–31; C 61–66; also Kuehn 2001: 118–126)[^kuehn-2001]. Although less radical in outlook, Herder played a similar role, particularly later in Kant’s life.
+    step1: |-
+      最后，在对康德宗教观产生影响的个人因素中，无论正面还是负面，还必须算上他与约翰·格奥尔格·哈曼（1730–1788）和约翰·戈特弗里德·赫尔德（1744–1803）的长期交往。哈曼有时是康德小圈子中的一员，他激烈辩护一种神秘主义的信仰主义，痛斥启蒙对理性的信心。通过已刊著作与直接的个人接触，哈曼不断挑战康德去发展与辩护自己对信仰与理性之关系的看法，常借大卫·休谟的怀疑论为助（例如见哈曼 1759 年 7 月 27 日致康德书［AK 10:7–17; C 47–54］与 1759 年 12 月书［AK 10:26–31; C 61–66; 亦见 Kuehn 2001: 118–126］）[^kuehn-2001]。赫尔德的观点虽不那么激进，却起了类似的作用，尤其是在康德晚年。
+    step2: |-
+      最后，论及个人因素对康德宗教观的影响——无论正面负面——还得算上他与约翰·格奥尔格·哈曼（1730–1788）、约翰·戈特弗里德·赫尔德（1744–1803）的长期往来。哈曼一度是康德小圈子里的朋友，他悍然捍卫神秘主义的信仰主义，痛诋启蒙对理性的信心。无论是著书立说还是当面交谈，哈曼都不断逼康德形成并辩护自己对信仰与理性关系的看法，且常借大卫·休谟的怀疑论助阵（例如见哈曼 1759 年 7 月 27 日与 12 月致康德书［AK 10:7–17; C 47–54］［AK 10:26–31; C 61–66; 亦见 Kuehn 2001: 118–126］）[^kuehn-2001]。赫尔德见解虽较温和，作用却相仿，尤其康德晚年。
+  - id: 18
+    kind: body
+    source: |-
+      #### 2.1.2 Scientific
+    step1: |-
+      #### 2.1.2. 科学
+    step2: |-
+      #### 2.1.2 科学
+  - id: 19
+    kind: body
+    source: |-
+      As with many philosophers of the modern period, Kant’s religious views are deeply influenced by the scientific picture of nature that took root in the wake of Copernicus. Most significant during the pre-Critical period are the ideas that the universe is a possibly centerless, ceaselessly expanding, totality of things, which evolves towards ever greater perfection according to physical (Newtonian) and spiritual laws. Kant draws support for this view as well as inspiration for interpreting its religious significance from the writings of, among others, Alexander Pope (1688–1744), Thomas Wright (1711–1786), Pierre Louis Moreau de Maupertuis (1698–1759), Johann Heinrich Lambert (1728–1777), and Jean-Jacques Rousseau (1712–1778) (see Kant’s important note on Newton and Rousseau justifying God and so proving Pope’s “theorem” that “Whatever is, is right” AK 20:58–59). Consequently, much of Kant’s thinking about God during this period is focused on framing a conception of God and of this being’s relation to nature that adequately takes into account this revised picture of the universe. No less important is his attempt to resolve the related dispute over authority between revelation, on the one hand, and philosophy and natural science on the other.
+    step1: |-
+      与近代许多哲学家一样，康德的宗教观深受哥白尼之后扎根的自然科学图景影响。前批判时期最重要的，是这样一些观念：宇宙是可能无中心的、不断膨胀的事物总体，依物理（牛顿式）法则与精神法则朝越来越大的完善演化。康德从亚历山大·蒲柏（1688–1744）、托马斯·赖特（1711–1786）、皮埃尔·路易·莫罗·德·莫佩尔蒂（1698–1759）、约翰·海因里希·兰伯特（1728–1777）与让—雅克·卢梭（1712–1778）等人的著作中既获得这一观点的支持，也获得解释其宗教意义的灵感（见康德关于牛顿与卢梭为上帝辩护、从而证明蒲柏“凡存在着皆合理”这一定理的著名笔记，AK 20:58–59）。因此，康德这一时期关于上帝的思考，大多聚焦于构拟一个充分顾及这一修订版宇宙图景的上帝概念，以及这一存在者与自然之关系的概念。同样重要的是他试图解决启示与哲学及自然科学之间关于权威的相关争端。
+    step2: |-
+      与近代许多哲学家一样，康德的宗教观深受哥白尼之后扎根的自然科学图景之影响。前批判时期最要紧的，是如下观念：宇宙是可能无中心、不断膨胀的事物总体，按物理（牛顿式）法则与精神法则趋向愈益完善的境地。这一观点的支持与解释其宗教意义的灵感，康德得自亚历山大·蒲柏（1688–1744）、托马斯·赖特（1711–1786）、皮埃尔·路易·莫罗·德·莫佩尔蒂（1698–1759）、约翰·海因里希·兰伯特（1728–1777）、让—雅克·卢梭（1712–1778）等人的著作（见康德那则著名笔记：牛顿与卢梭为上帝辩护，从而证明蒲柏“凡存在者皆合理”之“定理”，AK 20:58–59）。因此，他此时的上帝之思，多半围绕一个能充分容纳这幅修订宇宙图景的上帝概念，以及该存在者与自然的关系概念。此外，他试图排解启示同哲学、自然科学之间关于权威的争执，其分量同样不轻。
+  - id: 20
+    kind: body
+    source: |-
+      #### 2.1.3 Philosophical
+    step1: |-
+      #### 2.1.3. 哲学
+    step2: |-
+      #### 2.1.3 哲学
+  - id: 21
+    kind: body
+    source: |-
+      The third set of influences on Kant’s early religious views were philosophical in the sense that he mainly encountered them in published philosophical treatises and textbooks. To these chiefly belong the writings of the Leibnizian-Wolffian school and those of what is sometimes referred to as the Thomasian-Pietistic school.
+    step1: |-
+      第三组影响康德早期宗教观的因素是哲学的，意义是他主要在已刊哲学论著与教科书中接触到它们。这主要包括莱布尼茨—沃尔夫学派的著作，以及有时所谓托马斯—虔敬学派的著作。
+    step2: |-
+      第三组影响康德早期宗教观的因素属于哲学层面——他多半是在已刊哲学论著与教科书中与之相遇。其中主要者，是莱布尼茨—沃尔夫学派的著作，以及有时称为托马斯—虔敬学派的著作。
+  - id: 22
+    kind: body
+    source: |-
+      The Leibnizian-Wolffian School: As noted above, Kant had already developed some criticisms of Leibniz’s *Theodicy* (1710) in 1753. He also studied the works of Wolff—most notably the two-volume *Natural Theology* (1736–1737)—as well as the theological writings of most of Wolff’s many followers. The most important of these latter are Alexander Gottlieb Baumgarten (1714–1762) and Johann August Eberhard (1739–1809). Kant used Baumgarten’s *Metaphysics* (1739) in his courses on metaphysics for over forty years, and late in his career adopted its section on natural theology, alongside Eberhard’s *Preparation for Natural Theology* (1781), for his lectures on philosophical theology. Although there are many differences, sometimes major, between these figures, they all agree generally in maintaining that the Principle of Non-Contradiction is the first principle of metaphysics, that human actions are free but still subject to the Principle of Sufficient Reason, that truths in the divine intellect place limits on the divine will, and that physical and moral laws are dependent on divine choice but can also be known as necessary from nature alone. They also all defend some version of the Ontological Argument.
+    step1: |-
+      莱布尼茨—沃尔夫学派：如上所述，康德在 1753 年就已发展出对莱布尼茨《神义论》（1710）的一些批评。他还研读了沃尔夫的著作——最著名的是两卷本《自然神学》（1736–1737）——以及沃尔夫众多追随者中大多数人的神学著作。其中最重要的两位是亚历山大·戈特利布·鲍姆加登（1714–1762）与约翰·奥古斯特·埃伯哈德（1739–1809）。康德在形而上学课程中使用鲍姆加登的《形而上学》（1739）逾四十年，晚年又把其中的自然神学部分连同埃伯哈德的《自然神学预备》（1781）用于他的哲学神学讲座。尽管这些人物之间有许多差异、有时还相当重大，他们大体上都同意：矛盾律是形而上学的第一原理；人的行为是自由的，但仍服从充足理由律；神圣理智中的真理限制神圣意志；物理法则与道德法则依赖于神圣选择，但也能单从自然被认识为必然的。他们还都辩护某种版本的本体论论证。
+    step2: |-
+      莱布尼茨—沃尔夫学派：前已提及，康德在 1753 年就已对莱布尼茨《神义论》（1710）有所批评。他也研读过沃尔夫的著作——最著名的是两卷本《自然神学》（1736–1737）——以及沃尔夫众多追随者中多数人的神学作品。其中最重要的两位是亚历山大·戈特利布·鲍姆加登（1714–1762）与约翰·奥古斯特·埃伯哈德（1739–1809）。康德用鲍姆加登的《形而上学》（1739）作形而上学教材四十余年；晚年又把其中自然神学部分，连同埃伯哈德的《自然神学预备》（1781），用于哲学神学讲座。这些人彼此差异不少、有时相当重大，但大体上都主张：矛盾律是形而上学的第一原理；人的行为自由，却仍服膺充足理由律；神圣理智中的真理给神圣意志立限；物理法则与道德法则取决于神圣选择，但单凭自然亦可被认识为必然。他们也都为某种版本的本体论论证作辩护。
+  - id: 23
+    kind: body
+    source: |-
+      The Thomasian-Pietistic School: Under this heading falls a group of philosophers that perhaps should not be called a school, but nevertheless arise from two common sources, namely the writings of Christian Thomasius and the culture of Lutheran Pietism, and generally share one common opponent, namely the rationalism associated with René Descartes and Christian Wolff. In terms of their influence on Kant, the most important of these is undoubtedly Christian August Crusius (1715–1775). Although Kant is never an uncritical follower of Crusius, it is clear that Kant studied his works intensely from the late 1750s until the middle of the 1760s, often taking Crusius’s side against that of Leibniz and Wolff. Like others in this group, Crusius argues that the Principle of Non-Contradiction is an empty principle and thus is insufficient for founding metaphysics, that human actions are radically free and so not subject to the Principle of Sufficient Reason, and that moral laws can only be known through the revelation of the divine will (in scripture or within one’s own conscience). Nearly all of these disagreements with Wolff stem from the contention that his system is inconsistent with the real significance of such religious concepts as the duty and obedience to God, obligation, guilt, and conscience.
+    step1: |-
+      托马斯—虔敬学派：此名下的一组哲学家，或许不该称为学派，但他们毕竟出自两个共同源头，即克里斯蒂安·托马修斯的著作与路德宗虔敬主义文化，并且大体上共享一个共同对手，即与勒内·笛卡尔和克里斯蒂安·沃尔夫相关联的理性主义。就他们对康德的影响而言，其中最重要者无疑是克里斯蒂安·奥古斯特·克鲁修斯（1715–1775）。尽管康德从不是克鲁修斯不加批判的追随者，但显然从 1750 年代末到 1760 年代中，康德着力研读其著作，常常站在克鲁修斯一边反对莱布尼茨与沃尔夫。与本组其他人一样，克鲁修斯主张矛盾律是一条空洞的原理，因而不足以奠基形而上学；人的行为根本上是自由的，因而不受充足理由律支配；而道德法则只能通过神圣意志的启示（在圣经中或在个人良知中）被认识。这些与沃尔夫的分歧，几乎都源于这一主张：沃尔夫的体系与义务、对上帝的顺从、责任、罪责与良知等宗教概念的真正意义不相容。
+    step2: |-
+      托马斯—虔敬学派：归在此名下的哲学家或许算不得一个学派，但他们毕竟同出两源——克里斯蒂安·托马修斯的著作与路德宗虔敬主义文化——且大体共有一个对手，即与勒内·笛卡尔、克里斯蒂安·沃尔夫相关联的理性主义。就对康德的影响而言，其中最重要者无疑是克里斯蒂安·奥古斯特·克鲁修斯（1715–1775）。康德从不是克鲁修斯的不加批判的追随者，却显然自 1750 年代末至 1760 年代中用力研读其书，屡屡站在克鲁修斯一边驳莱布尼茨与沃尔夫。如本组他人一样，克鲁修斯主张：矛盾律是一条空洞的原理，不足以奠基形而上学；人的行为根本自由，故不受充足理由律管束；道德法则只能借神圣意志的启示（或在圣经中、或在个人良知中）为人所知。这些与沃尔夫的分歧，几乎都出于一个论断：沃尔夫的体系与义务、对上帝的顺从、责任、罪责、良知等宗教概念的真实含义不相容。
+  - id: 24
+    kind: body
+    source: |-
+      Crusius also rejected the Principle of Sufficient Reason and the Ontological Argument in terms that are very close to what we find in Kant’s writings of this period. Philosophers of this school developed a far more robust account of rational faith than is found in the writings of Wolff. Thus, in a way reminiscent of the later Kant, Crusius argues that we are necessitated to believe something if its denial would undermine or render impossible the pursuit of an end towards which we have a duty (Crusius 1751: §339)[^crusius-1751], the most important of which is our obligation to God (Crusius 1751: §345)[^crusius-1751]. This obligation, according to Crusius, necessitates, among other things, a belief in freedom, immortality and even in the reliability of reason itself (see Chance 2019)[^chance-2019].
+    step1: |-
+      克鲁修斯还以非常接近康德这一时期著作的措辞，拒绝了充足理由律与本体论论证。这一学派的哲学家对理性信仰发展出远比沃尔夫著作中更厚实的说明。因此，以一种令人想起晚年康德的方式，克鲁修斯主张：若否认某物会损害或使追求我们负有义务的某个目标的努力成为不可能，我们就被迫相信它（Crusius 1751: §339）[^crusius-1751]，而最重要的目标是我们对上帝的义务（Crusius 1751: §345）[^crusius-1751]。按克鲁修斯，这一义务除其他外迫使我们相信自由、不朽，甚至相信理性本身的可靠性（见 Chance 2019）[^chance-2019]。
+    step2: |-
+      克鲁修斯还以极近于康德此期著作的用语，否弃了充足理由律与本体论论证。这一学派对理性信仰的阐述，远比沃尔夫书中厚实。于是，克鲁修斯以令人想到晚年康德的方式主张：某项事物若被否认，便会破坏、或使追求我们负有义务之目标的努力不可能实现，我们便被迫相信它（Crusius 1751: §339）[^crusius-1751]；而首要的目标便是我们对上帝的义务（Crusius 1751: §345）[^crusius-1751]。按克鲁修斯，这项义务迫使人相信自由、不朽，乃至相信理性本身的可靠（见 Chance 2019）[^chance-2019]。
+  - id: 25
+    kind: body
+    source: |-
+      Finally, any account of the philosophical influences on Kant’s early religious thought must include mention of the “Profession of Faith of the Savoyard Vicar” from Rousseau’s *Emile, or Education* (1762), a book that is thought to have profoundly affected Kant’s intellectual development in the second half of the 1760s. In many respects, the Vicar’s expression of a humble and common sense religious outlook has parallels in Kant’s own development in the later 1760s as mentioned in section 2.2 below.
+    step1: |-
+      最后，任何关于康德早期宗教思想之哲学影响的说明，都必须提到卢梭《爱弥儿，或论教育》（1762）中“萨瓦牧师的信仰自白”——一般认为这本书深刻影响了康德 1760 年代后半期的思想发展。在许多方面，这位牧师所表达的那种谦卑而合乎常识的宗教观，与下文 2.2 节所述康德自己在 1760 年代后期的思想发展有平行之处。
+    step2: |-
+      最后，凡论康德早期宗教思想所受哲学影响，都须提到卢梭《爱弥儿，或论教育》（1762）里的“萨瓦牧师的信仰自白”。一般认为，此书深刻影响了康德 1760 年代后半期的思想演变。这位牧师所表达的谦卑而合乎常识的宗教观，与下文 2.2 节所述康德 1760 年代后期的发展颇有平行。
+  - id: 26
+    kind: body
+    source: |-
+      ### 2.2 Kant’s Pre-Critical Religious Thought
+    step1: |-
+      ### 2.2. 康德前批判时期的宗教思想
+    step2: |-
+      ### 2.2 康德前批判时期的宗教思想
+  - id: 27
+    kind: body
+    source: |-
+      An mentioned above, Kant earliest reflections on religious themes include a comparison between Alexander Pope’s *Essay on Man* (1733–4) and the theologies advanced by Gottfried Wilhelm Leibniz (1646–1716) and Christian Wolff (1679–1754). According to the pre-Critical Kant, the Leibnizian position rests on an inconsistent and limited view of the divine being, one in which the eternal essences of things retain a degree of independence, whereas Pope
+    step1: |-
+      如上所述，康德最早关于宗教主题的思考，包括对亚历山大·蒲柏《论人》（1733–1734）同戈特弗里德·威廉·莱布尼茨（1646–1716）与克里斯蒂安·沃尔夫（1679–1754）所提出的神学的比较。按前批判的康德，莱布尼茨立场建立在一种不一致而有限的神圣存在者观上——其中事物的永恒本质保留了一定程度的独立性——而蒲柏则
+    step2: |-
+      如前所述，康德最早的宗教主题思考，包含一项比较：亚历山大·蒲柏《论人》（1733–1734）与戈特弗里德·威廉·莱布尼茨（1646–1716）、克里斯蒂安·沃尔夫（1679–1754）各自的神学。前批判的康德认为，莱布尼茨立场依托一种自相矛盾而褊狭的神性观，其中事物的永恒本质仍保有某种独立性；而蒲柏
+  - id: 28
+    kind: body
+    source: |-
+      > subjects every possibility to the dominion of an all-sufficient Being; under this Being things can have no other properties, not even those which are called essentially necessary, apart from those which harmonise together to give complete expression to His perfection. (AK 2:233–234, note 3704)
+    step1: |-
+      > 把一切可能性都置于一个自足无待的存在者的支配之下；在此存在者之下，事物不能具有任何别的属性——甚至不能具有那些被称为本质上必然的属性——除了那些协调一致、以完整表达其完善性的属性。（AK 2:233–234, note 3704）
+    step2: |-
+      > 将一切可能性置于一个自足无待者的统辖之下；在这一存在者之下，事物不容有别的属性——连那些所谓本质必然的属性也不容有——唯有那些彼此协调、共同完整表达其完善性的属性。（AK 2:233–234, note 3704）
+  - id: 29
+    kind: body
+    source: |-
+      Already in these passages we find hints of the main features of Kant’s pre-Critical metaphysics, all of which point back to this religious context, namely:
+    step1: |-
+      在这些段落中，我们已能看到康德前批判形而上学主要特征的端倪，而它们全都回指这一宗教语境，即：
+    step2: |-
+      这些段落已透露出康德前批判形而上学的主要特征，且无一不回指这一宗教语境：
+  - id: 30
+    kind: body
+    source: |-
+      1. his framing of the concept of God in terms of a single all-sufficient (*allgenugsam*) being,
+      2. his rejection of the Ontological argument,
+      3. his own proof of the existence of such a being based upon its status as the absolutely necessary ground of all real possibility,
+      4. the metaphysical derivation of the further properties of the divine being, i.e., unity and wisdom, from this concept,
+      5. the subjection of the inner possibility of things and so also the necessary and contingent laws of physical nature to a being with such properties, and finally
+      6. the carving out of a new and more consistent method for reflecting on the design of nature and its relation to God, a so-called revised method of physico-theology.
+    step1: |-
+      1. 他凭一个单一的、自足无待（*allgenugsam*）的存在者来构拟上帝概念；
+      2. 他拒绝本体论论证；
+      3. 他自己对这样一个存在者之存在的证明，基于其作为一切实在可能性之绝对必然根据的地位；
+      4. 从这一概念对神圣存在者其他属性（即统一性与智慧）的形而上学的推导；
+      5. 把事物的内在可能性、从而把物理自然的必然法则与偶然法则，归摄于一个具有如此属性的存在者；最后
+      6. 开辟一种新的、更融贯的方法来反思自然的设计及其与上帝的关系，即所谓修订版的物理神学方法。
+    step2: |-
+      1. 以单一的自足无待（*allgenugsam*）者来构拟上帝概念；
+      2. 否弃本体论论证；
+      3. 他自己对这样一个存在者之存在的证明，系于它是一切实在可能性之绝对必然根据；
+      4. 由这一概念推出神圣存在者的其他属性，即统一性与智慧；
+      5. 把事物的内在可能性，连带物理自然的必然法则与偶然法则，置于具有如此属性的存在者之下；最后
+      6. 开辟一种更新、更融贯的方法，以反思自然的设计及其与上帝的关系，即所谓修订版的物理神学方法。
+  - id: 31
+    kind: body
+    source: |-
+      Kant’s engagement with this last point in particular relates to his lifelong preference for, and interest in, the Physico-Theological Argument (see section 3.1.2.3 below).
+    step1: |-
+      康德对最后一点的处理，尤其与他一生对物理学—神学论证的偏爱与兴趣相关（见下文 3.1.2.3 节）。
+    step2: |-
+      其中最后一点，尤其牵涉康德终身对物理学—神学论证的偏爱与关注（见下文 3.1.2.3 节）。
+  - id: 32
+    kind: body
+    source: |-
+      Kant’s initial attempt to articulate a metaphysics that could justify all these views is found in two works of 1755, *A New Elucidation of the First Principles of Metaphysical Cognition* and *Universal Natural History and Theory of the Heavens, Or Essay on the Constitution of the Mechanical Origin of the Whole Universe according to Newtonian Principles*. The former focuses on laying the foundation for a metaphysical system including points (i–v) above. The latter then focuses on (vi) by purporting to show that even just the Newtonian laws of nature exhibit such a tendency to bring about order and perfection in nature as can only be explained by a conception of God as the all-sufficient ground of the essences of things. The continued influence of the religious outlook of Pope’s *Essay on Man* (and hence also of the specific brand of Deism, similar to Shaftesbury’s and Lord Bolingbroke’s, to which it is related) is evidenced in the fact that the *Universal Natural History* contains no less than six separate passages from this work, three of which Kant uses to introduce the three divisions of his book.
+    step1: |-
+      康德为阐发一种能证成上述一切观点的形而上学所作的最初尝试，见于 1755 年的两部著作：《形而上学认识第一原理的新阐明》与《宇宙通史与天体理论，或按牛顿原理论整个宇宙机械起源之构造的论文》。前者着力为包含上面（i–v）各点的形而上学体系奠基。后者则着力于（vi），力图表明即便仅凭牛顿式自然法则，也呈现出一种在自然中造成秩序与完善的倾向，而这种倾向只能通过把上帝设想为事物本质之自足无待的根据来解释。蒲柏《论人》宗教观的持续影响（因而也涉及其所属的、类似沙夫茨伯里与博林布鲁克勋爵的特定自然神论）可由以下事实得到证明：《宇宙通史》包含不少于六段取自该书的段落，其中三段被康德用来引出全书的三编。
+    step2: |-
+      康德为阐发一种足以证成上述一切观点的形而上学，最初的努力见于 1755 年两部著作：《形而上学认识第一原理的新阐明》与《宇宙通史与天体理论，或按牛顿原理论整个宇宙机械起源之构造》。前者为包含上述（i–v）各点的形而上学体系奠基；后者则着力于（vi），力图表明：单凭牛顿式自然法则，自然便显出造成秩序与完善的倾向，而这种倾向唯有把上帝设想为事物本质之自足无待的根据方能解释。蒲柏《论人》的宗教观（连带它所关联的、近似沙夫茨伯里与博林布鲁克勋爵的自然神论）影响持续可见：《宇宙通史》竟有六段取自该书，其中三段被康德用来引出全书三编。
+  - id: 33
+    kind: body
+    source: |-
+      For whatever reasons, Kant seems to have been unsatisfied by this initial attempt and so set out in the 1760s to better defend and explain this same general system of thought in his *Only Possible Argument in Support of a Demonstration of the Existence of God* (1763b). This time, however, he is much more concerned with articulating a firm methodological basis for his metaphysics, as is evident in the work itself as well as in the key essays of the period, *Attempt to Introduce the Concept of Negative Magnitudes into Philosophy* (1763a) and *Inquiry Concerning the Distinctness of the Principles of Natural Theology and Morality* (1764).
+    step1: |-
+      无论出于何种理由，康德似乎对这一最初尝试并不满意，于是在 1760 年代着手在《证明上帝存在之唯一可能的论证根据》（1763b）中更好地辩护与解释同一套总的思路。不过这一次，他远为关心为其形而上学阐明一个坚实的方法论基础，这在该著作本身以及该时期的关键论文——《试将负量概念引入哲学》（1763a）与《论自然神学与道德之第一原理的明晰性》（1764）——中都显而易见。
+    step2: |-
+      无论缘于何故，康德似不满意这番初试，遂于 1760 年代在《证明上帝存在之唯一可能的论证根据》（1763b）中重新辩护与解释这同一套思路。只是这一次，他更在意为形而上学阐明一个牢固的方法论基础；这在该书本身与该时期的关键论文《试将负量概念引入哲学》（1763a）、《论自然神学与道德之第一原理的明晰性》（1764）中都一望可知。
+  - id: 34
+    kind: body
+    source: |-
+      Despite retaining this commitment to his earlier metaphysics, it seems clear that at this time Kant also becomes convinced that there exists a common sense religious standpoint that is not dependent upon the proof of metaphysical doctrines, but which is equivalent or perhaps even stronger in its practical import (see, e.g., AK 2:65 [1763b]). With the eventual abandonment of his pre-Critical project in the late 1760s it is this alternative source of religious conviction that will blossom into the re-founding of his religious thought in moral theology (see sections 3.3–3.7 below). Indeed, a letter to Johann Casper Lavater from 1775 already contains the main outlines of Kant’s later positive account of the moral grounds and function of religious faith (AK 10:175–179).
+    step1: |-
+      尽管仍然信守早先的形而上学，但此时康德显然也确信：存在一种常识性的宗教立场，它不依赖于形而上学学说的证明，而在实践意义上却等值、甚至或许更强（例如见 AK 2:65 [1763b]）。随着他 1760 年代后期最终放弃前批判方案，正是这一替代性的宗教确信来源，将发展为他在道德神学中重建宗教思想（见下文 3.3–3.7 节）。事实上，1775 年致约翰·卡斯帕·拉瓦特的一封信，已包含康德后来关于宗教信仰之道德根据与功能的肯定说明的主要轮廓（AK 10:175–179）。
+    step2: |-
+      康德虽仍持守早先的形而上学，此时显然还确信：有一种常识性的宗教立场，不靠形而上学学说的证明而立，在实践意义上却与之相当、甚至也许更强（例如见 AK 2:65 [1763b]）。到 1760 年代后期他终于放弃前批判方案，正是这一替代性的宗教确信来源，日后将在道德神学中盛开为他宗教思想的新基础（见下文 3.3–3.7 节）。其实 1775 年致约翰·卡斯帕·拉瓦特的信，已勾出康德后来关于宗教信仰的道德根据与功能的肯定说明之主要轮廓（AK 10:175–179）。
+  - id: 35
+    kind: body
+    source: |-
+      In the remainder of this section, we will focus on three particular religious topics discussed by Kant during the Pre-Critical period: his treatment of God as an all-sufficient being, his critique of the ontological argument and his own early argument for God’s existence.
+    step1: |-
+      本节余下部分将聚焦康德前批判时期讨论的三个特定宗教主题：他把上帝作为自足无待的存在者的处理、他对本体论论证的批评，以及他自己早期关于上帝存在的论证。
+    step2: |-
+      本节余下部分将集中于康德前批判时期论及的三个宗教题目：以自足无待者论上帝；对本体论论证的批评；以及他本人早期关于上帝存在的论证。
+  - id: 36
+    kind: body
+    source: |-
+      #### 2.2.1 God as the all-sufficient (*allgenugsam*) being
+    step1: |-
+      #### 2.2.1. 上帝作为自足无待（*allgenugsam*）的存在者
+    step2: |-
+      #### 2.2.1 上帝作为自足无待（*allgenugsam*）的存在者
+  - id: 37
+    kind: body
+    source: |-
+      As noted above, this idea first makes its appearance in Kant’s early notes. Kant does not attempt to justify the concept, but instead uses it in order to argue that the view that evil has its source in restrictions placed on the divine will by the truths of the divine intellect—a view he attributed to Leibniz—is incomprehensible. The primary significance of divine all-sufficiency here is that it means that there can be no necessity prior to the divine will. Since Leibniz and Wolff identified truths in the divine intellect with the natures or essences of things, as well as with their inner possibility, all-sufficiency for Kant also means that these too must be dependent on, or at least supremely consistent with, the plan of the divine will. In *Universal Natural History*, Kant argues from the perfect order of the physical universe to the existence of an all-sufficient being, asking whether it does
+    step1: |-
+      如上所述，这一观念最早见于康德的早期札记。康德并未试图证成这一概念，而是用它来论证：那种认为恶源于神圣理智的真理对神圣意志所加限制的观点——他归于莱布尼茨——是不可理解的。此处神圣自足无待的首要意义在于：它意味着神圣意志之前不可能有任何必然性。由于莱布尼茨与沃尔夫把神圣理智中的真理等同于事物的本性或本质、等同于其内在可能性，对康德来说，自足无待也就意味着这些也必须依赖于神圣意志的计划，或至少与之最高度地相一致。在《宇宙通史》中，康德从物理宇宙的完善秩序论证一个自足无待存在者的存在，追问它是否
+    step2: |-
+      如前所述，这一观念首见于康德的早期札记。康德未去证成这一概念，而是借它论证一种观点不可理解：恶源于神圣理智之真理对神圣意志所加的限制——他把这观点归给莱布尼茨。此处“神圣自足无待”的首要含义是：神圣意志之前不能有任何必然性。莱布尼茨与沃尔夫把神圣理智中的真理等同于事物的本性或本质、即其内在可能性；故对康德而言，自足无待也意味着这些同样须依赖神圣意志的计划，或至少与之最相契合。康德在《宇宙通史》中由物理宇宙的完善秩序推出一个自足无待者的存在，问道：这难道
+  - id: 38
+    kind: body
+    source: |-
+      > not provide an undeniable proof of their [i.e., all physical things] common first origin, which must be an all-sufficient highest mind in which the natures of things were designed in accordance with unified purposes? (AK 1:228–229 [1755b])
+    step1: |-
+      > 不是提供了它们［即一切物理事物］共同的最初起源之不可否认的证明吗？那起源必定是一个自足无待的最高心智，事物的本性在其中按统一的目的是被设计的。（AK 1:228–229 [1755b]）
+    step2: |-
+      > 不正是它们［一切物理事物］共有最初起源的不可否认之证吗？那个起源必是一个自足无待的最高心智，事物之本性在其中依统一的目的而被设计。（AK 1:228–229 [1755b]）
+  - id: 39
+    kind: body
+    source: |-
+      For Kant this means that the divine will not only orders what is contingent in nature—a view held equally by Leibniz and Wolff—but also that it brings about order and perfection through being the ground of the inner possibilities of all things (i.e., their natures or essences), indeed even through the most basic or “necessary” laws of matter (see AK 2:151–154 [1763b]).
+    step1: |-
+      对康德来说，这意味着神圣意志不仅安排自然中偶然的东西——莱布尼茨与沃尔夫同样持此观点——而且它通过作为一切事物内在可能性（即其本性或本质）的根据，甚至通过物质最基本或“必然的”法则，带来秩序与完善（见 AK 2:151–154 [1763b]）。
+    step2: |-
+      在康德看来，这意味着神圣意志固然安排自然中的偶然之物（莱布尼茨与沃尔夫也这么看），它更以一切事物内在可能性（即其本性或本质）之根据的身份，乃至凭物质最基本或“必然”的法则，成就秩序与完善（见 AK 2:151–154 [1763b]）。
+  - id: 40
+    kind: body
+    source: |-
+      In *The Only Possible Argument*, Kant claims that the thought of God as the all-sufficient is “of all thoughts the most sublime, [but] is still widely neglected, and mostly not considered at all” (AK 2:151), and declares that if
+    step1: |-
+      在《唯一可能的论证根据》中，康德主张，把上帝设想为自足无待者的思想“是一切思想中最崇高的，［但］仍被广泛忽视，多半根本未被考虑”（AK 2:151），并宣称，若它
+    step2: |-
+      康德在《唯一可能的论证根据》里说，把上帝设想为自足无待者这一思想“乃一切思想中最崇高者，［然而］至今广遭冷落，多半根本未被理会”（AK 2:151）；他又宣称，这一思想若
+  - id: 41
+    kind: body
+    source: |-
+      > expanded to include all that is possible or real, is a far more appropriate expression for designating the supreme perfection of the Divine Being than the concept of the infinite, which is commonly employed. (AK 2:154)
+    step1: |-
+      > 扩展至包含一切可能或现实的东西，就是标示神圣存在者之至高完善的一个远比通常所用无限概念更为恰当的表达。（AK 2:154）
+    step2: |-
+      > 扩及一切可能者与现实者，则用以标示神圣存在者之至高完善，远比惯用的“无限”概念更为贴切。（AK 2:154）
+  - id: 42
+    kind: body
+    source: |-
+      #### 2.2.2 Rejection of the ontological argument
+    step1: |-
+      #### 2.2.2. 对本体论论证的拒斥
+    step2: |-
+      #### 2.2.2 对本体论论证的拒斥
+  - id: 43
+    kind: body
+    source: |-
+      In connection with section 3.1.2.1 below, it is important to note that Kant rejects the Ontological Argument in both the *New Elucidation* and in *The Only Possible Argument*, though for different reasons in each case. In the former, Kant employs a version of the objection formulated by Johannes Caterus (1590–1655) in his response to Descartes’ *Meditations* (AK 1:395 [1755a]). In essence, the objection is that although the Ontological Argument proves that the concept of existence is necessarily contained in the concept of God, this is only an ideal connection among concepts. For the argument to work, then, one would first have to have already shown that the concept of God is the concept of something actual. By the time of *The Only Possible Argument*, however, Kant seems to no longer accept this criticism. Instead, he mainly rejects the argument based upon his analysis of the concept of existence, which purportedly shows that it is not a real predicate (AK 2:72–77, AK 2:156–157 [1763b]). The positive theological idea underlying this claim seems to be one not uncommon in previous Christian theology, namely, that God’s existence is the prior ground of the reality of all our concepts, including that of God himself, and so it would be viciously circular to attempt to prove the former by appeal to the latter. Kant’s preferred pre-Critical reason for rejecting the Ontological Argument is thus similar but not identical to the Critical position discussed below in section 3.1.2.1. Nevertheless, at this time Kant also articulates a version of the objection used by Gaunilo of Marmoutiers (eleventh century) in response to Anselm of Canterbury (1033–1109) (AK 2:156–157 [1763b]).
+    step1: |-
+      结合下文 3.1.2.1 节，有一点很重要：康德在《新阐明》与《唯一可能的论证根据》中都拒绝本体论论证，尽管两处理由不同。在前者中，康德采用约翰内斯·卡特尔（1590–1655）在回应笛卡尔《沉思集》时提出的那种反对意见的版本（AK 1:395 [1755a]）。本质上，这一反对意见是说：尽管本体论论证证明了存在概念必然包含在上帝概念之中，但这只是概念之间的观念性联系。因此，论证若要成立，人们首先必须已经表明上帝概念是某个现实之物的概念。然而到《唯一可能的论证根据》时，康德似乎不再接受这一批评。相反，他主要基于对存在概念的分析来拒绝该论证——该分析意在表明存在不是一个实在谓词（AK 2:72–77, AK 2:156–157 [1763b]）。这一主张背后的肯定性神学观念，似乎在先前的基督教神学中并不罕见，即：上帝的存在是我们一切概念（包括上帝自身概念）之实在性的先在根据，因此诉诸后者来证明前者会陷于恶性循环。所以，康德前批判时期拒绝本体论论证的首选理由，与下文 3.1.2.1 节所讨论的批判时期立场相似而不相同。不过，在这一时期，康德还表述了马尔穆捷的戈尼罗（11 世纪）回应坎特伯雷的安瑟伦（1033–1109）时所用反对意见的一个版本（AK 2:156–157 [1763b]）。
+    step2: |-
+      与下文 3.1.2.1 节相关，须注意：康德在《新阐明》与《唯一可能的论证根据》中都否弃本体论论证，只是两处理由不同。前书中，他搬用约翰内斯·卡特尔（1590–1655）回应笛卡尔《沉思集》时提出的反对意见之一个版本（AK 1:395 [1755a]）。其要旨是：本体论论证虽证明了存在概念必然含于上帝概念，但这只是概念间的观念性关联。要使论证成立，人首先须已证明上帝概念是某一现实之物的概念。而到《唯一可能的论证根据》时，康德似已不再接受这一批评。他改而主要依据对存在概念的分析来否弃该论证——该分析意在表明存在并非实在谓词（AK 2:72–77, AK 2:156–157 [1763b]）。此说背后的肯定性神学观念，在先前的基督教神学中并不罕见：上帝的存在是我们一切概念（连同上帝自身概念）之实在性的先在根据，故借后者证明前者乃是恶性循环。可见康德前批判期否弃本体论论证的首选理由，与下文 3.1.2.1 节的批判期立场相近而不相同。不过此时他也表述了马尔穆捷的戈尼罗（11 世纪）驳坎特伯雷的安瑟伦（1033–1109）之反对意见的一个版本（AK 2:156–157 [1763b]）。
+  - id: 44
+    kind: body
+    source: |-
+      #### 2.2.3 Kant’s own argument for God’s existence
+    step1: |-
+      #### 2.2.3. 康德本人关于上帝存在的论证
+    step2: |-
+      #### 2.2.3 康德本人关于上帝存在的论证
+  - id: 45
+    kind: body
+    source: |-
+      Kant’s own argument for God’s existence is closely connected to his conception of God as all-sufficient and the ground of all real possibility. In the *New Elucidation*, the argument is extremely brief with its core consisting in the claim that “nothing can be conceived as possible unless whatever is real in every possible concept exists and indeed exists absolutely necessarily”; “for if this be denied, nothing at all would be possible; in other words, there would be nothing but the impossible” (AK 1:395). A very similar argument features later in *The Only Possible Argument* where it is presented in much greater detail. Here again the central idea is that possibility, as the real thinkable content in any concept, presupposes something actual, and so there is a being which, if it did not exist, then nothing would be possible; but such a being is absolutely necessary (AK 2:83).
+    step1: |-
+      康德本人关于上帝存在的论证，与他把上帝设想为自足无待者、一切实在可能性之根据的构想密切相关。在《新阐明》中，这一论证极其简短，其核心在于这一主张：“除非每个可能概念中凡实在者都现实存在、且确实绝对必然地存在，否则没有任何东西能被设想为可能”；“因为若否认这一点，就根本没有任何东西可能；换言之，除了不可能者之外，将一无所有”（AK 1:395）。一个极为类似的论证后来出现在《唯一可能的论证根据》中，并以远为详尽的方式呈现。此处核心观念同样是：可能性作为任何概念中实在的可思内容，预设了某种现实的东西；因此存在这样一个存在者，若它不存在，则没有任何东西可能；而这样的存在者是绝对必然的（AK 2:83）。
+    step2: |-
+      康德自己的上帝存在论证，与他“上帝即自足无待者、一切实在可能性之根据”的构想紧密相连。《新阐明》中此论证极简，核心只有一句：“除非每个可能概念中的实在者皆现实存在，且确系绝对必然地存在，否则无物可被设想为可能”；“因为一旦否认这点，便根本无物可能；换句话说，除不可能者外一无所有”（AK 1:395）。后来《唯一可能的论证根据》中有一极相似的论证，铺陈远为详尽。其中心观念仍是：可能性作为概念中实在的可思内容，必预设某种现实之物；于是有这样一个存在者，倘若它不存在，则无物可能；而这样的存在者便是绝对必然的（AK 2:83）。
+  - id: 46
+    kind: body
+    source: |-
+      #### 2.2.4 Derivation of the divine properties
+    step1: |-
+      #### 2.2.4. 神圣属性的推导
+    step2: |-
+      #### 2.2.4 神圣属性的推导
+  - id: 47
+    kind: body
+    source: |-
+      In both the *New Elucidation* and in *The Only Possible Argument*, though more fully, Kant immediately proceeds to derive from the above proof the further properties of what is absolutely necessary. This ground of all possibility must be found in one being, which is unique, simple, immutable and eternal, containing supreme reality, and hence possessing both intellect and will. Consistent with his criticism of Leibniz mentioned in section 2.2.1, Kant rejects both theological voluntarism and intellectualism, arguing that neither God’s intellect nor will takes precedence over and so limits the other, but instead they must stand in absolute harmony. For this reason, “the possibilities of things themselves, which are given through the divine nature, harmonise with his great desire” so that “unity, harmony and order are themselves to be found in the possibilities of things” (AK 2:91–92 [1763b]).
+    step1: |-
+      在《新阐明》与《唯一可能的论证根据》中（后者更为充分），康德随即从上述证明推导出绝对必然者的其他属性。这一一切可能性的根据必须见于一个存在者，它唯一、单纯、不变而永恒，包含至高实在，因而兼具理智与意志。与他 2.2.1 节提到的对莱布尼茨的批评相一致，康德既拒绝神学意志主义，也拒绝神学理智主义，主张上帝的理智与意志都不优先于、因而限制另一方，而是必须处于绝对和谐之中。因此，“事物自身的可能性，既然通过神性而被给予，就与他的伟大愿望相和谐”，以致“统一、和谐与秩序本身就见于事物的可能性之中”（AK 2:91–92 [1763b]）。
+    step2: |-
+      在《新阐明》与《唯一可能的论证根据》中（后者更充分），康德紧接着由上述证明推出绝对必然者的其他属性。这一一切可能性的根据必落在唯一、单纯、不变而永恒的一个存在者身上；它包含至高实在，因而兼具理智与意志。与他 2.2.1 节对莱布尼茨的批评一致，康德既否弃神学意志主义，也否弃神学理智主义：上帝的理智与意志谁也不优先于、谁也不限制谁，二者必处于绝对和谐。正因如此，“事物自身的可能性既由神性所给，便与他的伟大意愿相和谐”，以致“统一、和谐与秩序本身就寓于事物的可能性之中”（AK 2:91–92 [1763b]）。
+  - id: 48
+    kind: body
+    source: |-
+      ## 3. Kant’s Philosophy of Religion during the Critical Period
+    step1: |-
+      ## 3. 批判时期的宗教哲学
+    step2: |-
+      ## 3 批判时期的宗教哲学
+  - id: 49
+    kind: body
+    source: |-
+      With the introduction of Transcendental Idealism’s epistemic strictures, Kant came to the conclusion that religion must fall outside the scope of theoretical reason. However, instead of atheism or agnosticism, Kant advanced a novel philosophical theology that grounds religion on the “needs” of practical reason. In the B-Preface to the *Critique of Pure Reason*, he in fact intimates that his interest in religion is part of what motivated Transcendental Idealism. That is, as quoted earlier, Kant sought to establish the limits of knowledge “in order to make room for faith” (Bxxx). Such a faith has its source in the needs of pure practical reason (AK 8:137 [1785a], AK 5:142 [1788], AK 6:139 [1793]), and it is through these needs that Kant maintains that we can extend our cognition for practical purposes, allowing us to form a warranted conception of God and the afterlife in the service of the highest good (A814/B843–A819/B847). Kant coins the term “pure rational faith” (AK 8:142) in *What does it mean to Orient oneself in Thinking* (1785a) and later uses this term as well as the “pure philosophical doctrine of religion” (AK 6:10 [1793]), “pure religion of reason” (AK 6:12), “pure rational system of religion” (AK 6:12) and simply “pure rationalism” to refer to his positive philosophy of religion. Note, however, that Kant always intends by these terms specifically *practical* rather than theoretical reason, as the “needs” which serve as the basis for faith pertain to our practical, moral lives.
+    step1: |-
+      随着先验观念论的认识论限制被引入，康德得出结论：宗教必定落在理论理性的范围之外。然而，康德并未走向无神论或不可知论，而是提出一种新颖的哲学神学，把宗教奠基于实践理性的“需要”之上。在《纯粹理性批判》B 版序言中，他实际上暗示，他对宗教的兴趣是促使他提出先验观念论的动因之一。也就是说，如前所引，康德力图划定知识的界限，“以便为信仰腾出地盘”（Bxxx）。这样的信仰源自纯粹实践理性的需要（AK 8:137 [1785a], AK 5:142 [1788], AK 6:139 [1793]），而正是通过这些需要，康德主张我们可以为实践目的扩展认识，使我们能够为至善服务而形成一个有正当根据的上帝概念与来世概念（A814/B843–A819/B847）。康德在《在思想中确定方向意味着什么》（1785a）中铸造了“纯粹理性信仰”一词（AK 8:142），后来用这个词以及“纯粹哲学宗教学说”（AK 6:10 [1793]）、“纯粹理性宗教”（AK 6:12）、“纯粹理性的宗教体系”（AK 6:12）乃至“纯粹理性主义”，来指称他肯定性的宗教哲学。然而须注意，康德用这些词时始终特指*实践的*而非理论的理性，因为作为信仰基础的“需要”关乎我们的实践道德生活。
+    step2: |-
+      先验观念论的认识论禁限一旦引入，康德便断定宗教必落在理论理性之外。但他没有走向无神论或不可知论，而是提出一种新的哲学神学，把宗教奠基于实践理性的“需要”。在《纯粹理性批判》B 版序言里，他甚至暗示：对宗教的关切正是促使他提出先验观念论的动因之一——如前所引，他要划定知识的界限，“以便为信仰腾出地盘”（Bxxx）。这种信仰源于纯粹实践理性的需要（AK 8:137 [1785a]、AK 5:142 [1788]、AK 6:139 [1793]）；康德主张，正因这些需要，我们能为实践目的扩展认识，从而为至善之故形成有正当根据的上帝概念与来世概念（A814/B843–A819/B847）。他在《在思想中确定方向意味着什么》（1785a）里造出“纯粹理性信仰”一词（AK 8:142），后来又以该词及“纯粹哲学宗教学说”（AK 6:10 [1793]）、“纯粹理性宗教”（AK 6:12）、“纯粹理性的宗教体系”（AK 6:12）、乃至“纯粹理性主义”来指称其肯定性的宗教哲学。须注意：这些词在康德笔下始终特指*实践的*理性而非理论理性，因为充当信仰基础的“需要”关乎我们的实践道德生活。
+  - id: 50
+    kind: body
+    source: |-
+      We will now begin with a discussion of Kant’s critique of the traditional proofs for God’s existence before moving on to the positive side of his philosophy of religion. Although the fame of this critique has been taken as indicative of his philosophy of religion as a whole, it is instead representative of his distinction in the Critical period between the illicit attempts at a positive philosophy of religion driven by theoretical reason and a philosophy of religion that has its ground in practical philosophy.
+    step1: |-
+      我们现在先讨论康德对上帝存在传统证明的批评，然后再转向他宗教哲学的肯定面。尽管这项批评的声名一直被当作他整个宗教哲学的标志，它其实代表的是他在批判时期所作的区分：一边是由理论理性驱动的、对肯定性宗教哲学的非法尝试，一边是奠基于实践哲学的宗教哲学。
+    step2: |-
+      下面先谈康德对上帝存在传统证明的批评，再转入其宗教哲学的肯定面。这项批评声名太盛，常被当作他宗教哲学的全貌；其实它只体现批判期的一条区分：一边是理论理性驱动的肯定性宗教哲学的僭越尝试，一边是以实践哲学为根基的宗教哲学。
+  - id: 51
+    kind: body
+    source: |-
+      ### 3.1 God in the *Critique of Pure Reason’s* Transcendental Dialectic
+    step1: |-
+      ### 3.1. 《纯粹理性批判》先验辩证论中的上帝
+    step2: |-
+      ### 3.1 《纯粹理性批判》先验辩证论中的上帝
+  - id: 52
+    kind: body
+    source: |-
+      The Transcendental Dialectic’s “Ideal of Reason” contains the best-known and most frequently anthologized components of Kant’s philosophy of religion. In addition to its portrayal of the *ens realissimum*, one finds within it Kant’s objections to the Ontological, Cosmological and Physico-Theological (Design) arguments. It is thus the text most central to the negative elements of Kant’s philosophy of religion and is integral to the widely held view that Kant is hostile to religion.
+    step1: |-
+      先验辩证论的“理性的理想”包含康德宗教哲学中最著名、最常被编入选文的成分。除了对*ens realissimum*（最实在的存在者）的刻画，其中还能看到康德对本体论论证、宇宙论论证与物理学—神学（设计）论证的反对。因此，这部分是康德宗教哲学否定性要素最核心的文本，也是“康德敌视宗教”这一流行看法不可或缺的依据。
+    step2: |-
+      先验辩证论的“理性的理想”一节，汇集了康德宗教哲学中最著名、最常入选集的段落。除对*ens realissimum*（最实在的存在者）的描绘外，还可见他对本体论论证、宇宙论论证和物理学—神学（设计）论证的驳难。因此这一文本是康德宗教哲学否定面的中枢，也是“康德敌视宗教”这一流行成见的支柱。
+  - id: 53
+    kind: body
+    source: |-
+      #### 3.1.1 The *Ens Realissimum*
+    step1: |-
+      #### 3.1.1. *Ens Realissimum*
+    step2: |-
+      #### 3.1.1 *Ens Realissimum*
+  - id: 54
+    kind: body
+    source: |-
+      Kant maintains that underlying all the traditional proofs for God’s existence is the concept of the *ens realissimum*, the most real being. Reason comes to the idea of this being through the principle that every individuated object is subject to the “principle of *complete* determination”. The generality of ordinary concepts, as representations, is due to their being less than fully determined (e.g., our concept of a horse extends over horses that are different colors, heights, etc.), and so the idea of an existing, individuated object is that of a completely determined being (e.g., an individual horse must have specific colors, a specific height, etc.).
+    step1: |-
+      康德主张，一切上帝存在的传统证明背后，都是*ens realissimum*、即最实在的存在者的概念。理性通过这样一条原则达到这一存在者的理念：每个个体化对象都服从“*完全*规定原则”。普通概念作为表象之所以具有一般性，是因为它们未获完全规定（例如，我们的马概念涵盖颜色、高度等各不相同的马），所以一个存在着的、个体化的对象之理念，就是一个完全被规定的存在者之理念（例如，某一匹个别的马必须有特定的颜色、特定的高度等等）。
+    step2: |-
+      康德认为，一切上帝存在的传统证明底下都藏着*ens realissimum*（最实在的存在者）这一概念。理性凭一条原则抵达这一存在者的理念：每个个体化对象都服从“*完全*规定原则”。普通概念既然是表象，其一般性便来自规定之不完全（例如我们的“马”概念统摄毛色、高矮各异的马）；因此，一个存在着的个体化对象之理念，即一个完全被规定的存在者之理念（例如某一匹个别的马必有特定的毛色、特定的高度等）。
+  - id: 55
+    kind: body
+    source: |-
+      However, due to the relational character of human sensibility, the determinations of empirical objects are in principle infinite. Consequently, the concept we have of such an object at any given moment will always be understood by us as an incomplete representation of the already completely determined, real concept or essence in the thing itself. The latter concept, as that designating something intrinsically unique, is what Kant refers to as an “ideal” and, in most instances, such is used by us regulatively as an archetype guiding reflection. Now, the predicates in all such beings must be regarded by us as real, if we are to regard any of the determinations thought by us as in these things as meaningful and as true of them. For example, if it is true that “this lump of lead is hot,” then presumably my concept of heat must correspond to a real predicate inhering in the lead itself independently of my representation of it. But, following an old metaphysical line of thought, all realities, whether found in actual things or even just in really possible ones, are limited and presuppose, as a condition of their very possibility, the existence of a corresponding infinite or pure reality of the same type, an *ens realissimum* or most real being. It is in this way, according to Kant, that reason arrives at a new idea, one which “crowns the whole of human cognition” (A641/B669), namely, that of a being whose predicates are just the infinite realities that provide the grounds of the reality of all finite realities in all possible finite things. Moreover, since it can be shown that the assumption of two or more beings of such a kind contradicts the very idea of an *ens realissimum,* this idea is also properly entitled the sole ideal of pure reason.
+    step1: |-
+      然而，由于人类感性的关系性品格，经验对象的规定原则上是无限的。因此，我们在任何给定时刻关于这样一个对象的概念，总会被我们理解为对事物自身中那个已被完全规定的、实在的概念或本质的不完整表象。后一个概念作为标示某种内在地独一无二之物的概念，就是康德所谓“理想”；在多数情形中，我们调节性地使用它，作为引导反思的原型。现在，一切这类存在者中的谓词都必须被我们视为实在的，如果我们要把我们所思的任何规定视为在这些事物中是有意义且对它们为真的话。例如，若“这块铅是热的”为真，那么想必我关于热的概念必定对应于一个内在于铅本身、独立于我对它的表象的实在谓词。但依照一条古老的形而上学思路，一切实在性，无论在现实事物中、还是仅在实在可能的事物中被发现，都是有限的，并且作为其可能性的条件预设着同类型的某个相应的无限或纯粹实在性的存在，即一个*ens realissimum*或最实在的存在者。按康德，理性正是以这种方式到达一个新的理念，一个“为全部人类认识加冕”（A641/B669）的理念，即：一个存在者的理念，其谓词正就是那些为一切可能有限事物中一切有限实在性之实在性提供根据的无限实在性。此外，既然可以表明，假定两个或更多此类存在者与*ens realissimum*这一理念本身相矛盾，那么这个理念也就有理由被称为纯粹理性的唯一理想。
+    step2: |-
+      然而，人类感性有其关系性品格，经验对象的规定便在原则上无穷。于是，我们在任一时刻关于这类对象的概念，总被理解成对事物自身中那个已被完全规定的实在概念或本质的不完整表象。后一概念标示着某种内在地独一无二者，康德称之为“理想”；多数场合我们调节性地使用它，当作引导反思的原型。既如此，凡这类存在者中的谓词，若我们要把自己所思的任一规定视为在它们之中有意义、且对它们为真，就必须当作实在的。比如，“这块铅是热的”若为真，则我关于热的概念想必对应着一个内在于铅本身、不依我对它的表象而立的实在谓词。可是，依一条古老的形而上学思路，一切实在性——无论在现实事物中，还是仅在实在可能的事物中——都是有限的，并且作为其可能性的条件，预设着同类型的一个相应无限或纯粹实在性之存在，即*ens realissimum*或最实在的存在者。康德认为，理性正是由此抵达一个新理念，一个“为全部人类认识加冕”（A641/B669）的理念：有一个存在者，其谓词恰是那些无限实在性，而它们为一切可能有限事物中的一切有限实在性提供根据。再者，既然能证明设定两个或更多此类存在者与*ens realissimum*之理念本身相违，这一理念也理当称为纯粹理性的唯一理想。
+  - id: 56
+    kind: body
+    source: |-
+      The *ens realissimum* is thus the concept of an individual object that is completely determined in reason’s very concept of it. In arriving at this ideal, reason does not yet violate any of the standards Kant sets out within Transcendental Idealism, for here reason is merely applying the formal principle of complete determination to the thought of possible real predicates and constructing an idea (or more precisely, an ideal) of the ultimate ground of their reality. This construction can then be entertained by the intellect as a “faultless ideal” (A641/B669) and indeed serves it necessarily and positively as a regulative principle under certain critical restrictions. However, by itself, it is “a mere fiction, through which we encompass and realize the manifold of our idea in an ideal, as a particular being”, a move for which “we have no warrant, not even for directly assuming the possibility of such a hypothesis” (A580/B608). As with other transcendental errors, the traditional error behind the proof of the existence of such a being lies in the subreptive conflation of a subjective principle generated by our intellects and of genuine, though only regulative, use within the bounds of experience, with one that proves an objective, real being not constructed in thought, but discovered through thought and of absolute significance. In this case, one conflates the totality of the possible predicates of *empirical*things, which does indeed presuppose a collective physical ground of its empirical reality, with the largely empty idea of a totality of all possible predicates of things *as such,* and then concludes from the latter to the necessary existence of a ground of all reality as such. An error of this sort underlies, for instance, Spinoza’s illegitimate use of the concept of substance and similar mistakes found in monistic metaphysics.
+    step1: |-
+      所以，*ens realissimum* 是一个在理性关于它的概念本身中就被完全规定的个体对象之概念。在到达这一理想时，理性尚未违反康德在先验观念论中设定的任何标准，因为此处理性只是把完全规定的形式原则应用于可能实在谓词之思，并构造一个关于其实在性之终极根据的理念（更确切地说，理想）。这一构造随后可被知性当作一个“无瑕的理想”（A641/B669）来容纳，并且确实在某些批判性限制下必然且正面地作为调节性原则服务于知性。然而，就其本身而言，它是“一个单纯的虚构，我们借此把我们的理念之杂多统摄并实现在一个理想中，当作一个特殊的存在者”——对于这一步，“我们没有任何根据，甚至没有根据直接假定这样一种假设的可能性”（A580/B608）。与其他先验错误一样，证明这样一个存在者之存在的传统错误，在于暗中偷换：把由我们知性产生的主观原则、以及它在经验界限内虽仅调节性却真实的运用，偷换成一种证明客观、实在的、非由思想构造、而是通过思想被发现且具有绝对意义的存在者的运用。在此情形下，人们把*经验*事物之可能谓词的总体——它确实预设其经验实在性的一个集合性物理根据——同事物*本身*之一切可能谓词总体这个多半空洞的理念混为一谈，然后从后者推出一切实在性本身之根据的必然存在。例如，斯宾诺莎对实体概念的非法使用，以及一元论形而上学中的类似错误，都基于这类错误。
+    step2: |-
+      可见，*ens realissimum* 是一个在理性关于它的概念中即已被完全规定的个体对象之概念。理性抵达这一理想时，尚未触犯康德在先验观念论中立的任何规矩：它只是把完全规定的形式原则施于可能实在谓词之思，并构造出一个关于其实在性终极根据的理念（更确切说，理想）。这一构造随后可被知性作为“无瑕的理想”（A641/B669）来把玩，也确能在某些批判性限制下必然地、正面地充当调节性原则。但就其自身而言，它是“一个单纯的虚构，我们借此把理念之杂多统摄并实现在一个理想里，当作一个特殊的存在者”——而这一步“我们毫无根据，连直接假定这样一种假设之可能性的根据也没有”（A580/B608）。同其他先验错误一样，证明此类存在者之存在的传统之误，在于暗中的偷换：把知性所生的主观原则（以及它在经验界限内虽仅调节性却真实的运用），偷换成一个证明客观实在、非思想所构而由思想发现、且具绝对意义的存在者之运用。在这类情形中，人们把*经验*事物之可能谓词的总体——它确实预设了一个集合性的物理根据——同事物*本身*之一切可能谓词的总体这个多半空洞的理念混为一谈，再由后者推出一切实在性本身之根据的必然存在。斯宾诺莎对实体概念的僭用，以及一元论形而上学中的类似失误，便基于此类错误。
+  - id: 57
+    kind: body
+    source: |-
+      Hence, altought the idea of an *ens realissimum* is a legitimate and indeed necessary idea of reason, and in fact underlies our well-grounded concept of a collection of all empirical reality, without transcendental criticism it leads us to believe that it is possible to prove, theoretically, the existence of such an *ens realissimum* as a ground of complete, real determination of all possible finite things. As we will see below, the same concept then also gets combined with further confusions of reason to convince us that it analytically contains the assertion of its own existence and that it is the concept of a necessarily existing being.
+    step1: |-
+      因此，尽管*ens realissimum* 的理念是理性一个正当且确实必要的理念，而且实际上是我们关于一切经验实在性之集合的、有充分根据的概念的基础，若无先验批判，它就会使我相信：理论上可以证明这样一个*ens realissimum* 作为一切可能有限事物之完全实在规定的根据而存在。如下文所见，这同一个概念随后还会与理性的进一步混淆结合，使我相信它分析地包含对自身存在的断言，并且它是一个必然存在者的概念。
+    step2: |-
+      所以，*ens realissimum* 的理念虽是理性正当而必要的理念，且实际上支撑着我们那个有充分根据的“一切经验实在性之集合”的概念，但若无先验批判，它便会诱使我们相信：在理论上能证明这样一个*ens realissimum* 作为一切可能有限事物之完全实在规定的根据而存在。下文将见，这同一概念又缠上理性的其他混淆，使我们相信它分析地包含对自身存在的断言，并且它是必然存在者的概念。
+  - id: 58
+    kind: body
+    source: |-
+      #### 3.1.2 Kant’s critique of the traditional arguments for God’s existence
+    step1: |-
+      #### 3.1.2. 康德对上帝存在传统论证的批评
+    step2: |-
+      #### 3.1.2 康德对上帝存在传统论证的批评
+  - id: 59
+    kind: body
+    source: |-
+      3.1.2.1 Ontological Argument
+    step1: |-
+      3.1.2.1 本体论论证
+    step2: |-
+      3.1.2.1 本体论论证
+  - id: 60
+    kind: body
+    source: |-
+      According to the Ontological Argument, the concept of the most real being contains the predicate of existence. Whatever it is that is this most real being, it must include all predicates that contribute to its greatness or reality; and given that actual existence is (allegedly) one such predicate, whatever it is that is the most real being is therefore a being who by definition must exist. Hence, if one were to compare two beings, both equally great in all respects except that one exists and one does not, the one that does not exist, by virtue of its non-existence, would lack a predicate that contributes to the greatness of the other. The correct conception of *that than which nothing greater can be conceived* must, therefore, include existence.
+    step1: |-
+      按本体论论证，最实在的存在者之概念包含存在这一谓词。无论这个最实在的存在者是什么，它都必须包含一切有助于其伟大或实在性的谓词；而既然现实存在（据称）就是这样一个谓词，那么无论这个最实在的存在者是什么，它因此都是一个按定义必须存在的存在者。于是，若比较两个存在者，它们在一切方面同样伟大，只是一个存在、一个不存在，那么不存在者凭其不存在就缺少了使另一个伟大的一个谓词。因此，“无与伦比之伟大者”的正确概念必须包含存在。
+    step2: |-
+      依本体论论证，最实在的存在者之概念含有存在这一谓词。这个最实在的存在者无论是什么，都须包含一切助成其伟大或实在性的谓词；而现实存在（据说）正是这样一个谓词，故最实在的存在者无论是什么，都是按定义必然存在者。若拿两个存在者相比，二者在各方面同样伟大，只一个存在、一个不存在，那么不存在者因不存在而缺少了使另一个伟大的某一谓词。所以，“无物能设想为比之更伟大者”的正解必包含存在。
+  - id: 61
+    kind: body
+    source: |-
+      The *Critique of Pure Reason* contains four distinct objections to the Ontological Argument. The first two of these follow what may be thought of as the standard assumption by the proponents of this argument that “God exists” is to be treated as an analytic judgment (A594/B622–A597/B625). Though rarely mentioned in the literature, these arguments are salient to the common objection that Kant’s critique of the Ontological Argument doesn’t impact the Anselmian version (Plantinga 1966, Forgie 1975)[^forgie-1975][^plantinga-1966].
+    step1: |-
+      《纯粹理性批判》包含对本体论论证的四个不同反对。其中前两个依循该论证支持者大概会作的标准假定：“上帝存在”应被当作分析判断来处理（A594/B622–A597/B625）。尽管文献中罕见提及，这些论证对于“康德对本体论论证的批评不触及安瑟伦版本”这一常见反对颇为要紧（Plantinga 1966, Forgie 1975）[^forgie-1975][^plantinga-1966]。
+    step2: |-
+      《纯粹理性批判》对本体论论证有四个不同的驳难。前两个追随该论证拥护者大概都会接受的标准假定：把“上帝存在”当作分析判断（A594/B622–A597/B625）。这两条在文献中少见称引，却恰好回应一种流行的反驳——说康德的批评打不到安瑟伦的版本（Plantinga 1966, Forgie 1975）[^forgie-1975][^plantinga-1966]。
+  - id: 62
+    kind: body
+    source: |-
+      The second two objections arise as a result of the defeat of the analytic rendering and turn to a reading of “God exists” as synthetic (A597/B625–A602/B630). By far, the most famous of these objections is that existence is not a predicate. What, however, Kant means by “predicate” requires some examination.
+    step1: |-
+      后两个反对产生于分析式解读被击败之后，转而把“上帝存在”读作综合的（A597/B625–A602/B630）。其中最著名的无疑是“存在不是谓词”。然而，康德所谓“谓词”是什么意思，还需一番考察。
+    step2: |-
+      后两个驳难出现在分析式读法被驳倒之后，转而把“上帝存在”读作综合判断（A597/B625–A602/B630）。其中声名最盛者无疑是：存在不是谓词。但康德说的“谓词”究竟何意，尚须推敲。
+  - id: 63
+    kind: body
+    source: |-
+      Of key significance here is Kant’s distinction between “logical” versus “real” predicates. The former is best understood as a syntactic notion, that is, as the second term, along with the subject term, of a complete and well-formed proposition. A real predicate, by contrast, is distinguished by its semantic function. As Kant describes it, a real predicate “goes beyond the concept of the subject and enlarges it” (A598/B626). Hence, logical and real predicates involve two different orders of analysis, one syntactic, one semantic. They are neither mutually exclusive (Abaci 2008)[^abaci-2008] nor exhaustive (Pasternack 2018)[^pasternack-2018]. They instead distinguish between two different roles that one and the same term can play.
+    step1: |-
+      此处关键在于康德对“逻辑的”谓词与“实在的”谓词的区分。前者最好理解为一种句法概念，即一个完整且良构的命题中与主词项并列的第二项。相反，实在谓词以语义功能见别。如康德所描述，实在谓词“超出主词概念并使之扩大”（A598/B626）。因此，逻辑谓词与实在谓词涉及两种不同的分析秩序，一句法、一语义。它们既不相互排斥（Abaci 2008）[^abaci-2008]，也不穷尽一切（Pasternack 2018）[^pasternack-2018]；毋宁说，它们区分了同一个词项可以扮演的两种不同角色。
+    step2: |-
+      关键在康德对“逻辑”谓词与“实在”谓词的分辨。前者宜看作句法概念，即一个完整良构命题中与主词项并列的第二项；后者则以语义功能为标志。按康德的描述，实在谓词“超出主词概念而扩大之”（A598/B626）。可见逻辑谓词与实在谓词分属两个分析层次，一为句法，一为语义。二者既非互斥（Abaci 2008）[^abaci-2008]，也不穷尽全部（Pasternack 2018）[^pasternack-2018]；它们标示的是同一词项可担当的两种不同角色。
+  - id: 64
+    kind: body
+    source: |-
+      To help Kant make his case that existence is not a real predicate, i.e., a predicate that “enlarges” the subject term, he appeals to the distinction between an actual and non-actual unit of currency, say one hundred dollars. Between the two, there is no difference in the concepts of each: existence adds nothing to the concept of one hundred dollars. So, when one claims that “one hundred dollars exist”, one is not picking out one of its predicates, part of the nature of a hundred dollars, but rather one is just “positing” (A598/B626) its existence. Likewise, to claim that “God exists” is merely to posit God’s existence. It is not a statement that attributes the property of “existence” to the subject of the term “God”.
+    step1: |-
+      为帮助康德论证存在不是实在谓词、即不“扩大”主词项的谓词，他诉诸一单位现实货币与一单位非现实货币之间的区分，比如一百美元。二者之间，各自概念并无差异：存在对一百美元的概念毫无增益。所以，当人们声称“一百美元存在”时，并不是在挑出它的某个谓词、即一百美元本性的一部分，而只是在“设定”（A598/B626）其存在。同样，声称“上帝存在”只是设定上帝的存在，并不是把“存在”这一属性赋予“上帝”一词之主词的陈述。
+    step2: |-
+      为助成“存在不是实在谓词、不‘扩大’主词项”之说，康德诉诸现实货币与非现实货币之别，比如一百美元。两者在概念上毫无差异：存在并不给一百美元的概念添上一分。故当人说“一百美元存在”时，并非挑出其某一谓词、即其本性的一部分，而只是“设定”（A598/B626）其存在。同样，“上帝存在”只是设定上帝的存在，并非把“存在”属性赋予“上帝”这一主词的陈述。
+  - id: 65
+    kind: body
+    source: |-
+      Underlying this analysis is Kant’s contention that existence does not add anything to the subject concept; for it if did, then, he contends, a hundred dollars actualized would be different from it as merely possible: “my concept would not express the entire object and thus would not be the suitable concept for it” (A599/B627). That is, the hundred dollars as possible would not be the same as what is actualized in the actual hundred dollars.
+    step1: |-
+      这一分析背后是康德的主张：存在不给主词概念增添任何东西；因为若它增添，他就会主张，现实化的一百美元将不同于仅属可能的一百美元：“我的概念就不会表达整个对象，因而也就不会是适合它的概念”（A599/B627）。也就是说，作为可能的一百美元，将与现实的一百美元中被现实化的东西不相同。
+    step2: |-
+      这番分析底下的主张是：存在不给主词概念增添任何东西。若它有所增添，康德说，现实化的一百美元便不同于仅属可能的一百美元：“我的概念就不会表达整个对象，因而也就不会是适合它的概念”（A599/B627）。换句话说，可能的一百美元与现实的一百美元中被现实化者，将不是一回事。
+  - id: 66
+    kind: body
+    source: |-
+      There are, unsurprisingly, many different interpretations as to what Kant means when he claims that existence does not “enlarge” or add to the subject term. Let us here consider three.
+    step1: |-
+      毫不意外，关于康德说存在不“扩大”或不增添主词项究竟何意，有许多不同解释。我们在此考察三种。
+    step2: |-
+      对康德“存在不‘扩大’、不增添主词项”一语的解释自然不少。这里看三种。
+  - id: 67
+    kind: body
+    source: |-
+      The first comes from James Van Cleve’s *Problems from Kant* (1999), where he offers an analysis of real predication that renders conceptual enlargement (i.e., a predicate that “goes beyond” its subject) in terms of logical non-entailment. He writes:
+    step1: |-
+      第一种来自詹姆斯·范·克莱夫的《康德的问题》（1999），他在其中提出一种实在谓述分析，把概念扩大（即谓词“超出”其主词）化归为逻辑非蕴含。他写道：
+    step2: |-
+      第一种见于詹姆斯·范·克莱夫的《康德的问题》（1999）。他分析实在谓述，把概念扩大（谓词“超出”主词）化归为逻辑上的不蕴含。他写道：
+  - id: 68
+    kind: body
+    source: |-
+      > A predicate *P* *enlarges* a concept $C =_{df} \Diamond \exists x (Cx \amp {\sim}Px)$.
+    step1: |-
+      > 谓词 *P* *扩大* 概念 $C =_{df} \Diamond \exists x (Cx \amp {\sim}Px)$。
+    step2: |-
+      > 谓词 *P* *扩大* 概念 $C =_{df} \Diamond \exists x (Cx \amp {\sim}Px)$。
+  - id: 69
+    kind: body
+    source: |-
+      If *C* = triangle and *P* = red, *P* would be, following this definition, a real predicate, since it is possible that there exists an *x* which is a triangle and is not red. By contrast, if *P* = three-sidedness, then we do not, by this definition, have a real predicate of *C*, since there are no triangles that are not three-sided. In other words, where *C* = triangle and *P* = three-sidedness, since $\forall x (Cx \supset Px)$, *P* fails to meet the test for conceptual enlargement of *C*. Likewise, existence will fail to meet the definition above since for any concept *C*, $\exists x (Cx \supset \langle\textrm{exists}\rangle x)$. That is, if there exists some *x* such that *x* is a *C*, then *x* exists. Hence, Van Cleve treats existence as not an enlarging concept since, per his analysis, he is “letting the existential quantifier express existence” (Van Cleve 1999: 188)[^van-1999].
+    step1: |-
+      若 *C* = 三角形而 *P* = 红，则按此定义，*P* 会是实在谓词，因为可能存在一个 *x*，它是三角形而非红。相反，若 *P* = 有三边，则按此定义，我们并没有 *C* 的实在谓词，因为不存在不是三边的三角形。换言之，当 *C* = 三角形而 *P* = 有三边时，由于 $\forall x (Cx \supset Px)$，*P* 未通过概念扩大之检验。同样，存在也将不符上述定义，因为对任何概念 *C* 都有 $\exists x (Cx \supset \langle\textrm{exists}\rangle x)$。也就是说，若存在某个 *x* 使得 *x* 是 *C*，则 *x* 存在。因此，范·克莱夫把存在视为非扩大性概念，因为按其分析，他“让存在量词表达存在”（Van Cleve 1999: 188）[^van-1999]。
+    step2: |-
+      设 *C* 为三角形、*P* 为红，则据上述定义，*P* 是实在谓词，因为可能存在某个 *x*，为三角形而不红。反之，若 *P* 为“有三边”，则据定义，它不算 *C* 的实在谓词，因为不存在非三边的三角形。也就是说，当 *C* 为三角形、*P* 为“有三边”时，由于 $\forall x (Cx \supset Px)$，*P* 通不过概念扩大之检验。存在亦然：对任一概念 *C*，皆有 $\exists x (Cx \supset \langle\textrm{exists}\rangle x)$。即：若有某个 *x* 是 *C*，则 *x* 存在。因此范·克莱夫判存在为非扩大性概念，因为按其分析，他“让存在量词来表存在”（Van Cleve 1999: 188）[^van-1999]。
+  - id: 70
+    kind: body
+    source: |-
+      Nick Stang follows Van Cleve in “letting the existential quantifier express existence” and further argues that Kant subscribes to an “actualism” whereby there are no non-existing objects (i.e., if unicorns do not exist, “unicorn” does not name an object, but rather references a string of predicates). As such, Stang asserts that since “*exists* applies to every object, it does not distinguish some objects from other objects” (Stang 2015: 599)[^stang-2015]. Notice, however, that Stang’s rationale for why existence is not a predicate is that it is actually a “predicate that applies to every object there is”. That is, Stang interprets existence as an internal mark of our concept of objecthood itself (Stang 2015: 599)[^stang-2015].
+    step1: |-
+      尼克·斯唐追随范·克莱夫“让存在量词表达存在”，并进一步论证康德持一种“现实主义”，即不存在非存在对象（例如，若独角兽不存在，“独角兽”并不命名一个对象，而是指涉一串谓词）。因此，斯唐断言：既然“*存在* 适用于每一个对象，它就不把某些对象与其他对象区别开来”（Stang 2015: 599）[^stang-2015]。然而请注意，斯唐关于存在为何不是谓词的理由，是它实际上是“一个适用于所存在一切对象的谓词”。也就是说，斯唐把存在解释为我们的对象性概念本身的一个内在标记（Stang 2015: 599）[^stang-2015]。
+    step2: |-
+      尼克·斯唐跟随范·克莱夫，“让存在量词来表存在”，并进而主张康德持“现实主义”：并无不存在的对象（若独角兽不存在，“独角兽”并不命名对象，只是指涉一串谓词）。于是斯唐断言：“*存在* 既适用于每一对象，便不能把某些对象与其他对象区别开”（Stang 2015: 599）[^stang-2015]。不过请注意，斯唐论证存在非谓词的理由，其实是它乃“适用于所存在之一切对象的谓词”——他把存在读作我们“对象性”概念本身的一个内在标记（Stang 2015: 599）[^stang-2015]。
+  - id: 71
+    kind: body
+    source: |-
+      A third analysis can be found in R. Lanier Anderson’s *The Poverty of Conceptual Thought* (2015). Anderson seeks to show that philosophers need to follow Kant’s treatment of existence in order to preserve our contemporary use of modal terms. For if our modal terms (existence, possibility, necessity) were predicates, then a change in modal terms would demand a change in the contents of our concepts of objects.
+    step1: |-
+      第三种分析见于 R. 拉尼尔·安德森的《概念思想之贫乏》（2015）。安德森力图表明，哲学家必须遵循康德对存在的处理，才能保住我们当代对模态词的用法。因为若我们的模态词（存在、可能性、必然性）是谓词，那么模态词的改变就会要求我们对象概念内容的改变。
+    step2: |-
+      第三种分析见 R. 拉尼尔·安德森《概念思想之贫乏》（2015）。安德森想证明：为保住我们今日对模态词的用法，哲学家必须依循康德对存在的处理。因为模态词（存在、可能性、必然性）若是谓词，模态上的变动便会要求对象概念内容的变动。
+  - id: 72
+    kind: body
+    source: |-
+      Accordingly, Anderson’s argument is intended to reflect Kant’s conclusion from his hundred dollars example: “what would exist would not be the same as what I had thought in my concept” (A600/B628). More specifically, Anderson argues that if our modal terms were predicates, then the non-actual possible would have as one of its marks, non-actual possibility; whereas the actual would have existence as one of its marks. As a result, if one were to consider the actualization of some non-actual possible *P*, *P*-*actualized* would no longer be the same *P* as the *P* of *P*-*non-actual possible*. As Anderson explains:
+    step1: |-
+      据此，安德森的论证意在反映康德从百元钞例子得出的结论：“会存在的东西，将不同于我在概念中所想的东西”（A600/B628）。更具体地说，安德森论证：若模态词是谓词，则非现实的可能者会以“非现实的现实性”为其标记之一，而现实者会以存在为其标记之一。结果，若人们考虑某个非现实可能者 *P* 的现实化，那么 *P*-*现实化* 将不再是 *P*-*非现实可能者* 中的同一个 *P*。如安德森所解释：
+    step2: |-
+      因此，安德森的论证是要体现康德从百元钞例子得出的结论：“将存在者，不会等同于我概念中所想者”（A600/B628）。更具体说，安德森论证：模态词若是谓词，非现实的可能者便以“非现实的可能性”为标记之一，现实者则以存在为标记之一。于是，若考虑某个非现实可能者 *P* 的现实化，则 *P*-*现实化* 已不再是 *P*-*非现实可能者* 中的那个 *P*。安德森的说明是：
+  - id: 73
+    kind: body
+    source: |-
+      > the supposition that <existence> would determine the concept of a thing is incompatible with its logical function of a modal category, which is to separate the actual objects from the merely possible ones *without altering the contents of the things’ concepts*. (Anderson 2015: 322)[^anderson-2015]
+    step1: |-
+      > 认为 <existence> 会规定一物的概念，这与它作为模态范畴的逻辑功能不相容——模态范畴的功能，正是在*不改变事物概念内容*的情况下，把现实对象与仅属可能者分开。（Anderson 2015: 322）[^anderson-2015]
+    step2: |-
+      > 若以为 <existence> 规定着一物的概念，便与它作为模态范畴的逻辑功能相冲突——该功能恰恰要在*不改动事物概念内容*的前提下，把现实对象与仅属可能者分开。（Anderson 2015: 322）[^anderson-2015]
+  - id: 74
+    kind: body
+    source: |-
+      3.1.2.2 Cosmological Argument
+    step1: |-
+      3.1.2.2 宇宙论论证
+    step2: |-
+      3.1.2.2 宇宙论论证
+  - id: 75
+    kind: body
+    source: |-
+      Kant further contends that the Cosmological Argument hides a “nest of dialectical presumptions” (A609/B637) and, ultimately, is parasitic on the Ontological. He demonstrates this by taking Leibniz’s Modal Argument from the contingency of the world as emblematic of all other Cosmological Arguments. This argument contends that: “If something exists, an absolutely necessary being also has to exist. Now I myself, at least exist; therefore, an absolutely necessary being exists” (A604/B633). However, according to Kant, any such inference illegitimately attempts to employ the concept of causality beyond the scope of exprience, unjustifiably assumes the completeness of a series of conditions that begins from within experience and so must remain within it, and presumptously claims to have arrived at the concept of a necessary being as the unconditioned when the only concept we have of necessity is that based upon a condition. What is more, even if one were to overlook these flaws, the concept of an absolutely necessary being is empty unless one can also show that it is somehow identical with that of a most real being. According to Kant, it is impossible to show this from the mere concept of absolute necessity. Hence, the argument must take the reverse path; it must show that the concept of the most real being alone is suitable to be the absolutely necessary being. Now, this would be the case if the existence of such a being depended only upon its own concept or essence. This returns us to the Ontological Argument, or at least to the objectionable idea at its heart, since the necessary being that the Cosmological Argument proposes can only be demonstrated to be the most real being, and hence God, if the latter is a being whose essence can be shown to involve existence. The Cosmological Argument thus falls along with the Ontological.
+    step1: |-
+      康德进一步主张，宇宙论论证隐藏着“一堆辩证的僭妄”（A609/B637），并且最终寄生在本体论论证之上。他通过把莱布尼茨从世界偶然性出发的模态论证当作其他一切宇宙论论证的范例来证明这一点。该论证主张：“若有某物存在，则一个绝对必然的存在者也必存在。现在，至少我自己存在；因此，一个绝对必然的存在者存在”（A604/B633）。然而按康德，任何这类推论都非法地试图在经验范围之外使用因果性概念，无根据地假定一个从经验内部开始的条件序列的完整性（因而必须留在经验之内），并且僭称已达至一个作为无条件者的必然存在者之概念，而我们关于必然性的唯一概念却是基于条件的。更有甚者，即便人们忽略这些缺陷，绝对必然的存在者之概念也是空洞的，除非也能表明它与最实在的存在者概念在某种意义上是同一的。按康德，仅从绝对必然性概念不可能表明这一点。因此，论证必须走反向道路：它必须表明唯有最实在的存在者概念才适合充当绝对必然的存在者。而这要成立，当且仅当这样一个存在者的存在只取决于其自身概念或本质。这就把我们带回本体论论证，或至少带回其核心那个可反对的观念，因为宇宙论论证所提出的必然存在者，只有在其本质可被表明包含存在时，才能被证明为最实在的存在者、从而是上帝。于是宇宙论论证随本体论论证一同垮掉。
+    step2: |-
+      康德还主张，宇宙论论证藏着“一窝辩证的僭妄”（A609/B637），归根到底寄生于本体论论证。他以莱布尼茨那条从世界偶然性出发的模态论证为一切宇宙论论证的范例来演示此点。该论证说：“若有某物存在，则一个绝对必然的存在者也必存在。而至少我自己存在；故有一个绝对必然的存在者存在”（A604/B633）。但在康德看来，这类推论都在非法地把因果性概念用到经验之外；无据地假定一个始于经验内部、因而须留在经验内部的条件序列已经完整；又僭称抵达了作为无条件者的必然存在者概念，而我们所有的必然性概念都基于条件。再者，即便不计这些毛病，绝对必然的存在者概念也是空的，除非还能证明它与最实在的存在者概念在某种意义上是同一的。按康德，仅凭绝对必然性概念做不到这一点。所以论证只能走反路：须证明唯最实在的存在者概念才适于充当绝对必然者。而这只有在这样一个存在者的存在仅取决于自身概念或本质时才成立。于是我们又回到本体论论证，至少回到它核心那个可疑观念：宇宙论论证所提的必然存在者，唯有在其本质可被表明含有时才能证明为最实在者、因而是上帝。宇宙论论证遂与本体论论证一同倒塌。
+  - id: 76
+    kind: body
+    source: |-
+      3.1.2.3 Physico-Theological Argument
+    step1: |-
+      3.1.2.3 物理学—神学论证
+    step2: |-
+      3.1.2.3 物理学—神学论证
+  - id: 77
+    kind: body
+    source: |-
+      Kant’s assessment of the Physico-Theological (Design) Argument is substantially different from his treatment of the other two classic proofs. While he still contends that it, like the Cosmological Argument, remains ultimately grounded upon the Ontological Argument’s assumption that existence is a predicate, this objection does not fully undo the force of the Physico-Theological Argument. Kant instead expresses sympathy for this argument, writing, for instance, that it “always deserves to be mentioned with respect” (A623/B651) and that it is “the oldest, the clearest, and the most accordant with the common reason of mankind” (A623/B651). He further claims that the argument *succeeds* in at least establishing “an *architect* of the world” and a cause “proportioned” to the order of nature. So, up to this point in the argument, he writes, “we have nothing to bring against the rationality and utility of this procedure, but have rather to commend it further” (A624/B652). What Kant cannot accept, however, is its advance from a “Wise Author of Nature” to an infinite creator. When it moves from architect to creator, it proposes an “original” and “supreme” cause, and in so doing, it calls for a being whose existence depends upon nothing but itself. This returns us to the Cosmological/Modal argument, and thus to its dependency on the Ontological. Despite the failure of the argument to establish the existence of an infinite creator, Kant does not abandon the relevance, particularly the regulative relevance of the idea of a “Wise Author of Nature” for the natural sciences, a point he repeats in both the Appendix to the Transcendental Dialectic and in the Canon of Pure Reason. However, in this context, it retains immediate theological import but is instead merely a guiding idea for the systematic development of empirical knowledge.
+    step1: |-
+      康德对物理学—神学（设计）论证的评价，与他对待另外两个经典证明的方式大不相同。尽管他仍主张，该论证同宇宙论论证一样，最终奠基于本体论论证“存在是谓词”的假定，但这一反对并未完全瓦解物理学—神学论证的力量。康德反而对此论证表示同情，例如写道它“永远值得被怀着敬意提及”（A623/B651），且是“最古老、最清楚、最符合人类共同理性的”（A623/B651）。他还进一步主张，该论证至少*成功地*确立了“一个世界的建筑师”以及一个与自然秩序“相称”的原因。所以，在论证进行到这一步时，他写道：“对于这一程序的合理性与有用性，我们没有什么可反对的，反倒应当进一步称赞它”（A624/B652）。然而康德不能接受的，是它从“明智的自然作者”推进到无限的创造者。当它从建筑师走向创造者时，它提出一个“源始的”与“至高的”原因，而这样一来，它就要求一个除自身之外不依赖任何东西的存在者。这就把我们带回宇宙论/模态论证，从而带回其对本体论论证的依赖。尽管该论证未能确立无限创造者的存在，康德并未放弃“明智的自然作者”这一观念的相关性、尤其是其对于自然科学的调节性相关性——他在先验辩证论的附录与纯粹理性的法规中都重申了这一点。然而在此语境中，它仍保有直接的神学意涵，只不过仅是经验知识之系统发展的一个引导性理念。
+    step2: |-
+      康德对物理学—神学（设计）论证的评判，与其对另外两个经典证明的处理大相径庭。他仍主张，该论证一如宇宙论论证，终究奠基于本体论论证“存在是谓词”的假定；但这一驳难并未全然消解它的力量。康德反而对它颇有同情：他说它“永远值得怀着敬意提及”（A623/B651），是“最古老、最清楚、也最合乎人类共同理性者”（A623/B651）。他还说，该论证至少*成功*确立了“一个世界的建筑师”，以及一个与自然秩序“相称”的原因。故论证走到这一步时，他写道：“对这一程序的合理与有用，我们无可反对，反该进一步称许”（A624/B652）。康德不能接受的，是它从“明智的自然作者”跃到无限的创造者。一旦由建筑师变为创造者，它就提出一个“源始的”、“至高的”原因，于是要求一个除自身外不依赖任何东西的存在者。这又把我们带回宇宙论/模态论证，从而带回它对本体论论证的依赖。尽管该论证未能确立无限创造者的存在，康德并未舍弃“明智的自然作者”这一观念的相关性，尤其是它对自然科学的调节性相关——他在先验辩证论附录与纯粹理性的法规中反复申说。不过在此语境中，它虽仍具直接的神学意涵，却只是经验知识之系统发展的一个引导性理念。
+  - id: 78
+    kind: body
+    source: |-
+      ### 3.2 Kant on Deism and Theism
+    step1: |-
+      ### 3.2. 康德论自然神论与有神论
+    step2: |-
+      ### 3.2 康德论自然神论与有神论
+  - id: 79
+    kind: body
+    source: |-
+      Kant’s distinction between Deism and Theism is intertwined with his distinction between Transcendental Theology and Natural Theology (A631/B659–A632/B660). The meaning of these terms, however, are not what some have assumed (e.g., Wood 1991)[^wood-1991].
+    step1: |-
+      康德对自然神论与有神论的区分，与他对先验神学与自然神学的区分交织在一起（A631/B659–A632/B660）。然而，这些术语的含义并非某些人所设想的那样（例如 Wood 1991）[^wood-1991]。
+    step2: |-
+      康德区分自然神论与有神论，与区分先验神学与自然神学相互纠缠（A631/B659–A632/B660）。但这些术语的含义，并不是某些人所设想的样子（如 Wood 1991）[^wood-1991]。
+  - id: 80
+    kind: body
+    source: |-
+      In his *Lectures on the Philosophical Doctrine of Religion*, Kant defines “Transcendental Theology” as the “recognition [*Kenntniss*] of God by means of concepts of pure reason” (AK 28:596 [1821]). These concepts are not, however, the pure concepts of the understanding, but rather what he calls the four “classes of concepts” (B110): namely, quantity, quality, relation and modality. More precisely, Kant sees Transcendental Theology as a consequence of reason’s quest for the unconditioned condition, with its concepts of God corresponding to the unconditioned for each of the “classes of concepts”, namely: *ens summum* (quality), *ens entium* (quantity), *ens originarium* (modality), and *ens realissimum* (relation).
+    step1: |-
+      在《宗教哲学讲演录》中，康德把“先验神学”定义为“借纯粹理性概念对上帝的认取［*Kenntniss*］”（AK 28:596 [1821]）。然而这些概念不是纯粹知性概念，而是他所谓四“类概念”（B110）：量、质、关系与模态。更确切地说，康德把先验神学视为理性追求无条件者之条件的后果，其上帝概念对应于每一“类概念”的无条件者，即：*ens summum*（质）、*ens entium*（量）、*ens originarium*（模态）与*ens realissimum*（关系）。
+    step2: |-
+      在《宗教哲学讲演录》里，康德把“先验神学”界定为“借纯粹理性概念对上帝的认识［*Kenntniss*］”（AK 28:596 [1821]）。但这些概念并非纯粹知性概念，而是他所谓四“类概念”（B110）：量、质、关系、模态。更确切说，先验神学是理性追寻无条件者之条件的产物，其上帝概念对应各“类概念”的无条件者：*ens summum*（质）、*ens entium*（量）、*ens originarium*（模态）、*ens realissimum*（关系）。
+  - id: 81
+    kind: body
+    source: |-
+      As Transcendental Theology employs no “information” about the conditioned (i.e., the created world), it is without the resources needed to develop a concept of God “*in concreto*” (AK 28:1020 [1817]). Absent the “materials for the concept of God from empirical principles and empirical information” (AK 28:1020 [1817]), Transcendental Theology can do no more than attribute to God “what is true of him as a thing in general” (AK 28:1020 [1817]). That is, its concept of God is just that of unconditioned quality, quantity, modality, and relation.
+    step1: |-
+      由于先验神学不运用任何关于有条件者（即被造世界）的“信息”，它就缺乏发展“*in concreto*”上帝概念所需的资源（AK 28:1020 [1817]）。缺少“来自经验原则与经验信息的上帝概念之材料”（AK 28:1020 [1817]），先验神学所能做的，不过是把“上帝作为一般事物为真者”赋予上帝（AK 28:1020 [1817]）。也就是说，它的上帝概念只是无条件的质、量、模态与关系的概念。
+    step2: |-
+      先验神学既不用任何关于有条件者（被造世界）的“信息”，便缺少发展“*in concreto*”上帝概念所需的材料（AK 28:1020 [1817]）。缺了“来自经验原则与经验信息的上帝概念之材料”（AK 28:1020 [1817]），它至多把“上帝作为一般事物所具有的真”归于上帝（AK 28:1020 [1817]）。换言之，它的上帝概念只是无条件的质、量、模态与关系。
+  - id: 82
+    kind: body
+    source: |-
+      Absent all “information” about the conditioned, Transcendental Theology is thus without the resources to develop the concept of God used in either Natural or Moral Theology, i.e, the “wise author of nature” or the judge and “ruler” of nature, respectively (AK 28:452 [1968], AK 28:596 [1821], AK 28:1002 [1817]). Consequently, Kant claims that Transcendental Theology is inadequate, yielding “only a silhouette of a theology” (AK 28:605, AK 28:452 [1968]). Its conception of God is “useless” (AK 28:596 [1821]), “unusable” (AK 28:452 [1968]), and “quite superfluous to us” (AK 28:1020 [1817]). It provides us with only the god of Deism, and according to the lectures, this God is “useless” and “unusable”.
+    step1: |-
+      由于缺少一切关于有条件者的“信息”，先验神学因而缺乏发展自然神学或道德神学所用上帝概念——即分别为“明智的自然作者”或自然的法官与“统治者”——的资源（AK 28:452 [1968], AK 28:596 [1821], AK 28:1002 [1817]）。因此，康德主张先验神学是不充分的，只产生“一个神学的剪影”（AK 28:605, AK 28:452 [1968]）。它的上帝构想是“无用的”（AK 28:596 [1821]）、“不可用的”（AK 28:452 [1968]）、“对我们完全多余的”（AK 28:1020 [1817]）。它只向我们提供自然神论的上帝，而按这些讲演，这位上帝是“无用的”与“不可用的”。
+    step2: |-
+      既缺一切关于有条件者的“信息”，先验神学便没有资源去发展自然神学或道德神学所用的上帝概念——那分别是“明智的自然作者”，以及自然的法官与“统治者”（AK 28:452 [1968]、AK 28:596 [1821]、AK 28:1002 [1817]）。于是康德判先验神学为不充分，只给出“一个神学的剪影”（AK 28:605、AK 28:452 [1968]）。它的上帝构想“无用”（AK 28:596 [1821]）、“不可用”（AK 28:452 [1968]）、“对我们全然多余”（AK 28:1020 [1817]）。它只给我们自然神论的上帝；而按这些讲稿，这上帝“无用”且“不可用”。
+  - id: 83
+    kind: body
+    source: |-
+      Hence, despite the familiar-seeming term, Kant does not mean by “Deism” what it typically meant in contemporaneous British writers. Their Deism is rather much more akin to what Kant means by “Theism”, as the outcome of Natural (vs. Transcendental) Theology. That is, Kant maintains in the *Critique of Pure Reason* that our picture of nature as having systematic unity commits us to seeing nature “as if” it were created by a “Wise Author” (A644/B672–A645/B673).
+    step1: |-
+      因此，尽管术语看似熟悉，康德所谓“自然神论”并不是同时代英国作家通常所指的意思。他们的自然神论毋宁更接近康德所谓“有神论”，即自然（而非先验）神学的产物。也就是说，康德在《纯粹理性批判》中主张，我们关于自然具有系统统一的图景使我们承诺把自然看作“仿佛”是由一位“明智的作者”创造的（A644/B672–A645/B673）。
+    step2: |-
+      因此，尽管“自然神论”一词看着眼熟，康德所说不等于同时代英国作家的通常用法。他们的自然神论，反倒更近于康德所谓“有神论”，即自然（而非先验）神学的产物。也就是说，康德在《纯粹理性批判》里主张：我们关于自然有系统统一的图景，使我们不得不把自然看作“仿佛”由一位“明智的作者”所造（A644/B672–A645/B673）。
+  - id: 84
+    kind: body
+    source: |-
+      This is not, however, a new twist on the Argument from Design. While Kant turns to Theism to explain how we make the ground of the natural order “comprehensible” (AK 6:65n [1793]) to ourselves, this is not a proof for God’s existence but rather an appeal to the idea of a Wise Author varyingly described as “symbolic” (AK 4:437 [1785b]) or “heuristic” (A671/B699), as a “*focus imaginarius*” (A645/B673), or as a supposition to be taken
+    step1: |-
+      然而，这并不是设计论证的新变体。康德转向有神论，是为了说明我们如何使自然秩序的根据对我们自己成为“可理解的”（AK 6:65n [1793]）；但这不是对上帝存在的证明，而是诉诸“明智作者”这一理念，并对其作不同描述：或“象征的”（AK 4:437 [1785b]），或“启发性的”（A671/B699），或一个“*focus imaginarius*”（A645/B673），或一个只能被当作
+    step2: |-
+      但这并非设计论证的新花样。康德转向有神论，是要说明我们怎样让自然秩序的根据对我们“可理解”（AK 6:65n [1793]）；这不是上帝存在的证明，而是诉诸“明智作者”这一理念——它有时被称为“象征性的”（AK 4:437 [1785b]），有时被称为“启发性的”（A671/B699），有时是一个“*focus imaginarius*”（A645/B673），有时则是一个只能被当作
+  - id: 85
+    kind: body
+    source: |-
+      > only problematically [vs assertorically] … so as to regard all the connection of things in the world of sense as if they had their ground in this being of reason. (A681/B709)
+    step1: |-
+      > 仅仅或然地［而非断言地］……以便把感性世界中事物的一切联结都看作仿佛它们的根据就在这个理性存在者之中。（A681/B709）
+    step2: |-
+      > 只是或然地［而非断言地］……从而把感性世界中事物的一切关联都看作仿佛其根据在这一理性存在者之中。（A681/B709）
+  - id: 86
+    kind: body
+    source: |-
+      It is nonetheless a supposition that (at least from the late 1770s through most of the 1780s) Kant believes we cannot do without. “[W]e must presuppose such a being” (A697/B725), for in its absence, reason would be at odds with itself, at once intending a systematic unity to nature and at the same time without a principle to ground that systematicity.
+    step1: |-
+      尽管如此，这仍是一个（至少从 1770 年代末到 1780 年代大部分时间）康德认为我们不可或缺的假定。“我们必须预设这样一个存在者”（A697/B725），因为缺了它，理性就会自相冲突：它一方面要求自然的系统统一，另一方面却没有原则为那种系统性奠基。
+    step2: |-
+      然而这毕竟是一个（至少从 1770 年代末到 1780 年代大半）康德认为我们少不了的前提。“我们必须预设这样一个存在者”（A697/B725）；否则理性便自相牴牾——它既要自然的系统统一，又没有原则为这种系统性奠基。
+  - id: 87
+    kind: body
+    source: |-
+      Lastly, note that Kant’s account of Deism is not disconnected from the “common seventeenth- and eighteenth-century usage” and thus “idiosyncratic” (*pace* Wood 1991)[^wood-1991]. Rather, it is indicative of the term’s usage in a German rather than a British context. For example, Wolff, in his *Theologia naturalis* highlights the areas of agreement between Deism and Atheism, arguing that Deism can easily devolve into a “practical atheism” (*Theologia naturalis*, §547). Baumgarten as well, in the *Metaphysica*, the textbook that Kant used in his courses on Metaphysics and Natural Theology, follows Wolff in this, describing Deism as “the doctrine [which] maintains that almost nothing is conceivable about God, except perhaps his existence” (§862). Hence, however idiosyncratic this use of “Deism” may seem to the modern reader, it would not have been so for Kant’s German audience.
+    step1: |-
+      最后请注意，康德对自然神论的说明并未脱离“17—18 世纪的通行用法”，因而并非怪僻（contra Wood 1991）[^wood-1991]。毋宁说，它表明该词是在德意志而非不列颠语境中被使用的。例如，沃尔夫在《自然神学》中突出了自然神论与无神论的一致之处，主张自然神论很容易沦为“实践的无神论”（《自然神学》，§547）。鲍姆加登在《形而上学》——康德形而上学与自然神学课程所用教材——中也追随沃尔夫，把自然神论描述为“这样一种学说［它］主张，关于上帝几乎无物可设想，也许除了他的存在”（§862）。因此，无论这一“自然神论”用法在当代读者看来多么怪僻，对康德的德意志听众而言却并非如此。
+    step2: |-
+      最后须注意：康德对自然神论的说明并未脱离“17、18 世纪的通行用法”，因而并不“乖僻”（与 Wood 1991 相反）[^wood-1991]。它恰恰显示该词是在德意志语境、而非不列颠语境中使用的。例如沃尔夫在《自然神学》里点明自然神论与无神论的一致之处，称自然神论极易滑向“实践的无神论”（《自然神学》，§547）。鲍姆加登在《形而上学》——康德形而上学与自然神学课程所用教材——里也追随沃尔夫，把自然神论说成“这样一种学说：关于上帝几乎无物可设想，也许只除了他的存在”（§862）。所以，无论这一“自然神论”用法在今人眼中多么乖僻，对康德的德意志听众却不然。
+  - id: 88
+    kind: body
+    source: |-
+      ### 3.3 Religion and Theoretical Knowledge
+    step1: |-
+      ### 3.3. 宗教与理论知识
+    step2: |-
+      ### 3.3 宗教与理论知识
+  - id: 89
+    kind: body
+    source: |-
+      Despite Kant’s explicit claim that one of the underlying drivers of Transcendental Idealism is to defend faith against theoretical reason, it is widely believed that his philosophical system powerfully challenges, if not outright bars, religious belief. His criticisms of the traditional arguments for God’s existence are taken as illustrative of his opposition to religion, and the so-called “Restriction Thesis” of Transcendental Idealism is regarded as a barrier against all legitimate religious assent (Wolterstorff 1998, Rawls 2000, DiCenso 2012)[^dicenso-2012][^rawls-2000][^wolterstorff-1998].
+    step1: |-
+      尽管康德明确主张，先验观念论的深层动因之一是守护信仰免受理论理性侵害，人们却普遍认为，他的哲学体系对宗教信仰构成有力挑战、甚至径直封杀之。他对上帝存在传统论证的批评被当作他反对宗教的例证，而先验观念论所谓“限制论题”则被视为阻挡一切正当宗教认同的屏障（Wolterstorff 1998, Rawls 2000, DiCenso 2012）[^dicenso-2012][^rawls-2000][^wolterstorff-1998]。
+    step2: |-
+      康德明言先验观念论的深层动因之一是护卫信仰、抵挡理论理性，可人们仍普遍认为他的体系对宗教信仰构成强力挑战，甚至径直封死。他对上帝存在传统证明的批评被拿来当作反宗教的例证；先验观念论的所谓“限制论题”则被看作挡住一切正当宗教认同的堤坝（Wolterstorff 1998, Rawls 2000, DiCenso 2012）[^dicenso-2012][^rawls-2000][^wolterstorff-1998]。
+  - id: 90
+    kind: body
+    source: |-
+      According to Kant, we can have no knowledge of anything outside of experience, outside the scope of the spatio-temporal-causal order. Hence, there can be no knowledge of God, of the soul, of the afterlife, or anything else beyond that order. To compound this restriction, Kant further seems to assert that we also can have no “cognition” [*Erkenntnis*] of objects outside the scope of experience. While the former is less ambiguous, the latter has generated more debate, hanging very much on what it is to have a “cognition” (e.g., Watkins & Willaschek 2017, Chignell 2017)[^chignell-2017][^watkins-2017]. Many have taken “cognition” to be a semantic notion, and so have taken Kant’s denial of the cognizability of the supersensible as a denial of even the intelligibility of religious concepts. Thus, it is not merely that we cannot prove whether or not God exists, but the concept of God itself, like all other concepts of supersensible entities and properties, (allegedly) cannot even have meaning for us.
+    step1: |-
+      按康德，我们对经验之外、时空因果秩序范围之外的任何东西都不能有知识。因此，不可能有关于上帝、灵魂、来世或该秩序之外任何东西的知识。使这一限制更复杂的是，康德似乎还断言，我们对经验范围之外的对象也不能有“认识”［*Erkenntnis*］。前者较为明确，后者则引发更多争论，很大程度上取决于“认识”是什么（例如 Watkins & Willaschek 2017, Chignell 2017）[^chignell-2017][^watkins-2017]。许多人把“认识”当作语义概念，因而把康德否认超感性者的可认识性理解为否认宗教概念甚至有可理解性。于是，不仅是我们无法证明上帝是否存在，而且上帝概念本身，如同一切超感性实体与属性的概念一样，（据称）甚至不能对我们有意义。
+    step2: |-
+      按康德，凡在经验之外、在时空因果秩序之外者，我们都无从知道。故无上帝知识、无灵魂知识、无来世知识，也无该秩序之外任何东西的知识。限制还不止此：康德似乎还断言，对经验范围之外的对象，我们连“认识”［*Erkenntnis*］也不可能有。前一层较为明确；后一层引出更多争论，关键看“认识”作何解（例如 Watkins & Willaschek 2017, Chignell 2017）[^chignell-2017][^watkins-2017]。许多人把“认识”当作语义概念，于是把康德否认超感性者之可认识，读成否认宗教概念甚至可理解。这样，问题就不只是我们无法证明上帝存在与否，而是上帝概念本身——如同一切超感性实体与属性的概念——（据称）对我们甚至不能有意义。
+  - id: 91
+    kind: body
+    source: |-
+      The former position, that we can have no knowledge of the supersensible, is textually well supported. Knowledge [*Wissen*], for Kant, follows its traditional tripartite model as justified-true-belief, and if there is neither experience nor rational proof of any supersensible claim, no such claim can meet with suitable justification. The one notable exception found in Kant’s writings is the claim, found in the *Critique of the Power of Judgment,* that freedom can be counted among the *“scibilia”* or things that are knowable (AK 5:468 [1790]).
+    step1: |-
+      前一种立场——我们对超感性者不能有知识——在文本上得到有力支持。对康德而言，知识［*Wissen*］依循其传统的三元模型，即有正当根据的真信念；若任何超感性主张既无经验、又无理性证明，它就得不到适当的正当根据。康德著作中一个值得注意的例外见于《判断力批判》：自由可被算入“*scibilia*”、即可知之物（AK 5:468 [1790]）。
+    step2: |-
+      前一立场——我们对超感性者无知识——文本依据坚实。知识［*Wissen*］在康德那里沿传统三分模型，即有正当根据的真信念；超感性主张若既无经验、又无理性证明，便无从获得适当的正当根据。康德著作中一个显眼的例外见于《判断力批判》：自由可归入“*scibilia*”、即可以认识者（AK 5:468 [1790]）。
+  - id: 92
+    kind: body
+    source: |-
+      The latter position, that we can have no cognition of supersensible objects, is likewise correct but only in a restricted sense: We can have no *theoretical* cognition of them, i.e., they have no determinate theoretical meaning and their concepts have no role to play in our theoretical knowledge. However, the alleged implication that this makes meaningful thought about them impossible is false. Kant does not reject the thinkability of the supersensible but in fact asserts it on many occasions. The deeper question is what “thinkable” means in this context. Many scholars have asserted that this amounts to nothing more than representing the logically possible, ideas of pure reason. However, this would seem to violate the Discursivity Thesis, which holds that concepts without intuitions are empty and so without sense or meaning, and to conflict with Kant’s explicit claims in the first *Critique* that such ideas are not ideas of real beings at all. These problems can, however, be avoided if we recognize that Kant often includes under “thinking” various forms of indirect representation by means of analogy. Indeed, several texts either directly state or strongly suggest that all thought about the supersensible is of this symbolic character (e.g. 5:353 [1790], 20:279–280). As he states in the *Religion:* “We always need a certain analogy with natural being in order to make supersensible characteristics comprehensible to us” (6:65n. [1793]). Consequently, when we think about the supersensible, we do not represent it theoretically, as it would be in itself as an object of knowledge, but instead through a certain analogy with concepts and objects taken from sensible nature.
+    step1: |-
+      后一种立场——我们对超感性对象不能有认识——同样正确，但只在一个受限的意义上：我们不能有关于它们的*理论*认识，即它们没有确定的理论意义，其概念在我们的理论知识中没有角色可扮演。然而，由此推出的“这使关于它们的意义之思成为不可能”则是假的。康德并不拒绝超感性者的可思性，反而在许多场合断言它。更深的问题在于，此语境中“可思”是什么意思。许多学者断言，这不过意味着表象逻辑上可能者，即纯粹理性的理念。然而这似乎会违反“推论性论题”——该论题主张无直观的概念是空的、因而没有意义——并与康德在第一《批判》中的明确主张冲突：这类理念根本不是实在存在者的理念。不过，若我们认识到，康德常在“思维”名下包括借类比而进行的各种间接表象形式，这些问题便可避免。确实，若干文本或直接陈述、或强烈暗示，一切关于超感性者的思维都具有这种象征品格（例如 5:353 [1790], 20:279–280）。如他在《宗教》中所说：“我们总需要与自然存在者的某种类比，才能使超感性的特征对我们成为可理解的”（6:65n. [1793]）。因此，当我们思维超感性者时，我们并不理论地表象它，仿佛它自身就是知识的对象，而是通过与取自感性自然的概念和对象的某种类比来表象它。
+    step2: |-
+      后一立场——我们对超感性对象无认识——同样对，但须加以限定：我们无*理论*认识，即它们没有确定的理论意义，其概念在我们的理论知识中也无角色可演。但由此推出“关于它们的意义之思不可能”，却是错的。康德不否认超感性者之可思，反而屡屡断言其可思。更深的问题是：此处的“可思”何意？不少学者断言，这不过是表象逻辑上可能者，即纯粹理性的理念。可这似乎触犯“推论性论题”——无直观的概念是空的，因而无意义——也与康德在第一《批判》中的明言相抵触：这类理念根本不是实在存在者的理念。不过，只要我们承认康德常把借类比而来的各种间接表象形式归入“思维”，这些麻烦便可避开。确实，多处文本或直陈、或强暗示：一切关于超感性者的思维都带这种象征品格（如 5:353 [1790]、20:279–280）。康德在《宗教》中说：“我们总需与自然存在者的某种类比，方能使超感性的特征对我们可理解”（6:65n. [1793]）。所以，当我们思维超感性者时，并非理论地表象它、仿佛它自身即是知识对象，而是借与感性自然中的概念和对象的某种类比来表象它。
+  - id: 93
+    kind: body
+    source: |-
+      The problem, thus, is not whether we can entertain coherent or even meaningful representations of supposed supersensible objects. It is, rather, by what standard we can determine whether these thoughts are mere idle fancies or perhaps something more. Absent experience or pure rational grounds of proof, reason would seem to be without a touchstone whereby its hypotheses could be tested. This is where Kant’s account of practical cognition steps in to fill the gap. Although largely overlooked until recently, Kant almost routinely asserts that we can practically cognize all sorts of supersensible objects, including freedom and God (AK 5:30 [1788], 5:353 [1790], 5:456 [1790], 5:474 [1790], 6:225 [1797–1798], 6:380n. [1797–1798], 6:418 [1797–1798], 8:418 [1796], 20:279–280, 20:301 & 311). As he writes, “I can indeed have no theoretical cognition of the supersensible, e.g., of God, but can yet have cognition by analogy, and such as it is necessary for reason to think” (AK 20:280). The standard for a particular analogical representation, which thus guarantees its status as genuine cogniton with “objective reality”, lies in the demonstration that there is necessary ground for reason to employ it rather than any other. And as its title indicates, the ground for such practical cognition always lies in the connection of a certain representation with the moral law itself, either insofar as it is necessary for representing its possibility (freedom) or the possibility of the object that it makes it necessary for the will to pursue (i.e., the highest good) (AK 5:4 [1788]).
+    step1: |-
+      因此，问题不在于我们能否对所谓超感性对象持有连贯甚至有意义的表象；问题在于，我们凭什么标准判定这些思想只是空想，还是也许另有分量。缺了经验或纯粹理性证明根据，理性似乎就没有试金石来检验其假设。正是在这里，康德的实践认识说明出场填补空缺。尽管直到晚近大多被忽视，康德几乎例行地断言我们可以实践地认识各种超感性对象，包括自由与上帝（AK 5:30 [1788], 5:353 [1790], 5:456 [1790], 5:474 [1790], 6:225 [1797–1798], 6:380n. [1797–1798], 6:418 [1797–1798], 8:418 [1796], 20:279–280, 20:301 & 311）。如他所写：“我确实不能有关于超感性者（例如上帝）的理论认识，但仍能有类比的认认，以及理性必须思维的那种认识”（AK 20:280）。某一类比表象之为真正认识（具有“客观实在性”）的标准，在于证明理性有必要的根据去使用它而非任何别的表象。而如其标题所示，这种实践认识的根据总在于某一表象与道德法则本身的联系——或因为该表象对表象其可能性（自由）是必要的，或因为它所使意志必须追求的对象（即至善）之可能性是必要的（AK 5:4 [1788]）。
+    step2: |-
+      所以，问题不在于我们能否持有关于所谓超感性对象的连贯、乃至有意义的表象；问题在于，凭什么标准判定这些思想只是空想，还是别有分量。若无经验、又无纯粹理性的证明根据，理性似乎就没有检验假设的试金石。康德关于实践认识的说明，正是在这里补缺。虽直到晚近多被忽略，康德几乎不厌其烦地断言：我们可以实践地认识种种超感性对象，包括自由与上帝（AK 5:30 [1788]、5:353 [1790]、5:456 [1790]、5:474 [1790]、6:225 [1797–1798]、6:380n. [1797–1798]、6:418 [1797–1798]、8:418 [1796]、20:279–280、20:301 & 311）。他写道：“我固然不能有关于超感性者（如上帝）的理论认识，却能有类比的认认，以及理性必须思维的那种认识”（AK 20:280）。某一类比表象何以算真正的认识（具“客观实在性”），标准在于证明理性有必要的根据使用它、而非别的表象。如其标题所示，这种实践认识的根据总系于某一表象与道德法则本身的关联：或是该表象为表象其可能性（自由）所必需，或是为该表象使意志必须追求的对象（即至善）之可能性所必需（AK 5:4 [1788]）。
+  - id: 94
+    kind: body
+    source: |-
+      Kant’s denial of theoretical cognition of the supersensible is not meant to challenge the intelligibility of religious doctrines but rather to help us better situate the unique sort of claims they involve. So long as they are not self-contradictory, they are thinkable by means of some analogy. However, such representations are not theoretically truth apt and thus can be neither proven nor refuted by theoretical means. Moreover, since they are not within the spectrum of epistemic evaluation, we cannot opine regarding them, for opinion [*Meinung*], as Kant understands the term, is a mode of assent based upon the weighing of theoretical grounds (evidence and argument) for and against truth.
+    step1: |-
+      康德否认对超感性者的理论认识，并非要挑战宗教教义的可理解性，而是要帮我们更好地定位它们所含的那类独特主张。只要它们不自相矛盾，就可以借某种类比而被思维。然而，这类表象不具有理论真值性，因而既不能被理论手段证明、也不能被理论手段反驳。此外，既然它们不在认识评价的谱系之内，我们就不能对它们持意见，因为按康德对“意见”［*Meinung*］的理解，意见是一种基于权衡赞成与反对真理之理论根据（证据与论证）的认同方式。
+    step2: |-
+      康德否认对超感性者的理论认识，不是要挑战宗教教义的可理解性，而是要帮我们看清这类主张的独特位置。只要不自相矛盾，它们便可借某种类比被思维。但这类表象没有理论真值可言，故理论手段既证不了也驳不倒。再者，它们不在认识评价的范围内，我们便不能对之持意见——按康德的理解，意见［*Meinung*］是权衡正反理论根据（证据与论证）后作出的认同方式。
+  - id: 95
+    kind: body
+    source: |-
+      Yet, this does not leave us with agnosticism either. Along with knowledge and opinion, Kant identifies faith as our third legitimate mode of holding-to-be-true [*Fürwahrhalten*] it is this that properly applies to cases of practical cognition (excluding possibly freedom). Faith is, for Kant, a mode of justified assent although the nature of its justification, which lies in a certain connection between a representation and the moral law, is quite different from opinion and knowledge. That connection is not rooted in experience or argument, but rather in what he characterizes as the “needs” of practical reason. Hence, for Kant, religious faith finds its proper seat not in intellectual reflection but in our practical lives.
+    step1: |-
+      然而，这也没有把我们留给不可知论。与知识、意见并列，康德把信仰认定为我们第三种正当的“视为真”［*Fürwahrhalten*］方式；正是它恰当地适用于实践认识的情形（也许自由除外）。对康德而言，信仰是一种有正当根据的认同方式，尽管其正当根据的性质——在于某一表象与道德法则之间的某种联系——与意见和知识颇为不同。那种联系并不植根于经验或论证，而植根于他所刻画的实践理性的“需要”。因此，对康德来说，宗教信仰的恰当位置不在理智反思，而在我们的实践生活。
+    step2: |-
+      但这也不把我们抛给不可知论。与知识、意见并列，康德把信仰列为第三种正当的“视为真”［*Fürwahrhalten*］方式；实践认识的情形（或许自由除外）正归它管。在康德那里，信仰是有正当根据的认同，只是其正当根据的性质——某些表象与道德法则的关联——迥异于意见与知识。这关联不植根于经验或论证，而植根于他所谓实践理性的“需要”。因此，宗教信仰的正当位置不在理智反思，而在我们的实践生活。
+  - id: 96
+    kind: body
+    source: |-
+      Moreover, Kant sees faith, unlike knowledge, as engaging with our will, calling it a “free assent”. This is important for the practical function of faith, since our commitment to morality does not simply depend on our affirmation of the postulates but on our free act of faith through which we more completely bind ourselves to morality. Morality “inevitably leads to religion” (AK 6:6 [1793]), according to Kant, since such faith is the only adequate response to the needs that inevitably threaten to undermine our commitment to morality. This, however, must not be interpreted as leading to a “theological ethics”, as if the authority of the moral law depended upon God. It is not its authority that is in question but only how we give that authority an extended content by connecting it to the appropriate idea of an all-powerful being (perhaps with the exception of the argument at AK 5:114 in the *Critique of Practical Reason* [1788]). This advance from morality to religion thus concerns only how we represent our obligation and its consequences (cf. A632/B660, AK 5:481 [1788], AK 6:3 [1793]).
+    step1: |-
+      此外，康德认为信仰不同于知识，它牵动我们的意志，称之为“自由的认同”。这对信仰的实践功能很重要，因为我们对道德的坚守并不只取决于我们对设准的肯定，而取决于我们借以更完整地把自己系于道德的、自由的信之行动。按康德，道德“不可避免地导向宗教”（AK 6:6 [1793]），因为这种信仰是对那些不可避免地威胁要瓦解我们道德坚守的需要唯一恰当的回应。然而，这不可解释为导致一种“神学伦理学”，仿佛道德法则的权威依赖于上帝。成问题的不是它的权威，而只是我们如何通过把它与一个全能存在者的恰当理念相联系，赋予这一权威以扩展的内容（也许除了《实践理性批判》AK 5:114 处的论证 [1788] 之外）。因此，从道德到宗教的这一推进，只关乎我们如何表象我们的义务及其后果（参 A632/B660, AK 5:481 [1788], AK 6:3 [1793]）。
+    step2: |-
+      康德还认为，信仰与知识不同，它牵涉意志，故称之为“自由的认同”。这对信仰的实践功能要紧：我们对道德的持守不只系于对设准的肯定，更系于我们借以更彻底地把自己绑定于道德的、自由的信之行动。按康德，道德“不可避免地引向宗教”（AK 6:6 [1793]），因为这种信仰是应答那些时时威胁瓦解道德坚守之需要的唯一恰当方式。不过，这不可读成“神学伦理学”，仿佛道德法则的权威依赖上帝。成问题的不是权威本身，而只是我们如何借把它同一个全能存在者的恰当理念相连，为这权威添上扩展的内容（也许《实践理性批判》AK 5:114 的论证 [1788] 除外）。所以，从道德到宗教的这一步，只关乎我们如何表象自己的义务及其后果（参 A632/B660、AK 5:481 [1788]、AK 6:3 [1793]）。
+  - id: 97
+    kind: body
+    source: |-
+      #### 3.3.1 Competing interpretations of Kant on religious assent
+    step1: |-
+      #### 3.3.1. 关于康德宗教认同的诸种竞争解释
+    step2: |-
+      #### 3.3.1 关于康德宗教认同的诸种竞争解释
+  - id: 98
+    kind: body
+    source: |-
+      Although Kant’s presentation of faith as a legitimate mode of “holding-to-be-true” is consistently maintained through the Critical period’s published corpus, some Kantians have opted to develop interpretations which dismiss or overlook such discussions. We will now briefly compare four different stances on religious assent in Kant.
+    step1: |-
+      尽管康德把信仰表述为“视为真”的一种正当方式，这一表述在批判时期的已刊著作中一贯保持，但一些康德研究者选择发展出轻视或忽略此类讨论的解释。我们现在简要比较关于康德宗教认同的四种不同立场。
+    step2: |-
+      康德把信仰表述为“视为真”的一种正当方式，这在批判期的已刊著作中始终一贯；然而有些康德研究者偏要发展出轻视、乃至无视这类讨论的解释。下面简要比照关于康德宗教认同的四种立场。
+  - id: 99
+    kind: body
+    source: |-
+      3.3.1.1 A mistake for Kant
+    step1: |-
+      3.3.1.1 康德的一处失误
+    step2: |-
+      3.3.1.1 康德的一处失误
+  - id: 100
+    kind: body
+    source: |-
+      Some scholars hold that we should mostly ignore what Kant has to say about the core articles of religious faith (the so-called “postulates” of pure practical reason), and, consequently, the positive part of his religious philosophy. This is either because the postulates are taken as hold-overs from Kant’s pre-Critical period that are in fact incompatible with his Critical philosophy (Allison 1990)[^allison-1990], or because the philosophical reasoning involving them is so bad as to be irrelevant to what makes Kant an important philosopher (Rawls 2000)[^rawls-2000]. Regardless of whether the postulates are a hold-over or simply poorly supported, the result is the same: for scholars who take this view, it is not important to have a detailed understanding of the attitudes involved in postulation, as they aren’t key to understanding what is valuable about Kant’s philosophy.
+    step1: |-
+      一些学者主张，我们大体上应忽略康德关于宗教信仰核心条款（即纯粹实践理性的所谓“设准”）所说的话，因而也应忽略他宗教哲学的肯定部分。这或是因为设准被当作康德前批判时期的遗留物、实际上与他的批判哲学不相容（Allison 1990）[^allison-1990]，或是因为涉及设准的哲学推理糟糕到与康德之为重要哲学家无关（Rawls 2000）[^rawls-2000]。无论设准是遗留物还是仅属论证薄弱，结果都一样：持此观点的学者认为，不必细致理解设准所涉的态度，因为它们对理解康德哲学的价值所在并不关键。
+    step2: |-
+      有些学者主张，大体上应当无视康德关于宗教信仰核心条款（纯粹实践理性的所谓“设准”）的论述，因而也无视其宗教哲学的肯定面。理由是：设准或是前批判期的残留、实际上与批判哲学相悖（Allison 1990）[^allison-1990]；或是围绕设准的哲学推理烂到无关乎康德之为重要哲学家的价值（Rawls 2000）[^rawls-2000]。不论设准是残留还是论证薄弱，结论一致：在这些学者看来，细究设准所涉的态度并不重要，因为它对理解康德哲学的价值所在并非关键。
+  - id: 101
+    kind: body
+    source: |-
+      3.3.1.2 Only as a mere symbol (useful representation but no assent)
+    step1: |-
+      3.3.1.2 仅作象征（有用的表象，但无认同）
+    step2: |-
+      3.3.1.2 仅作象征（有用的表象，但无认同）
+  - id: 102
+    kind: body
+    source: |-
+      A second position that may be understood as an attempt to reconcile Transcendental Idealism with Kant’s philosophy of religion is to replace what he says about assent with a non-doxic attitude where religious concepts, rather than objects of belief, are instead taken as regulative ideals or representations of moral principles (Davidovich 1993, Henrich 1999, DiCenso 2012)[^davidovich-1993][^dicenso-2012][^henrich-1999]. While there are many passages in the Critical period where Kant promotes assent, this is a view in line with some fasciles of the *Opus Postumum*. Guyer (2005), for example, maintains that rather than the *Opus Postumum* reflecting a break from Kant’s Critical stance on religious assent, it instead finally brings the true character of his position to light.
+    step1: |-
+      第二种立场可理解为试图调和先验观念论与康德宗教哲学的尝试：以某种非信念态度取代他关于认同的说法，宗教概念不被当作信念的对象，而被当作调节性的理想或道德原则的表象（Davidovich 1993, Henrich 1999, DiCenso 2012）[^davidovich-1993][^dicenso-2012][^henrich-1999]。尽管批判时期有许多段落提倡认同，这一看法却与《遗著》的某些部分相合。例如，盖耶（2005）主张，《遗著》并非表明康德与其批判时期关于宗教认同的立场决裂，反而最终揭明了他立场的真实品格。
+    step2: |-
+      第二种立场可视为调和先验观念论与康德宗教哲学的尝试：用某种非信念态度替代他关于认同的论述——宗教概念不当信念对象，而当作调节性理想或道德原则的表象（Davidovich 1993, Henrich 1999, DiCenso 2012）[^davidovich-1993][^dicenso-2012][^henrich-1999]。批判期虽多有提倡认同的段落，此说却与《遗著》的某些部分相合。例如盖耶（2005）主张：《遗著》显示的并非康德同其批判期宗教认同立场的决裂，反而最终照亮了他立场的真正品格。
+  - id: 103
+    kind: body
+    source: |-
+      3.3.1.3 Needed assent on practical grounds
+    step1: |-
+      3.3.1.3 基于实践根据的必要认同
+    step2: |-
+      3.3.1.3 基于实践根据的必要认同
+  - id: 104
+    kind: body
+    source: |-
+      The most widespread view in recent scholarship is one that corresponds with the works of Stevenson (2003), Chignell (2007), and Pasternack (2011). It also has earlier adherents, including Beck (1960) and Wood (1970). Although there are interpretative differences among these figures, there is a shared recognition that Kant does regard actual assent (holding-to-be-true) as having its ground in our moral interests, as driven by a “need” or the “needs” of practical reason.
+    step1: |-
+      晚近学界最流行的看法，与 Stevenson（2003）、Chignell（2007）与 Pasternack（2011）的著作相合。它也有较早的拥护者，包括 Beck（1960）与 Wood（1970）。尽管这些人物之间解释有异，他们都承认：康德确实认为实际的认同（视为真）其根据在于我们的道德关切，由实践理性的一个“需要”或“诸需要”所驱动。
+    step2: |-
+      晚近学界最通行的一种看法，与 Stevenson（2003）、Chignell（2007）、Pasternack（2011）相合，早先也有 Beck（1960）、Wood（1970）等人附和。这些解释虽各有出入，却共同承认：康德确实认为实际的认同（视为真）以我们的道德关切为根据，由实践理性的某个“需要”或“诸需要”所推动。
+  - id: 105
+    kind: body
+    source: |-
+      Wood (1970), for example, bases his view upon the “*Absurdum Practicum*” argument where Kant states that anyone who renounces the postulates would become “contemptible” in their own eyes (A828/B856, AK 28:1083 [1817]). Chignell and Pasternack develop their interpretations primarily by way of an analysis of texts where Kant discusses the relationship between belief, knowledge and opinion. What is emphasized among these interpreters is the moral significance of religious assent rather than ontological commitment. Such may be taken as the spirit of Kant’s comment that “I must not even say ‘It is morally certain that there is a God’, but rather ‘I am morally certain’” (A829/B857).
+    step1: |-
+      例如，Wood（1970）把其观点建立在“*Absurdum Practicum*”论证之上：康德说，任何弃绝设准的人都会在自己眼中变得“可鄙”（A828/B856, AK 28:1083 [1817]）。Chignell 与 Pasternack 发展其解释，主要通过对康德讨论信念、知识与意见之关系的文本作分析。这些解释者强调的是宗教认同的道德意义，而非本体论承诺。这或可视为康德这句话的精神：“我甚至不能说‘上帝存在在道德上是确定的’，而只能说‘我在道德上是确定的’”（A829/B857）。
+    step2: |-
+      例如 Wood（1970）以“*Absurdum Practicum*”论证为据：康德说，凡弃绝设准者，都会在自己眼中变得“可鄙”（A828/B856、AK 28:1083 [1817]）。Chignell 与 Pasternack 则主要通过分析康德论信念、知识与意见之关系的文本而立说。这些解释者看重的是宗教认同的道德意义，而非本体论承诺。这或可看作康德那句话的精神：“我甚至不能说‘上帝存在在道德上是确定的’，只能说‘我在道德上是确定的’”（A829/B857）。
+  - id: 106
+    kind: body
+    source: |-
+      Note that while there are a considerable number of texts where Kant endorses the need for religious assent, we may nevertheless distinguish between a number of positions. One holds that the adoption of a belief-state that is more akin to the symbolic use of the postulates, adopting them only in the form of an “as if”, without a commitment to their objective reality (Ferreira 2014)[^ferreira-2014]. The most famous indication of the “as if” attitude appears at 4:448. Another position (Pasternack 2011, Insole 2016)[^insole-2016][^pasternack-2011] is that Kant regarded faith as including a commitment to the objective reality of its objects. Passages in support of this view include AK 5:4 & 5:134 [1788], AK 5:456 & 5:469 [1790], AK 8:139 [1785a], AK 20:299. Note further that the spirit behind the “as if” attitude may be reemerging in a new form within the recent interest in Kant’s conception of moral hope.
+    step1: |-
+      请注意，尽管有相当多的文本表明康德认可宗教认同的必要，我们仍可区分若干立场。一种认为，应当采取一种更近于象征性使用设准的信念状态，只以“仿佛”的形式采纳它们，而不承诺其客观实在性（Ferreira 2014）[^ferreira-2014]。“仿佛”态度最著名的标志见于 4:448。另一种立场（Pasternack 2011, Insole 2016）[^insole-2016][^pasternack-2011]认为，康德把信仰视为包含对其对象客观实在性的承诺。支持此说的段落包括 AK 5:4 & 5:134 [1788], AK 5:456 & 5:469 [1790], AK 8:139 [1785a], AK 20:299。还请留意，“仿佛”态度背后的精神，也许正以新形式重现于晚近对康德道德希望概念的兴趣之中。
+    step2: |-
+      须注意：尽管认可宗教认同之必要的文本不少，其中仍可分出几种立场。一种主张采取更近于象征性使用设准的信念状态，只以“仿佛”的形式采纳它们，不承诺其客观实在性（Ferreira 2014）[^ferreira-2014]；“仿佛”态度最著名的标志见 4:448。另一种立场（Pasternack 2011, Insole 2016）[^insole-2016][^pasternack-2011]则认为，康德视信仰为包含对其对象客观实在性的承诺；支持此说的段落有 AK 5:4 & 5:134 [1788]、AK 5:456 & 5:469 [1790]、AK 8:139 [1785a]、AK 20:299。此外，“仿佛”态度背后的精神，或许正以新形态重现于晚近对康德道德希望概念的兴趣中。
+  - id: 107
+    kind: body
+    source: |-
+      #### 3.3.2 Hope
+    step1: |-
+      #### 3.3.2. 希望
+    step2: |-
+      #### 3.3.2 希望
+  - id: 108
+    kind: body
+    source: |-
+      In the Canon of the *Critique of Pure Reason*, Kant writes that
+    step1: |-
+      在《纯粹理性批判》的“法规”章中，康德写道：
+    step2: |-
+      康德在《纯粹理性批判》“法规”章中写道：
+  - id: 109
+    kind: body
+    source: |-
+      > all interest of my reason (the speculative as well as the practical) is united in the following three questions: 1. What can I know? 2. What should I do? 3. What may I hope.
+    step1: |-
+      > 我理性的一切关切（思辨的与实践的）都统一在以下三个问题中：1. 我能知道什么？2. 我应当做什么？3. 我可以希望什么？
+    step2: |-
+      > 我理性的一切关切——无论思辨的还是实践的——都统一于三个问题：1. 我能知道什么？2. 我应当做什么？3. 我可以希望什么？
+  - id: 110
+    kind: body
+    source: |-
+      Kant then goes on to explain that hope is
+    step1: |-
+      康德随后解释说，希望
+    step2: |-
+      接着康德解释说，希望
+  - id: 111
+    kind: body
+    source: |-
+      > simultaneously practical and theoretical, so that the practical leads like a clue to a reply to the theoretical question and, in its highest form, the speculative question.
+    step1: |-
+      > 同时是实践的与理论的，以致实践的东西像线索一样引向对理论问题的回答，并在其最高形式上引向对思辨问题的回答。
+    step2: |-
+      > 兼具实践与理论两面：实践者如线索般引向对理论问题的回答，而在其最高形态上，则引向对思辨问题的回答。
+  - id: 112
+    kind: body
+    source: |-
+      Kant further describes hope in relation to our interest in happiness (A805/B833). The latter point perhaps connects more specifically with how Kant frames the highest good in the *Critique of Pure Reason* versus later work. Nevertheless, despite how Kant highlights the question of hope in this text, it does not receive the same level of exposition as knowledge, opinion or faith. For further discussion of Kant on hope, see the section on Kant in the entry on [hope](https://plato.stanford.edu/entries/hope/#ImmaKant).
+    step1: |-
+      康德还联系我们对幸福的关切来描述希望（A805/B833）。后一点或许更具体地关联到康德在《纯粹理性批判》与后期著作中对至善的不同框定。尽管如此，尽管康德在文本中突出了希望问题，它却未获得与知识、意见或信仰同等篇幅的阐述。关于康德论希望的进一步讨论，见“希望”词条中论康德的一节。
+    step2: |-
+      康德还就我们对幸福的关切来谈希望（A805/B833）。这后一点，或与他在《纯粹理性批判》与后期著作中对至善的不同框定更具体地相关。然而，尽管康德在此突出了希望问题，它却没有得到与知识、意见、信仰同等篇幅的展开。关于康德论希望，可参“希望”词条中论康德的一节。
+  - id: 113
+    kind: body
+    source: |-
+      ### 3.4 The Highest Good
+    step1: |-
+      ### 3.4. 至善
+    step2: |-
+      ### 3.4 至善
+  - id: 114
+    kind: body
+    source: |-
+      Kant’s doctrine of the highest good is the foundation of his positive philosophy of religion. With the exception of some musings (esp. in the *Critique of Pure Reason*) about an assent driven by our regulative employment of purposiveness (cf. B426, A670/B698 and A826/B854), the path to religion is through the highest good. This doctrine grounds Kant’s endorsement of belief in God’s existence as well as in the immortality of the soul. It is also through this doctrine that Kant sets out what in the *Religion* he calls the Pure Rational System of Religion. Therein, Kant appraises Christian doctrines to determine whether or not they are conducive to our duty to pursue the highest good (see section 3.6.4 and section 3.7 below).
+    step1: |-
+      康德的至善学说是其肯定性宗教哲学的基础。除了某些关于由我们调节性地运用合目的性所驱动的认同的思考（尤其在《纯粹理性批判》中，参 B426, A670/B698 与 A826/B854）之外，通向宗教的道路是经由至善的。这一学说为康德认可对上帝存在与灵魂不朽的信念奠基。也正是通过这一学说，康德提出了他在《宗教》中所谓纯粹理性的宗教体系。在其中，康德评价基督教教义，以判定它们是否有助于我们追求至善的义务（见下文 3.6.4 节与 3.7 节）。
+    step2: |-
+      康德的至善学说是其肯定性宗教哲学的地基。除了若干关于“由我们调节性地运用合目的性所驱动的认同”的思忖（主要在《纯粹理性批判》中，参 B426、A670/B698、A826/B854）之外，通往宗教的路都经由至善。这一学说为康德认可“上帝存在”与“灵魂不朽”的信念奠定基础；也正是借它，康德提出了《宗教》中所谓纯粹理性的宗教体系。他在其中评断基督教教义，看它们是否有助于我们追求至善的义务（见下文 3.6.4 节与 3.7 节）。
+  - id: 115
+    kind: body
+    source: |-
+      In the *Critique of Practical Reason*, Kant distinguishes between the “supreme”, the “complete”, and “highest” good. By “supreme good”, he means the good that is “not subordinate to any other” (AK 5:110 [1788]). That is, if there are a plurality of values, the supreme good is the one that overrides the rest. Hence, if pleasure were taken as a value, its value would be subordinate to morality, and thus its value would be defeated or overridden if the pleasure comes through a violation of the moral law.
+    step1: |-
+      在《实践理性批判》中，康德区分“至上的”、“完整的”与“至高的”善。所谓“至上的善”，他指“不从属于任何其他东西”的善（AK 5:110 [1788]）。也就是说，若有多种价值，至上的善就是压过其余者的那一个。因此，若把快乐当作一种价值，其价值便从属于道德，因而若快乐经由违犯道德法则而来，其价值便被击败或压过。
+    step2: |-
+      康德在《实践理性批判》中区分“至上的”、“完整的”与“至高的”善。“至上的善”指“不从属于任何他者”的善（AK 5:110 [1788]）。即：若有多种价值，至上的善便是压倒其余者。故若以快乐为一种价值，其价值便从属于道德；快乐若来自违犯道德法则，其价值便被击败、被压倒。
+  - id: 116
+    kind: body
+    source: |-
+      The “complete good” is one that “is not part of a still greater whole of the same kind” (AK 5:110 [1788). Kant then explains that while morality is the supreme good, it is not the complete good “as the object of the faculty of desire of rational finite beings” (AK 5:110). This is because, in addition to morality, finite rational beings also desire happiness. So, although happiness is subordinate to morality, morality is not the “complete good” because it does not encompass all that we desire.
+    step1: |-
+      “完整的善”是“不是同一个更大整体的部分”的善（AK 5:110 [1788]）。康德随后解释说，道德虽是至上的善，却不是“作为理性有限存在者欲求能力之对象”的完整的善（AK 5:110）。这是因为，除道德之外，有限理性存在者还欲求幸福。所以，尽管幸福从属于道德，道德却不是“完整的善”，因为它不包含我们所欲求的全部。
+    step2: |-
+      “完整的善”指“不属于同一类更大整体之一部分”的善（AK 5:110 [1788]）。康德接着说明：道德虽是至上的善，却不是“作为理性有限存在者欲求能力对象”的完整之善（AK 5:110）。缘由是：有限理性存在者除道德之外还欲求幸福。故幸福虽从属于道德，道德却算不得“完整的善”，因为它并未囊括我们所欲求的一切。
+  - id: 117
+    kind: body
+    source: |-
+      Kant then presents the highest good as a synthesis of morality and happiness in order to meet the axiological principles of supremacy and completeness. More specifically, he presents the highest good as an ideal state of affairs in which there is a proportional distribution of happiness in accordance with moral worth (A809/B837, AK 5:110 & 5:145 [1788]; AK 5:471 [1790]; AK 6:8n & 6:99 [1793]; AK 8:139 [1785a]; AK 8:281 [1764]). Nevertheless, some interpreters have proposed that Kant withdrew this formulation in later years, supporting instead the notion that the highest good reflects the idea of maximal happiness and maximal morality as two independent variables (Reath 1988, Guyer 2011, Moran 2012)[^guyer-2011][^moran-2012][^reath-1988]. However, Pasternack (2017a) argues at length that the corpus neither supports this nor the putative abandonment of one or both of the postulates of God and immortality (see section 3.5.2 below).
+    step1: |-
+      康德随后把至善呈现为道德与幸福的综合，以满足至上性与完整性这两条价值论原则。更具体地说，他把至善呈现为一种理想事态：其中幸福按道德价值成比例地分配（A809/B837, AK 5:110 & 5:145 [1788]; AK 5:471 [1790]; AK 6:8n & 6:99 [1793]; AK 8:139 [1785a]; AK 8:281 [1764]）。然而，一些解释者提出，康德晚年撤回了这一表述，转而支持“至善反映最大幸福与最大道德作为两个独立变量的理念”这一主张（Reath 1988, Guyer 2011, Moran 2012）[^guyer-2011][^moran-2012][^reath-1988]。不过，Pasternack（2017a）详尽论证：全部著作既不支持此说，也不支持所谓他放弃上帝与不朽两个设准之一或全部的断言（见下文 3.5.2 节）。
+    step2: |-
+      康德随后把至善表述为道德与幸福的综合，以兼顾至上与完整两条价值论原则。更具体说，他把至善描画为一种理想事态：幸福依道德价值按比例分配（A809/B837、AK 5:110 & 5:145 [1788]；AK 5:471 [1790]；AK 6:8n & 6:99 [1793]；AK 8:139 [1785a]；AK 8:281 [1764]）。但有解释者主张，康德晚年撤回了这一表述，转而认为至善是“最大幸福与最大道德两个独立变量”的理念（Reath 1988, Guyer 2011, Moran 2012）[^guyer-2011][^moran-2012][^reath-1988]。Pasternack（2017a）则详加论证：全部著作既不支持此说，也不支持所谓他放弃上帝、不朽两设准之一或全部的断言（见下文 3.5.2 节）。
+  - id: 118
+    kind: body
+    source: |-
+      ### 3.5 The Practical Postulates
+    step1: |-
+      ### 3.5. 实践设准
+    step2: |-
+      ### 3.5 实践设准
+  - id: 119
+    kind: body
+    source: |-
+      Although Kant enumerates three postulates, freedom, God, and immortality, their etiologies differ. In contrast to the latter two, the postulate of freedom is more directly tied to the fact of reason, taken as a necessary condition for the bindingness of the moral law upon us. By contrast, the postulates of God and Immortality are rooted in the highest good. As such, we will here only be concerned with the latter two “religious” postulates.
+    step1: |-
+      尽管康德列举了三个设准——自由、上帝与不朽——它们的成因却不相同。与后两个不同，自由设准更直接地系于理性事实，被当作道德法则对我们之约束性的必要条件。相比之下，上帝与不朽的设准植根于至善。因此，我们在此只关心后两个“宗教”设准。
+    step2: |-
+      康德列出三个设准——自由、上帝、不朽——其来路却不一样。与后两者不同，自由设准更直接系于理性事实，被视为道德法则对我们具有约束力的必要条件；上帝与不朽的设准则植根于至善。故此处只论后两个“宗教”设准。
+  - id: 120
+    kind: body
+    source: |-
+      #### 3.5.1 The postulate of God
+    step1: |-
+      #### 3.5.1. 上帝设准
+    step2: |-
+      #### 3.5.1 上帝设准
+  - id: 121
+    kind: body
+    source: |-
+      While the *Critique of Pure Reason* shows some sympathy for the Argument from Design, Kant remarks that it can only get us to a “Wise Author of Nature”, a being who is responsible for the order of nature, rather than a creator, a being with infinite capacities, or a moral being. By contrast, the Canon of the First *Critique* advances a conception of God as omnipotent, omniscient, and omnibenevolent. Hence, as there argued, in order for the highest good to obtain, there must be a being capable of arranging the world such that happiness is exactly proportioned to moral worth. This being must further have the cognitive powers necessary to judge our moral worth and, presumably, a will aligned with morality.
+    step1: |-
+      尽管《纯粹理性批判》对设计论证表现出一些同情，康德指出它只能把我们带到“明智的自然作者”——一个对自然秩序负责的存在者——而非创造者、具有无限能力的存在者或道德存在者。相比之下，第一《批判》的“法规”章提出一个全能、全知、全善的上帝概念。因此，如那里所论证，为使至善实现，必须有一个存在者能够安排世界，使幸福恰与道德价值成比例。这一存在者还必须具备判断我们道德价值所需的认识能力，想必还有与道德相一致的意志。
+    step2: |-
+      《纯粹理性批判》对设计论证虽露同情，康德却指出它只能领我们到“明智的自然作者”——对自然秩序负责的存在者——而非创造者、具无限能力者或道德存在者。反之，第一《批判》“法规”章提出的上帝概念是全能、全知、全善的。故如该章所论，至善若要实现，就须有一个能安排世界、使幸福恰与道德价值成比例的存在者。此存在者还得具备判断我们道德价值所需的认识能力，想必也须有与道德相合的意志。
+  - id: 122
+    kind: body
+    source: |-
+      Kant explains that our construction of the classic conception of God as omnipotent, omniscient and all good gains its validity through the need for this being as the agent responsible for the distribution of happiness in proportion to moral worth (A816/B845–A819/B847). It is through morality and the highest good that we “produced a concept of the divine being that we now hold to be correct” (A818/B846). Likewise, “What does it Mean to Orient Oneself in Thinking”, Kant explains that the very “*concept* of God and even the conviction of his *existence*” arises through our practical needs and that these needs operate as the “signpost or compass by means of which the speculative thinker orients himself in his rational excursions into the field of supersensible objects” (AK 8:142 [1785a]). In other words, while theoretical reason on its own ventures into this field without any valid warrants, the needs of practical reason, from which we form both our concepts of the postulates and the basis for our assent, is, Kant maintains, the sole basis by which we may extend our cognition (i.e., valid construction of concepts) into the supersensible.
+    step1: |-
+      康德解释说，我们关于全能、全知、全善的古典上帝概念的构造之所以有效，正是由于我们需要这一存在者作为按道德价值比例分配幸福的执行者（A816/B845–A819/B847）。正是通过道德与至善，我们“产生了一个我们现在认为是正确的神圣存在者概念”（A818/B846）。同样，在《在思想中确定方向意味着什么》中，康德解释说，“上帝*概念*、乃至对其*存在*的确信”本身正是通过我们的实践需要而产生的，而这些需要充当“思辨思想者在理性远游中进入超感性对象领域时的路标或罗盘”（AK 8:142 [1785a]）。换言之，理论理性自行闯入这一领域时没有任何有效凭据，而实践理性的需要——我们由之形成设准概念并据以认同——按康德，才是我们借以把认识（即概念的有效构造）扩展至超感性者的唯一基础。
+    step2: |-
+      康德解释说，我们把上帝构造成全知、全能、全善的古典形象，其有效性正来自我们需要这一存在者充当“按道德价值比例分配幸福”的执行者（A816/B845–A819/B847）。正是经由道德与至善，我们“产生了一个如今自认为正确的神圣存在者概念”（A818/B846）。同样，《在思想中确定方向意味着什么》说：“上帝*概念*、乃至对其*存在*的确信”本身即由我们的实践需要而生；这些需要是“思辨思想者在理性远游中进入超感性域时的路标或罗盘”（AK 8:142 [1785a]）。换言之，理论理性独自闯入此域时并无有效凭据；而实践理性的需要——我们由之形成设准概念、并获得认同根据——按康德，才是我们把认识（即概念的有效构造）扩展至超感性者的唯一基础。
+  - id: 123
+    kind: body
+    source: |-
+      #### 3.5.2 The postulate of immortality
+    step1: |-
+      #### 3.5.2. 不朽设准
+    step2: |-
+      #### 3.5.2 不朽设准
+  - id: 124
+    kind: body
+    source: |-
+      The postulate of immortality is typically found alongside Kant’s discussions of the postulate of God. He regards both as necessary conditions for the realization of the highest good, though the function of this postulate undergoes a number of revisions through the Critical period.
+    step1: |-
+      不朽设准通常与康德对上帝设准的讨论相伴出现。他把两者都视为至善实现的必要条件，尽管这一设准的功能在批判时期经历了若干修订。
+    step2: |-
+      不朽设准通常与上帝设准的讨论相随。康德视二者皆为至善实现之必要条件；不过该设准的功能在批判期几经修改。
+  - id: 125
+    kind: body
+    source: |-
+      In the *Critique of Pure Reason*, Kant presents two distinct arguments for it. The first is a non-moral argument and is found in the B-Paralogism, after his rejection of Mendelssohn’s argument for the same. Mendelssohn’s argument builds off the thesis that the soul is a simple entity and cessation of existence involves a dissolution of one part and then another. He thus concludes that since the soul is simple, it is impossible for it to cease to exist. Kant rejects this argument on the grounds that even simple beings can have a degree of reality (an intensive magnitude) that can diminish to zero, he shortly thereafter presents his own argument for the soul’s immortality, one that has a similar metaphysical bent: (a) since throughout nature there is a proportionality between purposes and the conditions for the realization of those purposes, there should be a similar proportionality between our capacities and the conditions for their realization, and (b) since the grandeur of our capacities, including both our natural talents and moral vocation, exceeds what can be realized in this life, it follows (c) that we are justified in affirming a “future life”. This argument, or one very similar to it, is also present in the Canon’s discussion of “doctrinal belief” [*doctrinale Glaube*]. However, this is not an argument that endures beyond the 1780s. It is absent in later works, and in the *Critique of Judgment*, Kant explicitly dismisses it along with all other non-moral arguments for the afterlife (cf. AK 5:460 & 5:468 [1790]).
+    step1: |-
+      在《纯粹理性批判》中，康德为它提出两个不同论证。第一个是非道德论证，见于 B 版“谬误推理”，在他拒绝门德尔松同一论题之后。门德尔松的论证建立在灵魂是单纯实体、而存在的终止意味着先一部分、再另一部分解体这一论题之上。他由此断定：既然灵魂是单纯的，它就不可能终止存在。康德拒绝这一论证，理由是即便单纯存在者也可以具有一种能减至零的实在程度（强量）；他随后不久提出自己的灵魂不朽论证，带有类似的形而上学倾向：（a）既然整个自然中目的与实现目的之条件之间存在比例关系，我们的能力与实现这些能力之条件之间也应有类似的比例关系；（b）既然我们能力的宏大——包括自然禀赋与道德天职——超出了此生所能实现者，那么（c）我们有理由肯定一种“未来生活”。这一论证或与之极相似的论证，也见于“法规”章对“教义性信念”［*doctrinale Glaube*］的讨论。然而，这一论证并未延续到 1780 年代之后。后期著作中没有它，而在《判断力批判》中，康德明确把它连同其他一切关于来世的非道德论证一起弃置（参 AK 5:460 & 5:468 [1790]）。
+    step2: |-
+      《纯粹理性批判》为它给了两个不同的论证。第一个非道德的论证见 B 版“谬误推理”，紧接康德否弃门德尔松的同一论证之后。门德尔松的论证依托“灵魂是单纯实体、存在的终止须先一部分后一部分地解体”这一论题，遂断定：灵魂既单纯，就不可能终止存在。康德驳之：即便单纯存在者也能具有可减至零的实在程度（强量）。他随后给出自己的灵魂不朽论证，形而上学气味相仿：（a）自然中目的与实现目的之条件既成比例，我们的能力与实现其条件之间也应有类似比例；（b）我们能力的宏大——包括自然禀赋与道德天职——超出此生所能实现者，故（c）我们有理由肯定一种“未来生活”。这一论证、或与之极相似者，亦见于“法规”章对“教义性信念”［*doctrinale Glaube*］的讨论。但它未能延续到 1780 年代之后：后期著作不见其踪，而《判断力批判》明确把它连同其他一切关于来世的非道德论证一并弃置（参 AK 5:460 & 5:468 [1790]）。
+  - id: 126
+    kind: body
+    source: |-
+      The other and better-known argument for this postulate is first found in the *Critique of Pure Reason*’s Canon. Like his argument for the postulate of God, Kant also argues that we must postulate the immortality of the soul as a necessary condition for the distribution of happiness in the highest good. Given the exigencies of the natural order, this distribution cannot be secured within this order. We must therefore posit a “future life”, a “Kingdom of Grace” where “every happiness awaits us as long as we do not ourselves limit our share of it through the unworthiness to be happy” (A812/B840). Hence, in the First *Critique*, the purpose of the afterlife is to provide a domain for the highest good’s distribution of happiness.
+    step1: |-
+      另一个、也是更有名的设准论证，首见于《纯粹理性批判》的“法规”章。与他对上帝设准的论证一样，康德也论证：我们必须设定灵魂不朽，作为至善中幸福分配的必要条件。鉴于自然秩序的紧迫限制，这一分配无法在该秩序内得到保障。因此我们必须设定一种“未来生活”，一个“恩典之国”，在那里“一切幸福都在等待着我们，只要我们不由自己不配享幸福而限制了自己应得的那一份”（A812/B840）。所以，在第一《批判》中，来世的目的是为至善的幸福分配提供一个领域。
+    step2: |-
+      另一个更有名的论证，首见于《纯粹理性批判》“法规”章。与上帝设准的论证一样，康德主张：必须设定灵魂不朽，作为至善中幸福分配的必要条件。自然秩序有种种不得已，这一分配在此秩序内无法确保。于是我们须设定一种“未来生活”，一个“恩典之国”——“只要我们不因自己不配享幸福而自行限缩应得之份，一切幸福都在那里等着我们”（A812/B840）。故在第一《批判》里，来世的职分是为至善的幸福分配提供一个场域。
+  - id: 127
+    kind: body
+    source: |-
+      Before moving forward, let us discuss the belief found in some quarters (Reath 1989, Rawls 2000, Guyer 2005)[^guyer-2005][^rawls-2000][^reath-1989] that Kant abandoned the postulate of immortality in the 1790s.
+    step1: |-
+      在继续之前，让我们讨论一下某些论者（Reath 1989, Rawls 2000, Guyer 2005）[^guyer-2005][^rawls-2000][^reath-1989]所持的看法：康德在 1790 年代放弃了不朽设准。
+    step2: |-
+      往下走之前，先谈谈某些论者的看法（Reath 1989, Rawls 2000, Guyer 2005）[^guyer-2005][^rawls-2000][^reath-1989]：康德在 1790 年代放弃了不朽设准。
+  - id: 128
+    kind: body
+    source: |-
+      The most common claim used to support this assertion is that Kant’s uses the phrase “highest good in the world” (AK 5:450 [1790]) in the *Critique of the Power of Judgment* in order to signal a shift away from an afterlife ideal distribution of happiness in proportion to moral worth to the ideal of the highest good as connected with our ordinary corporeal existence. What, however, Kant means by “in the world” requires some investigation before any such conclusions can be drawn.
+    step1: |-
+      支持这一断言的最常见说法是，康德在《判断力批判》中使用“世界中的至善”（AK 5:450 [1790]）这一短语，以标示从“来世按道德价值比例分配幸福的理想”转向“与我们的日常肉体存在相连的至善理想”。然而，在得出任何此类结论之前，康德所谓“在世界中”是什么意思，还需一番考察。
+    step2: |-
+      支撑此说的最常见理由是：康德在《判断力批判》里用了“世界中的至善”（AK 5:450 [1790]）一语，以标示一种转向——由来世按道德价值比例分配幸福的理想，转向与日常肉体存在相连的至善理想。但在下任何此类结论之前，康德所谓“在世界中”何意，尚须考察。
+  - id: 129
+    kind: body
+    source: |-
+      First, Kant directly discusses what he intends by “world” in the *Critique of Pure Reason* where he explains to readers that he will be using “nature” to refer to “the unity in the existence of appearances” (A419/B447) versus “world”, which has a “transcendental sense”, such that when dealing with cosmological ideas, “world” goes beyond just the phenomenal to the “sum total of existing things” (A419/B447).
+    step1: |-
+      第一，康德在《纯粹理性批判》中直接讨论了他所谓“世界”意指什么：他向读者解释，他将用“自然”指“显象存在中的统一”（A419/B447），而“世界”则有“先验意义”，因此在处理宇宙论理念时，“世界”超出单纯现象，指“现存事物的总和”（A419/B447）。
+    step2: |-
+      其一，康德在《纯粹理性批判》里直说“世界”何指：他告诉读者，自己用“自然”指“显象存在中的统一”（A419/B447）；“世界”则取“先验意义”，故论及宇宙论理念时，“世界”越过单纯现象，指“现存事物之总和”（A419/B447）。
+  - id: 130
+    kind: body
+    source: |-
+      Second, we see “world” used in this manner throughout the corpus, including passages where it is quite clear that Kant uses “world” in its “transcendental sense”, extending beyond just the realm of nature (e.g., A811/B839, A813/B839, AK 5:143 [1788], AK 8:139 [1785a], 20:298. In fact, Kant even describes the postulate of immortality as obtaining “in the world” at the opening of his discussion of this postulate in the *Critique of Practical Reason* (AK 5:122—see also 5:143 [1788]).
+    step1: |-
+      第二，我们在全部著作中都能看到“世界”以此方式被使用，包括一些段落清楚表明康德是在“先验意义”上使用“世界”、超出单纯自然领域的（例如 A811/B839, A813/B839, AK 5:143 [1788], AK 8:139 [1785a], 20:298）。事实上，康德在《实践理性批判》讨论不朽设准的开头，甚至把不朽设准描述为“在世界中”获得（AK 5:122——亦见 5:143 [1788]）。
+    step2: |-
+      其二，全部著作中都能见到“世界”如此用法，包括一些段落明确显示康德取“先验意义”、超出单纯自然领域（例如 A811/B839、A813/B839、AK 5:143 [1788]、AK 8:139 [1785a]、20:298）。事实上，康德在《实践理性批判》论不朽设准的开篇，就把该设准说成“在世界中”获得（AK 5:122——又见 5:143 [1788]）。
+  - id: 131
+    kind: body
+    source: |-
+      Third, the highest good is linked with the immortality of the soul continually through the texts of the 1790s, including the Critique of Judgment, where it can be found more than a dozen times through its final section. It is mentioned briefly in the “Theodicy” essay of 1791 (AK 8:262 & 8:269n), in multiple passages throughout the *Religion*, in “The End of All Things” (AK 8:328–330 [1794]) in the *Conflict of the Faculties* (AK 7:40, 7:44, etc. [1798]), the 1796 “Proclamation” Essay (AK 8:418–419), as well as in “Real Progress” (AK 20:298). Accordingly, despite the stature of those who put forward the claim that Kant abandoned the postulate of immortality circa 1790, it is a claim that does not attend to either how Kant uses “world” versus “nature”, nor the surfeit of affirmative discussions about the afterlife through the 1790s.
+    step1: |-
+      第三，至善与灵魂不朽在 1790 年代的文本中持续相连，包括《判断力批判》——在其末节中可找到十余次。它在 1791 年《神义论》论文中简短提及（AK 8:262 & 8:269n），在《宗教》多处出现，见于《万物之终结》（AK 8:328–330 [1794]）、《学科之争》（AK 7:40, 7:44 等 [1798]）、1796 年“宣告”论文（AK 8:418–419），以及《论真正的进步》（AK 20:298）。因此，尽管提出“康德约在 1790 年放弃不朽设准”这一主张的人物声望很高，该主张既未顾及康德如何使用“世界”与“自然”，也未顾及 1790 年代大量关于来世的肯定论述。
+    step2: |-
+      其三，整个 1790 年代的文本中，至善与灵魂不朽始终相连，包括《判断力批判》——其末节可见十余次。1791 年《神义论》论文简短提及（AK 8:262 & 8:269n），《宗教》多处出现，另见《万物之终结》（AK 8:328–330 [1794]）、《学科之争》（AK 7:40、7:44 等 [1798]）、1796 年“宣告”论文（AK 8:418–419）及《论真正的进步》（AK 20:298）。所以，尽管主张“康德约 1790 年弃置不朽设准”者声望不小，此说既未理会康德“世界”与“自然”的用法之别，也未理会 1790 年代有关来世的大量肯定论述。
+  - id: 132
+    kind: body
+    source: |-
+      Fourth, supporters of the abandonment thesis assert that Kant no longer needs the postulate of immortality (and perhaps God) because in the 1790s he further abandons his earlier picture of the highest good as a distribution of happiness in proportion to moral worth, adopting instead the idea that this ideal is composed of maximal happiness and maximal morality as two independent variables. The basis for this claim is his 1793 essay “On the Common Saying: ‘That may be Correct in Theory, but it is of no use in Practice’” where Kant describes the highest good as “universal happiness combined with and in conformity with the purest morality throughout the world” (AK 8:279). Yet the interpretative merits of this claim built upon this passage are greatly diminished once one attends to the footnote Kant attaches to it, where he explains that he does not mean happiness on its own, “but only of a proportion between it and the worthiness of a subject” (AK 8:280n).
+    step1: |-
+      第四，放弃论的支持者断言，康德不再需要不朽设准（也许还有上帝设准），因为他在 1790 年代进一步放弃了早先那种“幸福按道德价值比例分配”的至善图景，转而采纳“这一理想由最大幸福与最大道德两个独立变量构成”的观念。该主张的依据是他 1793 年的论文《论俗语：这在理论上也许正确，但在实践上无用》，康德在其中把至善描述为“普遍幸福与最纯粹的道德相结合、并与之相一致地贯穿全世界”（AK 8:279）。然而，一旦留意康德为此加上的脚注——他解释自己并非指幸福本身，“而只是它同主体配享性之间的比例”（AK 8:280n）——建立在这一段落上的解释价值便大打折扣。
+    step2: |-
+      其四，弃置论者断言：康德不再需要不朽设准（也许还有上帝设准），因为他在 1790 年代进一步舍弃了早先“幸福按道德价值比例分配”的至善图景，改采“最大幸福与最大道德两个独立变量”之说。其依据是 1793 年论文《论俗语：这在理论上也许正确，但在实践上无用》，康德在其中把至善说成“普遍幸福与最纯粹道德相结合、并与之相合地贯穿全世界”（AK 8:279）。但只要看一眼康德为此所加的脚注——他说明自己并非指幸福本身，“而只是它与主体配享性之间的比例”（AK 8:280n）——建立在这段话上的解释价值便大打折扣。
+  - id: 133
+    kind: body
+    source: |-
+      The abandonment thesis is further defended by Guyer (2016) where in addition to building his case for this thesis based upon the aforementioned depiction of the highest good at AK 8:279, he also argues that in the *Religion* Kant has given up the Second *Critique*’s rationale for the postulate of immortality, namely, immortality as required for the sake of an eternal striving for perfection. Rather than being tied to (striving for) perfection, we find in the *Religion* that our moral worthiness is instead tied to our supreme maxim or “change of heart”.
+    step1: |-
+      Guyer（2016）进一步为放弃论辩护：除了依据上述 AK 8:279 处对至善的描绘立论外，他还论证，在《宗教》中康德已放弃第二《批判》为不朽设准给出的理据，即不朽为永恒追求完善所必需。我们发现，在《宗教》中，我们的道德配享性不再系于（对）完善的（追求），而系于我们的至上准则或“心灵转变”。
+    step2: |-
+      Guyer（2016）进一步为弃置论辩护：除依据 AK 8:279 处对至善的描绘立论外，他还主张康德在《宗教》里已放弃第二《批判》为不朽设准给出的理据——不朽乃永恒追求完善所必需。在《宗教》中，我们的道德配享性不再系于（对）完善的（追求），而系于至上准则，即“心灵转变”。
+  - id: 134
+    kind: body
+    source: |-
+      That is, Guyer proposes that the standard for moral worthiness offered by Kant in the *Religion* no longer itself requires the postulation of immortality. This is a view likewise advanced by Pasternack (2014: 142–146) in his discussion of the “change of heart” in the *Religion*. Unlike what is found in the Second *Critique*, in both the *Religion* and “The End of All Things” (1794), Kant presents our afterlife fate as solely dependent upon (or should be viewed as solely dependent upon) what we can morally achieve in this life (AK 6:69n–71n [1793], AK 8:328–330 [1794]). Hence, once our moral worthiness is understood as something to be achieved in this life, how one interprets Kant’s commitment to the postulate centrally turns on how one interprets his views on the distribution of happiness within the highest good.
+    step1: |-
+      也就是说，Guyer 提出，《宗教》中康德所给的道德配享性标准本身不再要求设定不朽。这也是 Pasternack（2014: 142–146）在讨论《宗教》中的“心灵转变”时所主张的看法。与第二《批判》所见不同，在《宗教》与《万物之终结》（1794）中，康德把我们死后的命运描述为仅仅取决于（或应被视为仅仅取决于）我们此生能在道德上成就的东西（AK 6:69n–71n [1793], AK 8:328–330 [1794]）。因此，一旦把我们的道德配享性理解为此生可成就之事，如何解释康德对设准的承诺，关键就取决于如何解释他关于至善中幸福分配的看法。
+    step2: |-
+      这就是说，Guyer 认为《宗教》所提供的道德配享性标准本身已不再需要设定不朽。Pasternack（2014: 142–146）论《宗教》“心灵转变”时也持此说。与第二《批判》不同，《宗教》与《万物之终结》（1794）都把我们死后的命运说成仅取决于（或应仅被视为取决于）此生能在道德上所成就者（AK 6:69n–71n [1793]、AK 8:328–330 [1794]）。因此，一旦把道德配享性理解为此生可成之事，如何解读康德对设准的承诺，就取决于如何解读他关于至善内幸福分配的看法。
+  - id: 135
+    kind: body
+    source: |-
+      As discussed through this subsection, Kant’s views on the postulate of immortality through the Critical period involve these three core issues: (a) the standard for moral worth articulated by Kant in various texts; (b) whether Kant continues to regard the highest good as a distribution of happiness in proportion to moral worth versus as maximal happiness and maximal morality as two independent variables; and (c) whether or not the distribution of happiness (especially if taken as proportionate to moral worth) depends upon the postulate of immortality (i.e., cannot take place within the causal order of nature). Beyond these three core issues, further issues include: (d) the limitations to and relevance of our speculations about the nature of the afterlife (see AK 6:69n–6:71n [1793] and AK 8:328–332 [1794]) and (e) the historical backdrop for Kant’s engagement with various models of the afterlife (see Bunch 2010)[^bunch-2010].
+    step1: |-
+      如本小节所论，康德批判时期关于不朽设准的观点涉及三个核心问题：（a）康德在各文本中所阐明的道德配享性标准；（b）康德是否仍把至善视为按道德价值比例分配幸福，还是视为最大幸福与最大道德两个独立变量；（c）幸福的分配（尤其若被视为与道德价值成比例）是否依赖于不朽设准（即不能在自然的因果秩序内发生）。在这三个核心问题之外，还有：（d）我们关于来世本性的思辨所受的限制及其相关性（见 AK 6:69n–6:71n [1793] 与 AK 8:328–332 [1794]），以及（e）康德处理各种来世模式的历史背景（见 Bunch 2010）[^bunch-2010]。
+    step2: |-
+      本节所述表明，康德批判期的不朽设准观牵涉三个核心问题：（a）他在各文本中提出的道德配享性标准；（b）他是否仍把至善视为幸福按道德价值比例分配，抑或视为最大幸福与最大道德两个独立变量；（c）幸福分配（尤其若与道德价值成比例）是否依赖不朽设准，即能否在自然因果秩序内实现。三题之外，还有（d）关于来世本性的思辨之限度与相关性（见 AK 6:69n–6:71n [1793]、AK 8:328–332 [1794]），以及（e）康德处理各种来世模式的历史背景（见 Bunch 2010）[^bunch-2010]。
+  - id: 136
+    kind: body
+    source: |-
+      ### 3.6 Kant as Philosophical Theologian
+    step1: |-
+      ### 3.6. 作为哲学神学家的康德
+    step2: |-
+      ### 3.6 作为哲学神学家的康德
+  - id: 137
+    kind: body
+    source: |-
+      In October 1794, Kant received a royal rescript from the court of Frederick William II reprimanding him for his heterodox writings on Christianity and prohibiting him from further publication which “distort and disparage” Christianity (cf. AK 7:6 [1798]). In his official response (unknown date, but late October 1794 is most likely), Kant agreed to “hereafter refrain altogether from discoursing publicly, in lectures or writing, on religion,” but also protested that his writings nevertheless have made “no *appraisal* of Christianity” (AK 7:8 [1798]).
+    step1: |-
+      1794 年 10 月，康德收到腓特烈·威廉二世宫廷的一道敕谕，斥责他关于基督教的异端著作，并禁止他再发表“歪曲和贬损”基督教的文字（参 AK 7:6 [1798]）。在其正式答复中（日期不详，但 1794 年 10 月下旬最可能），康德同意“此后在讲演或写作中完全不再公开谈论宗教”，但也抗议说，他的著作毕竟并未“对基督教作出任何*评价*”（AK 7:8 [1798]）。
+    step2: |-
+      1794 年 10 月，康德收到腓特烈·威廉二世宫廷的敕谕：斥其论基督教的著作不合正统，禁止他再出版“歪曲、贬损”基督教的文字（参 AK 7:6 [1798]）。康德的正式答复（日期不详，最可能在 1794 年 10 月下旬）同意“此后在讲演或著述中一概不再公开议论宗教”，但同时申辩：他的著作毕竟“对基督教未作任何*评断*”（AK 7:8 [1798]）。
+  - id: 138
+    kind: body
+    source: |-
+      Putting aside the question as to whether Kant might have prevaricated in his response, the question remains: to what extent does Kant engage with Christian doctrine and to what extent is his philosophical theology compatible with it? On the one hand, there are epistemological questions which we have addressed elsewhere in this entry. But there is also the question of whether or not Kant saw his work as compatible or at odds with such core Christian doctrines as Original Sin, Grace, the Incarnation, and Vicarious Atonement. We will here consider four interpretative positions.
+    step1: |-
+      暂且不论康德在答复中是否可能支吾其词，问题仍在：康德在多大程度上处理基督教教义，他的哲学神学又在多大程度上与之相容？一方面，有我们在本词条别处讨论过的认识论问题。但还有一个问题：康德是否认为自己的工作与原罪、恩典、道成肉身、代赎等核心基督教教义相容，还是相冲突？我们在此考察四种解释立场。
+    step2: |-
+      且不问康德那封答复是否敷衍，问题仍在：他究竟在多大程度上处理基督教教义？他的哲学神学与之相容到什么地步？一面是我们在本词条他处已谈的认识论问题；另一面则是：康德自认其工作与原罪、恩典、道成肉身、代赎等核心教义是相合还是相悖？此处考察四种解释立场。
+  - id: 139
+    kind: body
+    source: |-
+      #### 3.6.1 A successful Christian apologist
+    step1: |-
+      #### 3.6.1. 成功的基督教护教者
+    step2: |-
+      #### 3.6.1 成功的基督教护教者
+  - id: 140
+    kind: body
+    source: |-
+      Some interpreters have claimed that the *Religion* serves as Kant’s philosophical defense of traditional Christian doctrines, and that it succeeds in this regard. This is a view advanced by Chris Firestone and Nathan Jacobs in their *In Defense of Kant’s Religion*. For example, these authors hold that Kant’s portrayal of moral evil in Part One is shaped by an “Augustinian metaphysic” (Firestone & Jacobs 2008: 136)[^firestone-2008], that in Part Two Kant promotes the idea of the Incarnation, utilizing a “Scotistic understanding of divine being” (Firestone & Jacobs 2008: 161)[^firestone-2008] and that Part Four not only concludes with an argument for the “priority of belief in Christianity” but defends the necessity of special revelation which, as they earlier claim, is necessary for Kant’s critical philosophy as a whole (Firestone & Jacobs 2008: 115)[^firestone-2008].
+    step1: |-
+      一些解释者主张，《宗教》是康德对传统基督教教义的哲学辩护，且在这方面是成功的。这是克里斯·法尔斯通与内森·雅各布斯在《为康德的宗教辩护》中所提的看法。例如，两位作者认为，康德在第一部分对道德恶的刻画由一种“奥古斯丁式形而上学”塑造（Firestone & Jacobs 2008: 136）[^firestone-2008]；在第二部分康德提倡道成肉身的观念，运用了“司各脱式神性理解”（Firestone & Jacobs 2008: 161）[^firestone-2008]；而第四部分不仅以“基督教信仰之优先性”的论证作结，还辩护了特殊启示的必要性——如他们早先所说，这对康德的批判哲学整体是必要的（Firestone & Jacobs 2008: 115）[^firestone-2008]。
+    step2: |-
+      有些解释者主张，《宗教》是康德为传统基督教教义所作的哲学辩护，而且是成功的。此说见 Chris Firestone 与 Nathan Jacobs 的《为康德的宗教辩护》。例如，他们称康德在第一部分对道德恶的刻画由“奥古斯丁式形而上学”塑成（Firestone & Jacobs 2008: 136）[^firestone-2008]；第二部分提倡道成肉身，借用了“司各脱式神性理解”（2008: 161）[^firestone-2008]；第四部分不仅以“基督教信仰优先”的论证收尾，还为特殊启示的必要性辩护——如他们先前所说，这对康德的批判哲学整体不可或缺（2008: 115）[^firestone-2008]。
+  - id: 141
+    kind: body
+    source: |-
+      A similar position is advanced by Stephen Palmquist who finds in the *Religion* not only an examination of those aspects of rational religion which conform with Christian doctrine, but also a philosophical defense of the need for revelation. Palmquist claims, for example, that *Religion’s* treatment of Original Sin is used by Kant to articulate “what we might call a Christ-sized ‘hole’ in the heart of humanity’s rational capacity” (Palmquist 2016: 165)[^palmquist-2016], that Kant “regarded the Christian Gospel as a genuine revelation” (Palmquist 2016: 166)[^palmquist-2016] and that an otherwise deficient “bare reason” requires revelatory content in order that we may “believe” in our own capacity to imitate the “archetype of perfection” (Palmquist 2016: 166)[^palmquist-2016]. That is, Palmquist contends that, in line with traditional Christianity, Kant regards our salvation as dependent upon having faith in the historical reality of the Incarnation.
+    step1: |-
+      斯蒂芬·帕姆奎斯特提出类似立场：他在《宗教》中不仅看到对理性宗教中与基督教教义相合的那些方面的考察，还看到对启示之需要的哲学辩护。例如，帕姆奎斯特主张，《宗教》对原罪的处理被康德用来表述“我们或可称为人类理性能力心脏中一个基督般大小的‘洞’”（Palmquist 2016: 165）[^palmquist-2016]；康德“把基督教福音视为真正的启示”（Palmquist 2016: 166）[^palmquist-2016]；而本有缺陷的“纯粹理性”需要启示性内容，以便我们能“相信”自己有模仿“完善之原型”的能力（Palmquist 2016: 166）[^palmquist-2016]。也就是说，帕姆奎斯特主张，与传统基督教一致，康德认为我们的得救取决于对道成肉身之历史实在性的信仰。
+    step2: |-
+      Stephen Palmquist 持类似立场：他在《宗教》中既看到对理性宗教中合乎基督教教义部分的考察，也看到为启示之必要所作的哲学辩护。例如他说，康德借《宗教》对原罪的处理，道出“人类理性能力心脏中一个基督般大小的‘洞’”（Palmquist 2016: 165）[^palmquist-2016]；康德“把基督教福音看作真正的启示”（2016: 166）[^palmquist-2016]；本有欠缺的“赤裸理性”需要启示内容，我们方能“相信”自己有能力效法“完善之原型”（2016: 166）[^palmquist-2016]。换言之，Palmquist 主张：与传统基督教一致，康德认为我们的得救取决于是否信那道成肉身的历史实在。
+  - id: 142
+    kind: body
+    source: |-
+      #### 3.6.2 A Failed Christian apologist
+    step1: |-
+      #### 3.6.2. 失败的基督教护教者
+    step2: |-
+      #### 3.6.2 失败的基督教护教者
+  - id: 143
+    kind: body
+    source: |-
+      A second school of interpretation likewise maintains that Kant wrote the *Religion* for the purposes of offering a philosophical defense of traditional Christian doctrines. This school, however, holds that he was ultimately unsuccessful. This is a view which principally flows from Karl Barth’s 1947 *Die protestantische Theologie im 19. Jahrhundert*, and is adopted by a group of later philosophers of religion including members of the school of “Reformed Epistemology”, including Philip Quinn, Nicholas Wolterstorff and John Hare.
+    step1: |-
+      第二个解释学派同样主张，康德写《宗教》是为传统基督教教义提供哲学辩护。然而，这一学派认为他最终并不成功。此说主要源自卡尔·巴特 1947 年的《19 世纪新教神学》，并为后来一批宗教哲学家所采纳，包括“改革宗认识论”学派的成员菲利普·奎因、尼古拉斯·沃尔特斯多夫与约翰·黑尔。
+    step2: |-
+      第二个解释学派也认为康德写《宗教》是为传统基督教教义作哲学辩护，但断言他终究失败。此说主要出自卡尔·巴特 1947 年的《19 世纪新教神学》，后为一批宗教哲学家采纳，包括“改革宗认识论”学派的 Philip Quinn、Nicholas Wolterstorff 与 John Hare。
+  - id: 144
+    kind: body
+    source: |-
+      Within Kant circles, they are best known for the so-called “Conundrum” interpretation of Kant’s *Religion,* where these authors protest that Kant’s venture into philosophical theology is not only inconsistent with the epistemic strictures of Transcendental Idealism (Wolterstorff 1998)[^wolterstorff-1998], but also is internally inconsistent in virtue of the fact that its understanding of Original Sin is essentially Augustinian while its understanding of moral restoration is Pelagian. Wolterstorff goes so far as to claim that Kant’s philosophical theology suffers from “not just implausibility or tension, but internal contradiction” (Wolterstorff 1991: 49)[^wolterstorff-1991]. Likewise, John Hare (1996) declares it an outright “failure” and Gordon Michalson (1990) contends that the *Religion* contains a litany of “wobbles” between incompatible Christian and Enlightenment commitments.
+    step1: |-
+      在康德研究圈内，他们以对康德《宗教》的所谓“难题”（Conundrum）解释最为出名：这些作者抗议说，康德涉足哲学神学不仅与先验观念论的认识论限制不相容（Wolterstorff 1998）[^wolterstorff-1998]，而且本身内部不一致，因为其对原罪的理解本质上是奥古斯丁式的，而对道德恢复的理解却是佩拉纠式的。沃尔特斯多夫甚至声称，康德的哲学神学“不仅有不可信或紧张之处，而且有内部矛盾”（Wolterstorff 1991: 49）[^wolterstorff-1991]。同样，John Hare（1996）宣称它是彻底的“失败”，而 Gordon Michalson（1990）主张《宗教》包含一长串在不相容的基督教承诺与启蒙承诺之间的“摇摆”。
+    step2: |-
+      在康德圈内，他们以所谓“难题”（Conundrum）解释著称：这些作者抗议，康德涉足哲学神学不仅违逆先验观念论的认识论限制（Wolterstorff 1998）[^wolterstorff-1998]，而且自身前后不一——其对原罪的理解本质上是奥古斯丁式的，对道德恢复的理解却是佩拉纠式的。Wolterstorff 甚至说，康德的哲学神学“不只是不可信或紧张，而是内部矛盾”（Wolterstorff 1991: 49）[^wolterstorff-1991]。John Hare（1996）干脆宣告其“失败”，Gordon Michalson（1990）则称《宗教》在互不相容的基督教承诺与启蒙承诺之间“摇摆”不已。
+  - id: 145
+    kind: body
+    source: |-
+      Although there are a number of other targets of criticism, their main contention is that Kant inconsistently accepts (a) the Augustinian conception of Original Sin which holds that our moral capacities have through the Fall been damaged in such a way that we are incapable of moral improvement without Sanctifying Grace; and yet (b) Kant subscribes to what they call his “Stoic Maxim” that “a person’s moral worth is determined entirely by that person himself” (Wolterstorff 1991: 48)[^wolterstorff-1991]. Recently, Andrew Chignell has accepted the essence of the “Conundrum” objection, relying upon it as a reason why Kant must appeal to hope: since Kant’s alleged “Stoic Maxim” leaves no room for divine aid, and yet divine aid seems to be needed, it can be (at best) an object of hope, since unlike other propositional attitudes, hope is rationally permissible in the face of a (seeming) impossibility so long as it does not rise to an impossibility of “the most fundamental modal level” (Chignell 2014: 114–115)[^chignell-2014].
+    step1: |-
+      尽管还有其他批评靶子，他们的主要论点是：康德不一致地既接受（a）奥古斯丁式原罪观——按此观，我们的道德能力因堕落而受损，以致若无圣化恩典便无力道德改善；又接受（b）他们所谓他的“斯多亚准则”，即“一个人的道德价值完全由他自己决定”（Wolterstorff 1991: 48）[^wolterstorff-1991]。晚近，Andrew Chignell 接受了“难题”反驳的要旨，并以其为康德必须诉诸希望的一个理由：既然康德所谓“斯多亚准则”不给神圣援助留余地，而神圣援助似乎又是必需的，它至多只能是希望的对象——因为与其他命题态度不同，只要不上升到“最根本模态层次”的不可能，希望面对一种（看似）不可能在理性上是可允许的（Chignell 2014: 114–115）[^chignell-2014]。
+    step2: |-
+      其他批评靶子不论，其要旨是：康德自相矛盾地既接受（a）奥古斯丁式原罪观——人的道德能力经堕落而损，非得圣化恩典便无力改善；又接受（b）他们所谓的“斯多亚准则”：“一个人的道德价值完全由他自己决定”（Wolterstorff 1991: 48）[^wolterstorff-1991]。晚近 Andrew Chignell 接受了“难题”反驳的实质，并以此解释康德何以必须诉诸希望：既然“斯多亚准则”不给神助留地，而神助又似乎必需，它至多只能是希望的对象——与其他命题态度不同，只要不升至“最根本模态层次”的不可能，希望面对一种（看似）不可能便是理性上允许的（Chignell 2014: 114–115）[^chignell-2014]。
+  - id: 146
+    kind: body
+    source: |-
+      #### 3.6.3 Non-doxic theologian
+    step1: |-
+      #### 3.6.3. 非信念的神学家
+    step2: |-
+      #### 3.6.3 非信念的神学家
+  - id: 147
+    kind: body
+    source: |-
+      A third school holds that despite appearances to the contrary, the *Religion* does not engage in “theological speculation concerning the doctrine of grace in any form” (DiCenso 2012: 117)[^dicenso-2012]. This view is advanced by James DiCenso in his 2012 commentary on the *Religion*, and more recently by Allen Wood in his *Kant and Religion* (2020). The former’s 2012 commentary advises that we avoid any literal reading of religious doctrines in the text, and that we should instead interpret Kant’s treatment of them as presenting no more than our moral ideals in “imaginatively enhanced or pictorial form” (2012: 28). Likewise, in the latter’s *Kant and Religion* (2020), the author presents the *Religion* as a study of how we can understand Christianity’s presentation of a “second-person relationship between myself and God” (Wood 2020: 137)[^wood-2020] as instead symbols for a first-person “self-relation” (Wood 2020: 137, 143)[^wood-2020] through which we gain “a meaningful and emotionally enriched way of relating to our own past” (Wood 2020: 145)[^wood-2020]. Interestingly, these interpretations cohere with certain interpretations of Kant’s philosophical theology in the *Opus Postumum* (see Section 4 below), with both extending not only the thesis that God, for Kant, is nothing but a symbol of our moral ideals, but that all religious doctrines involving the supersensible should likewise be interpreted as such.
+    step1: |-
+      第三个学派认为，尽管表面相反，《宗教》并未从事“任何形式的关于恩典教义的神学思辨”（DiCenso 2012: 117）[^dicenso-2012]。此说由 James DiCenso 在其 2012 年《宗教》评注中提出，晚近又由 Allen Wood 在《康德与宗教》（2020）中提出。前者 2012 年的评注建议，我们不要对文本中的宗教教义作任何字面解读，而应把康德对它们的处理理解为不过是以“想象性增强的或图画式的形式”呈现我们的道德理想（2012: 28）。同样，后者的《康德与宗教》（2020）把《宗教》呈现为一项研究：我们如何能把基督教所呈现的“我与上帝之间的第二人称关系”（Wood 2020: 137）[^wood-2020] 理解为第一人称“自我关系”的象征（Wood 2020: 137, 143）[^wood-2020]，借此后一关系我们获得“一种与自身过去相关联的、有意义且情感丰富的方式”（Wood 2020: 145）[^wood-2020]。有趣的是，这些解释与对康德《遗著》中哲学神学的某些解释相一致（见下文第 4 节）：两者都不只延伸了“对康德而言上帝不过是我们道德理想的象征”这一论题，还主张一切涉及超感性者的宗教教义都应作如此解释。
+    step2: |-
+      第三个学派认为，尽管表面相反，《宗教》并未从事“任何形式的恩典教义的神学思辨”（DiCenso 2012: 117）[^dicenso-2012]。此说见 James DiCenso 2012 年的《宗教》评注，晚近又见 Allen Wood 的《康德与宗教》（2020）。DiCenso 建议不对文本中的教义作字面读解，而把康德的处理看作以“想象性强化或图画式形式”呈现我们的道德理想（2012: 28）。Wood 则在《康德与宗教》（2020）中把《宗教》读作一项研究：基督教所呈现的“我与上帝之间的第二人称关系”（Wood 2020: 137）[^wood-2020]，如何可解作第一人称“自我关系”的象征（2020: 137, 143）[^wood-2020]，我们借此获得“一种与自身过往相联的、有意义且情感丰厚的方式”（2020: 145）[^wood-2020]。有趣的是，这类解释与对《遗著》中康德哲学神学的某些解读相合（见下文第 4 节）：二者都不只延伸了“上帝于康德不过是道德理想之象征”这一论题，还主张一切涉及超感性者的宗教教义皆应如此解读。
+  - id: 148
+    kind: body
+    source: |-
+      Further, both interpretations pick up on a number of comments in the *Religion* where Kant associates the historical side of religion with our need for symbols to help us with the “highest concepts and grounds of reason” (AK 6:109 [1793]) and hopes for a future time where we will no longer need “all statutes that rest on history” (AK 6:121 [1793]). Nevertheless, this aspect of Kant’s treatment of religion does not apply to the postulates, nor does it pertain to the underlying moral/theological issues which are symbolized in specific doctrines (e.g., our innate propensity to evil as represented in the story of Genesis, or our hope for divine as represented in the Crucifixion).
+    step1: |-
+      此外，两种解释都抓住《宗教》中的若干评论：康德把宗教的历史面与我们借象征来把握“理性的最高概念与根据”（AK 6:109 [1793]）的需要联系起来，并希望将来有一天我们不再需要“一切建立在历史上的规章”（AK 6:121 [1793]）。然而，康德处理宗教的这一面相并不适用于设准，也不适用于具体教义中被象征化的那些底层道德/神学议题（例如《创世记》故事所表现的人性向恶的先天倾向，或十字架受难所表现的我们对神助的希望）。
+    step2: |-
+      两种解读还都援引《宗教》中的几处话：康德把宗教的历史面同我们借象征把握“理性的最高概念与根据”（AK 6:109 [1793]）的需要相连，并期望有朝一日不再需要“一切基于历史的规章”（AK 6:121 [1793]）。但康德处理宗教的这一面并不及于设准，也不及于具体教义所象征的底层道德/神学议题（如《创世记》故事所表现的人性向恶禀性，或十字架受难所表现的我们对神助的希望）。
+  - id: 149
+    kind: body
+    source: |-
+      What principally differentiates DiCenso (2012) and Wood (2020), however, is that the former’s hermeneutic denies outright that Kant ever engages with any doctrine in its literal form, whereas the latter sees the core goal of the *Religion* to “interpret revealed Christianity in such a way … [to] show that reason and Christianity are allies, not enemies” (Wood 2020: 20)[^wood-2020]. But in order to realize that goal, doctrines have to be rendered as just symbols. So, while Wood recognizes that Kant rejects various doctrines (e.g. the story of Abraham and Isaac on Wood 2020: 14; and the inheritability of sin on Wood 2020: 62)[^wood-2020], such rejections occur only when doctrines are understood literally. Accordingly, Wood would have us look past Kant’s engagements with literal doctrines and take Kant as claiming that they need to be understood just as symbols. This would then allow for the thesis that “everything in revealed (Christian) faith is compatible with rational faith” (Wood 2020: 20)[^wood-2020], which Wood asserts is the aim of the so-called “Second Experiment” of the *Religion*, i.e. the goal of the Second Experiment is to “disprove the hypothesis... [that] there are parts of revealed Christianity that are demonstrably and permanently incompatible with rational religion” (Wood 2020: 20)[^wood-2020].
+    step1: |-
+      然而，DiCenso（2012）与 Wood（2020）的主要区别在于：前者的解释学断然否认康德曾以字面形式处理任何教义，而后者视《宗教》的核心目标为“以这样一种方式解释启示的基督教……［以］表明理性与基督教是盟友而非敌人”（Wood 2020: 20）[^wood-2020]。但要实现这一目标，教义必须被化约为单纯的象征。所以，尽管 Wood 承认康德拒斥各种教义（例如 Wood 2020: 14 处亚伯拉罕与以撒的故事；Wood 2020: 62 处罪的可继承性）[^wood-2020]，这种拒斥只在教义被字面理解时才发生。据此，Wood 要我们越过康德对字面教义的处理，认为康德是在主张它们只应被理解为象征。这便容许“启示（基督教）信仰中的一切都与理性信仰相容”这一论题（Wood 2020: 20）[^wood-2020]；Wood 断言，这正是《宗教》所谓“第二实验”的目的，即第二实验的目标是“证伪……［即］启示的基督教中有部分内容可证明且永久地与理性宗教不相容这一假说”（Wood 2020: 20）[^wood-2020]。
+    step2: |-
+      然而，DiCenso（2012）与 Wood（2020）的分歧主要在于：前者的解释学一口否认康德曾以字面形式处理任何教义；后者则认为《宗教》的核心目标是“以某种方式解释启示的基督教……［以］表明理性与基督教是盟友而非敌人”（Wood 2020: 20）[^wood-2020]。但要达到这个目标，教义就必须被降为单纯象征。于是，Wood 虽承认康德拒斥种种教义（如亚伯拉罕与以撒的故事，2020: 14；罪的可继承性，2020: 62）[^wood-2020]，这些拒斥却只在教义被字面理解时发生。据此，Wood 要我们越过康德对字面教义的处理，认定康德是说它们只该被当作象征来理解。这便容得下“启示（基督教）信仰中的一切皆与理性信仰相容”（Wood 2020: 20）[^wood-2020]；Wood 断言这正是《宗教》所谓“第二实验”的目的——第二实验要“证伪……［即］启示基督教中有些部分可被证明且永久地与理性宗教不相容这一假说”（2020: 20）[^wood-2020]。
+  - id: 150
+    kind: body
+    source: |-
+      #### 3.6.4 Pure rational system of religion
+    step1: |-
+      #### 3.6.4. 纯粹理性的宗教体系
+    step2: |-
+      #### 3.6.4 纯粹理性的宗教体系
+  - id: 151
+    kind: body
+    source: |-
+      A fourth interpretative position is that the aim of *Religion* is to (a) examine the scope of “unity” or “compatibility” between rational religion and historical faith and (b) evaluate which aspects of historical faith (with Christianity being the primary focus) are apt vehicles for rational religion versus those which are incompatible with it (Pasternack 2014)[^pasternack-2014]. Hence, the *Religion* was not written as a Christian apologetic, but rather is Kant’s inquiry into the relationship between natural theology and revealed religion. However, unlike the many other such inquiries written during the era, Kant’s own version of natural theology is one that is shaped by moral rather than theoretical reason.
+    step1: |-
+      第四种解释立场是：《宗教》的目的在于（a）考察理性宗教与历史信仰之间“统一”或“相容”的范围，并（b）评估历史信仰（以基督教为主要焦点）的哪些方面是理性宗教的恰当载体，哪些与之不相容（Pasternack 2014）[^pasternack-2014]。因此，《宗教》并非作为基督教护教论而写，而是康德对自然神学与启示宗教之关系的探究。然而，与该时代许多同类探究不同，康德自己的自然神学版本由道德理性而非理论理性塑造。
+    step2: |-
+      第四种解释立场：《宗教》意在（a）考察理性宗教与历史信仰之间“统一”或“相容”的幅度；（b）评断历史信仰（以基督教为主）的哪些方面适合理想宗教，哪些与之相悖（Pasternack 2014）[^pasternack-2014]。因此《宗教》并非基督教护教之作，而是康德对自然神学与启示宗教之关系的探究。不过，与当时许多同类探究不同，康德这版自然神学是由道德理性、而非理论理性塑成的。
+  - id: 152
+    kind: body
+    source: |-
+      By way of this interpretative framework, Pasternack (2014) maintains that the *Religion* is both compatible with the epistemic strictures of Transcendental Idealism (contrary the interpretations summarized above) as well as internally consistent. As for the discussions where Kant appears to be guided by an “Augustinian metaphysic” (Firestone & Jacobs 2008: 136)[^firestone-2008], “firmly ensconced within the Augustinian tradition” (Quinn 1988: 91)[^quinn-1988] or “accommodating” (Wood 1970: 246)[^wood-1970] tenets “fundamental to Augustine” (Beiser 2006: 594)[^beiser-2006], he is rather examining such tenets in order to determine whether or not they have “unity” or “compatibility” with rational religion. Such doctrines as Original Sin, Grace, the Incarnation, Vicarious Atonement and so forth are thus examined by Kant in the *Religion* in order to, in each case, assess whether or not they cohere with his moral anthropology and doctrine of the highest good.
+    step1: |-
+      借助这一解释框架，Pasternack（2014）主张《宗教》既与先验观念论的认识论限制相容（与上述解释相反），又内部一致。至于那些康德似乎受“奥古斯丁式形而上学”引导（Firestone & Jacobs 2008: 136）[^firestone-2008]、“稳稳栖身于奥古斯丁传统之内”（Quinn 1988: 91）[^quinn-1988] 或“迁就”（Wood 1970: 246）[^wood-1970]“奥古斯丁之根本”教义（Beiser 2006: 594）[^beiser-2006] 的讨论，他毋宁是在考察这些教义，以判定它们与理性宗教是否有“统一”或“相容”。因此，原罪、恩典、道成肉身、代赎等教义之所以被康德在《宗教》中考察，是为了逐一评估它们是否与他的道德人类学及至善学说相合。
+    step2: |-
+      借这一解释框架，Pasternack（2014）主张《宗教》既与先验观念论的认识论限制相容（与上述解释相反），又自身一贯。至于那些看似受“奥古斯丁式形而上学”引导（Firestone & Jacobs 2008: 136）[^firestone-2008]、“稳稳嵌在奥古斯丁传统之中”（Quinn 1988: 91）[^quinn-1988] 或“迁就”（Wood 1970: 246）[^wood-1970]“奥古斯丁根本教义”（Beiser 2006: 594）[^beiser-2006] 的论述，他其实是在检视这些教义，看它们是否与理性宗教“统一”或“相容”。于是，原罪、恩典、道成肉身、代赎等教义在《宗教》中被逐一检视，以评断它们是否契合其道德人类学与至善学说。
+  - id: 153
+    kind: body
+    source: |-
+      ### 3.7 The Aims and Structure of the Religion
+    step1: |-
+      ### 3.7. 《宗教》的目的与结构
+    step2: |-
+      ### 3.7 《宗教》的目的与结构
+  - id: 154
+    kind: body
+    source: |-
+      Until the recent spate of commentaries on the *Religion*, little work has been done on its overall aims and structure. Although Part One of the text has long been mined for insights into Kant’s picture of moral agency, such studies did not consider how the overall text might inform the passages minded therefrom. The last decade, however, has seen the publication of a number of commentaries on the *Religion*, each with their own distinctive interpretations (Firestone & Jacobs 2008, DiCenso 2012, Pasternack 2014, Miller 2015, Palmquist 2016)[^dicenso-2012][^firestone-2008][^miller-2015][^palmquist-2016][^pasternack-2014], most of whose authors are mentioned in this entry. The above section also provides a brief overview of their respective positions with regards to the relationship between Kant’s *Religion* and core Christian doctrines. In this section, we will briefly review what Kant himself says about his project and how it unfolds through its four parts.
+    step1: |-
+      在晚近一批《宗教》评注问世之前，关于其总体目的与结构的研究甚少。尽管文本第一部分久被用来发掘康德道德能动性图景的洞见，此类研究却未考虑整体文本如何能说明从中开掘出的段落。不过，过去十年出现了一批《宗教》评注，各有其独特解释（Firestone & Jacobs 2008, DiCenso 2012, Pasternack 2014, Miller 2015, Palmquist 2016）[^dicenso-2012][^firestone-2008][^miller-2015][^palmquist-2016][^pasternack-2014]，其作者大多在本词条中被提及。上一节也已简要概述了他们各自关于康德《宗教》与核心基督教教义之关系的立场。本节将简要回顾康德本人关于其计划的说法，以及这一计划如何在其四部分中展开。
+    step2: |-
+      晚近评注纷纷问世之前，学界对《宗教》的总体目的与结构研究甚少。第一部分虽久被采掘，以窥康德道德能动性图景，但这类研究并不追问全书如何照亮被采掘的段落。近十年来，《宗教》评注迭出，各有独特读法（Firestone & Jacobs 2008, DiCenso 2012, Pasternack 2014, Miller 2015, Palmquist 2016）[^dicenso-2012][^firestone-2008][^miller-2015][^palmquist-2016][^pasternack-2014]，其作者大多在本词条中出现。上一节已简述他们各自关于《宗教》与核心基督教教义之关系的立场。本节则简要梳理康德本人对其计划的说法，以及该计划在四部分中的展开。
+  - id: 155
+    kind: body
+    source: |-
+      #### 3.7.1 The two prefaces
+    step1: |-
+      #### 3.7.1. 两篇序言
+    step2: |-
+      #### 3.7.1 两篇序言
+  - id: 156
+    kind: body
+    source: |-
+      To begin, the publication of the *Religion* (1793) has a complicated history. Kant initially planned to write a series of essays on Christian doctrines, but that was frustrated when the second of these essays was denied official imprimatur. Because the Prussian Censorship Commission had different rules for the publication of articles versus books, Kant chose to combine the planned essays into a single volume, and to avoid further scrutiny by the Commission, he made sure that it was assessed as a work of philosophy rather than theology. Although such maneuvers ultimately led to his censorship during the reign of Frederick William II, Kant nevertheless was able to publish the *Religion*, whose First Preface includes, after an initial discussion of how through the highest good “morality leads inevitably to religion” (AK 6:8n), a defense of his rationale for treating the work as one of philosophical theology rather than “biblical theology” (AK 6:7–6:11). The Preface then ends with Kant’s characterization of the *Religion* as an “attempt” or “experiment” (*Versuch*) at determining the scope of overlap between the “pure *philosophical* doctrine of religion” (AK 6:10) and the contents of historical faith (especially Christianity).
+    step1: |-
+      首先，《宗教》（1793）的出版有一段复杂的历史。康德最初计划写一系列论基督教教义的论文，但其中第二篇未获官方出版许可，计划受挫。由于普鲁士书报检查委员会对文章与书籍的出版规则不同，康德选择把计划中的论文合并为一卷，并为了避开委员会进一步审查，确保它被作为哲学著作而非神学著作来评估。尽管此类手法最终导致他在腓特烈·威廉二世治下遭到审查，康德毕竟得以出版《宗教》。其第一版序言在开头讨论道德如何通过至善“不可避免地导向宗教”（AK 6:8n）之后，辩护了他把该著作当作哲学神学、而非“圣经神学”来处理（AK 6:7–6:11）的理据。序言结尾，康德把《宗教》刻画为一项“尝试”或“实验”（*Versuch*）：测定“纯粹*哲学*宗教学说”（AK 6:10）与历史信仰（尤其基督教）内容之间的重叠范围。
+    step2: |-
+      先说《宗教》（1793）的出版史，颇为曲折。康德原拟写一组论基督教教义的论文，但第二篇未获出版许可，计划受阻。普鲁士书报检查委员会对文章与书籍的规则不同，康德遂把拟写的论文合成一卷，并设法让它被当作哲学著作而非神学著作审读，以避开进一步审查。这番操作最终仍导致他在腓特烈·威廉二世治下遭禁，但《宗教》毕竟出版了。第一版序言先论道德如何经由至善“不可避免地引向宗教”（AK 6:8n），继而为他将本书当作哲学神学（而非“圣经神学”）处理辩护（AK 6:7–6:11）。序言末尾，康德把《宗教》称为测定“纯粹*哲学*宗教学说”（AK 6:10）与历史信仰（尤其基督教）内容重叠范围的“尝试”或“实验”（*Versuch*）。
+  - id: 157
+    kind: body
+    source: |-
+      The Preface to the second edition begins with a discussion of the *Religion*’s title, which as Kant explains, is meant to depict two overlapping domains, the “wider sphere of faith” and the “narrower” sphere of the “pure *religion of reason*” (AK 6:12). Kant then writes that from “this standpoint I can also make this second experiment” (*zweiten Versuch*), without, however, explicitly enumerating a “first experiment”.
+    step1: |-
+      第二版序言以讨论《宗教》的标题开篇。如康德所解释，该标题意在描绘两个重叠的领域：“较宽的信仰领域”与“纯粹*理性宗教*”的“较窄”领域（AK 6:12）。康德随后写道，从“这一立场出发，我也可以做这第二个实验”（*zweiten Versuch*），然而并未明确列举“第一个实验”。
+    step2: |-
+      第二版序言从《宗教》的标题谈起。康德解释说，标题意在描画两个相叠的领域：“较宽的信仰领域”与“纯粹*理性宗教*”的“较窄”领域（AK 6:12）。接着他写道，从“这一立场出发，我还可以做这第二个实验”（*zweiten Versuch*），却未明说“第一个实验”是什么。
+  - id: 158
+    kind: body
+    source: |-
+      Some have proposed (Hare 1996, Reardon 1988)[^hare-1996][^reardon-1988] that the unstated “first experiment” pertains to the domain of overlap between Biblical Theology and the Pure Rational System of Religion. The Second Experiment then seeks
+    step1: |-
+      有人提出（Hare 1996, Reardon 1988）[^hare-1996][^reardon-1988]，未言明的“第一个实验”关乎圣经神学与纯粹理性宗教体系之间的重叠领域。第二个实验则试图
+    step2: |-
+      有人认为（Hare 1996, Reardon 1988）[^hare-1996][^reardon-1988]，那个未言明的“第一个实验”关乎圣经神学与纯粹理性宗教体系的重叠地带。第二个实验则力求
+  - id: 159
+    kind: body
+    source: |-
+      > to show that certain items in the outer circle lead back within the inner circle when looked at in the light of, or translated in terms of moral concepts. (Hare 1996: 40)[^hare-1996]
+    step1: |-
+      > 表明外圈中的某些条目，在道德概念的光照下、或按道德概念转译时，又回到内圈之内。（Hare 1996: 40）[^hare-1996]
+    step2: |-
+      > 表明外圈里的某些条目，若置于道德概念的光照下、或译成道德概念，便会重新回到内圈之内。（Hare 1996: 40）[^hare-1996]
+  - id: 160
+    kind: body
+    source: |-
+      Others have proposed that the First Experiment pertains to the *Religion*’s “transcendental elements” while the Second Experiment “aims at assessing one particular empirical religion”, namely Christianity (Palmquist 2000: 143)[^palmquist-2000], or serves as a philosophical apologetic for Christianity (Firestone & Jacobs 2008)[^firestone-2008].
+    step1: |-
+      另有人提出，第一个实验关乎《宗教》的“先验要素”，而第二个实验“旨在评估某一个特定的经验宗教”，即基督教（Palmquist 2000: 143）[^palmquist-2000]，或充当为基督教所作的哲学护教（Firestone & Jacobs 2008）[^firestone-2008]。
+    step2: |-
+      也有人主张：第一个实验关乎《宗教》的“先验要素”，第二个实验则“意在评断某一个特定的经验宗教”，即基督教（Palmquist 2000: 143）[^palmquist-2000]；或说它充当为基督教辩护的哲学护教论（Firestone & Jacobs 2008）[^firestone-2008]。
+  - id: 161
+    kind: body
+    source: |-
+      Pasternack (2017b), however, argues that the interpretative debate over the first/second experiment distinction rests on a simple mistake. Normally, *Versuch* would be translated as “attempt”, but early Anglophone translators of the *Religion* chose instead “experiment”. That choice has passed along through contemporary translations and has led interpreters to make far too much of this passage. The passage appears towards the opening of the Preface to the *second* edition of the *Religion* and is, as argued by Pasternack, merely meant by Kant to indicate that he is issuing his *second* attempt [*zweiten Versuch*] at the very same non-enumerated “experiment” [*Versuch*] similarly described in the Preface to the *first* edition (compare the language at AK 6:10 in the First Preface to AK 6:12 in the Second). In other words, Pasternack asserts that the many attempts to divide out the *Religion* into two distinct “experiments” is an unfortunate byproduct of the secondary literature, unrelated to the actual structure of the text.
+    step1: |-
+      然而，Pasternack（2017b）论证说，关于第一/第二实验之分的解释争论建立在一个简单的错误上。通常 *Versuch* 会译作“尝试”，但早期英语世界的《宗教》译者却选择了“实验”。这一选择沿袭至今的译本，致使解释者过分看重这段话。这段话出现在《宗教》*第二*版序言开头附近；按 Pasternack 的论证，康德只是想说，他正在就同一项未加列举的“实验”［*Versuch*］——第一版序言中类似描述的那一项——发表他的*第二次*尝试［*zweiten Versuch*］（比较第一版序言 AK 6:10 与第二版 AK 6:12 的措辞）。换言之，Pasternack 断言，把《宗教》分割为两个不同“实验”的种种尝试，是二手文献的不幸副产品，与文本的实际结构无关。
+    step2: |-
+      可是 Pasternack（2017b）论证：围绕“第一/第二实验”之分的解释争论，其实源于一个简单的误译。*Versuch* 通常该译作“尝试”，早期英语世界的《宗教》译者却选了“实验”；这一选择沿袭至今，遂使解释者过分看重那段话。那段话在《宗教》*第二*版序言开头附近；Pasternack 认为，康德只是要表明：他正在就第一版序言中类似描述的那项未加编号的“尝试”［*Versuch*］，做他的*第二次*尝试［*zweiten Versuch*］（比较第一版序言 AK 6:10 与第二版 AK 6:12 的措辞）。换句话说，Pasternack 断言：把《宗教》切成两个不同“实验”的种种努力，是二手文献的不幸副产品，与文本的实际结构无关。
+  - id: 162
+    kind: body
+    source: |-
+      What both Prefaces ultimately explain is that Kant’s goal in the *Religion* is to (a) provide an inquiry into the scope of overlap between historical faith (especially in the form of Christianity) and pure rational religion; and (b) use the latter as a guide for distinguishing between which elements of the former are matters of “genuine religion” rather than “cult” (AK 6:12–13). Each of the *Religion*’s four parts then take on core issues with Christian doctrine.
+    step1: |-
+      两篇序言最终都说明：康德在《宗教》中的目标是（a）探究历史信仰（尤其以基督教形式）与纯粹理性宗教之间的重叠范围；（b）以后者为指南，区分前者的哪些要素属于“真正的宗教”而非“崇拜”（AK 6:12–13）。随后，《宗教》四部分各自处理基督教教义的核心议题。
+    step2: |-
+      两篇序言归根到底都在说明：康德《宗教》的目标是（a）探究历史信仰（尤其基督教形式）与纯粹理性宗教的重叠范围；（b）以理性宗教为尺度，分辨历史信仰中哪些要素属于“真正的宗教”、哪些只是“崇拜”（AK 6:12–13）。其后四部分，便逐一处理基督教教义的核心议题。
+  - id: 163
+    kind: body
+    source: |-
+      #### 3.7.2 Part one
+    step1: |-
+      #### 3.7.2. 第一部分
+    step2: |-
+      #### 3.7.2 第一部分
+  - id: 164
+    kind: body
+    source: |-
+      In Part One, Kant’s aim is to examine the Christian doctrine of Original Sin, especially as he would have been exposed to it through his Lutheran Pietist upbringing. His interest is in finding out whether there is any overlap between this historical doctrine and pure rational religion. More specifically, his goal is to assess the doctrine of Original Sin so as to determine what (if any) overlap it has with rational religion. He thus considers such matters as: how can our moral condition be innate and yet we can remain responsible for it; whether, as would have been held by the Augustinian tradition, Original Sin involves such a fundamental corruption of our faculties that we lose the cognitive and volitional capacities needed to will the good; and then in the “General Remark” or first *Parergon*, whether or not our corrupted moral condition is such that divine aid is required for us to overcome it. Throughout, we see Kant taking up these and other themes within the Augustinian conception of Original Sin, sometimes finding places of overlap with rational religion, sometimes finding the two in conflict.
+    step1: |-
+      在第一部分，康德的目标是考察基督教的原罪教义，尤其是他经由路德宗虔敬主义教养所接触到的那个版本。他关心的是：这一历史教义与纯粹理性宗教之间是否有任何重叠。更具体地说，他的目标是评断原罪教义，以判定它与理性宗教有何（若有）重叠。因此他考察如下问题：我们的道德状况何以能是天赋的、而我们却仍对它负责；原罪是否如奥古斯丁传统所主张的那样，涉及我们诸能力的根本败坏，以致我们失去了意愿善所需的认知与意志能力；以及在“总注释”或第一篇《旁注》中，我们败坏的道德状况是否到了非有神助不能克服的地步。通篇可见康德在奥古斯丁式原罪观内部处理这些及其他主题，有时发现它与理性宗教重叠，有时发现二者冲突。
+    step2: |-
+      第一部分意在考察基督教的原罪教义，尤其是他经路德宗虔敬主义教养所接触的那一版本。他想知道：这一历史教义与纯粹理性宗教有无重叠。更具体说，他评断原罪教义，以确定它与理性宗教有何（如有）交集。于是他追问：我们的道德状况何以既能是天赋的、我们又仍对它负责？原罪是否如奥古斯丁传统所主张，意味着诸能力的根本败坏，以致我们丧失了意愿善所需的认知与意志能力？在“总注释”即第一篇《旁注》中，他又问：我们败坏的道德状况是否非得神助便不能克服？通篇可见，康德在奥古斯丁式原罪观内部处理这些及别的主题，时而发现它与理性宗教重叠，时而发现二者相冲。
+  - id: 165
+    kind: body
+    source: |-
+      #### 3.7.3 Part two
+    step1: |-
+      #### 3.7.3. 第二部分
+    step2: |-
+      #### 3.7.3 第二部分
+  - id: 166
+    kind: body
+    source: |-
+      The Second Part of the *Religion* moves on to Christology and the alleged role of Christ in our salvation. Kant begins with a discussion of the Incarnation and whether it can be interpreted in such a way that is compatible with pure rational religion (AK 6:60–6:66). He then moves on to three “difficulties:” how to understand the doctrine of Sanctifying Grace (the “change of heart” or moral regeneration) in relation to pure rational religion; whether an individual can know his/her moral status as having undergone a “change of heart”, and how this relates to the challenge of moral perseverance; how to understand the “debt of sin” or the issue of “Justifying Grace”. On this issue, we again see Kant opposing the prevailing doctrines of his day, explicitly rejecting the idea of “vicarious atonement” (AK 6:72–73) as anathema to pure rational religion.
+    step1: |-
+      《宗教》第二部分转向基督论，以及所谓基督在我们得救中的角色。康德先讨论道成肉身，以及能否以一种与纯粹理性宗教相容的方式来解释它（AK 6:60–6:66）。随后他转向三个“困难”：如何理解圣化恩典（“心灵转变”或道德重生）教义与纯粹理性宗教的关系；个人能否知道自己已历经“心灵转变”的道德状况，以及这与道德持守的挑战有何关联；如何理解“罪债”或“称义恩典”问题。在这一问题上，我们再次看到康德反对他那个时代的流行教义，明确拒斥“代赎”观念（AK 6:72–73），视之为纯粹理性宗教的诅咒。
+    step2: |-
+      第二部分转往基督论，以及所谓基督在得救中的角色。康德先论道成肉身，问它能否以与纯粹理性宗教相容的方式被解释（AK 6:60–6:66）。接着他提出三个“困难”：圣化恩典（“心灵转变”或道德重生）教义与纯粹理性宗教是何关系；个人能否知道自己已历经“心灵转变”，这与道德持守的难题又有何干；以及“罪债”或“称义恩典”问题当如何理解。在这一题上，康德再次与他那个时代的流行教义相抗，明确否弃“代赎”观念（AK 6:72–73），斥之为纯粹理性宗教的异端。
+  - id: 167
+    kind: body
+    source: |-
+      #### 3.7.4 Part three
+    step1: |-
+      #### 3.7.4. 第三部分
+    step2: |-
+      #### 3.7.4 第三部分
+  - id: 168
+    kind: body
+    source: |-
+      The Third Part of the *Religion* considers religion from a historical standpoint, including the need for the founding of a universal church, the importance of that church for the moral improvement of society (the “ethical community”), questions of divine providence, and eschatology.
+    step1: |-
+      《宗教》第三部分从历史立场考察宗教，包括建立普世教会的必要性、该教会对社会道德改善（“伦理共同体”）的重要性、神意问题，以及末世论。
+    step2: |-
+      第三部分从历史角度考察宗教：普世教会的建立何以必要；该教会对社会道德改善（“伦理共同体”）有何重要；神意问题；以及末世论。
+  - id: 169
+    kind: body
+    source: |-
+      Kant’s focus in this part is the social dimension of moral evil, where he draws from the Predisposition to Humanity discussed in Part One (see Wood 1999)[^wood-1999], and argues that we “mutually corrupt each other’s moral dispositions and make one another evil” (AK 6:94). The goal of the universal church is to promote a new sort of social exchange guided by our collective “duty *sui generis*” of human beings to work cooperatively towards “a common end, namely the promotion of the highest good” (AK 6:97). The ethical community is then presented as an ideal state of affairs reflecting the realization of the highest good.
+    step1: |-
+      康德在这一部分的焦点是道德恶的社会维度。他承接第一部分所论的人性禀赋（见 Wood 1999）[^wood-1999]，主张我们“相互败坏彼此的道德禀赋，使彼此为恶”（AK 6:94）。普世教会的目标是促进一种新的社会交往，由人类集体“自成一类的义务”（*duty sui generis*）引导，协力趋向“一个共同目的，即促进至善”（AK 6:97）。伦理共同体随后被呈现为一种反映至善之实现的理想事态。
+    step2: |-
+      此部分的焦点是道德恶的社会维度。康德承接第一部分所述的人性禀赋（见 Wood 1999）[^wood-1999]，主张我们“互相败坏彼此的道德禀赋，使彼此为恶”（AK 6:94）。普世教会的目标，是促成一种新的社会交往，由人类“自成一类的义务”（*duty sui generis*）所引导，协力趋向“一个共同目的，即促进至善”（AK 6:97）。伦理共同体于是被呈现为一种体现至善实现的理想事态。
+  - id: 170
+    kind: body
+    source: |-
+      #### 3.7.5 Part four
+    step1: |-
+      #### 3.7.5. 第四部分
+    step2: |-
+      #### 3.7.5 第四部分
+  - id: 171
+    kind: body
+    source: |-
+      The final part of the *Religion* focuses on ecclesiology. After an initial discussion of the religious framework for the ethical community, Kant offers an important discussion of Christianity as a natural versus a “learned” religion. The point of the former is that “genuine religion”, is one that can be “comprehensibly and convincingly” communicated to all human beings “through their own reason” (AK 6:162) without any necessary role for revelation. The latter, by contrast, turns to the “dogmas of faith” (AK 6:163) and its dangers. This begins Kant’s discussion of “counterfeit service”, “priestcraft” and the “delusions of religion” he sees in ecclesiastical practice. While rational religion maintains that nothing apart from “good life-conduct” is required to “become well-pleasing to God” (AK 6:170), historical faith routinely claims that God’s judgment is based instead on our doctrinal commitments and liturgical observances.
+    step1: |-
+      《宗教》最后一部分聚焦教会论。在初步讨论伦理共同体的宗教框架之后，康德对基督教作为自然宗教与“学究式”宗教作了重要讨论。前者的要点是：“真正的宗教”是一种可以“通过人自己的理性”“可理解且令人信服地”传达给一切人的宗教（AK 6:162），无需启示扮演任何必要角色。后者则相反，转向“信仰教条”（AK 6:163）及其危险。这开启了康德对他在教会实践中所见的“伪事奉”、“教士伎俩”与“宗教妄想”的讨论。理性宗教主张，除了“良好的生活品行”之外，无需任何东西即可“为上帝所悦纳”（AK 6:170）；而历史信仰则惯常声称，上帝的评判反而基于我们的教义承诺与礼仪遵守。
+    step2: |-
+      末篇专论教会论。在交代伦理共同体的宗教框架之后，康德对“自然宗教”与“学究宗教”作了一番重要讨论。前者要义是：“真正的宗教”能“凭人自己的理性”、“可理解且令人信服地”传达给一切人（AK 6:162），无须启示担任何必要角色。后者则转向“信仰教条”（AK 6:163）及其危险。康德由此开始谈他在教会实践中所见的“伪事奉”、“教士把戏”与“宗教妄想”。理性宗教坚称，除“良好的生活品行”外，无须他物即可“蒙上帝悦纳”（AK 6:170）；历史信仰却惯于声称，上帝的裁决反而取决于教义承诺与礼仪奉行。
+  - id: 172
+    kind: body
+    source: |-
+      Therein, Kant examines the ultimate “subjective ground of religious delusion” (AK 6:168), how the artificies of organized religion let us “slip back into evil” (AK 6:184) and then finally how practices including prayer, church attendance, and rituals could nevertheless still be reconstituted for the genuine moral religion of a universal church and “cosmopolitan *moral community*” (AK 6:194–200).
+    step1: |-
+      在其中，康德考察了宗教妄想的终极“主观根据”（AK 6:168）、有组织宗教的种种伎俩如何让我们“重新滑入恶”（AK 6:184），最后还考察了祈祷、礼拜、仪式等实践如何仍可被重新建构，以服务于普世教会与“世界主义的*道德共同体*”的真正道德宗教（AK 6:194–200）。
+    step2: |-
+      康德在其中考察“宗教妄想”的终极“主观根据”（AK 6:168）、有组织宗教的伎俩如何使我们“重新滑入恶”（AK 6:184），最后还论及祈祷、礼拜、仪式等实践如何仍能被重构，归入普世教会乃至“世界主义的*道德共同体*”的真正道德宗教（AK 6:194–200）。
+  - id: 173
+    kind: body
+    source: |-
+      #### 3.7.6 The *Parerga* or General Remarks
+    step1: |-
+      #### 3.7.6. 《旁注》或总注释
+    step2: |-
+      #### 3.7.6 《旁注》或总注释
+  - id: 174
+    kind: body
+    source: |-
+      Each of the four parts of the *Religion* closes with a section entitled “General Remark” or “Parergon” (Supplement or Appendix) to its main body. In the Second Edition to the *Religion*, Kant adds a brief explanation of the function of the *Parerga*, describing them as concerned with matters which are at the “border” of the “boundaries of pure reason”. He lists these as: (1) the effects of grace; (2) miracles; (3) the holy mysteries; (4) the means of grace. Kant explains that reason
+    step1: |-
+      《宗教》四部分每一部分都以名为“总注释”或“旁注”（*Parergon*，增补或附录）的一节收尾。在《宗教》第二版中，康德简短解释了《旁注》的功能，说它们关涉处于“纯粹理性界限”“边缘”的事项。他列举如下：（1）恩典的效果；（2）奇迹；（3）神圣奥秘；（4）恩典的手段。康德解释说，理性
+    step2: |-
+      《宗教》四部分各自以“总注释”或“旁注”（*Parergon*，增补/附录）一节收束。第二版中，康德简短说明《旁注》的功能：它们处理处于“纯粹理性界限”“边缘”的事项。他列出：（1）恩典的效果；（2）奇迹；（3）神圣奥秘；（4）恩典的手段。康德说，理性
+  - id: 175
+    kind: body
+    source: |-
+      > does not contest the possibility or actuality of the objects of these ideas; it just cannot incorporate them into its maxims of thought or action. (AK 6:52)
+    step1: |-
+      > 并不争辩这些理念之对象的可能性或现实性；它只是不能把它们纳入其思想或行动的准则。（AK 6:52）
+    step2: |-
+      > 并不否认这些理念之对象的可能或现实；只是无法把它们纳入其思想或行动的准则。（AK 6:52）
+  - id: 176
+    kind: body
+    source: |-
+      They are topics to which we are lead given the issues under discussion through the main body of each part, but are all matters of caution for us for while they each pertain to a need that seems unfulfilled through what pure reason can allow for genuine religion, and in some manner may invigorate our moral lives, they are all also paths to “dogmatic faith” (6:52).
+    step1: |-
+      这些主题是从各部分正文所讨论的问题引导我们到达的，但对我们全都构成警示：因为它们各自关涉一种似乎无法通过纯粹理性为真正宗教所容许的东西来满足的需要，并且以某种方式可能振奋我们的道德生活，但它们同时也都是通向“独断信仰”的道路（6:52）。
+    step2: |-
+      这些题目由各部分正文的讨论引导而来，却都于我们为警示：它们各自关乎一种需要——纯粹理性为真正宗教所容许者似乎满足不了它，而这些题目或许能以某种方式振作我们的道德生活——但它们同时也都是通往“独断信仰”的歧路（6:52）。
+  - id: 177
+    kind: body
+    source: |-
+      Hence, each part of the *Religion* ends with a caution somewhat akin to the cautions which shape the *Critique of Pure Reason*’s Dialectic: though the needs of reason drive us to speculation, we must not fall into error thereby. For example, while the logic of *ought implies can* warrants our belief that a “change of heart” is possible, we cannot either affirm or deny a role for divine aid/grace. Likewise, while Transcendental Idealism leaves room for the possibility of a “supernatural intervention” (AK 6:191), we are not epistemically situated so that we can ever justifiably claim that some particular effect was in fact due to such intervention.
+    step1: |-
+      因此，《宗教》每一部分都以一种略似《纯粹理性批判》辩证论之警示的告诫收尾：尽管理性的需要驱使我们思辨，我们却不可因此陷入错误。例如，尽管“应当蕴含能够”的逻辑使我们有理由相信“心灵转变”是可能的，我们却既不能肯定、也不能否定神助/恩典的作用。同样，尽管先验观念论为“超自然干预”的可能性留有余地（AK 6:191），我们的认识处境却不允许我们任何时候都有理由声称某一特定效果事实上是由此类干预造成的。
+    step2: |-
+      于是，《宗教》每一部分都以告诫收尾，其气味略近《纯粹理性批判》辩证论的告诫：理性的需要固然驱人思辨，切不可因此陷入谬误。例如，“应当蕴含能够”的逻辑让我们有理由相信“心灵转变”可能，但神助/恩典究竟有无作用，我们既不能肯定也不能否定。同样，先验观念论虽为“超自然干预”留出可能（AK 6:191），我们的认识处境却不许我们理直气壮地断言某一具体效果确由这种干预造成。
+  - id: 178
+    kind: body
+    source: |-
+      The *parerga* thus are used by Kant to separate out what doctrines of historical faith the pure rational system of religion can assess versus what doctrines that—while we are compelled to speculate about them—require our agnosticism. As such, the *parerga* reflect limit issues, at the “border” of rational religion, for which there is both a theoretical interest and moral need to visit, but also where the dangers that we stray into dogmatism are the greatest (Palmquist 2016, Muchnik 2019)[^muchnik-2019][^palmquist-2016].
+    step1: |-
+      因此，康德用《旁注》来区分：纯粹理性宗教体系能评断历史信仰的哪些教义，哪些教义——尽管我们被迫对之思辨——要求我们保持不可知。就此而言，《旁注》反映的是理性宗教“边缘”的界限问题：既有理论兴趣、又有道德需要去探访，但误入独断论的危险也最大（Palmquist 2016, Muchnik 2019）[^muchnik-2019][^palmquist-2016]。
+    step2: |-
+      可见康德借《旁注》划界：历史信仰中哪些教义可由纯粹理性宗教体系评断，哪些则——尽管逼得我们去思辨——须保持不可知。《旁注》由此映现理性宗教“边缘”的界限问题：那里既有理论兴趣、又有道德需要前去一探，而误入独断论的危险也最大（Palmquist 2016, Muchnik 2019）[^muchnik-2019][^palmquist-2016]。
+  - id: 179
+    kind: body
+    source: |-
+      ## 4. Religion in the *Opus Postumum*
+    step1: |-
+      ## 4. 《遗著》中的宗教
+    step2: |-
+      ## 4 《遗著》中的宗教
+  - id: 180
+    kind: body
+    source: |-
+      In the mid-1790s, Kant began to explore what he saw as a “gap... in the critical philosophy” (Kant to Garve, September 21, 1798 AK 12:257), namely, how to transition from what he established about natural science in general in the *Metaphysical Foundations of Natural Science* to physics in particular. However, his notes on this “gap” exceeded his original plan, as they came to cover not only how to transition from the foundations of natural science to physics, but also self-positing, God, and the nature of transcendental philosophy. These notes, which were composed during a roughly seventeen-year period, and came to be assembled under the title, *Opus Postumum*, prompt questions as to whether or not Kant’s views on God during this period represent a break from or continuity with the philosophy of religion he presented in his previous works. And further, if there is continuity, in what way might its contents help to illuminate Kant’s overall Critical philosophy of religion?
+    step1: |-
+      1790 年代中期，康德开始探究他所认为的“批判哲学中的一道缝隙”（致加尔维，1798 年 9 月 21 日，AK 12:257），即：如何从他在《自然科学的形而上学基础》中关于一般自然科学所确立的东西，过渡到具体的物理学。然而，他关于这道“缝隙”的札记超出了原计划，不仅涵盖如何从自然科学基础过渡到物理学，还涉及自我设定、上帝以及先验哲学的本性。这些札记写作跨度约十七年，后被汇编为《遗著》一书，从而引出问题：康德这一时期关于上帝的观点，究竟是与他此前著作中呈现的宗教哲学决裂，还是延续？若为延续，其内容又如何有助于照亮康德整个批判宗教哲学？
+    step2: |-
+      1790 年代中期，康德开始探究他眼中的“批判哲学的一道缝隙”（致加尔维，1798 年 9 月 21 日，AK 12:257）：如何从《自然科学的形而上学基础》关于一般自然科学所确立者，过渡到具体物理学。然而，围绕这道“缝隙”的札记越出原计划，不仅论及从自然科学基础到物理学的过渡，还涉及自我设定、上帝与先验哲学的本性。这些札记历时约十七年，后被编为《遗著》，遂引出问题：康德此期关于上帝的观点，与此前著作中的宗教哲学是决裂还是延续？若是延续，其内容又如何照亮康德整个批判宗教哲学？
+  - id: 181
+    kind: body
+    source: |-
+      For instance, there are many passages in the *Opus Postumum* which present God not as a substance or a being outside of us, but rather an ideal or thought-object. For some, this is taken as an indication that in Kant’s final years, he withdrew from his more affirmative religious views seen up through the mid-1790s (Förster 2000)[^förster-2000]. While for others, it finally articulates the view that Kant held throughout the Critical period, namely that despite textual evidence to the contrary, Kant never advanced any argument, moral or otherwise, for belief in God (W. Sullivan 1971, Guyer 2000, Byrne 2007)[^byrne-2007][^guyer-2000][^sullivan-1971].
+    step1: |-
+      例如，《遗著》中有许多段落把上帝呈现为并非我们之外的实体或存在者，而是一个理想或思想对象。对一些人来说，这被视为康德晚年撤回了直到 1790 年代中期仍可见的较为肯定的宗教观点（Förster 2000）[^förster-2000]。而对另一些人来说，它终于道出了康德在整个批判时期所持的观点：尽管有相反的文本证据，康德从未为信仰上帝提出任何论证，无论道德的还是别的（W. Sullivan 1971, Guyer 2000, Byrne 2007）[^byrne-2007][^guyer-2000][^sullivan-1971]。
+    step2: |-
+      例如，《遗著》中不少段落把上帝说成不是我们之外的实体或存在者，而是一个理想、一个思想对象。有人据此认为，康德晚年舍弃了直到 1790 年代中期仍见的较肯定宗教观（Förster 2000）[^förster-2000]。另一些人则认为，这终于道出康德批判期的始终之见：尽管文本证据相反，他从未为信仰上帝给出任何论证，无论是道德的还是别的（W. Sullivan 1971, Guyer 2000, Byrne 2007）[^byrne-2007][^guyer-2000][^sullivan-1971]。
+  - id: 182
+    kind: body
+    source: |-
+      Nevertheless, amidst the passages in the *Opus Postumum* which present God as merely an ideal or thought-object, there are others which are not so deflationary, presenting God in a manner similar to the more familiar works of the Critical period (AK 21:13–14 [OP 220–222], AK 22:126–127 [OP 206–207]).
+    step1: |-
+      然而，在《遗著》那些把上帝仅呈现为理想或思想对象的段落之间，还有一些不那么“紧缩”的段落，以一种类似批判时期较熟悉著作的方式呈现上帝（AK 21:13–14 [OP 220–222], AK 22:126–127 [OP 206–207]）。
+    step2: |-
+      不过，《遗著》中虽有不少段落把上帝仅当作理想或思想对象，另有一些段落并不那么“紧缩”，其呈现上帝的方式近于批判期较熟悉的著作（AK 21:13–14 [OP 220–222]、AK 22:126–127 [OP 206–207]）。
+  - id: 183
+    kind: body
+    source: |-
+      One way to understand these discrepancies is to recognize that the *Opus Postumum* is a collection of notes written over more than a decade, unedited, and possibly different from what would have been the final version of the treatise. Hence, Kant might have been rethinking his philosophy of religion, exploring possibilities, or working through some ideas which could fill his perceived “gap in the critical philosophy”, ideas that neither undercut the epistemic strictures of the *Critique of Pure Reason* nor the religiously affirmative language in his practical philosophy.
+    step1: |-
+      理解这些差异的一条路，是承认《遗著》是十余年间写成、未经编辑的札记汇编，可能不同于该书最终版本会有的样子。因此，康德或许在重新思考其宗教哲学、探索各种可能，或推敲某些可填补他所感“批判哲学缝隙”的想法——这些想法既未削弱《纯粹理性批判》的认识论限制，也未削弱其实践哲学中肯定宗教的语言。
+    step2: |-
+      要理解这些参差，可以承认《遗著》是十余年写成、未经编定的札记汇编，与最终定稿或许不同。因此，康德也许正在重新思考其宗教哲学、试探各种可能，或推敲某些能填补他所感“批判哲学缝隙”的想法——这些想法既不损《纯粹理性批判》的认识论限制，也不损其实践哲学中肯定宗教的措辞。
+  - id: 184
+    kind: body
+    source: |-
+      Further, though Kant sometimes describes God as an ideal or thought-object, he also says the same about the world and man-in-the-world, raising the possibility that his discussions of God took place in two separate spheres: transcendental philosophy proper, which provides the purely formal conditions of metaphysics and so includes only the ideals we must construct in order to posit ourselves in the world (namely, God, the world, and man-in-the-world); and metaphysics, which is transcendental philosophy applied to certain objects (“[the transcendental philosopher] addresses merely what is formal, [the metaphysician] what is material (the object, the material)” [AK 21:79 [OP: 246]]). If this is right, then it could be that Kant does not repudiate or deflate his prior philosophy of religion, but merely adds a new layer to it. Unfortunately, the *Opus Postumum*’s unfinished state makes it difficult to come to a secure conclusion about where Kant’s thinking on religion stood in his final years.
+    step1: |-
+      此外，尽管康德有时把上帝描述为理想或思想对象，他对世界与世界之中的人也这样说，这就引出一种可能：他关于上帝的讨论发生在两个不同领域。其一是先验哲学本身，它提供形而上学的纯粹形式条件，因而只包含我们为在世界中设定自身而必须构造的理想（即上帝、世界、世界中的人）；其二是形而上学，即应用于某些对象的先验哲学（“［先验哲学家］只谈形式的东西，［形而上学家］谈质料的东西（对象、质料）”［AK 21:79 [OP: 246]］）。若这是对的，那么康德也许并未否定或“紧缩”他先前的宗教哲学，而只是为它添了一层。不幸的是，《遗著》未完成的状态使人难以就康德晚年宗教思想的立场得出稳妥结论。
+    step2: |-
+      再者，康德虽有时把上帝说成理想或思想对象，他对世界、对“世界之中的人”也这样说。这提示：他论上帝的讨论分属两个领域。一是先验哲学本身，它给出形而上学的纯粹形式条件，故只含我们为在世界中设定自身而必须构造的理想（上帝、世界、世界中的人）；二是形而上学，即应用于特定对象的先验哲学（“［先验哲学家］只谈形式者，［形而上学家］谈质料者（对象、质料）”［AK 21:79 [OP: 246]］）。若然，则康德未必否弃或“紧缩”了先前的宗教哲学，不过为它添了一层。遗憾的是，《遗著》未完成，难以就康德晚年宗教思想的立场得出稳当结论。
+  - id: 185
+    kind: oir
+    source: |-
+      - [North American Kant Society](https://northamericankantsociety.org/)
+      - [Kant in the Classroom](https://users.manchester.edu/FacStaff/SSNaragon/Kant/Home/index.htm)
+      - [Kant on the Web](https://staffweb.hkbu.edu.hk/ppp/Kant.html), maintained by Steve Palmquist, Hong Kong Baptist University
+      - [Kant Research Center, Mainz University](https://www.kant.uni-mainz.de/e_index.html)
+    step1: |-
+      - [北美康德学会](https://northamericankantsociety.org/)
+      - [课堂中的康德](https://users.manchester.edu/FacStaff/SSNaragon/Kant/Home/index.htm)
+      - [网络上的康德](https://staffweb.hkbu.edu.hk/ppp/Kant.html)，由香港浸会大学 Steve Palmquist 维护
+      - [美因茨大学康德研究中心](https://www.kant.uni-mainz.de/e_index.html)
+    step2: |-
+      - [北美康德学会](https://northamericankantsociety.org/)。
+      - [课堂中的康德（Kant in the Classroom）](https://users.manchester.edu/FacStaff/SSNaragon/Kant/Home/index.htm)。
+      - [网络上的康德（Kant on the Web）](https://staffweb.hkbu.edu.hk/ppp/Kant.html)，由香港浸会大学 Steve Palmquist 维护。
+      - [美因茨大学康德研究中心](https://www.kant.uni-mainz.de/e_index.html)。
+  - id: 186
+    kind: ack
+    source: |-
+      The co-authors jointly authored Section 1 (“Overview”). Fugate wrote most of Section 2 (“Kant’s Pre-Critical Religious Thought”) and provided input on Sections 3 and 4. Pasternack wrote the remaining material. The authors would like to acknowledge the contributions of Rob Gressis, who spent time reading through various drafts and offered valuable input for Section 4 (“Religion in the *Opus Postumum*”).
+    step1: |-
+      两位合著者共同撰写了第 1 节（“概览”）。Fugate 撰写了第 2 节（“康德前批判时期的宗教思想”）的大部分，并对第 3、4 节提供意见。Pasternack 撰写了其余材料。作者们还要致谢 Rob Gressis 的贡献：他花时间阅读了各种草稿，并为第 4 节（“《遗著》中的宗教”）提供了宝贵意见。
+    step2: |-
+      两位合著者共同撰写第 1 节（“概览”）；Fugate 执笔第 2 节（“康德前批判时期的宗教思想”）大部，并就第 3、4 节提供意见；其余材料由 Pasternack 撰写。作者们还感谢 Rob Gressis 阅读多稿，并为第 4 节（“《遗著》中的宗教”）提出宝贵意见。

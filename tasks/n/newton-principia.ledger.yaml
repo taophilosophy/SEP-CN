@@ -76,7 +76,7 @@ segments:
     source: |-
       A second aspect of the new method concerns the use of mathematical theory not to derive testable conclusions from hypotheses, as Galileo and Huygens had done, but to cover a full range of alternative theoretical possibilities, enabling the empirical world then to select among them. This new approach is spelled out most forcefully at the end of Book 1, Section 11:
     step1: |-
-      新方法的第二个方面，涉及对数学理论的运用：不是像伽利略与惠更斯那样，从假设中推出可检验的结论，而是涵盖一整类彼此替代的理论可能性，让经验世界随后在其中做出选择。这一新进路在第一卷第十一节的末尾得到了最有力的阐明：
+      新方法的第二个方面，涉及数学理论的运用：不是像伽利略与惠更斯那样，从假设中推出可检验的结论，而是覆盖一整类彼此替代的理论可能性，好让经验世界随后在它们中间作出选择。这一新进路在第一卷第十一节末尾得到最有力的阐明：
     step2: |-
       新方法的第二个方面，涉及对数学理论的运用：不是像伽利略与惠更斯那样，从假设中推出可检验的结论，而是涵盖一整类彼此替代的理论可能性，让经验世界随后在其中做出选择。这一新进路在第一卷第十一节的末尾得到了最有力的阐明：
   - id: 10
@@ -246,7 +246,7 @@ segments:
     source: |-
       The historical context in which Newton wrote the *Principia* involved a set of issues that readers of the first edition saw it as addressing: Was Kepler's approach to calculating the orbits, or some other, to be preferred? Was there some empirical basis for resolving the issue of the Copernican versus the Tychonic system? Were the true motions complicated and irregular versus the calculated motions? Can mathematical astronomy be an exact science? No reader of the *Principia* at the time had the benefit of seeing how Newton had these questions tied together in the “Copernican Scholium” because it did not appear in print until two hundred years later.[^note-12] Nothing, however, brings out more clearly the extent to which the expanded scope of the *Principia* stemmed from Newton's preoccupation with the problem of reaching conclusions that had claim to being exact from evidence that, by his reckoning, held at best to high approximation. This is why the “Copernican scholium” provides the most illuminating context for reading the *Principia*. Equally, its being unknown for so long helps to explain why the *Principia* has generally been read so simplistically.
     step1: |-
-      牛顿写作《原理》时的历史背景，涉及一组问题，而第一版的读者认为该书正是在处理这些问题：应当优先采用开普勒的轨道计算进路，还是某种其他进路？是否存在某种经验依据来解决哥白尼体系与第谷体系之争？与计算出的运动相比，真实运动是否复杂而不规则？数学天文学能否成为一门精确科学？当时《原理》的读者没有一个能得益于看到牛顿如何把这些在“哥白尼附释”中串起来，因为该附释直到两百年后才付印。[^note-12] 然而，没有任何东西比这一点更清楚地表明：《原理》范围的扩大，源于牛顿执意要从按他估计充其量只高度近似成立的证据中，得出有资格被称为精确的结论。这就是为什么“哥白尼附释”为阅读《原理》提供了最富启发性的语境。同样，它长期不为人知，也有助于解释《原理》为何一般被读得如此简单化。
+      牛顿写作《原理》时所处的历史背景，涉及一组问题，而第一版读者认为这本书正是在处理它们：应当优先采用开普勒的轨道计算进路，还是某种其他进路？是否存在某种经验依据来解决哥白尼体系与第谷体系之争？与计算出的运动相比，真实运动是否复杂而不规则？数学天文学能否成为一门精确科学？当时《原理》的读者没有一个能得益于看到牛顿如何把这些在“哥白尼附释”中串起来，因为该附释直到两百年后才付印。[^note-12] 然而，没有任何东西比这一点更清楚地表明：《原理》范围的扩大，源于牛顿执意要从按他估计充其量只高度近似成立的证据中，得出有资格被称为精确的结论。这就是为什么“哥白尼附释”为阅读《原理》提供了最富启发性的语境。同样，它长期不为人知，也有助于解释《原理》为何一般被读得如此简单化。
     step2: |-
       牛顿写作《原理》时的历史背景，涉及一组问题，而第一版的读者认为该书正是在处理这些问题：应当优先采用开普勒的轨道计算进路，还是某种其他进路？是否存在某种经验依据来解决哥白尼体系与第谷体系之争？与计算出的运动相比，真实运动是否复杂而不规则？数学天文学能否成为一门精确科学？当时《原理》的读者没有一个能得益于看到牛顿如何把这些在“哥白尼附释”中串起来，因为该附释直到两百年后才付印。[^note-12] 然而，没有任何东西比这一点更清楚地表明：《原理》范围的扩大，源于牛顿执意要从按他估计充其量只高度近似成立的证据中，得出有资格被称为精确的结论。这就是为什么“哥白尼附释”为阅读《原理》提供了最富启发性的语境。同样，它长期不为人知，也有助于解释《原理》为何一般被读得如此简单化。
   - id: 29
@@ -682,7 +682,7 @@ segments:
     source: |-
       move from P to Q, and hence the force varies as QR/*t*². But the time is proportional to PQ divided by the velocity *v*, and in the limit as Q approaches P, PQ approaches PR, so that *t*² becomes equal to PR²/*v*². Proposition 36 of Book 3 of Euclid entails that in this limit PR² is equal to the product of QR and twice the radius SP, and hence the force for uniform motion in a circle varies as *v*²/SP or *v*²/*r*.[^note-35]
     step1: |-
-      移动到 Q 所需时间 *t* 的平方之积成正比；因此力按 QR/*t*² 变化。但时间与 PQ 除以速度 *v* 成正比，而在 Q 趋近 P 的极限下，PQ 趋近 PR，于是 *t*² 等于 PR²/*v*²。欧几里得《几何原本》第三卷第 36 命题蕴含：在此极限下，PR² 等于 QR 与两倍半径 SP 之积；因此匀速圆周运动的力按 *v*²/SP 或 *v*²/*r* 变化。[^note-35]
+      移动到 Q 的时间 *t* 的平方成正比；因此力按 QR/*t*² 变化。但时间与 PQ 除以速度 *v* 成正比；在 Q 趋近 P 的极限下，PQ 趋近 PR，于是 *t*² 等于 PR²/*v*²。欧几里得《几何原本》第三卷第 36 命题蕴含：在此极限下，PR² 等于 QR 与两倍半径 SP 之积；因此匀速圆周运动的力按 *v*²/SP 或 *v*²/*r* 变化。[^note-35]
     step2: |-
       移动到 Q 所需时间 *t* 的平方之积成正比；因此力按 QR/*t*² 变化。但时间与 PQ 除以速度 *v* 成正比，而在 Q 趋近 P 的极限下，PQ 趋近 PR，于是 *t*² 等于 PR²/*v*²。欧几里得《几何原本》第三卷第 36 命题蕴含：在此极限下，PR² 等于 QR 与两倍半径 SP 之积；因此匀速圆周运动的力按 *v*²/SP 或 *v*²/*r* 变化。[^note-35]
   - id: 79
@@ -722,9 +722,9 @@ segments:
     source: |-
       Section 9 includes another often overlooked result that is pivotal to the evidential reasoning for universal gravity in Book 3. Proposition 45 applies the result on precessing orbits mentioned earlier to the special case of nearly circular orbits, that is, orbits like those of the then known planets and their satellites. This proposition establishes that such orbits, under purely centripetal forces, are stationary — that is, do not precess — if and only if the centripetal force governing them is *exactly* inverse-square. It does this by deriving a formula relating the exponent *n* in the force law to the angle *θ* between the point where the orbiting body is furthest from the force center to the point where it is nearest, that is, the apsidal angle: *n* = (180/*θ*)²-3. (To illustrate, if the apsidal angle is 180 degrees, as in a Keplerian ellipse, then the exponent in the force law is -2, and if the apsidal angle is 90 degrees, as in an ellipse for which the force center is in the center, the exponent is +1.) This result is striking in three ways. First, insofar as the cumulative effect of even a very small precession is detectable after several revolutions, this formula turns the rate of precession (2*θ* per revolution) into a sensitive measure of the exponent in the force law. Second, it yields a conditional beyond “*If the orbit is stationary, then the centripetal force is inverse-square*,” namely, “*If the orbit is nearly stationary, then the centripetal force is nearly inverse-square*.” Using Newton's preferred phrasing, *quam proxime* (literally, “most nearly as possible”), this latter conditional has an “If…*quam proxime*, then…*quam proxime*” form. Newton illustrates this by taking the mean precession rate of the lunar orbit, 3 degrees per revolution, to conclude that the exponent for the net centrifugal force acting on the Moon is -2 and 4/243. Third, even when an orbit does precess, once such a fractional departure of the exponent from -2 is shown to result from the perturbing effect of outside bodies, then one can still conclude that the force toward the central body is exactly -2. This is precisely the strategy Newton follows in concluding that the centripetal force on the Moon, once a correction is made for the perturbing effects of the Sun, is inverse-square.
     step1: |-
-      第九节还含有一个常被忽视、却对第三卷万有引力证据推理至关重要的结果。命题 45 把前文提到的进动轨道结果应用于近圆轨道的特殊情形，即当时已知行星及其卫星那样的轨道。该命题确立：这样的轨道在纯向心力下是驻定的——即不进动——当且仅当支配它们的向心力*恰好*是平方反比的。其做法是导出一个公式，把力律中的指数 *n* 与轨道物体离力心最远点到最近点之间的角度 *θ* 即拱点角联系起来：*n* = (180/*θ*)²-3。（举例说，如果拱点角是 180 度，如开普勒椭圆那样，那么力律中的指数是 -2；如果拱点角是 90 度，如力心在中心的椭圆那样，指数是 +1。）这一结果在三点上引人注目。第一，由于即便很小的进动累积数圈后也可察觉，这个公式把进动率（每圈 2*θ*）变成力律指数的敏感量度。第二，它给出一个超出“*如果轨道驻定，则向心力是平方反比的*”的条件句，即“*如果轨道近乎驻定，则向心力近乎平方反比的*”。用牛顿偏好的说法 *quam proxime*（字面意思是“尽可能接近”），后一条件句具有“如果……*quam proxime*，则……*quam proxime*”的形式。牛顿以月球轨道的平均进动率即每圈 3 度为例，断定作用于月球的净离心力的指数是 -2 又 4/243。第三，即便轨道确实进动，一旦表明指数偏离 -2 的这一小分数来自外部物体的摄动效应，人们仍可断定朝向中心体的力恰好是 -2。这正是牛顿在断定月球所受向心力（在对太阳的摄动效应作出校正之后）是平方反比时所遵循的策略。
+      第九节还含有一个常被忽视、却对第三卷万有引力证据推理至关重要的结果。命题 45 把前文提到的进动轨道结果应用于近圆轨道的特殊情形，即当时已知行星及其卫星那样的轨道。该命题确立：这样的轨道在纯向心力下是驻定的——即不进动——当且仅当支配它们的向心力 **恰好** 是平方反比的。其做法是导出一个公式，把力律中的指数 *n* 与轨道物体离力心最远点到最近点之间的角度 *θ* 即拱点角联系起来：*n* = (180/*θ*)²-3。（举例说，如果拱点角是 180 度，如开普勒椭圆那样，那么力律中的指数是 -2；如果拱点角是 90 度，如力心在中心的椭圆那样，指数是 +1。）这一结果在三点上引人注目。第一，由于即便很小的进动累积数圈后也可察觉，这个公式把进动率（每圈 2*θ*）变成力律指数的敏感量度。第二，它给出一个超出“**如果轨道驻定，则向心力是平方反比的**”的条件句，即“**如果轨道近乎驻定，则向心力近乎平方反比的**”。用牛顿偏好的说法 *quam proxime*（字面意思是“尽可能接近”），后一条件句具有“如果……*quam proxime*，则……*quam proxime*”的形式。牛顿以月球轨道的平均进动率即每圈 3 度为例，断定作用于月球的净离心力的指数是 -2 又 4/243。第三，即便轨道确实进动，一旦表明指数偏离 -2 的这一小分数来自外部物体的摄动效应，人们仍可断定朝向中心体的力恰好是 -2。这正是牛顿在断定月球所受向心力（在对太阳的摄动效应作出校正之后）是平方反比时所遵循的策略。
     step2: |-
-      第九节还包含另一个常被忽视、却对第三卷万有引力证据推理至关重要的结果。命题 45 把前文提到的进动轨道结果应用于近圆轨道的特殊情形，即当时已知行星及其卫星那样的轨道。该命题确立：这样的轨道在纯向心力下是驻定的——即不进动——当且仅当支配它们的向心力*恰好*是平方反比的。其做法是导出一个公式，把力律中的指数 *n* 与轨道物体离力心最远点到最近点之间的角度 *θ* 即拱点角联系起来：*n* = (180/*θ*)²-3。（举例说，如果拱点角是 180 度，如开普勒椭圆那样，那么力律中的指数是 -2；如果拱点角是 90 度，如力心在中心的椭圆那样，指数是 +1。）这一结果在三个方面引人注目。第一，由于即便很小的进动累积数圈后也可察觉，这个公式把进动率（每圈 2*θ*）变成力律指数的敏感量度。第二，它给出一个超出“*如果轨道驻定，则向心力是平方反比的*”的条件句，即“*如果轨道近乎驻定，则向心力近乎平方反比的*”。用牛顿偏好的说法 *quam proxime*（字面意思是“尽可能接近”），后一条件句具有“如果……*quam proxime*，则……*quam proxime*”的形式。牛顿以月球轨道的平均进动率即每圈 3 度为例，断定作用于月球的净离心力的指数是 -2 又 4/243。第三，即便轨道确实进动，一旦表明指数偏离 -2 的这一小分数来自外部物体的摄动效应，人们仍可断定朝向中心体的力恰好是 -2。这正是牛顿在断定月球所受向心力（在对太阳的摄动效应作出校正之后）是平方反比时所遵循的策略。
+      第九节还包含另一个常被忽视、却对第三卷万有引力证据推理至关重要的结果。命题 45 把前文提到的进动轨道结果应用于近圆轨道的特殊情形，即当时已知行星及其卫星那样的轨道。该命题确立：这样的轨道在纯向心力下是驻定的——即不进动——当且仅当支配它们的向心力 **恰好** 是平方反比的。其做法是导出一个公式，把力律中的指数 *n* 与轨道物体离力心最远点到最近点之间的角度 *θ* 即拱点角联系起来：*n* = (180/*θ*)²-3。（举例说，如果拱点角是 180 度，如开普勒椭圆那样，那么力律中的指数是 -2；如果拱点角是 90 度，如力心在中心的椭圆那样，指数是 +1。）这一结果在三个方面引人注目。第一，由于即便很小的进动累积数圈后也可察觉，这个公式把进动率（每圈 2*θ*）变成力律指数的敏感量度。第二，它给出一个超出“**如果轨道驻定，则向心力是平方反比的**”的条件句，即“**如果轨道近乎驻定，则向心力近乎平方反比的**”。用牛顿偏好的说法 *quam proxime*（字面意思是“尽可能接近”），后一条件句具有“如果……*quam proxime*，则……*quam proxime*”的形式。牛顿以月球轨道的平均进动率即每圈 3 度为例，断定作用于月球的净离心力的指数是 -2 又 4/243。第三，即便轨道确实进动，一旦表明指数偏离 -2 的这一小分数来自外部物体的摄动效应，人们仍可断定朝向中心体的力恰好是 -2。这正是牛顿在断定月球所受向心力（在对太阳的摄动效应作出校正之后）是平方反比时所遵循的策略。
   - id: 84
     kind: body
     source: |-
@@ -762,7 +762,7 @@ segments:
     source: |-
       The argument that carried much more weight at the time — it convinced Huygens, for example — is the one that extends across the first seven sections of the Book. The thrust of this argument is clear from its conclusion, as stated more forcefully in the second and third editions than in the first:
     step1: |-
-      当时更有分量的论证——例如它说服了惠更斯——是贯穿该卷前七节的那个论证。这一论证的要点从其结论中看得很清楚，而第二版与第三版中的表述比第一版更有力：
+      当时分量重得多的论证——例如它把惠更斯说服了——是贯穿该卷前七节的那个论证。这一论证的要点从其结论看得很清楚，而第二版与第三版中的表述比第一版更有力：
     step2: |-
       当时更有分量的论证——例如它说服了惠更斯——是贯穿该卷前七节的那个论证。这一论证的要点从其结论中看得很清楚，而第二版与第三版中的表述比第一版更有力：
   - id: 89
@@ -778,9 +778,9 @@ segments:
     source: |-
       To reach this conclusion Newton had to show that (1) the inertia of the fluid does indeed produce a resistance force proportional to its density, a force that (2) is independent of the tenacity (that is, surface friction) and the friction of the parts (that is, viscosity) of the fluid. Perhaps in part in emulation of the approach to centripetal forces that appeared to have succeeded so well in Books 1 and 3, the approach Newton takes in Book 2 is to develop, so far as he can, a generic mathematical theory of motion under resistance forces and then turn to experimental phenomena so that, in the words of Book 1, “it may be found out which conditions of forces apply” to different kinds of fluids. The theory in Book 1 is generic in that it examines centripetal forces that vary as different functions of the distance from the force center. The theory in Book 2 is generic in that it examines motion under resistance forces that vary as the velocity, the velocity squared, the sum of these two, and ultimately even the sum of two or three independent contributions, each of which is allowed to vary as any power of velocity whatever. Because Newton's goal was to reach a conclusion about the contribution to the total resistance made by the inertia of the fluid, and he recognized that surface friction and viscosity can contribute to the resistance as well, his empirical problem became one of *disaggregating* the inertial contribution from the total resistance, that is, the contribution that alone varies with the density of the fluid. Fortunately, because gravitational forces so totally dominate celestial motions, this need to disaggregate different sorts of forces did not arise in Book 3.
     step1: |-
-      为了得出这一结论，牛顿必须表明：（1）流体的惯性确实产生与其密度成正比的阻力，而（2）这种阻力与流体各部分的黏着性（即表面摩擦）及摩擦（即黏滞性）无关。或许部分是为了效仿在第一卷与第三卷中看来极为成功的处理向心力的方式，牛顿在第二卷中采取的做法是：尽可能发展一种关于阻力下运动的通用数学理论，然后转向实验现象，以便用第一卷的话说，“发现哪些力的条件适用于”不同种类的流体。第一卷的理论之所以是通用的，是因为它考察随到力心距离的不同函数变化的向心力。第二卷的理论之所以是通用的，是因为它考察阻力随速度、速度平方、二者之和、乃至最终随两三项独立贡献之和变化的运动，其中每一项都允许按速度的任意幂变化。由于牛顿的目标是得出关于流体惯性对总阻力之贡献的结论，而且他认识到表面摩擦与黏滞性也会对阻力有贡献，他的经验问题就变成：把惯性贡献从总阻力中*分解*出来，即分解出唯一随流体密度变化的贡献。幸运的是，由于引力在天体运动中占绝对主导地位，这种分解不同种类力的需要在第三卷中并未出现。
+      为了得出这一结论，牛顿必须表明：（1）流体的惯性确实产生与其密度成正比的阻力，而（2）这种阻力与流体各部分的黏着性（即表面摩擦）及摩擦（即黏滞性）无关。或许部分是为了效仿在第一卷与第三卷中看来极为成功的处理向心力的方式，牛顿在第二卷中采取的做法是：尽可能发展一种关于阻力下运动的通用数学理论，然后转向实验现象，以便用第一卷的话说，“发现哪些力的条件适用于”不同种类的流体。第一卷的理论之所以是通用的，是因为它考察随到力心距离的不同函数变化的向心力。第二卷的理论之所以是通用的，是因为它考察阻力随速度、速度平方、二者之和、乃至最终随两三项独立贡献之和变化的运动，其中每一项都允许按速度的任意幂变化。由于牛顿的目标是得出关于流体惯性对总阻力之贡献的结论，而且他认识到表面摩擦与黏滞性也会对阻力有贡献，他的经验问题就变成：把惯性贡献从总阻力中 **分解** 出来，即分解出唯一随流体密度变化的贡献。幸运的是，由于引力在天体运动中占绝对主导地位，这种分解不同种类力的需要在第三卷中并未出现。
     step2: |-
-      为得出这一结论，牛顿必须表明：（1）流体的惯性确实产生与其密度成正比的阻力，而（2）这种阻力与流体各部分的黏着性（即表面摩擦）及摩擦（即黏滞性）无关。或许部分是为了效仿在第一卷与第三卷中看来极为成功的处理向心力的方式，牛顿在第二卷中采取的做法是：尽可能发展一种关于阻力下运动的通用数学理论，然后转向实验现象，以便用第一卷的话说，“发现哪些力的条件适用于”不同种类的流体。第一卷的理论之所以是通用的，是因为它考察随到力心距离的不同函数变化的向心力。第二卷的理论之所以是通用的，是因为它考察阻力随速度、速度平方、二者之和、乃至最终随两三项独立贡献之和变化的运动，其中每一项都允许按速度的任意幂变化。由于牛顿的目标是得出关于流体惯性对总阻力之贡献的结论，而且他认识到表面摩擦与黏滞性也会对阻力有贡献，他的经验问题就变成：把惯性贡献从总阻力中*分解*出来，即分解出唯一随流体密度变化的贡献。幸运的是，由于引力在天体运动中占据绝对主导地位，这种分解不同种类力的需要在第三卷中并未出现。
+      为得出这一结论，牛顿必须表明：（1）流体的惯性确实产生与其密度成正比的阻力，而（2）这种阻力与流体各部分的黏着性（即表面摩擦）及摩擦（即黏滞性）无关。或许部分是为了效仿在第一卷与第三卷中看来极为成功的处理向心力的方式，牛顿在第二卷中采取的做法是：尽可能发展一种关于阻力下运动的通用数学理论，然后转向实验现象，以便用第一卷的话说，“发现哪些力的条件适用于”不同种类的流体。第一卷的理论之所以是通用的，是因为它考察随到力心距离的不同函数变化的向心力。第二卷的理论之所以是通用的，是因为它考察阻力随速度、速度平方、二者之和、乃至最终随两三项独立贡献之和变化的运动，其中每一项都允许按速度的任意幂变化。由于牛顿的目标是得出关于流体惯性对总阻力之贡献的结论，而且他认识到表面摩擦与黏滞性也会对阻力有贡献，他的经验问题就变成：把惯性贡献从总阻力中 **分解** 出来，即分解出唯一随流体密度变化的贡献。幸运的是，由于引力在天体运动中占据绝对主导地位，这种分解不同种类力的需要在第三卷中并未出现。
   - id: 91
     kind: body
     source: |-
@@ -810,9 +810,9 @@ segments:
     source: |-
       Unfortunately, pendulum-decay turned out not to be as well behaved a phenomenon as Newton anticipated it was going to be while he was working on the first edition. The problem, as he later realized, was that he had to let the pendulum swing many times in order to measure the rate of decay, and in the process it gave rise to a “to and fro” motion in the surrounding fluid, so that the *relative* velocity between the bob and the fluid, which is the velocity that matters in resistance, could not be determined or controlled. The General Scholium following Section 6[^note-39] reports detailed decay-rate data for an impressive range of experiments, including different size bobs in air and bobs moving as well in water and mercury. The reader is also shown in detail how to proceed from the data in each case to a polynomial as above defining the resistance force. Any reader who worked through the data discovered what Newton knew, but was less than candid about: no polynomial fit the data. The experiments did clearly indicate that resistance forces involve no power of velocity greater than 2, and they provided good evidence that a velocity squared effect was dominant, even to the extent of masking any effect involving some other power. Newton also managed to extract some highly qualified evidence that the velocity squared effect varies as the density of the fluid and the frontal area (that is, the square of the diameter) of spheres.
     step1: |-
-      不幸的是，摆衰减的结果并不像牛顿在第一版工作期间所预想的那样好处理。他后来意识到，问题在于他必须让摆摆动很多次才能测量衰减率，而在这个过程中，摆会在周围流体中引起一种“往复”运动，使得摆锤与流体之间的*相对*速度——在阻力中真正重要的速度——无法确定或控制。第六节之后的总释[^note-39] 报告了令人印象深刻的一系列实验的详细衰减率数据，包括空气中不同大小的摆锤，以及在水和水银中运动的摆锤。读者还会看到详细说明，如何从每种情形的数据出发，得出上述界定阻力的多项式。任何认真处理这些数据的读者都会发现牛顿知道却不够坦率的事：没有一个多项式能拟合数据。实验确实清楚表明，阻力不涉及高于 2 次幂的速度，而且提供了良好证据表明速度平方效应占主导，甚至掩盖了涉及其他幂次的任何效应。牛顿还设法提取了一些限定性很强的证据，表明速度平方效应随流体密度和球体的迎风面积（即直径的平方）变化。
+      不幸的是，摆衰减的结果并不像牛顿在第一版工作期间所预想的那样好处理。他后来意识到，问题在于他必须让摆摆动很多次才能测量衰减率，而在这个过程中，摆会在周围流体中引起一种“往复”运动，使得摆锤与流体之间的 **相对** 速度——在阻力中真正重要的速度——无法确定或控制。第六节之后的总释[^note-39] 报告了令人印象深刻的一系列实验的详细衰减率数据，包括空气中不同大小的摆锤，以及在水和水银中运动的摆锤。读者还会看到详细说明，如何从每种情形的数据出发，得出上述界定阻力的多项式。任何认真处理这些数据的读者都会发现牛顿知道却不够坦率的事：没有一个多项式能拟合数据。实验确实清楚表明，阻力不涉及高于 2 次幂的速度，而且提供了良好证据表明速度平方效应占主导，甚至掩盖了涉及其他幂次的任何效应。牛顿还设法提取了一些限定性很强的证据，表明速度平方效应随流体密度和球体的迎风面积（即直径的平方）变化。
     step2: |-
-      不幸的是，摆衰减结果并不像牛顿在第一版工作期间所预想的那样好处理。他后来认识到，问题在于他必须让摆摆动很多次才能测量衰减率，而在这个过程中，摆会在周围流体中引起一种“往复”运动，使得摆锤与流体之间的*相对*速度——在阻力中真正重要的速度——无法确定或控制。第六节之后的总释[^note-39] 报告了令人印象深刻的一系列实验的详细衰减率数据，包括空气中不同大小的摆锤，以及在水和水银中运动的摆锤。读者还会看到详细说明，如何从每种情形的数据出发，得出上述界定阻力的多项式。任何认真处理这些数据的读者都会发现牛顿知道却不够坦率的事：没有一个多项式能拟合数据。实验确实清楚表明，阻力不涉及高于 2 次幂的速度，而且提供了良好证据表明速度平方效应占主导，甚至掩盖了涉及其他幂次的任何效应。牛顿还设法提取了一些限定性很强的证据，表明速度平方效应随流体密度和球体的迎风面积（即直径的平方）变化。
+      不幸的是，摆衰减结果并不像牛顿在第一版工作期间所预想的那样好处理。他后来认识到，问题在于他必须让摆摆动很多次才能测量衰减率，而在这个过程中，摆会在周围流体中引起一种“往复”运动，使得摆锤与流体之间的 **相对** 速度——在阻力中真正重要的速度——无法确定或控制。第六节之后的总释[^note-39] 报告了令人印象深刻的一系列实验的详细衰减率数据，包括空气中不同大小的摆锤，以及在水和水银中运动的摆锤。读者还会看到详细说明，如何从每种情形的数据出发，得出上述界定阻力的多项式。任何认真处理这些数据的读者都会发现牛顿知道却不够坦率的事：没有一个多项式能拟合数据。实验确实清楚表明，阻力不涉及高于 2 次幂的速度，而且提供了良好证据表明速度平方效应占主导，甚至掩盖了涉及其他幂次的任何效应。牛顿还设法提取了一些限定性很强的证据，表明速度平方效应随流体密度和球体的迎风面积（即直径的平方）变化。
   - id: 95
     kind: body
     source: |-
@@ -826,17 +826,17 @@ segments:
     source: |-
       While the vertical-fall experiments put Newton in a position to make his concluding rejection of vortex theories more forceful, they also posed a methodological complication. The vertical-fall experiments offered no way of disaggregating the contribution to resistance made by the inertia of the medium from the total resistance. But the argument against vortices required him to show that, no matter how perfectly free of friction and viscosity the celestial fluid might be, its inertia would still give rise to resistance forces that would affect the motions of comets, if not planets as well. From the resistance measured in the pendulum-decay experiments, Newton could conclude that the forces in air and water are dominated by a contribution that varies as the velocity squared. In the vertical-fall experiments in air and water the measured forces varied to first approximation as the product of the density and the velocity squared, but only to a first approximation, leaving room to question whether a purely inertial contribution had been isolated. Newton dealt with this problem by offering a rather *ad hoc* theoretical derivation for the purely inertial contribution, showing how closely it agreed with the vertical-fall results, and proposing that the differences between the theoretical and the measured resistances could be used to investigate other contributions. Success of such a program in characterizing the contributions made by surface friction and the viscosity would have provided compelling support for Newton's theory of the inertial contribution. Still, the approach left Newton with not so straightforward a derivation of the laws of resistance forces from phenomena as he had hoped for in the first edition.[^note-40]
     step1: |-
-      尽管垂直下落实验使牛顿有条件更有力地作出对涡旋理论的最终否定，它们也带来一个方法论上的复杂问题。垂直下落实验无法把介质惯性对阻力的贡献从总阻力中分解出来。但反对涡旋的论证要求他说明：无论天体流体多么完美地没有摩擦与黏滞性，其惯性仍会产生阻力，影响彗星（如果不是行星的话）的运动。从摆衰减实验中测得的阻力，牛顿可以断定空气与水中的力由随速度平方变化的贡献主导。在空气与水的垂直下落实验中，测得的力在一级近似下随密度与速度平方之积变化，但只在一级近似下，这就留下了疑问：纯粹的惯性贡献是否已被分离出来。牛顿处理这个问题的方式，是为纯粹的惯性贡献提供一个相当*特设*的理论推导，表明它与垂直下落结果吻合得多么好，并提出理论阻力与实测阻力之间的差异可用来研究其他贡献。这样一个纲领若能成功刻画表面摩擦与黏滞性的贡献，就会为牛顿的惯性贡献理论提供有力支持。尽管如此，这一做法仍使牛顿无法像他在第一版中所希望的那样，从现象直接导出阻力定律。[^note-40]
+      尽管垂直下落实验使牛顿有条件更有力地作出对涡旋理论的最终否定，它们也带来一个方法论上的复杂问题。垂直下落实验无法把介质惯性对阻力的贡献从总阻力中分解出来。但反对涡旋的论证要求他说明：无论天体流体多么完美地没有摩擦与黏滞性，其惯性仍会产生阻力，影响彗星（如果不是行星的话）的运动。从摆衰减实验中测得的阻力，牛顿可以断定空气与水中的力由随速度平方变化的贡献主导。在空气与水的垂直下落实验中，测得的力在一级近似下随密度与速度平方之积变化，但只在一级近似下，这就留下了疑问：纯粹的惯性贡献是否已被分离出来。牛顿处理这个问题的方式，是为纯粹的惯性贡献提供一个相当 **特设** 的理论推导，表明它与垂直下落结果吻合得多么好，并提出理论阻力与实测阻力之间的差异可用来研究其他贡献。这样一个纲领若能成功刻画表面摩擦与黏滞性的贡献，就会为牛顿的惯性贡献理论提供有力支持。尽管如此，这一做法仍使牛顿无法像他在第一版中所希望的那样，从现象直接导出阻力定律。[^note-40]
     step2: |-
-      虽然垂直下落实验使牛顿有条件更有力地作出对涡旋理论的最终否定，它们也带来一个方法论上的复杂问题。垂直下落实验无法把介质惯性对阻力的贡献从总阻力中分解出来。但反对涡旋的论证要求他表明：无论天体流体多么完美地没有摩擦与黏滞性，其惯性仍会产生阻力，影响彗星（如果不是行星的话）的运动。从摆衰减实验中测得的阻力，牛顿可以断定空气与水中的力由随速度平方变化的贡献主导。在空气与水的垂直下落实验中，测得的力在一级近似下随密度与速度平方之积变化，但只在一级近似下，这就留下了疑问：纯粹的惯性贡献是否已被分离出来。牛顿处理这个问题的方式，是为纯粹的惯性贡献提供一个相当*特设*的理论推导，表明它与垂直下落结果吻合得多么好，并提出理论阻力与实测阻力之间的差异可用来研究其他贡献。这样一个纲领若能成功刻画表面摩擦与黏滞性的贡献，就会为牛顿的惯性贡献理论提供有力支持。尽管如此，这一做法仍使牛顿无法像他在第一版中所希望的那样，从现象直接导出阻力定律。[^note-40]
+      虽然垂直下落实验使牛顿有条件更有力地作出对涡旋理论的最终否定，它们也带来一个方法论上的复杂问题。垂直下落实验无法把介质惯性对阻力的贡献从总阻力中分解出来。但反对涡旋的论证要求他表明：无论天体流体多么完美地没有摩擦与黏滞性，其惯性仍会产生阻力，影响彗星（如果不是行星的话）的运动。从摆衰减实验中测得的阻力，牛顿可以断定空气与水中的力由随速度平方变化的贡献主导。在空气与水的垂直下落实验中，测得的力在一级近似下随密度与速度平方之积变化，但只在一级近似下，这就留下了疑问：纯粹的惯性贡献是否已被分离出来。牛顿处理这个问题的方式，是为纯粹的惯性贡献提供一个相当 **特设** 的理论推导，表明它与垂直下落结果吻合得多么好，并提出理论阻力与实测阻力之间的差异可用来研究其他贡献。这样一个纲领若能成功刻画表面摩擦与黏滞性的贡献，就会为牛顿的惯性贡献理论提供有力支持。尽管如此，这一做法仍使牛顿无法像他在第一版中所希望的那样，从现象直接导出阻力定律。[^note-40]
   - id: 97
     kind: body
     source: |-
       In fact, there is a deep mistake in Newton's approach to resistance forces that came to be understood only at the beginning of the twentieth century. Resistance forces do not arise from independent contributions made by such factors as the viscosity and inertia of the fluid. Consequently, no polynomial consisting of a few always positive terms in powers of velocity can ever be adequate for resistance forces. The first indication of this came when d'Alembert, unhappy with Newton's *ad hoc* theory for the inertial contribution, analyzed the flow of what we now call a perfect fluid about spheres and bodies of other shapes, discovering in all cases that the net force of the fluid is exactly zero. Consequently, contrary to Newton, there is no such thing as *the* contribution made to resistance purely by the inertia of the fluid. Resistance forces always arise from a combination of viscous and inertial effects, however low the viscosity of the fluid may be. Newton's assumption that resistance forces can be represented as a sum, one term of which gives the contribution made purely by the inertia of the fluid, was wrong empirically, much as his assumptions about simultaneity and space being Euclidean turned out to be wrong. Unlike the latter assumptions, however, the assumption about resistance amounted to a dead end. All Newton achieved in Book 2 with resistance forces was merely a curve-fit.
     step1: |-
-      其实，牛顿处理阻力的方式有一个深刻的错误，直到 20 世纪初才被理解。阻力并不来自黏滞性与流体惯性等因素各自独立的贡献。因此，由少数几个始终为正的速度幂项组成的任何多项式，都永远不足以表示阻力。第一个征兆出现在达朗贝尔那里：他对牛顿的*特设*惯性贡献理论不满，分析了我们今天所称的理想流体绕球体及其他形状物体的流动，结果在所有情形中都发现流体的净力恰好为零。因此，与牛顿相反，并不存在纯粹由流体惯性对阻力所作的那种贡献。阻力总是来自黏滞效应与惯性效应的组合，无论流体的黏滞性多么低。牛顿关于阻力可表示为一项之和、其中一项给出纯粹由流体惯性所作贡献的假设，在经验上是错误的，正如他关于同时性与空间为欧几里得的假设后来被证明错误一样。然而与后一类假设不同，关于阻力的假设是一条死路。牛顿在第二卷中借阻力所达到的一切，只不过是一次曲线拟合。
+      其实，牛顿处理阻力的方式有一个深刻的错误，直到 20 世纪初才被理解。阻力并不来自黏滞性与流体惯性等因素各自独立的贡献。因此，由少数几个始终为正的速度幂项组成的任何多项式，都永远不足以表示阻力。第一个征兆出现在达朗贝尔那里：他对牛顿的 **特设** 惯性贡献理论不满，分析了我们今天所称的理想流体绕球体及其他形状物体的流动，结果在所有情形中都发现流体的净力恰好为零。因此，与牛顿相反，并不存在纯粹由流体惯性对阻力所作的那种贡献。阻力总是来自黏滞效应与惯性效应的组合，无论流体的黏滞性多么低。牛顿关于阻力可表示为一项之和、其中一项给出纯粹由流体惯性所作贡献的假设，在经验上是错误的，正如他关于同时性与空间为欧几里得的假设后来被证明错误一样。然而与后一类假设不同，关于阻力的假设是一条死路。牛顿在第二卷中借阻力所达到的一切，只不过是一次曲线拟合。
     step2: |-
-      事实上，牛顿处理阻力的方式有一个深刻错误，直到 20 世纪初才被理解。阻力并不来自黏滞性与流体惯性等因素各自独立的贡献。因此，由少数几个始终为正的速度幂项组成的任何多项式，都永远不足以表示阻力。第一个迹象出现在达朗贝尔身上：他对牛顿的*特设*惯性贡献理论不满，分析了我们今天所称的理想流体绕球体及其他形状物体的流动，结果在所有情形中都发现流体的净力恰好为零。因此，与牛顿相反，并不存在纯粹由流体惯性对阻力所作的那种贡献。阻力总是来自黏滞效应与惯性效应的组合，无论流体的黏滞性多么低。牛顿关于阻力可表示为一项之和、其中一项给出纯粹由流体惯性所作贡献的假设，在经验上是错误的，正如他关于同时性与空间为欧几里得的假设后来被证明错误一样。然而与后一类假设不同，关于阻力的假设是一条死路。牛顿在第二卷中借阻力所达到的一切，只不过是一次曲线拟合。
+      事实上，牛顿处理阻力的方式有一个深刻错误，直到 20 世纪初才被理解。阻力并不来自黏滞性与流体惯性等因素各自独立的贡献。因此，由少数几个始终为正的速度幂项组成的任何多项式，都永远不足以表示阻力。第一个迹象出现在达朗贝尔身上：他对牛顿的 **特设** 惯性贡献理论不满，分析了我们今天所称的理想流体绕球体及其他形状物体的流动，结果在所有情形中都发现流体的净力恰好为零。因此，与牛顿相反，并不存在纯粹由流体惯性对阻力所作的那种贡献。阻力总是来自黏滞效应与惯性效应的组合，无论流体的黏滞性多么低。牛顿关于阻力可表示为一项之和、其中一项给出纯粹由流体惯性所作贡献的假设，在经验上是错误的，正如他关于同时性与空间为欧几里得的假设后来被证明错误一样。然而与后一类假设不同，关于阻力的假设是一条死路。牛顿在第二卷中借阻力所达到的一切，只不过是一次曲线拟合。
   - id: 98
     kind: body
     source: |-
@@ -906,9 +906,9 @@ segments:
     source: |-
       Interpreting Newton's deduction of universal gravity as an exercise in approximative reasoning answers a further complaint of Duhem's: insofar as the area rule holds only to high approximation, so too do any number of alternatives to it, such as Boulliau's geometric construction, and hence Newton's “deduction” begs the question of why the area rule is to be preferred to these alternatives.[^note-46] This question, however, is irrelevant so long as the conclusion remains in the weak form, the law of gravity holds *quam proxime* for the planets and their satellites over the time period for which observations have shown the phenomena to hold *quam proxime*. The phenomena really are sufficient to reach the conclusion in this weak form. So, the complaint has bite only when the law of gravity is taken to be exact. But there, however, Newton does provide a response to it when he concludes in Propositions 13 and 14 that the planets *would* describe areas exactly proportional to the times in stationary orbits if “the Sun *were* at rest and the remaining planets did not act upon one another.”[^note-47] The reason, then, why the phenomena from which Newton proceeded in the deduction have claim to being preferred to alternatives to them is that the theory deduced from them, when taken to hold exactly, identifies circumstances under which the phenomena would hold exactly, as well. That this be the case amounts to a requirement on the deduction from phenomena: the leap to taking the law of gravity as exact is justified only if it yields circumstances in which the phenomena from which it was inferred *would* hold exactly.[^note-48]
     step1: |-
-      把牛顿对万有引力的演绎解释为近似推理的练习，也回答了迪昂的另一项抱怨：既然面积规则只高度近似成立，那么它的任意若干替代方案（如布利奥的几何作图）也同样只高度近似成立，因此牛顿的“演绎”回避了为何面积规则应优先于这些替代方案的问题。[^note-46] 然而，只要结论停留在弱形式——引力定律在观测表明这些现象*quam proxime*成立的时期内，对行星及其卫星*quam proxime*成立——这个问题就无关紧要。这些现象确实足以达到这一弱形式的结论。因此，这一抱怨只有在把引力定律当作精确成立时才有力度。但正是在那里，牛顿确实作出了回应：他在命题 13 与 14 中断定，如果“太阳*处于*静止，且其余行星不相互作用”，行星*本会*在驻定轨道中描出与时间精确成比例的面积。[^note-47] 那么，牛顿在演绎中所依据的那些现象之所以有资格优先于其替代方案，是因为从它们推出的理论在精确成立时，指明了这些现象也会精确成立的情形。情况确实如此，这构成对从现象所作演绎的一项要求：把引力定律当作精确的这一步跳跃，只有在它能给出那些据以推断的现象*本会*精确成立的情形时，才有理由。[^note-48]
+      把牛顿对万有引力的演绎解释为近似推理的练习，也回答了迪昂的另一项抱怨：既然面积规则只高度近似成立，那么它的任意若干替代方案（如布利奥的几何作图）也同样只高度近似成立，因此牛顿的“演绎”回避了为何面积规则应优先于这些替代方案的问题。[^note-46] 然而，只要结论停留在弱形式——引力定律在观测表明这些现象*quam proxime*成立的时期内，对行星及其卫星*quam proxime*成立——这个问题就无关紧要。这些现象确实足以达到这一弱形式的结论。因此，这一抱怨只有在把引力定律当作精确成立时才有力度。但正是在那里，牛顿确实作出了回应：他在命题 13 与 14 中断定，如果“太阳处于静止，且其余行星不相互作用”，行星本会在驻定轨道中描出与时间精确成比例的面积。[^note-47] 那么，牛顿在演绎中所依据的那些现象之所以有资格优先于其替代方案，是因为从它们推出的理论在精确成立时，指明了这些现象也会精确成立的情形。情况确实如此，这构成对从现象所作演绎的一项要求：把引力定律当作精确的这一步跳跃，只有在它能给出那些据以推断的现象本会精确成立的情形时，才有理由。[^note-48]
     step2: |-
-      把牛顿对万有引力的演绎解释为近似推理的练习，也回答了迪昂的又一项抱怨：既然面积规则只高度近似成立，那么它的任意若干替代方案（如布利奥的几何作图）也同样只高度近似成立，因此牛顿的“演绎”回避了为何面积规则应优先于这些替代方案的问题。[^note-46] 然而，只要结论保持在弱形式——引力定律在观测表明这些现象*quam proxime*成立的时期内，对行星及其卫星*quam proxime*成立——这个问题就无关紧要。这些现象确实足以达到这一弱形式的结论。因此，这一抱怨只有在把引力定律当作精确成立时才有力度。但正是在那里，牛顿确实作出了回应：他在命题 13 与 14 中断定，如果“太阳*处于*静止，且其余行星不相互作用”，行星*本会*在驻定轨道中描出与时间精确成比例的面积。[^note-47] 那么，牛顿在演绎中所依据的那些现象之所以有资格优先于其替代方案，是因为从它们推出的理论在精确成立时，指明了这些现象也会精确成立的情形。情况确实如此，这构成对从现象所作演绎的一项要求：把引力定律当作精确的这一步跳跃，只有在它能给出那些据以推断的现象*本会*精确成立的情形时，才有理由。[^note-48]
+      把牛顿对万有引力的演绎解释为近似推理的练习，也回答了迪昂的又一项抱怨：既然面积规则只高度近似成立，那么它的任意若干替代方案（如布利奥的几何作图）也同样只高度近似成立，因此牛顿的“演绎”回避了为何面积规则应优先于这些替代方案的问题。[^note-46] 然而，只要结论保持在弱形式——引力定律在观测表明这些现象*quam proxime*成立的时期内，对行星及其卫星*quam proxime*成立——这个问题就无关紧要。这些现象确实足以达到这一弱形式的结论。因此，这一抱怨只有在把引力定律当作精确成立时才有力度。但正是在那里，牛顿确实作出了回应：他在命题 13 与 14 中断定，如果“太阳处于静止，且其余行星不相互作用”，行星本会在驻定轨道中描出与时间精确成比例的面积。[^note-47] 那么，牛顿在演绎中所依据的那些现象之所以有资格优先于其替代方案，是因为从它们推出的理论在精确成立时，指明了这些现象也会精确成立的情形。情况确实如此，这构成对从现象所作演绎的一项要求：把引力定律当作精确的这一步跳跃，只有在它能给出那些据以推断的现象本会精确成立的情形时，才有理由。[^note-48]
   - id: 107
     kind: body
     source: |-
@@ -930,9 +930,9 @@ segments:
     source: |-
       Of the other results developed in the group of propositions following the deduction of universal gravity, the most heralded at the time were the defense of Copernicanism in Proposition 12 and the identification of the cause of the tides in Proposition 24 — two topics that Kepler, Galileo, and Descartes had all addressed. Nevertheless, the two Propositions that proved most important were 19 and 20, which respectively derive the non-spheroidal figure of the Earth and the variation of surface gravity with latitude under the assumption that the density of the Earth is uniform. This is the only passage in the *Principia* that Newton reworked extensively in both the second and then again in the third edition. As Newton was fully aware, and Huygens and a few others realized, these are the only results in the *Principia* that depend on *universal* gravity — that is, inverse-square gravity directed toward every particle of matter forming the Earth — and not merely macroscopic *celestial* gravity — inverse-square gravity directed toward celestial bodies. In his *Discourse on the Cause of Gravity*, Huygens offered an alternative theoretical account of the figure of the Earth and the variation of surface gravity, and he claimed to have evidence confirming it and hence refuting Newton's *universal* gravity.[^note-51] In part because evidence on the figure of the Earth and the variation of gravity with latitude were accessible in expeditions to the equator, these were the results in the *Principia* that were the first to receive concerted critical attention during the 1730s and 1740s. There was a complication in all this, however. The extremely precise results for both the figure of the Earth and the variation of gravity that Newton tabulated in the second and third editions were based on uniform density, and hence, just like Keplerian motion, represented an idealization, departures from which would point to non-uniformities of density. Not until Clairaut's *Theory of the Figure of the Earth* did means become available to calculate the effects of non-uniformities in the density.[^note-52]
     step1: |-
-      在万有引力演绎之后那组命题所展出的其他结果中，当时最受称颂的是命题 12 对哥白尼主义的辩护与命题 24 对潮汐原因的辨认——这两个主题开普勒、伽利略与笛卡尔都曾处理过。不过，后来证明最重要的两个命题是命题 19 与命题 20，它们分别在假定地球密度均匀的前提下，导出地球的非球状形状与表面重力随纬度的变化。这是《原理》中牛顿在第二版、随后又在第三版中大幅改写过的唯一段落。正如牛顿完全清楚、惠更斯与少数其他人也认识到的，这些是《原理》中唯一依赖*万有*引力——即指向构成地球的每一粒物质、平方反比的引力——而不仅仅是宏观的*天体*引力（指向天体的平方反比引力）的结果。惠更斯在《论重力之原因》中，对地球形状与表面重力变化提出了另一种理论说明，并声称有证据确认它、从而反驳牛顿的*万有*引力。[^note-51] 部分由于关于地球形状与重力随纬度变化的证据可以通过赤道探险获得，这些结果是《原理》中最先在 1730 与 1740 年代受到集中批判性关注的结果。然而这一切有一个复杂之处。牛顿在第二版与第三版中列出的关于地球形状与重力变化的极其精确的结果，都基于均匀密度，因此正如开普勒运动一样，代表一种理想化，对这种理想化的偏离会指向密度的不均匀。直到克莱罗的《地球形状论》，才有了计算密度不均匀效应的手段。[^note-52]
+      在万有引力演绎之后那组命题所展出的其他结果中，当时最受称颂的是命题 12 对哥白尼主义的辩护与命题 24 对潮汐原因的辨认——这两个主题开普勒、伽利略与笛卡尔都曾处理过。不过，后来证明最重要的两个命题是命题 19 与命题 20，它们分别在假定地球密度均匀的前提下，导出地球的非球状形状与表面重力随纬度的变化。这是《原理》中牛顿在第二版、随后又在第三版中大幅改写过的唯一段落。正如牛顿完全清楚、惠更斯与少数其他人也认识到的，这些是《原理》中唯一依赖 **万有** 引力——即指向构成地球的每一粒物质、平方反比的引力——而不仅仅是宏观的 **天体** 引力（指向天体的平方反比引力）的结果。惠更斯在《论重力之原因》中，对地球形状与表面重力变化提出了另一种理论说明，并声称有证据确认它、从而反驳牛顿的 **万有** 引力。[^note-51] 部分由于关于地球形状与重力随纬度变化的证据可以通过赤道探险获得，这些结果是《原理》中最先在 1730 与 1740 年代受到集中批判性关注的结果。然而这一切有一个复杂之处。牛顿在第二版与第三版中列出的关于地球形状与重力变化的极其精确的结果，都基于均匀密度，因此正如开普勒运动一样，代表一种理想化，对这种理想化的偏离会指向密度的不均匀。直到克莱罗的《地球形状论》，才有了计算密度不均匀效应的手段。[^note-52]
     step2: |-
-      在万有引力演绎之后那组命题所发展的其他结果中，当时最受称颂的是命题 12 对哥白尼主义的辩护与命题 24 对潮汐原因的辨认——这两个主题开普勒、伽利略与笛卡尔都曾处理过。然而，后来证明最重要的两个命题是命题 19 与命题 20，它们分别在假定地球密度均匀的前提下，导出地球的非球状形状与表面重力随纬度的变化。这是《原理》中牛顿在第二版、随后又在第三版中大幅改写过的唯一段落。正如牛顿完全清楚、惠更斯与少数其他人也认识到的，这些是《原理》中唯一依赖*万有*引力——即指向构成地球的每一粒物质、平方反比的引力——而不仅仅是宏观的*天体*引力（指向天体的平方反比引力）的结果。惠更斯在《论重力之原因》中，对地球形状与表面重力变化提出了另一种理论说明，并声称有证据确认它、从而反驳牛顿的*万有*引力。[^note-51] 部分由于关于地球形状与重力随纬度变化的证据可以通过赤道探险获得，这些结果是《原理》中最先在 1730 与 1740 年代受到集中批判性关注的结果。然而这一切有一个复杂之处。牛顿在第二版与第三版中列出的关于地球形状与重力变化的极其精确的结果，都基于均匀密度，因此正如开普勒运动一样，代表一种理想化，对这种理想化的偏离会指向密度的不均匀。直到克莱罗的《地球形状论》，才有了计算密度不均匀效应的手段。[^note-52]
+      在万有引力演绎之后那组命题所发展的其他结果中，当时最受称颂的是命题 12 对哥白尼主义的辩护与命题 24 对潮汐原因的辨认——这两个主题开普勒、伽利略与笛卡尔都曾处理过。然而，后来证明最重要的两个命题是命题 19 与命题 20，它们分别在假定地球密度均匀的前提下，导出地球的非球状形状与表面重力随纬度的变化。这是《原理》中牛顿在第二版、随后又在第三版中大幅改写过的唯一段落。正如牛顿完全清楚、惠更斯与少数其他人也认识到的，这些是《原理》中唯一依赖 **万有** 引力——即指向构成地球的每一粒物质、平方反比的引力——而不仅仅是宏观的 **天体** 引力（指向天体的平方反比引力）的结果。惠更斯在《论重力之原因》中，对地球形状与表面重力变化提出了另一种理论说明，并声称有证据确认它、从而反驳牛顿的 **万有** 引力。[^note-51] 部分由于关于地球形状与重力随纬度变化的证据可以通过赤道探险获得，这些结果是《原理》中最先在 1730 与 1740 年代受到集中批判性关注的结果。然而这一切有一个复杂之处。牛顿在第二版与第三版中列出的关于地球形状与重力变化的极其精确的结果，都基于均匀密度，因此正如开普勒运动一样，代表一种理想化，对这种理想化的偏离会指向密度的不均匀。直到克莱罗的《地球形状论》，才有了计算密度不均匀效应的手段。[^note-52]
   - id: 110
     kind: body
     source: |-
@@ -1288,7 +1288,7 @@ segments:
     source: |-
       [^note-5]: In the case of an ellipse, the length of the major axis is twice the mean distance from a focus.
     step1: |-
-      [^note-5]: 在椭圆情形中，长轴的长度等于两倍的平均焦点距离。
+      在椭圆情形中，长轴长度是焦点平均距离的两倍。
     step2: |-
       [^note-5]: 在椭圆情形中，长轴的长度等于两倍的平均焦点距离。
   - id: 154
@@ -1304,7 +1304,7 @@ segments:
     source: |-
       [^note-7]: *The Epitome of Copernican Astronomy* of Kepler, the *Dialogue Concerning Two Chief World Systems* of Galileo, and the *Principia* (and, posthumously *Le Monde*) of Descartes. Although Galileo does not expressly identify the Tychonic system as the third chief world system, all of the Fourth Day is directed against it.
     step1: |-
-      [^note-7]: 开普勒的《哥白尼天文学概要》、伽利略的《关于两大世界体系的对话》、以及笛卡尔的《原理》（以及遗著《论世界》）。尽管伽利略没有明确把第谷体系列为第三个主要世界体系，整个第四天都是针对它的。
+      开普勒的《哥白尼天文学概要》、伽利略的《关于两大世界体系的对话》、还有笛卡尔的《原理》（以及遗著《论世界》）。尽管伽利略没有明确把第谷体系列为第三个主要世界体系，整个第四天都是针对它的。
     step2: |-
       [^note-7]: 开普勒的《哥白尼天文学概要》、伽利略的《关于两大世界体系的对话》、以及笛卡尔的《原理》（以及遗著《论世界》）。尽管伽利略没有明确把第谷体系列为第三个主要世界体系，整个第四天都是针对它的。
   - id: 156
@@ -1320,7 +1320,7 @@ segments:
     source: |-
       [^note-9]: Kepler expresses concerns about whether the orbital elements of Jupiter, Saturn, and Mars are stable in the Preface to the *Rudolphime Tables, Johannes Kepler Gesammelte Werke*, vol. x, p. 44, lines 21-25.
     step1: |-
-      [^note-9]: 开普勒在《鲁道夫星表》序言中对木星、土星与火星的轨道要素是否稳定表示担忧，*Johannes Kepler Gesammelte Werke*, vol. x, p. 44, lines 21-25。
+      开普勒在《鲁道夫星表》序言里对木星、土星与火星的轨道要素是否稳定表示担心，*Johannes Kepler Gesammelte Werke*, vol. x, p. 44, lines 21-25。
     step2: |-
       [^note-9]: 开普勒在《鲁道夫星表》序言中对木星、土星与火星的轨道要素是否稳定表示担忧，*Johannes Kepler Gesammelte Werke*, vol. x, p. 44, lines 21-25。
   - id: 158
@@ -1496,7 +1496,7 @@ segments:
     source: |-
       [^note-31]: The spiral is treated in Sections 2, 8, and 9 of Book 1.
     step1: |-
-      [^note-31]: 螺线在第一卷第 2、8、9 节中得到处理。
+      螺线见第一卷第 2、8、9 节。
     step2: |-
       [^note-31]: 螺线在第一卷第 2、8、9 节中得到处理。
   - id: 180
@@ -1512,7 +1512,7 @@ segments:
     source: |-
       [^note-33]: Corollaries 2 and 3 of Proposition 91, which were added to the first edition of Book 1 in the summer of 1686, in proof.
     step1: |-
-      [^note-33]: 命题 91 的推论 2 与推论 3；它们于 1686 年夏在第一卷第一版校样中加入。
+      命题 91 的推论 2 与推论 3，于 1686 年夏补入第一卷第一版校样。
     step2: |-
       [^note-33]: 命题 91 的推论 2 与推论 3；它们于 1686 年夏在第一卷第一版校样中加入。
   - id: 182
@@ -1544,7 +1544,7 @@ segments:
     source: |-
       [^note-37]: Book 1, Proposition 4, Corollary 7, which was added in the second edition.
     step1: |-
-      [^note-37]: 第一卷第 4 命题推论 7，第二版中加入。
+      第一卷第 4 命题推论 7，系第二版补入。
     step2: |-
       [^note-37]: 第一卷第 4 命题推论 7，第二版中加入。
   - id: 186
@@ -1639,67 +1639,93 @@ segments:
     kind: note
     source: |-
       [^note-49]: In the first edition Newton gave no value for the perturbing action of the Sun in Proposition 3, instead only claiming that this action accounts for the 4/243 fraction. For more information on his use of twice the correct value and the historical reaction to it, see Section 8.16 of “A Guide to Newton's *Principia*” in the Cohen-Whitman translation of the *Principia*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-49]: 第一版中，牛顿在命题 3 里没有给出太阳摄动作用的数值，而只是声称这一作用解释了 4/243 这一分数。关于他使用两倍于正确值的做法以及历史上的反应，更多信息见科恩—惠特曼译《原理》中“A Guide to Newton's *Principia*”第 8.16 节。
+    step2: |-
+      [^note-49]: 在第一版中，牛顿在命题 3 中没有给出太阳摄动作用的数值，而只是声称这一作用解释了 4/243 这一分数。关于他使用两倍于正确值的做法以及历史上的反应，更多信息见科恩—惠特曼译《原理》中“A Guide to Newton's *Principia*”第 8.16 节。
   - id: 198
     kind: note
     source: |-
       [^note-50]: For details, see Stein 1990.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      详细讨论见 Stein 1990。
+    step2: |-
+      [^note-50]: 详见 Stein 1990。
   - id: 199
     kind: note
     source: |-
       [^note-51]: See Eric Schliesser and George E. Smith, “Huygens's 1688 Report to the Directors of the Dutch East India Company on the Measurement of Longitude at Sea and the Evidence it Offered Against Universal Gravity”, *Archive for History of Exact Sciences*, forthcoming.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-51]: 参见 Eric Schliesser 与 George E. Smith，“Huygens's 1688 Report to the Directors of the Dutch East India Company on the Measurement of Longitude at Sea and the Evidence it Offered Against Universal Gravity”，*Archive for History of Exact Sciences*，即出。
+    step2: |-
+      [^note-51]: 见 Eric Schliesser 与 George E. Smith，“Huygens's 1688 Report to the Directors of the Dutch East India Company on the Measurement of Longitude at Sea and the Evidence it Offered Against Universal Gravity”，*Archive for History of Exact Sciences*，即出。
   - id: 200
     kind: note
     source: |-
       [^note-52]: Save for his failure to credit his rival Clairaut properly, Jean d'Alembert's long article on the figure of the Earth in the *Encyclopédie* of the 1750s provides a highly informative account of the history of this issue in relation to Newton's theory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-52]: 除了没有恰当归功于其对手克莱罗之外，让·达朗贝尔在 1750 年代《百科全书》中关于地球形状的长文，对这一问题的历史及其与牛顿理论的关系提供了信息极为丰富的叙述。
+    step2: |-
+      [^note-52]: 除了未能恰当归功于其对手克莱罗之外，让·达朗贝尔在 1750 年代《百科全书》中关于地球形状的长文，对这一问题的历史及其与牛顿理论的关系提供了信息极为丰富的叙述。
   - id: 201
     kind: note
     source: |-
       [^note-53]: Newton's *Theory of the Moon's Motion*, published 1702 as part of David Gregory's *Astronomiae Physicae & Geometricae Elementa*, employed an epicycle-like device that Jeremiah Horrocks had devised for representing the precession of the lunar apogee and the inequality known as the “evection.” In this regard, it was not derived from the theory of gravity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-53]: 牛顿的《月球运动理论》1702 年作为 David Gregory 的 *Astronomiae Physicae & Geometricae Elementa* 的一部分出版，其中采用了一种类似本轮的装置，那是杰里迈亚·霍罗克斯为表示月球远地点进动与称为“出差”的不等项而设计的。在这方面，它并非从引力理论导出。
+    step2: |-
+      [^note-53]: 牛顿的《月球运动理论》于 1702 年作为 David Gregory 的 *Astronomiae Physicae & Geometricae Elementa* 的一部分出版，其中采用了一种类似本轮的装置，那是杰里迈亚·霍罗克斯为表示月球远地点进动与称为“出差”的不等项而设计的。在这方面，它并非从引力理论导出。
   - id: 202
     kind: note
     source: |-
       [^note-54]: Computers now allow the orbital motions to be computed by means of numerical integration of the equations of motion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如今，计算机已能通过对运动方程作数值积分来计算轨道运动。
+    step2: |-
+      [^note-54]: 如今计算机使轨道运动可以借运动方程的数值积分来计算。
   - id: 203
     kind: note
     source: |-
       [^note-55]: As Halley observed, if the comet that now bears his name had appeared at regular intervals in the past, these intervals were not precisely 75 years long, but varied from roughly 73 to 77 years. Clairaut provided an explanation for this when he included the gravitational effects of Jupiter and Saturn in his successful calculation of the return of this comet in 1759. The question then arose, however, whether the nearly one-month discrepancy in Clairaut's calculation might not be evidence of some small resistance acting on the comet. Euler subsequently suggested that the unexplained secular motion of the Moon might also be from fluid resistance. So, as historically compelling as Newton's argument was against resisting fluid in space, it did not end all discussion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-55]: 正如哈雷所注意到的那样，如果现在以他命名的彗星过去以固定间隔出现，这些间隔并非恰好 75 年，而是在大约 73 到 77 年之间变化。克莱罗在 1759 年成功计算这颗彗星回归时，把木星与土星的引力效应包括进去，从而对此给出了解释。然而随后产生的问题是：克莱罗计算中将近一个月的差异，是否可能是某种作用于彗星的小阻力存在的证据。欧拉后来提出，月球那无法解释的长期运动也可能来自流体阻力。因此，尽管牛顿反对太空中存在阻性流体的论证在历史上极具说服力，它并未结束一切讨论。
+    step2: |-
+      [^note-55]: 正如哈雷所观察到的那样，如果现在以他命名的彗星过去以固定间隔出现，这些间隔并非恰好 75 年，而是在大约 73 到 77 年之间变化。克莱罗在 1759 年成功计算这颗彗星回归时，把木星与土星的引力效应包括进去，从而对此给出了解释。然而随后出现的问题是：克莱罗计算中将近一个月的差异，是否可能是某种作用于彗星的小阻力存在的证据。欧拉后来提出，月球那无法解释的长期运动也可能来自流体阻力。因此，尽管牛顿反对太空中存在阻性流体的论证在历史上极具说服力，它并未结束一切讨论。
   - id: 204
     kind: note
     source: |-
       [^note-56]: Newton to Bentley, 25 February 1692/3, in [**C**, III, 254].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-56]: 牛顿致本特利信，1692/3 年 2 月 25 日，见 [**C**, III, 254]。
+    step2: |-
+      [^note-56]: 牛顿致本特利，1692/3 年 2 月 25 日，见 [**C**, III, 254]。
   - id: 205
     kind: note
     source: |-
       [^note-57]: For a discussion of the methodology that instead takes the Scholium at the end of Section 11 as the starting point, see George E. Smith, “The Methodology of the *Principia*,” in Cohen and Smith 2002.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-57]: 关于改以第十一节末尾附释为起点的另一种方法论讨论，见 George E. Smith，“The Methodology of the *Principia*”，载 Cohen and Smith 2002。
+    step2: |-
+      [^note-57]: 关于以第十一节末尾附释为起点的另一种方法论讨论，见 George E. Smith，“The Methodology of the *Principia*”，载 Cohen and Smith 2002。
   - id: 206
     kind: note
     source: |-
       [^note-58]: Huygens offered an exceptionally lucid statement of this method in the preface to his *Treatise on Light* of 1690, which was immediately followed within the same covers by his *Discourse on the Cause of Gravity* [**HD**] containing his response to Newton's *Principia*:
 
       > One finds in this subject a kind of demonstration which does not carry with it so high a degree of certainty as that employed in geometry; and which differs distinctly from the method employed by geometers in that they prove their propositions by well-established and incontrovertible principles, while here principles are tested by the inferences which are derivable from them. The nature of the subject permits of no other treatment. It is possible, however, in this way to establish a probability which is little short of certainty. This is the case when the consequences of the assumed principles are in perfect accord with the observed phenomena, and especially when these verifications are numerous; but above all when one employs the hypothesis to predict new phenomena and finds his expectations realized.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-58]: 惠更斯在 1690 年《光论》序言中异常清晰地陈述了这一方法；同一卷紧接着就是他的《论重力之原因》[**HD**]，其中包含他对牛顿《原理》的回应：
+      >
+      > 在这一主题中，人们发现一种论证，它并不带有几何学中所用的那样高的确定性；它与几何学家所用方法的明显不同在于：他们用确立无疑的原理来证明自己的命题，而在这里，原理要由从它们可推出的推论来检验。主题的性质不允许作别的处理。然而，用这种方式有可能确立一种几乎不亚于确定性的概然性。当假定原理的后果与观察到的现象完全一致，尤其当这类验证为数众多时，情况就是如此；而最重要的是，当人们用假设去预言新现象、并发现预期实现时。
+    step2: |-
+      [^note-58]: 惠更斯在 1690 年《光论》序言中对这一方法作了异常清晰的陈述；同一卷紧接着就是他的《论重力之原因》[**HD**]，其中包含他对牛顿《原理》的回应：
+      >
+      > 在这个主题中，人们发现一种证明，它并不带有几何学中所用的那样高的确定性；它与几何学家所用方法的明显不同在于：他们用确立无疑的原理来证明自己的命题，而在这里，原理要由从它们可推出的推论来检验。主题的性质不允许作别的处理。然而，用这种方式有可能确立一种几乎不亚于确定性的概然性。当假定原理的后果与观察到的现象完全一致，尤其当这类验证为数众多时，情况就是如此；而最重要的是，当人们用假设去预言新现象、并发现预期实现时。
   - id: 207
     kind: note
     source: |-
       [^note-59]: For details of how this accommodation came about, see Koffi Maglo, “The Reception of Newton's Gravitational Theory by Huygens, Varignon, and Maupertuis: How Normal Science may be Revolutionary,” *Perspectives on Science* vol. 11, 2003, pp. 135-169.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-59]: 关于这一妥协如何达成的细节，见 Koffi Maglo，“The Reception of Newton's Gravitational Theory by Huygens, Varignon, and Maupertuis: How Normal Science may be Revolutionary,” *Perspectives on Science* vol. 11, 2003, pp. 135-169。
+    step2: |-
+      [^note-59]: 关于这一妥协如何形成的细节，见 Koffi Maglo，“The Reception of Newton's Gravitational Theory by Huygens, Varignon, and Maupertuis: How Normal Science may be Revolutionary,” *Perspectives on Science* vol. 11, 2003, pp. 135-169。

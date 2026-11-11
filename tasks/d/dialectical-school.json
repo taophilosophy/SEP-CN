@@ -2,7 +2,7 @@
   "slug": "dialectical-school",
   "kind": "retranslate",
   "zh_doc": "d/dialectical-school.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "D-main-20261107",
       "at": "2026-11-06T23:16:18Z",
       "evidence": "登记与门禁：术语册 15 行（辩证学派/主论证/收割者论证/实质蕴涵/严格蕴涵/二值原则/条件句/师承/宗派/后随关系/麦加拉学派等）+ 人名册 26 行（狄奥多罗斯·克罗诺斯/欧布里德/菲洛/克吕西波/塞诺沿用等；Megaric School 与 Sedley 两行与并行会话行合并去重）；check_terms 硬错误 0；check_all 七项全绿"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "D-main-20261111",
+      "at": "2026-11-11T08:40:59Z",
+      "evidence": "独立复核一（全文逐段回读 346 行 vs 源 409 行）：**发现结构性缺件**——源文「四个基本要素」列表仅译出第 1 项，第 2/3/4 项（麦加拉宗派存在、辩证宗派为同时代人所识别且含狄奥多罗斯与菲洛、辩证宗派属第欧根尼十伦理宗派之一）整段缺失，已补译三行；另修括号缺开一处（Corpina and Øhrstrøm 2018）；对账复跑：标题 ##6/###4 全等、marker 48:48 键序全等、defs 69:69 键集全等、段落 108:110（差 2=byline 省略＋源列表合并块在中文按列表分块，均留痕）；主论证 (1)–(C) 五步重构与模态四要求全在；源文 (II) 括注自身笔误（impossible follows from the impossible）照源直译未改。语体：现代汉语学术书面语，通篇无文言句式与成段仿古（ADR-0033）"
     }
   ],
   "blockers": [],

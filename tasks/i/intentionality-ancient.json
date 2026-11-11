@@ -30,7 +30,7 @@
       "status": "ok",
       "actor": "?",
       "at": "2026-11-07T16:10:53Z",
-      "evidence": "风格核定：check_style --strict 0 issue；纯中文强调按守恒门体例还原为无标记（剥离 CJK 斜体 134 处，拉丁术语斜体 *lekton*/*phantasmata* 等保留）；长句 5 处拆分、被动连用 1 处改写"
+      "evidence": "风格核定：check_style --strict 0 issue；纯中文强调按守恒门体例还原为无标记（剥离 CJK 斜体 134 处，拉丁术语斜体 *lekton*/*phantasmata* 等保留）；长句 5 处拆分、被动连用 1 处改写；语体：现代汉语学术书面语，无文言仿古，破折号使用合规（复核补记 F-main-20261111b）"
     },
     {
       "step": "s3",
@@ -44,7 +44,7 @@
       "status": "ok",
       "actor": "I-main-20261108",
       "at": "2026-11-07T19:50:09Z",
-      "evidence": "独立复审（rules/04 复核独立性：本会话非初译会话 ses-FGHIJK）：对照 yuanwen/i/ 六节逐段核销 45 段，段落数与脚注位置全对齐；文献 20 条逐一核对（Brentano/Burnyeat/Caston 七种/Denyer/Frede 三种/Furth/Johansen/Owen 两种/Perler/Ryle/Sorabji/Spiegelberg/Taieb），––– 破折号缩写与斜体书名照录；引文定位核销：巴门尼德 B1/B2/B3/B6/B8.35-36、Tht. 152c/160a-b/163e/167a/186e/187b-e/188a-c/188d-189b/189c-190e/190a-c/190d/191c-d/194c-d/193c-194b/195c-d/195e-196a/197c-200d/209b、Rep. 476e/478b、Parm. 132b-c、Soph. 236e-237c/240d-241b/241d/261d-262d/262e/263a-d/263c/263d-264b/263e-264a/264e、Symp. 199d、Charm. 167c-168a、Phlb. 38e-39a/40c-e、Crat. 420b-c/429d-430a/430a-431b、Euthd. 283e-284e/286c-d/287e-288a、De Mem. 450a25/449b31/452b9-11、De An. II 12 424a17-24/III 2 425b23-24,426a2-11/III 3 427a9-b6,428a24-b9,428b10-429a8/III 4 429a15-19/III 6/III 7 431a16-17/III 8 431b26-29,432a8-10,432a12-14、Metaph. VI 4/IX 10/XII 9 1074b34-36、Int. 1 16a3-9、EN IX 9 1170a29-b1、DL VII 46/50/53/61/63/66-68/157、S.E. Adv. math. VII 51/65/246、VIII 11-12/70/71-73/409、IX 211、XI 8-11、Seneca Ep. 58.15、Stob. 1.136.21/1.138.14、Plot. Enn. 6.6.12.13-29、Origen Princ. 3.1.2、Aet. 4.11.1-4/4.12.1-4、Plut. Adv. Col. 1084f-1085a、Cic. Acad. 2.77-78、Clem. Strom. 8.9.3-4、Wittgenstein PI I.133 §462 / II.177 §iii 全在场，无漏译、无增译、无事实错"
+      "evidence": "独立复审（rules/04 复核独立性：本会话非初译会话 ses-FGHIJK）：对照 yuanwen/i/ 六节逐段核销 45 段，段落数与脚注位置全对齐；文献 20 条逐一核对（Brentano/Burnyeat/Caston 七种/Denyer/Frede 三种/Furth/Johansen/Owen 两种/Perler/Ryle/Sorabji/Spiegelberg/Taieb），––– 破折号缩写与斜体书名照录；引文定位核销：巴门尼德 B1/B2/B3/B6/B8.35-36、Tht. 152c/160a-b/163e/167a/186e/187b-e/188a-c/188d-189b/189c-190e/190a-c/190d/191c-d/194c-d/193c-194b/195c-d/195e-196a/197c-200d/209b、Rep. 476e/478b、Parm. 132b-c、Soph. 236e-237c/240d-241b/241d/261d-262d/262e/263a-d/263c/263d-264b/263e-264a/264e、Symp. 199d、Charm. 167c-168a、Phlb. 38e-39a/40c-e、Crat. 420b-c/429d-430a/430a-431b、Euthd. 283e-284e/286c-d/287e-288a、De Mem. 450a25/449b31/452b9-11、De An. II 12 424a17-24/III 2 425b23-24,426a2-11/III 3 427a9-b6,428a24-b9,428b10-429a8/III 4 429a15-19/III 6/III 7 431a16-17/III 8 431b26-29,432a8-10,432a12-14、Metaph. VI 4/IX 10/XII 9 1074b34-36、Int. 1 16a3-9、EN IX 9 1170a29-b1、DL VII 46/50/53/61/63/66-68/157、S.E. Adv. math. VII 51/65/246、VIII 11-12/70/71-73/409、IX 211、XI 8-11、Seneca Ep. 58.15、Stob. 1.136.21/1.138.14、Plot. Enn. 6.6.12.13-29、Origen Princ. 3.1.2、Aet. 4.11.1-4/4.12.1-4、Plut. Adv. Col. 1084f-1085a、Cic. Acad. 2.77-78、Clem. Strom. 8.9.3-4、Wittgenstein PI I.133 §462 / II.177 §iii 全在场，无漏译、无增译、无事实错；语体：现代汉语学术书面语，无文言仿古，破折号使用合规（复核补记 F-main-20261111b）"
     },
     {
       "step": "r2",
@@ -114,7 +114,7 @@
       "status": "ok",
       "actor": "I-main-20261111",
       "at": "2026-11-11T03:41:30Z",
-      "evidence": "独立复审冷置回读：源文 95 行↔译文 139 行逐段核销 45 段；script/i_reconcile.py 五项对账全等（段落/节 10:10、marker 18:18、defs 21:21、年份 96:96）；引文定位逐条核销柏拉图篇目（Tht./Rep./Parm./Soph./Symp./Charm./Phlb./Crat./Euthd.）、亚里士多德（De An./De Mem./Metaph./Int./EN）、斯多亚（DL VII、S.E. VII-VIII-XI、Stob.、Sen. Ep.、Plut.、Aet.、Origen、Cic. Acad.、Clem. Strom.）、柏拉图-维特根斯坦（PI I.133 §462/II.177 §iii）全在场无遗漏；源文自身引证 425b25-426a27 等照源直译。人名形核销与跨条统一：胡塞尔→埃德蒙德·胡塞尔，布伦塔诺→弗朗兹·布伦塔诺（家法形），ren-ming-biao 同人双行合并"
+      "evidence": "独立复审冷置回读：源文 95 行↔译文 139 行逐段核销 45 段；script/i_reconcile.py 五项对账全等（段落/节 10:10、marker 18:18、defs 21:21、年份 96:96）；引文定位逐条核销柏拉图篇目（Tht./Rep./Parm./Soph./Symp./Charm./Phlb./Crat./Euthd.）、亚里士多德（De An./De Mem./Metaph./Int./EN）、斯多亚（DL VII、S.E. VII-VIII-XI、Stob.、Sen. Ep.、Plut.、Aet.、Origen、Cic. Acad.、Clem. Strom.）、柏拉图-维特根斯坦（PI I.133 §462/II.177 §iii）全在场无遗漏；源文自身引证 425b25-426a27 等照源直译。人名形核销与跨条统一：胡塞尔→埃德蒙德·胡塞尔，布伦塔诺→弗朗兹·布伦塔诺（家法形），ren-ming-biao 同人双行合并；语体：现代汉语学术书面语，无文言仿古，破折号使用合规（复核补记 F-main-20261111b）"
     },
     {
       "step": "r2",

@@ -371,14 +371,20 @@ segments:
     kind: body
     source: |-
       If, on the other hand, Jane is an *accidentally* omnipotent agent, both (S1) and (S2) *are* possible, and it *is* possible for some omnipotent agent to bring it about that (S1) obtains at one time, *and* that (S2) obtains at a different time. Thus, there is a second solution to the paradox. In this case, Jane’s being non-omnipotent is a possible state of affairs; thus, we may assume that it *is* possible for Jane to bring it about that she is non-omnipotent. So, Jane can create and move a stone, *s*, of mass, *m*, while omnipotent, and *subsequently* bring it about that she is not omnipotent and powerless to move *s*. As a consequence, Jane can bring about both (S1) and (S2), but only if they obtain at different times.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一方面，若简是 *偶然* 全能的行动者，则 (S1) 与 (S2) *都* 可能，且某个全能行动者 *有可能* 使 (S1) 在某一时刻成立，*并* 使 (S2) 在另一时刻成立。于是，悖论有第二种解法。在此情形下，简非全能是可能事态；因此可假定，简 *有可能* 使自己非全能。于是，简可以在全能时创造并移动一块质量为 *m* 的石头 *s*，*随后* 使自己非全能、无力移动 *s*。结果，简可以造成 (S1) 与 (S2) 两者，但仅当它们在不同时刻成立。
+    step2: |-
+      另一方面，若简是 **偶然** 全能的行动者，则 (S1) 与 (S2) **都** 可能，且某个全能行动者 **有可能** 使 (S1) 在某一时刻成立，**并** 使 (S2) 在另一时刻成立。于是，悖论有了第二种解法。在此情形下，简非全能是可能事态，因此可以假定简 **有可能** 使自己非全能。于是，简可以在全能时创造并移动一块质量为 *m* 的石头 *s*，**随后** 使自己非全能、无力移动 *s*。结果，简可以造成 (S1) 与 (S2) 两者，但仅当它们在不同时刻成立。
+
   - id: 42
     kind: body
     source: |-
       It might now be conjectured that omnipotence can be analyzed simply as the power to bring it about that any *contingent* state of affairs obtains. However, the following list of contingent states of affairs shows that there can be contingent states of affairs that an omnipotent agent is powerless to bring about, and hence that this simple analysis is inadequate:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在或可猜想：全能可简单分析为造成任何 *偶然* 事态成立的力量。然而，下面这份偶然事态清单表明，可能存在全能行动者无力造成的偶然事态，因而这一简单分析并不充分：
+    step2: |-
+      现在或可猜想：全能可以简单分析为造成任何 **偶然** 事态成立的力量。然而，下面这份偶然事态的清单表明，可能存在全能行动者无力造成的偶然事态，可见这一简单分析并不充分：
+
   - id: 43
     kind: body
     source: |-
@@ -388,50 +394,84 @@ segments:
       4. that the Amazon River floods an odd number of times less than four;
       5. that a snowflake falls and no omnipotent agent ever exists; and
       6. that Plato freely decides to write a dialogue.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 一滴雨落下了；
+      2. 一滴雨在 *t* 时落下（*t* 为过去时刻）；
+      3. 巴门尼德第一次讲学；
+      4. 亚马逊河泛滥的次数为小于四的奇数；
+      5. 一片雪花落下，且从未有任何全能行动者存在；
+      6. 柏拉图自由地决定写一篇对话。
+    step2: |-
+      1. 一滴雨落下了；
+      2. 一滴雨在 *t* 时落下（*t* 是过去时刻）；
+      3. 巴门尼德第一次讲学；
+      4. 亚马逊河泛滥的次数是小于四的奇数；
+      5. 一片雪花落下，且从未有任何全能行动者存在；
+      6. 柏拉图自由地决定写一篇对话。
+
   - id: 44
     kind: body
     source: |-
       Note that (a) is a past state of affairs. Presumably, it is not possible for an efficient cause to occur *later* than its effect. However, an agent’s bringing about a state of affairs is a kind of efficient causation. Therefore, it is not possible for an agent to bring about anything that is in the *past*. In other words, it is impossible for *any* agent to have power over what is past. Hence, no agent, not even an omnipotent one, can bring it about that (a) obtains. Likewise, despite the fact that (b) can be brought about *prior* to *t*, the impossibility of an agent’s having power over what is past implies that *after t* even an omnipotent agent cannot bring it about that (b) obtains. In the case of (c), prior to Parmenides’s first lecture, an omnipotent agent can bring about (c). But once Parmenides has lectured, even an omnipotent agent cannot bring it about that (c) obtains. As for (d), prior to the Amazon’s third flooding, an omnipotent agent can bring it about that (d) obtains, while after the Amazon’s third flooding, even an omnipotent agent cannot bring it about that (d) obtains. (e) introduces a special difficulty. Although it is obvious that (e) could *not* be brought about by an omnipotent agent, it can be argued plausibly that it *is* possible for a non-omnipotent agent to bring about (e) by causing a snowflake to fall, *provided that* no omnipotent agent ever exists.[^note-1] But, as we argued earlier, a maximally powerful being need not have the power to bring about every state of affairs that any other being could. Lastly, while if the libertarian theory of free will is correct, an omnipotent agent (who is, of course, *other than Plato*) cannot bring about (f), apparently a non-omnipotent agent, namely, Plato, can bring it about that (f) obtains.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      注意，(a) 是过去事态。大概，动力因不可能 *晚于* 其效果发生。然而，行动者造成事态是一种动力因果。因此，行动者不可能造成任何属于 *过去* 的东西。换言之，*任何* 行动者都不可能对过去之事拥有力量。因此，没有任何行动者，甚至全能行动者，能使 (a) 成立。同样，尽管 (b) 可以在 *t* 之前造成，行动者不可能对过去拥有力量这一点蕴含：在 *t 之后*，甚至全能行动者也不能使 (b) 成立。就 (c) 而言，在巴门尼德首次讲学之前，全能行动者可以造成 (c)；但巴门尼德一旦讲过学，甚至全能行动者也不能使 (c) 成立。至于 (d)，在亚马逊河第三次泛滥之前，全能行动者可以使 (d) 成立；而在第三次泛滥之后，甚至全能行动者也不能使 (d) 成立。(e) 引出一个特殊困难。虽然全能行动者显然 *不能* 造成 (e)，但可以有说服力地论证：一个非全能行动者 *有可能* 通过使一片雪花落下而造成 (e)，*只要* 从未有任何全能行动者存在。[^note-1] 但如我们前文所论，有最大力量的存在者不必有力量造成任何其他存在者所能造成的每一个事态。最后，若自由意志论正确，全能行动者（当然 *不是柏拉图*）不能造成 (f)；但看来一个非全能行动者，即柏拉图，可以使 (f) 成立。
+    step2: |-
+      注意，(a) 是过去事态。大概，动力因不可能 **晚于** 其效果发生；而行动者造成事态正是一种动力因果。因此，行动者不可能造成任何属于 **过去** 的东西。换言之，**任何** 行动者都不可能对过去之事拥有力量。所以，没有任何行动者，甚至全能行动者，能使 (a) 成立。同样，尽管 (b) 可以在 **t** 之前造成，但行动者不可能对过去拥有力量这一点蕴含：在 **t 之后**，甚至全能行动者也不能使 (b) 成立。就 (c) 而言，在巴门尼德首次讲学之前，全能行动者可以造成 (c)；但巴门尼德一旦讲过学，甚至全能行动者也不能使 (c) 成立。至于 (d)，在亚马逊河第三次泛滥之前，全能行动者可以使 (d) 成立；第三次泛滥之后，甚至全能行动者也不能使 (d) 成立。(e) 则引出一个特殊困难：全能行动者显然 **不能** 造成 (e)，但可以有说服力地论证，一个非全能行动者 **有可能** 通过使一片雪花落下而造成 (e)，**只要** 从未有任何全能行动者存在。[^note-1] 然而，如我们前文所论，有最大力量的存在者不必有力量造成任何其他存在者所能造成的每一个事态。最后，若自由意志论正确，全能行动者（当然 **不是柏拉图**）不能造成 (f)；但看来一个非全能行动者，即柏拉图，可以使 (f) 成立。
+
   - id: 45
     kind: body
     source: |-
       Consequently, a satisfactory analysis of omnipotence ought not to require that an omnipotent agent have the power to bring about (a), (b), (c), (d), (e), or (f), if it is assumed, *arguendo*, in the case of (f), that libertarianism is true.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，若在 (f) 的情形中 *为论证起见* 假定自由意志论为真，那么一个令人满意的全能分析就不应要求全能行动者有力量造成 (a)、(b)、(c)、(d)、(e) 或 (f)。
+    step2: |-
+      因此，若在 (f) 的情形中 **为论证起见** 假定自由意志论为真，那么一个令人满意的全能分析就不应要求全能行动者有力量造成 (a)、(b)、(c)、(d)、(e) 或 (f)。
+
   - id: 46
     kind: body
     source: |-
       Because of the wide disparity among contingent states of affairs, (a)–(f), one might despair of finding an analysis of omnipotence that both deals satisfactorily with all of these states of affairs and implies that an omnipotent being has, intuitively speaking, sufficient power. Is such pessimism warranted, or is omnipotence analyzable?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由于偶然事态 (a)–(f) 之间差异悬殊，人们或会对找到一种全能分析感到绝望：这种分析既要恰当处理所有这些事态，又要蕴含全能存在着直觉上有足够的力量。这种悲观有道理吗？全能究竟可否分析？
+    step2: |-
+      由于偶然事态 (a)–(f) 之间差异悬殊，人们或许会绝望于找到这样一种全能分析：它既恰当处理所有这些事态，又蕴含全能存在着直觉上足够的力量。这种悲观有道理吗？全能究竟可否分析？
+
   - id: 47
     kind: body
     source: |-
       There are at least two approaches to analyzing omnipotence that hold out some hope of success. The first utilizes the notion of an *unrestrictedly repeatable state of affairs*, and the second utilizes the notion of *two worlds sharing their histories up to a time*. Although these approaches to analyzing omnipotence differ in important ways, they are in broad agreement on the leading idea that maximal power has logical and temporal limitations, including the limitation that an omnipotent agent cannot bring about, i.e., cause, another agent’s free decision in the libertarian sense. In the following two sections, some recent instances of these approaches are set forth and compared.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      至少有两种分析全能的进路尚有成功希望。第一种利用 *无限制可重复的事态* 这一概念，第二种利用 *两个世界在某一时刻之前历史相同* 这一概念。这两种进路虽在重要方面不同，却在主导观念上大体一致：最大力量有逻辑与时间上的限制，包括这一限制——全能行动者不能造成、即不能引起另一个行动者在自由意志论意义上的自由决定。下面两节将提出并比较这些进路的一些晚近实例。
+    step2: |-
+      至少有两种分析全能的进路尚有成功希望：第一种利用 **无限制可重复的事态** 这一概念，第二种利用 **两个世界在某一时刻之前历史相同** 这一概念。两种进路虽在重要方面不同，却在主导观念上大体一致：最大力量有逻辑与时间上的限制，其中包括——全能行动者不能造成、即不能引起另一个行动者在自由意志论意义上的自由决定。下面两节将提出并比较这些进路的一些晚近实例。
+
   - id: 48
     kind: body
     source: |-
       ## 3. Omnipotence and Unrestricted Repeatability
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 全能与无限制可重复性
+    step2: |-
+      ## 3 全能与无限制可重复性
+
   - id: 49
     kind: body
     source: |-
       One attempt to analyze omnipotence in terms of unrestricted repeatability is the account of Hoffman and Rosenkrantz. According to their approach, by identifying certain features of (a)–(f), we can find a feature that none of them possesses, and in terms of which an analysis of omnipotence can be stated. To begin, unless it is possible for *some* agent to bring about a given state of affairs, an omnipotent agent ought not to be required to be able to bring about that state of affairs. But (a) is not possibly brought about by any agent.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      以无限制可重复性分析全能的一次尝试，是霍夫曼与罗森克兰茨的说明。按其进路，通过辨识 (a)–(f) 的某些特征，我们可以找到一个它们都不具有的特征，并据以陈述一种全能分析。首先，除非 *某个* 行动者有可能造成某一事态，就不应要求全能行动者能够造成该事态。但 (a) 不可能被任何行动者造成。
+    step2: |-
+      以无限制可重复性分析全能的一次尝试，是霍夫曼与罗森克兰茨的说明。按其进路，通过辨识 (a)–(f) 的某些特征，可以找到一个它们都不具有的特征，并据以陈述一种全能分析。首先，除非 **某个** 行动者有可能造成某一事态，就不应要求全能行动者能够造成该事态；而 (a) 不可能被任何行动者造成。
+
   - id: 50
     kind: body
     source: |-
       Next, while (b) and (c) are possibly brought about by some agent, they are not *repeatable*: it is not possible for either one of them to obtain, subsequently fail to obtain, and then obtain again. Note that if, because (a) is not possibly brought about by someone, an omnipotent agent is not required to be able to bring about (a), then for the same reason, that agent is also not required to be able to bring about impossible or necessary states of affairs. Moreover, if, because (b) and (c) are not repeatable, an omnipotent agent is not required to bring about (b) or (c), then for the same reason, that agent is also not required to be able to bring about impossible or necessary states of affairs. These reasons for not requiring an omnipotent agent to have the power to bring about impossible or necessary states of affairs cohere with our earlier independent arguments for these restrictions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其次，(b) 与 (c) 虽可能被某个行动者造成，却不可 *重复*：二者中任何一个都不可能先成立、随后不成立、然后再度成立。注意，若因为 (a) 不可能被某人造成，全能行动者就不被要求能够造成 (a)，那么同理，该行动者也不被要求能够造成不可能或必然的事态。此外，若因为 (b) 与 (c) 不可重复，全能行动者就不被要求造成 (b) 或 (c)，那么同理，该行动者也不被要求能够造成不可能或必然的事态。这些不要求全能行动者有力量造成不可能或必然事态的理由，与我们早先为此类限制给出的独立论证是一致的。
+    step2: |-
+      其次，(b) 与 (c) 虽可能被某个行动者造成，却不可 **重复**：二者中任何一个都不可能先成立、随后不成立、然后再度成立。注意：若因为 (a) 不可能被某人造成，全能行动者就不被要求能够造成 (a)，那么同理，该行动者也不被要求能够造成不可能或必然的事态。此外，若因为 (b) 与 (c) 不可重复，全能行动者就不被要求造成 (b) 或 (c)，那么同理，该行动者也不被要求能够造成不可能或必然的事态。这些不要求全能行动者有力量造成不可能或必然事态的理由，与我们早先为此类限制给出的独立论证若合符节。
+
   - id: 51
     kind: body
     source: |-

@@ -2,7 +2,7 @@
   "slug": "newton-principia",
   "kind": "retranslate",
   "zh_doc": "n/newton-principia.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,13 @@
       "actor": "task_ops",
       "at": "2026-11-11T03:29:38Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "N-main-20261111",
+      "at": "2026-11-11T08:23:36Z",
+      "evidence": "draft 成稿：账本 207 段双版齐（body147+oir1+note59），compose 写回 54705 字符；守恒门 HARD=0（仅斜体→书名号/引文段 SOFT 留痕）"
     }
   ],
   "blockers": [],
