@@ -1077,7 +1077,7 @@
 * [\*几何学 geometry](README.md)
   * [几何学的认识论 epistemology of (Jeremy Gray and José Ferreirós)](e/epistemology-geometry.md)
   * [几何学中的有限主义 finitism in (Jean Paul Van Bendegem)](g/geometry-finitism.md)
-  * [19 世纪几何学 Nineteenth Century Geometry](g/geometry-19th.md)
+  * [19 世纪几何学 Nineteenth Century Geometry (Roberto Torretti)](g/geometry-19th.md)
 * [乔治·艾略特 George Eliot (Clare Carlisle)](g/george-eliot.md)
 * [\*亚历山大·杰拉德——见苏格兰哲学：18 世纪苏格兰哲学 Gerard, Alexander — see Scottish Philosophy: in the 18th Century](s/scottish-18th.md)
 * [\*德国哲学 German Philosophy](README.md)

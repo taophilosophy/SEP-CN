@@ -1693,7 +1693,7 @@ outline: [1, 6]
 * [命题函项 propositional function (Edwin Mares)](p/propositional-function.md)
 * [几何学的认识论 epistemology of (Jeremy Gray and José Ferreirós)](e/epistemology-geometry.md)
 * [几何学中的有限主义 finitism in (Jean Paul Van Bendegem)](g/geometry-finitism.md)
-* [19 世纪几何学 Nineteenth Century Geometry](g/geometry-19th.md)
+* [19 世纪几何学 Nineteenth Century Geometry (Roberto Torretti)](g/geometry-19th.md)
 * [希尔伯特计划 program in the foundations of mathematics (Richard Zach)](h/hilbert-program.md)
 * [不一致数学 inconsistent (Chris Mortensen)](m/mathematics-inconsistent.md)
 * [机会与随机性 versus randomness (Antony Eagle)](c/chance-randomness.md)
