@@ -2,10 +2,193 @@
  "key": "emanation",
  "term": "emanation",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T18:42:52+00:00",
- "status": "error",
- "note": "variant=emanation; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "emanation: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T04:10:26+00:00",
+ "status": "ok",
+ "note": "variant=emanation; 审定公布名词库=48; 海峡两岸名词对照库=20; 其他来源数据库=1; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "射气",
+   "en": "emanation",
+   "code": "05.048",
+   "standard": "放射医学与防护名词",
+   "subject": "放射医学与防护_放射防护_放射防护监测"
+  },
+  {
+   "cn": "射气",
+   "en": "emanation,Em",
+   "code": "06.0319",
+   "standard": "化学名词",
+   "subject": "化学_放射化学_放射性元素化学"
+  },
+  {
+   "cn": "埃曼",
+   "en": "eman",
+   "code": "06.0052",
+   "standard": "化学名词",
+   "subject": "化学_放射化学_一般术语"
+  },
+  {
+   "cn": "射气测量",
+   "en": "emanation survey",
+   "code": "08.0625",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_勘探地球物理学_井筒_放射性勘探"
+  },
+  {
+   "cn": "射气因子",
+   "en": "emanation factor",
+   "code": "05.049",
+   "standard": "放射医学与防护名词",
+   "subject": "放射医学与防护_放射防护_放射防护监测"
+  },
+  {
+   "cn": "射气测量",
+   "en": "emanation survey",
+   "code": null,
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_应用地球物理学"
+  },
+  {
+   "cn": "放射性射气",
+   "en": "radioactive emanation",
+   "code": "12.0170",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_环境安全军事地球物理学_辐射"
+  },
+  {
+   "cn": "放射性热分析",
+   "en": "emanation thermal analysis",
+   "code": "03.2686",
+   "standard": "化学名词",
+   "subject": "化学_分析化学_仪器分析_热分析"
+  },
+  {
+   "cn": "放射热分析",
+   "en": "emanation thermal analysis",
+   "code": "05.102",
+   "standard": "机械工程名词 第三分册",
+   "subject": "机械工程_仪器仪表_分析仪器_热学式分析仪器_热学式分析仪器分析原理"
+  },
+  {
+   "cn": "放射热分析仪",
+   "en": "emanation thermal analysis apparatus",
+   "code": "05.132",
+   "standard": "机械工程名词 第三分册",
+   "subject": "机械工程_仪器仪表_分析仪器_热学式分析仪器_热学式分析仪器仪器和附件"
+  },
+  {
+   "cn": "火山喷发物",
+   "en": "volcanic ejecta; vol-canic emanation",
+   "code": "06.0174",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地热学_火山学"
+  },
+  {
+   "cn": "元气说",
+   "en": "theory of primordial emanative material force",
+   "code": "01.095",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_总论_历史上的重要流派和思想"
+  },
+  {
+   "cn": "射气",
+   "en": "emanation",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "泄密发射",
+   "en": "compromising emanation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "放射热分析",
+   "en": "emanation thermal analysis",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "胺化［作用］",
+   "en": "amination",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "氨基化",
+   "en": "amination",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "夷平作用",
+   "en": "planation",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "夷平作用",
+   "en": "planation",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "氨基化, 胺化",
+   "en": "amination",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "学名订正，修正",
+   "en": "emendation",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "突起",
+   "en": "enation",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "扁化",
+   "en": "fasciation\",\"planation",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "模拟，类比",
+   "en": "simulation\",\"emulation",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "消瘦",
+   "en": "emaciation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "氡射气系数",
+   "en": "radon emanation coefficient",
+   "code": "5.3.5.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测技术_氡及其子体测量"
+  }
+ ],
+ "error": null,
  "raw": null
 }

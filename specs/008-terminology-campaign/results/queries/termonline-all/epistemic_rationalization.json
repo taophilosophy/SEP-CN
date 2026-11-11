@@ -2,10 +2,347 @@
  "key": "epistemic rationalization",
  "term": "epistemic rationalization",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T19:09:54+00:00",
- "status": "error",
- "note": "variant=epistemic rationalization; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "epistemic rationalization: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T04:23:58+00:00",
+ "status": "ok",
+ "note": "variant=epistemic rationalization; 审定公布名词库=426; 海峡两岸名词对照库=71; 其他来源数据库=49; 预公布名词数据库=68; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "认识相对性",
+   "en": "epistemic relativity",
+   "code": "03.013",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学实在论"
+  },
+  {
+   "cn": "认知最佳",
+   "en": "epistemic optimality",
+   "code": "03.648",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_信息哲学"
+  },
+  {
+   "cn": "认识主体",
+   "en": "epistemic subject",
+   "code": "06.013",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_方法与工具"
+  },
+  {
+   "cn": "认识客体",
+   "en": "epistemic object",
+   "code": "06.014",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_方法与工具"
+  },
+  {
+   "cn": "认识工具",
+   "en": "epistemic implement",
+   "code": "06.018",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_方法与工具"
+  },
+  {
+   "cn": "认识论暴力",
+   "en": "epistemic violence",
+   "code": "18.014",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播政治经济研究_方法论_核心理论与议题"
+  },
+  {
+   "cn": "认知逻辑",
+   "en": "epistemic logic",
+   "code": "08.0012",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_人工智能逻辑"
+  },
+  {
+   "cn": "认知的不确定性",
+   "en": "epistemic uncer-tainty",
+   "code": "01.1982",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震和社会"
+  },
+  {
+   "cn": "传染型余震序列模型",
+   "en": "epistemic type aftershock sequence; ETAS",
+   "code": "01.2217",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震和社会"
+  },
+  {
+   "cn": "合理化",
+   "en": "rationalization",
+   "code": "10.078",
+   "standard": "行为医学名词",
+   "subject": "行为医学_应激与应激相关障碍_应激"
+  },
+  {
+   "cn": "合理化",
+   "en": "rationalization",
+   "code": "08.090",
+   "standard": "心理学名词",
+   "subject": "心理学_人格心理学"
+  },
+  {
+   "cn": "配给",
+   "en": "rationing",
+   "code": "09.031",
+   "standard": "经济学名词",
+   "subject": "经济学_公共部门经济学"
+  },
+  {
+   "cn": "合理化,文饰［作用］",
+   "en": "rationalization",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "理性化",
+   "en": "rationalization",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "理性",
+   "en": "ration",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "理性",
+   "en": "rationality",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "有理函数",
+   "en": "rational function",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "振幅比",
+   "en": "amplitude ration",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "有理数",
+   "en": "rational number",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "理性思考",
+   "en": "rational thinking",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "集体合理化",
+   "en": "collective rationalizing",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "理性知识",
+   "en": "rational knowledge",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "合理化",
+   "en": "Rationalization (economics)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "完全理性",
+   "en": "Perfect rationality",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "工具理性",
+   "en": "Instrumental rationality",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "法理型权威",
+   "en": "Rational-legal authority",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "国际工会联合会",
+   "en": "International Trade Union Confederation;Confédération syndicale internationale",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "国际足球联合会",
+   "en": "International Federation of Association Football（英语）；Fédération Internationale de Football Association（法语）",
+   "code": null,
+   "standard": "外语中文译写规范部际联席会议专家委员会",
+   "subject": "其他"
+  },
+  {
+   "cn": "流行性腮腺炎",
+   "en": "epidemic parotitis",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "疫情监测",
+   "en": "epidemic monitoring",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "理念举措_具体措施"
+  },
+  {
+   "cn": "疫情峰值",
+   "en": "epidemic peak",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_百姓生活"
+  },
+  {
+   "cn": "疫情",
+   "en": "epidemic; outbreak",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "医学词汇_其他医学词汇"
+  },
+  {
+   "cn": "出入境防疫",
+   "en": "epidemic prevention at borders",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "理念举措_具体措施"
+  },
+  {
+   "cn": "疫情防控",
+   "en": "epidemic prevention and control ",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "理念举措_具体措施"
+  },
+  {
+   "cn": "理性",
+   "en": "rationality",
+   "code": "01.0172",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "唯理论",
+   "en": "rationalism",
+   "code": "01.0175",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "通用食品",
+   "en": "general rations",
+   "code": "7.5.4",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队营养与食品卫生_军用食品"
+  },
+  {
+   "cn": "价值理性",
+   "en": "value rationality",
+   "code": "3.5.2.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_经济社会学_古典经济社会学"
+  },
+  {
+   "cn": "工具理性",
+   "en": "instrumental rationality",
+   "code": "3.5.2.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_经济社会学_古典经济社会学"
+  },
+  {
+   "cn": "理性资本主义",
+   "en": "rational capitalism",
+   "code": "3.5.2.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_经济社会学_古典经济社会学"
+  },
+  {
+   "cn": "生态理性",
+   "en": "ecological rationality",
+   "code": "3.5.2.21",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_经济社会学_古典经济社会学"
+  },
+  {
+   "cn": "社会理性",
+   "en": "social rationality",
+   "code": "3.5.2.22",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_经济社会学_古典经济社会学"
+  },
+  {
+   "cn": "法律的理性化",
+   "en": "legal rationality",
+   "code": "3.7.4.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_法律社会学_法律的理性化"
+  },
+  {
+   "cn": "合理性规范",
+   "en": "rationality norm",
+   "code": "3.10.4.12",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学科学社会学"
+  },
+  {
+   "cn": "理性认识",
+   "en": "rational cognition",
+   "code": "01.0241",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "交往理性",
+   "en": "communicative rationality",
+   "code": "05.0037",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  }
+ ],
+ "error": null,
  "raw": null
 }

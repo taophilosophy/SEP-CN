@@ -2,10 +2,347 @@
  "key": "entropy",
  "term": "entropy",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T18:57:53+00:00",
- "status": "error",
- "note": "variant=entropy; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "entropy: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T04:17:57+00:00",
+ "status": "ok",
+ "note": "variant=entropy; 审定公布名词库=314; 海峡两岸名词对照库=117; 其他来源数据库=38; 预公布名词数据库=19; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": "6.095",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播总论_传播研究基础"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": "06.0111",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地热学_理论地热学"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": "7.0541",
+   "standard": "动物学名词",
+   "subject": "动物学_动物生态学_生态系统生态学"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": "10.179",
+   "standard": "经济学名词",
+   "subject": "经济学_数量经济学"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": "01.497",
+   "standard": "电力名词",
+   "subject": "电力_总论"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": "04.0138",
+   "standard": "冶金学名词",
+   "subject": "冶金学_冶金物理化学_冶金过程热力学"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": "05.0288",
+   "standard": "物理学名词",
+   "subject": "物理学_热学、统计物理学_热学、热力学"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": "02.0046",
+   "standard": "化工名词(三)化学工程基础",
+   "subject": "化工（三）_化工热力学"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": "01.045",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_概论"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": "04.0085",
+   "standard": "化学名词",
+   "subject": "化学_物理化学_化学热力学"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": "14.0839",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑设备与系统_动力系统与设备部件"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": "01.423",
+   "standard": "地理信息系统名词",
+   "subject": "地理信息系统_基本概念"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "熵",
+   "en": "entropy",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "熵产生",
+   "en": "entropy production\",\"entropy generation",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "熵流",
+   "en": "entropy flux\",\"entropy flow",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "熵编码",
+   "en": "entropy coding\",\"entropy encoding",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "熵通量",
+   "en": "entropy flux",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "耗散",
+   "en": "entropy production",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "信息熵",
+   "en": "information entropy",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "安全熵",
+   "en": "security entropy",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "交叉熵",
+   "en": "Cross entropy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "热力学温标",
+   "en": "Introduction to entropy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "热机",
+   "en": "Introduction to entropy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "热力学第三定律",
+   "en": "Introduction to entropy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "麦克斯韦关系式",
+   "en": "Introduction to entropy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "热质说",
+   "en": "Introduction to entropy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "热效率",
+   "en": "Introduction to entropy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "标准摩尔熵",
+   "en": "standard molar entropy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "热力学过程",
+   "en": "Introduction to entropy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "重新进入",
+   "en": "re-entry",
+   "code": "7.2.2.14.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应"
+  },
+  {
+   "cn": "进入壁垒",
+   "en": "barriers to entry",
+   "code": "5.1.6.5",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务供给"
+  },
+  {
+   "cn": "数据录入系统",
+   "en": "data entry system",
+   "code": "3.7.1.2.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理"
+  },
+  {
+   "cn": "进出境车辆防疫消毒",
+   "en": "disinfection of entry-exit vehicle",
+   "code": "4.7.2.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_口岸消毒"
+  },
+  {
+   "cn": "进出境航空器消毒",
+   "en": "disinfection of entry-exit aircraft",
+   "code": "4.7.2.3",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_口岸消毒"
+  },
+  {
+   "cn": "进出境集装箱消毒",
+   "en": "disinfection of entry-exit container",
+   "code": "4.7.2.4.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_口岸消毒"
+  },
+  {
+   "cn": "进出境货物消毒",
+   "en": "disinfection of entry-exit good",
+   "code": "4.7.2.4.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_口岸消毒"
+  },
+  {
+   "cn": "进出境列车消毒",
+   "en": "disinfection of entry-exit train",
+   "code": "4.7.2.5",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_口岸消毒"
+  },
+  {
+   "cn": "进出境运输工具消毒",
+   "en": "disinfection of entry-exit transport vehicle",
+   "code": "4.7.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_口岸消毒"
+  },
+  {
+   "cn": "进出境陆生动物消毒",
+   "en": "disinfection of entry-exit terrestrial animal",
+   "code": "4.7.3.4",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_口岸消毒"
+  },
+  {
+   "cn": "进出境水生动物消毒",
+   "en": "disinfection of entry-exit aquatic animal",
+   "code": "4.7.3.5",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_口岸消毒"
+  },
+  {
+   "cn": "进出境航空器客舱消毒",
+   "en": "disinfection of cabin of entry-exit aircraft",
+   "code": "4.7.2.3.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_口岸消毒"
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -1,0 +1,40 @@
+{
+ "key": "extraversion",
+ "term": "extraversion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T04:38:59+00:00",
+ "status": "ok",
+ "note": "variant=extraversion; 审定公布名词库=3; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "外向",
+   "en": "extraversion",
+   "code": "02.759",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "NEO人格调查表",
+   "en": "Neuroticism,Extroversion,Openness Personality Inventory,NEO-PI",
+   "code": "08.096",
+   "standard": "心理学名词",
+   "subject": "心理学_人格心理学"
+  },
+  {
+   "cn": "右旋心",
+   "en": "dextroversion of heart",
+   "code": "01.089",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_心血管病学"
+  },
+  {
+   "cn": "外向",
+   "en": "extraversion",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

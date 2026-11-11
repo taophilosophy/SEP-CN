@@ -1,0 +1,33 @@
+{
+ "key": "filioque",
+ "term": "Filioque",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T04:46:29+00:00",
+ "status": "ok",
+ "note": "variant=Filioque; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "角果",
+   "en": "silique",
+   "code": "03.0544",
+   "standard": "植物学名词",
+   "subject": "植物学_植物形态与结构植物学_植物形态学"
+  },
+  {
+   "cn": "长角果",
+   "en": "silique",
+   "code": "03.0545",
+   "standard": "植物学名词",
+   "subject": "植物学_植物形态与结构植物学_植物形态学"
+  },
+  {
+   "cn": "长角果",
+   "en": "silique",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

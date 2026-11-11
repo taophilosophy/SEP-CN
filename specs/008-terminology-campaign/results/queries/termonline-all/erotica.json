@@ -2,10 +2,193 @@
  "key": "erotica",
  "term": "erotica",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T19:20:24+00:00",
- "status": "error",
- "note": "variant=erotica; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "erotica: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T04:23:58+00:00",
+ "status": "ok",
+ "note": "variant=erotica; 审定公布名词库=51; 海峡两岸名词对照库=19; 其他来源数据库=2; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "干燥闭塞性阴茎头炎",
+   "en": "balanitis xerotica obliterans",
+   "code": "08.062",
+   "standard": "男科及性医学名词",
+   "subject": "男科及性医学_阴茎疾病"
+  },
+  {
+   "cn": "干燥闭塞性阴茎头炎",
+   "en": "balanitis xerotica obliterans",
+   "code": "04.120",
+   "standard": "泌尿外科学名词",
+   "subject": "泌尿外科学_泌尿、男性生殖系统感染与炎症"
+  },
+  {
+   "cn": "闭塞性干燥性龟头炎",
+   "en": "balanitis xerotica obliterans",
+   "code": "03.1158",
+   "standard": "医学名词 第七分册",
+   "subject": "医学_皮肤病学"
+  },
+  {
+   "cn": "干燥性湿疹",
+   "en": "xerotic eczema",
+   "code": "03.0403",
+   "standard": "医学名词 第七分册",
+   "subject": "医学_皮肤病学"
+  },
+  {
+   "cn": "坏死性痤疮",
+   "en": "acne necrotica",
+   "code": "03.0772",
+   "standard": "医学名词 第七分册",
+   "subject": "医学_皮肤病学"
+  },
+  {
+   "cn": "糜烂性龟头炎",
+   "en": "balanitis erosiva",
+   "code": "03.1193",
+   "standard": "医学名词 第七分册",
+   "subject": "医学_皮肤病学"
+  },
+  {
+   "cn": "外来植物",
+   "en": "exotic plant",
+   "code": "09.0047",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林植物_风景园林植物类型"
+  },
+  {
+   "cn": "外来物种",
+   "en": "exotic species",
+   "code": "12.0179",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林生态_修复生态学"
+  },
+  {
+   "cn": "乳清酸",
+   "en": "orotic acid",
+   "code": "7.4.3.9.3",
+   "standard": "肝病学名词",
+   "subject": "肝病学_遗传代谢性肝病_氨基酸与有机酸代谢障碍性肝病"
+  },
+  {
+   "cn": "乳清酸",
+   "en": "orotic acid",
+   "code": "10.0368",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_新陈代谢_核酸降解与核苷酸代谢_磷脂代谢"
+  },
+  {
+   "cn": "奇特核",
+   "en": "exotic nucleus",
+   "code": "1.258",
+   "standard": "核科学技术名词",
+   "subject": "核科学技术_核物理_核结构类"
+  },
+  {
+   "cn": "奇异原子",
+   "en": "exotic atom",
+   "code": "2.226",
+   "standard": "核科学技术名词",
+   "subject": "核科学技术_核化学与放射化学_核化学"
+  },
+  {
+   "cn": "听骨",
+   "en": "otica",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "质子溶剂",
+   "en": "protic solvent",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "奇异核",
+   "en": "exotic nucleus",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "奇异原子",
+   "en": "exotic atom",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "质子溶剂",
+   "en": "protic solvent",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "外来货币",
+   "en": "exotic currency",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "外来岩块",
+   "en": "exotic block",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "外来种",
+   "en": "exotic species",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "外来种",
+   "en": "exotic species",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "乳清酸",
+   "en": "orotic acid",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "外来种",
+   "en": "exotic species",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "外来种",
+   "en": "exotic species",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "质子溶剂",
+   "en": "protic solvents",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "乳清酸",
+   "en": "Orotic acid",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -1,0 +1,348 @@
+{
+ "key": "etiology",
+ "term": "etiology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T04:28:28+00:00",
+ "status": "ok",
+ "note": "variant=etiology; 审定公布名词库=371; 海峡两岸名词对照库=174; 其他来源数据库=30; 预公布名词数据库=19; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "病因学",
+   "en": "etiology",
+   "code": "10.055",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医病理及病理生理学"
+  },
+  {
+   "cn": "病因学说",
+   "en": "etiology",
+   "code": "19.099",
+   "standard": "兽医学名词",
+   "subject": "兽医学_中兽医学"
+  },
+  {
+   "cn": "病原学",
+   "en": "etiology ",
+   "code": "7.0273",
+   "standard": "草学名词",
+   "subject": "草学_草原灾害与保护_草地保护"
+  },
+  {
+   "cn": "病因学",
+   "en": "etiology",
+   "code": "01.019",
+   "standard": "病理学名词",
+   "subject": "病理学_总论"
+  },
+  {
+   "cn": "病因",
+   "en": "etiology",
+   "code": "01.017",
+   "standard": "呼吸病学名词",
+   "subject": "呼吸病学_概论"
+  },
+  {
+   "cn": "病因学说",
+   "en": "etiology",
+   "code": "03.415",
+   "standard": "中医药学名词",
+   "subject": "中医药学_中医基础理论_病因"
+  },
+  {
+   "cn": "病因学",
+   "en": "etiology",
+   "code": "10.004",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫病理学"
+  },
+  {
+   "cn": "病因学",
+   "en": "etiology",
+   "code": "03.021",
+   "standard": "医学名词 第三分册",
+   "subject": "医学_病理学"
+  },
+  {
+   "cn": "睡眠疾病病因学",
+   "en": "sleep etiology",
+   "code": "1.012",
+   "standard": "睡眠医学名词",
+   "subject": "睡眠医学_总论"
+  },
+  {
+   "cn": "细菌病因学",
+   "en": "bacterial etiology",
+   "code": "04.153",
+   "standard": "药学名词",
+   "subject": "药学_微生物药学"
+  },
+  {
+   "cn": "病原治疗",
+   "en": "etiologic treatment",
+   "code": "01.0610",
+   "standard": "感染病学名词",
+   "subject": "感染病学_总论_抗感染治疗"
+  },
+  {
+   "cn": "病因型指标",
+   "en": "etiologic criteria",
+   "code": "01.029",
+   "standard": "肠外肠内营养学名词",
+   "subject": "肠外肠内营养学_总论"
+  },
+  {
+   "cn": "病因学",
+   "en": "etiology",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "病因学",
+   "en": "etiology",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "细菌病因学",
+   "en": "bacterial etiology",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "习性学",
+   "en": "ethology",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "行为学",
+   "en": "ethology",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "水汽学",
+   "en": "atmology",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "特殊环境学",
+   "en": "ectology",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "潮汐学",
+   "en": "tidology",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "潮汐学",
+   "en": "tidology",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "词源学",
+   "en": "etymology",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "计量",
+   "en": "metrology",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "生态学",
+   "en": "ecology",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "不明原因肺炎",
+   "en": "pneumonia of unknown etiology/cause",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "医学词汇_疾病_病毒名称"
+  },
+  {
+   "cn": "动物行为学",
+   "en": "Ethology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "计量学",
+   "en": "metrology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "民族学",
+   "en": "Ethnology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "岩石学",
+   "en": "Petrology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "语源学",
+   "en": "etymology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生物群系",
+   "en": "Soil biology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "自然宿主",
+   "en": "disease ecology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "发育生物学",
+   "en": "Developmental biology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生物地球化学",
+   "en": "Systems ecology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "分子生物学",
+   "en": "molecular biology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "合成生物学",
+   "en": "synthetic biology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "病因学归因",
+   "en": "etiology attribution",
+   "code": "3.7.13.4",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食源性疾病负担"
+  },
+  {
+   "cn": "病因假设",
+   "en": "etiological hypothesis",
+   "code": "3.6.19.33",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物中毒卫生学处置"
+  },
+  {
+   "cn": "病因学诊断",
+   "en": "etiological diagnosis",
+   "code": "3.6.21.1",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物中毒卫生学处置"
+  },
+  {
+   "cn": "社会病因学分析",
+   "en": "social etiological analysis",
+   "code": "1.1.9.1",
+   "standard": "社会医学名词",
+   "subject": "社会医学概述"
+  },
+  {
+   "cn": "生态",
+   "en": "ecology",
+   "code": "1.0221",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "社会生态学",
+   "en": "social ecology",
+   "code": "2.1.7.11",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会意识"
+  },
+  {
+   "cn": "组织生态",
+   "en": "organizational ecology",
+   "code": "2.5.9.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_群体和组织_组织结构"
+  },
+  {
+   "cn": "人类生态学",
+   "en": "human ecology",
+   "code": "3.4.4.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_城市社会学_城市理论或流派"
+  },
+  {
+   "cn": "种群生态理论",
+   "en": "population ecology",
+   "code": "3.5.3.21",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_经济社会学_新经济社会学"
+  },
+  {
+   "cn": "深层生态学",
+   "en": "deep ecology",
+   "code": "3.14.2.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_环境社会学_现代环境社会学理论"
+  },
+  {
+   "cn": "浅层生态学",
+   "en": "shallow ecology",
+   "code": "3.14.2.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_环境社会学_现代环境社会学理论"
+  },
+  {
+   "cn": "分子生物学",
+   "en": "molecular biology",
+   "code": "1.5.1.1",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
