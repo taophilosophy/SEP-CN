@@ -1,0 +1,61 @@
+{
+ "key": "romanticism",
+ "term": "romanticism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T18:52:20+00:00",
+ "status": "ok",
+ "note": "variant=romanticism; 审定公布名词库=5; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "浪漫主义",
+   "en": "romanticism",
+   "code": "06.034",
+   "standard": "教育学名词",
+   "subject": "教育学_学前教育"
+  },
+  {
+   "cn": "浪漫主义",
+   "en": "romanticism,romantic classicism",
+   "code": "03.0340",
+   "standard": "建筑学名词",
+   "subject": "建筑学_中外建筑历史_外国19~20世纪建筑"
+  },
+  {
+   "cn": "技术浪漫主义",
+   "en": "technical romanticism",
+   "code": "04.157",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_技术哲学_一般技术哲学"
+  },
+  {
+   "cn": "经济浪漫主义",
+   "en": "economic romanticism",
+   "code": "14.010",
+   "standard": "经济学名词",
+   "subject": "经济学_经济思想史"
+  },
+  {
+   "cn": "语义主义",
+   "en": "semanticism",
+   "code": "01.082",
+   "standard": "语言学名词",
+   "subject": "语言学_理论语言学_理论与方法"
+  },
+  {
+   "cn": "经济浪漫主义",
+   "en": "economic romanticism",
+   "code": "04.0287",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期"
+  },
+  {
+   "cn": "革命现实主义和革命浪漫主义相结合",
+   "en": "combine revolutionary realism with revolutionary romanticism",
+   "code": "03.0463",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

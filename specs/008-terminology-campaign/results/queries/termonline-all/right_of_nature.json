@@ -1,0 +1,348 @@
+{
+ "key": "right of nature",
+ "term": "right of nature",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T18:40:20+00:00",
+ "status": "ok",
+ "note": "variant=right of nature; 审定公布名词库=10000; 海峡两岸名词对照库=8557; 其他来源数据库=2110; 预公布名词数据库=2818; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "天赋人权",
+   "en": "Natural Rights",
+   "code": "03.0456",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_法国"
+  },
+  {
+   "cn": "自然资源产权制度",
+   "en": "systems of nature resource property right",
+   "code": "02.020",
+   "standard": "资源科学技术名词",
+   "subject": "资源科学技术_资源经济学"
+  },
+  {
+   "cn": "野生牧草驯化",
+   "en": "naturalization of natural forage",
+   "code": "10.060",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_常用牧草_草原与牧草综合"
+  },
+  {
+   "cn": "天然自然",
+   "en": "natural nature",
+   "code": "02.002",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_自然哲学_自然概论"
+  },
+  {
+   "cn": "隐私权",
+   "en": "right of privacy",
+   "code": "12.005",
+   "standard": "生殖医学名词",
+   "subject": "生殖医学_生殖伦理"
+  },
+  {
+   "cn": "发表权",
+   "en": "right of publication",
+   "code": "08.02.022",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_著作权_著作权客体"
+  },
+  {
+   "cn": "署名权",
+   "en": "right of authorship",
+   "code": "08.02.023",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_著作权_著作权客体"
+  },
+  {
+   "cn": "修改权",
+   "en": "right of alteration",
+   "code": "08.02.024",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_著作权_著作权客体"
+  },
+  {
+   "cn": "保护作品完整权",
+   "en": "right of integrity ",
+   "code": "08.02.025",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_著作权_著作权客体"
+  },
+  {
+   "cn": "复制权",
+   "en": "right of reproduction",
+   "code": "08.02.027",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_著作权_著作权客体"
+  },
+  {
+   "cn": "发行权",
+   "en": "right of distribution",
+   "code": "08.02.028",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_著作权_著作权客体"
+  },
+  {
+   "cn": "出租权",
+   "en": "right of rental",
+   "code": "08.02.029",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_著作权_著作权客体"
+  },
+  {
+   "cn": "自然保护，自然保育",
+   "en": "conservation of nature\",\"nature conservation",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "自然保育（=自然保护）",
+   "en": "conservation of nature\",\"nature conservation",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "自然保护,自然保育",
+   "en": "conservation of nature\",\"nature conservation",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "专利权",
+   "en": "right of patent",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "路权",
+   "en": "right-of-way",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "保护权",
+   "en": "right of protection",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "保留权",
+   "en": "right of retention",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "捕鱼权",
+   "en": "right of fishery",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "代位求偿权",
+   "en": "right of subrogation",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "非常征用权",
+   "en": "right of angary",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "公证权",
+   "en": "right of notary",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "航行权",
+   "en": "right of navigation",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "自然权利学说",
+   "en": "theory of natural rights",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "右自然体",
+   "en": "migi-shizentai\",\"right natural posture",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "平等权",
+   "en": "right of equality",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "共享权",
+   "en": "right of sharing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "占有权",
+   "en": "right of possession",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "发球权",
+   "en": "right of service",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "上诉权",
+   "en": "right of appeal",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "航行权",
+   "en": "right of way",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "权利冲突",
+   "en": "conflict of rights",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "权利让渡",
+   "en": "alienation of rights",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "权利泛化",
+   "en": "generalization of rights",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "扶正",
+   "en": "right",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "堕胎权",
+   "en": "right of abortion",
+   "code": "3.2.4.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别与家庭"
+  },
+  {
+   "cn": "教育权利",
+   "en": "right of education",
+   "code": "3.12.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_教育社会学"
+  },
+  {
+   "cn": "继承权",
+   "en": "right of inheritance",
+   "code": "04.0014",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_马克思恩格斯时期"
+  },
+  {
+   "cn": "健康权利",
+   "en": "right of health",
+   "code": "8.062999999999999",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_公共卫生与健康伦理"
+  },
+  {
+   "cn": "权利",
+   "en": "rights",
+   "code": "03.0138",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "自然的人化",
+   "en": "humanization of nature",
+   "code": "3.14.1.12",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学环境社会学"
+  },
+  {
+   "cn": "自然哲学",
+   "en": "philosophy of nature",
+   "code": "01.0005",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "自然",
+   "en": "nature",
+   "code": "01.0137",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "自然崇拜",
+   "en": "naturalism",
+   "code": "4.2.3.16",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念"
+  },
+  {
+   "cn": "自然性",
+   "en": "naturality",
+   "code": "01.0138",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "特殊干涉权",
+   "en": "special right of intervention",
+   "code": "4.013999999999999",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医疗人际关系"
+  },
+  {
+   "cn": "隐私保护权",
+   "en": "right of privacy protection",
+   "code": "4.031000000000001",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医疗人际关系"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

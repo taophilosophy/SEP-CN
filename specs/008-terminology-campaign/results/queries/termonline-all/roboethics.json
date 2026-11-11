@@ -1,0 +1,96 @@
+{
+ "key": "roboethics",
+ "term": "roboethics",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T18:52:20+00:00",
+ "status": "ok",
+ "note": "variant=roboethics; 审定公布名词库=7; 海峡两岸名词对照库=1; 其他来源数据库=4; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "机器人学",
+   "en": "robotics",
+   "code": "01.0411",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机构与机器人学_机器人学"
+  },
+  {
+   "cn": "机器人学",
+   "en": "robotics",
+   "code": "19.008",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天机器人"
+  },
+  {
+   "cn": "机器人学",
+   "en": "robotics",
+   "code": "05.157",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_模式识别、智能控制与机器人_机器人"
+  },
+  {
+   "cn": "发育机器人学",
+   "en": "developmental robotics,ontogenetic robotics",
+   "code": "07.196",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_生物控制论_仿生学"
+  },
+  {
+   "cn": "认知机器人学",
+   "en": "cognitive robotics",
+   "code": "07.195",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_生物控制论_仿生学"
+  },
+  {
+   "cn": "进化机器人学",
+   "en": "evolutionary robotics,ER",
+   "code": "07.197",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_生物控制论_仿生学"
+  },
+  {
+   "cn": "仿生机器人学",
+   "en": "biologically inspired robotics",
+   "code": "07.193",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_生物控制论_仿生学"
+  },
+  {
+   "cn": "机器人学",
+   "en": "robotics",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "开放式机器人伦理倡议",
+   "en": "Open Roboethics initiative (ORi)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "机器人学",
+   "en": "robotics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "机器人三原则",
+   "en": "three laws of robotics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《国家机器人计划2.0》（美国）",
+   "en": "National Robotics Initiative 2.0 (USA)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

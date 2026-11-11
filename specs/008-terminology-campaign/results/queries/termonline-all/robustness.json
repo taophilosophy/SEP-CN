@@ -1,0 +1,201 @@
+{
+ "key": "robustness",
+ "term": "robustness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T18:52:20+00:00",
+ "status": "ok",
+ "note": "variant=robustness; 审定公布名词库=29; 海峡两岸名词对照库=14; 其他来源数据库=3; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "稳健性",
+   "en": "robustness",
+   "code": "01.1890",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震反演"
+  },
+  {
+   "cn": "稳健性",
+   "en": "robustness",
+   "code": "02.0300",
+   "standard": "植物学名词",
+   "subject": "植物学_系统与进化植物学"
+  },
+  {
+   "cn": "稳健性",
+   "en": "robustness",
+   "code": "05.0115",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_生产运作管理与工业工程_生产运作管理"
+  },
+  {
+   "cn": "稳健性",
+   "en": "robustness",
+   "code": "05.0115",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_管理信息系统"
+  },
+  {
+   "cn": "耐用性",
+   "en": "robustness",
+   "code": "06.057",
+   "standard": "药学名词",
+   "subject": "药学_药物分析"
+  },
+  {
+   "cn": "强壮性",
+   "en": "robustness",
+   "code": "07.311",
+   "standard": "生态学名词",
+   "subject": "生态学_生态系统生态学"
+  },
+  {
+   "cn": "鲁棒性",
+   "en": "robustness",
+   "code": "05.189",
+   "standard": "化学工程名词",
+   "subject": "化学工程_过程系统工程_过程控制"
+  },
+  {
+   "cn": "稳健性",
+   "en": "robustness",
+   "code": "09.0798",
+   "standard": "数学名词",
+   "subject": "数学_概率论_数理统计_非参数统计"
+  },
+  {
+   "cn": "坚韧性",
+   "en": "robustness",
+   "code": "05.147",
+   "standard": "电子学名词",
+   "subject": "电子学_信息论与信号处理技术"
+  },
+  {
+   "cn": "鲁棒性",
+   "en": "robustness",
+   "code": "02.289",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_控制理论_现代控制论"
+  },
+  {
+   "cn": "稳健回归",
+   "en": "robustness regression",
+   "code": "03.0261",
+   "standard": "化学名词",
+   "subject": "化学_分析化学_化学计量学"
+  },
+  {
+   "cn": "稳健回归",
+   "en": "robustness regression",
+   "code": "09.0695",
+   "standard": "数学名词",
+   "subject": "数学_概率论_数理统计_线性模型"
+  },
+  {
+   "cn": "鲁棒性（=稳健性）",
+   "en": "robustness",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "稳健性，鲁棒性",
+   "en": "robustness",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "鲁棒性",
+   "en": "robustness",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "稳健性",
+   "en": "robustness",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "强壮性",
+   "en": "robustness",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "稳健性，鲁棒性",
+   "en": "robustness",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "稳健回归",
+   "en": "robustness regression",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "抗错强韧性，抗错鲁棒性",
+   "en": "error robustness",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "鲁棒稳定化",
+   "en": "robust stabilization",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "鲁棒稳定性",
+   "en": "robust stabilizability",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "抗差估计",
+   "en": "robust estimation",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "鲁棒辨识",
+   "en": "robust identification",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "鲁棒性",
+   "en": "robustness",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "鲁棒优化",
+   "en": "robust optimization",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "鲁棒控制",
+   "en": "Robust control",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
