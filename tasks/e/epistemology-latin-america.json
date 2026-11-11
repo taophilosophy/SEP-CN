@@ -2,7 +2,7 @@
   "slug": "epistemology-latin-america",
   "kind": "retranslate",
   "zh_doc": "e/epistemology-latin-america.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "E-main-20261110b",
       "at": "2026-11-10T19:51:32Z",
       "evidence": "三校四检：check_style --docs --strict 0 issue；check_math 0 missing/0 unbalanced；check_academic --docs --strict 本文件 0 硬错误（现制 References 保留源节标题 + defs 照录）；check_summary H1 mismatch 0 / alias fragment 0；check_all 9 项中学术门禁报 4 处硬错误皆属他会话文件（heraclitus 语体、dai-zhen/han-dynasty 中国文献），与本条无关"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "E-main-20261111",
+      "at": "2026-11-11T04:27:51Z",
+      "evidence": "r1 段级核销（评审线独立复核，子代理 s3 件）：正文块 64:64（zh 至 References 多出的 2 块＝自建“## 脚注”节与译出的 note-1，源为 Notes 空节+Notes to...）；7 节逐段对应；内联 marker 89:89 多重集全等、defs 137:137 键集全等（含 note-1）；作者-年份引用组（Villoro 1982/1998、Cresto 1996–2018、Comesaña 2005–2016、Hurtado 1996/2000/2003、Alchourrón 1982–1996、Arló-Costa 1990–2012、Fermé、Mendelzon/Katsuno、Wassermann、Bueno、Machuca、Páez 等）与书目逐条在位；相关词条 5 项比对 SUMMARY 定名（形式认识论/拉丁美洲哲学/拉丁美洲哲学：元哲学基础/信念修正的逻辑/拉丁美洲的怀疑论）；实修 1 处：行 39 “两份怀疑论专刊之一”系 journal 误译→“期刊”"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "E-main-20261111",
+      "at": "2026-11-11T04:27:51Z",
+      "evidence": "r2 句级复读：check_prose 0 条（长句/被字句/弱动词/de-chain 全零），叙述散文通读无欧化，实修 0；引文与术语按 ADR-0020 复核无需要"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "E-main-20261111",
+      "at": "2026-11-11T04:27:52Z",
+      "evidence": "r3 终检：check_style --strict 0 issue；check_academic --strict OK；check_math formulas 0/missing 0；marker 89:89、defs 137:137、正文块 64:64；check_summary 本词条无 MISMATCH；check_mulu_s 0 硬错误；直引号/乱码扫描无残留"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "E-main-20261111",
+      "at": "2026-11-11T04:27:52Z",
+      "evidence": "终稿验收：六道全过；r1 实修 journal 误译 1 处、r2 零告警、r3 四检全绿；子代理 s3 件由本会话独立复核满足复核独立性"
     }
   ],
   "blockers": [],
