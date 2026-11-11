@@ -2,7 +2,7 @@
   "slug": "geometry-19th",
   "kind": "retranslate",
   "zh_doc": "g/geometry-19th.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "G-main-20261111",
       "at": "2026-11-11T05:55:40Z",
       "evidence": "s3 四检：style 0、academic 0 硬错（在途豁免 1）、math 0/0 公式配对、terms 0 硬错（正文缺登记译法告警 1 为 Helmholtz 行首现『/h/』路径误配误报，与本词条无关）；补充材料 style 0、academic 0（orphan-ref 已由脚注定义修复）；SUMMARY --headers 0 mismatch、mu-lu-s 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "G-main-20261111",
+      "at": "2026-11-11T07:26:53Z",
+      "evidence": "r1 冷置回读（隔 gramsci 全周期 112 段后）：主文 196 行/22233 字符 + 补充材料 52 行/6641 字符全文回读；尾节序正确（References（引用注释）→学术工具→其他网络资源→相关词条→致谢）、无重复行/控制字符/直引号（ASCII 撇号 8 处均在书目 defs 照录区，体例豁免）；语体：现代汉语学术书面语（非文言），破折号仅用于插入与转折"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "G-main-20261111",
+      "at": "2026-11-11T07:26:53Z",
+      "evidence": "r2 术语人名逐条回核（正文与登记册一致）：罗巴切夫斯基几何 11/射影几何 9/交比 5/直射变换 5/埃尔朗根纲领 3/高斯曲率 4/常曲率 2/测地线 4/李群 10/李代数 2/纤维丛 5/结构群 2/张量场 3/图册 4/坐标卡 14/流形 50/等距变换 5/公理学 3/对偶原理 1/亏量 4/平行角 2/相对相容性 1/约定论 1；正文拉丁人名（Euclid/欧几里得、Lobachevsky、Bolyai、Gauss、Saccheri、Wallis、Klein、Poincaré 庞加莱、Cayley 凯莱、Pasch 帕施、Hilbert 希尔伯特、Frege 弗雷格、Gergonne 热尔岗、Riemann 黎曼、Lie 李、Minkowski 闵可夫斯基、Russell 罗素、Einstein 爱因斯坦）全在册"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "G-main-20261111",
+      "at": "2026-11-11T07:28:53Z",
+      "evidence": "r3 终读：主文 196 行 + 补充 52 行通读，四检复跑 style 0 / academic 0 / math 0-0 / terms 0 硬错 / prose 仅 2 条引文豁免；check_all 本轮红项 8 条 style-attest 均属他会话在途任务（ecological-genetics/edwards/epistemology-latin-america/intentionality-ancient），非本条产物"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "G-main-20261111",
+      "at": "2026-11-11T07:28:53Z",
+      "evidence": "全周期收口：57 段守恒、22233 字符 + 补充材料 6641 字符、四检 0；G 批 done 10→11；补充材料与主文同周期入库"
     }
   ],
   "blockers": [],
