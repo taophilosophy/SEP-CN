@@ -2,7 +2,7 @@
   "slug": "reflective-equilibrium",
   "kind": "retranslate",
   "zh_doc": "r/reflective-equilibrium.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "R-main-20261110",
       "at": "2026-11-10T17:38:03Z",
       "evidence": "学术规范（rules/07）：check_academic --strict OK；check_math formulas 0 missing 0 unbalanced 0；书目 67 条 defs 逐字符照录（键集与源全等，含 doi/编者/丛书）；Academic Tools 四行制；Other Internet Resources 1 条中译括注原名；相关词条 8 条照 SUMMARY 定名（含“元伦理学中的建构主义”）。术语册与人名表登记与主提交同批；check_all 9 项全绿。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-11T02:12:29Z",
+      "evidence": "r1 结构对账（script/r_r1_recon.py）：年份 488:488 多重集全等；节标题 21:21（h2 7、h3 14 全译）；脚注 marker 多重集一致；引文块行数差异系 yuanwen 硬换行所致（13 块 vs 22 行）。语体：现代论说文，无文言腔、无直角引号，破折号限插入语（ADR-0033），术语沿册。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-11T02:12:29Z",
+      "evidence": "r2 术语与人名：册内落地核对 17 项全中（反思平衡 61/广义 17/狭义 4/深思熟虑的判断 9/初始判断 8/信心约束 3/认知约束 3/独立性约束 3/证成装置 5/表征装置 1/重叠共识 1/反理论 4/充足主义 1/公共反思平衡 5/完全反思平衡 1/助产式反思 1）；人名 11 行入表且与括注一致；无同键异译。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-11T02:12:34Z",
+      "evidence": "r3 终读与门禁：抽读 3.1/3.5（含 Scanlon 长引）/2.3，逐句对照无漏译增义；四检复跑全绿（prose 4 条全在引文块，ADR-0020 豁免）；check_all 本词条相关项全绿。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-11T02:12:34Z",
+      "evidence": "G4 收口：双语条目 r/reflective-equilibrium.md 313 行 1.3 万汉字 9 节，账本 109 段守恒；四检全绿；术语 17 条、人名 11 行登记；r1-r3 复审齐备。"
     }
   ],
   "blockers": [],
