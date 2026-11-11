@@ -2,7 +2,7 @@
   "slug": "ontology-is",
   "kind": "retranslate",
   "zh_doc": "o/ontology-is.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -30,7 +30,7 @@
       "status": "ok",
       "actor": "O3-main-20261110",
       "at": "2026-11-10T18:50:34Z",
-      "evidence": "s2 语言优化（check_prose 实修）：首轮告警 19 → 实修 18、二轮 4 → 实修 4，终态 0。分类：weak-verb 7（「进行交流」「予以标准化」「加以定义」「作出承诺×3」「作出概括」「作出解释」→ 改为实义动词或名词化）；de-chain 10（如「哲学本体论因此会声称要指出实在的基本构成、它们所属的范畴，以及彼此之间的关系」→「要辨明：实在由哪些基本构成组成，它们各属什么范畴，彼此又有何关系」）；长句拆分 3（段 30 71 汉字、段 34 87 汉字、段 61 76 汉字）。另 sd 项：段 28 公式与中文混排处保留 LaTeX 原样，未做任何符号改写（守恒门 + token 多重集核验）。"
+      "evidence": "s2 语言优化（check_prose 实修）：首轮告警 19 → 实修 18、二轮 4 → 实修 4，终态 0。分类：weak-verb 7（「进行交流」「予以标准化」「加以定义」「作出承诺×3」「作出概括」「作出解释」→ 改为实义动词或名词化）；de-chain 10（如「哲学本体论因此会声称要指出实在的基本构成、它们所属的范畴，以及彼此之间的关系」→「要辨明：实在由哪些基本构成组成，它们各属什么范畴，彼此又有何关系」）；长句拆分 3（段 30 71 汉字、段 34 87 汉字、段 61 76 汉字）。另 sd 项：段 28 公式与中文混排处保留 LaTeX 原样，未做任何符号改写（守恒门 + token 多重集核验）。〔2026-11-11 O-main-20261111 r1 语体复核补记（原 s2 evidence 未含语体结论，按 ADR-0033 留痕层要求补记；复核人已通读全文）〕语体：现代汉语学术书面语，无文言仿古；破折号仅用于插入、解释与转折，无默认停顿式滥用；直引、典籍引文与参考文献照录段落豁免。"
     },
     {
       "step": "s3",
@@ -38,6 +38,34 @@
       "actor": "O3-main-20261110",
       "at": "2026-11-10T18:50:35Z",
       "evidence": "s3 四检：check_style --docs o/ontology-is.md --strict 0 issue；check_academic --strict 无硬错误（在途豁免 1；版本钉 Jan 3, 2026 / SHA-256 86e4a9e6…）；check_math ontology-is 公式 16 组（38 个定界）缺失 0 失衡 0；check_summary 全库 HARD 0（本条 SUMMARY 行与 H1 全等）；markdownlint-cli2 本文件 0 告警。守恒门复跑 74 段 HARD=0。登记随本提交入库：术语 14 行、人名 4 行、Frege 行改定。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "O-main-20261111",
+      "at": "2026-11-11T05:35:57Z",
+      "evidence": "r1 初审（O-main-20261111 冷置回读）：74 段（body 72 + oir 1 + ack 1）逐段对照 yuanwen/o/ontology-is.md 全文回核；结构五维复算 H2+H3 15:15、脚注 defs 键 85:85 全等、$ 计数 38:38、$$ 6:6、公式 16:16、年份序列一致。问题分级：Critical 0、Major 0、Minor 6，全部实修：① errors of commission/omission 原译「该作而误作/该作而不作」语义颠倒，按源改为「**作为之误**/**不作为之误**」（ontology-is 作者 Pease 的术语对举）；② 「the practical issue ... hinges on whether a theory is not false」原译「归结为理论是否为假」丢了否定，改为「归结为理论是否不假，即是否与用软件应用有效建模世界相容」；③ 「mass expressions」交叉引用原写「质量表达式」非 SUMMARY 定名，改为「物质名词词条」；④ 「a comprehensive collection」原译「宏编」非现代汉语常用词，改为「大型词典」；⑤ 「Many others followed」原译「此后继起者甚众」文言，改为「此后继起的还有很多」；⑥ 顺带核正段 67 的词典喻一处措辞。语体：现代汉语学术书面语，全文通读（直引、书名、文献照录豁免），无文言句式与仿古修辞；破折号均为插入或解释（如石油体例子、公理写入代码的插入语），无默认停顿式滥用。术语对册：本体论承诺、上层本体论、领域本体论、延存论/持续论、种差、分体论、时间部分、物质名词、能力问题、计算形而上学、授知情境均与 yi-zhe-shuo-ming.md 一致；Pease、Gruber、Wilkins、Linnaeus、Frege、Peirce 等人名按册内形或 ADR-0022 保留英文。复核后 check_style --strict 0 issue、check_academic --strict 无硬错误、check_math 16 式 0 缺失 0 失衡、check_prose 0 告警、markdownlint 本文件 0。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "O-main-20261111",
+      "at": "2026-11-11T05:38:23Z",
+      "evidence": "r2 复审（O-main-20261111 逐句回核）：以 yuanwen/o/ontology-is.md 为底稿逐句复核高风险项——① 引注核对 40 余组（Magne 2017/Lu et al. 2019/Pancha 2016、Gruber 1993、Franklin 1986、Subbiondo 1992、Eco 1995、Farquhar 1997、Woods 1975/Lehmann 1992、Buchanan 1985、Duda 1979、Lenat & Guha 1989、Niles & Pease 2001/Pease 2011、Gangemi 2002、Arp 2015/Smith 2004、Bechhofer 2004、Baader 2005/2007、Horrocks 2005、Tsarkov 2004、Shapiro 2001、Lenat 1995、Waldinger 2004、Sutcliffe 1998/2012/2010/2023/2024、Korovin 2008、Kovács 2013、Pease 2010、Mascardi 2007、Tsarkov & Horrocks 2006、Sirin 2007、Fellbaum 1998、Suomela 2005、Bateman 2010、Behr 2023、Qaswar 2022、Zheng 2021、Stevens 2009、Kramer 2017、Kirchner 2019、Fitelson 2007、Wiśniewski 2019、Bezerra 2013、Cohen 1998）与源文逐字对应，无漏引、无错作者；② 公式与量词：unicorn 强弱承诺、indiscernibles 公式、D=(V,E,R) 孤儿节点约束、child-class/parent-class、Organism/Mortal、Man/Organism 六处 LaTeX 与源逐字符一致；③ 事实与年代：Wilkins 1685、Linnaeus 1758、1970s/1980s 专家系统、1990s 中期、2020s 知识图谱回暖，全部照源；④ 书名与专名：《论一种真实字符与哲学语言》《韦氏词典》《牛津英语词典》、SUMO/DOLCE/BFO/OWL/SWRL/KIF/RDF/UML/TPTP/TFA/SNARK/iProver/Vampire/Pellet/FaCT++/Drools 均按学界通名；⑤ 源文笔误照录：Newton1990（缺括注）、Mycin（大小写）、Riazano（书误拼 Riazanov 照录）、Roczniki Filozofizane 等他条不涉；⑥ 逻辑链：承诺最小化—作为/不作为之误—形式语言层级（分类法→图→描述逻辑→一阶→高阶）—推理机与算术—评估度量—LLM 与未来方向，逐节对应无跳步。本轮新发现 0；r1 实修 6 处复核均准确。复跑 check_style/check_academic/check_math/markdownlint 全绿，check_prose 0。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "O-main-20261111",
+      "at": "2026-11-11T05:40:36Z",
+      "evidence": "r3 终审（O-main-20261111）：终稿验收——① 账本守恒门 74 段 OK（SOFT 2：段 65/68 机械段，人工确认）；② 四检：check_style --strict 0 issue、check_academic --strict 无硬错误、check_math 16 公式 0 缺失 0 失衡、check_prose 0 告警；③ markdownlint-cli2 本文件 0 告警；④ H1「本体论与信息系统 Ontology and Information Systems (Adam Pease)」与 SUMMARY 1944 行全等；⑤ 尾节齐备且序正确（85 脚注定义 / References（引用注释）/ 学术工具四行 / 其他网络资源 4 项 / 相关词条 3 项 / 致谢），无 TBD、无悬空脚注、无未闭合译注；⑥ 版本钉 Jan 3, 2026 与 baseline 一致。结论：达到 done 验收判据。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "O-main-20261111",
+      "at": "2026-11-11T05:40:36Z",
+      "evidence": "done 收口（O-main-20261111）：r1 实修 6、r2 新发现 0，Critical/Major 0；四检与 lint 全绿、守恒门 OK、H1=SUMMARY。批次备注见 specs/005-translation-campaign/o-wave-20261111.md §5。"
     }
   ],
   "blockers": [],
