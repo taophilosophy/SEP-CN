@@ -2,8 +2,51 @@
   "slug": "gomez-pereira",
   "kind": "retranslate",
   "zh_doc": "g/gomez-pereira.md",
-  "state": "pending",
-  "steps": [],
+  "state": "r1_reviewed",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-11T22:51:10Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-11T22:54:14Z",
+      "evidence": "账本 tasks/g/gomez-pereira.ledger.yaml 71 段（body 70 + oir 1）双版填毕；lq check HARD=0；compose 写回 29241 字符（后经 prose 实修）；批参数：主会话直译、温度 0.2、batch_segments=all、无子代理；注：4f35c8054 重写任务账本致本任务回 pending，重新走 clear（md 先备份后还原）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-11T22:54:14Z",
+      "evidence": "逐段回核：正文段 64:64、标题 14:14、脚注引用键 48:48（综核差异系源文半角冒号与译文本角冒号所致，逐段键集一致）、defs 50:50 逐行同序、公式 0；术语对齐 1 处（内涵词项→含蓄词项，依登记册 ockham 行）；漏译增译 0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-11T22:57:04Z",
+      "evidence": "check_prose 29 条告警全部实修至 0（de-chain 14、long-sentence 9、passive-bei 2、weak-verb 2、as-one 1；引文内长句亦按中文句法拆分）；语体：现代汉语学术书面语，无文言仿古，破折号仅用于插入"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-11T22:57:05Z",
+      "evidence": "check_style --docs --strict issues=0；check_academic --docs --strict 0 硬错误；check_math gomez-pereira 公式 0 缺失 0；check_terms 硬错误 0（新登人名 12 行、术语 17 行）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-11T23:09:39Z",
+      "evidence": "r1 全文回读（引文块与 AM/NVM 引证编号逐条核）：实修 12 处（一经…作用/作者有理由相信/在人手里受的苦/雄性…精液/或因为…或因为/笛卡尔也许在尼德兰/倍加称许/唯有/是如此直接/人是造物中最复杂的存在/整体缺乏统一性/自然与他时代的理论前提）；语体：现代汉语学术书面语；对账五维一致"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:31:44Z",
   "version_pin": {
