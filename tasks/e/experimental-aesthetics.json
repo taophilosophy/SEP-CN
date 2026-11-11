@@ -2,7 +2,7 @@
   "slug": "experimental-aesthetics",
   "kind": "retranslate",
   "zh_doc": "e/experimental-aesthetics.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "EFG-main-20261108",
       "at": "2026-11-08T18:11:33Z",
       "evidence": "check_academic --strict 无硬错误；check_math 0 缺 0 失衡；pubinfo 2024-10-22 与 version_pin 一致；相关词条 14 项对 SUMMARY 定名逐项核对相符"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "E-main-20261111",
+      "at": "2026-11-11T05:44:51Z",
+      "evidence": "r1 段级核销（评审线独立复核，子代理 s3 件）：正文块 95:95、8 节逐段对应；marker 源 99 / 译 100——多出的 currie-1990 系源文行 150 标记后紧跟冒号（[^currie-1990]:）的源端笔误，译侧按正常标记形书写，功能等价；defs 190:190 键集全等；作者-年份引用组（Fechner/Munro/Dickie/Kamber/Monseré/Winner/Pelowski/Mikalonytė/Kneer/Liao/Meskin/Knobe/Bartel/Dranseika/Puy/Danto/Newman/Hume/Kant/Cova/Zangwill/Andow/Doran/Gendler/Black/Barnes/Kim/Kneer/Stuart 等）与书目逐条在位；相关词条 14 项逐一比对 SUMMARY 定名（美学的概念/审美判断/美学与认知科学/审美证言/艺术的定义/美/情感/实验伦理学/实验哲学/对虚构的情感反应/想象/想象性抗拒/音乐哲学/艺术本体论史）全数相合；实修 1 处：行 69 残句“而类似于…经验判断——后者才谈得上…”补出谓语“而与…经验判断相类”（对照源 unlike...and like... 结构），原句语法不成立"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "E-main-20261111",
+      "at": "2026-11-11T05:44:51Z",
+      "evidence": "r2 句级复读：check_prose 7 条全豁免（ADR-0020）：均为引号内形容词/术语并列触发的 de-chain 误报——“美的”“优雅的”“有斑点的”“暖的”“长的”“那根长的”等是被提及的词项（use-mention），行 161 为问卷三题名（音乐的特征价值/交谈中的相连感/音乐的愉悦性）并列，改写即改动被引词项与题干；叙述散文通读无欧化、无被动堆叠，实修 0"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "E-main-20261111",
+      "at": "2026-11-11T05:44:52Z",
+      "evidence": "r3 终检：check_style --strict 0 issue；check_academic --strict OK；check_math formulas 0/missing 0；defs 190:190、正文块 95:95、marker 99/100（源端冒号笔误已定性）；check_summary 本词条无 MISMATCH；check_mulu_s 0 硬错误；直引号/乱码扫描无残留"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "E-main-20261111",
+      "at": "2026-11-11T05:44:52Z",
+      "evidence": "终稿验收：六道全过；r1 实修残句 1 处、r2 7 条 use-mention 豁免留痕、r3 四检全绿；子代理 s3 件由本会话独立复核满足复核独立性"
     }
   ],
   "blockers": [],
