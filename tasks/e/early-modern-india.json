@@ -2,7 +2,7 @@
   "slug": "early-modern-india",
   "kind": "retranslate",
   "zh_doc": "e/early-modern-india.md",
-  "state": "s1_checked",
+  "state": "s2_checked",
   "steps": [
     {
       "step": "clear",
@@ -66,6 +66,13 @@
       "actor": "E-main-20261111",
       "at": "2026-11-11T09:56:23Z",
       "evidence": "s1 对照源文逐段核销：节 16:16、子节 35:35、正文块 303:303；内联 marker 23:23 多重集全等、defs 58:58 键集全等（撇号 ASCII 归一化）；公式 7:7 逐字符一致（V₁/V₂/V₃ 与宗义相诸式）；作者-年份引用组与书目逐条在位；术语按 yi-zhe-shuo-ming 既有 166 行 early-modern-india 词条统一（句义/大种/和合/圆足/遍充/宗义相/所遮等）；人名按 ren-ming-biao（甘格沙、罗怙那陀、贾迦迪沙、迦达陀罗、阿南跋塔、筏磋衍那、乌底耶多迦罗、优陀耶那、普拉夏斯塔帕达、跋沙罗婆吉那、陈那、法称、龙树等）；相关词条 12 项逐一比对 SUMMARY 定名"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "E-main-20261111",
+      "at": "2026-11-11T12:22:03Z",
+      "evidence": "s2 语言实修：check_prose --strict 57→5（实修约 50 处：长句拆分 6、de-chain 改写 30 余、被字句改“受/呈现”6、弱动词 4、作为直译 1、们 1）；余 5 条留痕豁免（ADR-0020）：行 15 “被定义项”为术语非被动、行 111 “进行下去”为实义动词、行 410 “可名的/可知的”为引文内例词、行 134/554 为整段引文；行文全程现代白话，无文言句式（ADR-0033）"
     }
   ],
   "blockers": [],
