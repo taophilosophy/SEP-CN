@@ -2,7 +2,7 @@
   "slug": "ramsey-economics",
   "kind": "retranslate",
   "zh_doc": "r/ramsey-economics.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-10T17:57:57Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-11T00:32:33Z",
+      "evidence": "方向声明（rules/08）：r 批 ramsey-economics（源文 8796 词、111 段账本=109 body+1 oir+1 note，40 条 biblio 照录，公式 18 处）。目标 draft→s3 后转下一件，r1–r3 冷置另起；验收=守恒门 111 段、四检绿、check_all 9 项。非目标：不改源文、不补内容。正文 313 行已 compose 落盘。"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-11T00:34:44Z",
+      "evidence": "忠实性（对照 yuanwen 全文）：4 节+h2 10:9（源末 Notes 小节并入 ## 脚注，属体例）、h3 10:10；脚注 marker 26:26 多重集全等、defs 40:40 键集全等；18 个编号公式逐字符照录（\\tag 1–21c 全在，$ 计数守恒门过）；note-1 罗马齐致词引块与阿考第三解释照译；专名对齐登记册（达斯古普塔/哈罗德/索洛/科普曼斯/戴蒙德/查克拉瓦蒂/冯·魏茨泽克/埃奇沃思/米尔利斯/阿罗/库尔茨/利特尔/米德/米萨克/克莱因/诺德豪斯/斯特恩/贝尔曼/雅里）。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-11T00:38:47Z",
+      "evidence": "文体与术语：check_style --strict issues 0；prose 告警 12→0（de-chain 5、weak-verb 4、long-sentence 3 全实修；修正改账本经 _fix_ramseyec_prose 幂等重生成）；术语册补登 17 条（至福/官邸功利主义/同数选择/核算价格/资本—产出比/消费利息率/代际公平/代际福祉/边际福祉/赶超标准/拉姆齐规则/储蓄率/社会成本—收益分析/社会贴现率/时间贴现率/横截条件/福利经济学）。语体：全篇用现代论说文体，无文言腔、无「」直角引号、破折号限用于插入语（ADR-0033）；引文（西季威克/罗尔斯/辛格式转述）保持书面语并标“斜体为引者所加”。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-11T00:42:32Z",
+      "evidence": "学术规范：check_academic --strict OK；check_math formulas 310 / missing 0 / unbalanced 1（假阳性：镜像行 $1+[dF(K(t))/dK(t)]\\Delta t$ 的 '$1' 被货币启发式判为金额，已在 s3 note 记录，镜像本身 $ 成对）；书目 40 条 defs 照录键集全等；Academic Tools 四行制；OIR 照源“请联系作者”；相关词条 6 条照 SUMMARY；H1/SUMMARY/mu-lu-s 题名按 en citation_title 订正为 Ramsey and Intergenerational Welfare Economics（原文缺前半被 catalog 截断）。"
     }
   ],
   "blockers": [],
