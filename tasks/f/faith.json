@@ -2,7 +2,7 @@
   "slug": "faith",
   "kind": "retranslate",
   "zh_doc": "f/faith.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "F-main-20261111b",
       "at": "2026-11-11T06:20:14Z",
       "evidence": "逐句回核 §1–§11：论辩走向与转折/推论连接词（however/therefore/thus/arguably）逐一对应源文，无漏段、无增译、无立场反转。客观对账：四位数年份多重集 289:289 全等（零差异）；年-页引注组 56:56 全等；marker 102:102、defs 121:121、段 90:90、节 11:11。关键引文回核（加尔文/康德/休谟/克利福德/笛卡尔/佩内勒姆/洛克/詹姆斯/缪斯肯斯/杜威/坦南特/拜尔/科恩）语义与源文一致；quote-internal prose 13 条按 ADR-0020 豁免。**补齐术语登记 15 行**（doxastic venture 信念冒险、non-doxastic 非信念性、fiducial 信任型、ultimism 终极主义、entitlement 权利、propositional/doxastic faith、arational/counter-rational fideism、practical commitment、evidential ambiguity、action-centred commitment、evidence-transcending、faith、trust——原 s3 声称 21 行但未入 HEAD，本次核实补登），check_terms 硬错误 0。check_style --strict 0；check_academic OK；check_math 0/0。语体结论：现代汉语学术书面语，无文言仿古。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "F-main-20261111b",
+      "at": "2026-11-11T11:13:49Z",
+      "evidence": "冷置终审（r1/r2 后经 frame-problem/fuller-margaret/falaquera 三条独立作业再回读）：通读全文未见 Critical/Major；102 段/121 defs/102 marker 与源文仍全等；check_all 九项全绿（check_academic --strict OK、check_terms 硬错误 0、check_math 0/0、check_style 0 issue）；prose 余 13 条全为直引内部（ADR-0020 豁免留痕）；术语 15 行与补登、人名 13 行均已入册。终稿验收通过。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "F-main-20261111b",
+      "at": "2026-11-11T11:13:49Z",
+      "evidence": "收口：六道（clear/draft/s1/s2/s3/r1/r2/r3）+done 齐备；任务状态 done，正文 f/faith.md 入 HEAD；PROGRESS/campaign 由生成器刷新。"
     }
   ],
   "blockers": [],
