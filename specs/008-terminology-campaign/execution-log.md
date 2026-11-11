@@ -657,6 +657,18 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
     parallelism（档案「排比」/机械「平行度」）、paraphrase（音乐「释义曲」）、microworld（物理「微观世界」）、
     minimax（本条算子名「最小最大算子」，审定「极小化极大」为数学通名）、microbiota（农学/生态「微生物区系」）。
 
+### 九、二轮第九批（offset 1192–1360，19 条，o–p 段补查）
+
+* 审计刷新：一致 844 / 不一致 604 / 查无 3317 / 未查证 4775；新增不一致 19 条，**全部保留现译**：
+  * 下位/全称/词序差异：part-whole relation（审定「整体-部分关系」为反序词）、partial order（「偏序关系模型/完全偏序集」下位）、
+    Peace of Augsburg（审定「奥格斯堡宗教和约」为全称）、perfect number（数学通行「完全数」，审定「完满数」）、
+    pornography（「色情内容/书刊」下位）、portfolio analysis（「技术组合分析」下位）。
+  * 跨学科同名/假阳性：partial support（地理信息系统「局部地址支持」）、participation（社会学「参与」，本条柏拉图「分有」）、
+    physiognomy（植物学「外貌」/医学「容貌」）、Physics（亚里士多德书名≠学科名）、personal projects、phantasia（维基垃圾）、
+    picturesque、pollae myŏnmok（维基垃圾）、positive/negative analogy（测绘「正片」/大气「阳」假阳性）、possible intellect、
+    potentia coactiva、perfection（perfectio / Vollkommenheit 两行，社会学假阳性）。
+
+
 
 
 
