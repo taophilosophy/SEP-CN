@@ -2,7 +2,7 @@
   "slug": "epiphenomenalism",
   "kind": "retranslate",
   "zh_doc": "e/epiphenomenalism.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "E-main-20261112",
       "at": "2026-11-11T19:14:17Z",
       "evidence": "s3 四检全绿：check_style --strict 0；check_academic --strict OK；check_math 123 公式 missing/unbalanced 0；check_summary H1 mismatch 0 / HARD 0；check_mulu_s HARD 0；check_terms 登记册自洽 exit 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "E-main-20261112",
+      "at": "2026-11-11T20:28:01Z",
+      "evidence": "r1 冷读对账：全文 181 行逐段回读，对照 yuanwen 核义理；结构对账沿用 s1 五维（headings 4/9、markers 29:29、defs 101:101、blocks 72:71 byline 豁免、显示公式 2:2 逐字符同、行内 $ 123:123）；无新增实修项"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "E-main-20261112",
+      "at": "2026-11-11T20:34:26Z",
+      "evidence": "r2 术语/人名对账：正文与登记册双向一致——术语 11 行新登（epiphenomenalism 副现象主义/epiphenomenon 副现象/automatism 自动机说/readiness potential 预备电位/mental causation 心灵因果/phenomenal+physical information/难问题/倾向属性/奖赏系统/子集观）、人类 26 行新登；正文 interactionism 按册统一为“交互作用论”（7 处）、term 全文统一“副现象主义”（含 59 处“副现象主义者”）；check_terms 登记册自洽 exit 0，--docs 24 条告警全为人名全名与正文姓氏省称之体例差异（另 2 条 Molyneux 属他会话行），无术语级告警"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "E-main-20261112",
+      "at": "2026-11-11T20:34:27Z",
+      "evidence": "r3 终检：check_all 九项全绿（含术语一致性、直角引号、学术规范、管线单测）；定点 check_style 0、check_academic --strict OK、check_prose 2 条引文豁免、check_math 123 公式 0 缺 0 不平衡；五维对账同 s1（byline 豁免）；并代核他会话 cassirer.json 语体漏填、修 yi-zhe-shuo-ming 行内直角引号（Q 批行，规则强制）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "E-main-20261112",
+      "at": "2026-11-11T20:34:27Z",
+      "evidence": "done：83 段账本（body 81 + oir 1 + note 1）守恒，compose 33144 字符/181 行零信任重译；prose 35→2 引文豁免；术语 11 行、人类 26 行入册；九项门禁全绿"
     }
   ],
   "blockers": [],
