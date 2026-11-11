@@ -2,7 +2,7 @@
   "slug": "newton-principia",
   "kind": "retranslate",
   "zh_doc": "n/newton-principia.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "N-main-20261111",
       "at": "2026-11-11T15:36:51Z",
       "evidence": "s3 体例三校：check_style --strict 0、check_academic --strict 0 硬、check_math 0、check_quotes 0、check_summary 0、check_images 0；check_terms 硬错误 0（General Scholium 同键行由并行会话 e4f77daf0 合并收口）；登记册扩充：术语 43 行（向心力/离心力/惯性/绝对空间/绝对时间/外加力既有/运动量/物质的量/通径/拱点角/交点线/出差/二均差/进动/章动/扁率/地球形状/潮汐/黏着性/黏滞性/逐次逼近/摄动/推理许可证/受理论中介的/归纳概括/假设方法/精密科学/极限情形/恒星时/时差/振动中心/摆线摆/圆锥摆/内摆线摆/抛体运动/表面重力/比重/月球不等项/自由下落/哲学推理法则/附释/总释/加速量）+ 人名 14 行（布利奥/霍罗克斯/斯特里特/温/梅卡托/卡西尼/雷恩/怀特赛德/波尔西奥/布拉德利/雅各布·赫尔曼/贝托洛尼·梅利/科恩/惠特曼），registry_azsort 幂等排布，正文用词与登记册一致"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "N-main-20261112",
+      "at": "2026-11-11T16:54:28Z",
+      "evidence": "r1 冷置回读全文（504 行，2026-11-12 新会话独立性满足）：实修 7 处——note-2 删译文添加之『本书』（源文 Unless otherwise noted, all quotations…无 book）；note-16《试论》与正文统一为《论天体运动的原因》（同书异名）；『平方反向心力/加速度』10 处改『平方反比向心力/加速度』（消『反向』歧义，组词均取登记册已登形）；马林·梅森→马兰·梅森（对齐登记册行）；128 字超长叙述句拆句并去被动（导言第 3 段）；弱动词 2 处实修（进行进一步研究→为进一步研究奠定基础；作出恰当回答→恰当地回答）。源文自身缺陷照录豁免：节标题 ^{[[^note-13]]}、note-26 年份 2986、note-8 孤立右括号、refs 拼写（Andew/Rcihard/Disalle/pp. 31-70..）。prose 154→151（弱动词清零），余 151 条按 s2 凭证 ADR-0020 逐类豁免留痕（引文内部被动/长句、概念性定语 de-chain、忠实转写多层论证）；四检（style/academic/math/quotes）全绿"
     }
   ],
   "blockers": [],
