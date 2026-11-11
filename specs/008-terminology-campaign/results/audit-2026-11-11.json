@@ -6,10 +6,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "查无": 3198,
-  "不一致": 586,
-  "一致": 818,
-  "未查证": 4938
+  "查无": 3317,
+  "不一致": 604,
+  "一致": 844,
+  "未查证": 4775
  },
  "results": [
   {
@@ -71984,9 +71984,9 @@
    "table": "术语",
    "line": 3521,
    "term": "paradigm shift",
-   "trans": "范式转移",
-   "basis": "学界通行（科学哲学与科学史）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "不一致",
+   "trans": "范式转换（亦作“范式转移”）",
+   "basis": "审定名词库（termonline-all·自然辩证法名词，2026-11-11 浏览器通道凭证）；科学哲学与科学史通行",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -72215,9 +72215,11 @@
    "term": "paratva",
    "trans": "远性",
    "basis": "胜论方位属性义译（与 aparatva 近性对举）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72225,9 +72227,11 @@
    "term": "Pareto condition",
    "trans": "帕累托条件",
    "basis": "学界惯例（社会选择理论通行）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72245,9 +72249,11 @@
    "term": "parīkṣā",
    "trans": "考察",
    "basis": "正理方法论义译（examination；三步法之第三步）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72265,9 +72271,54 @@
    "term": "parity",
    "trans": "产次",
    "basis": "学界通行（流行病学与生殖医学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "01.37宇称",
+     "en": "parity",
+     "source": "核科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "宇称",
+     "en": "parity",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "产次",
+     "en": "parity",
+     "source": "医学名词 第一分册"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "奇偶性",
+     "en": "parity",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "奇偶性",
+     "en": "parity",
+     "source": "海峡两岸地理信息系统名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "奇偶[性]",
+     "en": "parity",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "产次",
+     "en": "parity",
+     "source": "妇幼卫生学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72275,9 +72326,11 @@
    "term": "parochialism",
    "trans": "偏狭主义",
    "basis": "学界通行（群内偏好；本词条 3.3 专节）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72285,9 +72338,11 @@
    "term": "pars principans",
    "trans": "统治部分（政府）",
    "basis": "学界通行（马西利乌斯拉丁术语，与 legislator 立法者相对）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72295,9 +72350,54 @@
    "term": "parsimony",
    "trans": "简约法",
    "basis": "学界通行译名（生物学哲学文献）；凭证 2026-11-07",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "简约法",
+     "en": "parsimony",
+     "source": "动物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "简约法",
+     "en": "parsimony",
+     "source": "植物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "简约法",
+     "en": "parsimony",
+     "source": "微生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "简约法",
+     "en": "parsimony",
+     "source": "古生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "简约法",
+     "en": "parsimony",
+     "source": "海峡两岸植物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "简约",
+     "en": "parsimony",
+     "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "简约性",
+     "en": "parsimony",
+     "source": "海峡两岸动物学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72305,9 +72405,18 @@
    "term": "part-whole relation",
    "trans": "部分—整体关系",
    "basis": "分体论通行译法；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "整体-部分关系",
+     "en": "whole-part relation",
+     "source": "图书馆·情报与文献学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72315,9 +72424,11 @@
    "term": "partial coherentism",
    "trans": "局部融贯论",
    "basis": "学界惯例（仅对某类命题成立的融贯论）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72325,9 +72436,24 @@
    "term": "partial correctness",
    "trans": "部分正确性",
    "basis": "程序验证通行译法；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "部分正确性",
+     "en": "partial correctness",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "部分正确性",
+     "en": "partial correctness",
+     "source": "海峡两岸信息科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72335,9 +72461,11 @@
    "term": "partial definition",
    "trans": "部分定义",
    "basis": "学界惯例（塔尔斯基真理论研究通行）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72355,9 +72483,11 @@
    "term": "partial isomorphism",
    "trans": "部分同构",
    "basis": "模型论通行译法；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72365,9 +72495,11 @@
    "term": "partial occasionalism",
    "trans": "部分偶因论",
    "basis": "学界通行（与全局偶因论对举）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72375,9 +72507,36 @@
    "term": "partial order",
    "trans": "偏序",
    "basis": "学界惯例（序理论通行译名）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "偏序关系模型",
+     "en": "partial order relational model",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "完全偏序集",
+     "en": "complete partial order,CPO",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "高阶偏导数",
+     "en": "partial derivative of higher order",
+     "source": "数学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "代数的完全偏序集",
+     "en": "algebraic complete partial order,algebraic CPO",
+     "source": "计算机科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72385,9 +72544,11 @@
    "term": "partial propositional calculus",
    "trans": "部分命题演算",
    "basis": "波兰逻辑学派术语直译；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72395,9 +72556,18 @@
    "term": "partial support",
    "trans": "部分支持",
    "basis": "直译（Lin & Mendelzon 术语）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "局部地址支持",
+     "en": "partial address support",
+     "source": "海峡两岸地理信息系统名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72405,9 +72575,11 @@
    "term": "partial valuation",
    "trans": "部分赋值",
    "basis": "三值语义文献通行译法；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72415,9 +72587,24 @@
    "term": "participation",
    "trans": "分有",
    "basis": "学界通行（柏拉图—经院术语 participatio）；凭证 2026-11-08",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "参与",
+     "en": "participation",
+     "source": "社会学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "员工参与",
+     "en": "participation",
+     "source": "社会学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72437,9 +72624,11 @@
    "term": "particular volition",
    "trans": "个别意志",
    "basis": "学界惯例（同上）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72447,9 +72636,11 @@
    "term": "partinost",
    "trans": "党性",
    "basis": "苏联文艺学界通行译法（俄文 партийность）；凭证 2026-11-06",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72457,9 +72648,11 @@
    "term": "Parts of Animals",
    "trans": "《动物的部分》",
    "basis": "学界通行汉译（亚里士多德著作）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72467,9 +72660,11 @@
    "term": "parva naturalia",
    "trans": "自然短篇",
    "basis": "亚里士多德学通行（亚氏心理学短篇集合）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72477,9 +72672,11 @@
    "term": "paryāpti",
    "trans": "圆足",
    "basis": "新正理数论义译（completion relation；Raghunātha 新关系）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72487,9 +72684,11 @@
    "term": "paryāya",
    "trans": "样态",
    "basis": "耆那教学界通行（与 guṇa 性质、dravya 实体三分）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72519,9 +72718,24 @@
    "term": "passion",
    "trans": "激情（阿奎那 passiones：人与动物共有的感官欲求之感受反应）",
    "basis": "学界惯例（Dixon 著作通行《从激情到情感》）；凭证 2026-11-04",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "激情",
+     "en": "passion",
+     "source": "行为医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "激情",
+     "en": "Passion",
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72529,9 +72743,11 @@
    "term": "passional choices",
    "trans": "情感抉择",
    "basis": "James 术语学界通行（“passional”取情感/激情义）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72539,9 +72755,11 @@
    "term": "passive intellect",
    "trans": "被动理智",
    "basis": "亚里士多德《论灵魂》III.5 与能动理智对项；登记册仅有 possible intellect 可能理智，本条目照源文 passive 直译并分立登记，免与 possible intellect 混形",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72549,9 +72767,11 @@
    "term": "passive nature argument",
    "trans": "被动本性论证",
    "basis": "自译裁定（凭证 2026-11-07）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72608,9 +72828,42 @@
    "term": "pathology",
    "trans": "病理",
    "basis": "学界通行译名；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "病理学",
+     "en": "pathology",
+     "source": "兽医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "病理学",
+     "en": "pathology",
+     "source": "病理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "病理学",
+     "en": "pathology",
+     "source": "海峡两岸昆虫学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "病理",
+     "en": "pathology",
+     "source": "新冠肺炎疫情相关词汇中英对照"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "病理学",
+     "en": "Pathology",
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72618,9 +72871,11 @@
    "term": "pathos",
    "trans": "情致",
    "basis": "学界惯例（美学研究通行译法“情致”）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72628,9 +72883,11 @@
    "term": "patient-derived xenograft",
    "trans": "患者来源异种移植",
    "basis": "学界通行（转化医学，PDX）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72638,9 +72895,11 @@
    "term": "patriarchalism",
    "trans": "家长制主义",
    "basis": "学界通行；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72717,9 +72976,18 @@
    "term": "Peace of Augsburg",
    "trans": "奥格斯堡和约",
    "basis": "学界通行译名（宗教改革研究通行）；凭证 2026-11-07",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "奥格斯堡宗教和约",
+     "en": "Religious Peace of Augsburg",
+     "source": "世界历史名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72727,9 +72995,18 @@
    "term": "Peace of Westphalia",
    "trans": "威斯特伐利亚和约（和会语境作“威斯特伐利亚和会”）",
    "basis": "学界通行译名（近代早期欧洲史通行）；凭证 2026-11-07",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "威斯特伐利亚和约",
+     "en": "Peace of Westphalia",
+     "source": "世界历史名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72749,9 +73026,11 @@
    "term": "pedagogical goals",
    "trans": "教学意图",
    "basis": "学界通行（自然教育学）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72769,9 +73048,11 @@
    "term": "peer disagreement",
    "trans": "同侪分歧",
    "basis": "知识论通行汉译；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72779,9 +73060,11 @@
    "term": "Pelagianism",
    "trans": "佩拉纠主义",
    "basis": "教父学通行（Pelagius 佩拉纠）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72801,9 +73084,11 @@
    "term": "per prius et posterius",
    "trans": "在先与在后意义上（保留拉丁）",
    "basis": "学界惯例（中世纪类比理论标志性表述）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72811,9 +73096,11 @@
    "term": "per se predication",
    "trans": "自身谓述",
    "basis": "中世纪逻辑研究通行译法（per se 通译“自身”）；凭证 2026-11-06",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72821,9 +73108,11 @@
    "term": "peras",
    "trans": "限（peras）",
    "basis": "学界通行（前苏格拉底研究：限/无定对举）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72946,9 +73235,11 @@
    "term": "perdurantism",
    "trans": "持续论",
    "basis": "形而上学通行（与 endurantism 延存论 对举，时间部分说）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72956,9 +73247,11 @@
    "term": "perennial philosophy",
    "trans": "永恒哲学",
    "basis": "学界通行（文艺复兴“永恒哲学”说；斯图科 De perenni philosophia）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72966,9 +73259,11 @@
    "term": "perfect being theology",
    "trans": "完满存在神学",
    "basis": "学界通行译名（perfect being theology）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72976,9 +73271,24 @@
    "term": "perfect cosmological principle",
    "trans": "完美宇宙学原理",
    "basis": "Bondi 术语（与 cosmological principle 宇宙学原理配对；稳恒态理论基础）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "完美宇宙学原理",
+     "en": "perfect cosmological principle",
+     "source": "天文学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "完全宇宙学原理",
+     "en": "perfect cosmological principle",
+     "source": "海峡两岸天文学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72986,9 +73296,11 @@
    "term": "perfect goodness",
    "trans": "完美善",
    "basis": "学界通行译名（与 omnipotence/omniscience 并列为三大神圣属性）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -72996,9 +73308,18 @@
    "term": "perfect number",
    "trans": "完全数",
    "basis": "数论通行译名；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "完满数",
+     "en": "perfect number",
+     "source": "数学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73006,9 +73327,18 @@
    "term": "perfection (perfectio)",
    "trans": "完满性",
    "basis": "学界通行（笛卡尔—经院术语 perfectio；本体论论证语境）；与 perfection (Vollkommenheit) 完善 分义（2026-11-09 反向校区分键）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "集体消费理论 collective consumption",
+     "en": null,
+     "source": "社会学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73016,9 +73346,18 @@
    "term": "perfection (Vollkommenheit)",
    "trans": "完善（沃尔夫-鲍姆嘉通语境；与既有行 moral perfection=道德完善、perfectionism=至善论相衔接）",
    "basis": "学界通行汉译（康德译本通行“完善”）；与 perfection (perfectio) 完满性 分义：彼为笛卡尔—经院 perfectio，此为沃尔夫—鲍姆嘉通 Vollkommenheit（2026-11-09 反向校区分键）；凭证 2026-11-05",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "集体消费理论 collective consumption",
+     "en": null,
+     "source": "社会学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73089,9 +73428,11 @@
    "term": "Peripatetics",
    "trans": "逍遥学派",
    "basis": "学界通行（亚里士多德派；形容词作“逍遥派的”）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73099,9 +73440,42 @@
    "term": "permutation",
    "trans": "置换",
    "basis": "集合论通行译名；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "排列",
+     "en": "permutation",
+     "source": "数学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "置换",
+     "en": "permutation",
+     "source": "数学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "前突变",
+     "en": "permutation",
+     "source": "海峡两岸遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "排列",
+     "en": "permutation",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "排列",
+     "en": "Permutation",
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73109,9 +73483,11 @@
    "term": "permutation invariance",
    "trans": "置换不变性",
    "basis": "Tarski 逻辑性判据通行译法；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73119,9 +73495,42 @@
    "term": "perpetual motion",
    "trans": "永动机",
    "basis": "物理学通行译名；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "永动机",
+     "en": "perpetual motion machine",
+     "source": "自然辩证法名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "第一类永动机",
+     "en": "perpetual motion machine of the first kind",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "第二类永动机",
+     "en": "perpetual motion machine of the second kind",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "第一类永动机",
+     "en": "perpetual-motion machine of the first kind",
+     "source": "电力名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "第二类永动机",
+     "en": "perpetual-motion machine of the second kind",
+     "source": "电力名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73129,9 +73538,11 @@
    "term": "perpetual peace",
    "trans": "永久和平",
    "basis": "学界通行（康德《永久和平论》通行译名）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73170,9 +73581,11 @@
    "term": "personal justification",
    "trans": "个人证成",
    "basis": "学界通行汉译（与 doxastic justification 同义用法）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73180,9 +73593,11 @@
    "term": "personal presence",
    "trans": "位格临在",
    "basis": "学界通行（Stump 语）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73190,9 +73605,18 @@
    "term": "personal projects",
    "trans": "个人计划",
    "basis": "学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "个人基因组项目全球网络",
+     "en": "The Global Network of Personal Genome Projects",
+     "source": "大数据百科术语辞典"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73200,9 +73624,11 @@
    "term": "personal relativism",
    "trans": "个人相对主义",
    "basis": "学界通行；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73210,9 +73636,11 @@
    "term": "personal supposition",
    "trans": "人称指代",
    "basis": "学界惯例（suppositio personalis）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73230,9 +73658,11 @@
    "term": "perspectival modelling",
    "trans": "视角建模",
    "basis": "科学哲学通行译名（Larraín 2024）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73260,9 +73690,36 @@
    "term": "perspective taking",
    "trans": "观点采择",
    "basis": "社会心理学通行汉译；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "换位思考",
+     "en": "perspective taking",
+     "source": "心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "观点采择",
+     "en": "perspective taking",
+     "source": "教育学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "观点采择",
+     "en": "perspective taking",
+     "source": "心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "观察资料（=观察数据）观点采择",
+     "en": "perspective taking",
+     "source": "海峡两岸心理学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73270,9 +73727,11 @@
    "term": "pertension",
    "trans": "pertension（保留英文；分体延展备查）",
    "basis": "同上（pertend）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73351,9 +73810,11 @@
    "term": "petites perceptions",
    "trans": "微知觉",
    "basis": "学界惯例（莱布尼茨译本通行）；凭证 2026-11-03",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73361,9 +73822,11 @@
    "term": "petitionary prayer",
    "trans": "祈求式祷告",
    "basis": "SUMMARY 条目定名沿用（petitionary prayer 的学界通行译法）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73371,9 +73834,11 @@
    "term": "petitioner",
    "trans": "祈求者",
    "basis": "构词直译；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73381,9 +73846,11 @@
    "term": "Petőfi Circle",
    "trans": "裴多菲俱乐部",
    "basis": "1956 年匈牙利事件史学界通行译法；凭证 2026-11-06",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73391,9 +73858,11 @@
    "term": "Petrine mandate",
    "trans": "彼得托付",
    "basis": "教会史文献通译；待 008 复核；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73401,9 +73870,11 @@
    "term": "Phaedo",
    "trans": "《斐多篇》",
    "basis": "学界通行汉译（柏拉图对话）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73411,9 +73882,11 @@
    "term": "phantasia",
    "trans": "表象",
    "basis": "斯多葛术语通行译法（与 phantasma“幻象”别）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73421,9 +73894,72 @@
    "term": "phantasia（经院内感官语境）",
    "trans": "想象（能力）",
    "basis": "与斯多葛语境 phantasia＝表象 行分列；学界阿维森纳—托马斯心理学；凭证 2026-11-08",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "感官分析",
+     "en": null,
+     "source": "维基百科"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "流内官",
+     "en": null,
+     "source": "维基百科"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "黄帝内经",
+     "en": null,
+     "source": "维基百科"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "星官",
+     "en": null,
+     "source": "维基百科"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "供奉官",
+     "en": null,
+     "source": "维基百科"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "散官",
+     "en": null,
+     "source": "维基百科"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "中官",
+     "en": null,
+     "source": "维基百科"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "断事官",
+     "en": null,
+     "source": "维基百科"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "郎官",
+     "en": null,
+     "source": "维基百科"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "女官",
+     "en": null,
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73431,9 +73967,11 @@
    "term": "phantasm",
    "trans": "幻象",
    "basis": "承本册 phantasma 幻象；中世纪认识论通行（与 intelligible species 可理解种相对）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73441,9 +73979,11 @@
    "term": "phantasma",
    "trans": "幻象",
    "basis": "斯多葛术语（非存在者之表象；与 phantasia 分）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73451,9 +73991,24 @@
    "term": "phantasy",
    "trans": "幻想",
    "basis": "现象学 Phantasie 通行（与 imagination 想象相区分语境）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "幻想曲",
+     "en": "phantasy",
+     "source": "海峡两岸音乐名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "幻想",
+     "en": "phantasy",
+     "source": "海峡两岸音乐名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73461,9 +74016,78 @@
    "term": "phantom limb",
    "trans": "幻肢",
    "basis": "学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "幻肢",
+     "en": "phantom limb",
+     "source": "医学名词 第六分册"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "幻肢",
+     "en": "phantom limb",
+     "source": "医学名词 第四分册"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "幻肢痛",
+     "en": "phantom limb pain",
+     "source": "神经外科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "幻肢痛",
+     "en": "phantom limb pain",
+     "source": "手外科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "幻肢痛",
+     "en": "phantom limb pain",
+     "source": "神经病学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "幻肢痛",
+     "en": "phantom limb pain",
+     "source": "显微外科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "幻肢痛",
+     "en": "phantom limb pain",
+     "source": "物理医学与康复名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "幻肢痛",
+     "en": "phantom limb pain",
+     "source": "医学名词 第六分册"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "幻肢痛",
+     "en": "phantom limb pain;PLP",
+     "source": "麻醉学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "幻肢",
+     "en": "phantom limb",
+     "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "幻肢",
+     "en": "phantom limb",
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73471,9 +74095,11 @@
    "term": "phase semantics",
    "trans": "相语义",
    "basis": "Girard 术语通行译法（phase semantics）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73560,9 +74186,11 @@
    "term": "phenomenal concept",
    "trans": "现象概念",
    "basis": "学界惯例（现象概念策略文献通行）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73570,9 +74198,18 @@
    "term": "phenomenal consciousness",
    "trans": "现象意识",
    "basis": "学界惯例（意识研究通行）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "现象意识",
+     "en": "phenomenal consciousness",
+     "source": "自然辩证法名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73580,9 +74217,11 @@
    "term": "Phenomenal Conservatism",
    "trans": "现象保守主义",
    "basis": "学界通行（Huemer 2006 起；亦作“现象保守论”）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73590,9 +74229,42 @@
    "term": "phenomenology",
    "trans": "现象学",
    "basis": "学界惯例（现象学通行）；审定库无相关命中（凭证 2026-11-01）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "唯象学",
+     "en": "phenomenology",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "现象学",
+     "en": "phenomenology",
+     "source": "心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "现象学",
+     "en": "phenomenology",
+     "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "现象学",
+     "en": "phenomenology",
+     "source": "海峡两岸地理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "唯象理论",
+     "en": "phenomenology",
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73600,9 +74272,11 @@
    "term": "phenomenology of mind",
    "trans": "精神现象学（黑格尔）",
    "basis": "权威译本通行译法（黑格尔《精神现象学》）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73620,9 +74294,36 @@
    "term": "philology",
    "trans": "语文学",
    "basis": "学界通行译名；凭证 2026-11-08",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "文献学",
+     "en": "philology",
+     "source": "管理科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "小学",
+     "en": "philology",
+     "source": "语言学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "语文学",
+     "en": "philology",
+     "source": "语言学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "语文学",
+     "en": "philology",
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73630,9 +74331,11 @@
    "term": "philonikia",
    "trans": "好胜（philonikia，φιλονικία）",
    "basis": "学界惯例（“爱胜”/“好胜”通行，取好胜）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73640,9 +74343,11 @@
    "term": "philosophia perennis",
    "trans": "常青哲学",
    "basis": "中世纪—文艺复兴哲学传统通行（与 philosophia perennis 拉丁原形并列）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73650,9 +74355,11 @@
    "term": "philosophical anarchism",
    "trans": "哲学无政府主义",
    "basis": "学界通行（无政府主义思想史标准译名；与 anarchism 无政府主义分义）；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73672,9 +74379,11 @@
    "term": "philosophical faith",
    "trans": "哲学信仰",
    "basis": "学界通行（《哲学信仰》Der philosophische Glaube）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73682,9 +74391,11 @@
    "term": "philosophical hermeneutics",
    "trans": "哲学诠释学（亦作“哲学解释学”）",
    "basis": "权威译本通行译法（洪汉鼎《真理与方法》）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73692,9 +74403,11 @@
    "term": "Philosophy and Logical Syntax",
    "trans": "《哲学与逻辑句法》",
    "basis": "卡尔纳普著作（1935）；书名体例译；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73702,9 +74415,11 @@
    "term": "Philosophy and the Physicists",
    "trans": "《哲学与物理学家》",
    "basis": "斯泰宾著作（1937）；书名体例译；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73712,9 +74427,11 @@
    "term": "philosophy of life",
    "trans": "生命哲学",
    "basis": "学界通行；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73732,9 +74449,11 @@
    "term": "philosophy of reflection",
    "trans": "反思哲学",
    "basis": "黑格尔—伽达默尔语境通行汉译；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73742,9 +74461,11 @@
    "term": "philosophy of right",
    "trans": "法哲学",
    "basis": "学界惯例（黑格尔研究通行）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73762,9 +74483,11 @@
    "term": "phlogiston",
    "trans": "燃素",
    "basis": "化学史通行",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73772,9 +74495,11 @@
    "term": "Phoronomy",
    "trans": "运动学（康德《形而上学基础》首章章名；源文本章即以 kinematics 释之）",
    "basis": "李秋零译本通行",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73782,9 +74507,30 @@
    "term": "phosphene",
    "trans": "光幻视",
    "basis": "视觉科学界通行译法；凭证 2026-11-06",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "光幻视",
+     "en": "phosphene",
+     "source": "神经病学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "光幻视",
+     "en": "phosphene",
+     "source": "生物物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "光幻视",
+     "en": "phosphene",
+     "source": "医学名词 第五分册"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73830,9 +74576,11 @@
    "term": "phusis",
    "trans": "自然",
    "basis": "学界惯例（自然/约定之辩）；凭证 2026-11-02；neoplatonism 词条作“自然（本性）”",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73840,9 +74588,11 @@
    "term": "phylogenetic relatedness",
    "trans": "系统发生亲缘关系",
    "basis": "进化生物学通行译名；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73850,9 +74600,78 @@
    "term": "phylogeny",
    "trans": "系统发生",
    "basis": "学界通行译名（生物学哲学文献）；凭证 2026-11-07",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "系统发育",
+     "en": "phylogeny",
+     "source": "微生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "系统发育",
+     "en": "phylogeny",
+     "source": "古生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "系统发育",
+     "en": "phylogeny",
+     "source": "免疫学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "系统发生",
+     "en": "phylogeny",
+     "source": "遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "系统发生",
+     "en": "phylogeny",
+     "source": "生态学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "系统发生",
+     "en": "phylogeny",
+     "source": "昆虫学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "系统发育",
+     "en": "phylogeny",
+     "source": "医学名词 第三分册"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "系统发生,系统发育",
+     "en": "phylogeny",
+     "source": "海峡两岸生态学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "种系发生， 系统发育",
+     "en": "phylogeny",
+     "source": "海峡两岸海洋科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "系统发育，种系发生",
+     "en": "phylogeny",
+     "source": "海峡两岸免疫学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "系统发生",
+     "en": "phylogeny",
+     "source": "海峡两岸昆虫学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73860,9 +74679,11 @@
    "term": "physical influx",
    "trans": "物理流入（说）",
    "basis": "学界通行汉译（莱布尼茨接受史）；待 specs/008 审定库复核；凭证 2026-11-05",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73870,9 +74691,11 @@
    "term": "Physical Monadology",
    "trans": "《物理单子论》",
    "basis": "学界通行；kant-leibniz 先例",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73939,9 +74762,18 @@
    "term": "Physics",
    "trans": "《物理学》",
    "basis": "学界通行汉译（亚里士多德著作）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "物理[学]",
+     "en": "physics",
+     "source": "物理学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73949,9 +74781,11 @@
    "term": "physiocracy",
    "trans": "重农学派（重农主义）",
    "basis": "经济思想史通行；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73959,9 +74793,36 @@
    "term": "physiognomy",
    "trans": "相面术",
    "basis": "科学史／文艺复兴研究通行（physiognomia）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "外貌",
+     "en": "physiognomy",
+     "source": "植物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "容貌",
+     "en": "physiognomy",
+     "source": "医学名词 第七分册"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "外貌",
+     "en": "physiognomy",
+     "source": "海峡两岸植物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "面相术",
+     "en": "physiognomy",
+     "source": "民族学与文化学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73983,9 +74844,11 @@
    "term": "pia philosophia",
    "trans": "虔敬哲学",
    "basis": "佛罗伦萨人文主义（费奇诺）术语，正文保留拉丁原词并括注",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73993,9 +74856,11 @@
    "term": "piagnoni",
    "trans": "痛哭者",
    "basis": "萨伏那洛拉派自称，正文保留意大利原词并括注（学界亦作“悲叹派”）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74003,9 +74868,24 @@
    "term": "picturesque",
    "trans": "如画",
    "basis": "学界通行（十八世纪美学；亦作“如画性”备查）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "集体消费理论 collective consumption",
+     "en": null,
+     "source": "社会学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "净人口再生产率net reproductive rate",
+     "en": null,
+     "source": "社会学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74046,9 +74926,11 @@
    "term": "pietist",
    "trans": "虔信者",
    "basis": "犹太思想史通行译法（与 scholar 学者对举）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74056,9 +74938,11 @@
    "term": "pivotal",
    "trans": "关键性的",
    "basis": "学界惯例（投票理论通行）；凭据 2026-11-02",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74066,9 +74950,11 @@
    "term": "pixelation",
    "trans": "像素化",
    "basis": "数字图像通行译名（pixel 像素派生）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74076,9 +74962,11 @@
    "term": "place (Aristotelian topos)",
    "trans": "处所",
    "basis": "学界通行（吴寿彭/苗力田《物理学》topos 译法）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74086,9 +74974,11 @@
    "term": "place (topos)",
    "trans": "位置",
    "basis": "学界通行（亚里士多德自然哲学范畴）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74096,9 +74986,11 @@
    "term": "placeholder",
    "trans": "占位符",
    "basis": "学界惯例（逻辑与计算机通行）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74106,9 +74998,11 @@
    "term": "Plastic Nature",
    "trans": "塑形自然",
    "basis": "学界通行（库德沃斯术语；Spirit of Nature 自然精神 与之对举）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74116,9 +75010,120 @@
    "term": "plasticity",
    "trans": "可塑性",
    "basis": "学界通行（生物学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "可塑性",
+     "en": "plasticity",
+     "source": "地质学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "塑性",
+     "en": "plasticity",
+     "source": "地球物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "可塑性",
+     "en": "plasticity",
+     "source": "医学遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "可塑性",
+     "en": "plasticity",
+     "source": "动物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "可塑性",
+     "en": "plasticity",
+     "source": "生理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "塑性",
+     "en": "plasticity",
+     "source": "食品科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "塑性",
+     "en": "plasticity",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "塑性",
+     "en": "plasticity",
+     "source": "化学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "可塑性",
+     "en": "plasticity",
+     "source": "教育学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "可塑度",
+     "en": "plasticity",
+     "source": "材料科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "塑性",
+     "en": "plasticity",
+     "source": "航天科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "塑性",
+     "en": "plasticity",
+     "source": "土木工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "可塑性",
+     "en": "plasticity",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "可塑性",
+     "en": "plasticity",
+     "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "可塑度",
+     "en": "plasticity",
+     "source": "海峡两岸材料科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "可塑性",
+     "en": "plasticity",
+     "source": "海峡两岸生态学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "可塑性",
+     "en": "plasticity",
+     "source": "海峡两岸动物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "塑性",
+     "en": "plasticity",
+     "source": "海峡两岸船舶工程名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74138,9 +75143,11 @@
    "term": "plausibility",
    "trans": "可信性（prima facie plausibility → 初步可信性）",
    "basis": "学界惯例（形式知识论通译可信性/似真性，本册取可信性）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74148,9 +75155,54 @@
    "term": "play",
    "trans": "游戏（伽达默尔/美学语境；Spiel）",
    "basis": "学界惯例（伽达默尔《真理与方法》通行）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "局",
+     "en": "play",
+     "source": "管理科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "游戏",
+     "en": "play",
+     "source": "教育学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "局",
+     "en": "play",
+     "source": "数学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "比赛",
+     "en": "play",
+     "source": "奥运体育项目名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "比赛开始！",
+     "en": "Play!",
+     "source": "奥运体育项目名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "比赛开始！",
+     "en": "Play!",
+     "source": "奥运体育项目名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "开始比赛!",
+     "en": "Play!",
+     "source": "奥运体育项目名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74158,9 +75210,11 @@
    "term": "pleasure in beauty",
    "trans": "对美的愉悦",
    "basis": "康德美学通行（Kant 1790/2000 语境）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74168,9 +75222,11 @@
    "term": "plenists",
    "trans": "充盈论者",
    "basis": "科学史通行（plenism，反对虚空的学派）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74178,9 +75234,11 @@
    "term": "plenitude of power",
    "trans": "权力充盈（教皇全权）",
    "basis": "学界通行（中世纪教会法术语 plenitudo potestatis）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74188,9 +75246,11 @@
    "term": "plenum",
    "trans": "充实",
    "basis": "学界通行（笛卡尔物理学术语，无真空的充满空间）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74198,9 +75258,11 @@
    "term": "plenum theory",
    "trans": "充实论",
    "basis": "由 plenum（充实，descartes-works 已登）派生；笛卡尔无虚空说",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74208,9 +75270,11 @@
    "term": "pleonexia",
    "trans": "贪得（亦作“攫取过度”）",
    "basis": "学界惯例（亚里士多德《尼各马可伦理学》卷五）；凭证 2026-11-02",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74218,9 +75282,11 @@
    "term": "plural logic",
    "trans": "复数逻辑",
    "basis": "逻辑学通行译法；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74228,9 +75294,11 @@
    "term": "pluralist",
    "trans": "多元论者",
    "basis": "学界通行（与 monist 一元论者对举）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74238,9 +75306,11 @@
    "term": "plurality of forms",
    "trans": "形式的多样性",
    "basis": "学界通行汉译（与 forma corporeitatis 并称的主导学说）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74248,9 +75318,11 @@
    "term": "plurality rule",
    "trans": "相对多数规则",
    "basis": "学界惯例（选举制度通行）；凭据 2026-11-02",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74258,9 +75330,90 @@
    "term": "pluripotent stem cell",
    "trans": "多能干细胞",
    "basis": "学界惯例（干细胞生物学通行）；凭证 2026-11-07",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "多能干细胞",
+     "en": "pluripotent stem cell",
+     "source": "整形外科名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "多能干细胞",
+     "en": "pluripotent stem cell",
+     "source": "动物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "多能干细胞",
+     "en": "pluripotent stem cell",
+     "source": "化工名词（六）生物化工"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "多能干细胞",
+     "en": "multipotential stem cell,pluripotent stem cell",
+     "source": "细胞生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "诱导多能干细胞",
+     "en": "induced pluripotent stem cell",
+     "source": "整形外科名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "诱导多能干细胞",
+     "en": "induced pluripotent stem cell",
+     "source": "化工名词（六）生物化工"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "诱导多能干细胞",
+     "en": "induced pluripotent stem cell",
+     "source": "放射医学与防护名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "诱导多能干细胞",
+     "en": "induced pluripotent stem cell,iPS cell",
+     "source": "细胞生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "诱导性多能干细胞",
+     "en": "induced pluripotent stem cell;iPS cell",
+     "source": "医学遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "诱导多能干细胞",
+     "en": "induced pluripotent stem cell;iPSC",
+     "source": "动物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "多能干细胞",
+     "en": "multipotential stem cell\",\"pluripotent stem cell\",\"PSC",
+     "source": "海峡两岸细胞生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "诱导多能干细胞",
+     "en": "induced pluripotent stem cell\",\"iPS cell",
+     "source": "海峡两岸细胞生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "诱导性多能干细胞",
+     "en": "Induced pluripotent stem cell",
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74302,9 +75455,11 @@
    "term": "poetics",
    "trans": "诗学",
    "basis": "学界惯例（文学理论通行）；凭证 2026-11-07；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74322,9 +75477,11 @@
    "term": "Poincaré transformations",
    "trans": "庞加莱变换",
    "basis": "学界惯例（物理学通行）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74345,9 +75502,48 @@
    "term": "point-mass",
    "trans": "质点",
    "basis": "力学通行；凭证 2026-11-08",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "点质量",
+     "en": "point mass",
+     "source": "石油名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "质点",
+     "en": "point mass,particle",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "质点",
+     "en": "material point,mass point,particle",
+     "source": "土木工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "质点",
+     "en": "material point,mass point,particle",
+     "source": "力学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "关机点质量",
+     "en": "shutdown point mass,burnout mass",
+     "source": "航天科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "点群",
+     "en": "mass point\",\"point cluster",
+     "source": "海峡两岸地理信息系统名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74378,9 +75574,162 @@
    "term": "polarization",
    "trans": "偏振",
    "basis": "审定名词库（物理学名词 polarization）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "极化",
+     "en": "polarization",
+     "source": "兽医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "偏振",
+     "en": "polarization",
+     "source": "编辑与出版学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "极化",
+     "en": "polarization",
+     "source": "新闻学与传播学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "极化",
+     "en": "polarization",
+     "source": "地球物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "偏振",
+     "en": "polarization",
+     "source": "地球物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "极化",
+     "en": "polarization",
+     "source": "机械工程名词 第二分册"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "偏振",
+     "en": "polarization",
+     "source": "光学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "极化",
+     "en": "polarization",
+     "source": "测绘学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "极化",
+     "en": "polarization",
+     "source": "生理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "极化",
+     "en": "polarization",
+     "source": "神经病学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "极化",
+     "en": "polarization",
+     "source": "食品科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "极化",
+     "en": "polarization",
+     "source": "运动医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "极化",
+     "en": "polarization",
+     "source": "海峡两岸大气科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "偏振",
+     "en": "polarization",
+     "source": "海峡两岸大气科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "极化",
+     "en": "polarization",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "偏振",
+     "en": "polarization",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "极化",
+     "en": "polarization",
+     "source": "海峡两岸化学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "极化[作用]",
+     "en": "polarization",
+     "source": "海峡两岸海洋科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "极化",
+     "en": "polarization",
+     "source": "海峡两岸地理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "极化",
+     "en": "polarization",
+     "source": "海峡两岸免疫学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "极化",
+     "en": "polarization",
+     "source": "海峡两岸细胞生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "极化",
+     "en": "polarization",
+     "source": "海峡两岸测绘学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "极化，偏振",
+     "en": "polarization",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "极化",
+     "en": "polarization",
+     "source": "海峡两岸航海科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "偏振",
+     "en": "polarization",
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74400,9 +75749,11 @@
    "term": "Polish notation",
    "trans": "波兰记法",
    "basis": "逻辑史通行译法；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74455,9 +75806,36 @@
    "term": "pollae myŏnmok（本來面目）",
    "trans": "本来面目",
    "basis": "禅林古语",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "洁本",
+     "en": null,
+     "source": "维基百科"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "单行本",
+     "en": null,
+     "source": "维基百科"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "本都王国",
+     "en": null,
+     "source": "维基百科"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "开本",
+     "en": null,
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74465,9 +75843,11 @@
    "term": "polumathiê",
    "trans": "博闻多识",
    "basis": "学界通行（赫拉克利特 B40 语）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74475,9 +75855,11 @@
    "term": "polyadic",
    "trans": "多元逻辑（与 monadic=一元逻辑配对）",
    "basis": "主会话收口 1728e694；凭证 2026-11-04",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74485,9 +75867,156 @@
    "term": "polymorphism",
    "trans": "多态性",
    "basis": "学界通行译名（群体遗传学文献）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "同质多象",
+     "en": "polymorphism",
+     "source": "地质学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "多晶型现象",
+     "en": "polymorphism",
+     "source": "化工名词（十）化工系统工程和化工信息化名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "多态性",
+     "en": "polymorphism",
+     "source": "生物化学与分子生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "多态性",
+     "en": "polymorphism",
+     "source": "血液学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "多态[现象]",
+     "en": "polymorphism",
+     "source": "动物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "多态性",
+     "en": "polymorphism",
+     "source": "畜牧学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "同质多晶",
+     "en": "polymorphism",
+     "source": "食品科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "多晶型[现象]",
+     "en": "polymorphism",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "多晶型现象",
+     "en": "polymorphism",
+     "source": "化工名词(三)化学工程基础"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "多态性",
+     "en": "polymorphism",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "同质多晶",
+     "en": "polymorphism",
+     "source": "化学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "多态",
+     "en": "polymorphism",
+     "source": "管理科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "多形性",
+     "en": "polymorphism",
+     "source": "海峡两岸解剖与组织胚胎学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "多态现象（=多态性）",
+     "en": "polymorphism",
+     "source": "海峡两岸植物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "多态性，多态现象",
+     "en": "polymorphism",
+     "source": "海峡两岸植物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "多态［现象］",
+     "en": "polymorphism",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "多态性,多态现象",
+     "en": "polymorphism",
+     "source": "海峡两岸生态学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "多态现象",
+     "en": "polymorphism",
+     "source": "海峡两岸海洋科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "同质多象",
+     "en": "polymorphism",
+     "source": "海峡两岸地理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "多态性",
+     "en": "polymorphism",
+     "source": "海峡两岸免疫学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "多态性",
+     "en": "polymorphism",
+     "source": "海峡两岸细胞生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "多形态性",
+     "en": "polymorphism",
+     "source": "海峡两岸地理信息系统名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "多态性,多态现象",
+     "en": "polymorphism",
+     "source": "海峡两岸遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "多态性",
+     "en": "polymorphism",
+     "source": "海峡两岸信息科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74495,9 +76024,84 @@
    "term": "polyp",
    "trans": "息肉",
    "basis": "学界通行（病理学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "息肉",
+     "en": "polyp",
+     "source": "兽医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "水螅型",
+     "en": "polyp",
+     "source": "动物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "息肉",
+     "en": "polyp",
+     "source": "消化内镜学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "息肉",
+     "en": "polyp",
+     "source": "病理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "息肉",
+     "en": "polyp",
+     "source": "核医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "息肉",
+     "en": "polyp",
+     "source": "中医药学名词（2013）"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "息肉",
+     "en": "polyp",
+     "source": "中医药学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "息肉",
+     "en": "polyp",
+     "source": "医学名词 第六分册"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "息肉",
+     "en": "polyp",
+     "source": "医学名词 第三分册"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "息肉",
+     "en": "polyp",
+     "source": "医学名词 第四分册"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "息肉",
+     "en": "polyp",
+     "source": "海峡两岸解剖与组织胚胎学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "息肉",
+     "en": "polyp",
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74515,9 +76119,11 @@
    "term": "pooled sovereignty",
    "trans": "汇集主权",
    "basis": "学界通行译法（欧洲一体化研究通行，Keohane/Hoffmann 语境）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74525,9 +76131,11 @@
    "term": "Popularphilosophie",
    "trans": "大众哲学（通俗哲学）",
    "basis": "德国启蒙研究通行；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74535,9 +76143,11 @@
    "term": "population thinking",
    "trans": "群体思维",
    "basis": "学界通行译名（生物学哲学文献）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74545,9 +76155,11 @@
    "term": "pornographic art",
    "trans": "色情艺术",
    "basis": "学界通行（pornographic 译“色情的”）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74555,9 +76167,24 @@
    "term": "pornography",
    "trans": "色情",
    "basis": "学界通行",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "色情内容",
+     "en": "pornography",
+     "source": "新闻学与传播学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "色情书刊",
+     "en": "pornography",
+     "source": "图书馆·情报与文献学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74579,9 +76206,18 @@
    "term": "portfolio analysis",
    "trans": "组合分析",
    "basis": "学界惯例（Markowitz 1952 以来金融经济学通行）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "技术组合分析",
+     "en": "technology portfolio analysis",
+     "source": "管理科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74589,9 +76225,11 @@
    "term": "positing (Setzung)",
    "trans": "设定",
    "basis": "布伦塔诺/斯图姆夫术语通行译法；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74599,9 +76237,11 @@
    "term": "positio",
    "trans": "设定（保留拉丁原词）",
    "basis": "学界惯例（中世纪义务理论研究通行）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74609,9 +76249,11 @@
    "term": "positional duties",
    "trans": "岗位职责",
    "basis": "学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74619,9 +76261,11 @@
    "term": "positive aesthetics",
    "trans": "肯定美学",
    "basis": "Carlson 术语（自然中无丑之论）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74629,9 +76273,24 @@
    "term": "positive heuristic",
    "trans": "正面启发法",
    "basis": "科学研究纲领方法论中译本通行译法；凭证 2026-11-06",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "正面启发法",
+     "en": "positive heuristic",
+     "source": "自然辩证法名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "正面启发法",
+     "en": "positive heuristic",
+     "source": "自然辩证法名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74651,9 +76310,54 @@
    "term": "positive/negative/neutral/hypothetical analogy",
    "trans": "正类比／负类比／中性类比／假说类比",
    "basis": "学界通行（Hesse/Keynes 术语；假说类比按构词）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "正片",
+     "en": "positive",
+     "source": "测绘学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "阳",
+     "en": "positive",
+     "source": "海峡两岸大气科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "正",
+     "en": "positive",
+     "source": "海峡两岸大气科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "正片",
+     "en": "positive",
+     "source": "海峡两岸测绘学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "负片",
+     "en": "negative",
+     "source": "测绘学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "负片",
+     "en": "negative",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "否定[的]",
+     "en": "negative",
+     "source": "数学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74742,9 +76446,11 @@
    "term": "positivism dispute",
    "trans": "实证主义论争",
    "basis": "学界通行汉译（德国社会学 Positivismusstreit 研究通行）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74752,9 +76458,11 @@
    "term": "possibilia",
    "trans": "可能物",
    "basis": "学界惯例（可能存在而不存在者）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74774,9 +76482,24 @@
    "term": "possible intellect",
    "trans": "可能理智",
    "basis": "与 agent intellect＝能动理智对项；凭证 2026-11-08",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "集体消费理论 collective consumption",
+     "en": null,
+     "source": "社会学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "净人口再生产率net reproductive rate",
+     "en": null,
+     "source": "社会学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74784,9 +76507,11 @@
    "term": "possible object",
    "trans": "可能对象",
    "basis": "学界通行汉译（迈农主义文献）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74827,9 +76552,11 @@
    "term": "post market surveillance",
    "trans": "上市后监管",
    "basis": "学界惯例（药品与器械监管通行，PMS）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74837,9 +76564,11 @@
    "term": "post rem universals",
    "trans": "后于事物的共相",
    "basis": "中世纪共相学说通行（post rem 与 ante rem／in re 对举）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74847,9 +76576,11 @@
    "term": "post-colonial theory",
    "trans": "后殖民理论",
    "basis": "学界通行译名；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74867,9 +76598,11 @@
    "term": "post-knowledge cognition（bcad shes）",
    "trans": "已决识（bcad shes）",
    "basis": "藏传量论通行",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74901,9 +76634,11 @@
    "term": "posthumous interests",
    "trans": "身后利益",
    "basis": "学界惯例（法学亦作“死后利益”，哲学语境用“身后利益”；凭证 2026-11-06）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74911,9 +76646,11 @@
    "term": "postnational",
    "trans": "后民族",
    "basis": "政治理论通行汉译（后民族宪制主义/后民族国家）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74921,9 +76658,11 @@
    "term": "postulate",
    "trans": "公设",
    "basis": "学界通行汉译（哲学与科学哲学通用）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74931,9 +76670,11 @@
    "term": "postulate system",
    "trans": "公设系统",
    "basis": "朗格/Huntington 逻辑术语（用 postulate 避 axiom“自明”之嫌）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74941,9 +76682,11 @@
    "term": "postulational analysis",
    "trans": "公设式分析",
    "basis": "剑桥分析学派文献（斯泰宾术语；postulate 公设义）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74951,9 +76694,24 @@
    "term": "potentia coactiva",
    "trans": "强制权力",
    "basis": "学界通行（马西利乌斯拉丁术语）；凭证 2026-11-08",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "集体消费理论 collective consumption",
+     "en": null,
+     "source": "社会学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "净人口再生产率net reproductive rate",
+     "en": null,
+     "source": "社会学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74961,9 +76719,11 @@
    "term": "potentia dei absoluta / ordinata",
    "trans": "上帝绝对能力/有序能力",
    "basis": "主会话直译收口 de6bb4b1；凭证 2026-11-04",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -74971,9 +76731,11 @@
    "term": "potential falsifier",
    "trans": "潜在证伪者",
    "basis": "科学哲学界通行译法；凭证 2026-11-06",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",

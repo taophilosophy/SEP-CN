@@ -1,0 +1,432 @@
+{
+ "key": "preceding necessity / subsequent necessity",
+ "term": "preceding necessity / subsequent necessity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T14:35:19+00:00",
+ "status": "ok",
+ "note": "variant=preceding necessity; 审定公布名词库=280; 海峡两岸名词对照库=64; 其他来源数据库=10; 预公布名词数据库=11; variant=subsequent necessity; 审定公布名词库=45; 海峡两岸名词对照库=5; 其他来源数据库=7; 预公布名词数据库=9; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "必然性",
+   "en": "necessity",
+   "code": "02.068",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_自然哲学_基本概念"
+  },
+  {
+   "cn": "律则必然性",
+   "en": "nomological necessity",
+   "code": "03.227",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_认识论"
+  },
+  {
+   "cn": "必然性测度",
+   "en": "necessity measure",
+   "code": "03.360",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_自动化技术系统_系统工程"
+  },
+  {
+   "cn": "前期旋回",
+   "en": "preceding cycle",
+   "code": "10.03.047",
+   "standard": "地质学名词",
+   "subject": "地质学_大地构造学_其他大地构造学说"
+  },
+  {
+   "cn": "先行工作",
+   "en": "preceding activity",
+   "code": "09.0232",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_项目管理与工程管理_范围和进度管理"
+  },
+  {
+   "cn": "预先筛分",
+   "en": "precedent sieving",
+   "code": "03.0283",
+   "standard": "冶金学名词",
+   "subject": "冶金学_选矿_破碎、筛分及分级"
+  },
+  {
+   "cn": "排序",
+   "en": "precedence ordering",
+   "code": "05.059",
+   "standard": "化学工程名词",
+   "subject": "化学工程_过程系统工程_过程模拟"
+  },
+  {
+   "cn": "战略必要性假说",
+   "en": "strategic necessity hypothesis",
+   "code": "06.084",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_情报分析与研究_竞争情报"
+  },
+  {
+   "cn": "算符优先文法",
+   "en": "operator precedence grammar",
+   "code": "05.0018",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_语言与编译"
+  },
+  {
+   "cn": "算符优先分析",
+   "en": "operator precedence parsing",
+   "code": "05.0133",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_语言与编译"
+  },
+  {
+   "cn": "单代号网络图",
+   "en": "precedence network diagram",
+   "code": "13.059",
+   "standard": "土木工程名词",
+   "subject": "土木工程_工程施工_施工管理"
+  },
+  {
+   "cn": "项目建设必要性",
+   "en": "necessity of project construction",
+   "code": "02.192",
+   "standard": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "subject": "化工（五）_规划、咨询、评估与决策_规划及项目的评估"
+  },
+  {
+   "cn": "前背书人",
+   "en": "preceding endorser",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "排序",
+   "en": "precedence ordering",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "操作优先权",
+   "en": "operator precedence",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "优先约束",
+   "en": "precedence constraint",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "局部优先效应",
+   "en": "local precedence effect",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "前导黑子",
+   "en": "leading sunspot\",\"preceding sunspot",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "预编码",
+   "en": "precoding",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "必要带宽",
+   "en": "necessary bandwidth",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "前位个虫",
+   "en": "preceeding zooid",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "育种",
+   "en": "breeding",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "育种",
+   "en": "breeding",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "退行星系",
+   "en": "receding galaxy",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "日常基本生活物资",
+   "en": "daily necessities",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_社会治理"
+  },
+  {
+   "cn": "生活必需品",
+   "en": "necessities of life; daily necessities",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_社会治理"
+  },
+  {
+   "cn": "类案推荐",
+   "en": "precedent recommendation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "哈斯效应",
+   "en": "Haas effect; Precedence effect",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "陈言务去",
+   "en": "The Necessity of Eliminating Banal Expression",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "治内裁外",
+   "en": "Handling Internal Affairs Takes Precedence over External Affairs.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "解决好生活必需品供应的“最后一公里”问题",
+   "en": "to ensure the “last kilometer” delivery of daily necessities",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_社会治理"
+  },
+  {
+   "cn": "保障全国生活必需品市场总体稳定",
+   "en": "to maintain an overall balance in the market for daily necessities",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_社会治理"
+  },
+  {
+   "cn": "国家南繁科研育种基地",
+   "en": "national seed breeding base in Hainan",
+   "code": null,
+   "standard": "重大国家战略常用关键词英文译法",
+   "subject": "其他"
+  },
+  {
+   "cn": "集中患者、集中专家、集中资源、集中救治",
+   "en": "to treat the infected in dedicated facilities by medical specialists from all over the country and with all necessary resources ",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "理念举措_具体措施"
+  },
+  {
+   "cn": "必然性",
+   "en": "necessity",
+   "code": "01.0051",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "社会必然性",
+   "en": "social necessity",
+   "code": "03.0153",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "必然性与偶然性",
+   "en": "necessity and contingency",
+   "code": "01.0053",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "格林模式",
+   "en": "precede-proceed model",
+   "code": "5.3.5",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育理论与模式"
+  },
+  {
+   "cn": "格林模式",
+   "en": "precede-proceed model",
+   "code": "17.1.2.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队健康教育与健康促进_军队健康教育"
+  },
+  {
+   "cn": "日用饰品",
+   "en": "daily necessities and decorative clothing",
+   "code": "4.012",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "必要劳动",
+   "en": "necessary labor",
+   "code": "02.0113",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "必需成分",
+   "en": "necessary components",
+   "code": "5.22.5",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_特殊食品"
+  },
+  {
+   "cn": "社会必要劳动时间",
+   "en": "socially necessary labortime",
+   "code": "02.0040",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "必要劳动时间",
+   "en": "necessary labor time",
+   "code": "02.0114",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "必要资本量壁垒",
+   "en": "necessary capital quantity barrier",
+   "code": "5.1.6.5.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务供给"
+  },
+  {
+   "cn": "必然性",
+   "en": "necessity",
+   "code": "02.068",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_自然哲学_基本概念"
+  },
+  {
+   "cn": "亚层序",
+   "en": "subsequence",
+   "code": "07.02.023",
+   "standard": "地质学名词",
+   "subject": "地质学_地史学与地层学_层序地层学"
+  },
+  {
+   "cn": "亚层序",
+   "en": "subsequence",
+   "code": "02.0862",
+   "standard": "石油名词",
+   "subject": "石油_油气地质勘探_石油地震地层学"
+  },
+  {
+   "cn": "律则必然性",
+   "en": "nomological necessity",
+   "code": "03.227",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_认识论"
+  },
+  {
+   "cn": "必然性测度",
+   "en": "necessity measure",
+   "code": "03.360",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_自动化技术系统_系统工程"
+  },
+  {
+   "cn": "后续检定",
+   "en": "subsequent verification",
+   "code": "02.122",
+   "standard": "电力名词",
+   "subject": "电力_电测与计量"
+  },
+  {
+   "cn": "期后事项",
+   "en": "subsequent event",
+   "code": "06.0080",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_会计_财务会计"
+  },
+  {
+   "cn": "后续检定",
+   "en": "subsequent verification",
+   "code": "01.178",
+   "standard": "计量学名词",
+   "subject": "计量学_计量学通用名词_法制计量"
+  },
+  {
+   "cn": "次成河",
+   "en": "subsequent river",
+   "code": "03.301",
+   "standard": "地理学名词",
+   "subject": "地理学_地貌学"
+  },
+  {
+   "cn": "后成河",
+   "en": "subsequent river",
+   "code": "01.089",
+   "standard": "地质学名词",
+   "subject": "地质学_地质学总论"
+  },
+  {
+   "cn": "战略必要性假说",
+   "en": "strategic necessity hypothesis",
+   "code": "06.084",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_情报分析与研究_竞争情报"
+  },
+  {
+   "cn": "追惩制",
+   "en": "subsequent punishment system",
+   "code": "17.048",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_媒体与传播法_新闻从业者的权利_义务与责任"
+  },
+  {
+   "cn": "次成河，后成河",
+   "en": "subsequent river\",\"subsequent stream",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "后继背书人",
+   "en": "subsequent endorser",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "子段",
+   "en": "subsegment",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
