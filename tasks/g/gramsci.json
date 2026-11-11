@@ -2,7 +2,7 @@
   "slug": "gramsci",
   "kind": "retranslate",
   "zh_doc": "g/gramsci.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-10T22:47:24Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "G-main-20261111",
+      "at": "2026-11-11T07:05:33Z",
+      "evidence": "ADR-0021 账本 112 段双版填写（body 111 + oir 1），守恒门 HARD=0（SOFT 留痕：斜体→中文粗体/书名号若干段），compose 27847 字符（按账本无损重生）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "G-main-20261111",
+      "at": "2026-11-11T07:05:33Z",
+      "evidence": "s1 对账五维：段落 112:112、脚注键 88:88 集合全等、defs 47:47、h2 8:8 / h3 16:16 章节序一致、图片 0:0；专名统一（Gramsci 葛兰西/Croce 克罗齐/Bordiga 博尔迪加/Togliatti 陶里亚蒂/Machiavelli 马基雅维利），书目 NE 条目照录（47 条，无中国文献）；源文斜体书名转书名号、缩写键 SPN/FSPN/GPL/SPWII 等照录"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "G-main-20261111",
+      "at": "2026-11-11T07:05:33Z",
+      "evidence": "check_prose 36→1（长句 13 实修拆句、de-chain 18 实修、weak-verb 3、passive 2 实修；余 1 条为格拉姆西引文“新的…新的…新的…”三连按 ADR-0020 引文豁免留痕）；语体：现代汉语学术书面语（非文言），破折号仅用于插入与转折"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "G-main-20261111",
+      "at": "2026-11-11T07:05:34Z",
+      "evidence": "s3 四检：style 0、academic 0 硬错、math 0/0、terms 0 硬错（正文缺登记译法告警 1：Bobbio 仅以引证组姓氏出现）；SUMMARY --headers 0 mismatch、mu-lu-s 0；术语 20 行/人名 24 行入册"
     }
   ],
   "blockers": [],
