@@ -523,212 +523,282 @@ segments:
     kind: body
     source: |-
       ### 3.2 Unusability Pessimism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 不可用悲观论
+    step2: |-
+      ### 3.2 不可用悲观论
   - id: 66
     kind: body
     source: |-
       Unusability pessimists will accept that, under the right conditions, knowledge can be attained via aesthetic testimony. Indeed, they could go so far as to accept that there is no significant epistemic difference between aesthetic and mundane testimony (though they are by no means committed to doing so). However, they will nevertheless argue that deference to aesthetic testimony violates a non-epistemic norm which prevents the use of such knowledge. These theorists can accept that one *can* form aesthetic beliefs, and indeed aesthetic knowledge, through deference to aesthetic testimony, they argue instead that (there are at least *pro tanto* reasons why) one *ought not* to. Others take a more moderate view and argue that, while acquiring knowledge in this way is perfectly permissible, doing so would deprive of us some important value or goal.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不可用悲观论者会承认：在适当条件下，知识可以经由审美证言获得。他们甚至可以走得远到承认：审美证言与日常证言之间没有显著的认知差异（尽管他们远非必须如此）。然而，他们仍会论证：顺从审美证言违反了一条非认知规范，这条规范阻止我们使用此类知识。这些理论家可以承认：一个人*能够*通过顺从审美证言形成审美信念、乃至审美知识；但他们转而论证：（至少存在*初定*理由表明）一个人*不应当*这样做。另一些人持更温和的看法，论证以这种方式获取知识完全许可，但这样做会剥夺我们的某种重要价值或目标。
+    step2: |-
+      不可用悲观论者会承认：在适当条件下，知识可以经由审美证言获得。他们甚至可以进一步承认：审美证言与日常证言之间没有显著的认知差异（尽管他们远非必须如此）。然而，他们仍会论证：顺从审美证言违反了一条非认知规范，这条规范阻止我们使用此类知识。这些理论家可以承认：一个人*能够*通过顺从审美证言形成审美信念乃至审美知识；但他们转而论证：一个人*不应当*这样做（至少存在 *pro tanto*，即初定意义上的理由）。另一些人持更温和的看法，论证道：以这种方式获取知识完全可许，但这样做会剥夺我们的某种重要价值或目标。
   - id: 67
     kind: body
     source: |-
       #### 3.2.1 Norms of Use
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 3.2.1 使用规范
+    step2: |-
+      #### 3.2.1 使用规范
   - id: 68
     kind: body
     source: |-
       One of the most influential attempts to give a non-epistemic (but still cognitive) version of pessimism is Hopkins’ (2011) appeal to what he terms “norms of use”. Roughly speaking, these are norms which determine whether it’s permissible to form a belief on a particular subject but which don’t concern whether the belief in question would count as knowledge. In Hopkins’ view, testimony can often make aesthetic knowledge available to us but some further norm (or norms) of belief still makes it impermissible to form a belief on this basis. Hopkins doesn’t take any clear position on what norm this might be but considers some possibilities including a non-epistemic version of *AP* (Hopkins 2011: 150)[^hopkins-2011] and the other possibilities for the unusability pessimist we look at below could also be taken as ways to fill in this gap (though, as we will see, some of these make rather weaker claims than Hopkins’ contention that the beliefs in question would be impermissible).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      霍普金斯（Hopkins）（2011）诉诸他所称的“使用规范”，是给出悲观论之非认知（但仍属认知性）版本的最有影响的尝试之一。粗略地说，这些规范决定在某个主题上形成信念是否许可，但不关心该信念是否算作知识。在霍普金斯看来，证言常常能使审美知识为我们所用，但某种（或某些）进一步的信念规范仍使以此为基础形成信念成为不许可。霍普金斯没有明确表态这条规范究竟是什么，但考虑了一些可能，包括 *AP* 的非认知版本（Hopkins 2011: 150）[^hopkins-2011]；我们下文考察的不可用悲观论者的其他可能，也可以视为填补这一空缺的方式（不过，正如我们将看到的，其中一些主张比霍普金斯“相关信念不许可”的论断要弱得多）。
+    step2: |-
+      霍普金斯（Hopkins）（2011）诉诸他所称的“使用规范”（norms of use），这是给出悲观论之非认知（但仍属认知性）版本的最有影响的尝试之一。粗略地说，使用规范决定在某个主题上形成信念是否许可，却不追问该信念是否算作知识。在霍普金斯看来，证言常常能使审美知识为我们所用，但某种（或某些）进一步的信念规范仍使以此为基础形成信念成为不许可。霍普金斯没有明确表态这条规范究竟是什么，但考虑了一些可能，包括 *AP* 的非认知版本（Hopkins 2011: 150）[^hopkins-2011]；我们下文考察的不可用悲观论者的其他可能，也可以视为填补这一空缺的方式（不过，正如我们将看到的，其中一些主张比霍普金斯“相关信念不许可”的论断要弱得多）。
   - id: 69
     kind: body
     source: |-
       #### 3.2.2 Autonomy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 3.2.2 自主性
+    step2: |-
+      #### 3.2.2 自主性
   - id: 70
     kind: body
     source: |-
       An approach developed by Nguyen (2020a) rests on the Autonomy Principle mentioned in §2.2. It broadly emphasises the importance of asserting aesthetic agency. Key to Nguyen’s argument for this claim is the assumption that what we primarily value about our aesthetic practice is forming judgements as opposed to “getting our judgements right” (Nguyen 2020a: 1129)[^nguyen-2020a]. On this account, the activity of forming judgements is the point and purpose of our aesthetic engagement, not epistemic gain; and whilst deference to aesthetic testimony can enable us to improve our epistemic standing, it can thwart our aesthetic engagement. One thing that emerges as important for this account is the prolongation of appreciative aesthetic activity. Such prolongation is purportedly promoted by the autonomous control of our attention, whilst deference is seen to undermine it serving as an endpoint for our appreciative aesthetic activities. Nguyen describes deference in this context as comparable to a marathon runner taking a taxi to the finish line. (Nguyen 2020a: 1147; see Friend 2023 for a critical yet sympathetic discussion)[^friend-2023][^nguyen-2020a].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Nguyen（2020a）提出的一种进路，立足于 §2.2 提到的自主性原则。它大体上强调主张审美能动性的重要性。Nguyen 这一主张的关键，是一个假定：我们在审美实践中主要看重的，是形成判断，而不是“把判断弄对”（Nguyen 2020a: 1129）[^nguyen-2020a]。按这一说明，形成判断的活动就是我们审美投入的要点与目的，而非认知收获；顺从审美证言虽能改善我们的认知地位，却可能挫败我们的审美投入。对这套说明而言显得重要的一点，是欣赏性审美活动的延长。据说，这种延长由我们对注意力的自主控制所促进；而顺从则被视为破坏它，构成欣赏性审美活动的终点。Nguyen 在此语境中把顺从比作马拉松选手打车去终点线。（Nguyen 2020a: 1147；批判而同情的研究见 Friend 2023）[^friend-2023][^nguyen-2020a]。
+    step2: |-
+      Nguyen（2020a）提出的一条进路，立足于 §2.2 提到的自主性原则。它大体上强调主张审美能动性（aesthetic agency）的重要性。Nguyen 这一主张的关键，在于一个假定：我们在审美实践中首要看重的，是形成判断，而非“把判断弄对”（Nguyen 2020a: 1129）[^nguyen-2020a]。按这一说明，形成判断的活动就是我们审美投入的要点与目的，而不是认知收获；顺从审美证言虽能改善我们的认知地位，却可能挫败我们的审美投入。这套说明中显得重要的一点，是欣赏性审美活动的延长。据说，这种延长由我们对注意力的自主控制所促成；顺从则被视为破坏它——顺从成了欣赏性审美活动的终点。Nguyen 在此语境中把顺从比作马拉松选手打车去终点线。（Nguyen 2020a: 1147；批判而同情的研究见 Friend 2023）[^friend-2023][^nguyen-2020a]。
   - id: 71
     kind: body
     source: |-
       #### 3.2.3 Authenticity and Aesthetic Personality
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 3.2.3 本真性与审美个性
+    step2: |-
+      #### 3.2.3 本真性与审美个性
   - id: 72
     kind: body
     source: |-
       Another approach focuses on issues relating to authenticity and the preservation of one’s aesthetic personality. This kind of position can be seen in Levinson (2002; 2010), Riggle (2015) and Bräuer (2023). Both Levinson (2002) and Riggle (2015) hold that deferring to aesthetic testimony thwarts the preservation of one’s aesthetic personality. The worry is that whilst we might be tempted to accept certain kinds of testimony—particularly from someone like a critic—if we were to do so we risk undermining our own aesthetic sensibilities—and discarding aesthetic judgements which we hold most dear. And they fear that discarding such dearly held aesthetic judgements is tantamount to discarding aspects of one’s personality. The thought is that our aesthetic choices and preferences help define us and enable us to orient our place in the world. To simply defer thwarts our opportunities to have the kinds of meaningful attachments to artworks which reflect our aesthetic personalities. Similarly, Bräuer (2023) argues that we experience deference to aesthetic testimony as problematic because (for better or for worse) we are attached to an ideal of aesthetic authenticity. He argues that this ideal reflects the sense in which we are called upon to live our lives in a manner that is true to ourselves, and not an imitation of anyone else.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一种进路关注与本真性以及保存个人审美个性有关的问题。这类立场可见于 Levinson（2002; 2010）、Riggle（2015）与布罗伊尔（Bräuer）（2023）。Levinson（2002）与 Riggle（2015）都认为：顺从审美证言会妨碍个人审美个性的保存。其忧虑是：尽管我们可能被诱惑去接受某些种类的证言——尤其是来自批评家这类人的证言——但若真这样做，我们就有削弱自身审美感受力的风险，并丢弃我们最为珍视的审美判断。他们担心，丢弃如此珍视的审美判断，无异于丢弃个人人格的若干方面。其想法是：我们的审美选择与偏好帮助我们界定自身，并使我们得以在世界中确定自己的位置。单纯顺从，会妨碍我们获得那种反映自身审美个性的、与艺术品之间的有意义依恋。类似地，布罗伊尔（2023）论证：我们把顺从审美证言经验为有问题的，是因为（无论好坏）我们系着于一种审美本真性的理想。他论证：这一理想反映了这样一种意识——我们被召唤以忠于自身、而非模仿他人的方式过自己的生活。
+    step2: |-
+      另一种进路关注本真性（authenticity）以及个人审美个性的保存。这类立场可见于 Levinson（2002; 2010）、Riggle（2015）与布罗伊尔（Bräuer）（2023）。Levinson（2002）与 Riggle（2015）都认为：顺从审美证言会妨碍个人审美个性的保存。其忧虑是：我们可能被诱惑去接受某些证言——尤其是批评家这类人的证言——但若真这样做，就有削弱自身审美感受力、丢弃最为珍视的审美判断的风险。他们担心，丢弃如此珍视的审美判断，无异于丢弃个人人格的若干方面。其想法是：我们的审美选择与偏好帮助我们界定自身，使我们得以在世界中确定自己的位置；单纯的顺从则会妨碍我们与艺术品建立那种反映自身审美个性的、有意义的依恋。类似地，布罗伊尔（2023）论证：我们把顺从审美证言经验为有问题的，是因为（无论好坏）我们系着于一种审美本真性的理想。他论证：这一理想反映了这样一种意识——我们被召唤以忠于自身、而非模仿他人的方式过自己的生活。
   - id: 73
     kind: body
     source: |-
       #### 3.2.4 Aesthetic Development: A Moderate Approach
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 3.2.4 审美发展：一种温和进路
+    step2: |-
+      #### 3.2.4 审美发展：一种温和进路
   - id: 74
     kind: body
     source: |-
       Some theorists have argued that deference undermines one’s opportunities for aesthetic development; this is broadly reflected in the work of Ransom (2019) and Lord (2018). This is roughly the concern that deference to aesthetic testimony undermines the development of our aesthetic faculties, sensibilities and skilful aesthetic engagement since it takes away a prime opportunity for us to truly understand and appreciate the aesthetic qualities in question. Insofar as our opportunities to develop our aesthetic taste have been undermined, aesthetic testimony can be seen to thwart our potential to access further aesthetic truths. Deference is portrayed here as comparable to offering a calculator to a child to help solve their maths equation rather than letting them figure it out for themselves. Something which would hinder them from developing the skill set required for solving mathematical puzzles and prevent them from attaining the requisite understanding to reliably apply what they know. Interestingly both Lord and Ransom acknowledge that deference to aesthetic testimony can be valuable at times and, in particular, that it can be valuable for total novices in the field who might need some help getting started. Indeed, given this acknowledgement Lord (2018) even takes his account to be fairly optimistic in nature whilst insisting that there is something non-ideal about deference to aesthetic testimony nevertheless.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一些理论家论证：顺从会损害个人审美发展的机会；这在 Ransom（2019）与 Lord（2018）的著作中有广泛体现。这大致是这样一个忧虑：顺从审美证言会损害我们审美官能、感受力与娴熟审美投入的发展，因为它剥夺了我们真正理解并欣赏相关审美性质的一次绝佳机会。既然我们发展自身审美鉴赏力的机会被损害，审美证言便可被视为阻碍我们获得更多审美真理的潜能。这里的顺从被描绘为类似于给孩子一个计算器帮其解数学题，而不是让孩子自己弄明白——这会妨碍他们发展解决数学难题所需的技能，并阻止他们获得可靠运用所学知识所需的理解。有趣的是，Lord 与 Ransom 都承认：顺从审美证言有时可以是有价值的，特别是对该领域的全然新手——他们可能需要在起步时获得一些帮助。正因这一承认，Lord（2018）甚至认为自己的说明在性质上相当乐观，同时又坚持：顺从审美证言仍有某种不理想之处。
+    step2: |-
+      一些理论家论证：顺从会损害个人审美发展的机会；这在 Ransom（2019）与 Lord（2018）的著作中有广泛体现。这大致是这样一个忧虑：顺从审美证言会损害我们审美官能、感受力与娴熟审美投入的发展，因为它剥夺了我们真正理解并欣赏相关审美性质的一次绝佳机会。既然我们发展自身审美鉴赏力的机会被损害，审美证言便可视为阻碍我们获取更多审美真理的潜能。这里的顺从被描绘为类似于给孩子一个计算器帮其解数学题，而不是让孩子自己弄明白——这会妨碍他们发展解决数学难题所需的技能，也阻止他们获得可靠运用所学知识所需的理解。有趣的是，Lord 与 Ransom 都承认：顺从审美证言有时可以是有价值的，特别是对该领域全然的新手——他们可能需要在起步时获得一些帮助。正因这一承认，Lord（2018）甚至认为自己的说明在性质上相当乐观，同时又坚持：顺从审美证言仍有某种不理想之处。
   - id: 75
     kind: body
     source: |-
       ## 4. Optimistic Responses
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 乐观论回应
+    step2: |-
+      ## 4 乐观论回应
   - id: 76
     kind: body
     source: |-
       Having introduced pessimistic concerns in the previous section, this section will provide an optimistic response to each.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上一节介绍了悲观论的关切；本节将对每一项给出乐观论的回应。
+    step2: |-
+      上一节介绍了悲观论的关切；本节将逐一给出乐观论的回应。
   - id: 77
     kind: body
     source: |-
       ### 4.1 Optimistic Responses to Unavailability Pessimism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 对不可得悲观论的乐观论回应
+    step2: |-
+      ### 4.1 对不可得悲观论的乐观论回应
   - id: 78
     kind: body
     source: |-
       #### 4.1.1 Anti-Realist Approaches: An Optimistic Response
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 4.1.1 反实在论进路：一种乐观论回应
+    step2: |-
+      #### 4.1.1 反实在论进路：一种乐观论回应
   - id: 79
     kind: body
     source: |-
       Whilst aesthetic error theory and aesthetic relativism can accommodate the pessimistic intuition that aesthetic testimony fails to serve as a means of forming legitimate aesthetic judgement, aesthetic error theory and relativism (or at least relativism of the crude kind which would straightforwardly rule out appeals to aesthetic testimony)—are commonly rejected by those within the aesthetic testimony debate. It is typically accepted that there are aesthetic truths and that these (or at least some significant subset of them) don’t vary in their truth value between speakers. Indeed, it is given these basic assumptions, that theorists typically set for themselves the challenge of accounting for how aesthetic testimony nevertheless seems to have (i) an asymmetrical epistemic status to the testimony of mundane domains and (ii) an asymmetrical epistemic status to first-hand acquaintance with the object (Meskin 2006: 112–113; Hopkins 2011: 141)[^hopkins-2011][^meskin-2006]. Meskin (2006: 113) has also highlighted that the relativist’s approach faces additional difficulties in accounting for why aesthetic testimony may well have an asymmetrical status—in both of the senses mentioned above—in the context of like-minded valuers.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      审美错误论与审美相对主义虽然能容纳“审美证言无法充当正当审美判断之手段”这一悲观论直觉，但审美证言争论中的论者通常拒斥审美错误论与相对主义（或至少拒斥那种会径直排除诉诸审美证言的粗糙相对主义）。人们通常接受：存在审美真理，而且这些真理（或其中相当一部分）的真值不因说话者而异。事实上，正是基于这些基本假定，理论家们通常给自己设定了这样的挑战：解释审美证言为何似乎仍然（i）与日常领域的证言具有不对称的认知地位，且（ii）与对对象的第一手亲知具有不对称的认知地位（Meskin 2006: 112–113; Hopkins 2011: 141）[^hopkins-2011][^meskin-2006]。Meskin（2006: 113）还指出：相对主义进路在解释“在志趣相投的评价者之间，审美证言为何仍可能具有不对称地位”（上述两种意义上的不对称）时，面临额外的困难。
+    step2: |-
+      审美错误论与审美相对主义虽然能容纳“审美证言无法充当正当审美判断之手段”这一悲观论直觉，但审美证言争论中的论者通常拒斥审美错误论与相对主义（或至少拒斥那种会径直排除诉诸审美证言的粗糙相对主义）。人们通常接受：存在审美真理，而且这些真理（或其中相当一部分）的真值不因说话者而异。事实上，正是基于这些基本假定，理论家们通常给自己设定了这样的挑战：解释审美证言为何似乎仍然（i）与日常领域的证言具有不对称的认知地位，且（ii）与对对象的第一手亲知具有不对称的认知地位（Meskin 2006: 112–113; Hopkins 2011: 141）[^hopkins-2011][^meskin-2006]。Meskin（2006: 113）还指出：相对主义进路在解释“在志趣相投的评价者之间，审美证言为何仍可能具有不对称地位”（上述两种意义上的不对称）时，面临额外的困难。
   - id: 80
     kind: body
     source: |-
       Interestingly the basic expressivist approach also appears to fall upon similar hurdles to that facing error theory and relativism (see Meskin 2006)[^meskin-2006]. The pessimist is (see the nuance of §3.1.3) often keen to observe an asymmetry between the epistemic status of someone who has developed an aesthetic judgement on the basis of aesthetic testimony and the status of someone who has first-hand acquaintance with the object (Hopkins 2011)[^hopkins-2011]. Nevertheless, if this crude expressivist is right, there is no asymmetry here, neither testimony nor acquaintance can be used as a source of knowledge (Meskin 2007: 115). When it comes to more sophisticated forms of relativism and expressivism, there have certainly been attempts to link both of these to pessimism (see McGonigal 2006 and Andow 2015 for the former and Scruton 1974; Todd 2004; Franzén 2018; and, arguably, Gorodeisky & Marcus 2018 for the latter)[^andow-2015][^franzén-2018][^gorodeisky-2018][^mcgonigal-2006][^scruton-1974][^todd-2004].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有趣的是，基本版表达主义进路似乎也遇到与错误论、相对主义相似的障碍（见 Meskin 2006）[^meskin-2006]。悲观论者（见 §3.1.3 的细微区分）常常热衷于指出这样一种不对称：基于审美证言形成审美判断的人，与对对象有第一手亲知的人，其认知地位并不相同（Hopkins 2011）[^hopkins-2011]。然而，如果这种粗糙表达主义是对的，这里就没有不对称：无论证言还是亲知，都不能用作知识来源（Meskin 2007: 115）。至于更精致的相对主义与表达主义形式，确实有过把它们与悲观论相连的尝试（前者见 McGonigal 2006 与 Andow 2015；后者见 Scruton 1974; Todd 2004; Franzén 2018；以及可谓 Gorodeisky & Marcus 2018）[^andow-2015][^franzén-2018][^gorodeisky-2018][^mcgonigal-2006][^scruton-1974][^todd-2004]。
+    step2: |-
+      有趣的是，基本版表达主义进路似乎也遇到与错误论、相对主义相似的障碍（见 Meskin 2006）[^meskin-2006]。悲观论者（见 §3.1.3 的细微区分）常常热衷于指出这样一种不对称：基于审美证言形成审美判断的人，与对对象有第一手亲知的人，其认知地位并不相同（Hopkins 2011）[^hopkins-2011]。然而，如果这种粗糙的表达主义是对的，这里就没有不对称：无论证言还是亲知，都不能用作知识来源（Meskin 2007: 115）。至于更精致的相对主义与表达主义形式，确实有过把它们与悲观论相连的尝试（前者见 McGonigal 2006 与 Andow 2015；后者见 Scruton 1974; Todd 2004; Franzén 2018；以及可谓 Gorodeisky 与 Marcus 2018）[^andow-2015][^franzén-2018][^gorodeisky-2018][^mcgonigal-2006][^scruton-1974][^todd-2004]。
   - id: 81
     kind: body
     source: |-
       Starting with expressivism, the expressivist can often (using the machinery developed by, e.g., Blackburn 1993)[^blackburn-1993] happily appeal to the key notions of truth, knowledge etc. that their realist counterparts can use. As such, there’s no concern that the pessimist would have to reject aesthetic knowledge in general alongside aesthetic knowledge from testimony. However, the concern for such views (discussed in, e.g., Meskin 2004: 71 and Robson & Sinclair 2023)[^meskin-2004][^robson-2023][^robson-2023-2] is that, once such realist notions are in place, it’s no longer clear that expressivism entails pessimism. We aren’t aware of any optimistic versions of expressivism in the aesthetic case but it’s worth noting that one of the most prominent versions of expressivism in ethics (Gibbard 1992: 174–88)[^gibbard-1992] allows that:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从表达主义说起：表达主义者常常可以（运用 Blackburn 1993 等人发展的机制）[^blackburn-1993] 欣然地诉诸其实在论对手所能使用的真、知识等关键概念。这样一来，就不必担心悲观论者要连带否定一般的审美知识和来自证言的审美知识。然而，对这类观点的担忧（例如 Meskin 2004: 71 与 Robson & Sinclair 2023 中的讨论）[^meskin-2004][^robson-2023][^robson-2023-2] 在于：一旦这些实在论概念就位，就不清楚表达主义是否还蕴含悲观论了。我们不知道美学情形中有任何乐观论版本的表达主义；但值得一提的是，伦理学中最著名的一种表达主义版本（Gibbard 1992: 174–88）[^gibbard-1992] 允许：
+    step2: |-
+      从表达主义说起：表达主义者常常可以（运用 Blackburn 1993 等人发展的机制）[^blackburn-1993] 欣然地诉诸其实在论对手所能使用的真、知识等关键概念。这样一来，就不必担心悲观论者要连带否定一般的审美知识和来自证言的审美知识。然而，对这类观点的担忧（例如 Meskin 2004: 71 与 Robson & Sinclair 2023 中的讨论）[^meskin-2004][^robson-2023][^robson-2023-2] 在于：一旦这些实在论概念就位，就不清楚表达主义是否还蕴含悲观论了。我们不知道美学情形中有任何乐观论版本的表达主义；但值得一提的是，伦理学中最著名的一种表达主义版本（Gibbard 1992: 174–88）[^gibbard-1992] 允许：
   - id: 82
     kind: body
     source: |-
       > When conditions are right and someone else finds a norm independently credible, I must take that as favoring my own accepting the norm, (Gibbard 1992: 180)[^gibbard-1992]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 当条件合适、而别人认为某条规范独立可信时，我必须把这看作支持我自己接受该规范的理由，（Gibbard 1992: 180）[^gibbard-1992]
+    step2: |-
+      > 当条件合适、而别人认为某条规范独立可信时，我必须把这看作支持我自己接受该规范的理由，（Gibbard 1992: 180）[^gibbard-1992]
   - id: 83
     kind: body
     source: |-
       which (given Gibbard’s view of moral judgements as favouring a norm) commits him to an at least somewhat optimistic view. Further Gibbard (1992: 52) seems inclined to paint a similar picture in the aesthetic case. The challenge for the pessimist, then, is to formulate a version of expressivism which follows the realist far enough to give a plausible account of aesthetic truth, argumentation etc. but doesn’t go so far as to also rule in appeals to aesthetic testimony. Of course, even if their favoured version of expressivism doesn’t entail pessimism, then the expressivist might still wish to be a pessimist but they would need some independent reason (of the kind we discuss in §5) for doing so.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这（鉴于 Gibbard 把道德判断看作支持规范的观点）使他承诺一种至少某种程度上的乐观论观点。此外，Gibbard（1992: 52）似乎倾向在审美情形中描绘相似的图景。于是，悲观论者的挑战是：构想出一种表达主义版本，它跟随实在论足够远，以致能给出关于审美真理、论证等等的合理说明，但不至于远到也把诉诸审美证言纳入其中。当然，即便他们所偏好的表达主义版本不蕴含悲观论，表达主义者也许仍想当悲观论者；但他们需要为此找一些独立的理由（即我们在 §5 讨论的那类理由）。
+    step2: |-
+      这（鉴于 Gibbard 把道德判断看作支持规范的观点）使他承诺了一种至少带有几分乐观论的观点。此外，Gibbard（1992: 52）似乎也倾向于在审美情形中描绘相似的图景。于是，悲观论者的挑战是：构想出一种表达主义版本，它跟随实在论足够远，能给出关于审美真理、论证等等的合理说明，但不至于远到也把诉诸审美证言纳入其中。当然，即便他们所偏好的表达主义版本不蕴含悲观论，表达主义者也许仍想当悲观论者；但他们需要为此找一些独立的理由（即我们在 §5 讨论的那类理由）。
   - id: 84
     kind: body
     source: |-
       What about relativism? A very similar challenge awaits here. The kind of crude relativism which easily leads to pessimism is, understandably, unpopular with aestheticians. Rather, any plausible form of relativism will have to account for (amongst much else) the widespread level of aesthetic agreement, the importance of aesthetic expertise and our practice of offering reasons for and against aesthetic judgements (for discussion of some contemporary forms of relativism see, e.g., Young 2009 and Goldman 1995; for some historical context see Korsmeyer 1975)[^goldman-1995][^korsmeyer-1975][^young-2009]. Once we have developed relativism this far, though, it isn’t always an easy matter to see why the relativist should be a pessimist. For example, as Meskin (2006: 113) highlights, the sophisticated relativist faces the difficulty of accounting for why aesthetic testimony may well have an asymmetrical status—in both of the senses mentioned above—in the context of like-minded valuers. And even more pessimistic relativists do tend to be rather attenuated in their pessimism; for example, Andow (2015: 217) seems happy to allow that the relativist views he discuss can sometimes enable us to legitimately arrive at aesthetic knowledge via testimony.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      相对主义又如何呢？这里等待着非常相似的挑战。那种容易导向悲观论的粗糙相对主义，在美学家中不受欢迎，这是可以理解的。相反，任何可信的相对主义形式都必须说明（除许多其他事情外）审美共识的广泛程度、审美专家能力的重要性，以及我们为审美判断提供支持与反对理由的实践（关于某些当代相对主义形式的讨论，例如见 Young 2009 与 Goldman 1995；一些历史脉络见 Korsmeyer 1975）[^goldman-1995][^korsmeyer-1975][^young-2009]。然而，一旦相对主义发展到这一步，要看清相对主义者为何应当成为悲观论者，就不总是件容易的事。例如，正如 Meskin（2006: 113）所指出的，精致的相对主义者在解释“在志趣相投的评价者之间，审美证言为何仍可能具有不对称地位”（上述两种意义上的不对称）时面临困难。而即便更为悲观论化的相对主义者，其悲观论也往往相当淡化；例如，Andow（2015: 217）似乎乐于允许：他所讨论的相对主义观点有时能让我们正当地经由证言获得审美知识。
+    step2: |-
+      相对主义又如何呢？这里等待着非常相似的挑战。那种容易导向悲观论的粗糙相对主义，在美学家中不受欢迎，这是可以理解的。相反，任何可信的相对主义形式都必须说明（除许多其他事情外）审美共识的广泛程度、审美专家能力的重要性，以及我们为审美判断提供支持与反对理由的实践（关于某些当代相对主义形式的讨论，例如见 Young 2009 与 Goldman 1995；一些历史脉络见 Korsmeyer 1975）[^goldman-1995][^korsmeyer-1975][^young-2009]。然而，一旦相对主义发展到这一步，要看清相对主义者为何应当成为悲观论者，就不总是件容易的事。例如，正如 Meskin（2006: 113）所指出的，精致的相对主义者在解释“在志趣相投的评价者之间，审美证言为何仍可能具有不对称地位”（上述两种意义上的不对称）时面临困难。而即便更为悲观化的相对主义者，其悲观论也往往相当淡化；例如，Andow（2015: 217）似乎乐于允许：他所讨论的那些相对主义观点，有时能让我们正当地经由证言获得审美知识。
   - id: 85
     kind: body
     source: |-
       #### 4.1.2 Realist Approaches: An Optimistic Response
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 4.1.2 实在论进路：一种乐观论回应
+    step2: |-
+      #### 4.1.2 实在论进路：一种乐观论回应
   - id: 86
     kind: body
     source: |-
       Let’s begin by considering the idea that aesthetic judgement is governed by a distinctive kind of epistemic norm which requires a certain kind of comprehension of the judgement in question—a kind which can only be attained through acquaintance. Budd (2003: 378–8) takes Tanner (2003: 33) to be suggesting a pessimistic argument of this kind but, as Budd (2003: 387–8) points out, it isn’t clear why understanding the claim that “*x* is beautiful” would require the experience of the determinate beauty which *x* possesses rather than just having a reasonable general grasp of the determinable property of beauty (just as understanding “*x* is green” might require our having some experience of greenness but doesn’t require our having experienced *x*’s particular determinate share of greenness). In order to ascribe a quality to something, we typically need basic familiarity with the concept being ascribed to the object of appreciation. We do not need familiarity or an understanding about how the specific quality is realised in the object of appreciation in order to form the belief that the quality is present (Budd 2003: 388)[^budd-2003]. Lord (2018) argues for the importance of being acquainted with a particular determinate aesthetic property but he doesn’t take this to place any limit (let alone an epistemic limit) on the permissibility of our aesthetic judgements. The burden of proof remains on the pessimist to explain why we would need a distinctive kind of comprehension for aesthetic belief formation, and to explain why the standards for knowledge in the aesthetic case are different from those in mundane cases.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      让我们从这样一个观念开始：审美判断受一种独特的认知规范支配，这种规范要求对相关判断有某种理解——而这种理解只能通过亲知获得。Budd（2003: 378–8）认为 Tanner（2003: 33）提示了这类悲观论论证；但正如 Budd（2003: 387–8）指出的，并不清楚为什么理解“*x* 是美的”这一主张会要求经验到 *x* 所具有的确定之美，而不是仅仅对“美”这一可确定性质有合理的总体把握（正如理解“*x* 是绿的”也许要求我们对绿色有所经验，但不要求我们经验过 *x* 那一特定的确定绿色）。为了把某种性质归于某物，我们通常需要对被赋予该性质的概有基本的熟悉。我们不需要熟悉或理解该特定性质在欣赏对象中如何实现，就能形成“该性质在场”的信念（Budd 2003: 388）[^budd-2003]。Lord（2018）论证亲知某种特定的确定审美性质的重要性，但他不认为这会给我们审美判断的可许性设置任何限制（更不用说认知限制）。举证责任仍在悲观论者一方：解释为什么审美信念的形成需要一种独特的理解，并解释为什么审美情形中的知识标准不同于日常情形。
+    step2: |-
+      让我们从这样一个观念开始：审美判断受一种独特的认知规范支配，这种规范要求对相关判断有某种理解——而这种理解只能通过亲知获得。Budd（2003: 378–8）认为 Tanner（2003: 33）提示了这类悲观论论证；但正如 Budd（2003: 387–8）指出的，并不清楚为什么理解“*x* 是美的”这一主张会要求经验到 *x* 所具有的确定之美，而不是仅仅对“美”这一可确定性质有合理的总体把握（正如理解“*x* 是绿的”也许要求我们对绿色有所经验，但不要求我们经验过 *x* 那一特定的确定绿色）。为了把某种性质归于某物，我们通常需要对被赋予该性质的概念有基本的熟悉。我们不需要熟悉或理解该特定性质在欣赏对象中如何实现，就能形成“该性质在场”的信念（Budd 2003: 388）[^budd-2003]。Lord（2018）论证亲知某种特定的确定审美性质的重要性，但他不认为这会给我们审美判断的可许性设置任何限制（更不用说认知限制）。举证责任仍在悲观论者一方：解释为什么审美信念的形成需要一种独特的理解，并解释为什么审美情形中的知识标准不同于日常情形。
   - id: 87
     kind: body
     source: |-
       #### 4.1.3 “Moderately Optimistic Approaches”: A (More) Optimistic Response
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 4.1.3 “温和乐观论进路”：一种（更）乐观的回应
+    step2: |-
+      #### 4.1.3 “温和乐观论进路”：一种（更）乐观的回应
   - id: 88
     kind: body
     source: |-
       The primary difficulty facing accounts which insist on (i)—the unreliability of aesthetic testifiers—is the difficulty we face in verifying this claim (see §3.1.3). The primary difficulty facing accounts which insist on (ii)—the absence of viable information to identify the reliability of aesthetic testifiers—is the difficulty we face in maintaining the possibility of aesthetic knowledge through other means. As noted by Hopkins (2011: 141) it is difficult for the latter kind of accounts to proceed without mandating agnosticism. Upon this account there seems to be no real epistemic asymmetry between aesthetic testimony and one’s first-hand perception (particularly since recent discussion (see, e.g., Irvin 2014 and Lopes 2014)[^irvin-2014][^lopes-2014] has provided a number of challenges to our reliability at judging our own aesthetic competence).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      坚持 (i)——审美证言者不可靠——的说明，面临的首要困难是我们难以核实这一主张（见 §3.1.3）。坚持 (ii)——缺乏可用信息来确定审美证言者的可靠性——的说明，面临的首要困难是我们难以维持通过其他途径获得审美知识的可能。正如 Hopkins（2011: 141）指出的，后一类说明若不想强推不可知论，就难以推进。按这一说明，审美证言与个人第一手知觉之间似乎没有真正的认知不对称（尤其是因为晚近的讨论（例如见 Irvin 2014 与 Lopes 2014）[^irvin-2014][^lopes-2014] 对我们判断自身审美胜任力的可靠性提出了若干质疑）。
+    step2: |-
+      坚持 (i)——审美证言者不可靠——的说明，首要困难在于我们难以核实这一主张（见 §3.1.3）。坚持 (ii)——缺乏可用信息来确定审美证言者的可靠性——的说明，首要困难在于我们难以维持通过其他途径获得审美知识的可能。正如 Hopkins（2011: 141）指出的，后一类说明若不想强推不可知论，就难以推进。按这一说明，审美证言与个人第一手知觉之间似乎没有真正的认知不对称（尤其是因为晚近的讨论（例如见 Irvin 2014 与 Lopes 2014）[^irvin-2014][^lopes-2014] 对我们判断自身审美胜任力的可靠性提出了若干质疑）。
   - id: 89
     kind: body
     source: |-
       ### 4.2 Optimistic Responses to Unusability Pessimism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2 对不可用悲观论的乐观论回应
+    step2: |-
+      ### 4.2 对不可用悲观论的乐观论回应
   - id: 90
     kind: body
     source: |-
       #### 4.2.1 Norms of Use: An Optimistic Response
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 4.2.1 使用规范：一种乐观论回应
+    step2: |-
+      #### 4.2.1 使用规范：一种乐观论回应
   - id: 91
     kind: body
     source: |-
       The most common optimistic responses to norms of use are based around the objection which Hopkins himself considers near the start of this discussion (2011: 145). That is, the challenge of defending the view according to which there can be beliefs governed by non-epistemic norms. It is quite common (Simion et al. 2016)[^simion-2016] for epistemic norms (or aims or functions but these, otherwise significant, differences are of little import here) to be taken to constitutively govern beliefs, such that something even partially governed by non-epistemic norms just couldn’t be a belief. Indeed, it is parallel considerations which lead Hills (2015) to consider positing a new kind of mental state (uliefs) when it comes to moral judgements, which she takes to be constitutively governed by understanding (rather than knowledge). Hopkins’ own defence here focuses (2011: 146–8) on arguing that there are familiar examples where we are used to employing non-epistemic norms of belief formation. However, there have been a number of challenges (McKinnon 2017)[^mckinnon-2017] to the claim that these examples really involve any non-epistemic norms.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      针对使用规范的最常见乐观论回应，基于 Hopkins 本人在讨论开头附近所考虑的反对（2011: 145）。也就是说，挑战在于为这样一种观点辩护：可以存在受非认知规范支配的信念。人们相当普遍地（Simion et al. 2016）[^simion-2016] 认为认知规范（或目标、功能——这些差异虽然重要，但在此无关紧要）构成性地支配信念，以至于任何哪怕部分受非认知规范支配的东西，根本就不能是信念。事实上，正是平行的考虑使 Hills（2015）考虑在道德判断方面设定一种新的心理状态（uliefs），她认为这种状态由理解（而非知识）构成性地支配。Hopkins 本人的辩护（2011: 146–8）则聚焦于论证：有一些我们惯常使用非认知信念形成规范的熟悉例子。然而，对这些例子是否真的涉及任何非认知规范，已有若干质疑（McKinnon 2017）[^mckinnon-2017]。
+    step2: |-
+      针对使用规范的最常见乐观论回应，基于 Hopkins 本人在讨论开头附近所考虑的反对（2011: 145）。也就是说，挑战在于为这样一种观点辩护：可以存在受非认知规范支配的信念。人们相当普遍地（Simion et al. 2016）[^simion-2016] 认为，认知规范（或目标、功能——这些差异虽然重要，在此却无关紧要）构成性地支配信念，以至于任何哪怕部分受非认知规范支配的东西，根本就不能是信念。事实上，正是平行的考虑使 Hills（2015）考虑在道德判断方面设定一种新的心理状态（uliefs），她认为这种状态由理解（而非知识）构成性地支配。Hopkins 本人的辩护（2011: 146–8）则聚焦于论证：有一些我们惯常使用非认知信念形成规范的熟悉例子。然而，对这些例子是否真的涉及任何非认知规范，已有若干质疑（McKinnon 2017）[^mckinnon-2017]。
   - id: 92
     kind: body
     source: |-
       Of course, the view that aesthetic judgements are beliefs doesn’t seem as core to the unusability position as their insistence on non-epistemic norms. Given this, it is open to them to defend their position by identifying aesthetic judgements with some novel cognitive state (such as Hills’ uliefs) or to embrace some kind of sophisticated non-cognitivism about aesthetic judgements. Finally, even if we did accept that there could be such non-epistemic norms (whether of belief or otherwise), there still remains the further challenge of explaining which norms are active and why. Much recent work in the aesthetic testimony debate could be seen as an attempt to answer these challenges.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当然，“审美判断是信念”这一观点对不可用论立场来说，似乎不像他们对非认知规范的坚持那样核心。鉴于此，他们可以通过把审美判断等同于某种新奇的认知状态（如 Hills 的 uliefs）来捍卫自己的立场，或采纳关于审美判断的某种精致非认知主义。最后，即便我们接受可以存在这类非认知规范（无论关乎信念还是其他），仍有一个进一步的挑战：说明哪些规范在起作用、以及为什么。审美证言争论中的许多晚近工作，都可以视为对这类挑战的回答尝试。
+    step2: |-
+      当然，“审美判断是信念”这一观点对不可用论立场来说，似乎不像他们对非认知规范的坚持那样核心。鉴于此，他们可以通过把审美判断等同于某种新奇的认知状态（如 Hills 的 uliefs）来捍卫自己的立场，也可以采纳关于审美判断的某种精致非认知主义。最后，即便我们接受可以存在这类非认知规范（无论关乎信念还是其他），仍有一个进一步的挑战：说明哪些规范在起作用，以及为什么。审美证言争论中的许多晚近工作，都可以视为对这类挑战的回答尝试。
   - id: 93
     kind: body
     source: |-
       #### 4.2.2 Autonomy: An Optimistic Response
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 4.2.2 自主性：一种乐观论回应
+    step2: |-
+      #### 4.2.2 自主性：一种乐观论回应
   - id: 94
     kind: body
     source: |-
       One difficulty with the concern from autonomy is that the argument is more complex than it might first seem. It might, at first seem that autonomy is of primary value for our aesthetic engagements and deference undermines this. Nevertheless, at various points in Nguyen’s (2020a) argument it appears that prolonged aesthetic engagement (appreciative activity) is of primary value in our aesthetic lives, autonomy is regarded the best way in which we can achieve it (and deference is seen to undermine it). In which case it seems that autonomy emerges as only instrumentally valuable, a means towards attaining prolonged aesthetic activity. When engaging with this argument we need to clarify precisely how valuable autonomous activity is, how valuable prolonged aesthetic activity is; we also need to clarify what kind of value are talking about. Moreover, if prolongation of aesthetic activity is of primary importance, it is also worth highlighting that deferential engagements do not necessarily undermine prolonged activity (see §4.2.4). Deference permits us the same opportunities for aesthetic engagement as non-deference, the only difference is that we haven’t suspended judgement on the matter first.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      来自自主性的关切有一个困难：其论证比乍看之下更复杂。乍看，似乎是自主性对我们的审美投入具有首要价值，而顺从损害了它。然而，在 Nguyen（2020a）论证的若干节点上，似乎延长的审美投入（欣赏活动）才是我们审美生活中的首要价值，自主性被视为达成它的最佳方式（而顺从被视为破坏它）。若是如此，自主性似乎就只是工具性的价值——达成延长审美活动的手段。处理这一论证时，我们需要澄清自主活动究竟有多大价值、延长的审美活动究竟有多大价值；我们还需要澄清所谈论的是何种价值。此外，若审美活动的延长具有首要重要性，还值得强调：顺从性的投入并不必然损害延长的活动（见 §4.2.4）。顺从给予我们的审美投入机会与非顺从相同，唯一差别在于我们没有先对此事悬置判断。
+    step2: |-
+      来自自主性的关切有一个困难：其论证比乍看之下更复杂。乍看，似乎是自主性对我们的审美投入具有首要价值，而顺从损害了它。然而，在 Nguyen（2020a）论证的若干节点上，显得延长的审美投入（欣赏活动）才是我们审美生活中的首要价值，自主性则被视为达成它的最佳方式（而顺从被视为破坏它）。若是如此，自主性似乎就只剩工具性的价值——达成延长审美活动的手段。处理这一论证时，我们需要澄清自主活动究竟有多大价值、延长的审美活动究竟有多大价值；还需要澄清所谈论的是何种价值。此外，若审美活动的延长具有首要重要性，还值得强调：顺从性的投入并不必然损害延长的活动（见 §4.2.4）。顺从给予我们的审美投入机会与非顺从相同，唯一差别在于我们没有先对此事悬置判断。
   - id: 95
     kind: body
     source: |-
       #### 4.2.3 Authenticity and Aesthetic Personality: An Optimistic Response
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 4.2.3 本真性与审美个性：一种乐观论回应
+    step2: |-
+      #### 4.2.3 本真性与审美个性：一种乐观论回应
   - id: 96
     kind: body
     source: |-
       When facing the pessimistic concern that deference to aesthetic testimony damages the meaningful aesthetic attachments that one forms to objects in a manner which undermines our aesthetic personalities, one thing we naturally need clarification on is the nature of an aesthetic personality. Aesthetic personality roughly seems to reflect one’s aesthetic tastes, sensibilities, and more broadly one’s disposition to form certain kinds of aesthetic judgements. But in that case, note that one’s aesthetic personalities change, mature and develop all the time. It would be odd to insist that we ought to resist any aesthetic transformation or development, we certainly would not want to retain the same aesthetic attachments that we have had since childhood. Defenders of this kind of account need to clarify why discarding aesthetic judgements on the basis of aesthetic testimony is problematic—as we seem to discard judgements that we once held dear all the time.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      面对这一悲观论关切——顺从审美证言会以损害我们审美个性的方式，破坏我们与对象建立的有意义的审美依恋——我们自然需要澄清的一点是审美个性的本性。审美个性大致似乎反映一个人的审美趣味、感受力，更宽泛地说，反映其形成某些种类审美判断的倾向。但若是如此，请注意：一个人的审美个性无时无刻不在变化、成熟与发展。坚持我们应当抵制任何审美转变或发展，会显得奇怪；我们当然不会想要保留自童年以来一直拥有的那些审美依恋。这类说明的辩护者需要澄清：为什么基于审美证言丢弃审美判断是有问题的——毕竟我们似乎一直在丢弃曾经珍视的判断。
+    step2: |-
+      面对这一悲观论关切——顺从审美证言会以损害我们审美个性的方式，破坏我们与对象建立的有意义的审美依恋——我们自然需要澄清的一点，是审美个性的本性。审美个性大致似乎反映一个人的审美趣味、感受力，更宽泛地说，反映其形成某些类型审美判断的倾向。但若是如此，请注意：一个人的审美个性无时无刻不在变化、成熟与发展。坚持我们应当抵制任何审美转变或发展，会显得奇怪；我们当然不会想要保留自童年以来一直拥有的那些审美依恋。这类说明的辩护者需要澄清：为什么基于审美证言丢弃审美判断是有问题的——毕竟我们似乎一直在丢弃曾经珍视的判断。
   - id: 97
     kind: body
     source: |-
       Bräuer’s (2023) approach is a little different. Bräuer argues that aesthetic testimony possesses its asymmetrical epistemic status not because it forces us to abandon certain aesthetic attachments, but because it forces us to make aesthetic judgements which fail to reflect who we are—and for better or for worse—we are attached to an ideal of authenticity. However, clarification as to how exactly our authenticity is undermined here would be helpful.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      布罗伊尔（2023）的进路稍有不同。布罗伊尔论证：审美证言具有不对称的认知地位，不是因为它迫使我们放弃某些审美依恋，而是因为它迫使我们作出未能反映“我们是谁”的审美判断——而无论好坏，我们都系着于一种本真性的理想。不过，若能澄清我们的本真性在这里究竟如何被损害，会很有帮助。
+    step2: |-
+      布罗伊尔（2023）的进路稍有不同。布罗伊尔论证：审美证言之所以具有不对称的认知地位，不是因为它迫使我们放弃某些审美依恋，而是因为它迫使我们作出未能反映“我们是谁”的审美判断——而无论好坏，我们都系着于一种本真性的理想。不过，若能澄清我们的本真性在这里究竟如何被损害，会很有帮助。
   - id: 98
     kind: body
     source: |-
       #### 4.2.4 Aesthetic Development: A (More) Optimistic Response
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 4.2.4 审美发展：一种（更）乐观的回应
+    step2: |-
+      #### 4.2.4 审美发展：一种（更）乐观的回应
   - id: 99
     kind: body
     source: |-
       Turning to the concern that deference to aesthetic testimony thwarts our aesthetic development. It is important to once again observe (following §4.2.2) that attaining some information won’t necessarily deter one from pursuing the matter, for oneself at a later date. In fact, within the aesthetic domain, hearing testimony on a certain matter might be just the thing to motivate someone lacking all confidence in their own aesthetic judgement to engage with the matter for themselves. Wallbank and Reisner (2020) bring this out in a paper which argues that deference can be an epistemic facilitator, accepting the belief in question can be a launchpad for further investigation and engagement. Even if deference to testimony entails accepting falsehoods, it might—in the long-run—prove to be epistemically beneficial in virtue of serving as a launchpad for further engagement hereby giving us the potential to access to further truths. As Ransom (2019) and Lord (2018) themselves acknowledge, deference to aesthetic testimony emerges here as particularly beneficial for individuals who are particularly aesthetically naive and in need of encouragement.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      转向“顺从审美证言会阻碍我们审美发展”这一关切。重要的是再次指出（依循 §4.2.2）：获取某些信息并不必然阻止一个人日后亲自探究此事。事实上，在审美领域中，听到关于某事的证言，也许恰好能激励一个对自己审美判断毫无信心的人亲自投入此事。Wallbank 与 Reisner（2020）在一篇论文中阐明了这一点：他们论证顺从可以成为认知上的促进因素，接受相关信念可以成为进一步调查与投入的跳板。即便顺从证言意味着接受虚假，长远来看，它也可能因为充当进一步投入的跳板而证明有认知上的助益，从而让我们有潜力获得更多真理。正如 Ransom（2019）与 Lord（2018）自己承认的，顺从审美证言在这里显得对审美上特别稚嫩、需要鼓励的人尤其有益。
+    step2: |-
+      转向“顺从审美证言会阻碍我们审美发展”这一关切。重要的是再次指出（依循 §4.2.2）：获取某些信息并不必然阻止一个人日后亲自探究此事。事实上，在审美领域中，听到关于某事的证言，也许恰能激励一个对自己审美判断毫无信心的人亲自投入此事。Wallbank 与 Reisner（2020）在一篇论文中阐明了这一点：他们论证顺从可以成为认知上的促进因素——接受相关信念，可以成为进一步调查与投入的跳板。即便顺从证言意味着接受虚假，长远来看，它也可能因为充当进一步投入的跳板而证明有认知上的助益，从而让我们有潜力获得更多真理。正如 Ransom（2019）与 Lord（2018）自己承认的，顺从审美证言在这里显得对审美上特别稚嫩、需要鼓励的人尤其有益。
   - id: 100
     kind: body
     source: |-
