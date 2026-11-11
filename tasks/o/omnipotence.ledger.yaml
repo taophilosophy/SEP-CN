@@ -281,62 +281,92 @@ segments:
     kind: body
     source: |-
       Moreover, different possible goods combined in different possible ways may constitute different, logically independent, possible total goods of the same value. The following simple example illustrates this point. Let it be assumed that the pleasure which would be produced by John’s eating a mushroom pizza for dinner tonight and the pleasure that would be produced by John’s eating a garlic pizza for dinner tonight are logically independent possible goods of the same value. All other things being equal, a possible world containing John’s eating a mushroom pizza for dinner tonight and John’s not eating a garlic pizza tonight, and a possible world containing John’s eating a garlic pizza for dinner tonight and John’s not eating a mushroom pizza for dinner tonight, constitute different possible goods of the same value. Generalizing from examples of this kind, it appears that if some possible world is best, second best, third best, and so on, then there are *other* possible worlds, *not exactly resembling them*, which are best, second best, third best, and so on.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，不同的可能善以不同可能方式组合，可构成价值相同但彼此不同、逻辑上独立的可能总体善。下面这个简单例子说明这一点。假定约翰今晚吃蘑菇比萨所得快乐，与约翰今晚吃大蒜比萨所得快乐，是价值相同、逻辑上独立的可能善。其他条件相同时，一个包含约翰今晚吃蘑菇比萨且不吃大蒜比萨的可能世界，与一个包含约翰今晚吃大蒜比萨且不吃蘑菇比萨的可能世界，构成价值相同而彼此不同的可能善。从此类例子推广，看来若某些可能世界是最好、次好、第三好等等，则另有 *别的* 可能世界，*与它们并不完全相似*，也是最好、次好、第三好等等。
+    step2: |-
+      此外，不同的可能善以不同方式组合，可构成价值相同却彼此不同、逻辑上独立的可能总体善。下面这个简单例子即可说明。假定约翰今晚吃蘑菇比萨所得的快乐，与约翰今晚吃大蒜比萨所得的快乐，是价值相同、逻辑上独立的可能善。在其他条件相同的情况下，一个包含“约翰今晚吃蘑菇比萨且不吃大蒜比萨”的可能世界，与一个包含“约翰今晚吃大蒜比萨且不吃蘑菇比萨”的可能世界，构成了价值相同却彼此不同的可能善。由此类例子推广开来，看来若某些可能世界是最好、次好、第三好等等，则另有 **别的** 可能世界，**与它们并不完全相似**，同样是最优、次优、第三优等等。
+
   - id: 32
     kind: body
     source: |-
       So, for any possible pair of coexistent God-like omnipotent agents, it appears that one member of that pair could *endeavor to actualize* a different, equally good, world than the other member of that pair, even given their hypothesized necessary epistemic, moral, and aesthetic perfection. In the light of the *reductio ad absurdum* presented earlier, it appears to follow that such pairs are impossible.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，对于任何一对可能的共存类上帝全能行动者，看来其中一个成员可以 *力图现实化* 一个与另一个成员所现实化的世界不同而同样好的世界，即便假定它们在认知、道德与审美上必然完善。鉴于前文提出的 *归谬法*，看来可推出：这类成对者是不可能的。
+    step2: |-
+      因此，对于任何一对可能共存的类上帝全能行动者，看来其中一个成员可以 **力图现实化** 一个与另一成员不同的、同样好的世界，即便假定它们在认知、道德与审美上必然完善。鉴于前文所述的 **归谬法**，看来可以推出：这样的成对者不可能存在。
+
   - id: 33
     kind: body
     source: |-
       Leibniz argued that there is a uniquely optimal possible world by appealing to the *Principle of Sufficient Reason* and the *Identity of Indiscernibles*, notoriously concluding that the actual world is *the best of all possible worlds*. Among contemporary philosophers, both the *Principle of Sufficient Reason* and the *Identity of Indiscernibles* are controversial.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      莱布尼茨诉诸 *充足理由律* 与 *不可分辨者的同一*，论证存在一个唯一最优的可能世界，并声名不佳地得出结论：现实世界是 *一切可能世界中最好的*。在当代哲学家中，*充足理由律* 与 *不可分辨者的同一* 都颇有争议。
+    step2: |-
+      莱布尼茨诉诸 **充足理由律** 与 **不可分辨者的同一**，论证存在一个唯一最优的可能世界，并得出了那个声名不佳的结论：现实世界是 **一切可能世界中最好的**。在当代哲学家中，**充足理由律** 与 **不可分辨者的同一** 都颇有争议。
+
   - id: 34
     kind: body
     source: |-
       Another possible defense of the possibility of a plurality of coexistent omnipotent agents appeals to quantum mechanics. Quantum *entanglement* seems to be a unique physical phenomenon whereby concurrent activities of diverse contingently existing substantial individuals are directly coordinated in virtue of a necessary linkage of some sort between those substantial individuals. By drawing an analogy with this phenomenon, one might argue that there could be coexistent omnipotent agents who necessarily avoid stalemates. Quantum mechanics implies that there exist pairs of entangled micro-particles such that it is causally necessary that one member of the pair is *spin up* if and only if the other member of the pair is *spin up*, independently of the locations of those micro-particles. Albert Einstein skeptically described the theoretical phenomenon of entanglement as “spukhafte Fernwirkung,” that is, as “spooky action at a distance.” Nowadays, however, entanglement is an experimentally confirmed part of physics. Arguably, by analogy with entanglement, if a plurality of coexistent omnipotent agents is possible, then there could be “entangled” omnipotent agents, $A_1$ and $A_2$, such that it is metaphysically necessary that $A_1$ endeavors to bring about a certain state of affairs if and only if $A_2$ endeavors to bring about the same state of affairs. But quantum mechanics further implies that there are entangled pairs of micro-particles such that it is causally necessary that one member of the pair is *spin up* if and only if the other member of the pair is *spin down*. The properties of *being spin up* and *being spin down* are contraries. Thus, if the analogy with quantum entanglement is taken seriously, then by parity of reasoning, one should conclude that if a plurality of necessarily cooperating coexistent omnipotent agents is possible, then *possibly*, there are “entangled” omnipotent agents, $A_1$ and $A_2$, such that it is metaphysically necessary that $A_1$ endeavors to act in some way if and only if $A_2$ endeavors to act in a *contrary* way. Given this conclusion, and in the light of the *reductio ad absurdum* of the possibility of a plurality of coexistent omnipotent agents presented earlier, an argument in favor of such a possibility by analogy with quantum entanglement undermines itself, thereby reinforcing that *reductio*. So, one cannot credibly defend the metaphysical possibility of a plurality of coexistent omnipotent agents by drawing an analogy with the phenomenon of quantum entanglement.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对多个共存全能行动者之可能性的另一种辩护，诉诸量子力学。量子 *纠缠* 似乎是一种独特的物理现象：多个偶然存在的不同实体个体，其同时发生的活动凭借这些实体个体之间某种必然联系而直接协调。借与这一现象类比，或可论证：可能存在必然避免僵局的共存全能行动者。量子力学蕴含存在成对的纠缠微观粒子，使得其中一个成员 *自旋向上* 当且仅当另一个成员 *自旋向上*，这在因果上是必然的，与这些微观粒子的位置无关。阿尔伯特·爱因斯坦曾以怀疑口吻把纠缠这一理论现象称为“spukhafte Fernwirkung”，即“幽灵般的超距作用”。然而如今，纠缠已是物理学中经实验证实的一部分。可以说，借与纠缠类比，若多个共存全能行动者是可能的，就可能存在“纠缠的”全能行动者 $A_1$ 与 $A_2$，使得形而上学上必然地：$A_1$ 力图造成某一事态，当且仅当 $A_2$ 力图造成同一事态。但量子力学还蕴含存在成对的纠缠微观粒子，使得其中一个成员 *自旋向上* 当且仅当另一个成员 *自旋向下*，这在因果上是必然的。*自旋向上* 与 *自旋向下* 这两种性质是相反的。于是，若认真对待与量子纠缠的类比，则依同理可推出：若多个必然合作的共存全能行动者是可能的，那么 *可能地*，存在“纠缠的”全能行动者 $A_1$ 与 $A_2$，使得形而上学上必然地：$A_1$ 力图以某种方式行动，当且仅当 $A_2$ 力图以 *相反* 的方式行动。有了这一结论，再鉴于前文关于多个共存全能行动者之可能性的 *归谬法*，借量子纠缠类比来支持这种可能性的论证便自我拆台，反而强化了那个 *归谬法*。因此，不能靠与量子纠缠现象类比，来可信地辩护多个共存全能行动者的形而上学可能性。
+    step2: |-
+      对多个共存全能行动者之可能性的另一种辩护，诉诸量子力学。量子 **纠缠** 似乎是种独特的物理现象：多个偶然存在的不同实体个体，其同时发生的活动凭借彼此之间某种必然联系而直接协调。借与这一现象类比，或可论证：可能存在必然避免僵局的共存全能行动者。量子力学蕴含存在成对的纠缠微观粒子，使得其中一个成员 **自旋向上** 当且仅当另一个成员 **自旋向上**，这在因果上是必然的，且与这些微观粒子的位置无关。阿尔伯特·爱因斯坦曾以怀疑口吻把纠缠这一理论现象称为“spukhafte Fernwirkung”，即“幽灵般的超距作用”。然而时至今日，纠缠已是物理学中经实验证实的一部分。可以说，借与纠缠类比：若多个共存全能行动者是可能的，就可能存在“纠缠的”全能行动者 $A_1$ 与 $A_2$，使得形而上学上必然地，$A_1$ 力图造成某一事态当且仅当 $A_2$ 力图造成同一事态。但量子力学还蕴含存在成对的纠缠微观粒子，使得其中一个成员 **自旋向上** 当且仅当另一个成员 **自旋向下**，这在因果上是必然的。**自旋向上** 与 **自旋向下** 是相反的性质。于是，若认真对待与量子纠缠的类比，则依同理可推出：若多个必然合作的共存全能行动者是可能的，那么 **可能地**，存在“纠缠的”全能行动者 $A_1$ 与 $A_2$，使得形而上学上必然地，$A_1$ 力图以某种方式行动当且仅当 $A_2$ 力图以 **相反** 的方式行动。有了这一结论，再鉴于前文关于多个共存全能行动者之可能性的 **归谬法**，借量子纠缠类比来支持这种可能性的论证便自我拆台，反而强化了那个 **归谬法**。因此，不能靠与量子纠缠现象类比，来可信地辩护多个共存全能行动者的形而上学可能性。
+
   - id: 35
     kind: body
     source: |-
       Finally, could one credibly defend such a metaphysical possibility via the hypothesis that it is metaphysically possible for there to be a plurality of necessarily indiscernible omnipotent God-like beings (in the Leibnizian sense of *indiscernible*)? Because a plurality of *necessarily* indiscernible objects is of dubious intelligibility, such a defense would not be credible. Doubts about the intelligibility of such a plurality arise because of perplexities concerning the individuation and separation of any pair of necessarily indiscernible objects, and because positing the existence of a plurality of such objects is metaphysically extravagant and gratuitous. Indeed it seems that there is just as much reason to posit indefinitely many objects of the sort in question as there is to posit a pair of them, whereas the intelligibility of a *necessarily self-indiscernible* object is not in doubt. A representative example of a hypothetical plurality of necessarily indiscernible objects is a plurality of *necessarily coincident* geometrical points. In addition to the perplexities concerning the individuation and separation of any pair of such points, the assumption that it is metaphysically possible for there to be a plurality of necessarily coincident points is metaphysically frivolous. Post-Scholastic ridicule of the sort that was directed at the alleged ontological excesses of the Schoolmen, e.g., the query “How many angels may fit upon the point of a needle?”, is quite appropriately directed at metaphysical hypotheses of this sort. For these reasons, the intelligibility of a plurality of necessarily coincident geometrical points is suspect; the same is true of the intelligibility of a plurality of necessarily indiscernible omnipotent God-like beings.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，能否借这一假设——形而上学上可能存在多个必然不可分辨的类上帝全能存在者（*不可分辨* 取莱布尼茨意义）——可信地辩护上述形而上学可能性？既然多个 *必然* 不可分辨的对象的可理解性可疑，这种辩护便不可信。对这类多数的可理解性的怀疑，源于任何一对必然不可分辨对象在个体化与分离上的困惑，也源于设定多个此类对象存在在形而上学上铺张而多余。其实，设定这类对象无限多个的理由，似乎与设定一对它们的理由一样多；而一个 *必然自我不可分辨* 的对象的可理解性并无疑问。假想中多个必然不可分辨对象的一个代表例子，是多个 *必然重合* 的几何点。除了任何一对此类点在个体化与分离上的困惑之外，假定形而上学上可能存在多个必然重合的点，也是形而上学上轻浮的。后经院时代针对经院学者所谓本体论过度（例如“一根针尖上能站几个天使？”）的讥讽，用来针对此类形而上学假设，倒颇为贴切。由于这些理由，多个必然重合几何点的可理解性可疑；多个必然不可分辨的类上帝全能存在者的可理解性亦然。
+    step2: |-
+      最后，能否借这一假设——形而上学上可能存在多个必然不可分辨的类上帝全能存在者（**不可分辨** 取莱布尼茨意义）——可信地辩护上述形而上学可能性？既然多个 **必然** 不可分辨对象的可理解性本身可疑，这种辩护便不可信。人们怀疑这类多数的可理解性，是因为任何一对必然不可分辨对象在个体化与分离上令人困惑，且设定多个此类对象存在在形而上学上铺张而多余。其实，设定这类对象无限多个的理由，似乎与设定一对的理由一样多；而一个 **必然自我不可分辨** 的对象的可理解性并无疑问。假想中多个必然不可分辨对象的一个代表例子，是多个 **必然重合** 的几何点。除了任何一对此类点在个体化与分离上的困惑，假定形而上学上可能存在多个必然重合的点，本身也是形而上学上的轻浮之举。后经院时代针对经院学者所谓本体论过度（例如“一根针尖上能站几个天使？”）的讥讽，用来针对此类形而上学假设，倒颇为贴切。由于这些理由，多个必然重合几何点的可理解性可疑；多个必然不可分辨的类上帝全能存在者，同样如此。
+
   - id: 36
     kind: body
     source: |-
       Could an agent be accidentally omnipotent? At first glance, this appears possible, but there is the following argument for the opposite view. On the assumption that God exists, he has necessary existence, is essentially not temporally limited, and is essentially omnipotent. But there could not be two coexistent omnipotent agents. Thus, on the assumption that God exists, an accidentally omnipotent being is impossible.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个行动者可能偶然全能吗？乍看之下这似乎可能，但有下述论证支持相反看法。假定上帝存在，则他有必然存在，本质上不受时间限制，且本质上是全能的。但不可能有两个共存的全能行动者。因此，假定上帝存在，一个偶然全能的存在者是不可能的。
+    step2: |-
+      一个行动者可能偶然全能吗？乍看之下似乎可能，但有下述论证支持相反看法：假定上帝存在，则上帝具有必然存在，本质上不受时间限制，且本质上是全能的；然而不可能有两个共存的全能行动者。因此，假定上帝存在，一个偶然全能的存在者便不可能。
+
   - id: 37
     kind: body
     source: |-
       This argument against the possibility of accidental omnipotence presupposes traditional Western theism. However, traditional Western theism is highly controversial, and *neutrality* about whether God exists has some advantages. If one is neutral about whether God exists, then omnipotence should *not* be assumed to be attributable *only* to the God of traditional Western theism or *only* to an essentially omnipotent being.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一反对偶然全能之可能性的论证，预设了传统西方有神论。但传统西方有神论极具争议，而在上帝是否存在上保持 *中立* 自有好处。若在上帝是否存在上保持中立，便 *不应* 假定全能 *只* 可归于传统西方有神论的上帝，或 *只* 可归于本质全能的存在的。
+    step2: |-
+      这一反对偶然全能之可能性的论证，预设了传统西方有神论。然而传统西方有神论极具争议，而在上帝是否存在上保持 **中立** 自有其好处。若在上帝是否存在上保持中立，便 **不应** 假定全能 **只** 可归于传统西方有神论的上帝，或 **只** 可归于本质全能的存在者。
+
   - id: 38
     kind: body
     source: |-
       ## 2. The Scope of Omnipotence
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 全能的范围
+    step2: |-
+      ## 2 全能的范围
+
   - id: 39
     kind: body
     source: |-
       The intelligibility of the notion of omnipotence has been challenged by the so-called paradox or riddle of the stone. Can an omnipotent agent, Jane, bring it about that there is a stone of some mass, *m*, which Jane cannot move? If the answer is ‘yes’, then there is a state of affairs that Jane cannot bring about, namely, (S1) *that a stone of mass m moves*. On the other hand, if the answer is ‘no’, then there is another state of affairs that Jane cannot bring about, namely, (S2) *that there is a stone of mass m which Jane cannot move*. Thus, it seems that whether or not Jane can make the stone in question, there is some possible state of affairs that an omnipotent agent cannot bring about. And this appears to be paradoxical.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      全能概念的可理解性，受到所谓石头悖论或石头之谜的挑战。全能行动者简，能否使存在一块质量为 *m* 的石头，而简搬不动它？若答“能”，则有一个简无法造成的事态，即 (S1) *一块质量为 m 的石头移动*。另一方面，若答“不能”，则另有简无法造成的事态，即 (S2) *存在一块质量为 m 的石头而简搬不动它*。于是看来，无论简能否造出那块石头，总有某个可能事态是全能行动者无法造成的。而这看来是悖谬的。
+    step2: |-
+      全能概念的可理解性，受到所谓石头悖论或石头之谜的挑战：全能行动者简，能否使存在一块质量为 *m* 的石头，而简搬不动它？若答“能”，则有一个简无法造成的事态，即 (S1) *一块质量为 m 的石头移动*；若答“不能”，则另有简无法造成的事态，即 (S2) *存在一块质量为 m 的石头而简搬不动它*。于是看来，无论简能否造出那块石头，总有某个可能事态是全能行动者无法造成的。这看来是悖谬的。
+
   - id: 40
     kind: body
     source: |-
       A first resolution of the paradox comes into play when Jane is an *essentially* omnipotent agent. In that case, the state of affairs of Jane’s being non-omnipotent is impossible. Therefore, Jane cannot bring it about that she is not omnipotent. Since, necessarily, an omnipotent agent can move any stone, no matter how massive, (S2) is impossible. But, as we have seen, an omnipotent agent is not required to be able to bring about an impossible state of affairs.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当简是 *本质* 全能的行动者时，第一种化解办法便登场了。在此情形下，简非全能这一事态是不可能的。因此，简不能造成她非全能。既然必然地，全能行动者能移动任何石头，无论其质量多大，(S2) 是不可能的。但如我们所见，并不要求全能行动者能够造成不可能的事态。
+    step2: |-
+      当简是 **本质** 全能的行动者时，第一种化解办法便登场了。在此情形下，简非全能这一事态是不可能的，因此简不能造成自己非全能。既然必然地，全能行动者能移动任何石头，无论它多重，(S2) 便不可能。但如我们所见，并不要求全能行动者能够造成不可能的事态。
+
   - id: 41
     kind: body
     source: |-
