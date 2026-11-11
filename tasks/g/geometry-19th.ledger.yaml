@@ -170,73 +170,73 @@ segments:
     source: |-
       The points of a straight line stand in mutual relations of neighborhood and order. To see how the ideal point fits into these relations let *H* rotate continually about the straight line *m* where it intersects Γ. (See Figure 4.) When *H* is parallel to *PQ*—say, at time *t*—the projection of *Q* on *H* from *P* is the ideal point of the straight line through *P* and *Q*. Right before *t* the said projection is an ordinary point of *H*, very far from *m*. Right after *t* the projection is again an ordinary point of *H*, very far from *m*, but at the opposite end of the plane. Studying the continuous displacement of the projection during a short time interval surrounding *t*, one concludes that if *A* and *B* are any two points of *H* that stand, respectively, on either side of *m*, the ideal point of the straight line through *A* and *B* must be placed between *A* and *B*. Thus, in projective geometry, the points of a straight line are ordered cyclically, i.e., like the points of a circle. As a result of this, the neighborhood relations among points in projective space and on projective planes differ drastically from those familiar from standard geometry, and are highly counterintuitive. It is fair to say that projective geometry signified a much deeper and far-reaching revolution in human thought than did the mere denial of Euclid's Postulate.
     step1: |-
-
+      一条直线上的各点彼此处于邻接与次序的关系之中。要看理想点如何嵌入这些关系，让 *H* 绕它与 Γ 相交的直线 *m* 不断旋转。（见图 4。）当 *H* 平行于 *PQ* 时——比如说，在时刻 *t*——*Q* 从 *P* 在 *H* 上的投影就是过 *P* 与 *Q* 的直线的理想点。在 *t* 之前一刹那，上述投影是 *H* 的一个普通点，离 *m* 很远。在 *t* 之后一刹那，投影又是 *H* 的一个普通点，离 *m* 很远，但位于平面的相反一端。考察投影在包含 *t* 的短时间区间内的连续位移，可以得出结论：若 *A* 与 *B* 是 *H* 的任意两点，分别位于 *m* 的两侧，则过 *A* 与 *B* 的直线的理想点必须置于 *A* 与 *B* 之间。因此，在射影几何中，一条直线上的点按循环次序排列，也就是像圆周上的点那样。由此，射影空间与射影平面上各点间的邻接关系，与标准几何中熟悉的情形大相径庭，而且极为反直觉。可以公正地说，射影几何所意味的人类思想革命，比仅仅否弃欧几里得公设要深刻和深远得多。
     step2: |-
-
+      同一直线上的各点彼此处在邻接与次序的关系之中。欲知理想点如何安顿于这些关系，可令 *H* 绕它与 Γ 相交的直线 *m* 持续旋转。（见图 4。）当 *H* 平行于 *PQ* 时——设此刻为 *t*——点 *Q* 自 *P* 投到 *H* 上的投影，便是过 *P*、*Q* 之直线的理想点。紧接 *t* 之前，上述投影还是 *H* 上一个离 *m* 很远的普通点；紧接 *t* 之后，投影仍是 *H* 上的普通点，离 *m* 很远，却落到平面的另一端。细察投影在包含 *t* 的短时段内的连续位移，便可断定：*A*、*B* 若是 *H* 上分居 *m* 两侧的任意两点，则过 *A*、*B* 之直线的理想点必位于 *A* 与 *B* 之间。可见在射影几何里，一条直线上的点按循环次序排列，一如圆周上的点。由此，射影空间与射影平面上各点的邻接关系，与标准几何中习见的情形迥然不同，且极违直觉。平心而论，射影几何在人类思想上所标志的革命，远比单纯否弃欧几里得公设来得深刻、来得深远。
   - id: 22
     kind: body
     source: |-
       > **Figure 4** ![Figure 4](../assets/geometry-19th/figure4.gif)
     step1: |-
-
+      > **Figure 4** ![Figure 4](../assets/geometry-19th/figure4.gif)
     step2: |-
-
+      > **图 4** ![图 4](../yuanwen/assets/geometry-19th/figure4.gif)
   - id: 23
     kind: body
     source: |-
       In the new setting, the projective properties of figures can be defined unexceptionably. a one-one mapping *f* of projective space onto itself is a *collineation* if it sends any three collinear points *A*, *B*, and *C*, to three points (*A*), (*B*), and (*C*), which are collinear too. Projective properties (and relations) are those which are preserved by collineations. Here are a few examples of projective properties. Of three or more points: to lie on the same straight line; to lie on the same plane. Of three or more straight lines: to meet at the same point; to lie on the same plane. Of three or more planes: to intersect along the same straight line; to share the same point. Of curves: to be a conic. Of surfaces: to be a quadric.
     step1: |-
-
+      在新的框架中，图形的射影性质可以无例外地定义。射影空间到自身的一一映射 *f*，若把任意三个共线点 *A*、*B*、*C* 送到三个同样共线的点 (*A*)、(*B*)、(*C*)，它就是*直射变换*。射影性质（与关系）就是那些在直射变换下保持不变的性质。以下是射影性质的几个例子。关于三个或更多点：位于同一直线上；位于同一平面上。关于三条或更多直线：交于同一点；位于同一平面上。关于三个或更多平面：沿同一直线相交；共有一个点。关于曲线：是圆锥曲线。关于曲面：是二次曲面。
     step2: |-
-
+      在新的框架下，图形的射影性质得以无例外地界定。射影空间到自身的一一映射 *f* 若把任意三个共线点 *A*、*B*、*C* 送到同样共线的三点 (*A*)、(*B*)、(*C*)，便称为**直射变换**。所谓射影性质（及关系），即在直射变换下保持不变者。略举数例。关于三个或更多的点：共线；共面。关于三条或更多的直线：共点；共面。关于三个或更多的平面：沿同一直线相交；共有一个点。关于曲线：为圆锥曲线。关于曲面：为二次曲面。
   - id: 24
     kind: body
     source: |-
       ## 3. Klein's Erlangen program
     step1: |-
-
+      ## 3. Klein's Erlangen program
     step2: |-
-
+      ## 3 克莱因的埃尔朗根纲领
   - id: 25
     kind: body
     source: |-
       In a booklet issued when he joined the faculty at Erlangen (1872), Felix Klein (b. 1849, d. 1925) took stock of the enormous growth and diversification of geometry and proposed a standpoint from which its many branches could be organized into a system. From this standpoint, the task of a branch of geometry can be stated thus:
     step1: |-
-
+      费利克斯·克莱因（1849 年生，1925 年卒）在 1872 年加入埃尔朗根教职时发表的一本小册子中，盘点了几何学巨大的增长与分化，并提出了一个可以把它的众多分支组织成一个体系的立场。从这个立场看，几何学一个分支的任务可以这样表述：
     step2: |-
-
+      费利克斯·克莱因（1849—1925）1872 年入职埃尔朗根大学时印行一本小册子，检点了几何学惊人的增长与分化，并提出一个可将众多分支组织为体系的立足点。由此立足点看，几何学某一分支的任务可表述如下：
   - id: 26
     kind: body
     source: |-
       > Given a manifold and a group of transformations of the manifold, to study the manifold configurations with respect to those features which are not altered by the transformations of the group. (Klein 1893, p. 67)[^klein-1893]
     step1: |-
-
+      > 给定一个流形以及该流形的一个变换群，研究该流形中相对于群变换不改变的那些特征而言的构形。（Klein 1893, p. 67）[^klein-1893]
     step2: |-
-
+      > 给定一个流形以及该流形的一个变换群，就群变换所不改变的那些特征来研究该流形的构形。（Klein 1893, p. 67）[^klein-1893]
   - id: 27
     kind: body
     source: |-
       In nineteenth-century mathematics, ‘manifold’ often designated what we now call a set, but Klein apparently had something more specific in mind:
     step1: |-
-
+      在 19 世纪的数学中，“流形”常常指我们今天所谓的集合，但克莱因心中显然有更特定的东西：
     step2: |-
-
+      在 19 世纪的数学里，“流形”往往指我们今天所说的集合；但克莱因显然想到的是更特定的东西：
   - id: 28
     kind: body
     source: |-
       > If *n* variables *x*₁, … , *x*_{*n*} are given, the … value systems we obtain if we let the variables *x* independently take the real values from −∞ to +∞ constitute what we shall call … *a manifold of n dimensions*. Each particular value system (*x*₁, … ,*x*_{*n*}) is called an *element* of the manifold. (Klein 1873, p. 116)[^klein-1873]
     step1: |-
-
+      > 若给定 *n* 个变量 *x*₁、……、*x*_{*n*}，我们让这些变量 *x* 各自独立地取从 −∞ 到 +∞ 的实数值，所得到的……值系统就构成我们将称为……*一个 n 维流形*的东西。每一个特定的值系统 (*x*₁、……、*x*_{*n*}) 称为该流形的*元素*。（Klein 1873, p. 116）[^klein-1873]
     step2: |-
-
+      > 设给定 *n* 个变量 *x*₁、……、*x*_{*n*}；若让变量 *x* 各自独立地取遍从 −∞ 到 +∞ 的实数值，所得的……值系统便构成我们所谓的……“一个 n 维流形”。每个特定的值系统 (*x*₁、……、*x*_{*n*}) 称为该流形的一个 **元素**。（Klein 1873, p. 116）[^klein-1873]
   - id: 29
     kind: body
     source: |-
       If *S* is a manifold in either sense, by a *transformation of S* we mean a one-one mapping of *S* onto itself. It is clear that
     step1: |-
-
+      若 *S* 在任一意义上是一个流形，我们所指的 *S 的变换*是把 *S* 一一映射到自身。显然：
     step2: |-
-
+      *S* 无论在哪种意义上是一个流形，所谓“S 的变换”，都是把 *S* 一一映到自身的映射。显而易见：
   - id: 30
     kind: body
     source: |-
@@ -245,73 +245,79 @@ segments:
       3. the identity mapping I that sends each point of *S* to itself is a transformation of *S* such that, for any transformation *T*, *T* ○ *I* = *I* ○ *T* = *T*;
       4. for every transformation *T* there is a transformation *T*^{−1}, the *inverse* of *T*, such that *T*^{−1} ○ *T* = I (*T*^{−1} sends each point of *S* back to where it was brought from by *T*).
     step1: |-
-
+      1. 若 *T*₁ 与 *T*₂ 是 *S* 的变换，则由 *T*₁ 之后接 *T*₂ 所构成的复合映射 *T*₂ ○ *T*₁ 也是 *S* 的变换；
+      2. 变换的复合是可结合的，因此，若 *T*₁、*T*₂ 与 *T*₃ 是 *S* 的变换，则 (*T*₃ ○ *T*₂) ○ *T*₁ = *T*₃ ○ (*T*₂ ○ *T*₁)；
+      3. 把 *S* 的每一点送到自身的恒等映射 I 是 *S* 的变换，使得对任何变换 *T* 都有 *T* ○ *I* = *I* ○ *T* = *T*；
+      4. 对每一个变换 *T*，都有一个变换 *T*^{−1}，即 *T* 的*逆*，使得 *T*^{−1} ○ *T* = I（*T*^{−1} 把 *S* 的每一点送回它被 *T* 带离的地方）。
     step2: |-
-
+      1. 若 *T*₁ 与 *T*₂ 是 *S* 的变换，则先施 *T*₁、再施 *T*₂ 所得的复合映射 *T*₂ ○ *T*₁ 也是 *S* 的变换；
+      2. 变换的复合满足结合律：若 *T*₁、*T*₂、*T*₃ 是 *S* 的变换，则 (*T*₃ ○ *T*₂) ○ *T*₁ = *T*₃ ○ (*T*₂ ○ *T*₁)；
+      3. 把 *S* 每一点映到自身的恒等映射 I 是 *S* 的变换，且对任意变换 *T* 有 *T* ○ *I* = *I* ○ *T* = *T*；
+      4. 每个变换 *T* 都有变换 *T*^{−1}，称为 *T* 的**逆**，使 *T*^{−1} ○ *T* = I（*T*^{−1} 把 *S* 的每一点送回 *T* 把它带离之处）。
   - id: 31
     kind: body
     source: |-
       By virtue of conditions (i)-(iv), the transformations of *S* form a *group* *G*_{*S*}  in the precise sense that this term has in algebra. *G*_{*S*}  includes subgroups, i.e., subsets which contain I and satisfy conditions (i) and (iv). If *H* is a subgroup of *G*_{*S*}  and Φ is a feature of *S*, or of its elements or parts, which is not affected by the transformations of Φ, we say that Φ is *H*-invariant. The only *G*_{*S*}-invariant is the cardinality of *S* (i.e., the number of elements in the manifold). On the other hand, the group {*I*}, consisting of the identity alone, trivially preserves every conceivable feature. Between these two extremes there can be many different subgroups with all sorts of interesting invariants, depending on the respective group structure. If *S* is not an arbitrary (structureless) set, but a numerical manifold as described by Klein, it inherits structure from the real number field, which contributes to characterize the different subgroups of *G*_{*S*}  and their invariants. Thus, the group of continuous transformations preserves the topological properties (neighborhood relations), and the group of linear transformations preserves the projective properties.
     step1: |-
-
+      凭条件 (i)-(iv)，*S* 的变换构成一个*群* *G*_{*S*}，其意义正是代数中该词项的精确意义。*G*_{*S*} 包含子群，即包含 I 且满足条件 (i) 与 (iv) 的子集。若 *H* 是 *G*_{*S*} 的子群，Φ 是 *S* 或其元素或部分的特征，且不受 Φ 的变换影响，我们就说 Φ 是 *H* 不变的。唯一的 *G*_{*S*} 不变量是 *S* 的基数（即流形中元素的数目）。另一方面，仅由恒等映射构成的群 {*I*} 平凡地保持一切可以想象的特征。在这两个极端之间，可以有许多不同的子群，带有各种有趣的不变量，视各自的群结构而定。若 *S* 不是任意的（无结构的）集合，而是克莱因所描述的数值流形，它就继承实数域的结构，而这有助于刻画 *G*_{*S*} 的不同子群及其不变量。于是，连续变换群保持拓扑性质（邻接关系），线性变换群保持射影性质。
     step2: |-
-
+      由条件 (i)-(iv)，*S* 的全体变换构成一个**群** *G*_{*S*}，其含义正是代数中“群”一词的严格意义。*G*_{*S*} 含有子群，即包含 I 并满足条件 (i) 与 (iv) 的子集。设 *H* 为 *G*_{*S*} 的子群，Φ 为 *S* 或其元素、部分的某一特征，若 Φ 不受 Φ 的变换影响，便称 Φ 是 *H* 不变的。唯一的 *G*_{*S*} 不变量是 *S* 的基数（即流形所含元素的个数）。另一极端，由恒等映射单独构成的群 {*I*}，则平凡地保持一切想得到的特征。两端之间可以有许多不同的子群，各自带有种种有趣的不变量，视其群结构而定。若 *S* 并非任意的（无结构的）集合，而是克莱因所说的数值流形，它便从实数域承袭结构，这有助于刻画 *G*_{*S*} 的各子群及其不变量。于是，连续变换群保持拓扑性质（邻接关系），线性变换群保持射影性质。
   - id: 32
     kind: body
     source: |-
       Can metric properties be fixed in this way? Traditionally one defines the distance between two points (*x*₁, … ,*x*_{*n*}) and (*y*₁, … ,*y*_{*n*}) of a numerical manifold as the positive square root of (*x*₁ − *y*₁)^{ 2} + … + (*x*_{*n*} − *y*_{*n*})². The group of isometries consists of the transformations that preserve this function. However, this is just a convention, adopted to ensure that the geometry is Euclidean. Using projective geometry, Klein thought of something better. No real-valued function of point pairs, defined on all projective space, is an invariant of the projective group, but there is a function of collinear point quadruples, called the *cross-ratio*, which is such an invariant. Drawing on work by Arthur Cayley (b. 1821, d. 1895), Klein (1871, 1873) considered the cross-ratio of point quadruples <*P*₁,*P*₂,*P*₃,*P*₄>. such that *P*₃ and *P*₄ belong to a given conic κ on a projective plane, while *P*₁ and *P*₂ range over a region **R** that is bounded by or otherwise fixed by κ. Since *P*₃ and *P*₄ must be the points where the straight line through *P*₁ and *P*₂ meets κ, the said cross-ratio may be regarded as a function of the point pair <*P*₁,*P*₂>. The collineations that map a given conic onto itself form a group, and the said function is clearly an invariant of this group. Klein showed that a certain function of this function behaves like an ordinary distance function on **R**. According to the nature of the conic κ, the structure determined by this function satisfies either (i) all the theorems of Euclidian plane geometry, or (ii) all those of Lobachevskian plane geometry, or (iii) those of a third geometry which Klein himself discovered and dubbed ‘elliptic’. (In elliptic geometry every straight line meets every other, and the three internal angles of a triangle always add up to more than two right angles. Klein's names for the geometries of Euclid and Lobachevsky were ‘parabolic’ and ‘hyperbolic’, respectively.)
     step1: |-
-
+      度量性质能以这种方式确定下来吗？传统上，人们把数值流形中两点 (*x*₁、……、*x*_{*n*}) 与 (*y*₁、……、*y*_{*n*}) 之间的距离定义为 (*x*₁ − *y*₁)^{ 2} + … + (*x*_{*n*} − *y*_{*n*})² 的正平方根。等距变换群由保持这一函数的变换构成。然而，这只是一个约定，采用它是为了保证几何是欧几里得的。克莱因借助射影几何，想到了更好的办法。在整个射影空间上定义的、关于点对的实值函数，没有一个是射影群的不变量；但有一种关于共线四点组的函数，称为*交比*，它正是这样的不变量。克莱因吸取阿瑟·凯莱（1821 年生，1895 年卒）的工作，考察四点组 <*P*₁,*P*₂,*P*₃,*P*₄> 的交比，其中 *P*₃ 与 *P*₄ 属于射影平面上一个给定的圆锥曲线 κ，而 *P*₁ 与 *P*₂ 在一个由 κ 界定或以其他方式由 κ 确定的区域 **R** 上变动。既然 *P*₃ 与 *P*₄ 必定是过 *P*₁ 与 *P*₂ 的直线与 κ 的交点，上述交比就可以看作点对 <*P*₁,*P*₂> 的函数。把给定圆锥曲线映到自身的直射变换构成一个群，而上述函数显然是这个群的不变量。克莱因证明，这个函数的某个函数在 **R** 上的行为就像普通的距离函数。按照圆锥曲线 κ 的性质，由这个函数所确定的结构，或者满足 (i) 欧几里得平面几何的全部定理，或者满足 (ii) 罗巴切夫斯基平面几何的全部定理，或者满足 (iii) 克莱因本人发现并称为“椭圆”的第三种几何的定理。（在椭圆几何中，每一条直线都与每一条其他直线相交，三角形的三个内角之和总是大于两直角。克莱因给欧几里得与罗巴切夫斯基的几何所起的名字分别是“抛物”与“双曲”。）
     step2: |-
-
+      度量性质能否这样确定？传统做法是把数值流形中两点 (*x*₁、……、*x*_{*n*}) 与 (*y*₁、……、*y*_{*n*}) 的距离，定义为 (*x*₁ − *y*₁)^{ 2} + … + (*x*_{*n*} − *y*_{*n*})² 的正平方根；保持此函数的变换构成等距变换群。然而这不过是约定，采用它是为确保几何为欧几里得几何。克莱因借射影几何另谋更佳之策：定义于整个射影空间、以点对为自变量的实值函数，没有一个是射影群的不变量；但以共线四点组为自变量的函数中，却有这样一个不变量，即**交比**。克莱因汲取阿瑟·凯莱（1821—1895）的研究，考察四点组 <*P*₁,*P*₂,*P*₃,*P*₄> 的交比，其中 *P*₃、*P*₄ 属于射影平面上一给定了的圆锥曲线 κ，*P*₁、*P*₂ 则在由 κ 界定、或以别的方式由 κ 确定的区域 **R** 内变动。既然 *P*₃、*P*₄ 必是过 *P*₁、*P*₂ 的直线与 κ 的交点，上述交比便可视为点对 <*P*₁,*P*₂> 的函数。把给定圆锥曲线映到自身的直射变换构成一群，而上述函数显然为此群的不变量。克莱因进而表明，这个函数的某一函数在 **R** 上的表现一如普通距离函数。依圆锥曲线 κ 的性质，由此函数确定的结构或满足 (i) 欧几里得平面几何的全部定理，或满足 (ii) 罗巴切夫斯基平面几何的全部定理，或满足 (iii) 克莱因本人发现并命名为“椭圆”的第三种几何的定理。（在椭圆几何中，每一直线皆与每另一直线相交，三角形三内角之和恒大于两直角。克莱因把欧几里得几何与罗巴切夫斯基几何分别命名为“抛物”几何与“双曲”几何。）
   - id: 33
     kind: body
     source: |-
       This is how Klein's approach works for Lobachevskian geometry on the plane. Let κ be a real conic—a conic comprising only real points—on the projective plane. Let *G*_{κ} be the set of all collineations that map κ onto itself. *G*_{κ} is a subgroup of the projective group. Consider now the cross-ratio of point quadruples <*P*₁,*P*₂,*P*₃,*P*₄> such that *P*₃ and *P*₄ belong to κ, while *P*₁ and *P*₂ range over the interior Int(κ) of the region of the real plane bounded by κ. (*P* ∈ Int(κ) if and only if *P* is a real point and no real tangent to κ passes through *P*.) As noted above, the choice of points *P*₁ and *P*₂ fixes *P*₃ and *P*₄, so the said cross-ratio may be regarded as a function of the first pair of points only, say, *f*_{κ}(*P*₁,*P*₂). The function *f*_{κ} is clearly *G*_{κ}-invariant. Put *d*_{κ}(*P*₁,*P*₂) = *c* log *f*_{κ}(*P*₁,*P*₂), where *c* is an arbitrary real-valued constant, different from 0, and log *x* denotes the principal value of the natural logarithm of *x*. Klein was able to show that *d*_{κ} behaves precisely like a Lobachevskian distance function on Int(κ). In other words, every theorem of Lobachevskian geometry holds for suitable figures formed from points of Int(κ), if the distance between any two of these points is given by the function *d*_{κ}. Consider, for instance, four points *P*₁,*P*₂,*P*₃, and *P*₄ in Int(κ), such that *d*_{κ}(*P*₁,*P*₂) = *d*_{κ}(*P*₂,*P*₃) = *d*_{κ}(*P*₃,*P*₄) = *d*_{κ}(*P*₄,*P*₁). They are the vertices of a Lobachevskian equilateral quadrilateral *Q*, which can have at most three right angles, in which case the fourth interior angle of *Q* must be acute. (Where ‘right angle’ means, as usual, an angle equal to its adjacent angle, and two angles in Int(κ) are said to be equal if one is the image of the other by a transformation of group *G*_{κ}).
     step1: |-
-
+      克莱因的方法用于平面上的罗巴切夫斯基几何时是这样运作的。设 κ 是射影平面上的实圆锥曲线——只由实点构成的圆锥曲线。设 *G*_{κ} 为把 κ 映到自身的所有直射变换之集。*G*_{κ} 是射影群的子群。现在考察四点组 <*P*₁,*P*₂,*P*₃,*P*₄> 的交比，其中 *P*₃ 与 *P*₄ 属于 κ，而 *P*₁ 与 *P*₂ 在由 κ 界定的实平面区域的内部 Int(κ) 中变动。（*P* ∈ Int(κ) 当且仅当 *P* 是实点，且没有 κ 的实切线经过 *P*。）如前所述，*P*₁ 与 *P*₂ 的选取确定了 *P*₃ 与 *P*₄，所以上述交比可以只当作前一对点的函数，比如说 *f*_{κ}(*P*₁,*P*₂)。函数 *f*_{κ} 显然是 *G*_{κ} 不变的。令 *d*_{κ}(*P*₁,*P*₂) = *c* log *f*_{κ}(*P*₁,*P*₂)，其中 *c* 是任意实值常数，不等于 0，log *x* 表示 *x* 的自然对数的主值。克莱因能够证明，*d*_{κ} 在 Int(κ) 上的行为恰好就像罗巴切夫斯基距离函数。换言之，只要任意两点之间的距离由函数 *d*_{κ} 给出，罗巴切夫斯基几何的每一条定理都适用于由 Int(κ) 中的点构成的适当图形。例如，考虑 Int(κ) 中四点 *P*₁,*P*₂,*P*₃ 与 *P*₄，使得 *d*_{κ}(*P*₁,*P*₂) = *d*_{κ}(*P*₂,*P*₃) = *d*_{κ}(*P*₃,*P*₄) = *d*_{κ}(*P*₄,*P*₁)。它们是罗巴切夫斯基等边四边形 *Q* 的顶点；*Q* 至多可以有三个直角，若有三个直角，则 *Q* 的第四个内角必为锐角。（这里“直角”照常指等于其邻角的角，而 Int(κ) 中的两个角称为相等，是指其中一个角在群 *G*_{κ} 的某个变换下成为另一个角。）
     step2: |-
-
+      克莱因的方法施于平面上的罗巴切夫斯基几何，运作如下。设 κ 为射影平面上的实圆锥曲线，即只含实点的圆锥曲线；设 *G*_{κ} 为把 κ 映到自身的全部直射变换之集，它是射影群的子群。今考察四点组 <*P*₁,*P*₂,*P*₃,*P*₄> 的交比，其中 *P*₃、*P*₄ 属于 κ，*P*₁、*P*₂ 在由 κ 界定的实平面区域的内部 Int(κ) 中变动（*P* ∈ Int(κ) 当且仅当 *P* 为实点，且 κ 的任何实切线都不经过 *P*）。如上所述，选定了 *P*₁、*P*₂ 也就确定了 *P*₃、*P*₄，故上述交比可仅视为前一对点的函数，记作 *f*_{κ}(*P*₁,*P*₂)。函数 *f*_{κ} 显然是 *G*_{κ} 不变的。令 *d*_{κ}(*P*₁,*P*₂) = *c* log *f*_{κ}(*P*₁,*P*₂)，其中 *c* 为不等于 0 的任意实值常数，log *x* 表示 *x* 的自然对数主值。克莱因得以证明：*d*_{κ} 在 Int(κ) 上的行为恰如罗巴切夫斯基距离函数。换言之，只要两点距离由 *d*_{κ} 给出，罗巴切夫斯基几何的每条定理都适用于 Int(κ) 之点所构成的适当图形。譬如取 Int(κ) 中四点 *P*₁、*P*₂、*P*₃、*P*₄，使 *d*_{κ}(*P*₁,*P*₂) = *d*_{κ}(*P*₂,*P*₃) = *d*_{κ}(*P*₃,*P*₄) = *d*_{κ}(*P*₄,*P*₁)。它们构成一个罗巴切夫斯基等边四边形 *Q* 的顶点；*Q* 至多能有三个直角，若真有三个直角，其第四个内角必为锐角。（此处“直角”照常指与其邻角相等之角；Int(κ) 中两角称为相等，谓其中一角经群 *G*_{κ} 的某变换成为另一角。）
   - id: 34
     kind: body
     source: |-
       If κ stands for a different sort of conic, not an ordinary real one, the function *d*_{κ} obtained by the above procedure behaves on suitably defined regions of the projective plane like a Euclidian distance function or like the distance function of elliptic geometry (this depends on the nature of the conic κ). Thus, depending on whether κ belongs to one or the other of three kinds of conic, the group of collineations that map κ onto itself is structurally identical with one of the three groups of Lobachevskian, Euclidean, or elliptic isometries. Similar results hold for the three-dimensional case, with κ a quadric surface.
     step1: |-
-
+      若 κ 代表另一种圆锥曲线，而非普通的实圆锥曲线，则由上述程序得到的函数 *d*_{κ}，在射影平面适当定义的区域上，会表现出像欧几里得距离函数、或像椭圆几何距离函数的行为（这取决于圆锥曲线 κ 的性质）。于是，视 κ 属于三类圆锥曲线中的哪一类，把 κ 映到自身的直射变换群，在结构上分别与罗巴切夫斯基、欧几里得或椭圆的三种等距变换群之一相同。三维情形也有类似结果，此时 κ 是二次曲面。
     step2: |-
-
+      倘若 κ 代表另一类圆锥曲线，而非寻常的实圆锥曲线，那么照上述程序得到的函数 *d*_{κ}，在射影平面中适当界定的区域上，行为便如欧几里得距离函数，或如椭圆几何的距离函数（视 κ 的性质而定）。因此，依 κ 属于三类圆锥曲线中的哪一类，把 κ 映到自身的直射变换群，在结构上恰与罗巴切夫斯基、欧几里得、椭圆三种等距变换群之一相同。三维情形亦有相应结果，只是 κ 换作二次曲面。
   - id: 35
     kind: body
     source: |-
       Klein's result led Bertrand Russell (b. 1873, d. 1970) to assert, in his neo-Kantian book on the foundations of geometry (1897), that the general “form of externality” is disclosed to us a priori in projective geometry, but its metric structure—which can *only* be Lobachevskian, Euclidean or elliptic—must be determined a posteriori by experiment. Henri Poincaré (b. 1854, d. 1912) took a more radical stance: If geometry is nothing but the study of a group,
     step1: |-
-
+      克莱因的结果使伯特兰·罗素（1873 年生，1970 年卒）在其新康德主义的几何基础著作（1897）中断言：一般的“外在性形式”在射影几何中先天地向我们显露，但它的度量结构——它*只能*是罗巴切夫斯基的、欧几里得的或椭圆的——必须由实验后天地确定。昂利·庞加莱（1854 年生，1912 年卒）采取了更激进的立场：如果几何学不过是群的研究，
     step2: |-
-
+      克莱因的结果促使伯特兰·罗素（1873—1970）在其新康德主义之作《几何学基础论》（1897）中断言：一般的“外在性形式”在射影几何中先天地向我们显露，而其度量结构——**只能** 是罗巴切夫斯基式、欧几里得式或椭圆式——则须由实验后天地确定。昂利·庞加莱（1854—1912）取更激进的立场：几何学若只是群的研究，
   - id: 36
     kind: body
     source: |-
       > one may say that the truth of the geometry of Euclid is not incompatible with the truth of the geometry of Lobachevsky, for the existence of a group is not incompatible with that of another group. (Poincaré 1887, p. 290)[^poincaré-1887]
     step1: |-
-
+      > 人们就可以说，欧几里得几何的真与罗巴切夫斯基几何的真并不相抵牾，因为一个群的存在并不与另一个群的存在相抵牾。（Poincaré 1887, p. 290）[^poincaré-1887]
     step2: |-
-
+      > 人们便可以说，欧几里得几何之真与罗巴切夫斯基几何之真并不相悖，因为一个群的存在并不与另一个群的存在相冲突。（Poincaré 1887, p. 290）[^poincaré-1887]
   - id: 37
     kind: body
     source: |-
       The application to physics is immediate: “Among all possible groups we have chosen one in particular, in order to refer to it all physical phenomena, just as we choose three coordinate axes in order to refer to them a geometrical figure” (ibid., p. 291). The choice of this particular group is motivated by its mathematical simplicity, but also by the fact that “there exist in nature some remarkable bodies which are called *solids*, and experience tells us that the different possible movements of these bodies are related to one another much in the same way as the different operations of the chosen group” (ibid.). These remarks of Poincaré signalled the beginning of conventionalism in the philosophy of science and provided its initial motivation.
     step1: |-
-
+      对物理学的应用直接可得：“在一切可能的群中，我们特别挑选了一个，以便把所有物理现象都参照于它，正如我们选取三条坐标轴，以便把几何图形参照于它们”（同上，p. 291）。选择这个特殊群的动机，既在于它数学上的简单性，也在于这样一个事实：“自然界中存在某些称为*固体*的奇特物体，而经验告诉我们，这些物体的各种可能运动彼此关联的方式，与所选群的各种不同运算彼此关联的方式大致相同”（同上）。庞加莱的这些评论标志着科学哲学中约定论的开始，并为其提供了最初的动机。
     step2: |-
-
+      应用到物理学上，径直可见：“在一切可能的群中，我们特别挑出一个，以便把所有物理现象都参照于它，正如我们选取三条坐标轴，以便把几何图形参照于它们”（同上，p. 291）。之所以挑这个群，既因其在数学上简单，也因这样一个事实：“自然界中有某些称为**固体**的奇特物体，经验告诉我们，这些物体种种可能的运动之间的关联方式，与所选群种种不同运算之间的关联方式大致相仿”（同上）。庞加莱这番议论，标志着科学哲学中约定论的肇端，并为其提供了最初的动因。
   - id: 38
     kind: body
     source: |-
       Klein's group-theoretical view of geometry enjoyed much favor among mathematicians and philosophers. It achieved a major success when Minkowski (1909) showed that the gist of Einstein's special theory of relativity was the (spacetime) geometry of the Lorentz group, an essential result that Klein (1911) lived to enjoy. It implies that the recent debate on the priority of Minkowski chronogeometry over Lorentz invariance or vice-versa is utterly idle, for these are logically equivalent and thus, in effect, two sides of the same coin (as explained by Acuña (2016)). However, Klein's Erlangen program failed to cover the differential geometry of Riemann (§5), which Einstein (1915, 1916) placed at the core of his general theory of relativity.
     step1: |-
-
+      克莱因关于几何的群论观点，在数学家和哲学家中间颇受欢迎。它取得了一次重大成功：闵可夫斯基（1909）表明，爱因斯坦狭义相对论的要点正是洛伦兹群的（时空）几何，这个根本性的结果克莱因（1911）在世时得见。这意味着，近来关于闵可夫斯基时度几何优先于洛伦兹不变性、抑或相反的争论，完全是徒劳的，因为二者逻辑等价，因而实际上是同一枚硬币的两面（如 Acuña（2016）所解释）。然而，克莱因的埃尔朗根纲领未能覆盖黎曼的微分几何（§5），而爱因斯坦（1915、1916）正是把后者置于其广义相对论的核心。
     step2: |-
-
+      克莱因的几何群论观点，在数学家与哲学家当中颇受青睐。它赢得过一次大捷：闵可夫斯基（1909）证明，爱因斯坦狭义相对论的精髓，正是洛伦兹群的（时空）几何；这一根本性成果，克莱因（1911）在世时已及见。由此可见，晚近关于闵可夫斯基时间几何与洛伦兹不变性孰先孰后的争论，实属徒劳：二者逻辑等价，无异于同一枚硬币的两面（Acuña（2016）对此有说明）。然而，克莱因的埃尔朗根纲领未能涵盖黎曼的微分几何（§5），而爱因斯坦（1915、1916）恰恰把微分几何置于广义相对论的核心。
   - id: 39
     kind: body
     source: |-
