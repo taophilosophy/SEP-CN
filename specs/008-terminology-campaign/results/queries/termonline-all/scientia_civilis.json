@@ -1,0 +1,348 @@
+{
+ "key": "scientia civilis",
+ "term": "scientia civilis",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T19:37:23+00:00",
+ "status": "ok",
+ "note": "variant=scientia civilis; 审定公布名词库=93; 海峡两岸名词对照库=25; 其他来源数据库=15; 预公布名词数据库=23; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "科学主义",
+   "en": "scientism",
+   "code": "01.054",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_总论_科学观"
+  },
+  {
+   "cn": "东方体",
+   "en": "orientia",
+   "code": "03.0598",
+   "standard": "感染病学名词",
+   "subject": "感染病学_病原体感染_立克次体和埃立克体感染"
+  },
+  {
+   "cn": "科学主义",
+   "en": "scientism",
+   "code": "04.056",
+   "standard": "心理学名词",
+   "subject": "心理学_理论心理学与心理学史"
+  },
+  {
+   "cn": "科学家共同体",
+   "en": "scientist community",
+   "code": "07.078",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学、技术与社会_科学与社会"
+  },
+  {
+   "cn": "情报学家",
+   "en": "information scientist",
+   "code": "02.188",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_图书情报工作管理_图书情报职业"
+  },
+  {
+   "cn": "图书馆学家",
+   "en": "library scientist",
+   "code": "02.187",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_图书情报工作管理_图书情报职业"
+  },
+  {
+   "cn": "行星际闪烁",
+   "en": "interplanetary scintil-lation",
+   "code": "05.0231",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_空间物理学_行星际与太阳"
+  },
+  {
+   "cn": "科学家的社会角色",
+   "en": "social role of scientist",
+   "code": "07.067",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学、技术与社会_科学与社会"
+  },
+  {
+   "cn": "科学家的社会责任",
+   "en": "social responsibility of scientist",
+   "code": "07.068",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学、技术与社会_科学与社会"
+  },
+  {
+   "cn": "民用车辆",
+   "en": "civilian vehicle",
+   "code": "05.053",
+   "standard": "公路交通科技名词",
+   "subject": "公路交通科学技术_汽车运用工程"
+  },
+  {
+   "cn": "平民档案库",
+   "en": "Archives of Civilian",
+   "code": "09.02.008",
+   "standard": "档案学名词",
+   "subject": "档案学_外国档案事业史_外国档案机构"
+  },
+  {
+   "cn": "国民自然资源保护队",
+   "en": "Civilian Conservation Corps",
+   "code": "03.0159",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_美国"
+  },
+  {
+   "cn": "科学主义",
+   "en": "scientism",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "圣城",
+   "en": "Sancta Civitas",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "民用代码",
+   "en": "civilian code",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "民用日",
+   "en": "civil day",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "民用时",
+   "en": "civil time",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "民用晨昏蒙影",
+   "en": "civil twilight",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "民用年",
+   "en": "civil year",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "民用日",
+   "en": "civil day",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "民用时",
+   "en": "civil time",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "民用日",
+   "en": "civil day",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "民用时",
+   "en": "civil time",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "民船",
+   "en": "civil ship",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "数据科学家",
+   "en": "data scientist",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "民事权利",
+   "en": "civil rights",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "民法典",
+   "en": "civil code",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "民用航空",
+   "en": "Civil aviation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "公民社会",
+   "en": "civil society",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "土木工程",
+   "en": "civil engineering",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "军民融合大数据",
+   "en": "military-civilian big data",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "军地对接平台",
+   "en": "military-civilian docking platform",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "军民融合靶场",
+   "en": "military-civilian integration cyber range",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "军地信息交流平台",
+   "en": "military-civilian information exchange platform",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "国际民用航空组织",
+   "en": "International Civil Aviation Organization",
+   "code": null,
+   "standard": "外语中文译写规范部际联席会议专家委员会",
+   "subject": "其他"
+  },
+  {
+   "cn": "大数据军民融合",
+   "en": "military-civilian integration in big data",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "科学主义",
+   "en": "scientism",
+   "code": "3.10.5.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_科学社会学_科学社会学研究"
+  },
+  {
+   "cn": "平民",
+   "en": "civilian",
+   "code": "03.0133",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "公民自治",
+   "en": "civil autonomy",
+   "code": "1.1.2.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想"
+  },
+  {
+   "cn": "民权",
+   "en": "civil rights",
+   "code": "1.1.2.11",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想"
+  },
+  {
+   "cn": "民变",
+   "en": "civil commotion",
+   "code": "1.1.2.13",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想"
+  },
+  {
+   "cn": "市民社会",
+   "en": "civil society",
+   "code": "3.6.1.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_政治社会学_政治社会学"
+  },
+  {
+   "cn": "公民宗教",
+   "en": "civil religion",
+   "code": "3.9.2.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_宗教社会学_宗教研究"
+  },
+  {
+   "cn": "公民教育",
+   "en": "civil education",
+   "code": "3.12.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_教育社会学"
+  },
+  {
+   "cn": "民政",
+   "en": "civil administration",
+   "code": "4.4.9.88",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作实务"
+  },
+  {
+   "cn": "市民等级",
+   "en": "civil rank",
+   "code": "03.0176",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "市民阶级",
+   "en": "civil stratum",
+   "code": "03.0177",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "市民社会",
+   "en": "civil society",
+   "code": "03.0178",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

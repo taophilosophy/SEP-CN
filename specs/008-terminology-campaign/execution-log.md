@@ -688,6 +688,43 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
     promotion（线性逻辑指数规则，审定「促销/晋升」异义）、proper function 两行（「本征函数/凸函数」异义；与普兰丁格行
     分域已注册）、prospect（地质「远景区」假阳性）。
 
+### 十一、二轮第十一批＝收官批（offset 1528–1951，41 条，q–w 段；2026-11-12）
+
+* 二轮队列 1951 项全部跑完（本会话自断点 1528 接力 423 项；爬虫自愈降级多次、批末补跑救回大部分 error 词；
+  **27 词补跑后仍降级**—— propositional attitude、pudgala、quantum computation、quantum logic、redistribution game、
+  reflective equilibrium、religious epistemology、rhythm、sabellianism、samkhya（数目）等，集中在会话间歇失效段，
+  留三轮 `--unverified` 重查）。
+* 审计终态：一致 930 / 不一致 663 / 查无 3734 / 未查证 4405（较基线 +38；差集口径新增不一致 41 条，
+  另有 3 条基线键因并行会话登记册改动出列）。登记册总量 9602→9732（并行会话词条批次新增行）。
+* **主译变更 0 条，全部保留现译**；risk perception「风险感知」补亦作“风险认知”（审定·心理学三库一致）。
+* 保留归类：
+  * 记法/连字符/破折号差异：Robertson-Walker metric（审定作半角连字符「罗伯逊-沃克度规」，库内全角破折号体例）、
+    risk-benefit analysis（「风险-获益分析」获益/收益＋连字符记法差）。
+  * 下位/复合/全称：quantum gate（审定「量子逻辑门/通用量子门」下位）、public key cryptography（审定「公钥密码」无学后缀）、
+    word association（审定「字词联想测验」为测验名下位）、Republic (Plato)（命中带作者全称「柏拉图理想国」）、
+    right to life（命中「生命健康权优先原则」下位）。
+  * 跨学科同名/假阳性/垃圾命中：pseudo-process（「假绝热过程」气象假阳性）、public philosophy（「公共教育哲学」下位）、
+    pure intellect / reductio / resurrection / satisfaction（集体消费理论等垃圾池命中）、quiddity（与 essence 并置时）
+    （「时/时延」 fuzzy 垃圾）、Quodlibets（奥卡姆）（「诺姆/雷姆」垃圾）、real objects（「实物」异义）、
+    reference class（「参见类目」图书情报假阳性）、Reflection Principle（命中「施瓦茨反射原理」为复分析，
+    本行 van Fraassen 决策论反思原则）、repeater（「中继器/留级生」异义，本行 paradox-suspense 构词直译）、
+    repertoire（「库/字汇」异义，本行 model-organisms 词条术语）、representation theorem（命中「格兰杰表述定理」
+    计量经济学下位；注意同族 Stone representation theorem 行作「表示定理」，分域并存留档）、resiliency（「市场弹性」
+    经济假阳性，本行 Skyrms 概率用语）、responder（「反应者」生化假阳性，本行独裁者博弈对举）、restriction
+    （「限制/相克」泛词，本行中世纪逻辑限缩）、right of nature（「自然资源产权制度」异义）、rule of consequence
+    （反兴奋剂垃圾命中）、safety barrier（「安全栅/新泽西护栏」工程异义）、samadhi（审定「禅定」为通名，
+    本行空海语境佛教汉语传统「三昧」）、samudghāta（TA克隆垃圾）、sanction（「裁定/判罚」竞技假阳性）、
+    scheme（「概形」代数几何假阳性，本行塔尔斯基语境图式）、self-attribution（审定「自我归因」心理学，
+    本行康德统觉自我归赋体例）、world-unity（命中空，康德世界统一性通行）。
+  * 通行形与审定变体并存：prospect theory（审定「展望理论」×4，学界卡尼曼语境通行「前景理论」，
+    登记行已有亦作注）、rational reconstruction（审定「理性重建」，科学哲学界两形并用沿既有行）、
+    rationality（审定「理性」泛词，本库与 reason「理性」分立取「合理性」）、recognition（审定「再认/识别」心理学，
+    本行亚里士多德 Wiedererkennung 再认识）、recipient（审定「受体/受益人」，本行独裁者博弈受赠者）、
+    quantum-related 下位不另计。
+* **维基排查 4 行说明**：Conventuals 为已撤证留痕；Herbrand/Nelson/Takeuti 三行系当日并行会话新增人名行，
+  依据列为“中文维基同/英文维基确认”之提及性措辞（非引证权威），留待该线自查润色，本批不动。
+* 本批后二轮队列收官；error 残量 27 词待三轮 `--unverified` 重建清点。
+
 
 
 
