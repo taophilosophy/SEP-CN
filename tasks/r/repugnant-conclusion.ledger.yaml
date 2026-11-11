@@ -11,342 +11,458 @@ segments:
     kind: body
     source: |-
       In Derek Parfit’s original formulation the Repugnant Conclusion is stated as follows: “For any possible population of at least ten billion people, all with a very high quality of life, there must be some much larger imaginable population whose existence, if other things are equal, would be better even though its members have lives that are barely worth living” (Parfit 1984)[^parfit-1984]. The Repugnant Conclusion highlights a problem in an area of ethics which has become known as *population ethics*. The last three decades have witnessed an increasing philosophical interest in questions such as “Is it possible to make the world a better place by creating additional happy people?” and “Is there a moral obligation to have children?” The main problem has been to find an adequate theory about the moral value of states of affairs where the number of people, the quality of their lives (or their life-time welfare or well-being—we shall use these terms interchangeably here), and their identities may vary. Since, arguably, any reasonable moral theory has to take these aspects of possible states of affairs into account when determining the normative status of actions, the study of population ethics is of general import for moral theory. As the name indicates, Parfit finds the Repugnant Conclusion unacceptable and many philosophers agree. However, it has been surprisingly difficult to find a theory that avoids the Repugnant Conclusion without implying other equally counterintuitive conclusions. Thus, the question as to how the Repugnant Conclusion should be dealt with and, more generally, what it shows about the nature of ethics has turned the conclusion into one of the cardinal challenges of modern ethics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在德里克·帕菲特的原始表述中，令人反感的结论是这样陈述的：“对于任何至少有 100 亿人、且全都享有极高生活品质的可能人口，必定存在某个大得多的可想见人口，在其他条件相同的情况下，其存在会更好，哪怕其成员过的生活仅勉强值得一过”（Parfit 1984）[^parfit-1984]。令人反感的结论凸显了伦理学中一个已成所谓**人口伦理学**领域的问题。过去三十年里，哲学界对“通过创造额外的幸福人口，是否可能让世界变得更好？”以及“是否有生育孩子的道德义务？”这类问题的兴趣日增。主要问题一直是：要找到一种恰当的理论，来说明人数、其生活质量（或其一生的福祉或福利——此处互换使用这些术语），以及其身份都可能变化的事态的道德价值。既然任何合理的道德理论在判定行动的规范地位时，都须把可能事态的这些方面纳入考虑，人口伦理学研究对道德理论便具有普遍意义。正如名称所示，帕菲特认为令人反感的结论不可接受，许多哲学家也同意。然而，要找到一种既避开令人反感的结论、又不蕴含其他同样反直觉结论的理论，却出奇地困难。于是，如何处理令人反感的结论、更一般地说，它显示出伦理学的何种本性，这个问题使该结论成为现代伦理学的核心挑战之一。
+    step2: |-
+      在德里克·帕菲特最初的表述中，令人反感的结论是这样说的：“对任何至少有一百亿人、且人人享有极高生活品质的可能人口来说，总还存在某个大得多的可想见人口：在其他条件相同的情况下，这个人口的存在更好，尽管其成员的生活只是勉强值得一过”（Parfit 1984）[^parfit-1984]。这一结论把伦理学中一个如今称作**人口伦理学**的领域的问题凸显出来。近三十年来，哲学界对“多造些幸福的人，能否让世界变得更好？”“生儿育女有没有道德义务？”这类问题兴趣渐浓。核心难题在于：人数、生活质量（或一生的福祉——下文两词互换）与人的身份都可能变动，如何为这类事态的道德价值找到一种恰当理论？任何说得通的道德理论，在判定行动的规范地位时，都得顾及可能事态的这些方面，因此人口伦理学研究对整个道德理论都有普遍意义。顾名思义，帕菲特认为这个结论不可接受，不少哲学家也持同样看法。可是，要找到一种既躲开它、又不带出其他同样反直觉结论的理论，竟出奇地难。于是，如何对待令人反感的结论，以及它究竟透露了伦理学的什么本性，就成了现代伦理学的重大挑战之一。
   - id: 2
     kind: body
     source: |-
       ## 1. Arriving at the Repugnant Conclusion
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1 通向令人反感的结论
+    step2: |-
+      ## 1 如何走到令人反感的结论
   - id: 3
     kind: body
     source: |-
       Parfit is not the first philosopher to have noticed that influential moral views may have implications of the sort outlined in the Repugnant Conclusion. Henry Sidgwick was close to acknowledging the implication when he pointed out that “… the point up to which, on utilitarian principles, population ought to be encouraged to increase, is not that at which the average happiness is the greatest possible—as appears to be often assumed by political economists of the school of Malthus—but that at which the happiness reaches its maximum” (Sidgwick 1907 p. 418; for other early sources, see Broad 1930 pp. 249–250; McTaggart 1927 pp. 452–53; Narveson 1967)[^broad-1930][^mctaggart-1927][^narveson-1967][^sidgwick-1907]. However, it is Parfit who has brought the conclusion to recent philosophical attention both by stressing the importance of the conclusion and by showing how difficult it is to avoid it (Parfit 1984)[^parfit-1984].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      帕菲特并非第一个注意到有影响的道德观点可能含有令人反感的结论那类蕴含的哲学家。亨利·西季威克几乎承认了这一蕴含，他指出：“……按功利主义原则，人口应当被鼓励增长到的那一点，并不是平均幸福达到可能最大之处——马尔萨斯学派的政治经济学家似乎常作此假定——而是幸福达到其最大值之处”（Sidgwick 1907，第 418 页；其他早期文献见 Broad 1930，第 249–250 页；McTaggart 1927，第 452–53 页；Narveson 1967）[^broad-1930][^mctaggart-1927][^narveson-1967][^sidgwick-1907]。然而，正是帕菲特把这结论带到晚近哲学讨论的前台：他既强调其重要性，又表明要避开它何等困难（Parfit 1984）[^parfit-1984]。
+    step2: |-
+      有影响的道德观点会引出类似令人反感的结论这样的蕴含，帕菲特并非第一个发觉的人。亨利·西季威克差一点就承认了这一点。他指出：“……按照功利主义原则，人口该被鼓励增长到哪一点，并不在于平均幸福达到可能的最大值——马尔萨斯学派的政治经济学家似乎常这样假定——而在于幸福达到其最大值”(Sidgwick 1907，第 418 页；其他早期文献见 Broad 1930，第 249–250 页；McTaggart 1927，第 452–53 页；Narveson 1967)[^broad-1930][^mctaggart-1927][^narveson-1967][^sidgwick-1907]。不过，真正把这个结论推到晚近哲学聚光灯下的还是帕菲特：他一面强调其分量，一面揭示出要绕开它有多难(Parfit 1984)[^parfit-1984]。
   - id: 4
     kind: body
     source: |-
       Parfit was led to the Repugnant Conclusion by his considerations concerning how we ought to act in cases where our decisions have an impact on who will exist in the future. Consider the following two scenarios (see Parfit 1984 chapter 16)[^parfit-1984]:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      帕菲特是被他对如下问题的思考引向令人反感的结论的：当我们的决定会影响到未来谁将存在时，我们应当如何行动。试看下面两个情形（见 Parfit 1984 第 16 章）[^parfit-1984]：
+    step2: |-
+      帕菲特之所以走到令人反感的结论，是出于这样的考虑：当我们的决定会影响未来谁将出生，我们应当如何行事？请比较下面两个情形(见 Parfit 1984 第 16 章)[^parfit-1984]：
   - id: 5
     kind: body
     source: |-
       1. A pregnant mother suffers from an illness which, unless she undergoes a simple treatment, will cause her child to have a permanent impairment which will cause significant suffering throughout the child’s life. If she receives the treatment and is cured her child will have no such impairment.
       2. A woman suffers from an illness which means that, if she gets pregnant now, her child will have a permanent impairment which will cause significant suffering throughout the child’s life. If she postpones her pregnancy a few months until she has recovered, her child will have no such impairment.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 一位怀孕的母亲罹患某种疾病；除非她接受一次简单治疗，否则会使孩子带有永久性缺陷，在孩子一生中造成显著痛苦。若她接受治疗并被治愈，孩子就不会有此缺陷。
+      2. 一位妇女罹患某种疾病，这意味着：若她现在怀孕，她的孩子将带有永久性缺陷，在孩子一生中造成显著痛苦。若她把怀孕推迟几个月、待康复后再孕，孩子就不会有此缺陷。
+    step2: |-
+      1. 一位孕妇患了病。只要接受一次简单治疗就能治好；若不治疗，孩子会落下永久性缺陷，一生都要承受相当多的痛苦。治好之后，孩子便不会有这样的缺陷。
+      2. 一位妇女患了病。这意味着她现在若怀孕，孩子会落下永久性缺陷，一生都要承受相当多的痛苦。她若把怀孕推迟几个月，等病好了再怀，孩子便不会有这样的缺陷。
   - id: 6
     kind: body
     source: |-
       What ought the women to do in the two cases? In case (1) the obvious answer is that the mother ought to undergo the treatment since her child will thereby get a better life. However, when we turn to case (2), it is problematic to appeal to the improved life of some child as the reason for taking action (i.e., postponing the pregnancy). If the woman postpones her pregnancy, then the child that is brought into existence will not be identical to the child she would have had, had she decided to become pregnant while she was ill (it will not be the same ovum and sperm that meet). Hence, the alternative for the child brought into existence during the mother’s illness is non-existence, and to claim that it would have been better for this child if the mother had postponed pregnancy is tantamount to claiming that the child’s non-existence would have been better for the child. Assuming that the child would have a life worth living, this seems wrong if not nonsensical. Indeed, in case (2), there are two hypothetical children and whether or not the mother postpones the pregnancy, neither child will have a “better life” as a result of the mother’s action. For both hypothetical children, the alternative is nonexistence. If the mother postpones her pregnancy while ill, the first child wouldn’t exist, and if she doesn’t postpone, the second child wouldn’t exist. (For a discussion, see Narveson 1967, Parfit 1984, appendix G; Adler 2012; Bykvist 2007c, 2015; Arrhenius & Rabinowicz 2015, McMahan 1981, 2009, 2013; Rabinowicz 2009; Holtug 2010; Fleurbaey & Voorhoeve 2015)[^adler-2012][^arrhenius-2015][^arrhenius-2015-2][^bykvist-2007c][^fleurbaey-2015][^holtug-2010][^mcmahan-1981][^narveson-1967][^parfit-1984][^rabinowicz-2009].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在这两个情形中，两位妇女应当怎么做？在情形 (1) 中，明显的答案是母亲应当接受治疗，因为孩子因此会得到更好的生活。然而，转到情形 (2) 时，以某个孩子的生活得到改善为理由来采取行动（即推迟怀孕），就有问题了。如果这位妇女推迟怀孕，那么被带到世上来的那个孩子，与她在患病期间怀孕所会有的孩子并不是同一个（相遇的卵子与精子不同）。于是，对在母亲患病期间被带到世上的那个孩子来说，其替代选项是不存在；而声称母亲若推迟怀孕对这孩子会更好，等于声称这孩子的非存在对它来说会更好。假定这孩子会过上值得一过的生活，这看来就是错的，甚至是无意义的。确实，在情形 (2) 中有两个假设的孩子，无论母亲是否推迟怀孕，两个孩子都不会因母亲的行动而获得“更好的生活”。对两个假设的孩子来说，替代选项都是不存在。若母亲在患病时推迟怀孕，第一个孩子不会存在；若她不推迟，第二个孩子不会存在。（讨论见 Narveson 1967；Parfit 1984 附录 G；Adler 2012；Bykvist 2007c, 2015；Arrhenius & Rabinowicz 2015；McMahan 1981, 2009, 2013；Rabinowicz 2009；Holtug 2010；Fleurbaey & Voorhoeve 2015）[^adler-2012][^arrhenius-2015][^arrhenius-2015-2][^bykvist-2007c][^fleurbaey-2015][^holtug-2010][^mcmahan-1981][^narveson-1967][^parfit-1984][^rabinowicz-2009]。
+    step2: |-
+      两位妇女各该怎么做？情形 (1) 的答案很清楚：母亲应当接受治疗，因为孩子因此能过上好一些的生活。可到了情形 (2)，再拿“某个孩子的生活会改善”当理由去行动（即推迟怀孕），就讲不通了。因为这位妇女若推迟怀孕，被带到世上的孩子，就跟她带病怀孕会有的那个孩子不是同一个（相遇的卵子与精子都不同）。于是，对母亲患病期间出生的那个孩子来说，替代选项就是不存在；说“母亲若推迟怀孕，对这孩子更好”，就等于说“这孩子不存在对它更好”。假定这孩子的一生值得一过，这话看来就是错的，甚至毫无意义。再说，情形 (2) 里有两个假设的孩子，母亲推不推迟怀孕，两个孩子都不会因她的行动而得到“更好的生活”——两者的替代选项都是不存在：她带病推迟，第一个孩子不会存在；她不推迟，第二个孩子不会存在。（讨论见 Narveson 1967；Parfit 1984 附录 G；Adler 2012；Bykvist 2007c, 2015；Arrhenius & Rabinowicz 2015；McMahan 1981, 2009, 2013；Rabinowicz 2009；Holtug 2010；Fleurbaey & Voorhoeve 2015）[^adler-2012][^arrhenius-2015][^arrhenius-2015-2][^bykvist-2007c][^fleurbaey-2015][^holtug-2010][^mcmahan-1981][^narveson-1967][^parfit-1984][^rabinowicz-2009]。
   - id: 7
     kind: body
     source: |-
       How, if at all, should a change in the identity of the involved parties in the compared outcomes affect our moral evaluation? Parfit refers to this as “the Non-Identity Problem” (see the entry on the nonidentity problem). Following what would probably strike most people as the most plausible answer Parfit favors what he calls the “No-Difference View” (1984 p. 367), which implies that a change in identity should not affect the answer: the woman in case (2) ought to postpone her pregnancy, just as the woman in case (1) ought to undergo the treatment. A straightforward way of capturing the No-Difference View is total utilitarianism according to which the best outcome is the one in which there would be the greatest quantity of whatever makes life worth living (Parfit 1984 p. 387)[^parfit-1984]. However, this view implies that any loss in the quality of lives in a population can be compensated for by a sufficient gain in the quantity of a population; that is, it leads to the Repugnant Conclusion. Consider the following diagram:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所比较结果中当事人身份的变化，究竟应当、或者是否应当影响我们的道德评价？帕菲特称之为“非同一性问题”（见非同一性问题词条）。遵循大概会让多数人觉得最合理的答案，帕菲特赞同他所谓的“无差别观点”（1984，第 367 页），它蕴含：身份的变化不应影响答案——情形 (2) 中的妇女应当推迟怀孕，正如情形 (1) 中的妇女应当接受治疗。把握无差别观点的一种直截了当的方式是总体功利主义：按它，最好的结果是能让生活值得一过的东西数量最大的结果（Parfit 1984，第 387 页）[^parfit-1984]。然而，这一观点蕴含：人口中生活质量的任何损失，都可以由人口数量的充分增加来补偿；也就是说，它导向令人反感的结论。试看下图：
+    step2: |-
+      在所比较的结果里，当事人换了一批，这该不该影响我们的道德评价？帕菲特把这件事称作“非同一性问题”（见“非同一性问题”词条）。他选了大概多数人都会觉得最靠谱的那个答案，称之为“无差别观点”(1984，第 367 页)：身份变了，答案不变。也就是说，情形 (2) 里的妇女应当推迟怀孕，正如情形 (1) 里的妇女应当接受治疗。要抓住无差别观点，最直白的办法是总体功利主义：能让生活值得一过的东西总量最大的结果，就是最好的结果(Parfit 1984，第 387 页)[^parfit-1984]。可这个观点蕴含：人口中生活质量的任何损失，都能用人口数量的足够增加来补偿——这就通向了令人反感的结论。请看下图：
   - id: 8
     kind: body
     source: |-
       *Figure 1*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **图 1**
+    step2: |-
+      **图 1。**
   - id: 9
     kind: body
     source: |-
       ![Figure 1](../assets/repugnant-conclusion/fig1.png)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ![图 1](../assets/repugnant-conclusion/fig1.png)
+    step2: |-
+      ![图 1](../assets/repugnant-conclusion/fig1.png)
   - id: 10
     kind: body
     source: |-
       Figure 1
-    step1: TBD
-    step2: TBD
+    step1: |-
+      图 1
+    step2: |-
+      图 1
   - id: 11
     kind: body
     source: |-
       The blocks above represent two populations, *A* and *Z*. The width of each block shows the number of people in the corresponding population, the height shows their quality of life or lifetime welfare. All the lives in the above diagram have lives worth living. People’s quality of life is much lower in *Z* than in *A* but, since there are many more people in *Z*, there is a greater quantity of welfare in *Z* as compared to *A*. Consequently, although the people in *A* lead very good lives and the people in *Z* have lives only barely worth living, *Z* is nevertheless better than *A* according to total utilitarianism. Thus, the attempt to provide a plausible solution to the Non-Identity Problem has led to a seemingly unacceptable conclusion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上方的方块代表两个人口，*A* 与 *Z*。每个方块的宽度显示相应人口中的人数，高度显示其生活质量或一生福祉。上图中一切生活都是值得过的生活。*Z* 中人的生活质量远低于 *A*，但 *Z* 中人数多得多，故 *Z* 的福祉总量大于 *A*。于是，尽管 *A* 中的人过着极好的生活，*Z* 中的人生活仅勉强值得一过，按总体功利主义，*Z* 仍然优于 *A*。这样，为对非同一性问题给出一个看似合理的解答，竟引出了一个看来不可接受的结论。
+    step2: |-
+      图中两个方块代表两个人口，*A* 与 *Z*。方块宽度表人数，高度表生活质量或一生的福祉。图中一切生活都值得一过。*Z* 中人的生活质量比 *A* 低得多，可 *Z* 的人数多得多，福祉总量也就大于 *A*。于是，尽管 *A* 中的人过得极好，*Z* 中的人仅勉强值得一过，按总体功利主义，*Z* 仍优于 *A*。本来是想给非同一性问题找一个说得通的解答，结果却弄出一个看来无法接受的结论。
   - id: 12
     kind: body
     source: |-
       Leaving the Non-Identity Problem aside, there are other arguments establishing that the Repugnant Conclusion is not easily avoided. Parfit has developed an argument to this effect. Consider the three population scenarios indicated in Fig. 2.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      撇开非同一性问题不谈，还有其他论证表明，令人反感的结论不易避开。帕菲特提出了一个这样的论证。试看图 2 所示的三个入口情形。
+    step2: |-
+      就算把非同一性问题搁在一边，也还有别的论证说明：令人反感的结论没那么容易躲开。帕菲特就构造过一个。请看图 2 所示的三个入口情形。
   - id: 13
     kind: body
     source: |-
       *Figure 2*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **图 2**
+    step2: |-
+      **图 2。**
   - id: 14
     kind: body
     source: |-
       ![Figure 2](../assets/repugnant-conclusion/fig2.png)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ![图 2](../assets/repugnant-conclusion/fig2.png)
+    step2: |-
+      ![图 2](../assets/repugnant-conclusion/fig2.png)
   - id: 15
     kind: body
     source: |-
       Figure 2
-    step1: TBD
-    step2: TBD
+    step1: |-
+      图 2
+    step2: |-
+      图 2
   - id: 16
     kind: body
     source: |-
       In population *A*, everybody enjoys a very high quality of life. In population *A*+ there is one group of people as large as the group in *A* and with the same high quality of life. But *A*+ also contains a number of people with a somewhat lower quality of life. In Parfit’s terminology *A*+ is generated from *A* by “mere addition”. Comparing *A* and *A*+ it is reasonable to hold that *A*+ is better than *A* or, at least, not worse. The idea is that an addition of lives worth living cannot make a population worse. Consider the next population *B* with the same number of people as *A*+, all leading lives worth living and at an average welfare level slightly above the average in *A*+, but lower than the average in *A*. It is hard to deny that *B* is better than *A*+ since it is better in regard to both average welfare (and thus also total welfare) and equality. However, if *A*+ is at least not worse than *A*, and if *B* is better than *A*+, then *B* is also better than *A* given full comparability among populations (i.e., setting aside possible incomparabilities among populations). By parity of reasoning (scenario *B*+ and *C*, *C*+ etc.), we end up with a population *Z* in which all lives have a very low positive welfare. Thus, the final conclusion is that *Z* is better than *A*, which is the Repugnant Conclusion. By what apparently constitute sound steps of reasoning we have arrived at an absurd conclusion. This is paradoxical. Thus, is ‘mere’ addition innocuous, as is here assumed? Well, if it is thought to be suspicious, there is a way of avoiding it by starting with a population like the one in *A* and adding new people living at a slightly lower level than the people in *A* in a manner that *increases* the well-being of existing people. You then proceed down the moral alphabet by levelling out the well-being between the best and worst off in a manner that gives more to those who are worst off than you take from those who are best off; in each step new people are added, in order to make this change of the situation possible (Parfit 1984; Tännsjö 2002)[^parfit-1984][^tännsjö-2002]. Moreover, there are other abstract arguments leading in the same direction, some of them presented by Parfit himself (see section 2.5 and 2.7). It seems then that the Repugnant Conclusion is very hard to get around.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在人口 *A* 中，人人享有极高的生活质量。在人口 *A*+ 中，有一群人，其规模与 *A* 中的人群一样大，生活质量也同样高。但 *A*+ 还含有若干生活质量略低的人。按帕菲特的术语，*A*+ 是由 *A* 经“纯粹增加”产生的。比较 *A* 与 *A*+，有理由认为 *A*+ 优于 *A*，或至少不更差。其想法是：增加值得过的生活，不会使一个入口变差。再看下一个人口 *B*，其人数与 *A*+ 相同，全部过着值得过的生活，平均福利略高于 *A*+ 的平均水平，但低于 *A* 的平均水平。很难否认 *B* 优于 *A*+，因为它在平均福利（因而也在总福利）与平等方面都更好。然而，若 *A*+ 至少不差于 *A*，而 *B* 优于 *A*+，那么在各人口之间完全可比的前提下（即撇开人口之间可能存在的不可比性），*B* 也优于 *A*。依此类推（情形 *B*+ 与 *C*、*C*+ 等等），我们最终得到一个人口 *Z*，其中一切生活的福利都为极低的正值。于是最终结论是：*Z* 优于 *A*，这正是令人反感的结论。借由一些看来健全的推理步骤，我们得到了一个荒谬的结论。这就是悖论。那么，“纯粹的”增加是否如这里所假定的那样无害？若觉得可疑，也有办法避开它：从 *A* 那样的人口出发，增加一些生活水平略低于 *A* 中人的新人，方式是要*增加*现有人的福祉。然后，在道德字母表上往下走，以如下方式拉平最善者与最差者之间的福祉——给最差者的多于从最善者那里取走的；每一步都新增一些人，以使这一情形的改变成为可能（Parfit 1984；Tännsjö 2002）[^parfit-1984][^tännsjö-2002]。此外，还有其他抽象论证指向同一方向，其中一些是帕菲特本人提出的（见 2.5 与 2.7 节）。看来，令人反感的结论实在很难绕过。
+    step2: |-
+      人口 *A* 里，人人享有极高的生活质量。人口 *A*+ 里有一群人，人数与 *A* 一样多，生活质量同样高；此外还有一批人，生活质量略低些。按帕菲特的术语，*A*+ 是从 *A* 经“纯粹增加”生成的。拿 *A* 与 *A*+ 相比，有理由说 *A*+ 优于 *A*，至少不更差——道理是：增加值得一过的生活，不会让人口变糟。再看人口 *B*：人数与 *A*+ 相同，人人都过着值得一过的生活，平均福利略高于 *A*+，却低于 *A*。*B* 在平均福利（从而总福利）与平等方面都更好，很难否认 *B* 优于 *A*+。可是，假如 *A*+ 至少不差于 *A*，*B* 又优于 *A*+，那么在各人口完全可比的前提下（即不计人口间可能的不可比），*B* 也优于 *A*。如此类推（*B*+ 与 *C*、*C*+ 等），最后落到人口 *Z*：其中一切生活的福利都只是极低的正值。结论就是 *Z* 优于 *A*——这正是令人反感的结论。一步一步看来都说得通，结果却荒唐。这就是悖论。那么，“纯粹”增加当真如所假定那样无害吗？若觉得可疑，也有办法绕开：从 *A* 这样的人口起步，添一些生活水平略低于 *A* 中人的新人，而添的方式要能*提高*现有人的福祉。然后沿着道德字母表往下，用这样的办法拉平最善者与最差者：给最差者的多过从最善者那里取走的；每一步都添些新人，好让这种改动成为可能(Parfit 1984；Tännsjö 2002)[^parfit-1984][^tännsjö-2002]。此外还有别的抽象论证指向同一方向，其中一些出自帕菲特本人（见 2.5 与 2.7 节）。看来，令人反感的结论确实极难绕过。
   - id: 17
     kind: body
     source: |-
       The main challenge which Parfit presented in his celebrated work *Reasons and Persons* is to develop a theory of beneficence—theory X he calls it—which is able to solve the Non-Identity Problem, which does not lead to the Repugnant Conclusion and which thus manages to block the Mere Addition Paradox, without facing other unacceptable conclusions. However, Parfit’s own conclusion was that he had not succeeded in developing such a theory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      帕菲特在其名著《理与人》中提出的主要挑战，是发展一种仁善理论——他称之为理论 X——它能够解决非同一性问题，不导向令人反感的结论，从而得以阻断纯粹增加悖论，同时又不面对其他不可接受的结论。然而，帕菲特自己的结论是：他未能发展出这样一种理论。
+    step2: |-
+      帕菲特在名著《理与人》里立下的主要挑战，是搞出一套仁善理论——他叫它“理论 X”。这理论要能解决非同一性问题，不引出令人反感的结论，从而挡住纯粹增加悖论，同时又不带出别的不可接受结论。可惜帕菲特自己的结论是：这套理论他没做出来。
   - id: 18
     kind: body
     source: |-
       It might be tempting for people who have little sympathy with utilitarian thought to try to set the problems raised by the Repugnant Conclusion to the side, thinking that it constitutes a problem only for utilitarians. However, most people tend to believe that we have *some* obligation to make the world a better place, at least if we can do so without violating any deontological constraints, and at a not too high cost to ourselves. Clearly all who think along these lines, even without being utilitarians, are faced with the problem of the Repugnant Conclusion. We can assume that other values and considerations are not decisive for the choice between populations *A* and *Z* in Figure 1 (e.g., promises, rights). The Repugnant Conclusion is a problem for all moral theories which hold that welfare at least matters when all other things are equal.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对功利主义思想少有同情的人，也许很想把令人反感的结论所提出的问题搁到一边，以为它只对功利主义者构成问题。然而，多数人倾向于相信，我们有*某种*义务让世界变得更好，至少当这样做不违反任何义务论约束、且自身代价不太高时。显然，凡是这样想的人，即便不是功利主义者，也面对令人反感的结论这一问题。我们可以假定，其他价值与考量（如承诺、权利）对图 1 中人口 *A* 与 *Z* 之间的选择并不起决定作用。令人反感的结论是一切主张福祉在其他条件相同的情况下至少要紧的道德理论都要面对的问题。
+    step2: |-
+      对功利主义没多少好感的人，也许想把这个结论抛到一边，觉得它只是功利主义者的麻烦。可多数人倾向于相信：我们总归有*某种*义务让世界变好，至少在不违反任何义务论约束、自己代价又不算太高的时候。凡是这么想的人，即便不是功利主义者，也躲不开令人反感的结论。我们大可以假定，在图 1 的 *A* 与 *Z* 之间作选择时，别的价值与考量（承诺、权利之类）并不起决定作用。所以，只要一种道德理论承认“其他条件相同时，福祉至少要紧”，它就得面对令人反感的结论。
   - id: 19
     kind: body
     source: |-
       ## 2. Eight Ways of Dealing with the Repugnant Conclusion
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 处理令人反感的结论的八条途径
+    step2: |-
+      ## 2 应对令人反感的结论的八条路径
   - id: 20
     kind: body
     source: |-
       Several philosophers have taken up the challenge from Parfit and have engaged in considerations as to what would constitute a satisfactory population ethics. Some theorists have done so by accepting the framework Parfit has set for the investigation; that is, they have carried on the work of developing an ethical theory that succeeds in meeting Parfit’s minimal requirements for adequacy. Other theorists have been less willing to accept the scenery as set by Parfit and have more or less radically challenged his requirements for a plausible theory. The Repugnant Conclusion has been placed at the centre of this discussion. The suggestions in the literature on how to deal with the Repugnant Conclusion can roughly be divided into eight categories: (1) introducing new ways of aggregating welfare into a measure of value; (2) questioning the way we can compare and measure welfare; (3) counting welfare differently depending on temporal or modal features; (4) revising the notion of a life worth living; (5) rejecting transitivity; (6) appeal to other values; (7) accepting the impossibility of a satisfactory population ethics; (8) accepting the Repugnant Conclusion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若干哲学家接受帕菲特的挑战，就什么才构成令人满意的人口伦理学展开思考。有些理论家接受了帕菲特为探究设定的框架，也就是说，他们继续致力于发展一种伦理理论，以满足帕菲特对充分性的最低要求。另一些理论家则不那么愿意接受帕菲特设定的场景，或多或少激进地挑战他对一种合理理论的要求。令人反感的结论被置于这场讨论的中心。文献中关于如何处理令人反感的结论的建议，大致可分为八类：(1) 引入把福祉聚合为价值度量的新方式；(2) 质疑我们比较与度量福祉的方式；(3) 依据时间或模态特征以不同方式计算福祉；(4) 修正“值得过的生活”这一概念；(5) 拒斥传递性；(6) 诉诸其他价值；(7) 接受令人满意的人口伦理学之不可能；(8) 接受令人反感的结论。
+    step2: |-
+      有一批哲学家接下了帕菲特的挑战，琢磨什么才算令人满意的人口伦理学。有人认可帕菲特搭的框架，接着去发展一种能满足他最低充分性要求的伦理理论；也有人不太买账，或轻或重地挑战他对“合理理论”的要求。令人反感的结论始终是这场讨论的轴心。文献中对付它的建议，大致可分作八类：(1) 另造把福祉聚合成价值度量的方式；(2) 质疑比较与度量福祉的方式；(3) 按时间或模态特征分别计算福祉；(4) 修正“值得过的生活”这一概念；(5) 拒斥传递性；(6) 诉诸其他价值；(7) 承认令人满意的人口伦理学不可能；(8) 接受令人反感的结论。
   - id: 21
     kind: body
     source: |-
       ### 2.1 Introducing new ways of aggregating welfare into a measure of value
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.1 引入把福祉聚合为价值度量的新方式
+    step2: |-
+      ### 2.1 另造把福祉聚合成价值度量的方式
   - id: 22
     kind: body
     source: |-
       #### 2.1.1 The average principle
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 2.1.1 平均原则
+    step2: |-
+      #### 2.1.1 平均原则
   - id: 23
     kind: body
     source: |-
       One proposal that easily comes to mind when faced with the Repugnant Conclusion is to reject total utilitarianism in favor of a principle prescribing that the *average* welfare per life in a population is maximized. Average utilitarianism and total utilitarianism are extensionally equivalent in the sense that they yield the same ranking when the compared populations are of the same size. They may differ significantly in different-number cases, however. This is easily seen when the average approach is adopted in the comparison of the populations in Figure 1 and Figure 2. That the average well-being is all that matters implies that no loss in average well-being can be compensated for by a gain in total well-being. Thus in Figure 1, *A* is preferable to *Z*, i.e., the Repugnant Conclusion is avoided. In Figure 2, *A* is preferable to *A*+, i.e., the Mere Addition Paradox is blocked at the very first step.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      面对令人反感的结论，容易想到的一个提议是放弃总体功利主义，转而采用一条规定人口中每个生命的*平均*福祉最大化的原则。平均功利主义与总体功利主义在外延上等价，意思是：当所比较的人口规模相同时，它们给出相同的排序。但在不同人数的情形中，二者可能大相径庭。若在图 1 与图 2 的人口比较中采用平均进路，这一点很容易看出。平均福祉是唯一要紧的东西，这蕴含：平均福祉的任何损失都不能由总福祉的增加来补偿。于是在图 1 中，*A* 优于 *Z*，即令人反感的结论被避开。在图 2 中，*A* 优于 *A*+，即纯粹增加悖论在第一步就被阻断。
+    step2: |-
+      面对令人反感的结论，最顺手的提议之一，是放弃总体功利主义，改用一条要求“人口中每个生命的*平均*福祉最大化”的原则。平均功利主义与总体功利主义在外延上等价：所比人口规模一样时，两者给出的排序相同。可一旦人数不同，二者就可能相差很远。把平均进路用到图 1、图 2 的人口比较上，这一点一目了然。若只有平均福祉要紧，那么平均福祉的损失就不能拿总福祉的增加来补偿。于是图 1 中 *A* 优于 *Z*，令人反感的结论被避开；图 2 中 *A* 优于 *A*+，纯粹增加悖论第一步就给挡住了。
   - id: 24
     kind: body
     source: |-
       Despite these advantages, average utilitarianism has not obtained much acceptance in the philosophical literature. This is due to the fact that the principle has implications generally regarded as highly counterintuitive. For instance, the principle implies that for any population consisting of very good lives there is a better population consisting of just one person leading a life at a slightly higher level of well-being (Parfit 1984 chapter 19)[^parfit-1984]. More dramatically, the principle also implies that for a population consisting of just one person leading a life at a very negative level of well-being, e.g., a life of constant torture, there is another population which is better even though it contains millions of lives at just a slightly less negative level of well-being (Parfit 1984)[^parfit-1984]. That total well-being should not matter when we are considering lives worth ending is hard to accept. Moreover, average utilitarianism has implications very similar to the Repugnant Conclusion (see Sikora 1975; Anglin 1977)[^anglin-1977][^sikora-1975].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管有这些优点，平均功利主义在哲学文献中并未获得多少认可。这是因为该原则含有通常被视为极度反直觉的蕴含。例如，该原则蕴含：对任何由极好生活构成的人口，都存在一个更好的人口，仅由一个人构成，其生活处于略高的福祉水平（Parfit 1984 第 19 章）[^parfit-1984]。更富戏剧性的是，该原则还蕴含：对一个仅由一人构成、其生活处于极低负福祉水平（例如持续受折磨的生活）的人口，存在另一个更好的人口，尽管它含有数百万处于略低负福祉水平的生活（Parfit 1984）[^parfit-1984]。当我们考虑值得结束的生活时，总福祉竟不要紧，这难以接受。此外，平均功利主义还有与令人反感的结论非常相似的蕴含（见 Sikora 1975；Anglin 1977）[^anglin-1977][^sikora-1975]。
+    step2: |-
+      尽管有这些好处，平均功利主义在哲学文献里却没赢得多少认同。原因在于它带出的蕴含大多被视为极度反直觉。比如：任何由极好生活构成的人口，都存在一个更好的人口——只由一人构成，其福祉水平还略高些(Parfit 1984 第 19 章)[^parfit-1984]。更夸张的是：若一个入口只有一人，福祉水平极低（比如终身受折磨），也另有一个更好的人口，里面数百万人生活的福祉水平只比它略低一点(Parfit 1984)[^parfit-1984]。当我们谈论的是值得结束的生活，总福祉居然不算数，这很难接受。何况平均功利主义还会引出与令人反感的结论十分相似的蕴含(见 Sikora 1975；Anglin 1977)[^anglin-1977][^sikora-1975]。
   - id: 25
     kind: body
     source: |-
       #### 2.1.2 Variable value principles
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 2.1.2 可变价值原则
+    step2: |-
+      #### 2.1.2 可变价值原则
   - id: 26
     kind: body
     source: |-
       An attempt to produce a compromise between a total principle and an average principle is provided by a variable value principle. The idea behind this view is that the value of adding worthwhile lives to a population varies with the number of already existing lives in such a way that it has more value when the number of these lives is small than when it is large (Hurka 1983, Ng 1989; Sider 1991)[^hurka-1983][^sider-1991]. Taking this view, Noah’s obligation to procreate after the Deluge was much stronger than our obligation today. Variable value principles are sometimes called “compromise theories” since they can be said to be a compromise between total and average utilitarianism (for a version that is sensitive to more aspects regarding welfare, see Temkin 1997, 2012)[^temkin-1997]. With small populations enjoying high welfare, a variable value principle behaves like total utilitarianism and assigns most of the value to the total sum of welfare. For large populations with low welfare, the principle mimics average utilitarianism and assigns most of the value to average welfare. This property is what makes it possible to avoid the Repugnant Conclusion. If the value of extra lives decreases asymptotically, then there may exist an upper limit to the total value of a population (exactly as the sum of the infinite series 1+1/2+1/4+ … has the upper limit 2). As long as population *A* in Fig. 1 has a total value above this limit this population will be preferable no matter how populous the low quality population *Z* is (Hurka 1983, Ng 1989; Sider 1991; Temkin 1997, 2012)[^hurka-1983][^sider-1991][^temkin-1997].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      可变价值原则提供了在总体原则与平均原则之间折中的一种尝试。其背后的想法是：向人口增加值得过的生活，其价值随既有生命数目的变化而变化——既有的生命数目小时，增加的价值大；数目大时，增加的价值小（Hurka 1983, Ng 1989；Sider 1991）[^hurka-1983][^sider-1991]。持此观点，挪亚在大洪水之后繁衍后代的义务远强于我们今日的义务。可变价值原则有时被称为“折中理论”，因为可以说它是总体功利主义与平均功利主义之间的折中（关于对更多福祉方面敏感的版本，见 Temkin 1997, 2012）[^temkin-1997]。在享有高福利的小人口中，可变价值原则表现得像总体功利主义，把大部分价值归于福祉的总和。在福利低的大人口中，该原则模仿平均功利主义，把大部分价值归于平均福利。正是这一性质使它有可能避开令人反感的结论。若额外生命的价值渐近递减，那么人口的总价值可能存在一个上限（正如无穷级数 1+1/2+1/4+ … 之和有上限 2）。只要图 1 中人口 *A* 的总价值高于这一上限，那么无论低质量人口 *Z* 多么众多，*A* 都更可取（Hurka 1983, Ng 1989；Sider 1991；Temkin 1997, 2012）[^hurka-1983][^sider-1991][^temkin-1997]。
+    step2: |-
+      可变价值原则想在总体原则与平均原则之间折中。它的想法是：往人口里添一条值得过的生活，这份增量的价值随既有生命数而变——人少时添头大，人多时添头小(Hurka 1983, Ng 1989；Sider 1991)[^hurka-1983][^sider-1991]。照此说来，挪亚在大洪水之后生养众多的义务，就比我们今天的义务重得多。可变价值原则有时被叫作“折中理论”，因为可以说它正是总体功利主义与平均功利主义之间的折中(对更多福祉面向敏感的版本，见 Temkin 1997, 2012)[^temkin-1997]。人口小、福利高时，它像总体功利主义，把大部分价值判给福祉总量；人口大、福利低时，它学平均功利主义，把大部分价值判给平均福利。正是这一点使它有可能避开令人反感的结论：若额外生命的价值渐近递减，人口总价值就可能有个上限（正如无穷级数 1+1/2+1/4+ … 之和以 2 为上限）。只要图 1 中 *A* 的总价值高于这个上限，那边低质量的 *Z* 人口再多，*A* 也照样更可取(Hurka 1983, Ng 1989；Sider 1991；Temkin 1997, 2012)[^hurka-1983][^sider-1991][^temkin-1997]。
   - id: 27
     kind: body
     source: |-
       Depending on how precisely various different value principles are worked out they have different implications, which critics have regarded as devastating. For instance, on Ng’s explication of this view (Ng 1989) according to which the value of a population is determined by the product of the average welfare and a concave transformation of the number of lives, it follows that it can be better to add people with negative welfare rather than positive welfare to a population. More exactly, Ng’s theory implies the “Sadistic Conclusion” (Arrhenius 2000a)[^arrhenius-2000a]: For any number of lives with any negative welfare (e.g. tormented lives), there are situations in which it would be better to add these lives rather than some number of lives with positive welfare. Moreover, even if it might be reasonable to hold that the value of extra lives with positive welfare decreases asymptotically towards a limit, the analogous assumption about lives with negative welfare isn’t very attractive. Hence, given the reasonable assumption that the negative value of adding extra lives with negative welfare does not decrease relatively to population size, a proportional expansion in the population size can turn a good population into a bad one—a version of the so-called “Absurd Conclusion” (Parfit 1984)[^parfit-1984]. A population of one million people enjoying very high positive welfare and one person with negative welfare seems intuitively to be a good population. However, since there is a limit to the positive value of positive welfare but no limit to the negative value of negative welfare, proportional expansions (two million lives with positive welfare and two lives with negative welfare, three million lives with positive welfare and three lives with negative welfare, and so forth) will in the end yield a bad population.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      取决于各种不同价值原则被制定得多么精确，它们有不同的蕴含，批评者视之为致命问题。例如，按 Ng 对这一观点的阐释（Ng 1989），人口的价值由平均福利与生命数目的凹变换之积决定；由此推出：向人口增加负福利的人，可能比增加正福利的人更好。更确切地说，Ng 的理论蕴含“施虐结论”（Arrhenius 2000a）[^arrhenius-2000a]：对任何数目的负福利生活（例如受折磨的生活），都存在一些情形，在其中增加这些生活比增加某些数目的正福利生活更好。此外，即便有理由认为正福利额外生命的价值渐近递减至某上限，关于负福利生活的类似假定却不怎么吸引人。于是，给定一个合理假定——增加负福利额外生命的负价值不随人口规模相对递减——人口规模的按比例扩张就能把一个好人口变成坏人口，这是所谓“荒谬结论”的一个版本（Parfit 1984）[^parfit-1984]。一个百万人享有极高正福利、另有一人负福利的人口，直觉上看来是个好人口。然而，正福利的正价值有上限，负福利的负价值却无下限，因此按比例扩张（两百万正福利生命加两条负福利生命，三百万加三条，依此类推）最终将得出一个坏人口。
+    step2: |-
+      这些价值原则怎么精确化，蕴含就怎么变，批评者认为其中一些是致命的。比如 Ng 的阐释(Ng 1989)：人口价值等于平均福利乘以生命数目的凹变换；照此，往人口里添负福利的人，竟可能比添正福利的人更好。更确切地说，Ng 的理论引出“施虐结论”(Arrhenius 2000a)[^arrhenius-2000a]：不管有多少条负福利生活（比如受折磨的生活），总有情形表明，添上这些生活比添上若干正福利生活更好。再者，说正福利的额外生命其价值渐近递减到某个上限，还算说得过去；可对负福利生活作同样的假定，就不太吸引人了。于是，只要承认一个合理的假定——添负福利生命的负价值并不随人口规模相对缩小——人口按比例扩张就能把好人口变成坏人口，这是所谓“荒谬结论”的一个版本(Parfit 1984)[^parfit-1984]。一百万条极高正福利生活加一条负福利生活，直觉上像是个好人口；但正福利的价值有上限，负福利的负价值却没有下限，按比例扩张下去（两百万正福利加两条负福利，三百万加三条，如此类推），到头来还是个坏人口。
   - id: 28
     kind: body
     source: |-
       #### 2.1.3 Critical level principles
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 2.1.3 临界水平原则
+    step2: |-
+      #### 2.1.3 临界水平原则
   - id: 29
     kind: body
     source: |-
       Another way of modifying total utilitarianism is to introduce a critical level (Kavka 1982, Parfit 1984; Locke 1984; Blackorby *et al*. 1997, 2004, 2005; Broome 2004)[^blackorby-1997][^broome-2004][^kavka-1982][^parfit-1984]. As is the case with the variable value view, a critical level view is based on a split between prudential and moral value. However, in this case the split is even more radical. The idea is that a person’s life contributes positively to the value of a population only if the quality of the person’s life is above a certain positive critical level. Below this level the contributive value of a life is neutral (Kavka 1982)[^kavka-1982], negative (Blackorby *et al.* 1997, 2004, 2005; cf. Feldman’s theory below)[^blackorby-1997], or introduces incommensurability or vagueness in the ordering of populations (Blackorby *et al.* 2005; Broome 2004; Rabinowicz 2009; cf. Parfit 2016)[^blackorby-2005][^broome-2004][^parfit-2016][^rabinowicz-2009], even though the person leads a life worth living. In its simplest form, the critical level view is a modified version of total utilitarianism. The contributive value of a person’s life is her welfare minus a positive critical level. The value of a population is calculated by summing these differences for all individuals in the population. The critical level view thereby succeeds in avoiding the Repugnant Conclusion. Assuming the critical level is higher than the individual welfare levels in population *Z*, the Repugnant Conclusion is blocked since the value of *Z* is negative, and thus worse than *A*, according to the critical level view.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      修改总体功利主义的另一种方式，是引入一个临界水平（Kavka 1982, Parfit 1984；Locke 1984；Blackorby *et al*. 1997, 2004, 2005；Broome 2004）[^blackorby-1997][^broome-2004][^kavka-1982][^parfit-1984]。与可变价值观点一样，临界水平观点也基于审慎价值与道德价值之分。不过在此情形中，这一分裂更为彻底。其想法是：一个人的生命只有在其生活质量高于某个正临界水平时，才对人口价值有正贡献。低于此水平时，一条生命的贡献价值是中性的（Kavka 1982）[^kavka-1982]、负的（Blackorby *et al.* 1997, 2004, 2005；参见下文费尔德曼的理论）[^blackorby-1997]，或者在人口排序中引入不可通约性或模糊性（Blackorby *et al.* 2005；Broome 2004；Rabinowicz 2009；参见 Parfit 2016）[^blackorby-2005][^broome-2004][^parfit-2016][^rabinowicz-2009]，尽管此人过着值得过的生活。在其最简单的形式中，临界水平观点是总体功利主义的一个修改版：一个人生命的贡献价值，等于其福祉减去一个正临界水平；人口的价值，则通过把人口中所有个体的这些差额加总来计算。临界水平观点由此成功地避开了令人反感的结论。假定临界水平高于人口 *Z* 中个体的福祉水平，那么按临界水平观点，*Z* 的价值为负，从而劣于 *A*，令人反感的结论便被阻断。
+    step2: |-
+      另一条改造总体功利主义的路子，是设一个临界水平(Kavka 1982, Parfit 1984；Locke 1984；Blackorby *et al*. 1997, 2004, 2005；Broome 2004)[^blackorby-1997][^broome-2004][^kavka-1982][^parfit-1984]。和可变价值观点一样，它也把审慎价值与道德价值分开，只是分得更彻底：一条生命只有生活质量高过某个正临界水平，才对人口价值有正贡献；低于这个水平，其贡献价值或是中性的(Kavka 1982)[^kavka-1982]，或是负的(Blackorby *et al.* 1997, 2004, 2005；参见下文费尔德曼的理论)[^blackorby-1997]，或在人口排序中引入不可通约性或模糊性(Blackorby *et al.* 2005；Broome 2004；Rabinowicz 2009；参见 Parfit 2016)[^blackorby-2005][^broome-2004][^parfit-2016][^rabinowicz-2009]——哪怕此人过的生活值得一过。最简单形态下，临界水平观点是总体功利主义的改良版：一条生命的贡献价值，等于其福祉减去某个正临界水平；人口价值则是所有个体这些差额的总和。这样它就避开了令人反感的结论：只要临界水平高于 *Z* 中个体的福祉水平，按此观点 *Z* 的价值为负，自然劣于 *A*，结论就被挡住。
   - id: 30
     kind: body
     source: |-
       An obvious challenge to critical level thinking is to make clear what constitutes the appropriate critical level. On the one hand, the level has to be high enough to avoid versions of the Repugnant Conclusion; on the other, the level has to be low enough not to rule out additions of clearly good lives (for an attempted answer to this challenge see Blackorby *et al.* 1997; Broome 2004)[^blackorby-1997][^broome-2004]. Critics have also been sceptical to the idea that the addition of lives worth living (albeit below the critical level) contribute negatively to the value of a population. Finally, it has been shown that this view leads to the Sadistic Conclusion (see above).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      临界水平思路面临的一个明显挑战，是澄清什么构成恰当的临界水平。一方面，水平须高到足以避开各种版本的令人反感的结论；另一方面，水平又须低到不致排除对明显良好生活的增加（对这一挑战的尝试性回答，见 Blackorby *et al.* 1997；Broome 2004）[^blackorby-1997][^broome-2004]。批评者还怀疑这一想法：增加值得过的生活（尽管低于临界水平）会对人口价值有负贡献。最后，已有论证表明这一观点导向施虐结论（见上文）。
+    step2: |-
+      临界水平思路有个明显的难题：什么样的临界水平才算恰当？定得高，才躲得开各种版本的令人反感的结论；定得低，才不至于把添上明显良好的生活也排除掉(对这一挑战的尝试性回答，见 Blackorby *et al.* 1997；Broome 2004)[^blackorby-1997][^broome-2004]。批评者还怀疑另一个想法：添上值得过的生活（尽管低于临界水平），竟会对人口价值有负贡献。最后，已有论证表明这个观点会引出施虐结论（见上文）。
   - id: 31
     kind: body
     source: |-
       ### 2.2 Questioning the way we can compare and measure welfare
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2 质疑我们比较与度量福祉的方式
+    step2: |-
+      ### 2.2 质疑比较与度量福祉的方式
   - id: 32
     kind: body
     source: |-
       The Repugnant Conclusion may seem to rely on a certain view about welfare. It treats welfare on an additive scale, where low numbers, if added to themselves often enough, must become larger than any initial larger number. This is like the Archimedean property of the real numbers: For any positive numbers *x* and *y*, there is a natural number *n* such that *nx* is greater than *y*. Any finite number of lives in population *A* can therefore be outweighed by a sufficiently large number of lives in *Z* because the gain in the quantity of lower values outweighs the loss of certain higher values. However, some theorists—including Parfit—have suggested that this axiological assumption is mistaken. (Parfit 1986, 2016; Griffin 1986; Rachels 2001; Crisp 1988, 1992; Glover 1977; Edwards 1979; Lemos 1993; Skorupski 1999; Klint Jensen 1996; Portmore 1999; Riley 1993, 1999, 2008, 2009)[^crisp-1988][^edwards-1979][^glover-1977][^griffin-1986][^klint-1996][^lemos-1993][^parfit-1986][^portmore-1999][^rachels-2001][^riley-1993]. The idea is that one type of good α can be superior to another type of good β, in the sense that any amount of α is better than any amount of β or that some amount of α is better than any amount of β. Suppose that what happens as we move down the alphabet from the high-quality population *A* to the low-quality population *Z* is that the best things in life are gradually lost. For instance, as Parfit has suggested, the first step from *A* to *B* involves the loss of Mozart’s music; in the move from *B* to *C* Haydn’s music is lost; in the move to *D* Venice is destroyed; and so on down the alphabet. All that is left in the final move to *Z* is “muzak and potatoes”. The claim is that the lives in the beginning of the sequence involve goods that are superior to the goods involved in the lives at the end of the sequence. The loss of the most worthwhile things in life cannot be compensated for by any gain in the quantity of muzak and potatoes. Consequently, whatever the number of people in population *Z*, there will be less welfare, or less valuable welfare, in this world as compared to population *A* and thus the Repugnant Conclusion is blocked.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      令人反感的结论似乎依赖某种关于福祉的观点。它把福祉当作可加尺度处理：低数值若自身相加足够多次，必定大于任何起初更大的数值。这就像实数的阿基米德性质：对任何正数 *x* 与 *y*，都存在自然数 *n*，使 *nx* 大于 *y*。因此，人口 *A* 中任何有限数目的生命，都能被 *Z* 中数目足够多的生命所压过，因为较低价值在数量上的增益压过了某些较高价值的损失。然而，一些理论家——包括帕菲特——提出，这一价值论假定是错的。（Parfit 1986, 2016；Griffin 1986；Rachels 2001；Crisp 1988, 1992；Glover 1977；Edwards 1979；Lemos 1993；Skorupski 1999；Klint Jensen 1996；Portmore 1999；Riley 1993, 1999, 2008, 2009）[^crisp-1988][^edwards-1979][^glover-1977][^griffin-1986][^klint-1996][^lemos-1993][^parfit-1986][^portmore-1999][^rachels-2001][^riley-1993]。其想法是：一种善 α 可以优越于另一种善 β，意思是任何数量的 α 都优于任何数量的 β，或某个数量的 α 优于任何数量的 β。假定我们从高质量人口 *A* 沿字母表下移到低质量人口 *Z* 时，发生的是生活中最好的东西逐渐丧失。例如，如帕菲特所设想，从 *A* 到 *B* 的第一步丧失的是莫扎特的音乐；从 *B* 到 *C* 丧失海顿的音乐；移到 *D* 时威尼斯被毁；如此沿字母表而下。最终移到 *Z* 时，剩下的只有“背景音乐与土豆”。其主张是：序列开头的生活所含的善，优越于序列末尾生活所含的善。生活中最值得的东西之丧失，不能由“背景音乐与土豆”在数量上的任何增益来补偿。于是，无论人口 *Z* 中人数多少，这个世界与人口 *A* 相比福祉都更少、或价值更低的福祉更少，令人反感的结论因而被阻断。
+    step2: |-
+      令人反感的结论似乎靠的是某种福祉观：它把福祉当作可加的尺度，数值再低，只要自身相加的次数足够多，总能超过起初更大的任何数值。这就像实数的阿基米德性质：对任何正数 *x*、*y*，总有个自然数 *n*，使 *nx* 大于 *y*。所以 *A* 里有限多条生命，总能被 *Z* 里足够多的生命压过——低价值在数量上的增益压过了某些高价值的损失。然而一些理论家，包括帕菲特，主张这个价值论假定是错的。(Parfit 1986, 2016；Griffin 1986；Rachels 2001；Crisp 1988, 1992；Glover 1977；Edwards 1979；Lemos 1993；Skorupski 1999；Klint Jensen 1996；Portmore 1999；Riley 1993, 1999, 2008, 2009)[^crisp-1988][^edwards-1979][^glover-1977][^griffin-1986][^klint-1996][^lemos-1993][^parfit-1986][^portmore-1999][^rachels-2001][^riley-1993]。他们的想法是：一种善 α 可以比另一种善 β 更优越——任何数量的 α 都胜过任何数量的 β，或某个数量的 α 胜过任意数量的 β。不妨设想，从高质量的 *A* 沿字母表下滑到低质量的 *Z*，发生的是人生中最好的东西逐级丧失：按帕菲特的设想，*A* 到 *B* 的这一步丢掉了莫扎特的音乐，*B* 到 *C* 丢掉海顿的音乐，到 *D* 时威尼斯被毁，如此一路下去；最后到 *Z*，只剩“背景音乐和土豆”。照此主张，序列开头的生活所含的善，优越于末尾生活所含的善；人生中最值得的东西一旦失去，拿再多“背景音乐和土豆”也补不回来。于是不管 *Z* 里有多少人，比起 *A*，这个世界的福祉都更少，或者价值更低的福祉更少——令人反感的结论就此被挡住。
   - id: 33
     kind: body
     source: |-
       This suggested way of blocking the Repugnant Conclusion obviously presupposes that the superiority view is justified in the first place (for a recent effort, see Parfit 2016)[^parfit-2016]. However, even if this is the case, critics have suggested that this view may still be consistent with some versions of the Repugnant Conclusion (e.g., Ryberg 1996b)[^ryberg-1996b]. Moreover, the superiority view has other implications that might be hard to accept. Assume that there are days of different qualities and that these can be arranged in a descending sequence of goodness or how much they would contribute to the well-being of a life. It seems plausible that there can be such a sequence where the difference in quality of any two adjacent days in the sequence is marginal. For example, consider two days of a life that only differ in respect to one pin-prick in the left thumb. Assume now, as Parfit suggests, that there are days of such quality that some number of these are better than any number of days eating potatoes and listening to muzak. One can then show (Arrhenius 2005; Klint Jensen 2008)[^arrhenius-2005][^klint-2008] that there must be two types of days, call them α-days and β-days, such that some number of α-days is better than any number of β-days although the difference in quality between these days is only marginal.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一阻断令人反感的结论的提议，显然首先预设了优越论本身是正当的（晚近的努力见 Parfit 2016）[^parfit-2016]。然而，即便确实如此，批评者提出，这一观点仍可能与某些版本的令人反感的结论相容（如 Ryberg 1996b）[^ryberg-1996b]。此外，优越论还有其他可能难以接受的蕴含。假定有质量不同的日子，且它们可按善的程度、或按其对一条生命福祉的贡献排成一个下降序列。看来可信的是：可以存在这样的序列，其中任何两个相邻日子的质量差异都是边际的。例如，考虑一条生命中的两天，二者仅在左手拇指被针扎一下这点上不同。现在假定——如帕菲特所设想——存在这样质量的日子，使得其中若干天优于任意多天吃土豆听背景音乐的日子。那么可以证明（Arrhenius 2005；Klint Jensen 2008）[^arrhenius-2005][^klint-2008]：必定存在两类日子，称之为 α 日与 β 日，使得若干 α 日优于任何数目的 β 日，尽管这些日子之间的质量差异只是边际的。
+    step2: |-
+      这个挡住结论的法子，显然先得假定优越论本身站得住(晚近的努力见 Parfit 2016)[^parfit-2016]。可批评者说，就算它站得住，这个观点仍可能跟某些版本的令人反感的结论兼容(如 Ryberg 1996b)[^ryberg-1996b]。何况优越论还有别的蕴含，未必好接受。假定日子有好有坏，可以按善的程度、或按其对一条生命福祉的贡献，排成一个逐级下降的序列。听起来可信的是：这样的序列可以存在，而其中任何两个相邻日子的质量只差那么一丁点。比如一条生命里的两天，差别仅在左手拇指被针扎了一下。再假定，如帕菲特所设想，有些日子的质量高到这种地步：过若干天这样的日子，胜过任意多天吃土豆、听背景音乐的日子。于是可以证明(Arrhenius 2005；Klint Jensen 2008)[^arrhenius-2005][^klint-2008]：必有两类日子，姑且叫 α 日与 β 日，使若干 α 日优于任何数目的 β 日，而两类日子之间的质量差异却只是边际的。
   - id: 34
     kind: body
     source: |-
       ### 2.3 Counting welfare differently depending on temporal or modal features
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.3 依时间或模态特征分别计算福祉
+    step2: |-
+      ### 2.3 按时间或模态特征分别计算福祉
   - id: 35
     kind: body
     source: |-
       Another approach to the problems in population ethics has been the suggestion that the crux of the problem resides in an all too “impersonal” morality and that the problems of population ethics can be solved by a shift to a so-called “person-affecting” morality (Narveson 1967, 1976, 1978; Roberts 1998, 2002, 2004, 2007, 2011)[^narveson-1967][^roberts-1998]. This move has been especially popular in the context of medical ethics where many of the problems of population ethics are actualised. Examples are embryo or egg selection, pre-implantation genetic testing, assisted reproduction programs, abortion, to mention just a few. The idea behind this approach is the contention—sometimes referred to as “the person-affecting restriction” or simply “the slogan”—that an outcome can only be better (or worse) than another if it is better (or worse) for someone (Narveson 1967: Glover 1977; Temkin 1993a)[^glover-1977][^narveson-1967][^temkin-1993a]. If a quite strict interpretation of this restriction is combined with the assumption that non-existence and existence are incomparable in value for a person, we may derive a view called *comparativism*: We should disregard the welfare of uniquely realisable people, that is, people who only exist in one of the compared outcomes (Heyd 1988; Bykvist 1998)[^bykvist-1998]. A person-affecting morality so understood deviates from impersonal morality in important respects. If there is an overlap between the populations in *A* and *Z*, then *A* is ranked as better than *Z* since the people existing in both populations are worse off in *Z* as compared to *A* and since we should disregard the welfare of uniquely realisable people. However, if there are different people in the involved populations, such as two future populations, then the two populations are ranked as equally good or as incomparable in value, which is not a very satisfactory solution to the Repugnant Conclusion. Moreover, comparativism implies that any very huge loss in welfare for uniquely realisable people is compensated by any very small gain for non-uniquely realisable people. Less strict interpretations of the person-affecting restriction and comparativism can to a certain extent avoid these problems, but at the price of implying the Repugnant Conclusion again (Arrhenius 2009a; Holtug 2004)[^arrhenius-2009a][^holtug-2004].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      面对人口伦理学问题的另一条进路，是主张问题的症结在于一种过于“非人格的”道德，而人口伦理学的问题可以通过转向所谓“影响个人的”道德来解决（Narveson 1967, 1976, 1978；Roberts 1998, 2002, 2004, 2007, 2011）[^narveson-1967][^roberts-1998]。这一转向在医学伦理语境中尤其流行，那里人口伦理学的许多问题都现实化了。例子有胚胎或卵子选择、植入前基因检测、辅助生殖项目、堕胎等等，仅举数端。这一进路背后的想法是这样一种主张——有时称作“影响个人的限制”或径称“口号”：一个结果只有对某人更好（或更糟），才能比另一结果更好（或更糟）（Narveson 1967: Glover 1977；Temkin 1993a）[^glover-1977][^narveson-1967][^temkin-1993a]。若把这一限制的严格解释与“非存在与存在对一个人而言在价值上不可比”的假定结合起来，便可得出一种称为*比较主义*的观点：我们应当无视唯一可实现者——即只在所比较结果之一中存在的人——的福祉（Heyd 1988；Bykvist 1998）[^bykvist-1998]。如此理解的影响个人的道德，在若干重要方面偏离非人格的道德。若 *A* 与 *Z* 的人口有重叠，那么 *A* 被排为优于 *Z*，因为两个人口中都存在的人在 *Z* 中境况比在 *A* 中更糟，而我们应当无视唯一可实现者的福祉。然而，若所涉人口中的人是不同的，比如两个未来人口，那么这两个人口便被排为同样好，或在价值上不可比；作为对令人反感的结论的解答，这并不令人满意。此外，比较主义蕴含：唯一可实现者福祉上的任何巨大损失，都由非唯一可实现者福祉上的任何微小增益所补偿。对影响个人的限制与比较主义作不那么严格的解释，能在一定程度上避开这些问题，但代价是再次蕴含令人反感的结论（Arrhenius 2009a；Holtug 2004）[^arrhenius-2009a][^holtug-2004]。
+    step2: |-
+      还有一条进路认为，人口伦理学的症结在于道德过于“非人格”，只要转向所谓“影响个人的”道德，问题就能解决(Narveson 1967, 1976, 1978；Roberts 1998, 2002, 2004, 2007, 2011)[^narveson-1967][^roberts-1998]。这股风在医学伦理里尤其盛行，因为人口伦理学的许多问题在那里都成了现实：胚胎或卵子选择、植入前基因检测、辅助生殖、堕胎，等等，仅举几例。这条进路的核心是一条主张——有时叫“影响个人的限制”，有时干脆叫“口号”：一个结果只有对某人更好（或更糟），才谈得上比另一个结果更好（或更糟）(Narveson 1967: Glover 1977；Temkin 1993a)[^glover-1977][^narveson-1967][^temkin-1993a]。若把这条限制作相当严格的解释，再假定“非存在与存在对一个人来说价值上不可比”，就会得出一种叫*比较主义*的观点：凡是唯一可实现的人——即只在所比结果之一里存在的人——其福祉一概不计(Heyd 1988；Bykvist 1998)[^bykvist-1998]。这样理解的影响个人的道德，在几处要紧地方偏离非人格的道德。假如 *A* 与 *Z* 的人口有重叠，那么 *A* 排在 *Z* 之前：两边都在的人一到 *Z* 就过得更差，而唯一可实现者的福祉又不计。可要是两边的人是不同的——比如两个未来人口——那就只好判为一样好，或价值上不可比；拿这个回答令人反感的结论，实在不能令人满意。再者，比较主义蕴含：唯一可实现者的福祉损失再大，也能被非唯一可实现者的极小增益抵消。把这条限制和比较主义解释得宽松些，可以在一定程度上绕开上述麻烦，但代价是令人反感的结论又回来了(Arrhenius 2009a；Holtug 2004)[^arrhenius-2009a][^holtug-2004]。
   - id: 36
     kind: body
     source: |-
       The comparativist interpretation of the distinction between “impersonal” and “person-affecting” theories is not the only one proposed in the literature. What the different theories that have been proposed under the banner of a person-affecting morality have in common, however, are that they are welfarist theories that count people’s welfare differently depending on the temporal location or the modal features of their lives. Apart from comparativists, we have *presentists* who draw a distinction between presently existing people and non-existing people (Narveson 1973; Heyd 1988); *necessitarians* who distinguish between people who exist or will exist irrespective of how we act and people whose existence is contingent on our choices (Singer 1993)[^singer-1993]; and *actualists* who differentiate between people that have existed, exist or who are going to exist in the actual world, on the one hand, and people who haven’t, don’t, and won’t exist, on the other (Bigelow and Pargetter 1988; Warren 1978; Parson 2002; for a critical discussion of actualism, see Carlson 1995; Arrhenius 2000b; Bykvist 1998, 2007b; Hare 2007; Howard-Snyder 2008)[^arrhenius-2000b][^bigelow-1988][^bykvist-1998][^carlson-1995][^hare-2007][^howard-snyder-2008][^parson-2002][^warren-1978]. These theories, apart from problems of their own, run into problems analogous to the problems of comparativism discussed above. For instance, presentism, in its strict guise according to which we only take into account the welfare of presently existing people, implies that any very small gain for present people outweighs any loss for future people, irrespective of how big it is. Again, a less strict interpretation of presentism (Dasgupta 1988, 1994)[^dasgupta-1988] can to a certain extent avoid this and related problems, but at the price of implying the Repugnant Conclusion again.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对“非人格的”与“影响个人的”理论之分的比较主义解释，并不是文献中提出的唯一解释。然而，以影响个人的道德为旗号提出的各种理论有一个共同点：它们都是福利主义理论，依据人们生命的时间位置或模态特征而以不同方式计算其福祉。除比较主义者外，还有*现在主义者*，他们区分现在存在的人与非存在的人（Narveson 1973；Heyd 1988）；*必然主义者*，他们区分不论我们如何行动都会存在或将存在的人，与存在取决于我们选择的人（Singer 1993）[^singer-1993]；以及*现实论者*，他们区分在现实世界中已存在、现存在或将存在的人，与未曾存在、现在不存在、将来也不会存在的人（Bigelow and Pargetter 1988；Warren 1978；Parson 2002；对现实论的批判性讨论见 Carlson 1995；Arrhenius 2000b；Bykvist 1998, 2007b；Hare 2007；Howard-Snyder 2008）[^arrhenius-2000b][^bigelow-1988][^bykvist-1998][^carlson-1995][^hare-2007][^howard-snyder-2008][^parson-2002][^warren-1978]。这些理论除了自身的问题外，还会落入与上文讨论的比较主义问题相类似的问题。例如，现在主义在其严格形态下——只考虑现在存在者的福祉——蕴含：现在人的任何极小增益都压过未来人的任何损失，无论损失多大。再说，对现在主义作不那么严格的解释（Dasgupta 1988, 1994）[^dasgupta-1988]，能在一定程度上避开这一问题及相关问题，但代价是再次蕴含令人反感的结论。
+    step2: |-
+      “非人格”与“影响个人”之分，文献里不止比较主义一种解读。不过，打着影响个人的道德旗号的各种理论有个共同点：都是福利主义理论，只是按生命的时间位置或模态特征，对人的福祉作不同计算。除了比较主义者，还有*现在主义者*，把现在存在的人与非存在的人分开(Narveson 1973；Heyd 1988)；有*必然主义者*，把不管我们怎么做都会存在（或将会存在）的人，与存在取决于我们选择的人分开(Singer 1993)[^singer-1993]；还有*现实论者*，把在现实世界中已存在、现存在或将会存在的人，与未存在、现不存在、也不会存在的人分开(Bigelow and Pargetter 1988；Warren 1978；Parson 2002；对现实论的批判性讨论见 Carlson 1995；Arrhenius 2000b；Bykvist 1998, 2007b；Hare 2007；Howard-Snyder 2008)[^arrhenius-2000b][^bigelow-1988][^bykvist-1998][^carlson-1995][^hare-2007][^howard-snyder-2008][^parson-2002][^warren-1978]。这些理论除了各自的麻烦，还会掉进跟上面比较主义类似的问题里。比如现在主义的严格形态只算现在存在者的福祉，于是蕴含：现在人的任何一丁点增益，都能压过未来人的任何损失，不管那损失多大。把现在主义解释得宽松些(Dasgupta 1988, 1994)[^dasgupta-1988]，能在一定程度上绕开这个问题及其相关问题，但代价还是令人反感的结论又冒出来。
   - id: 37
     kind: body
     source: |-
       Actually, it is unclear whether presentism, necessitarianism, or actualism can escape any of the problems discussed above in connection with “impersonal” theories, and in particular the Repugnant Conclusion. For example, assume that *A* is a population of present people (for example, the present people in country *x*) enjoying very high welfare and that *B* is a larger population of present people (for example, the present population in country *y*) with very low welfare but with higher total welfare than *A*. Which population is the better one according to presentism? It all depends on which method the presentist selects for determining better, worse and equally good in regard to the welfare of present people. Since this case involves only present people, all the problems discussed above will reappear in the search of this method. Likewise for necessitarianism and actualism. Moreover, the restriction might not help us avoid the Repugnant Conclusion but rather imply it given some other attractive conditions (Arrhenius 2015)[^arrhenius-2015][^arrhenius-2015-2].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      实际上，现在主义、必然主义或现实论能否避开上文与“非人格的”理论相关而讨论的任何问题，尤其是令人反感的结论，尚不清楚。例如，假定 *A* 是一个由现在人构成的人口（例如 *x* 国的现在人口），享有极高福利；*B* 是一个更大的现在人口（例如 *y* 国的现在人口），福利极低，但总福利高于 *A*。按现在主义，哪个人口更好？这完全取决于现在主义者选定哪一种方法来确定就现在人的福祉而言何者更好、更糟与同样好。由于这一情形只涉及现在人，上文讨论的一切问题都会在这一方法的寻求中重现。必然主义与现实论亦然。此外，这一限制可能并不帮我们避开令人反感的结论，反而在给定某些其他有吸引力的条件时蕴含它（Arrhenius 2015）[^arrhenius-2015][^arrhenius-2015-2]。
+    step2: |-
+      实际上，现在主义、必然主义、现实论究竟能不能躲开上面针对“非人格”理论谈的那些问题，尤其是令人反感的结论，并不清楚。举例说，*A* 是个人口，由现在人组成（比如 *x* 国的现有居民），福利极高；*B* 是更大的现在人口（比如 *y* 国的现有居民），福利极低，总福利却高于 *A*。按现在主义，哪个更好？这就全看现在主义者挑什么方法来判定“就现在人的福祉而言”何者更好、更糟、一样好。既然这一情形只涉及现在人，上面谈过的问题全都会在寻找这个方法的过程中重现。必然主义、现实论亦复如是。况且，这条限制未必帮我们躲开令人反感的结论，反倒在某些同样有吸引力的条件配合下把它蕴含出来(Arrhenius 2015)[^arrhenius-2015][^arrhenius-2015-2]。
   - id: 38
     kind: body
     source: |-
       ### 2.4 Revising the notion of a life worth living
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.4 修正“值得过的生活”这一概念
+    step2: |-
+      ### 2.4 修正“值得过的生活”概念
   - id: 39
     kind: body
     source: |-
       The above discussion of the Repugnant Conclusion presumes that there are possible lives with a very high quality of life. However, Christoph Fehige (1998) and David Benatar (2006) have suggested that there are no lives enjoying positive welfare. Benatar claims that it is always worse for a person to begin to exist than never to have existed. According to Fehige, only frustrated preferences count, and they count negatively, whereas satisfied preferences have no positive value. These “Schopenhauerian” theories imply that there are no possible lives with positive welfare. On the contrary, most lives have negative welfare and the best possible lives only have neutral welfare.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上文对令人反感的结论的讨论，预设存在具有极高生活质量的可能生活。然而，克里斯托夫·费希格（1998）与戴维·贝纳塔（2006）提出，不存在享有正福利的生活。贝纳塔主张，对一个人来说，开始存在始终比从未存在更糟。按费希格说，只有受挫的偏好才算数，且为负值；而得到满足的偏好没有正价值。这些“叔本华式”理论蕴含：不存在具有正福利的可能生活。相反，大多数生活的福利为负，最好的可能生活也只有中性的福利。
+    step2: |-
+      上文的讨论默认：有生活质量极高的可能生活。可克里斯托夫·费希格(1998)与戴维·贝纳塔(2006)主张，根本不存在享有正福利的生活。贝纳塔说，一个人开始存在，永远比从未存在更糟。费希格说，只有落空的偏好才算数，而且算负分；满足了的偏好没有正价值。这些“叔本华式”理论蕴含：不存在具正福利的可能生活；相反，大多数生活的福利是负的，最好的可能生活也只有中性的福利。
   - id: 40
     kind: body
     source: |-
       Would the truth of such a theory of welfare make the Repugnant Conclusion acceptable? Yes in a way, since it would neutralise the Repugnant Conclusion by making it an empty truth. If there are no possible lives with a very high quality of life, then the Repugnant Conclusion is vacuously true, since the antecedent—“[f]or any possible population … with a very high quality of life”—is false of every possible population. Consequently, total utilitarianism would only imply the Repugnant Conclusion in a trivial and uninteresting sense.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这样一种福祉理论若为真，会使令人反感的结论变得可接受吗？从某种意义上说是的，因为它会使令人反感的结论失效，使之成为一个空洞的真理。若不存在具有极高生活质量的可能生活，那么令人反感的结论便是空洞地真，因为其前件——“任何具有极高生活质量的可能人口……”——对任何可能人口皆为假。于是，总体功利主义只会在一种琐屑而无趣的意义上蕴含令人反感的结论。
+    step2: |-
+      假如这样一种福祉理论是真的，令人反感的结论就变得可接受了吗？某种意义上是的：它会让这个结论落空，变成一个空洞的真理。既然不存在生活质量极高的可能生活，那么“对任何具有极高生活质量的可能人口……”这一前件对任何可能人口都是假的，结论也就空洞地真。这样一来，总体功利主义蕴含令人反感的结论，只在一种琐屑、无趣的意义上成立。
   - id: 41
     kind: body
     source: |-
       However, the logic of Benatar’s theory has been challenged (Bradley 2010)[^bradley-2010] and a theory of welfare that denies the possibility of lives worth living is quite counter-intuitive (Ryberg 1996a)[^ryberg-1996a]. Fehige’s theory, for example, implies that a life of one year with complete preference satisfaction has the same welfare as a completely fulfilled life of a hundred years, and has higher welfare than a life of a hundred years with all preferences but one satisfied. Moreover, the last life is not worth living.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，贝纳塔理论的逻辑已受质疑（Bradley 2010）[^bradley-2010]，而一种否认值得过的生活之可能的福祉理论颇反直觉（Ryberg 1996a）[^ryberg-1996a]。例如，费希格的理论蕴含：一年完全满足偏好的生活，其福祉与百年完全圆满的生活相同，且高于百年中除一个偏好外全部满足的生活。此外，后一种生活并不值得一过。
+    step2: |-
+      不过，贝纳塔理论的逻辑已遭质疑(Bradley 2010)[^bradley-2010]；而且一种否认“值得过的生活”之可能的福祉理论，实在颇违直觉(Ryberg 1996a)[^ryberg-1996a]。比如按费希格的理论，一年完全满足偏好的生活，其福祉等于百年圆满的一生，还高于百年里只差一个偏好没满足的生活。可后面这种生活，按它说并不值得一过。
   - id: 42
     kind: body
     source: |-
       ### 2.5 Rejecting transitivity
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.5 拒斥传递性
+    step2: |-
+      ### 2.5 拒斥传递性
   - id: 43
     kind: body
     source: |-
       What makes the Repugnant Conclusion so perplexing is that strong arguments can be given which apparently force one into accepting the conclusion. In fact, several arguments to this effect—with affinity to the mere addition reasoning outlined above—have been presented (see e.g. Parfit 1986; Arrhenius 2000b; Kitcher 2000; Tännsjö 2002; Rachels 2004)[^arrhenius-2000b][^kitcher-2000][^parfit-1986][^rachels-2004][^tännsjö-2002]. Roughly, the arguments share the following structure: in comparison between three population scenarios the second scenario is considered better than the first and the third better than the second, leading to the conclusion that the third scenario is better than the first. By iterated application of this line of reasoning one ends up with the Repugnant Conclusion (that *Z* is better than *A*). One of the more radical approaches to such arguments has been to reject the transitivity of the relation “better than” (or “equally as good as”). According to transitivity, if *p* is better than *q*, and *q* is better than *r*, then *p* is better than *r*. However, if transitivity of “better than” is denied then the reasoning leading the Repugnant Conclusion is blocked (Temkin 1987, 2012; Persson 2004; Rachels 2004)[^persson-2004][^rachels-2004][^temkin-1987].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      令人反感的结论之所以如此令人困惑，是因为可以给出强有力的论证，看来把人逼向接受这个结论。事实上，已有若干这样的论证被提出——它们与上文勾勒的纯粹增加推理相近（参见如 Parfit 1986；Arrhenius 2000b；Kitcher 2000；Tännsjö 2002；Rachels 2004）[^arrhenius-2000b][^kitcher-2000][^parfit-1986][^rachels-2004][^tännsjö-2002]。粗略地说，这些论证共享如下结构：在三个入口情形的比较中，第二个情形被认为优于第一个，第三个优于第二个，于是得出结论：第三个情形优于第一个。反复应用这一推理线，最终便得到令人反感的结论（即 *Z* 优于 *A*）。对付这类论证的较激进进路之一，是拒斥“优于”（或“同样好于”）这一关系的传递性。按传递性，若 *p* 优于 *q*、*q* 优于 *r*，则 *p* 优于 *r*。然而，若否认“优于”的传递性，通向令人反感的结论的推理便被阻断（Temkin 1987, 2012；Persson 2004；Rachels 2004）[^persson-2004][^rachels-2004][^temkin-1987]。
+    step2: |-
+      令人反感的结论之所以让人困惑，是因为强有力的论证似乎硬把人推向它。事实上已有一批这样的论证——思路与上文的纯粹增加推理相近(参见如 Parfit 1986；Arrhenius 2000b；Kitcher 2000；Tännsjö 2002；Rachels 2004)[^arrhenius-2000b][^kitcher-2000][^parfit-1986][^rachels-2004][^tännsjö-2002]。大致说来，这些论证的骨架相同：比较三个入口情形，第二个优于第一个，第三个优于第二个，于是第三个优于第一个；把这条推理反复用下去，就得到令人反感的结论(*Z* 优于 *A*)。对付这类论证，较激进的办法之一是干脆拒斥“优于”（或“同样好于”）的传递性。按传递性，若 *p* 优于 *q*、*q* 优于 *r*，则 *p* 优于 *r*；一旦否认“优于”的传递性，通向结论的那条推理就断了(Temkin 1987, 2012；Persson 2004；Rachels 2004)[^persson-2004][^rachels-2004][^temkin-1987]。
   - id: 44
     kind: body
     source: |-
       One of the questions raised by this radical proposal is whether arguments like the mere addition paradox themselves justify the rejection of transitivity or whether further arguments are needed since transitivity seems to be part of the meaning and logic of the relation “better than” (Broome 2004)[^broome-2004]. However, it has been suggested that there are two “better than”-concepts, one based on intrinsic value and one based on the stance that one ought to take towards the evaluated objects (Arrhenius 2004; Rabinowicz 2012)[^arrhenius-2004][^rabinowicz-2012]. The former is transitive in virtue of its meaning whereas the latter is non-transitive over different alternative sets, just like “ought to be chosen”. Moreover, Temkin (2012) argues that it is the latter “better than”-concept which is the important one for practical reasoning. This raises the question of the more general implications of this proposal for morality and practical reasoning and some worry that giving up the transitivity of “better than” would demand a major revision of our notion of practical reasoning (Temkin 1987, 2012)[^temkin-1987]. A transitive preference ordering has usually been assumed as part of the definition of a rational agent in economic and rational choice theory. For example, it seems that an agent with a non-transitive preference ordering can be exploited by a so-called ‘money-pump’ (see Section 5.1 of the entry on the philosophy of economics). The main problem with non-transitive value orderings in moral theory, however, is that such an ordering cannot form the basis of a satisfactory answer to the question of what one ought to choose. Coupled with the standard formulation of consequentialism (an action is right if and only if its outcome is at least as good as the outcomes of all the alternative actions, see the entry on consequentialism), for example, we get the counterintuitive result that no action is right in the mere addition paradox. Moreover, it has been shown that the mere addition argument and the like can be reconstructed on the normative level, in terms of what one ought to choose, without an appeal to transitivity (Arrhenius 2004)[^arrhenius-2004]. Instead of a non-transitive ordering of populations, one gets a situation in which all of the available actions are forbidden, i.e., a moral dilemma. Hence, it doesn’t look like we can exorcise the paradoxes of population ethics by giving up some formal condition like the transitivity of “better than”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一激进提议引出的问题之一是：纯粹增加悖论这类论证本身是否足以证成对传递性的拒斥，还是需要更多论证，因为传递性看来是“优于”这一关系的意义与逻辑的一部分（Broome 2004）[^broome-2004]。然而，有人提出存在两个“优于”概念，一个基于内在价值，一个基于人应当对被评价对象采取的态度（Arrhenius 2004；Rabinowicz 2012）[^arrhenius-2004][^rabinowicz-2012]。前者凭其意义而传递，后者则在不同备选项集合上不传递，正如“应当被选择”一样。此外，Temkin（2012）主张，对实践推理而言要紧的是后一个“优于”概念。这就引出这一提议对道德与实践推理的更一般蕴含，以及某种担忧：放弃“优于”的传递性会要求对我们的实践推理概念作重大修正（Temkin 1987, 2012）[^temkin-1987]。传递性的偏好排序通常被当作经济与理性选择理论中理性行为者定义的一部分。例如，偏好排序不传递的行为者似乎会被人利用，落入所谓“抽钱机”（见经济学哲学词条第 5.1 节）。然而，道德理论中不传递的价值排序的主要问题在于：这种排序无法构成对“人应当选择什么”这一问题的满意答案的基础。例如，与后果主义的标准化表述（一个行动是对的，当且仅当其结果至少与一切备选行动的结果一样好，见后果主义词条）相结合，我们便得到反直觉的结果：在纯粹增加悖论中没有任何行动是对的。此外，已有论证表明，纯粹增加论证之类可以在规范层面上重构，即以人应当选择什么来表述，而不诉诸传递性（Arrhenius 2004）[^arrhenius-2004]。我们得到的不是人口的不可传递排序，而是所有可选行动都被禁止的情形，即道德困境。看来，放弃“优于”的传递性这类形式条件，并不能驱除人口伦理学的种种悖论。
+    step2: |-
+      这个激进提议先要回答一个问题：是纯粹增加悖论这类论证本身就足以证成对传递性的拒斥，还是需要更多论证？毕竟传递性看来是“优于”这一关系的意义与逻辑的一部分(Broome 2004)[^broome-2004]。不过有人提出，其实有两个“优于”概念：一个基于内在价值，一个基于人该对被评价对象采取什么态度(Arrhenius 2004；Rabinowicz 2012)[^arrhenius-2004][^rabinowicz-2012]。前者因其意义而传递；后者面对不同的备选项集合则不传递，就像“应当被选择”一样。Temkin(2012)还主张，对实践推理要紧的恰是后一个概念。这样一来，就得追问这一提议对道德和实践推理有哪些更一般的蕴含，也有人担心：放弃“优于”的传递性，等于要求对实践推理观念作大修(Temkin 1987, 2012)[^temkin-1987]。在经济与理性选择理论里，偏好排序的传递性一向被当作理性行为者定义的一部分。偏好不传递的行为者，似乎会被人用“抽钱机”榨干(见“经济学哲学”词条第 5.1 节)。然而道德理论里不传递的价值排序，最大的麻烦是它撑不起“人应当选择什么”的满意答案。举例说，配上后果主义的标准表述(一个行动是对的，当且仅当其结果至少与一切备选行动的结果一样好；见“后果主义”词条)，就会得出反直觉的结果：在纯粹增加悖论里，任何行动都不对。何况已有论证表明，纯粹增加论证之类可以在规范层面重构，用“人应当选择什么”来表述，而不靠传递性(Arrhenius 2004)[^arrhenius-2004]。这样得到的不是人口的不可传递排序，而是所有可选行动都被禁止的局面，也就是道德困境。看来，想靠放弃“优于”的传递性这类形式条件来驱除人口伦理学的悖论，怕是办不到。
   - id: 45
     kind: body
     source: |-
       ### 2.6 Appeal to other values
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.6 诉诸其他价值
+    step2: |-
+      ### 2.6 诉诸其他价值
   - id: 46
     kind: body
     source: |-
       Fred Feldman has proposed a desert-adjusted version of utilitarianism, ‘justicism’ which he claims avoids the Repugnant Conclusion (Feldman 1997)[^feldman-1997]. In justicism, the value of an episode of pleasure is determined not only by the hedonic level but also by the recipient’s desert level. Feldman’s proposal is that there is some level of happiness that people deserve merely in virtue of being people. He assumes that this level corresponds to 100 units of pleasure and that people with very low welfare enjoy only one unit of pleasure. He suggests that the life of a person who deserves 100 units of pleasure and receives exactly that amount of pleasure has an intrinsic value of 200, whereas the life of a person deserving 100 units but who only receives one unit of pleasure has an intrinsic value of −49. It follows that any population consisting of people with very low welfare and desert level 100 has negative value, whereas any population with very high welfare has positive value. Consequently, it seems as if justicism avoids the Repugnant Conclusion. Moreover, the intuition behind Feldman’s explanation of the unacceptability of the Repugnant Conclusion—that there is some level of welfare that people deserve merely in virtue of being people—is compelling and probably widely shared and could give support to ideas such as the critical level view discussed above.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      弗雷德·费尔德曼提出了一种按应得调整的功利主义版本——“公正主义”，他声称它避开了令人反感的结论（Feldman 1997）[^feldman-1997]。在公正主义中，一段快乐的价值不仅由快乐水平决定，也由接受者的应得水平决定。费尔德曼的提议是：存在某种幸福水平，人们仅凭其为人便应得。他假定这一水平相当于 100 个单位的快乐，而福利极低的人仅享有 1 个单位的快乐。他提出：一个应得 100 单位快乐且恰好得到这么多快乐的人，其生命的内在价值为 200；而一个应得 100 单位却只得到 1 单位快乐的人，其生命的内在价值为 −49。由此推出：任何由福利极低、应得水平为 100 的人构成的人口，其价值为负；而任何福利极高的人口，其价值为正。于是，公正主义似乎避开了令人反感的结论。此外，费尔德曼对令人反感的结论之不可接受性的解释背后的直觉——存在某种人们仅凭其为人便应得的福祉水平——颇具说服力，大概也广为分享，并能支持上文讨论的临界水平观点之类的想法。
+    step2: |-
+      弗雷德·费尔德曼提出过一个按应得调整的功利主义版本，叫“公正主义”，声称它避得开令人反感的结论(Feldman 1997)[^feldman-1997]。在公正主义里，一段快乐的价值不只取决于快乐水平，还取决于接受者的应得水平。费尔德曼的提议是：有一种幸福水平，人人仅因生而为人便应得。他假定这水平相当于 100 单位快乐，而福利极低的人只享有 1 单位快乐。他给算了一笔账：应得 100 单位、恰好得到 100 单位的人，其生命内在价值是 200；应得 100 单位、却只得到 1 单位的人，其生命内在价值是 −49。由此，凡由福利极低、应得水平 100 的人构成的人口，价值为负；凡福利极高的人口，价值为正。这么看，公正主义似乎躲开了令人反感的结论。而且费尔德曼解释这结论为何不可接受时依据的直觉——总有一种福祉水平，人仅因为是人就该得到——相当有说服力，大概也流传甚广，还能给上文谈的临界水平观点之类的想法撑腰。
   - id: 47
     kind: body
     source: |-
       It has been pointed out, however, that Feldman’s reasoning involves a questionable interpretation of the *ceteris paribus* clause in the repugnant conclusion (Arrhenius 2003)[^arrhenius-2003]. He implicitly assumes that the *ceteris paribus* clause is satisfied whenever the people in the compared populations have the same desert level. A more plausible reading of the *ceteris paribus* clause is that it is satisfied if and only if the compared populations are (roughly) equally good in regard to all other axiologically relevant aspects apart from welfare, including their “desert value”. Hence, to satisfy the *ceteris paribus* clause, the compared populations should be equally good in regard to desert, that is, equally good in regard to the contributive value of the fit between what people deserve and what they get. Given this interpretation of the *ceteris paribus* clause, justicism does imply the repugnant conclusion. If *A* and *Z* are equally good in regard to desert, then justicism ranks *Z* as better than *A* since *Z* has greater total well-being.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，有人指出，费尔德曼的推理涉及对令人反感的结论中*其他条件不变*条款的可疑解释（Arrhenius 2003）[^arrhenius-2003]。他默然假定：只要所比较人口中的人应得水平相同，*其他条件不变*条款便得到满足。对*其他条件不变*条款更合理的解读是：当且仅当所比较人口在除福祉以外的一切价值论相关方面（包括其“应得价值”）大致同样好时，该条款才得到满足。因此，为满足*其他条件不变*条款，所比较人口应在应得方面同样好，即在“人所应得与其所得之间的匹配所具有的贡献价值”方面同样好。给定对*其他条件不变*条款的这一解释，公正主义确实蕴含令人反感的结论。若 *A* 与 *Z* 在应得方面同样好，那么公正主义把 *Z* 排为优于 *A*，因为 *Z* 的总福利更大。
+    step2: |-
+      不过有人指出，费尔德曼的推理对令人反感的结论里的*其他条件不变*条款作了一种可疑解读(Arrhenius 2003)[^arrhenius-2003]。他默认：只要所比人口中人的应得水平相同，*其他条件不变*就算满足了。更合理的读法是：当且仅当所比人口在福祉以外的一切价值论相关方面——包括其“应得价值”——大致同样好时，这一条款才满足。如此，要满足*其他条件不变*，所比人口就得在应得方面同样好，也就是在“人应得什么”与“人得到什么”之间那种匹配的贡献价值上同样好。按这个解释，公正主义其实蕴含令人反感的结论：只要 *A* 与 *Z* 在应得方面同样好，公正主义就把 *Z* 排在 *A* 之前，因为 *Z* 的总福利更大。
   - id: 48
     kind: body
     source: |-
       One might also try to solve the Mere Addition Paradox by an appeal to egalitarian considerations. Consider populations *A* and *A*+ in figure 2 again. According to a well-known principle, Maximin, we should rank populations according to the welfare of the worst off: The lower the welfare of the worst off, the worse the population. Maximin ranks *A*+ as worse than *A* and thus stops the Mere Addition Paradox in its first step. However, Maximin has a number of other counterintuitive implications in population ethics since it imposes a kind of dictatorship of the worst off according to which the slightest gain in welfare for one of the worst off person outweighs a very large loss for any number of better off people.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人们也可以尝试诉诸平等主义考量来解决纯粹增加悖论。再考虑图 2 中的人口 *A* 与 *A*+。按一条众所周知的原则——最大化最小值，我们应当按最差者的福祉来排列人口：最差者的福祉越低，人口越糟。最大化最小值把 *A*+ 排为劣于 *A*，从而在第一步就止住纯粹增加悖论。然而，最大化最小值在人口伦理学中还有若干其他反直觉的蕴含，因为它强加了一种最差者的独裁：最差者中某人福祉上的丝毫增益，压过任何数目境况较好者的极大损失。
+    step2: |-
+      还可以试试用平等主义考量来解纯粹增加悖论。再看图 2 里的 *A* 与 *A*+。按一条著名原则“最大化最小值”，人口该按最差者的福祉排序：最差者过得越差，人口越糟。它把 *A*+ 判为劣于 *A*，第一步就止住了纯粹增加悖论。可最大化最小值在人口伦理学里还有别的反直觉蕴含：它等于让最差者独裁——最差者里某人的福祉稍有增益，就能压过任意多境况较好者的巨大损失。
   - id: 49
     kind: body
     source: |-
       Still, *A*+ is clearly more unequal than *A*, and it isn’t unreasonable to claim that *A*+ is in this respect worse than *A*. For example, according to Temkin (1993a, p. 200), “the ultimate intuition underlying egalitarianism is that it is bad … for some to be worse off than others through no fault of their own”. Clearly, this is the case in *A*+ since the extra people have not done anything to deserve to be worse off than the better off people. Moreover, as suggested by Temkin, one might hold the view that the greater the number of worst off, the worse the inequality. (Temkin 1993a, p. 200–2)[^temkin-1993a]. Consequently, since the number of worse off extra people in the Mere Addition Paradox has to be enormous to reach the *Z* population (see figure 1) by redistribution of welfare, the inequality involved would be considerable. Hence, there seems to be a prima facie case that egalitarian concerns can solve the Mere Addition Paradox.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不过，*A*+ 显然比 *A* 更不平等，说 *A*+ 在这方面劣于 *A* 也并非不合理。例如，按 Temkin（1993a，第 200 页），“平等主义的终极直觉是：有些人并非因自己的过错而境况劣于他人，这是坏事”。显然，*A*+ 就是这种情况，因为多出来的人并未做什么事使自己活该劣于境况较好者。此外，如 Temkin 所提议，人们可以持这样的观点：最差者数目越大，不平等越严重。（Temkin 1993a，第 200–2 页）[^temkin-1993a]。于是，既然纯粹增加悖论中较差的额外人数必须极为庞大，才能通过福祉再分配达到 *Z* 人口（见图 1），所涉的不平等便相当可观。看来，平等主义关切能解决纯粹增加悖论，这有一个表面成立的理由。
+    step2: |-
+      可 *A*+ 显然比 *A* 更不平等，说它在这方面劣于 *A*，也不算不讲理。比如按 Temkin(1993a，第 200 页) 说：“平等主义的根本直觉是：有些人并非因自己的过错而境况不如他人，这是坏事。”*A*+ 正是如此：多出来的人没做过什么，不该比境况较好者差。Temkin 还提议，最差者越多，不平等越严重。(Temkin 1993a，第 200–2 页)[^temkin-1993a]。而在纯粹增加悖论里，要靠福祉再分配走到 *Z* 人口（见图 1），境况较差的额外人数必须极其庞大，所涉的不平等也就相当可观。这样看来，平等主义关切能解纯粹增加悖论，至少表面上说得通。
   - id: 50
     kind: body
     source: |-
       The crucial question, however, is whether inequality makes *A*+ worse than *A* all things considered. Since *A*+ is clearly better than *A* in respect to total welfare, the pluralist egalitarian has to limit the importance of total welfare relative to the importance of inequality to reach this judgement. There are some promising ways the pluralist egalitarian could do this albeit it is as yet unclear whether these proposals will stand up to further scrutiny. More problematic for the egalitarian approach, however, is that the Repugnant Conclusion can be derived from conditions to which an egalitarian has no decisive objections (Tännsjö 2008; Arrhenius 2009b)[^arrhenius-2009b][^tännsjö-2008].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，关键问题在于：通盘考虑之后，不平等是否使 *A*+ 劣于 *A*。由于 *A*+ 在总福利方面显然优于 *A*，多元主义平等主义者若要得出这一判断，就必须限制总福利相对于不平等的重要性。多元主义平等主义者有一些有希望的办到这一点的方式，尽管这些提议能否经得起进一步审视尚不清楚。然而，对平等主义进路更成问题的是：令人反感的结论可以从平等主义者并无决定性反对意见的条件中推导出来（Tännsjö 2008；Arrhenius 2009b）[^arrhenius-2009b][^tännsjö-2008]。
+    step2: |-
+      但关键问题是：通盘考虑，不平等是否使 *A*+ 劣于 *A*？*A*+ 在总福利上明显优于 *A*，多元主义平等主义者要下这个判断，就得压低总福利相对于不平等的重要性。这方面他们有几条有希望的路子，只是经不经得起进一步推敲还不好说。对平等主义进路更麻烦的是：令人反感的结论可以从平等主义者并无决定性异议的条件里推出来(Tännsjö 2008；Arrhenius 2009b)[^arrhenius-2009b][^tännsjö-2008]。
   - id: 51
     kind: body
     source: |-
       ### 2.7 Accepting the impossibility of a satisfactory population ethics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.7 接受令人满意的人口伦理学之不可能
+    step2: |-
+      ### 2.7 接受令人满意的人口伦理学不可能
   - id: 52
     kind: body
     source: |-
       Even though Parfit, despite his thorough investigations in *Reasons and Persons*, did not succeed in finding the sought-after ethical Theory X that would avoid the Repugnant Conclusion and other equally unattractive conclusions, this did not seem to destroy his hopes that such a theory could be found (Parfit 1984 p. 451)[^parfit-1984]. However, other theorists have regarded the search for this theory as having more gloomy prospects. This pessimism has been given a more formal content. It has been held that it can be proven that there is no population ethics that satisfies a set of apparently plausible adequacy conditions on such a theory. In fact, several such proofs have been suggested (Arrhenius 2000b, 2011)[^arrhenius-2000b]. What such a theorem would show about ethics is not quite clear. Arrhenius has suggested that an impossibility theorem leaves us with three options: (1) to abandon some of the conditions on which the theorem is based; (2) to become moral sceptics; or (3) to try to explain away the significance of the proofs—alternatives which do not invite an easy choice (cf. Temkin 2012)[^temkin-2012].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管帕菲特在《理与人》中作了彻底探究，却未能找到所求的伦理理论 X——那种既能避开令人反感的结论、又能避开其他同样不诱人的结论的理论——但这似乎并未摧毁他找到这种理论的希望（Parfit 1984 第 451 页）[^parfit-1984]。然而，另一些理论家认为这种理论的寻求前景更为黯淡。这一悲观主义已被赋予更形式化的内容。有人主张，可以证明不存在满足一组看来合理之充分性条件的人口伦理学。事实上，已有若干这样的证明被提出（Arrhenius 2000b, 2011）[^arrhenius-2000b]。这样的定理会就伦理学表明什么，并不很清楚。Arrhenius 提出，一个不可能性定理留给我们三种选择：(1) 放弃该定理所依据的某些条件；(2) 成为道德怀疑论者；或 (3) 设法把那些证明的重要性解释掉——这些选项都不容人轻易抉择（参见 Temkin 2012）[^temkin-2012]。
+    step2: |-
+      帕菲特在《理与人》里查了个遍，也没找到他想要的理论 X——那种既躲开令人反感的结论、又躲开其他同样不诱人结论的理论；不过他似乎并未因此放弃希望(Parfit 1984 第 451 页)[^parfit-1984]。另一些理论家则对这场寻求更悲观，并把悲观写成了较形式化的样子：可以证明，不存在满足一组看来合理之充分性条件的人口伦理学。这样的证明已有人给出好几个(Arrhenius 2000b, 2011)[^arrhenius-2000b]。这类定理究竟说明了伦理学的什么，并不很清楚。Arrhenius 说，一个不可能性定理留给我们三条路：(1) 放弃定理所依据的某些条件；(2) 当道德怀疑论者；(3) 想办法把那些证明的分量解释掉——哪条都不好选(参见 Temkin 2012)[^temkin-2012]。
   - id: 53
     kind: body
     source: |-
       ### 2.8 Accepting the Repugnant Conclusion
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.8 接受令人反感的结论
+    step2: |-
+      ### 2.8 接受令人反感的结论
   - id: 54
     kind: body
     source: |-
       When confronted with the Repugnant Conclusion, many share the view that the conclusion is highly counterintuitive. However, it has been suggested that it is premature to conclude from this that the conclusion is morally unacceptable. Two sorts of reasons can be given in favor of the view that the conclusion should be accepted. According to the first, while it is correct that the conclusion is counterintuitive, there are nevertheless certain theoretical considerations outweighing this intuition to such an extent that we should accept it. The claim that no plausible theory can avoid the Repugnant Conclusion or that the rejection of the conclusion would force one into rejecting claims which it is hard to get around—e.g. such as the premises of the Mere Addition Paradox—may constitute such considerations (Tännsjö 2002; Holtug 2004; Huemer 2008)[^holtug-2004][^huemer-2008][^tännsjö-2002]. According to the second, the source of the unacceptability of the conclusion is the fact that we are deluded by our intuition (Sikora 1978, 2004; Mackie 1985; Tännsjö 1992, 1998, 2002; Hare 1993; Ryberg 1996a, 2004)[^hare-1993][^mackie-1985][^ryberg-1996a][^sikora-1978][^sikora-1978-2][^tännsjö-1992]. Once we fully understand what the conclusion amounts to, we will cease to find it counterintuitive. For instance, it might be suggested that the repugnance, at least partly, is due to our limited apprehension of large numbers (Tännsjö 2002; Broome 2004)[^broome-2004][^tännsjö-2002]. We cannot imagine what it would be like for there to exist billions upon billions of people, and hence our intuition is not based on a sound picture of the moral significance of population *Z* (for a critical discussion of these kind of arguments, see Temkin 2012 and Pummer 2013)[^pummer-2013][^temkin-2012]. Moreover, several theorists have suggested that our intuition is misguided by a misapprehension of what it is like to lead a life in *Z*, i.e., a life that is barely worth living. The idea is that once we realize that such a life is not terrible but perhaps a life not much different from a normal privileged one, the conclusion loses its sting (Mackie 1985; Tännsjö 1992; Ryberg 1996a)[^mackie-1985][^ryberg-1996a][^tännsjö-1992]. Thus, on both views, though population ethics may constitute a complicated area of ethical research, it is at least devoid of what is traditionally regarded as one of the cardinal challenges.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      面对令人反感的结论，许多人共有这样的看法：该结论极度反直觉。然而，有人提出，由此断定该结论在道德上不可接受，为时过早。有两类理由支持应当接受该结论的看法。按第一类，该结论反直觉是对的，但仍有某些理论考量在分量上压过这一直觉，到了我们应当接受它的地步。诸如“没有合理理论能避开令人反感的结论”或“拒斥该结论将迫使人拒斥难以绕过的主张（例如纯粹增加悖论的前提）”之类的说法，便可能构成这样的考量（Tännsjö 2002；Holtug 2004；Huemer 2008）[^holtug-2004][^huemer-2008][^tännsjö-2002]。按第二类，该结论之所以显得不可接受，是因为我们的直觉受了骗（Sikora 1978, 2004；Mackie 1985；Tännsjö 1992, 1998, 2002；Hare 1993；Ryberg 1996a, 2004）[^hare-1993][^mackie-1985][^ryberg-1996a][^sikora-1978][^sikora-1978-2][^tännsjö-1992]。一旦我们完全理解该结论说的是什么，就不会再觉得它反直觉。例如，有人提出，反感至少部分源于我们对大数目的理解有限（Tännsjö 2002；Broome 2004）[^broome-2004][^tännsjö-2002]。我们无法想象存在亿万又亿万的人会是什么样子，因此我们的直觉并不建立在人口 *Z* 道德意义之可靠图景上（对这些论证的批判性讨论，见 Temkin 2012 与 Pummer 2013）[^pummer-2013][^temkin-2012]。此外，若干理论家提出，我们的直觉被一种误解误导了：误解了在 *Z* 中过一种生活——即仅勉强值得过的生活——是什么样子。其想法是：一旦我们意识到这样的生活并不糟糕，也许和通常享有特权者的生活没多大差别，该结论便不再刺人（Mackie 1985；Tännsjö 1992；Ryberg 1996a）[^mackie-1985][^ryberg-1996a][^tännsjö-1992]。于是按这两种看法，人口伦理学固然可能是伦理研究中一个复杂的领域，至少已不再含有传统上被视为核心挑战之一的东西。
+    step2: |-
+      面对令人反感的结论，许多人一致认为它极度反直觉。但有人提出：就此断定它在道德上不可接受，为时过早。支持“应当接受”的理由有两类。第一类说，结论反直觉不假，可有些理论考量分量更重，重到我们该接受它——比如“没有哪种说得通的理论能躲开这个结论”，或“拒斥它就得拒斥那些绕不过去的主张（例如纯粹增加悖论的前提）”(Tännsjö 2002；Holtug 2004；Huemer 2008)[^holtug-2004][^huemer-2008][^tännsjö-2002]。第二类说，结论之所以显得不可接受，是因为我们的直觉上了当(Sikora 1978, 2004；Mackie 1985；Tännsjö 1992, 1998, 2002；Hare 1993；Ryberg 1996a, 2004)[^hare-1993][^mackie-1985][^ryberg-1996a][^sikora-1978][^sikora-1978-2][^tännsjö-1992]。等我们完全弄清它说的是什么，就不会再觉得反直觉了。比如，有人提出反感至少部分来自我们对大数目把握不住(Tännsjö 2002；Broome 2004)[^broome-2004][^tännsjö-2002]：亿万又亿万的人是什么光景，我们根本想象不出，所以直觉并不建立在 *Z* 之道德意义的可靠图景上(对这些论证的批判性讨论，见 Temkin 2012 与 Pummer 2013)[^pummer-2013][^temkin-2012]。还有几位理论家说，我们的直觉被另一种误解带偏了：误以为 *Z* 里的生活——那种仅勉强值得过的生活——很糟，其实未必。一旦明白这种生活并不凄惨，或许跟寻常有特权者的生活差不多少，结论就不刺人了(Mackie 1985；Tännsjö 1992；Ryberg 1996a)[^mackie-1985][^ryberg-1996a][^tännsjö-1992]。照这两类看法，人口伦理学固然可能是伦理研究中一个复杂的领域，至少不再包含传统上所谓核心挑战之一了。
   - id: 55
     kind: body
     source: |-
       However, this conclusion might not be much of a comfort since there are other impossibility results that do not rely on avoidance of the Repugnant Conclusions as one of its adequacy conditions but on avoidance of the intuitively even more unacceptable Very Repugnant Conclusion: For any perfectly equal population with very high positive welfare, and for any number of lives with any very negative welfare, there is a population consisting of the lives with negative welfare and lives with very low positive welfare which is better than the high welfare population, other things being equal (Arrhenius 2011)[^arrhenius-2011]. This conclusion seems much harder to accept than the Repugnant Conclusions. Here we are comparing one population where everybody enjoys very high quality of life with another population where people either have very low positive welfare or very negative welfare (any level of horrible suffering). Even if we were to accept the Repugnant Conclusion, we are not forced to accept the Very Repugnant Conclusion. We might, for example, accept the former but not the latter because we give greater moral weight to suffering than to happiness. Hence, to exorcise the paradoxes of population ethics, it is not sufficient to show that our intuition about the Repugnant Conclusion is wrong or epistemically unreliable. We also have to show that this is true of the Very Repugnant Conclusion, which might strike many as quite a tall order.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，这一结论未必是多大安慰，因为还有其他不可能性结果，它们不把避开令人反感的结论当作充分性条件之一，而是以避开直觉上更不可接受的极令人反感的结论为条件：对任何福利极高且完全平等的人口，以及对任何数目的、福祉极度为负的生命，都存在一个由负福利生命与极低正福利生命构成的人口，在其他条件相同的情况下，它优于那个高福利人口（Arrhenius 2011）[^arrhenius-2011]。这一结论看来比令人反感的结论更难接受。这里我们比较的是：一个人口人人享有极高生活质量，另一个人口中的人或享有极低正福利、或享有极度负福利（任何程度的可怕痛苦）。即便我们接受令人反感的结论，也未必被迫接受极令人反感的结论。例如，我们可以接受前者而不接受后者，因为我们对痛苦比对幸福赋予更大的道德分量。于是，要驱除人口伦理学的悖论，仅表明我们对令人反感的结论的直觉有误或在认识上不可靠还不够。我们还须表明极令人反感的结论也是如此，而在许多人看来，这是个相当苛刻的要求。
+    step2: |-
+      可这个结论未必能给人多少安慰。还有别的不可能性结果，它们的充分性条件不是躲开令人反感的结论，而是躲开直觉上更难接受的“极令人反感的结论”：对任何福利极高且完全平等的人口，以及对任何数目的、福祉极度为负的生命，总存在一个人口，由那些负福利生命加上极低正福利生命构成，在其他条件相同的情况下，它优于那个高福利人口(Arrhenius 2011)[^arrhenius-2011]。这个结论看来比令人反感的结论更难咽下。这里比的是一边人人生活质量极高，另一边的人要么只有极低正福利，要么极度负福利（各种程度的可怕痛苦都可能）。就算接受令人反感的结论，也未必得接受极令人反感的结论：比方说，我们可以接受前者而不接受后者，因为痛苦在道德上分量更重。所以，要驱除人口伦理学的悖论，光说明我们对令人反感的结论的直觉有错、或认识上不可靠，还不够；还得对极令人反感的结论也说明这一点——这在许多人看来，要求高得离谱。
   - id: 56
     kind: oir
     source: |-
       [Please contact the author with suggestions.]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [欢迎向作者提出建议。]
+    step2: |-
+      [欢迎向作者提出建议。]
   - id: 57
     kind: ack
     source: |-
       The editors would like to thank Fairley Cessna for noticing a number of typographical errors in this entry and for taking the time to write to us about them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      编者谨向 Fairley Cessna 致谢：他指出了本词条中的若干排印错误，并花时间写信告知我们。
+    step2: |-
+      编者感谢 Fairley Cessna 指出本词条中若干排印错误，并专门写信相告。
