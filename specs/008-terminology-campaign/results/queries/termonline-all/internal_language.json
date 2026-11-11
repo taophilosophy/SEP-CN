@@ -1,0 +1,348 @@
+{
+ "key": "internal language",
+ "term": "internal language",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T09:04:32+00:00",
+ "status": "ok",
+ "note": "variant=internal language; 审定公布名词库=3664; 海峡两岸名词对照库=1476; 其他来源数据库=395; 预公布名词数据库=438; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "国际语言",
+   "en": "international language",
+   "code": "12.180",
+   "standard": "语言学名词",
+   "subject": "语言学_社会语言学_语言接触与双语"
+  },
+  {
+   "cn": "内化语言",
+   "en": "internalized language,I language",
+   "code": "01.123",
+   "standard": "语言学名词",
+   "subject": "语言学_理论语言学_核心术语"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "code": "6.039",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播总论_传播研究基础"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "code": "4.042",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为的心理学基础_认知与行为"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "code": "02.0512",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_形式语言与自动机"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "code": "02.130",
+   "standard": "物理医学与康复名词",
+   "subject": "物理医学与康复_康复功能评定_言语障碍评定"
+  },
+  {
+   "cn": "屈折语",
+   "en": "inflecting language,inflectional language,inflected language",
+   "code": "01.176",
+   "standard": "语言学名词",
+   "subject": "语言学_理论语言学_核心术语"
+  },
+  {
+   "cn": "检索语言",
+   "en": "retrieval language,search language",
+   "code": "04.038",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_一般概念"
+  },
+  {
+   "cn": "手语",
+   "en": "manual language,gesture language",
+   "code": "10.146",
+   "standard": "教育学名词",
+   "subject": "教育学_特殊教育"
+  },
+  {
+   "cn": "外化语言",
+   "en": "externalized language,E language",
+   "code": "01.122",
+   "standard": "语言学名词",
+   "subject": "语言学_理论语言学_核心术语"
+  },
+  {
+   "cn": "手势语",
+   "en": "sign language,gesture language",
+   "code": "01.116",
+   "standard": "语言学名词",
+   "subject": "语言学_理论语言学_核心术语"
+  },
+  {
+   "cn": "声调语言",
+   "en": "tonal language,tone language",
+   "code": "01.117",
+   "standard": "语言学名词",
+   "subject": "语言学_理论语言学_核心术语"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "语言描述语言",
+   "en": "language-description language",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "受限语言",
+   "en": "restricted language\",\"controlled language",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "内[的]",
+   "en": "internal",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "内［部］构件",
+   "en": "internals",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "内控者",
+   "en": "internals",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "语言生成",
+   "en": "language production",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "口头语言",
+   "en": "spoken language",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "言",
+   "en": "Language",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "形式语言",
+   "en": "Formal language",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "线形文字A",
+   "en": "Eteocretan language",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "官方语言",
+   "en": "official language",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "黏着语",
+   "en": "agglutinative language",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "屈折语",
+   "en": "fusional language",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "口语",
+   "en": "spoken language",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "程序设计语言",
+   "en": "programming language",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "机器语言",
+   "en": "machine language",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "正则语言",
+   "en": "regular language",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "汇编语言",
+   "en": "assembly language",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "编程语言",
+   "en": "programming language",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "国际语言",
+   "en": "international language",
+   "code": "5.0147",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_语言状况与规划"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "code": "01.0015",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "code": "4.2.5.14",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_儿童保健_儿童生长发育"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "code": "5.0035",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "网络语言",
+   "en": "internet language",
+   "code": "3.16.6.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_青少年研究_青年文化"
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "code": "2.3.1.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会化_社会化"
+  },
+  {
+   "cn": "纳木依语",
+   "en": "Namuyi language",
+   "code": "5.0241",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族语言"
+  },
+  {
+   "cn": "语言活力",
+   "en": "language vitality",
+   "code": "5.0172",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_语言状况与规划"
+  },
+  {
+   "cn": "桑孔语",
+   "en": "Sangkong language",
+   "code": "5.0249",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族语言"
+  },
+  {
+   "cn": "羌语",
+   "en": "Qiang language",
+   "code": "5.0245",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族语言"
+  },
+  {
+   "cn": "赛德克语",
+   "en": "Seediq language",
+   "code": "5.0349",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族语言"
+  },
+  {
+   "cn": "鄂伦春语",
+   "en": "Oroqen language",
+   "code": "5.0316",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族语言"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
