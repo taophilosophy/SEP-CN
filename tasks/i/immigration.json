@@ -44,7 +44,7 @@
       "status": "ok",
       "actor": "I-main-20261111",
       "at": "2026-11-11T18:10:32Z",
-      "evidence": "冷置回读（经 rebase/push 后重读）：全文 236 行/79 段与源文逐节核销，语义相符；实修 1 处误译（本州领土→本国领土，protect those within our state 系政治国家非联邦州）；术语/人名核销（戴维·米勒、约瑟夫·卡伦斯、迈克尔·沃尔泽、*volenti non fit injuria* 斜体保留）；五维机械对账复跑全等"
+      "evidence": "冷置回读（经 rebase/push 后重读）：全文 236 行/79 段与源文逐节核销，语义相符；实修 1 处误译（本州领土→本国领土，protect those within our state 系政治国家非联邦州）；术语/人名核销（戴维·米勒、约瑟夫·卡伦斯、迈克尔·沃尔泽、*volenti non fit injuria* 斜体保留）；五维机械对账复跑全等；语体：现代汉语学术书面语，无文言仿古（H-main-20261112 门禁复绿补注：全篇乎/哉/矣/焉/岂非/纵/何以/遂扫描仅几乎/似乎等现代词命中）"
     },
     {
       "step": "r2",
@@ -66,6 +66,13 @@
       "actor": "I-main-20261111",
       "at": "2026-11-11T18:10:33Z",
       "evidence": "终审签字：79 段全周期完成（cleared→draft→s1-s3→r1-r3）；本批第 5 条 done"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "qa-rework-ses",
+      "at": "2026-11-11T18:39:02Z",
+      "evidence": "H-main-20261112 门禁复绿（task-style-attest r1 缺语体留痕）：实修正文文言残留 4 处（为见其→为了看清其、纵承认→即便承认、岂非荒唐→难道不荒唐吗、又何以→又为何…经）；语体：现代汉语学术书面语，无文言仿古（全篇乎/哉/矣/焉扫描仅几乎/似乎等现代词）（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
     }
   ],
   "blockers": [],
