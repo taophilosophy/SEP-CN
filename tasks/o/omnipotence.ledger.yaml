@@ -86,7 +86,7 @@ segments:
     step1: |-
       超限算术的创立者格奥尔格·康托尔（1845–1918）也是集合论的奠基人之一。他著名地证明了 *实数集* 的基数 *大于* 自然数集；实数集的基数与自然数集的 *幂集*（*一切子集之集*）相同。康托尔进一步论证，$\aleph_0$ 是一个不断增大的超限基数无穷序列中的 *第一个*（也是最小的）超限基数，即 $\aleph_0,$ $\aleph_1,$ $\aleph_2$，如此等等。但要注意，这些阿列夫的数字下标并不指基数，而指 *序数*（或次序数），如第一、第二、第三等。按康托尔，没有最大的超限基数；尽管超限基数无穷多，却不存在它们的基数。毋宁说，超限基数的总体在一种 *自成一类* 的非算术意义上是 *绝对无限* 的。类似地，在策梅洛—弗兰克尔集合论（ZF）及其扩展 ZFC（ZF＋选择公理）中，超限基数的总体不算作一个有确定成员基数的 *集合*。这样的集合会太大；若它存在，便会引出类似罗素悖论的悖谬后果。ZF 把这些悖谬后果避开，办法是把超限基数的总体刻画为一个无限大的 *真类*。在获得重大支持的各种公理集合论形态中，无法证明一个真类比另一个真类更大。
     step2: |-
-      超限算术的创立者格奥尔格·康托尔（1845–1918）也是集合论的奠基人之一。他的著名证明是：**实数集** 的基数 **大于** 自然数集，且实数集的基数等于自然数集的 **幂集**（**一切子集之集**）的基数。康托尔进一步论证，$\aleph_0$ 是不断增大的超限基数无穷序列 $\aleph_0, \aleph_1, \aleph_2, \dots$ 中的 **第一个**（也是最小的）超限基数。要注意，这些阿列夫下标标的是 **序数**（次序数），而非基数，即第一、第二、第三等。按康托尔之说，不存在最大的超限基数；超限基数虽无穷多，却没有一个基数来计量它们。超限基数的总体在一种 **自成一类** 的非算术意义上是 **绝对无限** 的。同样，在策梅洛—弗兰克尔集合论（ZF）及其扩展 ZFC（ZF＋选择公理）中，超限基数的总体不构成一个有确定成员基数的 **集合**——这样的集合会过大，一旦存在便会引出类乎罗素悖论的后果。ZF 的对策是把超限基数的总体刻画为无限大的 **真类**，从而避开这些后果。在获得广泛支持的公理集合论形态中，无法证明一个真类比另一个真类更大。
+      超限算术的创立者格奥尔格·康托尔（1845–1918）也是集合论的奠基人之一。他的著名证明是：**实数集** 的基数 **大于** 自然数集，且实数集的基数等于自然数集的 **幂集**（**一切子集之集**）的基数。康托尔进一步论证，$\aleph_0$ 是不断增大的超限基数无穷序列 $\aleph_0,$ $\aleph_1,$ $\aleph_2, \dots$ 中的 **第一个**（也是最小的）超限基数。要注意，这些阿列夫下标标的是 **序数**（次序数），而非基数，即第一、第二、第三等。按康托尔之说，不存在最大的超限基数；超限基数虽无穷多，却没有一个基数来计量它们。超限基数的总体在一种 **自成一类** 的非算术意义上是 **绝对无限** 的。同样，在策梅洛—弗兰克尔集合论（ZF）及其扩展 ZFC（ZF＋选择公理）中，超限基数的总体不构成一个有确定成员基数的 **集合**——这样的集合会过大，一旦存在便会引出类乎罗素悖论的后果。ZF 的对策是把超限基数的总体刻画为无限大的 **真类**，从而避开这些后果。在获得广泛支持的公理集合论形态中，无法证明一个真类比另一个真类更大。
 
   - id: 10
     kind: body
@@ -95,68 +95,98 @@ segments:
     step1: |-
       超限基数可用来量化能量或力，如 $\aleph_0$ 焦耳或 $\aleph_0$ 牛顿。也可用来陈述对象总体的基数，如 $\aleph_2$ 个事态。于是，解释“力量”的第一种方式，是把它理解为产生由某个超限基数所量化的能量或力的力量（或力量范围）。一种选择是，“无限力量”指产生某一 *特定* 超限数量的焦耳或牛顿的力量，如 $\aleph_0$。另一种选择是，“无限力量”指产生 *任何* 超限数量的焦耳或牛顿的力量，即 $\aleph_0,$ $\aleph_1,$ $\aleph_2$，如此 *以至无穷*。第三种更激进的选择是，“无限力量”指产生 *多于* 任何超限基数所能量化的焦耳或牛顿的力量。这样的能量或力看来可算作不可能有比之更大的能量或力。
     step2: |-
-      超限基数可以用来计量能量或力，例如 $\aleph_0$ 焦耳或 $\aleph_0$ 牛顿；也可以用来陈述某一对象总体的基数，例如 $\aleph_2$ 个事态。因此，“力量”的第一种解释，是产生由某个超限基数计量的能量或力的力量（或力量范围）。这里又分两种：其一，“无限力量”指产生某一 **特定** 超限数量的焦耳或牛顿的力量，如 $\aleph_0$；其二，指产生 **任何** 超限数量的焦耳或牛顿的力量，即 $\aleph_0, \aleph_1, \aleph_2$，**以至无穷**。第三种更激进：指产生 **多于** 任何超限基数所能计量的焦耳或牛顿的力量。这样的能量或力，似乎正可算作不可能有比之更大的能量或力。
+      超限基数可以用来计量能量或力，例如 $\aleph_0$ 焦耳或 $\aleph_0$ 牛顿；也可以用来陈述某一对象总体的基数，例如 $\aleph_2$ 个事态。因此，“力量”的第一种解释，是产生由某个超限基数计量的能量或力的力量（或力量范围）。这里又分两种：其一，“无限力量”指产生某一 **特定** 超限数量的焦耳或牛顿的力量，如 $\aleph_0$；其二，指产生 **任何** 超限数量的焦耳或牛顿的力量，即 $\aleph_0,$ $\aleph_1,$ $\aleph_2$，**以至无穷**。第三种更激进：指产生 **多于** 任何超限基数所能计量的焦耳或牛顿的力量。这样的能量或力，似乎正可算作不可能有比之更大的能量或力。
 
   - id: 11
     kind: body
     source: |-
       The alternative way of interpreting ‘infinite power’ is as the power to bring about infinitely many states of affairs. The three options relevant to this interpretation of ‘infinite power’ parallel the three options just described. First, that ‘infinite power’ is the power to bring about a *specific* transfinite cardinal number of states of affairs. Second, that ‘infinite power’ is the power to bring about *any* transfinite cardinal number of states of affairs. Third, that ‘infinite power’ is the power to bring about *more* states of affairs than *any* transfinite cardinal number can quantify.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      解释“无限力量”的另一方式，是把它理解为造成无穷多事态的力量。与这种解释相关的三种选择，与前文所述三种选择平行。第一，“无限力量”是造成某一 *特定* 超限基数那么多事态的力量。第二，“无限力量”是造成 *任何* 超限基数那么多事态的力量。第三，“无限力量”是造成 *多于* 任何超限基数所能量化的事态的力量。
+    step2: |-
+      “无限力量”的另一种解释，是造成无穷多事态的力量。与这种解释相关的三种选择，与前文所述三种一一平行：其一，“无限力量”指造成某一 **特定** 超限基数那么多事态的力量；其二，指造成 **任何** 超限基数那么多事态的力量；其三，指造成的事态 **多于** 任何超限基数所能计量的力量。
+
   - id: 12
     kind: body
     source: |-
       The standard view is that there is no greatest transfinite cardinal, and that there are proper classes containing more objects than can be quantified by any transfinite cardinal. Moreover, there could *not* be an agent who has *greater* power than an omnipotent agent. Thus, with regards to the two interpretations offered, there is some reason to conclude that in each case the *third option* is best.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      标准看法是：没有最大的超限基数；真类所含对象多于任何超限基数所能量化。此外，不可能有行动者的力量 *大于* 全能行动者。因此，就所给的两种解释而言，有理由断定：两种情形下都是 *第三种选择* 最佳。
+    step2: |-
+      标准看法是：不存在最大的超限基数；真类所含的对象多于任何超限基数所能计量。况且，也不可能有哪个行动者的力量 **大于** 全能行动者。因此，就上述两种解释而言，有理由认为：每一种情形下都以 **第三种选择** 为最佳。
+
   - id: 13
     kind: body
     source: |-
       However, a philosopher who has *positivistic or naturalistic leanings* might argue that one should posit transfinite cardinals of *only* those sizes required by prevailing *scientific theories*. Arguably, the prevailing theory of the s*pace-time continuum* in physics is committed to the existence of infinite sets which have the cardinality of the set of space-time points contained within such a continuum (which is at least $\aleph_1$). If an argument of that sort is correct, this scientific theory is, in addition, committed to the existence of the power set of the foregoing set of space-time points – which is needed to accommodate continuous and discontinuous linear paths. (This power set has the cardinality of the set of mathematical functions from reals to reals.) But scientific theories do *not* appear to require the existence of any set *larger than* that power set. So, a philosopher who has positivistic inclinations might tentatively conclude that the cardinal number of this power set (which is at least $\aleph_2$) is in fact *the largest cardinal*. In a related vein, W. V. O. Quine dismisses “excessive” magnitudes, for instance, “$\beth_\omega$ and inaccessible numbers,” as mere fancies of “recreational mathematics” bereft of of ontological import (Quine 1986, p. 400; cf. Quine 1960, Ch. 7)[^quine-1960][^quine-1986]. If a reader is unfamiliar with Quine’s illustrations of scientifically gratuitous magnitudes, please note that $\beth_0 = \aleph_0$, $\omega$ (omega) is $\aleph_0$’s [infinite] *ordinal* counterpart, i.e., $\aleph_0$ is the $\omega^{\text{th}}$ cardinal number, and $\beth_\omega$ is the $\omega^{\text{th}}$ iteration of the power set of $\beth_0$; *inaccessible numbers* (roughly speaking) are (putative) uncountable large cardinals which cannot be derived *via* summations of, or power set operations on, smaller cardinals. Quine judges that such magnitudes exceed the theoretical demands of the empirical sciences because admitting them would not contribute to the simplification of our scientific computations and generalizations. Even so, there is a view of the cumulative set-theoretical hierarchy to which Quine seems (reluctantly) willing to accede, at least in part because it provides a “convenient cut-off” limiting the extent of that hierarchy. According to this view, all sets are *constructible* (in a sense defined by Kurt Gödel) from more elementary sets, a position significantly more restrictive than is needed to avoid the known set-theoretical paradoxes. But, arguably, when examining omnipotence, given its robust theological and metaphysical dimensions, a less positivistic or naturalistic, more expansive, criterion of ontological commitment is appropriate. After all, it would be natural to assume that the Supreme Being has the power to create any number of possible worlds governed by different laws of nature. Given that assumption, it appears that an omnipotent agent’s power would not be circumscribed by theoretical scientific laws governing the actual world.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，*带有实证主义或自然主义倾向* 的哲学家可能主张：人只应设定通行 *科学理论* 所要求的那 *些* 大小的超限基数。可以说，物理学中通行的 *时空连续统* 理论承诺存在无限集，其基数等于该连续统所包含的时空点集的基数（至少为 $\aleph_1$）。若这类论证正确，该科学理论还承诺前述时空点集的幂集存在——连续与不连续的线性路径需要它。（这个幂集的基数等于从实数到实数的数学函数集的基数。）但科学理论看来 *不* 要求存在 *比* 该幂集 *更大* 的任何集合。于是，有实证主义倾向的哲学家或可初步断定：这个幂集的基数（至少为 $\aleph_2$）其实就是 *最大的基数*。与此相关，W. V. O. 蒯因把“过分的”量值，例如“$\beth_\omega$ 与不可达数”，斥为“娱乐数学”的纯粹幻想，没有本体论意涵（Quine 1986, p. 400; cf. Quine 1960, Ch. 7）[^quine-1960][^quine-1986]。若读者不熟悉蒯因所举那些科学上多余的量值，请注意：$\beth_0 = \aleph_0$，$\omega$（omega）是 $\aleph_0$ 的［无限］*序数* 对应物，即 $\aleph_0$ 是第 $\omega^{\text{th}}$ 个基数，而 $\beth_\omega$ 是 $\beth_0$ 的幂集的第 $\omega^{\text{th}}$ 次迭代；*不可达数*（大致说）是（所谓的）不可数大基数，不能 *经由* 对较小基数的求和或幂集运算得出。蒯因判断，这类量值超出经验科学的理论需要，因为承认它们无助于简化我们的科学计算与概括。即便如此，对于累积集合论层级的一种看法，蒯因似乎（不情愿地）愿意接受，部分原因是它提供了一个“方便的截断点”，限制该层级的范围。按此看法，一切集合都是 *可构造的*（在库尔特·哥德尔所定义的意义上），由更基本的集合构造出来；这一立场远比避免已知集合论悖论所需更为严格。但可以说，考察全能时，鉴于其浓厚的神学与形而上学维度，采用一种不那么实证主义或自然主义、更为宽泛的本体论承诺标准，是恰当的。毕竟，自然会假定最高存在有力量创造任意多个受不同自然律支配的可能世界。既如此，全能行动者的力量看来便不受支配现实世界的理论科学定律的限制。
+    step2: |-
+      然而，**带有实证主义或自然主义倾向** 的哲学家可能主张：只应设定通行 **科学理论** 所要求的那几种大小的超限基数。可以说，物理学中通行的 **时空连续统** 理论承诺存在无限集，其基数等于该连续统所含时空点集的基数（至少为 $\aleph_1$）。若这类论证成立，该科学理论还承诺前述时空点集的幂集存在——连续与不连续的线性路径都需要它。（该幂集的基数，等于从实数到实数的数学函数集的基数。）但科学理论看来 **不** 要求存在 **比** 该幂集 **更大** 的任何集合。于是，有实证主义倾向的哲学家或可初步断定：这个幂集的基数（至少为 $\aleph_2$）其实就是 **最大的基数**。与此相关，W. V. O. 蒯因把“过分的”量值，例如“$\beth_\omega$ 与不可达数”，斥为“娱乐数学”的纯粹幻想，并无本体论意涵（Quine 1986, p. 400; cf. Quine 1960, Ch. 7）[^quine-1960][^quine-1986]。若读者不熟悉蒯因所举的这些科学上多余的量值，这里略作说明：$\beth_0 = \aleph_0$；$\omega$（omega）是 $\aleph_0$ 的［无限］**序数** 对应物，即 $\aleph_0$ 是第 $\omega^{\text{th}}$ 个基数；$\beth_\omega$ 则是 $\beth_0$ 的幂集的第 $\omega^{\text{th}}$ 次迭代。**不可达数**（大致说）是（所谓的）不可数大基数，不能 **经由** 对较小基数的求和或幂集运算得出。蒯因判断，这类量值超出经验科学的理论需要，因为承认它们无助于简化我们的科学计算与概括。即便如此，对于累积集合论层级的一种看法，蒯因似乎（不情愿地）愿意接受，部分原因是它提供了一个“方便的截断点”，以限制该层级的范围。按此看法，一切集合都 **可构造**（在库尔特·哥德尔所定义的意义上），由更基本的集合构造出来；这一立场远比避免已知集合论悖论所需者更为严格。但可以说，考察全能的浓厚神学与形而上学维度，宜采用一种不那么实证主义或自然主义、更为宽泛的本体论承诺标准。毕竟，我们自然会假定：最高存在有力量创造任意多个受不同自然律支配的可能世界。既如此，全能行动者的力量看来便不受支配现实世界的理论科学定律所限。
+
   - id: 14
     kind: body
     source: |-
       Even so, the notions of *more* energy or force than can be quantified by any transfinite cardinal, and of *more* states of affairs than can be quantified by any transfinite cardinal, are mind-boggling. Moreover, arguably, *that much* energy or force, or the power to bring about *that many* states of affairs, is impossible. For this reason, with respect to each of the interpretations of ‘infinite power’ on offer, there are doubts about the viability of the corresponding third option. Thus, with respect to each of these alternate interpretations of ‘infinite power’, it is an open question which of the three corresponding options is best. Until greater clarity is attained about this matter, a definition of omnipotence as infinite power is problematic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      即便如此，*多于* 任何超限基数所能量化的能量或力、以及 *多于* 任何超限基数所能量化的事态，这些观念仍令人难以想象。而且可以说，*那么多* 能量或力，或造成 *那么多* 事态的力量，是不可能的。因此，就“无限力量”的每一种解释而言，相应的第三种选择是否可行都有疑问。于是，对于“无限力量”的这些替代解释，三种相应选择中哪一种最佳，仍是未决问题。在这一点上获得更大清晰性之前，把全能定义为无限力量是有问题的。
+    step2: |-
+      即便如此，“**多于** 任何超限基数所能计量的能量或力”与“**多于** 任何超限基数所能计量的事态”这两个观念，仍令人难以想象。而且可以说，**那么多** 能量或力，或造成 **那么多** 事态的力量，本身就是不可能的。因此，就“无限力量”的每一种解释而言，相应的第三种选择是否可行都有疑问。于是，对于“无限力量”的这些替代解释，三种相应选择中哪一种最佳，仍是未决问题。在这一问题获得更大清晰性之前，把全能定义为无限力量是有问题的。
+
   - id: 15
     kind: body
     source: |-
       Moreover, it can be plausibly argued that having the power to bring about infinitely many states of affairs does not entail omnipotence. E.g., intuitively, an agent who has the power to move a feather into any of infinitely many positions, but lacks the power to move a heavy boulder, would not be omnipotent, despite having the power to bring about infinitely many states of affairs.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，可以有说服力地论证：有力量造成无穷多事态，并不蕴含全能。例如，直觉上，一个有力量把一片羽毛移到无穷多个位置之一、却无力量移动一块重石头的行动者，尽管有力量造成无穷多事态，也不是全能的。
+    step2: |-
+      此外，可以合理地论证：能够造成无穷多事态，并不蕴含全能。例如，直觉上，一个行动者若能把一片羽毛移到无穷多个位置中的任何一个，却搬不动一块重石，那么尽管它能造成无穷多事态，也不是全能的。
+
   - id: 16
     kind: body
     source: |-
       It may be thought that, necessarily, any agent who has the power to produce an infinitely large amount of energy or force is omnipotent. Yet, this seems not to be true. After all, it seems possible for there to be an agent who is infinitely powerful in this sense, but who nonetheless lacks complete *command and control* of the energies or forces it has the power to produce. If so, an agent’s possessing the power to produce an infinite amount of energy or force does *not* entail that the agent in question is omnipotent. As illustrated by the example described above of an agent who has the power to move a feather into infinitely many positions, but who lacks the power to move a heavy boulder, an agent’s (*S*’s) having the power to bring about infinitely many things of *one* sort, does not guarantee that *S* has the power to bring about things of *another* sort.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人们可能认为，必然地，任何有力量产生无限大能量或力的行动者都是全能的。然而这似乎不真。毕竟，看来可能有这样一个行动者：在此意义上有无限力量，却并不完全 *支配与控制* 它有力量产生的能量或力。若如此，一个行动者拥有产生无限能量或力的力量，并 *不* 蕴含该行动者是全能的。正如上文所述有力量把羽毛移到无穷多位置、却无力量移动重石的例子所示，一个行动者（*S*）有力量造成 *一* 类无穷多事物，并不保证 *S* 有力量造成 *另一* 类事物。
+    step2: |-
+      人们可能认为，必然地，任何有力量产生无限大能量或力的行动者都是全能的。然而这似乎不成立。毕竟，看来可能存在这样一个行动者：在此意义上有无限力量，却并不完全 **支配与控制** 它有力量产生的能量或力。若如此，拥有产生无限能量或力的力量，并 **不** 蕴含该行动者全能。正如上文那个能把羽毛移到无穷多位置、却搬不动重石的例子所示：一个行动者（*S*）有力量造成 **一** 类无穷多事物，并不保证 *S* 有力量造成 **另一** 类事物。
+
   - id: 17
     kind: body
     source: |-
       But even if there is some sort of infinite power such that, necessarily, an agent, *A*, is omnipotent if and only if *A* has that sort of infinite power, the definitional claim that omnipotence *is* such power is far *too general* to provide a *granular* analysis of omnipotence – the kind of analysis of omnipotence which we are seeking. Proposed granular analyses of omnipotence offer considerably greater *specificity* about the powers of an omnipotent agent.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但即便存在某种无限力量，使得必然地，一个行动者 *A* 全能当且仅当 *A* 有那种无限力量，那个定义性主张——全能 *就是* 这种力量——也远 *过于笼统*，不足以提供全能的 *精细* 分析，即我们所寻求的那类全能分析。所提出的精细全能分析，对全能行动者的力量提供远为更大的 *具体性*。
+    step2: |-
+      但即便存在某种无限力量，使得必然地，行动者 *A* 全能当且仅当 *A* 具有那种无限力量，“全能 **就是** 这种力量”这一界定仍远 **过于笼统**，不足以给出全能的 **精细** 分析——即我们所寻求的那类分析。现有的精细分析，对全能行动者的力量提供了远为具体的刻画。
+
   - id: 18
     kind: body
     source: |-
       Let us return to the historical question of Locke’s understanding of infinite power. Locke explicitly rejects the notion that there is an infinite cardinal number. He takes the contention that there is such a number to be absurd. Rather, Locke appears to understand infinite power as unlimited power, consistent with the Aristotelean notion that infinities are “potential” and never completed, as well as with the empiricist idea that infinity is a wholly negative notion. The infinite sets discussed earlier are “actual” or completed infinities. According to one fairly common understanding of unlimited power, such power includes the power to bring about or undo necessary states of affairs, e.g., necessities of logic, mathematics, metaphysics, or ethics. Yet, it does not appear that Locke means to attribute this power to an omnipotent agent; he never contends that the Supreme Being has the power to bring about or undo necessities. In any event, we will critically examine the thesis that an omnipotent agent has the power to bring about or undo necessary states of affairs in what follows.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      让我们回到洛克如何理解无限力量这一历史问题。洛克明确拒斥存在无限基数的观念，认为这种主张荒谬。毋宁说，洛克似把无限力量理解为无限制的力量，这与亚里士多德式的观念——无限是“潜在的”、永不完成——一致，也与经验主义观念——无限是一个纯然否定的概念——一致。先前讨论的无限集是“现实的”或完成了的无限。按一种相当常见的无限制力量观，这种力量包括造成或撤销必然事态的力量，例如逻辑、数学、形而上学或伦理的必然性。然而，洛克似乎并不想把这种力量归给全能行动者；他从未主张最高存在有力量造成或撤销必然性。无论如何，下文将批判考察“全能行动者有力量造成或撤销必然事态”这一论题。
+    step2: |-
+      让我们回到洛克如何理解无限力量这一历史问题。洛克明确拒斥存在无限基数的说法，视之为荒谬。他似乎把无限力量理解为无限制的力量：这既合乎亚里士多德式的观念——无限是“潜在的”、永不完成，也合乎经验主义的观念——无限纯属否定性概念。前文讨论的无限集则是“现实的”、完成了的无限。按一种相当常见的无限制力量观，这种力量包括造成或撤销必然事态的力量，例如逻辑、数学、形而上学或伦理上的必然性。然而，洛克似乎并未把这种力量归给全能行动者；他从未主张最高存在有能力造成或撤销必然性。无论如何，下文将批判地考察“全能行动者有力量造成或撤销必然事态”这一论题。
+
   - id: 19
     kind: body
     source: |-
       One sense of ‘omnipotence’ is, literally, that of having the power to bring about *any* state of affairs whatsoever, including necessary and impossible states of affairs. Descartes seems to have had such a notion (*Meditations*, Section 1). Yet, Aquinas and Maimonides held the view that this sense of ‘omnipotence’ is incoherent. Their view can be defended as follows. It is *not* possible for an agent to bring about an *impossible* state of affairs (e.g., *that there is a shapeless cube*), since if it were, it would be possible for an impossible state of affairs to obtain, which is a contradiction (see Aquinas, *Summa Theologiae*, Ia, 25, 3; and Maimonides, *Guide for the Perplexed*, Part I, Ch. 15). Nor is it possible for an agent to bring about a *necessary* state of affairs (e.g., *that all cubes are shaped*). It is possible for an agent, $a$, to bring about a necessary state of affairs, $s$, only if possibly, (1) $a$ brings about $s$, and (2) if $a$ had not acted, then $s$ would have failed to obtain. Because a necessary state of affairs obtains whether or not anyone acts, (2) is false. As a consequence, it is impossible for an agent to bring about either a necessary or an impossible state of affairs. Many philosophers accept the principle that if an agent has the *power* to bring about a state of affairs, then this entails that, *possibly*, the agent brings about that state of affairs. If this principle is correct, then the foregoing *absolute* sense of ‘omnipotence’ is incoherent. Among contemporary philosophers, Earl Conee (1991) rejects this principle in order to defend the view that an omnipotent being would have the power to bring about any state of affairs whatsoever.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “全能”的一种字面意义，是有力量造成 *任何* 事态，包括必然事态与不可能事态。笛卡尔似乎持这种观念（《第一哲学沉思集》，第 1 节）。然而，阿奎那与迈蒙尼德认为，这种意义的“全能”不一致。他们的观点可这样辩护：行动者造成 *不可能* 事态（例如 *有一个无形状的立方体*）是 *不* 可能的，因为若可能，就会有一个不可能事态成立，而这是矛盾（见阿奎那《神学大全》Ia, 25, 3；迈蒙尼德《迷途指津》第一部分第 15 章）。行动者造成 *必然* 事态（例如 *一切立方体都有形状*）也不可能。行动者 $a$ 造成必然事态 $s$ 是可能的，仅当可能地：(1) $a$ 造成 $s$；(2) 若 $a$ 未曾行动，$s$ 便不会成立。由于必然事态无论有没有人行动都成立，(2) 为假。因此，行动者造成必然事态或不可能事态都不可能。许多哲学家接受这一原则：若行动者有 *力量* 造成某事态，则蕴含 *可能地* 该行动者造成该事态。若此原则正确，前述“全能”的 *绝对* 意义便不一致。在当代哲学家中，厄尔·康尼（1991）为维护“全能存在着有力量造成任何事态”之说，拒斥这一原则。
+    step2: |-
+      “全能”的一种字面意义，是有力量造成 **任何** 事态，包括必然事态与不可能事态。笛卡尔似乎持这种观念（《第一哲学沉思集》第 1 节）。但阿奎那与迈蒙尼德认为，这种意义的“全能”自相矛盾。他们的观点可这样辩护：行动者造成 **不可能** 事态（例如 **有一个无形状的立方体**）是 **不** 可能的——若可能，就会有一个不可能事态成立，而这是矛盾（见阿奎那《神学大全》Ia, 25, 3；迈蒙尼德《迷途指津》第一部分第 15 章）。行动者造成 **必然** 事态（例如 **一切立方体都有形状**）同样不可能。行动者 $a$ 造成必然事态 $s$ 之可能，仅当可能地：(1) $a$ 造成 $s$；(2) 若 $a$ 未曾行动，$s$ 便不会成立。可是必然事态无论有没有人行动都成立，故 (2) 为假。由此可见，行动者既不可能造成必然事态，也不可能造成不可能事态。许多哲学家接受这条原则：若行动者有 **力量** 造成某事态，则蕴含 **可能地** 该行动者造成该事态。若此原则正确，前述“全能”的 **绝对** 意义便不一致。当代哲学家中，厄尔·康尼（1991）为维护“全能存在着有力量造成任何事态”之说，拒斥了这条原则。
+
   - id: 20
     kind: body
     source: |-
       A second sense of ‘omnipotence’ is that of *maximal power*, meaning just that no being could exceed the overall power of an omnipotent being. It does not follow that a maximally powerful being can bring about *any* state of affairs, since, as observed above, bringing about some such states of affairs is impossible. Nor does it follow that a being with maximal power can bring about whatever any *other* agent can bring about. If $a$ can bring about $s$, and $b$ cannot, it does not follow that $b$ is *not overall* more powerful than $a$, since it could be that $b$ can bring about more states of affairs than $a$ can, rather than the other way around. For the remainder of this entry the discussion concentrates on this *comparative* sense of ‘omnipotence’ as maximal power. Within the context of that discussion, it will be assumed that it is *not* possible for an agent to have the power to bring about *any* state of affairs whatsoever.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “全能”的第二种意义是 *最大力量*，意思只是：没有存在者能超过全能行动者的总体力量。由此推不出：有最大力量的存在者能造成 *任何* 事态，因为如上所述，造成某些此类事态是不可能的。也推不出：有最大力量的存在者能造成任何 *别的* 行动者所能造成的东西。若 $a$ 能造成 $s$ 而 $b$ 不能，推不出 $b$ 的 *总体* 力量不比 $a$ 大，因为可能是 $b$ 能造成比 $a$ 更多的事态，而非相反。本词条余下部分集中讨论“全能”作为最大力量的这一 *比较* 意义。在此讨论脉络中，将假定行动者不可能有力量造成 *任何* 事态。
+    step2: |-
+      “全能”的第二种意义是 **最大力量**，意思只是：没有哪个存在者的总体力量能超过全能行动者。由此推不出：有最大力量者能造成 **任何** 事态——如上所述，造成某些此类事态本就是不可能的；也推不出：有最大力量者能造成任何 **别的** 行动者所能造成的一切。若 $a$ 能造成 $s$ 而 $b$ 不能，并不能推出 $b$ 的 **总体** 力量不如 $a$，因为完全可能是 $b$ 能造成的事态多于 $a$，而非相反。本词条余下部分集中讨论“全能”作为最大力量的这一 **比较** 意义。在此讨论脉络中，将假定行动者不可能有力量造成 **任何** 事态。
+
   - id: 21
     kind: body
     source: |-
