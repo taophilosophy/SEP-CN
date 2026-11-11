@@ -1255,74 +1255,98 @@ segments:
     kind: note
     source: |-
       [^note-1]: From the first paragraph of Halley's anonymous review of the *Principia* in the *Transactions of the Royal Society*, No. 186 (January, February, March 1687), p. 291.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-1]: 引自《皇家学会会刊》第 186 号（1687 年 1、2、3 月）第 291 页上哈雷对《原理》匿名书评的第一段。
+    step2: |-
+      [^note-1]: 摘自《皇家学会会刊》第 186 号（1687 年 1、2、3 月）第 291 页上哈雷对《原理》匿名书评的第一段。
   - id: 150
     kind: note
     source: |-
       [^note-2]: Unless otherwise noted, all quotations from the *Principia* are from the Cohen-Whitman translation. Because other translations and the original texts are available, the location of the quotations within the *Principia* will always be indicated in the text, usually in terms of the Book and Proposition. Changes to the Cohen-Whitman translation will be acknowledged in notes. One change has been made to the translation of the quoted passage: “explication” has been used instead of “explanation,” in keeping with Newton's choice of *explicationem* instead of *explanationem*. Indeed, no form of *explanare* occurs anywhere in any of the three editions of the *Principia*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-2]: 除另有说明，本书所引《原理》文字一律出自科恩—惠特曼英译本。由于其他译本与原文都可获得，引文在《原理》中的位置总会在正文中标出，通常按卷与命题标示。对科恩—惠特曼译文的改动将在注释中说明。对所引段落作了一处改动：采用“阐释”而非“解释”，以符合牛顿选用 *explicationem* 而非 *explanationem* 的做法。的确，*explanare* 的任何形式都没有在《原理》三个版本的任何一处出现。
+    step2: |-
+      [^note-2]: 除另有说明外，本书所引《原理》文字均出自科恩—惠特曼英译本。由于其他译本与原文都可获得，引文在《原理》中的位置总会在正文中标出，通常按卷与命题标示。对科恩—惠特曼译文的改动将在注释中说明。对所引段落已作一处改动：采用“阐释”而非“解释”，以符合牛顿选用 *explicationem* 而非 *explanationem* 的做法。的确，*explanare* 的任何形式都没有在《原理》三个版本的任何一处出现。
   - id: 151
     kind: note
     source: |-
       [^note-3]: Two changes have been made to the Cohen-Whitman translation of the last sentence, which in Latin reads, “*Et satis est quod gravitas revera existat, & agat secundum leges a nobis expositas, & ad corporum caelestium & maris nostril motus omnes sufficiat.”* First, the phrase “to explain,” no counterpart of which occurs in the Latin, has been dropped from the last clause and second, the three verbs *existat*, *agat*, and *sufficiat* have been translated “should exist,” should act,“ and ”should suffice,“ for all three are in the subjunctive in the Latin.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-3]: 对科恩—惠特曼译文的最后一句作两处改动；该句拉丁文作：“*Et satis est quod gravitas revera existat, & agat secundum leges a nobis expositas, & ad corporum caelestium & maris nostril motus omnes sufficiat.*” 第一，从最后一个分句中删去了“to explain”这一短语，因为拉丁文中并无与之对应的词；第二，三个动词 *existat*、*agat* 与 *sufficiat* 译为“应当存在”、“应当作用”与“应当足以”，因为它们在拉丁文中都是虚拟式。
+    step2: |-
+      [^note-3]: 对科恩—惠特曼译文最后一句作了两处改动；该句拉丁文作：“*Et satis est quod gravitas revera existat, & agat secundum leges a nobis expositas, & ad corporum caelestium & maris nostril motus omnes sufficiat.*” 第一，从最后一个分句中删去了“to explain”这一短语，因为拉丁文中没有与之对应的词；第二，三个动词 *existat*、*agat* 与 *sufficiat* 译为“应当存在”、“应当作用”与“应当足以”，因为它们在拉丁文中都是虚拟式。
   - id: 152
     kind: note
     source: |-
       [^note-4]: For details and background on all these approaches, see Curtis Wilson, ”Predictive Astronomy in the Century after Kepler“ in Taton and Wilson, 1989.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-4]: 关于所有这些进路的细节与背景，参见 Curtis Wilson, “Predictive Astronomy in the Century after Kepler”, 载 Taton and Wilson, 1989。
+    step2: |-
+      [^note-4]: 关于所有这些进路的细节与背景，见 Curtis Wilson, “Predictive Astronomy in the Century after Kepler”, 载 Taton and Wilson, 1989。
   - id: 153
     kind: note
     source: |-
       [^note-5]: In the case of an ellipse, the length of the major axis is twice the mean distance from a focus.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-5]: 在椭圆情形中，长轴的长度等于两倍的平均焦点距离。
+    step2: |-
+      [^note-5]: 在椭圆情形中，长轴的长度等于两倍的平均焦点距离。
   - id: 154
     kind: note
     source: |-
       [^note-6]: The discovery was first announced in ”Letters on Sunspots“ of 1613 and forms the heart of the argument against the Ptolemaic system in the Third Day of his *Dialogue Concerning the Two Chief World Systems*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-6]: 这一发现最先发表于 1613 年的“论太阳黑子书信”，并构成其《关于两大世界体系的对话》第三天中反对托勒密体系论证的核心。
+    step2: |-
+      [^note-6]: 这一发现最初发表于 1613 年的“论太阳黑子书信”，并构成其《关于两大世界体系的对话》第三天中反对托勒密体系论证的核心。
   - id: 155
     kind: note
     source: |-
       [^note-7]: *The Epitome of Copernican Astronomy* of Kepler, the *Dialogue Concerning Two Chief World Systems* of Galileo, and the *Principia* (and, posthumously *Le Monde*) of Descartes. Although Galileo does not expressly identify the Tychonic system as the third chief world system, all of the Fourth Day is directed against it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-7]: 开普勒的《哥白尼天文学概要》、伽利略的《关于两大世界体系的对话》、以及笛卡尔的《原理》（以及遗著《论世界》）。尽管伽利略没有明确把第谷体系列为第三个主要世界体系，整个第四天都是针对它的。
+    step2: |-
+      [^note-7]: 开普勒的《哥白尼天文学概要》、伽利略的《关于两大世界体系的对话》、以及笛卡尔的《原理》（以及遗著《论世界》）。尽管伽利略没有明确把第谷体系列为第三个主要世界体系，整个第四天都是针对它的。
   - id: 156
     kind: note
     source: |-
       [^note-8]: The reasoning behind Newton's conclusion does not presuppose the law of gravity, for all Newton required was something established in the original ”De Motu“ tract, namely that the relative strengths of the centripetal accelerations (at equal distances) toward Saturn, Jupiter, the Earth, and the Sun vary as the invariant ratio between the squares of the periods and cubes of the mean distances of the bodies orbiting each. Textual evidence from the other scholium added to ”De Motu“ — the one on resistance — shows that Newton did not yet have the law of gravity, for he had not yet formulated the concept of mass. For details, see G. E. Smith, ”How Did Newton Discover Universal Gravity?“ in *Beyond Hypothesis: Newton's Experimental Philosophy*, *The St. John's Review*, vol. xlv, no. 2 (1999), pp. 32-63).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-8]: 牛顿这一结论背后的推理并不以引力定律为前提，因为牛顿所需要的只是“《论运动》”原论文中已确立的某种东西，即朝向土星、木星、地球与太阳的向心加速度（在等距处）的相对强度，随绕各自运行之天体的周期平方与平均距离立方之间的不变比率变化。从“《论运动》”所加另一篇附释——关于阻力的那一篇——的文本证据看，牛顿当时尚未有引力定律，因为他尚未形成质量概念。详见 G. E. Smith, “How Did Newton Discover Universal Gravity?”, 载 *Beyond Hypothesis: Newton's Experimental Philosophy*, *The St. John's Review*, vol. xlv, no. 2 (1999), pp. 32-63）。
+    step2: |-
+      [^note-8]: 牛顿结论背后的推理并不预设引力定律，因为牛顿所需要的只是“《论运动》”原论文中已确立的某种东西，即朝向土星、木星、地球与太阳的向心加速度（在等距处）的相对强度，随绕各自运行之天体的周期平方与平均距离立方之间的不变比率变化。从“《论运动》”所加另一篇附释——关于阻力的那一篇——的文本证据看，牛顿当时还没有引力定律，因为他尚未形成质量概念。详见 G. E. Smith, “How Did Newton Discover Universal Gravity?”, 载 *Beyond Hypothesis: Newton's Experimental Philosophy*, *The St. John's Review*, vol. xlv, no. 2 (1999), pp. 32-63）。
   - id: 157
     kind: note
     source: |-
       [^note-9]: Kepler expresses concerns about whether the orbital elements of Jupiter, Saturn, and Mars are stable in the Preface to the *Rudolphime Tables, Johannes Kepler Gesammelte Werke*, vol. x, p. 44, lines 21-25.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-9]: 开普勒在《鲁道夫星表》序言中对木星、土星与火星的轨道要素是否稳定表示担忧，*Johannes Kepler Gesammelte Werke*, vol. x, p. 44, lines 21-25。
+    step2: |-
+      [^note-9]: 开普勒在《鲁道夫星表》序言中对木星、土星与火星的轨道要素是否稳定表示担忧，*Johannes Kepler Gesammelte Werke*, vol. x, p. 44, lines 21-25。
   - id: 158
     kind: note
     source: |-
       [^note-10]: See *Isaac Newton's Papers and Letters on Natural Philosophy*, ed. I. Bernard Cohen, Cambridge: Harvard University Press, 1978, p. 106, where Newton remarks, ”For if the possibility of hypotheses is to be the test of the truth and reality of things, I see not how certainty can be obtained in any science; since numerous hypotheses may be devised, which shall seem to overcome new difficulties.“
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-10]: 见 *Isaac Newton's Papers and Letters on Natural Philosophy*, ed. I. Bernard Cohen, Cambridge: Harvard University Press, 1978, p. 106；牛顿在文中说：“因为如果假设的可能性要作为事物之真理与实在的检验，我看不出任何科学怎么能获得确定性；因为可以设计出无数假设，它们看来能克服新的困难。” 
+    step2: |-
+      [^note-10]: 见 *Isaac Newton's Papers and Letters on Natural Philosophy*, ed. I. Bernard Cohen, Cambridge: Harvard University Press, 1978, p. 106；牛顿在那里说：“因为如果假设的可能性要作为事物之真理与实在的检验，我看不出任何科学如何能获得确定性；因为可以设计出无数假设，它们看来能克服新的困难。” 
   - id: 159
     kind: note
     source: |-
       [^note-11]: See N. Jardine, *The Birth of History and Philosophy of Science: Kepler's* A Defence of Tycho against Ursus *with essays on its provenance and significance*, Cambridge: Cambridge University Press, 1984.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-11]: 参 N. Jardine, *The Birth of History and Philosophy of Science: Kepler's* A Defence of Tycho against Ursus *with essays on its provenance and significance*, Cambridge: Cambridge University Press, 1984。
+    step2: |-
+      [^note-11]: 见 N. Jardine, *The Birth of History and Philosophy of Science: Kepler's* A Defence of Tycho against Ursus *with essays on its provenance and significance*, Cambridge: Cambridge University Press, 1984。
   - id: 160
     kind: note
     source: |-
       [^note-12]: The ”Copernican scholium“ of the augmented version of ”De Motu first became public in Ball, 1893, p. 54f.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-12]: “《论运动》”增订本的“哥白尼附释”最初在 Ball, 1893, p. 54f 公之于世。
+    step2: |-
+      [^note-12]: “《论运动》”增订本的“哥白尼附释”最初在 Ball, 1893, p. 54f 公开。
   - id: 161
     kind: note
     source: |-
