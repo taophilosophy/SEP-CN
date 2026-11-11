@@ -203,78 +203,110 @@ segments:
     kind: body
     source: |-
       > $x$ is fitter than $y$ in $E$ $=_{df}$ $x$ has a probabilistic propensity $> .5$ to leave more offspring than $y$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 在 $E$ 中 $x$ 比 $y$ 更适合 $=_{df}$ $x$ 具有大于 $.5$ 的概率倾向，会留下比 $y$ 更多的后代
+    step2: |-
+      > $x$ 在 $E$ 中比 $y$ 更适合 $=_{df}$ $x$ 具有大于 $.5$ 的概率倾向，会留下比 $y$ 更多的后代
   - id: 26
     kind: body
     source: |-
       is that it is of course often falsified. That is, there are many circumstances in which the organism of greater fitness has the propensity to leave fewer immediate offspring than the organism of lower fitness; as when for example, the larger number of a bird’s chick all die owing to the equal division of a quantity of food which would have kept a smaller number viable. More generally, as Gillespie (1977) has shown, the temporal and/or spatial variance in number of offspring may also have an important selective effect. Take a simple example from Brandon (1990). If organism $a$ has 2 offspring each year, and organism $b$ has 1 offspring in odd numbered years and 3 in even numbered ones, then, *ceteris paribus*, after ten generations there will be 512 descendants of $a$ and 243 descendants of $b$. The same holds if $a$ and $b$ are populations, and $b$’s offspring vary between 1 and 3 depending on location instead of period.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在于它当然常常被证伪。也就是说，在许多情形中，适合度较高的有机体具有留下较少直接后代的倾向，而适合度较低的有机体反而留下较多；例如，一只鸟所孵的较多雏鸟，会因一份本可维持较少雏鸟存活的食物被平均分配而全部死亡。更一般地说，正如 Gillespie（1977）所示，后代数在时间上和/或空间上的方差也可能具有重要的选择效应。举 Brandon（1990）的一个简单例子。若有机体 $a$ 每年有 2 个后代，有机体 $b$ 在奇数年有 1 个后代、偶数年有 3 个，那么在其他条件相同的情况下，十代之后 $a$ 有 512 个后代，$b$ 有 243 个后代。若 $a$ 与 $b$ 是种群，而 $b$ 的后代随地点而非时期在 1 与 3 之间变化，结论亦然。
+    step2: |-
+      在于这个“定义”当然屡遭证伪。许多情形下，适合度较高的有机体反倒倾向于留下较少的直接后代，适合度较低者却留下较多；例如一只鸟孵出的雏鸟较多，而一份食物若平均分配，本来足以养活较少的雏鸟，结果却可能全部饿死。更一般地，Gillespie（1977）已表明，后代数目在时间上和/或空间上的方差，也可能产生重要的选择效应。以 Brandon（1990）的一个简单例子为证：设有机体 $a$ 每年产生 2 个后代，有机体 $b$ 在奇数年产 1 个、偶数年产 3 个；那么在其他条件相同的情况下，十代之后 $a$ 有 512 个后代，$b$ 有 243 个。若 $a$、$b$ 是种群，而 $b$ 的后代数目随地点（而非年份）在 1 与 3 之间变动，结论同样成立。
   - id: 27
     kind: body
     source: |-
       Accordingly, we need to change the “definition” to accommodate the effects of variance:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，我们需要修改这个“定义”，以容纳方差的影响：
+    step2: |-
+      有鉴于此，须修改上述“定义”，以便把方差的影响纳入其中：
   - id: 28
     kind: body
     source: |-
       > $x$ is fitter than $y$ $=_{df}$ probably $x$ will have more offspring than $y$, unless their average numbers of offspring are equal and the temporal and/or spatial variance in $y$’s offspring numbers is greater than the variance in $x$’s, or the average numbers of $x$’s offspring are lower than $y$’s, but the difference in offspring variance is large enough to counterbalance $y$’s greater number of offspring.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > $x$ 比 $y$ 更适合 $=_{df}$ 很可能 $x$ 会有比 $y$ 更多的后代，除非二者的平均后代数相等，而 $y$ 的后代数在时间上和/或空间上的方差大于 $x$ 的方差；或者 $x$ 的平均后代数低于 $y$ 的，但后代方差的差异大到足以抵消 $y$ 较多的后代数。
+    step2: |-
+      > $x$ 比 $y$ 更适合 $=_{df}$ 很可能 $x$ 的后代会比 $y$ 多；除非二者平均后代数相同，而 $y$ 后代数在时间上和/或空间上的方差大于 $x$ 的；或者 $x$ 的平均后代数低于 $y$，但后代方差之差足以抵消 $y$ 在数量上的优势。
   - id: 29
     kind: body
     source: |-
       It is also the case that in some biologically actual circumstances—for example, in circumstances in which mean fitnesses are low, increased variance is sometimes selected for (Ekbohm, Fagerstrom, and Agren 1979). As Beatty and Finsen (1987) further showed, our “definition” will also have to accommodate “skew” along with offspring numbers and variance. Skew “appears” when one of the “tails” of the distribution contains more observations and the median is therefore shifted away from the normal. Our “definition” of fitness must take these conditions into account on pain of falsity. One simple way to do so is to add a *ceteris paribus* clause to the definition. But the question must then be raised of how many different exceptions to the original *definiens* need to be accommodated. If the circumstances under which greater offspring numbers do not make for greater fitness are indefinitely many, then this “definition” will be unsatisfactory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      还有一种情形：在某些生物学上实际的情境中——例如在平均适合度较低的情境中——有时会选择较高的方差（Ekbohm, Fagerstrom, and Agren 1979）。正如 Beatty 与 Finsen（1987）进一步表明的，我们的“定义”还必须容纳“偏度”，与后代数和方差并列。当分布的一个“尾部”包含更多观察值、中位数因而偏离正态时，偏度便“出现”了。我们的适合度“定义”必须把这些条件考虑在内，否则就会出错。一个简单的办法是给定义加上一条 *ceteris paribus* 条款。但随之必须问：原初 *definiens* 需要容纳多少种不同的例外？如果后代数较多却不构成较高适合度的情形无限多，那么这个“定义”就不会令人满意。
+    step2: |-
+      另有一种情形：在某些实际生物情境中——例如平均适合度偏低时——较高的方差有时反而受选择青睐（Ekbohm, Fagerstrom, and Agren 1979）。Beatty 与 Finsen（1987）进一步指出，我们的“定义”还须与后代数、方差并列，容纳“偏度”。当分布某一“尾部”观察值偏多、中位数因而偏离常态时，偏度便“出现”了。适合度的“定义”若不把这些条件计算在内，便有失真之虞。简便可行的补救，是给定义添一条 *ceteris paribus* 条款。但接着便要问：原初 *definiens* 究竟要容纳多少种例外？倘若“后代数较多却未带来较高适合度”的情形无穷无尽，这个“定义”便不能令人满意。
   - id: 30
     kind: body
     source: |-
       Some proponents of the propensity definition recognize this difficulty and are prepared to accept that at most a “schematic” definition can be provided. Thus Brandon writes (1990, 20):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      倾向定义的一些支持者承认这一困难，并准备接受：至多只能提供一个“示意图式”的定义。因此 Brandon 写道（1990, 20）：
+    step2: |-
+      倾向定义的一些拥护者也承认此难，并愿意接受：充其量只能给出一个“图式性”定义。Brandon 即写道（1990, 20）：
   - id: 31
     kind: body
     source: |-
       > We can … define the adaptedness [a synonym for expected fitness] of an organism *O* in an environment *E* as follows:
 
       $$ A^*(O,E) = \sum P(Q_i^{OE})Q_i^{OE} - f(E,\sigma^2). $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我们可以……把有机体 *O* 在环境 *E* 中的适应度［expected fitness 的同义词］定义如下：
+
+      $$ A^*(O,E) = \sum P(Q_i^{OE})Q_i^{OE} - f(E,\sigma^2). $$
+    step2: |-
+      > 我们可以……把有机体 *O* 在环境 *E* 中的适应度（adaptedness，期望适合度的同义词）定义如下：
+
+      $$ A^*(O,E) = \sum P(Q_i^{OE})Q_i^{OE} - f(E,\sigma^2). $$
   - id: 32
     kind: body
     source: |-
       Here $Q_i^{OE}$ are a range of possible offspring numbers in generation $i$, $P(Q_i^{OE})$ is the probabilistic propensity to leave $Q_i^{OE}$ in generation $i$, and most important $f(E, \sigma^2)$ is “some function of the variance in offspring numbers for a given type, $\sigma^2$, and of the pattern of variation” (1990, 20). Brandon means “some function or other, we know not what in advance of examining the case.” Moreover, we will have to add to variance other factors that determine the function, such as Beatty and Finsen’s skew, or the conditions which Ekbohm, Fagerstrom, and Agren identify as making higher variance adaptive, etc. Thus, the final term in Brandon’s definition will have to be expanded to $f(E,\sigma^2,\ldots)$, where the ellipsis indicate the additional statistical factors which sometimes combine with or cancel the variance to determine fitness levels.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里 $Q_i^{OE}$ 是第 $i$ 代中一系列可能的后代数，$P(Q_i^{OE})$ 是在第 $i$ 代留下 $Q_i^{OE}$ 的概率倾向，而最重要的是，$f(E, \sigma^2)$ 是“给定类型的后代数方差 $\sigma^2$ 与变异模式的某个函数”（1990, 20）。Brandon 的意思是“某个函数或别的什么，在考察具体情形之前我们并不知道是哪一个”。此外，我们还必须给方差加上其他决定该函数的因素，例如 Beatty 与 Finsen 的偏度，或 Ekbohm、Fagerstrom 与 Agren 所指认的使较高方差具有适应性的条件，等等。因此，Brandon 定义中的最后一项将不得不扩展为 $f(E,\sigma^2,\ldots)$，其中省略号表示那些有时与方差结合、有时抵消方差以决定适合度水平的额外统计因素。
+    step2: |-
+      式中 $Q_i^{OE}$ 为第 $i$ 代中可能的后代数范围，$P(Q_i^{OE})$ 为在第 $i$ 代留下 $Q_i^{OE}$ 的概率倾向；最要紧的是，$f(E, \sigma^2)$ 是“给定类型的后代数方差 $\sigma^2$ 与变异模式的某个函数”（1990, 20）。所谓“某个函数”，Brandon 意指“某个函数或其他什么，在考察具体情形之前我们无从知道”。不仅如此，我们还须在方差之外加上其他决定该函数的因素，如 Beatty 与 Finsen 的偏度，或 Ekbohm、Fagerstrom 与 Agren 所确认的使较高方差具有适应性的条件，等等。于是，Brandon 定义中的末项必须扩展为 $f(E,\sigma^2,\ldots)$；省略号表示那些有时与方差结合、有时与方差相抵、共同决定适合度水平的额外统计因素。
   - id: 33
     kind: body
     source: |-
       But how many such factors are there, and when do they play a non-zero role in fitness? The answer is that the number of such factors is probably indefinitely large. The reason for this is given by the facts about natural selection as Darwin and his successors uncovered them. The fact about selection which fates our “definition” either to being forever schematic or incomplete is the “arms-race” strategic character of evolutionary interaction. Since every strategy for enhancing reproductive fitness (including how many offspring to have in a given environment) calls forth a counter-strategy among competing organisms (which may undercut the initial reproductive strategy), the number of conditions covered by our *ceteris paribus* clause, or equivalently the number of places in the function $f(E,\sigma^2,\ldots)$ is equal to the number of strategies and counter-strategies of reproduction available in an environment. Brandon writes, “in the above definition of $A^*(O,E)$, the function $f(E,\sigma^2)$ is a dummy function in the sense that the form can be specified only after the details of the selection scenario have been specified” (20). But, besides the fact Brandon admits, that the function $f$ will differ for different $O$ and $E$, $f$ will have to be expanded to accommodate an indefinite number of further statistical terms beyond variance. Schematically, it will take the form $f(E,\sigma^2,\ldots)$. Again, adapting Brandon’s notation, none of the members of the set which express his multiply generic “definition” of “adaptedness” or “expected fitness”, $\{\Sigma P(Q_i^{OE})Q_i^{OE} - f_1(E,\sigma^2, \ldots)$, $\Sigma P(Q_i^{OE})Q_i^{OE} - f_2(E,\sigma^2, \ldots)$, $\Sigma P(Q_i^{OE})Q_i^{OE} - f_3(E,\sigma^2, \ldots)$, $\ldots\}$, is in fact a definition of either term. It is the set of operational measurements of the property of comparative fitness.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但这样的因素有多少？它们何时在适合度中扮演非零角色？答案是：这类因素的数目大概是无穷的。理由由达尔文及其后继者所揭示的自然选择事实给出。使我们的“定义”注定永远只是示意图式或不完整的那个选择事实，是进化互动的“军备竞赛”式战略特征。既然每一种提高繁殖适合度的策略（包括在给定环境中产生多少后代）都会在竞争有机体中招致一种反策略（它可能削弱最初的繁殖策略），那么我们的 *ceteris paribus* 条款所覆盖的条件数目，等价地，函数 $f(E,\sigma^2,\ldots)$ 中的位置数目，就等于一个环境中可得的繁殖策略与反策略的数目。Brandon 写道：“在上述 $A^*(O,E)$ 的定义中，函数 $f(E,\sigma^2)$ 是一个占位函数，意思是只有先规定选择情境的细节，才能指明其形式”（20）。但是，除了 Brandon 所承认的这一点——函数 $f$ 因 $O$ 与 $E$ 不同而不同——之外，$f$ 还必须扩展，以容纳方差之外无穷多的进一步统计项。示意图式地，它将采取 $f(E,\sigma^2,\ldots)$ 的形式。再次借用 Brandon 的记法：表达其多重通用“适应度”或“期望适合度”“定义”的那个集合 $\{\Sigma P(Q_i^{OE})Q_i^{OE} - f_1(E,\sigma^2, \ldots)$, $\Sigma P(Q_i^{OE})Q_i^{OE} - f_2(E,\sigma^2, \ldots)$, $\Sigma P(Q_i^{OE})Q_i^{OE} - f_3(E,\sigma^2, \ldots)$, $\ldots\}$ 中，没有一个成员实际上是对这两个词项中任何一个的定义。它是比较适合度这一属性的操作性量度之集合。
+    step2: |-
+      可是，这类因素究竟有多少？它们何时在适合度中起非零作用？答案恐怕是：其数无穷。达尔文及其后继者所揭示的自然选择事实，正好给出理由。进化互动具有“军备竞赛”式的战略性格，正是这一选择事实使我们的“定义”注定要么永远停留于图式，要么残缺不全。凡提高繁殖适合度的策略（包括在既定环境中产生多少后代），都会在竞争有机体那里引出反策略，而反策略可能瓦解最初的繁殖策略；因此，*ceteris paribus* 条款所覆盖的条件数目——等价地说，函数 $f(E,\sigma^2,\ldots)$ 中可填的位置数目——等于一个环境中可用的繁殖策略与反策略的数目。Brandon 写道：“在上述 $A^*(O,E)$ 的定义中，函数 $f(E,\sigma^2)$ 是个占位函数，唯有先规定选择情境的细节，才能指明其形式”（20）。然而，除了 Brandon 承认的这一点——$f$ 因 $O$ 与 $E$ 而异——之外，$f$ 还须扩展，以容纳方差之外无穷多的统计项。以图式示之，其形式为 $f(E,\sigma^2,\ldots)$。仍借 Brandon 的记法：用以表达其多重通用“适应度”或“期望适合度”“定义”的集合 $\{\Sigma P(Q_i^{OE})Q_i^{OE} - f_1(E,\sigma^2, \ldots)$, $\Sigma P(Q_i^{OE})Q_i^{OE} - f_2(E,\sigma^2, \ldots)$, $\Sigma P(Q_i^{OE})Q_i^{OE} - f_3(E,\sigma^2, \ldots)$, $\ldots\}$，其中没有一个成员实际上定义了上述任何一个词项；它只是一组关于比较适合度这一属性的操作性量度。
   - id: 34
     kind: body
     source: |-
       Philosophers dissatisfied with this conclusion have continued to search for a propensity definition of fitness that is counterexample-free and not schematic or generic in Brandon’s sense. A promising candidate is due to Pence and Ramsey (2013). A brief account is given here.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不满意这一结论的哲学家继续寻找一种无反例、且不是 Brandon 意义上的示意图式或通用式的适合度倾向定义。一个有希望的候选由 Pence 与 Ramsey（2013）提出。这里作简要说明。
+    step2: |-
+      对这一结论不满的哲学家，仍在寻找一种没有反例、且不像 Brandon 所说那样只是图式或通用的适合度倾向定义。Pence 与 Ramsey（2013）提出了一个颇有希望的候选。下面略述其要。
   - id: 35
     kind: body
     source: |-
       Consider all the possible daughter lineages or lines of descent from some individual, $o$. Call each of the possible lineages $\omega$ and the set of them $\Omega$. For each lineage $\omega_i$ the probability that $o$’s actual daughter population is $\omega_i$ will be $Pr(\omega_i)$. $F$, the fitness of $o$, will not be given by weighted sums of possible daughter populations at a specific generation in the future, but rather by this value over the long run, as the number of generations increases without limit. The definition of individual fitness, $F$, is then given by the following equation (Pence and Ramsey 2013, 862; equation (4)):
 
       $$ F = \exp \left( \lim_{t \to \infty} \frac{1}{t} \int_{\omega\in \Omega} Pr(\omega ) \cdot \ln(\phi(\omega ,t)) \mathrm d \omega \right) $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      考虑从某个个体 $o$ 出发的一切可能女儿谱系或传衍线。把每一条可能谱系称为 $\omega$，其集合称为 $\Omega$。对每条谱系 $\omega_i$，$o$ 的实际女儿种群为 $\omega_i$ 的概率将是 $Pr(\omega_i)$。$o$ 的适合度 $F$，不由未来某一特定世代可能女儿种群的加权和给出，而由该值在长期中的表现给出，即世代数无限增加时的极限。个体适合度 $F$ 的定义于是由以下方程给出（Pence and Ramsey 2013, 862; equation (4)）：
+
+      $$ F = \exp \left( \lim_{t \to \infty} \frac{1}{t} \int_{\omega\in \Omega} Pr(\omega ) \cdot \ln(\phi(\omega ,t)) \mathrm d \omega \right) $$
+    step2: |-
+      设想从某个体 $o$ 出发的一切可能的女儿谱系或传衍线。把每条可能谱系记作 $\omega$，其全体记作 $\Omega$。对每条谱系 $\omega_i$，$o$ 的实际女儿种群为 $\omega_i$ 的概率为 $Pr(\omega_i)$。$o$ 的适合度 $F$ 并不由未来某一特定世代可能女儿种群的加权和给出，而由该值在长期中的表现给出——随着世代数无限增加而取极限。个体适合度 $F$ 的定义遂由下式给出（Pence and Ramsey 2013, 862; equation (4)）：
+
+      $$ F = \exp \left( \lim_{t \to \infty} \frac{1}{t} \int_{\omega\in \Omega} Pr(\omega ) \cdot \ln(\phi(\omega ,t)) \mathrm d \omega \right) $$
   - id: 36
     kind: body
     source: |-
       (where $\phi(\omega ,t)$ is a function that gives the size of a daughter population at some future time $t$). Of course if every possible daughter lineage becomes extinct eventually then in the limit $F = 0$, and if some populations fluctuate wildly, $F$ may not converge to a stable value in the limit either. But there are conditions under which the limit as the number of generations goes to infinity is guaranteed to exist and under which $F$ is well-defined (see Pence and Ramsey 2013, 862)[^pence-2013].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （其中 $\phi(\omega ,t)$ 是给出未来某时 $t$ 一个女儿种群大小的函数。）当然，如果每一条可能的女儿谱系最终都灭绝，那么在极限中 $F = 0$；如果某些种群剧烈波动，$F$ 在极限中也可能不收敛于稳定值。但在某些条件下，世代数趋于无穷时的极限保证存在，且 $F$ 有良好定义（见 Pence and Ramsey 2013, 862）[^pence-2013]。
+    step2: |-
+      （式中 $\phi(\omega ,t)$ 是一个函数，给出未来某时 $t$ 某一女儿种群的大小。）当然，若一切可能的女儿谱系终归灭绝，则极限中 $F = 0$；若某些种群剧烈起伏，$F$ 在极限中也可能不收敛于稳定值。但在一定条件下，世代数趋于无穷时的极限保证存在，$F$ 亦有良好定义（见 Pence and Ramsey 2013, 862）[^pence-2013]。
   - id: 37
     kind: body
     source: |-
