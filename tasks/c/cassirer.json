@@ -2,7 +2,7 @@
   "slug": "cassirer",
   "kind": "retranslate",
   "zh_doc": "c/cassirer.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "R-main-20261112",
       "at": "2026-11-11T18:51:14Z",
       "evidence": "r2 复审（R-main-20261112，异于初译主代理；异会话独立性满足）：逐句回核原文与逻辑——r1 所修 16 处回读语境连贯（句界拆分均落在从句/分号缝，论证连接词正像/不仅而且/与其不如说等完整保留）；全篇逻辑联结复扫未见断裂，德文括注（Erkenntniskritiker/Erkenntniskritik/Ausdrucksfunktion/Darstellungsfunktion/Bedeutungsfunktion/Dingwahrnehmen/Ausdruckswahrnehmen/Lebensphilosophie/Naturphilosophie/Naturwissenschaften/Geisteswissenschaften）与源一一对应。术语人名回核：check_terms 硬错误 0（冲突 0+自洽 0）；正文对齐登记册 3 名——柯亨→科恩 7 处（ren-ming-biao 行 744 Hermann Cohen，scholem 2026-11-08 定名）、西美尔→齐美尔 4 处（行 1345 Georg Simmel，landmann-kalischer 2026-11-04 定名）、纳托尔普→那托普 1 处（行 2702 Paul Natorp，SUMMARY 定名锚定 n/natorp.md）。首现人名补登记 8 行（先登后用补课，来源 cassirer，凭证 2026-11-12 r2）：Cassirer, Bruno 布鲁诺·卡西尔（与 Ernst 异人分立）、Burtt, E. A.（E. A. 伯特）、Dijksterhuis, E. J.（E. J. 戴克斯特霍伊斯）、Hägerström, Axel（阿克塞尔·哈格斯特伦）、Gay, Peter（彼得·盖伊）、Panofsky, Erwin（欧文·潘诺夫斯基）、Pap, Arthur（阿瑟·帕普，与 Pap, Endre 异人分立）、Warburg, Aby（阿比·瓦尔堡）；registry_azsort 干跑守恒通过（数据行 4048、周界 0）。核心术语频次回核（正文）：符号形式 20／现象学 17／马堡 14／文化科学 13／新康德主义 8／发生论 9／科恩 7／抽象论 6／先天·先验各 5／齐美尔 4／范导 4／表象 4／表达功能 3／达沃斯 3／潜无限 3／非社会的社会性 3，与源文概念一一对应无漂移。观察项（不属本条处置）：人名表 Hilbert 双行（行 876 David Hilbert／行 1642 Hilbert, David，同人异键，源 scholz 与 geometry-19th）、Reid 警告系书目 Reidel 子串误报（两文件逐字一致）。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "R-main-20261112",
+      "at": "2026-11-11T19:32:06Z",
+      "evidence": "r3 终审（R-main-20261112，终读距 r1/r2 修完已隔提交两轮，冷置回读）：221 行全文终读未见 Critical/Major 残留；结构对账——段 38:38（源 39 含独立 byline 行，按既定 byline 豁免口径）、节 6:6、脚注定义 52:52 键集与顺序全等、文内标记键序一致；四检复跑——check_style 0 issue／check_academic --strict OK（在途豁免 1 为既档口径）／check_math 0 式 0 缺失 0 失衡／check_terms 硬错误 0（Reid 告警系书目 Reidel 子串误报，两文件逐字一致）；check_prose 余 79 条均按 r1 分类豁免留痕（直引 7／源文周期句镜像 40／术语性 de-chain 31／constituted-by 被动 1）；check_all 九项全绿（SUMMARY 结构审计/分类目录/单体文件/垃圾入库/图片引用/术语一致性/直角引号/学术规范/管线单元测试）。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "R-main-20261112",
+      "at": "2026-11-11T19:35:24Z",
+      "evidence": "全周期收口（评审线，初译主代理 2026-11-01→r1/r2/r3 R-main-20261112）：221 行/脚注定义 52、段 38 守恒；四检 style 0/academic OK/math 0/terms 硬错 0；check_all 九项全绿；实修累计 20 处（准确性 4 含两 Major、prose 补课 13、名册对齐 3 类），豁免按 ADR-0020 分类留痕 79；s3_checked 存量 47→46。"
     }
   ],
   "blockers": [],

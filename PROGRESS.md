@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-11 15:40（UTC）
+生成时间：2026-11-11 19:35（UTC）
 
 ## 总览
 
@@ -14,19 +14,20 @@
 |已建英文基线|1879|
 |已建任务|1182|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|343|
-|在途（drafted 起、done 前）|191|
+|已完成（done）|348|
+|在途（drafted 起、done 前）|187|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|648|
-|cleared|141|
+|pending|647|
+|cleared|137|
 |drafted|2|
-|s3_checked|48|
-|done|343|
+|s1_checked|1|
+|s3_checked|47|
+|done|348|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -34,18 +35,18 @@
 |---|---|---|---|---|
 |A|160|160|160|56|
 |B|62|62|62|16|
-|C|172|172|172|23|
-|D|92|92|92|18|
+|C|172|172|172|24|
+|D|92|92|92|20|
 |E|99|99|99|25|
 |F|96|96|96|5|
 |G|49|49|49|13|
 |H|61|61|61|16|
-|I|75|75|75|29|
+|I|75|75|75|30|
 |J|38|38|38|9|
 |K|36|36|36|21|
 |L|144|144|30|30|
 |M|139|139|14|7|
-|N|50|50|10|9|
+|N|50|50|10|10|
 |O|21|21|13|12|
 |P|165|165|12|8|
 |Q|34|34|34|4|
@@ -63,7 +64,7 @@
 
 |slug|类型|状态|最后执行|
 |---|---|---|---|
-|aesthetic-testimony|retranslate|cleared|task_ops 2026-10-31|
+|aesthetic-testimony|retranslate|s3_checked|A-main-20261112 2026-11-11|
 |aesthetics-18th-german|retranslate|cleared|task_ops 2026-11-10|
 |aesthetics-19th-romantic|retranslate|cleared|task_ops 2026-10-31|
 |aesthetics-cogsci|retranslate|cleared|task_ops 2026-10-31|
@@ -127,7 +128,6 @@
 |butler-moral|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |byzantine-philosophy|retranslate|cleared|task_ops 2026-11-01|
 |cancer|retranslate|s3_checked|C-main-20261109b 2026-11-09|
-|cassirer|retranslate|s3_checked|主代理 2026-11-01|
 |change|retranslate|s3_checked|主代理 2026-11-01|
 |chinese-phil-science|retranslate|s3_checked|C-main-20261107 2026-11-07|
 |cloning|retranslate|s3_checked|CD-main-20261106 2026-11-06|
@@ -141,12 +141,11 @@
 |davidson|retranslate|s3_checked|D-main-20261110 2026-11-09|
 |deductivism-mathematics|retranslate|s3_checked|D-main-20261107 2026-11-07|
 |demonstration-medieval|retranslate|s3_checked|sub-demonstration-medieval 2026-11-01|
-|descartes-ethics|retranslate|s3_checked|? 2026-11-04|
-|descartes-ideas|retranslate|s3_checked|? 2026-11-04|
 |dewey-political|retranslate|s3_checked|? 2026-11-05|
 |diodorus-cronus|retranslate|s3_checked|D-main-20261107 2026-11-07|
 |disability|retranslate|s3_checked|D-main-20261109 2026-11-09|
 |disability-care-rationing|retranslate|s3_checked|D-main-20261108 2026-11-08|
+|epiphenomenalism|retranslate|s3_checked|E-main-20261112 2026-11-11|
 |fitness|retranslate|cleared|task_ops 2026-11-11|
 |gadamer-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |galen|retranslate|cleared|task_ops 2026-11-01|
@@ -161,7 +160,7 @@
 |global-democracy|retranslate|cleared|task_ops 2026-11-01|
 |goedel|retranslate|cleared|task_ops 2026-11-01|
 |goodman|retranslate|cleared|task_ops 2026-11-01|
-|grotius|retranslate|cleared|task_ops 2026-11-11|
+|grotius|retranslate|s3_checked|G-main-20261112 2026-11-11|
 |haecceitism|retranslate|cleared|task_ops 2026-11-01|
 |halevi|retranslate|cleared|task_ops 2026-11-01|
 |hamann|retranslate|cleared|task_ops 2026-11-01|
@@ -184,7 +183,6 @@
 |hume-moral|retranslate|cleared|task_ops 2026-11-01|
 |humor|retranslate|cleared|task_ops 2026-11-01|
 |imaginative-resistance|retranslate|cleared|task_ops 2026-11-01|
-|immigration|retranslate|cleared|task_ops 2026-11-11|
 |immunology|retranslate|cleared|task_ops 2026-11-01|
 |impossible-worlds|retranslate|cleared|task_ops 2026-11-01|
 |information-biological|retranslate|cleared|task_ops 2026-11-01|
@@ -240,10 +238,9 @@
 |montessori-maria|retranslate|s3_checked|M-main-20261111 2026-11-10|
 |moral-learning|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |music|retranslate|s3_checked|M-main-20261109b 2026-11-09|
-|newton-principia|retranslate|s3_checked|N-main-20261111 2026-11-11|
 |omnipotence|retranslate|cleared|task_ops 2026-11-10|
 |quantum-bayesian|retranslate|cleared|task_ops 2026-11-11|
-|repugnant-conclusion|retranslate|cleared|task_ops 2026-11-11|
+|repugnant-conclusion|retranslate|s1_checked|R-main-20261111 2026-11-11|
 |sign-language-semantics|retranslate|cleared|task_ops 2026-11-10|
 |tarski-truth|retranslate|cleared|task_ops 2026-11-08|
 |weyl|retranslate|cleared|task_ops 2026-11-08|
