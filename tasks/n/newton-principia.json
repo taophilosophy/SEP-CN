@@ -1,0 +1,22 @@
+{
+  "slug": "newton-principia",
+  "kind": "retranslate",
+  "zh_doc": "n/newton-principia.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-11T03:29:38Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-11T03:29:37Z",
+  "version_pin": {
+    "pubinfo_date": "Dec 20, 2007",
+    "archive_edition": "Winter 2024",
+    "sha256": "05a4a2b2ef2bbca8eda188bc2bc705767bb7183f6132cfc05adfa316a3ee6f38"
+  }
+}
