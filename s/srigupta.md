@@ -1,1 +1,1 @@
-# 室利笈多 Ś rīgupta (Allison Aitken)
+# 室利笈多 Śrīgupta (Allison Aitken)
