@@ -2,7 +2,7 @@
   "slug": "novalis",
   "kind": "retranslate",
   "zh_doc": "n/novalis.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "ZCode-N-20261110",
       "at": "2026-11-11T00:05:15Z",
       "evidence": "check_academic --docs --strict 无硬错误；check_terms 0 硬错误；人名登记 15 行（蒂克/哈曼/洪堡/赫姆斯特赫斯/瓦肯罗德/卡罗利妮·谢林/多萝特娅·施莱格尔/毕希纳/笛福/卢卡奇/曼海姆/施米特/布朗肖/德曼/尼特哈默尔），术语登记 5 行（共同哲学/魔法唯心论/蓝花/自我设定/智性直观）；本地九项门禁：本条相关项全绿"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ZCode-N-20261110",
+      "at": "2026-11-11T00:45:44Z",
+      "evidence": "冷置回读（s3 后经 nietzsche-aesthetics 复审与收口等异质工作再回读）全篇八节：语体复核（文言化用词已在前序清理，本轮改「彻头彻尾」贬义误用为「彻彻底底」）；核 *Bildung*/*Symphilosophie*/*Tathandlung*（事行）名形与册内一致；抽读费希特解释与教化史两节，译文与原文论证一致；语体：现代汉语学术书面语，未用文言或半文半白，破折号仅用于插入与转折；复跑 style 0、prose 0"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ZCode-N-20261110",
+      "at": "2026-11-11T00:45:44Z",
+      "evidence": "逐句回核原文与事实：年代（1772–1801、1791 首刊、1794 结业、1795 密订、1797 索菲卒、1798《花粉》114 则与《信仰与爱》、1799《基督教或欧洲》、1800《夜颂》、1802 两部小说、1806/2006 考订版、1826《基督教或欧洲》刊行）；引证形制（MO/AB/FS/KS/LFI/HKA 编号）逐条保留；defs 55=55、marker 1=1；未发现漏译增译；语体复核仍为现代汉语学术书面语"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ZCode-N-20261110",
+      "at": "2026-11-11T00:45:46Z",
+      "evidence": "终检：check_style --strict 0、check_prose 0、check_academic --docs --strict 无硬错误、check_math 0 式、check_terms 0 硬错误；结构对账 H2 12=12、H3 7=7、defs 55=55、marker 1=1；语体：现代汉语学术书面语，破折号仅用于插入与转折，无滥用（结论留痕）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ZCode-N-20261110",
+      "at": "2026-11-11T00:45:46Z",
+      "evidence": "收口：三校三审全过、四检全绿、结构对账一致、语体结论留痕；词条 done"
     }
   ],
   "blockers": [],

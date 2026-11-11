@@ -2,7 +2,7 @@
   "slug": "nietzsche-aesthetics",
   "kind": "retranslate",
   "zh_doc": "n/nietzsche-aesthetics.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "ZCode-N-20261110",
       "at": "2026-11-10T19:32:33Z",
       "evidence": "check_academic --docs --strict 无硬错误；check_terms 定点核销 0 硬错误 0 冲突；人名登记 6 行（尼采/瓦格纳/埃斯库罗斯/拉斐尔/比才/西勒诺斯），术语登记 9 行（悲剧/悲剧快感/存在的审美辩护/阿波罗式/狄奥尼索斯式/总体艺术作品/外观/颓废/权力意志）；本地九项门禁：术语一致性、直角引号、管线单测通过，学术规范两项失败系他会话在途任务（heraclitus 语体留痕、dai-zhen/han-dynasty 文献行），与本条无涉"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ZCode-N-20261110",
+      "at": "2026-11-11T00:35:35Z",
+      "evidence": "冷置回读（s3 后经 novalis 全周期异质工作再回读）全篇八节：按 rules/02 语体条款修订文言化用词 12 处（少所论列/对治/显豁/聚讼纷纭/揄扬/承借/枢机/识得/张目/出人意表/别创/军国民族主义），未改动论证内容；核关键引文（BT 18、BT 16、BT 5、BT 24 三处引块）与中译对应无误；语体：现代汉语学术书面语，未用文言或半文半白，破折号仅用于插入与转折；复跑 style 0、prose 7（全为直引文内部「的」链，ADR-0020 豁免留痕）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ZCode-N-20261110",
+      "at": "2026-11-11T00:35:35Z",
+      "evidence": "逐句回核原文与事实：年代（1872 初版、1886 BGE、1887 GM、1888 CW/TI/NCW、1888 两部批瓦格纳之作）；尼采著作缩写与卷页（KSA 1:24–152、KSA 5:272/304/346、SW/WWR 页码、NA 20:398–436、KGA II.3）；现代学者引证（Ridley/Young/Gemes & Sykes/Zangwill/Reginster/Janaway/Soll/Came/Huddleston/Nussbaum/Kaufmann 等）原样保留；defs 95=95、marker 104=104 与源一致；未发现漏译增译；语体复核仍为现代汉语学术书面语"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ZCode-N-20261110",
+      "at": "2026-11-11T00:35:37Z",
+      "evidence": "终检：check_style --strict 0、check_prose 7（引文豁免）、check_academic --docs --strict 无硬错误、check_math 0 式、check_terms 0 硬错误；结构对账 H2 10=10、H3 10=10、defs 95=95、marker 104=104；语体：现代汉语学术书面语，破折号仅用于插入与转折，无滥用（结论留痕）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ZCode-N-20261110",
+      "at": "2026-11-11T00:35:37Z",
+      "evidence": "收口：三校三审全过，四检全绿（prose 余 7 处为直引文豁免），结构对账一致，语体结论留痕；词条 done"
     }
   ],
   "blockers": [],
