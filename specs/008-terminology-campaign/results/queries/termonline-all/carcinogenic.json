@@ -1,0 +1,201 @@
+{
+ "key": "carcinogenic",
+ "term": "carcinogenic",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T01:14:23+00:00",
+ "status": "ok",
+ "note": "variant=carcinogenic; 审定公布名词库=62; 海峡两岸名词对照库=17; 其他来源数据库=0; 预公布名词数据库=3; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "致癌物",
+   "en": "carcinogen",
+   "code": "11.078",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医毒理学"
+  },
+  {
+   "cn": "致癌物",
+   "en": "carcinogen",
+   "code": "03.052",
+   "standard": "化工名词（四）安全·环保·可持续发展",
+   "subject": "化工（四）_危险化学品与相关管理法规"
+  },
+  {
+   "cn": "致癌物",
+   "en": "carcinogen",
+   "code": "07.269",
+   "standard": "药学名词",
+   "subject": "药学_药理学"
+  },
+  {
+   "cn": "致癌物",
+   "en": "carcinogen",
+   "code": "07.141",
+   "standard": "放射医学与防护名词",
+   "subject": "放射医学与防护_放射生物学_放射细胞生物学"
+  },
+  {
+   "cn": "致癌剂",
+   "en": "carcinogen",
+   "code": "06.327",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞分化与发育"
+  },
+  {
+   "cn": "致癌原",
+   "en": "carcinogen",
+   "code": "3.223",
+   "standard": "免疫学名词",
+   "subject": "免疫学_免疫病理、临床免疫_肿瘤免疫"
+  },
+  {
+   "cn": "致癌剂",
+   "en": "carcinogen",
+   "code": "03.188",
+   "standard": "遗传学名词",
+   "subject": "遗传学_分子遗传学"
+  },
+  {
+   "cn": "致癌原",
+   "en": "carcinogen",
+   "code": "01.667",
+   "standard": "医学名词 第三分册",
+   "subject": "医学_医学遗传学"
+  },
+  {
+   "cn": "致癌性",
+   "en": "carcinogenicity",
+   "code": "03.0207",
+   "standard": "精细化工名词",
+   "subject": "精细化工_农药_毒性与毒理"
+  },
+  {
+   "cn": "致癌性",
+   "en": "carcinogenicity",
+   "code": "03.042",
+   "standard": "化工名词（四）安全·环保·可持续发展",
+   "subject": "化工（四）_危险化学品与相关管理法规"
+  },
+  {
+   "cn": "致癌性",
+   "en": "carcinogenicity",
+   "code": "08.0127",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_生物材料_总论"
+  },
+  {
+   "cn": "致癌",
+   "en": "carcinogenicity",
+   "code": "11.129",
+   "standard": "水产名词",
+   "subject": "水产_渔业环境保护"
+  },
+  {
+   "cn": "致癌原",
+   "en": "carcinogen",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "致癌剂",
+   "en": "carcinogen",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "致癌剂",
+   "en": "carcinogen",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "致癌物",
+   "en": "carcinogen",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "致癌性",
+   "en": "carcinogenicity",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "致癌毒性",
+   "en": "carcinogenic toxicity",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "次级致癌物",
+   "en": "secondary carcinogens",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "化学致癌物",
+   "en": "chemical carcinogens",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "外遗传致癌物",
+   "en": "epigenetic carcinogens",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "遗传毒性致癌物",
+   "en": "genotoxic carcinogens",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "终致癌物",
+   "en": "ultimate carcinogens",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "潜在致癌物",
+   "en": "potential carcinogen",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "直接致癌物",
+   "en": "direct carcinogen",
+   "code": "16.1.5.1.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事毒理学_军事毒理学基础"
+  },
+  {
+   "cn": "间接致癌物",
+   "en": "indirect carcinogen",
+   "code": "16.1.5.1.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事毒理学_军事毒理学基础"
+  },
+  {
+   "cn": "致癌试验",
+   "en": "carcinogenicity test",
+   "code": "6.3.1.14",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_安全性检验"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

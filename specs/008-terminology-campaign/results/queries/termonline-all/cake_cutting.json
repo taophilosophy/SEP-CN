@@ -2,10 +2,347 @@
  "key": "cake cutting",
  "term": "cake cutting",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T14:30:26+00:00",
- "status": "error",
- "note": "variant=cake cutting; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "cake cutting: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T01:11:23+00:00",
+ "status": "ok",
+ "note": "variant=cake cutting; 审定公布名词库=3114; 海峡两岸名词对照库=650; 其他来源数据库=201; 预公布名词数据库=265; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "粉块",
+   "en": "cake",
+   "code": "07.023",
+   "standard": "机械工程名词 第二分册",
+   "subject": "机械工程（二）_机械制造工艺与设备_粉末冶金_粉末制取"
+  },
+  {
+   "cn": "蛋糕",
+   "en": "cake",
+   "code": "03.0417",
+   "standard": "食品科学技术名词",
+   "subject": "食品科学技术_食品工程_食品专用技术与装备_焙烤"
+  },
+  {
+   "cn": "糕剂",
+   "en": "cake",
+   "code": "07.049",
+   "standard": "中医药学名词",
+   "subject": "中医药学_方剂学_剂型、煎服法"
+  },
+  {
+   "cn": "结块",
+   "en": "caking",
+   "code": "02.0174",
+   "standard": "化工名词（九）无机化工与肥料",
+   "subject": "化工（九）_肥料"
+  },
+  {
+   "cn": "结块",
+   "en": "caking",
+   "code": "03.0557",
+   "standard": "化工名词(三)化学工程基础",
+   "subject": "化工（三）_传递过程与单元操作"
+  },
+  {
+   "cn": "结胶",
+   "en": "caking",
+   "code": "04.0806",
+   "standard": "铁道科学技术名词",
+   "subject": "铁道科学技术_铁道牵引动力"
+  },
+  {
+   "cn": "结块",
+   "en": "caking",
+   "code": "03.349",
+   "standard": "化学工程名词",
+   "subject": "化学工程_传递过程与单元操作_传热过程_蒸发与结晶"
+  },
+  {
+   "cn": "棉籽饼",
+   "en": "cottonseed cake",
+   "code": "04.020",
+   "standard": "农学名词",
+   "subject": "经济作物_纤维作物"
+  },
+  {
+   "cn": "饼肥",
+   "en": "oil cake",
+   "code": "02.0163",
+   "standard": "化工名词（九）无机化工与肥料",
+   "subject": "化工（九）_肥料"
+  },
+  {
+   "cn": "草饼",
+   "en": "pasture cake ",
+   "code": "6.0334",
+   "standard": "草学名词",
+   "subject": "草学_饲草生产与加工_饲草加工与利用"
+  },
+  {
+   "cn": "泥饼",
+   "en": "mud cake",
+   "code": "06.0189",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地热学_火山学"
+  },
+  {
+   "cn": "滤饼",
+   "en": "filter cake",
+   "code": "3.1082",
+   "standard": "化工名词（八）化工装备",
+   "subject": "化工（八）_化工设备_分离设备"
+  },
+  {
+   "cn": "结块",
+   "en": "caking",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "饼[状]冰",
+   "en": "ice cake",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "［纺丝］丝饼",
+   "en": "spinning cake",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "硝饼",
+   "en": "niter cake",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "黄饼",
+   "en": "yellow cake",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "滤饼",
+   "en": "filter cake",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "油饼",
+   "en": "oil cake",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "黄饼",
+   "en": "yellow cake",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "冰块",
+   "en": "ice cake",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "滤饼",
+   "en": "filter cake",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "结块性",
+   "en": "caking property",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "结块能力",
+   "en": "caking power",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "移位",
+   "en": "cutting",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_手球名词"
+  },
+  {
+   "cn": "路堑",
+   "en": "Cut",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "削球",
+   "en": "cut",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "劈击武器",
+   "en": "cutting weapon",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "跳接",
+   "en": "jump cut",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "横转向切入",
+   "en": "cut around",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_手球名词"
+  },
+  {
+   "cn": "切球",
+   "en": "cut stroke",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "突破",
+   "en": "break\",\"cut",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_篮球名词"
+  },
+  {
+   "cn": "劈刺",
+   "en": "cut\",\"hit with the cutting edge",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "劈杀",
+   "en": "cut smash\",\"split",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "截击",
+   "en": "cut off\",\"intercept",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "削球",
+   "en": "chop\",\"cut\",\"slice",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "蛋榚",
+   "en": "cake",
+   "code": "5.15.3",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_焙烤类食品"
+  },
+  {
+   "cn": "黄饼",
+   "en": "yellow cake",
+   "code": "6.6.1.11",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_核工业的放射防护_铀矿冶"
+  },
+  {
+   "cn": "月饼",
+   "en": "moon cake",
+   "code": "5.15.6",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_焙烤类食品"
+  },
+  {
+   "cn": "剪纸",
+   "en": "paper cuts",
+   "code": "4.0375",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "鲜切水果",
+   "en": "fresh-cut fruit",
+   "code": "5.4.1",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_水果"
+  },
+  {
+   "cn": "肘管综合征",
+   "en": "cubital tunnel syndrome，CUTS",
+   "code": "2.18.8.19",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征"
+  },
+  {
+   "cn": "即食鲜切果蔬",
+   "en": "ready-to-eat,fresh, pre-cut fruits and vegetable",
+   "code": "5.3.4",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_蔬菜"
+  },
+  {
+   "cn": "病例",
+   "en": "case",
+   "code": "3.6.19.1",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物中毒卫生学处置"
+  },
+  {
+   "cn": "狩猎",
+   "en": "hunting",
+   "code": "4.2.6.15",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_社会组织"
+  },
+  {
+   "cn": "可能病例",
+   "en": "possible case",
+   "code": "3.6.19.5",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物中毒卫生学处置"
+  },
+  {
+   "cn": "守灵",
+   "en": "funeral wake",
+   "code": "4.026",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "个案研究",
+   "en": "case study",
+   "code": "1.2.1.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_方法论"
+  }
+ ],
+ "error": null,
  "raw": null
 }

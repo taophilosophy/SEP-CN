@@ -1,0 +1,327 @@
+{
+ "key": "categorical sentence",
+ "term": "categorical sentence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T01:17:24+00:00",
+ "status": "ok",
+ "note": "variant=categorical sentence; 审定公布名词库=613; 海峡两岸名词对照库=349; 其他来源数据库=11; 预公布名词数据库=10; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "范畴化",
+   "en": "categorization",
+   "code": "04.022",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_总论"
+  },
+  {
+   "cn": "范畴性",
+   "en": "categoricity",
+   "code": "02.0110",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "分类性状",
+   "en": "categorical trait",
+   "code": "04.330",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_遗传育种_数量遗传学"
+  },
+  {
+   "cn": "范畴语义",
+   "en": "categorical semantics",
+   "code": "02.0879",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_程序理论"
+  },
+  {
+   "cn": "直言命题",
+   "en": "categorical proposition",
+   "code": "08.0119",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_自动推理"
+  },
+  {
+   "cn": "分类方案",
+   "en": "categorical plan",
+   "code": "05.0328",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_生产运作管理与工业工程_生产运作管理"
+  },
+  {
+   "cn": "分类知觉",
+   "en": "categorical perception",
+   "code": "02.367",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "分类变量",
+   "en": "categorical variable",
+   "code": "06.095",
+   "standard": "全科医学与社区卫生名词",
+   "subject": "全科医学与社区卫生_社区公共卫生"
+  },
+  {
+   "cn": "绝对规则",
+   "en": "categorical rule",
+   "code": "12.070",
+   "standard": "语言学名词",
+   "subject": "语言学_社会语言学_语言变异"
+  },
+  {
+   "cn": "范畴义",
+   "en": "categorical meaning",
+   "code": "05.143",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_词义"
+  },
+  {
+   "cn": "范畴逻辑",
+   "en": "categorical logic",
+   "code": "02.0318",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_非经典逻辑"
+  },
+  {
+   "cn": "功能分类",
+   "en": "function categorizing",
+   "code": "09.0726",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_项目管理与工程管理_其他"
+  },
+  {
+   "cn": "分类预报，分级预报",
+   "en": "categorical forecast",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "类别聚类法",
+   "en": "categorical clustering",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "定言三段论,直言三段论",
+   "en": "categorical syllogism",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "类别变量",
+   "en": "categorical variable",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "类别分类",
+   "en": "categorical classification",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "类别推理",
+   "en": "categorical inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "分类知觉",
+   "en": "categorical perception",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "范畴分析",
+   "en": "categorical analysis",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "范畴语法",
+   "en": "categorical grammar",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "类别线索",
+   "en": "categorization cue",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "分类",
+   "en": "classification\",\"categorization",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "语音类别知觉",
+   "en": "categorical speech perception",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "类案识别",
+   "en": "case categorization and identification",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "量刑辅助",
+   "en": "sentencing assistance",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "量刑预测",
+   "en": "sentencing predication",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "大数据量刑",
+   "en": "big data-assisted sentencing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "共有序列",
+   "en": "Sequence motif",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "主序星",
+   "en": "main sequence",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "序列同源性",
+   "en": "Sequence homology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "识别序列",
+   "en": "recognition sequence",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "基因序列",
+   "en": "genetic sequence",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "医学词汇_医疗科研"
+  },
+  {
+   "cn": "主序前星",
+   "en": "Zero age main sequence",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "分享病毒基因序列",
+   "en": "to share the genetic sequence of the virus",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "合作抗疫_国际合作"
+  },
+  {
+   "cn": "社会类别化",
+   "en": "social categorization",
+   "code": "4.1.20.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_社会心态"
+  },
+  {
+   "cn": "自我类别化",
+   "en": "self-categorization",
+   "code": "4.1.20.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_社会心态"
+  },
+  {
+   "cn": "定类数据分析",
+   "en": "categorical data analysis",
+   "code": "1.2.5.108",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "放射源分类",
+   "en": "categorization of radioactive sources",
+   "code": "7.1.5.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源"
+  },
+  {
+   "cn": "射线装置分类",
+   "en": "categorization of radiation-emitting devices",
+   "code": "7.1.5.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源"
+  },
+  {
+   "cn": "电报句阶段",
+   "en": "telegraph sentence stage",
+   "code": "2.5.7.4",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_心理行为发育"
+  },
+  {
+   "cn": "完整句阶段",
+   "en": "complete sentence stage",
+   "code": "2.5.7.5",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_心理行为发育"
+  },
+  {
+   "cn": "出生缺陷序列征",
+   "en": "birth defect sequence",
+   "code": "2.9.1.3.1.9",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价"
+  },
+  {
+   "cn": "氨基酸同源序列",
+   "en": "homologous animo acid sequence",
+   "code": "3.4.30",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物过敏"
+  },
+  {
+   "cn": "生长发育序贯设计",
+   "en": "sequence design of growth and development",
+   "code": "2.7.1.1.2.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_生长发育调查与评价"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

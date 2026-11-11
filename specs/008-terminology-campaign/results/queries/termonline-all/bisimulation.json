@@ -1,0 +1,348 @@
+{
+ "key": "bisimulation",
+ "term": "bisimulation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T01:03:53+00:00",
+ "status": "ok",
+ "note": "variant=bisimulation; 审定公布名词库=374; 海峡两岸名词对照库=86; 其他来源数据库=12; 预公布名词数据库=14; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "双模拟",
+   "en": "bisimulation",
+   "code": "02.0950",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_程序理论"
+  },
+  {
+   "cn": "生物模拟",
+   "en": "biosimulation",
+   "code": "01.0608",
+   "standard": "化学名词",
+   "subject": "化学_无机化学_生物无机"
+  },
+  {
+   "cn": "生物刺激",
+   "en": "biostimulation",
+   "code": "07.048",
+   "standard": "化工名词（六）生物化工",
+   "subject": "化工（六）_环境生物工程_污染土壤生物修复_污染土壤生物修复"
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "code": "01.020",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_通论"
+  },
+  {
+   "cn": "仿真",
+   "en": "simulation",
+   "code": "04.007",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_技术哲学_一般技术哲学"
+  },
+  {
+   "cn": "拟真",
+   "en": "simulation",
+   "code": "6.115",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播总论_传播研究基础"
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "code": "01.225",
+   "standard": "城乡规划学名词",
+   "subject": "城乡规划学_城乡规划总述_成果表达"
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "code": "01.0045",
+   "standard": "化工名词(三)化学工程基础",
+   "subject": "化工（三）_通类"
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "code": "01.0113",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "code": "11.0120",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机应用_信息系统与信息化"
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "code": "11.055",
+   "standard": "心理学名词",
+   "subject": "心理学_工程心理学"
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "code": "10.075",
+   "standard": "生态学名词",
+   "subject": "生态学_数学生态学"
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "模拟,仿真",
+   "en": "simulation",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation\",\"modeling",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "模拟，类比",
+   "en": "simulation\",\"emulation",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "仿真",
+   "en": "simulation\",\"emulation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation\",\"analogy",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "模拟试验",
+   "en": "simulation test",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "气候模拟",
+   "en": "climate simulation",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical simulation",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "量子模拟",
+   "en": "quantum simulation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数字仿真",
+   "en": "digital simulation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "随机模拟",
+   "en": "stochastic simulation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "模拟仿真技术",
+   "en": "simulation technology",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "石油工程",
+   "en": "reservoir simulation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "失控",
+   "en": "《（Simulacra and Simulation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "脑模拟系统",
+   "en": "brain simulation system",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "认知功能模拟",
+   "en": "cognitive function simulation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "蒙特卡罗模拟",
+   "en": "Monte Carlo simulation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "城市规划仿真",
+   "en": "urban planning simulation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据仿真模型",
+   "en": "data simulation model",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "城市网络安全仿真靶场",
+   "en": "urban cybersecurity simulation range",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "code": "1.2.3.13",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_研究设计"
+  },
+  {
+   "cn": "掩盖",
+   "en": "concealment, simulation",
+   "code": "1.2.34",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品完整性"
+  },
+  {
+   "cn": "仿真体模",
+   "en": "simulation phantom",
+   "code": "6.4.1.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_医用电离辐射"
+  },
+  {
+   "cn": "蒙特卡洛模拟",
+   "en": "Monte carlo simulation",
+   "code": "1.4.4.85",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "微观仿真模型",
+   "en": "micro-simulation model",
+   "code": "12.1.8.4",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生经济学评价_卫生经济学评价"
+  },
+  {
+   "cn": "消毒模拟现场试验",
+   "en": "disinfection simulation field test",
+   "code": "6.2.27",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "食饮具模拟现场消毒效果鉴定试验",
+   "en": "simulation field disinfection effect appraisal test for tableware",
+   "code": "6.2.27.5",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "手模拟现场消毒效果鉴定试验",
+   "en": "simulation field disinfection effect appraisal test for hand",
+   "code": "6.2.27.8",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "皮肤模拟现场消毒效果鉴定试验",
+   "en": "simulation field disinfection effect appraisal test for skin",
+   "code": "6.2.27.9",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "织物模拟现场消毒效果鉴定试验",
+   "en": "simulation field disinfection effect appraisal test for textile",
+   "code": "6.2.27.11",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "内镜模拟现场消毒效果鉴定试验",
+   "en": "simulation field disinfection effect appraisal test for endoscope",
+   "code": "6.2.27.12",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "医疗器械模拟现场消毒效果鉴定试验",
+   "en": "simulation field disinfection effect appraisal test for medical instrument",
+   "code": "6.2.27.6",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

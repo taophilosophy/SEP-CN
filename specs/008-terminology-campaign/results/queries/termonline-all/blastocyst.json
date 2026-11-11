@@ -2,10 +2,165 @@
  "key": "blastocyst",
  "term": "blastocyst",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T14:13:55+00:00",
- "status": "error",
- "note": "variant=blastocyst; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "blastocyst: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T01:03:53+00:00",
+ "status": "ok",
+ "note": "variant=blastocyst; 审定公布名词库=22; 海峡两岸名词对照库=10; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "胚泡",
+   "en": "blastocyst",
+   "code": "07.090",
+   "standard": "兽医学名词",
+   "subject": "兽医学_家畜胚胎学"
+  },
+  {
+   "cn": "囊胚",
+   "en": "blastocyst",
+   "code": "3.17",
+   "standard": "生殖医学名词",
+   "subject": "生殖医学_生殖生理与内分泌_女性生殖生理与内分泌"
+  },
+  {
+   "cn": "胚泡",
+   "en": "blastocyst",
+   "code": "4.0256",
+   "standard": "动物学名词",
+   "subject": "动物学_动物胚胎学_胚胎卵裂"
+  },
+  {
+   "cn": "胚泡",
+   "en": "blastocyst",
+   "code": "21.032",
+   "standard": "组织学与胚胎学名词",
+   "subject": "组织学与胚胎学_胚胎学_配子发生、受精和胚前期发育"
+  },
+  {
+   "cn": "[囊]胚泡",
+   "en": "blastocyst",
+   "code": "06.161",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞分化与发育"
+  },
+  {
+   "cn": "胚泡",
+   "en": "blastocyst",
+   "code": "05.071",
+   "standard": "遗传学名词",
+   "subject": "遗传学_发育遗传学"
+  },
+  {
+   "cn": "囊胚",
+   "en": "blastocyst,blastula",
+   "code": "05.286",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_繁殖_受精、妊娠、分娩"
+  },
+  {
+   "cn": "胚泡期",
+   "en": "blastocyst stage",
+   "code": "07.088",
+   "standard": "兽医学名词",
+   "subject": "兽医学_家畜胚胎学"
+  },
+  {
+   "cn": "胚泡形成",
+   "en": "blastocyst formation",
+   "code": "07.089",
+   "standard": "兽医学名词",
+   "subject": "兽医学_家畜胚胎学"
+  },
+  {
+   "cn": "胚泡腔",
+   "en": "blastocyst cavity",
+   "code": "07.091",
+   "standard": "兽医学名词",
+   "subject": "兽医学_家畜胚胎学"
+  },
+  {
+   "cn": "囊胚活检",
+   "en": "blastocyst biopsy",
+   "code": "6.082",
+   "standard": "生殖医学名词",
+   "subject": "生殖医学_辅助生殖技术"
+  },
+  {
+   "cn": "胚泡腔",
+   "en": "blastocyst cavity",
+   "code": "4.0257",
+   "standard": "动物学名词",
+   "subject": "动物学_动物胚胎学_胚胎卵裂"
+  },
+  {
+   "cn": "胚泡",
+   "en": "blastocyst",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "胚泡",
+   "en": "blastocyst",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "[囊]胚泡",
+   "en": "blastocyst",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "胚泡",
+   "en": "blastocyst",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "囊胚期（=胚泡期）",
+   "en": "blastocyst stage",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "胚泡期，囊胚期",
+   "en": "blastocyst stage",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "胚泡形成",
+   "en": "blastocyst formation",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "囊胚腔（=胚泡腔）",
+   "en": "blastocyst cavity\",\"blastocoel\",\"blastocoele",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "胚泡腔，囊胚腔",
+   "en": "blastocyst cavity\",\"blastocoel\",\"blastocoele",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "胚细胞",
+   "en": "blastocyte",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  }
+ ],
+ "error": null,
  "raw": null
 }

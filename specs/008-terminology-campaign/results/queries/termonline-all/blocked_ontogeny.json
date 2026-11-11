@@ -1,0 +1,306 @@
+{
+ "key": "blocked ontogeny",
+ "term": "blocked ontogeny",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T01:06:53+00:00",
+ "status": "ok",
+ "note": "variant=blocked ontogeny; 审定公布名词库=1190; 海峡两岸名词对照库=300; 其他来源数据库=88; 预公布名词数据库=6; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "个体发育",
+   "en": "ontogeny",
+   "code": "07.003",
+   "standard": "兽医学名词",
+   "subject": "兽医学_家畜胚胎学"
+  },
+  {
+   "cn": "个体发育",
+   "en": "ontogeny",
+   "code": "01.0153",
+   "standard": "古生物学名词",
+   "subject": "古生物学_总论"
+  },
+  {
+   "cn": "个体发育",
+   "en": "ontogeny",
+   "code": "1.051",
+   "standard": "免疫学名词",
+   "subject": "免疫学_概论_免疫学相关名词"
+  },
+  {
+   "cn": "个体发生",
+   "en": "ontogeny",
+   "code": "05.041",
+   "standard": "遗传学名词",
+   "subject": "遗传学_发育遗传学"
+  },
+  {
+   "cn": "个体发生",
+   "en": "ontogeny",
+   "code": "04.045",
+   "standard": "生态学名词",
+   "subject": "生态学_进化生态学"
+  },
+  {
+   "cn": "个体发育",
+   "en": "ontogeny,ontogenesis",
+   "code": "08.0360",
+   "standard": "植物学名词",
+   "subject": "植物学_植物生殖与发育生物学"
+  },
+  {
+   "cn": "个体发生",
+   "en": "ontogeny,ontogenesis",
+   "code": "20.012",
+   "standard": "组织学与胚胎学名词",
+   "subject": "组织学与胚胎学_胚胎学_绪论"
+  },
+  {
+   "cn": "个体发生",
+   "en": "ontogeny,ontogenesis",
+   "code": "06.006",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞分化与发育"
+  },
+  {
+   "cn": "个体发育",
+   "en": "ontogeny,ontogenesis",
+   "code": "05.246",
+   "standard": "水产名词",
+   "subject": "水产_水产生物育种学"
+  },
+  {
+   "cn": "个体发育",
+   "en": "ontogeny;ontogenesis",
+   "code": "4.0008",
+   "standard": "动物学名词",
+   "subject": "动物学_动物胚胎学_概论"
+  },
+  {
+   "cn": "个体发育",
+   "en": "ontogeny;individual development ",
+   "code": "4.0383",
+   "standard": "草学名词",
+   "subject": "草学_种子和育种_草类植物育种"
+  },
+  {
+   "cn": "区组",
+   "en": "block",
+   "code": "01.189",
+   "standard": "农学名词",
+   "subject": "总论_农业试验统计"
+  },
+  {
+   "cn": "个体发生,个体发育",
+   "en": "ontogeny",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "个体发生， 个体发育",
+   "en": "ontogeny",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "个体发育，个体发生",
+   "en": "ontogeny",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "个体发生（=个体发育）",
+   "en": "ontogeny\",\"ontogenesis",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "个体发育，个体发生",
+   "en": "ontogeny\",\"ontogenesis",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "个体发生,个体发育",
+   "en": "ontogeny\",\"ontogenesis",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "个体发生，个体发育",
+   "en": "ontogeny\",\"ontogenesis",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "个体发生,个体发育",
+   "en": "ontogeny\",\"ontogenesis",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "个体发生",
+   "en": "henogenesis\",\"ontogeny\",\"ontogenesis",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "墩",
+   "en": "blocks",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "区组",
+   "en": "block",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "嵌段",
+   "en": "block",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "拦网",
+   "en": "block\",\"blocking",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_沙滩排球名词"
+  },
+  {
+   "cn": "封挡",
+   "en": "block\",\"blocking",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_水球名词"
+  },
+  {
+   "cn": "阻挡",
+   "en": "block",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "格挡",
+   "en": "block",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "阻碍",
+   "en": "block",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "拦截",
+   "en": "block",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "堵截",
+   "en": "block",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "拦网",
+   "en": "block",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "阻挡",
+   "en": "block",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "阻拦",
+   "en": "block",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "滑车",
+   "en": "block",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "滑轮",
+   "en": "block",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "射野挡块",
+   "en": "shield block",
+   "code": "6.4.4.19.11",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_放射治疗"
+  },
+  {
+   "cn": "阻断剂",
+   "en": "blocking agent",
+   "code": "6.3.3.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内污染医学处理"
+  },
+  {
+   "cn": "封闭因子",
+   "en": "blocking factor",
+   "code": "1.3.5.8",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_炎症介质"
+  },
+  {
+   "cn": "封闭抗体",
+   "en": "blocking antibody, BA",
+   "code": "1.3.4.24",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_抗原与抗体"
+  },
+  {
+   "cn": "食品追溯区块链",
+   "en": "food traceability block chain",
+   "code": "1.2.56",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品完整性"
+  },
+  {
+   "cn": "区域封锁",
+   "en": "area blockade",
+   "code": "8.7.23",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_核武器医学防护学_核事故应急救援"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -2,10 +2,347 @@
  "key": "cardinal",
  "term": "cardinal",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T14:34:56+00:00",
- "status": "error",
- "note": "variant=cardinal; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "cardinal: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T01:14:23+00:00",
+ "status": "ok",
+ "note": "variant=cardinal; 审定公布名词库=658; 海峡两岸名词对照库=225; 其他来源数据库=13; 预公布名词数据库=33; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "基数词",
+   "en": "cardinal",
+   "code": "04.075",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "四方点",
+   "en": "cardinal points",
+   "code": "02.030",
+   "standard": "天文学名词",
+   "subject": "天文学_天体测量学"
+  },
+  {
+   "cn": "基面",
+   "en": "cardinal plane",
+   "code": "13.085",
+   "standard": "光学名词",
+   "subject": "光学_一般光学系统与光学设计"
+  },
+  {
+   "cn": "基点",
+   "en": "cardinal point",
+   "code": "04.0374",
+   "standard": "物理学名词",
+   "subject": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学"
+  },
+  {
+   "cn": "基面",
+   "en": "cardinal plane",
+   "code": "04.0379",
+   "standard": "物理学名词",
+   "subject": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学"
+  },
+  {
+   "cn": "首要特质",
+   "en": "cardinal trait",
+   "code": "08.030",
+   "standard": "心理学名词",
+   "subject": "心理学_人格心理学"
+  },
+  {
+   "cn": "基数效用",
+   "en": "cardinal utility",
+   "code": "10.010",
+   "standard": "药学名词",
+   "subject": "药学_药物经济学"
+  },
+  {
+   "cn": "正则元音",
+   "en": "cardinal vowels",
+   "code": "03.009",
+   "standard": "语言学名词",
+   "subject": "语言学_语音学_一般语音学"
+  },
+  {
+   "cn": "铰棱",
+   "en": "cardinal crura",
+   "code": "02.0619",
+   "standard": "古生物学名词",
+   "subject": "古生物学_古无脊椎动物学_软体动物门"
+  },
+  {
+   "cn": "主部",
+   "en": "cardinal quadrant",
+   "code": "02.0211",
+   "standard": "古生物学名词",
+   "subject": "古生物学_古无脊椎动物学_腔肠动物门"
+  },
+  {
+   "cn": "主端",
+   "en": "cardinal extremities",
+   "code": "02.0826",
+   "standard": "古生物学名词",
+   "subject": "古生物学_古无脊椎动物学_腕足动物门"
+  },
+  {
+   "cn": "主壳刺",
+   "en": "cardinal spine",
+   "code": "02.0840",
+   "standard": "古生物学名词",
+   "subject": "古生物学_古无脊椎动物学_腕足动物门"
+  },
+  {
+   "cn": "基本方位",
+   "en": "cardinal",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "基本方向",
+   "en": "cardinal\",\"cardinal direction",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "基数",
+   "en": "cardinality",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "基点温度",
+   "en": "cardinal temperatures",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "首要特质,核心特质",
+   "en": "cardinal trait",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "四方点",
+   "en": "cardinal points",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "基本温度",
+   "en": "cardinal temperature",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "基本方位",
+   "en": "cardinal points",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "基本方位点",
+   "en": "cardinal points",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "轴节基因",
+   "en": "cardinal gene",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "基平面",
+   "en": "cardinal plane",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "主突",
+   "en": "cardinal process",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "基数效用",
+   "en": "cardinal utility",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "大基数",
+   "en": "Ramsey cardinal",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "子宫主韧带",
+   "en": "cardinal ligament,Mackenrodt's ligamentlateral cervical ligament,transverse cervical ligament",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "边际收益",
+   "en": "marginal revenue",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "边际效用",
+   "en": "marginal utility",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "心指数",
+   "en": "cardiac index",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "心脏生理学",
+   "en": "Cardiac physiology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "心动周期",
+   "en": "cardiac cycle",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "零边际成本",
+   "en": "zero marginal cost",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "边际效用价值论",
+   "en": "marginal utility theory",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "左缘静脉",
+   "en": "Left marginal vein",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "心源性休克",
+   "en": "Blunt cardiac injury",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "基数效用论",
+   "en": "cardinal utility",
+   "code": "4.2.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务需求_卫生服务消费者行为"
+  },
+  {
+   "cn": "四项基本原则",
+   "en": "Four Cardinal Principles",
+   "code": "03.0514",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "三纲",
+   "en": "three cardinal guides",
+   "code": "1.072",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "边缘的",
+   "en": "marginal",
+   "code": "3.2.3.16",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别研究"
+  },
+  {
+   "cn": "边缘模型",
+   "en": "marginal model",
+   "code": "1.2.5.112",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "边缘群体",
+   "en": "marginal population",
+   "code": "2.5.1.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_群体和组织_群体"
+  },
+  {
+   "cn": "边际分析",
+   "en": "marginal analysis",
+   "code": "1.1.2.4",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生经济学_卫生经济学"
+  },
+  {
+   "cn": "边际效用",
+   "en": "marginal utility",
+   "code": "4.2.1.2.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务需求_卫生服务消费者行为"
+  },
+  {
+   "cn": "边际收益",
+   "en": "marginal revenue",
+   "code": "5.2.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务生产"
+  },
+  {
+   "cn": "边际报酬",
+   "en": "marginal return",
+   "code": "5.2.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务生产"
+  },
+  {
+   "cn": "边际产量",
+   "en": "marginal production",
+   "code": "5.2.7.2.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务生产"
+  },
+  {
+   "cn": "边际成本",
+   "en": "marginal cost ",
+   "code": "5.3.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务供给成本"
+  }
+ ],
+ "error": null,
  "raw": null
 }

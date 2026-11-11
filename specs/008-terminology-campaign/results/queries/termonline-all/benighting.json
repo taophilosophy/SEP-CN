@@ -2,10 +2,207 @@
  "key": "benighting",
  "term": "benighting",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T14:06:25+00:00",
- "status": "error",
- "note": "variant=benighting; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "benighting: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T00:56:22+00:00",
+ "status": "ok",
+ "note": "variant=benighting; 审定公布名词库=43; 海峡两岸名词对照库=13; 其他来源数据库=0; 预公布名词数据库=4; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "加权",
+   "en": "weighting",
+   "code": "19.204",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传媒经济_传媒经济研究"
+  },
+  {
+   "cn": "加权",
+   "en": "weighting",
+   "code": "02.0121",
+   "standard": "植物学名词",
+   "subject": "植物学_系统与进化植物学"
+  },
+  {
+   "cn": "加权",
+   "en": "weighting",
+   "code": "03.0266",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学设备与操作_成像设备"
+  },
+  {
+   "cn": "计权",
+   "en": "weighting",
+   "code": "10.0208",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑物理_建筑声学"
+  },
+  {
+   "cn": "加重材料",
+   "en": "weighting materials",
+   "code": "08.0146",
+   "standard": "精细化工名词",
+   "subject": "精细化工_其他精细化学品_油田化学品"
+  },
+  {
+   "cn": "加重外掺料",
+   "en": "weighting admixture",
+   "code": "08.0154",
+   "standard": "精细化工名词",
+   "subject": "精细化工_其他精细化学品_油田化学品"
+  },
+  {
+   "cn": "重力式基础",
+   "en": "weighting foundation",
+   "code": "22.161",
+   "standard": "电力名词",
+   "subject": "电力_输电线路"
+  },
+  {
+   "cn": "加权因子",
+   "en": "weighting factor",
+   "code": "01.0264",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "权重因子",
+   "en": "weighting factor",
+   "code": "02.298",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_分子与结构生物学_蛋白质晶体学"
+  },
+  {
+   "cn": "权重因数",
+   "en": "weighting factor",
+   "code": "03.0265",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学设备与操作_成像设备"
+  },
+  {
+   "cn": "数据项加权",
+   "en": "term weighting",
+   "code": "07.0511",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库新技术"
+  },
+  {
+   "cn": "加权检波",
+   "en": "weighting detection",
+   "code": "11.266",
+   "standard": "计量学名词",
+   "subject": "计量学_无线电_电磁兼容性"
+  },
+  {
+   "cn": "加权",
+   "en": "weighting",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "加权，权重",
+   "en": "weighting",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "加权",
+   "en": "weighting",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "加权因子，权重因子",
+   "en": "weighting factor",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "权重因子（=加权因子）",
+   "en": "weighting factor",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "加权函数",
+   "en": "weighting function",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "加权因子",
+   "en": "weighting factor",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "加权函数",
+   "en": "weighting function",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "加权因子",
+   "en": "weighting factor",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "汉明加权",
+   "en": "Hamming weighting",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "称雪器",
+   "en": "weighting snow-gauge",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "辐射权重因子",
+   "en": "radiation weighting factor",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "辐射权重因数",
+   "en": "radiation weighting factor",
+   "code": "3.3.1.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量"
+  },
+  {
+   "cn": "组织权重因数",
+   "en": "tissue weighting factor",
+   "code": "3.3.1.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量"
+  },
+  {
+   "cn": "组织权重因子",
+   "en": "tissue weighting factor",
+   "code": "8.8.17",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_核武器医学防护学_辐射防护基础"
+  },
+  {
+   "cn": "辐射权重因子",
+   "en": "radiation weighting factor",
+   "code": "8.8.16",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_核武器医学防护学_辐射防护基础"
+  }
+ ],
+ "error": null,
  "raw": null
 }

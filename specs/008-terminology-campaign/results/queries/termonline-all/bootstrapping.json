@@ -2,10 +2,144 @@
  "key": "bootstrapping",
  "term": "bootstrapping",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T14:24:26+00:00",
- "status": "error",
- "note": "variant=bootstrapping; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "bootstrapping: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T01:06:53+00:00",
+ "status": "ok",
+ "note": "variant=bootstrapping; 审定公布名词库=15; 海峡两岸名词对照库=6; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "自展法",
+   "en": "bootstrap,bootstrapping",
+   "code": "02.0261",
+   "standard": "植物学名词",
+   "subject": "植物学_系统与进化植物学"
+  },
+  {
+   "cn": "自展法",
+   "en": "bootstrap;bootstrapping",
+   "code": "2.02",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_系统发生分析"
+  },
+  {
+   "cn": "自助法",
+   "en": "bootstrap",
+   "code": "04.684",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_遗传育种_生物统计学"
+  },
+  {
+   "cn": "引导程序",
+   "en": "bootstrap",
+   "code": "05.0589",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_操作系统"
+  },
+  {
+   "cn": "自助法",
+   "en": "bootstrap",
+   "code": "09.0803",
+   "standard": "数学名词",
+   "subject": "数学_概率论_数理统计_非参数统计"
+  },
+  {
+   "cn": "远程引导",
+   "en": "remote bootstrapping",
+   "code": "09.0868",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_网络管理与安全"
+  },
+  {
+   "cn": "自举电流",
+   "en": "bootstrap current",
+   "code": "3.208",
+   "standard": "核科学技术名词",
+   "subject": "核科学技术_核聚变_磁约束聚变"
+  },
+  {
+   "cn": "自举电流",
+   "en": "bootstrap current",
+   "code": "10.0171",
+   "standard": "物理学名词",
+   "subject": "物理学_等离子体物理学"
+  },
+  {
+   "cn": "自举模型",
+   "en": "bootstrap model",
+   "code": "09.1241",
+   "standard": "物理学名词",
+   "subject": "物理学_原子核物理学、粒子物理学_粒子物理学"
+  },
+  {
+   "cn": "引导装入程序",
+   "en": "bootstrap loader",
+   "code": "05.0590",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_操作系统"
+  },
+  {
+   "cn": "自助抽样",
+   "en": "bootstrap sampling",
+   "code": "02.0593",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_数量经济的理论与方法"
+  },
+  {
+   "cn": "靴襻行动计划",
+   "en": "Operation Bootstrap",
+   "code": "04.0671",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_西印度群岛"
+  },
+  {
+   "cn": "自展法",
+   "en": "bootstrap\",\"bootstrapping",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "自展法",
+   "en": "bootstraping",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "自展分析",
+   "en": "bootstrap analysis",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "引导程序",
+   "en": "bootstrap\",\"boot",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "引导装入程序",
+   "en": "bootstrap loader",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "自恢复自举驱动电路",
+   "en": "self-restoring bootstrapped drive circuit",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "自举抽样",
+   "en": "bootstrap sampling",
+   "code": "1.4.4.86",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  }
+ ],
+ "error": null,
  "raw": null
 }
