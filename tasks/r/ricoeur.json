@@ -2,7 +2,7 @@
   "slug": "ricoeur",
   "kind": "retranslate",
   "zh_doc": "r/ricoeur.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "R-main-20261111",
       "at": "2026-11-11T07:14:39Z",
       "evidence": "三校（体例与学术规范）：check_style --docs r/ricoeur.md --strict 0 issue；check_academic --docs r/ricoeur.md --strict OK（非存根 1、在途豁免 1）；check_math ricoeur formulas 0 / missing 0 / unbalanced 0；check_summary H1 mismatch 0、硬错误 0；check_terms 硬错误 0（冲突 0/自洽 0）；check_images 无引用无悬空。尾节序：References（引用注释）→学术工具（四行制）→其他网络资源（4 链接）→相关词条（6 项）；H1 与 SUMMARY 逐字一致（「保罗·利科 Ricoeur, Paul (David Pellauer, Bernard Dauenhauer, and Scott Davidson)」）；版本事实行由 compose 依 baseline 生成（2002-11-11 首发 / 2026-01-05 实质修订）。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "R-main-20261111",
+      "at": "2026-11-11T08:30:24Z",
+      "evidence": "初审（对照 yuanwen 全文通读，初译→r1 间隔约 1.5 小时并夹 ramsey/risk 终审作业）：问题清单——Major 0；Minor 8 已修：①段1「挂上网公开」→「整理上网公开」；②段3「这一转使」漏「向」补「这一转向」；③段3「反映他的胡塞尔研究」→「反映出」；④段9「所以我们会错」→「因此是易错的」；⑤段12「这本末著」→「收官之作」；⑥段13「他得瞒过看守」→「不得不瞒过看守」；⑦段14「何以竟然成事」→「何以竟然发生」；⑧段15「照它说」→「据其主张」、段16「照利科说」→「在利科看来」、段28 三卷本定语歧义改写、「那本书他不得不瞒过看守」。结构对账：段落 40:40、H2 11:11、H3 2:2、脚注 2:2、defs 118:118、$ 0:0；跨段落断句两处（源镜像段内断行：段29→30、段32→33）译文同步分段落，语义连贯。语体核验：现代论说文体，无文言腔、无直角引号、破折号限于插入语；书名《》、拉丁术语保留斜体；check_style 0。保留意见： 仅沿用源文斜体处（段28/31），段13 源无斜体故不加。"
     }
   ],
   "blockers": [],
