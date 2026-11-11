@@ -2,7 +2,7 @@
   "slug": "dialectical-school",
   "kind": "retranslate",
   "zh_doc": "d/dialectical-school.md",
-  "state": "r1_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,27 @@
       "actor": "D-main-20261111",
       "at": "2026-11-11T08:40:59Z",
       "evidence": "独立复核一（全文逐段回读 346 行 vs 源 409 行）：**发现结构性缺件**——源文「四个基本要素」列表仅译出第 1 项，第 2/3/4 项（麦加拉宗派存在、辩证宗派为同时代人所识别且含狄奥多罗斯与菲洛、辩证宗派属第欧根尼十伦理宗派之一）整段缺失，已补译三行；另修括号缺开一处（Corpina and Øhrstrøm 2018）；对账复跑：标题 ##6/###4 全等、marker 48:48 键序全等、defs 69:69 键集全等、段落 108:110（差 2=byline 省略＋源列表合并块在中文按列表分块，均留痕）；主论证 (1)–(C) 五步重构与模态四要求全在；源文 (II) 括注自身笔误（impossible follows from the impossible）照源直译未改。语体：现代汉语学术书面语，通篇无文言句式与成段仿古（ADR-0033）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "D-main-20261111",
+      "at": "2026-11-11T08:45:15Z",
+      "evidence": "独立复核二（术语与人名）：Zeno 名形待裁定项就地结案——全库「芝诺」211 处 vs「塞诺」9 处（扣克塞诺芬尼 58 处假匹配），学界两芝诺同用「芝诺」以城邦修饰区分；裁定主形「基提翁的芝诺」，同步 dialectical-school×3、diodorus-cronus×2、carneades、descartes-ethics、homosexuality、intentionality-ancient 共 7 处，登记册 Zeno (of Citium)/Zeno of Elea 两行改注留凭证。术语核对：主论证/收割者论证/蒙面人/有角人/无人论证/实质蕴涵/严格蕴涵/后随关系/师承/宗派/二值原则均在册且一致；人名 欧布里德/菲洛/狄奥多罗斯·克罗诺斯/斯提尔波/欧克里德/克吕西波/普赖尔/塞德利/阿莫尼俄斯 均在册；相关词条 11 条对 SUMMARY 定名复核（直陈条件/卡里亚雅苏斯的狄奥多罗斯/古代哲学学说史/宿命论/未来偶然性/古代逻辑学/模态逻辑/时间逻辑/阿瑟·普赖尔/斯多葛主义）。prose 余 2 条均为引文块内部（爱比克泰德、西塞罗），ADR-0020 豁免"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "D-main-20261111",
+      "at": "2026-11-11T08:47:33Z",
+      "evidence": "独立复核三（终稿）：check_style 0 issue、check_academic --strict 0 硬错误、check_math 0/0、check_prose 2（引文块豁免）、check_summary HARD 0；五维终跑 标题 6/4、marker 48:48、defs 69:69、缩写键 0:0、尾节子标题 4:4；参考文献 A–D 四节分组与 66 条 defs 照录；其他网络资源 Uckelman 条目链接在位；H1 与 SUMMARY 第 693 行定名一致"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "D-main-20261111",
+      "at": "2026-11-11T08:51:20Z",
+      "evidence": "全周期完成（九步齐备）：r1 全文回读补译源文四要素缺件 3 项（结构性漏译，段落对账盲区）＋括号修正；r2 Zeno 名形裁定「基提翁的芝诺」全库 7 处同步、登记册两行留凭证，术语人名逐条核销；r3 四检全绿；译文入库 d/dialectical-school.md"
     }
   ],
   "blockers": [],
