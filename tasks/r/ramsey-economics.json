@@ -2,7 +2,7 @@
   "slug": "ramsey-economics",
   "kind": "retranslate",
   "zh_doc": "r/ramsey-economics.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "R-main-20261110",
       "at": "2026-11-11T00:42:32Z",
       "evidence": "学术规范：check_academic --strict OK；check_math formulas 310 / missing 0 / unbalanced 1（假阳性：镜像行 $1+[dF(K(t))/dK(t)]\\Delta t$ 的 '$1' 被货币启发式判为金额，已在 s3 note 记录，镜像本身 $ 成对）；书目 40 条 defs 照录键集全等；Academic Tools 四行制；OIR 照源“请联系作者”；相关词条 6 条照 SUMMARY；H1/SUMMARY/mu-lu-s 题名按 en citation_title 订正为 Ramsey and Intergenerational Welfare Economics（原文缺前半被 catalog 截断）。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "R-main-20261111",
+      "at": "2026-11-11T03:42:08Z",
+      "evidence": "初审（对照 yuanwen 全文逐节对读，独立于初译会话 R-main-20261110）：问题清单——Major 1：导论段「it is difficult to imagine that there were no economists capable of learning the necessary mathematics had they wished to do so」原译作「无一经济学者愿意去学、且学得会」，把「只要有意便能学会」的反设条件误作并列，已改为「当时竟没有一位经济学者，只要有意，便学不会那些必需的数学」；Minor 0（西季威克引块「（斜体为引者所加）」照源保留、中文强调按体例作加粗，不视为失真）。结构对账：H2 9:9（源 10 含 ## Notes 与 ## Notes to … 双标题，镜像转换重复，已并入 ## 脚注）、H3 10:10、脚注 marker 26:26 多重集全等、defs 40:40 键集全等、$ 计数 670:670、\\tag 1–21c 与 \\tag* 全在；相关词条 6 项照 SUMMARY；无增译无漏译。四检复跑：check_style 0、check_prose 0、check_academic --strict OK、check_math missing 0（unbalanced 1 为货币启发式对镜像行 $1 的假阳性，源镜像逐字符一致）。"
     }
   ],
   "blockers": [],
