@@ -124,6 +124,7 @@
 | affirmative action | — | 平权行动 | justice-moral-psych | 美国政策语境通行汉译（亦作“肯定性行动”）；凭证 2026-11-10 | 2026-11-10 |
 | affirmative model | — | 肯定性模型 | disability | 本词条术语（Swain & French 2000“affirmation model”）；凭证 2026-11-09 | 2026-11-09 |
 | Africana Philosophy | — | 非裔哲学 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 a/africana））；凭证 2026-11-04 | 2026-11-04 |
+| Conversations (Fuller) | — | 谈话会 | f/fuller-margaret 首译 | 富勒术语（专名化，首现附加引号） | 2026-11-11 |
 | agapic love | — | 圣爱 | 首现（justice-virtue） | 学界惯例（基督教 agape 通行译法）；凭证 2026-11-02 | 2026-11-02 |
 | age of onset | — | 发病年龄 | cancer | 学界通行（流行病学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | agency | — | 能动性 | oakeshott 首译 | 审定名词库（人类能动性在案；哲学通行同形）；凭证 2026-11-07 | 2026-11-07 |
@@ -2145,6 +2146,7 @@
 | infallibility | — | 无误性 | omniscience | 学界通行译名（与 essential omniscience 分列）；凭证 2026-11-09 | 2026-11-09 |
 | infallible | — | 不会出错的 | prophecy | 构词直译（对上帝知识的不谬性描述，与 infallibility 不谬性相承）；凭证 2026-11-09 | 2026-11-09 |
 | infectious agent | — | 传染因子 | cancer | 学界通行（流行病学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
+| faculty psychology | — | 官能心理学 | f/fuller-margaret 首译 | 哲学史通行译法（苏格兰常识学派语境） | 2026-11-11 |
 | inference rule | — | 推理规则 | schema | 学界惯例（逻辑学通行） | 2026-11-06 |
 | Inference to the Best Explanation | — | 最佳说明推理（亦作“最佳解释推理”） | abduction | 审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
 | Inference to the Worst Explanation (IWE) | — | 最差解释推理 | 首现（abduction） | 学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
@@ -4194,6 +4196,7 @@
 | Skolem function | — | 斯科伦函数 | tarski-truth | 模型论与逻辑学通行 | 2026-11-09 |
 | skopos | σκοπός | 论旨（首现括注原文） | olympiodorus | 古代注疏学通行（文本的宗旨/主题）；凭证 2026-11-08 | 2026-11-08 |
 | Sleeping Beauty | — | 睡美人问题 | 语料回收（标题词） | 审定直接命中（自然辩证法·科学哲学）；凭证 2026-11-01 | 2026-11-01 |
+| self-culture | — | 自我修养 | f/fuller-margaret 首译 | 19 世纪美国思想史通行译法（与 self-improvement 自我改善并用） | 2026-11-11 |
 | sleeping dog strategy | — | “睡狗”策略 | f/frame-problem 首译 | 构词直译（McDermott 1987 提法，let sleeping dogs lie 典故）；凭证 2026-11-10 | 2026-11-10 |
 | slow clock transport | — | 慢钟搬移（slow-transport 缓慢搬移） | spacetime-convensimul | 本册首译裁定（transport 取“搬移”） | 2026-11-06 |
 | small model property | — | 小模型性质 | logic-dynamic | 模型论通行译法；凭证 2026-11-10 | 2026-11-09 |
