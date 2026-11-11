@@ -378,7 +378,7 @@ segments:
     source: |-
       > institutions which will replace the person of the capitalist in his administrative functions and his industrial power, and so achieve the autonomy of the producer in the factory. (SPWI: 77)
     step1: |-
-      > 各种制度，它们将在管理职能与工业权力上取代资本家个人，从而实现生产者在工厂中的自主。（SPWI: 77）
+      > 一些制度，它们将在行政职能与工业权力上取代资本家的角色，从而在工厂中实现生产者的自主。（SPWI: 77）
     step2: |-
       > 各种制度，它们将在管理职能与工业权力上取代资本家个人，从而实现生产者在工厂中的自主。（SPWI: 77）
   - id: 47
@@ -434,7 +434,7 @@ segments:
     source: |-
       > in the advanced capitalist countries, the ruling class possesses political and organizational reserves which it did not possess, for instance, in Russia. (SPWII: 408)
     step1: |-
-      > 在发达资本主义国家，统治阶级拥有政治与组织上的后备力量，而例如在俄国，它并不拥有这些。（SPWII: 408）
+      > 在发达的资本主义国家，统治阶级拥有一些政治与组织的后备力量，而例如在俄国，它并不曾拥有。（SPWII: 408）
     step2: |-
       > 在发达资本主义国家，统治阶级拥有政治与组织上的后备力量，而例如在俄国，它并不拥有这些。（SPWII: 408）
   - id: 54
@@ -618,7 +618,7 @@ segments:
     source: |-
       > are the dominant group’s “deputies” exercising the subaltern functions of social hegemony and political government. (SPN: 12)
     step1: |-
-      > 是统治集团的“代理人”，行使社会霸权与政治政府的从属职能。（SPN: 12）
+      > 是统治集团的“代理人”，行使社会霸权与政治政府的从属性职能。（SPN: 12）
     step2: |-
       > 是统治集团的“代理人”，行使社会霸权与政治政府的从属职能。（SPN: 12）
   - id: 77
@@ -697,161 +697,215 @@ segments:
     kind: body
     source: |-
       The *Notebooks* present an extensive critique of what Gramsci saw as the prevailing orthodoxy in Marxist philosophy. Exemplary here was the analysis by the Russian philosopher and economist, Nikolai Bukharin, in his *Theory of Historical Materialism: A Popular Manual of Marxist Sociology* (published in 1921), a text Gramsci had utilized in party schools. Gramsci now rejected Bukharin’s treatment of Marxism as a deterministic science of society and used his text as a foil to present an alternative account of historical materialism that he labelled the “philosophy of praxis”, following the late nineteenth century Hegelian Marxist philosopher, Antonio Labriola. Gramsci probably used Labriola’s term to evade the prison censor but, undoubtedly, it captured the primacy he gave to practical, political questions in his approach to theorizing. He saw Marxism as a philosophy aimed at critically engaging popular common sense, laying the basis for a new hegemony.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《札记》对葛兰西眼中的马克思主义哲学流行正统作了广泛批评。典型的是俄国哲学家与经济学家尼古拉·布哈林的《历史唯物主义理论：马克思主义社会学通俗手册》（1921 年出版），葛兰西曾在党校使用过该文本。葛兰西如今拒斥布哈林把马克思主义当作社会的决定论科学的做法，并以其文本为靶子，提出另一种历史唯物主义论述，他称之为“实践哲学”——沿用十九世纪末黑格尔派马克思主义哲学家安东尼奥·拉布里奥拉的说法。葛兰西使用拉布里奥拉的术语多半是为躲避监狱审查，但毫无疑问，这个术语抓住了他在理论化中对实践性政治问题的优先考虑。他把马克思主义看作一种旨在批判地介入民众常识、为新霸权奠定基础的哲学。
+    step2: |-
+      《札记》对葛兰西眼中的马克思主义哲学流行正统作了广泛批评。典型代表是俄国哲学家兼经济学家尼古拉·布哈林的《历史唯物主义理论：马克思主义社会学通俗手册》（1921 年出版），葛兰西曾在党校用过此书。他拒斥布哈林把马克思主义当作社会的决定论科学，并以该书为靶子，提出另一种历史唯物主义论述——“实践哲学”，沿用十九世纪末黑格尔派马克思主义哲学家安东尼奥·拉布里奥拉的术语。他多半是为躲避狱中审查才用拉布里奥拉的说法，但这个术语无疑抓住了他的理论取向：实践性政治问题优先。他把马克思主义看作一种哲学，旨在批判地介入民众常识，为新霸权奠定基础。
   - id: 87
     kind: body
     source: |-
       The *Popular Manual*, as Gramsci referred to it, demonstrated the worst of what he called “vulgar materialism” (SPN: 407). It reduced Marxism to a search for the causal laws of social evolution and accepted, without reflection, the positive sciences as the sole model of knowledge. It took up a speculative “method” positioned outside of history to observe supposedly “objective” mechanical regularities and to make predictions about their development (see SPN: 425–40). This view was mistaken for various reasons: instead of treating Marxism as an original philosophy, it subordinated it to the natural sciences; it failed to grasp the “dialectic” in Marxism, which underscored the critical struggle against established thought (SPN: 434–35); and it separated thought from action, “science and life”, and therefore divided intellectuals with knowledge from the experiences of “the great popular masses” (SPN: 442).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《通俗手册》——葛兰西如此称布哈林的书——展示了所谓“庸俗唯物主义”最糟糕的一面（SPN: 407）。它把马克思主义化约为寻找社会进化的因果规律，不假思索地把实证科学当作知识的唯一模型。它采用一种置身历史之外的思辨“方法”，以观察据称“客观”的机械规律并预测其发展（见 SPN: 425–40）。这种观点是错误的，原因有几种：它没有把马克思主义当作原创的哲学，而是让它屈从于自然科学；它未能把握马克思主义中的“辩证法”，而辩证法强调对既有思想的批判斗争（SPN: 434–35）；它把思想与行动、“科学与生活”分离开来，从而割裂了拥有知识的知识分子与“广大民众”的经验（SPN: 442）。
+    step2: |-
+      《通俗手册》——葛兰西如此称呼布哈林的书——暴露了他所谓“庸俗唯物主义”最糟糕的一面（SPN: 407）。它把马克思主义化约为寻找社会进化的因果规律，不假思索地把实证科学当作知识的唯一模型；它采取一种置身历史之外的思辨“方法”，去观察据称“客观”的机械规律并预测其发展（见 SPN: 425–40）。这种观点错在几点：它不让马克思主义作为原创哲学立足，反而使其屈从自然科学；它没有把握马克思主义中的“辩证法”——对既有思想的批判斗争（SPN: 434–35）；它把思想与行动、“科学与生活”分开，从而割裂了掌握知识的知识分子与“广大民众”的经验（SPN: 442）。
   - id: 88
     kind: body
     source: |-
       To remedy these defects, Gramsci argued that Marxism, or historical materialism, be understood as a philosophy rooted in history, as an expression of the practical struggle to rethink those circumstances anew. As such it “contains in itself all the fundamental elements to construct a total and integral conception of the world” (SPN: 462). Thought and action should be understood as dialectically intertwined in a developmental process that can “bring into being a new form of State […] a new intellectual and moral order […] a new type of society” (SPN: 388). Historical materialism was not an abstract framework from which merely to observe historical change; it was the philosophical vehicle whose expansion into a cultural outlook aimed to bring about that change (see FSPN: 395–96). Gramsci affirmed Labriola’s designation of Marxism as a “philosophy of praxis” because it insisted on the unity of thought and action (praxis)—and, through that, the gradual formation of an autonomous moral and cultural worldview—as the guiding principle of Marx’s philosophy (SPN: 388).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为纠正这些缺陷，葛兰西主张：马克思主义（或历史唯物主义）应被理解为一种植根于历史的哲学，是重新思考那些处境的实践斗争的表现。就此而言，它“自身包含着建构一种总体而整全的世界观的全部基本要素”（SPN: 462）。思想与行动应被理解为在一个发展过程中辩证地交织，这一过程能够“造就一种新型的国家……一种新的智识与道德秩序……一种新型的社会”（SPN: 388）。历史唯物主义不是从中单纯观察历史变化的抽象框架；它是一种哲学载体，其向文化视野的扩展旨在促成那种变革（见 FSPN: 395–96）。葛兰西肯定拉布里奥拉把马克思主义命名为“实践哲学”，因为它坚持思想与行动（实践）的统一——并由此坚持自主的道德与文化世界观的逐渐形成——作为马克思哲学的指导原则（SPN: 388）。
+    step2: |-
+      为纠正这些缺陷，葛兰西主张：马克思主义（或历史唯物主义）应理解为植根于历史的哲学，是重新思考那些处境的实践斗争的表现。就此而言，它“自身包含着建构一种总体而整全的世界观的全部基本要素”（SPN: 462）。思想与行动在一个发展过程中辩证交织，这一过程能够“造就一种新型的国家……一种新的智识与道德秩序……一种新型的社会”（SPN: 388）。历史唯物主义不是供人旁观历史变化的抽象框架，而是一种哲学载体；它向文化视野的扩展旨在促成那种变革（见 FSPN: 395–96）。葛兰西肯定拉布里奥拉将马克思主义命名为“实践哲学”，因为它把思想与行动（实践）的统一——以及由此而来的自主道德与文化世界观的逐渐形成——当作马克思哲学的指导原则（SPN: 388）。
   - id: 89
     kind: body
     source: |-
       Gramsci also proposed that Croce’s idealism could be of “instrumental value” to a renewed philosophy of praxis. Influenced by Marxism, Crocean historicism conceived thought and expression as entirely “immanent” to history, that is, as responses to concrete problems, undetermined by any transcendent scheme or teleology. Croce presented “liberty” as the unifying ethical principle expressing this historicist sensibility; the basis to what he conceived as a modern religion. Gramsci acknowledged that Croce had
-    step1: TBD
-    step2: TBD
+    step1: |-
+      葛兰西还提出，克罗齐的唯心主义对革新的实践哲学可以有“工具价值”。受马克思主义影响，克罗齐式历史主义把思想与表达看作完全“内在”于历史的东西，即对具体问题的回应，不由任何超越的图式或目的论所决定。克罗齐把“自由”呈现为表达这种历史主义感受力的统一伦理原则，视之为他所构想的一种现代宗教的基础。葛兰西承认克罗齐
+    step2: |-
+      葛兰西还提出：克罗齐的唯心主义对革新的实践哲学可以有“工具价值”。克罗齐的历史主义受了马克思主义影响，把思想与表达看作完全“内在”于历史的东西——对具体问题的回应，不由任何超越图式或目的论决定。克罗齐把“自由”呈现为表达这种历史主义感受力的统一伦理原则，并将它视为自己所构想的一种现代宗教的基础。葛兰西承认，克罗齐
   - id: 90
     kind: body
     source: |-
       > forcefully drawn attention to the importance of cultural and intellectual factors in the development of history […] to the moment of hegemony and consent. (FSPN: 357)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 强有力地提请注意文化与智力因素在历史发展中的重要性……注意到霸权与同意的时刻。（FSPN: 357）
+    step2: |-
+      > 有力地提请注意文化与智识因素在历史发展中的重要性……注意霸权与同意的环节。（FSPN: 357）
   - id: 91
     kind: body
     source: |-
       Yet, he claimed, Croce also erased class conflict in his historical writing, emphasizing only periods of liberal hegemony—the consensual, ethical aspects of history and not the violence or political struggles that ushered in bourgeois society, such as the French Revolution (SPN: 119; see also GPL: 213–14, 215–16). By contrast, a philosophy of praxis would build on Croce’s insights, focusing instead on “ethico-political” history—the socio-economic divisions that bring, dialectically, a new culture into existence—without his partial, liberal gloss. It would vigorously critique received common sense beliefs, philosophies, and hierarchies that prevented the advance of ordinary people (SPN: 330–31). Gramsci described the philosophy of praxis as an “absolute ‘historicism’, the absolute secularisation and earthliness of thought” (SPN: 465).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而他声称，克罗齐在历史写作中也抹去了阶级冲突，只强调自由主义霸权的时期——历史中那些共识性的、伦理性的方面，而非把资产阶级社会带入存在的暴力或政治斗争，例如法国大革命（SPN: 119；亦见 GPL: 213–14, 215–16）。相比之下，一种实践哲学将建立在克罗齐的洞见之上，转而聚焦于“伦理-政治的”历史——辩证地带来新文化的社会经济分化——而不带他片面的自由主义色彩。它将有力批判那些阻碍普通人前进的既有常识信念、哲学与等级制度（SPN: 330–31）。葛兰西把实践哲学描述为一种“绝对的‘历史主义’，思想的绝对世俗化与大地上化”（SPN: 465）。
+    step2: |-
+      然而他声称，克罗齐的历史写作也抹去了阶级冲突：只强调自由主义霸权的时期——历史中共识性的、伦理性的方面——而不提把资产阶级社会带入存在的暴力与政治斗争，如法国大革命（SPN: 119；亦见 GPL: 213–14, 215–16）。相比之下，实践哲学将建立在克罗齐的洞见之上，转而聚焦“伦理-政治的”历史——辩证地催生新文化的社会经济分化——而不带他那份片面的自由主义色彩。它将有力批判妨碍普通人前进的既有常识信念、哲学与等级秩序（SPN: 330–31）。葛兰西称实践哲学为一种“绝对的‘历史主义’，思想的绝对世俗化与大地化”（SPN: 465）。
   - id: 92
     kind: body
     source: |-
       In rejecting the scientific model of knowledge in favor of a form of historical consciousness, Gramsci radically shifted Marxism’s epistemological bearings. The measure of historical materialism lay not exclusively in the immediate empirical “truth” of its propositions or predictions but, moreover, in the cultural and political efficacy of its overall intellectual and moral reform, which enabled creative subjective engagement with objective conditions: “it is a philosophy which is also politics” (SPN: 395). He suggested that mass “adhesion or non-adhesion to an ideology is the real critical test of the rationality and historicity of modes of thinking”, not just direct correspondence of theory to an independent reality (SPN: 341); and that “prediction” was not so much “a scientific act of knowledge” as “the abstract expression of the effort made, the practical way of creating a collective will” (SPN: 438). Gramsci compared the philosophy of praxis to the Protestant Reformation in so far as its success resided in generating cultural agreement to cement civil and political unity (SPN: 395).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      葛兰西拒斥科学的知识模型而支持一种历史意识的形式，从根本上改变了马克思主义的认识论方位。历史唯物主义的衡量标准，不仅在于其命题或预测的即时经验“真”，更在于其总体智识与道德改革的文化与政治效力——它使人能够创造性地介入客观条件：“这是一种同时也是政治的哲学”（SPN: 395）。他提出，大众“对一种意识形态的赞同或不赞同，是检验思维方式的合理性与历史性的真正批判性试金石”，而不只是理论对独立实在的直接符合（SPN: 341）；“预测”与其说是“科学的知识行动”，不如说是“所作努力、创造集体意志之实践方式的抽象表达”（SPN: 438）。葛兰西把实践哲学与宗教改革相比，因为其成功在于生成文化上的一致，以凝聚市民与政治的统一（SPN: 395）。
+    step2: |-
+      拒斥科学的知识模型而选择历史意识的形式，葛兰西从根本上改变了马克思主义的认识论方位。历史唯物主义的衡量标准，不只在于其命题或预测的即时经验“真”，更在于其总体智识与道德改革的文化与政治效力——它使人能创造性地介入客观条件：“这是一种同时也是政治的哲学”（SPN: 395）。他提出，大众“对一种意识形态的赞同或不赞同，是检验思维方式的合理性与历史性的真正批判性试金石”，而不只是理论对独立实在的直接符合（SPN: 341）；“预测”与其说是“科学的知识行动”，不如说是“所作努力、创造集体意志之实践方式的抽象表达”（SPN: 438）。他把实践哲学与宗教改革相比：其成功正在于生成文化一致，以凝聚市民与政治的统一（SPN: 395）。
   - id: 93
     kind: body
     source: |-
       Gramsci was not suggesting that truth was *only* a matter of shared agreement. The philosophy of praxis still aligned to the foundational Marxist principle that social consciousness “corresponds” to material relations of production, knowledge of which was necessary for any practical effort. Marxism therefore required “the critique of ideologies” which “tend to hide reality” (FSPN: 396) and, in this, it sought to bring thought and action into rational correspondence. But the philosophy of praxis could achieve that only if it were grasped as a form of politics, not an abstract science.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      葛兰西并非主张真理*只是*共同同意的问题。实践哲学仍然符合马克思主义的基本原理：社会意识“对应”于物质生产关系，而对其的认识是任何实践努力所必需的。因此马克思主义需要“意识形态批判”，因为意识形态“倾向于遮蔽实在”（FSPN: 396）；在此，它力求使思想与行动达到理性对应。但实践哲学只有被把握为一种政治形式而非抽象科学，才能做到这一点。
+    step2: |-
+      葛兰西并非主张真理*只是*共同同意之事。实践哲学仍恪守马克思主义的基本原理：社会意识“对应”于物质生产关系，而认识这种对应是任何实践努力的前提。因此马克思主义需要“意识形态批判”——意识形态“倾向于遮蔽实在”（FSPN: 396）；并借此使思想与行动达到理性对应。但实践哲学唯有被当作一种政治形式而非抽象科学来把握，才能做到这一点。
   - id: 94
     kind: body
     source: |-
       These comments are consistent with Gramsci’s general line of argument in the *Notebooks* on the strategic importance of building consent prior to revolution. They indicate that such a strategy was not a momentary, tactical initiative. It aligned with his aspiration for a cultural transformation over the longer term. His focus on the subjective, “superstructural” element of class politics certainly put Gramsci at odds with more objectivist accounts of Marxism, but it was far from an aversion to the reality of “structural” and empirical constraints (see Morera 1990)[^morera-1990]. Whatever its shortcomings as a generalizable Marxist theory, Gramsci’s philosophy of praxis was in keeping with his attempt to conceive revolutionary politics as the preparation of a “total, integral civilisation” (SPN: 462; see Thomas 2009)[^thomas-2009].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些评论与葛兰西在《札记》中关于在革命之前建立同意之战略重要性的总体论证一致。它们表明，这一战略不是一时一地的战术倡议；它与他实现更长期文化转型的抱负相一致。他聚焦阶级政治的主观的、“上层建筑的”要素，这确实使他与马克思主义中更客观主义的论述不合；但他远非厌恶“结构性”与经验性约束的现实（见 Morera 1990）[^morera-1990]。无论其作为可普遍化的马克思主义理论有何缺点，葛兰西的实践哲学与他把革命政治设想为一种“总体、整全文明”之准备的尝试是一致的（SPN: 462；见 Thomas 2009）[^thomas-2009]。
+    step2: |-
+      这些评论与《札记》中“革命之前先建同意”的战略论证一致：这一战略并非一时的战术动作，而与他实现长期文化转型的抱负相合。聚焦阶级政治的主观、“上层建筑”要素，确实使他与更客观主义的马克思主义论述不合，但他远非厌恶“结构性”与经验性约束的现实（见 Morera 1990）[^morera-1990]。无论作为可普遍化的马克思主义理论有何缺点，葛兰西的实践哲学始终贴合他的尝试：把革命政治设想为一种“总体、整全文明”的准备（SPN: 462；见 Thomas 2009）[^thomas-2009]。
   - id: 95
     kind: body
     source: |-
       ### 3.6 The Modern Prince
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.6. 现代君主
+    step2: |-
+      ### 3.6 现代君主
   - id: 96
     kind: body
     source: |-
       Gramsci still considered the agent of a revolution to be, by necessity, a centralized and ideologically disciplined party. But now he presented the party as the vehicle of a “total and integral conception of the world” that, in advance of the revolution itself, would organize across civil society.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      葛兰西仍认为革命的能动者必然是一个集中化的、意识形态上受纪律约束的党。但如今他把党呈现为一种“总体而整全的世界观”的载体：在革命本身到来之前，它将在市民社会中展开组织。
+    step2: |-
+      葛兰西仍认为革命的能动者必然是一个集中化、意识形态上受纪律约束的党。但如今他把党呈现为“总体而整全的世界观”的载体：早在革命到来之前，它就要在市民社会中展开组织。
   - id: 97
     kind: body
     source: |-
       The character of the revolutionary party, for Gramsci, could be grasped by reference to Niccolò Machiavelli’s treatise on political leadership, *The Prince*. The figure of the prince combined in one person both tactical calculation and an ambition to lead the people in building a state (see SPN: 125). That image of leadership, Gramsci continued, was later exemplified in Georges Sorel’s notion of “myth”, that is, a motivating ideal or “concrete phantasy which acts on a dispersed and shattered people to arouse and organise its collective will” (SPN: 126). Elaborating and diffusing “conceptions of the world” was what modern political parties were designed to do (SPN: 335). Gramsci’s reflections on communist party strategy were therefore formulated as a treatise on what he conceived as “The Modern Prince” (*il moderno Principe*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在葛兰西看来，革命党的品格可以借尼科洛·马基雅维利论政治领导的论著《君主论》来把握。君主的形象把战术算计与领导人民建国的雄心结合于一身（见 SPN: 125）。这种领导形象，葛兰西接着说，后来在乔治·索雷尔的“神话”概念中得到例证，即一种激励性的理想或“具体的幻想，它作用于分散破碎的人群，唤起并组织其集体意志”（SPN: 126）。阐发与传播“世界观”正是现代政党被设计出来要做的事（SPN: 335）。因此，葛兰西关于共产党策略的反思被表述为一篇论著，论他所设想的“现代君主”（*il moderno Principe*）。
+    step2: |-
+      在葛兰西看来，革命党的品格可以借尼科洛·马基雅维利论政治领导的名著《君主论》来把握：君主的形象把战术算计与带领人民建国的雄心集于一身（见 SPN: 125）。他接着说，这种领导形象后来在乔治·索雷尔的“神话”概念中得到例证——一种激励性的理想，或“作用于分散破碎的人群、唤起并组织其集体意志的具体幻想”（SPN: 126）。阐发与传播“世界观”正是现代政党的设计使命（SPN: 335）。因此，他把关于共产党策略的反思写成一则论著，题为“现代君主”（*il moderno Principe*）。
   - id: 98
     kind: body
     source: |-
       Drawing from the experience of the French Revolution, a modern Prince (or revolutionary party) must present itself as the type of “Jacobin force” which then had “awakened and organised the national-popular collective will, and founded the modern States” (SPN: 131). Its strategy could not be oriented exclusively to the moment of revolutionary rupture but, moreover, “to the question of intellectual and moral reform, that is to the question of religion or world-view” (SPN: 132). The party’s aim was to realize “a superior, total form of modern civilisation” rooted in economic relations (SPN: 133). Yet the “national-popular” dimension required it to do this by transcending the corporate interests of one class alone, presenting its goals on a “universal plane”: “thus creating the hegemony of a fundamental group over a series of subordinate groups” (SPN: 182). The party would lead by making itself the repository of popular common sense, gathering the support of allied intellectuals, and developing its own distinct worldview built on the philosophy of praxis. Gramsci’s conception of the party’s role, therefore, went beyond a temporary or mechanical alliance of separate classes; it meant mobilizing a wholly new and inclusive vision of modern society.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从法国大革命的经验出发，一个现代君主（或革命党）必须把自己呈现为那种“雅各宾力量”——它曾“唤醒并组织了民族-人民的集体意志，建立了现代国家”（SPN: 131）。其战略不能只指向革命断裂的时刻，还须指向“智识与道德改革的问题，也就是宗教或世界观的问题”（SPN: 132）。党的目标是实现植根于经济关系的“一种更高级、总体的现代文明形式”（SPN: 133）。然而，“民族-人民的”维度要求它通过超越单一阶级的社团利益来做到这一点，把其目标摆到“普遍的平面”上：“从而创造一个基本集团对一系列从属集团的霸权”（SPN: 182）。党将通过使自己成为民众常识的宝库、争取同盟知识分子的支持、并发展以实践哲学为基础的自己独特世界观来实施领导。因此，葛兰西关于党之角色的构想超越了阶级间临时的或机械的联盟；它意味着动员一种全新而包容的现代社会的愿景。
+    step2: |-
+      从法国大革命的经验出发，一个现代君主（或革命党）必须把自己呈现为那种“雅各宾力量”——它曾“唤醒并组织了民族-人民的集体意志，建立了现代国家”（SPN: 131）。其战略不能只指向革命断裂的时刻，还须指向“智识与道德改革的问题，也就是宗教或世界观的问题”（SPN: 132）。党的目标是实现植根于经济关系的“一种更高级、总体的现代文明形式”（SPN: 133）。但“民族-人民的”维度要求它超越单一阶级的社团利益，把目标摆上“普遍的平面”：“从而创造一个基本集团对一系列从属集团的霸权”（SPN: 182）。党要实行领导，须使自己成为民众常识的宝库、争取同盟知识分子的支持，并发展以实践哲学为基础的独特世界观。因此，葛兰西对党之角色的构想超越了阶级间临时的或机械的联盟：它意味着动员一种全新而包容的现代社会的愿景。
   - id: 99
     kind: body
     source: |-
       The modern Prince was to be organized in such a way as to maintain contact with workers, but also to ensure disciplined leadership. It would be a party of “ordinary, average men”, with a leadership “endowed with great cohesive, centralising and disciplinary powers”, and an “intermediate element” to keep the two in mutual contact (SPN: 152–53). The party would thus be a mass-based organization under firm direction. To ensure “organic” discipline, Gramsci endorsed the principle of “democratic centralism” whereby decisions would be open to discussion by rank-and-file members. But, once taken, those decisions would be unquestioningly obeyed. That way “bureaucratic” rigidity would be avoided and
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现代君主应以这样一种方式组织：既保持与工人的接触，又确保有纪律的领导。这将是一个由“普通的、平均的人”组成的党，其领导层“被赋予强大的凝聚、集中与纪律权力”，并有一个“中间要素”使两者保持相互联系（SPN: 152–53）。因此，这个党将是一个在坚定指挥之下的群众性组织。为确保“有机的”纪律，葛兰西支持“民主集中制”原则：决定可以由普通党员讨论，但一旦作出，就必须绝对服从。这样“官僚式”的僵化得以避免，而且
+    step2: |-
+      现代君主须如此组织：既与工人保持接触，又确保有纪律的领导。它将是一个由“普通的、平均的人”组成的党；其领导层“被赋予强大的凝聚、集中与纪律权力”，另有一个“中间要素”使两者保持联系（SPN: 152–53）。因此，这将是一个在坚定指挥之下的群众性组织。为确保“有机”纪律，葛兰西支持“民主集中制”：决定可由普通党员讨论，但一经作出，必须绝对服从。由此既避免“官僚式”僵化，而且
   - id: 100
     kind: body
     source: |-
       > there would be a continual adaptation of the organisation to the real movement; a matching of thrusts from below with orders from above. (SPN: 188)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 组织将不断适应实际的运动；使自下而上的推动与自上而下的命令相匹配。（SPN: 188）
+    step2: |-
+      > 组织将持续适应于实际运动；使来自下面的推动与来自上面的命令相匹配。（SPN: 188）
   - id: 101
     kind: body
     source: |-
       This hybrid of classically “Leninist” and mass-based models of the party reflected Gramsci’s concern to steer a course between sectarian closure and reformist, representational politics. Gramsci was not optimistic that ordinary members could participate effectively without strong direction from a disciplined cadre, however much he thought revolution would eventually overcome the separation of leaders and led (SPN: 144). Hegemonic strategy inevitably meant creating a new leading elite (SPN: 340) whose superior philosophy would “in the masses as such, […] only be experienced as a faith” (SPN: 339). Although some see in Gramsci’s politics the basis of a radically democratic politics (Sassoon 1987), his was not a particularly liberal conception (see Femia 1981: 172–85)[^femia-1981].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这种经典“列宁主义”模式与群众性模式的混合体，反映了葛兰西在宗派封闭与改良主义、代议制政治之间寻求路线的关切。葛兰西并不乐观地认为，普通成员在没有纪律严明的骨干的强力指导的情况下能有效参与，无论他多么相信革命终将克服领导者与被领导者的分离（SPN: 144）。霸权战略不可避免地意味着造就一个新的领导精英（SPN: 340），其更优越的哲学“在群众那里……只能作为一种信仰被经验”（SPN: 339）。尽管有人在葛兰西的政治中看到激进民主政治的基础（Sassoon 1987），但他的构想并非特别自由主义的（见 Femia 1981: 172–85）[^femia-1981]。
+    step2: |-
+      这一经典“列宁主义”模式与群众性模式的混合，反映了葛兰西在宗派封闭与改良主义代议政治之间取道的关切。他并不乐观地认为普通成员能在缺乏纪律严明的骨干强有力指导时有效参与，无论他多么相信革命终将克服领导者与被领导者的分离（SPN: 144）。霸权战略不可避免地意味着造就新的领导精英（SPN: 340），其更优越的哲学“在群众那里……只能作为一种信仰被经验”（SPN: 339）。尽管有人在葛兰西的政治中看到激进民主的基础（Sassoon 1987），他的构想却不是特别自由主义的（见 Femia 1981: 172–85）[^femia-1981]。
   - id: 102
     kind: body
     source: |-
       ## 4. Reception of the Prison Writings
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. 狱中著作的接受
+    step2: |-
+      ## 4 狱中著作的接受
   - id: 103
     kind: body
     source: |-
       Gramsci’s prison writings were first published in Italy after the Second World War: his letters from prison in 1947 (see GLP), winning the Viareggio literary prize that year; and his *Notebooks* in six, thematic volumes of selections between 1948 and 1951. A complete, “critical” edition of the *Notebooks* (in four volumes) was published in 1975 (see QC).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      葛兰西的狱中著作最初于第二次世界大战后在意大利出版：其狱中书信于 1947 年出版（见 GLP），获当年维亚雷焦文学奖；《札记》则在 1948 至 1951 年间以六个主题选集卷出版。四卷本《札记》全“校勘”版于 1975 年出版（见 QC）。
+    step2: |-
+      葛兰西的狱中著作最初在二战后的意大利出版：狱中书信 1947 年出版（见 GLP），获当年维亚雷焦文学奖；《札记》则在 1948–1951 年间以六个主题选集卷出版；四卷本“校勘”版全集于 1975 年问世（见 QC）。
   - id: 104
     kind: body
     source: |-
       The distance in time since their drafting, and the fragmented nature of the texts themselves, meant that the prison writings did not directly address the new environment into which they emerged. The meaning and implications of his thinking were therefore heavily mediated by national and geopolitical concerns through which, inevitably, the *Notebooks* were read. Over time—as his writings became available and scholarship on his thought improved—recognition of his distinctiveness as a thinker has grown around the world. Gramsci’s account of hegemony, especially, has been a highly effective resource for cultural and political analysis (see Martin 2022)[^martin-2022].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      距其写作已有很长时间，文本本身又是断片式的，这意味着狱中著作并没有直接回应它们出现的新环境。因此，其思想的意义与含义在很大程度上经由民族与地缘政治的关切而中介——《札记》不可避免地是通过这些关切被阅读的。随着时间推移——随着他的著作渐次可得、对他的思想研究改进——他在世界各地作为思想家的独特性日益得到承认。葛兰西关于霸权的论述尤其成为文化与政治分析的高效资源（见 Martin 2022）[^martin-2022]。
+    step2: |-
+      写作与出版相隔久远，文本本身又属断片，狱中著作因而并未直接回应其问世后的新环境。其思想的意义与含义，不可避免地经由民族与地缘政治的关切而中介——《札记》正是透过这些关切被阅读的。随着著作渐次出版、研究不断改进，其作为思想家的独特性在世界各地日益得到承认。尤其他关于霸权的论述，已成为文化与政治分析的高效资源（见 Martin 2022）[^martin-2022]。
   - id: 105
     kind: body
     source: |-
       Where precisely did Gramsci’s philosophical innovations lie for his later readers? Over the years, different, interpretations of Gramsci have tended to emphasize competing aspects of his thought as its philosophical “core” (see Liguori 2012 [2022])[^liguori-2012].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对后来的读者而言，葛兰西的哲学创新究竟在哪里？多年来，对葛兰西的不同解读往往把其思想的不同侧面强调为其哲学“核心”（见 Liguori 2012 [2022]）[^liguori-2012]。
+    step2: |-
+      对后来的读者来说，葛兰西的哲学创新究竟何在？多年来，各种解读倾向于把其思想的不同侧面各自强调为哲学“核心”（见 Liguori 2012 [2022]）[^liguori-2012]。
   - id: 106
     kind: body
     source: |-
       The initial reception of Gramsci’s writings was shaped by the Italian Communist Party (*Partito comunista italiano*, or PCI), particularly by its leader since the mid-1920s, Palmiro Togliatti, who emphasized their significance for a renewed communist strategy. To demonstrate allegiance to Stalin and the USSR, Togliatti presented an “acceptable” version of Gramsci that suited the PCI’s cautious post-war politics. Selective editing of the *Notebooks* downplayed overt conflict with Stalin, emphasizing Gramsci’s continuity with the Soviet philosophical orthodoxy of “dialectical materialism” and a Leninist model of revolution. However, following Stalin’s death in 1953 Togliatti underscored Gramsci’s unique formulation of Marxism and his continuity with native Italian currents of philosophy. This endorsed Togliatti’s own view of the PCI as a pragmatic, mass-based party pursuing its own “Italian road to socialism”; operating as a “collective intellectual” to mobilize the proletariat and its allies in a uniquely national and democratic project (see Togliatti 1979)[^togliatti-1979].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对葛兰西著作的最初接受，是由意大利共产党（*Partito comunista italiano*，或 PCI）塑造的，尤其是由其自 1920 年代中期以来的领导人帕尔米罗·陶里亚蒂塑造的；后者强调这些著作对革新共产主义战略的意义。为表明对斯大林与苏联的忠诚，陶里亚蒂给出了一个符合意大利共产党战后谨慎政治的“可接受”的葛兰西版本。对《札记》的选择性编辑淡化了与斯大林的公开冲突，强调葛兰西与苏联“辩证唯物主义”哲学正统以及列宁主义革命模型的连续性。然而，1953 年斯大林去世后，陶里亚蒂强调葛兰西对马克思主义的独特表述及其与意大利本土哲学流派的连续性。这为陶里亚蒂自己关于意大利共产党的观点背书：一个务实的、群众性的党，追求自己的“意大利通向社会主义之路”；充当“集体知识分子”，在一场独特的民族民主工程中动员无产阶级及其盟友（见 Togliatti 1979）[^togliatti-1979]。
+    step2: |-
+      对葛兰西著作的最初接受由意大利共产党（*Partito comunista italiano*，简称 PCI）塑造，尤其由其自 1920 年代中期起领导人帕尔米罗·陶里亚蒂塑造：他强调这些著作对革新共产主义战略的意义。为表对斯大林与苏联的忠诚，陶里亚蒂给出一个“可接受”的葛兰西版本，以配合意大利共产党战后谨慎的政治。对《札记》的选择性编辑淡化了与斯大林的公开冲突，强调葛兰西与苏联“辩证唯物主义”哲学正统及列宁主义革命模型的连续性。1953 年斯大林去世后，陶里亚蒂转而强调葛兰西对马克思主义的独特表述及其与意大利本土哲学流派的连续性——这为陶里亚蒂自己的意大利共产党观背书：一个务实的群众性政党，走自己的“意大利通向社会主义之路”，充当“集体知识分子”，在独特的民族民主工程中动员无产阶级及其盟友（见 Togliatti 1979）[^togliatti-1979]。
   - id: 107
     kind: body
     source: |-
       Now a canonical figure in Italian Marxism, Gramsci’s reading of history—particularly his view of the Risorgimento as a failed bourgeois revolution—was called into question in the late 1950s. In one notable debate, liberal historian Rosario Romeo disputed that economic conditions could have permitted the nineteenth-century bourgeoisie to act as a “Jacobin” force by mobilizing the peasantry and other subaltern classes. Gramsci’s reasoning (and, by extension, the PCI’s sense of its distinctive national strategy) was premised on a moral and political, rather than genuinely objective, interpretation of history (Liguori 2012 [2022: 121–23]; Davis 1979)[^davis-1979][^liguori-2012].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此时葛兰西已是意大利马克思主义的经典人物；他读解历史的方式——尤其是把复兴运动视为一场失败的资产阶级革命的观点——在 1950 年代后期受到质疑。在一次著名论战中，自由主义历史学家罗萨里奥·罗密欧否认经济条件能够容许十九世纪资产阶级作为“雅各宾”力量行动，去动员农民与其他从属阶级。葛兰西的推理（并延伸至意大利共产党对其独特民族战略的自我理解），乃是基于对历史的道德与政治解读，而非真正客观的解读（Liguori 2012 [2022: 121–23]；Davis 1979）[^davis-1979][^liguori-2012]。
+    step2: |-
+      此时葛兰西已是意大利马克思主义的经典人物；其历史读解——尤其是把复兴运动看作失败的资产阶级革命——在 1950 年代后期受到质疑。一次著名论战中，自由主义历史学家罗萨里奥·罗密欧否认经济条件足以让十九世纪资产阶级扮演“雅各宾”力量、去动员农民及其他从属阶级。依此，葛兰西的推理（乃至意大利共产党对其独特民族战略的自我理解）建基于对历史的道德与政治解读，而非真正客观的解读（Liguori 2012 [2022: 121–23]；Davis 1979）[^davis-1979][^liguori-2012]。
   - id: 108
     kind: body
     source: |-
       Although Romeo’s critique was disputed by Gramscian historians, from the 1960s, as more of his writings were published and translations became available, Gramsci was increasingly read independently of (and in opposition to) the PCI’s strategic concerns (see Mouffe 1979)[^mouffe-1979]. His seemingly “heretical” formulation of Marxist theory came to occupy his readers, especially as regards his debt to Crocean historicism, his ambiguous relation to materialism and to Leninism (see Bobbio 1979)[^bobbio-1979]. More widely, Gramsci’s exploration of cultural and political superstructures resulted in a tendency to categorize him as a “western” Marxist, concerned less with economic conditions or coercion and more with ideological barriers to class consciousness (see Anderson 1976, 1976–77)[^anderson-1976][^anderson-1976-2]. Hegemony was associated with a general theory of cultural and ideological domination relevant to the critique of consumer capitalism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管罗密欧的批评遭到葛兰西派历史学家的反驳，但从 1960 年代起，随着其更多著作出版、译本可得，人们越来越多地独立于（并且反对）意大利共产党的战略关切来阅读葛兰西（见 Mouffe 1979）[^mouffe-1979]。他表面上“异端的”马克思主义理论表述开始占据读者，尤其涉及其对克罗齐式历史主义的承袭、其与唯物主义及列宁主义的暧昧关系（见 Bobbio 1979）[^bobbio-1979]。更广泛地，葛兰西对文化与政治上层建筑的探索，导致人们倾向于把他归为“西方”马克思主义者——更少关心经济条件或强制，更多关心阶级意识的意识形态障碍（见 Anderson 1976, 1976–77）[^anderson-1976][^anderson-1976-2]。霸权被联系于一种文化与意识形态支配的一般理论，与对消费资本主义的批判相关。
+    step2: |-
+      罗密欧的批评虽遭葛兰西派历史学家反驳，但从 1960 年代起，随着更多著作出版、译本可得，人们越来越多地独立于意大利共产党的战略关切（甚至与之对立）来读葛兰西（见 Mouffe 1979）[^mouffe-1979]。他貌似“异端”的马克思主义表述开始占据读者：尤其涉及他对克罗齐式历史主义的承袭，以及他与唯物主义、列宁主义的暧昧关系（见 Bobbio 1979）[^bobbio-1979]。更广地说，他对文化与政治上层建筑的探索，使人们倾向于把他归入“西方”马克思主义者——较少关心经济条件或强制，较多关心阶级意识的意识形态障碍（见 Anderson 1976, 1976–77）[^anderson-1976][^anderson-1976-2]。霸权由此关联于一种文化与意识形态支配的一般理论，用于批判消费资本主义。
   - id: 109
     kind: body
     source: |-
       Through the late 1960s and 70s, as western states experienced economic and ideological crises, Gramsci’s analyses were applied separately from communist strategy or philosophical idealism. Marxist sociologists such as Nicos Poulantzas (1968 [1973]) and, later, Bob Jessop (1990) found in hegemony a resource to explore the permutations of the capitalist state and its shifting class coalitions. British Cultural Studies—especially the work of Raymond Williams and Stuart Hall—saw in Gramsci an inventive, “cultural Marxist” framework for examining popular lived experience of class domination. Debates over the functions of mass media and populist ideology, particularly with the emergence of “Thatcherism” in the 1980s, were uniquely attuned to the dynamics of hegemonic politics suggested in Gramsci’s writings (see Hall 1988; Jessop et al. 1988)[^hall-1988][^jessop-1988].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在整个 1960 年代末与 1970 年代，随着西方国家经历经济与意识形态危机，葛兰西的分析被独立于共产主义战略或哲学唯心主义加以运用。尼科斯·普兰查斯（1968 [1973]）等马克思主义社会学家，以及后来的鲍勃·杰索普（1990），在霸权中找到一种资源，用以探索资本主义国家的各种形态及其变动的阶级联盟。英国文化研究——尤其雷蒙德·威廉斯与斯图尔特·霍尔的工作——在葛兰西那里看到一种富有创造性的“文化马克思主义”框架，用以考察阶级支配的大众生活经验。关于大众媒体与民粹主义意识形态功能的争论，尤其随着 1980 年代“撒切尔主义”的出现，与葛兰西著作所提示的霸权政治的动态尤为契合（见 Hall 1988；Jessop et al. 1988）[^hall-1988][^jessop-1988]。
+    step2: |-
+      整个 1960 年代末与 1970 年代，随着西方国家经历经济与意识形态危机，葛兰西的分析被独立于共产主义战略与哲学唯心主义加以运用。马克思主义社会学家尼科斯·普兰查斯（1968 [1973]）以及后来的鲍勃·杰索普（1990），都在霸权中找到探索资本主义国家形态与阶级联盟变动的资源。英国文化研究——尤其雷蒙德·威廉斯与斯图尔特·霍尔的工作——则在葛兰西那里看到一种富有创造力的“文化马克思主义”框架，用以考察阶级支配的大众生活经验。围绕大众媒体与民粹主义意识形态功能的争论，尤其 1980 年代“撒切尔主义”兴起时的争论，与葛兰西著作所提示的霸权政治动态尤为契合（见 Hall 1988；Jessop et al. 1988）[^hall-1988][^jessop-1988]。
   - id: 110
     kind: body
     source: |-
       “Post-Marxist” approaches to hegemony from the 1980s built on the established popularity of Gramsci’s thought, particularly its application in the field of ideology studies. Ernesto Laclau and Chantal Mouffe’s *Hegemony and Socialist Strategy* (1985) recast hegemony as the theoretical basis to a strategy of “radical democracy”, aimed at unifying multiple and diverse social struggles. Drawing on “poststructuralist” philosophies, hegemony was conceived as a general principle of “discursive articulation”—the contingent formation of a collective identity—with no “necessary” foundation in economic class. For them, Gramsci’s core philosophical insight lay in demonstrating hegemony’s political “logic”, rather than any sociological concerns. They sought to discard the residual economism in his thinking and thus the automatic privilege granted by Marxism to class agency in hegemonic politics. In their view, various hegemonic formations co-exist, and a radical democratic politics does not require working class leadership.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1980 年代以来“后马克思主义”的霸权进路，建立在葛兰西思想的既有声望之上，尤其它在意识形态研究领域中的应用。埃内斯托·拉克劳与尚塔尔·墨菲的《霸权与社会主义战略》（1985）把霸权重铸为“激进民主”战略的理论基础，旨在统一多种多样的社会斗争。借助“后结构主义”哲学，霸权被构想为“话语联结”的一般原则——集体认同的偶然形成——在经济阶级中并无“必然”基础。在他们看来，葛兰西的核心哲学洞见在于证明了霸权的政治“逻辑”，而非任何社会学关切。他们试图清除其思想中的残余经济主义，从而清除马克思主义在霸权政治中赋予阶级能动性的自动优先地位。依他们之见，各种霸权构成并存，而激进民主政治并不需要工人阶级的领导。
+    step2: |-
+      1980 年代以来，“后马克思主义”的霸权进路建立在葛兰西思想的既有声望之上，尤其在意识形态研究领域的应用。埃内斯托·拉克劳与尚塔尔·墨菲的《霸权与社会主义战略》（1985）把霸权重铸为“激进民主”战略的理论基础，旨在统一多种多样的社会斗争。借助“后结构主义”哲学，霸权被构想为“话语联结”的一般原则——集体认同的偶然形成——在经济阶级中没有“必然”基础。在他们看来，葛兰西的核心哲学洞见在于揭示了霸权的政治“逻辑”，而非任何社会学关切；他们试图清除其思想中的残余经济主义，从而清除马克思主义在霸权政治中自动赋予阶级能动性的优先地位。依他们之见，各种霸权构成并存，激进民主政治并不需要工人阶级领导。
   - id: 111
     kind: body
     source: |-
       Gramsci’s *Notebooks* continued to attract scholarly interest after the demise of the Soviet Union and the dissolution of the PCI. Recent approaches have been drawn, increasingly, to the nuances and inflections in his analyses, often neglected in the tendency to focus on “hegemony” and its relation to Marxist theory. While the concept remains important, there is growing appreciation of other themes in Gramsci’s philosophy of politics and their relevance to a variety of fields. His ideas remain a source of insight for non-orthodox Marxisms (see Thomas 2009)[^thomas-2009], and his concepts have been extended to academic fields such as International Relations and Global Political Economy (see Gill 1993)[^gill-1993] and to socio-political contexts beyond Europe and the “West” (see Morton 2007; Fonseca 2016)[^fonseca-2016][^morton-2007]. Gramsci’s own experience as an internal migrant who “looked at modernity from the bottom of its peripheries” (Urbinati 1998: 371)[^urbinati-1998], and his particular attention to the struggles of “subaltern” classes in the formation of national cultures, have inspired forms of postcolonial literary criticism and politics quite at odds with the communist frame in which his ideas originated (see Srivastava & Bhattacharya 2012)[^srivastava-2012].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在苏联解体与意大利共产党解散之后，《狱中札记》继续吸引学术兴趣。晚近的进路日益被吸引到其分析的细微与曲折之处——这些往往在聚焦“霸权”及其与马克思主义理论关系的倾向中被忽视。尽管这一概念仍然重要，人们越来越多地欣赏葛兰西政治哲学中的其他主题及其对多种领域的相关性。他的思想仍是非正统马克思主义的洞见来源（见 Thomas 2009）[^thomas-2009]；其概念已被扩展到国际关系与全球政治经济学等学术领域（见 Gill 1993）[^gill-1993]，以及欧洲与“西方”之外的社会政治语境（见 Morton 2007；Fonseca 2016）[^fonseca-2016][^morton-2007]。葛兰西本人作为一名“从边缘的底层注视现代性”的内部移民的经验（Urbinati 1998: 371）[^urbinati-1998]，以及他对“从属”阶级在民族文化形成中的斗争的特别关注，启发了一些与共产主义语境大异其趣的后殖民文学批评与政治——他的观念正是在这一语境中产生的（见 Srivastava & Bhattacharya 2012）[^srivastava-2012]。
+    step2: |-
+      苏联解体、意大利共产党解散之后，《狱中札记》继续吸引学术兴趣。晚近研究日益转向其分析的细微与曲折之处——这些在聚焦“霸权”及其与马克思主义理论关系的倾向中常被忽视。该概念固然仍重要，但人们也越来越多地欣赏葛兰西政治哲学的其他主题及其对多种领域的意义。他的思想仍是非正统马克思主义的洞见来源（见 Thomas 2009）[^thomas-2009]；其概念已扩展到国际关系与全球政治经济学（见 Gill 1993）[^gill-1993]，以及欧洲与“西方”之外的社会政治语境（见 Morton 2007；Fonseca 2016）[^fonseca-2016][^morton-2007]。葛兰西本人是一位内部移民，“从边缘的底层注视现代性”（Urbinati 1998: 371）[^urbinati-1998]；他对“从属”阶级在民族文化形成中的斗争的特别关注，启发了一些后殖民文学批评与政治——它们与其观念本源的共产主义语境大异其趣（见 Srivastava & Bhattacharya 2012）[^srivastava-2012]。
   - id: 112
     kind: oir
     source: |-
       - [International Gramsci Society](http://www.internationalgramscisociety.org/)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - [国际葛兰西学会](http://www.internationalgramscisociety.org/)（International Gramsci Society）
+    step2: |-
+      - [国际葛兰西学会](http://www.internationalgramscisociety.org/)
