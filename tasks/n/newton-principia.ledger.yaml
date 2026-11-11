@@ -1447,74 +1447,98 @@ segments:
     kind: note
     source: |-
       [^note-25]: The term “dynamics,” as we now use it, derives from Leibniz (in the 1690s) and not from Newton. The word does not occur in any of the three editions of the *Principia*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-25]: 我们今天所使用的“动力学”一词来自莱布尼茨（1690 年代），而非牛顿。该词在《原理》三个版本中都没有出现。
+    step2: |-
+      [^note-25]: 我们今天所使用的“动力学”一词，源自莱布尼茨（1690 年代），而非牛顿。该词在《原理》三个版本中都没有出现。
   - id: 174
     kind: note
     source: |-
       [^note-26]: For a reconstruction of Newton's efforts from his notes, see R. S. Westfall, “Newton and the Acceleration of Gravity,” *Archive for History of Exact Sciences*, 35, 2986, pp. 255-272.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-26]: 关于依据牛顿笔记重建其工作的尝试，见 R. S. Westfall, “Newton and the Acceleration of Gravity,” *Archive for History of Exact Sciences*, 35, 2986, pp. 255-272。
+    step2: |-
+      [^note-26]: 关于从牛顿笔记重建其工作的尝试，见 R. S. Westfall, “Newton and the Acceleration of Gravity,” *Archive for History of Exact Sciences*, 35, 2986, pp. 255-272。
   - id: 175
     kind: note
     source: |-
       [^note-27]: For details of Huygens's efforts to measure surface gravity in 1659, see Joella Yoder, *Unrolling Time: Christiaan Huygens and the Mathematization of Nature*, Cambridge University Press, 1988, Chapters 3 and 4.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-27]: 关于惠更斯 1659 年测量表面重力工作的细节，见 Joella Yoder, *Unrolling Time: Christiaan Huygens and the Mathematization of Nature*, Cambridge University Press, 1988, 第 3、4 章。
+    step2: |-
+      [^note-27]: 关于惠更斯 1659 年测量表面重力之努力的细节，见 Joella Yoder, *Unrolling Time: Christiaan Huygens and the Mathematization of Nature*, Cambridge University Press, 1988, 第 3、4 章。
   - id: 176
     kind: note
     source: |-
       [^note-28]: The center of oscillation problem that Huygens addressed and solved was to determine the length of the simple pendulum, with a single point-mass bob on a massless string, that would have the same period as a pendulum with multiple point-masses as bobs or with one or more rigid bodies as bobs. The problem became celebrated after Marin Mersenne noted that the answer is not the center of gravity of the distributed mass.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-28]: 惠更斯所处理并解决的振动中心难题，是确定这样的单摆长度：无质量绳上带单个质点摆锤，其周期与带多个质点摆锤或一个以上刚体摆锤的摆相同。在马林·梅森指出答案并非分布质量的重心之后，这个问题便出了名。
+    step2: |-
+      [^note-28]: 惠更斯所处理并解决的振动中心问题，是确定这样的单摆长度：无质量绳上带单个质点摆锤，其周期与带多个质点摆锤或一个以上刚体摆锤的摆相同。在马林·梅森指出答案并非分布质量的重心之后，这个问题变得著名。
   - id: 177
     kind: note
     source: |-
       [^note-29]: For details, see the historical introduction in the first section, “The Various Principles of Dynamics,” of Part II of Lagrange's *Analytical Mechanics*, tr. A. Boissonnade and V. N. Vagliente, Dordrecht: Kluwer, 1997; or G. E. Smith, “The *Vis Viva* Dispute: A Controversy at the Dawn of Dynamics,” *Physics Today*, October 2006, pp. 31-36.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-29]: 参看拉格朗日《分析力学》第二部分第一节“动力学的各种原理”中的历史导论（A. Boissonnade 与 V. N. Vagliente 译，Dordrecht: Kluwer, 1997）；或见 G. E. Smith, “The *Vis Viva* Dispute: A Controversy at the Dawn of Dynamics,” *Physics Today*, October 2006, pp. 31-36。
+    step2: |-
+      [^note-29]: 详见拉格朗日《分析力学》第二部分第一节“动力学的各种原理”中的历史导论（A. Boissonnade 与 V. N. Vagliente 译，Dordrecht: Kluwer, 1997）；或见 G. E. Smith, “The *Vis Viva* Dispute: A Controversy at the Dawn of Dynamics,” *Physics Today*, October 2006, pp. 31-36。
   - id: 178
     kind: note
     source: |-
       [^note-30]: Strictly speaking, their logical form is “if… [then if…,then…]” where the initial antecedent involves the laws of motion or their corollaries.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-30]: 严格地说，它们的逻辑形式是“如果……[那么，如果……，则……]”，其中最初的前件涉及运动定律或其推论。
+    step2: |-
+      [^note-30]: 严格说来，它们的逻辑形式是“如果……[那么，如果……，则……]”，其中最初的前件涉及运动定律或其推论。
   - id: 179
     kind: note
     source: |-
       [^note-31]: The spiral is treated in Sections 2, 8, and 9 of Book 1.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-31]: 螺线在第一卷第 2、8、9 节中得到处理。
+    step2: |-
+      [^note-31]: 螺线在第一卷第 2、8、9 节中得到处理。
   - id: 180
     kind: note
     source: |-
       [^note-32]: Section 9 of Book 1 treats precessing orbits, with Propositions 43 and 44 providing the striking result about the relationship between precession and the inverse-cube and Proposition 45 developing this result further for the case of nearly circular orbits, that is, for orbits like those of all the then known planets and satellites.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-32]: 第一卷第九节讨论进动轨道，其中命题 43 与 44 给出关于进动与反立方关系之间关系的惊人结果，命题 45 又针对近圆轨道、即当时已知一切行星与卫星那样的轨道，进一步推进了这一结果。
+    step2: |-
+      [^note-32]: 第一卷第九节处理进动轨道，其中命题 43 与 44 给出关于进动与反立方关系之间关系的惊人结果，命题 45 又针对近圆轨道、即当时已知一切行星与卫星那样的轨道，进一步发展了这一结果。
   - id: 181
     kind: note
     source: |-
       [^note-33]: Corollaries 2 and 3 of Proposition 91, which were added to the first edition of Book 1 in the summer of 1686, in proof.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-33]: 命题 91 的推论 2 与推论 3；它们于 1686 年夏在第一卷第一版校样中加入。
+    step2: |-
+      [^note-33]: 命题 91 的推论 2 与推论 3；它们于 1686 年夏在第一卷第一版校样中加入。
   - id: 182
     kind: note
     source: |-
       [^note-34]: In the Cohen and Whitman translation, the Latin *dedi expositos* is rendered, “given explanations;” because Newton used *expositos* rather than *explanatos*, the phrase is here translated “set forth,” which is less awkward than the literal “given settings forth” or “given narrations.”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-34]: 在科恩与惠特曼的译本中，拉丁文 *dedi expositos* 译作“给出解释”；由于牛顿所用的是 *expositos* 而非 *explanatos*，此处的短语译为“阐述”，这比直译的“给出陈述”或“给出叙述”更少生硬。
+    step2: |-
+      [^note-34]: 在科恩与惠特曼的译本中，拉丁文 *dedi expositos* 译作“给出解释”；由于牛顿用的是 *expositos* 而非 *explanatos*，此处的短语译为“阐述”，这比直译的“给出陈述”或“给出叙述”更少生硬。
   - id: 183
     kind: note
     source: |-
       [^note-35]: Huygens's full solution for the central force in uniform circular motion can be found in his posthumously published “De Vi Centrifuga,” [**OH**, XV, 253-301]; the corresponding independently developed solution by Newton can be found in his “De Motu,” [**M**, 36-39] or [**U**, 273].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-35]: 惠更斯对匀速圆周运动中中心力的完整解，见其遗著“De Vi Centrifuga”，[**OH**, XV, 253-301]；牛顿独立发展的相应解，见其“De Motu”，[**M**, 36-39] 或 [**U**, 273]。
+    step2: |-
+      [^note-35]: 惠更斯关于匀速圆周运动中中心力的完整解，见其遗著“De Vi Centrifuga”，[**OH**, XV, 253-301]；牛顿独立发展的相应解，见其“De Motu”，[**M**, 36-39] 或 [**U**, 273]。
   - id: 184
     kind: note
     source: |-
       [^note-36]: That is, on the period of the pendulum remaining the same as the arc length described by the bob increases or decreases.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-36]: 换言之，当摆锤所描弧长增减时，摆的周期保持不变。
+    step2: |-
+      [^note-36]: 也就是说，摆的周期在摆锤所描弧长增减时保持不变。
   - id: 185
     kind: note
     source: |-
