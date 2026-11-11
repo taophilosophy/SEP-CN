@@ -30,7 +30,7 @@
       "status": "ok",
       "actor": "A-main-20261110b",
       "at": "2026-11-10T07:19:41Z",
-      "evidence": "二校语言打磨（接收 A5-main-20261110 在途成果并复核）：实修 69 处=script/_a_adorno_s2.py 49 处 + _a_adorno_s2b.py 20 处（长句拆分、被动改主动、真定语链改写，均仅动 step2、逐条唯一匹配断言、残余≠0 不写回）；check_prose 复检 145→78（67 de-chain + 11 long-sentence），78 条逐条判定分类豁免并留痕 specs/005-translation-campaign/results/adorno-s2-exemptions.md（源文同构学术长句 44、长引文主句/列举 11、并列形容词串 16、术语固定语 5、引文内单句 2）；lq check HARD=0（84 段守恒）；账本 step2 与 a/adorno.md 同步"
+      "evidence": "二校语言打磨（接收 A5-main-20261110 在途成果并复核）：实修 69 处=script/_a_adorno_s2.py 49 处 + _a_adorno_s2b.py 20 处（长句拆分、被动改主动、真定语链改写，均仅动 step2、逐条唯一匹配断言、残余≠0 不写回）；check_prose 复检 145→78（67 de-chain + 11 long-sentence），78 条逐条判定分类豁免并留痕 specs/005-translation-campaign/results/adorno-s2-exemptions.md（源文同构学术长句 44、长引文主句/列举 11、并列形容词串 16、术语固定语 5、引文内单句 2）；lq check HARD=0（84 段守恒）；账本 step2 与 a/adorno.md 同步；语体：现代汉语（2026-11-11 补记留痕，DR-main-20261111 全文通读复核：正文通篇为现代汉语学术书面语，偶有“堪称”“彼时”“判然有别”等书面语词，无文言句式、无成段仿古；引块与书目照录除外）"
     },
     {
       "step": "s3",

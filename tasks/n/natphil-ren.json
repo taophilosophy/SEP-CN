@@ -30,7 +30,7 @@
       "status": "ok",
       "actor": "ZCode-N-20261110",
       "at": "2026-11-10T09:52:17Z",
-      "evidence": "check_prose 34 项→0（长句拆分 28、弱动词 4、的链 3、被动被字 1，全部实修）；check_style --strict 0（先修 cjk-spacing 70 处，再修 3 项长句）；修正直接改 compose 产物，未再跑 assemble"
+      "evidence": "check_prose 34 项→0（长句拆分 28、弱动词 4、的链 3、被动被字 1，全部实修）；check_style --strict 0（先修 cjk-spacing 70 处，再修 3 项长句）；修正直接改 compose 产物，未再跑 assemble；语体：现代汉语（2026-11-11 补记留痕，依据 specs/015 results/verdicts.jsonl 既有判定：reviewer pc6-20261111，verdict=modern，证据句“正是这些对立力量之间的相互作用——毋宁说是交战——生成了自然界”）"
     },
     {
       "step": "s3",
