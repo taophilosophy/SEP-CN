@@ -2,7 +2,7 @@
   "slug": "yorck",
   "kind": "retranslate",
   "zh_doc": "y/yorck.md",
-  "state": "s1_checked",
+  "state": "s2_checked",
   "steps": [
     {
       "step": "clear",
@@ -24,6 +24,13 @@
       "actor": "Y-main-20261111",
       "at": "2026-11-11T00:39:19Z",
       "evidence": "一校对照（MTPE 顺序：先幻觉漏译增译，再术语，后语言）：①引用组逐段照录核对：CR/ST/Yorck/Gadamer/Kaufmann/Dilthey/Hegel 引用组数量与内容全守恒，3 处连接词意译（also→另见、合并简称括注 id8/36/37），作者/年份/页码零改动；②文献脚注键（dastur/fagniez/farin/ruin/gadamer/dilthey 系）lq HARD=0 全守恒；③外文碎片扫描正文 0（6 条候选全在照录区德文书名与 biblio，豁免）；④术语一致性 39 词主形全对齐登记册（grep 现查），s1 实修 1 处：id47 成形图像之自发投射→成形图像性之自发投射（[*Bildlichkeit*] 落登记主形图像性），账本 step1/step2 同步改、compose 重放；混形 0（形塑性/自我肯定/肖勒姆等 10 变体全 0）；⑤人名 38 人主形全在场、混形 0；⑥biblio_audit yorck flagged=[] 无中国文献需还原；⑦长度比无越界标旗"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "Y-main-20261111",
+      "at": "2026-11-11T01:51:52Z",
+      "evidence": "二校语言打磨（脱稿通读+逐句对照）：实修 25 处=script/_y_yorck_s2.py 22 处 + _y_yorck_s2b.py 3 处（长句拆分 6、破折号替代性用法改冒号/句号 5、被动改主动 6、弱动词恢复 4、定语链重排 4，仅动 step2、逐条唯一匹配断言、残余≠0 不写回）；check_prose 51→32，32 条逐条判定分类豁免并留痕 specs/005-translation-campaign/results/yorck-s2-exemptions.md（引文照录 4、并列术语/形容词串源文同构 8、汉语判断句 5、人名列举 1、书名固定 1、刻意对比被动链与源文同构被动 6、自然定语 7）；lq check 112 段守恒 HARD=0；账本 step2 与 y/yorck.md 同步（compose 重放）；语体结论：现代汉语学术书面语，破折号已由替代性用法改为冒号/句号，无滥用"
     }
   ],
   "blockers": [],

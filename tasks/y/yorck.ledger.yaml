@@ -8,15 +8,15 @@ params:
   timeout_s: 60
 segments:
   - id: 1
-1    kind: body
+11    kind: body
     source: |-
       Count Hans Ludwig Paul Yorck von Wartenburg (1835–1897) was a German philosopher. He is primarily known for his long collaboration with his friend Wilhelm Dilthey (1833–1911) and for his impact on Martin Heidegger (1889–1976) and Hans-Georg Gadamer (1900–2002). Together with Dilthey, Yorck was the first philosopher to elaborate the specific concept of *historicity* [*Geschichtlichkeit*] as a defining characteristic in the *ontology* of human beings. In particular, Yorck emphasized *the generic difference between the ontic and the historical*, i.e., the difference between what is seen or conceptualized (or aesthetically contemplated) as permanent nature, or essence, or idea, and the felt historical rhythm of life, i.e., life’s immersion in and belonging to the overarching and always changing waves of history. In contradistinction to Dilthey’s epistemological endeavors to clarify the foundations of the historical sciences vis-à-vis the natural sciences, Yorck aimed exclusively at the ontology of historical life, particularly the historical band (*syndesmos*) and effective connection (*virtuality*) that unites generational life. Based on the primacy of historical life, Yorck adopted a decidedly anti-metaphysical stance, rejecting all claims of knowledge *sub specie aeternitatis*. He combined this with a Christian, particularly Lutheran, conception of a historical and personal but entirely transcendent God, relative to whom each individual person, in inescapable singularity, defines his or her own life story. Yorck’s ideas were first made public in the form of a posthumous volume of his *Correspondence* with Dilthey in 1923 (Yorck 1923). Through this publication he influenced not only Heidegger (see Farin 2016, Fagniez 2013, Dastur 2011, Ruin 1994)[^dastur-2011][^fagniez-2013][^farin-2016][^ruin-1994] and Gadamer (1990), but also Misch, Rothacker, Scholem, Bultmann, Marcuse, and others. Between 1956 and 1970 various unfinished fragments of Yorck’s writings were published (see Bibliography). They contain the outline of Yorck’s systematic psychology of history and history of philosophy, as well as extensive reflections on the partial negation or suppression of temporality in thought and metaphysics (due to the inherently spatial character of representation and thought as such). These later works have not received as much attention as his earlier views in his *Correspondence* with Dilthey.
     step1: |-
       汉斯·路德维希·保罗·约克·冯·瓦滕堡伯爵（1835–1897）是德国哲学家。他之为人所知，首先在于他与朋友威廉·狄尔泰（1833–1911）的长期合作，以及他对马丁·海德格尔（1889–1976）与汉斯-格奥尔格·伽达默尔（1900–2002）的影响。约克与狄尔泰一道，是最早阐发**历史性**[*Geschichtlichkeit*]这一特定概念的哲学家，即把它当作人的**存在论**的规定性特征。约克尤其强调**存在者层面之物与历史之物的一般差别**，即：被看作或被概念化（或被审美地观照）为永恒自然、本质或理念的东西，与被感受到的生命历史节律之间的差别——所谓生命的历史节律，即生命之沉浸于并归属于那笼罩一切、不断变动的历史波涛。与狄尔泰致力于澄清历史科学相对于自然科学的认识论基础不同，约克只以历史生命的存在论为目标，尤其是把世代生命联结起来的那条历史纽带（*syndesmos*）与实效关联（*virtuality*）。基于历史生命的优先性，约克采取了一种断然反形而上学的立场，拒斥一切“永恒之相”（*sub specie aeternitatis*）下的知识主张。他又把这一点同一种基督教的、尤其是路德宗的上帝观结合在一起：这位上帝是历史的、人格的，却完全超越；相对于这位上帝，每一个人都以不可逃脱的唯一性界定自己的人生故事。约克的思想最初公之于众，是 1923 年他与狄尔泰《通信集》的身后出版（Yorck 1923）。借助这一出版物，他影响的不仅是海德格尔（见 Farin 2016, Fagniez 2013, Dastur 2011, Ruin 1994）[^dastur-2011][^fagniez-2013][^farin-2016][^ruin-1994]与伽达默尔（1990），还有米施、罗特哈克、朔勒姆、布尔特曼、马尔库塞等人。1956 至 1970 年间，约克著述的一些未完成断片陆续出版（见参考文献）。其中包含约克系统的历史心理学与哲学史的轮廓，也有关于时间性在思想与形而上学中被部分否定或抑制的广泛思考（其原因是表象与思想本身固有的空间性格）。这些晚期著作所受的关注，不如他早期《通信集》中的观点那样多。
     step2: |-
-      汉斯·路德维希·保罗·约克·冯·瓦滕堡伯爵（1835–1897）是一位德国哲学家。人们知道他，首先是因为他与友人威廉·狄尔泰（Wilhelm Dilthey，1833–1911）多年的合作，也因为他对马丁·海德格尔（Martin Heidegger，1889–1976）和汉斯-格奥尔格·伽达默尔（Hans-Georg Gadamer，1900–2002）的影响。约克与狄尔泰一道，最先阐发了 **历史性** [*Geschichtlichkeit*] 这一概念，把它当作人的 **存在论** 的规定性特征。他特别强调 **存在者层面之物与历史之物的一般差别**。所谓差别，即被看作、被概念化（或被审美观照）为永恒自然、本质或理念的东西，同生命的历史节律之间的差别：生命沉浸于、归属于那笼罩一切而不断变动的历史波涛。狄尔泰致力于澄清历史科学相对于自然科学的认识论基础；约克不同，他只以历史生命的存在论为务，尤其关注把世代生命联结起来的那条历史纽带（*syndesmos*）与实效关联（*virtuality*）。以历史生命的优先性为根基，约克持一种断然反形而上学的立场，拒斥一切“永恒之相”（*sub specie aeternitatis*）下的知识主张。与这一立场相伴的，是一种基督教的、尤其是路德宗的上帝观：上帝是历史的、人格的，却又完全超越；面对这位上帝，每一个人都在无可逃脱的唯一性中书写自己的人生故事。约克的思想最初为公众所知，靠的是 1923 年他同狄尔泰《通信集》的身后出版（Yorck 1923）。凭借这部书，他影响所及不止于海德格尔（见 Farin 2016、Fagniez 2013、Dastur 2011、Ruin 1994）[^dastur-2011][^fagniez-2013][^farin-2016][^ruin-1994]和伽达默尔（1990），还有米施、罗特哈克、朔勒姆、布尔特曼、马尔库塞等人。1956 到 1970 年间，约克著述的几部未完成断片陆续刊行（见参考文献）。这些文本既勾勒出约克那套系统的历史心理学与哲学史的轮廓，也包含大量思考，讨论时间性如何在思想与形而上学中遭到部分否定或抑制。个中缘由，在于表象与思想本身固有的空间性格。比起他早期《通信集》中的观点，这些晚期著作受到的关注要少得多。
+      汉斯·路德维希·保罗·约克·冯·瓦滕堡伯爵（1835–1897）是一位德国哲学家。人们知道他，首先是因为他与友人威廉·狄尔泰（Wilhelm Dilthey，1833–1911）多年的合作，也因为他对马丁·海德格尔（Martin Heidegger，1889–1976）和汉斯-格奥尔格·伽达默尔（Hans-Georg Gadamer，1900–2002）的影响。约克与狄尔泰一道，最先阐发了 **历史性** [*Geschichtlichkeit*] 这一概念，把它当作人的 **存在论** 的规定性特征。他特别强调 **存在者层面之物与历史之物的一般差别**。所谓差别，即：人们看作、概念化（或审美观照）为永恒自然、本质或理念的东西，同生命的历史节律之间的差别——生命沉浸于、归属于那笼罩一切而不断变动的历史波涛。狄尔泰致力于澄清历史科学相对于自然科学的认识论基础；约克不同，他只以历史生命的存在论为务，尤其关注把世代生命联结起来的那条历史纽带（*syndesmos*）与实效关联（*virtuality*）。以历史生命的优先性为根基，约克持一种断然反形而上学的立场，拒斥一切“永恒之相”（*sub specie aeternitatis*）下的知识主张。与这一立场相伴的，是一种基督教的、尤其是路德宗的上帝观：上帝是历史的、人格的，却又完全超越；面对这位上帝，每一个人都在无可逃脱的唯一性中书写自己的人生故事。约克的思想最初为公众所知，靠的是 1923 年他同狄尔泰《通信集》的身后出版（Yorck 1923）。凭借这部书，他影响所及不止于海德格尔（见 Farin 2016、Fagniez 2013、Dastur 2011、Ruin 1994）[^dastur-2011][^fagniez-2013][^farin-2016][^ruin-1994]和伽达默尔（1990），还有米施、罗特哈克、朔勒姆、布尔特曼、马尔库塞等人。1956 到 1970 年间，约克著述的几部未完成断片陆续刊行（见参考文献）。这些文本既勾勒出约克那套系统的历史心理学与哲学史的轮廓，也包含大量思考，讨论时间性如何在思想与形而上学中遭到部分否定或抑制。个中缘由，在于表象与思想本身固有的空间性格。比起他早期《通信集》中的观点，这些晚期著作受到的关注要少得多。
   - id: 2
-2    kind: body
+22    kind: body
     source: |-
       ## 1. Yorck’s Life
     step1: |-
@@ -24,7 +24,7 @@ segments:
     step2: |-
       ## 1 约克的生平
   - id: 3
-3    kind: body
+33    kind: body
     source: |-
       Count Paul Yorck von Wartenburg was born in Berlin on March 1, 1835. His grandfather was the famous Field Marshal Hans David Ludwig Yorck von Wartenburg. (The Field Marshal’s courageous signing of the Convention of Tauroggen, originally unauthorized by the king and thus in effect treasonous, started the Prussian War of Liberation against Napoleon in 1813. It made the Field Marshal Yorck a national hero.) Paul Yorck’s father, Ludwig David Yorck von Wartenburg, managed the family’s estate at Klein-Oels in Silesia (near Breslau, today Wrokław) where Paul Yorck grew up. Paul Yorck’s parents were well-connected to a number of literary, philosophical, and artistic circles in Berlin and elsewhere. They were acquainted with Friedrich Schleiermacher, Ludwig Tieck, Bettina von Arnim, Alexander von Humboldt, Karl August Varnhagen, Johann Gustav Droysen, Karl Friedrich Schinkel, and Ernst von Wildenbruch, to name but a few. The family Yorck von Wartenburg belonged to the dominant elite in Prussia and the German Empire. Yorck’s life-long enthusiasm for history and historical reality must be seen against this biographical background.
     step1: |-
@@ -32,7 +32,7 @@ segments:
     step2: |-
       保罗·约克·冯·瓦滕堡伯爵 1835 年 3 月 1 日生于柏林。祖父是鼎鼎大名的陆军元帅汉斯·大卫·路德维希·约克·冯·瓦滕堡（Hans David Ludwig Yorck von Wartenburg）。这位元帅当年毅然签署《陶罗根专约》——此举起初未经国王授权，实际上已近于叛国——由此揭开了 1813 年普鲁士反对拿破仑的解放战争，约克元帅也因此成为民族英雄。保罗·约克的父亲路德维希·大卫·约克·冯·瓦滕堡（Ludwig David Yorck von Wartenburg）经管家族在西里西亚克莱因厄尔斯（Klein-Oels）的庄园——那里邻近布雷斯劳，即今天的弗罗茨瓦夫——保罗·约克就在庄园长大。这对父母同柏林内外的许多文学、哲学与艺术圈子过从甚密。相识者有弗里德里希·施莱尔马赫（Friedrich Schleiermacher）、路德维希·蒂克（Ludwig Tieck）、贝蒂娜·冯·阿尼姆（Bettina von Arnim）、亚历山大·冯·洪堡（Alexander von Humboldt）、卡尔·奥古斯特·瓦恩哈根（Karl August Varnhagen）、约翰·古斯塔夫·德罗伊森（Johann Gustav Droysen）、卡尔·弗里德里希·申克尔（Karl Friedrich Schinkel）、恩斯特·冯·维尔登布鲁赫（Ernst von Wildenbruch），凡此种种，仅举数例。约克·冯·瓦滕堡家族位列普鲁士与德意志帝国的统治精英；约克毕生对历史与历史实在的热情，正须放在这一传记背景下来看。
   - id: 4
-4    kind: body
+44    kind: body
     source: |-
       In 1855 Paul Yorck began his university studies in law at Bonn, but soon moved to the university at Breslau where he also enrolled in philosophy courses. After passing the second law exam, Yorck published his exam essay “The Catharsis of Aristotle and Sophocles’ Oedipus of Colonus” (Yorck 1866), the only publication by him during his lifetime. When his father passed away in 1865 Yorck took over the management of the family estate at Klein-Oels. He also assumed his father’s hereditary seat in the Prussian Upper Chamber [*Herrenhaus*] where he participated in political debates. He took part in the Franco-Prussian war (1870–1871); and he was present at the Proclamation of the German Empire in the Hall of Mirrors at the Palace of Versailles in 1871.
     step1: |-
@@ -40,7 +40,7 @@ segments:
     step2: |-
       1855 年，保罗·约克进入波恩大学读法律，但不久便转入布雷斯劳大学，并顺带选读了哲学课程。通过第二次法律国家考试后，他刊行了考试论文《亚里士多德的净化与索福克勒斯的〈科洛诺斯的俄狄浦斯〉》（Yorck 1866）——这是他生前唯一的出版物。1865 年父亲去世，约克接掌克莱因厄尔斯家族庄园的经营，又继承父亲在普鲁士上院[*Herrenhaus*]的世袭议席，参与政治辩论。他投身普法战争（1870–1871）诸役；1871 年，德意志帝国在凡尔赛宫镜厅宣告成立，他躬逢其盛。
   - id: 5
-5    kind: body
+55    kind: body
     source: |-
       In the same year Yorck met Dilthey, who had been called to the University at Breslau. They quickly became friends and Dilthey was a frequent guest at Klein-Oels, often staying for prolonged working holidays. The posthumously published Dilthey–Yorck *Correspondence* (Yorck 1923) is an impressive testimony to this friendship.
     step1: |-
@@ -48,7 +48,7 @@ segments:
     step2: |-
       同年，约克结识了刚应聘到布雷斯劳大学的狄尔泰。两人很快结为朋友；狄尔泰是克莱因厄尔斯的常客，往往一住多日，边休憩边工作。身后刊行的狄尔泰—约克《通信集》（Yorck 1923），正是这份友谊的动人见证。
   - id: 6
-6    kind: body
+66    kind: body
     source: |-
       From the early 1890s Yorck worked on a manuscript on Heraclitus (Yorck 1896/97) and a book about the *Stances of Consciousness and History* (Yorck 1892–1897).[^note-1] Before his death, Yorck declared the two works unfinished and not ready for publication. Published only posthumously, they are, in the words of Karlfried Gründer (1970, 55), “sketches” of first drafts for “great philosophical books.” Paul Yorck died at Klein-Oels, September 12, 1897. His grandson, Count Peter Yorck, who had studied Yorck’s unfinished works, was a leading member of the Kreisauer Circle, the German resistance cell responsible for the failed attempt to assassinate Hitler on July 20, 1944.
     step1: |-
@@ -56,7 +56,7 @@ segments:
     step2: |-
       自 1890 年代初，约克着手写一部论赫拉克利特的手稿（Yorck 1896/97）和一部题为《意识立场与历史》的书（Yorck 1892–1897）。[^note-1] 临终前，约克声明两书俱未完成、不宜出版。两书都在他身后刊行；用卡尔弗里德·格林德（Karlfried Gründer，1970, 55）的话说，它们不过是“伟大哲学著作”初稿的“草图”。保罗·约克 1897 年 9 月 12 日卒于克莱因厄尔斯。他的孙子彼得·约克伯爵研读过祖父未完成的手稿，后来成为克莱绍圈的核心成员——正是那个德国抵抗小组，策动了 1944 年 7 月 20 日行刺希特勒的未遂行动。
   - id: 7
-7    kind: body
+77    kind: body
     source: |-
       ## 2. Correspondence with Dilthey
     step1: |-
@@ -64,7 +64,7 @@ segments:
     step2: |-
       ## 2 与狄尔泰的通信
   - id: 8
-8    kind: body
+88    kind: body
     source: |-
       When in 1923 the *Correspondence* between Yorck and Dilthey (Yorck 1923) (abbreviated hereafter as CR) was published as “a memorial” to their philosophical friendship (CR, VI), it established Yorck not only as an equal to Dilthey and a faithful interlocutor and eager co-worker on Dilthey’s project(s),[^note-2] but also as a philosopher and keen observer of his times in his own right.
     step1: |-
@@ -72,7 +72,7 @@ segments:
     step2: |-
       1923 年，约克与狄尔泰的《通信集》（Yorck 1923，下文简称 CR）作为两人哲学友谊的一座“纪念”问世（CR, VI）。这部书确立的东西有二：其一，约克堪与狄尔泰比肩，是他忠实的对话者、其事业的热忱合作者；[^note-2] 其二，约克本人就是一位哲学家、一位时代敏锐的观察者，自有其独立地位。
   - id: 9
-9    kind: body
+99    kind: body
     source: |-
       In 1892 Yorck writes to Dilthey:
     step1: |-
@@ -80,7 +80,7 @@ segments:
     step2: |-
       1892 年，约克在给狄尔泰的信中写道：
   - id: 10
-10    kind: body
+1010    kind: body
     source: |-
       > Our time portends something of an end of an epoch. A token of this is the disappearance of the elemental pleasure in historical realities. The feeling that everything passes [*Gefühl der Vergänglichkeit*] haunts the world once again. (CR, p. 140)
     step1: |-
@@ -88,7 +88,7 @@ segments:
     step2: |-
       > 我们的时代隐隐透出一种时代终结的气息。一个标记是：对历史实在的原初愉悦业已消散。万物皆逝之感[*Gefühl der Vergänglichkeit*]再度萦绕世界。（CR, p. 140）
   - id: 11
-11    kind: body
+1111    kind: body
     source: |-
       Dilthey clearly shares this sentiment. In a more extensive note about the same topic Yorck writes:
     step1: |-
@@ -96,7 +96,7 @@ segments:
     step2: |-
       狄尔泰显然同有此感。约克就同一主题写下一篇更长的札记：
   - id: 12
-12    kind: body
+1212    kind: body
     source: |-
       > It is my growing conviction that today we stand at a historical turning point similar to the one of the 15ᵗʰ century. In contradistinction to the scientific-technological progress, which consists in increased abstraction and isolation, a new formation comes into being because the human being in his entirety [*der ganze Mensch*] once again takes a stand and faces the problems of life. Every time it is a new stance towards life [*Lebensstellung*] and a new conception of it that ushers in a new epoch, not any old discovery or invention, even if it is of the greatest import. The thread on which science hangs has become so long and spun ever so thin, that now it is snapping in the face of the impetuous question: What is truth? (CR, p. 128)
     step1: |-
@@ -104,7 +104,7 @@ segments:
     step2: |-
       > 我日益确信：今天我们正站在一个历史的转折点上，情形与 15ᵗʰ 世纪相仿。科学技术的进步在于日益的抽象与隔离；与之相反，一种新的构形正在成形，因为完整的人[*der ganze Mensch*]重新挺身而立，直面种种生活问题。开启每一个新时代的，总是一种新的生活态度[*Lebensstellung*]、一种关于生活的新构想，而不是任何旧的发现或发明——无论后者多么重大。科学悬于其上的那根线，已经放得如此之长、纺得如此之细，以致在“何为真理”这一急迫问题面前，眼看就要断了。（CR, p. 128）
   - id: 13
-13    kind: body
+1313    kind: body
     source: |-
       In yet another letter, Yorck claims that, since the Renaissance, science and knowledge—abstracted from feeling and volition—have followed an eccentric trajectory, in which they have lost sight of man, resulting in profound self-alienation:
     step1: |-
@@ -112,7 +112,7 @@ segments:
     step2: |-
       在另一封信里，约克声称：自文艺复兴以来，科学与知识从情感和意志中抽身而出，沿着一条离心的轨迹越走越远，以致再也看不见人，造成深刻的自我异化：
   - id: 14
-14    kind: body
+1414    kind: body
     source: |-
       > The ripple effects caused by the eccentric principle, which ushered in a new age more than four hundred years ago, seem to me to have become exceedingly broad and flat; knowledge has advanced to the point of nullifying itself, and man has become so far removed from himself that he no longer catches sight of himself. ‘Modern’ man, that is, man since the Renaissance, is fit for the grave. (CR, p. 83)
     step1: |-
@@ -120,7 +120,7 @@ segments:
     step2: |-
       > 那个离心原理在四百多年前开启了一个新时代；它激起的层层涟漪，在我看来已摊得极宽极平。知识行进到自我取消的地步，人也远远离开了自身，再也看不见自己。“现代”人——文艺复兴以来的人——已经可以入土了。（CR, p. 83）
   - id: 15
-15    kind: body
+1515    kind: body
     source: |-
       The general thrust of these reflections and the language used are reminiscent of Nietzsche’s descriptions of the “uncanniest of all guests,” nihilism. In fact, it is the usually so cautious Dilthey who, in one of his last letters to Yorck, remarks that the true but “horrible word about the age has been announced” by no one other than Nietzsche (CR, p. 238). There is no reason to believe that Yorck would have disagreed.
     step1: |-
@@ -128,7 +128,7 @@ segments:
     step2: |-
       这些思考的总体取向与所用语言，令人想起尼采对虚无主义的描述——他称之为“一切客人中最阴森者”。说出那句真实却“可怕的时代判词”的，恰恰是一贯出言谨慎的狄尔泰本人：他在给约克的末几封信里说，道出此语的不是别人，正是尼采（CR, p. 238）。没有理由认为约克会有异议。
   - id: 16
-16    kind: body
+1616    kind: body
     source: |-
       Yorck’s and Dilthey’s awareness of an epochal shift, written some twenty years before World War I, could not fail to impress the generation of students who, in the aftermath of this European catastrophe, their predicament exacerbated by continued economic hardship and hyperinflation, returned to studying philosophy in the early 1920s. This may explain why, much later, in the 1980s, Gadamer would still speak of the enormous significance of the publication of the Dilthey–Yorck correspondence in 1923, calling it an “epoch-making moment” in its own right (Gadamer 1995, p. 8)[^gadamer-1995].
     step1: |-
@@ -136,7 +136,7 @@ segments:
     step2: |-
       约克与狄尔泰对时代转换的觉察，写于第一次世界大战之前约二十年。欧洲这场浩劫过后，又兼持续的经济困顿与恶性通货膨胀的夹击，那一代学生于 1920 年代初重返哲学之门；这样的觉察，不可能不给他们以深切触动。这或许可以解释：为什么直到很久以后的 1980 年代，伽达默尔仍然谈起 1923 年狄尔泰—约克通信出版的巨大意义，称其本身就堪称一个“划时代的时刻”（Gadamer 1995, p. 8）[^gadamer-1995]。
   - id: 17
-17    kind: body
+1717    kind: body
     source: |-
       According to Yorck, the analysis and evaluation of the contemporary intellectual-historical situation is integral to philosophy—all the more so if philosophy self-reflexively grasps its ineluctably historical nature, which in itself is one of Yorck’s main philosophical interests. The basic idea for the historicity of philosophy is fairly straightforward. For Yorck, as for Dilthey, philosophy is “a manifestation of life” [*Lebensmanifestation*] (CR, p. 250), a product or an expression in which life articulates itself in a certain way. But all life is intrinsically historical. Life is inconceivable without its historical development. Yorck writes:
     step1: |-
@@ -144,7 +144,7 @@ segments:
     step2: |-
       依约克之见，对当代思想史处境的分析与评价，本就是哲学分内之事——倘若哲学自反地把握住自身那不可避免的历史本性，就更是如此；而这种把握，恰是约克的主要哲学兴趣之一。哲学之历史性的基本观念，说来相当直白。无论对约克还是对狄尔泰，哲学都是“一种生命显现”[*Lebensmanifestation*]（CR, p. 250）：生命以某种方式分节表达自身的产物或表现。然而一切生命本质上都是历史的；抽去历史发展，生命便无从设想。约克写道：
   - id: 18
-18    kind: body
+1818    kind: body
     source: |-
       > The entire given psycho-physical reality is not something that *is*, but something that lives: that is the germ cell of historicity. And self-reflection, which is directed not at an abstract I, but the entirety of my own self, will find that I am historically determined, just as physics grasps me as determined by the cosmos. Just as I am nature, I am history. And in this decisive sense we have to understand Goethe’s dictum of [our] having lived [*Gelebthaben*] for at least three thousand years. Conversely, it follows that history as a scientific discipline exists only as psychology of history. (CR 71/72)
     step1: |-
@@ -152,15 +152,15 @@ segments:
     step2: |-
       > 整个被给予的心理—物理实在并非*存在*着的东西，而是*活着*的东西：这就是历史性的胚细胞。自我反思所对准的不是抽象的我，而是我自身这个自我的整体；它会发觉，我是被历史地规定的，正如物理学把我把握为被宇宙所规定。正如我是自然，我也是历史。歌德那句名言——[我们]已经活了[*Gelebthaben*]至少三千年——必须在这种决定性的意义上来理解。反过来也由此得出：历史作为一门科学学科，唯有作为历史心理学才存在。（CR 71/72）
   - id: 19
-19    kind: body
+1919    kind: body
     source: |-
       For Yorck, as for Dilthey, human life is incorrectly understood if it is subsumed under the generic catch-all category of “existence.” The first point is that human life is inconceivable without temporal and historical development, movement, and change; life always transcends itself, hence it never simply “is.” The mode of being for humans is “life,” not “existence.”[^note-3] And life, unlike existence, is intrinsically historical. Precisely this distinction is brought home by Yorck’s demand to always observe “the generic difference between the ontic and the historical” (CR, p. 191). The ontic is what is simply “there” without inner life, temporality, or history. It includes the physical entities in the world, as well as abstract objects, numbers, essences, ideas, etc. The “ontic” is *toto caelo* other than “the historical.” Yorck’s second point is that all history is a development of human powers or *human psychology*, where psychology does not mean some inert or fixed “nature,” but the constant play of forces, the ever shifting configurations between understanding, affectivity, and volition. (See Section 3.1 below.)
     step1: |-
       对约克如同对狄尔泰，如果把人的生命归笼到“生存”这一笼而统之的类概念之下，就误解了它。第一点：人的生命离开时间性与历史性的发展、运动与变化便不可设想；生命总是超出自身，因此它从不单纯“存在”。人的存在方式是“生命”，而不是“生存”。[^note-3] 而且，与生存不同，生命本质上是历史的。约克要求始终注意“存在者层面之物与历史之物的一般差别”（CR, p. 191），正是要让人记住这一区分。存在者层面之物是单纯“在那里”的东西，没有内在生命、时间性或历史。它包括世界中的物理实体，也包括抽象对象、数、本质、理念等等。“存在者层面之物”与“历史之物”有天壤之别（*toto caelo*）。约克的第二点是：一切历史都是人的诸种力量的展开，即*人的心理学*；这里说的心理学，不是某种惰性的、固定的“自然”，而是诸力量的恒常运作，是知性、情感性与意志之间不断变动的配置。（见下文 3.1 节。）
     step2: |-
-      无论约克还是狄尔泰都认为：把人的生命归入“生存”这个笼而统之的类概念之下，便误解了生命。第一点：人的生命若离开时间性与历史性的发展、运动与变化，便无从设想；生命总是越出自身，因而从不单纯“存在”。人的存在方式是“生命”，不是“生存”。[^note-3] 况且，生命不同于生存之处，正在于它本质上是历史的。约克要求人们始终注意“存在者层面之物与历史之物的一般差别”（CR, p. 191），为的就是记住这一区分。存在者层面之物，是单纯“在那里”的东西：没有内在生命，没有时间性，也没有历史。它既包括世界中的物理实体，也包括抽象对象、数、本质、理念等等。“存在者层面之物”与“历史之物”之间，有天壤之别（*toto caelo*）。约克的第二点是：一切历史都是人的种种力量的展开，也就是*人的心理学*的展开；这里说的心理学，不是某种惰性而固定的“自然”，而是诸力量的恒常运作，是知性、情感性与意志之间不断变动的配置。（见下文 3.1 节。）
+      无论约克还是狄尔泰都认为：把人的生命归入“生存”这个笼而统之的类概念之下，便误解了生命。第一点：人的生命若离开时间性与历史性的发展、运动与变化，便无从设想；生命总是越出自身，因而从不单纯“存在”。人的存在方式是“生命”，不是“生存”。[^note-3] 况且，生命不同于生存之处，正在于它本质上是历史的。约克要求人们始终注意“存在者层面之物与历史之物的一般差别”（CR, p. 191），为的就是记住这一区分。存在者层面之物，是单纯“在那里”的东西：没有内在生命，没有时间性，也没有历史。它既包括世界中的物理实体，也包括抽象对象、数、本质、理念等等。“存在者层面之物”与“历史之物”之间，有天壤之别（*toto caelo*）。约克的第二点是：一切历史都是人种种力量的展开，也就是*人的心理学*的展开；这里说的心理学，不是某种惰性而固定的“自然”，而是诸力量的恒常运作，是知性、情感性与意志之间不断变动的配置。（见下文 3.1 节。）
   - id: 20
-20    kind: body
+2020    kind: body
     source: |-
       In addition, Yorck emphasizes the “virtuality” or “effectivity” of history, i.e., the cumulative effects and results of individual persons exerting power and influence in transmitting the possibility and conception of life to their descendants. Successor-generations develop their own stance towards life in response to what they have inherited from the individuals and generations preceding them. History is the ongoing transmission of life’s potentiality, including the transmission of power, ideas, and material conditions.
     step1: |-
@@ -168,7 +168,7 @@ segments:
     step2: |-
       此外，约克还强调历史的“实效性”或“效能性”：个人把生活的可能性与构想传递给后代，其间行使权力、施加影响，其效应与结果累积起来，便是这种实效性。后继世代从前人与前代有所继承，又回应所继承者，发展出自己的生活态度。历史就是生命潜能的持续传递——权力在传递，观念在传递，物质条件也在传递。
   - id: 21
-21    kind: body
+2121    kind: body
     source: |-
       > The child gains through the mother’s sacrifice, her sacrifice benefits the child. Without such virtual transmission of power [*Kraftübertragung*] there is no history at all. (CR, p. 155)
     step1: |-
@@ -176,7 +176,7 @@ segments:
     step2: |-
       > 孩子经由母亲的牺牲而成长，母亲的牺牲使孩子受益。没有这种实效性的力量传递[*Kraftübertragung*]，就根本谈不上历史。（CR, p. 155）
   - id: 22
-22    kind: body
+2222    kind: body
     source: |-
       Yorck does not refer to some anonymous bio-power or power structures, as discussed in contemporary philosophy, but to the authority, sacrifice, and direct action and communication through which an individual person or groups of persons form and shape the lives and behaviours of coming generations. It is for this reason that Yorck insists that “person” is the key historical category (CR, p. 109). History is the history of historical, individual agents, projecting their power and authority into the future.
     step1: |-
@@ -184,7 +184,7 @@ segments:
     step2: |-
       约克所指的，并不是当代哲学所谈的无名生命权力或权力结构，而是权威、牺牲，以及直接的行动与交往：个别人或人群正是借此形成并塑造着后世世代的生活与行为。正因如此，约克坚持“人格”才是关键的历史范畴（CR, p. 109）。历史就是个别历史行动者的历史：他们把自己的权力与权威投向未来。
   - id: 23
-23    kind: body
+2323    kind: body
     source: |-
       Since Yorck understands history as a connecting band of ideas and conditions passed on from one person to another, and indeed from one generation to another, his position must not be associated with historicism. For Yorck, there is one continuous and common line of historical life—a living *syndesmos*. Past generations and past persons are not “outside” a present horizon in a past world of their own. Rather, they live on, as it were, in their descendents. Moreover, because of this connecting band, one can go “backwards” by way of what Yorck calls “transposition” (CR, p. 61), transposing oneself into the lives of others and thus “re-enacting,” as Dilthey would say, the positions towards life that have been lived by one’s predecessors. That life is historical means that each person is always already outside his or her own individual “nature” and placed within the historical connection to predecessor- and successor-generations. For Yorck, living self-consciousness is, to use Hegel’s fortuitous phrase, “the *I* that is *we* and the *we* that is *I*” (Hegel 1807, p. 140).
     step1: |-
@@ -192,7 +192,7 @@ segments:
     step2: |-
       既然约克把历史理解为观念与条件从一个人传向另一个人、又从一代传向另一代的联结纽带，他的立场就决不可同历史主义混为一谈。在约克那里，历史生命只有一条连续而共通的线索——一条活的*联结纽带*（*syndesmos*）。过去的世代、过去的人，并非封闭在某个属于他们自己的过去世界里，“在外”于当下视域；不如说，他们仿佛活在后代身上。再说，凭着这条联结纽带，人还可以循着约克所谓“移置”（CR, p. 61）向“后”走：把自己置入他人的生活，从而——借狄尔泰的说法——“重新体验”前人活过的种种生活态度。生命是历史的，这意思是说：每个人总是已经站在自己个别“自然”的外面，置身于联结前代与后代的历史纽带之中。约克认为，活生生的自我意识，用黑格尔那句妙手偶得的话说，就是“那个是*我们*的*我*，以及那个是*我*的*我们*”（Hegel 1807, p. 140）。
   - id: 24
-24    kind: body
+2424    kind: body
     source: |-
       Consequently, Yorck rejects from the start the transcendental method in philosophy as insufficient for grasping lived historical reality. Transcendental philosophy reduces historical life to the merely “subjective,” which misses the genuine characteristic of *Geist*, spirit or mind, namely its real, historical extension and connection. As Yorck puts it, “the transcendental method” merely suspends or sublates “the realm of the objective,” but it fails to “extend the region of *Geist*” (CR, p. 194). Insisting that “the character of subjectivity does not even reach the realm of *Geist*” (CR, p. 194), Yorck clearly implies that the “realm of history” is the proper domain for *Geist*. It follows that, despite his criticism of the narrow confines of transcendental and/or subject-centred philosophy, Yorck’s philosophical conception of history is still inscribed within the confines of *Geist*-philosophy. Following Hegel, who argues that everything hinges on the understanding that “substance is subject” (Hegel 1807, p. 19), Yorck agrees that everything hinges on the understanding that “substance is history” or “substance is historical spirit.”[^note-4]
     step1: |-
@@ -200,7 +200,7 @@ segments:
     step2: |-
       因此，约克从一开始就拒斥哲学中的先验方法，认为它不足以把握被活过的历史实在。先验哲学把历史生命还原为单纯“主观的”东西，恰恰因此错过了*精神*（*Geist*）——精神或心灵——的真正特征：它实在的、历史的延展与联结。用约克的话说，“先验方法”只是悬搁或扬弃“客观者之领域”，却未能“扩展*精神*的疆域”（CR, p. 194）。他坚持“主观性的品格甚至够不到*精神*的领域”（CR, p. 194），言下之意很清楚：“历史之领域”才是*精神*固有的领地。由此便可知：尽管批评先验哲学或主体中心哲学的狭隘藩篱，约克的历史哲学构想依然划在*精神*哲学的界限之内。黑格尔主张，一切系于“实体即主体”这一理解（Hegel 1807, p. 19）；追随黑格尔，约克同样认为，一切系于“实体即历史”或“实体即历史精神”的理解。[^note-4]
   - id: 25
-25    kind: body
+2525    kind: body
     source: |-
       Yorck’s primary category of historical life does not only challenge transcendental philosophy as too-narrow a foothold for philosophy. *A fortiori*, it also challenges the entire metaphysical tradition, which presupposes or searches for an ultimate objective reality (being, idea, substance, and so on), divorced from the ground of the always shifting historical life. Yorck rejects claims to “knowledge” *sub specie aeternitatis*. For Yorck, metaphysics is a flight from the historical reality ‘on the ground.’ By making historical life primary, Yorck effectively aims to dismantle the predominance of Greek metaphysics, including the modes of thought of modern science derived from it.
     step1: |-
@@ -208,7 +208,7 @@ segments:
     step2: |-
       约克的历史生命这一首要范畴，不只是挑战先验哲学，说它作为哲学立足点过于狭窄。更进一层（*a fortiori*），它还挑战整个形而上学传统——这一传统预设或寻求某种终极的客观实在（存在、理念、实体等），使之脱离开永远变动的历史生命这一根基。约克拒斥“永恒之相”（*sub specie aeternitatis*）之下的“知识”主张。在他看来，形而上学是从“实地”的历史实在那里逃离。他把历史生命立为第一性的东西，实际是要拆掉希腊形而上学的支配地位，连带着也拆掉由它派生的现代科学的思维方式。
   - id: 26
-26    kind: body
+2626    kind: body
     source: |-
       But Yorck is not content with just opposing metaphysics and transcendental philosophy. Instead, he attempts to instill and to cultivate historical awareness in philosophy itself, based on the principle that all productions of life are as historical as life itself. He writes: Since “to philosophize is to live,” “there is no real philosophizing which would not be historical” (CR, p. 251). More radical than Dilthey, Yorck calls for the “historicization” [*Vergeschichtlichung*] of philosophy:
     step1: |-
@@ -216,7 +216,7 @@ segments:
     step2: |-
       但约克不满足于仅仅反对形而上学与先验哲学。他要更进一步：把历史意识注入哲学自身，并在其中培育；所依的原则是，生命的一切产物都同生命本身一样是历史的。他写道：既然“哲思就是生活”，“就没有什么真正的哲学活动不是历史的”（CR, p. 251）。比狄尔泰更进一步，约克呼唤哲学的“历史化”[*Vergeschichtlichung*]：
   - id: 27
-27    kind: body
+2727    kind: body
     source: |-
       > Just as physiology cannot abstract from physics, so philosophy—especially if it is critical—cannot abstract from historicity [*Geschichtlichkeit*]. After all, the uncritical *Critique* of Kant’s can be understood historically only, and thus be overcome. [Human] behaviour and historicity are like breathing and air pressure—and—this may sound somewhat paradoxical—the failure to historicize philosophizing appears to me, in methodological respects, a metaphysical remnant. (CR, 69)
     step1: |-
@@ -224,7 +224,7 @@ segments:
     step2: |-
       > 正如生理学抽不开物理学，哲学——尤其是批判性的哲学——也抽不开历史性[*Geschichtlichkeit*]。毕竟，康德那部无批判的《批判》，只能历史地理解，也唯有如此才能被克服。[人的]行为之于历史性，犹如呼吸之于气压。还有一点——听起来也许有点悖谬——在我看来，哲学活动不作历史化，在方法论上正是一种形而上学残余。（CR, 69）
   - id: 28
-28    kind: body
+2828    kind: body
     source: |-
       It is therefore not surprising that, unlike Dilthey, Yorck specifically appreciates the emphasis on historicity [*Geschichtlichkeit*][^note-5] in Hegel and some of his followers, despite his rejection of Hegel’s speculative or ontical superstructure (CR, 59).[^note-6]
     step1: |-
@@ -232,7 +232,7 @@ segments:
     step2: |-
       因此毫不奇怪：约克不像狄尔泰，他特别赏识黑格尔及其某些后学对历史性[*Geschichtlichkeit*][^note-5]的强调，尽管他拒斥黑格尔那思辨的、存在者层面的上层建筑（CR, 59）。[^note-6]
   - id: 29
-29    kind: body
+2929    kind: body
     source: |-
       In light of the historical nature of philosophy, Yorck draws two decisive methodological inferences. First, he rejects as too rigid and untenable the opposition between theoretical or systematic philosophy and the history of ideas (CR, p. 251), because, as an ongoing historical development, philosophy always requires both a genetic and historical clarification, as well as a systematic and theoretical account. Instead of a mutually exclusive relation, Yorck sees a mutually productive combination. Second, because Yorck always includes the present situation within the domain of history, he calls for a “critical,” and not “antiquarian,” or quietistic mode of philosophizing (CR, p. 19). Speaking for Dilthey and himself, Yorck argues that this critical work of philosophy lays the groundwork for the practical intent or the historical vocation of philosophy:
     step1: |-
@@ -240,7 +240,7 @@ segments:
     step2: |-
       鉴于哲学的历史本性，约克得出两个决定性的方法论推论。其一，他拒斥理论的或体系的哲学与观念史之间的对立，认为它过于僵硬、站不住脚（CR, p. 251）。哲学是一项持续的历史发展，向来既需要发生学与历史性的澄清，也需要体系性的理论说明。约克在两者之间看到的不是互相排斥，而是相互成就的结合。其二，约克总把当下处境一并纳入历史领域，因此他呼唤一种“批判的”哲学活动方式，而不是“好古的”、寂静主义的姿态（CR, p. 19）。他代表狄尔泰与自己申言：哲学的这番批判工作，为哲学的实践意图、亦即其历史使命奠定基础：
   - id: 30
-30    kind: body
+3030    kind: body
     source: |-
       > The potential for practical application is of course the real justification for any science. Yet mathematical *praxis* is not the only kind. In practical terms, our standpoint is pedagogical in intent, in the broadest and deepest sense of the word. It is the soul of all true philosophy and the truth of Plato and Aristotle. (CR, pp. 42/ 43)
     step1: |-
@@ -248,7 +248,7 @@ segments:
     step2: |-
       > 实际应用的可能，当然是一切科学真正的立足理据。不过数学式的*实践*并非唯一一种。就实践而言，我们的立场意在教化——取的是这个词最广也最深的意义。它是一切真哲学的灵魂，是柏拉图与亚里士多德的真理。（CR, pp. 42/ 43）
   - id: 31
-31    kind: body
+3131    kind: body
     source: |-
       In the condensed and all too general format of the *Correspondence* with Dilthey, Yorck develops the practical “application” of philosophy in only the most fragmentary fashion. Its most important part is the actual clarification of the contemporary situation, the determination of the given historical possibilities, and the avenues for implementing some of them. Yorck holds that since the Renaissance and through the works of such thinkers as Galileo, Descartes, and Hobbes, the self-interpretation of life has found its centre of gravity in the cultivation of the theoretical understanding [*Verstand*]. The primacy accorded to theoretical understanding and what it projects as objective, unchangeable, and ultimate reality (metaphysical & physical) has ushered in “the natural sciences,” “nominalism,” “rationalism,” and “mechanism,” (CR, pp. 68, 63 & 155). But this has come at the exclusion of the full thematization, expression, and appreciation of human affectivity [*Gefühl*], including the underlying feeling of human connectivity through a shared life in history. Blocked-out are questions which affect the temporal, historical and personal existence of human beings, or what Yorck once calls “existential questions” [*Existenzialfragen*] (CR, p. 62), which relate to the life-goals human beings strive after, the recognition of dependency, and the awareness of human mortality, finitude, and death (CR, p. 120). The relative sidelining of these aspects in the psychology of human beings lies at the bottom of Yorck’s diagnosis of the increasing self-alienation of modern man and the crisis of his time.
     step1: |-
@@ -256,7 +256,7 @@ segments:
     step2: |-
       在与狄尔泰《通信集》那种浓缩而过于泛泛的体式里，约克对哲学之实践“应用”的展开，只是最片段式的。其中最重要的部分有三：对当代处境的实际澄清、对既予历史可能性的确定，以及落实其中某些可能性的途径。约克认为，自文艺复兴以来，经由伽利略、笛卡尔、霍布斯等思想家的著作，生命的自我解释把重心放到了理论知性[*Verstand*]的培育上。理论知性被奉为首出，连同它所投射的客观、不变而终极的实在（形而上学的与物理学的），由此引出了“自然科学”“唯名论”“理性主义”与“机械论”（CR, pp. 68, 63 & 155）。但这一切是以牺牲对人的情感性[*Gefühl*]的充分主题化、表达与赏识为代价的——那种情感性，包括人在历史中共享生活而产生的深层联结感。遭到屏蔽的问题，关涉人之时间性、历史性与人格性生存。约克一度称之为“实存问题”[*Existenzialfragen*]（CR, p. 62）：它们关乎人力求实现的生活目标、对依赖性的承认，以及对人的有死性、有限性与死亡的意识（CR, p. 120）。在人的心理图景中，这些方面被相对搁在一边；约克诊断现代人的日益自我异化、诊断其时代的危机，根子正在这里。
   - id: 32
-32    kind: body
+3232    kind: body
     source: |-
       With Dilthey, Yorck attempts to highlight the “full human being” [*den ganzen Menschen*] (CR, p. 157), as opposed to the rationalistically reduced, one-dimensional individual that has preoccupied modern philosophy and shaped modern culture. The historicization of philosophy belongs to this project, as does the acknowledgment of transcendence. According to Yorck, transcendence (CR, pp. 120, 144) facilitates the withdrawal from the world in its objective reality (as represented by thought and metaphysics). It lets human life pivot around the personal, historical, and affective dimension, foregrounding personal responsibility and accountability to the transcendent God. Against the theoretical-metaphysical stance directed at an ever present objective reality, Yorck insists on the primacy of the personal, historical relation to the transcendent God. Yorck’s dictum “Transcendence contra metaphysics!” expresses not only a very strong leitmotif in his philosophical thought (CR, p. 42); it is actually the very capstone.[^note-7] For this reason, Yorck has been interpreted as a religious existentialist (Kaufmann, 1928). This sets him apart from Dilthey. Yorck’s conception of Christianity is heavily biased in favour of Luther’s theology. According to Yorck, Luther’s anti-metaphysical, historical stance towards transcendence remains a historical task for the future development of philosophy (CR, pp. 144 & 145).
     step1: |-
@@ -264,7 +264,7 @@ segments:
     step2: |-
       与狄尔泰一道，约克试图凸显“完整的人”[*den ganzen Menschen*]（CR, p. 157），以别于那种被理性主义削平为一维的个人——现代哲学为之倾心、现代文化也由之塑形者，正是这种一维个人。哲学的历史化属于这项事业，对超越的承认亦然。在约克看来，超越（CR, pp. 120, 144）使人得以从世界抽身——从那个如思想与形而上学所表象的客观实在的世界中抽身。它让人的生活转以人格的、历史的与情感的维度为轴心，凸显人在超越上帝面前的人格责任与担当。那种理论—形而上学的姿态指向永远在场的客观实在；针对它，约克坚持：与超越上帝的人格的、历史的关系才是首出的。约克的格言“超越对抗形而上学！”不只是他哲学思想中一个极强的主导动机（CR, p. 42）；它简直就是整座建筑的顶石。[^note-7]因此，有人把约克解读为一位宗教实存主义者（Kaufmann, 1928）。这一点使他与狄尔泰分道。约克的基督教观深深偏向路德的神学：依他之见，路德对超越所取的反形而上学的历史姿态，仍是哲学未来发展面前的一项历史任务（CR, pp. 144 & 145）。
   - id: 33
-33    kind: body
+3333    kind: body
     source: |-
       Since Yorck frequently and conspicuously uses the term *Bodenlosigkeit* [groundlessness], or *bodenloses Denken* [groundless thought] to describe the one-sided intellectualism of the scientific-technological civilization since the Renaissance (CR, pp. 39, 103, 250, 230, 143), questions have been raised about Yorck’s preference for autochthony [*Bodenständigkeit*] and the political implications thereof.[^note-8]
     step1: |-
@@ -272,7 +272,7 @@ segments:
     step2: |-
       约克频频而醒目地使用*无根基性*（*Bodenlosigkeit*）、*无根基的思想*（*bodenloses Denken*）这样的字眼，来刻画文艺复兴以来科学技术文明那种单面的理智主义（CR, pp. 39, 103, 250, 230, 143）。于是有人发问：约克对扎根性[*Bodenständigkeit*]的偏好，及其政治意涵，究竟当作何解？[^note-8]
   - id: 34
-34    kind: body
+3434    kind: body
     source: |-
       ## 3. Philosophical Fragments on History and Psychology
     step1: |-
@@ -280,7 +280,7 @@ segments:
     step2: |-
       ## 3 关于历史与心理学的哲学断片
   - id: 35
-35    kind: body
+3535    kind: body
     source: |-
       More than half a century after his death, three philosophical fragments by Yorck—originally written in the last six years of his life—were published between 1956 and 1970 (see the Bibliography). The most important is entitled *Bewusstseinsstellung und Geschichte* [“Stances of Consciousness and History”] (abbreviated hereafter as ST). It addresses the sources and the development of human history, providing the philosophical underpinning and more detailed exploration of views that Yorck had mentioned in his *Correspondence* with Dilthey. The following section presents the major points of this systematic fragment.
     step1: |-
@@ -288,7 +288,7 @@ segments:
     step2: |-
       约克去世半个多世纪后，他的三部哲学断片——皆写于生命最后六年——在 1956 至 1970 年间陆续出版（见参考文献）。其中最重要的一部，题为《意识立场与历史》（*Bewusstseinsstellung und Geschichte*，英译“Stances of Consciousness and History”；下文简称 ST）。它讨论人类历史的源泉与发展，为约克在《通信集》里提过的那些观点提供哲学奠基，并作更细致的探究。下一节呈现这部体系性断片的要点。
   - id: 36
-36    kind: body
+3636    kind: body
     source: |-
       Yorck’s main aim is to provide an analysis of the underlying psychology of human life, which he considers the basis for all historical development. According to Yorck, particular configurations in the psychology of man, or stances of consciousness, determine the dominant shape of historical epochs. In other words, certain positions adopted on the level of “primary life” [*primäre Lebendigkeit*], the stances taken by consciousness within life, determine “historical life” [*historische Lebendigkeit*] at large and can define entire epochs (ST, p. 5; also pp. 52, 53). Therefore, Yorck speaks of the “psychology of history” and, the “philosophic history of philosophy” (which traces the stances of consciousness through empirical history) (ST, p. 10).
     step1: |-
@@ -296,7 +296,7 @@ segments:
     step2: |-
       约克的主要目标，是分析人生命底层的心理学；在他看来，那是一切历史发展的基础。依约克之见，人的心理学中的特定配置——或者说意识立场——决定着一个历史时代的主导形态。换言之，在“原初生命”[*primäre Lebendigkeit*]的层面上采取的某些立场，即意识在生命之中所取的立场，决定着“历史生命”[*historische Lebendigkeit*]的整体面貌，甚至足以界定整个时代（ST, p. 5；另见 pp. 52, 53）。因此，约克既谈“历史心理学”，也谈“哲学性的哲学史”——即循着经验历史追踪诸意识立场的历史（ST, p. 10）。
   - id: 37
-37    kind: body
+3737    kind: body
     source: |-
       All this is predicated on the supposition of our intuitive access to psychological or primary life through “self-reflection” [*Selbstbesinnung*]. Yorck interprets Dilthey’s insight that one cannot go beyond life to mean that one cannot surpass or transcend “the empirical givenness of self-consciousness,” which entails that philosophy is “empirical,” not speculative (ST, pp. 8, 3). Evidence can only be found in self-consciousness. What does not pass the test in one’s own life cannot count as a valid expression of life: The seat of all necessary truth is “self-experimentation” (ST, 9, also 54).[^note-9]
     step1: |-
@@ -304,7 +304,7 @@ segments:
     step2: |-
       这一切都基于一个预设：我们能够经由“自我反思”[*Selbstbesinnung*]而直观地通达心理生命或原初生命。狄尔泰有个洞见——人无法越出生命；约克把它解释为：人无法超越“自我意识的被给予性”。由此可得：哲学是“经验的”，而非思辨的（ST, pp. 8, 3）。证据只能在自我意识里找。凡在一个人自己的生活中经不起检验的，就不得算作生命的有效表达：一切必然真理的宝座，是“自我实验”（ST, 9，另见 54）。[^note-9]
   - id: 38
-38    kind: body
+3838    kind: body
     source: |-
       Not unlike Husserl, Yorck pursues, albeit without an elaborate set of methodological rules, a “re-duction” of all objectivity to self-consciousness, where self-consciousness is a living and historical structure that cannot be restricted to knowing or any other particular function of life. As Gadamer (1990, pp. 246–269) has pointed out, despite his critique of transcendental philosophy, Yorck may be read as actually expanding the transcendental focus, which traditionally used to be on knowing, so as to include the entire gamut of human experiences and their necessary conditions in human *life*. Following Dilthey, Yorck sees human consciousness as a living structure where the emphasis lies on its “aliveness,” *Lebendigkeit*, which includes not only outward-directed intentionality towards objectivity (representation and volition), but also self-awareness, and self-feeling of inner life. Close to Schleiermacher, Yorck even specifies that “the ultimate datum” in self-consciousness is “the feeling of life” [*Lebensgefühl*] itself (ST, p. 11).
     step1: |-
@@ -312,7 +312,7 @@ segments:
     step2: |-
       约克与胡塞尔不无相似：他也追求把一切客观性“还原”（re-duction）到自我意识，虽然并没有一套精巧的方法论规则。在他那里，自我意识是一个活的、历史的结构，不能局限于认识或生命的任何其他特定机能。伽达默尔（1990, pp. 246–269）指出：尽管批评先验哲学，约克其实可以被读作在扩展先验的焦点。传统上这个焦点落在认识上，约克却把它扩展开来，把人的*生命*中经验的全幅范围及其必要条件都收了进来。追随狄尔泰，约克把人的意识看作一个活的结构，其重点在“生命性”（*Lebendigkeit*）：它不仅包括指向客观性的外向意向性（表象与意志），也包括自我觉知，以及对内在生命的自我感受。约克接近施莱尔马赫，甚至指明：自我意识中的“终极所与”，就是“生命感”[*Lebensgefühl*]本身（ST, p. 11）。
   - id: 39
-39    kind: body
+3939    kind: body
     source: |-
       ### 3.1 Psychology of Life
     step1: |-
@@ -320,7 +320,7 @@ segments:
     step2: |-
       ### 3.1 生命心理学
   - id: 40
-40    kind: body
+4040    kind: body
     source: |-
       According to Yorck, life is divided and articulated in itself, namely as an ongoing process of self-differentiation relative to others and the environment. Yorck writes:
     step1: |-
@@ -328,7 +328,7 @@ segments:
     step2: |-
       依约克之见，生命在自身之内就有所划分、有所分节：它是一个相对于他者与环境而持续自我分化的过程。约克写道：
   - id: 41
-41    kind: body
+4141    kind: body
     source: |-
       > The primary and exclusive datum is self-consciousness, which, although divided [*dirimiert*] into self and other, soul and lived body [*Leib*], I and world, inner and outer, is nonetheless, polarity [*Gegensätzlichkeit*] and articulateness [*Gegliedertheit*] in one. But self-consciousness experiences itself in the play and counter-play of its constitutive factors, that is, as something alive [*ein Lebendiges*]. This aliveness is the basic constitution. (ST, p. 8)
     step1: |-
@@ -336,7 +336,7 @@ segments:
     step2: |-
       > 首要而独有的所与是自我意识。它虽被分裂[*dirimiert*]为自我与他者、灵魂与活的身体[*Leib*]、我与世界、内与外，却依旧集对立性[*Gegensätzlichkeit*]与分节性[*Gegliedertheit*]于一身。自我意识在其诸构成要素的运作与反运作之中经验自身——也就是说，作为某种活着的东西[*ein Lebendiges*]经验自身。这种生命性就是基本构成。（ST, p. 8）
   - id: 42
-42    kind: body
+4242    kind: body
     source: |-
       But there is no way that this aliveness can ever be grasped in its purity outside the fundamental differentiation. The antithetical division in “self” and “other” is so fundamental that one cannot go back behind it.
     step1: |-
@@ -344,7 +344,7 @@ segments:
     step2: |-
       不过，一旦离开这一根本分化，这种生命性便绝无可能在其纯粹状态中被把握。“自我”与“他者”的对立划分如此根本，人不可能退到它背后去。
   - id: 43
-43    kind: body
+4343    kind: body
     source: |-
       > The separation [*Trennung*] of self and other, I and world, soul and lived body [*Leib*] is such an early separation, indeed, the first act of life, as it were, such that these derivatives appear as absolute, autonomous, and self-sufficient. (ST, pp. 11/12)
     step1: |-
@@ -352,7 +352,7 @@ segments:
     step2: |-
       > 自我与他者、我与世界、灵魂与活的身体[*Leib*]之间的分离[*Trennung*]，是这样早的一场分离——简直堪称生命的第一行为——以致这些衍生之物显得绝对、自主而自足。（ST, pp. 11/12）
   - id: 44
-44    kind: body
+4444    kind: body
     source: |-
       Yorck concludes: “The self is only through the other, just as the other is only through the self” (ST, p. 11).
     step1: |-
@@ -360,7 +360,7 @@ segments:
     step2: |-
       约克的结论是：“自我唯有通过他者才成其为自身，正如他者唯有通过自我才成其为自身。”（ST, p. 11）
   - id: 45
-45    kind: body
+4545    kind: body
     source: |-
       Yet “life” remains the primary datum for Yorck. Reminiscent of German Idealism, particularly Hegel and Hölderlin, Yorck understands life as “differentiated unity” [*differenzierte Einheitlichkeit*] (ST, p. 38). Life explicates itself in form of an inner division and polarity. Each stance of life is a particular configuration of life’s original division [*Urtheil* or *Urtheilung*] (ST, p. 25). Yorck writes:
     step1: |-
@@ -368,7 +368,7 @@ segments:
     step2: |-
       然而在约克那里，“生命”仍是首要的所与。约克对生命的理解，令人想起德国观念论——尤其是黑格尔与荷尔德林：生命是“有差别的统一性”[*differenzierte Einheitlichkeit*]（ST, p. 38）。生命以内在划分与对立的形式展开自身；生命的每一种态度，都是生命之原初划分[*Urtheil* 或 *Urtheilung*]的一种特定配置（ST, p. 25）。约克写道：
   - id: 46
-46    kind: body
+4646    kind: body
     source: |-
       > Observation shows that primary life manifests a double diremption into [1] polarity [*Gegensätzlichkeit*] and [2] difference [*Verschiedenheit*], such that the character of polarity permeates and determines the elements of the articulation. (ST, p. 10)
     step1: |-
@@ -376,7 +376,7 @@ segments:
     step2: |-
       > 观察表明，原初生命显现为一种双重分裂：分为[1]对立性[*Gegensätzlichkeit*]与[2]差异性[*Verschiedenheit*]；对立性的品格渗透并规定着分节的诸要素。（ST, p. 10）
   - id: 47
-47    kind: body
+4747    kind: body
     source: |-
       Life *articulates* or expresses itself *differently* in three “functions” or “comportments” [*Verhaltungen*], as life is lived in [1] “feeling” [*Empfinden*] or affectivity, [2] “willing” [*Wollen*], and [3] “cognizing” [*Vorstellen*] (ST, 32). Life is *divided* between the two antithetical or opposite poles of spontaneity and dependence (ST, p. 9), which, applied to the different comportments or functions of life, yields [1] the tension between motivation and spontaneity in volition, [2] the opposition in cognition between objective, matter-of-fact representation [*Sachlichkeit*] and spontaneous projection of formed images [*Bildlichkeit*] as the object of knowledge, and [3] the polarity between dependence on others versus ownness [*Eigenheit*] in the domain of affectivity (ST, p. 32).
     step1: |-
@@ -384,7 +384,7 @@ segments:
     step2: |-
       生命以三种“机能”或“行为方式”[*Verhaltungen*]，*各不相同地*分节并表达自身：生命或是活在[1]“感觉”[*Empfinden*]、亦即情感性之中，或是活在[2]“意愿”[*Wollen*]之中，或是活在[3]“表象”[*Vorstellen*]之中（ST, 32）。生命*被划分*在自发性与依赖性这两个对立的两极之间（ST, p. 9）；将此施于生命的诸种行为方式或机能，便得出三重结果：[1]意愿之中动机与自发性之间的张力；[2]认知之中客观而实事性的表象[*Sachlichkeit*]，同作为知识对象的成形图像性之自发投射[*Bildlichkeit*]之间的对立；[3]情感性领域中依赖他人与己有性[*Eigenheit*]之间的对立（ST, p. 32）。
   - id: 48
-48    kind: body
+4848    kind: body
     source: |-
       Yorck claims that the three psychological “functions” or comportments circumscribe the fixed and unalterable “natural ground” [*Naturboden*], or the parameters within which all human history is played out (ST, p. 26). There is no history without such fixed reference points. The economy of the three functions is not fixed (unlike the functions as such), but is always open to the play of shifting configurations and imbalances (ST, p. 24 & 54). More specifically, the three functions are neither reducible to each other nor derivable from another source, making them in effect equiprimordial. However, they stand in a variable and inverse relationship to each other, where the relative preponderance of one function is offset by the relative subordination of the remaining ones, but at no time can any particular function be cancelled out altogether (ST, p. 98). This inverse relationship, coupled with the internal polarity within each function, accounts for “the restlessness of primary life” (ST, p. 32). Since life does not exist in some generality, but only as a particular configuration or alignment of its functions, the overall “totality” of the shape of a particular life is always determined by a pre-dominant position of one of its functions (ST, p. 55). This onesidedness, which necessarily fails to express life in its “entire fullness”[^note-10] (ST, p. 54), results in the instability of each particular shape of consciousness. Each real configuration of consciousness and its particular bias to one function, as well as one of the antithetical poles within, lends itself to a new transformation, without ever reaching a stable or final state. Since “historical life” is nothing other than “primary life” writ large, Yorck holds that this inbuilt instability and restlessness in primary life also constitutes the “motor of history” (ST, 33). (See Section 3.2 below.)
     step1: |-
@@ -392,7 +392,7 @@ segments:
     step2: |-
       约克主张，这三种心理“机能”或行为方式，划出了一块固定而不可更易的“自然基地”[*Naturboden*]——也就是一切人类历史得以上演的那组参数（ST, p. 26）。没有这样的固定参照点，历史便无从谈起。三种机能之间的配比并非固定（机能本身才是固定的），它始终敞开于配置移动与失衡起伏的游戏（ST, p. 24 & 54）。确切地说，三种机能既不能相互还原，也无法从别的源头导出，就此而言它们同等原初。但它们彼此处在一种可变而反向的关系中：某一机能占优势，总伴随着其余机能的相对从属，彼此抵偿；而任何时候，任何一种机能都不可能被全然取消（ST, p. 98）。这种反向关系，再加上每种机能内部固有的对立性，便说明了“原初生命的躁动不宁”（ST, p. 32）。生命并不以某种普遍性的形式存在，只作为诸机能的一种特定配置或编配而存在；因此，一个特定生命之形态的总体“总体性”，总是由其中某一机能的占先地位所决定（ST, p. 55）。这种片面性必然表达不出生命“整全的充盈”[^note-10]（ST, p. 54），其结果是：意识的每一种特定形态都不稳定。每一个现实的意识配置，都带着对某一机能、乃至对内部两极之一的特定偏倚，因而都容许新的转变，从不抵达稳定或终极的状态。既然“历史生命”无非是放大了规模的“原初生命”，约克便认为：原初生命这种固有的不稳定与躁动不宁，同样构成“历史的发动机”（ST, 33）。（见下文 3.2 节。）
   - id: 49
-49    kind: body
+4949    kind: body
     source: |-
       Yorck holds that two functions of life, willing and cognition, are “eccentric;” they pursue objects that are projected outside the felt interiority of self-consciousness (ST, p. 120). Concerning representation or cognition, Yorck writes:
     step1: |-
@@ -400,7 +400,7 @@ segments:
     step2: |-
       约克认为，生命的诸机能中有两个——意愿与认知——是“离心的”：它们所追逐的对象，投射在自我意识那被感受到的内在性之外（ST, p. 120）。至于表象或认知，约克写道：
   - id: 50
-50    kind: body
+5050    kind: body
     source: |-
       > Self-reflection reveals representation [*Vorstellen*] as an act of exteriorization, as a projection, which therefore is primarily marked by its opposition to feeling. The feature of projection, [i.e.,] expulsion from within [*innere Entfernen*], being the characteristic element of all representation, is spatialization [*Verraümlichung*] as such. (ST, p. 70)
     step1: |-
@@ -408,7 +408,7 @@ segments:
     step2: |-
       > 自我反思揭示：表象[*Vorstellen*]是一种外化行为，一种投射；因此它首先以同情感的对立为标记。投射这一特征——[亦即]从内部的逐出[*innere Entfernen*]——是一切表象的特征性要素，它就是空间化[*Verraümlichung*]本身。（ST, p. 70）
   - id: 51
-51    kind: body
+5151    kind: body
     source: |-
       Spatialization is thus necessary for representation or the work of the understanding, thought. By contrast, temporality (located in affectivity) is not at all necessary for cognition or representation:
     step1: |-
@@ -416,7 +416,7 @@ segments:
     step2: |-
       因此，对于表象、亦即知性的工作——思想——空间化是必不可少的。相反，时间性（它位于情感性之中）对于认知或表象，却全然不是必需的：
   - id: 52
-52    kind: body
+5252    kind: body
     source: |-
       > Thought can abstract from temporality. Indeed, every act of thought contains […] an abstraction from [temporality], inasmuch as thought involves an expropriation [of inner feeling]. By contrast, spatiality is the precondition of all thought.[^note-11] (ST, p. 147)
     step1: |-
@@ -424,7 +424,7 @@ segments:
     step2: |-
       > 思想能够抽离时间性。其实，思想的每一个行为都包含着对[时间性]的抽离，因为思想总已含着一种[对内在情感的]褫夺。相反，空间性才是一切思想的先决条件。[^note-11]（ST, p. 147）
   - id: 53
-53    kind: body
+5353    kind: body
     source: |-
       All thought is inherently spatial, representing objects at a distance in space: “Spatiality is the basic character of all thought” (ST, p. 119). According to Yorck, thought or cognition may abstract from particular characters of space, such as “direction” and “place,” but it cannot do without the projective opening of spatiality as such (ST, p. 100). And Yorck suggests that it is the inherent spatiality in all thought which, within the intellectualist tradition of the West, has rendered “space” an unsurpassable “metaphysical” reality, or transcendental condition of reality as such (ST, p. 100). Since thought or cognition is an achievement of life in abstraction from temporality and feeling, space itself appears as eternal, neutral exteriority.
     step1: |-
@@ -432,7 +432,7 @@ segments:
     step2: |-
       一切思想都固有空间性：它在空间中隔距地表象对象。“空间性是一切思想的基本品格”（ST, p. 119）。依约克之见，思想或认知可以抽离空间的特定性质——比如“方向”与“位置”——却离不开空间性本身的投射性敞开（ST, p. 100）。约克进而提示：正是思想中固有的空间性，在西方的理智主义传统之内，把“空间”抬举为一种不可超越的“形而上学”实在，即实在自身的先验条件（ST, p. 100）。既然思想或认知是生命抽离时间性与情感的一项成就，空间自身便显现为永恒而中立的外在性。
   - id: 54
-54    kind: body
+5454    kind: body
     source: |-
       Yorck emphasizes that cognition of objects in space amounts to an act of “liberation,” because what has been “placed” at a “psychological distance” in the realm of an eternal, and neutral objectivity has lost its power over the representing subject, has no impact on the person’s affectivity, and can no longer excite the feeling that everything passes away (ST, p. 74).
     step1: |-
@@ -440,7 +440,7 @@ segments:
     step2: |-
       约克强调：对空间中对象的认知，相当于一种“解放”行为——那被“安放”在“心理距离”之外、归入永恒而中立的客观性领域的东西，已经丧失了对表象主体的支配力；它触动不了这个人的情感性，也再激不起那种万物皆逝之感（ST, p. 74）。
   - id: 55
-55    kind: body
+5555    kind: body
     source: |-
       There is thus a positive correlation between cognition and volition. Cognitive projection is already an attempt to gain a foothold relative to “the flight of impressions, appearances, and strivings,” and the fixation of an object in space goes hand in hand with the search for self-constancy and “self-affirmation” [*Selbstbehauptung*] (ST, p. 66). Therefore, Yorck holds that philosophy and science, as cognitive comportments in life, are rooted in the striving for self-affirmation. He thus attributes an eminent ethical impetus to them. “Freedom” and “autonomy” are the psychological motivation for philosophy and science (ST, p. 42).
     step1: |-
@@ -448,7 +448,7 @@ segments:
     step2: |-
       于是，认知与意志之间有一种正向的关联。认知性投射本身已是一种尝试：相对于“印象、显象与追求的飞逝”而求取立足点。把对象固定于空间，与寻求自我持恒、寻求“自我坚持”[*Selbstbehauptung*]携手并行（ST, p. 66）。因此约克认为，哲学与科学作为生命中的认知性行为方式，植根于自我坚持的追求；他由此赋予二者一种卓越的伦理冲动。“自由”与“自主”，正是哲学与科学的心理动机（ST, p. 42）。
   - id: 56
-56    kind: body
+5656    kind: body
     source: |-
       In contrast to cognition and volition, which are “eccentric” and directed towards the “outer,” feeling or affectivity [*Gefühl* or *Empfindung*] is the awareness of inwardness or interiority. Yorck writes: “The essence of the inner [*des Innen*] is feeling [*Empfindung*]” (ST, p. 71). At the limit, feeling is object-less and an immersion in subjective life. As Yorck explains, feelings are only secondarily attached to objects. Pain or pleasure, for instance, has no “representational content” [*Vorstellungsinhalt*]. Yorck writes: When “I feel, I stay within me” (ST, 71)—*chez moi*, *bei mir*. Feeling is only minimally projective. However, since polarity permeates all psychological functions, Yorck is quick to recognize “a relation” to the other, for there is no “inner” without an “outer.”[^note-12] But the centre of feeling or affectivity is the sphere of one’s own, pure interiority, not as representation, but as something felt. Therefore, it is the actual seat of “all things personal” [*alles Persönliche*], the innermost centre of personal life (ST, p. 85). It is the “central” and immediate pulse of life, antecedent to the objectifications by cognition and volition (ST, p. 14). Yorck writes: “The relation of self to feeling is more immediate” than the subject’s relation to representation (ST, p. 99). Since the personal is something *felt* in the interiority of one’s life, and not something *thought* or represented and projected outwards, Yorck concludes that self-relation is not cognitive in the first place; it is not “knowledge” (ST, p. 72). Therefore, Yorck also finds it a misguided effort “to grasp natural and historical communities by means of representation,” because it misses the felt personal attachment, which alone lends reality to the historical connectivity and relation (ST, p. 72). Already in the *Correspondence*, Yorck had stated that “historical reality is a reality of feeling [*Empfindungsrealität*]” (CR, p. 113).
     step1: |-
@@ -456,7 +456,7 @@ segments:
     step2: |-
       认知与意志是“离心的”，指向“外部”；与之相对，情感或情感性[*Gefühl* 或 *Empfindung*]是对内在性、对内里的觉知。约克写道：“内在者[*des Innen*]的本质是感觉[*Empfindung*]”（ST, p. 71）。在极限处，情感没有对象，只是沉浸于主观生命。正如约克所解释的，情感只是次级地系于对象：比如痛苦或快乐，并没有“表象内容”[*Vorstellungsinhalt*]。约克写道：当“我感受时，我守于我之内”（ST, 71）——我守在自己这里（*chez moi*，*bei mir*）。情感的投射性微乎其微。不过，既然对立性渗透着一切心理机能，约克随即承认与他者的“一种关系”——没有“外部”，就没有“内部”。[^note-12] 但情感或情感性的中心，毕竟是一个人自己那纯粹的内在性领域：不是作为表象，而是作为被感觉到的某物。因此，它是“一切人格性之物”[*alles Persönliche*]真正的居所，是人格生活最深的中心（ST, p. 85）。它是生命“中心的”、直接的脉搏，先于认知与意志的对象化（ST, p. 14）。约克写道：“自我与情感的关系更为直接”，胜过主体对表象的关系（ST, p. 99）。人格性的东西既然是在一个人生命的内在性中被*感受到*的，而不是被*思想*、被表象、被投射出去的，约克便得出结论：自我关系首先就不是认知性的；它不是“知识”（ST, p. 72）。因此约克还认为，“借表象去把握自然共同体与历史共同体”是一种误入歧途的努力：它错失了被感到的人格性依恋，而唯有这种依恋，才赋予历史的联结与关系以实在（ST, p. 72）。早在《通信集》中，约克就已申明：“历史实在是一种感觉实在性[*Empfindungsrealität*]”（CR, p. 113）。
   - id: 57
-57    kind: body
+5757    kind: body
     source: |-
       Next, Yorck also claims that “time originates in feeling” (ST, p. 135). But as feeling is non-projective, it follows that, originally, “temporality” is not “objective”[^note-13] (ST, 146). Yorck distinguishes between the feeling of transitoriness, i.e., that everything passes away [*Vergänglichkeitsgefühl*] (ST, p. 33), and the feeling or awareness of one’s own mortality [*Sterblichkeitsgefühl*][^note-14] (ST, p. 90). Acquiescence into one’s own mortality constitutes the opposite pole to self-affirmation: “self-renunciation” [*Selbsthingabe*] (ST, p. 14), which is thus distinct from and even antithetical to the ethical impetus in philosophy and science. Yorck argues that the inversion of volitional and cognitive projection in feeling and its concentration in pure, passive interiority amounts to a “religious comportment” and the feeling of dependency (ST, 121). To the extent that the religious concentration of life in interiority is inversely related to projective representation, Yorck understands religious life in terms of its “freedom from the world” or *Weltfreiheit* (ST, p. 81 & 112). Psychologically, freedom from the world is the precondition for the consciousness of a world-transcendent God, or the consciousness of transcendence (ST, p. 105). Yorck only hints at the projection *sui generis* involved in transcendence. But it is a projection that has no cognitive or volitional content: God is intended without becoming “an object,” and willing becomes a “non-willing,” albeit without loss of energy (ST, 104).
     step1: |-
@@ -464,7 +464,7 @@ segments:
     step2: |-
       再者，约克主张“时间起源于情感”（ST, p. 135）。情感既然是非投射的，由此可知：“时间性”原本就不是“客观的”[^note-13]（ST, 146）。约克区分了两种感受：其一是无常感——万物皆逝之感[*Vergänglichkeitsgefühl*]（ST, p. 33）；其二是对自身有死性的感觉与意识[*Sterblichkeitsgefühl*][^note-14]（ST, p. 90）。默认自己的有死性，构成了自我坚持的另一极：“自我交付”[*Selbsthingabe*]（ST, p. 14）；它因而区别于哲学与科学的伦理冲动，甚至与之对立。约克认为：意愿性与认知性的投射在情感中倒转过来，凝聚于纯粹而被动的内在性，这就相当于一种“宗教性行为方式”与依赖感（ST, 121）。宗教生命凝聚于内在性，恰与投射性表象成反比；正是在这一限度内，约克用“脱离世界”、亦即 *Weltfreiheit* 来理解宗教生命（ST, p. 81 & 112）。在心理学层面上，脱离世界是超世界上帝意识、亦即超越意识的先决条件（ST, p. 105）。至于超越所涉及的那种独成一类的投射（*sui generis*），约克只是略作暗示。但那是一种没有认知内容、也没有意志内容的投射：上帝被意指而不成为“对象”；意愿变成“不意愿”，却不因此丧失力量（ST, 104）。
   - id: 58
-58    kind: body
+5858    kind: body
     source: |-
       Drawing on Dilthey and Schleiermacher, Yorck argues that the immediate and indubitable reality of life is exclusively “guaranteed” through volition and affectivity alone. Yorck writes: “That which opposes me or that which I feel, I call real,” because I cannot doubt what resists my will or affects my personal life, whereas it is always possible to doubt objects neutrally represented in space outside me (ST, p. 89). What is thought and grasped as an unchanging, stable and self-same object in the space of thought does not affect me or solicit a desire. For Yorck, cognition, in abstraction from feeling and volition, is the realm of pure “phenomenality,” which is always open to doubt in virtue of its being merely represented or thought (ST, p. 88). Because “the category of reality is a predicate of feeling and willing” alone (ST, p. 128), Yorck concludes that it is an “utterly uncritical” and self-contradictory undertaking to attempt to prove “the reality of the world” by means of the understanding (ST, p. 129). What Yorck writes to Dilthey in a more general vein is also applicable to this particular problem:
     step1: |-
@@ -472,7 +472,7 @@ segments:
     step2: |-
       约克援引狄尔泰与施莱尔马赫，主张生命那直接而无可怀疑的实在，唯独通过意志与情感性才得到“担保”。约克写道：“凡对抗我的东西，或我所感觉的东西，我称之为实在。”理由在于：抵抗我的意志、触动我人格生活的东西，我无法怀疑；而对于在我之外的空间里被中立表象的那些对象，怀疑始终可能（ST, p. 89）。在思想空间中被思想、被把握为不变、稳定而自同的对象，触动不了我，也唤不起欲望。对约克来说，认知一旦抽离情感与意志，就成了纯粹“现象性”的领域：它只是被表象或被思想的，因此始终可以对之怀疑（ST, p. 88）。既然“实在范畴是情感与意愿的谓词”（ST, p. 128），约克便得出结论：试图凭知性证明“世界的实在性”，是一项“全然无批判”且自相矛盾的事业（ST, p. 129）。约克以更一般的笔调写给狄尔泰的话，同样适用于这个具体问题：
   - id: 59
-59    kind: body
+5959    kind: body
     source: |-
       > Thinking moves in circles and the people appear to me like flies which always bump into the window pane when they try to get out into the open. Someone has got to open the window, but much work and leisure is required for that.[^note-15]
     step1: |-
@@ -480,7 +480,7 @@ segments:
     step2: |-
       > 思想绕着圈子打转；人们在我看来活像苍蝇，一心想飞向户外，却总撞在窗玻璃上。总得有人来把窗子打开——可这需要多少功夫与闲暇。[^note-15]
   - id: 60
-60    kind: body
+6060    kind: body
     source: |-
       ### 3.2 History of Life
     step1: |-
@@ -488,15 +488,15 @@ segments:
     step2: |-
       ### 3.2 生命的历史
   - id: 61
-61    kind: body
+6161    kind: body
     source: |-
       According to Yorck, the characteristics of human psychology and the economy of primary life delimit the course of history, since historical life merely repeats or amplifies the primary stances of consciousness. Although there is thus a natural ground for history, Yorck is at pains to emphasize that the three psychological functions outline “possibilities” only, without any inbuilt teleology or fixed equilibrium, or a relation to “an unchanging *ordo*” as a permanent backdrop for history (ST, p. 4). Against such approximations of history to nature, Yorck argues for a thoroughly historical conception of the historical: “History has nothing of the isolation [*Selbständigkeit*] of the natural [order]” (ST, p. 6), but rather, in each of its phases, history is self-reflexively involved in its own historicity—“as the ferment of its aliveness”—and thus opens itself to the ever new “historical *contrapposto*” (ST, p. 6). Nothing is exempt from historical change. Philosophical categories through which the world is understood are historical products of life and hence inextricably bound up with the historicity of humankind. For instance, Yorck explicitly claims that the category of “being” is itself “a result of life” (ST, p. 8). This liberates history from all relation to an unchanging, fixed point of reference outside historical life.[^note-16]
     step1: |-
       依约克之见，人类心理学的特征与原初生命的配比划定了历史的进程，因为历史生命只是重演或放大原初的意识立场。虽然历史因此有一个自然基地，约克却着力强调：三种心理机能只勾画出一些“可能性”，其中没有任何内置的目的论或固定均衡，也没有与“不变的*秩序*（*ordo*）”的关系——仿佛历史有一个永久背景（ST, p. 4）。针对这类把历史自然化的取径，约克主张一种彻底历史的、关于历史的概念：“历史丝毫没有自然[秩序]的那种自立性[*Selbständigkeit*]”（ST, p. 6）；毋宁说，在它的每一个阶段，历史都自反地牵涉于自身的历史性之中——“作为其生命性的酵素”——从而向不断更新的历史“对置”（*contrapposto*）敞开自己（ST, p. 6）。没有什么能豁免于历史变化。人们借以理解世界的哲学范畴，是生命的历史产物，因而与人类的历史性难解难分。例如，约克明确主张，“存在”范畴本身就是“生命的一个结果”（ST, p. 8）。这就把历史从它与历史生命之外某个不变的、固定的参照点的一切关系中解放出来。[^note-16]
     step2: |-
-      依约克之见，人类心理学的特征与原初生命的配比，划定了历史的进程：历史生命不过是重演或放大原初的意识立场罢了。历史固然因此有它的自然基地，约克却极力强调：三种心理机能只勾画出一些“可能性”，其中没有任何内置的目的论或固定均衡，也没有同“不变的*秩序*（*ordo*）”的关系，并不把历史系于一块永久的背景板（ST, p. 4）。针对这类把历史自然化的取径，约克主张一种彻底历史的“历史”概念：“历史丝毫没有自然[秩序]的那种自立性[*Selbständigkeit*]”（ST, p. 6）。毋宁说，在它的每一个阶段，历史都自反地牵涉于自身的历史性之中——“作为其生命性的酵素”——从而向不断更新的历史“对置”（*contrapposto*）敞开自己（ST, p. 6）。没有什么能豁免于历史变化。人们借以理解世界的哲学范畴，是生命的历史产物，因而与人类的历史性难解难分。比如，约克明确主张：“存在”范畴本身就是“生命的一个结果”（ST, p. 8）。如此一来，历史便从它与历史生命之外某个不变而固定的参照点的一切关系中解放出来。[^note-16]
+      依约克之见，人类心理学的特征与原初生命的配比，划定了历史的进程：历史生命不过是重演或放大原初的意识立场罢了。历史固然因此有它的自然基地，约克却极力强调：三种心理机能只勾画出一些“可能性”，其中没有任何内置的目的论或固定均衡，也没有同“不变的*秩序*（*ordo*）”的关系。历史背后，并无一块永久的背景板（ST, p. 4）。针对这类把历史自然化的取径，约克主张一种彻底历史的“历史”概念：“历史丝毫没有自然[秩序]的那种自立性[*Selbständigkeit*]”（ST, p. 6）。毋宁说，在它的每一个阶段，历史都自反地牵涉于自身的历史性之中——“作为其生命性的酵素”——从而向不断更新的历史“对置”（*contrapposto*）敞开自己（ST, p. 6）。没有什么能豁免于历史变化。人们借以理解世界的哲学范畴，是生命的历史产物，因而与人类的历史性难解难分。比如，约克明确主张：“存在”范畴本身就是“生命的一个结果”（ST, p. 8）。如此一来，历史便从它与历史生命之外某个不变而固定的参照点的一切关系中解放出来。[^note-16]
   - id: 62
-62    kind: body
+6262    kind: body
     source: |-
       Although Yorck provides only an unfinished sketch of the empirical course of the history of life, he marks three decisive turning-points: (1) The breakthrough to philosophy and science on the basis of the dominant stance of the psychological function of representation or cognition, primarily in ancient Greece and India; (2) the predominance of willing in the Roman and Jewish stance towards the world; and (3) the focal centrality of feeling and interiority in Christianity, particular in the Reformation, i.e., Luther. Somewhat like Hegel, Yorck holds that history unfolds through particular primary stances towards life which then become dominant in particular historical peoples.[^note-17]
     step1: |-
@@ -504,7 +504,7 @@ segments:
     step2: |-
       关于生命之历史的经验进程，约克给出的只是一幅未完成的草图；但他标出了三个决定性的转折点：（1）以表象或认知这一心理机能的主导态度为基础，向哲学与科学突破——主要发生在古代希腊与印度；（2）意愿在罗马与犹太的世界态度中取得支配；（3）情感与内在性在基督教中占据焦点中心——尤见于宗教改革，即路德。约克有点像黑格尔：他认为历史经由特定的原初生活态度而展开，这些态度继而在特定的历史民族那里成为主导。[^note-17]
   - id: 63
-63    kind: body
+6363    kind: body
     source: |-
       #### 3.2.1 The Greek World
     step1: |-
@@ -512,7 +512,7 @@ segments:
     step2: |-
       #### 3.2.1 希腊世界
   - id: 64
-64    kind: body
+6464    kind: body
     source: |-
       According to Yorck, in Ancient Greece consciousness displayed a particular configuration of the primacy of cognition. For the Greeks, the stance of consciousness towards the world is pure looking. It is through looking that reality is understood. Affectivity (feeling) and volition are not countenanced as functions that disclose the world as such.[^note-18] Truth lies in the beholding eye alone; contemplation, *theoria*, and intuition take centre stage.
     step1: |-
@@ -520,7 +520,7 @@ segments:
     step2: |-
       依约克之见，在古希腊，意识展现出一种认知居先的特定配置。对希腊人而言，意识对世界的态度就是纯粹的观看；实在正是通过观看而被理解。情感性（感觉）与意志，则不被承认为如其所示地开显世界的机能。[^note-18] 真理只寓于观看的眼睛；静观、*theoria* 与直观，居于舞台的中央。
   - id: 65
-65    kind: body
+6565    kind: body
     source: |-
       > It is as if the clear-sighted eye is expressed in words. On the basis of this condition of consciousness, the function of looking [*Anschauung*], ocularity [*Okularität*], becomes the organ of all free work of the mind, particularly of philosophy. (ST, p. 30)
     step1: |-
@@ -528,7 +528,7 @@ segments:
     step2: |-
       > 仿佛那双看得清亮的眼睛，化作了言词。以这种意识状态为根基，观看[*Anschauung*]之机能——目视性[*Okularität*]——成了心灵一切自由工作的器官，哲学尤其如此。（ST, p. 30）
   - id: 66
-66    kind: body
+6666    kind: body
     source: |-
       Yorck finds evidence for the prevalence of ocularity or the aesthetic attitude, which is centred on plasticity [*Gestaltlichkeit*], in Homer, Pythagoras, Plato, and Aristotle, among others.
     step1: |-
@@ -536,7 +536,7 @@ segments:
     step2: |-
       至于目视性、以及以形态性[*Gestaltlichkeit*]为中心的审美态度何以盛行，约克在荷马、毕达哥拉斯、柏拉图与亚里士多德等人那里找到了证据。
   - id: 67
-67    kind: body
+6767    kind: body
     source: |-
       > Form and content constitute the aesthetic dichotomy which governs Greek thought in its entirety, the result of the liberation of ocularity from all other sensuality, the aesthetic liberation, which strikes a chord in everyone who has entered the threshold of Greek life. Looking is the essential comportment; hence, Gestalt or Form [qualifies as] ousia or substance.[^note-19] (ST, p. 31)
     step1: |-
@@ -544,7 +544,7 @@ segments:
     step2: |-
       > 形式与内容构成美学的二分，它支配着希腊思想的整体。这是目视性摆脱其余一切感性的结果——一场审美的解放：凡踏入希腊生活门槛的人，无不为之心弦震动。观看是本质性的行为方式；因此，形态（Gestalt）或形式[便]堪称 ousia，即实体。[^note-19]（ST, p. 31）
   - id: 68
-68    kind: body
+6868    kind: body
     source: |-
       That Greek metaphysics seeks the unchangeable and impassable is the result of the relative suppression of feeling and willing latent in all cognition, which abstracts from desires, feelings, and temporality (ST, p. 42). Put differently, the structural timelessness of thought as such is intensified in metaphysical thought where it becomes “absolute” (ST, p. 42). Yorck emphasizes that “negation of temporality” marks “the decisive metaphysical step” (ST, p. 66). Metaphysics constitutes the counter-move against the feeling of temporality (that everything passes away), as well as the liberation from the dependence on objects desired by the will. According to Yorck, the escape from temporality and attachment determines the entire metaphysical tradition up to and including Hegel (because even Hegel “ontologizes” life and renders it ontic) (ST, p. 83).
     step1: |-
@@ -552,7 +552,7 @@ segments:
     step2: |-
       希腊形而上学寻求不变而不受触动者——这是一切认知潜在地压制情感与意愿的结果，因为认知抽离欲望、情感与时间性（ST, p. 42）。换句话说，思想本身的结构性超时间性，在形而上学思想中被强化为“绝对的”（ST, p. 42）。约克强调：“时间性的否定”标志着“决定性的形而上学步骤”（ST, p. 66）。形而上学是对时间性感——万物皆逝之感——的反向举动，也是从意志所欲对象之依赖中的解放。依约克之见，逃离时间性与执着依附，规定了直到黑格尔（并包括黑格尔）的整个形而上学传统：连黑格尔也把生命“存在论化”，使之沦为存在者层面的东西（ST, p. 83）。
   - id: 69
-69    kind: body
+6969    kind: body
     source: |-
       #### 3.2.2 The Roman & Jewish World
     step1: |-
@@ -560,7 +560,7 @@ segments:
     step2: |-
       #### 3.2.2 罗马世界与犹太世界
   - id: 70
-70    kind: body
+7070    kind: body
     source: |-
       The breakthrough to a form of life predominantly lived through striving and volition is, according to Yorck, characteristic of the Jewish and Roman world. Concerning the former, Yorck writes:
     step1: |-
@@ -568,7 +568,7 @@ segments:
     step2: |-
       依约克之见，向一种主要以奋斗与意愿来活的生命形式突破，正是犹太世界与罗马世界的特征。关于前者，约克写道：
   - id: 71
-71    kind: body
+7171    kind: body
     source: |-
       > Whereas the Greek, metaphysical cast of mind abstracts from temporality, temporality is the determining element [in the Hebrew world], as the non-aesthetic character of the Jewish way of thought is already expressed in *Genesis* where time takes precedence over space. Yet the moment of time is here placed in some metaphysical distance, is, as it were, projected into the future, the realization of which is the prerogative of God. Thus, the stance of consciousness is one of hope. The messiah, who does not fulfil the law, but, rather, delivers on the promise, is hoped for. (ST, p. 20)
     step1: |-
@@ -576,7 +576,7 @@ segments:
     step2: |-
       > 希腊那种形而上学的思想气质抽离时间性；[在希伯来世界]，时间性却是规定性的要素。犹太思维方式之非审美性格，在《创世记》里即已显露：在那里，时间先于空间。不过，这里的时间环节被安放在某种形而上学的远处，仿佛被投射进将来；而实现它，乃是上帝的特权。于是，意识立场便是盼望。人们所盼望的弥赛亚，不成就律法，而是兑现应许。（ST, p. 20）
   - id: 72
-72    kind: body
+7272    kind: body
     source: |-
       Thus, the feeling of time is here aligned with volition and its projective exteriorization. Relative to the Greek contemplation of the everlasting presence of the cosmos, the intensive expectation of the future reality in the Jewish world is “a-cosmic.” Comparing the Greek to the Jewish world, Yorck writes:
     step1: |-
@@ -584,7 +584,7 @@ segments:
     step2: |-
       这样，时间感在此便与意志及其投射性外化结成一线。希腊人静观宇宙那永恒的临在；犹太世界对将来实在的热切期待，与之相对，是“非宇宙的”（a-cosmic）。约克把希腊世界同犹太世界比较，写道：
   - id: 73
-73    kind: body
+7373    kind: body
     source: |-
       > Here, contemplative, eternal presence; there, intense hope for an invisible futurity. Here, knowledge and science; there, coupled with a radical devaluation of the object of knowledge, faith as personally grown postulate. Here, pleasant expansion and the fullness of existing objectivity; there, formless energy directed at the reality anticipated. (ST, p. 22)
     step1: |-
@@ -592,7 +592,7 @@ segments:
     step2: |-
       > 这边，是静观的永恒临在；那边，是对不可见将来的炽烈盼望。这边，是知识与科学；那边，信仰作为个人亲自长成的公设——与对认识对象的彻底贬值相伴而来。这边，是愉悦的扩张与既存客观性的充盈；那边，是指向所期待实在的无形式能量。（ST, p. 22）
   - id: 74
-74    kind: body
+7474    kind: body
     source: |-
       The unfinished character of Yorck’s manuscript is apparent especially in these passages, for there is no further exploration or exposition of the Jewish world (let alone anything like a justification for the juxtaposition of the Jewish world with the Roman period). Yorck’s comments concerning the Roman world are likewise very sketchy at best. Although Yorck positions the Romans as a world-historical people of the will, he does not do much more than to refer to the popular notion of the “imperialist drive of the Romans” (ST, p. 30). Once, in a letter to Dilthey, Yorck emphasizes that the Roman pursuit of power locks life into pure immanence, without temporality and transcendence: “Might is everything,” he writes (CR, p. 120). Yorck continues by contending that the proverbial epithet of Rome as the “Eternal City” is by no means a mere saying. Rather, for Yorck, it captures something of the ostentatious display of Rome’s imperial power—its splendid oblivion of time. Yorck writes: “Rome does not, just as no Roman ever does, comprehend—death” (CR, p. 120). By way of historical contraposition, Yorck then describes, in the same letter, the “mute, simple crosses” scratched into the walls of the underground *Carcere Mamertino* by imprisoned early Christians. Yorck characterizes these crosses as “light-points on the underground sky [of the prison], signs of the transcendence of consciousness” (CR, p. 120). The immanence of a life lived for power and might is contrasted with the interiority of a conscious feeling of transcendence.
     step1: |-
@@ -600,7 +600,7 @@ segments:
     step2: |-
       约克手稿的未完成性格，在这些段落里尤为显眼：关于犹太世界，此后再无进一步的探究或阐发（更遑论为犹太世界与罗马时期的并置给出任何辩护）。至于罗马世界，约克的评论充其量也只是寥寥数笔。他虽把罗马人定位为世界历史的意志民族，所做的却不外援引“罗马人的帝国主义冲动”这一流行说法（ST, p. 30）。有一次在给狄尔泰的信里，约克强调：罗马人的权力追求把生命锁进纯粹内在性，没有时间性，也没有超越。“强权就是一切”，他写道（CR, p. 120）。约克接着说：罗马人“永恒之城”的习称，绝非一句虚言。在他看来，这个称呼恰恰捕捉住了罗马帝国权力炫示的某种东西——那对时间的辉煌遗忘。约克写道：“罗马不理解——正如从来没有一个罗马人理解——死亡”（CR, p. 120）。随后，仍在同一封信里，约克以历史对照的笔法，描写被囚的早期基督徒刻划在地下马梅尔定监狱（*Carcere Mamertino*）墙壁上的“无言而朴素的十字”；他把这些十字称作“[监狱]地下天空上的光点，意识之超越的记号”（CR, p. 120）。为权力与强权而活的生命是纯粹内在的；与之对照的，是那对超越有自觉感受的内里。
   - id: 75
-75    kind: body
+7575    kind: body
     source: |-
       #### 3.2.3 Christianity
     step1: |-
@@ -608,7 +608,7 @@ segments:
     step2: |-
       #### 3.2.3 基督教
   - id: 76
-76    kind: body
+7676    kind: body
     source: |-
       For Yorck, the Christian life is the breakthrough to a fully historical life. Unencumbered by the projection of objective knowledge (Greek metaphysics and ocularity) and freed from the expectation of a messiah (hope for the promised future), the Christian lives the temporality of “absolute aliveness” [*absolute Lebendigkeit*] in the depths of inwardness or interiority[^note-20] (ST, p. 4). Since Christian consciousness has its dominant focus in interiority and feeling, it is free from the cognitive and volitional bonds to any objectivity, but free for the rhythm of temporality and history. The Christian “freedom from the world” [*Weltfreiheit*] (ST, p. 81) is at the same time freedom *for* history and transcendence, i.e., the world-transcendent God, and the personal, felt relationship to him, which is based on the personal responsibility for one’s historical life before God. Yorck writes:
     step1: |-
@@ -616,7 +616,7 @@ segments:
     step2: |-
       对约克而言，基督教生命是向完全历史性生命的突破。基督徒不受客观知识之投射（希腊形而上学与目视性）的拖累，也脱开了对弥赛亚的期待——对所应许将来的盼望；他在内在性或内里的深处，活出“绝对生命性”[*absolute Lebendigkeit*]的时间性[^note-20]（ST, p. 4）。基督教意识的主导焦点在内里与情感，所以它摆脱了对任何客观性的认知与意志系缚，转而自由地属于时间性与历史的节律。基督教的“脱离世界”[*Weltfreiheit*]（ST, p. 81），同时也是*为了*历史与超越而自由——超越即超世界的上帝，以及同上帝那人格的、被感受到的关系；这种关系，奠基于在上帝面前对自己历史生活的人格责任。约克写道：
   - id: 77
-77    kind: body
+7777    kind: body
     source: |-
       > Through Christianity an essentially transcendent stance of consciousness is achieved, namely by way of the basic factor of feeling. This is a transcendent stance, in contradistinction to a metaphysical one,[^note-21] because feeling [*Gefühl*]—the focal point of aliveness [*Lebendigkeit*]—is here turned inwards, even turned against itself and hence free of all givenness [*Gegebenheit*]. (ST, pp. 13/14)
     step1: |-
@@ -624,7 +624,7 @@ segments:
     step2: |-
       > 通过基督教，一种本质上超越的意识立场得以达成——其途径正是情感这一基本要素。这是超越的立场，有别于形而上学的立场，[^note-21] 因为情感[*Gefühl*]——生命性[*Lebendigkeit*]的焦点——在此转向内部，甚至转向自身，从而摆脱一切被给予性[*Gegebenheit*]。（ST, pp. 13/14）
   - id: 78
-78    kind: body
+7878    kind: body
     source: |-
       The release from cognitive and volitional projection facilitates an inversion of life’s tendency; it leaves behind the goals of “certainty and security” (CR, p. 143) and grounds life in the personal and intrinsically historical relationship to God.
     step1: |-
@@ -632,7 +632,7 @@ segments:
     step2: |-
       从认知性与意志性投射中脱身出来，生命的倾向随之倒转：它抛下“确定与安全”的目标（CR, p. 143），把生命安放在同上帝的人格的、本质历史性的关系之中。
   - id: 79
-79    kind: body
+7979    kind: body
     source: |-
       On the one hand, Yorck emphasizes the absolute focus on inner life and individual conscience, and the entirely unpredictable and historical relationship to God, this side of all objective worldly realities and public opinion.[^note-22] The individual person is singled out in his relationship to God. On the other hand, Yorck also holds that the Christian inversion of the projective tendency of life ultimately results in “self-renunciation” [*Selbstaufgabe*], which expresses the religious pole, opposite to ethical self-affirmation through philosophy and science. But precisely through this self-renunciation, life is lived *as* life, instead of being lost in the preoccupation with that which is merely intended through life—the objectively known and desired world. With reference to *Matthew* (10:39), Yorck writes:
     step1: |-
@@ -640,7 +640,7 @@ segments:
     step2: |-
       一方面，约克强调对内在生命与个人良知的绝对聚焦，强调同上帝之间那全然不可预测的历史性关系——这关系就处在一切客观世俗实在与公共舆论的这一边。[^note-22] 个别之人，在其与上帝的关系中被单独拣选出来。另一方面，约克又认为：基督教对生命投射倾向的倒转，最终导致“自我舍弃”[*Selbstaufgabe*]；它表达的是宗教一极，与经由哲学和科学的伦理自我坚持正相对立。但恰恰通过这种自我舍弃，生命才*作为*生命而被活出，而不是迷失在对那仅仅经由生命被意指之物的专注里——也就是客观上被认识、被欲求的世界。约克参照《马太福音》（10:39）写道：
   - id: 80
-80    kind: body
+8080    kind: body
     source: |-
       > He who finds his life, will lose it, he who loses it, will find it. This word of the Lord describes the law of life itself, the basic condition of all life. Death is a mark of life and the radical transcendence of the deepest, the Christian standpoint postulates life as a mark of death. (ST, p. 58)
     step1: |-
@@ -648,7 +648,7 @@ segments:
     step2: |-
       > 得着生命的，将要失丧生命；失丧生命的，将要得着生命。主的这句话道出的，正是生命自身的法则、一切生命的基本条件。死亡是生命的记号；而那最深处的彻底超越——基督教立场——则把生命设定为死亡的记号。（ST, p. 58）
   - id: 81
-81    kind: body
+8181    kind: body
     source: |-
       Yorck’s well-known love for paradox has its definitive origin here.[^note-23]
     step1: |-
@@ -656,7 +656,7 @@ segments:
     step2: |-
       约克以爱悖论闻名，其决定性的根源正在于此。[^note-23]
   - id: 82
-82    kind: body
+8282    kind: body
     source: |-
       Freed from the bonds to objective representation and the objective world, Christian religion realizes the most concentrated or enhanced form of living life *as* life; it is “supreme aliveness” [*höchste Lebendigkeit*] and thus supreme historicity (ST, p. 104; CR, p. 154). The Christian life is not distracted by the aims of cognition (objectivity) or the ties to objects of desire within the world (in the past, present, or future). Accordingly, Yorck holds that the historical “origin” and “supreme” manifestation of life—fully lived as *historical life*—lies in Christianity.
     step1: |-
@@ -664,7 +664,7 @@ segments:
     step2: |-
       摆脱了对客观表象与客观世界的系缚，基督教作为宗教，把活出生命*作为*生命实现为最凝练也最增强的形式：它是“至高生命性”[*höchste Lebendigkeit*]，从而也是至高的历史性（ST, p. 104; CR, p. 154）。基督教生命不为认知的目标（客观性）所分心，也不受世界之内（过去、现在或将来）欲望对象的牵扯。因此约克认为：生命的历史“起源”与“至高”显现——生命作为*历史生命*被完全活出——就在基督教之中。
   - id: 83
-83    kind: body
+8383    kind: body
     source: |-
       In his *Einleitung in die Geisteswissenschaften* (1883), Dilthey had made a similar, but by no means identical, point, arguing that “historical consciousness” first came into existence through the Christian freedom from the outer world (the cosmos) and the newfound centre of life in inwardness (Dilthey 1959, p. 254)[^dilthey-1959]. Dilthey writes:
     step1: |-
@@ -672,7 +672,7 @@ segments:
     step2: |-
       狄尔泰在《精神科学引论》（*Einleitung in die Geisteswissenschaften*，1883）中表达过类似的论点，却绝不与之相同：他认为“历史意识”最初正是经由基督教那摆脱外部世界（宇宙）的自由、经由生命在内在性中觅得的新中心而产生的（Dilthey 1959, p. 254）[^dilthey-1959]。狄尔泰写道：
   - id: 84
-84    kind: body
+8484    kind: body
     source: |-
       > For the Greek mind, knowledge was the depiction [*Abbilden*] of something objective, [given] to intelligence. Now [after the emergence of Christianity], lived experience [*Erlebnis*] becomes the centre point of all interests for the new communities; but this is nothing other than the simple, inner awareness [*Innewerden*] of what is given to the person in self-consciousness. (Dilthey 1959, p. 251)[^dilthey-1959]
     step1: |-
@@ -680,7 +680,7 @@ segments:
     step2: |-
       > 对希腊心智来说，知识是对某一客观之物的描摹[*Abbilden*]，[交付]给理智。如今[基督教兴起之后]，体验[*Erlebnis*]成了新的共同体一切兴趣的中心点；而这无非是一种单纯的内在觉知[*Innewerden*]：觉知那在自我意识中被给予此人的东西。（Dilthey 1959, p. 251）[^dilthey-1959]
   - id: 85
-85    kind: body
+8585    kind: body
     source: |-
       Yet Dilthey sees this as the first potential breakthrough to a new science, the science of inner experience and the historical disciplines, the Humanities or *Geisteswissenschaften*. According to Dilthey, Augustine’s fateful dependence on Greek conceptuality made it impossible to fully articulate the new Christian sense of inwardness and history (Dilthey 1959, p. 264)[^dilthey-1959]. Only through the work of Schleiermacher and Kant has there been progress in articulating the original Christian insight into inwardness and historicity of life (Dilthey 1959, p. 267)[^dilthey-1959]. Not only does Dilthey fully accept that the meaning of the original Christian experience is thus adequately comprehended and harnessed for the understanding, but he also sees his own work on the logic of the historical sciences as a continuation and fulfilment of this same project.
     step1: |-
@@ -688,7 +688,7 @@ segments:
     step2: |-
       但在狄尔泰看来，这一点是通向一门新科学的第一次潜在突破——这门科学就是内在经验的科学与历史诸学科，即精神科学（*Geisteswissenschaften*）。在狄尔泰眼里，奥古斯丁对希腊概念方式的宿命性依赖，使新的基督教内在之义与历史之义无法得到充分表述（Dilthey 1959, p. 264）[^dilthey-1959]。只有到了施莱尔马赫与康德的工作，对生命之内在性与历史性的原初基督教洞见，其表述才有所进展（Dilthey 1959, p. 267）[^dilthey-1959]。狄尔泰不仅完全接受：原初基督教经验的意义就此得到充分理解，并可供知性驱遣；他还把自己关于历史科学逻辑的工作，看作这同一规划的延续与完成。
   - id: 86
-86    kind: body
+8686    kind: body
     source: |-
       By contrast, Yorck eschews all cooptation of the Christian breakthrough to supreme historical aliveness and historicity for the establishment of a science, fearing that this would not only conceptualize life as something “ontic,” always present and available for the understanding, but also ignore the vital consciousness of transcendence, or bury it in a new scholasticism.[^note-24] Yorck, who always regarded Luther’s work as the vital re-affirmation of the early Christian historical life, suggests, therefore, that instead of Kant and Schleiermacher, a return to Luther’s conception of life is the more fruitful way of safeguarding and cultivating the breakthrough to historical life. Acknowledging this difference, Yorck writes to Dilthey:
     step1: |-
@@ -696,7 +696,7 @@ segments:
     step2: |-
       相比之下，约克断然拒绝把基督教向至高历史生命性与历史性的突破收编去建立一门科学；他担心这样一来，生命不仅会被概念化为某种“存在者层面的”东西——永远在场、随叫随到地供知性取用——而且那鲜活的超越意识也会遭忽视，或者埋进一种新经院哲学。[^note-24] 约克始终把路德的事业看作对早期基督教历史生命的鲜活重申；于是他提示：与其取道康德与施莱尔马赫，不如回归路德的生命观——这才是守护并培育向历史生命之突破的更有效途径。约克承认这一分歧，他写信对狄尔泰说：
   - id: 87
-87    kind: body
+8787    kind: body
     source: |-
       > You will not agree when I say that Luther should and must be more topical to the present time than Kant, if this present time is to have a historical future [*historische Zukunft*]. (CR, p. 145)
     step1: |-
@@ -704,7 +704,7 @@ segments:
     step2: |-
       > 如果当下这个时代还要有一个历史性的未来[*historische Zukunft*]，那么路德就应当、也必须比康德更切合当下——我这样讲，你不会同意的。（CR, p. 145）
   - id: 88
-88    kind: oir
+8888    kind: oir
     source: |-
       [Please contact the author with suggestions.]
     step1: |-
@@ -712,7 +712,7 @@ segments:
     step2: |-
       [欢迎向作者提出建议。]
   - id: 89
-89    kind: note
+8989    kind: note
     source: |-
       [^note-1]: For the dating of the manuscripts, see Fetscher (1991, XLIX/L).
     step1: |-
@@ -720,7 +720,7 @@ segments:
     step2: |-
       [^note-1]: 关于手稿的断代，见 Fetscher（1991, XLIX/L）。
   - id: 90
-90    kind: note
+9090    kind: note
     source: |-
       [^note-2]: Dilthey had dedicated his first book *Einleitung in die Geisteswissenschaften* (1883) to Yorck. The dedication reads as follows:
 
@@ -740,7 +740,7 @@ segments:
 
       狄尔泰身后刊出一文，描写他与一位“朋友”的虚构“讨论”，是对约克的又一纪念。见 Dilthey, “Der Moderne Mensch und der Streit der Weltanschauungen,” in *Weltanschauungslehre*, (Gesammelte Schriften, Vol. VIII), Stuttgart: B.G. Teubner, 1960, pp. 226–235。
   - id: 91
-91    kind: note
+9191    kind: note
     source: |-
       [^note-3]: It is important to note that what Yorck calls ‘life’ is precisely what Kierkegaard, Heidegger, Jaspers, and Sartre mean by ‘existence.’
     step1: |-
@@ -748,7 +748,7 @@ segments:
     step2: |-
       [^note-3]: 值得注意的是：约克所谓的“生命”，恰恰是克尔凯郭尔、海德格尔、雅斯贝尔斯与萨特所说的“生存”。
   - id: 92
-92    kind: note
+9292    kind: note
     source: |-
       [^note-4]: In contrast to Goethe’s earth spirit, Yorck speaks of the “spirit of history.” He writes:
 
@@ -762,7 +762,7 @@ segments:
 
       > 我也乐于同历史的精神作无声的自语与交融。这种精神，既不曾向书斋里的浮士德显现，甚至也不曾向伟大的歌德显现。无论它取何种形式、何等严峻逼人，历史的精神都绝不会把他们吓退。说到底，比起丛莽田野的居民，历史的精神是在另一种更深意义上的兄弟与亲人。这种努力好比雅各的摔跤——摔跤者自己稳有收获。而这才是首先要紧的事。（CR, 133）
   - id: 93
-93    kind: note
+9393    kind: note
     source: |-
       [^note-5]: The word *Geschichtlichkeit*, historicity, so liberally used by Yorck and, to a lesser degree, Dilthey, was actually coined by Hegel, who used it in two instances as the study by Leonhard von Renthe-Fink (1968, 20–35) shows. The two instances are in *Vorlesungen über die Geschichte der Philosophie*, Volume I, Hermann Glockner (ed.), Stuttgart: Fr. Fromanns Verlag, 1959, p. 189–190 and *Vorlesungen über die Geschichte der Philosophie*, Volume III, Hermann Glockner (ed.), Stuttgart: Fr. Fromanns Verlag, 1959, p. 137. Neither Yorck nor Dilthey seem to be aware of this Hegelian origin. Gadamer also never refers to Hegel in this regard.
     step1: |-
@@ -770,7 +770,7 @@ segments:
     step2: |-
       [^note-5]: *Geschichtlichkeit*（历史性）一词——约克用得极多，狄尔泰次之——其实是黑格尔的造词。据莱昂哈德·冯·伦特-芬克的研究（1968, 20–35），黑格尔只用过两次：分别见于 *Vorlesungen über die Geschichte der Philosophie* 第一卷（Hermann Glockner 编，Stuttgart: Fr. Fromanns Verlag, 1959，第 189–190 页）与第三卷（编者与出版社同前，1959，第 137 页）。约克与狄尔泰似乎都不知道这个词的黑格尔来源；伽达默尔在这方面也从未提到过黑格尔。
   - id: 94
-94    kind: note
+9494    kind: note
     source: |-
       [^note-6]: Dilthey and Yorck avoid *all* references to Marx & Engels. But Marx’s and Engels’ systematic recourse to “life” in its historicity is certainly close enough to Dilthey’s and Yorck’s to warrant some further clarification. For instance, in *The German Ideology*, Marx and Engels write:
 
@@ -784,7 +784,7 @@ segments:
 
       > 我们仅仅知道一门唯一的科学，即历史科学。历史可以从两方面来考察：可以把它划分为自然史与人类史。但这两方面不可看作彼此独立的实体；只要有人存在，人与自然就彼此影响。自然史——即所谓博物学——在这里与我们全然无关。但人类史却不能不谈：因为几乎全部意识形态，要么是对人类史的歪曲解释，要么是对它的完全抽离。（Karl Marx, *Selected Writings*, Lawrence H. Simon (ed.), Indianapolis: Hackett, 1994, p. 107）
   - id: 95
-95    kind: note
+9595    kind: note
     source: |-
       [^note-7]: It remains unclear whether Yorck’s recourse to transcendence reinserts a supra-historical point of reference into historical life. For instance, Yorck himself says that “the Christian” stands “above history” (CR, 70). That would hardly make the Christian standpoint a fitting reference-point for a thoroughly historical life. Walter Schulz has argued, clearly with Yorck among others in mind, that the attempt to advance a counter-concept to Greek metaphysics and modern objectivism by starting from the fact of historical life can be successful only on the condition that “the basic Christian approach” and particularly “the idea of transcendence” is abandoned, because it is “ahistorical” (Walter Schulz, *Philosophie in der Veränderten Welt*, Pfullingen: Neske, 1972, p. 480).
     step1: |-
@@ -792,7 +792,7 @@ segments:
     step2: |-
       [^note-7]: 尚不清楚的是：约克诉诸超越，是否又把一个超历史的参照点插回了历史生命。约克自己就说过，“基督徒”站立在“历史之上”（CR, 70）——这样一来，基督教立场就很难成为一个彻底历史性生命的合宜参照点。瓦尔特·舒尔茨曾论证（显然把约克等人考虑在内）：从历史生命这一事实出发，去提出一个与希腊形而上学和现代客观主义相对的反概念，只有在一个条件下才可能成功——放弃“基督教的基本进路”、特别是放弃“超越观念”，因为它是“非历史的”（Walter Schulz, *Philosophie in der Veränderten Welt*, Pfullingen: Neske, 1972, p. 480）。
   - id: 96
-96    kind: note
+9696    kind: note
     source: |-
       [^note-8]: In recent years, Charles Bambach has forcefully argued that Yorck’s rejection of groundlessness [*Bodenlosigkeit*] amounts to the *de facto* claim for the rootedness of authentic thought in the “native earth,” the soil of the homeland (*Heidegger’s Roots: Nietzsche, National Socialism, and the Greeks*, Ithaca: Cornell University Press, 2003, p. 18). According to this reading, Yorck’s project is an attempt to vindicate the dependency of thought on the earth, autochthony [*Bodenständigkeit*], a more or less reactive move against the massive waves of modern urbanization and the growth of cosmopolitanism. There is no question that, on the socio-political level at least, Yorck looks askance at the “ground-less” or “property-less” condition [*boden-loser Status*] of the modern city dweller (CR, 20). Yorck claims that “the alienation from the ground” takes away the necessary centre of gravity in people. Bereft of the ties to the ground, people achieve only “an unstable balance,” and they become liable to great fluctuations in their behaviours, thoughts, etc. (CR, 20). Coupled with Yorck’s anti-bourgeois, anti-democratic, and anti-Semitic sentiments with which he tends to lace his comments in the *Correspondence* with Dilthey, one can easily picture the intellectual physiognomy of Yorck as a member of the landed nobility, defending the interests of the Prussian Junker class by validating the “stability” and “necessity” of landed property as a precondition for authentic thought. On the other hand, an early critic of Yorck, the philosopher Fritz Kaufmann, has pointed out that in the *Correspondence* Yorck never uses the term *Bodenständigkeit*, autochthony (1928, 40). The “ground” on which thinking is to be based is the ground of consciousness or life, which for Yorck always means the living self-consciousness of an individual person in the context of his or her historical reality and the felt relation to the transcendent God. The evidence found in one’s *own* life (considered in its entirety) provides what Yorck calls “the legitimating ground” [*Rechtsgrund*] for all claims (CR, 66). However, in his philosophical manuscripts (see section 3 below) to which Kaufmann had no access in 1928, Yorck once directly relates “groundlessness” or *Bodenlosigkeit*—taken as the physical lack of a home—to the particular shape of thought of the Hebrew people. Yorck writes about their exile:
 
@@ -812,7 +812,7 @@ segments:
 
       但约克随即反驳这一看法：“不过，这类事件唯有在心理前提到位时才起作用”（16）。因此伊林·费切尔（Iring Fetscher）评论道：对约克而言，“无土地”本身并不是“无根基性”的“充分条件”；唯有先行的*意识*的历史态度——一种生活态度——才能成为它的有效根据（1991, 197, note 23）。
   - id: 97
-97    kind: note
+9797    kind: note
     source: |-
       [^note-9]: Therefore, immersion in self-consciousness also constitutes the ground from which all philosophy springs, because all philosophy is an experiment of life. Yorck begins the fragment with the following paragraph:
 
@@ -838,7 +838,7 @@ segments:
 
       > “哲学是一种行动：它把生命——亦即处于诸关系中的主体——作为活物提升到意识，并把它思考到底。”（CR, 247）
   - id: 98
-98    kind: note
+9898    kind: note
     source: |-
       [^note-10]: Yorck writes: “The word [i.e., representation or logos] is as unable to grasp life, as is the deed” (ST, 54). That is to say, each particular function of life grasps only a partial aspect of life and cannot stand for the whole of life.
     step1: |-
@@ -846,7 +846,7 @@ segments:
     step2: |-
       [^note-10]: 约克写道：“言词[即表象或逻各斯]同行为一样，无力把握生命”（ST, 54）。这就是说：生命的每一种特定机能，只把握到生命的一个片面，代表不了生命的整体。
   - id: 99
-99    kind: note
+9999    kind: note
     source: |-
       [^note-11]: Yorck, who, following Fichte, believes the ludicrous story that German and Greek are the pre-eminent “philosophical languages” (ST, 117), points out that the German and the Greek word for “knowledge” or “cognition,” *Vorstellung* and *episteme* respectively, already refers to an outer realm “into” which the object of knowledge is “put” or “posited” (ST, 147).
     step1: |-
@@ -854,7 +854,7 @@ segments:
     step2: |-
       [^note-11]: 约克追随费希特，竟相信那桩可笑的故事：德语与希腊语是首出的“哲学语言”（ST, 117）。他指出：德语与希腊语里表示“知识”或“认知”的词——*Vorstellung* 与 *episteme*——已然指涉一个外部领域；认识对象正是被“放入”或“设定”进这个领域（ST, 147）。
   - id: 100
-100    kind: note
+100100    kind: note
     source: |-
       [^note-12]: Elaborating on the inner-outer relation in feeling, Yorck writes:
 
@@ -868,7 +868,7 @@ segments:
 
       > “但他者并不会变成某种独立的东西[*Selbständiges*]；[毋宁说，]它仍保持为自我的一个要素。因此在感性领域里，它就是与身体相对的活的身体。”（ST, 72）
   - id: 101
-101    kind: note
+101101    kind: note
     source: |-
       [^note-13]: According to Yorck, the attempted projection or externalization of time is effected through the will, the desire to hang on to something present (which opens up the past) or to prolong a satisfaction (which opens up the future) (cf. ST, 22).
     step1: |-
@@ -876,7 +876,7 @@ segments:
     step2: |-
       [^note-13]: 依约克之见，把时间投射出去、外化出去的尝试，经由意志而实现：或是想抓住某个当下之物（由此开启过去），或是想延长一种满足（由此开启未来）（参 ST, 22）。
   - id: 102
-102    kind: note
+102102    kind: note
     source: |-
       [^note-14]: Yorck remarks that “only an abstract and superficial thinking” construes the feeling of mortality as the result of a “probabilistic inference” (ST, 90).
     step1: |-
@@ -884,7 +884,7 @@ segments:
     step2: |-
       [^note-14]: 约克说：只有“抽象而肤浅的思想”，才会把有死感当作一次“或然推理”的结果（ST, 90）。
   - id: 103
-103    kind: note
+103103    kind: note
     source: |-
       [^note-15]: This letter was posthumously published for the first time in Gründer (1970, 356).
     step1: |-
@@ -892,7 +892,7 @@ segments:
     step2: |-
       [^note-15]: 这封信身后首次刊布于格林德（1970, 356）。
   - id: 104
-104    kind: note
+104104    kind: note
     source: |-
       [^note-16]: If the most comprehensive or radical notion of “historicity” [*Geschichtlichkeit*] requires that history is no longer seen as the “counter-concept” to the eternal (see Gadamer 1958, 1496)[^gadamer-1958], it follows that Yorck already employs that notion of historicity.
     step1: |-
@@ -900,7 +900,7 @@ segments:
     step2: |-
       [^note-16]: 如果“历史性”[*Geschichtlichkeit*]最全面、也最激进的概念，要求不再把历史看作永恒者的“反概念”（见 Gadamer 1958, 1496）[^gadamer-1958]，那么可以说：约克已然在使用这一历史性概念。
   - id: 105
-105    kind: note
+105105    kind: note
     source: |-
       [^note-17]: Yorck writes:
 
@@ -914,7 +914,7 @@ segments:
 
       > 正如个人禀赋各异——尽管总在同一基本特征的范围之内——历史进程中也出现禀赋各异的民族。但唯有其禀赋是[原初生命]彻底划分之结果的民族，才有资格要求历史性。唯有他们，是英雄民族[*Heldenvölker*]。（ST, 26）
   - id: 106
-106    kind: note
+106106    kind: note
     source: |-
       [^note-18]: In fact, Yorck points out that in Greek philosophy, particularly the Stoa, affective bonds are understood as detrimental to the seeking of truth. They have to be suppressed “in order to make room for the energy of cognition” (ST, 122).
     step1: |-
@@ -922,7 +922,7 @@ segments:
     step2: |-
       [^note-18]: 事实上约克指出：在希腊哲学里、尤其在斯多亚学派那里，情感纽带被视为有碍求真；必须压制它们，“以便为认知的能量腾出地方”（ST, 122）。
   - id: 107
-107    kind: note
+107107    kind: note
     source: |-
       [^note-19]: While Yorck claims that the particular centre of gravity for Greek consciousness is “ocularity” (ST, 55), he does not imply that it is limited to the Greek world alone. The privileged place of plasticity [*Gestaltlichkeit*] and ocularity informs all subsequent “aesthetic-scientific” endeavours (ST, 32). For instance, Yorck sees the detached ocularity very much alive even in modern historiography, particularly Ranke (see CR, 60).
     step1: |-
@@ -930,7 +930,7 @@ segments:
     step2: |-
       [^note-19]: 约克虽主张希腊意识的特定重心是“目视性”（ST, 55），却并不意味着它仅限于希腊世界。形态性[*Gestaltlichkeit*]与目视性的优越地位，贯穿着此后一切“审美—科学”的事业（ST, 32）。比如说，约克认为：即便在现代史学中，那种超然的目视性也依然生气勃勃——兰克尤为如此（见 CR, 60）。
   - id: 108
-108    kind: note
+108108    kind: note
     source: |-
       [^note-20]: Yorck sees life as inherently historical or developmental in the sense that earlier stages are incorporated and remembered in the ongoing process (CR, 71). The more this “existence” of life is foregrounded, in opposition to what “is” fixed and objectively “there,” the more “historically” will life be conducted.
     step1: |-
@@ -938,7 +938,7 @@ segments:
     step2: |-
       [^note-20]: 约克把生命看作固有地历史的、发展的：较早的阶段在持续的进程中被吸收、被记住（CR, 71）。生命的这种“生存”越是被凸显——以别于那“存在”着的、客观上“在那里”的固定之物——生命就越是“历史地”被度过。
   - id: 109
-109    kind: note
+109109    kind: note
     source: |-
       [^note-21]: Cf. Yorck’s signature formula: “Transcendence contra metaphysics” (CR, 42).
     step1: |-
@@ -946,7 +946,7 @@ segments:
     step2: |-
       [^note-21]: 参见约克的招牌公式：“超越对抗形而上学”（CR, 42）。
   - id: 110
-110    kind: note
+110110    kind: note
     source: |-
       [^note-22]: Yorck has a very keen sense of the numbing effect of public opinion and the modern submission to it. To Dilthey he once writes:
 
@@ -960,7 +960,7 @@ segments:
 
       > 国家的一项关键教育任务，应当是瓦解那原初的公共舆论，并尽可能教育人以自己的方式去看、去观察。这样，个人的良心——换言之，良心本身——才能再度走到前台，而不是那所谓公共良心——它不过是良心的总体外在化。（CR, 249/50）
   - id: 111
-111    kind: note
+111111    kind: note
     source: |-
       [^note-23]: In a letter to Dilthey, Yorck writes:
 
@@ -974,7 +974,7 @@ segments:
 
       > 但你知道我对悖论之物的偏爱。我的理由是：悖论本就是真理的一种性质；而公论[*communis opinio*]不过是概括性半真理的粗浅沉淀，与真理毫无共同之处。它同真理的关系，恰似闪电过后残留的硫磺烟气。真理从来不是元素性的。（CR, 249）
   - id: 112
-112    kind: note
+112112    kind: note
     source: |-
       [^note-24]: Independently of Yorck, Heidegger held similar reservations concerning Dilthey’s harnessing of Christian historical life for the *Geisteswissenschaften* in the wake of Kant and Schleiermacher. See Martin Heidegger, *Phänomenologie des Religiösen Lebens*, (Gesamtausgabe, Volume 60), Frankfurt: Vittorio Klostermann, 1995, p. 164 and Heidegger, *Phänomenologie der Anschauung und des Ausdrucks*, (Volume 59), Frankfurt: Vittorio Klostermann, 2007, pp. 163–168.
     step1: |-
