@@ -2,7 +2,7 @@
   "slug": "risk",
   "kind": "retranslate",
   "zh_doc": "r/risk.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "qr-translator-1",
       "at": "2026-11-09T06:47:24Z",
       "evidence": "三校（体例）：check_style 0 issue；check_academic --docs r/risk.md --strict 0 硬错误（非存根 1、在途豁免 1）；check_math missing 0、unbalanced 1——该 1 条为工具「\\$ 后紧跟数字＝货币」启发式对源文 \\ \\times 10^{-9}\\$ 的误报（en/ 原页作 \\(1 \\times 10^{-9}\\)，yuanwen 镜像与成稿逐字符一致，源镜像不入库且不改），独立脚本复核成稿行内 \\$ 配对与镜像同构；术语 40/人名 14 与登记册一致、正文锁主形（风险/不确定性/期望效用/前景理论/预防原则/归纳风险/固有安全/安全系数/多重屏障）；中文强调走 **加粗**、拉丁术语保留斜体；尾部节序 References（引用注释）→学术工具→其他网络资源→相关词条（源无致谢，整节省略）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "R-main-20261111",
+      "at": "2026-11-11T03:58:05Z",
+      "evidence": "初审（对照 yuanwen 全文逐节对读，独立于初译 qr-translator-1，冷置 >40 小时）：问题清单——Major 1：§5.1「The moral difference … is not obviously expressible in a probability calculus」原译「显然没法在概率演算里表达」把 not obviously 译成否定判断（过强），已改为「并不显然能在概率演算里表达出来」；Minor 2：§5.2 实际论「其效用等同于实际实现的那一个结果」漏「之效用」，补为「那个结果的效用」；§6.1「One of the earliest was Handa (1977)」误作「最早的是」，改「最早的一批里就有」。结构对账：H2 11:11、H3 12:12、脚注 marker 59:59 多重集全等、defs 91:91 键集全等、$ 计数 63:63；图片 ../yuanwen/assets/risk/figure1.png 解析通过（14087 B）；列表编号照源（源本身全为 1.，含末项无句点）不擅改；源端笔误（Banzhof、live values、pausible 类）照源直译。四检：check_style 0、check_prose 0、check_academic --strict OK、check_images 悬空 0、check_math missing 0（unbalanced 1 为货币启发式对源文 $1 \\times 10^{-9} 的既有假阳性，沿用 s3 记录）。"
     }
   ],
   "blockers": [],
