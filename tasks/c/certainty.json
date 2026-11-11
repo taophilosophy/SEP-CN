@@ -2,7 +2,7 @@
   "slug": "certainty",
   "kind": "retranslate",
   "zh_doc": "c/certainty.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "CR-main-20261111",
       "at": "2026-11-10T21:18:01Z",
       "evidence": "复审（独立会话；初译/自校/r1 均为主代理，本条满足 ISO 17100 外部复核）：check_prose 27→10，实修 17 处（长句拆分 2：维特根斯坦段按让步转折分句、笛卡尔科学理论句于'并且'处分句；的链化解 14：含'为其确定性奠基的''证据就是其所知''一旦涉及跨时间的确定性''若尚不知道存在一个不欺骗的上帝'等；弱动词规避 1）；余 10 处均落于直接引语/引块内部按 ADR-0020 豁免（行 17 笛卡尔拉丁/法文本与斯宾诺莎引文、行 45 威廉姆森引文、行 49 罗素引文、行 75 克莱因定义引块、行 105 休谟箴言跨句）；check_style 实修引号错码 1 处（'工作是否有价值'开口引号误码 U+201D，系本会话编辑引入、门禁拦回修正，留痕）；check_math 0 缺失/失衡；check_academic --strict 0 硬错误（在途豁免 1）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "CR-main-20261111",
+      "at": "2026-11-11T02:37:18Z",
+      "evidence": "终审（本会话，r2 同会话、经 dewey-moral r1 全程+adorno/hobbes-moral 语体通读后冷置回读）：定点四检全绿——check_style 0 issue（r2 引号错码复检通过）、check_math 0 缺失/失衡、check_academic --strict 0 硬错误（在途豁免 1）、check_prose 10 条均为引语内部豁免档（与 r2 记录全等）；冷读 12 处 r2 实修句在语境中通顺，无引入生硬；脚注定义 78=78 与镜像逐字符一致、引用键配平（[^key] 为体例样板文字，与镜像同构）；H1 与 SUMMARY 一致；九项门禁全绿（含本会话修复的 task-style-attest 4 处）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "CR-main-20261111",
+      "at": "2026-11-11T02:38:43Z",
+      "evidence": "r1–r3 收口：r1（主代理）→r2（CR-main-20261111 实修 17）→r3（冷置终审四检绿），prose 余 10 均引语内部按 ADR-0020 豁免；六检全绿"
     }
   ],
   "blockers": [],
