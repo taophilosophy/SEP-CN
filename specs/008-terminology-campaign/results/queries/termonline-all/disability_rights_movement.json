@@ -2,10 +2,347 @@
  "key": "disability rights movement",
  "term": "disability rights movement",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T17:51:10+00:00",
- "status": "error",
- "note": "variant=disability rights movement; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "disability rights movement: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T03:52:22+00:00",
+ "status": "ok",
+ "note": "variant=disability rights movement; 审定公布名词库=3539; 海峡两岸名词对照库=1117; 其他来源数据库=315; 预公布名词数据库=214; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "残疾人运动",
+   "en": "disability movement",
+   "code": "03.278",
+   "standard": "物理医学与康复名词",
+   "subject": "物理医学与康复_康复治疗_心理治疗"
+  },
+  {
+   "cn": "失能",
+   "en": "disability",
+   "code": "06.025",
+   "standard": "急救医学名词",
+   "subject": "急救医学_海上医学救援_基本概念_通用概念"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "code": "06.0017",
+   "standard": "手外科学名词",
+   "subject": "手外科学_手外科康复"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "code": "07.012",
+   "standard": "运动医学名词",
+   "subject": "运动医学_运动康复_总论"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "code": "06.004",
+   "standard": "烧伤学名词",
+   "subject": "烧伤学_烧伤康复与整形_烧伤康复治疗"
+  },
+  {
+   "cn": "失能",
+   "en": "disability",
+   "code": "07.009",
+   "standard": "老年医学名词",
+   "subject": "老年医学_老年康复医学"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "code": "05.038",
+   "standard": "全科医学与社区卫生名词",
+   "subject": "全科医学与社区卫生_社区康复"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "code": "01.017",
+   "standard": "物理医学与康复名词",
+   "subject": "物理医学与康复_总论_物理医学与康复概论"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "code": "11.206",
+   "standard": "放射医学与防护名词",
+   "subject": "放射医学与防护_放射性疾病诊断、治疗与健康监护_放射工作人员健康监护"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "code": "10.012",
+   "standard": "教育学名词",
+   "subject": "教育学_特殊教育"
+  },
+  {
+   "cn": "失能",
+   "en": "disability",
+   "code": "04.0235",
+   "standard": "医学名词 第七分册",
+   "subject": "医学_物理医学与康复[学]"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "code": "04.0237",
+   "standard": "医学名词 第七分册",
+   "subject": "医学_物理医学与康复[学]"
+  },
+  {
+   "cn": "失效要素",
+   "en": "disabled feature",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "禁止",
+   "en": "disable\",\"inhibition",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "禁止中断",
+   "en": "interrupt disable",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "右板",
+   "en": "right lamina\",\"right plate",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "复原力臂",
+   "en": "righting arm\",\"righting lever",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "数据权限",
+   "en": "data rights",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "右部",
+   "en": "right part",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "右肺",
+   "en": "right lung",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "右肝",
+   "en": "right liver",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "右脚",
+   "en": "right crus",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "右肾",
+   "en": "right kidney",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "右心耳",
+   "en": "right auricle",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "扶正",
+   "en": "right",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "摆平",
+   "en": "right",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_皮划艇名词"
+  },
+  {
+   "cn": "右边锋",
+   "en": "outside right\",\"right winger",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "右手拳",
+   "en": "right\",\"right-hand blow",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "右前卫",
+   "en": "inside right\",\"right halfback",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "生育权",
+   "en": "reproductive rights",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数权",
+   "en": "Data Rights",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "宪法权利",
+   "en": "constitutional rights",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "民事权利",
+   "en": "civil rights",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据权利",
+   "en": "Data Rights",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "直角三角形",
+   "en": "right triangle",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "残疾人维权",
+   "en": "disabled people rights protection",
+   "code": "4.4.9.73",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作实务"
+  },
+  {
+   "cn": "失能",
+   "en": "disability",
+   "code": "3.11.2.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_医学社会学_健康现象与行为"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "code": "5.0089999999999995",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_临床诊疗伦理"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "code": "12.5.1",
+   "standard": "社会医学名词",
+   "subject": "特定人群卫生保健"
+  },
+  {
+   "cn": "伤残抚恤",
+   "en": "disability pension",
+   "code": "4.3.11.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会优抚"
+  },
+  {
+   "cn": "言语残疾",
+   "en": "speech disability",
+   "code": "4.14.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务"
+  },
+  {
+   "cn": "智力残疾",
+   "en": "intellectual disability",
+   "code": "4.14.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务"
+  },
+  {
+   "cn": "视力残疾",
+   "en": "visual disability",
+   "code": "4.14.4",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务"
+  },
+  {
+   "cn": "听力残疾",
+   "en": "hearing disability",
+   "code": "4.14.5",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务"
+  },
+  {
+   "cn": "肢体残疾",
+   "en": "physical disability",
+   "code": "4.14.6",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务"
+  },
+  {
+   "cn": "精神残疾",
+   "en": "mental disability",
+   "code": "4.14.7",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务"
+  },
+  {
+   "cn": "永久残疾",
+   "en": "permanent disability",
+   "code": "3.7.11.24",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食源性疾病负担"
+  }
+ ],
+ "error": null,
  "raw": null
 }

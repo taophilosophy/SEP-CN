@@ -2,10 +2,347 @@
  "key": "dilation",
  "term": "dilation",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T17:43:40+00:00",
- "status": "error",
- "note": "variant=dilation; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "dilation: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T03:49:22+00:00",
+ "status": "ok",
+ "note": "variant=dilation; 审定公布名词库=1221; 海峡两岸名词对照库=292; 其他来源数据库=18; 预公布名词数据库=49; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "开大肌",
+   "en": "dilator,dilatator",
+   "code": "02.1378",
+   "standard": "人体解剖学名词",
+   "subject": "人体解剖学_运动系统_肌"
+  },
+  {
+   "cn": "体变",
+   "en": "dilatation",
+   "code": "09.02.095",
+   "standard": "地质学名词",
+   "subject": "地质学_构造地质学_应力与应变"
+  },
+  {
+   "cn": "扩张",
+   "en": "dilatation",
+   "code": "05.089",
+   "standard": "阿尔茨海默病名词",
+   "subject": "阿尔茨海默病_诊断技术与实验方法_影像技术"
+  },
+  {
+   "cn": "膨胀",
+   "en": "dilatation",
+   "code": "08.0392",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_模式识别"
+  },
+  {
+   "cn": "膨胀",
+   "en": "dilatation",
+   "code": "02.0084",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_线性代数"
+  },
+  {
+   "cn": "扩张器",
+   "en": "dilator",
+   "code": "2.093",
+   "standard": "消化内镜学名词",
+   "subject": "消化内镜学_消化内镜设备_附件和器械"
+  },
+  {
+   "cn": "扩容",
+   "en": "dilatancy",
+   "code": "17.04.072",
+   "standard": "地质学名词",
+   "subject": "地质学_工程地质学_工程地质勘察与施工"
+  },
+  {
+   "cn": "膨胀",
+   "en": "dilatancy",
+   "code": "01.1673",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_震源"
+  },
+  {
+   "cn": "胀容现象",
+   "en": "dilatancy",
+   "code": "02.0313",
+   "standard": "食品科学技术名词",
+   "subject": "食品科学技术_食品科学_食品物理_食品流变学特性"
+  },
+  {
+   "cn": "胀塑性",
+   "en": "dilatancy",
+   "code": "03.0084",
+   "standard": "化工名词(三)化学工程基础",
+   "subject": "化工（三）_传递过程与单元操作"
+  },
+  {
+   "cn": "剪胀性",
+   "en": "dilatancy",
+   "code": "03.113",
+   "standard": "土木工程名词",
+   "subject": "土木工程_土力学与地基基础_土的物理性质"
+  },
+  {
+   "cn": "剪胀性",
+   "en": "dilatancy",
+   "code": "05.112",
+   "standard": "水利科学技术名词",
+   "subject": "水利科学技术_岩石力学、土力学、岩土工程_土力学（水利）"
+  },
+  {
+   "cn": "开大肌",
+   "en": "dilator\",\"dilatator",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "膨胀",
+   "en": "dilatation",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "膨胀",
+   "en": "dilatation",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "膨胀",
+   "en": "dilatation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "膨胀",
+   "en": "expansion\",\"dilation\",\"dilatation",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "胀塑性",
+   "en": "dilatancy",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "颊隆面",
+   "en": "buccal dilation\",\"occiput dilation",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "伸展轴",
+   "en": "dilatation axis",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "时间变慢",
+   "en": "time dilatation",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "钟慢效应",
+   "en": "dilatation effect",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "膨大隔壁",
+   "en": "dilated septum",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "胀塑性流体",
+   "en": "dilatant fluid",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "稀释",
+   "en": "dilution",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "通货紧缩",
+   "en": "deflation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "违例",
+   "en": "violation",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_铁人三项名词"
+  },
+  {
+   "cn": "违例",
+   "en": "violation",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_篮球名词"
+  },
+  {
+   "cn": "精度衰减因子",
+   "en": "Dilution of precision",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "模糊规则",
+   "en": "Fuzzy relation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "等价关系",
+   "en": "Equivalence relation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "爱因斯坦关系",
+   "en": "Einstein relation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "相容关系",
+   "en": "tolerance relation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "周光关系",
+   "en": "period-luminosity relation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "科学数据引用",
+   "en": "scientific data citation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "捐赠型众筹",
+   "en": "donation-based crowdfunding",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "钳刮术",
+   "en": "dilation and curettage, D&C",
+   "code": "5.3.3.2",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_生育调节_人工流产"
+  },
+  {
+   "cn": "冷致血管缩-舒反应",
+   "en": "vessel constriction-dilation response to cold",
+   "code": "3.3.4",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_寒区军事卫生_冷应激"
+  },
+  {
+   "cn": "稀释",
+   "en": "dilution",
+   "code": "6.3.1.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护方法"
+  },
+  {
+   "cn": "稀释",
+   "en": "dilution",
+   "code": "1.2.26",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品完整性"
+  },
+  {
+   "cn": "联系",
+   "en": "relation",
+   "code": "01.0031",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "运动持续时间",
+   "en": "duration",
+   "code": "7.1.4.1.10",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校体育与身体活动_学校体育"
+  },
+  {
+   "cn": "稀释法",
+   "en": "dilution method",
+   "code": "6.2.26.9.8",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "稀释度",
+   "en": "dilution factor",
+   "code": "6.2.27.19",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "应用稀释法",
+   "en": "applied dilution method",
+   "code": "6.2.26.7.8",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "终点稀释法",
+   "en": "endpoint dilution method",
+   "code": "6.2.26.8.10.4",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "稀释离心法",
+   "en": "dilution centrifugation method",
+   "code": "6.2.26.9.5",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "琼脂稀释法",
+   "en": "agar dilution method",
+   "code": "6.2.35.4.1",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -2,10 +2,347 @@
  "key": "divine foreknowledge",
  "term": "divine foreknowledge",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T18:04:44+00:00",
- "status": "error",
- "note": "variant=divine foreknowledge; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "divine foreknowledge: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T03:56:52+00:00",
+ "status": "ok",
+ "note": "variant=divine foreknowledge; 审定公布名词库=1618; 海峡两岸名词对照库=348; 其他来源数据库=86; 预公布名词数据库=85; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "卜",
+   "en": "bu;divination",
+   "code": "2.468",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_先秦_宗教"
+  },
+  {
+   "cn": "贞人",
+   "en": "zhen ren;diviner",
+   "code": "2.109",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_先秦_政治_中央及地方职官"
+  },
+  {
+   "cn": "卜人",
+   "en": "bu ren;diviner",
+   "code": "2.128",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_先秦_政治_中央及地方职官"
+  },
+  {
+   "cn": "太卜",
+   "en": "tai bu;grand diviner",
+   "code": "2.108",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_先秦_政治_中央及地方职官"
+  },
+  {
+   "cn": "风角",
+   "en": "feng jiao;wind divination",
+   "code": "1.494",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_通论_思想文化_科技"
+  },
+  {
+   "cn": "卜辞",
+   "en": "bu ci;divination inscriptions",
+   "code": "2.397",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_先秦_思想文化_思想学术"
+  },
+  {
+   "cn": "卜夕",
+   "en": "bu xi;evening divination",
+   "code": "2.469",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_先秦_宗教"
+  },
+  {
+   "cn": "习卜",
+   "en": "xi bu;repeat divination",
+   "code": "2.471",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_先秦_宗教"
+  },
+  {
+   "cn": "筮",
+   "en": "shi;counting rod divination",
+   "code": "2.473",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_先秦_宗教"
+  },
+  {
+   "cn": "占候",
+   "en": "zhan hou;divine and observe",
+   "code": "1.493",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_通论_思想文化_科技"
+  },
+  {
+   "cn": "神州",
+   "en": "Shen Zhou;the Divine Land",
+   "code": "1.552",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_通论_历史地理_总体名词"
+  },
+  {
+   "cn": "卜筮简",
+   "en": "bu shi jian;divination slips",
+   "code": "2.396",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_先秦_思想文化_思想学术"
+  },
+  {
+   "cn": "神圣之诗",
+   "en": "Divine Poem\",\"The",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "分水岭",
+   "en": "water divide\",\"divide",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "舱盖曳行装置",
+   "en": "hatch cover driving device",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "分水岭",
+   "en": "divide",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "潜水",
+   "en": "diving",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "潜水",
+   "en": "diving",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "分水岭",
+   "en": "stream divide\",\"watershed divide",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "潜水工作船，潜水支援船",
+   "en": "diving support vessel\",\"diving boat",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "分水岭",
+   "en": "drainage divide",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "气候分界",
+   "en": "climate divide",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "饱和潜水",
+   "en": "saturation diving",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "常规潜水",
+   "en": "conventional diving",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "前识",
+   "en": "Foreknowledge / Prophecy",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "鱼跃救球",
+   "en": "dive\",\"diving save",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "鱼跃射门",
+   "en": "dive shot\",\"diving shot",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_手球名词"
+  },
+  {
+   "cn": "跳水运动",
+   "en": "diving",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跳水名词"
+  },
+  {
+   "cn": "数字鸿沟",
+   "en": "digital divide",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "鱼跃救球",
+   "en": "diving retrieve",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_沙滩排球名词"
+  },
+  {
+   "cn": "跳水比赛",
+   "en": "diving competition",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跳水名词"
+  },
+  {
+   "cn": "跳台跳水",
+   "en": "platform diving",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跳水名词"
+  },
+  {
+   "cn": "双人跳水",
+   "en": "synchronized diving",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跳水名词"
+  },
+  {
+   "cn": "跳板跳水",
+   "en": "springboard diving",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跳水名词"
+  },
+  {
+   "cn": "跳水池",
+   "en": "diving pool",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跳水名词"
+  },
+  {
+   "cn": "跳水设施",
+   "en": "diving installation",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跳水名词"
+  },
+  {
+   "cn": "占卜",
+   "en": "divination",
+   "code": "4.2.9.34",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_文化现象"
+  },
+  {
+   "cn": "占卜",
+   "en": "divination",
+   "code": "4.0301",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "神判",
+   "en": "divine judgments",
+   "code": "4.0316",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "潜水医学",
+   "en": "diving medicine",
+   "code": "12.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_航海和潜水医学_潜水医学"
+  },
+  {
+   "cn": "潜水作业卫生",
+   "en": "diving operation hygiene",
+   "code": "6.3.9.7",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事作业医学_军事作业卫生"
+  },
+  {
+   "cn": "生活社区",
+   "en": "living community",
+   "code": "11.1.3",
+   "standard": "社会医学名词",
+   "subject": "社区卫生"
+  },
+  {
+   "cn": "管腔器械",
+   "en": "hollow device",
+   "code": "4.6.9.5",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_医院消毒"
+  },
+  {
+   "cn": "复杂器械",
+   "en": "complex device",
+   "code": "4.6.9.6",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_医院消毒"
+  },
+  {
+   "cn": "活法",
+   "en": "living law",
+   "code": "3.7.6.13",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_法律社会学_法律的演化"
+  },
+  {
+   "cn": "生活救助",
+   "en": "living assistance",
+   "code": "4.3.9.11",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会救助"
+  },
+  {
+   "cn": "生活水平",
+   "en": "living standards",
+   "code": "03.0174",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "生活指导",
+   "en": "living guidance",
+   "code": "6.4.4",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "学校心理健康促进"
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -2,10 +2,347 @@
  "key": "disjunctive normal form",
  "term": "disjunctive normal form",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T17:54:11+00:00",
- "status": "error",
- "note": "variant=disjunctive normal form; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "disjunctive normal form: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T03:52:22+00:00",
+ "status": "ok",
+ "note": "variant=disjunctive normal form; 审定公布名词库=7908; 海峡两岸名词对照库=1745; 其他来源数据库=896; 预公布名词数据库=782; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "析取范式",
+   "en": "disjunctive normal form",
+   "code": "02.0138",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "析取范式",
+   "en": "disjunctive normal form",
+   "code": "02.0038",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "范式",
+   "en": "normal form",
+   "code": "02.0036",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "法线式",
+   "en": "normal form",
+   "code": "08.0242",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_解析几何学"
+  },
+  {
+   "cn": "析取",
+   "en": "disjunction",
+   "code": "11.138",
+   "standard": "语言学名词",
+   "subject": "语言学_计算语言学_算法"
+  },
+  {
+   "cn": "间断分布",
+   "en": "disjunction",
+   "code": "01.0234",
+   "standard": "古生物学名词",
+   "subject": "古生物学_总论"
+  },
+  {
+   "cn": "析取[词]",
+   "en": "disjunction",
+   "code": "02.0031",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "析取项",
+   "en": "disjunct",
+   "code": "02.0032",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "范式定理",
+   "en": "normal form theorem",
+   "code": "02.0161",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "格雷巴赫范式",
+   "en": "Greibach normal form",
+   "code": "02.0497",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_形式语言与自动机"
+  },
+  {
+   "cn": "合取范式",
+   "en": "conjunctive normal form",
+   "code": "02.0139",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "乔姆斯基范式",
+   "en": "Chomsky normal form",
+   "code": "02.0474",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_形式语言与自动机"
+  },
+  {
+   "cn": "析取范式",
+   "en": "disjunctive normal form",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "范式",
+   "en": "normal form",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "范式",
+   "en": "normal form\",\"NF",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "巴克斯范式",
+   "en": "Backus normal form",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "标准形式下推自动机",
+   "en": "normal form PDA",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "第二范式",
+   "en": "second normal form",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "第三范式",
+   "en": "third normal form",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "第四范式",
+   "en": "forth normal form",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "第五范式",
+   "en": "fifth normal form",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "第一范式",
+   "en": "first normal form",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "格雷巴赫范式",
+   "en": "Greibach normal form",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "合取范式",
+   "en": "conjunctive normal form",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "竞技状态",
+   "en": "form",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "姿势",
+   "en": "form",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_蹦床名词"
+  },
+  {
+   "cn": "正规算子",
+   "en": "normal operator",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "正态分布",
+   "en": "normal distribution",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "正规矩阵",
+   "en": "normal matrix",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "新常态",
+   "en": "new normal",
+   "code": null,
+   "standard": "中央文献重要术语",
+   "subject": "其他"
+  },
+  {
+   "cn": "自守形式",
+   "en": "Automorphic form",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "标准化形式",
+   "en": "standardization form",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "姿势裁判员",
+   "en": "form judge",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_蹦床名词"
+  },
+  {
+   "cn": "机械加工",
+   "en": "forming (metalworking)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "螺纹加工",
+   "en": "（Forming (metalworking)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "正常重力位",
+   "en": "Normal gravity potential",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "形式",
+   "en": "form",
+   "code": "01.0055",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "正常照射",
+   "en": "normal exposure",
+   "code": "6.1.5.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_一般要求"
+  },
+  {
+   "cn": "正态分布",
+   "en": "normal distribution",
+   "code": "1.2.5.20",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "常规科学",
+   "en": "normal science",
+   "code": "3.10.5.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_科学社会学_科学社会学研究"
+  },
+  {
+   "cn": "常规科学",
+   "en": "normal science",
+   "code": "03.176",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向"
+  },
+  {
+   "cn": "正常品",
+   "en": "normal goods",
+   "code": "4.3.2.2.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务需求_卫生服务需求弹性"
+  },
+  {
+   "cn": "归一化系数",
+   "en": "normalized coefficient",
+   "code": "4.3.3.12.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射工作人员健康监护"
+  },
+  {
+   "cn": "归一化工作量",
+   "en": "normalized workload",
+   "code": "4.3.3.12.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射工作人员健康监护"
+  },
+  {
+   "cn": "语言规范化",
+   "en": "language normalization",
+   "code": "5.0163",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_语言状况与规划"
+  },
+  {
+   "cn": "零形式",
+   "en": "zero form",
+   "code": "5.0064",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "社会形式",
+   "en": "social form",
+   "code": "2.1.2.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会形式"
+  },
+  {
+   "cn": "组织形态",
+   "en": "organizational form",
+   "code": "2.5.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_群体和组织"
+  }
+ ],
+ "error": null,
  "raw": null
 }

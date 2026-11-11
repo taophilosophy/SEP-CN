@@ -2,10 +2,347 @@
  "key": "distributively confused supposition",
  "term": "distributively confused supposition",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T18:01:44+00:00",
- "status": "error",
- "note": "variant=distributively confused supposition; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "distributively confused supposition: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T03:56:52+00:00",
+ "status": "ok",
+ "note": "variant=distributively confused supposition; 审定公布名词库=1426; 海峡两岸名词对照库=504; 其他来源数据库=60; 预公布名词数据库=54; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "意识错乱",
+   "en": "confusion",
+   "code": "03.960",
+   "standard": "急救医学名词",
+   "subject": "急救医学_日常医学急救_老年学_老年精神病学"
+  },
+  {
+   "cn": "意识模糊",
+   "en": "confusion",
+   "code": "4.056",
+   "standard": "睡眠医学名词",
+   "subject": "睡眠医学_睡眠疾病诊断学_症状与体征"
+  },
+  {
+   "cn": "意识错乱",
+   "en": "confusion",
+   "code": "04.009",
+   "standard": "神经病学名词",
+   "subject": "神经病学_神经病学症状与体征"
+  },
+  {
+   "cn": "意识错乱",
+   "en": "confusion",
+   "code": "02.005",
+   "standard": "精神医学名词",
+   "subject": "精神医学_症状与体征_意识障碍症状"
+  },
+  {
+   "cn": "意识错乱",
+   "en": "confusion",
+   "code": "04.463",
+   "standard": "老年医学名词",
+   "subject": "老年医学_老年临床医学_老年精神疾病"
+  },
+  {
+   "cn": "意识错乱",
+   "en": "confusion",
+   "code": "08.139",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_精神病学"
+  },
+  {
+   "cn": "视物易色",
+   "en": "color confusion",
+   "code": "04.391",
+   "standard": "中医药学名词（2013）",
+   "subject": "中医药学_眼科学_疾病"
+  },
+  {
+   "cn": "反应性意识错乱",
+   "en": "reactive confusion",
+   "code": "08.221",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_精神病学"
+  },
+  {
+   "cn": "混淆区",
+   "en": "confusion region",
+   "code": "19.068",
+   "standard": "电子学名词",
+   "subject": "电子学_雷达与电子对抗"
+  },
+  {
+   "cn": "意识模糊",
+   "en": "confusion of consciousness,mental confusion",
+   "code": "04.226",
+   "standard": "阿尔茨海默病名词",
+   "subject": "阿尔茨海默病_精神与心理认知学"
+  },
+  {
+   "cn": "弥散圆",
+   "en": "circle of confusion",
+   "code": "13.091",
+   "standard": "光学名词",
+   "subject": "光学_一般光学系统与光学设计"
+  },
+  {
+   "cn": "弥散圆",
+   "en": "circle of confusion",
+   "code": "08.276",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天遥感"
+  },
+  {
+   "cn": "混乱性",
+   "en": "confusion",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "认同混淆",
+   "en": "identity confusion",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "混淆矩阵",
+   "en": "confusion matrix",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "混淆区",
+   "en": "confusion region",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "认同对角色混乱",
+   "en": "identity versus role confusion",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "误差矩阵",
+   "en": "error matrix\",\"confusion matrix",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "分布",
+   "en": "distribution",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "分配",
+   "en": "distribution",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "χ2分布",
+   "en": "χ2-distribution",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "分配",
+   "en": "distribution",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "配电",
+   "en": "distribution",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "分配定律",
+   "en": "distribution law\",\"distributive law",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "混乱动作",
+   "en": "confused fencing",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "混乱动作",
+   "en": "confused fencing\",\"disorderly fencing",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "分配正义",
+   "en": "distributive justice",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "分布式计算",
+   "en": "Distributed computing",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "指数分布",
+   "en": "Exponential distribution",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "引力模型",
+   "en": "Trip distribution",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "瑞利分布",
+   "en": "Rayleigh distribution",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "统计分布",
+   "en": "statistical distribution",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "正态分布",
+   "en": "normal distribution",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "分布式数据库",
+   "en": "distributed database",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "分布式查询",
+   "en": "distributed query",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "分布式处理",
+   "en": "distributed processing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "分布",
+   "en": "distribution",
+   "code": "6.3.2.30",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢"
+  },
+  {
+   "cn": "分布",
+   "en": "distribution",
+   "code": "1.2.5.19",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "分配",
+   "en": "distribution",
+   "code": "02.0007",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "分布",
+   "en": "distribution",
+   "code": "16.1.2.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事毒理学_军事毒理学基础"
+  },
+  {
+   "cn": "累积分布",
+   "en": "cumulative distribution cumulative distribution",
+   "code": "1.2.5.24",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "剂量分布",
+   "en": "dose distribution",
+   "code": "5.21.6",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_辐照食品"
+  },
+  {
+   "cn": "分配系数",
+   "en": "distribution coefficient",
+   "code": "7.1.70",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品相关产品_食品接触材料及制品"
+  },
+  {
+   "cn": "选择性分布",
+   "en": "selective distribution",
+   "code": "6.3.2.32",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢"
+  },
+  {
+   "cn": "正态分布",
+   "en": "normal distribution",
+   "code": "1.2.5.20",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "二项分布",
+   "en": "binomial distribution",
+   "code": "1.2.5.21",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "t分布",
+   "en": "t distribution",
+   "code": "1.2.5.22",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "频次分布",
+   "en": "frequency distribution",
+   "code": "1.2.5.23",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  }
+ ],
+ "error": null,
  "raw": null
 }

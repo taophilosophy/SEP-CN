@@ -1,11 +1,432 @@
 {
  "key": "doctrinal investigation / censure",
- "term": "censure",
+ "term": "doctrinal investigation / censure",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T18:09:14+00:00",
- "status": "error",
- "note": "variant=censure; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "censure: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T03:56:52+00:00",
+ "status": "ok",
+ "note": "variant=doctrinal investigation; 审定公布名词库=348; 海峡两岸名词对照库=28; 其他来源数据库=20; 预公布名词数据库=33; variant=censure; 审定公布名词库=436; 海峡两岸名词对照库=119; 其他来源数据库=30; 预公布名词数据库=26; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "神经元学说",
+   "en": "neuron doctrine",
+   "code": "03.021",
+   "standard": "生理学名词",
+   "subject": "生理学_神经生理学"
+  },
+  {
+   "cn": "艾森豪威尔主义",
+   "en": "Eisenhower Doctrine",
+   "code": "01.0767",
+   "standard": "世界历史名词",
+   "subject": "世界历史_综合_世界政治、世界经济"
+  },
+  {
+   "cn": "哈尔斯坦主义",
+   "en": "Hallstein Doctrine",
+   "code": "03.0665",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_德国、奥地利"
+  },
+  {
+   "cn": "尼克松主义",
+   "en": "Nixon Doctrine",
+   "code": "01.0775",
+   "standard": "世界历史名词",
+   "subject": "世界历史_综合_世界政治、世界经济"
+  },
+  {
+   "cn": "里根主义",
+   "en": "Reagan Doctrine",
+   "code": "01.0780",
+   "standard": "世界历史名词",
+   "subject": "世界历史_综合_世界政治、世界经济"
+  },
+  {
+   "cn": "门罗主义",
+   "en": "Monroe Doctrine",
+   "code": "03.0055",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_美国"
+  },
+  {
+   "cn": "西纳特拉主义",
+   "en": "Sinatra Doctrine",
+   "code": "05.0517",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人"
+  },
+  {
+   "cn": "德拉戈主义",
+   "en": "Drago Doctrine",
+   "code": "04.0584",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_墨西哥、中美洲"
+  },
+  {
+   "cn": "杜鲁门主义",
+   "en": "Truman Doctrine",
+   "code": "01.0758",
+   "standard": "世界历史名词",
+   "subject": "世界历史_综合_世界政治、世界经济"
+  },
+  {
+   "cn": "勃列日涅夫主义",
+   "en": "Brezhnev Doctrine",
+   "code": "05.0499",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人"
+  },
+  {
+   "cn": "群岛原则",
+   "en": "archipelagic doctrine",
+   "code": "04.0060",
+   "standard": "海洋科技名词",
+   "subject": "海洋科学技术_其他_海洋管理"
+  },
+  {
+   "cn": "真实票据学说",
+   "en": "real bills doctrine",
+   "code": "14.083",
+   "standard": "经济学名词",
+   "subject": "经济学_经济思想史"
+  },
+  {
+   "cn": "区域教义",
+   "en": "territorial doctrines",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "神经元学说",
+   "en": "neuron doctrine",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "细胞学说",
+   "en": "cell doctrine",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "定性研究",
+   "en": "qualitative investigation",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "湿地调查",
+   "en": "wetland investigation",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "土地调查",
+   "en": "land investigation",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "系统调查",
+   "en": "system investigation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "海事调查",
+   "en": "maritime investigation",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "海洋调查",
+   "en": "marine investigation",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "研究中新药",
+   "en": "investigational drugs",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "坝址勘查",
+   "en": "dam site investigation",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "海洋环境调查",
+   "en": "marine environment investigation",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "调查",
+   "en": "investigation",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "智慧侦查",
+   "en": "intelligent investigation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "流行病学调查（流调）",
+   "en": "epidemiological investigation ",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "医学词汇_其他医学词汇"
+  },
+  {
+   "cn": "远程侦查指挥",
+   "en": "remote investigation command",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《国家信息安全学说》（俄罗斯）",
+   "en": "Doctrine of Information Security (Russia)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据标准现状调研",
+   "en": "data standard status investigation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "AI侦查员助理",
+   "en": "AI assistant to investigator",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "联邦调查局",
+   "en": "Federal Bureau of Investigation；FBI",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "大数据征信",
+   "en": "big data-based credit investigation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "重大决策责任倒查机制",
+   "en": "mechanism for retroactive investigation into accountability for major decisions",
+   "code": null,
+   "standard": "中央文献重要术语",
+   "subject": "其他"
+  },
+  {
+   "cn": "《EN ISO/IEC 27043-2016 信息技术 安全技术 事故调查的原则与程序》",
+   "en": "EN ISO/IEC 27043:2016 Information technology — Security techniques — Incident investigation principles and processes",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《EN ISO/IEC 27041-2016 信息技术 安全技术 确保事件调查方法的适用性和充分性的指南》",
+   "en": "EN ISO/IEC 27041:2016 Information technology — Security techniques — Guidance on assuring suitability and adequacy of incident investigative method",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "局内人信条",
+   "en": "insider doctrine",
+   "code": "3.10.5.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_科学社会学_科学社会学研究"
+  },
+  {
+   "cn": "局外人信条",
+   "en": "outsider doctrine",
+   "code": "3.10.5.11",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_科学社会学_科学社会学研究"
+  },
+  {
+   "cn": "费尔巴哈主义",
+   "en": "Ferbaja doctrine",
+   "code": "01.0115",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "杜林主义",
+   "en": "Duhring doctrine",
+   "code": "04.0323",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期"
+  },
+  {
+   "cn": "勃列日涅夫主义",
+   "en": "Brezhnev doctrine",
+   "code": "05.0224",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外社会主义运动_主要事件"
+  },
+  {
+   "cn": "调查水平",
+   "en": "investigation level",
+   "code": "6.1.3.12",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_辐射危险控制"
+  },
+  {
+   "cn": "卫生学调查",
+   "en": "hygiene investigation",
+   "code": "3.6.20",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物中毒卫生学处置"
+  },
+  {
+   "cn": "个案调查",
+   "en": "case investigation",
+   "code": "14.8.4.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队流行病学_军队突发公共卫生事件"
+  },
+  {
+   "cn": "暴发调查",
+   "en": "outbreak investigation",
+   "code": "14.8.4.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队流行病学_军队突发公共卫生事件"
+  },
+  {
+   "cn": "调查会",
+   "en": "investigation meeting",
+   "code": "1.0653",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "个案调查",
+   "en": "individual case investigation",
+   "code": "3.6.19.9",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物中毒卫生学处置"
+  },
+  {
+   "cn": "异常结果调查",
+   "en": "investigation of abnormal result",
+   "code": "5.5.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_监测与评价"
+  },
+  {
+   "cn": "闭合度",
+   "en": "closure",
+   "code": "09.03.035",
+   "standard": "地质学名词",
+   "subject": "地质学_构造地质学_褶皱构造"
+  },
+  {
+   "cn": "创面闭合",
+   "en": "closure",
+   "code": "04.0069",
+   "standard": "手外科学名词",
+   "subject": "手外科学_上肢损伤"
+  },
+  {
+   "cn": "合龙",
+   "en": "closure",
+   "code": "15.062",
+   "standard": "电力名词",
+   "subject": "电力_水电站施工"
+  },
+  {
+   "cn": "测量",
+   "en": "measure",
+   "code": "01.0029",
+   "standard": "核医学名词",
+   "subject": "核医学_总论"
+  },
+  {
+   "cn": "闭包",
+   "en": "closure",
+   "code": "02.0475",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_形式语言与自动机"
+  },
+  {
+   "cn": "度量",
+   "en": "measure",
+   "code": "03.0361",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_决策支持系统"
+  },
+  {
+   "cn": "闭包",
+   "en": "closure",
+   "code": "02.0053",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_基本概念"
+  },
+  {
+   "cn": "义齿",
+   "en": "denture",
+   "code": "05.039",
+   "standard": "医学美学与美容医学名词",
+   "subject": "医学美学与美容医学_美容牙科学"
+  },
+  {
+   "cn": "义齿",
+   "en": "denture",
+   "code": "08.0288",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_生物材料_口腔材料"
+  },
+  {
+   "cn": "合龙",
+   "en": "closure",
+   "code": "06.227",
+   "standard": "土木工程名词",
+   "subject": "土木工程_桥梁工程_桥梁施工"
+  },
+  {
+   "cn": "丈量",
+   "en": "measure",
+   "code": "02.1046",
+   "standard": "铁道科学技术名词",
+   "subject": "铁道科学技术_铁道工程建设"
+  },
+  {
+   "cn": "桥梁合龙",
+   "en": "closure",
+   "code": "02.0540",
+   "standard": "铁道科学技术名词",
+   "subject": "铁道科学技术_铁道工程建设"
+  }
+ ],
+ "error": null,
  "raw": null
 }
