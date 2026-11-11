@@ -579,6 +579,17 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
   审定生理学「经典条件反射」）、collapse model（生物物理下位词）、communication rule（超矢列演算直译，审定新闻传播「沟通规则」异义）、
   competence（农学/医学遗传「感受态」异义）、competence（医疗与法律语境，维基垃圾）。
 
+### 四、二轮第四批（offset 328–400，11 条，c 段补查）
+
+* 审计刷新：一致 689 / 不一致 491 / 查无 2663 / 未查证 5065；新增不一致 11 条。
+* **主译变更 2 条**：conceivability argument「可设想论证」→「可设想性论证」（审定·自然辩证法；`z/zombies.md` 17 行看齐）、
+  constructive empiricism「建构经验主义」→「建构经验论」（审定·自然辩证法；`s/scientific-explanation-20th.md` 看齐）。
+* **保留 9 条**：complement（生化「补体」异义）、computably enumerable（命中为复合词下位）、conceptual scheme（风景园林
+  「方案设计」假阳性）、condensation（本条弗洛伊德「凝缩」≠物理「凝结」）、congruence（数学「同余式」异义）、
+  conscientiousness（海峡两岸「严谨性」，大陆通行「尽责性」）、constellation（本雅明「星丛」≠天文「星座」）、
+  continuity axiom（审定「连续公理」为 axiom of continuity 名词序，正文 24:0 通行「连续性公理」）、conversion（档案/化工异义）。
+
+
 
 
 
