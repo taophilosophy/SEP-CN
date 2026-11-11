@@ -2,7 +2,7 @@
   "slug": "falaquera",
   "kind": "retranslate",
   "zh_doc": "f/falaquera.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "F-main-20261111b",
       "at": "2026-11-11T07:32:49Z",
       "evidence": "逐句回核七节（生平/普及者/改写者/百科全书家/评注家/释经者/结语）：法拉奎拉著作年序论证（Sefer ha-Ma‘alot→Shelemut ha-Ma‘asim→Moreh ha-Moreh）、1230 年代迈蒙尼德之争与 1305 年阿德雷特禁令、三部曲（Reshit Hokhmah/Sefer ha-Ma‘alot/De‘ot ha-Filosofim）与来源拼合方式、创世论（从无中 vs 在不存在之后）的通俗著作与评注之张力，叙述与论辩逐段对应源文，无漏段、无增译、无立场漂移。客观对账：四位数年份多重集 11:11 全等；译文页码组（9/2、11/5、12/7–8、56/14–15、65/29、69–71/34–37、74/42、77/46）逐一对应；数字差异仅为中文数字改写（两万节、第二/三部分、10–11 月）。关键引文回核（休书与智慧婚约、Reshit Hokhmah 导言、Iggeret ha-Vikkuah 两段、百科全书导言、「Me-ha-he‘der / ahar ha-he‘der」创世引文）语义一致；引块 4:4。术语 6 行（玛卡梅/完善城/主动理智/中等评注/虔信者/改写）与人名 7 行均在册；check_terms 硬错误 0。check_style --strict 0；check_academic OK；check_math 0/0；check_prose 余 3 条全在引文块（ADR-0020 豁免）。语体结论：现代汉语学术书面语，无文言仿古。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "REV-main-20261111",
+      "at": "2026-11-11T11:16:54Z",
+      "evidence": "终审（REV-main-20261111 独立验收，异于初译/复审 F-main-20261111/11b）：结构对账——defs 72:72 键集与顺序全等、内联 marker 2:2 顺序一致、节 7:7、引块 4:4、图 0:0、H1 与 SUMMARY 行 934 逐字一致；四检复跑全绿——check_style 0 / check_math 0 式 0 缺失 0 失衡 / check_academic --strict 0 硬错误 / check_prose 3 条全在引文块（§4 百科导言长句与复数「们」、§7 创世引文 de-chain，ADR-0020 豁免留痕与 s2/r1/r2 一致）；抽读 §4 对照源文（阿维森纳枚举引块、来源拼合段）无漏译/增译/立场偏移；语体结论：现代汉语学术书面语，无文言仿古"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "REV-main-20261111",
+      "at": "2026-11-11T11:16:54Z",
+      "evidence": "done 收口（REV-main-20261111）：r3 验收签字后正文零改动；四检全绿维持（check_style 0 / check_academic --strict OK / check_math 0/0 / check_prose 3 条引文内豁免留痕）；复核独立性满足（初译与复审 F 线，终审 REV 线）"
     }
   ],
   "blockers": [],

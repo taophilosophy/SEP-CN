@@ -1,0 +1,348 @@
+{
+ "key": "meta-inference",
+ "term": "meta-inference",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T11:08:05+00:00",
+ "status": "ok",
+ "note": "variant=meta-inference; 审定公布名词库=2215; 海峡两岸名词对照库=775; 其他来源数据库=84; 预公布名词数据库=142; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "meta回归",
+   "en": "meta regression",
+   "code": "05.0558",
+   "standard": "食品科学技术名词",
+   "subject": "食品科学技术_食品营养_荟萃分析和系统综述"
+  },
+  {
+   "cn": "元-元模型",
+   "en": "meta-meta model",
+   "code": "06.0097",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_软件工程"
+  },
+  {
+   "cn": "推理",
+   "en": "inference",
+   "code": "09.043",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_智能化工制造系统"
+  },
+  {
+   "cn": "推论",
+   "en": "inference",
+   "code": "04.049",
+   "standard": "全科医学与社区卫生名词",
+   "subject": "全科医学与社区卫生_全科医疗服务"
+  },
+  {
+   "cn": "变角闪岩",
+   "en": "meta-hornblendite",
+   "code": "06.05.047",
+   "standard": "地质学名词",
+   "subject": "地质学_变质岩岩石学_变质岩岩石类型"
+  },
+  {
+   "cn": "变辉石岩",
+   "en": "meta-pyroxenolite",
+   "code": "06.05.048",
+   "standard": "地质学名词",
+   "subject": "地质学_变质岩岩石学_变质岩岩石类型"
+  },
+  {
+   "cn": "宏代谢组",
+   "en": "meta-metabolome",
+   "code": "15.257",
+   "standard": "农学名词",
+   "subject": "农业生物技术_微生物组工程"
+  },
+  {
+   "cn": "元话语",
+   "en": "meta-discourse",
+   "code": "03.200",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_后现代主义科学哲学"
+  },
+  {
+   "cn": "元知识",
+   "en": "meta-knowledge",
+   "code": "09.034",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_智能化工制造系统"
+  },
+  {
+   "cn": "元沟通",
+   "en": "meta communication",
+   "code": "6.034",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播总论_传播研究基础"
+  },
+  {
+   "cn": "元讯息",
+   "en": "meta message",
+   "code": "6.097",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播总论_传播研究基础"
+  },
+  {
+   "cn": "变形球建模",
+   "en": "meta modeling",
+   "code": "06.02.118",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_数字出版_音像出版"
+  },
+  {
+   "cn": "元分析",
+   "en": "meta analysis",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "间位",
+   "en": "meta position",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "整合分析",
+   "en": "meta-analysis",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "元信令",
+   "en": "meta-signaling",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "媒介人兽互通病",
+   "en": "meta-zoonosis",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "推理",
+   "en": "inference\",\"reasoning",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "推理",
+   "en": "inference\",\"reasoning",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "武断推论",
+   "en": "arbitrary inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "无意识推理",
+   "en": "unconscious inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "直接推理",
+   "en": "direct inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "对应推论",
+   "en": "correspondent inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "类别推理",
+   "en": "categorical inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "元分析",
+   "en": "meta-analysis",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "元知识",
+   "en": "meta-knowledge",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "意图推断",
+   "en": "intent inference",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "因果推断",
+   "en": "causal inference",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "知识推理",
+   "en": "knowledge inference",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据结构元备份",
+   "en": "data structure meta backup",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "举一反三",
+   "en": "Infer Three Other Related Aspects from One Concept",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "标枪头",
+   "en": "metal head\",\"metal point",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "参照群体",
+   "en": "Reference group",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "协议定价",
+   "en": "conference pricing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "对称差",
+   "en": "symmetric difference",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "净胜球",
+   "en": "goal difference",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_水球名词"
+  },
+  {
+   "cn": "Meta分析",
+   "en": "meta analysis",
+   "code": "4.7.4",
+   "standard": "社会医学名词",
+   "subject": "社会医学研究方法"
+  },
+  {
+   "cn": "荟萃分析",
+   "en": "meta-analysis",
+   "code": "1.2.5.158",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "元学习",
+   "en": "meta-learning",
+   "code": "5.5.13",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育"
+  },
+  {
+   "cn": "β参考辐射",
+   "en": "reference beta radiation",
+   "code": "5.3.2.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测技术_α、β粒子辐射监测技术"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference, sex difference",
+   "code": "7.1.1.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇幼心理与精神卫生_妇女心理卫生"
+  },
+  {
+   "cn": "金属",
+   "en": "metal",
+   "code": "6.3.7.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事作业医学_军事作业卫生"
+  },
+  {
+   "cn": "阿埃塔人",
+   "en": "Aeta",
+   "code": "6.012",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_世界民族_亚洲地区"
+  },
+  {
+   "cn": "压差",
+   "en": "pressure difference",
+   "code": "4.6.18.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_医院消毒"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "code": "5.5.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_监测与评价"
+  },
+  {
+   "cn": "参考响应",
+   "en": "reference response",
+   "code": "5.5.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_监测与评价"
+  },
+  {
+   "cn": "影响量",
+   "en": "influence quantity",
+   "code": "5.6.11",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测质量控制"
+  },
+  {
+   "cn": "参考水平",
+   "en": "reference level",
+   "code": "6.1.3.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_辐射危险控制"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

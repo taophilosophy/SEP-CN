@@ -1,0 +1,348 @@
+{
+ "key": "merge-then-project",
+ "term": "merge-then-project",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T11:08:05+00:00",
+ "status": "ok",
+ "note": "variant=merge-then-project; 审定公布名词库=5458; 海峡两岸名词对照库=1062; 其他来源数据库=1391; 预公布名词数据库=742; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "数据合并",
+   "en": "merging",
+   "code": "02.241",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_分子与结构生物学_蛋白质晶体学"
+  },
+  {
+   "cn": "合流",
+   "en": "merging",
+   "code": "07.095",
+   "standard": "土木工程名词",
+   "subject": "土木工程_城市道路工程_道路交通"
+  },
+  {
+   "cn": "星系并合",
+   "en": "merge of galaxy; galaxy merging; galactic merging",
+   "code": "07.223",
+   "standard": "天文学名词",
+   "subject": "天文学_星系和宇宙学"
+  },
+  {
+   "cn": "村庄撤并",
+   "en": "village merge",
+   "code": "03.235",
+   "standard": "城乡规划学名词",
+   "subject": "城乡规划学_城乡规划与设计_乡村规划"
+  },
+  {
+   "cn": "二路归并",
+   "en": "binary merge",
+   "code": "02.0733",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_算法设计与分析"
+  },
+  {
+   "cn": "归并插入",
+   "en": "merge insertion",
+   "code": "02.0735",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_算法设计与分析"
+  },
+  {
+   "cn": "并合星系",
+   "en": "merging galaxy",
+   "code": "07.224",
+   "standard": "天文学名词",
+   "subject": "天文学_星系和宇宙学"
+  },
+  {
+   "cn": "区域聚合",
+   "en": "region merging",
+   "code": "17.131",
+   "standard": "光学名词",
+   "subject": "光学_图像处理技术"
+  },
+  {
+   "cn": "聚合技术",
+   "en": "merging technique",
+   "code": "17.135",
+   "standard": "光学名词",
+   "subject": "光学_图像处理技术"
+  },
+  {
+   "cn": "制图合并",
+   "en": "cartographic merging",
+   "code": "04.226",
+   "standard": "测绘学名词",
+   "subject": "测绘学_地图学"
+  },
+  {
+   "cn": "合并单元",
+   "en": "merging unit",
+   "code": "06.122",
+   "standard": "电力名词",
+   "subject": "电力_调度与通信、电力市场"
+  },
+  {
+   "cn": "磁场并合",
+   "en": "magnetic merging",
+   "code": "10.0483",
+   "standard": "物理学名词",
+   "subject": "物理学_等离子体物理学"
+  },
+  {
+   "cn": "并合",
+   "en": "merging",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "合并",
+   "en": "merging",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "星系并合",
+   "en": "merge of galaxy\",\"galaxy merging\",\"galactic merging",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "合并策略",
+   "en": "merge policy",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "二路归并",
+   "en": "binary merge",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "归并插入",
+   "en": "merge insertion",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "文档归并",
+   "en": "document merge",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "归并排序",
+   "en": "merge sort\",\"order by merging",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "并合恒星",
+   "en": "merging star",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "并合星系",
+   "en": "merging galaxy",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "版本合并",
+   "en": "version merging",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "分辨率融合",
+   "en": "resolution merging",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "行先知后",
+   "en": "First Action, Then Knowledge",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "知先行后",
+   "en": "First Knowledge, Then Action",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "211工程",
+   "en": "Project 211",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "岂因祸福避趋之",
+   "en": "What then is risk to me?",
+   "code": null,
+   "standard": "中央文献重要术语",
+   "subject": "其他"
+  },
+  {
+   "cn": "统计过程控制",
+   "en": "Project charter",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "阿波罗计划",
+   "en": "Project Apollo",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "曼哈顿计划",
+   "en": "Manhattan Project",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "Phoenix项目",
+   "en": "Phoenix Project",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "Impala项目",
+   "en": "Impala Project",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "核爆炸",
+   "en": "Project Plowshare",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "项目经理",
+   "en": "Project manager",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "实施大部门制",
+   "en": "merge and streamline government departments",
+   "code": null,
+   "standard": "中央文献重要术语",
+   "subject": "其他"
+  },
+  {
+   "cn": "建模后相加模型",
+   "en": "model-then-add model",
+   "code": "1.4.4.90",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "福克斯计划",
+   "en": "Fox Project",
+   "code": "1.0123",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "曼哈顿计划",
+   "en": "Manhattan Project",
+   "code": "10.2.2.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_重要组织、机构和历史事件_历史事件_推动历史发展的重要事件"
+  },
+  {
+   "cn": "项目组",
+   "en": "project team",
+   "code": "2.5.13.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念群体和组织"
+  },
+  {
+   "cn": "维柯斯计划",
+   "en": "Vicos Project",
+   "code": "1.0122",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "预期剂量",
+   "en": "projected dose",
+   "code": "7.2.2.8",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应"
+  },
+  {
+   "cn": "社会设计",
+   "en": "social projection",
+   "code": "2.1.8.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会建设"
+  },
+  {
+   "cn": "投影法",
+   "en": "projective test",
+   "code": "4.2.7.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_人类学方法"
+  },
+  {
+   "cn": "放射建设项目",
+   "en": "radiation construction project",
+   "code": "8.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生监管"
+  },
+  {
+   "cn": "福利彩票事业",
+   "en": "welfare lottery project",
+   "code": "4.3.6.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会福利"
+  },
+  {
+   "cn": "国家大豆行动计划",
+   "en": "national soybean project",
+   "code": "4.1.2.6",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应"
+  },
+  {
+   "cn": "卫生项目评价",
+   "en": "health project evaluation",
+   "code": "8.12.2",
+   "standard": "社会医学名词",
+   "subject": "卫生服务研究"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

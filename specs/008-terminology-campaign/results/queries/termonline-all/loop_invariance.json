@@ -1,0 +1,299 @@
+{
+ "key": "loop invariance",
+ "term": "loop invariance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T10:51:34+00:00",
+ "status": "ok",
+ "note": "variant=loop invariance; 审定公布名词库=826; 海峡两岸名词对照库=314; 其他来源数据库=22; 预公布名词数据库=5; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "循环不变式",
+   "en": "loop invariant",
+   "code": "05.0174",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_语言与编译"
+  },
+  {
+   "cn": "不变性",
+   "en": "invariance",
+   "code": "01.0075",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "不变量",
+   "en": "invariant",
+   "code": "01.0076",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "不变式",
+   "en": "invariant",
+   "code": "02.0929",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_程序理论"
+  },
+  {
+   "cn": "不变式",
+   "en": "invariant",
+   "code": "04.1885",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_群论"
+  },
+  {
+   "cn": "不变量",
+   "en": "invariant",
+   "code": "04.1886",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_群论"
+  },
+  {
+   "cn": "标度不变性",
+   "en": "scale-invariance",
+   "code": "07.313",
+   "standard": "天文学名词",
+   "subject": "天文学_星系和宇宙学"
+  },
+  {
+   "cn": "标度不变性",
+   "en": "scaling invariance",
+   "code": "01.1817",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_震源"
+  },
+  {
+   "cn": "旋转不变性",
+   "en": "rotation invariance",
+   "code": "06.0716",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "共形不变性",
+   "en": "conformal invariance",
+   "code": "06.0283",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_相对论"
+  },
+  {
+   "cn": "相对论[性]不变性",
+   "en": "relativistic invariance",
+   "code": "06.0040",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_相对论"
+  },
+  {
+   "cn": "手征不变性",
+   "en": "chirality invariance",
+   "code": "06.0717",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "循环不变式",
+   "en": "loop invariant",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "不变式",
+   "en": "invariant",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "不变式",
+   "en": "invariant",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "量纲不变性",
+   "en": "dimensional invariance",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "冲激不变法",
+   "en": "impulse invariance",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "不变平面",
+   "en": "invariable plane",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "刚度不变量",
+   "en": "stiffness invariant",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "柔度不变量",
+   "en": "compliance invariant",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "庞加莱不变量",
+   "en": "Poincar?invariant",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "黎曼不变量",
+   "en": "Riemann invariant",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "恒定链，Ⅱ类分子γ链",
+   "en": "invariant chain",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "S不变量[式]",
+   "en": "S-invariant",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "自组织临界性",
+   "en": "Scale invariance",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "霍普夫不变量",
+   "en": "Hopf invariant",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "绳环",
+   "en": "loop",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "转圈",
+   "en": "loop",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "反馈回路",
+   "en": "Feedback loop",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "弦圈",
+   "en": "string loop",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "圈量子引力",
+   "en": "loop quantum gravity",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "社群反馈回路",
+   "en": "community feedback loop",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "无线本地环路",
+   "en": "Wireless local loop ",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据闭环赋能体系",
+   "en": "closed-loop data empowerment system",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "协方差函数",
+   "en": "Covariance function",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "桨杆",
+   "en": "loom",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "接种环",
+   "en": "inoculating loop",
+   "code": "6.2.3.9.5",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "冷却剂环路",
+   "en": "coolant loop",
+   "code": "6.6.4.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_核工业的放射防护"
+  },
+  {
+   "cn": "一次性接种环",
+   "en": "disposable inoculating loop",
+   "code": "6.2.27.17",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "协方差分析",
+   "en": "analysis of covariance，ancova",
+   "code": "1.2.5.64",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "方差分析",
+   "en": "analysis of variance，anova",
+   "code": "1.2.5.63",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

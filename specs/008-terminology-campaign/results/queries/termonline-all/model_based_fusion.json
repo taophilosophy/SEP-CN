@@ -1,0 +1,348 @@
+{
+ "key": "model-based fusion",
+ "term": "model-based fusion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T11:23:06+00:00",
+ "status": "ok",
+ "note": "variant=model-based fusion; 审定公布名词库=6071; 海峡两岸名词对照库=1822; 其他来源数据库=370; 预公布名词数据库=346; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "BASE模型",
+   "en": "BASE model",
+   "code": "07.0094",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库管理系统及其实现技术"
+  },
+  {
+   "cn": "模型库",
+   "en": "model base",
+   "code": "11.0147",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机应用_信息系统与信息化"
+  },
+  {
+   "cn": "模型库",
+   "en": "model base",
+   "code": "03.0333",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_决策支持系统"
+  },
+  {
+   "cn": "模型库",
+   "en": "model base",
+   "code": "02.322",
+   "standard": "地理信息系统名词",
+   "subject": "地理信息系统_技术与应用"
+  },
+  {
+   "cn": "基于模型的定义",
+   "en": "model based definition",
+   "code": "03.0114",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械设计与制图_机械设计_设计工具"
+  },
+  {
+   "cn": "模型库",
+   "en": "model base,MB",
+   "code": "03.340",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_自动化技术系统_系统工程"
+  },
+  {
+   "cn": "基于个体的模型",
+   "en": "individual-based models",
+   "code": "03.747",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学"
+  },
+  {
+   "cn": "供给基础模型",
+   "en": "supply-base model",
+   "code": "04.014",
+   "standard": "城乡规划学名词",
+   "subject": "城乡规划学_城乡规划技术科学_城乡规划分析与优化技术"
+  },
+  {
+   "cn": "模型库系统",
+   "en": "model base system",
+   "code": "03.0334",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_决策支持系统"
+  },
+  {
+   "cn": "基于行动者的建模",
+   "en": "agent-based modeling",
+   "code": "03.699",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学"
+  },
+  {
+   "cn": "基于物理的建模",
+   "en": "physically-based modeling",
+   "code": "11.0701",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机应用_计算机辅助设计与图形学"
+  },
+  {
+   "cn": "基于特征的造型",
+   "en": "feature-based modeling",
+   "code": "11.0470",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机应用_计算机辅助设计与图形学"
+  },
+  {
+   "cn": "模型库",
+   "en": "model base",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "基于特征的造型",
+   "en": "feature-based modeling",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "基于物理的造型",
+   "en": "physically based modeling",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "基础宏观经济模型",
+   "en": "macro economy base model",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "模型库管理系统",
+   "en": "model-base management system",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "基质",
+   "en": "base",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "碱",
+   "en": "base",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "碱基",
+   "en": "base",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "基底",
+   "en": "base",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "减基",
+   "en": "base",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "碱基",
+   "en": "base",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "基座",
+   "en": "base",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "模式学习",
+   "en": "model-based learning",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "基于智能体的建模",
+   "en": "agent-based modeling (ABM)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "基座",
+   "en": "base",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "垒位",
+   "en": "base",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "插座",
+   "en": "base",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "满垒",
+   "en": "bases full\",\"bases loaded",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "场景化",
+   "en": "scenario-based",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "底托",
+   "en": "base\",\"head",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "基期",
+   "en": "Base Period",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "碱基类似物",
+   "en": "Base analog",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "夷平面",
+   "en": "Base level",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "知识库",
+   "en": "knowledge base",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "机构为本的实习模式",
+   "en": "institution-based internship model",
+   "code": "4.4.11.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作实习"
+  },
+  {
+   "cn": "学院为本的实习模式",
+   "en": "school-based internship model",
+   "code": "4.4.11.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作实习"
+  },
+  {
+   "cn": "药物经济学模型研究",
+   "en": "model-based pharmacoeconomic study",
+   "code": "13.4.1.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_药物经济学_药物经济学评价"
+  },
+  {
+   "cn": "型号",
+   "en": "model",
+   "code": "5.2.8",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_产品监管"
+  },
+  {
+   "cn": "基准深度",
+   "en": "base depth",
+   "code": "6.4.4.25",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_放射治疗"
+  },
+  {
+   "cn": "社会基础",
+   "en": "social base",
+   "code": "2.1.3.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会存在"
+  },
+  {
+   "cn": "群众基础",
+   "en": "mass base",
+   "code": "03.0723",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "建模后相加模型",
+   "en": "model-then-add model",
+   "code": "1.4.4.90",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "核聚变",
+   "en": "nuclear fusion",
+   "code": "3.1.44",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_核物理基本概念"
+  },
+  {
+   "cn": "文化融合",
+   "en": "culture fusion",
+   "code": "2.2.3.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁"
+  },
+  {
+   "cn": "融合蛋白",
+   "en": "fusion protein",
+   "code": "1.3.4.26",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_抗原与抗体"
+  },
+  {
+   "cn": "民族融合",
+   "en": "ethnic fusion",
+   "code": "2.0014",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族理论_基本概念"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

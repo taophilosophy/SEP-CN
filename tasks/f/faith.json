@@ -56,16 +56,16 @@
     {
       "step": "r3",
       "status": "ok",
-      "actor": "F-main-20261111b",
+      "actor": "F-main-20261111b; REV-main-20261111",
       "at": "2026-11-11T11:13:49Z",
-      "evidence": "冷置终审（r1/r2 后经 frame-problem/fuller-margaret/falaquera 三条独立作业再回读）：通读全文未见 Critical/Major；102 段/121 defs/102 marker 与源文仍全等；check_all 九项全绿（check_academic --strict OK、check_terms 硬错误 0、check_math 0/0、check_style 0 issue）；prose 余 13 条全为直引内部（ADR-0020 豁免留痕）；术语 15 行与补登、人名 13 行均已入册。终稿验收通过。"
+      "evidence": "冷置终审（r1/r2 后经 frame-problem/fuller-margaret/falaquera 三条独立作业再回读）：通读全文未见 Critical/Major；102 段/121 defs/102 marker 与源文仍全等；check_all 九项全绿（check_academic --strict OK、check_terms 硬错误 0、check_math 0/0、check_style 0 issue）；prose 余 13 条全为直引内部（ADR-0020 豁免留痕）；术语 15 行与补登、人名 13 行均已入册。终稿验收通过。REV-main-20261111 独立验收：defs 121:121 键集与顺序全等、内联 marker 键集全等（en 侧 alston-1996 因源文行内「[^key]:」冒号连写计 1，语义 2:2 一致）、节 11:11、H1 与 SUMMARY 行 933 逐字一致；check_style 0 / check_math 0 式 0 缺失 0 失衡 / check_academic --strict 0 硬错误 / check_prose 13 条均为直引内部（ADR-0020 豁免，s2/r1/r2 留痕一致）；抽读 §1–§2 对照源文无漏译/增译/立场偏移；r2 后正文仅「托马斯·亨利·赫胥黎」全名一处（e67a805e0），登记册行 1736 已核；语体为现代汉语学术书面语，无文言仿古。终稿验收通过。"
     },
     {
       "step": "done",
       "status": "ok",
-      "actor": "F-main-20261111b",
+      "actor": "F-main-20261111b; REV-main-20261111",
       "at": "2026-11-11T11:13:49Z",
-      "evidence": "收口：六道（clear/draft/s1/s2/s3/r1/r2/r3）+done 齐备；任务状态 done，正文 f/faith.md 入 HEAD；PROGRESS/campaign 由生成器刷新。"
+      "evidence": "收口：六道（clear/draft/s1/s2/s3/r1/r2/r3）+done 齐备；任务状态 done，正文 f/faith.md 入 HEAD；PROGRESS/campaign 由生成器刷新。REV-main-20261111 独立 done 收口：r3 验收签字后正文零改动；check_style 0 / check_academic --strict OK / check_math 0/0 / check_prose 13 条引文内豁免留痕，四检全绿维持；初译与复审为 F 线，终审为 REV 线，复核独立性满足。"
     }
   ],
   "blockers": [],

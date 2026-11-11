@@ -2,7 +2,7 @@
   "slug": "qm",
   "kind": "retranslate",
   "zh_doc": "q/qm.md",
-  "state": "r3_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -59,6 +59,13 @@
       "actor": "Q-main-20261111",
       "at": "2026-11-11T07:49:41Z",
       "evidence": "终审（冷置：qm 之后已推进 qm-relational 全周期再回读）：四检复跑全绿——check_style 0 / check_math 260 式 0 缺失 0 失衡 / check_academic --strict 0 硬错误 / check_prose 0 告警；结构终验：源 20 标题 vs 译 19（源 Notes 双标题合一）；注 24 / defs 54 / 图 2 一致；H1 与 SUMMARY 逐字一致"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "REV-main-20261111",
+      "at": "2026-11-11T10:47:42Z",
+      "evidence": "done 收口（REV-main-20261111 独立验收）：r3 后正文零改动（af2c9e1f3 后无提交）；四检复跑全绿——check_style 0 / check_math 260 式 0 缺失 0 失衡 / check_academic --strict 0 硬错误 / check_prose 0 告警；check_quotes 0 违例；H1 与 SUMMARY 逐字一致（量子力学 quantum mechanics (Jenann Ismael)）"
     }
   ],
   "blockers": [],

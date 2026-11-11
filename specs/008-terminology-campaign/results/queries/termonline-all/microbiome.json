@@ -1,0 +1,194 @@
+{
+ "key": "microbiome",
+ "term": "microbiome",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T11:15:35+00:00",
+ "status": "ok",
+ "note": "variant=microbiome; 审定公布名词库=30; 海峡两岸名词对照库=15; 其他来源数据库=1; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "微生物组",
+   "en": "microbiome",
+   "code": "15.255",
+   "standard": "农学名词",
+   "subject": "农业生物技术_微生物组工程"
+  },
+  {
+   "cn": "微生物组学",
+   "en": "microbiomics",
+   "code": "06.381",
+   "standard": "农学名词",
+   "subject": "作物基因组学与遗传育种_作物基因组学"
+  },
+  {
+   "cn": "微生物组工程",
+   "en": "microbiome engineering",
+   "code": "15.234",
+   "standard": "农学名词",
+   "subject": "农业生物技术_微生物组工程"
+  },
+  {
+   "cn": "植物微生物组",
+   "en": "plant microbiome",
+   "code": "15.261",
+   "standard": "农学名词",
+   "subject": "农业生物技术_微生物组工程"
+  },
+  {
+   "cn": "土壤微生物组",
+   "en": "soil microbiome",
+   "code": "15.262",
+   "standard": "农学名词",
+   "subject": "农业生物技术_微生物组工程"
+  },
+  {
+   "cn": "根际微生物组",
+   "en": "rhizosphere microbiome",
+   "code": "15.264",
+   "standard": "农学名词",
+   "subject": "农业生物技术_微生物组工程"
+  },
+  {
+   "cn": "核心微生物组",
+   "en": "core microbiome",
+   "code": "15.267",
+   "standard": "农学名词",
+   "subject": "农业生物技术_微生物组工程"
+  },
+  {
+   "cn": "土壤微生物组学",
+   "en": "soil microbiomics",
+   "code": "09.184",
+   "standard": "农学名词",
+   "subject": "土壤肥料_土壤学"
+  },
+  {
+   "cn": "植物内生微生物组",
+   "en": "plant endosphere microbiome",
+   "code": "15.266",
+   "standard": "农学名词",
+   "subject": "农业生物技术_微生物组工程"
+  },
+  {
+   "cn": "微生物区系",
+   "en": "microbiota",
+   "code": "15.254",
+   "standard": "农学名词",
+   "subject": "农业生物技术_微生物组工程"
+  },
+  {
+   "cn": "食微生物动物",
+   "en": "microbivore",
+   "code": "7.0185",
+   "standard": "动物学名词",
+   "subject": "动物学_动物生态学_个体生态学"
+  },
+  {
+   "cn": "食微生物动物",
+   "en": "microbivore",
+   "code": "16.201",
+   "standard": "生态学名词",
+   "subject": "生态学_水域生态学"
+  },
+  {
+   "cn": "食微生物动物",
+   "en": "microbivore",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "微生物区系",
+   "en": "microbiota",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "食微生物动物",
+   "en": "microbivore",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "切片机",
+   "en": "microtome",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "微粒体",
+   "en": "microsome",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "切片机",
+   "en": "microtome",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "微粒体",
+   "en": "microsome",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "微粒体",
+   "en": "microsome",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "冰冻切片机（=冷冻切片机）",
+   "en": "freezing microtome",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "滑动式切片机",
+   "en": "sliding microtome",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "冷冻切片机，冰冻切片机",
+   "en": "freezing microtome",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "旋转式切片机",
+   "en": "rotary microtome",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "放线菌属",
+   "en": "List of human microbiota",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "抗甲状腺微粒体抗体",
+   "en": "anti-thyroid microsome antibody, anti-TM Ab",
+   "code": "1.5.3.54",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
