@@ -2,7 +2,7 @@
   "slug": "quantum-bayesian",
   "kind": "retranslate",
   "zh_doc": "q/quantum-bayesian.md",
-  "state": "cleared",
+  "state": "s1_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,20 @@
       "actor": "task_ops",
       "at": "2026-11-11T08:03:12Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "Q-main-20261111",
+      "at": "2026-11-11T18:56:03Z",
+      "evidence": "lq 账本流水线：146 段（body 139 + oir 1 + note 6）双版齐备；守恒门 HARD=0（修段 76 粗体计数 4→4：删去 EPR 首处多余粗体）；compose 写回 36,543 字符；H1「量子贝叶斯模型和实用主义的量子理论观点 Bayesian and pragmatist views (Richard Healey)」与 SUMMARY 逐字一致；版本行照 baseline（2016-12-08 / 2026-09-08）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "Q-main-20261111",
+      "at": "2026-11-11T19:03:46Z",
+      "evidence": "一校对照 yuanwen 全文：结构 18 h3 / 12→11 h2（源 Notes 双标题合为 ## 脚注）；文献 defs 76:76 键集相等；年份 329:326，差异追平——补回漏译引注 Fuchs（2011; 2016 [OIR]）1 处、2016 对齐；余 1911×1 为源自身重复链接文本（OIR 只录一次）；实修：half-life 寿命→半衰期、credence 置信度→信度（12 处，degree of belief 保置信度 9 处）、Dutch book 荷兰书→荷兰赌（2）、inferentialism 推论主义→推理主义（9）；ψ-本体论/ψ-认识论去数学定界符与 qm-relational 对齐"
     }
   ],
   "blockers": [],
