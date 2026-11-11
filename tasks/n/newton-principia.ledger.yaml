@@ -785,62 +785,82 @@ segments:
     kind: body
     source: |-
       From Newton's point of view, then, the basic problem — assuming that three independent mechanisms contribute to the total resistance forces, only one of which is proportional to the fluid density *ρ_{f}* — was to find an experimental phenomenon that would allow him to determine (1) the three exponents in the following schema, and (2) laws defining the three coefficients — or, more minimally, at least the variation of the coefficient of the last term for the specific case of spheres:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所以，从牛顿的立场看，基本问题——假定有三种独立机制对总阻力有贡献，而其中只有一种与流体密度 *ρ_f* 成正比——就是找到一种实验现象，使他能够确定（1）下述图式中的三个指数，以及（2）界定三个系数的定律，或者更起码地，至少确定最后一项的系数在球体特例中的变化：
+    step2: |-
+      因此，从牛顿的观点看，基本问题——假定有三种独立机制对总阻力有贡献，而其中只有一种与流体密度 *ρ_f* 成正比——是找到一种实验现象，使他能够确定（1）下述图式中的三个指数，以及（2）界定三个系数的定律，或者更起码地，至少确定最后一项的系数在球体特例中的变化：
   - id: 92
     kind: body
     source: |-
       > *Fᵣₑₛᵢₛₜ* = *a₀v^{n₀}* + *a₁v^{n₁}* + *b₂ρ_{f}v^{n₂}*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > *Fᵣₑₛᵢₛₜ* = *a₀v^{n₀}* + *a₁v^{n₁}* + *b₂ρ_f v^{n₂}*
+    step2: |-
+      > *Fᵣₑₛᵢₛₜ* = *a₀v^{n₀}* + *a₁v^{n₁}* + *b₂ρ_f v^{n₂}*
   - id: 93
     kind: body
     source: |-
       Some preliminary pendulum-decay experiments showed promise for doing this, leading him in the first edition to rely solely on this phenomenon. The idea was to start a pendulum from several different heights in order to cover a range of velocities and then to use simultaneous algebraic equations to fit a two or three term polynomial to two or three lost-arc data-points, changing the exponents until the polynomial achieved good agreement with the other lost-arc data points. The theoretical solutions for pendulum motion under resistance forces in Section 6 would then allow him to infer the forces from the rate of decay of the pendulum. These theoretical solutions covered resistance forces that vary not only as velocity to the powers 0, 1, and 2, but also as any power at all of velocity. In principle, therefore, he saw himself in a position to infer laws for resistance forces on spheres from the phenomenon of pendulum decay in full parallel with his deduction of the law of universal gravity from the phenomena of orbital motion in Book 3. And he could then conclude from the total absence of signs of resistance forces acting on the planets and, most especially, comets that the density of any fluid in the celestial regions must be exactly or very nearly zero.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若干初步的摆衰减实验显示出做到这一点的希望，使他在第一版中完全依赖这一现象。构想是让摆从若干不同高度开始摆动，以覆盖一段速度范围，然后用联立代数方程，用两三个丢失弧数据点拟合一个两三项多项式，并改变指数，直到该多项式与其他丢失弧数据点达到良好一致。第六节中关于阻力下摆运动的理论解，则可以让他从摆的衰减率推断出力。这些理论解覆盖的阻力不仅随速度的 0、1、2 次幂变化，而且随速度的任意幂变化。因此，原则上他以为自己处于这样的位置：可以从摆衰减现象推出球体所受阻力的定律，与他在第三卷中从轨道运动现象演绎万有引力定律完全平行。然后，他就可以从行星、尤其是彗星上完全看不到阻力作用迹象这一点，断定天体区域中任何流体的密度必定恰好为零或非常接近零。
+    step2: |-
+      一些初步的摆衰减实验显示出做到这一点的希望，使他在第一版中完全依赖这一现象。想法是让摆从几个不同高度开始摆动，以覆盖一段速度范围，然后用联立代数方程，用两三个丢失弧数据点拟合一个两三项多项式，并改变指数，直到该多项式与其他丢失弧数据点达到良好一致。第六节中关于阻力下摆运动的理论解，则可以让他从摆的衰减率推断出力。这些理论解覆盖的阻力不仅随速度的 0、1、2 次幂变化，而且随速度的任意幂变化。因此，原则上他以为自己处于这样的位置：可以从摆衰减现象推出球体所受阻力的定律，与他在第三卷中从轨道运动现象演绎万有引力定律完全平行。然后，他就可以从行星、尤其是彗星上完全看不到阻力作用迹象这一点，断定天体区域中任何流体的密度必定恰好为零或非常接近零。
   - id: 94
     kind: body
     source: |-
       Unfortunately, pendulum-decay turned out not to be as well behaved a phenomenon as Newton anticipated it was going to be while he was working on the first edition. The problem, as he later realized, was that he had to let the pendulum swing many times in order to measure the rate of decay, and in the process it gave rise to a “to and fro” motion in the surrounding fluid, so that the *relative* velocity between the bob and the fluid, which is the velocity that matters in resistance, could not be determined or controlled. The General Scholium following Section 6[^note-39] reports detailed decay-rate data for an impressive range of experiments, including different size bobs in air and bobs moving as well in water and mercury. The reader is also shown in detail how to proceed from the data in each case to a polynomial as above defining the resistance force. Any reader who worked through the data discovered what Newton knew, but was less than candid about: no polynomial fit the data. The experiments did clearly indicate that resistance forces involve no power of velocity greater than 2, and they provided good evidence that a velocity squared effect was dominant, even to the extent of masking any effect involving some other power. Newton also managed to extract some highly qualified evidence that the velocity squared effect varies as the density of the fluid and the frontal area (that is, the square of the diameter) of spheres.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不幸的是，摆衰减的结果并不像牛顿在第一版工作期间所预想的那样好处理。他后来意识到，问题在于他必须让摆摆动很多次才能测量衰减率，而在这个过程中，摆会在周围流体中引起一种“往复”运动，使得摆锤与流体之间的*相对*速度——在阻力中真正重要的速度——无法确定或控制。第六节之后的总释[^note-39] 报告了令人印象深刻的一系列实验的详细衰减率数据，包括空气中不同大小的摆锤，以及在水和水银中运动的摆锤。读者还会看到详细说明，如何从每种情形的数据出发，得出上述界定阻力的多项式。任何认真处理这些数据的读者都会发现牛顿知道却不够坦率的事：没有一个多项式能拟合数据。实验确实清楚表明，阻力不涉及高于 2 次幂的速度，而且提供了良好证据表明速度平方效应占主导，甚至掩盖了涉及其他幂次的任何效应。牛顿还设法提取了一些限定性很强的证据，表明速度平方效应随流体密度和球体的迎风面积（即直径的平方）变化。
+    step2: |-
+      不幸的是，摆衰减结果并不像牛顿在第一版工作期间所预想的那样好处理。他后来认识到，问题在于他必须让摆摆动很多次才能测量衰减率，而在这个过程中，摆会在周围流体中引起一种“往复”运动，使得摆锤与流体之间的*相对*速度——在阻力中真正重要的速度——无法确定或控制。第六节之后的总释[^note-39] 报告了令人印象深刻的一系列实验的详细衰减率数据，包括空气中不同大小的摆锤，以及在水和水银中运动的摆锤。读者还会看到详细说明，如何从每种情形的数据出发，得出上述界定阻力的多项式。任何认真处理这些数据的读者都会发现牛顿知道却不够坦率的事：没有一个多项式能拟合数据。实验确实清楚表明，阻力不涉及高于 2 次幂的速度，而且提供了良好证据表明速度平方效应占主导，甚至掩盖了涉及其他幂次的任何效应。牛顿还设法提取了一些限定性很强的证据，表明速度平方效应随流体密度和球体的迎风面积（即直径的平方）变化。
   - id: 95
     kind: body
     source: |-
       The approach to resistance in the first edition relied entirely on pendulum-decay experiments. The disappointing evidence they yielded led to a far weaker statement of the conclusion about the absence of fluid in the celestial regions in the first edition than the conclusion in the subsequent editions quoted above. Not long after the first edition was published, Newton initiated some vertical-fall experiments in water that persuaded him that the phenomenon of vertical-fall in resisting media would yield much better behaved data. In the second and third editions, therefore, even though the pendulum-decay experiments are still fully reported, the central argument in Book 2 relies on vertical-fall experiments (including ones from the top of the dome of the newly completed St. Paul's Cathedral) to establish a resistance effect on spheres that is proportional to the density of the fluid, the square of the diameter, and the square of the velocity. The data from these experiments were very good — indeed, even better than Newton realized, for small vagaries in them that he dismissed as experimental error were in fact not vagaries at all, but evidence that no polynomial of the sort he was seeking is adequate for resistance forces.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第一版对阻力的处理完全依赖摆衰减实验。这些实验所得证据令人失望，导致第一版关于天体区域无流体的结论表述，远弱于上文所引后续各版的结论。第一版出版后不久，牛顿开始了一些在水中的垂直下落实验，这些实验使他相信，阻性介质中的垂直下落现象会产生好处理得多的数据。所以在第二版与第三版中，尽管摆衰减实验仍被完整报告，第二卷的核心论证却依赖垂直下落实验（包括从新近完工的圣保罗大教堂穹顶顶部所做的实验），以确立球体所受阻力效应与流体密度、直径平方和速度平方成正比。这些实验的数据非常好——事实上比牛顿所认识到的还要好，因为其中被他当作实验误差而打发掉的小幅游移其实根本不是游移，而是证据，表明他所寻求的那类多项式对阻力来说并不充分。
+    step2: |-
+      第一版中对阻力的处理完全依赖摆衰减实验。这些实验所得证据令人失望，导致第一版关于天体区域无流体的结论表述，远弱于上文所引后续各版的结论。第一版出版后不久，牛顿开始了一些在水中的垂直下落实验，这些实验使他相信，阻性介质中的垂直下落现象会产生好处理得多的数据。因此，在第二版与第三版中，尽管摆衰减实验仍被完整报告，第二卷的核心论证却依赖垂直下落实验（包括从新近完工的圣保罗大教堂穹顶顶部所做的实验），以确立球体所受阻力效应与流体密度、直径平方和速度平方成正比。这些实验的数据非常好——事实上比牛顿所认识到的还要好，因为其中被他当作实验误差而打发掉的小幅游移其实根本不是游移，而是证据，表明他所寻求的那类多项式对阻力来说并不充分。
   - id: 96
     kind: body
     source: |-
       While the vertical-fall experiments put Newton in a position to make his concluding rejection of vortex theories more forceful, they also posed a methodological complication. The vertical-fall experiments offered no way of disaggregating the contribution to resistance made by the inertia of the medium from the total resistance. But the argument against vortices required him to show that, no matter how perfectly free of friction and viscosity the celestial fluid might be, its inertia would still give rise to resistance forces that would affect the motions of comets, if not planets as well. From the resistance measured in the pendulum-decay experiments, Newton could conclude that the forces in air and water are dominated by a contribution that varies as the velocity squared. In the vertical-fall experiments in air and water the measured forces varied to first approximation as the product of the density and the velocity squared, but only to a first approximation, leaving room to question whether a purely inertial contribution had been isolated. Newton dealt with this problem by offering a rather *ad hoc* theoretical derivation for the purely inertial contribution, showing how closely it agreed with the vertical-fall results, and proposing that the differences between the theoretical and the measured resistances could be used to investigate other contributions. Success of such a program in characterizing the contributions made by surface friction and the viscosity would have provided compelling support for Newton's theory of the inertial contribution. Still, the approach left Newton with not so straightforward a derivation of the laws of resistance forces from phenomena as he had hoped for in the first edition.[^note-40]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管垂直下落实验使牛顿有条件更有力地作出对涡旋理论的最终否定，它们也带来一个方法论上的复杂问题。垂直下落实验无法把介质惯性对阻力的贡献从总阻力中分解出来。但反对涡旋的论证要求他说明：无论天体流体多么完美地没有摩擦与黏滞性，其惯性仍会产生阻力，影响彗星（如果不是行星的话）的运动。从摆衰减实验中测得的阻力，牛顿可以断定空气与水中的力由随速度平方变化的贡献主导。在空气与水的垂直下落实验中，测得的力在一级近似下随密度与速度平方之积变化，但只在一级近似下，这就留下了疑问：纯粹的惯性贡献是否已被分离出来。牛顿处理这个问题的方式，是为纯粹的惯性贡献提供一个相当*特设*的理论推导，表明它与垂直下落结果吻合得多么好，并提出理论阻力与实测阻力之间的差异可用来研究其他贡献。这样一个纲领若能成功刻画表面摩擦与黏滞性的贡献，就会为牛顿的惯性贡献理论提供有力支持。尽管如此，这一做法仍使牛顿无法像他在第一版中所希望的那样，从现象直接导出阻力定律。[^note-40]
+    step2: |-
+      虽然垂直下落实验使牛顿有条件更有力地作出对涡旋理论的最终否定，它们也带来一个方法论上的复杂问题。垂直下落实验无法把介质惯性对阻力的贡献从总阻力中分解出来。但反对涡旋的论证要求他表明：无论天体流体多么完美地没有摩擦与黏滞性，其惯性仍会产生阻力，影响彗星（如果不是行星的话）的运动。从摆衰减实验中测得的阻力，牛顿可以断定空气与水中的力由随速度平方变化的贡献主导。在空气与水的垂直下落实验中，测得的力在一级近似下随密度与速度平方之积变化，但只在一级近似下，这就留下了疑问：纯粹的惯性贡献是否已被分离出来。牛顿处理这个问题的方式，是为纯粹的惯性贡献提供一个相当*特设*的理论推导，表明它与垂直下落结果吻合得多么好，并提出理论阻力与实测阻力之间的差异可用来研究其他贡献。这样一个纲领若能成功刻画表面摩擦与黏滞性的贡献，就会为牛顿的惯性贡献理论提供有力支持。尽管如此，这一做法仍使牛顿无法像他在第一版中所希望的那样，从现象直接导出阻力定律。[^note-40]
   - id: 97
     kind: body
     source: |-
       In fact, there is a deep mistake in Newton's approach to resistance forces that came to be understood only at the beginning of the twentieth century. Resistance forces do not arise from independent contributions made by such factors as the viscosity and inertia of the fluid. Consequently, no polynomial consisting of a few always positive terms in powers of velocity can ever be adequate for resistance forces. The first indication of this came when d'Alembert, unhappy with Newton's *ad hoc* theory for the inertial contribution, analyzed the flow of what we now call a perfect fluid about spheres and bodies of other shapes, discovering in all cases that the net force of the fluid is exactly zero. Consequently, contrary to Newton, there is no such thing as *the* contribution made to resistance purely by the inertia of the fluid. Resistance forces always arise from a combination of viscous and inertial effects, however low the viscosity of the fluid may be. Newton's assumption that resistance forces can be represented as a sum, one term of which gives the contribution made purely by the inertia of the fluid, was wrong empirically, much as his assumptions about simultaneity and space being Euclidean turned out to be wrong. Unlike the latter assumptions, however, the assumption about resistance amounted to a dead end. All Newton achieved in Book 2 with resistance forces was merely a curve-fit.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其实，牛顿处理阻力的方式有一个深刻的错误，直到 20 世纪初才被理解。阻力并不来自黏滞性与流体惯性等因素各自独立的贡献。因此，由少数几个始终为正的速度幂项组成的任何多项式，都永远不足以表示阻力。第一个征兆出现在达朗贝尔那里：他对牛顿的*特设*惯性贡献理论不满，分析了我们今天所称的理想流体绕球体及其他形状物体的流动，结果在所有情形中都发现流体的净力恰好为零。因此，与牛顿相反，并不存在纯粹由流体惯性对阻力所作的那种贡献。阻力总是来自黏滞效应与惯性效应的组合，无论流体的黏滞性多么低。牛顿关于阻力可表示为一项之和、其中一项给出纯粹由流体惯性所作贡献的假设，在经验上是错误的，正如他关于同时性与空间为欧几里得的假设后来被证明错误一样。然而与后一类假设不同，关于阻力的假设是一条死路。牛顿在第二卷中借阻力所达到的一切，只不过是一次曲线拟合。
+    step2: |-
+      事实上，牛顿处理阻力的方式有一个深刻错误，直到 20 世纪初才被理解。阻力并不来自黏滞性与流体惯性等因素各自独立的贡献。因此，由少数几个始终为正的速度幂项组成的任何多项式，都永远不足以表示阻力。第一个迹象出现在达朗贝尔身上：他对牛顿的*特设*惯性贡献理论不满，分析了我们今天所称的理想流体绕球体及其他形状物体的流动，结果在所有情形中都发现流体的净力恰好为零。因此，与牛顿相反，并不存在纯粹由流体惯性对阻力所作的那种贡献。阻力总是来自黏滞效应与惯性效应的组合，无论流体的黏滞性多么低。牛顿关于阻力可表示为一项之和、其中一项给出纯粹由流体惯性所作贡献的假设，在经验上是错误的，正如他关于同时性与空间为欧几里得的假设后来被证明错误一样。然而与后一类假设不同，关于阻力的假设是一条死路。牛顿在第二卷中借阻力所达到的一切，只不过是一次曲线拟合。
   - id: 98
     kind: body
     source: |-
       ## 8. Book 3 of the *Principia*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 8. 《原理》第三卷
+    step2: |-
+      ## 8 《原理》第三卷
   - id: 99
     kind: body
     source: |-
       Save for the short opening sections, “*Regulae Philosophandi*” and “*Phenomena*,” Book 3, in contrast to Books 1 and 2, is not marked off into sections. Nevertheless, the main body of it does consist of four clearly separate parts: (1) the derivation of the law of gravity (Props. 1-8); (2) implications of this law for orbital and rotating bodies (from the corollaries to Prop. 8 through Prop. 24); (3) a quantitative derivation of select lunar inequalities and the precession of the equinoxes from the law of gravity (Props. 25-39); and (4) a solution for comet trajectories, with examples and comments (Props. 40-42). These parts will be discussed in sequence below.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除简短的开头几节之外“哲学推理法则”与“现象”之外，第三卷与第一卷、第二卷不同，并未划分成节。不过，其主体确实由四个清楚分开的部分构成：（1）引力定律的推导（命题 1–8）；（2）该定律对轨道物体与旋转物体的蕴含（从命题 8 的推论到命题 24）；（3）从引力定律定量推导若干月球不等项与岁差（命题 25–39）；（4）彗星轨迹的解，附事例与评论（命题 40–42）。下面依次讨论这些部分。
+    step2: |-
+      除了简短的开头几节“哲学推理法则”与“现象”之外，第三卷与第一卷、第二卷不同，并未划分成节。不过，它的主体确实由四个清楚分开的部分组成：（1）引力定律的推导（命题 1–8）；（2）该定律对轨道物体与旋转物体的蕴含（从命题 8 的推论到命题 24）；（3）从引力定律定量推导若干月球不等项与岁差（命题 25–39）；（4）彗星轨迹的解，附事例与评论（命题 40–42）。下面依次讨论这些部分。
   - id: 100
     kind: body
     source: |-
       Newton's first two rules of reasoning appeared in the first edition (there labeled as hypotheses[^note-41]), the third rule was added in the second edition, and the fourth rule, in the third edition. These are rules intended to govern evidential reasoning in natural philosophy, akin to rules of deductive reasoning except for their very much not guaranteeing true conclusions from true premises. In particular, Rule 2 authorizes the inference from same effect to same cause, a notoriously invalid inference, and Rule 3 authorizes inductive generalization to all bodies universally of those qualities of bodies “that belong to all bodies on which experiments can be made.” Newton's phrasing carries no suggestion that these rules yield truths or even a high probability of truth. The operative phrase in both Rules 3 and 4, for example, is properly translated “should be taken,” and Rule 4 makes the provisional character of the authorized inferences explicit:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      牛顿的头两条推理法则出现在第一版中（在那里被称为假设[^note-41]），第三条法则在第二版中加入，第四条法则在第三版中加入。这些法则旨在支配自然哲学中的证据推理，类似于演绎推理的规则，只是它们绝不保证从真前提得出真结论。特别是，法则 2 授权从相同结果推断相同原因，这是一个出了名无效的推断；法则 3 授权把物体“凡能对之做实验的一切物体都具有的”那些性质，归纳概括到一切物体。牛顿的措辞并未暗示这些法则会给出真理、甚至很高的真理概率。例如，法则 3 与法则 4 中的关键短语，恰当的译法是“应当被视为”，而法则 4 明确道出了所授权推断的暂定性质：
+    step2: |-
+      牛顿的前两条推理法则出现在第一版中（在那里被称为假设[^note-41]），第三条法则在第二版中加入，第四条法则在第三版中加入。这些法则意在支配自然哲学中的证据推理，类似于演绎推理的规则，只是它们绝不保证从真前提得出真结论。特别是，法则 2 授权从相同结果推断相同原因，这是一个出了名无效的推断；法则 3 授权把物体“凡能对之做实验的一切物体都具有的”那些性质，归纳概括到一切物体。牛顿的措辞并未暗示这些法则会给出真理、甚至很高的真理概率。例如，法则 3 与法则 4 中的关键短语，恰当的译法是“应当被视为”，而法则 4 明确道出了所授权推断的暂定性质：
   - id: 101
     kind: body
     source: |-
