@@ -2,7 +2,7 @@
   "slug": "repugnant-conclusion",
   "kind": "retranslate",
   "zh_doc": "r/repugnant-conclusion.md",
-  "state": "cleared",
+  "state": "s1_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,20 @@
       "actor": "task_ops",
       "at": "2026-11-11T09:44:53Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "R-main-20261111",
+      "at": "2026-11-11T16:07:27Z",
+      "evidence": "方向声明（rules/08）：r 批 repugnant-conclusion 全量零信任重译（源文 9,075 词、账本 57 段=body 55+oir 1+ack 1、biblio 照录 133 条、无公式、2 图）；目标走完 draft→s3 后冷置转 r1–r3。执行：clear（基线哈希门）→ lq init（57 段）→ 六批片段（p1 段1–10、p2 段11–20、p3 段21–30、p4 段31–40、p5 段41–50、p6 段51–57）经 qr_merge 合并，双版全填（ADR-0021）；守恒门 HARD 0（SOFT：标题机械段 10、图段 step1==step2 2、书名号化与中国强调若干），compose 写回 32,599 字符。术语 28 行、人名 6 行经 script/qr_rows_repugnant_conclusion.py + reg_tool 登记（黄有光/坦金/费希格/贝纳塔/费尔德曼/阿伦尼乌斯）；Ng 按本人汉名作「黄有光」、Temkin 作「坦金」。图 2 幅路径 ../yuanwen/assets/repugnant-conclusion/fig1–2.png（资产实位）。"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "R-main-20261111",
+      "at": "2026-11-11T16:07:27Z",
+      "evidence": "一校（准确性，对照 yuanwen 全文逐段）：结构对账——段落 57:57；H2 7:6（源 Acknowledgments 为 h3 置于 Related Entries 下，compose 按体例升为 ## 致谢，差 1 已核）；H3 8:9（差 1 即上述致谢）；H4 3:3（2.1.1–2.1.3）；脚注 defs 133:133 键序全等；marker 逐段键集与源全等（源侧两处 marker 后紧跟冒号属散文标点，非定义行）；$ 0:0；图片 2:2。内容核验：帕菲特开篇引文、西季威克引文（1907: 418）、两情形（同一 / 非同一）、无差别观点、四类人口（A/A+/B/Z）、图 1–2 说明、八条途径（2.1–2.8 全部小节与顺序）、施虐/荒谬/极令人反感三结论、非同一性问题与比较主义/现在主义/必然主义/现实论、公正主义数值（100/200/−49）、坦金引文（1993a: 200）——逐条对源；引文与页码照录。相关词条 10 项照 SUMMARY；其余网络资源作「[欢迎向作者提出建议。]」；致谢段译出（人名 Fairley Cessna 保留拉丁）。"
     }
   ],
   "blockers": [],

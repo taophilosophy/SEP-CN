@@ -10,8 +10,8 @@
   },
   "a": {
    "phase": "translate",
-   "claimed_by": "A-main-20261111",
-   "claimed_at": "2026-11-10T16:20:08Z",
+   "claimed_by": "A-main-20261112",
+   "claimed_at": "2026-11-11T16:02:22Z",
    "note": "A4-main-20261109 接手（2026-11-09）：done 54→56——african-ethics 全链 done（s2-r3 复核修 3 句+体例 40 处）、aesthetic-judgment 全链 done（账本 112 段、32.8k 字符、r3 冷置终审）；al-din-al-razi 落至 r2（账本 68 段、44.3k 字符、prose 豁免 3）；工具侧修 lq.py 的 ** 守恒判据与列表符（script/ 本地）；下一目标 ancient-soul | 2026-11-10 接管（A-main-20261110b，用户指令：接手 A 条目所有翻译，主会话直译不用子代理，可随时 rebase push）：现状 done 57/160、在途 adorno s1_checked（A5-main-20261110 已做 s1 与 s2 两批并正在写回，本会话接收其工作树成果继续）、cleared 15、pending 87；方向：A 批 103 条逐条六道全流程至 done，验收=步序齐备+evidence 可复核+check_all 全绿+check_academic --strict 0 硬错误+CI 绿；非目标=不改他批、不补写内容、不造引文；原 A5 会话请勿再推进 a/ 词条（避免同件双写）。",
    "advanced_at": "2026-11-09T12:53:59Z"
   },
@@ -52,8 +52,8 @@
   },
   "g": {
    "phase": "translate",
-   "claimed_by": "G-main-20261111",
-   "claimed_at": "2026-11-11T03:30:02Z",
+   "claimed_by": "G-main-20261112",
+   "claimed_at": "2026-11-11T16:04:40Z",
    "note": "对账（2026-11-10 G-main-20261110 正序接管）：49 条 done 8（gelukpa/gersonides/gorampa + 本会话收口 godwin、gianfrancesco-pico、god-necessary-being、globalization、giles）；在途 0；余 41 主条＋12 件补充材料。本会话另修 SUMMARY/mu-lu-s 标题缺陷 1 处（god-necessary-being 英文题缺 God）、登记册术语 23 行/人名 30 行、术语登记册 2 行定名对齐发布词汇表（check_terms 冲突 2→0）。下一批建议按词量升序：gregory-rimini(8654)→gadamer(9389)→gramsci(9774)→genetics(10116)。作业法：lq 24-27 段两批落盘、守恒门 HARD=0、compose→g_check→prose→九步→pathspec 提交。",
    "advanced_at": "2026-11-09T04:45:36Z"
   },
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-11T03:46:38Z"
+ "updated_at": "2026-11-11T16:04:40Z"
 }

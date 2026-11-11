@@ -2,7 +2,7 @@
   "slug": "descartes-ethics",
   "kind": "retranslate",
   "zh_doc": "d/descartes-ethics.md",
-  "state": "s3_checked",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,20 @@
       "actor": "?",
       "at": "2026-11-04T18:47:14Z",
       "evidence": "四检全绿：style 0/math 0/academic --strict OK/prose 63 豁免留痕见 s2；人名 9 条登记（塞诺/沃埃修斯/沙尼/布尔曼/奥索尼乌斯/尤斯塔修斯/富歇·德·卡雷伊/奥维德/汉尼拔）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "D-main-20261112",
+      "at": "2026-11-11T16:05:48Z",
+      "evidence": "独立复核一（全文回读 379 行 vs 源 376 行）：准确性实修 4 处——①精腺解剖术语误译：epiphysis 在脑解剖语境作「松果体」而非「骶体」，改「（松果腺或松果体）」；②引文残留空格「情感 的生理维度」；③Voetius 首现括注由再音译「沃提乌斯」改拉丁原形「Gisbertus Voetius」（与册内主形沃埃修斯配对体例）；④pubinfo 加粗改斜体（体例）。结构补正 2 处：①参考文献节补源文两子标题 Primary Works/Secondary Works（尾节子标题 2:2 复原）；②H1 英文标题 Descartes’ → Descartes's（弯引号右引号先于左引号，check_style 0；SUMMARY 与 mu-lu-s 同步）。核销：AT/CSM 编号照源（含源文自身 CMSK 笔误照录）、75 marker 键序全等、88 defs 键集全等、段落 81:80（byline 豁免）、七节论旨（三个谨慎理由/临时道德法典/形而上学伦理学/激情/至善/政治/结论）逐段对读无漏译。语体：现代汉语学术书面语，无文言句式（ADR-0033）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "D-main-20261112",
+      "at": "2026-11-11T16:10:35Z",
+      "evidence": "独立复核二（术语与人名）：术语核对——临时道德法典/至善/至福（béatitude）/满足（contentement）/真正的慷慨/德性的谦卑/漠然（indifference）/动物精气/松果腺 与正文一致，无需新增册行。人名核对：勒内·笛卡尔/普法尔茨的伊丽莎白公主/沙尼/梅森/布尔曼/塞涅卡/马基雅维利/蒙田/奥维德/阿尔诺/路德/汉尼拔/克里斯蒂娜/吉尔松/马里翁/沙皮罗 在册；本批补登 Gueroult, Martial=马夏尔·盖鲁（1913 引注处正文用汉名而册缺行）；Voetius 已按册内主形沃埃修斯（27 处通行）；Verbeek/Rodis-Lewis/Marshall/Cottingham/Renault 等仅见于引注或书目，依 ADR-0022/照录不改。相关词条 7 条（勒内·笛卡尔/笛卡尔的生平及著作/笛卡尔的方法/普法尔茨的伊丽莎白公主/伊壁鸠鲁/德性伦理学/斯多葛主义）对 SUMMARY 定名复核无误。prose 63 条沿用 s2 分类豁免（40 学术史定语 de-chain、23 引文密集长句），未新增"
     }
   ],
   "blockers": [],

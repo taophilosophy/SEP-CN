@@ -753,62 +753,92 @@ segments:
     kind: body
     source: |-
       **(e)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(e)**
+    step2: |-
+      **(e)**
+
   - id: 82
     kind: body
     source: |-
       A snowflake falls and no omnipotent agent ever exists.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一片雪花落下，并且从未有任何全能行动者存在。
+    step2: |-
+      一片雪花落下，且从未有任何全能行动者存在。
+
   - id: 83
     kind: body
     source: |-
       A non-omnipotent agent can bring about or actualize (e) by bringing it about that a snowflake falls when in fact no omnipotent agent ever exists. But, it is clear that an omnipotent agent cannot bring about or actualize (e). For although an omnipotent agent can bring it about that a snowflake falls, surely, an omnipotent agent cannot bring it about that *no omnipotent ever exists*, nor would this conjunct of (e) obtain if there were an omnipotent agent. Moreover, we may assume that there are possible worlds, *W* and $W^*$, such that *W* and $W^*$ share the same history up to a time *t*, no omnipotent agent ever exists in $W^*$, and a contingently omnipotent agent, Oscar, is omnipotent for the first time at *t* in *W*. We may also assume that $W^*$ is a world in which at *t* some non-omnipotent agent actualizes (e). On the other hand, evidently, if in *W*, Oscar is omnipotent at *t*, then at *t* Oscar cannot actualize (e). Note that since the second conjunct of (e) is not unrestrictedly repeatable, this is consistent with Hoffman and Rosenkrantz’s account of omnipotence; their account does not require an omnipotent agent to be able to bring about a conjunctive state of affairs one of whose conjuncts is not unrestrictedly repeatable. On the other hand, Flint and Freddoso’s account of omnipotence implies that in *W*, at *t* Oscar has the power to actualize (e). This implication holds for the following reasons. First, (e) is not a member of a world-type-for-Oscar, inasmuch as (e) is neither a “counterfactual of freedom,” the negation of one, nor a conjunction of such “counterfactuals of freedom.” Second, we may assume that a world-type-for-Oscar is true in both $W^*$ and *W*, since the assumption that an agent is not omnipotent in one possible world, and is omnipotent for a time in another possible world, does not necessitate any difference in the world-type for that agent which is true in those worlds. Third, it is possible for someone at *t* to actualize (e) in a world, $W^*$, that has the same history up to *t* as *W*.[^note-5] Thus, arguably, Flint and Freddoso’s account of omnipotence requires that in *W* an omnipotent agent, Oscar, at *t* has the power to actualize (e), when Oscar lacks this power. If this is right, then their account does not provide a logically necessary condition on omnipotence.[^note-6]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个非全能行动者可以通过造成“一片雪花落下”这一事态来造成或现实化 (e)，只要事实上从未有任何全能行动者存在。但显然，全能行动者不能造成或现实化 (e)。因为，尽管全能行动者能造成一片雪花落下，但全能行动者肯定不能造成 *从未有任何全能者存在*；而且若有全能行动者存在，(e) 的这一合取项便不成立。此外，我们可以假定有 *W* 与 $W^*$ 两个可能世界，它们在某一时刻 *t* 之前历史相同，$W^*$ 中从未有任何全能行动者存在，而一个偶然全能的行动者奥斯卡，在 *W* 中于 *t* 首次全能。我们还可假定，$W^*$ 是一个在 *t* 时有某个非全能行动者现实化 (e) 的世界。另一方面，显然，若在 *W* 中奥斯卡于 *t* 全能，则奥斯卡在 *t* 不能现实化 (e)。注意，既然 (e) 的第二个合取项并非无限制可重复，这与霍夫曼与罗森克兰茨的全能说明一致；他们的说明不要求全能行动者能够造成一个其某个合取项并非无限制可重复的合取事态。另一方面，弗林特与弗雷多索的全能说明蕴含：在 *W* 中，奥斯卡于 *t* 有力量现实化 (e)。这一蕴含成立，理由如下。第一，(e) 不是奥斯卡世界类型的成员，因为 (e) 既不是“自由反事实”，也不是其否定，也不是此类“自由反事实”的合取。第二，我们可以假定奥斯卡的世界类型在 $W^*$ 与 *W* 中都真，因为“一个行动者在某一可能世界中不全能、在另一可能世界中有一段时间全能”这一假定，并不蕴含这些世界中该行动者的世界类型有任何差别。第三，世界 $W^*$ 在 *t* 之前与 *W* 历史相同，而在 $W^*$ 中，某人有可能在 *t* 现实化 (e)。[^note-5] 因此可以说，弗林特与弗雷多索的全能说明要求：在 *W* 中，全能行动者奥斯卡于 *t* 有力量现实化 (e)，而奥斯卡其实并无此力量。若此说正确，则他们的说明并未提供全能的逻辑必要条件。[^note-6]
+    step2: |-
+      一个非全能行动者可以造成或现实化 (e)：只要事实上从未有任何全能行动者存在，他就可以造成“一片雪花落下”。但显然，全能行动者不能造成或现实化 (e)。因为，尽管全能行动者能造成一片雪花落下，却肯定不能造成 **从未有任何全能者存在**；而且，若有全能行动者存在，(e) 的这一合取项便不成立。此外，我们可以假定存在 *W* 与 $W^*$ 两个可能世界：它们在某一时刻 *t* 之前历史相同，$W^*$ 中从未有任何全能行动者存在，而一个偶然全能的行动者奥斯卡在 *W* 中于 *t* 首次全能。我们还可假定，$W^*$ 是一个在 *t* 时有某个非全能行动者现实化 (e) 的世界。另一方面，显然，若在 *W* 中奥斯卡于 *t* 全能，则奥斯卡在 *t* 不能现实化 (e)。注意，既然 (e) 的第二个合取项并非无限制可重复，这与霍夫曼与罗森克兰茨的全能说明一致：他们的说明不要求全能行动者能够造成一个其某个合取项并非无限制可重复的合取事态。但另一方面，弗林特与弗雷多索的全能说明却蕴含：在 *W* 中，奥斯卡于 *t* 有力量现实化 (e)。这一蕴含成立，理由如下。第一，(e) 不是奥斯卡世界类型的成员，因为 (e) 既不是“自由反事实”，也不是其否定，也不是此类“自由反事实”的合取。第二，可以假定奥斯卡的世界类型在 $W^*$ 与 *W* 中都为真，因为“一个行动者在某一可能世界中不全能、在另一可能世界中有一段时间全能”这一假定，并不蕴含这些世界中该行动者的世界类型有任何差别。第三，世界 $W^*$ 在 *t* 之前与 *W* 历史相同，而在 $W^*$ 中，某人有可能在 *t* 现实化 (e)。[^note-5] 因此可以说，弗林特与弗雷多索的全能说明要求：在 *W* 中，全能行动者奥斯卡于 *t* 有力量现实化 (e)，而奥斯卡其实并无此力量。若此说正确，则他们的说明并未提供全能的逻辑必要条件。[^note-6]
+
   - id: 84
     kind: body
     source: |-
       A counter-example of this kind assumes that an analysis of omnipotence should allow for the possibility of an omnipotent agent other than God. Given this assumption, (e) seems to provide a counter-example to Flint and Freddoso’s account of omnipotence, but not to the account of Hoffman and Rosenkrantz.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这类反例假定：全能分析应容许上帝之外的全能行动者存在。有此假定，(e) 看来为弗林特与弗雷多索的全能说明提供了反例，却不构成对霍夫曼与罗森克兰茨说明的反例。
+    step2: |-
+      这类反例假定：全能分析应容许上帝之外的全能行动者存在。有了这一假定，(e) 看来便为弗林特与弗雷多索的全能说明提供了反例，却不构成对霍夫曼与罗森克兰茨说明的反例。
+
   - id: 85
     kind: body
     source: |-
       Let us now turn to Wierenga’s account of omnipotence. The basic idea of Wierenga’s account of omnipotence is that an agent is omnipotent if and only if he can do anything that it is possible for him to do, given the past. According to this account, we can analyze what it is for an agent, *A*, to be omnipotent at *t* in a world *W* in terms of what it is *possible for A* to strongly actualize at *t* in worlds having the same history as *W* up to *t*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在转向维伦加的全能说明。维伦加全能说明的基本观念是：一个行动者全能，当且仅当，给定过去，凡他有可能做的事他都能做。按此说明，我们可借“行动者 *A* 在与 *W* 于 *t* 之前历史相同的世界中于 *t* 有可能强现实化什么”，来分析“行动者 *A* 在 *W* 中于 *t* 全能”是什么意思。
+    step2: |-
+      现在转向维伦加的全能说明。其基本观念是：一个行动者全能，当且仅当，给定过去，凡他有可能做的事他都能做。按此说明，“行动者 *A* 在 *W* 中于 *t* 全能”可借“在与 *W* 于 *t* 之前历史相同的世界中，行动者 *A* 于 *t* 有可能强现实化什么”来分析。
+
   - id: 86
     kind: body
     source: |-
       Wierenga’s account of omnipotence, like Flint and Freddoso’s, relies on the intuitive idea that two possible worlds can share the same past or history up to a certain point in time, and then diverge. According to Wierenga’s account, two worlds of this kind share an *initial segment*, where $S (W, t)$ is an initial segment of a possible world *W* up to a time *t* (Wierenga 1989, pp. 18–20)[^wierenga-1989]. Unlike Flint and Freddoso’s account, Wierenga’s account is not stated in terms of what an agent can actualize, but rather in terms of the narrower notion of what an agent can *strongly actualize*. An agent, *A*, strongly actualizes just those states of affairs that *A* brings about *directly* or those actions that *A* does not do *by* doing something else (Wierenga 1989, pp. 20–23)[^wierenga-1989]. Of course, an agent may actualize a state of affairs *indirectly* by strongly actualizing *another* state of affairs. Wierenga’s account of omnipotence is formulated as follows.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      维伦加的全能说明与弗林特、弗雷多索的一样，依赖这一直觉观念：两个可能世界可以共享同一过去或历史直到某一时点，然后分岔。按维伦加的说明，此类两个世界共享一个 *初始片段*，其中 $S (W, t)$ 是可能世界 *W* 截至时刻 *t* 的一个初始片段（Wierenga 1989, pp. 18–20）[^wierenga-1989]。与弗林特和弗雷多索的说明不同，维伦加的说明不以行动者能现实化什么来陈述，而以更窄的“行动者能 *强现实化* 什么”来陈述。行动者 *A* 强现实化的，正是那些 *A* *直接* 造成的事态，或那些 *A* 并非 *通过* 做别的事而做的行动（Wierenga 1989, pp. 20–23）[^wierenga-1989]。当然，行动者可以通过强现实化 *另一个* 事态而 *间接* 现实化某一事态。维伦加的全能说明表述如下。
+    step2: |-
+      维伦加的全能说明与弗林特、弗雷多索的一样，依赖这一直觉观念：两个可能世界可以共享同一过去或历史直到某一时点，然后分岔。按维伦加的说明，此类两个世界共享一个 **初始片段**，其中 $S (W, t)$ 是可能世界 *W* 截至时刻 *t* 的初始片段（Wierenga 1989, pp. 18–20）[^wierenga-1989]。与弗林特和弗雷多索的说明不同，维伦加的说明不以行动者能现实化什么来陈述，而以更窄的“行动者能 **强现实化** 什么”来陈述。行动者 *A* 强现实化的，正是那些 *A* **直接** 造成的事态，或那些 *A* 并非 **通过** 做别的事而做的行动（Wierenga 1989, pp. 20–23）[^wierenga-1989]。当然，行动者也可以通过强现实化 **另一个** 事态而 **间接** 现实化某一事态。维伦加的全能说明表述如下。
+
   - id: 87
     kind: body
     source: |-
       > A being *x* is omnipotent in a world *W* at a time $t =_{df}$ In *W* it is true both that (i) for every state of affairs *A*, if it is possible that both $S (W, t)$ obtains and that *x* strongly actualizes *A* at *t*, then at $t, x$ can strongly actualize *A*, and (ii) there is some state of affairs which *x* can strongly actualize at *t*. (Wierenga 1989, p. 25)[^wierenga-1989]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 一个存在者 *x* 在世界 *W* 中于时刻 $t =_{df}$ 全能，当且仅当在 *W* 中下列两点都真：(i) 对每一事态 *A*，若 $S (W, t)$ 成立且 *x* 在 *t* 强现实化 *A* 是可能的，则 $t, x$ 能强现实化 *A*；(ii) 存在某个 *x* 在 *t* 能强现实化的事态。（Wierenga 1989, p. 25）[^wierenga-1989]
+    step2: |-
+      > 一个存在者 *x* 在世界 *W* 中于时刻 $t =_{df}$ 全能，当且仅当在 *W* 中下列两点都真：(i) 对每一事态 *A*，若“$S (W, t)$ 成立且 *x* 在 *t* 强现实化 *A*”是可能的，则 $t, x$ 能强现实化 *A*；(ii) 存在某个 *x* 在 *t* 能强现实化的事态。（Wierenga 1989, p. 25）[^wierenga-1989]
+
   - id: 88
     kind: body
     source: |-
       This account of omnipotence may be vulnerable to a counter-example of the following kind. Arguably, there could be an agent, *x*, such that: *x* has a wide range of powers, *x* is essentially limited to these powers, and *x* essentially lacks a power, *P*, which an omnipotent agent ought to possess. Of course, *x* would not be omnipotent. Yet, Wierenga’s account of omnipotence paradoxically implies that *x* would be omnipotent. Hence, it can be argued that Wierenga’s account does not provide a logically sufficient condition for omnipotence. The assumption that there could be a non-omnipotent agent that is essentially limited in its powers can be defended as follows. An omnipotent agent has the power to overrule (or supersede) any law of nature (a mere *physical necessity*). For example, God has the power to overrule the law of gravity by bringing it about that a mountain floats in midair without any physical cause. Yet, arguably, it is possible for there to be a non-omnipotent agent who essentially lacks the power to overrule any law of nature. For example, it can be argued that there could be a physical or material agent who is *essentially* subject to certain laws of nature. Surely, such an agent would lack the power to overrule any law of nature, and so would not be omnipotent.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一全能说明可能易受下述反例攻击。可以说，可能存在一个行动者 *x*，使得：*x* 拥有广泛的力量，*x* 本质上限于这些力量，且 *x* 本质上缺乏全能行动者应当拥有的一种力量 *P*。当然，*x* 不会全能。然而，维伦加的全能说明却悖谬地蕴含 *x* 会全能。因此，可以论证维伦加的说明并未提供全能的逻辑充分条件。可以这样辩护“可能存在一个力量本质上受限的非全能行动者”这一假定。全能行动者有力量凌驾（或取代）任何自然律（一种纯然的 *物理必然性*）。例如，上帝有力量凌驾引力定律，使一座山悬在半空而无需任何物理原因。然而可以说，可能存在一个本质上缺乏凌驾任何自然律之力量的非全能行动者。例如，可以论证可能存在一个 *本质上* 受某些自然律支配的物理或物质行动者。这样的行动者当然会缺乏凌驾任何自然律的力量，因而不会全能。
+    step2: |-
+      这一全能说明可能易受下述反例攻击。可以说，可能存在一个行动者 *x*，使得：*x* 拥有广泛的力量，*x* 本质上限于这些力量，且 *x* 本质上缺乏全能行动者应当拥有的一种力量 *P*。当然，*x* 不会全能；然而，维伦加的全能说明却悖谬地蕴含 *x* 会全能。因此，可以论证维伦加的说明并未提供全能的逻辑充分条件。可以这样辩护“可能存在一个力量本质上受限的非全能行动者”这一假定：全能行动者有力量凌驾（或取代）任何自然律（一种纯然的 **物理必然性**）。例如，上帝有力量凌驾引力定律，使一座山悬在半空而无需任何物理原因。然而可以说，可能存在一个本质上缺乏凌驾任何自然律之力量的非全能行动者。例如，可以论证可能存在一个 **本质上** 受某些自然律支配的物理或物质行动者。这样的行动者当然会缺乏凌驾任何自然律的力量，因而不会全能。
+
   - id: 89
     kind: body
     source: |-
       A similar, though weaker, sort of objection concerns McEar, a hypothetical agent who essentially has the power to do only *one* thing, namely, scratch his ear. It may be objected that Wierenga’s analysis of omnipotence falsely implies that McEar would be omnipotent. But it might be replied that an agent such as McEar is impossible. It can be cogently argued that, necessarily, if McEar has the power to scratch his ear, then he *also* has the power to move a part of his body to scratch his ear, for instance, his arm (Wierenga 1989, pp. 28–29)[^wierenga-1989]. So, it appears that there could not be an agent that has the power to do only one thing. In reply to the stronger sort of objection discussed earlier, it may be suggested that, necessarily, for *any* power, if an agent lacks that power, then an omnipotent being could give that agent that power (Wierenga 1989, p. 29)[^wierenga-1989]. The difficulty with such a reply is that there could be a non-omnipotent agent who *essentially* lacks the power to overrule any law of nature, and hence that not even an omnipotent agent could give this non-omnipotent agent that power.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一种类似但较弱的反对，涉及麦克厄尔（McEar）：一个假想的行动者，本质上只有力量做 *一* 件事，即挠耳朵。有人可能反对说，维伦加的全能分析错误地蕴含麦克厄尔会全能。但可以答复说，麦克厄尔这样的行动者不可能存在。可以有说服力地论证：必然地，若麦克厄尔有力量挠耳朵，则他也 *同样* 有力量移动身体的一部分去挠耳朵，例如他的手臂（Wierenga 1989, pp. 28–29）[^wierenga-1989]。因此看来，不可能存在只有力量做一件事的行动者。针对前文讨论的较强反对，或可提出：必然地，对 *任何* 力量，若行动者缺乏该力量，则全能存在着能赋予该行动者该力量（Wierenga 1989, p. 29）[^wierenga-1989]。这一答复的困难在于：可能存在一个 *本质上* 缺乏凌驾任何自然律之力量的非全能行动者，因而甚至全能行动者也不能赋予该非全能行动者那种力量。
+    step2: |-
+      一种类似但较弱的反对，涉及麦克厄尔（McEar）：一个假想的行动者，本质上只有力量做 **一** 件事，即挠耳朵。有人可能反对说，维伦加的全能分析错误地蕴含麦克厄尔会全能。但可以答复说，麦克厄尔这样的行动者不可能存在。可以有说服力地论证：必然地，若麦克厄尔有力量挠耳朵，则他也 **同样** 有力量移动身体的一部分去挠耳朵，例如他的手臂（Wierenga 1989, pp. 28–29）[^wierenga-1989]。由此看来，不可能存在只有力量做一件事的行动者。针对前文讨论的较强反对，或可提出：必然地，对 **任何** 力量，若行动者缺乏该力量，则全能存在着能赋予该行动者该力量（Wierenga 1989, p. 29）[^wierenga-1989]。这一答复的困难在于：可能存在一个 **本质上** 缺乏凌驾任何自然律之力量的非全能行动者，因而甚至全能行动者也不能赋予该非全能行动者那种力量。
+
   - id: 90
     kind: body
     source: |-
       ## 5. Omnipotence and Divine Moral Perfection
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5 全能与神圣道德完善
+    step2: |-
+      ## 5 全能与神圣道德完善
+
   - id: 91
     kind: body
     source: |-

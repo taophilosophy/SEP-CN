@@ -11,230 +11,306 @@ segments:
     kind: body
     source: |-
       One of the central areas of dispute in the reception of Kant’s critical philosophy concerns his distinction between the cognitive faculties of sensibility (*Sinnlichkeit*) and intellect (*Verstand*), and their characteristic representational outputs—viz. intuition (*Anschauung*) and concept (*Begriff*). Though the dispute is multi-faceted, it centers on disagreement concerning the interpretation of Kant’s conception of the contribution made by the higher cognitive faculties (or the “intellect” in the broadest sense of that term) to a subject’s sensory apprehension of the world around it. The status of Kant’s distinction has been repeatedly questioned. In the immediate reception of Kant’s critical philosophy, major works by figures such as Solomon Maimon (*Essay on Transcendental Philosophy*, 1790) and G.W.F. Hegel (*Faith and Knowledge*, 1802) criticized the coherence of construing sensibility and intellect as independent faculties. The issue has also seen significant discussion in the latter half of the twentieth-century by Anglophone philosophers such as P.F. Strawson, Wilfrid Sellars, and John McDowell. Their work takes up Kant’s distinction between intuition and concept as an important vehicle for asking and answering questions regarding the relation between thought and reality. Such questions include both the issue of how thought could be so much as *about* an objective reality (Strawson 1959: ch. 2; McDowell 1994a; Ginsborg 2006b)[^ginsborg-2006b][^mcdowell-1994a][^strawson-1959], and the issue of how sense experiences caused by a subject’s environment could have a normative, rather than merely causal, significance for the subject’s thinking (Sellars 1968; McDowell 1994b)[^mcdowell-1994b][^sellars-1968].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在接受康德批判哲学的过程中，一个核心争论领域关乎他对感性（*Sinnlichkeit*）与知性（*Verstand*）这两种认识能力的区分，以及它们各自特有的表象产物——即直观（*Anschauung*）与概念（*Begriff*）。这场争论虽有多面，却集中于一点分歧：如何解释康德关于较高认识能力（或该词最广义上的“知性”）对主体感官把握周围世界所作贡献的构想。康德这一区分的地位屡遭质疑。在康德批判哲学的直接接受中，索洛蒙·迈蒙（《先验哲学论》，1790）与 G.W.F. 黑格尔（《信仰与知识》，1802）等的重要著作，都批评把感性与知性解释为彼此独立的能力有欠融贯。20 世纪后半期，P.F. 斯特劳森、威尔弗里德·塞拉斯与约翰·麦克道尔等英语哲学家也对此有大量讨论。他们的工作把康德直观与概念的区分当作提出并回答思想与实在关系问题的重要载体。这类问题既包括思想如何竟能*关于*一个客观实在（Strawson 1959: ch. 2; McDowell 1994a; Ginsborg 2006b）[^ginsborg-2006b][^mcdowell-1994a][^strawson-1959]，也包括由主体环境引起的感官经验如何能对主体的思想具有规范性、而非单纯因果性的意义（Sellars 1968; McDowell 1994b）[^mcdowell-1994b][^sellars-1968]。
+    step2: |-
+      在康德批判哲学的接受史上，一个核心争点是他对感性（*Sinnlichkeit*）与知性（*Verstand*）两种认识能力的区分，以及二者特有的表象产物——直观（*Anschauung*）与概念（*Begriff*）。争论面相虽多，焦点却在一处：如何解读康德关于较高认识能力（或最广义的“知性”）对主体感官把握世界所作贡献的看法。这一区分的正当性屡受质疑。在康德哲学最初的接受中，索洛蒙·迈蒙（《先验哲学论》，1790）、G.W.F. 黑格尔（《信仰与知识》，1802）等的重要著作就批评：把感性与知性当作彼此独立的能力，并不融贯。20 世纪后半叶，P.F. 斯特劳森、威尔弗里德·塞拉斯、约翰·麦克道尔等英语哲学家又作了大量讨论。他们借康德直观与概念之别，提出并回答思想与实在的关系问题：思想如何竟能*关于*客观实在（Strawson 1959: ch. 2; McDowell 1994a; Ginsborg 2006b）[^ginsborg-2006b][^mcdowell-1994a][^strawson-1959]；环境引起的感官经验又如何对思想具有规范性、而非仅仅因果性的意义（Sellars 1968; McDowell 1994b）[^mcdowell-1994b][^sellars-1968]。
   - id: 2
     kind: body
     source: |-
       Hence, the debate over the relation between intuition and concept is of significant historical and philosophical interest for at least two reasons. First, because it promises to provide answers to central questions in Kant’s conception of experience, such as those concerning the *acquisition* of the content of thought and the *warrant* for holding such thoughts as true. Second, because it serves as proxy for a related, and perhaps even more fundamental, dispute concerning Kant’s conception of the nature of rationality and its manifestation in animal life, particularly insofar as rationality is conceived as requiring sensitivity to norms or reasons as such (McDowell 2009, 2010; Korsgaard 2011: §6)[^korsgaard-2011][^mcdowell-2009].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，关于直观与概念之关系的争论，至少在两个理由上具有重大的历史与哲学意义。第一，因为它有望回答康德经验构想中的核心问题，例如关于思想内容的*获得*，以及把此类思想视为真的*根据*。第二，因为它充当一场相关、或许更为根本的争论的代理：康德关于理性之本性及其在动物生命中之表现的构想，尤其就理性被设想为要求对规范或理由本身的敏感而言（McDowell 2009, 2010; Korsgaard 2011: §6）[^korsgaard-2011][^mcdowell-2009]。
+    step2: |-
+      可见，直观与概念之争至少有两重历史与哲学意义。其一，它有望回答康德经验学说中的核心问题，比如思想内容如何*获得*、又凭什么*有理由*被视为真。其二，它是一场更根本之争的代理：康德如何理解理性的本性及其在动物生命中的显现，尤其当理性被设想为要求对规范或理由本身的敏感时（McDowell 2009, 2010; Korsgaard 2011: §6）[^korsgaard-2011][^mcdowell-2009]。
   - id: 3
     kind: body
     source: |-
       Despite, and perhaps because of, the foundational nature of the interpretive and philosophical issues involved here, a significant number of the interpretive issues regarding Kant’s view turn simply on the way in which the dispute is framed. Indeed, much of the good work in the last twenty-five years or so concerning the relation between intuition and concept has served largely to clarify the terms and fundamental points at issue between disputants. To that end, this entry surveys both the basic framing assumptions of the dispute (§§1–4) and various loci of disagreement within it (§5).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管——或许正因为——此处所涉解释与哲学问题具有基础性质，关于康德观点的相当一部分解释问题，恰恰取决于争论如何被框定。事实上，过去二十五年左右关于直观与概念之关系的许多好工作，很大程度上只是澄清了争论各方所用术语与根本论点。为此，本词条既考察这场争论的基本框定假定（§§1–4），也考察其中的各种分歧所在（§5）。
+    step2: |-
+      尽管——也许正因为——这里的解释与哲学问题极为基础，关于康德观点的不少解释争执，其实只系于争论怎样被框定。过去二十五年里，围绕直观与概念关系的许多扎实工作，多半只是澄清了争点双方的用语与根本分歧。有鉴于此，本词条既梳理争论的基本框定前提（§§1–4），也梳理其中的各处分歧（§5）。
   - id: 4
     kind: body
     source: |-
       ## 1. Mental Faculties and Mental Representation
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1. 心理能力与心理表象
+    step2: |-
+      ## 1 心理能力与心理表象
   - id: 5
     kind: body
     source: |-
       One of the goals of Kant’s critical philosophy is to articulate the conditions of the possibility of what he calls “experience” (*Erfahrung*). As we’ll see below, Kant’s use of the term is rather more technical than is typically meant in English by talk of, e.g., a subject’s “experience” of the color red. Indeed, Kant sometimes speaks of there being only a single or universal experience (A110, A493/B521), which at least strongly suggests that he is not construing experience in a purely subjective or phenomenological manner. Rather, in talking of the conditions of “experience” in this way, Kant is most obviously concerned with the conditions under which objective empirical knowledge (*Wissen*) is possible—including knowledge that Kant thinks we actually have, such as is exemplified in the sciences of mathematics and physics. Kant’s hope is that by articulating the conditions under which such knowledge is possible, he will be able to indicate how it is that metaphysics itself could become a science. He pursues this goal via an examination of those features of the mind relevant to the conditions of “experience” so construed. This amounts to an examination of the conditions for “cognition” (*Erkenntnis*), or as Kant often puts it, the mind’s “relation to an object” (B137). There is some controversy about the best way to understand Kant’s use of this phrase, but for the moment we’ll understand it as involving relation to a possible object of experience, and as being a necessary condition for the positive substantive knowledge characteristic of a proper science (i.e., a *Wissenschaft*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德批判哲学的目标之一，是阐明他所谓“经验”（*Erfahrung*）之可能性的条件。如下文所见，康德对该词的用法，比英语中通常所谓主体对红色的“经验”要技术化得多。事实上，康德有时说只有唯一的、普遍的经验（A110, A493/B521），这至少强烈暗示他并未以纯粹主观或现象学的方式来解释经验。毋宁说，如此谈论“经验”的条件时，康德显然关心的是客观经验知识（*Wissen*）得以可能的条件——包括康德认为我们实际拥有的知识，例如数学与物理科学中所体现者。康德的希望是：通过阐明此类知识得以可能的条件，他就能指明形而上学本身如何可能成为科学。他通过考察心中与如此解释的“经验”条件相关的那些特征来追求这一目标。这等于考察“认识”（*Erkenntnis*）的条件，或如康德常说的，心的“与对象的关系”（B137）。关于如何最好地理解康德这一短语的用法，尚有一些争议，但暂时我们将把它理解为涉及与一个可能经验对象的关系，并且是作为一门真正科学（即 *Wissenschaft*）所特有的肯定性实质知识的必要条件。
+    step2: |-
+      康德批判哲学的目标之一，是阐明他所谓“经验”（*Erfahrung*）的可能性条件。下文将见，该词的用法远比英语中“主体对红色的经验”之类说法技术化。康德有时甚至说只有唯一而普遍的经验（A110、A493/B521），这至少强烈暗示：他并不在纯粹主观或现象学的意义上谈经验。他谈“经验”的条件，显然是在问客观经验知识（*Wissen*）如何可能——包括他认为我们实际拥有的知识，如数学、物理学中的知识。康德的希望是：阐明这类知识的可能条件，便能指明形而上学本身如何成为科学。他为此考察心中与“经验”条件相关的特征，也就是考察“认识”（*Erkenntnis*）的条件，或如他常说的，心的“与对象的关系”（B137）。这一短语如何理解尚有争议；暂且把它理解为与可能经验对象的关系，且是真正科学（*Wissenschaft*）那种肯定性实质知识的必要条件。
   - id: 6
     kind: body
     source: |-
       At the most basic explanatory level, Kant conceives of the mind as constituted by two different kinds of capacity (*Fähigkeit*), or power (*Vermögen*), which he labels “receptivity” (*Receptivität*) and “spontaneity” (*Spontaneität*). Receptivity, as the name suggests, constitutes the mind’s capacity to be affected, whether by itself (i.e., one “part” or capacity of the mind affecting another) or something else (i.e., something distinct from the mind). For Kant, any exercise of the mind’s receptive power essentially requires some external prompting in order to engage in the production of representations. In contrast, the power of spontaneity needs no such prompting. It is able to initiate its activity from itself, without any external influence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在最基本的解释层面上，康德把心构想为由两类不同能力（*Fähigkeit*）或力量（*Vermögen*）构成，他称之为“接受性”（*Receptivität*）与“自发性”（*Spontaneität*）。接受性，顾名思义，构成心被影响的能力，无论是被自身（即心的某一“部分”或能力影响另一部分）还是被别的东西（即有别于心者）影响。对康德而言，心的接受性力量的任何运用，本质上都需要某种外部触发，才能从事表象的生产。相反，自发性的力量无需这种触发：它能够自行启动其活动，不受任何外部影响。
+    step2: |-
+      在最基础的解释层次上，康德把心看成由两类能力（*Fähigkeit*）或力量（*Vermögen*）构成，即“接受性”（*Receptivität*）与“自发性”（*Spontaneität*）。接受性，如其名所示，是心受触动而产生表象的能力——无论触动来自心自身（心的一部分或一种能力作用于另一部分），还是来自他物（有别于心者）。在康德看来，接受性力量要运作、要生产表象，本质上总需某种外部引发。自发性则无须这种引发，它能自行发起活动，不受外物左右。
   - id: 7
     kind: body
     source: |-
       Kant thus construes all mental activity either in terms of its resulting from affection (receptivity) or from the mind’s self-prompted activity (spontaneity). From these two very general aspects of the mind Kant then identifies three basic cognitive faculties (*Vermögen*), termed by Kant “sensibility” (*Sinnlichkeit*), “understanding” (*Verstand*), and “reason” (*Vernunft*). These faculties characterize specific cognitive powers, none of which is reducible to any of the others, and to each of which is assigned a particular cognitive task and a specific kind of characteristic representational output. In the case of sensibility the characteristic representations are sensation (*Empfindung*) and intuition (*Anschauung*). In the case of the understanding and reason (or the ‘intellect’ more broadly), concepts (*Begriffe*), judgment (*Urteil*), and inference (*Schluß*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，康德把一切心理活动要么解释为出自被触动（接受性），要么解释为出自心的自我发起活动（自发性）。从心的这两个极一般的方面出发，康德进而辨识出三种基本认识能力（*Vermögen*），他称之为“感性”（*Sinnlichkeit*）、“知性”（*Verstand*）与“理性”（*Vernunft*）。这些能力刻画了特定的认识力量，其中任何一种都不可还原为其他任何一种，且各自被指派了特定的认识任务与特定种类的特征性表象产物。就感性而言，其特征性表象是感觉（*Empfindung*）与直观（*Anschauung*）。就知性与理性（或更广义的“知性”）而言，则是概念（*Begriffe*）、判断（*Urteil*）与推理（*Schluß*）。
+    step2: |-
+      于是，一切心理活动在康德笔下，或出于被触动（接受性），或出于心的自我启动（自发性）。由这两个极一般的方面，康德进而指出三种基本认识能力（*Vermögen*），即“感性”（*Sinnlichkeit*）、“知性”（*Verstand*）、“理性”（*Vernunft*）。三者各管一种特定的认识力量，彼此不可化约，各有其认识任务与特有的表象产物：感性的产物是感觉（*Empfindung*）与直观（*Anschauung*）；知性与理性（或广义的“知性”）的产物则是概念（*Begriffe*）、判断（*Urteil*）与推理（*Schluß*）。
   - id: 8
     kind: body
     source: |-
       Kant characterizes intuition in terms of two basic characteristics—viz. immediacy (*Unmittelbarkeit*) and particularity (*Einzelheit*) (cf. A19/B33, A68/B93; JL 9:91). This is in contrast to the mediacy and generality (*Allgemeinheit*) characteristic of conceptual representation (A68/B93; JL 9:91). Kant’s distinction between these two sorts of representation might at first pass be taken as a kind of phenomenological distinction between how things seem to a perceiving subject independently of thought about what is so experienced, and this is indeed how at least some interpreters have construed Kant (e.g., Prichard 1909; Russell 1913; Broad 1978; Parsons 1992b)[^broad-1978][^parsons-1992b][^prichard-1909][^russell-1913]. However, as others have noted (e.g., Paton 1936: 98)[^paton-1936], Kant’s method for distinguishing the various contributions made by our cognitive faculties proceeds not by appeal to phenomenology but rather philosophical abstraction (e.g., A20–1/B34–5). Moreover, Kant at least sometimes seems to deny that a representation (or its content) could be present to consciousness at all—i.e., be something “for” the subject—without conceptualization (e.g., A116–17, B132). Hence Kant seems concerned not so much with the phenomenology of conceptual vs. non-conceptual experience as he is with the role the sensory and the conceptual play in constituting cognition and knowledge.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德以两个基本特征来刻画直观——即直接性（*Unmittelbarkeit*）与单一性（*Einzelheit*）（参 A19/B33, A68/B93; JL 9:91）。这与概念性表象所特有的中介性与一般性（*Allgemeinheit*）形成对照（A68/B93; JL 9:91）。初看之下，康德对这两类表象的区分，或许会被当作一种现象学区分：事物在感知主体看来如何，独立于关于如此经验到什么的思想；至少有些解释者确实这样理解康德（例如 Prichard 1909; Russell 1913; Broad 1978; Parsons 1992b）[^broad-1978][^parsons-1992b][^prichard-1909][^russell-1913]。然而，正如其他人所指出的（例如 Paton 1936: 98）[^paton-1936]，康德区分诸认识能力所作贡献的方法，并非诉诸现象学，而是哲学抽象（例如 A20–1/B34–5）。此外，康德至少有时似乎否认：一个表象（或其内容）能够完全不被概念化地呈现于意识——即成为对主体而言“为”主体的东西（例如 A116–17, B132）。因此，康德所关心的似乎不是概念性经验与非概念性经验的现象学，而是感性与概念性在构成认识与知识中所扮演的角色。
+    step2: |-
+      康德用两个基本标记来刻画直观：直接性（*Unmittelbarkeit*）与单一性（*Einzelheit*）（参 A19/B33、A68/B93；JL 9:91）。概念性表象则以中介性与一般性（*Allgemeinheit*）为标记（A68/B93；JL 9:91）。初看之下，这一区分像是现象学上的差别：事物在感知主体看来如何，撇开关于所经验者为何的思想；确有解释者这样读康德（如 Prichard 1909; Russell 1913; Broad 1978; Parsons 1992b）[^broad-1978][^parsons-1992b][^prichard-1909][^russell-1913]。但如他人已指出（如 Paton 1936: 98）[^paton-1936]，康德区分诸认识能力贡献的方法不是现象学，而是哲学抽象（如 A20–1/B34–5）。何况康德至少有时似乎否认：一个表象（或其内容）可以未经概念化而临于意识，即成为对主体而言“为”他者（如 A116–17、B132）。可见康德所重的并非概念性/非概念性经验的现象学，而是感性与概念在构成认识与知识中各自起什么作用。
   - id: 9
     kind: body
     source: |-
       In discursive rational beings such as ourselves, intuition and concept cooperate in the generation of what Kant calls “cognition”. Kant employs the term “cognition” (*Erkenntnis*) in different ways (Smit 2000, 2009; Schafer 2022, 2023a; Gomes and Stephenson 2016; Tolley 2020; Willaschek and Watkins 2020; Watkins and Willaschek 2017b)[^gomes-2016][^schafer-2022][^smit-2000][^tolley-2020][^watkins-2017b][^willaschek-2020]. In the ‘Stepladder’ passage from the first *Critique* Kant provides a very general definition of cognition as a conscious representation of an object (A320/B376; see also JL 9:91). In this sense both intuitions and concepts may be cognitions. Kant also has a narrower sense of cognition “in the proper sense” (A78/B103), which in finite discursive beings like us concerns only those states that are the outcome of a synthesis of concepts and an intuited manifold. Proper cognition satisfies three conditions: (i) consciousness; (ii) “agreement” (*Übereinstimmung*) or truth-aptness; (iii) real possibility. The consciousness condition is clearly stated in Kant’s “Stepladder” passage. Cognition must be a conscious relation to an object. Kant indicates the “agreement” or “conformity” (*Übereinstimmung*) of a cognition with its object in his discussion of truth in the first *Critique*. He says that the “nominal definition of truth, namely that it is the agreement of cognition with its object, is here granted and presupposed” (A58/B82). Since Kant allows for false cognition, his view must be that representations that are cognitions are such as *to be able* to agree or conform with their objects, and Kant construes such agreement as truth. Kant regards judgment (i.e., a specific sort of non-associatively structured unity of concepts) as the bearer of truth, while denying that intuition is the sort of thing that can be true or false (see Heis 2013: 277–8; McLear 2016b)[^heis-2013][^mclear-2016b]. Finally, Kant construes cognition as always needing to be of a really—i.e., metaphysically—possible subject matter. As Kant states in a famous footnote in the B-preface of the first *Critique*:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在我们这样的推论性理性存在者身上，直观与概念合作生成康德所谓“认识”。康德在不同意义上使用“认识”（*Erkenntnis*）一词（Smit 2000, 2009; Schafer 2022, 2023a; Gomes and Stephenson 2016; Tolley 2020; Willaschek and Watkins 2020; Watkins and Willaschek 2017b）[^gomes-2016][^schafer-2022][^smit-2000][^tolley-2020][^watkins-2017b][^willaschek-2020]。在第一《批判》的“阶梯”段落中，康德给出一个极一般的定义：认识是对对象的有意识表象（A320/B376; 亦见 JL 9:91）。在这个意义上，直观与概念都可以是认识。康德还有一个“严格意义上的”认识（A78/B103）之义，在像我们这样的有限推论性存在者身上，它只涉及那些由概念与直观杂多之综合所产出的状态。严格意义上的认识满足三个条件：（i）意识；（ii）“一致”（*Übereinstimmung*）或可论真性；（iii）实在可能性。意识条件在康德的“阶梯”段落中表述得很清楚：认识必须是对对象的有意识关系。康德在第一《批判》讨论真理时指明了认识与其对象的“一致”或“符合”（*Übereinstimmung*）。他说，“真理的名义定义，即真理是认识与其对象的一致，在这里是被承认并预设的”（A58/B82）。既然康德容许虚假认识，他的观点必然是：作为认识的表象*能够*与其对象一致或符合，而康德把这种一致解释为真。康德认为判断（即一种特定类型的、非联想性结构的概念统一）是真理的承载者，同时否认直观是能够为真或为假的东西（见 Heis 2013: 277–8; McLear 2016b）[^heis-2013][^mclear-2016b]。最后，康德认为认识始终必须关于一个实在的——即形而上学上——可能的题材。如康德在第一《批判》B 版序言一则著名脚注中所说：
+    step2: |-
+      在我们这样的推论性理性存在者身上，直观与概念合作，才生出康德所谓“认识”。康德用“认识”（*Erkenntnis*）一词有多重含义（Smit 2000, 2009; Schafer 2022, 2023a; Gomes and Stephenson 2016; Tolley 2020; Willaschek and Watkins 2020; Watkins and Willaschek 2017b）[^gomes-2016][^schafer-2022][^smit-2000][^tolley-2020][^watkins-2017b][^willaschek-2020]。第一《批判》“阶梯”段落给出极宽的定义：认识是对对象的有意识表象（A320/B376；又见 JL 9:91）。在此意义上，直观与概念都算认识。另有一个“严格意义上的”认识（A78/B103），在像我们这样的有限推论存在者那里，只指由概念与直观杂多综合而成的状态。严格认识须满足三条：（i）有意识；（ii）“一致”（*Übereinstimmung*）或可论真假；（iii）实在可能。第一层意思见“阶梯”段落：认识必是对对象的有意识关系。第二层见第一《批判》论真理处：康德说“真理的名义定义，即真理是认识与其对象的一致，此处予以承认并预设”（A58/B82）。康德容许假认识，故其说只能是：作为认识的表象*能够*与其对象一致或符合，而他把这种一致称为真。真理的承载者是判断（一种特定类型的、非联想性结构的概念统一）；直观则不是能真能假的东西（见 Heis 2013: 277–8; McLear 2016b）[^heis-2013][^mclear-2016b]。最后，认识总须关于实在的——即形而上学上——可能的题材。康德在第一《批判》B 版序言那则著名脚注中说：
   - id: 10
     kind: body
     source: |-
       > To *cognize* an object, it is required that I be able to prove its possibility (whether by the testimony of experience from its actuality or *a priori* through reason). (Bxxvin.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 要*认识*一个对象，需要我能证明它的可能性（或凭经验从其现实性作证，或*先天*地经由理性）。（Bxxvin.）
+    step2: |-
+      > 要*认识*一个对象，我必须能证明其可能：或借经验由其现实性作证，或*先天*地经由理性。（Bxxvin.）
   - id: 11
     kind: body
     source: |-
       Proper cognition may be pure, as when synthesizing a manifold of pure intuition (e.g., the pure intuition of space or time) with a concept (e.g., the concept of space as discussed in the Metaphysical Exposition of Space in the Transcendental Aesthetic). Proper cognition may also be empirical, as when synthesizing an empirical intuition (e.g., of touch or vision) with a concept. Kant often describes empirical cognition as “experience” (*Erfahrung*; see, e.g., B166, A176/B218, A189/B234), though empirical intuition and concepts are also related in what Kant calls “perception” (*Wahrnehmung*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      严格意义上的认识可以是纯粹的，例如把纯粹直观的杂多（如空间或时间的纯粹直观）与一个概念（如《先验感性论》空间形而上学阐明中所讨论的空间概念）综合起来。严格意义上的认识也可以是经验的，例如把经验直观（如触觉或视觉的直观）与一个概念综合起来。康德常把经验认识描述为“经验”（*Erfahrung*；例如见 B166, A176/B218, A189/B234），尽管经验直观与概念在康德所谓“知觉”（*Wahrnehmung*）中也被关联起来。
+    step2: |-
+      严格认识可为纯粹：把纯粹直观的杂多（如空间或时间的纯粹直观）同一个概念（如《先验感性论》空间形而上学阐明中的空间概念）综合起来即是。它也可为经验：把经验直观（如触觉、视觉的直观）同概念综合起来即是。康德常把经验认识称为“经验”（*Erfahrung*；例如 B166、A176/B218、A189/B234）；不过经验直观与概念也在他所谓“知觉”（*Wahrnehmung*）中相关联。
   - id: 12
     kind: body
     source: |-
       Kant takes the terms “intuition” (*Anschauung*), “perception” (*Wahrnehmung*), and “experience” (*Erfahrung*) to designate different things (McLear 2014b: 771–772; Allais 2016: 2–5; Tolley 2016a: 86–91, 2019, 2020)[^allais-2016][^mclear-2014b][^tolley-2016a]. For example, in the headings to the first three chapters of the Principles of the first *Critique* Kant distinguishes between the “Axioms of Intuition,” the “Anticipations of Perception,” and the “Analogies of Experience.” If Kant weren’t thinking that the terms “intuition”, “perception”, and “experience” designated distinct mental states, then it would be difficult to understand why he ordered a central part of his architectonic around them. All three are forms of representation of objects. Insofar as each is a conscious representation of an object they are all forms of “cognition” in the broad (though not necessarily the “proper”) sense of that term. Let’s look at each representational kind in a bit more detail.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德认为“直观”（*Anschauung*）、“知觉”（*Wahrnehmung*）与“经验”（*Erfahrung*）三名指称不同之物（McLear 2014b: 771–772; Allais 2016: 2–5; Tolley 2016a: 86–91, 2019, 2020）[^allais-2016][^mclear-2014b][^tolley-2016a]。例如，在第一《批判》“原理”头三章的标题中，康德区分了“直观的公理”、“知觉的预测”与“经验的类比”。倘若康德不认为“直观”、“知觉”、“经验”指称不同的心理状态，就很难理解他为何围绕它们安排其建筑术的一个核心部分。三者都是对象的表象形式。就每一者都是对对象的有意识表象而言，它们都是广义（未必“严格”）意义上的“认识”。我们稍为详细地看看每一类表象。
+    step2: |-
+      在康德笔下，“直观”（*Anschauung*）、“知觉”（*Wahrnehmung*）、“经验”（*Erfahrung*）各有所指（McLear 2014b: 771–772; Allais 2016: 2–5; Tolley 2016a: 86–91, 2019, 2020）[^allais-2016][^mclear-2014b][^tolley-2016a]。例如第一《批判》“原理”头三章的标题，即“直观的公理”、“知觉的预测”、“经验的类比”，便可见其分际。若康德不认为三者标示不同的心理状态，就难以解释他何以围绕它们安排建筑术的核心部分。三者都是对象的表象形式；既然都是对对象的有意识表象，便都算广义（未必“严格”）的“认识”。下面稍详地看各类表象。
   - id: 13
     kind: body
     source: |-
       Intuition is a relation to an “undetermined” (*unbestimmt*) object or an “appearance” (*Erscheinung*). Kant uses this phrase to characterize the object of intuition both in the opening of the Transcendental Aesthetic (A20/B34) in the first *Critique*, and in later discussion in both the Analytic (A69/B94, B154, B163, A141/B180, B309) and the Dialectic (A310/B367, B422n, A443/B471, A718/B746)). Though interpretation of these texts is controversial, the sense in which the object of intuition is “undetermined” seems to specifically involve its lack of *conceptual* determination, either explicitly in judgment (see, e.g., A69/B94) or via a rule of “figurative” synthesis that guides the imagination (e.g., A141/B180).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      直观是与一个“未被规定的”（*unbestimmt*）对象或一个“显象”（*Erscheinung*）的关系。康德在第一《批判》《先验感性论》开头（A20/B34），以及后来在分析论（A69/B94, B154, B163, A141/B180, B309）与辩证论（A310/B367, B422n, A443/B471, A718/B746）的讨论中，都用这一短语来刻画直观的对象。尽管这些文本的解释有争议，直观对象“未被规定”的意义似乎具体涉及它缺乏*概念性*规定——或是在判断中明确缺乏（例如见 A69/B94），或是缺乏指导想象力的“形象”综合规则（例如 A141/B180）。
+    step2: |-
+      直观所关联的是“未被规定的”（*unbestimmt*）对象，即“显象”（*Erscheinung*）。这一说法见于第一《批判》《先验感性论》开篇（A20/B34），也见于后来分析论（A69/B94、B154、B163、A141/B180、B309）与辩证论（A310/B367、B422n、A443/B471、A718/B746）的讨论。这些文本的解释虽有争议，但“未被规定”似乎特指缺乏*概念*规定——或是判断中明缺（如 A69/B94），或是缺少指导想象力的“形象”综合规则（如 A141/B180）。
   - id: 14
     kind: body
     source: |-
       Perception, like intuition, is also sometimes described as representation of an undetermined object (e.g., B422n). However, perception also involves a consciousness of the “manifold” or “content” (*Inhalt*; more on this notion of “content” below) of the intuition (A99, A119–20, B160, B162, B202–3; Pr 4:300). What Kant means by this is not entirely obvious. However, Kant is clear that perception necessarily requires the activity of the imagination in combining together the content of the intuition into what Kant calls an “image” (*Bild*), which yields or constitutes consciousness of the content of intuition itself (A120, B160; see Sellars 1978; Young 1988; Allison 2015: 254–264; Matherne 2015; Tolley 2019, 2020)[^allison-2015][^matherne-2015][^sellars-1978][^tolley-2019][^young-1988]. Kant also indicates that in perception the “mathematical” categories of quality and quantity are employed, though not the relational or modal categories, which are constitutive of experience only (A161–2/B201; see Allison 2015: 414–426)[^allison-2015].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      知觉与直观一样，有时也被描述为对未被规定对象的表象（例如 B422n）。然而，知觉还涉及对直观的“杂多”或“内容”（*Inhalt*；关于“内容”这一观念详见下文）的意识（A99, A119–20, B160, B162, B202–3; Pr 4:300）。康德此意并不全然显然。不过康德清楚，知觉必然要求想象力把直观的内容结合为康德所谓“图像”（*Bild*），从而产生或构成对直观内容本身的意识（A120, B160; 见 Sellars 1978; Young 1988; Allison 2015: 254–264; Matherne 2015; Tolley 2019, 2020）[^allison-2015][^matherne-2015][^sellars-1978][^tolley-2019][^young-1988]。康德还指出，在知觉中，质与量这些“数学的”范畴被使用，而关系范畴或模态范畴则不然——后者只对经验有构成作用（A161–2/B201; 见 Allison 2015: 414–426）[^allison-2015]。
+    step2: |-
+      知觉同直观一样，有时也被说成对未被规定对象的表象（如 B422n）。但知觉还包含对直观“杂多”或“内容”（*Inhalt*；下详）的意识（A99、A119–20、B160、B162、B202–3；Pr 4:300）。此意并不全然明白。不过康德说得很清楚：知觉必赖想象力把直观内容结合为所谓“图像”（*Bild*），由此产生或构成对直观内容本身的意识（A120、B160；见 Sellars 1978; Young 1988; Allison 2015: 254–264; Matherne 2015; Tolley 2019, 2020）[^allison-2015][^matherne-2015][^sellars-1978][^tolley-2019][^young-1988]。康德还指出，知觉用及质、量这些“数学的”范畴，却不用关系范畴与模态范畴——后者只对经验有构成作用（A161–2/B201；见 Allison 2015: 414–426）[^allison-2015]。
   - id: 15
     kind: body
     source: |-
       Finally, “experience” (*Erfahrung*) involves the combination or “synthesis” of these perceptions (*Wahrnehmungen*) by the categories, particularly the categories of relation (i.e., substance, cause, community). As Kant puts it, “experience is cognition through connected perceptions (*durch verknüpfte Wahrnehmungen*)” (B161; cf. B218; Pr 4:300). Experience is thus the most cognitively demanding and sophisticated form of having a cognitive relation to an object.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，“经验”（*Erfahrung*）涉及诸知觉（*Wahrnehmungen*）通过范畴、尤其关系范畴（即实体、原因、交互）的结合或“综合”。如康德所说，“经验是通过联结起来的知觉而得到的认识（*durch verknüpfte Wahrnehmungen*）”（B161; 参 B218; Pr 4:300）。因此，经验是与对象具有认识关系的最具认识要求、也最精巧的形式。
+    step2: |-
+      最后，“经验”（*Erfahrung*）是诸知觉（*Wahrnehmungen*）经由范畴、尤其关系范畴（实体、原因、交互）的结合或“综合”。用康德的话说，“经验是通过联结起来的知觉而得的认识（*durch verknüpfte Wahrnehmungen*）”（B161；参 B218；Pr 4:300）。故在与对象发生认识关系的诸形式中，经验对认识的要求最高、构造也最精。
   - id: 16
     kind: body
     source: |-
       Given these distinctions we’ll next look at how to understand the proper locus of debate concerning the intellect’s contribution to sense experience.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有了这些区分，我们接下来看看，应如何理解关于知性对感官经验所作贡献的争论的恰当所在。
+    step2: |-
+      有了这些区分，接下来看：关于知性对感官经验之贡献的争论，究竟该落在何处。
   - id: 17
     kind: body
     source: |-
       ## 2. The Locus of Debate: Experience, Perception, or Intuition?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2. 争论的所在：经验、知觉还是直观？
+    step2: |-
+      ## 2 争论的所在：经验、知觉还是直观？
   - id: 18
     kind: body
     source: |-
       When inquiring about the nature of the relationship between the intellect and sense experience it is important to keep in mind the technical sense with which Kant uses various terms, as introduced above. There are at least two reasons for doing so. First, to be as clear as we can regarding Kant’s understanding of his own theory. Second, to avoid confusion regarding the relation between Kant’s conception of such terms and our modern Anglophone tradition of use. This latter issue is especially significant since, as we’ve already seen, it is not at all clear that Kant’s conception of “experience” admits of straightforward translation into our modern notion. For example, Kant is clear that “experience,” in his sense of an “empirical cognition” (*empirische Erkenntnis*), includes conceptual synthesis, since such synthesis is what binds the various elements of an empirical cognition together such that they are non-arbitrarily connected (see, e.g., B12, B161, B201, B218, and B233). As a result, all should concede that his usage of “experience” (*Erfahrung*) and “empirical cognition” (*empirische Erkenntnis*) typically is meant in a way that assumes a cognitive contribution in the form of conceptual synthesis by the understanding (Allais 2016: 4)[^allais-2016]. Thus, and rather confusingly, if there is a debate to be had concerning Kant’s view of the conceptual or intellectual character of “experience” in its contemporary English sense of a kind of phenomenally conscious state, it may well be located at somewhere other than the level of “experience” in Kant’s technical sense (though for worries about our contemporary philosophical usage of “experience” see Byrne 2009)[^byrne-2009].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在探究知性与感官经验之关系的本性时，重要的是记住上文所介绍的康德对各术语的技术性用法。这样做至少有两个理由。第一，尽可能清楚地把握康德对其自身理论的理解。第二，避免在康德对这些术语的构想与我们现代英语传统的用法之间产生混淆。后一问题尤其重大，因为如前所见，康德的“经验”构想是否可直截了当地译入我们的现代概念，完全不显然。例如，康德清楚地说，他意义上的“经验”即“经验认识”（*empirische Erkenntnis*）包含概念性综合，因为正是这种综合把经验认识的各种要素结合起来，使它们以非任意的方式相连（例如见 B12, B161, B201, B218, B233）。因此，所有人都应承认：康德对“经验”（*Erfahrung*）与“经验认识”（*empirische Erkenntnis*）的用法，通常预设了以知性所作概念性综合为形式的认识贡献（Allais 2016: 4）[^allais-2016]。于是（颇令人困惑），若有一场关于康德如何看待“经验”之概念性或理智品格的争论——这里“经验”取当代英语中某种现象上有意识状态之义——它很可能不在康德技术意义上的“经验”层面（尽管对当代“经验”哲学用法的疑虑见 Byrne 2009）[^byrne-2009]。
+    step2: |-
+      探究知性与感官经验的关系，须牢记上文交代的康德术语之技术义。理由有二：一是尽量厘清康德对自家理论的理解；二是免于把康德的构想同现代英语传统的用法搅混。后一点尤要，因为如前所见，康德的“经验”概念能否径直译成我们的现代概念，实在不显然。比如，康德明说，他意义上的“经验”即“经验认识”（*empirische Erkenntnis*）含有概念综合——正是这种综合把经验认识的各要素绑在一起，使它们非任意地相关联（例如 B12、B161、B201、B218、B233）。所以大家都该承认：康德用“经验”（*Erfahrung*）与“经验认识”（*empirische Erkenntnis*）时，通常已预设知性以概念综合形式作出的认识贡献（Allais 2016: 4）[^allais-2016]。由此（不免令人困惑），若有人就“经验”的概念性或理智品格争论不休——此“经验”取当代英语里某种现象上有意识状态之义——那么争论恐怕并不落在康德技术义的“经验”层面（关于当代“经验”用法的疑虑，见 Byrne 2009）[^byrne-2009]。
   - id: 19
     kind: body
     source: |-
       More controversial is the issue of whether “perception” (*Wahrnehmung*) in Kant’s technical sense constitutively involves concepts or otherwise depends on conceptual synthesis. There is at least some evidence for thinking it does. For example, Kant says in the second version of the Transcendental Deduction, that “all synthesis, through which even perception itself becomes possible, stands under the categories” (B161). It may be that Kant’s use of “perception” (*Wahrnehmung*) here is largely in line with preceding German usage (e.g., in Wolff, Baumgarten, Meier, and Tetens) to mean the becoming conscious of a sensory representation in the mind (alternatively, becoming conscious of that which is presented via such representation), rather than either the mere occurrence of such a representation, or the occurrence of a judgment concerning the representation (Tolley 2016b, 2020)[^tolley-2016b]. In this way perception, as empirical consciousness of a representation (or what is presented through it; B207) is intermediate between the mere occurrence of an intuition in a subject’s mind and experience or empirical cognition, which Kant describes as involving judgment. Kant’s claim concerning perception in the Deduction could then be read as a claim concerning how categorial synthesis is necessary for empirical consciousness (perception) of the objects that are given to the mind in intuition, prior to making any judgment (in experience) concerning those objects.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      更具争议的是：康德技术意义上的“知觉”（*Wahrnehmung*）是否在构成上包含概念，或是否以其他方式依赖于概念性综合。至少有一些证据表明如此。例如，康德在《先验演绎》第二版中说，“一切综合——甚至使知觉本身成为可能的综合——都站在范畴之下”（B161）。也许康德此处对“知觉”（*Wahrnehmung*）的用法大体沿袭先前的德语用法（例如在沃尔夫、鲍姆加登、迈尔与泰滕斯那里），意指心中对某个感性表象（或对该表象所呈现者）的意识生成，而不是该表象的单纯发生，也不是关于该表象之判断的发生（Tolley 2016b, 2020）[^tolley-2016b]。这样，知觉作为对表象（或由其所呈现者；B207）的经验意识，便介于直观在主体心中的单纯发生与经验或经验认识之间，而康德把后者描述为涉及判断。于是，康德在《演绎》中关于知觉的主张，便可读作关于范畴综合如何是下述情形的必要条件：对在直观中给予心的对象具有经验意识（知觉），且这是在作出任何关于这些对象的判断（在经验中）之前。
+    step2: |-
+      更成问题的是：康德技术义的“知觉”（*Wahrnehmung*）是否在构成上含概念，或以其他方式依赖概念综合。证据并非没有。例如《先验演绎》第二版说：“一切综合，连使知觉本身成为可能的综合，都立于范畴之下”（B161）。也许康德此处的“知觉”（*Wahrnehmung*）大体沿用先前的德语用法（如沃尔夫、鲍姆加登、迈尔、泰滕斯），指心中对某个感性表象（或该表象所呈现者）的意识生成，而既非表象的单纯发生，也非关于该表象之判断的发生（Tolley 2016b, 2020）[^tolley-2016b]。如此，知觉作为对表象（或其所呈现者；B207）的经验意识，便居于直观在心中的单纯发生与经验/经验认识（康德说后者涉及判断）之间。于是《演绎》中关于知觉的那句话，便可读作：范畴综合是对直观中给予心的对象具有经验意识（知觉）的必要条件，且先于任何关于这些对象的判断（在经验中）。
   - id: 20
     kind: body
     source: |-
       However, Kant’s position concerning perception, understood in terms of conscious sensory representation, is complicated by various remarks he makes concerning non-human animal (hereafter “animal”) consciousness. For example, in various descriptions of the “ladder” of cognition in the logic lectures, Kant allows that animals have representations with consciousness and consciously discriminate between objects on that basis. Moreover, Kant allows for such representational capacities in animals even though, lacking an intellect, animals thereby fail to have any capacity for cognition (at least in its narrow sense), understanding, or comprehension (*Jäsche Logik* 9:64–5; see also *Dohna-Wundlacken Logik* (c. 1792) 24:730–1; *Wiener Logik* (1780) 24:846; *Blomberg Logik* (c. 1771) 24:132–3, 134–5, 136). Kant also says of animals that they may be conscious of individual representations, while lacking any consciousness of the “unity” of those representations (letter to Herz, 26 May 1789, C 11:52). Such texts suggest that animals are conscious of their representations but lack any *self*-consciousness with respect to those representations (Paton 1936: 332–5; Naragon 1990; Ameriks 2000: ch. 7; Allais 2009; McLear 2011; Tolley 2016a; Golob 2020)[^allais-2009][^ameriks-2000][^golob-2020][^mclear-2011][^naragon-1990][^paton-1936][^tolley-2016a]. Moreover, Kant’s description of consciousness as necessary for making distinctions, and as coming in degrees (B414–15), also suggests that animals must be conscious of their representations to a degree sufficient for explaining how they make the distinctions between objects in their environment that they obviously do. However, interpreting these texts, and the significance of Kant’s remarks on animals, remains contested (Kemp Smith 1918 [2003: lii–liv]; Grüne 2014b: §2; Fisher 2017; Land 2018; Leland 2018a,b;; Callanan 2020)[^callanan-2020][^callanan-2020-2][^fisher-2017][^grüne-2014b][^kemp-1918][^land-2018][^leland-2018a]. Thus it remains contested as to whether perception, in Kant’s sense, is possible without intellectual capacities involving conceptual representation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，若把知觉理解为有意识的感性表象，康德关于非人动物（以下简称“动物”）意识的种种评论就使他的立场复杂起来。例如，在逻辑学讲演中对认识“阶梯”的各种描述里，康德容许动物拥有有意识的表象，并据此有意识地区分对象。此外，康德容许动物具有此类表象能力，尽管动物缺乏知性，因而没有任何认识（至少狭义上）、知性或统摄的能力（《耶舍逻辑》9:64–5；亦见《多纳—冯德拉克逻辑学》（约 1792）24:730–1；《维也纳逻辑学》（1780）24:846；《布隆贝格逻辑学》（约 1771）24:132–3, 134–5, 136）。康德还说，动物可以意识到个别的表象，却缺乏对这些表象之“统一性”的任何意识（致赫茨书，1789 年 5 月 26 日，C 11:52）。此类文本提示：动物意识到其表象，但对这些表象缺乏任何*自我*意识（Paton 1936: 332–5; Naragon 1990; Ameriks 2000: ch. 7; Allais 2009; McLear 2011; Tolley 2016a; Golob 2020）[^allais-2009][^ameriks-2000][^golob-2020][^mclear-2011][^naragon-1990][^paton-1936][^tolley-2016a]。此外，康德把意识描述为作出区分所必需、且有程度之分（B414–15），这也提示动物对其表象的意识程度，必足以解释它们显然能对环境中对象作出区分。然而，如何解释这些文本以及康德论动物之评论的意义，仍有争议（Kemp Smith 1918 [2003: lii–liv]; Grüne 2014b: §2; Fisher 2017; Land 2018; Leland 2018a,b; Callanan 2020）[^callanan-2020][^callanan-2020-2][^fisher-2017][^grüne-2014b][^kemp-1918][^land-2018][^leland-2018a]。因此，康德意义上的知觉能否在没有涉及概念表象的理智能力的情况下成立，仍有争议。
+    step2: |-
+      然而，若把知觉理解为有意识的感性表象，康德关于非人动物（下称“动物”）意识的种种说法就令其立场复杂化。例如，逻辑学讲稿在描述认识“阶梯”时，容许动物拥有有意识的表象，并据此有意识地区分对象。康德甚至容许动物具此表象能力，尽管动物无知性，因而没有认识（至少狭义）、知性或统摄的能力（《耶舍逻辑》9:64–5；又见《多纳—冯德拉克逻辑学》（约 1792）24:730–1、《维也纳逻辑学》（1780）24:846、《布隆贝格逻辑学》（约 1771）24:132–3, 134–5, 136）。康德还说，动物可意识到个别表象，却对这些表象的“统一性”毫无意识（致赫茨，1789 年 5 月 26 日，C 11:52）。这类文本暗示：动物意识到其表象，却对这些表象没有*自我*意识（Paton 1936: 332–5; Naragon 1990; Ameriks 2000: ch. 7; Allais 2009; McLear 2011; Tolley 2016a; Golob 2020）[^allais-2009][^ameriks-2000][^golob-2020][^mclear-2011][^naragon-1990][^paton-1936][^tolley-2016a]。再者，康德说意识是区分之所需，且有程度之别（B414–15），这也暗示动物对其表象的意识程度足以解释它们确实能区分环境中的对象。但如何解读这些文本、康德论动物之说意义何在，仍有争议（Kemp Smith 1918 [2003: lii–liv]; Grüne 2014b: §2; Fisher 2017; Land 2018; Leland 2018a,b; Callanan 2020）[^callanan-2020][^callanan-2020-2][^fisher-2017][^grüne-2014b][^kemp-1918][^land-2018][^leland-2018a]。所以，康德意义上的知觉能否无需涉及概念表象的理智能力而成立，仍无定论。
   - id: 21
     kind: body
     source: |-
       If there is some question whether perception is possible without an intellect and conceptual capacities, the issue is even more fraught with respect to intuition, and this is indeed where much of the contemporary discussion has focused (e.g., Sellars 1968: ch. 1; McDowell 1996; Hanna 2001: ch. 4; Hanna 2005; Ginsborg 2008; Allais 2009; Grüne 2009; Friedman 2012; Tolley 2013; McLear 2015)[^allais-2009][^friedman-2012][^ginsborg-2008][^grüne-2009][^hanna-2001][^hanna-2005][^mcdowell-1996][^mclear-2015][^sellars-1968][^tolley-2013]. Moreover, since intuition is the most basic object-related representation, if Kant construes intuition as inextricably linked with conceptual representation then he would clearly also be committed to thinking so of perception and experience. Conversely, however, if Kant denies any intrinsic connection between intuition and conceptualization he is nevertheless free to argue that conceptual capacities play an important role at the level of perception or experience.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若知觉能否在无知性与概念能力的情况下成立尚存疑问，那么直观的问题就更纠缠不清——当代讨论的重心确实在此（例如 Sellars 1968: ch. 1; McDowell 1996; Hanna 2001: ch. 4; Hanna 2005; Ginsborg 2008; Allais 2009; Grüne 2009; Friedman 2012; Tolley 2013; McLear 2015）[^allais-2009][^friedman-2012][^ginsborg-2008][^grüne-2009][^hanna-2001][^hanna-2005][^mcdowell-1996][^mclear-2015][^sellars-1968][^tolley-2013]。此外，既然直观是最基本的对象相关表象，若康德把直观与概念表象视为不可分割地相连，他显然也会对知觉与经验作如是观。反过来，若康德否认直观与概念化之间有任何内在联系，他仍可自由论证概念能力在知觉或经验层面起重要作用。
+    step2: |-
+      知觉能否脱离知性与概念能力，尚有疑问；直观问题则更加棘手，当代讨论正多集于此（如 Sellars 1968: ch. 1; McDowell 1996; Hanna 2001: ch. 4; Hanna 2005; Ginsborg 2008; Allais 2009; Grüne 2009; Friedman 2012; Tolley 2013; McLear 2015）[^allais-2009][^friedman-2012][^ginsborg-2008][^grüne-2009][^hanna-2001][^hanna-2005][^mcdowell-1996][^mclear-2015][^sellars-1968][^tolley-2013]。况且直观是最基本的对象相关表象：康德若认直观与概念表象不可分割，自然也会这样看待知觉与经验；反之，他若否认直观与概念化有任何内在联系，仍可从容主张概念能力在知觉或经验层面大有作为。
   - id: 22
     kind: body
     source: |-
       In what follows this entry assumes that intuition and its faculty of sensibility is the relevant locus of debate. It also assumes that Kant’s notion of intuition has some correlation with our contemporary conception of what is described by the English term “experience”, though this entry will largely leave the nature of that connection open in what follows. Given this locus of discussion, the next section examines two frameworks within which to think about the dependence of intuition on conceptualization.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      下文将假定，直观及其感性能力是争论的相关所在；也假定康德的直观概念与我们当代用英语“经验”一词所描述的东西有某种关联，尽管本词条大体上不对这一关联的本性下断语。既已确定讨论所在，下一节便考察两种思考直观对概念化之依赖的框架。
+    step2: |-
+      以下假定：直观及其所属的感性能力是争论的落点；康德的直观概念与当代英语“经验”一词所指有某种关联，不过其本性暂且存而不论。讨论落点既定，下一节便考察两种思考“直观依赖概念化”的框架。
   - id: 23
     kind: body
     source: |-
       ## 3. Frame I: Conceptual Content
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. 框架一：概念性内容
+    step2: |-
+      ## 3 框架一：概念性内容
   - id: 24
     kind: body
     source: |-
       The reception of Kant’s philosophy in the latter half of the twentieth century (e.g., Sellars 1968; McDowell 1996; Hanna 2005; Ginsborg 2006b; Haag 2007; Allais 2009)[^allais-2009][^ginsborg-2006b][^haag-2007][^hanna-2005][^mcdowell-1996][^sellars-1968] typically presents him as either accepting or rejecting the view that experience has “conceptual content.” One way to frame this dispute is in terms of the acceptance or rejection of the following statement of ‘Conceptualism’:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      20 世纪后半期对康德哲学的接受（例如 Sellars 1968; McDowell 1996; Hanna 2005; Ginsborg 2006b; Haag 2007; Allais 2009）[^allais-2009][^ginsborg-2006b][^haag-2007][^hanna-2005][^mcdowell-1996][^sellars-1968]，通常把康德呈现为或接受、或拒斥“经验具有概念性内容”这一观点。框定这场争论的一种方式，是看它接受还是拒斥如下“概念论”表述：
+    step2: |-
+      20 世纪后半叶对康德的接受（如 Sellars 1968; McDowell 1996; Hanna 2005; Ginsborg 2006b; Haag 2007; Allais 2009）[^allais-2009][^ginsborg-2006b][^haag-2007][^hanna-2005][^mcdowell-1996][^sellars-1968]，往往把康德说成接受或拒斥“经验有概念性内容”之人。要框定这场争论，可看它接受还是拒斥下面这条“概念论”：
   - id: 25
     kind: body
     source: |-
       **Conceptualism:** The ‘content’ (*Inhalt*) of an intuition is conceptual, and constitutes its cognitive relation to a (putatively) mind-independent object
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **概念论：** 直观的“内容”（*Inhalt*）是概念性的，并且构成它与一个（据称）独立于心的对象的认识关系
+    step2: |-
+      **概念论：** 直观的“内容”（*Inhalt*）是概念性的，且构成它与一个（据称）不依赖心的对象的认识关系
   - id: 26
     kind: body
     source: |-
       Conceptualist readings of Kant thus claim that there is a relevant sense in which (i) intuitions have content; (ii) the content of the intuition is conceptual; (iii) it is this conceptual content that constitutes or determines the cognitive relation of the intuition (as a mental state) to a mind-independent object (or in the case of inner sense, to the object that is oneself). According to the contrasting position, ‘Nonconceptualism’:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，概念论式的康德解读主张，在一种相关的意义上：（i）直观有内容；（ii）直观的内容是概念性的；（iii）正是这一概念性内容构成或规定了直观（作为一种心理状态）与一个独立于心的对象（或就内感官而言，与作为自身的那个对象）的认识关系。按相反的立场——“非概念论”：
+    step2: |-
+      于是，概念论式的解读主张，在一种相关的意义上：（i）直观有内容；（ii）直观的内容是概念性的；（iii）正是这概念性内容构成或规定直观（作为心理状态）同不依赖心的对象（就内感官而言，即同作为自身的那个对象）的认识关系。与之相对的立场是“非概念论”：
   - id: 27
     kind: body
     source: |-
       **Nonconceptualism:** The ‘content’ of an intuition is at least partly nonconceptual, and is sufficient to constitute a cognitive relation to a (putatively) mind-independent object
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **非概念论：** 直观的“内容”至少部分是非概念性的，且足以构成与一个（据称）独立于心的对象的认识关系
+    step2: |-
+      **非概念论：** 直观的“内容”至少部分非概念，且足以构成同不依赖心之对象的认识关系
   - id: 28
     kind: body
     source: |-
       One caveat worth noting: the qualification concerning “putatively” mind-independent objects is meant to allow for hallucination and illusion (see Allais 2010, 2011a; Roche 2011; Stephenson 2015, 2017; Grüne 2017a; McLear 2017)[^allais-2010][^grüne-2017a][^mclear-2017][^roche-2011][^stephenson-2015]. This qualification also provides leeway concerning exactly what is meant by “mind-independent”, especially since Kant’s articulation of Transcendental Idealism entails that finite beings intuit (in some sense) mind-dependent appearances and not (in some sense) mind-independent things as they are in themselves (Allais 2015; see also the entry on Kant’s transcendental idealism)[^allais-2015].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有一点值得注意：“据称”独立于心的对象这一限定，意在容许幻觉与错觉（见 Allais 2010, 2011a; Roche 2011; Stephenson 2015, 2017; Grüne 2017a; McLear 2017）[^allais-2010][^grüne-2017a][^mclear-2017][^roche-2011][^stephenson-2015]。这一限定也为“独立于心”究竟何意留出余地，尤其因为康德的先验观念论蕴含：有限存在者（在某种意义上）直观依赖心的显象，而非（在某种意义上）直观独立于心的物自身（Allais 2015; 亦见“康德的先验唯心论”词条）[^allais-2015]。
+    step2: |-
+      须提一句：“据称”不依赖心这一限定，是为容纳幻觉与错觉（见 Allais 2010, 2011a; Roche 2011; Stephenson 2015, 2017; Grüne 2017a; McLear 2017）[^allais-2010][^grüne-2017a][^mclear-2017][^roche-2011][^stephenson-2015]。它也为“不依赖心”的确切含义留了弹性；何况康德的先验观念论本就蕴含：有限存在者所直观的（在某种意义上）是依赖心的显象，而非（在某种意义上）不依赖心的物自身（Allais 2015；亦见“康德的先验唯心论”词条）[^allais-2015]。
   - id: 29
     kind: body
     source: |-
       One might argue that Kant articulates an endorsement of Conceptualism in §17 of B-Deduction of the first *Critique*, where he says that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有人或许会论证，康德在第一《批判》B 版演绎 §17 中表达了对概念论的支持，他在那里说：
+    step2: |-
+      有人可能主张，康德在第一《批判》B 版演绎 §17 中认可了概念论；他在那里说：
   - id: 30
     kind: body
     source: |-
       > The understanding is, to speak generally, the faculty of cognitions. This consists in the determinate relation of given representations to an object. But an object is that in the concept of which the manifold of a given intuition is united. Now, all unification of representations requires the unity of consciousness in the synthesis of the same [i.e., the representations]. It follows that the unity of consciousness alone establishes [*ausmacht*] the relation of representations to an object, their objective validity, and thus their becoming cognitions. (B137; cf. A197/B242–3)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 知性一般说来是认识的能力。认识在于把被给予的表象确定地关联到一个对象。而对象就是在它的概念中，一个被给予直观的杂多被联合起来的东西。现在，一切表象的联合都要求在同一［即那些表象］的综合中的意识统一性。由此推出：唯有意识统一性才建立［*ausmacht*］表象与对象的关系、它们的客观有效性，从而它们成为认识。（B137; 参 A197/B242–3）
+    step2: |-
+      > 知性泛言之即认识的能力。认识在于把被给予的表象确定地关联于对象。而对象，就是在其概念中被给予直观之杂多得以联合者。既然一切表象的联合都要求同一［诸表象］之综合中的意识统一，那么，单是意识统一便建立［*ausmacht*］表象与对象的关系、其客观有效性，从而使它们成为认识。（B137；参 A197/B242–3）
   - id: 31
     kind: body
     source: |-
       The language used here has seemed to many to indicate that the unity of consciousness achieved via categorial synthesis is necessary for any cognitive relation to an object (e.g., Bird 1962: 130–131; Guyer 1987: 11–24; Pereboom 2006: 160; Pereboom 2009; cf. Land 2012)[^bird-1962][^guyer-1987][^land-2012][^pereboom-2006][^pereboom-2009]. Put another way, intuitions must have conceptual content if they are to have cognitive relation to an object.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里所用的语言，在许多人看来表明：经由范畴综合达成的意识统一，对任何与对象的认识关系都是必要的（例如 Bird 1962: 130–131; Guyer 1987: 11–24; Pereboom 2006: 160; Pereboom 2009; 参 Land 2012）[^bird-1962][^guyer-1987][^land-2012][^pereboom-2006][^pereboom-2009]。换句话说，直观若要具有与对象的认识关系，就必须具有概念性内容。
+    step2: |-
+      这段话在许多人看来表明：借范畴综合而成的意识统一，是任何与对象之认识关系的必要条件（如 Bird 1962: 130–131; Guyer 1987: 11–24; Pereboom 2006: 160; Pereboom 2009; 参 Land 2012）[^bird-1962][^guyer-1987][^land-2012][^pereboom-2006][^pereboom-2009]。反过来说，直观要有与对象的认识关系，就得有概念性内容。
   - id: 32
     kind: body
     source: |-
       While there may be a variety of reasons for reading Kant as endorsing Conceptualism, so understood, two stand out. The first is philosophically motivated by the position that sense experience can play a rational or justificatory role with respect to belief or judgment only if such experience possesses conceptual content (see §5.1 for discussion). Second, many think that the only plausible way of interpreting Kant’s argument in the Transcendental Deduction of the *Critique of Pure Reason* requires that he endorse Conceptualism (see §5.5 for discussion).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管把康德读作支持如此理解的概念论，理由可能多种多样，但有两条尤为突出。第一，其哲学动机来自这样一种立场：感官经验唯有具备概念性内容，才能对信念或判断起理性的或辩护的作用（讨论见 §5.1）。第二，许多人认为，要合理解释《纯粹理性批判》先验演绎中的论证，康德就必须支持概念论（讨论见 §5.5）。
+    step2: |-
+      把康德读作支持如此理解的概念论，理由或许不少，但有两条最突出。其一出于哲学动机：感官经验唯有具概念内容，才能对信念或判断起理性或辩护作用（讨论见 §5.1）。其二，许多人认为，要合理理解《纯粹理性批判》先验演绎的论证，非让康德持概念论不可（讨论见 §5.5）。
   - id: 33
     kind: body
     source: |-
       Hence, interpreters endorsing some form or another of ‘Nonconceptualism’ typically take a contrasting stance regarding Kant’s position concerning either the justificatory relationship between sense experience and belief or judgment, or the proper interpretation of his argument in the Deduction.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，支持某种形式“非概念论”的解释者，通常在如下两事上取相反立场：康德如何看待感官经验与信念或判断之间的辩护关系，或应如何恰当解释他在《演绎》中的论证。
+    step2: |-
+      于是，拥护某种“非概念论”的解释者，多半在两点上持相反立场：感官经验与信念/判断的辩护关系，或《演绎》论证的恰当解读。
   - id: 34
     kind: body
     source: |-
       However, the framing of the dispute between Conceptualism and Nonconceptualism as one concerning conceptual content faces straightforward interpretive challenges, independently of where one stands as to the justificatory role of experience or the best way to interpret the argument of the Deduction. These challenges concern each element of the Conceptualist thesis. First (§3.1), it seems that when close attention is paid to Kant’s notion of ‘content’ (*Inhalt*) it cannot be the case that intuitions have conceptual content. Second (§3.2), Kant’s conception of concepts as always employed in judgment appears incompatible with the claim that concepts provide intuition with cognitive relation to an object. Third (§3.3), attempts to avoid these challenges by attributing a conception of ‘content’ to Kant in line with our contemporary notion of *representational* content do not obviously cohere with his view of the contribution of intuition to cognition. The next three subsections detail these challenges. Again, it is important to note that though these challenges are often raised by advocates of some form or another of Nonconceptualism, the challenges themselves are independent of any specific answer concerning, first, whether and how intuition justifies judgment, and second, how Kant proceeds in the argument of the Deduction. After discussing these three challenges to the conceptual content frame regarding its plausibility as an interpretation of Kant (this entry shall largely prescind from discussing Conceptualism’s independent philosophical plausibility), §4 then examines an alternative way of framing the debate that does not raise these concerns.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，把概念论与非概念论之争框定为关于概念性内容的争论，本身就面临直截了当的解释挑战，无论人们如何看待经验的辩护作用或《演绎》论证的最佳解读。这些挑战涉及概念论命题的每一要素。第一（§3.1），若仔细关注康德的“内容”（*Inhalt*）概念，直观具有概念性内容似乎不可能成立。第二（§3.2），康德把概念设想为始终在判断中被使用，这似乎与“概念为直观提供与对象的认识关系”这一主张不相容。第三（§3.3），那些通过把一种与当代*表象性*内容概念相合的“内容”概念归给康德来回避上述挑战的尝试，与他的直观对认识之贡献观并不明显融贯。接下来三小节详述这些挑战。再次强调，尽管这些挑战常由某种非概念论的支持者提出，挑战本身却独立于如下具体回答：第一，直观是否以及如何为判断辩护；第二，康德在《演绎》论证中如何推进。（在讨论这三种对概念性内容框架作为康德解释之可信度的挑战之后——本词条大体不涉及概念论自身的哲学可信度——§4 将考察另一种不引发这些忧虑的框定方式。）
+    step2: |-
+      可是，把概念论与非概念论之争框定为“概念性内容”之争，本身就有直白的解释难题，且与经验有无辩护作用、《演绎》论证如何读法无关。难题逐一针对概念论命题的各要素。第一（§3.1），细究康德的“内容”（*Inhalt*）概念，直观具有概念性内容似乎不能成立。第二（§3.2），康德把概念视为总在判断中运用，这似乎与“概念赋予直观以对象关系”相冲突。第三（§3.3），有人想给康德安上当代*表象性*内容的概念以避开上述难题，但这一招与康德关于直观对认识之贡献的看法并不显然相合。下面三小节分述之。须再强调：这些难题虽常由非概念论者提出，其本身却独立于两个具体答案——直观是否及如何为判断辩护，康德在《演绎》中如何推进。（讨论完这三种针对概念性内容框架之解释可信度的难题——本词条大体不评概念论自身的哲学可信度——§4 将考察另一种不引出这些麻烦的框定方式。）
   - id: 35
     kind: body
     source: |-
       ### 3.1 Relation to An Object
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1. 与对象的关系
+    step2: |-
+      ### 3.1 与对象的关系
   - id: 36
     kind: body
     source: |-
       One straightforward challenge to the Conceptualism thesis comes from close examination of Kant’s conception of ‘content’ (*Inhalt*), which he understands in terms of the relation of a representation to an object (Tolley 2011, 2013)[^tolley-2011]. As we have seen in B137 above, Kant often construes the content of cognition in terms of a relation to an object (see also B79, B83, B87), and he also says of sensory intuition that it
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对概念论命题的一个直截了当的挑战，来自对康德“内容”（*Inhalt*）概念的仔细考察——他把内容理解为表象与对象的关系（Tolley 2011, 2013）[^tolley-2011]。如我们在上文 B137 所见，康德常把认识的内容解释为与对象的关系（亦见 B79, B83, B87），他还说感性直观
+    step2: |-
+      对概念论命题的一项直白挑战，来自细究康德的“内容”（*Inhalt*）概念：他把内容理解为表象与对象的关系（Tolley 2011, 2013）[^tolley-2011]。如前文 B137 所示，康德常把认识内容解释为与对象的关系（又见 B79、B83、B87）；他还说感性直观
   - id: 37
     kind: body
     source: |-
       > contain[s] [*enthalten*] in its representation only the relation [*Verhältniß*] of an object to the subject, and not that which is internal to the object in itself. (B67)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 在其表象中只包含［*enthalten*］对象与主体的关系［*Verhältniß*］，而不包含对象自身内部的东西。（B67）
+    step2: |-
+      > 其表象中所含［*enthalten*］仅对象对主体的关系［*Verhältniß*］，不及对象自身之内者。（B67）
   - id: 38
     kind: body
     source: |-
       Moreover, Kant describes intuition and concept as having opposing kinds of relation to the object they represent. Intuitions are immediately related to their objects while concepts are only mediately so related (B93; see also B33, B41, A109, B3767; Prolegomena, §8 (4: 281); What Real Progress, 20: 266). This gives us the material for the following argument.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，康德把直观与概念描述为与被表象对象具有相反种类的关系。直观直接相关于其对象，概念则只是中介地相关（B93; 亦见 B33, B41, A109, B376; 《未来形而上学导论》§8 (4: 281)；《论真正的进步》20: 266）。这为我们提供了下述论证的材料。
+    step2: |-
+      康德还说，直观与概念同其对象的关系方式相反：直观直接相关于对象，概念则仅间接相关（B93；又见 B33、B41、A109、B376；《未来形而上学导论》§8 (4: 281)；《论真正的进步》20: 266）。由此可得如下论证。
   - id: 39
     kind: body
     source: |-
@@ -243,92 +319,130 @@ segments:
       3. ∴ The content of intuition is different from the content of concepts
       4. Representations are individuated as to type—i.e., intuition or concept—at least partly in virtue of their content
       5. ∴ Intuitions cannot have conceptual content
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 认识（无论是直观还是概念）的内容在于——即不外乎——与对象的关系
+      2. 概念与直观以不同方式关联对象——即中介地直接地
+      3. ∴ 直观的内容不同于概念的内容
+      4. 表象至少部分地凭其内容而按类型——即直观或概念——被个体化
+      5. ∴ 直观不可能具有概念性内容
+    step2: |-
+      1. 认识（直观或概念）的内容在于——也就是无非是——与对象的关系
+      2. 概念与直观关联对象的方式不同：前者间接，后者直接
+      3. ∴ 直观内容不同于概念内容
+      4. 表象至少部分依其内容而被归为不同类型（直观或概念）
+      5. ∴ 直观不可能有概念性内容
   - id: 40
     kind: body
     source: |-
       This argument, if sound, shows that intuition cannot be related to an object (and thus have ‘content’) by virtue of a *conceptual* content. Thus, one initial worry about Conceptualism is that its framing of its position in terms of ‘content’ does not obviously cohere with how Kant thinks of content. However, the above argument fails to show that concepts (or conceptual synthesis, or the capacity for concept employment) do not play any *other* role in the constitution of an intuition’s relation to an object—perhaps concepts are not the contents of intuitions but are nevertheless necessary for an intuition’s having a relation to an object. Let’s turn then to discussion of how conceptual synthesis could constitute this relation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一论证若成立，便表明直观不可能凭一种*概念性*内容而与对象相关（从而具有“内容”）。因此，对概念论的一个初步忧虑是：它用“内容”来框定自身立场，与康德对内容的看法并不明显相合。然而，上述论证并未表明概念（或概念性综合、或运用概念的能力）在构成直观与对象之关系中不扮演任何*其他*角色——也许概念不是直观的内容，却是直观具有对象关系所必需的。那么，我们转而讨论概念性综合如何能构成这一关系。
+    step2: |-
+      此论证若成立，便说明直观不可能借*概念性*内容而与对象相关（从而有“内容”）。于是对概念论的头一个疑虑便是：它拿“内容”来框定立场，同康德的内容观并不显然相合。但上述论证并未表明概念（或概念综合、或运用概念的能力）在构成直观的对象关系中不担任何*别的*角色——概念也许不是直观的内容，却是直观具有对象关系所必需。下面便讨论概念综合如何能构成这一关系。
   - id: 41
     kind: body
     source: |-
       ### 3.2 Concepts and Conceptual Synthesis
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2. 概念与概念性综合
+    step2: |-
+      ### 3.2 概念与概念性综合
   - id: 42
     kind: body
     source: |-
       According to Conceptualism, the cognitive relation of an intuition to an object is, in some sense, conceptual. A version of this claim is seemingly articulated by Kant at B137, quoted above, in which it is a synthesis by concepts that constitutes what Kant calls a “determinate relation” (*bestimmten Beziehung*) to an object. After first discussing what Kant means by “synthesis” here we’ll go on to address the prospects and problems facing an account of intuition as dependent on conceptual synthesis.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按概念论，直观与对象的认识关系在某种意义上是概念性的。康德似乎在上文所引 B137 处表述了这一主张的一个版本：正是通过概念进行的综合，构成了康德所谓与对象的“确定关系”（*bestimmten Beziehung*）。在首先讨论康德此处所谓“综合”何意之后，我们将进而处理把直观解释为依赖概念性综合所面临的前景与问题。
+    step2: |-
+      依概念论，直观同对象的认识关系在某种意义上是概念性的。上文所引 B137 似乎正是此说的一个版本：康德说，凭概念进行的综合构成了他所谓与对象的“确定关系”（*bestimmten Beziehung*）。先弄清此处“综合”何意，再论把直观说成依赖概念综合有何前景与难处。
   - id: 43
     kind: body
     source: |-
       Kant distinguishes between two basic classes of mental processing. The first is association, which is carried out by sensibility, and specifically the imagination (inclusive of memory). Association is primarily a passive process by which the mind comes to connect representations due to the repeated exposure of the subject to certain kinds of regularities. One might (e.g.) associate chicken soup with being ill, because one only ever had chicken soup when one was ill. Association is thus capable of engendering content-sensitive connections between a subject’s mental states, though such connections depend entirely on the local and contingent circumstances in which the subject comes to have such states. This is part of why Kant denies that association could ever account for our ability to represent universality or necessity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德区分两类基本心理过程。第一类是联想，由感性、尤其是想象力（包括记忆）执行。联想主要是一种被动过程：由于主体反复接触某些规律性，心便把诸表象联系起来。例如，人们可能把鸡汤与生病联想起来，因为自己只在生病时才喝鸡汤。因此，联想能够在主体的诸心理状态之间产生对内容敏感的联系，尽管这类联系完全取决于主体获得这些状态时的局部而偶然的环境。这也是康德否认联想能说明我们表象普遍性或必然性之能力的一部分理由。
+    step2: |-
+      康德把心理过程分为两大类。第一类是联想，由感性、特别是想象力（含记忆）执行。联想大体是被动的：主体反复遭遇某类规律，心便把相关表象连在一起。比如有人把鸡汤同生病联系起来，只因他每次生病才喝鸡汤。可见联想能在主体诸心理状态间造成对内容敏感的联系，但这种联系全系于主体获得这些状态时的局部偶然环境。这也是康德否认联想足以说明我们表象普遍性或必然性之能力的一个理由。
   - id: 44
     kind: body
     source: |-
       The second kind of mental processing is “combination” (*Verbindung*) or “synthesis”, carried out by the intellect broadly conceived (i.e., the “higher” cognitive faculties of understanding, judgment, and reason). Kant characterizes synthesis as that activity by which the understanding “runs through” and “gathers together” representations given to it by sensibility in order to form concepts, judgments, and ultimately, for any cognition (in its “proper” sense) at all to take place (A77–8/B102–3). Synthesis is not something we are always, or even typically, aware of doing. As Kant says, it is “a blind though indispensable function of the soul…of which we are only seldom even conscious (A78/B103).” Kant typically contrasts synthesis with other ways in which representations might be related, most importantly, by association (e.g., B139–40). In contrast with association, synthesis is a fundamentally active process, dependent upon the mind’s spontaneity, and is the means by which genuine judgment is possible. Moreover, at least by the time of Kant’s writing of the B-Deduction of the first *Critique*, he is clear that judgments, as outcomes of synthesis, are unique in our mental economy in that they are complex representations that possess the capacity to be true or false. As Kant’s discussion in §19 of the B-Deduction shows, a judgment isn’t simply a “representation of a relation between two concepts” (B140), which doesn’t rule out mere association between concepts, but is rather a representation of an objectively valid relationship in virtue of which the judgment may be seen as an objective claim to truth (B142).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二类心理过程是“联结”（*Verbindung*）或“综合”，由广义的知性（即知性、判断力与理性这些“较高”认识能力）执行。康德把综合刻画为这样一种活动：知性借它“遍历”并“聚集”感性给予它的表象，以形成概念、判断，并最终使任何（“严格”意义上的）认识得以发生（A77–8/B102–3）。综合并非我们总是、甚至通常意识到自己在做的事。如康德所说，它是“灵魂的一种盲目的、却不可或缺的功能……我们甚至很少意识到它”（A78/B103）。康德通常把综合与表象可能具有的其他关联方式相对照，最重要的对照是联想（例如 B139–40）。与联想相反，综合根本上是主动过程，依赖于心的自发性，是真正判断得以可能的手段。此外，至少在康德写作第一《批判》B 版演绎时，他已清楚：判断作为综合的产物，在我们的心理经济中独一无二，因为它们是具有为真或为假能力的复合表象。如康德 B 版演绎 §19 的讨论所示，判断并不单纯是“两个概念之间关系的表象”（B140）——那并未排除概念间的单纯联想——而是一种客观有效关系的表象，凭此判断可被视为对真理的客观主张（B142）。
+    step2: |-
+      第二类是“联结”（*Verbindung*）或“综合”，由广义知性（知性、判断力、理性这些“较高”认识能力）执行。康德把综合说成这样一种活动：知性借它“遍历”并“聚集”感性所予的表象，以形成概念、判断，最终使任何（“严格”意义上的）认识得以发生（A77–8/B102–3）。综合并非我们总在、甚至通常意识到自己在做之事。用康德的话说，它是“灵魂的一种盲目却不可或缺的功能……我们甚至很少意识到它”（A78/B103）。康德常把综合同表象可能具有的其他关联方式对照，首要对照是联想（如 B139–40）。与联想相反，综合根本上是主动的，依赖心的自发性，是真正判断得以可能的手段。而且，至少在写作第一《批判》B 版演绎时，康德已明确：判断作为综合的产物，在我们的心理构造中独一无二——它是能真能假的复合表象。如 B 版演绎 §19 所示，判断并非单纯的“两个概念间关系的表象”（B140）——那并未排除概念间的单纯联想——而是客观有效关系的表象，据此判断可被视为对真理的客观主张（B142）。
   - id: 45
     kind: body
     source: |-
       Synthesis is carried out by the unitary subject of representation on representations that are either given to it in sensibility (i.e., intuition and/or sensation) or produced by it via the intellect (e.g., in an act of judgment). When synthesis is carried out on representations forming the content of a concept or judgment, it is called “intellectual” synthesis; when carried out by the imagination on material provided by sensibility (i.e., on intuition and sensation), it is called “figurative” synthesis (B150–1). In the *Critique of Pure Reason* Kant discusses in some depth the synthesis performed on representations provided by sensibility, and discusses three central kinds of synthesis—viz. apprehension, reproduction (or imagination), and recognition (or conceptualization) (A98–110/B159–61). Though Kant discusses these forms of synthesis in a way that suggests they are discrete types of mental acts, it is also plausible that they always go together (Paton 1936: 271–272; Kemp Smith 1918 [2003: 245–246])[^kemp-1918][^paton-1936], or at least that the first two forms must always occur together, with the third being (perhaps) an optional addition (Brook 1997; Allais 2009)[^allais-2009][^brook-1997].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      综合由表象的统一主体施行于如下表象：或是感性中给予它的（即直观和/或感觉），或是由它经知性产生的（例如在判断行为中）。当综合施行于构成概念或判断之内容的表象时，称为“智性”综合；当想象力施行于感性所提供的材料（即直观与感觉）时，称为“形象”综合（B150–1）。在《纯粹理性批判》中，康德较深入地讨论了施行于感性所提供表象的综合，并讨论了三种核心的综合——即把握、再生（或想象力）与认定（或概念化）（A98–110/B159–61）。尽管康德的讨论方式暗示它们是彼此分离的心理行为类型，但也有理由认为它们总是一起发生（Paton 1936: 271–272; Kemp Smith 1918 [2003: 245–246]）[^kemp-1918][^paton-1936]，或至少前两种必定同时发生，第三种（或许）是可选的附加（Brook 1997; Allais 2009）[^allais-2009][^brook-1997]。
+    step2: |-
+      综合由表象的统一主体施行：或施于感性给予它的表象（直观和/或感觉），或施于它经知性自生的表象（如在判断行为中）。施于构成概念或判断内容的表象者，称“智性”综合；由想象力施于感性材料（直观与感觉）者，称“形象”综合（B150–1）。《纯粹理性批判》较深入地讨论了施于感性所予表象的综合，并列出三种核心综合：把握、再生（想象力）、认定（概念化）（A98–110/B159–61）。康德的写法暗示三者是彼此独立的心理行为类型，但也有理由认为它们总相伴而行（Paton 1936: 271–272; Kemp Smith 1918 [2003: 245–246]）[^kemp-1918][^paton-1936]，或至少前两者必同时发生，第三者（也许）是可选的追加（Brook 1997; Allais 2009）[^allais-2009][^brook-1997]。
   - id: 46
     kind: body
     source: |-
       Given that Kant distinguishes between intellectual and figurative synthesis, what does it then mean to claim that an intuition constitutively depends on conceptual synthesis for its relation to an object?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      既然康德区分了智性综合与形象综合，那么，主张直观在构成上依赖概念性综合以获得其与对象的关系，究竟是什么意思？
+    step2: |-
+      康德既已区分智性综合与形象综合，那么说“直观在构成上依赖概念综合才得对象关系”，到底何意？
   - id: 47
     kind: body
     source: |-
       Kant describes a concept as a “function” (*Funktion*), which he characterizes as “the unity of the act through which different representations are ordered under a common one” (A68/B93). Concepts are merely “predicates of possible judgments” (A69/B94) “grounded on the spontaneity of thinking” and the faculty of understanding “can make no other use of these concepts than that of judging by means of them” (A68/B93).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德把概念描述为一种“功能”（*Funktion*），并把它刻画为“把不同表象归置在一个共同表象之下的行为的统一性”（A68/B93）。概念只是“可能判断的谓词”（A69/B94），“基于思维的自发性”，而知性“除了借这些概念作判断，不能对它们作别的使用”（A68/B93）。
+    step2: |-
+      康德称概念为一种“功能”（*Funktion*），即“把不同表象置于一个共同表象之下的行为的统一”（A68/B93）。概念不过是“可能判断的谓词”（A69/B94），“基于思维的自发性”；知性“除借这些概念作判断，别无他用”（A68/B93）。
   - id: 48
     kind: body
     source: |-
       From these passages we can conclude that concepts are (i) actualizations of the spontaneity of (the power of) thought through which (ii) different representations are ordered under a common one. This ordering is carried out specifically by means of (iii) a judgment. Hence, an act of conceptualization is an act of subordinating one representation “under” another, as a species (or the members thereof) is to its genus (or the members thereof), and it is this subordination relation that is captured in the cognitive activity of judging (Paton 1936: 285; Strawson 1966: 94; Pippin 1982: 33; Longuenesse 1998: ch. 4; Engstrom 2019: 245–252)[^engstrom-2019][^longuenesse-1998][^paton-1936][^pippin-1982][^strawson-1966].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从这些段落可以得出结论：概念是（i）思想（的力量）之自发性的实现，借此（ii）不同表象被归置在一个共同表象之下。这种归置具体是借（iii）一个判断来施行的。因此，概念化的行为就是把一个表象隶属于“在”另一个表象“之下”，如同种（或其成员）之于属（或其成员）；而正是这一隶属关系，被判断的认识活动所把握（Paton 1936: 285; Strawson 1966: 94; Pippin 1982: 33; Longuenesse 1998: ch. 4; Engstrom 2019: 245–252）[^engstrom-2019][^longuenesse-1998][^paton-1936][^pippin-1982][^strawson-1966]。
+    step2: |-
+      由此可见：概念是（i）思想（的力量）自发性的实现，借此（ii）不同表象被统摄于一个共同表象之下。这一步具体由（iii）判断来执行。所以，概念化就是把一个表象置于另一表象“之下”，如种（或其成员）之于属（或其成员）；而这一隶属关系，正由判断的认识活动所捕捉（Paton 1936: 285; Strawson 1966: 94; Pippin 1982: 33; Longuenesse 1998: ch. 4; Engstrom 2019: 245–252）[^engstrom-2019][^longuenesse-1998][^paton-1936][^pippin-1982][^strawson-1966]。
   - id: 49
     kind: body
     source: |-
       How, on this view of conceptual activity in judgment, is the conceptualization of sensory material in intuition supposed to work? According to one prominent interpretation—call this ‘judgmentalism’ (Land 2015b)[^land-2015b]—intuition requires a judgment on the part of the subject, that things are experientially thus-and-so (Strawson 1970; Carl 1992: 165)[^carl-1992][^strawson-1970]. However, this interpretation of Kant generates some straightforward problems (Grüne 2009: §2.2; Land 2015b)[^grüne-2009][^land-2015b]. First, Kant’s conception of judgment seems to require predication (and in this sense concepts are predicates of possible judgments). However, a sensible synthesis carried out by concepts does not seem equivalent to the making of a judgment, rather it seems that Kant has in mind something like the formation of a sensory image (e.g., B154, B162). Indeed, in a 1791 letter Kant explicitly denies that intuitions are related to objects via an act of judgment or, relatedly, by the subsumption of the intuition under a concept (C 11:311). Second, Kant emphasizes that there are two distinctively different kinds of synthesis—viz. the “intellectual” synthesis generative of conceptual judgment, and the “figurative” synthesis generative of experience (in Kant’s sense of “experience”; see B151). If the judgmentalist view were correct, then it is difficult to see how Kant could maintain such a distinction between varieties of synthesis. Third, there is at least a *prima facie* circularity to the judgmentalist account, which construes conceptual judgment as a necessary condition of the generation of intuition, and Kant’s account of concept formation, which construes all concepts (even the a priori categories) as the result of reflection, which itself presupposes sensory intuition (Ginsborg 2006b; Grüne 2009; Anderson 2015: ch. 13)[^anderson-2015][^ginsborg-2006b][^grüne-2009].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按这种关于判断中概念活动的看法，直观中感官材料的概念化应当如何运作？按一种流行解释——我们称之为“判断论”（Land 2015b）[^land-2015b]——直观要求主体作出判断：事情在经验上如此如此（Strawson 1970; Carl 1992: 165）[^carl-1992][^strawson-1970]。然而，这种康德解读会产生一些直截了当的问题（Grüne 2009: §2.2; Land 2015b）[^grüne-2009][^land-2015b]。第一，康德的判断概念似乎要求谓述（在这个意义上，概念是可能判断的谓词）。然而，由概念施行的感性综合似乎并不等同于作出判断；毋宁说，康德心中所想的似乎是某种类似感官图像之形成的东西（例如 B154, B162）。事实上，康德在 1791 年的一封信中明确否认直观是通过判断行为、或相关地通过把直观归摄于概念而与对象相关的（C 11:311）。第二，康德强调有两种截然不同的综合——“智性”综合生成概念性判断，“形象”综合生成经验（康德意义上的“经验”；见 B151）。若判断论是对的，就很难看出康德如何能维持综合种类之间的这种区分。第三，判断论解释至少有表面的循环性：它把概念性判断视为直观生成的必要条件，而康德关于概念形成的说明却把一切概念（甚至先天范畴）视为反思的结果，而反思本身又预设感官直观（Ginsborg 2006b; Grüne 2009; Anderson 2015: ch. 13）[^anderson-2015][^ginsborg-2006b][^grüne-2009]。
+    step2: |-
+      按这套关于判断中概念活动的看法，直观里感官材料的概念化该怎么运作？有一种流行解释叫“判断论”（Land 2015b）[^land-2015b]：直观要求主体作出判断，断定事物在经验上如此这般（Strawson 1970; Carl 1992: 165）[^carl-1992][^strawson-1970]。可这一解读会带来直白的麻烦（Grüne 2009: §2.2; Land 2015b）[^grüne-2009][^land-2015b]。其一，康德的判断概念似要求谓述（在这个意义上，概念是可能判断的谓词），而由概念施行的感性综合似不等同于作出判断；康德心里想的大概是类似感官图像形成之事（如 B154、B162）。事实上，康德在 1791 年一封信里明确否认直观经由判断行为、或经由把直观归摄于概念而与对象相关（C 11:311）。其二，康德强调有两种截然不同的综合：生成概念判断的“智性”综合，与生成经验（康德意义上的“经验”；见 B151）的“形象”综合。若判断论为真，就难以看出康德如何维持这一区分。其三，判断论解释至少有表面的循环：它把概念判断当作直观生成的必要条件，而康德论概念形成却把一切概念（连先天范畴）都看作反思的结果，反思又预设感官直观（Ginsborg 2006b; Grüne 2009; Anderson 2015: ch. 13）[^anderson-2015][^ginsborg-2006b][^grüne-2009]。
   - id: 50
     kind: body
     source: |-
       Such problems have lead some (e.g., Sellars 1968; McDowell 1996; Longuenesse 1998; Haag 2007; Grüne 2009)[^grüne-2009][^haag-2007][^longuenesse-1998][^mcdowell-1996][^sellars-1968] to argue that the dependence of intuition on conceptual representation must be understood in a way other than that of application of a concept in judgment (or the subordination of an intuition under a concept). This entry examines below one way such an alternative view might proceed (and challenges it faces) before discussing further extensions of it in the context of the second way of framing the debate about the relation between intuition and concept.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此类问题促使一些人（例如 Sellars 1968; McDowell 1996; Longuenesse 1998; Haag 2007; Grüne 2009）[^grüne-2009][^haag-2007][^longuenesse-1998][^mcdowell-1996][^sellars-1968] 论证：直观对概念性表象的依赖，必须以不同于“在判断中运用概念”（或把直观置于概念之下）的方式来理解。本词条下文先考察这样一种替代看法可能如何推进（及其面临的挑战），然后在第二种框定直观与概念关系之争的语境中，讨论它的进一步扩展。
+    step2: |-
+      这类麻烦使一些论者（如 Sellars 1968; McDowell 1996; Longuenesse 1998; Haag 2007; Grüne 2009）[^grüne-2009][^haag-2007][^longuenesse-1998][^mcdowell-1996][^sellars-1968] 主张：直观对概念表象的依赖，须以不同于“在判断中运用概念”（或把直观置于概念之下）的方式来理解。本词条先看这种替代思路如何展开（及其难处），再在第二种框定方式中讨论其进一步延伸。
   - id: 51
     kind: body
     source: |-
       ### 3.3 Concepts and Correctness Conditions
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.3. 概念与正确性条件
+    step2: |-
+      ### 3.3 概念与正确性条件
   - id: 52
     kind: body
     source: |-
       Conceptualism states that concepts or conceptual synthesis determine the cognitive relation an intuition has to its object. How should we understand this notion of a ‘cognitive relation’ to the object? Conceptualism typically understands this in terms of the correctness conditions possessed by the intuition and in virtue of which the intuition represents a (putatively) mind-independent object and its properties (Sellars 1968: ch. 1; McDowell 1996; Ginsborg 2008)[^ginsborg-2008][^mcdowell-1996][^sellars-1968]. This constitutes the attribution to Kant, in more or less explicit terms, of what is now called the ‘Content View’, which, in contemporary terms, understands perceptual experience to present or convey information about a subject’s environment to the subject of that experience in virtue of the experience’s having content (Siegel 2010: §1; 2011: ch. 2). Thus, according to the Content View, part of what it is for a mental state to count as an *objective* experience is that it can be evaluated for its correctness, and the conditions of its correctness are determined by its content.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      概念论主张，概念或概念性综合决定直观与其对象的认识关系。我们应如何理解这种与对象的“认识关系”？概念论通常把它理解为直观所拥有的正确性条件，凭这些条件，直观表象一个（据称）独立于心的对象及其属性（Sellars 1968: ch. 1; McDowell 1996; Ginsborg 2008）[^ginsborg-2008][^mcdowell-1996][^sellars-1968]。这就等于以多少明确的措辞把如今所谓“内容观”归于康德；用当代术语说，内容观认为，知觉经验凭其具有内容，而向其经验主体呈现或传达关于主体环境的信息（Siegel 2010: §1; 2011: ch. 2）。因此，按内容观，一个心理状态要算作*客观*经验，部分在于它可以就其正确性被评价，而其正确性条件由其内容决定。
+    step2: |-
+      概念论说，概念或概念综合决定直观同对象的认识关系。这“认识关系”该怎样理解？概念论通常把它理解为直观所具有的正确性条件：凭这些条件，直观表象一个（据称）不依赖心的对象及其属性（Sellars 1968: ch. 1; McDowell 1996; Ginsborg 2008）[^ginsborg-2008][^mcdowell-1996][^sellars-1968]。这实际上是以或明或暗的措辞，把今日所谓“内容观”安到康德头上；用当代话说，内容观认为知觉经验凭其有内容，向经验主体呈现或传达关于其环境的信息（Siegel 2010: §1; 2011: ch. 2）。故按内容观，一个心理状态之所以算*客观*经验，部分在于可评价其正确性，而正确性条件由内容决定。
   - id: 53
     kind: body
     source: |-
       It is important that the content attributed to a sensory state by the Content View requires more than the state’s merely being non-arbitrarily *associated* with a representational content. For one might plausibly agree that there are non-arbitrary conditions for associating experiences with particular correctness conditions, without thereby thinking that experience is something that is had in virtue of a relation to a content that sets such a correctness condition. It is this ‘in virtue of’ claim that I take to be the distinctive claim of the Content View.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      要紧的是，内容观归给感官状态的内容，要求的不只是该状态与某个表象性内容之间非任意地*相关联*。因为人们可以合理地同意：把经验与特定正确性条件相关联存在非任意的条件，却并不因此认为经验是凭与一个设定该正确性条件的内容的关系而具有的。正是这一“凭……而”的主张，我视为内容观的独特主张。
+    step2: |-
+      须注意：内容观归给感官状态的内容，不止要求该状态与某个表象性内容非任意地*相关联*。人们完全可以承认：把经验同特定正确性条件相连结是有非任意条件的；却仍不认为经验是凭与某个设定正确性条件的内容之关系而获得的。我所谓内容观的独特之处，正在这个“凭……而”。
   - id: 54
     kind: body
     source: |-
