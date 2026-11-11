@@ -1390,7 +1390,7 @@
   * [康德的道德哲学 moral philosophy (Robert Johnson and Adam Cureton)](k/kant-moral.md)
   * [康德哲学的发展历程 Kant’s Philosophical Development (Martin Schönfeld and Michael Thompson)](k/kant-development.md)
   * [康德的数学哲学 Kant's Philosophy of Mathematics (Lisa Shabel)](k/kant-mathematics.md)
-  * [康德的宗教哲学 philosophy of religion (Lawrence Pasternack and Courtney Fugate)](k/kant-religion.md)
+  * [康德的宗教哲学 Kant’s Philosophy of Religion (Lawrence Pasternack and Courtney Fugate)](k/kant-religion.md)
   * [康德的科学哲学 philosophy of science (Eric Watkins and Marius Stan)](k/kant-science.md)
   * [康德的社会与政治哲学 social and political philosophy (Frederick Rauscher)](k/kant-social-political.md)
   * [康德的判断理论 Kant’s Theory of Judgment (Robert Hanna)](k/kant-judgment.md)

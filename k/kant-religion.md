@@ -1,4 +1,4 @@
-# 康德的宗教哲学 philosophy of religion (Lawrence Pasternack and Courtney Fugate)
+# 康德的宗教哲学 Kant’s Philosophy of Religion (Lawrence Pasternack and Courtney Fugate)
 
 *首次发表于 2004 年 6 月 22 日；2025 年 10 月 13 日实质修订。*
 
