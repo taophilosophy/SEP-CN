@@ -1,4 +1,4 @@
-# 霍布斯的科学哲学 philosophy of science (Marcus P. Adams)
+# 霍布斯的科学哲学 Hobbes’ Philosophy of Science (Marcus P. Adams)
 
 *首次发表于 2019 年 3 月 8 日；2023 年 6 月 5 日实质修订。*
 
