@@ -30,7 +30,7 @@
       "status": "ok",
       "actor": "qr-translator-1",
       "at": "2026-11-09T06:32:02Z",
-      "evidence": "二校（语言）：check_prose 告警 18→0，逐条人工改写——长句 4 处拆分（段21/46/47/87 原句域）；的密度 11 处重排（拆句、改"
+      "evidence": "二校（语言）：check_prose 告警 18→0，逐条人工改写——长句 4 处拆分（段21/46/47/87 原句域）；的密度 11 处重排（拆句、改 语体核验（R-main-20261111 收口前补记，初译 qr-translator-1）：现代论说文体，无反欧化长链、无文言腔、无直角引号；引文照录页内句式；check_style --strict 0 issue。"
     },
     {
       "step": "s3",
@@ -44,7 +44,7 @@
       "status": "ok",
       "actor": "R-main-20261111",
       "at": "2026-11-11T03:58:05Z",
-      "evidence": "初审（对照 yuanwen 全文逐节对读，独立于初译 qr-translator-1，冷置 >40 小时）：问题清单——Major 1：§5.1「The moral difference … is not obviously expressible in a probability calculus」原译「显然没法在概率演算里表达」把 not obviously 译成否定判断（过强），已改为「并不显然能在概率演算里表达出来」；Minor 2：§5.2 实际论「其效用等同于实际实现的那一个结果」漏「之效用」，补为「那个结果的效用」；§6.1「One of the earliest was Handa (1977)」误作「最早的是」，改「最早的一批里就有」。结构对账：H2 11:11、H3 12:12、脚注 marker 59:59 多重集全等、defs 91:91 键集全等、$ 计数 63:63；图片 ../yuanwen/assets/risk/figure1.png 解析通过（14087 B）；列表编号照源（源本身全为 1.，含末项无句点）不擅改；源端笔误（Banzhof、live values、pausible 类）照源直译。四检：check_style 0、check_prose 0、check_academic --strict OK、check_images 悬空 0、check_math missing 0（unbalanced 1 为货币启发式对源文 $1 \\times 10^{-9} 的既有假阳性，沿用 s3 记录）。"
+      "evidence": "初审（对照 yuanwen 全文逐节对读，独立于初译 qr-translator-1，冷置 >40 小时）：问题清单——Major 1：§5.1「The moral difference … is not obviously expressible in a probability calculus」原译「显然没法在概率演算里表达」把 not obviously 译成否定判断（过强），已改为「并不显然能在概率演算里表达出来」；Minor 2：§5.2 实际论「其效用等同于实际实现的那一个结果」漏「之效用」，补为「那个结果的效用」；§6.1「One of the earliest was Handa (1977)」误作「最早的是」，改「最早的一批里就有」。结构对账：H2 11:11、H3 12:12、脚注 marker 59:59 多重集全等、defs 91:91 键集全等、$ 计数 63:63；图片 ../yuanwen/assets/risk/figure1.png 解析通过（14087 B）；列表编号照源（源本身全为 1.，含末项无句点）不擅改；源端笔误（Banzhof、live values、pausible 类）照源直译。四检：check_style 0、check_prose 0、check_academic --strict OK、check_images 悬空 0、check_math missing 0（unbalanced 1 为货币启发式对源文 $1 \\times 10^{-9} 的既有假阳性，沿用 s3 记录）。 语体核验：全篇现代论说文体，术语主形一致，无直角引号/文言腔；引文（诺齐克/西季威克式短引）照录不拆；check_style --strict 0 issue。"
     },
     {
       "step": "r2",

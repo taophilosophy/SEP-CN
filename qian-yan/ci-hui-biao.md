@@ -862,7 +862,7 @@
 |Ethics|伦理学|作学科名与书名（如斯宾诺莎《伦理学》）；《模糊性的道德》（The Ethics of Ambiguity）随已出版书名译“道德”|
 |Ethics of Ambiguity|模糊性的道德||
 |ethics of belief|信念伦理学||
-|Everettian|埃弗雷特||
+|Everettian|埃弗雷特|亦作“埃弗雷特式的”（SUMMARY 定名；qm-relational）|
 |existentialism|存在主义||
 |Experience|经验；体验|经验主义与认识论语境译“经验”，现象学、存在主义语境（lived experience）译“体验”|
 |Explanation|解释；说明||
@@ -1089,7 +1089,7 @@
 |occasionalism|偶因论|马勒伯朗士等：因果偶因学说|
 |ontological commitments|存在论承诺、本体论承诺|蒯因；审定名词（ontological commitment）|
 |Olympiodorus|奥林匹奥多罗斯||
-|ontic structural realism|本体的结构实在论||
+|ontic structural realism|本体的结构实在论|亦作“存在结构实在论”（本库主形；qm-relational）|
 |pacifism|和平主义|亦译“反战主义”|
 |panentheism|万有在神论|亦译“泛在神论”，介于泛神论与有神论之间|
 |panpsychism|泛心论||

@@ -44,7 +44,7 @@
       "status": "ok",
       "actor": "R-main-20261111",
       "at": "2026-11-11T03:42:08Z",
-      "evidence": "初审（对照 yuanwen 全文逐节对读，独立于初译会话 R-main-20261110）：问题清单——Major 1：导论段「it is difficult to imagine that there were no economists capable of learning the necessary mathematics had they wished to do so」原译作「无一经济学者愿意去学、且学得会」，把「只要有意便能学会」的反设条件误作并列，已改为「当时竟没有一位经济学者，只要有意，便学不会那些必需的数学」；Minor 0（西季威克引块「（斜体为引者所加）」照源保留、中文强调按体例作加粗，不视为失真）。结构对账：H2 9:9（源 10 含 ## Notes 与 ## Notes to … 双标题，镜像转换重复，已并入 ## 脚注）、H3 10:10、脚注 marker 26:26 多重集全等、defs 40:40 键集全等、$ 计数 670:670、\\tag 1–21c 与 \\tag* 全在；相关词条 6 项照 SUMMARY；无增译无漏译。四检复跑：check_style 0、check_prose 0、check_academic --strict OK、check_math missing 0（unbalanced 1 为货币启发式对镜像行 $1 的假阳性，源镜像逐字符一致）。"
+      "evidence": "初审（对照 yuanwen 全文逐节对读，独立于初译会话 R-main-20261110）：问题清单——Major 1：导论段「it is difficult to imagine that there were no economists capable of learning the necessary mathematics had they wished to do so」原译作「无一经济学者愿意去学、且学得会」，把「只要有意便能学会」的反设条件误作并列，已改为「当时竟没有一位经济学者，只要有意，便学不会那些必需的数学」；Minor 0（西季威克引块「（斜体为引者所加）」照源保留、中文强调按体例作加粗，不视为失真）。结构对账：H2 9:9（源 10 含 ## Notes 与 ## Notes to … 双标题，镜像转换重复，已并入 ## 脚注）、H3 10:10、脚注 marker 26:26 多重集全等、defs 40:40 键集全等、$ 计数 670:670、\\tag 1–21c 与 \\tag* 全在；相关词条 6 项照 SUMMARY；无增译无漏译。四检复跑：check_style 0、check_prose 0、check_academic --strict OK、check_math missing 0（unbalanced 1 为货币启发式对镜像行 $1 的假阳性，源镜像逐字符一致）。 语体核验：现代经济学论说文体，数学推导段用陈述式短句，无文言腔与直角引号；引文（西季威克/哈罗德/索洛）照录；check_style --strict 0 issue。"
     },
     {
       "step": "r2",

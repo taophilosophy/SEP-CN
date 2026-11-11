@@ -690,7 +690,7 @@
 | chuin’gong（주인공） | 주인공 | 主人公 | korean-buddhism | 汉文传统写法（大行“主人公”修行法，公/空双关） | 2026-11-05 |
 | chunk and permeate | — | 分块渗透 | 语料回收（mathematics-inconsistent 首译） | 本词条首译裁定（Brown–Priest 技术）；凭证 2026-11-06 | 2026-11-06 |
 | blocked memory | — | 受阻的记忆 | ricoeur | 利科术语（mémoire empêchée）；凭证 2026-11-11 | 2026-11-11 |
-| appropriation | — | 占有 | ricoeur | 利科诠释学术语（appropriation；与伽达默尔「对传统的占有」对读）；凭证 2026-11-11 | 2026-11-11 |
+| appropriation | — | 占有 | ricoeur | 利科诠释学术语（appropriation；与伽达默尔“对传统的占有”对读）；凭证 2026-11-11 | 2026-11-11 |
 | Chunqiu | 春秋 | 《春秋》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
 | Chunqiu Fanlu | 春秋繁露 | 《春秋繁露》 | han-dynasty | 学界通行学名 | 2026-11-10 |
 | Church Fathers | — | 教父 | ancient-soul 首译 | 学界通行（基督教思想史） | 2026-11-09 |
@@ -1251,7 +1251,7 @@
 | disputation | obligational disputation | 论辩（义务论辩） | obligationes 首译 | 学界惯例；凭证 2026-11-07 | 2026-11-07 |
 | Dissenters | — | 不从国教派 | godwin | 英国宗教史通行汉译（Dissenting tradition 不从国教传统）；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-10 |
 | distance-assignment | — | 距离赋值 | cosmology-30s 首译 | Milne 术语学界通行；凭证 2026-11-08 | 2026-11-08 |
-| disproportion | — | 不相称 | ricoeur | 利科《易错的人》术语（disproportion；亦作「不均衡」）；凭证 2026-11-11 | 2026-11-11 |
+| disproportion | — | 不相称 | ricoeur | 利科《易错的人》术语（disproportion；亦作“不均衡”）；凭证 2026-11-11 | 2026-11-11 |
 | distance-based procedure | — | 基于距离的程序 | belief-merging | 学界通行（判断聚合文献）；凭证 2026-11-10 | 2026-11-10 |
 | distinction of reason | — | 理性区分（理性区别） | descartes-ontological | 学界通行（distinctio rationis 两译名并存，正文照源分用） | 2026-11-06 |
 | Distinguishing the View | — | 《辨见》 | gorampa | 果让巴论著（lta ba’i shan ‘byed）；藏传中观研究通行译名 | 2026-11-09 |
@@ -1553,7 +1553,7 @@
 | evaluation system | — | 评价系统 | justep-coherence | 学界惯例（Lehrer 术语直译） | 2026-11-02 |
 | evaluative content | — | 评价性内容 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | evangelical poverty | — | 福音贫穷 | marsilius-padua | 学界通行（方济各会守贫之争）；凭证 2026-11-08 | 2026-11-08 |
-| Everettian | — | 埃弗雷特式的 | qm-relational | SUMMARY 词条定名（埃弗雷特量子力学）；本库直译；凭证 2026-11-11 | 2026-11-11 |
+| Everettian | — | 埃弗雷特（形容词用法作“埃弗雷特式的”） | qm-relational | 词汇表主形对齐（qian-yan/ci-hui-biao.md 行 865；亦作“埃弗雷特式的”）；凭证 2026-11-11 | 2026-11-11 |
 | everyday aesthetics | — | 日常美学 | 首现（environmental-aesthetics） | 学界通行（与 aesthetics-of-everyday 同族） | 2026-11-08 |
 | evidence (Evidenz) | Evidenz | 明证性 | brentano-judgement 首译 | 布伦塔诺/现象学通行译法（亦作自明性，本词条取明证性）；凭证 2026-11-09 | 2026-11-09 |
 | evidence-transcending | — | 越出证据的 | faith | 学界通行（宗教哲学）；凭证 2026-11-11 | 2026-11-11 |
@@ -1815,7 +1815,7 @@
 | fruition | — | 享用 | lorenzo-valla | 奥古斯丁研究通行（uti/frui 对偶：use=使用，frui=享用） | 2026-11-04 |
 | fu (poetry) | 賦 | 赋 | han-dynasty | 汉代文体通行（fu poems） | 2026-11-10 |
 | fulfilled moment | — | 充实的瞬间 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
-| fullness of language | — | 语言的充实 | ricoeur | 利科术语（plénitude du langage；亦作「语言的丰满」）；凭证 2026-11-11 | 2026-11-11 |
+| fullness of language | — | 语言的充实 | ricoeur | 利科术语（plénitude du langage；亦作“语言的丰满”）；凭证 2026-11-11 | 2026-11-11 |
 | full moral status | — | 完全道德地位 | 语料回收（标题词） | 学界惯例（生命伦理学通行）；凭证 2026-11-01 | 2026-11-01 |
 | full reflective equilibrium | — | 完全反思平衡 | reflective-equilibrium | 学界惯例（Rawls 2005：既广义又普遍的反思平衡）；凭证 2026-11-11 | 2026-11-11 |
 | full topos | — | 满拓扑斯 | logic-infinitary | Bell 术语直译（full topos）；凭证 2026-11-10 | 2026-11-09 |
@@ -3327,7 +3327,7 @@
 | one-to-one correspondence | — | 一一对应 | nicole-oresme | 数学通行；凭证 2026-11-08 | 2026-11-08 |
 | one-way speed of light | — | 单向光速 | spacetime-convensimul | 学界惯例（物理学通行） | 2026-11-06 |
 | onomatoid | — | 似名称（正文保留 onomatoid，首现括注） | lvov-warsaw；reism | 构词直译（onoma+oid）；学界无定译，保留原词；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
-| ontic structural realism | — | 存在结构实在论 | qm-relational | 学界通行（OSR；亦作「本体结构实在论」，本库从「存在」形）；凭证 2026-11-11 | 2026-11-11 |
+| ontic structural realism | — | 本体的结构实在论（亦作“存在结构实在论”） | qm-relational | 词汇表主形对齐（qian-yan/ci-hui-biao.md 行 1092；本库主形）；凭证 2026-11-11 | 2026-11-11 |
 | ontological | — | 存在论的 | gadamer-aesthetics | 学界惯例（现象学/诠释学通行） | 2026-11-01 |
 | ontological argument | — | 本体论论证 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 d/descartes-ontological））；凭证 2026-11-04 | 2026-11-04 |
 | ontological commitment | — | 本体论承诺 | object 首译 | 学界通行汉译（蒯因）；凭证 2026-11-07 | 2026-11-07 |
@@ -3478,7 +3478,7 @@
 | partinost | партийность | 党性 | 语料回收（lakatos 首译） | 苏联文艺学界通行译法（俄文 партийность）；凭证 2026-11-06 | 2026-11-06 |
 | Parts of Animals | — | 《动物的部分》 | zabarella | 学界通行汉译（亚里士多德著作）；凭证 2026-11-09 | 2026-11-09 |
 | parva naturalia | parva naturalia | 自然短篇 | natphil-ren | 亚里士多德学通行（亚氏心理学短篇集合）；凭证 2026-11-10 | 2026-11-10 |
-| existential phenomenology | — | 生存现象学 | ricoeur | 学界惯例（与「存在现象学」并行，本册取「生存现象学」对标雅斯贝尔斯—马塞尔线）；凭证 2026-11-11 | 2026-11-11 |
+| existential phenomenology | — | 生存现象学 | ricoeur | 学界惯例（与“存在现象学”并行，本册取“生存现象学”对标雅斯贝尔斯—马塞尔线）；凭证 2026-11-11 | 2026-11-11 |
 | paryāpti | पर्याप्ति | 圆足 | early-modern-india | 新正理数论义译（completion relation；Raghunātha 新关系）；凭证 2026-11-10 | 2026-11-10 |
 | paryāya | पर्याय | 样态 | jaina-philosophy | 耆那教学界通行（与 guṇa 性质、dravya 实体三分） | 2026-11-08 |
 | Pascal’s Wager | — | 帕斯卡尔赌注（亦作“帕斯卡赌注”） | 语料回收（标题词） | 学界惯例（宗教哲学通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
@@ -3564,7 +3564,7 @@
 | philosophy of life | Lebensphilosophie | 生命哲学 | dilthey 首译 | 学界通行；凭证 2026-11-09 | 2026-11-09 |
 | philosophy of praxis | — | 实践哲学 | gramsci | 葛兰西术语（Labriola 语），学界通行译名；凭证 2026-11-11（主会话直译 g/gramsci） | 2026-11-11 |
 | philosophy of reflection | Reflexionsphilosophie | 反思哲学 | gadamer | 黑格尔—伽达默尔语境通行汉译；凭证 2026-11-10 | 2026-11-10 |
-| eidetic phenomenology | — | 本质现象学 | ricoeur | 学界惯例（eidetische Phänomenologie；与「本质直观」同族）；凭证 2026-11-11 | 2026-11-11 |
+| eidetic phenomenology | — | 本质现象学 | ricoeur | 学界惯例（eidetische Phänomenologie；与“本质直观”同族）；凭证 2026-11-11 | 2026-11-11 |
 | philosophy of right | — | 法哲学 | 首现（schlegel） | 学界惯例（黑格尔研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | phlogiston | — | 燃素 | kant-science | 化学史通行 | 2026-11-05 |
 | Phoronomy | — | 运动学（康德《形而上学基础》首章章名；源文本章即以 kinematics 释之） | kant-science | 李秋零译本通行 | 2026-11-05 |
@@ -3619,7 +3619,7 @@
 | point-coincidence argument | — | 点重合论证 | spacetime-holearg | B 档（Stachel 术语，学界通行译名） | 2026-10-28 |
 | point-mass | — | 质点 | newton | 力学通行；凭证 2026-11-08 | 2026-11-08 |
 | pointer observable | — | 指针可观测量 | qm | 学界惯例（pointer 审定库作“指针”，observable 审定库作“可观测量”）；凭证 2026-11-11 | 2026-11-11 |
-| pointer variable | — | 指针变量 | qm-relational | 沿 qm 行「指针可观测量」；学界惯例；凭证 2026-11-11 | 2026-11-11 |
+| pointer variable | — | 指针变量 | qm-relational | 沿 qm 行“指针可观测量”；学界惯例；凭证 2026-11-11 | 2026-11-11 |
 | polarization | — | 偏振 | qt-entangle | 审定名词库（物理学名词 polarization）；凭证 2026-11-09 | 2026-11-09 |
 | polis | πόλις | 城邦 | 语料回收 | 审定名词库（termonline-all·世界历史名词·希腊，2026-10-30 浏览器通道凭证） | 2026-10-30 |
 | Polish notation | — | 波兰记法 | lvov-warsaw | 逻辑史通行译法；凭证 2026-11-09 | 2026-11-09 |
@@ -4021,7 +4021,7 @@
 | recipient | — | 受赠者 | justice-moral-psych | 独裁者博弈文献通行译法；凭证 2026-11-10 | 2026-11-10 |
 | reciprocal altruism | — | 互惠利他 | s/social-procedures 首译 | 学界通行译法（生物学哲学与演化伦理学通行）；凭证 2026-11-07 | 2026-11-07 |
 | reciprocity | — | 互反性 | necessary-sufficient | 本词条核心（必要与充分条件的互反关系）；凭证 2026-11-08 | 2026-11-08 |
-| recognition (Ricoeur) | — | 承认 | ricoeur | 利科《承认的过程》术语；与既有 recognition「再认识」（美学语境 Wiedererkennung）分列，限定键消歧；凭证 2026-11-11 | 2026-11-11 |
+| recognition (Ricoeur) | — | 承认 | ricoeur | 利科《承认的过程》术语；与既有 recognition“再认识”（美学语境 Wiedererkennung）分列，限定键消歧；凭证 2026-11-11 | 2026-11-11 |
 | reciprocity thesis | — | 互惠论题 | kant-transcendental | 本词条首译（Allison 1983 reciprocity thesis）；凭证 2026-11-11 | 2026-11-11 |
 | reclusion | — | 隐逸 | han-dynasty | 学界通行（Confucian reclusion 儒家隐逸） | 2026-11-10 |
 | recognition | — | 再认识（Wiedererkennung；亦作“认出”） | gadamer-aesthetics | 学界惯例（美学研究通行） | 2026-11-01 |
@@ -4038,7 +4038,7 @@
 | reductionism | — | 还原论 | 语料回收（全目录） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | redundancy biconditional | — | 冗余双条件句 | 首现（truth-coherence） | 学界惯例（p 为真当且仅当 p）；凭证 2026-11-07 | 2026-11-07 |
 | reference class | — | 参照类 | jury-theorems | 学界惯例（统计学/概率论通行）；凭据 2026-11-02 | 2026-11-02 |
-| refiguration | — | 再塑形 | ricoeur | 利科《时间与叙事》三重塑形（mimesis3）；与 configuration「塑形」配对；凭证 2026-11-11 | 2026-11-11 |
+| refiguration | — | 再塑形 | ricoeur | 利科《时间与叙事》三重塑形（mimesis3）；与 configuration“塑形”配对；凭证 2026-11-11 | 2026-11-11 |
 | reference class problem | — | 参考类问题 | cancer | 学界通行（概率与统计哲学）；凭证 2026-11-09 | 2026-11-09 |
 | reflecting telescope | — | 反射望远镜 | newton | 光学通行；凭证 2026-11-08 | 2026-11-08 |
 | Reflection Principle | — | 反思原则 | 首现（imprecise-probabilities） | 学界惯例（van Fraassen 术语）；凭证 2026-11-08 | 2026-11-08 |
@@ -4068,7 +4068,7 @@
 | rejection rule | — | 拒斥规则 | lvov-warsaw | Jaśkowski 术语通行译法；凭证 2026-11-09 | 2026-11-09 |
 | relation noun | — | 关系名词 | schema | 学界惯例（语法学通行） | 2026-11-06 |
 | relational facts | — | 关系性事实 | cosmopolitanism | 本条术语（Miller 关系性义务论）；学界亦作“关系事实”；凭证 2026-11-09 | 2026-11-09 |
-| relationalism (RQM) | — | 关系主义 | qm-relational | 本库 RQM 语境义（与时空哲学「关系论」分立）；凭证 2026-11-11 | 2026-11-11 |
+| relationalism (RQM) | — | 关系主义 | qm-relational | 本库 RQM 语境义（与时空哲学“关系论”分立）；凭证 2026-11-11 | 2026-11-11 |
 | relational ontology | — | 关系性本体论 | object 首译 | 学界惯例（同上）；凭证 2026-11-07 | 2026-11-07 |
 | relationalism（space and time） | — | 关系论 | newton-philosophy | 时空哲学通行（与绝对论对举） | 2026-11-10 |
 | relational quantum mechanics | — | 关系性量子力学 | qm-relational | 本库首译（SUMMARY 词条定名）；学界通行（Rovelli 1996 创说）；凭证 2026-11-11 | 2026-11-11 |
@@ -4323,14 +4323,14 @@
 | selection rule | — | 选择定则 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | selective constraint | — | 选择约束 | ecological-genetics 首译 | 学界通行译名（分子进化文献，与 purifying selection 相关）；凭证 2026-11-10 | 2026-11-10 |
 | selective sweep | — | 选择性清除 | ecological-genetics 首译 | 学界通行译名（群体遗传学文献）；凭证 2026-11-09 | 2026-11-09 |
-| self-adjoint operator | — | 自伴算符 | qm-relational | 审定名词库（物理学名词有「自伴」）；学界通行；凭证 2026-11-11 | 2026-11-11 |
+| self-adjoint operator | — | 自伴算符 | qm-relational | 审定名词库（物理学名词有“自伴”）；学界通行；凭证 2026-11-11 | 2026-11-11 |
 | self-affirmation | — | 自我肯定 | brentano-judgement 首译 | 斯图姆夫 1919 引文术语；凭证 2026-11-09 | 2026-11-09 |
 | self-assessment | — | 自我评价 | conscience 首译 | 学界通行；凭证 2026-11-08 | 2026-11-08 |
 | self-attribution | — | 自我归赋（亦作自我归属） | kant-transcendental | 本词条体例（统觉性自我归赋，沿 apperception 行）；凭证 2026-11-11 | 2026-11-11 |
 | self-awareness | — | 自我觉察 | justice-moral-psych | 社会心理学通行汉译（objective self-awareness 客观自我觉察）；凭证 2026-11-10 | 2026-11-10 |
 | self-blame | — | 自我责备 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | self-consciousness | — | 自我意识 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
-| self-esteem | — | 自尊 | ricoeur | 利科术语（estime de soi），与 self-respect「自我尊重」分列；凭证 2026-11-11 | 2026-11-11 |
+| self-esteem | — | 自尊 | ricoeur | 利科术语（estime de soi），与 self-respect“自我尊重”分列；凭证 2026-11-11 | 2026-11-11 |
 | self-control | — | 自我控制 | moral-responsibility-empirical | 心理学通行 | 2026-11-07 |
 | self-cultivation | — | 修身 | japanese-aesthetics | 学界惯例（儒学/东亚哲学通行译法“修身”） | 2026-11-02 |
 | self-culture | — | 自我修养 | f/fuller-margaret 首译 | 19 世纪美国思想史通行译法（与 self-improvement 自我改善并用） | 2026-11-11 |
@@ -4980,7 +4980,7 @@
 | Tractatus (Summule logicales) | — | 《逻辑纲要》 | peter-spain | 本词条首译裁定（Peter of Spain 的 Tractatus/Summule logicales；勿与奥卡姆《逻辑大全》Summa logicae 混同）；凭证 2026-11-09 | 2026-11-09 |
 | traditional intellectual | — | 传统知识分子 | gramsci | 葛兰西术语，学界通行译名；凭证 2026-11-11（主会话直译 g/gramsci） | 2026-11-11 |
 | tragic choice | — | 悲剧性选择 | disability-care-rationing | 法学与伦理学通行（Calabresi & Bobbitt 1978）；凭证 2026-11-08 | 2026-11-08 |
-| transcendence (Jaspers) | — | 超越者 | ricoeur | 雅斯贝尔斯术语（Transzendenz），利科借以述「清白之见」；学界惯例；凭证 2026-11-11 | 2026-11-11 |
+| transcendence (Jaspers) | — | 超越者 | ricoeur | 雅斯贝尔斯术语（Transzendenz），利科借以述“清白之见”；学界惯例；凭证 2026-11-11 | 2026-11-11 |
 | trait | — | 特质 | justice-moral-psych | 人格心理学通行（与“状态”对举）；凭证 2026-11-10 | 2026-11-10 |
 | trait gratitude | — | 特质感恩 | justice-moral-psych | 人格心理学通行译法（与“状态感恩”对举）；凭证 2026-11-10 | 2026-11-10 |
 | trans-specific polymorphism | — | 跨种多态性 | ecological-genetics 首译 | 学界通行译名（分子进化文献）；凭证 2026-11-10 | 2026-11-10 |
