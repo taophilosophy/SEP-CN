@@ -360,7 +360,7 @@
 | Berkeley, George | — | 乔治·贝克莱 | — | — | SUMMARY 定名（b/berkeley.md） | 学界惯例（SUMMARY 定名沿用；学界通行汉译，亦作“巴克莱”）；凭证 2026-11-06 | 2026-11-06 |
 | Berleant, Arnold | — | 阿诺德·伯林特 | — | — | environmental-aesthetics | 学界通行汉译（《艺术与介入》中译本作“伯林特”） | 2026-11-08 |
 | Berman, Piotr | — | Piotr Berman | — | — | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
-| Bernard Bolzano | — | 伯纳德·鲍尔查诺 | — | — | leibniz-logic-influence | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| Bolzano, Bernard | — | 伯恩哈德·波尔查诺 | 波希米亚 | 1781–1848 | bolzano | 家法形（SUMMARY 条目名 b/bolzano.md）；合并原 Bernard Bolzano / 贝尔纳·博尔查诺 / 鲍尔查诺 / 博尔查诺 诸形，正文一律回改；凭证 2026-11-11 | 2026-11-11 |
 | Bernard Matege | — | 贝尔纳·马特赫 | — | — | crescas | 学界通行中译（14 世纪加泰罗尼亚人文主义者）；凭证 2026-11-08 | 2026-11-08 |
 | Bernard of Arezzo | — | 阿雷佐的伯纳德 | — | — | autrecourt | 学界通行（方济各会神学家，奥特古通信对手） | 2026-11-06 |
 | Bernard Williams | — | 伯纳德·威廉斯 | — | — | justice-healthcareaccess | 学界惯例（《伦理学与哲学的限度》中译本通行） | 2026-11-02 |
@@ -438,7 +438,6 @@
 | Bolde, Samuel | — | 塞缪尔·博尔德 | — | — | lady-masham | 学界通行音译（洛克社交圈人士） | 2026-11-07 |
 | Boldero, Edmund | — | 埃德蒙·博尔德罗 | 英格兰 | 17 世纪 | newton-philosophy | 音译（1688 年剑桥大学副校长；学界无通行汉名） | 2026-11-10 |
 | Boles, Terry | — | Terry Boles（现代学者，保留英文） | — | — | justice-moral-psych | ADR-0022：无通行汉名者保留英文（欺骗与报复实验）；凭证 2026-11-10 | 2026-11-10 |
-| Bolzano, Bernard | — | 贝尔纳·博尔查诺 | 波希米亚 | 1781–1848 | kant-judgment | 学界通行汉译（分析哲学先驱；正文行文用“博尔查诺”）；凭证 2026-11-11 | 2026-11-11 |
 | Bonaventure | — | 波纳文图拉 | — | — | 语料回收（marsilius-inghen 首译） | 学界千年通行汉译（中世纪神学家）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Bondi, Hermann | — | 赫尔曼·邦迪 | — | — | cosmology-30s | 学界通行音译（稳恒态宇宙学）；凭证 2026-11-08 | 2026-11-08 |
 | Boniface IX | — | 卜尼法斯九世 | — | — | 语料回收（marsilius-inghen 首译） | 教皇通译惯例（教皇名从天主教传统译名）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |

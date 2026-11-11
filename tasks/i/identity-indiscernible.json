@@ -2,8 +2,44 @@
   "slug": "identity-indiscernible",
   "kind": "retranslate",
   "zh_doc": "i/identity-indiscernible.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-11T03:50:26Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T06:04:43Z",
+      "evidence": "账本 76 段双版全填（body 75＋oir 1；biblio 69 条照录不入账本），lq 守恒门 76 段通过（HARD=0；软旗 * 计数 4 段属中文去强调体例、oir 机械段）；compose 31,687 字符；版本钉 2025-06-04 首发（Summer 2025）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T06:04:43Z",
+      "evidence": "一校五维对账：节 10:10、脚注 marker 142:142（撇号归一）、defs 69:69、公式 111 全平衡无缺失、年份 300:302（唯一差为 1950s/1680s 源文带尾随 s 不中正则，译文展开为「1950 年代／1680 年代」，实同数）；相关词条逐条对 SUMMARY 定名；题名修复：旧 SUMMARY 行残缺（不可分者同一性原理 of indiscernibles）→ 不可分辨者的同一性 The Identity of Indiscernibles（SUMMARY/mu-lu-s/H1 三处同步）；人名形统一 伯恩哈德·波尔查诺（家法形）、trope=特普"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T06:06:02Z",
+      "evidence": "二校语言：check_prose 30→0 全实修（长句 21 处拆分、de-chain 8 处改写、被动 1 处转主动；无引文豁免）；check_style --docs --strict 0 issue（首段「原则」CJK 斜体改引号）；语体现代汉语学术书面语，无文言仿古与破折号滥用"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T06:06:03Z",
+      "evidence": "三校体例：check_style 0；check_academic --strict 无硬错误；check_math 0 缺失 0 不平衡；check_summary H1 mismatch 0；check_terms 硬错误 0；check_quotes 0 违例；i_reconcile 五项全等"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:29:24Z",
   "version_pin": {

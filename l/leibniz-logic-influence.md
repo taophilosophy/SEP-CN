@@ -26,7 +26,7 @@
 
 在现代数理逻辑发展的初期，援引莱布尼茨乃司空见惯之事。显然，早期逻辑学家在莱布尼茨那里看到了自己的某些观念；而且，他们至少还能接触到莱布尼茨的某些著述，足以为此说张目。不过，十九世纪中叶的人们可能知道莱布尼茨逻辑观念中的哪些呢？
 
-鲁道夫·埃里希·拉斯佩刊行的拉丁文与法文莱布尼茨哲学著作集（Leibniz 1765；参见 Hallo 1934）[^hallo-1934][^leibniz-1765]，收有此前未刊的书信若干、未刊文稿六篇；其中两篇与逻辑相关：《若干逻辑难题》（“Difficultates quaedam logicae”）与《特征语言的历史与推荐》（“Historia et commendatio linguae charactericae”）。拉斯佩版最重要的特色，是首次刊布失踪六十年的《人类理智新论》。例如伯纳德·鲍尔查诺——他撰写开山之作《科学论》时把莱布尼茨视为盟友——即受其影响（Bolzano 1837, [TS]；Mugnai 2011）[^bolzano-1837][^bolzano-1837-2][^mugnai-2011]。
+鲁道夫·埃里希·拉斯佩刊行的拉丁文与法文莱布尼茨哲学著作集（Leibniz 1765；参见 Hallo 1934）[^hallo-1934][^leibniz-1765]，收有此前未刊的书信若干、未刊文稿六篇；其中两篇与逻辑相关：《若干逻辑难题》（“Difficultates quaedam logicae”）与《特征语言的历史与推荐》（“Historia et commendatio linguae charactericae”）。拉斯佩版最重要的特色，是首次刊布失踪六十年的《人类理智新论》。例如伯恩哈德·波尔查诺——他撰写开山之作《科学论》时把莱布尼茨视为盟友——即受其影响（Bolzano 1837, [TS]；Mugnai 2011）[^bolzano-1837][^bolzano-1837-2][^mugnai-2011]。
 
 1768 年，路易·迪唐刊行《全集：今首次辑集，按类编排，附序言与索引》（*Opera omnia nunc primum collecta in Classes distributa praefationibus & indicibus exornata*；Leibniz 1768；参见 Heinekamp 1986）[^heinekamp-1986][^heinekamp-1986-2][^leibniz-1768]——一部相当完备的莱布尼茨已刊著作集，其中收有迄今未刊的若干通信。
 
