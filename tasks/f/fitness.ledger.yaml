@@ -107,74 +107,98 @@ segments:
     kind: body
     source: |-
       The disagreement about whether fitness is a property of biological individuals (genes, genotypes, organisms, families, populations and other groups or even species) as opposed to a property of traits of these individuals, has made significant another debate about the explanatory role of fitness in the theory of natural selection. Among those who endorse trait fitness (differences), and not individual fitness (differences), as a fundamental explanatory factor in natural selection, there is a dispute about whether its explanatory role reflects its causal force, or whether trait fitness is a purely statistical concept employed in the theory of natural selection to make demographic predictions about future trait distributions, without entering into any causal nexus among the objects so to speak. Thus, Matthen and Ariew (2002, 56) write, “Unlike vernacular [individual] fitness, predictive [trait] fitness is not a cause of selection, or of evolution for that matter…. [P]redictive fitness is a measure of evolutionary change not a cause.” This view confers an obligation on those who embrace it to explain how the theory of natural selection can provide contingent explanations without trading in causal relations among its explanatory variables.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于适合度究竟是生物个体（基因、基因型、有机体、家庭、种群以及其他群体甚至物种）的属性，还是这些个体的性状的属性，这一分歧使另一场关于适合度在自然选择理论中解释角色的争论变得重要起来。在那些认可性状适合度（差异）、而非个体适合度（差异）作为自然选择中基本解释因素的人中间，存在一场争论：其解释角色是否反映其因果力量，抑或性状适合度是一个纯粹统计性的概念，在自然选择理论中用于对未来性状分布作人口学预测，而并不进入所谓对象之间的任何因果联系。因此，Matthen 和 Ariew（2002, 56）写道：“与通俗的〔个体〕适合度不同，预测性的〔性状〕适合度不是选择的原因，也不是进化的原因……〔预测性〕适合度是进化变化的量度，而不是原因。”这一观点给接受它的人施加了一项义务：说明自然选择理论如何能够在不诉诸其解释变量之间的因果关系的情况下，提供偶然性解释。
+    step2: |-
+      适合度究竟是生物个体（基因、基因型、有机体、家庭、种群及其他群体乃至物种）的属性，还是这些个体之性状的属性？这一分歧使另一场争论变得举足轻重：适合度在自然选择理论中扮演何种解释角色。有些人承认性状适合度（差异）而非个体适合度（差异）是自然选择的基本解释因素；他们内部又争论：这一解释角色是否反映其因果力量，抑或性状适合度只是一个纯统计概念——自然选择理论借它来预测未来性状分布的群体动态，而所谓对象之间并不发生任何因果关联。Matthen 与 Ariew（2002, 56）即写道：“与通俗的〔个体〕适合度不同，预测性的〔性状〕适合度不是选择之因，也不是进化之因……〔预测性〕适合度是进化变化的量度，而非原因。”此说既立，信奉者便负有一项义务：说明自然选择理论如何能在不预设解释变量间因果关系的条件下，仍给出偶然性解释。
   - id: 14
     kind: body
     source: |-
       ## 4. The Propensity Interpretation of Fitness
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. 适合度的倾向解释
+    step2: |-
+      ## 4. 适合度的倾向解释
   - id: 15
     kind: body
     source: |-
       Among philosophers of biology there has been a wide consensus that the solution to problem of defining individual ‘fitness’ is given by treating it as a probabilistic disposition. As such it causally intervenes between the relationship of environments to organisms that cause it, and the actual rates of reproduction that are its effects. Thus, fitness turns out to be a “garden-variety” dispositional concept like ‘magnetic’ or ‘fragile’. These properties, and all dispositions are distinguished both from the actual behaviour to which they give rise—e.g., attracting iron filing or breaking in the case of magnetism or fragility; some items are magnetic and others fragile without ever actually attracting iron filings or breaking. Similarly, an organism can have a probabilistic disposition to have $n$ offspring and yet “unluckily” never actually reproduce.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在生物学哲学家中间曾有广泛共识：定义个体“适合度”这一问题的解决办法，是把它视为一种概率倾向。如此，它便因果地介入环境与有机体之间那导致它的关系，以及作为其效果的实际繁殖率之间。于是，适合度成了一个“寻常的”倾向性概念，就像“有磁性的”或“易碎的”。这些属性以及一切倾向，既区别于它们所引起的实际行为——例如磁性或易碎性情形中的吸引铁屑或破碎；有些东西具有磁性，另一些易碎，却从未实际吸引铁屑或破碎。同样，一个有机体可以具有产生 $n$ 个后代的概率倾向，却“不幸地”从未实际繁殖。
+    step2: |-
+      生物学哲学界曾广泛认为，定义个体“适合度”的出路，在于把它当作一种概率倾向。作为倾向，它因果地居于两端之间：一端是环境与有机体之间那引发它的关系，另一端是作为其效果的实际繁殖率。于是，适合度便成了“寻常”的倾向性概念，与“有磁性的”“易碎的”相类。这类属性——一切倾向皆然——既区别于它们所引发的实际行为（如磁性吸引铁屑、易碎性导致破碎），又不与实际行为等同：有些东西具有磁性，有些东西易碎，却从未真的吸引过铁屑或破碎过。同理，一个有机体可以具有产生 $n$ 个后代的概率倾向，却“不走运”地从未实际繁殖。
   - id: 16
     kind: body
     source: |-
       Dispositional concepts such as ‘magnetic’ have explanatory power even though they are defined in terms of causes and effects from which they are nevertheless distinct, and are realized by the molecular properties of matter on which they supervene. The fact that fitness is a probabilistic *disposition* makes for no special difficulty on this analysis. The charge of tautology against the theory thus rests on the mistaken demand that an explanatory variable must always be defined in terms distinct from its causes and effects. This is a demand shown to be unreasonable by the failed Logical Positivists’ attempts to give the empirical meanings of theoretical terms independent of their explanatory roles.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      像“有磁性的”这样的倾向性概念具有解释力，尽管它们是以其因果和效果来定义的，却又与这些因果和效果相区别，并且由物质在其上随附的分子属性所实现。适合度是概率性的倾向，这一事实在这一分析中并不造成特殊困难。因此，对该理论的同义反复指控，建立在一种错误要求之上：解释变量必须始终以区别于其因果和效果的术语来定义。这一要求已被逻辑实证主义者为理论术语提供独立于其解释角色的经验意义的失败尝试表明为不合理。
+    step2: |-
+      像“有磁性的”这类倾向性概念虽以因果和效果来定义，却仍有解释力；它们与自身的因果、效果并不等同，并由物质在其上随附的分子属性所实现。在这一分析中，适合度之为概率性的倾向，并不带来额外困难。可见，针对该理论的同义反复之讥，系于一项错误要求：解释变量必须始终用区别于其因果与效果的术语来定义。逻辑实证主义者曾试图为理论术语给出独立于其解释角色的经验意义，终告失败；这项要求的不合理，正由此显露。
   - id: 17
     kind: body
     source: |-
       *Mutatis mutandis* the same will apply to comparative fitness differences. These will be dispositions supervening on the complex of relations between organisms’ and environments’ manifest properties (Rosenberg 1978)[^rosenberg-1978], and will give rise to differential reproductive rates. Thus, definitions such as the following were advanced by proponents of this approach (Beatty and Mills 1979, Brandon 1978)[^mills-1979]:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *Mutatis mutandis*，同样的道理适用于比较性的适合度差异。这些差异将是随附于有机体与环境的显明属性之间复杂关系之上的倾向（Rosenberg 1978）[^rosenberg-1978]，并将引起有差异的繁殖率。因此，这一进路的支持者提出了如下定义（Beatty and Mills 1979, Brandon 1978）[^mills-1979]：
+    step2: |-
+      *Mutatis mutandis*，同样的道理也适用于比较性的适合度差异。这类差异是随附于有机体与环境的显明属性之复杂关系上的倾向（Rosenberg 1978）[^rosenberg-1978]，并会产生有差别的繁殖率。于是，这一进路的拥护者提出了如下定义（Beatty and Mills 1979, Brandon 1978）[^mills-1979]：
   - id: 18
     kind: body
     source: |-
       > $x$ is fitter than $y$ in $E$ $=_{df}$ $x$ has a probabilistic propensity $> .5$ to leave more offspring than $y$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 在 $E$ 中 $x$ 比 $y$ 更适合 $=_{df}$ $x$ 具有大于 $.5$ 的概率倾向，会留下比 $y$ 更多的后代。
+    step2: |-
+      > $x$ 在 $E$ 中比 $y$ 更适合 $=_{df}$ $x$ 具有大于 $.5$ 的概率倾向，会留下比 $y$ 更多的后代。
   - id: 19
     kind: body
     source: |-
       Of course, if fitness is a probabilistic propensity, then the fitter among competing organisms will not always leave more offspring, and the theory of natural selection will have to be understood as making the claim that (probabilistic) fitness differences result in reproductive differences not invariably but only with some probability. With the inclusion of such propensities, the tautological nature of the explanation is dissolved since there is no deterministic path between the propensity to leave more offspring and the actual reproductive rates. But putting aside the tautology issue, there is also a scientific reason for favoring propensity approaches: since the theory of natural selection allows for drift, this qualification on its claims will be a welcome one.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当然，如果适合度是一种概率倾向，那么相互竞争的有机体中较适合者就不会总是留下更多后代；自然选择理论就必须被理解为主张：（概率性的）适合度差异导致繁殖差异并非必然，而只是以某种概率导致。引入这类倾向之后，解释的同义反复性质便消解了，因为从留下更多后代的倾向到实际繁殖率之间并没有决定论的路径。但撇开同义反复问题不谈，偏爱倾向进路还有一个科学理由：既然自然选择理论容许漂变，对其主张加上这一限定便是受欢迎的。
+    step2: |-
+      当然，若适合度是一种概率倾向，则相互竞争的有机体中较适合者未必总能留下更多后代；于是自然选择理论须被理解为：概率性的适合度差异导致繁殖差异，并非无例外，而只是以某种概率实现。一旦引入此类倾向，解释的同义反复性质便告消解——从留下更多后代的倾向到实际繁殖率之间，本无决定论的通道。撇开同义反复不谈，偏爱倾向进路还有一层科学理由：自然选择理论容许漂变，故对其主张作此限定反而恰如其分。
   - id: 20
     kind: body
     source: |-
       The question arises however of what sort of a probabilistic propensity the definition invokes. One candidate that has not found much favour among philosophers is that the probability invoked by the definition is long run relative frequency. To begin with, owing to periods of environmental and genetic instability, actual frequencies may vary rapidly while still approaching their long run relative frequencies (conditional on the counterfactual assumption that environment and genes had been stable). This makes it difficult to confirm measures of fitness so defined. Moreover, treating single case probabilities as long run relative frequencies is subject to a long-standing objection. In the biological case it is particularly serious owing to the role of small numbers (e.g., founder effects) in evolution. Finally, if long run relative frequencies reflect dispositions of organisms or populations to leave descendants, the question arises whether these dispositions are grounded on some occurrent properties or not. If not then long run relative frequencies turn out to be or immediately give way to objective chances. (See Earman 1985, 149.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而问题在于，该定义所援引的是哪一种概率倾向。一个在哲学家中不太受青睐的候选是：定义所援引的概率是长期相对频率。首先，由于环境与遗传的不稳定时期，实际频率可能迅速变化，同时仍在趋近其长期相对频率（以环境和基因曾保持稳定这一反事实假定为条件）。这使如此定义的适合度量度难以确证。此外，把单例概率当作长期相对频率，会遭到一项由来已久的反对。在生物学情形中，由于小数目（如奠基者效应）在进化中的作用，这一反对尤其严重。最后，如果长期相对频率反映有机体或种群留下后代的倾向，那么问题便出现了：这些倾向是否奠基于某些现成属性。如果不是，那么长期相对频率本身即成为客观机遇，或直接让位于客观机遇。（见 Earman 1985, 149。）
+    step2: |-
+      然而，该定义援引的究竟是哪一种概率倾向？哲学家们不太看好的一种答案是：定义所说的概率即长期相对频率。首先，环境与遗传时有动荡，实际频率可能急剧变动，却仍趋近其长期相对频率（前提是反事实地假定环境与基因保持稳定）。这就使如此定义的适合度量度难以确认。其次，把单例概率当作长期相对频率，历来备受诟病；在生物学情形中，由于小数目（如奠基者效应）在进化中举足轻重，此弊尤为严重。最后，倘若长期相对频率反映的是有机体或种群留下后代的倾向，那么这些倾向是否有现成属性作基础，便成疑问。若答曰没有，则长期相对频率本身即化为客观机遇，或径直让位于客观机遇。（见 Earman 1985, 149。）
   - id: 21
     kind: body
     source: |-
       Some philosophers have argued that fitnesses are precisely such objective chances. Brandon and Carson (1996) held that here, as in quantum mechanics, we find a brute unanalyzable probabilistic dispositional property of a particular item, which generates the long run relative frequencies. It is indeed the case that among philosophers of quantum mechanics some hold that probabilistic propensities can explain actual frequencies [cf. Railton 1978, 216][^railton-1978], and some hold that they do so via a detour into long run relative frequencies. But few are comfortable with such arguments and adopt them only because, at the level of the quantum mechanical probabilistic propensities are indispensable and irreducible [cf. Lewis, 1983]. Proponents of probabilistic propensities in biology may envision two possibilities here. One is that probabilistic propensities at the levels of phenomena that constitute the biological are the result of quantum probabilities “percolating up” in Sober (1984) and Brandon’s and Carson’s (1996) phrase; the second is that there are brute unexplainable probabilistic propensities at the level of fitness differences (Brandon and Carson 1996)[^brandon-1996]. No one doubts the potential biological significance of quantum percolation. It may well be an important source of mutation [cf. Stamos 1999 for a discussion]. But the claim that it has a *significant* role in most fitness differences is not supported by any independent evidence [cf. Millstein 2000 and Glymour 2001 for a discussion][^glymour-2001][^millstein-2000]. The claim that there are brute probabilistic propensities at the level of organismal fitness differences is only slightly more tenable. No one has adduced any evidence that, for instance, the probabilistic generalizations about the behaviour of animals that ethology and behavioural biology provide, are irreducibly probabilistic, instead of simply expressions of the current state of our knowledge and ignorance of the causes and conditions of the behaviour in question.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一些哲学家主张，适合度正是这样的客观机遇。Brandon 与 Carson（1996）认为，在这里如同在量子力学中一样，我们发现某一特定事项具有一种不可分析的、原始的概率倾向属性，它产生长期相对频率。的确，在量子力学哲学家中间，有些人认为概率倾向可以解释实际频率[参看 Railton 1978, 216][^railton-1978]，有些人则认为它们是通过绕道长期相对频率来解释的。但很少有人对这种论证感到安然，他们采纳它只是因为，在量子力学层面，概率倾向不可或缺且不可还原[参看 Lewis, 1983]。生物学中概率倾向的支持者在此可以设想两种可能。其一，构成生物界的种种现象层面的概率倾向，是量子概率“向上渗透”的结果——这是 Sober（1984）以及 Brandon 与 Carson（1996）的说法；其二，在适合度差异层面存在原始的、不可解释的概率倾向（Brandon and Carson 1996）[^brandon-1996]。无人怀疑量子渗透在生物学上的潜在意义。它很可能是突变的一个重要来源[参看 Stamos 1999 的讨论]。但它在大多数适合度差异中扮演“重要”角色这一主张，并无任何独立证据支持[参看 Millstein 2000 与 Glymour 2001 的讨论][^glymour-2001][^millstein-2000]。有机体适合度差异层面存在原始概率倾向的主张，也只是稍微更站得住脚。例如，动物行为学与行为生物学所提供的关于动物行为的概率概括，是否不可还原地是概率性的，而不只是我们关于所涉行为之原因与条件的当下知识及无知状况的表达——对此无人举出过任何证据。
+    step2: |-
+      一些哲学家认为，适合度恰恰就是这样的客观机遇。Brandon 与 Carson（1996）主张：在此，一如在量子力学中，我们看到某一特定事项具有一种原始的、不可分析的概率倾向属性，长期相对频率正由它产生。量子力学哲学家中确有人持此见：概率倾向可以解释实际频率[参看 Railton 1978, 216][^railton-1978]；也有人认为，这种解释须绕道长期相对频率。然而，对此类论证感到安适者寥寥；人们接受它，多半只是因为量子力学层面的概率倾向不可或缺、不可还原[参看 Lewis, 1983]。生物学中的概率倾向论者可设想两种可能：其一，构成生物界的各现象层面的概率倾向，源自量子概率的“向上渗透”——此语出自 Sober（1984）以及 Brandon 与 Carson（1996）；其二，适合度差异层面本就存在原始的、不可解释的概率倾向（Brandon and Carson 1996）[^brandon-1996]。量子渗透在生物学上的潜在意义，无人置疑；它很可能是突变的重要来源[参看 Stamos 1999 的讨论]。但要说它在大多数适合度差异中扮演“重要”角色，则无任何独立证据[参看 Millstein 2000 与 Glymour 2001 的讨论][^glymour-2001][^millstein-2000]。至于有机体适合度差异层面存在原始概率倾向云云，也不过稍为可信而已。动物行为学与行为生物学所提供的关于动物行为的概率概括，是否不可还原地具有概率性，抑或只是表达了我们当下关于所涉行为之原因与条件的知识与无知——对此，尚无人举出任何证据。
   - id: 22
     kind: body
     source: |-
       Rosenberg and Kaplan [2005] advance an alternative account of the nature and source of objective chances in Darwinian processes, arguing that they are not quantum mechanical in origin but are identical to the objective chances that operate in the processes described by the second law of thermodynamics. Of course this suggestion trades one problem for another, since the source of thermodynamic chances is a vexed question in the philosophy of physics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Rosenberg 与 Kaplan [2005] 提出另一种关于达尔文过程中客观机遇之性质与来源的说明，主张它们在起源上并非量子力学的，而等同于热力学第二定律所描述的过程中运作的客观机遇。当然，这一建议是以一个问题换取另一个问题，因为热力学机遇的来源在物理学哲学中本就是众议纷纭的问题。
+    step2: |-
+      Rosenberg 与 Kaplan [2005] 另提出一种说明，解释达尔文过程中客观机遇的性质与来源。他们主张，这类机遇并非源于量子力学，而等同于热力学第二定律所描述的过程中运作的客观机遇。当然，此说以一个问题换另一个问题：热力学机遇的来源，在物理学哲学中本就是聚讼纷纭的难题。
   - id: 23
     kind: body
     source: |-
       There is however a much more serious issue facing the propensity definition of fitness: it has long been held to be difficult to pin down the specific mathematical expression of the probabilistic propensity that is supposed to constitute fitness altogether. The difficulty reflects features of natural selection that we must accommodate. Failure to deal with these difficulties leads inexorably to the conclusion that far from providing the theoretical meaning of fitness, the probabilistic propensity “definition” is a set of an indefinitely large number of operational *measures* of fitness; moreover, identifying these measures often turns on assuming as understood just what the theory of natural selection sets out to explain. And if this is so, the probabilistic propensity definition will not defuse the threat of triviality facing the theory of natural selection. We review here the research program of delivering a propensity definition of fitness that has sought to deal with these difficulties.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，适合度的倾向定义还面临一个严重得多的问题：长期以来，人们认为很难确切指出那个据说是适合度之构成的概率倾向的具体数学表达式。这一困难反映了我们必须容纳的自然选择的特征。未能处理这些困难，便不可避免地导致如下结论：概率倾向“定义”远未提供适合度的理论意义，而只是一组数量不定的适合度操作性量度；而且，确认这些量度往往取决于把自然选择理论所要解释的东西预先当作已知。若果真如此，概率倾向定义就无法化解自然选择理论面临的琐碎性威胁。我们在此回顾那个旨在处理这些困难的、提供适合度倾向定义的研究纲领。
+    step2: |-
+      然而，适合度的倾向定义还面临一个远为棘手的问题：人们历来难以确切指认，那个据称构成适合度的概率倾向，其具体的数学表达式究竟是什么。这一困难折射出自然选择中我们必须予以容纳的特征。若不能处理这些困难，便不可避免地得出如下结论：概率倾向“定义”非但没有给出适合度的理论意义，反而只是一组数量不定的适合度操作性“量度”；而且，确认这些量度，往往要先假定自然选择理论所力图解释的东西已经了然。果真如此，概率倾向定义便无法消解自然选择理论所面临的琐碎化威胁。下面回顾的，正是这样一个研究纲领：它试图给出适合度的倾向定义，并设法应付上述困难。
   - id: 24
     kind: body
     source: |-
       The first thing to notice about the “definition”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于这个“定义”，首先要留意的是
+    step2: |-
+      对这个“定义”，首先要留意的是
   - id: 25
     kind: body
     source: |-
