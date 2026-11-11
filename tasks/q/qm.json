@@ -2,7 +2,7 @@
   "slug": "qm",
   "kind": "retranslate",
   "zh_doc": "q/qm.md",
-  "state": "cleared",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,41 @@
       "actor": "task_ops",
       "at": "2026-11-10T15:18:02Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "Q-main-20261111",
+      "at": "2026-11-11T04:52:27Z",
+      "evidence": "接管 Q-main-20261110 遗留：账本 112 段（body/oir/note）双版齐备；守恒门 HARD=0（修复段 85 $ 计数 src26/t2 28 归一为 26）；q/qm.md 已成稿 45KB，含 H1/版本行/脚注 12 条/References（引用注释）/学术工具四行/其他网络资源/相关词条"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "Q-main-20261111",
+      "at": "2026-11-11T04:53:58Z",
+      "evidence": "逐节对照 yuanwen/q/qm.md 全文核销：§1 术语、§2.1 矢量与矢量空间、§2.2 算符、§3 四条原理、§4 希尔伯特空间上的结构、尚待厘清、脚注 note-1..12、References 照录区、OIR、相关词条 9 项。实修 18 处：远驾于→远胜；'已了如指掌'→'已被理解得清清楚楚'；'改写下一个函数'→'改为写下函数'；'有物理分量的特征'→'有物理后果的特征'；distinct 单独→不同（2 处）；'彻头彻尾清楚'→'完全清楚'；认识概率→认知概率；'无论纯混'→'无论纯态还是混合态'；'数学讲究'→'数学细节'；§4 末段残句重写；note-7 '一一无余'→'唯一'、'模 1'→'绝对值为 1'；note-9 括号重组与'他'→'那人'。术语规范化 12 处（标准正交基→规范正交基 6、超选规则→超选择定则 2、塌缩→坍缩 4；依审定名词库）。相关词条 9 项与 SUMMARY 主形逐字一致；脚注键闭环"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "Q-main-20261111",
+      "at": "2026-11-11T05:00:22Z",
+      "evidence": "通读语体：现代汉语学术书面语，无文言仿古；破折号 34 处均为插入语，无切句滥用。语言实修 3 处拆长句（§4 观察特征句 86→56 字、§4 末段三点句重写去 de-chain、note-9 括注重组）；check_prose 0 告警；残余英文扫描（正文区 the/and/of 等）0 命中"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "Q-main-20261111",
+      "at": "2026-11-11T05:01:21Z",
+      "evidence": "体例三校：check_style 0 issue；check_math 260 公式 0 缺失 0 失衡；check_academic --strict 0 硬错误；check_terms 硬错误 0（qm 三处告警中完备性已修，Molyneux 两项属他会词条）；术语登记 32 行入 yi-zhe-shuo-ming（审定名词库证据，collapse/orthonormal 等按审定归一）；H1 与 SUMMARY 行逐字一致；相关词条 9 项无 NOTE 残留"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "Q-main-20261111",
+      "at": "2026-11-11T05:08:45Z",
+      "evidence": "初审（复核独立于初译 actor Q-main-20261110）：结构对位核验——源 20 标题 vs 译 19（源 Notes/Notes to Quantum Mechanics 双标题合为 ## 脚注，合规）；注引用 24 处键集相等；文献 defs 54 键双侧相等、无缺无余；图 2 处（figure1/2.gif）路径可解析、字节与 en/qm 源一致；H1 与 SUMMARY 逐字一致；节序（术语→数学→QM→结构→尚待厘清→脚注→References→学术工具→OIR→相关）与源一致；相关词条 9 项无 NOTE 残留；OIR 1 项译出。问题分级：Critical 0 / Major 0（s1 已消化 18 处准确性问题）/ Minor 0"
     }
   ],
   "blockers": [],
