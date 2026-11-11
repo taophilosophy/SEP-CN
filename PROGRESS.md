@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-11 11:44（UTC）
+生成时间：2026-11-11 15:40（UTC）
 
 ## 总览
 
@@ -14,20 +14,19 @@
 |已建英文基线|1879|
 |已建任务|1182|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|338|
-|在途（drafted 起、done 前）|194|
+|已完成（done）|343|
+|在途（drafted 起、done 前）|191|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|650|
-|cleared|139|
-|drafted|3|
-|s1_checked|1|
-|s3_checked|51|
-|done|338|
+|pending|648|
+|cleared|141|
+|drafted|2|
+|s3_checked|48|
+|done|343|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -36,13 +35,13 @@
 |A|160|160|160|56|
 |B|62|62|62|16|
 |C|172|172|172|23|
-|D|92|92|92|17|
-|E|99|99|99|24|
+|D|92|92|92|18|
+|E|99|99|99|25|
 |F|96|96|96|5|
-|G|49|49|49|12|
-|H|61|61|61|15|
+|G|49|49|49|13|
+|H|61|61|61|16|
 |I|75|75|75|29|
-|J|38|38|38|8|
+|J|38|38|38|9|
 |K|36|36|36|21|
 |L|144|144|30|30|
 |M|139|139|14|7|
@@ -148,8 +147,7 @@
 |diodorus-cronus|retranslate|s3_checked|D-main-20261107 2026-11-07|
 |disability|retranslate|s3_checked|D-main-20261109 2026-11-09|
 |disability-care-rationing|retranslate|s3_checked|D-main-20261108 2026-11-08|
-|double-effect|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
-|early-modern-india|retranslate|s1_checked|E-main-20261111 2026-11-11|
+|fitness|retranslate|cleared|task_ops 2026-11-11|
 |gadamer-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |galen|retranslate|cleared|task_ops 2026-11-01|
 |galileo|retranslate|cleared|task_ops 2026-11-01|
@@ -158,12 +156,12 @@
 |gene|retranslate|cleared|EH-main-20261106 2026-11-06|
 |generics|retranslate|cleared|task_ops 2026-11-01|
 |genetic-drift|retranslate|cleared|task_ops 2026-11-01|
-|genetics|retranslate|s3_checked|G-main-20261111 2026-11-11|
 |genotype-phenotype|retranslate|cleared|task_ops 2026-11-01|
 |george-eliot|retranslate|cleared|task_ops 2026-11-01|
 |global-democracy|retranslate|cleared|task_ops 2026-11-01|
 |goedel|retranslate|cleared|task_ops 2026-11-01|
 |goodman|retranslate|cleared|task_ops 2026-11-01|
+|grotius|retranslate|cleared|task_ops 2026-11-11|
 |haecceitism|retranslate|cleared|task_ops 2026-11-01|
 |halevi|retranslate|cleared|task_ops 2026-11-01|
 |hamann|retranslate|cleared|task_ops 2026-11-01|
@@ -180,7 +178,6 @@
 |hilbert-program|retranslate|s3_checked|H-main-20261111 2026-11-11|
 |hist-westphilmusic-to-1800|retranslate|cleared|task_ops 2026-11-01|
 |hobbes|retranslate|cleared|task_ops 2026-11-01|
-|hobbes-science|retranslate|s3_checked|H-main-20261111 2026-11-11|
 |holism-social|retranslate|cleared|task_ops 2026-11-01|
 |horkheimer|retranslate|cleared|task_ops 2026-11-01|
 |hume-freewill|retranslate|cleared|task_ops 2026-11-01|
@@ -199,7 +196,6 @@
 |japanese-philosophy|retranslate|cleared|task_ops 2026-11-01|
 |japanese-pure-land|retranslate|cleared|task_ops 2026-11-01|
 |japanese-zen|retranslate|cleared|task_ops 2026-11-01|
-|jaspers|retranslate|s3_checked|J-main-20261109 2026-11-09|
 |jayaraasi|retranslate|cleared|task_ops 2026-11-10|
 |jefferson|retranslate|cleared|task_ops 2026-11-01|
 |johann-fichte|retranslate|cleared|task_ops 2026-11-01|
@@ -244,7 +240,7 @@
 |montessori-maria|retranslate|s3_checked|M-main-20261111 2026-11-10|
 |moral-learning|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |music|retranslate|s3_checked|M-main-20261109b 2026-11-09|
-|newton-principia|retranslate|drafted|N-main-20261111 2026-11-11|
+|newton-principia|retranslate|s3_checked|N-main-20261111 2026-11-11|
 |omnipotence|retranslate|cleared|task_ops 2026-11-10|
 |quantum-bayesian|retranslate|cleared|task_ops 2026-11-11|
 |repugnant-conclusion|retranslate|cleared|task_ops 2026-11-11|
