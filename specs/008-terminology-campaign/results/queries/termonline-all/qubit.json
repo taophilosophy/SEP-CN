@@ -1,0 +1,131 @@
+{
+ "key": "qubit",
+ "term": "qubit",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T17:22:13+00:00",
+ "status": "ok",
+ "note": "variant=qubit; 审定公布名词库=18; 海峡两岸名词对照库=2; 其他来源数据库=2; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "量子比特",
+   "en": "qubit",
+   "code": "06.0735",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子信息"
+  },
+  {
+   "cn": "量子位",
+   "en": "quantum-bit,qubit",
+   "code": "12.0002",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_量子计算与量子信息学"
+  },
+  {
+   "cn": "光子量子比特",
+   "en": "photonic qubit",
+   "code": "06.0805",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子信息"
+  },
+  {
+   "cn": "相位量子比特",
+   "en": "phase qubit",
+   "code": "06.0803",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子信息"
+  },
+  {
+   "cn": "原子量子比特",
+   "en": "atomic qubit",
+   "code": "06.0801",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子信息"
+  },
+  {
+   "cn": "电荷量子比特",
+   "en": "charge qubit",
+   "code": "06.0802",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子信息"
+  },
+  {
+   "cn": "陷俘离子量子比特",
+   "en": "trapped-ion qubit",
+   "code": "06.0806",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子信息"
+  },
+  {
+   "cn": "电荷-相位量子比特",
+   "en": "charge-phase qubit",
+   "code": "06.0804",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子信息"
+  },
+  {
+   "cn": "单量子位门",
+   "en": "single-qubit quantum gate",
+   "code": "06.0819",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子信息"
+  },
+  {
+   "cn": "d 维量子信息单位",
+   "en": "qudit",
+   "code": "06.0740",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子信息"
+  },
+  {
+   "cn": "n 维量子信息单位",
+   "en": "qunit",
+   "code": "06.0741",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子信息"
+  },
+  {
+   "cn": "戒烟",
+   "en": "quit smoking",
+   "code": "1.078",
+   "standard": "行为医学名词",
+   "subject": "行为医学_总论_行为决定健康"
+  },
+  {
+   "cn": "营救浮环",
+   "en": "buoyant rescue quoit",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "施救浮索",
+   "en": "buoyant rescue quoit",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "超导量子比特技术（IBM）",
+   "en": "superconducting qubit technology (IBM)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数码元容错的量子计算机",
+   "en": "few-qubit fault tolerant quantum computer",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "戒烟尝试",
+   "en": "quit smoking attempt",
+   "code": "3.3.2.3.1.7",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

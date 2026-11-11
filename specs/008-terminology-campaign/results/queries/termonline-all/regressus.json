@@ -1,0 +1,40 @@
+{
+ "key": "regressus",
+ "term": "regressus",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T18:01:16+00:00",
+ "status": "ok",
+ "note": "variant=regressus; 审定公布名词库=2; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "滑膜隐窝",
+   "en": "synovial recessus",
+   "code": "03.0312",
+   "standard": "手外科学名词",
+   "subject": "手外科学_上肢解剖"
+  },
+  {
+   "cn": "归除",
+   "en": "gui chu;regress division",
+   "code": "8.536",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_明清_思想文化_科技"
+  },
+  {
+   "cn": "回归因子",
+   "en": "regressor",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "隐窝",
+   "en": "recess\",\"crypt\",\"recessus",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

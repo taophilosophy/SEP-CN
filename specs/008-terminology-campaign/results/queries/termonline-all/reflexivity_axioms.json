@@ -1,0 +1,327 @@
+{
+ "key": "reflexivity axioms",
+ "term": "reflexivity axioms",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T17:56:45+00:00",
+ "status": "ok",
+ "note": "variant=reflexivity axioms; 审定公布名词库=895; 海峡两岸名词对照库=199; 其他来源数据库=14; 预公布名词数据库=9; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "公理",
+   "en": "axiom",
+   "code": "01.0151",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "公理",
+   "en": "axiom",
+   "code": "01.0008",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "阿姆斯特朗公理",
+   "en": "Armstrong axioms",
+   "code": "07.0044",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据模型"
+  },
+  {
+   "cn": "独立公理",
+   "en": "independent axiom",
+   "code": "03.0048",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械设计与制图_机械设计_设计方法"
+  },
+  {
+   "cn": "信息公理",
+   "en": "information axiom",
+   "code": "03.0049",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械设计与制图_机械设计_设计方法"
+  },
+  {
+   "cn": "安全性公理",
+   "en": "security axiom",
+   "code": "07.0227",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库管理系统及其实现技术"
+  },
+  {
+   "cn": "佩亚诺公理",
+   "en": "Peano axiom",
+   "code": "02.0128",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_证明论"
+  },
+  {
+   "cn": "概括公理",
+   "en": "comprehension axiom",
+   "code": "02.0165",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_集合论"
+  },
+  {
+   "cn": "正则公理",
+   "en": "regularity axiom",
+   "code": "02.0166",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_集合论"
+  },
+  {
+   "cn": "分离公理",
+   "en": "separating axiom",
+   "code": "05.0787",
+   "standard": "数学名词",
+   "subject": "数学_分析学_凸分析"
+  },
+  {
+   "cn": "公理A",
+   "en": "axiom A",
+   "code": "06.0162",
+   "standard": "数学名词",
+   "subject": "数学_微分方程_积分方程_动力系统（数学）"
+  },
+  {
+   "cn": "切除公理",
+   "en": "excision axiom",
+   "code": "08.0706",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_代数拓扑学"
+  },
+  {
+   "cn": "阿姆斯特朗公理",
+   "en": "Armstrong axioms",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "并发公理",
+   "en": "concurrency axiom",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "归纳公理",
+   "en": "induction axiom",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "情态公理",
+   "en": "case axiom",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "数学公理",
+   "en": "mathematical axiom",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "外延公理",
+   "en": "extension axiom",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "反射",
+   "en": "reflex",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "局部确定[性]公理",
+   "en": "local-deterministic axiom",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "新生儿反射",
+   "en": "neonatal reflex\",\"newborn reflex",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "反射弧",
+   "en": "reflex arc",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "反射性排卵",
+   "en": "reflex ovulation",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "轴突反射",
+   "en": "axon reflex",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "选择公理",
+   "en": "Axiom ofChoice",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "阿姆斯特朗公理",
+   "en": "Armstrong's axioms",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "自伴算子",
+   "en": "Dirac–von Neumann axioms",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "反射弧",
+   "en": "reflex arc",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "原始反射",
+   "en": "Primitive reflexes",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "角膜反射",
+   "en": "corneal reflex",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "全身麻醉药",
+   "en": "righting reflex",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "平衡觉",
+   "en": "Vestibulo–ocular reflex",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "轴心国",
+   "en": "Axis power",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "光轴",
+   "en": "optical axis",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "横轴",
+   "en": "cross axis",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "纵轴",
+   "en": "longitudinal axis",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "反身性",
+   "en": "reflexivity",
+   "code": "3.2.3.13",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别研究"
+  },
+  {
+   "cn": "自反性现代化",
+   "en": "reflexive modernization",
+   "code": "3.14.2.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_环境社会学_现代环境社会学理论"
+  },
+  {
+   "cn": "觅食反射",
+   "en": "rooting reflex",
+   "code": "4.3.1.2",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健"
+  },
+  {
+   "cn": "反思人类学",
+   "en": "reflexive anthropology",
+   "code": "1.0617",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "语言强化运动条件反射法",
+   "en": "language enhanced motor conditioned reflex",
+   "code": "8.4.4.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价"
+  },
+  {
+   "cn": "民间熟语",
+   "en": "folk idioms",
+   "code": "4.035",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "特用型民间熟语",
+   "en": "special folk idioms",
+   "code": "4.0357",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "辐射束轴",
+   "en": "radiation beam axis",
+   "code": "6.4.4.24",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_放射治疗"
+  },
+  {
+   "cn": "源轴距",
+   "en": "source-axis distance，SAD",
+   "code": "6.4.4.42",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_放射治疗"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

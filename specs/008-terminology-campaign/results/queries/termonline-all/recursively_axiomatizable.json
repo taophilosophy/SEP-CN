@@ -1,0 +1,215 @@
+{
+ "key": "recursively axiomatizable",
+ "term": "recursively axiomatizable",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T17:49:15+00:00",
+ "status": "ok",
+ "note": "variant=recursively axiomatizable; 审定公布名词库=60; 海峡两岸名词对照库=24; 其他来源数据库=5; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "递归可公理化",
+   "en": "recursively axiomatizable",
+   "code": "02.0295",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_递归论"
+  },
+  {
+   "cn": "递归性",
+   "en": "recursiveness",
+   "code": "02.0241",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_递归论"
+  },
+  {
+   "cn": "α递归性",
+   "en": "α-recursion,alpha-recursion",
+   "code": "02.0294",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_递归论"
+  },
+  {
+   "cn": "递归技术",
+   "en": "recursive technique",
+   "code": "01.1923",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震反演"
+  },
+  {
+   "cn": "递归滤波",
+   "en": "recursive filter",
+   "code": "01.2557",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震信号处理"
+  },
+  {
+   "cn": "递归算法",
+   "en": "recursive algorithm",
+   "code": "02.0753",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_算法设计与分析"
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "code": "02.0124",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "递归规则",
+   "en": "recursive rule",
+   "code": "05.0237",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_语言与编译"
+  },
+  {
+   "cn": "递归查询",
+   "en": "recursive query",
+   "code": "07.0195",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库管理系统及其实现技术"
+  },
+  {
+   "cn": "递归谓词",
+   "en": "recursive predicate",
+   "code": "02.0127",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "递归关系",
+   "en": "recursive relation",
+   "code": "02.0128",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "递归语言",
+   "en": "recursive language",
+   "code": "02.0545",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_形式语言与自动机"
+  },
+  {
+   "cn": "循环",
+   "en": "recursion",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "递归",
+   "en": "recursion",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "递归",
+   "en": "recursion",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "递推关系式",
+   "en": "recursive relation",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "递归模型",
+   "en": "recursive model",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "递归查询",
+   "en": "recursive query",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "递归估计",
+   "en": "recursive estimation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "递归计算",
+   "en": "recursive computation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "递归例程",
+   "en": "recursive routine",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "递归算法",
+   "en": "recursive algorithm",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "递归论",
+   "en": "recursion theory",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "递归法",
+   "en": "recursion method",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "递归可枚举集合",
+   "en": "Recursively enumerable set",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "原始递归函数",
+   "en": "primitive recursive functions",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
