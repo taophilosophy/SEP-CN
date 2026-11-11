@@ -1,0 +1,26 @@
+{
+ "key": "communitarianism",
+ "term": "communitarianism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T01:42:55+00:00",
+ "status": "ok",
+ "note": "variant=communitarianism; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "社群主义",
+   "en": "communitarianism",
+   "code": "3.6.1.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_政治社会学_政治社会学"
+  },
+  {
+   "cn": "社群主义",
+   "en": "communitarianism",
+   "code": "2.0140000000000002",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医学伦理学的基本理论与基本观点"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

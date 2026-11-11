@@ -1,0 +1,348 @@
+{
+ "key": "competence（医疗与法律语境）",
+ "term": "competence（医疗与法律语境）",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T01:45:56+00:00",
+ "status": "ok",
+ "note": "variant=competence（医疗与法律语境）; 审定公布名词库=10000; 海峡两岸名词对照库=3434; 其他来源数据库=783; 预公布名词数据库=872; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "科学、技术与法律",
+   "en": "science, technology, and law",
+   "code": "07.010",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学、技术与社会_科学、技术与社会概论"
+  },
+  {
+   "cn": "法律",
+   "en": "law",
+   "code": "13.001",
+   "standard": "放射医学与防护名词",
+   "subject": "放射医学与防护_法规与条约_法规与标准"
+  },
+  {
+   "cn": "法律控制",
+   "en": "legal control",
+   "code": "5.047",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为的社会学基础_行为的社会控制"
+  },
+  {
+   "cn": "法律解释",
+   "en": "legal interpretation",
+   "code": "11.0417",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_公共管理_政府管理"
+  },
+  {
+   "cn": "法律事实",
+   "en": "legal matter,juristic fact",
+   "code": "09.0567",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_项目管理与工程管理_采购与合同管理"
+  },
+  {
+   "cn": "罗斯法律",
+   "en": "Russian law",
+   "code": "02.0680",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_东欧"
+  },
+  {
+   "cn": "法律儒家化",
+   "en": "fa lü ru jia hua;the Confucianization of the Law",
+   "code": "1.723",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_通论_学科术语"
+  },
+  {
+   "cn": "法律案例报告",
+   "en": "law report",
+   "code": "03.237",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息资源建设_文献类型"
+  },
+  {
+   "cn": "政策法律因素",
+   "en": "political and legal segment",
+   "code": "01.0609",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_战略管理"
+  },
+  {
+   "cn": "法律意识",
+   "en": "legal consciousness",
+   "code": "13.013",
+   "standard": "心理学名词",
+   "subject": "心理学_法律心理学"
+  },
+  {
+   "cn": "卫生法律",
+   "en": "health law",
+   "code": "10.015",
+   "standard": "全科医学与社区卫生名词",
+   "subject": "全科医学与社区卫生_社区卫生服务管理"
+  },
+  {
+   "cn": "法律地震学",
+   "en": "forensic seismology",
+   "code": "01.0050",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震科学总论"
+  },
+  {
+   "cn": "法律仲裁",
+   "en": "legal arbitration",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "法律意识",
+   "en": "legal consciousness",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "法律责任",
+   "en": "legal obligation",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "法律地理学",
+   "en": "geography of law",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "法律心理学",
+   "en": "psychology of law",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "语境",
+   "en": "context",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "不受法律约束的合同",
+   "en": "contract not subject to legal jurisdiction",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "计算机软件的法律保护",
+   "en": "legal protection of computer software",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "语境机制",
+   "en": "context mechanism",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "统一海难援助和救助某些法律规定公约",
+   "en": "Convention for Unification of Certain Rules of Law Relating to Assistance and Salvage at Sea",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "医疗",
+   "en": "medical care",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "统一船舶碰撞某些法律规定的国际公约",
+   "en": "International Convention for the Unification of Certain Rules of Law with Respect to Collision between Vessels",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "法律",
+   "en": null,
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "法律事实",
+   "en": null,
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "法律风险",
+   "en": "legal risk",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "法律基础",
+   "en": "Legal Basics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "法律主体",
+   "en": "subject of law",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "法律客体",
+   "en": "object of law",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "法律移植",
+   "en": "law transplant",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "法律进化",
+   "en": "evolution of the law",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "法律虚拟",
+   "en": "legal virtualization",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "法律拟制",
+   "en": "legal fiction",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "法律科技",
+   "en": "Lawtech",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "大数据法律",
+   "en": "Big Data Law",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "法律",
+   "en": "law",
+   "code": "2.8.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会制度"
+  },
+  {
+   "cn": "性法律",
+   "en": "law of sex",
+   "code": "3.3.4.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性社会学_性法律"
+  },
+  {
+   "cn": "法律原理",
+   "en": "legal principle",
+   "code": "3.7.7.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_法律社会学_法律多元主义"
+  },
+  {
+   "cn": "法律规则",
+   "en": "legal rule",
+   "code": "3.7.7.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_法律社会学_法律多元主义"
+  },
+  {
+   "cn": "法律文化",
+   "en": "legal culture",
+   "code": "3.7.8.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_法律社会学_法律文化"
+  },
+  {
+   "cn": "法律思想",
+   "en": "legal theory",
+   "code": "3.7.8.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_法律社会学_法律文化"
+  },
+  {
+   "cn": "法律职业",
+   "en": "legal profession",
+   "code": "3.7.8.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_法律社会学_法律文化"
+  },
+  {
+   "cn": "法律责任",
+   "en": "legal liability",
+   "code": "8.6.1.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生监管_卫生监督"
+  },
+  {
+   "cn": "法律儒家化",
+   "en": "confucianization of law",
+   "code": "1.1.2.39",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想"
+  },
+  {
+   "cn": "法律形态",
+   "en": "mode of law",
+   "code": "3.7.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_法律社会学"
+  },
+  {
+   "cn": "法律的演化",
+   "en": "evolution of law",
+   "code": "3.7.6.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_法律社会学_法律的演化"
+  },
+  {
+   "cn": "法律秩序",
+   "en": "legal order",
+   "code": "3.7.6.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_法律社会学_法律的演化"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
