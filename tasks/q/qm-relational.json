@@ -2,8 +2,51 @@
   "slug": "qm-relational",
   "kind": "retranslate",
   "zh_doc": "q/qm-relational.md",
-  "state": "pending",
-  "steps": [],
+  "state": "r1_reviewed",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-11T05:48:03Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "Q-main-20261111",
+      "at": "2026-11-11T07:20:58Z",
+      "evidence": "lq 账本流水线：88 段（body 87 + oir 1）双版齐备（反思两步）；守恒门 HARD=0（修段 44 $ 计数 12→12、段 65 补回展示公式 6→6）；compose 写回 q/qm-relational.md 38,234 字符；H1 与 SUMMARY「关系性量子力学 relational (Carlo Rovelli)」逐字一致；版本行照 baseline pubinfo（2002-02-04 / 2025-02-04）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "Q-main-20261111",
+      "at": "2026-11-11T07:24:53Z",
+      "evidence": "一校（本会话自译，对照 yuanwen 全文核销）：年份多重集 210:210 相等；文献 defs 89:89 键集相等；文内引注 62 组随 [^key] 照录（键集相等）；标题 14 h3 + 7 h2 双侧对位（References/Academic Tools/OIR/Related 照源序）；LaTeX 116 式逐字符照录（唯一改动为 $ 定界符与段 65 公式补全）；术语先登记后使用（本册新增 24 行：关系性量子力学/视角/视角主义/关系主义/原理理论/构造性理论/稀疏本体论/倾向主义/存在结构实在论/优先一元论/反一元论/主体间性/自伴算符/投影公设/普遍波函数/量子引力/分支/相对态/坍缩理论/模态解释/埃弗雷特式等）；源文自身笔误（system A / no analogy 等）照源直译"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "Q-main-20261111",
+      "at": "2026-11-11T07:28:02Z",
+      "evidence": "二校（语言）：check_prose 告警 21→0。实修 19 处 + 补修 2 处：长句拆分 6（§1 导语、§1.1 段落、van Fraassen 段、Dorato 段等）、去被字 3（退相干抑制/变量实现/事件解释）、去弱动词 2（予以放弃/予以强调）、去 de-chain 7（「的」连用密度）、术语化 2（经验到的→经验的等）；bold-spacing 21 处补半角空格（script/fix_bold_space.py）；语体通读：现代汉语学术书面语，破折号均为插入语未切句"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "Q-main-20261111",
+      "at": "2026-11-11T07:30:25Z",
+      "evidence": "三校（体例）：check_style 0 issue；check_math 116 式 0 缺失 0 失衡；check_academic --strict 0 硬错误；check_terms 0 缺译法（Everettian 登记形与正文对齐）；相关词条 9 项自动映射（龙树/属性/量子力学/坍缩理论/埃弗雷特量子力学/模态解释/量子理论的哲学问题/量子纠缠与信息/量子逻辑和概率论）无 NOTE 残留；OIR 11 项题名与说明译出、URL 原样"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "Q-main-20261111",
+      "at": "2026-11-11T07:42:36Z",
+      "evidence": "初审（自译条目的结构+实读复核）：14 h3 + 7 h2 对位；文献 defs 89:89；年份 210:210；公式 116:0 缺失；无图；H1 与 SUMMARY 逐字一致；OIR 11 项齐备；相关词条 9 项映射正确；通读成稿（compose 后回读 1.5/2.1/2.3 各节）未发现 compose 截断或错位。问题分级：Critical 0 / Major 0 / Minor 0"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-08T18:26:12Z",
   "version_pin": {
