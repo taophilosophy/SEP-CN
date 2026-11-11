@@ -2,7 +2,7 @@
   "slug": "ancient-soul",
   "kind": "retranslate",
   "zh_doc": "a/ancient-soul.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,13 @@
       "actor": "task_ops",
       "at": "2026-11-08T14:34:20Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-11T20:10:47Z",
+      "evidence": "ADR-0021 账本 58 段双版补齐（25–58 段本会话新译），lq.py check 守恒 OK；compose 落 a/ancient-soul.md 222 行"
     }
   ],
   "blockers": [],
