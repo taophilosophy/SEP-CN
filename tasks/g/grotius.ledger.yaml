@@ -3,537 +3,715 @@ slug: grotius
 params:
   model: "GLM-5.3-Flash（ZCode 主会话直译）"
   temperature: 0.2
-  batch_segments: all
-  rate_limit_s: 0
-  timeout_s: 60
+  batch_
 segments:
   - id: 1
     kind: body
     source: |-
       Hugo Grotius (1583–1645) [Hugo, Huigh or Hugeianus de Groot] was a towering figure in philosophy, political theory, law and associated fields during the seventeenth century and for hundreds of years afterwards. His work ranged over a wide array of topics, though he is best known to philosophers today for his contributions to the natural law theories of normativity which emerged in the later medieval and early modern periods. This article will attempt to explain his views on the law of nature and related issues while simultaneously providing some broader assessment of his place in the history of ideas.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      胡果·格劳秀斯（Hugo Grotius，1583–1645；又称 Hugo、Huigh 或 Hugeianus de Groot）是十七世纪以及此后数百年间哲学、政治理论、法律及相关领域中一位巨擘。他的著作涉猎广泛，不过今天的哲学家最为熟知的，是他在中世纪晚期与近代早期兴起的规范性自然法理论上的贡献。本文试图解释他关于自然法及相关问题的观点，同时对他在思想史中的地位作一些更广泛的评估。
+    step2: |-
+      胡果·格劳秀斯（Hugo Grotius，1583–1645；又称 Hugo、Huigh 或 Hugeianus de Groot）是 17 世纪哲学、政治理论、法律及相关领域的一代巨擘，其影响延续数百年。他的著作遍及众多题目，而今天治哲学的读者最为熟悉的，是他对规范性自然法理论的贡献，那一传统兴起于中世纪晚期与近代早期。本文拟阐明他关于自然法及相关问题的看法，同时更宽泛地评估他在思想史上的位置。
   - id: 2
     kind: body
     source: |-
       ## 1. Life and Works
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1. Life and Works
+    step2: |-
+      ## 1 生平与著作
   - id: 3
     kind: body
     source: |-
       ### 1.1 Life
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.1 Life
+    step2: |-
+      ### 1.1 生平
   - id: 4
     kind: body
     source: |-
       Prison escapee, high-stakes politician, shipwreck survivor, Grotius was a remarkable man who led a remarkable life. Born on 10 April 1583 in Delft, Holland—Easter Sunday, as his biographers invariably note—his family was moderately prosperous, well-educated and ambitious. From these nourishing if not particularly distinguished origins, Grotius soon proved himself exceptional. When he was eight, he began writing skillful elegies in Latin; by eleven, he was a student in the Faculty of Letters at the University of Leiden. In 1598, at the tender age of fifteen, he accompanied the leading Dutch politician of the day, Johan van Oldenbarnevelt, on an embassy to the royal court of France. There King Henry IV, impressed by his extraordinary learnedness, hailed him as “the miracle of Holland”. And three years later, when the United Provinces decided to reinforce their autonomy from Spain by retaining an official Latin historiographer to chronicle their history, they chose Grotius over Dominicus Baudius, a full professor of rhetoric at Leiden, for the position.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      越狱者、高风险的政治家、海难幸存者，格劳秀斯是个非凡的人，度过了非凡的一生。1583 年 4 月 10 日他生于荷兰代尔夫特，那天是复活节星期日，他的传记作者们总要提到这一点。他的家庭小康、受过良好教育且雄心勃勃。出身于这样虽不显赫却足以滋养人的环境，格劳秀斯很快就显得出类拔萃。八岁时，他已能用拉丁文写出漂亮的哀歌；十一岁时，他已是莱顿大学文学院的学生。1598 年，年方十五的他随当时荷兰政坛的领袖约翰·范·奥尔登巴内费尔特出使法国宫廷。法国国王亨利四世惊叹于他的博学，称他为“荷兰的奇迹”。三年后，联合省决定设置一名官方拉丁文编年史家来记述本邦历史，以加强其相对于西班牙的自主地位；结果他们选中格劳秀斯，而未取莱顿大学修辞学正教授多米尼库斯·鲍杜斯。
+    step2: |-
+      他是越狱的囚徒、押上重注的政治家、海难的幸存者；格劳秀斯一生跌宕，其人非同寻常。1583 年 4 月 10 日，他生于荷兰代尔夫特，恰逢复活节星期日——这一点他的传记作者从不肯略过。他家境小康，家学良好，又志在进取。这样虽不显赫却足以涵养人的出身，很快就衬出格劳秀斯的卓异：八岁能作漂亮的拉丁文哀歌，十一岁已入莱顿大学文学院读书。1598 年，十五岁的他随当时荷兰政坛领袖约翰·范·奥尔登巴内费尔特出使法国宫廷。亨利四世叹服于他的博学，称他是“荷兰的奇迹”。三年后，联合省为彰显其对西班牙的自主，决定设一名官方拉丁文编年史家撰述本邦史事；人选落在格劳秀斯身上，压过了莱顿大学修辞学正教授多米尼库斯·鲍杜斯。
   - id: 5
     kind: body
     source: |-
       In the small world of Dutch high society, Grotius had clearly been identified as a young man going places. While in France, he had earned (or possibly just bought) a law degree from the University of Orléans. After returning to The Hague, he established a law practice and within a short time, his clientele included Oldenbarnevelt, the Dutch East India Company (V.O.C.) and Prince Maurice of Nassau. Apparently he impressed Maurice, for when the position of Attorney General of Holland, Zeeland and West Friesland became available in 1607, the Prince chose him over two other older and more experienced candidates. Grotius didn’t particularly enjoy the practice of law—in letters he voiced complaints familiar to today’s lawyers, bemoaning the tedium of the work and obstreperous clients—so he closed his firm upon being made Attorney General. Perhaps capitalizing on his new position and the healthy salary it paid, he soon married the redoubtable Maria van Reigersbergen, with whom he would eventually have three daughters and four sons.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在荷兰上流社会的小圈子里，格劳秀斯显然已被看作前程远大的青年。在法国期间，他从奥尔良大学取得（也可能只是买得）了法学学位。回到海牙后，他开办律师事务所，不久客户就包括奥尔登巴内费尔特、荷兰东印度公司（V.O.C.）和拿骚的毛里茨亲王。他似乎给毛里茨留下了好印象：1607 年荷兰、泽兰与西弗里西亚检察总长一职出缺，亲王在另两位年长且更有经验的候选人之外选中了他。格劳秀斯并不特别喜欢律师业务，他在书信里发过今日律师也熟悉的牢骚，抱怨工作乏味、客户刁难；因此一被任命为检察总长，他就关掉了事务所。或许是凭着新职位和它带来的丰厚薪俸，他不久娶了令人敬畏的玛丽亚·范·赖格斯贝亨，后来与她生了三个女儿、四个儿子。
+    step2: |-
+      在荷兰上流社会的小圈子里，格劳秀斯早已被看作前程远大的青年。旅居法国期间，他从奥尔良大学取得（也可能只是买得）了法学学位。回到海牙后他开业做律师，不久客户中就有奥尔登巴内费尔特、荷兰东印度公司（V.O.C.）和拿骚的毛里茨亲王。他显然给毛里茨留下了好印象：1607 年荷兰、泽兰与西弗里西亚检察总长一职出缺，亲王放着另两位年长资深的候选人不用，选了他。格劳秀斯并不怎么喜欢律师本行，书信里尽发今日律师也熟悉的牢骚，抱怨工作沉闷、客户难缠；所以一当上检察总长，他便关了事务所。或许是新职位与丰厚薪俸给了他底气，他不久娶了令人生畏的玛丽亚·范·赖格斯贝亨，后来与她生养了三个女儿、四个儿子。
   - id: 6
     kind: body
     source: |-
       After several years as Attorney General, Grotius was appointed Pensionary (roughly equivalent to Governor of an American state) of Rotterdam in 1613. That same year, he was called to put theory into practice when a dispute arose between the English and the Dutch over the freedom of the seas. The details are interesting but complicated: in essence, on the basis of the claim that two Dutch vessels were trespassing on seas owned by England near Greenland, a small British fleet seized the contents of the Dutch ships. Grotius led a delegation to England in protest of the English actions. While history may have favored Grotius—his view that the seas are open to all would eventually come to be international law—real politick made victory impossible for him at the time. The English were more powerful than the Dutch, and they neither returned the cargo nor conceded the legal point.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      任检察总长数年后，格劳秀斯于 1613 年被任命为鹿特丹议政官（大致相当于美国一个州的州长）。同年，英荷两国因海洋自由发生争端，他由此奉命把理论付诸实践。细节有趣而曲折：简言之，英方声称两艘荷兰船只在格陵兰附近侵入了英国的海域，一支英国小舰队遂扣押了荷兰船上的货物。格劳秀斯率团赴英，抗议英方的行动。历史也许站在格劳秀斯一边，他关于海洋向所有人开放的主张终将成为国际法；但现实政治使他当时不可能获胜。英国比荷兰强大，既不归还货物，也不在法律争点上让步。
+    step2: |-
+      做了几年检察总长，格劳秀斯于 1613 年出任鹿特丹议政官（大致相当于美国一个州的州长）。同年英荷两国为海洋自由起了争执，他由此奉命把理论付诸实践。事情的经过有趣却也曲折，简言之：英方称两艘荷兰船只侵入格陵兰附近的英国海域，一支英国小舰队于是扣押了船上的货物。格劳秀斯率代表团赴英抗议。历史也许站在他这一边，他主张海洋向所有人开放，日后终于成为国际法；可当时的现实政治不容他取胜：英国强于荷兰，既不肯归还货物，也不肯在法律争点上松口。
   - id: 7
     kind: body
     source: |-
       1613 may have carried some excitement but the end of the decade was one of the true zeniths (or nadirs, depending on one’s perspective) of Grotius’ life. A dispute between orthodox Calvinists and reformers over arcane theological matters which no longer seem important to us quickly assumed enormous political significance. Grotius, Oldenbarnevelt and other supporters of religious tolerance were aligned on the side with the reformers or “Remonstrants”; Maurice, the Calvinist establishment and other so-called “Contra-Remonstrants” were on the other. On 29 August 1618, Maurice and his allies staged a coup, overthrowing the States General (of which Grotius was a member by virtue of his position as Pensionary of Rotterdam) and imprisoning him along with Oldenbarnevelt and Rombout Hoogerbeets, the Pensionary of Leiden. Consolidating his grip on power, Maurice soon moved to eliminate the Remonstrants and their supporters in government; as part of this putsch, Oldenbarnevelt was executed and Grotius and Hoogerbeets were sentenced to life imprisonment. It would be overly dramatic to say Grotius languished there: he was allowed to correspond with outsiders; moreover, he had books and writing materials, and indeed he composed much important work during this time. But the cold and damp cell was far from pleasant and there was the looming danger that the authorities would revisit his case and impose an even harsher punishment. So in March 1621, Grotius and his wife Maria decided enough was enough. Placing himself in a large trunk that Maria had shipped to him, Grotius escaped prison by having the trunk carried out on the pretense that it contained a number of books. He fled to Antwerp and thence to Paris, where his family eventually joined him.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1613 年也许有些刺激，但那个十年之末才是格劳秀斯一生真正的顶点（或者说最低点，视立场而定）之一。正统加尔文派与改革派之间就如今看来已无关紧要的晦涩神学问题发生争执，很快获得了巨大的政治意义。格劳秀斯、奥尔登巴内费尔特等宗教宽容的支持者站在改革派即“抗辩派”一边；毛里茨、加尔文派当权集团以及其他所谓的“反抗辩派”则在另一边。1618 年 8 月 29 日，毛里茨及其盟友发动政变，推翻三级会议（格劳秀斯因任鹿特丹议政官而是其成员），将他与奥尔登巴内费尔特、莱顿议政官隆布特·霍赫贝茨一并监禁。毛里茨随即着手清除抗辩派及其在政府中的支持者，以巩固权位；作为这场政变的一部分，奥尔登巴内费尔特被处死，格劳秀斯与霍赫贝茨被判终身监禁。说格劳秀斯在狱中憔悴不堪，未免过于戏剧化：他获准与外界通信，还有书籍和写作用具，事实上他在此期间写成了许多重要作品。但那间牢房阴冷潮湿，实在谈不上舒适，而且始终有一种逼近的危险：当局可能重审他的案子，加重刑罚。于是 1621 年 3 月，格劳秀斯与妻子玛丽亚决定不能再忍。他把自己装进玛丽亚为他运来的大木箱，让人把箱子抬出监狱，假称里面装的是一批书，就这样越狱。他先逃到安特卫普，再转往巴黎，家人最终也来与他团聚。
+    step2: |-
+      1613 年或许颇有几分激荡，但那个十年之末才真正是格劳秀斯一生的顶点之一，或者说是谷底，全看从哪一面看。正统加尔文派与改革派为一些晦涩的神学问题起了争执，那些问题在今天看来已无关紧要，当时却很快闹出巨大的政治分量。格劳秀斯、奥尔登巴内费尔特等主张宗教宽容的人站在改革派即“抗辩派”一边；毛里茨、加尔文派当权集团以及其他所谓“反抗辩派”则在另一边。1618 年 8 月 29 日，毛里茨与党羽发动政变，推翻三级会议（格劳秀斯以鹿特丹议政官的身分列名其中），把他连同奥尔登巴内费尔特、莱顿议政官隆布特·霍赫贝茨一起下狱。毛里茨随即铲除抗辩派及其在政府中的党羽，以固权位：奥尔登巴内费尔特被处死，格劳秀斯与霍赫贝茨被判终身监禁。若说格劳秀斯在狱中形销骨立，那是渲染过甚：他获准与狱外通信，还有书和纸笔，不少重要著作正是此期写成的。但那间牢房阴冷潮湿，实在不好过，何况始终悬着一重危险：当局随时可能重审他的案子，加重刑罚。1621 年 3 月，格劳秀斯与妻子玛丽亚觉得再不能忍。他钻进玛丽亚为他运进监狱的一只大木箱，托言箱中装的是书，让人把箱子抬出牢门，就此脱身。他先逃往安特卫普，再转赴巴黎，家人后来也前来相聚。
   - id: 8
     kind: body
     source: |-
       Now began a more stable and productive period. The French authorities welcomed Grotius by awarding him an annual pension which, while not always paid, at least gave the promise of security. He began composition of *De iure belli ac pacis* (*On the law of war and peace*), which was published by a Parisian press in 1625. It quickly made Grotius famous: for example, in a letter to Grotius, Vossius says that Descartes told him that he had recently met the Dutchman (in reply, Grotius wrote that he didn’t remember meeting Descartes, an indication of their relative stature at the time). Perhaps encouraged by the reception of his work, Grotius tried returning to the Netherlands in 1631. Initially, he may have had reason to be optimistic: after practicing law for a little while in Amsterdam, he was offered the Governor Generalship of the V.O.C. in Asia. Soon enough, however, the authorities moved against him, placing a large price on his head and forcing him in April 1632 to flee his home country. Grotius would never set foot there again.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由此开始了一段更稳定、更多产的时期。法国当局接纳了格劳秀斯，给他一笔年金；年金虽不总是按时发放，至少让人有安全感之望。他动笔写作 *De iure belli ac pacis*（《战争与和平法》），该书 1625 年由巴黎一家出版社刊行。此书很快使格劳秀斯名声大振：例如沃西乌斯在给格劳秀斯的信中说，笛卡尔告诉他最近见过这位荷兰人（格劳秀斯回信说，他不记得见过笛卡尔，这可见两人当时地位的高下）。或许是受到著作反响的鼓舞，格劳秀斯 1631 年试图返回尼德兰。起初他也许有理由乐观：在阿姆斯特丹执业一段时间后，他获聘为东印度公司亚洲总督。但当局很快对他动手，悬重赏通缉，迫使他于 1632 年 4 月逃离故国。格劳秀斯此后再未踏上故土。
+    step2: |-
+      自此他进入一段较为安稳也较为多产的时期。法国当局接纳了他，授予一笔年金；年金固然时常拖欠，至少让人有望安稳度日。他开始撰写 *De iure belli ac pacis*（《战争与和平法》），1625 年由巴黎一家出版社刊行。此书一出，格劳秀斯顿时声名鹊起：沃西乌斯曾在信中转告，笛卡尔说最近见过这位荷兰人；格劳秀斯的回信却说，他不记得见过笛卡尔，两人当时的地位高下，由此可见。或许是著作的反响给了他勇气，格劳秀斯 1631 年试图重返尼德兰。起初他确有理由乐观：在阿姆斯特丹执业不久，东印度公司便请他出任亚洲总督。谁知当局很快向他下手，悬赏重金通缉，逼他于 1632 年 4 月逃离故国。此后再未踏上故土。
   - id: 9
     kind: body
     source: |-
       This time, he went to Hamburg, Germany. Nearby Sweden (one of the superpowers of the day) had numerous connections to the city, which made it quite natural for Swedish authorities to notice the presence and availability for hire of such a luminary. Moving to take advantage of the situation, they made him their Ambassador to France in 1634. Grotius began his diplomatic duties in Paris the following year. It is hard to gauge his success as ambassador: while he did help to negotiate a treaty which led to the end of the Thirty Years’ War, he could also be outmaneuvered in the diplomatic game—at one point, his bumbling forced the Swedish Chancellor Axel Oxenstierna to come to Paris and sort things out. Still, such stories notwithstanding, it is true that he lasted ten years in one of the highest and most demanding diplomatic postings of his day.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一次他去了德意志的汉堡。近旁的瑞典（当时的超级大国之一）与这座城市联系众多，瑞典当局自然不难注意到这样一位人物就在此地、可以聘用。他们抓住机会，于 1634 年任命他为驻法国大使。格劳秀斯次年在巴黎开始履行外交职务。他做大使是否成功，很难衡量：他确实参与谈判了一项条约，促成了三十年战争的结束；但他在外交博弈中也常被人算计，有一次他的笨拙迫使瑞典首相阿克塞尔·奥克森谢尔纳亲赴巴黎收拾局面。尽管如此，尽管有这类传闻，他在当时最高、最艰巨的外交职位之一上确实干了十年。
+    step2: |-
+      这次他去了德意志的汉堡。近处的瑞典是当时的超级大国之一，与汉堡往来密切，瑞典当局自然不难听说这样一位人物就在近旁，可以礼聘。他们抓住时机，1634 年任命他为驻法国大使。次年，格劳秀斯在巴黎开始履职。他当大使是否成功，实在难以评说：他确实参与谈判了一项促成三十年战争终结的条约；可他在外交场上也屡屡受制于人，有一次还因行事笨拙，逼得瑞典首相阿克塞尔·奥克森谢尔纳亲赴巴黎收拾残局。尽管有这类故事，他在当时最高、最艰巨的外交职位之一上毕竟撑持了十年。
   - id: 10
     kind: body
     source: |-
       During this time, Grotius returned to the theological issues which had earlier caused him such grief. The project of Christian unity—harmonizing both the various Protestant factions and the Protestants with the Catholics—became increasingly important to him. Both intellectually and practically, it was a task which suited him and his place in life: intellectually, because Christian unity raised many conceptual puzzles which challenged his mind; practically, because as ambassador for one of the great European powers, he could use his position to press the cause. Of course, the cause was doomed to failure—certainly, it was well beyond Grotius’ abilities. Yet, it did lead him to write some extremely interesting and influential works, many of which were collected in his *Opera Omnia Theologica*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在此期间，格劳秀斯又回到了早年使他饱受困扰的神学问题。基督教统一的事业，既调和各新教派别、又调和新教徒与天主教徒，对他越来越重要。无论从思想还是从实践看，这项任务都适合他和他所处的地位：就思想而言，基督教统一引出了许多概念难题，正可磨砺他的头脑；就实践而言，作为欧洲一大强国的使节，他可以借职位推动这项事业。当然，这项事业注定失败，也确非格劳秀斯的能力所及。但它确实促使他写下了一些极有趣味、极有影响的作品，其中许多收在 *Opera Omnia Theologica* 中。
+    step2: |-
+      这一时期，格劳秀斯重新拾起早年令他吃尽苦头的神学问题。他所念兹在兹的，是基督教统一的事业：既要调和各新教派别，也要调和新教徒与天主教徒。这项任务于他可谓相宜，无论就思想还是就身份而言：思想上，基督教统一牵出许多概念难题，正好磨他的脑筋；身份上，他既是欧洲大国的使节，便可借职位为这项事业出力。当然，这事业注定失败，也远非格劳秀斯所能胜任。但它毕竟催生了几部极有趣、极有影响的作品，其中不少收入 *Opera Omnia Theologica*。
   - id: 11
     kind: body
     source: |-
       After Queen Christina ascended to the throne in 1644, she systematically began to undermine her rival Oxenstierna and—as part of this infighting—recalled Grotius from his ambassadorship. She didn’t fire him; instead, she instructed him to come to Stockholm and assume a different position. At first, Grotius didn’t want to go, but bowing to the force of royal prerogative (not to mention economic necessity), he set sail for Stockholm in March 1645. It was a fateful decision: traveling conditions on the Baltic in late winters can be harsh; his ship wrecked and Grotius barely escaped with his life. After spending a few months in Sweden, he decided to return to Germany and so undertook another voyage. Again, conditions were poor; it took eight long days to cross the relatively narrow stretch of water. This time, it was too much: weakened by recent events, Grotius died on 28 August 1645, in Rostock, Germany. While they are probably apocryphal, his supposed last words—“By attempting many things, I have accomplished nothing”—do evoke the span of his life’s work and his personal assessment of the results.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      克里斯蒂娜女王 1644 年登基后，开始有计划地削弱对手奥克森谢尔纳，并在内斗中把格劳秀斯从大使任上召回。她并未将他免职，而是命他赴斯德哥尔摩改任他职。格劳秀斯起初不愿去，但屈从于王室特权（更不用说经济上的困窘），他于 1645 年 3 月乘船前往斯德哥尔摩。这是个决定命运的选择：晚冬波罗的海的航行条件可能极为恶劣；他的船失事，格劳秀斯险些丧命。在瑞典逗留数月后，他决定返回德意志，于是又启航一次。天气依然恶劣，穿越那段并不宽阔的水域整整花了八天。这一次他再也撑不住了：接连的变故使他身体虚弱，格劳秀斯于 1645 年 8 月 28 日病逝于德意志的罗斯托克。他所谓的临终遗言——“事事尝试，一事无成”——大概出于传闻，但确实道出了他毕生事业的跨度以及他对自己成果的自我评价。
+    step2: |-
+      1644 年克里斯蒂娜女王登基，随即有计划地打压对手奥克森谢尔纳，并在这场内斗中把格劳秀斯从大使任上召回。她没有撤他的职，只是命他到斯德哥尔摩另行任职。格劳秀斯起初不愿去，终究拗不过王权的强制，何况还有生计的窘迫，便于 1645 年 3 月乘船赴斯德哥尔摩。这是决定命运的一步：波罗的海晚冬的航程向来凶险，他的船失事，格劳秀斯勉强保住性命。在瑞典住了几个月，他决定返回德意志，于是又登船一次。天不作美，穿过那段并不宽的水域竟耗了八天。这一回他再也撑不住：连番折腾已耗尽他的体力，1645 年 8 月 28 日，格劳秀斯病逝于德意志罗斯托克。他那句据说是临终之言的话——“事事尝试，一事无成”——大约出于传闻，却恰可概括他毕生事业的范围，以及他对自己成果的评价。
   - id: 12
     kind: body
     source: |-
       ### 1.2 Works
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.2 Works
+    step2: |-
+      ### 1.2 著作
   - id: 13
     kind: body
     source: |-
       Given that he led such an active public life while also raising a large family, the sheer quantity of Grotius’ works is nothing short of astonishing. Typical, for him, was the time of his embassy to France early in his life. The same year as the embassy, he published *Pontifex Romanus*, a collection of six essays on recent political events. While working on this, he produced what are in essence critical editions of two works: the *Phaenomena*, an astronomical work of the third century BCE by Aratus of Soli, and Martianus Capella’s handbook of the seven liberal arts. He also began research on a history of the Netherlands, research would which much later would result in the *Annales et Historiae de Rebus Belgicis*. And he did all this while still in his late teens. Over the full course of his life, Grotius would write or edit some five-dozen book-length works and innumerable smaller pieces.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      格劳秀斯公务繁忙，又要养育一大家人，其著作数量之多着实惊人。他早年出使法国那段时间就很典型。出使的同年，他出版了 *Pontifex Romanus*，收录六篇论近期政治事件的随笔。写作此书的同时，他还校订了两部作品，实质上等于做出了校勘本：一部是公元前三世纪索利的阿拉图斯的天文著作 *Phaenomena*，一部是马蒂亚努斯·卡佩拉的七艺手册。他还着手研究尼德兰史，这项研究很久以后成了 *Annales et Historiae de Rebus Belgicis*。这一切都是在他不到二十岁时做的。纵观一生，格劳秀斯撰写或编订了约六十部书稿，另有无数短篇。
+    step2: |-
+      格劳秀斯公务繁忙，家里又子女成群，著作数量却多得出奇。他早年出使法国的那段日子就是例子。出使当年，他刊行了 *Pontifex Romanus*，内收六篇论近期政局的随笔。与此同时，他还替两部书做了校订，实际等于校勘本：一部是公元前三世纪索利的阿拉图斯的天文著作 *Phaenomena*，一部是马蒂亚努斯·卡佩拉的七艺手册。他还动笔研究尼德兰史，多年之后结出 *Annales et Historiae de Rebus Belgicis*。这一切都完成于他不到二十岁时。终其一生，格劳秀斯撰写或编订的书稿约六十部，短文更不计其数。
   - id: 14
     kind: body
     source: |-
       To philosophers and the philosophically-minded, two of these stand out: *De iure praedae commentarius* (*Commentary on the law of prize and booty*, henceforth referred to as “*DIP*”) and *De iure belli ac pacis* (“*DIB*”). The former was almost lost. Placed in a trunk sometime during or after his life, the sole manuscript copy was uncovered when some of his descendants sold a collection of his papers in 1864 (for an account of these events, see Knight 1925: Chap. 5 and van Ittersum 2006)[^knight-1925][^ittersum-2006]. It was apparently commissioned by the V.O.C. around 1603. In it, Grotius was to defend the capture of a large Portuguese merchant ship by a V.O.C. fleet in the area around modern-day Singapore. The key legal and conceptual question was whether any private agent (such as the V.O.C.) could legitimately employ force against another private agent which was impeding its actions (see Tuck 1993: 170)[^tuck-1993]. But it also had an important propagandistic objective, which was to defame the Portuguese (and Spanish) while extolling the V.O.C. and Dutch (for more on the general historical context of the *DIP*, see van Ittersum 2002)[^ittersum-2002]. Modern philosophical readers will find the “Prolegomena” of Chapter Two especially interesting, since that is where Grotius lays out his views on the nature and bases of rights. While Grotius chose not to publish this or most of the manuscript, he did see Chapter Twelve into press. Given the title *Mare Liberum* (*On the freedom of the seas*), it was both influential and controversial: among others, the Englishman John Selden published a critical reply.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对哲学家和爱好哲学的人来说，其中两部格外重要：*De iure praedae commentarius*（《捕获法评注》，下文简称“*DIP*”）和 *De iure belli ac pacis*（“*DIB*”）。前者几乎失传。它在他生前或身后的某个时候被放进一只箱子，唯一的手稿本直到 1864 年他的后人出售一批文稿时才被发现（关于这段经过，见 Knight 1925: Chap. 5 与 van Ittersum 2006）[^knight-1925][^ittersum-2006]。此书显然是荷兰东印度公司约在 1603 年委托撰写的。格劳秀斯要在书中为东印度公司舰队在今日新加坡一带俘获一艘葡萄牙大商船作辩护。关键的法律与概念问题是：任何私人主体（如东印度公司）是否可以合法地对另一个妨碍其行动的私人主体使用武力（见 Tuck 1993: 170）[^tuck-1993]。但此书还有一个重要的宣传目标，即诋毁葡萄牙人（以及西班牙人），同时颂扬东印度公司与荷兰人（关于 *DIP* 的一般历史背景，详见 van Ittersum 2002）[^ittersum-2002]。现代哲学读者会觉得第二章的“序言”特别有意思，因为格劳秀斯正是在那里阐述了他关于权利之性质与根据的看法。格劳秀斯决定不发表此书或书稿的大部分，但他确实让第十二章付梓。该章题为 *Mare Liberum*（《海洋自由论》），既有影响又引起争议：英格兰人约翰·塞尔登等人就出版了批驳文字。
+    step2: |-
+      在哲学家与爱好哲学的人看来，其中两部格外要紧：*De iure praedae commentarius*（《捕获法评注》，下文简称“*DIP*”）与 *De iure belli ac pacis*（“*DIB*”）。前者几乎失传：书稿在他生前或身后的某个时候被塞进一口箱子，直到 1864 年他的后人变卖一批文稿，这部仅存的手稿才重见天日（经过见 Knight 1925: Chap. 5 与 van Ittersum 2006）[^knight-1925][^ittersum-2006]。此书显然是荷兰东印度公司约 1603 年委托撰写的，格劳秀斯在书中为东印度公司舰队在今日新加坡一带劫获一艘葡萄牙大商船辩护。关键的法律与概念问题是：私人主体（如东印度公司）能否合法地对妨碍其行动的另一私人主体动用武力（见 Tuck 1993: 170）[^tuck-1993]。此书另有一重宣传用意：诋毁葡萄牙人（连带西班牙人），抬举东印度公司与荷兰人（*DIP* 的整体历史背景详见 van Ittersum 2002）[^ittersum-2002]。今天的哲学读者会觉得第二章的“序言”尤其可读，因为格劳秀斯正是在那里铺陈了他关于权利之性质与根据的见解。格劳秀斯没有发表全书，连大部分手稿也未付印，却让第十二章见了读者。此章题为 *Mare Liberum*（《海洋自由论》），影响与争议兼有：英格兰人约翰·塞尔登等人纷纷著文驳难。
   - id: 15
     kind: body
     source: |-
       Whatever the merits of the *DIP*, it is on the *DIB* that the bulk of Grotius’ reputation rests. It consists of an introduction and three books, totaling more than 900 pages in translation. As with *DIP*, the introduction or “Prolegomena” holds the greatest interest for philosophers, for it is here that Grotius articulates and defends the philosophical foundations of the *DIB*. While philosophers are naturally attracted to the “Prolegomena”, the body of the *DIB* is also redolent with themes of philosophical interest. Book One defines the concept of war, argues for the legitimacy of war, and identifies who may legitimately wage war. Book Two deals with the causes of war, the origins of property, the transfer of rights and more, while Book Three is dedicated primarily to the rightful conduct of belligerents in war. After the initial publication in 1625, Grotius ushered several more editions to press during his life, each time adding more references without substantially changing the arguments. (A word of explanation about citations to the *DIB* they commonly take the form of book, chapter, section and—where applicable—paragraph; so, “I.1.10.1” means “Book One, Chapter One, Section Ten, Paragraph One”.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      无论 *DIP* 有何价值，格劳秀斯的名声大半系于 *DIB*。该书包括一篇导论与三卷正文，译本篇幅超过九百页。与 *DIP* 一样，导论即“序言”最能引起哲学家的兴趣，因为格劳秀斯在此阐明并捍卫 *DIB* 的哲学基础。哲学家自然偏爱“序言”，但 *DIB* 正文也处处可见哲学意味的论题。第一卷界定战争的概念，论证战争的正当性，并指明谁可以合法地发动战争。第二卷讨论战争的原因、所有权的起源、权利的转让等，第三卷则主要论交战方在战争中的正当行为。1625 年初版之后，格劳秀斯生前又推出数版，每次都增添引证，而未实质改动论证。（关于 *DIB* 的引证体例略作说明：通常依次标卷、章、节，必要时加段；因此“I.1.10.1”意为“第一卷第一章第十节第一段”。）
+    step2: |-
+      无论 *DIP* 价值如何，格劳秀斯的名声大半系于 *DIB*。此书由一篇导论与三卷正文构成，译本逾九百页。与 *DIP* 一样，最引哲学家注目的是导论即“序言”，格劳秀斯在此陈明并捍卫 *DIB* 的哲学基础。哲学家固然偏爱“序言”，*DIB* 正文也满是哲学意味的题目：第一卷界定战争的概念，论证战争可以正当，并指明谁有资格合法开战；第二卷论战争的原因、所有权的起源、权利的转让等；第三卷则专论交战方在战争中的正当行为。1625 年初版之后，格劳秀斯生前又陆续推出数版，每次都增补引证，论证则无实质改动。（*DIB* 的引证体例需略作说明：通常依卷、章、节标注，必要时再加段；故“I.1.10.1”意即“第一卷第一章第十节第一段”。）
   - id: 16
     kind: body
     source: |-
       ## 2. Method
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2. Method
+    step2: |-
+      ## 2 方法
   - id: 17
     kind: body
     source: |-
       The first reaction of many readers is to the very style of Grotius’ prose. So before getting to his ideas and arguments, a few words should be said his method, both in the *DIP* and the *DIB*. There are of course differences between the two works. However, the connection between them is ably described by Straumann:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      许多读者的第一反应，针对的是格劳秀斯文章的风格本身。因此在讨论他的观念与论证之前，应先就他在 *DIP* 与 *DIB* 中的方法说几句。两部作品之间当然有差异。不过施特劳曼对两者的关联有过精当的说明：
+    step2: |-
+      不少读者最先注意到的，是格劳秀斯行文风格的独特。所以，在进入他的观念与论证之前，先就他在 *DIP* 与 *DIB* 中所用的方法略说几句。两部著作当然并不相同，但两者的关联，施特劳曼有一段精当的说明：
   - id: 18
     kind: body
     source: |-
       > Although *De iure belli ac pacis* was written under fundamentally different circumstances from *De iure praedae*, its main teachings... can be understood as an elaborated version of the earlier work. (2015: 212)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 尽管 *De iure belli ac pacis* 的写作环境与 *De iure praedae* 根本不同，其主要学说……仍可理解为前一部作品的展开版本。（2015: 212）
+    step2: |-
+      > 尽管 *De iure belli ac pacis* 的写作环境与 *De iure praedae* 大不相同，其主要学说……仍可看作前一部作品的扩充版。（2015: 212）
   - id: 19
     kind: body
     source: |-
       So we can take the crucial aspects of the two works, which includes their methods, to be at minimum consistent and at maximum merely different expressions of the same basic underlying set of convictions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，我们可以认为两部作品的关键方面（包括其方法）至少是彼此一致的，至多是同一套基本信念的不同表达。
+    step2: |-
+      由此可以说，两部作品的关键方面（方法也在其中），至少彼此一致，至多不过是同一套底定信念的两种说法。
   - id: 20
     kind: body
     source: |-
       Now, as we think about the method employed in the two works, we find several distinct issues. First and most obviously, there is the question of what we should make of the voluminous references to ancient, medieval and early modern works which can be found in the margins of both books. Some have taken a rather dim view of them; in a scornful passage of *Émile*, Rousseau wrote:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在考察两部作品所用的方法，可以发现若干不同的问题。首先是也最明显的是：两书页边大量征引古代、中世纪与近代早期著作，我们该如何看待这些引证？有人对此评价不高；卢梭在《爱弥儿》中有一段轻蔑的议论：
+    step2: |-
+      细看两部作品所用的方法，可以看出几个彼此独立的问题。最明显的是头一个：两书页边密密麻麻地征引古代、中世纪与近代早期的著作，这些引证应当如何理解？有人对它们颇为不屑，卢梭在《爱弥儿》（*Émile*）里就有一段刻薄的议论：
   - id: 21
     kind: body
     source: |-
       > True political theory [*le droit politique*] is yet to appear, and it is to be presumed that it never will. Grotius, the master of all the savants in this subject, is but a child; and, what is worse, a dishonest child [*enfant de mauvaise foi*]. When I hear Grotius praised to the skies and Hobbes covered with execration I see how far sensible men read or understand these two authors. The truth is that their principles are exactly the same: they only differ in their expression. They also differ in their method. Hobbes relies on sophisms, and Grotius on the poets; all the rest is the same. (Rousseau 1762: Bk 4 [1915: vol. II, 147])[^rousseau-1762][^rousseau-1762-2]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 真正的政治理论［*le droit politique*］尚待出现，而且可以预料它永远不会出现。格劳秀斯，这门学问中所有博学之士的宗师，不过是个孩子；更糟的是，是个不诚实的孩子［*enfant de mauvaise foi*］。当我听见人们把格劳秀斯捧上天、却把霍布斯骂得狗血淋头，我就知道明白人读这两位作者能读到什么程度、又能读懂多少。实情是：两人的原则完全相同，只是表述不同。方法也不同：霍布斯靠诡辩，格劳秀斯靠诗人；其余都一样。（Rousseau 1762: Bk 4 [1915: vol. II, 147]）[^rousseau-1762][^rousseau-1762-2]
+    step2: |-
+      > 真正的政治理论［*le droit politique*］尚待问世，而且大概永远不会问世。格劳秀斯，这门学问中所有博学之士的宗师，不过是个孩子；更糟的是，是个不诚实的孩子［*enfant de mauvaise foi*］。我听见人们把格劳秀斯捧上天、却把霍布斯骂得狗血淋头，就知道明白人读这两位作者能读到什么地步、又能读懂多少。实情是：两人的原则完全相同，只是说法不同；方法也不同：霍布斯靠诡辩，格劳秀斯靠诗人；其余都一样。（Rousseau 1762: Bk 4 [1915: vol. II, 147]）[^rousseau-1762][^rousseau-1762-2]
   - id: 22
     kind: body
     source: |-
       It would be absurd to deny that Grotius does rely “on the poets”—after all, he said in the “Prolegomena” to the *DIB* that “the testimony of philosophers, historians, poets, finally also of orators” will be used to “prove the existence of this law of nature” (§40). Arguments from authority carried great weight for him: the more *illuminati* one could cite, the better for one’s argument. Philosophers today may not be impressed by such arguments, though they can be instructive to historians of philosophy. By studying Grotius’ use of texts, one can learn how they were interpreted in the early modern period—and this can unlock one of the many barriers to understanding that time.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      要说格劳秀斯不倚重“诗人”，那是荒谬的；他毕竟在 *DIB* 的“序言”里说过，将用“哲学家、历史学家、诗人，最后还有演说家的证词”来“证明这种自然法的存在”（§40）。权威论证对他说来分量极重：能引的 *illuminati* 越多，论证就越好。今天的哲学家或许不为这类论证所动，但它们对哲学史家却颇有教益。研究格劳秀斯如何使用文本，可以了解这些文本在近代早期如何被解读，而这也可能打开理解那个时代的诸多障碍之一。
+    step2: |-
+      否认格劳秀斯倚重“诗人”，显然荒谬：他在 *DIB* 的“序言”中明言，要用“哲学家、历史学家、诗人，最后还有演说家的证词”来“证明这种自然法的存在”（§40）。权威论证于他分量极重：能引的 *illuminati* 越多，论证越有力量。今天的哲学家未必买这类论证的账，哲学史家却能从中得到教益：细看格劳秀斯怎样用文本，可以窥见这些文本在近代早期是怎样被读解的，而读解方式本身，正是理解那个时代的许多关隘之一。
   - id: 23
     kind: body
     source: |-
       But is there more to his citations of these texts than just a perhaps overly respectful attitude toward authority? Most scholars think there is, though they are divided on what it might be. One possibility is that they reflect Grotius’ commitment to the idea of *philosophia perennis*. Like Leibniz a few decades later, Grotius thought there were elements of truth in virtually all great thinkers. He writes,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但他对这些文本的征引，除了或许过分恭敬的权威态度而外，是否还有别的意味？多数学者认为有，只是对其所指意见分歧。一种可能是：这些引证反映了格劳秀斯对 *philosophia perennis*（永恒哲学）这一观念的笃信。与数十年后的莱布尼茨一样，格劳秀斯认为几乎所有伟大思想家那里都有真理的成分。他写道：
+    step2: |-
+      然而，他如此频密地引用这些文本，除了对权威也许过于恭敬之外，是否还有别的用意？多数学者相信有，只是对其中的用意各执一说。一种可能是：这些引证透露了格劳秀斯对 *philosophia perennis*（永恒哲学）的笃信。与几十年后的莱布尼茨一样，他相信几乎每一位大思想家那里都有真理的成分。他写道：
   - id: 24
     kind: body
     source: |-
       > I quote them as witnesses whose conspiring testimony, proceeding from innumerable different times and places, must be referred to some universal cause. (*DIB* Prol. §40)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我引他们作证人；他们的证词彼此吻合，来自无数不同的时代与地方，必当归因于某种普遍的原因。（*DIB* 序言 §40）
+    step2: |-
+      > 我引他们作证人；他们的证词彼此吻合，来自无数不同的时代与地方，必当归于某种普遍的原因。（*DIB* 序言 §40）
   - id: 25
     kind: body
     source: |-
       His job as heir to ideas of the great dead is to combine or synthesize them into a single unified theory. And doing that requires him to draw on them as frequently as possible.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      作为伟大先贤思想的继承者，他的任务是把这些思想综合、融会为单一的统一理论。而要这样做，就需要尽可能频繁地取资于他们。
+    step2: |-
+      身为先贤思想的继承者，他的任务是把这些思想综合融会成一套统一的理论；而要这样做，就得尽可能多地取资于他们。
   - id: 26
     kind: body
     source: |-
       Another suggestion sees Grotius as deeply concerned to refute scepticism about international law. Grotius was upset when the powerful French Cardinal Richelieu told him, “the weakest are always wrong in matters of state”. How is it that he can convince doubters such as Richelieu of the existence and force of a set of norms governing the conduct of governments both domestically and internationally? The argument will never be easily won but the burden may be lightened by sharing the load. If Grotius can show that so many people throughout history have accepted what the sceptic denies, then perhaps the force of numbers may change the sceptic’s mind.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一种看法认为，格劳秀斯深感有必要驳斥对国际法的怀疑论。当权倾一时的法国枢机黎塞留对他说“在国家事务上，最弱者总是错的”时，格劳秀斯很不快。他要怎样才能说服黎塞留这样的怀疑者，使他们相信存在一套约束政府内外行为的规范，并且这套规范有其效力？这场论辩从来不易取胜，但若众人分担，担子便可轻些。假如格劳秀斯能表明，历史上有那么多人接受了怀疑者所否认的东西，那么人数的力量或许能改变怀疑者的想法。
+    step2: |-
+      另一种看法认为，格劳秀斯一心想驳倒对国际法的怀疑论。法国枢机黎塞留权倾一时，曾对他说“在国家事务上，弱者总是错的”，格劳秀斯为此愤愤不平。他要如何说服黎塞留这样的怀疑者，让他们相信确有一套规范制约政府的内政与外交，并且确有约束力？这场论辩绝难轻易取胜，但若众人分担，担子总可轻些。只要格劳秀斯能表明，古往今来众多的人都接受怀疑者所否认的东西，那么人数的分量或许能改变怀疑者的主意。
   - id: 27
     kind: body
     source: |-
       Quite apart from the questions posed by the marginalia, an entirely different aspect of Grotius’ method concerns his refusal to divide ethics, politics and law into separate subjects. These days, compartmentalization is the norm; ordinarily, we study one of these subjects while paying scant attention to the others. Now, it is true that Grotius does often identify ways in which legal norms differ from moral or political ones (see, e.g., the discussion of laws at the beginning of *DIB* I.1). At the same time, he does not think that law, politics and ethics are entirely distinct domains. If one reads Grotius with the expectation that he will keep them apart, one will likely be befuddled by the way he ignores distinctions which are important to us. It may help to know that he does this because he is interested in picking out the fundamental principles which lie at the basis of *all* normativity, not just a portion thereof. He cannot talk just about ethics, say, because his views on ethics are informed by his views on politics and the law. A fundamental tenet of his thought is that moral, political and legal norms are all based on laws derived from or supplied by nature.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除了页边注引出的问题之外，格劳秀斯方法的另一个完全不同的方面，是他拒绝把伦理学、政治学与法学分成各自独立的学科。如今分门别类是常规，我们通常研究其中一门，而很少留意其余。诚然，格劳秀斯也常常指出法律规范与道德规范或政治规范的不同之处（例如见 *DIB* I.1 开头关于法律的讨论）。但同时，他并不认为法律、政治与伦理是完全不同的领域。假如读者抱着他会把这些领域彼此分开的预期去读，多半会对他漠视那些于我们十分重要的区分感到困惑。知道这一点或许有帮助：他之所以如此，是因为他关心的是找出位于**一切**规范性之基础的根本原则，而不只是其中一部分。比方说，他不能只谈伦理学，因为他的伦理观受其政治观与法律观的影响。他思想中的一条根本信条是：道德规范、政治规范与法律规范都基于由自然派生或自然提供的法。
+    step2: |-
+      除了页边引证引出的问题，格劳秀斯的方法还有另一个全然不同的方面：他不肯把伦理学、政治学与法学割裂为各自独立的科目。如今分门别类已成常规，我们通常只治其中一门，对其余不甚措意。格劳秀斯诚然也常常指明法律规范与道德规范、政治规范的不同（例如 *DIB* I.1 开头论法之处）。但他并不认为法律、政治与伦理是彼此隔绝的领域。读者若抱着他会把这些领域分开的预期去读，多半会被他漠视那些在我们看来十分要紧的区分弄得一头雾水。了解个中缘由，或许不无助益：他要找的是**一切**规范性所依据的根本原则，而不只是其中一部分。他不能单讲伦理学，比方说，因为他的伦理见解本受其政治见解与法律见解的滋养。他有一条根本信念：道德规范、政治规范与法律规范，统统基于由自然引出或由自然赐予的法。
   - id: 28
     kind: body
     source: |-
       The issues here are complex and much discussed. For more, see Dufour (1980), Tanaka (1993), Vermeulen (1983) and Whewell (1853).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里的问题复杂且讨论甚多。详见 Dufour (1980)、Tanaka (1993)、Vermeulen (1983) 与 Whewell (1853)。
+    step2: |-
+      此处问题复杂，论者甚多。详见 Dufour (1980)、Tanaka (1993)、Vermeulen (1983) 与 Whewell (1853)。
   - id: 29
     kind: body
     source: |-
       ## 3. Natural Law
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. Natural Law
+    step2: |-
+      ## 3 自然法
   - id: 30
     kind: body
     source: |-
       Natural law is multiply ambiguous. It can be descriptive, in that it is sometimes supposed to describe a certain set of facts which obtain because of some natural features. At the same time, it can also be prescriptive, in that it is sometimes supposed to prescribe certain forms of behavior as acceptable and proscribe others as unacceptable. On another level, its scope or range of application is unfixed. Some natural law theories pertain to political entities (typically states and relations among states); others, to civil laws; yet others, to moral agents. On still another level, the ambiguities can be seen as stemming from the very notions of “natural” and “law”. “Natural” can refer to human nature, or to the nature of the universe in general, or both. One’s sense of the validity and force of a natural law theory will vary enormously depending on which reference is employed. “Law” was similarly contested. One extreme interpreted it literally, so that a natural law is a rule implemented by some agent (typically God) which compels obedience on pain of some penalty. The other extreme took “law” completely metaphorically, picking out some standard or norm perceivable in natural phenomena which governs behavior through entirely impersonal means.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      自然法一词有多重歧义。它可以是描述性的，因为人们有时设想它描述某些因自然特征而成立的事实。同时它也可以是规范性的，因为人们有时设想它把某些行为方式规定为可接受，把另一些规定为不可接受。在另一层面上，它的范围或适用范围并不固定。有些自然法理论关涉政治实体（通常是国家及国家间关系）；有些关涉市民法；还有些关涉道德主体。再换一个层面看，这些歧义可以追溯到“自然的”与“法”这两个概念本身。“自然的”可以指人性，也可以指宇宙的一般本性，或兼指两者。取哪一指涉，人们对一种自然法理论之有效性与效力的感受会大不相同。“法”同样聚讼纷纭。一个极端照字面理解，于是自然法就是由某个主体（通常是上帝）实施的规则，违者必受某种惩罚而被迫服从。另一个极端把“法”完全当作隐喻，指在自然现象中可以察见、以全然非人格的方式支配行为的某种标准或规范。
+    step2: |-
+      自然法一词歧义重重。它可以是描述性的：人们有时认为它描述一组因某些自然特征而成立的事实。它也可以是规范性的：人们有时认为它把某些行为方式立为可接受，把另一些斥为不可接受。再换个层面，它的范围或适用领域并不确定：有的自然法理论讲政治实体（通常是国家与国家间的关系），有的讲市民法，有的讲道德主体。还可以再深一层：这些歧义源自“自然的”与“法”这两个观念本身。“自然的”既可指人性，也可指宇宙的一般本性，或两者兼指；指涉不同，人们对一种自然法理论之有效性与约束力的感受便判若云泥。“法”字同样有争。一个极端照字面解：自然法就是由某个主体（通常是上帝）颁行、以某种惩罚强制服从的规则。另一个极端把“法”全作隐喻看：它指自然现象中可察见的某种标准或规范，靠完全非人格的方式支配行为。
   - id: 31
     kind: body
     source: |-
       Such variation should not be surprising, for the natural law tradition was long and robust. Though there were ties to the ancient world, it began in earnest with Aquinas, since he was the first to formulate a group of ideas systematic enough to be called a theory. The tradition continued through the middle ages and into the early modern era before (allegedly) meeting its demise in Kant. Given that natural law was *the* dominant paradigm in ethics, politics and law for hundreds of years—much longer than the period from Kant to us—it is entirely predictable that theorists would have pushed that paradigm in so many directions. It may be that there is some essence shared by all natural law theories; for example, one recent commentator has suggested that the
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这种歧异不应令人意外，因为自然法传统悠久而强健。它虽与古代世界有渊源，真正成形却始于阿奎那，因为他是第一个把一组观念系统化到足以称为“理论”的人。这一传统历经中世纪进入近代早期，（据说）到康德才告终结。自然法在数百年间是伦理学、政治学与法学中**支配性的**范式，其时长远远超过从康德到我们的这段时期；既然如此，理论家把这套范式推向那么多方向，就完全可以想见。也许所有自然法理论确实共享某种本质；例如，一位晚近的评论者提出，
+    step2: |-
+      如此分歧并不奇怪，自然法传统本就漫长而强健。它虽与古代世界有渊源，真正成形却始于阿奎那：他是第一个把一组观念系统化到足以称为“理论”的人。这一传统穿过中世纪，进入近代早期，（据说）直到康德手里才告终结。自然法作为伦理学、政治学与法学中**支配性的**范式，绵延数百年，远比从康德到我们这段时期更长；理论家把这套范式推向形形色色的方向，自然在情理之中。所有自然法理论之间也许确有一个共同的内核；例如一位晚近的论者提出，
   - id: 32
     kind: body
     source: |-
       > stable core in [the natural law tradition] is the idea that morals is primarily a matter of norms or prescriptions and only derivatively about virtues and values. (Haakonssen 1992: 884)[^haakonssen-1992]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ［自然法传统］稳固的核心，是这样一种观念：道德首先是规范或规定的事情，只在派生意义上才涉及德性与价值。（Haakonssen 1992: 884）[^haakonssen-1992]
+    step2: |-
+      > ［自然法传统］稳固的内核在于这样一种观念：道德首先是规范或规定的事，涉及德性与价值只是派生之义。（Haakonssen 1992: 884）[^haakonssen-1992]
   - id: 33
     kind: body
     source: |-
       But those who study natural law in the period of its flourishing will be impressed by the almost unlimited possibilities of interpretation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但研究自然法鼎盛时期的人，会对其几乎无限的诠释可能留下深刻印象。
+    step2: |-
+      然而真正研究过自然法鼎盛时期的人，都会对它几乎无穷的诠释可能印象深刻。
   - id: 34
     kind: body
     source: |-
       Though this is not an article on the natural law, these points are necessary preliminaries for considering Grotius’ natural law views. If Grotius is at all known to philosophers today, it is for being “the father of natural law” (as put by, e.g., Vreeland 1917)[^vreeland-1917]. At this juncture, we need not assess the validity of this claim (for more on Grotius’ originality, see Section 6 below). Instead, we ought to understand Grotius’ actual views on the laws of nature. To understand his views, four issues need to be examined: first, the source of the laws; second, their nature or content; third, their force or obligatory status; finally, their scope.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本文虽不是论自然法的专文，但以上几点是考察格劳秀斯自然法观的必要前提。如果说今天的哲学家还知道格劳秀斯，多半是因为他是“自然法之父”（如 Vreeland 1917 等所言）[^vreeland-1917]。此处不必评估这一说法的正当性（关于格劳秀斯的原创性，详见下文第 6 节）。我们应当做的，是理解格劳秀斯关于自然法的实际观点。要理解他的观点，需考察四个问题：第一，法的来源；第二，法的性质或内容；第三，法的效力或约束地位；最后，法的范围。
+    step2: |-
+      本文并非专论自然法，但上述几点是考察格劳秀斯自然法观的必要铺垫。今天的哲学家若还知道格劳秀斯，多半因为他是“自然法之父”（如 Vreeland 1917 等所云）[^vreeland-1917]。此说是否成立，此处不必评判（格劳秀斯的原创性详见下文第 6 节）；眼下该做的是弄清他关于自然法究竟持何见解。要弄清这一点，须考察四个问题：一是法的来源，二是法的性质或内容，三是法的效力或约束地位，四是法的范围。
   - id: 35
     kind: body
     source: |-
       Why are there natural laws? Do they exist in virtue of the nature of things or for some other reason? These are the questions lurking behind the issue of source. Grotius changed his mind on how they should be answered. In the *DIP* he declares that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为什么会有自然法？它们是因为事物的本性而存在，还是另有原因？这些就是藏在“来源”问题背后的问题。格劳秀斯对如何回答它们的看法有过改变。在 *DIP* 中他宣称：
+    step2: |-
+      为什么会有自然法？它们因事物的本性而存在，还是另有缘故？这些正是“来源”问题背后的问题。格劳秀斯对这一问题的答案，前后有过变化。在 *DIP* 中，他宣称：
   - id: 36
     kind: body
     source: |-
       > What God has shown to be His Will, that is law. This axiom points directly to the cause of law, and is rightly laid down as the primary principle. (Chap. II)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 上帝所显明为祂意志的，就是法。这条公理直指法的原因，理应被立为首要原则。（第二章）
+    step2: |-
+      > 上帝所显明为祂意志的，就是法。这条公理直指法的成因，理应立为首要原则。（第二章）
   - id: 37
     kind: body
     source: |-
       Here Grotius announces a thesis about the relation between normativity and the divine being which is commonly known as “voluntarist”: by an act of volition, God determines the full and exact content of all normative categories—justice, goodness and so forth. Voluntarism was a well-established tradition of natural law theories; the *DIP* belongs firmly in that tradition. In later works, however, Grotius departs from it. For example, in the *De summa potestatum*, he declares that normativity of any kind
-    step1: TBD
-    step2: TBD
+    step1: |-
+      格劳秀斯在此提出了一个关于规范性与神性存在之关系的论题，通常称为“唯意志论”：上帝凭其意志行为，决定一切规范性范畴（正义、善等等）的完整而确切的内容。唯意志论是自然法理论中根基深厚的传统，*DIP* 坚定地属于这一传统。然而在后期著作中，格劳秀斯背离了它。例如在 *De summa potestatum* 中，他宣称任何种类的规范性
+    step2: |-
+      格劳秀斯在此提出一个关于规范性与神性存在之关系的论题，通称“唯意志论”：上帝凭其意志行为，规定一切规范性范畴（正义、善等）的完整而确切的内容。唯意志论是自然法理论中根基深厚的传统，*DIP* 稳稳地立在这一传统之内。然而到了后期著作，格劳秀斯离开了它。例如在 *De summa potestatum* 中，他宣称任何一类规范性
   - id: 38
     kind: body
     source: |-
       > arises from the nature of the action itself, so that it is right *per se* to worship God and it is right *per se* not to lie. (*Opera Omnia Theologica* vol. III, p. 187)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 都产生于行为本身的性质，因此崇拜上帝本身就正当，不说谎本身就正当。（*Opera Omnia Theologica* 第三卷，第 187 页）
+    step2: |-
+      > 都出于行为本身的性质；因此，敬拜上帝本身即正当，不说谎本身即正当。（*Opera Omnia Theologica* 第三卷，第 187 页）
   - id: 39
     kind: body
     source: |-
       A much more famous expression of non-voluntarism appears in the “Prolegomena” to the *DIB*. In the first few sections of the “Prolegomena”, Grotius lays the groundwork for his natural law theory. Then, in section eleven, he writes that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      非唯意志论一个远为著名的表述，见于 *DIB* 的“序言”。在“序言”开头的几节里，格劳秀斯为他的自然法理论奠定基础。接着在第十一节，他写道：
+    step2: |-
+      非唯意志论有一个远为著名的表述，见于 *DIB* 的“序言”。格劳秀斯在“序言”开头的几节里先为自然法理论打下地基，随后在第十一节写道：
   - id: 40
     kind: body
     source: |-
       > What we have been saying would have a degree of validity even if we should concede [*etiamsi daremus*] that which cannot be conceded without the utmost wickedness, that there is no God, or that the affairs of men are of no concern to him.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我们所说的这些话，即使我们承认［*etiamsi daremus*］那非至极邪恶便不能承认的事——即没有上帝，或人事与上帝无关——也仍然具有一定程度的有效性。
+    step2: |-
+      > 我们所说的这些话，即使我们承认［*etiamsi daremus*］那非至极邪恶便不能承认的事，即没有上帝，或人事与上帝无关，也仍保有一定程度的有效性。
   - id: 41
     kind: body
     source: |-
       Instead of emerging from or being otherwise dependent on God, the fundamental principles of ethics, politics and law obtain in virtue of nature. As he says, “the mother of right—that is, of natural law—is human nature” (Prol. §16). Somewhat later, he clarifies why it is that human nature produces the natural law:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      伦理、政治与法律的根本原则并非出自上帝，也不以其他方式依赖上帝，而是因自然的本性而成立。如他所说，“权利之母，即自然法之母，是人性”（序言 §16）。稍后他又说明人性何以产生自然法：
+    step2: |-
+      伦理、政治与法律的根本原则，不是从上帝那里来的，也不以其他方式依赖上帝，而是因自然的本性而成立。用他的话说，“权利之母，也就是自然法之母，是人性”（序言 §16）。稍后他又说明人性何以生出自然法：
   - id: 42
     kind: body
     source: |-
       > The law of nature is a dictate of right reason, which points out that an act, according as it is or is not in conformity with rational nature, has in it a quality of moral baseness or moral necessity; and that, in consequence, such an act is either forbidden or enjoined. (I.1.10.1)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 自然法是正确理性的命令，它指出：一个行为依其是否合于理性本性，本身便具有道德卑劣或道德必然的性质；因此，这样的行为或被禁止，或被命令。（I.1.10.1）
+    step2: |-
+      > 自然法是正确理性的命令，它指出：一个行为合于理性本性与否，决定了它本身具有道德卑劣还是道德必然的性质；因此，这样的行为或被禁止，或被命令。（I.1.10.1）
   - id: 43
     kind: body
     source: |-
       If an action agrees with the rational and social aspects of human nature, it is permissible; if it doesn’t, it is impermissible (cf. I.1.12.1). That is to say, the source of the natural law is the (in)compatibility of actions with our essences as rational and social beings. For discussion of the *etiamsi daremus* passage, see St. Leger (1962) and Todescan (2003).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果一个行为合于人性中理性与社会的方面，它就是可允许的；不合，则不可允许（参 I.1.12.1）。也就是说，自然法的来源在于行为与我们作为理性存在者和社会存在者之本质的（不）相容性。关于 *etiamsi daremus* 一段的讨论，见 St. Leger (1962) 与 Todescan (2003)。
+    step2: |-
+      行为若合于人性中理性与社会的方面，便可允许；不合，则不可允许（参 I.1.12.1）。换言之，自然法的来源，在于行为同我们作为理性存在者与社会的存在者之本质相容与否。关于 *etiamsi daremus* 一段的讨论，见 St. Leger (1962) 与 Todescan (2003)。
   - id: 44
     kind: body
     source: |-
       Suppose we have established where the laws come from. This will reveal nothing about the second of our four issues: viz., the content of the laws or what they actually say. Grotius’ views on how we should learn about this were quite consistent: throughout his corpus, he continued to maintain that (as he put it in the *DIP*),
-    step1: TBD
-    step2: TBD
+    step1: |-
+      假定我们已经确定法从何而来。这对四个问题中的第二个，即法的内容或它们实际说了什么，毫无揭示。格劳秀斯关于我们应如何认识这一点的看法相当一贯：通观其全部著作，他始终主张（如他在 *DIP* 中所说）：
+    step2: |-
+      假定法的来源已经确定。这对四个问题中的第二个问题，即法的内容或法实际说了什么，却毫无揭示。格劳秀斯关于我们凭何认识法之内容的看法相当一贯：通观其全部著作，他始终坚持（如其在 *DIP* 中所言）：
   - id: 45
     kind: body
     source: |-
       > The Will of God is revealed, not only through oracles and portents, but above all in the very design of the Creator; for it is from this last source that the law of nature is derived. (Chap. II)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 上帝的意志不仅通过神谕与征兆显明，尤其显明于造物主的设计本身；自然法正是从这最后一种来源引出的。（第二章）
+    step2: |-
+      > 上帝的意志不仅借神谕与征兆显明，更显明于造物主的设计本身；自然法正是从这后一种来源引出的。（第二章）
   - id: 46
     kind: body
     source: |-
       As he put it in the *DIB*, the law of nature “proceeds from the essential traits implanted in man” (Prol. §12). Where some other natural law theories solved the problem of knowledge through recourse to the supernatural, Grotius did not. For him, a study of nature itself—and more specifically, a study of human nature—can suffice to teach us the essentials of ethics, politics and law.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如他在 *DIB* 中所说，自然法“出自植入人身的本质特征”（序言 §12）。其他一些自然法理论诉诸超自然者来解决认识问题，格劳秀斯不然。在他看来，研究自然本身，更具体地说，研究人性，就足以教给我们伦理、政治与法律的要点。
+    step2: |-
+      他在 *DIB* 中说，自然法“出自植入人身的本质特征”（序言 §12）。别的自然法理论靠诉诸超自然者来解决认识问题，格劳秀斯不然：在他看来，研究自然本身，更确切地说，研究人性，就足以教人懂得伦理、政治与法律的要领。
   - id: 47
     kind: body
     source: |-
       And what, exactly, does such a study reveal about those fundamental normative principles? The reasoning in both the *DIP* and *DIB* may be reconstructed as follows. Human nature is constituted by two essential properties: the desire for self-preservation and the need for society (see *DIP*, Chap. 2, and *DIB*, Prol. §§6–7). These two properties temper and inform each other: the desire for self-preservation is limited by the social impulse, so that humans do not naturally seek to maintain and enhance their being at all costs; conversely, the need for the company of other humans is limited by the self-preservation drive, for individuals must naturally strive to secure the means for their well-being. Moreover, the self-preservation drive and the sociability impulse are both emotive and cognitive; they are both non-rational and rational, having the force of unreflective instinct as well as well-thought-out plans. Because we are essentially both social and self-preserving beings, it follows that two things are imperative for our successful existence. We ought to abstain from what belongs to other persons, and we ought to engage in the reasonable pursuit of what genuinely serves our interest. Accordingly, Grotius makes these the first two elements of natural law in the *DIB* (see Prol. §§8, 10); they form the core of the first four “laws” in the *DIP* (see Chap. II). While these principles enjoy lexical priority in the hierarchy of natural norms, they do not exhaust the list. A study of nature also teaches us that “Evil deeds must be corrected” and “Good deeds must be recompensed” (Laws V–VI of the *DIP*). In fact, Grotius derives a list of some 22 fundamental natural tenets in the *DIP* and a similarly large group (though not numbered in the same way) in the *DIB*. Any explanation of Grotius’ natural law theory should begin by citing these first-order tenets or principles, for they are what constitute its substance. Recent scholarship has sought to shed light on the foregoing issues by examining how Grotius may have been inspired by Stoicism, both ancient and early modern. See in particular Brooke (2012: Chapter 2) and Straumann (2015).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这样一项研究究竟揭示了那些根本规范性原则的什么内容？*DIP* 与 *DIB* 中的推理可以重构如下。人性由两个本质属性构成：自我保存的欲望与对社会结合的需要（见 *DIP* 第二章，*DIB* 序言 §§6–7）。这两种属性相互节制、相互塑造：自我保存的欲望受社会冲动的限制，因此人并不会自然而然地不惜一切代价维持和增强自身的存在；反过来，对他人的陪伴的需要也受自我保存驱动的限制，因为个体必须自然地设法获取自身福祉所需的手段。此外，自我保存的驱动与合群的冲动都既是情感的又是认知的；它们既非理性的又是理性的，既有无反思的本能之力，也有深思熟虑的计划。既然我们在本质上既是社会的存在者又是自我保存的存在者，那么要使存在获得成功，有两件事便势在必行：我们应当不取他人所有，也应当合理地追求真正有益于自身利益的东西。因此，格劳秀斯把这两条立为 *DIB* 中自然法的头两个要素（见序言 §§8、10）；它们构成 *DIP* 前四条“法”的核心（见第二章）。这些原则在自然规范的层级中具有次序上的优先性，但并不穷尽全部清单。研究自然还告诉我们，“恶行必须纠正”与“善行必须报偿”（*DIP* 第五、六条法）。事实上，格劳秀斯在 *DIP* 中推出了一张约 22 条根本自然教义的清单，在 *DIB* 中也有数量相当大的一组（尽管编号方式不同）。任何对格劳秀斯自然法理论的阐释，都应当首先举出这些第一阶的教义或原则，因为正是它们构成了该理论的实质。晚近的研究试图考察格劳秀斯如何可能受古代与近代早期斯多亚主义的启发，以阐明上述问题。尤其见 Brooke (2012: Chapter 2) 与 Straumann (2015)。
+    step2: |-
+      这样一项研究究竟揭示了那些根本规范原则的哪些内容？*DIP* 与 *DIB* 的推理可重构如下。人性由两种本质属性构成：自我保存的欲望，以及对社会结合的需要（见 *DIP* 第二章、*DIB* 序言 §§6–7）。两者互相节制、互相塑造：自我保存的欲望受社会冲动的约束，人因此不会天然地不惜一切代价维持并增进自身存在；反过来，对同伴的需要也受自我保存驱动的约束，个体总得设法取得自身福祉所需的手段。自我保存的驱动与合群的冲动又都兼有情感与认知两面：它们既非理性又理性，既有无思的本能之力，也有深思熟虑的谋划。人在本质上既是社会的存在者，又是自我保存的存在者，因此，要使存在得以顺遂，有两件事势在必行：不取他人所有，以及合理追求真正对己有利之事。格劳秀斯遂将这两条立为 *DIB* 中自然法的头两个要素（见序言 §§8、10），它们也是 *DIP* 前四条“法”的核心（见第二章）。这两条原则在自然规范的层级中享有次序上的优先，但并非全部。研究自然还教人懂得“恶行必须纠正”“善行必须报偿”（*DIP* 第五、六条法）。事实上，格劳秀斯在 *DIP* 中列出了约 22 条根本自然教义，*DIB* 中也有一组数量相当（只是编号方式不同）。阐述格劳秀斯的自然法理论，理应首先举出这些一阶教义或原则，其理论的实质正在于此。晚近研究多从斯多亚主义（古代与近代早期）对格劳秀斯的启发入手，来解释上述问题，尤见 Brooke (2012: Chapter 2) 与 Straumann (2015)。
   - id: 48
     kind: body
     source: |-
       Returning to conceptual matters, we should ask why the laws of nature are operative on us. Why do they enjoin or prohibit us from performing certain specific actions? Here we come to our third issue, concerning the laws’ force or obligatory status. Traditionally, natural law theorists tended to invoke God for their solution to this very deep mystery. Aquinas, for example, argued that obligation is the result of an action of will by a superior on an inferior (see, e.g., *Summa Theologica* II.ii.q104). We are obliged to follow civil laws because our political superiors have forced us to do so through actions of their more powerful wills. And we are obliged to follow natural laws because God has forced us to do so through his infinitely more powerful will. Grotius was tempted by this view; he writes in *DIB* that morally necessary acts must be “understood as necessarily commanded or forbidden by God” (I.1.10.2).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      回到概念问题上来。我们应当问：自然法为什么对我们有作用力？它们为什么命令或禁止我们从事某些具体行为？这里就到了第三个问题，即法的效力或约束地位。传统上，自然法理论家往往请出上帝，以解答这个极深的谜。例如阿奎那论证说，义务是上位者以自己的意志作用于下位者的结果（例如见 *Summa Theologica* II.ii.q104）。我们有义务遵守市民法，因为我们的政治上位者以其更强大的意志迫使我们遵守。我们有义务遵守自然法，因为上帝以其无限强大的意志迫使我们遵守。格劳秀斯曾被这种观点吸引；他在 *DIB* 中写道，道德上必然的行为必须“被理解为上帝必然命令或禁止的行为”（I.1.10.2）。
+    step2: |-
+      现在回到概念问题。要问的是：自然法为什么对我们有约束力？它们凭什么命令我们做某些具体的事、禁止我们做另一些事？这就到了第三个问题：法的效力或约束地位。传统上，自然法理论家遇到这个极深的谜，往往把上帝请出来解答。阿奎那便论证说，义务源于上位者以其意志加于下位者（例如见 *Summa Theologica* II.ii.q104）：我们之所以有义务遵守市民法，是因为政治上的上位者以更强的意志逼我们服从；我们之所以有义务遵守自然法，是因为上帝以无限更强的意志逼我们服从。这一说法对格劳秀斯颇有吸引力，他在 *DIB* 中写道，道德上必然的行为必须“被理解为上帝必然命令或禁止的行为”（I.1.10.2）。
   - id: 49
     kind: body
     source: |-
       As any parent knows, however, “because I said so” is not the most compelling reason for action. That is true even when the person speaking is God. Hence thinkers have long sought to articulate other grounds for obligation. In Grotius’ time, for example, Suarez wrote,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，任何父母都知道，“因为我说了算”并不是最有说服力的行动理由。即便说话者是上帝，这话也成立。因此思想家们早就试图阐明义务的其他根据。例如在格劳秀斯时代，苏亚雷斯写道：
+    step2: |-
+      可是，凡是做过父母的都知道，“因为我说了算”从来不是最有说服力的理由；说话的人即便换成上帝，也还是一样。所以思想家们早就另寻义务的根据。格劳秀斯同时代的苏亚雷斯就写道：
   - id: 50
     kind: body
     source: |-
       > to break the natural law without sinning involves an inconsistency… and therefore the existence of an obligation which is imposed by the natural law but which is not a matter of conscience also involves an inconsistency. (*De legibus*, II.IX.6)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 违背自然法而不犯罪，这本身包含一种不一致……因此，确认存在一种由自然法施加、却与良知无关的义务，同样包含一种不一致。（*De legibus*，II.IX.6）
+    step2: |-
+      > 违背自然法而不犯罪，其中自相矛盾……因此，若说有一种义务由自然法所加、却无关良知，也同样自相矛盾。（*De legibus*，II.IX.6）
   - id: 51
     kind: body
     source: |-
       Here we find a very different account of the basis of obligation: we are obliged to perform or avoid certain actions which are incompatible with our consciences, because we will be guilty of inconsistency if we don’t. To put it in slightly different terms, we are obliged to perform or avoid certain actions which are compatible or incompatible with our natures as rational beings, because we will be less than human if we don’t. Grotius adopts this idea for himself, modifying it in keeping with his rich conception of human nature: for him, natural law obliges us to perform actions which conduce to our rationality, sociability and need for self-preservation. This thought underlies several of his specific laws of nature—such as, for instance, the law that evil deeds must be corrected. Grotius places this obligation under the heading of compensatory justice (*DIP*, Chap. Two). The “task of compensatory justice” is “restitution”: using the example of theft, Grotius explains that “such justice requires that the thing taken shall be returned” (ibid.). Evil deeds have disturbed the moral and legal equilibrium of society; they have unjustly benefited some while unjustly harming others. Since it is imperative to maintain healthy social relations, it is imperative that evil deeds be punished.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里我们看到一种极为不同的义务根据说：我们有义务做或不做某些与良知相容或不相容的行为，因为若不如此，我们便犯有不一致的过失。换一种稍有不同的说法：我们有义务做或不做某些与我们作为理性存在者的本性相容或不相容的行为，因为若不如此，我们便不成其为人。格劳秀斯采纳了这一想法，并依其丰富的人性观加以修正：在他看来，自然法要求我们从事有助于理性、合群性与自我保存之需的行为。这一想法支撑着他的若干具体自然法，例如恶行必须纠正这条法。格劳秀斯把这项义务归入补偿正义（*DIP* 第二章）。“补偿正义的任务”是“返还”：格劳秀斯以盗窃为例解释说，“这种正义要求把取走的东西归还”（同上）。恶行扰乱了社会的道德与法律平衡；它们不正当地使一些人获益，同时不正当地损害另一些人。既然维持健康的社会关系势在必行，惩罚恶行也就势在必行。
+    step2: |-
+      这里呈现出一种大不相同的义务根据说：我们有义务去做或不做某些与良知相容或不相容的行为，因为不这样做，我们就犯下自相矛盾的过错。换个说法：我们有义务去做或不做某些与我们作为理性存在者的本性相容或不相容的行为，因为不这样做，我们就不成其为人。格劳秀斯接过这个想法，又按他那套丰富的人性观加以改造：在他看来，自然法要求我们做有助于理性、合群与自我保存之事。这一想法支撑着他的若干条具体自然法，例如恶行必须纠正这一条。他把这项义务归入补偿正义（*DIP* 第二章）。“补偿正义的任务”就是“返还”：他以盗窃为例说，“这种正义要求把取走的东西归还”（同上）。恶行扰乱了社会在道德与法律上的平衡，不正当地让某些人得利、另一些人受损；维持健康的社会关系既属必需，惩罚恶行也就属必需。
   - id: 52
     kind: body
     source: |-
       The problem of explaining why we should obey the laws of nature—or indeed, why we should obey any set of norms—is one of the most enduring in philosophy; it would be rash to suppose that a solution can be found in Grotius. One inadequacy of his account is inspired by Richelieu: while Grotius tries to separate and equalize our rational, social and self-interested motives for action, one may question whether they are in fact distinct and equal. If it can be shown that one is more fundamental than the others—that, say, self-interest is our first and most basic reason for action—then our reason for obeying the laws of nature and being moral will be very different from what Grotius argued. (For additional discussion, see Korsgaard 1996: 7, 21–22 and 28–30.)[^korsgaard-1996]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      解释我们为什么应当遵守自然法（乃至为什么应当遵守任何一套规范）的问题，是哲学中最经久的问题之一；若以为在格劳秀斯那里能找到答案，未免轻率。他的论述有一处不足，其灵感正来自黎塞留：格劳秀斯试图把我们的理性动机、社会动机与自利动机区分开来并等量齐观，但人们可以质疑它们事实上是否彼此不同、是否分量相当。如果能表明其中一种比其他几种更为根本（比如说，自利是我们行动的首要而基本的理由），那么我们遵守自然法、做有德之人的理由，就会与格劳秀斯的论证大不相同。（进一步讨论见 Korsgaard 1996: 7, 21–22 与 28–30。）[^korsgaard-1996]
+    step2: |-
+      我们为什么要遵守自然法，或者说为什么要遵守任何一套规范，这是哲学里最经久的问题之一；以为在格劳秀斯那里就能找到答案，不免轻率。他这套论述有一处短处，其灵感恰来自黎塞留：格劳秀斯想把理性、社会与自利三类行动动机分开，并让它们并驾齐驱，但这些动机实际上是否彼此有别、是否势均力敌，大可存疑。倘若能证明其中一类比其他几类更为根本，比如说自利才是我们行动的头等理由，那么我们遵守自然法、做有德者的理由，便会与格劳秀斯的论证大相径庭。（进一步讨论见 Korsgaard 1996: 7, 21–22 与 28–30。）[^korsgaard-1996]
   - id: 53
     kind: body
     source: |-
       Moving on, we come to the last of our four issues—i.e., scope. In Grotius’ day, this issue was made urgent by European encounters with indigenous peoples in the Americas and elsewhere (for discussion, see Tierney 1997: Chapter XI)[^tierney-1997]. Some theorists tried to place epistemic or doxastic restrictions on the scope of the laws, arguing that they enjoined and protected only those who held certain beliefs. Since the beliefs which determined the applicability of the laws were usually religious in nature, it was commonly argued that natural laws were pertinent only to Christians and did not cover non-Christians. Given that natural laws form the basis for morality, then since they do not cover non-Christians, it follows that Christians were under no obligations to treat non-Christians morally. Like many others, Grotius strongly disagreed with such arguments. For him, natural laws apply to all rational and social beings as such. It doesn’t matter what they think or believe; if they are rational and social, they are bound by the law of nature (see, e.g., *DIB* II.20.44).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      接下来看四个问题中的最后一个，即范围。在格劳秀斯时代，欧洲人在美洲及别处与土著民族的相遇，使这一问题变得紧迫（讨论见 Tierney 1997: Chapter XI）[^tierney-1997]。有些理论家试图对法的范围施加认识论或信念上的限制，主张法只约束并保护持某些信念的人。由于决定法之适用性的信念通常具有宗教性质，人们常主张自然法只与基督徒有关，不覆盖非基督徒。既然自然法是道德的基础，而它不覆盖非基督徒，那么基督徒就没有义务在道德上对待非基督徒。与许多人一样，格劳秀斯强烈反对这类论证。在他看来，自然法适用于一切理性而合群的存在者本身。他们想什么、信什么，都无关紧要；只要他们是理性而合群的，就受自然法约束（例如见 *DIB* II.20.44）。
+    step2: |-
+      最后是四个问题中的第四个：范围。在格劳秀斯时代，欧洲人在美洲等地与土著民族的遭遇，使这一问题变得紧迫（讨论见 Tierney 1997: Chapter XI）[^tierney-1997]。有些理论家想给法的范围加上认识或信念方面的限制，主张法只约束、只保护持某种信念的人。决定法是否适用的是信念，而信念通常又有宗教性质，于是常见的主张便是：自然法只关基督徒，不及于非基督徒。自然法是道德的根基，既然不及于非基督徒，基督徒对非基督徒也就不负道德义务。格劳秀斯与许多人一样，坚决反对这类论证。他认为自然法适用于一切理性而合群的存在者，无分彼此；他们持何种想法、信何种教义，都不相干，只要是理性而合群的，就受自然法约束（例如见 *DIB* II.20.44）。
   - id: 54
     kind: body
     source: |-
       ## 4. Political Philosophy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. Political Philosophy
+    step2: |-
+      ## 4 政治哲学
   - id: 55
     kind: body
     source: |-
       As the previous section stressed, Grotius’ natural law theory was about much more than politics; it offered an account of normativity of all kinds. At the same time as he was concerned to explicate normativity generally speaking, the evidence unambiguously suggests that he was especially interested in political issues. After all, he did lead a very political life and his two greatest works are eminently political. In this section, a few of his political ideas are discussed.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如上一节所强调，格劳秀斯的自然法理论远不止关涉政治；它提供了一种关于一切规范性的一般说明。与此同时，尽管他关心的是对规范性作一般性阐释，证据却明确显示他对政治问题格外有兴趣。毕竟他过的是一种高度政治化的生活，他的两部最伟大著作也都极具政治性。本节讨论他的若干政治观念。
+    step2: |-
+      上一节已经强调，格劳秀斯的自然法理论远不止于政治，它给出的是关于一切规范性的一般说明。然而，尽管他立意在于阐发一般的规范性，证据却清楚地表明他对政治问题尤有兴致。毕竟他一生的行迹高度政治化，两部代表作也都极具政治色彩。本节讨论他的一些政治观念。
   - id: 56
     kind: body
     source: |-
       Let’s start with one closely connected to the problem of obligation. Just now, it was said that the ground of obligation lay in our natures as rational, social, self-preserving beings. This is correct but it needs amplification. Grotius did not conceive of our essences as static; instead, they are dynamic, expressive of our abilities and activities. This is emphatically reflected in his conception of rights (*ius*, or *iura* in the plural). He distinguishes between several meanings of *iura*, the most important of which conceives of a *ius* as “a moral quality of a person, making it possible to have or to do something correctly” (*DIB* I.1.4). For Grotius, a *ius* or right is a capacity or power possessed by the agent; it is a “faculty” or an “aptitude” of the person (ibid.). To have a *ius* is to have the ability to engage in certain specified actions without moral or legal sanction. So, for example, when he endows humans with the right to self-preservation, he grants us the power to pursue our own interests without needing the permission or assistance of the state or any other authority. Because rights are centered on the individual subject, one will often read that Grotius propounded a theory of “subjective right” (see, e.g., Kingsbury & Roberts 1990: 31 and references there)[^kingsbury-1990].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      先从与义务问题紧密相关的一个观念说起。刚才说过，义务的根据在于我们作为理性、合群、自我保存的存在者的本性。这不错，但需要展开。格劳秀斯并不把我们的本质设想为静态的；它们是动态的，体现着我们的能力与活动。这一点在他关于权利（*ius*，复数为 *iura*）的构想中有鲜明反映。他区分了 *iura* 的几种含义，其中最重要的一种把 *ius* 理解为“一个人的道德品质，它使人能够正当地拥有某物或做某事”（*DIB* I.1.4）。在格劳秀斯看来，*ius* 即权利，是行为者所具有的一种能力或力量；它是人的一种“官能”或“资质”（同上）。拥有 *ius*，就是有能力从事某些特定的行为而不受道德或法律制裁。因此，举例来说，当他赋予人以自我保存的权利时，他就是授予我们追求自身利益的力量，而无须国家或任何其他权威的许可或协助。由于权利以个体主体为中心，人们常会读到格劳秀斯提出了一种“主观权利”理论（例如见 Kingsbury & Roberts 1990: 31 及其所引文献）[^kingsbury-1990]。
+    step2: |-
+      先从一个与义务问题紧相关联的观念说起。前面说过，义务的根据在于我们作为理性、合群、自我保存的存在者所具有的本性。这话不错，但还需要申说。格劳秀斯所设想的人之本质不是静止的，而是动态的，表现为人的种种能力与活动。他关于权利（*ius*，复数 *iura*）的构想，正突出地体现了这一点。他分辨了 *iura* 的几重含义，其中最重要的一重把 *ius* 解作“人的一种道德品质，使人得以正当地拥有某物或做某事”（*DIB* I.1.4）。在格劳秀斯看来，*ius* 即权利，是行为者具有的一种能力或力量，是人的一种“官能”或“资质”（同上）。有 *ius*，就是有能力做某些特定的事而不受道德或法律的制裁。举例说，他赋予人自我保存的权利，就是赋予我们追求自身利益的力量，无须国家或任何其他权威的许可或帮助。权利既以个体主体为中心，论者便常说格劳秀斯提出的是一种“主观权利”理论（例如见 Kingsbury & Roberts 1990: 31 及其所引文献）[^kingsbury-1990]。
   - id: 57
     kind: body
     source: |-
       The import of Grotius’ theory of rights can be clarified contrasting it with the dominant medieval conception of *iura*. This conception stems primarily from Aquinas, who held that “the word *ius* was first of all used to denote the just thing itself” (*Summa Theologica* II.ii.q57.art1). In its original usage, *ius* was applied to things—actions, entities, situations—and not persons. As Aquinas and his followers conceived of it, things earn the appellation “right” when they align fully with the natural law. For two reasons, then, the medieval conception of rights can be thought of as “objective”: first, because the things which are right are *objects* (and not subjects); second, because things become worthy of the label “right” when they satisfy an *objective*, agent-independent set of necessity and sufficient conditions, viz., those conditions required for conformity to the natural law. Now, it is true that this medieval view had begun to be displaced by Grotius’ time; for example, Suarez says that a “strict acceptation of *ius*” bestows it
-    step1: TBD
-    step2: TBD
+    step1: |-
+      要弄清格劳秀斯权利理论的意义，可以把它与中世纪占主导的 *iura* 观念对照。这一观念主要来自阿奎那，他认为“*ius* 一词最初用来指正当的事情本身”（*Summa Theologica* II.ii.q57.art1）。在其原初用法中，*ius* 用于事物（行为、实体、情境），而不用于人。按阿奎那及其追随者的构想，事物在完全合于自然法时，才获得“权利/正当”之名。因此，中世纪的权利观念可以从两方面看作“客观的”：第一，因为正当的事物是**客体**（而非主体）；第二，因为事物之所以配得上“正当”之名，是因为它们满足了一组**客观的**、不依赖行为者的必要且充分条件，即合于自然法所需的条件。诚然，到格劳秀斯时代，这一中世纪观点已开始被取代；例如苏亚雷斯说，“对 *ius* 的严格理解”把它赋予
+    step2: |-
+      格劳秀斯权利理论的分量，对照中世纪占主导的 *iura* 观念便看得清楚。那套观念主要出自阿奎那，他说“*ius* 一词最初用来指正当的事情本身”（*Summa Theologica* II.ii.q57.art1）。在最初的用法里，*ius* 施用于事物（行为、实体、情境），而不施于人。按阿奎那及其后学的理解，事物完全合于自然法，便赢得“正当”之名。因此，中世纪的权利观念有两重理由可以称为“客观的”：其一，正当的东西是**客体**，不是主体；其二，事物之所以当得起“正当”之名，是因为满足了一组**客观的**、不系于行为者的必要而充分条件，即合于自然法所需的条件。这一中世纪见解到格劳秀斯时代确已开始退场：苏亚雷斯就说，“对 *ius* 的严格理解”把它赋予
   - id: 58
     kind: body
     source: |-
       > upon a certain moral power which every man has, either over his own property or with respect to that which is due to him. (*De legibus* I.2.5)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 每个人对自己财产或对应当归于自己之物所具有的某种道德力量。（*De legibus* I.2.5）
+    step2: |-
+      > 于人人皆有的某种道德力量：或施于自己的财产，或施于应当归己之物。（*De legibus* I.2.5）
   - id: 59
     kind: body
     source: |-
       However, Grotius is usually given the credit for shifting the paradigm fundamentally (see, e.g., Haakonssen 1985: 240 and Schneewind 1998: 78; for an opposing view, see Irwin 2008: 98)[^haakonssen-1985][^haakonssen-1998][^irwin-2008][^schneewind-1998]. While it took time for his paradigm to become hegemonic, it did eventually prevail. When we say that so-and-so has the *right* to such-and-such, we usually mean that he has the *means* or *power* to do such-and-such: for example, the assertion that someone has the right to freedom of thought means that he has the ability to think as he pleases and no one or no thing can force him to do otherwise. This was Grotius’ view; though subsequently mediated by many others, his contribution was essential.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不过，通常认为范式发生根本转变的功劳属于格劳秀斯（例如见 Haakonssen 1985: 240 与 Schneewind 1998: 78；相反意见见 Irwin 2008: 98）[^haakonssen-1985][^haakonssen-1998][^irwin-2008][^schneewind-1998]。他的范式虽需时间才取得支配地位，最终确实胜出。当我们说某人拥有做某事的**权利**时，通常意思是此人拥有做此事的**手段**或**力量**：例如，断言某人有思想自由的权利，意思是他有能力随意思考，任何人或任何事物都不能强迫他别样思考。这正是格劳秀斯的观点；尽管后来经过许多人的中介，他的贡献仍是根本性的。
+    step2: |-
+      不过，范式得以根本转变，功劳通常记在格劳秀斯名下（例如见 Haakonssen 1985: 240 与 Schneewind 1998: 78；相反意见见 Irwin 2008: 98）[^haakonssen-1985][^haakonssen-1998][^irwin-2008][^schneewind-1998]。他的范式虽费了些时日才取得支配地位，最终毕竟胜出。我们说某人有做某事的**权利**，通常意思是此人有做此事的**手段**或**力量**：比如，说某人有思想自由的权利，就是说他有能力随意思想，任何人或任何物都不能强迫他另作他想。格劳秀斯正持此说；他的贡献虽经后人辗转中介，仍是根本性的。
   - id: 60
     kind: body
     source: |-
       In addition to its intrinsic interest, Grotius’ innovative conception of rights had numerous important consequences. Two examples may serve as illustrations. First, whereas medieval theorists tended to speak of “the right”, Grotius and his successors stressed the powers and entitlements of the person who has rights. By associating rights with the powers of a person, moderns were able to distinguish sharply between rights on the one hand versus duties on the other (cf. Finnis 1980: 209)[^finnis-1980]. Second, because Grotius made rights into powers or faculties which humans *possessed*, he played a crucial part in the commoditization of rights. Once rights became possessions, they can be traded away just like all other possessions. The means of transfer might not be identical to other exchanges of goods but the essential idea of giving away something in one’s possession for something which isn’t is there. As commentators have argued, the commoditization of rights was one of the most important political developments of the seventeenth century (for more, see especially Macpherson 1962: 3f)[^macpherson-1962].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      格劳秀斯创新性的权利观念，除了本身有意思之外，还产生了许多重要后果。可以举两个例子说明。第一，中世纪理论家倾向于谈论“正当”，格劳秀斯及其后继者则强调拥有权利者所具有的力量与资格。把权利与人的力量联系起来之后，近代人得以把权利与义务截然区分开来（参 Finnis 1980: 209）[^finnis-1980]。第二，由于格劳秀斯把权利变成人所**拥有**的力量或官能，他在权利的商品化中扮演了关键角色。权利一旦成为占有物，就可以像其他一切占有物一样被交易出去。转让的方式也许与交换其他货物不尽相同，但把手中的某物让渡出去以换取手中所无之物的基本想法，就在这里。正如评论者所论，权利的商品化是十七世纪最重要的政治发展之一（详见 Macpherson 1962: 3f）[^macpherson-1962]。
+    step2: |-
+      格劳秀斯这一创新的权利观念，除了本身有趣，还引出许多重要后果。且举两例。第一，中世纪理论家习于谈“正当”，格劳秀斯及其后学却强调拥有权利者本人的力量与资格；把权利系于人的力量之后，近代人才能把权利与义务截然分开（参 Finnis 1980: 209）[^finnis-1980]。第二，格劳秀斯把权利变成人**拥有**的力量或官能，因而在权利的商品化中起了关键作用。权利一旦成为占有物，便可像其他一切占有物一样让渡出去；转让的方式未必同于寻常货物交换，但“以手中之物换取手中所无”这一要义，已经具在。论者指出，权利的商品化是十七世纪最重要的政治进展之一（详见 Macpherson 1962: 3f）[^macpherson-1962]。
   - id: 61
     kind: body
     source: |-
       Grotius exploited the latter idea in some of the more notorious parts of his corpus. Take the following:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      格劳秀斯在他著作中一些更为声名不佳的部分里，利用了后一种想法。请看下面这段：
+    step2: |-
+      后一个想法，格劳秀斯用在了他著作中一些尤其招人物议的地方。且看下面一段：
   - id: 62
     kind: body
     source: |-
       > At this point first of all the opinion of those must be rejected who hold that everywhere and without exception sovereignty resides in the people, so that it is permissible for the people to restrain and punish kings whenever they make a bad use of their power… We refute it by means of the following arguments.
       >
       > To every man it is permitted to enslave himself to any one he pleases for private ownership, as is evident both from the Hebraic and from the Roman Law. Why, then, would it there not be as lawful for a People who are at their own disposal to deliver up themselves to some one person, or to several persons, and transfer the right of governing them upon him or them, retaining no vestige of that right for themselves? (*DIB* I.3.8.1).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 首先必须在这里驳斥这样一种意见：它主张主权在一切地方、毫无例外地属于人民，因此只要国王滥用权力，人民就可以约束并惩罚他们……我们用以下论证来驳斥它。
+      >
+      > 每个人都获准为私人所有权而把自己奴役于任何他愿意的人，希伯来法与罗马法都清楚表明了这一点。既然如此，一个自己支配自己的人民，把自身交给某一个人或某些人，把统治自己的权利转让给那人或那些人，而不为自己保留一丝一毫，为什么就不可以同样合法呢？（*DIB* I.3.8.1）
+    step2: |-
+      > 首先必须驳斥这样一种意见：它认为主权在一切地方、毫无例外地属于人民，因此只要国王滥用权力，人民就有权约束并惩罚他们……我们用下述论证来驳斥它。
+      >
+      > 每个人都获准为私人所有权而把自己出卖为任何他愿意之人的奴隶，希伯来法与罗马法均有明证。那么，一个自己支配自己的人民，把自身交托给某一个人或某些人，把统治自己的权利转让给他或他们，不为自己保留分毫，为何就不能同样合法呢？（*DIB* I.3.8.1）
   - id: 63
     kind: body
     source: |-
       Grotius extends the case elsewhere, insisting that a people may give their rights to a ruler, receiving a peaceful and stable society in return (*DIB* I.4.2.1). But what are the limits placed on the ruler who has taken possession of these rights? To some readers, Grotius’ willingness to allow agents to transfer their rights leaves him open to charges of befriending despots. Provided that the initial transfer of rights was legitimate, then once the ruler is in possession of rights, those living under him or her have no right to complain that certain forms of behavior are unjust, for they have no relevant rights at all. As Rousseau put it, Grotius “spares no pains to rob the people of all their rights and invest kings with them” (*Social Contract*, Book II, Chapter Two). To be sure, other readers denied that Grotius’ theory allowed agents a total transfer of their rights; in particular, they contended that agents will always retain their fundamental rights, such as the right of self-defense (see Locke as interpreted by Tuck 1979: 172–3)[^tuck-1979]. Nevertheless, whatever the theory itself actually implies, it remains that Grotius himself seems to have believed that agents may surrender all liberties in certain circumstances (for more, see *DIB* I.3.9–16).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      格劳秀斯在别处进一步申说此意，坚称人民可以把权利交给统治者，换得一个和平安稳的社会（*DIB* I.4.2.1）。可是，握有这些权利的统治者又受什么限制？在一些读者看来，格劳秀斯容许主体转让其权利，就难免有袒护暴君之嫌。只要最初的权利转让是合法的，那么一旦统治者握有权利，生活在其治下的人便无权抱怨某些行为不义，因为他们根本没有相关的权利。正如卢梭所说，格劳秀斯“不遗余力地剥夺人民的一切权利，把它们交给国王”（《社会契约论》第二卷第二章）。诚然，也有别的读者否认格劳秀斯的理论容许主体把权利完全转让；他们特别主张，主体永远保有根本权利，例如自卫权（见 Tuck 1979: 172–3 对洛克的解读）[^tuck-1979]。然而，无论理论本身实际蕴含什么，格劳秀斯本人似乎相信，主体在某些情况下可以放弃全部自由，这一点仍然成立（详见 *DIB* I.3.9–16）。
+    step2: |-
+      格劳秀斯在别处把论题再往前推：他坚称人民可以把权利交给统治者，换得一个和平安稳的社会（*DIB* I.4.2.1）。可是，握有这些权利的统治者又受什么限制？在一些读者看来，格劳秀斯既然容许主体转让权利，就难免袒护暴君之嫌：只要最初的权利转让合法，统治者一旦握有权利，其治下的人便无权抱怨某些行为不义，因为他们根本没有相关的权利。卢梭说得刻薄：格劳秀斯“不遗余力地剥夺人民的一切权利，把它们交给国王”（《社会契约论》第二卷第二章）。当然，另有读者否认格劳秀斯的理论允许主体把权利全部让渡；他们特别主张，主体永远保有自己的根本权利，例如自卫权（见 Tuck 1979: 172–3 对洛克的解读）[^tuck-1979]。然而，无论理论本身实际意涵为何，格劳秀斯本人似乎相信，主体在某些情势下可以放弃全部自由，这一点并无改变（详见 *DIB* I.3.9–16）。
   - id: 64
     kind: body
     source: |-
       On a more positive note, Grotius’ recognition of the transferability of rights led him to a novel solution for one of the great problems of political philosophy. What is the source of the state’s right or power? Two traditional answers were (1) God—he set up the state and it derives its authority from his sanction—and (2) might—because the state is powerful, it has the authority to govern, for might makes right. While Grotius flirts with both of these, he finally settled for something else. He writes in the *DIP*,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从较积极的方面说，格劳秀斯承认权利可转让，由此为政治哲学的一大难题提出了新颖的解答：国家的权利或权力来自何处？传统的回答有两种：(1) 上帝，祂设立国家，国家的权威来自祂的认可；(2) 强力，国家强大，便有统治的权威，因为强权即公理。格劳秀斯对两者都有所尝试，最终却另有所定。他在 *DIP* 中写道：
+    step2: |-
+      再从积极的方面看，格劳秀斯承认权利可以转让，由此为政治哲学的一大难题给出了新颖的解答：国家的权利或权力从何而来？传统答案有二：其一，上帝——祂设立国家，国家的权威来自祂的认可；其二，强力——国家强大，便有统治的权威，因为强权即公理。格劳秀斯对两者都曾有所动心，最终却另择他路。他在 *DIP* 中写道：
   - id: 65
     kind: body
     source: |-
       > just as every right [*ius*] of the magistrate comes to him from the state, so has the same right come to the state from private individuals; and similarly, the power of the state is the result of collective agreement. (Chap. Eight)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 正如官吏的每项权利［*ius*］都来自国家，国家的同一权利也来自私人个体；同样，国家的权力是集体协议的结果。（第八章）
+    step2: |-
+      > 正如官吏的每项权利［*ius*］都来自国家，国家的这一权利也来自私人个体；同样，国家的权力是集体协议的结果。（第八章）
   - id: 66
     kind: body
     source: |-
       Through innumerable, separate, sequential decisions occurring over a protracted period of time, individuals gradually agreed to form institutions for governing society by imbuing them with some of power which they naturally possess. Eventually, these institutions gelled into a single coherent entity which is the state. The state’s power, then, is the product neither of God nor of sheer force but instead of the willful transference of individuals’ powers or rights to it. It may be a mistake to interpret this idea as a nascent contractualism (see Tuck 1993: 178–9)[^tuck-1993] but likewise, it would be a mistake to deny the appeal it would have to later contractualists such as Hobbes.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在长时期内通过无数次彼此分开、先后相续的决定，个人逐渐同意设立治理社会的制度，并把自身自然具有的一部分力量注入其中。这些制度最终凝结为单一而连贯的实体，即国家。因此，国家的权力既非出自上帝，也非出自纯粹的强力，而是个人有意把自身力量或权利转让给它的产物。把这一观念解读为初生的契约论也许是个错误（见 Tuck 1993: 178–9）[^tuck-1993]；但同样，否认它对霍布斯这样后来的契约论者具有吸引力，也是错误。
+    step2: |-
+      在漫长的时间里，通过无数次彼此分开、先后相续的决定，个人逐渐同意设立治理社会的制度，并把自己天然具有的一部分力量注入其中；这些制度最终凝结为一个连贯的整体，即国家。因此，国家的权力既不出自上帝，也不出自纯粹强力，而是个人有意愿把自身力量或权利让渡给它。把这一观念读作初生的契约论，也许是误解（见 Tuck 1993: 178–9）[^tuck-1993]；但同样，否认它日后会吸引霍布斯这样的契约论者，也是误解。
   - id: 67
     kind: body
     source: |-
       All of this underscores Grotius’ real but uneven contributions to the doctrines of political liberalism which were being formulated in his time. To the emerging theory of liberalism, he gave the idea that individuals—both individual persons and individual groups of persons—are bearers of rights. Also, he advanced the compelling second-order account of the nature of those rights described above. And he argued strongly in support of the attribution of several specific first-order rights: for example, besides those which have already been mentioned (such as self-defense), he vigorously defended rights to property. However, as important as these and other contributions to liberalism are, they must be balanced against some of Grotius’ other views. For instance, while it is true that he thought individuals had rights, it is also true that he thought there were a number of circumstances in which those rights might be surrendered or even just overridden. So the rights that we are supposed to have in Grotius’ theory are not completely assured. More sinister are his views on slavery, which is or at least can be an entirely just institution. In the *DIP* he writes that Aristotle is not “mistaken when he says that certain persons are by nature slaves” (Chap. Six, Quest. V, Art. One). While Grotius may have repudiated this thought in the *DIB* (see III.7.1—but see also I.3.8.4), a simple argument continued to convince him that slavery is compatible with a just society. If individuals may sell their labor, Grotius reasons, then they should also be able to sell their liberty. If they sell all of their liberty, then they are of course slaves (I.3.8.1). A final weight to be placed on the balance of Grotius’ liberalism is his view on the status of rulers or sovereigns. Because sovereignty is “that power… whose actions are not subject to the legal control of another” (*DIB* I.3.7.1), it follows as a necessary truth that those who hold sovereignty are necessarily superior to all others. Because they are necessarily superior to the rest, Grotius considers rebarbative the suggestion that sovereigns are answerable to their subjects. They may wish to take the needs of her or his subjects into account (III.15) but this is only “praiseworthy” and not imperative. In sum, then, Grotius’ contributions to political liberalism are comparable to Hobbes, Spinoza, Locke and other seventeenth century luminaries. They are genuine and significant while mixed with decidedly non-liberal themes.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      凡此种种，都突显了格劳秀斯对其时代正在成形的政治自由主义学说所作的实际而不均衡的贡献。他为正在兴起的自由主义理论提供了这样的观念：个体（既包括单个的人，也包括单个的人群）是权利的承担者。他还提出了上文所述的那种极具说服力的关于权利性质的二阶说明。而且他为归属几种具体的一阶权利作了有力辩护：例如，除了已经提到的那些（如自卫权）之外，他还极力捍卫财产权。然而，这些以及其他对自由主义的贡献无论多么重要，都必须与格劳秀斯的另一些观点相权衡。例如，他固然认为个体拥有权利，但他也认为在不少情形下这些权利可以被放弃，甚至被直接压倒。因此，按格劳秀斯的理论，我们理应拥有的权利并非完全有保障。更令人不安的是他对奴隶制的看法：奴隶制是，或至少可以是，一个完全正义的制度。他在 *DIP* 中写道，亚里士多德说“某些人天性为奴”并非“错误”（第六章，问题五，第一条）。尽管格劳秀斯在 *DIB* 中可能放弃了这一想法（见 III.7.1，但也见 I.3.8.4），一个简单的论证仍持续使格劳秀斯相信奴隶制与正义社会相容：如果个人可以出卖其劳动，那么他们也应当能够出卖其自由；如果他们出卖全部自由，那他们当然就是奴隶（I.3.8.1）。最后，衡量格劳秀斯自由主义的又一砝码，是他关于统治者或主权者地位的看法。主权是“其行为不受他人法律控制”的力量（*DIB* I.3.7.1），因此，主权者必然高于所有其他人，这是必然真理。既然主权者必然高于其余的人，格劳秀斯便认为“主权者须对其臣民负责”这一主张令人生厌。主权者可以愿意顾及臣民的需要（III.15），但这只是“值得称许”，并非必需。总之，格劳秀斯对政治自由主义的贡献，与霍布斯、斯宾诺莎、洛克及其他十七世纪名人相当。这些贡献真实而重要，但其中混有绝非自由主义的主题。
+    step2: |-
+      凡此种种，都显出格劳秀斯对其时代正在成形的政治自由主义学说所作的贡献：确实存在，却并不均衡。他为正在兴起的自由主义理论贡献了一个观念：个体（无论单独的个人还是单独的人群）是权利的承担者。他还提出了上文的二阶说明，解释权利的性质，颇有说服力。他又为归属若干具体的一阶权利大力辩护：除了已提及者（如自卫权）之外，他还极力捍卫财产权。然而，这些及其他对自由主义的贡献无论多么重要，都得与他的另一些观点放在一起称量。他固然认为个体拥有权利，但他也认为，不少情形下这些权利可以被放弃，甚至被径直压过。按格劳秀斯的理论，我们理应拥有的权利并非万无一失。更令人不安的是他对奴隶制的看法：奴隶制是，至少可以是，一个完全正义的制度。他在 *DIP* 中写道，亚里士多德说“某些人天性为奴”并非“错误”（第六章，问题五，第一条）。格劳秀斯虽可能在 *DIB* 中放弃了这一想法（见 III.7.1，但也见 I.3.8.4），一个简单的论证却始终说服着他：既然个人可以出卖劳动，也就应当可以出卖自由；出卖全部自由，自然就成了奴隶（I.3.8.1）。衡量格劳秀斯自由主义的最后一个砝码，是他对统治者或主权者地位的看法。主权是“其行为不受他人法律支配”的力量（*DIB* I.3.7.1），于是有一条必然真理：主权者必然高于其他一切人。既然必然高于其余人等，格劳秀斯便觉得“主权者应对臣民负责”这类主张令人生厌。主权者不妨体察臣民的需要（III.15），但那只是“值得称许”，并非分内之责。总之，格劳秀斯对政治自由主义的贡献，足与霍布斯、斯宾诺莎、洛克等十七世纪名人相提并论：真实而重要，只是其中杂有全然非自由主义的主题。
   - id: 68
     kind: body
     source: |-
       ## 5. Just War Doctrine
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5. Just War Doctrine
+    step2: |-
+      ## 5 正义战争学说
   - id: 69
     kind: body
     source: |-
       As the title of his *magnum opus* implies, the normative status of war was of paramount concern to Grotius. The common distinction between *ius ad bellum* and *ius in bello*—the distinction between the rightful causes of war versus the rightful conduct of war—is useful for understanding his views. Regarding *ius ad bellum*, Grotius devotes *DIP* Chap. Three and *DIB* I.2 to the question of whether it is ever lawful to wage war. He argues that war is not only compatible with but sometimes compelled by all three major kinds of law—the law of nature, the law of nations or international law, and divine law. In support of his answer, he adduces a number of conceptual, historical and theological arguments. It would be tendentious to recount all of them, so take just one influential example of the first sort:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如其*巨著*的书名所示，战争的规范性地位是格劳秀斯关心的头等问题。*ius ad bellum* 与 *ius in bello* 的通行区分，即战争的正当理由与战争中的正当行为之别，有助于理解他的观点。关于 *ius ad bellum*，格劳秀斯在 *DIP* 第三章与 *DIB* I.2 专门讨论发动战争是否在任何情况下合法的问题。他主张，战争不仅与全部三种主要的法相容，有时还为其所要求：这三种法即自然法、万民法或国际法，以及神法。为支持这一回答，他举出许多概念性、历史性与神学性的论证。一一复述未免偏颇，姑举其中第一类的一个有影响的例子：
+    step2: |-
+      他的*巨著*书名已自道其旨：战争的规范性地位，是格劳秀斯最关心的问题。*ius ad bellum* 与 *ius in bello* 的通行区分（开战的正当理由与战中的正当行为之别），是理解其观点的方便之门。关于 *ius ad bellum*，格劳秀斯以 *DIP* 第三章与 *DIB* I.2 专论一个问题：发动战争是否可能在任何情况下都是合法的。他主张，战争不仅与三种主要法都相容，有时还为其所要求；这三种法即自然法、万民法（即国际法）与神法。为支撑这一回答，他列举了许多概念性、历史性与神学性的论证。逐一复述未免失于偏颇，只取第一类中一个有影响的例子：
   - id: 70
     kind: body
     source: |-
       > He who wills the attainment of a given end, wills also the things that are necessary to that end. God wills that we should protect ourselves, retain our hold on the necessities of life, obtain that which is our due, punish transgressors, and at the same time defend the state… But these divine objectives sometimes constitute causes for undertaking and carrying on war… Thus it is God’s Will that certain wars should be waged… Yet no one will deny that whatsoever God will, is just. Therefore, some wars are just. (*DIP* Chap. Three)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 意欲达到既定目的者，也意欲达到该目的所必需的手段。上帝意欲我们保护自己，保住生活必需之物，取得应得之物，惩罚越界者，同时保卫国家……但这些神圣目标有时构成开战与继续作战的原因……因此，发动某些战争是上帝的意志……而没有人会否认，凡上帝所愿者皆是正义的。所以，有些战争是正义的。（*DIP* 第三章）
+    step2: |-
+      > 意欲达到既定目的者，也意欲达到该目的所必需的手段。上帝意欲我们保护自己，保住生活必需之物，取得应得之物，惩罚越界者，同时保卫国家……但这些神圣目标有时构成开战与续战的原因……因此，发动某些战争是上帝的意志……而没有人会否认，凡上帝所愿者皆是正义的。所以，有些战争是正义的。（*DIP* 第三章）
   - id: 71
     kind: body
     source: |-
       Far from believing that war is a condition outside the realm of morality and law, Grotius took it to be an instrument of right (cf. Dumbauld 1969: 73)[^dumbauld-1969]. As he wrote, “where judicial settlement fails, war begins” (*DIB* II.1.2.1). Wars may be justly undertaken in response either to “wrongs not yet committed, or to wrongs already done” (ibid.). The list of wrongs which justify war is long, including the inflicting of punishment (ibid.), self-defense (II.1.3), the defense of chastity (II.1.7), etc. At the same time as he countenances war, Grotius does set limits, some of them controversial. For example, he argues that one doesn’t have the right to defend oneself against an assailant who is “useful to many” (II.1.9.1). This principle applies to both individuals and states. So it follows that both individuals and states may be obliged to acquiesce when attacked by someone important to society—whether the society of a single nation or the society of nations. Overall, it has been argued, what sets Grotius’ analysis of *ius ad bellum* apart from his predecessors is “in his detailed and systematic elaboration of the ‘just causes’ of war’” (Draper 1990: 194)[^draper-1990].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      格劳秀斯绝不认为战争处于道德与法律的领域之外，而把它看作正义的工具（参 Dumbauld 1969: 73）[^dumbauld-1969]。他写道：“司法解决失败之处，战争便开始”（*DIB* II.1.2.1）。针对“尚未犯下的恶，或已经犯下的恶”，都可以正义地开战（同上）。使开战成为正当的恶行清单很长，包括施加惩罚（同上）、自卫（II.1.3）、保卫贞洁（II.1.7）等等。格劳秀斯一面容许战争，一面也设定界限，其中一些有争议。例如，他主张对“对许多人有用”的攻击者，人没有自卫的权利（II.1.9.1）。这一原则既适用于个人，也适用于国家。因此，无论个人还是国家，当被一个对社会重要的人攻击时，也许都得默然忍受；这里的“社会”，既可以是单一国家的社会，也可以是各国构成的社会。总的说来，如论者所言，格劳秀斯对 *ius ad bellum* 的分析区别于前人之处，在于“他对战争的‘正义理由’作了详细而系统的阐发”（Draper 1990: 194）[^draper-1990]。
+    step2: |-
+      格劳秀斯全然不认为战争在道德与法律的领域之外，而把它看作正义的工具（参 Dumbauld 1969: 73）[^dumbauld-1969]。他写道：“司法解决失败之处，战争便开始”（*DIB* II.1.2.1）。无论是“尚未犯下的恶”，还是“已经犯下的恶”，都可以正义地开战回应（同上）。使开战正当的恶行清单很长：施加惩罚（同上）、自卫（II.1.3）、保卫贞洁（II.1.7）等等。他一面容许战争，一面也设限，其中一些颇具争议。例如他主张，对“对许多人有用”的攻击者，人无自卫之权（II.1.9.1）。这条原则对个人与国家一视同仁：无论个人还是国家，遭到对社会重要者攻击时，也许都只得默然忍受；这里的“社会”，可以是单一国家的社会，也可以是各国共同的社会。总的说来，如论者所言，格劳秀斯的 *ius ad bellum* 分析之所以区别于前人，在于“他对战争的‘正义理由’作了详细而系统的阐发”（Draper 1990: 194）[^draper-1990]。
   - id: 72
     kind: body
     source: |-
       Even supposing that a war has been undertaken rightly, it must also be fought rightly for it to be just. And here we come to *ius in bello*, a topic treated in *DIB* III. Grotius begins by setting three rules governing the conduct of war (*DIB* III.1.2–4), the first and most basic of which is that “In war things which are necessary to attain the end in view are permissible” (III.1.2). This obviously places wide limits on permissible conduct, though it isn’t as chilling as a first reading might suggest, for the necessity requirement can be hard to meet. After advancing these rules, Grotius considers the permissibility of a large number of actions. The variety and amount of detail in this discussion is fascinating. Typical is his analysis of ruses, deceit and falsehood. Not only does he distinguish between those three ways of conveying false impressions but also he distinguishes variations within each of them (see III.1.6–20). For example, if deceit is a genus, then deceit in a negative action is one species (III.1.7) and deceit in a positive action is another (III.1.8). And deceit in a positive action can in turn be divided into two sub-species (ibid.). The practical aims of *DIB* come through plainly here and throughout Book III, where the priority seems to be clarifying what exactly is and is not permissible in war by considering a large number of actions which could belligerents could undertake and determining their moral and legal standing. In general, Grotius held that war is justifiable when, and only when, it serves right. Since the conditions for service to right are numerous and non-obvious, he must expend considerable effort identifying and explicating them (for more, see Draper 1990: 191–207)[^draper-1990].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      即使假定开战正当，要使战争正义，作战也必须正当。这就到了 *ius in bello*，其主题在 *DIB* 第三卷处理。格劳秀斯先立三条支配战争行为的规则（*DIB* III.1.2–4），其中第一条也最基本：“在战争中，为达到目标所必需的事情是可允许的”（III.1.2）。这显然为可允许的行为划出了很宽的范围，不过它并不像初读给人的感觉那样令人胆寒，因为“必需”这一要求可能很难满足。提出这些规则之后，格劳秀斯考察大量行为的可允许性。这一讨论的多样与细密令人叹服。典型的是他对计谋、欺诈与谎言的分析。他不仅区分这三种传达假象的方式，还分辨每种方式内部的变体（见 III.1.6–20）。例如，如果欺诈是一个属，那么消极行为中的欺诈是一个种（III.1.7），积极行为中的欺诈是另一个种（III.1.8）；积极行为中的欺诈又可再分为两个亚种（同上）。*DIB* 的实践用意在此处以及整个第三卷表露得明白：其要务似乎是考虑交战者可能从事的大量行为，并确定其道德与法律地位，以澄清战争中什么恰好是可允许的、什么不是。大体而言，格劳秀斯认为，战争只有在服务于正义时，才是正当的。由于服务正义的条件众多而不显然，他必须花费大量气力去确认并阐明这些条件（详见 Draper 1990: 191–207）[^draper-1990]。
+    step2: |-
+      开战正当，还须作战也正当，战争才算正义。这就引出 *ius in bello*，其主题在 *DIB* 第三卷处理。格劳秀斯先立三条规则，约束战争行为（*DIB* III.1.2–4），第一条也最基本：“在战争中，为达到目标所必需的事情是可允许的”（III.1.2）。这给可允许的行为划了很宽的范围，却并不像初读给人的感觉那样骇人：“必需”这一要求其实未必容易满足。立定规则之后，格劳秀斯逐一考察大量行为的可允许性；这一讨论花样繁多、细密入微，令人叹服。典型的是他对计谋、欺诈与谎言的分析：他不仅分辨这三种传达假象的方式，还分辨每种方式之下的种种变体（见 III.1.6–20）。例如，若欺诈是一个属，消极行为中的欺诈是一个种（III.1.7），积极行为中的欺诈是另一个种（III.1.8）；积极行为中的欺诈又可再分两个亚种（同上）。*DIB* 的实践用意，在此处与整个第三卷都表露无遗：要务似乎是把交战者可能做的大量行为一一检视，确定其道德与法律地位，从而澄清战争中什么可允许、什么不可。大体而言，格劳秀斯认为，战争只有在服务于正义之时、且仅当其时，才是正当的；服务正义的条件众多而不显然，他只好花大气力去确认并阐明这些条件（详见 Draper 1990: 191–207）[^draper-1990]。
   - id: 73
     kind: body
     source: |-
       ## 6. Originality and Influence
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6. Originality and Influence
+    step2: |-
+      ## 6 原创性与影响
   - id: 74
     kind: body
     source: |-
       Coming at last to a broader assessment of Grotius’ contributions to the history of ideas, we should start by distinguishing the question of his originality from that of his influence. For our purposes, it will suffice to define originality as involving the formation of novel and important new concepts and/or methods while taking influence to consist in having major effects on others. Let us handle originality first before coming to the easier question of Grotius’ influence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后来更广泛地评估格劳秀斯对思想史的贡献。我们应当先区分他的原创性问题与影响问题。就本文的目的而言，把原创性界定为形成新颖而重要的新概念和（或）新方法，把影响界定为对他人产生重大效果，也就够了。我们先处理原创性，再处理较易回答的格劳秀斯影响问题。
+    step2: |-
+      最后，对格劳秀斯之于思想史的贡献作更宽的评估。评估之前，先把原创性问题与影响问题分开。就本文的目的而言，原创性不妨界定为形成新颖而重要的新概念或新方法，影响则指对他人产生重大效果。先谈原创性，再谈较易着手的格劳秀斯影响问题。
   - id: 75
     kind: body
     source: |-
       Given that his work ranged across so many different fields—ethics, political theory, politics, religion—it is impossible to make a blanket statement that Grotius was or was not an original thinker. Instead, the only responsible approach is to deal with his alleged contributions on a case-by-case basis. Because it would be tedious to go through all the cases here, let us just take the two which are likely to be of greatest interest to philosophers: ethics and political theory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      他的著作横跨如此多的领域（伦理学、政治理论、政治、宗教），因此不可能一概而论地说格劳秀斯是或不是原创思想家。唯一负责的做法，是就他据称的贡献逐案处理。这里逐案过一遍未免冗长，姑且只取哲学家最可能关心的两例：伦理学与政治理论。
+    step2: |-
+      格劳秀斯的著作横跨众多领域（伦理学、政治理论、政治、宗教），要说他是或不是原创思想家，一概而论必然失当。唯一负责的做法是逐案审理他的“贡献”之说。逐案检视未免冗长，此处只取哲学家最可能感兴趣的两例：伦理学与政治理论。
   - id: 76
     kind: body
     source: |-
       There is scholarly dispute about the originality of Grotius’ ethics. Irwin (2008) has recently argued that because he merely extracts the major elements of his theory of morality from other authors, especially Aquinas and Suarez, “Grotius is no pioneer” in the history of ethics (98). By contrast, Schneewind (1993) thinks that Grotius deserves credit for introducing agonism into ethics—the notion that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      格劳秀斯伦理学的原创性存在学术争论。Irwin (2008) 晚近论证说，格劳秀斯只是从其他作者（尤其是阿奎那与苏亚雷斯）那里摘取其道德理论的主要成分，因此“在伦理学史上，格劳秀斯不是先驱”（98）。相比之下，Schneewind (1993) 认为格劳秀斯把竞争论引入伦理学，这一功绩值得肯定——所谓竞争论，是这样一种观念：
+    step2: |-
+      格劳秀斯伦理学的原创性，学界本有争执。Irwin (2008) 晚近论证：格劳秀斯只是从别的作者（尤其阿奎那与苏亚雷斯）那里摘取道德理论的主要成分，故“在伦理学史上，格劳秀斯算不上先驱”（98）。Schneewind (1993) 则相反，认为格劳秀斯把对抗论（agonism）引入伦理学，居功至伟——所谓对抗论，是这样一种观念：
   - id: 77
     kind: body
     source: |-
       > conflict is ineradicable, and could not be removed, even in principle, by the completest possible metaphysical knowledge of how the world is constituted. (1993: 58).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 冲突不可根除，即便凭着关于世界构造的最完备的形而上学知识，在原则上也无法把它消除。（1993: 58）
+    step2: |-
+      > 冲突不可根除，即便凭关于世界构造的最完备的形而上学知识，在原则上也无法消除。（1993: 58）
   - id: 78
     kind: body
     source: |-
       Writing decades before Irwin and Schneewind, the Italian scholar A.P. d’Entrèves argues that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 Irwin 与 Schneewind 之前几十年，意大利学者 A.P. 登特列夫就论证说：
+    step2: |-
+      早在 Irwin 与 Schneewind 之前几十年，意大利学者 A.P. 登特列夫便论证说：
   - id: 79
     kind: body
     source: |-
       > It is not in its content that Grotius’ theory of natural law breaks away from Scholasticism. It is in its method. (d’Entrèves 1951 [1970: 54])[^entrèves-1951]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 格劳秀斯的自然法理论脱离经院哲学之处，不在其内容，而在其方法。（d’Entrèves 1951 [1970: 54]）[^entrèves-1951]
+    step2: |-
+      > 格劳秀斯的自然法理论脱离经院哲学，不在内容，而在方法。（d’Entrèves 1951 [1970: 54]）[^entrèves-1951]
   - id: 80
     kind: body
     source: |-
       According to d’Entrèves, Grotius attempted to
-    step1: TBD
-    step2: TBD
+    step1: |-
+      据登特列夫说，格劳秀斯试图
+    step2: |-
+      据登特列夫说，格劳秀斯所试图做的，是
   - id: 81
     kind: body
     source: |-
       > construct a system of laws which would carry conviction in an age in which theological controversy was gradually losing the power to do so … His successors completed the task. The natural law which they elaborated was entirely “secular”. (1951 [1970: 55])
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 建构一套法律体系，使其在一个神学论争正逐渐失去说服力的时代仍具有说服力……他的后继者完成了这项任务。他们所阐发的自然法完全是“世俗的”。（1951 [1970: 55]）
+    step2: |-
+      > 建构一套法律体系，使其在一个神学论争正逐渐失去说服力的时代仍具说服力……他的后继者完成了这项任务。他们所阐发的自然法完全是“世俗的”。（1951 [1970: 55]）
   - id: 82
     kind: body
     source: |-
       Others who have weighed in on the subject of the originality of Grotius’ ethics include Kilcullen (1995), Darwall (2012), and Miller (2020). A clear and balanced assessment is given by Tierney (1997: Chapter XIII).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      就格劳秀斯伦理学的原创性发表意见的，还有 Kilcullen (1995)、Darwall (2012) 与 Miller (2020)。Tierney (1997: Chapter XIII) 给出了清晰而持平的评价。
+    step2: |-
+      就格劳秀斯伦理学的原创性发表过意见的，还有 Kilcullen (1995)、Darwall (2012) 与 Miller (2020)。Tierney (1997: Chapter XIII) 的评价清晰而持平。
   - id: 83
     kind: body
     source: |-
       Turning to political theory, Sections 4–5 above identified various concrete contributions of Grotius’ to politics. For many scholars, however, Grotius is important not so much for his new ideas as for his new way of thinking about political problems. So, Kingsbury and Roberts say, “the greatest direct contribution of” the *DIB* is
-    step1: TBD
-    step2: TBD
+    step1: |-
+      转向政治理论。上文第 4、5 节已经指出格劳秀斯对政治的各种具体贡献。然而，对许多学者来说，格劳秀斯的重要之处与其说在于新观念，不如说在于他以新方式思考政治问题。金斯伯里与罗伯茨说，*DIB* 的“最伟大的直接贡献”是
+    step2: |-
+      再看政治理论。上文第 4、5 节已列出格劳秀斯对政治的各种具体贡献。但对许多学者而言，格劳秀斯的分量不在新观念，而在思考政治问题的新方式。金斯伯里与罗伯茨说，*DIB* 的“最伟大的直接贡献”在于
   - id: 84
     kind: body
     source: |-
       > the systematic reassembling of practice and authorities on the traditional but fundamental subject of the *jus belli*, organized for the first time around a body of principles rooted in the law of nature. (1990: 3–4)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 就战争法权这一传统而根本的主题，系统地重新汇编了实践与权威，并第一次围绕一套植根于自然法的原则加以组织。（1990: 3–4）
+    step2: |-
+      > 就战争法权（*jus belli*）这一传统而根本的主题，系统地重新汇编了实践与权威，并首次围绕一套植根于自然法的原则加以组织。（1990: 3–4）
   - id: 85
     kind: body
     source: |-
       There is a different gauge of Grotius’ originality in the domain of politics. Through his writings, he gave rise to a theory of statehood and the relations among states which has come to be known as, simply, “Grotian” (the labels are used by Wight (1991), among others). This theory is an account of the origins and identity conditions of states. It conceives of states as existing not in a pre- or anti-social condition but rather in an international society governed by a system of norms. Those norms hold apart from a positive action by a legislature or legislator. At the same time as it insists on the existence and relevance of these norms (which are, of course, the laws of nature), it is also cognizant of the force of real politick. Individual states will engage in the pursuit of their own perceived interests, regardless of whether such pursuits place them in conflict with the natural law. By doing all of this, the Grotian school is supposed to negotiate a middle way between bare-knuckled “Machiavellianism” and excessively idealistic “Kantianism” (for more, see Wight together with the criticisms in Bull 1976)[^bull-1976]. Depending on the fortunes of these schools at any particular moment in history, Grotius’ influence on international relations will be waxing or waning.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      格劳秀斯的原创性在政治领域还有一个不同的衡量尺度。他的著作催生了一种关于国家性以及国家间关系的理论，人们径称之为“格劳秀斯式”（Wight (1991) 等人使用这一标签）。这一理论说明国家的起源与身份条件。它把国家设想为并非存在于前社会或反社会状态中，而是存在于一个由规范体系支配的国际社会之中。这些规范不依赖立法机关或立法者的实定行为而成立。该理论一面坚持这些规范（当然就是自然法）的存在与相关性，一面也认识到现实政治的力量。个别国家会追求自己所认定的利益，而不论这种追求是否使它们与自然法相冲突。凡此种种，使格劳秀斯学派得以在赤裸裸的“马基雅维利主义”与过于理想化的“康德主义”之间开辟一条中间道路（详见 Wight，以及 Bull 1976 的批评）[^bull-1976]。格劳秀斯对国际关系的影响是盈是亏，取决于这些学派在历史某一时刻的运势。
+    step2: |-
+      衡量格劳秀斯在政治领域的原创性，还有一个尺度。他的著作催生了一套关于国家之为国家、国家之间关系的理论，人们径称之为“格劳秀斯式”（Wight (1991) 等即用此名）。这套理论解说国家的起源与身份条件：它设想国家不在前社会状态或反社会状态之中，而在一个由规范体系支配的国际社会之中；这些规范无须立法机关或立法者的实定行为即告成立。理论一面坚持这些规范（自然法，当然）的存在与相关性，一面也识得现实政治的力量：个别国家总会追求自己所认定的利益，哪怕与自然法相扞格。如此，格劳秀斯学派便被认为在赤裸裸的“马基雅维利主义”与过分理想化的“康德主义”之间取了一条中道（详见 Wight，以及 Bull 1976 的批评）[^bull-1976]。至于格劳秀斯对国际关系的影响是盛是衰，则取决于这些学派在历史某一时刻的运势。
   - id: 86
     kind: body
     source: |-
       That mention of the influence brings us to the second broad topic of this concluding section. Scholars may argue about whether and how Grotius was original but no one can doubt his influence. For example, the Swedish King Gustav Adolph is supposed to have kept a copy of the *DIB* under his pillow, next to the Bible. And King James I reacted strongly (and negatively) to Grotius’ presentations during a diplomatic mission to England.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      提到影响，就引出了本结论节的第二个大题目。学者们尽可争论格劳秀斯是否原创、如何原创，但没有人怀疑他的影响。例如，据说瑞典国王古斯塔夫·阿道夫把一本 *DIB* 与《圣经》一起放在枕下。而英格兰国王詹姆斯一世在格劳秀斯出使英格兰期间听其陈说，反应强烈（且是负面的）。
+    step2: |-
+      说到影响，便进入本结论节的第二个大题目。格劳秀斯是否原创、如何原创，学者们尽可争论；他的影响却无人置疑。据说瑞典国王古斯塔夫·阿道夫把一本 *DIB* 与《圣经》一同置于枕下；英格兰国王詹姆斯一世在格劳秀斯出使英格兰时听其陈说，反应强烈，且是恶评。
   - id: 87
     kind: body
     source: |-
       So Grotius’ influence was felt on some of the major actors of his day. Naturally, though, his main impact was on other scholars. Bayle called him “one of the greatest men in Europe” (1720 [1740: 2.614]). Leibniz hailed “the incomparable Hugo Grotius” (see Leibniz 1710 [1985], 77)[^leibniz-1710]. Thomas Reid spoke of “the immortal Hugo Grotius” (see Reid 1788 [1815], 331)[^reid-1788], Hutcheson drew on him extensively, and Hume approvingly cited an argument of his about the origins of property in the third appendix of his second *Enquiry* (see Hume 1748 [1975], 307)[^hume-1748]. To be sure, not all were so impressed. Rousseau’s opinion has already been cited; the natural law theorist Samuel Pufendorf was also sceptical. And Voltaire found Grotius to be simply boring. Still, whether for good or for ill, Grotius was at the center of letters for an enviably long time. For a brief synopsis of Grotius’ influence, focusing on the *DIB* , see Tuck (2005: ix–xii).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      可见格劳秀斯的影响及于他那个时代的一些重要人物。不过，他的主要影响自然还是在其他学者身上。培尔称他为“欧洲最伟大的人物之一”（1720 [1740: 2.614]）。莱布尼茨盛赞“无与伦比的胡果·格劳秀斯”（见 Leibniz 1710 [1985], 77）[^leibniz-1710]。托马斯·里德谈到“不朽的胡果·格劳秀斯”（见 Reid 1788 [1815], 331）[^reid-1788]；哈奇森大量取资于他；休谟在其第二部《研究》的第三篇附录中赞许地引用了格劳秀斯关于财产起源的一个论证（见 Hume 1748 [1975], 307）[^hume-1748]。当然，并非人人都如此看重他。卢梭的意见前已引及；自然法理论家萨穆埃尔·普芬道夫也持怀疑态度。伏尔泰则觉得格劳秀斯简直乏味。尽管如此，无论出于好意还是恶意，格劳秀斯在很长一段时期里居于文坛的中心，其久长令人艳羡。关于格劳秀斯影响（尤以 *DIB* 为线索）的简要概述，见 Tuck (2005: ix–xii)。
+    step2: |-
+      可见他的影响已及于当时的一些重要人物。不过，主要的影响自然还是落在其他学者身上。培尔称他为“欧洲最伟大的人物之一”（1720 [1740: 2.614]）；莱布尼茨盛赞“无与伦比的胡果·格劳秀斯”（见 Leibniz 1710 [1985], 77）[^leibniz-1710]；托马斯·里德称道“不朽的胡果·格劳秀斯”（见 Reid 1788 [1815], 331）[^reid-1788]；哈奇森取资于他甚多；休谟在第二部《研究》的第三篇附录里赞许地引用了他关于财产起源的一个论证（见 Hume 1748 [1975], 307）[^hume-1748]。自然，并非人人都看重他。卢梭的意见前已引及，自然法理论家萨穆埃尔·普芬道夫也存疑虑，伏尔泰更觉得他简直乏味。尽管如此，无论毁誉，格劳秀斯长期居于文坛中心，其久长令人艳羡。关于格劳秀斯影响（尤以 *DIB* 为线索）的简要概述，见 Tuck (2005: ix–xii)。
   - id: 88
     kind: oir
     source: |-
       - [Briefwisseling van Hugo Grotius](https://www.historici.nl/Onderzoek/Projecten/BrievenVanHugoDeGroot1594-1645) (in Dutch). A very useful website on Grotius’ correspondence—including a searchable index of all the names in it, maintained at the Instituut voor Nederlandse Geschiedenis.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - [Briefwisseling van Hugo Grotius](https://www.historici.nl/Onderzoek/Projecten/BrievenVanHugoDeGroot1594-1645)（荷兰文）。一个关于格劳秀斯通信的极有用网站，包括通信中所有人名的可检索索引，由荷兰历史研究所维护。
+    step2: |-
+      - [Briefwisseling van Hugo Grotius](https://www.historici.nl/Onderzoek/Projecten/BrievenVanHugoDeGroot1594-1645)（荷兰文）。研究格劳秀斯通信的极有用网站，内含通信中所有人名的可检索索引，由荷兰历史研究所维护。

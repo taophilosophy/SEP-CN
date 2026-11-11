@@ -2,7 +2,7 @@
   "slug": "grotius",
   "kind": "retranslate",
   "zh_doc": "g/grotius.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-11T15:21:02Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-11T18:37:37Z",
+      "evidence": "账本 tasks/g/grotius.ledger.yaml 88 段（body 87 + oir 1）双版填毕；lq check HARD=0（SOFT 仅斜体→中文粗体/书名号转换与机械段）；compose 写回 g/grotius.md 34507 字符；批参数：ZCode 主会话直译、温度 0.2、batch_segments=all、无子代理"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-11T18:37:37Z",
+      "evidence": "逐段回核英文源：正文段 80:80、标题 18:18、脚注引用键 28:28 顺序一致、defs 93:93 逐行同序、公式 0；s1 实修 9 处（同一套基本信念/诸多障碍/吸引哲学家的是导论/直到康德才告终结/等所说/社会存在者的本质/既非理性又具理性/划定了很宽的范围/书名已把旨意点明）；漏译增译 0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-11T18:39:15Z",
+      "evidence": "check_prose 24 条告警：实修 23 条（de-chain 14→0、passive-bei 3→0、long-sentence 5→1、weak-verb 2→0）；余 1 条为 DIP 第三章引文内长句（86 汉字），按 ADR-0020 引文内部句式豁免留痕；语体：现代汉语学术书面语，无文言仿古，破折号仅用于真插入与转折"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-11T18:39:16Z",
+      "evidence": "check_style --docs --strict issues=0；check_academic --docs --strict 0 硬错误；check_math grotius 公式 0 缺失 0；check_summary HARD=0；check_terms 硬错误 0（新登人名 15 行、术语 18 行，faculty 并入既有行，Hugo Grotius 旧行标注废弃留痕）"
     }
   ],
   "blockers": [],
