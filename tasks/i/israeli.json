@@ -2,7 +2,7 @@
   "slug": "israeli",
   "kind": "retranslate",
   "zh_doc": "i/israeli.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -108,6 +108,34 @@
       "actor": "I-main-20261111",
       "at": "2026-11-10T22:12:34Z",
       "evidence": "三校体例：check_style --docs --strict 0 issue；check_academic --strict 0 硬错误；check_math formulas 0/missing 0/unbalanced 0；check_summary H1 mismatch 0；defs 37:37；marker 3:3；check_terms 硬错误 0（冲突 0）；人名补登 8 行"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T02:20:03Z",
+      "evidence": "初审（冷置回读：间隔 intentionality-ancient 全篇重译约一小时）：对照 yuanwen/i/israeli.md 逐节回读全文 226 行，段 80:80、节 h2 10:10/h3 19:19、defs 37:37、marker 3:3、公式 0:0 再核全等；年份序列审计 157:156，唯一差项为源文 age of 100（译作“一百岁”，中文数字规范化）。语体：现代汉语学术书面语，通读全文（直引与文献照录除外），无文言仿古、无半文半白，破折号 0 处"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T02:20:03Z",
+      "evidence": "复审逐句回核原文与逻辑，抽核高风险 15 段：§1 生卒三说与 Ibn al-Jazzar 年龄推算、§2 施特恩/齐默尔曼两假说、§3.1 四问（何性/性质/何因）、§3.6 第一/第二理智、§4.1 三本体与潜能/现实理智、§5.1 57 条定义与两拉丁两希伯来译本、§5.5 三译本、§6 加昂理性诫命。核出 0 处新错（上一轮 s2 已并入正文）；拉丁/希伯来/阿拉伯转写与引用组逐字符保留"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T02:20:05Z",
+      "evidence": "终稿验收：check_style --strict 0 issue；check_academic --docs --strict 0 硬错误；check_math 0/0/0；check_summary H1 mismatch 0；check_terms 硬错误 0。全库 check_all 在本隔离工作树报 SUMMARY ORPHAN 假阳性（worktree 结构所致）与 adorno/hobbes-moral/natphil-ren 三条他批 task-style-attest 存量，均非本条目产物；本条目四检全绿，CI 以推送后 main 终裁"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T02:20:05Z",
+      "evidence": "终审签字：israeli 80 段全量零信任重译（ADR-0033 置空回炉）完成，draft/s1/s2/s3/r1/r2/r3 步序齐备、凭证可复核；四检全绿、对账五维全等、prose 余 2 条引文/术语豁免留痕"
     }
   ],
   "blockers": [],
