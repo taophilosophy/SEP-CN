@@ -1872,6 +1872,7 @@
 | free will | — | 自由意志 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | Freedom | — | 自由 | 语料回收（标题词） | 审定名词库（termonline-all·自由在案，2026-10-31 浏览器通道凭证）；学界通行同形 | 2026-10-31 |
 | freedom from conceptual proliferations | — | 离戏论 | gorampa | 中观通行（spros pa dang bral ba，离一切戏论）；承登记册 conceptual proliferation 戏论 | 2026-11-09 |
+| freedom of association | — | 结社自由 | immigration | 学界通行（与政治自决关联）；凭证 2026-11-12 | 2026-11-12 |
 | freedom of conscience | — | 良心自由 | conscience 首译 | 学界通行（政治哲学与宪法学）；凭证 2026-11-08 | 2026-11-08 |
 | frequency interpretation | — | 频率解释 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | fridgeon | — | 冰箱子 | f/frame-problem 首译 | Fodor 造词（fridge+-on）意译兼音，学界沿用；凭证 2026-11-10 | 2026-11-10 |
@@ -2070,6 +2071,7 @@
 | Ḥanbalī | — | 罕百里派 | al-din-al-razi 首译 | 学界通行（逊尼派法学四大学派之一） | 2026-11-09 |
 | Hanf number | — | Hanf 数 | logic-infinitary | 模型论术语（人名保留英文）；凭证 2026-11-10 | 2026-11-09 |
 | Hannoverian Whigs | Hannoverian Whigs | 汉诺威辉格党人 | august-rehberg 首译 | 德国史通行（以哥廷根为基地的保守派作家群）；凭证 2026-11-08 | 2026-11-08 |
+| guest worker | — | 客籍工人 | immigration | 学界通行（Walzer 分析）；凭证 2026-11-12 | 2026-11-12 |
 | hannya / prajñā | 般若 | 般若 | kukai | 佛学界千年传统译名 | 2026-11-09 |
 | hard core | — | 硬核 | 语料回收（lakatos 首译） | 科学研究纲领方法论通行译法；凭证 2026-11-06 | 2026-11-06 |
 | hard facts | — | 硬事实 | omniscience | 学界通行译名（与 soft facts 对举）；凭证 2026-11-09 | 2026-11-09 |
@@ -2981,6 +2983,7 @@
 | metaphysical guilt | — | 形而上学罪责（亦作“形而上学罪感”） | 首译（stem-cells） | 学界惯例（集体责任文献汉译）；凭证 2026-11-09 | 2026-11-09 |
 | metaphysical necessity | — | 形而上学必然性 | 首现（zombies） | 学界惯例（克里普克后天必然性文献通行）；凭证 2026-11-10 | 2026-11-10 |
 | Metaphysics | — | 形而上学 | 语料回收（标题词，946 篇） | 审定名词库（termonline-all·形而上学在案，2026-10-31 浏览器通道凭证） | 2026-10-31 |
+| citizenship | — | 公民身份 | immigration | 学界通行（法律与政治身份）；凭证 2026-11-12 | 2026-11-12 |
 | metapopulation | — | 集合种群 | ecological-genetics 首译 | 学界通行译名（生态学文献）；凭证 2026-11-09 | 2026-11-09 |
 | metasomatosis | — | 易体 | bessarion | 本词条首译（柏拉图《蒂迈欧》灵魂易换躯体学说；无通行定译，待 specs/008 审定库复核） | 2026-11-10 |
 | metemsomatosis | — | 灵魂转生 | ibn-kammuna | 学界惯例（metempsychosis 同义）；凭证 2026-11-10 | 2026-11-10 |
@@ -3009,6 +3012,7 @@
 | millet seed | — | 黍粒（悖论名；亦作“谷粒”） | zeno-elea | 学界惯例（芝诺谷粒论证）；凭证 2026-11-09 | 2026-11-09 |
 | Mīmāṃsā | मीमांसा | 弥曼差（亦作“弥曼沙”） | 语料回收 | 学界惯例（印度哲学派名）；审定库无相关命中（凭证 2026-10-31）；审定库精确查无（凭证 2026-10-31） | 2026-10-31 |
 | Mīmāṃsā / Pūrva Mīmāṃsā | मीमांसा / पूर्वमीमांसा | 弥曼差／前弥曼差 | kumaarila | 印度哲学史学界通行（汉译佛典传统译名） | 2026-11-05 |
+| freedom of movement | — | 迁徙自由 | immigration | 学界通行（亦作“行动自由”）；凭证 2026-11-12 | 2026-11-12 |
 | mimar | — | 米马尔（叙利亚语'章'） | 首现（theology-aristotle） | 学界惯例（叙利亚语 mimar 音译＋义注）；凭证 2026-11-08 | 2026-11-08 |
 | mimesis | μίμησις | 模仿（亦作“摹仿”） | gadamer-aesthetics | 学界惯例（美学/诗学通行） | 2026-11-01 |
 | mina | — | 米那（古希腊货币单位） | zeno-elea | 学界通行（古希腊货币单位通译）；凭证 2026-11-09 | 2026-11-09 |
@@ -3023,6 +3027,7 @@
 | minisum | — | 最小和算子 | belief-merging | 学界通行（判断聚合文献）；凭证 2026-11-10 | 2026-11-10 |
 | Minjung Buddhism | — | 民众佛教 | korean-buddhism | 韩国学界通行（민중불교；Minjung=民众） | 2026-11-05 |
 | Minkowski spacetime | — | 闵可夫斯基时空 | spacetime-convensimul | 学界惯例（物理学通行） | 2026-11-06 |
+| irregular migrant | — | 非正规移民 | immigration | 学界通行（Carens 用法；避免“非法移民”污名化）；凭证 2026-11-12 | 2026-11-12 |
 | minor premise | — | 小前提 | logical-consequence | 逻辑史通行译法；凭证 2026-11-09 | 2026-11-09 |
 | minority group model | — | 少数群体模型 | disability | 本词条术语（社会模型之一支）；凭证 2026-11-09 | 2026-11-09 |
 | mirror of princes | — | 君主宝鉴 | giles | 中世纪政治思想史通行汉译（speculum principis） | 2026-11-10 |
@@ -3461,6 +3466,7 @@
 | open theism | — | 开放神论 | omniscience | 学界通行译名；凭证 2026-11-09 | 2026-11-09 |
 | openness | — | 开放性 | justice-moral-psych | 大五特质通行汉译（openness to experience 经验开放性）；凭证 2026-11-10 | 2026-11-10 |
 | Opera logica | — | 《逻辑著作》（*Opera logica*） | zabarella | 直译（源文自释 collected logical works）；凭证 2026-11-09 | 2026-11-09 |
+| open borders | — | 开放边界 | immigration | 学界通行（与 closed borders 对举）；凭证 2026-11-12 | 2026-11-12 |
 | operant conditioning | — | 操作性条件作用 | moral-learning | 学界通行（斯金纳传统）；凭证 2026-11-09 | 2026-11-09 |
 | operational definition | — | 操作定义 | spacetime-convensimul | 学界惯例（科学哲学通行） | 2026-11-06 |
 | operational rule | — | 运算规则 | logic-substructural | 证明论通行译法（与结构规则相对）；凭证 2026-11-10 | 2026-11-09 |
@@ -3744,6 +3750,7 @@
 | polis | πόλις | 城邦 | 语料回收 | 审定名词库（termonline-all·世界历史名词·希腊，2026-10-30 浏览器通道凭证） | 2026-10-30 |
 | Polish notation | — | 波兰记法 | lvov-warsaw | 逻辑史通行译法；凭证 2026-11-09 | 2026-11-09 |
 | political philosophy | — | 政治哲学 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
+| political self-determination | — | 政治自决 | immigration | 学界通行（与 national self-determination 民族自决相区分）；凭证 2026-11-12 | 2026-11-12 |
 | pollae myŏnmok（本來面目） | 本來面目 | 本来面目 | korean-buddhism | 禅林古语 | 2026-11-05 |
 | polumathiê | polumathiê | 博闻多识 | heraclitus 首译 | 学界通行（赫拉克利特 B40 语）；凭证 2026-11-09 | 2026-11-09 |
 | polyadic | — | 多元逻辑（与 monadic=一元逻辑配对） | kant-mathematics | 主会话收口 1728e694；凭证 2026-11-04 | 2026-11-04 |
@@ -4182,6 +4189,7 @@
 | reform conservatism | — | 改革保守主义 | august-rehberg 首译 | 保守主义研究通行；凭证 2026-11-08 | 2026-11-08 |
 | reformed epistemology | — | 改革宗认识论 | 首现（religion-epistemology） | 宗教哲学通行汉译（Plantinga/Wolterstorff 谱系）；凭证 2026-11-08 | 2026-11-08 |
 | Refutation of Idealism | — | 驳斥唯心论 | kant-transcendental | 康德研究中译通行（B274-279）；凭证 2026-11-10 | 2026-11-10 |
+| refugee | — | 难民 | immigration | 学界通行（1951 年公约定义）；凭证 2026-11-12 | 2026-11-12 |
 | refuting the arising of something existent or nonexistent | — | 破有无生因 | gorampa | 藏传中观五大因之一（yod med skye ‘gog） | 2026-11-09 |
 | refuting the four possibilities of arising | — | 破四句生因 | gorampa | 藏传中观五大因之一（mu bzhi skye ‘gog） | 2026-11-09 |
 | regress argument | — | 倒退论证 | knowledge-how | 知识论通行（无穷倒退／恶性循环论证）；凭证 2026-11-10 | 2026-11-10 |

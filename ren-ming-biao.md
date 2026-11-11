@@ -1754,6 +1754,7 @@
 | Husik, Isaac | — | 艾萨克·胡西克 | — | — | albo-joseph | 犹太哲学史家（《原则之书》英译者） | 2026-11-07 |
 | Huskey, Harry | — | 哈里·赫斯基 | 美国 | 1916–2017 | computing-history | 学界通行音译（SWAC、Bendix G15 设计者）；凭证 2026-11-10 | 2026-11-09 |
 | Huss, Boaz | — | 博阿兹·胡斯 | 以色列 | 1959– | scholem | 希伯来名音译；凭证 2026-11-08 | 2026-11-08 |
+| Hussein, Saddam | — | 萨达姆·侯赛因 | 伊拉克 | 1937–2006 | immigration | 学界通行汉译（伊拉克前总统）；凭证 2026-11-12 | 2026-11-12 |
 | Husserl, Edmund | — | 埃德蒙德·胡塞尔 | — | — | intentionality-ancient | 学界千年通行汉译 | 2026-11-07 |
 | Hutcheson, Francis | — | 弗兰西斯·哈奇森 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Hutton, Sarah | — | Sarah Hutton（现代学者，保留英文） | — | — | cambridge-platonists | ADR-0022（本词条作者，剑桥柏拉图主义研究）；凭证 2026-11-09 | 2026-11-09 |

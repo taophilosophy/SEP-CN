@@ -2,7 +2,7 @@
   "slug": "immigration",
   "kind": "retranslate",
   "zh_doc": "i/immigration.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-11T08:34:06Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T17:14:47Z",
+      "evidence": "账本 79 段双版全填（body 78＋oir 1；biblio 58 条照录不入账本），lq 守恒门 79 段通过（HARD=0）；compose 23,965 字符；版本钉 2010-05-10 首发、2024-10-23 实质修订"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T17:14:47Z",
+      "evidence": "一校五维对账：节 28:28、脚注 marker 92:92、defs 58:58、年份 194:194、公式 0；H1 与 SUMMARY 定名一致（移民）；相关词条映射订正 justice-international→全球分配正义（SUMMARY 定名）；人名 戴维·米勒（册内形，原译大卫回改）、约瑟夫·卡伦斯、迈克尔·沃尔泽等 12 行入册；术语 8 行入册（迁徙自由/结社自由/客籍工人/非正规移民/开放边界/政治自决/难民/公民身份）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T17:14:47Z",
+      "evidence": "二校语言：check_prose 24→0 全实修（长句 12、weak-verb 6、de-chain 3、as-one 2、被动 1；引文内部亦作可读化改写，无豁免）；check_style --strict 0；语体现代汉语学术书面语"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T17:14:48Z",
+      "evidence": "三校体例：check_style 0；check_academic --strict 无硬错误；check_math 0/0；check_summary H1 0；check_prose 0；check_quotes 0（顺带修 yi-zhe-shuo-ming 三行已提交的直角引号）；i_reconcile 五项全等"
     }
   ],
   "blockers": [],
