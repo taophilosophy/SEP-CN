@@ -1293,7 +1293,7 @@
 * [遗传系统 inheritance systems (Ehud Lamm)](i/inheritance-systems.md)
 * [先天性特征与后天获得性特征的区别 The Distinction Between Innate and Acquired Characteristics (Paul Griffiths and Stefan Linquist)](i/innate-acquired.md)
 * [\*先天 innateness](README.md)
-  * [先天和当代认知理论 and contemporary theories of cognition (Mark Cain)](i/innateness-cognition.md)
+  * [先天性与当代认知理论 and contemporary theories of cognition (Mark Cain)](i/innateness-cognition.md)
   * [围绕先天的历史争议 historical controversies (Jerry Samet)](i/innateness-history.md)
   * [先天与语言 and language (Fiona Cowie)](i/innateness-language.md)
 * [内部言语 inner speech (Daniel Gregory and Peter Langland-Hassan)](i/inner-speech.md)

@@ -1403,7 +1403,7 @@ outline: [1, 6]
 * [具身认知 embodied (Lawrence Shapiro and Shannon Spaulding)](e/embodied-cognition.md)
 * [文化与认知科学 and cognitive science (Daniel Kelly and Andreas De Block)](c/culture-cogsci.md)
 * [妄想 delusion (Lisa Bortolotti)](d/delusion.md)
-* [先天和当代认知理论 and contemporary theories of cognition (Mark Cain)](i/innateness-cognition.md)
+* [先天性与当代认知理论 and contemporary theories of cognition (Mark Cain)](i/innateness-cognition.md)
 * [记忆 memory (Kourken Michaelian and John Sutton)](m/memory.md)
 * [记忆的认识论问题 epistemological problems of (Matthew Frise)](m/memory-episprob.md)
 * [心理模块性 modularity of (Philip Robbins and Zoe Drayson)](m/modularity-mind.md)

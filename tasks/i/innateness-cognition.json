@@ -2,8 +2,72 @@
   "slug": "innateness-cognition",
   "kind": "retranslate",
   "zh_doc": "i/innateness-cognition.md",
-  "state": "pending",
-  "steps": [],
+  "state": "done",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-11T21:40:40Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-11T21:40:40Z",
+      "evidence": "先天性与当代认知理论：账本 83 段全填，守恒校验通过；style/quotes/prose/math 零问题；i_reconcile 对账全等（段 194/95、标题 11/11、脚注 marker 158/158、defs 102/102）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-11T21:53:33Z",
+      "evidence": "s1 对照 yuanwen：83 段逐段校，段 194/95、节标题 11/11、脚注 marker 158/158、defs 102/102、年份 433/434；补“先天与后天的区分”相关词条，无漏段增段"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-11T21:53:33Z",
+      "evidence": "s2 全文通读：术语按登记册统一（核心认知/共享意向性/心理理论等 23 条新登记，人名 30 条）；文言残留（我辈/亦/皆/故/方/何在）清零，check_prose 归零"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-11T21:53:34Z",
+      "evidence": "s3 四检复跑零问题（style/quotes/math/prose），学术规范 --strict 零硬错误，lq 守恒 83 段，i_reconcile 全等"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-11T22:01:16Z",
+      "evidence": "r1 忠实度冷读：对照原文修正 Gopnik & Wellman 引文（干预改变 A 概率→改变 B 概率）与“均分/因为”等误译；83 段逐段复核，无漏译增译"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-11T22:01:16Z",
+      "evidence": "r2 语体可读性冷读：全文通读 170 段，改“孰更简单/依 Strickland/此情此景/称其视野”等文言与生硬处；破折号仅保留原论证插入语"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-11T22:01:18Z",
+      "evidence": "r3 终校：style/quotes/math/prose 零问题，学术规范 --strict 零硬错误，lq 守恒 83 段，i_reconcile 全等；H1/SUMMARY/mu-lu-s 标题一致（先天性与当代认知理论）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-11T22:03:32Z",
+      "evidence": "done：全部校次完成，四检零问题，登记术语 23 条、人名 30 条"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:29:46Z",
   "version_pin": {
