@@ -473,170 +473,226 @@ segments:
     kind: body
     source: |-
       Gramsci’s *Prison Notebooks* (or *Quaderni del carcere*) comprise around three thousand pages of thematically organized essays, observations and comments, written between 1929 and 1935 (see QC). A number of his notes were revised over time, which indicates they were not written randomly but conformed, in part, to a plan. Recent research offers some clue as to the logic and chronology of their drafting (see Francioni 1984)[^francioni-1984]. Nonetheless, the *Notebooks* were not written for publication and, as a whole, they remain fragmentary with no explicit guide as to how, or in even what order, the contents might be read.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      葛兰西的《狱中札记》（*Quaderni del carcere*）约有三千页，由按主题编排的论文、观察与评论组成，写于 1929 至 1935 年间（见 QC）。他的若干笔记曾随时间修订，这表明它们并非随意写成，而部分地遵循某个计划。晚近研究为其写作的逻辑与年代提供了一些线索（见 Francioni 1984）[^francioni-1984]。尽管如此，《札记》并非为出版而写，整体上仍是断片式的，没有明确指引说明内容应如何阅读、甚至以何顺序阅读。
+    step2: |-
+      葛兰西的《狱中札记》（*Quaderni del carcere*）约三千页，由按主题编排的论文、札记与评论组成，写于 1929 至 1935 年间（见 QC）。其中不少笔记随时间反复修订，说明它们并非随意写成，而部分地遵循某一计划；晚近研究为写作的逻辑与年代提供了线索（见 Francioni 1984）[^francioni-1984]。尽管如此，《札记》并非为出版而写，整体仍是断片式的，也没有明确指引说明内容该如何读、甚至按何顺序读。
   - id: 59
     kind: body
     source: |-
       In his earliest letters from detention, Gramsci indicated various themes that he hoped to explore, including Italian intellectuals, comparative linguistics, the plays of Pirandello, newspapers and other forms of “popular literature” (GPL: 45–6). Later he listed more topics—including historiography, the development of the Italian bourgeoisie, the southern question, common sense, and folklore.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在最早的羁押书信中，葛兰西列出了他希望探讨的若干主题，包括意大利知识分子、比较语言学、皮兰德娄的戏剧、报纸以及其他形式的“通俗文学”（GPL: 45–6）。后来他又列出更多题目——包括历史编纂学、意大利资产阶级的发展、南方问题、常识与民俗。
+    step2: |-
+      在最早的羁押书信中，葛兰西列出若干想探讨的主题：意大利知识分子、比较语言学、皮兰德娄的戏剧、报纸以及其他“通俗文学”形式（GPL: 45–6）。后来他又补充了历史编纂学、意大利资产阶级的发展、南方问题、常识与民俗等题目。
   - id: 60
     kind: body
     source: |-
       These cultural and historical headings may appear uncontroversial. But they permitted Gramsci to develop his wider thoughts on the practical and intellectual problems that had preoccupied him prior to his arrest. That included: historical features of the Italian state; theoretical concepts for analyzing the cultural and political conditions of class domination; and the organizing principles and character of a revolutionary strategy. Freed from the immediate constraints of tactical decisions and their repercussions, Gramsci drew on his humanistic training to extend and deepen his understanding of these problems (see Schwarzmantel 2015)[^schwarzmantel-2015].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些文化与历史的标题看起来可能无甚争议。但它们使葛兰西得以深化其对被捕前一直萦怀的实践与智识问题的思考。这包括：意大利国家的历史特征；用于分析阶级支配的文化与政治条件的理论概念；以及革命战略的组织原则与品格。摆脱了战术决定及其后果的眼前束缚，葛兰西借助其人文主义训练，拓展并加深了对这些问题的理解（见 Schwarzmantel 2015）[^schwarzmantel-2015]。
+    step2: |-
+      这些文化与历史标题看似无甚争议，却使葛兰西得以深化对被捕前一直萦怀的实践与智识问题的思考：意大利国家的历史特征；分析阶级支配之文化政治条件的理论概念；革命战略的组织原则与品格。摆脱了战术决定及其后果的眼前束缚，葛兰西借助人文主义修养，拓展并加深了对这些问题的理解（见 Schwarzmantel 2015）[^schwarzmantel-2015]。
   - id: 61
     kind: body
     source: |-
       ### 3.1 Hegemony
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1. 霸权
+    step2: |-
+      ### 3.1 霸权
   - id: 62
     kind: body
     source: |-
       The concept often regarded as the locus of innovation in the *Notebooks*—and hence their philosophical linchpin—is “hegemony” (*egemonia*), signifying both leadership and domination.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《札记》中常被视为创新所在——因而也是其哲学枢纽——的概念是“霸权”（*egemonia*），它既指领导，也指支配。
+    step2: |-
+      《札记》中常被视为创新所在、因而也是其哲学枢纽的概念是“霸权”（*egemonia*），兼指领导与支配。
   - id: 63
     kind: body
     source: |-
       Hegemony had been a common term in debates among Russian Marxists and usually described the leading (or “hegemonic”) role of the working class over its allies in a political coalition. But it had also been employed by Italian political thinkers in the nineteenth century to imagine gradually building consent across the nation for the new state—“making Italians”—rather than relying exclusively on the exercise of force. Gramsci fused these meanings to present hegemony as the general hypothesis that a social class aims to achieve consensual domination for its rule by progressively expanding its leadership across society (see Femia 1981)[^femia-1981].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      霸权在俄国马克思主义者的辩论中曾是一个常用词，通常描述工人阶级在政治联盟中对其盟友的领导（或“霸权”）角色。但十九世纪意大利政治思想家也曾用它来设想在全国逐步为新国家建立同意——“造就意大利人”——而不是单纯依靠强制的行使。葛兰西融合了这两种含义，把霸权呈现为如下一般假设：一个社会阶级通过逐步扩展其在社会中的领导，力求为其统治赢得共识性支配（见 Femia 1981）[^femia-1981]。
+    step2: |-
+      “霸权”在俄国马克思主义者的论辩中曾是常用词，通常指工人阶级在政治联盟中对其盟友的领导（“霸权”）角色。但十九世纪意大利政治思想家也曾用它设想在全国逐步为新国家积累同意——“造就意大利人”——而非单纯依靠强制。葛兰西把两种含义熔为一炉，把霸权呈现为如下一般假设：一个社会阶级通过逐步扩展其社会领导，力求为自己的统治赢得共识性支配（见 Femia 1981）[^femia-1981]。
   - id: 64
     kind: body
     source: |-
       This idea—with its potential for variation in empirical focus and application—was developed across different notes and topics, sometimes as a methodological device to analyze historical situations, at other times alongside different concepts to make strategic observations. But it also functioned more broadly as a philosophical horizon highlighting the inseparability of thought and action, signaling that all intellectual enquiries were unavoidably implicated in the formation of an integral “way of life”. Focusing on hegemony permits us to appreciate the *Notebooks* as a unified intellectual project, despite their disparate themes and contrasting accents.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一观念——在经验焦点与应用上有变化潜力——在不同笔记与主题中得到发展：有时作为分析历史情境的方法论工具，有时与其他概念一道作出战略性观察。但它也更宽泛地充当一种哲学视域，凸显思想与行动不可分离，表明一切智识探究都不可避免地卷入一种整全“生活方式”的形成。聚焦于霸权，使我们能够把《札记》理解为一个统一的智识工程，尽管其主题分散、侧重相反。
+    step2: |-
+      这一观念在经验焦点与应用上富于变化，并在不同笔记与主题中展开：有时作为分析历史情境的方法论工具，有时与其他概念并用而作出战略判断。它同时也更宽泛地充当一种哲学视域，凸显思想与行动不可分离，表明一切智识探究都不可避免地卷入一种整全“生活方式”的形成。聚焦霸权，使我们能把《札记》看作一个统一的智识工程，尽管其主题分散、侧重相左。
   - id: 65
     kind: body
     source: |-
       The major themes of Gramsci’s ideas concerning hegemony are explored below, starting with his “sociological” observations on the state, intellectuals, and ideology (§3.2–4), and then looking at his theoretical reconstruction of Marxist philosophy (§3.5), and his observations concerning the revolutionary party (§3.6).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      以下探讨葛兰西关于霸权之思想的主要主题：先看他关于国家、知识分子与意识形态的“社会学”观察（§3.2–4），再看他对马克思主义哲学的理论重构（§3.5），以及他关于革命党的观察（§3.6）。
+    step2: |-
+      下文依次探讨其霸权思想的主要主题：先看他关于国家、知识分子与意识形态的“社会学”观察（§3.2–4），再看他关于马克思主义哲学的理论重构（§3.5），最后是他关于革命党的观察（§3.6）。
   - id: 66
     kind: body
     source: |-
       ### 3.2 State and Civil Society
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2. 国家与市民社会
+    step2: |-
+      ### 3.2 国家与市民社会
   - id: 67
     kind: body
     source: |-
       Gramsci’s discussion of hegemony hinged, in part, on the empirical observation that capitalist rule in developed western states, increasingly, is founded on the generation of consent across civil society, not solely on the deployment of coercion via the army, police or law courts.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      葛兰西关于霸权的讨论，部分取决于一个经验观察：发达西方国家的资本主义统治日益建立在市民社会范围内同意的生成之上，而不只依靠军队、警察或法院的强制。
+    step2: |-
+      葛兰西关于霸权的讨论部分基于一个经验观察：在发达西方国家，资本主义统治日益建立在市民社会范围内同意的生成之上，而不只依靠军队、警察或法院的强制。
   - id: 68
     kind: body
     source: |-
       Expanding on his suggestion from 1926 (see §2.3 above) that the ruling class had available to it “political and organizational reserves”, Gramsci now argued that modern states since the mid-nineteenth century have tended to cultivate consensual support—or hegemony—across civil society such that coercion, or its threat, was no longer the primary form of rule, except in “moments of crisis of command and direction when spontaneous consent has failed” (SPN: 220–21).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      葛兰西 1926 年曾提出统治阶级拥有“政治与组织后备力量”（见上文 §2.3），现在他进一步论证：自十九世纪中叶以来的现代国家倾向于在市民社会中培育共识性支持——即霸权——以致强制或其威胁不再是统治的主要形式，除非在“领导与方向发生危机、自发同意已经失败的时刻”（SPN: 220–21）。
+    step2: |-
+      他 1926 年已提出统治阶级握有“政治与组织后备力量”（见上文 §2.3）；如今进一步论证：自十九世纪中叶以来，现代国家倾向于在市民社会中培育共识性支持——霸权——以致强制或其威胁不再是最主要的统治形式，除非在“领导与方向发生危机、自发同意已经失败的时刻”（SPN: 220–21）。
   - id: 69
     kind: body
     source: |-
       Gramsci drew on a distinction, common in Italian political thought, between “force” and “consent”. Hegemony referred to consent, although this was understood usually to be balanced with force. Modern states aimed to absorb threats to their power by winning over potentially hostile social groups and classes, compromising the immediate interests of the dominant class to maintain general support. Such efforts may often be fragile or limited, but that basic condition fundamentally altered the terrain of political contest. States could not be reduced to mere administrative units of executive authority—that is, to a separate “political society”—but were intertwined with a “sturdy structure of civil society”—schools, churches, “private associations”, newspapers, intellectuals and so on (SPN: 238). Unlike in Russia—where state power was strong and civil society weak (“primordial and gelatinous”)—modern states utilize the “trenches” of civil society by exercising “civil hegemony” (SPN: 243). This protected them from the threats to their rule caused by economic crises or civil disruption.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      葛兰西借助意大利政治思想中常见的“强制”与“同意”之分。霸权指同意，尽管通常理解为与强制相平衡。现代国家力图通过争取潜在敌对的社会群体与阶级、在维持总体支持的前提下牺牲统治阶级的眼前利益，来吸纳对其权力的威胁。这类努力往往脆弱或有限，但这一基本状况根本改变了政治斗争的地形。国家不能化约为行政权威的单纯行政单位——即一个分离的“政治社会”——而是与一个“坚固的市民社会结构”——学校、教会、“私人社团”、报纸、知识分子等等——交织在一起（SPN: 238）。与俄国不同——那里国家权力强大而市民社会弱小（“原初而胶状的”）——现代国家通过行使“市民霸权”来利用市民社会的“战壕”（SPN: 243）。这使它们免受经济危机或社会动荡对其统治造成的威胁。
+    step2: |-
+      葛兰西借助意大利政治思想中常见的“强制”与“同意”之分：霸权指同意，但通常理解为与强制相平衡。现代国家力图吸纳对其权力的威胁：争取潜在敌对的社会群体与阶级，并在维持总体支持的前提下牺牲统治阶级的眼前利益。这类努力往往脆弱或有限，但这一基本状况根本改变了政治斗争的地形。国家不能化约为行政权威的单纯单位——一个分离的“政治社会”——而总是与“坚固的市民社会结构”交织：学校、教会、“私人社团”、报纸、知识分子等等（SPN: 238）。俄国国家权力强大而市民社会弱小（“原初而胶状的”），现代国家则相反：通过行使“市民霸权”利用市民社会的“战壕”（SPN: 243），从而免受经济危机或社会动荡对其统治的威胁。
   - id: 70
     kind: body
     source: |-
       The state, then, was a complex structure combining both force and consent: it was both the instrument by which a ruling class maintained its dominance over society *and* the medium through which it undertook a “civilising activity”, functioning as an “ethical state” or “educator” by promoting “a certain way of life” for its citizens (SPN: 247; see also SPN: 12). At one point Gramsci formulated this as “State = political society + civil society (in other words hegemony protected by the armour of coercion)”, or what he also called an “integral” conception of the state.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，国家是一种兼具强制与同意的复杂结构：它既是统治阶级维持对社会支配的工具，*也是*它开展“教化活动”的媒介——通过为其公民提倡“某种生活方式”，充当“伦理国家”或“教育者”（SPN: 247；亦见 SPN: 12）。葛兰西曾把这一点表述为“国家 = 政治社会 + 市民社会（换言之，受强制之甲胄保护的霸权）”，或他所谓的国家的“整体”概念。
+    step2: |-
+      因此，国家是兼具强制与同意的复杂结构：它既是统治阶级维持社会支配的工具，*也是*开展“教化活动”的媒介——为公民提倡“某种生活方式”，充当“伦理国家”或“教育者”（SPN: 247；亦见 SPN: 12）。葛兰西曾表述为“国家 = 政治社会 + 市民社会（换言之，受强制甲胄保护的霸权）”，亦即他所谓国家的“整体”概念。
   - id: 71
     kind: body
     source: |-
       Gramsci’s remarks elaborated his earlier rejection of an exclusively insurrectionary model of revolution. In the *Notebooks* he was further suggesting that hegemony described a general condition applicable to both bourgeois and proletarian forms of rule. Revolutionary transformation—for *any* class—cannot be focused exclusively on the seizure of coercive and bureaucratic power but must engage the state’s wider system of defenses. He referred to this in the military terms that had become commonplace after the First World War as a switch from a “war of manoeuvre”—a direct and violent assault on the forces of the state—to a “war of position”—the gradual winning of tactical strongholds (SPN: 238–39). A revolutionary project, he suggested, must first build consent across civil society *before* taking formal power (SPN: 57). That did not mean that coercion would *never* be necessary, only that its status was diminished in modern states.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      葛兰西的这些论述发挥了他早先对单纯起义式革命模型的拒斥。在《札记》中，他进一步提出：霸权描述了一种同时适用于资产阶级与无产阶级统治形式的一般状况。革命变革——对*任何*阶级而言——都不能只聚焦于夺取强制性与官僚性的权力，而必须触动国家更广泛的防御体系。他用第一次世界大战后已司空见惯的军事术语来说明：从“运动战”——对国家力量的直接暴力攻击——转向“阵地战”——逐步夺取战术据点（SPN: 238–39）。他提出，革命工程必须首先在市民社会中建立同意，*然后*才夺取正式权力（SPN: 57）。这并不意味着强制*永远*不需要，而只是说它在现代国家中的地位下降了。
+    step2: |-
+      这些论述发挥了他早先对单纯起义式革命模型的拒斥。在《札记》中，他进一步提出：霸权描述的是同时适用于资产阶级与无产阶级统治的一般状况。因此，革命变革——对*任何*阶级而言——都不能只盯着夺取强制性与官僚性权力，而必须触动国家更广泛的防御体系。他借用一战后已习见的军事术语来表述：从“运动战”（对国家力量直接施加暴力攻击）转向“阵地战”（逐步夺取战术据点）（SPN: 238–39）。革命工程必须先在市民社会中建立同意，*然后*才夺取正式权力（SPN: 57）。这并不意味着强制*永远*不需要，只是说它在现代国家中的地位下降了。
   - id: 72
     kind: body
     source: |-
       Understanding variations in the exercise of hegemony required a political analysis attuned to the “equilibrium” of force and consent at any conjuncture. In place of the common Marxist division of economic “structure” and “superstructure”, Gramsci proposed the concept of a “historical bloc” (*blocco storico*). This was a composite of distinct class and social forces joined politically and culturally under a specific form of hegemony (SPN: 137). Additionally, it was possible to gauge the extent to which a class had sacrificed its “economic corporate” interests in expanding its leadership across civil society (SPN: 161). Empirical analysis of hegemony would assess the “relations of forces” that combined structures and superstructures in a historical situation (SPN: 181–85; for a discussion, see Bellamy & Schecter 1993: ch. 6)[^bellamy-1993].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      要理解霸权行使的种种变化，需要一种对任何时点强制与同意之“均势”保持敏感的政治分析。葛兰西以“历史集团”（*blocco storico*）概念取代马克思主义常见的经济“结构”与“上层建筑”二分。历史集团是在特定霸权形式下于政治上、文化上结合起来的各种阶级与社会力量的复合体（SPN: 137）。此外，还可以衡量一个阶级在扩展其在市民社会中的领导时牺牲了多少“经济-社团”利益（SPN: 161）。对霸权的经验分析将评估在某一历史情境中把结构与上层建筑结合起来“力量关系”（SPN: 181–85；讨论见 Bellamy & Schecter 1993: ch. 6）[^bellamy-1993]。
+    step2: |-
+      要理解霸权行使的变化，需要一种对任何时点强制与同意“均势”保持敏感的政治分析。葛兰西以“历史集团”（*blocco storico*）概念取代马克思主义常见的经济“结构”与“上层建筑”二分：历史集团是在特定霸权形式下，于政治上、文化上结合起来的各种阶级与社会力量的复合体（SPN: 137）。此外还可衡量：一个阶级为扩展其市民社会领导，牺牲了多少“经济-社团”利益（SPN: 161）。对霸权的经验分析，就是评估某一历史情境中把结构与上层建筑结合起来的“力量关系”（SPN: 181–85；讨论见 Bellamy & Schecter 1993: ch. 6）[^bellamy-1993]。
   - id: 73
     kind: body
     source: |-
       Gramsci explored various historical examples and concepts of political rule in the *Notebooks*. In extensive notes on the Italian Risorgimento (the period of state building in the nineteenth century) he highlighted the failure of the northern bourgeoisie to develop an extensive hegemonic leadership by incorporating “subaltern” social classes in the South (see SPN: 52–120). He borrowed the concept of “passive revolution” to describe this situation in which a change in economic structure occurs but without a radical political transformation; this was a concept he also suggested could describe Fascism (SPN: 105–20).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      葛兰西在《札记》中考察了各种历史实例与政治统治概念。在关于意大利复兴运动（十九世纪国家建设时期）的大量笔记中，他突出了北方资产阶级未能通过吸纳南方“从属”社会阶级来发展广泛的霸权领导（见 SPN: 52–120）。他借用“消极革命”概念来描述这种经济结构发生变化、却无激进政治变革的局面；他还提出这一概念也可用来描述法西斯主义（SPN: 105–20）。
+    step2: |-
+      葛兰西在《札记》中考察了多种历史实例与政治统治概念。在有关意大利复兴运动（十九世纪国家建设时期）的大量笔记中，他突出北方资产阶级的失败：未能通过吸纳南方“从属”社会阶级来建立广泛的霸权领导（见 SPN: 52–120）。他借用“消极革命”概念描述这种局面——经济结构变了，却无激进政治变革；并提示这个概念也可用于刻画法西斯主义（SPN: 105–20）。
   - id: 74
     kind: body
     source: |-
       ### 3.3 The Theory of Intellectuals
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.3. 知识分子理论
+    step2: |-
+      ### 3.3 知识分子理论
   - id: 75
     kind: body
     source: |-
       Intellectuals formed a major theme of the *Notebooks* and developed Gramsci’s brief observations on the topic prior to his arrest. Intellectuals, he noted,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      知识分子是《札记》的一大主题，发展了他被捕前关于该题的简短观察。他指出，知识分子
+    step2: |-
+      知识分子是《札记》的一大主题，进一步发展了他被捕前关于该题的简短观察。他指出，知识分子
   - id: 76
     kind: body
     source: |-
       > are the dominant group’s “deputies” exercising the subaltern functions of social hegemony and political government. (SPN: 12)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 是统治集团的“代理人”，行使社会霸权与政治政府的从属职能。（SPN: 12）
+    step2: |-
+      > 是统治集团的“代理人”，行使社会霸权与政治政府的从属职能。（SPN: 12）
   - id: 77
     kind: body
     source: |-
       As such, they were key agents in the state’s connection to civil society.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，他们是国家与市民社会相连接的关键能动者。
+    step2: |-
+      因此，他们是联结国家与市民社会的关键能动者。
   - id: 78
     kind: body
     source: |-
       To understand their role in organizing consent, he argued, it was necessary to expand the concept of intellectual. Rather than refer to academics or artists, who work explicitly with ideas, the category comprised all those whose social function was to communicate with, and educate, non-specialists (SPN: 9). Those undertaking the function of intellectuals included industrial technicians, managers, entrepreneurs, bureaucrats, and scientists. Gramsci distinguished between “organic” and “traditional” types: organic intellectuals emerged from a specific social class and functioned to elaborate that class’s productive activity as a set of general principles; traditional intellectuals, such as philosophers or the clergy, were remnants of a former historical stage who retained social prestige but no longer directly served a productive class. Intellectuals were therefore rooted in material relations of production but undertook the “critical elaboration” of that activity into a “new and integral conception of the world” (SPN: 9).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      他主张，要理解知识分子在组织同意中的作用，必须扩展知识分子的概念。这一范畴不指那些显明与观念打交道的学者或艺术家，而包括一切社会职能在于同非专家沟通并教育非专家的人（SPN: 9）。承担知识分子职能的人包括工业技术员、经理、企业家、官僚与科学家。葛兰西区分“有机的”与“传统的”两类：有机知识分子从特定社会阶级中产生，其职能是把该阶级的生产活动阐发为一套一般原则；传统知识分子——如哲学家或神职人员——是先前历史阶段的残余，保留了社会声望，却不再直接服务于某个生产阶级。因此，知识分子植根于物质生产关系，却把这种活动“批判地阐发”为“一种新的、整全的世界观”（SPN: 9）。
+    step2: |-
+      他主张，要理解知识分子在组织同意中的作用，就必须扩展知识分子的概念：它不指那些显明与观念打交道的学者或艺术家，而包括一切社会职能在于同非专家沟通、教育非专家的人（SPN: 9）。工业技术员、经理、企业家、官僚与科学家，都承担知识分子职能。葛兰西区分“有机的”与“传统的”：有机知识分子出身特定社会阶级，其职能是把该阶级的生产活动阐发为一套一般原则；传统知识分子（如哲学家或神职人员）是先前历史阶段的残余，仍享社会声望，却不再直接服务于某一生产阶级。因此，知识分子植根于物质生产关系，却把这种活动“批判地阐发”为“一种新的、整全的世界观”（SPN: 9）。
   - id: 79
     kind: body
     source: |-
       The construction of hegemony, Gramsci underlined, would require both the elaboration of new organic intellectuals and the assimilation of traditional intellectuals. He noted that his work with *Ordine Nuovo* in Turin had already involved developing new forms of “intellectualism” among skilled workers who constituted, in his view, the organic intellectuals of a future communist society (SPN: 9–10). In his notes on “Americanism and Fordism”, he explored this theme in modern rationalized and mechanized production systems, still with little optimism that proletarian organic intellectuals were ready to promote a new worldview (SPN: 279–318). Notably, Gramsci devoted considerable attention to an assessment of Croce, a traditional intellectual with an unparalleled “role in Italian life” (FSPN: 360), comparable “with that of the Pope in the Catholic world” (FSPN: 469; see also SPN: 94–95).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      葛兰西强调，霸权的建构既需要培养新的有机知识分子，也需要同化传统知识分子。他指出，自己在都灵与《新秩序》的工作已经涉及在熟练工人中发展新的“智识主义”形式；在他看来，这些工人构成了未来共产主义社会的有机知识分子（SPN: 9–10）。在关于“美国主义与福特主义”的笔记中，他在现代理性化、机械化的生产体系中探讨了这一主题，同时对无产阶级有机知识分子是否已准备好倡导新世界观仍不乐观（SPN: 279–318）。值得注意的是，葛兰西花了相当多篇幅评述克罗齐——一位拥有无可比拟的“在意大利生活中的角色”（FSPN: 360）、堪与“教宗在天主教世界中的地位”相比（FSPN: 469；亦见 SPN: 94–95）的传统知识分子。
+    step2: |-
+      葛兰西强调，建构霸权既需要培养新的有机知识分子，也需要同化传统知识分子。他提到，自己在都灵与《新秩序》的工作已在熟练工人中培育新的“智识主义”形式；在他看来，这些工人正是未来共产主义社会的有机知识分子（SPN: 9–10）。在“美国主义与福特主义”笔记中，他在现代理性化、机械化生产体系内探讨此主题，但对无产阶级有机知识分子是否已能倡导新世界观仍不乐观（SPN: 279–318）。值得注意的是，他花了相当篇幅评述克罗齐——一位传统知识分子，其“在意大利生活中的角色”（FSPN: 360）无可比拟，堪与“教宗在天主教世界中的地位”相比（FSPN: 469；亦见 SPN: 94–95）。
   - id: 80
     kind: body
     source: |-
       ### 3.4 Ideology and Common Sense
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.4. 意识形态与常识
+    step2: |-
+      ### 3.4 意识形态与常识
   - id: 81
     kind: body
     source: |-
       Gramsci’s attention to intellectuals connected to his reflections on popular consciousness and its practical organization in, for example, religion, education, language, and folklore (see FSPN: 1–137, 138–60; SPN: 26–43; SCW: 167–95). Popular attitudes, he underlined—drawing on his linguistic training—should not be dismissed but, rather, understood as part of how ordinary people lived and experienced their world (see Ives 2004)[^ives-2004]. They were also the medium through which hegemony was exercised.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      葛兰西对知识分子的关注，关联着他对民众意识及其在宗教、教育、语言与民俗等中的实际组织的思考（见 FSPN: 1–137, 138–60；SPN: 26–43；SCW: 167–95）。他借助语言学训练强调：流行的态度不应被轻视，而应被理解为普通人生活与经验世界的一部分（见 Ives 2004）[^ives-2004]。它们也是霸权得以行使的媒介。
+    step2: |-
+      葛兰西对知识分子的关注，关联着他对民众意识及其在宗教、教育、语言、民俗中实际组织的思考（见 FSPN: 1–137, 138–60；SPN: 26–43；SCW: 167–95）。他凭借语言学训练强调：流行态度不可轻视，而应被理解为普通人生活与经验世界的一部分（见 Ives 2004）[^ives-2004]。它们也是霸权行使的媒介。
   - id: 82
     kind: body
     source: |-
       The tendency among Marxists to diminish “ideology and politics”, reducing them to an immediate expression of an economic structure, was dismissed by Gramsci as “primitive infantilism” (SPN: 407). Instead, ideology should be grasped as a conception of the world that “serves to cement and unify” human practice (SPN: 328). It had a lived “psychological” validity that enabled people to become conscious of their practical situations, however inadequately (SPN: 377). It was therefore important to explore and understand that practical function. Gramsci did this in his remarks on “common sense” (*senso comune*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      马克思主义者中贬低“意识形态与政治”、把它们化约为经济结构的直接表现的那种倾向，被葛兰西斥为“原始的幼稚病”（SPN: 407）。相反，意识形态应被把握为一种“用来胶合与统一”人类实践的世界观（SPN: 328）。它具有一种活生生的“心理”有效性，使人得以意识到自己的实际处境，尽管这意识可能并不充分（SPN: 377）。因此，探讨并理解这种实际功能很重要。葛兰西在关于“常识”（*senso comune*）的论述中做了这件事。
+    step2: |-
+      马克思主义者中有一种倾向，贬低“意识形态与政治”，把它们化约为经济结构的直接表现；葛兰西斥之为“原始的幼稚病”（SPN: 407）。在他看来，意识形态应被把握为一种“用来胶合与统一”人类实践的世界观（SPN: 328），它具有活生生的“心理”有效性，使人（尽管往往不够充分地）意识到自己的实际处境（SPN: 377）。因此，探讨并理解其实际功能十分重要。葛兰西在关于“常识”（*senso comune*）的论述中正是这样做的。
   - id: 83
     kind: body
     source: |-
       Common sense—popular attitudes and beliefs, frequently accepted as “eternal” truths by ordinary people—denoted, for Gramsci, a largely uncritical and “fragmentary” mode of consciousness (SPN: 419). Consisting of superstitions and forms of “folklore” concerning the nature of reality and ethical conduct, common sense was a “philosophy of the popular masses”, often born from religion, that differentiated “simple” folk from educated intellectuals. Its danger was that it tended to invite resignation and passivity rather than collective action. That was a problem for what Gramsci referred to as “subaltern” groups—marginalized and subordinate classes such as the peasantry and the proletariat—who, despite periodic rebellions, never adequately challenge dominant classes (see Green 2002)[^green-2002]. Yet, common sense thinking often had a “healthy nucleus” in “good sense”, that is, in the practical and realistic attitudes that could be made “more coherent and unitary” (SPN: 328) if joined to a systematic and critical conception of the world. It was necessary not to dismiss common sense thinking (nor the struggles of subaltern groups) but to critically engage the “contradictory consciousness” of ordinary people (SPN: 326)—that is, the tendency to hold beliefs contradicted by actual conduct—and educate it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      常识——常被普通人当作“永恒”真理接受的流行态度与信念——对葛兰西而言指一种大体上不加批判的、“断片式的”意识方式（SPN: 419）。常识由关于实在之本性与伦理行为的迷信与“民俗”形式构成，是一种“民众大众的哲学”，常生于宗教，把“淳朴”民众与受过教育的知识分子区分开来。其危险在于，它往往招致顺从与消极，而非集体行动。这对葛兰西所谓“从属”群体——如农民与无产阶级这样的边缘化、被支配阶级——是一个问题：它们虽有周期性反抗，却从未充分挑战统治阶级（见 Green 2002）[^green-2002]。然而，常识思维往往在“健全理智”中有一个“健康的核”，即那些实际的、现实的态度；若与一种系统的、批判的世界观相结合，它们就可以被“变得更为连贯和统一”（SPN: 328）。必须不轻视常识思维（也不轻视从属群体的斗争），而是批判地介入普通人“矛盾的意识”（SPN: 326）——即持有与实际行为相矛盾的信念的倾向——并教育它。
+    step2: |-
+      常识——普通人常当作“永恒”真理接受的流行态度与信念——在葛兰西这里指一种大体不加批判的、“断片式”的意识方式（SPN: 419）。它由关于实在本性与伦理行为的迷信与“民俗”构成，是一种“民众大众的哲学”，常生于宗教，把“淳朴”百姓与受过教育的知识分子区分开来。其危险在于：它往往招致顺从与消极，而非集体行动。这对葛兰西所谓“从属”群体——农民、无产阶级等边缘化、受支配的阶级——是个问题：它们虽有周期性反抗，却从未充分挑战统治阶级（见 Green 2002）[^green-2002]。不过，常识思维往往在“健全理智”中有一个“健康的核”——那些实际、现实的态度；若与系统的、批判的世界观结合，就能被“变得更为连贯和统一”（SPN: 328）。因此不可轻视常识思维（也不可轻视从属群体的斗争），而应批判地介入普通人“矛盾的意识”（SPN: 326）——即信念与实际行为相抵触的倾向——并加以教育。
   - id: 84
     kind: body
     source: |-
       Gramsci understood that educative task to belong to intellectuals—not merely to advance a superior and abstract philosophy but to work on common sense, thereby “renovating and making ‘critical’ an already existing activity” (SPN: 331). A hegemonic worldview had to connect to the “simple” to become embedded in everyday life. The past success of traditional intellectuals in this regard explained the ongoing influence of the Catholic Church in Italy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      葛兰西把这一教育任务归于知识分子——不仅是提出一种优越而抽象的哲学，而是作用于常识，从而“更新并使一种既有的活动‘批判化’”（SPN: 331）。一种霸权世界观必须与“淳朴”者相连，才能嵌入日常生活。传统知识分子在这方面过去的成功，解释了天主教会在意大利的持续影响。
+    step2: |-
+      葛兰西把这一教育任务交给知识分子：不是提出一种优越而抽象的哲学，而是作用于常识，从而“更新并使既有的活动‘批判化’”（SPN: 331）。霸权性的世界观必须与“淳朴”者相连，才能真正嵌入日常生活；传统知识分子在这方面的历史成功，正解释了天主教在意大利的持续影响。
   - id: 85
     kind: body
     source: |-
       ### 3.5 The Philosophy of Praxis
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.5. 实践哲学
+    step2: |-
+      ### 3.5 实践哲学
   - id: 86
     kind: body
     source: |-
