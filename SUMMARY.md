@@ -1393,7 +1393,7 @@
   * [康德的宗教哲学 philosophy of religion (Lawrence Pasternack and Courtney Fugate)](k/kant-religion.md)
   * [康德的科学哲学 philosophy of science (Eric Watkins and Marius Stan)](k/kant-science.md)
   * [康德的社会与政治哲学 social and political philosophy (Frederick Rauscher)](k/kant-social-political.md)
-  * [康德的判断理论 theory of judgment (Robert Hanna)](k/kant-judgment.md)
+  * [康德的判断理论 Kant’s Theory of Judgment (Robert Hanna)](k/kant-judgment.md)
   * [康德的先验论证 transcendental arguments (Derk Pereboom)](k/kant-transcendental.md)
   * [康德的先验唯心论 transcendental idealism (Nicholas F. Stang)](k/kant-transcendental-idealism.md)
   * [康德对心灵和自我意识的观点 Kant’s View of the Mind and Consciousness of Self (Andrew Brook and Julian Wuerth)](k/kant-mind.md)

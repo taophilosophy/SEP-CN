@@ -2,7 +2,7 @@
   "slug": "kant-judgment",
   "kind": "retranslate",
   "zh_doc": "k/kant-judgment.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T17:43:41Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "K-main-20261111",
+      "at": "2026-11-11T04:51:44Z",
+      "evidence": "零信任全量重译（复用同战役自产账本前会话 82/99 段并逐段回核，补译段 83–99：§4 问题与前景四小节 + OIR）；lq 守恒门 OK：99 段 source 与 yuanwen 逐字符一致、脚注键守恒、defs 107/107、** 计数守恒（软旗 21 条已判读）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "K-main-20261111",
+      "at": "2026-11-11T04:51:45Z",
+      "evidence": "对照核销：H2 8:8、H3 11:11、defs 107:107、正文 marker 62:62（源文 hanna-2006b 行尾 ASCII 冒号归一后一致）、公式 0；术语统一：共同性原则（同在性原则/聚合原则异形 6 处归一；yi-zhe-shuo-ming 登记 togetherness principle）、相关词条人工映射 2 处（Kant, Immanuel: view of mind…→康德对心灵和自我意识的观点；rationality→理性 组头）；SUMMARY/mu-lu-s 英文题补全 Kant’s Theory of Judgment；人名补登 Bolzano"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "K-main-20261111",
+      "at": "2026-11-11T04:52:48Z",
+      "evidence": "prose 实修 31 处（长句拆分 29、去被动/弱动词 2、代词中性化 1）；斜体→中文粗体 55 行、bold-spacing/cjk-spacing 19 处修复；残余 122 条：≥100 字长句仅 3 条（编号式定义句），其余为 70–99 字学术长句、概念性定语链（术语结构）、引证密排句与引文块 6 处，按 ADR-0020 豁免并留判读依据"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "K-main-20261111",
+      "at": "2026-11-11T04:52:49Z",
+      "evidence": "四检终态：check_style 0、check_academic --strict OK、check_math 0/0、check_summary H1 mismatch 0；check_terms 硬错误 0；check_quotes 0"
     }
   ],
   "blockers": [],

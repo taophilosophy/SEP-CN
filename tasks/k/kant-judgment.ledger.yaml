@@ -688,101 +688,135 @@ segments:
     kind: body
     source: |-
       ## 4. Problems and Prospects
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. 问题与前景
+    step2: |-
+      ## 4 问题与前景
   - id: 84
     kind: body
     source: |-
       The basic parts of Kant’s theory of judgment are now all in place. In this concluding section, we will look briefly at several serious problems for Kant’s theory. These problems, which come to a head in the debate about Kant’s conceptualism vs. Kant’s non-conceptualism (see the supplementary document [The Togetherness Principle, Kant’s Conceptualism, and Kant’s Non-Conceptualism](kant-judgment.supplement1.md)), all ultimately stem from the interplay between either the centrality thesis or the priority-of-the-proposition thesis, and the transcendental ideality thesis. This in turn suggests that the other two parts of Kant’s theory can be logically detached from his transcendental idealism and defended independently of it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德判断理论的基本部分至此都已就位。在这个收束性的一节里，我们将简要审视该理论面临的若干严重问题。这些问题在关于康德概念论与康德非概念论之争（见补充文档[《聚合原则、康德的概念论与康德的非概念论》](kant-judgment.supplement1.md)）中集中显现，它们最终都源于两个论题之一——中心性论题或命题优先性论题——与先验观念性论题之间的相互作用。这又提示：康德理论的其余两部分可以在逻辑上与其先验观念论相剥离，并独立于该理论而得到辩护。
+    step2: |-
+      至此，康德判断理论的各个基本部件均已就位。本节作为收束，简要考察该理论所面临的几个严重问题。这些问题在康德概念论与非概念论之争（见补充文档[《聚合原则、康德的概念论与康德的非概念论》](kant-judgment.supplement1.md)）中达到顶点，归根结底都出自两条论题之一——中心性论题或命题优先性论题——同先验观念性论题之间的交互作用。由此又可以推想：康德理论的另外两个部分能够从逻辑上同其先验观念论拆开，并独立地获得辩护。
   - id: 85
     kind: body
     source: |-
       ### 4.1 The bottom-up problem: essentially non-conceptual intuitions, rogue objects, and the gap in the B Deduction
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1. 自下而上的问题：本质非概念性直观、越轨对象与 B 版演绎的缺口
+    step2: |-
+      ### 4.1 自下而上的问题：本质非概念性直观、越轨对象以及 B 版演绎的缺口
   - id: 86
     kind: body
     source: |-
       What can be called *the bottom-up problem* for Kant’s metaphysics of judgment follows directly from his non-conceptualism (see the supplement [The Togetherness Principle, Kant’s Conceptualism, and Kant’s Non-Conceptualism](kant-judgment.supplement1.md)), and exposes a fundamental gap in the B Deduction. In our discussion of the B Deduction (see the supplement [Completing the Picture of Kant’s Metaphysics of Judgment](kant-judgment.supplement5.md)) it was noted that Kant’s argument for the objective validity of the categories will go through only if all the objects of human intuition are necessarily *also* objects of human experience, that is, are necessarily *also* objects correctly represented by true judgments of experience, that is, are necessarily *also* objects falling under all of the categories, or at the very least under the principle of the Second Analogy of Experience, which provides the criterion of the objectivity of objects of experience. But if this claim fails, then there can in principle be nomologically ill-behaved or “rogue” objects of human intuition that fall outside the scope of judgments of experience and thus also outside the categories, or at least outside the scope of the Second Analogy. As several Kant-interpreters have pointed out, given the possibility of essentially non-conceptual intuitions, then the B Deduction is in big trouble (Kitcher 1990, Hanna 2016b)[^hanna-2016b][^kitcher-1990]. More precisely, Kant’s non-conceptualism entails that there can be objectively valid empirical intuitions that are both autonomous from and also independent of concepts, and thereby directly refer to objects. Since the cognition of these objects does not require either concepts or the faculty of understanding, and since these intuitions consciously represent objects over and above any conceptual content whatsoever, then some of these intuitions can pick out rogue objects that fall outside the constraints of all the categories, and thereby outside the constraints of the Second Analogy in particular. So it is not true that the categories and principles of pure understanding *necessarily* apply to all objects of conscious human perception, and the categorial anarchy of at least some sensory objects is really possible. Therefore the B Deduction is unsound.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      可称为*自下而上的问题*者，直接由康德关于判断的形而上学中的非概念论引出（见补充文档[《聚合原则、康德的概念论与康德的非概念论》](kant-judgment.supplement1.md)），并暴露出 B 版演绎的一个根本缺口。在讨论 B 版演绎时（见补充文档[《补全康德判断形而上学之图景》](kant-judgment.supplement5.md)），我们已指出：康德关于范畴之客观有效性的论证要成立，唯有当人类直观的全部对象必然*也*是人类经验的对象，即必然*也*是由经验判断正确表象的对象，即必然*也*是落入一切范畴之下的对象，或者至少落入经验的第二类比原则之下的对象——该原则提供了经验对象之客观性的标准。但若这一主张失败，则原则上就可以存在法则性上不守规矩的或“越轨的”人类直观对象，它们落在经验判断的范围之外，因而也落在范畴之外，或至少落在第二类比的效力之外。正如若干康德解释者所指出的，一旦承认本质非概念性直观的可能性，B 版演绎便陷入大麻烦（Kitcher 1990, Hanna 2016b）[^hanna-2016b][^kitcher-1990]。更精确地说，康德的非概念论蕴含：可以存在客观有效的经验性直观，它们既独立于概念又不受概念支配，并因此直接指涉对象。由于对这些对象的认知既不需要概念，也不需要知性能力，又由于这些直观在意识中表象对象时超出任何概念内容之外，其中某些直观就可以挑出越轨对象，这些对象落在一切范畴的约束之外，因而尤其落在第二类比的约束之外。所以，“纯粹知性的范畴与原则*必然*适用于人类有意识知觉的一切对象”并不为真，至少某些感性对象的范畴无序确实可能。因此 B 版演绎不成立。
+    step2: |-
+      所谓*自下而上的问题*，直接出自康德的非概念论（见补充文档[《聚合原则、康德的概念论与康德的非概念论》](kant-judgment.supplement1.md)），并使 B 版演绎的一个根本缺口暴露出来。在讨论 B 版演绎时（见补充文档[《补全康德判断形而上学之图景》](kant-judgment.supplement5.md)）我们已经看到：康德对范畴客观有效性的论证只有在如下条件下才走得通——人类直观的一切对象必然*也*是人类经验的对象，也就是说，必然*也*是被真实的经验判断所正确表象的对象，也就是说，必然*也*落在一切范畴之下，或至少落在经验的第二类比原则之下；这一原则给出了经验对象之客观性的标准。然而这个主张一旦落空，原则上就会出现法则上不循常规的、即“越轨的”人类直观对象，它们处于经验判断的效力范围之外，因而也在范畴之外，至少在同第二类比的干系之外。好几位康德解释者已经指出，一旦承认本质非概念性直观的可能，B 版演绎就麻烦大了（Kitcher 1990, Hanna 2016b）[^hanna-2016b][^kitcher-1990]。说得更确切些，康德非概念论的推论是：可以存在客观有效的经验性直观，它们独立于概念，也不受概念左右，从而直接指向对象。这些对象的认知既无须概念，也无须知性能力；而这些直观在意识中表象对象时又超出了任何概念内容，于是其中一些直观能够挑出越轨对象——落在一切范畴的约束之外，尤其落在第二类比约束之外的对象。因此，“纯粹知性的范畴与原则*必然*适用于人类有意识知觉的所有对象”并不是真的，至少部分感性对象在范畴上的无序是确实可能的。所以，B 版演绎并不健全。
   - id: 87
     kind: body
     source: |-
       ### 4.2 The top-down problem: judgment, transcendental affinity, and the systematic unity of nature
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2. 自上而下的问题：判断、先验亲和性与自然的系统统一性
+    step2: |-
+      ### 4.2 自上而下的问题：判断、先验亲和性以及自然的系统统一性
   - id: 88
     kind: body
     source: |-
       The bottom-up problem has a metaphysical mirror-image, which can be called *the top-down problem*. This problem afflicts Kant’s transcendental doctrine of judgment, and consequently also his theory of the principles of pure understanding (see the supplement [Completing the Picture of Kant’s Metaphysics of Judgment](kant-judgment.supplement5.md)). The worry here is simply that even allowing for the transcendental schematism of the judgment, there is still no absolute guarantee that a given universal transcendental principle or transcendental concept of the understanding, construed as a rule for ordering sensory appearances or sensory objects, has been *completely* applied to sensory appearances or objects. In other words, even allowing for his transcendental doctrine of the judgment, Kant has not given us good reason to think that there cannot be any sensory appearances or objects that fail to be subsumed under the transcendental principles of nature. In the *Critique of Pure Reason*, Kant calls the specifically causal-law-governed or nomological interconnection of all sensory appearances or objects under transcendental principles the “transcendental affinity”of the sensory manifold of intuitions (A114). In the A edition of the first Critique, Kant asserts that if the categories are objectively valid, then the transcendental affinity of the manifold automatically follows. Then, assuming the strongest version of transcendental idealism, he further asserts that from transcendental affinity, an “empirical affinity” of the sensory manifold of intuitions also directly follows (A115). Now since empirical affinity is the complete application to actual empirical nature of the system of causal laws under transcendental principles, it follows that empirical affinity is the same as *the systematic unity of nature*. So Kant is saying that the systematic unity of nature is a trivial consequence of transcendental affinity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      自下而上的问题有一个形而上学上的镜像，可称为*自上而下的问题*。这一问题困扰康德的判断先验学说，因而也困扰他关于纯粹知性原理的理论（见补充文档[《补全康德判断形而上学之图景》](kant-judgment.supplement5.md)）。此处的忧虑很简单：即便承认判断的先验图型论，也仍然没有绝对保证说，某个既定的普遍先验原则或知性的先验概念——被理解为整理感性显象或感性对象的规则——已经*完全*应用于感性显象或对象。换言之，即便承认他的判断先验学说，康德也没有给出好的理由让我们认为，不可能存在任何未被归摄于自然之先验原则下的感性显象或对象。在《纯粹理性批判》中，康德把一切感性显象或对象在诸先验原则之下那种特定的、受因果法则支配的或法则性的相互联结，称为直观之感性杂多的“先验亲和性”（A114）。在第一《批判》的 A 版中，康德断言：若范畴客观有效，则杂多的先验亲和性自动随之而来。接着，在假定最强版本的先验观念论之后，他进一步断言：由先验亲和性也直接随出直观之感性杂多的“经验亲和性”（A115）。既然经验亲和性就是先验原则下因果法则体系对现实经验自然的完全应用，那么经验亲和性便等同于*自然的系统统一性*。所以康德是在说：自然的系统统一性是先验亲和性的一个自然推论。
+    step2: |-
+      自下而上的问题有一个形而上学层面的镜像，不妨称之为*自上而下的问题*。受它困扰的是康德的判断先验学说，连带他关于纯粹知性原理的理论（见补充文档[《补全康德判断形而上学之图景》](kant-judgment.supplement5.md)）。忧虑其实很简单：即使有判断的先验图型论作保，也无法绝对担保某一普遍先验原则或知性先验概念——作为整理感性显象或感性对象的规则——已经*完整*地落实于感性显象或对象。换句话说，即便有他的判断先验学说，康德仍未给出充分理由让我们相信：不可能存在未被归摄到自然先验原则之下的感性显象或对象。康德在《纯粹理性批判》中把一切感性显象或对象在诸先验原则之下那种受因果法则支配的、即法则性的相互联结，称作直观之感性杂多的“先验亲和性”（A114）。在第一《批判》A 版里，康德断言：范畴若客观有效，杂多的先验亲和性便自动随之而来；随后他又假定最强意义的先验观念论，进一步断言由先验亲和性直接随出直观之感性杂多的“经验亲和性”（A115）。而经验亲和性正意味着先验原则下的因果法则体系完整地应用于现实的经验自然，于是经验亲和性就等于*自然的系统统一性*。照此说来，康德是把自然的系统统一性当作先验亲和性的平凡推论。
   - id: 89
     kind: body
     source: |-
       In the first *Critique*’s Appendix to the Transcendental Dialectic however, Kant quietly but very significantly backtracks on this crucial point and treats the principle of the systematic unity of nature as stemming only from a *regulative* but not a constitutive use of judgment, although this principle is also asserted to have some sort of transcendental force (see the supplement [Kinds of Use](kant-judgment.supplement4.md)). Then in the first Introduction to the *Critique of the Power of Judgment*, Kant explicitly says that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，在第一《批判》“先验辩证论”的附录中，康德悄悄地、却极为重要地在这个关键论点上退让了：他把自然的系统统一性原则说成只来自判断的*调节性*使用，而非构成性使用，尽管他又断言该原则具有某种先验效力（见补充文档[《使用的种类》](kant-judgment.supplement4.md)）。随后，在《判断力批判》的第一版导论中，康德明确地说：
+    step2: |-
+      不过，第一《批判》“先验辩证论”的附录里，康德在这个关键点上悄然、却极显著地退了一步：自然的系统统一性原则被说成仅仅出自判断的*调节性*运用，而非构成性运用——尽管他同时又断言这条原则具有某种先验力量（见补充文档[《使用的种类》](kant-judgment.supplement4.md)）。再往后，在《判断力批判》第一版导论中，康德明白写道：
   - id: 90
     kind: body
     source: |-
       > [it] is quite possible in itself (at least as far as the understanding can make out a priori), [that] the multiplicity of these [empirical] laws, along with the natural forms corresponding to them, being infinitely great, [could] … present to us a raw chaotic aggregate and not the least trace of a system, even though we must presuppose such a system in accordance with transcendental laws. (20: 209)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 就其本身而言（至少就知性所能先天看出者而言），这些［经验］法则的繁多连同与之相应的自然形式，不论如何无限广大，……完全可能向我们呈现为一堆原初的混沌杂多，而不见丝毫体系的痕迹，尽管我们依先验法则必须预设这样一个体系。（20: 209）
+    step2: |-
+      > 事情本身完全可能如此（至少在知性所能先天辨识的范围内）：这些［经验］法则连同相应的自然形式无穷繁多，……向我们呈现出一堆原初的混沌堆积，连一丝体系的痕迹也没有，尽管按照先验法则我们必须预设这样一个体系。（20: 209）
   - id: 91
     kind: body
     source: |-
       In other words, now Kant is saying that the transcendental affinity of the manifold does *not* entail an empirical affinity of the manifold or the systematic unity of nature. To be sure, in the third *Critique*, he also explicitly ties together the principle of systematic unity with the regulative use of reflective judgments of taste, and says that it is a subjectively necessary transcendental principle presupposed by legitimate judgments of taste (see the supplement [Kinds of Use](kant-judgment.supplement4.md)). But if the principle of systematic unity is only subjectively and not in fact *objectively* necessary, then Kant has *not* shown us that the system of causal laws of nature *must be* completely applied to sensory appearances or objects. Rather he has shown only that we *must epistemically believe it to be* completely applied to sensory appearances or objects. So there remains the real possibility of relatively or absolutely chaotic aggregates of sensory appearances or objects that are not subsumed or even in principle cannot be subsumed under the transcendental affinity of the manifold, i.e., the real possibility of the categorial anarchy of rogue objects. In other words, for all that Kant has argued, and by his own reckoning, even assuming transcendental affinity there might still be no complete application of transcendental laws to nature. So the transcendental schematism of the pure concepts is insufficient to bridge the gap between categories and sensory appearances, and the transcendental doctrine of judgment fails.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      换言之，康德现在说的是：杂多的先验亲和性*并不*蕴含杂多的经验亲和性，也不蕴含自然的系统统一性。诚然，在第三《批判》中，他也明确把系统统一性原则与鉴赏判断的调节性使用联系起来，并说它是正当的鉴赏判断所预设的一条主观上必要的先验原则（见补充文档[《使用的种类》](kant-judgment.supplement4.md)）。但若系统统一性原则只在主观上、而非事实上*客观地*必要，那么康德就*没有*向我们表明自然因果法则的体系*必定*完全应用于感性显象或对象。他所表明的只是：我们*必须在认识上相信它*已完全应用于感性显象或对象。于是仍然存在这样的真实可能：感性显象或对象结成相对或绝对混沌的堆积，未被归摄、甚至在原则上不可能被归摄于杂多的先验亲和性之下，即越轨对象之范畴无序的真实可能。换言之，就康德的全部论证而言，并且按他自己的估算，即便假定先验亲和性，先验法则对自然的完全应用仍可能并不存在。所以，纯粹概念的先验图型论不足以弥合范畴与感性显象之间的缺口，判断的先验学说归于失败。
+    step2: |-
+      换句话说，康德此时的主张是：杂多的先验亲和性*并不*带来杂多的经验亲和性，也带不来自然的系统统一性。当然，在第三《批判》里他也明确将系统统一性原则同鉴赏判断的调节性运用绑在一起，称它是正当鉴赏判断所预设的一条主观必然的先验原则（见补充文档[《使用的种类》](kant-judgment.supplement4.md)）。可是，倘若系统统一性原则只在主观上必要、事实上并不*客观*必要，那么康德*并未*证明自然因果法则体系*必定*完整应用于感性显象或对象；他证明的仅仅是：我们*在认识上必须相信*它已完整应用。这样一来，仍有一种真实可能悬在那里——感性显象或对象聚成相对或绝对混沌的堆积，不被归摄于杂多的先验亲和性之下，甚至在原则上也无从归摄；也就是说，越轨对象造成范畴无序，这一可能是真实的。换句话说，无论康德怎样论证，按他自己的账算，即使承认先验亲和性，先验法则对自然的完整应用仍可能付之阙如。可见，纯粹概念的先验图型论不足以在范畴与感性显象之间搭桥，判断的先验学说在此失守。
   - id: 92
     kind: body
     source: |-
       ### 4.3 The dream-skeptical problem: judgment, problematic idealism, and the gap in the Second Analogy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.3. 梦境怀疑论问题：判断、或然观念论与第二类比的缺口
+    step2: |-
+      ### 4.3 梦境怀疑论问题：判断、或然观念论以及第二类比的裂缝
   - id: 93
     kind: body
     source: |-
       As we saw in the supplement [Completing the Picture of Kant’s Metaphysics of Judgment](kant-judgment.supplement5.md), the Second Analogy of Experience, if true, guarantees both the objectivity and the universal diachronic or temporally successive causal necessitation of objects of experience and all of their parts, under natural laws. As we also saw in Section 1.3, the “criterion of empirical truth” for a judgment of experience says that since the objectively valid propositional content of an empirical judgment can be specified as a necessary conceptual rule of sensory appearances or objects, then *if* that rule is effectively applied to the temporal succession of our sensory representations of the phenomenal material world, *and* that rule coheres with the causal-dynamic laws of nature, *then* that judgment is true. And finally, as we also saw in Section 3.1, the centrality thesis, the priority-of-the-proposition thesis, and the transcendental idealism thesis jointly entail the “transcendental truth” of judgment, which is that necessarily every well-generated judgment of experience is true and corresponds to an actual object of experience, that is, to an actual empirical fact.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如我们在补充文档[《补全康德判断形而上学之图景》](kant-judgment.supplement5.md)中所见，经验的第二类比若为真，便保证了经验对象及其一切部分的客观性，以及它们在自然法则之下普遍的历时性、即时间上相继的因果必然性。又如我们在 §1.3 所见，经验判断的“经验真理标准”说的是：既然一个经验判断的客观有效命题内容可以被规定为感性显象或对象的必然概念规则，那么*若*该规则有效地应用于我们对现象物质世界之感性表象的时间相继，*并且*该规则与自然的因果-动态法则相融贯，*则*该判断为真。最后，如我们在 §3.1 所见，中心性论题、命题优先性论题与先验观念论论题共同蕴含判断的“先验真理”，即：必然地，每个良好生成的经验判断都为真，并对应于一个现实的经验对象，也就是对应于一个现实的经验事实。
+    step2: |-
+      我们在补充文档[《补全康德判断形而上学之图景》](kant-judgment.supplement5.md)中已经看到：经验的第二类比一旦成立，就同时担保经验对象及其所有部分的客观性，以及它们在自然法则下普遍的、跨时间的、即时间中相继的因果必然性。§1.3 又已说明，经验判断的“经验真理标准”如此表述：经验判断的客观有效命题内容可以被确定为感性显象或对象的必然概念规则；于是，*只要*这条规则切实应用于我们对现象物质世界之感性表象的时间相继，*并且*它与自然的因果-动力法则彼此融贯，*那么*该判断就是真的。最后，§3.1 还表明，中心性论题、命题优先性论题与先验观念论论题合起来蕴含判断的“先验真理”：每个生成良好的经验判断都必然为真，并对应一个现实的经验对象，即对应一个现实的经验事实。
   - id: 94
     kind: body
     source: |-
       But here is a simple objection to this three-part doctrine, borrowed from Descartes’s famous “dream skepticism” in the first of the *Meditations on First Philosophy*. Kant calls this form of skepticism “problematic idealism” (B274). To generate the relevant version of problematic idealism, suppose that all the sensory appearances or objects currently falling under the Second Analogy, the criterion of empirical truth, and the principle of transcendental truth are *nothing but causally well-ordered parts of my inner sense alone*. Then any object of experience corresponding to my currently true judgment of experience might be nothing but a very coherent dream or a hallucination. Nothing Kant has said can rule this out. Even the famous Refutation of Idealism in the first *Critique*, if sound, says only that “inner experience is possible only through outer experience in general” (B278–279), and Kant explicitly concedes that at any given time, for all we know, we could be dreaming or hallucinating:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但对这套三部分学说有一个简单的反驳，借自笛卡尔《第一哲学沉思集》第一篇中著名的“梦境怀疑论”。康德把这种怀疑论形式称为“或然观念论”（B274）。为了造出或然观念论的相关版本，不妨假定：当下落入第二类比、经验真理标准与先验真理原则之下的全部感性显象或对象，*不过是我内感官的、因果上秩序良好的部分*。那么，与我当下为真的经验判断相对应的任何经验对象，也许不过是一场极为连贯的梦或一次幻觉。康德所说的一切都不能排除这一点。即便第一《批判》中著名的“反驳观念论”成立，它也只说“内经验唯有通过一般的外经验才可能”（B278–279）；而康德明确承认，在任何给定时刻，就我们所知，我们都可能正在做梦或产生幻觉：
+    step2: |-
+      然而，对这套分作三部分的学说有一个简明的反驳，取自笛卡尔《第一哲学沉思集》第一篇里著名的“梦境怀疑”。康德称之为“或然观念论”（B274）。要造出相应版本的或然观念论，只需设想：当下归于第二类比、经验真理标准与先验真理原则之下的所有感性显象或对象，*无非是我内感官中因果秩序井然的部分*。这样一来，与我此刻为真的经验判断相对应的经验对象，也许只是一场连贯得不能再连贯的梦，或一次幻觉。康德的任何说法都排除不了这种情形。就连第一《批判》中著名的“反驳观念论”，即使成立，也只说出“内经验唯有凭借一般的外经验方才可能”（B278–279）；康德本人明确让步：在任何时刻，就我们所知，我们都有可能在做梦或产生幻觉：
   - id: 95
     kind: body
     source: |-
       > from the fact that the existence of outer objects is required for the possibility of a determinate consciousness of our self it does not follow that every intuitive representation of outer things includes at the same time their existence, for that may well be the mere effect of the imagination (in dreams as well as delusions). (B278)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 由外物之存在是我们自我之确定意识的可能性所必需这一事实，并不能推出：对外物的每一表象都在同时包含外物的存在；因为那很可能只是想象力的单纯效果（在梦中以及在妄想中都是如此）。（B278）
+    step2: |-
+      > 外物存在固然是我们拥有关于自我的确定意识的可能条件，但由此推不出：每一关于外物的直观表象都同时包含外物的存在；因为那很可能纯粹是想象力的产物（梦与妄想中皆然）。（B278）
   - id: 96
     kind: body
     source: |-
       So even if inner experience and outer experience are necessarily connected in general, the truth and objectivity of any *particular* judgment of experience, by Kant’s own criteria for truth and objectivity, are consistent with the possibility that the particular object of experience corresponding to that judgment is nothing but very coherent dream or a hallucination. After all, I can perfectly well *dream or hallucinate* a boat going downstream, as well as actually *seeing* one. It is true that Kant does remark in the General Note on the System of Principles in the B edition of the first *Critique* that “in order to understand the possibility of things in accordance with the categories, and thus to establish the objective reality of the latter, we do not merely need intuitions, but always outer intuitions” (B291). This seems correct. But unfortunately, given what Kant says at B278, nothing in his transcendentally idealistic metaphysics of judgment will guarantee that any set of sensory appearances or objects satisfying his criteria for the truth and objectivity of judgments of experience on any particular occasion will in fact be material objects in space corresponding to outer intuitions, and not merely causally well-ordered mental imagery corresponding to inner intuitions, i.e., mere “phantoms of my brain.” So the Second Analogy’s criterion of objectivity is ultimately insufficient to yield the empirical truth of judgments of experience, despite Kant’s explicit claim that this criterion does yield both their objective validity and their empirical truth (A202/B247).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所以，即便内经验与外经验在一般意义上必然相连，按照康德自己关于真理与客观性的标准，任何*特定*经验判断的真实性与客观性，都与如下可能相容：与该判断相对应的特定经验对象不过是一场极为连贯的梦或一次幻觉。毕竟，我完全可以*梦见或幻觉到*一条船顺流而下，也完全可以真的*看见*一条船。诚然，康德在第一《批判》B 版“原理体系的总注释”中说过：“为了按照范畴理解事物的可能性，并由此确立范畴的客观实在性，我们不仅需要直观，而且总是需要外直观”（B291）。这似乎是对的。但不幸的是，鉴于康德在 B278 所说的话，他的先验观念论式判断形而上学中没有任何东西能够保证：在任何特定场合满足其经验判断真理与客观性标准的任何一组感性显象或对象，事实上都会是与外直观相对应的空间中的物质对象，而不只是与内直观相对应的、因果上秩序良好的心理影像，即纯粹的“我脑中的幻影”。所以，第二类比的客观性标准最终不足以产生经验判断的经验真理，尽管康德明确主张该标准既产生经验判断的客观有效性，也产生其经验真理（A202/B247）。
+    step2: |-
+      于是，内经验与外经验在一般层面固然必然相关，但按康德自己立下的真理与客观性标准，任何*个别*经验判断之真与客观，仍与下述可能相容：与该判断相应的那个个别经验对象，无非是一场极为连贯的梦或一次幻觉。毕竟，我既能真的*看见*一条船顺流而下，也完全能*梦见或幻觉出*这样一条船。不错，康德在第一《批判》B 版“原理体系总注释”中说过：“要按范畴理解事物的可能性，从而确立范畴的客观实在性，我们所需的不仅是直观，而且始终是外直观”（B291）。这话看来是对的。可惜的是，有 B278 那番话在先，他那套先验观念论的判断形而上学便无法担保：在任何特定场合满足其经验判断真理性与客观性标准的感性显象或对象，事实上就是与外直观相应的空间物质对象，而不只是与内直观相应的、因果秩序良好的心理影像，即纯粹的“我脑中的幻影”。所以，尽管康德明言第二类比的客观性标准既给出经验判断的客观有效性、也给出其经验真理（A202/B247），这一标准归根到底仍不足以产出经验判断的经验真理。
   - id: 97
     kind: body
     source: |-
       ### 4.4 Conclusion: judgment without strong transcendental idealism?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.4. 结论：没有强先验观念论的判断理论？
+    step2: |-
+      ### 4.4 结论：脱离强先验观念论的判断理论？
   - id: 98
     kind: body
     source: |-
       As we have seen in Sections 4.1 to 4.3, Kant’s theory of judgment leads to at least three serious problems when it is taken in conjunction with the issue about his conceptualism vs. his non-conceptualism (in the supplement [The Togetherness Principle, Kant’s Conceptualism, and Kant’s Non-Conceptualism](kant-judgment.supplement1.md)) and his metaphysics of strong transcendental idealism (Section 3.1 and the supplement [Completing the Picture of Kant’s Metaphysics of Judgment](kant-judgment.supplement5.md)). Does this mean his theory of judgment is philosophically unacceptable and at best an antiquarian curiosity of 18th century German philosophy? No. This is because it seems very likely that the problems in Kant’s theory of judgment are principally due to his conjoining the centrality thesis and the priority-of-the-proposition thesis with the thesis of transcendental idealism. But suppose that the strongest version of transcendental idealism is false, and that the transcendental idealism thesis is either logically detached from the other two theses or else retained but instead based on a significantly weaker version of transcendental idealism (Hanna 2006b, ch. 5)[^hanna-2006b]: what remains? We are left with a general Kantian theory of human rationality that is essentially oriented towards judgment, and then in turn with specific Kantian accounts of the nature of judgment and of the various irreducibly different kinds of judgment, that are essentially oriented towards the anthropocentric empirical meaningfulness and truth of the proposition. As such, Kant’s theory of judgment is thoroughly cognitivist but also anti-psychologistic and anti-platonistic, and it thereby smoothly combines the several “faces” of judgment into a unified doctrine. So the fact that Kantian non-conceptualism (see the supplement [The Togetherness Principle, Kant’s Conceptualism, and Kant’s Non-Conceptualism](kant-judgment.supplement1.md)) makes serious trouble for the B Deduction (Section 4.1), together with the further fact that the strongest version of transcendental idealism is very likely false—since the unqualified transcendental ideality thesis, when conjoined with the centrality thesis and the priority-of-the-proposition thesis, collectively entail contradictions in Kant’s theory that are not entailed by the conjunction of the other two theses alone—do not ultimately compromise the inherent philosophical interest, contemporary relevance, and critical defensibility of the other basic parts of Kant’s theory of judgment.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如 §4.1 至 §4.3 所示，康德的判断理论若与他的概念论/非概念论问题（见补充文档[《聚合原则、康德的概念论与康德的非概念论》](kant-judgment.supplement1.md)）以及强先验观念论的形而上学（见 §3.1 与补充文档[《补全康德判断形而上学之图景》](kant-judgment.supplement5.md)）合观，至少会导致三个严重问题。这是否意味着他的判断理论在哲学上不可接受，顶多算 18 世纪德国哲学的一件古董趣闻？不是的。因为很可能康德判断理论中的问题主要源于他把中心性论题与命题优先性论题同先验观念论论题结合起来。但假定最强版本的先验观念论为假，且先验观念论论题或是从逻辑上与其他两个论题剥离，或是保留下来却改基于一个显著弱化的先验观念论版本（Hanna 2006b, ch. 5）[^hanna-2006b]：那还剩什么？剩下的是一个本质上以判断为取向的、一般的康德式人类理性理论，以及随之而来的、关于判断之本性与各种不可化约的不同判断种类的具体康德式说明，而这些说明本质上以命题的人类中心式经验意义与真理为取向。如此看来，康德的判断理论彻底是认知主义的，同时也反对心理主义、反对柏拉图主义，于是把判断的若干“面向”顺畅地结合为一套统一学说。因此，康德式非概念论（见补充文档[《聚合原则、康德的概念论与康德的非概念论》](kant-judgment.supplement1.md)）给 B 版演绎造成的严重麻烦（§4.1），连同最强版本先验观念论极可能为假这一进一步事实——因为无条件的先验观念性论题一旦与中心性论题、命题优先性论题结合，便共同在康德理论中蕴含矛盾，而单是另外两个论题的结合则不蕴含这些矛盾——归根到底并不损害康德判断理论其他基本部分的固有哲学趣味、当代相关性与批判上的可辩护性。
+    step2: |-
+      由 §4.1 至 §4.3 可见，只要把康德的判断理论同他的概念论/非概念论之争（见补充文档[《聚合原则、康德的概念论与康德的非概念论》](kant-judgment.supplement1.md)）以及强先验观念论的形而上学（§3.1 及补充文档[《补全康德判断形而上学之图景》](kant-judgment.supplement5.md)）放在一起看，至少会冒出三个严重问题。这是否说明他的判断理论在哲学上站不住脚，至多算 18 世纪德国哲学的一件古玩？并非如此。原因在于，康德判断理论里的麻烦很可能主要来自他把中心性论题、命题优先性论题与先验观念论论题捆在一处。不妨设想：最强意义的先验观念论并不成立，而先验观念论论题要么在逻辑上同另外两个论题分开，要么虽保留、却改挂在明显弱化的先验观念论之上（Hanna 2006b, ch. 5）[^hanna-2006b]：剩下的是什么？是一个大体上以判断为轴心的康德式人类理性理论，以及随之而来的、关于判断本性和各种不可相互化约的判断种类的具体康德式说明，而这些说明以命题的人类中心式经验意义与真理为轴心。就此而言，康德的判断理论十足是认知主义的，同时又反心理主义、反柏拉图主义，于是把判断的诸“面向”顺畅地熔为一套统一学说。所以，康德式非概念论（见补充文档[《聚合原则、康德的概念论与康德的非概念论》](kant-judgment.supplement1.md)）给 B 版演绎添的严重麻烦（§4.1），加上最强版本先验观念论极可能不成立这一事实——无保留的先验观念性论题一旦同中心性论题、命题优先性论题相合，就会在康德理论中引出矛盾，而仅凭后两个论题相合则引不出这些矛盾——终究并不损及康德判断理论其余基本部分的哲学兴味、当代相关性与批判上的可辩护性。
   - id: 99
     kind: oir
     source: |-
       - [“The Role of Imagination in Kant’s Theory of Experience”](http://www.ditext.com/sellars/ikte.html), by Wilfrid Sellars.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - [《想象力在康德经验理论中的作用》](http://www.ditext.com/sellars/ikte.html)，Wilfrid Sellars 著。
+    step2: |-
+      - [《想象力在康德的经验理论中的作用》](http://www.ditext.com/sellars/ikte.html)，威尔弗里德·塞拉斯（Wilfrid Sellars）著。

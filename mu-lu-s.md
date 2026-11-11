@@ -342,7 +342,7 @@ outline: [1, 6]
 * [伊曼努尔·康德 Kant, Immanuel (Michael Rohlf)](k/kant.md)
   * [莱布尼茨对康德的影响 Leibniz’s Influence on Kant](k/kant-leibniz.md)
   * [康德哲学的发展历程 Kant’s Philosophical Development (Martin Schönfeld and Michael Thompson)](k/kant-development.md)
-  * [康德的判断理论 theory of judgment (Robert Hanna)](k/kant-judgment.md)
+  * [康德的判断理论 Kant’s Theory of Judgment (Robert Hanna)](k/kant-judgment.md)
     * [围绕先天的历史争议 historical controversies (Jerry Samet)](i/innateness-history.md)
     * [分析/综合的区别 analytic/synthetic distinction (Georges Rey)](a/analytic-synthetic.md)
     * [先验论证 transcendental arguments (Robert Stern and Tony Cheng)](t/transcendental-arguments.md)
