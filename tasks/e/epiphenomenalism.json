@@ -2,7 +2,7 @@
   "slug": "epiphenomenalism",
   "kind": "retranslate",
   "zh_doc": "e/epiphenomenalism.md",
-  "state": "cleared",
+  "state": "s2_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,27 @@
       "actor": "task_ops",
       "at": "2026-11-11T15:53:10Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "E-main-20261112",
+      "at": "2026-11-11T18:53:16Z",
+      "evidence": "账本 83 段双版（body=81 oir=1 note=1，biblio 照录 100 行），lq check 守恒门 HARD=0（$ 公式标记逐段守恒，修正 5 段 28/46/47/59/60），compose --write 33144 字符；术语统一为“副现象主义”（对齐 SUMMARY 词条名）、interactionism 按登记册作“交互作用论”；相关词条 9 项按 SUMMARY 定名（意识/勒内·笛卡尔/二元论/涌现属性/功能主义/心灵因果/多重可实现性/感质/随附性）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "E-main-20261112",
+      "at": "2026-11-11T19:01:59Z",
+      "evidence": "s1 五维对账（_e_parity K 工具口径）：headings 4/9 = 4/9；正文 marker 29:29 逐键相等；defs 101:101 键集全等；blocks 72:71（差 1 为源文 byline 块，体例不收）；显示公式 2:2 逐字符相同；行内 $ 数学 123:123 多重集相等；相关词条 9 项逐一比对 SUMMARY 定名"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "E-main-20261112",
+      "at": "2026-11-11T19:01:59Z",
+      "evidence": "s2 语言实修：check_prose --strict 35→2（长篇拆分 8、de-chain 8、被字句 3→受/挨/出自、弱动词 6→实义动词、其余改写），余 2 条 ADR-0020 豁免留痕：行 75 de-chain 三“的”中两处位于 Chalmers 1996 p.198 直引内、行 159 两“被”均在 Ward 1902 引文“被认为…被宣告…”内；check_style --strict 0（斜体转加粗 12 行）；全程现代白话，无文言句式（ADR-0033）"
     }
   ],
   "blockers": [],
