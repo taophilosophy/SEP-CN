@@ -91,62 +91,82 @@ segments:
     kind: body
     source: |-
       A third aspect of the new method, which proved most controversial at the time, was the willingness to hold questions about the mechanism through which forces effect their changes in motion in abeyance, even when the mathematical theory of the species and proportions of the forces seemed to leave no alternative but action at a distance. This aspect remained somewhat tacit in the first edition, but then, in response to criticisms it received, was made polemically explicit in the General Scholium added at the end of the second edition:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      新方法的第三个方面在当时最受争议：它愿意把关于力借以造成运动变化的机制的问题搁置起来，即使关于力的种类与比例的数学理论似乎除了超距作用之外不留别的选择。这一方面在第一版中多少是心照不宣的，但后来为了回应它所受的批评，在第二版末尾所加的总释里被以论战方式明确道出：
+    step2: |-
+      新方法的第三个方面，在当时最受争议，那就是愿意把关于力借以改变运动的机制的问题搁置起来，即使关于力的种类与比例的数学理论似乎除了超距作用之外不容其他选择。这一方面在第一版中多少是含而不露的，但后来为了回应所受到的批评，它在第二版末尾所加的总释中被论战性地明确表达出来：
   - id: 12
     kind: body
     source: |-
       > I have not as yet been able to deduce from phenomena the reason for these properties of gravity, and I do not feign hypotheses. For whatever is not deduced from the phenomena must be called a hypothesis; and hypotheses, whether metaphysical or physical, or based on occult qualities, or mechanical, have no place in experimental philosophy. In this experimental philosophy, propositions are deduced from the phenomena and are made general by induction. The impenetrability, mobility, and impetus of bodies and the laws of motion and law of gravity have been found by this method. And it is enough that gravity should really exist and should act according to the laws that we have set forth and should suffice for all the motions of the heavenly bodies and of our sea. [**P**, 943][^note-3]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我至今还未能从现象中推出这些引力性质的原因，我并且不虚构假设。因为凡不是从现象中推出的，都必须称为假设；而假设，无论形而上学的还是物理学的，无论基于隐秘性质的还是机械的，在实验哲学中都没有位置。在这种实验哲学中，命题从现象中推出，并借归纳而变得普遍。物体的不可入性、可动性与冲力，以及运动定律与引力定律，都是借这种方法发现的。并且只要引力确实存在、按照我们所阐明的定律起作用、足以说明天体与我们海洋的一切运动，那就够了。[**P**, 943][^note-3]
+    step2: |-
+      > 我至今未能从现象中推出这些引力性质的原因，而我不虚构假设。因为凡不是从现象中推出的，都必须称为假设；而假设，无论是形而上学的还是物理学的，无论是基于隐秘性质的还是机械的，在实验哲学中都没有位置。在这种实验哲学中，命题从现象中推出，并通过归纳而变得普遍。物体的不可入性、可动性与冲力，以及运动定律与引力定律，都是通过这种方法发现的。只要引力确实存在，并按照我们所阐明的定律起作用，且足以说明天体与我们海洋的一切运动，那就够了。[**P**, 943][^note-3]
   - id: 13
     kind: body
     source: |-
       During most of the eighteenth century the primary challenge the *Principia* presented to philosophers revolved around what to make of a mathematical theory of forces in the absence of a mechanism, other than action at a distance, through which these forces work. By the last decades of the century, however, little room remained for questioning whether gravity does act according to the laws that Newton had set forth and does suffice for all the motions of the heavenly bodies and of our sea. No one could deny that a science had emerged that, at least in certain respects, so far exceeded anything that had ever gone before that it stood alone as the ultimate exemplar of science generally. The challenge to philosophers then became one of spelling out first the precise nature and limits of the knowledge attained in this science and then how, methodologically, this extraordinary advance had been achieved, with a view to enabling other areas of inquiry to follow suit.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 18 世纪的大部分时间，《原理》呈现给哲学家的主要挑战，围绕的是如何理解一种关于力的数学理论，如果没有任何机制（除超距作用之外）使这些力起作用的话。然而到该世纪的最后几十年，对于引力是否确实按照牛顿所阐明的定律起作用、是否确实足以说明天体与我们海洋的一切运动，已几乎不留质疑的余地。没有人能否认，一门科学已经出现，它至少在某些方面如此远远超过以往曾有过的一切，以至独自作为一般科学的终极典范而矗立。于是对哲学家的挑战就变成：先确切阐明在这门科学中所获得的知识的本性与限度，然后再阐明这一非凡进展在方法论上究竟是如何取得的，目的在于使其他探究领域也能照样而行。
+    step2: |-
+      在 18 世纪的大部分时间里，《原理》向哲学家提出的主要挑战，围绕的是：在除超距作用之外没有机制使这些力起作用的情况下，该如何理解一种关于力的数学理论。然而到那个世纪的最后几十年，已几乎没有余地再去质疑引力是否确实按照牛顿所阐明的定律起作用、是否确实足以说明天体与我们海洋的一切运动。没有人能否认，一门科学已经出现，它至少在某些方面远远超出此前的一切，以至于独自成为一般科学终极的典范。于是哲学家的挑战变成：首先阐明这门科学所获得的知识的精确本性与限度，其次说明这一非凡进展在方法论上是如何取得的，以期使其他探究领域能够效仿。
   - id: 14
     kind: body
     source: |-
       ## 2. The Historical Context of the *Principia*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2. 《原理》的历史背景
+    step2: |-
+      ## 2 《原理》的历史背景
   - id: 15
     kind: body
     source: |-
       The view is commonplace that what Newton did was to put forward his theory of gravity to explain Kepler's already established “laws” of orbital motion; and the universality of the law of gravity then ended up explaining the deviations from Keplerian motion by attributing them to gravitational interaction of the planets. This is wrong on several counts, the most immediate of which is that Kepler's “laws” were by no means established before the *Principia*. The rules for calculating orbital motion that Kepler put forward in the first two decades of the seventeenth century had indeed achieved a spectacular gain in accuracy over anything that had come before. Kepler's rules, however, did not yield comparable accuracy for the motion of the Moon, and even in the case of the planets the calculated locations were sometimes off by as much as a fourth of the width of the Moon. More importantly, by 1680 several other approaches to calculating the orbits had been put forward that achieved the same level of not quite adequate accuracy as Kepler's. In particular, Newton was familiar with seven different approaches to calculating planetary orbits, all at roughly the same accuracy. Only two of these, Kepler's and Jeremiah Horrocks's, used Kepler's area rule — planets sweep out equal areas in equal times with respect to the Sun — to locate planets along their trajectories. Ismaël Boulliau and, following him, Thomas Streete (from whose *Astronomia Carolina* Newton first learned orbital astronomy) replaced the area rule with a geometric construction. Vincent Wing had adopted still another geometric construction in the late 1660s after having earlier used a point of equal angular motion oscillating about the empty focus of the ellipse; and Nicolaus Mercator in 1676 added still a further geometric construction.[^note-4] Of these six alternative approaches, only Horrocks and, following him, Streete, took Kepler's 3/2 power rule — the periods of the planets vary as the square root of the cube of their mean distances from the Sun — seriously enough to use the periods rather than positional observations to determine their mean distances.[^note-5]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有一种流俗之见：牛顿所做的，就是把他的引力理论提出来，以解释开普勒已经确立的轨道运动“定律”；而引力定律的普遍性最终解释了与开普勒运动的偏离，办法是把这些偏离归因于诸行星的引力相互作用。这在好几处都是错的，其中最直接的是：开普勒的“定律”在《原理》之前绝非已经确立。开普勒在 17 世纪头二十年提出的计算轨道运动的规则，确实比以往任何东西在精度上都取得了惊人的提高。但开普勒的规则并未对月球运动给出可比的精度，即便在行星的情形中，计算出的位置有时也偏差达月球宽度的四分之一。更重要的是，到 1680 年，已有人提出若干其他计算轨道的进路，它们达到了与开普勒同样水平、但同样并不完全够用的精度。尤其是，牛顿熟悉七种不同的计算行星轨道的进路，精度都大致相同。其中只有两种，即开普勒的与杰里迈亚·霍罗克斯的，用开普勒的面积规则——行星相对于太阳在相等时间内扫过相等面积——来沿轨迹确定行星的位置。伊丝玛埃尔·布利奥以及追随他的托马斯·斯特里特（牛顿最初正是从后者的《卡罗来纳天文学》学会轨道天文学的）用几何作图取代了面积规则。文森特·温在 1660 年代晚期采用了又一种几何作图，此前他曾用过一个绕椭圆空焦点摆动的等角运动点；尼古劳斯·梅卡托在 1676 年再添一种几何作图。[^note-4] 在这六种替代进路中，只有霍罗克斯以及追随他的斯特里特认真到用开普勒的 3/2 次幂规则（行星周期随其到太阳平均距离的立方之平方根变化）以周期而非位置观测来确定平均距离。[^note-5]
+    step2: |-
+      一种常见的看法是：牛顿所做的，是提出他的引力理论来解释开普勒已经确立的轨道运动“定律”；而引力定律的普遍性最终把对开普勒运动的偏离解释为行星之间的引力相互作用。这种看法在好几处都是错的，最直接的一点是：开普勒的“定律”在《原理》之前根本没有确立。开普勒在 17 世纪头二十年提出的计算轨道运动的规则，确实在精度上比此前任何东西都取得了惊人提高。然而开普勒的规则对月球运动并未给出同等精度，即便在行星的情形中，计算位置有时也会偏差达月球宽度的四分之一。更重要的是，到 1680 年，已经提出了若干其他计算轨道的进路，达到了与开普勒大致相同、却并不完全够用的精度。特别是，牛顿熟悉七种不同的计算行星轨道的进路，精度都大致相同。其中只有两种——开普勒的与杰里迈亚·霍罗克斯的——使用开普勒的面积规则（行星相对于太阳在相等时间内扫过相等面积）来确定行星在轨迹上的位置。伊丝玛埃尔·布利奥以及追随他的托马斯·斯特里特（牛顿最初正是从后者的《卡罗来纳天文学》学习轨道天文学）用几何作图取代了面积规则。文森特·温在 1660 年代末采用了另一种几何作图，此前他曾用过一个绕椭圆空焦点摆动的等角运动点；尼古劳斯·梅卡托在 1676 年又添加了一种几何作图。[^note-4] 在这六种替代进路中，只有霍罗克斯以及追随他的斯特里特认真对待开普勒的 3/2 次幂规则（行星周期随其到太阳平均距离的立方之平方根变化），以至于用周期而非位置观测来确定平均距离。[^note-5]
   - id: 16
     kind: body
     source: |-
       All these approaches followed Kepler in using an ellipse to represent the trajectory. (The primary historical reason for this was Kepler's success in predicting the 1631 transit of Mercury across the Sun.) This, however, does not mean that the ellipse was established as anything more than a mathematically tractable close approximation to the true orbit. In fact, the planetary orbits known then are not all that elliptical. The minor axis of Mercury is only 2 percent shorter than the major axis, the minor axis of Mars, only 0.4 percent shorter, and in all other cases the difference between an ellipse and an eccentric circle was beyond detection. Newton had real grounds for claiming in a letter to Halley in June 1686 a “right” to the ellipse, remarking that “Kepler knew the Orb to be not circular but oval, and guest it to be Elliptical” [**C**, II, 436]. Entirely independently, the most judicious reader of the first edition of the *Principia*, Christiaan Huygens, wrote the following summary of the *Principia*‘s achievement in his notebook upon reading the complimentary copy Newton had sent him:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所有这些进路都追随开普勒，用椭圆来表示轨迹。（首要的历史原因是开普勒对 1631 年水星凌日的成功预言。）但这并不意味着椭圆已被确立为超出“在数学上易于处理的、对真实轨道的接近近似”的东西。事实上，当时所知的行星轨道并不都那么像椭圆。水星的短轴只比长轴短 2%，火星的短轴只短 0.4%，而在其余一切情形中，椭圆与偏心圆之间的差别都无法察觉。牛顿在 1686 年 6 月致哈雷的信中有真实理由声称对椭圆拥有“权利”，他写道：“开普勒知道轨道不是圆形而是卵形，并猜它是椭圆形的”[**C**, II, 436]。完全独立地，《原理》第一版最审慎的读者克里斯蒂安·惠更斯，在读到牛顿寄给他的赠阅本之后，在笔记本里写下了对《原理》成就的如下概括：
+    step2: |-
+      所有这些进路都追随开普勒，用椭圆表示轨迹。（主要的历史原因是开普勒成功预言了 1631 年水星凌日。）然而这并不意味着椭圆已被确立为比“数学上易于处理的、对真实轨道的接近近似”更多的东西。事实上，当时所知的行星轨道并不都那么像椭圆。水星的短轴只比长轴短 2%，火星的短轴只短 0.4%，而在其他所有情形中，椭圆与偏心圆之间的差别都无法察觉。牛顿在 1686 年 6 月给哈雷的信中声称对椭圆拥有“权利”，是有真实理由的；他说：“开普勒知道轨道不是圆形而是卵形，并猜它是椭圆形的”[**C**, II, 436]。完全独立地，《原理》第一版最审慎的读者克里斯蒂安·惠更斯在读到牛顿赠送给他的样书后，在笔记本中写下了对《原理》成就的如下概括：
   - id: 17
     kind: body
     source: |-
       > The famous M. Newton has brushed aside all the difficulties together with the Cartesian vortices; he has shown that the planets are retained in their orbits by their gravitation toward the Sun. And that the excentrics necessarily become elliptical. [**OH**, XXI, 143]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 著名的牛顿先生把一切困难连同笛卡尔涡旋一扫而空；他表明行星靠朝向太阳的引力而留在轨道上。并且偏心轨道必然成为椭圆形。[**OH**, XXI, 143]
+    step2: |-
+      > 著名的牛顿先生把一切困难连同笛卡尔涡旋一扫而空；他表明行星靠朝向太阳的引力而留在轨道上。并且偏心轨道必然成为椭圆形。[**OH**, XXI, 143]
   - id: 18
     kind: body
     source: |-
       So, all three of Kepler's rules that came to be called “laws” after the *Principia* were known to be nothing more than holding to high approximation when Newton started on the project in 1684. And the leading issue in orbital astronomy at the time was not why Kepler's rules hold, but rather which, if any, of the comparably accurate different approaches to calculating orbits was to be preferred.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这样，开普勒的三条规则在《原理》之后都被称为“定律”，而在牛顿 1684 年开始这项工作时，人们已知它们不过是高度近似地成立。并且当时轨道天文学中的首要问题，不是开普勒的规则为何成立，而是：在几种精度相当的不同轨道计算进路中，究竟哪一种（如果有的话）应被优先选择。
+    step2: |-
+      因此，开普勒的三条规则在《原理》之后都被称为“定律”，而在牛顿 1684 年开始这项工作时，人们知道它们只不过是高度近似地成立。当时轨道天文学的首要问题并不是开普勒的规则为何成立，而是：在各种精度相当的不同轨道计算进路中，如果有的话，哪一种应当被优先采用。
   - id: 19
     kind: body
     source: |-
       The distinct possibility of the ellipse being only an approximation to the true trajectory explains the appropriateness of the question Hooke put to Newton in 1679 and Halley put to him again in 1684 — what trajectory does a body describe when moving under an inverse-square force directed toward a central body? The inverse-square part of this question came from combining the mathematical theory of uniform circular motion, which Huygens had published in his *Horologium Oscillatorium* of 1673, with Kepler's 3/2 power rule: the force in a string retaining a body in a uniform circular orbit varies directly as the radius of the circle and inversely as the square of the period; but the squares of the periods of the planets vary as the cubes of their mean distances; and hence, at least to a first approximation, the forces retaining the planets in their orbits vary inversely with the square of the radii of their nearly circular orbits. But now allow the distance of the orbiting body from the center to vary rather than remaining constant, as in a circle. What trajectory would result if the force toward the center varies as the inverse-square of the distance from the center toward which the force is always directed? The answer in the nine page tract “De Motu Corporum in Gyrum” that Newton sent to Halley in November 1684 is, an ellipse, provided the velocity is not too high (and if it is, then instead a parabola or a hyperbola, depending on the velocity). The key step in developing this answer is a generalization of uniform circular motion to the case of motion under a “centripetal” force — a term Newton coined from Huygens's “centrifugal” force, by which he meant the tension in the string keeping the body in a circle; and a key to this step was the discovery that a body moving under any form of centripetal force always sweeps out equal areas in equal times with respect to that center, so that the appropriate geometrical representation of time for generalizing uniform circular motion is area swept out rather than angle or arc length. The tract also confirms that Kepler's 3/2 power rule continues to hold for bodies orbiting in confocal ellipses governed by inverse-square centripetal forces.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      椭圆可能只是对真实轨迹的近似，这一明显可能性说明了胡克在 1679 年向牛顿提出、哈雷在 1684 年又向他重提的那个问题为何恰当：一个物体在指向中心体的平方反比力作用下运动时，描出的会是什么轨迹？这个问题的平方反比部分，来自把惠更斯在 1673 年《摆钟论》中发表的匀速圆周运动数学理论与开普勒的 3/2 次幂规则结合起来：使物体留在匀速圆周轨道上的绳中张力，正比于圆半径而反比于周期的平方；但诸行星周期的平方随其平均距离的立方变化；因此，至少在一级近似上，使行星留在轨道上的力反比于其近圆轨道半径的平方。但现在让轨道物体到中心的距离变化，而不是像在圆中那样保持不变。如果朝向中心的力随到该中心距离的平方反比变化，而力始终指向该中心，那么会得出什么轨迹？牛顿在 1684 年 11 月送给哈雷的九页论文《论物体在轨道中的运动》（De Motu Corporum in Gyrum）给出的答案是椭圆，前提是速度不太高（若太高，则依速度而为抛物线或双曲线）。发展这一答案的关键一步，是把匀速圆周运动推广到“向心力”作用下的运动——“向心力”一词是牛顿从惠更斯的“离心力”（他以此指使物体留在圆中的绳中张力）造出来的；而这一步的关键，是发现物体在任何形式的向心力作用下运动时，相对于该中心总在相等时间内扫过相等面积，因而推广匀速圆周运动时，时间的适当几何表示是扫过的面积，而不是角度或弧长。该论文还确认，开普勒的 3/2 次幂规则对于在共焦椭圆中、受平方反向心力支配运动的物体仍然成立。
+    step2: |-
+      椭圆很可能只是对真实轨迹的近似，这一可能性解释了胡克 1679 年向牛顿提出、哈雷 1684 年又向他提出的那个问题何以恰当：一个物体在指向中心体的平方反比力作用下运动时，会描出什么轨迹？这个问题的平方反比部分，来自把惠更斯 1673 年《摆钟论》中发表的匀速圆周运动数学理论，与开普勒的 3/2 次幂规则结合起来：使物体留在匀速圆周轨道上的绳中张力，与圆半径成正比、与周期的平方成反比；但行星周期的平方随其平均距离的立方变化；因此，至少在一级近似下，使行星留在轨道上的力与其近圆轨道半径的平方成反比。但现在让轨道物体到中心的距离像在圆中那样保持不变之外还能变化。如果朝向中心的力随到该中心距离的平方反比变化，而力始终指向该中心，那么会得到什么轨迹？牛顿在 1684 年 11 月送给哈雷的九页论文《论物体在轨道中的运动》（De Motu Corporum in Gyrum）给出的答案是：椭圆，前提是速度不太高（如果太高，则依速度而为抛物线或双曲线）。发展这一答案的关键一步，是把匀速圆周运动推广到“向心力”作用下的运动——“向心力”一词是牛顿从惠更斯的“离心力”（他以此指使物体留在圆中的绳中张力）造出来的；而这一步的关键，是发现物体在任何形式的向心力作用下运动时，相对于该中心总在相等时间内扫过相等面积，因此推广匀速圆周运动时，时间的适当几何表示是扫过的面积，而不是角度或弧长。该论文还确认，开普勒的 3/2 次幂规则对于在共焦椭圆中、受平方反向心力支配运动的物体仍然成立。
   - id: 20
     kind: body
     source: |-
       These were remarkable steps forward at the time, but they and the questions behind them form only an initial part of the context in which Newton went on to write the *Principia*. Shortly after the “De Motu” tract went off to London, Newton revised the tract and added two further passages. The question precipitating this revision appears to have been about the effect the inverse-square centripetal forces directed toward Jupiter, as implied by its satellites, have on the Sun. Newton first added two principles that he first called “hypotheses” and then changed to “laws”:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些在当时是显著的进步，但它们连同其背后的问题，只构成牛顿后来写作《原理》之背景的一个初始部分。在《论运动》论文寄往伦敦之后不久，牛顿修改了该论文，并增补了两段。引发这次修改的问题，看来涉及木星卫星所隐含的、指向木星的平方反向心力对太阳的影响。牛顿先添加了两条原理，他起初称之为“假设”，随后改称为“定律”：
+    step2: |-
+      这些在当时是了不起的进展，但它们以及其背后的问题，只构成牛顿后来写作《原理》之背景的最初部分。在《论运动》论文寄往伦敦后不久，牛顿修改了该论文，并增补了两段。引发这次修改的问题，看来涉及木星卫星所隐含的、指向木星的平方反向心力对太阳的影响。牛顿先添加了两条他最初称为“假设”、后改称“定律”的原理：
   - id: 21
     kind: body
     source: |-
