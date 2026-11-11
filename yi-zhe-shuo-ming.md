@@ -24,11 +24,15 @@
 | abhāva（胜论句义） | अभाव | 非存在（无） | early-modern-india 首译 | 胜论第七句义义译（玄奘句义通例；与 jayaraasi abhāva=无体量〔因明否定证义〕同键多义分工）；凭证 2026-11-10 | 2026-11-10 |
 | Abhidhamma | अभिधम्म | 阿毗达磨（巴利语拼形，与梵语 Abhidharma 同指；古译传统作“阿毗昙”） | 首现（abhidharma） | 佛学界通行；与既有 Abhidharma=阿毗达磨 对齐；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | Abhidharma | अभिधर्म | 阿毗达磨 | gorampa | 佛教论藏通行译名；原文取证（wisdomlib.org Monier-Williams 词条显式配对，2026-11-10） | 2026-11-09 |
+| Abhidharmakośa | — | 《阿毗达磨俱舍论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| Abhidharmamahāvibhāṣā | — | 《大毗婆沙论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| Abhidharmasamuccaya | — | 《大乘阿毗达磨集论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | Abhisamayālaṃkāra | अभिसमयालंकार | 《现观庄严论》 | gelukpa | 佛学界通行译名 | 2026-11-01 |
 | abhivyāpya | अभिव्याप्य | 饱满（饱和） | early-modern-india | 新正理义译（saturated；整体遍转之喻）；凭证 2026-11-10 | 2026-11-10 |
 | abilities | — | 能力 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 a/abilities））；凭证 2026-11-04 | 2026-11-04 |
 | ableism | — | 能力主义 | disability | 学界通行译名（失能研究）；凭证 2026-11-09 | 2026-11-09 |
 | absolute adjectives | — | 绝对形容词 | 首译（experimental-aesthetics） | 语言学通行（与相对形容词二分） | 2026-11-09 |
+| absolute geometry | — | 绝对几何 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | absolute idealism | — | 绝对唯心论（亦作“绝对唯心主义”“绝对观念论”；勿译“新黑格尔主义”） | 词汇表复核 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | absolute music | — | 绝对音乐 | music | 学界通行（与标题音乐对举）；凭证 2026-11-09 | 2026-11-09 |
 | absolute power (of God) | — | 上帝的绝对权能 | condemnation 首译 | 学界通行汉译（potentia Dei absoluta）；凭证 2026-11-08 | 2026-11-08 |
@@ -127,7 +131,6 @@
 | affirmative action | — | 平权行动 | justice-moral-psych | 美国政策语境通行汉译（亦作“肯定性行动”）；凭证 2026-11-10 | 2026-11-10 |
 | affirmative model | — | 肯定性模型 | disability | 本词条术语（Swain & French 2000“affirmation model”）；凭证 2026-11-09 | 2026-11-09 |
 | Africana Philosophy | — | 非裔哲学 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 a/africana））；凭证 2026-11-04 | 2026-11-04 |
-| Conversations (Fuller) | — | 谈话会 | f/fuller-margaret 首译 | 富勒术语（专名化，首现附加引号） | 2026-11-11 |
 | agapic love | — | 圣爱 | 首现（justice-virtue） | 学界惯例（基督教 agape 通行译法）；凭证 2026-11-02 | 2026-11-02 |
 | age of onset | — | 发病年龄 | cancer | 学界通行（流行病学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | agency | — | 能动性 | oakeshott 首译 | 审定名词库（人类能动性在案；哲学通行同形）；凭证 2026-11-07 | 2026-11-07 |
@@ -143,9 +146,11 @@
 | agnosticism | — | 不可知论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | agreeableness | — | 宜人性 | justice-moral-psych | 大五特质通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | Agrippa's trilemma | — | 阿格里帕三难 | epistemology-latin-america 首译 | 学界通行（trilemma 三难） | 2026-11-11 |
+| ahaṃkāra | — | 我慢（我执） | yogacara 首译 | 数论派通行译“我慢”；作者英译 egoism/I-making；与 ātmamāna 我慢同形，正文括注原词消歧；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | āhāryāropa | आहार्यारोप | 假想赋予 | early-modern-india | 正理思择义译（counterfactual supposition；āropa 之限定形）；凭证 2026-11-10 | 2026-11-10 |
 | ahiṃsā | अहिंसा | 不害（非暴力） | jaina-philosophy | 学界千年通行（印度宗教共同术语） | 2026-11-08 |
 | ahimsa | — | 不害 | colonialism | 印度哲学通行汉译；凭证 2026-11-07 | 2026-11-07 |
+| air-pump | — | 空气泵 | hobbes-science 首译 | 学界通行（波义耳空气泵实验；相关研究书题《利维坦与空气泵》通行形）；凭证 2026-11-11 | 2026-11-11 |
 | aisthêsis | αἴσθησις | 感知（希腊；亦作“感觉”） | 语料回收 | 学界惯例（希腊哲学术语）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | aitihya | — | 传承量 | jayaraasi | 印度量论通行译法（辗转相传为量） | 2026-11-07 |
 | ajīva | अजीव | 非我（非命） | jaina-philosophy | 耆那教学界通行（非生命实体总称） | 2026-11-08 |
@@ -162,6 +167,9 @@
 | al-lays | — | 非存在 | 首现（theology-aristotle） | 照文直译（长版本《神学》术语，阿拉伯文保留）；凭证 2026-11-08 | 2026-11-08 |
 | al-uṣūl al-mawḍūʿa | — | 假设（hypotheses；欧几里得传统对译） | arabic-islamic-phil-math | 译名裁定（hypothesis 对译） | 2026-11-08 |
 | al-uṣūl al-mutaʿārafa | — | 共同概念／公理（common notions/axioms；欧几里得传统对译） | arabic-islamic-phil-math | 译名裁定（common notion 对译） | 2026-11-08 |
+| ālambana | — | 所缘 | yogacara 首译 | 玄奘译“所缘”（《观所缘缘论》）；原文列待考（源页未给天城体配对）；凭证 2026-11-11 | 2026-11-11 |
+| Ālambanaparīkṣā | — | 《观所缘缘论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| ālayavijñāna | — | 阿赖耶识 | yogacara 首译 | 汉传唯识学千年通行译名（玄奘译）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | alethic properties | — | 真势属性 | reinach | 学界惯例（模态逻辑通行）；凭证 2026-11-09 | 2026-11-09 |
 | algebra of logic | — | 逻辑代数 | leibniz-logic-influence | 学界惯例（SUMMARY 定名沿用）；凭证 2026-11-03 | 2026-11-03 |
 | algebraic logic | — | 代数逻辑 | peirce-benjamin | 逻辑史通行译名（与“数学逻辑”“逻辑主义”分列）；凭证 2026-11-09 | 2026-11-09 |
@@ -209,6 +217,7 @@
 | anarchic hand | — | 无政府手 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | anarchism | — | 无政府主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | anarchy（国际关系） | — | 无政府状态（国际关系语境；与 anarchism 无政府主义分义） | s/sovereignty 首译 | 学界通行译法（国际关系理论通行）；凭证 2026-11-07 | 2026-11-07 |
+| anātman | — | 无我 | yogacara 首译 | 汉传佛典千年通行译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | anavasthā | अनवस्था | 无穷倒退 | early-modern-india | 印度哲学通行（infinite regress；佛典“无底”备查）；凭证 2026-11-10 | 2026-11-10 |
 | ancien régime | ancien régime | 旧制度（法文原词保留斜体） | s/sovereignty 首译 | 学界通行译法（法国史研究通行，托克维尔译本既名）；凭证 2026-11-07 | 2026-11-07 |
 | ancient philosophy | — | 古代哲学 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
@@ -216,6 +225,7 @@
 | anekāntavāda | अनेकान्तवाद | 多面性论 | jaina-philosophy | 耆那教学界通行（与“非一边论”并行，本库主形取“多面性论”） | 2026-11-08 |
 | aneuploidy | — | 非整倍体 | cancer | 学界通行（细胞遗传学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | angiogenesis | — | 血管生成 | cancer | 学界通行（肿瘤生物学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
+| angle of parallellism | — | 平行角 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | Anglican Catholic Church | — | 英国国教会 | newton | 英国史通行（Anglican 安立甘）；凭证 2026-11-08 | 2026-11-08 |
 | anima creata | — | 受造灵魂 | 首现（telesio） | 学界惯例（经院哲学术语 anima creata 通译受造灵魂）；凭证 2026-11-08 | 2026-11-08 |
 | anima vegetativa / sensitiva / cogitativa | — | 植物灵魂／感觉灵魂／思维灵魂 | 首现（telesio） | 学界通行（亚里士多德灵魂三分通译）；凭证 2026-11-08 | 2026-11-08 |
@@ -327,6 +337,7 @@
 | asōmata | — | 无形者 | intentionality-ancient | 斯多葛本体论通行译法（incorporeals） | 2026-11-07 |
 | aspect（rnam pa） | — | 行相（aspect） | epistemology-language-tibetan | 量论通行（rnam pa/ākāra=行相） | 2026-11-04 |
 | āsrava | आस्रव | 流入 | jaina-philosophy | 耆那教学界通行（业质流入；亦作“漏入”） | 2026-11-08 |
+| āśraya | — | 所依 | yogacara 首译 | 汉传唯识学通行（玄奘译“所依”）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | assertoric | — | 直言的 | 首现（william-sherwood） | 学界通行（与 modal 相对的断定语句）；凭证 2026-11-07 | 2026-11-07 |
 | assignment | — | 指派 | tarski-truth | 模型论通行（对象对变元的指派）；亦作“赋值” | 2026-11-09 |
 | assisted reproductive technology | — | 辅助生殖技术 | 首译（stem-cells） | 学界惯例（生殖医学通行）；凭证 2026-11-09 | 2026-11-09 |
@@ -346,7 +357,12 @@
 | atavistic theory | — | 返祖理论 | cancer | 本条术语（癌症返祖说）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | atheism | — | 无神论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | ativyāpti | अतिव्याप्ति | 过遍 | early-modern-india 首译 | 因明定义过失义通行（over-covering；与 avyāpti 不遍对举）；凭证 2026-11-10 | 2026-11-10 |
+| atlas | — | 图册 | geometry-19th.supplement | 微分几何通行译名（坐标卡之集）；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
+| ātmadṛṣṭi | — | 我见 | yogacara 首译 | 汉传唯识学四烦恼之一；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| ātmamāna | — | 我慢 | yogacara 首译 | 汉传唯识学四烦恼之一；与 ahaṃkāra 同形，正文括注原词消歧；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| ātmamoha | — | 我痴 | yogacara 首译 | 汉传唯识学四烦恼之一；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | ātman | आत्मन् | 自我（我） | early-modern-india | 印度哲学通行（胜论第九实；佛典古译“我”）；凭证 2026-11-10 | 2026-11-10 |
+| ātmasneha | — | 我爱 | yogacara 首译 | 汉传唯识学四烦恼之一；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | ātmāśraya | आत्माश्रय | 自依 | early-modern-india | 思择五分类义译（self-dependence）；凭证 2026-11-10 | 2026-11-10 |
 | atmospheric refraction | — | 大气折射 | nicole-oresme | 光学通行；凭证 2026-11-08 | 2026-11-08 |
 | atom (of a Boolean algebra) | — | 原子（布尔代数的原子） | 首现（boolalg-math） | 学界惯例（布尔代数论通行译名） | 2026-11-01 |
@@ -354,6 +370,7 @@
 | atomic program | — | 原子程序 | logic-dynamic | 程序逻辑通行译法；凭证 2026-11-10 | 2026-11-09 |
 | atomless | — | 无原子 | 首现（boolalg-math） | 学界惯例（布尔代数论通行译名） | 2026-11-01 |
 | Attempt to Introduce the Concept of Negative Magnitudes into Philosophy | — | 《把负量概念引入哲学的尝试》（简称《负量》） | kant-science | 学界通行；kant-leibniz 短形先例 | 2026-11-05 |
+| attitudinal stance | — | 态度立场 | dilthey 首译 | 狄尔泰 1904–9 术语（attitudinal stances；心理行为内容凭以与 world 诸对象相关联）；凭证 2026-11-11 | 2026-11-11 |
 | attractor | — | 吸引子 | f/frame-problem 首译 | 动力系统通行译法（Dreyfus 转述 Freeman）；凭证 2026-11-10 | 2026-11-10 |
 | atuphos | — | 脱尽虚妄 | 首现（timon-phlius） | 学界惯例（第蒙用语，free from tuphos）；凭证 2026-11-07 | 2026-11-07 |
 | atyantābhāva | अत्यन्ताभाव | 究竟无 | early-modern-india | 胜论四种非存在义译（constant/absolute absence）；凭证 2026-11-10 | 2026-11-10 |
@@ -377,6 +394,7 @@
 | avatar | — | 化身 | 首现（imprecise-probabilities） | 自译裁定（Bradley 用语，正文括注 avatars）；凭证 2026-11-08 | 2026-11-08 |
 | average-voter rule | — | 平均投票者规则 | belief-merging | 构词直译（计算社会选择文献）；凭证 2026-11-10 | 2026-11-10 |
 | Averroist | — | 阿威罗伊主义者 | marsilius-padua | 学界通行（Averroes 阿威罗伊）；凭证 2026-11-08 | 2026-11-08 |
+| avyākṛta | — | 无记 | yogacara 首译 | 汉传阿毗达磨通行（善／不善／无记）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | avyāpti | अव्याप्ति | 不遍（欠遍） | early-modern-india 首译 | 因明定义过失义通行（under-covering）；凭证 2026-11-10 | 2026-11-10 |
 | avyāpya-vṛtti | अव्याप्यवृत्ति | 局部遍转 | early-modern-india | 新正理文献通行义译（partial location；部分位于处）；凭证 2026-11-10 | 2026-11-10 |
 | awhan | اوهن | 比蛛网还脆弱的（《古兰经》29:41 蛛网之喻） | arabic-islamic-phil-math | 译名裁定（Q 29:41 直译） | 2026-11-08 |
@@ -390,6 +408,7 @@
 | axiom schema | — | 公理图式 | schema | 学界惯例（数理逻辑通行） | 2026-11-06 |
 | axiom scheme | — | 公理图式 | quine-nf | 数理逻辑通行译名；凭证 2026-11-09 | 2026-11-09 |
 | axiomatic method | — | 公理方法 | 首现（scholz） | 学界惯例（数学基础通行）；凭证 2026-11-07 | 2026-11-07 |
+| axiomatics | — | 公理学 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | axiomatization | — | 公理化 | deductivism-mathematics | 逻辑学通行译法；凭证 2026-11-08 | 2026-11-08 |
 | ayathārtha | अयथार्थ | 不如实 | early-modern-india | 与 yathārtha 如实对举之否定形（记忆分类）；凭证 2026-11-10 | 2026-11-10 |
 | ayutasiddhi | अयुतसिद्धि | 不离（不可分离） | early-modern-india | 新正理和合定义通行义译（inseparability）；凭证 2026-11-10 | 2026-11-10 |
@@ -398,12 +417,6 @@
 | ʾarbaʿīya | ارباعية | 四性 | arabic-islamic-phil-math | 译名裁定（arbaʿīya 直译；苏赫拉瓦尔迪反数之偶性论证） | 2026-11-08 |
 | ʿamalī / naẓarī | عملی／نظری | 应用的／理论的（法拉比数学之分） | arabic-islamic-phil-math | 译名裁定（practical/theoretical） | 2026-11-08 |
 | ʿaql | عقل | 智识（intellect；勿泛译“理性”） | arabic-islamic-phil-math | 学界通行（noūs 对译） | 2026-11-08 |
-| anātman | — | 无我 | yogacara 首译 | 汉传佛典千年通行译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| avyākṛta | — | 无记 | yogacara 首译 | 汉传阿毗达磨通行（善／不善／无记）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| ahaṃkāra | — | 我慢（我执） | yogacara 首译 | 数论派通行译“我慢”；作者英译 egoism/I-making；与 ātmamāna 我慢同形，正文括注原词消歧；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| Abhidharmamahāvibhāṣā | — | 《大毗婆沙论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| Abhidharmasamuccaya | — | 《大乘阿毗达磨集论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| Abhidharmakośa | — | 《阿毗达磨俱舍论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 
 ## B
 
@@ -480,16 +493,19 @@
 | Bestimmung | Bestimmung | 天职（德文原词保留斜体；亦作“规定”） | 18thGerman-preKant | 学界通行汉译 | 2026-11-05 |
 | Beth model | — | 贝斯模型 | 首现（intuitionism） | 逻辑学通行译名；凭证 2026-11-10 | 2026-11-10 |
 | Bewusstseinsstellung | Bewusstseinsstellung | 意识立场 | yorck 首译 | B 档：约克书名用语（Bewusstsein 意识＋Stellung 立场；书名《意识立场与历史》）；凭证 2026-11-11 | 2026-11-11 |
+| bhājana | — | 器世间 | yogacara 首译 | 汉传唯识学通行（bhājanaloka 器世间）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | Bhāṭṭa | भाट्ट | 跋吒派 | early-modern-india 首译 | 弥曼差两支派通行音译（Kumārila 一系）；凭证 2026-11-10 | 2026-11-10 |
 | bhāvanā | भावना | 心习 | early-modern-india 首译 | 记忆论义译（mental disposition；佛典“修习”为禅定义不取）；凭证 2026-11-10 | 2026-11-10 |
 | bhūta | भूत | 大种（物理实体） | early-modern-india | 源文自注 'physical substance'；佛典“四大种”古译通例；凭证 2026-11-10 | 2026-11-10 |
 | Bibliographic Treatise | 艺文志 | 《艺文志》 | chinese-phil-science | 学界通行（《汉书》卷三十）；凭证 2026-11-07 | 2026-11-07 |
 | Big Bang | — | 大爆炸 | kant-development | 物理学与宇宙论通行汉译；凭证 2026-11-11 | 2026-11-11 |
 | Big Five | — | 大五人格 | justice-moral-psych | 人格心理学通行汉译（五因素模型）；凭证 2026-11-10 | 2026-11-10 |
+| bīja | — | 种子 | yogacara 首译 | 汉传唯识学千年通行（种子说）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | bijection | — | 双射 | quine-nf | 数学通行译名；凭证 2026-11-09 | 2026-11-09 |
 | Bildlichkeit | Bildlichkeit | 图像性 | yorck 首译 | B 档：词面直译（Bild 图像；作者英译 projection of formed images）；凭证 2026-11-11 | 2026-11-11 |
 | Bildung | Bildung | 教化（伽达默尔语境） | 语料回收 | 学界惯例（伽达默尔《真理与方法》通行）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
 | binder | — | 约束子 | logic-hybrid | 学界通行（∀/↓ 绑定名项的算子）；凭证 2026-11-09 | 2026-11-09 |
+| Bindung | — | 承诺（约束） | dilthey 首译 | 狄尔泰伦理学术语（与义务感 Verbindlichkeit 相随）；本词条括注原文；凭证 2026-11-11 | 2026-11-11 |
 | biodiversity | — | 生物多样性 | 语料回收（标题词） | 审定名词库（termonline-all·多域在案，2026-10-31 浏览器通道凭证） | 2026-10-31 |
 | biofact | — | 生物人工物 | model-organisms 首译 | 本词条术语（Karafyllis 2003 的 biofact，兼具生物性与人工性）；凭证 2026-11-09 | 2026-11-09 |
 | biological information | — | 生物信息 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 i/information-biological））；凭证 2026-11-04 | 2026-11-04 |
@@ -560,8 +576,6 @@
 | burhān al-taṭābuq / al-taṭbīq | — | 映射论证（Mapping Argument） | arabic-islamic-phil-math | 译名裁定（taṭābuq 对应贴合；Zarepour 2020b 英译 mapping） | 2026-11-08 |
 | bushidō | 武士道 | 武士道 | japanese-aesthetics | 学界惯例（日本文化研究通行译法“武士道”） | 2026-11-02 |
 | business condition | — | 关己条件 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
-| bīja | — | 种子 | yogacara 首译 | 汉传唯识学千年通行（种子说）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| bhājana | — | 器世间 | yogacara 首译 | 汉传唯识学通行（bhājanaloka 器世间）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 
 ## C
 
@@ -644,10 +658,12 @@
 | character | — | 品性 | 首现（william-jevons） | 学界惯例（Jevons 经济学语境：阶级-性别-种族之品性，White 1994a）；凭证 2026-11-07 | 2026-11-07 |
 | characteristic function | — | 特征函数 | logic-infinitary | 集合论通行译法；凭证 2026-11-10 | 2026-11-09 |
 | characteristic value | — | 特征价值 | 首译（experimental-aesthetics） | Attie-Picker et al. 2024 术语（音乐“根本”之所是） | 2026-11-09 |
+| chart | — | 坐标卡 | geometry-19th.supplement | 微分几何通行译名（coordinate chart）；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | chatbot | — | 聊天机器人 | digital-art 首译 | 计算机科学通行译名；凭证 2026-11-10 | 2026-11-10 |
 | cheater | — | 欺骗者 | cancer | 学界通行（社会演化与癌症演化，cheater）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | Cheka | Чека | 契卡 | 人名表移植 | 学界通行译法（苏俄肃反委员会，克格勃前身）；凭证 2026-11-06 | 2026-11-06 |
 | cheng | 成 | 成（完成） | han-dynasty | 中国哲学通行（completion） | 2026-11-10 |
+| Cheng weishi lun | — | 成唯识论（汉文原题，不译） | yogacara 首译 | 玄奘糅译十师释；汉文原典题名；原文列不适用；凭证 2026-11-11 | 2026-11-11 |
 | chi-hosshin / chishin | 智法身 | 智法身 | kukai | 真言宗汉语传统 | 2026-11-09 |
 | chimera | — | 客迈拉 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑例证通行译法（希腊神话怪兽）；凭证 2026-11-06 | 2026-11-06 |
 | chimera（生物医学语境） | — | 嵌合体 | 首译（stem-cells） | SUMMARY 定名沿用（chimeras, human/non-human 人类/非人类嵌合体）；与神话义键 chimera 客迈拉分列；凭证 2026-11-09 | 2026-11-09 |
@@ -660,6 +676,7 @@
 | choice sequence | — | 选择序列 | 首现（intuitionism） | 直觉主义数学通行（布劳威尔术语）；凭证 2026-11-10 | 2026-11-10 |
 | choking under pressure | — | 高压下失常 | knowledge-how | 运动心理学通行（choking 现象）；凭证 2026-11-10 | 2026-11-10 |
 | chŏnghye ssangsu（定慧雙修） | 定慧雙修 | 定慧双修 | korean-buddhism | 汉文传统写法（知讷实践纲领） | 2026-11-05 |
+| chronogeometry | — | 时空几何 | geometry-19th | 相对论哲学用语（Minkowski chronogeometry）；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | CHSH inequality | — | CHSH 不等式 | 语料回收（bell-theorem） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
 | chuch’e（主體） | 主體 | 主体 | korean-philosophy | 学界通行（朝鲜主体思想；源文汉字 主體） | 2026-11-05 |
 | Chuci | 楚辭 | 《楚辞》 | han-dynasty | 学界通行学名 | 2026-11-10 |
@@ -676,11 +693,14 @@
 | circumscription | — | 限定推理 | f/frame-problem 首译 | AI 逻辑通行译法（McCarthy 术语；与国际法 circumscription 限缩分义）；凭证 2026-11-10 | 2026-11-10 |
 | circumscription (of sovereignty) | — | 限缩（对主权的限缩） | s/sovereignty 首译 | 学界通行译法（国际法语境“限缩”）；凭证 2026-11-07 | 2026-11-07 |
 | circumstances of justice | — | 正义的环境 | c/contractarianism 首译 | 罗尔斯术语通行译法（《正义论》中译）；凭证 2026-11-07 | 2026-11-07 |
+| citta | — | 心 | yogacara 首译 | 汉传佛典千年通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | Cittamātra | चित्तमात्र | 唯识 | gelukpa | 佛学界通行译名 | 2026-11-01 |
+| cittamātra | — | 唯心 | yogacara 首译 | 汉传唯识学（citta 心＋mātra 唯）；与 vijñaptimātra 唯识分键；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | cives | cives | 拉丁原文保留（公民） | oakeshott 首译 | 体例：拉丁术语保留原词并随文释义；凭证 2026-11-07 | 2026-11-07 |
 | civic humanism | — | 公民人文主义 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 h/humanism-civic））；凭证 2026-11-04 | 2026-11-04 |
 | civil association | — | 公民联合 | oakeshott 首译 | 学界惯例（奥克肖特研究通行；与 enterprise association 对举）；凭证 2026-11-07 | 2026-11-07 |
 | civil condition | — | 公民境况 | oakeshott 首译 | 学界惯例（《论人类行为》英译为 the civil condition）；凭证 2026-11-07 | 2026-11-07 |
+| civil philosophy | — | 公民哲学 | hobbes-science 首译 | 学界通行（霍布斯 civil philosophy；与 natural philosophy 自然哲学对举）；凭证 2026-11-11 | 2026-11-11 |
 | civil society | — | 市民社会 | hegel-social-political | 黑格尔政治哲学通行汉译（bürgerliche Gesellschaft） | 2026-11-10 |
 | civilizing mission | — | 文明使命 | colonialism | 学界通行译名（mission civilisatrice 引介文献）；凭证 2026-11-07 | 2026-11-07 |
 | civitas | civitas | 拉丁原文保留（国家） | oakeshott 首译 | 体例：拉丁术语保留原词并随文释义；凭证 2026-11-07 | 2026-11-07 |
@@ -733,6 +753,7 @@
 | Collected topics（bsdus grwa） | བསྡུས་གྲྭ་ | 摄类学（bsdus grwa） | epistemology-language-tibetan | 藏传佛教院教育通译 | 2026-11-04 |
 | collective prudence | — | 集体明智 | marsilius-padua | 学界通行（马西利乌斯政治理论核心概念，与亚里士多德个体明智对举）；凭证 2026-11-09 | 2026-11-09 |
 | collegia pietatis | collegia pietatis | 虔敬集会（拉丁原词保留斜体；即虔敬派私下小组聚会 conventicles） | 18thGerman-preKant | 学界通行汉译（虔敬派研究） | 2026-11-05 |
+| collineation | — | 直射变换 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | colonialism | — | 殖民主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | combination operator | — | 组合算子 | belief-merging | 学界通行（与合并算子对举）；凭证 2026-11-10 | 2026-11-10 |
 | commemorari | — | 回忆 | 首现（telesio） | 照文直译（特莱西奥替换术语）；凭证 2026-11-08 | 2026-11-08 |
@@ -794,6 +815,7 @@
 | conceivability argument | — | 可设想性论证（亦作“可设想论证”） | 首现（zombies） | 审定名词库（termonline-all·自然辩证法名词，2026-11-11 浏览器通道凭证）；查尔莫斯论证 | 2026-11-11 |
 | concept | — | 概念 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | concept drift | — | 概念漂移 | ontology-is | 机器学习/知识工程通行；凭证 2026-11-11 | 2026-11-11 |
+| conception (Hobbes) | — | 意象 | hobbes-science 首译 | 霍布斯认识论术语（据源文 note-2，与 idea 观念、phantasm 幻象分立）；凭证 2026-11-11 | 2026-11-11 |
 | conceptual apparatus | — | 概念装置 | lvov-warsaw | Ajdukiewicz 术语通行译法；凭证 2026-11-09 | 2026-11-09 |
 | conceptual art | — | 观念艺术 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 c/conceptual-art））；凭证 2026-11-04 | 2026-11-04 |
 | conceptual containment | — | 概念包含 | 首现（intuitionism-ethics） | 学界惯例（分析命题之概念包含说） | 2026-11-09 |
@@ -869,6 +891,7 @@
 | consistency | — | 一致性 | deductivism-mathematics | 逻辑学通行译法（与“协调性”并用，本库取“一致性”）；凭证 2026-11-08 | 2026-11-08 |
 | consistency proof | — | 一致性证明 | 首现（scholz） | 学界惯例（数理逻辑通行）；凭证 2026-11-07 | 2026-11-07 |
 | consistent | — | 一致（的）（逻辑语境；区别于 coherence 融贯） | belief-merging | 逻辑学通行（一致性）；与既有 coherence→融贯（justep-coherence）分工；凭证 2026-11-10 | 2026-11-10 |
+| constant curvature | — | 常曲率 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | constant domain semantics | — | 常域语义 | logic-relevance | 量化模态逻辑通行译法；凭证 2026-11-09 | 2026-11-09 |
 | constantia | — | 坚定（constantia） | justus-lipsius | 斯多葛伦理学研究通行 | 2026-11-07 |
 | constellation | — | 星丛 | adorno | 学界通行汉译（本雅明/阿多诺研究通行）；审定库无查询件（termonline-all 目录现查 2026-11-10） | 2026-11-10 |
@@ -916,6 +939,7 @@
 | conventionality of simultaneity | — | 同时性的约定性 | spacetime-convensimul | SUMMARY 词条定名；学界通行（Reichenbach–Grünbaum 论题） | 2026-11-06 |
 | Conventuals | — | 住院派 | ockham | 方济各会史通译（张践、田微《世界中世纪宗教史》作“住院派”，与“守规派”相对；佐证 The Catholic Encyclopedia 条 Order of Friars Minor Conventuals）；2026-11-08 联网复核，撤除原维基引证（ADR-0012 禁令）；凭证 2026-11-08 | 2026-11-08 |
 | convergent series / divergent series | — | 收敛级数／发散级数 | nicole-oresme | 数学通行；凭证 2026-11-08 | 2026-11-08 |
+| Conversations (Fuller) | — | 谈话会 | f/fuller-margaret 首译 | 富勒术语（专名化，首现附加引号） | 2026-11-11 |
 | converse | — | 换位（互为换位） | necessary-sufficient | 逻辑学通行（converse 仅交换前后件，与 contraposition 逆否分域）；凭证 2026-11-08 | 2026-11-08 |
 | conversely well-founded | — | 逆良基的 | logic-provability | 序结构通行（no infinite ascending chains） | 2026-11-05 |
 | conversio per accidens | — | 限量换位 | 首现（william-sherwood） | 学界惯例（与简单换位相对）；凭证 2026-11-07 | 2026-11-07 |
@@ -959,6 +983,8 @@
 | cost of natural selection | — | 自然选择的代价 | ecological-genetics 首译 | Haldane 1957 原语；学界通行译名；凭证 2026-11-10 | 2026-11-10 |
 | cost-benefit analysis | — | 成本—收益分析 | risk | 学界惯例（与登记册 cost effectiveness analysis“成本效果分析”分列）；凭证 2026-11-09 | 2026-11-09 |
 | cost-effective／cost-effectiveness | — | 成本效益 | organ-donation | 学界惯例（卫生经济学通行；凭证 2026-11-06） | 2026-11-06 |
+| cotangent bundle | — | 余切丛 | geometry-19th.supplement | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
+| cotangent space | — | 余切空间 | geometry-19th.supplement | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | count expression | — | 可数表达 | logic-massexpress | 语法通行译法；凭证 2026-11-10 | 2026-11-09 |
 | count noun | — | 可数名词 | logic-massexpress | 语法与语义学通行译法；凭证 2026-11-10 | 2026-11-09 |
 | countable choice | — | 可数选择 | quine-nf | 集合论通行译名（AC 弱形式）；凭证 2026-11-09 | 2026-11-09 |
@@ -996,12 +1022,14 @@
 | Critique of Pure Reason | — | 《纯粹理性批判》 | dilthey 首译 | 学界千年通行汉译（康德）；凭证 2026-11-09 | 2026-11-09 |
 | cross-cutting classification | — | 交叉分类 | cancer | 本条术语（Khalidi 分类哲学）；指不构成层级包含关系的分类；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | cross-modal | — | 跨模态 | 语料回收（molyneux-problem 首译） | 认知科学界通行译法；凭证 2026-11-06 | 2026-11-06 |
+| cross-ratio | — | 交比 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | crystal spheres | — | 水晶天球 | natphil-ren | 天文学史通行；凭证 2026-11-10 | 2026-11-10 |
 | cuius regio, eius religio | cuius regio, eius religio | 教随国定（拉丁原词保留斜体） | s/sovereignty 首译 | 学界通行译法（宗教改革研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | culpable ignorance | — | 可归咎的无知 | moral-responsibility-empirical | 责任伦理学通行（与“不可归咎的无知”对举） | 2026-11-07 |
 | cultural badge | — | 文化徽章 | moral-responsibility-empirical | 文化演化研究通行（Boyd & Richerson 系） | 2026-11-07 |
 | cultural landscape | — | 文化景观 | 首现（environmental-aesthetics） | 学界通行（文化地理学） | 2026-11-08 |
 | cultural rights | — | 文化权利 | cosmopolitanism | 学界通行（少数群体权利论）；凭证 2026-11-09 | 2026-11-09 |
+| cultural system | Kultur System | 文化系统 | dilthey 首译 | 狄尔泰《精神科学引论》核心术语（与社会的外部组织对举）；学界通行；凭证 2026-11-11 | 2026-11-11 |
 | culture industry | — | 文化工业 | adorno | 学界通行汉译（《启蒙辩证法》等法兰克福学派权威译本通行）；审定库无查询件（termonline-all 目录现查 2026-11-10） | 2026-11-10 |
 | cumulative reference | — | 累积指称 | logic-massexpress | Quine 传统通行译法；凭证 2026-11-10 | 2026-11-09 |
 | cunning of reason | — | 理性的狡计 | 语料回收（lakatos 首译） | 黑格尔研究通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -1013,9 +1041,6 @@
 | Cut rule | — | 切规则 | logic-substructural | 证明论通行译法；凭证 2026-11-10 | 2026-11-09 |
 | cyberterrorism | — | 网络恐怖主义 | 首现（it-moral-values） | 法学与安全研究通行译名；凭证 2026-11-10 | 2026-11-10 |
 | Cynics | — | 犬儒派 | 首现（timon-phlius） | 学界惯例（古希腊哲学流派；本库无独立词条）；凭证 2026-11-07 | 2026-11-07 |
-| citta | — | 心 | yogacara 首译 | 汉传佛典千年通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| cittamātra | — | 唯心 | yogacara 首译 | 汉传唯识学（citta 心＋mātra 唯）；与 vijñaptimātra 唯识分键；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| Cheng weishi lun | — | 成唯识论（汉文原题，不译） | yogacara 首译 | 玄奘糅译十师释；汉文原典题名；原文列不适用；凭证 2026-11-11 | 2026-11-11 |
 
 ## D
 
@@ -1079,11 +1104,13 @@
 | defeasibility theory of knowledge | — | 知识的可废止性理论 | epistemology-latin-america 首译 | 学界通行（defeasibility 可废止性） | 2026-11-11 |
 | defeasible | — | 可废止的 | f/frame-problem 首译 | 逻辑学通行译法（知识论 defeat 另译击败/可挫败，分义）；凭证 2026-11-10 | 2026-11-10 |
 | defeater | — | 击败因子 | religious-experience | 学界通行（知识论；defeasible 另译可挫败） | 2026-11-05 |
+| defect | — | 亏量 | geometry-19th | 非欧几何通行译名（三角形内角和亏量）；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | Defensor Minor | — | 《小保卫者》 | marsilius-padua | 学界通行汉译（马西利乌斯续作）；凭证 2026-11-08 | 2026-11-08 |
 | Defensor Pacis | — | 《和平的保卫者》 | marsilius-padua | 学界通行汉译（马西利乌斯代表作；ren-ming-biao 既用书名）；凭证 2026-11-08 | 2026-11-08 |
 | deferment | — | 推迟 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | definiens / definiendum / definitional basis | definiens / definiendum | 能表（定义项）／所表（被定义项）／表基（定义基处） | epistemology-language-tibetan | 藏传量论通行（mtshon byed/mtshon bya/mtshon gzhi） | 2026-11-04 |
 | definite description | — | 限定摹状词 | tarski-truth | 逻辑哲学通行（罗素） | 2026-11-09 |
+| definitionism | — | 定义主义 | hobbes-science 首译 | 学界惯例（霍布斯公民哲学演证解释通称，亦作“定义式观点”）；凭证 2026-11-11 | 2026-11-11 |
 | deflationary | — | 紧缩（与既有 deflationism=紧缩论 对齐） | 首现（abelard） | 分析哲学文献通行译法；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | degenerating research programme | — | 退化的研究纲领 | 语料回收（lakatos 首译） | 科学研究纲领方法论通行译法；凭证 2026-11-06 | 2026-11-06 |
 | degree of belief | — | 置信度 | 首现（imprecise-probabilities） | 学界惯例（形式认识论通行）；凭证 2026-11-08 | 2026-11-08 |
@@ -1098,6 +1125,7 @@
 | demon (daemon) | — | 恶魔 | gianfrancesco-pico | 学界通行；源文 daemon／demonic 同根，正文作“恶魔的” | 2026-11-09 |
 | demonstratio propter quid | — | 所以然证明（“证明所以然”） | zabarella | 学界惯例（同 quia 行）；凭证 2026-11-09 | 2026-11-09 |
 | demonstratio quia | — | 所然证明（“证明所然”；亦作“事实证明”） | zabarella | 学界惯例（《后分析篇》研究：quia＝所然，propter quid＝所以然）；凭证 2026-11-09 | 2026-11-09 |
+| demonstration | — | 演证 | hobbes-science 首译 | 学界通行（霍布斯 scientia 语境 demonstratio；与 proof 证明分用）；凭证 2026-11-11 | 2026-11-11 |
 | demonstrative syllogism | — | 证明三段论 | analogy-medieval 首译 | 学界通行（《后分析篇》证明科学语境）；凭证 2026-11-08 | 2026-11-08 |
 | demythologization | — | 去神话化 | 首现（xenophanes） | 学界通行（自然现象的去神话解释）；凭证 2026-11-07 | 2026-11-07 |
 | Denken als Denken | Denken als Denken | 作为思维的思维 | karl-reinhold | 主会话直译收口 432e0a76；凭证 2026-11-04 | 2026-11-04 |
@@ -1338,6 +1366,7 @@
 | elicitation | — | 引出 | 首现（imprecise-probabilities） | 学界惯例（决策论与认识论通行）；凭证 2026-11-08 | 2026-11-08 |
 | elimination of opposite superimpositions | — | 遮除对立增益 | epistemology-language-tibetan | 藏传量论通译 | 2026-11-04 |
 | eliminativism | — | 取消主义 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
+| elliptic geometry | — | 椭圆几何 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | Ellsberg problem | — | Ellsberg 问题 | 首现（imprecise-probabilities） | 自译裁定（保留英文姓氏，现代学者人名不汉译）；凭证 2026-11-08 | 2026-11-08 |
 | Elucidating the View | — | 《除邪见》 | gorampa | 果让巴论著（lta ba ngan sel）；藏传中观研究通行译名 | 2026-11-09 |
 | emanation | — | 流溢 | israeli | 新柏拉图主义研究通行 | 2026-11-06 |
@@ -1346,6 +1375,7 @@
 | eminent containment | — | 卓越包含 | john-norris | 经院—笛卡尔系通行译法（formaliter/eminenter 之别） | 2026-11-07 |
 | emotion | — | 情感 | 首现（emotion-Christian-tradition） | 学界惯例（SUMMARY 题名既定；Dixon《从激情到情感》语境与 passion 激情、affection 情意三分）；凭证 2026-11-04 | 2026-11-04 |
 | emotional misidentification | — | 情绪误认 | paradox-suspense | 构词直译（Yanal 的解决方案）；凭证 2026-11-09 | 2026-11-09 |
+| empathy | — | 共情 | dilthey 首译 | 学界通行译名（Verstehen 被误读为 empathy 之 empathy）；与 sympathy 同情分用；凭证 2026-11-11 | 2026-11-11 |
 | Empfindung | Empfindung | 感觉 | yorck 首译 | 学界通行（德国哲学 Empfindung 感觉，与 Gefühl 情感分义）；凭证 2026-11-11 | 2026-11-11 |
 | Empfindungsrealität | Empfindungsrealität | 感觉实在性 | yorck 首译 | B 档：词面直译（作者英译 a reality of feeling）；凭证 2026-11-11 | 2026-11-11 |
 | empirical adequacy | — | 经验充足性（经验上充足） | 首译（scientific-explanation-20th） | 学界通行（van Fraassen 1980）；凭证 2026-11-10 | 2026-11-10 |
@@ -1365,6 +1395,7 @@
 | enactivism | — | 生成论 | knowledge-how | 认知科学哲学通行（enactivism 生成进路）；凭证 2026-11-10 | 2026-11-10 |
 | Encyclopédie | Encyclopédie | 《百科全书》（狄德罗主编） | 语料回收 | 学界惯例（启蒙哲学译名）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
 | end extension | — | 真端扩张 | logic-infinitary | 集合论模型论通行译法；凭证 2026-11-10 | 2026-11-09 |
+| endeavor | — | 努力 | hobbes-science 首译 | 学界通行（霍布斯 conatus 义；沿斯宾诺莎 conatus 努力形）；凭证 2026-11-11 | 2026-11-11 |
 | endogenous | — | 内源的 | cancer | 学界通行（生物学与医学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | endophenotype | — | 内表型 | model-organisms 首译 | 精神病学与遗传学通行译名（Striedter 2022）；凭证 2026-11-09 | 2026-11-09 |
 | endoxa | — | 公认意见（endoxa） | zeno-elea | 学界通行（亚里士多德《论题篇》研究：众人或贤哲所持看法）；凭证 2026-11-09 | 2026-11-09 |
@@ -1376,9 +1407,9 @@
 | Enlightenment | — | 启蒙（时代名，视语境亦作“启蒙运动”） | 18thGerman-preKant | 学界通行汉译 | 2026-11-05 |
 | Enneads | — | 《九章集》 | 首现（theology-aristotle） | 学界通行（普罗提诺著作标准汉译）；凭证 2026-11-08 | 2026-11-08 |
 | ennoēma | — | 内在思想对象 | intentionality-ancient | 斯多葛术语（en+noēma“在思想中者”）；随文保留拉丁 | 2026-11-07 |
-| ensemble | — | 系综 | qm | 审定名词库（化工名词 02.103；物理学统计力学通行）；凭证 2026-11-10 | 2026-11-11 |
 | ens inquantum ens | ens inquantum ens | 作为存在的存在 | 语料回收（marsilius-inghen 首译） | 形而上学通行译法；凭证 2026-11-06 | 2026-11-06 |
 | ens simpliciter / ens quodammodo | — | 绝对意义的存在者／某种意义的存在者 | peter-spain | 学界通行（中世纪存在论）；凭证 2026-11-09 | 2026-11-09 |
+| ensemble | — | 系综 | qm | 审定名词库（化工名词 02.103；物理学统计力学通行）；凭证 2026-11-10 | 2026-11-11 |
 | entailment | — | 蕴涵 | closure-epistemic 首译 | 逻辑学通行（与 material implication 实质蕴涵 同族；entails 译“蕴涵”） | 2026-11-08 |
 | entanglement | — | 纠缠 | qt-entangle | 学界通行译名（量子信息与物理学哲学文献）；凭证 2026-11-09 | 2026-11-09 |
 | entelecheia | — | 隐德来希 | 首现（theology-aristotle） | 学界通行（亚里士多德灵魂说标准音译）；凭证 2026-11-08 | 2026-11-08 |
@@ -1451,6 +1482,7 @@
 | Erfahrung-Ästhetik | Erfahrung-Ästhetik | 经验美学 | gadamer-aesthetics | 学界惯例（美学研究通行） | 2026-11-01 |
 | eristic | — | 争胜论辩（eristic） | zeno-elea | 学界惯例（与辩证论辩对举的争胜式论辩）；凭证 2026-11-09 | 2026-11-09 |
 | Erklärende Psychologie | Erklärende Psychologie | 说明心理学 | jaspers 首译 | 学界通行（与理解心理学对举；Erklären 说明）；凭证 2026-11-09 | 2026-11-09 |
+| Erlangen program | — | 埃尔朗根纲领 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | Erlebnis | Erlebnis | 体验（狄尔泰/伽达默尔语境；亦作“亲历体验”） | gadamer-aesthetics | 学界惯例（伽达默尔《真理与方法》通行） | 2026-11-01 |
 | Erlebnis-Ästhetik | Erlebnis-Ästhetik | 体验美学 | gadamer-aesthetics | 学界惯例（美学研究通行） | 2026-11-01 |
 | erotapokriseis | — | 问答体 | john-italos | 拜占庭文学研究通行体裁名；待 specs/008 审定库复核 | 2026-11-06 |
@@ -1504,6 +1536,7 @@
 | evidential support thesis | — | 证据支持论题 | necessary-sufficient | Douven 术语；凭证 2026-11-08 | 2026-11-08 |
 | evidentialism | — | 证据主义 | basing-epistemic 首译 | 学界通行汉译（Feldman、Conee 等）；凭证 2026-11-08 | 2026-11-08 |
 | evidentialist reliabilism | — | 证据主义式可靠主义 | epistemology-latin-america 首译 | Comesaña 术语；自译裁定（evidentialism 证据主义 + reliabilism 可靠主义组合） | 2026-11-11 |
+| evidentness | Evidenz | 明证性 | dilthey 首译 | 现象学传统通行译名（知识之客观必然性所当定位者）；凭证 2026-11-11 | 2026-11-11 |
 | evolution | — | 进化 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 e/evolution））；凭证 2026-11-04 | 2026-11-04 |
 | evolutionary developmental biology | — | 进化发育生物学 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | evolutionary epistemology | — | 进化认识论 | 语料回收（标题词） | 审定名词库（termonline-all·自然辩证法·科学哲学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
@@ -1586,6 +1619,7 @@
 | extent of meaning / intent of meaning | — | 意义的外延／意义的内涵 | 首现（william-jevons） | 学界惯例（Jevons 词项意义两面，对应外延-内涵）；凭证 2026-11-07 | 2026-11-07 |
 | external / internal sovereignty | — | 对外主权／对内主权 | s/sovereignty 首译 | 学界通行译法（国际法与国际关系研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | external contraction | — | 外收缩 | logic-fuzzy | 超矢列演算术语直译；凭证 2026-11-09 | 2026-11-09 |
+| external organization of society | äußere Organisation der Gesellschaft | 社会的外部组织 | dilthey 首译 | 狄尔泰《精神科学引论》术语（与文化系统对举）；学界通行；凭证 2026-11-11 | 2026-11-11 |
 | external validity | — | 外部效度 | justice-moral-psych | 实验方法论通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | external weakening | — | 外弱化 | logic-fuzzy | 超矢列演算术语直译；凭证 2026-11-09 | 2026-11-09 |
 | external world | — | 外部世界 | 语料回收 | 学界惯例（认识论通行（外部世界怀疑论））；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
@@ -1607,6 +1641,7 @@
 | factorization | — | 因式分解 | qt-entangle | 数学通行译名；凭证 2026-11-09 | 2026-11-09 |
 | faculty | — | 官能 | conscience 首译 | 学界通行（faculty psychology 官能心理学）；凭证 2026-11-08 | 2026-11-08 |
 | faculty of arts | — | 艺学院 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
+| faculty psychology | — | 官能心理学 | f/fuller-margaret 首译 | 哲学史通行译法（苏格兰常识学派语境） | 2026-11-11 |
 | failed erotic art | — | 失败的情色艺术 | 首译（erotic-art） | 本词条术语（Levinson 亦称“名义上的情色艺术”） | 2026-11-08 |
 | fair division | — | 公平分配 | s/social-procedures 首译 | 学界通行译法（社会选择与分配正义文献通行）；凭证 2026-11-07 | 2026-11-07 |
 | fairness | — | 公平 | justice-moral-psych | 与“正义”分列：fairness 指局部分配的公平；凭证 2026-11-10 | 2026-11-10 |
@@ -1631,6 +1666,7 @@
 | feeling | — | 感情 | landmann-kalischer | 本词条定案（兰德曼-卡利舍尔：与 emotion 情感相区分；感情可为“纯粹的”“无利害的”，为价值之根基） | 2026-11-04 |
 | feeling of absolute dependence | — | 绝对依赖感（施莱尔马赫 schlechthinnige Abhängigkeitsgefühl） | 首现（emotion-Christian-tradition） | 学界惯例（汉语神学界通行）；凭证 2026-11-04 | 2026-11-04 |
 | feeling-towards | — | 朝向感受（戈尔迪） | 首现（emotion-Christian-tradition） | 学界惯例（情感哲学直译+括注）；凭证 2026-11-04 | 2026-11-04 |
+| fellow feeling | Mitgefühl | 同感 | dilthey 首译 | 狄尔泰伦理学术语（比同情更深的人类学团结之感受）；本词条括注原文；凭证 2026-11-11 | 2026-11-11 |
 | felt contradiction | — | 感受到的矛盾 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | feminism | — | 女性主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | feminist epistemology | — | 女性主义认识论 | omniscience | 学界通行译名；凭证 2026-11-09 | 2026-11-09 |
@@ -1638,6 +1674,7 @@
 | ferment | — | 酵素 | locke-on-medicine | 赫尔蒙特研究通行（亦作“发酵原”备查） | 2026-11-05 |
 | fermentation | — | 发酵 | locke-on-medicine | 化学/医史通行 | 2026-11-05 |
 | festival | — | 节日（节庆；festive celebration 节庆） | gadamer-aesthetics | 学界惯例（美学研究通行） | 2026-11-01 |
+| fiber bundle | — | 纤维丛 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | fictionalism | — | 虚构主义 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | fictitious mean | — | 虚构均值 | 首现（william-jevons） | 学界惯例（Quetelet-杰文斯统计方法论术语）；凭证 2026-11-07 | 2026-11-07 |
 | fideism | — | 信仰主义 | lorenzo-valla | 宗教哲学通行（首见登记为“维特根斯坦式信仰主义”复合词，本行补单词） | 2026-11-04 |
@@ -1657,6 +1694,7 @@
 | first intention | — | 第一意向 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | first mover | — | 第一推动者 | cordemoy 补登 | 学界通行（亚里士多德—经院—笛卡尔宇宙论）；凭证 2026-11-09 | 2026-11-09 |
 | first person authorization | — | 第一人称授权 | organ-donation | 学界惯例（美国器官捐献法术语；凭证 2026-11-06） | 2026-11-06 |
+| first philosophy | — | 第一哲学 | hobbes-science 首译 | 学界通行（亚里士多德—经院术语 prima philosophia）；凭证 2026-11-11 | 2026-11-11 |
 | first principle | — | 第一原理 | 首现（schlegel） | 学界惯例（德国观念论研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | First Separate Intellect | — | 第一独立理智 | gersonides | 承登记册 separate substances／separate intellects 独立实体／独立理智；Gersonides 术语 | 2026-11-09 |
 | first-order ethics | — | 第一阶伦理学 | 首现（intuitionism-ethics） | 学界惯例（元伦理学通行）；凭证 2026-11-08 | 2026-11-08 |
@@ -1782,6 +1820,7 @@
 | gastruloid | — | 类原肠胚 | 首译（stem-cells） | 构词直译（gastrula 原肠胚 + -oid；学界新造术语）；凭证 2026-11-09 | 2026-11-09 |
 | gauge freedom | — | 规范自由度 | spacetime-holearg | A 档（学界通行译名） | 2026-10-28 |
 | gauge transformation | — | 规范变换 | spacetime-holearg | A 档（学界通行译名） | 2026-10-28 |
+| Gaussian curvature | — | 高斯曲率 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | Gefühl | Gefühl | 情感 | yorck 首译 | 学界通行（德语哲学 Gefühl 情感）；凭证 2026-11-11 | 2026-11-11 |
 | Gefühl der Vergänglichkeit | Gefühl der Vergänglichkeit | 无常感 | yorck 首译 | B 档：词面直译（Vergänglichkeit 暂逝性；作者英译 the feeling that everything passes）；凭证 2026-11-11 | 2026-11-11 |
 | Gehalt | Gehalt | 内涵 | landmann-kalischer | 艺术理论通行（作品内容义；与 form 形式相对） | 2026-11-04 |
@@ -1821,6 +1860,7 @@
 | genomics | — | 基因组学 | cancer | 学界通行；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | Gentzen sequent | — | Gentzen 序列 | logic-hybrid | 学界惯例（保留 Gentzen 人名，译 sequent 为序列）；凭证 2026-11-09 | 2026-11-09 |
 | genuine cause | — | 真正原因 | occasionalism 首译 | 学界惯例；凭证 2026-11-07 | 2026-11-07 |
+| geodesic | — | 测地线 | geometry-19th.supplement | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | geomancy | — | 土占术 | gianfrancesco-pico | 西洋占术史通行（与地理学 geomancy 异） | 2026-11-09 |
 | geometry of interaction | — | 交互几何 | logic-linear | Girard 术语通行译法；凭证 2026-11-10 | 2026-11-09 |
 | George-Kreis | George-Kreis | 格奥尔格圈 | landmann-kalischer | 德语文学研究通行（亦作“格奥尔格派”备查） | 2026-11-04 |
@@ -1860,6 +1900,7 @@
 | gradualism | — | 渐变论 | ecological-genetics 首译 | 学界通行译名（达尔文研究文献）；凭证 2026-11-10 | 2026-11-10 |
 | graft survival | — | 移植物存活 | organ-donation | 学界惯例（移植医学术语；凭证 2026-11-06） | 2026-11-06 |
 | graft-versus-host disease | — | 移植物抗宿主病 | 首现（cloning） | 学界惯例（移植医学通行）；凭证 2026-11-07 | 2026-11-07 |
+| grāhaka-grāhya | — | 能取-所取 | yogacara 首译 | 汉传唯识学通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | Great Awakening | Great Awakening | 大觉醒运动 | edwards 首译 | 学界通行汉译（美国宗教史通名）；凭证 2026-11-10 | 2026-11-10 |
 | great chain of being | — | 存在巨链 | john-italos | 学界通行（Lovejoy 术语之汉译）；待 specs/008 审定库复核 | 2026-11-06 |
 | Great Panathenaea | — | 大泛雅典娜节 | zeno-elea | 学界通行（雅典节庆通名）；凭证 2026-11-09 | 2026-11-09 |
@@ -1874,11 +1915,11 @@
 | Gresham's Law | — | 格雷欣法则 | nicole-oresme | 经济学通行；凭证 2026-11-08 | 2026-11-08 |
 | Greyfriars | — | 灰衣修士（首现括注，方济各会俗称） | ockham | 教会史通译；凭证 2026-11-07 | 2026-11-07 |
 | ground and consequent | — | 根据与后承 | reinach | 学界惯例（与 causality“因果性”对举）；凭证 2026-11-09 | 2026-11-09 |
+| ground state | — | 基态 | qm | 审定名词库（物理学名词 02.085）；凭证 2026-11-10 | 2026-11-11 |
 | grounded normativity | — | 扎根规范性 | colonialism | Simpson/Coulthard 概念引介译名；待 008 复核；凭证 2026-11-07 | 2026-11-07 |
 | grounding | — | 奠基 | object 首译 | 学界通行汉译（形而上学奠基）；凭证 2026-11-07 | 2026-11-07 |
 | grounding nominalism | — | 奠基唯名论 | nominalism-metaphysics | 由 grounding 奠基＋nominalism 唯名论复合 | 2026-11-10 |
 | grounding objection | — | 根据反驳 | prophecy | 中知识论争论通行译法（对自由之虚拟条件句真理根据的质疑）；凭证 2026-11-09 | 2026-11-09 |
-| ground state | — | 基态 | qm | 审定名词库（物理学名词 02.085）；凭证 2026-11-10 | 2026-11-11 |
 | group agent | — | 群体行动者 | 首现（imprecise-probabilities） | 学界惯例（社会本体论通行）；凭证 2026-11-08 | 2026-11-08 |
 | group belief | — | 群体信念 | 首现（imprecise-probabilities） | 学界惯例（社会认识论通行）；凭证 2026-11-08 | 2026-11-08 |
 | group knowledge | — | 群体知识 | epistemology-latin-america 首译 | 学界通行 | 2026-11-11 |
@@ -1895,7 +1936,6 @@
 | Guru Granth Sahib | — | 《古鲁·格兰特·萨希卜》 | 首译（sikh-philosophy） | 学界通行汉译（锡克正典，1604 阿尔詹古鲁编定；亦作《室利·古鲁·格兰特·萨希卜》SGGS）；凭证 2026-11-09 | 2026-11-09 |
 | gurutva | गुरुत्व | 重性 | early-modern-india | 胜论动力学通行义译（weight）；凭证 2026-11-10 | 2026-11-10 |
 | Gymnosophists | — | 裸形智者 | gianfrancesco-pico | 希腊文术语通行汉译（印度苦行者） | 2026-11-09 |
-| grāhaka-grāhya | — | 能取-所取 | yogacara 首译 | 汉传唯识学通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 
 ## H
 
@@ -2054,6 +2094,7 @@
 | hylomorphism | — | 质形论 | lorenzo-valla | 亚里士多德学界通行 | 2026-11-04 |
 | hylozoism | — | 物活论 | kant-science | 学界通行 | 2026-11-05 |
 | hypatos tōn philosophōn | ὕπατος τῶν φιλοσόφων | 哲学家执政 | john-italos | 拜占庭制度史通行（ὕπατος τῶν φιλοσόφων）；待 specs/008 审定库复核 | 2026-11-06 |
+| hyperbolic geometry | — | 双曲几何 | geometry-19th.supplement | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | hyperrationalism | — | 过度理性主义 | august-rehberg 首译 | 构词直译（Rehberg 研究）；凭证 2026-11-08 | 2026-11-08 |
 | hypersequent | — | 超矢列 | logic-fuzzy | Avron 1991 术语通行译法；凭证 2026-11-09 | 2026-11-09 |
 | hyperset | — | 超集合 | quine-nf | 非良基集合论通行译名；凭证 2026-11-09 | 2026-11-09 |
@@ -2061,6 +2102,7 @@
 | hypostasis | — | 位格（神学语境）；本体／实体（哲学语境） | john-italos | 教父学与新柏拉图主义研究通行（ὑπόστασις）；待 specs/008 审定库复核 | 2026-11-06 |
 | hypostasized | — | 实体化 | 首译（saadya） | 神哲学通行（hypostasize 使成实体；与既有 hypostasis 行“位格／本体”相关而异用）；凭证 2026-11-09 | 2026-11-09 |
 | hypostatisation | — | 实体化 | reism | 学界惯例（hypostatize 通译实体化） | 2026-11-04 |
+| hypothetical certainty | — | 假设的确定性 | hobbes-science 首译 | 照文直译（霍布斯自然哲学解释的认识论地位）；凭证 2026-11-11 | 2026-11-11 |
 | hypothetical judgement | — | 假言判断 | brentano-judgement 首译 | 学界惯例（传统逻辑通行，与直言判断对举）；凭证 2026-11-09 | 2026-11-09 |
 | hypothetical necessity | — | 假言必然性 | aristotle-causality 首译 | 亚里士多德自然哲学通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | Hypothetical Reasoning | — | 假说推理 | 语料回收（标题词） | 学界惯例（皮尔士溯因语境（abduction 词条））；凭证 2026-11-01 | 2026-11-01 |
@@ -2083,6 +2125,7 @@
 | ideal self | — | 理想自我 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | idealised evidential position | — | 理想化证据位置 | 首现（imprecise-probabilities） | 构词直译；凭证 2026-11-08 | 2026-11-08 |
 | idealism | — | 唯心论；观念论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
+| idealism of freedom | Idealismus der Freiheit | 自由观念论 | dilthey 首译 | 狄尔泰世界观类型学三分之一（与自然主义、客观观念论并列）；学界通行；凭证 2026-11-11 | 2026-11-11 |
 | ideality | — | 理想性 | peirce-benjamin | 首现裁定（皮尔斯洛厄尔讲座用语；与 ideal-ism 双关，后者从登记册 idealism=唯心论；观念论）；凭证 2026-11-09 | 2026-11-09 |
 | Ideals and Illusions | — | 《理想与幻象》 | 首译（stebbing） | 斯泰宾著作（1941）；书名体例译；凭证 2026-11-09 | 2026-11-09 |
 | idempotent | — | 幂等 | logic-fuzzy；首现（boolalg-math） | 学界惯例（抽象代数通行译名）；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
@@ -2111,6 +2154,7 @@
 | illumination (model of abstraction) | illuminatio | 光照说 | 首现（simon-faversham） | 学界通行（奥古斯丁—经院认识论）；凭证 2026-11-08 | 2026-11-08 |
 | illuminationist | — | 照明论 | 首译（saadya） | 伊斯兰哲学通行（ishrāqī 照明哲学一路；与既有“光照说 illumination”行分立，勿混）；凭证 2026-11-09 | 2026-11-09 |
 | illusion | — | 幻象 | langer 首译 | 朗格研究通行（与 Täuschung 错觉分域）；凭证 2026-11-08 | 2026-11-08 |
+| imaginative metamorphosis | — | 想象变形 | dilthey 首译 | 狄尔泰《诗学》术语（排除、强化、完成三律）；学界通行；凭证 2026-11-11 | 2026-11-11 |
 | imaginative resistance | — | 想象性抗拒 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 i/imaginative-resistance））；凭证 2026-11-04 | 2026-11-04 |
 | Immaculate Conception | — | 无染原罪 | auriol | 天主教神学通行（圣母始胎无染原罪） | 2026-11-07 |
 | immanent critique | — | 内在批判 | adorno | 学界通行汉译（法兰克福学派研究通行）；审定库无查询件（termonline-all 目录现查 2026-11-10） | 2026-11-10 |
@@ -2193,7 +2237,6 @@
 | infallibility | — | 无误性 | omniscience | 学界通行译名（与 essential omniscience 分列）；凭证 2026-11-09 | 2026-11-09 |
 | infallible | — | 不会出错的 | prophecy | 构词直译（对上帝知识的不谬性描述，与 infallibility 不谬性相承）；凭证 2026-11-09 | 2026-11-09 |
 | infectious agent | — | 传染因子 | cancer | 学界通行（流行病学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
-| faculty psychology | — | 官能心理学 | f/fuller-margaret 首译 | 哲学史通行译法（苏格兰常识学派语境） | 2026-11-11 |
 | inference rule | — | 推理规则 | schema | 学界惯例（逻辑学通行） | 2026-11-06 |
 | Inference to the Best Explanation | — | 最佳说明推理（亦作“最佳解释推理”） | abduction | 审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
 | Inference to the Worst Explanation (IWE) | — | 最差解释推理 | 首现（abduction） | 学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
@@ -2228,6 +2271,7 @@
 | inner perception | — | 内知觉 | brentano-judgement 首译 | 布伦塔诺术语通行译法（与外知觉 outer perception 对举）；凭证 2026-11-09 | 2026-11-09 |
 | inner product | — | 内积 | qm | 审定名词库（数学名词 05.488）；凭证 2026-11-10 | 2026-11-11 |
 | innerworldly | — | 世内的 | landmann-kalischer | 海德格尔 innerweltlich 通行 | 2026-11-04 |
+| Innewerden | — | 内觉 | dilthey 首译 | 狄尔泰术语（Makkreel 英译 reflexive awareness；正文首现括注原词，与“反思性觉察”分用）；凭证 2026-11-11 | 2026-11-11 |
 | insolubilia | insolubilia | 不可解问题 | lorenzo-valla | 中世纪逻辑史通行（亦作“不可解命题”备查） | 2026-11-04 |
 | insolubles | — | 不可解命题 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法（insolubilia）；凭证 2026-11-06 | 2026-11-06 |
 | instance | — | 实例 | schema | 学界惯例（逻辑学通行） | 2026-11-06 |
@@ -2347,6 +2391,7 @@
 
 ## J
 
+| Jacobi identity | — | 雅可比恒等式 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | jāhiliyya | جاهلية | 蒙昧 | ibn-kammuna | 伊斯兰研究通行（未受启示规范之状态）；凭证 2026-11-10 | 2026-11-10 |
 | janamsakhi | janamsākhī | 生平传 | 首译（sikh-philosophy） | 锡克研究通行（记述古鲁生平的叙事文类）；凭证 2026-11-09 | 2026-11-09 |
 | Japanese aesthetics | — | 日本美学 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 j/japanese-aesthetics））；凭证 2026-11-04 | 2026-11-04 |
@@ -2407,6 +2452,8 @@
 | kare | 枯 | 枯（枯萎） | japanese-aesthetics | 学界惯例（日本庭园研究通行译法“枯”） | 2026-11-08 |
 | karesansui | 枯山水 | 枯山水 | japanese-aesthetics | 学界惯例（日本庭园研究通行译法“枯山水”） | 2026-11-02 |
 | karman | कर्मन् | 所作业 | early-modern-india | 同上（object）；凭证 2026-11-10 | 2026-11-10 |
+| Karmasiddhiprakaraṇa | — | 《大乘成业论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| karma（佛教业报义） | — | 业 | yogacara 首译 | 佛教业报义；与胜论句义“运动（业）”分键；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | karma（胜论句义） | कर्म | 运动（业） | early-modern-india | 胜论第三句义传统译“业”（《胜宗十句义论》），此处指运动/动作，随文括注；与佛教业报义同键多义分工；凭证 2026-11-10 | 2026-11-10 |
 | Karp partial isomorphism theorem | — | Karp 部分同构定理 | logic-infinitary | 人名保留英文（Karp 1965）；凭证 2026-11-10 | 2026-11-09 |
 | Karrāmite | — | 卡拉米派 | al-din-al-razi 首译 | 学界通行（伊斯兰教义学派史；字面主义倾向） | 2026-11-09 |
@@ -2427,8 +2474,8 @@
 | kidney exchange | — | 肾脏交换 | organ-donation | 学界惯例（亦作“配对交换”；凭证 2026-11-06） | 2026-11-06 |
 | kin selection | — | 亲缘选择 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | kinematic relativity | — | 运动学相对论 | cosmology-30s 首译 | 宇宙学史通行（Milne 1933/1935 理论名）；凭证 2026-11-08 | 2026-11-08 |
-| kinetic energy | — | 动能 | kant-development | 物理学通行；凭证 2026-11-11 | 2026-11-11 |
 | kinêsis | κίνησις | 运动（希腊语境） | 语料回收 | 学界惯例（希腊哲学术语）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
+| kinetic energy | — | 动能 | kant-development | 物理学通行；凭证 2026-11-11 | 2026-11-11 |
 | kire | 切 | 切（きれ） | japanese-aesthetics | 学界惯例（日本美学研究通行译法“切断/切”） | 2026-11-02 |
 | kire-tsuzuki | — | 切续 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“切续”） | 2026-11-02 |
 | kireji | 切字 | 切字 | japanese-aesthetics | 学界惯例（俳句研究通行译法“切字”） | 2026-11-02 |
@@ -2437,6 +2484,8 @@
 | KK principle | — | KK 原则 | epistemology-latin-america 首译 | 学界通行（保留缩写；知即知其知） | 2026-11-11 |
 | Kleene–Mostowski hierarchy | — | Kleene–Mostowski 层级 | lvov-warsaw | 递归论术语照录；凭证 2026-11-09 | 2026-11-09 |
 | Kleinstaat | Kleinstaat | 小邦国 | august-rehberg 首译 | 德国史通行（保留德文）；凭证 2026-11-08 | 2026-11-08 |
+| kleśa | — | 烦恼 | yogacara 首译 | 汉传佛典千年通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| kliṣṭamanas | — | 染污意（末那识） | yogacara 首译 | 玄奘译“染污意”，亦名末那识；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | knack | — | 诀窍 | knowledge-how | 与技能对举义（天赋式巧熟）；凭证 2026-11-10 | 2026-11-10 |
 | knockout | — | 敲除 | cancer | 学界通行（分子遗传学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | knowledge argument | — | 知识论证 | 首现（zombies） | 学界惯例（杰克逊论证通译）；凭证 2026-11-10 | 2026-11-10 |
@@ -2463,10 +2512,6 @@
 | Kripke's schema | — | 克里普克图式 | 首现（intuitionism） | 直觉主义数学通行（**KS**；亦作“克里普克模式”）；凭证 2026-11-10 | 2026-11-10 |
 | Krogh organism | — | Krogh 生物 | model-organisms 首译 | 本词条术语（Green et al. 2018，源自 August Krogh 的极端适应生物选材）；凭证 2026-11-09 | 2026-11-09 |
 | kyūdō | 弓道 | 弓道 | japanese-aesthetics | 学界惯例（日本武道研究通行译法“弓道”） | 2026-11-02 |
-| kleśa | — | 烦恼 | yogacara 首译 | 汉传佛典千年通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| kliṣṭamanas | — | 染污意（末那识） | yogacara 首译 | 玄奘译“染污意”，亦名末那识；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| karma（佛教业报义） | — | 业 | yogacara 首译 | 佛教业报义；与胜论句义“运动（业）”分键；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| Karmasiddhiprakaraṇa | — | 《大乘成业论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 
 ## L
 
@@ -2479,6 +2524,7 @@
 | landscape model | — | 景观模式 | 首译（environmental-aesthetics） | Carlson 术语（如画式二维景面欣赏） | 2026-11-08 |
 | Landstandschaft | Landstandschaft | 邦等级权（保留德文） | august-rehberg 首译 | 德国史通行；凭证 2026-11-08 | 2026-11-08 |
 | language-game | — | 语言游戏 | religious-experience | 学界通行（维特根斯坦术语） | 2026-11-05 |
+| Laṅkāvatāra Sūtra | — | 《楞伽经》 | yogacara 首译 | 汉文古译（求那跋陀罗等译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | Laozi / Lao Tzu | 老子 | 《老子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
 | large cardinal | — | 大基数 | quine-nf | 集合论通行译名；凭证 2026-11-09 | 2026-11-09 |
 | large number argument | — | 大数论证 | 首现（william-jevons） | 学界惯例（社会科学方法论通行说法）；凭证 2026-11-07 | 2026-11-07 |
@@ -2509,6 +2555,8 @@
 | learnedness | — | 学识（托马修斯 Gelahrheit／Gelehrsamkeit） | 18thGerman-preKant | 据作者英译 gloss 直译；中文通行译法待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
 | least upper bound | — | 最小上界（亦作“上确界”） | 首现（boolalg-math） | 学界惯例（序理论通行译名） | 2026-11-01 |
 | Lebendigkeit | Lebendigkeit | 生命性 | yorck 首译 | B 档：词面直译（Leben 生命之抽象名词；作者英译 aliveness）；凭证 2026-11-11 | 2026-11-11 |
+| Lebensbezüge | — | 生命关切 | dilthey 首译 | 狄尔泰术语（复数；英译 life-concerns）；学界通行；凭证 2026-11-11 | 2026-11-11 |
+| Lebensgefühl | — | 生命情感 | dilthey 首译 | 狄尔泰术语（卡尔纳普《作为生命情感之表达的形而上学》所引）；学界通行；凭证 2026-11-11 | 2026-11-11 |
 | Lebensmanifestation | Lebensmanifestation | 生命显现 | yorck 首译 | B 档：词面直译（作者英译 a manifestation of life）；凭证 2026-11-11 | 2026-11-11 |
 | Lebensstellung | Lebensstellung | 生活态度 | yorck 首译 | B 档：词面直译（作者英译 stance towards life）；凭证 2026-11-11 | 2026-11-11 |
 | left-continuous | — | 左连续 | logic-fuzzy | 数学通行译法；凭证 2026-11-09 | 2026-11-09 |
@@ -2539,6 +2587,9 @@
 | libertarianism | — | 自由至上主义（政治语境；自由意志之争语境留给“自由意志论”） | hartshorne | 主会话复审收口 73574215；凭证 2026-11-04 | 2026-11-04 |
 | Libertas philosophandi | Libertas philosophandi | 哲学思考自由（亦作“哲思自由”“哲学自由”，拉丁原词保留斜体） | 语料回收（academic-freedom）；18thGerman-preKant | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）；哲学自由变体据启蒙研究通行（凭证 2026-11-05，待 specs/008 审定库复核） | 2026-10-27 |
 | licit/illicit | — | 合法／非法（绝对意义） | marsilius-padua | 学界通行（马西利乌斯术语）；凭证 2026-11-08 | 2026-11-08 |
+| Lie algebra | — | 李代数 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
+| Lie bracket | — | 李括号 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
+| Lie group | — | 李群 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | Lienü Zhuan | 列女傳 | 《列女传》 | han-dynasty | 刘向书，学界通行学名 | 2026-11-10 |
 | Liezi | 列子 | 《列子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
 | life-manifestation | — | 生命表现 | dilthey 首译 | 狄尔泰通行（Lebensausdruck/Lebensäußerung）；凭证 2026-11-10 | 2026-11-10 |
@@ -2564,6 +2615,7 @@
 | living well | — | 过好生活 | 首现（wisdom） | 学界惯例（eudaimonia 语境下的 living well）；凭证 2026-11-07 | 2026-11-07 |
 | living will | — | 生前预嘱 | euthanasia-voluntary 首译 | 学界通行汉译（与 advance directive 预先指示并列） | 2026-11-11 |
 | liyi | 理義 | 理义 | dai-zhen | 上游自带汉字；戴震承《孟子》原词（英 pattern and right）；凭证 2026-11-07 | 2026-11-07 |
+| Lobachevskian geometry | — | 罗巴切夫斯基几何 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | Löb’s theorem | Löb’s theorem | 勒布定理 | 语料回收 | 学界惯例（数理逻辑通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | local occasionalism | — | 局部偶因论 | occasionalism 首译 | 自译裁定（同上）；凭证 2026-11-07 | 2026-11-07 |
 | local sign theory | — | 本地符号理论 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -2600,6 +2652,7 @@
 | logicist reduction | — | 逻辑主义还原 | 首现（scholz） | 学界惯例（弗雷格-罗素研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | logistic | logistic | 逻辑斯蒂（20 世纪早期对符号逻辑/数理逻辑的旧称） | 首现（scholz） | 学界惯例（库蒂拉以来逻辑史文献通行；亦作“逻辑斯提”备查）；凭证 2026-11-07 | 2026-11-07 |
 | logos | λόγος | 逻各斯 | 语料回收 | 审定名词库（termonline-all·自然辩证法名词·自然哲学，2026-10-30 浏览器通道凭证） | 2026-10-30 |
+| lokottaramārga | — | 出世间道 | yogacara 首译 | 汉传佛典通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | long trip criterion | — | 长途判据 | logic-linear | Girard 术语直译；凭证 2026-11-10 | 2026-11-09 |
 | long-branch attraction | — | 长枝吸引 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Longer Version | — | 长版本 | 首现（theology-aristotle） | 照文直译（《神学》十四章节写本，学界通行称法）；凭证 2026-11-08 | 2026-11-08 |
@@ -2622,8 +2675,6 @@
 | lymph | — | 淋巴 | cancer | 学界通行（免疫学与肿瘤学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | Ł-modal system | — | Ł-模态系统 | lvov-warsaw | Łukasiewicz 术语照录；凭证 2026-11-09 | 2026-11-09 |
 | Łukasiewicz logic | Łukasiewicz logic | 卢卡西维茨逻辑 | 语料回收 | 学界惯例（数理逻辑通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
-| lokottaramārga | — | 出世间道 | yogacara 首译 | 汉传佛典通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| Laṅkāvatāra Sūtra | — | 《楞伽经》 | yogacara 首译 | 汉文古译（求那跋陀罗等译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 
 ## M
 
@@ -2634,6 +2685,8 @@
 | machine model | — | 机器模型 | la-forge | 笛卡儿研究通行（人体机器模型）；凭证 2026-11-09 | 2026-11-09 |
 | macrocosm | — | 大宇宙 | natphil-ren | 学界通行（与册内 microcosm 小宇宙对举）；凭证 2026-11-10 | 2026-11-10 |
 | madhyamaka | मध्यमक | 中观 | gelukpa | 佛学界通行译名；与权威哲学史译本一致 | 2026-11-01 |
+| Madhyamakālaṃkāra | — | 《中观庄严论》 | yogacara 首译 | 汉文古译（寂护造）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| Madhyamakāloka | — | 《中观光明论》 | yogacara 首译 | 梵题汉译（莲花戒造，无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | Madhyamakāvatāra | — | 《入中论》 | gorampa | 月称入中观论书通行译名 | 2026-11-09 |
 | magic | — | 魔法 | gianfrancesco-pico | 与 witchcraft 巫术分立（源文 magic 指仪式性法术实践） | 2026-11-09 |
 | magical idealism | — | 魔法唯心论 | novalis | 诺瓦利斯研究通行（magischer Idealismus）；凭证 2026-11-11 | 2026-11-11 |
@@ -2641,6 +2694,8 @@
 | Magna Graecia | — | 大希腊 | zeno-elea | 学界千年通行（南意大利希腊殖民区通名）；凭证 2026-11-09 | 2026-11-09 |
 | magokoro | 真心 | 真心 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | Mahāvairocana | महावैरोचन | 大毗卢遮那（大日如来） | kukai | 佛学界传统译名（真言宗称大日）；原文取证（wisdomlib.org Monier-Williams 词条显式配对，2026-11-10） | 2026-11-09 |
+| Mahāyāna | — | 大乘 | yogacara 首译 | 汉传佛典千年通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| Mahāyānasaṃgraha | — | 《摄大乘论》 | yogacara 首译 | 汉文古译（真谛、玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | maieutic reflection | — | 助产式反思 | reflective-equilibrium | 学界惯例（Schroeter 2004 术语；苏格拉底助产术）；凭证 2026-11-11 | 2026-11-11 |
 | major premise | — | 大前提 | logical-consequence | 逻辑史通行译法；凭证 2026-11-09 | 2026-11-09 |
 | Major Trends of Jewish Mysticism | — | 《犹太神秘主义主流》 | s/scholem 首译 | 学界通行译名（朔勒姆 1941 讲演集）；凭证 2026-11-08 | 2026-11-08 |
@@ -2648,6 +2703,7 @@
 | majority preservation | — | 多数保持 | belief-merging | 构词直译（判断聚合文献）；凭证 2026-11-10 | 2026-11-10 |
 | majority rule | — | 多数规则 | jury-theorems | 学界惯例（社会选择理论通行）；凭据 2026-11-02 | 2026-11-02 |
 | majority voting | — | 多数表决 | jury-theorems | 学界惯例（政治哲学/社会选择通行）；凭据 2026-11-02 | 2026-11-02 |
+| maker’s knowledge | — | 制作者知识 | hobbes-science 首译 | 学界通行（maker’s knowledge tradition 制作者知识传统）；凭证 2026-11-11 | 2026-11-11 |
 | makoto no shintō | — | 真神道 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | male gaze | — | 男性凝视 | 首现（erotic-art） | 女性主义电影理论通行（Mulvey 术语） | 2026-11-08 |
 | malware | — | 恶意软件 | 首现（it-moral-values） | 信息安全通行译名；凭证 2026-11-10 | 2026-11-10 |
@@ -2659,6 +2715,7 @@
 | manifold | — | 流形 | spacetime-holearg | A 档（数学界通行译名） | 2026-10-28 |
 | manifold (Kantian) | — | 杂多 | kant-transcendental | 康德研究通行（与册内 manifold“流形”数学义分立，限定键区分）；凭证 2026-11-10 | 2026-11-10 |
 | manifold of events | — | 事件流形 | spacetime-holearg | B 档（manifold 通行译名 + 词条语境） | 2026-10-28 |
+| manovijñāna | — | 意识 | yogacara 首译 | 汉传唯识学通行（与既有 manas 意 分键）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | Mantrayāna | — | 真言乘 | kukai | 真言宗汉语传统 | 2026-11-09 |
 | many-valued hybrid logic | — | 多值混合逻辑 | logic-hybrid | 学界通行（many-valued logic 多值逻辑）；凭证 2026-11-09 | 2026-11-09 |
 | many-valued logic | — | 多值逻辑 | logic-fuzzy | 逻辑学通行译法；凭证 2026-11-09 | 2026-11-09 |
@@ -2698,6 +2755,7 @@
 | mathematical fuzzy logic | — | 数学模糊逻辑 | logic-fuzzy | Hájek 1998 以来的学科名通行译法；凭证 2026-11-09 | 2026-11-09 |
 | mathematical logic | — | 数理逻辑 | 语料回收 | 审定名词库（termonline-all·数学名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
 | mathematical pluralism | — | 数学多元主义 | 语料回收（mathematics-inconsistent 首译） | 数学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
+| mātra | — | 唯 | yogacara 首译 | 梵语“仅、只”（cittamātra／vijñaptimātra 构词成分）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | matter | — | 质料（亚里士多德 hylê 语境；近代物理语境译“物质”） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | matter field | — | 物质场 | spacetime-holearg | A 档（物理学通行译名） | 2026-10-28 |
 | Māturīdī | — | 马图里迪派 | al-din-al-razi 首译 | 学界通行（中亚伊斯兰教义学派） | 2026-11-09 |
@@ -2712,11 +2770,12 @@
 | mean | — | 均值 | 首现（william-jevons） | 学界通行（统计学标准译名） | 2026-11-07 |
 | mean preserving spread | — | 均值保持扩散 | risk | 学界惯例（Rothschild & Stiglitz 1970；亦作“均值保持展开”）；凭证 2026-11-09 | 2026-11-09 |
 | mean speed theorem | — | 平均速度定理 | 首现（sophismata） | 学界惯例（物理学史通行）；凭证 2026-11-07 | 2026-11-07 |
+| meaning-formation | Gebilde | 意义构形 | dilthey 首译 | 狄尔泰《历史世界的建构》术语（成文法之内在内容为法律意义构形）；学界通行；凭证 2026-11-11 | 2026-11-11 |
 | meaning-rule | — | 意义规则 | lvov-warsaw | Ajdukiewicz 术语直译；凭证 2026-11-09 | 2026-11-09 |
 | measurable cardinal | — | 可测基数 | logic-infinitary | 大基数通行译法；凭证 2026-11-10 | 2026-11-09 |
 | measure function | — | 度量函数 | logic-massexpress | 语义学通行译法；凭证 2026-11-10 | 2026-11-09 |
-| measurement problem | — | 测量问题 | qm | 审定名词库（自然辩证法名词 03.374）；凭证 2026-11-10 | 2026-11-11 |
 | measure problem | — | 测度问题 | logic-infinitary | 集合论通行译法；凭证 2026-11-10 | 2026-11-09 |
+| measurement problem | — | 测量问题 | qm | 审定名词库（自然辩证法名词 03.374）；凭证 2026-11-10 | 2026-11-11 |
 | mechanical philosophy | — | 机械哲学 | locke-on-medicine | 科学史通行 | 2026-11-05 |
 | mechanism | — | 机械论 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29） | 2026-10-27 |
 | mechanism design theory | — | 机制设计理论 | s/social-procedures 首译 | 审定名词（经济学名词）；凭证 2026-11-07 | 2026-11-07 |
@@ -2816,7 +2875,9 @@
 | Mishneh Torah | — | 《重述托拉》 | crescas | 学界通行（迈蒙尼德律法巨著）；凭证 2026-11-08 | 2026-11-08 |
 | mismatch | — | 失配 | cancer | 学界通行（演化医学，evolutionary mismatch）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | mistaken cognition（log shes） | — | 颠倒识（log shes） | epistemology-language-tibetan | 藏传量论通行 | 2026-11-04 |
+| Mitleid | — | 共受苦 | dilthey 首译 | 狄尔泰伦理学术语（同情、怜悯与恻隐的总名，德语字面即“同受苦”）；本词条括注原文；凭证 2026-11-11 | 2026-11-11 |
 | mitzvot | — | 诫命 | albo-joseph 首译 | 犹太研究通行（单数 mitzvah） | 2026-11-07 |
+| mixed mathematics | — | 混合数学 | hobbes-science 首译 | 学界通行（mathematicae mixtae；与册内 scientiae mediae 中间科学分列）；凭证 2026-11-11 | 2026-11-11 |
 | mixed state | — | 混合态 | qm | 审定名词库（物理学名词 06.0519）；凭证 2026-11-10 | 2026-11-11 |
 | mixed statement | — | 混合语句 | deductivism-mathematics | 学界通行（兼含数学与经验指称的语句）；凭证 2026-11-08 | 2026-11-08 |
 | mixed trait | — | 混合特质 | justice-moral-psych | Miller 术语（Mixed Trait approach 混合特质进路）；凭证 2026-11-10 | 2026-11-10 |
@@ -2964,12 +3025,6 @@
 | mysterium tremendum et fascinans | mysterium tremendum et fascinans | 令人战栗又令人迷恋的奥秘（拉丁原文保留斜体） | 首现（emotion-Christian-tradition） | 学界惯例（奥托研究通行）；凭证 2026-11-04 | 2026-11-04 |
 | mystical experience | — | 神秘经验 | religious-experience | 学界通行（宗教学） | 2026-11-05 |
 | mysticism | — | 神秘主义 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
-| Mahāyāna | — | 大乘 | yogacara 首译 | 汉传佛典千年通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| manovijñāna | — | 意识 | yogacara 首译 | 汉传唯识学通行（与既有 manas 意 分键）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| mātra | — | 唯 | yogacara 首译 | 梵语“仅、只”（cittamātra／vijñaptimātra 构词成分）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| Mahāyānasaṃgraha | — | 《摄大乘论》 | yogacara 首译 | 汉文古译（真谛、玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| Madhyamakālaṃkāra | — | 《中观庄严论》 | yogacara 首译 | 汉文古译（寂护造）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| Madhyamakāloka | — | 《中观光明论》 | yogacara 首译 | 梵题汉译（莲花戒造，无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 
 ## N
 
@@ -3060,10 +3115,13 @@
 | nigoda | निगोद | 群聚生 | jaina-philosophy | 本库自拟音译（源文自注 idle；耆那教最微生命形态） | 2026-11-08 |
 | nihilism | — | 虚无主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | Nihonjinron | 日本人論 | 日本人论 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| niḥsvabhāvatā | — | 无自性性 | yogacara 首译 | 汉传唯识学（三无性）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | nijiriguchi | 躙口 | 躙口 | japanese-aesthetics | 学界惯例（日本茶室研究通行译法“躙口”） | 2026-11-02 |
 | nilpotent | — | 幂零 | peirce-benjamin | 抽象代数通行译名（与“幂等”idempotent 对举）；凭证 2026-11-09 | 2026-11-09 |
+| nirākāra | — | 无相 | yogacara 首译 | 汉传量论研究通行（无相说，与 sākāra 有相相对）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | nirjarā | निर्जरा | 灭除 | jaina-philosophy | 耆那教学界通行（业质渐次脱离） | 2026-11-08 |
 | Nirmala | Nirmalā | 尼尔马拉派 | 首译（sikh-philosophy） | 锡克研究通行（高等学府 akhāṛā 传承）；凭证 2026-11-09 | 2026-11-09 |
+| nirodhasamāpatti | — | 灭尽定 | yogacara 首译 | 汉传阿毗达磨与唯识学通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | nirvikalpaka | निर्विकल्पक | 无分别（现量） | early-modern-india | 因明传统译名（与 savikalpaka 有分别对举）；凭证 2026-11-10 | 2026-11-10 |
 | niyata | नियत | 恒常伴随 | early-modern-india | 因果义译（regular concomitance；与 ananyathāsiddha 并列条件）；凭证 2026-11-10 | 2026-11-10 |
 | Nō | — | 能剧（能楽） | japanese-aesthetics | 学界惯例（日本戏剧研究通行译法“能/能乐”） | 2026-11-02 |
@@ -3148,9 +3206,6 @@
 | numinous | — | 努秘（奥托 das Heilige 语境） | 首现（emotion-Christian-tradition） | 学界惯例（汉语宗教学界通行（《论“神圣”》译本））；凭证 2026-11-04 | 2026-11-04 |
 | Nyāya | न्याय | 正理派 | early-modern-india 首译 | 千年通行（正理派；承 jaina-philosophy 先例）；凭证 2026-11-10 | 2026-11-10 |
 | Nyāya-sūtra | न्यायसूत्र | 《逻辑经》 | early-modern-india | 本库家法（jaina-philosophy 先例；简称 NS 沿用）；凭证 2026-11-10 | 2026-11-10 |
-| nirodhasamāpatti | — | 灭尽定 | yogacara 首译 | 汉传阿毗达磨与唯识学通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| niḥsvabhāvatā | — | 无自性性 | yogacara 首译 | 汉传唯识学（三无性）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| nirākāra | — | 无相 | yogacara 首译 | 汉传量论研究通行（无相说，与 sākāra 有相相对）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 
 ## O
 
@@ -3163,6 +3218,7 @@
 | objective chance | — | 客观机遇 | 首现（imprecise-probabilities） | 学界惯例（概率哲学通行；chance 作机遇义）；凭证 2026-11-08 | 2026-11-08 |
 | objective having | — | 客观拥有 | dilthey 首译 | 狄尔泰 1904–9 手稿术语（objektives Haben）；凭证 2026-11-10 | 2026-11-10 |
 | objective homogeneity | — | 客观齐一性 | 首译（scientific-explanation-20th） | 本库首译（Salmon 1984）；凭证 2026-11-10 | 2026-11-10 |
+| objective idealism | — | 客观观念论 | dilthey 首译 | 狄尔泰世界观类型学三分之一（赫拉克利特、莱布尼茨、黑格尔）；学界通行；凭证 2026-11-11 | 2026-11-11 |
 | objective probability | — | 客观概率 | qm | 学界惯例（与认知概率相对）；凭证 2026-11-11 | 2026-11-11 |
 | objective spirit | — | 客观精神 | oakeshott 首译 | 学界通行汉译（黑格尔研究）；凭证 2026-11-07 | 2026-11-07 |
 | objective validity | — | 客观有效性 | kant-transcendental | 康德研究通行（objektive Gültigkeit）；凭证 2026-11-10 | 2026-11-10 |
@@ -3297,6 +3353,7 @@
 | pakṣaṭā | पक्षता | 宗未决性 | early-modern-india | 新正理通行义译（推理者尚未知结论之条件；与宗法性分立）；凭证 2026-11-10 | 2026-11-10 |
 | palatine count | — | 宫廷伯爵（palatine count） | zabarella | 学界惯例（神圣罗马帝国头衔 comes palatinus 通译宫廷伯爵）；凭证 2026-11-09 | 2026-11-09 |
 | palliative care | — | 姑息治疗 | euthanasia-voluntary 首译 | 学界通行汉译（世界卫生组织中文文献） | 2026-11-11 |
+| Pañcaskandhaka | — | 《大乘五蕴论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | panentheism | — | 万有在神论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
 | panhellenism | — | 泛希腊主义 | 首译（cosmopolitanism） | 学界通行（希腊史）；凭证 2026-11-09 | 2026-11-09 |
 | panpsychism | — | 泛心论 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
@@ -3308,6 +3365,7 @@
 | PAPA (privacy, accuracy, property, accessibility) | — | 隐私、准确性、财产、可及性 | 首现（it-moral-values） | 信息伦理学通行（Mason 1986 四要项）；凭证 2026-11-10 | 2026-11-10 |
 | papal bull | — | 教皇诏书 | ockham | 中文史学通行（又译教宗诏书/训谕；本册从大陆“教皇”系）；凭证 2026-11-07 | 2026-11-07 |
 | papal supremacy | — | 教皇至上权 | marsilius-padua | 学界通行；凭证 2026-11-08 | 2026-11-08 |
+| parabolic geometry | — | 抛物几何 | geometry-19th.supplement | 克莱因对欧几里得几何的命名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | paraconsistency | — | 弗协调性 | 语料回收（lakatos 首译） | 逻辑学界通行译法（亦作“次协调”）；凭证 2026-11-06 | 2026-11-06 |
 | paraconsistent logic | — | 次协调逻辑 | s/social-procedures 首译 | 学界通行译法（非经典逻辑通行；亦作“超协调逻辑”）；凭证 2026-11-07 | 2026-11-07 |
 | paradeigma / homoiotes | παράδειγμα / ὁμοιότης | 例证论证（paradeigma）／例似论证（homoiotes） | reasoning-analogy | 学界惯例（《修辞学》paradeigma 通译例证；homoiotes 按构词） | 2026-11-05 |
@@ -3326,9 +3384,12 @@
 | paraphrase | — | 改写 | f/falaquera 首译 | 译学通行译法（与 translation 翻译分义；paraphraser 改写者）；凭证 2026-11-11 | 2026-11-11 |
 | parārdha | परार्ध | 极大数 | early-modern-india | 胜论数目名（源文记作 1014〔上游掉上标，照源〕）；凭证 2026-11-10 | 2026-11-10 |
 | parārthānumāna | परार्थानुमान | 为他比量 | jaina-philosophy | 因明传统译名（陈那系统） | 2026-11-08 |
+| paratantra-svabhāva | — | 依他起性 | yogacara 首译 | 汉传唯识学千年通行（三性之一）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | paratva | परत्व | 远性 | early-modern-india | 胜论方位属性义译（与 aparatva 近性对举）；凭证 2026-11-10 | 2026-11-10 |
 | Pareto condition | — | 帕累托条件 | 首现（imprecise-probabilities） | 学界惯例（社会选择理论通行）；凭证 2026-11-08 | 2026-11-08 |
+| parikalpita-svabhāva | — | 遍计所执性 | yogacara 首译 | 汉传唯识学千年通行（三性之一）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | parīkṣā | परीक्षा | 考察 | early-modern-india | 正理方法论义译（examination；三步法之第三步）；凭证 2026-11-10 | 2026-11-10 |
+| pariniṣpanna-svabhāva | — | 圆成实性 | yogacara 首译 | 汉传唯识学千年通行（三性之一）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | parity | — | 产次 | cancer | 学界通行（流行病学与生殖医学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | parochialism | — | 偏狭主义 | moral-learning | 学界通行（群内偏好；本词条 3.3 专节）；凭证 2026-11-09 | 2026-11-09 |
 | pars principans | pars principans | 统治部分（政府） | marsilius-padua | 学界通行（马西利乌斯拉丁术语，与 legislator 立法者相对）；凭证 2026-11-08 | 2026-11-08 |
@@ -3399,8 +3460,6 @@
 | pertension | — | pertension（保留英文；分体延展备查） | omnipresence | 同上（pertend）；凭证 2026-11-08 | 2026-11-08 |
 | pessimism | — | 悲观主义 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | pessimism concerning aesthetic testimony | — | 审美证言悲观论（pessimist 悲观论者） | aesthetic-testimony | Hopkins (2007) 命名的立场术语；依义直译 | 2026-11-11 |
-| principles of taste | — | 鉴赏原则 | aesthetic-testimony | 康德《判断力批判》§33–34 通行汉译（鉴赏的原则）；凭证 2026-11-11 |
-| pure testimony | — | 纯粹证言 | aesthetic-testimony | Hopkins (2011) 术语；社会认识论文献通行 | 2026-11-11 |
 | petites perceptions | petites perceptions | 微知觉 | leibniz-mind | 学界惯例（莱布尼茨译本通行）；凭证 2026-11-03 | 2026-11-03 |
 | petitionary prayer | — | 祈求式祷告 | petitionary-prayer | SUMMARY 条目定名沿用（petitionary prayer 的学界通行译法）；凭证 2026-11-09 | 2026-11-09 |
 | petitioner | — | 祈求者 | petitionary-prayer | 构词直译；凭证 2026-11-09 | 2026-11-09 |
@@ -3481,8 +3540,8 @@
 | poetics | — | 诗学 | zabarella；首现（schlegel） | 学界惯例（文学理论通行）；凭证 2026-11-07；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | Poincaré transformations | Poincaré transformations | 庞加莱变换 | spacetime-convensimul | 学界惯例（物理学通行） | 2026-11-06 |
 | point-coincidence argument | — | 点重合论证 | spacetime-holearg | B 档（Stachel 术语，学界通行译名） | 2026-10-28 |
-| pointer observable | — | 指针可观测量 | qm | 学界惯例（pointer 审定库作“指针”，observable 审定库作“可观测量”）；凭证 2026-11-11 | 2026-11-11 |
 | point-mass | — | 质点 | newton | 力学通行；凭证 2026-11-08 | 2026-11-08 |
+| pointer observable | — | 指针可观测量 | qm | 学界惯例（pointer 审定库作“指针”，observable 审定库作“可观测量”）；凭证 2026-11-11 | 2026-11-11 |
 | polarization | — | 偏振 | qt-entangle | 审定名词库（物理学名词 polarization）；凭证 2026-11-09 | 2026-11-09 |
 | polis | πόλις | 城邦 | 语料回收 | 审定名词库（termonline-all·世界历史名词·希腊，2026-10-30 浏览器通道凭证） | 2026-10-30 |
 | Polish notation | — | 波兰记法 | lvov-warsaw | 逻辑史通行译法；凭证 2026-11-09 | 2026-11-09 |
@@ -3547,8 +3606,12 @@
 | pragmatic encroachment | — | 实用侵入 | knowledge-analysis | 知识论通行（Stanley 谱系；亦作“语用侵入”，不作主形） | 2026-11-05 |
 | pragmatics | — | 语用学 | 首译（stebbing） | 语言学通行汉译（与句法学、语义学三分）；凭证 2026-11-09 | 2026-11-09 |
 | pragmatism | — | 实用主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
+| Prajñāpāramitā | — | 《般若波罗蜜多经》 | yogacara 首译 | 汉文古译（般若经类通称）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| prajñapti | — | 假立（施设） | yogacara 首译 | 汉传佛典通行（假名／施设）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | pramā | प्रमा | 正智 | early-modern-india | 因明“正智/量果”通行（true cognition；与 pramāṇa 量对举）；凭证 2026-11-10 | 2026-11-10 |
 | pramāṇa | प्रमाण | 量论 | gelukpa | 因明学通行译名 | 2026-11-01 |
+| Pramāṇasamuccaya | — | 《集量论》 | yogacara 首译 | 汉文古译（法尊译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| pramāṇavāda | — | 量论 | yogacara 首译 | 学界通行（陈那—法称量论传统）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | Pramāṇavārttika | प्रमाणवार्त्तिक | 《释量论》 | gelukpa | 因明学通行译名 | 2026-11-01 |
 | Pramāṇaviniścaya | प्रमाणविनिश्चय | 《量抉择论》 | epistemology-language-tibetan | 因明学通行 | 2026-11-04 |
 | pramāṇa（认知凭据义） | प्रमाण | 认知凭据 | jayaraasi | 因明学“量”之散文义；j/jayaraasi 全文作“认知凭据”并括注“量”，与表内 pramāṇa=量论（学科义）分工 | 2026-11-07 |
@@ -3559,6 +3622,7 @@
 | pratyakṣa | प्रत्यक्ष | 现量（印度量论） | 语料回收 | 学界惯例（印度量论通行）；审定库无相关命中（凭证 2026-10-31）；审定库精确查无（凭证 2026-10-31） | 2026-10-31 |
 | pratyakṣa（感官知觉义） | प्रत्यक्ष | 知觉（现量） | jayaraasi | j/jayaraasi 体例：作量目/认知凭据者作“现量”，作感官知觉活动者作“知觉”，随文括注原词 | 2026-11-07 |
 | pratyāsatti | प्रत्यासत्ति | 连接 | early-modern-india | 现量论义译（超常感知之连接方式；与 sannikarṣa 分工）；凭证 2026-11-10 | 2026-11-10 |
+| pravṛttivijñāna | — | 转识 | yogacara 首译 | 玄奘译“转识”（现行识）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | praxis / theôria / lexis | πρᾶξις / θεωρία / λέξις | 讲授次第／要义通观／文辞疏解（首现各括注原文） | olympiodorus | 亚历山大里亚注疏体三分的描述性译法（术语学界无统一汉译，Viano/Tarrant 英译作 class/overview/close reading）；凭证 2026-11-08 | 2026-11-08 |
 | pre-critical period | — | 前批判时期 | kant-development | 康德研究通行分期；凭证 2026-11-11 | 2026-11-11 |
 | pre-established harmony | — | 前定和谐 | leibniz-mind | 学界惯例（莱布尼茨译本通行，亦作"预定和谐"备查）；凭证 2026-11-03 | 2026-11-03 |
@@ -3613,6 +3677,7 @@
 | primeval waters | — | 洪荒之水 | gersonides | 《创世记》开篇之水；学界通行（亦作“原初之水”） | 2026-11-09 |
 | primitive (relation) | — | 原始的（关系） | god-necessary-being | 学界惯例（primitive 不作定义的关系） | 2026-11-09 |
 | primitive recursive | — | 原始递归 | 首现（intuitionism） | 递归论通行译名；凭证 2026-11-10 | 2026-11-10 |
+| principal fiber bundle | — | 主纤维丛 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | Principia (Newton) | — | 《原理》 | newton-philosophy | 学界通行简称（全称《自然哲学的数学原理》） | 2026-11-10 |
 | Principia Mathematica | — | 《数学原理》（罗素、怀特海著） | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | principle of apperception | — | 统觉原理 | kant-transcendental | 康德研究通行（B 版演绎 §16）；凭证 2026-11-10 | 2026-11-10 |
@@ -3620,6 +3685,7 @@
 | principle of charity | — | 慈善原则 | davidson 首译 | 戴维森/蒯因解释论通行（亦作“宽容原则”）；凭证 2026-11-10 | 2026-11-10 |
 | Principle of Credulity | — | 轻信原则 | religious-experience | 学界通行（Swinburne 术语） | 2026-11-05 |
 | principle of determining reason | — | 决定理由原则（克鲁修斯 principium rationis determinantis，以别于充足理由律） | 18thGerman-preKant | 据作者英译直译；中文通行译法待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| principle of duality | — | 对偶原理 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | principle of identity of indiscernibles | — | 不可分辨者同一律 | rationalism-early-modern | 学界通行（莱布尼茨 PII；亦作“不可分辨者的同一性原理”） | 2026-11-06 |
 | principle of incombinability | — | 不可组合原则（克鲁修斯） | 18thGerman-preKant | 构词直译 | 2026-11-05 |
 | principle of indifference | — | 无差别原则 | 首现（imprecise-probabilities） | 学界惯例（概率哲学通行；亦作不充分理由原则）；凭证 2026-11-08 | 2026-11-08 |
@@ -3630,6 +3696,7 @@
 | principle of sufficient reason | — | 充足理由律 | rationalism-early-modern | 学界通行（SUMMARY 词条定名；简称 PSR） | 2026-11-06 |
 | principle of transcendence | — | 超越原则 | 首现（truth-coherence） | 学界通行（真命题未必可知为真）；凭证 2026-11-07 | 2026-11-07 |
 | principles of number | — | 数的原则 | 首现（william-jevons） | 构词直译（Jevons 数之哲学）；凭证 2026-11-07 | 2026-11-07 |
+| principles of taste | — | 鉴赏原则 | aesthetic-testimony | 康德《判断力批判》§33–34 通行汉译（鉴赏的原则）；凭证 2026-11-11 |
 | Prior Analytics | — | 《前分析篇》（亚里士多德） | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | prior association / potential for generalization | — | 先行关联／概括潜力 | reasoning-analogy | 构词直译（Bartha 2010 术语） | 2026-11-05 |
 | prioritarian | — | 优先主义 | organ-donation | 学界惯例（政治哲学通行；凭证 2026-11-06） | 2026-11-06 |
@@ -3718,11 +3785,13 @@
 | providential plan | — | 神意计划 | petitionary-prayer | 沿登记册 providence→神意（本册锁定形）；凭证 2026-11-09 | 2026-11-09 |
 | Provincial Letters | — | 《外省书札》（帕斯卡；亦译“致外省人信札”） | 语料回收（标题词） | 学界惯例（帕斯卡著作译名）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | proxy agency | — | 代理行为 | reinach | 本词条首译（莱纳赫研究文献）；凭证 2026-11-09 | 2026-11-09 |
+| prudence (Hobbes) | — | 明智 | hobbes-science 首译 | 学界通行（与册内 collective prudence 集体明智同族）；凭证 2026-11-11 | 2026-11-11 |
 | pseudepigraphic | — | 托名的（伪托作者） | s/scholem 首译 | 学界通行译法（文献学）；凭证 2026-11-08 | 2026-11-08 |
 | pseudo-activity | — | 伪行动 | adorno | 构词直译（阿多诺 1969 论文 Pseudo-Aktivität 通行）；凭证 2026-11-10 | 2026-11-10 |
 | pseudo-overdeterminant | — | 伪过度决定者 | basing-epistemic 首译 | 斯温术语构词直译（pseudo-伪／overdeterminant 过度决定者）；凭证 2026-11-08 | 2026-11-08 |
 | pseudo-performance (Scheinvollzug) | — | 伪施行 | reinach | 本词条首译（源文括注德文）；凭证 2026-11-09 | 2026-11-09 |
 | pseudo-process | — | 伪过程 | 首译（scientific-explanation-20th） | 本库首译（Salmon 1984）；凭证 2026-11-10 | 2026-11-10 |
+| pseudo-Riemannian | — | 伪黎曼 | geometry-19th.supplement | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | pseudoforce | — | 赝力 | spacetime-convensimul | 学界惯例（物理学通行“赝”；亦作“伪力”） | 2026-11-06 |
 | pseudogene | — | 假基因 | ecological-genetics 首译 | 学界通行译名；凭证 2026-11-09 | 2026-11-09 |
 | psuchê (ψυχή) | ψυχή | 灵魂（保留希腊原词括注） | ancient-soul 首译 | 学界惯例（古希腊哲学研究通行；与 soul“灵魂”同形分条留痕） | 2026-11-09 |
@@ -3745,6 +3814,7 @@
 | pure reason | — | 纯粹理性（康德） | 语料回收 | 学界惯例（康德译本通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | pure sonicist | — | 纯声音论者 | music | 学界通行（Kivy 一派立场）；凭证 2026-11-09 | 2026-11-09 |
 | pure state | — | 纯态 | qt-entangle | 审定名词库（物理学名词 pure state）；凭证 2026-11-09 | 2026-11-09 |
+| pure testimony | — | 纯粹证言 | aesthetic-testimony | Hopkins (2011) 术语；社会认识论文献通行 | 2026-11-11 |
 | purifying selection | — | 净化选择 | ecological-genetics 首译 | 学界通行译名（分子进化文献，亦作“负选择”）；凭证 2026-11-09 | 2026-11-09 |
 | purposive enterprise | — | 目的性事业 | oakeshott 首译 | 学界惯例（同上）；凭证 2026-11-07 | 2026-11-07 |
 | purposive thinking | — | 有目的的思维 | 首译（stebbing） | 斯泰宾术语（Thinking to Some Purpose 主旨；承书名译法）；凭证 2026-11-09 | 2026-11-09 |
@@ -3754,15 +3824,6 @@
 | Pythagorean | — | 毕达哥拉斯派的 | ancient-soul 首译 | 学界通行 | 2026-11-09 |
 | Pythagoreanism | — | 毕达哥拉斯主义 | 语料回收（alcmaeon/arcesilaus） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
 | Pytho | — | 《皮同》 | 首现（timon-phlius） | 学界惯例（第蒙散文对话；地名兼篇名）；凭证 2026-11-07 | 2026-11-07 |
-| paratantra-svabhāva | — | 依他起性 | yogacara 首译 | 汉传唯识学千年通行（三性之一）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| parikalpita-svabhāva | — | 遍计所执性 | yogacara 首译 | 汉传唯识学千年通行（三性之一）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| pariniṣpanna-svabhāva | — | 圆成实性 | yogacara 首译 | 汉传唯识学千年通行（三性之一）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| prajñapti | — | 假立（施设） | yogacara 首译 | 汉传佛典通行（假名／施设）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| pramāṇavāda | — | 量论 | yogacara 首译 | 学界通行（陈那—法称量论传统）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| pravṛttivijñāna | — | 转识 | yogacara 首译 | 玄奘译“转识”（现行识）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| Prajñāpāramitā | — | 《般若波罗蜜多经》 | yogacara 首译 | 汉文古译（般若经类通称）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| Pañcaskandhaka | — | 《大乘五蕴论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| Pramāṇasamuccaya | — | 《集量论》 | yogacara 首译 | 汉文古译（法尊译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 
 ## Q
 
@@ -3866,6 +3927,7 @@
 | reason for thinking | — | 证据性理由（据以认定的理由） | necessary-sufficient | 本词条核心区分（证据关系）；凭证 2026-11-08 | 2026-11-08 |
 | reason why | — | 原因性理由（何以如此的理由） | necessary-sufficient | 本词条核心区分（解释性关系）；凭证 2026-11-08 | 2026-11-08 |
 | reasoner | — | 推理机 | ontology-is | 知识工程通行（inference engine 推理引擎）；凭证 2026-11-11 | 2026-11-11 |
+| Rechtschaffenheit | — | 追求正当 | dilthey 首译 | 狄尔泰伦理学三动因之二（德语原义“正直”）；本词条括注原文；凭证 2026-11-11 | 2026-11-11 |
 | recidivist suspense | — | 重看者的悬念 | paradox-suspense | 构词直译（recidivist 指反复观看同一叙事者，正文作“重看者”）；凭证 2026-11-09 | 2026-11-09 |
 | recipient | — | 受赠者 | justice-moral-psych | 独裁者博弈文献通行译法；凭证 2026-11-10 | 2026-11-10 |
 | reciprocal altruism | — | 互惠利他 | s/social-procedures 首译 | 学界通行译法（生物学哲学与演化伦理学通行）；凭证 2026-11-07 | 2026-11-07 |
@@ -3916,6 +3978,7 @@
 | relational ontology | — | 关系性本体论 | object 首译 | 学界惯例（同上）；凭证 2026-11-07 | 2026-11-07 |
 | relationalism（space and time） | — | 关系论 | newton-philosophy | 时空哲学通行（与绝对论对举） | 2026-11-10 |
 | relative adjectives | — | 相对形容词 | 首译（experimental-aesthetics） | 语言学通行 | 2026-11-09 |
+| relative consistency | — | 相对相容性 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | relative frequency | — | 相对频率 | 语料回收 | 审定名词库（termonline-all·复合词“相对频率法”佐证，2026-10-31 浏览器通道凭证） | 2026-10-31 |
 | relative-state formulation | — | 相对态表述 | qt-entangle | 学界通行译名（Everett 1957）；凭证 2026-11-09 | 2026-11-09 |
 | Relativism | — | 相对主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
@@ -3987,6 +4050,7 @@
 | ri / chi (mandalic) | 理・智 | 理/智 | kukai | 真言宗汉语传统（理智不二） | 2026-11-09 |
 | ri-hosshin / rishin | 理法身 | 理法身 | kukai | 真言宗汉语传统 | 2026-11-09 |
 | richi funi | 理智不二 | 理智不二 | kukai | 真言宗汉语传统 | 2026-11-09 |
+| Riemann tensor | — | 黎曼张量 | geometry-19th.supplement | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | right of nature | — | 自然权利 | hobbes-moral 首译 | 学界通行（霍布斯“自然权利”，与 natural right 同形归一）；凭证 2026-11-09 | 2026-11-09 |
 | right to life | — | 生命权 | 首译（stem-cells） | 学界惯例（生命伦理学通行）；凭证 2026-11-09 | 2026-11-09 |
 | rightness | — | 正当性 | oakeshott 首译 | 学界惯例（与 validity 效力对举）；凭证 2026-11-07 | 2026-11-07 |
@@ -4047,7 +4111,11 @@
 | safety barrier | — | 安全屏障 | risk | 学界惯例（安全工程通行）；凭证 2026-11-09 | 2026-11-09 |
 | safety factor | — | 安全系数 | risk | 审定名词库工程术语通行译名；凭证 2026-11-09 | 2026-11-09 |
 | sage philosophy | — | 智者哲学（非洲语境） | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 a/african-sage））；凭证 2026-11-04 | 2026-11-04 |
+| sahopalambhaniyama | — | 俱缘定 | yogacara 首译 | 汉传量论研究通行（法尊译“俱缘定”）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | saisei itchi | 祭政一致 | 祭政一致 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| sākāra | — | 有相 | yogacara 首译 | 汉传量论研究通行（有相说）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| Sākārasaṃgrahasūtra | — | 《有相集论》 | yogacara 首译 | 梵题汉译（无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| Sākārasiddhiśāstra | — | 《有相成就论》 | yogacara 首译 | 梵题汉译（智作护造，无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | śaktaṃ padam | शक्तं पदम् | 有语义能力之词 | early-modern-india | 《理性手册》词定义义译（word with semantic power）；凭证 2026-11-10 | 2026-11-10 |
 | śakti-jñāna | शक्तिज्ञान | 词力知 | early-modern-india | 语言处理机制义译（knowledge of word-meaning power）；凭证 2026-11-10 | 2026-11-10 |
 | salami tactics | — | 萨拉米战术 | 语料回收（lakatos 首译） | 史学界通行译法（拉科西用语）；凭证 2026-11-06 | 2026-11-06 |
@@ -4064,8 +4132,8 @@
 | samavayi-kāraṇa | समवायिकारण | 和合因（依处因） | early-modern-india | 胜论三因义译（substrate cause；果所依之实）；凭证 2026-11-10 | 2026-11-10 |
 | samaveta-samavāya | समवेतसमवाय | 和合内之和合 | early-modern-india | 同上系列（inherence-in-the-inherent）；凭证 2026-11-10 | 2026-11-10 |
 | sambhāva | — | 相等量 | jayaraasi | 印度量论通行译法 | 2026-11-07 |
-| Same Numbers Choices | — | 同数选择 | ramsey-economics | 学界惯例（Parfit 1984 术语）；凭证 2026-11-11 | 2026-11-11 |
 | Saṃdhinirmocana Sūtra | संधिनिर्मोचन | 《解深密经》 | 语料回收（标题词） | 学界惯例（佛典译名）；审定库无相关命中（凭证 2026-11-01） | 2026-11-01 |
+| Same Numbers Choices | — | 同数选择 | ramsey-economics | 学界惯例（Parfit 1984 术语）；凭证 2026-11-11 | 2026-11-11 |
 | saṃkara | संकर | 交叠 | early-modern-india | 正理普遍性障碍义译（cross-connection）；凭证 2026-11-10 | 2026-11-10 |
 | sāṃkarya | सांकर्य | 交叠（同键变体） | early-modern-india | saṃkara 第三障碍之变体写法（同一概念）；凭证 2026-11-10 | 2026-11-10 |
 | saṃkhyā（数目） | संख्या | 数 | early-modern-india | 胜论性质义译（number；与数论派同名分立）；凭证 2026-11-10 | 2026-11-10 |
@@ -4073,6 +4141,8 @@
 | saṃsāra | संसार | 轮回 | 语料回收 | 学界惯例（佛典译语）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | saṃśaya | संशय | 疑 | early-modern-india | 因明传统译名（十六谛之一；doubt）；凭证 2026-11-10 | 2026-11-10 |
 | saṃskāra | संस्कार | 倾向属性 | early-modern-india | 胜论性质义译（dispositional property；佛典古译“行”备查）；凭证 2026-11-10 | 2026-11-10 |
+| saṃtāna | — | 相续 | yogacara 首译 | 汉传佛典千年通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| Saṃtānāntarasiddhi | — | 《成立他相续论》 | yogacara 首译 | 梵题汉译（法称造，无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | samudghāta | समुद्घात | 灭除投射 | jaina-philosophy | 本库自拟（源文自注 extermination） | 2026-11-08 |
 | saṃvara | संवर | 遮止 | jaina-philosophy | 耆那教学界通行（遮止业质流入） | 2026-11-08 |
 | samyak carita | सम्यक् चरित | 正行 | jaina-philosophy | 耆那教三宝（正见／正智／正行）通行译法 | 2026-11-08 |
@@ -4088,6 +4158,7 @@
 | sannidhi | सन्निधि | 亲邻 | early-modern-india | 语义学义译（spatio-temporal contiguity）；凭证 2026-11-10 | 2026-11-10 |
 | sannikarṣa | सन्निकर्ष | 感官连接 | early-modern-india | 现量论通行义译（sense-object contact；亦作“接触”）；凭证 2026-11-10 | 2026-11-10 |
 | sansui | 山水 | 山水 | japanese-aesthetics | 学界惯例（东亚山水画通行译法“山水”） | 2026-11-02 |
+| Santānāntaradūṣaṇa | — | 《破他相续论》 | yogacara 首译 | 梵题汉译（宝称造，无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | sapakṣa | सपक्ष | 同品 | early-modern-india | 因明传统译名（agreeing case；与 vipakṣa 异品对举）；凭证 2026-11-10 | 2026-11-10 |
 | satisfaction | — | 满足 | tarski-truth | 模型论通行（satisfaction） | 2026-11-09 |
 | satisfaction operator | — | 满足算子 | logic-hybrid | 直译（@ 算子，学界通行）；凭证 2026-11-09 | 2026-11-09 |
@@ -4113,6 +4184,7 @@
 | schematization | — | 图型化 | kant-transcendental | 学界通行（图型说 schematism 系列，康德 A137/B176）；凭证 2026-11-11 | 2026-11-11 |
 | scheme | — | 图式（英文 scheme，与 schema 同指；正文保留原词括注） | schema | 学界惯例（塔尔斯基语境 scheme／schema 同义） | 2026-11-06 |
 | scholastic quaestio | — | 经院问题 | delmedigo | 学界通行（经院方法论论辩体裁；正文括注原文） | 2026-11-06 |
+| school divinity | — | 经院神学 | hobbes-science 首译 | 学界通行（霍布斯语，指经院神学与亚里士多德哲学之掺合）；凭证 2026-11-11 | 2026-11-11 |
 | science denial | — | 否认科学 | risk | 本词条首译（Hansson 2017 语境；与 pseudoscience“伪科学”并列）；凭证 2026-11-09 | 2026-11-09 |
 | Science of Judaism | — | 犹太学（Wissenschaft des Judentums） | s/scholem 首译 | 学界通行译名（十九世纪犹太学运动）；凭证 2026-11-08 | 2026-11-08 |
 | scientia | scientia | 知识（经院拉丁术语） | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；凭证 2026-11-04 | 2026-11-04 |
@@ -4139,6 +4211,7 @@
 | second-order nominalism | — | 二阶唯名论 | nominalism-metaphysics | 二阶逻辑通行（second-order 二阶） | 2026-11-10 |
 | second-person experience | — | 第二人称体验 | omnipresence | 学界通行（Stump 语；第二人称）；凭证 2026-11-08 | 2026-11-08 |
 | secondary causes | — | 次级原因 | la-forge | 学界通行（与第一原因对举）；凭证 2026-11-09 | 2026-11-09 |
+| secondary qualities | — | 第二性质 | hobbes-science 首译 | 学界通行（洛克—霍布斯认识论术语）；凭证 2026-11-11 | 2026-11-11 |
 | secularization | — | 世俗化 | s/scholem 首译 | 审定名词（社会学）；凭证 2026-11-08 | 2026-11-08 |
 | secundum imaginationem | secundum imaginationem | 依据想象（假设情形分析程序） | kilvington | 主会话直译收口 de6bb4b1；凭证 2026-11-04 | 2026-11-04 |
 | seed-syllable (bīja) | — | 种子字 | kukai | 真言宗汉语传统（bīja 种子字） | 2026-11-09 |
@@ -4161,6 +4234,7 @@
 | self-consciousness | — | 自我意识 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | self-control | — | 自我控制 | moral-responsibility-empirical | 心理学通行 | 2026-11-07 |
 | self-cultivation | — | 修身 | japanese-aesthetics | 学界惯例（儒学/东亚哲学通行译法“修身”） | 2026-11-02 |
+| self-culture | — | 自我修养 | f/fuller-margaret 首译 | 19 世纪美国思想史通行译法（与 self-improvement 自我改善并用） | 2026-11-11 |
 | self-evidence | — | 自明性 | 首现（intuitionism-ethics） | 学界惯例（认识论通行）；凭证 2026-11-08 | 2026-11-08 |
 | self-evident | — | 自明的 | 首现（intuitionism-ethics） | 学界惯例（认识论通行）；凭证 2026-11-08 | 2026-11-08 |
 | self-exemplification | — | 自我例示 | god-necessary-being | 学界通行（属性例示自身；与例示 exemplification 同族） | 2026-11-09 |
@@ -4168,6 +4242,7 @@
 | self-interest | — | 自利 | justice-moral-psych | 学界通行（self-interested 自利的）；凭证 2026-11-10 | 2026-11-10 |
 | self-knowledge | — | 自我认识 | conscience 首译 | 学界通行；凭证 2026-11-08 | 2026-11-08 |
 | self-organization | — | 自我组织 | kant-development | 学界通行（复杂系统）；凭证 2026-11-11 | 2026-11-11 |
+| self-positing | — | 自我设定 | novalis | 费希特研究通行（Selbstsetzung）；凭证 2026-11-11 | 2026-11-11 |
 | self-realization | — | 自我实现 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | self-reliance | — | 自立 | emerson | Emerson 篇名 Self-Reliance 通行汉译“自立”（亦作“自助”），本条锁定“自立” | 2026-11-07 |
 | self-renewal | — | 自我更新 | 首译（stem-cells） | 学界惯例（干细胞生物学通行）；凭证 2026-11-09 | 2026-11-09 |
@@ -4182,6 +4257,7 @@
 | semblance | — | 外观（朗格《情感与形式》语境）；假象（阿多诺 Schein 语境，《美学理论》《启蒙辩证法》中译通行） | langer 首译；adorno 并入 | 朗格研究通行（《情感与形式》汉译；席勒 Schein 语境）；凭证 2026-11-08；2026-11-10 合并同键语境变体（adorno Schein=假象） | 2026-11-08 |
 | semblance | — | 外观 | langer 首译 | 朗格研究通行（《情感与形式》汉译；席勒 Schein 语境）；凭证 2026-11-08 | 2026-11-08 |
 | semi-intuitionism | — | 半直觉主义 | 首现（intuitionism） | 数学史术语（希尔伯特学派之构造主义立场）；凭证 2026-11-10 | 2026-11-10 |
+| semi-Riemannian | — | 半黎曼 | geometry-19th.supplement | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | semilattice semantics | — | 半格语义 | logic-relevance | Urquhart 1972 术语直译；凭证 2026-11-09 | 2026-11-09 |
 | seminal principles | — | 种子原理 | locke-on-medicine | 赫尔蒙特研究通行（semina） | 2026-11-05 |
 | sensationalism | — | 感觉主义 | antonio-rosmini | 近代认识论通行（与 sensism 感觉论区别） | 2026-11-07 |
@@ -4287,6 +4363,7 @@
 | singly-located | — | 单处定位 | object 首译 | 自译裁定（与多重定位对举；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
 | singular causal explanation | — | 单称因果解释 | 首译（scientific-explanation-20th） | 学界通行（Scriven 1962）；凭证 2026-11-10 | 2026-11-10 |
 | singularia | singularia | 殊相（保留拉丁，首现括注） | reism | 中世纪哲学惯例（particulars 通译殊相） | 2026-11-04 |
+| singularity (cosmological) | — | 奇点（宇宙论） | kant-development | 物理学通行；限定键以别数学奇点；凭证 2026-11-11 | 2026-11-11 |
 | site | — | 站点 | logic-relevance | 信道论术语直译（information-theoretic site）；凭证 2026-11-09 | 2026-11-09 |
 | site-specificity | — | 特定场域性 | digital-art 首译 | 当代艺术理论通行（site-specific art 特定场域艺术）；凭证 2026-11-10 | 2026-11-10 |
 | Sittlichkeit | Sittlichkeit | 伦理（黑格尔语境；亦作“伦理生活”） | 语料回收 | 学界惯例（黑格尔译本通行）；审定库无相关命中（凭证 2026-10-31）；审定库精确查无（凭证 2026-10-31） | 2026-10-31 |
@@ -4296,6 +4373,7 @@
 | situation calculus | — | 情景演算 | f/frame-problem 首译 | AI 逻辑通行译法（AIMA 中译用形；与 situation 情境/情境语义学分义）；凭证 2026-11-10 | 2026-11-10 |
 | situationism | — | 情境主义 | justice-moral-psych | 德性伦理学与社会心理学通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | size principle | — | 规模原则 | moral-learning | Tenenbaum 学派（贝叶斯概念学习）；凭证 2026-11-09 | 2026-11-09 |
+| skandha | — | 蕴 | yogacara 首译 | 汉传佛典千年通行（五蕴）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | skeptical hypothesis | — | 怀疑论假设 | closure-epistemic 首译 | 知识论通行；凭证 2026-11-08 | 2026-11-08 |
 | skeptical theism | — | 怀疑论神学 | petitionary-prayer | 学界通行译法（回应恶的问题的怀疑论立场）；凭证 2026-11-09 | 2026-11-09 |
 | skepticism | — | 怀疑论 | august-rehberg 首译 | 哲学通行；凭证 2026-11-08 | 2026-11-08 |
@@ -4304,11 +4382,11 @@
 | Skolem function | — | 斯科伦函数 | tarski-truth | 模型论与逻辑学通行 | 2026-11-09 |
 | skopos | σκοπός | 论旨（首现括注原文） | olympiodorus | 古代注疏学通行（文本的宗旨/主题）；凭证 2026-11-08 | 2026-11-08 |
 | Sleeping Beauty | — | 睡美人问题 | 语料回收（标题词） | 审定直接命中（自然辩证法·科学哲学）；凭证 2026-11-01 | 2026-11-01 |
-| self-culture | — | 自我修养 | f/fuller-margaret 首译 | 19 世纪美国思想史通行译法（与 self-improvement 自我改善并用） | 2026-11-11 |
 | sleeping dog strategy | — | “睡狗”策略 | f/frame-problem 首译 | 构词直译（McDermott 1987 提法，let sleeping dogs lie 典故）；凭证 2026-11-10 | 2026-11-10 |
 | slippery slope | — | 滑坡（论证） | euthanasia-voluntary 首译 | 学界通行 | 2026-11-11 |
 | slow clock transport | — | 慢钟搬移（slow-transport 缓慢搬移） | spacetime-convensimul | 本册首译裁定（transport 取“搬移”） | 2026-11-06 |
 | small model property | — | 小模型性质 | logic-dynamic | 模型论通行译法；凭证 2026-11-10 | 2026-11-09 |
+| smooth manifold | — | 光滑流形 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | smṛti | स्मृति | 忆（念） | early-modern-india | 因明传统译名（memory；佛典“念”随文括注）；凭证 2026-11-10 | 2026-11-10 |
 | Sōan | 草庵 | 草庵 | japanese-aesthetics | 学界惯例（日本茶道研究通行译法“草庵”） | 2026-11-02 |
 | social acceleration | — | 社会加速 | globalization | 社会理论通行汉译（Rosa 术语） | 2026-11-10 |
@@ -4316,6 +4394,7 @@
 | social choice theory | — | 社会选择理论 | s/social-procedures 首译 | 审定名词（经济学名词通行）；凭证 2026-11-07 | 2026-11-07 |
 | social constructionism | — | 社会建构论 | disability | 学界通行译名；凭证 2026-11-09 | 2026-11-09 |
 | social contract | — | 社会契约论（亦作“社会契约”） | august-rehberg 首译 | 政治哲学通行（理论名从词汇表既定形，2026-11-08 冲突归一）；凭证 2026-11-08 | 2026-11-08 |
+| social cost-benefit analysis | — | 社会成本—收益分析 | ramsey-economics | 经济学通行（Arrow and Kurz 1970 语境）；凭证 2026-11-11 | 2026-11-11 |
 | social criticism | — | 社会批评 | oakeshott 首译 | 学界通行汉译（沃尔泽《正义诸领域》中译本）；凭证 2026-11-07 | 2026-11-07 |
 | social dilemma | — | 社会困境 | justice-moral-psych | 社会两难与合作研究通行汉译（与“讨价还价博弈”对举）；凭证 2026-11-10 | 2026-11-10 |
 | social epistemology | — | 社会认识论 | s/social-procedures 首译 | 学界通行译法（哲学通行）；凭证 2026-11-07 | 2026-11-07 |
@@ -4327,6 +4406,7 @@
 | social normativity | — | 社会规范性 | reinach | 本词条首译（与 axiological normativity 对举）；凭证 2026-11-09 | 2026-11-09 |
 | social ontology | — | 社会本体论 | reinach | SUMMARY 词条名 s/social-ontology.md 定名沿用；凭证 2026-11-09 | 2026-11-09 |
 | social procedures | — | 社会程序 | s/social-procedures 首译（标题词） | 学界通行译名；SUMMARY 定名“社会程序的形式化进路”；凭证 2026-11-07 | 2026-11-07 |
+| social rate of discount | — | 社会贴现率 | ramsey-economics | 学界惯例（Arrow and Kurz 1970 术语）；凭证 2026-11-11 | 2026-11-11 |
 | social software | — | 社会软件 | s/social-procedures 首译 | 学界通行译法（Parikh 2002 术语，社会软件研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | social utility | — | 社会效用 | 首译（stem-cells） | 学界惯例（伦理学通行）；凭证 2026-11-09 | 2026-11-09 |
 | social value | — | 社会价值 | organ-donation | 学界惯例（通行；凭证 2026-11-06） | 2026-11-06 |
@@ -4395,6 +4475,7 @@
 | spin | — | 自旋 | qt-entangle | 审定名词库（物理学名词 spin）；凭证 2026-11-09 | 2026-11-09 |
 | spinor | — | 旋量 | spacetime-convensimul | 学界惯例（数学物理通行） | 2026-11-06 |
 | Spinozism | — | 斯宾诺莎主义 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
+| spirit-seer | — | 视灵者 | kant-development | 康德《视灵者之梦》通行译法；凭证 2026-11-11 | 2026-11-11 |
 | spirits | — | 精气 | locke-on-medicine | 医史通行（盖伦：自然/生命/动物精气） | 2026-11-05 |
 | spiritual matter | materia spiritualis | 精神质料 | 首现（simon-faversham） | 学界阿威罗伊主义研究；凭证 2026-11-08 | 2026-11-08 |
 | spiritual matter / corporeal matter | — | 精神的质料／有形的质料 | binarium 首译 | 构词直译（materia spiritualis）；凭证 2026-11-08 | 2026-11-08 |
@@ -4415,6 +4496,7 @@
 | square of contraries | — | 对立方阵 | lorenzo-valla | 逻辑史通行（即对当方阵；SUMMARY 词条题名“传统逻辑方阵”） | 2026-11-04 |
 | square of opposition | — | 对当方阵 | 首现（william-sherwood） | 学界通行（传统逻辑）；凭证 2026-11-07 | 2026-11-07 |
 | squeezing argument | — | 挤压论证 | logical-consequence | Kreisel 论证通行译法；凭证 2026-11-09 | 2026-11-09 |
+| śrāvaka | — | 声闻 | yogacara 首译 | 汉传佛典千年通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | stability | — | 稳定性 | 首现（imprecise-probabilities） | 学界惯例（Leitgeb 用语，与 resiliency 略同）；凭证 2026-11-08 | 2026-11-08 |
 | stable marriage (problem) | — | 稳定婚姻（问题） | s/social-procedures 首译 | 学界通行译法（匹配理论通行）；凭证 2026-11-07 | 2026-11-07 |
 | stable match | — | 稳定匹配 | s/social-procedures 首译 | 学界通行译法（匹配理论通行）；凭证 2026-11-07 | 2026-11-07 |
@@ -4482,6 +4564,7 @@
 | structural rules | — | 结构规则（证明论） | 语料回收 | 学界惯例（逻辑学界通行）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
 | structural uniformities | — | 结构齐一性 | dilthey 首译 | 本词条术语（狄尔泰 Struktur／结构化齐一性）；凭证 2026-11-09 | 2026-11-09 |
 | structuralism | — | 结构主义 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
+| structure group | — | 结构群 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | structure-mapping theory | — | 结构映射理论 | reasoning-analogy | 学界通行（Gentner 术语） | 2026-11-05 |
 | stuff | — | 质料 | object 首译 | 学界惯例（与事物/个体对举）；凭证 2026-11-07 | 2026-11-07 |
 | Stuxnet | — | 震网 | 首现（it-moral-values） | 新闻与安全研究通行译名（震网病毒）；凭证 2026-11-10 | 2026-11-10 |
@@ -4580,6 +4663,7 @@
 | suspicio | suspicio | 疑念 | 首现（simon-faversham） | 学界（Marmo 1990 论修辞学接受；保留拉丁）；凭证 2026-11-08 | 2026-11-08 |
 | svabhāva | स्वभाव | 自性（佛教） | 语料回收 | 学界惯例（佛典译语）；审定库无直接收录（凭证 2026-10-30）；审定库精确查无（凭证 2026-10-30） | 2026-10-30 |
 | svārthānumāna | स्वार्थानुमान | 为己比量 | jaina-philosophy | 因明传统译名 | 2026-11-08 |
+| svasaṃvedana | — | 自证 | yogacara 首译 | 汉传量论研究通行（自证分）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | svataḥ prāmāṇya | स्वतःप्रामाण्य | 自身有效性（即时证成） | kumaarila | 印度知识论研究通行（弥曼差 svataḥprāmāṇyavāda） | 2026-11-05 |
 | svātantrika | स्वातन्त्रिक | 自续派 | gelukpa | 藏传佛教通译（自续中观）；学界通行 | 2026-11-01 |
 | Swampman | — | 沼泽人 | davidson 首译 | 戴维森思想实验通行；凭证 2026-11-10 | 2026-11-10 |
@@ -4592,11 +4676,6 @@
 | symbolic form | — | 符号形式 | langer 首译 | 卡西尔–朗格研究通行（本库 cassirer 词条同形）；symbol 在本词条作“符号”（与 gadamer-aesthetics 之“象征”分域）；凭证 2026-11-08 | 2026-11-08 |
 | symbolic transformation | — | 符号转换 | langer 首译 | 朗格研究通行；凭证 2026-11-08 | 2026-11-08 |
 | Symphilosophie | Symphilosophie | 共同哲学 | novalis | 德国浪漫派研究通行（耶拿圈术语）；凭证 2026-11-11 | 2026-11-11 |
-| self-positing | — | 自我设定 | novalis | 费希特研究通行（Selbstsetzung）；凭证 2026-11-11 | 2026-11-11 |
-| singularity (cosmological) | — | 奇点（宇宙论） | kant-development | 物理学通行；限定键以别数学奇点；凭证 2026-11-11 | 2026-11-11 |
-| social cost-benefit analysis | — | 社会成本—收益分析 | ramsey-economics | 经济学通行（Arrow and Kurz 1970 语境）；凭证 2026-11-11 | 2026-11-11 |
-| social rate of discount | — | 社会贴现率 | ramsey-economics | 学界惯例（Arrow and Kurz 1970 术语）；凭证 2026-11-11 | 2026-11-11 |
-| spirit-seer | — | 视灵者 | kant-development | 康德《视灵者之梦》通行译法；凭证 2026-11-11 | 2026-11-11 |
 | symphilosophy | — | 共思（Symphilosophie） | s/scholem 首译 | 早期浪漫派术语通行译法（亦作“共哲学”）；凭证 2026-11-08 | 2026-11-08 |
 | symposium | — | 会饮 | 首现（xenophanes） | 学界通行（希腊宴饮；sympotic 作会饮诗）；凭证 2026-11-07 | 2026-11-07 |
 | syncategorematic | — | 非范畴式 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
@@ -4620,15 +4699,6 @@
 | systematicity | — | 系统性（Systematicity Principle → 系统性原则） | reasoning-analogy | 学界通行 | 2026-11-05 |
 | systems biology | — | 系统生物学 | cancer | 学界通行；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | systems theory | — | 系统论 | cancer | 学界通行；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
-| sahopalambhaniyama | — | 俱缘定 | yogacara 首译 | 汉传量论研究通行（法尊译“俱缘定”）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| saṃtāna | — | 相续 | yogacara 首译 | 汉传佛典千年通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| sākāra | — | 有相 | yogacara 首译 | 汉传量论研究通行（有相说）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| skandha | — | 蕴 | yogacara 首译 | 汉传佛典千年通行（五蕴）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| svasaṃvedana | — | 自证 | yogacara 首译 | 汉传量论研究通行（自证分）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| Saṃtānāntarasiddhi | — | 《成立他相续论》 | yogacara 首译 | 梵题汉译（法称造，无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| Sākārasiddhiśāstra | — | 《有相成就论》 | yogacara 首译 | 梵题汉译（智作护造，无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| Sākārasaṃgrahasūtra | — | 《有相集论》 | yogacara 首译 | 梵题汉译（无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| Santānāntaradūṣaṇa | — | 《破他相续论》 | yogacara 首译 | 梵题汉译（宝称造，无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 
 ## T
 
@@ -4651,6 +4721,8 @@
 | takhayyul / takhayyula | تخیل | 想象官能／想象（伊本·海赛姆作 takhayyula） | arabic-islamic-phil-math | 译名裁定（faculty of imagination） | 2026-11-08 |
 | talking stick | — | 发言棒 | s/social-procedures 首译 | 构词直译（北美原住民议事习俗）；凭证 2026-11-07 | 2026-11-07 |
 | Talmud | — | 塔木德 | delmedigo | 学界通行（犹太教经典定译） | 2026-11-06 |
+| tangent bundle | — | 切丛 | geometry-19th.supplement | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
+| tangent space | — | 切空间 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | taqlīd | تقليد | 因袭（塔格利德） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
 | targeted advertising | — | 定向广告 | 首现（it-moral-values） | 广告与信息伦理通行译名；凭证 2026-11-10 | 2026-11-10 |
 | tarka | तर्क | 保留原文（直观辨相） | jaina-philosophy | 源文自注不取“假设性推理”旧义，正文保留拉丁形 | 2026-11-08 |
@@ -4659,6 +4731,7 @@
 | taṣdīq | تصديق | 断定（阿拉伯逻辑学；与 taṣawwur 概念相对） | 语料回收 | 学界惯例（阿拉伯逻辑学）；审定库仅模糊噪声命中（凭证 2026-10-31） | 2026-10-31 |
 | tathāgatagarbha | तथागतगर्भ | 如来藏 | 语料回收 | 审定名词库（termonline-all·哲学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
 | Tathandlung | Tathandlung | 事行（费希特：自我的自身设定） | karl-reinhold | 主会话直译收口 432e0a76；凭证 2026-11-04 | 2026-11-04 |
+| tathatā | — | 真如 | yogacara 首译 | 汉传佛典千年通行（suchness／thusness）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | tattva | तत्त्व | 范畴（谛） | jaina-philosophy | 耆那教“七谛”体系（与佛教“谛”同源异用） | 2026-11-08 |
 | Tattvacintāmaṇi | तत्त्वचिन्तामणि | 《真理思择摩尼》 | early-modern-india | 源文英文自题 Jewel of Reflection on the Truth 义译（cintāmaṇi=摩尼/如意宝）；凭证 2026-11-10 | 2026-11-10 |
 | Tattvôpaplava-siṁha | — | 《谛坏狮子论》 | jayaraasi | 本库自拟书名（tattva 谛、upaplava 坏灭、siṁha 狮子）；梵文原题随文括注 | 2026-11-07 |
@@ -4690,11 +4763,12 @@
 | temporal reflection | — | 时间反演 | spacetime-convensimul | 学界惯例（物理学通行；t→−t 反射义） | 2026-11-06 |
 | temporality | — | 时间性 | yorck 首译 | 学界通行汉译（现象学与历史哲学通行）；凭证 2026-11-11 | 2026-11-11 |
 | Ten Commandments | — | 十诫 | 语料回收（标题词） | 学界惯例（宗教学通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
-| tensor product | — | 张量积 | qm | 审定名词库（数学名词 04.0859）；凭证 2026-11-10 | 2026-11-11 |
 | Ten Unhistorical Aphorisms | — | 《十则非历史的箴言》 | s/scholem 首译 | 构词直译（朔勒姆短文）；凭证 2026-11-08 | 2026-11-08 |
 | Ten Wings | — | 十翼 | 语料回收（标题词） | 学界惯例（学界惯例（易经 Commentary 通行）；审定“十问”异域不采）；凭证 2026-11-01 | 2026-11-01 |
 | tendency (Tendenz) | — | 趋势 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | tendency to competence | — | 胜任倾向 | jury-theorems | 学界惯例（本词条定名）；凭据 2026-11-02 | 2026-11-02 |
+| tensor field | — | 张量场 | geometry-19th.supplement | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
+| tensor product | — | 张量积 | qm | 审定名词库（数学名词 04.0859）；凭证 2026-11-10 | 2026-11-11 |
 | term | — | 词项 | 首现（william-jevons） | 学界通行（逻辑学标准译名） | 2026-11-07 |
 | terminal sedation | — | 终末镇静 | euthanasia-voluntary 首译 | 学界惯例（生命伦理学；亦作“临终镇静”） | 2026-11-11 |
 | terminism | — | 词项主义 | lorenzo-valla | 中世纪逻辑史学界通行（奥卡姆派语义学） | 2026-11-04 |
@@ -4711,7 +4785,6 @@
 | tetraploid complementation | — | 四倍体补偿 | 首现（cloning） | 学界惯例（干细胞生物学通行）；凭证 2026-11-07 | 2026-11-07 |
 | textual lineage | — | 文本谱系 | chinese-phil-science | 学界通行（参 Lewis《早期中国的书写与权威》）；凭证 2026-11-07 | 2026-11-07 |
 | the Autonomy Principle | — | 自主性原则 | aesthetic-testimony | 本词条命名原则（Nguyen 2020a）；autonomy=自主性 学界通行 | 2026-11-11 |
-| the Requirement | — | 要求 | aesthetic-testimony | Hopkins (2011) 命名原则；直译，正文首现括注原文 | 2026-11-11 |
 | The Beginning of Philosophy | Der Anfang der Philosophie | 《哲学的开端》 | gadamer | 伽达默尔著作通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | The Elements | — | 《几何原本》 | zabarella | 学界千年通行汉译（欧几里得著作）；凭证 2026-11-09 | 2026-11-09 |
 | the First | — | 第一者 | neoplatonism | 新柏拉图主义研究通行（the One 之别称，正文并用“太一”） | 2026-11-07 |
@@ -4725,6 +4798,7 @@
 | The Only Possible Basis for a Demonstration of the Existence of God | — | 《上帝存在证明的唯一可能根据》 | kant-science | 学界通行 | 2026-11-05 |
 | The Origin of the Work of Art | Der Ursprung des Kunstwerkes | 《艺术作品的本源》 | gadamer | 海德格尔1936年讲座通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | The Relevance of the Beautiful | Die Aktualität des Schönen | 《美的现实性》 | gadamer | 伽达默尔美学论集通行汉译；凭证 2026-11-10 | 2026-11-10 |
+| the Requirement | — | 要求 | aesthetic-testimony | Hopkins (2011) 命名原则；直译，正文首现括注原文 | 2026-11-11 |
 | The Right of Sovereignty | — | 《主权之权利》（丹尼尔·李 2021） | s/sovereignty 首译 | 构词直译，无中译本，待 specs/008 审定库复核；凭证 2026-11-07 | 2026-11-07 |
 | the ultimate that is realized | — | 所证胜义 | gorampa | 藏传中观通行（rtogs pa’i don dam，证悟胜义/所证胜义） | 2026-11-09 |
 | the ultimate that is taught | — | 所教胜义 | gorampa | 藏传中观通行（bstan pa’i don dam，言教胜义/所教胜义）；与所证胜义对项 | 2026-11-09 |
@@ -4775,9 +4849,9 @@
 | timelike trajectory | — | 类时轨迹 | spacetime-convensimul | 学界惯例（相对论通行） | 2026-11-06 |
 | tīrthaṅkara | तीर्थंकर | 造渡者 | jaina-philosophy | 本库自拟直译（tīrtha 渡口＋kara 作者；学界亦作“渡津者”） | 2026-11-08 |
 | tissue organization field theory | — | 组织场论 | cancer | 本条术语（Soto-Sonnenschein TOFT）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
-| togetherness principle | — | 共同性原则 | kant-judgment | 本词条首译（Hanna 概念论/非概念论之争；曾作“同在性原则”“聚合原则”，2026-11-11 统一）；凭证 2026-11-11 | 2026-11-11 |
 | to apeiron | — | 无定（to apeiron；亦作“无限定”） | zeno-elea | 学界通行（阿那克西曼德 apeiron 通译“无定”） | 2026-11-09 |
 | to phainomenon | — | 显现 | 首现（timon-phlius） | 学界惯例（皮浪派实践依据，appearance）；凭证 2026-11-07 | 2026-11-07 |
+| togetherness principle | — | 共同性原则 | kant-judgment | 本词条首译（Hanna 概念论/非概念论之争；曾作“同在性原则”“聚合原则”，2026-11-11 统一）；凭证 2026-11-11 | 2026-11-11 |
 | Token / type | — | 殊例／类型（type-token 即“类型—殊例”之分；勿用“个体”，避免与 individual 碰撞） | 词汇表复核 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | token ring | — | 令牌环 | s/social-procedures 首译 | 审定名词（计算机科学技术名词）；凭证 2026-11-07 | 2026-11-07 |
 | token-based semantics | — | 基于殊例的语义学 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；与 Token/type 册行（2026-10-27 先登）对齐定“殊例”；凭证 2026-11-08 | 2026-11-08 |
@@ -4831,14 +4905,18 @@
 | triangular norm | — | 三角范数 | logic-fuzzy | 同 t-norm 既有行；凭证 2026-11-09 | 2026-11-09 |
 | triangulation | — | 三角测量 | davidson 首译 | 戴维森后期哲学通行（测绘隐喻术语）；凭证 2026-11-10 | 2026-11-10 |
 | triggering cause / structural cause | — | 触发原因／结构原因 | basing-epistemic 首译 | 学界通行汉译（因果作用区分）；凭证 2026-11-08 | 2026-11-08 |
+| Triṃśikā | — | 《唯识三十颂》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | Trinity College (Cambridge) | — | 三一学院 | newton | 剑桥大学学院通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | tripartite analysis of knowledge | — | 知识的三元分析 | 首现（xenophanes） | 学界通行（JTB 三元分析）；凭证 2026-11-07 | 2026-11-07 |
+| trisvabhāva | — | 三性 | yogacara 首译 | 汉传唯识学千年通行（三自性）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| Trisvabhāvanirdeśa | — | 《三自性论》 | yogacara 首译 | 梵题汉译（无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | tritheism | — | 三神论 | john-italos | 教父学通行汉译（τριθεΐα） | 2026-11-06 |
 | Trolley Problem | — | 电车难题 | 语料回收（标题词） | 学界惯例（伦理学/行动哲学）；凭证 2026-11-01 | 2026-11-01 |
 | trope | — | 特普 | object 首译 | 学界通行译法（属性实例；与共相对举）；凭证 2026-11-07 | 2026-11-07 |
-| tropes | — | 特罗普 | reinach | 学界惯例（分析形而上学音译；亦作“殊质”）；首现括注原文；凭证 2026-11-09 | 2026-11-09 |
+| tropes | — | 特普 | trope 复数形（reinach 旧行并入） | 与单数条同译；学界通行（属性实例，与共相对举），原“特罗普”形不再使用 | 2026-11-09 |
 | trophectoderm | — | 滋养外胚层 | 首现（cloning） | 学界惯例（胚胎学通行）；凭证 2026-11-07 | 2026-11-07 |
 | trophoblast | — | 滋养层 | 首译（stem-cells） | 学界惯例（胚胎学通行；与 trophectoderm 滋养外胚层区分）；凭证 2026-11-09 | 2026-11-09 |
+| true physics | — | 真正的物理学 | hobbes-science 首译 | 照文直译（霍布斯 vera physica）；凭证 2026-11-11 | 2026-11-11 |
 | true sentence | — | 真语句 | schema | 学界惯例（塔尔斯基真理论中译通行） | 2026-11-06 |
 | Truth and Method | — | 《真理与方法》（伽达默尔） | gadamer-aesthetics | 权威译本通行译法（洪汉鼎译本） | 2026-11-01 |
 | truth candidate | — | 真理候选者 | justep-coherence | 学界惯例（Rescher 术语通行译法） | 2026-11-02 |
@@ -4879,10 +4957,6 @@
 | typical ambiguity | — | 典型歧义 | quine-nf | 类型论通行译名（Quine/Specker）；凭证 2026-11-09 | 2026-11-09 |
 | typology | — | 预表论（type 预表；antitype 所预表者） | edwards 首译 | 学界通行汉译（圣经研究；和合本传统）；凭证 2026-11-10 | 2026-11-10 |
 | T’ong Pulgyo | 통불교 | 统一佛教 | korean-buddhism | 韩国佛教史学界通行（통불교；Shim Jaeryong 批判对象） | 2026-11-05 |
-| tathatā | — | 真如 | yogacara 首译 | 汉传佛典千年通行（suchness／thusness）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| trisvabhāva | — | 三性 | yogacara 首译 | 汉传唯识学千年通行（三自性）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| Triṃśikā | — | 《唯识三十颂》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| Trisvabhāvanirdeśa | — | 《三自性论》 | yogacara 首译 | 梵题汉译（无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 
 ## U
 
@@ -4903,7 +4977,6 @@
 | umbrella view | — | 伞状观 | object 首译 | 自译裁定（Rettler & Bailey 对“万物皆对象”立场的定名；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
 | unanimity preservation | — | 全体一致保持 | belief-merging | 学界通行（判断聚合文献）；凭证 2026-11-10 | 2026-11-10 |
 | unavailability pessimism | — | 不可得悲观论 | aesthetic-testimony | 本词条立场变体术语（知识不可得）；依义直译 | 2026-11-11 |
-| unusability pessimism | — | 不可用悲观论 | aesthetic-testimony | 本词条立场变体术语（证言不可用）；依义直译 | 2026-11-11 |
 | unbiasedness | — | 无偏性 | jury-theorems | 学界惯例（统计学通行）；凭据 2026-11-02 | 2026-11-02 |
 | unbounded iteration | — | 无界迭代 | logic-dynamic | 程序逻辑通行译法；凭证 2026-11-10 | 2026-11-09 |
 | uncertainty | — | 不确定性 | risk | 学界惯例（决策论与认识论通行）；与 indeterminacy“非确定性”分列；凭证 2026-11-09 | 2026-11-09 |
@@ -4965,6 +5038,7 @@
 | unknown correlations | — | 未知相关性 | 首现（imprecise-probabilities） | 构词直译；凭证 2026-11-08 | 2026-11-08 |
 | unspecific | — | 不具体的 | 首现（imprecise-probabilities） | 自译裁定（与 specific 具体相对）；凭证 2026-11-08 | 2026-11-08 |
 | unum per accidens | — | 偶性统一 | henricus-regius | 经院哲学通行译法（与 per se 统一相对；源文括注即该拉丁语）；凭证 2026-11-08 | 2026-11-08 |
+| unusability pessimism | — | 不可用悲观论 | aesthetic-testimony | 本词条立场变体术语（证言不可用）；依义直译 | 2026-11-11 |
 | unwritten doctrines | — | 口传学说 | xenocrates | 学界通行（柏拉图“未成文学说”；亦作“不成文学说”） | 2026-11-08 |
 | upādhi | उपाधि | 假立（名义属性） | early-modern-india 首译 | 正理/因明通行义译（anthropocentric imposed property；佛典“施设”备查）；凭证 2026-11-10 | 2026-11-10 |
 | upalabdhi | उपलब्धि | 领受 | early-modern-india | 正理认知义译（apprehension；buddhi/jñāna 同义词列）；凭证 2026-11-10 | 2026-11-10 |
@@ -5004,6 +5078,7 @@
 | variable sharing principle | — | 变量共享原则 | logic-relevance | 相干逻辑通行译法；凭证 2026-11-09 | 2026-11-09 |
 | variance | — | 方差 | risk | 审定名词库统计学术语通行译名；凭证 2026-11-09 | 2026-11-09 |
 | varietas / falsitas | — | 多样性／虚假性 | gianfrancesco-pico | 源文拉丁对举，正文保留拉丁原词并括注；Gianfrancesco 论证核心 | 2026-11-09 |
+| vāsanā | — | 习气（熏习） | yogacara 首译 | 汉传唯识学通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | vector | — | 矢量 | qm | 物理学通行（数学名词作“向量”；本库沿 qt 批“矢量空间”用法）；凭证 2026-11-11 | 2026-11-11 |
 | vector space | — | 矢量空间 | qm | 学界惯例（数学名词作“向量空间”；审定库检索无命中）；凭证 2026-11-11 | 2026-11-11 |
 | Veda | वेद | 《吠陀》 | early-modern-india | 千年通行译名；凭证 2026-11-10 | 2026-11-10 |
@@ -5030,6 +5105,11 @@
 | vicarious harm | — | 替代性伤害 | organ-donation | 学界惯例（Feinberg 伤害理论中译；凭证 2026-11-06） | 2026-11-06 |
 | Vienna Circle | Wiener Kreis | 维也纳学派 | 首译（stebbing） | 学界通行汉译；凭证 2026-11-09 | 2026-11-09 |
 | vijñāna | विज्ञान | 识（佛教） | 语料回收 | 审定名词库（termonline-all·哲学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
+| vijñānavāda | — | 唯识论 | yogacara 首译 | 学界通行（vijñāna 识＋vāda 论）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| vijñapti | — | 了别 | yogacara 首译 | 玄奘译“了别”（识之了别义；vijñaptimātra 唯识）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| vijñaptimātra | — | 唯识 | yogacara 首译 | 汉传唯识学千年通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| vikalpa | — | 分别（虚妄分别） | yogacara 首译 | 汉传唯识学通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| Viṃśikā | — | 《唯识二十论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | vinaya | विनय | 毗奈耶 | gelukpa | 佛学界通行译名（律藏） | 2026-11-01 |
 | violinist case | — | 小提琴家案例 | 语料回收（标题词） | 学界惯例（汤姆森思想实验（abortion 词条））；凭证 2026-11-01 | 2026-11-01 |
 | vipakṣa | विपक्ष | 异品 | early-modern-india | 因明传统译名（disagreeing case；与 sapakṣa 同品对举）；凭证 2026-11-10 | 2026-11-10 |
@@ -5071,6 +5151,7 @@
 | volatilization | — | 挥发 | locke-on-medicine | 化学史通行（volatize=使挥发） | 2026-11-05 |
 | volitional choice | — | 意愿选择 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | Volksgeist | Volksgeist | 民族精神 | august-rehberg 首译 | 历史主义研究通行；凭证 2026-11-08 | 2026-11-08 |
+| Vollkommenheit | — | 完善自身 | dilthey 首译 | 狄尔泰伦理学三动因之三（以社会认可的方式完善自身）；本词条括注原文；凭证 2026-11-11 | 2026-11-11 |
 | voltage clamp | — | 电压钳 | model-organisms 首译 | 电生理学通行译名；凭证 2026-11-09 | 2026-11-09 |
 | voluntarism | — | 意志主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | voluntarist | — | 意志论者 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
@@ -5089,12 +5170,6 @@
 | vyāpya | व्याप्य | 所遍充 | early-modern-india | 因明通行（pervaded）；凭证 2026-11-10 | 2026-11-10 |
 | vyāsajya-vṛtti-dharma | — | 共转属性 | early-modern-india | 正理义译（properties which occur jointly；集体属性）；凭证 2026-11-10 | 2026-11-10 |
 | vyatireka | व्यतिरेक | 同无 | early-modern-india | 因明“异品无”通行（agreement in absence；与 anvaya 同有对举）；凭证 2026-11-10 | 2026-11-10 |
-| vāsanā | — | 习气（熏习） | yogacara 首译 | 汉传唯识学通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| vijñapti | — | 了别 | yogacara 首译 | 玄奘译“了别”（识之了别义；vijñaptimātra 唯识）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| vijñaptimātra | — | 唯识 | yogacara 首译 | 汉传唯识学千年通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| vijñānavāda | — | 唯识论 | yogacara 首译 | 学界通行（vijñāna 识＋vāda 论）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| vikalpa | — | 分别（虚妄分别） | yogacara 首译 | 汉传唯识学通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| Viṃśikā | — | 《唯识二十论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 
 ## W
 
@@ -5152,6 +5227,7 @@
 | wit | — | 机智 | 首现（schlegel） | 学界惯例（施莱格尔研究通行；与 Witz 对应）；凭证 2026-11-07 | 2026-11-07 |
 | witchcraft | — | 巫术 | gianfrancesco-pico | 学界通行；与 sorcery 同译，源文二词并用 | 2026-11-09 |
 | Wittgensteinian Fideism | — | 维特根斯坦式信仰主义 | 语料回收（标题词） | 学界惯例（宗教哲学（Kai Nielsen/D.Z. Phillips 论辩））；凭证 2026-11-01 | 2026-11-01 |
+| Wohlwollen | — | 仁爱 | dilthey 首译 | 狄尔泰伦理学三动因之一（康德传统亦译“善意”，此处从正文）；本词条括注原文；凭证 2026-11-11 | 2026-11-11 |
 | Wolffianism | — | 沃尔夫主义 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
 | Wollen | Wollen | 意愿 | yorck 首译 | 学界通行（德语哲学 Wollen 意愿）；凭证 2026-11-11 | 2026-11-11 |
 | word association | — | 词语联想 | kant-transcendental | 心理学史通行（与联想主义 associationism 同族）；凭证 2026-11-11 | 2026-11-11 |
@@ -5218,11 +5294,11 @@
 | yin-yang | 陰陽 | 阴阳 | chinese-phil-science | 学界通行；凭证 2026-11-07 | 2026-11-07 |
 | Yishuv | — | 伊舒夫（巴勒斯坦犹太社群） | s/scholem 首译 | 犹太研究通行音译；凭证 2026-11-08 | 2026-11-08 |
 | Yogācāra | योगाचार | 瑜伽行派 | gelukpa | 佛学界通行译名 | 2026-11-01 |
+| Yogācārabhūmi | — | 《瑜伽师地论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | yogyatā | योग्यता | 义适 | early-modern-india | 弥曼差/正理语义学通行义译（semantic fitness）；凭证 2026-11-10 | 2026-11-10 |
 | Yoruba | — | 约鲁巴语 | 首译（african-ethics） | 民族语言通行音译（尼日利亚 Yoruba；人作“约鲁巴人”）；凭证 2026-11-09 | 2026-11-09 |
 | Yueling | 月令 | 《月令》 | chinese-phil-science | 学界通行；凭证 2026-11-07 | 2026-11-07 |
 | yūgen | 幽玄 | 幽玄 | japanese-aesthetics | 学界惯例（日本美学/能乐研究通行译法“幽玄”） | 2026-11-02 |
-| Yogācārabhūmi | — | 《瑜伽师地论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 
 ## Z
 
@@ -5247,12 +5323,3 @@
 ## #
 
 | *-autonomous category | — | *-自治范畴 | logic-linear | Barr 术语通行译法；凭证 2026-11-10 | 2026-11-09 |
-| ālambana | — | 所缘 | yogacara 首译 | 玄奘译“所缘”（《观所缘缘论》）；原文列待考（源页未给天城体配对）；凭证 2026-11-11 | 2026-11-11 |
-| ālayavijñāna | — | 阿赖耶识 | yogacara 首译 | 汉传唯识学千年通行译名（玄奘译）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| āśraya | — | 所依 | yogacara 首译 | 汉传唯识学通行（玄奘译“所依”）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| ātmadṛṣṭi | — | 我见 | yogacara 首译 | 汉传唯识学四烦恼之一；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| ātmamoha | — | 我痴 | yogacara 首译 | 汉传唯识学四烦恼之一；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| ātmamāna | — | 我慢 | yogacara 首译 | 汉传唯识学四烦恼之一；与 ahaṃkāra 同形，正文括注原词消歧；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| ātmasneha | — | 我爱 | yogacara 首译 | 汉传唯识学四烦恼之一；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| śrāvaka | — | 声闻 | yogacara 首译 | 汉传佛典千年通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| Ālambanaparīkṣā | — | 《观所缘缘论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |

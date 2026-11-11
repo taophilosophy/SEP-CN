@@ -2,7 +2,7 @@
   "slug": "hobbes-science",
   "kind": "retranslate",
   "zh_doc": "h/hobbes-science.md",
-  "state": "drafted",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -17,6 +17,27 @@
       "actor": "H-main-20261111",
       "at": "2026-11-11T04:51:12Z",
       "evidence": "账本 tasks/h/hobbes-science.ledger.yaml 85 段（body=73 oir=1 note=11）双版齐备；lq check 守恒门通过（残余 0，SOFT 仅斜体→书名号与机械段）；compose 写回 23339 字符；对账：defs 键 49=49、内联脚注标记 35=35、编号节 5/5 与尾节序齐备"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "H-main-20261111",
+      "at": "2026-11-11T05:04:34Z",
+      "evidence": "一校逐段回核 yuanwen/h/hobbes-science.md：defs 键 49=49、内联脚注标记 35=35、标题序 5/5；实修 5 处（at best/at worst 分译、LEV 24 镜片回声句、三十块银钱、私人意见、诫命错字）；残余外文仅登记人名/引证组/文献照录区（合规）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "H-main-20261111",
+      "at": "2026-11-11T05:48:42Z",
+      "evidence": "二校语言：check_prose 34→2 告警，实修 38 处（长句拆分 15、de-chain 11、weak-verb 3、被字 1、另 8 处顺带）；残余 2 条均为直引内部（LEV 38 长引句、OL I 致读者信 3 被字），按 ADR-0020 引文豁免留痕；语体：现代汉语学术书面语，无文言仿古，破折号克制"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "H-main-20261111",
+      "at": "2026-11-11T05:50:06Z",
+      "evidence": "三校体例：check_style 唯一残余为 H1 规范题名 Hobbes’ Philosophy of Science 的右引号误报（SUMMARY 单一事实源，与 d/descartes-ethics、i/ikhwan-al-safa 同型存量误报）；check_academic --strict 0 硬错误；check_math 0 缺失/0 失衡；check_summary H1 mismatch 0；check_terms 硬错误 0；术语 14 条已登记（air-pump/civil philosophy/conception/results…）"
     }
   ],
   "blockers": [],
