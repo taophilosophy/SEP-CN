@@ -905,32 +905,42 @@ segments:
     kind: body
     source: |-
       ## 5. Philosophical Psychology
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5. 哲学心理学
+    step2: |-
+      ## 5. 哲学心理学
   - id: 107
     kind: body
     source: |-
       ### 5.1 Overview of Philosophical Psychology
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.1 哲学心理学概观
+    step2: |-
+      ### 5.1 哲学心理学概观
   - id: 108
     kind: body
     source: |-
       Study of the nature, content and causes of cognition (*buddhi, jñāna, upalabdhi*) lies at the very centre of the Nyāya philosophical method. In epistemology, the question asked is: how do we distinguish between true and false cognitions, and under what conditions does a true cognition arise? In logical theory, the issue is: when does one cognition ‘follow’ from another, in some suitably articulated sense. In philosophy of language, the assumption is that sentence structure mirrors cognitive structure, and hence that an inquiry into sentence meaning proceeds via an analysis of the cognitions sentences ‘express’. The importance of this topic is reflected by *The Manual of Reason*, for although ‘cognition’ is technically just one of twenty-four types of quality in the Vaiśeṣika schema, its analysis accounts for nearly half of the book (TS 34–74).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对认知（*buddhi*、*jñāna*、*upalabdhi*）的本性、内容与原因的研究，位于正理哲学方法的正中心。在知识论中，所问的是：我们如何区分真认知与假认知，真认知在什么条件下产生？在逻辑理论中，问题是：一个认知何时以某种恰当表述的意义“跟随”另一认知。在语言哲学中，假定是：句子结构映照认知结构，因而对句子意义的研究要通过分析句子所“表达”的认知来进行。《理性手册》体现了这一主题的重要性：尽管“认知”在胜论图式中严格说来只是二十四种性质之一，对它的分析却占了全书将近一半（TS 34–74）。
+    step2: |-
+      正理哲学方法的核心，是对认知（*buddhi*、*jñāna*、*upalabdhi*）的本性、内容和原因的研究。知识论问的是：真认知与假认知如何区分？真认知在什么条件下发生？逻辑理论问的是：在某种恰当界定的意义上，一个认知何时“跟随”另一个认知？语言哲学则假定，句子结构映照着认知结构，所以要研究句子意义，就得分析句子所“表达”的认知。《理性手册》足以说明这一主题的分量：在胜论图式里，“认知”严格说来只是二十四种性质之一，可对它的分析却占了全书近一半（TS 34–74）。
   - id: 109
     kind: body
     source: |-
       The term ‘cognition’ is used by the Naiyāyikas to refer to any intentional (*sa-viṣayaka*; object-directed) mental state, including states of perceiving, inferring, doubting, guessing, remembering, etc., but excluding desiring, hoping, suffering, etc. (cf. Matilal 1968: 7–8)[^matilal-1968]. Because we say that the subject has such states, they are thought to be ‘qualities’ (in the technical Vaiśeṣika sense) of the soul. *The Manual of Reason* states that a cognition is the “ground for all linguistic practice” (TS 34), reflecting the Nyāya conception of language as primarily an instrument for transmitting true thoughts from speaker to hearer.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正理论师用“认知”一词指任何意向性的（*sa-viṣayaka*，指向对象的）心理状态，包括知觉、推理、怀疑、猜测、记忆等状态，但不包括欲望、希望、受苦等（参 Matilal 1968: 7–8）[^matilal-1968]。因为我们会说主体具有这类状态，它们被视为灵魂的“性质”（胜论术语义）。《理性手册》说认知是“一切语言实践的根据”（TS 34），这反映了正理对语言的构想：语言首先是说话者向听者传递真思想的工具。
+    step2: |-
+      正理论师所谓“认知”，指的是任何意向性的（*sa-viṣayaka*，即指向对象的）心理状态，知觉、推理、怀疑、猜测、记忆等都在其内；欲望、希望、受苦之类则不算（参考 Matilal 1968: 7–8）[^matilal-1968]。既然我们说主体具有这类状态，它们便被看作灵魂的“性质”（取胜论的术语义）。《理性手册》说认知是“一切语言实践的根据”（TS 34）——这透露出正理的看法：语言首先是说话者把真思想传给听者的工具。
   - id: 110
     kind: body
     source: |-
       From the point of view of epistemology, the most important division, within the class of cognitions, is between those which are true and the rest. However, the standard Nyāya classification of the species of cognition, repeated by *The Manual of Reason*, begins with another division, between memory cognitions (*smṛti*) and the remainder (*anubhava*; nonrecollective cognition). The full classification is as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从知识论的角度看，认知类中最重要的划分是真认知与其余认知之分。然而，《理性手册》所重述的正理对认知种类的标准分类，却从另一个划分开始：记忆认知（*smṛti*）与其余者（*anubhava*，非回忆性认知）之分。完整分类如下：
+    step2: |-
+      从知识论着眼，认知之中最要紧的划分，是真认知与其余认知之别。不过，正理对认知种类的标准分类（《理性手册》照搬了这一分类）却从另一刀切起：先把记忆认知（*smṛti*）与其他认知（*anubhava*，非回忆性认知）分开。完整分类如下：
   - id: 111
     kind: body
     source: |-
@@ -940,26 +950,44 @@ segments:
       | nonrecollective (*anubhava*) |   | memory (*smṛti)* |   |   |
       |   |   |   |   |   |
       | true (*pramā*) perceptual inferential comparison-based testimony-based | not true (*apramā*) false (*viparyaya*; 4 types) doubt (*saṃśaya*) *tarka* |   | ‘true’ (*yathārtha*) | ‘not true’ (*ayathārtha*) |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      | 认知 |   |   |   |   |
+      | --- | --- | --- | --- | --- |
+      |   |   |   |   |   |
+      | 非回忆性（*anubhava*） |   | 记忆（*smṛti*） |   |   |
+      |   |   |   |   |   |
+      | 真（*pramā*）：知觉的、推理的、比较的、证言的 | 非真（*apramā*）：假（*viparyaya*，四类）、疑（*saṃśaya*）、*tarka* |   | “真”（*yathārtha*） | “非真”（*ayathārtha*） |
+    step2: |-
+      | 认知 |   |   |   |   |
+      | --- | --- | --- | --- | --- |
+      |   |   |   |   |   |
+      | 非回忆性（*anubhava*） |   | 记忆（*smṛti*） |   |   |
+      |   |   |   |   |   |
+      | 真（*pramā*）：知觉的、推理的、比较的、证言的 | 非真（*apramā*）：假（*viparyaya*，四类）、疑（*saṃśaya*）、*tarka* |   | “真”（*yathārtha*） | “非真”（*ayathārtha*） |
   - id: 112
     kind: body
     source: |-
       Nyāya epistemology is in effect a theory of the true nonrecollective cognitions, and their division into four types on the basis of the different accredited epistemic means (*pramāṇa-s*) by which they are produced. (What about accidentally true cognitions, e.g. the result of a lucky guess? There are well-discussed problems with incorporating them into the above schema). It is clear that, no matter how generally reliable are our epistemic methods, it will always be possible for misfires to issue occasionally in false cognitions (e.g. perceptual illusions, beliefs resulting from a reporting error, etc.). *The Manual of Reason*’s example (TS 72) is of the false pseudo-perceptual judgement “This is a piece of silver” on seeing an oyster-shell. I will discuss the epistemology of perception, inference and testimony in §§ 7, 8 and 9 respectively. Here, I will examine in more detail three types of cognition which, though very important within the Nyāya framework, are subsidiary to its epistemology. They are: memory, ‘doubt’ and *tarka*. (Where do dreams fit in the schema? TS 70 states that they belong in the category of ‘false’ cognitions. This, however, is odd, since they are not the product of any of the four *pramāṇa*s misfiring. Neither are they memories or states of doubt. According to Praśastapāda, dreams are the result of the free movement of the ‘mind’ when it is not connected with the external sense-faculties, influenced by *adṛṣṭa*, ‘unseen’ forces.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正理的知识论实际上是关于真的非回忆性认知的理论，并依据产生它们的各种被认可的知识手段（*pramāṇa*）将它们分为四类。（偶然为真的认知，例如侥幸猜中的结果，又如何呢？把它们纳入上述图式有一些讨论很多的困难。）显然，无论我们的知识方法总体上多么可靠，总有可能偶尔失手而产生假认知（如知觉幻象、因报告错误而产生的信念等）。《理性手册》（TS 72）的例子是：看见牡蛎壳却作出“这是一块银”的假伪知觉判断。我将在 §§7、8、9 分别讨论知觉、推理与证言的知识论。这里我要更详细地考察三类认知，它们在正理框架内非常重要，却从属于其知识论：记忆、“疑”与 *tarka*。（梦在图式中处于什么位置？TS 70 说它们属于“假”认知。这有点奇怪，因为梦并非四种 *pramāṇa* 中任何一种失手的结果，也不是记忆或疑的状态。按普拉夏斯塔帕达，梦是“意”在与外部感官不相连时自由活动的结果，受“不可见力”（*adṛṣṭa*）的影响。）
+    step2: |-
+      正理的知识论，实际上就是关于“真的非回忆性认知”的理论：按产生它们的四种被认可的知识手段（*pramāṇa*），这类认知又分四类。（偶然为真的认知呢？比如瞎猜猜中了——要把它们塞进上述图式，麻烦不少，讨论也很多。）显而易见，知识方法再可靠，也免不了偶尔失手，产出假认知（知觉幻象、因转述出错而形成的信念，等等）。《理性手册》（TS 72）举的例子是：看见一枚牡蛎壳，却作出“这是一块银”的假知觉判断。知觉、推理与证言的知识论，分别留到 §§7、8、9 讨论。这里先细看三类认知：记忆、“疑”与 *tarka*。它们在正理框架中地位重要，却都从属于知识论。（那么梦算什么？TS 70 把梦归入“假”认知。这有些奇怪：梦不是四种 *pramāṇa* 中任何一种失手的结果，也不是记忆或疑。按普拉夏斯塔帕达的说法，梦是“意”脱离外部感官时自由活动的结果，并受“不可见力”（*adṛṣṭa*）的驱使。）
   - id: 113
     kind: body
     source: |-
       ### 5.2 Memory
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.2 记忆
+    step2: |-
+      ### 5.2 记忆
   - id: 114
     kind: body
     source: |-
       Memory is considered in the western tradition to be an important means by which an individual can justify her beliefs about the past. It is striking then to note that the Nyāya at the outset separate memory states from knowledge-yielding beliefs and deny to them the status of knowledge-hood. *The Manual of Reason* has the following to say about memory:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在西方传统中，记忆被视为个人为其关于过去的信念提供辩护的重要手段。因此值得注意的是，正理一开始就把记忆状态与能产生知识的信念分开，并否认记忆状态具有知识地位。《理性手册》论记忆如下：
+    step2: |-
+      西方传统一向把记忆看作个人证成自己关于过去的信念的重要手段。相形之下，正理从一开始就把记忆状态与能带来知识的信念分开，不承认记忆有知识的资格，这一点颇值得注意。《理性手册》关于记忆的说法是：
   - id: 115
     kind: body
     source: |-
@@ -968,74 +996,106 @@ segments:
       > A ‘mental disposition’ is a quality of the soul which is caused by a nonrecollective cognition and causes a memory cognition (TS 80).
       >
       > Memories are either ‘true’ or ‘false’, as the originating cognition is true or false (TS 74).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 记忆状态是仅由“心习”（*bhāvanā*）产生的状态（TS 35）。
+      >
+      > “心习”是灵魂的一种性质，由非回忆性认知所引起，并引起记忆认知（TS 80）。
+      >
+      > 记忆或“真”或“假”，视其源初认知为真或为假而定（TS 74）。
+    step2: |-
+      > 记忆状态，就是仅仅由“心习”（*bhāvanā*）所生的状态（TS 35）。
+      >
+      > “心习”是灵魂的一项性质：它由非回忆性认知引起，又引起记忆认知（TS 80）。
+      >
+      > 记忆或“真”或“假”，取决于其源初认知的真假（TS 74）。
   - id: 116
     kind: body
     source: |-
       The general theory is that an initial cognition, e.g. a perceptual experience of an object, generates a dispositional mental state, which has the capacity, when certain other causal factors are present, to trigger an active memory of that object. (The whole process might be likened to that of someone who, having learned to swim, has a dispositional capacity to swim, which they exercise on certain occasions.) The resultant memory state has the same content as the originating perceptual experience, and can be said derivatively to be ‘true’ or ‘false’, depending on whether the original perception was veridical or not. Memory, on this account is represented as an entirely infallible faculty: there is no mention of the possibility of what is called “false memory”, i.e. having memories without any originating experience, or of “faulty memory”, in which the content of the memory does not exactly match that of the originating experience.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一般理论是：最初的认知，例如对某对象的知觉经验，会产生一种倾向性的心理状态；当某些其他因果因素在场时，这种状态便能触发对该对象的现时记忆。（整个过程可比作一个人学会了游泳，因而具有游泳的倾向能力，并在某些场合加以运用。）由此产生的记忆状态与源初知觉经验具有相同内容，并且可以说派生地“真”或“假”，取决于原初知觉是否如实。按这一说明，记忆被描述为一种完全不会出错的官能：既没有提到所谓“虚假记忆”的可能（即没有任何源初经验却有记忆），也没有提到“错误记忆”（即记忆内容与源初经验不完全一致）。
+    step2: |-
+      这套理论大体是说：最初的认知（比如对某物的知觉经验）会留下一种倾向性的心理状态；一旦其他因果条件具备，它就能唤起对该物的现时记忆。（整个机制有点像学会游泳的人：他有了游泳的倾向能力，遇到合适场合便下水。）由此生成的记忆状态与源初知觉经验内容相同；它只是在派生意义上才谈得上“真”或“假”，端看最初那次知觉是否如实。照这样说，记忆成了一种完全不会出错的官能：文本压根没提“虚假记忆”（没有任何源初经验却有记忆），也没提“错误记忆”（记忆内容与源初经验对不上）。
   - id: 117
     kind: body
     source: |-
       Given this account, in which memory is seen merely as reproducing a past knowing experience, there is perhaps a sense in which the memory does not itself count as knowledge, any more than an exact reproduction of a Picasso counts as a Picasso. The Naiyāyikas state that memories lack ‘independence’. The idea, perhaps, is this. In general we establish the veracity of an experience by examining the way in which it was caused (my perception of the table is veridical, because my eyesight is good, the lighting is adequate, etc.). In the case of a memory, however, we must go via the originating experience. Memory is conceived of as a mere surrogate for the original experience, and its veracity is ‘dependent’ on that of the original. We might think, however, that memory in fact does more than merely reproduce the original experience. It may represent the experienced event as happening in the past, and thus have a different content.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按这一说明，记忆不过是在复现过去的认识经验；在这个意义上，记忆本身或许不算知识，正如毕加索画作的精确复制品不算毕加索。正理论师说记忆缺乏“独立性”。其想法或许是：一般说来，我们通过考察经验被引起的方式来确定其真实性（我对桌子的知觉是如实的，因为我的视力好、光线充足等）。但就记忆而言，我们必须经由源初经验。记忆被设想为原初经验的单纯替身，其真实性“依赖于”原初经验的真实性。不过，我们也许可以认为，记忆事实上不止是复现原初经验；它可以把所经验的事件表现为发生在过去，因而具有不同的内容。
+    step2: |-
+      照这套说法，记忆不过是在复现过去那次认知经验；这么说来，记忆本身也许算不上知识——正如一幅毕加索的精确复制品算不上毕加索。正理论师说，记忆缺少“独立性”。其意或许是：通常我们靠检查经验如何被引起来判断它是否真实（我看见桌子，这知觉是如实的，因为视力好、光线足，等等）；可记忆不同，必须绕道源初经验。记忆被看成原初经验的替身，其真实性“依赖”于原初经验。不过我们也可以反过来说：记忆所做的，恐怕不止是复现原初经验——它还能把所经验之事表现成“发生在过去”，内容因而并不相同。
   - id: 118
     kind: body
     source: |-
       ### 5.3 Doubt (*saṃśaya*)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.3 疑（*saṃśaya*）
+    step2: |-
+      ### 5.3 疑（*saṃśaya*）
   - id: 119
     kind: body
     source: |-
       The concept of doubt has an important theoretical role in Nyāya, for a state of doubt is claimed to be a necessary precondition for any philosophical enquiry. Doubt is one of the sixteen topics listed under *Nyāya-sūtra* 1.1.1, which determine the content of the entire text. In particular, a doubt is the first step in a properly formulated inference: is there a fire on the mountain?—Yes, because there is smoke there. *The Manual of Reason* gives a very precise definition of a doubt (TS 71): a cognition of two incompatible qualifiers in the same qualificand, for example the cognition “Is this (dimly perceived or distant object) a person or a tree-stump?” Schematically, then, a doubt is a cognition whose content is of the form “*x* is *F* or not-*F*?”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “疑”这一概念在正理中有重要的理论作用，因为疑的状态被主张为一切哲学探究的必要前提。疑是《逻辑经》1.1.1 所列十六个论题之一，这些论题决定了整部文本的内容。尤其是，疑是规范表述的推理的第一步：山上有火吗？——有，因为那里有烟。《理性手册》给疑下了非常精确的定义（TS 71）：在同一所别中对两个不相容的能别的认知，例如“这（模糊感知到的或远处的对象）是人是树桩？”这一认知。于是，用图式说，疑是一种认知，其内容形式为“*x* 是 *F* 或非 *F*？”。
+    step2: |-
+      “疑”在正理中扮演着重要的理论角色：正理主张，任何哲学探究都以疑的状态为先决条件。疑是《逻辑经》1.1.1 所列举的十六个论题之一，而这些论题框定了全书的范围。尤其是，疑乃是一个规范推理的头一步：山上有没有火？——有，因为那里有烟。《理性手册》对疑的定义极为精确（TS 71）：在同一所别中对两个不相容能别的认知，例如“这（模糊看到或远处的）东西是人还是树桩？”这样一种认知。用图式的话说，疑的内容形如“*x* 是 *F*，抑或不是 *F*？”。
   - id: 120
     kind: body
     source: |-
       Two points are worth noting. (i) Although doubts are classified as non-true (*apramā*) cognitions, they are not false. A false cognition is one whose content is “*x* is *F*” when in fact *x* is not *F*. (ii) Doubts are distinguished from other cognitions by virtue of having a special type of content, rather than by being propositional attitudes of a special kind. The Nyāya do not here say that we can take one of a series of attitudes towards the same proposition, believing, disbelieving, doubting, etc. Yet if the only thing which distinguishes a doubt is its having a content of the form specified in TS 71, then what differentiates the doubt that *x* is *F* from the belief that *x* is both *F* and not-*F*? Vardhamāna replies by drawing a distinction between actually having a contradictory belief and merely believing that one has a contradictory belief. The former is supposedly impossible, the supposedly contradictory belief that *x* is both *F* and not-*F* is really a belief that I have a belief whose qualificand is *x* and whose qualifiers are *F* and not-*F*. Since there are no genuine contradictory beliefs, there are no beliefs with the same content as doubts.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有两点值得注意。(i) 疑虽被归为非真认知（*apramā*），却并非假认知。假认知是那种在事实上 *x* 不是 *F* 时内容为“*x* 是 *F*”的认知。(ii) 疑与其他认知的区分在于它具有一种特殊类型的内容，而不在于它是某种特殊的命题态度。正理在这里并不说，我们可以对同一命题采取一系列态度中的一种：相信、不相信、怀疑，等等。可是，如果区分疑的唯一之处只在于它具有 TS 71 所规定的形式的内容，那么“*x* 是 *F*”之疑与“*x* 既是 *F* 又不是 *F*”之信又有何区别？跋达摩那的回答是区分两种情形：实际持有矛盾的信念，与仅仅相信自己持有矛盾的信念。前者按理不可能；所谓矛盾的信念“*x* 既是 *F* 又不是 *F*”，其实是一个信念，即我相信我有一个以 *x* 为所别、以 *F* 与非 *F* 为能别的信念。既然没有真正的矛盾信念，就没有与疑内容相同的信念。
+    step2: |-
+      两点值得一说。(i) 疑虽归入非真认知（*apramā*），却不是假认知。假认知是：实际上 *x* 不是 *F*，可内容偏偏是“*x* 是 *F*”。(ii) 疑之有别于其他认知，是因为它的内容类型特殊，而不是因为它属于某种特殊的命题态度。正理在这里并没有说，人对同一命题可以采取相信、不信、怀疑等一整套态度中的某一种。可要是疑的唯一标记就是 TS 71 规定的那种内容，那么“*x* 是 *F*”的疑与“*x* 既是 *F* 又不是 *F*”的信，又差在哪里？跋达摩那的办法，是把“真地持有一个矛盾信念”与“只是相信自己持有矛盾信念”分开。前者按理不可能；那个貌似矛盾的信念“*x* 既是 *F* 又不是 *F*”，实际上是一个信念：我相信我有一个信念，其所以别为 *x*，能别为 *F* 与非 *F*。既然根本没有真正的矛盾信念，也就不会有与疑同内容的信念。
   - id: 121
     kind: body
     source: |-
       ### 5.4 *Tarka “*Suppositional Thinking”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.4 *tarka*（假想性思维）
+    step2: |-
+      ### 5.4 *tarka*（假想性思维）
   - id: 122
     kind: body
     source: |-
       The term ‘*tarka’* is often used loosely in the sense of hypothetical or reductio-ad-absurdum reasoning, but *The Manual of Reason* gives it a much more precise and technical sense:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “*tarka*”一词常被宽泛地用于假设性推理或归谬推理之意，但《理性手册》给了一个精确得多、也技术化得多的含义：
+    step2: |-
+      “*tarka*”一词常被随随便便地用来指假设性推理或归谬推理；《理性手册》却赋予它一个远为精确、也远为技术化的含义：
   - id: 123
     kind: body
     source: |-
       > *Tarka* is the ‘ascription’ (*āropa*) of the ‘pervader’ (*vyāpaka*) by the ascription of the ‘pervaded’ (*vyāpya*). For example, ‘if there is no fire, then there is no smoke’(TS 73).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > *Tarka* 是借“所遍充”（*vyāpya*）的赋予而作“能遍充”（*vyāpaka*）的“赋予”（*āropa*）。例如，“若无火，则无烟”（TS 73）。
+    step2: |-
+      > *tarka*，就是通过赋予“所遍充”（*vyāpya*）而赋予“能遍充”（*vyāpaka*）。例如“若无火，则无烟”（TS 73）。
   - id: 124
     kind: body
     source: |-
       The terms in this definition require explanation. The technical sense of ‘ascription’ (*āropa*) is ‘counterfactual or suppositional cognition’ (*āhāryāropa*), defined as a cognition whose qualifier is an property the opposite of which is known to reside in the qualificand. In other words, it is a counterfactual assumption. ‘Pervader’ and ‘pervaded’ are notions taken from the Nyāya theory of inference. When we say that wherever there is smoke, there is fire, this can be re-expressed as that fire pervades smoke, i.e. that the property of being a smoke-possessing-thing has a narrower extension than the property of being a fire-possessing-thing. So here, fire is the pervader and smoke is the pervaded. Thus, *tarka* consists in a cognition of smoke’s absence given the counterfactual assumption that fire is absent. It is the cognition of a conditional “if *p* then *q*”, or “were *p* to be true then *q* would be true”, assuming that ‘*p*’ is false.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一定义中的术语需要解释。“赋予”（*āropa*）的技术含义是“反事实的或假设性的认知”（*āhāryāropa*），其定义是：一种认知，其能别是一种已知其反面居于所别之中的属性。换言之，它是一种反事实假定。“能遍充”与“所遍充”取自正理的推理理论。当我们说凡有烟处即有火时，这可改写为：火遍充烟，即“有烟之物”这一属性的外延窄于“有火之物”这一属性。所以这里火是能遍充，烟是所遍充。于是，*tarka* 就在于：在假定火不存在的反事实条件下，认知到烟的不存在。它是对条件句“若 *p* 则 *q*”或“倘若 *p* 为真，则 *q* 为真”的认知，而其前提是假定“*p*”为假。
+    step2: |-
+      定义里的几个词得解释一下。“赋予”（*āropa*）的专门含义是“反事实认知”或“假设性认知”（*āhāryāropa*）：这种认知的能别，是一个已知其反面居于所别之中的属性。说白了，就是一种反事实的假定。“能遍充”和“所遍充”则借自正理的推理理论。我们说“凡有烟处必有火”，可以改说成“火遍充烟”，也就是“有烟之物”的外延比“有火之物”窄。这里，火是能遍充，烟是所遍充。于是 *tarka* 便是：在反事实地假定火不存在之后，认知到烟也不存在。它是对条件句“若 *p* 则 *q*”（或“倘若 *p* 为真，则 *q* 为真”）的认知，前提是假定“*p*”为假。
   - id: 125
     kind: body
     source: |-
       One main function of *tarka* is said to be the elimination of doubt. Suppose one has the doubt “Is *x* *F*?”. One might then judge “if *x* is not *F* then *x* is not *G*”, and if one also knows that *x* is *G*, it will follow that *x* is *F*. The Naiyāyikas recognise this function but deny nevertheless that *tarka* is a source of knowledge (*pramāṇa*). Their reason, it seems, is that there is a distinction between citing positive empirical evidence for a thesis and merely eliminating the contrary possibility by a priori methods. This is reflected, perhaps, in the fact that no example is cited in arguments based on *tarka* to buttress the inference. *The Manual of Reason*, it seems, goes even further and denies that the counterfactual conditional is a true cognition, which implies, since they are not false either, that counterfactual conditionals do not have a truth-value.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *tarka* 的一项主要功能，据说是消除疑。假设某人有“*x* 是 *F* 吗？”之疑，他或许会判断“若 *x* 不是 *F*，则 *x* 不是 *G*”；若他又知道 *x* 是 *G*，便可推出 *x* 是 *F*。正理论师承认这一功能，却仍然否认 *tarka* 是知识来源（*pramāṇa*）。其理由似乎是：为一个论题举出正面的经验证据，与仅凭先验方法排除相反的可能，二者有别。这一点或许反映在：以 *tarka* 为据的论证中从不举喻例来支撑推论。《理性手册》似乎更进一步，否认反事实条件句是真认知；这意味着（既然它们也不是假认知）反事实条件句没有真值。
+    step2: |-
+      *tarka* 的一大功能，据说是消解疑。假定有人怀疑“*x* 是 *F* 吗？”，他也许判断“若 *x* 不是 *F*，则 *x* 不是 *G*”；要是他又知道 *x* 是 *G*，就可以推出 *x* 是 *F*。正理论师承认这功能，却仍旧不认 *tarka* 为知识来源（*pramāṇa*）。理由似乎是：为某个论题举出正面的经验证据，跟只靠先验方法排除相反的可能，是两回事。这一点也许就体现在：凡以 *tarka* 为据的论证，都不举喻例来支撑推论。《理性手册》似乎还走得更远，连反事实条件句也否认是真认知；既然它们也不假，那就等于说反事实条件句没有真值。
   - id: 126
     kind: body
     source: |-
       Udayana claims that *tarka* is of five types, namely ‘self-dependence’ (*ātmāśraya*), ‘mutual dependence’ (*anyonyāśraya*), ‘circle’ (*cakraka*), ‘infinite regress’ (*anavasthā*), and ‘having an undesirable consequence’ or reductio-ad-absurdum (*aniṣṭāprasaṅga*). These are basically self-explanatory – the fifth, ‘*prasaṅga*’ is the one used to great effect by Nāgārjuna and other Mādhyamika Buddhists. Other authors give slightly different lists (see S. Bagchi 1953 for details)[^bagchi-1953].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      优陀耶那主张 *tarka* 有五类，即“自依”（*ātmāśraya*）、“互依”（*anyonyāśraya*）、“循环”（*cakraka*）、“无穷倒退”（*anavasthā*），以及“有不欲之后果”即归谬（*aniṣṭāprasaṅga*）。这些基本上一目了然——第五种“*prasaṅga*”正是龙树等中观佛教徒大加运用的那一种。其他作者所列略有不同（详见 S. Bagchi 1953）[^bagchi-1953]。
+    step2: |-
+      优陀耶那说 *tarka* 分五类：“自依”（*ātmāśraya*）、“互依”（*anyonyāśraya*）、“循环”（*cakraka*）、“无穷倒退”（*anavasthā*），以及“有不欲之后果”，也就是归谬（*aniṣṭāprasaṅga*）。这五类大体上望文可解；其中第五类 *prasaṅga*，正是龙树和其他中观佛教徒用得出神入化的那一招。别的作者开列的清单略有出入（详见 S. Bagchi 1953）[^bagchi-1953]。
   - id: 127
     kind: body
     source: |-
