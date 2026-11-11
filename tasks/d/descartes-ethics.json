@@ -2,7 +2,7 @@
   "slug": "descartes-ethics",
   "kind": "retranslate",
   "zh_doc": "d/descartes-ethics.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "D-main-20261112",
       "at": "2026-11-11T16:10:35Z",
       "evidence": "独立复核二（术语与人名）：术语核对——临时道德法典/至善/至福（béatitude）/满足（contentement）/真正的慷慨/德性的谦卑/漠然（indifference）/动物精气/松果腺 与正文一致，无需新增册行。人名核对：勒内·笛卡尔/普法尔茨的伊丽莎白公主/沙尼/梅森/布尔曼/塞涅卡/马基雅维利/蒙田/奥维德/阿尔诺/路德/汉尼拔/克里斯蒂娜/吉尔松/马里翁/沙皮罗 在册；本批补登 Gueroult, Martial=马夏尔·盖鲁（1913 引注处正文用汉名而册缺行）；Voetius 已按册内主形沃埃修斯（27 处通行）；Verbeek/Rodis-Lewis/Marshall/Cottingham/Renault 等仅见于引注或书目，依 ADR-0022/照录不改。相关词条 7 条（勒内·笛卡尔/笛卡尔的生平及著作/笛卡尔的方法/普法尔茨的伊丽莎白公主/伊壁鸠鲁/德性伦理学/斯多葛主义）对 SUMMARY 定名复核无误。prose 63 条沿用 s2 分类豁免（40 学术史定语 de-chain、23 引文密集长句），未新增"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "D-main-20261112",
+      "at": "2026-11-11T16:22:07Z",
+      "evidence": "独立复核三（终稿）：check_style 0 issue、check_academic --strict 0 硬错误、check_math 0/0、check_prose 63 沿用 s2 豁免、check_summary HARD 0；五维终跑 标题 7/0、marker 75:75 键序全等、defs 88:88 键集全等、段落 81:80（byline 豁免）、图 0:0、缩写键 0:0、尾节子标题 2:2、照录行 8:8；脚注节 note-nd 内容注译出、书目 87 条照录；学术工具四行齐备；H1 与 SUMMARY/mu-lu-s 三方定名一致"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "D-main-20261112",
+      "at": "2026-11-11T16:24:51Z",
+      "evidence": "全周期完成（九步齐备）：r1 全文回读修 epiphysis 误译（骶体→松果体）、Voetius 括注、空格与 pubinfo 体例，补源文两子标题、H1 撇号形并同步索引；r2 登记 Gueroult=盖鲁、术语人名核销；r3 四检全绿；译文入库 d/descartes-ethics.md"
     }
   ],
   "blockers": [],
