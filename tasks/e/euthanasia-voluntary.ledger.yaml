@@ -1,0 +1,569 @@
+version: 1
+slug: euthanasia-voluntary
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      The entry sets out five conditions often said to be necessary for anyone to be a candidate for legalized voluntary euthanasia (and, with appropriate qualifications, physician-assisted suicide), outlines the moral case advanced by those in favor of legalizing voluntary euthanasia, and discusses the five most important objections made by those who deny that voluntary euthanasia is morally permissible and who are, in consequence, opposed to its being legalized.
+    step1: |-
+      本词条列出五项条件，人们常说，任何人若要有资格成为自愿安乐死（以及在适当限定下，医师协助自杀）的合法化候选对象，就必须满足这些条件；继而概述支持自愿安乐死合法化者所提出的道德理由，并讨论反对者——即否认自愿安乐死道德上可允许、因而反对其合法化的人——所提出的五项最重要的反驳。
+    step2: |-
+      本词条列出五项条件。人们常说，任何人若要有资格成为自愿安乐死（以及在适当限定下的医师协助自杀）合法化的候选对象，就必须满足这五项条件。词条继而概述支持自愿安乐死合法化者提出的道德理由，并讨论反对者最重要的五项反驳——反对者否认自愿安乐死道德上可允许，因而反对将其合法化。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Introduction
+    step1: |-
+      ## 1 导论
+    step2: |-
+      ## 1 导论
+  - id: 3
+    kind: body
+    source: |-
+      When a person performs an act of euthanasia, she brings about the death of another person because she believes the latter’s present existence is so bad that he would be better off dead, or believes that unless she intervenes and ends his life, his life will very soon become so bad that he would be better off dead. Accordingly, the motive of the person who performs an act of euthanasia is to benefit the one whose death is brought about. (This also holds for many instances of physician-assisted suicide, but use of the latter term is usually restricted to forms of assistance which stop short of the physician ‘bringing about the death’ of the patient, for example, those involving means that have to be activated by the patient.)
+    step1: |-
+      当一个人实施安乐死行为时，她促成另一个人的死亡，因为她相信后者当下的存在状况坏到死了反而更好，或者相信除非她介入并结束其生命，他的生活很快就会坏到死了反而更好。因此，实施安乐死行为者的动机，是使被致死的一方受益。（对许多医师协助自杀的实例而言，这一点同样成立；但“医师协助自杀”一词通常只限于某种协助形式：医生并不“促成”病人死亡，例如所用手法须由病人自己启动。）
+    step2: |-
+      一个人实施安乐死行为时，是在促成另一个人的死亡。她之所以这样做，是因为相信后者当下的存在状况坏到死了反而更好；或者相信，除非她介入并结束其生命，他的生活很快就会坏到死了反而更好。可见，实施安乐死者的动机是让被致死的一方受益。（许多医师协助自杀的实例同样如此。不过“医师协助自杀”一词通常只限于一类协助：医生并不“促成”病人死亡，例如所用手法须由病人自己启动。）
+  - id: 4
+    kind: body
+    source: |-
+      It is important to emphasize the motive of benefiting the person who is assisted to die because well-being is a key value in relation to the morality of euthanasia (see Section 3 below). Nonetheless, the defensibility of the contention that someone can be better off dead has been the subject of extensive philosophical deliberation. Those who claim that a person can be better off dead believe this to be true when the life that remains in prospect for that person has no positive value for her (a possibility which is discussed by e.g., Foot, 1977; McMahan 2002; Bradley 2009)[^bradley-2009][^mcmahan-2002], whereas some of those who hold that a person’s life is inviolable deny that a person can ever be better off dead (e.g., Keown in Jackson and Keown 2012)[^jackson-2012]. A Kant-inspired variant on this latter position has been advanced by Velleman (1999). He considers that a person’s well-being can only matter if she is of intrinsic value and so that it is impermissible to violate a person’s rational nature (the source of her intrinsic value) for the sake of her well-being. Accordingly, he holds that it is impermissible to assist someone to die who judges that she would be better off dead and competently requests assistance with dying. The only exception is when a person’s life is so degraded as to call into question her rational nature, albeit he thinks it unlikely that anyone in that position will remain competent to request assistance with dying. This position appears to be at odds with the well-established right of a competent patient to refuse life-prolonging medical treatment, at least when further treatment is refused because she considers that her life no longer has value for her and further treatment will not restore its value to her. (For further reasons to reject arguments for the inviolability of the life of a person, including Velleman’s, see e.g., McMahan 2002; Young 2007; Sumner 2011, 2017.)[^mcmahan-2002][^sumner-2011][^young-2007]
+    step1: |-
+      强调使被协助死亡者受益这一动机，十分重要，因为福祉是关乎安乐死道德性的核心价值（见下文第 3 节）。不过，“某人死了反而更好”这一主张是否站得住，一直是哲学上广泛讨论的题目。主张人可能死了反而更好的人认为，当一个人余生对她已无正面价值时，这话便成立（此可能性的讨论见 Foot 1977；McMahan 2002；Bradley 2009）[^bradley-2009][^mcmahan-2002]；而某些认为人的生命不可侵犯者，则否认人可能死了反而更好（如 Jackson 与 Keown 2012 中的 Keown）[^jackson-2012]。Velleman（1999）提出后一立场的一种康德式变体。他认为，一个人的福祉只有在她具有内在价值时才重要，因此不得为她的福祉而侵犯她的理性本性（其内在价值之源）。据此他主张：即使某人判断自己死了反而更好，并胜任地请求协助死亡，仍不允许协助其死亡。唯一的例外是，当一个人的生命已贬损到令人怀疑其理性本性的地步——不过他相信，处于这种境况者不大可能仍有能力请求协助死亡。这一立场似乎与一项既定权利相冲突：有行为能力的病人有权拒绝延长生命的医疗，至少在拒绝的理由是她认为自己的生命已无价值、而继续治疗也不会恢复其价值时。（关于拒斥“人的生命不可侵犯”诸论证的更多理由，包括 Velleman 的论证，见 McMahan 2002；Young 2007；Sumner 2011, 2017。）[^mcmahan-2002][^sumner-2011][^young-2007]
+    step2: |-
+      须强调使被协助死亡者受益这一动机，因为福祉是关乎安乐死道德性的核心价值（见下文第 3 节）。然而，“某人死了反而更好”这一主张是否站得住，哲学上讨论甚多。认为人可能死了反而更好的人主张：当一个人余生对她已无正面价值时，这话便成立（此可能性的讨论见 Foot 1977、McMahan 2002、Bradley 2009）[^bradley-2009][^mcmahan-2002]。另一些认为人的生命不可侵犯者，则否认人可能死了反而更好（如 Jackson 与 Keown 2012 中的 Keown）[^jackson-2012]。Velleman（1999）为后一立场提出一种康德式变体：一个人的福祉只有在她具有内在价值时才重要，故不得为她的福祉而侵犯她的理性本性——那是她内在价值之源。据此他主张，即便某人判断自己死了反而更好，并胜任地请求协助死亡，仍不允许协助其死亡。唯一例外，是当一个人的生命已贬损到令人怀疑其理性本性的地步；不过他相信，处于这种境况者不大可能仍有能力请求协助死亡。这一立场似乎与一项既定权利相冲突：有行为能力的病人有权拒绝延长生命之医疗，至少在拒绝理由是她认为生命已无价值、继续治疗也不会恢复其价值时。（关于拒斥“人的生命不可侵犯”诸论证的更多理由，包括 Velleman 的论证，见 McMahan 2002、Young 2007、Sumner 2011, 2017。）[^mcmahan-2002][^sumner-2011][^young-2007]
+  - id: 5
+    kind: body
+    source: |-
+      Because our concern will be with *voluntary* euthanasia – that is, with those instances of euthanasia in which a clearly competent person makes a voluntary and enduring request to be helped to die (or, by extension, when an authorised proxy makes a substituted judgment by choosing in the manner the no-longer-competent person would have chosen had he remained competent) – a second key value is the competence of the person requesting assistance with dying. There will be occasion to mention *non-voluntary euthanasia* – instances of euthanasia where a person lacks the competence at the time when a decision is to be made to request euthanasia and has not previously competently declared a preference for it via an advance directive (see the entry on advance directives) – only when consideration is given to the claim that permitting voluntary euthanasia will lead via a slippery slope to permitting non-voluntary euthanasia. Nothing will be said here about *involuntary euthanasia*, where a competent person’s life is brought to an end despite an explicit expression of opposition to euthanasia, beyond saying that, no matter how honorable the perpetrator’s motive, such a death is, and ought to be, unlawful.
+    step1: |-
+      由于我们关心的是 *自愿* 安乐死——即在安乐死实例中，一个明显有行为能力的人自愿而持续地请求协助死亡（或延伸地说，由获授权的代理人以替代判断的方式作出选择，其选择方式恰是那个已失去行为能力者若仍具能力时会作出的）——第二个核心价值便是请求协助死亡者的行为能力。*非自愿安乐死* 只在一种情况下会提到：即有人主张，允许自愿安乐死将沿滑坡导致允许非自愿安乐死。所谓非自愿安乐死，指一个人在应决定是否请求安乐死之时缺乏行为能力，且此前未通过预先指示胜任地声明过此意愿（见“预先指示”词条）。至于 *不自愿安乐死*——一个有行为能力者的生命在其明确表示反对安乐死的情况下被终结——此处除一句说明外不再多谈：无论实施者动机多么可敬，这样的死亡都是、也应当是违法的。
+    step2: |-
+      我们关心的是 **自愿** 安乐死：在这类实例中，一个明显有行为能力的人自愿而持续地请求协助死亡；延伸地说，也包括由获授权的代理人作替代判断——依据那个已失去行为能力者若仍具能力时本会如何选择。因此，第二个核心价值是请求协助死亡者的行为能力。**非自愿安乐死** 只在一种语境里会被提到：有人主张，允许自愿安乐死将沿滑坡导致允许非自愿安乐死。所谓非自愿安乐死，指一个人在应决定是否请求安乐死之时缺乏行为能力，且此前未通过预先指示胜任地声明过此意愿（见“预先指示”词条）。至于 **不自愿安乐死**——有行为能力者的生命在其明确反对安乐死的情况下被终结——此处只补一句：无论实施者动机多么可敬，这样的死亡都是、也应当是违法的。
+  - id: 6
+    kind: body
+    source: |-
+      Debate about the morality and legality of voluntary euthanasia has been, for the most part, a phenomenon of the second half of the twentieth century and the beginning of the twenty first century. Certainly, the ancient Greeks and Romans did not believe that life needed to be preserved at any cost and were, in consequence, tolerant of suicide when no relief could be offered to a dying person or, in the case of the Stoics and Epicureans, when a person no longer cared for his life. In the sixteenth century, Thomas More, in describing a utopian community, envisaged such a community as one that would facilitate the death of those whose lives had become burdensome as a result of ‘torturing and lingering pain’. But it has only been in the last hundred years that there have been concerted efforts to make legal provision for voluntary euthanasia. Until quite recently there had been no success in obtaining such legal provision (though assisted suicide, including, but not limited to, physician-assisted suicide, has been legally tolerated in Switzerland for a number of decades). However, the outlook changed dramatically in the 1970s and 80s because of a series of court cases in the Netherlands which culminated in an agreement between the legal and medical authorities to ensure that no physician would be prosecuted for assisting a patient to die as long as certain guidelines were strictly adhered to (see Griffiths, et al., 1998). In brief, the guidelines were established to permit physicians to practise voluntary euthanasia in those instances in which a competent patient had made a voluntary and informed request to be helped to die, the patient’s suffering was unbearable, there was no way of making that suffering bearable that was acceptable to the patient, and the physician’s judgements as to diagnosis and prognosis were confirmed after consultation with another physician.
+    step1: |-
+      关于自愿安乐死之道德性与合法性的争论，多半是 20 世纪后半叶与 21 世纪初的现象。古希腊人与罗马人当然并不认为生命须不惜一切代价加以保全，因此，当临终者已无可缓解之苦，或在斯多亚派与伊壁鸠鲁派看来当一个人已不再在意自己的生命时，他们对自杀是宽容的。16 世纪，托马斯·莫尔在描述一个乌托邦共同体时设想，这样的共同体应协助那些因“折磨人的、拖延的痛苦”而生命成为负担者死去。但只有在过去一百年里，人们才协力争取为自愿安乐死作出法律规定。直到相当晚近，这类法律保障的争取都未成功（不过，协助自杀——包括但不限于医师协助自杀——在瑞士已被法律容许数十年）。然而，1970 与 80 年代，一系列荷兰法院案件使局面大变，最终法律与医学当局达成协议：只要严格遵守某些准则，医生协助病人死亡便不受起诉（见 Griffiths, et al., 1998）。简言之，这些准则允许医生在下列情形下施行自愿安乐死：有行为能力的病人已自愿且在知情下请求协助死亡；病人的痛苦无法忍受；没有病人可接受的缓解办法；且医生关于诊断与预后的判断经与另一位医生会诊后得到确认。
+    step2: |-
+      自愿安乐死在道德与法律上的争论，多半是 20 世纪后半叶至 21 世纪初的现象。古希腊人与罗马人并不认为生命须不惜一切代价保全，故对自杀颇为宽容：临终者已无可缓解之苦时如此；在斯多亚派与伊壁鸠鲁派看来，一个人不再在意自己的生命时亦如此。16 世纪，托马斯·莫尔描述乌托邦共同体时设想，这样的共同体应协助那些因“折磨人的、拖延的痛苦”而生命成为负担者死去。但协力争取为自愿安乐死立法，只是近百年之事；直到相当晚近，这类立法努力都未成功（协助自杀——含但不限于医师协助自杀——在瑞士获法律容许已数十年）。1970 与 80 年代，局面因一系列荷兰法院案件而大变。最终法律与医学当局达成协议：只要严格遵守某些准则，医生协助病人死亡便不受起诉（见 Griffiths, et al., 1998）。简言之，这些准则允许医生施行自愿安乐死，条件是：有行为能力的病人已自愿且在知情下请求协助死亡；病人的痛苦无法忍受；没有病人可接受的缓解办法；医生关于诊断与预后的判断经与另一位医生会诊后得到确认。
+  - id: 7
+    kind: body
+    source: |-
+      The first legislative approval for voluntary euthanasia was achieved with the passage in the parliament of Australia’s Northern Territory of a bill enabling physicians to practise voluntary euthanasia. Subsequent to the Act’s proclamation in 1996, it faced a series of legal challenges from opponents of voluntary euthanasia. In 1997 the challenges culminated in the Australian National (or, Federal) Parliament overturning the legislation when it prohibited Australian territories from enacting legislation to permit voluntary euthanasia on constitutional grounds. Australia is a federation consisting of six states and two territories. Unlike the territories, the states do have the constitutional right to enact such legislation and in 2017 the state of Victoria did just that. The legislation came into effect in 2019. In 2019, a second state, Western Australia, enacted legislation to enable voluntary medically assisted death. The legislation became effective in 2021. In 2021 three further states, Tasmania, South Australia and Queensland enacted legislation to enable voluntary medically assisted death which came into force in 2022 for the first two, and 2023 for the third. Finally, in 2022 NSW enacted legislation which came into force in 2023 resulting in voluntary medically assisted death being available in each of the states. Both the Australian Capital Territory (ACT) and the Northern Territory (NT) have recently passed legislation in favor of voluntary medically assisted death and been given assurances that the legislation will not be vetoed by the Federal parliament. The ACT legislation is already operational, whereas the NT legislation will come into effect in early 2028.
+    step1: |-
+      第一次立法批准自愿安乐死，是澳大利亚北领地议会通过一项法案，使医生得以施行自愿安乐死。该法 1996 年颁布后，遭到反对者一系列法律挑战。1997 年，挑战以澳大利亚联邦议会推翻该法告终：联邦议会以宪法理由禁止各领地就允许自愿安乐死立法。澳大利亚是联邦制国家，由六个州与两个领地组成。与领地不同，各州确有宪法权利制定此类法律；2017 年维多利亚州便这样做了，法律于 2019 年生效。2019 年，第二个州西澳大利亚州立法允许自愿医学协助死亡，法律 2021 年生效。2021 年又有三个州——塔斯马尼亚、南澳大利亚与昆士兰——立法允许自愿医学协助死亡，前两州的法律 2022 年生效，昆士兰的 2023 年生效。最后，新南威尔士州 2022 年立法、2023 年生效，于是各州均可获得自愿医学协助死亡。首都领地与北领地近来也通过了支持自愿医学协助死亡的法律，并获得保证：联邦议会不会否决。首都领地的法律已实施，北领地的法律将于 2028 年初生效。
+    step2: |-
+      自愿安乐死首次获得立法批准，是澳大利亚北领地议会通过法案，允许医生施行自愿安乐死。该法 1996 年颁布后，反对者提起一系列法律挑战。1997 年，联邦议会推翻该法，挑战至此告终：联邦议会以宪法理由禁止各领地就允许自愿安乐死立法。澳大利亚是联邦制国家，有六个州、两个领地。与领地不同，各州确有宪法权利制定此类法律；2017 年维多利亚州即如此行事，法律于 2019 年生效。2019 年，第二个州西澳大利亚州立法允许自愿医学协助死亡，2021 年生效。2021 年又有三州立法——塔斯马尼亚、南澳大利亚、昆士兰：前两州的法律 2022 年生效，昆士兰的 2023 年生效。最后，新南威尔士州 2022 年立法、2023 年生效，至此各州均可获得自愿医学协助死亡。首都领地与北领地近来也通过了支持自愿医学协助死亡的法律，并获保证联邦议会不予否决：首都领地的法律已实施，北领地的将于 2028 年初生效。
+  - id: 8
+    kind: body
+    source: |-
+      In November 2000, the Netherlands passed legislation to legalize the practice of voluntary euthanasia. The legislation passed through all the parliamentary stages early in 2001. The Belgian parliament passed similar legislation in 2002 and Luxembourg followed suit in 2009. (For a very helpful comparative study of relevant legislation see Lewis 2007. See also Griffiths, et al. 2008.)[^lewis-2007]
+    step1: |-
+      2000 年 11 月，荷兰通过立法使自愿安乐死的实施合法化。该法于 2001 年初走完议会各阶段。比利时议会 2002 年通过类似立法，卢森堡 2009 年随之。（关于相关立法极有帮助的比较研究，见 Lewis 2007；另见 Griffiths, et al. 2008。）[^lewis-2007]
+    step2: |-
+      2000 年 11 月，荷兰立法使自愿安乐死的实施合法化，该法于 2001 年初走完议会各阶段。比利时议会 2002 年通过类似法律，卢森堡 2009 年跟进。（相关立法的比较研究极有参考价值，见 Lewis 2007；另见 Griffiths, et al. 2008。）[^lewis-2007]
+  - id: 9
+    kind: body
+    source: |-
+      In Oregon in the United States, legislation was introduced in 1997 to permit physician-assisted suicide after a referendum strongly endorsed the proposed legislation. Later in 1997 the Supreme Court of the United States ruled that there is no constitutional right to physician-assisted suicide; however, the Court did not preclude individual states from legislating in favor of physician-assisted suicide (so the Oregon legislation was unaffected). Since that time the Oregon legislation has been successfully utilised by a significant number of people and similar legislation has been passed in the state of Washington in 2009, in Vermont in 2013, and more recently still in California, Colorado, Florida, Hawaii, Illinois, Iowa, Maine, Maryland, Massachusetts, Minnesota, New Jersey, New Mexico, New York and the District of Columbia. A series of judicial decisions in the state of Montana in 2008 and 2009 established that the state could not prohibit physician-assisted suicide but legislation has not yet been introduced to codify the legal situation. A number of the remaining states are currently considering physician-assisted suicide bills.
+    step1: |-
+      在美国俄勒冈州，1997 年提出立法允许医师协助自杀，此前公民投票强烈支持该提案。1997 年稍后，美国最高法院裁定不存在获得医师协助自杀的宪法权利；但法院并未禁止各州自行立法支持医师协助自杀（故俄勒冈州的法律不受影响）。此后，俄勒冈州法律已被相当多的人成功运用；华盛顿州 2009 年、佛蒙特州 2013 年通过了类似法律，更晚近则有加利福尼亚、科罗拉多、佛罗里达、夏威夷、伊利诺伊、艾奥瓦、缅因、马里兰、马萨诸塞、明尼苏达、新泽西、新墨西哥、纽约诸州及哥伦比亚特区。蒙大拿州 2008 与 2009 年的一系列司法判决确立：该州不得禁止医师协助自杀；但尚未提出立法把这些法律状况成文化。其余若干州正在审议医师协助自杀法案。
+    step2: |-
+      美国俄勒冈州 1997 年提出立法允许医师协助自杀，此前公民投票强烈支持该提案。1997 年稍后，美国最高法院裁定：获得医师协助自杀并无宪法权利；但法院未禁止各州自行立法支持医师协助自杀，故俄勒冈州的法律不受影响。此后该法已被相当多的人成功运用。华盛顿州 2009 年、佛蒙特州 2013 年通过类似法律；更晚近则有加利福尼亚、科罗拉多、佛罗里达、夏威夷、伊利诺伊、艾奥瓦、缅因、马里兰、马萨诸塞、明尼苏达、新泽西、新墨西哥、纽约等州及哥伦比亚特区。蒙大拿州 2008、2009 年的一系列司法判决确立：该州不得禁止医师协助自杀；但尚无立法把这一法律状况成文化。其余若干州正在审议医师协助自杀法案。
+  - id: 10
+    kind: body
+    source: |-
+      A similar legal position to that in Montana obtained in the nation of Colombia from the late 1990s as a result of a majority ruling by its Constitutional Court in favor of the legality of physician-assisted suicide but legislative provision was finally made only quite recently. In 2021, Spain legalized voluntary euthanasia. In Austria, Germany, and South Africa courts have authorised physician-assisted suicide but no legislative backing for the practice has been introduced. Legislation for voluntary medically assisted death in Italy has been passed in one house of the bicameral parliament, while in Portugal legislation for physician-assisted suicide is awaiting Presidential approval.
+    step1: |-
+      哥伦比亚自 1990 年代后期起，法律状况与蒙大拿州类似：其宪法法院以多数裁决支持医师协助自杀合法，但直到相当晚近才作出立法规定。2021 年，西班牙使自愿安乐死合法化。在奥地利、德国与南非，法院已授权医师协助自杀，但尚无立法支持。意大利两院制议会的一院已通过自愿医学协助死亡立法；葡萄牙的医师协助自杀立法则待总统批准。
+    step2: |-
+      哥伦比亚自 1990 年代后期的法律状况与蒙大拿州相似：宪法法院以多数裁决支持医师协助自杀合法，但立法规定直到相当晚近才作出。2021 年，西班牙使自愿安乐死合法化。奥地利、德国与南非的法院已授权医师协助自杀，却尚无立法支撑。意大利两院制议会的一院已通过自愿医学协助死亡立法；葡萄牙的医师协助自杀立法则待总统批准。
+  - id: 11
+    kind: body
+    source: |-
+      In Canada, the province of Quebec introduced legislation permitting medical aid in dying in 2014. The legislation came into effect in 2016 at around the same time that the Canadian National Parliament passed legislation permitting both physician-assisted suicide and voluntary euthanasia throughout all of the Canadian federation. (For a brief account of events leading up to the enactment of the various pieces of legislation in Canada see Downie and Schuklenk 2021.)[^downie-2021]
+    step1: |-
+      在加拿大，魁北克省 2014 年提出立法允许医学协助死亡，该法 2016 年生效，时间约与加拿大联邦议会通过立法允许医师协助自杀与自愿安乐死相仿——后者适用于整个加拿大联邦。（关于加拿大各项立法出台前事件的简要叙述，见 Downie and Schuklenk 2021。）[^downie-2021]
+    step2: |-
+      加拿大魁北克省 2014 年提出立法，允许医学协助死亡，该法 2016 年生效。几乎同时，加拿大联邦议会通过立法，允许医师协助自杀与自愿安乐死，适用于整个联邦。（加拿大各项立法出台前的事件，Downie and Schuklenk 2021 有简要叙述。）[^downie-2021]
+  - id: 12
+    kind: body
+    source: |-
+      New Zealand held a referendum in 2019 which resulted in approval for the introduction of legislation for voluntary medically assisted death. The legislation came into effect late in 2021.
+    step1: |-
+      新西兰 2019 年举行公民投票，结果批准引入自愿医学协助死亡立法。该法于 2021 年末生效。
+    step2: |-
+      新西兰 2019 年举行公民投票，批准引入自愿医学协助死亡立法，该法于 2021 年末生效。
+  - id: 13
+    kind: body
+    source: |-
+      In the following countries legislative proposals for voluntary medically assisted death are presently under review: the Czech Republic, France, Ireland, the Isle of Man, Japan, Jersey, South Korea, the Philippines, Slovenia and the United Kingdom.
+    step1: |-
+      下列国家的自愿医学协助死亡立法提案目前正在审议：捷克、法国、爱尔兰、马恩岛、日本、泽西、韩国、菲律宾、斯洛文尼亚与英国。
+    step2: |-
+      下列国家的自愿医学协助死亡立法提案正在审议：捷克、法国、爱尔兰、马恩岛、日本、泽西、韩国、菲律宾、斯洛文尼亚与英国。
+  - id: 14
+    kind: body
+    source: |-
+      With that brief sketch of the historical background in place, we will proceed first to consider the conditions that those who have advocated making voluntary medically assisted death legally permissible have typically insisted should be satisfied. Consideration of the proposed conditions will establish a framework for the moral interrogation that will follow in Sections 3 and 4. Section 3 will outline the positive moral case put forward by those who want voluntary euthanasia and physician-assisted suicide to be legally permissible. Section 4 will be devoted to scrutinising the most important of the objections that have been levelled against that case by those opposed to the legalization of voluntary euthanasia and physician-assisted suicide.
+    step1: |-
+      有了这一简要的历史背景，我们先考察那些主张使自愿医学协助死亡合法化的人通常坚持应满足的条件。对这些拟议条件的考察，将为第 3、4 节的道德追问搭起框架。第 3 节概述希望自愿安乐死与医师协助自杀合法化者提出的正面道德理由。第 4 节则专门审视反对者针对该理由提出的最重要反驳。
+    step2: |-
+      历史背景既已勾勒，我们先看主张使自愿医学协助死亡合法化者通常坚持应满足哪些条件。对这些拟议条件的考察，将为第 3、4 节的道德追问搭起框架：第 3 节概述希望自愿安乐死与医师协助自杀合法化者提出的正面道德理由；第 4 节审视反对者针对该理由提出的最重要反驳。
+  - id: 15
+    kind: body
+    source: |-
+      ## 2. Five Conditions Often Proposed as Necessary for Candidacy for Voluntary Euthanasia
+    step1: |-
+      ## 2. Five Conditions Often Proposed as Necessary for Candidacy for Voluntary Euthanasia
+    step2: |-
+      ## 2 常被提议作为自愿安乐死候选资格必要条件的五项条件
+  - id: 16
+    kind: body
+    source: |-
+      Advocates of voluntary euthanasia typically contend that if a person
+    step1: |-
+      自愿安乐死的倡导者通常主张，如果一个人：
+    step2: |-
+      自愿安乐死的倡导者通常主张：一个人若满足下列条件，便应有法律与医疗上的安排，使她得以被允许死亡或获协助死亡——
+  - id: 17
+    kind: body
+    source: |-
+      1. is suffering from a terminal illness;
+      2. is unlikely to benefit from the discovery of a cure for that illness during what remains of her life expectancy;
+      3. is, as a direct result of the illness, either suffering intolerable pain, or only has available a life that is unacceptably burdensome (e.g., because the illness has to be treated in ways that lead to her being unacceptably dependent on others or on technological means of life support);
+      4. has an enduring, voluntary and competent wish to die (or has, prior to losing the competence to do so, expressed a wish to be assisted to die in the event that conditions (a)-(c) are satisfied); and
+      5. is unable without assistance to end her life,
+    step1: |-
+      1. 患有绝症；
+      2. 在其余生中，该病被发现治愈办法而使其受益的可能性不大；
+      3. 因该病直接导致：或承受无法忍受的疼痛，或仅剩一种不可接受的负累生活（例如，该病须以使其不可接受地依赖他人或依赖技术性生命维持手段的方式治疗）；
+      4. 有持久、自愿且有行为能力的求死意愿（或在此前失去行为能力时，已表达过若条件 1–3 满足便愿获协助死亡的意愿）；且
+      5. 在没有协助的情况下无法结束自己的生命，
+    step2: |-
+      1. 患有绝症；
+      2. 在其余生中，该病不大可能因发现治愈办法而使其受益；
+      3. 因该病直接导致两种情形之一：承受无法忍受的疼痛，或只剩不可接受的负累生活（例如，该病须以使其不可接受地依赖他人或技术性生命维持的方式治疗）；
+      4. 怀有持久、自愿且有行为能力的求死意愿（或在此前尚有能力时，已表示若条件 1–3 满足便愿获协助死亡）；且
+      5. 无他人协助便无法结束自己的生命，
+  - id: 18
+    kind: body
+    source: |-
+      there should be legal and medical provision to facilitate her being allowed to die or assisted to die.
+    step1: |-
+      便应有法律与医疗上的安排，使她得以被允许死亡或获协助死亡。
+    step2: |-
+      上述五项若齐备，便应有法律与医疗上的安排。
+  - id: 19
+    kind: body
+    source: |-
+      It should be acknowledged that these conditions are quite restrictive, indeed more restrictive than many think appropriate. In particular, the first condition restricts access to voluntary euthanasia to those who are *terminally ill*. While that expression is not free of all ambiguity, for present purposes it can be agreed that it does not include those who are rendered quadriplegic as a result of accidents, or sufferers from chronic diseases, or individuals who succumb to forms of dementia like Alzheimer’s Disease, to say nothing of those afflicted by ‘existential suffering’. Those who consider that cases like these show the first condition to be too restrictive (e.g., Varelius 2014, Braun, 2023)[^varelius-2014] may, nonetheless, agree that including them as candidates for legalized voluntary euthanasia is likely to make it far harder in many jurisdictions to gain sufficient support for legalization (and so to make it harder to help those terminally ill persons who wish to die). Even so, they believe that voluntary euthanasia should be permitted for those who consider their lives no longer worth living, not just for for the terminally ill. Whether those who judge that their lives are no longer worth living, and so believe their lives are in that sense ‘complete’, should be afforded medical assistance with dying, has recently become a pressing concern in Belgium and the Netherlands. Several court cases have affirmed that such assistance may sometimes be provided for individuals in the former category even though the question remains as to whether it is properly a medical responsibility to render assistance with dying to someone who believes her life is complete despite her not suffering from a terminal medical condition (see, e.g., Young 2017)[^young-2017]. Relatedly, the issues of whether those suffering from a disability which will not reasonably foreseeably lead to death and those suffering because of a mental illness should be able to access medical assistance with dying have recently been the subject of intense debate in Canada. The debate culminated in disabled individuals, whose conditions are the cause of enduring, intolerable and irremediable suffering, being given access to medical assistance with dying as long as they are capable of making a competent request for that assistance. An intention to make a similar arrangement for those whose sole underlying condition is a mental illness was flagged for introduction in 2024, but has been temporarily shelved until further research has been conducted on the issue. It seems likely that the changes that have been made, or mooted, in these jurisdictions to the eligibility conditions for medical assistance with dying will lead to an expansion of the eligibility conditions for voluntary medically assisted death in other jurisdictions.
+    step1: |-
+      应当承认，这些条件相当严格，比许多人认为适当的程度更严。尤其是第一项条件把自愿安乐死的可及范围限于 *身患绝症* 者。这一表述虽非全无歧义，但就目前目的而言，可以同意它不包括因事故而四肢瘫痪者、慢性病患者，或因阿尔茨海默病之类痴呆症而衰竭者，更不必说受“存在性痛苦”折磨者。认为这类病例表明第一项条件过严的人（如 Varelius 2014；Braun 2023）[^varelius-2014]，仍可能同意：把他们纳入合法化自愿安乐死的候选范围，很可能使许多法域更难为合法化争取足够支持（因而更难帮助那些求死的绝症患者）。即便如此，他们仍认为，自愿安乐死应不仅允许绝症患者，也应允许自认生命已不值得过下去的人。那些判定自己生命已不值得过下去、因而认为生命在此意义上“圆满”的人，是否应获得医学上的死亡协助，近来在比利时与荷兰已成为紧迫议题。若干法院案件确认，这类人有时可以获得此种协助；但问题仍在于：对于一个并不患绝症却认为生命已圆满的人，给予死亡协助是否本当属于医学职责（见如 Young 2017）[^young-2017]。与此相关，那些患有不会合理预见致死的失能者、以及因精神疾病而受苦者是否应能获得医学死亡协助，近来在加拿大争论激烈。争论的结果是：其状况造成持久、无法忍受且不可补救之苦的失能者，只要有能力胜任地提出请求，便可获得医学死亡协助。对于唯一根本状况是精神疾病者作类似安排，原定 2024 年引入，但已暂缓，以待进一步研究。这些法域对医学死亡协助资格条件所作或拟作的改变，很可能导致其他法域的自愿医学协助死亡资格条件随之扩张。
+    step2: |-
+      应当承认，这些条件相当严格，比许多人认为适当的程度更严。第一项条件尤其把自愿安乐死的可及范围限于 **身患绝症** 者。这一表述固然不无歧义，但就目前目的而言，可以同意它不包括因事故四肢瘫痪者、慢性病患者，也不包括阿尔茨海默病之类痴呆症的罹患者。更不必说受“存在性痛苦”折磨者。认为这类病例表明第一项条件过严的人（如 Varelius 2014、Braun 2023）[^varelius-2014] 也可能同意一点：把他们纳入合法化自愿安乐死的候选范围，很可能使许多法域更难为合法化争取足够支持。这自然也更难帮助那些求死的绝症患者。即便如此，他们仍主张：自愿安乐死不该只对绝症患者开放，凡自认生命已不值得过下去者都应被允许。这类人判定生命已不值得过下去，因而认为生命在此意义上“圆满”。他们是否应获得医学上的死亡协助，近来在比利时与荷兰已成紧迫议题。若干法院案件确认，此类协助有时可以提供给这类人；但仍存疑问：对于不患绝症却认为生命已圆满者，给予死亡协助是否本当属于医学职责（见如 Young 2017）[^young-2017]。与此相关，失能者（其状况不会合理预见致死）与精神疾病患者能否获得医学死亡协助，近来在加拿大争论激烈。争论的结果是：状况造成持久、无法忍受且不可补救之苦的失能者，只要有能力胜任地提出请求，便可获得此类协助。对唯一根本状况为精神疾病者作类似安排，原定 2024 年引入，现已暂缓，以待进一步研究。这些法域对资格条件所作或拟作的改动，很可能带动其他法域的自愿医学协助死亡资格条件随之扩张。
+  - id: 20
+    kind: body
+    source: |-
+      The fifth condition further restricts access to voluntary euthanasia by excluding those capable of ending their own lives, and so may be thought unduly restrictive by those who would wish to discourage terminally ill patients from attempting suicide. There will be yet others who consider this condition to be too restrictive because competent patients can always refuse nutrition and hydration (see, e.g., Bernat, et al. 1993; Savulescu 2014)[^savulescu-2014]. Though this is true, many competent dying persons still wish to have access to legalized medically assisted death, rather than having to rely on refusing nutrition and hydration, so that they may retain control over the timing of their deaths and avoid needlessly prolonging the process of dying.
+    step1: |-
+      第五项条件进一步限制了自愿安乐死的可及范围，把有能力自行结束生命者排除在外；那些希望劝阻绝症患者自杀的人，或会认为它过于严格。还会有另一些人认为该项条件过严，因为有行为能力的病人总能拒绝营养与水分（见如 Bernat, et al. 1993；Savulescu 2014）[^savulescu-2014]。话虽如此，许多有行为能力的临终者仍希望获得合法化的医学协助死亡，而不愿依赖拒绝营养与水分，以便掌握自己死亡的时机，避免无谓地延长死亡过程。
+    step2: |-
+      第五项条件进一步收紧了自愿安乐死的可及范围：能自行结束生命者被排除在外。希望劝阻绝症患者自杀的人，或会觉得它过于严格。另有一些人认为它过严，理由是有行为能力的病人总能拒绝营养与水分（见如 Bernat, et al. 1993、Savulescu 2014）[^savulescu-2014]。话虽如此，许多有行为能力的临终者仍宁愿要合法化的医学协助死亡，而不愿依赖拒绝营养与水分：他们希望掌握死亡的时机，免得无谓地拖长死亡过程。
+  - id: 21
+    kind: body
+    source: |-
+      The second condition is intended simply to reflect the fact that it is normally possible to say when someone’s health status is incurable. So-called ‘miracle’ cures may be proclaimed by sensationalist journalists, but progress toward medical breakthroughs is typically painstaking. If there are miracles wrought by God that will be quite another matter entirely, but it is at least clear that not everyone’s death is thus to be staved off.
+    step1: |-
+      第二项条件只是要反映一个事实：通常可以说出某人的健康状况何时已不可治愈。耸人听闻的记者或许会宣称所谓“奇迹”疗法，但医学突破的进展通常艰辛。若有上帝所行的奇迹，那完全是另一回事；但至少清楚，并非每个人的死亡都会因此被挡回去。
+    step2: |-
+      第二项条件只是要反映一个事实：通常可以说出某人的健康状况何时已不可治愈。耸人听闻的记者或许会宣称所谓“奇迹”疗法，然而医学突破的进展通常艰辛。若有上帝所行的奇迹，那是另一回事；但至少清楚，并非每个人的死都能这样挡回去。
+  - id: 22
+    kind: body
+    source: |-
+      The third condition recognises what many who oppose the legalization of voluntary euthanasia do not, namely, that it is not only a desire to be released from pain that leads people to request help with dying. In the Netherlands, for example, pain has been found to be a less significant reason for requesting assistance with dying than other forms of suffering like frustration over loss of independence (see e.g., Marquet, et al. 2003; Onwuteaka-Philipsen, et al. 2012; Emanuel, et al. 2016). Sufferers from some terminal conditions may have their pain relieved but have to endure side effects that, for them, make life unbearable. Others may not have to cope with pain but, instead, with having to rely on forms of life support that simultaneously rob their lives of quality (as with, e.g., motor neurone disease). Yet others struggle with psychological distress and various psychiatric conditions and believe these conditions ought to be counted among the forms of suffering that qualify competent individuals to access medical assistance with dying. There has been greater recognition of, and support for, this position in those jurisdictions that make the role of unbearable suffering central to the determination of the eligibility of competent individuals for medical assistance with dying (see the discussion above of the first condition). Even so, inclusion of these forms of suffering highlights legitimate issues to do with the competence of at least some of those who suffer from them. (For a helpful recent study of the handling of requests for assistance with dying by psychiatric patients in the Netherlands see Kim, et al. 2016.)
+    step1: |-
+      第三项条件承认许多反对自愿安乐死合法化者不承认的一点：促使人们请求死亡协助的，不只是想从疼痛中解脱的愿望。例如在荷兰，研究发现疼痛作为请求死亡协助的理由，不如丧失独立带来的挫败感等其他形式的痛苦重要（见如 Marquet, et al. 2003；Onwuteaka-Philipsen, et al. 2012；Emanuel, et al. 2016）。某些绝症患者的疼痛可以缓解，却须承受副作用，而这些副作用对他们而言使生活无法忍受。另一些人或许不必忍受疼痛，却须依赖某种生命维持手段，而这同时剥夺了他们的生活质量（如运动神经元病）。还有一些人挣扎于心理痛苦与各种精神状况，认为这些状况也应算作使有行为能力者得以获得医学死亡协助的合格痛苦形式。在那些把无法忍受的痛苦作为判定有行为能力者能否获得医学死亡协助之核心的法域，这一立场已获得更多承认与支持（见上文关于第一项条件的讨论）。即便如此，把这些痛苦形式纳入其中，也凸显出与至少部分患者的胜任能力有关的正当问题。（关于荷兰精神科病人请求死亡协助之处理的有益近期研究，见 Kim, et al. 2016。）
+    step2: |-
+      第三项条件承认一件事，而许多反对自愿安乐死合法化者并不承认：驱使人请求死亡协助的，不只是想从疼痛中解脱的愿望。以荷兰为例，研究发现疼痛作为请求死亡协助的理由，不如丧失独立所带来的挫败感等其他痛苦形式重要（见如 Marquet, et al. 2003、Onwuteaka-Philipsen, et al. 2012、Emanuel, et al. 2016）。某些绝症患者的疼痛可缓解，却须承受副作用，而这些副作用对他们来说已使生活无法忍受。另一些人不必忍痛，却须依赖某种生命维持手段，生活质量同时被剥夺（如运动神经元病）。还有一些人挣扎于心理痛苦与各种精神状况，认为这些状况也该算作合格痛苦，使有行为能力者得以获得医学死亡协助。有些法域把无法忍受的痛苦作为判定资格的核心，这一立场在那里已获更多承认与支持（见上文关于第一项条件的讨论）。话虽如此，把这些痛苦形式纳入其中，也凸显出与至少部分患者胜任能力有关的正当问题。（荷兰精神科病人请求死亡协助之处置，Kim, et al. 2016 有有益的近期研究。）
+  - id: 23
+    kind: body
+    source: |-
+      A final preliminary point is that the fourth condition requires that the choice to die not only be uncoerced and competent but that it be enduring. The choice is one that will require time for reflection, and, almost certainly, discussion with others, so should not be settled in a moment. Nonetheless, as with other decisions affecting matters of importance, adults are presumed to choose voluntarily and to be competent unless the presence of defeating considerations can be established. (See the entry on decision-making capacity.) The burden of proof of establishing lack of voluntariness, or lack of competence, is on those who refuse to accept an adult person’s choice. There is no need to deny that this burden can sometimes be met (e.g., by pointing to the person’s being in a state of clinical depression). The claim is only that the onus falls on those who assert that an adult’s choice is not competent. (There are different issues to be faced when the competence of at least some older children and adolescents is at issue. In the Netherlands, for example, those aged twelve and older have sometimes been found to be competent to make end-of-life decisions for themselves. However, the topic will not be pursued further here because the focus of the entry is on competent adults.)
+    step1: |-
+      最后一个预备性要点：第四项条件要求选择死亡不仅不受强迫、且出于行为能力，还须持久。这一选择需要时间反思，几乎肯定也需要与他人讨论，故不应一时定下。不过，与其他涉及重要事务的决定一样，成年人被推定为自愿选择且有行为能力，除非能确立存在推翻这一推定的考量。（见“决策能力”词条。）证明缺乏自愿性或缺乏行为能力的责任，在那些拒绝接受成年人选择的人一方。无需否认这一责任有时可以履行（例如指出此人正处于临床抑郁状态）。主张只是：举证责任落在断言成年人选择不具行为能力者一方。（当至少某些较大儿童与青少年的行为能力成为问题时，会面对不同的问题。例如在荷兰，十二岁及以上者有时被认定有能力自行作临终决定。但本词条聚焦有行为能力的成年人，故不再深论。）
+    step2: |-
+      最后一个预备性要点：第四项条件要求死亡选择不仅不受强迫、出于行为能力，还须持久。这一选择需要时间反思，几乎一定也需要与他人商量，不该一时定下。不过，与其他关乎重要事务的决定一样，成年人被推定为自愿选择且有行为能力，除非能确立存在推翻这一推定的考量（见“决策能力”词条）。证明缺乏自愿性、或缺乏行为能力的责任，在拒绝接受成年人选择的一方。无需否认这一责任有时可以履行，例如指出此人正处于临床抑郁状态；所主张的只是：举证责任落在断言成年人选择不具行为能力者一方。（当至少某些较大儿童与青少年的行为能力成为问题时，会遇上不同的问题。例如在荷兰，十二岁及以上者有时被认定有能力自行决定临终事宜。但本词条聚焦有行为能力的成年人，故不再深论。）
+  - id: 24
+    kind: body
+    source: |-
+      Clearly the five conditions set out above are likely to require some refinement if complete agreement is to be reached but there is sufficient agreement for us to proceed without further ado to consideration of the cases for and against legalization of voluntary euthanasia. (However, for a fuller discussion of issues concerning the definition of ‘euthanasia’ see, e.g., Beauchamp and Davidson 1979.)[^beauchamp-1979]
+    step1: |-
+      显然，上述五项条件若要达成完全一致，很可能还需若干推敲；但已有足够共识，使我们无须再费周章，便可转而考察支持与反对自愿安乐死合法化的理由。（然而，关于“安乐死”定义的更充分讨论，见如 Beauchamp and Davidson 1979。）[^beauchamp-1979]
+    step2: |-
+      显然，上述五项条件若要取得完全一致，仍需若干推敲。但共识已足以让我们不再迁延，径直考察支持与反对自愿安乐死合法化的理由。（关于“安乐死”定义的更充分讨论，见如 Beauchamp and Davidson 1979。）[^beauchamp-1979]
+  - id: 25
+    kind: body
+    source: |-
+      ## 3. A Moral Case for Voluntary Euthanasia
+    step1: |-
+      ## 3. A Moral Case for Voluntary Euthanasia
+    step2: |-
+      ## 3 自愿安乐死的道德理由
+  - id: 26
+    kind: body
+    source: |-
+      One central ethical contention in support of voluntary euthanasia is that respect for persons demands respect for their autonomous choices as long as those choices do not result in harm to others. Respect for people’s autonomous choices is directly connected with the requirement for competence because autonomy presupposes competence (cf., Brock 1992). People have an interest in making important decisions about their lives in accordance with their own conception of how they want to live. In exercising autonomy, or self-determination, individuals take responsibility for their lives; since dying is a part of life, choices about the manner of their dying and the timing of their death are, for many people, part of what is involved in taking responsibility for their lives. Many are concerned about what the last phase of their lives will be like, not merely because of fears that their dying might involve them in great suffering, but also because of the desire to retain their dignity, and as much control over their lives as possible, during this phase. A second contention in support of voluntary euthanasia was mentioned at the beginning of this entry, namely the importance of promoting the well-being of persons. When someone is suffering intolerable pain or only has available a life that is unacceptably burdensome (see the third condition above), and he competently requests medical assistance with dying, his well-being may best be promoted by affording him that assistance. When harnessed together, the value to individuals of making autonomous choices, and the value to those individuals who make such choices of promoting their own well-being, provide the moral foundation for requests for voluntary euthanasia. Each consideration is necessary for moral justification of the practice, but taken in isolation neither suffices (see, e.g., Young 2007, 2017; Sumner 2011, 2017)[^sumner-2011][^young-2007].
+    step1: |-
+      支持自愿安乐死的一项核心伦理主张是：尊重人，就要求尊重其自主选择，只要这些选择不伤害他人。尊重人的自主选择与行为能力的要求直接相关，因为自主以行为能力为前提（参 Brock 1992）。人有一种利益，即按自己对如何生活的构想，就自己生活中的重要事情作出决定。在行使自主或自我决定时，个人为自己的生活承担责任；既然死亡是生活的一部分，关于死亡方式与死亡时机的选择，对许多人而言正属于为自己的生活承担责任的一部分。许多人关心自己生命的最后阶段会是怎样，不仅因为害怕死亡过程会带来巨大痛苦，也因为他们希望在此阶段保住尊严，并尽可能多地保有自己的生活控制权。支持自愿安乐死的第二项主张，本词条开头已提及，即促进个人福祉的重要性。当一个人承受无法忍受的疼痛、或只剩一种不可接受的负累生活（见上文第三项条件），并胜任地请求医学死亡协助时，给予这种协助也许最能促进其福祉。把这两项价值合在一起——个人作出自主选择的价值，以及作出此类选择者促进自身福祉的价值——便为自愿安乐死的请求提供了道德基础。对实践作道德证成而言，两项考量缺一不可；单取其一均不足够（见如 Young 2007, 2017；Sumner 2011, 2017）[^sumner-2011][^young-2007]。
+    step2: |-
+      支持自愿安乐死有一项核心伦理主张：尊重人，就要求尊重其自主选择，只要这些选择不伤害他人。尊重自主选择与行为能力的要求直接相关，因为自主以行为能力为前提（参 Brock 1992）。人有一种利益，即按自己对如何生活的构想，就生活中的重要事情自行决定。在行使自主或自我决定时，个人为自己的生活担起责任；死亡既是生活的一部分，关于死亡方式与死亡时机的选择，对许多人来说就正是这份责任的一部分。许多人关心生命的最后阶段会是什么样子：既怕死亡过程带来巨大痛苦，也希望在这一阶段保住尊严，尽量掌握自己的生活。支持自愿安乐死的第二项主张，本词条开头已提及，即促进个人福祉。当一个人承受无法忍受的疼痛、或只剩不可接受的负累生活（见上文第三项条件），并胜任地请求医学死亡协助时，给予协助也许最能促进其福祉。两项价值合在一处——个人自主选择的价值，以及选择者促进自身福祉的价值——便构成了自愿安乐死请求的道德基础。要作道德证成，两项考量缺一不可；单取其一都不足够（见如 Young 2007, 2017；Sumner 2011, 2017）[^sumner-2011][^young-2007]。
+  - id: 27
+    kind: body
+    source: |-
+      The technological interventions of modern medicine have had the effect of stretching out the time it takes for many people to die. Sometimes the added life this brings is an occasion for rejoicing; sometimes it drags out the period of significant physical and intellectual decline that a person undergoes with the result that life becomes no longer worth living. Many believe there is no single, objectively correct answer as to when, if at all, a person’s life becomes a burden and hence unwanted. If they are right, that simply points up the importance of individuals being able to decide autonomously for themselves whether their own lives retain sufficient quality and dignity to make life worth living. Others maintain that individuals can be in error about whether their lives continue to be worth living (cf., Foot 1977)[^foot-1977]. The conditions outlined above in Section 2 are intended by those who propose them to serve, among other purposes, to safeguard against such error. But it is worth adding that in the event that a person who considers that she satisfies those conditions is judged by her medical attendants to be in error about whether it would be worth her continuing to live, the likely outcome is that those attendants will refuse to provide medical assistance with dying. (Evidence that will be mentioned below shows that this happens more frequently than might be predicted in jurisdictions in which medically assisted dying has been legalized. (There are discussions of the principles at stake in such matters in Young 2007; Wicclair 2011; Sumner 2020.)[^sumner-2020][^wicclair-2011][^young-2007] Unless a patient is able to be transferred to the care of other medical professionals who accept her assessment, she will have to rely on her own resources (e.g., by refusing nutrition and hydration). Even so, other things being equal, as long as a critically ill person is competent, her own judgement of whether continued life is a benefit to her ought to carry the greatest weight in any end-of-life decision making regardless of whether she is in a severely compromised and debilitated state. The idea that a competent individual’s autonomous judgment of the value to her of continued life should trump an assessment by others of her well-being should not be thought surprising because precisely the same happens when a competent patient refuses life-prolonging treatment.
+    step1: |-
+      现代医学的技术干预，产生了一种效果：许多人的死亡过程被拉长。有时由此多得的生命值得庆幸；有时它拖长了身心显著衰退的时期，以致生活不再值得过。许多人相信，一个人的生命何时成为负担、因而不被想要，并没有单一的客观正确答案。若他们说得对，那恰恰凸显了让个人自主决定自己生命是否仍保有足够质量与尊严、是否值得过下去的重要性。另一些人坚持，个人可能在“自己的生命是否仍值得过”上判断有误（参 Foot 1977）[^foot-1977]。第 2 节所述条件，提出者的用意之一便是防止此类错误。但还须补充：若一个人自认满足那些条件，而她的医护人员判定她“继续活着是否值得”判断有误，可能的结果是这些医护人员拒绝提供医学死亡协助。（下文将提到的证据表明，在已使医学协助死亡合法化的法域，这种情况比人们预料的更常发生。关于此类事务中涉及的原则，讨论见 Young 2007；Wicclair 2011；Sumner 2020。）[^sumner-2020][^wicclair-2011][^young-2007] 除非病人能转由接受她判断的其他医务人员照护，她就只能依靠自己的办法（例如拒绝营养与水分）。即便如此，在其他条件相同的情况下，只要重症病人有行为能力，她对“继续活着是否对自己有益”的判断，在任何临终决策中都应权重最大，无论她的状态多么受损衰弱。有行为能力的个人对“继续活着对自己有何价值”的自主判断应压倒他人对其福祉的评估——这一想法不足为奇，因为有行为能力的病人拒绝延长生命的治疗时，情形恰好相同。
+    step2: |-
+      现代医学的技术干预，把许多人的死亡过程拉长了。多得的生命有时值得庆幸，有时却拖长了身心显著衰退的时期，以致生活不再值得过。许多人相信：一个人的生命何时成为负担、因而不被想要，并无单一的客观正确答案。若他们说得对，那恰恰凸显出个人自主决定的重要：自己的生命是否仍保有足够质量与尊严，是否还值得过下去。另一些人坚持，个人可能在“生命是否仍值得过”上判断有误（参 Foot 1977）[^foot-1977]。第 2 节所述条件，用意之一正是防止此类错误。但还须补充一点：若一个人自认满足那些条件，而其医护人员判定她在“继续活着是否值得”上有误，很可能这些医护人员会拒绝提供医学死亡协助。（下文将提及的证据表明，在已使医学协助死亡合法化的法域，这种情况比预想的更常见。此类事务涉及的原则，见 Young 2007、Wicclair 2011、Sumner 2020 的讨论。）[^sumner-2020][^wicclair-2011][^young-2007] 除非能转由接受她判断的其他医务人员照护，她就只能依靠自己的办法，例如拒绝营养与水分。即便如此，其他条件相同时，只要重症病人有行为能力，她对“继续活着是否对自己有益”的判断，在一切临终决策中都该权重最大，无论她衰弱受损到何种地步。有行为能力者对“生命对自己还有何价值”的自主判断，应压过他人对其福祉的评估——这并不奇怪，因为有行为能力的病人拒绝延长生命的治疗时，情形正是如此。
+  - id: 28
+    kind: body
+    source: |-
+      Suppose, for the sake of argument, that it is agreed that we should respect a person’s competent request for medical assistance with dying (e.g., so as to enable her to achieve her autonomously chosen goal of an easeful death). It might be thought that in such an eventuality different moral concerns will be introduced from those that arise in connection with competent refusals. After all, while competent patients are entitled to refuse any form of medical treatment, they are not entitled to insist on the administration of forms of medical treatment that have no prospect of conferring a medical benefit or are not being provided because of a scarcity of medical resources or their affordability. While each of these points is sound, it remains the case that medical personnel have a duty to relieve suffering when that is within their capacity. Accordingly, doctors who regard medical assistance with dying as an element of appropriate medical care will consider it morally permissible to agree to a request for assistance with dying by a competent dying patient who wishes to avoid unbearable suffering. The reason for claiming only that this is morally permissible rather than morally obligatory will be explained in a subsequent paragraph. (For further reflections on the issue of responses to requests for medical assistance see, for instance, Dworkin 1998; Sumner 2011, 2017, 2020; Young 2007, 2017.)[^dworkin-1998][^dworkin-1998-2][^sumner-2011][^young-2007]
+    step1: |-
+      为论证起见，假定我们同意应尊重一个人胜任地提出的医学死亡协助请求（例如，以使她实现自主选定的安详死亡之目标）。有人可能认为，在这种情形下，会引入与有行为能力者拒绝治疗时不同的道德关切。毕竟，有行为能力的病人有权拒绝任何形式的医疗，却无权坚持要求施行那些无望带来医疗益处、或因医疗资源稀缺或其可负担性而未提供的治疗。这些论点虽都成立，但医务人员仍有责任在其能力范围内减轻痛苦。因此，那些把医学死亡协助视为适当医疗照护之一部分的医生，会认为同意一个有行为能力、希望避免无法忍受之苦的临终病人的协助请求，在道德上是可允许的。何以只称“可允许”而非“有义务”，后文另有一段说明。（关于如何回应医学协助请求的进一步反思，见如 Dworkin 1998；Sumner 2011, 2017, 2020；Young 2007, 2017。）[^dworkin-1998][^dworkin-1998-2][^sumner-2011][^young-2007]
+    step2: |-
+      为论证起见，假定我们同意：应尊重一个人胜任地提出的医学死亡协助请求，好让她实现自己选定的安详死亡。有人也许会想，这种情形会引出与有行为能力者拒绝治疗时不同的道德关切。毕竟，有行为能力的病人有权拒绝任何形式的医疗，却无权坚持要求那些无望带来医疗益处的治疗，也无权要求因资源稀缺或无力负担而未提供的治疗。这些论点都成立，但医务人员仍有责任在能力所及范围内减轻痛苦。因此，把医学死亡协助视为适当医疗照护之一部分的医生，会认为：同意一个有行为能力、希望免于无法忍受之苦的临终病人的协助请求，在道德上可允许。何以只说“可允许”而不说“有义务”，后文另有一段交代。（如何回应医学协助请求，进一步反思见如 Dworkin 1998、Sumner 2011, 2017, 2020、Young 2007, 2017。）[^dworkin-1998][^dworkin-1998-2][^sumner-2011][^young-2007]
+  - id: 29
+    kind: body
+    source: |-
+      Notwithstanding this response, as was seen earlier, at least some proponents of voluntary medically assisted dying wish to question why medical assistance with dying should be restricted to those covered by, in particular, the first three conditions set out above in Section 2. If people’s competent requests for medically assisted death should be respected why impose any restrictions at all on who may have access to medically assisted death? Why, for example, should those suffering from depression, or forms of dementia, not be eligible for medically assisted dying? Most proponents of voluntary medically assisted dying hold that there are at least two reasons for restricting access to it to those who satisfy the conditions set out earlier (or, a modified set that takes account of the concerns canvassed in the discussion of those proposed conditions). First, they contend that there are political grounds for doing so, namely, that because legalizing medically assisted dying for competent individuals is politically contested, the best hope for its legalization lies in focusing on those forms of suffering most likely to effect law reform. That is why some proponents deny the eligibility even of sufferers from conditions like ‘locked-in’ syndrome, motor neurone disease, and multiple sclerosis for voluntary medically assisted dying since, strictly, they are not terminally ill, and reliance has to be placed in consequence on their claim to be suffering unbearably. Second, and relatedly, most proponents of the legalization of medical assistance with dying have been cautious about supporting medically assisted death for those suffering from, for example, depression and dementia, because not only are they not terminally ill, but their competence to request assistance with dying is apt to be called into question, particularly in instances where they have given no prior indication of their preference for such assistance. Restricting access to medical assistance with dying to those whose suffering is less likely to be disputed avoids becoming embroiled in controversy. As was noted earlier, some critics of the restrictive approach (e.g., Varelius 2014)[^varelius-2014] take a harder line and claim that it should not even be necessary for a person to be suffering from a medical condition to be eligible for medical assistance with dying; it should be enough to be ‘tired of life’. Only in a few jurisdictions, viz., Switzerland, the Netherlands and Belgium, has this issue been seriously broached. Regardless of what may happen in those jurisdictions, those seeking the legal provision of medical assistance with dying in other jurisdictions seem likely to maintain that if such assistance is to be seen as a legitimate form of medical care it has to be provided in response to a medical condition (rather than because someone is ‘tired of life’), and, indeed, restricted to those who satisfy the conditions outlined earlier in Section 2 (or some similar set of conditions). In short, these latter hold that making an autonomous request for assistance with dying is necessary, but should not be sufficient, for triggering such assistance.
+    step1: |-
+      尽管有这一回应，如前述，至少有些自愿医学协助死亡的拥护者仍要追问：为何医学死亡协助应限于、特别是限于第 2 节所设头三项条件覆盖的人？如果人们胜任地提出的医学协助死亡请求应受尊重，那为何还要对谁能获得医学协助死亡设任何限制？例如，为何抑郁者或各类痴呆症患者不应有资格？多数自愿医学协助死亡的拥护者认为，把可及范围限于满足前述条件者（或考虑到那些讨论中提出的关切而修改过的条件），至少有两个理由。第一，他们主张有政治上的理由：使有行为能力者的医学协助死亡合法化在政治上有争议，故合法化的最大希望在于聚焦于最有可能促成法律改革的那些痛苦形式。这就是为何有些拥护者甚至否认“闭锁”综合征、运动神经元病、多发性硬化症患者有资格：严格说来，他们并非绝症患者，其请求只能依赖“痛苦无法忍受”的主张。第二，与此相关，多数拥护者对接纳抑郁、痴呆症患者获得医学协助死亡持谨慎态度，因为这些人不仅非绝症，其请求协助死亡的行为能力也容易受到质疑，尤其是当他们此前未表明过此种偏好时。把可及范围限于痛苦较少争议者，可以避免卷入争议。如前述，一些批评限制性做法者（如 Varelius 2014）[^varelius-2014] 立场更强：获得医学死亡协助根本不必以患某种疾病为条件，只要“厌倦了生命”便足够。只有少数法域——瑞士、荷兰与比利时——认真触及这一问题。无论这些法域将来如何，其他法域争取医学死亡协助立法者似仍会坚持：此种协助若要是正当的医疗照护形式，就必须针对某种疾病状况（而非因为某人“厌倦了生命”），且须限于满足第 2 节前述条件（或类似条件）者。简言之，他们主张：自主地请求死亡协助是启动此种协助的必要条件，但不应是充分条件。
+    step2: |-
+      尽管有这一回应，如前述，至少有些拥护者仍要追问：为何医学死亡协助应限于、尤其限于第 2 节头三项条件所覆盖的人？如果人们胜任地提出的医学协助死亡请求应予尊重，为何还要对谁能获得协助设限？例如，为何抑郁者或各类痴呆症患者不该有资格？多数拥护者认为，把可及范围限于满足前述条件者——或限于按那些讨论中的关切作过修改的条件——至少有两条理由。其一，政治上的理由：有行为能力者的医学协助死亡合法化在政治上有争议，合法化的最大希望在于聚焦最可能促成法律改革的那些痛苦形式。正因如此，有些拥护者连“闭锁”综合征、运动神经元病、多发性硬化症患者也否认其资格：严格说，他们并非绝症患者，其请求只能依赖“痛苦无法忍受”这一主张。其二，与此相关，多数拥护者对接纳抑郁、痴呆症患者获得医学协助死亡颇为谨慎。这些人不仅非绝症，其请求协助死亡的行为能力也容易受质疑，尤其当他们此前未表明过此种偏好时。把可及范围限于痛苦争议较少者，可以避免卷入争议。如前述，一些批评限制性做法者（如 Varelius 2014）[^varelius-2014] 立场更强：获得医学死亡协助根本不必以患某种疾病为条件，只要“厌倦了生命”便足够。只有瑞士、荷兰与比利时三个法域认真触及过这一问题。无论这些法域将来如何，其他法域争取医学死亡协助立法者似仍会坚持一点。此种协助若要是正当的医疗照护形式，就必须针对某种疾病状况——而非因为某人“厌倦了生命”——且须限于满足第 2 节前述条件或类似条件者。简言之，他们认为：自主地请求死亡协助是启动此种协助的必要条件，但不是充分条件。
+  - id: 30
+    kind: body
+    source: |-
+      There is one final matter of relevance to the moral case for voluntary medically assisted death on which comment must be made. The comment concerns a point foreshadowed in a previous paragraph, but it is also linked with the remark just made about the insufficiency of an autonomous request for assistance with dying to trigger that assistance. It is important to make the point that respect has to be shown not only for the dying person’s autonomy but also for the professional autonomy of any medical personnel asked to lend assistance with dying. The value (or, as some would prefer, the right) of self-determination does not entitle a patient to try to compel medical professionals to act contrary to their own moral or professional values. Hence, if voluntary euthanasia is to be legally permitted, it must be against a backdrop of respect for professional autonomy. Similarly, if a doctor’s view of her moral or professional responsibilities is at odds with her patient’s competent request for euthanasia, she should make provision, where it is feasible to do so, for the transfer of the patient to the care of a doctor who faces no such conflict. Given that, to date, those who contend that no scope should be permitted for conscientious objection within medical practice have garnered very little support for that view, making use of referrals and transfers remains the most effective means of resolving such disagreements.
+    step1: |-
+      关于自愿医学协助死亡的道德理由，还有最后一事须加评论。此事与上一段所预示的一点有关，也与刚说的“自主请求不足以启动协助”相关。须指出：不仅要尊重临终者的自主，也要尊重被请求提供死亡协助的医务人员的职业自主。自我决定的价值（或如某些人所愿，自我决定的权利）并不使病人有权试图强迫医务人员违背其道德或职业价值行事。因此，若自愿安乐死要获法律允许，就必须以尊重职业自主为背景。同样，若医生对其道德或职业责任的看法与病人胜任的安乐死请求相冲突，她应在可行时安排把病人转由无此冲突的医生照护。鉴于迄今为止，主张医疗实践中不应容许良心拒绝者所得支持甚少，利用转诊与转交仍是解决此类分歧的最有效手段。
+    step2: |-
+      关于自愿医学协助死亡的道德理由，还有最后一事须加评论。此事与上一段预示的一点有关，也与刚说的“自主请求不足以启动协助”相联。须指出：不仅要尊重临终者的自主，也要尊重被请求提供死亡协助的医务人员的职业自主。自我决定的价值——或如某些人所愿，自我决定的权利——并不使病人有权强迫医务人员违背其道德或职业价值行事。因此，自愿安乐死若要获法律允许，就必须以尊重职业自主为背景。同样，若医生对其道德或职业责任的看法与病人胜任的安乐死请求相冲突，她应在可行时安排病人转由无此冲突的医生照护。迄今为止，主张医疗实践不应容许良心拒绝者所得支持甚少；有鉴于此，转诊与转交仍是化解此类分歧的最有效手段。
+  - id: 31
+    kind: body
+    source: |-
+      Opponents of voluntary euthanasia have endeavored in a variety of ways to counter the very straightforward moral case that has been laid out above for its legalization (see, for example, Keown 2002; Foley, et al. 2002; Biggar 2004; Gorsuch 2006)[^biggar-2004][^gorsuch-2006]. Some of the counter-arguments are concerned only with whether the moral case warrants making the practice of voluntary euthanasia legal, whereas others are concerned with trying to undermine the moral case itself. In what follows, consideration will be given to the five most important counter-arguments. (For more comprehensive discussions of the morality and legality of medically assisted death see Biggar 2004; Gorsuch 2006; Young 2007; Sumner 2011, 2017; Keown 2018)[^biggar-2004][^gorsuch-2006][^keown-2018][^sumner-2011][^young-2007].
+    step1: |-
+      反对自愿安乐死者以多种方式努力反驳上述为合法化提出的直截了当的道德理由（见如 Keown 2002；Foley, et al. 2002；Biggar 2004；Gorsuch 2006）[^biggar-2004][^gorsuch-2006]。有些反驳只关心该道德理由是否足以证成使自愿安乐死合法；另一些则试图推翻道德理由本身。下文考察五项最重要的反驳。（关于医学协助死亡之道德性与合法性的更全面讨论，见 Biggar 2004；Gorsuch 2006；Young 2007；Sumner 2011, 2017；Keown 2018）[^biggar-2004][^gorsuch-2006][^keown-2018][^sumner-2011][^young-2007]。
+    step2: |-
+      反对自愿安乐死者以多种方式反驳上述直截了当的道德理由（见如 Keown 2002、Foley, et al. 2002、Biggar 2004、Gorsuch 2006）[^biggar-2004][^gorsuch-2006]。有些反驳只问：该道德理由是否足以证成合法化？另一些则要推翻道德理由本身。下文考察五项最重要的反驳。（医学协助死亡之道德性与合法性的更全面讨论，见 Biggar 2004、Gorsuch 2006、Young 2007、Sumner 2011, 2017、Keown 2018）[^biggar-2004][^gorsuch-2006][^keown-2018][^sumner-2011][^young-2007]。
+  - id: 32
+    kind: body
+    source: |-
+      ## 4. Five Objections to the Moral Permissibility of Voluntary Euthanasia
+    step1: |-
+      ## 4. Five Objections to the Moral Permissibility of Voluntary Euthanasia
+    step2: |-
+      ## 4 反对自愿安乐死之道德可允许性的五项反驳
+  - id: 33
+    kind: body
+    source: |-
+      ### 4.1 Objection 1
+    step1: |-
+      ### 4.1 Objection 1
+    step2: |-
+      ### 4.1 反驳一
+  - id: 34
+    kind: body
+    source: |-
+      It is sometimes said (e.g., Emanuel 1999; Keown in Jackson and Keown 2012)[^emanuel-1999][^jackson-2012] that it is not necessary nowadays for people to die while suffering from intolerable or overwhelming pain because the provision of effective palliative care has improved steadily, and hospice care is more widely available. Some have urged, in consequence, that voluntary euthanasia is unnecessary.
+    step1: |-
+      有时有人说（如 Emanuel 1999；Jackson 与 Keown 2012 中的 Keown）[^emanuel-1999][^jackson-2012]，如今人已不必在无法忍受或压倒性的痛苦中死去，因为有效姑息治疗的提供稳步改善，临终关怀也更易获得。有人据此主张，自愿安乐死已无必要。
+    step2: |-
+      有时有人说（如 Emanuel 1999、Jackson 与 Keown 2012 中的 Keown）[^emanuel-1999][^jackson-2012]：如今人已不必在无法忍受或压倒性的痛苦中死去，因为有效姑息治疗的供给稳步改善，临终关怀也更易获得。有人据此断言：自愿安乐死已不必要。
+  - id: 35
+    kind: body
+    source: |-
+      There are several flaws in this contention. First, while both good palliative care and hospice care make important contributions to the care of the dying, neither is a panacea. To get the best palliative care for an individual involves trial and error, with some consequent suffering in the process; moreover, even the best care fails to relieve all pain and suffering. Perhaps even more importantly, high quality palliative care commonly exacts a price in the form of side-effects such as nausea, incontinence, loss of awareness because of semi-permanent drowsiness, and so on. A rosy picture is often painted as to how palliative care can transform the plight of the dying. Such a picture is misleading according to those who have closely observed the effect of extended courses of treatment with drugs like morphine. For these reasons many skilled palliative care specialists acknowledge that palliative care does not enable an easeful death for every patient. Second, even though the sort of care provided through hospices is to be applauded, it is care that is available to only a small proportion of the terminally ill and then usually only in the very last stages of the illness (typically a matter of a few weeks). Notwithstanding that only relatively few of the dying have access to hospice care it is worth drawing attention to the fact that in, Oregon, to cite one example, a high proportion of those who have sought physician-assisted suicide were in hospice care. Third, and of greatest significance for present purposes, not everyone wishes to avail themselves of palliative or hospice care. For those who prefer to die on their own terms and in their own time, neither option may be attractive. As previously mentioned, a major source of distress for many dying patients is the frustration that comes with being unable to satisfy their autonomous wishes. Fourth, as also indicated earlier, the suffering that occasions a desire to end life is not always traceable to pain caused by illness. For some, what is intolerable is their forced dependence on others or on life-supporting machinery; for these patients, the availability of effective pain control is not the primary concern. (In relation to the preceding matters see Rietjens, et al. 2009 and Onwuteaka-Philipsen et al. 2012 for findings for the Netherlands; and, for Oregon, Ganzini, et al. 2009.)[^onwuteaka-philipsen-2012]
+    step1: |-
+      这一主张有若干缺陷。第一，良好的姑息治疗与临终关怀虽然都对临终照护有重要贡献，却都不是万灵药。要为个人取得最佳姑息治疗，须反复试验，过程中难免受苦；而且，即便最好的照护也不能解除一切疼痛与痛苦。也许更重要的是，高质量姑息治疗通常要付出代价：恶心、失禁、因长期昏沉而丧失意识等副作用，如此等等。关于姑息治疗如何能改变临终者的处境，常有人描绘一幅玫瑰色的图画。据那些密切观察过吗啡之类药物长期疗程效果的人说，这幅图画是误导性的。正因如此，许多娴熟的姑息治疗专家承认，姑息治疗并不能使每位病人安详地死去。第二，临终关怀所提供的照护固然值得称许，却只有少数绝症患者能获得，且通常只在疾病末期（往往只有数周）。尽管只有相对少数临终者能获得临终关怀，仍值得注意一点：以俄勒冈为例，寻求医师协助自杀者中很大比例已在临终关怀之中。第三，也是就目前而言最重要的一点，并非人人都愿利用姑息治疗或临终关怀。对宁愿按自己的条件、在自己的时辰死去的人，这两种选择都可能不具吸引力。如前所述，许多临终病人的一大痛苦之源，正是无法满足其自主愿望所带来的挫败。第四，也如前述，引发求死愿望的痛苦，未必都可追溯到疾病造成的疼痛。对某些人而言，无法忍受的是被迫依赖他人或依赖生命维持机器；对这些病人来说，有效的疼痛控制并非首要关切。（关于上述事项，荷兰的调查结果见 Rietjens, et al. 2009 与 Onwuteaka-Philipsen et al. 2012；俄勒冈的见 Ganzini, et al. 2009。）[^onwuteaka-philipsen-2012]
+    step2: |-
+      这一主张有若干缺陷。其一，良好的姑息治疗与临终关怀固然都对临终照护贡献甚大，却都不是万灵药。要为个人取得最佳姑息治疗，须反复试验，过程中难免受苦；即便最好的照护，也不能解除一切疼痛与痛苦。也许更要紧的是，高质量姑息治疗通常要付出代价：恶心、失禁、因长期昏沉而失去意识等副作用，如此等等。关于姑息治疗如何改变临终者处境，常有人描出一幅玫瑰色图画。在密切观察过吗啡之类药物长期疗效的人看来，这幅图画是误导的。正因如此，许多老练的姑息治疗专家承认：姑息治疗并不能让每位病人安详地死去。其二，临终关怀所提供的照护固然值得称许，却只有少数绝症患者能获得，且通常只在疾病末期——往往只有数周。值得注意：以俄勒冈为例，寻求医师协助自杀者中很大比例已在临终关怀之中，尽管能获得临终关怀的临终者本属少数。其三，也是就目前而言最重要的一点，并非人人都愿利用姑息治疗或临终关怀。对宁愿自主设定条件、自择时辰死去的人，这两种选择都未必有吸引力。如前所述，许多临终病人的一大痛苦之源，恰是无法满足自主愿望所带来的挫败。其四，也如前述，引发求死愿望的痛苦，未必都能追溯到疾病造成的疼痛。对某些人而言，无法忍受的是被迫依赖他人或依赖生命维持机器；对这些病人来说，有效的疼痛控制并非首要关切。（上述事项，荷兰的调查结果见 Rietjens, et al. 2009 与 Onwuteaka-Philipsen et al. 2012；俄勒冈的见 Ganzini, et al. 2009。）[^onwuteaka-philipsen-2012]
+  - id: 36
+    kind: body
+    source: |-
+      ### 4.2 Objection 2
+    step1: |-
+      ### 4.2 Objection 2
+    step2: |-
+      ### 4.2 反驳二
+  - id: 37
+    kind: body
+    source: |-
+      A second, related objection to the moral and legal permissibility of voluntary euthanasia turns on the claim that we can never have sufficient evidence to be justified in believing that a dying person’s request to be helped to die is competent, enduring and genuinely voluntary.
+    step1: |-
+      第二项相关的反驳针对自愿安乐死在道德与法律上的可允许性，其核心主张是：我们永远不会有足够证据，可以正当地相信一个临终者请求协助死亡的意愿是有行为能力的、持久的、真正自愿的。
+    step2: |-
+      第二项相关反驳针对的，是自愿安乐死在道德与法律上是否可允许。其核心主张是：我们永远不会有足够证据，可以正当地相信临终者的“协助死亡请求”出于行为能力、持久而真正自愿。
+  - id: 38
+    kind: body
+    source: |-
+      It is certainly true that a request to die may not reflect an enduring desire to die (just as some attempts to commit suicide may reflect only temporary despair). That is why advocates of the legalization of voluntary euthanasia have argued that a cooling off period should normally be required before euthanasia is permitted to ensure that the request is enduring. That having been said, to claim that we can never be justified in believing that someone’s request to die reflects a settled preference for death is to go too far. If a competent person discusses the issue with others on different occasions over time, and remains steady in her resolve, or privately reflects on the issue for an extended period and does not waver in her conviction, her wish to die surely must be counted as enduring.
+    step1: |-
+      求死请求确有可能并不反映持久的求死意愿（正如某些自杀尝试可能只反映暂时的绝望）。正因如此，支持自愿安乐死合法化者主张，通常应要求一段冷静期，以确保请求是持久的。话虽如此，断言我们永远无法正当地相信某人的求死请求反映了固定的死亡偏好，则走得太远。若有行为能力者在不同场合、不同时间与他人讨论此事，而其决心始终不移；或她私下长久反思此事，信念未曾动摇，那么她的求死意愿当然须算作持久的。
+    step2: |-
+      求死请求确有可能并不反映持久的求死意愿，正如某些自杀尝试也许只反映一时的绝望。正因如此，支持合法化者主张：通常应设一段冷静期，以确保请求持久。话虽如此，断言我们永远无法正当地相信某人的求死请求反映了固定的死亡偏好，就走得太远了。若有行为能力者在不同场合、不同时间与人讨论此事而决心不移；或她私下长久反思而信念不动摇，那么她的求死意愿当然该算作持久的。
+  - id: 39
+    kind: body
+    source: |-
+      But, it might be asked, what if a person is racked with pain, or mentally confused because of the measures taken to relieve her pain, and is, in consequence, unable to think clearly and rationally about the alternatives? It has to be agreed that a person in those circumstances who wants to die should not be assumed to have a truly voluntary and enduring desire to die. However, there are at least two important points to make about those in such circumstances. First, they do not account for all of the terminally ill, so even if it is acknowledged that such people are incapable of agreeing to voluntary euthanasia that does not show that no one can ever voluntarily request help to die. Second, it is possible in at least some jurisdictions for a person to indicate, in advance of losing the capacity to give competent consent, how she would wish to be treated should she become terminally ill and suffer either intolerable pain or an unacceptable loss of control over her life (cf., for instance, Dworkin 1993)[^dworkin-1993]. ‘Living wills’ or ‘advance directives’ are legal instruments for giving voice to people’s wishes while they are capable of giving competent, enduring and voluntary consent, including to their wanting help to die. As long as they are easily revocable in the event of a change of mind (just as civil wills are), they should be respected as evidence of a well thought-out conviction. (For more detailed consideration of these instruments see the entry on advance directives.)
+    step1: |-
+      但也许有人会问：如果一个人疼痛难忍，或因止痛措施而精神恍惚，因而无法清晰理性地思考各种选择，又当如何？必须承认，处此境况而想死的人，不应被假定怀有真正自愿且持久的求死意愿。然而，关于处此境况者，至少有两点要紧。第一，他们并不代表全部绝症患者；故即便承认这些人无法同意自愿安乐死，也不能表明没有人能自愿请求协助死亡。第二，至少在某些法域，一个人可以在丧失胜任同意能力之前预先说明：若她患绝症并遭受无法忍受的疼痛、或不可接受地失去对生活的控制，她希望受到何种对待（参如 Dworkin 1993）[^dworkin-1993]。“生前预嘱”或“预先指示”正是此类法律工具，用以在人们尚能作出胜任、持久且自愿的同意时表达其意愿，包括表达希望获得死亡协助。只要在改变主意时可以轻易撤销（如同民事遗嘱），它们就应作为深思熟虑之信念的证据而受尊重。（关于此类工具的更详细讨论，见“预先指示”词条。）
+    step2: |-
+      但也许有人会问：倘若一个人疼痛难忍，或因止痛措施而神志恍惚，以致无法清晰理性地权衡各种选择，又当如何？必须承认，处此境况而想死的人，不应被假定怀有真正自愿且持久的求死意愿。然而，关于这类人至少有两点要紧。其一，他们并不代表全部绝症患者；即便承认这些人无法同意自愿安乐死，也不能表明没有人能自愿请求协助死亡。其二，至少在某些法域，一个人可在丧失胜任同意能力之前预先说明：若自己患绝症、并遭受无法忍受的疼痛或不可接受地失去生活控制，希望受到何种对待（参如 Dworkin 1993）[^dworkin-1993]。“生前预嘱”或“预先指示”正是这样的法律工具：让人在仍有能力给出胜任、持久、自愿的同意时表明意愿，包括表明愿获死亡协助。只要改变主意时可轻易撤销（如同民事遗嘱），它们就应作为深思熟虑之信念的证据而受尊重。（此类工具的更详细讨论，见“预先指示”词条。）
+  - id: 40
+    kind: body
+    source: |-
+      Perhaps, though, what is really at issue in this objection is whether anyone can *ever* form a competent, enduring and voluntary judgement about being better off dead, rather than continuing to suffer from an illness, *prior to suffering such an illness* (cf., Keown in Jackson and Keown 2012)[^jackson-2012]. If this is what underlies the objection it is surely too paternalistic to be acceptable. Why is it not possible for a person to have sufficient inductive evidence (e.g., based on the experience of the deaths of friends or family) to know her own mind, and act accordingly, without having had direct experience of such suffering?
+    step1: |-
+      不过，这一反驳真正争论的也许是：人能否在 *尚未遭受* 某种疾病之苦 *之前*，就对“死了反而更好、无须继续忍受该病之苦”形成胜任、持久且自愿的判断（参 Jackson 与 Keown 2012 中的 Keown）[^jackson-2012]。若反驳的底据在此，那它无疑过于家长主义，难以接受。为何一个人不能凭足够的归纳证据（例如根据亲友死亡的经验）了解自己的心意并据以行事，而非要有此种痛苦的第一手经验？
+    step2: |-
+      不过，这一反驳真正争论的也许是：人能否在 **尚未遭受** 某种疾病之苦 **之前**，就对“死了反而更好、无须继续忍受该病之苦”形成胜任、持久且自愿的判断（参 Jackson 与 Keown 2012 中的 Keown）[^jackson-2012]。若反驳的底据在此，那它无疑过于家长主义，难以接受。一个人为何不能凭充分的归纳证据（比如亲友亡故的经验）知道自己想要什么，并据以行事，而不必亲历此种痛苦？
+  - id: 41
+    kind: body
+    source: |-
+      ### 4.3 Objection 3
+    step1: |-
+      ### 4.3 Objection 3
+    step2: |-
+      ### 4.3 反驳三
+  - id: 42
+    kind: body
+    source: |-
+      According to the traditional interpretation of the ‘doctrine of double effect’ it is permissible to act in a way which it is foreseen will have a bad effect, provided only that
+    step1: |-
+      按照“双重效果原则”的传统解释，可以采取一种预见到会产生坏效果的行为，只要：
+    step2: |-
+      按“双重效果原则”的传统解释，只要满足下列条件，就可以采取一种预见到会产生坏效果的行为：
+  - id: 43
+    kind: body
+    source: |-
+      1. the bad effect occurs as a side-effect (i.e., indirectly) to the achievement of the act that is directly aimed at;
+      2. the act directly aimed at is itself morally good or, at least, morally neutral;
+      3. the good effect is not achieved by way of the bad, that is, the bad must not be a means to the good; and
+      4. the bad effect must not be so serious as to outweigh the good effect.
+    step1: |-
+      1. 坏效果作为副作用（即间接地）伴随直接指向的行为之达成而发生；
+      2. 直接指向的行为本身在道德上是善的，或至少道德上中立；
+      3. 好效果并非经由坏效果达成，即坏效果不得成为达至好效果的手段；且
+      4. 坏效果不得严重到超过好效果。
+    step2: |-
+      1. 坏效果作为副作用（即间接地）伴随直接指向的行为之达成而发生；
+      2. 直接指向的行为本身道德上为善，或至少道德上中立；
+      3. 好效果并非经由坏效果达成，即坏效果不得成为达至好效果的手段；
+      4. 坏效果不得严重到超过好效果。
+  - id: 44
+    kind: body
+    source: |-
+      Hence, it is permissible, according to the doctrine of double effect, to, for example, alleviate pain (a good effect) by administering a drug, knowing that doing so will shorten life, but impermissible to administer the same drug with the direct intention of terminating a patient’s life (a bad effect). This latter claim is said to apply regardless of whether the drug is given at the person’s request.
+    step1: |-
+      因此，按双重效果原则，以给药缓解疼痛（好效果）、明知此举会缩短生命，是可允许的；而以直接终止病人生命（坏效果）的意图给予同一药物，则不可允许。后一主张据说与给药是否应病人请求无关。
+    step2: |-
+      因此，按双重效果原则，为缓解疼痛（好效果）而给药、明知此举会缩短生命，是可允许的；若以直接终止病人生命（坏效果）的意图给予同一药物，则不可允许。后一主张据说与给药是否出于病人请求无关。
+  - id: 45
+    kind: body
+    source: |-
+      This is not the appropriate forum for a full consideration of the doctrine, for which see the entry on the doctrine of double effect. However, there is one very important criticism to be made of the application of the doctrine that has direct relevance to the issue of voluntary euthanasia.
+    step1: |-
+      此处不是全面讨论该原则的适当场合，详见“双重效果，原则”词条。不过，对该原则之适用有一项非常重要的批评，与自愿安乐死问题直接相关。
+    step2: |-
+      此处不是全面讨论该原则的场合，详见“双重效果，原则”词条。不过，对该原则的适用有一项非常重要的批评，与自愿安乐死问题直接相关。
+  - id: 46
+    kind: body
+    source: |-
+      On the most plausible reading, the doctrine of double effect can be relevant to the permissibility of voluntary euthanasia only when a person’s death is bad for her or, to put it another way, a *harm* to her. Sometimes the notion of ‘harm’ is understood simply as damage to a person’s interests whether consented to or not. At other times, it is understood, more strictly, as damage that has been wrongfully inflicted. On either understanding of harm, there can be instances in which death for a person does not constitute a harm for her because it will either render her better off, or, as some would insist, no worse off, when compared with remaining alive. Accordingly, in those instances, the doctrine of double effect can have no relevance to the debate about the permissibility of voluntary euthanasia. (For extended discussions of the doctrine of double effect and its bearing on the moral permissibility of voluntary euthanasia see, e.g., McIntyre 2001; Woodward 2001; Cavanaugh 2006; Young 2007; Sumner 2011, 2017.)[^cavanaugh-2006][^mcintyre-2001][^sumner-2011][^woodward-2001][^young-2007]
+    step1: |-
+      按最可信的解读，双重效果原则只有在一个人死亡对她而言是坏事——换言之，是对她的 *伤害*——时，才可能与自愿安乐死的可允许性相关。有时，“伤害”仅被理解为对某人利益的损害，无论其同意与否；有时则更严格地理解为不当施加的损害。按其中任何一种理解，都可能出现这样的情况：对某人而言，死亡并不构成伤害，因为与继续活着相比，死亡或使她更好，或如某些人所坚持，至少不使她更差。因此，在那些情形中，双重效果原则与自愿安乐死可允许性的争论全不相干。（关于双重效果原则及其与自愿安乐死道德可允许性之关系的详尽讨论，见如 McIntyre 2001；Woodward 2001；Cavanaugh 2006；Young 2007；Sumner 2011, 2017。）[^cavanaugh-2006][^mcintyre-2001][^sumner-2011][^woodward-2001][^young-2007]
+    step2: |-
+      按最可信的解读，只有当一个人的死亡对她而言是坏事——换言之，是对她的 **伤害**——双重效果原则才可能与自愿安乐死的可允许性相关。有时“伤害”仅指对某人利益的损害，不问其同意与否；有时则更严格，专指不当施加的损害。按任何一种理解，都可能出现这样的情况：对某人而言死亡并不构成伤害，因为与继续活着相比，死亡或使她更好，或如某些人所坚持，至少不使她更差。于是在这些情形中，双重效果原则与自愿安乐死可允许性的争论全不相干。（双重效果原则及其与自愿安乐死道德可允许性之关系，见如 McIntyre 2001、Woodward 2001、Cavanaugh 2006、Young 2007、Sumner 2011, 2017 的详尽讨论。）[^cavanaugh-2006][^mcintyre-2001][^sumner-2011][^woodward-2001][^young-2007]
+  - id: 47
+    kind: body
+    source: |-
+      ### 4.4 Objection 4
+    step1: |-
+      ### 4.4 Objection 4
+    step2: |-
+      ### 4.4 反驳四
+  - id: 48
+    kind: body
+    source: |-
+      As was noted earlier in Section 3, there is a widespread belief that so-called passive (voluntary) euthanasia, wherein life-sustaining or life-prolonging measures are withdrawn or withheld in response to a competent patient’s request, is morally permissible. The reason why passive (voluntary) euthanasia is said to be morally permissible is that the patient is simply allowed to die because steps are not taken to preserve or prolong life. This happens, for example, when a dying patient requests the withdrawal or the withholding of measures whose administration would be medically futile, or unacceptably burdensome. By contrast, active (voluntary) euthanasia is said to be morally impermissible because it is claimed to require an unjustifiable intentional act of killing to satisfy the patient’s request (cf., for example, Finnis, 1995; Keown in Jackson and Keown 2012; Keown 2018)[^jackson-2012][^keown-2018].
+    step1: |-
+      如第 3 节所述，有一种广泛信念：所谓被动（自愿）安乐死——即应病人胜任的请求撤除或不给予生命维持或延长措施——在道德上是可允许的。被动（自愿）安乐死之所以被认为道德上可允许，理由是：由于未采取措施保全或延长生命，病人只是被允许死去。例如，当一个临终病人请求撤除或不给予医学上无益或不可接受地负累的措施时，情形便是如此。相反，主动（自愿）安乐死被认为道德上不可允许，因为据说它需要一种无法证成的、以满足病人请求的故意杀害行为（参如 Finnis 1995；Jackson 与 Keown 2012 中的 Keown；Keown 2018）[^jackson-2012][^keown-2018]。
+    step2: |-
+      如第 3 节所述，人们普遍相信：所谓被动（自愿）安乐死——应病人胜任的请求，撤除或不给予生命维持或延长措施——在道德上可允许。理由在于：既未采取措施保全或延长生命，病人就只是被允许死去。例如临终病人请求撤除、或不给予医学上无益或不可接受地负累的措施时，即属此类。相反，主动（自愿）安乐死被认为道德上不可允许：据说它需要一种无法证成的故意杀害行为，以满足病人的请求（参如 Finnis 1995、Jackson 与 Keown 2012 中的 Keown、Keown 2018）[^jackson-2012][^keown-2018]。
+  - id: 49
+    kind: body
+    source: |-
+      Despite its popularity and widespread use, the distinction between passive and active euthanasia is neither particularly clear nor morally helpful. (For a fuller discussion, see McMahan 2002.)[^mcmahan-2002] Whether behavior is described in terms of acts or omissions (a distinction which underpins the alleged difference between active and passive voluntary euthanasia and that between killing a person and letting her die), is often a matter of pragmatics rather than anything of deeper moral importance. Consider, for instance, the practice (once common in hospitals) of deliberately proceeding slowly to a ward in response to a request to provide assistance for a patient who has been assigned a ‘not for resuscitation’ code. Or, consider ‘pulling the plug’ on a respirator keeping an otherwise dying patient alive, as against not replacing the oxygen supply when it runs out. Are these acts or omissions? If the answers turn on merely pragmatic considerations the supposed distinction between passive euthanasia and active euthanasia will be hard to sustain.
+    step1: |-
+      尽管被动安乐死与主动安乐死之别流传甚广、运用普遍，这一区分却既不那么清晰，于道德上也无甚助益。（更充分的讨论见 McMahan 2002。）[^mcmahan-2002] 行为究竟以作为还是不作为来描述（正是这一区分支撑着所谓主动与被动自愿安乐死之别、以及杀人与任其死去之别），往往只是个语用问题，而非具有更深道德重要性之事。试想这样一个做法（曾常见于医院）：接到为一位被标记为“不予复苏”的病人提供协助的请求后，故意慢慢走向病房。或试想对维持一位本将死去的病人的呼吸机“拔掉插头”，与氧气用尽时不更换氧气瓶，二者相比。这些是作为还是不作为？若答案只取决于语用考量，那么被动安乐死与主动安乐死之间所谓的区分便难以维持。
+    step2: |-
+      被动安乐死与主动安乐死之别流传甚广、运用普遍，却既不那么清晰，于道德上也无所助益。（更充分的讨论见 McMahan 2002。）[^mcmahan-2002] 一个行为究竟算作为还是不作为——正是这一区分支撑着所谓主动与被动自愿安乐死之别，以及杀人与任其死去之别——往往只是语用问题，并无更深的道德分量。试想一种（曾常见于医院的）做法：接到为一位被标记“不予复苏”的病人提供协助的请求后，故意慢慢走向病房。再试想：对维持一位本将死去的病人的呼吸机“拔掉插头”，与氧气用尽时不换氧气瓶，二者有何不同？这些算作为还是不作为？若答案只取决于语用考量，被动安乐死与主动安乐死之间所谓的区分便难以维持。
+  - id: 50
+    kind: body
+    source: |-
+      Even supposing that the distinction between acts and omissions, and the associated distinction between killing and letting die, can be satisfactorily clarified (on which see the entry doing v. allowing harm), there remains the issue of whether these distinctions have moral significance in every circumstance. Consider a case of a patient suffering from motor neurone disease who is completely respirator dependent, finds her condition intolerable, and competently and persistently requests to be removed from the respirator so that she may die. Even the Catholic Church in recent times has been prepared to agree that it is permissible, in a case like this, to turn off the respirator. No doubt this has been because the Catholic Church considers such a patient is only being allowed to die. Even were it to be agreed, for the sake of argument, that such a death should be regarded as an instance of letting die, this concession would not show that it would have been morally worse had the patient been killed at her request (active voluntary euthanasia) rather than being allowed to die (passive voluntary euthanasia). Indeed, supporters of voluntary medically assisted death maintain that since death is beneficial in such an instance (or, at the very least, leaves the dying person no worse off), actively bringing about the death is morally to be preferred to just allowing it to happen because the desired benefit is achieved sooner and thus with less suffering.
+    step1: |-
+      即便假定作为与不作为之别、以及与之相关的杀人与任其死去之别能够令人满意地澄清（见“作为与任其受害”词条），仍有一个问题：这些区分是否在一切情形下都具有道德意义。设想一位运动神经元病患者，完全依赖呼吸机，觉得自己的状况无法忍受，并胜任而坚持地请求撤除呼吸机以便死去。就连天主教会近来也愿意同意：在此类情形下关掉呼吸机是可允许的。无疑，这是因为天主教会认为这样的病人只是被允许死去。即便为论证起见同意这样的死亡应被视为任其死去之一例，这一让步也不能表明：应病人请求将其杀死（主动自愿安乐死），在道德上会比任其死去（被动自愿安乐死）更糟。事实上，支持自愿医学协助死亡者主张：既然在此类情形中死亡是有益的（或至少不使临终者更差），主动促成死亡在道德上就优于任其发生，因为所愿的益处达成得更早，因而受苦更少。
+    step2: |-
+      即便假定作为与不作为之别、以及杀人与任其死去之别能令人满意地澄清（见“作为与任其受害”词条），仍有一个问题：这些区分在一切情形下是否都有道德意义。设想一位运动神经元病患者，完全依赖呼吸机，觉得状况无法忍受，并胜任而坚持地请求撤除呼吸机以便死去。就连天主教会近来也愿意同意：此类情形下关掉呼吸机可允许。无疑，这是因为天主教会认为这样的病人只是被允许死去。即便为论证起见同意此类死亡算作任其死去，这一让步也不能表明：应病人请求将其杀死（主动自愿安乐死），在道德上会比任其死去（被动自愿安乐死）更糟。事实上，支持自愿医学协助死亡者主张：此类情形中死亡既有益，或至少不使临终者更差，主动促成死亡在道德上就优于任其发生——所愿的益处达成得更早，受苦也更少。
+  - id: 51
+    kind: body
+    source: |-
+      Opponents of voluntary euthanasia claim, however, that the difference between active and passive euthanasia is to be found in the agent’s intention: if someone’s life is *intentionally* terminated she has been killed, whereas if she is just no longer being aggressively treated, her death should be attributed to the underlying disease. Many physicians would say that their intention in withholding or withdrawing life-sustaining medical treatment in such circumstances is simply to respect the patient’s wishes. This is plausible in those instances where the patient competently requests that aggressive treatment no longer be given (or, the patient’s proxy makes such a request). But it will often be implausible. In many cases the most plausible interpretation of a physician’s intention in withholding or withdrawing life-sustaining measures is that it is to end the patient’s life. Consider the palliative care practice of ‘terminally sedating’ a patient after a decision has been made to cease aggressive treatment. Suppose (as sometimes happens) that this is then followed by withholding artificially supplied nutrition. In these latter instances the best explanation of the physician’s behavior is that the physician intends thereby to end the life of the patient. What could be the point of the action, the goal aimed at, the intended outcome, if not to end the patient’s life? (Cf. Winkler 1995.)[^winkler-1995] No sense can be made of the action as being intended to palliate the patient’s diseased condition, or to keep the patient comfortable. Nor is it appropriate to claim that what kills the patient is the underlying disease. What kills the patient is the act of depriving her of nutrition (i.e., of starving her to death). The point can be generalized to cover many more instances involving either the withdrawal or the withholding of life-sustaining medical treatment. In short, there is no good reason to think that whereas so-called passive voluntary euthanasia is morally acceptable active voluntary euthanasia never can be.
+    step1: |-
+      然而，反对自愿安乐死者主张，主动与被动安乐死之别在于行为者的意图：若某人的生命被 *故意* 终结，她是被杀的；若她只是不再接受积极治疗，她的死亡应归因于所患疾病。许多医生会说，他们在那种情形下撤除或不给予生命维持医疗的意图，只是尊重病人的意愿。在病人胜任地请求不再给予积极治疗（或病人的代理人提出此请求）的情形下，这话是可信的。但往往并不可信。在许多情况下，对医生撤除或不给予生命维持措施之意图最可信的解释，就是结束病人的生命。试想这样一种姑息治疗做法：在决定停止积极治疗后对病人施行“终末镇静”。再假定（有时确实如此）此后又停止人工供给营养。在后一种情形中，对医生行为的最佳解释是：医生有意借此结束病人的生命。若非为了结束病人的生命，这一行为的目的、所指向的目标、所欲求的结果又可能是什么？（参 Winkler 1995。）[^winkler-1995] 既不能把该行为理解为意在缓解病人的病况，也不能理解为让病人舒适。同样不恰当的是声称杀死病人的是其所患疾病。杀死病人的是剥夺其营养的行为（即把她饿死）。这一点可推广到更多涉及撤除或不给予生命维持医疗的情形。简言之，没有好理由认为：被动自愿安乐死在道德上可以接受，主动自愿安乐死却永远不可以。
+    step2: |-
+      然而，反对自愿安乐死者主张：主动与被动安乐死之别在于行为者的意图。若某人的生命被 **故意** 终结，那就是杀害；若她只是不再接受积极治疗，其死亡应归因于所患疾病。许多医生会说，他们在那种情形下撤除或不给予生命维持医疗，意图只是尊重病人的意愿。病人胜任地请求不再给予积极治疗时（或病人的代理人提出此请求时），这话可信。但往往并不可信。许多情况下，对医生撤除或不给予生命维持措施之意图最可信的解释，就是结束病人的生命。试想一种姑息治疗做法：在决定停止积极治疗之后对病人施行“终末镇静”。再假定（有时确实如此）此后又停止人工供给营养。在后一种情形里，对医生行为的最佳解释是：医生有意借此结束病人的生命。若非为了结束病人的生命，这一行为又目的何在、指向何物、欲求何种结果？（参 Winkler 1995。）[^winkler-1995] 说它意在缓解病人的病况，或意在让病人舒适，都讲不通。声称杀死病人的是其所患疾病，同样不恰当：杀死病人的是剥夺其营养的行为，即把她饿死。这一点可推广到更多涉及撤除或不给予生命维持医疗的情形。简言之，没有好理由认为：被动自愿安乐死在道德上可接受，主动自愿安乐死却永远不可以。
+  - id: 52
+    kind: body
+    source: |-
+      But we can go further. Giving titrated doses of morphine that reach levels beyond those needed to control pain, or removing a respirator from a sufferer from motor neurone disease, seem to many of us to amount to intentionally bringing about the death of the person being cared for. To be sure, as was acknowledged above, there are circumstances in which doctors can truthfully say that the actions they perform, or omissions they make, will bring about the deaths of their patients even though it was not their intention that those patients would die. So, for instance, if a patient refuses life-prolonging medical treatment because she considers it futile, it can be reasonable to say that her doctor’s intention in complying with the request was simply to respect her wishes. Nevertheless, as we have seen, there are other circumstances in which it is highly stilted to claim, as some doctors continue to do, that they had no intention of bringing about death.
+    step1: |-
+      但我们还可以更进一步。给予滴定剂量、超过控制疼痛所需水平的吗啡，或撤除运动神经元病患者的呼吸机，在我们许多人看来，就等于有意促成被照护者的死亡。诚然，如前所承认，有些情况下医生可以如实地说：他们所做行为或不作为将导致病人死亡，尽管他们并不想让病人死去。例如，若病人因认为延长生命的治疗无益而拒绝之，那么说医生遵从请求的意图只是尊重其意愿，是合理的。然而，如我们所见，另有一些情况下，若仍像某些医生一贯那样声称自己无意促成死亡，就极为牵强。
+    step2: |-
+      但我们还可以更进一步。给足滴定剂量、超过控制疼痛所需水平的吗啡，或撤除运动神经元病患者的呼吸机——在许多人看来，这已等于有意促成被照护者的死亡。诚然，如前所承认，有些情况下医生可以如实地说：自己的作为或不作为将导致病人死亡，尽管本无意让病人死去。例如病人因认为延长生命的治疗无益而拒绝之，此时说医生的意图只是尊重其意愿，是合理的。然而如我们所见，另有一些情况下，若仍像某些医生惯常那样声称自己无意促成死亡，就极为牵强。
+  - id: 53
+    kind: body
+    source: |-
+      These considerations should settle matters but do not do so for those who maintain that killing, in medical contexts, is always morally unjustified – a premise that underwrites much of the debate surrounding this fourth objection. But this underlying assumption is open to challenge and has been challenged by, for instance, Rachels 1986 and McMahan 2002. One of the reasons the challengers have given is that there are cases in which killing a competent dying person when she requests assistance with dying, is morally preferable to allowing her to die, namely, when taking the latter option would serve only to prolong her suffering against her wishes. Further, despite the longstanding legal doctrine that no one can justifiably consent to be killed (on which more later), it surely is relevant to the justification of an act of killing that the person killed has autonomously decided that she would be better off dead and so asks to be helped to die.
+    step1: |-
+      这些考量本应了结问题，但对那些坚持“医疗语境中的杀害在道德上永远无法证成”的人却不了结——这一前提支撑着围绕第四项反驳的大部分争论。然而这一底层假定可受质疑，也确实受到质疑，例如 Rachels 1986 与 McMahan 2002。质疑者给出的理由之一是：有些情况下，当一个有行为能力的临终者请求协助死亡时，将其杀死在道德上优于任其死去——即采取后一选择只会违背其意愿地延长其痛苦。此外，尽管有一项长期法律原则认为无人能正当地同意被杀（后文再述），但“被杀死者已自主决定自己死了反而更好、因而请求协助死亡”这一点，对杀害行为的证成当然有相关性。
+    step2: |-
+      这些考量本应了结问题，但对坚持“医疗语境中的杀害在道德上永远无法证成”的人却不了结——这一前提支撑着围绕第四项反驳的大部分争论。然而这一底层假定可受质疑，也确实受到质疑，如 Rachels 1986 与 McMahan 2002。质疑者的理由之一是：有些情况下，有行为能力的临终者请求协助死亡时，将其杀死在道德上优于任其死去——采取后一选择只会违背其意愿地延长其痛苦。此外，有一项长期法律原则认为：无人能正当地同意他人将自己杀死（后文再述）。但“遭杀害者已自主决定自己死了反而更好、因而请求协助死亡”这一点，对杀害行为的证成当然相关。
+  - id: 54
+    kind: body
+    source: |-
+      ### 4.5 Objection 5
+    step1: |-
+      ### 4.5 Objection 5
+    step2: |-
+      ### 4.5 反驳五
+  - id: 55
+    kind: body
+    source: |-
+      It is sometimes said that if society allows *voluntary* euthanasia to be legalized, we will then have set foot on a slippery slope that will lead us eventually to support other forms of euthanasia, including, in particular, non-voluntary euthanasia. Whereas it was once the common refrain that that was precisely what happened in Hitler’s Germany, in recent decades the tendency has been to claim that experience with legalized euthanasia in the Netherlands and Belgium, in particular, has confirmed the reality of the slippery slope.
+    step1: |-
+      有时有人说，如果社会允许 *自愿* 安乐死合法化，我们便踏上了滑坡，最终将支持其他形式的安乐死，尤其是非自愿安乐死。曾经流行的说法是，希特勒的德国所发生的正是如此；近几十年来，人们则倾向于主张，荷兰与比利时的合法化安乐死经验尤其证实了滑坡的现实。
+    step2: |-
+      有时有人说：社会一旦允许 **自愿** 安乐死合法化，就等于踏上了滑坡，最终会支持其他形式的安乐死，尤其是非自愿安乐死。曾经流行的说法是，希特勒的德国正是如此；近几十年来，人们则倾向主张：荷兰与比利时合法化安乐死的经验，尤其证实了滑坡确有其事。
+  - id: 56
+    kind: body
+    source: |-
+      Slippery slope arguments come in various versions. One (but not the only) way of classifying them has been to refer to logical, psychological and arbitrary line versions. The common feature of the different forms is the contention that once the first step is taken on a slippery slope the subsequent steps follow inexorably, whether for logical reasons, psychological reasons, or to avoid arbitrariness in ‘drawing a line’ between a person’s actions. (For further discussion see, e.g., Rachels 1986; Brock 1992; Walton 1992.)[^rachels-1986]
+    step1: |-
+      滑坡论证有各种版本。一种（并非唯一的）分类方式，是分为逻辑式、心理式与任意划线式。不同形式的共同特征在于这一主张：一旦在滑坡上迈出第一步，后续各步便会不可阻挡地跟进——无论出于逻辑理由、心理理由，还是为避免在“划一条线”时陷入任意。（进一步讨论见如 Rachels 1986；Brock 1992；Walton 1992。）[^rachels-1986]
+    step2: |-
+      滑坡论证有各种版本。一种分类（并非唯一）是分为逻辑式、心理式与任意划线式。各种形式的共同点在于这一主张：一旦在滑坡上迈出第一步，后续各步便无可阻挡地跟进——或因逻辑，或因心理，或为避免“划线”时的任意。（进一步讨论见如 Rachels 1986、Brock 1992、Walton 1992。）[^rachels-1986]
+  - id: 57
+    kind: body
+    source: |-
+      We need first to consider whether, at the theoretical level, any of these forms of argument is powerful enough to refute the case for the legalization of voluntary euthanasia. We will then be in a position to comment on the alleged empirical support from the experiences of Hitler’s Germany and, more recently, of legalized euthanasia in the Netherlands and elsewhere, for the existence of a slippery slope that supposedly comes into being with the legalization of voluntary euthanasia.
+    step1: |-
+      我们首先须考察：在理论层面，这些论证形式中是否有哪一种强大到足以推翻自愿安乐死合法化的理由。然后我们才有资格评论所谓来自希特勒德国、以及晚近荷兰等地合法化安乐死经验的实证支持——据说，随着自愿安乐死的合法化，滑坡便应运而生。
+    step2: |-
+      我们先须考察：在理论层面，这些论证形式中是否有哪一种强到足以推翻自愿安乐死合法化的理由。此后才有资格评论所谓实证支持——来自希特勒的德国、以及晚近荷兰等地合法化安乐死的经验，据说随着自愿安乐死的合法化，滑坡便应运而生。
+  - id: 58
+    kind: body
+    source: |-
+      To begin with, there is nothing logically inconsistent in supporting voluntary euthanasia while maintaining the moral inappropriateness of non-voluntary euthanasia. (However, for an attempt to press the charge that there is such an inconsistency see, e.g., Keown 2022.)[^keown-2022] Undoubtedly, some advocates of voluntary euthanasia wish also to lend their support to some acts of non-voluntary euthanasia, for example, for those in persistent vegetative states who have never indicated their wishes about being helped to die, or for certain severely disabled infants for whom the outlook is hopeless. (See, e.g., Kuhse and Singer 1985; Singer 1994; Stingl 2010; Sumner 2017.)[^kuhse-1985][^singer-1994][^stingl-2010][^sumner-2017] Others believe that the consent of the patient is strictly required if euthanasia is appropriately to be legalized. The difference is not a matter of logical acumen; it is to be explained by reference to the importance placed on key values by the respective supporters. Thus, for example, those who insist on the necessity for a competent request by a patient for medical assistance with dying typically believe that such a request is the paramount consideration in end-of-life decision making (even when it is harnessed to the value of individual well-being), whereas those who consider a person’s best interests to be the paramount consideration are more likely to believe in the justifiability of instances of non-voluntary euthanasia like those mentioned above.
+    step1: |-
+      首先，支持自愿安乐死而坚持非自愿安乐死在道德上不适当，二者并无逻辑矛盾。（不过，若要看一种试图追究此处存在矛盾的努力，见如 Keown 2022。）[^keown-2022] 无疑，有些自愿安乐死的拥护者也愿支持某些非自愿安乐死行为，例如对从未表明过死亡协助意愿的持续性植物状态者，或对预后无望的某些重度残疾婴儿。（见如 Kuhse and Singer 1985；Singer 1994；Stingl 2010；Sumner 2017。）[^kuhse-1985][^singer-1994][^stingl-2010][^sumner-2017] 另一些人则认为，安乐死若要有正当理由合法化，严格需要病人的同意。这一分歧无关逻辑敏锐度，而应按各自支持者所重之关键价值来解释。例如，坚持病人须胜任地请求医学死亡协助者，通常认为这种请求是临终决策中的最高考量（即便与个人福祉的价值合观亦然）；而以个人最佳利益为最高考量者，则更可能相信上述那类非自愿安乐死行为可以证成。
+    step2: |-
+      首先，支持自愿安乐死而坚持非自愿安乐死在道德上不适当，二者并无逻辑矛盾。（要追究此处矛盾的努力，见如 Keown 2022。）[^keown-2022] 无疑，有些自愿安乐死的拥护者也愿支持某些非自愿安乐死行为，例如对从未表明过死亡协助意愿的持续性植物状态者，或对预后无望的某些重度残疾婴儿。（见如 Kuhse and Singer 1985、Singer 1994、Stingl 2010、Sumner 2017。）[^kuhse-1985][^singer-1994][^stingl-2010][^sumner-2017] 另一些人则认为，安乐死若要有正当理由合法化，严格需要病人的同意。这一分歧无关逻辑敏锐度，而应按各自支持者所重之关键价值来解释。坚持病人须胜任地请求医学死亡协助者，通常视此种请求为临终决策中的最高考量，即便与个人福祉合观亦然；以个人最佳利益为最高考量者，则更可能相信上述那类非自愿安乐死行为可以证成。
+  - id: 59
+    kind: body
+    source: |-
+      Next, it is hard to see why moving from voluntary to non-voluntary euthanasia is supposed to be psychologically inevitable. Why should those who support the legalization of voluntary euthanasia, because they value the autonomy of the individual, find it psychologically easier, in consequence, to endorse the killing of those who are not able competently to request assistance with dying? What reason is there to believe that they will, as a result of their support for voluntary euthanasia, be psychologically driven to endorse a practice of non-voluntary euthanasia?
+    step1: |-
+      其次，很难看出为什么从自愿安乐死走向非自愿安乐死在心理上会被认为是不可避免的。那些因重视个人自主而支持自愿安乐死合法化的人，为何会因此在心理上更容易赞同杀死那些无法胜任地请求死亡协助的人？有什么理由相信，他们会因支持自愿安乐死而在心理上被驱使去赞同非自愿安乐死的做法？
+    step2: |-
+      其次，很难看出从自愿安乐死走向非自愿安乐死何以在心理上不可避免。那些因重视个人自主而支持合法化的人，为何会因此在心理上更容易赞同杀死无法胜任地请求协助的人？有何理由相信，他们会因支持自愿安乐死而被心理驱使去赞同非自愿安乐死的做法？
+  - id: 60
+    kind: body
+    source: |-
+      Finally, since there is nothing arbitrary about distinguishing voluntary euthanasia from non-voluntary euthanasia (because the line between them is based on clear principles), there can be no substance to the charge that only by arbitrarily drawing a line between them could non-voluntary euthanasia be avoided were voluntary euthanasia to be legalized.
+    step1: |-
+      最后，既然区分自愿安乐死与非自愿安乐死并无任意之处（二者之界线基于明确原则），那么“只有任意划线才能避免非自愿安乐死、若自愿安乐死合法化”的指责便无实质内容。
+    step2: |-
+      最后，区分自愿安乐死与非自愿安乐死并无任意之处——二者界线基于明确原则。因此，所谓“自愿安乐死一旦合法化，便只有靠任意划线才能避免非自愿安乐死”的指责，并无实质内容。
+  - id: 61
+    kind: body
+    source: |-
+      What, though, of Hitler’s Germany and the recent experience of legalized voluntary euthanasia in the Netherlands and elsewhere? The former is easily dismissed as an indication of an inevitable descent from voluntary euthanasia to non-voluntary. There never was a policy in favor of, or a legal practice of, voluntary euthanasia in Germany in the 1920s to the 1940s (see, for example, Burleigh 1994)[^burleigh-1994]. There was, prior to Hitler coming to power, a clear practice of killing some disabled persons. But it was never suggested that their being killed was justified by reference to *their* best interests; rather, it was said that society would be benefited. Hitler’s later revival of the practice and its widening to take in other groups such as Jews and gypsies was part of a program of *eugenics*, not euthanasia.
+    step1: |-
+      那么，希特勒的德国、以及晚近荷兰等地合法化自愿安乐死的经验又如何？前者容易排除：它不能说明从自愿安乐死必然滑向非自愿安乐死。1920 至 1940 年代的德国，从未有过支持自愿安乐死的政策或合法实践（见如 Burleigh 1994）[^burleigh-1994]。在希特勒上台之前，确有一种杀死某些残疾人的明确做法。但从未有人主张，杀死他们是根据 *他们* 的最佳利益而得到证成；相反，说法是社会将因此受益。希特勒后来恢复这一做法并扩大及于犹太人、吉普赛人等其他群体，属于 *优生学* 纲领，而非安乐死。
+    step2: |-
+      那么，希特勒的德国，以及晚近荷兰等地合法化自愿安乐死的经验又如何？前者容易排除：它不足以说明从自愿安乐死必然滑向非自愿安乐死。1920 至 1940 年代的德国，从未有过支持自愿安乐死的政策或合法实践（见如 Burleigh 1994）[^burleigh-1994]。希特勒上台之前，确有一种杀死某些残疾人的明确做法。但从未有人说，杀死他们是根据 **他们** 的最佳利益而得到证成；说法恰恰是：社会将因此受益。希特勒后来恢复这一做法、并把范围扩大到犹太人、吉普赛人等群体，属于 **优生学** 纲领，而非安乐死。
+  - id: 62
+    kind: body
+    source: |-
+      Since the publication of the Remmelink Report in 1991 into the medical practice of euthanasia in the Netherlands, it has frequently been said that the Dutch experience shows that legally protecting voluntary euthanasia is impossible without also affording shelter to the non-voluntary euthanasia that will follow in its train (see, e.g., Keown 2018)[^keown-2018]. In the period since that report there have been regular national studies of the practice of euthanasia in the Netherlands (see, e.g., Rietjens, et al. 2009; Onwuteaka-Philipsen, et al. 2012; van der Heide, et al. 2017). The findings from these national studies have consistently shown that there is no evidence for the existence of such a slippery slope. Among the specific findings the following are worth mentioning: of those terminally ill persons who have been assisted to die about sixty per cent have clearly been cases of voluntary euthanasia as it has been characterised in this entry; of the remainder, the vast majority of cases were of patients who at the time of their medically assisted deaths were no longer competent. It might be thought that these deaths ought to be regarded as instances of non-voluntary euthanasia. But, in fact, it would be inappropriate to regard them as such. Here is why. For the overwhelming majority of these cases, the decisions to end life were taken only after consultation between the attending doctor(s) and close family members, and so can legitimately be thought of as involving substituted judgements. Moreover, according to the researchers, the overwhelming majority of these cases fit within either of two common practices that occur in countries where voluntary euthanasia has not been legalized, namely, that of terminal sedation of dying patients, and that of giving large doses of opioids to relieve pain while foreseeing that this will also end life. In a very few cases, there was no consultation with relatives, though in those cases there were consultations with other medical personnel. The researchers contend that these instances are best explained by the fact that families in the Netherlands strictly have no final legal authority to act as surrogate decision-makers for incompetent persons. For these reasons the researchers maintain that non-voluntary euthanasia is not widely practised in the Netherlands.
+    step1: |-
+      自 1991 年《雷默林克报告》发表、披露荷兰安乐死的医疗实践以来，人们常说荷兰经验表明：法律保护自愿安乐死，同时不可能不给随之而来的非自愿安乐死提供庇护（见如 Keown 2018）[^keown-2018]。自该报告以来，荷兰定期对安乐死实践作全国性研究（见如 Rietjens, et al. 2009；Onwuteaka-Philipsen, et al. 2012；van der Heide, et al. 2017）。这些全国研究的结果一致表明：没有证据显示存在这样的滑坡。在具体发现中，以下几点值得提及：在被协助死亡的绝症患者中，约六成显然属于本词条所刻画的自愿安乐死；其余绝大多数，是死亡之时已不再有行为能力的病人。人们或会认为这些死亡应视为非自愿安乐死。但事实上，如此看待并不恰当。理由如下。在这些案例的绝大多数中，结束生命的决定只在主治医生与近亲商议之后作出，故可正当地视为涉及替代判断。此外，据研究者说，这些案例的绝大多数符合两种常见做法之一，而这两种做法在未使自愿安乐死合法化的国家同样存在：一是对临终病人施行终末镇静；二是给予大剂量阿片类药物以缓解疼痛，同时预见这将结束生命。极少数案例未与亲属商议，但都与其他医务人员商议过。研究者主张，这些情形的最好解释是：在荷兰，家属严格说来并无代理失能者作决定的最终法律权限。据此研究者认为，非自愿安乐死在荷兰并不普遍。
+    step2: |-
+      自 1991 年《雷默林克报告》披露荷兰安乐死的医疗实践以来，人们常说荷兰经验表明：法律若保护自愿安乐死，就不可能不给随之而来的非自愿安乐死提供庇护（见如 Keown 2018）[^keown-2018]。该报告之后，荷兰定期对安乐死实践作全国性研究（见如 Rietjens, et al. 2009、Onwuteaka-Philipsen, et al. 2012、van der Heide, et al. 2017）。这些研究的结果一致表明：并无证据显示存在这样的滑坡。具体发现中，以下几点值得提及。在被协助死亡的绝症患者中，约六成显然属于本词条所刻画的自愿安乐死；其余绝大多数，是死亡之时已不再有行为能力的病人。人们或会认为这些死亡应算作非自愿安乐死。但如此看待并不恰当，理由如下：这些案例的绝大多数，结束生命的决定都只在主治医生与近亲商议之后作出，故可正当地视为涉及替代判断。此外据研究者说，这些案例的绝大多数符合两种常见做法之一，而这两种做法在未使自愿安乐死合法化的国家同样存在：一是对临终病人施行终末镇静；二是给予大剂量阿片类药物以缓解疼痛，同时预见这将结束生命。极少数案例未与亲属商议，但都与其他医务人员商议过。研究者主张，这些情形的最好解释是：在荷兰，家属严格说来并无代理失能者作决定的最终法律权限。据此他们认为，非自愿安乐死在荷兰并不普遍。
+  - id: 63
+    kind: body
+    source: |-
+      That there have only been a handful of prosecutions of Dutch doctors for failing to follow agreed procedures (Griffiths, et al. 1998; Asscher and van de Vathorst 2020)[^asscher-2020], that none of the doctors prosecuted has had a significant penalty imposed, that a significant proportion of requests for medical assistance with dying are rejected as unjustifiable, and that the Dutch public have regularly reaffirmed their support for the agreed procedures suggests that, contrary to the claims of some critics, the legalization of voluntary euthanasia has not increased the incidence of non-voluntary euthanasia. A similar picture to the one in the Netherlands has emerged from studies of the operation of the law concerning physician-assisted suicide in Oregon. Indeed, in a recent wide-ranging study of attitudes and practices of voluntary euthanasia and physician-assisted suicide covering two continents, a prominent critic of these practices has concluded (in agreement with his co-authors) that little evidence exists of abuse, particularly of the vulnerable (see Emanuel, et al., 2016). Unfortunately, insufficient time has elapsed for appropriate studies to be conducted in the other jurisdictions that have legalized either voluntary euthanasia or physician-assisted suicide (but for some relevant evidence see e.g., White, et al. 2022). Finally, some commentators have pointed out that there may, in reality, be more danger of the line between voluntary and non-voluntary euthanasia being blurred if euthanasia is practised in the absence of legal recognition, since there will, in those circumstances, be neither transparency nor monitoring (which cannot be said of the Netherlands, Belgium, Oregon and so on).
+    step1: |-
+      荷兰医生因未遵守议定程序而受起诉的只有寥寥数例（Griffiths, et al. 1998；Asscher and van de Vathorst 2020）[^asscher-2020]，被起诉的医生无一受到重大处罚，相当比例的医学死亡协助请求因无法证成而被驳回，而荷兰公众一再重申支持议定程序——这些都表明，与某些批评者的主张相反，自愿安乐死的合法化并未增加非自愿安乐死的发生率。关于俄勒冈州医师协助自杀法律运作的研究，呈现出与荷兰相似的情形。事实上，在一项涵盖两大洲、范围广泛的调查中，一位对这些做法持鲜明批评态度的学者（与其合著者一致）得出结论：很少有证据显示存在滥用，尤其是对弱势者的滥用（见 Emanuel, et al., 2016）。遗憾的是，在其他已使自愿安乐死或医师协助自杀合法化的法域，尚未经过足够时间以开展适当研究（但可参看 White, et al. 2022 提供的一些相关证据）。最后，一些评论者指出，若安乐死在实践中缺乏法律承认，自愿与非自愿安乐死之间的界线在现实中反而更有可能模糊，因为那时既无透明性也无监督（荷兰、比利时、俄勒冈等地则不然）。
+    step2: |-
+      荷兰医生因未遵守议定程序而受起诉的只有寥寥数例（Griffiths, et al. 1998；Asscher and van de Vathorst 2020）[^asscher-2020]；被起诉者无一受到重大处罚；相当比例的医学死亡协助请求因无法证成而遭驳回；荷兰公众又一再重申支持议定程序。这些都与某些批评者的主张相反，表明自愿安乐死的合法化并未增加非自愿安乐死的发生率。关于俄勒冈州医师协助自杀法律运作的研究，也呈现出与荷兰相似的情形。事实上，一项涵盖两大洲、范围广泛的调查考察了自愿安乐死与医师协助自杀的态度与实践；其中一位对这些做法持鲜明批评的学者与合著者一致得出结论：很少有证据显示存在滥用，尤其是对弱势者的滥用（见 Emanuel, et al., 2016）。遗憾的是，其他已使自愿安乐死或医师协助自杀合法化的法域，尚未经过足够时间以开展适当研究（相关证据可参看 White, et al. 2022）。最后，一些评论者指出：若安乐死在实践中缺乏法律承认，自愿与非自愿安乐死之间的界线在现实中反而更可能模糊。因为那时既无透明，也无监督——荷兰、比利时、俄勒冈等地则不然。
+  - id: 64
+    kind: body
+    source: |-
+      None of this is to suggest that it is not necessary to ensure the presence of safeguards against potential abuse of legally protected voluntary euthanasia. This is particularly important for the protection of those who have become incompetent by the time decisions need to be taken about whether to assist them to die. Furthermore, it is, of course, possible that the reform of any law may have unintended effects. However, if the arguments outlined above are sound (and the experience in the Netherlands, Belgium and Luxembourg, along with the more limited experience in several states in the United States and in Canada, is, for the present, not only the best evidence we have that they are sound, but the *only* relevant evidence), that does not seem very likely.
+    step1: |-
+      这一切并不表示无须确保设有防范合法保护之自愿安乐死遭滥用的保障措施。对于那些在需要决定是否协助其死亡时已失去行为能力者，此种保护尤为重要。此外，任何法律的改革当然都可能产生意外效果。然而，若上述论证成立（而荷兰、比利时、卢森堡的经验，加上美国若干州与加拿大较为有限的经验，目前不仅是我们所拥有的、证明这些论证成立的最佳证据，而且是 *唯一* 的相关证据），那种意外似乎不大可能。
+    step2: |-
+      这一切并不表示无须确保设有保障措施，以防合法保护的自愿安乐死遭滥用。对于那些在需要决定是否协助其死亡时已失去行为能力者，此类保护尤为重要。此外，任何法律改革当然都可能产生意外效果。然而，若上述论证成立，那种意外似乎不大可能。荷兰、比利时、卢森堡的经验，加上美国若干州与加拿大较有限的经验，是目前证明这些论证成立的最佳证据，也是 **唯一** 的相关证据。
+  - id: 65
+    kind: body
+    source: |-
+      It is now well-established in many jurisdictions that competent patients are entitled to make their own decisions about life-sustaining medical treatment. That is why they can refuse such treatment even when doing so is tantamount to deciding to end their life. It is plausible to think that the fundamental basis of the right to decide about life-sustaining treatment – respect for a person’s autonomy and her assessment of what will best serve her well-being – has direct relevance to the legalization of voluntary euthanasia (see, e.g., Dworkin 1998; Young 2007, 2017; Sumner 2011, 2017)[^dworkin-1998][^dworkin-1998-2][^sumner-2011][^young-2007]. In consequence, extending the right of self-determination to cover cases of voluntary euthanasia does not require a dramatic shift in legal policy. Nor do any novel legal values or principles need to be invoked. Indeed, the fact that suicide and attempted suicide are no longer criminal offences in many jurisdictions indicates that the central importance of individual self-determination in a closely analogous context has been accepted. The fact that voluntary euthanasia and physician-assisted suicide have not been more widely decriminalized is perhaps best explained along a similar line to the one that has frequently been offered for excluding the consent of the victim as a justification for an act of killing, namely the difficulties thought to exist in establishing the genuineness of the consent. But, the establishment of suitable procedures for giving consent to voluntary euthanasia and physician-assisted suicide is surely no harder than establishing procedures for competently refusing burdensome or otherwise unwanted medical treatment. The latter has already been accomplished in many jurisdictions, so the former should be achievable as well.
+    step1: |-
+      如今在许多法域，有行为能力的病人有权就延长生命的医疗自行决定，这一点已确立。正因如此，他们可以拒绝此类治疗，即便拒绝无异于决定结束自己的生命。有理由认为，就延长生命治疗作决定之权利的根本基础——尊重个人的自主，及其对“什么最有益于自身福祉”的评估——与自愿安乐死的合法化直接相关（见如 Dworkin 1998；Young 2007, 2017；Sumner 2011, 2017）[^dworkin-1998][^dworkin-1998-2][^sumner-2011][^young-2007]。因此，把自我决定权延伸到自愿安乐死的情形，并不需要法律政策的剧烈转变。也无需援引任何新异的法律价值或原则。事实上，自杀与自杀未遂在许多法域已不再是犯罪，这表明：在一种密切类似的情境中，个人自我决定的核心重要性已获承认。自愿安乐死与医师协助自杀之所以未被更广泛地非罪化，也许最好按类似思路解释——人们常以之解释为何不把被害人同意作为杀害行为的正当理由，即认为难以确认同意的真实性。然而，为自愿安乐死与医师协助自杀设立适当的同意程序，肯定不比设立“胜任地拒绝负累或不想要的医疗”的程序更难。后者已在许多法域实现，前者也应可以做到。
+    step2: |-
+      如今在许多法域，有行为能力的病人有权就延长生命的医疗自行决定，这一点已牢固确立。正因如此，他们可以拒绝此类治疗，即便拒绝无异于决定结束自己的生命。有理由认为，就延长生命治疗作决定之权利的根本基础——尊重个人自主，及其对“什么最有益于自身福祉”的评估——与自愿安乐死的合法化直接相关（见如 Dworkin 1998、Young 2007, 2017、Sumner 2011, 2017）[^dworkin-1998][^dworkin-1998-2][^sumner-2011][^young-2007]。因此，把自我决定权延伸到自愿安乐死的情形，并不需要法律政策剧烈转向，也无需援引什么新异的法律价值或原则。事实上，自杀与自杀未遂在许多法域已不再是犯罪，可见个人自我决定的核心重要性在一种密切类似的情境中已获承认。自愿安乐死与医师协助自杀何以未被更广泛地非罪化，最好按类似思路解释。人们常以此解释为何不把被害人同意当作杀害行为的正当理由：难以确证同意的真实性。然而，为自愿安乐死与医师协助自杀设立适当的同意程序，肯定不比设立“胜任地拒绝负累或不想要的医疗”的程序更难。后者已在许多法域实现，前者也应可以做到。
+  - id: 66
+    kind: body
+    source: |-
+      Suppose that the moral case for legalizing voluntary euthanasia and physician-assisted suicide does come to be judged more widely as stronger than the case against legalization, and they are made legally permissible in more jurisdictions than at present. Should doctors take part in the practice? Should only doctors perform voluntary euthanasia? These questions ought to be answered in light of the best understanding of what it is to provide medical care. The proper administration of medical care should promote the welfare of patients while respecting their individual self-determination. It is these twin values that should guide medical care, not the preservation of life at all costs, or the preservation of life without regard to whether patients want their lives prolonged should they judge that life is no longer of benefit or value to them. Many doctors in those jurisdictions where medically assisted death has been legalized and, to judge from available survey evidence, in other liberal democracies as well, see the practice of voluntary euthanasia and physician-assisted suicide as not only compatible with their professional commitments but also with their conception of the best medical care for the dying. That being so, doctors of the same conviction in jurisdictions in which voluntary medically assisted death is currently illegal should no longer be prohibited by law from lending their professional assistance to competent terminally ill persons who request assistance with dying because of irremediable suffering or because their lives no longer have value for them.
+    step1: |-
+      假定支持自愿安乐死与医师协助自杀合法化的道德理由，真的被更广泛地判定为强于反对合法化的理由，它们也在更多法域获得法律允许。医生应当参与其实施吗？自愿安乐死是否只应由医生施行？这些问题应依“何为提供医疗照护”的最佳理解来回答。医疗照护的正当施行，应促进病人的福祉，同时尊重其个人自我决定。指导医疗照护的应是这两项价值，而不是不惜一切代价保全生命，也不是不顾病人是否认为生命已无益、无价值仍要保全其生命。在已使医学协助死亡合法化的法域，许多医生——从现有调查证据看，其他自由民主国家亦然——认为自愿安乐死与医师协助自杀的实践不仅与自己的职业承诺相容，也与自己对最佳临终医疗的构想相容。既然如此，在自愿医学协助死亡目前仍属违法的法域，抱有同样信念的医生就不应再被法律禁止向那些因无法补救之苦、或因生命对自己已无价值而请求协助死亡的有行为能力绝症患者提供专业协助。
+    step2: |-
+      假定支持自愿安乐死与医师协助自杀合法化的道德理由，真被更广泛地判定为强于反对理由，且这些做法在更多法域获法律允许。那么，医生应当参与其实施吗？自愿安乐死是否只应由医生施行？这些问题应依“何为提供医疗照护”的最佳理解来回答。医疗照护的正当施行，应促进病人福祉，同时尊重其个人自我决定。指导医疗照护的应是这两项价值，而不是不惜一切代价保全生命，也不是不顾病人是否认为生命已无益无价值仍要保全其生命。在已使医学协助死亡合法化的法域，许多医生持这样的看法。从现有调查证据看，其他自由民主国家亦然：自愿安乐死与医师协助自杀的实践，不仅与自己的职业承诺相容，也与自己关于最佳临终医疗的构想相容。既然如此，在自愿医学协助死亡仍属违法的法域，抱有同样信念的医生就不应再被法律禁止向有行为能力的绝症患者提供专业协助。这些病人或因无法补救之苦、或因生命对自己已无价值而请求协助死亡。
+  - id: 67
+    kind: oir
+    source: |-
+      - [Medically Assisted Dying](http://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0042.xml), an annotated bibliography authored by Robert Young (La Trobe University)
+      - [Eight Reasons Not to Legalize Physician Assisted Suicide](http://bioethics.org.uk/EightReasonsNottoLegalizePAS.pdf), by David Albert Jones, online resource at the Anscombe Bioethics Centre website.
+    step1: |-
+      - [Medically Assisted Dying](http://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0042.xml), an annotated bibliography authored by Robert Young (La Trobe University)
+      - [Eight Reasons Not to Legalize Physician Assisted Suicide](http://bioethics.org.uk/EightReasonsNottoLegalizePAS.pdf), by David Albert Jones, online resource at the Anscombe Bioethics Centre website.
+    step2: |-
+      - [医学协助死亡](http://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0042.xml)，罗伯特·杨（拉筹伯大学）撰写的带注释书目。
+      - [反对使医师协助自杀合法化的八条理由](http://bioethics.org.uk/EightReasonsNottoLegalizePAS.pdf)，David Albert Jones 撰，安斯科姆生命伦理学中心网站的网络资源。
