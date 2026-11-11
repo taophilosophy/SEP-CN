@@ -2040,152 +2040,202 @@ segments:
     kind: body
     source: |-
       ## 10. The Vaiśeṣika Concepts of Universal, Inherence, and Basic Differentium
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 10. 胜论的普遍、和合与基本别异概念
+    step2: |-
+      ## 10. 胜论的普遍、和合与基本别异概念
   - id: 241
     kind: body
     source: |-
       ### 10.1 Universals
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 10.1 普遍
+    step2: |-
+      ### 10.1 普遍
   - id: 242
     kind: body
     source: |-
       *The Manual of Reason* reports the standard Nyāya-Vaiśeṣika definition of a universal (*sāmānya, jāti*):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《理性手册》转述正理胜论关于普遍（*sāmānya*、*jāti*）的标准定义：
+    step2: |-
+      《理性手册》转述了正理胜论给普遍（*sāmānya*、*jāti*）下的标准定义：
   - id: 243
     kind: body
     source: |-
       > A universal is something which is (i) eternal, (ii) unitary, and (iii) located in a plurality of things (substances, qualities or motions). (TS 82)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 普遍是 (i) 恒常、(ii) 单一、(iii) 居于多数事物（实体、性质或运动）之中的东西。（TS 82）
+    step2: |-
+      > 所谓普遍，就是 (i) 恒常、(ii) 单一、(iii) 寓于多数事物（实体、性质或运动）之中的东西。（TS 82）
   - id: 244
     kind: body
     source: |-
       Universals are thus conceived of as unstructured, objective properties which necessarily reside in individuals. The postulation of such entities in the Vaiśeṣika schema has explanatory force, accounting for the distinction between ‘natural’ and ‘conventional’ classifications. Intuitively, this is the distinction between groupings such as the class of cows or horses, which reflect natural divisions (“cut nature at the joints”), and those such as the class of Cabinet Ministers or the class of endangered species, which reflect anthropocentric concerns. The Naiyāyikas mark this distinction by calling natural properties “universals” (*jāti*) and anthropocentric properties “imposed” or “nominal” properties (*upādhi*). Correlatively, a semantic distinction is drawn between “natural kind terms” (*naimittikī*), i.e. terms the basis for whose application is a universal, and “imposed kind terms”, terms whose basis for application is an anthropocentric property. Udayana tried to make this distinction more precise by giving a list of criteria for a property to count as natural. Examination of his list (which are called the “*jāti-bādhakas*”—impediments distinguishing natural properties) will reveal something further about the nature of the natural properties according to Nyāya.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是，普遍被设想为无结构的客观属性，必然寓居于个体之中。在胜论图式中设定这类实体具有解释力：它说明了“自然的”分类与“约定的”分类之别。直观地说，这是牛类或马类这类分组（反映自然的分界，“顺着自然的关节切开”）与内阁部长类或濒危物种类这类分组（反映人类中心的关切）之间的区别。正理论师用命名来标记这一区分：自然属性称为“普遍”（*jāti*），人类中心的属性称为“假立”或“名义”属性（*upādhi*）。相应地，语义上也作出区分：“自然种类词”（*naimittikī*），即其应用根据是一个普遍的词，与“假立种类词”，即其应用根据是一个人类中心属性的词。优陀耶那试图通过给出一份属性算作自然的判准清单来使这一区分更精确。考察他的清单（称为 *jāti-bādhaka*，“类障”，即区分自然属性的障碍）将揭示正理关于自然属性本性的更多内容。
+    step2: |-
+      这样看来，普遍就是无结构的客观属性，必然寓于个体之中。在胜论图式里设定这类东西是有解释力的：它能说明“自然”分类与“约定”分类的差别。按直觉，这就是牛类、马类这样的分组（反映自然本身的分界，“顺着自然的关节下刀”）与内阁部长类、濒危物种类这样的分组（反映以人为中心的关切）之间的不同。正理论师用名称标出这一区分：自然属性叫“普遍”（*jāti*），以人为中心的属性叫“假立”或“名义”属性（*upādhi*）。语义上也相应分开：“自然种类词”（*naimittikī*）指应用根据为普遍的词；“假立种类词”则指应用根据为人类中心属性的词。优陀耶那想把这个区分弄得更精确，便开出了一份“什么算自然属性”的判准清单。看看这份清单（称作 *jāti-bādhaka*，即“类障”，区分自然属性的障碍），能进一步看出正理心中自然属性的面貌。
   - id: 245
     kind: body
     source: |-
       The six impediments are (1) ‘non-plurality’—a genuine universal must be plurally instantiated; (2) ‘equipollence’ (*tulyatva*)—two co-extensive properties cannot both be genuine universals; (3) ‘cross-connection’ (*saṃkara*)—two genuine universals must not partially overlap; (4) ‘regress’—a property like universality cannot itself be a universal, on pain of infinite regress (universality-hood, etc. etc.); (5) a property like differentia-hood cannot be a genuine universal, for by definition the basic differentia share no common universal property; (6) a property like inherence-hood cannot be a universal, since it does not inhere in its loci. Of these six, the last three are there basically to maintain the internal consistency of the Vaiśeṣika system, and the first is a straightforward consequence of the definition of a universal. It debars a singly-instanced properties such as space-hood from the status of genuine natural kind, perhaps motivated by the thought that the very nature of a universal consists in its grounding judgements of the form “*x* is of the same kind as *y*”, which presuppose that there are at least two entities.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      六种障碍是：(1)“非多数性”——真正的普遍必须有多个实例；(2)“等同”（*tulyatva*）——两个外延相同的属性不能都是真正的普遍；(3)“交叠”（*saṃkara*）——两个真正的普遍不得部分重叠；(4)“倒退”——像“普遍性”这样的属性本身不能是普遍，否则无穷倒退（普遍性之普遍性……）；(5) 像“别异性”这样的属性不能是真正的普遍，因为按定义，基本别异不共享任何共同的普遍属性；(6) 像“和合性”这样的属性不能是普遍，因为它不和合于其所在处。六者之中，后三条基本上是为了维持胜论体系的内部一致，第一条则是普遍定义的直接推论。它把“虚空性”这类只有单一实例的属性排除在真正自然种类之外，其动机或许是：普遍的本性就在于为“*x* 与 *y* 同类”这类判断奠基，而这类判断预设至少有两个实体。
+    step2: |-
+      六种障碍如下：(1)“非多数性”——真正的普遍必须有多于一例的实例；(2)“等同”（*tulyatva*）——两个外延完全相同的属性，不能都是真正的普遍；(3)“交叠”（*saṃkara*）——两个真正的普遍不得部分重叠；(4)“倒退”——“普遍性”这样的属性本身不能是普遍，否则会无穷倒退（普遍性的普遍性……）；(5)“别异性”这样的属性不能是真正的普遍，因为按定义，基本别异之间不共有任何普遍属性；(6)“和合性”这样的属性不能是普遍，因为它并不和合于自己的所在处。六条里头，后三条主要是为了保住胜论体系的内部一致；第一条则是普遍定义的直接推论——它把“虚空性”这种只有一例的属性挡在真正自然种类之外。其背后的想法也许是：普遍之所以为普遍，就在于为“*x* 与 *y* 同类”这类判断奠基，而这种判断起码得有两个实体才谈得上。
   - id: 246
     kind: body
     source: |-
       The second and third criteria are the most important, and can be stated more formally as follows. If *P* and *Q* are distinct properties, then (equipollence, *tulyatva*):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二与第三条最重要，可更形式地表述如下。若 *P* 与 *Q* 是不同属性，则（等同，*tulyatva*）：
+    step2: |-
+      第二、第三条最要紧，可以写得更形式一些。设 *P* 与 *Q* 为不同属性，则（等同，*tulyatva*）：
   - id: 247
     kind: body
     source: |-
       > [*P*] = [*Q*] → either *P* or *Q* (or both) is not a universal,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > [*P*] = [*Q*] → *P* 或 *Q*（或二者）不是普遍，
+    step2: |-
+      > [*P*] = [*Q*] → *P* 或 *Q*（或两者）不是普遍；
   - id: 248
     kind: body
     source: |-
       where ‘[*P*]’ denotes the extension of *P*. The contraposed form is:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其中“[*P*]”表示 *P* 的外延。其逆否形式是：
+    step2: |-
+      其中“[*P*]”指 *P* 的外延。取逆否式，就是：
   - id: 249
     kind: body
     source: |-
       > *P* and *Q* are universals → [*P*] ≠ [*Q*].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > *P* 与 *Q* 是普遍 → [*P*] ≠ [*Q*]。
+    step2: |-
+      > *P* 与 *Q* 都是普遍 → [*P*] ≠ [*Q*]。
   - id: 250
     kind: body
     source: |-
       Note that this does not entail that universal properties are extensionally individuated or equivalent to classes, as some have maintained. It shows only that corresponding to each class, there is at most one universal. Although, within the domain of universals, a universal is uniquely determined by its extension, the distinction between a universal and a co-extensive imposed property (e.g. pothood and conch-shell-like-neck-hood) is an intensional distinction.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      注意，这并不蕴含普遍属性是按外延个体化的、或等同于类——尽管有人如此主张。它只表明：与每个类相应，至多有一个普遍。虽然就普遍而言，一个普遍由其外延唯一确定，但普遍与外延相同的假立属性（如“罐性”与“螺壳状颈性”）之别，是一种内涵之别。
+    step2: |-
+      注意，这并不推出普遍属性是按外延来个体化的，也不推出它们等同于类——虽然有人这么主张。它只说明：每一个类，至多对应一个普遍。在普遍的范围之内，一个普遍固然由其外延唯一确定；但普遍与外延相同的假立属性（比如“罐性”与“螺壳状颈性”）之间，仍是内涵上的区别。
   - id: 251
     kind: body
     source: |-
       As for the third impediment (*sāṃkarya*), if *P* and *Q* are distinct properties, then
-    step1: TBD
-    step2: TBD
+    step1: |-
+      至于第三种障碍（*sāṃkarya*），若 *P* 与 *Q* 是不同属性，则
+    step2: |-
+      至于第三项障碍（*sāṃkarya*，交叠），设 *P* 与 *Q* 为不同属性，则
   - id: 252
     kind: body
     source: |-
       > [*P*] partially overlaps [*Q*] → either *P* or *Q* (or both) is not a universal.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > [*P*] 与 [*Q*] 部分重叠 → *P* 或 *Q*（或二者）不是普遍。
+    step2: |-
+      > [*P*] 与 [*Q*] 部分重叠 → *P* 或 *Q*（或两者）不是普遍。
   - id: 253
     kind: body
     source: |-
       The contraposed form is:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其逆否形式是：
+    step2: |-
+      逆否式是：
   - id: 254
     kind: body
     source: |-
       > *P* and *Q* are universals → [*P*] ⊂ [*Q*] or [*P*] ⊃ [*Q*] or [*P*] ∩ [*Q*] = ∅.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > *P* 与 *Q* 是普遍 → [*P*] ⊂ [*Q*] 或 [*P*] ⊃ [*Q*] 或 [*P*] ∩ [*Q*] = ∅。
+    step2: |-
+      > *P* 与 *Q* 是普遍 → [*P*] ⊂ [*Q*]，或 [*P*] ⊃ [*Q*]，或 [*P*] ∩ [*Q*] = ∅。
   - id: 255
     kind: body
     source: |-
       (The inclusion is strict because of the ‘equipollence’ constraint.) In other words, genuine universals are arranged in a hierarchy: given two universals, either they are related as genus and species, all instances of one being instances of the other, or else they are completely disjoint, having no instance in common (e.g. cowhood-animalhood, cowhood-treehood). The Nyāya say that, if one universal is thus subsumed by another, the former is ‘lower’ (*apara*) and the latter is ‘higher’ (*para*) (cf. TS 6). The ‘highest’ universal of all is ‘existentness’ (*sattā*), into whose extension falls every substance, quality and motion. The demand that universals be organised hierarchically shows that the Nyāya took as their paradigm the biological species, which tend to exhibit this structure. Bearing in mind that the term for “universal”, i.e. “*jāti*” is also the word for caste, Matilal (1971: 76) speculates that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （包含是严格的，因为受“等同”约束。）换言之，真正的普遍按等级排列：给定两个普遍，它们或如属与种相关联，一个的一切实例都是另一个的实例；或完全不相交，没有共同实例（如牛性与动物性、牛性与树性）。正理说，若一个普遍如此被另一个所包含，前者“较低”（*apara*），后者“较高”（*para*）（参 TS 6）。最高的普遍是“存在性”（*sattā*），一切实体、性质与运动都落入其外延。要求普遍按等级组织，表明正理以生物物种为范式，而生物物种往往呈现这种结构。考虑到“普遍”一词即 *jāti* 同时也是“种姓”一词，Matilal（1971: 76）推测：
+    step2: |-
+      （包含是严格的，因为要受“等同”约束。）换句话说，真正的普遍排成一个层级：给两个普遍，它们要么是属种关系，一个的一切实例都是另一个的实例；要么完全不相交，没有一个共同实例（比如牛性与动物性、牛性与树性）。正理说，一个普遍若这样被另一个包含，就是“较低”（*apara*），后者则“较高”（*para*）（参考 TS 6）。最高的普遍是“存在性”（*sattā*），一切实体、性质、运动都落在它的外延里。普遍必须按层级组织，这说明正理拿生物物种当了样板，因为生物物种往往就是这种结构。别忘了，“普遍”一词即 *jāti*，同时也是“种姓”一词，Matilal（1971: 76）因此推测：
   - id: 256
     kind: body
     source: |-
       > [O]ne might discover in the Nyāya doctrine of generic property a remote influence of the socio-religious ideas of the Brahmins. Translated into biological terms, the … principle of ‘non-overlapping’ becomes a principle which opposes cross-breeding. There is thus some evidence that the Nyāya bias for real generic properties was partly influenced by the Brahmanical concept of an ideal social order where intermixture of classes is not to be permitted.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 人们或许能在正理的普遍属性学说中，发现婆罗门社会宗教观念的遥远影响。译成生物学的说法，那条……“不重叠”原则，就成了一条反对杂交的原则。因此有理由认为，正理对真实普遍属性的偏爱，部分受到婆罗门式理想社会秩序观念的影响——在这种秩序里，种姓的混杂是不许发生的。
+    step2: |-
+      > 也许，从正理的类属性学说里，能看出婆罗门社会—宗教观念的遥远影响。若译成生物学的语言，那条……“不重叠”原则，就成了一条禁止杂交的原则。因此有理由相信，正理偏爱真实的类属性，部分是被婆罗门式理想社会秩序观感染的——在那种秩序里，种姓之间的混杂不被容许。
   - id: 257
     kind: body
     source: |-
       Some Naiyāyikas, especially Bhāsarvajña and Raghunātha, reject the ‘cross-connection’ impediment, pointing out the problems encountered trying to apply it to non-biological natural kinds (e.g. redness and greenness overlap, as do pothood and goldhood). Raghunātha suggests that consistent application of this principle would eliminate virtually all universals from the ontology. Udayana’s criterion of a property to be ‘natural’ is thus not a necessary one, and neither is it sufficient: none of his impediments shows why the pair ‘blue-green’ is more natural than Goodman’s pair ‘grue-bleen’ (where x is grue iff x is green and examined before time t, and is blue otherwise, and vice versa for bleen.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一些正理论师，尤其跋沙罗婆吉那与罗怙那陀，拒斥“交叠”障碍，指出把它用于非生物的自然种类（如红性与绿性重叠、罐性与金性重叠）时遇到的困难。罗怙那陀提出，若一贯应用这条原则，几乎会把一切普遍都逐出存在论。于是，优陀耶那关于属性“自然”的判准既非必要也非充分：他的障碍没有一条说明为什么“蓝—绿”这一对比古德曼的“绿蓝—蓝绿”更自然（设 *x* 为绿蓝，当且仅当 *x* 为绿且在 *t* 时刻之前被检查，否则为蓝；蓝绿反之）。
+    step2: |-
+      有些正理论师——尤其是跋沙罗婆吉那和罗怙那陀——不接受“交叠”这条障碍。他们指出，拿它去套非生物的自然种类就麻烦了（红性与绿性重叠，罐性与金性也重叠）。罗怙那陀甚至说，若把这条原则贯彻到底，存在论里几乎剩不下什么普遍。如此看来，优陀耶那那条“自然属性”的判准，既不必要，也不充分：他的障碍没有一条能说明，为什么“蓝—绿”这一对就比古德曼的“绿蓝—蓝绿”更自然（*x* 是绿蓝，当且仅当 *x* 是绿且在时刻 *t* 之前被检查过，否则是蓝；蓝绿反之）。
   - id: 258
     kind: body
     source: |-
       The idea that universals are, in some sense, ‘located’ in particulars generated two distinctive objections to the theory. Diṅnāga trades on the spatial metaphor to argue that the Nyāya conception of universals is incoherent. For, if a universal is ‘unitary’, it can be located in at most one place, and thus not ‘plurally instanced’. If, conversely, if is located simultaneously at many places, that can only be because it has parts, each located at a different place, and hence is not ‘unitary’. This argument plays on the ambiguity of the notion of ‘being located’, and pretends that a universal like cowhood is located in individual cows in just the same sense that a cow is located in a field. Nevertheless, it forces the Nyāya to be more careful in its account of the universal-particular relation. As *The Manual of Reason* notes (TS 84), a universal is said to reside in its instances by the relation of ‘inherence’ (*samavāya*), defined as an “inseparability” (*ayutasiddhi*) relation. Of two entities, *x* and *y*,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      普遍在某种意义上“位于”个别之中的想法，引出了两个针对该理论的独特反驳。陈那利用空间隐喻论证正理的普遍观不自洽：若普遍是“单一”的，它至多能位于一处，因而并非“多实例的”；反之，若它同时位于多处，那只可能是因为它有部分，每部分位于不同处，于是它并非“单一”。这一论证玩弄“位于”观念的歧义，硬把牛性位于个别牛之中，说成与一头牛位于田野之中同义。但它迫使正理更小心地说明普遍—个别关系。正如《理性手册》（TS 84）所指出的，普遍据说通过“和合”（*samavāya*）关系寓于其诸实例之中，而和合被定义为一种“不离”（*ayutasiddhi*）关系。就两个实体 *x* 与 *y* 而言：
+    step2: |-
+      普遍在某种意义上“位于”个别之中——这个说法招来两个别具一格的反驳。陈那借空间隐喻发难：若普遍是“单一”的，它最多只能在一处，那就不成其为“多实例”；反过来，若它同时位于多处，那只能是因为它有部分、各部分在不同处，于是它又不“单一”了。这个论证玩弄“位于”一词的歧义，硬说牛性位于各头牛之中，跟一头牛位于田里是一回事。不过，它逼着正理把普遍与个别的关系讲得更小心。正如《理性手册》（TS 84）所记，普遍据说借“和合”（*samavāya*）关系寓于其诸实例之中，而和合被定义为一种“不离”（*ayutasiddhi*）关系。设有两个实体 *x* 与 *y*：
   - id: 259
     kind: body
     source: |-
       > *x* is inseparable from *y* iff *x* cannot exist unless *y* exists.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > *x* 与 *y* 不离，当且仅当除非 *y* 存在，*x* 不能存在。
+    step2: |-
+      > *x* 与 *y* 不离，当且仅当除非 *y* 存在，*x* 便不能存在。
   - id: 260
     kind: body
     source: |-
       The idea is that a cow cannot exist unless the universal cowhood exists, and that it is in this sense that cowhood is located in the cow. (The same relation is claimed to occur between non-repeatable ‘qualities’ (*guṇa*) and substances, a whole and its parts, and the basic differentia and the atoms.) Spatial location, on the other hand, involves a quite different relation, namely contact (*saṃyoga*). In this way, the term ‘location’ is disambiguated.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其想法是：除非“牛性”这一普遍存在，否则牛不能存在；正是在这个意义上，牛性位于牛之中。（据说同样的关系也发生于不可重复的“性质”（*guṇa*）与实体之间、整体与其部分之间、基本别异与原子之间。）反之，空间位置涉及一种完全不同的关系，即接触（*saṃyoga*）。于是，“位置”一词的歧义被厘清了。
+    step2: |-
+      意思是：牛要存在，就得先有“牛性”这个普遍存在；牛性位于牛中，正是在这个意义上说的。（据说同样的关系还出现在不可重复的“性质”（*guṇa*）与实体之间、整体与部分之间、基本别异与原子之间。）而空间位置涉及的是另一种关系，即接触（*saṃyoga*）。这样一来，“位置”一词的两义就分清了。
   - id: 261
     kind: body
     source: |-
       The other problem is the classic one: what happens to a universal if all its instances are destroyed? Can universals exist without being instantiated? The definition of the inherence relation permits this, for the requirement is that cows cannot exist without cowhood, not vice versa. We might say that the cow’s existence supervenes on that of the universal cowhood. However, it is not so clear that we can say in the same way that the parts (of a car, say) cannot exist unless the whole (car) exists.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一个问题是个老问题：若一个普遍的一切实例都被毁灭，它会怎样？普遍能在没有实例的情况下存在吗？和合关系的定义允许如此，因为它要求的是“牛不能离牛性而存在”，而非反过来。我们或许可以说，牛的存在随附于牛性这一普遍的存在。然而，我们能否同样说（比如汽车的）部分离开整体（汽车）就不能存在，就不那么清楚了。
+    step2: |-
+      另一个是老问题：一个普遍的所有实例都毁掉了，这个普遍会怎样？没有实例，普遍还能存在吗？按和合关系的定义，可以——它只要求“没有牛性就没有牛”，不要求反过来。或许可以说，牛的存在随附于牛性这个普遍的存在。可要说（比如汽车的）部件离开整体（汽车）就不能存在，就没那么清楚了。
   - id: 262
     kind: body
     source: |-
       ### 10.2 The Basic Differentia (*viśeṣa*)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 10.2 基本别异（*viśeṣa*）
+    step2: |-
+      ### 10.2 基本别异（*viśeṣa*）
   - id: 263
     kind: body
     source: |-
       The Vaiśeṣika traditionally and uniquely accept into their ontology a category of item called ‘basic differentia’ (*viśeṣa*), from which, some claim, they derive their name. *The Manual of Reason* defines these items as follows (TS 83): “those entities which reside in the eternal substances [i.e. the atoms] and function as their differentiators are called *viśeṣa*”. The idea is that, just as a cow and a horse are distinct entities, as they have distinct properties, so too even two atoms of the same substance, e.g. earth, must differ with respect to at least one property. Each atom, therefore, possesses a ‘differentium’ unique to itself, which serves to distinguish it from any other atom of the same type. The assumption, then, is that any two non-identical items are distinguished by virtue of possessing distinct properties. This is the contraposed version of Leibniz’ Law that Indiscernibles are Identical, that (∀*P*)(*Px* ≡ *Py*) → (*x* = *y*), where “*P*” ranges over properties. The principle faces triviality unless certain constraints are placed on the range of properties quantified over. For example, if the property “… = *y*” is permitted, the principle states vacuously that identicals are identical. The Vaiśeṣikas implicitly restrict the principle to intrinsic, non-relational properties of the objects concerned, ruling out, for example, ‘being at a certain spatial or temporal location’ as being a property capable of discriminating two otherwise identical objects. Thus, the claim seems to be that no two objects, including atoms, can be intrinsically identical. This is how Leibniz himself appears to have understood his Law, saying that “It is always necessary that beside the difference of time and place there be internal principles of distinction….thus although time and place serve in distinguishing things, we do not easily distinguish them by themselves,” and that “There is no such thing as two individuals indiscernible from each other. Two drops of water, or milk, viewed with a microscope, will appear distinguishable from each other”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      胜论传统而独特地把一类称为“基本别异”（*viśeṣa*）的项目纳入存在论；有人称，胜论之名即由此而来。《理性手册》这样定义这些项目（TS 83）：“那些居于恒常实体［即原子］之中并充当其区分者的实体，称为 *viśeṣa*。”其想法是：正如牛与马因具有不同属性而是不同实体，即便同一物质（如土）的两个原子，也必须在至少一个属性上有所不同。因此，每个原子都具有一个唯它独有的“别异者”，用以把它与同类的任何其他原子区分开。其假定是：任何两个不相同的项目，都因具有不同属性而彼此有别。这是莱布尼茨“不可分辨者同一”律的逆否版，即 (∀*P*)(*Px* ≡ *Py*) → (*x* = *y*)，其中“*P*”取遍属性。除非对量化的属性范围施加某些限制，这条原则会流于琐碎。例如，若允许属性“……＝*y*”，该原则就空洞地说同一者同一。胜论师暗中把原则限制于对象内在的、非关系的属性，从而排除了例如“处于某空间或时间位置”作为能够区分两个其他方面相同的对象的属性。于是，其主张似乎是：没有两个对象（包括原子）能在内在方面完全相同。莱布尼茨本人似乎就是这样理解其定律的：他说“除了时间与地点之别，总还必须有内在的区分原则……所以，尽管时间与地点有助于区分事物，我们却不易单凭它们来区分事物”；又说“不存在两个彼此不可分辨的个体。两滴水或两滴奶，在显微镜下看，也会显得彼此有别”。
+    step2: |-
+      胜论传统独有地把一类项目收进存在论，称为“基本别异”（*viśeṣa*）；有人说，“胜论”之名就是从它来的。《理性手册》的定义是（TS 83）：“那些居于恒常实体［即原子］之中、充当其区分者的实体，叫做 *viśeṣa*。”意思是：牛与马属性不同，所以是两个东西；同理，连同一物质（比如土）的两个原子，也至少得在某一属性上有别。于是每个原子都带有一个只属于自己的“别异者”，用来把自己与同类的其他任何原子分开。这里的假定是：凡是两个不相同的项目，都靠属性不同而彼此有别。这其实是莱布尼茨“不可分辨者同一”律的逆否式：(∀*P*)(*Px* ≡ *Py*) → (*x* = *y*)，其中“*P*”取遍属性。可若不限定属性的范围，这条原则就没意义了：比如允许“……＝*y*”这样的属性，它无非空洞地说“同一者同一”。胜论师暗中把原则限在对象内在的、非关系的属性上，把“处于某空间或时间位置”之类排除在外——这类属性不能用来区分两个其他方面完全一样的对象。所以，他们的主张似乎是：任何两个对象，包括原子，都不可能在内在方面完全一样。莱布尼茨本人似乎也这样理解自己的定律。他说：“除了时间地点之别，总还得有内在的区分原则……所以，时间地点虽然有助于区分事物，我们却不容易单靠它们把事物区分开。”又说：“绝不存在两个彼此不可分辨的个体。两滴水，或者说两滴奶，放到显微镜下看，也会显出分别。”
   - id: 264
     kind: body
     source: |-
       The principle is, admittedly, as strong one. Wittgenstein (*Tractatus* 5.5302) points out that it entails the logical impossibility of a universe containing two identical spheres; Wiggins notes that it implies the logical impossibility of even a single sphere (or any other symmetrical object), since it entails the identity of the two hemispheres (and so on until one reaches a geometrical point). More to the point, as the Vaiśeṣikas implicitly realised, it implies the logical impossibility of more than one atom of a given substance (having a certain velocity, spin, etc.). Rather than reject the principle, however, they instead introduced new intrinsic properties, the basic differentia, thereby avoiding the unpalatable consequence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这条原则诚然很强。维特根斯坦（《逻辑哲学论》5.5302）指出，它蕴含一个包含两个全同球体的宇宙在逻辑上不可能；威金斯指出，它还蕴含哪怕单个球体（或任何对称物体）在逻辑上也不可能，因为它会推出两个半球同一（如此推下去直到几何点）。更要紧的是，正如胜论师暗中意识到的，它蕴含给定物质的原子不能多于一个（给定速度、自旋等）在逻辑上不可能。然而他们并未拒斥这条原则，而是引入新的内在属性——基本别异——从而避开了这个令人不快的推论。
+    step2: |-
+      这条原则确实够强。维特根斯坦（《逻辑哲学论》5.5302）指出：若它成立，一个装着两个全同球体的宇宙在逻辑上就不可能。威金斯补充说：连一个球体（或任何对称物体）都不可能，因为原则会推出两个半球同一，一路推下去直到一个几何点。更要命的是，胜论师自己也隐约看出了：原则会推出，给定物质（具有某速度、自旋等）的原子不能多于一个。可他们没有抛弃原则，而是添了一批新的内在属性——基本别异——把这个难以下咽的结论绕了过去。
   - id: 265
     kind: body
     source: |-
