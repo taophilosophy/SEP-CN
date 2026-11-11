@@ -2,7 +2,7 @@
   "slug": "geometry-19th",
   "kind": "retranslate",
   "zh_doc": "g/geometry-19th.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-11T03:32:15Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "G-main-20261111",
+      "at": "2026-11-11T05:54:15Z",
+      "evidence": "ADR-0021 账本 57 段双版填写（body 55 + oir 1 + ack 1），守恒门 HARD=0（SOFT 留痕：斜体→中文粗体/书名号若干段），compose 22233 字符（按账本无损重生）；补充材料手工装配 13+1 段（数学粗体→LaTeX \\mathbf{} 适配 bold-spacing 门，账本 geometry-19th.supplement.ledger.yaml）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "G-main-20261111",
+      "at": "2026-11-11T05:54:15Z",
+      "evidence": "s1 对账五维：段落 57:57、脚注键集 48:48 全等、defs 48:48、章节数与序一致、图片 4:4（路径本地化 ../yuanwen/assets/geometry-19th/）；源文 Notes 区『Notes to the Supplementary Document』注 1 经零信任核对系补充材料正文脚注（[^note-sup1]），随补充材料译入 g/geometry-19th.supplement.md 脚注节；源文 §3 段『transformations of Φ』系源文笔误照源直译，§1 段『straight line a』未斜体照源；SUMMARY/mu-lu-s 补作者括注 (Roberto Torretti)（en/ 原始物作者行 Torretti, Roberto 实证）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "G-main-20261111",
+      "at": "2026-11-11T05:55:39Z",
+      "evidence": "check_prose 24→3（长句 12 实修拆句、de-chain 9 实修、plural-men 1、weak-verb 1、passive 1 实修；余 3 条为引文内部——欧几里得公设引文、希尔伯特复信引文——按 ADR-0020 豁免留痕）；语体：现代汉语学术书面语（非文言），破折号仅用于插入与转折"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "G-main-20261111",
+      "at": "2026-11-11T05:55:40Z",
+      "evidence": "s3 四检：style 0、academic 0 硬错（在途豁免 1）、math 0/0 公式配对、terms 0 硬错（正文缺登记译法告警 1 为 Helmholtz 行首现『/h/』路径误配误报，与本词条无关）；补充材料 style 0、academic 0（orphan-ref 已由脚注定义修复）；SUMMARY --headers 0 mismatch、mu-lu-s 0"
     }
   ],
   "blockers": [],

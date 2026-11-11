@@ -1223,7 +1223,7 @@
 * [\*撒母耳·伊本·提波安——见撒母耳·伊本·提本 Ibn Tibbon, Samuel — see Tibbon, Samuel Ibn](t/tibbon.md)
 * [唯心主义 idealism (Paul Guyer and Rolf-Peter Horstmann)](i/idealism.md)
 * [同一性 identity (Harold Noonan and Ben Curtis)](i/identity.md)
-  * [不可分者同一性原理 of indiscernibles (Gonzalo Rodriguez-Pereyra)](i/identity-indiscernible.md)
+  * [不可分辨者的同一性 The Identity of Indiscernibles (Gonzalo Rodriguez-Pereyra)](i/identity-indiscernible.md)
   * [历时同一性 over time (Andre Gallois and Irem Kurtsal)](i/identity-time.md)
   * [\*人格同一性 personal — see personal identity](i/identity-personal.md)
   * [相对同一性 relative (Harry Deutsch and Pawel Garbacz)](i/identity-relative.md)

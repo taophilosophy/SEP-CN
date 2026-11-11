@@ -1254,7 +1254,7 @@ outline: [1, 6]
 * [模态的多样性 varieties of (Boris Kment)](m/modality-varieties.md)
   * [可能性主义与实在主义辩论 possibilism-actualism debate (Christopher Menzel)](p/possibilism-actualism.md)
 * [同一性 identity (Harold Noonan and Ben Curtis)](i/identity.md)
-* [不可分者同一性原理 of indiscernibles (Gonzalo Rodriguez-Pereyra)](i/identity-indiscernible.md)
+* [不可分辨者的同一性 The Identity of Indiscernibles (Gonzalo Rodriguez-Pereyra)](i/identity-indiscernible.md)
 * [历时同一性 over time (Andre Gallois and Irem Kurtsal)](i/identity-time.md)
 * [相对同一性 relative (Harry Deutsch and Pawel Garbacz)](i/identity-relative.md)
 * [跨界同一性 transworld (Penelope Mackie and Mark Jago)](i/identity-transworld.md)
