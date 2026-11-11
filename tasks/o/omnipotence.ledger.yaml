@@ -476,62 +476,92 @@ segments:
     kind: body
     source: |-
       Third, while (d) *is* repeatable, it is *not* *unrestrictedly* repeatable, that is, it cannot obtain, then fail to obtain, then obtain again, and so on, eternally.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第三，(d) 虽 *可* 重复，却 *非* *无限制地* 可重复，即它不可能先成立、随后不成立、再成立，如此永恒循环。
+    step2: |-
+      第三，(d) 虽 **可** 重复，却 **并非** **无限制地** 可重复，即它不可能先成立、随后不成立、再成立，如此永恒循环。
+
   - id: 52
     kind: body
     source: |-
       Fourth, while (e) *is* unrestrictedly repeatable, it is a *complex* state of affairs, namely, a *conjunctive* state of affairs whose second conjunct is *not* repeatable. These examples suggest a hypothesis about repeatability and its relation to power, namely, that an omnipotent agent should *not* be required to have the power to bring about *either* a state of affairs that is not unrestrictedly repeatable, *or* a conjunctive state of affairs one of whose conjuncts is not unrestrictedly repeatable.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第四，(e) 虽 *是* 无限制可重复的，却是 *复杂的* 事态，即一个 *合取的* 事态，其第二个合取项 *不可* 重复。这些例子提示一个关于可重复性及其与力量之关系的假说：不应要求全能行动者有力量造成 *要么* 一个并非无限制可重复的事态，*要么* 一个其某个合取项并非无限制可重复的合取事态。
+    step2: |-
+      第四，(e) 虽 **是** 无限制可重复的，却是 **复杂的** 事态，即一个 **合取的** 事态，其第二个合取项 **不可** 重复。这些例子提示一个关于可重复性及其与力量之关系的假说：不应要求全能行动者有力量造成 **要么** 一个并非无限制可重复的事态，**要么** 一个其某个合取项并非无限制可重复的合取事态。
+
   - id: 53
     kind: body
     source: |-
       Lastly, although (f) *is* unrestrictedly repeatable, (f) is another type of complex state of affairs. In particular, it is identifiable with or analyzable as a conjunctive state of affairs. This state of affairs has three conjuncts, the second of which is not possibly brought about by anyone. The conjunctive state of affairs in question can be informally expressed as follows: Plato decides to write a dialogue; and there is no *antecedent* sufficient causal condition of Plato’s deciding to write a dialogue; and there is no concurrent sufficient causal condition of Plato’s deciding to write a dialogue. Because it is impossible for an agent to have power over what is *past*, the second conjunct of this state of affairs is not possibly brought about by anyone. Thus, an omnipotent agent ought not to be required to have the power to bring about a state of affairs that is identifiable with or analyzable as a conjunctive state of affairs one of whose conjuncts is not possibly brought about by anyone.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，(f) 虽 *是* 无限制可重复的，却是另一类复杂事态。具体说，它可等同于、或可分析为一个合取事态。该事态有三个合取项，其中第二个不可能被任何人造成。所论合取事态可非形式地表述如下：柏拉图决定写一篇对话；并且，柏拉图决定写一篇对话没有 *在先的* 充分因果条件；并且，柏拉图决定写一篇对话没有同时的充分因果条件。由于行动者不可能对 *过去* 之事拥有力量，该事态的第二个合取项不可能被任何人造成。因此，不应要求全能行动者有力量造成一个可等同于、或可分析为合取事态的事态，而其合取项之一不可能被任何人造成。
+    step2: |-
+      最后，(f) 虽 **是** 无限制可重复的，却是另一类复杂事态。具体说，它可等同于、或可分析为一个合取事态。该事态有三个合取项，其中第二个不可能被任何人造成。所论合取事态可非形式地表述如下：柏拉图决定写一篇对话；并且，柏拉图决定写一篇对话没有 **在先的** 充分因果条件；并且，柏拉图决定写一篇对话没有同时的充分因果条件。由于行动者不可能对 **过去** 之事拥有力量，该事态的第二个合取项不可能被任何人造成。因此，不应要求全能行动者有力量造成一个可等同于、或可分析为合取事态的事态，而其合取项之一不可能被任何人造成。
+
   - id: 54
     kind: body
     source: |-
       According to the account of Hoffman and Rosenkrantz, incorporating these ideas, omnipotence can be analyzed in terms of the following three definitions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按照霍夫曼与罗森克兰茨的说明，吸收这些想法，全能可按以下三个定义来分析。
+    step2: |-
+      按照霍夫曼与罗森克兰茨的说明，并吸收上述想法，全能可按以下三个定义来分析。
+
   - id: 55
     kind: body
     source: |-
       **(D1)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(D1)**
+    step2: |-
+      **(D1)**
+
   - id: 56
     kind: body
     source: |-
       The period of time *t* is a sufficient interval for $s =_{df} s$ is a state of affairs such that: it is possible that *s* obtains at a time-period which has the duration of *t*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      时段 *t* 是 $s$ 的充分区间 $=_{df}$ $s$ 是这样的一个事态：有可能 *s* 在一个持续时间为 *t* 的时段成立。
+    step2: |-
+      时段 *t* 是 $s$ 的充分区间 $=_{df}$ $s$ 是这样一个事态：*s* 有可能在一个持续时间为 *t* 的时段成立。
+
   - id: 57
     kind: body
     source: |-
       For example, any period of time with a duration of 7 seconds is a sufficient interval for the state of affairs *that a ball rolls for 7 seconds*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      例如，任何持续时间为 7 秒的时段，都是事态 *一个球滚动 7 秒* 的充分区间。
+    step2: |-
+      例如，任何持续 7 秒的时段，都是事态 *一个球滚动 7 秒* 的充分区间。
+
   - id: 58
     kind: body
     source: |-
       **(D2)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(D2)**
+    step2: |-
+      **(D2)**
+
   - id: 59
     kind: body
     source: |-
       A state of affairs, *s*, is unrestrictedly repeatable $=_{df}$ *s* is possibly such that: $\forall n\exists t_1\exists t_2\exists t_3 \ldots \exists t_n [(t_1 \lt t_2 \lt t_3 \lt \ldots \lt t_n$ are periods of time which are sufficient intervals for $s \amp s$ obtains at $t_1 \amp s$ doesn’t obtain at $t_2 \amp s$ obtains at $t_3 \amp \ldots \amp s$ obtains at $t_n)$ if and only if *n* is odd].[^note-2]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      事态 *s* 是无限制可重复的 $=_{df}$ *s* 可能如此：$\forall n\exists t_1\exists t_2\exists t_3 \ldots \exists t_n [(t_1 \lt t_2 \lt t_3 \lt \ldots \lt t_n$ are periods of time which are sufficient intervals for $s \amp s$ obtains at $t_1 \amp s$ doesn’t obtain at $t_2 \amp s$ obtains at $t_3 \amp \ldots \amp s$ obtains at $t_n)$ if and only if *n* is odd].[^note-2]
+    step2: |-
+      一个事态 *s* 若是无限制可重复的，$=_{df}$ *s* 可能如此：$\forall n\exists t_1\exists t_2\exists t_3 \ldots \exists t_n [(t_1 \lt t_2 \lt t_3 \lt \ldots \lt t_n$ are periods of time which are sufficient intervals for $s \amp s$ obtains at $t_1 \amp s$ doesn’t obtain at $t_2 \amp s$ obtains at $t_3 \amp \ldots \amp s$ obtains at $t_n)$ if and only if *n* is odd].[^note-2]
+
   - id: 60
     kind: body
     source: |-
       For instance, the state of affairs *that a ball rolls for 7 seconds* is unrestrictedly repeatable.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      例如，*一个球滚动 7 秒* 这一事态是无限制可重复的。
+    step2: |-
+      例如，事态 *一个球滚动 7 秒* 是无限制可重复的。
+
   - id: 61
     kind: body
     source: |-
