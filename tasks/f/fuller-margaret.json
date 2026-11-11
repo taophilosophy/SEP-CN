@@ -2,7 +2,7 @@
   "slug": "fuller-margaret",
   "kind": "retranslate",
   "zh_doc": "f/fuller-margaret.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "F-main-20261111",
       "at": "2026-11-11T00:24:24Z",
       "evidence": "check_academic --strict OK（非存根 1）；check_math 0 missing/unbalanced；术语 3 行（官能心理学/自我修养/谈话会）+人名 26 行（钱宁/马志尼/格里利/皮博迪等）HEAD 基线待随提交"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "F-main-20261111b",
+      "at": "2026-11-11T05:43:00Z",
+      "evidence": "对账五项全等：marker 31:31（顺序一致）、defs 62:62（键集相同）、标题 6:6、段 39:39、引块 2:2；逐节回读无漏译/增译，书名与人名照录。实修 18 处：①首现补全名（拉尔夫·沃尔多·爱默生、亨利·戴维·梭罗）；②「她也争气」→「不负所望」；③病句「连同那本要去的欧洲之行」→「连同原本需要的那趟欧洲之行也一并放弃」；④「移民殖民之不移」→「势不可免」；⑤文言句「教皇不肯俯就，乞外援以复其权；法国应之」→「教皇不肯默从，请求外援以恢复其权力；法国应允」；⑥钱宁事业句改顺；⑦「性情形貌」→「人性观」（vision of human nature）；⑧「充满张弛」→「充满张力」；⑨「把美国自文化的地方气中救拔出来」→「把美国从文化上的地方气中拯救出来」；⑩「惜未实现」→「但未能实现」；⑪「浅薄的巧智」→「浅薄的奇想」（shallow conceits）；⑫「才圆足」→「方告完全」；⑬「这等人物」→「这样的人物」；⑭「尚未须遵守」→「还不必遵守」；⑮「其目有」→「其目标包括」；⑯「觉巴黎乃是」→「觉得巴黎是」；⑰「重与…相接」→「重新…取得联系」；⑱其他网络资源行内字面反斜杠 n 修复为真实换行。check_style --strict 0 issue；check_academic --strict OK；check_math 0 missing/unbalanced；check_prose 残余 0；正文人名全部在册。语体结论：现代汉语学术书面语，文言残留已清除。"
     }
   ],
   "blockers": [],
