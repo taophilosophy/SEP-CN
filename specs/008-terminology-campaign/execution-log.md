@@ -567,6 +567,19 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
     body politic（命中 body politics 异词）、cardinal（语言学/地理异义）、causal closure（审定「物理因果闭合」为限定短语）、
     bhūta（维基垃圾）。
 
+### 三、二轮第三批（offset 264–328，12 条，c 段补查）
+
+* 审计刷新：一致 680 / 不一致 481 / 查无 2630 / 未查证 5117；新增不一致 12 条。
+* **主译变更 1 条**：communitarianism「共同体主义」→「社群主义」（审定·社会学/医学伦理学；正文原为 15:14 混用，
+  `aesthetic-concept` / `african-ethics` / `kant-reason` / `korean-philosophy` 4 文件 15 处归一；
+  撤销 2026-11-09「以别于共同体形态描述」的体例注，旧形降亦作）。
+* **保留 11 条**：character（本条伦理学「品性」，审定医学「性格」异义）、chatbot（大数据「陪聊机器人」异形）、
+  cell-of-origin（通信「原点小区」假阳性）、cheng（档案学「呈」异字）、chuch’e（维基垃圾）、circumscription（AI 逻辑
+  「限定推理」，审定 CS「限定理论」为名词形；与国际法「限缩」分义）、classical conditioning（正文通行「经典条件作用」9:0，
+  审定生理学「经典条件反射」）、collapse model（生物物理下位词）、communication rule（超矢列演算直译，审定新闻传播「沟通规则」异义）、
+  competence（农学/医学遗传「感受态」异义）、competence（医疗与法律语境，维基垃圾）。
+
+
 
 
 
