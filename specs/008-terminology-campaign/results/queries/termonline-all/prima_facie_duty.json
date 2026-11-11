@@ -1,0 +1,348 @@
+{
+ "key": "prima facie duty",
+ "term": "prima facie duty",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T14:50:20+00:00",
+ "status": "ok",
+ "note": "variant=prima facie duty; 审定公布名词库=747; 海峡两岸名词对照库=236; 其他来源数据库=42; 预公布名词数据库=16; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "工作制",
+   "en": "duty",
+   "code": "01.818",
+   "standard": "电气工程名词",
+   "subject": "电气工程_电工基础及通用名词"
+  },
+  {
+   "cn": "相",
+   "en": "facies",
+   "code": "02.056",
+   "standard": "地理学名词",
+   "subject": "地理学_自然地理学"
+  },
+  {
+   "cn": "陆相",
+   "en": "nonmarine facies,continental facies",
+   "code": "02.0231",
+   "standard": "石油名词",
+   "subject": "石油_油气地质勘探_含油气盆地沉积学"
+  },
+  {
+   "cn": "从量税",
+   "en": "specific duty",
+   "code": "19.160",
+   "standard": "农学名词",
+   "subject": "农业经济与管理_农业市场与贸易"
+  },
+  {
+   "cn": "复合税",
+   "en": "compound duty",
+   "code": "19.161",
+   "standard": "农学名词",
+   "subject": "农业经济与管理_农业市场与贸易"
+  },
+  {
+   "cn": "滑动税",
+   "en": "sliding duty",
+   "code": "19.162",
+   "standard": "农学名词",
+   "subject": "农业经济与管理_农业市场与贸易"
+  },
+  {
+   "cn": "优惠关税",
+   "en": "preferential duty",
+   "code": "19.172",
+   "standard": "农学名词",
+   "subject": "农业经济与管理_农业市场与贸易"
+  },
+  {
+   "cn": "岗位责任制",
+   "en": "post duty",
+   "code": "03.0335",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林管理_企业管理"
+  },
+  {
+   "cn": "负荷因子",
+   "en": "duty factor",
+   "code": "04.176",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程综合"
+  },
+  {
+   "cn": "占空因子",
+   "en": "duty factor",
+   "code": "3.022",
+   "standard": "核科学技术名词",
+   "subject": "核科学技术_核聚变_核聚变基础"
+  },
+  {
+   "cn": "免税",
+   "en": "duty-free",
+   "code": "11.123",
+   "standard": "经济学名词",
+   "subject": "经济学_财政与税收经济学"
+  },
+  {
+   "cn": "反补贴税",
+   "en": "countervailing duty",
+   "code": "13.062",
+   "standard": "经济学名词",
+   "subject": "经济学_国际贸易"
+  },
+  {
+   "cn": "初步证据",
+   "en": "prima facie evidence",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "相",
+   "en": "facies",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "相",
+   "en": "facies",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "十字军东征的伦巴尔第",
+   "en": "Lombardi alla Prima Crociata",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "工作比，占空因数",
+   "en": "duty cycle\",\"duty factor",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "半深海相",
+   "en": "hemipelagic facies\",\"bathyal facies",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "负载因数",
+   "en": "duty factor",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "热负载",
+   "en": "heat duty",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "保护性关税",
+   "en": "safeguarding duty",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "报复性关税",
+   "en": "retaliatory duty",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "补偿关税",
+   "en": "compensation duty",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "财政关税",
+   "en": "financial duty",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "印花税",
+   "en": "Stamp duty",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "悌",
+   "en": "Fraternal Duty",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "医生",
+   "en": "doctor on duty",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_举重名词"
+  },
+  {
+   "cn": "葡萄石-绿纤石相",
+   "en": "prehnite-pumpellyite facies",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "网络服务渎职罪",
+   "en": "crime of dereliction of duty in network service",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "拒不履行信息网络安全管理义务罪",
+   "en": "crime of refusing to fulfill duty of information network security management",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "法定职责必须为、法无授权不可为",
+   "en": "Government must carry out all statutory functions and duties and may not do anything not authorized by law.",
+   "code": null,
+   "standard": "中央文献重要术语",
+   "subject": "其他"
+  },
+  {
+   "cn": "疫情就是命令，防控就是责任。",
+   "en": "The epidemic calls us to action, and it is our duty to bring it under control. 或 Go where there is epidemic, fight it till it perishes.",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "理念举措_理念信心"
+  },
+  {
+   "cn": "特别奖",
+   "en": "prime",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_铁人三项名词"
+  },
+  {
+   "cn": "第一姿势防守",
+   "en": "prime",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "第一姿势",
+   "en": "prime",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "孪生素数",
+   "en": "twin prime",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "职务犯罪",
+   "en": "duty crime",
+   "code": "03.0779",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "党员的义务",
+   "en": "duties of Party members",
+   "code": "03.0721",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "海上核材料运输民事责任公约",
+   "en": "Civil Duty Convention on Sea Transport of Nuclear Material",
+   "code": "10.3.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_重要组织、机构和历史事件_国际公约或条约"
+  },
+  {
+   "cn": "现役劳动军",
+   "en": "army of workers on active dutyActive duty labor force",
+   "code": "02.0168",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "普米语",
+   "en": "Primi language",
+   "code": "5.0244",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族语言"
+  },
+  {
+   "cn": "面对面访谈",
+   "en": "face to face interview",
+   "code": "4.3.2.1.1",
+   "standard": "社会医学名词",
+   "subject": "社会医学研究方法"
+  },
+  {
+   "cn": "防护面屏",
+   "en": "face shield",
+   "code": "3.2.2.12",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒相关用品"
+  },
+  {
+   "cn": "面子",
+   "en": "mianzi，face",
+   "code": "1.1.2.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想"
+  },
+  {
+   "cn": "表面效度",
+   "en": "face validity",
+   "code": "1.2.4.80",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "满月脸",
+   "en": "moon face",
+   "code": "1.4.3.1.5",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_症状与体征_体征"
+  },
+  {
+   "cn": "表面效度",
+   "en": "face validity",
+   "code": "4.9.2.1",
+   "standard": "社会医学名词",
+   "subject": "社会医学研究方法"
+  },
+  {
+   "cn": "面部挤压伤",
+   "en": "face squeeze",
+   "code": "12.2.3.2.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_航海和潜水医学_潜水医学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
