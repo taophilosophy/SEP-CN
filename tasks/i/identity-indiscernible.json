@@ -2,7 +2,7 @@
   "slug": "identity-indiscernible",
   "kind": "retranslate",
   "zh_doc": "i/identity-indiscernible.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "I-main-20261111",
       "at": "2026-11-11T06:06:03Z",
       "evidence": "三校体例：check_style 0；check_academic --strict 无硬错误；check_math 0 缺失 0 不平衡；check_summary H1 mismatch 0；check_terms 硬错误 0；check_quotes 0 违例；i_reconcile 五项全等"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T08:08:35Z",
+      "evidence": "冷置回读（隔整条 idiolects 全流程后重读）：全文 143 行/76 段与源文逐节核销，语义相符无漏译增译；修正笔误 1 处（“近有两个” → “另有两个”）；术语核销 非平凡化属性/纯质性属性/此性论/反此性论/随附/奠基/特普 与册内一致；数学记号与 a/b 形公式照源（a 为斜体内平文）；五维机械对账复跑全等"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T08:08:35Z",
+      "evidence": "逐句回核高风险 5 处：①(PIIQw) 规范表述与蒯因三型对应；②关系属性论证（无对象能关系有别而关系属性无别）；③休谟式原则量化结构与 8 组公式逐 token 对齐；④奠基论证 a/b 属性与“存在 in time because”结构；⑤Elgin 循环论证与传递性反驳链。0 新错；唯一改动为上步笔误"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T08:08:36Z",
+      "evidence": "终稿四检复跑：check_style 0 / check_academic --strict 无硬错误 / check_prose 0 / check_math 0-0 / check_summary H1 0；账本守恒不变量保持；签字收口"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T08:08:36Z",
+      "evidence": "终审签字：76 段全周期完成（cleared→draft→s1-s3→r1-r3），冷置回读 r1 通读、r2 高风险抽核、r3 四检全绿，跨条译名归一（波尔查诺/特普）同批入库"
     }
   ],
   "blockers": [],
