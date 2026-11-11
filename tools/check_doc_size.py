@@ -36,6 +36,16 @@ EXEMPT = {
     "qian-yan/ci-hui-biao.md",
 }
 
+# 工具生成物（逐日重建、非叙事文档，ADR-0004 豁免表）：术语审阅报告由
+# tools/term_audit.py 生成，体量随登记册行数增长，拆分须先改生成器与解析器。
+EXEMPT_RES = (
+    re.compile(r"^specs/008-terminology-campaign/results/audit-\d{4}-\d{2}-\d{2}\.md$"),
+)
+
+
+def is_exempt(rel: str) -> bool:
+    return rel in EXEMPT or any(p.match(rel) for p in EXEMPT_RES)
+
 
 def limits_for(rel: str) -> tuple[int, int]:
     if RULE_FILES.match(rel):
@@ -70,7 +80,7 @@ def main() -> int:
     rows = scan()
     violations = []
     for rel, lines, size in rows:
-        if rel in EXEMPT:
+        if is_exempt(rel):
             continue
         ll, lb = limits_for(rel)
         if lines > ll or size > lb:
@@ -83,7 +93,7 @@ def main() -> int:
     )
     print("体量前 10（* 为豁免登记册/生成物）：")
     for rel, lines, size in rows[:10]:
-        mark = " *" if rel in EXEMPT else ""
+        mark = " *" if is_exempt(rel) else ""
         print(f"  {size:>9} 字节 {lines:>5} 行  {rel}{mark}")
     if violations:
         print(f"HARD ERRORS: {len(violations)}")

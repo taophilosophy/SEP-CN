@@ -11,7 +11,7 @@ sys.path.insert(0, REPO)
 
 from tools.check_doc_size import (  # noqa: E402
     EXEMPT, LIMIT_BYTES, LIMIT_LINES, RULE_LIMIT_BYTES, RULE_LIMIT_LINES,
-    limits_for, over_limit, scan,
+    is_exempt, limits_for, over_limit, scan,
 )
 
 
@@ -42,6 +42,15 @@ class OverLimitTest(unittest.TestCase):
         self.assertEqual(limits_for("specs/001-x/spec.md"),
                          (LIMIT_LINES, LIMIT_BYTES))
 
+    def test_generated_audit_report_exempt(self):
+        # term_audit.py 逐日生成物按 ADR-0004 豁免表豁免；非该命名形态不豁免
+        self.assertTrue(is_exempt(
+            "specs/008-terminology-campaign/results/audit-2026-11-12.md"))
+        self.assertFalse(is_exempt(
+            "specs/008-terminology-campaign/results/audit-all.md"))
+        self.assertFalse(is_exempt(
+            "specs/008-terminology-campaign/results/audit-2026-11-12.json"))
+
 
 class ScanTest(unittest.TestCase):
     def test_scan_counts_lines_and_bytes(self):
@@ -56,7 +65,7 @@ class ScanTest(unittest.TestCase):
 
     def test_repo_gate_clean(self):
         rows = scan()
-        violations = [r for r in rows if r[0] not in EXEMPT
+        violations = [r for r in rows if not is_exempt(r[0])
                       and over_limit(r[1], r[2], limits_for(r[0]))]
         self.assertEqual(violations, [])
 

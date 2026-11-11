@@ -1198,7 +1198,7 @@
 | descent to singulars / ascent from singulars | — | 下降到单称／从单称上升 | ockham | 中世纪指代理论（suppositio confuse distributiva）核心机制；学界通行译法；凭证 2026-11-07 | 2026-11-07 |
 | description logic | — | 描述逻辑 | ontology-is | 学界通行（DL，OWL 基础）；凭证 2026-11-11 | 2026-11-11 |
 | descriptive and analytic psychology | — | 描述与分析心理学 | dilthey 首译 | 学界通行（狄尔泰 1894 年著作名）；凭证 2026-11-09 | 2026-11-09 |
-| desert | — | 应得 | repugnant-conclusion | 学界通行（desert 与 merit 分用；SUMMARY 词条定名「应得」）；凭证 2026-11-11 | 2026-11-11 |
+| desert | — | 应得 | repugnant-conclusion | 学界通行（desert 与 merit 分用；SUMMARY 词条定名“应得”）；凭证 2026-11-11 | 2026-11-11 |
 | desert-adjusted | — | 按应得调整的 | repugnant-conclusion | 本词条译名（Feldman desert-adjusted）；凭证 2026-11-11 | 2026-11-11 |
 | desiderata / desideratum | — | 期望性质 | belief-merging | 学界通行（社会选择理论中译文献）；凭证 2026-11-10 | 2026-11-10 |
 | designated value | — | 指定值 | logic-fuzzy | 多值逻辑通行译法；凭证 2026-11-09 | 2026-11-09 |
@@ -2950,7 +2950,7 @@
 | mental state (divine) | — | 心灵状态 | god-necessary-being | 按 mental states 在册行“亦作心灵状态，按语境”取用（神圣心灵语境锁定此形） | 2026-11-09 |
 | mental states | — | 心理状态（亦作“精神状态”“心灵状态”，按语境） | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | mercantilism | — | 重商主义 | cosmopolitanism | 学界通行（经济思想史）；凭证 2026-11-09 | 2026-11-09 |
-| mere addition | — | 纯粹增加 | repugnant-conclusion | 学界通行（Parfit 术语 mere addition；亦作「单纯增加」）；凭证 2026-11-11 | 2026-11-11 |
+| mere addition | — | 纯粹增加 | repugnant-conclusion | 学界通行（Parfit 术语 mere addition；亦作“单纯增加”）；凭证 2026-11-11 | 2026-11-11 |
 | mere addition paradox | — | 纯粹增加悖论 | repugnant-conclusion | 学界通行；凭证 2026-11-11 | 2026-11-11 |
 | mere conservationism | — | 单纯保存论 | occasionalism 首译 | 自译裁定（concurrentism 并作论配套；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
 | merely confused supposition | — | 纯混淆指代 | 首现（william-sherwood） | 学界惯例（suppositio confuse tantum）；凭证 2026-11-07 | 2026-11-07 |
@@ -3323,7 +3323,7 @@
 | non-contemporaneity (Ungleichzeitigkeit) | — | 非同时性 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | non-deterministic choice | — | 非确定选择 | logic-dynamic | 程序逻辑通行译法；凭证 2026-11-10 | 2026-11-09 |
 | non-doxastic | — | 非信念性的 | faith | 学界通行（与 doxastic 信念性的对举）；凭证 2026-11-11 | 2026-11-11 |
-| non-identity problem | — | 非同一性问题 | repugnant-conclusion | 学界通行（Parfit 1984；与既有 the nonidentical「非同一之物」分立）；凭证 2026-11-11 | 2026-11-11 |
+| non-identity problem | — | 非同一性问题 | repugnant-conclusion | 学界通行（Parfit 1984；与既有 the nonidentical“非同一之物”分立）；凭证 2026-11-11 | 2026-11-11 |
 | non-implicative negation | — | 无遮 | gelukpa | 藏传佛教因明通译（med dgag） | 2026-11-01 |
 | non-instrumental ethical idealism | — | 非工具性伦理观念论 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | non-intervention | — | 不干涉 | s/sovereignty 首译 | 学界通行译名（《联合国宪章》通行“不干涉内政”）；凭证 2026-11-07 | 2026-11-07 |
