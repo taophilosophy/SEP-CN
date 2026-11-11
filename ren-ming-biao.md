@@ -332,6 +332,7 @@
 | Bedau, Mark | — | 马克·贝多 | 美国 | 1954– | it-moral-values | 学界通行音译（人工生命哲学）；凭证 2026-11-10 | 2026-11-10 |
 | Beethoven, Ludwig van | — | 路德维希·凡·贝多芬 | 德国 | 1770–1827 | croce-aesthetics | 千年通行译名（德国作曲家）；凭证 2026-11-10 | 2026-11-09 |
 | Begon, Jessica | — | Jessica Begon（现代学者，保留英文） | — | — | disability | ADR-0022：无通行汉名者保留英文（残疾能力缺失观）；凭证 2026-11-09 | 2026-11-09 |
+| Behmann, Heinrich | Heinrich Behmann | 海因里希·贝曼 | 德国 | 1891–1970 | hilbert-program | 学界通行音译（希尔伯特学生，一阶逻辑早期贡献者）；凭证 2026-11-11 | 2026-11-11 |
 | Běhounek, Libor | — | Libor Běhounek | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Behrman, Jere R. | — | 杰尔·R. 贝尔曼 | 美国／经济学家 | — | ramsey-economics | 学界通行音译；凭证 2026-11-11 | 2026-11-11 |
 | Beitz, Charles | — | 查尔斯·贝茨 | 美国 | 1949– | cosmopolitanism | 学界通行汉译（《政治理论与国际关系》作者）；凭证 2026-11-09 | 2026-11-09 |

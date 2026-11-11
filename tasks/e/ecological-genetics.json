@@ -30,7 +30,7 @@
       "status": "ok",
       "actor": "EF-main3-20261109",
       "at": "2026-11-09T16:25:01Z",
-      "evidence": "check_prose --strict 39→4：叙述散文实修 36 处（长句拆分 17、de-chain 消解 14、被字句 3、weak-verb 3，两轮 SUBS 逐条唯一命中）；残余 4 条均为引文块内部（行 32/110/110/171），按 ADR-0020 豁免留痕；实修后 marker 38 完整、style 0、academic OK"
+      "evidence": "check_prose --strict 39→4：叙述散文实修 36 处（长句拆分 17、de-chain 消解 14、被字句 3、weak-verb 3，两轮 SUBS 逐条唯一命中）；残余 4 条均为引文块内部（行 32/110/110/171），按 ADR-0020 豁免留痕；实修后 marker 38 完整、style 0、academic OK；语体：现代汉语学术书面语，无文言仿古，破折号使用合规（复核补记 F-main-20261111b）"
     },
     {
       "step": "s3",

@@ -2,7 +2,7 @@
   "slug": "hilbert-program",
   "kind": "retranslate",
   "zh_doc": "h/hilbert-program.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,13 @@
       "actor": "task_ops",
       "at": "2026-11-01T16:28:34Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "H-main-20261111",
+      "at": "2026-11-11T09:32:29Z",
+      "evidence": "账本 tasks/h/hilbert-program.ledger.yaml 63 段（body=62 oir=1）双版齐备；lq check 守恒门通过（HARD 0，SOFT 仅机械段与斜体计数）；compose 写回 36690 字符；对账：defs 键 109=109、内联脚注 41=41、h2 9=9；修复账本中 \\varepsilon/\\neg 转义损毁 8 段次（compose 前回写）"
     }
   ],
   "blockers": [],

@@ -896,6 +896,7 @@
 | conservatio sui | — | 自我保存 | 首现（telesio） | 学界惯例（斯多葛-文艺复兴自然哲学术语，拉丁语保留形）；凭证 2026-11-08 | 2026-11-08 |
 | conservation is but continuous creation | CCC | 保存不过是持续创造（论证） | occasionalism 首译 | 学界惯例（偶因论研究）；凭证 2026-11-07 | 2026-11-07 |
 | conservatism | — | 保守主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
+| conservativity | — | 保守性 | hilbert-program 首译 | 证明论通行（conservative extension 保守扩张同族）；凭证 2026-11-11 | 2026-11-11 |
 | conserved quantity | — | 守恒量 | scientific-explanation-20th | 学界通行（物理学既有译名；Dowe 2000 守恒过程理论）；凭证 2026-11-10 | 2026-11-10 |
 | considered judgment | — | 深思熟虑的判断 | reflective-equilibrium | 学界惯例（Rawls《正义论》汉译通行）；凭证 2026-11-11 | 2026-11-11 |
 | consignificatio | — | 共意谓 | peter-spain | 构词直译（本册 signification=意谓 派生）；凭证 2026-11-09 | 2026-11-09 |
@@ -922,6 +923,7 @@
 | contemporaneity | — | 同时代性（亦作“共时性”） | gadamer-aesthetics | 学界惯例（伽达默尔研究通行） | 2026-11-01 |
 | Content Determination Thesis | — | 内容决定论题 | justep-coherence | 学界惯例（Huemer 术语，直译） | 2026-11-02 |
 | content-given-form | — | 被赋予形式的内容 | paradox-of-tragedy | 本词条首译（Lamarque 内容—形式论）；凭证 2026-11-10 | 2026-11-10 |
+| contentual | — | 内容性的 | hilbert-program 首译 | 学界惯例（Hilbert 的 inhaltlich；与 formal 形式的对举）；凭证 2026-11-11 | 2026-11-11 |
 | context of discovery/context of justification | — | 发现语境／辩护语境 | 语料回收（lakatos 首译） | 科学哲学界通行译法（赖兴巴赫）；凭证 2026-11-06 | 2026-11-06 |
 | contextual validity | — | 语境有效性 | logic-hybrid | 直译（Blackburn & Jørgensen 术语）；凭证 2026-11-09 | 2026-11-09 |
 | contextualism | — | 语境主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
@@ -1715,6 +1717,8 @@
 | filling instructions | — | 填充指令 | 首译（scientific-explanation-20th） | 本库首译（Kitcher 1989）；凭证 2026-11-10 | 2026-11-10 |
 | filtration | — | 滤化 | logic-dynamic | 模态逻辑通行译法（Fischer–Ladner）；凭证 2026-11-10 | 2026-11-09 |
 | final cause | — | 目的因 | aristotle-causality 首译 | 亚里士多德研究通行译名（四因之一）；凭证 2026-11-08 | 2026-11-08 |
+| finitary | — | 有穷的 | hilbert-program 首译 | 数学基础通行（与 finitism 有限主义、infinite 无穷对举；沿册内“有穷模型性质”先例）；凭证 2026-11-11 | 2026-11-11 |
+| finitary standpoint | — | 有穷立场 | hilbert-program 首译 | 照文直译（Hilbert 的 finiter Standpunkt）；凭证 2026-11-11 | 2026-11-11 |
 | finite differentiation | — | 有限分立 | digital-art 首译 | 古德曼记法理论通行（differentiated 分立与 dense 稠密对举）；凭证 2026-11-10 | 2026-11-10 |
 | finite model property | — | 有穷模型性质 | logic-dynamic | 模型论通行译法；凭证 2026-11-10 | 2026-11-09 |
 | finitism | — | 有限主义 | 首现（intuitionism） | 数学哲学通行译名；凭证 2026-11-10 | 2026-11-10 |
@@ -1777,6 +1781,7 @@
 | formal supposition | — | 形式指代 | 首现（william-sherwood） | 学界惯例（suppositio formalis）；凭证 2026-11-07 | 2026-11-07 |
 | formalism | — | 形式主义 | 语料回收（logic-classical） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | formality | — | 形式性 | logical-consequence | 逻辑哲学通行译法；凭证 2026-11-09 | 2026-11-09 |
+| formalization | — | 形式化 | hilbert-program 首译 | 逻辑学通行；凭证 2026-11-11 | 2026-11-11 |
 | formative drive | — | 形成驱力（Bildungstrieb） | kant-science | 康德生物学文献通行；待 specs/008 审定库复核 | 2026-11-05 |
 | forms of life | — | 生活形式 | 首现（religion-epistemology） | 维特根斯坦术语通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | Formula of Universal Law | — | 普遍法则公式 | hegel-social-political | 康德伦理学通行汉译 | 2026-11-10 |
@@ -2154,11 +2159,13 @@
 | idea | — | 理念（柏拉图-黑格尔传统）；观念（经验论语境） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | idea of being | — | 存在观念 | antonio-rosmini | 罗斯米尼核心术语（idea dell'essere） | 2026-11-07 |
 | ideal character | — | 理想性格 | oakeshott 首译 | 学界惯例（奥克肖特 *lex* 论；亦作“理想性质”备查）；凭证 2026-11-07 | 2026-11-07 |
+| ideal element | — | 理想元素 | hilbert-program 首译 | 数学史通行（Hilbert 理想元素方法）；凭证 2026-11-11 | 2026-11-11 |
 | ideal language | — | 理想语言 | 首译（stebbing） | 学界通行（与 ordinary language 对举）；凭证 2026-11-09 | 2026-11-09 |
 | ideal morality | — | 理想道德 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | ideal objects | — | 观念对象 | reinach | 学界惯例（现象学本体论通行；与 real objects“实在对象”对举）；凭证 2026-11-09 | 2026-11-09 |
 | ideal observer | — | 理想观察者 | conscience 首译 | 学界通行（元伦理学）；凭证 2026-11-08 | 2026-11-08 |
 | Ideal Philosophy | — | 观念哲学 | john-norris | 诺里斯自名其学（Ideal Philosophy）；随文括注原文 | 2026-11-07 |
+| ideal proposition | — | 理想命题 | hilbert-program 首译 | 希尔伯特研究通行（与“实在命题”对举）；凭证 2026-11-11 | 2026-11-11 |
 | ideal self | — | 理想自我 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | idealised evidential position | — | 理想化证据位置 | 首现（imprecise-probabilities） | 构词直译；凭证 2026-11-08 | 2026-11-08 |
 | idealism | — | 唯心论；观念论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
@@ -3364,6 +3371,7 @@
 | Oral Law | — | 口传律法 | albo-joseph 首译 | 犹太研究通行（与成文《托拉》相对） | 2026-11-07 |
 | ordered pair | — | 有序对 | quine-nf | 集合论通行译名；凭证 2026-11-09 | 2026-11-09 |
 | ordinal | — | 序数 | quine-nf | 集合论通行译名；凭证 2026-11-09 | 2026-11-09 |
+| ordinal analysis | — | 序数分析 | hilbert-program 首译 | 证明论通行（Gentzen 传统）；凭证 2026-11-11 | 2026-11-11 |
 | ordinal sum | — | 序和 | logic-fuzzy | t-范数理论通行译法；凭证 2026-11-09 | 2026-11-09 |
 | ordinary beings | — | 凡夫（佛教） | 语料回收（标题词） | 学界惯例（佛教学通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | ordinary language | — | 日常语言 | 首译（stebbing） | 学界通行（日常语言哲学）；凭证 2026-11-09 | 2026-11-09 |
@@ -3466,6 +3474,7 @@
 | partial coherentism | — | 局部融贯论 | 首现（truth-coherence） | 学界惯例（仅对某类命题成立的融贯论）；凭证 2026-11-07 | 2026-11-07 |
 | partial correctness | — | 部分正确性 | logic-dynamic | 程序验证通行译法；凭证 2026-11-10 | 2026-11-09 |
 | partial definition | — | 部分定义 | schema | 学界惯例（塔尔斯基真理论研究通行） | 2026-11-06 |
+| partial finitism | — | 部分有限主义 | hilbert-program 首译 | 照文直译（Santos 等，即出）；凭证 2026-11-11 | 2026-11-11 |
 | partial isomorphism | — | 部分同构 | logic-infinitary | 模型论通行译法；凭证 2026-11-10 | 2026-11-09 |
 | partial occasionalism | — | 部分偶因论 | la-forge | 学界通行（与全局偶因论对举）；凭证 2026-11-09 | 2026-11-09 |
 | partial order | — | 偏序 | 首现（boolalg-math） | 学界惯例（序理论通行译名） | 2026-11-01 |
@@ -3830,6 +3839,7 @@
 | proof search | — | 证明搜索 | logic-linear | 逻辑编程通行译法；凭证 2026-11-10 | 2026-11-09 |
 | proof theory | — | 证明论 | 首现（scholz） | 学界惯例（数理逻辑通行）；凭证 2026-11-07 | 2026-11-07 |
 | proof-generated concept | — | 证明生成的概念 | 语料回收（lakatos 首译） | 拉卡托斯研究通行译法；凭证 2026-11-06 | 2026-11-06 |
+| proof-theoretic ordinal | — | 证明论序数 | hilbert-program 首译 | 证明论通行；凭证 2026-11-11 | 2026-11-11 |
 | proof-theoretic semantics | — | 证明论语义 | logical-consequence | 证明论通行译法；凭证 2026-11-09 | 2026-11-09 |
 | prooftext | — | 经文引证 | 首译（saadya） | 圣经学与犹太思想研究通行（proof text 引经为证）；凭证 2026-11-09 | 2026-11-09 |
 | propensity (interpretation of fitness) | — | 倾向 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -4008,6 +4018,8 @@
 | real numbers | — | 实数 | 语料回收（set-theory） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | real objects | — | 实在对象 | reinach | 学界惯例（同上）；凭证 2026-11-09 | 2026-11-09 |
 | real possibility | — | 实在可能性 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
+| real proposition | — | 实在命题 | hilbert-program 首译 | 希尔伯特研究通行（与“理想命题”对举）；凭证 2026-11-11 | 2026-11-11 |
+| real-soundness | — | 实在可靠性 | hilbert-program 首译 | 证明论通行（Detlefsen 工具主义辩护语境）；凭证 2026-11-11 | 2026-11-11 |
 | realist phenomenology | — | 实在论现象学 | reinach | 学界惯例（慕尼黑—哥廷根学派研究文献）；凭证 2026-11-09 | 2026-11-09 |
 | realizability | — | 可实现性 | 首现（intuitionism） | 数理逻辑通行译名（Kleene realizability）；凭证 2026-11-10 | 2026-11-10 |
 | realization | — | 实现 | logic-provability | 可证性逻辑通行（亦作“翻译”“解释”备查） | 2026-11-05 |
@@ -4999,6 +5011,7 @@
 | transcendentalism | — | 超验主义 | emerson | 学界通行（美国超验主义，Emerson/Thoreau 运动） | 2026-11-07 |
 | transcendentals | transcendentalia | 超越者 | 首译（sharpe） | 学界通行（ens/aliquid/res 等；承本册 transcendental term 超越词项）；凭证 2026-11-09 | 2026-11-09 |
 | transcriptomics | — | 转录组学 | cancer | 学界通行；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
+| transfinite induction | — | 超限归纳 | hilbert-program 首译 | 数学通行（Gentzen 一致性证明语境）；凭证 2026-11-11 | 2026-11-11 |
 | transhumanism | — | 超人类主义 | 首现（it-moral-values） | 哲学通行译名；凭证 2026-11-10 | 2026-11-10 |
 | transient polymorphism | — | 过渡性多态性（亦作“暂态多态性”） | ecological-genetics 首译 | 审定名词库（termonline-all·遗传学名词，2026-11-11 浏览器通道凭证） | 2026-11-11 |
 | Transition; elementary system of the moving forces | — | 过渡（Übergang）；运动力的初阶系统（Elementarsystem） | kant-science | 李秋零《遗著》研究通行 | 2026-11-05 |
