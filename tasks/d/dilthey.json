@@ -2,7 +2,7 @@
   "slug": "dilthey",
   "kind": "retranslate",
   "zh_doc": "d/dilthey.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T05:20:20Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "D-main-20261111",
+      "at": "2026-11-11T05:18:07Z",
+      "evidence": "draft（账本由前会话 DR-main-20261110 填毕，本会话组装）：ADR-0021 段落账本 125 段（body 124 + oir 1）step1/step2 反思两步双版落盘，lq check 守恒门通过（HARD=0；SOFT=机械段 step1==step2 13 处、书名号斜体转换 7 段）；compose 写回 30,670 字符；CJK 斜体→粗体 7 行（rules/02，** 计数 soft 合法）；剥除镜像 <hr/> 转写伪迹 1 行（体例不留分隔线，据 en/dilthey/index.html 原件判读）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "D-main-20261111",
+      "at": "2026-11-11T05:19:11Z",
+      "evidence": "对照核销（五维）：H 3/5/3、marker 4:4 键序全等、defs 25:25 键集全等、图 0:0、粗体缩写 0:0；段落 源115:中113 差 2＝byline 省略（作者信息入 H1 括注）＋<hr/> 伪迹剥除，均留痕豁免；全文源中逐段对读（源 354 行 vs 译 333 行）：实修 4 处——Kuno Fischer 对齐人名册「库诺·菲舍尔」、monadic building blocks 单体式→单子式、objective necessity 目标从句精度、费舍→菲舍尔；相关词条 7 条按 SUMMARY 定名复核（解释学/历史哲学/施莱尔马赫等）；pubinfo 照 baseline 2008-01-16 / 2020-09-29"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "D-main-20261111",
+      "at": "2026-11-11T05:21:51Z",
+      "evidence": "prose 实修：check_prose 告警 72→27（四轮 SUBS 脚本，唯一命中＋幂等＋守恒门前置），叙述句 de-chain/长句/被动/弱动词实修 45 处；余 27 条按 ADR-0020 分类豁免留痕（引文块内部 11、书名篇名内含「的」4、术语定性句与枚举平行 12）。语体：现代汉语学术书面语，通篇无文言句式与半段仿古（ADR-0033 语体核验；「毋宁」「皆」「亦然」等仅零散书面语词，非句式性文言）。check_style 0 issue、check_academic --strict OK、check_math 0/0"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "D-main-20261111",
+      "at": "2026-11-11T05:24:13Z",
+      "evidence": "登记与门禁：术语册 18 行（内觉/想象变形/生命关切/生命情感/同感/仁爱/追求正当/共受苦/意义构形/态度立场/文化系统/社会的外部组织/自由观念论/客观观念论/共情/明证性/承诺/完善自身）＋人名册 4 行（艾宾浩斯/弗赖尔/阿贝尔/贝克），tools/registry_azsort.py --apply 守恒 0；check_terms 硬错误 0；check_style/check_academic --strict/check_math/check_summary 四项定点全绿；check_all 九项中八项全绿——学术规范项存量红 9 处均为 e/i 批他会话 task-style-attest（tasks/e/*、tasks/i/*），非本词条产物"
     }
   ],
   "blockers": [],
