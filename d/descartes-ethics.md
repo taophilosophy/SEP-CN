@@ -178,6 +178,10 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义；内容性注已译出（见“脚注”节），书目条目保留原样。
 
+### Primary Works
+
+### Secondary Works
+
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=descartes-ethics)。

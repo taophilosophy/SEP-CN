@@ -2,7 +2,7 @@
   "slug": "newton-principia",
   "kind": "retranslate",
   "zh_doc": "n/newton-principia.md",
-  "state": "drafted",
+  "state": "s2_checked",
   "steps": [
     {
       "step": "clear",
@@ -17,6 +17,20 @@
       "actor": "N-main-20261111",
       "at": "2026-11-11T08:23:36Z",
       "evidence": "draft 成稿：账本 207 段双版齐（body147+oir1+note59），compose 写回 54705 字符；守恒门 HARD=0（仅斜体→书名号/引文段 SOFT 留痕）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "N-main-20261111",
+      "at": "2026-11-11T14:59:57Z",
+      "evidence": "s1 逐节核销：正文 147 段对 yuanwen 逐段比对（通读 1–315 行）+ 59 条脚注全读；脚注键 59=59 零缺失，pubinfo 与 baseline 一致，年份 41 处零缺失（机检），图 3 张路径解析；实修：'说服从了他'→'说服了他'、'，[^note-7]'→'。[^note-7]'、书名号外套引号 7 处删套、'出发点。 《原理》'空格、'问题： 《原理》'空格；人名术语与源一致，未发现漏译/增译"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "N-main-20261111",
+      "at": "2026-11-11T15:15:36Z",
+      "evidence": "s2 语言实修：check_prose 告警 198→155（弱动词/被动 22 处实修：作出→作/回应、进行→从事等；70 行按分句改分号；拆散 3 处超长并列）；EW 长句与的链残余 116 条按 ADR-0020 判读豁免（多为忠实转写 Smith 原文多层论证与引文，拆句会损论证链；逐类：长句 78、de-chain 60、引文内部被动 5 等）。语体：现代汉语学术书面语，无文言仿古、无半文半白；破折号 98 处均对应源文 em dash（源 87 处），未额外增用；术语用词与登记册一致"
     }
   ],
   "blockers": [],
