@@ -1,0 +1,299 @@
+{
+ "key": "kleene–mostowski hierarchy",
+ "term": "Kleene–Mostowski hierarchy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T09:25:33+00:00",
+ "status": "ok",
+ "note": "variant=Kleene–Mostowski hierarchy; 审定公布名词库=232; 海峡两岸名词对照库=71; 其他来源数据库=11; 预公布名词数据库=6; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "克林尼闭包",
+   "en": "Kleene closure",
+   "code": "02.0511",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_形式语言与自动机"
+  },
+  {
+   "cn": "克林 T 谓词",
+   "en": "Kleene T -predicate",
+   "code": "02.0160",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "阶序",
+   "en": "hierarchy",
+   "code": "03.406",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_生物学哲学"
+  },
+  {
+   "cn": "等级分工",
+   "en": "hierarchy ",
+   "code": "2.0033",
+   "standard": "草学名词",
+   "subject": "草学_草地生态与草地培育_草地生态"
+  },
+  {
+   "cn": "阶元系统",
+   "en": "hierarchy",
+   "code": "2.0022",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_动物分类学"
+  },
+  {
+   "cn": "科层组织",
+   "en": "hierarchy",
+   "code": "05.029",
+   "standard": "经济学名词",
+   "subject": "经济学_制度经济学"
+  },
+  {
+   "cn": "阶元系统",
+   "en": "hierarchy",
+   "code": "02.0022",
+   "standard": "植物学名词",
+   "subject": "植物学_系统与进化植物学"
+  },
+  {
+   "cn": "层次性",
+   "en": "hierarchy",
+   "code": "07.014",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_生物控制论_生物控制论基础"
+  },
+  {
+   "cn": "层次性",
+   "en": "hierarchy",
+   "code": "03.0643",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_系统工程"
+  },
+  {
+   "cn": "等级",
+   "en": "hierarchy",
+   "code": "02.0039",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_原始社会"
+  },
+  {
+   "cn": "序位体系",
+   "en": "hierarchy",
+   "code": "02.024",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫分类与进化"
+  },
+  {
+   "cn": "分层",
+   "en": "hierarchy",
+   "code": "02.0223",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_递归论"
+  },
+  {
+   "cn": "克林闭包",
+   "en": "Kleene closure",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "阶元系统",
+   "en": "hierarchy",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "层次",
+   "en": "hierarchy",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "序位",
+   "en": "hierarchy",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "等级",
+   "en": "hierarchy",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "分级",
+   "en": "hierarchy",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "层次",
+   "en": "hierarchy",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "序位体系，阶元系统",
+   "en": "hierarchy",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "等级理论",
+   "en": "hierarchy theory",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "焦虑层次,焦虑层级",
+   "en": "anxiety hierarchy",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "优势等级",
+   "en": "dominance hierarchy",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "社会等级",
+   "en": "social hierarchy",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "多项式谱系",
+   "en": "polynomial hierarchy",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "超引力",
+   "en": "Hierarchy problem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "Fσ集",
+   "en": "Borel hierarchy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "大统一理论",
+   "en": "Hierarchy problem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "袖套",
+   "en": "sleeve",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "护腕",
+   "en": "cuff\",\"sleeve",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "护腕",
+   "en": "cuff\",\"sleeve",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "红色袖套",
+   "en": "red sleeve",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "蓝色袖套",
+   "en": "blue sleeve",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "克莱因-戈尔登方程",
+   "en": "Klein-Gordon equation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "袖车绞",
+   "en": "sleeve wheel\",\"sode-guruma-jime",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "层次分析法",
+   "en": "analytic hierarchy process",
+   "code": "1.0652",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "层次分析法",
+   "en": "analytic hierarchy process，AHP",
+   "code": "6.1.6.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_分析评估"
+  },
+  {
+   "cn": "需要层次理论",
+   "en": "hierarchy of needs theory",
+   "code": "4.1.2.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_社会心理学理论"
+  },
+  {
+   "cn": "性别等级制 gender hierarchy",
+   "en": null,
+   "code": "3.2.2.13",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_女性主义"
+  },
+  {
+   "cn": "格林围绝经期评估量表",
+   "en": "Greene climacteric scale",
+   "code": "3.7.3.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_更年期保健"
+  },
+  {
+   "cn": "长袖橡胶手套",
+   "en": "long sleeve rubber gloves",
+   "code": "3.2.2.18",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒相关用品"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

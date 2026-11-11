@@ -1,0 +1,348 @@
+{
+ "key": "karp partial isomorphism theorem",
+ "term": "Karp partial isomorphism theorem",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T09:22:33+00:00",
+ "status": "ok",
+ "note": "variant=Karp partial isomorphism theorem; 审定公布名词库=3983; 海峡两岸名词对照库=1249; 其他来源数据库=190; 预公布名词数据库=287; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "迈希尔同构定理",
+   "en": "Myhill isomorphism theorem",
+   "code": "02.0176",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "卡普可归约性",
+   "en": "Karp reducibility",
+   "code": "02.0324",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "卡普线",
+   "en": "Karp line",
+   "code": "10.181",
+   "standard": "电子学名词",
+   "subject": "电子学_真空电子学"
+  },
+  {
+   "cn": "类质同象",
+   "en": "isomorphism",
+   "code": "02.00.179",
+   "standard": "地质学名词",
+   "subject": "地质学_结晶学"
+  },
+  {
+   "cn": "同[晶]形性",
+   "en": "isomorphism",
+   "code": "08.0762",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_结构"
+  },
+  {
+   "cn": "同构",
+   "en": "isomorphism",
+   "code": "02.0501",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_形式语言与自动机"
+  },
+  {
+   "cn": "类质同晶型",
+   "en": "isomorphism",
+   "code": "04.1893",
+   "standard": "化学名词",
+   "subject": "化学_物理化学_晶体化学"
+  },
+  {
+   "cn": "同晶型",
+   "en": "isomorphism",
+   "code": "03.271",
+   "standard": "药学名词",
+   "subject": "药学_药物化学"
+  },
+  {
+   "cn": "同构",
+   "en": "isomorphism",
+   "code": "01.0118",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "同形体",
+   "en": "isomorph",
+   "code": "1.0132",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_总论"
+  },
+  {
+   "cn": "类质同象",
+   "en": "isomorphism,allomerism",
+   "code": "04.049",
+   "standard": "地质学名词",
+   "subject": "地质学_矿物学"
+  },
+  {
+   "cn": "等价类质同象",
+   "en": "equivalent isomorphism",
+   "code": "02.00.182",
+   "standard": "地质学名词",
+   "subject": "地质学_结晶学"
+  },
+  {
+   "cn": "卡普可归约性",
+   "en": "Karp reducibility",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "卡普线",
+   "en": "Karp line",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "类质同象",
+   "en": "isomorphism",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "同晶型",
+   "en": "isomorphism",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "同形体",
+   "en": "isomorph",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "高分子[异质]同晶现象",
+   "en": "macromolecular isomorphism",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "高分子[异质]同晶现象",
+   "en": "macromolecular isomorphism",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "图同构",
+   "en": "graph isomorphism",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "网同构",
+   "en": "net isomorphism",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "同构问题",
+   "en": "isomorphic problem",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "定理",
+   "en": "theorem",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "π定理",
+   "en": "π-theorem",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "埃德蒙兹-卡普算法",
+   "en": "Edmonds–Karp algorithm",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "图同构",
+   "en": "graph isomorphism",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "定理",
+   "en": "Theorem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "勾股定理",
+   "en": "Pythagorean theorem/Pythagoras' theorem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "贝叶斯定理",
+   "en": "Bayes' theorem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "科斯定理",
+   "en": "Coase theorem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "布拉休斯定理",
+   "en": "Blasius theorem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "H定理",
+   "en": "H-theorem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "位力定理",
+   "en": "Virial theorem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "二项式定理",
+   "en": "Binomial theorem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "气体分压",
+   "en": "partial pressure",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "部分熔融",
+   "en": "partial melting",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "同形反应",
+   "en": "isomorphic response",
+   "code": "1.4.3.2.15",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_症状与体征_体征"
+  },
+  {
+   "cn": "置盐定理",
+   "en": "Okishio theorem",
+   "code": "05.0131",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外经济学理论"
+  },
+  {
+   "cn": "偏相关",
+   "en": "partial correlation",
+   "code": "1.2.5.77",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "部分母乳喂养",
+   "en": "partial breastfeeding",
+   "code": "6.1.4.3.3",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇女营养"
+  },
+  {
+   "cn": "基本的马克思定理",
+   "en": "fundamental Marxian theorem",
+   "code": "05.0130",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外经济学理论"
+  },
+  {
+   "cn": "水蒸气分压",
+   "en": "partial vapor pressure",
+   "code": "4.2.2.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_热区军事卫生_热环境"
+  },
+  {
+   "cn": "部分阴性分析法",
+   "en": "partial negative analysis",
+   "code": "3.1.5.11",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "部分隔离屏障",
+   "en": "partial isolated barrier",
+   "code": "7.4.4.1.2",
+   "standard": "消毒学",
+   "subject": "消毒学_其他_消毒服务机构"
+  },
+  {
+   "cn": "局部照射",
+   "en": "partial body irradiation",
+   "code": "6.1.4.5.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_照射分类_部位分类"
+  },
+  {
+   "cn": "部分缓解",
+   "en": "partial response，PR",
+   "code": "1.6.2.4",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的疾病评估_预后与转归"
+  },
+  {
+   "cn": "部分积累制",
+   "en": "partial accumulation system",
+   "code": "11.5.1.6",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_健康保险_健康保险筹资与运行"
+  },
+  {
+   "cn": "部分积累制",
+   "en": "partially funded system",
+   "code": "3.18.2.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_社会保障_社会保险"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

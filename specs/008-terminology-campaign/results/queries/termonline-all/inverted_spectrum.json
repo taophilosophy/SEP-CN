@@ -1,0 +1,348 @@
+{
+ "key": "inverted spectrum",
+ "term": "inverted spectrum",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T09:07:32+00:00",
+ "status": "ok",
+ "note": "variant=inverted spectrum; 审定公布名词库=1648; 海峡两岸名词对照库=459; 其他来源数据库=34; 预公布名词数据库=30; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "倒谱项",
+   "en": "term of inverted spectrum",
+   "code": "04.1740",
+   "standard": "物理学名词",
+   "subject": "物理学_光学、声学_光学_光谱学、激光、非线性光学"
+  },
+  {
+   "cn": "转换部件",
+   "en": "inverter",
+   "code": "02.052",
+   "standard": "化工名词（六）生物化工",
+   "subject": "化工（六）_代谢工程与合成生物学_合成生物学_报告元件"
+  },
+  {
+   "cn": "逆变器",
+   "en": "inverter",
+   "code": "21.050",
+   "standard": "电力名词",
+   "subject": "电力_高压直流输电"
+  },
+  {
+   "cn": "反相器",
+   "en": "inverter",
+   "code": "03.1107",
+   "standard": "物理学名词",
+   "subject": "物理学_电磁学"
+  },
+  {
+   "cn": "逆变器",
+   "en": "inverter",
+   "code": "11.1007",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机应用_计算机控制"
+  },
+  {
+   "cn": "逆变器",
+   "en": "inverter",
+   "code": "26.0223",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_动力机械_风力机_结构部件"
+  },
+  {
+   "cn": "逆变器",
+   "en": "inverter",
+   "code": "07.043",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_汽车电器及汽车附属装置_汽车电器"
+  },
+  {
+   "cn": "逆变器",
+   "en": "inverter",
+   "code": "15.017",
+   "standard": "通信科学技术名词",
+   "subject": "通信科学技术_通信电源"
+  },
+  {
+   "cn": "逆变器",
+   "en": "inverter",
+   "code": "07.0049",
+   "standard": "铁道科学技术名词",
+   "subject": "铁道科学技术_铁道通信"
+  },
+  {
+   "cn": "反相器",
+   "en": "inverter",
+   "code": "03.132",
+   "standard": "电子学名词",
+   "subject": "电子学_电子线路与网络"
+  },
+  {
+   "cn": "逆变器",
+   "en": "inverter",
+   "code": "04.374",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_控制技术_电气自动化"
+  },
+  {
+   "cn": "仰拱",
+   "en": "invert,inverted arch",
+   "code": "02.0679",
+   "standard": "铁道科学技术名词",
+   "subject": "铁道科学技术_铁道工程建设"
+  },
+  {
+   "cn": "反相器，倒相器",
+   "en": "inverter\",\"invertor",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "倒置显微镜",
+   "en": "inverted microscope",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "乳头内陷",
+   "en": "inverted nipple",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "倒槽",
+   "en": "inverted trough",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "反向压力计",
+   "en": "inverted manometer",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "反向重复［序列］",
+   "en": "inverted repeat",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "倒置显微镜",
+   "en": "inverted microscope",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "反向插入",
+   "en": "inverted insertion",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "倒像",
+   "en": "inverted image",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "反转负片",
+   "en": "inverted negative",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "倒置磁控管",
+   "en": "inverted magnetron",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "[蔡司]平行四边形控制器",
+   "en": "parallelogram inverter",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "反相器",
+   "en": "Inverter",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "倒排索引",
+   "en": "Inverted index",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "倒金字塔结构",
+   "en": "Inverted pyramid",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "倒十字支撑",
+   "en": "inverted cross",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "倒悬垂",
+   "en": "inverted hang",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "开环增益",
+   "en": "inverting amplifier",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "屈体倒悬垂",
+   "en": "bent inverted hang\",\"half-inverted hang",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "半仰姿势",
+   "en": "half inverted position",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "抗菌谱",
+   "en": "antimicrobial spectrum",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "频谱分析仪",
+   "en": "Spectrum analyzer",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "谱带",
+   "en": "Spectrum (physical sciences)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "广谱抗生素",
+   "en": "Broad-spectrum antibiotic",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "转化糖浆",
+   "en": "invert sugar syrup",
+   "code": "5.17.25",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_糖果"
+  },
+  {
+   "cn": "疾病谱",
+   "en": "disease spectrum",
+   "code": "8.003",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_公共卫生与健康伦理"
+  },
+  {
+   "cn": "死亡谱",
+   "en": "death spectrum",
+   "code": "7.026",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_临终关怀与死亡伦理"
+  },
+  {
+   "cn": "γ能谱分析",
+   "en": "γ spectrum analysis",
+   "code": "8.3.5",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_核武器医学防护学_核辐射侦检"
+  },
+  {
+   "cn": "中子能谱",
+   "en": "neutron energy spectrum",
+   "code": "5.1.4.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射测量原理_中子辐射探测原理"
+  },
+  {
+   "cn": "中子能谱测量",
+   "en": "neutron spectrum measurement",
+   "code": "5.1.4.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射测量原理_中子辐射探测原理"
+  },
+  {
+   "cn": "疾病谱",
+   "en": "spectrum of disease",
+   "code": "3.11.2.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_医学社会学_健康现象与行为"
+  },
+  {
+   "cn": "肌酶谱",
+   "en": "muscle enzyme spectrum",
+   "code": "2.5.2.1",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_炎性肌病_疾病评估"
+  },
+  {
+   "cn": "疾病谱",
+   "en": "spectrum of disease",
+   "code": "2.5.3",
+   "standard": "社会医学名词",
+   "subject": "医学模式"
+  },
+  {
+   "cn": "健康效应谱",
+   "en": "health effect spectrum",
+   "code": "8.052999999999999",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_公共卫生与健康伦理"
+  },
+  {
+   "cn": "孤独症谱系障碍",
+   "en": "autistic-spectrum disorder, ASD",
+   "code": "6.2.1.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题"
+  },
+  {
+   "cn": "孤独症谱系障碍",
+   "en": "autistic spectrum disorder, ASD",
+   "code": "7.3.2.3.5",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,222 @@
+{
+ "key": "knack",
+ "term": "knack",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T09:25:33+00:00",
+ "status": "ok",
+ "note": "variant=knack; 审定公布名词库=63; 海峡两岸名词对照库=20; 其他来源数据库=6; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "零食",
+   "en": "snack",
+   "code": "05.058",
+   "standard": "运动医学名词",
+   "subject": "运动医学_运动营养_食物营养"
+  },
+  {
+   "cn": "敲缸",
+   "en": "knock",
+   "code": "06.159",
+   "standard": "船舶工程名词",
+   "subject": "船舶工程_船舶机械"
+  },
+  {
+   "cn": "敲缸",
+   "en": "knock",
+   "code": "04.0808",
+   "standard": "铁道科学技术名词",
+   "subject": "铁道科学技术_铁道牵引动力"
+  },
+  {
+   "cn": "零食",
+   "en": "snack food",
+   "code": "05.0351",
+   "standard": "食品科学技术名词",
+   "subject": "食品科学技术_食品营养_食物营养价值、营养强化食品_烹饪与营养保持"
+  },
+  {
+   "cn": "心包叩击音",
+   "en": "pericardial knock",
+   "code": "02.0285",
+   "standard": "感染病学名词",
+   "subject": "感染病学_系统感染_心血管系统感染"
+  },
+  {
+   "cn": "柴油机工作粗爆",
+   "en": "diesel knock",
+   "code": "24.0129",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_动力机械_内燃机_发动机设计和运行"
+  },
+  {
+   "cn": "爆震传感器",
+   "en": "knock sensor",
+   "code": "24.0858",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_动力机械_内燃机_发动机排放_净化系统和装置"
+  },
+  {
+   "cn": "爆震传感器",
+   "en": "knock sensor",
+   "code": "04.805",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_发动机_发动机管理系统"
+  },
+  {
+   "cn": "爆震窗",
+   "en": "knock window",
+   "code": "04.839",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_发动机_发动机管理系统"
+  },
+  {
+   "cn": "柴油机敲缸",
+   "en": "diesel knock",
+   "code": "04.072",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_发动机_一般名词"
+  },
+  {
+   "cn": "裂点",
+   "en": "knick point",
+   "code": "03.118",
+   "standard": "地理学名词",
+   "subject": "地理学_地貌学"
+  },
+  {
+   "cn": "敲缸",
+   "en": "diesel knock",
+   "code": "15.0155",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_轮机管理"
+  },
+  {
+   "cn": "爆震",
+   "en": "knock",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "柴油爆震",
+   "en": "diesel knock",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "裂点",
+   "en": "knick point",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "敲缸",
+   "en": "diesel knock",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "爆震试验",
+   "en": "knock characteristic test",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "[机器等]拆散进口",
+   "en": "knock-down import",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "散装出口",
+   "en": "knock-down export",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "基因敲除, 基因剔除",
+   "en": "gene knock-out",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "基因敲减, 基因敲落",
+   "en": "gene knock-down",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "基因敲入",
+   "en": "gene knock-in",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "免疫基因敲除，免疫基因剔除",
+   "en": "immunogene knock-out",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "免疫基因敲入",
+   "en": "immunogene knock-in",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "击倒",
+   "en": "knock down fall\",\"knock down",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "碰倒",
+   "en": "knock down",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "赛前试打时间",
+   "en": "knock-up period",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "撞倒障碍",
+   "en": "knock down an obstacle",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "击倒获胜",
+   "en": "win by knock-out\",\"knockout\",\"KO",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "击倒",
+   "en": "down\",\"drop\",\"knock down to floor\",\"knockdown\",\"KD",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

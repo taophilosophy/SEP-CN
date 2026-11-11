@@ -1,0 +1,40 @@
+{
+ "key": "junzi",
+ "term": "junzi",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T09:15:03+00:00",
+ "status": "ok",
+ "note": "variant=junzi; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "琼氏不动杆菌",
+   "en": "Acinetobacter junii",
+   "code": "03.0972",
+   "standard": "感染病学名词",
+   "subject": "感染病学_病原体感染_细菌感染"
+  },
+  {
+   "cn": "荀子礼制思想",
+   "en": "social institution thought of Xunzi",
+   "code": "01.0252",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_管理思想史"
+  },
+  {
+   "cn": "刘涓子鬼遗方",
+   "en": "Liu Juanzi Guiyi Fang,Liu Juanzi's Remedies Bequeathed by Ghosts",
+   "code": "02.013",
+   "standard": "中医药学名词",
+   "subject": "中医药学_医史文献_医书"
+  },
+  {
+   "cn": "君子",
+   "en": "Junzi (Man of Virtue)",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

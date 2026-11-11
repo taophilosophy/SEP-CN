@@ -1,0 +1,215 @@
+{
+ "key": "kapi-samyoga",
+ "term": "kapi-samyoga",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T09:18:03+00:00",
+ "status": "ok",
+ "note": "variant=kapi-samyoga; 审定公布名词库=51; 海峡两岸名词对照库=10; 其他来源数据库=4; 预公布名词数据库=3; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "卡普暴动",
+   "en": "Kapp Putsch",
+   "code": "03.0626",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_德国、奥地利"
+  },
+  {
+   "cn": "咨开",
+   "en": "zi kai",
+   "code": "07.02.047",
+   "standard": "档案学名词",
+   "subject": "档案学_历史文书_文书用语"
+  },
+  {
+   "cn": "牌开",
+   "en": "pai kai",
+   "code": "07.02.048",
+   "standard": "档案学名词",
+   "subject": "档案学_历史文书_文书用语"
+  },
+  {
+   "cn": "开面",
+   "en": "kai mian",
+   "code": "07.03.041",
+   "standard": "档案学名词",
+   "subject": "档案学_历史文书_文书制度"
+  },
+  {
+   "cn": "API度",
+   "en": "API degree",
+   "code": "01.0045",
+   "standard": "石油名词",
+   "subject": "石油_石油学总类"
+  },
+  {
+   "cn": "API滤失量",
+   "en": "API filtration",
+   "code": "05.0183",
+   "standard": "石油名词",
+   "subject": "石油_石油钻井工程"
+  },
+  {
+   "cn": "开皇礼",
+   "en": "Kai Huang Li;Kai Huang rites",
+   "code": "5.13",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_隋唐五代_政治_礼法"
+  },
+  {
+   "cn": "开天穴",
+   "en": "kai tian point",
+   "code": "19.615",
+   "standard": "兽医学名词",
+   "subject": "兽医学_中兽医学"
+  },
+  {
+   "cn": "开关穴",
+   "en": "kai guan point",
+   "code": "19.637",
+   "standard": "兽医学名词",
+   "subject": "兽医学_中兽医学"
+  },
+  {
+   "cn": "开风穴",
+   "en": "kai feng point",
+   "code": "19.693",
+   "standard": "兽医学名词",
+   "subject": "兽医学_中兽医学"
+  },
+  {
+   "cn": "开复",
+   "en": "kai fu;reinstatement",
+   "code": "8.201",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_明清_政治_官员管理"
+  },
+  {
+   "cn": "API细菌鉴定卡",
+   "en": "API identification card",
+   "code": "09.370",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物学技术"
+  },
+  {
+   "cn": "钾盐",
+   "en": "kali salt",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "楷体",
+   "en": "Kai Ti",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "卡普尔",
+   "en": "Kapr\",\"Jan(捷克)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "关键绩效指标",
+   "en": "key performance indicator\",\"KPI",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "大气压电离",
+   "en": "atmospheric pressure ionization\",\"API",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "应用程序接口",
+   "en": "application programming interface\",\"API",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "驱动蛋白相关蛋白3，Kap3蛋白",
+   "en": "kinesin-associated protein 3\",\"Kap3",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "4′，6-二脒基-2-苯基吲哚",
+   "en": "4′\",\"6-diamidino-2-phenylindole\",\"DAPI",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "三阳开泰瓷",
+   "en": "San Yang Kai Tai porcelain",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "知识-评价人格结构",
+   "en": "knowledge and appraisal personality archi tecture\",\"KAPA",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "Open API模式",
+   "en": "open application-programming interface (API) model",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "崩上四方固",
+   "en": "kuzure-kami-shiho-gatame\",\"modified upper four-quarter hold-down",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "通用安全服务应用程序接口",
+   "en": "Generic Security Service Application Program Interface (GSS-API)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "上四方固",
+   "en": "kami-shiho-gatame\",\"upper four quarters\",\"upper four-quarter hold-down",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "卡迪司法",
+   "en": "Kadi Jurisprudence",
+   "code": "3.9.4.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_宗教社会学_宗教与法律"
+  },
+  {
+   "cn": "计算机辅助访谈",
+   "en": "computer-assisted personal interviewing，CAPI",
+   "code": "1.2.4.15",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "空气比释动能面积乘积",
+   "en": "air kerma-area product，KAP",
+   "code": "6.4.2.67",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
