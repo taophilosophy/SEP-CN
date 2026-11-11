@@ -619,64 +619,88 @@ segments:
     kind: body
     source: |-
       Up to the end of Section 10, Book 1 considers forces that are directed toward geometric centers rather than bodies. As a consequence, only the first two laws of motion enter into any of the proofs until late in Book 1. Even further, as Newton develops the theory to that point, only the accelerative measure of force is employed, and hence even *mass* plays no role. Included in this segment are by far the most widely read parts of Book 1, then and now: Section 2, which deals with centripetal forces generally, and Section 3, which develops Newton's fundamental discovery that a body moves in a conic section, sweeping out equal areas in equal times about a focus, if and only if the motion is governed by an inverse-square centripetal force directed toward this focus. The stick-figure picture of Book 1 that results from viewing these two sections as its high point blinds the reader not only to the richness of the theory developed in it, but also to several no less important results derived in the rest of it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      到第十节末尾为止，第一卷考察的都是指向几何中心而非物体的力。因此，在第一卷后段之前，任何证明都只用到前两条运动定律。更进一步说，牛顿把理论发展到那一步时，只使用力的加速量度，因此连 **质量** 也不起作用。这一部分包括第一卷中当时与现在都远为最常被阅读的内容：第二节一般地处理向心力，第三节发展牛顿的基本发现——物体在圆锥截线中运动，并相对于焦点在相等时间内扫过相等面积，当且仅当运动由指向该焦点的平方反向心力支配。把这两节看作第一卷的高峰，由此形成的关于第一卷的“火柴人”图景，不仅使读者看不到其中所发展理论的丰富性，也看不到其余部分所得出的若干同样重要的结果。
+    step2: |-
+      直到第十节末尾，第一卷考察的都是指向几何中心而非物体的力。因此，在第一卷后段之前，任何证明都只用到前两条运动定律。更进一步，牛顿把理论发展到那一步时，只使用力的加速量度，因此连 **质量** 也不起作用。这一部分包括第一卷中当时与现在都远为最常被阅读的内容：第二节一般地处理向心力，第三节发展牛顿的基本发现——物体在圆锥截线中运动，并相对于焦点在相等时间内扫过相等面积，当且仅当运动由指向该焦点的平方反向心力支配。把这两节看作第一卷的高峰，由此形成的关于第一卷的“火柴人”图景，不仅使读者看不到其中所发展理论的丰富性，也看不到其余部分所得出的若干同样重要的结果。
   - id: 72
     kind: body
     source: |-
       The paragraph that opens Section 11 announces, “Up to this point I have been setting forth the motions of bodies attracted toward an immovable center, such as, however, hardly exists in the natural world…. I now go on to set forth the motion of bodies that attract one another” [**P**, 561] The section first successfully solves the problem of the motion of two bodies under inverse-square mutual attraction. It then turns to the case of more than two bodies, for which Newton can solve only the case of mutual attraction that varies linearly with the distance between bodies. For the inverse-square case, Newton gives only qualitative results, most of them in 22 corollaries to Proposition 66 that Newton calls “imperfect” in the Preface to the first edition. All of these corollaries identify qualitative tendencies in the motions of a body orbiting a second body and attracted to a third, with the majority of the results directed specifically to the perturbing effects of the Sun on the motion of our Moon. It is with Section 11, then, that the *Principia* departs from the realm of the “De Motu” tract and begins to consider the complexities of the true motions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第十一节开篇的段落宣告：“至此，我一直在阐述被吸引向一个不动中心的物体的运动，然而这样的中心在自然界中几乎不存在……现在我要进一步阐述彼此吸引的物体的运动”[**P**, 561]。这一节先成功解决了两个物体在平方反比相互吸引下的运动问题。然后它转向多于两个物体的情形；对这种情况，牛顿只能解决相互吸引随物体间距离线性变化的情形。对于平方反比情形，牛顿只给出定性结果，其中大多数在命题 66 的 22 个推论中；牛顿在第一版序言中称这些推论“不完善”。所有这些推论都辨认出一个物体绕第二个物体运行并受第三个物体吸引时运动中的定性倾向，而其中大部分结果专门针对太阳对我们月球运动的摄动效应。因此，正是从第十一节起，《原理》离开了“《论运动》”论文的领域，开始考虑真实运动的复杂性。
+    step2: |-
+      第十一节开头的段落宣告：“至此，我一直在阐述被吸引向一个不动中心的物体的运动，然而这样的中心在自然界中几乎不存在……现在我要进一步阐述彼此吸引的物体的运动”[**P**, 561]。这一节首先成功解决了两个物体在平方反比相互吸引下的运动问题。然后它转向多于两个物体的情形；对这种情况，牛顿只能解决相互吸引随物体间距离线性变化的情形。对于平方反比情形，牛顿只给出定性结果，其中大多数在命题 66 的 22 个推论中；牛顿在第一版序言中称这些推论“不完善”。所有这些推论都辨认出一个物体绕第二个物体运行并受第三个物体吸引时运动中的定性倾向，而其中大部分结果专门针对太阳对我们月球运动的摄动效应。因此，正是从第十一节起，《原理》离开了“《论运动》”论文的领域，开始考虑真实运动的复杂性。
   - id: 73
     kind: body
     source: |-
       Sections 12 and 13 treat attractive forces between bodies that result from — are composed out of — centripetal forces between each of the individual microphysical particles forming them. Section 12 treats spherical bodies, and Section 13, non-spherical bodies. As Newton anticipated, this was the part of Book 1 that would arouse the strongest complaints from readers committed to the view that all forces involve contact between bodies. On top of this, nowhere in Book 1 did the mathematics become more demanding than here. These two sections give primary attention to inverse-square forces and forces that vary linearly with distance, but, just as earlier in Book 1, some results pertain to forces that vary in other ways, included among which are results pointing to experiments that might differentiate between inverse-square and any alternative to it. In the Scholium to Proposition 78 Newton singles out the result of this inquiry that he regarded as most notable:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第十二节与第十三节讨论物体之间的吸引力，这些力由构成物体的各个微观粒子之间的向心力产生，即由这些向心力组合而成。第十二节处理球体，第十三节处理非球体。一如牛顿所预料，这是第一卷中最会激起那些坚持一切力都涉及物体接触的读者强烈不满的部分。除此之外，第一卷中没有哪里数学要求比这里更高。这两节主要关注平方反比力与随距离线性变化的力，但正如第一卷前文，有些结果涉及以其他方式变化的力，其中还包括指向某些实验的结果，这些实验或可区分平方反比力与任何替代方案。在命题 78 的附释中，牛顿挑出了他认为这一探究中最值得注意的结果：
+    step2: |-
+      第十二节与第十三节处理物体之间的吸引力，这些力由构成物体的各个微观粒子之间的向心力产生，即由这些向心力组合而成。第十二节处理球体，第十三节处理非球体。正如牛顿所预料，这是第一卷中最会激起那些坚持一切力都涉及物体接触的读者强烈不满的部分。除此之外，第一卷中没有哪里数学要求比这里更高。这两节主要关注平方反比力与随距离线性变化的力，但正如第一卷前文，有些结果涉及以其他方式变化的力，其中还包括指向某些实验的结果，这些实验或可区分平方反比力与任何替代方案。在命题 78 的附释中，牛顿挑出了他认为这一探究中最值得注意的结果：
   - id: 74
     kind: body
     source: |-
       > I have now set forth the two major cases of attractions, namely when the centripetal forces decrease in the squared ratio of the distances or increase in the simple ratio of the distances, causing bodies to revolve in conics, and composing centripetal forces of spherical bodies that decrease or increase in proportion to the distance from the center according to the same law — which is worthy of note. [**P**, 599][^note-34]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我现在已经阐述了吸引的两种主要情形，即向心力按距离的平方比减小、或按距离的简单比增大的情形，它们使物体在圆锥截线中运行；以及球体的向心力的组合，这些向心力按同一规律随到中心的距离减小或增大——这一点值得注意。[**P**, 599][^note-34]
+    step2: |-
+      > 我现在已经阐述了吸引的两种主要情形，即向心力按距离的平方比减小、或按距离的简单比增大的情形，它们使物体在圆锥截线中运行；以及球体的向心力的组合，这些向心力按同一规律随到中心的距离减小或增大——这一点值得注意。[**P**, 599][^note-34]
   - id: 75
     kind: body
     source: |-
       This is one of the few places in the *Principia* where Newton singles out a result in an aside in this way. That an attracting sphere can be treated as if the mass were concentrated at its center in the case of attractive forces that vary linearly with the distance was not so notable, for as Newton shows in Section 13, in this case of attractive forces an attracting body always can be treated as if the mass were located at its center of gravity, regardless of shape. The truly notable finding is that it is also true of spheres in the case of inverse-square forces. The subsequent results in Sections 12 and 13 indicate that, in the case of all other kinds of centripetal force, the attraction toward a sphere is not the same as attraction toward all its mass concentrated in the center; and even in the inverse-square case, the result does not hold for other shapes or for spheres that do not have spherically symmetric density.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这是《原理》中不多的几处牛顿以这种旁白方式挑出一个结果的地方。在吸引力随距离线性变化的情形中，一个吸引球体可以被当作其质量集中在中心，这并不那么值得注意，因为正如牛顿在第十三节所表明的，在这种吸引力情形中，无论形状如何，吸引物体总可以被当作其质量位于其重心。真正值得注意的发现则在于：在平方反比力情形中，这对球体也同样成立。第十二节与第十三节的后续结果表明，在所有其他种类的向心力情形中，对球体的吸引并不等于对其全部质量集中于中心的吸引；即使在平方反比情形中，这一结果对其他形状、或对不具有球对称密度的球体也不成立。
+    step2: |-
+      这是《原理》中少数几处牛顿以这种旁白方式挑出一个结果的地方。在吸引力随距离线性变化的情形中，一个吸引球体可以被当作其质量集中在中心，这并不那么值得注意，因为正如牛顿在第十三节所表明的，在这种吸引力情形中，无论形状如何，吸引物体总可以被当作其质量位于其重心。真正值得注意的发现是：在平方反比力情形中，这对球体也同样成立。第十二节与第十三节的后续结果表明，在所有其他种类的向心力情形中，对球体的吸引并不等于对其全部质量集中于中心的吸引；即使在平方反比情形中，这一结果对其他形状、或对不具有球对称密度的球体也不成立。
   - id: 76
     kind: body
     source: |-
       Although Newton does not so expressly single out other results of Book 1, a few deserve comment here. The key that opened the way to Newton's theory of motion under centripetal forces was his discovery of how to generalize to non-circular trajectories the solution that he and Huygens had obtained for the central force in uniform circular motion. Figure 2 shows Newton's diagram for this generalization from the first edition. Suppose first that the trajectory APQ is part of a circle of radius SP along which the body at P is moving uniformly. Both Newton and Huygens had reasoned that the displacement QR from the tangent is proportional to the product of the force retaining the body in its circular orbit and the square of the time *t* for the body to
-    step1: TBD
-    step2: TBD
+    step1: |-
+      虽然牛顿没有这样明确挑出第一卷的其他结果，但有几个结果值得一提。为牛顿向心力下运动理论开路的关键，是他发现如何把他与惠更斯就匀速圆周运动中的中心力所得的解，推广到非圆轨迹。图 2 显示第一版中牛顿为这一推广所作的图。首先假设轨迹 APQ 是半径为 SP 的圆的一部分，物体在 P 处沿此圆匀速运动。牛顿与惠更斯都推理说，从切线出发的位移 QR，与使物体留在其圆周轨道上的力同物体从 P
+    step2: |-
+      尽管牛顿没有这样明确地挑出第一卷的其他结果，但有几个结果值得一提。打开牛顿向心力下运动理论之路的关键，是他发现如何把他与惠更斯就匀速圆周运动中的中心力所得的解，推广到非圆轨迹。图 2 显示第一版中牛顿为这一推广所作的图。首先假设轨迹 APQ 是半径为 SP 的圆的一部分，物体在 P 处沿此圆匀速运动。牛顿与惠更斯都推理说，从切线出发的位移 QR，与使物体留在其圆周轨道上的力同物体从 P
   - id: 77
     kind: body
     source: |-
       > ![figure 2](../assets/newton-principia/fig2.jpg)
       >
       > Figure 2
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ![图 2](../yuanwen/assets/newton-principia/fig2.jpg)
+      >
+      > 图 2
+    step2: |-
+      > ![图 2](../yuanwen/assets/newton-principia/fig2.jpg)
+      >
+      > 图 2
   - id: 78
     kind: body
     source: |-
       move from P to Q, and hence the force varies as QR/*t*². But the time is proportional to PQ divided by the velocity *v*, and in the limit as Q approaches P, PQ approaches PR, so that *t*² becomes equal to PR²/*v*². Proposition 36 of Book 3 of Euclid entails that in this limit PR² is equal to the product of QR and twice the radius SP, and hence the force for uniform motion in a circle varies as *v*²/SP or *v*²/*r*.[^note-35]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      移动到 Q 所需时间 *t* 的平方之积成正比；因此力按 QR/*t*² 变化。但时间与 PQ 除以速度 *v* 成正比，而在 Q 趋近 P 的极限下，PQ 趋近 PR，于是 *t*² 等于 PR²/*v*²。欧几里得《几何原本》第三卷第 36 命题蕴含：在此极限下，PR² 等于 QR 与两倍半径 SP 之积；因此匀速圆周运动的力按 *v*²/SP 或 *v*²/*r* 变化。[^note-35]
+    step2: |-
+      移动到 Q 所需时间 *t* 的平方之积成正比；因此力按 QR/*t*² 变化。但时间与 PQ 除以速度 *v* 成正比，而在 Q 趋近 P 的极限下，PQ 趋近 PR，于是 *t*² 等于 PR²/*v*²。欧几里得《几何原本》第三卷第 36 命题蕴含：在此极限下，PR² 等于 QR 与两倍半径 SP 之积；因此匀速圆周运动的力按 *v*²/SP 或 *v*²/*r* 变化。[^note-35]
   - id: 79
     kind: body
     source: |-
       Newton's Proposition 6 generalizes this result to not necessarily uniform motion *under centripetal forces* along an arbitrary trajectory in which equal areas are swept out in equal times with respect to S, in accord with Proposition 1 of Book 1. The central force at P is again proportional to the displacement from the tangent QR over a short increment of time divided by the square of this time; but now the time is proportional not to the arc PQ, but to the area swept out, which in the limit as Q approaches P, is the triangular area SPxQT/2. Therefore, to keep a body moving along a given non-circular trajectory, the centripetal force must vary along the trajectory as (1/SP²) — that is, 1/*r*² — times the limit of (QR/QT²) as Q approaches P. In the second edition Newton adds a corollary that displays another way of seeing the result as a generalization of uniform circular motion: the centripetal force along the trajectory must everywhere vary as *v*²/(*ρ*sinSPR), where *ρ* is the radius of curvature of the trajectory at P. With this, the body can be viewed as driven from one instantaneous circle to the next by the component of force tangential to the motion, a component that disappears in the case of uniform circular motion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      牛顿的命题 6 将此结果推广到不一定匀速的运动，即在向心力作用下沿任意轨迹的运动，其中相对于 S 在相等时间内扫过相等面积，符合第一卷命题 1。P 处的中心力再次与短时间增量内从切线出发的位移 QR 除以该时间的平方成正比；但现在时间不与弧 PQ 成正比，而与扫过的面积成正比，在 Q 趋近 P 的极限下，该面积是三角形面积 SP×QT/2。因此，为要使物体沿给定的非圆轨迹运动，向心力必须沿轨迹按 (1/SP²)——即 1/*r*²——乘以 Q 趋近 P 时 (QR/QT²) 的极限而变化。在第二版中，牛顿添加了一个推论，展示看待这一结果作为匀速圆周运动之推广的另一种方式：沿轨迹的向心力必须处处按 *v*²/(*ρ*sinSPR) 变化，其中 *ρ* 是轨迹在 P 处的曲率半径。这样一来，就可把物体看作由一个与运动相切的力分量从一个瞬时圆驱动到下一个瞬时圆；而在匀速圆周运动情形中，这个分量消失。
+    step2: |-
+      牛顿的命题 6 把这一结果推广到不一定匀速的运动，即在向心力作用下沿任意轨迹的运动，其中相对于 S 在相等时间内扫过相等面积，符合第一卷命题 1。P 处的中心力再次与短时间增量内从切线出发的位移 QR 除以该时间的平方成正比；但现在时间不与弧 PQ 成正比，而与扫过的面积成正比，在 Q 趋近 P 的极限下，该面积是三角形面积 SP×QT/2。因此，要使物体沿给定的非圆轨迹运动，向心力必须沿轨迹按 (1/SP²)——即 1/*r*²——乘以 Q 趋近 P 时 (QR/QT²) 的极限而变化。在第二版中，牛顿添加了一个推论，展示看待这一结果作为匀速圆周运动之推广的另一种方式：沿轨迹的向心力必须处处按 *v*²/(*ρ*sinSPR) 变化，其中 *ρ* 是轨迹在 P 处的曲率半径。这样一来，就可把物体看作由一个与运动相切的力分量从一个瞬时圆驱动到下一个瞬时圆；而在匀速圆周运动情形中，这个分量消失。
   - id: 80
     kind: body
     source: |-
       Newton illustrates the value of Proposition 6 with a series of examples, the two most important of which involve motion in an ellipse. If the force center is at a focus S of the ellipse, then the limit of (QR/QT²) is everywhere equal to half the constant latus rectum of the ellipse, and hence the force varies as 1/SP², or 1/*r*². But if the force center is at the center C of the ellipse, the force turns out to vary as PC, that is, linearly with *r*. This contrast raises an interesting question. What conclusion can be drawn in the case of motion in an ellipse for which the foci are very near the center, and the center of force is not known to be exactly at the focus? Newton clearly noticed this question and supplied the means for answering it in the Scholium that ends Section 2.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      牛顿以一系列例子说明命题 6 的价值，其中最重要的两个涉及椭圆中的运动。如果力心位于椭圆的一个焦点 S，那么 (QR/QT²) 的极限处处等于椭圆恒定通径的一半，因此力按 1/SP² 或 1/*r*² 变化。但如果力心位于椭圆的中心 C，力就按 PC 变化，即随 *r* 线性变化。这一对比引出一个有趣的问题：对于焦点非常靠近中心、而力心又不知是否恰在焦点上的椭圆运动，能得出什么结论？牛顿显然注意到了这个问题，并在结束第二节的附释中提供了回答它的手段。
+    step2: |-
+      牛顿用一系列例子说明命题 6 的价值，其中最重要的两个涉及椭圆中的运动。如果力心位于椭圆的一个焦点 S，那么 (QR/QT²) 的极限处处等于椭圆恒定通径的一半，因此力按 1/SP² 或 1/*r*² 变化。但如果力心位于椭圆的中心 C，力就按 PC 变化，即随 *r* 线性变化。这一对比提出一个有趣的问题：对于焦点非常靠近中心、而力心又不知是否恰在焦点上的椭圆运动，能得出什么结论？牛顿显然注意到了这个问题，并在结束第二节的附释中提供了回答它的手段。
   - id: 81
     kind: body
     source: |-
