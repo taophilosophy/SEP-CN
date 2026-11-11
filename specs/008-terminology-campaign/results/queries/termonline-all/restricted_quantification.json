@@ -1,0 +1,348 @@
+{
+ "key": "restricted quantification",
+ "term": "restricted quantification",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T18:32:49+00:00",
+ "status": "ok",
+ "note": "variant=restricted quantification; 审定公布名词库=448; 海峡两岸名词对照库=113; 其他来源数据库=24; 预公布名词数据库=32; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "量化",
+   "en": "quantification",
+   "code": "03.021",
+   "standard": "医学影像技术学名词",
+   "subject": "医学影像技术学_数字X射线成像技术_数字影像学基础"
+  },
+  {
+   "cn": "绝对定量",
+   "en": "absolute quantification ",
+   "code": "5.0219",
+   "standard": "草学名词",
+   "subject": "草学_草业生物技术"
+  },
+  {
+   "cn": "相对定量",
+   "en": "relative quantification ",
+   "code": "5.022",
+   "standard": "草学名词",
+   "subject": "草学_草业生物技术"
+  },
+  {
+   "cn": "脂肪定量分析",
+   "en": "fat quantification",
+   "code": "05.328",
+   "standard": "医学影像技术学名词",
+   "subject": "医学影像技术学_磁共振成像技术_磁共振特殊成像技术_磁共振脂肪抑制技术"
+  },
+  {
+   "cn": "不确定性量化",
+   "en": "uncertainty quantification",
+   "code": "11.1185",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机应用_科学与工程计算"
+  },
+  {
+   "cn": "量化管理",
+   "en": "quantification management",
+   "code": "04.1249",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机硬件_计算机管理"
+  },
+  {
+   "cn": "定量限",
+   "en": "quantification limit",
+   "code": "03.0053",
+   "standard": "化学名词",
+   "subject": "化学_分析化学_一般术语"
+  },
+  {
+   "cn": "限制",
+   "en": "restriction",
+   "code": "01.0061",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "定量限",
+   "en": "limit of quantification",
+   "code": "18.010",
+   "standard": "农学名词",
+   "subject": "农产品质量安全_农产品质量安全监测"
+  },
+  {
+   "cn": "定量限",
+   "en": "limit of quantification",
+   "code": "15.054",
+   "standard": "计量学名词",
+   "subject": "计量学_化学_基础名词"
+  },
+  {
+   "cn": "限制性内切酶",
+   "en": "restriction enzyme,restriction endonuclease",
+   "code": "06.0123",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学研究_分子生物学基础"
+  },
+  {
+   "cn": "限制性内切核酸酶",
+   "en": "restriction endonuclease,restriction nuclease",
+   "code": "03.725",
+   "standard": "遗传学名词",
+   "subject": "遗传学_分子遗传学"
+  },
+  {
+   "cn": "定量限",
+   "en": "quantification limit",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "内部级",
+   "en": "restricted",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "限制",
+   "en": "restriction",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "相克",
+   "en": "restriction",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "限制性酶(=限制性内切核酸酶)",
+   "en": "restriction enzyme(=restriction endonuclease)",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "限制性内切核酸酶,限制酶",
+   "en": "restriction endonuclease\",\"restriction enzyme",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "限制性问题",
+   "en": "restricted problem",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "限制信用证",
+   "en": "restricted credit",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "限制性取用",
+   "en": "restricted usage",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "约束选择",
+   "en": "restricted selection",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "限航区",
+   "en": "restricted area",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "限制性[酶切]片段",
+   "en": "restriction fragment",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "禁区",
+   "en": "Restricted Area",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "限定空间",
+   "en": "restricted space",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "心肌病",
+   "en": "restrictive cardiomyopathy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "限制酶",
+   "en": "restriction enzyme",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "旅行限制",
+   "en": "travel restrictions",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "理念举措_具体措施"
+  },
+  {
+   "cn": "限制处理权",
+   "en": "right to restrict processing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "FAIR化有限开放数据",
+   "en": "FAIR data with restricted access",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据限制处理权",
+   "en": "right to restrict data processing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "软件采购使用限制策略",
+   "en": "software purchase and use restriction policy",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "武汉市以外地区解除离鄂通道管控",
+   "en": "Areas in Hubei, with the exception of Wuhan City, lifted outbound transport restrictions.",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_社会治理"
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "医学词汇_其他医学词汇"
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "限用物质",
+   "en": "restricted substance",
+   "code": "5.1.8.1.2",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_企业监管"
+  },
+  {
+   "cn": "受约束的比转换能",
+   "en": "restricted cema",
+   "code": "3.2.5.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量"
+  },
+  {
+   "cn": "限制口粮",
+   "en": "restricted rations",
+   "code": "7.5.1.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队营养与食品卫生_军用食品"
+  },
+  {
+   "cn": "权力制约",
+   "en": "power restriction",
+   "code": "03.0772",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "职业限制",
+   "en": "occupational restriction",
+   "code": "11.6.2.2.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_健康保险_健康保险覆盖"
+  },
+  {
+   "cn": "广告限制",
+   "en": "advertising restriction ",
+   "code": "15.2.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_危害健康行为经济学_健康危害行为公共政策"
+  },
+  {
+   "cn": "匀称型小于胎龄儿",
+   "en": "symmetric growth restriction",
+   "code": "4.2.2.15.2",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_儿童保健_儿童生长发育"
+  },
+  {
+   "cn": "非匀称型小于胎龄儿",
+   "en": "asymmetric growth restriction",
+   "code": "4.2.2.15.3",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_儿童保健_儿童生长发育"
+  },
+  {
+   "cn": "青春期节食",
+   "en": "adolescent restrictive eating",
+   "code": "6.1.1.2.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇女营养"
+  },
+  {
+   "cn": "禁用物质",
+   "en": "prohibited and restricted substance",
+   "code": "5.1.8.1.1",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_企业监管"
+  },
+  {
+   "cn": "胎儿生长受限",
+   "en": "fetal growth restriction, FGR",
+   "code": "3.5.2.3.2",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_孕产期保健"
+  },
+  {
+   "cn": "限制性会阴切开",
+   "en": "restrictive use of episiotomy",
+   "code": "3.5.3.15",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_孕产期保健"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

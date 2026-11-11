@@ -1,0 +1,40 @@
+{
+ "key": "reprobation",
+ "term": "reprobation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T18:20:47+00:00",
+ "status": "ok",
+ "note": "variant=reprobation; 审定公布名词库=4; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "留校察看",
+   "en": "probation",
+   "code": "07.107",
+   "standard": "教育学名词",
+   "subject": "教育学_初等中等教育"
+  },
+  {
+   "cn": "教育见习",
+   "en": "educational probation",
+   "code": "09.151",
+   "standard": "教育学名词",
+   "subject": "教育学_教师教育_教育、培训层次、类别、内容"
+  },
+  {
+   "cn": "疏决",
+   "en": "shu jue;probation",
+   "code": "6.208",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_两宋_政治_礼法"
+  },
+  {
+   "cn": "教师试用制度",
+   "en": "teacher probation system",
+   "code": "09.086",
+   "standard": "教育学名词",
+   "subject": "教育学_教师教育_教师教育法规、制度"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

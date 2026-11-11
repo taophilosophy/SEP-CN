@@ -1,0 +1,47 @@
+{
+ "key": "reism",
+ "term": "reism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T18:05:46+00:00",
+ "status": "ok",
+ "note": "variant=reism; 审定公布名词库=3; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "雷克斯主义",
+   "en": "Rexism",
+   "code": "03.0748",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_荷兰、比利时、卢森堡"
+  },
+  {
+   "cn": "地震",
+   "en": "earthquake,seism",
+   "code": "01.135",
+   "standard": "地质学名词",
+   "subject": "地质学_地质学总论"
+  },
+  {
+   "cn": "酮-烯醇互变异构",
+   "en": "keto-enol tautome-rism",
+   "code": "02.0633",
+   "standard": "化学名词",
+   "subject": "化学_有机化学_物理有机化学_有机化合物一般结构原理"
+  },
+  {
+   "cn": "赖斯",
+   "en": "Reiss\",\"Albert(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "莱姆斯之旅",
+   "en": "Viaggio a Reims\",\"ossia L’albergo del Giglio d’Oro\",\"IL",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

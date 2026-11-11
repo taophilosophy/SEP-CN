@@ -1,0 +1,348 @@
+{
+ "key": "reportationes",
+ "term": "reportationes",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T18:16:16+00:00",
+ "status": "ok",
+ "note": "variant=reportationes; 审定公布名词库=271; 海峡两岸名词对照库=77; 其他来源数据库=15; 预公布名词数据库=37; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "报道",
+   "en": "report;reporting",
+   "code": "02.08.095",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_编辑_报刊编辑"
+  },
+  {
+   "cn": "报告",
+   "en": "report",
+   "code": "02.01.060",
+   "standard": "档案学名词",
+   "subject": "档案学_文件管理_文件概述"
+  },
+  {
+   "cn": "报告",
+   "en": "report",
+   "code": "03.181",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息资源建设_文献类型"
+  },
+  {
+   "cn": "网络记者",
+   "en": "online reporter;digital reporter",
+   "code": "4.041",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻采访"
+  },
+  {
+   "cn": "报监",
+   "en": "supervision report",
+   "code": "03.0273",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林管理_工程项目管理"
+  },
+  {
+   "cn": "突发事件上报",
+   "en": "emergency report",
+   "code": "02.048",
+   "standard": "急救医学名词",
+   "subject": "急救医学_急救调度_调度与受理_调度受理与指导"
+  },
+  {
+   "cn": "开工报告",
+   "en": "start report",
+   "code": "03.0212",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林管理_工程项目管理"
+  },
+  {
+   "cn": "报告载体",
+   "en": "reporter vector",
+   "code": "11.0728",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术"
+  },
+  {
+   "cn": "报告基因",
+   "en": "reporter gene",
+   "code": "11.0946",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术"
+  },
+  {
+   "cn": "事故报告",
+   "en": "accident report",
+   "code": "08.282",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_生产运行管理"
+  },
+  {
+   "cn": "专业记者",
+   "en": "beat reporter",
+   "code": "4.033",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻采访"
+  },
+  {
+   "cn": "调查记者",
+   "en": "investigative reporter",
+   "code": "4.035",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻采访"
+  },
+  {
+   "cn": "报告",
+   "en": "report",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "报表",
+   "en": "report",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "报告",
+   "en": "report",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "报道基因",
+   "en": "reporter gene\",\"reporter",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "报道基因（=报告基因）",
+   "en": "reporter gene",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "报告基因，报道基因",
+   "en": "reporter gene",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "气象报告",
+   "en": "meteorological report",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "天气报告",
+   "en": "weather report",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "天气转劣报告",
+   "en": "deterioration report",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "非正式报告",
+   "en": "informal report",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "正式报告",
+   "en": "formal report",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "口头报告,言语报告",
+   "en": "verbal report",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "网上举报",
+   "en": "online reporting",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "透明度报告",
+   "en": "transparency report",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "国际财务报告准则",
+   "en": "International Financial Reporting Standards",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据安全信息通报制度",
+   "en": "data security reporting system",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "违规披露、不披露重要信息罪",
+   "en": "crime of submitting false reports or reports concealing important facts",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据安全风险报告机制",
+   "en": "data security risk reporting mechanism",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "美国新闻与世界报道",
+   "en": "U.S. News & World Report",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "员工健康监测和报告",
+   "en": "employee health monitoring and reporting  ",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_社会治理"
+  },
+  {
+   "cn": "芝麻签证报告",
+   "en": "Zhima credit report for visa application",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "大数据安全情况报告制度",
+   "en": "reporting system for big data security",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "早发现、早报告、早诊断、早隔离、早治疗",
+   "en": "early detection, reporting, diagnosis, isolation and treatment",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "理念举措_具体措施"
+  },
+  {
+   "cn": "无本地新增病例",
+   "en": "to report no domestic cases; to report zero local cases; to record no locally transmitted infections",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_百姓生活"
+  },
+  {
+   "cn": "总结报告",
+   "en": "summary report",
+   "code": "4.3.2.14.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查"
+  },
+  {
+   "cn": "个体报告",
+   "en": "individual report",
+   "code": "4.3.2.14.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查"
+  },
+  {
+   "cn": "报告偏倚",
+   "en": "reporting bias",
+   "code": "4.4.1.5.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计"
+  },
+  {
+   "cn": "责任报告人",
+   "en": "responsible reporter",
+   "code": "3.6.1.4.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理"
+  },
+  {
+   "cn": "报告程序",
+   "en": "reporting procedure",
+   "code": "3.6.1.4.4",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理"
+  },
+  {
+   "cn": "报告内容",
+   "en": "report content",
+   "code": "3.6.1.4.5",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理"
+  },
+  {
+   "cn": "发病率报告",
+   "en": "morbidity reporting",
+   "code": "3.6.19.10",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物中毒卫生学处置"
+  },
+  {
+   "cn": "强制性报告",
+   "en": "mandatory reporting",
+   "code": "8.027999999999999",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_公共卫生与健康伦理"
+  },
+  {
+   "cn": "病例报告",
+   "en": "case report",
+   "code": "3.6.19.2",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物中毒卫生学处置"
+  },
+  {
+   "cn": "虚假检验报告",
+   "en": "false testing report",
+   "code": "4.2.32",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品安全风险管理_食品安全法规"
+  },
+  {
+   "cn": "贝弗里奇报告",
+   "en": "The Beveridge Report",
+   "code": "4.3.1.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题"
+  },
+  {
+   "cn": "责任报告单位",
+   "en": "responsible reporting unit",
+   "code": "3.6.1.4.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

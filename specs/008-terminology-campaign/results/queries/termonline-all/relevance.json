@@ -1,0 +1,166 @@
+{
+ "key": "relevance",
+ "term": "relevance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T18:08:46+00:00",
+ "status": "ok",
+ "note": "variant=relevance; 审定公布名词库=29; 海峡两岸名词对照库=2; 其他来源数据库=7; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "相关度",
+   "en": "relevance",
+   "code": "05.167",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息检索_检索技术与方法"
+  },
+  {
+   "cn": "相关性",
+   "en": "relevance",
+   "code": "03.0545",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_图书情报档案领域"
+  },
+  {
+   "cn": "关联性",
+   "en": "relevance,association",
+   "code": "03.0644",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_系统工程"
+  },
+  {
+   "cn": "样地直观记录",
+   "en": "relevé",
+   "code": "13.0237",
+   "standard": "植物学名词",
+   "subject": "植物学_植物生态学_植物群落与植被"
+  },
+  {
+   "cn": "相关反馈",
+   "en": "relevance feedback",
+   "code": "06.04.072",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_数字出版_网络出版"
+  },
+  {
+   "cn": "相关度排序",
+   "en": "relevance ranking",
+   "code": "05.153",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息检索_检索技术与方法"
+  },
+  {
+   "cn": "查准评定",
+   "en": "relevance judgement",
+   "code": "05.169",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息检索_检索技术与方法"
+  },
+  {
+   "cn": "相关性原理",
+   "en": "relevance principle",
+   "code": "01.201",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_图书馆学情报学基础_情报学"
+  },
+  {
+   "cn": "相关反馈",
+   "en": "relevance feedback",
+   "code": "11.0343",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机应用_多媒体"
+  },
+  {
+   "cn": "相干逻辑",
+   "en": "relevance logic",
+   "code": "08.0046",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_人工智能逻辑"
+  },
+  {
+   "cn": "相关反馈",
+   "en": "relevance feedback",
+   "code": "03.0551",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_图书情报档案领域"
+  },
+  {
+   "cn": "因果相关性",
+   "en": "causal relevance",
+   "code": "03.070",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_意义标准"
+  },
+  {
+   "cn": "样地记录[表]",
+   "en": "relevé",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "关联失效",
+   "en": "relevant failure",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "相干逻辑",
+   "en": "Relevant logic",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "优雅",
+   "en": "elegance",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "优雅",
+   "en": "elegance",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "典雅",
+   "en": "Classical Elegance",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "冲淡",
+   "en": "Quiet Elegance",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "自主可控战略",
+   "en": "self-reliance strategy",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "散郁陶，托风采",
+   "en": "Words Can Dispel One’s Pent-up Feelings and Display One’s Elegance.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "进出境水生动物相关场地消毒",
+   "en": "disinfection of relevant venues for entry-exit aquatic animal",
+   "code": "4.7.3.5.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_口岸消毒"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

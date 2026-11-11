@@ -1,0 +1,348 @@
+{
+ "key": "regulatory network",
+ "term": "regulatory network",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T18:05:46+00:00",
+ "status": "ok",
+ "note": "variant=regulatory network; 审定公布名词库=1544; 海峡两岸名词对照库=575; 其他来源数据库=278; 预公布名词数据库=45; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "调控网络",
+   "en": "regulatory network",
+   "code": "02.068",
+   "standard": "化工名词（六）生物化工",
+   "subject": "化工（六）_代谢工程与合成生物学_合成生物学_报告元件"
+  },
+  {
+   "cn": "调控网络基元",
+   "en": "regulatory network motif",
+   "code": "02.036",
+   "standard": "化工名词（六）生物化工",
+   "subject": "化工（六）_代谢工程与合成生物学_合成生物学_报告元件"
+  },
+  {
+   "cn": "转录调控网络",
+   "en": "transcriptional regulatory network",
+   "code": "15.305",
+   "standard": "农学名词",
+   "subject": "农业生物技术_生物大数据和人工智能"
+  },
+  {
+   "cn": "基因调控网络",
+   "en": "genetic regulatory network",
+   "code": "02.200",
+   "standard": "化工名词（六）生物化工",
+   "subject": "化工（六）_代谢工程与合成生物学_系统生物学_功能基因组学"
+  },
+  {
+   "cn": "基因调控网络",
+   "en": "gene regulatory network",
+   "code": "06.132",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_生物信息学_遗传与表观遗传数据分析"
+  },
+  {
+   "cn": "神经-内分泌-免疫调节网络",
+   "en": "neural-endocrine-immune regulatory network",
+   "code": "03.855",
+   "standard": "生理学名词",
+   "subject": "生理学_神经生理学"
+  },
+  {
+   "cn": "调节回路",
+   "en": "regulatory circuit",
+   "code": "8.0189",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_生物膜与信号转导_信号转导_概述"
+  },
+  {
+   "cn": "调节域",
+   "en": "regulatory domain",
+   "code": "1.0239",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_总论"
+  },
+  {
+   "cn": "调节区",
+   "en": "regulatory region",
+   "code": "1.024",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_总论"
+  },
+  {
+   "cn": "调节部位",
+   "en": "regulatory site",
+   "code": "1.0241",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_总论"
+  },
+  {
+   "cn": "调节亚基",
+   "en": "regulatory subunit",
+   "code": "1.0242",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_总论"
+  },
+  {
+   "cn": "调节级联",
+   "en": "regulatory cascade",
+   "code": "1.0245",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_总论"
+  },
+  {
+   "cn": "调节网络",
+   "en": "regulatory network",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "控制基因（=调节基因）",
+   "en": "regulatory gene",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "调节基因，控制基因",
+   "en": "regulatory gene",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "调整型发育",
+   "en": "regulatory development",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "调节基因",
+   "en": "regulatory gene",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "调节控制",
+   "en": "regulatory control",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "调节部位",
+   "en": "regulatory site",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "调节回路",
+   "en": "regulatory circuit",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "调节基因",
+   "en": "regulatory gene",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "调节级联",
+   "en": "regulatory cascade",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "调节酶",
+   "en": "regulatory enzyme",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "调节区",
+   "en": "regulatory region",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "监管套利",
+   "en": "regulatory arbitrage",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "回应性监管方式",
+   "en": "responsive regulatory approach",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "金融科技监管制度",
+   "en": "Fintech Regulatory System",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数字化监管协议",
+   "en": "digital regulatory agreement",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "金融科技监管体系",
+   "en": "Fintech Regulatory Architecture",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "金融监管框架",
+   "en": "financial regulatory framework",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "监管沙盒模式",
+   "en": "regulatory sandbox model",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "分业监管模式",
+   "en": "separate regulatory model",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "统一监管模式",
+   "en": "unified regulatory model",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "顺式作用元件",
+   "en": "Trans-regulatory element",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "网络身份",
+   "en": "network identity (network ID)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《金融科技监管框架》（美国）",
+   "en": "Fintech Regulatory Framework (USA)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "法规工具",
+   "en": "regulatory instruments",
+   "code": "10.1.2.2.1",
+   "standard": "社会医学名词",
+   "subject": "政策与策略"
+  },
+  {
+   "cn": "调节性B细胞",
+   "en": "regulatory B cell",
+   "code": "1.3.3.2.8",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_免疫细胞"
+  },
+  {
+   "cn": "调节性T细胞",
+   "en": "regulatory T cell",
+   "code": "1.3.3.2.12",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_免疫细胞"
+  },
+  {
+   "cn": "[美国]核管理委员会",
+   "en": "Nuclear Regulatory Commission，NRC",
+   "code": "10.1.11",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_重要组织、机构和历史事件_组织机构"
+  },
+  {
+   "cn": "互动网络",
+   "en": "interaction network",
+   "code": "2.4.1.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念社会互动"
+  },
+  {
+   "cn": "网络组织",
+   "en": "network organization",
+   "code": "2.5.7.11",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念群体和组织"
+  },
+  {
+   "cn": "组织网络",
+   "en": "organizational network",
+   "code": "2.5.9.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_群体和组织_组织结构"
+  },
+  {
+   "cn": "沟通网",
+   "en": "communication network",
+   "code": "2.5.9.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_群体和组织_组织结构"
+  },
+  {
+   "cn": "网络边界",
+   "en": "network boundary",
+   "code": "2.7.1.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析"
+  },
+  {
+   "cn": "个人网",
+   "en": "personal network",
+   "code": "2.7.1.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析"
+  },
+  {
+   "cn": "整体网",
+   "en": "whole network",
+   "code": "2.7.1.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析"
+  },
+  {
+   "cn": "社会网络",
+   "en": "social network",
+   "code": "3.5.3.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_经济社会学_新经济社会学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
