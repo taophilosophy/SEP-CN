@@ -2,7 +2,7 @@
   "slug": "religion-epistemology",
   "kind": "retranslate",
   "zh_doc": "r/religion-epistemology.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "direction",
@@ -45,6 +45,34 @@
       "actor": "R-main-20261110",
       "at": "2026-11-10T05:48:38Z",
       "evidence": "学术规范（rules/07）：check_academic --strict OK 无硬错误（尾节因在途豁免延后至 done 复核）；四检全绿（check_style issues 0 / check_prose issues 0 / check_math formulas 0 missing 0 / check_bibliography 无）：书目 63 条 defs 逐字符照录、键集与源全等；Academic Tools 四行制齐备；Other Internet Resources 2 条中译括注原名；相关词条 11 条照 SUMMARY 定名。check_all 7 项全绿（开工基线复核）。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-11T02:23:26Z",
+      "evidence": "r1 结构对账：年份 226:226 多重集全等；节标题 15:15（9 正文节+References 及其子节+尾三节）；脚注 marker 29:29 全等；引文块 1 段（Lewis? 无）——源 6 行系硬换行。语体：现代论说文体，无文言腔与直角引号；r1 复审修正 arational 误译一处（“非理性预设”→“理性之外预设”），成品与账本同批改。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-11T02:23:27Z",
+      "evidence": "r2 术语与人名：册内落地核对 11 项（证据主义 26/信仰主义 11/证成 24/保证 5/后现代 3/语言游戏 3/生活形式 2/神圣感知 1/众族共识 1/恰当基础性 1/公共认知对等 1）；人名 10 行入表且与正文括注一致（阿基诺/巴雷特/克拉克/弗卢/格尔曼/米切尔/穆恩/菲利普斯/舍伦贝格/沙尔科夫斯基）；warrant 保证与 justification 证成在 Plantinga 段括注区分。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-11T02:23:30Z",
+      "evidence": "r3 终读与门禁：抽读第 6 节信仰主义全节与第 8 节宗教分歧（含 Benton & Kvanvig 文集逐章转述），逐句对照无漏译；四检复跑全绿（style 0/academic OK/math 0/prose 0）；check_all 本词条相关项全绿。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "R-main-20261110",
+      "at": "2026-11-11T02:23:31Z",
+      "evidence": "G4 收口：r/religion-epistemology.md 204 行 9 节，账本 56 段守恒；题名按 citation_title 订正；术语 11 条、人名 10 行登记；r1-r3 齐备。"
     }
   ],
   "blockers": [],
