@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-11 10:23（UTC）
+生成时间：2026-11-11 11:44（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1879|
 |已建任务|1182|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|330|
-|在途（drafted 起、done 前）|202|
+|已完成（done）|338|
+|在途（drafted 起、done 前）|194|
 |阻塞|0|
 
 ## 任务状态分布
@@ -23,13 +23,11 @@
 |状态|数量|
 |---|---|
 |pending|650|
-|cleared|140|
+|cleared|139|
 |drafted|3|
 |s1_checked|1|
 |s3_checked|51|
-|r2_reviewed|6|
-|r3_reviewed|1|
-|done|330|
+|done|338|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -40,8 +38,8 @@
 |C|172|172|172|23|
 |D|92|92|92|17|
 |E|99|99|99|24|
-|F|96|96|96|1|
-|G|49|49|49|11|
+|F|96|96|96|5|
+|G|49|49|49|12|
 |H|61|61|61|15|
 |I|75|75|75|29|
 |J|38|38|38|8|
@@ -51,8 +49,8 @@
 |N|50|50|10|9|
 |O|21|21|13|12|
 |P|165|165|12|8|
-|Q|34|34|34|2|
-|R|85|85|85|13|
+|Q|34|34|34|4|
+|R|85|85|85|14|
 |S|161|161|18|16|
 |T|71|71|7|4|
 |U|4|4|0|0|
@@ -152,10 +150,6 @@
 |disability-care-rationing|retranslate|s3_checked|D-main-20261108 2026-11-08|
 |double-effect|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |early-modern-india|retranslate|s1_checked|E-main-20261111 2026-11-11|
-|faith|retranslate|r2_reviewed|F-main-20261111b 2026-11-11|
-|falaquera|retranslate|r2_reviewed|F-main-20261111b 2026-11-11|
-|frame-problem|retranslate|r2_reviewed|F-main-20261111b 2026-11-11|
-|fuller-margaret|retranslate|r2_reviewed|F-main-20261111b 2026-11-11|
 |gadamer-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |galen|retranslate|cleared|task_ops 2026-11-01|
 |galileo|retranslate|cleared|task_ops 2026-11-01|
@@ -170,7 +164,6 @@
 |global-democracy|retranslate|cleared|task_ops 2026-11-01|
 |goedel|retranslate|cleared|task_ops 2026-11-01|
 |goodman|retranslate|cleared|task_ops 2026-11-01|
-|gramsci|retranslate|s3_checked|G-main-20261111 2026-11-11|
 |haecceitism|retranslate|cleared|task_ops 2026-11-01|
 |halevi|retranslate|cleared|task_ops 2026-11-01|
 |hamann|retranslate|cleared|task_ops 2026-11-01|
@@ -236,7 +229,7 @@
 |kant-hume-causality|retranslate|cleared|task_ops 2026-11-01|
 |kant-judgment|retranslate|s3_checked|K-main-20261111 2026-11-11|
 |kant-moral|retranslate|cleared|task_ops 2026-11-01|
-|kant-religion|retranslate|cleared|task_ops 2026-11-01|
+|kant-religion|retranslate|s3_checked|K-main-20261111 2026-11-11|
 |kant-spacetime|retranslate|s3_checked|K-main-20261111 2026-11-11|
 |kant-transcendental|retranslate|s3_checked|K-main-20261110b 2026-11-10|
 |kant-transcendental-idealism|retranslate|cleared|task_ops 2026-11-01|
@@ -253,11 +246,8 @@
 |music|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |newton-principia|retranslate|drafted|N-main-20261111 2026-11-11|
 |omnipotence|retranslate|cleared|task_ops 2026-11-10|
-|qm|retranslate|r3_reviewed|Q-main-20261111 2026-11-11|
-|qm-relational|retranslate|r2_reviewed|Q-main-20261111 2026-11-11|
 |quantum-bayesian|retranslate|cleared|task_ops 2026-11-11|
 |repugnant-conclusion|retranslate|cleared|task_ops 2026-11-11|
-|ricoeur|retranslate|r2_reviewed|R-main-20261111 2026-11-11|
 |sign-language-semantics|retranslate|cleared|task_ops 2026-11-10|
 |tarski-truth|retranslate|cleared|task_ops 2026-11-08|
 |weyl|retranslate|cleared|task_ops 2026-11-08|

@@ -30,7 +30,7 @@
       "status": "ok",
       "actor": "F-main-20261110",
       "at": "2026-11-09T20:38:13Z",
-      "evidence": "check_prose 告警 14 处全部实修（weak-verb 3、long-sentence 7、de-chain 4），豁免 0，复跑残余 0；check_style --strict 0 issue"
+      "evidence": "check_prose 告警 14 处全部实修（weak-verb 3、long-sentence 7、de-chain 4），豁免 0，复跑残余 0；check_style --strict 0 issue；语体：现代汉语学术书面语，无文言仿古（REV-main-20261111 复核补记，同 r1 结论）"
     },
     {
       "step": "s3",

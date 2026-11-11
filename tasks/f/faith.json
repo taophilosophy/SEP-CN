@@ -30,7 +30,7 @@
       "status": "ok",
       "actor": "F-main-20261111",
       "at": "2026-11-10T16:20:02Z",
-      "evidence": "check_prose 96→13：实修 85 处（long-sentence 拆句 36、de-chain 29、weak-verb 10、passive-bei 5、as-one 1）；余 13 条全为引文内部（阿奎那/佩内勒姆/洛克/史密斯/缪斯肯斯/杜威/坦南特/拜尔/科恩），按 ADR-0020 豁免留痕；check_style 0 issue（italic→bold 46 行转换 + 加粗空格 29 处修复）"
+      "evidence": "check_prose 96→13：实修 85 处（long-sentence 拆句 36、de-chain 29、weak-verb 10、passive-bei 5、as-one 1）；余 13 条全为引文内部（阿奎那/佩内勒姆/洛克/史密斯/缪斯肯斯/杜威/坦南特/拜尔/科恩），按 ADR-0020 豁免留痕；check_style 0 issue（italic→bold 46 行转换 + 加粗空格 29 处修复）；语体：现代汉语学术书面语，无文言仿古（REV-main-20261111 复核补记，同 r1 结论）"
     },
     {
       "step": "s3",

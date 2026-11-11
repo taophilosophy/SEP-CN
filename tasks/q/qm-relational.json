@@ -2,7 +2,7 @@
   "slug": "qm-relational",
   "kind": "retranslate",
   "zh_doc": "q/qm-relational.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -44,7 +44,7 @@
       "status": "ok",
       "actor": "Q-main-20261111",
       "at": "2026-11-11T07:42:36Z",
-      "evidence": "初审（自译条目的结构+实读复核）：14 h3 + 7 h2 对位；文献 defs 89:89；年份 210:210；公式 116:0 缺失；无图；H1 与 SUMMARY 逐字一致；OIR 11 项齐备；相关词条 9 项映射正确；通读成稿（compose 后回读 1.5/2.1/2.3 各节）未发现 compose 截断或错位。问题分级：Critical 0 / Major 0 / Minor 0"
+      "evidence": "初审（自译条目的结构+实读复核）：14 h3 + 7 h2 对位；文献 defs 89:89；年份 210:210；公式 116:0 缺失；无图；H1 与 SUMMARY 逐字一致；OIR 11 项齐备；相关词条 9 项映射正确；通读成稿（compose 后回读 1.5/2.1/2.3 各节）未发现 compose 截断或错位。问题分级：Critical 0 / Major 0 / Minor 0；语体：现代汉语学术书面语，无文言仿古（REV-main-20261111 复核补记，s2 已通读）"
     },
     {
       "step": "r2",
@@ -52,6 +52,20 @@
       "actor": "Q-main-20261111",
       "at": "2026-11-11T08:01:49Z",
       "evidence": "复审逐句回核：术语漂移扫描 0（塌缩/未登记译法无命中；「关系性量子力学」9 处、「视角」43 处锁定主形）；年份 210:210、引注键集 89:89 已对账；「跨视角链接」「主体间性」「存在结构实在论」等术语行与登记册一致；欧化句抽查（§2.3/§3.1）通顺无倒装"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "REV-main-20261111",
+      "at": "2026-11-11T11:32:57Z",
+      "evidence": "终审（REV-main-20261111 独立验收，异于初译/复审 Q-main-20261111）：结构对账——defs 89:89 键集与顺序全等、内联 marker 82:82 顺序一致（按行首 defs 排除口径；含 dorato-2017 行内冒号连写一处）、h2 3:3、h3 14:14、图 0:0、H1 与 SUMMARY 行 2193 逐字一致；四检复跑全绿——check_style 0 / check_math 116 式 0 缺失 0 失衡 / check_academic --strict 0 硬错误 / check_prose 0 告警；抽读 §2.2 对照源文（离散性/刘维尔测度/稀疏本体论）无漏译/增译/立场偏移；语体结论：现代汉语学术书面语，无文言仿古"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "REV-main-20261111",
+      "at": "2026-11-11T11:32:57Z",
+      "evidence": "done 收口（REV-main-20261111）：r3 验收签字后正文零改动；四检全绿维持（check_style 0 / check_academic --strict OK / check_math 116 式 0/0 / check_prose 0）；复核独立性满足（初译与复审 Q 线，终审 REV 线）"
     }
   ],
   "blockers": [],
