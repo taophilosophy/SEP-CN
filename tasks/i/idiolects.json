@@ -2,8 +2,44 @@
   "slug": "idiolects",
   "kind": "retranslate",
   "zh_doc": "i/idiolects.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-11T06:11:13Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T07:42:40Z",
+      "evidence": "账本 116 段双版全填（body 110＋oir 1＋note 5；biblio 85 条照录不入账本），lq 守恒门 116 段通过（HARD=0）；compose 32,831 字符；版本钉 2004-11-15 首发、2025-08-05 实质修订；图片资产 assets/idiolects/Kanizsa_triangle.svg 自 en/idiolects 原样复制（md5 一致）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T07:42:40Z",
+      "evidence": "一校五维对账：节 22:21（源 Notes / Notes to Idiolects 两节按模板合为「脚注」节，属体例）、脚注 marker 139:139、defs 90:90、年份 343:343、公式 0；H1 与 SUMMARY 定名一致（个人方言）；相关词条逐条对 SUMMARY；术语归一：idiolect→个人方言（册内新登 12 条：I-语言/E-语言/普遍语法/刺激贫乏/先在理论/当下理论/第一意义/表达式意义/说话者意义/语义顺从/词语误用），人名新登 10 行（巴伯/加西亚-拉米雷斯/布龙菲尔德/索绪尔/卡尼扎/伊根/雷伊/柯林斯（语言哲学）/杰肯多夫/谢里丹），普特南、塔尔斯基按册内形回改"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T07:42:40Z",
+      "evidence": "二校语言：check_prose 21→0 全实修（长句 6 处拆分、de-chain 8 处改写、weak-verb 6 处、被动 1 处；无引文豁免）；check_style --strict 0（5 处 CJK 斜体剥离，源文强调以无标记行文）；语体现代汉语学术书面语"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T07:42:41Z",
+      "evidence": "三校体例：check_style 0；check_academic --strict 无硬错误；check_math 0/0；check_summary H1 0；check_quotes 0；check_images 悬空 0；check_prose 0；i_reconcile 五项全等"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:29:27Z",
   "version_pin": {

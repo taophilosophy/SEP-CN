@@ -51,6 +51,9 @@
 | abstractum / abstracta | — | 抽象物 | god-necessary-being | 学界惯例（abstracta 复数形随文译抽象物，与抽象对象 abstract objects 并用） | 2026-11-09 |
 | academic freedom | — | 学术自由 | 语料回收（academic-freedom） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | Academy（Plato's） | — | 学园 | schema | 学界惯例（柏拉图学园通译） | 2026-11-06 |
+| E-language | — | E-语言 | idiolects | 乔姆斯基术语（externalized；与 I-语言对举）；凭证 2026-11-11 | 2026-11-11 |
+| I-language | — | I-语言 | idiolects | 乔姆斯基术语（internal, individual, intensional）；凭证 2026-11-11 | 2026-11-11 |
+| Universal Grammar | — | 普遍语法 | idiolects | 学界通行（UG，乔姆斯基）；凭证 2026-11-11 | 2026-11-11 |
 | accelerated approval | — | 加速审批 | cancer | 学界通行（药品监管，FDA accelerated approval）；凭证 2026-11-09 | 2026-11-09 |
 | acceptance system | — | 接受系统 | justep-coherence | 学界惯例（Lehrer 术语直译） | 2026-11-02 |
 | access internalism | — | 通达内在主义 | basing-epistemic 首译 | 学界通行汉译（access=通达）；凭证 2026-11-08 | 2026-11-08 |
@@ -2883,6 +2886,9 @@
 | metric field | — | 度规场 | spacetime-holearg | A 档（物理学通行译名） | 2026-10-28 |
 | metriopatheia | — | 适度情感 | 首现（porphyry） | 新柏拉图主义研究通行（源文括注希腊文；与 apatheia 无情欲对举）；凭证 2026-11-11 | 2026-11-11 |
 | Mezzogiorno | — | 梅佐焦尔诺 | gramsci | 意大利南部地区称谓，学界通行音译；凭证 2026-11-11（主会话直译 g/gramsci） | 2026-11-11 |
+| expression meaning | — | 表达式意义 | idiolects | 语言哲学通行（与 speaker's meaning 对举）；凭证 2026-11-11 | 2026-11-11 |
+| first meaning | — | 第一意义 | idiolects | 戴维森术语（Davidson 1986）；凭证 2026-11-11 | 2026-11-11 |
+| malapropism | — | 词语误用 | idiolects | 语言学通行（Malaprop 太太得名）；凭证 2026-11-11 | 2026-11-11 |
 | microbiome | — | 微生物组 | cancer | 学界通行（微生物学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | microbiota | — | 微生物群 | cancer | 学界通行（微生物学；与 microbiome 微生物组按原文分用）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | microcephaly | — | 小头畸形 | 首译（stem-cells） | 学界惯例（医学通行）；凭证 2026-11-09 | 2026-11-09 |
@@ -2987,6 +2993,7 @@
 | monster-barring (definition) | — | 排除妖怪（定义） | 语料回收（lakatos 首译） | 拉卡托斯研究通行译法（《证明与反驳》中译本）；凭证 2026-11-06 | 2026-11-06 |
 | mood（syllogistic） | — | 式 | schema | 学界惯例（三段论“格—式”之分） | 2026-11-06 |
 | Moore's paradox | — | 摩尔悖论 | epistemology-latin-america 首译 | 学界通行 | 2026-11-11 |
+| idiolect | — | 个人方言 | idiolects | 学界通行（亦作“个人语”）；SUMMARY 条目定名；凭证 2026-11-11 | 2026-11-11 |
 | moral address | — | 道德致意 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | moral certainty | — | 道德确定性 | rationalism-early-modern | 笛卡尔学界通行（与“绝对确定性”对举） | 2026-11-06 |
 | moral character | — | 道德品格 | justice-moral-psych | 伦理学通行（character 品格）；凭证 2026-11-10 | 2026-11-10 |
@@ -3475,6 +3482,7 @@
 | paryāpti | पर्याप्ति | 圆足 | early-modern-india | 新正理数论义译（completion relation；Raghunātha 新关系）；凭证 2026-11-10 | 2026-11-10 |
 | paryāya | पर्याय | 样态 | jaina-philosophy | 耆那教学界通行（与 guṇa 性质、dravya 实体三分） | 2026-11-08 |
 | Pascal’s Wager | — | 帕斯卡尔赌注（亦作“帕斯卡赌注”） | 语料回收（标题词） | 学界惯例（宗教哲学通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
+| passing theory | — | 当下理论 | idiolects | 戴维森术语（应对先在理论）；凭证 2026-11-11 | 2026-11-11 |
 | passion | — | 激情（阿奎那 passiones：人与动物共有的感官欲求之感受反应） | 首现（emotion-Christian-tradition） | 学界惯例（Dixon 著作通行《从激情到情感》）；凭证 2026-11-04 | 2026-11-04 |
 | passional choices | — | 情感抉择 | 首现（religion-epistemology） | James 术语学界通行（“passional”取情感/激情义）；凭证 2026-11-08 | 2026-11-08 |
 | passive intellect | — | 被动理智 | gersonides | 亚里士多德《论灵魂》III.5 与能动理智对项；登记册仅有 possible intellect 可能理智，本条目照源文 passive 直译并分立登记，免与 possible intellect 混形 | 2026-11-09 |
@@ -3661,6 +3669,7 @@
 | power set | — | 幂集 | quine-nf | 集合论通行译名；凭证 2026-11-09 | 2026-11-09 |
 | powerful qualities | — | 力量性质 | 首现（zombies） | 学界惯例（马丁-海尔术语；亦作“有力性质”，主形取力量性质）；凭证 2026-11-10 | 2026-11-10 |
 | Prābhākara | प्राभाकर | 钵罗跋迦罗派 | early-modern-india 首译 | 弥曼差两支派通行音译（驮摩罗波怛罗罗叉一系）；凭证 2026-11-10 | 2026-11-10 |
+| poverty of stimulus | — | 刺激贫乏 | idiolects | 学界通行（乔姆斯基语言习得论证）；凭证 2026-11-11 | 2026-11-11 |
 | practical commitment | — | 实践承诺 | faith | 学界通行（信任与信仰哲学）；凭证 2026-11-11 | 2026-11-11 |
 | practical faith | — | 实践信仰 | august-rehberg 首译 | 康德研究通行；凭证 2026-11-08 | 2026-11-08 |
 | practical identity | — | 实践同一性 | kant-transcendental | Korsgaard 1996 学界通行（科尔斯戈德研究文献）；凭证 2026-11-11 | 2026-11-11 |
@@ -3778,6 +3787,7 @@
 | prisca theologia | prisca theologia | 远古神学 | natphil-ren | 文艺复兴赫尔墨斯主义研究通行；凭证 2026-11-10 | 2026-11-10 |
 | Prison Notebooks | — | 《狱中札记》 | gramsci | 葛兰西著作名，学界通行译名；凭证 2026-11-11（主会话直译 g/gramsci） | 2026-11-11 |
 | Prisoner’s Dilemma | — | 囚徒困境 | 语料回收 | 审定名词库（termonline-all·经济学/管理学名词，2026-10-30 浏览器通道凭证） | 2026-10-30 |
+| prior theory | — | 先在理论 | idiolects | 戴维森术语；凭证 2026-11-11 | 2026-11-11 |
 | privacy | — | 隐私 | 首现（it-moral-values） | 哲学与法学通行译名；凭证 2026-11-10 | 2026-11-10 |
 | private judgment | — | 私人判断 | godwin | 学界通行汉译（宗教与政治哲学传统译名）；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-10 |
 | private language argument | — | 私人语言论证 | 首现（zombies） | 学界惯例（维特根斯坦术语通译）；凭证 2026-11-10 | 2026-11-10 |
@@ -4390,6 +4400,7 @@
 | Shāfiʿī | — | 沙斐仪派 | al-din-al-razi 首译 | 学界通行（逊尼派法学四大学派之一） | 2026-11-09 |
 | Shangjunshu | 商君書 | 《商君书》 | han-dynasty | 学界通行学名 | 2026-11-10 |
 | Shannon entropy | — | 香农熵 | qt-entangle | 审定名词库（信息论通行译名）；凭证 2026-11-09 | 2026-11-09 |
+| semantic deference | — | 语义顺从 | idiolects | 语言哲学通行（Putnam 语言劳动分工）；凭证 2026-11-11 | 2026-11-11 |
 | shared attention | — | 共同注意 | omnipresence | 学界通行（发展心理学与宗教哲学）；凭证 2026-11-08 | 2026-11-08 |
 | sharīʿa | شريعة | 伊斯兰教法（沙里亚） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
 | sheaf | — | 层 | logic-infinitary | 范畴论通行译法（集合层范畴）；凭证 2026-11-10 | 2026-11-09 |
@@ -4547,6 +4558,7 @@
 | sparse ontology | — | 稀疏本体论 | qm-relational | 本库首译（Rovelli 的 sparse/flash ontology）；凭证 2026-11-11 | 2026-11-11 |
 | special composition question | SCQ | 特殊组合问题 | object 首译 | 学界通行汉译（van Inwagen 1989 定名）；凭证 2026-11-07 | 2026-11-07 |
 | Special Relativity | — | 狭义相对论 | 语料回收（标题词） | 审定名词库（termonline-all·物理学·相对论，2026-10-31 浏览器通道凭证） | 2026-10-31 |
+| speaker's meaning | — | 说话者意义 | idiolects | 格赖斯传统（与表达式意义对举）；凭证 2026-11-11 | 2026-11-11 |
 | special sciences | — | 特殊科学 | 首译（scientific-explanation-20th） | 学界通行（Fodor 1974 以来；生物学、心理学、经济学等）；凭证 2026-11-10 | 2026-11-10 |
 | species | — | 种（正文用形“种”，首现括注；康威三元 species 语境） | conway | 学界惯例（早期现代哲学 species 通译“种/种属”；康威三元本体论汉译文献作“三个种属/种”）；凭证 2026-11-06 深读 c/conway 登记 | 2026-11-06 |
 | species concept | — | 物种概念 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
