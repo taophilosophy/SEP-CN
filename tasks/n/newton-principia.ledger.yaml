@@ -1025,62 +1025,82 @@ segments:
     kind: body
     source: |-
       The added evidence supplied by the theory of comets highlights a sometimes overlooked aspect of Book 3. The development of evidence for the theory of gravity in it does not end with the “deduction” of the law of universal gravity at the beginning, but continues all the way through the Book. During the eighteenth century attention focused overwhelmingly on the evidence supplied by Newton's theory of the figure of the Earth and the variation of surface gravity, the theory of the tides, the quantitative derivations of select lunar inequalities, the derivation of the precession of the equinoxes, and the theory of comets. This suggests that, both then and now, the “deduction” of universal gravity should not be read in isolation from the rest of Book 3, but instead the entire Book should be seen as offering a sustained evidential argument for the theory. Read this way in the context of the rest of the Book, the “deduction” is most appropriately viewed as intended to establish universal gravity, but only provisionally, as a theory on which further research is to be predicated, research that will continue to bring evidence to bear on the theory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      彗星理论所提供的附加证据，凸显出第三卷一个有时被忽视的方面。第三卷中为引力理论积累证据并不以开头的万有引力定律“演绎”告终，而是一直贯穿全卷。在 18 世纪，人们注意力压倒性地集中于牛顿关于地球形状与表面重力变化的理论、潮汐理论、若干月球不等项的定量推导、岁差的推导以及彗星理论所提供的证据上。这表明，无论当时还是现在，都不应把万有引力的“演绎”与第三卷其余部分孤立起来读，而应把整卷看作对该理论的一项持续的、提供证据的论证。在整卷其余部分的语境中这样读，最恰当的看待方式是：这一“演绎”意在确立万有引力，但只是暂时地确立，作为一项可据以进行进一步研究的理论，而这一研究将继续为该理论积累证据。
+    step2: |-
+      彗星理论所提供的附加证据，凸显了第三卷一个有时被忽视的方面。第三卷中为引力理论积累证据并不以开头的万有引力定律“演绎”告终，而是一直贯穿全卷。在 18 世纪，人们的注意力压倒性地集中在牛顿关于地球形状与表面重力变化的理论、潮汐理论、若干月球不等项的定量推导、岁差的推导以及彗星理论所提供的证据上。这表明，无论当时还是现在，都不应把万有引力的“演绎”与第三卷其余部分孤立起来读，而应把整卷看作对该理论的一项持续的、提供证据的论证。在整卷其余部分的语境中这样读，最恰当的看待方式是：这一“演绎”意在确立万有引力，但只是暂时地确立，作为一项可据以进行进一步研究的理论，而这一研究将继续为该理论积累证据。
   - id: 122
     kind: body
     source: |-
       ## 9. The Scientific Achievement of the *Principia*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 9. 《原理》的科学成就
+    step2: |-
+      ## 9 《原理》的科学成就
   - id: 123
     kind: body
     source: |-
       From Halley's anonymous review of the first edition of the *Principia* forward, there has been a marked tendency to overstate what the *Principia* achieved, glossing over the many loose ends it left for others to recognize and address. A consequence of this is an equal tendency to distort the context of the enormous advances made in both mechanics and orbital astronomy during the eighteenth century, diminishing the difficulties those following Newton faced and their accomplishments in resolving them. The *Principia* is peculiar in this regard, for a list of its achievements without mentioning their loose ends overstates what it accomplished, but a list of its loose ends risks understating its extraordinary achievements. In an effort to strike a balance we here list eleven major scientific issues of the time to which Book 3 supplied answers in the sequence listed, the answers, and the most important loose ends in the reasoning offered in the evidential arguments for those answers.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从哈雷对《原理》第一版的匿名书评开始，就存在一种显著的倾向，即夸大《原理》所取得的成就，掩盖它留给他人去认识和处理的许多未了结之处。其后果则是同样一种倾向：扭曲 18 世纪力学与轨道天文学取得巨大进展的背景，贬低追随牛顿者所面对的困难以及他们在解决这些困难上的成就。《原理》在这方面很特别：列出它的成就而不提其未了结之处，会夸大它所完成的东西；但列出它的未了结之处，又可能低估它非凡的成就。为求平衡，我们在此按顺序列出当时十一个重大科学问题，第三卷对这些问题给出了答案，以及这些答案，还有为这些答案提供证据的论证中最重要的未了结之处。
+    step2: |-
+      从哈雷对《原理》第一版的匿名书评开始，就存在一种明显倾向，即夸大《原理》所取得的成就，掩盖它留给他人去认识和处理的许多未了结之处。其后果是同样一种倾向：扭曲 18 世纪力学与轨道天文学取得巨大进展的背景，贬低追随牛顿者所面对的困难以及他们在解决这些困难上的成就。《原理》在这方面很特别：列出它的成就而不提其未了结之处，会夸大它所完成的东西；但列出它的未了结之处，又可能低估它非凡的成就。为求平衡，我们在此按顺序列出当时十一个重大科学问题，第三卷对这些问题给出了答案，以及这些答案，还有为这些答案提供证据的论证中最重要的未了结之处。
   - id: 124
     kind: body
     source: |-
       **1.** *What physically retains the planets in orbits around the Sun and their satellites in orbit around them?* Newton's answer — *inverse-square gravity, one in kind with everyday terrestrial gravity* — turned on a largely suppressed failure to account for more than half of the precession of the lunar orbit, it tacitly assumed interaction between the Sun and Jupiter and the other individual planets, and it raised unanswered questions about whether the perihelia of the planetary orbits do or do not precess.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **1.** **是什么在物理上使行星留在绕太阳的轨道上，并使其卫星留在绕它们的轨道上？** 牛顿的回答——**平方反比的引力，与日常地面重力同属一类**——有赖于一个在很大程度上被掩盖的失败：未能说明月球轨道进动的一半以上；它还心照不宣地假定太阳与木星及其他各个行星相互作用；它还引出了行星轨道的近日点是否进动的未答问题。
+    step2: |-
+      **1.** **是什么在物理上使行星留在绕太阳的轨道上，并使其卫星留在绕它们的轨道上？** 牛顿的回答——**平方反比的引力，与日常地面重力同属一类**——取决于一个在很大程度上被掩盖的失败：未能说明月球轨道进动的一半以上；它心照不宣地假定太阳与木星及其他各个行星相互作用；它还引出了行星轨道的近日点是否进动的未答问题。
   - id: 125
     kind: body
     source: |-
       **2.** *How does gravity vary, both below and above the surface of the Earth?* In the absence of confirming data, Newton's answer — *to a first approximation, linearly with distance to the center below the surface, and inversely with the square of the distance above it* — presupposed uniform density in the first part and a spherical Earth with spherically symmetric density in the second, and therefore left open the possibility that gravity is constant near the surface of the Earth, just as Huygens continued to claim in his response to the Principia [**HD**, 153], citing supporting evidence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **2.** **重力在地球表面以下与以上如何变化？** 在缺少确认数据的情况下，牛顿的回答——**一级近似下，表面以下与到中心的距离线性变化，表面以上与距离的平方成反比**——在第一部分预设了均匀密度，在第二部分预设了具有球对称密度的球形地球，因而留下了这样的可能性：重力在地球表面附近是恒定的，正如惠更斯在回应《原理》时继续主张的那样[**HD**, 153]，并引用了支持证据。
+    step2: |-
+      **2.** **重力在地球表面以下与以上如何变化？** 在缺乏确认数据的情况下，牛顿的回答——**一级近似下，表面以下与到中心的距离线性变化，表面以上与距离的平方成反比**——在第一部分预设了均匀密度，在第二部分预设了具有球对称密度的球形地球，因此留下了这样的可能性：重力在地球表面附近是恒定的，正如惠更斯在回应《原理》时继续主张的那样[**HD**, 153]，并引用了支持证据。
   - id: 126
     kind: body
     source: |-
       **3.** *What are the relative densities of the planets, with respect to one another and to the Sun?* Newton gives theory-dependent answers for Jupiter, Saturn, and the Earth in the corollaries to Proposition 8, but the one for the Earth, even in the third edition, depended on a still questionable value for the horizontal solar parallax (required to determine the distance of the Moon from the Earth in astronomical units), and no corroborating evidence for these answers had emerged, such as from the actions of Jupiter and Saturn on one another.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **3.** **各行星彼此之间以及相对于太阳的相对密度是多少？** 牛顿在命题 8 的推论中提出木星、土星与地球的依赖理论的答案，但地球的答案即便在第三版中也依赖于一个仍可疑的太阳地平视差值（确定月球到地球距离的天文单位所需），而且始终没有出现任何佐证这些答案的证据，例如来自木星与土星相互作用的数据。
+    step2: |-
+      **3.** **各行星彼此之间以及相对于太阳的相对密度是多少？** 牛顿在命题 8 的推论中给出了木星、土星与地球的依赖理论的答案，但地球的答案即便在第三版中也依赖于一个仍可疑的太阳地平视差值（确定月球到地球距离的天文单位所需），而且没有出现任何佐证这些答案的证据，例如来自木星与土星相互作用的数据。
   - id: 127
     kind: body
     source: |-
       **4.** *Is there some principled way to resolve the dispute between the Copernican and Tychonic systems and thereby settle the question of the proper center to which all the motions in our planetary system should be referred?* Newton's answer — *the center of gravity of the system, about which the Sun circulates at comparatively small distances* — depended on the assumed applicability of the third law of motion in claiming that the Sun is in motion, and the precise location of the center of gravity remained open in the absence of values for the relative masses of Mercury, Venus, and Mars.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **4.** **是否有某种有原则的方式来解决哥白尼体系与第谷体系之争，从而解决我们行星系统中一切运动应参照哪个恰当中心的问题？** 牛顿的回答——**系统的重心，太阳以相对较小的距离绕其运行**——依赖于假定第三运动定律可以适用，以声称太阳在运动；而在缺乏水星、金星与火星相对质量值的情况下，重心的确切位置仍然悬而未决。
+    step2: |-
+      **4.** **是否有某种有原则的方式来解决哥白尼体系与第谷体系之争，从而解决我们行星系统中一切运动应参照哪个恰当中心的问题？** 牛顿的回答——**系统的重心，太阳以相对较小的距离绕其运行**——依赖于假定第三运动定律适用，以声称太阳在运动；而在缺乏水星、金星与火星相对质量值的情况下，重心的精确位置仍然悬而未决。
   - id: 128
     kind: body
     source: |-
       **5.** *What are the true motions of the planets, and which, if any, of the schemes for calculating planet locations is to be preferred, Kepler's or one of the alternatives to it?* Newton's answer was not simple: “*If the sun were at rest and the remaining planets did not act upon one another, their orbits would be elliptical, having the sun in their common focus, and they would describe areas proportional to the times;” and the aphelia and nodes would be stationary. The Keplerian system, amended in the manner of Horrocks to infer mean distances from the periods, is therefore the preferred approximation to the true motions*. The main loose-end in this answer was whether the actual motions do deviate from the Keplerian ideal, and if so, whether all the deviations could be attributed to specific forces, gravitational or otherwise. A further loose-end, addressed in part in Book 3, was whether the non-Keplerian motion of the Moon can be shown not to be a counterexample to Newton's argument in the case of the planets.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **5.** **行星的真实运动是什么，在计算行星位置的各种方案中，开普勒的或其替代方案之一，如果有的话，应当优先采用哪一种？** 牛顿的回答并不简单明了：“**如果太阳处于静止，且其余行星不相互作用，它们的轨道将是椭圆，以太阳为共同焦点，并且它们将描出与时间成比例的面积**”；并且近日点与交点将驻定。因此，开普勒体系（按霍罗克斯的方式修正，从周期推断平均距离）是对真实运动的优先近似。这一答案的主要未尽之处是：实际运动是否确实偏离开普勒理想，如果偏离，是否一切偏离都可归因于特定的力（引力的或其他力）。另一个未了结之处是：月球的非开普勒运动能否表明不是牛顿关于行星论证的反例；这一点第三卷已部分处理。
+    step2: |-
+      **5.** **行星的真实运动是什么，在计算行星位置的各种方案中，开普勒的或其替代方案之一，如果有的话，应当优先采用哪一种？** 牛顿的回答并不简单：“**如果太阳处于静止，且其余行星不相互作用，它们的轨道将是椭圆，以太阳为共同焦点，并且它们将描出与时间成比例的面积**”；并且近日点与交点将驻定。因此，开普勒体系（按霍罗克斯的方式修正，从周期推断平均距离）是对真实运动的优先近似。这一答案的主要未了结之处是：实际运动是否确实偏离开普勒理想，如果偏离，是否一切偏离都可归因于特定的力（引力的或其他力）。另一个未了结之处是：月球的非开普勒运动能否表明不是牛顿关于行星论证的反例；这一点第三卷已部分处理。
   - id: 129
     kind: body
     source: |-
       **6.** *Is the motion of Jupiter and Saturn aberrant and, if so, what are the inequalities in it and what causes them?* Newton answered *yes, because they interact gravitationally, and the dominant inequality has a period corresponding to the 19 years between their consecutive conjunctions*. (The second part of this answer did not appear in the first edition.) By the early 1720s it had become clear that the dominant period in the anomalies of motion of these two planets is not that of the time between conjunctions, but something of much longer duration, giving rise to the questions of what the vagaries actually are and whether they can truly be derived from Jupiter's and Saturn's gravitational forces.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **6.** **木星与土星的运动是否异常？如果是，其中的不等项是什么，原因何在？** 牛顿答道**是，因为它们以引力相互作用，而主导的不等项具有对应于两者连续两次相合之间 19 年的周期**。（这一答案的第二部分未出现在第一版中。）到 1720 年代初，人们已清楚这两颗行星运动异常中的主导周期不是相合间隔的周期，而是要长得多的时间，于是产生了这样的问题：这些游移究竟是什么，它们是否真能从木星与土星的引力导出。
+    step2: |-
+      **6.** **木星与土星的运动是否异常？如果是，其中的不等项是什么，原因何在？** 牛顿回答**是，因为它们以引力相互作用，而主导的不等项具有对应于两者连续两次相合之间 19 年的周期**。（这一答案的第二部分未出现在第一版中。）到 1720 年代初，已清楚这两颗行星运动异常中的主导周期不是相合间隔的周期，而是要长得多的时间，于是产生了这样的问题：这些游移究竟是什么，它们是否真能从木星与土星的引力导出。
   - id: 130
     kind: body
     source: |-
       **7.** *How, if at all, does the Earth's surface gravity vary with latitude, and how, if at all, does the Earth's figure differ from a sphere?* Newton's answer changes from the first to the second to the third edition, but in all cases vagaries in the cited data raise the question of what the actual variations are. Also, because his idealized theoretical calculation assumes uniform density, his answer raises the questions whether the density of the Earth is uniform and whether the true figure of the Earth and variation of surface gravity can be reconciled with non-uniformities in density.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **7.** **地球表面重力是否随纬度变化，如果变化，如何变化？地球形状与球体有何不同，如果有的话？** 牛顿的答案从第一版到第二版再到第三版有所变化，但在所有情形中，所引数据中的游移都引出了实际问题变化是什么的问题。此外，由于他的理想化理论计算假定均匀密度，他的回答还引出如下问题：地球密度是否均匀，地球的真实形状与表面重力变化能否与密度的不均匀相协调。
+    step2: |-
+      **7.** **地球表面重力是否随纬度变化，如果变化，如何变化？地球形状与球体有何不同，如果有的话？** 牛顿的回答从第一版到第二版再到第三版有所变化，但在所有情形中，所引数据中的游移都引出了实际问题变化是什么的问题。此外，由于他的理想化理论计算假定均匀密度，他的答案还引出如下问题：地球密度是否均匀，地球的真实形状与表面重力变化能否与密度的不均匀相协调。
   - id: 131
     kind: body
     source: |-
