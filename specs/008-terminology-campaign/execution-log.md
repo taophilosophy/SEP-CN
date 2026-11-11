@@ -668,6 +668,26 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
     picturesque、pollae myŏnmok（维基垃圾）、positive/negative analogy（测绘「正片」/大气「阳」假阳性）、possible intellect、
     potentia coactiva、perfection（perfectio / Vollkommenheit 两行，社会学假阳性）。
 
+### 十、二轮第十批（offset 1360–1528，21 条，p 段补查；2026-11-12 接力会话补裁）
+
+* 前会话爬至 1528 中断，本批为其遗留账（audit-2026-11-11 604 → audit-2026-11-12 625 差集）。
+* **主译不变，登记补亦作 3 条**：
+  * potential infinity「潜无限」补亦作“潜无穷”（审定·自然辩证法数学哲学/数学数学基础两库一致作“潜无穷”；
+    正文 2:0 通行“潜无限”，与实无限对举体例不动）；
+  * predestination「预定」补亦作“预定论”（审定·宗教社会学；本词条正文 19:0 通行“预定”）；
+  * propositional function「命题函项」补亦作“命题函数”（审定·数学模型论；罗素《数理哲学导论》中译传统不动）。
+* **保留 18 条**，归类：
+  * 方括号/记法差异：predicative（审定·数学数学基础作「直谓[的]」与现译仅记法差）、principle of least action
+    （审定「最小作用[量]原理」）。
+  * 下位/全称：primitive recursive（审定全为「原始递归集/函数/谓词」复合下位）、proper name（命中「专有名称权」法律下位）、
+    precession of the equinoxes（审定「分点岁差」为全称形）。
+  * 跨学科同名/假阳性：pramāṇa（认知凭据义）/pratyakṣa（感官知觉义）（命中「义通/感官分析」无效，jayaraasi 体例分工已注册）、
+    precautionary principle（审定无正命中，「谨慎原则」非本学科语境；登记行已有“预警原则”亦作）、prescind / precision
+    （precision 工程义假阳性）、prime mover（「原动机」工程假阳性）、principle of individuation（命中出自器官移植学，
+    非本学科语境）、priority base（偏好逻辑专门译名「优先基」，审定 CS 异义）、projectivism/proof net（垃圾命中）、
+    promotion（线性逻辑指数规则，审定「促销/晋升」异义）、proper function 两行（「本征函数/凸函数」异义；与普兰丁格行
+    分域已注册）、prospect（地质「远景区」假阳性）。
+
 
 
 
