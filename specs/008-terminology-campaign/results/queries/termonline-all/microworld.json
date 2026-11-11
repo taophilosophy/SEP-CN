@@ -1,0 +1,89 @@
+{
+ "key": "microworld",
+ "term": "microworld",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T11:15:35+00:00",
+ "status": "ok",
+ "note": "variant=microworld; 审定公布名词库=7; 海峡两岸名词对照库=4; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "微观世界",
+   "en": "microworld",
+   "code": "09.1087",
+   "standard": "物理学名词",
+   "subject": "物理学_原子核物理学、粒子物理学_粒子物理学"
+  },
+  {
+   "cn": "微皱褶细胞",
+   "en": "microfold cell",
+   "code": "18.022",
+   "standard": "普通外科学名词",
+   "subject": "医学_普通外科学_小肠外科"
+  },
+  {
+   "cn": "微皱褶细胞",
+   "en": "microfold cell",
+   "code": "08.250",
+   "standard": "兽医学名词",
+   "subject": "兽医学_家畜组织学"
+  },
+  {
+   "cn": "微皱褶细胞",
+   "en": "microfold cell ",
+   "code": "13.066",
+   "standard": "组织学与胚胎学名词",
+   "subject": "组织学与胚胎学_组织学_消化管"
+  },
+  {
+   "cn": "小肠微褶细胞",
+   "en": "small intestinal microfold cell",
+   "code": "4.03",
+   "standard": "消化病学名词",
+   "subject": "消化病_小肠_小肠解剖与组织学"
+  },
+  {
+   "cn": "微皱褶细胞",
+   "en": "microfold cell;M cell",
+   "code": "3.0629",
+   "standard": "动物学名词",
+   "subject": "动物学_动物组织学_主要器官组织_淋巴器官组织结构"
+  },
+  {
+   "cn": "微皱褶细胞",
+   "en": "microfold cell,M cell,MC",
+   "code": "2.153",
+   "standard": "免疫学名词",
+   "subject": "免疫学_免疫系统_免疫细胞"
+  },
+  {
+   "cn": "微褶细胞",
+   "en": "microfold cell",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "微皱褶细胞，M细胞",
+   "en": "microfold cell\",\"MC",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "微皱褶细胞，M细胞",
+   "en": "microfold cell\",\"M cell",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "M细胞（=微皱褶细胞）",
+   "en": "microfold cell\",\"M cell",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

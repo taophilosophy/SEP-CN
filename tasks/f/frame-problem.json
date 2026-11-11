@@ -2,7 +2,7 @@
   "slug": "frame-problem",
   "kind": "retranslate",
   "zh_doc": "f/frame-problem.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "F-main-20261111b",
       "at": "2026-11-11T06:25:46Z",
       "evidence": "逐句回核：§2 技术问题（框架公理/单调性/非单调形式系统/耶鲁射击问题）→§3 认识论问题（丹尼特/福多/睡狗策略/相关性无穷回归/有限理性/整体论）→§4 常识惯性的形而上学（冰箱子/绿蓝悖论/费策尔）→§5 现状（情境机器人学/海德格尔式批评/全局工作空间），论辩链与源文逐段对应，无漏段、无增译、无立场反转。数字对账：四位数年份多重集仅 1980×2、1990×2 差异（中文写作“二十世纪八十/九十年代”，有意转换），其余全等；年-页引注组 13:13 全等。关键引文回核（Dennett 1978、Fodor 1983/1987、Dreyfus 1992/2008、Wheeler 2008、Fetzer 1991、Goodman 1954、Shanahan & Baars 2005）语义一致。术语 15 项全部在册（单调性/限定推理/情景演算/睡狗策略/框架公理/耶鲁射击问题/冰箱子/绿蓝悖论/各向同性/信息非封装性/有限理性/微世界/情境机器人学/全局工作空间理论/联结主义），check_terms 硬错误 0。check_style --strict 0；check_academic OK；check_math 0/0；check_prose 残余 0。语体结论：现代汉语学术书面语，无文言仿古。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "REV-main-20261111",
+      "at": "2026-11-11T11:20:15Z",
+      "evidence": "终审（REV-main-20261111 独立验收，异于初译/复审 F-main-20261111/11b）：结构对账——defs 45:45 键集与顺序全等、内联 marker 61:61 顺序一致、节 5:5、图 0:0、H1 与 SUMMARY 行 1018 逐字一致；四检复跑全绿——check_style 0 / check_math 0 式 0 缺失 0 失衡 / check_academic --strict 0 硬错误 / check_prose 0 告警（s2 实修 14 处后清零，无豁免）；抽读 §4 对照源文（冰箱子/绿蓝悖论/费策尔引文）无漏译/增译/立场偏移；语体结论：现代汉语学术书面语，无文言仿古"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "REV-main-20261111",
+      "at": "2026-11-11T11:20:15Z",
+      "evidence": "done 收口（REV-main-20261111）：r3 验收签字后正文零改动；四检全绿维持（check_style 0 / check_academic --strict OK / check_math 0/0 / check_prose 0）；复核独立性满足（初译与复审 F 线，终审 REV 线）"
     }
   ],
   "blockers": [],

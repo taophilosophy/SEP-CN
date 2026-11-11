@@ -1,0 +1,348 @@
+{
+ "key": "many-valued logic",
+ "term": "many-valued logic",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T10:57:34+00:00",
+ "status": "ok",
+ "note": "variant=many-valued logic; 审定公布名词库=3472; 海峡两岸名词对照库=1012; 其他来源数据库=163; 预公布名词数据库=165; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "多值逻辑",
+   "en": "multivalue logic,many-valued logic,multiple-value logic",
+   "code": "02.0313",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_非经典逻辑"
+  },
+  {
+   "cn": "MV代数",
+   "en": "many-valued algebra",
+   "code": "12.0064",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_量子计算与量子信息学"
+  },
+  {
+   "cn": "QMV代数",
+   "en": "quantum many-valued algebra",
+   "code": "12.0065",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_量子计算与量子信息学"
+  },
+  {
+   "cn": "多对多",
+   "en": "many-to-many",
+   "code": "01.177",
+   "standard": "地理信息系统名词",
+   "subject": "地理信息系统_基本概念"
+  },
+  {
+   "cn": "多世界理论",
+   "en": "many world theory",
+   "code": "03.385",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_物理学哲学"
+  },
+  {
+   "cn": "多体问题",
+   "en": "many-body problem",
+   "code": "03.021",
+   "standard": "天文学名词",
+   "subject": "天文学_天体力学"
+  },
+  {
+   "cn": "多向思维",
+   "en": "many-direction thinking",
+   "code": "06.212",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_思维与创造"
+  },
+  {
+   "cn": "复绷带",
+   "en": "many tailed bandage",
+   "code": "18.064",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医外科及外科手术学"
+  },
+  {
+   "cn": "多电子态",
+   "en": "many-electron state",
+   "code": "05.0661",
+   "standard": "物理学名词",
+   "subject": "物理学_热学、统计物理学_统计物理学"
+  },
+  {
+   "cn": "多体问题",
+   "en": "many-body problem",
+   "code": "05.0658",
+   "standard": "物理学名词",
+   "subject": "物理学_热学、统计物理学_统计物理学"
+  },
+  {
+   "cn": "多体效应",
+   "en": "many-body effect",
+   "code": "05.0659",
+   "standard": "物理学名词",
+   "subject": "物理学_热学、统计物理学_统计物理学"
+  },
+  {
+   "cn": "多体系统",
+   "en": "many-body system",
+   "code": "05.0491",
+   "standard": "物理学名词",
+   "subject": "物理学_热学、统计物理学_统计物理学"
+  },
+  {
+   "cn": "多类逻辑",
+   "en": "many-sorted logic",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "多对多",
+   "en": "many-to-many",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "多对多关系",
+   "en": "many-to-many-relationship",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "多对多联系",
+   "en": "many-to-many relationship",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "多值逻辑",
+   "en": "multiple value logic",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "多体问题",
+   "en": "many body problem",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "多对一",
+   "en": "many-to-one",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "一对多",
+   "en": "one-to-many",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "多一可归性",
+   "en": "many-one reducibility",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "价值观",
+   "en": "value",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "值",
+   "en": "value",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "δ值",
+   "en": "δ-value",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "主值",
+   "en": "principal values",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "C值",
+   "en": "C-value",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "共享价值观",
+   "en": "shared value",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "价值交换",
+   "en": "value exchange",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据价值",
+   "en": "data value",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "用户价值",
+   "en": "user value",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "缺失值",
+   "en": "missing value",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "共享价值",
+   "en": "Shared Value",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "价值创造",
+   "en": "value creation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "价值分配",
+   "en": "value distribution",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "价值观",
+   "en": "values",
+   "code": "3.8.2.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_文化社会学_大众传媒研究"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "code": "02.0036",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "code": "1.1159999999999999",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "杀灭对数值",
+   "en": "killing log value",
+   "code": "6.2.20",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "灭活对数值",
+   "en": "inactivation log value",
+   "code": "6.2.21",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "杀灭对数值",
+   "en": "killing log value",
+   "code": "4.4.63",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品安全风险管理_食品生产规范"
+  },
+  {
+   "cn": "S值",
+   "en": "S value, ",
+   "code": "6.3.4.23",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  },
+  {
+   "cn": "反价值",
+   "en": "anti-values",
+   "code": "4.4.5.17",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的价值观"
+  },
+  {
+   "cn": "教育价值观",
+   "en": "educational values",
+   "code": "1.0141",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "D值",
+   "en": "D value",
+   "code": "1.4.4.115",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "A0值",
+   "en": "A0 value",
+   "code": "2.2.1.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术_物理消毒"
+  },
+  {
+   "cn": "标定值",
+   "en": "stated value",
+   "code": "3.1.4.4.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

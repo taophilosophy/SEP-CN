@@ -1,0 +1,348 @@
+{
+ "key": "mark transmission",
+ "term": "mark transmission",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T11:02:05+00:00",
+ "status": "ok",
+ "note": "variant=mark transmission; 审定公布名词库=1431; 海峡两岸名词对照库=492; 其他来源数据库=117; 预公布名词数据库=72; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "痕迹",
+   "en": "mark",
+   "code": "06.0187",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_半导体材料_元素半导体材料"
+  },
+  {
+   "cn": "传号",
+   "en": "mark",
+   "code": "01.439",
+   "standard": "通信科学技术名词",
+   "subject": "通信科学技术_通信原理与基本技术"
+  },
+  {
+   "cn": "标记",
+   "en": "mark",
+   "code": "01.920",
+   "standard": "电气工程名词",
+   "subject": "电气工程_电工基础及通用名词"
+  },
+  {
+   "cn": "传号",
+   "en": "mark",
+   "code": "21.172",
+   "standard": "电子学名词",
+   "subject": "电子学_通信"
+  },
+  {
+   "cn": "标识",
+   "en": "marking",
+   "code": "02.0052",
+   "standard": "化工名词（九）无机化工与肥料",
+   "subject": "化工（九）_肥料"
+  },
+  {
+   "cn": "标识",
+   "en": "marking",
+   "code": "02.0669",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_佩特里网"
+  },
+  {
+   "cn": "[加]标记",
+   "en": "marking",
+   "code": "01.185",
+   "standard": "计量学名词",
+   "subject": "计量学_计量学通用名词_法制计量"
+  },
+  {
+   "cn": "框标",
+   "en": "collimating mark,fiducial mark",
+   "code": "08.314",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天遥感"
+  },
+  {
+   "cn": "裁切线",
+   "en": "crop marks;trim marks",
+   "code": "03.02.105",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_印刷_印前工艺"
+  },
+  {
+   "cn": "路面标线",
+   "en": "pavement marking,road marking",
+   "code": "07.103",
+   "standard": "土木工程名词",
+   "subject": "土木工程_城市道路工程_道路交通"
+  },
+  {
+   "cn": "新构造运动标志",
+   "en": "neotectonics mark",
+   "code": "09.07.004",
+   "standard": "地质学名词",
+   "subject": "地质学_构造地质学_活动构造与新构造学"
+  },
+  {
+   "cn": "波痕",
+   "en": "ripple mark",
+   "code": "05.03.006",
+   "standard": "地质学名词",
+   "subject": "地质学_沉积学与沉积岩岩石学_沉积岩结构、构造"
+  },
+  {
+   "cn": "传号传输",
+   "en": "mark transmission",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "痕迹",
+   "en": "mark",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "传号",
+   "en": "mark",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "标志",
+   "en": "mark",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "标记，记号",
+   "en": "marking",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "吃水标志",
+   "en": "draft mark\",\"draught mark",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "凹痕",
+   "en": "sink mark",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "挡板痕",
+   "en": "baffle mark",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "缩痕",
+   "en": "shrink mark",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "夹痕",
+   "en": "chuck mark",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "刀痕",
+   "en": "saw mark",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "流痕",
+   "en": "flow mark",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "着地痕迹",
+   "en": "mark",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "落地痕迹",
+   "en": "mark",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "助跑标记",
+   "en": "mark",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "标记！",
+   "en": "Mark!",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "航标",
+   "en": "mark",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "盯人",
+   "en": "marking",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_水球名词"
+  },
+  {
+   "cn": "盯人防守",
+   "en": "guard\",\"mark\",\"guarding\",\"marking",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "踏板足印",
+   "en": "impression\",\"mark",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "报分",
+   "en": "mark\",\"signal",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "盯人防守",
+   "en": "guard\",\"mark",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_篮球名词"
+  },
+  {
+   "cn": "盯人防守",
+   "en": "guard\",\"mark",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "红色浮标",
+   "en": "red mark",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_水球名词"
+  },
+  {
+   "cn": "透射",
+   "en": "transmission",
+   "code": "6.2.2.21",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计"
+  },
+  {
+   "cn": "介水传播",
+   "en": "waterborne transmission",
+   "code": "4.1.4.13.2.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_环境消毒"
+  },
+  {
+   "cn": "医源性传播",
+   "en": "iatrogenic transmission",
+   "code": "4.1.4.13.4.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_环境消毒"
+  },
+  {
+   "cn": "输血传播",
+   "en": "transfusion transmission",
+   "code": "4.1.4.13.4.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_环境消毒"
+  },
+  {
+   "cn": "生物传播",
+   "en": "biological transmission",
+   "code": "4.1.4.13.5.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_环境消毒"
+  },
+  {
+   "cn": "机械传播",
+   "en": "mechanical transmission",
+   "code": "4.1.4.13.5.3",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_环境消毒"
+  },
+  {
+   "cn": "传播途径",
+   "en": "transmission route",
+   "code": "4.6.8",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_医院消毒"
+  },
+  {
+   "cn": "飞沫传播",
+   "en": "droplet transmission",
+   "code": "4.6.8.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_医院消毒"
+  },
+  {
+   "cn": "空气传播",
+   "en": "airborne transmission",
+   "code": "4.6.8.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_医院消毒"
+  },
+  {
+   "cn": "接触传播",
+   "en": "contact transmission",
+   "code": "4.6.8.3",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_医院消毒"
+  },
+  {
+   "cn": "垂直传播",
+   "en": "vertical transmission",
+   "code": "4.6.8.4",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_医院消毒"
+  },
+  {
+   "cn": "媒介生物传播",
+   "en": "vector transmission",
+   "code": "4.6.8.5",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_医院消毒"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,348 @@
+{
+ "key": "mass noun",
+ "term": "mass noun",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T11:02:05+00:00",
+ "status": "ok",
+ "note": "variant=mass noun; 审定公布名词库=3243; 海峡两岸名词对照库=966; 其他来源数据库=212; 预公布名词数据库=157; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "名词",
+   "en": "noun",
+   "code": "04.042",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "时间名词",
+   "en": "temporal noun",
+   "code": "04.059",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "处所名词",
+   "en": "place noun",
+   "code": "04.060",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "方位词",
+   "en": "locative noun",
+   "code": "04.061",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "专有名词",
+   "en": "proper noun",
+   "code": "04.056",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "集合名词",
+   "en": "collective noun",
+   "code": "04.057",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "抽象名词",
+   "en": "abstract noun",
+   "code": "04.058",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "肿物",
+   "en": "mass",
+   "code": "6.079",
+   "standard": "消化内镜学名词",
+   "subject": "消化内镜学_消化内镜表现"
+  },
+  {
+   "cn": "质量",
+   "en": "mass",
+   "code": "01.0049",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "质量",
+   "en": "mass",
+   "code": "03.001",
+   "standard": "计量学名词",
+   "subject": "计量学_质量、密度、衡器_质量"
+  },
+  {
+   "cn": "质量",
+   "en": "mass",
+   "code": "02.025",
+   "standard": "土木工程名词",
+   "subject": "土木工程_工程力学_理论力学"
+  },
+  {
+   "cn": "基本名词短语",
+   "en": "base noun phrase,base NP",
+   "code": "08.0531",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_计算语言学"
+  },
+  {
+   "cn": "名词短语",
+   "en": "noun phrase",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "中心名词",
+   "en": "head noun",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "质量",
+   "en": "mass",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "弥撒曲",
+   "en": "Mass",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "质量浓度",
+   "en": "concentration mass\",\"mass concentration",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "侧块",
+   "en": "lateral mass",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "[细]胞质团",
+   "en": "cytoplasmic mass",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "大灭绝（=集群灭绝）",
+   "en": "mass extinction",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "集群灭绝，大灭绝",
+   "en": "mass extinction",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "大气质量",
+   "en": "atmospheric mass",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "气团",
+   "en": "air mass",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "水团",
+   "en": "water mass",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "质量",
+   "en": "mass",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "多人摔倒",
+   "en": "massed crash\",\"massed fall",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "大众传播",
+   "en": "Mass communication",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "原子量",
+   "en": "atomic mass",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "众创",
+   "en": "mass innovation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "摩尔质量",
+   "en": "molar mass",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "集体出发",
+   "en": "massed start",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "初始质量函数",
+   "en": "Initial mass function",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "身体质量指数",
+   "en": "Body Mass Index",
+   "code": null,
+   "standard": "外语中文译写规范部际联席会议专家委员会",
+   "subject": "其他"
+  },
+  {
+   "cn": "众创文化",
+   "en": "mass entrepreneurship culture",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "标准化大规模定制",
+   "en": "standardized mass customization",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "蛋白质测序",
+   "en": "Protein mass spectrometry",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "群众",
+   "en": "masses",
+   "code": "03.0140",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "质量过剩",
+   "en": "mass excess",
+   "code": "3.2.1.9",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量"
+  },
+  {
+   "cn": "大众社会",
+   "en": "mass society",
+   "code": "2.1.2.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会形式"
+  },
+  {
+   "cn": "民间组织",
+   "en": "mass organization",
+   "code": "2.5.7.13",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念群体和组织"
+  },
+  {
+   "cn": "社会团体",
+   "en": "mass organizations",
+   "code": "2.5.8.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_群体和组织_社团组织"
+  },
+  {
+   "cn": "群众路线",
+   "en": "mass line",
+   "code": "01.0246",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "群众观点",
+   "en": "mass viewpoint",
+   "code": "01.0250",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "群众基础",
+   "en": "mass base",
+   "code": "03.0723",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "腹部包块",
+   "en": "abdominal mass",
+   "code": "1.4.2.3.12",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_症状与体征_症状"
+  },
+  {
+   "cn": "体脂量",
+   "en": "fat mass",
+   "code": "2.4.2.1.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_体成分发育"
+  },
+  {
+   "cn": "肌肉量",
+   "en": "muscle mass",
+   "code": "2.4.2.2.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_体成分发育"
+  },
+  {
+   "cn": "骨量",
+   "en": "bone mass",
+   "code": "2.4.2.2.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_体成分发育"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
