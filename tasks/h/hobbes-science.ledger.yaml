@@ -171,122 +171,162 @@ segments:
     kind: body
     source: |-
       First, the unified view. A significant number of scholars have argued that Hobbes understood his philosophy as unified by deductive connections between the different parts (for example, Martinich 2005; Peters 1967; Shapin & Schaffer 1985; Watkins 1965)[^martinich-2005][^peters-1967][^shapin-1985][^watkins-1965]. A stronger version of this unified view understands Hobbes to be a type of reductionist, wherein descriptions of macroscopic bodies, such as humans and rocks, ultimately reduce to microscopic bodies responsible for all phenomena (for example, Hampton 1986; Ryan 1970)[^hampton-1986][^ryan-1970]. For example, Alan Ryan articulates the reductionist view as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      首先是统一观。相当多的学者论证说，霍布斯把他的哲学理解为由不同部分之间的演绎联系统一起来（例如 Martinich 2005; Peters 1967; Shapin & Schaffer 1985; Watkins 1965）[^martinich-2005][^peters-1967][^shapin-1985][^watkins-1965]。统一观的一个更强的版本把霍布斯理解为一种还原论者：对宏观物体（如人和岩石）的描述最终还原为对所有现象负责的微观物体（例如 Hampton 1986; Ryan 1970）[^hampton-1986][^ryan-1970]。例如，Alan Ryan 这样表述还原论观点：
+    step2: |-
+      首先是统一观。相当多的学者主张，霍布斯把他的哲学理解为靠不同部分之间的演绎联系而统一（如 Martinich 2005; Peters 1967; Shapin & Schaffer 1985; Watkins 1965）[^martinich-2005][^peters-1967][^shapin-1985][^watkins-1965]。这一统一观还有一种更强的版本，把霍布斯视作某种还原论者：人与岩石等宏观物体的描述，最终还原到对一切现象负责的微观物体上（如 Hampton 1986; Ryan 1970）[^hampton-1986][^ryan-1970]。例如，Alan Ryan 如此表述还原论观点：
   - id: 22
     kind: body
     source: |-
       > Hobbes believed as firmly as one could that all behaviour, whether of animate or inanimate matter, was ultimately to be explained in terms of particulate motion: the laws governing the motions of discrete material particles were the ultimate laws of the universe, and in this sense psychology must be rooted in physiology and physiology in physics, while the social sciences, especially the technology of statecraft, must be rooted in psychology. (1970: 102–103)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 霍布斯像任何人所能做到的那样坚定地相信，一切行为，无论属于有生命的还是无生命的物质，最终都要用微粒运动来解释：支配离散物质粒子之运动的规律是宇宙的终极规律；在这个意义上，心理学必须植根于生理学，生理学必须植根于物理学，而社会科学，尤其是治国术的技术，必须植根于心理学。（1970: 102–103）
+    step2: |-
+      > 霍布斯以近乎极限的坚定相信：一切行为——无论属于有生命的还是无生命的物质——最终都必须以微粒运动来说明；支配离散物质粒子之运动的规律就是宇宙的终极规律。在这个意义上，心理学必须植根于生理学，生理学必须植根于物理学，而社会科学——尤其是治国之术——则必须植根于心理学。（1970: 102–103）
   - id: 23
     kind: body
     source: |-
       There is some textual support for understanding the parts of Hobbes’ system as either deductively or reductively linked together since he did at times talk of the parts of philosophy as beginning in first philosophy and leading from one to another. For example, he asserted in *De Corpore* VI.6 that by beginning at first principles, one will move from first philosophy to geometry, and from geometry to physics. He continued by claiming that “after physics we come to morals” and, indeed, Hobbes claims that moral philosophy must be studied after physics because the passions have “their causes in sense-experience and imagination” (CSL 299; OL I.64).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      把霍布斯体系的各部分理解为以演绎或还原的方式联结在一起，也有一些文本支持，因为他确实有时谈到哲学的各部分始于第一哲学并由一个部分通向另一个部分。例如，他在《论物体》VI.6 中断言，从第一原理出发，人将从第一哲学走向几何学，再从几何学走向物理学。他接着说“物理学之后我们来到道德学”；而且霍布斯确实主张，道德哲学必须在物理学之后研究，因为诸激情“其原因在感觉经验与想象之中”（CSL 299; OL I.64）。
+    step2: |-
+      把霍布斯体系的各部分理解为演绎或还原式地彼此联结，文本上也有一定依据：他确实有时说，哲学各部分始于第一哲学，且由一个部分引向另一个部分。例如他在《论物体》VI.6 断言：从第一原理出发，人将由第一哲学走向几何学，再由几何学走向物理学；他接着说“物理学之后便是道德学”。霍布斯也确实主张，道德哲学须在物理学之后研究，因为诸激情“其原因在感觉经验与想象之中”（CSL 299; OL I.64）。
   - id: 24
     kind: body
     source: |-
       However, immediately following these statements that seem to indicate that Hobbes took his philosophy to be tightly knit together, he argued that “civil and moral philosophy do not so adhere to one another, but that they may be severed” (EW I.73). This separation is permissible, Hobbes claimed, because in addition to learning moral philosophy from first principles each individual could simply study the motions of their own mind and gain knowledge of the same principles. That such separation could occur is difficult to explain for a strong version of the unified view because it makes it appear that Hobbes thought that one could develop civil philosophy simply by introspecting, entirely independently of any work in moral philosophy, natural philosophy, and first philosophy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，紧接在这些似乎表明霍布斯把他的哲学看作紧密相连的陈述之后，他论证说“公民哲学与道德哲学并不如此相互依存，以至于它们可以被分开”（EW I.73）。霍布斯声称这种分离是允许的，因为除了从第一原理学习道德哲学之外，每个人也可以只是研究自己心灵的运行，从而获得关于同样原理的知识。对统一观的强版本来说，这种分离的可能性难以解释，因为它显得霍布斯认为一个人可以仅仅通过内省来发展公民哲学，完全独立于道德哲学、自然哲学与第一哲学中的任何工作。
+    step2: |-
+      然而，紧随这些似乎表明霍布斯视其哲学为紧密整体的陈述，他随即论证：“公民哲学与道德哲学并非如此相互粘着，以至无法分开”（EW I.73）。霍布斯说这种分离是允许的：除了从第一原理学习道德哲学，每个人还可以径直考察自己心灵的运行，由此获得对同样原理的认识。对统一观的强版本而言，这种分离难以解释：它显得是说，霍布斯认为一个人可以仅凭内省发展公民哲学，全然不必借助道德哲学、自然哲学与第一哲学中的任何工作。
   - id: 25
     kind: body
     source: |-
       A further difficulty for the unified view is that even if Hobbes did see the connection between, say, physics and moral philosophy as deductive, it is not obvious how that deduction would work because moral philosophy must add content about human passions (endeavors) that is not contained within—and thus not deducible from—physics. For example, although the concept ‘endeavor’ is introduced in physics, for it to be used in moral philosophy the concepts of ‘appetite’ and ‘aversion’, which are properties of human bodies, must be added to it for use (Malcolm 2002: 147)[^malcolm-2002]. One way to avoid this difficulty for the unified view would be to provide evidence that Hobbes made explicit the reduction relationship between concepts like ‘appetite’ and ‘aversion’ and the concept of ‘endeavour’, showing how one can reduce claims about human bodies to claims about microscopic bodies. Hobbes does not appear to do this anywhere in the corpus. However, even if a strong version of the unified view faces this difficulty, the presence of ‘endeavor’ throughout Hobbes’ philosophy shows that it was a foundational concept (see Jesseph 2016)[^jesseph-2016].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      统一观还面临一个进一步的困难：即使霍布斯确实把例如物理学与道德哲学之间的关系看作演绎的，这种演绎如何进行并不明显，因为道德哲学必须增加关于人类激情（努力）的内容，而这些内容并不包含在物理学之内，因而也不能从物理学中演绎出来。例如，虽然“努力”（endeavor）这一概念在物理学中被引入，但要在道德哲学中使用它，还必须加上“欲望”（appetite）与“厌恶”（aversion）这两个人类身体的属性概念（Malcolm 2002: 147）[^malcolm-2002]。避免这一困难的一个办法是给出证据表明霍布斯明确说明了“欲望”“厌恶”这类概念与“努力”（endeavour）概念之间的还原关系，表明如何能把关于人类身体的主张还原为关于微观物体的主张。霍布斯似乎在全部著作中都没有这样做。然而，即使统一观的强版本面临这一困难，“努力”这一概念贯穿霍布斯哲学的事实表明它是一个基础性概念（见 Jesseph 2016）[^jesseph-2016]。
+    step2: |-
+      统一观还有进一步的困难：即便霍布斯确实把物理学与道德哲学的关系看作演绎性的，这种演绎如何运作也并不显然——道德哲学必须补充关于人类激情（努力，endeavors）的内容，而这类内容既不包含于物理学之内，也就不能从物理学演绎出来。例如，“努力”（endeavor）这一概念虽然是在物理学中引入的，但要在道德哲学中使用它，还须加上“欲望”（appetite）与“厌恶”（aversion）这两个人类身体的属性概念（Malcolm 2002: 147）[^malcolm-2002]。要为统一观避开这一困难，办法之一是举证霍布斯明确说明过“欲望”“厌恶”与“努力”（endeavour）诸概念之间的还原关系，表明如何把关于人类身体的主张还原为关于微观物体的主张。但霍布斯似乎从未在任何著作中这样做。不过，即便统一观的强版本面临此难，“努力”概念贯穿霍布斯哲学的事实本身，也表明它是一个基础性概念（见 Jesseph 2016）[^jesseph-2016]。
   - id: 26
     kind: body
     source: |-
       The second major view of the relationship of the parts of Hobbes’ philosophy to one another is what we can call the disunified view (for example, see Robertson 1886; Taylor 1938; Warrender 1957)[^robertson-1886][^taylor-1938][^warrender-1957]. Some of the motivation behind the disunified account seems to be a desire to free Hobbes from what is prima facie a case of deriving normative claims relating to the commonwealth in civil philosophy from descriptive claims related to human psychology and, ultimately, more general claims in natural philosophy (especially Taylor 1938)[^taylor-1938]. However, in its attempts to rescue Hobbes from a version of the so-called naturalistic fallacy, the disunified account fails to take seriously Hobbes’ claims about the unity of his philosophy. Furthermore, it neglects that many of Hobbes’ contemporaries (for example, Bramhall) saw Hobbes’ views in natural philosophy as having far-reaching consequences for other areas of philosophy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于霍布斯哲学各部分之间关系的第二种主要观点，我们可以称之为不统一观（例如见 Robertson 1886; Taylor 1938; Warrender 1957）[^robertson-1886][^taylor-1938][^warrender-1957]。不统一观的某些动机，似乎是想把霍布斯从一件乍看之下的事情中解救出来：在公民哲学中，从与人类心理学有关的描述性主张、最终从自然哲学中更一般的主张，推出与国家有关的规范性主张（尤其 Taylor 1938）[^taylor-1938]。然而，不统一观试图把霍布斯从某种所谓自然主义谬误中解救出来，却没有认真对待霍布斯关于其哲学统一性的主张。此外，它忽略了霍布斯的许多同时代人（例如布拉姆霍尔 Bramhall）把霍布斯在自然哲学中的观点看作对哲学其他领域有深远影响。
+    step2: |-
+      关于霍布斯哲学诸部分关系的第二种主要观点，可称作“不统一观”（如 Robertson 1886; Taylor 1938; Warrender 1957）[^robertson-1886][^taylor-1938][^warrender-1957]。持此说的部分动机，是想把霍布斯从一件乍看难堪的事里解救出来：公民哲学竟从人类心理学的描述性主张、乃至自然哲学中更一般的主张，推出关于国家的规范性主张（尤其见 Taylor 1938）[^taylor-1938]。然而，这种解救虽然试图让霍布斯免于某种“自然主义谬误”，却未能认真对待霍布斯本人关于其哲学统一性的主张；它还忽略了霍布斯的许多同时代人（如布拉姆霍尔［Bramhall］）把霍布斯在自然哲学上的观点视为对哲学其他领域影响深远。
   - id: 27
     kind: body
     source: |-
       A third view has more recently been offered that seeks to carve a middle path between the unified and disunified interpretations. We can call this view the mixed-mathematics view (for example, Adams 2016, 2017; Biener 2016)[^adams-2016][^biener-2016]. This understanding of Hobbes’ system agrees with the worry raised above for the unified account that ‘higher’ levels, such as geometry, do not contain the concepts used in ‘lower’ level explanations. For example, although geometrical principles are used in Hobbes’ optical explanations those geometrical principles do not contain concepts such as ‘light’ or ‘color’. Some evidence for this lack of containment claim can be found on the well-known “Table of the Several Subjects of Science” in *Leviathan* IX. The “sciences” on this table are listed on the right-most section and their subjects are to the immediate left. The subject of the science of optics, for example, is all of the “consequences from vision”, and these stem from “Physics or consequences from qualities”. The science of geometry, however, has as its subject the “consequences from quantity, and motion determined… by figure” and these stem not from physics but from “consequences from the accidents common to all bodies natural; which are quantity and motion”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第三种观点较晚提出，试图在统一解释与不统一解释之间开出一条中间道路。我们可以把这种观点称为混合数学观（例如 Adams 2016, 2017; Biener 2016）[^adams-2016][^biener-2016]。这种对霍布斯体系的理解同意上文针对统一观提出的疑虑：“较高”的层次，如几何学，并不包含“较低”层次解释中所用的概念。例如，虽然霍布斯的光学解释使用了几何学原理，但这些几何学原理并不包含“光”或“颜色”这类概念。这一“不包含”主张的一些证据可以在《利维坦》第九章著名的“诸科学主题表”中找到。表中“诸科学”列在最右栏，它们的主题列在其紧左边。例如，光学这门科学的主题是“来自视觉的一切结果”，而这些结果来自“物理学或来自性质的诸结果”。然而，几何学这门科学的主题是“来自数量以及由图形规定的运动的结果”，这些结果并非来自物理学，而是来自“一切自然物体共同具有的偶性即数量与运动的诸结果”。
+    step2: |-
+      第三种观点出现较晚，试图在统一与不统一两种解释之间开辟中间道路，可称之为“混合数学观”（如 Adams 2016, 2017; Biener 2016）[^adams-2016][^biener-2016]。这种理解同意上文针对统一观的疑虑：几何学等“较高”层次并不包含“较低”层次解释所用的概念。例如，霍布斯的光学解释虽然使用了几何学原理，但这些原理并不包含“光”“颜色”之类的概念。这一“不包含”主张的证据，可见于《利维坦》第九章那张著名的“诸科学之主题表”。表中的“科学”列在最右栏，其主题列在紧邻的左栏。例如，光学这门科学的主题是“来自视觉的诸结果”，而这些结果又来自“物理学或来自性质的诸结果”；几何学这门科学的主题则是“来自数量与由图形规定的运动的诸结果”，后者并非来自物理学，而是来自“一切自然物体所共有的偶性，即数量与运动”。
   - id: 28
     kind: body
     source: |-
       Instead of seeing this “adding to” as evidence for the disunified view, the mixed-mathematics view understands Hobbes having seen certain disciplines as providing causal principles (what he called the ‘why’) while other disciplines provided the facts relevant to a given domain (what he called the ‘that’). Textual support for this understanding of Hobbes’ system can be found in Hobbes’ methodological statements about natural philosophy as well as in his practice of explanation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      混合数学观不把这种“增加”看作不统一观的证据，而是把霍布斯理解为：某些学科提供因果原理（他所谓的“为什么”），另一些学科提供与给定领域相关的事实（他所谓的“是什么”）。对霍布斯体系的这种理解，可以在霍布斯关于自然哲学的方法论陈述中，也可以在他的解释实践中找到文本支持。
+    step2: |-
+      混合数学观不把这种“追加”看作不统一观的证据，而是理解为：霍布斯视某些学科为因果原理的提供者（他所谓“为什么”［the why］），另一些学科则提供与给定领域相关的事实（他所谓“是什么”［the that］）。对霍布斯体系的这一理解，既能在霍布斯关于自然哲学的方法论陈述中找到文本支持，也能在其解释实践中找到佐证。
   - id: 29
     kind: body
     source: |-
       As mentioned already, Hobbes identified scientific knowledge (*scientia*) with knowing causes, and in his discussions he used language germane to Aristotle’s distinction between the ‘why’ and the ‘that’. We have seen already Hobbes’ commitment to knowing through the causes, but the complete passage from *De Corpore* VI.1 provides further detail about Hobbes’ views on the two types of knowledge, as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如前所述，霍布斯把科学知识（*scientia*）等同于知道原因，在讨论中他使用了与亚里士多德“为什么”与“是什么”之区分密切相关的语言。我们已经看到霍布斯致力于通过原因而知道，但《论物体》VI.1 的完整段落提供了关于霍布斯对两类知识之看法的进一步细节，如下：
+    step2: |-
+      前文已述，霍布斯把科学知识（*scientia*）等同于对原因的知晓；在其讨论中，他使用的语言与亚里士多德“为什么”（the why）和“是什么”（the that）的区分密切相关。霍布斯致力于通过原因而求知，这一点已见上文；《论物体》VI.1 的完整段落，则就两类知识进一步展示霍布斯的看法：
   - id: 30
     kind: body
     source: |-
       > We are said to know [*scire*] some effect when we know what its causes are, in what subject they are, in what subject they introduce the effect and how they do it. Therefore, this is the knowledge [*scientia*] τοῦ διότι or of causes. All other knowledge [*cognitio*], which is called τοῦ ὅτι, is either sense experience or imagination remaining in sense experience or memory (*De Corpore* VI.1; CSL 287–289).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 当我们知道某个结果的诸原因是什么、它们在什么主体之中、它们在什么主体之中引入该结果以及它们如何做到这一点时，我们就被说成是知道 [*scire*] 该结果。因此，这就是 τοῦ διότι 的知识 [*scientia*]，即原因的知识。其余一切知识 [*cognitio*]，即所谓 τοῦ ὅτι 的知识，要么是感觉经验，要么是留存于感觉经验中的想象，要么是记忆。（*De Corpore* VI.1; CSL 287–289）
+    step2: |-
+      > 当我们既知道某结果的诸原因是什么、在哪个主体之中，又知道它们将该结果引入哪个主体、如何引入时，我们便被说成知道 [*scire*] 这一结果；因此，这就是 τοῦ διότι 的知识 [*scientia*]，亦即原因的知识。而其余一切知识 [*cognitio*]——所谓 τοῦ ὅτι 的知识——则要么是感觉经验，要么是滞留于感觉经验中的想象，要么是记忆。（*De Corpore* VI.1; CSL 287–289）
   - id: 31
     kind: body
     source: |-
       Two types of knowledge thus emerge. There is knowledge from sense experience, retained as imagination and eventually as memory (more below on how this can develop into prudence), and there is scientific knowledge. When reflecting in *De Homine* on the status of claims in physics, Hobbes claims that what he calls “true physics” must be a mixture of *both* of these types of knowledge:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是有两类知识出现。一类来自感觉经验，作为想象被保留，最终作为记忆保留（下文将更多地谈它如何发展为明智）；另一类是科学知识。在《论人》（*De Homine*）中反思物理学中主张的地位时，霍布斯声称他所谓的“真正的物理学”必须是这两类知识的混合：
+    step2: |-
+      于是显现出两类知识：一类来自感觉经验，先存为想象，最终存为记忆（下文还将说明它如何发展为明智）；另一类则是科学知识。在《论人》（*De Homine*）中反思物理学诸主张的地位时，霍布斯说，他所谓的“真正的物理学”必须同时混合这两类知识：
   - id: 32
     kind: body
     source: |-
       > […] since one cannot proceed in reasoning about natural things that are brought about by motion from the effects to the causes without a knowledge of those things that follow from that kind of motion; and since one cannot proceed to the consequences of motions without a knowledge of quantity, which is geometry; nothing can be demonstrated by physics without something also being demonstrated *a priori*. Therefore physics (I mean true physics) [*vera physica*], that depends on geometry, is usually numbered among the mixed mathematics [*mathematicas mixtas*]. [.] Therefore those mathematics are pure which (like geometry and arithmetic) revolve around quantities in the abstract so that work [in them] requires no knowledge of the subject; those mathematics are mixed, in truth, which in their reasoning some quality of the subject is also considered, as is the case with astronomy, music, physics, and the parts of physics that can vary on account of the variety of species and the parts of the universe. (MC 42; OL II.93)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……既然在推理关于由运动引起的自然事物时，若不了解从那种运动中得出的那些东西，就无法从结果推进到原因；既然不了解作为几何学的量，就无法推进到运动的诸结果；所以，物理学若不先演证某种东西，就什么也不能演证。因此，物理学（我指真正的物理学）[*vera physica*]既然依赖于几何学，通常被归入混合数学 [*mathematicas mixtas*]。［.］因此，那些在抽象中围绕数量旋转、因而其工作不需要主体知识的数学（如几何学与算术）是纯粹数学；而那些在其推理中还考虑主体的某种性质的数学才是真正的混合数学，天文学、音乐、物理学，以及因种与宇宙各部分之差异而可变的物理学的各部分，就是如此。（MC 42; OL II.93）
+    step2: |-
+      > ……既然在推理那些由运动引发的自然事物时，不知道随之而来的那些事项便无法由结果推及原因；既然不知道作为几何学的量便无法推至运动的诸结果；那么，物理学若不同时演证某种东西，便什么也演证不了。因此，物理学（我指真正的物理学）[*vera physica*]既依赖几何学，通常便被归入混合数学 [*mathematicas mixtas*]。［.］纯粹数学（如几何学与算术）只在抽象中周旋于数量，从事其间无需主体方面的知识；真正算得上混合的数学，则是推理中还要顾及主体之某种性质的数学——天文学、音乐、物理学，以及物理学中因种之差异与宇宙各部分而可变的部分，正是如此。（MC 42; OL II.93）
   - id: 33
     kind: body
     source: |-
       These two statements concerning the status of different types of knowledge and the requirement to mix “quantities in the abstract” with “some quality of the subject” in physics can aid in making sense of Hobbes’ actual explanatory practice. What does it mean for physics to be “mixed mathematics”? For Hobbes it means that for many explanations one will first establish that some fact is the case by appealing to sense experience, but to give the reason why one must borrow a principle from geometry.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这两个关于不同类型知识之地位的陈述，以及在物理学中把“抽象中的量”与“主体的某种性质”混合起来的要求，可以帮助我们理解霍布斯实际的解释实践。物理学是“混合数学”意味着什么？对霍布斯来说，这意味着：在许多解释中，人们先诉诸感觉经验确立某个事实成立，但要给出为什么的理由，就必须从几何学借用一条原理。
+    step2: |-
+      这两段关于知识类型地位的陈述，连同物理学必须把“抽象中的量”与“主体的某种性质”相混合的要求，有助于我们理解霍布斯实际的解释实践。物理学是“混合数学”，意味着什么？在霍布斯看来，这意味着：许多解释先要诉诸感觉经验确立某一事实，但要说明“为什么”，就必须从几何学借来一条原理。
   - id: 34
     kind: body
     source: |-
       At several places in *De Corpore*, Hobbes appears to carry out the mixed-mathematics ideal by showing, with a citation, that he used a causal principle from geometry within an explanation that included details about the “quality of the subject.” For example, in *De Corpore* XXV, the chapter with which Hobbes began Part IV, Hobbes appears to have done just this when he explained sensation. In that explanation, he appealed both to “qualities of the subject”, such as the claim based upon experience that “we may observe… that our phantasms or ideas are not always the same” (EW I.389), and by citing and using causal principles from earlier in the work (see discussion of this explanation in Adams 2016)[^adams-2016].[^note-4]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在《论物体》的几处地方，霍布斯似乎实现了混合数学的理想：他通过引证表明，他在一个包含“主体之性质”细节的解释中使用了来自几何学的因果原理。例如，在《论物体》第二十五章——霍布斯以它开始第四部分——霍布斯在解释感觉时似乎正是这样做的。在那个解释中，他既诉诸“主体的性质”，例如基于经验的这一主张：“我们可以观察到……我们的幻象或观念并不总是相同”（EW I.389），也引用并使用了来自该书前面的因果原理（关于这一解释的讨论见 Adams 2016）[^adams-2016]。[^note-4]
+    step2: |-
+      《论物体》中有多处，霍布斯似乎践行了混合数学的理想：他借引证显示，自己在包含“主体性质”细节的解释里使用了来自几何学的因果原理。例如，在《论物体》第二十五章（霍布斯以它开启第四部分）解释感觉时，他似乎正是这样做的：他既诉诸“主体的性质”——比如这个基于经验的主张：“我们可以观察到……我们的幻象或观念并非总是相同”（EW I.389）——又引用并使用了书中前面的因果原理（对该解释的讨论见 Adams 2016）[^adams-2016]。[^note-4]
   - id: 35
     kind: body
     source: |-
       Such behavior—borrowing and citing a principle within an explanation—would be difficult to explain on the picture offered by the unified view since Hobbes offers no justification for this practice other than phrases such as “I have shown besides…”. There is no deduction anywhere offered within Hobbes’ actual explanatory practice that would give reason to think that Hobbes understood the use of these principles from elsewhere in the work in that way. Likewise, it is difficult to make sense of this activity within Hobbes’ actual practice if we adopt the disunified view of Hobbes’ philosophy, since by using principles from elsewhere in the system, and especially by explicitly citing them, Hobbes is signaling that the parts of his system did fit together, even if not in the strong reductive sense of the unified view. The next section will describe Hobbes’ view that work in first philosophy and geometry must be done prior to experiments.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这种行为——在解释内部借用并引用一条原理——在统一观给出的图景下难以解释，因为霍布斯除了“我另外已经表明……”这样的说法之外，没有为这种实践提供任何辩护。在霍布斯实际的解释实践中，任何地方都没有提供演绎，使人有理由认为霍布斯是以那种方式理解对这些来自书中其他地方之原理的使用的。同样，如果我们采纳关于霍布斯哲学的不统一观，也难以理解这种活动：因为通过使用来自体系中其他地方的原理，尤其通过明确引用它们，霍布斯是在表明他的体系各部分确实彼此契合，即便不是以统一观那种强的还原意义。下一节将描述霍布斯的观点：第一哲学与几何学中的工作必须先于实验。
+    step2: |-
+      这种行为——在解释之中借用并引用一条原理——在统一观的图景下难以解释：除了“我另外已表明……”之类的说法，霍布斯并未为这种实践提供任何辩护；在其实际解释实践中，也找不出任何演绎，足以让我们认为霍布斯是以那种方式理解这些来自书中他处之原理的使用的。同样，若采纳不统一观，这一活动也不易理解：因为霍布斯使用体系中别处的原理，尤其还明确引用它们，正是在表明他的体系各部分确实相合——哪怕不是统一观那种强的还原意义。下一节将说明霍布斯的看法：第一哲学与几何学的工作必须先于实验。
   - id: 36
     kind: body
     source: |-
       ## 3. Hobbes on Experimentation: Conflict with Robert Boyle and the Royal Society
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 霍布斯论实验：与罗伯特·波义耳及皇家学会的冲突
+    step2: |-
+      ## 3 霍布斯论实验：与罗伯特·波义耳及皇家学会的冲突
   - id: 37
     kind: body
     source: |-
       Hobbes’ conflict with Robert Boyle concerning the nature of natural philosophy in general, and the air-pump experiments in particular, took place over several years and in a series of publications.[^note-5] Hobbes wrote *Dialogus Physicus* (1661; a second version appeared in 1668)[^note-6] as a dialogue aimed at criticizing Boyle’s *New Experiments Physico-Mechanical* (1660). Boyle responded to various criticisms in works such as *An Examen of Mr. T. Hobbes his Dialogus Physicus de Natura Aëris* (1662), *An Examen of Mr. Hobbes’ Doctrine about Cold* (1665), and *Animadversions upon Mr. Hobbes’ Problemata de Vacuo* (1674). The most comprehensive and influential treatment of this period of Hobbes’ life is Shapin and Schaffer’s *Leviathan and the Air-Pump* (1985).[^note-7] This section will focus upon Hobbes’ criticisms of the air-pump experiments in the *Dialogus Physicus* with an aim of showing how they illuminate our understanding of Hobbes’ natural philosophy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      霍布斯与罗伯特·波义耳的冲突，涉及自然哲学总体上的性质，尤其涉及空气泵实验，历时数年，见诸一系列出版物。[^note-5] 霍布斯写了《物理学对话》（*Dialogus Physicus*，1661；第二版于 1668 年问世）[^note-6]，以对话形式批评波义耳的《物理力学新实验》（*New Experiments Physico-Mechanical*，1660）。波义耳在《对 T. 霍布斯先生〈物理学对话：论空气本性〉的检验》（*An Examen of Mr. T. Hobbes his Dialogus Physicus de Natura Aëris*，1662）、《对霍布斯先生关于冷的学说的检验》（*An Examen of Mr. Hobbes' Doctrine about Cold*，1665）与《对霍布斯先生〈论真空问题〉的评论》（*Animadversions upon Mr. Hobbes' Problemata de Vacuo*，1674）等著作中回应了各种批评。对霍布斯生平这一时期最全面、最有影响的研究是 Shapin 与 Schaffer 的《利维坦与空气泵》（*Leviathan and the Air-Pump*，1985）。[^note-7] 本节将聚焦霍布斯在《物理学对话》中对空气泵实验的批评，旨在表明它们如何阐明我们对霍布斯自然哲学的理解。
+    step2: |-
+      霍布斯与罗伯特·波义耳的冲突，关涉自然哲学总体的性质，尤其关涉空气泵实验，前后数年，笔战见于一系列出版物。[^note-5] 霍布斯写成《物理学对话》（*Dialogus Physicus*，1661；1668 年又出第二版）[^note-6]，以对话体批评波义耳的《物理力学新实验》（*New Experiments Physico-Mechanical*，1660）。波义耳则分别在《对 T. 霍布斯先生〈物理学对话：论空气本性〉之检视》（*An Examen of Mr. T. Hobbes his Dialogus Physicus de Natura Aëris*，1662）、《对霍布斯先生论冷学说之检视》（*An Examen of Mr. Hobbes' Doctrine about Cold*，1665）与《对霍布斯先生〈真空问题〉之评注》（*Animadversions upon Mr. Hobbes' Problemata de Vacuo*，1674）中回应种种批评。关于霍布斯生平这一时期，最全面也最有影响的论著当数 Shapin 与 Schaffer 的《利维坦与空气泵》（*Leviathan and the Air-Pump*，1985）。[^note-7] 本节聚焦霍布斯在《物理学对话》中对空气泵实验的批评，以表明这些批评如何照亮我们对霍布斯自然哲学的理解。
   - id: 38
     kind: body
     source: |-
       Most generally both Boyle and Hobbes viewed the natural world as composed of bits of matter in motion. Even if there were some points of agreement between the versions of mechanical philosophy offered by both Boyle and Hobbes,[^note-8] there are important differences. A crucial difference between the two relates to the status (or lack thereof) of Laws of Nature. While Boyle talked about the laws of nature as established by God (see the section on Laws of Nature in the entry on Boyle), Hobbes restricted discussion of laws to the laws of human conduct discovered by those who escape the state of nature and create a commonwealth. In contrast to laws of the natural world, Hobbes articulated *a priori* principles of motion at the foundation of his physics in *De Corpore* VIII.19 and IX.7. Rather than being known as laws of motion, issued by some divine lawmaker, these Hobbesian principles of motion are explicated by thought experiments and seem to rely upon a version of the principle of sufficient reason (Jesseph 2006: 132)[^jesseph-2006]. Although Hobbes held that they were true of all human experience, since Hobbes holds that we cannot know the actual causes of natural phenomena he would have to admit that nature might, unbeknownst to us, act otherwise. However, despite these differences, the primary dissimilarity that emerges between Hobbes and Boyle concerning the air-pump experiments is one of method as it relates to the status of experiments/experience (see the section on Philosophy of Experiment in the entry on Boyle).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      总体而言，波义耳与霍布斯都把自然世界看作由运动中的物质碎片构成。尽管波义耳与霍布斯各自的机械哲学版本之间有若干共识，[^note-8] 但二者也有重要差异。一个关键差异涉及自然法的地位（或其阙如）。波义耳把自然法说成由上帝确立（见波义耳词条中关于自然法的一节），霍布斯则把对法的讨论限于那些逃离自然状态并缔造国家的人所发现的人类行为之法。与自然世界的法相对，霍布斯在《论物体》VIII.19 与 IX.7 中在他的物理学基础处阐明了先天的运动原理。这些霍布斯式的运动原理并非由某位神圣立法者颁布的、被称为运动之律的东西，而是通过思想实验得到阐明，并且似乎依赖某种充足理由律（Jesseph 2006: 132）[^jesseph-2006]。虽然霍布斯主张它们对一切人类经验都成立，但由于他主张我们不能知道自然现象的实际原因，他就不得不承认，自然界或许会在我们不知情的情况下以别的方式行事。不过，尽管有这些差异，霍布斯与波义耳就空气泵实验而言浮现出来的主要不同，是与方法有关的一种不同，即实验/经验的地位（见波义耳词条中关于实验哲学的一节）。
+    step2: |-
+      总体上，波义耳与霍布斯都把自然世界看作运动中的物质碎片的集合。两人各自的机械哲学虽有若干交叠，[^note-8] 但差异同样重要。一个关键分歧关乎自然法的地位（或者其阙如）：波义耳把自然法说成由上帝确立（参见波义耳词条“自然法”一节），霍布斯则把对法的讨论限定于逃离自然状态、缔造国家之人所发现的人类行为之法。不同于自然世界的法，霍布斯在《论物体》VIII.19 与 IX.7 于其物理学基础处阐明了先天的运动原理：这些霍布斯式运动原理不是由某位神圣立法者颁布、被称作运动之律的东西，而是借思想实验得以阐明，似乎依赖某种充足理由律（Jesseph 2006: 132）[^jesseph-2006]。霍布斯虽主张它们对一切人类经验皆真，但他也主张我们无法知道自然现象的实际原因，故而不得不承认：自然或许会在我们不知不觉间另有行动。然而，撇开这些差异，霍布斯与波义耳围绕空气泵实验浮现出的主要分歧，是方法上的：即实验/经验的地位（参见波义耳词条“实验哲学”一节）。
   - id: 39
     kind: body
     source: |-
       Given that Hobbes was convinced of the impossibility of knowing the actual causes of natural phenomena, he held that any phenomenon admits of multiple possible explanations. This should not be taken to imply that Hobbes saw all explanations, and thus all possible causes or suppositions, as standing on equal footing. Instead, Hobbes held that work in first philosophy and geometry must be completed prior to attempting to make any explanations in natural philosophy. This seems to be what Hobbes meant in the *De Homine* extended quotation provided above when he said that “nothing can be demonstrated by physics without something also being demonstrated *a priori*” (MC 42; OL II.93). When giving an explanation, Hobbes held that one should ideally appeal to those causes that are demonstrable from geometry when mixed with facts and rule out those that are not intelligible according to geometrical principles.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      霍布斯确信不可能知道自然现象的实际原因，因此他认为任何现象都容许多种可能的解释。不应由此以为霍布斯把一切解释、因而一切可能的原因或假设看作地位相等。相反，霍布斯主张，在试图对自然哲学作出任何解释之前，必须先完成第一哲学与几何学中的工作。这似乎就是霍布斯在上面所引《论人》长段引文中的意思，他说“物理学若不先演证某种东西，就什么也不能演证”（MC 42; OL II.93）。在给出解释时，霍布斯主张，理想的做法是诉诸那些与事实相混合时可从几何学演证出来的原因，并排除那些按几何学原理不可理解的原因。
+    step2: |-
+      霍布斯确信自然现象的实际原因不可知，因而主张任何现象都容许多种可能的解释。但这不应被理解为他把一切解释——进而一切可能的原因或假设——视作等量齐观。毋宁说，霍布斯要求：在为自然哲学尝试任何解释之前，必须先完成第一哲学与几何学的工作。这似乎正是上面所引《论人》长段的意思：“物理学若不先演证某种东西，就什么也演证不了”（MC 42; OL II.93）。给出解释时，霍布斯主张理想的做法是：诉诸那些与事实混合后可从几何学演证的原因，并排除按几何学原理无法理解的原因。
   - id: 40
     kind: body
     source: |-
       In contrast, Boyle’s method prescribed that instead of bringing causal principles to an experiment and expecting to explain some phenomenon by appeal to those principles, one should attempt to arrive at a supposition that would explain a phenomenon only after repeated, careful experiments. Thomas Sprat detailed the care taken in the design of experiments and the manner in which Royal Society members were formed into committees that shared parts of an experiment so that “[b]y this union of eyes, and hands” they were able to gain “a full comprehension of the object in all its appearances” (Sprat 1667: 85)[^sprat-1667].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      相比之下，波义耳的方法规定：不是把因果原理带到实验中并指望通过诉诸这些原理来解释某个现象，而是应当先进行反复、仔细的实验，然后才尝试达到一个能解释该现象的假设。Thomas Sprat 详细记述了实验设计中的谨慎，以及皇家学会成员如何被编成委员会、分担一项实验的各部分，使得“借助这种眼睛与手的联合”，他们能够“对对象在一切外观上的全面理解”（Sprat 1667: 85）[^sprat-1667]。
+    step2: |-
+      相比之下，波义耳的方法另有规定：不是把因果原理带进实验、指望靠诉诸原理来解释现象，而是先做反复而细致的实验，然后才尝试得出一个能解释现象的假设。Thomas Sprat 详细记载了实验设计上的用心，以及皇家学会成员如何编组为若干委员会、分担同一实验的各个部分，从而“凭这种眼睛与手的联合”，获得“对对象在其一切外观上的完整把握”（Sprat 1667: 85）[^sprat-1667]。
   - id: 41
     kind: body
     source: |-
