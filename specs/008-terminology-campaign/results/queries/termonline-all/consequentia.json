@@ -2,10 +2,67 @@
  "key": "consequentia",
  "term": "consequentia",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T15:47:01+00:00",
- "status": "error",
- "note": "variant=consequentia; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "consequentia: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T02:03:57+00:00",
+ "status": "ok",
+ "note": "variant=consequentia; 审定公布名词库=7; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "后项",
+   "en": "consequent",
+   "code": "04.0073",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_算术"
+  },
+  {
+   "cn": "从属损坏",
+   "en": "consequential damage",
+   "code": "24.0221",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_动力机械_内燃机_发动机维修"
+  },
+  {
+   "cn": "二次损坏",
+   "en": "consequential damage",
+   "code": "08.068",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_汽车维修_故障和损伤"
+  },
+  {
+   "cn": "顺向河",
+   "en": "consequent river",
+   "code": "03.300",
+   "standard": "地理学名词",
+   "subject": "地理学_地貌学"
+  },
+  {
+   "cn": "庶极",
+   "en": "consequent pole",
+   "code": "01.297",
+   "standard": "电气工程名词",
+   "subject": "电气工程_电工基础及通用名词"
+  },
+  {
+   "cn": "续发地震损失评估",
+   "en": "loss assesment of consequent earthquake",
+   "code": "01.2047",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震和社会"
+  },
+  {
+   "cn": "后果论",
+   "en": "consequentialism",
+   "code": "08.088",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科技伦理_医学伦理学"
+  },
+  {
+   "cn": "顺向河",
+   "en": "consequent river",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  }
+ ],
+ "error": null,
  "raw": null
 }

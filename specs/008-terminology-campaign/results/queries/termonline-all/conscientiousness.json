@@ -1,0 +1,26 @@
+{
+ "key": "conscientiousness",
+ "term": "conscientiousness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T02:03:57+00:00",
+ "status": "ok",
+ "note": "variant=conscientiousness; 审定公布名词库=0; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "严谨性",
+   "en": "conscientiousness",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "自觉性",
+   "en": "conscientiousness",
+   "code": "01.0216",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

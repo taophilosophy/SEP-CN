@@ -2,10 +2,151 @@
  "key": "congruence",
  "term": "congruence",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T15:39:31+00:00",
- "status": "error",
- "note": "variant=congruence; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "congruence: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T02:03:57+00:00",
+ "status": "ok",
+ "note": "variant=congruence; 审定公布名词库=46; 海峡两岸名词对照库=8; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "同余式",
+   "en": "congruence",
+   "code": "04.0152",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_算术"
+  },
+  {
+   "cn": "同余方程",
+   "en": "congruence",
+   "code": "04.0153",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_算术"
+  },
+  {
+   "cn": "同余关系",
+   "en": "congruence relation",
+   "code": "02.0951",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_程序理论"
+  },
+  {
+   "cn": "同余关系",
+   "en": "congruence relation",
+   "code": "03.0255",
+   "standard": "数学名词",
+   "subject": "数学_组合学·一般数学系统_序·格·一般数学系统"
+  },
+  {
+   "cn": "同余子群",
+   "en": "congruence subgroup",
+   "code": "04.0319",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_算术"
+  },
+  {
+   "cn": "同余格",
+   "en": "congruence lattice",
+   "code": "03.0251",
+   "standard": "数学名词",
+   "subject": "数学_组合学·一般数学系统_序·格·一般数学系统"
+  },
+  {
+   "cn": "乘性同余",
+   "en": "multiplicative congruence",
+   "code": "04.0262",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_算术"
+  },
+  {
+   "cn": "因子同余",
+   "en": "factor congruence",
+   "code": "03.0351",
+   "standard": "数学名词",
+   "subject": "数学_组合学·一般数学系统_泛代数"
+  },
+  {
+   "cn": "一次同余方程",
+   "en": "linear congruence",
+   "code": "04.0164",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_算术"
+  },
+  {
+   "cn": "二次同余方程",
+   "en": "quadratic congruence",
+   "code": "04.0166",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_算术"
+  },
+  {
+   "cn": "线汇",
+   "en": "line congruence",
+   "code": "08.0390",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_射影几何学·仿射几何学   "
+  },
+  {
+   "cn": "主同余",
+   "en": "principal congruence",
+   "code": "03.0347",
+   "standard": "数学名词",
+   "subject": "数学_组合学·一般数学系统_泛代数"
+  },
+  {
+   "cn": "一致性，共识性",
+   "en": "consensus\",\"congruence",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "自我一致性",
+   "en": "self consistency\",\"self congruence",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "合流",
+   "en": "confluence",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "汇集学习",
+   "en": "confluence learning",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "相容效度",
+   "en": "congruent validity",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "窦汇",
+   "en": "confluence of sinus",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "相合熔点",
+   "en": "congruent melting point",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "不相合熔点",
+   "en": "non-congruent melting point",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  }
+ ],
+ "error": null,
  "raw": null
 }

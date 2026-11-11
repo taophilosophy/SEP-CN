@@ -2,10 +2,347 @@
  "key": "contextual validity",
  "term": "contextual validity",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T15:54:32+00:00",
- "status": "error",
- "note": "variant=contextual validity; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "contextual validity: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T02:09:58+00:00",
+ "status": "ok",
+ "note": "variant=contextual validity; 审定公布名词库=247; 海峡两岸名词对照库=153; 其他来源数据库=19; 预公布名词数据库=33; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "语境主义",
+   "en": "contextualism",
+   "code": "03.192",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向"
+  },
+  {
+   "cn": "文脉主义",
+   "en": "contextualism",
+   "code": "02.112",
+   "standard": "城乡规划学名词",
+   "subject": "城乡规划学_城乡与区域规划理论和方法_城市规划理论与方法"
+  },
+  {
+   "cn": "情景化",
+   "en": "contextualization",
+   "code": "07.0387",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库新技术"
+  },
+  {
+   "cn": "情境行为",
+   "en": "contextual behavior",
+   "code": "04.0020",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_组织行为与人力资源管理_组织与行为管理"
+  },
+  {
+   "cn": "周边绩效",
+   "en": "contextual performance",
+   "code": "04.0635",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_组织行为与人力资源管理_绩效管理"
+  },
+  {
+   "cn": "情境智力",
+   "en": "contextual intelligence",
+   "code": "02.772",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "周边绩效",
+   "en": "contextual performance",
+   "code": "12.067",
+   "standard": "心理学名词",
+   "subject": "心理学_管理心理学"
+  },
+  {
+   "cn": "背景性因素",
+   "en": "contextual factor",
+   "code": "01.039",
+   "standard": "物理医学与康复名词",
+   "subject": "物理医学与康复_总论_国际功能、残疾和健康分类"
+  },
+  {
+   "cn": "菌肉菌丝",
+   "en": "contextual hyphae",
+   "code": "03.306",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物形态与结构"
+  },
+  {
+   "cn": "场合语体",
+   "en": "contextual style",
+   "code": "12.041",
+   "standard": "语言学名词",
+   "subject": "语言学_社会语言学_语言变异"
+  },
+  {
+   "cn": "语境释义法",
+   "en": "contextual definition",
+   "code": "06.315",
+   "standard": "语言学名词",
+   "subject": "语言学_辞书学_辞书释义"
+  },
+  {
+   "cn": "辞例推勘法",
+   "en": "contextual inference",
+   "code": "02.207",
+   "standard": "语言学名词",
+   "subject": "语言学_文字学_汉字政策、应用研究等"
+  },
+  {
+   "cn": "关联性",
+   "en": "contextuality",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "情景模式",
+   "en": "contextual model",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "情境智力",
+   "en": "contextual intelligence",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "背景理论",
+   "en": "contextual theory",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "效度",
+   "en": "validity",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "确定性",
+   "en": "validity",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "有效性",
+   "en": "validity",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "有效性",
+   "en": "validity",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "验证",
+   "en": "validation",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "区分效度",
+   "en": "discriminant validity\",\"differential validity",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "预报时效",
+   "en": "period validity",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "线索效度",
+   "en": "cue validity",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "有效部位",
+   "en": "valid area\",\"valid surface\",\"valid target",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "有效部位",
+   "en": "valid area\",\"valid surface\",\"valid target",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "效力法定",
+   "en": "statutory validity",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "有效刺中",
+   "en": "valid hit",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "有效刺中",
+   "en": "valid hit",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "效验",
+   "en": "Verification and Validation",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "无效",
+   "en": "muko\",\"not valid",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "有效得分",
+   "en": "point\",\"valid point",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "合法出发",
+   "en": "legal start\",\"valid start",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "无效刺中",
+   "en": "invalid hit\",\"non-valid hit",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "无效部位",
+   "en": "invalid target\",\"non-valid target",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "试跳（投、掷）有效",
+   "en": "cleared trial\",\"successful trial\",\"valid trial",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "语境主义",
+   "en": "contextualism",
+   "code": "03.192",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向"
+  },
+  {
+   "cn": "背景效应",
+   "en": "contextual effects",
+   "code": "1.2.5.139",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "效度",
+   "en": "validity",
+   "code": "1.2.4.74",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "效度",
+   "en": "validity",
+   "code": "4.9.2",
+   "standard": "社会医学名词",
+   "subject": "社会医学研究方法"
+  },
+  {
+   "cn": "确认",
+   "en": "validation",
+   "code": "4.5.12",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品安全风险管理_危害分析与关键控制点"
+  },
+  {
+   "cn": "准则效度",
+   "en": "criterion validity",
+   "code": "4.9.2.4",
+   "standard": "社会医学名词",
+   "subject": "社会医学研究方法"
+  },
+  {
+   "cn": "建构效度",
+   "en": "construct validity",
+   "code": "1.2.4.75",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "内容效度",
+   "en": "content validity",
+   "code": "1.2.4.76",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "准则效度",
+   "en": "criterion validity",
+   "code": "1.2.4.77",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "辨别效度",
+   "en": "discriminant validity",
+   "code": "1.2.4.78",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "外在效度",
+   "en": "external validity",
+   "code": "1.2.4.79",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "表面效度",
+   "en": "face validity",
+   "code": "1.2.4.80",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  }
+ ],
+ "error": null,
  "raw": null
 }

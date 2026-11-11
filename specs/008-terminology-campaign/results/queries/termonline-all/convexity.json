@@ -2,10 +2,200 @@
  "key": "convexity",
  "term": "convexity",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T16:05:02+00:00",
- "status": "error",
- "note": "variant=convexity; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "convexity: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T02:14:28+00:00",
+ "status": "ok",
+ "note": "variant=convexity; 审定公布名词库=122; 海峡两岸名词对照库=16; 其他来源数据库=3; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "凸性",
+   "en": "convexity",
+   "code": "07.0401",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_金融工程_技术"
+  },
+  {
+   "cn": "凸性",
+   "en": "convexity",
+   "code": "05.0741",
+   "standard": "数学名词",
+   "subject": "数学_分析学_凸分析"
+  },
+  {
+   "cn": "凸",
+   "en": "convex",
+   "code": "07.0066",
+   "standard": "数学名词",
+   "subject": "数学_泛函分析_泛函分析基础"
+  },
+  {
+   "cn": "凸性系数",
+   "en": "convexity coefficient",
+   "code": "07.0168",
+   "standard": "数学名词",
+   "subject": "数学_泛函分析_泛函分析基础"
+  },
+  {
+   "cn": "凸半径",
+   "en": "convexity radius",
+   "code": "08.1093",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_微分几何学"
+  },
+  {
+   "cn": "孔型凸度",
+   "en": "pass convexity",
+   "code": "09.0651",
+   "standard": "冶金学名词",
+   "subject": "冶金学_金属加工_轧制"
+  },
+  {
+   "cn": "龈缘突",
+   "en": "gingival convexity",
+   "code": "02.0399",
+   "standard": "医学名词 第七分册",
+   "subject": "医学_医学美学与美容医学"
+  },
+  {
+   "cn": "拟凸性",
+   "en": "quasi-convexity",
+   "code": "05.0799",
+   "standard": "数学名词",
+   "subject": "数学_分析学_凸分析"
+  },
+  {
+   "cn": "凸鼻翼",
+   "en": "convex alae",
+   "code": "2.5.20",
+   "standard": "耳鼻咽喉头颈外科学名词",
+   "subject": "鼻科_鼻畸形"
+  },
+  {
+   "cn": "凸规划",
+   "en": "convex programming",
+   "code": "05.077",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程系统优化"
+  },
+  {
+   "cn": "凸函数",
+   "en": "convex function",
+   "code": "05.078",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程系统优化"
+  },
+  {
+   "cn": "凸集",
+   "en": "convex set",
+   "code": "05.079",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程系统优化"
+  },
+  {
+   "cn": "凸凹性",
+   "en": "convexity-concavity",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "凸形质壁分离",
+   "en": "convex plasmolysis",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "凸透镜",
+   "en": "convex lens",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "凸包，凸壳",
+   "en": "convex hull",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "凸多边形",
+   "en": "convex polygon",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "凸透镜",
+   "en": "convex lens",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "凸包",
+   "en": "convex hull",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "凸多边形",
+   "en": "convex polygon",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "凸分解",
+   "en": "convex decomposition",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "凸体",
+   "en": "convex volume",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "凹凸透镜",
+   "en": "concave-convex lens",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "双凸透镜",
+   "en": "double-convex lens",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "凸组合",
+   "en": "convex combination",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "凸锥",
+   "en": "convex cone",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "凸优化",
+   "en": "convex optimization",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
  "raw": null
 }
