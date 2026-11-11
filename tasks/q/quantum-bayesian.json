@@ -2,7 +2,7 @@
   "slug": "quantum-bayesian",
   "kind": "retranslate",
   "zh_doc": "q/quantum-bayesian.md",
-  "state": "s1_checked",
+  "state": "s2_checked",
   "steps": [
     {
       "step": "clear",
@@ -24,6 +24,13 @@
       "actor": "Q-main-20261111",
       "at": "2026-11-11T19:03:46Z",
       "evidence": "一校对照 yuanwen 全文：结构 18 h3 / 12→11 h2（源 Notes 双标题合为 ## 脚注）；文献 defs 76:76 键集相等；年份 329:326，差异追平——补回漏译引注 Fuchs（2011; 2016 [OIR]）1 处、2016 对齐；余 1911×1 为源自身重复链接文本（OIR 只录一次）；实修：half-life 寿命→半衰期、credence 置信度→信度（12 处，degree of belief 保置信度 9 处）、Dutch book 荷兰书→荷兰赌（2）、inferentialism 推论主义→推理主义（9）；ψ-本体论/ψ-认识论去数学定界符与 qm-relational 对齐"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "Q-main-20261112",
+      "at": "2026-11-11T22:04:01Z",
+      "evidence": "二校（语言）逐段通读全文对照 yuanwen：实修 24 处——硬伤 4（§1.4 鲍勃经验句省略补全；§1.6 Bell 引文 immediate sense of data 改「对材料的直接感知」；§4.3 补漏译 in a world like ours 并 differ more radically 改「相去更远」；§4.3.2 插入语 e.g. 归位）；文言/语体 8（殊少→很少、无所用其力→无用武之地、涉→涉及、若然→果真如此、「于世界并无」→「对世界并无」、该语→该表述、立有→抱持、「关于量子态者」→主张、note-1 皆其种→都是它的种）；错字杂糅 2（真地→真的、据他看来→在他看来）；欧化倒装 10（「有很强的理由反对」句式、§1 degree of belief 双对应补齐、Mermin 2019 结论句、定语「离了它便无从解释」前移、「基本反对」→异议、「可以推出」→可由此推出、「不利地对比」、扩展论证结构、「为就」→就、一堆→一组、「据以关联」→将其关联到、evolve as if 停顿、emerge→引出、加以→为证、de-chain「的」链 2 处重写）。核销：consistently 译「一致地」正确、皈依=became a convert 正确、**1.****0** 粗体拆分系源文自带照录；credence→信度/degree of belief→置信度 口径全篇贯彻。四检定点：style 0、math 0/0、academic --strict OK、prose 3→0（weak-verb 1 引入即改、de-chain 2 实修）"
     }
   ],
   "blockers": [],
