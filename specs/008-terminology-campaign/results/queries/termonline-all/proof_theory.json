@@ -1,0 +1,348 @@
+{
+ "key": "proof theory",
+ "term": "proof theory",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T15:21:52+00:00",
+ "status": "ok",
+ "note": "variant=proof theory; 审定公布名词库=2515; 海峡两岸名词对照库=811; 其他来源数据库=175; 预公布名词数据库=259; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "证明",
+   "en": "proof",
+   "code": "06.154",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_分析与推理"
+  },
+  {
+   "cn": "校样",
+   "en": "proof",
+   "code": "4.247",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻编辑"
+  },
+  {
+   "cn": "校样",
+   "en": "proof",
+   "code": "02.05.009",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_编辑_校对"
+  },
+  {
+   "cn": "证[明]",
+   "en": "proof",
+   "code": "01.0024",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "打样",
+   "en": "proofing ",
+   "code": "03.02.136",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_印刷_印前工艺"
+  },
+  {
+   "cn": "打样",
+   "en": "proofing",
+   "code": "04.355",
+   "standard": "测绘学名词",
+   "subject": "测绘学_地图学"
+  },
+  {
+   "cn": "直接证明",
+   "en": "direct proof",
+   "code": "06.156",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_分析与推理"
+  },
+  {
+   "cn": "间接证明",
+   "en": "indirect proof",
+   "code": "06.157",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_分析与推理"
+  },
+  {
+   "cn": "小样",
+   "en": "galley proof",
+   "code": "4.248",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻编辑"
+  },
+  {
+   "cn": "清样",
+   "en": "final proof",
+   "code": "4.25",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻编辑"
+  },
+  {
+   "cn": "清样",
+   "en": "clean proof",
+   "code": "02.05.029",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_编辑_校对"
+  },
+  {
+   "cn": "红样",
+   "en": "dirty proof",
+   "code": "02.05.030",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_编辑_校对"
+  },
+  {
+   "cn": "证明",
+   "en": "proof",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "打样",
+   "en": "proofing",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "防爆",
+   "en": "explosion proof",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "抗腐蚀",
+   "en": "corrosion proof",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "打样图",
+   "en": "proof plot",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "彩色校样",
+   "en": "color proof",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "分色样张",
+   "en": "progressive proof",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "开印样",
+   "en": "press proof",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "样张",
+   "en": "proof copy",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "构造性证明",
+   "en": "constructive proof",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "交互式证明",
+   "en": "interactive proof",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "正确性证明",
+   "en": "correctness proof",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "类型论",
+   "en": "Proof assistant",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "零知识证明",
+   "en": "zero-knowledge proof",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "遍历理论",
+   "en": "Ergodic theory",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "威廉·维克里",
+   "en": "Auction theory",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "公平理论",
+   "en": "Equity Theory",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "模型论",
+   "en": "Model theory",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "ERG理论",
+   "en": "ERG Theory",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "展望理论",
+   "en": "prospect theory",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "位势论",
+   "en": "Potential theory",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "群论",
+   "en": "Group theory",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "归因理论",
+   "en": "Attribution theory",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "规范场论",
+   "en": "gauge theory",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "死亡证明",
+   "en": "death proof",
+   "code": "7.023",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_临终关怀与死亡伦理"
+  },
+  {
+   "cn": "营舍防潮",
+   "en": "barrack damp proof",
+   "code": "2.3.1.2.3.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事环境卫生_驻扎环境卫生"
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "code": "01.0119",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "坑道防潮",
+   "en": "tunnel moisture proofing",
+   "code": "2.3.3.2.4",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事环境卫生_驻扎环境卫生"
+  },
+  {
+   "cn": "原型理论",
+   "en": "prototype theory",
+   "code": "5.0031",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "波浪理论",
+   "en": "wave theory",
+   "code": "5.003",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "阶层化社会理论",
+   "en": "caste theory",
+   "code": "1.0143",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "扎根理论",
+   "en": "grounded theory",
+   "code": "1.2.1.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_方法论"
+  },
+  {
+   "cn": "测量理论",
+   "en": "measurement theory",
+   "code": "1.2.4.23",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "概化理论",
+   "en": "generalizability theory",
+   "code": "1.2.4.33",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "社会理论",
+   "en": "social theory",
+   "code": "2.1.7.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会意识"
+  },
+  {
+   "cn": "冲突理论",
+   "en": "conflict theory",
+   "code": "2.6.6.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_社会分层理论"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
