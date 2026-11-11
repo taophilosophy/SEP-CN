@@ -538,6 +538,26 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
 * 二轮补查队列同日起跑（1951 项，`%TEMP%/az-term2.json`，`--start 0 --batches 600 --no-warm --interval 10 --batch-gap 20`），
   断点续写 `state/tl-crawl-state.json`；ingest watcher 常驻，凭证随跑随提。
 
+## 2026-11-11 二轮补查增量裁定（TL-main-20261111 续）
+
+### 一、二轮第一批（offset 32–208，25 条，a 段重查）
+
+* 审计刷新：一致 662 / 不一致 460 / 查无 2564 / 未查证 5193；新增不一致 25 条。
+* **主译变更 2 条**：accidental generalization「偶然概括」→「偶适概括」（审定·自然辩证法；`s/scientific-explanation-20th.md` 2 处看齐）、
+  anthropocentrism「人类中心论」→「人类中心主义」（审定·自然辩证法，且为正文多数形 5:3；3 处看齐）。
+* **保留 23 条**，归类：
+  * 通行形为主、审定形为地区/学科变体：agreeableness（海峡两岸「亲和性」，本库大陆通行「宜人性」）、
+    authoritarian personality（审定「权威人格」，本库沿《权威主义人格》书名通行）、anti-intellectualism（本条 Ryle 谱系
+    与「理智主义」对举）、anthropomorphism（宗教哲学「神人同形同性论」≠心理学「拟人论」）、
+    act-utilitarianism（审定两库形不一：行动效用论/行为功利论，通行「行为功利主义」与规则功利主义对举）、
+    arithmetical hierarchy（审定数学「算术分层」/计算机「算术层谱」两形并存，递归论通行「算术层级」）、
+    absolute music（审定音乐「纯音乐」，美学「绝对音乐」）。
+  * 跨学科同名/假阳性：a posteriori（最大后验/后验法）、abhāva（维基垃圾）、abstractionism、age of onset、
+    analogy many-to-one、antecedent/consequent（本条逻辑「前件/后件」≠数学「前项」）、anticipation、appetite、
+    argument from above/below、arousal theory（下位）、association relation、anti-theory、back-and-forth、
+    bar induction、Barwise compactness theorem、affirmative action（审定为「肯定性行动计划」下位，通行「平权行动」）。
+
+
 
 
 

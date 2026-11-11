@@ -140,7 +140,7 @@
 
 ## 5 心理主义与哲学史编纂学
 
-对布伦塔诺逻辑学、伦理学与美学观点的讨论表明，他的哲学有强烈的心理主义倾向。是否应当断定他采纳了某种形式的心理主义，取决于对这一术语的确切定义：布伦塔诺激烈拒斥心理主义的指责，他认为心理主义代表一种主观主义的、人类中心论的立场。但与此同时，他明确为下述主张辩护：心理学是逻辑学、伦理学与美学这些实践学科赖以立足的理论科学。在《论道德认识的本源》中，他明确指出，与所有其他哲学学科一样，美学也植根于心理学，并接着说：“同样，人们可以毫不费力地证明，美学以及任何其他从心理学中分离出来的哲学学科，都会像一根从树干上砍下的枝条一样枯萎。”（*LW*, 39〔拙译〕）〔“*Und ähnlich ließe sich für die Aesthetik und jede andere Disciplin der Philosophie aufs leichtest nachweisen, daß sie, losgetrennt von der Psychologie, wie ein vom Stamm losgetrennter Zweig verdorren müsste.*”〕因此，布伦塔诺确实采纳了胡塞尔在《逻辑研究》导论（Prolegomena）中似乎所指的那种心理主义——在那里他把逻辑心理主义定义为这样一种立场：
+对布伦塔诺逻辑学、伦理学与美学观点的讨论表明，他的哲学有强烈的心理主义倾向。是否应当断定他采纳了某种形式的心理主义，取决于对这一术语的确切定义：布伦塔诺激烈拒斥心理主义的指责，他认为心理主义代表一种主观主义的、人类中心主义的立场。但与此同时，他明确为下述主张辩护：心理学是逻辑学、伦理学与美学这些实践学科赖以立足的理论科学。在《论道德认识的本源》中，他明确指出，与所有其他哲学学科一样，美学也植根于心理学，并接着说：“同样，人们可以毫不费力地证明，美学以及任何其他从心理学中分离出来的哲学学科，都会像一根从树干上砍下的枝条一样枯萎。”（*LW*, 39〔拙译〕）〔“*Und ähnlich ließe sich für die Aesthetik und jede andere Disciplin der Philosophie aufs leichtest nachweisen, daß sie, losgetrennt von der Psychologie, wie ein vom Stamm losgetrennter Zweig verdorren müsste.*”〕因此，布伦塔诺确实采纳了胡塞尔在《逻辑研究》导论（Prolegomena）中似乎所指的那种心理主义——在那里他把逻辑心理主义定义为这样一种立场：
 
 > ……逻辑的本质理论奠基在于心理学；就其理论内容而言，那些赋予逻辑以独特面貌的命题属于心理学的领域。……人们常常说得仿佛心理学为逻辑技艺提供了唯一且充分的理论奠基（Husserl 2001, 40）[^husserl-2001]。〔“*Die wesentlichen theoretischen Fundamente liegen in der Psychologie; in deren Gebiet gehören ihrem theoretischen Gehalt nach die Sätze, die der Logik ihr charakteristisches Gepräge geben. … Ja nicht selten spricht man so, als gäbe die Psychologie das alleinige und ausreichende theoretische Fundament für die logische Kunstlehre*”（Husserl, 1900, 51）〕
 

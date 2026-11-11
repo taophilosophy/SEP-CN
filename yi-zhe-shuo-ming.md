@@ -55,7 +55,7 @@
 | accessible information | — | 可获取信息 | qt-entangle | 学界通行译名（Holevo 界语境）；凭证 2026-11-09 | 2026-11-09 |
 | accessible pointed graph | — | 可及带点图 | quine-nf | Aczel 术语通行译法；凭证 2026-11-09 | 2026-11-09 |
 | accidental form | forma accidentalis | 偶性形式 | 首译（sharpe） | 经院哲学通行（与 substantial form 实体形式对举）；凭证 2026-11-09 | 2026-11-09 |
-| accidental generalization | — | 偶然概括 | 首译（scientific-explanation-20th） | 学界通行（与“律”相对；偶然为真的全称概括）；凭证 2026-11-10 | 2026-11-10 |
+| accidental generalization | — | 偶适概括（亦作“偶然概括”） | 首译（scientific-explanation-20th） | 审定名词库（termonline-all·自然辩证法名词，2026-11-11 浏览器通道凭证）；与“律”相对（偶然为真的全称概括） | 2026-11-11 |
 | accidental necessity | — | 偶然必然性 | omniscience | 学界通行译名（Ockham/Pike 传统）；凭证 2026-11-09 | 2026-11-09 |
 | accidents | — | 偶性 | 语料回收（marsilius-inghen 首译） | 经院哲学通行译法（accidentia）；凭证 2026-11-06 | 2026-11-06 |
 | accuracy/adroitness/aptness | — | 准确性／灵巧性／恰当性 | knowledge-analysis | 索萨 AAA 模型通行译法 | 2026-11-05 |
@@ -227,7 +227,7 @@
 | answered prayer | — | 蒙应允的祷告 | petitionary-prayer | 构词直译（answered 取“应允/垂听”义，与 effective“有效”区分）；凭证 2026-11-09 | 2026-11-09 |
 | antecedent/consequent | — | 前件／后件 | 语料回收（marsilius-inghen 首译） | 逻辑学通行译法；凭证 2026-11-06 | 2026-11-06 |
 | Anthropocene | — | 人类世 | 首现（environmental-aesthetics） | 地质学通行（Crutzen 术语） | 2026-11-08 |
-| anthropocentrism | — | 人类中心论 | jaina-philosophy 首译 | 学界通行译名（人类中心主义/论，环境伦理与印度哲学文献通用）；凭证 2026-11-08 | 2026-11-08 |
+| anthropocentrism | — | 人类中心主义（亦作“人类中心论”） | jaina-philosophy 首译 | 审定名词库（termonline-all·自然辩证法名词，2026-11-11 浏览器通道凭证）；环境伦理与印度哲学文献通用 | 2026-11-11 |
 | anthropomorphism | — | 神人同形同性论 | 首现（xenophanes） | 学界通行（宗教哲学）；凭证 2026-11-07 | 2026-11-07 |
 | anti-cosmopolitan | — | 反世界主义（的） | 首译（cosmopolitanism） | 本条术语（与 uncosmopolitan 非世界主义区分使用）；凭证 2026-11-09 | 2026-11-09 |
 | Anti-Dühring | Anti-Dühring | 《反杜林论》（恩格斯） | 语料回收 | 学界惯例（经典著作译名）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
