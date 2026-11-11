@@ -1,0 +1,39 @@
+{
+  "slug": "yorck",
+  "kind": "retranslate",
+  "zh_doc": "y/yorck.md",
+  "state": "s1_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-10T20:46:32Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "Y-main-20261111",
+      "at": "2026-11-11T00:16:34Z",
+      "evidence": "compose --write 27981 字符；账本 tasks/y/yorck.ledger.yaml 112 段（body 87+oir 1+note 24）全量双版（批1-8 提交在案）；lq check HARD=0（SOFT 30 条：斜体→书名号/机械段/粗体转换，逐条合法）；italic_to_bold 15 行；四检（style 0 issue/math 0/academic --strict 0 硬错误/summary HARD 0）+ markdownlint 0；体例修复 4 处：id1 bold 两侧空格、id35 英文 gloss 弯引号、id90 引文弯引号、id97 斜体粗体后空格"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "Y-main-20261111",
+      "at": "2026-11-11T00:39:19Z",
+      "evidence": "一校对照（MTPE 顺序：先幻觉漏译增译，再术语，后语言）：①引用组逐段照录核对：CR/ST/Yorck/Gadamer/Kaufmann/Dilthey/Hegel 引用组数量与内容全守恒，3 处连接词意译（also→另见、合并简称括注 id8/36/37），作者/年份/页码零改动；②文献脚注键（dastur/fagniez/farin/ruin/gadamer/dilthey 系）lq HARD=0 全守恒；③外文碎片扫描正文 0（6 条候选全在照录区德文书名与 biblio，豁免）；④术语一致性 39 词主形全对齐登记册（grep 现查），s1 实修 1 处：id47 成形图像之自发投射→成形图像性之自发投射（[*Bildlichkeit*] 落登记主形图像性），账本 step1/step2 同步改、compose 重放；混形 0（形塑性/自我肯定/肖勒姆等 10 变体全 0）；⑤人名 38 人主形全在场、混形 0；⑥biblio_audit yorck flagged=[] 无中国文献需还原；⑦长度比无越界标旗"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-10T20:46:32Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 8, 2023",
+    "archive_edition": "Fall 2023",
+    "sha256": "1f8447761e01ce2676e006c51009b7096b4a3a51cd5ab28fee17599a7b2d27e5"
+  },
+  "evidence": [
+    "方向声明：把 SEP 词条 Yorck von Wartenburg, Count Paul（保罗·约克·冯·瓦滕堡伯爵；作者 Ingo Farin，2012-03-19 首次发表，2023-09-08 实质修订，Fall 2023 存档）自英文译为简体中文，走完 retranslate 全流程 cleared→drafted→s1_checked→s2_checked→s3_checked→r1_reviewed→r2_reviewed→r3_reviewed→done。词条范围：主文 y/yorck.md（唯一文件，无补充材料/图片/数学）。目标读者：中文哲学读者。验收判据：结构完整（节集合与英文源一致）、check_style.py 0 问题、check_academic.py --strict 0 硬错误、check_prose.py 告警清零或逐条豁免留痕、脚注键/标记守恒 HARD=0、CI 全绿。非目标：不改原文、不补内容、不造引文、不动 a/adorno.md 与 c/certainty.md（他会话在途）。"
+  ]
+}

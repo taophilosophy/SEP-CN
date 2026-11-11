@@ -962,6 +962,7 @@
 | criteria of identity | — | 同一性标准 | edwards 首译 | 学界通行译法（形而上学通行）；凭证 2026-11-10 | 2026-11-10 |
 | criteriological | — | 规准性的（regulative 译“范导性的”） | 首现（emotion-Christian-tradition） | 学界惯例（罗伯茨情感哲学语境）；凭证 2026-11-04 | 2026-11-04 |
 | Critical Discourse Analysis (CDA) | — | 批评性话语分析 | 首译（stebbing） | 语言学通行汉译（亦作“批判话语分析”）；凭证 2026-11-09 | 2026-11-09 |
+| critical judgement | — | 批评判断 | aesthetic-testimony | Tormey 1973 语境（与“审美判断”同义使用）；美学文献通行 | 2026-11-11 |
 | Critical Theory | — | 批判理论 | 语料回收（标题词） | 审定名词库（termonline-all·自然辩证法·科学哲学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
 | critical thinking | — | 批判性思维 | 首译（stebbing） | 教育学与哲学通行汉译；凭证 2026-11-09 | 2026-11-09 |
 | Critique of Historical Reason | — | 《历史理性批判》 | dilthey 首译 | 学界通行（狄尔泰拟以之扩展《纯粹理性批判》）；凭证 2026-11-09 | 2026-11-09 |
@@ -1534,6 +1535,7 @@
 | expression theory | — | 表现论 | music | 学界通行（音乐表现力理论）；凭证 2026-11-09 | 2026-11-09 |
 | expressive power | — | 表达力 | logic-fuzzy | 逻辑学通行译法；凭证 2026-11-09 | 2026-11-09 |
 | expressiveness | — | 表现力（音乐的情感表现） | music | 学界通行；凭证 2026-11-09 | 2026-11-09 |
+| expressivism | — | 表达主义（expressivist 表达主义者） | aesthetic-testimony | 元伦理学通行译法（Gibbard 式规范表达主义）；美学证言论战语境沿用 | 2026-11-11 |
 | expulsive faculty | — | 排出官能 | la-forge | 经院生理学术语直译（facultas expulsiva）；凭证 2026-11-09 | 2026-11-09 |
 | extended fiction | — | 扩展虚构 | deductivism-mathematics | Leng 虚构主义术语；凭证 2026-11-08 | 2026-11-08 |
 | extended replicator | — | 扩展复制子 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -1562,6 +1564,7 @@
 ## F
 
 | facet | — | 层面（人格子维度） | justice-moral-psych | 人格心理学层级模型通行译法（Costa & McCrae 1995）；凭证 2026-11-10 | 2026-11-10 |
+| factive | — | 事实性的 | aesthetic-testimony | 知识论通行（factive 态度/动词成真；Hills 2022 语境） | 2026-11-11 |
 | factive assessment（yid dpyod） | — | 伺察识（yid dpyod） | epistemology-language-tibetan | 藏传量论通行+英译对齐 | 2026-11-04 |
 | factorization | — | 因式分解 | qt-entangle | 数学通行译名；凭证 2026-11-09 | 2026-11-09 |
 | faculty | — | 官能 | conscience 首译 | 学界通行（faculty psychology 官能心理学）；凭证 2026-11-08 | 2026-11-08 |
@@ -3041,6 +3044,7 @@
 | normal world | — | 正规世界 | logic-relevance | 同 non-normal world 既有行；凭证 2026-11-09 | 2026-11-09 |
 | normative force | — | 规范性力量 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | normativity | — | 规范性 | reinach | 学界惯例（与登记册 normative force“规范性力量”同族）；凭证 2026-11-09 | 2026-11-09 |
+| norms of use | — | 使用规范 | aesthetic-testimony | 本词条术语（unusability 悲观论之使用规范进路）；依义直译 | 2026-11-11 |
 | Not-Yet (das Noch-Nicht) | — | 尚未 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | Not-Yet-Conscious (das Noch-Nicht-Bewusste) | — | 尚未意识 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | nota illationis | nota illationis | 推断标记 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -3149,6 +3153,7 @@
 | opt-out／opt-in | — | 选择退出／选择加入 | organ-donation | 学界惯例（亦作“退出制／加入制”；凭证 2026-11-06） | 2026-11-06 |
 | optimal reduction | — | 最优归约 | logic-linear | λ-演算文献通行译法；凭证 2026-11-10 | 2026-11-09 |
 | optimality model | — | 最优性模型 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| optimism concerning aesthetic testimony | — | 审美证言乐观论（optimist 乐观论者） | aesthetic-testimony | 本词条立场术语（与悲观论对举，Hopkins 2007 命名）；依义直译 | 2026-11-11 |
 | optogenetics | — | 光遗传学 | 语料回收（molyneux-problem 首译） | 生命科学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | Opus postumum | Opus postumum | 《遗著》（*Opus postumum*） | kant-science | 李秋零全集定名；康德身后手稿合集 | 2026-11-05 |
 | Or Hashem | אור השם | 《上主之光》 | crescas | 学界通行（克雷斯卡斯代表作）；凭证 2026-11-08 | 2026-11-08 |
@@ -3305,6 +3310,9 @@
 | perspective taking | — | 观点采择 | justice-moral-psych | 社会心理学通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | pertension | — | pertension（保留英文；分体延展备查） | omnipresence | 同上（pertend）；凭证 2026-11-08 | 2026-11-08 |
 | pessimism | — | 悲观主义 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
+| pessimism concerning aesthetic testimony | — | 审美证言悲观论（pessimist 悲观论者） | aesthetic-testimony | Hopkins (2007) 命名的立场术语；依义直译 | 2026-11-11 |
+| principles of taste | — | 鉴赏原则 | aesthetic-testimony | 康德《判断力批判》§33–34 通行汉译（鉴赏的原则）；凭证 2026-11-11 |
+| pure testimony | — | 纯粹证言 | aesthetic-testimony | Hopkins (2011) 术语；社会认识论文献通行 | 2026-11-11 |
 | petites perceptions | petites perceptions | 微知觉 | leibniz-mind | 学界惯例（莱布尼茨译本通行）；凭证 2026-11-03 | 2026-11-03 |
 | petitionary prayer | — | 祈求式祷告 | petitionary-prayer | SUMMARY 条目定名沿用（petitionary prayer 的学界通行译法）；凭证 2026-11-09 | 2026-11-09 |
 | petitioner | — | 祈求者 | petitionary-prayer | 构词直译；凭证 2026-11-09 | 2026-11-09 |
@@ -4576,6 +4584,8 @@
 | tetralemma | — | 四句 | gorampa | 中观因明通行（catuṣkoṭi，四句分别/四句否定）；本条目正文作“四句”，括注梵藏原词 | 2026-11-09 |
 | tetraploid complementation | — | 四倍体补偿 | 首现（cloning） | 学界惯例（干细胞生物学通行）；凭证 2026-11-07 | 2026-11-07 |
 | textual lineage | — | 文本谱系 | chinese-phil-science | 学界通行（参 Lewis《早期中国的书写与权威》）；凭证 2026-11-07 | 2026-11-07 |
+| the Autonomy Principle | — | 自主性原则 | aesthetic-testimony | 本词条命名原则（Nguyen 2020a）；autonomy=自主性 学界通行 | 2026-11-11 |
+| the Requirement | — | 要求 | aesthetic-testimony | Hopkins (2011) 命名原则；直译，正文首现括注原文 | 2026-11-11 |
 | The Beginning of Philosophy | Der Anfang der Philosophie | 《哲学的开端》 | gadamer | 伽达默尔著作通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | The Elements | — | 《几何原本》 | zabarella | 学界千年通行汉译（欧几里得著作）；凭证 2026-11-09 | 2026-11-09 |
 | the First | — | 第一者 | neoplatonism | 新柏拉图主义研究通行（the One 之别称，正文并用“太一”） | 2026-11-07 |
@@ -4760,6 +4770,8 @@
 | ultrafilter | — | 超滤子 | 首现（boolalg-math） | 学界惯例（集合论/拓扑通行译名） | 2026-11-01 |
 | umbrella view | — | 伞状观 | object 首译 | 自译裁定（Rettler & Bailey 对“万物皆对象”立场的定名；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
 | unanimity preservation | — | 全体一致保持 | belief-merging | 学界通行（判断聚合文献）；凭证 2026-11-10 | 2026-11-10 |
+| unavailability pessimism | — | 不可得悲观论 | aesthetic-testimony | 本词条立场变体术语（知识不可得）；依义直译 | 2026-11-11 |
+| unusability pessimism | — | 不可用悲观论 | aesthetic-testimony | 本词条立场变体术语（证言不可用）；依义直译 | 2026-11-11 |
 | unbiasedness | — | 无偏性 | jury-theorems | 学界惯例（统计学通行）；凭据 2026-11-02 | 2026-11-02 |
 | unbounded iteration | — | 无界迭代 | logic-dynamic | 程序逻辑通行译法；凭证 2026-11-10 | 2026-11-09 |
 | uncertainty | — | 不确定性 | risk | 学界惯例（决策论与认识论通行）；与 indeterminacy“非确定性”分列；凭证 2026-11-09 | 2026-11-09 |

@@ -685,6 +685,7 @@
 | Clement V | — | 克莱门特五世 | — | — | giles | 教皇通译惯例（本名 Bertrand de Got） | 2026-11-10 |
 | Clement VI | — | 克雷芒六世 | — | — | autrecourt | 学界通行汉译（教宗，1342–1352 在位） | 2026-11-06 |
 | Cleomenes | — | 克莱奥米尼 | 非历史人物（曼德维尔《蜜蜂的寓言，第二部》对话人物） | 不适用 | mandeville | 本词条虚构人物首译（按英语发音音译）；与普鲁塔克传主斯巴达王 Cleomenes 异指；凭证 2026-11-08 | 2026-11-08 |
+| Cleopatra | — | 克娄巴特拉 | 古埃及／女王 | 前 69–前 30 | aesthetic-testimony | 学界通行汉译（史学界标准译名，克娄巴特拉七世） | 2026-11-11 |
 | Clerselier | — | 克莱尔塞利耶 | — | — | descartes-works | 学界通行（笛卡尔遗稿书信整理者） | 2026-11-06 |
 | Clinomachus of Thurii | — | 图里伊的克利诺马科斯 | — | — | dialectical-school | 学界通行汉译（欧布里德门生，DL 2.112 首论谓词与命题）；凭证 2026-11-07 | 2026-11-07 |
 | Clitomachus | — | 克利托马库斯 | 迦太基／雅典 | 公元前 187/6—前 110/9 | carneades | 学界通行汉译（卡涅阿德斯弟子、学园主持人）；凭证 2026-11-10 | 2026-11-09 |
@@ -1025,6 +1026,7 @@
 | Ernst Meumann | — | 恩斯特·迈曼 | — | — | landmann-kalischer | 学界通行汉译（实验教育学/美学学者）；待 specs/008 审定库复核 | 2026-11-04 |
 | Ernst Schröder | Ernst Schröder | 恩斯特·施罗德 | — | — | leibniz-logic-influence | 学界通行汉译（《逻辑代数讲义》作者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Ernst Zermelo | — | 恩斯特·策梅洛 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Evelyn | — | 伊芙琳 | 非历史人物（Hills 2022 例设人物） | 不适用 | aesthetic-testimony | 例设人名通行音译 | 2026-11-11 |
 | Falaquera, Shem Tov ibn | — | 闪-托夫·伊本·法拉奎拉 | — | — | f/falaquera | SUMMARY 定名沿用（f/falaquera.md）；凭证 2026-11-11 | 2026-11-11 |
 | Escher, M. C. | — | 埃舍尔 | — | — | 语料回收（mathematics-inconsistent 首译） | 艺术史学界通行汉译（荷兰版画家）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Ess, Charles | — | 查尔斯·埃斯 | 美国 | 1951– | it-moral-values | 学界通行音译（信息伦理学）；凭证 2026-11-10 | 2026-11-10 |
@@ -1167,6 +1169,7 @@
 | French, Rohan | — | Rohan French | — | — | logic-substructural | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | French, Sally | — | 萨莉·弗伦奇 | — | — | disability | 学界惯例音译（与 John Swain 合提残疾肯定性模型）；凭证 2026-11-09 | 2026-11-09 |
 | Freud | — | 弗洛伊德 | — | — | 首现（xenophanes） | 学界通行汉译（精神分析）；凭证 2026-11-07 | 2026-11-07 |
+| Fricker, Elizabeth | — | 伊丽莎白·弗里克 | 英国／哲学家 | 生卒待核 | aesthetic-testimony | 学界通行音译（证言认识论文献）；凭证 2026-11-11 | 2026-11-11 |
 | Friedländer, Paul | — | 保罗·弗里德兰德 | 德国 | 1882–1968 | gadamer | 古典语文学通行音译；凭证 2026-11-10 | 2026-11-10 |
 | Friedman, Harvey | — | Harvey Friedman | — | — | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Friedman, Michael | — | 迈克尔·弗里德曼 | 美国 | 1947– | scientific-explanation-20th | 学界通行（科学哲学家，统一论解释；勿混经济学家 Milton Friedman）；凭证 2026-11-10 | 2026-11-10 |
@@ -2337,6 +2340,8 @@
 | Mastrius, Bartolomaeus | — | 巴尔托洛梅乌斯·马斯特里乌斯 | 意大利／方济各会司各脱主义 | 1602–1673 | analogy-medieval | 司各脱主义研究通行音译；凭证 2026-11-08 | 2026-11-08 |
 | Mates, Benson | — | 梅特斯 | — | — | dialectical-school | 学界通行汉译（《斯多葛逻辑》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Mathuranātha | मथुरानाथ | 摩偷罗那陀 | 古印度／新正理 | 约 16–17 世纪 | early-modern-india | 梵音自拟（mathurā 从“摩偷罗”古译通例；非存在堆论家）；凭证 2026-11-10 | 2026-11-10 |
+| Matisse, Henri | — | 亨利·马蒂斯 | 法国／画家 | 1869–1954 | aesthetic-testimony | 学界通行汉译（艺术史标准译名） | 2026-11-11 |
+| Mozart, Wolfgang Amadeus | — | 莫扎特（沃尔夫冈·阿马德乌斯·莫扎特） | 奥地利／作曲家 | 1756–1791 | aesthetic-testimony | 学界通行汉译（音乐史标准译名） | 2026-11-11 |
 | Matsudaira Yoshitatsu | — | 松平义悌 | — | — | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
 | Matsuo Bashō | 松尾芭蕉 | 松尾芭蕉 | — | — | japanese-aesthetics | 学界惯例（日本俳谐史通行汉名） | 2026-11-02 |
 | Matsuo Taseko | — | 松尾多势子 | — | — | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
@@ -2414,6 +2419,7 @@
 | Merricks, Trenton | — | Trenton Merricks（现代学者，保留英文） | 美国 | — | prophecy | ADR-0022：无通行汉名者保留英文；凭证 2026-11-09 | 2026-11-09 |
 | Mersenne, Marin | — | 马兰·梅森 | — | — | descartes-works | 学界通行（最小兄弟会修士，梅森素数命名源） | 2026-11-06 |
 | Mesiar, Radko | — | Mesiar | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
+| Meskin, Aaron | — | 艾伦·梅斯金 | 美国／哲学家 | 生卒待核 | aesthetic-testimony | 学界通行音译（美学文献）；凭证 2026-11-11 | 2026-11-11 |
 | Metcalfe, George | — | Metcalfe | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Metochites, Theodore | Theodore Metochites | 塞奥多·梅托希特斯 | 拜占庭 | 1270–1332 | bessarion | 本词条首译（拜占庭学者、政治家；学界通行音译） | 2026-11-10 |
 | Metrodorus of Chios | — | 开俄斯的梅特罗多洛 | — | — | intentionality-ancient | 学界通行汉译（前苏格拉底） | 2026-11-07 |
