@@ -323,150 +323,150 @@ segments:
     source: |-
       ## 4. Axiomatics perfected
     step1: |-
-
+      ## 4. Axiomatics perfected
     step2: |-
-
+      ## 4 公理学的成熟
   - id: 40
     kind: body
     source: |-
       According to Aristotle, scientific knowledge (*episteme*) must be expressed in statements that follow deductively from a finite list of self-evident statements (axioms) and only employ terms defined from a finite list of self-understood terms (primitives). For over two millennia it was generally assumed that Aristotle's ideal is actually realized in Euclid's *Elements*. As a matter of fact, there is a logical gap already in Euclid I.1 (the solution of this problem rests on an unstated assumption of continuity) and it is not clear that Euclid regarded his postulates as self-evident (by calling them ‘requests’ he suggested he did not). The idea of securing knowledge by logical deduction from unquestionable principles had a powerful fascination for modern scientists such as Galileo and Newton, both of whom fondly practised axiomatics, at any rate as a literary form, like Spinoza in his *Ethics*. Still, a truly satisfactory and, if one may say so, serious instance of axiomatization of a branch of knowledge was not available in print until 1882, when Moritz Pasch (b. 1843, d. 1930) published his *Lectures on Modern Geometry*.
     step1: |-
-
+      按照亚里士多德，科学知识（*episteme*）必须用这样的陈述来表达：它们从一份有限的自明陈述（公理）清单出发演绎地推出，并且只使用由一份有限的、自身即可理解的词项（初始词项）清单所定义的词项。两千多年来，人们普遍假定亚里士多德的理想实际上在欧几里得的《几何原本》中实现了。事实上，欧几里得 I.1 中就已存在一个逻辑缺口（该问题的解决依赖于一个未明言的连续性假定），而且欧几里得是否把他的公设视为自明的，也并不清楚（他把它们称为“请求”，这暗示他并不这样看）。通过从无可置疑的原则出发的逻辑演绎来确保知识，这一观念对伽利略和牛顿这样的近代科学家有强大的吸引力，两人都喜爱实践公理学，至少是把它作为一种文学形式，就像斯宾诺莎在《伦理学》中那样。然而，一个真正令人满意、而且可以说严肃的知识分支公理化实例，直到 1882 年莫里茨·帕施（1843 年生，1930 年卒）出版他的《现代几何学讲义》才见于印本。
     step2: |-
-
+      依亚里士多德之见，科学知识（*episteme*）必须由这样的陈述来表达：它们从一份有限的自明陈述（公理）清单演绎地推出，并且只使用由一份有限的、自身即可领会的词项（初始词项）清单所定义的词项。两千余年间，人们普遍假定亚里士多德的理想已在欧几里得《几何原本》中实现。其实，欧几里得 I.1 中早已藏着一个逻辑缺口（该题的解决依赖于一条未明言的连续性假定）；而且欧几里得是否把自己的公设看作自明的，也未可知——他把它们唤作“请求”，这反显出他并不作如是观。凭无可置疑的原则作逻辑演绎以确立知识，这一念头对伽利略、牛顿等近代科学家极具魔力，二人皆乐此不疲地实践公理学，至少是把它当作一种文体，一如斯宾诺莎之于《伦理学》。然而，一个真正令人满意、可称严肃的知识分支公理化实例，迟至 1882 年莫里茨·帕施（1843—1930）刊行《现代几何学讲义》，方始见于印本。
   - id: 41
     kind: body
     source: |-
       Pasch viewed geometry as a natural science, whose successful utilization by other sciences and in practical life rests “exclusively on the fact that geometrical concepts originally agreed exactly with empirical objects” (Pasch 1882, p. iii)[^pasch-1882]. Geometry distinguishes itself from other natural sciences because it obtains only very few concepts and laws directly from experience, and aims at obtaining from them the laws of more complex phenomena by purely deductive means. The empirical foundation of geometry was encapsulated by Pasch in a core of basic concepts and basic statements or axioms. The basic concepts refer to the shape and size of bodies and their positions relative to one another. They are not defined, for no definition could replace the “exhibition of appropriate natural objects,” which is the only road to understanding such simple, irreducible notions (ibid., p. 16). All other geometric concepts must be ultimately defined in terms of the basic ones. The basic concepts are connected to one another by the axioms, which “state what has been observed in certain very simple diagrams” (p. 43). All other geometric statements must be proved from the axioms by the strictest deductive methods. Everything that is needed to prove them must be recorded, without exception, in the axioms. These must therefore embody the whole empirical material elaborated by geometry, so that “after they are established it is no longer necessary to resort to sense perceptions” (p. 17). “Every conclusion which occurs in a proof must find its confirmation in the diagram, but it is not justified by the diagram, but by a definite earlier statement (or definition)” (p. 43). Pasch understood clearly the implications of his method. He writes (p. 98):
     step1: |-
-
+      帕施把几何学看作一门自然科学，它被其他科学以及实际生活成功地加以利用，“完全建立在这样一个事实之上：几何概念最初与经验对象精确吻合”（Pasch 1882, p. iii）[^pasch-1882]。几何学之所以区别于其他自然科学，是因为它直接从经验中获得的定律极少，而目标在于以纯粹演绎的手段从中得出更复杂现象的定律。帕施把几何学的经验基础收纳为一套基本概念与基本陈述即公理的核心。基本概念涉及物体的形状、大小及其彼此相对的位置。它们不被定义，因为任何定义都无法取代“展示适当的自然对象”，而这是理解这类简单、不可还原的概念的唯一道路（同上，p. 16）。所有其他几何概念最终都必须用基本概念来定义。基本概念靠公理彼此联结，公理“陈述在某些非常简单的图形中所观察到的东西”（p. 43）。所有其他几何陈述都必须以最严格的演绎方法从公理证明出来。证明它们所需的一切，都必须无一例外地记录在公理之中。因此，公理必须体现几何学所加工的全部经验材料，以至于“在它们建立之后，就不必再诉诸感官知觉”（p. 17）。“证明中出现的每一个结论都必须在图形中得到确认，但它不是由图形证成，而是由某个确定的在先陈述（或定义）证成”（p. 43）。帕施清楚地理解其方法的蕴含。他写道（p. 98）：
     step2: |-
-
+      帕施视几何学为一门自然科学；它在其他科学和实际生活中之所以被成功运用，“完全仰赖这样一个事实：几何概念原初与经验对象精确契合”（Pasch 1882, p. iii）[^pasch-1882]。几何学之有别于其他自然科学，在于它直接从经验取得的定律少之又少，而志在以纯粹演绎的手段，由之求得较复杂现象的定律。帕施把几何学的经验基础收拢为一组基本概念与基本陈述即公理的内核。基本概念关乎物体的形状、大小及其相互位置。它们不加定义，因为任何定义都替代不了“展示适当的自然对象”，而这是领会这类简单而不可还原的概念的唯一途径（同上，p. 16）。其余一切几何概念最终都须用基本概念来定义。公理把基本概念彼此联结起来，它们“陈述在某些极其简单的图形中所观察到的东西”（p. 43）。其余一切几何陈述，都必须以最严格的演绎方法从公理证明出来。证明所需的一切，必须毫无例外地记录在公理之中。因此公理必须包罗几何学所整理的全部经验材料，故“它们一旦建立，便无须再诉诸感官知觉”（p. 17）。“证明中出现的每一结论都必须在图形中获得印证，但使之成立的并非图形，而是某一确定的在先陈述（或定义）”（p. 43）。帕施对其方法的蕴含洞若观火。他写道（p. 98）：
   - id: 42
     kind: body
     source: |-
       > If geometry is to be truly deductive, the process of inference must be independent in all its parts from the *meaning* of the geometric concepts, just as it must be independent from the diagrams. All that need be considered are the *relations* between the geometric concepts, recorded in the statements and definitions. In the course of deduction it is both permitted and useful to bear in mind the meaning of the geometric concepts that occur in it, but *it is not at all necessary*. Indeed, when it actually beomes necessary, this shows that there is a gap in the proof, and—if the gap cannot be eliminated by modifying the argument—that the premises are too weak to support it.
     step1: |-
-
+      > 如果几何学要真正是演绎的，那么推理过程在其所有部分上都必须独立于几何概念的*意义*，正如它必须独立于图形一样。需要考虑的全部东西，就是记录在陈述与定义中的几何概念之间的*关系*。在演绎过程中，记住其中出现的几何概念的意义，既被允许也有用，但*这根本不是必要的*。事实上，当它确实变得必要时，这就表明证明中存在缺口，而且——如果这缺口不能通过修改论证来消除——表明前提太弱，不足以支持该证明。
     step2: |-
-
+      > 几何学若要真正成为演绎之学，推理过程在其一切环节上都必须独立于几何概念的 **意义**，正如必须独立于图形。所当考虑的，仅是记录在陈述与定义中的几何概念之间的 **关系**。演绎途中，顾念其中出现的几何概念的意义，既被允许，也有裨益，但 **这根本不是必要的**。实际上，一旦这种顾念真成了必要，便表明证明有缺口；这缺口若不能靠修改论证来消除，便表明前提太弱，撑不起该证明。
   - id: 43
     kind: body
     source: |-
       Pasch's *Lectures on Modern Geometry* dealt with projective geometry. The first axiomatization of Euclidean geometry that was up to Pasch's standards—*Foundations of Geometry* by David Hilbert (b. 1862, d. 1943)—appeared in 1899 and exercised enormous influence on twentieth century mathematics and philosophy. Hilbert invites the reader to consider three arbitrary collections of objects, which he calls ‘points’, ‘straight lines’ and ‘planes’, and five undefined relations between (i) a point and a straight line, (ii) a straight line and a plane, (iii) three points, (iv) two pairs of points (‘segments’) and (v) two equivalence classes of point triples (‘angles’). The conditions prescribed in Hilbert's 20 axioms—including the Axiom of Completeness added in the second edition—are sufficient to characterize the said objects and relations up to isomorphism. Isomorphism—i.e., structural equivalence—can hold, however, between different, intuitively disparate, systems of objects. Hilbert availed himself of this feature of axiomatic theories for studying the independence of some axioms from the rest. To prove it he proposed actual instances (models) of the structure determined by all axioms but one, plus the negation of the omitted one. Frege complained that the geometric axioms retained in these exercises could be applied to Hilbert's far-fetched models only by tampering with the natural meaning of words (cf. Alice's conversation with Humpty Dumpty). Hilbert replied on 29 December 1899:
     step1: |-
-
+      帕施的《现代几何学讲义》处理的是射影几何。第一部达到帕施标准的欧几里得几何公理化——大卫·希尔伯特（1862 年生，1943 年卒）的《几何基础》——于 1899 年问世，对 20 世纪的数学与哲学产生了巨大影响。希尔伯特请读者考虑三组任意的对象，他称之为“点”“直线”和“平面”，以及五类未加定义的关系，分别位于 (i) 点与直线、(ii) 直线与平面、(iii) 三点、(iv) 两对点（“线段”）与 (v) 三个点的两个等价类（“角”）之间。希尔伯特 20 条公理所规定的条件——包括第二版增补的完备性公理——足以在合同的意义上刻画上述对象与关系。然而，同构——即结构等价——可以在不同的、直觉上迥异的对象系统之间成立。希尔伯特利用公理理论的这一特征来研究某些公理相对于其余公理的独立性。为证明这一点，他提出由除一条以外的所有公理连同被省略那条的否定所确定的结构的实际实例（模型）。弗雷格抱怨说，这些练习中保留的几何公理要适用于希尔伯特那些牵强的模型，只能靠篡改词语的自然意义（参见爱丽丝与矮胖子 Humpty Dumpty 的对话）。希尔伯特在 1899 年 12 月 29 日答复道：
     step2: |-
-
+      帕施的《现代几何学讲义》处理的是射影几何。第一部合乎帕施标准的欧几里得几何公理化著作，是大卫·希尔伯特（1862—1943）的《几何基础》，1899 年问世，对 20 世纪数学与哲学影响极大。希尔伯特请读者设想三组任意对象，分别唤作“点”“直线”与“平面”，另有五类未加定义的关系，分别介于 (i) 点与直线、(ii) 直线与平面、(iii) 三点之间、(iv) 两对点（“线段”）之间，以及 (v) 三点组的两个等价类（“角”）之间。希尔伯特 20 条公理所规定的条件——含第二版增补的完备性公理——足以在同构的意义上刻画上述对象与关系。然而，同构——即结构等价——可以在直觉上判然有别的不同对象系统之间成立。希尔伯特正利用公理理论的这一特点，研究某些公理相对于其余公理的独立性：为证明独立，他给出由除一条之外的全部公理、加上被略去那条的否定所确定的结构之实际实例（模型）。弗雷格抱怨道，这类练习中保留的几何公理要施于希尔伯特那些离奇的模型，唯有窜改词语的自然含义才办得到（参较《爱丽丝镜中奇遇》里爱丽丝与矮胖子 Humpty Dumpty 的对话）。希尔伯特于 1899 年 12 月 29 日复信：
   - id: 44
     kind: body
     source: |-
       > Every theory is only a scaffolding or schema of concepts together with their necessary mutual relations, and the basic elements can be conceived in any way you wish. If I take for my points any system of things, for example, the system love, law, chimney-sweep, … and I just assume all my axioms as relations between these things, my theorems—for example, the theorem of Pythagoras—also hold of these things. … This feature of theories can never be a shortcoming and is in any case inevitable.
     step1: |-
-
+      > 每个理论都只是一个概念及其必然相互关系的脚手架或图式，基本元素可以随你怎么设想。如果我拿任意一个事物系统当作我的点，例如爱、法律、扫烟囱的……这样的系统，并且径自把我的一切公理当作这些事物之间的关系来假定，那么我的定理——例如毕达哥拉斯定理——对这些事物也同样成立。……理论的这一特征绝不会是缺点，而且无论如何都是不可避免的。
     step2: |-
-
+      > 任何理论都只是一副概念及其必然相互关系的脚手架或图式，基本元素尽可随心设想。我若随便取一个事物系统当我的点，譬如爱、法律、扫烟囱的……，并径自把我的一切公理都当作这些事物之间的关系来设定，那么我的定理——例如毕达哥拉斯定理——对这些事物照样成立。……理论的这一特征绝不是缺陷，无论如何都无可避免。
   - id: 45
     kind: body
     source: |-
       All this follows, of course, from the very nature of axiomatics, as explained in the passage quoted from Pasch. Indeed, such truth-preserving semantic permutations were no news in geometry after Gergonne (1771–1859) drew attention in 1825 to the following *principle of duality:* Any true statement of projective plane geometry gives rise to another, equally true, dual statement obtained by substituting ‘point’ for ‘line’, ‘collinear’ for ‘concurrent’, ‘meet’ for ‘join’, and vice versa, wherever these words occur in the former. (In projective space geometry, duality holds for points and planes.) The same result is secured, of course, by exchanging not the words, but their meanings.
     step1: |-
-
+      当然，这一切都出自公理学的本性，正如从帕施上引段落所解释的那样。确实，自从热尔岗（1771–1859）在 1825 年提请人们注意下述*对偶原理*以来，这种保真的语义置换在几何学中就不再新鲜：射影平面几何的任何真陈述，都产生另一个同样为真的对偶陈述，办法是把前者的“点”换成“线”、“共线”换成“共点”、“相交”换成“联结”，反之亦然，凡这些词出现之处皆如此。（在射影空间几何中，对偶对“点”与“面”成立。）当然，不交换词语而交换其意义，也能获得同样的结果。
     step2: |-
-
+      当然，这一切都出于公理学的本性，帕施上引段落的解释已见其端。的确，自热尔岗（1771—1859）1825 年提请注意下述 **对偶原理** 以来，这类保真的语义置换在几何学中早已不算新事：射影平面几何的任何真陈述，都生出另一个同样为真的对偶陈述——只要把前者的“点”换成“线”、“共线”换成“共点”、“相交”换成“联结”，反之亦然，凡这些词出现之处皆照此办理。（在射影空间几何中，对偶施于“点”与“面”。）自然，不换词语而换其含义，所得结果相同。
   - id: 46
     kind: body
     source: |-
       ## 5. The differential geometry of Riemann
     step1: |-
-
+      ## 5. The differential geometry of Riemann
     step2: |-
-
+      ## 5 黎曼的微分几何
   - id: 47
     kind: body
     source: |-
       In a lecture “On the hypotheses that lie at the foundation of geometry”, delivered to the Faculty of Philosophy at Göttingen in 1854 and posthumously published in 1867, Bernhard Riemann (b. 1826, d. 1866) presented some radically innovative views on this matter. He noted that the measurable properties of a discrete manifold can be readily determined by counting. (Think of the population of a country, and the proportion of born-again Christians, or of couples who divorced within the first year of their marriage.) But continuous manifolds do not admit this approach. In particular, the measurable properties of physical space, which are the subject of geometry, depend on the binding forces that act on it. The distance between two points in space can be ascertained with a rod, or a tape, or by optical means, and the result depends essentially on the physical behavior of the instruments used. Up to now, the measurable properties of space have been successfully described in accordance with Euclidean geometry. However, “the empirical concepts on which the metric determinations of space are based—the concepts of a rigid body and a light ray—lose their validity in the infinitely small; it is therefore quite likely that the metric relations of space in the infinitely small do not agree with the assumptions of geometry, and in fact one would have to accept this as soon as the phenomena can thereby be explained in a simpler way” (Riemann 1854, p. 149)[^riemann-1854]. To prepare physicists for this eventuality, Riemann proposed a more general conception of geometry. Riemann's basic scheme makes allowance for much greater generality than he actually reaches for; but, in his judgment, it should be enough for the time being to characterize the geometry of continuous manifolds in such a way that it agrees optimally with Euclidean geometry on a small neighborhood of each point.
     step1: |-
-
+      波恩哈德·黎曼（1826 年生，1866 年卒）在 1854 年向哥廷根大学哲学院所作的演讲“论几何学基础所依据的假设”中——该演讲于 1867 年在他身后发表——就此呈现了一些极具革新性的观点。他指出，离散流形的可测性质可以通过计数轻易确定。（想想一个国家的人口，以及重生基督徒的比例，或头一年内离婚的夫妇的比例。）但连续流形不容许这种办法。特别是，作为几何学主题的物理空间的可测性质，依赖于作用于它的束缚力。空间中两点之间的距离可以用杆、用卷尺或光学手段来查明，而结果本质上取决于所用仪器的物理行为。迄今为止，空间的可测性质一直根据欧几里得几何得到了成功描述。然而，“空间的度量测定所依据的经验概念——刚体与光线的概念——在无限小中失去其有效性；因此，空间在无限小中的度量关系极可能与几何学的假定不相符，而且事实上，一旦借此能把现象解释得更简单，人们就不得不接受这一点”（Riemann 1854, p. 149）[^riemann-1854]。为使物理学家对这种可能性有所准备，黎曼提出了更一般的几何构想。黎曼的基本方案所容许的普遍性远比他实际达到的更大；但在他看来，眼下只需把连续流形的几何刻画成这样，使它在每一点的微小邻域内与欧几里得几何最为吻合，也就够了。
     step2: |-
-
+      波恩哈德·黎曼（1826—1866）1854 年向哥廷根大学哲学院发表题为“论几何学基础所依据的假设”的演讲（1867 年遗稿刊行），就此提出若干极具革新性的看法。他指出，离散流形的可测性质可以靠计数径直确定。（试想一国的人口，以及重生基督徒、或新婚第一年内离婚夫妇所占的比例。）但连续流形不适用这套办法。尤其是，作为几何学主题的物理空间，其可测性质取决于作用于它的束缚力。空间中两点的距离可用杆、卷尺或光学手段测知，而结果本质上取决于所用仪器的物理行为。迄今为止，空间的可测性质一直是按欧几里得几何成功地加以描述的。然而，“空间度量测定所凭据的经验概念——刚体与光线的概念——在无限小处失效；因此，空间在无限小处的度量关系极可能与几何学的假定不合，而事实上，只要借之能把现象解释得更简单，人们便只得接受这一结论”（Riemann 1854, p. 149）[^riemann-1854]。为使物理学家对这一可能性有所预备，黎曼提出了一种更一般的几何构想。黎曼的基本方案容许远比他实际达到的更大的普遍性；但在他看来，眼下只需把连续流形的几何刻画得使其在每一点的微小邻域内与欧几里得几何最为吻合，便已足够。
   - id: 48
     kind: body
     source: |-
       Riemann extends to *n* dimensions the methods employed by Gauss (1828) in his study of the intrinsic geometry of curved surfaces embedded in Euclidean space (called ‘intrinsic’ because it describes the metric properties that the surfaces display by themselves, independently of the way they lie in space). Looking back at Gauss's work one gets a better intuitive feel for Riemann's concepts (see Torretti 1978, pp. 68–82)[^torretti-1978]. However, for the sake of conciseness and perspicuity, it is advisable to look forward and to avail oneself of certain concepts introduced by later mathematicians as they tried to make sense of Riemann's proposal. Consider the modern formulation of Riemann's theory in the supplement [A Modern Formulation of Riemann's Theory](geometry-19th.supplement.md).
     step1: |-
-
+      黎曼把高斯（1828）在研究嵌入欧几里得空间的曲面的内蕴几何时所使用的方法推广到了 *n* 维（称为“内蕴”，是因为它描述曲面凭其自身所显示出的度量性质，与它们在空间中安放的方式无关）。回看高斯的工作，会使人对黎曼的概念有更好的直觉把握（参见 Torretti 1978, pp. 68–82）[^torretti-1978]。然而，为了简洁与明晰，最好向前看，利用后来数学家在设法理解黎曼的提议时引入的某些概念。黎曼理论的现代表述，请见补充材料[黎曼理论的现代表述](geometry-19th.supplement.md)。
     step2: |-
-
+      黎曼把高斯（1828）研究嵌入欧几里得空间的曲面内蕴几何时所用方法推广到 *n* 维（所谓“内蕴”，是说它描述曲面自身呈现的度量性质，与曲面在空间中安放的方式无关）。回看高斯的工作，对黎曼的概念会有更佳的直觉（参见 Torretti 1978, pp. 68–82）[^torretti-1978]。不过，为简洁明晰计，莫如向前看，借用后来数学家为索解黎曼方案而引入的某些概念。黎曼理论的现代表述，见补充材料[黎曼理论的现代表述](geometry-19th.supplement.md)。
   - id: 49
     kind: body
     source: |-
       In his study of curved surfaces, Gauss introduced a real-valued function, the *Gaussian curvature*, which measures a surface's local deviation from flatness in terms of the surface's intrinsic geometry. Riemann extended this concept of curvature to Riemannian *n*-manifolds. By using his extended concept of curvature, he was able to characterize with great elegance the metric manifolds in which all figures can freely move around without changing their size and shape. They are the Riemannian manifolds of *constant curvature*. This idea can be nicely combined with Klein's classification of metric geometries. Regarded as Riemannian 3-manifolds, Euclidean space has constant zero curvature, Lobachevskian space has constant negative curvature, and elliptic space has constant positive curvature. Pursuant to the Erlangen Program, each of these geometries of constant curvature is characterized by its own group of isometries. But Klein's conception is too narrow to embrace all Riemannian geometries, which include spaces of variable curvature. Indeed, in the general case, the group of isometries of a Riemannian *n*-manifold is the trivial group consisting of the identity alone, whose structure conveys no information at all about the respective geometry.
     step1: |-
-
+      高斯在研究曲面时引入了一个实值函数，即*高斯曲率*，它以曲面的内蕴几何来衡量曲面局部偏离平坦的程度。黎曼把这一曲率概念推广到黎曼 *n* 流形。借助推广了的曲率概念，他得以极为优雅地刻画这样的度量流形：其中一切图形都可以自由移动而不改变其大小与形状。它们就是*常曲率*的黎曼流形。这个想法可以与克莱因对度量几何的分类美妙地结合起来。若视作黎曼 3 流形，欧几里得空间具有常零曲率，罗巴切夫斯基空间具有常负曲率，椭圆空间具有常正曲率。按照埃尔朗根纲领，这些常曲率几何中的每一种都由其自身的等距变换群所刻画。但克莱因的构想太窄，容纳不了全部黎曼几何，后者包括变曲率空间。事实上，在一般情形下，黎曼 *n* 流形的等距变换群是由恒等映射单独构成的平凡群，其结构根本不能传达有关相应几何的任何信息。
     step2: |-
-
+      高斯研究曲面时引入过一个实值函数——**高斯曲率**，它依曲面的内蕴几何度量曲面局部偏离平坦的程度。黎曼把曲率概念推广到黎曼 *n* 流形。凭推广后的曲率概念，他极为优雅地刻画了这样一类度量流形：其中一切图形皆可自由移动，而大小与形状不变。这便是 **常曲率** 黎曼流形。此想法可与克莱因对度量几何的分类巧妙相合。视作黎曼 3 流形，欧几里得空间曲率恒为零，罗巴切夫斯基空间曲率恒为负，椭圆空间曲率恒为正。依埃尔朗根纲领，这些常曲率几何各由其自身的等距变换群刻画。但克莱因的构想过于狭窄，容纳不下全部黎曼几何，因为后者还包括变曲率空间。事实上，一般情形下，黎曼 *n* 流形的等距变换群是由恒等映射单独构成的平凡群，其结构全然不能透露相应几何的任何信息。
   - id: 50
     kind: body
     source: |-
       ## 6. Lie Groups
     step1: |-
-
+      ## 6. Lie Groups
     step2: |-
-
+      ## 6 李群
   - id: 51
     kind: body
     source: |-
       For a philosopher, the most satisfying feature of the tremendous complication attained by 19th-century mathematics was perhaps the promptness with which the newly created (or discovered?) mathematical structures found their way into empirical science, enabling the intellectual grasp and handling of actual phenomena. We shall wind up this survey of 19th-century geometry with a few light remarks on a particularly rich and fruitful structure that has pride of place in current physics, namely, *Lie groups*, so called after Sophus Lie (1842–1899), the Norwegian mathematician who studied them in depth after 1870. A Lie group is, of course, a group in the algebraic sense we met in §3, that is, a set *G* such that (i) every ordered pair <*x*,*y*> ∈ *G* is associated to a unique element *x* · *y* ∈ *G* (known as the *product* or the *sum* of *x* and *y*); (ii) the product operation is associative, i.e., (*x* · *y*) · *z* = *x* · (*y* · *z*), for every *x*, *y*, *z* ∈ *G*; (iii) there is a one and only one element 0 ∈ *G* such that for every *x* ∈ *G*, *x* · 0 = 0 · *x* = *x* (0 is the *identity* or *neutral element* of *G*); (iv) for every *x* ∈ *G*, there is one and only one element *x*^{−1} ∈ *G* such that *x* · *x*^{−1} = 0 (*x*^{−1} is known as the *inverse* of *x*). But a Lie group is also a smooth manifold, as described in the supplement [A Modern Formulation of Riemann's Theory](geometry-19th.supplement.md): the set *G* can be represented patchwise by systems of real-valued (or alternatively complex-valued) coordinates, mutually linked by well-defined, differentiable coordinate transformations wherever their respective patches overlap. The group and manifold structures of *G* are meshed together by the condition that the product operation is a differentiable mapping of *G* × *G* into *G*.
     step1: |-
-
+      对哲学家来说，19 世纪数学所达到的巨大复杂性中最令人满意的特征，也许莫过于新创造（或发现？）的数学结构如此迅速地进入经验科学，使实际现象得以在理智上被把握和处理。我们将以几句轻松的评述来结束这篇 19 世纪几何学巡览，评述的是一个特别丰富而多产、在当代物理学中占居首席地位的结构，即*李群*；它因索菲斯·李（1842–1899）而得名，这位挪威数学家在 1870 年以后对它作了深入研究。李群当然是我们在 §3 中遇到的那种代数意义上的群，也就是一个集合 *G*，使得 (i) 每个有序对 <*x*,*y*> ∈ *G* 都与 *G* 中唯一一个元素 *x* · *y* 相联系（称为 *x* 与 *y* 的*积*或*和*）；(ii) 积运算可结合，即对每个 *x*、*y*、*z* ∈ *G*，(*x* · *y*) · *z* = *x* · (*y* · *z*)；(iii) 存在唯一一个元素 0 ∈ *G*，使得对每个 *x* ∈ *G*，*x* · 0 = 0 · *x* = *x*（0 是 *G* 的*单位元*或*中性元素*）；(iv) 对每个 *x* ∈ *G*，存在唯一一个元素 *x*^{−1} ∈ *G*，使得 *x* · *x*^{−1} = 0（*x*^{−1} 称为 *x* 的*逆*）。但李群同时也是一个光滑流形，如补充材料[黎曼理论的现代表述](geometry-19th.supplement.md)所述：集合 *G* 可以逐片地用实值（或复值）坐标系表示，这些坐标系在各自的重叠处由良定义的、可微的坐标变换相互联系。*G* 的群结构与流形结构，通过“积运算是 *G* × *G* 到 *G* 的可微映射”这一条件而啮合在一起。
     step2: |-
-
+      对哲学家而言，19 世纪数学所达到的惊人复杂程度，最令人惬意的特征或许是：新创（抑或发现？）的数学结构迅即渗入经验科学，使实际现象得以在理智上被把握、被操作。我们这篇 19 世纪几何学巡览，就以几句闲评作结，评的是一个格外丰饶、在当今物理学中位居要津的结构——**李群**。此名得自索菲斯·李（1842—1899），这位挪威数学家 1870 年后对之深研有得。李群当然是我们在 §3 见过的那种代数意义上的群，即一个集合 *G*，满足：(i) 每个有序对 <*x*,*y*> ∈ *G* 都对应 *G* 中唯一元素 *x* · *y*（称为 *x* 与 *y* 的 **积** 或 **和**）；(ii) 积运算满足结合律，即对一切 *x*、*y*、*z* ∈ *G*，(*x* · *y*) · *z* = *x* · (*y* · *z*)；(iii) 存在唯一元素 0 ∈ *G*，使对一切 *x* ∈ *G* 有 *x* · 0 = 0 · *x* = *x*（0 即 *G* 的 **单位元** 或 **中性元素**）；(iv) 对每个 *x* ∈ *G*，存在唯一元素 *x*^{−1} ∈ *G*，使 *x* · *x*^{−1} = 0（*x*^{−1} 称为 *x* 的 **逆**）。但李群同时还是光滑流形，如补充材料[黎曼理论的现代表述](geometry-19th.supplement.md)所述：集合 *G* 可以逐片用实值（或复值）坐标系表出，各坐标系在其重叠处由良定义的可微坐标变换彼此联系。*G* 的群结构与流形结构，由“积运算是 *G* × *G* 到 *G* 的可微映射”这一条件绾合为一体。
   - id: 52
     kind: body
     source: |-
       A simple, yet important, example of a Lie group is the group SO(2), instantiated by the rotations of the plane about an arbitrary fixed point. The manifold is topologically compact and therefore cannot be covered by a single coordinate patch, but three will suffice: one including, say, all counterclockwise rotations by more than three radians and less than four, which can be naturally coordinatized using the real numbers in the open interval (3,4); another patch comprising the inverses of the former, which can be mapped onto the open interval (−4,−3), and a third one covering all counterclockwise rotations by less than two right angles plus their clockwise inverses, which can be mapped onto the open interval (−π,π). Indeed, all the groups we encountered in §3, which Klein used for characterizing the Euclidean geometry of space and the classical Non-Euclidean geometries, are Lie groups, and their respective smooth manifold structures allow for topological quirks. Thus the Euclidean isometries constitute a disconnected manifold, with mirror reflection not included in the same component as the subgroup of Euclidean motions.
     step1: |-
-
+      一个简单却重要的李群例子是群 SO(2)，由平面绕任意固定点的旋转来实现。该流形在拓扑上是紧的，因此不能由单个坐标片覆盖，但三片就够了：一片包含比如说所有大于三弧度、小于四弧度的逆时针旋转，可以自然地用开区间 (3,4) 中的实数来配置坐标；另一片包含前者的逆，可以映射到开区间 (−4,−3) 上；第三片覆盖所有小于两直角的逆时针旋转及其顺时针逆，可以映射到开区间 (−π,π) 上。的确，我们在 §3 中遇到的所有群——克莱因用它们来刻画空间的欧几里得几何与古典非欧几何——都是李群，而它们各自的光滑流形结构容许一些拓扑上的奇特之处。于是，欧几里得等距变换构成一个不连通的流形，镜面反射与欧几里得运动子群不在同一个连通分支中。
     step2: |-
-
+      李群的一个简单而重要的例子是群 SO(2)，由平面绕任意固定点的旋转实现。其流形在拓扑上紧致，故不能由单片坐标域覆盖，但三片足矣：一片含所有大于三弧度而小于四弧度的逆时针旋转，可自然用开区间 (3,4) 内的实数配置坐标；另一片含前者的逆，可映到开区间 (−4,−3)；第三片覆盖所有小于两直角的逆时针旋转及其顺时针逆，可映到开区间 (−π,π)。确然，§3 中遇到的、克莱因为刻画空间的欧几里得几何与古典非欧几何而用到的那些群，无一不是李群；它们各自的光滑流形结构也容许若干拓扑上的怪癖。于是，欧几里得等距变换构成一个不连通流形，镜面反射与欧几里得运动子群不在同一连通分支。
   - id: 53
     kind: body
     source: |-
       Like all smooth manifolds, a Lie group *G* has a tangent vector space attached to each element. In particular, the tangent space at the neutral element 0 of *G* becomes the *Lie algebra* of *G* by the definition of the so-called *Lie bracket*, a bilinear mapping of *T*₀*G* × *T*₀*G* into *T*₀*G*, which, for all *u*,*v*,*w* in *T*₀*G* satisfies the condition [*u*,*u*] = 0 and the Jacobi identity: [*u*,[*v*,*w*]] + [*v*,[*w*,*u*]] + [*w*,[*u*,*v*]] = 0. The Lie algebra of *G* throws much light on the structure of *G* through the homeomorphic (“exponential”) mapping of a neighborhood of 0 ∈ *T*₀*G* into a neighborhood of 0 ∈ *G*.
     step1: |-
-
+      像所有光滑流形一样，李群 *G* 的每个元素都附着一个切向量空间。特别是，*G* 的中性元素 0 处的切空间，通过所谓*李括号*的定义而成为 *G* 的*李代数*：李括号是 *T*₀*G* × *T*₀*G* 到 *T*₀*G* 的双线性映射，对 *T*₀*G* 中所有 *u*、*v*、*w* 满足条件 [*u*,*u*] = 0 以及雅可比恒等式：[*u*,[*v*,*w*]] + [*v*,[*w*,*u*]] + [*w*,[*u*,*v*]] = 0。*G* 的李代数通过把 0 ∈ *T*₀*G* 的一个邻域同胚（“指数”）映射到 0 ∈ *G* 的一个邻域，大大照亮了 *G* 的结构。
     step2: |-
-
+      与一切光滑流形一样，李群 *G* 的每个元素都附着一个切向量空间。尤其是，*G* 的中性元素 0 处的切空间，借所谓 **李括号** 的定义成为 *G* 的 **李代数**：李括号是 *T*₀*G* × *T*₀*G* 到 *T*₀*G* 的双线性映射，对 *T*₀*G* 中一切 *u*、*v*、*w* 满足 [*u*,*u*] = 0 及雅可比恒等式 [*u*,[*v*,*w*]] + [*v*,[*w*,*u*]] + [*w*,[*u*,*v*]] = 0。*G* 的李代数经 0 ∈ *T*₀*G* 某邻域到 0 ∈ *G* 某邻域的同胚（“指数”）映射，把 *G* 的结构照得格外分明。
   - id: 54
     kind: body
     source: |-
       In the supplement [A Modern Formulation of Riemann's Theory](geometry-19th.supplement.md) we touch on the idea of a *fiber bundle*, formed by two smooth manifolds *F* and *M*, bound together by a “projection” mapping π of *F* onto *M*, which partitions the manifold *F* into “fibers”, mapped by π to the different points of *M*. A fiber bundle <*F*,*M*,π> becomes a *principal fiber bundle* <*F*,*M*,π,*G*> if a Lie group *G*, known as the bundle's *structure group*, acts on *F* in such a way that each fiber of *F* is an orbit of the action and a few other conditions are met. For instance, the Lorentz group is the structure group of the principal fiber bundle of tetrads (orthonormal 4-tuples of tangent vectors at each point) on any relativistic spacetime, no matter how bizarre. In such ways, Lie groups provide a means of unifying the many models allowed by a physical theory and of introducing some degree of homogeneity among them.
     step1: |-
-
+      在补充材料[黎曼理论的现代表述](geometry-19th.supplement.md)中，我们触及了*纤维丛*的观念：它由两个光滑流形 *F* 与 *M* 构成，并由 *F* 到 *M* 上的“投影”映射 π 结合起来，π 把流形 *F* 划分为若干“纤维”，分别映到 *M* 的不同点上。若一个李群 *G*（称为丛的*结构群*）作用于 *F*，使得 *F* 的每个纤维都是该作用的一条轨道，并满足另外几个条件，纤维丛 <*F*,*M*,π> 就成为*主纤维丛* <*F*,*M*,π,*G*>。例如，洛伦兹群是任何相对论时空上标架丛（每点的正交归一切向量四元组）的主纤维丛的结构群，无论该时空多么奇异。李群就这样提供了一种手段，把物理理论所容许的众多模型统一起来，并在它们之间引入某种程度的齐一性。
     step2: |-
-
+      补充材料[黎曼理论的现代表述](geometry-19th.supplement.md)触及 **纤维丛** 的观念：它由两个光滑流形 *F* 与 *M* 组成，借 *F* 到 *M* 上的“投影”映射 π 绾结在一起，π 把流形 *F* 分划为若干“纤维”，分别映到 *M* 的各个点。若有一李群 *G*（称为该丛的 **结构群**）作用于 *F*，使 *F* 的每一纤维皆为该作用的一条轨道，并满足另外几个条件，纤维丛 <*F*,*M*,π> 便成为 **主纤维丛** <*F*,*M*,π,*G*>。例如，洛伦兹群乃是任何相对论时空上标架丛（每点处正交归一切向量的四元组）之主纤维丛的结构群，无论该时空何等怪异。李群即以此种方式，把一物理理论所容许的众多模型统一起来，并在其间引入某种齐一性。
   - id: 55
     kind: body
     source: |-
       During the last third of the 20th-century, fibre bundles and their Lie groups have virtually taken over fundamental physics. This is not the place to explain how or why, but the unstoppable evolution of physics towards ever more mathematically sophisticated, *prima facie* less straightforward representations of its subject-matter, deserves the attention of philosophers. It is clear that the concept of a definite stable thing out there, which might, at least in principle, be held and manipulated, is no longer so serviceable to us as it was once to our flint-carving ancestors.
     step1: |-
-
+      在 20 世纪最后三分之一的时间里，纤维丛及其李群实际上接管了基础物理学。这里不是解释如何或为何的地方，但物理学不可阻挡地走向对其主题越来越数学精致、*prima facie* 却不那么直截了当的表述，这一点值得哲学家注意。显然，“外面”有一个确定而稳定的东西、至少原则上可以被持握和操纵，这一概念对我们已不再像当年对我们那些打制燧石器的祖先那样有用了。
     step2: |-
-
+      20 世纪最后三分之一的时间里，纤维丛连同其李群几乎接管了基础物理学。此中缘由与本末，非此处所能详；但物理学不可遏止地走向数学上愈益精致、而 *prima facie* 愈不直截了当的表述，这一演进值得哲学家留意。显而易见，“外面”存在某个确定而稳定的东西、至少原则上可持可弄，这一观念对我们已不复如对打制燧石器的先人那般管用。
   - id: 56
     kind: oir
     source: |-
       [Please contact the author with suggestions.]
     step1: |-
-
+      [Please contact the author with suggestions.]
     step2: |-
-
+      [欢迎向作者提出建议。]
   - id: 57
     kind: ack
     source: |-
       I thank John Norton for the illustrations and for ideas leading to a better presentation of some mathematical concepts. I am also very grateful to Edward Zalta for his painstaking editorial work and for having identified and firmly rejected a murky passage in the first version of this article. [Added in 2003:] I thank John Corcoran for his very apt critical comments, which prompted changes in several passages of the 1999 text.
     step1: |-
-
+      我感谢约翰·诺顿提供插图，并感谢他提出了一些想法，使某些数学概念得到更好的呈现。我也非常感谢爱德华·扎尔塔细致的编辑工作，以及他找出并坚决否弃了本文初版中一段含混不清的文字。[2003 年增补：]我感谢约翰·科科兰非常中肯的批评意见，它们促成了 1999 年文本中若干段落的修改。
     step2: |-
-
+      插图承约翰·诺顿 John Norton 惠赐，某些数学概念之所以能呈现得更好，亦多亏他的想法，谨致谢忱。我也十分感谢爱德华·扎尔塔 Edward Zalta 一丝不苟的编辑工作，以及他找出并断然剔除本文初版中一段晦涩文字。[2003 年补记：]约翰·科科兰 John Corcoran 的批评意见极为切中肯綮，促成 1999 年文本多处修改，谨此致谢。
