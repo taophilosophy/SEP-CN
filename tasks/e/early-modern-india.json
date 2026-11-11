@@ -2,7 +2,7 @@
   "slug": "early-modern-india",
   "kind": "retranslate",
   "zh_doc": "e/early-modern-india.md",
-  "state": "s2_checked",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -73,6 +73,13 @@
       "actor": "E-main-20261111",
       "at": "2026-11-11T12:22:03Z",
       "evidence": "s2 语言实修：check_prose --strict 57→5（实修约 50 处：长句拆分 6、de-chain 改写 30 余、被字句改“受/呈现”6、弱动词 4、作为直译 1、们 1）；余 5 条留痕豁免（ADR-0020）：行 15 “被定义项”为术语非被动、行 111 “进行下去”为实义动词、行 410 “可名的/可知的”为引文内例词、行 134/554 为整段引文；行文全程现代白话，无文言句式（ADR-0033）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "E-main-20261111",
+      "at": "2026-11-11T12:52:26Z",
+      "evidence": "s3 收口四检全绿：check_style --strict 0 issue；check_academic --strict OK（无硬错误）；check_math missing/unbalanced 0；check_summary 本词条无 MISMATCH、check_mulu_s 0 硬错误；check_terms 无本词条 orig-missing 新增"
     }
   ],
   "blockers": [],
