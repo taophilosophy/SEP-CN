@@ -2,7 +2,7 @@
   "slug": "risk",
   "kind": "retranslate",
   "zh_doc": "r/risk.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "R-main-20261111",
       "at": "2026-11-11T04:09:45Z",
       "evidence": "复审（逐句回核原文与逻辑，全文 7 节 332 行）：修改 0 处（r1 三处修复已在位）。核销范围与结果——①术语主形：风险厌恶/风险偏好/风险中性/确定性等值/前景理论/决策权重/秩依概率效用（anticipated utility → 预期效用，expected utility → 期望效用，两形分立不混）/预防原则/固有安全/安全系数/多重屏障/归纳风险/认知风险/风险感知/支付意愿/生命价值，与登记册一致。②数字多重集：正文无缺项；「1 in 1000／1 in 100000」作「千分之一／十万分之一」（中文数词，语义等值）；「10,000 × $400 = $4,000,000」逐字符保留；€100/€30、10/5/3 尤特尔、0.9/0.01、2%→1%、51%→50% 全部对位。③年份与页码：Hempel 1965, 92；Nozick 1974, 74 与 75；Pritchard 2016, 562；Hansson 2013, 49–51 逐一对位。④人名 30 条照登记册（诺齐克/罗尔斯/海萨尼/卡尼曼/特沃斯基/费尔纳/奎金/费舍伯恩/马科维茨/托宾/罗斯柴尔德/斯蒂格利茨/阿罗/普拉特/谢林/兰德尔相关译名）。⑤check_prose 0、check_terms 硬错误 0。⑥图片与公式在 r1 已核（形态见 r1 凭证）。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "R-main-20261111",
+      "at": "2026-11-11T08:14:46Z",
+      "evidence": "终审（冷置回读，初译 s3 2026-11-09T06:47Z → 本次 2026-11-11T08:08Z，间隔约 49 小时，其间经 ramsey/ricoeur 作业）：结构完整性终验 7 节顺序与源一致、H2 11:11/H3 12:12、脚注 59:59、defs 91:91、$ 63:63、图片 ../yuanwen/assets/risk/figure1.png 解析通过（14,087 B）；H1 与 SUMMARY 逐字一致（风险 risk (Sven Ove Hansson)）；列表编号照源（源全为 1.，末项无句点）。四检全绿：check_style 0、check_prose 0、check_academic --strict OK、check_math missing 0（unbalanced 1 为源侧 $1 货币启发式假阳性，s3 已留痕）；check_terms 硬错误 0。语体核验：现代论说文体，引文（诺齐克等）照录，无直角引号/文言腔；check_images 悬空 0。r1–r3 由本会话（非初译 qr-translator-1）执行，独立性满足。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "R-main-20261111",
+      "at": "2026-11-11T08:14:46Z",
+      "evidence": "收口：九步齐备（clear/draft/s1/s2/s3/r1/r2/r3/done），四检与 check_terms 全绿，结构五维对账全等，R 批 s3_checked 存量清零一条。"
     }
   ],
   "blockers": [],

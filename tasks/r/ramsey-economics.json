@@ -2,7 +2,7 @@
   "slug": "ramsey-economics",
   "kind": "retranslate",
   "zh_doc": "r/ramsey-economics.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "R-main-20261111",
       "at": "2026-11-11T04:09:44Z",
       "evidence": "复审（逐句回核原文与逻辑，全文 9 节 343 行）：修改 0 处（r1 条件句修复已在位，复查通过）。核销范围与结果——①术语：拉姆齐规则/赶超标准/横截条件/核算价格/至福/官邸功利主义/同数选择/代际公平/社会贴现率/消费利息率/时间贴现率/边际福祉/储蓄率/福利经济学/社会成本—收益分析等 17 条主形与 yi-zhe-shuo-ming.md 登记行逐条一致；well-being 67 处统一译「福祉」、utility 仅 3 处语境译「效用」（训释效用/未来效用/效用总和），无漂移。②数字与年份多重集比对：正文无缺项；dst 多出者全为版本事实行（2019-06-01/2023-06-02）与中文日期形所致，非误译。③引文页码：Sidgwick 1907: 414、Ramsey 1928: 543 与 553–555、Harrod 1948: 40、Solow 1974a: 9 逐一对位。④人名 20 条照登记册（西季威克/埃奇沃思/帕菲特/科普曼斯/冯·魏茨泽克/哈罗德/索洛/戴蒙德/雅里/查克拉瓦蒂/盖尔/米尔利斯/米德/阿罗/库尔茨/斯特恩/克莱因/诺德豪斯/利特尔/戴斯古普塔）。⑤欧化句与指代：check_prose 0 告警；check_terms 硬错误 0（告警为 defs 照录英文与 first_seen 多 slug 的既有噪声）。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "R-main-20261111",
+      "at": "2026-11-11T08:12:19Z",
+      "evidence": "终审（冷置回读，初译 s3 2026-11-11T00:42Z → 本次 2026-11-11T08:07Z，间隔约 7.5 小时，其间经 risk/ricoeur 两条作业）：结构完整性终验 9 节顺序与源一致（源 ## Notes 与 ## Notes to … 合并为 ## 脚注，属镜像转换重复）、H2 9:9/H3 10:10、脚注 26:26、defs 40:40；H1 与 SUMMARY 主行逐字一致（拉姆齐与代际福利经济学 Ramsey and Intergenerational Welfare Economics (Partha Dasgupta)）；公式 \\tag 1–21c 全在、$ 670:670。四检全绿：check_style 0、check_prose 0、check_academic --strict OK、check_math missing 0（unbalanced 1 为源侧货币启发式假阳性）；check_terms 硬错误 0。语体核验：现代经济学论说文体，引文照录，无直角引号/文言腔。r1–r3 均由本会话（非初译 actor）执行，复核独立性满足。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "R-main-20261111",
+      "at": "2026-11-11T08:12:19Z",
+      "evidence": "收口：九步齐备（clear/draft/s1/s2/s3/r1/r2/r3/done），批次账本 advance r 计数。交付判据：s3_checked→done，四检与 check_terms 全绿，结构五维对账全等。"
     }
   ],
   "blockers": [],
