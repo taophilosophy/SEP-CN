@@ -1,0 +1,313 @@
+{
+ "key": "pathology",
+ "term": "pathology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T13:18:44+00:00",
+ "status": "ok",
+ "note": "variant=pathology; 审定公布名词库=177; 海峡两岸名词对照库=19; 其他来源数据库=10; 预公布名词数据库=9; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "病理学",
+   "en": "pathology",
+   "code": "10.001",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医病理及病理生理学"
+  },
+  {
+   "cn": "病理学",
+   "en": "pathology",
+   "code": "01.001",
+   "standard": "病理学名词",
+   "subject": "病理学_总论"
+  },
+  {
+   "cn": "病理学各论",
+   "en": "special pathology,systematic pathology",
+   "code": "01.008",
+   "standard": "病理学名词",
+   "subject": "病理学_总论"
+  },
+  {
+   "cn": "病理学各论",
+   "en": "special pathology,systematic  pathology",
+   "code": "03.007",
+   "standard": "医学名词 第三分册",
+   "subject": "医学_病理学"
+  },
+  {
+   "cn": "病理科",
+   "en": "pathology laboratory",
+   "code": "02.0567",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑类型及组成_医疗卫生建筑"
+  },
+  {
+   "cn": "植物病理学",
+   "en": "plant pathology",
+   "code": "01.116",
+   "standard": "农学名词",
+   "subject": "总论_农业科学"
+  },
+  {
+   "cn": "兽医病理学",
+   "en": "veterinary pathology",
+   "code": "10.002",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医病理及病理生理学"
+  },
+  {
+   "cn": "病理学总论",
+   "en": "general pathology",
+   "code": "10.007",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医病理及病理生理学"
+  },
+  {
+   "cn": "病理学各论",
+   "en": "special pathology",
+   "code": "10.008",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医病理及病理生理学"
+  },
+  {
+   "cn": "大体病理学",
+   "en": "gross pathology",
+   "code": "10.009",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医病理及病理生理学"
+  },
+  {
+   "cn": "亚细胞病理学",
+   "en": "subcellular pathology",
+   "code": "10.012",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医病理及病理生理学"
+  },
+  {
+   "cn": "分子病理学",
+   "en": "molecular pathology",
+   "code": "10.013",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医病理及病理生理学"
+  },
+  {
+   "cn": "病理学",
+   "en": "pathology",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "细胞病理学",
+   "en": "cellular pathology",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "气候病理学",
+   "en": "climatic pathology",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "鱼类病理学",
+   "en": "fish pathology",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "毒理病理学",
+   "en": "toxicological pathology",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "昆虫病理学",
+   "en": "insect pathology",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "病理性多精受精",
+   "en": "pathologic polyspermy",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "病理生物气象学",
+   "en": "pathological biometerology",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "病态性赌博",
+   "en": "pathological gambling",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "植物病理学",
+   "en": "plant pathology\",\"phytopathology",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "细胞病理学",
+   "en": "cell pathology\",\"cytopathology",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "植物病理解剖学",
+   "en": "plant pathological anatomy",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "病理",
+   "en": "pathology",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "医学词汇_病理症状"
+  },
+  {
+   "cn": "病理学",
+   "en": "Pathology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "龋齿",
+   "en": "Periodontal pathology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "骨折",
+   "en": "Pathologic fracture",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数字病理图像分析",
+   "en": "analysis of digital pathological images",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "岩石学",
+   "en": "Petrology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "动物行为学",
+   "en": "Ethology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "激活数据学",
+   "en": "Activation Dataology",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "神话",
+   "en": "Religion and mythology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "总集",
+   "en": "General Collection / Anthology",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "社会病理学",
+   "en": "social pathology",
+   "code": "2.1.7.14",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会意识"
+  },
+  {
+   "cn": "病理性废物",
+   "en": "pathological waste",
+   "code": "7.2.3",
+   "standard": "消毒学",
+   "subject": "消毒学_其他_医疗废物"
+  },
+  {
+   "cn": "病理性老化",
+   "en": "pathological aging",
+   "code": "3.15.1.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_老年和老龄化研究_个人老化"
+  },
+  {
+   "cn": "病理性骨折",
+   "en": "pathological fracture",
+   "code": "2.18.1.12",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_骨及关节疾病"
+  },
+  {
+   "cn": "病理性近视",
+   "en": "pathological myopia",
+   "code": "3.2.2.4.1.6",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测"
+  },
+  {
+   "cn": "放射性骨折",
+   "en": "radiation pathological fracture",
+   "code": "4.2.4.15.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射性疾病"
+  },
+  {
+   "cn": "科学的社会病状",
+   "en": "social pathologies of science",
+   "code": "3.10.4.27",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学科学社会学"
+  },
+  {
+   "cn": "妊娠期病理性高脂血症",
+   "en": "pathological hyperlipidemia during pregnancy",
+   "code": "6.1.3.2.4",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇女营养"
+  },
+  {
+   "cn": "神话学派",
+   "en": "School of Mythology",
+   "code": "4.0437",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_分支学科与研究领域"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

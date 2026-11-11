@@ -1,0 +1,432 @@
+{
+ "key": "positive/negative/neutral/hypothetical analogy",
+ "term": "positive / negative / neutral / hypothetical analogy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T14:11:17+00:00",
+ "status": "ok",
+ "note": "variant=positive; 审定公布名词库=1240; 海峡两岸名词对照库=400; 其他来源数据库=138; 预公布名词数据库=26; variant=negative; 审定公布名词库=933; 海峡两岸名词对照库=321; 其他来源数据库=18; 预公布名词数据库=45; variant=neutral; 审定公布名词库=2478; 海峡两岸名词对照库=760; 其他来源数据库=115; 预公布名词数据库=150; variant=hypothetical analogy; 审定公布名词库=291; 海峡两岸名词对照库=118; 其他来源数据库=18; 预公布名词数据库=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "正片",
+   "en": "positive",
+   "code": "03.062",
+   "standard": "测绘学名词",
+   "subject": "测绘学_摄影测量学与遥感"
+  },
+  {
+   "cn": "肯定[的]",
+   "en": "affirmative,positive",
+   "code": "01.0066",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "胎位",
+   "en": "position",
+   "code": "01.051",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医产科学"
+  },
+  {
+   "cn": "体位",
+   "en": "position",
+   "code": "4.051",
+   "standard": "消化内镜学名词",
+   "subject": "消化内镜学_消化内镜管理_患者管理"
+  },
+  {
+   "cn": "就位",
+   "en": "position",
+   "code": "04.742",
+   "standard": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "subject": "化工（五）_工程建设_施工过程"
+  },
+  {
+   "cn": "对准",
+   "en": "position",
+   "code": "05.1017",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_生产运作管理与工业工程_工业工程"
+  },
+  {
+   "cn": "头寸",
+   "en": "position",
+   "code": "07.0037",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_金融工程_基本概念"
+  },
+  {
+   "cn": "职位",
+   "en": "position",
+   "code": "11.0349",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_公共管理_政府管理"
+  },
+  {
+   "cn": "位",
+   "en": "position",
+   "code": "08.045",
+   "standard": "电子学名词",
+   "subject": "电子学_机电元及其他电子元件"
+  },
+  {
+   "cn": "定位",
+   "en": "positioning",
+   "code": "04.0487",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机硬件_存储设备"
+  },
+  {
+   "cn": "摆位",
+   "en": "positioning",
+   "code": "03.0275",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学设备与操作_成像设备"
+  },
+  {
+   "cn": "就位",
+   "en": "positioning",
+   "code": "06.236",
+   "standard": "土木工程名词",
+   "subject": "土木工程_桥梁工程_桥梁施工"
+  },
+  {
+   "cn": "阳",
+   "en": "positive",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "正",
+   "en": "positive",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "正片",
+   "en": "positive",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "把位",
+   "en": "position",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "定位",
+   "en": "○1position fixing○2 positioning",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "点位数据资料",
+   "en": "position data\",\"position reference",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "动态定位",
+   "en": "dynamic positioning\",\"kinematic positioning",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "正趋化性",
+   "en": "positive chemotaxis",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "正染色",
+   "en": "positive staining",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "正反馈",
+   "en": "positive feedback",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "正干涉",
+   "en": "positive interference",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "正向重力性",
+   "en": "positive gravitropism",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跳水名词"
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_举重名词"
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_篮球名词"
+  },
+  {
+   "cn": "跪撑开始姿势!",
+   "en": "Position!",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "预备姿势",
+   "en": "alert position\",\"anticipatory position\",\"ready position\",\"waiting position",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "站姿",
+   "en": "standing position\",\"upright position",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "蹲踞姿势",
+   "en": "squat position\",\"tuck position",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "正面启发法",
+   "en": "positive heuristic",
+   "code": "03.162",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向"
+  },
+  {
+   "cn": "正外部效应",
+   "en": "positive externality",
+   "code": "6.2.2.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场"
+  },
+  {
+   "cn": "积极情绪",
+   "en": "positive emotion",
+   "code": "2.5.8.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_心理行为发育"
+  },
+  {
+   "cn": "阳性偏差",
+   "en": "positive deviation",
+   "code": "1.5.50",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险监测"
+  },
+  {
+   "cn": "阶级位置",
+   "en": "class position",
+   "code": "2.6.5.15",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_阶级"
+  },
+  {
+   "cn": "喂哺姿势",
+   "en": "feeding position",
+   "code": "6.2.2.3",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇幼营养_儿童营养"
+  },
+  {
+   "cn": "阵地战",
+   "en": "positional war",
+   "code": "05.0008",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "积极健康观",
+   "en": "positive health view",
+   "code": "1.1.8.2",
+   "standard": "社会医学名词",
+   "subject": "社会医学概述"
+  },
+  {
+   "cn": "无条件积极关注",
+   "en": "unconditional positive regard",
+   "code": "6.5.1.5.3.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务"
+  },
+  {
+   "cn": "党员主体地位",
+   "en": "Partys principal position",
+   "code": "03.0775",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "持续性枕横位",
+   "en": "persistent occipitotransverse position",
+   "code": "3.5.3.12",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_孕产期保健"
+  },
+  {
+   "cn": "持续性枕后位",
+   "en": "persistent occipitoposterior position",
+   "code": "3.5.3.13",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_孕产期保健"
+  },
+  {
+   "cn": "负片",
+   "en": "negative",
+   "code": "03.060",
+   "standard": "测绘学名词",
+   "subject": "测绘学_摄影测量学与遥感"
+  },
+  {
+   "cn": "负片",
+   "en": "negative",
+   "code": "04.0793",
+   "standard": "物理学名词",
+   "subject": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学"
+  },
+  {
+   "cn": "否定[的]",
+   "en": "negative",
+   "code": "01.0067",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "负调控",
+   "en": "negative regulation;negative control",
+   "code": "5.045",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复"
+  },
+  {
+   "cn": "负均衡",
+   "en": "negative balance",
+   "code": "16.05.061",
+   "standard": "地质学名词",
+   "subject": "地质学_水文地质学_水文地质调查"
+  },
+  {
+   "cn": "消极空间",
+   "en": "negative space",
+   "code": "07.0030",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林建筑_基础知识"
+  },
+  {
+   "cn": "负反馈",
+   "en": "negative feedback",
+   "code": "01.057",
+   "standard": "内分泌代谢病学名词",
+   "subject": "总论_激素_激素分泌方式与作用机制"
+  },
+  {
+   "cn": "负［向］选择",
+   "en": "negative selection",
+   "code": "06.032",
+   "standard": "农学名词",
+   "subject": "作物基因组学与遗传育种_作物起源进化与多样性"
+  },
+  {
+   "cn": "负催化",
+   "en": "negative catalysis",
+   "code": "08.0327",
+   "standard": "精细化工名词",
+   "subject": "精细化工_其他精细化学品_催化剂"
+  },
+  {
+   "cn": "负吸附",
+   "en": "negative adsorption",
+   "code": "08.0329",
+   "standard": "精细化工名词",
+   "subject": "精细化工_其他精细化学品_催化剂"
+  },
+  {
+   "cn": "负趋性",
+   "en": "negative taxis",
+   "code": "10.117",
+   "standard": "农学名词",
+   "subject": "植物保护_作物虫害"
+  },
+  {
+   "cn": "负反馈",
+   "en": "negative feedback",
+   "code": "10.0027",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_新陈代谢_概述_水溶性维生素"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

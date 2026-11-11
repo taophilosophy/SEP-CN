@@ -1,0 +1,348 @@
+{
+ "key": "phylogenetic relatedness",
+ "term": "phylogenetic relatedness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T13:47:16+00:00",
+ "status": "ok",
+ "note": "variant=phylogenetic relatedness; 审定公布名词库=690; 海峡两岸名词对照库=170; 其他来源数据库=48; 预公布名词数据库=62; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "系统发生学",
+   "en": "phylogenetics",
+   "code": "2.0008",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_动物分类学"
+  },
+  {
+   "cn": "系统发生学",
+   "en": "phylogenetics",
+   "code": "02.0004",
+   "standard": "植物学名词",
+   "subject": "植物学_系统与进化植物学"
+  },
+  {
+   "cn": "系统发生学",
+   "en": "phylogenetics",
+   "code": "07.086",
+   "standard": "遗传学名词",
+   "subject": "遗传学_进化遗传学"
+  },
+  {
+   "cn": "系统发生学",
+   "en": "phylogenetics",
+   "code": "04.041",
+   "standard": "生态学名词",
+   "subject": "生态学_进化生态学"
+  },
+  {
+   "cn": "系统发生学",
+   "en": "phylogenetics",
+   "code": "02.009",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫分类与进化"
+  },
+  {
+   "cn": "系统发生分析",
+   "en": "phylogenetic analysis",
+   "code": "2.0161",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_系统发生分析"
+  },
+  {
+   "cn": "系统发生树",
+   "en": "phylogenetic tree",
+   "code": "2.0165",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_系统发生分析"
+  },
+  {
+   "cn": "谱系趋异",
+   "en": "phylogenetic divergence",
+   "code": "02.0186",
+   "standard": "植物学名词",
+   "subject": "植物学_系统与进化植物学"
+  },
+  {
+   "cn": "系统发育种",
+   "en": "phylogenetic species",
+   "code": "02.0066",
+   "standard": "植物学名词",
+   "subject": "植物学_系统与进化植物学"
+  },
+  {
+   "cn": "谱系进化趋势",
+   "en": "phylogenetic trend",
+   "code": "02.0184",
+   "standard": "植物学名词",
+   "subject": "植物学_系统与进化植物学"
+  },
+  {
+   "cn": "系统发育分类",
+   "en": "phylogenetic classification",
+   "code": "02.0021",
+   "standard": "植物学名词",
+   "subject": "植物学_系统与进化植物学"
+  },
+  {
+   "cn": "系统发育分析",
+   "en": "phylogenetic analysis",
+   "code": "02.0220",
+   "standard": "植物学名词",
+   "subject": "植物学_系统与进化植物学"
+  },
+  {
+   "cn": "谱系发生学（=系统发生学）",
+   "en": "phylogenetics",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "系统发生学，种系发生学，谱系发生学",
+   "en": "phylogenetics",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "种系发生学（=系统发生学）",
+   "en": "phylogenetics",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "系统发生学",
+   "en": "phylogenetics",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "系统发育学",
+   "en": "phylogenetics",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "系统发生学",
+   "en": "phylogenetics",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "系统发生学",
+   "en": "phylogenetics",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "系统发生学",
+   "en": "phylogenetics",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "进化分析（=系统发育分析）",
+   "en": "phylogenetic analysis",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "系统发育分类，种系发生分类",
+   "en": "phylogenetic classification",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "系统发育分析，种系发生分析，进化分析",
+   "en": "phylogenetic analysis",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "种系发生分类（=系统发育分类）",
+   "en": "phylogenetic classification",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "系统发生学",
+   "en": "phylogenetics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "支序图",
+   "en": "computational phylogenetics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "属",
+   "en": "Computational phylogenetics#Evaluating tree support",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "关系模型",
+   "en": "Relational model",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "模糊规则",
+   "en": "Fuzzy relation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "人伦",
+   "en": "Human Relations",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "等价关系",
+   "en": "Equivalence relation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "公共关系",
+   "en": "Public Relations",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "关系数据库",
+   "en": "relational database",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "关系羊群",
+   "en": "relational herding",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "关系数据库",
+   "en": "Relational database",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "爱因斯坦关系",
+   "en": "Einstein relation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "联系",
+   "en": "relation",
+   "code": "01.0031",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "普遍联系",
+   "en": "universal relation",
+   "code": "01.0032",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relations",
+   "code": "03.0156",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "土地关系",
+   "en": "agrarian relation",
+   "code": "03.0184",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "宗法关系",
+   "en": "patriarchal relations",
+   "code": "04.0024",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_马克思恩格斯时期"
+  },
+  {
+   "cn": "人伦",
+   "en": "human relations",
+   "code": "1.075",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "民族关系",
+   "en": "ethnic relation",
+   "code": "2.0008",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族理论_基本概念"
+  },
+  {
+   "cn": "关系取向",
+   "en": "relation orientation",
+   "code": "1.0641",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "消毒相关用品",
+   "en": "disinfection related supplies",
+   "code": "3.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品"
+  },
+  {
+   "cn": "任务相关监测",
+   "en": "task-related monitoring",
+   "code": "5.4.2.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测类型"
+  },
+  {
+   "cn": "关系合同理论",
+   "en": "relational contract theory",
+   "code": "3.5.3.60",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_经济社会学_新经济社会学"
+  },
+  {
+   "cn": "代际关系",
+   "en": "relation between generations",
+   "code": "3.15.6.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

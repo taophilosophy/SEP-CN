@@ -1,0 +1,348 @@
+{
+ "key": "partial propositional calculus",
+ "term": "partial propositional calculus",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T13:11:14+00:00",
+ "status": "ok",
+ "note": "variant=partial propositional calculus; 审定公布名词库=2136; 海峡两岸名词对照库=566; 其他来源数据库=46; 预公布名词数据库=43; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "code": "02.0937",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_程序理论"
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "code": "02.0022",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "命题演算",
+   "en": "proposition calculus",
+   "code": "11.097",
+   "standard": "语言学名词",
+   "subject": "语言学_计算语言学_形式化方法"
+  },
+  {
+   "cn": "命题μ演算",
+   "en": "propositional μ-calculus",
+   "code": "02.0934",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_程序理论"
+  },
+  {
+   "cn": "部分鹿角形肾结石",
+   "en": "partial staghorn calculus",
+   "code": "06.064",
+   "standard": "泌尿外科学名词",
+   "subject": "泌尿外科学_尿石症"
+  },
+  {
+   "cn": "命题",
+   "en": "proposition",
+   "code": "01.0014",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "微积分[学]",
+   "en": "calculus",
+   "code": "05.0070",
+   "standard": "数学名词",
+   "subject": "数学_分析学_分析学基础·实分析"
+  },
+  {
+   "cn": "π演算",
+   "en": "π-calculus",
+   "code": "02.0952",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_程序理论"
+  },
+  {
+   "cn": "λ演算",
+   "en": "λ-calculus",
+   "code": "02.0130",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "λ演算",
+   "en": "λ-calculus,lambda-calculus",
+   "code": "02.0231",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_递归论"
+  },
+  {
+   "cn": "命题态度",
+   "en": "propositional attitudes",
+   "code": "03.520",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学"
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "code": "02.540",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "微积分",
+   "en": "calculus",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "命题逻辑",
+   "en": "propositional logic",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "归纳命题",
+   "en": "inductive proposition",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "尿石",
+   "en": "urinary calculus",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "变分微积分",
+   "en": "variational calculus",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "符号演算",
+   "en": "symbolic calculus",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "关系演算",
+   "en": "relational calculus",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "逻辑演算",
+   "en": "logic calculus",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "情景演算",
+   "en": "situation calculus",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "谓词演算",
+   "en": "predicate calculus",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "命题",
+   "en": "proposition",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "广义函数",
+   "en": "Operational calculus",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "微分学",
+   "en": "Differential calculus",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "狄拉克δ函数",
+   "en": "operational calculus",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "气体分压",
+   "en": "partial pressure",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "部分熔融",
+   "en": "partial melting",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "部分激动剂",
+   "en": "partial agonist",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "分段用时",
+   "en": "partial time",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "分段时间",
+   "en": "partial time",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "微积分基本定理",
+   "en": "Fundamental theorem of calculus",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "偏微分方程",
+   "en": "partial differential equation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "分段平均成绩",
+   "en": "partial average time",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "偏相关",
+   "en": "partial correlation",
+   "code": "1.2.5.77",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "部分母乳喂养",
+   "en": "partial breastfeeding",
+   "code": "6.1.4.3.3",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇女营养"
+  },
+  {
+   "cn": "水蒸气分压",
+   "en": "partial vapor pressure",
+   "code": "4.2.2.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_热区军事卫生_热环境"
+  },
+  {
+   "cn": "部分阴性分析法",
+   "en": "partial negative analysis",
+   "code": "3.1.5.11",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "部分隔离屏障",
+   "en": "partial isolated barrier",
+   "code": "7.4.4.1.2",
+   "standard": "消毒学",
+   "subject": "消毒学_其他_消毒服务机构"
+  },
+  {
+   "cn": "局部照射",
+   "en": "partial body irradiation",
+   "code": "6.1.4.5.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_照射分类_部位分类"
+  },
+  {
+   "cn": "部分缓解",
+   "en": "partial response，PR",
+   "code": "1.6.2.4",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的疾病评估_预后与转归"
+  },
+  {
+   "cn": "部分积累制",
+   "en": "partial accumulation system",
+   "code": "11.5.1.6",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_健康保险_健康保险筹资与运行"
+  },
+  {
+   "cn": "部分积累制",
+   "en": "partially funded system",
+   "code": "3.18.2.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_社会保障_社会保险"
+  },
+  {
+   "cn": "部分水解乳蛋白",
+   "en": "partially hydrolyzed milk proteins",
+   "code": "3.4.65",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物过敏"
+  },
+  {
+   "cn": "乳蛋白部分水解配方",
+   "en": "lactoprotein partially-hydrolyzed formula",
+   "code": "5.22.2.10",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_特殊食品"
+  },
+  {
+   "cn": "动脉血氧分压",
+   "en": "arterial oxygen partial pressure, PaO2",
+   "code": "5.1.1.6",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_高原军事卫生_高原"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

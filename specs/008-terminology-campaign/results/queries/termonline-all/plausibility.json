@@ -1,0 +1,40 @@
+{
+ "key": "plausibility",
+ "term": "plausibility",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T13:57:47+00:00",
+ "status": "ok",
+ "note": "variant=plausibility; 审定公布名词库=2; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "似真推理",
+   "en": "plausible inference",
+   "code": "03.255",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "似然推理",
+   "en": "plausible inference",
+   "code": "09.045",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_智能化工制造系统"
+  },
+  {
+   "cn": "似真性排序",
+   "en": "plausibility ordering",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "似真推理",
+   "en": "plausible reasoning",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
