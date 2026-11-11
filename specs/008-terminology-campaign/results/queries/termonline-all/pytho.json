@@ -1,0 +1,40 @@
+{
+ "key": "pytho",
+ "term": "Pytho",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T17:02:42+00:00",
+ "status": "ok",
+ "note": "variant=Pytho; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=1; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "蟒袍",
+   "en": "mang pao;python robe",
+   "code": "1.247",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_通论_政治_礼法"
+  },
+  {
+   "cn": "蟒蛇胆酸",
+   "en": "pythonic acid",
+   "code": "10.0206",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_新陈代谢_脂质代谢_磷脂代谢"
+  },
+  {
+   "cn": "蟒蛇胆酸",
+   "en": "pythonic acid",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "Python语言",
+   "en": "Python language",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

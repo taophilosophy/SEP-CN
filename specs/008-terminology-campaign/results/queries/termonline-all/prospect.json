@@ -1,0 +1,348 @@
+{
+ "key": "prospect",
+ "term": "prospect",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T16:40:10+00:00",
+ "status": "ok",
+ "note": "variant=prospect; 审定公布名词库=792; 海峡两岸名词对照库=85; 其他来源数据库=75; 预公布名词数据库=49; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "景象",
+   "en": "prospect",
+   "code": "05.0181",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林规划_区域景观与山水风貌规划"
+  },
+  {
+   "cn": "远景地区",
+   "en": "prospect",
+   "code": "02.0927",
+   "standard": "石油名词",
+   "subject": "石油_油气地质勘探_石油地震地层学"
+  },
+  {
+   "cn": "远景区",
+   "en": "prospect",
+   "code": "07.025",
+   "standard": "地质学名词",
+   "subject": "地质学_矿床地质学"
+  },
+  {
+   "cn": "寻找潜在客户",
+   "en": "prospecting",
+   "code": "08.0637",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_市场营销_营销组合"
+  },
+  {
+   "cn": "普查",
+   "en": "prospecting",
+   "code": "16.044",
+   "standard": "资源科学技术名词",
+   "subject": "资源科学技术_矿产资源学"
+  },
+  {
+   "cn": "预定[胚]区",
+   "en": "prospective area;prospective region",
+   "code": "4.0578",
+   "standard": "动物学名词",
+   "subject": "动物学_动物胚胎学_细胞分化与发育"
+  },
+  {
+   "cn": "预定[胚]区",
+   "en": "prospective area,prospective region",
+   "code": "20.026",
+   "standard": "组织学与胚胎学名词",
+   "subject": "组织学与胚胎学_胚胎学_绪论"
+  },
+  {
+   "cn": "展望理论",
+   "en": "prospect theory",
+   "code": "04.0143",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_组织行为与人力资源管理_行为决策"
+  },
+  {
+   "cn": "展望理论",
+   "en": "prospect theory",
+   "code": "12.016",
+   "standard": "心理学名词",
+   "subject": "心理学_管理心理学"
+  },
+  {
+   "cn": "找矿地热学",
+   "en": "prospecting geothermics",
+   "code": "15.01.007",
+   "standard": "地质学名词",
+   "subject": "地质学_地热地质学_总论"
+  },
+  {
+   "cn": "找矿矿物学",
+   "en": "prospecting mineralogy",
+   "code": "03.01.005",
+   "standard": "地质学名词",
+   "subject": "地质学_矿物学_总论"
+  },
+  {
+   "cn": "前瞻性检验",
+   "en": "prospective test",
+   "code": "01.2286",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震和社会"
+  },
+  {
+   "cn": "预定[胚]区",
+   "en": "prospective area\",\"prospective region",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "展望理论",
+   "en": "prospect theory",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "预定命运",
+   "en": "prospective fate",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "预定潜能",
+   "en": "prospective potency",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "前瞻性记忆",
+   "en": "prospective memory",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "勘探基线",
+   "en": "prospecting baseline",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "磁法勘探",
+   "en": "magnetic prospecting",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "地震勘探",
+   "en": "seismic prospecting",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "客户详情",
+   "en": "customer prospecting",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "位置探测",
+   "en": "site prospecting",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "勘探网测设",
+   "en": "prospecting network layout",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "勘探线测量",
+   "en": "prospecting line survey",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "展望理论",
+   "en": "prospect theory",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "《共建“一带一路”倡议：进展、贡献与展望》",
+   "en": "The Belt and Road Initiative: Progress, Contributions and Prospects",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "医学词汇_其他医学词汇"
+  },
+  {
+   "cn": "敬",
+   "en": "Respect",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "统计过程控制",
+   "en": "Project charter",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "预付制",
+   "en": "prospective payment system",
+   "code": "10.2.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度"
+  },
+  {
+   "cn": "生长发育前瞻性调查",
+   "en": "prospective survey design of growth and development",
+   "code": "2.7.1.1.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_生长发育调查与评价"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "code": "6.4.2.60",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "code": "6.4.2.61",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "code": "8.2.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生监管_工业及其他应用监管"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "code": "6.4.2.69",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "code": "6.4.4.17",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_放射治疗"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "code": "3.4.5.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_城市社会学_政治经济学学派"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "code": "10.2.1.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "code": "4.5.5.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_人口社会学_人口再生产"
+  },
+  {
+   "cn": "尊重",
+   "en": "respect",
+   "code": "4.4.6.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作伦理"
+  },
+  {
+   "cn": "尊重",
+   "en": "respect",
+   "code": "6.5.1.5.3.4",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

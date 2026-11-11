@@ -1,0 +1,348 @@
+{
+ "key": "quantifier variance",
+ "term": "quantifier variance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T17:10:13+00:00",
+ "status": "ok",
+ "note": "variant=quantifier variance; 审定公布名词库=896; 海峡两岸名词对照库=346; 其他来源数据库=13; 预公布名词数据库=23; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "量词",
+   "en": "quantifier",
+   "code": "02.0440",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "量词",
+   "en": "quantifier",
+   "code": "02.0055",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "概率量词",
+   "en": "probabilistic quantifier",
+   "code": "02.0443",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "受囿量词",
+   "en": "bounded quantifier",
+   "code": "02.0061",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "存在量词",
+   "en": "existential quantifier",
+   "code": "02.0056",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "全称量词",
+   "en": "universal quantifier",
+   "code": "02.0057",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "代入量词",
+   "en": "substitutional quantifiers",
+   "code": "03.264",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "量词收缩定理",
+   "en": "quantifier contraction theorem",
+   "code": "02.0185",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "非标准量词",
+   "en": "non-standard quantifier",
+   "code": "02.0058",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "量词消去",
+   "en": "elimination of quantifier",
+   "code": "02.0090",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "量词作用域",
+   "en": "scope of a quantifier",
+   "code": "02.0441",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "量词布尔公式",
+   "en": "quantified Boolean formula,QBF",
+   "code": "02.0328",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "量词",
+   "en": "quantifier",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "存在量词",
+   "en": "existential quantifier",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "全称量词",
+   "en": "universal quantifier",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "量化知识复杂度",
+   "en": "quantified knowledge complexity",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "方差",
+   "en": "variance",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "方差,变异数",
+   "en": "variance",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "方差",
+   "en": "variance",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "方差",
+   "en": "variance",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "方差",
+   "en": "variance",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "方差",
+   "en": "variance",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "方差",
+   "en": "variance",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "方差",
+   "en": "variance",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "方差分析",
+   "en": "analysis of variance (ANOVA)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "时变数据",
+   "en": "time-varying data",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "情以物迁，辞以情发",
+   "en": "Feeling Varies with Scenery and Verbal Expression Arises from Feeling.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "多维变量",
+   "en": "multidimensional variable",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "自组织临界性",
+   "en": "Scale invariance",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "可变电容器",
+   "en": "Variable capacitor",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "协方差函数",
+   "en": "Covariance function",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "普通变异型免疫缺陷病",
+   "en": "Common variable immunodeficiency",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "变频器",
+   "en": "Variable-frequency Drive",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "协方差矩阵",
+   "en": "Multivariate random variable",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "可变气门正时",
+   "en": "Variable Valve Timing",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "可变数目串联重复序列",
+   "en": "Variable number tandem repeat",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "方差分析",
+   "en": "analysis of variance，anova",
+   "code": "1.2.5.63",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "变量",
+   "en": "variable",
+   "code": "1.2.4.24",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "粒子辐射度",
+   "en": "particle radiance",
+   "code": "3.2.2.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_电离辐射场物理量"
+  },
+  {
+   "cn": "能量辐射度",
+   "en": "energy radiance",
+   "code": "3.2.2.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_电离辐射场物理量"
+  },
+  {
+   "cn": "自变量",
+   "en": "independent variable",
+   "code": "1.2.4.25",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "因变量",
+   "en": "dependent variable",
+   "code": "1.2.4.26",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "虚拟变量",
+   "en": "dummy variable",
+   "code": "1.2.4.27",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "中介变量",
+   "en": "mediating variable",
+   "code": "1.2.4.28",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "调节变量",
+   "en": "moderating variable",
+   "code": "1.2.4.29",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "连续变量",
+   "en": "continuous variable",
+   "code": "1.2.4.42",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "离散变量",
+   "en": "discrete variable",
+   "code": "1.2.4.43",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "外生变量",
+   "en": "exogenous variable",
+   "code": "1.2.5.121",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

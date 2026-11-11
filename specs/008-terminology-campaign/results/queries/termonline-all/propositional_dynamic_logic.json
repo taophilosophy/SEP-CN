@@ -1,0 +1,348 @@
+{
+ "key": "propositional dynamic logic",
+ "term": "propositional dynamic logic",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T16:40:10+00:00",
+ "status": "ok",
+ "note": "variant=propositional dynamic logic; 审定公布名词库=1973; 海峡两岸名词对照库=614; 其他来源数据库=50; 预公布名词数据库=33; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "命题",
+   "en": "proposition",
+   "code": "01.0014",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "动态逻辑",
+   "en": "dynamic logic",
+   "code": "08.0011",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_人工智能逻辑"
+  },
+  {
+   "cn": "命题态度",
+   "en": "propositional attitudes",
+   "code": "03.520",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学"
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "code": "02.0937",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_程序理论"
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "code": "02.540",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "命题函数",
+   "en": "propositional function",
+   "code": "02.0025",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "code": "02.0022",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "命题μ演算",
+   "en": "propositional μ-calculus",
+   "code": "02.0934",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_程序理论"
+  },
+  {
+   "cn": "全称命题",
+   "en": "universal proposition",
+   "code": "03.075",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_意义标准"
+  },
+  {
+   "cn": "命题语料库",
+   "en": "proposition bank",
+   "code": "08.0499",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_计算语言学"
+  },
+  {
+   "cn": "直言命题",
+   "en": "categorical proposition",
+   "code": "08.0119",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_自动推理"
+  },
+  {
+   "cn": "价值主张",
+   "en": "value proposition",
+   "code": "08.0294",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_市场营销_营销战略"
+  },
+  {
+   "cn": "命题逻辑",
+   "en": "propositional logic",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "归纳命题",
+   "en": "inductive proposition",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "动力学",
+   "en": "dynamics",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "动态硫化",
+   "en": "dynamic cure\",\"dynamic vulcanization",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "动态显示",
+   "en": "dynamic display\",\"dynamic rendering",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "动态平衡",
+   "en": "dynamic equilibrium",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "动态光抑制",
+   "en": "dynamic photoinhibition",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "动力不稳定",
+   "en": "dynamic instability",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "动力槽",
+   "en": "dynamic trough",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "命题",
+   "en": "proposition",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "精神动力",
+   "en": "dynamism",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "动态范围",
+   "en": "dynamic range",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "动态规划",
+   "en": "Dynamic programming",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "动态规划",
+   "en": "dynamic programming",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "动态模型",
+   "en": "dynamic model",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "非线性偏微分方程",
+   "en": "Population dynamics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "规模动态化",
+   "en": "scale dynamics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "社群动力学",
+   "en": "community dynamics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "动力系统",
+   "en": "dynamical system",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "组合逻辑电路",
+   "en": "Combinatorial logic, combinational logic",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "动态",
+   "en": "dynamic state",
+   "code": "1.8.9",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒学_其他"
+  },
+  {
+   "cn": "动力定型",
+   "en": "dynamic stereotype",
+   "code": "8.1.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征"
+  },
+  {
+   "cn": "动力试验",
+   "en": "dynamic test",
+   "code": "2.1.1.62",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品生物性危害因素"
+  },
+  {
+   "cn": "动力定型",
+   "en": "dynamic stereotype",
+   "code": "6.1.1.2.1.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事作业医学_军事作业生理学"
+  },
+  {
+   "cn": "束流动力学",
+   "en": "beam dynamics",
+   "code": "6.5.1.11",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_工业应用的放射防护_加速器应用"
+  },
+  {
+   "cn": "群体动力学",
+   "en": "group dynamics",
+   "code": "4.1.2.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_社会心理学理论"
+  },
+  {
+   "cn": "社会动力学",
+   "en": "social dynamics",
+   "code": "1.0519",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "动态显色法",
+   "en": "dynamic chromogenic assay",
+   "code": "6.2.31.6",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "动态功能测定",
+   "en": "dynamic function determination",
+   "code": "6.4.3.8",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_核医学"
+  },
+  {
+   "cn": "军事动态作业",
+   "en": "military dynamic work",
+   "code": "6.1.1.2.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事作业医学_军事作业生理学"
+  },
+  {
+   "cn": "思辨逻辑",
+   "en": "speculative logic",
+   "code": "01.0101",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "动态受益归属分析",
+   "en": "dynamic benefit incidence analysis",
+   "code": "1.4.5.15.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生经济学_健康公平"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,54 @@
+{
+ "key": "pseudoforce",
+ "term": "pseudoforce",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T16:52:10+00:00",
+ "status": "ok",
+ "note": "variant=pseudoforce; 审定公布名词库=4; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "赝力",
+   "en": "pseudoforce",
+   "code": "02.0136",
+   "standard": "物理学名词",
+   "subject": "物理学_力学"
+  },
+  {
+   "cn": "假孔",
+   "en": "pseudopore",
+   "code": "5.2651",
+   "standard": "动物学名词",
+   "subject": "动物学_无脊椎动物学_苔藓动物门"
+  },
+  {
+   "cn": "假孔",
+   "en": "pseudopore",
+   "code": "07.0131",
+   "standard": "植物学名词",
+   "subject": "植物学_苔藓植物学"
+  },
+  {
+   "cn": "假孔",
+   "en": "pseudopore",
+   "code": "04.0250",
+   "standard": "古生物学名词",
+   "subject": "古生物学_古植物学_孢粉和植硅体"
+  },
+  {
+   "cn": "假孔",
+   "en": "pseudopore",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "假孔",
+   "en": "pseudopore",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

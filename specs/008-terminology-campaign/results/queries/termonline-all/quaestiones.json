@@ -1,0 +1,96 @@
+{
+ "key": "quaestiones",
+ "term": "quaestiones",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T17:07:12+00:00",
+ "status": "ok",
+ "note": "variant=quaestiones; 审定公布名词库=8; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=3; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "十问",
+   "en": "ten questions",
+   "code": "04.259",
+   "standard": "中医药学名词",
+   "subject": "中医药学_诊断学_诊法"
+  },
+  {
+   "cn": "素问",
+   "en": "Suwen,Plain Questions",
+   "code": "02.003",
+   "standard": "中医药学名词",
+   "subject": "中医药学_医史文献_医书"
+  },
+  {
+   "cn": "常见问题解答",
+   "en": "frequently asked questions,FAQ",
+   "code": "07.207",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息服务与用户研究_文献传递与馆际互借"
+  },
+  {
+   "cn": "常见问题",
+   "en": "frequently asked questions,FAQ",
+   "code": "09.0779",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_网络应用"
+  },
+  {
+   "cn": "射策",
+   "en": "she ce;drawing examination questions",
+   "code": "3.115",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_秦汉_政治_官员管理"
+  },
+  {
+   "cn": "帖经",
+   "en": "tie jing;memory questions on the classics",
+   "code": "6.175",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_两宋_政治_官员管理"
+  },
+  {
+   "cn": "问题表式媒体选择模型",
+   "en": "checklist of questions model of media selection",
+   "code": "13.037",
+   "standard": "教育学名词",
+   "subject": "教育学_教育技术"
+  },
+  {
+   "cn": "疑离",
+   "en": "division of the unified whole by questions",
+   "code": "08.240",
+   "standard": "语言学名词",
+   "subject": "语言学_修辞学_修辞方法"
+  },
+  {
+   "cn": "常见问题",
+   "en": "frequently asked questions\",\"FAQ",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "开放式问题",
+   "en": "open-ended questions",
+   "code": "1.2.4.58",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "双管式问题",
+   "en": "double-barreled questions",
+   "code": "1.2.4.68",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "俄国的民族问题",
+   "en": "national questions in russia",
+   "code": "04.0069",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_列宁斯大林时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,348 @@
+{
+ "key": "public key cryptography",
+ "term": "public key cryptography",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T16:55:11+00:00",
+ "status": "ok",
+ "note": "variant=public key cryptography; 审定公布名词库=1265; 海峡两岸名词对照库=275; 其他来源数据库=220; 预公布名词数据库=149; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "公钥密码",
+   "en": "public key cryptography",
+   "code": "10.0009",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_信息安全_密码理论与技术"
+  },
+  {
+   "cn": "密钥",
+   "en": "cryptography key",
+   "code": "07.597",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天测控与通信"
+  },
+  {
+   "cn": "公钥",
+   "en": "public key",
+   "code": "06.02.022",
+   "standard": "档案学名词",
+   "subject": "档案学_电子文件管理_系统与技术"
+  },
+  {
+   "cn": "公开密钥",
+   "en": "public key",
+   "code": "06.050",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_信息基础设施"
+  },
+  {
+   "cn": "公钥",
+   "en": "public key",
+   "code": "06.04.071",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_数字出版_网络出版"
+  },
+  {
+   "cn": "公钥",
+   "en": "public key",
+   "code": "10.0038",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_信息安全_密码理论与技术"
+  },
+  {
+   "cn": "公开密钥",
+   "en": "public key",
+   "code": "012.0307",
+   "standard": "数学名词",
+   "subject": "数学_信息论_控制论_保密学（数学）"
+  },
+  {
+   "cn": "密码学",
+   "en": "cryptography",
+   "code": "03.635",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_信息哲学"
+  },
+  {
+   "cn": "密码术",
+   "en": "cryptography",
+   "code": "09.0919",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_网络管理与安全"
+  },
+  {
+   "cn": "密码学",
+   "en": "cryptography",
+   "code": "012.0297",
+   "standard": "数学名词",
+   "subject": "数学_信息论_控制论_保密学（数学）"
+  },
+  {
+   "cn": "密码学",
+   "en": "cryptography",
+   "code": "05.156",
+   "standard": "电子学名词",
+   "subject": "电子学_信息论与信号处理技术"
+  },
+  {
+   "cn": "公开密钥加密",
+   "en": "public key encryption",
+   "code": "09.0934",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_网络管理与安全"
+  },
+  {
+   "cn": "公钥密码",
+   "en": "public-key cryptography",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "公钥",
+   "en": "public key",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "公钥加密",
+   "en": "public-key encryption",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "公钥构架",
+   "en": "public-key infrastructure\",\"PKI",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "保密学",
+   "en": "cryptology，cryptography",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "对称密码[学]",
+   "en": "symmetric cryptography",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "非对称密码学",
+   "en": "asymmetric cryptography",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "量子密码",
+   "en": "quantum cryptography",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "密码界",
+   "en": "cryptography community",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "X.509公钥构架",
+   "en": "public-key infrastructure x.509\",\"PKIX",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "键",
+   "en": "key",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "调",
+   "en": "key",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "公开密钥密码体制",
+   "en": "public-key cryptosystem",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "公钥密码",
+   "en": "public key cipher",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "公钥基础设施",
+   "en": "public key infrastructure (PKI)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子密码学",
+   "en": "quantum cryptography",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "可视密码",
+   "en": "visual cryptography",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子密码",
+   "en": "quantum cryptography",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "DNA密码",
+   "en": "DNA cryptography",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子密码通信",
+   "en": "quantum cryptography communication",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "后量子密码学",
+   "en": "post-quantum cryptography",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "国家密码管理部门",
+   "en": "State Cryptography Administration",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "公众",
+   "en": "public",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "量子抗性密码系统",
+   "en": "quantum-resistant cryptography system",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "重点场所",
+   "en": "key place",
+   "code": "4.1.4.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_环境消毒"
+  },
+  {
+   "cn": "重点单位",
+   "en": "key unit",
+   "code": "4.1.4.3",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_环境消毒"
+  },
+  {
+   "cn": "公众照射",
+   "en": "public exposure",
+   "code": "6.1.4.2.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_照射分类_照射人员分类"
+  },
+  {
+   "cn": "公众信息",
+   "en": "public information",
+   "code": "7.2.2.26.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应"
+  },
+  {
+   "cn": "公共距离",
+   "en": "public distance",
+   "code": "2.4.1.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念社会互动"
+  },
+  {
+   "cn": "公共组织",
+   "en": "public organization",
+   "code": "2.5.7.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念群体和组织"
+  },
+  {
+   "cn": "公共空间",
+   "en": "public space",
+   "code": "3.4.7.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_城市社会学_城市文化"
+  },
+  {
+   "cn": "公共住房",
+   "en": "public housing",
+   "code": "3.4.11.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_城市社会学_城市政策"
+  },
+  {
+   "cn": "公共权力",
+   "en": "public power",
+   "code": "3.6.2.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_政治社会学_权力与支配"
+  },
+  {
+   "cn": "公共领域",
+   "en": "public sphere",
+   "code": "3.6.4.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_政治社会学_公民权与公民参与"
+  },
+  {
+   "cn": "公共选择",
+   "en": "public option",
+   "code": "3.6.4.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_政治社会学_公民权与公民参与"
+  },
+  {
+   "cn": "品味公众",
+   "en": "taste public",
+   "code": "3.8.4.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_文化社会学_群体文化"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

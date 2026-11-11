@@ -1,0 +1,194 @@
+{
+ "key": "proteomics",
+ "term": "proteomics",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T16:43:10+00:00",
+ "status": "ok",
+ "note": "variant=proteomics; 审定公布名词库=48; 海峡两岸名词对照库=15; 其他来源数据库=1; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "蛋白质组学",
+   "en": "proteomics",
+   "code": "06.364",
+   "standard": "农学名词",
+   "subject": "作物基因组学与遗传育种_作物基因组学"
+  },
+  {
+   "cn": "蛋白质组学",
+   "en": "proteomics",
+   "code": "1.0047",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_总论"
+  },
+  {
+   "cn": "蛋白质组学",
+   "en": "proteomics ",
+   "code": "5.0024",
+   "standard": "草学名词",
+   "subject": "草学_草业生物技术"
+  },
+  {
+   "cn": "蛋白质组学",
+   "en": "proteomics",
+   "code": "1.041",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "蛋白质组学",
+   "en": "proteomics",
+   "code": "02.178",
+   "standard": "化工名词（六）生物化工",
+   "subject": "化工（六）_代谢工程与合成生物学_系统生物学_功能基因组学"
+  },
+  {
+   "cn": "蛋白质组学",
+   "en": "proteomics",
+   "code": "04.168",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_遗传育种_分子遗传学"
+  },
+  {
+   "cn": "蛋白质组学",
+   "en": "proteomics",
+   "code": "05.0524",
+   "standard": "食品科学技术名词",
+   "subject": "食品科学技术_食品营养_营养遗传学和营养基因组学"
+  },
+  {
+   "cn": "蛋白质组学",
+   "en": "proteomics",
+   "code": "01.0062",
+   "standard": "植物学名词",
+   "subject": "植物学_总论"
+  },
+  {
+   "cn": "蛋白质组学",
+   "en": "proteomics",
+   "code": "06.014",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_生物信息学_生物信息学概要"
+  },
+  {
+   "cn": "蛋白质组学",
+   "en": "proteomics",
+   "code": "06.0095",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学研究_分子生物学基础"
+  },
+  {
+   "cn": "蛋白质组学",
+   "en": "proteomics",
+   "code": "12.0172",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_生物信息学"
+  },
+  {
+   "cn": "蛋白质组学",
+   "en": "proteomics",
+   "code": "01.025",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_总论"
+  },
+  {
+   "cn": "蛋白质组学",
+   "en": "proteomics",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "蛋白质组学",
+   "en": "proteomics",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "蛋白质组学",
+   "en": "proteomics",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "蛋白质组学",
+   "en": "proteomics",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "蛋白质组",
+   "en": "proteome",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "蛋白质组",
+   "en": "proteome",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "蛋白质组",
+   "en": "proteome",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "蛋白质组",
+   "en": "proteome",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "计算蛋白质组学",
+   "en": "computational proteomics",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "比较蛋白质学",
+   "en": "comparative proteomics",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "蛋白质组计划",
+   "en": "proteomic project",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "蛋白质组数据库",
+   "en": "proteome database",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "蛋白质组学",
+   "en": "proteomics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "蛋白质组学",
+   "en": "proteomics",
+   "code": "4.1.5.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射生物效应及其机制"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

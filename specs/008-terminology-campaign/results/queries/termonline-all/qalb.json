@@ -1,0 +1,47 @@
+{
+ "key": "qalb",
+ "term": "qalb",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T17:02:42+00:00",
+ "status": "ok",
+ "note": "variant=qalb; 审定公布名词库=5; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "质量调整生命年",
+   "en": "quality adjusted life year,QALY",
+   "code": "05.012",
+   "standard": "计划生育名词",
+   "subject": "计划生育_计划生育科研方法"
+  },
+  {
+   "cn": "质量调整生命年",
+   "en": "quality-adjusted life year,QALY",
+   "code": "05.180",
+   "standard": "肠外肠内营养学名词",
+   "subject": "肠外肠内营养学_基础研究与临床研究_临床研究"
+  },
+  {
+   "cn": "质量调整生命年",
+   "en": "quality-adjusted life year,QALY",
+   "code": "10.070",
+   "standard": "药学名词",
+   "subject": "药学_药物经济学"
+  },
+  {
+   "cn": "白蛋白",
+   "en": "albumin;Alb",
+   "code": "05.299",
+   "standard": "麻醉学名词",
+   "subject": "麻醉学_重症监护与治疗_危重患者循环支持治疗"
+  },
+  {
+   "cn": "BALB/c小鼠",
+   "en": "BALB/c mouse",
+   "code": "09.181",
+   "standard": "兽医学名词",
+   "subject": "兽医学_实验动物学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
