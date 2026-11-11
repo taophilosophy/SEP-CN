@@ -2,7 +2,7 @@
   "slug": "dewey-moral",
   "kind": "retranslate",
   "zh_doc": "d/dewey-moral.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "ykla",
       "at": "2026-11-01T08:53:36Z",
       "evidence": "三校终审：结构完整、脚注在参考文献节内、引用组齐备"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "DR-main-20261111",
+      "at": "2026-11-11T01:37:38Z",
+      "evidence": "初审（独立会话；初译/三校 actor 为 ykla）：逐段对照 yuanwen/d/dewey-moral.md 全文核销，8 处准确性实修——①导语漏译 a priori：'任何固定参照点'→'任何先验固定参照点'；②2.2 'appraisals of its merits' 误译：'它对其他点的评估'→'她对其优点的评估'；③2.1 'In the first instance' 时态误读：'起初'→'首先'（At the most primitive level 保持原译）；④3.1 'found valuable as a complete package' 生硬直译：'作为完整一包是有价值的'→'整体看来是有价值的'；⑤5 'stunted reaction' 误译：'受挫冒犯'→'萎缩的、受冒犯或不赞同'；⑥5 'the propertied, leisure class' 漏译 leisure：'有产阶级'→'有产的有闲阶级'；⑦6 'in contrast with' 强度误置：'相反'→'形成对照'（并补 voluminous='卷帙浩繁'）；⑧6 衍字'向向他人学习开放'→'对向他人学习保持开放'。四检绿：check_style 0 issue、check_math 0 缺失/失衡、check_academic --strict 0 硬错误（在途豁免 1）；check_prose 基线 90 条留待 r2。注：8 处改动被并行会话工作区快照提交 3e3076460 一并收编，已核在库"
     }
   ],
   "blockers": [],

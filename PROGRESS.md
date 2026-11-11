@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-10 21:51（UTC）
+生成时间：2026-11-11 01:38（UTC）
 
 ## 总览
 
@@ -12,23 +12,24 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1178|
+|已建任务|1180|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|304|
-|在途（drafted 起、done 前）|212|
+|已完成（done）|306|
+|在途（drafted 起、done 前）|213|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|662|
-|cleared|150|
+|pending|661|
+|cleared|147|
 |drafted|2|
-|s3_checked|58|
+|s1_checked|1|
+|s3_checked|61|
 |r1_reviewed|1|
 |r2_reviewed|1|
-|done|304|
+|done|306|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -40,15 +41,15 @@
 |D|92|92|92|14|
 |E|99|99|99|19|
 |F|96|96|96|1|
-|G|49|49|49|9|
-|H|61|61|61|14|
+|G|49|49|49|10|
+|H|61|61|61|15|
 |I|75|75|75|25|
 |J|38|38|38|8|
 |K|36|36|36|21|
 |L|144|144|30|30|
 |M|139|139|14|7|
-|N|50|50|8|7|
-|O|21|21|11|8|
+|N|50|50|9|7|
+|O|21|21|12|8|
 |P|165|165|12|8|
 |Q|34|34|34|2|
 |R|85|85|85|9|
@@ -146,7 +147,7 @@
 |demonstration-medieval|retranslate|s3_checked|sub-demonstration-medieval 2026-11-01|
 |descartes-ethics|retranslate|s3_checked|? 2026-11-04|
 |descartes-ideas|retranslate|s3_checked|? 2026-11-04|
-|dewey-moral|retranslate|s3_checked|ykla 2026-11-01|
+|dewey-moral|retranslate|r1_reviewed|DR-main-20261111 2026-11-11|
 |dewey-political|retranslate|s3_checked|? 2026-11-05|
 |dialectical-school|retranslate|s3_checked|D-main-20261107 2026-11-06|
 |dilthey|retranslate|cleared|task_ops 2026-11-01|
@@ -157,12 +158,12 @@
 |early-modern-india|retranslate|cleared|task_ops 2026-11-10|
 |ecological-genetics|retranslate|s3_checked|EF-main3-20261109 2026-11-09|
 |edwards|retranslate|s3_checked|E-main-20261110b 2026-11-10|
-|epistemology-latin-america|retranslate|cleared|task_ops 2026-11-10|
+|epistemology-latin-america|retranslate|s3_checked|E-main-20261110b 2026-11-10|
 |experimental-aesthetics|retranslate|s3_checked|EFG-main-20261108 2026-11-08|
 |faith|retranslate|s3_checked|F-main-20261111 2026-11-10|
-|falaquera|retranslate|s3_checked|F-main-20261111 2026-11-10|
+|falaquera|retranslate|cleared|task_ops 2026-11-10|
 |frame-problem|retranslate|s3_checked|F-main-20261110 2026-11-09|
-|gadamer|retranslate|cleared|task_ops 2026-11-10|
+|fuller-margaret|retranslate|s3_checked|F-main-20261111 2026-11-11|
 |gadamer-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |galen|retranslate|cleared|task_ops 2026-11-01|
 |galileo|retranslate|cleared|task_ops 2026-11-01|
@@ -192,7 +193,6 @@
 |hilbert-program|retranslate|cleared|task_ops 2026-11-01|
 |hist-westphilmusic-to-1800|retranslate|cleared|task_ops 2026-11-01|
 |hobbes|retranslate|cleared|task_ops 2026-11-01|
-|hobbes-moral|retranslate|r1_reviewed|H-main-20261109 2026-11-08|
 |hobbes-science|retranslate|cleared|task_ops 2026-11-01|
 |holism-social|retranslate|cleared|task_ops 2026-11-01|
 |horkheimer|retranslate|cleared|task_ops 2026-11-01|
@@ -203,9 +203,9 @@
 |immunology|retranslate|cleared|task_ops 2026-11-01|
 |impossible-worlds|retranslate|cleared|task_ops 2026-11-01|
 |information-biological|retranslate|cleared|task_ops 2026-11-01|
-|intentionality-ancient|retranslate|cleared|task_ops 2026-11-10|
+|intentionality-ancient|retranslate|s3_checked|I-main-20261111 2026-11-11|
 |intrinsic-extrinsic|retranslate|cleared|task_ops 2026-11-01|
-|israeli|retranslate|cleared|task_ops 2026-11-10|
+|israeli|retranslate|s3_checked|I-main-20261111 2026-11-10|
 |jaina-philosophy|retranslate|cleared|task_ops 2026-11-10|
 |james-mill|retranslate|cleared|task_ops 2026-11-10|
 |james-viterbo|retranslate|cleared|task_ops 2026-11-01|
@@ -259,9 +259,11 @@
 |moral-learning|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |music|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |nietzsche-aesthetics|retranslate|s3_checked|ZCode-N-20261110 2026-11-10|
+|novalis|retranslate|cleared|task_ops 2026-11-10|
 |omnipresence|retranslate|s3_checked|O3-main-20261110 2026-11-10|
 |omniscience|retranslate|s3_checked|O3-main-20261110 2026-11-10|
 |ontology-is|retranslate|s3_checked|O3-main-20261110 2026-11-10|
+|organs-sale|retranslate|s3_checked|O3-main-20261110 2026-11-10|
 |qm|retranslate|cleared|task_ops 2026-11-10|
 |ramsey-economics|retranslate|cleared|task_ops 2026-11-10|
 |reflective-equilibrium|retranslate|s3_checked|R-main-20261110 2026-11-10|
@@ -272,7 +274,7 @@
 |weyl|retranslate|cleared|task_ops 2026-11-08|
 |xunzi|retranslate|cleared|task_ops 2026-11-09|
 |yogacara|retranslate|cleared|task_ops 2026-11-10|
-|yorck|retranslate|cleared|task_ops 2026-11-10|
+|yorck|retranslate|s1_checked|Y-main-20261111 2026-11-11|
 |zermelo-set-theory|retranslate|cleared|task_ops 2026-11-08|
 |zhu-xi|retranslate|cleared|task_ops 2026-11-08|
 |zhuangzi|retranslate|cleared|task_ops 2026-11-08|
