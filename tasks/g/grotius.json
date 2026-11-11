@@ -2,7 +2,7 @@
   "slug": "grotius",
   "kind": "retranslate",
   "zh_doc": "g/grotius.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "G-main-20261112",
       "at": "2026-11-11T18:39:16Z",
       "evidence": "check_style --docs --strict issues=0；check_academic --docs --strict 0 硬错误；check_math grotius 公式 0 缺失 0；check_summary HARD=0；check_terms 硬错误 0（新登人名 15 行、术语 18 行，faculty 并入既有行，Hugo Grotius 旧行标注废弃留痕）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-11T23:33:56Z",
+      "evidence": "r1 初审（冷置回读：跨 gomez-pereira 全周期后回读全文 308 行）：实修 9 处（同一套基本信念/诸多障碍/吸引哲学家的是导论/直到康德才告终结/等所说/社会存在者的本质/既非理性又具理性/划定了很宽的范围/书名已把旨意点明）；引文块与 DIB 卷章节编号逐条核对；语体：现代汉语学术书面语，无文言仿古"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-11T23:33:56Z",
+      "evidence": "r2 复审逐句回核：年份序列 85:85 同序零缺；§ 号 6:6、卷章节号（I.1.10.1 式）26:26；书名与拉丁引文原样；引用组作者名保留英文合规；漏译增译 0；语体：现代汉语学术书面语"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-11T23:33:57Z",
+      "evidence": "r3 终审：check_style 0、check_academic --strict 0 硬错误、check_math 0、check_summary HARD 0、check_terms 0 硬错误；尾节序齐备；段落/defs/引用键 80:80、93:93、28:28"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-11T23:33:57Z",
+      "evidence": "G 批 grotius 收口 done：主会话直译全周期，r2/r3 跨条冷置后复核"
     }
   ],
   "blockers": [],
