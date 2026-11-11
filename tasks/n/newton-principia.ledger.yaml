@@ -269,64 +269,88 @@ segments:
     kind: body
     source: |-
       Newton was disappointed in the critical response to the first edition. The response in England was adulatory, but the failure to note loose ends must have led Newton to doubt how much anyone had mastered technical details. The leading scientific figure on the Continent, Christiaan Huygens, offered a mixed response to the book in his *Discourse on the Cause of Gravity* (1690). On the one hand, he was convinced by Newton's argument that inverse-square terrestrial gravity not only extends to the Moon, but is one in kind with the centripetal force holding the planets in orbit; on the other hand,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      牛顿对第一版的批评反应感到失望。英格兰方面的反应是一片颂扬之声，但人们未能注意到那些未了结之处，这必定使牛顿怀疑究竟有多少人掌握了技术细节。欧洲大陆首屈一指的科学人物克里斯蒂安·惠更斯，在《论重力之原因》（1690）中对该书作出了混合的反应。一方面，他被牛顿的论证所说服：平方反比的地面重力不仅延伸到月球，而且与使行星留在轨道上的向心力同属一类；另一方面，
+    step2: |-
+      牛顿对第一版所受到的批评反应感到失望。英格兰的反应是一片颂扬，但人们未能注意到那些未了结之处，必定使牛顿怀疑究竟有多少人掌握了技术细节。欧洲大陆首屈一指的科学人物克里斯蒂安·惠更斯在《论重力之原因》（1690）中对该书作出了混合的反应。一方面，他被牛顿的论证说服：平方反比的地面重力不仅延伸到月球，而且与使行星留在轨道上的向心力同属一类；另一方面，
   - id: 32
     kind: body
     source: |-
       > I am not especially in agreement with a Principle that he supposes in this calculation and others, namely, that all the small parts that we can imagine in two or more different bodies attract one another or tend to approach each other mutually. This I could not concede, because I believe I see clearly that the cause of such an attraction is not explicable either by any principle of Mechanics or by the laws of motion. Nor am I at all persuaded of the necessity of the mutual attraction of whole bodies, having shown that, were there no Earth, bodies would not cease to tend toward a center because of what we call their gravity. [**HD**, p.159]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我并不特别赞同他在这一计算及其他计算中所设定的那条原理，即：我们在两个或更多不同物体中所能想象的一切微小部分都相互吸引或彼此趋近。这一点我无法承认，因为我相信我清楚地看到，这种吸引的原因既不能借任何力学原理、也不能借运动定律来解释。我也完全不被整体物体相互吸引的必然性所说服，因为我已经表明，即使没有地球，物体也不会因其所谓重力而停止朝向某个中心趋近。[**HD**, p.159]
+    step2: |-
+      > 我并不特别赞同他在这一计算及其他计算中所设定的那条原理，即：我们在两个或更多不同物体中所能想象的一切微小部分都相互吸引或彼此趋近。这一点我无法承认，因为我相信我清楚地看到，这种吸引的原因既不能借任何力学原理、也不能借运动定律来解释。我也完全不被整体物体相互吸引的必然性所说服，因为我已经表明，即使没有地球，物体也不会因其所谓重力而停止朝向某个中心趋近。[**HD**, p.159]
   - id: 33
     kind: body
     source: |-
       Others on the Continent pressed this complaint even more forcefully. The response that may well have bothered Newton most was the review in *Journal des Sçavants*:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      欧洲大陆上的另一些人把这一抱怨提得更有力。可能最令牛顿不安的回应，是《学者杂志》上的书评：
+    step2: |-
+      欧洲大陆上的其他人更有力地提出了这一抱怨。可能最令牛顿不安的回应，是《学者杂志》上的书评：
   - id: 34
     kind: body
     source: |-
       > The work of M. Newton is a mechanics, the most perfect that one could imagine, as it is not possible to make demonstrations more precise or more exact than those he gives in the first two books…. But one has to confess that one cannot regard these demonstrations otherwise than as only mechanical; indeed the author recognizes himself at the end of page four and the beginning of page five that he has not considered their Principles as a Physicist, but as a mere Geometer….
       >
       > In order to make an *opus* as perfect as possible, M. Newton has only to give us a Physics as exact as his Mechanics. He will give it when he substitutes true motions for those that he has supposed.[^note-15]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 牛顿先生的作品是一部力学，人们所能想象的最完美的力学，因为不可能给出比他前两卷中所给的更精确或更严格的证明……但必须承认，人们只能把这些证明看作仅仅机械性的；的确，作者本人在第四页末尾与第五页开头承认，他并未把它们的原理当作物理学家来考虑，而只是当作一个纯粹的几何学家来考虑……
+      >
+      > 为使一部作品尽可能完美，牛顿先生只需给我们一部像他的力学那样精确的物理学。当他用真实的运动取代他所假设的运动时，他就会给出这部物理学。[^note-15]
+    step2: |-
+      > 牛顿先生的作品是一部力学，人们所能想象的最完美的力学，因为不可能给出比他前两卷中所给的更精确或更严格的证明……但必须承认，人们只能把这些证明看作仅仅机械性的；的确，作者本人在第四页末尾与第五页开头承认，他并未把它们的原理当作物理学家来考虑，而只是当作一个纯粹的几何学家来考虑……
+      >
+      > 为使一部作品尽可能完美，牛顿先生只需给我们一部像他的力学那样精确的物理学。当他用真实的运动取代他所假设的运动时，他就会给出这部物理学。[^note-15]
   - id: 35
     kind: body
     source: |-
       Complicating the matter further was the publication in 1689 of Leibniz's “Essay on the causes of celestial motions,” which offered a vortex theory in which “*a planet moves with a double motion composed of the harmonic circulation of its fluid deferent orb, and the paracentric motion*, as if it had a certain gravity of attraction, namely an impulsion *towards the Sun*” [**L**, 132].[^note-16] Leibniz further concluded that when the body “*is carried in an ellipse* (or another conic section) *with a harmonic circulation, and the centre both of attraction and of circulation is at the focus of the ellipse, then the attractions or solicitations of gravity will be directly as the squares of the circulations, or inversely as the squares of the radii or distances from the focus*” [**L**, 137]. So, within a year and a half of the publication of the *Principia* a competing vortex theory of Keplerian motion had appeared that was consistent with Newton's conclusion that the centripetal forces in Keplerian motion are inverse-square. This gave Newton reason to sharpen the argument in the *Principia* against vortices.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      使事情更复杂的是，莱布尼茨 1689 年发表了《论天体运动的原因》，提出一种涡旋理论，其中“行星以一种双重运动运行，该运动由其流体载运球的谐和环流与近心运动组成，仿佛它具有某种吸引的重力，即一种朝向太阳的推动”[**L**, 132]。[^note-16] 莱布尼茨进一步断定：当物体“以谐和环流被带在椭圆（或另一圆锥截线）中，而吸引中心与环流中心同在椭圆的焦点上时，重力的吸引或牵引将正比于环流的平方，或反比于到焦点的半径或距离的平方”[**L**, 137]。于是，《原理》出版后一年半之内，就出现了一种与开普勒运动相竞争的涡旋理论，而它与牛顿的结论——开普勒运动中的向心力是平方反比的——相一致。这使牛顿有理由强化《原理》中反对涡旋的论证。
+    step2: |-
+      使事情更复杂的是，莱布尼茨 1689 年发表了《论天体运动的原因》，提出一种涡旋理论，其中“行星以双重运动运行，该运动由其流体载运球的谐和环流与近心运动组成，仿佛它具有某种吸引的重力，即一种朝向太阳的推动”[**L**, 132]。[^note-16] 莱布尼茨进一步断定：当物体“以谐和环流被带在椭圆（或另一圆锥截线）中，而吸引中心与环流中心同在椭圆的焦点上时，重力的吸引或牵引将正比于环流的平方，或反比于到焦点的半径或距离的平方”[**L**, 137]。于是，《原理》出版后一年半之内，就出现了一种与开普勒运动相竞争的涡旋理论，而它与牛顿的结论——开普勒运动中的向心力是平方反比的——相一致。这使牛顿有理由强化《原理》中反对涡旋的论证。
   - id: 36
     kind: body
     source: |-
       The second edition appeared in 1713, twenty six years after the first. It had five substantive changes of note. First, the structure of the argument for universal gravity at the beginning of Book 3 was made more evident, and the word ‘hypothesis’ was dropped from it. Second, because of disappointment with pendulum-decay experiments and an erroneous claim about the rate a liquid flows vertically through a hole in the bottom of a container, the second half of Section 7 of Book 2 was entirely replaced, ending with new vertical-fall experiments to measure resistance forces versus velocity and a forcefully stated rejection of all vortex theories.[^note-17] Third, the treatment of the variation of surface gravity with latitude (Book 3, Proposition 20) was significantly extended, partly in response to Huygens's alternative treatment of this variation, but also because of more recent data from near the Equator. Fourth, the treatment of the wobble of the Earth producing the precession of the equinoxes was revised in order to accommodate a much reduced gravitational force of the Moon on the Earth than in the first edition. Fifth, several further examples of comets were added at the end of Book 3, taking advantage of Halley's efforts on the topic during the intervening years. In addition to these, two changes were made that were more polemical than substantive: Newton added the General Scholium following Book 3 in the second edition, and his editor Roger Cotes provided a long anti-Cartesian (and anti-Leibnizian) Preface.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二版在 1713 年问世，距第一版二十六年。其中有五处实质改动值得注意。第一，第三卷开头为万有引力所作论证的结构变得更加显明，并且删去了“假设”一词。第二，由于对摆的衰减实验感到失望，加上关于液体从容器底部小孔垂直流出的速率有一个错误主张，第二卷第七节的后半部分被整体替换，结尾是新的垂直下落实验，用以测量阻力随速度的变化，并有力地否定了所有涡旋理论。[^note-17] 第三，对表面重力随纬度变化的处理（第三卷命题 20）得到显著扩展，部分是为了回应惠更斯对这一变化的替代处理，部分也是由于来自赤道附近的新数据。第四，关于地球摆动产生岁差的处理经过修订，以容纳比第一版大为减小的月球对地球的引力。第五，第三卷末尾增补了若干彗星事例，利用了哈雷在此期间对这一主题的研究。除此以外，还有两处改动更多是论战性的而非实质性的：牛顿在第二版第三卷之后加上了总释，他的编者罗杰·科茨提供了一篇长长的反笛卡尔（兼反莱布尼茨）序言。
+    step2: |-
+      第二版于 1713 年问世，距第一版二十六年。它有五处值得注意的实质改动。第一，第三卷开头为万有引力所作论证的结构变得更加显明，并且删去了“假设”一词。第二，由于对摆的衰减实验感到失望，加上关于液体从容器底部小孔垂直流出的速率有一个错误主张，第二卷第七节的后半部分被整体替换，结尾是新的垂直下落实验，用以测量阻力随速度的变化，并有力地否定了所有涡旋理论。[^note-17] 第三，关于表面重力随纬度变化的处理（第三卷命题 20）得到显著扩展，部分是为了回应惠更斯对这一变化的替代处理，部分也是由于来自赤道附近的新数据。第四，关于地球摆动产生岁差的处理经过修订，以容纳比第一版大为减小的月球对地球的引力。第五，第三卷末尾增补了若干彗星事例，利用了哈雷在此期间对这一主题的研究。除此以外，还有两处改动更多是论战性的而非实质性的：牛顿在第二版第三卷之后加上了总释，他的编者罗杰·科茨提供了一篇长长的反笛卡尔（兼反莱布尼茨）序言。
   - id: 37
     kind: body
     source: |-
       The third edition appeared in 1726, thirty nine years after the first. Most changes in it involved either refinements or new data. The most significant revision of substance was to the variation of surface gravity with latitude, where Newton now concluded that the data showed that the Earth has a uniform density. Subsequent editions and translations have been based on the third edition. Of particular note is the edition published by two Jesuits, Le Seur and Jacquier, in 1739-42, for it contains proposition-by-proposition commentary, much of it employing the Leibnizian calculus, that extends to roughly the same length as Newton's text.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第三版在 1726 年问世，距第一版三十九年。其中多数改动要么是精细的改进，要么是新数据。实质性的最重要修订是关于表面重力随纬度变化的，牛顿此时断定，数据表明地球具有均匀密度。后来的版本与译本都以第三版为底本。尤须注意的是两位耶稣会士勒瑟尔与雅基耶在 1739–42 年出版的版本，因为它逐命题地附有评注，其中许多运用莱布尼茨式微积分，篇幅大致与牛顿正文相当。
+    step2: |-
+      第三版于 1726 年问世，距第一版三十九年。其中的大部分改动要么是精细化的改进，要么是新数据。实质性的最重要修订是关于表面重力随纬度变化的，牛顿此时断定，数据表明地球具有均匀密度。后来的版本与译本都以第三版为底本。特别值得注意的是两位耶稣会士勒瑟尔与雅基耶在 1739–42 年出版的版本，因为它逐命题地附有评注，其中许多运用莱布尼茨式微积分，篇幅大致与牛顿正文相当。
   - id: 38
     kind: body
     source: |-
       ## 4. “Definitions” and absolute space, time, and motion
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. “定义”与绝对空间、时间及运动
+    step2: |-
+      ## 4 “定义”与绝对空间、时间及运动
   - id: 39
     kind: body
     source: |-
       The *Principia* opens with a section called “Definitions” that includes Newton's discussion of absolute space, time, and motion. No part of the *Principia* has received more discussion by philosophers over the three centuries since it was published. Unfortunately, however, a tendency not to pay close attention to the text has caused much of this discussion to produce unnecessary confusion.[^note-18]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《原理》以题为“定义”的部分开篇，其中包括牛顿关于绝对空间、时间与运动的讨论。在《原理》出版后的三个世纪里，没有哪一部分比它受到哲学家更多的讨论。但不幸的是，一种不细读文本的倾向，使这些讨论中很大一部分造成了不必要的混乱。[^note-18]
+    step2: |-
+      《原理》以一个题为“定义”的部分开篇，其中包括牛顿关于绝对空间、时间与运动的讨论。在《原理》出版后的三个世纪里，没有哪一部分比它受到哲学家更多的讨论。然而不幸的是，一种不细读文本的倾向，使这些讨论中很大一部分造成了不必要的混乱。[^note-18]
   - id: 40
     kind: body
     source: |-
       The definitions inform the reader of how key technical terms, all of them designating quantities, are going to be used throughout the *Principia*. In the process Newton introduces terms that have remained a part of physics ever since, such as *mass*, *inertia*, and *centripetal force*. The emphasis in every one of the definitions is on how the designated quantity is to be measured, as illustrated by the opening definition: “Quantity of matter [or mass] is a measure of matter that arises from its density and volume jointly.” (Because a primary measure of density was then specific gravity, no circularity arises here.) Newton distinguishes among three ways of quantifying centripetal forces: the absolute quantity, which corresponds to what we would call the field strength of a central force field; the accelerative quantity, which “is the measure of this force that is proportional to the acceleration generated in a given time;” and the motive quantity, which is the measure of the force proportional to what we would call the change in linear momentum in a given time.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些定义向读者说明，一些关键技术术语（它们全都指称量）将如何在整部《原理》中使用。在这一过程中，牛顿引入了此后一直是物理学一部分的术语，如 **质量**、**惯性** 与 **向心力**。每一则定义所强调的都在于所指称的量如何测量，开篇定义即可为证：“物质的量〔或质量〕是由其密度与体积共同产生的对物质的量度。”（由于当时密度的首要量度是比重，这里并不产生循环。）牛顿区分了量化向心力的三种方式：绝对量，相当于我们今天所说的中心力场的场强；加速量，它“是这种力的量度，与在给定时间内产生的加速度成正比”；以及运动量，它是这种力的量度，与我们在给定时间内所说的线动量变化成正比。
+    step2: |-
+      这些定义告诉读者，一些关键技术术语（它们全都指称量）将如何在整部《原理》中使用。在此过程中，牛顿引入了此后一直是物理学一部分的术语，如 **质量**、**惯性** 与 **向心力**。每一则定义都强调所指称的量如何测量，开篇定义即可为证：“物质的量〔或质量〕是由其密度与体积共同产生的对物质的量度。”（由于当时密度的首要量度是比重，这里并不产生循环。）牛顿区分了量化向心力的三种方式：绝对量，相当于我们今天所说的中心力场的场强；加速量，它“是这种力的量度，与在给定时间内产生的加速度成正比”；以及运动量，它是这种力的量度，与我们在给定时间内所说的线动量变化成正比。
   - id: 41
     kind: body
     source: |-
