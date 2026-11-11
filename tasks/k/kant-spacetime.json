@@ -2,7 +2,7 @@
   "slug": "kant-spacetime",
   "kind": "retranslate",
   "zh_doc": "k/kant-spacetime.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T17:43:42Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "K-main-20261111",
+      "at": "2026-11-11T07:11:48Z",
+      "evidence": "零信任全量重译 167 段（k_fill 九批写入）；lq 守恒门 OK：source 与 yuanwen 逐字符一致、脚注键守恒、defs 99/99、$ 计数 0/0、** 计数守恒；软旗 54 条已判读（斜体→书名号转换与机械段）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "K-main-20261111",
+      "at": "2026-11-11T07:11:48Z",
+      "evidence": "对照核销：H2 12:12、H3 11:11（源文 ### Acknowledgments 按管线惯例升级为 ## 致谢）、defs 99:99、正文 marker 77:77（parsons-1992 源文行尾 ASCII 冒号归一后一致）、图 2 张资产缺件已自 en/kant-spacetime 补齐并 SHA-256 对基线校验一致；SUMMARY/mu-lu-s 英文题补全 Kant’s Views on Space and Time；相关词条 3:3 全匹配"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "K-main-20261111",
+      "at": "2026-11-11T07:11:48Z",
+      "evidence": "prose 实修 8 处（长句拆分 3、去被动 3、去弱动词 2）；斜体→中文粗体 48 行；<概念> 记法 53 处转义为 &lt;…&gt; 以过 no-html 门（账本存原形，详见 k-wave §4）；残余 48 条（de-chain 30/long 16/passive 2）属概念性定语链、70–85 字学术长句与引文块，按 ADR-0020 豁免"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "K-main-20261111",
+      "at": "2026-11-11T07:11:50Z",
+      "evidence": "四检终态：check_style 0、check_academic --strict OK、check_math 0/0、check_summary H1 0、check_images 悬空 0、fetch_audit 缺件 0、check_terms 硬错误 0"
     }
   ],
   "blockers": [],

@@ -1397,7 +1397,7 @@
   * [康德的先验论证 transcendental arguments (Derk Pereboom)](k/kant-transcendental.md)
   * [康德的先验唯心论 transcendental idealism (Nicholas F. Stang)](k/kant-transcendental-idealism.md)
   * [康德对心灵和自我意识的观点 Kant’s View of the Mind and Consciousness of Self (Andrew Brook and Julian Wuerth)](k/kant-mind.md)
-  * [康德对空间和时间的观点 views on space and time (Andrew Janiak)](k/kant-spacetime.md)
+  * [康德对空间和时间的观点 Kant’s Views on Space and Time (Andrew Janiak)](k/kant-spacetime.md)
 * [约瑟夫·卡斯皮 Kaspi, Joseph (Hannah Kasher and Moshe Kahan)](k/kaspi-joseph.md)
 * [约翰内斯·开普勒 Kepler, Johannes (Daniel A. Di Liscia)](k/kepler.md)
 * [索伦·克尔凯郭尔 Søren Kierkegaard (John Lippitt and C. Stephen Evans)](k/kierkegaard.md)

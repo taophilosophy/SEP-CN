@@ -360,7 +360,7 @@ outline: [1, 6]
   * [康德的社会与政治哲学 social and political philosophy (Frederick Rauscher)](k/kant-social-political.md)
   * [康德的先验唯心论 transcendental idealism (Nicholas F. Stang)](k/kant-transcendental-idealism.md)
   * [康德对心灵和自我意识的观点 Kant’s View of the Mind and Consciousness of Self (Andrew Brook and Julian Wuerth)](k/kant-mind.md)
-  * [康德对空间和时间的观点 views on space and time (Andrew Janiak)](k/kant-spacetime.md)
+  * [康德对空间和时间的观点 Kant’s Views on Space and Time (Andrew Janiak)](k/kant-spacetime.md)
   * [康德的美学与目的论 aesthetics and teleology (Hannah Ginsborg)](k/kant-aesthetics.md)
 * [图式 schema (John Corcoran and Idris Samawi Hamid)](s/schema.md)
 * [实践理性 practical reason (R. Jay Wallace and Benjamin Kiesewetter)](p/practical-reason.md)
