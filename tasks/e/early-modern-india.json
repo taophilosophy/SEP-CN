@@ -2,7 +2,7 @@
   "slug": "early-modern-india",
   "kind": "retranslate",
   "zh_doc": "e/early-modern-india.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,13 @@
       "actor": "task_ops",
       "at": "2026-11-10T16:39:55Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "E-main-20261111",
+      "at": "2026-11-11T09:06:48Z",
+      "evidence": "零信任全量重译完成（specs/015 语体复核后按 ADR-0033 置空重译）：账本 302 段双版（body=301 oir=1），lq check 守恒门 OK/302 段；compose --write 51701 字符/736 行，11 节+27 子节、58 defs 照录；相关词条 12 项比对 SUMMARY 定名（atomism 一项手工回译为“17 至 20 世纪的原子论”）；行文体例全程现代白话，无文言句式，落实 ADR-0033"
     }
   ],
   "blockers": [],

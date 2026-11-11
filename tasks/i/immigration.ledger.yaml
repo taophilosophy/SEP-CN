@@ -11,140 +11,186 @@ segments:
     kind: body
     source: |-
       Immigration occurs when someone moves to another country in order to stay indefinitely. Thus, because of the brevity of their visits, tourists, business travelers and foreign students, for example, typically do not qualify as immigrants even though they spend time in a foreign country. There are a variety of important issues surrounding the morality of immigration, including difficult questions regarding the definition and moral status of refugees, the circumstances (if any) in which it is permissible to use guest workers, what obligations a rich country incurs when it actively recruits skilled workers from a poor state, the rights of irregular migrants, and whether there are any limitations on the selection criteria a country may use in deciding among applicants for immigration. This entry addresses each of these topics below, but first it reviews the most prominent arguments on both sides of the central debate in this area, whether states have the moral right to exclude potential immigrants.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      移民发生在某人移居另一国家以便无限期居留之时。因此，由于访问短暂，游客、商务旅行者和外国学生等通常不算移民，尽管他们会在外国度过一段时间。围绕移民的道德性有各种重要问题，包括关于难民的定义与道德地位的难题、在何种情形下（如果有的话）允许使用客籍工人、富国主动从穷国招募技术工人时承担何种义务、非正规移民的权利，以及一国在决定移民申请人之间取舍时所用选择标准是否应有任何限制。本词条下文逐一讨论这些主题，但先回顾该领域核心争论——国家是否有道德权利排斥潜在移民——双方最突出的论证。
+    step2: |-
+      所谓移民，指某人移居他国并打算无限期居留。因此，游客、商务旅行者、外国学生等因逗留短暂，通常不算移民——尽管他们确曾在外国停留。移民的道德性牵涉诸多重要问题：难民的定义与道德地位；在何种情形（若有）下使用客籍工人可获允许；富国主动从穷国招募技术工人时负有何种义务；非正规移民享有何种权利；一国在移民申请人之间取舍时，其选择标准是否应受限制。下文依次讨论这些问题；先回顾本领域核心之争——国家是否有道德权利排斥潜在移民——双方最主要的论证。
   - id: 2
     kind: body
     source: |-
       ## 1. Arguments for Closed Borders
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1. 支持关闭边界的论证
+    step2: |-
+      ## 1. 支持关闭边界的论证
   - id: 3
     kind: body
     source: |-
       ### 1.1 Preserving Culture
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.1 保全文化
+    step2: |-
+      ### 1.1 保全文化
   - id: 4
     kind: body
     source: |-
       The most popular argument for the permissibility and importance of closing borders to outsiders is that this exclusion is necessary in order to preserve a state’s distinctive culture. The appeal of cultural continuity is easy to appreciate. As David Miller explains, “the public culture of their country is something that people have an interest in controlling: they want to be able to shape the way that their nation develops, including the values that are contained in the public culture. They may not of course succeed: valued cultural features can be eroded by economic and other forces that evade political control. But they may certainly have good reason to try, and in particular to try to maintain cultural continuity over time, so that they can see themselves as the bearers of an identifiable cultural tradition that stretches backward historically.” (Miller 2014: 370)[^miller-2014] Think of the United States, for instance. If the US placed no limits on immigration from Canada, it is clear neither how many Canadians would move south, nor whether their migration would have a discernible affect upon American culture. If the United States did not limit immigration from Mexico, on the other hand, it seems almost certain that much larger numbers of Mexicans would migrate north and that the changes to American culture would be regarded by many as rapid and dramatic. (Huntington 2005) If so, it seems likely that open borders would quickly lead to changes that would leave many Americans less comfortable in their own homeland. Given this, the concern to preserve one’s native culture seems to provide a reasonable justification for restricting immigration.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      支持对外人关闭边界之可允许性与重要性，最流行的论证是：这种排斥对于保全一国独特文化是必要的。文化连续性的吸引力不难理解。正如大卫·米勒所解释的：“他们国家的公共文化是人们有兴趣控制的东西：他们想要能够塑造其民族发展的方式，包括公共文化所包含的价值。他们当然可能不会成功：受珍视的文化特征可能被逃逸于政治控制之外的经济及其他力量侵蚀。但他们当然可能有充分理由去尝试，尤其是尝试随时间维持文化连续性，以便能把自己看作一种可辨认的、在历史上向后延伸的文化传统的承载者。”（Miller 2014: 370）[^miller-2014] 以美国为例。如果美国对来自加拿大的移民不设任何限制，那么既不清楚会有多少加拿大人南迁，也不清楚其迁移是否会对美国文化产生可辨的影响。另一方面，如果美国不限制来自墨西哥的移民，则几乎可以肯定会有多得多的墨西哥人北迁，而美国文化的变化会被许多人视为迅速而剧烈。（Huntington 2005）若如此，开放边界很可能迅速带来变化，使许多美国人在自己的家园中感到不那么自在。有鉴于此，保全本土文化的关切似乎为限制移民提供了合理辩护。
+    step2: |-
+      主张对外关闭边界既正当又重要，最流行的论证是：非如此不足以保全一国特有文化。文化连续性的吸引力不难体会。大卫·米勒说：“本国公共文化是人们有意加以掌控者：他们希望塑造民族发展的方式，包括公共文化所含的价值。他们当然未必成功——受珍视的文化特征可能被经济等不受政治控制的力量侵蚀。但他们完全可能有充分理由一试，尤其是力图维持文化在时间上的连续，好让自己成为某种可辨认、在历史上向后延伸的文化传统之担纲者。”（Miller 2014: 370）[^miller-2014] 以美国为例：若对加拿大移民不设限额，既不知会有多少加拿大人南下，也不知其迁徙能否在美国文化上留下可辨痕迹。但若对墨西哥移民不设限，则几乎肯定会有远为众多的墨西哥人北上，而美国文化之变会被许多人视为迅速而剧烈（Huntington 2005）。果如此，开放边界恐将很快带来变化，使许多美国人在故土上反觉不适。于是，保全本土文化的关切似为限制移民提供了合理理由。
   - id: 5
     kind: body
     source: |-
       This line of argument invites a number of empirical and moral questions. Among the empirical questions, we might ask how confident we can be about the numbers and influence of the potential immigrants. Is the immigrants’ culture really that distinctive? And are we sure that these newcomers will resist assimilation? Also, how can we be sure that the cultural changes will be rapid and detrimental? Skeptics of this line of argument often object that people tend to (1) exaggerate how distinctive—and distinctively valuable—their existing cultures are (it is notoriously difficult to characterize “American” culture, for instance), (2) irrationally fear change, and (3) underestimate how much their culture is changing anyway, in the absence of immigration. Even if all of these descriptive objections can be definitively answered, important moral challenges remain. In particular, even if citizens have an understandable *interest* in maintaining cultural continuity, it remains an open question as to whether they have a corresponding moral right (and, if so, one might wonder about how weighty this right is). These questions matter, because outsiders may also have competing interests in, and/or rights to, enter the country in question, and thus they may permissibly be excluded only if the rights of insiders to preserve their cultural continuity outweigh any rights of foreigners to enter the political territory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一论证路数引出若干经验问题与道德问题。在经验问题中，我们可以问：我们对潜在移民的数量与影响能有多大把握？移民的文化真的那么独特吗？我们能确定这些新来者会抵制同化吗？又如何确知文化变化会迅速而有害？怀疑这条论证的人常常反驳说，人们倾向于：(1) 夸大自己既有文化的独特性——以及独特的价值（例如“美国”文化就以难以刻画著称）；(2) 非理性地恐惧变化；(3) 低估在没有移民的情况下，其文化本来就在变化多少。即便所有这些描述性反对意见都能被明确回答，仍有重要的道德挑战：尤其，即便公民对维持文化连续性有一种可理解的利益，他们是否有相应的道德权利仍是一个开放问题（若有，人们还会问这权利有多重）。这些问题要紧，因为外人对于进入该国也可能有竞争性的利益和/或权利，因此，只有当内部人保全文化连续性的权利重于外国人进入政治领土的权利时，排斥外人才可能是可允许的。
+    step2: |-
+      这条论证引出若干经验与道德问题。经验方面：我们对潜在移民的人数与影响能有几分把握？移民文化果真那么独特？我们能确定新来者会抗拒同化？又何以确知文化变化既快又有害？怀疑者常反驳：人们往往 (1) 夸大既有文化之独特（及其独特价值，例如“美国”文化就以难以界定著称）；(2) 非理性地惧怕变化；(3) 低估即使没有移民，文化本来也在变。纵使这些描述性反对都能圆满答复，重大道德挑战仍在：公民对维持文化连续性虽有可理解的利益，是否拥有相应道德权利仍属未决（若确有，其分量亦待衡量）。此点要紧，因为外人进入该国也或有竞争性利益与权利；故唯有内部人保全文化连续性的权利重于外人进入政治领土的权利，排斥外人才站得住。
   - id: 6
     kind: body
     source: |-
       Finally, even if each of these moral challenges could also be conclusively answered, this approach would not justify excluding all outsiders. At most, it could explain only why countries would be entitled to *limit the flow* of *culturally distinct* immigrants. To put this point in terms of the United States, for instance, even if the aim of preserving American culture would justify placing limits on Mexican immigration, it would not seem to justify excluding all Mexicans, let alone all Canadians.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，即便这些道德挑战也都能得到确凿回答，这一进路也不会为排斥一切外人提供辩护。它至多只能解释为什么各国有资格限制文化上独特移民的流入。以美国为例：即便保全美国文化的目标能为限制墨西哥移民提供辩护，它似乎也不能为排斥所有墨西哥人提供辩护，更不用说所有加拿大人。
+    step2: |-
+      最后，纵使上述道德挑战也都能获确凿解答，此路径仍不足以为排斥一切外人辩护。它至多能说明：各国有权限制文化上独特的移民流入。以美国为例，保全美国文化纵可为限制墨西哥移民提供理由，却似乎不足以排斥一切墨西哥人，更遑论所有加拿大人。
   - id: 7
     kind: body
     source: |-
       ### 1.2 Sustaining the Economy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.2 维持经济
+    step2: |-
+      ### 1.2 维持经济
   - id: 8
     kind: body
     source: |-
       Another popular argument against open borders is that the influx of newcomers will hurt the economy. In its most straightforward version, this argument simply assumes that the domestic economy can support only a certain number of workers, but more nuanced renditions allege more specifically that at least some types of foreigners should be excluded because, given the cultural differences between insiders and these particular outsiders, the inclusion of the latter would not be conducive to economic growth (perhaps because these outsiders lack the requisite work ethic, for instance).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      反对开放边界的另一个流行论证是：新来者的涌入会损害经济。在其最直白的版本中，这一论证只假定国内经济只能支撑一定数量的工人；但更细致的表述更具体地主张，至少某些类型的外国人应被排斥，因为鉴于内部人与这些特定外来者之间的文化差异，纳入后者不利于经济增长（也许因为这些外来者缺乏必要的工作伦理，例如）。
+    step2: |-
+      另一常见论证说，开放边界会让大量新来者涌入，损害经济。最直白的版本只假定国内经济仅能容纳一定数量的工人；较精细的版本则主张，至少某些类别的外国人应予排斥，因为内部人与这些外来者文化不同，纳入后者不利于经济增长（例如这些外来者缺乏必要的工作伦理）。
   - id: 9
     kind: body
     source: |-
       The most common response to this argument is simply to contest that allowing immigrants will have negative economic consequences. It seems clear that some in the domestic economy may be harmed (typically the less skilled workers disproportionately bear the brunt of the costs, since they must now compete with immigrants whose presence drives down wages), but the economy as a whole often benefits as (1) firms are able to hire cheaper labor (and pass along correspondingly lower prices to consumers), and (2) there is an increased demand for various goods and services. More generally, even if a given domestic economy might suffer if it did not restrict immigration, economists tend to agree that the global economy as a whole would profit from fewer restrictions on who can work where. (From an purely economic perspective, the inefficiencies of barring Africans from competing for work in European countries are costly, just as those which resulted from prohibiting women from working in a ‘man’s’ job were.) This recognition that there will inevitably be net winners and losers whenever a market restriction is lifted points toward the important moral question as to whether anyone has a moral right to the economic benefits of the status quo. For example, let us suppose that less skilled American laborers would be harmed, whereas American firms and consumers along with Mexican immigrants would benefit if the current restriction on Mexican immigration were lifted. If so, then immigration would be impermissible in this case only if the potentially displaced American workers have a right not to face the increased competition for their jobs (Macedo 2007)[^macedo-2007].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对这一论证最常见的回应，就是径直质疑允许移民会有负面经济后果。看来清楚的是，国内经济中一些人可能受损（通常是技术较低的工人不成比例地承担代价，因为他们现在必须与压低了工资的移民竞争），但整体经济往往受益，因为 (1) 企业能够雇佣更廉价的劳动力（并把相应更低的价格转给消费者），(2) 对各种商品与服务的需求增加。更一般地说，即便某个国内经济体若不加限制可能受损，经济学家往往同意，对谁能在哪里工作的限制越少，全球经济整体越受益。（从纯经济角度看，禁止非洲人在欧洲国家竞争工作的低效代价高昂，正如先前禁止女性从事“男人的”工作所造成的低效一样。）这种承认——每当市场限制被解除，必然有净赢家与净输家——指向一个重要道德问题：任何人是否有道德权利获得现状的经济利益。例如，假设取消对墨西哥移民的现行限制会使技术较低的美国劳工受损，而使美国企业、消费者以及墨西哥移民受益。若如此，则只有在可能被取代的美国工人拥有“免于面对工作竞争加剧”的权利时，此情形下的移民才是不可允许的（Macedo 2007）[^macedo-2007]。
+    step2: |-
+      最常见的回应是直接否认允许移民会有负面经济后果。国内经济中确有人可能受损——通常技术较低的工人不成比例地承受代价，因为他们须与压低工资的移民竞争——但整体经济往往受益：(1) 企业可雇到更廉价的劳动力（并把更低价格转给消费者）；(2) 对各类商品与服务的需求增加。更一般地说，纵使某个国内经济体因不加限制而受损，经济学家多半同意：对“谁能在哪里工作”的限制越少，全球经济整体越受益。（纯从经济看，禁止非洲人在欧洲国家竞争工作，与当年禁止女性从事“男人的”工作一样，低效而代价高昂。）由此可知：市场限制一旦解除，必有净赢家与净输家。这就逼出一个道德问题——任何人是否有道德权利享有现状的经济利益？例如，假设取消对墨西哥移民的现行限制会使技术较低的美国劳工受损，而美国企业、消费者与墨西哥移民受益。那么，唯当可能被取代的美国工人拥有“免于工作竞争加剧”的权利时，此情形下的移民才不可允许（Macedo 2007）[^macedo-2007]。
   - id: 10
     kind: body
     source: |-
       We cannot presume that these domestic workers necessarily lack such a right, but neither should we assume that they have it. What is more, even if these workers have a right not to be harmed, it does not follow that opening the economy to foreign workers must be impermissible, at least if there were some way the workers could be adequately compensated for the costs that they disproportionately bear. (Think, for instance, of how the US government routinely provides special unemployment and educational benefits to displaced workers, like those in the textile industry, who lose their jobs as a consequence of new legislation liberalizing trade with foreign countries.) To be successful, then, the economic argument must be much more sophisticated than it might initially appear; in addition to establishing that at least some people will incur economic losses, proponents of this approach must demonstrate that these victims have a moral right to be spared these costs, a right for which they cannot be adequately compensated in other ways.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们不能预设这些国内工人必然没有这种权利，但也不应假定他们有。更重要的是，即便这些工人有不受损害的权利，也推不出向外国工人开放经济必然不可允许——至少如果存在某种办法能充分补偿他们不成比例承担的代价。（例如想想美国政府如何惯常地为因与外国贸易自由化的新立法而失业的流离失所工人——如纺织业工人——提供特别失业与教育补助。）因此，经济论证若要成功，必须远比初看时精细：除了确立至少一些人会蒙受经济损失之外，这一进路的支持者还必须证明这些受害者有道德权利免于这些代价，且这种权利无法以其他方式得到充分补偿。
+    step2: |-
+      我们不能预设这些国内工人没有此类权利，也不该假定他们有。更重要的是：即便工人有不受损害的权利，也推不出向外国工人开放经济必然不可允许——只要存在某种办法足以补偿他们不成比例承受的代价。（试看美国政府如何惯常为因贸易自由化新法而失业的工人——如纺织业者——提供特别失业与教育补助。）所以，经济论证若要成立，必须远比初看精细：不但要证明至少有人蒙受经济损失，还须证明这些受害者拥有免于该代价的道德权利，且此种权利无法以其他方式获得充分补偿。
   - id: 11
     kind: body
     source: |-
       ### 1.3 Distributing State Benefits
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.3 分配国家福利
+    step2: |-
+      ### 1.3 分配国家福利
   - id: 12
     kind: body
     source: |-
       A related but distinct argument for closed borders focuses on the distribution of state benefits like welfare payments and health insurance. The basic idea here is that countries like Sweden and Canada, for instance, must limit immigration in order to sustain anything like their current provision of state benefits. If an affluent welfare state placed no restrictions on who could enter, then masses of poor people from around the world would flock to this country in order to take advantage of its provision of health and welfare benefits. Indeed, presumably so many would immigrate that there would be no way for this state to continue distributing these benefits at anything like their current rate. Thus, given the existing levels of global poverty, it appears as though you can have open borders or welfare states, but you cannot have both.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个相关但不同的支持关闭边界的论证聚焦于国家福利（如福利金与医疗保险）的分配。基本想法是：像瑞典和加拿大这样的国家必须限制移民，才能维持其目前水平的国家福利供给。如果一个富裕福利国家不限制谁能进入，那么世界各地的大量穷人就会涌向这个国家，利用其提供的医疗与福利。确实，大概会有太多人移民，以致该国无法以接近目前的速度继续分配这些福利。因此，鉴于全球贫困的现有水平，看来你要么可以有开放边界，要么可以有福利国家，但不能两者兼得。
+    step2: |-
+      另一相关而不同的论证着眼于国家福利（福利金、医疗保险等）的分配。其基本想法是：瑞典、加拿大之类国家必须限制移民，方能维持现有福利供给水平。富裕福利国家若不加限制，世界各地的大量穷人便会涌来，享用其医疗与福利；涌入者恐怕多到该国无法再按接近现有的水平发放。于是，以当今全球贫困的程度看，开放边界与福利国家似乎只能二选一。
   - id: 13
     kind: body
     source: |-
       It seems hard to deny that rich welfare states like the Scandinavian countries would be inundated with migrants if they lifted all restrictions on immigration, but not everyone agrees that this fact necessarily justifies keeping people out. A libertarian, for instance, would likely regard this as just one more reason to abandon the welfare state. That is, faced with the choice between either respecting everyone’s right to freedom of movement or designing states that can effectively guarantee ample levels of health coverage and welfare transfers to their citizens, the libertarian would favor the former. It is important to recognize, though, that these are not the only two options; the best answer may lie in some middle ground between these two stark alternatives. In particular, perhaps existing welfare states could open their borders to everyone and then provide no, or at least delayed, welfare benefits to newcomers (Kukathas 2014)[^kukathas-2014]. Imagine, for instance, if Sweden stipulated that immigrants would have their income and wealth taxed from the moment they entered the country, but they would not become vested until they had contributed to the state coffers for something like five years. If immigrants were forced to contribute during a waiting period, such an arrangement would presumably strengthen rather than jeopardize the host state’s capacity to provide state benefits. Thus, while some would no doubt object to newcomers facing a period in which they were net losers, this proposal at least shows that welfare states need not be incompatible with open borders.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      很难否认，像斯堪的纳维亚国家这样的富裕福利国家若取消一切移民限制，会被移民淹没；但并非人人都同意这一事实必然为把人拒之门外提供辩护。例如，自由至上主义者很可能把这看作放弃福利国家的又一个理由。也就是说，面对“尊重每个人自由迁徙的权利”与“设计能有效保障公民充分医保与福利转移的国家”之间的选择，自由至上主义者会偏爱前者。然而，重要的是要认识到，这并非仅有的两个选项；最佳答案可能在这两个截然对立的选项之间的某种中间地带。尤其，也许现有福利国家可以向所有人开放边界，然后不给新来者提供福利，或至少延迟提供（Kukathas 2014）[^kukathas-2014]。例如，设想瑞典规定：移民自入境之时起即须缴纳所得税与财富税，但须缴满约五年才取得福利资格。如果移民在等待期内被迫缴费，这样的安排大概会增强而非危及东道国提供国家福利的能力。因此，虽然无疑会有人反对新来者经历一段净损失期，但这一提议至少表明，福利国家不必与开放边界不相容。
+    step2: |-
+      很难否认，斯堪的纳维亚式的富裕福利国家一旦取消一切移民限制，便会被移民淹没；但并非人人都认为此事实足以为拒人于门外辩护。自由至上论者多半会把这看成放弃福利国家的又一理由：在“尊重人人自由迁徙之权”与“设计足以保障公民充分医保与福利转移的国家”之间，他们会选前者。然而须知，这并非仅有的两条路；最佳答案或在两极之间。比如，现有福利国家可向所有人开放边界，却不给新来者福利，或至少延后发放（Kukathas 2014）[^kukathas-2014]。设想瑞典规定：移民自入境起即须缴纳所得税与财富税，但须缴费约五年方取得福利资格。若移民在等待期内必须缴费，此安排大概只会增强而非削弱东道国发放福利的能力。固然会有人反对让新来者经历一段净损失期，但此议至少表明：福利国家未必与开放边界不相容。
   - id: 14
     kind: body
     source: |-
       Finally, even if all attempts to square open borders with wealthy welfare states are problematic, this argument does not support the right of all countries to design and enforce their own immigration policies. More modestly, it would show only that wealthy welfare states may do so as long as the world is characterized by profound international inequality.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，即便使开放边界与富裕福利国家相容的一切尝试都有问题，这一论证也不支持所有国家都有权设计并执行自己的移民政策。更谦虚地说，它只表明：只要世界仍以深刻的国际不平等为特征，富裕福利国家就可以这样做。
+    step2: |-
+      最后，纵使调和开放边界与富裕福利国家的种种尝试都有问题，此论证也不足以支持所有国家皆有权自行设计并执行移民政策。它较谦虚的结论只是：只要世界仍深陷国际不平等，富裕福利国家便可如此行事。
   - id: 15
     kind: body
     source: |-
       ### 1.4 Political Functioning
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.4 政治运作
+    step2: |-
+      ### 1.4 政治运作
   - id: 16
     kind: body
     source: |-
       One of the most sophisticated arguments on behalf of a state’s right to close its borders is the liberal nationalist approach, which suggests that liberal welfare states must exclude outsiders in order to function properly. This account emphasizes that states of this kind are able to operate as they do only because their citizens are willing to make the enormous political sacrifices necessary to sustain a vibrant democracy and equitable welfare state. What is more, these citizens are inclined to freely sacrifice in these ways only because they identify with one another. Were it not for this fellow feeling among compatriots, far fewer would be motivated to invest their personal energy in the democratic process or to give up a portion of their wealth in order to assist less fortunate fellow citizens. And finally, this identification among compatriots depends upon the existence of a shared culture (Miller 2014)[^miller-2014].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      支持国家关闭边界权利的最精致论证之一，是自由民族主义进路；它主张自由的福利国家必须排斥外人才能正常运作。这一说明强调，这类国家之所以能如此运作，仅因其公民愿意作出维持蓬勃民主与公平福利国家所必需的重大政治牺牲。更重要的是，这些公民之所以愿意如此自由地牺牲，仅因他们彼此认同。若非同胞间的这种休戚与共感，愿意把个人精力投入民主进程、或放弃部分财富以帮助较不幸同胞的人会少得多。最后，同胞间的这种认同依赖于共同文化的存在（Miller 2014）[^miller-2014]。
+    step2: |-
+      支持国家关闭边界的最精致论证之一，是自由民族主义：自由的福利国家必须排斥外人，方能正常运转。此说强调，这类国家之所以能如此运作，只因公民愿意作出维系蓬勃民主与公平福利国家所需的重大政治牺牲；而他们之所以甘愿如此，只因彼此认同。若无同胞间这份休戚与共，愿意投身民主进程、或让出部分财富以助较不幸同胞者将少得多。而这种同胞认同，又依赖共同文化的存在（Miller 2014）[^miller-2014]。
   - id: 17
     kind: body
     source: |-
       This liberal nationalist account invites all the usual questions: Do liberal democracies really depend upon sufficient trust and fellow-feeling among their compatriots, and, if so, is a common culture genuinely necessary to secure this trust and mutual concern? Just how homogenous must such a culture be? Liberal democracies like the United States and Canada seem to operate just fine despite a great deal of cultural diversity, for instance. In light of this, why worry that outsiders pose a substantial threat? Is it plausible to think that immigrants will not assimilate to the requisite degree once they have settled in their new state? And even if this account can in some cases justify excluding culturally distinct foreigners, it would appear to provide no grounds for limiting outsiders who share the requisite cultural attributes. Assuming that the answers to these empirical questions ultimately vindicate the liberal nationalist account, tricky moral questions remain. For instance, do the inhabitants of well-oiled liberal democracies have not only an interest, but a *moral right* to the exclusive protection afforded by their enviable political regimes? One potential response to this challenge is to suggest that citizens own their own state’s institutions because (by obeying the law and paying taxes, for instance) they have built and maintained them (Pevnick 2011)[^pevnick-2011]. And if citizens have a special moral claim to these institutions, this would explain their right to determine with whom, if anyone, they would like to share them. Some question this account, however, because they doubt that political institutions can be owned (Stilz 2019)[^stilz-2019].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一自由民族主义说明引出一切常见问题：自由民主国家真的依赖同胞间足够的信任与休戚感吗？若是，共同文化真是获得这种信任与相互关切的必要条件吗？这种文化必须多同质？例如，美国与加拿大这样的自由民主国家，尽管文化多样性极大，似乎运作得挺好。有鉴于此，何必担心外人构成实质威胁？认为移民在新国家定居后不会同化到所需程度，这可信吗？而且，即便这一说明在某些情形下能为排斥文化上独特的外人提供辩护，它似乎也没有为限制具有必要文化属性的外人提供任何根据。假定这些经验问题的答案最终支持自由民族主义说明，棘手的道德问题依然存在。例如，运转良好的自由民主国家的居民，对其令人羡慕的政治制度所提供的排他性保护，是否不仅有一种利益，而且有一种道德权利？对这一挑战的一种可能回应是：公民拥有本国制度，因为（例如通过守法与纳税）他们建设并维护了这些制度（Pevnick 2011）[^pevnick-2011]。而若公民对这些制度有特殊道德主张，这就能解释他们有权决定愿与谁（如果有人的话）共享这些制度。然而，有人质疑这一说明，因为他们怀疑政治制度能否被拥有（Stilz 2019）[^stilz-2019]。
+    step2: |-
+      此说引出常见的一连串问题：自由民主国果真依赖同胞间足够的信任与休戚？若是，共同文化果真是此种信任与相互关切的必要条件？这种文化须同质到何种程度？美国、加拿大之类自由民主国文化多样而运转良好，何须担心外人构成实质威胁？说移民定居后不会同化到所需程度，可信吗？再者，即便此说在某些情形下能为排斥文化独特的外人辩护，它似乎仍不能为限制具备所需文化属性的外人提供理由。假定这些经验问题最终都支持自由民族主义，棘手的道德问题依然存在：运转良好的自由民主国居民，对其令人艳羡的政治制度所提供的排他保护，是否不仅有利益，更有道德权利？一种可能回应是：公民拥有本国制度，因为（如守法纳税）他们建设并维护了它（Pevnick 2011）[^pevnick-2011]；若公民对制度有特殊道德主张，便可解释他们有权决定愿与谁共享。然而有人质疑此说，因为他们怀疑政治制度能否被拥有（Stilz 2019）[^stilz-2019]。
   - id: 18
     kind: body
     source: |-
       ### 1.5 Establishing Security
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.5 确立安全
+    step2: |-
+      ### 1.5 确立安全
   - id: 19
     kind: body
     source: |-
       Since 9/11, an increasingly popular justification for limiting immigration is the need to secure the safety of one’s citizens. After all, given the presence of international terrorists, one can hardly question the threat posed by at least some foreigners.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      自 9/11 以来，限制移民的一个日益流行的理由是保障本国公民安全的需要。毕竟，鉴于国际恐怖分子的存在，至少某些外国人所构成的威胁很难否认。
+    step2: |-
+      九一一之后，限制移民的一个日益流行的理由，是保障本国公民安全。国际恐怖分子既在，至少某些外国人所构成的威胁便难以否认。
   - id: 20
     kind: body
     source: |-
       No one can deny the moral importance of protecting innocent civilians from terrorist attack, but critics have questioned whether restricting immigration is in fact likely to provide the desired security. Chandran Kukathas (2014), for instance, raises two important concerns. First, he notes that, while laws to limit immigration may well decrease legal immigration, they will not realistically be able to eliminate all illegal immigrants. And this point is relevant, of course, because foreign terrorists who feel so passionately about their causes so as to be willing to carry out terrorist missions are not likely to be dissuaded from doing so by the illegality of entering the country whose citizens they seek to attack. Second, even if a state could somehow eliminate all legal and illegal immigration, this would not be enough because foreigners routinely enter countries, not as immigrants, but for shorter periods as tourists, guest workers, visiting students, or for short business trips. Thus, even if a country somehow managed to preclude all immigration, it could not reasonably hope to exclude all foreign terrorists unless it also restricted the flow of temporary visitors.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      无人能否认保护无辜平民免遭恐怖袭击的道德重要性，但批评者质疑限制移民是否真能提供所期望的安全。例如，钱德兰·库卡萨斯（2014）提出两个重要关切。第一，他指出，限制移民的法律很可能减少合法移民，却不能实际消除所有非法移民。这一点当然相关，因为那些对事业如此热忱、以至于愿意执行恐怖任务的外国恐怖分子，不太可能因进入目标国属非法而罢手。第二，即便一国能以某种方式消除一切合法与非法移民，这也不够，因为外国人经常进入各国，不是作为移民，而是作为游客、客籍工人、访问学生或短期商务旅行者作短期停留。因此，即便一国设法阻止了一切移民，它也不能合理指望排除所有外国恐怖分子，除非它也限制临时访客的流动。
+    step2: |-
+      保护无辜平民免遭恐袭，其道德重要性无人否认；但批评者问：限制移民是否真能带来所期望的安全？钱德兰·库卡萨斯（2014）提出两点。其一，限制移民的法律多半会减少合法移民，却无法真正消除非法移民。此点相关，因为那些对事业狂热到愿执行恐袭任务的外国恐怖分子，不会因入境非法而收手。其二，纵使一国能以某种方式消除一切合法与非法移民，仍不足够：外国人常以游客、客籍工人、访问学生或短期商务旅行者身份短期入境，并非移民。故纵使一国挡住了一切移民，若不限制临时访客，也休想排除所有外国恐怖分子。
   - id: 21
     kind: body
     source: |-
       ### 1.6 Political Self-Determination
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.6 政治自决
+    step2: |-
+      ### 1.6 政治自决
   - id: 22
     kind: body
     source: |-
       Another account of a country’s right to close its borders alleges that this right is merely one component of a state’s more general right to political self-determination (Walzer 1983; Pevnick 2011;Song 2019)[^pevnick-2011][^song-2019][^walzer-1983]. Specifically, some contend that a legitimate state’s right to freedom of association entitles it to choose whether or not to admit any given immigrants (Wellman 2008)[^wellman-2008]. This type of argument involves three basic premises (1) legitimate states have a right to political self-determination, (2) freedom of association is an essential component of self-determination, and (3) freedom of association entitles one to refuse to associate with others. Thus, just as we would consider it an egregious violation of an individual’s personal self-determination if she had no choice but to marry the suitor of her father’s choice, for instance, we should recognize that no political community is fully self-determining unless it has discretion over which potential immigrants to invite into its political community. According to this line of argument, then, there is nothing mysterious or complicated about a country’s right to screen applicants for admission: it is merely a standard component of a state’s more general right to self-determination.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一种关于国家关闭边界权利的说明主张，这一权利只是国家更一般的政治自决权的一个组成部分（Walzer 1983; Pevnick 2011; Song 2019）[^pevnick-2011][^song-2019][^walzer-1983]。具体说，有人主张，合法国家的结社自由权使其有权选择是否接纳任何给定移民（Wellman 2008）[^wellman-2008]。这类论证包含三个基本前提：(1) 合法国家有政治自决权；(2) 结社自由是自决的必要组成部分；(3) 结社自由使一个人有权拒绝与他人结社。因此，正如若一个女人别无选择只能嫁给父亲选定的求婚者，我们会认为这是对其个人自决的严重侵犯，我们也应承认：任何政治共同体若无权酌情决定邀请哪些潜在移民进入其政治共同体，就不是完全自决的。按这一论证，一国筛选入境申请者的权利并无神秘或复杂之处：它只是国家更一般的自决权的标准组成部分。
+    step2: |-
+      另一种说明认为，国家关闭边界的权利只是其更一般的政治自决权之一部分（Walzer 1983；Pevnick 2011；Song 2019）[^pevnick-2011][^song-2019][^walzer-1983]。具体而言，有人主张合法国家的结社自由使其有权决定是否接纳某一移民（Wellman 2008）[^wellman-2008]。此类论证有三前提：(1) 合法国家享有政治自决权；(2) 结社自由是自决的必要成分；(3) 结社自由使人有权拒绝与他人结社。于是，正如女子若被迫只能嫁给父亲择定的求婚者，我们会视之为对其个人自决的严重侵犯；我们也应承认：政治共同体若不能自行决定邀请哪些潜在移民入内，便非完全自决。照此说，国家筛选入境申请者的权利并不神秘：它只是国家一般自决权的标准部件。
   - id: 23
     kind: body
     source: |-
       There are a number of ways in which one might contest this line of argument (Fine 2010; Wellman and Cole 2011)[^fine-2010][^wellman-2011]. Most obviously, one might question whether corporate political entities are even eligible for moral rights. Value-individualists, for instance, contend that only individual persons ultimately matter morally, and thus, while political states may be extremely valuable instruments, they are merely instruments and, as such, are not the type of entities to which we can sensibly ascribe moral rights. Secondly, even if countries can somehow qualify for moral rights, it seems far-fetched to liken a country’s freedom of association with respect to immigrants to an individual’s right to refuse a marriage proposal, since presumably marital freedom of association is incalculably more important to an individual than her right to exclude potential compatriots. What is more, it is not clear that the analogy between personal and political freedom of association is even apt, because states that deny immigrants do not merely refuse to politically associate with those who seek to migrate, they also forcibly exclude them from the state’s territory. Finally, even if all of these concerns could somehow be addressed, notice that this argument purports to establish only that *legitimate* states have a *presumptive* right to exclude outsiders. Both of these qualifications are important. The condition that only legitimate states are morally entitled to be self-determining is significant because, given the plausible assumption that many existing states are illegitimate, this argument would not justify the immigration policies of many current states. And the fact that this argument would at best ground only a presumptive right to exclude outsiders is noteworthy, because it leaves open the possibility that this right could be over-ridden by the weightier rights various foreigners may have to be admitted. If a refugee needs to gain entrance in order to escape persecution or a child needs to be admitted in order to reunite with her mother, for instance, then defenders of political self-determination cannot antecedently assume that the legitimate state’s right to freedom of association necessarily trumps these individuals’ claims.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有多种方式可以质疑这条论证（Fine 2010; Wellman and Cole 2011）[^fine-2010][^wellman-2011]。最明显的是，人们可以质疑法人式的政治实体是否有资格享有道德权利。例如，价值个体主义者主张，最终只有个人在道德上要紧，因此，政治国家虽可能是极有价值的工具，却只是工具，因而并非我们可合理赋予道德权利的那类实体。第二，即便国家能以某种方式获得道德权利资格，把一国对移民的结社自由比作个人拒绝求婚的权利也显得牵强，因为婚姻结社自由对个人的重要性，大概远非其排斥潜在同胞的权利可比。更重要的是，个人与政治结社自由之间的类比是否恰当也不清楚，因为拒绝移民的国家不只是拒绝与寻求移居者在政治上结社，还强制把他们排除在国家领土之外。最后，即便所有这些关切都能以某种方式得到回应，也要注意，这一论证只意在确立合法国家有推定权利排斥外人。这两项限定都很重要。只有合法国家在道德上有权自决这一条件之所以重要，是因为，鉴于许多现有国家不合法这一可信假定，这一论证不能为许多现有国家的移民政策辩护。而这一论证至多只奠立排斥外人的推定权利这一事实之所以值得注意，是因为它留下一种可能：这一权利可能被各种外国人可能拥有的、更有分量的入境权利所压倒。例如，若一名难民需要入境以逃离迫害，或一名儿童需要入境以与母亲团聚，那么政治自决的辩护者就不能预先假定合法国家的结社自由权必然压倒这些个人的主张。
+    step2: |-
+      对此可有多种质疑（Fine 2010；Wellman and Cole 2011）[^fine-2010][^wellman-2011]。最明显的是：法人式的政治实体是否有资格享有道德权利？价值个体主义者主张，道德上最终要紧的只有个人；政治国家虽可能是极有价值的工具，却终究只是工具，不属可合理赋予道德权利的那类实体。其次，纵使国家能取得道德权利资格，把国家对移民的结社自由比作个人拒婚之权也属牵强——婚姻结社自由对个人之重要，远非排斥潜在同胞可比。何况此种类比未必恰当：拒绝移民的国家不只是拒绝与之政治结社，还强行将其排除于领土之外。最后，纵使上述关切皆可回应，也须注意：此论证只意在确立合法国家享有推定的排斥权。两项限定都重要。其一，只有合法国家才有道德自决权；鉴于许多现存国家并不合法这一可信假定，此论证便不能为许多现行移民政策辩护。其二，它至多奠立推定的排斥权；这便留下余地：该权利可能被外国人所持更有分量的入境权压倒。例如，难民为逃离迫害而需入境，或儿童为与母亲团聚而需入境时，政治自决的辩护者便不能预先断定合法国家的结社自由权必然压倒这些个人主张。
   - id: 24
     kind: body
     source: |-

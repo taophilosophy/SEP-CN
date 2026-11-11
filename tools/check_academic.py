@@ -56,6 +56,10 @@ WESTERN_PUB_RE = re.compile(
     r"Proceedings|Archiv|Annals|Institute|Society|Handbook|Companion|Yearbook|"
     r"Imprint|monographs?|Dissertation|Brill|SUNY|Press)\b|doi:", re.I)
 
+# 英文条目标题：引号/斜体内的英文标题（≥3 个英文词）表明条目本身为英文文献，
+# 按 ADR-0011“判据=条目语言”照录，不因主题涉中国典籍而要求翻译。
+EN_TITLE_RE = re.compile(r"(?:“[A-Z][^”]{10,}”|\*[A-Z][^*]{10,}\*)")
+
 EXCLUDE_DIRS = {
     '.git', '.github', '.vitepress', '.specify', '.zcode', 'node_modules',
     'en', 'yuanwen', 'pending', 'public', 'script', 'tools', 'rules', 'specs',
@@ -230,7 +234,7 @@ def check_doc(rel, ne, warns, is_supp=False, defer_tail=False):
             if p['cjk'] or p['kana']:
                 continue
             if p['classic_hits'] or p['authorpos_hits'] >= 2:
-                if WESTERN_PUB_RE.search(line):
+                if WESTERN_PUB_RE.search(line) or EN_TITLE_RE.search(line):
                     continue
                 zh_rows += 1
         if zh_rows:
