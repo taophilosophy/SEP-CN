@@ -1917,8 +1917,7 @@
 | general competence | — | 一般胜任度 | jury-theorems | 学界惯例（本词条定名，无条件正确概率）；凭据 2026-11-02 | 2026-11-02 |
 | general covariance | — | 广义协变性 | spacetime-holearg | A 档（学界通行译名） | 2026-10-28 |
 | general relativity | — | 广义相对论 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
-| General Scholium | — | 总释 | newton-philosophy | 牛顿《原理》中译通行（1713 年第二版新增末节） | 2026-11-10 |
-| General Scholium | — | 总释 | newton-principia | 牛顿《原理》中译通行（第二版末总释）；凭证 2026-11-11 | 2026-11-11 |
+| General Scholium | — | 总释 | newton-philosophy；newton-principia | 牛顿《原理》中译通行（1713 年第二版新增末节）；凭证 2026-11-11；2026-11-11 合并同键行（来源列并双 slug） | 2026-11-11 |
 | general volition | — | 一般意志 | occasionalism 首译 | 学界惯例（马勒布朗士研究）；凭证 2026-11-07 | 2026-11-07 |
 | general will | — | 公意 | s/sovereignty 首译 | 学界通行译名（卢梭研究通行，何兆武译本既名）；凭证 2026-11-07 | 2026-11-07 |
 | generalist | — | 通才 | chinese-phil-science | 学界通行（对 technical specialist 技术专家）；凭证 2026-11-07 | 2026-11-07 |
@@ -2692,8 +2691,8 @@
 | Leviathan | — | 利维坦 | s/sovereignty 首译 | 学界通行译名（霍布斯研究通行，黎思复译本既名）；凭证 2026-11-07 | 2026-11-07 |
 | lex | lex | 拉丁原文保留（法律） | oakeshott 首译 | 体例：拉丁术语保留原词并随文释义；凭证 2026-11-07 | 2026-11-07 |
 | lex regia de imperio | lex regia de imperio | 王权法 | marsilius-padua | 学界通行（罗马法术语，皇帝权力源于罗马人民之原则）；凭证 2026-11-09 | 2026-11-09 |
-| lexicographic order | — | 词典序 | belief-merging | 数学通行；凭证 2026-11-10 | 2026-11-10 |
-| leximax | — | 词典最大算子 | belief-merging | 本表既有“词典序”派生（leximax 准则）；凭证 2026-11-10 | 2026-11-10 |
+| lexicographic order | — | 字典序（亦作“词典序”） | belief-merging | 审定名词库（termonline-all·数学名词，2026-11-11 浏览器通道凭证）；数学通行 | 2026-11-11 |
+| leximax | — | 字典最大算子（亦作“词典最大算子”） | belief-merging | 本表“字典序”派生（leximax 准则）；2026-11-11 随主形改 | 2026-11-11 |
 | li (establish) | 立 | 立 | han-dynasty | 徐干名实论（established） | 2026-11-10 |
 | Li Sao | 離騷 | 《离骚》 | han-dynasty | 学界通行学名 | 2026-11-10 |
 | Liar Paradox | — | 说谎者悖论（亦作“说谎者佯谬”） | 语料回收（标题词） | 学界惯例（逻辑学通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
@@ -2761,8 +2760,8 @@
 | logical forms of judgment | — | 判断的逻辑形式 | kant-transcendental | 康德研究通行（范畴表线索）；凭证 2026-11-10 | 2026-11-10 |
 | logical intention | intentio logica | 逻辑意向 | 首现（simon-faversham） | 沿本册 second intention＝第二意向派生；学界中世纪逻辑；凭证 2026-11-08 | 2026-11-08 |
 | logical matrix | — | 逻辑矩阵 | lvov-warsaw | Łukasiewicz 术语通行译法；凭证 2026-11-09 | 2026-11-09 |
-| logical monism | — | 逻辑一元论 | logical-consequence | 逻辑哲学通行译法；凭证 2026-11-09 | 2026-11-09 |
-| logical pluralism | — | 逻辑多元论 | logical-consequence | 逻辑哲学通行译法；凭证 2026-11-09 | 2026-11-09 |
+| logical monism | — | 逻辑一元主义（亦作“逻辑一元论”） | logical-consequence | 审定名词库（termonline-all·自然辩证法名词，2026-11-11 浏览器通道凭证） | 2026-11-11 |
+| logical pluralism | — | 逻辑多元主义（亦作“逻辑多元论”） | logical-consequence | 审定名词库（termonline-all·自然辩证法名词，2026-11-11 浏览器通道凭证）；词条题名与正文均用主义形 | 2026-11-11 |
 | logical positivism | — | 逻辑实证主义 | 首译（stebbing） | 学界通行（维也纳学派；与逻辑经验论 logical empiricism 并用）；凭证 2026-11-09 | 2026-11-09 |
 | logical relativism | — | 逻辑相对主义 | logical-consequence | 逻辑哲学通行译法；凭证 2026-11-09 | 2026-11-09 |
 | Logical slate | — | 逻辑石板 | 首现（william-jevons） | 构词直译（Jevons 教具）；凭证 2026-11-07 | 2026-11-07 |
