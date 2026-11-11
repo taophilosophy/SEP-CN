@@ -1,50 +1,57 @@
 {
- "slug": "cassirer",
- "kind": "retranslate",
- "zh_doc": "c/cassirer.md",
- "state": "s3_checked",
- "steps": [
-  {
-   "step": "clear",
-   "status": "ok",
-   "actor": "task_ops",
-   "at": "2026-11-01T10:12:02Z",
-   "evidence": "baseline gate: 英文镜像齐备（ADR-0009 逐字符），version_pin 一致"
-  },
-  {
-   "step": "draft",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T10:12:02Z",
-   "evidence": "初译完成：零信任译自 yuanwen/cassirer.md，账本双版（step1/step2）齐全"
-  },
-  {
-   "step": "s1",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T10:12:02Z",
-   "evidence": "自校一：体例修复 italic-cjk→加粗、中西空格，check_style 正文 0"
-  },
-  {
-   "step": "s2",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T10:12:02Z",
-   "evidence": "自校二：check_academic --strict 0 硬错误，引用键解析完整"
-  },
-  {
-   "step": "s3",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T10:12:02Z",
-   "evidence": "自校三：翻译波收口，双版账本齐全，学术规范+体例双绿"
+  "slug": "cassirer",
+  "kind": "retranslate",
+  "zh_doc": "c/cassirer.md",
+  "state": "r1_reviewed",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:12:02Z",
+      "evidence": "baseline gate: 英文镜像齐备（ADR-0009 逐字符），version_pin 一致"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T10:12:02Z",
+      "evidence": "初译完成：零信任译自 yuanwen/cassirer.md，账本双版（step1/step2）齐全"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T10:12:02Z",
+      "evidence": "自校一：体例修复 italic-cjk→加粗、中西空格，check_style 正文 0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T10:12:02Z",
+      "evidence": "自校二：check_academic --strict 0 硬错误，引用键解析完整"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T10:12:02Z",
+      "evidence": "自校三：翻译波收口，双版账本齐全，学术规范+体例双绿"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "R-main-20261112",
+      "at": "2026-11-11T17:37:17Z",
+      "evidence": "r1 初审（R-main-20261112，异于初译主代理 2026-11-01，复核独立性满足；译文冷置 11 天后回读）：221 行全文回读并对照 yuanwen 逐段核验。结构五维全等：段 38:38、节 6:6、脚注定义 54:54 键集同序、文内标记顺序一致（含 Skidelsky/Moss 括注内序同源）、尾节序 References→学术工具→其他网络资源→相关词条同源；书目照录源文错拼（Morh、get Wereldbeeld、Uitgeverif、Norton*.*、Press: 1990、Ekenntnißkritik 等）逐字保留；源文自带不改：§3 首段句尾逗号悬置、(mathematical and) 括注、§5 神话思维[Ausdruckswahrnehmen]/日常语言[Dingwahrnehmen] 括注配对。实修 4 处准确性：[Major] §5 五个脚注补（在该书中）定位于《认识现象学》内（源 added five footnotes to Being and Time in The Phenomenology of Knowledge before its publication，原译可误读为给海德格尔书加注）；[Major] §6 补译 two→倒数第二与倒数第三句；[Minor] §2 史学史→史学（Cassirer's history 指其历史著述）；[Minor] §2 极具说服力与敏锐→极具说服力、极为敏锐（并列失衡）。prose 补课（s2 为 11-01 批量收口未逐条豁免，92→79）：实修 13 = 弱动词 3（作出解释→解释；作出贡献→屡有贡献；加以一般化与扩展→得以一般化并扩展）+ as-one 1（作为一个整体被→作为总体由）+ passive 1（被这一公设→由这一公设）+ 长句拆分 8（≥100 字 7 处及 L57 补课句，均在句界/分号安全缝）。余 79 条逐类判定豁免（ADR-0020 留痕）：直引内部 7（L65/L69/L73 黑格尔与卡西尔引文块，先例 faith/ricoeur）；长句 40 为源文周期句忠实镜像（70–99 字，正像/不仅而且/与其说不如说等连接结构承源文从句链）；de-chain 31 为术语性偏正结构（发生论的知识观、被知觉物理对象与过程构成的领域等哲学名词短语）；passive 1（L25 被理解为/被构成承源文 constituted by the synthetic activity 哲学含义）。语体结论：现代汉语学术书面语，无文言仿古；破折号仅用于插入与补充；无 ASCII 直引号、控制字符、重复行；Critical/Major 零残留。"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-10-31T22:08:34Z",
+  "version_pin": {
+    "pubinfo_date": "Feb 27, 2022",
+    "archive_edition": "Fall 2023",
+    "sha256": "893a962c79c07a29cb9cd4251303264908eba945d5ff94e9b270ac33304c1ee7"
   }
- ],
- "blockers": [],
- "created_at": "2026-10-31T22:08:34Z",
- "version_pin": {
-  "pubinfo_date": "Feb 27, 2022",
-  "archive_edition": "Fall 2023",
-  "sha256": "893a962c79c07a29cb9cd4251303264908eba945d5ff94e9b270ac33304c1ee7"
- }
 }
