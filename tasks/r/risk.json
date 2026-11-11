@@ -2,7 +2,7 @@
   "slug": "risk",
   "kind": "retranslate",
   "zh_doc": "r/risk.md",
-  "state": "r1_reviewed",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,13 @@
       "actor": "R-main-20261111",
       "at": "2026-11-11T03:58:05Z",
       "evidence": "初审（对照 yuanwen 全文逐节对读，独立于初译 qr-translator-1，冷置 >40 小时）：问题清单——Major 1：§5.1「The moral difference … is not obviously expressible in a probability calculus」原译「显然没法在概率演算里表达」把 not obviously 译成否定判断（过强），已改为「并不显然能在概率演算里表达出来」；Minor 2：§5.2 实际论「其效用等同于实际实现的那一个结果」漏「之效用」，补为「那个结果的效用」；§6.1「One of the earliest was Handa (1977)」误作「最早的是」，改「最早的一批里就有」。结构对账：H2 11:11、H3 12:12、脚注 marker 59:59 多重集全等、defs 91:91 键集全等、$ 计数 63:63；图片 ../yuanwen/assets/risk/figure1.png 解析通过（14087 B）；列表编号照源（源本身全为 1.，含末项无句点）不擅改；源端笔误（Banzhof、live values、pausible 类）照源直译。四检：check_style 0、check_prose 0、check_academic --strict OK、check_images 悬空 0、check_math missing 0（unbalanced 1 为货币启发式对源文 $1 \\times 10^{-9} 的既有假阳性，沿用 s3 记录）。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "R-main-20261111",
+      "at": "2026-11-11T04:09:45Z",
+      "evidence": "复审（逐句回核原文与逻辑，全文 7 节 332 行）：修改 0 处（r1 三处修复已在位）。核销范围与结果——①术语主形：风险厌恶/风险偏好/风险中性/确定性等值/前景理论/决策权重/秩依概率效用（anticipated utility → 预期效用，expected utility → 期望效用，两形分立不混）/预防原则/固有安全/安全系数/多重屏障/归纳风险/认知风险/风险感知/支付意愿/生命价值，与登记册一致。②数字多重集：正文无缺项；「1 in 1000／1 in 100000」作「千分之一／十万分之一」（中文数词，语义等值）；「10,000 × $400 = $4,000,000」逐字符保留；€100/€30、10/5/3 尤特尔、0.9/0.01、2%→1%、51%→50% 全部对位。③年份与页码：Hempel 1965, 92；Nozick 1974, 74 与 75；Pritchard 2016, 562；Hansson 2013, 49–51 逐一对位。④人名 30 条照登记册（诺齐克/罗尔斯/海萨尼/卡尼曼/特沃斯基/费尔纳/奎金/费舍伯恩/马科维茨/托宾/罗斯柴尔德/斯蒂格利茨/阿罗/普拉特/谢林/兰德尔相关译名）。⑤check_prose 0、check_terms 硬错误 0。⑥图片与公式在 r1 已核（形态见 r1 凭证）。"
     }
   ],
   "blockers": [],

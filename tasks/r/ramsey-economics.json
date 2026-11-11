@@ -2,7 +2,7 @@
   "slug": "ramsey-economics",
   "kind": "retranslate",
   "zh_doc": "r/ramsey-economics.md",
-  "state": "r1_reviewed",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,13 @@
       "actor": "R-main-20261111",
       "at": "2026-11-11T03:42:08Z",
       "evidence": "初审（对照 yuanwen 全文逐节对读，独立于初译会话 R-main-20261110）：问题清单——Major 1：导论段「it is difficult to imagine that there were no economists capable of learning the necessary mathematics had they wished to do so」原译作「无一经济学者愿意去学、且学得会」，把「只要有意便能学会」的反设条件误作并列，已改为「当时竟没有一位经济学者，只要有意，便学不会那些必需的数学」；Minor 0（西季威克引块「（斜体为引者所加）」照源保留、中文强调按体例作加粗，不视为失真）。结构对账：H2 9:9（源 10 含 ## Notes 与 ## Notes to … 双标题，镜像转换重复，已并入 ## 脚注）、H3 10:10、脚注 marker 26:26 多重集全等、defs 40:40 键集全等、$ 计数 670:670、\\tag 1–21c 与 \\tag* 全在；相关词条 6 项照 SUMMARY；无增译无漏译。四检复跑：check_style 0、check_prose 0、check_academic --strict OK、check_math missing 0（unbalanced 1 为货币启发式对镜像行 $1 的假阳性，源镜像逐字符一致）。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "R-main-20261111",
+      "at": "2026-11-11T04:09:44Z",
+      "evidence": "复审（逐句回核原文与逻辑，全文 9 节 343 行）：修改 0 处（r1 条件句修复已在位，复查通过）。核销范围与结果——①术语：拉姆齐规则/赶超标准/横截条件/核算价格/至福/官邸功利主义/同数选择/代际公平/社会贴现率/消费利息率/时间贴现率/边际福祉/储蓄率/福利经济学/社会成本—收益分析等 17 条主形与 yi-zhe-shuo-ming.md 登记行逐条一致；well-being 67 处统一译「福祉」、utility 仅 3 处语境译「效用」（训释效用/未来效用/效用总和），无漂移。②数字与年份多重集比对：正文无缺项；dst 多出者全为版本事实行（2019-06-01/2023-06-02）与中文日期形所致，非误译。③引文页码：Sidgwick 1907: 414、Ramsey 1928: 543 与 553–555、Harrod 1948: 40、Solow 1974a: 9 逐一对位。④人名 20 条照登记册（西季威克/埃奇沃思/帕菲特/科普曼斯/冯·魏茨泽克/哈罗德/索洛/戴蒙德/雅里/查克拉瓦蒂/盖尔/米尔利斯/米德/阿罗/库尔茨/斯特恩/克莱因/诺德豪斯/利特尔/戴斯古普塔）。⑤欧化句与指代：check_prose 0 告警；check_terms 硬错误 0（告警为 defs 照录英文与 first_seen 多 slug 的既有噪声）。"
     }
   ],
   "blockers": [],
