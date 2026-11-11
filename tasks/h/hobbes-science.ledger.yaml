@@ -491,149 +491,199 @@ segments:
     kind: body
     source: |-
       So far it seems that there are two criteria relevant to civil philosophy that Hobbes saw as setting his apart from all other attempts. First, Hobbesian civil philosophy is a science (*scientia*) because human makers have the ability to know the actual causes of the objects of study since they construct them. Second, to count as philosophy and not mere superstition or sophistry, Hobbesian civil philosophy must provide demonstrations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      到目前为止似乎有两个判准与公民哲学相关，霍布斯认为正是它们使他的公民哲学有别于其他一切尝试。第一，霍布斯式公民哲学是一门科学（*scientia*），因为人类制造者能够知道研究对象的实际原因，因为他们构造了它们。第二，要算作哲学而不是单纯的迷信或诡辩，霍布斯式公民哲学必须提供演证。
+    step2: |-
+      至此可见，霍布斯认为有两个判准使他的公民哲学有别于其他一切尝试。其一，霍布斯式公民哲学是一门科学（*scientia*）：人类制造者亲手构造其研究对象，故而能够知道其实际原因。其二，要算作哲学而非单纯的迷信或诡辩，霍布斯式公民哲学必须给出演证。
   - id: 62
     kind: body
     source: |-
       How exactly Hobbes’ use of ‘demonstration’ should be understood as it relates to civil philosophy has been a subject of debate among Hobbes scholars over the past several decades. Much of the focus of this debate has been concerning the Laws of Nature in *Leviathan* XIV and XV. Why restrict the scope of demonstrable civil philosophy to two chapters of *Leviathan*? Why not include, for example, *Leviathan* Parts III (“Of A Christian Commonwealth”) and IV (“Of The Kingdom of Darkness”)? Alternatively, why not also include chapters from Part II (“Of Commonwealth”), especially chapter XVII (“Of the Causes, Generation, and Definition of a Commonwealth”)? One motivation for focus upon chapters XIV and XV is that in those chapters Hobbes seems to have indicated that he saw a deductive relationship between the laws of nature by using the language one might expect in a demonstration. For example, Hobbes described the second law of nature as being “derived from” the first law (LEV 200). The remainder of this section will focus on two ways of understanding Hobbes’ civil philosophy as a demonstration.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      霍布斯对“演证”的使用就公民哲学而言究竟应如何理解，过去几十年一直是霍布斯学者争论的主题。争论的焦点大多涉及《利维坦》第十四、十五章的自然法。为什么把可演证的公民哲学的范围限于《利维坦》的两章？为什么不包括例如《利维坦》第三部分（“论基督教国家”）与第四部分（“论黑暗的王国”）？或者，为什么不包括第二部分（“论国家”）中的诸章，特别是第十七章（“论国家的原因、产生与定义”）？聚焦第十四、十五章的一个动机是：在那两章中，霍布斯似乎通过使用人们在一场演证中可以期待的语言，表明他认为诸自然法之间有演绎关系。例如，霍布斯把第二条自然法描述为从第一条自然法“推导而来”（LEV 200）。本节其余部分将聚焦把霍布斯的公民哲学理解为一场演证的两种方式。
+    step2: |-
+      霍布斯就公民哲学使用“演证”一词究竟何意，几十年来一直是霍布斯研究争论的主题，焦点多在《利维坦》第十四、十五章的自然法。为什么把可演证的公民哲学限定在《利维坦》的两章？为什么不纳入例如第三部分（“论基督教国家”）与第四部分（“论黑暗王国”）？或者为什么不纳入第二部分（“论国家”）的章节，尤其第十七章（“论国家之原因、产生与定义”）？聚焦十四、十五两章的一个动机是：霍布斯在那里似乎用了一般演证中的语言，表明他视诸自然法之间存在演绎关系——例如，他把第二条自然法描述为“从”第一条自然法“推出”（LEV 200）。本节余下部分将讨论把霍布斯的公民哲学理解为演证的两种方式。
   - id: 63
     kind: body
     source: |-
       One way of understanding Hobbes’ claim that civil philosophy is demonstrable connects it to Euclidean geometry. This view has been called the “definitivist” or “definitional” view because of its emphasis on the importance of definitions in Hobbes’ philosophy. One articulation of the definitivist view understands Hobbes’ definition of ‘law of nature’ in *Leviathan* as playing a role similar to an axiom in Euclidean geometry (Deigh 1996)[^deigh-1996]. In *Leviathan* XIV, a law of nature is defined as
-    step1: TBD
-    step2: TBD
+    step1: |-
+      理解霍布斯“公民哲学可演证”这一主张的一种方式，把它与欧几里得几何学相连。这种观点由于强调定义在霍布斯哲学中的重要性而被称为“定义主义”或“定义式”观点。定义主义观点的一种表述，把霍布斯在《利维坦》中对“自然法”的定义理解为起着类似于欧几里得几何学中公理的作用（Deigh 1996）[^deigh-1996]。在《利维坦》第十四章中，自然法定义为：
+    step2: |-
+      把霍布斯“公民哲学可演证”的主张联系到欧几里得几何学，是一条理解路径。这一观点因其强调定义在霍布斯哲学中的重要地位而被称为“定义主义”或“定义式”观点。定义主义的一种表述，把霍布斯在《利维坦》中对“自然法”的定义理解为扮演着类似欧几里得几何学公理的角色（Deigh 1996）[^deigh-1996]。在《利维坦》第十四章，自然法被定义为：
   - id: 64
     kind: body
     source: |-
       > a Precept, or generall Rule, found out by Reason, by which a man is forbidden to do, that, which is destructive of his life, or taketh away the means of preserving the same; and to omit, that, by which he thinketh it may be best preserved. (LEV 198)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 理性所发现的诚命或一般规则，它禁止人去做毁损其生命、或剥夺其保全生命之手段的事，也禁止人忽略他以为最能保全生命的事。（LEV 198）
+    step2: |-
+      > 凡理性发现的诚命或一般规则，都在于人不得做毁损自己生命或剥夺保全生命之手段的事，也不得忽略他自认为最能保全生命的事。（LEV 198）
   - id: 65
     kind: body
     source: |-
       The definivist further claims that like Euclidean axioms Hobbes did not view this axiom—the definition of ‘law of nature’—as requiring demonstration; instead, he derived the first law of nature from it and then derived the others one from another. Why is Hobbesian civil philosophy a demonstrable science on this view? Simply put, it is a demonstrable science because it follows the method of Euclidean geometry, viewed by Hobbes and others as the model of scientific knowledge on account of its clarity and rigor.[^note-11]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      定义主义者进一步主张，霍布斯像对待欧几里得公理一样，并不认为这条公理——“自然法”的定义——需要演证；相反，他从它推出第一条自然法，然后从一条推出其余各条。按这种观点，霍布斯式公民哲学为什么是可演证的科学？简言之，它之所以是可演证的科学，是因为它遵循欧几里得几何学的方法，而霍布斯与其他人因几何学的清晰与严格而把它看作科学知识的模范。[^note-11]
+    step2: |-
+      定义主义者进而主张：正如对待欧几里得公理，霍布斯并不认为这条公理——“自然法”的定义——需要演证；他是从它推出第一条自然法，再逐条推出其余。按此观点，霍布斯式公民哲学何以是一门可演证的科学？简言之：因为它遵循欧几里得几何学的方法，而几何学以清晰与严格，被霍布斯等人奉为科学知识的范型。[^note-11]
   - id: 66
     kind: body
     source: |-
       A virtue of the definitivist view is that it takes seriously Hobbes’ claim that civil philosophy is demonstrable. However, a difficulty faced by the definitivist view, along with any other that understands Hobbes as drawing inspiration from Euclid, is that Hobbes himself harshly criticized Euclidean definitions, arguing that Euclid’s definitions “ought not be numbered among the principles of geometry” because they did not contain the causes of what was to be constructed (EW VII.184). Furthermore, Hobbes criticized the nature of the objects of Euclidean geometry. For example, Hobbes argued against understanding lines as being without breadth since there are no such bodies in nature (EW VII.202). Additionally, Hobbes himself did not ground his own geometry in undemonstrated axioms and held that even Euclidean axioms needed to be demonstrated (OL I.72; OL I.119).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      定义主义观点的一个优点是它认真对待霍布斯关于公民哲学可演证的主张。然而，定义主义观点，以及任何把霍布斯理解为从欧几里得获得灵感的观点，都面临一个困难：霍布斯本人严厉批评了欧几里得的定义，认为欧几里得的定义“不应被算在几何学诸原理之中”，因为它们不包含将要构造的东西的原因（EW VII.184）。此外，霍布斯批评欧几里得几何学对象的性质。例如，霍布斯反对把线理解为没有宽度的东西，因为自然界中没有这样的物体（EW VII.202）。此外，霍布斯本人并没有把他的几何学建立在未演证的公理之上，并认为甚至欧几里得的公理也需要演证（OL I.72; OL I.119）。
+    step2: |-
+      定义主义观点有其优点：它认真对待霍布斯“公民哲学可演证”的主张。但它——连同一切把霍布斯视作从欧几里得获取灵感的观点——面临一个困难：霍布斯本人曾严厉批评欧几里得的定义，认为它们“不应列入几何学的诸原理”，因为它们不包含将要构造之物的原因（EW VII.184）。他还批评欧几里得几何学对象的本性，例如反对把线理解为无广延之物，因为自然界并无此等物体（EW VII.202）。此外，霍布斯自己的几何学并不建立在未演证的公理上，他认为连欧几里得的公理也需要演证（OL I.72; OL I.119）。
   - id: 67
     kind: body
     source: |-
       A second difficulty for the definitivist view lies in its inability to accommodate the laws of nature as commands (Hoekstra 2003: 115)[^hoekstra-2003]. If the laws of nature were derived from the definition of ‘law of nature’, it would be difficult to see how they could then take the form of instructions to perform some action. Indeed, the laws of nature take the form of instructions to do this or that, such as the first law of nature
-    step1: TBD
-    step2: TBD
+    step1: |-
+      定义主义观点的第二个困难在于它无法容纳作为命令的自然法（Hoekstra 2003: 115）[^hoekstra-2003]。如果诸自然法是从“自然法”的定义推出的，就很难看出它们如何能采取指令人们做某事的形式。事实上，诸自然法采取指令人们做这做那的形式，例如第一条自然法：
+    step2: |-
+      定义主义观点的第二个困难，是无法容纳作为命令的自然法（Hoekstra 2003: 115）[^hoekstra-2003]。若诸自然法由“自然法”的定义推出，便难以看出它们如何还能采取指令人行事的形态。而事实上，诸自然法正是“做这做那”的指令，例如第一条自然法：
   - id: 68
     kind: body
     source: |-
       > That every man, ought to endeavour Peace, as farre as he has of obtaining it; and when he cannot obtain it, that he may seek, and use, all helps, and advantages of Warre. (LEV 200)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 每一个人都应当努力寻求和平，只要他有获得和平的希望；当他不能获得和平时，他可以寻求并利用战争的一切帮助与有利条件。（LEV 200）
+    step2: |-
+      > 人人应当尽力谋求和平，只要他有获得和平的希望；当和平不可得时，他可以寻求并利用战争的一切助力与优势。（LEV 200）
   - id: 69
     kind: body
     source: |-
       Beyond the first and second laws of nature, the remaining laws contain instructions concerning what should be done to accomplish peace, that is, they command it, such as the third law of nature which commands “That men performe their Covenants made” (LEV 220).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除第一、第二条自然法之外，其余诸条自然法包含关于应当做什么以实现和平的指令，也就是说，它们命令实现和平，例如第三条自然法命令“人们要履行他们所订的信约”（LEV 220）。
+    step2: |-
+      除第一、第二条外，其余诸条自然法包含“应当做什么以成和平”的指令——也就是说，它们以命令行事，例如第三条自然法命令“人们履行所订的信约”（LEV 220）。
   - id: 70
     kind: body
     source: |-
       An alternative account, what has been called the “maker’s knowledge” view of Hobbes’ civil philosophy, attempts to connect Hobbes’ demonstrations and definitions in geometry with civil philosophy. This view avoids the two difficulties faced by the definitivist account mentioned above and holds that Hobbesian civil philosophy is demonstrable by appealing to Hobbes’ own understanding of what constitutes a demonstration (Adams 2019)[^adams-2019]. The remainder of this section will discuss two features of the “maker’s knowledge” account of Hobbesian civil philosophy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一种解释，即所谓霍布斯公民哲学的“制作者知识”观点，试图把霍布斯在几何学中的演证与定义同公民哲学联系起来。这种观点避免了上面提到的定义主义解释面临的两个困难，并主张霍布斯式公民哲学是可演证的，其根据是霍布斯本人对什么构成演证的理解（Adams 2019）[^adams-2019]。本节其余部分将讨论霍布斯式公民哲学“制作者知识”解释的两个特征。
+    step2: |-
+      另一种解释——所谓霍布斯公民哲学的“制作者知识”（maker’s knowledge）观——试图把霍布斯在几何学中的演证与定义同公民哲学贯通起来。它避开了上述定义主义面临的两个困难，并主张：霍布斯式公民哲学之所以可演证，根据在于霍布斯本人对“什么构成演证”的理解（Adams 2019）[^adams-2019]。本节余下部分讨论“制作者知识”解释的两个特征。
   - id: 71
     kind: body
     source: |-
       First, a requirement for geometrical definitions, which Hobbes stressed in multiple contexts, is that they must provide the causes of the things being defined. For example, Hobbes claimed that the definition of ‘line’ should be as follows: “a line is made by the motion of a point” (OL I.63). Likewise, a plane is made by the motion of a line. Perhaps Hobbes understood all of the laws of nature to be like this type of geometrical definition, but instead of the definition of something like ‘line’ they served as the definition of (and thus how to make) peace. That is, when following all of the laws of nature one could make peace just as by following the generative instructions contained in the definition of ‘line’ one could make a line.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第一，霍布斯在多种语境中强调，几何学定义的一个要求是它们必须提供被定义事物的原因。例如，霍布斯主张“线”的定义应当是：“线由一个点的运动造成”（OL I.63）。同样，面由一条线的运动造成。也许霍布斯把所有自然法都理解为类似这种几何学定义，只不过它们不是诸如“线”的定义，而是和平的定义（因而也是如何制造和平）。也就是说，遵循一切自然法就能制造和平，正如遵循“线”的定义所包含的生成指令就能制造一条线。
+    step2: |-
+      第一，几何学定义有一个要求，霍布斯在多处强调过：定义必须给出被定义之物的成因。例如霍布斯主张，“线”的定义应当是：“线由一个点的运动而成”（OL I.63）；同理，面由一条线的运动而成。霍布斯或许把全部自然法都理解为此类几何学定义：它们不是“线”之类的定义，而是和平的定义（因而也是制造和平的方法）。换言之，遵循全部自然法便可制造和平，正如遵循“线”的定义中包含的生成指令便可制造出一条线。
   - id: 72
     kind: body
     source: |-
       Second, a demonstration for Hobbes did not involve the derivation of features by means of deduction. Such deductions would provide one with knowledge of what was already contained in the starting proposition, making it difficult to see how commands could be derived from the definition of ‘law of nature’ in *Leviathan* XIV. However, Hobbes explicitly said that demonstrations should be synthetic, wherein one builds the complex thing to be demonstrated out of simpler constituent parts. A demonstration, Hobbes asserted, should be understood as a showing of some construction to someone else (OL I.76) and, as a result, he claimed that “entire method of demonstrating is synthetic” (OL I.71). By ‘synthesis’ Hobbes means that one shows how something is put together to reach the desired end, one shows how that thing is made.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二，对霍布斯来说，演证不包含通过演绎推出诸特征。这种演绎只会提供关于起始命题中已经包含的东西的知识，使人难以看出命令如何能从《利维坦》第十四章“自然法”的定义中推出来。然而，霍布斯明确说演证应当是综合的，其中人们用较简单的组成部分构造出要演证的复杂事物。霍布斯断言，演证应当理解为向他人展示某个构造（OL I.76）；因此他声称“演证的全部方法是综合的”（OL I.71）。所谓“综合”，霍布斯指的是：一个人展示某物如何被组装起来以达到所期望的目的，即展示该物如何被制造。
+    step2: |-
+      第二，在霍布斯那里，演证并不经由演绎来推出诸特征。演绎只能给出起始命题中已含内容的知识，由此便难以看出：命令如何能从《利维坦》第十四章“自然法”的定义中推出。但霍布斯明确说，演证应当是综合的：人们用较简单的组成部分构造出有待演证的复杂事物。霍布斯断言，演证应理解为向他人展示某个构造（OL I.76）；因此他声称“演证的整个方法是综合的”（OL I.71）。所谓“综合”，霍布斯指展示某物如何被组装以达到所求目的——即展示该物如何被造出来。
   - id: 73
     kind: body
     source: |-
       The maker’s knowledge view of Hobbes’ civil philosophy draws insight from these two points and understands Hobbesian civil philosophy as demonstrable in the following way. Hobbes begins civil philosophy at a starting point in the “natural condition” of human bodies in *Leviathan* XIII, continues by considering how those bodies could be moved (by commands in the laws of nature) in ways that would be conducive of peace and, finally, are brought together to compose the commonwealth.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      霍布斯公民哲学的制作者知识观点从这两点获得启发，并以下列方式理解霍布斯式公民哲学是可演证的。霍布斯把公民哲学的起点放在《利维坦》第十三章人类身体的“自然状态”，继而考察这些身体如何能（通过诸自然法中的命令）被推动到有利于和平的方式，最后被聚在一起构成国家。
+    step2: |-
+      霍布斯公民哲学的“制作者知识”观从这两点得到启发，这样理解其可演证性：霍布斯把公民哲学的起点放在《利维坦》第十三章人类身体的“自然状态”；继而考察这些身体如何（经由诸自然法中的命令）被引向有利于和平的方向；最终把它们聚合起来，构成国家。
   - id: 74
     kind: oir
     source: |-
       - Sommerville, Johann, 2015, [Thomas Hobbes Bibliography](http://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0096.xml)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - Sommerville, Johann，2015，[托马斯·霍布斯文献目录](http://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0096.xml)
+    step2: |-
+      - Sommerville, Johann，2015，[托马斯·霍布斯文献目录](http://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0096.xml)
   - id: 75
     kind: note
     source: |-
       [^note-1]: Despite lack of widespread acceptance, Hobbes’ natural philosophy did have some influence, for example, upon the early Leibniz (for discussion, see Garber 2009: 13ff.)[^garber-2009].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-1]: 尽管未被广泛接受，霍布斯的自然哲学确实有影响，例如对早期莱布尼茨（讨论见 Garber 2009: 13ff.）[^garber-2009]。
+    step2: |-
+      [^note-1]: 霍布斯的自然哲学虽未获广泛接受，却确有影响，例如影响了早期的莱布尼茨（讨论见 Garber 2009: 13ff.）[^garber-2009]。
   - id: 76
     kind: note
     source: |-
       [^note-2]: Hobbes most often used the term ‘conception’ rather than ‘idea’, but he also frequently used ‘phantasm’.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-2]: 霍布斯最常用的术语是“意象”（conception）而不是“观念”（idea），但他也频繁使用“幻象”（phantasm）。
+    step2: |-
+      [^note-2]: 霍布斯最常用的词是“意象”（conception）而非“观念”（idea）；不过他也经常使用“幻象”（phantasm）。
   - id: 77
     kind: note
     source: |-
       [^note-3]: I cite Hobbes’ Latin Works and English Works as OL and EW, respectively, followed by volume number and page number. So, for example, OL I.82 refers to page 82 in volume I of Hobbes’ *Latin Works*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-3]: 我把霍布斯的《拉丁文著作集》与《英文著作集》分别缩写为 OL 与 EW，后接卷号与页码。例如，OL I.82 指霍布斯《拉丁文著作集》第一卷第 82 页。
+    step2: |-
+      [^note-3]: 霍布斯《拉丁文著作集》与《英文著作集》分别缩写为 OL 与 EW，其后接卷号与页码；例如 OL I.82 即《拉丁文著作集》第一卷第 82 页。
   - id: 78
     kind: note
     source: |-
       [^note-4]: Additional examples where Hobbes explicitly cites the use of a principle from geometry within an explanation include *De Corpore* XXVI.6 (OL I.349), XXVI.8 (OL I.353), and XXVI.10 (OL I.357), *De Homine* 2.2 (OL II.8), and *Dialogus Physicus, sive De natura Aeris Conjectura sumpta ab Experimentis nuper Londini habitis in Collegio Greshamensi* (1661, 1668). Regarding the latter, see Adams (2017) for discussion of the use of geometrical principles within that work.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-4]: 霍布斯在解释中明确引用来自几何学的原理的另外例子包括《论物体》XXVI.6（OL I.349）、XXVI.8（OL I.353）与 XXVI.10（OL I.357），《论人》2.2（OL II.8），以及《物理学对话，或基于近来在伦敦格雷沙姆学院所做实验对空气本性的推测》（*Dialogus Physicus, sive De natura Aeris Conjectura sumpta ab Experimentis nuper Londini habitis in Collegio Greshamensi*，1661、1668）。关于后者，几何学原理在该著作中的使用见 Adams（2017）的讨论。
+    step2: |-
+      [^note-4]: 霍布斯在解释中明确引用几何学原理的其他例子，还有《论物体》XXVI.6（OL I.349）、XXVI.8（OL I.353）与 XXVI.10（OL I.357），《论人》2.2（OL II.8），以及《物理学对话，或基于近来在伦敦格雷沙姆学院所做实验对空气本性的推测》（*Dialogus Physicus, sive De natura Aeris Conjectura sumpta ab Experimentis nuper Londini habitis in Collegio Greshamensi*，1661、1668）。关于后一部著作中几何学原理的运用，见 Adams（2017）的讨论。
   - id: 79
     kind: note
     source: |-
       [^note-5]: This period overlaps with Hobbes’ public embarrassment concerning attempts to square the circle even in the face of repeated criticisms from John Wallis (for discussion of the Hobbes-Wallis debate, see Jesseph 1999)[^jesseph-1999].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-5]: 这一时期与霍布斯在化圆为方问题上的公开难堪相重叠，尽管约翰·沃利斯（John Wallis）一再批评（关于霍布斯-沃利斯论战的讨论见 Jesseph 1999）[^jesseph-1999]。
+    step2: |-
+      [^note-5]: 这一时期恰与霍布斯在化圆为方一事上的公开难堪相重叠，即便约翰·沃利斯（John Wallis）屡加批评亦然（关于霍布斯—沃利斯之争，见 Jesseph 1999）[^jesseph-1999]。
   - id: 80
     kind: note
     source: |-
       [^note-6]: For details regarding the publication of this work, see Shapin and Schaffer (1985: 345–346). I cite Simon Schaffer’s translation of the 1661 edition of *Dialogus Physicus* from Shapin and Schaffer (1985) as DP followed by the page number (I also provide the corresponding citation to the *Latin Works* edition).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-6]: 关于这部著作出版情况的细节，见 Shapin and Schaffer（1985: 345–346）。我把 Shapin and Schaffer（1985）中 Simon Schaffer 翻译的《物理学对话》1661 年版引作 DP，后接页码（我也给出《拉丁文著作集》版的相应引证）。
+    step2: |-
+      [^note-6]: 此书出版详情见 Shapin and Schaffer（1985: 345–346）。《物理学对话》1661 年版引 Simon Schaffer 译本（载 Shapin and Schaffer 1985），缩写作 DP 后接页码（同时给出《拉丁文著作集》版的对应引证）。
   - id: 81
     kind: note
     source: |-
       [^note-7]: For a discussion of some of the many reviews by philosophers and historians of science of this influential work, see Achbari (2017).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-7]: 关于哲学家与科学史家对这部有影响著作的诸多评论中的一部分的讨论，见 Achbari（2017）。
+    step2: |-
+      [^note-7]: 哲学家与科学史家对这部影响深远的著作写过大量书评，其中若干的讨论见 Achbari（2017）。
   - id: 82
     kind: note
     source: |-
       [^note-8]: See Hattab (2011) for discussion of differences and commonalities among those who self-identified as or have been categorized by scholars as advancing some form of mechanical philosophy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-8]: 关于那些自我认同为或被学者归为推进某种形式机械哲学的人之间的差异与共同点的讨论，见 Hattab（2011）。
+    step2: |-
+      [^note-8]: 一些人自认或被学者归为某种机械哲学的推进者；他们之间的异同，见 Hattab（2011）的讨论。
   - id: 83
     kind: note
     source: |-
       [^note-9]: On the distinction between speculative and experimental natural philosophy, see Anstey (2005).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-9]: 关于思辨自然哲学与实验自然哲学的区分，见 Anstey（2005）。
+    step2: |-
+      [^note-9]: 思辨自然哲学与实验自然哲学之别，见 Anstey（2005）。
   - id: 84
     kind: note
     source: |-
       [^note-10]: For example, Hobbes’ translations of Thucydides’ *History of the Peloponnesian War* and Aristotle’s *Rhetoric*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-10]: 例如霍布斯对修昔底德《伯罗奔尼撒战争史》与亚里士多德《修辞学》的翻译。
+    step2: |-
+      [^note-10]: 例如，霍布斯曾翻译修昔底德的《伯罗奔尼撒战争史》与亚里士多德的《修辞学》。
   - id: 85
     kind: note
     source: |-
       [^note-11]: For discussion and criticisms of the definitivist view, see Deigh (2003), Hoekstra (2003), Lloyd (2009: 151–210), and Murphy (2000).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-11]: 关于定义主义观点的讨论与批评，见 Deigh（2003）、Hoekstra（2003）、Lloyd（2009: 151–210）与 Murphy（2000）。
+    step2: |-
+      [^note-11]: 对定义主义观点的讨论与批评，见 Deigh（2003）、Hoekstra（2003）、Lloyd（2009: 151–210）与 Murphy（2000）。

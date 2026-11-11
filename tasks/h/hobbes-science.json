@@ -2,7 +2,7 @@
   "slug": "hobbes-science",
   "kind": "retranslate",
   "zh_doc": "h/hobbes-science.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,13 @@
       "actor": "task_ops",
       "at": "2026-11-01T13:13:11Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "H-main-20261111",
+      "at": "2026-11-11T04:51:12Z",
+      "evidence": "账本 tasks/h/hobbes-science.ledger.yaml 85 段（body=73 oir=1 note=11）双版齐备；lq check 守恒门通过（残余 0，SOFT 仅斜体→书名号与机械段）；compose 写回 23339 字符；对账：defs 键 49=49、内联脚注标记 35=35、编号节 5/5 与尾节序齐备"
     }
   ],
   "blockers": [],
