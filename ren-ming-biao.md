@@ -275,6 +275,7 @@
 | Bai Juyi | — | 白居易 | — | — | buddhism-chan | 学界千年通行译名 | 2026-11-05 |
 | Baier, Annette | — | 安妮特·拜尔 | 新西兰／美国／哲学家 | 1929–2012 | reflective-equilibrium | 学界通行音译；凭证 2026-11-11 | 2026-11-11 |
 | Bailey, Samuel | — | 塞缪尔·贝利 | — | — | 语料回收（molyneux-problem 首译） | 学界通行汉译（苏格兰常识学派，Mill 论战对象）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
+| Baillargeon, Renée | — | 蕾妮·贝拉尔吉翁 | 加拿大 | 1954– | innateness-cognition | 音译（婴儿核心知识实验）；凭证 2026-11-12 | 2026-11-12 |
 | Baillet, Adrien | — | 巴耶 | — | — | descartes-works | 学界通行（笛卡尔早期传记作者） | 2026-11-06 |
 | Bain, Alexander | — | 亚历山大·贝恩 | — | — | brentano-judgement 首译 | 学界通行汉译（苏格兰哲学家，《感觉与理智》作者）；凭证 2026-11-09 | 2026-11-09 |
 | Baizhang Huaihai | — | 百丈怀海 | — | — | buddhism-chan | 佛学界通行汉译（《清规》作者） | 2026-11-05 |
@@ -301,6 +302,7 @@
 | Barner, David | — | David Barner | — | — | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Barnes, Elizabeth | — | 伊丽莎白·巴恩斯 | 美国 | — | disability | 学界惯例音译（残疾社会建构论代表，《少数派身体》作者；正文首现括注）；凭证 2026-11-09 | 2026-11-09 |
 | Barnes, Jonathan | — | 乔纳森·巴恩斯 | 英国 | 1935– | zeno-elea | 学界通行汉译（《前苏格拉底哲学家》作者；与 Elizabeth Barnes 异人）；凭证 2026-11-09 | 2026-11-09 |
+| Baron-Cohen, Simon | — | 西蒙·巴伦-科恩 | 英国 | 1958– | innateness-cognition | 音译（错误信念测验、自闭症研究）；凭证 2026-11-12 | 2026-11-12 |
 | Barr, Michael | — | Michael Barr | — | — | logic-linear | 无通行汉名，保留英文原名（*-自治范畴）；凭证 2026-11-10 | 2026-11-09 |
 | Barrett, Justin L. | — | 贾斯汀·L. 巴雷特 | — | — | religion-epistemology | 学界通行音译（宗教认知科学，HADD 假说）；凭证 2026-11-10 | 2026-11-10 |
 | Barrio, Eduardo | — | Eduardo Barrio | — | — | logic-substructural | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
@@ -429,6 +431,7 @@
 | Bloch-von Stritzki, Else | — | 埃尔斯·布洛赫-冯·施特里茨基 | — | — | bloch | 学界通行音译；凭证 2026-11-07 | 2026-11-07 |
 | Block, Ned | — | 内德·布洛克 | — | — | zombies | 学界通行汉译（心灵哲学中译文献通行）；凭证 2026-11-10 | 2026-11-10 |
 | Blondel, Maurice | — | 莫里斯·布隆代尔 | — | — | duhem | 学界惯例（法国哲学家，通行音译） | 2026-11-05 |
+| Bloom, Paul | — | 保罗·布鲁姆 | 美国 | 1963– | innateness-cognition | 音译（发展心理学）；凭证 2026-11-12 | 2026-11-12 |
 | Bloomfield, Leonard | — | 伦纳德·布龙菲尔德 | 美国 | 1887–1949 | idiolects | 学界通行汉译（结构主义语言学奠基者）；凭证 2026-11-11 | 2026-11-11 |
 | Blount, William (Lord Mountjoy) | — | 威廉·布朗特（蒙乔伊勋爵） | — | — | erasmus | 学界惯例（伊拉斯谟研究通行汉译） | 2026-11-04 |
 | Blumberg, Albert E. | — | Blumberg（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09 | 2026-11-09 |
@@ -489,6 +492,7 @@
 | Bousset, Wilhelm | — | 威廉·布塞 | 德国 | 1865–1920 | scholem | 学界通行汉译（宗教史学派）；凭证 2026-11-08 | 2026-11-08 |
 | Bouty, Edmond | — | 埃德蒙·布蒂 | — | — | duhem | 学界惯例（物理学史通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Boxer, Laurence | — | 劳伦斯·博克瑟 | — | — | social-procedures | 构词直译（算法教材作者）；凭证 2026-11-07 | 2026-11-07 |
+| Boyd, Robert | — | 罗伯特·博伊德 | 美国 | 1948– | innateness-cognition | 音译（文化演化）；凭证 2026-11-12 | 2026-11-12 |
 | Boyer, Carl | — | 卡尔·博耶 | — | — | descartes-works | 学界通行（《数学史》作者） | 2026-11-06 |
 | Boyle, Robert | — | 罗伯特·波义耳（亦作“玻意耳”） | — | — | emilie-du-chatelet；descartes-works | 学界通行汉译（SUMMARY 定名沿用；波义耳定律；2026-11-09 反向校对合并同人异形行） | 2026-11-04 |
 | Bradley, F. H. | — | 布拉德雷 | — | — | hegel-social-political | 英国唯心论者（学界通行汉译） | 2026-11-10 |
@@ -580,6 +584,7 @@
 | Caesalpino, Andrea | — | 安德烈亚·切萨尔皮诺 | 意大利／文艺复兴哲学家与植物学家 | 1519–1603 | johann-sturm | 学界通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | Cahill, Ann | — | 卡希尔 | — | — | erotic-art | 学界惯例音译（女性主义哲学） | 2026-11-08 |
 | Cai Yong | — | 蔡邕 | — | — | han-dynasty | 上游自带汉字（东汉文学家） | 2026-11-10 |
+| Cain, Mark | — | 马克·凯恩 | — | — | innateness-cognition | 音译（本词条作者）；凭证 2026-11-12 | 2026-11-12 |
 | Cajetan, Thomas de Vio | — | 托马斯·德·维奥·卡耶坦（通称卡耶坦） | 意大利／天主教托马斯主义 | 1469–1534 | analogy-medieval | 中世纪神哲学通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | Caligula | — | 卡利古拉 | — | —；godwin | godwin | 学界通行汉译（罗马皇帝） | 2026-11-10 合并（同键变体，来源列并双 slug） |
 | Calkins, Mary | — | 玛丽·卡尔金斯 | — | — | langer | 美国心理学家、哲学家（哈佛旁听而拒授学位；学界惯用“卡尔金斯”）；凭证 2026-11-08 | 2026-11-08 |
@@ -602,6 +607,7 @@
 | Carafa, Giovanna | — | 焦万娜·卡拉法 | — | — | gianfrancesco-pico | 音译（传主之妻） | 2026-11-09 |
 | Cardano, Girolamo | — | 吉罗拉莫·卡尔达诺 | — | — | telesio | 学界通行（文艺复兴通才通译）；凭证 2026-11-08 | 2026-11-08 |
 | Carens, Joseph | — | 约瑟夫·卡伦斯 | 加拿大 | 1947– | immigration | 音译（《移民伦理》作者）；凭证 2026-11-12 | 2026-11-12 |
+| Carey, Susan | — | 苏珊·凯里 | 美国 | 1952– | innateness-cognition | 音译（《概念的起源》作者）；凭证 2026-11-12 | 2026-11-12 |
 | Carington, Whately | — | 威尔弗雷德·卡林顿 | 英国 | 1884–1947 | epiphenomenalism | 学界通行汉译（正文作“卡林顿”）；凭证 2026-11-12 | 2026-11-12 |
 | Carl Immanuel Diez | Carl Immanuel Diez | 卡尔·伊曼努尔·迪茨 | — | — | schlegel | 音译（德国观念论同代人）；凭证 2026-11-07 | 2026-11-07 |
 | Carl Schmitt | — | 卡尔·施米特 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -616,6 +622,7 @@
 | Caroline Böhmer | Caroline Böhmer | 卡罗琳·伯默 | — | — | schlegel | 学界惯例（后嫁 A. W. 施莱格尔、谢林）；凭证 2026-11-07 | 2026-11-07 |
 | Caroline of Ansbach | — | 卡罗琳（威尔士公主） | 德意志（安斯巴赫）／英格兰 | 1683–1737 | newton-philosophy | 英国史通行汉译（乔治二世王后；莱布尼茨—克拉克论战之居中者） | 2026-11-10 |
 | Carroll, Noël | Noël Carroll | 卡罗尔 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Carruthers, Peter | — | 彼得·卡拉瑟斯 | 英国 | 1952– | innateness-cognition | 音译（心灵模块性）；凭证 2026-11-12 | 2026-11-12 |
 | Cartwright, Helen Morris | — | Helen Morris Cartwright | — | — | logic-massexpress | 无通行汉名，保留英文原名（1965 论量词与物质名词；与 Nancy Cartwright 分列）；凭证 2026-11-10 | 2026-11-09 |
 | Cartwright, Nancy | — | 南希·卡特赖特 | 美国／英国 | 1944– | davidson | 学界通行汉译（科学哲学，《自然定律如何撒谎》作者）；凭证 2026-11-10 | 2026-11-10 |
 | Carugo, Adriano | — | 卡鲁戈 | — | — | duhem | 全名汉译“阿德里亚诺·卡鲁戈”，正文简名首现括注；学界惯例（科学史研究通行音译）；凭证 2026-11-06 | 2026-11-06 |
@@ -671,6 +678,7 @@
 | Charles Sanders Peirce | — | 皮尔士（Charles Sanders Peirce） | — | — | schema | 学界惯例（实用主义通行汉译） | 2026-11-06 |
 | Charles V | — | 查理五世 | — | — | erasmus | 学界惯例（神圣罗马皇帝通译）；nicole-oresme/newton 语境指法国瓦卢瓦王朝查理五世，随文以“法国”限定（2026-11-08） | 2026-11-04 |
 | Chase, Martha | — | 玛莎·蔡斯 | — | — | genetics | 噬菌体实验研究者，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11 | 2026-11-11 |
+| Chater, Nick | — | 尼克·查特 | 英国 | — | innateness-cognition | 音译（语言演化）；凭证 2026-11-12 | 2026-11-12 |
 | Châtelet, Émilie du | Émilie du Châtelet | 夏特莱侯爵夫人（Émilie Du Châtelet，1706–1749） | — | — | emilie-du-chatelet | 学界惯例（SUMMARY 定名沿用；科学史界通行"夏特莱侯爵夫人/沙特莱侯爵夫人"） | 2026-11-04 |
 | Chatton, Walter | — | 沃尔特·查顿 | — | — | 首现（crathorn） | 学界惯例（牛津方济各会士，音译）；凭证 2026-11-07 | 2026-11-07 |
 | Chaucer, Geoffrey | — | 乔叟 | — | —；godwin | godwin | 学界通行汉译（《坎特伯雷故事集》作者） | 2026-11-10 合并（同键变体，来源列并双 slug） |
@@ -704,6 +712,7 @@
 | Christian Thomasius | — | 克里斯蒂安·托马修斯 | — | — | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
 | Christian Wildberg | — | 克里斯蒂安·维尔德贝格 | — | — | olympiodorus | 本词条作者；音译待 008 复核；凭证 2026-11-08 | 2026-11-08 |
 | Christian Wolff | — | 克里斯蒂安·沃尔夫 | — | — | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29） | 2026-10-27 |
+| Christiansen, Morten | — | 莫滕·克里斯蒂安森 | 丹麦 | 1963– | innateness-cognition | 音译（语言演化）；凭证 2026-11-12 | 2026-11-12 |
 | Christina, Queen of Sweden | — | 瑞典的克里斯蒂娜女王 | — | — | descartes-works | 学界通行汉译（17 世纪瑞典女王） | 2026-11-06 |
 | Christo | — | 克里斯托 | — | — | environmental-aesthetics | 学界通行（大地艺术） | 2026-11-08 |
 | Christopher Peacocke | — | 克里斯托弗·皮科克 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -804,6 +813,7 @@
 | Coronel, Antony | — | 安东尼·科罗内尔 | 西班牙 | — | demonstration-medieval | Terminist 注释家（1510 年《后分析篇》注释者）；音译，凭证 2026-11-10 | 2026-11-10 |
 | Cortasmenos, John | — | 约翰·科尔塔斯梅诺斯 | 拜占庭 | 卒于 1431/7 | bessarion | 本词条首译（拜占庭语文学家，贝萨里翁师；源文 d. 1431/7；无通行汉名；待 specs/008 审定库复核） | 2026-11-10 |
 | Cosimo de' Medici | — | 科西莫·德·美第奇 | 佛罗伦萨／托斯卡纳大公 | 1519–1574 | natphil-ren | 学界通行汉译（佛罗伦萨学院庇护人）；凭证 2026-11-10 | 2026-11-10 |
+| Cosmides, Leda | — | 莱达·科斯米德斯 | 美国 | 1957– | innateness-cognition | 音译（演化心理学）；凭证 2026-11-12 | 2026-11-12 |
 | Costa, Paul | — | Paul T. Costa（现代学者，保留英文） | — | — | justice-moral-psych | ADR-0022：无通行汉名者保留英文（五因素模型）；凭证 2026-11-10 | 2026-11-10 |
 | Costelloe, Timothy M. | — | 蒂莫西·科斯特洛 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
 | Cotes, Roger | — | 罗杰·科茨 | — | — | 语料回收（全目录） | 学界惯例（《原理》第二版编者；通行音译）；凭证 2026-11-09 | 2026-11-09 |
@@ -812,6 +822,7 @@
 | Coulthard, Glen | — | 格伦·库尔特哈德 | — | — | colonialism | 学界中译文献通译（《红皮肤，白面具》引介文献）；凭证 2026-11-07 | 2026-11-07 |
 | Cournot, Antoine Augustin | — | 安托万·奥古斯丁·库尔诺 | — | — | langer | 学界通行汉译（数学与经济学）；凭证 2026-11-08 | 2026-11-08 |
 | Cousin, Victor | — | 维克多·库桑 | — | — | antonio-rosmini | 法国折衷主义通行音译 | 2026-11-07 |
+| Cowie, Fiona | — | 菲奥娜·考伊 | — | — | innateness-cognition | 音译（《天生观念》作者）；凭证 2026-11-12 | 2026-11-12 |
 | Cowling, Maurice | — | 莫里斯·考林 | — | — | oakeshott | 学界惯例（剑桥大学史家；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
 | Cowling, Sam | — | Sam Cowling（现代学者，保留英文） | — | — | omnipresence | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
 | Crabbé, Marcel | — | Crabbé | — | 无通行汉名，保留英文原名；凭证 2026-11-09 | quine-nf | 比利时 | 2026-11-09 |
@@ -1348,6 +1359,8 @@
 | Gelernter, David | — | 大卫·盖伦特 | 美国 | 1955– | it-moral-values | 学界通行音译（计算机科学）；凭证 2026-11-10 | 2026-11-10 |
 | Geller, Jay Howard | — | 杰伊·霍华德·盖勒 | 美国 | — | scholem | 构词直译（朔勒姆家族史作者）；凭证 2026-11-08 | 2026-11-08 |
 | Gellman, Jerome | — | 杰罗姆·格尔曼 | — | — | religion-epistemology | 学界通行音译（宗教经验与“无神之感”）；凭证 2026-11-10 | 2026-11-10 |
+| Gelman, Rochel | — | 罗谢尔·格尔曼 | 美国 | 1932– | innateness-cognition | 音译（儿童认知）；凭证 2026-11-12 | 2026-11-12 |
+| Gelman, Susan | — | 苏珊·格尔曼 | 美国 | 1957– | innateness-cognition | 音译（概念发展）；凭证 2026-11-12 | 2026-11-12 |
 | Gemistos Plethon | — | 格弥斯托斯·普莱东 | — | — | john-italos | 学界通行汉译（15 世纪新柏拉图主义者）；凭证 2026-11-06 | 2026-11-06 |
 | Gentile, Giovanni | — | 乔瓦尼·金蒂雷 | — | — | gramsci | 意大利新唯心主义哲学家，学界通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11 | 2026-11-11 |
 | Gentili, Alberico | — | 阿尔贝里科·金蒂利 | — | — | sovereignty | 学界通行汉译（近代国际法奠基人通行）；凭证 2026-11-07 | 2026-11-07 |
@@ -1431,6 +1444,7 @@
 | Goodman, Nelson | — | 纳尔逊·古德曼 | — | — | langer | 学界通行汉译（分析美学）；凭证 2026-11-08 | 2026-11-08 |
 | Goodrum, Abby | — | 艾比·古德鲁姆 | 美国 | — | it-moral-values | 学界通行音译（网络伦理）；凭证 2026-11-10 | 2026-11-10 |
 | Gopal Sreenivasan | — | 戈帕尔·斯里尼瓦桑 | — | — | justice-healthcareaccess | 学界惯例（生物伦理通行译法） | 2026-11-02 |
+| Gopnik, Alison | — | 艾莉森·戈普尼克 | 美国 | 1955– | innateness-cognition | 音译（理论论）；凭证 2026-11-12 | 2026-11-12 |
 | Gorampa | — | 果让巴 | — | — | gorampa | 同上人之简称；SUMMARY 定名沿用 | 2026-11-09 |
 | Gorampa Sonam Senge | — | 果让巴·索南僧格 | — | — | gorampa | 藏传中观研究通行音译（go rams pa bsod nams seng ge，1429–89） | 2026-11-09 |
 | Gorampa Sönam Senggé | — | 果让巴·索南僧格 | — | — | epistemology-language-tibetan | 佛学界通行（Go rams pa） | 2026-11-04 |
@@ -1476,6 +1490,7 @@
 | Grene, Marjorie | — | Marjorie Grene（现代学者，保留英文） | — | — | biology-philosophy | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
 | Gretel Karplus | — | 格蕾特尔·卡普卢斯 | 德国／阿多诺之妻 | 1902–1993 | adorno | 学界通行音译；凭证 2026-11-10 | 2026-11-10 |
 | Grew, Nehemiah | — | 尼希米亚·格鲁 | 英国／植物学家 | 1641–1712 | johann-sturm | 学界通行汉译；凭证 2026-11-10 | 2026-11-10 |
+| Grice, H. Paul | — | 保罗·格赖斯 | 英国 | 1913–1988 | innateness-cognition | 学界通行汉译（意义理论）；凭证 2026-11-12 | 2026-11-12 |
 | Griffiths, Paul | — | 保罗·格里菲思 | — | — | genetics | 基因概念哲学研究者，学界通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11 | 2026-11-11 |
 | Grim, Patrick | — | 帕特里克·格里姆 | 美国 | — | omniscience | 学界惯例音译（集合论/全知论证作者；与威尼斯总督 Grim 格里马尼家族 异人）；凭证 2026-11-09 | 2026-11-09 |
 | Grimaldi, Francesco Maria | — | 弗朗切斯科·马里亚·格里马尔迪 | — | — | newton | 科学史通行汉译（衍射发现者）；凭证 2026-11-08 | 2026-11-08 |
@@ -1547,6 +1562,7 @@
 | Hamilton, William | — | 威廉·汉密尔顿 | — | — | antonio-rosmini | 苏格兰哲学家通行音译（与联邦党人汉密尔顿分立） | 2026-11-07 |
 | Hamilton, William Rowan | — | 威廉·罗恩·哈密顿 | 爱尔兰 | 1805–1865 | peirce-benjamin | 数学物理学通行“哈密顿”（四元数、哈密顿力学；与苏格兰哲学家威廉·汉密尔顿分立）；凭证 2026-11-09 | 2026-11-09 |
 | Hamlet | — | 哈姆雷特 | — | — | ingarden | 文学千年通行汉译（莎士比亚剧作主人公，作品义）；凭证 2026-11-08 | 2026-11-08 |
+| Hamlin, J. Kiley | — | 基利·哈姆林 | 美国 | — | innateness-cognition | 音译（道德认知发展）；凭证 2026-11-12 | 2026-11-12 |
 | Han Feizi | — | 韩非子 | — | — | han-dynasty | 人名形；书名形另见术语表（韩非子） | 2026-11-10 |
 | Han Wŏnjin | 韓元震 | 韩元震 | — | — | korean-philosophy | 汉文传统写法（朝鲜性理学家，南塘，湖洛之辩） | 2026-11-05 |
 | Han Yongun | — | 韩龙云 | — | — | korean-buddhism | 学界通行汉译（韩文 한용운，汉字 韓龍雲；韩国近代佛教改革家） | 2026-11-05 |
@@ -1628,6 +1644,7 @@
 | Hengstenberg | — | 亨格斯坦贝格 | — | — | bauer | 学界通行音译（柏林神学家 E.W. Hengstenberg） | 2026-11-08 |
 | Hennig, Willi | — | 威利·亨尼希 | — | — | biology-philosophy | 学界通行汉译（系统学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Henri Poincaré | Henri Poincaré | 庞加莱（Henri Poincaré） | — | — | spacetime-convensimul | 学界惯例（数学物理学界通行汉译） | 2026-11-06 |
+| Henrich, Joseph | — | 约瑟夫·亨里奇 | 美国 | 1968– | innateness-cognition | 音译（文化演化）；凭证 2026-11-12 | 2026-11-12 |
 | Henriette Herz | Henriette Herz | 亨丽埃特·赫茨 | — | — | schlegel | 学界惯例（柏林沙龙主人）；凭证 2026-11-07 | 2026-11-07 |
 | Henry David Thoreau | — | 亨利·大卫·梭罗 | — | — | japanese-aesthetics | 学界通行汉译（美国超验主义）；凭证 2026-11-08 | 2026-11-08 |
 | Henry IV | — | 亨利四世 | 法兰西／国王 | 1553–1610 | grotius | 学界通行汉译（波旁王朝首王）；凭证 2026-11-12 | 2026-11-12 |
@@ -2063,6 +2080,7 @@
 | Kaye, Richard | — | Kaye | 1960– | 无通行汉名，保留英文原名；凭证 2026-11-09 | quine-nf | 英国 | 2026-11-09 |
 | Keen, Andrew | — | 安德鲁·基恩 | 英国 | 1960– | it-moral-values | 学界通行音译（《网民的狂欢》作者）；凭证 2026-11-10 | 2026-11-10 |
 | Keichū | 契沖 | 契沖 | — | — | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
+| Keil, Frank | — | 弗兰克·凯尔 | 美国 | 1952– | innateness-cognition | 音译（概念发展）；凭证 2026-11-12 | 2026-11-12 |
 | Keill, John | — | 约翰·凯尔 | — | — | emilie-du-chatelet | 学界惯例（牛顿派数学家，通行音译） | 2026-11-04 |
 | Keisler, H. Jerome | — | H. Jerome Keisler | — | — | logic-infinitary | 无通行汉名，保留英文原名（美国模型论学家，1936– ）；凭证 2026-11-10 | 2026-11-09 |
 | Keith, George | — | 乔治·基思 | — | — | john-norris | 贵格会改宗者；音译 | 2026-11-07 |
@@ -2271,6 +2289,7 @@
 | Leopold, Aldo | — | 奥尔多·利奥波德 | — | — | environmental-aesthetics | 学界通行（《沙乡年鉴》中译本） | 2026-11-08 |
 | Leopoldo Zea | — | 莱奥波尔多·塞亚 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Leslie Pincus | — | Leslie Pincus | — | — | japanese-aesthetics | 现代学者无通行汉名，保留英文 | 2026-11-02 |
+| Leslie, Alan | — | 艾伦·莱斯利 | 英国 | 1944– | innateness-cognition | 音译（心理理论模块）；凭证 2026-11-12 | 2026-11-12 |
 | Leśniewski, Stanisław | — | Stanisław Leśniewski | — | — | lvov-warsaw | 本库惯例保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Lessig, Larry | — | 拉里·莱西格 | 美国 | 1961– | it-moral-values | 学界通行汉译（《代码》作者）；凭证 2026-11-10 | 2026-11-10 |
 | Lessing, Gotthold Ephraim | — | 戈特霍尔德·埃弗拉伊姆·莱辛 | 德国／启蒙文学与哲学 | 1729–1781 | august-rehberg | 学界千年通行汉译；凭证 2026-11-08 | 2026-11-08 |
@@ -2615,6 +2634,7 @@
 | Michelangelo Buonarroti | — | 米开朗基罗 | 意大利 | 1475–1564 | croce-aesthetics | 千年通行译名（意大利雕塑家、画家）；凭证 2026-11-10 | 2026-11-09 |
 | Michie, Donald | — | 唐纳德·米基 | 英国 | 1923–2007 | computing-history | 学界通行音译（布莱切利园密码分析员，爱丁堡机器智能与知觉系创办者）；凭证 2026-11-10 | 2026-11-09 |
 | Midgley, Mary | — | 玛丽·米奇利 | 英国 | 1919–2018 | it-moral-values | 学界通行音译（《兽与人》作者）；凭证 2026-11-10 | 2026-11-10 |
+| Mikhail, John | — | 约翰·米哈伊尔 | — | — | innateness-cognition | 音译（道德语法）；凭证 2026-11-12 | 2026-11-12 |
 | Mikkola, Mari | — | 玛丽·米科拉 | — | — | erotic-art | 学界惯例音译（女性主义哲学） | 2026-11-08 |
 | Milhaud, Gaston | — | 加斯东·米约 | — | — | duhem | 学界惯例（法国实用主义者，通行音译） | 2026-11-05 |
 | Mill, Harriet Taylor | — | 哈丽雅特·泰勒·密尔 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
@@ -3004,6 +3024,7 @@
 | Philo of Larissa | — | 拉里萨的斐洛 | 希腊（拉里萨） | 公元前 159/8—前 84/3 | carneades | 学界通行汉译（学园最后一位领袖）；凭证 2026-11-10 | 2026-11-09 |
 | Philo the Logician | Philo of Megara | 麦加拉的菲洛（亦称“逻辑学家菲洛”） | — | — | dialectical-school | 学界通行汉译（狄奥多罗斯门生；与皮浪追随者菲洛、亚历山里亚的斐洛异人）；凭证 2026-11-07 | 2026-11-07 |
 | Philoponus, John | — | 菲洛波努斯（亦作“菲洛波诺斯”） | — | — | duhem；democritus | 学界惯例（古典晚期哲学家通行汉译；democritus 行同键异译并入亦作，2026-11-06 冲突消解）；凭证 2026-11-06 | 2026-11-06 |
+| Piaget, Jean | — | 让·皮亚杰 | 瑞士 | 1896–1980 | innateness-cognition | 学界通行汉译（发生认识论）；凭证 2026-11-12 | 2026-11-12 |
 | Picard, Emile | — | 埃米尔·皮卡尔 | — | — | duhem | 学界惯例（数学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Picasso, Pablo | — | 巴勃罗·毕加索 | 西班牙 | 1881–1973 | early-modern-india | 通行汉译（摹本类比提及）；凭证 2026-11-10 | 2026-11-10 |
 | Piccinini, Gualtiero | — | 瓜尔蒂耶罗·皮奇尼尼 | — | — | zombies | 学界惯例（心灵哲学文献通译）；凭证 2026-11-10 | 2026-11-10 |
@@ -3028,6 +3049,7 @@
 | Pinborg, Jan | — | Jan Pinborg（现代学者，保留英文） | — | — | william-sherwood | ADR-0022（伍斯特手稿编者） | 2026-11-09 |
 | Pines, Shlomo | — | 施洛莫·派因斯 | 法国（巴黎出生）／以色列／犹太与伊斯兰哲学 | 1908–1990 | ibn-kammuna | 学界通行音译（阿维森纳研究） | 2026-11-10 |
 | Pini, Maria Silvia | — | 玛丽亚·西尔维娅·皮尼 | — | — | social-procedures | 意大利名音译（社会选择与匹配）；凭证 2026-11-07 | 2026-11-07 |
+| Pinker, Steven | — | 史蒂芬·平克 | 加拿大／美国 | 1954– | innateness-cognition | 学界通行汉译（《语言本能》）；凭证 2026-11-12 | 2026-11-12 |
 | Pinnock, Clark H. | — | Clark H. Pinnock（现代学者，保留英文） | 加拿大 | 1939–2010 | omniscience | ADR-0022：无通行汉名者保留英文（开放神论文集编者）；凭证 2026-11-10 | 2026-11-10 |
 | Pio di Carpi, Alberto III | — | 阿尔贝托三世·皮奥·迪·卡尔皮 | — | — | gianfrancesco-pico | 音译（传主表兄，卡尔皮领主） | 2026-11-09 |
 | Piper, Klaus | — | Klaus Piper（现代学者，保留英文） | — | — | jaspers | ADR-0022：无通行汉名者保留英文（派珀出版社东主）；凭证 2026-11-09 | 2026-11-09 |
@@ -3097,6 +3119,7 @@
 | Prierias, Sylvester Mazzolini | — | 西尔维斯特·马佐里尼·普里埃里亚斯 | 意大利／多明我会 | 1456–1523 | analogy-medieval | 宗教改革史通行音译；凭证 2026-11-08 | 2026-11-08 |
 | Priest, Graham | — | Graham Priest | — | — | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Prinz, Dietrich | — | 迪特里希·普林茨 | 德国／美国 | — | computing-history | 学界通行音译（首个国际象棋程序作者）；凭证 2026-11-10 | 2026-11-09 |
+| Prinz, Jesse | — | 杰西·普林茨 | 美国 | 1970– | innateness-cognition | 音译（激进经验论）；凭证 2026-11-12 | 2026-11-12 |
 | Prior, Arthur | — | 阿瑟·普赖尔 | — | —；logical-consequence | dialectical-school | SUMMARY 定名沿用（逻辑学家，主论证重构者）；凭证 2026-11-07 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | Priscian | — | 普里西安 | — | —；peter-spain | lorenzo-valla | 语法学界通行汉译（晚期罗马语法学家）；待 specs/008 审定库复核 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | Pritchard, Duncan | — | 邓肯·普里查德 | — | — | closure-epistemic | 学界通行音译（安全条件、知识论）；凭证 2026-11-08 | 2026-11-08 |
@@ -3563,7 +3586,9 @@
 | Spade, Paul | — | Paul Spade（现代学者，保留英文） | — | — | buridan | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
 | Spafford, Eugene | — | 尤金·斯帕福德 | 美国 | 1956– | it-moral-values | 学界通行音译（计算机安全）；凭证 2026-11-10 | 2026-11-10 |
 | Specker, Ernst | — | 恩斯特·斯佩克 | 1920–2011 | 数理逻辑学界通行译名（NF 研究）；凭证 2026-11-09 | quine-nf | 瑞士 | 2026-11-09 |
+| Spelke, Elizabeth | — | 伊丽莎白·斯佩尔克 | 美国 | 1949– | innateness-cognition | 音译（核心知识论）；凭证 2026-11-12 | 2026-11-12 |
 | Spencer, Herbert | — | 赫伯特·斯宾塞 | — | — | origin-descent | 学界通行汉译（《社会学原理》中译本通行）；凭证 2026-11-07 | 2026-11-07 |
+| Sperber, Dan | — | 丹·斯珀伯 | 法国 | 1942– | innateness-cognition | 音译（认知人类学、模块性）；凭证 2026-11-12 | 2026-11-12 |
 | Sperling, Johann | — | 约翰·施佩林 | 德国／维滕贝格自然哲学家 | 1603–1658 | johann-sturm | 学界通行音译；凭证 2026-11-10 | 2026-11-10 |
 | Spero, Nancy | — | 南希·斯佩罗 | — | — | erotic-art | 学界惯例音译（女性主义艺术家） | 2026-11-08 |
 | Speusippus | — | 斯彪西波 | — | — | xenocrates | 学界通行汉译（柏拉图外甥、学园第二任园长） | 2026-11-08 |
@@ -3609,6 +3634,7 @@
 | Stephen of Rieti | — | 列蒂的斯蒂芬 | 意大利 | 活跃于 1340 年代 | sharpe | 本词条首译（14 世纪意大利多明我会逻辑学家，无通行汉名；Amerini 研究文献）；凭证 2026-11-09 | 2026-11-09 |
 | Stephen Schiffer | — | 斯蒂芬·希弗 | — | — | 语料回收（全目录） | 学界惯例（语言哲学/心灵哲学）；凭证 2026-11-01 | 2026-11-01 |
 | Stephen Stich | — | 斯蒂芬·斯蒂奇 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Sterelny, Kim | — | 金·斯特雷尔尼 | 新西兰／澳大利亚 | — | innateness-cognition | 音译（演化认识论）；凭证 2026-11-12 | 2026-11-12 |
 | Stern, Alexandra | — | 亚历山德拉·斯特恩 | — | — | genetics | 优生学史家，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11 | 2026-11-11 |
 | Stern, Nicholas | — | 尼古拉斯·斯特恩 | 英国／经济学家 | 1946– | ramsey-economics | 学界通行音译（《斯特恩报告》）；凭证 2026-11-11 | 2026-11-11 |
 | Sterry, Peter | — | 彼得·斯特里 | 英国 | 1613–1672 | cambridge-platonists | 学界通行音译（《论意志自由》作者）；凭证 2026-11-09 | 2026-11-09 |
@@ -3771,6 +3797,7 @@
 | Tomasello, Michael | — | 迈克尔·托马塞洛 | 美国／发展心理学 | 1950– | reinach | 学界通行汉译（发展心理学）；凭证 2026-11-09 | 2026-11-09 |
 | Tomasini Bassols, Alejandro | — | 亚历杭德罗·托马西尼·巴索尔斯 | 墨西哥 | 1952– | epistemology-latin-america | 音译（西班牙语译名惯例）；凭证 2026-11-11 | 2026-11-11 |
 | Tomitano, Bernardino | — | 贝尔纳迪诺·托米塔诺 | 意大利 | 1517–1576 | zabarella | 学界通行音译（逻辑学家，帕多瓦逻辑学第一教席）；凭证 2026-11-09 | 2026-11-09 |
+| Tooby, John | — | 约翰·托比 | 美国 | 1952– | innateness-cognition | 音译（演化心理学）；凭证 2026-11-12 | 2026-11-12 |
 | Torre, Ernesto | — | Ernesto Torre（现代学者，保留英文） | 美国 | — | omniscience | ADR-0022：无通行汉名者保留英文（与 Gonzalez-Torres 异人）；凭证 2026-11-10 | 2026-11-10 |
 | Torricelli, Evangelista | — | 托里拆利 | — | — | duhem | 学界惯例（物理学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Tortora de Falco, Lorenzo | — | Lorenzo Tortora de Falco | — | — | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
@@ -3829,6 +3856,7 @@
 
 ## V
 
+| Vygotsky, Lev | — | 列夫·维果茨基 | 苏联 | 1896–1934 | innateness-cognition | 学界通行汉译（社会文化理论）；凭证 2026-11-12 | 2026-11-12 |
 | Väänänen, Jouko | — | Väänänen | — | — | logical-consequence | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Vacca | — | Vacca（保留英文） | 意大利 | fl. 1921 | belief-merging | ADR-0022：无通行汉名者保留英文（意大利法理学家，1921 论文作者）；凭证 2026-11-10 | 2026-11-10 |
 | Vādi Devasūri | वादीदेवसूरि | 筏提·提婆苏利 | 古印度／耆那教 | 1143 年前后 | jaina-philosophy | 梵音自拟（《知与观点之本性阐明庄严疏》作者） | 2026-11-08 |
@@ -3969,6 +3997,7 @@
 | Welby, Victoria | — | 韦尔比夫人 | — | — | langer | 英国符号学家（significs 创始人；学界惯用“韦尔比夫人”）；凭证 2026-11-08 | 2026-11-08 |
 | Welchman, Gordon | — | 戈登·韦尔奇曼 | 英国 | 1906–1985 | computing-history | 学界通行音译（炸弹机共同设计者）；凭证 2026-11-10 | 2026-11-09 |
 | Wellman, Christopher Heath | — | 克里斯托弗·希思·韦尔曼 | — | — | immigration | 音译（本词条作者，移民伦理）；凭证 2026-11-12 | 2026-11-12 |
+| Wellman, Henry | — | 亨利·韦尔曼 | 美国 | 1947– | innateness-cognition | 音译（心理理论发展）；凭证 2026-11-12 | 2026-11-12 |
 | Wellwood, Alexis | — | Alexis Wellwood | — | — | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Wendell, Susan | — | 苏珊·温德尔 | — | — | genetics | 残障哲学家，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11 | 2026-11-11 |
 | Wertheimer, Roger | — | Roger Wertheimer（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09 | 2026-11-09 |
@@ -4087,6 +4116,7 @@
 | Wundheiler, Aleksander | — | Aleksander Wundheiler | — | — | lvov-warsaw | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Wundt, Wilhelm | — | 威廉·冯特 | — | — | bodily-awareness | 学界千年通行汉译（实验心理学创始人）；凭证 2026-11-07 | 2026-11-07 |
 | Wylton, Thomas | — | 托马斯·威尔顿 | — | — | auriol | 14 世纪牛津思想家通行音译 | 2026-11-07 |
+| Wynn, Karen | — | 卡伦·温 | 美国 | — | innateness-cognition | 音译（婴儿数认知）；凭证 2026-11-12 | 2026-11-12 |
 | Wynn-Williams, C. E. | — | C. E. 温-威廉斯 | 英国 | 1903–1979 | computing-history | 学界通行音译（剑桥卡文迪什实验室闸流管计数器设计者）；凭证 2026-11-10 | 2026-11-09 |
 
 ## X
