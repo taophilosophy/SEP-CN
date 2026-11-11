@@ -2,7 +2,7 @@
   "slug": "epiphenomenalism",
   "kind": "retranslate",
   "zh_doc": "e/epiphenomenalism.md",
-  "state": "s2_checked",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -31,6 +31,13 @@
       "actor": "E-main-20261112",
       "at": "2026-11-11T19:01:59Z",
       "evidence": "s2 语言实修：check_prose --strict 35→2（长篇拆分 8、de-chain 8、被字句 3→受/挨/出自、弱动词 6→实义动词、其余改写），余 2 条 ADR-0020 豁免留痕：行 75 de-chain 三“的”中两处位于 Chalmers 1996 p.198 直引内、行 159 两“被”均在 Ward 1902 引文“被认为…被宣告…”内；check_style --strict 0（斜体转加粗 12 行）；全程现代白话，无文言句式（ADR-0033）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "E-main-20261112",
+      "at": "2026-11-11T19:14:17Z",
+      "evidence": "s3 四检全绿：check_style --strict 0；check_academic --strict OK；check_math 123 公式 missing/unbalanced 0；check_summary H1 mismatch 0 / HARD 0；check_mulu_s HARD 0；check_terms 登记册自洽 exit 0"
     }
   ],
   "blockers": [],
