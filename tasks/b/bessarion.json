@@ -2,7 +2,7 @@
   "slug": "bessarion",
   "kind": "retranslate",
   "zh_doc": "b/bessarion.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -30,7 +30,7 @@
       "status": "ok",
       "actor": "B-main-20261109c",
       "at": "2026-11-09T23:24:16Z",
-      "evidence": "prose 28→0（21 长句拆分重排、6 定语链重排、1 双被动消解；ADR-0020 逐条实修无豁免）；术语核销 7 项登记（comparatio《比较论》/epiclesis 呼求祷文/Filioque 和子句/Hesychast 静修派/metasomatosis 易体/millenarianism 千禧年论/Vulgate 武加大译本，四项学界通行、三项本词条首译待 008 复核）；补漏订正：优西比乌斯→优西比乌、道明会→多明我会；书名处理对齐 corpus 成例（拉丁著作名中译＋括注，buridan 先例）。四检：style 0／terms 定点 0＋自洽 0／academic --strict 0"
+      "evidence": "prose 28→0（21 长句拆分重排、6 定语链重排、1 双被动消解；ADR-0020 逐条实修无豁免）；术语核销 7 项登记（comparatio《比较论》/epiclesis 呼求祷文/Filioque 和子句/Hesychast 静修派/metasomatosis 易体/millenarianism 千禧年论/Vulgate 武加大译本，四项学界通行、三项本词条首译待 008 复核）；补漏订正：优西比乌斯→优西比乌、道明会→多明我会；书名处理对齐 corpus 成例（拉丁著作名中译＋括注，buridan 先例）。四检：style 0／terms 定点 0＋自洽 0／academic --strict 0；2026-11-12 语体复核补记（B-main-20261112，全文通读 278 行）：语体：现代汉语学术书面语，通篇无文言句式与成段仿古；量化辅证 之/的=0.141、句末文言标记 0、吾人 0（引块与文献照录除外）。本轮 s2（B-main-20261109c）即现代白话行文，本补记为 STYLE_ATTEST_FROM 生效后的追补留痕"
     },
     {
       "step": "s3",
@@ -38,6 +38,34 @@
       "actor": "B-main-20261109c",
       "at": "2026-11-09T23:34:17Z",
       "evidence": "style 0／markdownlint 本文件 0（全仓报错均他会话在途文件 z/zeno-elea、z/zombies）／terms 定点 0＋自洽 0／academic --strict 0／check_summary H1 mismatch 0；尾节四件套复核齐（pubinfo 对 baseline 一致、学术工具中文四行 bullet、OIR 链接文本中文、相关词条 SUMMARY 对位＋译注占位行）；defs 91:91 键集与内容逐字符对齐现行镜像"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "B-main-20261112",
+      "at": "2026-11-11T23:30:37Z",
+      "evidence": "冷读对账：全文 278 行逐段回读（源 276 行）：结构五维段落 44:49（差 5 全为体例白名单：作者行并入 H1、照录说明、学术工具解列表、译注占位）、refs/defs 多重集全等、公式 0:0；义理逐段核对无实质偏差（含 John 21:22 sic/si 语文学之争、第四位柏拉图预言三段、De natura et arte 辛普里丘调和模式、六卷对应结构、接受史脉络）；相关词条 11 项对 SUMMARY 定名核定，10 项直合；Lefèvre d'Étaples 三形分叉裁定：登记册校正为 勒费弗尔·戴塔普勒（音节完整、与 SUMMARY 尾节一致），SUMMARY 标题 菲弗/费弗尔 分叉记入 b-wave §4 待裁定（他会话占用 SUMMARY 且须联动 mu-lu-s，不代改）；合一诏书 核证为 papal bull=教宗诏书通行术语不改；登记册补人名 4 行（比代/吕西斯/希帕尔科斯毕达哥拉斯派/马内蒂）；语体：现代汉语学术书面语，通篇无文言句式（量化辅证见 s2 补记）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "B-main-20261112",
+      "at": "2026-11-11T23:32:34Z",
+      "evidence": "术语与人名核销：check_terms --strict 定点 0 硬错误 0 冲突 0 自洽；Hesychast 静修派 在册（bessarion 行）；comparatio 比较论／epiclesis 呼求祷文／metasomatosis 易体 等承 s2 登记一致核销；人名全单 60 项逐一对照登记册（圣巴西尔=册 巴西尔 neoplatonism 行，尊称不冲突；米斯特拉斯为地名不属人名册）；本轮新增 4 行见 r1"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "B-main-20261112",
+      "at": "2026-11-11T23:32:35Z",
+      "evidence": "终稿四检全绿：check_style --strict 0 issue、check_academic --strict 0 硬错误、check_math 0 缺失 0 失衡、check_summary HARD 0；check_prose 0（承 s2 全实修 28→0）；登记册改动后定点 terms 复跑绿"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "B-main-20261112",
+      "at": "2026-11-11T23:32:35Z",
+      "evidence": "全周期完成：前会话 B-main-20261109c 承 s1–s3（人名订正 26 处、prose 28→0、术语 7 项），本会话独立复核 r1 冷读对账全绿＋登记册校正 1 行补 4 行＋Lefèvre 分叉裁定、r2 术语人名全单核销、r3 四检全绿；s2 补语体留痕（STYLE_ATTEST_FROM 追补）；成稿 278 行，refs/defs 85:85 全等"
     }
   ],
   "blockers": [],

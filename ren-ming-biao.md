@@ -229,14 +229,18 @@
 | Belinfante, Maurits | — | Maurits Belinfante | 荷兰 | — | brouwer | ADR-0022：无通行汉名保留英文（布劳威尔学生）；凭证 2026-11-12 | 2026-11-12 |
 | Bieberbach, Ludwig | — | 路德维希·比伯巴赫 | 德国 | 1886–1982 | brouwer | 数学界通行汉译（比伯巴赫猜想）；1933 年加入冲锋队；凭证 2026-11-12 | 2026-11-12 |
 | Blumenthal, Otto | — | 奥托·布卢门塔尔 | 德国 | 1876–1944 | brouwer | 学界通行音译（《数学年刊》编辑、希尔伯特传记作者）；凭证 2026-11-12 | 2026-11-12 |
+| Budé, Guillaume | Guillaume Budé | 纪尧姆·比代 | 法国 | 1467–1540 | bessarion | 学界通行汉译（法国人文主义之父，希腊文与拉丁文本研究奠基者）；凭证 2026-11-12 | 2026-11-12 |
 | Carathéodory, Constantin | — | 康斯坦丁·卡拉泰奥多里 | 希腊／德国 | 1873–1950 | brouwer | 数学界通行音译（变分法测度论）；凭证 2026-11-12 | 2026-11-12 |
 | Eeden, Frederik van | — | 弗雷德里克·范埃登 | 荷兰 | 1860–1932 | brouwer | 音译（荷兰文人，《小约翰》作者；意义学小组成员）；凭证 2026-11-12 | 2026-11-12 |
 | Euwe, Max | — | 马克斯·尤伟 | 荷兰 | 1901–1981 | brouwer | 国际象棋界通行汉译（第五位世界冠军，直觉主义数学研究者）；凭证 2026-11-12 | 2026-11-12 |
 | Freudenthal, Hans | — | 汉斯·弗赖登塔尔 | 德国／荷兰 | 1905–1990 | brouwer | 数学与数学教育界通行汉译（拓扑学家、数学教育家）；凭证 2026-11-12 | 2026-11-12 |
 | Gonseth, Ferdinand | — | 费迪南德·贡塞特 | 瑞士 | 1890–1974 | brouwer | 学界音译（日内瓦认识论学者）；凭证 2026-11-12 | 2026-11-12 |
+| Hipparchus（毕达哥拉斯派） | Ἵππαρχος | 希帕尔科斯 | 古希腊／毕达哥拉斯派 | 约前 4 世纪 | bessarion | 本词条首译（吕西斯书信受信人；与天文学家希帕恰斯 Hipparchus of Nicaea 异人分立）；凭证 2026-11-12 | 2026-11-12 |
 | Holl, Lize de | — | 莉泽·德·霍尔 | 荷兰 | 1870– | brouwer | 本词条首译（布劳威尔夫人，药剂师）；凭证 2026-11-12 | 2026-11-12 |
 | Iongh, Johan de | — | Johan de Iongh | 荷兰 | — | brouwer | ADR-0022：无通行汉名保留英文（布劳威尔学生）；凭证 2026-11-12 | 2026-11-12 |
 | Korteweg, Diederik | — | 迪德里克·科特韦格 | 荷兰 | 1848–1941 | brouwer | 数学界通行汉译（KdV 方程以 Korteweg–de Vries 命名）；凭证 2026-11-12 | 2026-11-12 |
+| Lysis | Λύσις | 吕西斯 | 古希腊／南意大利（塔兰托） | 约前 5–4 世纪 | bessarion | 学界通行音译（毕达哥拉斯派成员，《致希帕尔科斯书信》托名作者）；凭证 2026-11-12 | 2026-11-12 |
+| Manetti, Giannozzo | Giannozzo Manetti | 贾诺佐·马内蒂 | 意大利（佛罗伦萨） | 1396–1459 | bessarion | 学界通行音译（人文主义者，《论人之尊严与卓越》作者）；凭证 2026-11-12 | 2026-11-12 |
 | Menger, Karl | — | 卡尔·门格尔 | 奥地利／美国 | 1902–1985 | brouwer | 学界通行音译（维也纳学圈数学家）；凭证 2026-11-12 | 2026-11-12 |
 | Noether, Emmy | — | 埃米·诺特 | 德国 | 1882–1935 | brouwer | 数学界通行汉译（抽象代数奠基人）；凭证 2026-11-12 | 2026-11-12 |
 | Stigt, Walter van | — | Walter van Stigt | 荷兰／英国 | — | brouwer | ADR-0022：无通行汉名保留英文（布劳威尔传记研究者）；凭证 2026-11-12 | 2026-11-12 |
@@ -497,6 +501,7 @@
 | Borthwick, Richard | — | Richard Borthwick（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09 | 2026-11-09 |
 | Bos, E. P. | — | E. P. Bos（现代学者，保留英文） | — | — | william-sherwood | ADR-0022（中世纪哲学书评作者） | 2026-11-09 |
 | Bosanquet, Bernard | — | 伯纳德·鲍桑葵 | — | — | oakeshott | 学界通行汉译（英国唯心论，哲学史文献通行）；凭证 2026-11-07 | 2026-11-07 |
+| Boscovich, Roger Joseph | — | 罗杰·约瑟夫·博斯科维奇 | 克罗地亚／自然哲学 | 1711–1787 | change | 学界通行汉译（18 世纪自然哲学家，断裂问题点状物质构想）；凭证 2026-11-12 change r2 | 2026-11-12 |
 | Bossuet, Jacques-Bénigne | Jacques-Bénigne Bossuet | 雅克-贝尼涅·博叙埃 | — | — | lady-masham | 学界通行汉译（莫城主教） | 2026-11-07 |
 | Bostock, David | — | David Bostock（现代学者，保留英文） | — | — | deductivism-mathematics | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
 | Boston Crummell | — | 波士顿·克鲁梅尔 | — | — | alexander-crummell | 克鲁梅尔之父，史料人物音译 | 2026-11-07 |
@@ -2281,7 +2286,7 @@
 | Lee, Daniel | — | 丹尼尔·李 | — | — | sovereignty | 构词直译（政治理论家，无通行定译）；凭证 2026-11-07 | 2026-11-07 |
 | Lee, Kibeom | — | Kibeom Lee（现代学者，保留英文） | — | — | justice-moral-psych | ADR-0022：无通行汉名者保留英文（HEXACO 模型提出者）；凭证 2026-11-10 | 2026-11-10 |
 | Leeuwenhoek, Antonie Philips van | — | 安东尼·菲利普斯·范·列文虎克 | 荷兰／显微镜学家 | 1632–1723 | johann-sturm | 学界通行汉译；凭证 2026-11-10 | 2026-11-10 |
-| Lefèvre d'Étaples, Jacques | Jacques Lefèvre d'Étaples | 雅克·勒费弗尔·戴塔普尔 | — | — | agrippa-nettesheim | 学界惯例（法国文艺复兴研究通行汉译） | 2026-11-06 |
+| Lefèvre d'Étaples, Jacques | Jacques Lefèvre d'Étaples | 雅克·勒费弗尔·戴塔普勒 | 法国 | 约 1450–1536 | agrippa-nettesheim；bessarion | 学界惯例（法国文艺复兴研究通行汉译）；2026-11-12 bessarion r1 校正：戴塔普尔→戴塔普勒（d'Étaples 音节完整，与 SUMMARY 词条定名尾节一致） | 2026-11-06 |
 | Leftow, Brian | — | 布莱恩·莱夫托 | 美国 | — | omniscience | 学界惯例音译；凭证 2026-11-09 | 2026-11-09 |
 | Lehrer, Keith | — | 基思·莱勒 | — | — | basing-epistemic | 学界惯例（音译，知识论家，“迷信律师”反例提出者）；凭证 2026-11-08 | 2026-11-08 |
 | Leibniz, Gottfried Wilhelm | — | 戈特弗里德·威廉·莱布尼茨 | — | — | emilie-du-chatelet | 学界千年通行译名（SUMMARY 定名沿用） | 2026-11-04 |
@@ -3223,6 +3228,7 @@
 | Regnier, Laurent | — | Laurent Regnier | — | — | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Rehberg, August Wilhelm | — | 奥古斯特·威廉·雷贝格 | 德国（汉诺威）／启蒙与保守主义 | 1757–1836 | august-rehberg | SUMMARY 定名沿用；学界通行音译（Beiser 研究）；凭证 2026-11-08 | 2026-11-08 |
 | Rehnquist, William | — | 威廉·伦奎斯特 | 美国 | 1924–2005 | double-effect | 学界通行汉译（美国最高法院首席大法官，Vacco v. Quill 多数意见）；凭证 2026-11-11 | 2026-11-11 |
+| Reichardt, Werner | — | 维尔纳·赖夏特 | 德国 | 1924–1992 | change | 认知科学通行汉译（赖夏特探测器提出者）；凭证 2026-11-12 change r2 | 2026-11-12 |
 | Reich, Robert | — | 罗伯特·赖克 | — | — | economic-democracy | 学界惯例（美国劳工部长/学者，通行音译） | 2026-11-04 |
 | Reichenbach, Hans | — | Reichenbach | — | — | lvov-warsaw | 本库惯例保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Reid, Thomas | — | 托马斯·里德 | — | — | SUMMARY 定名（r/reid.md） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-06 | 2026-11-06 |
