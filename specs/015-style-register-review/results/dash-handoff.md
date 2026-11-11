@@ -1,6 +1,6 @@
 # specs/015 破折号专项线交接卡
 
-更新：2026-11-11（pc6）。本卡只记**破折号防滥用线**；语体线（verdicts.jsonl／置空重译）另有其记录，两线互不代管。
+更新：2026-11-12（pc6）。本卡只记**破折号防滥用线**；语体线（verdicts.jsonl／置空重译）另有其记录，两线互不代管。
 
 ## 已完成
 
@@ -11,7 +11,7 @@
 
 ## 续做队列（按 dash-scan 密度降序）
 
-lambert-auxerre（53 处）→ dai-zhen（102）→ kepler（139）→ al-farabi（63）→ leibniz-ethics（101）→ kant-leibniz（147）→ reid-memory-identity（93）→ …（全清单见 dash-verdicts.jsonl `action=fix` 50 条）。
+lambert-auxerre→dai-zhen→kepler→al-farabi→leibniz-ethics→peirce-benjamin→lady-masham 等 14 条已收口（见 dash-verdicts `action=none`）；kant-leibniz（147）由 pc6 并行会话在途修复（2026-11-12）；reid-memory-identity（93 处修 75 留 18 源文自带）2026-11-12 收口。**下一条：kilvington（98 对，8.16/千字）**，其后 leibniz-mind（81）→ lakatos（200）→ …（余 35 条全清单见 dash-verdicts.jsonl `action=fix`，动手前以 dash_scan.py 最新复扫为准）。
 
 **注意事项**：
 
