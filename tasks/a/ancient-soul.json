@@ -2,7 +2,7 @@
   "slug": "ancient-soul",
   "kind": "retranslate",
   "zh_doc": "a/ancient-soul.md",
-  "state": "drafted",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -17,6 +17,27 @@
       "actor": "A-main-20261112",
       "at": "2026-11-11T20:10:47Z",
       "evidence": "ADR-0021 账本 58 段双版补齐（25–58 段本会话新译），lq.py check 守恒 OK；compose 落 a/ancient-soul.md 222 行"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-11T21:22:41Z",
+      "evidence": "逐节对照 yuanwen：脚注引 40=40、定义 61=61、h2/h3=10/13 与源全等；末 34 段本会话新译；人名按既有家法统一（Posidonius=波西多尼乌斯、Clement=亚历山大的克莱门）；pubinfo 2024-05-15 与版本钉一致；正文英文残余 0（仅 H1 与括注原文）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-11T21:22:41Z",
+      "evidence": "check_prose 68→3：实修 65 处（长句拆分/去链/弱动词/被字句）；余 3 为直引内（毕达哥拉斯故事引语 2 处、柏拉图《理想国》608d 引语 1 处）按 ADR-0020 豁免"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-11T21:22:42Z",
+      "evidence": "check_style 0 问题、check_academic OK、check_math missing/unbalanced=0、check_quotes 0 违例、check_terms 硬错 0；Posidonius 登记 ren-ming-biao 并回改正文"
     }
   ],
   "blockers": [],
