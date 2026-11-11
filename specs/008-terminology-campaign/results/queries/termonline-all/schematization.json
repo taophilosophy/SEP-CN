@@ -1,0 +1,103 @@
+{
+ "key": "schematization",
+ "term": "schematization",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T19:34:23+00:00",
+ "status": "ok",
+ "note": "variant=schematization; 审定公布名词库=10; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "模型眼",
+   "en": "schematic eye",
+   "code": "28.029",
+   "standard": "光学名词",
+   "subject": "光学_生物光学与激光医疗"
+  },
+  {
+   "cn": "原理图",
+   "en": "schematic diagram",
+   "code": "03.0180",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械设计与制图_机械制图_一般名词"
+  },
+  {
+   "cn": "示意画法",
+   "en": "schematic representation",
+   "code": "03.0200",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械设计与制图_机械制图_二维制图"
+  },
+  {
+   "cn": "示意图",
+   "en": "schematic diagram",
+   "code": "01.0154",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "示意图",
+   "en": "schematic diagram",
+   "code": "03.0583",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学设备与操作_图像分析技术"
+  },
+  {
+   "cn": "原理图",
+   "en": "schematic drawing",
+   "code": "11.0446",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机应用_计算机辅助设计与图形学"
+  },
+  {
+   "cn": "方案设计",
+   "en": "schematic design",
+   "code": "06.0075",
+   "standard": "建筑学名词",
+   "subject": "建筑学_市场管理与工程建设程序_设计阶段"
+  },
+  {
+   "cn": "模型眼",
+   "en": "schematic eye",
+   "code": "05.003",
+   "standard": "医学名词 第五分册",
+   "subject": "医学_眼科学_眼屈光学"
+  },
+  {
+   "cn": "机构简图",
+   "en": "schematic diagram of mechanism",
+   "code": "01.0050",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机构与机器人学_一般名词"
+  },
+  {
+   "cn": "方案设计",
+   "en": "schematic design;scheme design;conceptual design",
+   "code": "06.0067",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林设计_设计内容和指标"
+  },
+  {
+   "cn": "原理图",
+   "en": "schematic",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "示意图",
+   "en": "schematic diagram",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "示意图",
+   "en": "schematic diagram",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

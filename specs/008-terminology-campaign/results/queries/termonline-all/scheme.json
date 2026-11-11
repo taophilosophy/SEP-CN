@@ -1,0 +1,348 @@
+{
+ "key": "scheme",
+ "term": "scheme",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T19:34:23+00:00",
+ "status": "ok",
+ "note": "variant=scheme; 审定公布名词库=449; 海峡两岸名词对照库=178; 其他来源数据库=23; 预公布名词数据库=18; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "概形",
+   "en": "scheme",
+   "code": "04.1097",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_代数几何学"
+  },
+  {
+   "cn": "筛路",
+   "en": "sieve scheme,sifting scheme",
+   "code": "03.0709",
+   "standard": "食品科学技术名词",
+   "subject": "食品科学技术_食品工程_食品原料与加工_谷物与谷类制品"
+  },
+  {
+   "cn": "迎风格式",
+   "en": "upstreame scheme,upwind scheme",
+   "code": null,
+   "standard": "力学名词",
+   "subject": "力学_流体力学"
+  },
+  {
+   "cn": "S概形",
+   "en": "S-scheme",
+   "code": "04.1100",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_代数几何学"
+  },
+  {
+   "cn": "方案设计",
+   "en": "scheme design",
+   "code": "03.0025",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械设计与制图_机械设计_设计流程"
+  },
+  {
+   "cn": "方案图",
+   "en": "scheme drawing",
+   "code": "03.0176",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械设计与制图_机械制图_一般名词"
+  },
+  {
+   "cn": "施肥方案",
+   "en": "fertilization scheme",
+   "code": "09.262",
+   "standard": "农学名词",
+   "subject": "土壤肥料_植物营养学"
+  },
+  {
+   "cn": "分类方案",
+   "en": "classification scheme",
+   "code": "03.01.045",
+   "standard": "档案学名词",
+   "subject": "档案学_档案管理_档案收集与整理"
+  },
+  {
+   "cn": "混合格式",
+   "en": "hybrid scheme",
+   "code": "03.165",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程模拟"
+  },
+  {
+   "cn": "指数格式",
+   "en": "exponential scheme",
+   "code": "03.166",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程模拟"
+  },
+  {
+   "cn": "显式方案",
+   "en": "explicit scheme",
+   "code": "03.171",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程模拟"
+  },
+  {
+   "cn": "隐式方案",
+   "en": "implicit scheme",
+   "code": "03.172",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程模拟"
+  },
+  {
+   "cn": "方案",
+   "en": "scheme",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "编码方案",
+   "en": "encoding scheme\",\"coding scheme",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "差分格式",
+   "en": "difference scheme",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "交错格式，跳点格式",
+   "en": "staggered scheme",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "守恒格式",
+   "en": "conservation scheme",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "松野格式",
+   "en": "Matsuno scheme",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "显格式",
+   "en": "explicit scheme",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "控制线路",
+   "en": "control scheme",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "角色图式",
+   "en": "role scheme",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "蛙跳法",
+   "en": "leapfrog scheme",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "显格式",
+   "en": "explicit scheme",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "隐格式",
+   "en": "implicit scheme",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "概形",
+   "en": "scheme",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "公证人机制",
+   "en": "notary scheme",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "庞氏骗局",
+   "en": "Ponzi scheme",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "新型庞氏骗局",
+   "en": "new Ponzi scheme",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "网络传销",
+   "en": "online pyramid scheme",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "安全评估方案",
+   "en": "security assessment scheme",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "多强度诱骗态调制方案（中国）",
+   "en": "Multi-intensity Decoy State Modulation Scheme (China)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "新技术金融应用风险保险计划",
+   "en": "insurance scheme for use of new technology in financial sector",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "义位",
+   "en": "Sememe",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "球面",
+   "en": "sphere",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "耻",
+   "en": "Shame",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "义素",
+   "en": "Seme",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "赖特阶级分类",
+   "en": "Wright class scheme",
+   "code": "2.6.6.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_社会分层理论"
+  },
+  {
+   "cn": "戈德索普阶级分类",
+   "en": "Goldthorpe class scheme",
+   "code": "2.6.6.14",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_社会分层理论"
+  },
+  {
+   "cn": "二级采样方案",
+   "en": "secondary sampling scheme",
+   "code": "2.1.1.75",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品生物性危害因素"
+  },
+  {
+   "cn": "卫生筹资方案",
+   "en": "health financing schemes",
+   "code": "2.2.5.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生总费用_卫生费用核算"
+  },
+  {
+   "cn": "新型农村合作医疗",
+   "en": "new cooperative medical scheme",
+   "code": "3.11.4.11",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_医学社会学_健康服务与制度"
+  },
+  {
+   "cn": "养老金制度",
+   "en": "pensions scheme，annuity system",
+   "code": "3.15.8.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_老年和老龄化研究_老年社会保障"
+  },
+  {
+   "cn": "监测方案",
+   "en": "monitoring and surveillance scheme",
+   "code": "1.5.10",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险监测"
+  },
+  {
+   "cn": "三级采样方案",
+   "en": "three stage sampling scheme",
+   "code": "2.1.1.76",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品生物性危害因素"
+  },
+  {
+   "cn": "新型农村合作医疗",
+   "en": "new cooperative medical scheme，NCMS",
+   "code": "11.2.2.7",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_健康保险_健康保险类型"
+  },
+  {
+   "cn": "卫生筹资来源",
+   "en": "revenues of health financing schemes",
+   "code": "2.2.5.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生总费用_卫生费用核算"
+  },
+  {
+   "cn": "中央集中解决法的计划经济模式",
+   "en": "model of planned economy with centralist scheme",
+   "code": "05.0184",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外经济学理论"
+  },
+  {
+   "cn": "血红素",
+   "en": "heme",
+   "code": "6.1.11.11",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品添加剂_食品添加剂"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

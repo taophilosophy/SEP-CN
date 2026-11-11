@@ -1,0 +1,348 @@
+{
+ "key": "schema t／t-schema",
+ "term": "schema T／T-schema",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T19:34:23+00:00",
+ "status": "ok",
+ "note": "variant=schema T／T-schema; 审定公布名词库=911; 海峡两岸名词对照库=297; 其他来源数据库=286; 预公布名词数据库=38; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "图式",
+   "en": "schema",
+   "code": "13.044",
+   "standard": "行为医学名词",
+   "subject": "行为医学_自伤行为与自杀行为_自杀行为"
+  },
+  {
+   "cn": "模式",
+   "en": "schema",
+   "code": "07.0007",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据模型"
+  },
+  {
+   "cn": "图式",
+   "en": "schema",
+   "code": "06.008",
+   "standard": "心理学名词",
+   "subject": "心理学_发展心理学"
+  },
+  {
+   "cn": "元数据方案",
+   "en": "metadata schema",
+   "code": "06.02.009",
+   "standard": "档案学名词",
+   "subject": "档案学_电子文件管理_系统与技术"
+  },
+  {
+   "cn": "身体图式",
+   "en": "body schema",
+   "code": "03.539",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学"
+  },
+  {
+   "cn": "元数据方案",
+   "en": "metadata schema",
+   "code": "04.897",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_元数据"
+  },
+  {
+   "cn": "外模式",
+   "en": "external schema",
+   "code": "07.0015",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据模型"
+  },
+  {
+   "cn": "模式调优",
+   "en": "schema tuning",
+   "code": "07.0323",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库管理系统及其实现技术"
+  },
+  {
+   "cn": "模式定理",
+   "en": "schema theorem",
+   "code": "08.0291",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_机器学习"
+  },
+  {
+   "cn": "模式演化",
+   "en": "schema evolution",
+   "code": "07.0491",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库新技术"
+  },
+  {
+   "cn": "工作流模式",
+   "en": "workflow schema",
+   "code": "11.0163",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机应用_信息系统与信息化"
+  },
+  {
+   "cn": "内模式",
+   "en": "internal schema",
+   "code": "07.0016",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据模型"
+  },
+  {
+   "cn": "图式",
+   "en": "schema",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "认知图式",
+   "en": "cognitive schema",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "外向图式",
+   "en": "extravert schema",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "抑郁图式",
+   "en": "depressive schema",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "图式理论",
+   "en": "schema theory",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "事件图式",
+   "en": "event schema",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "家庭图式",
+   "en": "family schema",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "自我图式",
+   "en": "self schema",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "性别图式",
+   "en": "gender schema",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "概念圖示",
+   "en": "conceptual schema",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "应用模式",
+   "en": "application schema",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "编码模式",
+   "en": "encoding schema",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "闪存",
+   "en": "T-RAM",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "动态随机存储器",
+   "en": "T-RAM",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "随机存储器",
+   "en": "T-RAM",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "显存",
+   "en": "T-RAM",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "静态随机存储器",
+   "en": "T-RAM",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "网球衫",
+   "en": "T-shirt",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "T恤衫",
+   "en": "T-shirt",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_举重名词"
+  },
+  {
+   "cn": "T形把手",
+   "en": "T-grip",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_皮划艇名词"
+  },
+  {
+   "cn": "细胞毒性T细胞",
+   "en": "cytotoxic T cell",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "氚",
+   "en": "Tritium;T3H",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "剑头部",
+   "en": "pointe d’arrêt",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "剑头部",
+   "en": "pointe d’arrêt",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "自我图式",
+   "en": "self-schema",
+   "code": "4.1.4.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_自我认知"
+  },
+  {
+   "cn": "氯胺-T",
+   "en": "chloramine T",
+   "code": "2.1.6.1.14",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术_化学消毒"
+  },
+  {
+   "cn": "t分布",
+   "en": "t distribution",
+   "code": "1.2.5.22",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "T淋巴细胞",
+   "en": "T lymphocyte",
+   "code": "1.3.3.2.10",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_免疫细胞"
+  },
+  {
+   "cn": "T-2",
+   "en": "T-2 toxin",
+   "code": "2.2.5.6",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品化学性危害因素"
+  },
+  {
+   "cn": "5T策略",
+   "en": "5 T strategy",
+   "code": "6.4.5.4",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "学校心理健康促进"
+  },
+  {
+   "cn": "T细胞嵌合抗原T细胞疗法",
+   "en": "T cell receptor T-cell therapy, TCR-T",
+   "code": "1.7.3.8",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_免疫治疗"
+  },
+  {
+   "cn": "突骑施",
+   "en": "Türgish",
+   "code": "3.0092",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族称谓"
+  },
+  {
+   "cn": "达标治疗",
+   "en": "treat-to-target，T2T",
+   "code": "1.7.2.15",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病常用药物及治疗"
+  },
+  {
+   "cn": "结核T细胞酶联免疫斑点试验",
+   "en": "T-SPOT.Tuberculosis",
+   "code": "1.5.1.22",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法"
+  },
+  {
+   "cn": "初始T细胞",
+   "en": "naive T cell",
+   "code": "1.3.3.2.11",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_免疫细胞"
+  },
+  {
+   "cn": "调节性T细胞",
+   "en": "regulatory T cell",
+   "code": "1.3.3.2.12",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_免疫细胞"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
