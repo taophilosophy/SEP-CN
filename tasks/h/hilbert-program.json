@@ -2,7 +2,7 @@
   "slug": "hilbert-program",
   "kind": "retranslate",
   "zh_doc": "h/hilbert-program.md",
-  "state": "drafted",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -17,6 +17,27 @@
       "actor": "H-main-20261111",
       "at": "2026-11-11T09:32:29Z",
       "evidence": "账本 tasks/h/hilbert-program.ledger.yaml 63 段（body=62 oir=1）双版齐备；lq check 守恒门通过（HARD 0，SOFT 仅机械段与斜体计数）；compose 写回 36690 字符；对账：defs 键 109=109、内联脚注 41=41、h2 9=9；修复账本中 \\varepsilon/\\neg 转义损毁 8 段次（compose 前回写）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "H-main-20261111",
+      "at": "2026-11-11T09:56:14Z",
+      "evidence": "一校对照 yuanwen/h/hilbert-program.md 逐节核销：$ 计数 258=258（含文献区），节题 5+7 齐备；实修：交叉引用中文化 3 处（19 世纪几何学／证明论与证明论的发展／哥德尔与哥德尔不完全性定理），相关词条 Hilbert, David→大卫·希尔伯特"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "H-main-20261111",
+      "at": "2026-11-11T09:56:14Z",
+      "evidence": "二校语言：check_prose 44→4 告警，实修 44 处（长句拆分 20、de-chain 15、weak-verb 4、另 5 处顺带）；残余 4 条全为直引内部（Hilbert 1922b 引块 weak-verb、1926/1928 引块 long+passive、seg45 引块 de-chain），按 ADR-0020 引文豁免；语体：现代汉语学术书面语，无文言仿古"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "H-main-20261111",
+      "at": "2026-11-11T09:56:15Z",
+      "evidence": "三校体例：check_style 0 问题（修 bold-spacing 1）；check_academic --strict 0 硬错误；check_math missing 0/公式 129（unbalanced 4 为源文自身 $0 = 1)$ 等连写，照录不修）；check_summary H1/别名 0；check_terms 硬错误 0（术语 13 条、人名 Behmann 入册）"
     }
   ],
   "blockers": [],

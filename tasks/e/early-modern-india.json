@@ -2,7 +2,7 @@
   "slug": "early-modern-india",
   "kind": "retranslate",
   "zh_doc": "e/early-modern-india.md",
-  "state": "drafted",
+  "state": "s1_checked",
   "steps": [
     {
       "step": "clear",
@@ -59,6 +59,13 @@
       "actor": "E-main-20261111",
       "at": "2026-11-11T09:06:48Z",
       "evidence": "零信任全量重译完成（specs/015 语体复核后按 ADR-0033 置空重译）：账本 302 段双版（body=301 oir=1），lq check 守恒门 OK/302 段；compose --write 51701 字符/736 行，11 节+27 子节、58 defs 照录；相关词条 12 项比对 SUMMARY 定名（atomism 一项手工回译为“17 至 20 世纪的原子论”）；行文体例全程现代白话，无文言句式，落实 ADR-0033"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "E-main-20261111",
+      "at": "2026-11-11T09:56:23Z",
+      "evidence": "s1 对照源文逐段核销：节 16:16、子节 35:35、正文块 303:303；内联 marker 23:23 多重集全等、defs 58:58 键集全等（撇号 ASCII 归一化）；公式 7:7 逐字符一致（V₁/V₂/V₃ 与宗义相诸式）；作者-年份引用组与书目逐条在位；术语按 yi-zhe-shuo-ming 既有 166 行 early-modern-india 词条统一（句义/大种/和合/圆足/遍充/宗义相/所遮等）；人名按 ren-ming-biao（甘格沙、罗怙那陀、贾迦迪沙、迦达陀罗、阿南跋塔、筏磋衍那、乌底耶多迦罗、优陀耶那、普拉夏斯塔帕达、跋沙罗婆吉那、陈那、法称、龙树等）；相关词条 12 项逐一比对 SUMMARY 定名"
     }
   ],
   "blockers": [],

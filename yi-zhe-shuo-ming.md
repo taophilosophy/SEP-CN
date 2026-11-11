@@ -1888,7 +1888,7 @@
 | gene | — | 基因 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 g/gene））；凭证 2026-11-04 | 2026-11-04 |
 | gene concept | — | 基因概念 | genetics | 遗传学哲学通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
 | gene editing | — | 基因编辑 | genetics | 生物技术通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
-| gene's-eye view | — | 基因之眼视角 | genetics | Dawkins 演化观通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
+| gene's-eye view | — | 基因之眼 | genetics | Dawkins 演化观通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
 | general ability | — | 一般能力 | 语料回收（标题词） | 学界惯例（能力哲学（与特殊能力相对））；凭证 2026-11-01 | 2026-11-01 |
 | general characteristic | — | 共相 | gelukpa | 因明学通行译名 | 2026-11-01 |
 | general competence | — | 一般胜任度 | jury-theorems | 学界惯例（本词条定名，无条件正确概率）；凭据 2026-11-02 | 2026-11-02 |
