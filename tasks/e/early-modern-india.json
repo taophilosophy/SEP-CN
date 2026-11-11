@@ -2,7 +2,7 @@
   "slug": "early-modern-india",
   "kind": "retranslate",
   "zh_doc": "e/early-modern-india.md",
-  "state": "r1_reviewed",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -87,6 +87,13 @@
       "actor": "E-main-20261111",
       "at": "2026-11-11T13:44:18Z",
       "evidence": "r1 冷读对账：全文 737 行逐段回读；结构对账 markers 23:23、defs 58:58、blocks 303:303、formulas 7:7、sections 16:16、h3 35:35；发现并修复列表标记与渲染源不一致 25 行 8 组（§1.3 a/b/c、§2.3 3/4、§3.1 i–v、§4.1 i/ii、§6.3 i–iii、§7.1 a–e、§11.2 第 2 项、§11.3 3/4 与 5/6）——yuanwen 镜像丢失 <ol start/type> 属性，按 en/ 原 HTML 复原，使正文对 (3)/(4)/(5)/(6)、（a）组的交叉引用重新自洽；其余各段义理核对无实质偏差"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "E-main-20261111",
+      "at": "2026-11-11T14:47:43Z",
+      "evidence": "r2 术语/人名对账：正文↔登记册双向校准——(1) 正文修正 anyonyābhāva 别异→互无（登记册互无（别异非存在））2 处、Mathuranātha 汉化 1 处；(2) 登记册 27 行校准为现行文本形态（śabda 声量→证言、yogyatā 义适→语义适切、pramā 正智→真认知、viparyaya 颠倒→假、viśiṣṭābhāva/kevalābhāva/ubhayābhāva/anyatarābhāva、六种感官连接三名、kapi-samyoga、abhivyāpya、ākāṅkṣā、āhāryāropa、itarānvita、jāti-viśiṣṭa-vyakti、yathārthavaktā、śaktaṃ padam、pratiyogitāvacchedaka、sa-viṣayaka、yathārtha-yogyatā-jñāna、abhāva-kūṭa、śakti-jñāna、viparyaya、niyata、aprasiddha、paramātman）；(3) 补登术语 22 行（pada/artha/bhāva/dharma 功德/adharma/adṛṣṭa 不可见力/三种 kāraṇa/anupalabdhi-hetu/anvaya-vyatirekin/svārtha/parārtha/hetvābhāsa/tātparya/prakāra/saprakāraka/niṣprakāraka/sa-viṣayaka/viśeṣaṇa-viśeṣya-bhāva/yathārtha-yogyatā-jñāna/Nyāyasiddhāntamañjarī）；check_terms 登记册自洽 exit 0、--docs 告警由 30 降至 8（余 4 条为正文描述性短语与 4 条为现代学者姓氏省称，均属体例）；人名全部在册，唯一正文出现的历史人物 Mathuranātha 已汉化"
     }
   ],
   "blockers": [],
