@@ -1,0 +1,348 @@
+{
+ "key": "bad infinity",
+ "term": "bad infinity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T00:45:51+00:00",
+ "status": "ok",
+ "note": "variant=bad infinity; 审定公布名词库=2113; 海峡两岸名词对照库=768; 其他来源数据库=111; 预公布名词数据库=41; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "负商品",
+   "en": "bads",
+   "code": "03.054",
+   "standard": "经济学名词",
+   "subject": "经济学_微观经济学"
+  },
+  {
+   "cn": "无穷",
+   "en": "infinity",
+   "code": "03.302",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "坏账",
+   "en": "bad account",
+   "code": "05.05.056",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_发行与经营_发行信息与管理"
+  },
+  {
+   "cn": "材质不良",
+   "en": "bad material",
+   "code": "08.0696",
+   "standard": "铁道科学技术名词",
+   "subject": "铁道科学技术_铁道信号"
+  },
+  {
+   "cn": "绝缘不良",
+   "en": "bad insulation",
+   "code": "08.0697",
+   "standard": "铁道科学技术名词",
+   "subject": "铁道科学技术_铁道信号"
+  },
+  {
+   "cn": "接触不良",
+   "en": "bad contact",
+   "code": "08.0699",
+   "standard": "铁道科学技术名词",
+   "subject": "铁道科学技术_铁道信号"
+  },
+  {
+   "cn": "坏约化",
+   "en": "bad reduction",
+   "code": "04.0362",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_算术"
+  },
+  {
+   "cn": "潜无穷",
+   "en": "potential infinity",
+   "code": "03.290",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "实无穷",
+   "en": "actual infinity",
+   "code": "03.292",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "零无限远",
+   "en": "null infinity",
+   "code": "07.606",
+   "standard": "天文学名词",
+   "subject": "天文学_星系和宇宙学"
+  },
+  {
+   "cn": "实无穷",
+   "en": "actual infinity",
+   "code": "02.0301",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_数学基础 "
+  },
+  {
+   "cn": "潜无穷",
+   "en": "potential infinity",
+   "code": "02.0302",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_数学基础 "
+  },
+  {
+   "cn": "不良债权",
+   "en": "bad claim",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "呆账",
+   "en": "bad debt",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "坏块",
+   "en": "bad block",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "坏扇区法",
+   "en": "bad sectoring",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "坏块表",
+   "en": "bad block table",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "拦湾坝",
+   "en": "bay bar",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "亲和势",
+   "en": "affinity",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "亲和力",
+   "en": "affinity",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "精神错乱",
+   "en": "insanity",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "亲和力",
+   "en": "affinity",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "亲和力",
+   "en": "affinity",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "亲和力",
+   "en": "affinity",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "无穷",
+   "en": "infinity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "中值定理",
+   "en": "Actual infinity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "伯努利微分方程",
+   "en": "Actual infinity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "函数项级数",
+   "en": "Actual infinity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "均差",
+   "en": "Actual infinity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "拉普拉斯方程",
+   "en": "Actual infinity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "洛必达法则",
+   "en": "Actual infinity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "无穷",
+   "en": "Limitlessness / Infinity",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "拉普拉斯算子",
+   "en": "Actual infinity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "链式法则",
+   "en": "Actual infinity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "格林公式",
+   "en": "Actual infinity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "高斯散度定理",
+   "en": "Actual infinity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "顽固性不良习惯",
+   "en": "stubborn bad habits",
+   "code": "6.3.9",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题"
+  },
+  {
+   "cn": "有害健康产品征税",
+   "en": "excise taxes on bads",
+   "code": "15.2.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_危害健康行为经济学_健康危害行为公共政策"
+  },
+  {
+   "cn": "物质世界的无限性",
+   "en": "infinity of the material world",
+   "code": "01.0029",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "姻亲",
+   "en": "affinity",
+   "code": "4.2.5.22",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_亲属制度"
+  },
+  {
+   "cn": "有限和无限",
+   "en": "finite and infinite",
+   "code": "01.0045",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "姻亲关系",
+   "en": "relationship by affinity",
+   "code": "3.1.1.38",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_家庭社会学_家庭"
+  },
+  {
+   "cn": "白族",
+   "en": "Bai",
+   "code": "1.0438",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "队群",
+   "en": "band",
+   "code": "1.0271",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "巴氐",
+   "en": "Badi",
+   "code": "3.0093",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族称谓"
+  },
+  {
+   "cn": "包装袋",
+   "en": "packing bag",
+   "code": "7.2.15",
+   "standard": "消毒学",
+   "subject": "消毒学_其他_医疗废物"
+  },
+  {
+   "cn": "报",
+   "en": "bao，reciprocate",
+   "code": "1.1.2.49",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想"
+  },
+  {
+   "cn": "中阴",
+   "en": "Bar do",
+   "code": "3.0518",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

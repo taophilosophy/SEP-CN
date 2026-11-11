@@ -1,0 +1,61 @@
+{
+ "key": "anthropomorphism",
+ "term": "anthropomorphism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T00:03:48+00:00",
+ "status": "ok",
+ "note": "variant=anthropomorphism; 审定公布名词库=4; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "拟人论",
+   "en": "anthropomorphism",
+   "code": "04.157",
+   "standard": "心理学名词",
+   "subject": "心理学_理论心理学与心理学史"
+  },
+  {
+   "cn": "拟人主义",
+   "en": "anthropomorphism",
+   "code": "04.040",
+   "standard": "生态学名词",
+   "subject": "生态学_进化生态学"
+  },
+  {
+   "cn": "拟人模型",
+   "en": "anthropomorphic model",
+   "code": "05.156",
+   "standard": "放射医学与防护名词",
+   "subject": "放射医学与防护_放射防护_放射防护监测"
+  },
+  {
+   "cn": "假人",
+   "en": "dummy,anthropomorphic dummy",
+   "code": "10.083",
+   "standard": "航空科学技术名词",
+   "subject": "航空科学技术_航空安全、生命保障系统与航空医学"
+  },
+  {
+   "cn": "拟人论",
+   "en": "anthropomorphism",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "拟人主义",
+   "en": "anthropomorphism",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "拟人体模",
+   "en": "anthropomorphic phantom",
+   "code": "6.4.1.8",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_医用电离辐射"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

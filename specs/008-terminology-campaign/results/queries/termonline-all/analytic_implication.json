@@ -1,0 +1,348 @@
+{
+ "key": "analytic implication",
+ "term": "analytic implication",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T23:53:18+00:00",
+ "status": "ok",
+ "note": "variant=analytic implication; 审定公布名词库=2877; 海峡两岸名词对照库=1092; 其他来源数据库=164; 预公布名词数据库=168; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "蕴涵",
+   "en": "implication",
+   "code": "08.0120",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_自动推理"
+  },
+  {
+   "cn": "蕴涵",
+   "en": "imply,implication",
+   "code": "01.0039",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "环境影响",
+   "en": "environmental implication",
+   "code": "3.196",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为的生物学基础_遗传学基础_认知能力遗传"
+  },
+  {
+   "cn": "蕴涵共性",
+   "en": "implicational universal",
+   "code": "01.171",
+   "standard": "语言学名词",
+   "subject": "语言学_理论语言学_核心术语"
+  },
+  {
+   "cn": "分析物",
+   "en": "analyte",
+   "code": "03.0085",
+   "standard": "化学名词",
+   "subject": "化学_分析化学_一般术语"
+  },
+  {
+   "cn": "解析性",
+   "en": "analyticity",
+   "code": "01.0461",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_数学"
+  },
+  {
+   "cn": "解析性",
+   "en": "analyticity",
+   "code": "05.0377",
+   "standard": "数学名词",
+   "subject": "数学_分析学_复分析"
+  },
+  {
+   "cn": "事件的蕴含",
+   "en": "implication of events",
+   "code": "09.0014",
+   "standard": "数学名词",
+   "subject": "数学_概率论_数理统计_概率空间"
+  },
+  {
+   "cn": "非蕴涵共性",
+   "en": "non implicational universal",
+   "code": "01.172",
+   "standard": "语言学名词",
+   "subject": "语言学_理论语言学_核心术语"
+  },
+  {
+   "cn": "解析延拓",
+   "en": "analytic prolongation,analytic continuation",
+   "code": "05.0448",
+   "standard": "数学名词",
+   "subject": "数学_分析学_复分析"
+  },
+  {
+   "cn": "分析标签",
+   "en": "analytic label ",
+   "code": "4.0327",
+   "standard": "草学名词",
+   "subject": "草学_种子和育种_草种子学"
+  },
+  {
+   "cn": "别裁",
+   "en": "analytic cataloging",
+   "code": "08.334",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_文献学_目录学"
+  },
+  {
+   "cn": "逻辑蕴涵",
+   "en": "logical implication",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "分析物",
+   "en": "analyte",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "分析心理学",
+   "en": "analytical psychology\",\"analytic psychology",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "解析空中三角测量",
+   "en": "analytical aerotriangulation\",\"analytical phototriangulation",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "解析解",
+   "en": "analytic solution",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "分析属性",
+   "en": "analytic attribute",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "分析学习",
+   "en": "analytic learning",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "解析法",
+   "en": "analytical method",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "分析天平",
+   "en": "analytical balance",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "分析蒸馏",
+   "en": "analytical distillation",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "分析性心理治疗",
+   "en": "analytical psychotherapy",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "分析能力",
+   "en": "analytical ability",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "解析信号",
+   "en": "analytic signal",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "解析延拓",
+   "en": "Analytic continuation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "解析函数",
+   "en": "Analytic function",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "解析摄影测量",
+   "en": "Analytical Photogrammetry",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "大数据分析",
+   "en": "Big Data Analytics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据可视化分析",
+   "en": "Data Visualization Analytics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "社交媒体分析",
+   "en": "Social Media Analytics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据运筹",
+   "en": "Data and Decision Analytics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "大数据统计分析",
+   "en": "Big Data Statistical Analytics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "文本大数据分析",
+   "en": "Text Big Data Analytics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "SDAP（面向地球物理海洋学领域的科学大数据分析平台）",
+   "en": "SDAP (Science Data Analytics Platform)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《GB/T 37721-2019 信息技术 大数据分析系统功能要求》",
+   "en": "GB/T 37721-2019 Information technology — Functional requirements for big data analytic systems",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "蕴涵共性",
+   "en": "implicational universals",
+   "code": "5.0058",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "非蕴涵共性",
+   "en": "non-implicational universals",
+   "code": "5.0059",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "分析的马克思主义",
+   "en": "analytical Marxism",
+   "code": "05.0078",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "决策分析模型",
+   "en": "decision analytic model",
+   "code": "12.1.8",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生经济学评价_卫生经济学评价"
+  },
+  {
+   "cn": "层次分析法",
+   "en": "analytic hierarchy process",
+   "code": "1.0652",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "分析纯",
+   "en": "analytical reagent, AR",
+   "code": "6.1.3.2",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_理化检验"
+  },
+  {
+   "cn": "层次分析法",
+   "en": "analytic hierarchy process，AHP",
+   "code": "6.1.6.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_分析评估"
+  },
+  {
+   "cn": "并发症",
+   "en": "complication",
+   "code": "1.4.1.3",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_症状与体征_概述"
+  },
+  {
+   "cn": "消毒应用",
+   "en": "disinfection application",
+   "code": "4",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用"
+  },
+  {
+   "cn": "妊娠并发症",
+   "en": "pregnancy complication",
+   "code": "3.5.2.7",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_孕产期保健"
+  },
+  {
+   "cn": "连续使用稳定性",
+   "en": "continuous application stability",
+   "code": "6.1.15.6",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_理化检验"
+  },
+  {
+   "cn": "复制后修复",
+   "en": "post-replication repair",
+   "code": "4.1.5.2.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射生物效应及其机制"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

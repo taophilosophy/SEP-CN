@@ -1,0 +1,348 @@
+{
+ "key": "basic facts",
+ "term": "basic facts",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T00:50:22+00:00",
+ "status": "ok",
+ "note": "variant=basic facts; 审定公布名词库=885; 海峡两岸名词对照库=221; 其他来源数据库=85; 预公布名词数据库=55; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "事实",
+   "en": "fact",
+   "code": "03.0363",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_决策支持系统"
+  },
+  {
+   "cn": "新闻事实",
+   "en": "newsworthy facts",
+   "code": "1.042",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_新闻理论_新闻与宣传"
+  },
+  {
+   "cn": "科学事实",
+   "en": "scientific fact",
+   "code": "06.031",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_方法与工具"
+  },
+  {
+   "cn": "经验事实",
+   "en": "experiential fact",
+   "code": "06.032",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_方法与工具"
+  },
+  {
+   "cn": "理论事实",
+   "en": "theoretical fact",
+   "code": "06.033",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_方法与工具"
+  },
+  {
+   "cn": "人工事实",
+   "en": "artificial fact",
+   "code": "07.089",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学、技术与社会_科学与社会"
+  },
+  {
+   "cn": "核对事实",
+   "en": "fact check",
+   "code": "4.184",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻编辑"
+  },
+  {
+   "cn": "事实检索",
+   "en": "fact retrieval",
+   "code": "05.064",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息检索_检索技术与方法"
+  },
+  {
+   "cn": "事实表",
+   "en": "fact table",
+   "code": "07.0428",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库新技术"
+  },
+  {
+   "cn": "事实表",
+   "en": "fact table",
+   "code": "03.0364",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_决策支持系统"
+  },
+  {
+   "cn": "事实库",
+   "en": "fact base",
+   "code": "05.063",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制"
+  },
+  {
+   "cn": "碱度",
+   "en": "basicity",
+   "code": "04.120",
+   "standard": "机械工程名词 第二分册",
+   "subject": "机械工程（二）_机械制造工艺与设备_焊接与切割_焊接与钎焊材料"
+  },
+  {
+   "cn": "事实",
+   "en": "fact",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "事实",
+   "en": "fact",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "事实库",
+   "en": "fact base",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "碱性品红",
+   "en": "basic fuchsin",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "基本气流",
+   "en": "basic flow",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "碱性固体",
+   "en": "basic solid",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "碱性染料",
+   "en": "basic dye",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "碱性耐火砖",
+   "en": "basic firebrick",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "碱性催化剂",
+   "en": "basic catalyst",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "基本需求",
+   "en": "basic need",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "基本敌意",
+   "en": "basic hostility",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "基本焦虑",
+   "en": "basic anxiety",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "星型模式",
+   "en": "Fact table",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "基本姿势",
+   "en": "basic position\",\"basic stance",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_乒乓球名词"
+  },
+  {
+   "cn": "实事求是",
+   "en": "Seek Truth from Facts",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "基础标准",
+   "en": "Basic Standards",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "基础教育",
+   "en": "Basic education",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "基本姿势",
+   "en": "basic position",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_花样游泳名词"
+  },
+  {
+   "cn": "基本动作",
+   "en": "basic movement",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_花样游泳名词"
+  },
+  {
+   "cn": "标准化基础",
+   "en": "Standardization Basics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "法律基础",
+   "en": "Legal Basics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "主要碱性蛋白",
+   "en": "Major basic protein",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "碱式硫酸铬",
+   "en": "Basic chromic sulfate",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "人工智能基础理论",
+   "en": "basic AI theory",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "事实",
+   "en": "fact",
+   "code": "1.12",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "营养成分表",
+   "en": "nutrition facts",
+   "code": "4.3.37",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品安全风险管理_食品标准"
+  },
+  {
+   "cn": "社会事实",
+   "en": "social fact",
+   "code": "2.1.3.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会存在"
+  },
+  {
+   "cn": "事实婚姻",
+   "en": "fact marriage",
+   "code": "3.1.3.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_家庭社会学_婚姻制度"
+  },
+  {
+   "cn": "社会事实",
+   "en": "social fact",
+   "code": "1.0525",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "实事求是",
+   "en": "seeking truth from facts",
+   "code": "01.0245",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "基础标准",
+   "en": "basic standard",
+   "code": "9.2.1.12",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生法规标准_放射卫生标准"
+  },
+  {
+   "cn": "基本人格",
+   "en": "basic personality",
+   "code": "1.0556",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "基础方言",
+   "en": "basic dialect",
+   "code": "5.0067",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "基础护理伦理",
+   "en": "basic nursing ethics",
+   "code": "6.001",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_护理伦理"
+  },
+  {
+   "cn": "基本医疗保险",
+   "en": "basic medical insuranceance",
+   "code": "8.092",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_公共卫生与健康伦理"
+  },
+  {
+   "cn": "基层部队健康教育",
+   "en": "basic military health education",
+   "code": "17.1.5.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队健康教育与健康促进_军队健康教育"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,54 @@
+{
+ "key": "atmasraya",
+ "term": "ātmāśraya",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T00:35:21+00:00",
+ "status": "ok",
+ "note": "variant=ātmāśraya; 审定公布名词库=4; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "TM偏振",
+   "en": "TM polarization",
+   "code": "01.180",
+   "standard": "光学名词",
+   "subject": "光学_基础光学"
+  },
+  {
+   "cn": "TM模",
+   "en": "TM mode",
+   "code": "01.277",
+   "standard": "通信科学技术名词",
+   "subject": "通信科学技术_通信原理与基本技术"
+  },
+  {
+   "cn": "抗静电剂TM",
+   "en": "antistatic agent TM",
+   "code": "06.0139",
+   "standard": "精细化工名词",
+   "subject": "精细化工_表面活性剂"
+  },
+  {
+   "cn": "ＴＭ视电阻率曲线",
+   "en": "transverse magnetic mode,TM mode",
+   "code": "03.0275",
+   "standard": "石油名词",
+   "subject": "石油_石油地球物理"
+  },
+  {
+   "cn": "TM模（=横磁模）",
+   "en": "[]",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "横磁模，TM模",
+   "en": "transverse magnetic mode，TM mode",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

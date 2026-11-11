@@ -1,0 +1,348 @@
+{
+ "key": "analytic unity",
+ "term": "analytic unity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T23:53:18+00:00",
+ "status": "ok",
+ "note": "variant=analytic unity; 审定公布名词库=3815; 海峡两岸名词对照库=1235; 其他来源数据库=122; 预公布名词数据库=195; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "分析物",
+   "en": "analyte",
+   "code": "03.0085",
+   "standard": "化学名词",
+   "subject": "化学_分析化学_一般术语"
+  },
+  {
+   "cn": "解析性",
+   "en": "analyticity",
+   "code": "01.0461",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_数学"
+  },
+  {
+   "cn": "解析性",
+   "en": "analyticity",
+   "code": "05.0377",
+   "standard": "数学名词",
+   "subject": "数学_分析学_复分析"
+  },
+  {
+   "cn": "解析延拓",
+   "en": "analytic prolongation,analytic continuation",
+   "code": "05.0448",
+   "standard": "数学名词",
+   "subject": "数学_分析学_复分析"
+  },
+  {
+   "cn": "分析标签",
+   "en": "analytic label ",
+   "code": "4.0327",
+   "standard": "草学名词",
+   "subject": "草学_种子和育种_草种子学"
+  },
+  {
+   "cn": "别裁",
+   "en": "analytic cataloging",
+   "code": "08.334",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_文献学_目录学"
+  },
+  {
+   "cn": "解析信号",
+   "en": "analytic signal",
+   "code": "04.1287",
+   "standard": "物理学名词",
+   "subject": "物理学_光学、声学_光学_波动光学、信息光学"
+  },
+  {
+   "cn": "解析曲面",
+   "en": "analytic surface",
+   "code": "11.0521",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机应用_计算机辅助设计与图形学"
+  },
+  {
+   "cn": "分析表法",
+   "en": "analytic tableaux",
+   "code": "08.0050",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_人工智能逻辑"
+  },
+  {
+   "cn": "分析型风格",
+   "en": "analytic style",
+   "code": "01.0047",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_基本概念"
+  },
+  {
+   "cn": "解析机",
+   "en": "analytic engine",
+   "code": "01.0282",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_管理思想史"
+  },
+  {
+   "cn": "分析修辞学",
+   "en": "analytic rhetoric",
+   "code": "08.012",
+   "standard": "语言学名词",
+   "subject": "语言学_修辞学_修辞学"
+  },
+  {
+   "cn": "分析物",
+   "en": "analyte",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "分析心理学",
+   "en": "analytical psychology\",\"analytic psychology",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "解析空中三角测量",
+   "en": "analytical aerotriangulation\",\"analytical phototriangulation",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "解析解",
+   "en": "analytic solution",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "分析属性",
+   "en": "analytic attribute",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "分析学习",
+   "en": "analytic learning",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "解析法",
+   "en": "analytical method",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "分析天平",
+   "en": "analytical balance",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "分析蒸馏",
+   "en": "analytical distillation",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "分析性心理治疗",
+   "en": "analytical psychotherapy",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "分析能力",
+   "en": "analytical ability",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "分析裂解",
+   "en": "analytical pyrolysis",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "解析信号",
+   "en": "analytic signal",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "解析延拓",
+   "en": "Analytic continuation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "解析函数",
+   "en": "Analytic function",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "解析摄影测量",
+   "en": "Analytical Photogrammetry",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "大数据分析",
+   "en": "Big Data Analytics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据可视化分析",
+   "en": "Data Visualization Analytics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "社交媒体分析",
+   "en": "Social Media Analytics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "大一统",
+   "en": "Great Unity",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "数据运筹",
+   "en": "Data and Decision Analytics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "大数据统计分析",
+   "en": "Big Data Statistical Analytics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "文本大数据分析",
+   "en": "Text Big Data Analytics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "众志成城",
+   "en": "Unity Is Strength.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "分析的马克思主义",
+   "en": "analytical Marxism",
+   "code": "05.0078",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "决策分析模型",
+   "en": "decision analytic model",
+   "code": "12.1.8",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生经济学评价_卫生经济学评价"
+  },
+  {
+   "cn": "层次分析法",
+   "en": "analytic hierarchy process",
+   "code": "1.0652",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "分析纯",
+   "en": "analytical reagent, AR",
+   "code": "6.1.3.2",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_理化检验"
+  },
+  {
+   "cn": "民族团结",
+   "en": "national unity",
+   "code": "04.0093",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_列宁斯大林时期"
+  },
+  {
+   "cn": "民族团结",
+   "en": "ethnic unity",
+   "code": "2.01",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族理论_马克思主义民族理论中国化"
+  },
+  {
+   "cn": "层次分析法",
+   "en": "analytic hierarchy process，AHP",
+   "code": "6.1.6.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_分析评估"
+  },
+  {
+   "cn": "党的统一",
+   "en": "unity of the party",
+   "code": "03.0309",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_列宁斯大林时期"
+  },
+  {
+   "cn": "心理一致说",
+   "en": "theory of psychic unity",
+   "code": "1.0501",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "世界的物质统一性",
+   "en": "material unity of the world",
+   "code": "01.0019",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "世界的统一性和多样性",
+   "en": "unity and diversity of world",
+   "code": "01.0194",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  },
+  {
+   "cn": "对立统一规律",
+   "en": "law of unity of opposites",
+   "code": "01.0220",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

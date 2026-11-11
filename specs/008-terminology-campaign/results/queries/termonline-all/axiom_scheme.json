@@ -2,10 +2,347 @@
  "key": "axiom scheme",
  "term": "axiom scheme",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T13:52:54+00:00",
- "status": "error",
- "note": "variant=axiom scheme; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "axiom scheme: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T00:42:51+00:00",
+ "status": "ok",
+ "note": "variant=axiom scheme; 审定公布名词库=480; 海峡两岸名词对照库=187; 其他来源数据库=26; 预公布名词数据库=18; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "公理",
+   "en": "axiom",
+   "code": "01.0151",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "公理",
+   "en": "axiom",
+   "code": "01.0008",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "独立公理",
+   "en": "independent axiom",
+   "code": "03.0048",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械设计与制图_机械设计_设计方法"
+  },
+  {
+   "cn": "信息公理",
+   "en": "information axiom",
+   "code": "03.0049",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械设计与制图_机械设计_设计方法"
+  },
+  {
+   "cn": "安全性公理",
+   "en": "security axiom",
+   "code": "07.0227",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库管理系统及其实现技术"
+  },
+  {
+   "cn": "佩亚诺公理",
+   "en": "Peano axiom",
+   "code": "02.0128",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_证明论"
+  },
+  {
+   "cn": "概括公理",
+   "en": "comprehension axiom",
+   "code": "02.0165",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_集合论"
+  },
+  {
+   "cn": "正则公理",
+   "en": "regularity axiom",
+   "code": "02.0166",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_集合论"
+  },
+  {
+   "cn": "分离公理",
+   "en": "separating axiom",
+   "code": "05.0787",
+   "standard": "数学名词",
+   "subject": "数学_分析学_凸分析"
+  },
+  {
+   "cn": "公理A",
+   "en": "axiom A",
+   "code": "06.0162",
+   "standard": "数学名词",
+   "subject": "数学_微分方程_积分方程_动力系统（数学）"
+  },
+  {
+   "cn": "切除公理",
+   "en": "excision axiom",
+   "code": "08.0706",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_代数拓扑学"
+  },
+  {
+   "cn": "阿基米德公理",
+   "en": "Archimedean axiom",
+   "code": "08.0011",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_欧几里得几何学"
+  },
+  {
+   "cn": "并发公理",
+   "en": "concurrency axiom",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "归纳公理",
+   "en": "induction axiom",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "情态公理",
+   "en": "case axiom",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "数学公理",
+   "en": "mathematical axiom",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "外延公理",
+   "en": "extension axiom",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "阿姆斯特朗公理",
+   "en": "Armstrong axioms",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "方案",
+   "en": "scheme",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "编码方案",
+   "en": "encoding scheme\",\"coding scheme",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "局部确定[性]公理",
+   "en": "local-deterministic axiom",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "差分格式",
+   "en": "difference scheme",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "交错格式，跳点格式",
+   "en": "staggered scheme",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "守恒格式",
+   "en": "conservation scheme",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "选择公理",
+   "en": "Axiom ofChoice",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "概形",
+   "en": "scheme",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "阿姆斯特朗公理",
+   "en": "Armstrong's axioms",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "公证人机制",
+   "en": "notary scheme",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "庞氏骗局",
+   "en": "Ponzi scheme",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "自伴算子",
+   "en": "Dirac–von Neumann axioms",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "新型庞氏骗局",
+   "en": "new Ponzi scheme",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "网络传销",
+   "en": "online pyramid scheme",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "安全评估方案",
+   "en": "security assessment scheme",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "多强度诱骗态调制方案（中国）",
+   "en": "Multi-intensity Decoy State Modulation Scheme (China)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "新技术金融应用风险保险计划",
+   "en": "insurance scheme for use of new technology in financial sector",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "义位",
+   "en": "Sememe",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "赖特阶级分类",
+   "en": "Wright class scheme",
+   "code": "2.6.6.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_社会分层理论"
+  },
+  {
+   "cn": "戈德索普阶级分类",
+   "en": "Goldthorpe class scheme",
+   "code": "2.6.6.14",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_社会分层理论"
+  },
+  {
+   "cn": "二级采样方案",
+   "en": "secondary sampling scheme",
+   "code": "2.1.1.75",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品生物性危害因素"
+  },
+  {
+   "cn": "卫生筹资方案",
+   "en": "health financing schemes",
+   "code": "2.2.5.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生总费用_卫生费用核算"
+  },
+  {
+   "cn": "新型农村合作医疗",
+   "en": "new cooperative medical scheme",
+   "code": "3.11.4.11",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_医学社会学_健康服务与制度"
+  },
+  {
+   "cn": "养老金制度",
+   "en": "pensions scheme，annuity system",
+   "code": "3.15.8.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_老年和老龄化研究_老年社会保障"
+  },
+  {
+   "cn": "监测方案",
+   "en": "monitoring and surveillance scheme",
+   "code": "1.5.10",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险监测"
+  },
+  {
+   "cn": "三级采样方案",
+   "en": "three stage sampling scheme",
+   "code": "2.1.1.76",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品生物性危害因素"
+  },
+  {
+   "cn": "新型农村合作医疗",
+   "en": "new cooperative medical scheme，NCMS",
+   "code": "11.2.2.7",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_健康保险_健康保险类型"
+  },
+  {
+   "cn": "卫生筹资来源",
+   "en": "revenues of health financing schemes",
+   "code": "2.2.5.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生总费用_卫生费用核算"
+  },
+  {
+   "cn": "中央集中解决法的计划经济模式",
+   "en": "model of planned economy with centralist scheme",
+   "code": "05.0184",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外经济学理论"
+  },
+  {
+   "cn": "自我图式",
+   "en": "self-schema",
+   "code": "4.1.4.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_自我认知"
+  }
+ ],
+ "error": null,
  "raw": null
 }

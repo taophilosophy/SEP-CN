@@ -1,0 +1,19 @@
+{
+ "key": "anthropocene",
+ "term": "Anthropocene",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T00:03:48+00:00",
+ "status": "ok",
+ "note": "variant=Anthropocene; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "人类纪",
+   "en": "anthropogene period",
+   "code": "08.01.002",
+   "standard": "地质学名词",
+   "subject": "地质学_第四纪地质学_总论"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

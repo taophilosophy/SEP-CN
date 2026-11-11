@@ -1,0 +1,180 @@
+{
+ "key": "antipope",
+ "term": "antipope",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T00:11:19+00:00",
+ "status": "ok",
+ "note": "variant=antipope; 审定公布名词库=15; 海峡两岸名词对照库=11; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "反向转运",
+   "en": "antiport",
+   "code": "8.0114",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_生物膜与信号转导_生物膜_膜运输与膜转运"
+  },
+  {
+   "cn": "波腹",
+   "en": "antinode",
+   "code": "02.0132",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械动力学_机械振动"
+  },
+  {
+   "cn": "反向运输",
+   "en": "antiport",
+   "code": "02.145",
+   "standard": "化工名词（六）生物化工",
+   "subject": "化工（六）_代谢工程与合成生物学_代谢工程_弗兰克-沃尔夫法"
+  },
+  {
+   "cn": "相克素",
+   "en": "antimone",
+   "code": "13.0055",
+   "standard": "植物学名词",
+   "subject": "植物学_植物生态学_植物个体生态学"
+  },
+  {
+   "cn": "反向运输",
+   "en": "antiport",
+   "code": "11.0139",
+   "standard": "植物学名词",
+   "subject": "植物学_植物生理学_植物矿质营养"
+  },
+  {
+   "cn": "反向转运",
+   "en": "antiport",
+   "code": "03.082",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_膜与细胞生物物理学_物质跨膜转运"
+  },
+  {
+   "cn": "对向运输",
+   "en": "antiport",
+   "code": "04.041",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞生理"
+  },
+  {
+   "cn": "逆向转运",
+   "en": "antiport",
+   "code": "02.215",
+   "standard": "生态学名词",
+   "subject": "生态学_生理生态学"
+  },
+  {
+   "cn": "相克素",
+   "en": "antimone",
+   "code": "11.009",
+   "standard": "生态学名词",
+   "subject": "生态学_化学生态学"
+  },
+  {
+   "cn": "波腹",
+   "en": "antinode",
+   "code": "01.131",
+   "standard": "电气工程名词",
+   "subject": "电气工程_电工基础及通用名词"
+  },
+  {
+   "cn": "腹点",
+   "en": "antinode",
+   "code": "04.053",
+   "standard": "电子学名词",
+   "subject": "电子学_微波技术与天线"
+  },
+  {
+   "cn": "波腹",
+   "en": "[wave] loop,antinode",
+   "code": "01.392",
+   "standard": "电力名词",
+   "subject": "电力_总论"
+  },
+  {
+   "cn": "对向运输（=反向运输）",
+   "en": "antiport",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "反向运输，对向运输，反向转运",
+   "en": "antiport",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "反向转运（=反向运输）",
+   "en": "antiport",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "相克素",
+   "en": "antimone",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "对立面",
+   "en": "antipodes",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "对向运输，反向转运",
+   "en": "antiport",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "波腹，腹点",
+   "en": "antinode",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "抗毒剂",
+   "en": "antidote",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "解毒药",
+   "en": "antidote （=detoxicant）",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "反向转运",
+   "en": "antiport\",\"counter transport",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "波腹",
+   "en": "antinode\",\"wave loop",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "抗放药",
+   "en": "antidote for radiation injury",
+   "code": "8.6.6",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_核武器医学防护学_核武器损伤救治"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

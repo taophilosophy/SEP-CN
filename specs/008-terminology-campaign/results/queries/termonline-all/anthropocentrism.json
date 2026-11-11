@@ -1,0 +1,47 @@
+{
+ "key": "anthropocentrism",
+ "term": "anthropocentrism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T00:03:48+00:00",
+ "status": "ok",
+ "note": "variant=anthropocentrism; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "人类中心主义",
+   "en": "anthropocentrism",
+   "code": "04.234",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_技术哲学_环境哲学"
+  },
+  {
+   "cn": "非人类中心主义",
+   "en": "non-anthropocentrism",
+   "code": "04.235",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_技术哲学_环境哲学"
+  },
+  {
+   "cn": "人类中心伦理观",
+   "en": "anthropocentric ethic",
+   "code": "13.003",
+   "standard": "生态学名词",
+   "subject": "生态学_保护生态学"
+  },
+  {
+   "cn": "非人类中心主义",
+   "en": "non-anthropocentrism",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "人类中心说",
+   "en": "anthropocentrism",
+   "code": "3.14.1.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学环境社会学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

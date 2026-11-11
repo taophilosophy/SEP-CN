@@ -1,0 +1,61 @@
+{
+ "key": "apta",
+ "term": "āpta",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T00:24:50+00:00",
+ "status": "ok",
+ "note": "variant=āpta; 审定公布名词库=7; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "经皮腔内血管成形[术]",
+   "en": "percutaneous transluminal angioplasty,PTA",
+   "code": "07.047",
+   "standard": "器官移植学名词",
+   "subject": "器官移植学_器官移植影像学"
+  },
+  {
+   "cn": "单独胰腺移植",
+   "en": "pancreas transplantation alone,PTA",
+   "code": "12.003",
+   "standard": "器官移植学名词",
+   "subject": "器官移植学_胰腺移植_胰腺及胰肾联合移植手术"
+  },
+  {
+   "cn": "家长教师联合会",
+   "en": "parent-teacher association,PTA",
+   "code": "05.060",
+   "standard": "教育学名词",
+   "subject": "教育学_比较教育_美国教育"
+  },
+  {
+   "cn": "球囊血管成形术",
+   "en": "percutaneous transluminal angioplastry,PTA",
+   "code": "08.0186",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_生物材料_介入器材"
+  },
+  {
+   "cn": "纯音听阈均值",
+   "en": "pure tone average,PTA",
+   "code": "02.168",
+   "standard": "医学名词 第一分册",
+   "subject": "医学_耳鼻喉科学"
+  },
+  {
+   "cn": "凝血酶原活动度",
+   "en": "prothrombin activity; PTA",
+   "code": "2.1.1.4.5",
+   "standard": "肝病学名词",
+   "subject": "肝病学_肝病实验室、影像与病理检查_肝脏实验室检查"
+  },
+  {
+   "cn": "纯音听阈均值",
+   "en": "pure tone average;PTA",
+   "code": "1.3.5.2.6.1",
+   "standard": "耳鼻咽喉头颈外科学名词",
+   "subject": "耳科_耳检查法"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

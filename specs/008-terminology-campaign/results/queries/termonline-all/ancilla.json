@@ -1,0 +1,180 @@
+{
+ "key": "ancilla",
+ "term": "ancilla",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T23:53:18+00:00",
+ "status": "ok",
+ "note": "variant=ancilla; 审定公布名词库=23; 海峡两岸名词对照库=11; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "香草兰",
+   "en": "vanilla",
+   "code": "04.141",
+   "standard": "农学名词",
+   "subject": "经济作物_其他"
+  },
+  {
+   "cn": "菌环",
+   "en": "annulus,armilla",
+   "code": "03.309",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物形态与结构"
+  },
+  {
+   "cn": "附属建筑物",
+   "en": "ancillary building",
+   "code": "03.151",
+   "standard": "电力名词",
+   "subject": "电力_电力规划、设计与施工"
+  },
+  {
+   "cn": "辅助服务",
+   "en": "ancillary service",
+   "code": "06.297",
+   "standard": "电力名词",
+   "subject": "电力_调度与通信、电力市场"
+  },
+  {
+   "cn": "附件体积",
+   "en": "ancillary volume",
+   "code": "06.022",
+   "standard": "计量学名词",
+   "subject": "计量学_容量、流量_容量"
+  },
+  {
+   "cn": "辅助转录因子",
+   "en": "ancillary transcription factor",
+   "code": "3.069",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "辅助服务市场",
+   "en": "ancillary service market",
+   "code": "06.206",
+   "standard": "电力名词",
+   "subject": "电力_调度与通信、电力市场"
+  },
+  {
+   "cn": "辅助服务费",
+   "en": "ancillary service charge",
+   "code": "06.321",
+   "standard": "电力名词",
+   "subject": "电力_调度与通信、电力市场"
+  },
+  {
+   "cn": "辅助鳃盖",
+   "en": "ancillary gill-cover",
+   "code": "03.0129",
+   "standard": "古生物学名词",
+   "subject": "古生物学_古脊椎动物学与古人类学_鱼类"
+  },
+  {
+   "cn": "辅助转录因子",
+   "en": "ancillary transcription factor",
+   "code": "07.197",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞遗传"
+  },
+  {
+   "cn": "辅助转录因子",
+   "en": "ancillary transcription factor",
+   "code": "03.323",
+   "standard": "遗传学名词",
+   "subject": "遗传学_分子遗传学"
+  },
+  {
+   "cn": "简仪",
+   "en": "abridged armilla",
+   "code": "05.236",
+   "standard": "天文学名词",
+   "subject": "天文学_天文学史"
+  },
+  {
+   "cn": "香草",
+   "en": "vanilla",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "从属信用证",
+   "en": "ancillary credit",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "辅助资料",
+   "en": "ancillary data",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "辅助数据",
+   "en": "ancillary data",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "辅助设备",
+   "en": "ancillary equipment",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "辅助转录因子",
+   "en": "ancillary transcription factor",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "辅助转录因子",
+   "en": "ancillary transcription factor",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "简仪",
+   "en": "abridged armilla",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "网络附属元素",
+   "en": "network ancillary role",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "西部女郎",
+   "en": "Fanciulla del West\",\"La",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "抗可溶性肝抗原抗体",
+   "en": "antisoluble liver antigen antibody， antiSLA",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "辅助性服务费用",
+   "en": "ancillary services expenditure",
+   "code": "2.2.5.6.4",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生总费用_卫生费用核算"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

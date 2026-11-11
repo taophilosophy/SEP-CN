@@ -1,0 +1,348 @@
+{
+ "key": "acedia",
+ "term": "acedia",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T23:33:46+00:00",
+ "status": "ok",
+ "note": "variant=acedia; 审定公布名词库=624; 海峡两岸名词对照库=68; 其他来源数据库=42; 预公布名词数据库=32; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "失读症",
+   "en": "alexia",
+   "code": "4.076",
+   "standard": "神经外科学名词",
+   "subject": "医学_神经外科学_神经系统疾病临床特征_体征"
+  },
+  {
+   "cn": "贲门",
+   "en": "cardia",
+   "code": "17.002",
+   "standard": "普通外科学名词",
+   "subject": "医学_普通外科学_胃与十二指肠外科"
+  },
+  {
+   "cn": "贫血",
+   "en": "anemia",
+   "code": "17.187",
+   "standard": "普通外科学名词",
+   "subject": "医学_普通外科学_胃与十二指肠外科"
+  },
+  {
+   "cn": "贫血",
+   "en": "anemia",
+   "code": "03.817",
+   "standard": "急救医学名词",
+   "subject": "急救医学_日常医学急救_儿科学_儿科急症"
+  },
+  {
+   "cn": "乙酸甘油酯",
+   "en": "acetin",
+   "code": "7.011",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_脂质_甘油酯_单糖衍生物"
+  },
+  {
+   "cn": "贫血",
+   "en": "anemia",
+   "code": "15.029",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医内科学"
+  },
+  {
+   "cn": "贫血",
+   "en": "anemia",
+   "code": "5.001",
+   "standard": "血液学名词",
+   "subject": "血液学_红细胞系统疾病_贫血"
+  },
+  {
+   "cn": "贲门",
+   "en": "cardia",
+   "code": "3.019",
+   "standard": "消化病学名词",
+   "subject": "消化病_胃十二指肠_胃十二指肠解剖"
+  },
+  {
+   "cn": "贫血",
+   "en": "anemia",
+   "code": "5.054",
+   "standard": "妇科肿瘤学名词",
+   "subject": "妇科肿瘤学_妇科肿瘤诊断学_症状_其他症状"
+  },
+  {
+   "cn": "贲门",
+   "en": "cardia",
+   "code": "6.084",
+   "standard": "动物学名词",
+   "subject": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_消化系统"
+  },
+  {
+   "cn": "失读[症]",
+   "en": "alexia",
+   "code": "03.744",
+   "standard": "生理学名词",
+   "subject": "生理学_神经生理学"
+  },
+  {
+   "cn": "失读[症]",
+   "en": "alexia",
+   "code": "04.118",
+   "standard": "阿尔茨海默病名词",
+   "subject": "阿尔茨海默病_精神与心理认知学"
+  },
+  {
+   "cn": "贲门",
+   "en": "cardia",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "贫血",
+   "en": "anemia",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "无心畸形",
+   "en": "acardia",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "无肢畸形",
+   "en": "amelia",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "失读症",
+   "en": "alexia",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "乙酸甘油酯",
+   "en": "acetin",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "贲门",
+   "en": "cardia",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "铈土",
+   "en": "ceria",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "介质",
+   "en": "media",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "介质，媒体",
+   "en": "media",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "介质，媒体",
+   "en": "media",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "雷蚴",
+   "en": "redia",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "贫血",
+   "en": "anemia",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "增生性贫血",
+   "en": "megaloblastic anemia",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "维生素B12缺乏症",
+   "en": "Megaloblastic anemia",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "恶性贫血",
+   "en": "Pernicious anemia",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "流媒体",
+   "en": "streaming media",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "主流媒体",
+   "en": "mainstream media",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会媒体",
+   "en": "social media",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数字媒体",
+   "en": "digital media",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "自媒体",
+   "en": "We Media",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "融媒体",
+   "en": "media convergence",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "泛在媒体",
+   "en": "ubiquitous media",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "媒体网关",
+   "en": "media gateway",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "贫血",
+   "en": "anemia",
+   "code": "5.1.5.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_高原军事卫生_高原"
+  },
+  {
+   "cn": "酸性食品",
+   "en": "acidic food",
+   "code": "7.1.63",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品相关产品_食品接触材料及制品"
+  },
+  {
+   "cn": "酸性防腐剂",
+   "en": "acidic preservative",
+   "code": "6.1.20.1",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品添加剂_食品添加剂"
+  },
+  {
+   "cn": "媒体民族志",
+   "en": "media ethnography",
+   "code": "3.8.2.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_文化社会学_大众传媒研究"
+  },
+  {
+   "cn": "媒体事件",
+   "en": "media event",
+   "code": "3.8.2.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_文化社会学_大众传媒研究"
+  },
+  {
+   "cn": "媒体规范",
+   "en": "media specification",
+   "code": "3.8.2.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_文化社会学_大众传媒研究"
+  },
+  {
+   "cn": "媒介人类学",
+   "en": "media anthropology",
+   "code": "1.0326",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "大众传播媒介",
+   "en": "mass media",
+   "code": "5.2.3.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法"
+  },
+  {
+   "cn": "新媒体",
+   "en": "new media",
+   "code": "5.2.3.4",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法"
+  },
+  {
+   "cn": "社交媒体",
+   "en": "social media",
+   "code": "1.0323",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "新媒体",
+   "en": "new media",
+   "code": "1.0324",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "酸性电解水",
+   "en": "acidic electrolyzed water",
+   "code": "3.1.2.10.5.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

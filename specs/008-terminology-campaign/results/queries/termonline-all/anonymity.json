@@ -1,0 +1,201 @@
+{
+ "key": "anonymity",
+ "term": "anonymity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T00:00:48+00:00",
+ "status": "ok",
+ "note": "variant=anonymity; 审定公布名词库=29; 海峡两岸名词对照库=9; 其他来源数据库=6; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "匿名",
+   "en": "anonymity",
+   "code": "12.099",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_政治传播_政治传播基础"
+  },
+  {
+   "cn": "匿名性",
+   "en": "anonymity",
+   "code": "10.0148",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_信息安全_安全协议与分析技术"
+  },
+  {
+   "cn": "匿名者",
+   "en": "anonym",
+   "code": "13.102",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_新媒体传播_新媒体应用"
+  },
+  {
+   "cn": "匿名审稿",
+   "en": "anonymous review;anonymized review",
+   "code": "02.03.011",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_编辑_审稿"
+  },
+  {
+   "cn": "k匿名",
+   "en": "k-anonymity",
+   "code": "07.0443",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库新技术"
+  },
+  {
+   "cn": "匿名DNA",
+   "en": "anonymous DNA",
+   "code": "3.252",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "匿名供者",
+   "en": "anonymous donor",
+   "code": "03.006",
+   "standard": "器官移植学名词",
+   "subject": "器官移植学_供者与供器官的类型"
+  },
+  {
+   "cn": "佚名著作",
+   "en": "anonymous work",
+   "code": "08.066",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_文献学_一般概念"
+  },
+  {
+   "cn": "匿名经典",
+   "en": "anonymous classic",
+   "code": "08.067",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_文献学_一般概念"
+  },
+  {
+   "cn": "佚名文献",
+   "en": "anonymous literature",
+   "code": "08.065",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_文献学_一般概念"
+  },
+  {
+   "cn": "匿名登录",
+   "en": "anonymous login",
+   "code": "10.0123",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_信息安全_安全协议与分析技术"
+  },
+  {
+   "cn": "无名网络连接",
+   "en": "anonymous networking",
+   "code": "09.0566",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_网络互联"
+  },
+  {
+   "cn": "匿名性",
+   "en": "anonymity",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "匿名性",
+   "en": "anonymity",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "未名星系",
+   "en": "anonymous galaxy",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "匿名DNA",
+   "en": "anonymous DNA",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "匿名标记",
+   "en": "anonymous marker",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "匿名登录",
+   "en": "anonymous login",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "匿名服务器",
+   "en": "anonymous server",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "匿名文件传送协议",
+   "en": "anonymous FTP",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "匿名转账",
+   "en": "anonymous refund",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "匿名性",
+   "en": "anonymity",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "匿名数据",
+   "en": "anonymous data",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "去匿名化",
+   "en": "de-anonymization",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "可控匿名机制",
+   "en": "controllable anonymous mechanism",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据匿名化算法",
+   "en": "data anonymization algorithm",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《ISO/IEC 29191-2012 信息技术 安全技术 部分匿名、部分不可链接的身份验证要求》",
+   "en": "ISO/IEC 29191:2012 Information technology — Security techniques — Requirements for partially anonymous, partially unlinkable authentication",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

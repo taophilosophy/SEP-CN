@@ -1,0 +1,348 @@
+{
+ "key": "automated theorem proving",
+ "term": "automated theorem proving",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T00:39:51+00:00",
+ "status": "ok",
+ "note": "variant=automated theorem proving; 审定公布名词库=3536; 海峡两岸名词对照库=1256; 其他来源数据库=263; 预公布名词数据库=284; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "自动定理证明",
+   "en": "automated theorem proving",
+   "code": "08.0071",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_自动推理"
+  },
+  {
+   "cn": "定理证明",
+   "en": "theorem proving",
+   "code": "05.073",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制"
+  },
+  {
+   "cn": "基于实例的定理证明",
+   "en": "instance-based theorem proving",
+   "code": "08.0072",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_自动推理"
+  },
+  {
+   "cn": "自动化",
+   "en": "automation",
+   "code": "16.046",
+   "standard": "电气工程名词",
+   "subject": "电气工程_电气传动及其自动控制"
+  },
+  {
+   "cn": "自动化",
+   "en": "automation",
+   "code": "01.004",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_自动化技术通类"
+  },
+  {
+   "cn": "定理",
+   "en": "theorem",
+   "code": "01.0141",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "定理",
+   "en": "theorem",
+   "code": "01.0013",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "Π-定理",
+   "en": "Πtheorem",
+   "code": "03.124",
+   "standard": "航空科学技术名词",
+   "subject": "航空科学技术_飞行原理"
+  },
+  {
+   "cn": "π定理",
+   "en": "π theorem",
+   "code": "06.105",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_空气动力学与飞行原理"
+  },
+  {
+   "cn": "π定理",
+   "en": "π theorem",
+   "code": "15.070",
+   "standard": "土木工程名词",
+   "subject": "土木工程_土木工程检测_土木工程检测实验力学"
+  },
+  {
+   "cn": "自动判读",
+   "en": "automated scoring",
+   "code": "4.174",
+   "standard": "睡眠医学名词",
+   "subject": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术"
+  },
+  {
+   "cn": "自动消毒",
+   "en": "automated disinfection",
+   "code": "3.025",
+   "standard": "消化内镜学名词",
+   "subject": "消化内镜学_消化内镜洗消_清洗消毒"
+  },
+  {
+   "cn": "自动化",
+   "en": "automation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "定理",
+   "en": "theorem",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "π定理",
+   "en": "π-theorem",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "π定理",
+   "en": "π-theorem\",\"pi-theorem",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "自动搜索",
+   "en": "automated search",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "自动矢量化",
+   "en": "automated vectorization",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "自动数字化",
+   "en": "automated digitizing",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "自动地图制图",
+   "en": "automated cartography",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "自动检查",
+   "en": "automated inspection",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "自动矢量化",
+   "en": "automated vectorization",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "自动数字化",
+   "en": "automated digitizing",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "自动化地图学",
+   "en": "automated cartography",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "定理",
+   "en": "Theorem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "自动化交易",
+   "en": "automated trading",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "合同自动化",
+   "en": "contract automation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "建筑设备自动化",
+   "en": "building automation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "智慧家庭",
+   "en": "home automation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "勾股定理",
+   "en": "Pythagorean theorem/Pythagoras' theorem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "3A革命",
+   "en": "3A revolution: factory automation, office automation and home automation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "贝叶斯定理",
+   "en": "Bayes' theorem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "科斯定理",
+   "en": "Coase theorem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "布拉休斯定理",
+   "en": "Blasius theorem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "H定理",
+   "en": "H-theorem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "位力定理",
+   "en": "Virial theorem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "自动分装仪",
+   "en": "automated dispenser",
+   "code": "6.4.3.33",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_核医学"
+  },
+  {
+   "cn": "置盐定理",
+   "en": "Okishio theorem",
+   "code": "05.0131",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外经济学理论"
+  },
+  {
+   "cn": "自动分装注射仪",
+   "en": "automated injection dispenser",
+   "code": "6.4.3.34",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_核医学"
+  },
+  {
+   "cn": "基本的马克思定理",
+   "en": "fundamental Marxian theorem",
+   "code": "05.0130",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外经济学理论"
+  },
+  {
+   "cn": "内镜自动清洗消毒机",
+   "en": "automatic washer-disinfector for endoscope, automated endoscope reprocessor，AER",
+   "code": "3.1.2.6.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "致敏",
+   "en": "sensitization, priming",
+   "code": "1.3.1.20",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_免疫应答"
+  },
+  {
+   "cn": "统筹层次",
+   "en": "pooling level",
+   "code": "3.18.2.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_社会保障_社会保险"
+  },
+  {
+   "cn": "参考定价",
+   "en": "reference pricing",
+   "code": "1.1.3.2.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生经济学_卫生经济学"
+  },
+  {
+   "cn": "差别定价",
+   "en": "discriminatory pricing",
+   "code": "5.1.6.4",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务供给"
+  },
+  {
+   "cn": "统筹层次",
+   "en": "pooling level",
+   "code": "9.3.4",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生筹资_卫生资金统筹"
+  },
+  {
+   "cn": "公正定价",
+   "en": "fair pricing",
+   "code": "10.1.4.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务购买与支付_卫生服务购买"
+  },
+  {
+   "cn": "门诊统筹",
+   "en": "outpatient pooling ",
+   "code": "11.5.3.5",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_健康保险_健康保险筹资与运行"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

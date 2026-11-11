@@ -1,0 +1,40 @@
+{
+ "key": "apprehension",
+ "term": "apprehension",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T00:21:50+00:00",
+ "status": "ok",
+ "note": "variant=apprehension; 审定公布名词库=4; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "沟通恐惧",
+   "en": "communication apprehension",
+   "code": "8.142",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_人际沟通_人际沟通能力与关系管理"
+  },
+  {
+   "cn": "肩恐惧试验",
+   "en": "shoulder apprehension test",
+   "code": "03.107",
+   "standard": "运动医学名词",
+   "subject": "运动医学_运动创伤_运动创伤各论_肩部运动创伤"
+  },
+  {
+   "cn": "髌骨恐惧试验",
+   "en": "patellar apprehension test",
+   "code": "03.240",
+   "standard": "运动医学名词",
+   "subject": "运动医学_运动创伤_运动创伤各论_膝部运动创伤"
+  },
+  {
+   "cn": "持握功能",
+   "en": "grasping function,prehension function",
+   "code": "02.049",
+   "standard": "显微外科学名词",
+   "subject": "显微外科学_再植与再造_解剖"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

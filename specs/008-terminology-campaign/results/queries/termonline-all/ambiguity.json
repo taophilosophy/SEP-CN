@@ -1,0 +1,187 @@
+{
+ "key": "ambiguity",
+ "term": "ambiguity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T23:47:17+00:00",
+ "status": "ok",
+ "note": "variant=ambiguity; 审定公布名词库=48; 海峡两岸名词对照库=23; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "歧义",
+   "en": "ambiguity",
+   "code": "08.0529",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_计算语言学"
+  },
+  {
+   "cn": "歧义",
+   "en": "ambiguity",
+   "code": "02.809",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "多值性",
+   "en": "ambiguity",
+   "code": "04.0019",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_电子航海"
+  },
+  {
+   "cn": "模糊度",
+   "en": "ambiguity",
+   "code": "05.025",
+   "standard": "电子学名词",
+   "subject": "电子学_信息论与信号处理技术"
+  },
+  {
+   "cn": "二义组配",
+   "en": "ambiguity coordination",
+   "code": "04.082",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_一般概念"
+  },
+  {
+   "cn": "歧义消解",
+   "en": "ambiguity resolution",
+   "code": "08.0530",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_计算语言学"
+  },
+  {
+   "cn": "模糊距离",
+   "en": "ambiguity range",
+   "code": "07.372",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天测控与通信"
+  },
+  {
+   "cn": "模糊误差",
+   "en": "ambiguity error",
+   "code": "03.130",
+   "standard": "机械工程名词 第三分册",
+   "subject": "机械工程_仪器仪表_电测量仪器仪表_数字仪表和模_数转换器"
+  },
+  {
+   "cn": "模糊函数",
+   "en": "ambiguity function",
+   "code": "19.041",
+   "standard": "电子学名词",
+   "subject": "电子学_雷达与电子对抗"
+  },
+  {
+   "cn": "模糊图",
+   "en": "ambiguity diagram",
+   "code": "19.042",
+   "standard": "电子学名词",
+   "subject": "电子学_雷达与电子对抗"
+  },
+  {
+   "cn": "战略模糊性",
+   "en": "strategic ambiguity",
+   "code": "9.101",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_组织传播_组织传播战略"
+  },
+  {
+   "cn": "整周模糊度",
+   "en": "integer ambiguity",
+   "code": "02.075",
+   "standard": "测绘学名词",
+   "subject": "测绘学_大地测量学与导航定位"
+  },
+  {
+   "cn": "模糊度",
+   "en": "ambiguity",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "歧义",
+   "en": "ambiguity",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "多值性（模糊度）",
+   "en": "ambiguity",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "句法歧义",
+   "en": "syntax ambiguity\",\"syntactic ambiguity",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "模糊函数",
+   "en": "ambiguity function",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "模糊函数",
+   "en": "ambiguity function",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "模糊图",
+   "en": "ambiguity diagram",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "歧义消解",
+   "en": "ambiguity resolution",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "模糊度解析",
+   "en": "ambiguity resolution",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "速度模糊",
+   "en": "velocity ambiguity",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "词汇歧义",
+   "en": "lexical ambiguity",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "方位模糊",
+   "en": "azimuth ambiguity",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "两个坚定不移和两个不能含糊",
+   "en": "two immovabilityand two unambiguity",
+   "code": "03.0635",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
