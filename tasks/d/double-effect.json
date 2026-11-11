@@ -2,7 +2,7 @@
   "slug": "double-effect",
   "kind": "retranslate",
   "zh_doc": "d/double-effect.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "ABCDE-main-20261103",
       "at": "2026-11-02T20:45:27Z",
       "evidence": "check_style 0 issue；check_math 0；check_academic --strict 0 硬错误（门禁实拦）；其他网络资源 6 项汉化合规"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "D-main-20261111",
+      "at": "2026-11-11T11:57:12Z",
+      "evidence": "独立复核一（全文回读 320 行 vs 源）：结构体例修正 3 处——①删除遗留作者 byline 行（*McIntyre, Alison*，作者已在 H1 括注，全库体例 byline 省略）；②未汉化的相关词条交叉引用「Doing vs. Allowing Harm」改「造成伤害与允许伤害」；③补标准译注行。准确性核销：阿奎那《神学大全》II-II 第 64 题第 7 条引文、奥古斯丁、NCE 四条件、曼根四条件（Mangan 1949, 43）、卡塔尔多道德对象与五维评估、沃尔泽最小化伤害论、六对应用案例（恐怖/战术轰炸、安乐死/止痛、流产/子宫切除、先发杀人/自卫、自杀/英雄掩护、电车难题）逐段与源对读无漏译无增译。五维：标题 6/9、marker 22:22、defs 61:61、段落 64:63（差 1=byline 省略）、尾节照录 13:14（+1=补译注行）。语体：现代汉语学术书面语，无文言句式（ADR-0033）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "D-main-20261111",
+      "at": "2026-11-11T12:03:12Z",
+      "evidence": "独立复核二（术语与人名）：术语册 doctrin of double effect=双重效应原则 已登（2026-11-09），本批补登 3 行——side effect=副作用、Knobe effect=诺布效应（亦作副作用效应）、proportionality (double effect)=相称性（与 proportionality of blame 限定键分立）；正文用语与册一致（双重效应原则/相称性条件/仅为预见的副作用/意图/预见）。人名补登 8 行：曼根/卡塔尔多/诺布/卡根/乌尼亚克/福尔/伦奎斯特/林（帕特里克）；既有 阿奎那/奥古斯丁/沃尔泽/哈曼/奎因/内尔金/安斯康姆/福特/汤姆森/卡姆/布罗克 在册一致；Quill/Dresser/Mikhail/Rickless/Nyholm/Smids 依 ADR-0022 无通行汉名保留拉丁原名。相关词条 5 条（托马斯·阿奎那/后果主义/造成伤害与允许伤害/自愿安乐死/自杀）对 SUMMARY 复核；prose 80 条沿用 s2 豁免口径（49 de-chain 术语链、27 长句源文等长、7 被动自然中文、2 当…时候），本轮未新增"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "D-main-20261111",
+      "at": "2026-11-11T12:09:34Z",
+      "evidence": "独立复核三（终稿）：check_style 0 issue、check_academic --strict 0 硬错误、check_math 0/0、check_prose 80 沿用 s2 分类豁免、check_summary HARD 0；五维终跑 标题 6/9、marker 22:22 键序全等、defs 61:61 键集全等、段落 64:63（byline 豁免）、缩写键 0:0；参考文献 61 条 defs 照录与源逐行一致；学术工具四行（表格形态）齐备；其他网络资源 5 项；H1 与 SUMMARY 定名一致"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "D-main-20261111",
+      "at": "2026-11-11T12:17:20Z",
+      "evidence": "全周期完成（九步齐备）：r1 全文回读修结构体例 3 处（删 byline、汉化交叉引用、补译注）并核销六对案例与四条件表述；r2 补登术语 3 行、人名 8 行；r3 四检全绿；译文入库 d/double-effect.md"
     }
   ],
   "blockers": [],

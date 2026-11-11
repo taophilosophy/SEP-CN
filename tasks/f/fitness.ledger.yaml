@@ -11,74 +11,98 @@ segments:
     kind: body
     source: |-
       The diversity, complexity, and adaptation of the biological realm is evident. Until Darwin, the best explanation for these three features of the biological was the conclusion of the “argument from design.” Darwin’s theory of natural selection provides an explanation of all three of these features of the biological realm without adverting to some mysterious designing entity, by explaining the process of “the survival of the fittest.” But this explanation’s success turns on the meaning of its central explanatory concept, ‘fitness’. Moreover, since Darwinian theory provides the resources for a purely causal account of teleology, wherever it is manifested, its reliance on the concept of ‘fitness’ makes it imperative that conceptual problems threatening the explanatory legitimacy of this notion be solved.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      生物界的多样性、复杂性与适应性是显而易见的。在达尔文之前，对生物这三个特征的最好解释是“设计论证”的结论。达尔文的自然选择理论通过解释“最适者生存”的过程，在不诉诸某种神秘设计实体的情况下，为生物界的这三个特征都提供了说明。但这一解释的成功取决于其核心解释概念“适合度”的含义。此外，由于达尔文理论为无论何处表现出的目的论提供了纯粹因果说明的资源，它对“适合度”概念的依赖，就使得解决威胁这一概念解释正当性的概念问题成为当务之急。
+    step2: |-
+      生物界的多样性、复杂性及其适应性彰明较著。达尔文之前，对生物这三重特征的最佳解释，是“设计论证”所得出的结论。达尔文的自然选择理论则通过阐明“最适者生存”的过程，无须诉诸任何神秘的设计实体，便对这三重特征一并作出解释。然而，这一解释能否成立，端系于其核心解释概念“适合度”究竟何所指。进而言之，达尔文理论为一切表现于外的目的论提供了纯然因果的解释资源；正因如此，它若依赖“适合度”概念，就必须先解决那些危及该概念解释合法性的概念难题。
   - id: 2
     kind: body
     source: |-
       ## 1. The Classical Problem of Fitness
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1. 适合度的经典问题
+    step2: |-
+      ## 1. 适合度的经典问题
   - id: 3
     kind: body
     source: |-
       The leading idea of Darwin’s theory of natural selection is often expressed in terms first coined by Herbert Spencer as the claim that among competing organisms the fittest survive (1864, 144). If there is random variation among the traits of organisms, and if some variant traits fortuitously confer advantages on the organisms that bear them, i.e., enhance their fitness, then those organisms will live to have more offspring, which in turn will bear the advantageous traits. Whence descent with adaptive modification, i.e., evolution. Evolution by random heritable variation and natural selection will explain ever increasing adaptation to given environments, increasing diversity in the occupation of new environments, and the complexity of organisms and their parts as their lineages adapt to one another and to their environments.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      达尔文自然选择理论的主导思想，常以赫伯特·斯宾塞首创的说法来表达，即：在相互竞争的有机体中间，最适者生存（1864, 144）。如果在有机体的性状之间存在随机变异，并且某些变异性状偶尔给承载它们的有机体带来优势，即提高其适合度，那么这些有机体将活下来并产生更多后代，而这些后代又承载着那些有利性状。于是就有了伴随适应性修饰的传衍，即进化。由随机可遗传变异与自然选择所驱动的进化，将解释对特定环境的日益适应、占据新环境时的多样性增长，以及有机体及其各部分在其谱系彼此适应并适应环境过程中的复杂性。
+    step2: |-
+      达尔文自然选择理论的核心观念，常用赫伯特·斯宾塞首创的措辞表述为：相互竞争的有机体之中，最适者生存（1864, 144）。若有机体的性状存在随机变异，且某些变异性状碰巧赋予其承载者以优势——亦即提高其适合度——那么这些有机体便会存活下来、留下更多后代，而后代又承袭这些有利性状。由此便有伴随适应性修饰的传衍，亦即进化。随机可遗传变异与自然选择所驱动的进化，足以解释：对既定环境的适应日益加深，占据新环境所带来的多样性增长，以及有机体及其各部分在谱系相互适应、适应环境的过程中日增的复杂性。
   - id: 4
     kind: body
     source: |-
       But what is fitness and how can one tell when a trait enhances fitness, or more to the point, when one organism is fitter than another? Opponents of the theory of natural selection have long claimed that the theory is so treated by its proponents as to define fitness in terms of rates of reproduction, thus condemning the principle of the survival of the fittest to triviality: the claim that those organisms with higher rates of reproduction leave more offspring is an empty, unfalsifiable tautology bereft of explanatory power. In the century and a half since the publication of *On the Origin of Species* biologists have all too often reinforced this objection by actually so defining fitness. For example, C.H. Waddington writes, in *Towards a Theoretical Biology* (1968, 19), that the fittest individuals are those that are “most effective in leaving gametes to the next generation.” It appears therefore that evolutionary theory requires a definition of fitness that will protect it from the charges of tautology, triviality, unfalsifiabilty, and consequent explanatory infirmity. If no such definition is in fact forthcoming, then what is required by the theory’s adherents is an alternative account of its structure and content or its role in the research program of biology.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但什么是适合度？人如何判断一个性状何时提高了适合度，或者更切题地说，何时一个有机体比另一个更适合？自然选择理论的反对者早就主张，该理论被其支持者如此处理，以致以繁殖率来定义适合度，从而使最适者生存原则沦为琐碎：那些繁殖率更高的有机体留下更多后代，这一主张是空洞的、不可证伪的同义反复，缺乏解释力。在《物种起源》出版后的一个半世纪里，生物学家们常常恰恰如此定义适合度，从而强化了这一反对意见。例如，C. H. 沃丁顿在《走向理论生物学》（1968, 19）中写道，最适个体就是那些“在把配子传给下一代方面最为有效”的个体。因此，进化理论似乎需要一种适合度定义，以保护它免受同义反复、琐碎、不可证伪以及由此而来的解释无力的指控。如果事实上提不出这样的定义，那么该理论的支持者所需要的，就是对其结构、内容或其在生物学研究纲领中的角色作出另一种说明。
+    step2: |-
+      然而，适合度究竟是什么？又如何判断某个性状提高了适合度——更确切地说，如何判断一个有机体比另一个更适合？自然选择理论的反对者历来主张，该理论的支持者把适合度径直定义为繁殖率，遂使“最适者生存”原则沦为琐碎之论：所谓繁殖率更高的有机体留下更多后代，不过是一句空洞、不可证伪的同义反复，全无解释力。自《物种起源》问世以来的一个半世纪里，生物学家屡屡正是这样定义适合度，反倒坐实了这项反对。例如，C. H. 沃丁顿在《走向理论生物学》（1968, 19）中写道，最适个体即“在把配子留给下一代方面最为有效”者。看来，进化理论亟需一种适合度定义，以抵御同义反复、琐碎、不可证伪以及由此导致的解释无力之讥。倘若这样的定义实际上拿不出来，那么该理论的支持者便须另辟蹊径，重新说明理论的结构与内容，或它在生物学研究纲领中的角色。
   - id: 5
     kind: body
     source: |-
       ## 2. Ecological Fitness
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2. 生态适合度
+    step2: |-
+      ## 2. 生态适合度
   - id: 6
     kind: body
     source: |-
       In an intuitive sense, ‘fitness’ can refer to the correspondence between the shape of an object and an empty volume it is placed in: a square peg fits into a square hole. In a more abstract fashion, one might refer to the properties of an entity and how they correspond to the constraints of its context. In a biological setting one could focus on an organism’s traits and how they correspond to various aspects of the environment the organism is living in. Following biological usage, call this concept ‘ecological fitness’. (It has also been called ‘vernacular fitness,’ cf. Matthen and Ariew 2002.)[^matthen-2002] The ‘vernacular’ definition is fraught with difficulties. Suppose, following Dennett (1995) we characterize the relation ‘$x$ is fitter than $y$’ as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在直觉意义上，“适合度”可以指一个物体的形状与它被置入其中的空容积之间的对应关系：方钉恰好适合方孔。以一种更抽象的方式，人们可以指一个实体的属性以及它们如何对应于其语境的约束。在生物学语境中，人们可以关注一个有机体的性状，以及它们如何对应于该有机体所生活环境的各种方面。循生物学用法，把这个概念称为“生态适合度”。（它也被称为“通俗适合度”，参看 Matthen and Ariew 2002。）[^matthen-2002] “通俗的”定义充满困难。假设我们循丹尼特（1995），把“$x$ 比 $y$ 更适合”这一关系刻画如下：
+    step2: |-
+      就直觉而言，“适合度”可以指物体形状与其所置入的空容积之间的吻合：方钉正合方孔。稍加抽象，它也可以指一个实体的诸属性如何契合其语境的约束。放到生物学语境里，便可聚焦于有机体的性状，看它们如何契合该有机体所居环境的各个方面。循生物学惯例，这一概念不妨称作“生态适合度”。（它另有“通俗适合度”之称，参看 Matthen and Ariew 2002。）[^matthen-2002] 然而，“通俗”定义困难重重。设若循丹尼特（1995）之例，把“$x$ 比 $y$ 更适合”这一关系刻画如下：
   - id: 7
     kind: body
     source: |-
       > $x$ is fitter than $y$ if and only if $x$’s traits enable it to solve the ‘design problems’ set by the environment more fully than $y$’s traits do.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 当且仅当 $x$ 的性状比 $y$ 的性状更充分地解决环境所设定的“设计问题”时，$x$ 比 $y$ 更适合。
+    step2: |-
+      > 当且仅当 $x$ 的性状能比 $y$ 的性状更充分地解决环境所设定的那些“设计问题”，$x$ 才比 $y$ 更适合。
   - id: 8
     kind: body
     source: |-
       One may ask, What are these design problems? How many of them are there? Is there any way of measuring the degree to which $x$ exceeds $y$ in their solution? Answers to these questions simply reinforce the threat of tautology that faces the theory. To begin with the notion of “design problems” is vague and metaphorical; or, if treated literally, design problems will all be relative to the overarching objective of leaving more descendants. Thus the definition may simply hide the original problem of distinguishing fitness from reproductive rates, instead of solving it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人们可以问：这些设计问题是什么？有多少个？有没有办法衡量 $x$ 在解决它们方面超过 $y$ 的程度？对这些问题的回答，只会加强该理论面临的同义反复威胁。首先，“设计问题”这一观念含糊而隐喻；或者，若按字面理解，设计问题将全都相对于留下更多后代这一总体目标。因此，该定义可能只是掩盖了把适合度与繁殖率区分开来的原初问题，而不是解决了它。
+    step2: |-
+      人们不禁要问：这些“设计问题”究竟是什么？数目有多少？能否衡量 $x$ 在解决这些问题上超出 $y$ 的程度？凡此种种，答案只会加重该理论所面临的同义反复之虞。首先，“设计问题”一语含糊而多隐喻；若照字面理解，则一切设计问题都相对于“留下更多后代”这一总目标。如此，该定义或许只是把“如何区分适合度与繁殖率”这个原初难题遮掩起来，而并未解决它。
   - id: 9
     kind: body
     source: |-
       Second, the number of design problems is equal to the number of distinct environmental features that affect survival, and of course reproduction, and this number is probably uncountable. Accordingly, prima facie, the proposed definition provides no hope of cardinal or even ordinal measurement that would enable us to predict or explain quantitatively differences in rates of reproduction, and the evolutionary processes that depend on these rates. Moreover, ecological fitness accounts may not have provided a satisfactory story about how to carve up the relevant reference environment that is supposed to have an impact on the survival of said organisms (Abrams 2009)[^abrams-2009]. It is no wonder that biologists, sensible of the importance of predictive precision and explanatory testability, have had little truck with ecological fitness and have defined ‘$x$ is fitter than $y$’ in terms of quantitatively measurable reproductive rates. This tendency of course simply adds force to the original argument. If the only way to make fitness differences scientifically tractable is to trivialize the theory, so much the worse for the theory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其次，设计问题的数目等于影响生存——当然也影响繁殖——的不同环境特征的数目，而这个数目大概是不可数的。据此，初看之下，所提出的定义没有希望提供基数测量、甚至序数测量，从而使我们能够定量地预测或解释繁殖率的差异，以及依赖这些繁殖率的进化过程。此外，生态适合度的说明可能并未就如何划分那个据说对上述有机体的生存有影响的相关参照环境，给出令人满意的说法（Abrams 2009）[^abrams-2009]。难怪生物学家们深知预测精确性与解释可检验性的重要，对生态适合度兴趣寥寥，转而以可定量测量的繁殖率来定义“$x$ 比 $y$ 更适合”。这种倾向当然只是给原来的论证增添了力量。如果使适合度差异在科学上可处理的唯一办法是把理论琐碎化，那么对该理论就更加不利了。
+    step2: |-
+      其次，设计问题的数目等于影响生存（自然也影响繁殖）的不同环境特征的数目，而这个数目多半不可计数。于是初看之下，该定义便无法提供基数测量，甚至序数测量，因而无从定量地预测或解释繁殖率的差异，以及依赖这些繁殖率的进化过程。不止于此，生态适合度的说明或许还未能令人满意地交代：那个据称影响上述有机体生存的相关参照环境，究竟该如何划分（Abrams 2009）[^abrams-2009]。生物学家深知预测精确与解释可检验之重要，难怪他们对生态适合度兴趣寡淡，转而用可定量测量的繁殖率来定义“$x$ 比 $y$ 更适合”。这一倾向恰恰为原来的论证添了分量：倘若使适合度差异在科学上可处理的唯一途径，是把理论琐碎化，那么受损的只能是理论本身。
   - id: 10
     kind: body
     source: |-
       ## 3. Individual versus Trait Fitness
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. 个体适合度与性状适合度
+    step2: |-
+      ## 3. 个体适合度与性状适合度
   - id: 11
     kind: body
     source: |-
       Some philosophers (notably Sober, 2013) have argued that evolutionary fitness is a property of populations and not of individual organisms, or alternatively that fitness is a property of traits and not of the individuals that possess them. Individual fitness values are, they argue, empirically inaccessible and predictively useless. If trait fitness is defined in terms of the average fitness value of individuals bearing the trait, then it will turn out that there are individual fitnesses and individual fitness differences, even if it is the case that evolutionary biologists’ interests are confined to trait fitnesses. This claim has been challenged (cf. Pence and Ramsey 2014): sometimes biologists estimate trait fitnesses by studying individual fitnesses (Endler 1986)[^endler-1986].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一些哲学家（尤其是索伯，2013）主张，进化适合度是种群的属性，而不是个体有机体的属性；或者换个说法，适合度是性状的属性，而不是拥有这些性状的个体的属性。他们论证说，个体适合度值在经验上不可及，且在预测上无用。如果性状适合度是以拥有该性状的个体的平均适合度值来定义的，那么结果将表明存在个体适合度与个体适合度差异，即使进化生物学家的兴趣仅限于性状适合度。这一主张已受到挑战（参看 Pence and Ramsey 2014）：有时生物学家通过研究个体适合度来估计性状适合度（Endler 1986）[^endler-1986]。
+    step2: |-
+      一些哲学家（尤以索伯 2013 为代表）主张，进化适合度是种群而非个体有机体的属性；或者换个说法，适合度是性状的属性，而非拥有该性状的个体的属性。他们认为，个体适合度值在经验上无从把握，在预测上亦无所用。可是，倘若性状适合度要以拥有该性状的个体的平均适合度值来定义，那么个体适合度与个体适合度差异便会应运而生——即便进化生物学家的兴趣只限于性状适合度。这一主张遭到了质疑（参看 Pence and Ramsey 2014）：生物学家有时正是通过研究个体适合度来估计性状适合度（Endler 1986）[^endler-1986]。
   - id: 12
     kind: body
     source: |-
       It has also been held that trait fitness and fitness difference are both something more than and different from the average of individual fitnesses and fitness differences. On this view, trait fitness is a property of populations and, in part, their population structure—that is, the ways in which traits are distributed in the population. An example (to be explored further below) is reflected in cases where the fitness of a trait depends not just on its incidence in a population, but also on its variance within. A trait’s variance in a population cannot be reflected in individual fitness any more than the entropy of a volume of gas can be reflected in the properties of any of the individual molecules that compose it and contribute to its entropy. This suggests that trait fitness is not reducible to, definable in terms of, or even entirely supervenient on the relationship between individuals (e.g., organisms) and their environments.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      也有人主张，性状适合度与适合度差异都多于并有别于个体适合度与个体适合度差异的平均值。按此观点，性状适合度是种群的属性，并且部分地是其种群结构的属性——即性状在种群中分布的方式。一个例子（下文将进一步探讨）反映在如下情形中：一个性状的适合度不仅取决于它在种群中的发生率，还取决于它在种群内的方差。一个性状在种群中的方差无法反映在个体适合度中，正如一团气体的熵无法反映在组成它并对其熵有所贡献的任何单个分子的属性中。这表明，性状适合度不可还原为、不可用个体（如有机体）与其环境之间的关系来定义，甚至不完全随附于这种关系。
+    step2: |-
+      另有一种看法认为，性状适合度与适合度差异，既多于、也有别于个体适合度与个体适合度差异的平均值。照此看法，性状适合度是种群的属性，并且部分地取决于种群的构造——即诸性状在种群中的分布方式。一个例子（下文还会讨论）见于这样的情形：某一性状的适合度不仅取决于它在种群中的出现率，还取决于它在种群内部的方差。一个性状在种群中的方差，无法反映于个体适合度，正如一团气体的熵无法反映于组成该气体、并对其熵有所贡献的任何一个分子的属性。由此可见，性状适合度不能还原为个体（如有机体）与环境之间的关系，不能用这种关系来定义，甚至并不完全随附于这种关系。
   - id: 13
     kind: body
     source: |-

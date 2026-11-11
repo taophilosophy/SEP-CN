@@ -663,7 +663,7 @@
 * [勒内·笛卡尔 Descartes, René (Gary Hatfield)](d/descartes.md)
   * [笛卡尔与松果体 and the pineal gland (Gert-Jan Lokhorst)](p/pineal-gland.md)
   * [笛卡尔的认识论 epistemology (Lex Newman)](d/descartes-epistemology.md)
-  * [笛卡尔的伦理学 Descartes’ Ethics (Denis Kambouchner and Louis Rouquayrol)](d/descartes-ethics.md)
+  * [笛卡尔的伦理学 Descartes's Ethics (Denis Kambouchner and Louis Rouquayrol)](d/descartes-ethics.md)
   * [笛卡尔的生平及著作 life and works (Kurt Smith)](d/descartes-works.md)
   * [笛卡尔的数学 mathematics (Mary Domski)](d/descartes-mathematics.md)
   * [笛卡尔的方法 method (Tarek R. Dika)](d/descartes-method.md)

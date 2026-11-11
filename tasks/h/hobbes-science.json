@@ -2,7 +2,7 @@
   "slug": "hobbes-science",
   "kind": "retranslate",
   "zh_doc": "h/hobbes-science.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "H-main-20261111",
       "at": "2026-11-11T05:50:06Z",
       "evidence": "三校体例：check_style 唯一残余为 H1 规范题名 Hobbes’ Philosophy of Science 的右引号误报（SUMMARY 单一事实源，与 d/descartes-ethics、i/ikhwan-al-safa 同型存量误报）；check_academic --strict 0 硬错误；check_math 0 缺失/0 失衡；check_summary H1 mismatch 0；check_terms 硬错误 0；术语 14 条已登记（air-pump/civil philosophy/conception/results…）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "H-main-20261111",
+      "at": "2026-11-11T14:03:50Z",
+      "evidence": "初审（冷置约 2 小时，先完成 hilbert-program 全周期后回读）：全文 149 行通读，实修 7 处（指代“它们”改“这些观点”、两段陈述主谓、自然法对比句、秤盘因果句拆句、定义主义句序、自期句、长句 1 处）；check_prose 余 2 条均为直引内部（LEV 38 引句、OL I 致读者信被字），ADR-0020 豁免；语体：现代汉语学术书面语，无文言仿古"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "H-main-20261111",
+      "at": "2026-11-11T14:03:50Z",
+      "evidence": "复审逐句回核 yuanwen/h/hobbes-science.md：主文块 75=75、h2 5=5、年份序列 45=45 逐项一致、内联脚注 35=35、defs 49=49、粗体缩写键 0/0；引证组 9 组（Hobbes 1646/1642–43、Malcolm、Jesseph、Sprat、Adams×2、Deigh、Hoekstra）全数对位；登记册名形复核：霍布斯/波义耳/梅森/沃利斯/布拉姆霍尔/莱布尼茨/修昔底德/亚里士多德 均有行，现代学者保留英文（ADR-0022）；无新修改"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "H-main-20261111",
+      "at": "2026-11-11T14:03:51Z",
+      "evidence": "终审：check_style 仅 H1 规范题名 Hobbes’ Philosophy of Science 的撇号误报（与 d/descartes-ethics、i/ikhwan-al-safa 同型存量，SUMMARY 单一事实源不改）；check_academic --strict 0；check_math 0 缺失/0 失衡；check_summary 0；check_prose 余 2 条引文豁免；check_all 基线唯一红项为他会话在途 tasks（e/i 批 task-style-attest 8），非本条产物"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "H-main-20261111",
+      "at": "2026-11-11T14:03:51Z",
+      "evidence": "done：九步齐备；PROGRESS/campaign 计数由生成物推导"
     }
   ],
   "blockers": [],
