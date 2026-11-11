@@ -2,10 +2,319 @@
  "key": "codon bias",
  "term": "codon bias",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T15:06:28+00:00",
- "status": "error",
- "note": "variant=codon bias; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "codon bias: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T01:35:25+00:00",
+ "status": "ok",
+ "note": "variant=codon bias; 审定公布名词库=400; 海峡两岸名词对照库=128; 其他来源数据库=8; 预公布名词数据库=23; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "密码子偏倚",
+   "en": "codon bias",
+   "code": "15.021",
+   "standard": "农学名词",
+   "subject": "农业生物技术_基因工程"
+  },
+  {
+   "cn": "密码子偏倚",
+   "en": "codon bias",
+   "code": "5.0352",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_遗传信息传递与基因表达调控_蛋白质合成与加工_修复"
+  },
+  {
+   "cn": "密码子偏倚",
+   "en": "codon bias",
+   "code": "07.097",
+   "standard": "遗传学名词",
+   "subject": "遗传学_进化遗传学"
+  },
+  {
+   "cn": "密码子偏倚",
+   "en": "codon bias,codon preference",
+   "code": "10.0014",
+   "standard": "植物学名词",
+   "subject": "植物学_植物遗传学"
+  },
+  {
+   "cn": "密码子",
+   "en": "codon",
+   "code": "15.018",
+   "standard": "农学名词",
+   "subject": "农业生物技术_基因工程"
+  },
+  {
+   "cn": "密码子",
+   "en": "codon",
+   "code": "5.0333",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_遗传信息传递与基因表达调控_蛋白质合成与加工_修复"
+  },
+  {
+   "cn": "密码子",
+   "en": "codon",
+   "code": "3.161",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "密码子",
+   "en": "codon",
+   "code": "04.142",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_遗传育种_分子遗传学"
+  },
+  {
+   "cn": "密码子",
+   "en": "codon",
+   "code": "04.112",
+   "standard": "运动医学名词",
+   "subject": "运动医学_运动生化_核酸与运动"
+  },
+  {
+   "cn": "密码子",
+   "en": "codon",
+   "code": "10.0009",
+   "standard": "植物学名词",
+   "subject": "植物学_植物遗传学"
+  },
+  {
+   "cn": "密码子",
+   "en": "codon",
+   "code": "06.0071",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学研究_分子生物学基础"
+  },
+  {
+   "cn": "密码子",
+   "en": "codon",
+   "code": "05.373",
+   "standard": "药学名词",
+   "subject": "药学_生物药学"
+  },
+  {
+   "cn": "密码子偏倚",
+   "en": "codon bias",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "密码子偏爱性（=密码子偏倚）",
+   "en": "codon bias\",\"codon preference",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "密码子偏倚，密码子偏爱性",
+   "en": "codon bias\",\"codon preference",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "密码子偏倚",
+   "en": "codon bias\",\"codon preference",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "密码子",
+   "en": "codon",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "密码子",
+   "en": "codon",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "密码子",
+   "en": "codon",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "密码子",
+   "en": "codon",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "密码子",
+   "en": "codon",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "密码子",
+   "en": "codon",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "偏倚",
+   "en": "bias",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "偏压",
+   "en": "bias",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "终止密码子",
+   "en": "stop codon",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "起始密码子",
+   "en": "Start Codon",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "县解",
+   "en": "Freeing the Mind from Bias",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "冒号分类法",
+   "en": "Colon classification",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "弗兰克-康登原理",
+   "en": "Franck–Condon principle",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "区块链即服务",
+   "en": "Blockchain as a Service (BaaS)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "二茂铬",
+   "en": "Bis(cyclopentadienyl)titanium(III)_chloride",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "国际清算银行",
+   "en": "Bank for International Settlements (BIS)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "偏倚",
+   "en": "bias",
+   "code": "4.4.1.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计"
+  },
+  {
+   "cn": "偏倚",
+   "en": "bias",
+   "code": "1.2.4.66",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "社会性别偏见",
+   "en": "gender bias",
+   "code": "1.0219",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "报告偏倚",
+   "en": "reporting bias",
+   "code": "4.4.1.5.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计"
+  },
+  {
+   "cn": "抽样偏倚",
+   "en": "sampling bias",
+   "code": "4.4.1.5.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计"
+  },
+  {
+   "cn": "回忆偏倚",
+   "en": "recall bias",
+   "code": "4.4.1.5.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计"
+  },
+  {
+   "cn": "信息偏倚",
+   "en": "information bias",
+   "code": "4.4.1.5.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计"
+  },
+  {
+   "cn": "选择偏倚",
+   "en": "selection bias",
+   "code": "4.4.1.5.8",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计"
+  },
+  {
+   "cn": "选择性偏误",
+   "en": "selection bias",
+   "code": "1.2.5.156",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "文化偏见",
+   "en": "cultural bias",
+   "code": "2.2.3.11",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁"
+  },
+  {
+   "cn": "性别偏见",
+   "en": "gender bias",
+   "code": "3.2.1.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别概念"
+  },
+  {
+   "cn": "归因偏误",
+   "en": "attribution bias",
+   "code": "4.1.9.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_社会推断"
+  }
+ ],
+ "error": null,
  "raw": null
 }

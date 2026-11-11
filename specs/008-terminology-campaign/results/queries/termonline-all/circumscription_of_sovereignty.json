@@ -2,10 +2,347 @@
  "key": "circumscription (of sovereignty)",
  "term": "circumscription (of sovereignty)",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T14:55:58+00:00",
- "status": "error",
- "note": "variant=circumscription (of sovereignty); 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "circumscription (of sovereignty): degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T01:32:25+00:00",
+ "status": "ok",
+ "note": "variant=circumscription (of sovereignty); 审定公布名词库=10000; 海峡两岸名词对照库=7379; 其他来源数据库=1827; 预公布名词数据库=2683; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "限定理论",
+   "en": "circumscription",
+   "code": "08.0062",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_人工智能逻辑"
+  },
+  {
+   "cn": "主权",
+   "en": "sovereignty",
+   "code": "17.073",
+   "standard": "地理学名词",
+   "subject": "地理学_人文地理学"
+  },
+  {
+   "cn": "传播主权",
+   "en": "communication sovereignty",
+   "code": "11.052",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_国际传播_国际传播与媒介帝国主义批判"
+  },
+  {
+   "cn": "信息主权",
+   "en": "information sovereignty",
+   "code": "11.053",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_国际传播_国际传播与媒介帝国主义批判"
+  },
+  {
+   "cn": "网络主权",
+   "en": "cyber sovereignty",
+   "code": "12.113",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_政治传播_政治传播基础"
+  },
+  {
+   "cn": "文化主权",
+   "en": "cultural sovereignty",
+   "code": "18.04",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播政治经济研究_重要概念"
+  },
+  {
+   "cn": "消费者主权",
+   "en": "consumer sovereignty",
+   "code": "08.0171",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_市场营销_营销机会"
+  },
+  {
+   "cn": "教育主权",
+   "en": "educational sovereignty",
+   "code": "01.133",
+   "standard": "教育学名词",
+   "subject": "教育学_教育基本理论"
+  },
+  {
+   "cn": "绝对主权",
+   "en": "absolute sovereignty",
+   "code": "01.0726",
+   "standard": "世界历史名词",
+   "subject": "世界历史_综合_世界政治、世界经济"
+  },
+  {
+   "cn": "有限主权",
+   "en": "limited sovereignty",
+   "code": "01.0727",
+   "standard": "世界历史名词",
+   "subject": "世界历史_综合_世界政治、世界经济"
+  },
+  {
+   "cn": "主权权利",
+   "en": "sovereignty right",
+   "code": "12.016",
+   "standard": "水产名词",
+   "subject": "水产_渔业法规"
+  },
+  {
+   "cn": "海洋主权",
+   "en": "maritime sovereignty",
+   "code": "13.0010",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_航行管理与法规"
+  },
+  {
+   "cn": "限定推理",
+   "en": "circumscription reasoning",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "主权",
+   "en": "sovereignty",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "海洋主权",
+   "en": "maritime sovereignty",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "国家货币主权",
+   "en": "state currency sovereignty",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "领海主权",
+   "en": "sovereignty in the territorial sea",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "动量矩守恒原理",
+   "en": "principle of conservation of moment of momentum",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "国际收支调整机制",
+   "en": "mechanism of adjustment of balance of payment",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "耳轮脚沟",
+   "en": "sulcus of crus of helix\",\"groove of crus of helix",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "耳轮切迹肌",
+   "en": "muscle of notch of helix\",\"muscle of incisure of helix",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "Of型星",
+   "en": "Of star",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "定形",
+   "en": "setting of",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "股骨头韧带",
+   "en": "ligament of head of femur",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "主权区块链",
+   "en": "Sovereignty Blockchain",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "网络主权",
+   "en": "cyber sovereignty",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据主权",
+   "en": "Data Sovereignty",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "网络空间主权",
+   "en": "cyberspace sovereignty",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "信息主权",
+   "en": "information sovereignty",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "主权让渡",
+   "en": "sovereignty transfer",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "独立权",
+   "en": "right of data sovereignty",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "国家数据主权",
+   "en": "national data sovereignty",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据主权保护",
+   "en": "Data Sovereignty Protection",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数字文明三部曲（《块数据》《数权法》《主权区块链》）（〔中〕大数据战略重点实验室）",
+   "en": "The Digital Civilization Trilogy — Block Data; Data Rights Law; Sovereignty Blockchain (Key Laboratory of Big Data Strategy, China)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "七十七国集团",
+   "en": "Group of 77",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数十秒",
+   "en": "count of 10",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "国权",
+   "en": "national sovereignty",
+   "code": "04.0159",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期"
+  },
+  {
+   "cn": "澳门回归",
+   "en": "Transfer of sovereignty over Macao",
+   "code": "04.0273",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要事件_中国化的马克思主义时期"
+  },
+  {
+   "cn": "香港回归",
+   "en": "Transfer of sovereignty over Hong Kong",
+   "code": "04.0272",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要事件_中国化的马克思主义时期"
+  },
+  {
+   "cn": "多数的暴政",
+   "en": "tyranny of",
+   "code": "3.6.3.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_政治社会学_民主与选举"
+  },
+  {
+   "cn": "年欧洲革命",
+   "en": "Revolution of",
+   "code": "04.0212",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要事件_马克思恩格斯时期"
+  },
+  {
+   "cn": "未成年人保护法",
+   "en": "law of protection of minors",
+   "code": "3.16.4.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_青少年研究_青少年政策"
+  },
+  {
+   "cn": "对立统一规律",
+   "en": "law of unity of opposites",
+   "code": "01.0220",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  },
+  {
+   "cn": "生产资料国有化",
+   "en": "nationalization of means of production",
+   "code": "03.0171",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "吉尔吉斯斯坦共产党人党",
+   "en": "Party of Communists of Kyrgyzstan",
+   "code": "05.0303",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外社会主义运动_国外共产党部分"
+  },
+  {
+   "cn": "摩尔多瓦共产党人党",
+   "en": "Party of Communist of Moldova",
+   "code": "05.0306",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外社会主义运动_国外共产党部分"
+  },
+  {
+   "cn": "南斯拉夫共产主义者联盟",
+   "en": "League of Communists of Yugoslavia",
+   "code": "05.0310",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外社会主义运动_国外共产党部分"
+  },
+  {
+   "cn": "伤部构成比",
+   "en": "proportion of locations of injury",
+   "code": "15.3.2.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队卫生统计学_战时卫生统计"
+  }
+ ],
+ "error": null,
  "raw": null
 }

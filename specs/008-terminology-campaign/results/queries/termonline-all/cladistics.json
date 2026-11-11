@@ -2,10 +2,151 @@
  "key": "cladistics",
  "term": "cladistics",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T14:58:58+00:00",
- "status": "error",
- "note": "variant=cladistics; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "cladistics: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T01:32:25+00:00",
+ "status": "ok",
+ "note": "variant=cladistics; 审定公布名词库=9; 海峡两岸名词对照库=11; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "支序系统学",
+   "en": "cladistics",
+   "code": "02.0003",
+   "standard": "植物学名词",
+   "subject": "植物学_系统与进化植物学"
+  },
+  {
+   "cn": "支序系统学",
+   "en": "cladistics",
+   "code": "02.003",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物系统学"
+  },
+  {
+   "cn": "分支系统学",
+   "en": "cladistics",
+   "code": "01.0069",
+   "standard": "古生物学名词",
+   "subject": "古生物学_总论"
+  },
+  {
+   "cn": "支序系统学",
+   "en": "cladistics",
+   "code": "07.085",
+   "standard": "遗传学名词",
+   "subject": "遗传学_进化遗传学"
+  },
+  {
+   "cn": "进化枝",
+   "en": "cladistics",
+   "code": "06.085",
+   "standard": "地理学名词",
+   "subject": "地理学_生物地理学"
+  },
+  {
+   "cn": "支序分类学",
+   "en": "cladistics",
+   "code": "02.013",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫分类与进化"
+  },
+  {
+   "cn": "支序系统学",
+   "en": "cladistics;cladistic systematics",
+   "code": "2.0002",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_动物分类学"
+  },
+  {
+   "cn": "支序种",
+   "en": "cladistic species",
+   "code": "04.070",
+   "standard": "生态学名词",
+   "subject": "生态学_进化生态学"
+  },
+  {
+   "cn": "支序分析",
+   "en": "cladistic analysis",
+   "code": "02.025",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫分类与进化"
+  },
+  {
+   "cn": "进化枝",
+   "en": "cladistics",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "支序系统学,分支系统学",
+   "en": "cladistics",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "支序分类学",
+   "en": "cladistics",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "分支系统学（=支序系统学）",
+   "en": "cladistics\",\"cladistic taxonomy",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "支序分类学（=支序系统学）",
+   "en": "cladistics\",\"cladistic taxonomy",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "支序系统学，分支系统学，支序分类学",
+   "en": "cladistics\",\"cladistic taxonomy",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "分支系统学,支序系统学,支序分类学",
+   "en": "cladistic systematics\",\"cladistics",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "支序种",
+   "en": "cladistic species",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "支序种",
+   "en": "cladistic species",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "分支排列",
+   "en": "cladistic ranking",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "支序分类",
+   "en": "cladistic classification",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  }
+ ],
+ "error": null,
  "raw": null
 }
