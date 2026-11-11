@@ -1,0 +1,1028 @@
+version: 1
+slug: kant-conceptualism
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      One of the central areas of dispute in the reception of Kant’s critical philosophy concerns his distinction between the cognitive faculties of sensibility (*Sinnlichkeit*) and intellect (*Verstand*), and their characteristic representational outputs—viz. intuition (*Anschauung*) and concept (*Begriff*). Though the dispute is multi-faceted, it centers on disagreement concerning the interpretation of Kant’s conception of the contribution made by the higher cognitive faculties (or the “intellect” in the broadest sense of that term) to a subject’s sensory apprehension of the world around it. The status of Kant’s distinction has been repeatedly questioned. In the immediate reception of Kant’s critical philosophy, major works by figures such as Solomon Maimon (*Essay on Transcendental Philosophy*, 1790) and G.W.F. Hegel (*Faith and Knowledge*, 1802) criticized the coherence of construing sensibility and intellect as independent faculties. The issue has also seen significant discussion in the latter half of the twentieth-century by Anglophone philosophers such as P.F. Strawson, Wilfrid Sellars, and John McDowell. Their work takes up Kant’s distinction between intuition and concept as an important vehicle for asking and answering questions regarding the relation between thought and reality. Such questions include both the issue of how thought could be so much as *about* an objective reality (Strawson 1959: ch. 2; McDowell 1994a; Ginsborg 2006b)[^ginsborg-2006b][^mcdowell-1994a][^strawson-1959], and the issue of how sense experiences caused by a subject’s environment could have a normative, rather than merely causal, significance for the subject’s thinking (Sellars 1968; McDowell 1994b)[^mcdowell-1994b][^sellars-1968].
+    step1: TBD
+    step2: TBD
+  - id: 2
+    kind: body
+    source: |-
+      Hence, the debate over the relation between intuition and concept is of significant historical and philosophical interest for at least two reasons. First, because it promises to provide answers to central questions in Kant’s conception of experience, such as those concerning the *acquisition* of the content of thought and the *warrant* for holding such thoughts as true. Second, because it serves as proxy for a related, and perhaps even more fundamental, dispute concerning Kant’s conception of the nature of rationality and its manifestation in animal life, particularly insofar as rationality is conceived as requiring sensitivity to norms or reasons as such (McDowell 2009, 2010; Korsgaard 2011: §6)[^korsgaard-2011][^mcdowell-2009].
+    step1: TBD
+    step2: TBD
+  - id: 3
+    kind: body
+    source: |-
+      Despite, and perhaps because of, the foundational nature of the interpretive and philosophical issues involved here, a significant number of the interpretive issues regarding Kant’s view turn simply on the way in which the dispute is framed. Indeed, much of the good work in the last twenty-five years or so concerning the relation between intuition and concept has served largely to clarify the terms and fundamental points at issue between disputants. To that end, this entry surveys both the basic framing assumptions of the dispute (§§1–4) and various loci of disagreement within it (§5).
+    step1: TBD
+    step2: TBD
+  - id: 4
+    kind: body
+    source: |-
+      ## 1. Mental Faculties and Mental Representation
+    step1: TBD
+    step2: TBD
+  - id: 5
+    kind: body
+    source: |-
+      One of the goals of Kant’s critical philosophy is to articulate the conditions of the possibility of what he calls “experience” (*Erfahrung*). As we’ll see below, Kant’s use of the term is rather more technical than is typically meant in English by talk of, e.g., a subject’s “experience” of the color red. Indeed, Kant sometimes speaks of there being only a single or universal experience (A110, A493/B521), which at least strongly suggests that he is not construing experience in a purely subjective or phenomenological manner. Rather, in talking of the conditions of “experience” in this way, Kant is most obviously concerned with the conditions under which objective empirical knowledge (*Wissen*) is possible—including knowledge that Kant thinks we actually have, such as is exemplified in the sciences of mathematics and physics. Kant’s hope is that by articulating the conditions under which such knowledge is possible, he will be able to indicate how it is that metaphysics itself could become a science. He pursues this goal via an examination of those features of the mind relevant to the conditions of “experience” so construed. This amounts to an examination of the conditions for “cognition” (*Erkenntnis*), or as Kant often puts it, the mind’s “relation to an object” (B137). There is some controversy about the best way to understand Kant’s use of this phrase, but for the moment we’ll understand it as involving relation to a possible object of experience, and as being a necessary condition for the positive substantive knowledge characteristic of a proper science (i.e., a *Wissenschaft*).
+    step1: TBD
+    step2: TBD
+  - id: 6
+    kind: body
+    source: |-
+      At the most basic explanatory level, Kant conceives of the mind as constituted by two different kinds of capacity (*Fähigkeit*), or power (*Vermögen*), which he labels “receptivity” (*Receptivität*) and “spontaneity” (*Spontaneität*). Receptivity, as the name suggests, constitutes the mind’s capacity to be affected, whether by itself (i.e., one “part” or capacity of the mind affecting another) or something else (i.e., something distinct from the mind). For Kant, any exercise of the mind’s receptive power essentially requires some external prompting in order to engage in the production of representations. In contrast, the power of spontaneity needs no such prompting. It is able to initiate its activity from itself, without any external influence.
+    step1: TBD
+    step2: TBD
+  - id: 7
+    kind: body
+    source: |-
+      Kant thus construes all mental activity either in terms of its resulting from affection (receptivity) or from the mind’s self-prompted activity (spontaneity). From these two very general aspects of the mind Kant then identifies three basic cognitive faculties (*Vermögen*), termed by Kant “sensibility” (*Sinnlichkeit*), “understanding” (*Verstand*), and “reason” (*Vernunft*). These faculties characterize specific cognitive powers, none of which is reducible to any of the others, and to each of which is assigned a particular cognitive task and a specific kind of characteristic representational output. In the case of sensibility the characteristic representations are sensation (*Empfindung*) and intuition (*Anschauung*). In the case of the understanding and reason (or the ‘intellect’ more broadly), concepts (*Begriffe*), judgment (*Urteil*), and inference (*Schluß*).
+    step1: TBD
+    step2: TBD
+  - id: 8
+    kind: body
+    source: |-
+      Kant characterizes intuition in terms of two basic characteristics—viz. immediacy (*Unmittelbarkeit*) and particularity (*Einzelheit*) (cf. A19/B33, A68/B93; JL 9:91). This is in contrast to the mediacy and generality (*Allgemeinheit*) characteristic of conceptual representation (A68/B93; JL 9:91). Kant’s distinction between these two sorts of representation might at first pass be taken as a kind of phenomenological distinction between how things seem to a perceiving subject independently of thought about what is so experienced, and this is indeed how at least some interpreters have construed Kant (e.g., Prichard 1909; Russell 1913; Broad 1978; Parsons 1992b)[^broad-1978][^parsons-1992b][^prichard-1909][^russell-1913]. However, as others have noted (e.g., Paton 1936: 98)[^paton-1936], Kant’s method for distinguishing the various contributions made by our cognitive faculties proceeds not by appeal to phenomenology but rather philosophical abstraction (e.g., A20–1/B34–5). Moreover, Kant at least sometimes seems to deny that a representation (or its content) could be present to consciousness at all—i.e., be something “for” the subject—without conceptualization (e.g., A116–17, B132). Hence Kant seems concerned not so much with the phenomenology of conceptual vs. non-conceptual experience as he is with the role the sensory and the conceptual play in constituting cognition and knowledge.
+    step1: TBD
+    step2: TBD
+  - id: 9
+    kind: body
+    source: |-
+      In discursive rational beings such as ourselves, intuition and concept cooperate in the generation of what Kant calls “cognition”. Kant employs the term “cognition” (*Erkenntnis*) in different ways (Smit 2000, 2009; Schafer 2022, 2023a; Gomes and Stephenson 2016; Tolley 2020; Willaschek and Watkins 2020; Watkins and Willaschek 2017b)[^gomes-2016][^schafer-2022][^smit-2000][^tolley-2020][^watkins-2017b][^willaschek-2020]. In the ‘Stepladder’ passage from the first *Critique* Kant provides a very general definition of cognition as a conscious representation of an object (A320/B376; see also JL 9:91). In this sense both intuitions and concepts may be cognitions. Kant also has a narrower sense of cognition “in the proper sense” (A78/B103), which in finite discursive beings like us concerns only those states that are the outcome of a synthesis of concepts and an intuited manifold. Proper cognition satisfies three conditions: (i) consciousness; (ii) “agreement” (*Übereinstimmung*) or truth-aptness; (iii) real possibility. The consciousness condition is clearly stated in Kant’s “Stepladder” passage. Cognition must be a conscious relation to an object. Kant indicates the “agreement” or “conformity” (*Übereinstimmung*) of a cognition with its object in his discussion of truth in the first *Critique*. He says that the “nominal definition of truth, namely that it is the agreement of cognition with its object, is here granted and presupposed” (A58/B82). Since Kant allows for false cognition, his view must be that representations that are cognitions are such as *to be able* to agree or conform with their objects, and Kant construes such agreement as truth. Kant regards judgment (i.e., a specific sort of non-associatively structured unity of concepts) as the bearer of truth, while denying that intuition is the sort of thing that can be true or false (see Heis 2013: 277–8; McLear 2016b)[^heis-2013][^mclear-2016b]. Finally, Kant construes cognition as always needing to be of a really—i.e., metaphysically—possible subject matter. As Kant states in a famous footnote in the B-preface of the first *Critique*:
+    step1: TBD
+    step2: TBD
+  - id: 10
+    kind: body
+    source: |-
+      > To *cognize* an object, it is required that I be able to prove its possibility (whether by the testimony of experience from its actuality or *a priori* through reason). (Bxxvin.)
+    step1: TBD
+    step2: TBD
+  - id: 11
+    kind: body
+    source: |-
+      Proper cognition may be pure, as when synthesizing a manifold of pure intuition (e.g., the pure intuition of space or time) with a concept (e.g., the concept of space as discussed in the Metaphysical Exposition of Space in the Transcendental Aesthetic). Proper cognition may also be empirical, as when synthesizing an empirical intuition (e.g., of touch or vision) with a concept. Kant often describes empirical cognition as “experience” (*Erfahrung*; see, e.g., B166, A176/B218, A189/B234), though empirical intuition and concepts are also related in what Kant calls “perception” (*Wahrnehmung*).
+    step1: TBD
+    step2: TBD
+  - id: 12
+    kind: body
+    source: |-
+      Kant takes the terms “intuition” (*Anschauung*), “perception” (*Wahrnehmung*), and “experience” (*Erfahrung*) to designate different things (McLear 2014b: 771–772; Allais 2016: 2–5; Tolley 2016a: 86–91, 2019, 2020)[^allais-2016][^mclear-2014b][^tolley-2016a]. For example, in the headings to the first three chapters of the Principles of the first *Critique* Kant distinguishes between the “Axioms of Intuition,” the “Anticipations of Perception,” and the “Analogies of Experience.” If Kant weren’t thinking that the terms “intuition”, “perception”, and “experience” designated distinct mental states, then it would be difficult to understand why he ordered a central part of his architectonic around them. All three are forms of representation of objects. Insofar as each is a conscious representation of an object they are all forms of “cognition” in the broad (though not necessarily the “proper”) sense of that term. Let’s look at each representational kind in a bit more detail.
+    step1: TBD
+    step2: TBD
+  - id: 13
+    kind: body
+    source: |-
+      Intuition is a relation to an “undetermined” (*unbestimmt*) object or an “appearance” (*Erscheinung*). Kant uses this phrase to characterize the object of intuition both in the opening of the Transcendental Aesthetic (A20/B34) in the first *Critique*, and in later discussion in both the Analytic (A69/B94, B154, B163, A141/B180, B309) and the Dialectic (A310/B367, B422n, A443/B471, A718/B746)). Though interpretation of these texts is controversial, the sense in which the object of intuition is “undetermined” seems to specifically involve its lack of *conceptual* determination, either explicitly in judgment (see, e.g., A69/B94) or via a rule of “figurative” synthesis that guides the imagination (e.g., A141/B180).
+    step1: TBD
+    step2: TBD
+  - id: 14
+    kind: body
+    source: |-
+      Perception, like intuition, is also sometimes described as representation of an undetermined object (e.g., B422n). However, perception also involves a consciousness of the “manifold” or “content” (*Inhalt*; more on this notion of “content” below) of the intuition (A99, A119–20, B160, B162, B202–3; Pr 4:300). What Kant means by this is not entirely obvious. However, Kant is clear that perception necessarily requires the activity of the imagination in combining together the content of the intuition into what Kant calls an “image” (*Bild*), which yields or constitutes consciousness of the content of intuition itself (A120, B160; see Sellars 1978; Young 1988; Allison 2015: 254–264; Matherne 2015; Tolley 2019, 2020)[^allison-2015][^matherne-2015][^sellars-1978][^tolley-2019][^young-1988]. Kant also indicates that in perception the “mathematical” categories of quality and quantity are employed, though not the relational or modal categories, which are constitutive of experience only (A161–2/B201; see Allison 2015: 414–426)[^allison-2015].
+    step1: TBD
+    step2: TBD
+  - id: 15
+    kind: body
+    source: |-
+      Finally, “experience” (*Erfahrung*) involves the combination or “synthesis” of these perceptions (*Wahrnehmungen*) by the categories, particularly the categories of relation (i.e., substance, cause, community). As Kant puts it, “experience is cognition through connected perceptions (*durch verknüpfte Wahrnehmungen*)” (B161; cf. B218; Pr 4:300). Experience is thus the most cognitively demanding and sophisticated form of having a cognitive relation to an object.
+    step1: TBD
+    step2: TBD
+  - id: 16
+    kind: body
+    source: |-
+      Given these distinctions we’ll next look at how to understand the proper locus of debate concerning the intellect’s contribution to sense experience.
+    step1: TBD
+    step2: TBD
+  - id: 17
+    kind: body
+    source: |-
+      ## 2. The Locus of Debate: Experience, Perception, or Intuition?
+    step1: TBD
+    step2: TBD
+  - id: 18
+    kind: body
+    source: |-
+      When inquiring about the nature of the relationship between the intellect and sense experience it is important to keep in mind the technical sense with which Kant uses various terms, as introduced above. There are at least two reasons for doing so. First, to be as clear as we can regarding Kant’s understanding of his own theory. Second, to avoid confusion regarding the relation between Kant’s conception of such terms and our modern Anglophone tradition of use. This latter issue is especially significant since, as we’ve already seen, it is not at all clear that Kant’s conception of “experience” admits of straightforward translation into our modern notion. For example, Kant is clear that “experience,” in his sense of an “empirical cognition” (*empirische Erkenntnis*), includes conceptual synthesis, since such synthesis is what binds the various elements of an empirical cognition together such that they are non-arbitrarily connected (see, e.g., B12, B161, B201, B218, and B233). As a result, all should concede that his usage of “experience” (*Erfahrung*) and “empirical cognition” (*empirische Erkenntnis*) typically is meant in a way that assumes a cognitive contribution in the form of conceptual synthesis by the understanding (Allais 2016: 4)[^allais-2016]. Thus, and rather confusingly, if there is a debate to be had concerning Kant’s view of the conceptual or intellectual character of “experience” in its contemporary English sense of a kind of phenomenally conscious state, it may well be located at somewhere other than the level of “experience” in Kant’s technical sense (though for worries about our contemporary philosophical usage of “experience” see Byrne 2009)[^byrne-2009].
+    step1: TBD
+    step2: TBD
+  - id: 19
+    kind: body
+    source: |-
+      More controversial is the issue of whether “perception” (*Wahrnehmung*) in Kant’s technical sense constitutively involves concepts or otherwise depends on conceptual synthesis. There is at least some evidence for thinking it does. For example, Kant says in the second version of the Transcendental Deduction, that “all synthesis, through which even perception itself becomes possible, stands under the categories” (B161). It may be that Kant’s use of “perception” (*Wahrnehmung*) here is largely in line with preceding German usage (e.g., in Wolff, Baumgarten, Meier, and Tetens) to mean the becoming conscious of a sensory representation in the mind (alternatively, becoming conscious of that which is presented via such representation), rather than either the mere occurrence of such a representation, or the occurrence of a judgment concerning the representation (Tolley 2016b, 2020)[^tolley-2016b]. In this way perception, as empirical consciousness of a representation (or what is presented through it; B207) is intermediate between the mere occurrence of an intuition in a subject’s mind and experience or empirical cognition, which Kant describes as involving judgment. Kant’s claim concerning perception in the Deduction could then be read as a claim concerning how categorial synthesis is necessary for empirical consciousness (perception) of the objects that are given to the mind in intuition, prior to making any judgment (in experience) concerning those objects.
+    step1: TBD
+    step2: TBD
+  - id: 20
+    kind: body
+    source: |-
+      However, Kant’s position concerning perception, understood in terms of conscious sensory representation, is complicated by various remarks he makes concerning non-human animal (hereafter “animal”) consciousness. For example, in various descriptions of the “ladder” of cognition in the logic lectures, Kant allows that animals have representations with consciousness and consciously discriminate between objects on that basis. Moreover, Kant allows for such representational capacities in animals even though, lacking an intellect, animals thereby fail to have any capacity for cognition (at least in its narrow sense), understanding, or comprehension (*Jäsche Logik* 9:64–5; see also *Dohna-Wundlacken Logik* (c. 1792) 24:730–1; *Wiener Logik* (1780) 24:846; *Blomberg Logik* (c. 1771) 24:132–3, 134–5, 136). Kant also says of animals that they may be conscious of individual representations, while lacking any consciousness of the “unity” of those representations (letter to Herz, 26 May 1789, C 11:52). Such texts suggest that animals are conscious of their representations but lack any *self*-consciousness with respect to those representations (Paton 1936: 332–5; Naragon 1990; Ameriks 2000: ch. 7; Allais 2009; McLear 2011; Tolley 2016a; Golob 2020)[^allais-2009][^ameriks-2000][^golob-2020][^mclear-2011][^naragon-1990][^paton-1936][^tolley-2016a]. Moreover, Kant’s description of consciousness as necessary for making distinctions, and as coming in degrees (B414–15), also suggests that animals must be conscious of their representations to a degree sufficient for explaining how they make the distinctions between objects in their environment that they obviously do. However, interpreting these texts, and the significance of Kant’s remarks on animals, remains contested (Kemp Smith 1918 [2003: lii–liv]; Grüne 2014b: §2; Fisher 2017; Land 2018; Leland 2018a,b;; Callanan 2020)[^callanan-2020][^callanan-2020-2][^fisher-2017][^grüne-2014b][^kemp-1918][^land-2018][^leland-2018a]. Thus it remains contested as to whether perception, in Kant’s sense, is possible without intellectual capacities involving conceptual representation.
+    step1: TBD
+    step2: TBD
+  - id: 21
+    kind: body
+    source: |-
+      If there is some question whether perception is possible without an intellect and conceptual capacities, the issue is even more fraught with respect to intuition, and this is indeed where much of the contemporary discussion has focused (e.g., Sellars 1968: ch. 1; McDowell 1996; Hanna 2001: ch. 4; Hanna 2005; Ginsborg 2008; Allais 2009; Grüne 2009; Friedman 2012; Tolley 2013; McLear 2015)[^allais-2009][^friedman-2012][^ginsborg-2008][^grüne-2009][^hanna-2001][^hanna-2005][^mcdowell-1996][^mclear-2015][^sellars-1968][^tolley-2013]. Moreover, since intuition is the most basic object-related representation, if Kant construes intuition as inextricably linked with conceptual representation then he would clearly also be committed to thinking so of perception and experience. Conversely, however, if Kant denies any intrinsic connection between intuition and conceptualization he is nevertheless free to argue that conceptual capacities play an important role at the level of perception or experience.
+    step1: TBD
+    step2: TBD
+  - id: 22
+    kind: body
+    source: |-
+      In what follows this entry assumes that intuition and its faculty of sensibility is the relevant locus of debate. It also assumes that Kant’s notion of intuition has some correlation with our contemporary conception of what is described by the English term “experience”, though this entry will largely leave the nature of that connection open in what follows. Given this locus of discussion, the next section examines two frameworks within which to think about the dependence of intuition on conceptualization.
+    step1: TBD
+    step2: TBD
+  - id: 23
+    kind: body
+    source: |-
+      ## 3. Frame I: Conceptual Content
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      The reception of Kant’s philosophy in the latter half of the twentieth century (e.g., Sellars 1968; McDowell 1996; Hanna 2005; Ginsborg 2006b; Haag 2007; Allais 2009)[^allais-2009][^ginsborg-2006b][^haag-2007][^hanna-2005][^mcdowell-1996][^sellars-1968] typically presents him as either accepting or rejecting the view that experience has “conceptual content.” One way to frame this dispute is in terms of the acceptance or rejection of the following statement of ‘Conceptualism’:
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      **Conceptualism:** The ‘content’ (*Inhalt*) of an intuition is conceptual, and constitutes its cognitive relation to a (putatively) mind-independent object
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      Conceptualist readings of Kant thus claim that there is a relevant sense in which (i) intuitions have content; (ii) the content of the intuition is conceptual; (iii) it is this conceptual content that constitutes or determines the cognitive relation of the intuition (as a mental state) to a mind-independent object (or in the case of inner sense, to the object that is oneself). According to the contrasting position, ‘Nonconceptualism’:
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      **Nonconceptualism:** The ‘content’ of an intuition is at least partly nonconceptual, and is sufficient to constitute a cognitive relation to a (putatively) mind-independent object
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      One caveat worth noting: the qualification concerning “putatively” mind-independent objects is meant to allow for hallucination and illusion (see Allais 2010, 2011a; Roche 2011; Stephenson 2015, 2017; Grüne 2017a; McLear 2017)[^allais-2010][^grüne-2017a][^mclear-2017][^roche-2011][^stephenson-2015]. This qualification also provides leeway concerning exactly what is meant by “mind-independent”, especially since Kant’s articulation of Transcendental Idealism entails that finite beings intuit (in some sense) mind-dependent appearances and not (in some sense) mind-independent things as they are in themselves (Allais 2015; see also the entry on Kant’s transcendental idealism)[^allais-2015].
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      One might argue that Kant articulates an endorsement of Conceptualism in §17 of B-Deduction of the first *Critique*, where he says that
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      > The understanding is, to speak generally, the faculty of cognitions. This consists in the determinate relation of given representations to an object. But an object is that in the concept of which the manifold of a given intuition is united. Now, all unification of representations requires the unity of consciousness in the synthesis of the same [i.e., the representations]. It follows that the unity of consciousness alone establishes [*ausmacht*] the relation of representations to an object, their objective validity, and thus their becoming cognitions. (B137; cf. A197/B242–3)
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      The language used here has seemed to many to indicate that the unity of consciousness achieved via categorial synthesis is necessary for any cognitive relation to an object (e.g., Bird 1962: 130–131; Guyer 1987: 11–24; Pereboom 2006: 160; Pereboom 2009; cf. Land 2012)[^bird-1962][^guyer-1987][^land-2012][^pereboom-2006][^pereboom-2009]. Put another way, intuitions must have conceptual content if they are to have cognitive relation to an object.
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      While there may be a variety of reasons for reading Kant as endorsing Conceptualism, so understood, two stand out. The first is philosophically motivated by the position that sense experience can play a rational or justificatory role with respect to belief or judgment only if such experience possesses conceptual content (see §5.1 for discussion). Second, many think that the only plausible way of interpreting Kant’s argument in the Transcendental Deduction of the *Critique of Pure Reason* requires that he endorse Conceptualism (see §5.5 for discussion).
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      Hence, interpreters endorsing some form or another of ‘Nonconceptualism’ typically take a contrasting stance regarding Kant’s position concerning either the justificatory relationship between sense experience and belief or judgment, or the proper interpretation of his argument in the Deduction.
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      However, the framing of the dispute between Conceptualism and Nonconceptualism as one concerning conceptual content faces straightforward interpretive challenges, independently of where one stands as to the justificatory role of experience or the best way to interpret the argument of the Deduction. These challenges concern each element of the Conceptualist thesis. First (§3.1), it seems that when close attention is paid to Kant’s notion of ‘content’ (*Inhalt*) it cannot be the case that intuitions have conceptual content. Second (§3.2), Kant’s conception of concepts as always employed in judgment appears incompatible with the claim that concepts provide intuition with cognitive relation to an object. Third (§3.3), attempts to avoid these challenges by attributing a conception of ‘content’ to Kant in line with our contemporary notion of *representational* content do not obviously cohere with his view of the contribution of intuition to cognition. The next three subsections detail these challenges. Again, it is important to note that though these challenges are often raised by advocates of some form or another of Nonconceptualism, the challenges themselves are independent of any specific answer concerning, first, whether and how intuition justifies judgment, and second, how Kant proceeds in the argument of the Deduction. After discussing these three challenges to the conceptual content frame regarding its plausibility as an interpretation of Kant (this entry shall largely prescind from discussing Conceptualism’s independent philosophical plausibility), §4 then examines an alternative way of framing the debate that does not raise these concerns.
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      ### 3.1 Relation to An Object
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      One straightforward challenge to the Conceptualism thesis comes from close examination of Kant’s conception of ‘content’ (*Inhalt*), which he understands in terms of the relation of a representation to an object (Tolley 2011, 2013)[^tolley-2011]. As we have seen in B137 above, Kant often construes the content of cognition in terms of a relation to an object (see also B79, B83, B87), and he also says of sensory intuition that it
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      > contain[s] [*enthalten*] in its representation only the relation [*Verhältniß*] of an object to the subject, and not that which is internal to the object in itself. (B67)
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      Moreover, Kant describes intuition and concept as having opposing kinds of relation to the object they represent. Intuitions are immediately related to their objects while concepts are only mediately so related (B93; see also B33, B41, A109, B3767; Prolegomena, §8 (4: 281); What Real Progress, 20: 266). This gives us the material for the following argument.
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      1. The content of a cognition (whether intuition or concept) consists in—i.e., is nothing but—a relation to an object
+      2. Concepts and intuitions relate to objects in different ways—viz. mediately and immediately
+      3. ∴ The content of intuition is different from the content of concepts
+      4. Representations are individuated as to type—i.e., intuition or concept—at least partly in virtue of their content
+      5. ∴ Intuitions cannot have conceptual content
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      This argument, if sound, shows that intuition cannot be related to an object (and thus have ‘content’) by virtue of a *conceptual* content. Thus, one initial worry about Conceptualism is that its framing of its position in terms of ‘content’ does not obviously cohere with how Kant thinks of content. However, the above argument fails to show that concepts (or conceptual synthesis, or the capacity for concept employment) do not play any *other* role in the constitution of an intuition’s relation to an object—perhaps concepts are not the contents of intuitions but are nevertheless necessary for an intuition’s having a relation to an object. Let’s turn then to discussion of how conceptual synthesis could constitute this relation.
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      ### 3.2 Concepts and Conceptual Synthesis
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      According to Conceptualism, the cognitive relation of an intuition to an object is, in some sense, conceptual. A version of this claim is seemingly articulated by Kant at B137, quoted above, in which it is a synthesis by concepts that constitutes what Kant calls a “determinate relation” (*bestimmten Beziehung*) to an object. After first discussing what Kant means by “synthesis” here we’ll go on to address the prospects and problems facing an account of intuition as dependent on conceptual synthesis.
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      Kant distinguishes between two basic classes of mental processing. The first is association, which is carried out by sensibility, and specifically the imagination (inclusive of memory). Association is primarily a passive process by which the mind comes to connect representations due to the repeated exposure of the subject to certain kinds of regularities. One might (e.g.) associate chicken soup with being ill, because one only ever had chicken soup when one was ill. Association is thus capable of engendering content-sensitive connections between a subject’s mental states, though such connections depend entirely on the local and contingent circumstances in which the subject comes to have such states. This is part of why Kant denies that association could ever account for our ability to represent universality or necessity.
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      The second kind of mental processing is “combination” (*Verbindung*) or “synthesis”, carried out by the intellect broadly conceived (i.e., the “higher” cognitive faculties of understanding, judgment, and reason). Kant characterizes synthesis as that activity by which the understanding “runs through” and “gathers together” representations given to it by sensibility in order to form concepts, judgments, and ultimately, for any cognition (in its “proper” sense) at all to take place (A77–8/B102–3). Synthesis is not something we are always, or even typically, aware of doing. As Kant says, it is “a blind though indispensable function of the soul…of which we are only seldom even conscious (A78/B103).” Kant typically contrasts synthesis with other ways in which representations might be related, most importantly, by association (e.g., B139–40). In contrast with association, synthesis is a fundamentally active process, dependent upon the mind’s spontaneity, and is the means by which genuine judgment is possible. Moreover, at least by the time of Kant’s writing of the B-Deduction of the first *Critique*, he is clear that judgments, as outcomes of synthesis, are unique in our mental economy in that they are complex representations that possess the capacity to be true or false. As Kant’s discussion in §19 of the B-Deduction shows, a judgment isn’t simply a “representation of a relation between two concepts” (B140), which doesn’t rule out mere association between concepts, but is rather a representation of an objectively valid relationship in virtue of which the judgment may be seen as an objective claim to truth (B142).
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      Synthesis is carried out by the unitary subject of representation on representations that are either given to it in sensibility (i.e., intuition and/or sensation) or produced by it via the intellect (e.g., in an act of judgment). When synthesis is carried out on representations forming the content of a concept or judgment, it is called “intellectual” synthesis; when carried out by the imagination on material provided by sensibility (i.e., on intuition and sensation), it is called “figurative” synthesis (B150–1). In the *Critique of Pure Reason* Kant discusses in some depth the synthesis performed on representations provided by sensibility, and discusses three central kinds of synthesis—viz. apprehension, reproduction (or imagination), and recognition (or conceptualization) (A98–110/B159–61). Though Kant discusses these forms of synthesis in a way that suggests they are discrete types of mental acts, it is also plausible that they always go together (Paton 1936: 271–272; Kemp Smith 1918 [2003: 245–246])[^kemp-1918][^paton-1936], or at least that the first two forms must always occur together, with the third being (perhaps) an optional addition (Brook 1997; Allais 2009)[^allais-2009][^brook-1997].
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      Given that Kant distinguishes between intellectual and figurative synthesis, what does it then mean to claim that an intuition constitutively depends on conceptual synthesis for its relation to an object?
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      Kant describes a concept as a “function” (*Funktion*), which he characterizes as “the unity of the act through which different representations are ordered under a common one” (A68/B93). Concepts are merely “predicates of possible judgments” (A69/B94) “grounded on the spontaneity of thinking” and the faculty of understanding “can make no other use of these concepts than that of judging by means of them” (A68/B93).
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      From these passages we can conclude that concepts are (i) actualizations of the spontaneity of (the power of) thought through which (ii) different representations are ordered under a common one. This ordering is carried out specifically by means of (iii) a judgment. Hence, an act of conceptualization is an act of subordinating one representation “under” another, as a species (or the members thereof) is to its genus (or the members thereof), and it is this subordination relation that is captured in the cognitive activity of judging (Paton 1936: 285; Strawson 1966: 94; Pippin 1982: 33; Longuenesse 1998: ch. 4; Engstrom 2019: 245–252)[^engstrom-2019][^longuenesse-1998][^paton-1936][^pippin-1982][^strawson-1966].
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      How, on this view of conceptual activity in judgment, is the conceptualization of sensory material in intuition supposed to work? According to one prominent interpretation—call this ‘judgmentalism’ (Land 2015b)[^land-2015b]—intuition requires a judgment on the part of the subject, that things are experientially thus-and-so (Strawson 1970; Carl 1992: 165)[^carl-1992][^strawson-1970]. However, this interpretation of Kant generates some straightforward problems (Grüne 2009: §2.2; Land 2015b)[^grüne-2009][^land-2015b]. First, Kant’s conception of judgment seems to require predication (and in this sense concepts are predicates of possible judgments). However, a sensible synthesis carried out by concepts does not seem equivalent to the making of a judgment, rather it seems that Kant has in mind something like the formation of a sensory image (e.g., B154, B162). Indeed, in a 1791 letter Kant explicitly denies that intuitions are related to objects via an act of judgment or, relatedly, by the subsumption of the intuition under a concept (C 11:311). Second, Kant emphasizes that there are two distinctively different kinds of synthesis—viz. the “intellectual” synthesis generative of conceptual judgment, and the “figurative” synthesis generative of experience (in Kant’s sense of “experience”; see B151). If the judgmentalist view were correct, then it is difficult to see how Kant could maintain such a distinction between varieties of synthesis. Third, there is at least a *prima facie* circularity to the judgmentalist account, which construes conceptual judgment as a necessary condition of the generation of intuition, and Kant’s account of concept formation, which construes all concepts (even the a priori categories) as the result of reflection, which itself presupposes sensory intuition (Ginsborg 2006b; Grüne 2009; Anderson 2015: ch. 13)[^anderson-2015][^ginsborg-2006b][^grüne-2009].
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      Such problems have lead some (e.g., Sellars 1968; McDowell 1996; Longuenesse 1998; Haag 2007; Grüne 2009)[^grüne-2009][^haag-2007][^longuenesse-1998][^mcdowell-1996][^sellars-1968] to argue that the dependence of intuition on conceptual representation must be understood in a way other than that of application of a concept in judgment (or the subordination of an intuition under a concept). This entry examines below one way such an alternative view might proceed (and challenges it faces) before discussing further extensions of it in the context of the second way of framing the debate about the relation between intuition and concept.
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      ### 3.3 Concepts and Correctness Conditions
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      Conceptualism states that concepts or conceptual synthesis determine the cognitive relation an intuition has to its object. How should we understand this notion of a ‘cognitive relation’ to the object? Conceptualism typically understands this in terms of the correctness conditions possessed by the intuition and in virtue of which the intuition represents a (putatively) mind-independent object and its properties (Sellars 1968: ch. 1; McDowell 1996; Ginsborg 2008)[^ginsborg-2008][^mcdowell-1996][^sellars-1968]. This constitutes the attribution to Kant, in more or less explicit terms, of what is now called the ‘Content View’, which, in contemporary terms, understands perceptual experience to present or convey information about a subject’s environment to the subject of that experience in virtue of the experience’s having content (Siegel 2010: §1; 2011: ch. 2). Thus, according to the Content View, part of what it is for a mental state to count as an *objective* experience is that it can be evaluated for its correctness, and the conditions of its correctness are determined by its content.
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      It is important that the content attributed to a sensory state by the Content View requires more than the state’s merely being non-arbitrarily *associated* with a representational content. For one might plausibly agree that there are non-arbitrary conditions for associating experiences with particular correctness conditions, without thereby thinking that experience is something that is had in virtue of a relation to a content that sets such a correctness condition. It is this ‘in virtue of’ claim that I take to be the distinctive claim of the Content View.
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      What does it mean to say that a sensory experience has ‘content’ in the sense relevant to the Content View? Contemporary philosophy typically construes the phrase “mental content” as referring to that thing which fulfills a certain set of functional roles—namely, it is that which (i) may be the object of different cognitive states within the same subject (e.g., of belief and desire), (ii) which may be the object of the same (or a different) cognitive state in other subjects (e.g., that you and I might be able to believe the same thing and thus communicate), and (iii) which has veridicality conditions (e.g., that which you and I both believe is true or both perceive correctly) (see, e.g., Frege 1956; McGinn 1982; Searle 1983; Fodor 1987; Peacocke 1992; McDowell 1996; Heck 2000, 2007; Byrne 2005; McGrath 2005 [2014]; Hanks 2009; Chalmers 2011)[^byrne-2005][^chalmers-2011][^fodor-1987][^frege-1956][^hanks-2009][^heck-2000][^mcdowell-1996][^mcginn-1982][^mcgrath-2005][^peacocke-1992][^searle-1983].
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      Typically, when contemporary philosophers ask about the content of a mental state, they are asking about something which is supposed to fulfil these three roles. The traditional satisfier for this functional specification is an abstract entity—a proposition. According to this propositionalist view such a proposition can be the object of different attitudes –– e.g., I might both see *that there is snow on Mt Washington* and (thereby) believe *that there is snow on Mt Washington*. Moreover, I may see *that there is snow on Mt Washington*, and the contents of my visual experiences may well be accurate. In any case, whether the satisfier of these functional roles for mental content is a proposition or something else, it must be the kind of thing to which a mental state can be related, and in virtue of which a sensory state counts as an experience of something (typically, something in the experiencer’s environment).
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      Sticking with the propositional notion of content, for simplicity, we can also note the different kinds of “vehicles” through which that content can be conveyed. For example a particular token sentence “There is snow on Mt. Washington” conveys the content *there is snow on Mt. Washington*. But there may be other vehicles for such content as well, including mental vehicles, such as the act of judging that *there is snow on Mt. Washington*, or the event of seeing that *there is snow on Mt. Washington*. For the purposes of our toy example, all of these different vehicles convey the same abstract propositional content, which sets the correctness conditions for each instance.
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      Hence, in asking whether it is correct to understand Kant as endorsing the Content View, we first need to know whether it is even coherent to ascribe to him a notion of “content”, conceptual or not (and irrespective of whether he would use the corresponding German word “*Inhalt*” for this notion), in the terms set out above.
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      It seems highly plausible that Kant did accept the existence of content as it is functionally specified above. This is his notion of a “judgment” (*Urteil*). The vehicles for judgment are mental states—“representations” (*Vorstellungen*). Judgments (or equivalently for Kant, thoughts) are the product of “relating” representations, in the act of judging, in one consciousness (Prol §22, 4:304; cf. JL §17, 9:101; V-Lo/Wiener, 24:928)
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      In addition to serving as the content of psychological vehicles (i.e., mental states) and the bearers of truth, Kant also considers judgements to be the objects of different epistemic attitudes. For example, he distinguishes between varieties of “holding-for-true” or “assent” (*Fürwahrhalten*) in the Canon of Pure Reason at the end of the First *Critique* (A820/B848; see Stevenson 2003; Chignell 2007b; Pasternack 2014)[^chignell-2007b][^pasternack-2014][^stevenson-2003].
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      Hence, Kant seems to acknowledge the existence of content in the relevant sense. There is something—judgement—that is carried or expressed by psychological states, which can be the object of different epistemic attitudes, and which is the bearer of truth and falsity. Furthermore, since judgements are constituted by concepts, Kant obviously accepts that at least some mental states—i.e., acts of judging—have conceptual content.
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      The next question is whether Kant allows that any other mental state is *also* a bearer of conceptual ‘content’ in the relevant sense. Plausibly, Kant’s conception of ‘*experience*’ (*Erfahrung*), insofar as this is a mental state, possesses conceptual content in some sense. Since Kant often characterizes experience as a complex state consisting of both intuition and judgment, it may be that experience possesses conceptual content simply in virtue of being partly constituted by a conceptual judgment. It is somewhat less clear, given the discussion above, whether there is conceptual content in what Kant calls “perception” (*Wahrnehmung*). But since intuition is the primary locus of the contemporary debate, our question here is whether the Content View is true of intuition.
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: body
+    source: |-
+      Some advocates of Conceptualism (e.g., McDowell 1996, 1998; Ginsborg 2006b; Grüne 2009: 53–71)[^ginsborg-2006b][^grüne-2009][^mcdowell-1996] think that it is at least partially constitutive of intuition that it have correctness conditions. However, this view is also shared by nonconceptualist interpreters (e.g., Hanna 2005)[^hanna-2005]. In this way, both Conceptualism and Nonconceptualism typically agree that an intuition’s cognitive relation to an object depends on correctness conditions constituting its ‘content’ (in the contemporary sense), but disagree as to whether that content is conceptual.But, if Kant rejects the Content View, and so rejects the claim that it is in virtue of having content that intuition counts as related to an object, a central means for framing the dispute between Conceptualism and Nonconceptualism’s understanding of intuition is undermined.
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: body
+    source: |-
+      Why think that Kant rejects the Content View? McLear (2016b) provides three arguments against the applicability of the Content View to Kant’s conception of intuition:
+    step1: TBD
+    step2: TBD
+  - id: 64
+    kind: body
+    source: |-
+      1. Kant denies that illusion/hallucination is to be explained by appeal to veridicality conditions of intuitive representation.
+      2. Kant holds that a state’s possession of correctness conditions requires combination, which can only occur via acts of the understanding.
+      3. Kant’s “modal condition” on cognition requires that sense experience contribute something over and above a correctness condition to the “proof” of the real possibility of a represented object.
+    step1: TBD
+    step2: TBD
+  - id: 65
+    kind: body
+    source: |-
+      According to the first argument, Kant denies that error due to hallucination or illusion may be traced to misrepresentation by intuition. As Kant says,
+    step1: TBD
+    step2: TBD
+  - id: 66
+    kind: body
+    source: |-
+      > truth and illusion are not in the object in so far as it is intuited, but are in the judgment made about the object in so far as it is thought. (A293–4/B350)
+    step1: TBD
+    step2: TBD
+  - id: 67
+    kind: body
+    source: |-
+      This would be a surprising thing to say if Kant endorsed the Content View, for one of the central reasons for endorsing the Content View stems from the straightforward manner in which misleading experience (i.e., illusion and hallucination) is explained by erroneous representational content in the experience.
+    step1: TBD
+    step2: TBD
+  - id: 68
+    kind: body
+    source: |-
+      The second argument points out the connection Kant draws between possession of a correctness condition and combination or synthesis. As Kant says at the beginning of the B-edition of the Transcendental Deduction,
+    step1: TBD
+    step2: TBD
+  - id: 69
+    kind: body
+    source: |-
+      > a manifold’s combination as such can never come to us through the senses; nor, therefore, can it already be part of what is contained in the pure form of sensible intuition. (B129–30)
+    step1: TBD
+    step2: TBD
+  - id: 70
+    kind: body
+    source: |-
+      Hence, correctness conditions must depend on the intellect, and cannot be given as part of sensible intuition. If the first argument gives us reason to doubt that intuition can have ‘content’ in the sense required by the Content View, the second argument explains why—viz. only intellectual representations can have ‘content’ in the relevant sense.
+    step1: TBD
+    step2: TBD
+  - id: 71
+    kind: body
+    source: |-
+      Finally, the third argument presses the claim that the cognitive contribution of intuition lies not in the possession of correctness conditions concerning some perceived object, but rather in the contribution the intuition makes to proving the real possibility of the object, as is required for cognition (Bxxvi). Intuition, in relating a cognizer to an actual being, provides the ground necessary to prove its real possibility as an object of thought, and thereby provides the ground necessary for its cognition (more on this point in §5.8 below).
+    step1: TBD
+    step2: TBD
+  - id: 72
+    kind: body
+    source: |-
+      Gomes (2017a) raises further considerations against the applicability of the Content View to intuition—viz. that (i) representational content is inherently general in a way that is in marked tension with Kant’s characterization of intuition as the way in which the mind represents particulars (A19/B33; A68/B93; A320/B376–7; JL 9:91); (ii) proper consideration of Kant’s argument in the Fourth Paralogism and Refutation of Idealism militates against the Content View.
+    step1: TBD
+    step2: TBD
+  - id: 73
+    kind: body
+    source: |-
+      In Gomes’ first argument, he appeals to a conception of representational content as “specificational” and thus as requiring
+    step1: TBD
+    step2: TBD
+  - id: 74
+    kind: body
+    source: |-
+      > a selection from amongst the ways the world could be in order to fix the way which determines the truth conditions for the representational state. (Gomes 2017a: 545; see also McLear 2016b: 129–130)[^gomes-2017a][^mclear-2016b]
+    step1: TBD
+    step2: TBD
+  - id: 75
+    kind: body
+    source: |-
+      The particularity of intuition seems to be such that it singularly and immediately relates us to particular objects without adverting to general marks common to all such objects, and which are constitutive of conceptual representation (A19/B33).
+    step1: TBD
+    step2: TBD
+  - id: 76
+    kind: body
+    source: |-
+      In Gomes’ second argument, he points out that Kant rejects any interpretation of the relation of intuition to its object solely in terms of the intuition as the causal result of the inferred object’s effect on the subject’s senses. Kant instead claims that in perceptual experience I have “an immediate consciousness of the existence of other things outside me” (B276). Gomes elucidates how this point has been picked up and developed in contemporary literature on the nature of perceptual experience (Gomes 2017a: 549; see also Child 1994: 147–149; Campbell 2002: 132–133)[^campbell-2002][^child-1994][^gomes-2017a].
+    step1: TBD
+    step2: TBD
+  - id: 77
+    kind: body
+    source: |-
+      If McLear and Gomes are correct much of the contemporary debate concerning Kant’s conception of the content of intuition has presupposed a notion of “content” that Kant rejects. Recall that Conceptualist readings of Kant claim that there is a relevant sense in which (i) intuitions have content; (ii) the content of the intuition is conceptual; (iii) it is this conceptual content that constitutes or determines the cognitive relation of the intuition (as a mental state or act) to a mind-independent object (or in the case of inner sense, to the object that is oneself). It was seen above that (ii) is problematic because intuition plausibly lacks conceptual content in Kant’s sense of the term “content” (*Inhalt*). With regard to (iii) the standard conception of an intuition’s cognitive relation to an object as requiring judgment is also problematic. This might seem to indicate that Conceptualism is false and Nonconceptualism true. However, if Kant also rejects (i), and so the idea that intuitions have content in the sense required by the Content View, then even *Non*conceptualist readings of Kant that construe Kant’s nonconceptualism in terms of an intuition’s having a nonconceptual representational content (e.g., Hanna 2005)[^hanna-2005] are going to be problematic, because that content is still understood in terms of a version of the rejected Content View.
+    step1: TBD
+    step2: TBD
+  - id: 78
+    kind: body
+    source: |-
+      If these points are all correct then there is a danger that the dispute between Conceptualism and Nonconceptualism has simply failed to connect with Kant’s views. The next section examines an alternative frame from that of the content-centric one. This alternative frames the dispute in terms of the presence or absence of particular kinds of cognitive abilities and the dependence relations that may or may not hold between such abilities and the occurrence or generation of intuition. An advantage of this frame is that it avoids the challenges raised above to the claims constituting the first frame.
+    step1: TBD
+    step2: TBD
+  - id: 79
+    kind: body
+    source: |-
+      ## 4. Frame II: Dependence on the Intellect
+    step1: TBD
+    step2: TBD
+  - id: 80
+    kind: body
+    source: |-
+      The alternative frame for understanding the relation between intuition (and ultimately perception and experience as well) and concept eschews any focus on representational content per se. Instead, it frames the debate in terms of various cognitive abilities a subject might possesses and the way in which intuition is or is not dependent upon such abilities either for its generation or for the kind of structure it possesses.
+    step1: TBD
+    step2: TBD
+  - id: 81
+    kind: body
+    source: |-
+      ### 4.1 Intellectualism & Sensibilism
+    step1: TBD
+    step2: TBD
+  - id: 82
+    kind: body
+    source: |-
+      The alternative frame distinguishes two broad camps, each of which construes these dependence conditions differently (see McLear 2015, 2016a; Gomes 2017a)[^gomes-2017a][^mclear-2015]. On the one side is “Intellectualism” (see, e.g., McDowell 1996; Longuenesse 1998; Grüne 2009; Friedman 2015; Conant 2016; Indregard 2021)[^conant-2016][^friedman-2015][^grüne-2009][^indregard-2021][^longuenesse-1998][^mcdowell-1996] and on the other is “Nonintellectualism” or “Sensibilism” (Rohs 2001; Hanna 2005; McLear 2015; Allais 2015: 148ff, 2017a; Tolley 2019)[^allais-2015][^hanna-2005][^mclear-2015][^rohs-2001][^tolley-2019].
+    step1: TBD
+    step2: TBD
+  - id: 83
+    kind: body
+    source: |-
+      **Intellectualism:** the generation of intuition is at least partly dependent on the intellect.
+    step1: TBD
+    step2: TBD
+  - id: 84
+    kind: body
+    source: |-
+      **Sensibilism:** at least some intuitions are generated independently of the intellect itself
+    step1: TBD
+    step2: TBD
+  - id: 85
+    kind: body
+    source: |-
+      According to Sensibilism at least some objective sensory states, including the “pure” representations of space and time, possess structure which is not the product of the activity of the “intellect” so construed, and so do not depend for their structure or unity on the pure apperceptive power or downstream manifestations of that power in conceptualization, judgment, or inference.
+    step1: TBD
+    step2: TBD
+  - id: 86
+    kind: body
+    source: |-
+      Here, as above, “intellect” is understood as the generic term for the “higher” cognitive faculties which include understanding, judgment, and reason. Kant often characterizes these faculties as “spontaneous” or essentially “active”, in contrast to the “receptive” or essentially “passive” character of sensibility (e.g., A50–1/B74–5). How exactly these distinctions should be understood is controversial. Part of the problem comes in determining how to construe activity of the mind that is not overtly “conceptual”, in the sense that it does not consist in application of concepts in judgment, but nevertheless still involves a rule-governed synthesis, or is otherwise dependent on a spontaneous power for combining representations that is not present in sensibility (B129–30). There does not yet seem to be a settled consensus on this point.
+    step1: TBD
+    step2: TBD
+  - id: 87
+    kind: body
+    source: |-
+      However, one potential means of explaining what “dependence on the intellect” comes to is dependence on the power of (pure) apperception. Kant consistently characterizes the power of apperception and the unity it brings about as the “original” or unconditioned condition of all employment of concepts, including the categories (B131, B133–4n, A401–2). Indeed, Kant explicitly states that “the possibility of the logical form of all cognition necessarily rests on the relationship to this apperception as a faculty” (A117n) and that even the “possibility of the understanding itself” rests on the pure unity of consciousness made possible by the power of apperception (B137; see also *Metaphysik Mrongovius* 29:889 (1782–1783)).
+    step1: TBD
+    step2: TBD
+  - id: 88
+    kind: body
+    source: |-
+      Kant does occasionally say that the actualization of the apperceptive power, in the synthetic unity of understanding, depends on the use of the categories (e.g., B145–6). This might make Kant’s account seem circular, with the understanding depending on apperception which in turn depends on the understanding, as the faculty of synthesis. But Kant can hold that while the power or faculty of pure apperception is distinct from any of its actualizations, when it is so actualized it entails a synthetic combination via the categories (B143, B144). Thus the fact that apperception does not occur without the categorial synthesis doesn’t mean that apperception is grounded in such synthesis. This way Kant can both say that the understanding is made possible by the power of apperception, and that apperception (as actualized unity) depends on—in the sense that it cannot actualize without—conceptual/categorial synthesis.
+    step1: TBD
+    step2: TBD
+  - id: 89
+    kind: body
+    source: |-
+      This dependence of the understanding (and hence the logical form of all cognition) on the power of apperception contrasts with the receptive faculty of sensibility, whose activities, at least in their generic conception, are not defined as depending on the existence of an apperceptive power capable of bringing about such a unity of consciousness. Thus to say that the generation of intuition is at least partially dependent on the intellect is, on the current proposal, to say one of two things. Either, that the intuition depends on the exercise of the power or capacity for apperception itself, or that intuition depends on the exercise of one or more capacities whose possibility rests on the pure power of apperception. This allows for significant flexibility in the way in which the Intellectualist might express their position, while still providing unity to the overall approach.
+    step1: TBD
+    step2: TBD
+  - id: 90
+    kind: body
+    source: |-
+      According to this framing, Sensibilism and Intellectualism can agree that sensing and thinking involve distinct (and distinctive) cognitive abilities. In this regard, Sensibilism is not to be confused with a crude empiricism. Moreover, both Sensibilism and Intellectualism explain the generation and structure of representations or mental states at least partly in terms of the relevant cognitive capacity or faculty. The key difference is that Intellectualism construes the structure and generation of intuitive representations as dependent not only on sensibility but also on some intellectual capacity. For the Intellectualist, the only representations which do not admit of this dependence are the simple sensations that are the supposed initial product of sensibility (e.g., the sensations of “sheer receptivity” in Sellars 1968: ch. 1)[^sellars-1968].
+    step1: TBD
+    step2: TBD
+  - id: 91
+    kind: body
+    source: |-
+      ### 4.2 Benefits of Reframing the Debate in Terms of Intellectual Dependence
+    step1: TBD
+    step2: TBD
+  - id: 92
+    kind: body
+    source: |-
+      Proponents of the second frame have argued that there are a variety of benefits of recasting the concept-intuition debate in this way. First, it avoids requiring any attribution to Kant of the controversial assumption that intuition essentially has a correctness condition that could be the object of epistemic attitudes. Of course, a proponent of Intellectualism might argue to the conclusion that intuitions essentially have correctness conditions as a result of their generation by acts of synthesis. But such a position would be an outcome of the Intellectualist’s argument, rather than as an assumption thereof.
+    step1: TBD
+    step2: TBD
+  - id: 93
+    kind: body
+    source: |-
+      Second, the framework allows for a wide plurality of nevertheless related ways in which intuition, perception, and experience might depend on (or be independent from) the intellect. For example, intuition might depend on a *pre-conceptual* pure apperceptive power to unify one’s representations (e.g., Waxman 2014)[^waxman-2014], while perception depends on the recognition of what is so unified in a concept, though not yet in an explicit judgment (e.g., Gomes 2017a)[^gomes-2017a], and experience on the predication of that concept in an act of judgment (e.g., Strawson 1970)[^strawson-1970]. Now, instead of thinking of this series as three distinct positions, two of which are “conceptualist”, and one of which is “judgmentalist”, we can construe them as each developments of a single Intellectualist position. The Intellectualism/Sensibilism frame thus provides a way of unifying a variety of different approaches around a single central “bright line” distinction (McLear 2015, 2016a; Gomes 2017a; Indregard 2021)[^gomes-2017a][^indregard-2021][^mclear-2015].
+    step1: TBD
+    step2: TBD
+  - id: 94
+    kind: body
+    source: |-
+      Even with respect to the single issue of the generation of intuition, we can see a plurality of ways in which an Intellectualist view might be developed, in increasing order of demandingness. First, we have those that construe the dependence of intuition on the power of apperception itself, prior to how that power is manifested in discursive acts of conceptualization, judgment, and inference (e.g., Waxman 1991, 2014; Longuenesse 1998; Messina 2014; Friedman 2015)[^friedman-2015][^longuenesse-1998][^messina-2014][^waxman-1991]. Second, we have positions according to which intuition depends on the application of a concept, but not in judgment (e.g., Grüne 2009; Land 2015a; McDowell 1998)[^grüne-2009][^land-2015a][^mcdowell-1998]. Third, we have positions according to which intuition depends on overt acts of judgment (e.g., Strawson 1970; Pippin 1982: 28)[^pippin-1982][^strawson-1970]. While there are obvious and important differences between these views, they are all united by a commitment to construing intuition as the outcome of a process that depends upon the intellectual capacity to unify one’s mental states as one and all states of single self-conscious individual.
+    step1: TBD
+    step2: TBD
+  - id: 95
+    kind: body
+    source: |-
+      Similarly, positions that might be grouped together as “nonconceptualist” according to the first frame are, on this frame, organized quite differently. For example, a variety of interpreters reject the position that pure intuition depends on a conceptual synthesis (e.g., Longuenesse 1998: ch. 8; Waxman 2014; Allais 2015: ch. 7; McLear 2015; Friedman 2015; Golob 2016a)[^allais-2015][^friedman-2015][^golob-2016a][^longuenesse-1998][^mclear-2015][^waxman-2014]. According to the Conceptualism frame, one might thus think of these positions as all in agreement concerning a basic (and controversial) element of Kant’s view, and thus all as forms of ‘Nonconceptualism’. However, these positions in fact radically *disagree* concerning whether intuition is dependent on the intellect. Their disagreement hinges on the issue of the dependence of intuition on intellectual acts *per se* rather than on conceptual content or conceptual synthesis (for further discussion see §5 below). So, according to the second frame, interpreters who consider intuition to depend on *non*conceptual but still *intellectual* acts (e.g., Longuenesse 1998; Waxman 2014; Indregard 2021)[^indregard-2021][^longuenesse-1998][^waxman-2014] will be put on the Intellectualist side while those who reject such dependence (e.g., Allais 2015; McLear 2015)[^allais-2015][^mclear-2015] will be put on the Nonintellectualist or Sensibilist side. Within Sensibilism there may be significant differences between how different interpreters construe the manner in which intuition gives an object for cognition, or in the manner in which perception and experience are generated from mental acts performed on intuition (compare, e.g., Allais 2017a and Tolley 2019)[^allais-2017a][^tolley-2019], but all will agree on the fundamental point that intuition may be generated independently of any intellectual act.
+    step1: TBD
+    step2: TBD
+  - id: 96
+    kind: body
+    source: |-
+      Intellectualism thus captures much of what seems to have originally motivated Conceptualism, but without appealing to problematic conceptions of ‘content’, and allowing that there may be a way that the intellect plays a role in sense experience apart from overt conceptual judgment concerning that experience. Recall that two motivations underlying the dispute between Conceptualism and Nonconceptualism concerned, first the justificatory or broader rational role of sense experience with respect to belief or judgment and, second, the most plausible way of interpreting Kant’s argument in the Transcendental Deduction. These motivations remain present in the dispute between Sensibilism and Intellectualism. Hence, the substantive motivations of Conceptualism remain even if the framing regarding representational content is dropped in favor of focus on dependence on the intellect.
+    step1: TBD
+    step2: TBD
+  - id: 97
+    kind: body
+    source: |-
+      Thus, the division between Intellectualism and Sensibilism concerning the dependence of intuition on the pure apperceptive power and/or those intellectual capacities downstream from it captures a central point (and perhaps *the* central point) of contention between an otherwise large plurality of views, and in this way helps to organize a dispute that might otherwise seem to lack unity. In the next section we look at what have emerged as the most promising, central, or stubborn points of dispute between these two camps.
+    step1: TBD
+    step2: TBD
+  - id: 98
+    kind: body
+    source: |-
+      ## 5. Points of Dispute
+    step1: TBD
+    step2: TBD
+  - id: 99
+    kind: body
+    source: |-
+      This section canvasses eight different areas of dispute between contemporary interpreters of Kant concerning the contributions of sensibility and intellect to cognition. Each dispute is presented in terms of the second, dependence, frame (i.e Intellectualism vs. Sensibilism). However, proponents of the first, content, frame (i.e., Conceptualism vs. Nonconceptualism) will also see these different areas of dispute as relevant, given that many of their concerns remain in the motivation for holding one form or another of Intellectualism. That said, particularly important points of discrepancy between the two frames’ approaches to the issues will be noted below.
+    step1: TBD
+    step2: TBD
+  - id: 100
+    kind: body
+    source: |-
+      ### 5.1 Experience & Justification
+    step1: TBD
+    step2: TBD
+  - id: 101
+    kind: body
+    source: |-
+      A central reason for pursuing an Intellectualist reading of Kant is that such a reading is taken (most notably by Sellars and McDowell) to be the best or even only way to secure an explanation of how perception can play a justificatory rather than merely causal role in the adoption of empirical belief. If intuition is autonomous of intellectual capacities, so the objection goes, it cannot play a justificatory role in the acquisition or adoption of empirical belief. Versions of this objection have often, since Wilfred Sellars’ famous paper (Sellars 1956, reprinted in Sellars 1963)[^sellars-1956][^sellars-1963], gone under the moniker of the “Myth of the Given” (McDowell 1996, 1998, 2007b, 2008)[^mcdowell-1996]. While it is not straightforward as to how Kant’s texts or arguments yield any substantive connection with the concerns articulated by Sellars and McDowell, this entry examines three possible ways of understanding such a connection.
+    step1: TBD
+    step2: TBD
+  - id: 102
+    kind: body
+    source: |-
+      The exact nature of objections to a supposedly mythical “Given” vary, as do their putative connections to Kant’s arguments (Watkins 2008, 2012)[^watkins-2008]. One objection made by Sellars is that justifiers for belief must have a compositional, fact-like structure that mirrors the propositional structure of belief. Sensory experiences (understood as sensations), on Sellars’ view, are particulars rather than facts and so cannot play any justificatory role (Sellars 1963: 128; cf. BonJour 1985: ch. 4)[^bonjour-1985][^sellars-1963]. Thus, the view goes, if the belief caused by an experience (such as the belief you might have that there is a computer screen before you) and thereby adopted by you is also to be justified by that experience, then the experience itself must be able to function as a premise in an argument for which the relevant belief is the conclusion. This is the “premise principle,” as it has been called in contemporary epistemology (Pryor 2005)[^pryor-2005]. Acceptance of the premise principle thus plays a significant role in motivating the position that sensory experience without propositional (i.e., conceptual) content cannot justify belief.
+    step1: TBD
+    step2: TBD
+  - id: 103
+    kind: body
+    source: |-
+      A passage in Kant typically adduced in support of this point is the “same function” passage at A79/B104–5 (e.g., Sellars 1968: 4–5; McDowell 2004: 79; Haag 2007: 150–151, 199, and ch. 8; Kalderon 2011: 235–236; cf. Pippin 1982: 99–101; Heidegger 1997: 45–46; Longuenesse 1998: 200; Grüne 2009: 107–111)[^grüne-2009][^haag-2007][^heidegger-1997][^kalderon-2011][^longuenesse-1998][^mcdowell-2004][^pippin-1982][^sellars-1968]. On this reading of Kant, sense experience would have the requisite proposition-like structure, and thus be capable of standing in justificatory relations to beliefs, only if the same capacities that structure the contents of judgment for Kant (viz. the logical forms) would also structure sensory experience (via application of the categories). While such interpreters are surely correct that Kant’s aim, as exemplified in that passage, is to show that the very same cognitive capacities that connect representations in a mental act of judging are also in play in the connection of representations in a sensory experience, it is not obvious how the passage directly supports any argument concerning the epistemic significance of sensory experience to empirical belief and knowledge. What is particularly unclear is whether Kant endorses the premise principle in the substantive manner required for the Sellars/McDowell position. Hence, further work needs to be done to show that Kant actually (or even counterfactually) endorses the premise principle.
+    step1: TBD
+    step2: TBD
+  - id: 104
+    kind: body
+    source: |-
+      A second objection against the Given, which might also be attributed to Kant, is that the mere occurrence of a sensory experience cannot justify any particular belief that is the causal result of that experience. Instead, sensory experience can only play its justificatory role against a background of concepts possessed by the experiencing subject (Sellars 1963: 170; McDowell 1998: 435–436)[^mcdowell-1998][^sellars-1963]. Though this position is often taken to support some form of Intellectualism (e.g., McDowell 1996; Ginsborg 2006b)[^ginsborg-2006b][^mcdowell-1996], it is also compatible with forms of Sensibilism that construe the conditions for empirical knowledge as resting at least in part on the possession of intellectual capacities, even if such capacities are not necessary for perceptual intentionality as such (e.g., Hanna 2001: 46–65; 2005: 256–257; Bird 2006: 193–207; Watkins 2008, 2012; Allais 2009: 392–394; Tolley 2013: 125–127; McLear 2015: 98–106, 2020a; Golob 2016a, 2020)[^allais-2009][^bird-2006][^golob-2016a][^hanna-2001][^mclear-2015][^tolley-2013][^watkins-2008].
+    step1: TBD
+    step2: TBD
+  - id: 105
+    kind: body
+    source: |-
+      Third, both Sellars and McDowell claim that it is simply a mistake to think that mental states that are purely the upshot of causal interactions with the world could themselves stand as reasons for empirical belief. Sellars (1963) remarks that such a mistake is “of a piece with the so-called ‘naturalistic fallacy’ in ethics” (146). Sellars himself gives no clear argument for this claim. McDowell focuses on the distinction between the kind of mental state for which its bearer is in some way responsible, such as a belief, and the kind of state that simply happens to one, like a headache (McDowell 1996: chs. 1–2; 1998: 433–434; 2004: 80–85; cf. Engstrom 2006: 8–13)[^engstrom-2006][^mcdowell-1996]. The suggested parallel in an Intellectualist reading of Kant is that if intellectual capacities are necessary for the occurrence of perceptual experience, then experience is not merely something that causally happens to the subject but rather is something for which the subject herself is at least partially responsible, in much the same way that she is responsible for her endorsement in belief of the content of a propositional judgment. It is certainly a centrally held tenet of Kant’s critical view that the intellect, including understanding and reason, actively contributes to the content of cognition and the acquisition of knowledge (Paton 1947: 218; Pippin 1987; Allison 1990, 1996: chs. 4, 7 and 9; Willaschek 2006; McLear 2020b)[^allison-1990][^mclear-2020b][^paton-1947][^pippin-1987][^willaschek-2006]. As Kant famously says,
+    step1: TBD
+    step2: TBD
+  - id: 106
+    kind: body
+    source: |-
+      > [O]ne cannot possibly think of a reason that would consciously receive direction from any other quarter with respect to its judgments; since the subject would then attribute the determination of his judgment, not to his reason but to an impulse. Reason must regard itself as the author of its principles independently of alien influences. (*Groundwork* 4:448)
+    step1: TBD
+    step2: TBD
+  - id: 107
+    kind: body
+    source: |-
+      But it is not at all clear whether appreciation of this point requires Intellectualism. For example, perhaps sensory experiences do not themselves stand as reasons on Kant’s view, but rather provide *access* to the reasons or evidence for holding a particular belief (McLear 2016a: §8.5)[^mclear-2016a], knowledge of the successful reference of the concepts constituting the content of that belief (McLear 2016b: 127–134)[^mclear-2016b], or the possibility of reference *überhaupt* (Allais 2015: ch. 11)[^allais-2015]. Moreover, if Kant does not accept the premise principle or its analogue, this opens up additional possibilities for defending a Sensibilist interpretation of his theory of perception.
+    step1: TBD
+    step2: TBD
+  - id: 108
+    kind: body
+    source: |-
+      ### 5.2 Non-rational Minds
+    step1: TBD
+    step2: TBD
+  - id: 109
+    kind: body
+    source: |-
+      In the discussion of perception in §2 we saw that the case of non-rational animals raises a variety of interpretive challenges. But the animal case also raises special challenges for Intellectualism, for it is not clear how Intellectualism is compatible with attributing representations of *any sort* to non-rational beings.
+    step1: TBD
+    step2: TBD
+  - id: 110
+    kind: body
+    source: |-
+      Kant is extremely clear on the point that non-rational animals lack an intellect, in the sense that they lack the capacity for use of the first-person concept, and with it any of the ‘higher’ cognitive faculties of understanding, judgment, or reason (*An* 7:127; LM 28:277 (c. 1777–80); LA 25:1215 (c. 1784/5)). Hence, if one were to deny that, according to Kant, sensibility alone is capable of producing mental states that were cognitively significant in character, then it would seem that any animal that lacks a faculty of understanding, and thus the capacity for any intellectual or conceptual synthesis, would thereby lack not only a capacity for thought but also any capacity for perceptual experience. The mental lives of non-rational animals would thus, at best, consist of essentially unconscious, non-cognitive sensory states that causally correlate with changes in the animal’s environment. It is not clear that we should characterize such states as representations, in Kant’s sense, at all.
+    step1: TBD
+    step2: TBD
+  - id: 111
+    kind: body
+    source: |-
+      Aside from what we now consider to be a straightforwardly false characterization of the cognitive capacities of animals, this non-cognitive reading faces textual hurdles. Kant claims that animals enjoy mental representations, and that postulating such representations is necessary for explaining sophisticated animal behavior. Kant is on record in various places as saying that animals have sensory representations of their environment (CPJ 5:464; cf. An 7:212), that they have intuitions (LM 28:449 (c. 1784/85); LM 28:594 (c. 1790/91); LL 24:702 (c. 1792); OP 21:82), and that they are acquainted with objects though they do not cognize them (JL 9:64–5; see also *Notes on Logic* 16:342–4 (c. mid/late 1760s); LL 24:845ff (c. 1780–1); LL 24:730–1 (c. 1792)). However, interpretation of these texts, and others, is not uncontested (e.g., Fisher 2017; van den Berg 2018; see also the sources cited in §2 above)[^berg-2018][^fisher-2017]. It is also not entirely clear that Kant’s views on this matter remain consistent throughout his career, with some arguing that at least his pre-critical views are clearly incompatible with a cognitivist position regarding animal minds (Leland 2018a,b)[^leland-2018a].
+    step1: TBD
+    step2: TBD
+  - id: 112
+    kind: body
+    source: |-
+      If it is correct to read Kant as at least entertaining the possibility of a cognitivist position regarding animal minds, then Intellectualism faces a challenge. Intellectualism construes Kant as claiming that synthetic acts carried out by the intellect are necessary for the cognitive standing of a mental state. But if this is correct then—on the cognitivist reading of the animal mind—Kant is contradicting fundamental elements of his own position in crediting intuitions (or their possibility) to non-rational animals. In contrast Sensibilism has no problem accommodating the possibility that animals have representations of their environment, and that these representations are (potentially) conscious and thus count as intuitions.
+    step1: TBD
+    step2: TBD
+  - id: 113
+    kind: body
+    source: |-
+      One way of replying to this challenge that may not require endorsing non-cognitivism with respect to animal minds is to allow that non-rational minds may well have some way of representing the world, but posit that rational minds constitute an *altogether different kind* of mind than their non-rational counterparts. On this view, rational and non-rational animality are conceived as two completely different species of animality whose generic similarity does not require that there share any of the same fundamental mental capacities (Herder 1772 [2002: 81–87]; Hegel 1830/1991: §2; McDowell 1996: ch. 6; Boyle 2012, 2016, 2017; Conant 2016; Land 2018)[^boyle-2012][^conant-2016][^land-2018][^mcdowell-1996]. On this view, “rational” does not specify some characteristic among others of a creature, but rather its “distinctive manner of having characteristics” (Boyle 2012: 410)[^boyle-2012]. Thus rationality “transforms” the manner in which a rational creature has other kinds of mental state (e.g., experience and desire) and is not merely added to an otherwise independently characterizable stock of the creature’s mental powers.
+    step1: TBD
+    step2: TBD
+  - id: 114
+    kind: body
+    source: |-
+      Moreover, according to its proponents, a central reason for holding this “transformative” view of rationality is that it is the only way to explain how sensory experience and desire can play properly rationalizing roles in our cognition and action (Boyle 2016; see also §5.1)[^boyle-2016]. And since rational and non-rational minds are construed as radically different, this view allows that non-rational minds might have their own sorts of (non-rational) intuitive representations, thus avoiding any attribution of contradictory claims to Kant. The “transformative” label is itself highly contentious, and it is not obvious that a Sensibilist position cannot co-opt the label for itself (Schafer 2021, McLear 2023)[^mclear-2023].
+    step1: TBD
+    step2: TBD
+  - id: 115
+    kind: body
+    source: |-
+      Alternatively, one broadly sympathetic to Intellectualism might argue that sensibility depends on the intellect in a specifically *teleological* sense (Schafer 2021, 2023b; Pendlebury 2021)[^pendlebury-2021]. On this sort of approach the aims of sensibility are different in a being with an intellect than in a being without. Depending on one’s view of the individuation of the faculties, this difference in end results in a difference in the essence or nature of sensibility, and thus, in this specific sense, are the sensible capacities of a human being “transformed”. However it unclear that this approach remains consistent with Kant’s own views, or avoids collapse into one of the other “transformative” views discussed above (McLear 2023)[^mclear-2023].
+    step1: TBD
+    step2: TBD
+  - id: 116
+    kind: body
+    source: |-
+      ### 5.3 The ‘Blindness’ of Intuition
+    step1: TBD
+    step2: TBD
+  - id: 117
+    kind: body
+    source: |-
+      Perhaps the most obvious objection to the Sensibilist reading of intuition as autonomous from the intellect stems from Kant’s famous statement that
+    step1: TBD
+    step2: TBD
+  - id: 118
+    kind: body
+    source: |-
+      > Intuition and concepts therefore constitute the elements of all our cognition [*Erkenntnis*] … Thoughts without content [*Inhalt*] are empty, intuitions without concepts are blind… The understanding is not capable of intuiting anything, and the senses are not capable of thinking anything. Only from their unification can cognition arise. (A50–51/B74–75)
+    step1: TBD
+    step2: TBD
+  - id: 119
+    kind: body
+    source: |-
+      The so-called “blindness” problem raises two issues: first, that intuitions without concepts or conceptual synthesis are not intentional states (George 1981; Pereboom 1988; Grüne 2009)[^george-1981][^grüne-2009][^pereboom-1988] and so cannot provide the mind with relation to an object and, second, that we cannot even *identify* the cognitive contribution made by sensory experience independent of its conceptualization (Falkenstein 1995; McDowell 1996: 51; Pippin 2005; cf. Bird 2006: ch. 7.2)[^bird-2006][^falkenstein-1995][^mcdowell-1996][^pippin-2005].
+    step1: TBD
+    step2: TBD
+  - id: 120
+    kind: body
+    source: |-
+      Concerning the first point, one question is whether Kant is really concerned with the conditions of intentionality *per se* (Van Cleve 1999: 95–97)[^van-1999], or merely with the conditions under which a certain kind of rational relation to objects is possible, one that could support rational cognition and the acquisition of scientific knowledge. On this latter reading Kant’s talk of “relation to an object” takes on a specific and technical significance that should not be confused with intentionality *per se* (Hanna 2005; Allais 2015: ch. 7; McLear 2020a)[^allais-2015][^hanna-2005][^mclear-2020a]. There is no settled consensus on this issue, but the fact that intuition is “blind” does not seem to entail the strong position that intuition fails to provide *any* awareness of a mind-independent object.
+    step1: TBD
+    step2: TBD
+  - id: 121
+    kind: body
+    source: |-
+      Allais (2009: 393–4; 2015: ch. 7) has argued against both the first and second points, pointing out that if we take Kant’s definition of intuition (and likewise of concepts) seriously, then we must be able to identify an independent contribution of sensibility to cognition—viz. singular and immediate representation of an object—lest we fail to make sense of Kant’s division between intuition and concept (cf. Kolb 1986; Falkenstein 1995: 63)[^falkenstein-1995][^kolb-1986]. Relatedly, others have remarked on the oddness of denying the possibility of articulating the distinct contribution made by sensibility given that Kant goes so far as to organize the structure of argument in the first *Critique* around the distinction between those contributions made by sensibility (the Transcendental Aesthetic) and those made by the understanding (the Transcendental Logic, and in particular, the Analytic) (e.g., Bird 2006: 127; but cf. Bauer 2012; Conant 2016)[^bauer-2012][^bird-2006][^conant-2016]. The claim of “blindness,” it is thus argued, should not be interpreted as so extreme as to render unintelligible fundamental aspects of Kant’s architectonic, or of his repeated statements concerning the individual cognitive roles of the faculties of sensibility and understanding.
+    step1: TBD
+    step2: TBD
+  - id: 122
+    kind: body
+    source: |-
+      On an alternative and much weaker conception of the blindness problem, the “blindness” of intuition might well only concern the difficulties involved in articulating the nature of sensory content without drawing on concepts in the process of providing the articulation. As Bird (2006: 129–130) notes however, this can be conceded without thereby admitting that there is no sensory content (or positive cognitive contribution) independent of conceptual articulation.
+    step1: TBD
+    step2: TBD
+  - id: 123
+    kind: body
+    source: |-
+      ### 5.4 Mathematical Construction
+    step1: TBD
+    step2: TBD
+  - id: 124
+    kind: body
+    source: |-
+      There has been extensive discussion of the non-conceptuality of intuition in the secondary literature on Kant’s philosophy of mathematics. For example, Michael Friedman has argued that the expressive limitations of the prevailing logic in Kant’s time required the postulation of intuition as a form of singular, non-conceptual representation (Friedman 1992: ch. 2)[^friedman-1992]. Charles Parsons (1964, 1992a) and Emily Carson (1997, 1999) have argued that space must be given in a phenomenological manner as an original, non-conceptual representation in order that we be able to demonstrate the real possibility of constructed mathematical objects as required for geometric knowledge (cf. Shabel 2010: 100–102)[^shabel-2010]. All of this at least suggests that Kant’s conception of mathematical construction includes an important nonconceptual element.
+    step1: TBD
+    step2: TBD
+  - id: 125
+    kind: body
+    source: |-
+      Ultimately, however, there are difficulties in assessing whether Kant’s philosophy of mathematics can be decisive for the debate concerning the dependence of intuition on the intellect. One issue is that the sense in which intuition must be nonconceptual in accounting for mathematical knowledge is not obviously incompatible with claiming that intuitions themselves (including pure intuition; see §5.6 below) are dependent upon a conceptually guided synthesis (e.g., Land 2014)[^land-2014]. A second issue is that one might agree that intuitions are in some sense “nonconceptual” while holding that the pure forms of intuition (as discussed in the relevant Metaphysical Expositions in the Transcendental Aesthetic) are themselves generated by a non- or pre-conceptual synthesis by the intellect, or the imagination as a function thereof (e.g., Waxman 1991; Longuenesse 1998: ch. 8; Friedman 2012, 2015, 2019)[^friedman-2012][^longuenesse-1998][^waxman-1991]. Such views are forms of Intellectualism even if they reject the claim that intuition, in making synthetic a priori knowledge in mathematics possible, possesses conceptual content or is otherwise conceptually dependent.
+    step1: TBD
+    step2: TBD
+  - id: 126
+    kind: body
+    source: |-
+      Hence, the sense in which the dependence relation alluded to by Kant in claiming that mathematical principles are “derived from” (A160/B199) pure intuition is one that seems open to both Intellectualist and Sensibilist interpretations (cf. Shabel 2017)[^shabel-2017]. Thus it is unclear whether mathematical considerations could be decisive in adjudicating the debate between Intellectualism and Sensibilism.
+    step1: TBD
+    step2: TBD
+  - id: 127
+    kind: body
+    source: |-
+      ### 5.5 The Transcendental Deduction
+    step1: TBD
+    step2: TBD
+  - id: 128
+    kind: body
+    source: |-
+      The argument of the Transcendental Deduction, and its relation to the Transcendental Aesthetic (and thus to Kant’s philosophy of Mathematics), is a central area of dispute between Sensibilism and Intellectualism (Waxman 1991; Longuenesse 1998; Allais 2016: §1.5; Golob 2016b; Allais 2017b)[^allais-2016][^allais-2017b][^golob-2016b][^longuenesse-1998][^waxman-1991]. Critics charge that Sensibilism at best renders ineffectual Kant’s apparent strategy for demonstrating the legitimacy of the categories in the argument of the Transcendental Deduction and at worst shows Kant to be totally confused in his argumentative strategy (Ginsborg 2008: 68–69; Griffith 2012; Gomes 2014; Land 2015a; cf. Hegel 1977: 69–72; Pippin 1989: 29–31; Keller 1998: 107–112, 254; McDowell 2004, 2007a)[^ginsborg-2008][^gomes-2014][^griffith-2012][^hegel-1977][^keller-1998][^land-2015a][^mcdowell-2004][^pippin-1989]. However, since interpretation of the argument of the Deduction is at least as controversial as any claim made by either side of the dispute, dialectical traction on the basis of the text of the Deduction itself is difficult to come by.
+    step1: TBD
+    step2: TBD
+  - id: 129
+    kind: body
+    source: |-
+      The basic approach required by Intellectualism sees Kant’s strategy for legitimating the categories, however else the details are construed, as culminating in the argument that even the pure intuitions of space and time (i.e., the representations that are the topic of their respective Metaphysical Expositions in the Transcendental Aesthetic) depend for their generation on intellectual, though not obviously conceptual, activity.
+    step1: TBD
+    step2: TBD
+  - id: 130
+    kind: body
+    source: |-
+      Intellectualism interprets Kant as providing this argument in a notoriously difficult footnote in §26:
+    step1: TBD
+    step2: TBD
+  - id: 131
+    kind: body
+    source: |-
+      > Space, presented as object (as we are actually required to represent it in geometry), contains more than [the] mere form of intuition—viz. it contains also the gathering together [*Zusammenfassung*] of the manifold given according to the form of sensibility, in an intuitive representation—so that the form of intuition gives us merely a manifold, but formal intuition gives us unity of representation. In the Transcendental Aesthetic I had merely included this unity with sensibility, wanting only to point out that it precedes any concept. But this unity indeed presupposes a synthesis which does not belong to the senses, through which all concepts of space and time first become possible. For through this unity (inasmuch as understanding determines sensibility), space or time is first given as intuitions, and hence, the unity of this intuition belongs a priori to space and time, and not to the concept of understanding (§24). (B160–1, note)
+    step1: TBD
+    step2: TBD
+  - id: 132
+    kind: body
+    source: |-
+      Lorne Falkenstein describes this footnote as “so obscure that it can be made to serve the needs of any interpretation whatsoever” because the text is “close enough to exhibiting a contradiction that it makes it possible to get virtually any conclusion one pleases out of the passage with only minor effort” (Falkenstein 1995: 91)[^falkenstein-1995].
+    step1: TBD
+    step2: TBD
+  - id: 133
+    kind: body
+    source: |-
+      Despite the difficulties presented by the text, the Intellectualist takes the very intelligibility of Kant’s strategy in the Deduction to hinge on the dependence of pure intuition on the intellect (Cohen 1871, 1907; Longuenesse 1998: ch. 8; Dufour 2003; Ginsborg 2008: 69; Bowman 2011: 421; Grüne 2011: 465–466; Friedman 2015; McDowell 2016: 318; Conant 2016: 110)[^bowman-2011][^cohen-1871][^conant-2016][^dufour-2003][^friedman-2015][^ginsborg-2008][^grüne-2011][^longuenesse-1998][^mcdowell-2016]. The idea here is that, by making the pure intuitions of space and time themselves depend on intellectual activity, along with some further connection of that intellectual activity to categorial synthesis, Kant assures his desired conclusion for the Deduction overall—viz. that any possible empirical intuition must depend on the categories and thus that all possible objects of empirical intuition must fall under the categories. The Intellectualist thus construes any approach to reading the Deduction that doesn’t posit such a dependence relation as rendering the argument there hopeless and Kant’s strategy deeply confused. Of note here is the fact that when Kant says that the unity of intuition “precedes any concept” one might plausibly read him as endorsing a form of Nonconceptualism—viz. that the pure intuitions are prior to any conceptual content. However, this nonceptualist point is compatible with Intellectualism since it is possible that the unity of intuition lacks conceptual content but is nevertheless dependent on the intellect in some other sense (e.g., Waxman 1991, 2014; Longuenesse 1998; Messina 2014; Freidman 2015; Indregard 2021)[^indregard-2021][^longuenesse-1998][^messina-2014][^waxman-1991].
+    step1: TBD
+    step2: TBD
+  - id: 134
+    kind: body
+    source: |-
+      One issue for the Intellectualist interpretation is that it seems to make the success conditions of the Deduction too easy. If Kant’s project in the Deduction is to show that all intuition, or perhaps more generally “everything that may ever come before our senses” (B160) must stand under the categories (Guyer 2010a; Allison 2015: 407–408)[^allison-2015][^guyer-2010a], then it cannot be the case the intuition is defined in terms of its dependence on the intellect. If intuition were so defined, it would be unclear why anything more than a trivial inference would be needed to show that intuition depends on the intellect. To avoid this Intellectualism must advocate either for a reading of “intuition” that allows for at least two different senses of the term (Sellars 1968: ch. 1)[^sellars-1968] or a “re-reading” of Kant’s initial presentation of the nature of sensibility and the intuitions it provides (Longuenesse 1998: ch. 8; Bauer 2012; Conant 2016)[^bauer-2012][^conant-2016][^longuenesse-1998].
+    step1: TBD
+    step2: TBD
+  - id: 135
+    kind: body
+    source: |-
+      Certainly, very basic aspects of the argument of the Deduction, even such as its method and aims (beyond, in some sense, showing the legitimacy of the categories), much less the details and cogency of its specific arguments, are open to significant dispute (e.g., Henrich 1989; Pereboom 1995; Hatfield 2003; Guyer 2010a; Allais 2015: ch. 11)[^allais-2015][^guyer-2010a][^hatfield-2003][^henrich-1989][^pereboom-1995]. Such dispute naturally includes whether Kant’s strategy in the Deduction might well be intelligible in some fashion that does not presuppose or otherwise require Intellectualism. For example, according to various Sensibilist readings, the Deduction might be concerned with conditions governing referential thought (Allais 2015: ch. 11)[^allais-2015] or the representation of a privileged set of spatial and temporal relations beyond those required for objective representation in its most primitive form (Golob 2016b)[^golob-2016b], or the conditions for relating particular property instantiations to some underlying entity (McLear 2015: §3; 2020a)[^mclear-2015]. In each such case, the Deduction is intelligible as attempting to legitimize the categories without adverting to Intellectualism.
+    step1: TBD
+    step2: TBD
+  - id: 136
+    kind: body
+    source: |-
+      The Sensibilist case for an alternative reading of the Deduction is abetted by a significant problem with the Intellectualist proposal that the pure intuitions depend on an intellectual unity. This will be examined in the next subsection.
+    step1: TBD
+    step2: TBD
+  - id: 137
+    kind: body
+    source: |-
+      ### 5.6 Intellectual Activity & The Unity of Space & Time
+    step1: TBD
+    step2: TBD
+  - id: 138
+    kind: body
+    source: |-
+      The problem with construing the pure forms of intuition as the product of acts of synthesis is that Kant’s characterization of the mereological structure of a representation produced by such a synthesis is at odds with his characterization of the mereological structure of the pure intuitions. One version or other of this point has been noted by a variety of scholars (Wilson 1975; Aquila 1994; Falkenstein 1995: 139; Mohr 1998: 112–113; Aquila 2001; Bell 2001; Fichant 2004; Banham 2005: ch.6; Messina 2014; McLear 2015; Allison 2015, 410ff; Onof and Schulting 2015; Guyer 2018; Roche 2018)[^allison-2015][^aquila-1994][^aquila-2001][^banham-2005][^bell-2001][^falkenstein-1995][^fichant-2004][^guyer-2018][^mclear-2015][^messina-2014][^mohr-1998][^onof-2015][^roche-2018][^schulting-2015][^wilson-1975]. Here, in brief, is the most straightforward version of the argument challenging Intellectualism:
+    step1: TBD
+    step2: TBD
+  - id: 139
+    kind: body
+    source: |-
+      1. The structure of pure intuition (or its content) is one according to which the parts of the representation are determined by the whole
+      2. The structure of a representation that depends for its generation on an act of synthesis is one according to which the whole is determined by its parts
+      3. ∴ The pure representations of space and time cannot be dependent on synthetic acts for their generation.
+    step1: TBD
+    step2: TBD
+  - id: 140
+    kind: body
+    source: |-
+      The evidence for premise (1) comes in part from the third argument in the Metaphysical Exposition of space (fourth in the case of time):
+    step1: TBD
+    step2: TBD
+  - id: 141
+    kind: body
+    source: |-
+      > [I]f one speaks of many spaces, one understands by that only parts of one and the same unique space. And these parts cannot as it were precede the single all-encompassing space as its components (from which its composition would be possible), but rather are only thought in it. It is essentially single [*einig*]; the manifold in it, thus also the general concept of spaces in general, rests merely on limitations. (A24–5/B39)
+    step1: TBD
+    step2: TBD
+  - id: 142
+    kind: body
+    source: |-
+      Evidence for premise (2) comes in consideration of both Kant’s positive characterization of our intellectual activity (this is meant to include the activity of the productive imagination) and his contrast of our intellectual forms of representation with God’s intuitive intellect.
+    step1: TBD
+    step2: TBD
+  - id: 143
+    kind: body
+    source: |-
+      Kant characterizes our intellectual activity as ‘discursive’ to denote the manner in which the understanding acts—viz. moving to and fro, from part to part—rather than merely as a synonym for ‘conceptual’, ‘linguistic’, or ‘rational’. It is this notion he means to indicate in his talk of “running through” and “gathering together” (A99) representations.
+    step1: TBD
+    step2: TBD
+  - id: 144
+    kind: body
+    source: |-
+      It is this activity of moving from part to part in the connection of representations that also informs Kant’s general characterization of synthesis:
+    step1: TBD
+    step2: TBD
+  - id: 145
+    kind: body
+    source: |-
+      > By synthesis in the most general sense, however, I understand the action of putting different representations together with each other and comprehending their manifoldness in one cognition. (A77/B103)
+    step1: TBD
+    step2: TBD
+  - id: 146
+    kind: body
+    source: |-
+      Additional support for both premises comes in reflecting on the mereological manner in which Kant contrasts our discursive intellect with God’s intuitive intellect:
+    step1: TBD
+    step2: TBD
+  - id: 147
+    kind: body
+    source: |-
+      > [W]e can also conceive of an understanding which, since it is not discursive like ours but is intuitive, goes from the **synthetically universal** (of the intuition of a whole as such) to the particular, i.e., from the whole to the parts, in which, therefore, and in whose representation of the whole, there is no **contingency** in the combination of the parts, in order to make possible a determinate form of the whole, which is needed by our understanding, which must progress from the parts, as universally conceived grounds, to the different possible forms, as consequences, that can be subsumed under it. (KU, 5:407)
+    step1: TBD
+    step2: TBD
+  - id: 148
+    kind: body
+    source: |-
+      Thus, if the content of pure intuition is such that the (intuited) whole is prior to its parts, and synthesis is a process that essentially moves from part to part, resulting in the reverse mereological relation, it cannot be the case that the pure intuitions result from a synthesis.
+    step1: TBD
+    step2: TBD
+  - id: 149
+    kind: body
+    source: |-
+      Here an Intellectualist might deny that all ‘higher’ cognitive activity should be understood as ‘discursive’ in the above sense. Hence, a central issue concerns whether it makes sense to say that there is a form of synthesis that is non-discursive in a manner that does not threaten Kant’s characterization of the structure of pure intuition (Williams 2018)[^williams-2018]. Now, it certainly is possible for Intellectualism to defend a more limited claim, concerning only empirical intuition (McLear 2015: 93–95; Grüne 2016)[^grüne-2016][^mclear-2015]. But such a restricted version gives up the dialectically central motivation that Intellectualism, in claiming a dependence of the pure forms of intuition on the intellect, is the only means of making intelligible the argument of the Deduction. Thus, retreat to a restricted form of Intellectualism claiming merely that particular empirical intuitions depend on the intellect undermines one of the central pillars sustaining the Intellectualist interpretation (McLear 2015: 94)[^mclear-2015].
+    step1: TBD
+    step2: TBD
+  - id: 150
+    kind: body
+    source: |-
+      ### 5.7 Imagination, Perception, and Images
+    step1: TBD
+    step2: TBD
+  - id: 151
+    kind: body
+    source: |-
+      Kant famously describes the imagination (*Einbildungskraft*) as a necessary ingredient of perception itself (A120n). This claim has played an important role in several contemporary interpretations of Kant’s theory of experience, in both his sense (Young 1988, 1992; Makkreel 1990; Gibbons 2002; Kneller 2007; Horstmann 2018; Tolley 2019)[^gibbons-2002][^horstmann-2018][^kneller-2007][^makkreel-1990][^tolley-2019][^young-1988] and in our modern English sense (see Strawson 1970; Sellars 1978; Matherne 2015, 2024)[^matherne-2015][^sellars-1978][^strawson-1970].
+    step1: TBD
+    step2: TBD
+  - id: 152
+    kind: body
+    source: |-
+      There are at least three important questions regarding the Imagination that are of particular note with respect to the debate between Intellectualism and Sensibilism. First, how imagination is to be understood as a faculty—i.e., as spontaneous or receptive, as sensory or intellectual (Hanna 2008: 62)[^hanna-2008]. Second, whether imaginative activity is a form of mental activity that does not require synthesis in the “part-to-whole” sense (see especially Waxman 1991, 2014; Land 2014; Williams 2018)[^land-2014][^waxman-1991][^williams-2018]. Third, whether the role of imagination in the formation of images, and the necessary role of such image formation in cognition (A121) indicates a way in which an Intellectualist conception of *perception* (as opposed to intuition) might find a plausible footing (Matherne 2015; Gomes 2017a; Stephenson 2017; Tolley 2019; Matherne 2024)[^gomes-2017a][^matherne-2015][^matherne-2024][^stephenson-2017][^tolley-2019].
+    step1: TBD
+    step2: TBD
+  - id: 153
+    kind: body
+    source: |-
+      Discussion of imagination’s role in perception (in Kant’s sense) and image formation is an area which could stand further attention. In particular, it seems clear that Kant conceives of images as, in some sense, sensory representations. But what kind of sensory representations? Are they intuitions? If so, how do images differ from ‘immediately given’ intuitions? If, as Kant sometimes suggests (e.g., A120–1), image formation is a necessary intermediate stage between given sensory states and constructed intellectual states, how might the structure or content of an image possess features that make it more than a “mere” sensory state, while being nevertheless different from judgment (Tracz 2020)[^tracz-2020]? Moreover, in what sense does image formation require a “schema” and in what sense does such schematization present an intermediary between the sensible and the intellectual? Kant’s notion of a schema is itself much contested, but it seems clearly relevant to the case of perception (Longuenesse 2000; Grüne 2009; Dunlop 2012; Williams 2012; Matherne 2015; Tolley 2019; Matherne 2024)[^dunlop-2012][^grüne-2009][^longuenesse-2000][^matherne-2015][^matherne-2024][^tolley-2019][^williams-2012].
+    step1: TBD
+    step2: TBD
+  - id: 154
+    kind: body
+    source: |-
+      ### 5.8 Modality & Cognition
+    step1: TBD
+    step2: TBD
+  - id: 155
+    kind: body
+    source: |-
+      As we saw in §1, Kant uses the term ‘cognition’ (*Erkenntnis*) in different ways. But the sense of “proper cognition” is often that with which he is most concerned, as it marks out the way in which both stems of our cognitive capacity (i.e., sensibility and intellect) must cooperate for cognition, and ultimately substantive scientific knowledge, of objects to occur.
+    step1: TBD
+    step2: TBD
+  - id: 156
+    kind: body
+    source: |-
+      Kant construes such cognition as always of a really—i.e., metaphysically—possible subject matter. As Kant states in a famous footnote in the B-preface of the first *Critique*:
+    step1: TBD
+    step2: TBD
+  - id: 157
+    kind: body
+    source: |-
+      > To *cognize* an object, it is required that I be able to prove its possibility (whether by the testimony of experience from its actuality or *a priori* through reason). But I can *think* whatever I like, as long as I do not contradict myself, i.e., as long as my concept is a possible thought, even if I cannot give any assurance whether or not there is a corresponding object somewhere within the sum total of all possibilities. But in order to ascribe objective validity to such a concept (real possibility, for the first sort of possibility was merely logical) something more is required. (Bxxvi, note)
+    step1: TBD
+    step2: TBD
+  - id: 158
+    kind: body
+    source: |-
+      In finite discursive beings the structure of thought is governed ultimately by the rule of non-contradiction, and in this way concerns what is logically possible. But an analysis of the contents and laws of thought tells us nothing as to whether there really could be an object such as the thought specifies. Thus the real possibility of an object for theoretical cognition can only be determined from an actual ground provided via experience or via a priori transcendental reflection (Chignell 2010; McLear 2016a)[^chignell-2010][^mclear-2016a]. And as Kant goes on to note, the “more” that is required for a thought to achieve cognition need not always come from theoretical sources, as there may be practical sources of cognition as well (Chignell 2007a; Kain 2010; Schafer 2023a)[^chignell-2007a][^kain-2010][^schafer-2023a].
+    step1: TBD
+    step2: TBD
+  - id: 159
+    kind: body
+    source: |-
+      A challenge for Intellectualism is to explain how the modal condition on cognition may be satisfied if intuition is itself the outcome of some synthetic intellectual process (Gomes and Stephenson 2016; McLear 2016b: §4.3; 2016a: §8.5; cf. Parsons 1964, 1992b; Carson 1997)[^carson-1997][^gomes-2016][^mclear-2016b][^parsons-1964]. There are at least two issues here. The first is that it seems that such intellectual processes could supply only logical as opposed to “real” representational constraints. The second (and related issue) is that Kant’s emphasis on the “the testimony of experience from [the object’s] actuality” is at least some evidence for thinking that intuition—as the sensory component of empirical cognition or “experience”—provides the needed “real” constraint on cognition by giving proof of the real possibility of the subject matter of cognition. This real constraint intuition provides via its presentation of some *actuality* that grounds this possibility.
+    step1: TBD
+    step2: TBD
+  - id: 160
+    kind: body
+    source: |-
+      Replies to these two challenges dispute the emphasis on the actuality of what is presented through intuition, and instead interpret the modal condition fairly weakly, as saying simply that a really possible object must be one that can have spatio-temporal structure (Gomes and Stephenson 2016: §3.4.1; Grüne 2017a)[^gomes-2016][^grüne-2017a], and so the ‘proof’ provided through experience is compatible with the non-actuality of the object of experience. According to this proposal, every object of experience or intuition conforms to the conceptual formal conditions of experience, namely the categories, because every intuition is generated by a synthesis that takes place in accordance with the categories. Thus, every intuition, regardless of whether the object it represents is actual or not, conforms to the formal conditions of experience, and is therefore the representation of an object that is really possible.
+    step1: TBD
+    step2: TBD
+  - id: 161
+    kind: body
+    source: |-
+      McLear (2016a) has argued against such a response in two ways. First, if the representations of space and time, as Intellectualism typically argues, are dependent on the intellect, then it is unclear how space and time operate as formal but “real” constraints, independent of the intellect, on what is really possible. Second, any Intellectualist position that construes the modal condition as satisfied merely by the formal conditions of experience commits itself to at least two problematic positions. First, imagined and hallucinated experiences will count as cognitions (cf. Beck 1978)[^beck-1978]. Second, Kant’s emphasis on actuality in the Bxxvi note, quoted above, is left unexplained.
+    step1: TBD
+    step2: TBD
+  - id: 162
+    kind: body
+    source: |-
+      However, a corresponding challenge for the Sensibilist position lies in explaining how intuitions could be relations to actualities even in the “pure” case of the intuitions of space and time—i.e., those a priori intuitions whose features are described in their respective Metaphysical Expositions of space and time in the Transcendental Aesthetic. Kant is quite clear that the pure intuitions are intuitions of “*ens imaginaria*” or imaginary beings (see Amphiboly, A291/B347). As imaginary beings, they do not exist. If that is correct then it cannot be the case that intuition *as such* is existentially dependent on its relata, since a priori intuitions are certainly intuitions, and they lack existing relata. So it would seem that either it is false to construe intuitions as always relations to actualities or Kant is inconsistent in his treatment of intuition across pure and empirical cases.
+    step1: TBD
+    step2: TBD
+  - id: 163
+    kind: body
+    source: |-
+      Here, however, the Sensibilist can pursue a strategy of distinguishing actuality from existence (Stang 2016a: 34 and 322; McLear 2017: 91 n10)[^mclear-2017][^stang-2016a]. Kant makes two explicit discussions of this point. First he is reported as having explicitly distinguished the concept of actuality (*Wirklichkeit*) from existence (*Existenz*) in a lecture from the mid 1790s (*Metaphysik K₃*, 29:986). Second, in *reflexion* R6324, 18:647 (between 1790 and 1793), Kant specifically names time and space as actual but not existing things.
+    step1: TBD
+    step2: TBD
+  - id: 164
+    kind: body
+    source: |-
+      If Sensibilism can make good on the plausibility of a distinction between actuality and existence then it can interpret all intuition as a relation to an actuality, even if not always to an *existent* actuality, and thus give a straightforward explanation of why intuition in especially suited to satisfying the modal condition on cognition.
+    step1: TBD
+    step2: TBD
+  - id: 165
+    kind: body
+    source: |-
+      ## 6. Conclusion
+    step1: TBD
+    step2: TBD
+  - id: 166
+    kind: body
+    source: |-
+      This article has examined the ongoing interpretive debate concerning Kant’s conception of the contribution of the sensible and intellectual faculties of the mind to a subject’s sensory experience of the world around it. Two central motivations of the debate are, on the one hand, philosophical concerns about the epistemological relationship between sensory experience (broadly construed) and empirical judgment or belief, and on the other hand, interpretive questions concerning Kant’s conception of the cognitive role of intuition and his strategy of argument in the Transcendental Deduction. We have seen that there are multiple ways of framing the debate, and that even basic issues, such as the central locus of dispute (whether it be intuition, perception, or experience) admit of multiple approaches. Moreover, we saw that the framing of the dispute in terms of conceptual content yields various problems, and perhaps in part because of such problems current debate seems to have coalesced (either implicitly or explicitly) around an alternative frame—viz. whether the generation of intuition depends on, or is otherwise an expression of, intellectual capacities of one sort or another. Resolution of this question requires navigation of some of the thorniest and most contentious areas of Kant’s philosophy. For this reason, at least, it seems unlikely that we will soon see any widespread convergence on an answer.
+    step1: TBD
+    step2: TBD
+  - id: 167
+    kind: oir
+    source: |-
+      - [KantPapers.org](http://kantpapers.org)
+      - [Kant in the Classroom](https://users.manchester.edu/FacStaff/SSNaragon/Kant/Home/), Steve Naragon, Manchester University
+      - [Kant on the Web](https://staffweb.hkbu.edu.hk/ppp/Kant.html), Steve Palmquist
+      - [Kant-Forschungsstelle](https://www.philosophie.fb05.uni-mainz.de/forschungsstellen-und-weitere-einrichtungen/fs_kant/)
+    step1: TBD
+    step2: TBD
+  - id: 168
+    kind: ack
+    source: |-
+      Thanks to Lucy Allais, Anil Gomes, Lisa Shabel, Nick Stang, Andrew Stephenson, Clinton Tolley, and the Kant subject editors for the SEP for helpful comments and discussion concerning the structure and content of this piece.
+    step1: TBD
+    step2: TBD

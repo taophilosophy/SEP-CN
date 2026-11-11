@@ -258,7 +258,7 @@ outline: [1, 6]
   * [笛卡尔的本体论论证 ontological argument (Lawrence Nolan)](d/descartes-ontological.md)
   * [笛卡尔的物理学 physics (Edward Slowik)](d/descartes-physics.md)
   * [笛卡尔的观念论 theory of ideas (Kurt Smith)](d/descartes-ideas.md)
-  * [笛卡尔的伦理学 Descartes’ Ethics (Denis Kambouchner and Louis Rouquayrol)](d/descartes-ethics.md)
+  * [笛卡尔的伦理学 Descartes's Ethics (Denis Kambouchner and Louis Rouquayrol)](d/descartes-ethics.md)
 * [笛卡尔与松果体 and the pineal gland (Gert-Jan Lokhorst)](p/pineal-gland.md)
 * [约翰内斯·克劳伯格 Johannes Clauberg (Nabeel Hamid)](c/clauberg.md)
 * [热罗·德·科尔德穆瓦 Cordemoy, Géraud de (Fred Ablondi)](c/cordemoy.md)

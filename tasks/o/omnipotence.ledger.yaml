@@ -656,64 +656,99 @@ segments:
     kind: body
     source: |-
       Flint and Freddoso’s account of what it is for an agent *S* at a time *t* to be omnipotent in a possible world *W* is formulated as follows.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      弗林特与弗雷多索关于行动者 *S* 在可能世界 *W* 中于时刻 *t* 全能是什么意思的说明，表述如下。
+    step2: |-
+      弗林特与弗雷多索的说明，回答“行动者 *S* 在可能世界 *W* 中于时刻 *t* 全能”是什么意思，其表述如下。
+
   - id: 72
     kind: body
     source: |-
       *S* is omnipotent at *t* in *W* if and only if for any state of affairs *p* and world-type-for-*S* $Ls$ such that *p* is not a member of $Ls$, if there is a world $W^*$ such that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *S* 在 *W* 中于 *t* 全能，当且仅当：对任何事态 *p* 与 *S* 的世界类型 $Ls$，只要 *p* 不是 $Ls$ 的成员，若存在世界 $W^*$ 使得
+    step2: |-
+      *S* 在 *W* 中于 *t* 全能，当且仅当：对任何事态 *p* 与 *S* 的世界类型 $Ls$，只要 *p* 不是 $Ls$ 的成员，若存在一个世界 $W^*$，使得
+
   - id: 73
     kind: body
     source: |-
       1. $Ls$ is true in both *W* and $W^*$, and
       2. $W^*$ shares the same history with *W* at *t*, and
       3. at *t* in $W^*$ someone actualizes *p*, then *S* has the power at *t* in *W* to actualize *p* (Flint & Freddoso 1983, p. 99)[^flint-1983].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. $Ls$ 在 *W* 与 $W^*$ 中都真，且
+      2. $W^*$ 在 *t* 时与 *W* 历史相同，且
+      3. 在 $W^*$ 中 *t* 时有人现实化 *p*，则 *S* 在 *W* 中 *t* 时有力量现实化 *p*（Flint & Freddoso 1983, p. 99）[^flint-1983]。
+    step2: |-
+      1. $Ls$ 在 *W* 与 $W^*$ 中都为真；
+      2. $W^*$ 在 *t* 时与 *W* 历史相同；
+      3. 在 $W^*$ 中 *t* 时有人现实化了 *p*；
+      那么，*S* 在 *W* 中 *t* 时有力量现实化 *p*（Flint & Freddoso 1983, p. 99）[^flint-1983]。
+
   - id: 74
     kind: body
     source: |-
       The notion of a world-type-for-*S* $Ls$ is to be understood in the following way. A *world-type* is “a set which is such that for any *counterfactual of freedom*, i.e., any proposition which can be expressed by a sentence of the form ‘If individual essence *P* were instantiated in circumstances *C* at time *t* and its instantiation were left free with respect to action *A*, the instantiation of *P* would freely do *A*’—either that counterfactual or its negation is a member of the set” (Flint & Freddoso 1983, p. 96)[^flint-1983]. It may also be stipulated “that for any two members of the set, the conjunction of those two members is a member of the set as well” (Flint & Freddoso 1983, pp. 96–97)[^flint-1983]. Moreover, “a world-type is *true* just in case every proposition which is a member of it is true” (Flint & Freddoso 1983, p. 97)[^flint-1983]. In addition, it is presupposed that “for any free agent *x*, there will be a set of all and only those true counterfactuals of freedom (or true negations of such counterfactuals) over whose truth-value *x* has no control” (Flint & Freddoso 1983, p. 97)[^flint-1983]. A set of this kind is referred to as *the world-type-for-x*. Finally, ‘$Lx$’ designates the true-world-type-for-*x*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *S* 的世界类型 $Ls$ 这一概念应如下理解。*世界类型* 是“这样一个集合：对任何 *自由反事实*，即任何可由‘若个体本质 *P* 在时刻 *t* 于境况 *C* 中被例示，且其例示在行动 *A* 方面被留归自由，则 *P* 的例示将自由地做 *A*’这一形式的句子表达的命题，该反事实或其否定是该集合的成员”（Flint & Freddoso 1983, p. 96）[^flint-1983]。还可规定“对集合中任何两个成员，这两个成员的合取也是该集合的成员”（Flint & Freddoso 1983, pp. 96–97）[^flint-1983]。此外，“一个世界类型为 *真*，当且仅当作为其成员的每一命题都真”（Flint & Freddoso 1983, p. 97）[^flint-1983]。另外还预设：“对任何自由行动者 *x*，都会有一个集合，恰由那些 *x* 对其真值无控制力的真自由反事实（或此类反事实的真否定）组成”（Flint & Freddoso 1983, p. 97）[^flint-1983]。此类集合称为 *x 的世界类型*。最后，“$Lx$”指称 *x* 的真世界类型。
+    step2: |-
+      “*S* 的世界类型 $Ls$”这一概念应如下理解。**世界类型** 是“这样一个集合：对任何 **自由反事实**——即任何可由‘若个体本质 *P* 在时刻 *t* 于境况 *C* 中被例示，且其例示在行动 *A* 方面被留归自由，则 *P* 的例示将自由地做 *A*’这一形式的句子表达的命题——该反事实或其否定是该集合的成员”（Flint & Freddoso 1983, p. 96）[^flint-1983]。还可规定“对集合中任何两个成员，这两个成员的合取也是该集合的成员”（Flint & Freddoso 1983, pp. 96–97）[^flint-1983]。此外，“一个世界类型为 **真**，当且仅当作为其成员的每一命题都真”（Flint & Freddoso 1983, p. 97）[^flint-1983]。另外还预设：“对任何自由行动者 *x*，都会有一个集合，恰由那些 *x* 对其真值无控制力的真自由反事实（或此类反事实的真否定）组成”（Flint & Freddoso 1983, p. 97）[^flint-1983]。此类集合称为 *x* 的世界类型。最后，“$Lx$”指称 *x* 的真世界类型。
+
   - id: 75
     kind: body
     source: |-
       The notion of actualization employed in this account of omnipotence calls for some explanation. If an agent, *S*, brings about a state of affairs, *p*, then *S* actualizes *p*. However, this account presupposes that an agent may [*weakly*] actualize another agent’s making a *free* decision without *bringing about* or *causing* that decision. In particular, it is assumed that an agent may weakly actualize a decision that is free in the libertarian sense by bringing about the antecedent of a true “counterfactual of freedom.”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一全能说明所用的“现实化”概念需略作解释。若行动者 *S* 造成事态 *p*，则 *S* 现实化 *p*。但本说明预设：行动者可以［*弱*］现实化另一个行动者作出的 *自由* 决定，而不 *造成* 或 *引起* 该决定。具体说，它假定行动者可以通过造成一个真“自由反事实”的前件，来弱现实化一个自由意志论意义上的自由决定。
+    step2: |-
+      这一全能说明所用的“现实化”概念需略作解释。若行动者 *S* 造成事态 *p*，则 *S* 现实化了 *p*。但本说明预设：行动者可以［**弱**］现实化另一个行动者作出的 **自由** 决定，而不 **造成** 或 **引起** 该决定。具体说，它假定行动者可以通过造成一个真“自由反事实”的前件，来弱现实化一个自由意志论意义上的自由决定。
+
   - id: 76
     kind: body
     source: |-
       The basic idea of this account of omnipotence is that an agent is omnipotent just when he can actualize any state of affairs that it is possible for someone to actualize, except for certain “counterfactuals of freedom”, their consequents, and certain states of affairs that are “accidentally impossible” because of the past.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一全能说明的基本观念是：一个行动者全能，当且仅当他能现实化任何可能有人现实化的事态，但某些“自由反事实”及其后件、以及某些因过去而“偶然不可能”的事态除外。
+    step2: |-
+      这一全能说明的基本观念是：一个行动者全能，当且仅当他能现实化任何可能有人现实化的事态——但某些“自由反事实”及其后件，以及某些因过去而“偶然不可能”的事态，不在此列。
+
   - id: 77
     kind: body
     source: |-
       With respect to so-called counterfactuals of freedom, this account presupposes that some of them, for example,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      就所谓自由反事实而言，这一说明预设其中有些是真的，例如：
+    step2: |-
+      就所谓自由反事实而言，这一说明预设其中有一些是 **真** 的，例如：
+
   - id: 78
     kind: body
     source: |-
       If Jessica were offered the grant, then she would freely decide to accept it,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果有人向杰西卡提供这笔资助，那么她将自由地决定接受它，
+    step2: |-
+      若有人向杰西卡提供这笔资助，她将自由地决定接受它，
+
   - id: 79
     kind: body
     source: |-
       are *true*. Some philosophers hold the contrary view that a subjunctive conditional of this kind is *necessarily* *false*. Why do these philosophers reject the claim that some “counterfactuals of freedom” are true? Presumably, what distinguishes a subjunctive conditional from a corresponding material conditional is that only the former expresses a strong or necessary connection of some sort between the conditions specified by the antecedent and the consequent. Seemingly, the only kinds of strong or necessary connections available in this case are relations [broadly speaking] of either *causation* or *entailment*. Consequently, it appears that the subjunctive conditional under discussion is necessarily false, since if Jessica *freely* decides to accept the grant [in the relevant libertarian sense], then her making that decision is neither *caused* nor *entailed* by her being offered the grant. If the foregoing line of reasoning is correct, then the notion of a true “counterfactual of freedom” is incoherent. Since Flint and Freddoso’s account of omnipotence presupposes that there are such “counterfactuals of freedom,” it can be argued that this account is incoherent.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      是 *真的*。有些哲学家持相反看法：这类虚拟条件句 *必然* 是 *假的*。这些哲学家为何否认某些“自由反事实”为真？大概，虚拟条件句与相应的实质条件句之别在于：只有前者表达前件所指定条件与后件之间某种强或必然的联系。看来，在此情形中可用的强或必然联系，只有［广义而言］ *因果* 或 *蕴含* 关系。因此看来，所讨论的虚拟条件句必然为假，因为若杰西卡［在相关自由意志论意义上］ *自由地* 决定接受资助，那么她作出该决定既非由他人提供资助所 *引起*，也非由之所 *蕴含*。若上述推理正确，则真“自由反事实”这一概念不一致。既然弗林特与弗雷多索的全能说明预设存在此类“自由反事实”，便可论证该说明不一致。
+    step2: |-
+      它是 **真** 的。有些哲学家持相反看法：这类虚拟条件句 **必然** 是 **假** 的。他们为何否认某些“自由反事实”为真？大概，虚拟条件句与相应的实质条件句之别在于：只有前者表达前件所指定条件与后件之间某种强或必然的联系。看来，在此情形中可用的强或必然联系，只有［广义而言］**因果** 或 **蕴含** 关系。因此看来，所讨论的虚拟条件句必然为假：若杰西卡［在相关自由意志论意义上］**自由地** 决定接受资助，那么她作出该决定，既不是由他人提供资助所 **引起**，也不是由之所 **蕴含**。若上述推理正确，则真“自由反事实”这一概念便不一致。既然弗林特与弗雷多索的全能说明预设存在此类“自由反事实”，便可论证该说明不一致。
+
   - id: 80
     kind: body
     source: |-
       Moreover, it can be argued that a state of affairs discussed earlier provides a counter-example to Flint and Freddoso’s account of omnipotence, namely:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外还可论证，前文讨论过的一个事态为弗林特与弗雷多索的全能说明提供了反例，即：
+    step2: |-
+      此外还可以论证，前文讨论过的一个事态为弗林特与弗雷多索的全能说明提供了反例，即：
+
   - id: 81
     kind: body
     source: |-
