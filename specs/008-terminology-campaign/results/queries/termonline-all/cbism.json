@@ -1,0 +1,26 @@
+{
+ "key": "cbism",
+ "term": "CBism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T22:08:19+00:00",
+ "status": "ok",
+ "note": "variant=CBism; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "危机事件压力管理",
+   "en": "critical incident stress management;CISM",
+   "code": "13.071",
+   "standard": "行为医学名词",
+   "subject": "行为医学_自伤行为与自杀行为_自杀行为"
+  },
+  {
+   "cn": "注册信息安全员",
+   "en": "certified information security member (CISM)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

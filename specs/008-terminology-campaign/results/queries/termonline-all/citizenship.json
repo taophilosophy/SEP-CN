@@ -1,0 +1,75 @@
+{
+ "key": "citizenship",
+ "term": "citizenship",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T22:08:20+00:00",
+ "status": "ok",
+ "note": "variant=citizenship; 审定公布名词库=6; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "公民权",
+   "en": "citizenship",
+   "code": "24.037",
+   "standard": "地理学名词",
+   "subject": "地理学_社会与文化地理学"
+  },
+  {
+   "cn": "市民化",
+   "en": "citizenship,residentialization",
+   "code": "01.159",
+   "standard": "城乡规划学名词",
+   "subject": "城乡规划学_城乡规划总述_规划价值观和规划教育"
+  },
+  {
+   "cn": "市民教育",
+   "en": "citizenship education",
+   "code": "12.033",
+   "standard": "教育学名词",
+   "subject": "教育学_成人教育"
+  },
+  {
+   "cn": "罗马公民权",
+   "en": "Roman citizenship",
+   "code": "02.0457",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_罗马"
+  },
+  {
+   "cn": "组织公民行为",
+   "en": "organizational citizenship behavior",
+   "code": "04.0019",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_组织行为与人力资源管理_组织与行为管理"
+  },
+  {
+   "cn": "组织公民行为",
+   "en": "organizational citizenship behavior,OCB",
+   "code": "12.068",
+   "standard": "心理学名词",
+   "subject": "心理学_管理心理学"
+  },
+  {
+   "cn": "公民权",
+   "en": "citizenship",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "组织公民行为",
+   "en": "organizational citizenship behavior\",\"OCB",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "公民权",
+   "en": "citizenship",
+   "code": "3.6.4.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_政治社会学_公民权与公民参与"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

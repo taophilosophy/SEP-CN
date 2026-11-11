@@ -1,0 +1,75 @@
+{
+ "key": "anvaya-vyatirekin",
+ "term": "anvaya-vyatirekin",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T22:08:09+00:00",
+ "status": "ok",
+ "note": "variant=anvaya-vyatirekin; 审定公布名词库=5; 海峡两岸名词对照库=2; 其他来源数据库=2; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "新地岛",
+   "en": "Novaya Zemlya",
+   "code": "01.2325",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震和社会"
+  },
+  {
+   "cn": "安加拉植物区系",
+   "en": "Angara flora",
+   "code": "14.0008",
+   "standard": "植物学名词",
+   "subject": "植物学_古植物学"
+  },
+  {
+   "cn": "安加拉植物群",
+   "en": "Angara flora",
+   "code": "02.097",
+   "standard": "地质学名词",
+   "subject": "地质学_地史学和地层学"
+  },
+  {
+   "cn": "安加拉植物群",
+   "en": "Angara flora,Angaran flora",
+   "code": "04.0393",
+   "standard": "古生物学名词",
+   "subject": "古生物学_古植物学_维管植物"
+  },
+  {
+   "cn": "新地岛试验场",
+   "en": "Novaya Zemlya test site",
+   "code": "09.043",
+   "standard": "放射医学与防护名词",
+   "subject": "放射医学与防护_核武器损伤_核试验与核爆炸"
+  },
+  {
+   "cn": "安加拉植物区系，安加拉植物群",
+   "en": "Angara flora",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "安加拉植物群（=安加拉植物区系）",
+   "en": "Angara flora",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "不二",
+   "en": "Advaya / Non-duality",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "无常",
+   "en": "Anitya / Impermanent",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

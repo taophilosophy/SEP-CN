@@ -1,0 +1,348 @@
+{
+ "key": "alternative splicing",
+ "term": "alternative splicing",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T22:08:07+00:00",
+ "status": "ok",
+ "note": "variant=alternative splicing; 审定公布名词库=912; 海峡两岸名词对照库=315; 其他来源数据库=33; 预公布名词数据库=27; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "可变剪接",
+   "en": "alternative splicing",
+   "code": "5.0275",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_遗传信息传递与基因表达调控_合成与加工_修复"
+  },
+  {
+   "cn": "可变剪接",
+   "en": "alternative splicing",
+   "code": "3.147",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "选择性剪接",
+   "en": "alternative splicing",
+   "code": "04.135",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_遗传育种_分子遗传学"
+  },
+  {
+   "cn": "可变剪接",
+   "en": "alternative splicing",
+   "code": "07.237",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞遗传"
+  },
+  {
+   "cn": "选择性剪接",
+   "en": "alternative splicing",
+   "code": "03.349",
+   "standard": "遗传学名词",
+   "subject": "遗传学_分子遗传学"
+  },
+  {
+   "cn": "选择性剪接因子",
+   "en": "alternative splicing factor,ASF",
+   "code": "03.374",
+   "standard": "遗传学名词",
+   "subject": "遗传学_分子遗传学"
+  },
+  {
+   "cn": "方案",
+   "en": "alternative",
+   "code": "02.0434",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_评价理论与方法"
+  },
+  {
+   "cn": "比较方案",
+   "en": "alternative",
+   "code": "16.074",
+   "standard": "水利科学技术名词",
+   "subject": "水利科学技术_水利经济_经济评价（水利）"
+  },
+  {
+   "cn": "备选方案",
+   "en": "alternative",
+   "code": "03.244",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_自动化技术系统_系统工程"
+  },
+  {
+   "cn": "供选方案",
+   "en": "alternatives",
+   "code": "02.0236",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_决策理论与方法"
+  },
+  {
+   "cn": "供选方案",
+   "en": "alternatives",
+   "code": "011.0033",
+   "standard": "数学名词",
+   "subject": "数学_运筹学_最优化（数学）"
+  },
+  {
+   "cn": "穿插",
+   "en": "alternating",
+   "code": "4.229",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻编辑"
+  },
+  {
+   "cn": "选择性剪接,可变剪接",
+   "en": "alternative splicing",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "可变剪接, 选择性剪接",
+   "en": "alternative splicing",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "可变剪接，选择性剪接",
+   "en": "alternative splicing",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "可变剪接mRNA, 选择性剪接mRNA",
+   "en": "alternatively spliced mRNA",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "选择性剪接mRNA,可变剪接mRNA",
+   "en": "alternatively spliced mRNA",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "选择性RNA剪接,可变RNA剪接",
+   "en": "alternative RNA splicing\",\"alternative RNA processing",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "选择性剪接因子,可变剪接因子",
+   "en": "alternative splicing factor\",\"ASF",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "替代",
+   "en": "alternative",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "交替",
+   "en": "alternation",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "互生",
+   "en": "alternate",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "替代宿主,转主寄主",
+   "en": "alternative host\",\"alternate host",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "迂回路由",
+   "en": "alternate route\",\"alternative route",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "替代能源",
+   "en": "alternative energy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "替代金融",
+   "en": "alternative finance",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "替代支付",
+   "en": "alternative payment",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "替代处罚",
+   "en": "alternative penalty",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "备降机场",
+   "en": "alternate airport",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "接绳",
+   "en": "splice",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "类金融业务",
+   "en": "alternative financial services",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "替代信用模式",
+   "en": "alternative credit model",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "替代性法律服务",
+   "en": "alternative legal service",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "交替芭蕾腿",
+   "en": "ballet leg alternate",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_花样游泳名词"
+  },
+  {
+   "cn": "RNA剪接",
+   "en": "RNA splicing",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "替代性纠纷解决机制",
+   "en": "alternative dispute resolution mechanism",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "替代法",
+   "en": "alternative method",
+   "code": "1.4.4.34",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "替代医疗",
+   "en": "alternative health care",
+   "code": "3.11.4.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_医学社会学_健康服务与制度"
+  },
+  {
+   "cn": "可替代方法",
+   "en": "alternative testing method",
+   "code": "1.5.48",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险监测"
+  },
+  {
+   "cn": "代可可脂",
+   "en": "cocoa butter alternatives",
+   "code": "5.17.31",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_糖果"
+  },
+  {
+   "cn": "复本信度",
+   "en": "alternate-form reliability",
+   "code": "1.2.4.71",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "发酵替代蛋白",
+   "en": "alternative proteins from fermentation",
+   "code": "5.23.32",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_其他食品"
+  },
+  {
+   "cn": "化学溶剂替代试验",
+   "en": "alternative test using chemical solvent",
+   "code": "7.1.58",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品相关产品_食品接触材料及制品"
+  },
+  {
+   "cn": "替代蛋白",
+   "en": "alternative proteins for conventional animal products",
+   "code": "5.23.23",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_其他食品"
+  },
+  {
+   "cn": "代可可脂巧克力制品",
+   "en": "chocolate products with cocoa butter alternatives",
+   "code": "5.17.18",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_糖果"
+  },
+  {
+   "cn": "治乱说",
+   "en": "alternate cycle of chaos and order",
+   "code": "1.1.1.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想"
+  },
+  {
+   "cn": "素肉",
+   "en": "artificial meat from vegetable alternative protein, man-made meat from vegetable alternative protein",
+   "code": "5.23.27",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_其他食品"
+  },
+  {
+   "cn": "代可可脂巧克力",
+   "en": "chocolate with cocoa butter alternatives, compound chocolate",
+   "code": "5.17.17",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_糖果"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

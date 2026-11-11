@@ -1,0 +1,33 @@
+{
+ "key": "artha",
+ "term": "artha",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T22:08:11+00:00",
+ "status": "ok",
+ "note": "variant=artha; 审定公布名词库=0; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "玛尔塔",
+   "en": "Martha",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "默德尔",
+   "en": "Mödl\",\"Martha(德国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "阿赫里奇",
+   "en": "Argerich\",\"Martha(阿根廷)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
