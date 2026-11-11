@@ -331,122 +331,162 @@ segments:
     kind: body
     source: |-
       We can make sense of Hobbes’ direct criticisms of Boyle’s prioritization of experiment with this methodological difference in mind. Hobbes’ view of the foundational role played by first philosophy and mathematics over experiment/experience is clear when he claimed in *Dialogus Physicus* that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      记住这种方法论差异，我们就能理解霍布斯对波义耳把实验置于优先地位的直接批评。霍布斯关于第一哲学与数学对实验/经验的基础地位的看法，在他在《物理学对话》中的断言中十分清楚：
+    step2: |-
+      记住这一方法论分歧，霍布斯对波义耳实验优先论的直接批评便可理解。第一哲学与数学相对于实验/经验的基础地位，霍布斯在《物理学对话》中说得很清楚：
   - id: 42
     kind: body
     source: |-
       > …ingenuity is one thing and method is another. Here method is needed. The causes of those things done by motion are to be investigated through a knowledge of motion, the knowledge of which, the noblest part of geometry, is hitherto untouched. (DP 347; OL IV.236)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……机巧是一回事，方法又是一回事。这里需要的是方法。那些由运动完成的事物的诸原因，要通过关于运动的知识来探究；而关于运动的知识，即几何学最高贵的部分，至今无人触及。（DP 347; OL IV.236）
+    step2: |-
+      > ……机巧是一回事，方法是另一回事；这里需要的是方法。凡由运动造成的事物，其诸原因须凭关于运动的知识来探究；而这知识——几何学最高贵的部分——至今无人问津。（DP 347; OL IV.236）
   - id: 43
     kind: body
     source: |-
       According to Hobbes, then, one must have geometrical principles already in place to aid in choosing a supposition before engaging in experiments. Unlike the Royal Society’s aim to have multiple members examine the same object, Hobbes emphasized the need for individual conceptual clarity, something that could be accomplished from an armchair.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，按照霍布斯的说法，在从事实验之前，人们必须已经有几何学原理在手，以帮助选择一个假设。与皇家学会让多名成员考察同一对象的目标不同，霍布斯强调个人概念清晰性的必要，这种清晰性可以在扶手椅中达成。
+    step2: |-
+      依霍布斯之见，从事实验之前，人们须已有几何学原理在手，以辅助挑选假设。皇家学会主张多名成员共同考察同一对象；霍布斯则强调个体概念上的清晰，而这在扶手椅上便可完成。
   - id: 44
     kind: body
     source: |-
       This criticism from Hobbes, and Boyle’s rebuttals relying upon evidence from experiments, could be seen as a conflict of Boyle’s experimental natural philosophy against a form of speculative natural philosophy.[^note-9] However, it is important to avoid taking Hobbes’ criticisms of Boyle’s method to imply that Hobbes completely eschewed experiment/experience while engaging in natural-philosophical explanations. Indeed, Hobbes held that both natural history and civil history are “useful (no, indeed necessary) for philosophy” (CSL 189; OL I.9). Experiment/experience play the role of establishing that some phenomenon occurs, what we have seen Hobbes called the ‘that’, but one should never hope, according to Hobbes, to glean a possible cause from mere observations, even if those observations were carefully documented and repeated many times.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      霍布斯的这一批评，以及波义耳依靠实验证据的反驳，可以被看作波义耳的实验自然哲学对某种思辨自然哲学的冲突。[^note-9] 然而，重要的是避免把霍布斯对波义耳方法的批评理解为：霍布斯在进行自然哲学解释时完全回避实验/经验。事实上，霍布斯认为博物史与文明史都“对哲学有用（不，确实是必需的）”（CSL 189; OL I.9）。实验/经验的作用在于确立某个现象发生，即我们已看到霍布斯所谓的“是什么”；但按照霍布斯的说法，人们永远不要指望从单纯的观察中搜得一个可能的原因，即使那些观察被仔细记录并重复多次。
+    step2: |-
+      霍布斯的批评与波义耳倚重实验证据的反驳，可以被看作波义耳式实验自然哲学同一种思辨自然哲学的交锋。[^note-9] 但要避免把霍布斯对波义耳方法的批评误解为：他在从事自然哲学解释时完全弃绝实验/经验。事实上，霍布斯认为博物史与文明史都“对哲学有用（不，确切说是必需）”（CSL 189; OL I.9）。实验/经验的作用是确立某现象确实发生——即前文所见霍布斯所谓“是什么”；但依霍布斯之见，谁也不该指望从单纯观察中捡出一个可能原因，哪怕这些观察被仔细记录、反复多次。
   - id: 45
     kind: body
     source: |-
       This is clear when in the *Dialogus Physicus* Hobbes, speaking through speaker A, often granted the observational reports of the experimenters without question. For example, speaker A does not question what the experimenters claim they observed regarding a bladder that had been placed inside the air-pump and weighed, noting “They can be certain that the scale in which the bladder is, is more depressed than the other, their eyes bearing witness” (DP 369; OL IV.261). Instead of criticizing the experimenters’ reliance upon observations, speaker A argues that the experimenters cannot know, in the case of this explanation, what the cause of the scale being depressed is because their posited cause (the “natural gravity” of the air) does not allow them to explain why the scale is depressed after the air-pump is engaged. In contrast, speaker A offers a possible cause that is borrowed, with an explicit citation, from Hobbes’ geometrical account of “simple circle motion” and “fermentation” developed in *De Corpore* 21.5 (Adams 2017)[^adams-2017].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一点在《物理学对话》中很清楚：霍布斯借说话者 A 之口，往往不加质疑地接受实验者的观察报告。例如，说话者 A 并不质疑实验者所声称的关于一个被放进空气泵并称重的膀胱的观察，他指出“他们可以确定，装着膀胱的那个秤盘比另一个秤盘下沉得更低，他们的眼睛可以作证”（DP 369; OL IV.261）。说话者 A 并不批评实验者对观察的依赖，而是论证说，在这个解释的情形中，实验者无法知道秤盘下沉的原因是什么，因为他们所设定的原因（空气的“自然重力”）无法让他们解释为什么空气泵启动之后秤盘仍然下沉。相比之下，说话者 A 提出一个可能的原因，它带着明确的引证借自霍布斯在《论物体》21.5 中发展的关于“简单圆周运动”与“发酵”的几何学说明（Adams 2017）[^adams-2017]。
+    step2: |-
+      这一点在《物理学对话》中表现得清楚：霍布斯借说话者 A 之口，往往不假质疑地接受实验者的观察报告。例如，对实验者关于放进空气泵内并称重的膀胱的观察，说话者 A 并不质疑，只说“他们可以确定，盛着膀胱的那个秤盘比另一盘沉得更低，有他们的眼睛作证”（DP 369; OL IV.261）。他并不批评实验者倚重观察，而是论证：在这一解释的情形里，实验者无法知道秤盘为何下沉，因为他们设定的原因（空气的“自然重力”）无法解释空气泵启动之后秤盘为何仍然下沉。与之相对，说话者 A 提出了另一个可能原因，它带着明确引证，借自霍布斯在《论物体》21.5 中阐发的“简单圆周运动”与“发酵”的几何学说明（Adams 2017）[^adams-2017]。
   - id: 46
     kind: body
     source: |-
       ## 4. Hobbes on the Value of Using *Scientia* in Natural Philosophy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 霍布斯论在自然哲学中使用 *scientia* 的价值
+    step2: |-
+      ## 4 霍布斯论在自然哲学中使用 *scientia* 的价值
   - id: 47
     kind: body
     source: |-
       The preceding sections have outlined Hobbes’s views concerning *why* principles from geometry can be used within explanations in natural philosophy and his claim that before engaging in experimentation one must have principles from geometry ready for use. Still one might wonder why Hobbes thought that this approach, inspired by “mixed mathematics”, would be more successful than the methods of Boyle and his colleagues in the Royal Society. Indeed, what was the aim of engaging in natural philosophy according to Hobbes? This section describes Hobbes’ view that the aim of natural philosophy is to bring positive benefits to humans’ quality of life and then contrasts Hobbes’s view on the usefulness and limitations of “prudence” with the usefulness of natural philosophy that employs *scientia*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      前面各节概述了霍布斯关于*为什么*几何学原理可以用于自然哲学解释的看法，以及他的主张：在从事实验之前必须备好来自几何学的原理以供使用。人们仍可能想知道，霍布斯为什么认为这种受“混合数学”启发的进路会比波义耳及其皇家学会同事的方法更成功。实际上，按霍布斯的说法，从事自然哲学的目的何在？本节说明霍布斯的观点：自然哲学的目的是给人类的生活质量带来积极的好处；然后把霍布斯关于“明智”（prudence）之有用性与局限性的看法，与运用 *scientia* 的自然哲学之有用性作对比。
+    step2: |-
+      前文各节概述了霍布斯关于几何学原理*为何*可用于自然哲学解释的看法，以及他的主张：从事实验之前，须备妥几何学原理以供使用。人们或许仍会追问：霍布斯凭什么认为这种受“混合数学”启发的进路，会比波义耳及其皇家学会同侪的方法更成功？说白了，依霍布斯之见，从事自然哲学究竟为了什么？本节先说明霍布斯的观点——自然哲学旨在切实增进人类的生活质量——再把霍布斯对“明智”（prudence）之效用与限度的看法，与运用 *scientia* 的自然哲学之效用相对照。
   - id: 48
     kind: body
     source: |-
       As mentioned already, Hobbes is well known for holding that all ideas in the mind are either from sense or derived from those that are (*Leviathan* I; LEV 22). Hobbes also linked “trains” of ideas in the mind to sense by asserting that just as “we have no Imagination, whereof we have not formerly had Sense, in whole, or in parts; so we have no Transition from one Imagination to another, whereof we never had the like before in our Sense” (*Leviathan* III; LEV 38). Hobbes divided these trains of ideas into those that are guided and those that are unguided. Unguided trains explain what happens when the human mind wanders from idea to idea, such as when daydreaming. Hobbes described these unguided trains as the “wild ranging of the mind”, and he noted that some might think that the connecting points in such trains are by chance even if they are not. He compared such unguided trains to a dialogue between conversants that began on one topic (the present civil war) but over time seemed to drift to other topics by chance (concluding with a question about the price of a Roman penny). Although the connecting points between these topics of conversation (and the trains of ideas they signify in each conversant’s mind) may not be immediately obvious, Hobbes suggested that there was a coherence to each transition. Hobbes traced this coherence in the example he provided as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如前所述，霍布斯以主张心灵中一切观念要么来自感觉、要么派生自来自感觉的观念而著称（《利维坦》I; LEV 22）。霍布斯还把心灵中的观念“序列”（trains）与感觉相连，断言正如“我们没有不曾完整或部分地先前感觉过的想象，同样，我们没有不曾在我们感觉中先有过类似的、从一个想象到另一个想象的过渡”（《利维坦》III; LEV 38）。霍布斯把这些观念序列分为受引导的与不受引导的。不受引导的序列说明人类心灵从一个观念漫游到另一个观念时发生的事情，比如做白日梦时。霍布斯把这些不受引导的序列描述为“心灵的无羁漫游”，并指出，有些人也许会认为这类序列中的连接点是偶然的，即便它们并非偶然。他把这类不受引导的序列比作交谈者之间的一场对话：它从某个话题（当下的内战）开始，但随时间推移似乎偶然漂移到别的话题（最后以关于一枚罗马便士价钱的问题收尾）。尽管这些对话话题之间的连接点（以及它们在每个交谈者心灵中所意味的观念序列）可能并不立刻显明，霍布斯提示说，每次过渡都有其连贯性。霍布斯在他给出的例子中追溯了这种连贯性，如下：
+    step2: |-
+      前文已述，霍布斯以主张心灵中一切观念要么来自感觉、要么派生自来自感觉的观念而知名（《利维坦》I; LEV 22）。他还把心灵中的观念“序列”（trains）系于感觉，断言正如“我们没有一种想象不曾整体或部分地先被我们感觉过，同样，我们也没有一种从一个想象到另一个想象的过渡，不曾有类似者先在我们感觉中出现过”（《利维坦》III; LEV 38）。霍布斯把这些观念序列分为受引导的与不受引导的两类。不受引导的序列说明心灵从一个观念游荡到另一个观念时发生了什么，例如白日梦。霍布斯把这种不受引导的序列称作“心灵的无羁漫游”，并指出：有人或许以为这类序列中的连接点出于偶然，即便它们并非偶然。他把这种序列比作一场对话：谈话从某个话题（眼下的内战）开始，却似乎随时间偶然漂移到别的话题（末了落在一个问题——一枚罗马便士值多少钱）。尽管这些话题之间的连接点（以及它们在每个交谈者心灵中所对应的观念序列）未必一眼可见，霍布斯却提示：每一次过渡都有其连贯。他借下面的例子追索了这种连贯：
   - id: 49
     kind: body
     source: |-
       > … the Thought of the warre, introduced the Thought of the delivering up the King to his Enemies; The Thought of that, brought in the Thought of the delivering up of Christ; and that again the Thought of the 30 pence, which was the price of that treason: and thence easily followed that malicious question; and all this in a moment of time; for Thought is quick. (*Leviathan* III; LEV 40).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……关于战争的念头，引出了把国王交给敌人这个念头；那个念头又引出把基督交出的念头；那个念头又引出三十块钱的念头，那是那次出卖的价钱；由此轻易跟上了那个恶毒的问题；这一切发生在片刻之间，因为念头是迅速的。（《利维坦》III; LEV 40）。
+    step2: |-
+      > ……战争的念头引出了把国王交与仇敌的念头；那念头又引出把基督交出的念头；那念头再引出三十银钱的念头——那正是那次出卖的价钱；由此便轻易接上了那个恶毒的问题。这一切都在片刻之间，因为思想是快的。（《利维坦》III; LEV 40）。
   - id: 50
     kind: body
     source: |-
       Hobbes intended the comparison between this example of a conversation and the way that unguided trains of ideas move from idea to idea to have a general output: no matter how seemingly disconnected the links of any train of ideas may seem, there is always a coherent explanation, whether it is obvious or not, that would explain them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      霍布斯打算让这个对话例子与不受引导的观念序列从一个观念到另一个观念的运动方式之间的比较产生一个一般性的结论：无论任何观念序列的环节看起来多么不相连，总是存在一个连贯的解释，无论它显明与否，能够解释它们。
+    step2: |-
+      霍布斯让这场对话的例子与不受引导的观念序列之推移相互对照，意在一个一般结论：无论一个观念序列的诸环节看上去多么不相连，总有一个连贯的解释可以说明它们——不论这解释是否显明。
   - id: 51
     kind: body
     source: |-
       In contrast to the seemingly disconnected wanderings of the mind that occur with unguided trains, Hobbes saw guided trains of ideas as transitions from idea to idea that were investigated by the mind with some end or goal in view. Say that someone desired to eat a delicious dish that incorporated a particular type of meat and certain spices and herbs. If they desired to bring about that result, they would search through the trains of ideas in their mind, received from past sense experiences, until they found trains that terminated in that goal. When they found a train that had the end result that they were seeking, they would trace back, idea by idea, until they found a “beginning” that was within their current ability to produce (*Leviathan* III; LEV 40). Continuing the example of a desired dish, say that the individual found that a prior train of ideas that termined with the desired end began with harvesting a particular herb at a particular time of year. They would attempt to bring that “beginning” about and, if successful, would move on to the next idea in the train. There are no guarantees that this would work, since the links in the train may be merely probablistically connected to one another. Hobbes held that humans and non-human animals shared this form of reasoning, which he identified as a type of causal inquiry: “…when of an effect imagined, wee seek the causes, or means to produce it” (*Leviathan* III; LEV 40). Given the limitations mentioned already related to knowing the causes of natural phenomena, Hobbes could only have meant that *possible* causes can be identified by this process.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与不受引导序列中看似不相连的心灵漫游相对，霍布斯把受引导的观念序列看作心灵带着某种目的或目标去考察的从一个观念到另一个观念的过渡。假设有人想吃一道美味佳肴，其中包含某种肉以及某些香料和香草。如果他想要实现那个结果，他就会在心中搜寻来自过去感觉经验的观念序列，直到找到终止于那个目标的序列。当他找到一个具有他所寻求的最终结果的序列时，他会一个观念一个观念地往回追溯，直到找到一个在他当前能力之内的“起点”（《利维坦》III; LEV 40）。继续这个想吃的菜的例子，假设这个人发现一个终止于所想结果的先前观念序列始于在一年中特定的时候收割某种香草。他就会尝试促成那个“起点”，如果成功，就转向序列中的下一个观念。没有任何保证这会成功，因为序列中的诸环节可能只是以概率的方式相互连接。霍布斯认为人类与非人类动物共有这种推理形式，他把这种推理确认为一种因果探究：“……当我们想象了一个结果，我们就寻求其原因或产生它的手段”（《利维坦》III; LEV 40）。鉴于前文已经提到的与知道自然现象之原因相关的局限，霍布斯只能是说：通过这一过程能够确认的是*可能的*原因。
+    step2: |-
+      不受引导的序列呈现的是心灵看似不相连的漫游；与之相对，霍布斯把受引导的观念序列看作：心灵带着某种目的或目标去考察、从一个观念过渡到另一个观念。假设有人想吃一道美味的菜，里面有某种肉，还有几种香料与香草。他若想做出这道菜，就会在自己心中搜索得自过往感觉经验的观念序列，直到找到终止于那个目标的序列；一旦找到这样的序列，他便逐个观念往回追溯，直到找到一个目前力所能及的“起点”（《利维坦》III; LEV 40）。接着说这道想吃的菜：假设此人发现，一条终止于所想结果的观念序列，始于在一年中特定的时节收割某种香草，他便着手促成那个“起点”，若成功了，再转向序列中的下一个观念。这未必行得通，因为序列中的环节可能只是概率式地彼此相连。霍布斯认为，人类与非人动物共有这种推理形式，并将其确认为一种因果探究：“……当我们想象出一个结果，便去寻求其原因或产生它的手段”（《利维坦》III; LEV 40）。鉴于前文已述及知晓自然现象之原因的种种限制，霍布斯在此只能是指：经由这一过程能认出的，只是*可能的*原因。
   - id: 52
     kind: body
     source: |-
       Hobbes connects prudence with an ability to engage in this type of reasoning on a broader scale. Individuals who have acquired much experience, and thus have a large stock of trains of ideas at their disposal, can make predictions about future events that may occur. For example, on the basis of cooking hundreds of dishes with hundreds of ingredients, a prudent individual could look at a given list of ingredients and predict whether the outcome will likely be delicious or not. Hobbes thought that the more experience such an individual had, the better the prediction would be: “…by how much one man has more experiences of things past, than another; by so much also he is more Prudent” (*Leviathan* III; LEV 42). Prudence is valuable for the human knower, but no matter how useful prudence may be, Hobbes thought that it could never arise above being based upon mere associational connections between ideas. Instances of *A* have always been followed by *B*, so the prudent person would reason, thus the *A* that has presently occurred will likely be followed by *B*. Hobbes thought that this type of prediction by means of associations amounted to a mere presumption of what the future would look like (*Leviathan* III; LEV 44). In other words, this inference required “supposing like events will follow like actions” (*Leviathan* III; LEV 42), but that supposition might prove false and the inference would fail. Furthermore, any difference between prior antecedents and a current initial condition could result in a failure on the part of the prudent individual to predict successfully, as Hobbes noted: “…the omission of every little circumstance altering the effect, frustrateth the expectation of the most Prudent” (*Leviathan* XLVI; LEV 1052). While useful in many everyday situations, Hobbes thought that prudence showed its limitations when a knower encountered a novel situation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      霍布斯把明智（prudence）与在更大规模上进行这类推理的能力联系在一起。获得大量经验、因而掌握大量观念序列储备的个人，能够对可能发生的未来事件作出预测。例如，基于用几百种配料烹制过几百道菜，一个明智的个人可以看着给定的配料单，预测结果是否可能美味。霍布斯认为，这样的人经验越多，预测就越好：“……一个人对过去事物的经验比别人多多少，他就比别人明智多少”（《利维坦》III; LEV 42）。明智对人类认知者是有价值的，但无论明智多么有用，霍布斯认为它永远不能超乎观念之间单纯的联想式连接之上。*A* 的诸实例总是随后跟着 *B*，明智的人会这样推理：因此现在发生的 *A* 很可能随后跟着 *B*。霍布斯认为，这种通过联想作出的预测无异于对未来样子的单纯臆测（《利维坦》III; LEV 44）。换句话说，这一推理要求“假定相似的事件将跟随相似的行动”（《利维坦》III; LEV 42），但这一假定可能被证明为假，推理随之失败。此外，先前的前件与当前的初始条件之间的任何差异，都可能使明智的个人预测失败，正如霍布斯指出的：“……遗漏任何一个改变结果的微小情节，都会挫败最明智者的预期”（《利维坦》XLVI; LEV 1052）。明智在许多日常情境中有用，但霍布斯认为，当认知者遇到新异情境时，明智便显出其局限。
+    step2: |-
+      霍布斯把明智（prudence）与在更大规模上进行这类推理的能力相连。经验丰富、从而掌握大量观念序列的人，能够对可能发生的未来事件作出预测。例如，一个用几百种配料做过几百道菜的明智者，看着一份配料单就能预测成品是否可能可口。霍布斯认为，此等人的经验越厚，预测越好：“……一个人对既往事物的经验比别人多多少，他便比别人明智多少”（《利维坦》III; LEV 42）。明智对人类认知者有价值；但无论多么有用，霍布斯认为它永远无法超出观念之间单纯的联想连接。明智者会这样推理：*A* 的诸实例总是跟随着 *B*；因此眼下出现的这个 *A* 很可能也跟着 *B*。霍布斯认为，凭联想作出的预测，不过是对未来的一种臆断（《利维坦》III; LEV 44）。换言之，这一推理要求“假定相似的事件将跟随相似的行动”（《利维坦》III; LEV 42）；但这一假定可能落空，推理随之失败。再者，先前前件与当前初始条件之间的任何差异，都可能使明智者的预测失败，霍布斯指出：“……遗漏了任何一个会改变结果的细微情节，就挫败了最明智者的预期”（《利维坦》XLVI; LEV 1052）。明智在许多日常情境中有用，但霍布斯认为，一旦认知者遭遇新异情境，明智便显出其局限。
   - id: 53
     kind: body
     source: |-
       If predictions made upon the basis of associations among ideas were the extent of human knowledge of natural phenomena, it would seem that Hobbes should have wholeheartedly endorsed the approach of the experimental philosophy championed by Boyle and others. What are Boylean experiments if not repeated experiences in which one tries to control for potential confounding variables, at least according to how *Hobbes* saw them (Boyle would not agree with this characterization; see the section on Philosophy of Experiment in the entry on Boyle)? Hobbes saw experienced-based prudence as useful, but he denied that it counted as true knowledge of the future, which he held was available only to the one by whose “will” an event happens (*Leviathan* III; LEV 44). Hobbes’s solution for moving beyond mere associations required knowers to play an active role by creating artificial objects (like the objects of geometry). Such knowledge (*scientia*) was more useful for predictions because it provided power to its holders, as he noted in *De Corpore* 1.6: “knowledge is the for the sake of power [*Scientia propter potentiam*]” (OL I.6).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果基于观念之间联想的预测就是人类对自然现象知识的全部，那么霍布斯似乎应该全力赞同波义耳等人所倡导的实验哲学的进路。波义耳式的实验，如果不是人们试图控制潜在混杂变量的重复经验，又是什么？——至少按*霍布斯*对它们的看法是这样（波义耳不会同意这种刻画；见波义耳词条中关于实验哲学的一节）。霍布斯认为基于经验的明智有用，但他否认它算作对未来的真正知识；在他看来，对未来的真正知识只有那个事件因其“意志”而发生的人才能拥有（《利维坦》III; LEV 44）。霍布斯为超出单纯联想而设的解决方案，要求认知者通过创造人工对象（如几何学的对象）扮演主动的角色。这样的知识（*scientia*）对预测更有用，因为它给其持有者提供力量，如他在《论物体》1.6 中指出的：“知识为了力量 [*Scientia propter potentiam*]”（OL I.6）。
+    step2: |-
+      若基于观念联想的预测就是人类关于自然现象知识的全部，那么霍布斯似乎理应全盘赞同波义耳等人倡导的实验哲学。波义耳式实验，不正是力图控制潜在混杂变量的重复经验吗？——至少按*霍布斯*的眼光如此（波义耳不会接受这种刻画；见波义耳词条“实验哲学”一节）。霍布斯承认基于经验的明智有用，却否认它算得上对未来的真正知识；在他看来，唯有那件事件因其“意志”而发生的人，才拥有这种知识（《利维坦》III; LEV 44）。霍布斯为超出单纯联想开出的解决方案，要求认知者发挥主动作用：亲手创造人工对象（就像几何学的对象）。这样的知识（*scientia*）更有益于预测，因为它赋其持有者以力量——如他在《论物体》1.6 所言：“知识为了力量 [*Scientia propter potentiam*]”（OL I.6）。
   - id: 54
     kind: body
     source: |-
       Unlike association-based predictions, which are limited by the extent to which the prior antecedents resemble a current scenario and rest on a presumption that the future will resemble the past, knowing the causes of some event because one brought it about by one’s will allowed one to understand its true nature. Hobbes thought that this “power” provided direct benefits that improved the quality of human living, such as the marking of “moments in time” and “mapping the face of the earth” (OL I.6–7). Similarly, the science of civil philosophy (discussed more in the next section) could help prevent civil war and other calamities (OL I.8). Hobbes recognized that many citizens may not see the value of *scientia* because they fail to understand it: “For Science is of that nature, as none can understand it to be, but such as in good measure have attayned it” (*Leviathan* X; LEV 134). Furthermore, he admitted that many citizens would confuse the cause of success in the “arts of publique use”; although the reason why such arts produce effective fortifications and other “Instruments of War” lies in their use of principles from the science of geometry, many will think that the inventor of such instruments is responsible and because of this “the Midwife [the artificer] pass[es] with the vulgar for the Mother” when the “mother” is really mathematics (*Leviathan* X; LEV 134).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      基于联想的预测受制于先前前件与当前情形相似的程度，并且立足于未来将与过去相似这一臆测；与之不同，因为某事件是由自己的意志促成的而知道其原因，使人能够理解它的真正本性。霍布斯认为这种“力量”提供了直接的好处，改善人类生活的质量，例如标定“时间的时刻”与“绘制大地的面貌”（OL I.6–7）。同样，公民哲学这门科学（下一节将更多讨论）有助于防止内战和其他灾难（OL I.8）。霍布斯承认，许多公民可能看不到 *scientia* 的价值，因为他们不能理解它：“因为科学的本性是这样：除非在相当程度上已经获得了它，没有人能理解它是科学”（《利维坦》X; LEV 134）。此外，他承认许多公民会混淆“公共用途技艺”中成功的原因；虽然这类技艺之所以能造出有效的工事和其他“战争工具”，原因在于它们使用了几何学科学的原理，但许多人会认为是这些工具的发明者起了作用，因此“接生婆［工匠］在俗人眼中被当成了母亲”，而“母亲”其实是数学（《利维坦》X; LEV 134）。
+    step2: |-
+      基于联想的预测，受制于既往前件与当前情形的相似程度，并立足于“未来将肖似过去”的臆断；与此不同，若某事件出于自己的意志而成就，人们便因亲手促成它而知道其原因，从而理解其真正本性。霍布斯认为这种“力量”直接改善人类生活的品质，例如标定“时刻”与“测绘大地面貌”（OL I.6–7）。同样，公民哲学这门科学（详见下节）有助于防止内战及其他灾祸（OL I.8）。霍布斯承认，许多公民可能看不到 *scientia* 的价值，因为他们无法理解它：“科学的本性如此：唯有在相当程度上已经获得它的人，才能理解它是什么”（《利维坦》X; LEV 134）。他还承认，许多公民会弄错“公共用途技艺”成功的原因：这类技艺之所以能造出坚固的工事与其他“战争工具”，其理据在于它们使用了来自几何学这门科学的原理；然而许多人会以为功劳在工具的发明者，于是“接生婆［工匠］在俗人眼里被当作了母亲”，而真正的“母亲”是数学（《利维坦》X; LEV 134）。
   - id: 55
     kind: body
     source: |-
       If the solution to moving beyond association-based prudence was to use geometrical principles within natural philosophy, why did Hobbes think this? As mentioned already, in *Six Lessons* (1656) Hobbes claimed that because “of natural bodies we know not the construction but seek it from the effects” we can know “only of what [the causes] may be” (EW VII.184). A claim like this might make it seem like the natural philosopher simply guesses cause *might* be responsible for a given phenomenon, but Hobbes held that not all possible causes are on equal epistemic footing. Hobbes’s method of natural philosophy that mixes mathematical principles (the ‘why’) with observations from experience (the ‘that’) rejected what Hobbes thought of as a merely passive approach to understanding nature. In contrast, in the Letter to the Reader of *De Corpore* Hobbes compares philosophizing to God’s act of the creation of the world:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果超出基于联想的明智的办法是在自然哲学中使用几何学原理，霍布斯为什么这样想？如前所述，霍布斯在《六讲》（1656）中主张，由于“对自然物体我们不知道其构造，只能从结果中求之”，我们能知道的只是原因“可能是什么”（EW VII.184）。这样一个主张可能让人觉得自然哲学家只是猜测某个原因*可能*对给定现象负责，但霍布斯认为并非一切可能原因在认识上都地位相等。霍布斯的自然哲学方法把数学原理（“为什么”）与来自经验的观察（“是什么”）混合起来，拒绝了他所认为的那种理解自然的纯粹被动进路。与此相对，在《论物体》的致读者信中，霍布斯把哲学活动比作上帝创造世界的行为：
+    step2: |-
+      若超出联想式明智的出路，是在自然哲学中使用几何学原理，霍布斯何以如此认为？前文已述，霍布斯在《六讲》（1656）中主张：由于“对自然物体我们不知道其构造，只能从结果中求之”，我们只能知道原因“可能是什么”（EW VII.184）。这样的话听来，自然哲学家似乎只是在猜测某个原因*或许*要对给定现象负责；但霍布斯认为，并非一切可能原因在认识上地位相等。他的自然哲学方法把数学原理（“为什么”）与得自经验的观察（“是什么”）混合起来，拒斥了他所理解的那种理解自然的纯粹被动进路。与此相对，在《论物体》致读者信中，霍布斯把哲学思考比作上帝创世的行为：
   - id: 56
     kind: body
     source: |-
       > If you are going to pay serious attention to philosophy, let your reason hover over the confused abyss of your thoughts and experiences. The confused things must be shaken violently, distinguished, and ordered, having been marked with their own names, that is, in method [*Methodo*] it must be according to the creation of things themselves. (OL I. Letter to Reader)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 如果你打算认真关注哲学，就让你的理性翱翔于你的思想与经验的无序深渊之上。那些无序的东西必须被猛烈摇动、被区分、被排序，在用它们自己的名字标记之后；也就是说，在方法 [*Methodo*] 中，必须按照事物本身的创造来进行。（OL I. Letter to Reader）
+    step2: |-
+      > 你若要认真对待哲学，就让你的理性盘旋于你思想与经验的混沌深渊之上。混沌之物必须被猛烈震荡、被区分、被排序，且各有其名；也就是说，在方法 [*Methodo*] 之中，一切都须依事物本身的创造而行。（OL I. Letter to Reader）
   - id: 57
     kind: body
     source: |-
       Unlike what Hobbes saw as the passive approach of conducting and observing experiments, which would provide associations in the form of trains of ideas and eventually prudence, Hobbes thought natural philosophy should imitate God’s activity. The only way for natural philosophy to provide the benefits that Hobbes saw following from it was for it to combine observations with certain knowledge from *scientia*. The result was that explanations in natural philosophy were epistemically between mere associational prudence and the certainty of *scientia*. We could thus characterize explanations in Hobbes’ natural philosophy as having hypothetical certainty. The natural philosopher cannot know with certainty that nature behaves as an explanation claims. However, given that they borrow causal principles from geometry, they can know that *if* nature behaved as they suppose, *then* certain consequences would follow of necessity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与霍布斯所认为的进行和观察实验的那种被动进路不同——那种进路会提供以观念序列为形式的联想，并最终提供明智——霍布斯认为自然哲学应当模仿上帝的活动。自然哲学要提供霍布斯认为随之而来的那些好处，唯一的办法是把观察与来自 *scientia* 的确定知识结合起来。其结果是：自然哲学中的解释在认识上处于单纯的联想式明智与 *scientia* 的确定性之间。因此我们可以把霍布斯自然哲学中的解释刻画为具有假设性的确定性。自然哲学家不能确定地知道自然如某个解释所主张的那样运行。然而，由于他们从几何学借用因果原理，他们能够知道，*如果*自然如他们所设想的那样运行，*那么*某些结果就必然随之而来。
+    step2: |-
+      在霍布斯看来，做实验与观察实验是被动的进路：它提供以观念序列为形式的联想，最终只能提供明智。与之不同，霍布斯主张自然哲学应当效法上帝的活动。自然哲学要带来霍布斯所期许的那些好处，唯一的途径是把观察与来自 *scientia* 的确定知识结合起来。其结果是：自然哲学的解释在认识论上居于单纯的联想式明智与 *scientia* 的确定性之间。就此，我们可以把霍布斯自然哲学中的解释刻画为具有假设的确定性：自然哲学家无法确然知道自然正如某一解释所主张的那样运行；但由于他们从几何学借用因果原理，他们能够知道，*倘若*自然如其所设想的那样运行，*那么*某些结果就必然随之而来。
   - id: 58
     kind: body
     source: |-
       ## 5. The Prospects for a Science of Civil Philosophy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5 公民哲学作为科学的前景
+    step2: |-
+      ## 5 公民哲学作为科学的前景
   - id: 59
     kind: body
     source: |-
       Hobbes thought that he would be renowned as the founder of civil philosophy just as he saw Copernicus as having initiated the “beginning of astronomy”, Galileo as having opened the “gate of natural philosophy universal” with an account of the “nature of motion”, and William Harvey as having first discovered the “science of man’s body” (see the dedicatory epistle to *De Corpore*; EW I.viii). He asserted that while “Natural Philosophy is… young”, civil philosophy itself is “no older than… [his] own book De Cive” (EW I.ix). As a student of historical texts in their original languages,[^note-10] Hobbes was well aware of many works from antiquity to his own time addressing issues relevant to civil philosophy. By claiming civil philosophy was his invention, he intended to deny that any of those preceding works counted as philosophy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      霍布斯认为自己将作为公民哲学的奠基人闻名于世，正如他把哥白尼看作开创了“天文学的开端”、把伽利略看作以对“运动的性质”的说明打开了“普遍自然哲学之门”、把威廉·哈维（William Harvey）看作第一个发现了“人体科学”（见《论物体》的献辞；EW I.viii）。他断言，虽然“自然哲学还……年轻”，公民哲学本身却“不比……他自己的《论公民》更老”（EW I.ix）。作为以原文语言研读历史文本的学生，[^note-10] 霍布斯深知从古代到他自己时代的许多讨论公民哲学相关问题的著作。通过主张公民哲学是他本人的发明，他意在否认此前任何著作算作哲学。
+    step2: |-
+      霍布斯自期以公民哲学奠基人闻名，一如他把哥白尼视作“天文学开端”的开创者、把伽利略视作凭“运动本性”之说开启“普遍自然哲学之门”的人、把威廉·哈维（William Harvey）视作第一个发现“人体科学”的人（见《论物体》献辞；EW I.viii）。他断言：尽管“自然哲学还……年轻”，公民哲学本身却“不比……他自己那部《论公民》更老”（EW I.ix）。霍布斯以原文研读历史文本，[^note-10] 对从古代到他本人时代讨论公民哲学相关问题的许多著作了然于胸。他主张公民哲学为自己所首创，用意正在于否认此前任何一部著作堪称哲学。
   - id: 60
     kind: body
     source: |-
       What did Hobbes see as distinguishing his work in civil philosophy from all predecessors? As points of contrast, Hobbes mentioned the Sophists who “taught … [only how] to dispute” and Christian theologians who introduced “school divinity”, by which Hobbes meant the blending of teachings from Scripture with Aristotle’s philosophy. For the latter, Hobbes saw the best “exorcism” to be the distinction between the subject matters of religion, which were the “rules for honouring God”, and philosophy, which was concerned with the “opinions of private men” (EW I.xi). What distinguished religion from philosophy in this sense, Hobbes continued, is that philosophy provides either demonstrations from definitions or demonstrations from “suppositions not absurd”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      霍布斯认为他的公民哲学工作与此前一切先驱的差别何在？作为对比点，霍布斯提到那些“只教……如何争辩”的智者派，以及引入“经院神学”的基督教神学家——霍布斯所谓经院神学，指把《圣经》的教导与亚里士多德哲学掺和在一起。对后者，霍布斯认为最好的“驱邪”是区分宗教与哲学的主题：宗教的主题是“崇敬上帝的规则”，哲学则关乎“私人的意见”（EW I.xi）。霍布斯接着说，在这种意义上区分宗教与哲学的，是哲学要么提供从定义出发的演证，要么提供从“不荒谬的假设”出发的演证。
+    step2: |-
+      霍布斯凭什么认为自己的公民哲学有别于此前的一切先驱？他举出的对照点有二：一是“只教……如何争辩”的智者派；二是引入“经院神学”的基督教神学家——所谓经院神学，指把《圣经》教义与亚里士多德哲学掺合为一。对后者，霍布斯认为最好的“驱邪术”是分清两方的主题：宗教的主题是“崇敬上帝的规则”，哲学则关乎“私人之人的意见”（EW I.xi）。他接着说，就这种意义而言，宗教与哲学的分别在于：哲学要么从定义出发演证，要么从“不算荒谬的假设”出发演证。
   - id: 61
     kind: body
     source: |-
