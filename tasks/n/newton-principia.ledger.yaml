@@ -355,64 +355,88 @@ segments:
     kind: body
     source: |-
       It is important to recognize that, in calling the referents of the defined terms “quantities,” Newton is assigning them to the ontological category of quantity in Aristotle's sense. Thus force and motion are quantities that have direction as well as magnitude, and it makes no sense to talk of forces as individuated entities or substances. Newton's laws of motion and the propositions derived from them involve relations among quantities, not among objects. In place of “no entity without identity,” we have “no quantity without definite proportions;”[^note-19] and the demand on measurement is to supply values that unequivocally yield an adequate approximation to these definite proportions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      必须认识到，牛顿把被定义术语的所指称为“量”，就是把它们归入亚里士多德意义上的量的本体论范畴。因此，力与运动都是既有方向又有大小的量，把力说成个体化的实体或本体是没有意义的。牛顿的运动定律以及由它们推出的命题，涉及的是量与量之间的关系，而不是对象之间的关系。取代“没有同一性就没有实体”的，是“没有确定的比例就没有量”；[^note-19] 而对测量所提出的要求，则是提供一些数值，能明确给出对这些确定比例的充分近似。
+    step2: |-
+      必须认识到，牛顿把被定义术语的所指称为“量”，就是把它们归入亚里士多德意义上的量的本体论范畴。因此，力与运动都是既有方向又有大小的量，把力说成个体化的实体或本体是没有意义的。牛顿的运动定律以及由它们推出的命题，涉及的是量与量之间的关系，而不是对象之间的关系。取代“没有同一性就没有实体”的，是“没有确定的比例就没有量”；[^note-19] 而对测量的要求，是提供能明确给出对这些确定比例的充分近似的数值。
   - id: 42
     kind: body
     source: |-
       Immediately following the eight definitions is a Scholium on space, time, and motion. One source of confusion in the literature on this scholium is not paying attention to the primary distinction Newton is drawing, which is between “absolute, true, mathematical” motion versus “relative, apparent, common” motion. The naive distinction between true and apparent motion was, of course, entirely commonplace. Moreover, Newton is scarcely introducing it into astronomy. Ptolemy's principal innovation in orbital astronomy — the so-called bi-section of eccentricity — entailed that half of the observed first inequality in the motion of the planets arises from a true variation in speed, and half from an only apparent variation associated with the observer being off center. Similarly, Copernicus's main point was that the second inequality — that is, the observed retrograde motions of the planets — involved not true, but only apparent motions. And the subsequent issue between the Copernican and Tychonic system concerned whether the observed annual motion of the Sun through the zodiac is a true or only an apparent motion of the Sun. So, what Newton is doing in the scholium on space and time is not to introduce a new distinction, but to explicate with more care a distinction that had been fundamental to astronomy for centuries.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      紧接八则定义之后，是一篇关于空间、时间与运动的附释。关于这篇附释的文献中，混乱的一个来源，是没有注意牛顿所划的首要区分，即“绝对的、真实的、数学的”运动与“相对的、表观的、通常的”运动之间的区分。真实运动与表观运动之间的素朴区分，当然完全是寻常的。况且，牛顿几乎算不上把它引入天文学。托勒密在轨道天文学中的主要创新——所谓的偏心率的二分——蕴含：行星运动中观测到的第一不等项有一半来自真实的速度变化，另一半则来自与观察者偏离中心相关的、仅仅表观的变化。同样，哥白尼的要点是：第二不等项，即观测到的行星逆行运动，涉及的不是真实运动，而只是表观运动。随后哥白尼体系与第谷体系之争，则涉及观测到的太阳在黄道上的周年运动究竟是太阳的真实运动还是仅仅表观运动。因此，牛顿在空间与时间附释中所做的，并不是引入一个新区分，而是更仔细地阐明一个数百年来一直是天文学基础的区分。
+    step2: |-
+      紧接八则定义之后，是一篇关于空间、时间与运动的附释。关于这篇附释的文献中，一个混乱来源是没有注意牛顿所作的首要区分，即“绝对的、真实的、数学的”运动与“相对的、表观的、通常的”运动之间的区分。真实运动与表观运动之间的素朴区分，当然完全是寻常的。而且，牛顿几乎没有把它引入天文学。托勒密在轨道天文学中的主要创新——所谓的偏心率的二分——蕴含：行星运动中观测到的第一不等项有一半来自真实的速度变化，另一半则来自与观察者偏离中心相关的、仅仅表观的变化。同样，哥白尼的要点是：第二不等项，即观测到的行星逆行运动，涉及的不是真实运动，而只是表观运动。随后哥白尼体系与第谷体系之争，则涉及观测到的太阳在黄道上的周年运动究竟是太阳的真实运动还是仅仅表观运动。因此，牛顿在空间与时间附释中所做的，并不是引入一个新区分，而是更仔细地阐明一个数百年来一直是天文学基础的区分。
   - id: 43
     kind: body
     source: |-
       The distinctions between “absolute, true, and mathematical” and “relative, apparent, and common” time and space are the conceptual basis Newton employs in laying out the corresponding distinction for motion. He says, “relative, apparent, and common time is any sensible and external measure (precise or imprecise) of duration by motion,” adding a parallel point about absolute space. He points out that the distinction between absolute and relative time has long been part of astronomy insofar as astronomers have long introduced corrections (via the equation of time) to the natural day “in order to measure celestial motions on the basis of a truer time,” and he raises the possibility of there being “no uniform motion by which time may have an exact measure.” Absolute motion is defined as change from one place in absolute space to another. “But since these parts of space cannot be seen and cannot be distinguished from one another by our senses, we use sensible measures in their stead,” adding “it is possible that there is no body truly at rest to which places and motions may be referred” [**P**, 410]. In short, both absolute time and absolute location are quantities that cannot themselves be observed, but instead have to be inferred from measures of relative time and location, and these measures are always only provisional; that is, they are always open to the possibility of being replaced by some new (still relative) measure that is deemed to be better behaved across a variety of phenomena in parallel with the way in which sidereal time was deemed to be preferable to solar time.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “绝对的、真实的、数学的”时间与空间同“相对的、表观的、通常的”时间与空间之间的区分，是牛顿用来为运动铺设相应区分的概念基础。他说：“相对的、表观的、通常的时间，是借运动对延续所作的任何可感的、外在的量度（精确或不精确）”；并补充了关于绝对空间的平行论点。他指出，绝对时间与相对时间之间的区分早已是天文学的一部分，因为天文学家早就对自然日引入校正（通过时差），“以便依据更真实的时间来测量天体运动”；他还提出可能存在“没有一种均匀运动可借以精确量度时间”的情况。绝对运动被定义为从绝对空间中的一个位置到另一个位置的变化。“但由于空间的这些部分不能被看见，也不能被我们的感官彼此区分，我们就用可感的量度来代替它们”；他还补充说，“可能没有任何物体真正静止，可供位置与运动参照”[**P**, 410]。简言之，绝对时间与绝对位置都是本身无法观测的量，只能从相对时间与相对位置的量度中推断出来，而这些量度始终只是临时性的；也就是说，它们始终可能被某种新的（仍然是相对的）量度取代，只要后者被认为在多种现象中表现更好，情形正如恒星时被认为优于太阳时那样。
+    step2: |-
+      “绝对的、真实的、数学的”时间与空间同“相对的、表观的、通常的”时间与空间之间的区分，是牛顿用来为运动铺设相应区分的概念基础。他说：“相对的、表观的、通常的时间，是借运动对延续所作的任何可感的、外在的量度（精确或不精确）”；并补充了关于绝对空间的平行论点。他指出，绝对时间与相对时间之间的区分早已是天文学的一部分，因为天文学家早就对自然日引入校正（通过时差），“以便依据更真实的时间来测量天体运动”；他还提出可能存在“没有一种均匀运动可借以精确量度时间”的情况。绝对运动被定义为从绝对空间中的一个位置到另一个位置的变化。“但由于空间的这些部分不能被看见，也不能被我们的感官彼此区分，我们就用可感的量度来代替它们”；他还补充说，“可能没有任何物体真正静止，可供位置与运动参照”[**P**, 410]。简言之，绝对时间与绝对位置都是本身无法观测的量，只能从相对时间与相对位置的量度中推断出来，而这些量度始终只是暂定的；也就是说，它们始终可能被某种新的（仍然是相对的）量度取代，只要后者被认为在多种现象中表现更好，正如恒星时被认为优于太阳时那样。
   - id: 44
     kind: body
     source: |-
       Notice here the expressed concern with measuring absolute, true, mathematical time, space, and motion, all of which are identified at the beginning of the scholium as quantities. The scholium that follows the eight definitions thus continues their concern with measures that will enable values to be assigned to the quantities in question. Newton expressly acknowledges that these measures are what we would now call theory-mediated and provisional. Measurement is at the very heart of the *Principia*. It pervades the definitions and scholium on space and time precisely because the primary point of this section is to spell out (in Howard Stein's words) “the empirical content of a set of theoretical notions” [Stein, 1967, 281].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里值得注意的是所表达的关切：测量绝对的、真实的、数学的时间、空间与运动，而它们在附释开头都被认定为量。因此，紧接八则定义之后的附释延续了这些定义对量度的关切，这些量度将使得能够给所讨论的量赋值。牛顿明确承认，这些量度就是我们今天所说的受理论中介的、暂定的量度。测量处于《原理》的核心。它贯穿定义以及关于空间与时间的附释，正是因为这一部分的首要之点在于阐明（用霍华德·斯坦的话说）“一组理论概念的经验内容”[Stein, 1967, 281]。
+    step2: |-
+      请注意这里所表达的关切：测量绝对的、真实的、数学的时间、空间与运动，而它们在附释开头都被认定为量。因此，紧接八则定义之后的附释延续了这些定义对量度的关切，这些量度将使得能够给所讨论的量赋值。牛顿明确承认，这些量度就是我们今天所说的受理论中介的、暂定的量度。测量是《原理》的核心。它贯穿定义以及关于空间与时间的附释，正是因为这一部分的首要之点在于阐明（用霍华德·斯坦的话说）“一组理论概念的经验内容”[Stein, 1967, 281]。
   - id: 45
     kind: body
     source: |-
       Accordingly, while Newton's distinctions between absolute and relative time and space provide a conceptual basis for his explicating his distinction between absolute and relative motion, absolute time and space cannot enter directly into empirical reasoning insofar as they are not themselves empirically accessible. In other words, the *Principia* presupposes absolute time and space for purposes of conceptualizing the aim of measurement, but the measurements themselves are always of relative time and space, and the preferred measures are those deemed to be providing the best approximations to the absolute quantities. Newton never presupposes absolute time and space in his empirical reasoning. Motion in the planetary system is referred to the fixed stars, which are provisionally being taken as an appropriate reference for measurement, and sidereal time is provisionally taken as the preferred approximation to absolute time. Moreover, in the corollaries to the laws of motion Newton specifically renounces the need to worry about absolute versus relative motion in two cases:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所以，尽管牛顿对绝对时间与相对时间、绝对空间与相对空间的区分，为阐明绝对运动与相对运动的区分提供了概念基础，但绝对时间与空间本身并不能直接进入经验推理，因为它们本身不是经验上可及的。换句话说，《原理》为了概念化测量的目标而预设绝对时间与空间，但测量本身始终是对相对时间与空间的测量，而被偏好的量度则是那些被认为提供了对绝对量最佳近似的量度。在他的经验推理中，牛顿从未预设绝对时间与空间。行星系统中的运动被参照于恒星，恒星被暂定当作测量的恰当参照，恒星时被暂定当作对绝对时间的首选近似。而且，在运动定律的推论中，牛顿特意在两种情形下放弃了对绝对运动与相对运动之差异的忧虑：
+    step2: |-
+      因此，尽管牛顿关于绝对时间与相对时间、绝对空间与相对空间的区分，为阐明绝对运动与相对运动的区分提供了概念基础，但绝对时间与空间本身并不能直接进入经验推理，因为它们本身不是经验上可及的。换句话说，《原理》为了概念化测量的目标而预设绝对时间与空间，但测量本身始终是对相对时间与空间的测量，而被偏好的量度则是那些被认为提供了对绝对量最佳近似的量度。牛顿从未在他的经验推理中预设绝对时间与空间。行星系统中的运动被参照于恒星，恒星被暂定当作测量的恰当参照，恒星时被暂定当作对绝对时间的首选近似。而且，在运动定律的推论中，牛顿特意在两种情形下放弃了对绝对运动与相对运动之差异的忧虑：
   - id: 46
     kind: body
     source: |-
       > *Corollary 5*. When bodies are enclosed in a given space, their motions in relation to one another are the same whether the space is at rest or whether it is moving uniformly straight forward without circular motion.
       >
       > *Corollary 6*. If bodies are moving in any way whatsoever with respect to one another and are urged by equal accelerative forces along parallel lines, they will all continue to move with respect to one another in the same way as they would if they were not acted on by those forces.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > *推论 5*。当物体被包围在给定空间中时，它们彼此之间的运动，无论该空间静止还是沿直线匀速向前运动而不作圆周运动，都是一样的。
+      >
+      > *推论 6*。如果物体以任何方式彼此相对运动，并受到沿平行方向的相等加速力推动，那么它们彼此之间的相对运动，将与它们不受这些力作用时完全一样。
+    step2: |-
+      > *推论 5*。当物体被包围在给定空间中时，它们彼此之间的运动，无论该空间静止还是沿直线匀速向前运动而不作圆周运动，都是一样的。
+      >
+      > *推论 6*。如果物体以任何方式彼此相对运动，并受到沿平行方向的相等加速力推动，那么它们彼此之间的相对运动，将与它们不受这些力作用时完全一样。
   - id: 47
     kind: body
     source: |-
       So, while the *Principia* presupposes absolute time and space for purposes of conceptualizing absolute motion, the presuppositions underlying all the empirical reasoning about actual motions are philosophically more modest.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，尽管《原理》为了概念化绝对运动而预设绝对时间与空间，不过，关于实际运动的一切经验推理所依据的预设，在哲学上要谦逊得多。
+    step2: |-
+      因此，尽管《原理》为了概念化绝对运动而预设绝对时间与空间，但关于实际运动的一切经验推理背后的预设，在哲学上要谦逊得多。
   - id: 48
     kind: body
     source: |-
       If absolute time and space cannot serve to distinguish absolute from relative motions — more precisely, absolute from relative *changes* of motion — empirically, then what can? Newton answers, “The causes which distinguish true motions from relative motions are the forces impressed upon bodies to generate motion. True motion is neither generated nor changed except by forces impressed upon the moving body itself.” The problem then becomes one of distinguishing the forces impressed on bodies, where forces are quantities; and hence the key issue is whether there are theory-mediated measures of them that yield unequivocal values — in contrast to different measures of the same force that yield different values, the hallmark of relative motion. The famous bucket example that follows is offered as illustrating how forces can be distinguished that will then distinguish between true and apparent motion. The final paragraph of the scholium begins and ends as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果绝对时间与空间不能在经验上用来区分绝对运动与相对运动——更准确地说，区分绝对的运动变化与相对的运动变化——那么，什么能做到这一点？牛顿回答：“区分真实运动与相对运动的原因，是加于物体以产生运动的外加力。真实运动除非由加于运动物体本身的外加力，既不会产生也不会改变。”问题于是变成区分加于物体的那些力，而力是量；因此关键问题在于，是否存在受理论中介的力的量度，能给出明确的值——与此相对，同一力的不同量度给出不同的值，而这正是相对运动的标志。随后著名的水桶例子，就是用来示例如何区分力，进而区分真实运动与表观运动。附释的最后一段开头与结尾如下：
+    step2: |-
+      如果绝对时间与空间不能在经验上用来区分绝对运动与相对运动——更准确地说，区分绝对的运动变化与相对的运动变化——那么什么能？牛顿回答：“区分真实运动与相对运动的原因，是加于物体以产生运动的外加力。真实运动除非由加于运动物体本身的外加力，既不会产生也不会改变。”于是问题变成区分加于物体的力，而力是量；因此关键问题在于，是否存在受理论中介的力的量度，能给出明确的值——与此相对，同一力的不同量度给出不同的值，而这正是相对运动的标志。随后著名的水桶例子，就是用来示例如何区分力，进而区分真实运动与表观运动。附释的最后一段开头与结尾如下：
   - id: 49
     kind: body
     source: |-
       > It is certainly very difficult to find out the true motions of individual bodies and actually to differentiate them from apparent motions, because the parts of that immovable space in which the bodies truly move make no impression on the senses. But the situation is not utterly hopeless…. But in what follows, a fuller explanation will be given of how to determine true motions from their causes, effects, and apparent differences, and, conversely, of how to determine from motions, whether true or apparent, their causes and effects. For this was the purpose for which I composed the following treatise. [**P**, 414f]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 要发现各个物体的真实运动，并实际把它们与表观运动区分开来，确实非常困难，因为物体真正运动于其中的那个不动空间的各部分并不作用于感官。但情况并非毫无希望……不过在下文中，将更充分地说明如何从原因、结果与表观差异来确定真实运动，以及反过来如何从运动（无论真实还是表观）确定其原因与结果。因为这正是我撰写以下论著的目的。[**P**, 414f]
+    step2: |-
+      > 要发现各个物体的真实运动，并实际把它们与表观运动区分开来，确实非常困难，因为物体真正运动于其中的那个不动空间的各部分并不作用于感官。但情况并非毫无希望……不过在下文中，将更充分地说明如何从原因、结果与表观差异来确定真实运动，以及反过来如何从运动（无论真实还是表观）确定其原因与结果。因为这正是我撰写以下论著的目的。[**P**, 414f]
   - id: 50
     kind: body
     source: |-
       What does follow are two books of propositions that provide means for inferring forces from motions and motions from forces and a final book that illustrates how these propositions can be applied to the system of the world first to identify the forces governing motion in our planetary system and then to use them to differentiate between certain true and apparent motions of particular interest. In this respect, the empirical content of the theoretical concepts that Newton has explicated in the section called “Definitions” is inextricably linked with the physical theory presented in the rest of the *Principia*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      接下来是两卷命题，它们提供了从运动推断力、又从力推断运动的手段；最后还有一卷说明如何把这些命题应用于世界体系，首先辨认支配我们行星系统中运动的力，然后利用这些力区分某些特别令人感兴趣的真实运动与表观运动。就此而言，牛顿在题为“定义”的部分所阐明的理论概念的经验内容，与《原理》其余部分所呈现的物理理论不可分割地联系在一起。
+    step2: |-
+      随后是两卷命题，它们提供了从运动推断力、又从力推断运动的手段；最后还有一卷说明如何把这些命题应用于世界体系，首先辨认支配我们行星系统中运动的力，然后利用这些力区分某些特别令人感兴趣的真实运动与表观运动。在这方面，牛顿在题为“定义”的部分所阐明的理论概念的经验内容，与《原理》其余部分所呈现的物理理论不可分割地联系在一起。
   - id: 51
     kind: body
     source: |-
