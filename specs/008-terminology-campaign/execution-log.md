@@ -615,6 +615,27 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
   expression（本条美学「表现」义）、extraversion（审定「外向」为词形差异，人格维度通行「外向性」）、facet（昆虫/电子异义）、
   filtration（农学/化工「过滤」异义）。
 
+### 七、二轮第七批（offset 608–896，22 条，g–m 段补查）
+
+* 审计刷新：一致 779 / 不一致 546 / 查无 2988 / 未查证 5160；自上一留档点（offset 608）以来新增不一致 22 条。
+* **主译变更 3 条（+1 派生）**：
+  * lexicographic order「词典序」→「字典序」（审定·数学名词；`b/belief-merging.md` 2 处、`l/logic-preference.md` 1 处、
+    `r/ramsey-economics.md` 2 处看齐）；派生 leximax「词典最大算子」→「字典最大算子」（`b/belief-merging.md` 1 处），旧形均降亦作。
+  * logical pluralism「逻辑多元论」→「逻辑多元主义」（审定·自然辩证法；词条题名与正文本就用「主义」6 处，登记行归正）；
+  * logical monism「逻辑一元论」→「逻辑一元主义」（同一审定来源，配套对称改形；正文无旧形）。
+* **保留 18 条**，归类：
+  * 通行形为主/语境限定：folklore psychology（审定「民族心理学」为 Völkerpsychologie 异义，本库哲学心灵义「民间心理学」）、
+    homogeneity（现象学语境「齐一性」，审定农学/生化「同质性/均一性」为他义，登记已注亦作）、
+    indivisibility（语义学「不可分」词形，审定「不可分性」为名词形）、infectious agent（流行病学通行「传染因子」，
+    审定免疫学「感染原」）、logical positivism（通行「逻辑实证主义」，审定「逻辑实证论」）、locative media（新媒体艺术「定位媒体」，
+    审定新闻传播「定位媒介」）、Lexicographic 相关之外：Five-Factor Model（审定「人格五因素模型」为全称，正文「五因素模型」）。
+  * 下位/全称短语：higher understanding（中华思想文化「下学上达」全称）、Huang-Lao（「黄老之术/黄老道」下位）、
+    Lvov-Warsaw School（审定「华沙学派」短形）、impetus theory（资源科技「压力动力原理」异义）。
+  * 跨学科同名/假阳性：guṇa（维基垃圾）、Han Shu（「蜀汉」假阳性）、historicity（地理「史实性」）、import（计算机「导入」/
+    经贸「进口」）、incontinence（医学「失禁」）、independence constraint（化工 LICQ 复合词）、left-continuous（审定记法差异）、
+    maieutic reflection（社会学假阳性）。
+
+
 
 
 
