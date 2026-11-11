@@ -500,6 +500,7 @@
 | Brady, Ross | — | Ross Brady | — | — | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Bramhall, John | John | 约翰·布拉姆霍尔 | 英国 | 17 世纪 | hobbes-moral | 学界通行汉译（阿马主教，与霍布斯论战）；凭证 2026-11-09 | 2026-11-09 |
 | Brams, Steven J. | — | 史蒂文·布拉姆斯 | — | — | social-procedures | 学界通行汉译（公平分配与投票研究）；凭证 2026-11-07 | 2026-11-07 |
+| Bräuer | — | 布罗伊尔 | — | — | aesthetic-testimony | 音译（审美证言与本真性论者，2023 年论文作者）；凭证 2026-11-12 | 2026-11-12 |
 | Brand, Stewart | — | 斯图尔特·布兰德 | 美国 | 1938– | it-moral-values | 学界通行音译（《全球概览》创办人）；凭证 2026-11-10 | 2026-11-10 |
 | Brandes, Ernst | — | 恩斯特·布兰德斯 | 德国／汉诺威政论家 | — | august-rehberg | 学界通行音译；仅注内出现，生卒待核；凭证 2026-11-08 | 2026-11-08 |
 | Brandon, Robert | — | 罗伯特·布兰登 | — | — | biology-philosophy | 学界通行汉译（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -1754,7 +1755,6 @@
 | Husik, Isaac | — | 艾萨克·胡西克 | — | — | albo-joseph | 犹太哲学史家（《原则之书》英译者） | 2026-11-07 |
 | Huskey, Harry | — | 哈里·赫斯基 | 美国 | 1916–2017 | computing-history | 学界通行音译（SWAC、Bendix G15 设计者）；凭证 2026-11-10 | 2026-11-09 |
 | Huss, Boaz | — | 博阿兹·胡斯 | 以色列 | 1959– | scholem | 希伯来名音译；凭证 2026-11-08 | 2026-11-08 |
-| Hussein, Saddam | — | 萨达姆·侯赛因 | 伊拉克 | 1937–2006 | immigration | 学界通行汉译（伊拉克前总统）；凭证 2026-11-12 | 2026-11-12 |
 | Husserl, Edmund | — | 埃德蒙德·胡塞尔 | — | — | intentionality-ancient | 学界千年通行汉译 | 2026-11-07 |
 | Hutcheson, Francis | — | 弗兰西斯·哈奇森 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Hutton, Sarah | — | Sarah Hutton（现代学者，保留英文） | — | — | cambridge-platonists | ADR-0022（本词条作者，剑桥柏拉图主义研究）；凭证 2026-11-09 | 2026-11-09 |
