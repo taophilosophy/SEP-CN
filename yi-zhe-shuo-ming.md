@@ -1135,7 +1135,7 @@
 | definitionism | — | 定义主义 | hobbes-science 首译 | 学界惯例（霍布斯公民哲学演证解释通称，亦作“定义式观点”）；凭证 2026-11-11 | 2026-11-11 |
 | deflationary | — | 紧缩（与既有 deflationism=紧缩论 对齐） | 首现（abelard） | 分析哲学文献通行译法；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | degenerating research programme | — | 退化的研究纲领 | 语料回收（lakatos 首译） | 科学研究纲领方法论通行译法；凭证 2026-11-06 | 2026-11-06 |
-| degree of belief | — | 置信度 | 首现（imprecise-probabilities） | 学界惯例（形式认识论通行）；凭证 2026-11-08 | 2026-11-08 |
+| degree of belief | — | 置信度（亦作“信念度”） | 首现（imprecise-probabilities） | 审定名词库作“信念度”（自然辩证法名词，2026-11-11 凭证）；形式认识论两形并用（正文 24:14） | 2026-11-11 |
 | degree of membership | — | 隶属度 | logic-fuzzy | 模糊集合论通行译法；凭证 2026-11-09 | 2026-11-09 |
 | degree of truth | — | 真值度 | logic-fuzzy | 模糊逻辑通行译法（truth-value 真值分列）；凭证 2026-11-09 | 2026-11-09 |
 | deification | — | 神化 | neoplatonism | 宗教哲学通行（希腊语 theosis）；本词条视为伦理学最高目标 | 2026-11-07 |
@@ -1297,7 +1297,7 @@
 | dogmatic doubt | — | 教条式怀疑（托马修斯，与笛卡尔式怀疑相对） | 18thGerman-preKant | 构词直译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
 | dogmatism | — | 独断论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | dokos | — | 臆测 | 首现（xenophanes） | 学界惯例（克塞诺芬尼 B34 用语，与知识对举）；凭证 2026-11-07 | 2026-11-07 |
-| domain ontology | — | 领域本体论 | ontology-is | 学界通行（与 upper ontology 上层本体论 对举）；凭证 2026-11-11 | 2026-11-11 |
+| domain ontology | — | 领域本体论 | ontology-is | 与 upper ontology“上层本体论”对举（本词条体例）；审定名词库作“领域本体”（图书馆/计算机，2026-11-11 凭证），体例保留 | 2026-11-11 |
 | dominant form | — | 主导形式 | langer 首译 | 朗格形式论术语（借福楼拜用语；学界惯例）；凭证 2026-11-08 | 2026-11-08 |
 | dominant illusion | — | 主导幻象 | langer 首译 | 朗格艺术分类术语（各门艺术之主导幻象；与 illusion 幻象 呼应）；凭证 2026-11-08 | 2026-11-08 |
 | dominium | dominium | 所有权（财产支配权） | marsilius-padua | 学界通行（中世纪财产法术语）；凭证 2026-11-08 | 2026-11-08 |
@@ -4267,7 +4267,6 @@
 | saṃkhyā（数目） | संख्या | 数 | early-modern-india | 胜论性质义译（number；与数论派同名分立）；凭证 2026-11-10 | 2026-11-10 |
 | sampling | — | 采样 | digital-art 首译 | 信号处理标准译名；凭证 2026-11-10 | 2026-11-10 |
 | saṃsāra | संसार | 轮回 | 语料回收 | 学界惯例（佛典译语）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
-| saṃsāra | — | 轮回 | yogacara 首译 | 汉传佛典千年通行译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | saṃśaya | संशय | 疑 | early-modern-india | 因明传统译名（十六谛之一；doubt）；凭证 2026-11-10 | 2026-11-10 |
 | saṃskāra | संस्कार | 倾向属性 | early-modern-india | 胜论性质义译（dispositional property；佛典古译“行”备查）；凭证 2026-11-10 | 2026-11-10 |
 | saṃtāna | — | 相续 | yogacara 首译 | 汉传佛典千年通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |

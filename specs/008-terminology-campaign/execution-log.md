@@ -589,6 +589,20 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
   conscientiousness（海峡两岸「严谨性」，大陆通行「尽责性」）、constellation（本雅明「星丛」≠天文「星座」）、
   continuity axiom（审定「连续公理」为 axiom of continuity 名词序，正文 24:0 通行「连续性公理」）、conversion（档案/化工异义）。
 
+### 五、二轮第五批（offset 400–512，17 条，d 段补查）
+
+* 审计刷新：一致 707 / 不一致 506 / 查无 2720 / 未查证 5171；新增不一致 17 条。
+* **主译不变，登记补记 2 条**：degree of belief「置信度」补亦作“信念度”（审定·自然辩证法作“信念度”；正文 24:14 两形并用，
+  取并记以消 ripple）、domain ontology「领域本体论」登记行注明审定作“领域本体”，因与 upper ontology“上层本体论”对举，
+  沿用本词条体例。
+* **保留 15 条**：coproduct（化工「联产品」异义）、corporations（本条社团主义「等级团体」义≠公司）、
+  cosmogony（本条宇宙生成论≠天文「天体演化学」）、cost of natural selection（审定去“的”体例差异）、
+  covering law model（审定「说明的覆盖律模型」为全称短语）、Cut rule（逻辑学界通行「切规则」，审定数学「截规则」）、
+  deduction theorem（社会学假阳性）、default reasoning（海峡两岸「默认推理」，大陆通行「缺省推理」）、dereliction（假阳性）、
+  dharma（维基垃圾）、dialectician（假阳性）、dictator game（假阳性）、disputation（维基命中「九十五条论纲」）、
+  doctrinal paradox（假阳性）、downward causation（术语短形，审定「下向因果关系」为全称）。
+
+
 
 
 
