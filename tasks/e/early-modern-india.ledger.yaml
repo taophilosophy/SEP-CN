@@ -2240,233 +2240,321 @@ segments:
     kind: body
     source: |-
       ## 11. The Ontology of Nonexistence (*abhāva*) and the Semantics of Negative Statements
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 11. 非存在（*abhāva*）的存在论与否定语句的语义
+    step2: |-
+      ## 11. 非存在（*abhāva*）的存在论与否定语句的语义
   - id: 266
     kind: body
     source: |-
       ### 11.1 Motivations
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 11.1 动机
+    step2: |-
+      ### 11.1 动机
   - id: 267
     kind: body
     source: |-
       The later Naiyāyikas develop a remarkable theory of nonexistence. According to them, the *absence* of an object or feature at a particular spatial or temporal location is a state of affairs just as objective as the *presence* of the object or feature there. To Kanāḍa’s original list of six categories (*padārtha*) or types of existent, they therefore add a seventh, ‘absence’ (*abhāva*). This ontological doctrine is underpinned by (i) phenomenological and (ii) semantic considerations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      后期正理论师发展出一套引人注目的非存在理论。按他们的说法，一个对象或特征在特定空间或时间位置的缺席，是与该对象或特征在那里的在场同样客观的事态。因此，他们在迦那陀原来的六种句义（存在者类型）清单上，增添了第七种——“非存在”（*abhāva*）。这一存在论学说由 (i) 现象学与 (ii) 语义两方面的考量支撑。
+    step2: |-
+      后期正理论师琢磨出一套相当惊人的非存在理论。在他们看来，一个对象或特征在某个空间或时间位置上的缺席，跟它在那里的在场一样，都是客观的事态。于是，他们在迦那陀原有的六种句义（即存在者类型）清单之外，又添了第七种——“非存在”（*abhāva*）。这套存在论主张，底下有 (i) 现象学和 (ii) 语义两重考虑撑着。
   - id: 268
     kind: body
     source: |-
       (i) The phenomenological point was that a negative awareness, say that a certain person is not in the room, is a kind of awareness phenomenally distinct from any awareness about what is in the room. Cognition of what is not has an autonomous phenomenology (this idea is notably articulated by Sartre). The principle appealed to is thus:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (i) 现象学要点是：一个否定性的意识，比如“某人不在房间里”，在现象上不同于任何关于房间里有什么的意识。对“不在”的认知有一种自主的现象学（这一想法由萨特特别加以表述）。所以所诉诸的原则是：
+    step2: |-
+      (i) 现象学上的理由是：否定性的意识——比如“某人不在屋里”——在现象上与任何关于“屋里有什么”的意识都不一样。对“不在者”的认知，自有其独立的现象学（这一层，萨特讲得格外清楚）。所以他们援引的原则是：
   - id: 269
     kind: body
     source: |-
       **P₁**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **P₁**
+    step2: |-
+      **P₁**
   - id: 270
     kind: body
     source: |-
       Experiences of nonexistence are phenomenally distinct from, and irreducible to, experiences of existents.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对非存在的经验在现象上区别于、且不可还原为对存在者的经验。
+    step2: |-
+      关于非存在的经验，在现象上不同于关于存在者的经验，并且不能还原为后者。
   - id: 271
     kind: body
     source: |-
       The idea emerges in the Nyāya epistemology with their claim that absence is perceived, and that this perception is a *sui generis* type of perceptual experience, not reducible to a combination of ordinary perception and inference (cf. the sixth type of sensory connection in Uddyotakara’s list).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一想法在正理知识论中出现，伴随他们的主张：非存在可以被知觉，且这种知觉是一种自成一类（*sui generis*）的知觉经验，不能还原为通常知觉与推理的组合（参乌底耶多迦罗清单中第六种感官连接）。
+    step2: |-
+      这个想法在正理知识论里表现为两个主张：非存在可以被知觉；而且这种知觉是自成一类（*sui generis*）的知觉经验，不能化归为普通知觉与推理的拼合（参考乌底耶多迦罗所列的第六种感官连接）。
   - id: 272
     kind: body
     source: |-
       (ii) The semantic point is that the Nyāya espouse a version of the correspondence theory of truth, according to which true sentences correspond to facts. It is alleged that true negative sentences (e.g. “The pot is not on the ground”) correspond to ‘negative facts’. Facts, however, are all, for the Nyāya, of the same basic relational form, ‘bRa’ (they are said to have a qualificand-relation-qualifier structure; i.e. they are complexes of existing entities). This restriction on what constitutes a fact is expressible via the following semantical principle:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (ii) 语义要点是：正理持一种真理符合论，即真句子与事实相符合。据说真的否定句（如“罐不在地上”）符合“否定性事实”。然而对正理来说，一切事实都具有同一种基本关系形式“bRa”（据说它们具有所别—关系—能别结构，即由存在实体构成的复合体）。对什么算事实的这一限制，可用如下语义原则表达：
+    step2: |-
+      (ii) 语义上的理由是：正理主张一种真理符合论——真句子与事实对应。据说，真的否定句（比如“罐不在地上”）对应的是“否定性事实”。可是在正理看来，一切事实都是同一种基本关系形式，即“bRa”（据说事实具有所别—关系—能别结构，也就是由存在实体构成的复合体）。什么能算事实，受这条限制管着，可用下面这条语义原则说出来：
   - id: 273
     kind: body
     source: |-
       **P₂**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **P₂**
+    step2: |-
+      **P₂**
   - id: 274
     kind: body
     source: |-
       Sentences correspond to facts constructed out of simple or complex entities (i.e. entities like ‘a’, ‘absence of a’, ‘a-&-b’, ‘a-or-b’).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      句子对应于由简单或复杂实体（即像“*a*”“*a* 之非存在”“*a*-且-*b*”“*a*-或-*b*”这样的实体）构造而成的事实。
+    step2: |-
+      句子对应于由简单或复杂实体构造而成的事实（这些实体如“*a*”“*a* 的非存在”“*a*-且-*b*”“*a*-或-*b*”）。
   - id: 275
     kind: body
     source: |-
       The principle entails that one cannot use the truth-functional connectives to construct facts, except where they are equivalent to term-logical connectives. (For example, the sentence “Rama and Sita are righteous” is equivalent to “Rama is righteous and Sita is righteous”, but the term-connective in “Rama and Sita are married” is not similarly eliminable in favour of the truth-functional conjunction “Rama is married and Sita is married”.) The point is that a sentence like “The pot is not on the ground” cannot correspond to a fact of the form ‘¬bRa’ (as there are no such facts according to P₂), but must rather correspond to a fact of the form ‘bRā’. Hence the introduction into one’s ontology of negative entities.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一原则意味着：不能用真值函项联结词来构造事实，除非它们等价于词项逻辑联结词。（例如，“罗摩与悉多都是正直的”等价于“罗摩正直且悉多正直”，但“罗摩与悉多结婚了”中的词项联结词，却不能同样消解为真值函项合取“罗摩结婚了且悉多结婚了”。）要点在于：像“罐不在地上”这样的句子，不能对应于“¬bRa”形式的事实（按 P₂ 并无此类事实），而必须对应于“bRā”形式的事实。于是，否定性实体被引入存在论。
+    step2: |-
+      这条原则意味着：真值函项联结词不能用来造事实，除非它们恰好等价于词项逻辑联结词。（比如说，“罗摩与悉多都正直”等于“罗摩正直且悉多正直”；可“罗摩与悉多结婚了”里的词项联结词，就没法这样拆成真值合取“罗摩结婚了且悉多结婚了”。）关键点是：“罐不在地上”这类句子，不能对应“¬bRa”形式的事实（按 P₂，根本没有这种事实），而只能对应“bRā”形式的事实。于是，否定性实体就被请进了存在论。
   - id: 276
     kind: body
     source: |-
       ### 11.2 Temporally and Spatially Located Absence
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 11.2 时间与空间中的非存在
+    step2: |-
+      ### 11.2 时间与空间中的非存在
   - id: 277
     kind: body
     source: |-
       *The Manual of Reason* (TS 85–88) reports the usual Nyāya view that there are four types of absence: prior nonexistence (*prāgabhāva*); posterior nonexistence or ‘destruction’ (*dhvaṃsa*); ‘constant’ or ‘absolute’ absence (*atyantābhāva*); and difference (*anyonyābhāva*). Of these, the first two refer to possible temporal states of a transient object. Suppose we represent the temporal duration of a person *A* by the following line (assuming that he lived between 1650 and 1750):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《理性手册》（TS 85–88）转述正理的通常观点：非存在有四种类型：先无（*prāgabhāva*）；后无或“灭无”（*dhvaṃsa*）；“恒常”或“究竟”无（*atyantābhāva*）；以及别异（*anyonyābhāva*）。其中前两种指一个暂时性对象可能的时间状态。设我们用下面这条线表示某人 *A* 的时间跨度（假定他生活在 1650 至 1750 年之间）：
+    step2: |-
+      《理性手册》（TS 85–88）转述正理的一般说法：非存在分四类：先无（*prāgabhāva*）；后无，即“灭无”（*dhvaṃsa*）；“恒常”或“究竟”无（*atyantābhāva*）；以及别异（*anyonyābhāva*）。前两类说的是一个暂存对象在时间上可能出现的情形。设某人 *A* 的一生可以用下面这条线表示（假定他生于 1650、卒于 1750）：
   - id: 278
     kind: body
     source: |-
       | *t*₁ | 1650 | *t*₂ | 1750 | *t*₃ |   |
       | --- | --- | --- | --- | --- | --- |
       |   |   |   |   |   |   |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      | *t*₁ | 1650 | *t*₂ | 1750 | *t*₃ |   |
+      | --- | --- | --- | --- | --- | --- |
+      |   |   |   |   |   |   |
+    step2: |-
+      | *t*₁ | 1650 | *t*₂ | 1750 | *t*₃ |   |
+      | --- | --- | --- | --- | --- | --- |
+      |   |   |   |   |   |   |
   - id: 279
     kind: body
     source: |-
       At any time *t*₁ prior to 1650, *A* does not yet exist, and at any time *t*₃ later than 1750, *A* no longer exists. In accordance with the above principles, Nyāya reformulates these negative existential claims as positive existential statements about negative entities, namely, the ‘prior absence of *A*’, ‘<*A*’ say, and the ‘posterior absence of *A*’, ‘*A*>’ say. Thus, the first reads:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 1650 之前的任何时刻 *t*₁，*A* 尚未存在；在 1750 之后的任何时刻 *t*₃，*A* 已不存在。按上述原则，正理把这些否定性的存在主张，改写为关于否定性实体的肯定性存在陈述，即“*A* 的先无”，记作“<*A*”，以及“*A* 的后无”，记作“*A*>”。于是，第一句读作：
+    step2: |-
+      在 1650 之前的任一时刻 *t*₁，*A* 还没存在；在 1750 之后的任一时刻 *t*₃，*A* 已经不存在。依照上述原则，正理把这些否定性的存在命题，改写成关于否定性实体的肯定命题——“*A* 的先无”（记作“<*A*”）与“*A* 的后无”（记作“*A*>”）。于是，前一句读作：
   - id: 280
     kind: body
     source: |-
       <*A* exists at *t*₁,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      <*A* 存在于 *t*₁，
+    step2: |-
+      <*A* 存在于 *t*₁，
   - id: 281
     kind: body
     source: |-
       or, since, in the Nyāya idiom, objects are said to be located in time as well as in space,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      或者，由于在正理的说法中，对象既被说成位于空间中，也被说成位于时间中，
+    step2: |-
+      或者说——按正理的讲法，对象既位于时间中，也位于空间中——
   - id: 282
     kind: body
     source: |-
       1. <*A* is located at *t*₁.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. <*A* 位于 *t*₁。
+    step2: |-
+      1. <*A* 位于 *t*₁。
   - id: 283
     kind: body
     source: |-
       Similarly,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      同样，
+    step2: |-
+      同理，
   - id: 284
     kind: body
     source: |-
       1. *A*> is located at *t*₃.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. *A*> 位于 *t*₃。
+    step2: |-
+      1. *A*> 位于 *t*₃。
   - id: 285
     kind: body
     source: |-
       What happens at times such as *t*₂? These are times at which *A* exists or is present (is located). Note, furthermore, that, at *t*₂, there is a posterior absence of <*A* (for the prior absence of *A* is destroyed when *A* comes into existence), which we designate by ‘(<*A*)>’. There is also a prior absence of *A*> (for the posterior absence of *A* does not yet exist), i.e. ‘<(*A*>)’. *The Manual of Reason* (TSD 89E) records the older Naiyāyikas’ claim that these double absences must be identical with the original entity, on pain of an infinite regress. Thus:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 *t*₂ 这样的时刻，情况又如何？这些是 *A* 存在或在场的时刻。还要注意，在 *t*₂，存在着“<*A* 的后无”（因为 *A* 产生时，*A* 的先无即被毁灭），我们记作“(<*A*)>”。同时也存在着“*A*> 的先无”（因为 *A* 的后无尚未存在），即“<(*A*>)”。《理性手册》（TSD 89E）记载了早期正理论师的主张：这些双重非存在必须与原初实体同一，否则无穷倒退。于是：
+    step2: |-
+      那么 *t*₂ 这样的时刻又怎样？这是 *A* 存在、在场的时刻。还要注意，在 *t*₂ 有“<*A* 的后无”（因为 *A* 一产生，*A* 的先无就灭了），我们记作“(<*A*)>”；同时还有“*A*> 的先无”（因为 *A* 的后无尚未出现），即“<(*A*>)”。《理性手册》（TSD 89E）记下了早期正理论师的主张：这些双重非存在必须与原初实体同一，否则就会无穷倒退。于是：
   - id: 286
     kind: body
     source: |-
       (<*A*)> = <(*A*>) = *A*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (<*A*)> = <(*A*>) = *A*。
+    step2: |-
+      (<*A*)> = <(*A*>) = *A*。
   - id: 287
     kind: body
     source: |-
       Later Naiyāyikas apparently disputed this natural identity (which corresponds to the Law of Double Negation in classical logic), on the ground that double negative constructions contain the concept of negation, and hence are logically more complex.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      后期正理论师显然对这一自然的同一（相当于经典逻辑中的双重否定律）有所争议，理由是双重否定结构含有否定概念，因而在逻辑上更复杂。
+    step2: |-
+      后期正理论师似乎不认这条自然的同一（它相当于经典逻辑的双重否定律），理由是：双重否定结构里含否定概念，逻辑上更复杂。
   - id: 288
     kind: body
     source: |-
       A third type of absence, called ‘constant’ or ‘absolute’ absence (*atyantābhāva*) is illustrated by constructions of the form “The pot is not on the ground”. *The Manual of Reason* states (TS 87) that what distinguishes this type of absence is that it is located in the three times—past, present and future. This seems odd, as it might be that the pot is on the ground at some times but not others. Perhaps the point is that the locus of the absence here is a spatial entity rather than a temporal one. For example, the construction “Heat is not in ice” illustrates this kind of absence. Perhaps, furthermore, the force of this negation is that the pot is *never* located on the ground—hence we cannot speak of the prior or posterior absence of the pot (for these concepts are defined in terms of times when the pot is present). (E.g. Udayana’s definition of a substance as that which does not have a constant absence of qualities.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第三类非存在称为“恒常”或“究竟”无（*atyantābhāva*），由“罐不在地上”这类说法示例。《理性手册》（TS 87）说，这类非存在的特征在于它位于三时——过去、现在与未来。这似乎有点怪，因为罐或许有时在地上、有时不在。要点或许是：此处非存在的所在处是一个空间实体，而非时间实体。例如“热不在冰中”便示例这类非存在。此外，这一否定的力量或许在于：罐从未位于地上——因此我们不能说罐的先无或后无（因为这些概念是按罐在场的时间来定义的）。（例如优陀耶那把实体定义为不具有诸性质的恒常非存在者。）
+    step2: |-
+      第三类非存在叫“恒常”或“究竟”无（*atyantābhāva*），例子是“罐不在地上”。《理性手册》（TS 87）说，这类非存在的特点在于：它位于三时之中——过去、现在、未来。这话听着有些奇怪，因为罐可能有时在地上、有时不在。也许要点是：这里非存在的所在处是个空间实体，不是时间实体。再如“热不在冰中”，也示例这类非存在。另外，这个否定的力度也许是说：罐从来就不在地上——因此谈不上罐的先无或后无（这两个概念是按罐在场的时间来定义的）。（比如优陀耶那把实体定义为“不具有诸性质的恒常非存在者”。）
   - id: 289
     kind: body
     source: |-
       The fourth type of absence, ‘difference’ (*anyonyābhāva*), is illustrated by the sentence “The pot is not (the) cloth”. This is to be read as a non-identity statement.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第四类非存在，“别异”（*anyonyābhāva*），由“罐不是布”这句话示例。这应读作一个不同一的陈述。
+    step2: |-
+      第四类非存在叫“别异”（*anyonyābhāva*），例子是“罐不是布”。这句话应读作一个“不同一”的陈述。
   - id: 290
     kind: body
     source: |-
       The Naiyāyikas thus say that every negative sentence is the negation of a sentence of the form “*aRb*”, and they distinguish between cases where the relation *R* is the identity relation and cases where it is a relation other than identity. The object *a* is called the locus of the absence, and the object *b* is called the ‘counterpositive’ or ‘negatum’ (*pratiyogin*) of the absence, i.e. it is the object whose presence in the locus is being denied. This highlights the fact that absences are thought of as a kind of property or ‘locatable’, rather than as a kind of ‘location’ (at least when the relation is not identity). For example, the absence of *A* is located in many places at once. It is not said that there is a distinct absence-of-*A* at each and every place where *A* is absent. We can now see how the Nyāya parse negative sentences without using a sentential negation. Take the sentence “The pot is not blue”. The first-order paraphrase of this would be: It is not the case that the pot is blue (¬*Fa*). The Nyāya strategy is first to say that every property, such as blueness, has both an extension *F* (places where it is located) and a counter-extension *F*′ (places where its absence is located), and then to paraphrase the sentence as: The pot has absence-of-blue. Note that a partially locatable property is one for which the extension and counter-extension overlap—it is possible for a feature to be collocated with its absence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是正理论师说，每个否定句都是对“*aRb*”形式句子的否定；他们区分关系 *R* 为同一关系的情形与 *R* 为非同一关系的情形。对象 *a* 称为非存在的所在处，对象 *b* 称为非存在的“所遮”或“否定项”（*pratiyogin*），即其在该处所的在场被否定的那个对象。这凸显了一个事实：非存在被看作一种属性或“可定位者”，而不是一种“位置”（至少当关系不是同一时如此）。例如，*A* 的非存在同时位于许多地方；但并不会说，在 *A* 缺席的每一个地方都有一个不同的“*A* 之非存在”。现在我们能看出，正理如何在不使用句子否定词的情况下解析否定句。以“罐不是蓝的”为例。它的一阶转述应是：罐是蓝的，这并不成立（¬*Fa*）。正理的策略是：先说每个属性（如蓝色）都有一个外延 *F*（它所在之处）与一个反外延 *F*′（其非存在所在之处），然后把该句转述为：罐具有“蓝之非存在”。注意，部分可定位属性就是外延与反外延重叠的属性——某特征可以与其非存在同处。
+    step2: |-
+      于是正理论师说：每个否定句，都是对一个“*aRb*”形式句子的否定；他们又分出两种情形：*R* 是同一关系，以及 *R* 不是同一关系。对象 *a* 叫非存在的所在处，对象 *b* 叫非存在的“所遮”或“否定项”（*pratiyogin*），也就是“它在该处所的在场正被否定”的那个对象。这透出一个事实：非存在被当作一种属性或“可定位者”，而不是一种“位置”（至少当关系不是同一时）。比方说，*A* 的非存在同时位于许多地方；但正理不会说，*A* 缺席的每一处各有一个不同的“*A* 之非存在”。现在我们能看出，正理怎样不靠句子层面的否定词来解析否定句。拿“罐不是蓝的”来说，一阶逻辑的转述是：罐是蓝的，这并不成立（¬*Fa*）。正理的策略则是：先说每个属性（比如蓝色）都有外延 *F*（它所在之处）与反外延 *F*′（其非存在所在之处），再把句子转述为“罐具有蓝之非存在”。注意，所谓部分可定位属性，就是外延与反外延重叠的属性——一个特征可以和自己的非存在同处。
   - id: 291
     kind: body
     source: |-
       ### 11.3 The Logic of Negation
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 11.3 否定的逻辑
+    step2: |-
+      ### 11.3 否定的逻辑
   - id: 292
     kind: body
     source: |-
       *The Manual of Reason* (TS 89) makes some very interesting observations about the logical properties of absence or negation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《理性手册》（TS 89）就非存在或否定的逻辑性质提出了一些很有意思的观察。
+    step2: |-
+      《理性手册》（TS 89）对非存在（否定）的逻辑性质，提出了几点很有意思的观察。
   - id: 293
     kind: body
     source: |-
       **Reference versus description**. It is claimed that there is a distinction between a qualified absence (*viśiṣṭābhāva*) and a mere absence (*kevalābhāva*). Consider the following pair of sentences:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **指称与描述**。据说，有限定的非存在（*viśiṣṭābhāva*）与纯非存在（*kevalābhāva*）之间有区别。考虑下面这对句子：
+    step2: |-
+      **指称与描述之别**。据说，有定限的非存在（*viśiṣṭābhāva*）与纯非存在（*kevalābhāva*）不是一回事。看下面这对句子：
   - id: 294
     kind: body
     source: |-
       1. Annambhaṭṭa is not in the room, and
       2. The author of *The Manual of Reason* is not in the room.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 阿南跋塔不在房间里，以及
+      2. 《理性手册》的作者不在房间里。
+    step2: |-
+      1. 阿南跋塔不在屋里；
+      2. 《理性手册》的作者不在屋里。
   - id: 295
     kind: body
     source: |-
       The idea is that in (3) the ‘mere’ absence of Annambhaṭṭa is located in the room, whereas in (4) a qualified absence (of Annambhaṭṭa as qualified by authorhood) is located in the room. Do (3) and (4) really have distinct logical forms? Perhaps we find here a realisation that nominal expressions such as “The author of *The Manual of Reason*” have two distinct logical functions, namely those of *referring* to an individual and *describing* an individual *via* his properties. (4) can thus be read either as asserting the same as (3), that Annambhaṭṭa is not in the room, or as saying that the author of *The Manual of Reason*, whoever it or she is, is not in the room, i.e. that the properties “being the author of *The Manual of Reason*” and “being in the room” are not collocated. If that is the sense in which (4) involves a qualified absence, then (3) and (4) do have different logical forms.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其想法是：在 (3) 中位于房间里的是阿南跋塔的“纯”非存在，而在 (4) 中位于房间里的是一个有限定的非存在（阿南跋塔作为被作者身份所限定者的非存在）。(3) 与 (4) 真的有不同逻辑形式吗？或许我们在此看到一种认识：“《理性手册》的作者”这类名词表达式有两种不同的逻辑功能，即指称某个个体，以及通过其属性描述某个个体。于是 (4) 既可读作与 (3) 相同的断言，即阿南跋塔不在房间里；也可读作说《理性手册》的作者（无论此人是谁）不在房间里，即“是《理性手册》的作者”与“在房间里”这两个属性不同所依。若 (4) 涉及限定非存在就是这个意思，那么 (3) 与 (4) 确有不同逻辑形式。
+    step2: |-
+      意思是：在 (3) 里，位于屋里的是阿南跋塔的“纯”非存在；在 (4) 里，位于屋里的则是一个有限定的非存在（阿南跋塔作为“被作者身份所限定者”的非存在）。(3) 和 (4) 真有不同逻辑形式吗？也许这里透出一种认识：“《理性手册》的作者”这类名词短语有两种逻辑功能——指称某个个体，以及借其属性来描述某个个体。所以 (4) 可以读成与 (3) 相同的断言：阿南跋塔不在屋里；也可以读成：《理性手册》的作者，不管此人是谁，不在屋里，也就是“是《理性手册》的作者”与“在屋里”这两个属性不同所依。若 (4) 中的限定非存在是这个意思，那么 (3) 与 (4) 的逻辑形式确实不同。
   - id: 296
     kind: body
     source: |-
       **Universal Quantification**. *The Manual of Reason* draws another very important distinction, between a specific absence (*viśeṣābhāva*) and a generic absence (*sāmānyābhāva*). These are illustrated by the following sentences:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **全称量化**。《理性手册》又作出一个非常重要的区分：特定非存在（*viśeṣābhāva*）与通类非存在（*sāmānyābhāva*）。下列句子示例二者：
+    step2: |-
+      **全称量化**。《理性手册》又分出很重要的一对：特定非存在（*viśeṣābhāva*）与通类非存在（*sāmānyābhāva*）。例子如下：
   - id: 297
     kind: body
     source: |-
       1. (This) pot is not in the room, and
       2. (Any) pot is not in the room
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1.（这）罐不在房间里，以及
+      2.（任何）罐不在房间里
+    step2: |-
+      1.（这）只罐不在屋里；
+      2.（任何）罐都不在屋里。
   - id: 298
     kind: body
     source: |-
       (N.B. they would be expressed by the same sentence in Sanskrit; hence the brackets). To say that there is a specific absence of pot in the room is to say that some particular pot is not in the room, but to say that generic absence of pot in the room is to say that any pot is not in the room (i.e. no pot is in the room). The distinction is thus linked to the formulation of universally quantified constructions. Indeed, in Nyāya logical theory, generic absences are used to formulate the pervasion (*vyāpti*) relation: “where there is smoke there is fire” is contraposed to give “where there is no fire there is no smoke”, and this is expressed by saying that there is a generic absence of smoke in places where there is a generic absence of fire (cf. Ingalls 1951: 54–5)[^ingalls-1951]. It is clear that (5) and (6) do have distinct logical forms. In the Nyāya technical language, the distinction is made out by saying that the property which delimits the counterpositiveness of the absence (i.e. the *pratiyogitāvacchedaka*) is this-pot-hood in (5), but pothood in (6).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （注：在梵语中二者会用同一句话表达，故有括号。）说房间里存在罐的特定非存在，是说某只特定的罐不在房间里；说房间里存在罐的通类非存在，则是说任何罐都不在房间里（即没有罐在房间里）。于是，这一区分与全称量化结构的表述相关。实际上，在正理逻辑理论中，通类非存在被用来表述遍充（*vyāpti*）关系：“凡有烟处即有火”换质为“凡无火处即无烟”，而这被表述为：在通类火之非存在所在之处，存在通类烟之非存在（参 Ingalls 1951: 54–5）[^ingalls-1951]。显然 (5) 与 (6) 有不同逻辑形式。在正理技术语言中，这一区分是这样作出的：限定非存在之所遮性（即 *pratiyogitāvacchedaka*）的属性，在 (5) 中是“这罐性”，在 (6) 中则是“罐性”。
+    step2: |-
+      （注意：在梵语里这两句用同一句话表达，所以加了括号。）说屋里存在罐的特定非存在，意思是某一只特定的罐不在屋里；说屋里存在罐的通类非存在，意思是任何罐都不在屋里（也就是屋里没有罐）。因此，这个区分与全称量化结构的表述挂上了钩。事实上，在正理逻辑理论里，通类非存在正是用来表述遍充（*vyāpti*）关系的：“凡有烟处即有火”换质位，得到“凡无火处即无烟”；而这句话被表述为：在通类火之非存在所在之处，有通类烟之非存在（参考 Ingalls 1951: 54–5）[^ingalls-1951]。显然，(5) 与 (6) 的逻辑形式不同。在正理的技术语言里，这个区分是这样交代的：限定该非存在之所遮性（*pratiyogitāvacchedaka*）的属性，在 (5) 里是“这罐性”，在 (6) 里是“罐性”。
   - id: 299
     kind: body
     source: |-
       **Logical Connectives and De Morgan’s Laws**. *The Manual of Reason* touches on the meaning of conjunctive and disjunctive absence, i.e. absence of (both *A* and *B*) (*ubhayābhāva*) and absence of (either *A* or *B*) (*anyatarābhāva*). It observes that an awareness that two pots are absent is consistent with an awareness that one pot is present (and the other absent). In fact, as Ingalls shows (1951: 63–67) the Nyāya recognised the validity of two general equations:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **逻辑联结词与德摩根律**。《理性手册》触及合取式与析取式非存在的意义，即（*A* 与 *B* 二者）之非存在（*ubhayābhāva*）与（*A* 或 *B* 任一）之非存在（*anyatarābhāva*）。它观察到：意识到两只罐不在，与意识到一只罐在（另一只不在）是相容的。事实上，正如 Ingalls 所示（1951: 63–67），正理承认两个一般等式的有效性：
+    step2: |-
+      **逻辑联结词与德摩根律**。《理性手册》还谈到合取式与析取式非存在的含义，即“（*A* 与 *B*）二者皆无”（*ubhayābhāva*）与“（*A* 或 *B*）任一皆无”（*anyatarābhāva*）。它指出：意识到两只罐都不在，与意识到一只在（另一只不在），并不冲突。事实上，正如 Ingalls 所表明的（1951: 63–67），正理承认下面两个一般等式成立：
   - id: 300
     kind: body
     source: |-
       > absence of (both *A* and *B*) = (absence of *A*) or (absence of *B*), and
       >
       > absence of (either *A* or *B*) = (absence of *A*) and (absence of *B*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > （*A* 与 *B* 二者）之非存在 =（*A* 之非存在）或（*B* 之非存在），以及
+      >
+      > （*A* 或 *B* 任一）之非存在 =（*A* 之非存在）与（*B* 之非存在）。
+    step2: |-
+      > “*A* 与 *B* 二者”之非存在 =（*A* 之非存在）或（*B* 之非存在）；
+      >
+      > “*A* 或 *B* 任一”之非存在 =（*A* 之非存在）与（*B* 之非存在）。
   - id: 301
     kind: body
     source: |-
       These are recognisably versions of De Morgan’s Laws, that ¬(*A* & *B*) ≡ ¬*A* ∨ ¬*B*, and that ¬ (*A*∨*B*) ≡ ¬*A* & ¬*B*. As an example of the second of these laws, consider Mathuranātha’s remark (1951: 66) that a ‘heap’ of (specific) absences (*abhāva-kūṭa*) is equivalent to a generic absence. A place which is the locus of generic absence of fire is a place at which every particular fire is absent, and conversely, if every specific fire is absent, then fire is generically absent. Thus the ‘heap’ (conjunction) of specific absences of fire, is equivalent to the absence of any fire at all (the disjunction of specific fires).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些显然就是德摩根律的版本：¬(*A* & *B*) ≡ ¬*A* ∨ ¬*B*，以及 ¬(*A* ∨ *B*) ≡ ¬*A* & ¬*B*。作为后一律的一个例子，可看 Mathuranātha 的说法（1951: 66）：一个（特定）非存在的“堆”（*abhāva-kūṭa*）等价于一个通类非存在。一个地方若是火的通类非存在之所在处，它就是每一种特定的火都不在的地方；反之，若每一种特定的火都不在，则火通类地不在。于是，火的诸特定非存在的“堆”（合取），等价于“根本没有任何火”（诸特定火的析取）。
+    step2: |-
+      这两个等式一看就是德摩根律的翻版：¬(*A* & *B*) ≡ ¬*A* ∨ ¬*B*，以及 ¬(*A* ∨ *B*) ≡ ¬*A* & ¬*B*。作为后一律的一例，可看 Mathuranātha 的说法（1951: 66）：一堆（特定）非存在（*abhāva-kūṭa*）等价于一个通类非存在。一个地方若为火的通类非存在之所在，那里就是每一种特定的火都不在；反过来，若每一种特定的火都不在，火就是通类地不在。于是，火的诸特定非存在之“堆”（合取），等价于“根本没有任何火”（即诸特定火之析取）。
   - id: 302
     kind: oir
     source: |-
       - [Göttingen Register of Electronic Texts in Indian Languages](http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm), including several in Nyāya and Vaiśeṣika.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - [哥廷根印度语言电子文本登记库](http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm)，其中收录若干正理与胜论文本。
+    step2: |-
+      - [哥廷根印度语言电子文本登记库](http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm)，内含若干正理与胜论典籍。
