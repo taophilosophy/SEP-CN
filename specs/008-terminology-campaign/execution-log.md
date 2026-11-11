@@ -615,6 +615,62 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
   expression（本条美学「表现」义）、extraversion（审定「外向」为词形差异，人格维度通行「外向性」）、facet（昆虫/电子异义）、
   filtration（农学/化工「过滤」异义）。
 
+### 七、二轮第七批（offset 608–896，22 条，g–m 段补查）
+
+* 审计刷新：一致 779 / 不一致 546 / 查无 2988 / 未查证 5160；自上一留档点（offset 608）以来新增不一致 22 条。
+* **主译变更 3 条（+1 派生）**：
+  * lexicographic order「词典序」→「字典序」（审定·数学名词；`b/belief-merging.md` 2 处、`l/logic-preference.md` 1 处、
+    `r/ramsey-economics.md` 2 处看齐）；派生 leximax「词典最大算子」→「字典最大算子」（`b/belief-merging.md` 1 处），旧形均降亦作。
+  * logical pluralism「逻辑多元论」→「逻辑多元主义」（审定·自然辩证法；词条题名与正文本就用「主义」6 处，登记行归正）；
+  * logical monism「逻辑一元论」→「逻辑一元主义」（同一审定来源，配套对称改形；正文无旧形）。
+* **保留 18 条**，归类：
+  * 通行形为主/语境限定：folklore psychology（审定「民族心理学」为 Völkerpsychologie 异义，本库哲学心灵义「民间心理学」）、
+    homogeneity（现象学语境「齐一性」，审定农学/生化「同质性/均一性」为他义，登记已注亦作）、
+    indivisibility（语义学「不可分」词形，审定「不可分性」为名词形）、infectious agent（流行病学通行「传染因子」，
+    审定免疫学「感染原」）、logical positivism（通行「逻辑实证主义」，审定「逻辑实证论」）、locative media（新媒体艺术「定位媒体」，
+    审定新闻传播「定位媒介」）、Lexicographic 相关之外：Five-Factor Model（审定「人格五因素模型」为全称，正文「五因素模型」）。
+  * 下位/全称短语：higher understanding（中华思想文化「下学上达」全称）、Huang-Lao（「黄老之术/黄老道」下位）、
+    Lvov-Warsaw School（审定「华沙学派」短形）、impetus theory（资源科技「压力动力原理」异义）。
+  * 跨学科同名/假阳性：guṇa（维基垃圾）、Han Shu（「蜀汉」假阳性）、historicity（地理「史实性」）、import（计算机「导入」/
+    经贸「进口」）、incontinence（医学「失禁」）、independence constraint（化工 LICQ 复合词）、left-continuous（审定记法差异）、
+    maieutic reflection（社会学假阳性）。
+
+### 八、二轮第八批（offset 896–1192，43 条，g–p 段补查）
+
+* 审计刷新：一致 818 / 不一致 586 / 查无 3198 / 未查证 4938；新增不一致 43 条。
+* **主译变更 1 条**：paradigm shift「范式转移」→「范式转换」（审定·自然辩证法；正文两形 1:2，`k/kant-development.md` 看齐，旧形降亦作）。
+* **保留 42 条**，归类：
+  * 通行形为主／词形-标点差异：mark-recapture method（审定「标记重捕法」仅连字符差异）、multiple realizability（通行「多重可实现性」，
+    审定「多重实现性」）、ordinal sum（模糊逻辑 t-范数通行「序和」，审定「序数和」为序数运算）、ordered pair（通行「有序对」，
+    审定「序偶」）、model checking（通行「模型检验」，审定「模型检查/模型校验」）、non-coding RNA（空格体例差异）、
+    multimodality（审定「多模态」名词形）、optogenetics（通行「光遗传学」，审定「光控遗传修饰技术」）、
+    one-time pad（通行「一次性密码本」，审定「一次一密」）、mechanistic explanation（本库 explanation=解释，审定作「机制说明」）、
+    natural magic（科学史通行「自然魔法」，审定「自然巫术」）、niche（本条干细胞生物学「干细胞龛」，审定「生态位」为生态学义）、
+    nativism（本条与经验论相对「先天论」，审定语言学「天赋论」）、operational semantics（本条 Fine 术语直译「算子语义」，
+    登记行已注明与 CS 分义）、oracle（本库 4:0 用「预言机」）、overdetermination（本条因果义「过度决定」，审定马克思主义「多元决定」）、
+    optimality model（生物学哲学通行「最优性模型」，审定生态「最适模型」）、multifactorial disease（流行病学通行「多因子疾病」）、
+    one-to-one correspondence、mark transmission。
+  * 下位/全称短语：measure problem（「不变测度问题」）、moral norm（「医学道德规范」）、optimality 相关、organ failure（「多器官功能衰竭」）。
+  * 跨学科同名/假阳性：manas（《玛纳斯》）、Metaphysical Deduction、ming (name)（日名/祭名）、moral character（人力资源「品德」）、
+    moral/conventional distinction（「德性」）、natural place（资源科技「自然标志地」）、omnisubjectivity、On the Heavens（穹天/平天说）、
+    opponent（奥运「对手」）、ordinary object（消毒学「普通物体表面」）、ordo doctrinae、organic state（材料科学）、
+    parallelism（档案「排比」/机械「平行度」）、paraphrase（音乐「释义曲」）、microworld（物理「微观世界」）、
+    minimax（本条算子名「最小最大算子」，审定「极小化极大」为数学通名）、microbiota（农学/生态「微生物区系」）。
+
+### 九、二轮第九批（offset 1192–1360，19 条，o–p 段补查）
+
+* 审计刷新：一致 844 / 不一致 604 / 查无 3317 / 未查证 4775；新增不一致 19 条，**全部保留现译**：
+  * 下位/全称/词序差异：part-whole relation（审定「整体-部分关系」为反序词）、partial order（「偏序关系模型/完全偏序集」下位）、
+    Peace of Augsburg（审定「奥格斯堡宗教和约」为全称）、perfect number（数学通行「完全数」，审定「完满数」）、
+    pornography（「色情内容/书刊」下位）、portfolio analysis（「技术组合分析」下位）。
+  * 跨学科同名/假阳性：partial support（地理信息系统「局部地址支持」）、participation（社会学「参与」，本条柏拉图「分有」）、
+    physiognomy（植物学「外貌」/医学「容貌」）、Physics（亚里士多德书名≠学科名）、personal projects、phantasia（维基垃圾）、
+    picturesque、pollae myŏnmok（维基垃圾）、positive/negative analogy（测绘「正片」/大气「阳」假阳性）、possible intellect、
+    potentia coactiva、perfection（perfectio / Vollkommenheit 两行，社会学假阳性）。
+
+
+
+
 
 
 

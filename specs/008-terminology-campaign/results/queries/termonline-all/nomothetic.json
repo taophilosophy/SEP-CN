@@ -1,0 +1,54 @@
+{
+ "key": "nomothetic",
+ "term": "nomothetic",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T12:05:09+00:00",
+ "status": "ok",
+ "note": "variant=nomothetic; 审定公布名词库=5; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "位似[的]",
+   "en": "homothetic",
+   "code": "08.0123",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_欧几里得几何学"
+  },
+  {
+   "cn": "单一生成的",
+   "en": "monothetic",
+   "code": "07.0400",
+   "standard": "数学名词",
+   "subject": "数学_泛函分析_遍历理论"
+  },
+  {
+   "cn": "位似变换",
+   "en": "homothetic transformation",
+   "code": "05.0483",
+   "standard": "数学名词",
+   "subject": "数学_分析学_复分析"
+  },
+  {
+   "cn": "位似形",
+   "en": "homothetic figures",
+   "code": "08.0124",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_欧几里得几何学"
+  },
+  {
+   "cn": "单一列类法",
+   "en": "monothetic classification",
+   "code": "04.152",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_分类法"
+  },
+  {
+   "cn": "共相科学",
+   "en": "nomothetic sciences",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

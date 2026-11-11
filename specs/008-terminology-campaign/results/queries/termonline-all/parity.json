@@ -1,0 +1,348 @@
+{
+ "key": "parity",
+ "term": "parity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T13:08:13+00:00",
+ "status": "ok",
+ "note": "variant=parity; 审定公布名词库=1428; 海峡两岸名词对照库=696; 其他来源数据库=168; 预公布名词数据库=270; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "01.37宇称",
+   "en": "parity",
+   "code": "1.037",
+   "standard": "核科学技术名词",
+   "subject": "核科学技术_核物理_核物理基础类"
+  },
+  {
+   "cn": "宇称",
+   "en": "parity",
+   "code": "06.0671",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "产次",
+   "en": "parity",
+   "code": "01.055",
+   "standard": "医学名词 第一分册",
+   "subject": "医学_妇产科学"
+  },
+  {
+   "cn": "奇偶性",
+   "en": "parity,odevity",
+   "code": "04.1831",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_群论"
+  },
+  {
+   "cn": "C 宇称",
+   "en": "C-parity,charge-parity",
+   "code": "09.1506",
+   "standard": "物理学名词",
+   "subject": "物理学_原子核物理学、粒子物理学_粒子物理学"
+  },
+  {
+   "cn": "G 宇称",
+   "en": "G-parity",
+   "code": "09.1507",
+   "standard": "物理学名词",
+   "subject": "物理学_原子核物理学、粒子物理学_粒子物理学"
+  },
+  {
+   "cn": "比价复归",
+   "en": "parity recurrence",
+   "code": "15.038",
+   "standard": "经济学名词",
+   "subject": "经济学_经济体制改革"
+  },
+  {
+   "cn": "宇称守恒",
+   "en": "parity conservation",
+   "code": "06.0672",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "宇称算符",
+   "en": "parity operator",
+   "code": "06.0578",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "宇称破坏",
+   "en": "parity violation",
+   "code": "09.1380",
+   "standard": "物理学名词",
+   "subject": "物理学_原子核物理学、粒子物理学_粒子物理学"
+  },
+  {
+   "cn": "宇称不守恒",
+   "en": "parity nonconservation",
+   "code": "06.0673",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "奇偶检验位",
+   "en": "parity bit",
+   "code": "04.1311",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机硬件_计算机管理"
+  },
+  {
+   "cn": "奇偶性",
+   "en": "parity",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "奇偶性",
+   "en": "parity",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "奇偶[性]",
+   "en": "parity",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "对等原则",
+   "en": "parity principle",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "平衡关税",
+   "en": "parity duty",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "平价",
+   "en": "parity price",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "平价比率",
+   "en": "parity rate",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "平价行情",
+   "en": "parity quotation",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "平价指数",
+   "en": "parity index",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "奇偶[检验]位",
+   "en": "parity bit",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "奇偶检验",
+   "en": "parity detection",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "奇偶违例",
+   "en": "parity violation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "购买力平价",
+   "en": "Purchasing power parity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "当事人",
+   "en": "party, client",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "黄铁矿",
+   "en": "pyrite",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "格挡",
+   "en": "parry",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "拨挡",
+   "en": "parry",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "阶段",
+   "en": "part",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_举重名词"
+  },
+  {
+   "cn": "第三方",
+   "en": "third-party",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "利益有关方",
+   "en": "interested party",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "胸腔",
+   "en": "thoracic cavity chest cavity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "步法规范",
+   "en": "purity of strides",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "第三方物流",
+   "en": "Third-Party logistics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "第三方支付",
+   "en": "Third-Party Payment",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "产次",
+   "en": "parity",
+   "code": "3.5.2.1.3",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_孕产期保健"
+  },
+  {
+   "cn": "性别平等指数",
+   "en": "gender parity index，GPI",
+   "code": "3.2.6.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别与发展"
+  },
+  {
+   "cn": "纯度",
+   "en": "purity",
+   "code": "6.1.3",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_理化检验"
+  },
+  {
+   "cn": "慈善事业",
+   "en": "charity",
+   "code": "4.3.9.17",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会救助"
+  },
+  {
+   "cn": "施舍",
+   "en": "charity",
+   "code": "1.078",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "党的纯洁性建设",
+   "en": "construction of the Partys purity",
+   "code": "03.0788",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "蒸汽纯度",
+   "en": "steam purity",
+   "code": "3.1.3.10.12",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "纯度试验",
+   "en": "purity test",
+   "code": "5.10.4.21",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_食用油脂"
+  },
+  {
+   "cn": "利益方",
+   "en": "interested party",
+   "code": "7.2.2.26.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应"
+  },
+  {
+   "cn": "无产阶级政党",
+   "en": "proletarian party",
+   "code": "03.0199",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "政党",
+   "en": "political party",
+   "code": "03.0215",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "党的纪律",
+   "en": "party discipline",
+   "code": "03.0262",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_列宁斯大林时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

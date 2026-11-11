@@ -1,0 +1,348 @@
+{
+ "key": "palatine count",
+ "term": "palatine count",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T12:53:12+00:00",
+ "status": "ok",
+ "note": "variant=palatine count; 审定公布名词库=546; 海峡两岸名词对照库=151; 其他来源数据库=98; 预公布名词数据库=18; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "计数",
+   "en": "count",
+   "code": "03.0197",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学设备与操作_探测设备"
+  },
+  {
+   "cn": "支数",
+   "en": "count",
+   "code": "03.207",
+   "standard": "水产名词",
+   "subject": "水产_捕捞学"
+  },
+  {
+   "cn": "词频统计",
+   "en": "word count,frequency count",
+   "code": "06.333",
+   "standard": "语言学名词",
+   "subject": "语言学_辞书学_辞书现代化"
+  },
+  {
+   "cn": "腭帆",
+   "en": "palatine velum",
+   "code": "3.1.1.2.2",
+   "standard": "耳鼻咽喉头颈外科学名词",
+   "subject": "咽喉-头颈外科_咽喉–头颈解剖与组织胚胎"
+  },
+  {
+   "cn": "腭扁桃体",
+   "en": "palatine tonsil",
+   "code": "3.1.1.2.6",
+   "standard": "耳鼻咽喉头颈外科学名词",
+   "subject": "咽喉-头颈外科_咽喉–头颈解剖与组织胚胎"
+  },
+  {
+   "cn": "悬雍垂",
+   "en": "palatine uvula",
+   "code": "01.007",
+   "standard": "麻醉学名词",
+   "subject": "麻醉学_麻醉学基础_呼吸系统_呼吸系统解剖"
+  },
+  {
+   "cn": "腭骨",
+   "en": "palatine bone",
+   "code": "6.0452",
+   "standard": "动物学名词",
+   "subject": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_骨骼系统"
+  },
+  {
+   "cn": "腭腺",
+   "en": "palatine gland",
+   "code": "6.0879",
+   "standard": "动物学名词",
+   "subject": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_消化系统"
+  },
+  {
+   "cn": "腭骨齿",
+   "en": "palatine tooth",
+   "code": "6.0925",
+   "standard": "动物学名词",
+   "subject": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_消化系统"
+  },
+  {
+   "cn": "腭骨",
+   "en": "palatine bone",
+   "code": "01.097",
+   "standard": "运动医学名词",
+   "subject": "运动医学_运动解剖_人体运动执行体系"
+  },
+  {
+   "cn": "腭圆枕",
+   "en": "palatine torus",
+   "code": "02.0060",
+   "standard": "人体解剖学名词",
+   "subject": "人体解剖学_运动系统_中轴骨"
+  },
+  {
+   "cn": "腭骨",
+   "en": "palatine bone",
+   "code": "02.0368",
+   "standard": "人体解剖学名词",
+   "subject": "人体解剖学_运动系统_中轴骨"
+  },
+  {
+   "cn": "腭沟",
+   "en": "palatine groove\",\"palatine sulcus",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "腭板",
+   "en": "palatine shelf",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "腭缝",
+   "en": "palatine raphe",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "腭骨",
+   "en": "palatine bone",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "腭棘",
+   "en": "palatine spine",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "腭嵴",
+   "en": "palatine crest",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "腭腱膜",
+   "en": "palatine aponeurosis",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "腭隆凸",
+   "en": "palatine protuberance",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "腭面",
+   "en": "palatine surface",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "腭突",
+   "en": "palatine process",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "腭腺",
+   "en": "palatine gland",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "腭圆枕",
+   "en": "palatine torus",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "读秒",
+   "en": "count",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "计分",
+   "en": "count",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "球数",
+   "en": "count",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "读秒",
+   "en": "count the seconds\",\"count",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "数八秒",
+   "en": "count of 8\",\"eight count",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "腭骨",
+   "en": "palatine bone",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "计球",
+   "en": "count strokes",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_乒乓球名词"
+  },
+  {
+   "cn": "数十秒",
+   "en": "count of 10",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "有效箭",
+   "en": "counted arrow",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "每分钟计数",
+   "en": "Counts per minute",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "法院",
+   "en": "Court",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "上器械",
+   "en": "mount",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "词语计数",
+   "en": "words count",
+   "code": "1.2.5.17",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "菌落计数",
+   "en": "colony count",
+   "code": "2.1.1.52",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品生物性危害因素"
+  },
+  {
+   "cn": "4π计数法",
+   "en": "4π counting method",
+   "code": "5.3.2.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测技术_α、β粒子辐射监测技术"
+  },
+  {
+   "cn": "体细胞计数",
+   "en": "Somatic cell count",
+   "code": "5.8.22",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_奶类"
+  },
+  {
+   "cn": "活菌培养计数",
+   "en": "surviving bacteria count",
+   "code": "6.2.26.5",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "液体闪烁计数法",
+   "en": "liquid scintillation counting",
+   "code": "5.3.1.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术"
+  },
+  {
+   "cn": "胎动计数",
+   "en": "fetal movement counting",
+   "code": "3.5.2.2.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_孕产期保健"
+  },
+  {
+   "cn": "菌落总数",
+   "en": "aerobic plate count (APC)",
+   "code": "7.9.1.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队营养与食品卫生_军队食品污染"
+  },
+  {
+   "cn": "固定立体角法",
+   "en": "defined-solid angle counting method",
+   "code": "5.1.1.13",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量"
+  },
+  {
+   "cn": "44关节疾病活动度评分",
+   "en": "disease activity score using 28 joint counts, DAS44",
+   "code": "2.1.2.6",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估"
+  },
+  {
+   "cn": "28关节疾病活动度评分",
+   "en": "disease activity score using 28 joint counts, DAS28",
+   "code": "2.1.2.7",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估"
+  },
+  {
+   "cn": "体外γ计数监测甲状腺放射性碘活度",
+   "en": "external gamma-counting for monitoring radioiodine activity in thyroid",
+   "code": "6.3.4.35",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

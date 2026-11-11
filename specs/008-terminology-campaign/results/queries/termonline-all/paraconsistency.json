@@ -1,0 +1,26 @@
+{
+ "key": "paraconsistency",
+ "term": "paraconsistency",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T12:57:43+00:00",
+ "status": "ok",
+ "note": "variant=paraconsistency; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "次协调逻辑",
+   "en": "paraconsistent logic",
+   "code": "08.0045",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_人工智能逻辑"
+  },
+  {
+   "cn": "次协调逻辑",
+   "en": "Paraconsistent logic",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,40 @@
+{
+ "key": "operationalism",
+ "term": "operationalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T12:29:11+00:00",
+ "status": "ok",
+ "note": "variant=operationalism; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "操作主义",
+   "en": "operationalism",
+   "code": "03.144",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向"
+  },
+  {
+   "cn": "知识操作化",
+   "en": "knowledge operationalization",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "操作主义",
+   "en": "operationalism",
+   "code": "03.144",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向"
+  },
+  {
+   "cn": "操作化",
+   "en": "operationalization",
+   "code": "1.2.4.32",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,33 @@
+{
+ "key": "prabhakara",
+ "term": "Prābhākara",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T14:21:48+00:00",
+ "status": "ok",
+ "note": "variant=Prābhākara; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "PR方程",
+   "en": "Peng-Robinson equation,PR equation",
+   "code": "02.137",
+   "standard": "化学工程名词",
+   "subject": "化学工程_化工热力学_流体的P-T-V关系"
+  },
+  {
+   "cn": "BH结构域",
+   "en": "Bcl-2 homology domain;BH domain",
+   "code": "8.025",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体"
+  },
+  {
+   "cn": "PR［状态］方程",
+   "en": "Peng-Robinson equation",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,26 @@
+{
+ "key": "prama",
+ "term": "pramā",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T14:29:19+00:00",
+ "status": "ok",
+ "note": "variant=pramā; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "并行随机存取机",
+   "en": "parallel random access machine,PRAM",
+   "code": "02.0867",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_算法设计与分析"
+  },
+  {
+   "cn": "相变存储器",
+   "en": "phase change random access memory,PRAM,PCM",
+   "code": "04.0361",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机硬件_存储设备"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

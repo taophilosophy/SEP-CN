@@ -1,0 +1,348 @@
+{
+ "key": "privation",
+ "term": "privation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T15:06:51+00:00",
+ "status": "ok",
+ "note": "variant=privation; 审定公布名词库=250; 海峡两岸名词对照库=88; 其他来源数据库=16; 预公布名词数据库=35; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "私有化",
+   "en": "Privatization",
+   "code": "06.169",
+   "standard": "经济学名词",
+   "subject": "经济学_发展经济学"
+  },
+  {
+   "cn": "民营化",
+   "en": "privatization",
+   "code": "11.0151",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_公共管理_基本概念"
+  },
+  {
+   "cn": "私家园林",
+   "en": "private garden",
+   "code": "02.0027",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林史_中国"
+  },
+  {
+   "cn": "私人档案",
+   "en": "private archives",
+   "code": "01.02.007",
+   "standard": "档案学名词",
+   "subject": "档案学_总论_档案及其种类"
+  },
+  {
+   "cn": "私人文件",
+   "en": "private records",
+   "code": "02.01.003",
+   "standard": "档案学名词",
+   "subject": "档案学_文件管理_文件概述"
+  },
+  {
+   "cn": "私钥",
+   "en": "private key",
+   "code": "06.02.021",
+   "standard": "档案学名词",
+   "subject": "档案学_电子文件管理_系统与技术"
+  },
+  {
+   "cn": "私人档案库",
+   "en": "private archives",
+   "code": "09.02.006",
+   "standard": "档案学名词",
+   "subject": "档案学_外国档案事业史_外国档案机构"
+  },
+  {
+   "cn": "私有云",
+   "en": "private cloud",
+   "code": "06.320",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_信息基础设施"
+  },
+  {
+   "cn": "自营仓库",
+   "en": "private warehouse",
+   "code": "05.04.065",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_发行与经营_发行物流"
+  },
+  {
+   "cn": "私有云",
+   "en": "private cloud",
+   "code": "06.04.031",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_数字出版_网络出版"
+  },
+  {
+   "cn": "私钥",
+   "en": "private key",
+   "code": "06.04.069",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_数字出版_网络出版"
+  },
+  {
+   "cn": "媒体私有化",
+   "en": "media privatization",
+   "code": "18.022",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播政治经济研究_方法论_核心理论与议题"
+  },
+  {
+   "cn": "私用，专用",
+   "en": "private",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "私人保险，个人保险",
+   "en": "private insurance",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "私人储蓄",
+   "en": "private saving",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "私人存款",
+   "en": "private deposit",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "私人贷款",
+   "en": "private loan",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "私人贸易",
+   "en": "private trade",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "私人票据",
+   "en": "private bill",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "私人票据",
+   "en": "private note",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "私人投资",
+   "en": "private investment",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "私人信贷",
+   "en": "private credit",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "私人银行",
+   "en": "private bank",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "私人债务",
+   "en": "private debt",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "私名",
+   "en": "Private Name",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "私有链",
+   "en": "private blockchain",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "私权利",
+   "en": "private right",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "私法",
+   "en": "private law",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "政府与社会资本合作",
+   "en": "Public-Private Partnership",
+   "code": null,
+   "standard": "外语中文译写规范部际联席会议专家委员会",
+   "subject": "其他"
+  },
+  {
+   "cn": "公私",
+   "en": "Public and Private",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "私募拆分",
+   "en": "private placement split",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "虚拟专用网络",
+   "en": "virtual private network (VPN)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "政务专网",
+   "en": "government services private network",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "私权利扁平化",
+   "en": "flattening of private rights",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据私权",
+   "en": "private right in data",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "私有公用",
+   "en": "privately owned public space (POPS)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "私营化",
+   "en": "privatization",
+   "code": "4.3.4.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论"
+  },
+  {
+   "cn": "私营企业主",
+   "en": "private entrepreneur",
+   "code": "2.6.7.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_当代中国社会分层"
+  },
+  {
+   "cn": "个人开业",
+   "en": "private practice",
+   "code": "4.4.3.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施"
+  },
+  {
+   "cn": "私有制",
+   "en": "private ownership",
+   "code": "02.0011",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "非公立医院",
+   "en": "private hospital",
+   "code": "14.2.1.1.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_医生与医院行为_医院行为"
+  },
+  {
+   "cn": "民间借贷",
+   "en": "private lending",
+   "code": "4.008",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "私德",
+   "en": "private morality",
+   "code": "1.0090000000000001",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "公共与私人",
+   "en": "public and private",
+   "code": "3.2.2.20",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_女性主义"
+  },
+  {
+   "cn": "私人服务机构",
+   "en": "private service agency",
+   "code": "4.4.3.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施"
+  },
+  {
+   "cn": "资本主义私有制",
+   "en": "capitalist private ownership",
+   "code": "02.0175",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "私人资本主义经济",
+   "en": "private capitalist economy",
+   "code": "02.0344",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "私人垄断资本主义",
+   "en": "private monopoly capitalism",
+   "code": "03.0277",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_列宁斯大林时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

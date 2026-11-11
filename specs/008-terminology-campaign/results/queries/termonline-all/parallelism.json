@@ -1,0 +1,285 @@
+{
+ "key": "parallelism",
+ "term": "parallelism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T13:05:13+00:00",
+ "status": "ok",
+ "note": "variant=parallelism; 审定公布名词库=364; 海峡两岸名词对照库=161; 其他来源数据库=24; 预公布名词数据库=3; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "排比",
+   "en": "parallelism",
+   "code": "02.04.040",
+   "standard": "档案学名词",
+   "subject": "档案学_文件管理_公文写作"
+  },
+  {
+   "cn": "平行度",
+   "en": "parallelism",
+   "code": "03.0307",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械设计与制图_机械制图_公差、偏差与配合"
+  },
+  {
+   "cn": "并联[运行]",
+   "en": "paralleling",
+   "code": "07.560",
+   "standard": "电气工程名词",
+   "subject": "电气工程_电机"
+  },
+  {
+   "cn": "平行进化",
+   "en": "parallel evolution;parallelism",
+   "code": "2.0233",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_动物进化"
+  },
+  {
+   "cn": "并行化",
+   "en": "parallelization",
+   "code": "03.0151",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机体系结构_计算机模型"
+  },
+  {
+   "cn": "平行[的]",
+   "en": "parallel",
+   "code": "08.0023",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_欧几里得几何学"
+  },
+  {
+   "cn": "平行线",
+   "en": "parallel,parallel lines",
+   "code": "08.0024",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_欧几里得几何学"
+  },
+  {
+   "cn": "平行连晶",
+   "en": "parallel intergrowth;parallel growth",
+   "code": "02.00.107",
+   "standard": "地质学名词",
+   "subject": "地质学_结晶学"
+  },
+  {
+   "cn": "平行接近",
+   "en": "parallelism approach",
+   "code": "04.1486",
+   "standard": "铁道科学技术名词",
+   "subject": "铁道科学技术_铁道牵引动力"
+  },
+  {
+   "cn": "光学平行性",
+   "en": "optical parallelism",
+   "code": "04.0136",
+   "standard": "物理学名词",
+   "subject": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学"
+  },
+  {
+   "cn": "显式并行性",
+   "en": "explicit parallelism",
+   "code": "03.0158",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机体系结构_计算机模型"
+  },
+  {
+   "cn": "隐式并行性",
+   "en": "implicit parallelism",
+   "code": "03.0157",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机体系结构_计算机模型"
+  },
+  {
+   "cn": "并行性",
+   "en": "parallelism",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "平行进化",
+   "en": "parallelism",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "平行进化",
+   "en": "parallel evolution\",\"parallelism",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "平行进化",
+   "en": "parallel evolution\",\"parallelism",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "平行",
+   "en": "parallel",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "平行线",
+   "en": "parallel",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "纬圈",
+   "en": "parallel",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "并行化",
+   "en": "parallelization",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "数据并行性",
+   "en": "data parallelism",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "显式并行性",
+   "en": "explicit parallelism",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "异步并行性",
+   "en": "asynchronous parallelism",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "隐式并行性",
+   "en": "implicit parallelism",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "并行算法",
+   "en": "parallel algorithm",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "并行计算",
+   "en": "parallel computing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "平行空间",
+   "en": "parallel space",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "平行宇宙",
+   "en": "parallel universe",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "并行数据库",
+   "en": "parallel database",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "IO并行",
+   "en": "IO parallel",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "并行查询",
+   "en": "parallel query",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "并行处理",
+   "en": "parallel processing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "平行坐标",
+   "en": "parallel coordinates",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "并行计算",
+   "en": "parallel computing",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "双杠",
+   "en": "parallel bars",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "双杠项目",
+   "en": "parallel bars",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "表婚",
+   "en": "parallel cousin marriage",
+   "code": "4.2.5.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_亲属制度"
+  },
+  {
+   "cn": "两个平行市场",
+   "en": "two parallel markets",
+   "code": "03.0320",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_列宁斯大林时期"
+  },
+  {
+   "cn": "平行从表婚",
+   "en": "parallel-cousin marriage",
+   "code": "1.0358",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

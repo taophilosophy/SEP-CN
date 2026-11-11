@@ -1,0 +1,33 @@
+{
+ "key": "prohodos",
+ "term": "prohodos",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T15:17:22+00:00",
+ "status": "ok",
+ "note": "variant=prohodos; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "前幽门管",
+   "en": "prosodus",
+   "code": "5.0648",
+   "standard": "动物学名词",
+   "subject": "动物学_无脊椎动物学_多孔动物门"
+  },
+  {
+   "cn": "掌节",
+   "en": "propodite;propodus",
+   "code": "5.2016",
+   "standard": "动物学名词",
+   "subject": "动物学_无脊椎动物学_节肢动物门_甲壳动物亚门"
+  },
+  {
+   "cn": "掌节",
+   "en": "propodite\",\"propodus",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

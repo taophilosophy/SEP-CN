@@ -1,0 +1,348 @@
+{
+ "key": "point-mass",
+ "term": "point-mass",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T14:03:47+00:00",
+ "status": "ok",
+ "note": "variant=point-mass; 审定公布名词库=4677; 海峡两岸名词对照库=1564; 其他来源数据库=311; 预公布名词数据库=157; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "点质量",
+   "en": "point mass",
+   "code": "03.0111",
+   "standard": "石油名词",
+   "subject": "石油_石油地球物理"
+  },
+  {
+   "cn": "质点",
+   "en": "point mass,particle",
+   "code": "02.0017",
+   "standard": "物理学名词",
+   "subject": "物理学_力学"
+  },
+  {
+   "cn": "质点",
+   "en": "material point,mass point,particle",
+   "code": "02.027",
+   "standard": "土木工程名词",
+   "subject": "土木工程_工程力学_理论力学"
+  },
+  {
+   "cn": "质点",
+   "en": "material point,mass point,particle",
+   "code": null,
+   "standard": "力学名词",
+   "subject": "力学_力学通类"
+  },
+  {
+   "cn": "关机点质量",
+   "en": "shutdown point mass,burnout mass",
+   "code": "02.036",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天运载器"
+  },
+  {
+   "cn": "论点",
+   "en": "point",
+   "code": "4.274",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻评论"
+  },
+  {
+   "cn": "点",
+   "en": "point",
+   "code": "01.161",
+   "standard": "地理信息系统名词",
+   "subject": "地理信息系统_基本概念"
+  },
+  {
+   "cn": "边傍",
+   "en": "point",
+   "code": "03.148",
+   "standard": "水产名词",
+   "subject": "水产_捕捞学"
+  },
+  {
+   "cn": "点",
+   "en": "point",
+   "code": "08.0012",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_欧几里得几何学"
+  },
+  {
+   "cn": "瞄准",
+   "en": "pointing",
+   "code": "09.171",
+   "standard": "光学名词",
+   "subject": "光学_光无源器件"
+  },
+  {
+   "cn": "勾缝",
+   "en": "pointing",
+   "code": "09.0215",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑设计_建筑构造"
+  },
+  {
+   "cn": "网格点",
+   "en": "mesh point,net point,grid point",
+   "code": "010.0476",
+   "standard": "数学名词",
+   "subject": "数学_数值分析_偏微分方程数值解"
+  },
+  {
+   "cn": "点群",
+   "en": "mass point\",\"point cluster",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "弓尖",
+   "en": "point",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "翎骨针",
+   "en": "point",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "点对点",
+   "en": "point-to-point",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "连接点",
+   "en": "pass point\",\"tie point",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "冰点",
+   "en": "freezing point\",\"ice point",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "驻点",
+   "en": "stagnation point\",\"stationary point",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "燃点",
+   "en": "ignition point\",\"burning point",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "冻凝点",
+   "en": "congealing point\",\"congelation point",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "熔点",
+   "en": "fusion point\",\"melting point",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "消失点",
+   "en": "disappearance point\",\"end point",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "星下点",
+   "en": "substellar point\",\"subastral point",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "分",
+   "en": "point",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "点数",
+   "en": "point",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "分",
+   "en": "point",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_沙滩排球名词"
+  },
+  {
+   "cn": "环",
+   "en": "point",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "环",
+   "en": "point",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "分",
+   "en": "point",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "分",
+   "en": "point",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "分",
+   "en": "point",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "分",
+   "en": "point",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_游泳名词"
+  },
+  {
+   "cn": "分",
+   "en": "point",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "分",
+   "en": "point",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "点",
+   "en": "point",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "采样点",
+   "en": "sampling point",
+   "code": "1.5.20",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险监测"
+  },
+  {
+   "cn": "参考点",
+   "en": "reference point",
+   "code": "6.4.4.40",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_放射治疗"
+  },
+  {
+   "cn": "预警中心",
+   "en": "warning point",
+   "code": "7.2.2.21",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应"
+  },
+  {
+   "cn": "点弹性",
+   "en": "point elasticity",
+   "code": "4.3.1.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务需求_卫生服务需求弹性"
+  },
+  {
+   "cn": "监测点",
+   "en": "monitoring point",
+   "code": "1.5.19",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险监测"
+  },
+  {
+   "cn": "群众",
+   "en": "masses",
+   "code": "03.0140",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "参考测量点",
+   "en": "reference measuring point",
+   "code": "3.1.3.2.3",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "零效反应点",
+   "en": "null reaction point",
+   "code": "3.1.6.6.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "关键控制点",
+   "en": "critical control point",
+   "code": "5.1.7.7",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_企业监管"
+  },
+  {
+   "cn": "分布式点估计",
+   "en": "distributed point estimate",
+   "code": "1.4.4.44",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "起点公平",
+   "en": "fair starting point",
+   "code": "3.2.3",
+   "standard": "社会医学名词",
+   "subject": "健康社会决定因素"
+  },
+  {
+   "cn": "关键控制点",
+   "en": "critical control point",
+   "code": "4.5.5",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品安全风险管理_危害分析与关键控制点"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

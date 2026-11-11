@@ -1,0 +1,334 @@
+{
+ "key": "opponent",
+ "term": "opponent",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T12:32:11+00:00",
+ "status": "ok",
+ "note": "variant=opponent; 审定公布名词库=442; 海峡两岸名词对照库=154; 其他来源数据库=43; 预公布名词数据库=10; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "逆意公众",
+   "en": "opponent publics",
+   "code": "20.057",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_公共关系_公共关系构成"
+  },
+  {
+   "cn": "对立色理论",
+   "en": "opponent-color theory",
+   "code": "05.068",
+   "standard": "光学名词",
+   "subject": "光学_色度学"
+  },
+  {
+   "cn": "对比色学说",
+   "en": "opponent color theory",
+   "code": "03.341",
+   "standard": "生理学名词",
+   "subject": "生理学_神经生理学"
+  },
+  {
+   "cn": "反色学说",
+   "en": "opponent-color theory",
+   "code": "02.0395",
+   "standard": "食品科学技术名词",
+   "subject": "食品科学技术_食品科学_食品物理_食品光学特性"
+  },
+  {
+   "cn": "双拮抗神经元",
+   "en": "double-opponent neuron",
+   "code": "04.218",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_神经生物物理学_学习与记忆"
+  },
+  {
+   "cn": "红绿拮抗通道",
+   "en": "red-green opponent channel",
+   "code": "04.129",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_神经生物物理学_多模态感觉信息加工"
+  },
+  {
+   "cn": "蓝黄拮抗通道",
+   "en": "blue-yellow opponent channel",
+   "code": "04.130",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_神经生物物理学_多模态感觉信息加工"
+  },
+  {
+   "cn": "组件",
+   "en": "component",
+   "code": "06.01.011",
+   "standard": "档案学名词",
+   "subject": "档案学_电子文件管理_综合"
+  },
+  {
+   "cn": "组元",
+   "en": "component",
+   "code": "04.0067",
+   "standard": "冶金学名词",
+   "subject": "冶金学_冶金物理化学_冶金过程热力学"
+  },
+  {
+   "cn": "分量",
+   "en": "component",
+   "code": "02.0330",
+   "standard": "物理学名词",
+   "subject": "物理学_力学"
+  },
+  {
+   "cn": "构件",
+   "en": "component",
+   "code": "06.0343",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_软件工程"
+  },
+  {
+   "cn": "元件",
+   "en": "component",
+   "code": "04.0006",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机硬件_计算机集成电路"
+  },
+  {
+   "cn": "拮抗色觉说,补色理论",
+   "en": "opponent color theory",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "对抗过程假说",
+   "en": "opponent process hypothesis",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "光谱拮抗细胞，光谱对立细胞",
+   "en": "spectrally opponent cell",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "组元",
+   "en": "component",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "子源",
+   "en": "component",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "指数",
+   "en": "exponent",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "组件",
+   "en": "component",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "分量",
+   "en": "component",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "组分",
+   "en": "component",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "子星",
+   "en": "component star\",\"component",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "对掌肌",
+   "en": "opponens muscle",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "拇对掌肌",
+   "en": "opponens pollicis",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "对手",
+   "en": "opponent",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "对手",
+   "en": "opponent",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "对手",
+   "en": "opponent",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "对手",
+   "en": "opponent",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_沙滩排球名词"
+  },
+  {
+   "cn": "对手",
+   "en": "opponent",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "对手",
+   "en": "opponent",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "对手",
+   "en": "opponent",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_手球名词"
+  },
+  {
+   "cn": "对手",
+   "en": "opponent",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "对手",
+   "en": "opponent",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_水球名词"
+  },
+  {
+   "cn": "对手",
+   "en": "opponent",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "对手",
+   "en": "opponent",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "对手",
+   "en": "opponent",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "电解质配方",
+   "en": "electrolyte component",
+   "code": "5.22.2.34",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_特殊食品"
+  },
+  {
+   "cn": "阶级成份",
+   "en": "class component",
+   "code": "03.0091",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "增稠组件",
+   "en": "thickening component",
+   "code": "5.22.2.35",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_特殊食品"
+  },
+  {
+   "cn": "脂肪组件",
+   "en": "fat component",
+   "code": "5.22.2.32",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_特殊食品"
+  },
+  {
+   "cn": "蛋白质组件",
+   "en": "protein component",
+   "code": "5.22.2.31",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_特殊食品"
+  },
+  {
+   "cn": "营养素组件",
+   "en": "Nutrients component",
+   "code": "5.22.2.30",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_特殊食品"
+  },
+  {
+   "cn": "碳水化合物组件",
+   "en": "carbohydrate component",
+   "code": "5.22.2.33",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_特殊食品"
+  },
+  {
+   "cn": "设备冷却水系统",
+   "en": "component cooling water system",
+   "code": "6.6.4.12",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_核工业的放射防护"
+  },
+  {
+   "cn": "二成分模型",
+   "en": "two-component model of body composition",
+   "code": "2.4.2.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_体成分发育"
+  },
+  {
+   "cn": "多成分模型",
+   "en": "multi-component model of body composition",
+   "code": "2.4.2.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_体成分发育"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

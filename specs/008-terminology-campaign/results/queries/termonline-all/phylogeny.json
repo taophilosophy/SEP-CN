@@ -1,0 +1,180 @@
+{
+ "key": "phylogeny",
+ "term": "phylogeny",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T13:50:16+00:00",
+ "status": "ok",
+ "note": "variant=phylogeny; 审定公布名词库=14; 海峡两岸名词对照库=14; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "系统发育",
+   "en": "phylogeny",
+   "code": "02.004",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物系统学"
+  },
+  {
+   "cn": "系统发育",
+   "en": "phylogeny",
+   "code": "01.0068",
+   "standard": "古生物学名词",
+   "subject": "古生物学_总论"
+  },
+  {
+   "cn": "系统发育",
+   "en": "phylogeny",
+   "code": "1.052",
+   "standard": "免疫学名词",
+   "subject": "免疫学_概论_免疫学相关名词"
+  },
+  {
+   "cn": "系统发生",
+   "en": "phylogeny",
+   "code": "07.020",
+   "standard": "遗传学名词",
+   "subject": "遗传学_进化遗传学"
+  },
+  {
+   "cn": "系统发生",
+   "en": "phylogeny",
+   "code": "04.046",
+   "standard": "生态学名词",
+   "subject": "生态学_进化生态学"
+  },
+  {
+   "cn": "系统发生",
+   "en": "phylogeny",
+   "code": "02.010",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫分类与进化"
+  },
+  {
+   "cn": "系统发育",
+   "en": "phylogeny",
+   "code": "01.878",
+   "standard": "医学名词 第三分册",
+   "subject": "医学_医学遗传学"
+  },
+  {
+   "cn": "种系发生",
+   "en": "phylogeny,phylogenesis",
+   "code": "20.013",
+   "standard": "组织学与胚胎学名词",
+   "subject": "组织学与胚胎学_胚胎学_绪论"
+  },
+  {
+   "cn": "系统发生",
+   "en": "phylogeny,phylogenesis",
+   "code": "06.005",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞分化与发育"
+  },
+  {
+   "cn": "系统发育",
+   "en": "phylogeny,phylogenesis",
+   "code": "05.247",
+   "standard": "水产名词",
+   "subject": "水产_水产生物育种学"
+  },
+  {
+   "cn": "系统发育",
+   "en": "phylogenesis,phylogeny",
+   "code": "02.0219",
+   "standard": "植物学名词",
+   "subject": "植物学_系统与进化植物学"
+  },
+  {
+   "cn": "基因系统发育",
+   "en": "gene phylogeny",
+   "code": "5.0095",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因及其功能_结构"
+  },
+  {
+   "cn": "系统发生,系统发育",
+   "en": "phylogeny",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "种系发生， 系统发育",
+   "en": "phylogeny",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "系统发育，种系发生",
+   "en": "phylogeny",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "系统发生",
+   "en": "phylogeny",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "系统发生（=系统发育）",
+   "en": "phylogeny\",\"phylogenesis",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "系统发育，种系发生，系统发生",
+   "en": "phylogeny\",\"phylogenesis",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "种系发生（=系统发育）",
+   "en": "phylogeny\",\"phylogenesis",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "系统发生,种系发生",
+   "en": "phylogeny\",\"phylogenesis",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "系统发生，系统发育",
+   "en": "phylogeny\",\"phylogenesis",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "系统发生，系统发育",
+   "en": "phylogeny\",\"phylogenesis",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "系统发生（=系统发育）",
+   "en": "phylogenesis\",\"phylogeny",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "系统发育，种系发生，系统发生",
+   "en": "phylogenesis\",\"phylogeny",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

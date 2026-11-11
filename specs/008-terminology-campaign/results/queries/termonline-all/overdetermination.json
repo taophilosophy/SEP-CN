@@ -1,0 +1,47 @@
+{
+ "key": "overdetermination",
+ "term": "overdetermination",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T12:47:12+00:00",
+ "status": "ok",
+ "note": "variant=overdetermination; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "超定",
+   "en": "overdetermined",
+   "code": "01.1901",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震反演"
+  },
+  {
+   "cn": "超定问题",
+   "en": "overdetermined problem",
+   "code": "01.1895",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震反演"
+  },
+  {
+   "cn": "超定组",
+   "en": "overdetermined system",
+   "code": "010.0378",
+   "standard": "数学名词",
+   "subject": "数学_数值分析_方程求根·数值代数"
+  },
+  {
+   "cn": "测量平差",
+   "en": "Overdetermined system",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "多元决定",
+   "en": "overdetermination",
+   "code": "05.0068",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

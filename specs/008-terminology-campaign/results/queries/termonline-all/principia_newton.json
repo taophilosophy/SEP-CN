@@ -1,0 +1,348 @@
+{
+ "key": "principia (newton)",
+ "term": "Principia (Newton)",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T14:56:20+00:00",
+ "status": "ok",
+ "note": "variant=Principia (Newton); 审定公布名词库=1438; 海峡两岸名词对照库=365; 其他来源数据库=62; 预公布名词数据库=138; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "牛[顿]",
+   "en": "newton",
+   "code": "01.398",
+   "standard": "电力名词",
+   "subject": "电力_总论"
+  },
+  {
+   "cn": "牛[顿]",
+   "en": "newton,N",
+   "code": "01.876",
+   "standard": "电气工程名词",
+   "subject": "电气工程_电工基础及通用名词"
+  },
+  {
+   "cn": "牛顿法",
+   "en": "Newton method",
+   "code": "03.067",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程模拟"
+  },
+  {
+   "cn": "牛顿方向",
+   "en": "Newton direction",
+   "code": "05.134",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程系统优化"
+  },
+  {
+   "cn": "牛顿法",
+   "en": "Newton method",
+   "code": "02.0069",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_基本概念"
+  },
+  {
+   "cn": "牛顿环",
+   "en": "Newton rings",
+   "code": "04.035",
+   "standard": "机械工程名词 第三分册",
+   "subject": "机械工程_仪器仪表_光学仪器_光学仪器一般名词"
+  },
+  {
+   "cn": "牛顿恒等式",
+   "en": "Newton identities",
+   "code": "04.0552",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_域·多项式"
+  },
+  {
+   "cn": "牛顿斜率",
+   "en": "Newton slope",
+   "code": "04.1171",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_代数几何学"
+  },
+  {
+   "cn": "牛顿级数",
+   "en": "Newton series",
+   "code": "010.0175",
+   "standard": "数学名词",
+   "subject": "数学_数值分析_数值逼近"
+  },
+  {
+   "cn": "牛顿折线",
+   "en": "Newton polygon",
+   "code": "04.1170",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_代数几何学"
+  },
+  {
+   "cn": "拟牛顿法",
+   "en": "quasi-Newton method",
+   "code": "03.071",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程模拟"
+  },
+  {
+   "cn": "高斯-牛顿法",
+   "en": "Gauss-Newton method",
+   "code": "05.113",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程系统优化"
+  },
+  {
+   "cn": "牛顿",
+   "en": "Newton\",\"Ivor(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "牛顿应力公式",
+   "en": "Newton stress formula",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "牛顿-拉弗森法",
+   "en": "Newton-Raphson method",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "牛顿环",
+   "en": "Newtons rings",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "牛顿望远镜",
+   "en": "Isaac Newton Telescope\",\"INT",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "牛顿冷却定律",
+   "en": "Newton law of cooling",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "牛顿收敛法",
+   "en": "Newton method for convergence",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "牛顿成像公式",
+   "en": "Newtons lens equation",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "牛顿多镜面X射线空间望远镜",
+   "en": "Newton X-ray Multi-Mirror Space Telescope",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "游泳生物,自游生物",
+   "en": "nekton\",\"necton",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "游泳生物",
+   "en": "nekton",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "游泳生物",
+   "en": "nekton",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "牛顿法",
+   "en": "Newton's method",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "牛顿法",
+   "en": "Newton’s method",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "牛顿运动定律",
+   "en": "Newton's laws of motion",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "万有引力定律",
+   "en": "Newton's Law of universal gravitation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "中子",
+   "en": "Neutron",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "双纳尔逊",
+   "en": "double Nelson\",\"full Nelson",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "帕斯卡定律",
+   "en": "Pascal's principle",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "第一原理",
+   "en": "First principle",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "互补原理",
+   "en": "Complementarity principle",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "人择原理",
+   "en": "Anthropic principle；",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "平庸原理",
+   "en": "mediocrity principle",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "对应原理",
+   "en": "correspondence principle",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "原则",
+   "en": "principle",
+   "code": "04.0059",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_马克思恩格斯时期"
+  },
+  {
+   "cn": "中子",
+   "en": "neutron",
+   "code": "3.1.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_核物理基本概念"
+  },
+  {
+   "cn": "中子",
+   "en": "neutron",
+   "code": "8.1.6",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_核武器医学防护学_核武器"
+  },
+  {
+   "cn": "时序性原则",
+   "en": "chronological principle",
+   "code": "4.3.3.9",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射工作人员健康监护"
+  },
+  {
+   "cn": "法律原理",
+   "en": "legal principle",
+   "code": "3.7.7.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_法律社会学_法律多元主义"
+  },
+  {
+   "cn": "谨慎原则",
+   "en": "precautionary principle",
+   "code": "3.14.5.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学环境社会学"
+  },
+  {
+   "cn": "头尾发展律",
+   "en": "cephalocaudal principle",
+   "code": "2.1.10.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_生长发育规律"
+  },
+  {
+   "cn": "近侧发展律",
+   "en": "proximodistal principle",
+   "code": "2.1.10.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_生长发育规律"
+  },
+  {
+   "cn": "相互作用原理",
+   "en": "interrelated principle",
+   "code": "1.6.3.3",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论"
+  },
+  {
+   "cn": "参与原则",
+   "en": "participation principle",
+   "code": "10.2.1.4.7.2",
+   "standard": "社会医学名词",
+   "subject": "政策与策略"
+  },
+  {
+   "cn": "保密原则",
+   "en": "confidentiality principle",
+   "code": "9.074",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_器官移植伦理"
+  },
+  {
+   "cn": "裂变原则",
+   "en": "fission principle",
+   "code": "1.0541",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

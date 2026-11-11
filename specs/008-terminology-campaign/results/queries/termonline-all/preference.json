@@ -1,0 +1,348 @@
+{
+ "key": "preference",
+ "term": "preference",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T14:42:49+00:00",
+ "status": "ok",
+ "note": "variant=preference; 审定公布名词库=642; 海峡两岸名词对照库=211; 其他来源数据库=40; 预公布名词数据库=47; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "嗜食性",
+   "en": "preference ",
+   "code": "2.0427",
+   "standard": "草学名词",
+   "subject": "草学_草地生态与草地培育_草地培育与利用"
+  },
+  {
+   "cn": "偏好",
+   "en": "preference",
+   "code": "02.0086",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_基本概念"
+  },
+  {
+   "cn": "偏好",
+   "en": "preference",
+   "code": "10.066",
+   "standard": "药学名词",
+   "subject": "药学_药物经济学"
+  },
+  {
+   "cn": "肉适意性",
+   "en": "preferability",
+   "code": "06.035",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_畜产品与加工_肉_肉的品质特性"
+  },
+  {
+   "cn": "嗜食性分级",
+   "en": "preference ranking ",
+   "code": "2.0283",
+   "standard": "草学名词",
+   "subject": "草学_草地生态与草地培育_草地生态"
+  },
+  {
+   "cn": "嗜食性指数",
+   "en": "preference index ",
+   "code": "2.0492",
+   "standard": "草学名词",
+   "subject": "草学_草地生态与草地培育_草地培育与利用"
+  },
+  {
+   "cn": "偏好查询",
+   "en": "preference query",
+   "code": "07.0475",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库新技术"
+  },
+  {
+   "cn": "偏好关系",
+   "en": "preference relation",
+   "code": "02.0087",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_基本概念"
+  },
+  {
+   "cn": "偏好函数",
+   "en": "preference function",
+   "code": "02.0473",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_评价理论与方法"
+  },
+  {
+   "cn": "偏好排序",
+   "en": "preference ranking",
+   "code": "02.0463",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_评价理论与方法"
+  },
+  {
+   "cn": "偏好反转",
+   "en": "preference reversal",
+   "code": "02.0274",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_决策理论与方法"
+  },
+  {
+   "cn": "偏好信息",
+   "en": "preference information",
+   "code": "02.0447",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_评价理论与方法"
+  },
+  {
+   "cn": "优先债券",
+   "en": "preference bond",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "优先资本",
+   "en": "preference capital",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "颜色爱好",
+   "en": "color preference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "生境偏爱,生境适应性",
+   "en": "habitat preference",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "草食偏好性",
+   "en": "grazing preference",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "环境取向",
+   "en": "environmental preference",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "反向优惠",
+   "en": "reverse preference",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "风险偏好",
+   "en": "risk preference",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "贸易优先权",
+   "en": "trade preference",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "特惠",
+   "en": "special preference",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "英联邦特惠税制",
+   "en": "Imperial Preference",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "优先债券",
+   "en": "bond preference",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "偏好管理",
+   "en": "preference management",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "IS-LM模型",
+   "en": "Investment—Saving /Liquidity preference—Money supply model",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "指代",
+   "en": "coreference",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "参照群体",
+   "en": "Reference group",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "访问局部性",
+   "en": "Locality of reference",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子时间基准",
+   "en": "quantum time reference",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "物联网参考体系结构",
+   "en": "IoT reference architecture",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据参考模型",
+   "en": "data reference model",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "查询引用模式",
+   "en": "query reference mode",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "大数据参考体系结构",
+   "en": "big data reference architecture",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "物联网通信参考体系结构",
+   "en": "IoT communication reference architecture",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "物联网信息参考体系结构",
+   "en": "IoT information reference architecture",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "性别偏好",
+   "en": "gender preference",
+   "code": "3.2.1.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别概念"
+  },
+  {
+   "cn": "风险偏好",
+   "en": "risk preference",
+   "code": "11.3.1.4",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_健康保险_健康保险市场"
+  },
+  {
+   "cn": "时间偏好",
+   "en": "time preference",
+   "code": "15.1.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_危害健康行为经济学_危害健康行为"
+  },
+  {
+   "cn": "陈述偏好法",
+   "en": "stated preference approach",
+   "code": "12.1.5.7",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生经济学评价_卫生经济学评价"
+  },
+  {
+   "cn": "显示偏好法",
+   "en": "revealed preference approach",
+   "code": "12.1.5.8",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生经济学评价_卫生经济学评价"
+  },
+  {
+   "cn": "时间不一致偏好",
+   "en": "time-inconsistent preference ",
+   "code": "15.1.4",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_危害健康行为经济学_危害健康行为"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "code": "5.5.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_监测与评价"
+  },
+  {
+   "cn": "参考响应",
+   "en": "reference response",
+   "code": "5.5.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_监测与评价"
+  },
+  {
+   "cn": "参考水平",
+   "en": "reference level",
+   "code": "6.1.3.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_辐射危险控制"
+  },
+  {
+   "cn": "参考人",
+   "en": "reference person",
+   "code": "6.3.4.9",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  },
+  {
+   "cn": "男性参考人",
+   "en": "reference male",
+   "code": "6.3.4.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  },
+  {
+   "cn": "女性参考人",
+   "en": "reference female",
+   "code": "6.3.4.11",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

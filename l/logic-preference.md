@@ -332,7 +332,7 @@ $$\mathcal{M}, w \models \varphi \geq \psi \text{ iff } \begin{cases} (1) \ \for
 
 $$C_1(x) \gg C_2(x) \gg \dots \gg C_n(x) \quad (n \in \mathbb{N}),$$
 
-其中每个 $C_m(x)$（$1 \leq m \leq n$）是恰有一个自由变元 x 的公式。靠前的优先性按词典序被视为比靠后者更重要，由此产生偏好序。例如，$C_1 \land \neg C_2 \land \dots \land \neg C_m$ 优于 $\neg C_1 \land C_2 \land \dots \land C_m$。
+其中每个 $C_m(x)$（$1 \leq m \leq n$）是恰有一个自由变元 x 的公式。靠前的优先性按字典序被视为比靠后者更重要，由此产生偏好序。例如，$C_1 \land \neg C_2 \land \dots \land \neg C_m$ 优于 $\neg C_1 \land C_2 \land \dots \land C_m$。
 
 为说明这一点，爱丽丝的优先基可能是
 

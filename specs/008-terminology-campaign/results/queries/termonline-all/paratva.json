@@ -1,0 +1,33 @@
+{
+ "key": "paratva",
+ "term": "paratva",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T13:08:13+00:00",
+ "status": "ok",
+ "note": "variant=paratva; 审定公布名词库=1; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "英国—马拉特战争",
+   "en": "Anglo-Maratha Wars",
+   "code": "04.0155",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_南亚"
+  },
+  {
+   "cn": "海盗",
+   "en": "Pirata",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "草本群落",
+   "en": "herbosa\",\"prata",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
