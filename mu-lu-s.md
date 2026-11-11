@@ -355,7 +355,7 @@ outline: [1, 6]
   * [康德和休谟论道德 Kant and Hume on Morality (Eric Entrican Wilson and Lara Denis)](k/kant-hume-morality.md)
     * [康德的道德哲学 moral philosophy (Robert Johnson and Adam Cureton)](k/kant-moral.md)
   * [康德的数学哲学 Kant's Philosophy of Mathematics (Lisa Shabel)](k/kant-mathematics.md)
-  * [康德的宗教哲学 philosophy of religion (Lawrence Pasternack and Courtney Fugate)](k/kant-religion.md)
+  * [康德的宗教哲学 Kant’s Philosophy of Religion (Lawrence Pasternack and Courtney Fugate)](k/kant-religion.md)
   * [康德的科学哲学 philosophy of science (Eric Watkins and Marius Stan)](k/kant-science.md)
   * [康德的社会与政治哲学 social and political philosophy (Frederick Rauscher)](k/kant-social-political.md)
   * [康德的先验唯心论 transcendental idealism (Nicholas F. Stang)](k/kant-transcendental-idealism.md)
