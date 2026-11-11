@@ -1,0 +1,386 @@
+version: 1
+slug: fuller-margaret
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Margaret Fuller (1810–1850), one of the most important American feminists of her day, was a philosopher, journalist, and literary critic. She belonged to the New England intellectual community called the transcendentalists, who also included Ralph Waldo Emerson and Henry David Thoreau. Her most important written work is *Woman in the Nineteenth Century* (1845), an expansion of her article entitled “The Great Lawsuit: Man *versus* Men, Woman *versus* Women” (1843). Fuller is remembered not only for her writings, but also for her life: a series of undertakings to live up to her own ideal of transcending the then customary gender differentiations. This article will present a summary of her philosophy and also take note of the various ways in which she sought (or did not seek) to implement her philosophical ideals.
+    step1: |-
+      Margaret Fuller (1810–1850), one of the most important American feminists of her day, was a philosopher, journalist, and literary critic. She belonged to the New England intellectual community called the transcendentalists, who also included Ralph Waldo Emerson and Henry David Thoreau. Her most important written work is *Woman in the Nineteenth Century* (1845), an expansion of her article entitled “The Great Lawsuit: Man *versus* Men, Woman *versus* Women” (1843). Fuller is remembered not only for her writings, but also for her life: a series of undertakings to live up to her own ideal of transcending the then customary gender differentiations. This article will present a summary of her philosophy and also take note of the various ways in which she sought (or did not seek) to implement her philosophical ideals.
+    step2: |-
+      玛格丽特·富勒（Margaret Fuller，1810–1850），她那个时代最重要的美国女权主义者之一，是哲学家、记者兼文学批评家。她属于新英格兰那个被称为超验主义者的智识共同体，爱默生与梭罗也在其列。她最重要的著作是《十九世纪的妇女》（*Woman in the Nineteenth Century*，1845），系其文章《大诉讼：人对男人，女对女人》（“The Great Lawsuit: Man *versus* Men, Woman *versus* Women”，1843）的扩充。富勒留给后人的不只是她的文字，还有她的一生：一系列以自身行践其理想——超越当时习以为常的性别分野——的尝试。本文将概述其哲学，并记录她以哪些方式（或未以哪些方式）落实自己的哲学理想。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Biography
+    step1: |-
+      ## 1. Biography
+    step2: |-
+      ## 1. 生平
+  - id: 3
+    kind: body
+    source: |-
+      Margaret Fuller was born in Cambridgeport, Massachusetts, on 23 May 1810, the eldest child of Timothy Fuller and Margarett Crane Fuller. (Cambridgeport is now part of Cambridge, Massachusetts, and the Margaret Fuller House where she was born is still standing.) Timothy Fuller was elected a Congressman from Massachusetts in 1817 and served until 1825. He lavished upon his eldest daughter a rigorous classical education usually reserved for boys. He taught her how to read at age three and a half, and she proved a child prodigy who rewarded Timothy’s attention. Her childhood curriculum included Latin prose, poetry, and composition, supplemented by Greek writings that included the New Testament as well as the classical philosophers, along with natural philosophy (natural science) and the wide-ranging discipline then called moral philosophy, which subsumed what we call the social sciences. When she was nine, her father added *The Spectator*, *Paradise Lost*, and Dr. Samuel Johnson to her reading list. Timothy’s stern manner and demanding requirements left young Margaret with emotional as well as scholarly legacies: she became obsessive and self-critical.
+    step1: |-
+      Margaret Fuller was born in Cambridgeport, Massachusetts, on 23 May 1810, the eldest child of Timothy Fuller and Margarett Crane Fuller. (Cambridgeport is now part of Cambridge, Massachusetts, and the Margaret Fuller House where she was born is still standing.) Timothy Fuller was elected a Congressman from Massachusetts in 1817 and served until 1825. He lavished upon his eldest daughter a rigorous classical education usually reserved for boys. He taught her how to read at age three and a half, and she proved a child prodigy who rewarded Timothy’s attention. Her childhood curriculum included Latin prose, poetry, and composition, supplemented by Greek writings that included the New Testament as well as the classical philosophers, along with natural philosophy (natural science) and the wide-ranging discipline then called moral philosophy, which subsumed what we call the social sciences. When she was nine, her father added *The Spectator*, *Paradise Lost*, and Dr. Samuel Johnson to her reading list. Timothy’s stern manner and demanding requirements left young Margaret with emotional as well as scholarly legacies: she became obsessive and self-critical.
+    step2: |-
+      1810 年 5 月 23 日，玛格丽特·富勒生于马萨诸塞州剑桥港，是蒂莫西·富勒与玛格丽特·克雷恩·富勒的长女。（剑桥港今属马萨诸塞州剑桥市；她出生的那栋玛格丽特·富勒故居至今犹存。）1817 年，蒂莫西·富勒当选马萨诸塞州联邦众议员，任职至 1825 年。他把通常只有男孩才能享有的严格的古典教育倾注到长女身上：三岁半教她识字，她也争气，成了让父亲心血不白费的神童。她的童年课业包括拉丁文散文、诗歌与作文，辅以希腊文著作——既有《新约》也有古典哲学家——再加上自然哲学（自然科学），以及当时称为道德哲学的宽泛学科，后者囊括了我们今日所谓的社会科学。九岁时，父亲又把《旁观者》、《失乐园》与塞缪尔·约翰逊博士列入她的书单。蒂莫西的严苛做派与苛刻要求，给年幼的玛格丽特留下了情感与学业的双重遗产：她变得偏执而好自我苛责。
+  - id: 4
+    kind: body
+    source: |-
+      Formal schooling only began for Margaret in 1819; starting in 1824 she boarded at the School for Young Ladies in Groton for two years, then returned home. There she resumed her study of the classics. She found the Greeks more congenial than the Romans, identifying the Greeks with idealism, imagination, and freedom, the Romans with practicality, logic, and stern composure. Her readings were supplemented now by the Romantic literature taking shape in Europe, which she found fascinating. By the time she was in her thirties, she could be regarded as the best-read person, male or female, in New England (Douglas 1977: 263)[^douglas-1977]. She ended up espousing an avowedly dual philosophy that sought to embrace both classical and Romantic outlooks. She taught that the Platonic tradition celebrated masculine qualities while Romanticism celebrated feminine ones. Humanity as whole needed both—and each individual person should cultivate both their masculinity and their femininity.
+    step1: |-
+      Formal schooling only began for Margaret in 1819; starting in 1824 she boarded at the School for Young Ladies in Groton for two years, then returned home. There she resumed her study of the classics. She found the Greeks more congenial than the Romans, identifying the Greeks with idealism, imagination, and freedom, the Romans with practicality, logic, and stern composure. Her readings were supplemented now by the Romantic literature taking shape in Europe, which she found fascinating. By the time she was in her thirties, she could be regarded as the best-read person, male or female, in New England (Douglas 1977: 263)[^douglas-1977]. She ended up espousing an avowedly dual philosophy that sought to embrace both classical and Romantic outlooks. She taught that the Platonic tradition celebrated masculine qualities while Romanticism celebrated feminine ones. Humanity as whole needed both—and each individual person should cultivate both their masculinity and their femininity.
+    step2: |-
+      玛格丽特的正规学校教育迟至 1819 年才开始；1824 年起她在格罗顿的少女学校寄宿两年，随后返家，继续研习古典。她觉得希腊人比罗马人更合己意：希腊人对应理想主义、想象与自由，罗马人对应实用、逻辑与严峻的克制。此时，正在欧洲成形的浪漫主义文学又加入她的阅读，令她心醉神迷。到三十来岁，她已可算新英格兰读书最博的人，无论男女（Douglas 1977: 263）[^douglas-1977]。她最终服膺一种公开宣称的二元哲学，兼容古典与浪漫两种眼光。她教导说：柏拉图传统赞颂的是男性品质，浪漫主义赞颂的是女性品质。人类整体两者都需要——而每个个体也应当同时培养自身的男性气质与女性气质。
+  - id: 5
+    kind: body
+    source: |-
+      Meanwhile, however, Timothy Fuller’s political ambitions had not been realized and his law practice shrank to the point where he decided in 1833 to move to Groton, Massachusetts, and operate (like many other Americans of the time) a family farm. The farm had not yet begun to turn a profit, however, when Margaret’s father died of cholera in October, 1835. Timothy had not drawn up a will, and by the male-oriented law of the time, title to the farm passed to his brothers, leaving his widow and children living on the farm dependent on the charity of Margaret’s uncles. Margaret felt understandably bitter, and though only in her twenties was forced to assume responsibility for supporting her mother and young siblings. She had begun work on a biography of Johann Wolfgang von Goethe, having achieved fluency in German remarkably quickly, but gave up on it, and the European trip it would have entailed, so she could teach school full time and earn a salary.
+    step1: |-
+      Meanwhile, however, Timothy Fuller’s political ambitions had not been realized and his law practice shrank to the point where he decided in 1833 to move to Groton, Massachusetts, and operate (like many other Americans of the time) a family farm. The farm had not yet begun to turn a profit, however, when Margaret’s father died of cholera in October, 1835. Timothy had not drawn up a will, and by the male-oriented law of the time, title to the farm passed to his brothers, leaving his widow and children living on the farm dependent on the charity of Margaret’s uncles. Margaret felt understandably bitter, and though only in her twenties was forced to assume responsibility for supporting her mother and young siblings. She had begun work on a biography of Johann Wolfgang von Goethe, having achieved fluency in German remarkably quickly, but gave up on it, and the European trip it would have entailed, so she could teach school full time and earn a salary.
+    step2: |-
+      然而与此同时，蒂莫西·富勒的政治抱负未见实现，律师业务也日见萎缩，以致他 1833 年决定迁往马萨诸塞州格罗顿，像当时许多美国人一样经营家庭农场。可农场尚未开始盈利，1835 年 10 月，玛格丽特的父亲死于霍乱。蒂莫西未立遗嘱，依当时偏袒男嗣的法律，农场产权转入其兄弟之手，遗孀与子女虽住在农场，却要仰赖玛格丽特几位叔伯的接济。玛格丽特心中的怨愤可想而知；她才二十出头，便不得不担起养活母亲与年幼弟妹的重担。她本已动笔写一部歌德传——她以惊人的速度习得了流利的德语——但为全职教书挣薪，只得作罢，连同那本要去的欧洲之行。
+  - id: 6
+    kind: body
+    source: |-
+      Margaret Fuller moved in highly literate circles, both before and after her father’s death. In 1839 she made use of her social contacts when she commenced a series of discussion groups for women that lasted five years; she referred to them as “Conversations”. Most of these were held in the home of her friend and fellow intellectual Elizabeth Palmer Peabody, who also facilitated Fuller’s publishing some pieces. Another friend, Ralph Waldo Emerson, invited Fuller to edit a journal called *The Dial*, an enterprise she undertook in 1840. Fuller was supposed to receive a salary of $200 annually, but the money was never paid—one of the reasons why she resigned after two years. She continued to write for *The Dial* after no longer editing it.
+    step1: |-
+      Margaret Fuller moved in highly literate circles, both before and after her father’s death. In 1839 she made use of her social contacts when she commenced a series of discussion groups for women that lasted five years; she referred to them as “Conversations”. Most of these were held in the home of her friend and fellow intellectual Elizabeth Palmer Peabody, who also facilitated Fuller’s publishing some pieces. Another friend, Ralph Waldo Emerson, invited Fuller to edit a journal called *The Dial*, an enterprise she undertook in 1840. Fuller was supposed to receive a salary of $200 annually, but the money was never paid—one of the reasons why she resigned after two years. She continued to write for *The Dial* after no longer editing it.
+    step2: |-
+      无论父亲生前身后，玛格丽特·富勒都出入于极有书卷气的圈子。1839 年，她动用自己的人脉，为女性开设了一系列讨论小组，前后持续五年；她称之为“谈话会”。这些活动多在挚友兼同道伊丽莎白·帕尔默·皮博迪家中举行；皮博迪还促成富勒发表了几篇作品。另一位友人拉尔夫·沃尔多·爱默生邀她主编一份名为《日晷》（*The Dial*）的刊物；她于 1840 年接下这份事业。富勒本应年俸$200，但这笔钱从未兑现——这也是她两年后请辞的原因之一。此后她不再主编，仍继续为《日晷》撰稿。
+  - id: 7
+    kind: body
+    source: |-
+      In May 1843 Fuller joined a group of friends (James Freeman Clarke, his mother and his sister) who were going to visit Chicago and continue to the West, in Illinois, Wisconsin and Michigan. The notes, observations and reflections generated by that journey will become *Summer on the Lakes, in 1843*, a text part travel narrative, part social commentary, interspersed with poetry and fiction, published in 1844. In this she mixed admiration for sublime natural forces and the environment, sympathy for European immigrants, and certainy about ineluctable expansionism and settler-colonialism in the West.
+    step1: |-
+      In May 1843 Fuller joined a group of friends (James Freeman Clarke, his mother and his sister) who were going to visit Chicago and continue to the West, in Illinois, Wisconsin and Michigan. The notes, observations and reflections generated by that journey will become *Summer on the Lakes, in 1843*, a text part travel narrative, part social commentary, interspersed with poetry and fiction, published in 1844. In this she mixed admiration for sublime natural forces and the environment, sympathy for European immigrants, and certainy about ineluctable expansionism and settler-colonialism in the West.
+    step2: |-
+      1843 年 5 月，富勒随一伙友人（詹姆斯·弗里曼·克拉克及其母亲与妹妹）前往芝加哥，再向西部行进，经伊利诺伊、威斯康星与密歇根。此行的笔记、观察与思考，日后汇成《1843 年湖上夏日》（*Summer on the Lakes, in 1843*），一部半游记半社会评论、穿插诗歌与小说的文字，1844 年出版。书中她把对壮丽自然伟力与环境的爱慕、对欧洲移民的同情，以及对西部不移的扩张主义与移民殖民的笃定，熔于一炉。
+  - id: 8
+    kind: body
+    source: |-
+      In 1844 Fuller moved to New York City and went to work for Horace Greeley’s famous newspaper, the *New York Tribune*, as a full-time book reviewer. Where the *Dial* had a small and declining circulation, the *Tribune* had 50,000 subscribers. Over the next four years, Fuller wrote over 250 *Tribune* articles on literature, music, and art as well as social and political issues. She also published poetry during this period, though her poetry has never received much attention.
+    step1: |-
+      In 1844 Fuller moved to New York City and went to work for Horace Greeley’s famous newspaper, the *New York Tribune*, as a full-time book reviewer. Where the *Dial* had a small and declining circulation, the *Tribune* had 50,000 subscribers. Over the next four years, Fuller wrote over 250 *Tribune* articles on literature, music, and art as well as social and political issues. She also published poetry during this period, though her poetry has never received much attention.
+    step2: |-
+      1844 年，富勒迁居纽约，入霍勒斯·格里利那份大名鼎鼎的《纽约论坛报》（*New York Tribune*），任全职书评人。《日晷》发行量小且日减，《论坛报》则有五万订户。此后四年，富勒为《论坛报》撰写了 250 余篇文章，纵论文献、音乐、艺术，以及社会政治议题。这一时期她也发表诗歌，尽管她的诗从未获得多少注意。
+  - id: 9
+    kind: body
+    source: |-
+      Starting in 1846, at her own initiative Fuller traveled to Europe, first to England and then to the Italian peninsula (Italy was not yet a united country), where she served as a foreign correspondent for Greeley. While still in England she met an Italian who would remain prominent in her life: Giuseppe Mazzini, Italian patriot and republican leader then in exile. In Italy she met another significant man for her, Giovanni Angelo Ossoli, whom she eventually married, though it is unclear when the wedding ceremony occurred, possibly after the birth of their baby boy, Angelo Eugene Philip Ossoli, nicknamed Angelino or Nino, on 5 September 1848 (Marshall 2013: 350)[^marshall-2013].
+    step1: |-
+      Starting in 1846, at her own initiative Fuller traveled to Europe, first to England and then to the Italian peninsula (Italy was not yet a united country), where she served as a foreign correspondent for Greeley. While still in England she met an Italian who would remain prominent in her life: Giuseppe Mazzini, Italian patriot and republican leader then in exile. In Italy she met another significant man for her, Giovanni Angelo Ossoli, whom she eventually married, though it is unclear when the wedding ceremony occurred, possibly after the birth of their baby boy, Angelo Eugene Philip Ossoli, nicknamed Angelino or Nino, on 5 September 1848 (Marshall 2013: 350)[^marshall-2013].
+    step2: |-
+      1846 年起，富勒主动赴欧，先到英国，再到意大利半岛（彼时意大利尚未统一），为格里利担任驻外记者。尚在英国时，她便结识了一位此后在她生命中举足轻重的意大利人：朱塞佩·马志尼，意大利爱国者与共和派领袖，当时正在流亡。到意大利后，她又遇见另一位对她的生命有分量的男人——乔瓦尼·安杰洛·奥索利；她最终与他成婚，但婚礼究竟何时举行已不可考，或许在他们的男婴出生之后：安杰洛·尤金·菲利普·奥索利，昵称安杰利诺或尼诺，生于 1848 年 9 月 5 日（Marshall 2013: 350）[^marshall-2013]。
+  - id: 10
+    kind: body
+    source: |-
+      When a Roman Republic was proclaimed in February 1849, the Ossolis were living in the democratic Republic and supporting its cause, led by Mazzini. The Republic sought to replace the Pope as temporal ruler of Rome, while continuing his spiritual function. The Pope did not acquiesce, and requested foreign aid to restore his power. France provided it. In the war that followed, the Ossolis fought on behalf of the Republic, he as a soldier and she as a nurse, but the French prevailed, and the Ossolis fled into exile in Florence.
+    step1: |-
+      When a Roman Republic was proclaimed in February 1849, the Ossolis were living in the democratic Republic and supporting its cause, led by Mazzini. The Republic sought to replace the Pope as temporal ruler of Rome, while continuing his spiritual function. The Pope did not acquiesce, and requested foreign aid to restore his power. France provided it. In the war that followed, the Ossolis fought on behalf of the Republic, he as a soldier and she as a nurse, but the French prevailed, and the Ossolis fled into exile in Florence.
+    step2: |-
+      1849 年 2 月罗马共和国宣告成立时，奥索利夫妇正生活在那个民主共和国里，支持马志尼领导的事业。共和国要取代教皇成为罗马的世俗统治者，同时保留其精神职能。教皇不肯俯就，乞外援以复其权；法国应之。在随之而来的战争中，奥索利夫妇为共和国而战——他投军，她任护士。然而法军得胜，夫妇俩逃亡佛罗伦萨。
+  - id: 11
+    kind: body
+    source: |-
+      In 1850 the couple decided to move to the United States, where Margaret hoped to publish a book she had written on the short-lived Roman Republic, even though Giovanni spoke no English. The family set sail in May on a U.S. freighter named the *Elizabeth*, bound for New York. During the voyage the captain died of smallpox, leaving the first mate as acting captain. Under this inexperienced leadership, the ship ran aground on a sandbar near Fire Island, NY, during a storm at 3:30 a.m. on 19 July 1850. Since they were less than 300 yards from shore, those who could swim jumped into the water—including the acting captain. The Ossoli family could not swim, and were left behind. A crowd formed on shore, but no one tried to rescue the Ossolis. After 10 hours, a giant wave washed Margaret and her family out to sea. Nino’s tiny body was eventually found ashore; neither of the adult Ossoli bodies ever was. The manuscript of Margaret’s book on the Roman Republic was among the items lost.
+    step1: |-
+      In 1850 the couple decided to move to the United States, where Margaret hoped to publish a book she had written on the short-lived Roman Republic, even though Giovanni spoke no English. The family set sail in May on a U.S. freighter named the *Elizabeth*, bound for New York. During the voyage the captain died of smallpox, leaving the first mate as acting captain. Under this inexperienced leadership, the ship ran aground on a sandbar near Fire Island, NY, during a storm at 3:30 a.m. on 19 July 1850. Since they were less than 300 yards from shore, those who could swim jumped into the water—including the acting captain. The Ossoli family could not swim, and were left behind. A crowd formed on shore, but no one tried to rescue the Ossolis. After 10 hours, a giant wave washed Margaret and her family out to sea. Nino’s tiny body was eventually found ashore; neither of the adult Ossoli bodies ever was. The manuscript of Margaret’s book on the Roman Republic was among the items lost.
+    step2: |-
+      1850 年，夫妇俩决定移居美国——玛格丽特希望在那里出版她写的一本关于短命罗马共和国的书，尽管乔瓦尼不会英语。全家于 5 月登上驶往纽约的美国货船“伊丽莎白号”。航行途中船长死于天花，大副代理其职。在这位没有经验者的指挥下，1850 年 7 月 19 日凌晨 3 点 30 分，船在风暴中于纽约火岛附近的沙洲搁浅。因离岸不足三百码，会游泳的人纷纷跳海——代理船长也在其中。奥索利一家不会游泳，被撇在了船上。岸上聚起了人群，却无人下水施救。十小时后，巨浪把玛格丽特一家卷入大海。尼诺小小的遗体后来被冲上海岸；两位大人的遗体则始终未寻获。玛格丽特那部关于罗马共和国的书稿，也在失物之列。
+  - id: 12
+    kind: body
+    source: |-
+      ## 2. Major Themes in Fuller’s Philosophy
+    step1: |-
+      ## 2. Major Themes in Fuller’s Philosophy
+    step2: |-
+      ## 2. 富勒哲学的主要论题
+  - id: 13
+    kind: body
+    source: |-
+      ### 2.1 Unitarianism and the Cultivation of the Self
+    step1: |-
+      ### 2.1 Unitarianism and the Cultivation of the Self
+    step2: |-
+      ### 2.1 一位论派与自我修养
+  - id: 14
+    kind: body
+    source: |-
+      Central to both Margaret Fuller’s theory and practice of life was the cultivation of the self. The practice of “self-improvement” or “self-culture” was very widespread among middle-class white Americans of the time. Even working-class men like Abraham Lincoln labored for self-improvement in their individual character and talents as a pathway to security and prosperity. Conscious development of one’s own integrity and abilities was regarded as a personal application of America’s proud white male democracy. The most admired and sophisticated exponent of self-culture was the famous clergyman of the recently emerged Unitarian religious denomination, William Ellery Channing (1780–1842). Channing pioneered a form of Christian humanism. Fuller regarded him as a heroic exemplar of her own ideal of self-culture. Channing’s project included both genders and all races of human beings (Fuller 1845: 60)[^fuller-1845][^fuller-1845-2].
+    step1: |-
+      Central to both Margaret Fuller’s theory and practice of life was the cultivation of the self. The practice of “self-improvement” or “self-culture” was very widespread among middle-class white Americans of the time. Even working-class men like Abraham Lincoln labored for self-improvement in their individual character and talents as a pathway to security and prosperity. Conscious development of one’s own integrity and abilities was regarded as a personal application of America’s proud white male democracy. The most admired and sophisticated exponent of self-culture was the famous clergyman of the recently emerged Unitarian religious denomination, William Ellery Channing (1780–1842). Channing pioneered a form of Christian humanism. Fuller regarded him as a heroic exemplar of her own ideal of self-culture. Channing’s project included both genders and all races of human beings (Fuller 1845: 60)[^fuller-1845][^fuller-1845-2].
+    step2: |-
+      自我修养是玛格丽特·富勒人生理论与践行的核心。“自我改善”或“自我修养”的实践，在当时白人中产美国人中蔚为风气；连亚伯拉罕·林肯这样的工人阶级出身的男子，也为锤炼个人品格与才能而刻苦自修，以求安稳与发达。自觉发展自身的正直与才能，被视为把美国引以为傲的白人男性民主付诸个人实践的途径。自我修养最受推崇、最精致的倡导者，是新近兴起的一位论教派的名牧威廉·埃勒里·钱宁（William Ellery Channing，1780–1842）。钱宁开创了一种基督教人文主义。富勒视之为其自我修养理想的英雄式典范。钱宁的事业兼及两性、遍及一切种族的人类（Fuller 1845: 60）[^fuller-1845][^fuller-1845-2]。
+  - id: 15
+    kind: body
+    source: |-
+      Margaret Fuller was raised a Unitarian. The denomination originated in early nineteenth-century New England in an intellectual rebellion by descendants of the Puritans against Calvinist theology. The name “Unitarian” reflected their repudiation of the conventional Trinitarian Christian doctrine of a triune God of Father, Son, and Holy Spirit. The New England Unitarians ceased to regard Jesus Christ as a unique divine personification of the Godhead. Instead, they emphasized the potential divinity in everyone: every good person should seek to create their own Christlike, even Godlike, character. As Channing explained in his sermon entitled “Likeness to God”: “God becomes a real being to us in proportion as his own nature is unfolded within us” (D. Howe 1970: 120; citing Channing 1828, in *Works*, III, 229)[^channing-1828][^howe-1970].
+    step1: |-
+      Margaret Fuller was raised a Unitarian. The denomination originated in early nineteenth-century New England in an intellectual rebellion by descendants of the Puritans against Calvinist theology. The name “Unitarian” reflected their repudiation of the conventional Trinitarian Christian doctrine of a triune God of Father, Son, and Holy Spirit. The New England Unitarians ceased to regard Jesus Christ as a unique divine personification of the Godhead. Instead, they emphasized the potential divinity in everyone: every good person should seek to create their own Christlike, even Godlike, character. As Channing explained in his sermon entitled “Likeness to God”: “God becomes a real being to us in proportion as his own nature is unfolded within us” (D. Howe 1970: 120; citing Channing 1828, in *Works*, III, 229)[^channing-1828][^howe-1970].
+    step2: |-
+      玛格丽特·富勒自幼长于一位论派。该教派发端于十九世纪初的新英格兰：清教徒后裔们在思想上反叛加尔文主义神学。“一位论”（Unitarian）之名，正表明他们拒斥传统三位一体教义——圣父、圣子、圣灵三位一体的上帝。新英格兰一位论者不再把耶稣基督视为神性唯一神圣的化身，转而强调人人皆有的潜在神性：每个善良之人都应力求造就自己基督般、乃至上帝般的品格。钱宁在题为“与神相似”的布道中解释说：“上帝之成为我们眼中的实在，与其本性在我们之内展开的程度成正比”（D. Howe 1970: 120；引 Channing 1828, in *Works*, III, 229）[^channing-1828][^howe-1970]。
+  - id: 16
+    kind: body
+    source: |-
+      Margaret Fuller’s personal quest for own self-realization as well as her ardent feminist program for the self-realization of all women both took inspiration from Channing. Even though she abandoned the Unitarian church and stopped attending any religious services, Fuller never lost her admiration for Channing. Fuller set forth her mature religious principles in “A Credo” around June 1840 (preserved in the Margaret Fuller Ossoli Collection, especially pp. 97–98, in the Boston Public Library, and now available also in *The New England Quarterly*, with an Introduction by Phyllis Cole. See Cole 2024)[^cole-2024].
+    step1: |-
+      Margaret Fuller’s personal quest for own self-realization as well as her ardent feminist program for the self-realization of all women both took inspiration from Channing. Even though she abandoned the Unitarian church and stopped attending any religious services, Fuller never lost her admiration for Channing. Fuller set forth her mature religious principles in “A Credo” around June 1840 (preserved in the Margaret Fuller Ossoli Collection, especially pp. 97–98, in the Boston Public Library, and now available also in *The New England Quarterly*, with an Introduction by Phyllis Cole. See Cole 2024)[^cole-2024].
+    step2: |-
+      玛格丽特·富勒追求自我实现的个人征程，以及她为全体妇女的自我实现而奔走的热切女权纲领，都从钱宁那里汲取灵感。尽管她后来脱离了一位论教会、不再参加任何礼拜，富勒对钱宁的敬慕始终不渝。1840 年 6 月前后，富勒在《信经》（“A Credo”）中陈述了她成熟的宗教原则（手稿存波士顿公共图书馆玛格丽特·富勒·奥索利文库，尤其 pp. 97–98；今亦载 *The New England Quarterly*，菲莉丝·科尔作导言。见 Cole 2024）[^cole-2024]。
+  - id: 17
+    kind: body
+    source: |-
+      Fuller, Channing and many other American intellectuals of their time based their conception of self-improvement on the faculty psychology of the Scottish moral philosophers Thomas Reid, Lord Kames, and Dugald Stewart. The word “faculty”, like the word “facility”, is derived from the Latin word for “power”, and faculty psychology throughout ancient, medieval, and modern times has been the study of human powers. The conventional vision of human nature in Fuller’s day was hierarchical, with reason being rightly superior to the emotions. Conscience was considered a rational power. Channing Unitarians endorsed metaphysical dualism and sought to subordinate matter to mind in the process of self-culture. A key issue for self-improvement was subordinating “the passions” (including selfish, mercenary motives) to reason, the divine quality in human nature. This version of Christian humanism took academic shape in the moral philosophy taught at Harvard during Fuller’s lifetime (D. Howe 1988, especially chap. 2, “The Moral Nature of Man”). Margaret Fuller became the first woman granted library privileges at what was then an all-male university.
+    step1: |-
+      富勒、钱宁以及当时许多美国知识分子，都把自我改善的观念建立在苏格兰道德哲学家托马斯·里德、凯姆斯勋爵与杜格尔德·斯图尔特的官能心理学之上。“官能”（faculty）一词与“便利”（facility）同源，皆出自拉丁语中表示“力量”的词；从古代经中世纪到近代，官能心理学一直是研究人类诸种力量之学。富勒时代通行的性情形貌是等级式的：理性理所当然地高于情感；良心被视为一种理性力量。钱宁派一位论者主张形而上学二元论，在自我修养的过程中力求使物质服从于心灵。自我改善的一大关键，便是让“激情”（包括自私、图利的动机）服从理性——人性中那属神的部分。这种基督教人文主义在富勒有生之年于哈佛所授的道德哲学中获得了学院形态（D. Howe 1988，尤其第 2 章“人的道德本性”）。玛格丽特·富勒成为获准使用图书馆的第一位女性——那所大学当时还是清一色的男校。
+    step2: |-
+      富勒、钱宁以及当时许多美国知识分子，都把自我改善的观念奠基于苏格兰道德哲学家托马斯·里德、凯姆斯勋爵与杜格尔德·斯图尔特的官能心理学。“官能”（faculty）与“便利”（facility）同源，皆出自拉丁语表“力量”之词；自古及今，官能心理学一直是研究人类诸力量之学。富勒时代通行的性情形貌是等级式的：理性理所当然地高于情感；良心被视作一种理性力量。钱宁派一位论者主张形而上学二元论，在自我修养中力求物质服从心灵。自我改善的一大关键，正是让“激情”（包括自私与图利的动机）服从理性——人性中那属神的部分。这种基督教人文主义，在富勒有生之年于哈佛所授的道德哲学里获得了学院形态（D. Howe 1988，尤其第 2 章“人的道德本性”）。玛格丽特·富勒由此成为获准使用图书馆的第一位女性——那所大学当时还是清一色的男校。
+  - id: 18
+    kind: body
+    source: |-
+      ### 2.2 Transcendentalism and Platonism
+    step1: |-
+      ### 2.2 Transcendentalism and Platonism
+    step2: |-
+      ### 2.2 超验主义与柏拉图主义
+  - id: 19
+    kind: body
+    source: |-
+      1835 was a year when the most influential persons in Margaret Fuller’s life changed: her father Timothy died, and she made the acquaintance of Ralph Waldo Emerson, who became her friend and, for a time, mentor. Fuller’s relationship with Emerson, like that with her father, was full of tensions. The two had very discordant personalities, as Judith Thurman has observed: “Waldo’s cool, cerebral, and ironic; Margaret’s noisy, histrionic, and sincere” (Thurman 2013: 79)[^thurman-2013]. Though their interactions were often tempestuous, Emerson converted Fuller to his own version of self-improvement: the quest for spiritual self-transcendence. Followers became known as transcendentalists because they sought to transcend the material world in communion with the divine. Fuller became a member of the Transcendental Club founded by Emerson and Frederick Henry Hedge, virtually all of whose members were Unitarians or former Unitarians. The transcendentalists (including Thoreau, Theodore Parker, and Elizabeth Peabody) are remembered today for their contributions to American literature, philosophy, and social reform, the first intellectual counter-culture in American history (see the entry on transcendentalism). At Emerson’s invitation, Fuller edited the transcendental periodical *The Dial* for two years (1840–42) and continued to write for it afterwards.
+    step1: |-
+      1835 年是玛格丽特·富勒生命中影响最深的人事更迭之年：父亲蒂莫西去世，而她结识了拉尔夫·沃尔多·爱默生——后者成为她的朋友，并在一段时期里充当她的师长。富勒与爱默生的关系，一如她与父亲的关系，充满张弛。两人性情极不合拍，朱迪丝·瑟曼有言：“沃尔多冷静、理性而讥诮，玛格丽特喧闹、做作而真诚”（Thurman 2013: 79）[^thurman-2013]。尽管往来常起风波，爱默生仍把富勒转到了他自己那一版自我改善——求精神上的自我超越。追随者因力求在与神合一中超越物质世界，遂被称为“超验主义者”。富勒加入了爱默生与弗雷德里克·亨利·赫奇创立的超验主义俱乐部，其成员几乎全是一位论者或前一位论者。这些超验主义者（包括梭罗、西奥多·帕克与伊丽莎白·皮博迪）至今为人铭记，是因为他们于美国文学、哲学与社会改革的贡献——那是美国史上第一场智识反文化（见超验主义词条）。应爱默生之邀，富勒主编超验主义刊物《日晷》两年（1840–1842），此后仍为之撰稿。
+    step2: |-
+      1835 年，玛格丽特·富勒生命中影响最深的人事更迭之年：父亲蒂莫西去世，她则结识了拉尔夫·沃尔多·爱默生——他成为她的朋友，并在一段时期里充当她的师长。富勒与爱默生的关系，正如她与父亲的关系，充满张弛。两人性情极不合拍，朱迪丝·瑟曼有言：“沃尔多冷静、理性而讥诮；玛格丽特喧闹、做作而真诚”（Thurman 2013: 79）[^thurman-2013]。往来虽常起风波，爱默生终究把富勒引向了他自己那一版自我改善：求精神上的自我超越。追随者因力求在与神合一中超越物质世界，遂得名“超验主义者”。富勒加入了爱默生与弗雷德里克·亨利·赫奇创立的超验主义俱乐部，其成员几乎全是一位论者或前一位论者。这些超验主义者（包括梭罗、西奥多·帕克与伊丽莎白·皮博迪）至今为人所记，是因他们对美国文学、哲学与社会改革的贡献——那是美国史上第一场智识反文化（见超验主义词条）。应爱默生之邀，富勒主编超验主义刊物《日晷》两年（1840–1842），此后仍为之撰稿。
+  - id: 20
+    kind: body
+    source: |-
+      The transcendentalists aspired to rescue the United States from cultural provincialism. American culture was then chiefly based on Calvinism and on the Enlightenment; the transcendentalists wanted to introduce their country to Romanticism and the philosophy of Kant. Fuller was strongly attracted to German Romanticism. Hence her ambition, never realized, to write a biography of Goethe. Of the ancient philosophers to whom her father had introduced her, Fuller’s favorite was Plato.
+    step1: |-
+      超验主义者志在把美国从文化的地方气中救拔出来。当时的美国文化主要建于加尔文主义与启蒙运动之上；超验主义者要把浪漫主义与康德哲学引入自己的国家。富勒对德国浪漫主义心向神往，因而曾立志写一部歌德传，惜未实现。父亲早年为她引介的古代哲学家中，她最爱柏拉图。
+    step2: |-
+      超验主义者志在把美国自文化的地方气中救拔出来。彼时美国文化主要立于加尔文主义与启蒙运动之上；他们要把浪漫主义与康德哲学引入故国。富勒心向德国浪漫主义，因而曾立志写一部歌德传，惜未实现。父亲早年为她引介的古代哲学家中，她最爱柏拉图。
+  - id: 21
+    kind: body
+    source: |-
+      The American transcendentalists embraced Plato and Platonism in general. They looked back fondly on the Platonists of seventeenth-century Cambridge University in England. The Unitarian and transcendentalist intellectuals of nineteenth-century New England were aware of these Renaissance intellectuals and admired their reliance on individual freedom as the foundation for religious faith rather than intolerant coercion. The Cambridge Platonists were an assorted group of philosophers and theologians who advanced arguments for human autonomy, holding an optimistic view of human capabilities, and maintaining the compatibility of reason and faith. Some of them rejected Calvinism. They not only found Plato’s own philosophy congenial, but also that of the third-century Alexandrian Neoplatonist named Plotinus. Plotinus had developed a system for self-cultivation, seeking God within one’s own *psyche*. Plotinus privileged intuitive knowledge and this aspect of his philosophy might have been attuned to Fuller’s feminist view expressed in her claim that “[woman]’s intuitions are more rapid and more correct. […] common women […] will seize and delineate [the fine invisible links] with unerring discrimination.” (Fuller 1845: 91)[^fuller-1845][^fuller-1845-2]. All of this heritage was invoked in the nineteenth century by William Ellery Channing, Ralph Waldo Emerson, and Margaret Fuller (see the entry on Cambridge Platonistis).
+    step1: |-
+      美国超验主义者整体上拥戴柏拉图与柏拉图主义。他们深情回望十七世纪英国剑桥大学的柏拉图主义者。十九世纪新英格兰的一位论与超验主义知识分子知道这批文艺复兴时期的思想家，也钦佩他们以个人自由而非偏狭强制为宗教信仰之基。剑桥柏拉图主义者是一群驳杂的哲学家与神学家，他们为人的自主立论，对人类能力持乐观之见，并坚持理性与信仰相容。其中一些人拒斥加尔文主义。他们不仅觉得柏拉图本人的哲学合意，也欣赏三世纪亚历山大里亚的新柏拉图主义者普罗提诺。普罗提诺发展出一套自我修养的体系，在个人的 *psyche*（灵魂）之内寻求神。普罗提诺推尊直觉之知，而他哲学的这一面向，或许恰好呼应了富勒的女权见解——她断言：“〔女人〕的直觉更迅捷，也更准确。……寻常女人……会以不失误的辨别力抓住并勾画出〔那些精微无形的联系〕。”（Fuller 1845: 91）[^fuller-1845][^fuller-1845-2]。这一整份遗产，在十九世纪由威廉·埃勒里·钱宁、拉尔夫·沃尔多·爱默生与玛格丽特·富勒重新唤起（见剑桥柏拉图主义者词条）。
+    step2: |-
+      美国超验主义者整体上拥戴柏拉图与柏拉图主义。他们深情回望十七世纪英国剑桥大学的柏拉图主义者。十九世纪新英格兰的一位论者与超验主义知识分子知道这批文艺复兴时期的思想家，也钦佩其以个人自由、而非偏狭强制为宗教信仰之基。剑桥柏拉图主义者是一群驳杂的哲学家与神学家：他们为人的自主立论，对人类能力持乐观之见，并坚持理性与信仰相容，其中一些人拒斥加尔文主义。他们不仅觉得柏拉图本人的哲学合意，也欣赏三世纪亚历山大里亚的新柏拉图主义者普罗提诺。普罗提诺发展出一套自我修养的体系，在个人的 *psyche*（灵魂）之内寻求神。普罗提诺推尊直觉之知；而他哲学的这一面向，或许恰与富勒的女权见解相呼应——她断言：“〔女人〕的直觉更迅捷，也更准确。……寻常女人……会以从不失误的辨别力抓住并勾画出〔那些精微无形的联系〕。”（Fuller 1845: 91）[^fuller-1845][^fuller-1845-2]。这一整份遗产，在十九世纪由威廉·埃勒里·钱宁、拉尔夫·沃尔多·爱默生与玛格丽特·富勒重新唤起（见剑桥柏拉图主义者词条）。
+  - id: 22
+    kind: body
+    source: |-
+      Fuller was thoroughly conversant with Plato, but by no means his uncritical follower. In some of his writings, Plato was the first feminist. Among the guardians of his ideal Republic a perfect meritocracy prevails and women are included within the public spirit of the *polis*; they receive the same education as men and have equal opportunity to exercise political power. Elsewhere, however, Plato compromised with and even legitimated the prevailing subjugation of women. Fuller accordingly rendered a mixed verdict on Plato’s philosophy of gender (Fuller 1845: 90; also see Okin 1979: 15–70)[^fuller-1845][^fuller-1845-2][^okin-1979]. Here, as always, she used tradition as a resource without letting herself be imprisoned by it.
+    step1: |-
+      富勒对柏拉图烂熟于心，却绝非亦步亦趋的门徒。在柏拉图某些篇章里，他是第一位女权主义者：在其理想国的护卫者中，完美的贤能政治盛行，妇女也被纳入 *polis*（城邦）的公共精神；她们与男子受同样的教育，并有同等机会执掌政治权力。然而在其他地方，柏拉图又与当时对妇女的压制妥协，甚至为之张目。故富勒对柏拉图的性别哲学给出了褒贬参半的裁断（Fuller 1845: 90；另见 Okin 1979: 15–70）[^fuller-1845][^fuller-1845-2][^okin-1979]。在这里，一如既往，她把传统当作资源来用，却不让自己被传统囚禁。
+    step2: |-
+      富勒对柏拉图烂熟于心，却绝非亦步亦趋的门徒。在柏拉图某些篇章里，他堪称第一位女权主义者：其理想国的护卫者中，完美的贤能政治盛行，妇女也被纳入 *polis*（城邦）的公共精神；她们与男子受同样教育，并有同等机会执掌政治权力。可在另一些地方，柏拉图又与当时对妇女的压制妥协，甚至为之张目。故富勒对柏拉图的性别哲学给出了褒贬参半的裁断（Fuller 1845: 90；另见 Okin 1979: 15–70）[^fuller-1845][^fuller-1845-2][^okin-1979]。在此，一如她一贯的作风：把传统当作资源使用，却不让自己被它囚禁。
+  - id: 23
+    kind: body
+    source: |-
+      Where Channing and other Unitarian thinkers had been metaphysical dualists eager to impose the supremacy of mind over matter, Emerson and most transcendentalists espoused pure idealism. At least initially, transcendentalism was itself a religion, and a religion that rejected the relevance of empirical evidence like Scripture, miracles, and the fulfillment of prophecies (see the entry on transcendentalism).
+    step1: |-
+      钱宁与其他一位论思想家本是形而上学二元论者，急于让心灵凌驾于物质之上；而爱默生与多数超验主义者则服膺纯粹观念论。至少起初，超验主义本身就是一种宗教，且是一种拒不理会经文、奇迹、预言应验之类经验证据的宗教（见超验主义词条）。
+    step2: |-
+      钱宁等一位论思想家本是形而上学二元论者，急于让心灵凌驾物质之上；爱默生与多数超验主义者则服膺纯粹观念论。至少起初，超验主义本身就是一种宗教——且是拒斥经文、奇迹、预言应验之类经验证据之相关性的宗教（见超验主义词条）。
+  - id: 24
+    kind: body
+    source: |-
+      Margaret Fuller retained the dualistic metaphysics of Channing rather than the pure idealism of Emerson and her other transcendentalist friends. But she followed the transcendentalist approach to the distinction between “Reason” and “Understanding”. What we normally regard as perception and logical thinking they classified as “Understanding”. “Reason” Fuller and others saw as divinely inspired insight, peculiar to each individual and much more important for true religion. “Understanding” carried us through the mundane, practical material world. “Reason” was the faculty through which a wise person conducted the Platonic Quest to go beyond the material in search of the ideal. Both Channing and Emerson wanted to recreate in the modern world the role that had been played by the New England Puritan minister as inspirational intellectual, spiritual, and moral leader. Fuller was determined to open this role to women. Even while embracing nineteenth-century Romanticism, she sought to implement the Enlightenment ideal of natural rights. In this and other ways, she stands out to us as the most modern of the New England transcendentalists.
+    step1: |-
+      玛格丽特·富勒保留了钱宁的二元论形而上学，未取爱默生等超验主义友人的纯粹观念论。但在“理性”与“知性”之别上，她循超验主义的路数：我们通常所谓知觉与逻辑思维，他们归为“知性”；“理性”则被富勒等人视为神圣启发的洞见，人各独具，于真宗教而言要紧得多。“知性”载我们穿行于凡俗实用的物质世界；“理性”则是智者据以执行柏拉图式追寻——超出物质以求理想——的官能。钱宁与爱默生都想在现代世界重建新英格兰清教牧师曾扮演的角色：启迪人心的智识、精神与道德领袖。富勒决意把这一角色向女性敞开。即便在拥抱十九世纪浪漫主义之时，她仍力求落实启蒙运动的自然权利理想。在这一点及其他方面，她都格外显出是新英格兰超验主义者中最现代的一位。
+    step2: |-
+      玛格丽特·富勒保留了钱宁的二元论形而上学，不取爱默生等超验主义友人的纯粹观念论。但在“理性”与“知性”之分上，她循超验主义路数：我们通常所谓知觉与逻辑思维，他们归为“知性”；“理性”则被富勒等人视为神圣启发的洞见，人各独具，于真宗教要紧得多。“知性”载我们穿行于凡俗实用的物质世界；“理性”则是智者据以执行柏拉图式追寻的官能——超出物质，以求理想。钱宁与爱默生都想在现代世界重建新英格兰清教牧师昔日的角色：启迪人心的智识、精神与道德领袖。富勒决意把这角色向女性敞开。即便拥抱十九世纪浪漫主义之时，她仍力求落实启蒙运动的自然权利理想。这一点以及其他方面，都使她格外显出是新英格兰超验主义者中最现代的一位。
+  - id: 25
+    kind: body
+    source: |-
+      ### 2.3 Feminism and Conversations
+    step1: |-
+      ### 2.3 Feminism and Conversations
+    step2: |-
+      ### 2.3 女权主义与谈话会
+  - id: 26
+    kind: body
+    source: |-
+      Margaret Fuller’s “Conversations” in Boston became famous among early American feminists. They commenced in 1839 and continued until April 1844. Each would last thirteen weeks in a pre-announced time and place (usually the parlor or the bookstore of her friend Elizabeth Peabody). The “conversants” paid to participate—usually ten dollars for the series, about what Emerson and other transcendentalists charged for a set of their lectures. Most of the Conversations were for women only and had about twenty-five participants. Fuller herself led off each two-hour weekly session with a talk, which the audience were then encouraged to discuss and question. The women who attended were generally well-read, usually Unitarian in practice or background, often wives or relatives of male transcendentalists. Fuller conceived of her Conversations as essential supplements to the educational opportunities then available to middle- and upper-class New England women. These might include literature, classics, and fine arts, simply decorative or recreational in purpose. Fuller would start off with such subjects, but then use them to press her participants to address serious questions about women’s lives, roles, and purposes. She was applying a conversational method she had learned from Plato’s dialogues and seen exemplified by her fellow transcendentalist and Plato disciple Bronson Alcott. Her concern was not so much to teach as to provoke others to think more deeply than usual (see Capper 1987)[^capper-1987].
+    step1: |-
+      玛格丽特·富勒在波士顿的“谈话会”，在早期美国女权主义者中声名远播。谈话会始于 1839 年，延续至 1844 年 4 月。每期十三周，时间地点事先公布（常在挚友伊丽莎白·皮博迪的客厅或书店）。“谈话者”付费参加——通常一期十美元，与爱默生等人一套讲座的收费相当。多数谈话会只收女性，约二十五人参加。富勒亲自主持每周两小时的头一场谈话，随后鼓励听众讨论与提问。与会女性大多博于阅读，通常是一位论派的信众或出身该派，且往往是男性超验主义者的妻室或亲眷。富勒把谈话会设想为当时新英格兰中上层女性所获教育机会的必要补充——那些机会或涉文学、古典与美术，用意不过是装点或消遣。富勒会从这类题目入手，继而借之逼问参与者一些关于妇女生活、角色与目标的严肃问题。她运用的谈话法，学自柏拉图的对话，又见于她的同道、柏拉图信徒布朗森·奥尔科特的示范。她所在意的，与其说是教，不如说是激人比平常想得更深（见 Capper 1987）[^capper-1987]。
+    step2: |-
+      玛格丽特·富勒在波士顿的“谈话会”，在早期美国女权主义者中声名远播。谈话会始于 1839 年，延续至 1844 年 4 月：每期十三周，时间地点事先公布（常在挚友伊丽莎白·皮博迪的客厅或书店）。“谈话者”付费参加——通常一期十美元，与爱默生等人一套讲座的收费相当。多数谈话会只收女性，约二十五人参加。富勒亲自主持每场两小时的头一轮谈话，随后鼓励听众讨论与提问。与会女性大多博览群书，通常是一位论派信众或有该派背景，且往往是男性超验主义者的妻室或亲眷。富勒把谈话会设想为当时新英格兰中上层女性所获教育机会的必要补充——那些机会或涉文学、古典与美术，用意不过是装点或消遣。她从这类题目入手，继而借之逼问参与者一些关于妇女生活、角色与目标的严肃问题。这一谈话法，她学自柏拉图对话，也见于同道、柏拉图信徒布朗森·奥尔科特的示范。她所在意的，与其说是教，不如说是激人比平常想得更深（见 Capper 1987）[^capper-1987]。
+  - id: 27
+    kind: body
+    source: |-
+      Among the many women who attended Fuller’s Conversations a number would go on to prominence in feminist and other reform causes, such as Lydia Maria Child, Elizabeth Peabody, Caroline Sturgis, Sophia Ripley, Julia Ward Howe, Elizabeth Cady Stanton, Lydian Emerson (wife of Ralph Waldo Emerson), Ann Terry Phillips (wife of Wendell Phillips), Mary Peabody Mann (wife of Horace Mann), and Mary Channing (daughter of William Ellery Channing) (see Capper 2007: 110)[^capper-2007].
+    step1: |-
+      参加富勒谈话会的众多女性中，不少人后来在女权及其他改革事业中崭露头角，如莉迪亚·玛丽亚·蔡尔德、伊丽莎白·皮博迪、卡罗琳·斯特吉斯、索菲娅·里普利、朱莉娅·沃德·豪、伊丽莎白·卡迪·斯坦顿、莉迪安·爱默生（拉尔夫·沃尔多·爱默生之妻）、安·特里·菲利普斯（温德尔·菲利普斯之妻）、玛丽·皮博迪·曼（霍勒斯·曼之妻）以及玛丽·钱宁（威廉·埃勒里·钱宁之女）（见 Capper 2007: 110）[^capper-2007]。
+    step2: |-
+      参加富勒谈话会的众多女性中，不少人后来在女权及其他改革事业中崭露头角：莉迪亚·玛丽亚·蔡尔德、伊丽莎白·皮博迪、卡罗琳·斯特吉斯、索菲娅·里普利、朱莉娅·沃德·豪、伊丽莎白·卡迪·斯坦顿、莉迪安·爱默生（拉尔夫·沃尔多·爱默生之妻）、安·特里·菲利普斯（温德尔·菲利普斯之妻）、玛丽·皮博迪·曼（霍勒斯·曼之妻）以及玛丽·钱宁（威廉·埃勒里·钱宁之女）（见 Capper 2007: 110）[^capper-2007]。
+  - id: 28
+    kind: body
+    source: |-
+      In these Conversations Fuller sought for a while to avoid discussing social reform causes other than feminism, such as antislavery, even though some of her participants were already getting involved in them. The British feminist Harriet Martineau, who visited America, and befriended Fuller, in her *Autobiography* (written in 1855 and published in 1877) criticized her Conversations for addressing ideals and “shallow conceits.” In manuscript materials, as well as in published accounts of these meetings, it is clear that Fuller’s pedagogy aimed at encouraging participation, considering herself a facilitator rather than a leader in the discussions, thus developing a political sense of participation and equality (see Craig Simmons 1994)[^craig-1994].
+    step1: |-
+      在这些谈话会里，富勒一度有意回避女权之外的社会改革议题，例如废除奴隶制，尽管部分参与者已在涉足其中。曾访美并与富勒结为友人的英国女权主义者哈丽雅特·马蒂诺，在其《自传》（1855 年写成，1877 年出版）里批评这些谈话会只谈理想与“浅薄的巧智”。从手稿材料与已刊的会议记述可以看出，富勒的教学意在鼓励参与，她把自己看作讨论的促成者而非领袖，由此培养起一种参与与平等的政治意识（见 Craig Simmons 1994）[^craig-1994]。
+    step2: |-
+      在这些谈话会里，富勒一度有意回避女权之外的社会改革议题——比如废奴——尽管部分参与者已涉足其中。曾访美并与富勒结为友人的英国女权主义者哈丽雅特·马蒂诺，在其《自传》（1855 年写成，1877 年出版）中批评这些谈话会只谈理想与“浅薄的巧智”。由手稿材料与已刊会议记述可见，富勒的教学意在鼓励参与：她把自己看作讨论的促成者而非领袖，由此培养起一种参与与平等的政治意识（见 Craig Simmons 1994）[^craig-1994]。
+  - id: 29
+    kind: body
+    source: |-
+      In July 1843, *The Dial* published as its lead article the fruits of Fuller’s new position, “The Great Lawsuit: Man *versus* Men, Woman *versus* Women”. Despite its title, the article was not framed as a lawsuit, but rather as a complex tension between the ideal and the mundane versions of the human being. It postulates that *Manhood* (“Man”) and *Womanhood* (“Woman”) are transcendent ideals that individuals should strive to realize, and that each ideal contains both masculine and feminine qualities. There is no “wholly masculine man; no purely feminine woman” (1843: 14; also in Fuller 1845: 103)[^fuller-1845][^fuller-1845-2]. But because men have greater access to the means of self-development, the ideals of manhood have been more fully realized in practice than those of womanhood. This needs to be corrected for the benefit of all humanity.
+    step1: |-
+      1843 年 7 月，《日晷》以头条刊出富勒新岗位的成果：《大诉讼：人对男人，女对女人》。文题虽如此，文章却并非以诉讼为框架，而是铺陈理想之人与凡俗之人之间的复杂张力。文中提出：*男子气*（“Man”）与*女子气*（“Woman”）是个人应力求实现的超验理想，而每一理想都兼含男性与女性品质。“没有全然男性的男人，也没有纯粹女性的女人”（1843: 14；亦见 Fuller 1845: 103）[^fuller-1845][^fuller-1845-2]。但因男子更易获致自我发展之手段，男子气的理想在实践中实现得远比女子气充分。为全人类的福祉，此弊须纠。
+    step2: |-
+      1843 年 7 月，《日晷》以头条刊出富勒在新岗位上的成果：《大诉讼：人对男人，女对女人》。文题虽如此，文章却并不以诉讼为框架，而是铺陈理想之人与凡俗之人之间的复杂张力。文中提出：*男子气*（“Man”）与*女子气*（“Woman”）是个人应力求实现的超验理想，而每一理想皆兼含男性与女性品质。“没有全然男性的男人，也没有纯粹女性的女人”（1843: 14；亦见 Fuller 1845: 103）[^fuller-1845][^fuller-1845-2]。然而男子更易获致自我发展之手段，故男子气的理想在实践中实现得远比女子气充分。为全人类之福祉，此弊须纠。
+  - id: 30
+    kind: body
+    source: |-
+      Fuller embraces in this article both Romantic and Enlightenment perceived ideals of democracy, remaining, nevertheless, firmly on the same ground of white self-assurance and predominance, occupied by numerous representatives of those cultural movements. She scorns America’s cant about democracy while betraying it in practice. “I need not speak of what has been done towards the red man, the black man” (1843: 8; 1845: 14), she comments in disgust. Now she views feminism as expressing a parallel objective with the abolition of slavery: both causes labor on behalf of the individual seeking to realize personal potential (as do other reform causes like temperance and public education for children and the mentally retarded). Only after her move to Europe, however, would her commitment to radical social change become complete.
+    step1: |-
+      富勒在此文中兼取浪漫主义与启蒙运动所理解的民主理想；不过她仍稳稳立足于白人自负与优势的那片地基之上——那也正是这两股文化运动的众多代表所据之地。她讥讽美国口头上高谈民主、行径上却背弃民主。她厌恶地写道：“我无须赘言对红人、黑人所做的一切”（1843: 8；1845: 14）。此时她把女权看作与废奴并行的目标：两项事业都为那些力求实现个人潜能的个体出力（节欲、儿童与智障者的公共教育等其他改革事业亦然）。然而，她对激进社会变革的全心投入，要待移居欧洲之后方才圆足。
+    step2: |-
+      富勒在此文中兼取浪漫主义与启蒙运动所理解的民主理想；但她仍稳稳立足白人自负与优势的那片地基——那也正是这两股文化运动众多代表所据之地。她讥讽美国口头上高谈民主、行径上却背弃之。她厌恶地写道：“对红人、黑人所做的一切，我无须赘言”（1843: 8；1845: 14）。此时她视女权为与废奴并行的目标：两项事业都为力求实现个人潜能的个体出力（节欲、儿童与智障者的公共教育等改革亦然）。不过，她对激进社会变革的全心投入，要待移居欧洲之后才圆足。
+  - id: 31
+    kind: body
+    source: |-
+      In the meantime, Fuller’s embrace of the feminist cause was explained more fully in the enlargement of her “Great Lawsuit” article into her book, *Woman in the Nineteenth Century*, the work for which she is chiefly remembered. She completed the book in November of 1844. Since the end of her “Conversations”, she had concluded that feminism was one of a number of worthy causes for human emancipation women should support. The book endorses freedom for Ireland and the return of Jews to Palestine, adding an emphatic warning against the annexation of Texas because that would strengthen the institution of slavery (Fuller 1845: 90–91)[^fuller-1845][^fuller-1845-2].
+    step1: |-
+      与此同时，富勒对女权事业的拥护，在她把那篇《大诉讼》扩写成《十九世纪的妇女》——她主要因之而被铭记的著作——时得到了更充分的阐发。她于 1844 年 11 月完稿。自谈话会结束以来，她已认定女权是女性应当支持的诸多人类解放事业之一。书中声援爱尔兰的自由与犹太人重返巴勒斯坦，并着重警告不得兼并德克萨斯——那将强化奴隶制（Fuller 1845: 90–91）[^fuller-1845][^fuller-1845-2]。
+    step2: |-
+      与此同时，富勒对女权事业的拥护，在她把《大诉讼》扩写成《十九世纪的妇女》时得到了更充分的阐发——她主要因这部书而被铭记。她于 1844 年 11 月完稿。自谈话会结束以来，她已认定女权是女性应当支持的诸多人类解放事业之一。书中声援爱尔兰自由与犹太人重返巴勒斯坦，并着重警告不得兼并德克萨斯——那将强化奴隶制（Fuller 1845: 90–91）[^fuller-1845][^fuller-1845-2]。
+  - id: 32
+    kind: body
+    source: |-
+      Modern readers will be surprised that Fuller’s book doesn’t mention woman suffrage, which was not then a public issue—though of course it was clearly implied by her insistence on equal rights for women, and Susan B. Anthony did acknowledge Fuller as a precursor of the women suffrage movement. Fuller usually addresses problems with popular culture rather than legal issues. She does stress the need for women to have a wider range of occupations available.
+    step1: |-
+      现代读者会感到意外：富勒的书未提妇女选举权——那在当时并非公共议题，尽管她的平等权利主张当然已清楚蕴含此意，苏珊·B. 安东尼也确实承认富勒是妇女选举权运动的先驱。富勒通常谈的是流行文化中的问题，而非法律议题。她确实强调需要为女性开辟更广的职业范围。
+    step2: |-
+      现代读者或会意外：富勒的书未提妇女选举权——那在当时尚非公共议题，尽管她的平等权利主张当然已清楚蕴含此意，苏珊·B. 安东尼也确曾承认富勒是妇女选举权运动的先驱。富勒通常谈流行文化中的问题，而不涉法律议题。她确实力陈须为女性开辟更广的职业范围。
+  - id: 33
+    kind: body
+    source: |-
+      > You ask me what offices they may fill; I reply—any. I do not care what case you put; let them be sea-captains, if you will. (Often misquoted as “let them be sea-captains, if they will”)
+    step1: |-
+      > 你问我她们能担何职；我答：任何职。我不在乎你举何例；若她们愿意，就让她们去当船长罢。（常被误引作“就让她们去当船长，若她们愿意”）
+    step2: |-
+      > 你问我她们能担何职；我答：任何职。我不在乎你举何例；只要她们愿意，就让她们去当船长罢。（常被误引作“就让她们去当船长，若她们愿意”）
+  - id: 34
+    kind: body
+    source: |-
+      A greater variety of occupations would help women to realize their potential, to “rouse their latent powers”, as she put it (Fuller 1845: 95)[^fuller-1845][^fuller-1845-2]. Most often, Fuller addresses the need to transform the marriage relationship. Instead of the woman belonging to the man, marriage should enable the two partners to ally and form a whole together. Ideally, marriage would be a “pilgrimage toward a common shrine” (Fuller 1845: 42)[^fuller-1845][^fuller-1845-2].
+    step1: |-
+      更多样的职业有助于女性实现其潜能，用她的话说，叫“唤醒她们蛰伏的力量”（Fuller 1845: 95）[^fuller-1845][^fuller-1845-2]。富勒最常谈的，是需要改造婚姻关系。婚姻不应让女人属于男人，而应使两个伴侣结成同盟、共同构成一个整体。理想地说，婚姻当是一段“朝同一圣所去的朝圣”（Fuller 1845: 42）[^fuller-1845][^fuller-1845-2]。
+    step2: |-
+      更多样的职业有助于女性实现潜能——用她的话说，叫“唤醒她们蛰伏的力量”（Fuller 1845: 95）[^fuller-1845][^fuller-1845-2]。富勒谈得最多的，是须改造婚姻关系：女人不应属于男人，婚姻应使两个伴侣结成同盟，共同构成一个整体。理想地说，婚姻当是一段“朝同一圣所而去的朝圣”（Fuller 1845: 42）[^fuller-1845][^fuller-1845-2]。
+  - id: 35
+    kind: body
+    source: |-
+      At the end, her book cries out for an individual woman to be an example to the world:
+    step1: |-
+      书末，她发出呼唤，要某位女性现身成为世人的榜样：
+    step2: |-
+      全书收束处，她急切呼唤这样一位女性现身，作世人的榜样：
+  - id: 36
+    kind: body
+    source: |-
+      > And will she not soon appear? The woman who shall vindicate their birthright for all women; who shall teach them what to claim, and how to use what they obtain? (Fuller 1845: 97)[^fuller-1845][^fuller-1845-2]
+    step1: |-
+      > 她不会很快出现么？那位为所有妇女讨回她们天赋权利的妇女；那位教她们该求什么、又如何运用所求之物的妇女？（Fuller 1845: 97）[^fuller-1845][^fuller-1845-2]
+    step2: |-
+      > 她岂不即将现身？那将替所有妇女讨回天赋权利的妇人；那将教她们该求什么、又该如何运用所求之物的妇人？（Fuller 1845: 97）[^fuller-1845][^fuller-1845-2]
+  - id: 37
+    kind: body
+    source: |-
+      Once she had gone to Europe, Margaret Fuller herself would undertake this role.
+    step1: |-
+      而一旦赴欧，玛格丽特·富勒本人便担起了这一角色。
+    step2: |-
+      玛格丽特·富勒赴欧之后，本人便担起了这角色。
+  - id: 38
+    kind: body
+    source: |-
+      One can find fault with Fuller’s book. It does not consistently address its issue with logical development; it rambles, flowing from one thought to another. She assumes her reader possesses her own wide range of literary and classical learning, frequently making allusions that few readers will actually recognize (especially nowadays). She also mentions a wide range of women intellectuals, such as Mary Wollestonecraft and George Sand, defending their actions and arguing that “such beings as these, rich in genius, of most tender sympathies, capable of high virtue and chastened harmony, ought not to find themselves, by birth, in a place so narrow, that, in breaking bonds, they become outlaws” (Fuller 1845: 62)[^fuller-1845][^fuller-1845-2]. Fuller’s book anticipated the first women’s rights convention, which would occur in July 1848 at Seneca Falls in upstate New York and demanded women’s suffrage, though even some feminists of the time felt reluctant to endorse such a drastic measure. The book proved quite popular, not only in the U.S. but also in Britain, where it was pirated at a time before publishers were required to observe international copyright. Hers was the feminist book of its time, analogous to Simone de Beauvoir’s *The Second Sex* in the mid-twentieth century.
+    step1: |-
+      富勒的书自有可指摘处。它并未一贯地以逻辑推展来处置论题；它随手漫谈，思绪一处接一处地流去。她假设读者拥有与她一般广博的文学与古典修养，频频用典，而真能识出的读者寥寥（如今尤甚）。她还提到一大批女性知识分子，如玛丽·沃斯通克拉夫特与乔治·桑，为她们的行止辩护，并写道：“这等人物，天才丰赡，同情至柔，能具高德与精炼的和谐，本不该生来就处在如此狭窄之地，以致一挣断束缚，便成了法外之人”（Fuller 1845: 62）[^fuller-1845][^fuller-1845-2]。富勒的书先于第一次妇女权利大会——该会于 1848 年 7 月在纽约州北部的塞尼卡福尔斯召开，要求妇女选举权，尽管当时连一些女权主义者对这种激烈举措也踌躇不愿赞成。此书颇受欢迎，不仅在美国，在英国亦然；在出版商尚未须遵守国际版权的年代，英国版还是盗印的。它堪称那个时代的女性主义之书，与二十世纪中叶西蒙娜·德·波伏娃的《第二性》相类。
+    step2: |-
+      富勒的书自有可指摘处。它并未一贯地以逻辑推展处置论题；它随手漫谈，思绪一处接一处地流去。她假设读者拥有与她一般广博的文学与古典修养，频频用典，而真能识出的读者寥寥（如今尤甚）。她还提到一大批女性知识分子，如玛丽·沃斯通克拉夫特与乔治·桑，为她们的行止辩护，并写道：“这等人物，天才丰赡，同情至柔，能具高德与精炼的和谐，本不该生来就落在如此狭窄之地，以致一挣断束缚，便成了法外之人”（Fuller 1845: 62）[^fuller-1845][^fuller-1845-2]。富勒的书先于第一次妇女权利大会——该会于 1848 年 7 月在纽约州北部的塞尼卡福尔斯召开，要求妇女选举权，尽管当时连一些女权主义者对这种激烈举措也踌躇不愿赞成。此书风行一时，不仅在美国，在英国亦然；在出版商尚未须遵守国际版权的年代，英国版仍是盗印的。它堪称那个时代的女性主义之书，与二十世纪中叶西蒙娜·德·波伏娃的《第二性》相类。
+  - id: 39
+    kind: body
+    source: |-
+      ### 2.4 The Philosopher’s Politics
+    step1: |-
+      ### 2.4 The Philosopher’s Politics
+    step2: |-
+      ### 2.4 哲学家的政治
+  - id: 40
+    kind: body
+    source: |-
+      In 1844 Horace Greeley invited Margaret Fuller to move to New York and go to work for his newspaper the *New York Tribune* as America’s first fulltime literary critic. Greeley had praised “The Great Lawsuit,” and he had persuaded Fuller to expand it into a book. His wife Mary had attended Fuller’s “Conversations” and had prompted him to hire her (Capper 2007: 165)[^capper-2007]. The *Tribune* provided Fuller with a huge audience. Greeley and his paper belonged to the Whig political party, which had formed in opposition to Andrew Jackson and criticized his policies, including “Indian Removal” of tribes to west of the Mississippi. Fuller had travelled through Chicago and the Midwest earlier in the year and had become publicly critical of white treatment of the Native Americans, while at the same time recognizing that they (in this case Chippewa) had not been allowed to become citizens of Michigan. She shared Greeley’s opposition to slavery and praised Frederick Douglass. Greeley’s *Tribune* embraced many reform causes of the time. Fuller had come to view women’s rights as part of a broad need for social reform, evident in her compassion for the women in prison whom she visited. Most of them had been convicted of prostitution, though the men involved were never prosecuted.
+    step1: |-
+      1844 年，霍勒斯·格里利邀玛格丽特·富勒迁往纽约，入他的《纽约论坛报》，任美国第一位全职文学批评家。格里利曾盛赞《大诉讼》，并说服富勒把它扩成一本书。其妻玛丽参加过富勒的谈话会，力促丈夫延聘她（Capper 2007: 165）[^capper-2007]。《论坛报》为富勒提供了庞大的读者群。格里利与他的报纸属于辉格党；该党为反对安德鲁·杰克逊而结，批评其政策，包括把部族迁往密西西比河以西的“印第安人迁移”。富勒那年早些时候曾行经芝加哥与中西部，已公开批评白人对原住民的处置，同时也看出他们（此处指齐佩瓦人）未被允许成为密歇根州的公民。她与格里利同倡反奴，赞许弗雷德里克·道格拉斯。格里利的《论坛报》拥护当时诸多改革事业。富勒已把妇女权利视为广泛社会改革需要的一部分——她探访狱中妇女时流露的同情便是明证：她们多数因卖淫获罪，而涉事的男人却从未被起诉。
+    step2: |-
+      1844 年，霍勒斯·格里利邀玛格丽特·富勒迁往纽约，入他的《纽约论坛报》，任美国第一位全职文学批评家。格里利曾盛赞《大诉讼》，并说服富勒把它扩成一本书。其妻玛丽参加过富勒的谈话会，力促丈夫延聘她（Capper 2007: 165）[^capper-2007]。《论坛报》为富勒提供了庞大的读者群。格里利与他的报纸属辉格党——该党为反对安德鲁·杰克逊而结，批评其政策，包括把部族迁往密西西比河以西的“印第安人迁移”。富勒该年早些时候曾行经芝加哥与中西部，已公开批评白人对原住民的处置，同时也看出他们（此处指齐佩瓦人）未获准成为密歇根州公民。她与格里利同倡反奴，赞许弗雷德里克·道格拉斯。格里利的《论坛报》拥护当时诸多改革事业。富勒已把妇女权利视为广泛社会改革需要的一部分——她探访狱中妇女时流露的同情即为明证：她们多因卖淫获罪，而涉事的男人却从未被起诉。
+  - id: 41
+    kind: body
+    source: |-
+      In Congress, Timothy Fuller had strongly supported John Quincy Adams’s presidential campaign, opposed the Missouri Compromise, and defended the rights of Native Americans. His daughter and pupil invoked the sixth President’s attitude toward the female sex in *Woman in the Nineteenth Century* (Fuller 1845: 77–78)[^fuller-1845][^fuller-1845-2]. When the Whig Party took shape in the 1830s, both Adams and Margaret Fuller identified with it. Though women could not vote, Fuller saw the Whigs as her party of choice. “I attended last week”, she wrote to Emerson on 14 August 1837, “the Whig Caucus here” (meaning Providence, Rhode Island). “It is rather the best thing I have done” (Fuller, *Letters*, ed. Hudspeth 1983: I, 295; for more on her Whig politics, see *Letters*, IV, 121). Actually, the Whig Party was a bit more sympathetic to women’s rights than the Democratic Party, probably because the cause of women was a predominantly middle-class movement prior to the Nineteenth Amendment, and the Whigs were a middle-class party. The Whigs were also the party of both evangelical and Unitarian Protestantism, which in those days provided the principal base of support for many reform movements, including antislavery, temperance, public schools, higher education, international peace, prison reform (which promoted “penitentiaries” rather than simply punishment like flogging), the American Bible Society (which fostered literacy), and asylums for the insane, as well as women’s liberation. Though Unitarians did not share the theology of the evangelical denominations, they often shared common social and political aims.
+    step1: |-
+      蒂莫西·富勒在国会里曾力挺约翰·昆西·亚当斯的总统竞选，反对密苏里妥协案，并为原住民的权利辩护。他的女儿兼弟子在《十九世纪的妇女》中援引了这位第六任总统对女性的态度（Fuller 1845: 77–78）[^fuller-1845][^fuller-1845-2]。辉格党于 1830 年代成形时，亚当斯与玛格丽特·富勒都认同该党。妇女虽无投票权，富勒仍把辉格党视为自己的首选。1837 年 8 月 14 日她写信给爱默生：“上星期我参加了此地的辉格党核心会议”（指罗得岛州普罗维登斯），“这算是我做过的最好的事”（Fuller, *Letters*, ed. Hudspeth 1983: I, 295；关于其辉格党政治，另见 *Letters*, IV, 121）。其实，辉格党对妇女权利比民主党略为同情，或许因为在第十九修正案之前，妇女事业主要是一场中产阶级运动，而辉格党正是中产阶级的党。辉格党也是福音派与一位论派新教的党；当年这两派为诸多改革运动提供了主要支持基础，包括废奴、节欲、公立学校、高等教育、国际和平、监狱改革（提倡“感化院”而非鞭笞之类的单纯惩罚）、美国圣经会（推动识字）、精神病院，以及妇女解放。一位论者虽不共享福音派诸宗的神学，却常与之社会政治目标相同。
+    step2: |-
+      蒂莫西·富勒在国会曾力挺约翰·昆西·亚当斯的总统竞选，反对密苏里妥协案，并为原住民权利辩护。他的女儿兼弟子在《十九世纪的妇女》中援引了这位第六任总统对女性的态度（Fuller 1845: 77–78）[^fuller-1845][^fuller-1845-2]。辉格党于 1830 年代成形时，亚当斯与玛格丽特·富勒都认同该党。妇女虽无投票权，富勒仍以辉格党为首选。1837 年 8 月 14 日她写信给爱默生：“上星期我参加了此地的辉格党核心会议”（指罗得岛州普罗维登斯），“这算是我做过的最好的一件事”（Fuller, *Letters*, ed. Hudspeth 1983: I, 295；关于其辉格党政治，另见 *Letters*, IV, 121）。其实辉格党对妇女权利比民主党略为同情，这或许因为在第十九修正案之前，妇女事业主要是一场中产阶级运动，而辉格党正是中产阶级的党。辉格党也是福音派与一位论派新教之党；当年这两派为诸多改革运动提供了主要支持基础——废奴、节欲、公立学校、高等教育、国际和平、监狱改革（提倡“感化院”而非鞭笞之类的单纯惩罚）、美国圣经会（推动识字）、精神病院，以及妇女解放。一位论者虽不共享福音派诸宗的神学，却常与之社会政治目标相同。
+  - id: 42
+    kind: body
+    source: |-
+      In 1846 Fuller went to Europe and became a foreign correspondent for the *New York Tribune*, writing about European literature and public opinion. European travel was expensive, and it was not clear that Greeley was willing to reimburse Fuller’s costs sufficiently. Fortunately, a wealthy and politically enlightened Quaker couple, Marcus and Rebecca Spring, friends of Fuller, decided to spend some time in Europe, and offered to pay for some of her expenses if she would travel with them and tutor their young son Eddie.
+    step1: |-
+      1846 年，富勒赴欧，任《纽约论坛报》驻外记者，写欧洲的文学与舆论。欧洲之行耗资不菲，格里利是否愿足额报销富勒的开销，尚不可知。所幸，一对富有且政治开明的贵格会夫妇、富勒的友人马库斯与丽贝卡·斯普林决定赴欧小住，并提出：若富勒愿与他们同行并教他们年幼的儿子埃迪，便为她分担部分费用。
+    step2: |-
+      1846 年，富勒赴欧，任《纽约论坛报》驻外记者，写欧洲的文学与舆论。欧洲之行耗资不菲，格里利是否愿足额报销，尚不可知。所幸一对富有而政治开明的贵格会夫妇——富勒的友人马库斯与丽贝卡·斯普林——决定赴欧小住，并提出：若富勒愿同行并教他们年幼的儿子埃迪，便为她分担部分费用。
+  - id: 43
+    kind: body
+    source: |-
+      Fuller began touring in England and Scotland with the Springs, sending articles back to Greeley’s *Tribune*. She met interesting people there, including the elderly poet Wordsworth and Harriet Martineau, the English feminist who had earlier criticized her for shunning reforms other than feminism. Now that Fuller had embraced a much wider reform agenda, the two got along. London harbored an intellectual curiosity of the time, Thomas Carlyle, who rejected the Calvinist Christianity of his youth, celebrated German Romanticism, and knew many smart women, one of whom was his wife Jane. When Fuller and Carlyle met, mutual admiration ensued. But always with serious reservations. Carlyle’s politics were very different from Fuller’s. He rejected democracy, endorsed antisemitism and white racism, and celebrated populist, nationalist historic leaders like Oliver Cromwell and Frederick the Great. (Generations later some Nazis would look back on Carlyle as a precursor.) Another Romantic whom Fuller met in London would arouse her more uncritical admiration: Giuseppi Mazzini, the heroic Italian revolutionary. Mazzini embraced liberal democracy and personal fulfillment as aspects of his Italian republican nationalism. Fuller welcomed the chance to speak in an event at a free elementary school for poor Italian expatriate boys, where she endorsed Mazzini’s revolutionary cause and invoked the principle of self-improvement through public education so popular with American Unitarians and Whig reformers. Mazzini loved it.
+    step1: |-
+      富勒随斯普林夫妇游历英格兰与苏格兰，把文章寄回格里利的《论坛报》。她在那里结识了不少有趣人物，包括年迈的诗人华兹华斯，以及曾批评她回避女权之外改革的英国女权主义者哈丽雅特·马蒂诺。如今富勒已拥抱远为宽广的改革议程，两人遂相处得来。伦敦还藏着当时一位思想怪杰托马斯·卡莱尔：他弃绝年少时的加尔文派基督教，标举德国浪漫主义，认识许多聪慧女性，其一是他的妻子简。富勒与卡莱尔相遇，彼此倾慕。但始终带着严重保留。卡莱尔的政治与富勒大相径庭：他拒斥民主，赞成反犹主义与白人种族主义，并颂扬克伦威尔、腓特烈大帝之类民粹民族主义的历史领袖。（数代之后，一些纳粹还把卡莱尔看作先驱。）富勒在伦敦遇到的另一位浪漫主义者，则唤起了她更少批判的倾慕：英雄式的意大利革命者朱塞佩·马志尼。马志尼把自由民主与个人成全视为其意大利共和民族主义的两个方面。富勒欣然获邀在一所专收意大利贫苦侨民男童的免费小学的活动上讲话；她在那里拥护马志尼的革命事业，并援引美国一位论者与辉格党改革家所乐道的“以公共教育促自我改善”之原则。马志尼大为倾心。
+    step2: |-
+      富勒随斯普林夫妇游历英格兰与苏格兰，把文章寄回格里利的《论坛报》。她在那里结识了不少有趣人物，包括年迈的诗人华兹华斯，以及曾批评她回避女权之外改革的英国女权主义者哈丽雅特·马蒂诺。如今富勒已拥抱远为宽广的议程，两人遂相处得来。伦敦还藏着当时一位思想怪杰托马斯·卡莱尔：他弃绝年少时的加尔文派基督教，标举德国浪漫主义，认识许多聪慧女性，其一便是妻子简。富勒与卡莱尔相遇，彼此倾慕，但始终带着严重保留。卡莱尔的政治与富勒大相径庭：他拒斥民主，赞成反犹主义与白人种族主义，颂扬克伦威尔、腓特烈大帝之类民粹民族主义的历史领袖。（数代之后，一些纳粹还把卡莱尔看作先驱。）富勒在伦敦遇到的另一位浪漫主义者，则唤起她更少批判的倾慕：英雄式的意大利革命者朱塞佩·马志尼。马志尼把自由民主与个人成全视为其意大利共和民族主义的两个方面。富勒欣然获邀在一所专收意大利贫苦侨民男童的免费小学的活动上讲话；她在那里拥护马志尼的革命事业，并援引美国一位论者与辉格党改革家所乐道的“以公共教育促自我改善”原则。马志尼大为倾心。
+  - id: 44
+    kind: body
+    source: |-
+      Fuller went on to France, where she found Paris to be the cultural capital of the world. In Paris, she enjoyed the music and fine arts and she found more of the literature and philosophy she was accustomed to engaging. She contrived to meet George Sand (Amantine Lucile Aurore Dupin de Francueil), one of the most popular and successful writers in all Europe, along with her current lover, Frederic Chopin. More significant politically was her relationship with Adam Mickiewicz, the exiled Polish Romantic poet-turned- revolutionary, who was striving to achieve Polish independence from Russia and Austria. Fuller had admired him even before they met in France. His social democracy appealed to her and so did his Romantic religious passion. It seemed like the two of them might form a bond both sexually romantic and philosophically Romantic—but Mickiewicz was already married. Fuller moved on to the Italian peninsula.
+    step1: |-
+      富勒继而赴法，觉得巴黎乃是世界的文化首都。她在巴黎赏音乐、观美术，也找到更多她惯于涉猎的文学与哲学。她设法见到了全欧最受欢迎、最成功的作家之一乔治·桑（奥萝尔·杜德望），以及她当时的情人肖邦。政治上更有分量的是她与亚当·密茨凯维奇的关系：这位流亡的波兰浪漫派诗人已成革命者，正为波兰摆脱俄奥而独立奋斗。富勒在法国相见之前就已仰慕他。他的社会民主吸引她，他浪漫的宗教热情亦然。二人似乎可以结成既有情爱又有浪漫哲学的结合——可惜密茨凯维奇已婚。富勒遂转往意大利半岛。
+    step2: |-
+      富勒继而赴法，觉巴黎乃是世界的文化首都。她在巴黎赏音乐、观美术，也找到更多她惯于涉猎的文学与哲学。她设法见到了全欧最受欢迎、最成功的作家之一乔治·桑（奥萝尔·杜德望），以及她当时的情人肖邦。政治上更有分量的是她与亚当·密茨凯维奇的关系：这位流亡的波兰浪漫派诗人已成革命者，正为波兰摆脱俄奥而独立奋斗。富勒在法国相见之前已仰慕他。他的社会民主吸引她，他浪漫的宗教热情亦然。二人似乎可以结成既有情爱又有浪漫哲学的结合——可惜密茨凯维奇已婚。富勒遂转往意大利半岛。
+  - id: 45
+    kind: body
+    source: |-
+      Margaret Fuller’s time in Italy proved politically climactic. She embraced simultaneously the Italian language, in which she became fluent, and the revolutionary struggle for Italian unity and democracy. Now back in touch with Giuseppe Mazzini on his home turf, she eagerly supported his cause: transforming Rome into a democratic republic. When the new Pope Pius IX temporarily seemed supportive, she approved but (perceptively) remained cautious. When forced to choose, the Pope disavowed Mazzini, and Fuller denounced the Pope. As revolutionary movements spread around Europe in 1848, Fuller was consistently enthusiastic. She kept her American audience informed about the European revolutions, explaining that America should no longer imagine itself to be the model Europe should imitate. She had become impatient with middle-class moderates and endorsed socialism. By now she was even further to the Left than Mazzini. Meanwhile, Fuller’s time in Italy was proving climactic personally as well as politically. She met the younger Giovanni Angelo Ossoli. Together they had a child and their probable marriage is a point of discussion in the literature.
+    step1: |-
+      玛格丽特·富勒在意大利的岁月，在政治上是她的高潮。她同时拥抱了意大利语（她很快说得流利）与争取意大利统一和民主的革命斗争。如今重与朱塞佩·马志尼在其本土相接，她热切支持他的事业：把罗马变为民主共和国。当新教皇庇护九世一度显得支持时，她认可，却（有见地地）保持谨慎。及至教皇被迫抉择，他否认了马志尼，富勒便痛斥教皇。1848 年革命运动席卷欧洲之际，富勒始终热情洋溢。她不断向美国读者通报欧洲革命，并且说明：美国不应再自以为是被欧洲效法的榜样。她已对中产阶级的温和派不耐，转而拥护社会主义。此时她比马志尼还要左。与此同时，她在意大利的时光，私生活上也同样达到高潮：她遇见了年轻的乔瓦尼·安杰洛·奥索利。两人育有一子，而他们是否成婚，在文献中仍是讨论之点。
+    step2: |-
+      玛格丽特·富勒在意大利的岁月，在政治上达到了顶点。她同时拥抱意大利语（她很快说得流利）与争取意大利统一和民主的革命斗争。重与朱塞佩·马志尼在其本土相接，她热切支持他的事业：把罗马变为民主共和国。新教皇庇护九世一度显得支持，她予以认可，却（有见地地）保持谨慎。及至教皇被迫抉择，他否认了马志尼，富勒便痛斥教皇。1848 年革命运动席卷欧洲之际，富勒始终热情洋溢。她不断向美国读者通报欧洲革命，并且申明：美国不应再自以为是欧洲效法的榜样。她对中产阶级温和派已不耐，转而拥护社会主义；此时她比马志尼还要左。与此同时，她在意大利的时光，私生活上也同样臻于顶点：她遇见了年轻的乔瓦尼·安杰洛·奥索利。两人育有一子，而他们是否成婚，在文献中仍是讨论之点。
+  - id: 46
+    kind: body
+    source: |-
+      Margaret Fuller’s grand international political project was not realized. The Roman revolution for which she and her husband fought proved a lost cause, and they had to flee to Florence. Her attempted return to the United States with her new family ended in disaster (as related above in Section 1 above). But Margaret Fuller’s ultimate vision of a world where people are free and empowered, regardless of gender, race, or class, has remained a noble and inspiring vision.
+    step1: |-
+      玛格丽特·富勒宏大的国际政治计划未能实现。她与丈夫为之战斗的罗马革命成了败局，两人不得不逃往佛罗伦萨。她带着新家庭试图返回美国，以灾难告终（已见上文第 1 节）。然而，玛格丽特·富勒那幅世界图景——人不分性别、种族与阶级，皆得自由与赋能——至今仍是一幅高贵而鼓舞人的图景。
+    step2: |-
+      玛格丽特·富勒宏大的国际政治计划未能实现。她与丈夫为之战斗的罗马革命终成败局，两人不得不逃往佛罗伦萨。她携新家庭试图返美，以灾难告终（已见上文第 1 节）。然而，玛格丽特·富勒那幅世界图景——人不分性别、种族与阶级，皆得自由与赋能——至今仍高贵而动人。
+  - id: 47
+    kind: oir
+    source: |-
+      - [Margaret Fuller](https://archive.vcu.edu/english/engweb/transcendentalism/authors/fuller/index.html), web page at American Transcendentalism; includes links to texts by Fuller.
+      - [Margaret Fuller Society](https://margaretfullersociety.org/about/).
+    step1: |-
+      - [玛格丽特·富勒](https://archive.vcu.edu/english/engweb/transcendentalism/authors/fuller/index.html)，美国超验主义网站页面，附富勒著作链接。\n- [玛格丽特·富勒学会](https://margaretfullersociety.org/about/)。
+    step2: |-
+      - [玛格丽特·富勒](https://archive.vcu.edu/english/engweb/transcendentalism/authors/fuller/index.html)，美国超验主义网站页面，内附富勒著作链接。\n- [玛格丽特·富勒学会](https://margaretfullersociety.org/about/)。
