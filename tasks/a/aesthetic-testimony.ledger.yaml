@@ -155,86 +155,114 @@ segments:
     kind: body
     source: |-
       ## 2. Broader Principles
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 更宽泛的原则
+    step2: |-
+      ## 2 更宽泛的原则
   - id: 20
     kind: body
     source: |-
       It is common for those on all sides of the aesthetic testimony debate to discuss the claims they are making (or denying) in relation to certain putative broader principles of aesthetic judgement. In particular, the pessimist will often aim to use such principles as (partial) explanations for the truth of pessimism. In this section we consider the relationship between some of these key principles and the debate concerning aesthetic testimony.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      审美证言争论的各方，常就其主张（或否认的主张）与某些被认定的更宽泛审美判断原则的关系展开讨论。尤其是，悲观论者往往想把这类原则用作（部分）解释悲观论为真的根据。本节将考察其中若干关键原则与审美证言争论之间的关系。
+    step2: |-
+      审美证言争论的各方，常常把自己所主张（或否认）的东西，放到某些被认定的更宽泛审美判断原则之下讨论。尤其是，悲观论者往往想把这类原则用作（部分的）解释，说明悲观论为何为真。本节将考察其中几个关键原则与审美证言争论之间的关系。
   - id: 21
     kind: body
     source: |-
       ### 2.1 The Acquaintance Principle
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.1 亲知原则
+    step2: |-
+      ### 2.1 亲知原则
   - id: 22
     kind: body
     source: |-
       By far the most commonly appealed to principle here is Richard Wollheim’s (1980: 233) acquaintance principle (*AP*), according to which
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里最常被援引的原则，是理查德·沃尔海姆（Richard Wollheim）（1980: 233）的亲知原则（*AP*），据此——
+    step2: |-
+      这里最常被援引的原则，是理查德·沃尔海姆（Richard Wollheim）（1980: 233）的亲知原则（*AP*）：
   - id: 23
     kind: body
     source: |-
       > judgements of aesthetic value, unlike judgements of moral knowledge, must be based on first-hand experience of their objects and are not, except within very narrow limits, transmissible from one person to another.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 审美价值的判断不同于道德知识的判断，必须基于对其对象的第一手经验；且除极窄的限制外，不能从一个人传递给另一个人。
+    step2: |-
+      > 审美价值的判断不同于道德知识的判断，必须基于对其对象的第一手经验，而且除极窄的限制外，不能从一个人传递给另一个人。
   - id: 24
     kind: body
     source: |-
       A principle which (at least modulo the tantalising mention of “very narrow limits”) appears to doubly rule out appeal to aesthetic testimony, since testimony cannot provide us with first hand acquaintance and clearly requires some kind of interpersonal transmission.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一条（至少撇开那个诱人的“极窄限制”不谈）似乎双重排除诉诸审美证言的原则：因为证言无法给我们第一手亲知，且显然需要某种人际传递。
+    step2: |-
+      这条原则——至少撇开那个诱人的“极窄限制”不谈——似乎从两个方面排除了诉诸审美证言的可能：证言无法给我们第一手亲知，而且显然需要某种人际传递。
   - id: 25
     kind: body
     source: |-
       Appeals to *AP* as an explanation for pessimism are, however, fraught for two reasons. First, Wollheim’s principle, and his subsequent discussion of it, are sometimes rather difficult to interpret. Second, there are those who hold that *AP* itself is false. These two issues are, of course, related and it is common for both advocates and detractors of *AP* to argue that various interpretations of the principle clearly render it either trivial or implausible (Hopkins 2006; Budd 2003; Ransom 2019; Lord 2018)[^budd-2003][^hopkins-2006][^lord-2018][^ransom-2019]. For example, it seems clear that a requirement that we must always engage with the work itself in order to make any aesthetic judgement of it is implausibly demanding and that a suitably accurate reproduction or sufficiently detailed photograph would allow for *some* aesthetic insight in many cases. Where these theorists differ is whether there are any versions of the principle which aren’t benighted in this way. And there have been further concerns about *AP*’s ability to handle certain kinds of art works such as conceptual art (for a discussion of these and some responses see Hanson (2015)). Some, such as Livingston (2003) take these concerns to undermine the prospects for any version of *AP* which is both true and non-trivial but others are more hopeful. Lord (2018), for example, has suggested that we should think about acquaintance not with a particular artwork but, rather, with some particular highly determinate aesthetic property which the object instantiates. Acquaintance with this property doesn’t, strictly, require acquaintance with the work itself but, rather, allows for acquaintance with reproductions or photographs. However, a principle of this kind would still rule out forming our aesthetic judgements on the basis of induction or testimony. Regardless of how we interpret the scope of the principle, though, there remains the question of how the “must” should be interpreted here. On some accounts, the demand is interpreted as an epistemic one, with acquaintance being a prerequisite for aesthetic knowledge (Pettit 1983; Budd 2003)[^budd-2003][^pettit-1983], but—as we will see in §3.2—even amongst pessimists there has been an increasing move towards interpreting the demand as relating to some manner of non-epistemic norm (Hopkins 2006)[^hopkins-2006].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，把 *AP* 用作悲观论的解释，有两点困难。其一，沃尔海姆的原则及其随后的讨论，有时相当难以解读。其二，有人认为 *AP* 本身是假的。这两个问题当然相关；*AP* 的支持者与批评者都常主张：该原则的种种解读显然要么使其变得琐屑，要么使其不可信（Hopkins 2006; Budd 2003; Ransom 2019; Lord 2018）[^budd-2003][^hopkins-2006][^lord-2018][^ransom-2019]。例如，很明显：要求我们在对一件作品作出任何审美判断之前都必须与作品本身打交道，这种要求苛刻得难以成立；而在许多情形中，一件足够精确的复制品或足够细致的照片也能提供*某种*审美洞见。这些理论家的分歧在于：是否存在不受这种困境困扰的原则版本。此外，对 *AP* 能否处理某些艺术作品（如概念艺术）也有进一步的担忧（对这些担忧及若干回应的讨论见 Hanson（2015））。有些人（如 Livingston（2003））认为这些担忧破坏了任何既真又非琐屑的 *AP* 版本的前景；但另一些人更有希望。例如，Lord（2018）建议：我们应把亲知的对象理解为某种对象所例示的高度确定的审美性质，而非特定作品本身。对这种性质的亲知严格来说并不要求对作品本身的亲知，而是容许对复制品或照片的亲知。然而，这类原则仍会排除以归纳或证言为据形成审美判断。不过，无论我们如何解读该原则的范围，这里仍有“必须”当作何解的问题。在一些说明中，这一要求被解读为认知性的：亲知是审美知识的先决条件（Pettit 1983; Budd 2003）[^budd-2003][^pettit-1983]；但——正如 §3.2 将要说明的——即便在悲观论者内部，也日益倾向于把这一要求解读为关乎某种非认知性规范（Hopkins 2006）[^hopkins-2006]。
+    step2: |-
+      然而，诉诸 *AP* 来解释悲观论有两点困难。其一，沃尔海姆的原则及其后续讨论，有时相当难以解读。其二，有人认为 *AP* 本身是假的。这两个问题当然相关；*AP* 的支持者与批评者都常说：对该原则的种种解读，显然要么使它变得琐屑，要么使它不可信（Hopkins 2006; Budd 2003; Ransom 2019; Lord 2018）[^budd-2003][^hopkins-2006][^lord-2018][^ransom-2019]。例如，有一点很明显：要求我们对一件作品作出任何审美判断都必须先与作品本身打交道，苛刻得难以成立；在许多情形中，足够精确的复制品或足够细致的照片也能带来*某种*审美洞见。这些理论家的分歧在于：是否存在没有这种毛病的原则版本。此外，对 *AP* 能否处理概念艺术这类作品，也有进一步的担忧（对这些担忧及若干回应的讨论，见 Hanson（2015））。有些人（如 Livingston（2003））认为这些担忧断送了任何既真又非琐屑的 *AP* 版本的前景；另一些人则更为乐观。例如，Lord（2018）建议：我们应把亲知的对象理解为对象所例示的某种高度确定的审美性质，而不是特定作品本身。严格说来，对这种性质的亲知并不要求亲知作品本身，而是容许亲知复制品或照片。然而，这类原则仍会排除以归纳或证言为据形成审美判断。不过，无论怎样解读该原则的范围，“必须”二字当作何解，仍是一个悬而未决的问题。按某些说明，这一要求是认知性的：亲知是审美知识的先决条件（Pettit 1983; Budd 2003）[^budd-2003][^pettit-1983]；但——正如 §3.2 将要说明的——即便在悲观论者内部，也日益倾向于把这一要求解读为关乎某种非认知性规范（Hopkins 2006）[^hopkins-2006]。
   - id: 26
     kind: body
     source: |-
       More recently, though, debate has arisen as to whether *AP* should even be interpreted as supporting a (non-trivial) version of pessimism. Lopes (2014: 170), has claimed that “the controversy over the acquaintance principle ensues from an incorrect interpretation of it”. Many philosophers interpret “aesthetic judgement” as referring to some belief-like state—which might fail to meet some norm, epistemic or otherwise. According to Lopes “aesthetic judgement” should rather be interpreted as a certain kind of experiential / appreciative state which, by its very nature, cannot be entered into on the basis of, say, testimony. (Shelley 2023 offers a rather different, but equally revisionary, interpretation of *AP*.)[^shelley-2023] Such exegetical moves certainly have precedent, consider the case of Frank Sibley. A number of discussions of aesthetic testimony (such as Gorodeisky [2010: 58–9], Laetz [2008: 356], and Meskin [2006: 111]) have taken Sibley to be endorsing some form of pessimism in his famous (1965: 137) claim that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不过，晚近出现了新的争论：*AP* 是否根本就应被解读为支持（非琐屑的）悲观论版本。Lopes（2014: 170）宣称：“关于亲知原则的争论源于对它的错误解读。”许多哲学家把“审美判断”解读为某种类似信念的状态——这种状态可能不符合某种规范，认知规范或其他规范。按 Lopes 的说法，“审美判断”应被解读为某种经验性的／欣赏性的状态，这类状态就其本性而言不可能基于（比如说）证言而进入。（Shelley 2023 对 *AP* 提出了另一种相当不同的、但同样是修正主义的解读。）[^shelley-2023]这类训诂操作固然有先例，想想弗兰克·西布利（Frank Sibley）的情形。若干审美证言讨论（如 Gorodeisky［2010: 58–9］、Laetz［2008: 356］与 Meskin［2006: 111］）把西布利著名的主张（1965: 137）读作对某种悲观论的认可：
+    step2: |-
+      不过，晚近出现了新的争论：*AP* 是否根本就应被解读为支持（非琐屑的）悲观论版本。Lopes（2014: 170）宣称：“关于亲知原则的争论源于对它的错误解读。”许多哲学家把“审美判断”解读为某种类似信念的状态——这种状态可能不符合某种规范，无论认知规范还是其他规范。按 Lopes 的说法，“审美判断”应被解读为某种经验性的／欣赏性的状态，这类状态就其本性而言不可能基于（比如说）证言而进入。（Shelley 2023 对 *AP* 提出了另一种相当不同、但同样是修正主义的解读。）[^shelley-2023]这类训诂操作固然有先例，想想弗兰克·西布利（Frank Sibley）的情形。一些审美证言讨论（如 Gorodeisky［2010: 58–9］、Laetz［2008: 356］与 Meskin［2006: 111］）把西布利那句著名的主张（1965: 137）读作他对某种悲观论的认可：
   - id: 27
     kind: body
     source: |-
       > To suppose indeed that one can make aesthetic judgments without aesthetic perception … is to misunderstand aesthetic judgment. (alongside similar remarks in, e.g., Sibley 1959: 424–6 and 1974: 16)[^sibley-1959][^sibley-1974]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 以为无须审美知觉就能作出审美判断……是对审美判断的误解。（类似表述另见 Sibley 1959: 424–6 与 1974: 16）[^sibley-1959][^sibley-1974]
+    step2: |-
+      > 认为无须审美知觉便能作出审美判断……实是对审美判断的误解。（类似表述另见 Sibley 1959: 424–6 与 1974: 16）[^sibley-1959][^sibley-1974]
   - id: 28
     kind: body
     source: |-
       This interpretation is, however, controversial and it has been suggested (by, e.g., Livingston [2003: 268] and Lopes himself [2014: 174]) that Sibley is merely making a certain kind of stipulation and isn’t intending to endorse any kind of substantive pessimistic thesis. However, it seems difficult to regard Lopes’ proposals for a version of *AP*—regardless of what other merits they might have—as providing an accurate exegesis of Wollheim’s views. (Something similar also applies to Shelley’s (2023: 405) interpretation, but he clarifies that he isn’t particularly concerned with whether his interpretation of *AP* matches Wollheim’s own understanding and he does not suggest that others are making exegetical errors.) As Wallbank and Robson (2022: 42–4) point out, a number of Wollheim’s own remarks (1980: 231–2) make it clear that he is open to considering a number of different interpretations of *AP*, at least one of which is clearly epistemic in nature.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，这一解读是有争议的；有人（如 Livingston［2003: 268］与 Lopes 本人［2014: 174］）提出：西布利只是在作某种约定，无意认可任何实质性的悲观论命题。不过，很难把 Lopes 关于 *AP* 某个版本的提案——无论它们还有什么别的优点——视为对沃尔海姆观点的准确训诂。（类似的情形也适用于 Shelley 的解读（2023: 405），但他澄清说，他并不特别在意自己对 *AP* 的解读是否符合沃尔海姆自己的理解，也不指认别人犯了训诂错误。）正如 Wallbank 与 Robson（2022: 42–4）指出的，沃尔海姆本人的若干评论（1980: 231–2）清楚表明：他愿意考虑对 *AP* 的多种不同解读，其中至少一种显然是认知性的。
+    step2: |-
+      然而，这一解读有争议。有人（如 Livingston［2003: 268］与 Lopes 本人［2014: 174］）提出：西布利只是在作某种概念约定，并无意认可任何实质性的悲观论命题。不过，无论 Lopes 提出的 *AP* 版本还有什么别的优点，要把它看作对沃尔海姆观点的准确训诂，似乎很难。（类似情形也适用于 Shelley 的解读（2023: 405）；但他澄清过，他并不特别在意自己对 *AP* 的解读是否符合沃尔海姆本人的理解，也不指认别人犯了训诂错误。）正如 Wallbank 与 Robson（2022: 42–4）指出的那样，沃尔海姆本人的若干评论（1980: 231–2）清楚表明：他愿意考虑对 *AP* 的多种不同解读，其中至少一种显然属于认知性质。
   - id: 29
     kind: body
     source: |-
       ### 2.2 Further Principles
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2 其他原则
+    step2: |-
+      ### 2.2 其他原则
   - id: 30
     kind: body
     source: |-
       In addition to the Acquaintance Principle, there are two further (related) kinds of principles that those within the debate have most often appealed to. The first kind of principle, the Autonomy Principle, stresses the importance of forming one’s aesthetic judgements in an autonomous manner: “One ought to arrive at one’s aesthetic judgements through the application of one’s own faculties and abilities” (Nguyen 2020a)[^nguyen-2020a]. This is taken (Nguyen 2020a)[^nguyen-2020a] to derive from a related principle, “the Requirement”, introduced by Hopkins (2011) that: “Having the right to an aesthetic belief requires one to grasp the *aesthetic* grounds for it”. Nevertheless, the differences between the Autonomy Principle and the Requirement should not be overlooked. The thought behind the Autonomy Principle is that there is something valuable about autonomous aesthetic engagement such that our aesthetic lives are going well when we endeavour to examine the aesthetic value of an object for ourselves. The thought behind the Requirement is that there is something interesting about aesthetic belief formation which requires the possession of a certain kind of comprehension of the reasons why an aesthetic judgement has been made. The further assumption here is that such comprehension cannot be attained unless we have engaged with the object (or a relevant surrogate) for ourselves.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除亲知原则外，争论中的论者最常援引的还有两类（相关的）原则。第一类是自主性原则，强调以自主的方式形成审美判断的重要性：“人应当通过运用自己的官能与能力而形成自己的审美判断”（Nguyen 2020a）[^nguyen-2020a]。这一原则被认为（Nguyen 2020a）[^nguyen-2020a]派生自一个相关的原则——“要求”——由 Hopkins（2011）引入：“拥有审美信念的权利要求人把握其*审美*根据”。不过，自主性原则与要求之间的差异不应忽视。自主性原则背后的想法是：自主的审美投入有其价值；当我们努力亲自审察一个对象的审美价值时，我们的审美生活便进行得良好。要求背后的想法则是：审美信念的形成中有某种耐人寻味的东西——它要求拥有对“一个审美判断为何作出”的理由的某种理解。这里还有一个进一步的假定：除非我们亲自与对象（或某个相关替代物）打过交道，否则这种理解无法获得。
+    step2: |-
+      除亲知原则外，争论中的论者最常援引的还有两类（相关的）原则。第一类是自主性原则（the Autonomy Principle），强调以自主方式形成审美判断的重要性：“人应当通过运用自己的官能与能力，形成自己的审美判断”（Nguyen 2020a）[^nguyen-2020a]。据认为（Nguyen 2020a）[^nguyen-2020a]，它派生自 Hopkins（2011）引入的另一条相关原则——“要求”（the Requirement）：“拥有审美信念的权利，要求人把握其*审美*根据”。不过，自主性原则与要求之间的差异不应忽视。自主性原则背后的想法是：自主的审美投入自有其价值；当我们努力亲自审察一个对象的审美价值时，我们的审美生活便进行得良好。要求背后的想法则是：审美信念的形成里有一种耐人寻味的东西——它要求对“一个审美判断为何作出”的理由握有某种理解。这里还进一步假定：除非我们亲自与对象（或某个相关替代物）打过交道，否则这种理解无法获得。
   - id: 31
     kind: body
     source: |-
       Whilst *AP* places demands that we gain direct access to the object of aesthetic judgement, the Requirement demands that we grasp the reasons why an aesthetic judgement has been made, and the Autonomy Principle demands that we at least attempt to grasp the reasons why an aesthetic judgement has been made, *for ourselves*. Of course, these principles are often related since, for example, we might think that firsthand acquaintance of a certain kind is required for grasping reasons in the relevant sense. Still, it is certainly possible to accept one principle while rejecting the others. Another common theme in terms of broader principles involves appeals to aesthetic understanding (Page 2022)[^page-2022], claiming that there would be something problematic, or at least non-ideal, about forming aesthetic beliefs in the absence of understanding. For example, Hills (2022) argues that aesthetic understanding—where this is “factive and requires a grasp of the reasons for” (2022: 26) a judgement that a work has, or lacks, a certain kind of aesthetic value—is required for aesthetic virtue. Again, this can easily be linked with *AP*. Someone could, for example, maintain that direct acquaintance is required for forming aesthetic judgement since it is the only means for acquiring the requisite level of understanding (and it seems even more plausible that “grasping” aesthetic grounds in Hopkins’ sense is going to require understanding). It is, however, by no means guaranteed that a requirement for understanding would entail a requirement for acquaintance (or vice versa). One possible advantage of understanding-based principles is that they allow us—in a way which *AP* does not—to link pessimism in aesthetics with the parallel view in the moral case. While it is implausible to take acquaintance (at least as standardly interpreted) as a requirement for moral judgement, understanding has frequently been touted as just that (Hills 2009; McGrath 2011)[^hills-2009][^mcgrath-2011].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *AP* 要求我们直接接触审美判断的对象；要求则要求我们把握审美判断何以作出的理由；自主性原则则要求我们至少*亲自*尝试把握这些理由。当然，这些原则常常相关：例如，我们可能认为，要在相关意义上把握理由，需要某种第一手亲知。尽管如此，接受一条原则而拒斥其余，完全可能。在更宽泛原则方面，另一个常见主题是诉诸审美理解（Page 2022）[^page-2022]，主张在缺乏理解的情况下形成审美信念，会有某种问题，或至少不理想。例如，Hills（2022）主张，审美理解——其中理解是“事实性的，且要求把握理由”（2022: 26），即理解一件作品具有或缺乏某种审美价值的判断——是审美德性所必需的。这同样容易与 *AP* 相连。例如，有人可以主张：形成审美判断需要直接亲知，因为这是获得所需理解水平的唯一途径（而按 Hopkins 的意义“把握”审美根据更需要理解，这一点似乎更加可信）。然而，理解的要求并不必然蕴含亲知的要求（反之亦然）。基于理解的原则有一个可能的优点：它们允许我们——以 *AP* 所不允许的方式——把美学中的悲观论与道德领域的平行观点相连。把亲知（至少按标准解读）当作道德判断的要求难以成立，而理解却常被鼓吹为恰恰如此（Hills 2009; McGrath 2011）[^hills-2009][^mcgrath-2011]。
+    step2: |-
+      *AP* 要求我们直接接触审美判断的对象；“要求”要求我们把握审美判断何以作出的理由；自主性原则则要求我们至少*亲自*尝试去把握这些理由。当然，这些原则常常彼此相关：例如，我们可能认为，要在相关意义上把握理由，需要某种第一手亲知。尽管如此，接受一条原则而拒斥其余，完全可能。在更宽泛的原则方面，另一个常见主题是诉诸审美理解（Page 2022）[^page-2022]：在缺乏理解的情况下形成审美信念，总有些问题，至少不够理想。例如，Hills（2022）主张：审美理解——这种理解“是事实性的，且要求把握理由”（2022: 26），即理解一件作品具有或缺乏某种审美价值的判断——为审美德性所必需。这同样容易与 *AP* 相连。例如，有人可以主张：形成审美判断需要直接亲知，因为这是获得所需理解水平的唯一途径（而按 Hopkins 的意义“把握”审美根据更需要理解，这一点似乎更加可信）。然而，理解的要求并不必然蕴含亲知的要求，反之亦然。基于理解的原则有一个可能的优点：它们允许我们——以 *AP* 所不允许的方式——把美学中的悲观论与道德领域的平行立场相连。把亲知（至少按标准解读）当作道德判断的要求难以成立，而理解却常被鼓吹为恰恰如此（Hills 2009; McGrath 2011）[^hills-2009][^mcgrath-2011]。
   - id: 32
     kind: body
     source: |-
       Behind this narrow agreement on the importance of understanding, though, there are some deep disagreements about why understanding is so important. And, of course, the pessimist needs more than merely the claim that aesthetic understanding is valuable (either in itself or as a means to attaining some other value quality or state). It is, after all, no part of the optimist’s position that everything valuable in aesthetics can be attained via testimony (we discuss the value of testimony further in §7). As Meskin (2004: 76) acknowledges, even the optimist will allow that “there are things that testimony may never provide—aesthetic experiences and artistic appreciation”. The pessimist must, therefore, also give some account linking the importance of understanding in aesthetics to their claims about the illegitimacy or reliance on testimony.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不过，在理解之重要性这一狭窄共识的背后，对理解为何如此重要却有深深的分歧。而且当然，悲观论者需要的远不止“审美理解有价值”（无论其自身有价值，还是作为获得其他价值性质或状态的手段）这一主张。毕竟，乐观论者的立场并不包含“审美中一切有价值的东西都能经证言获得”（我们在 §7 进一步讨论证言的价值）。正如 Meskin（2004: 76）承认的，即便乐观论者也允许：“有些东西是证言可能永远无法提供的——审美经验与艺术欣赏”。因此，悲观论者还须给出某种说明，把理解在美学中的重要性与其关于依赖证言之不正当性的主张连结起来。
+    step2: |-
+      不过，在这一关于理解之重要性的狭窄共识背后，各方对理解为何如此重要仍有深深的分歧。当然，悲观论者需要的远不止“审美理解有价值”（无论这种价值是内在的，还是作为获得其他价值性质或状态的手段）这一主张。毕竟，“审美中一切有价值的东西都能经证言获得”从来不是乐观论者立场的一部分（我们在 §7 进一步讨论证言的价值）。正如 Meskin（2004: 76）承认的，即便乐观论者也允许：“有些东西是证言可能永远无法提供的——审美经验与艺术欣赏”。因此，悲观论者还须给出某种说明，把理解在美学中的重要性，与其关于依赖证言不正当的主张连结起来。
   - id: 33
     kind: body
     source: |-
