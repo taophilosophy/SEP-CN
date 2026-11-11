@@ -2,7 +2,7 @@
   "slug": "novalis",
   "kind": "retranslate",
   "zh_doc": "n/novalis.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-10T21:07:04Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ZCode-N-20261110",
+      "at": "2026-11-11T00:05:13Z",
+      "evidence": "63 段账本双版分 4 批填写（每批独立提交），lq check HARD=0（软旗仅书名号转换与机械段）；compose 写回 25343 字符；H1 补回 SUMMARY 全题（[Novalis] 方括号致 compose 截断）；References defs 55 照录、正文 marker 0（源文同构）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ZCode-N-20261110",
+      "at": "2026-11-11T00:05:13Z",
+      "evidence": "逐段对照 yuanwen 核销 63 段（62 正文段+oir）：无漏译增译；H2 12=12、H3 7=7、defs 55=55、marker 1=1（注记行同构）；相关词条 9 项按 SUMMARY 主名核对全数挂接；书名号与拉丁术语（*Bildung*、*Symphilosophie*、*Tathandlung*）体例统一，Tathandlung 名形对齐册内「事行」；语体：现代汉语学术书面语，未用文言，破折号仅用于插入与转折"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ZCode-N-20261110",
+      "at": "2026-11-11T00:05:14Z",
+      "evidence": "check_prose 39 项→0（长句拆分 19、的链 17、类名词们 2、弱动词 1，全部实修）；check_style --strict 0（cjk-spacing 修补、CJK 斜体剥离 21 处并恢复两处误伤加粗行）；check_math formulas 0；语体：现代汉语学术书面语，通读全篇无文言或半文半白，破折号仅用于插入与转折"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ZCode-N-20261110",
+      "at": "2026-11-11T00:05:15Z",
+      "evidence": "check_academic --docs --strict 无硬错误；check_terms 0 硬错误；人名登记 15 行（蒂克/哈曼/洪堡/赫姆斯特赫斯/瓦肯罗德/卡罗利妮·谢林/多萝特娅·施莱格尔/毕希纳/笛福/卢卡奇/曼海姆/施米特/布朗肖/德曼/尼特哈默尔），术语登记 5 行（共同哲学/魔法唯心论/蓝花/自我设定/智性直观）；本地九项门禁：本条相关项全绿"
     }
   ],
   "blockers": [],
