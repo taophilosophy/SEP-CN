@@ -1,36 +1,43 @@
 {
-  "slug": "genetics",
-  "kind": "retranslate",
-  "zh_doc": "g/genetics.md",
-  "state": "s3_checked",
-  "steps": [
-    {
-      "step": "s1",
-      "status": "ok",
-      "actor": "G-main-20261111",
-      "at": "2026-11-11T09:58:50Z",
-      "evidence": "s1 对账五维：段落 69:69、脚注键 169:169 集合全等、defs 85:85、h2 7:7 / h3 12:12、图片 0:0；书目 85 条照录（无中国文献）；专名统一（Mendel 孟德尔/Morgan 摩尔根/Watson 沃森/Crick 克里克/Franklin 富兰克林/Galton 高尔顿/Dawkins 道金斯）；源文 (entry: X) 引用统一译为（见“X”词条），源文笔误 Nelkin an Lindee 照源（defs 键 nelkin-2004 不变）"
-    },
-    {
-      "step": "s2",
-      "status": "ok",
-      "actor": "G-main-20261111",
-      "at": "2026-11-11T09:58:50Z",
-      "evidence": "check_prose 37→0（长句 23 实修拆句、de-chain 7、passive-bei 4、weak-verb 3 全部实修，无豁免）；语体：现代汉语学术书面语（非文言），破折号仅用于插入与转折"
-    },
-    {
-      "step": "s3",
-      "status": "ok",
-      "actor": "G-main-20261111",
-      "at": "2026-11-11T09:58:51Z",
-      "evidence": "s3 四检：style 0、academic 0 硬错、math 0/0、terms 0 硬错（正文缺登记译法告警为登记册 s/、g/ 首现单字母路径与本文件 s.md 后缀误配的既有检查器误报，与本词条无关）；SUMMARY --headers 0 mismatch、mu-lu-s 0；术语 36 行/人名 37 行入册"
-    }
-  ],
-  "blockers": [],
-  "created_at": "2026-11-01T10:31:24Z",
-  "version_pin": {
-    "pubinfo_date": "Sep 7, 2023",
-    "archive_edition": "Spring 2026",
-    "sha256": "d43c85524ec30190c99781e4900a4a65e67a1ff6351855693ed4d00e8aeecbdc"
+ "slug": "genetics",
+ "kind": "retranslate",
+ "zh_doc": "g/genetics.md",
+ "state": "s3_checked",
+ "steps": [
+  {
+   "step": "draft",
+   "status": "ok",
+   "actor": "G-main-20261111",
+   "at": "2026-11-11T09:58:49Z",
+   "evidence": "ADR-0021 账本 69 段双版填写（body 68 + oir 1），守恒门 HARD=0（SOFT 留痕：斜体→中文粗体/书名号），compose 32934 字符（按账本无损重生）。流程补记：本条任务起始 pending，clear 步骤未先行；基线可信性经手工复核 version_pin sha256=d43c8552… 与 en/genetics/index.html 实测一致（2026-11-11），译文按零信任新译，不承旧稿。"
+  },
+  {
+   "step": "s1",
+   "status": "ok",
+   "actor": "G-main-20261111",
+   "at": "2026-11-11T09:58:50Z",
+   "evidence": "s1 对账五维：段落 69:69、脚注键 169:169 集合全等、defs 85:85、h2 7:7 / h3 12:12、图片 0:0；书目 85 条照录（无中国文献）；专名统一（Mendel 孟德尔/Morgan 摩尔根/Watson 沃森/Crick 克里克/Franklin 富兰克林/Galton 高尔顿/Dawkins 道金斯）；源文 (entry: X) 引用统一译为（见“X”词条），源文笔误 Nelkin an Lindee 照源（defs 键 nelkin-2004 不变）"
+  },
+  {
+   "step": "s2",
+   "status": "ok",
+   "actor": "G-main-20261111",
+   "at": "2026-11-11T09:58:50Z",
+   "evidence": "check_prose 37→0（长句 23 实修拆句、de-chain 7、passive-bei 4、weak-verb 3 全部实修，无豁免）；语体：现代汉语学术书面语（非文言），破折号仅用于插入与转折"
+  },
+  {
+   "step": "s3",
+   "status": "ok",
+   "actor": "G-main-20261111",
+   "at": "2026-11-11T09:58:51Z",
+   "evidence": "s3 四检：style 0、academic 0 硬错、math 0/0、terms 0 硬错（正文缺登记译法告警为登记册 s/、g/ 首现单字母路径与本文件 s.md 后缀误配的既有检查器误报，与本词条无关）；SUMMARY --headers 0 mismatch、mu-lu-s 0；术语 36 行/人名 37 行入册"
   }
+ ],
+ "blockers": [],
+ "created_at": "2026-11-01T10:31:24Z",
+ "version_pin": {
+  "pubinfo_date": "Sep 7, 2023",
+  "archive_edition": "Spring 2026",
+  "sha256": "d43c85524ec30190c99781e4900a4a65e67a1ff6351855693ed4d00e8aeecbdc"
+ }
 }

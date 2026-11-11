@@ -1743,7 +1743,7 @@
 | filling instructions | — | 填充指令 | 首译（scientific-explanation-20th） | 本库首译（Kitcher 1989）；凭证 2026-11-10 | 2026-11-10 |
 | filtration | — | 滤化 | logic-dynamic | 模态逻辑通行译法（Fischer–Ladner）；凭证 2026-11-10 | 2026-11-09 |
 | final cause | — | 目的因 | aristotle-causality 首译 | 亚里士多德研究通行译名（四因之一）；凭证 2026-11-08 | 2026-11-08 |
-| finitary | — | 有穷的 | hilbert-program 首译 | 数学基础通行（与 finitism 有限主义、infinite 无穷对举；沿册内“有穷模型性质”先例）；凭证 2026-11-11 | 2026-11-11 |
+| finitary | — | 有穷的 | hilbert-program 首译 | 数学基础通行（与 finitism 有穷主义、infinite 无穷对举；沿册内“有穷模型性质”先例）；凭证 2026-11-11 | 2026-11-11 |
 | finitary standpoint | — | 有穷立场 | hilbert-program 首译 | 照文直译（Hilbert 的 finiter Standpunkt）；凭证 2026-11-11 | 2026-11-11 |
 | finite differentiation | — | 有限分立 | digital-art 首译 | 古德曼记法理论通行（differentiated 分立与 dense 稠密对举）；凭证 2026-11-10 | 2026-11-10 |
 | finite model property | — | 有穷模型性质 | logic-dynamic | 模型论通行译法；凭证 2026-11-10 | 2026-11-09 |
