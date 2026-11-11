@@ -1,0 +1,327 @@
+{
+ "key": "kripke's schema",
+ "term": "Kripke's schema",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T09:33:04+00:00",
+ "status": "ok",
+ "note": "variant=Kripke's schema; 审定公布名词库=418; 海峡两岸名词对照库=104; 其他来源数据库=9; 预公布名词数据库=17; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "图式",
+   "en": "schema",
+   "code": "13.044",
+   "standard": "行为医学名词",
+   "subject": "行为医学_自伤行为与自杀行为_自杀行为"
+  },
+  {
+   "cn": "模式",
+   "en": "schema",
+   "code": "07.0007",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据模型"
+  },
+  {
+   "cn": "图式",
+   "en": "schema",
+   "code": "06.008",
+   "standard": "心理学名词",
+   "subject": "心理学_发展心理学"
+  },
+  {
+   "cn": "元数据方案",
+   "en": "metadata schema",
+   "code": "06.02.009",
+   "standard": "档案学名词",
+   "subject": "档案学_电子文件管理_系统与技术"
+  },
+  {
+   "cn": "身体图式",
+   "en": "body schema",
+   "code": "03.539",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学"
+  },
+  {
+   "cn": "元数据方案",
+   "en": "metadata schema",
+   "code": "04.897",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_元数据"
+  },
+  {
+   "cn": "外模式",
+   "en": "external schema",
+   "code": "07.0015",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据模型"
+  },
+  {
+   "cn": "模式调优",
+   "en": "schema tuning",
+   "code": "07.0323",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库管理系统及其实现技术"
+  },
+  {
+   "cn": "模式定理",
+   "en": "schema theorem",
+   "code": "08.0291",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_机器学习"
+  },
+  {
+   "cn": "模式演化",
+   "en": "schema evolution",
+   "code": "07.0491",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库新技术"
+  },
+  {
+   "cn": "工作流模式",
+   "en": "workflow schema",
+   "code": "11.0163",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机应用_信息系统与信息化"
+  },
+  {
+   "cn": "内模式",
+   "en": "internal schema",
+   "code": "07.0016",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据模型"
+  },
+  {
+   "cn": "图式",
+   "en": "schema",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "认知图式",
+   "en": "cognitive schema",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "外向图式",
+   "en": "extravert schema",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "抑郁图式",
+   "en": "depressive schema",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "图式理论",
+   "en": "schema theory",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "事件图式",
+   "en": "event schema",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "家庭图式",
+   "en": "family schema",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "自我图式",
+   "en": "self schema",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "性别图式",
+   "en": "gender schema",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "概念圖示",
+   "en": "conceptual schema",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "应用模式",
+   "en": "application schema",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "编码模式",
+   "en": "encoding schema",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "概形",
+   "en": "scheme",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "公证人机制",
+   "en": "notary scheme",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "庞氏骗局",
+   "en": "Ponzi scheme",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "巩膜",
+   "en": "sclera",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "新型庞氏骗局",
+   "en": "new Ponzi scheme",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "网络传销",
+   "en": "online pyramid scheme",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "安全评估方案",
+   "en": "security assessment scheme",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "多强度诱骗态调制方案（中国）",
+   "en": "Multi-intensity Decoy State Modulation Scheme (China)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "新技术金融应用风险保险计划",
+   "en": "insurance scheme for use of new technology in financial sector",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "自我图式",
+   "en": "self-schema",
+   "code": "4.1.4.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_自我认知"
+  },
+  {
+   "cn": "赖特阶级分类",
+   "en": "Wright class scheme",
+   "code": "2.6.6.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_社会分层理论"
+  },
+  {
+   "cn": "戈德索普阶级分类",
+   "en": "Goldthorpe class scheme",
+   "code": "2.6.6.14",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_社会分层理论"
+  },
+  {
+   "cn": "二级采样方案",
+   "en": "secondary sampling scheme",
+   "code": "2.1.1.75",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品生物性危害因素"
+  },
+  {
+   "cn": "阴囊湿疹",
+   "en": "scrotum eczema",
+   "code": "4.1.3.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_热区军事卫生_热带"
+  },
+  {
+   "cn": "新型农村合作医疗",
+   "en": "new cooperative medical scheme",
+   "code": "3.11.4.11",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_医学社会学_健康服务与制度"
+  },
+  {
+   "cn": "养老金制度",
+   "en": "pensions scheme，annuity system",
+   "code": "3.15.8.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_老年和老龄化研究_老年社会保障"
+  },
+  {
+   "cn": "监测方案",
+   "en": "monitoring and surveillance scheme",
+   "code": "1.5.10",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险监测"
+  },
+  {
+   "cn": "三级采样方案",
+   "en": "three stage sampling scheme",
+   "code": "2.1.1.76",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品生物性危害因素"
+  },
+  {
+   "cn": "比转换能",
+   "en": "cema",
+   "code": "3.2.5.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量"
+  },
+  {
+   "cn": "卫生筹资方案",
+   "en": "health financing schemes",
+   "code": "2.2.5.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生总费用_卫生费用核算"
+  },
+  {
+   "cn": "新型农村合作医疗",
+   "en": "new cooperative medical scheme，NCMS",
+   "code": "11.2.2.7",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_健康保险_健康保险类型"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

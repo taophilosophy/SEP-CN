@@ -1,0 +1,348 @@
+{
+ "key": "labeled transition system",
+ "term": "labeled transition system",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T09:33:04+00:00",
+ "status": "ok",
+ "note": "variant=labeled transition system; 审定公布名词库=8996; 海峡两岸名词对照库=2833; 其他来源数据库=560; 预公布名词数据库=408; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "标记",
+   "en": "label;labeling",
+   "code": "11.0389",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_方法与技术_定性定量分析方法_层析技术"
+  },
+  {
+   "cn": "库所/变迁系统",
+   "en": "place/transition system",
+   "code": "02.0705",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_佩特里网"
+  },
+  {
+   "cn": "谓词/变迁系统",
+   "en": "predicate/transition system",
+   "code": "02.0606",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_佩特里网"
+  },
+  {
+   "cn": "标签",
+   "en": "label",
+   "code": "02.0069",
+   "standard": "化工名词（九）无机化工与肥料",
+   "subject": "化工（九）_肥料"
+  },
+  {
+   "cn": "书标",
+   "en": "label",
+   "code": "02.286",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_图书情报工作管理_图书馆建筑与设施"
+  },
+  {
+   "cn": "标记",
+   "en": "label",
+   "code": "02.0189",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学相关基础学科_放射化学"
+  },
+  {
+   "cn": "标号",
+   "en": "label",
+   "code": "05.0196",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_语言与编译"
+  },
+  {
+   "cn": "标签",
+   "en": "label",
+   "code": "02.014",
+   "standard": "药学名词",
+   "subject": "药学_药剂学"
+  },
+  {
+   "cn": "标签",
+   "en": "label",
+   "code": "06.131",
+   "standard": "语言学名词",
+   "subject": "语言学_辞书学_辞书编纂"
+  },
+  {
+   "cn": "标注",
+   "en": "label",
+   "code": "30.045",
+   "standard": "地理学名词",
+   "subject": "地理学_地理信息系统"
+  },
+  {
+   "cn": "标签",
+   "en": "label",
+   "code": "11.0128",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_客货运输"
+  },
+  {
+   "cn": "标号",
+   "en": "label",
+   "code": "02.0268",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_递归论"
+  },
+  {
+   "cn": "可递系统",
+   "en": "transitive system",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "谓词-变迁系统",
+   "en": "predicate/transition system",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "标注",
+   "en": "label",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "标注",
+   "en": "label",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "标号",
+   "en": "label",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "标签",
+   "en": "label",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "子午仪卫导系统，海军卫导系统",
+   "en": "transit navigation system",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "标记",
+   "en": "labeling",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "标记",
+   "en": "labeling",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "加标注",
+   "en": "labelling",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "加标签",
+   "en": "labeling",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "贴标签",
+   "en": "labelling",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "攻防转换",
+   "en": "transition",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "动作转换",
+   "en": "transition",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_花样游泳名词"
+  },
+  {
+   "cn": "动作转换",
+   "en": "transition",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "标签图",
+   "en": "labeled graph",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据标签",
+   "en": "data label",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "射频识别标签",
+   "en": "RFID label",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "标识管理",
+   "en": "labelling management",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "过渡金属",
+   "en": "Transition metal",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子跃迁",
+   "en": "quantum transition",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "多协议标签交换",
+   "en": "Multi-Protocol Label Switching",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子相变",
+   "en": "quantum phase transition",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "快速公交系统",
+   "en": "bus rapid transit",
+   "code": null,
+   "standard": "外语中文译写规范部际联席会议专家委员会",
+   "subject": "其他"
+  },
+  {
+   "cn": "强制性标识",
+   "en": "compulsory labelling, mandatary labelling",
+   "code": "3.4.61",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物过敏"
+  },
+  {
+   "cn": "跃迁",
+   "en": "transition",
+   "code": "8.1.12",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_核武器医学防护学_核武器"
+  },
+  {
+   "cn": "数字标签",
+   "en": "digital label",
+   "code": "4.3.35",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品安全风险管理_食品标准"
+  },
+  {
+   "cn": "指示标签",
+   "en": "indicator label",
+   "code": "3.1.4.3",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "食品标签",
+   "en": "food label",
+   "code": "4.1.6.2.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应"
+  },
+  {
+   "cn": "标签理论",
+   "en": "labeling theory",
+   "code": "2.10.2.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨"
+  },
+  {
+   "cn": "营养标识",
+   "en": "nutritional labeling",
+   "code": "4.1.6.7.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应"
+  },
+  {
+   "cn": "食品标签",
+   "en": "food labelling",
+   "code": "4.3.28",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品安全风险管理_食品标准"
+  },
+  {
+   "cn": "致敏原标识",
+   "en": "allergen labelling",
+   "code": "3.4.58",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物过敏"
+  },
+  {
+   "cn": "营养标签",
+   "en": "nutrition labelling",
+   "code": "4.3.29",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品安全风险管理_食品标准"
+  },
+  {
+   "cn": "自愿性标识",
+   "en": "voluntary labelling, non-mandatary labelling",
+   "code": "3.4.62",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物过敏"
+  },
+  {
+   "cn": "市场转型",
+   "en": "market transition",
+   "code": "2.6.6.25",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_社会分层理论"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
