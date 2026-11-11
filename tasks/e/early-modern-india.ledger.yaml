@@ -1720,242 +1720,322 @@ segments:
     kind: body
     source: |-
       ## 9. Meaning, Understanding and Testimony
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 9. 意义、理解与证言
+    step2: |-
+      ## 9. 意义、理解与证言
   - id: 201
     kind: body
     source: |-
       ### 9.1 The Language Processing Mechanism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 9.1 语言处理机制
+    step2: |-
+      ### 9.1 语言处理机制
   - id: 202
     kind: body
     source: |-
       Just as perception and inference are described, in the *pramāṇa* system, as knowledge-yielding faculties, so too is language. This leads the Nyāya to formulate a description of the mechanism by which a competent language-user is able to decode noise-utterances and derive language-based knowledge. The description *The Manual of Reason* gives of this ‘language processing mechanism’ is as follows (TS 67, 68). The input to the process is the hearer’s auditory perception of a spoken utterance qua uninterpreted noise, and this is identified as the ‘special’ instrument cause (*karaṇa*). For example, hearing the noise-string
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如在量（*pramāṇa*）体系中，知觉与推理被描述为能产生知识的官能，语言亦然。这促使正理去描述一种机制：胜任的语言使用者如何解码噪声般的话语，并由此获得基于语言的知识。《理性手册》对这套“语言处理机制”的描述如下（TS 67、68）。该过程的输入，是听者对一段口头话语作为未经解释的噪声的听觉知觉，这被认定为“特殊”工具因（*karaṇa*）。例如，听到这串噪声：
+    step2: |-
+      在量（*pramāṇa*）体系里，知觉和推理都被说成能产生知识的官能；语言也不例外。于是正理着手描述一套机制：一个胜任的语言使用者，如何把一串“噪声”似的话语解码，从而获得基于语言的知识。《理性手册》对这套“语言处理机制”的说明如下（TS 67、68）。过程的输入，是听者把一段口头话语当作未经解释的噪声来听，这就是“特殊”工具因（*karaṇa*）。比如听到这一串声音：
   - id: 203
     kind: body
     source: |-
       [*]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [*]
+    step2: |-
+      [*]
   - id: 204
     kind: body
     source: |-
       “The” “cat” “is” “on” “the” “mat”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “The” “cat” “is” “on” “the” “mat”。
+    step2: |-
+      “The” “cat” “is” “on” “the” “mat”。
   - id: 205
     kind: body
     source: |-
       The ‘operative condition’ (*vyāpāra*) is the hearer’s (tacit) knowledge of the meaning (*śakti-jñāna*) of each of the words in the utterance. This is what marks off a person who understands the language in question from one who does not (but who may, nevertheless hear the words spoken, without having the capacity to interpret them). For example, knowledge that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “作用条件”（*vyāpāra*）是听者对话语中每个词的意义的（默会）知识（*śakti-jñāna*）。正是这一点，把懂得该语言的人与不懂的人（后者也能听见这些词，却没有解释它们的能力）区别开来。例如，知道：
+    step2: |-
+      “作用条件”（*vyāpāra*），是听者对话语中每个词之义（*śakti-jñāna*）的（默会）知识。懂这门语言的人与不懂的人，分别就在这里——后者照样听见那些词，却没有解释它们的能力。例如，知道：
   - id: 206
     kind: body
     source: |-
       **[M1]**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **[M1]**
+    step2: |-
+      **[M1]**
   - id: 207
     kind: body
     source: |-
       “the cat” means the cat,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “the cat”意指猫，
+    step2: |-
+      “the cat”意指猫，
   - id: 208
     kind: body
     source: |-
       **[M2]**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **[M2]**
+    step2: |-
+      **[M2]**
   - id: 209
     kind: body
     source: |-
       “the mat” means the mat, and
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “the mat”意指席子，以及
+    step2: |-
+      “the mat”意指席子；以及
   - id: 210
     kind: body
     source: |-
       **[M3]**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **[M3]**
+    step2: |-
+      **[M3]**
   - id: 211
     kind: body
     source: |-
       “is on” means the substratum-superstratum relation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “is on”意指基底—上层关系。
+    step2: |-
+      “is on”意指基底与上层的关系。
   - id: 212
     kind: body
     source: |-
       The output of the process, i.e. the effect of the combined causal factors, is the hearer’s forming a belief, for example belief that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      过程的输出，即诸因果因素合计的结果，是听者形成一个信念，例如相信：
+    step2: |-
+      过程的输出——诸因果因素合起来的效果——是听者形成了一个信念，例如相信：
   - id: 213
     kind: body
     source: |-
       **[P]**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **[P]**
+    step2: |-
+      **[P]**
   - id: 214
     kind: body
     source: |-
       The cat is on the mat.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      猫在席子上。
+    step2: |-
+      猫在席子上。
   - id: 215
     kind: body
     source: |-
       Just as, in the case of perception, a number of auxiliary causal factors, such as there being adequate lighting, the perceiver’s sense-faculty being in good condition, the perceiver paying attention, etc., so here too. Nyāya isolates four such factors for special attention, namely: spatio-temporal ‘contiguity’ (*sannidhi*) of the uttered words; the speaker’s intention (*tātparya*); ‘syntactic expectancy’ (*ākāṅkṣā*); and ‘semantic fitness’ (*yogyatā*) (cf. TS 67). The first is self-explanatory: if the words in the utterance are uttered one at a time over a long period of time, or mixed in with the words of a distinct utterance, it will be impossible form a proper auditory perception of the utterance. The second, ‘speaker’s intention’ is appealed to when the sentence contains an ambiguous word—disambiguation proceeds via consideration of the speaker’s intended meaning. *The Manual of Reason* defines ‘syntactic expectancy’ as ‘the inability of one word to produce, without another word, an awareness of the relation between them’, and it cites, as an example of an utterance which fails to possess such expectancy, the sentence “horse man elephant”. Clearly the idea is at least that the utterance must be grammatically correct. More than that, there is a suggestion that it is in virtue of the syntactical rules that the unarticulated semantic relations between the words are expressed. What makes it the case that someone who understands the utterance “the cat is on the mat” grasps a united proposition, and not just a list of items [the cat, the on-relation, the mat]? The idea here, perhaps, is that (knowledge of) the syntactical rules generates an awareness of the connecting relations between each of these items.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如在知觉情形中，有许多辅助因果因素，如光线充足、知觉者感官状况良好、知觉者注意等，这里也一样。正理挑出四项特别加以注意，即：所说话词在时空上的“亲邻”（*sannidhi*）；说话者的意图（*tātparya*）；“句法期待”（*ākāṅkṣā*）；以及“语义适切”（*yogyatā*）（参 TS 67）。第一项不言自明：若话语中的词是在很长一段时间里一个一个说出的，或与另一段话语的词混杂在一起，就不可能形成对该话语的恰当听觉知觉。第二项“说话者意图”在句子含歧义词时起作用——消歧要经由对说话者意图意义的考虑。《理性手册》把“句法期待”定义为“一个词若无另一词，便不能产生对二者之间关系的意识”，并举“马 人 象”这句话作为缺乏这种期待的例证。显然，其想法至少是：话语必须语法正确。不止于此，它还提示：正是凭借句法规则，词与词之间未明言的语义关系才得以表达。凭什么说懂得“猫在席子上”这句话的人把握了一个统一的命题，而不只是一串项目［猫、在……上关系、席子］？这里的想法或许是：（对）句法规则的（知识）产生了对各项之间连接关系的意识。
+    step2: |-
+      知觉那里有一堆辅助因果因素——光线够亮、感官状态良好、知觉者在留意，等等——语言这里也一样。正理挑出四项格外关注：所说话词在时空上的“亲邻”（*sannidhi*）；说话者的意图（*tātparya*）；“句法期待”（*ākāṅkṣā*）；“语义适切”（*yogyatā*）（参考 TS 67）。头一项不用多解释：词若是在老长时间里一个一个往外蹦，或者跟另一句话的词搅在一起，听者就形不成对这句话的像样听觉知觉。第二项“说话者意图”，在句中有歧义词时派上用场——靠揣摩说话者想表达什么来消歧。《理性手册》把“句法期待”定义为“一个词若没有另一个词相伴，便不能产生对二者关系的意识”，并以“马 人 象”这句话为例，说明什么叫缺乏句法期待。这至少是说，话语得合乎语法。不止于此，它还暗示：词与词之间那些没说出口的语义关系，正是靠句法规则表达出来的。凭什么说，听懂“猫在席子上”的人把握到的是一个统一命题，而不只是一份清单［猫、在……上关系、席子］？此处的想法也许是：（关于）句法规则的（知识）生起了对各项之间连接关系的意识。
   - id: 216
     kind: body
     source: |-
       ‘Semantic fitness’ (*yogyatā*) is an intriguing concept. *The Manual of Reason* defines it as ‘the absence of incompatibility among what is signified by the words’, and illustrates its definition by contrasting the sentence “He sprinkles the field with water” with “He sprinkles the field with fire”. The idea is that the activity of sprinkling is ‘compatible with’ (i.e. can only be done with) a liquid like water, and not with a substance like fire. It would be like saying “Cathood is on the mat” or perhaps Chomsky’s “Colourless green ideas sleep furiously”. Such sentences, though grammatically correct, do not make sense. This causal factor, then, is that an utterance is intelligible only if the proposition expressed is ontologically possible, by the light of a preconceived ontological system, such as the Vaiśeṣika system of categories. Some Naiyāyikas, however, impose a more demanding requirement, that to be ‘semantically fit’ the utterance must be true, i.e. that ‘fit’ = ‘true’, not merely ‘possible’, and consequently that an utterance is intelligible only if it is true! In effect, they identify ‘semantic fitness’ with the ‘*guṇa*’ or ‘causal factor leading to truth’, in the language-processing mechanism. We will return to this dispute a little later.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “语义适切”（*yogyatā*）是个引人入胜的概念。《理性手册》把它定义为“词所表者之间没有不相容”，并以“他用水浇田”与“他用火浇田”的对比来说明。其想法是：浇这一活动与像水这样的液体“相容”（即只能用液体来做），与火这样的实体则不相容。这就好比说“猫性在席子上”，或乔姆斯基的“无色的绿观念愤怒地睡眠”。这类句子语法虽正确，却讲不通。于是这项因果因素是说：只有当所表达的命题、按某种预先构想的本体论体系（如胜论句义体系）来看在存在论上可能时，话语才是可理解的。然而有些正理论师提出更苛刻的要求：要“语义适切”，话语必须为真，即“适切”＝“真”而非仅“可能”，于是话语只有为真才可理解！实际上，他们在语言处理机制中把“语义适切”等同于 *guṇa* 或“引向真的因果因素”。这场争论稍后再谈。
+    step2: |-
+      “语义适切”（*yogyatā*）这概念很有意思。《理性手册》的定义是“词所表者之间没有不相容”，并用“他用水浇田”与“他用火浇田”的对照来示例。意思是：浇这个动作与像水这样的液体“相容”（也只能拿液体来浇），与火这样的东西却不相容。这就好比说“猫性在席子上”，或者乔姆斯基那句“无色的绿观念愤怒地睡眠”。这类句子语法没毛病，就是讲不通。所以这项因果因素是说：一句话要可理解，它所表达的命题按某种预先设定的本体论体系（比如胜论的句义体系）来看，必须在存在论上说得通。不过，有些正理论师把门槛抬得更高：要“语义适切”，话语还必须为真——“适切”不光是“可能”，而是“真”；于是，话只有为真才可理解！实际上，他们等于在语言处理机制里把“语义适切”当成了 *guṇa*，即“引向真的因果因素”。这场争论稍后再谈。
   - id: 217
     kind: body
     source: |-
       ### 9.2 Semantic Power and the Reduction of Semantic Properties
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 9.2 语义能力与语义属性的还原
+    step2: |-
+      ### 9.2 语义能力与语义属性的还原
   - id: 218
     kind: body
     source: |-
       *The Manual of Reason*’s definition of a word is celebrated and often quoted. It says (TS 66) that a word is that which has semantic power (*śaktaṃ padam*). A sentence (*vākya*) is defined as a collection of words. So *The Manual of Reason*’s definition fits with the modern one, according to which a word is a semantically significant sentential constituent. Semantic power is that knowledge of which enables the competent hearer to interpret the word, and this, for the Naiyāyikas, consists in the word’s standing for an object. Thus, someone who understands the word “cat” knows something of the form <“cat” means cat>, where “means” is a relation between words and objects of some type. *The Manual of Reason* raises three questions about this relation: (i) Is it a new and irreducible type or relation, not reducible, that is, to any of the relations already admitted (TSD 66a)? (ii) What is the relatum, i.e. with what type of entity are words semantically related (TSD 66b, k)? (iii) How do we learn the meaning of a word (TSD 66c, d).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《理性手册》对“词”的定义有名且常被引用。它说（TS 66）：词就是具有语义能力者（*śaktaṃ padam*）。句子（*vākya*）定义为词的集合。于是《理性手册》的定义与现代定义相合：词是句子中具有语义意义的构成成分。语义能力就是关于它的知识使胜任的听者能够解释该词；对正理论师来说，这在于词指称一个对象。因此，懂得“猫”这个词的人，知道某种形式为〈“猫”意指猫〉的东西，其中“意指”是词与某类对象之间的关系。《理性手册》就这一关系提出三个问题：(i) 它是否是一种新的、不可还原的关系类型，不能还原为已承认的任何关系（TSD 66a）？(ii) 关系项是什么，即词在语义上与哪类实体相关（TSD 66b, k）？(iii) 我们如何学会一个词的意义（TSD 66c, d）？
+    step2: |-
+      《理性手册》给“词”下的定义鼎鼎有名，常被引用。它说（TS 66）：词就是有语义能力者（*śaktaṃ padam*）；句子（*vākya*）则是词的集合。这倒与现代定义合拍——词是句子中有语义意义的构成成分。所谓语义能力，就是关于它的知识让胜任的听者能够解释这个词；在正理论师看来，这一能力就在于词指称某个对象。所以，懂“猫”这个词的人，知道某种形如〈“猫”意指猫〉的东西，其中“意指”是词与某类对象之间的关系。《理性手册》围绕这个关系提了三个问题：(i) 它是一种新的、不可还原的关系吗，也就是说，不能化归为已经承认的任何关系吗（TSD 66a）？(ii) 关系项是什么——词在语义上与哪一类实体相关（TSD 66b, k）？(iii) 我们是怎么学会词义的（TSD 66c, d）？
   - id: 219
     kind: body
     source: |-
       (i) The Mīmāṃsakas and Grammarians were ‘essentialists’ about meaning, arguing that the Sanskrit language is a natural entity, independent of human convention or usage, whose words possess intrinsic semantic powers to signify objects, just as fire has the intrinsic capacity to burn. The Naiyāyikas traditionally opposed this view, arguing instead that language is a product of convention, and that it is possible to account for a word’s semantic power in terms of stipulations governing its use. The claim is that we can define (and hence analyse) the meaning-relation thus:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (i) 弥曼差派与文法家是意义的“本质主义者”，主张梵语是自然实体，独立于人的约定或用法，其词具有指称对象的内在语义能力，正如火具有燃烧的内在能力。正理传统上反对这一观点，主张语言是约定的产物，词义能力可以用支配其用法的约定来说明。其主张是：我们可以这样定义（并因而分析）意义关系：
+    step2: |-
+      (i) 弥曼差派和文法家是意义问题上的“本质主义者”。他们说，梵语是自然形成的实体，不依赖人的约定或习惯；词本身就带有指称对象的语义能力，正如火本身就带有燃烧的能力。正理一向反对这种看法，认为语言是约定俗成的产物；一个词的语义能力，可以用规范其用法的约定来交代。他们主张，意义关系可以这样定义（因而可以分析）：
   - id: 220
     kind: body
     source: |-
       > *x* means *y* iff there is a decree/stipulation (*saṅketa*) of the form “Let utterances of *x* generate cognitions of *y*”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > *x* 意指 *y*，当且仅当存在一个形式为“让 *x* 的话语产生对 *y* 的认知”的约定或规定（*saṅketa*）。
+    step2: |-
+      > *x* 意指 *y*，当且仅当存在一条约定或规定（*saṅketa*），其形式为“让 *x* 的话语产生关于 *y* 的认知”。
   - id: 221
     kind: body
     source: |-
       Now a stipulation or decree is claimed to consist in the decree-maker’s having a certain mental state, viz. a ‘desire’ or ‘will’ (*icchā*) of the form specified. Thus, the meaning relation is analysed in terms of mental states and their contents, and not as a new type of relation. Who is the decree-maker? *The Manual of Reason* states that it is God, but most later Naiyāyikas drew a distinction between words which have belonged ‘endlessly’ in the language (introduced by God) and words introduced by an explicit human stipulation (e.g. the technical terms in Pāṇini’s grammar).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在，所谓规定或约定，被主张在于规定者具有某种心理状态，即具有所规定形式的“欲”或“意志”（*icchā*）。于是，意义关系便用心理状态及其内容来分析，而不被当作一种新的关系类型。规定者是谁？《理性手册》说是上帝，但后来多数正理论师区分了两类词：一类“无尽地”属于语言（由上帝引入），另一类由人明确约定引入（如波你尼语法中的术语）。
+    step2: |-
+      那么，规定或约定又是什么？据说它在于规定者具有某种心理状态，也就是带着规定所要求的形式的“欲”或“意志”（*icchā*）。这样一来，意义关系就用心理状态及其内容来分析，不必再设一类新关系。规定者是谁？《理性手册》说是上帝；不过后来多数正理论师把两类词分开：一类“无始以来”就在语言里（由上帝引入），另一类由人明确约定引入（比如波你尼语法里的术语）。
   - id: 222
     kind: body
     source: |-
       (ii) What is the meaning-relatum of a word like “cow”, a generic nominal expression? Here again *The Manual of Reason* contrasts the Nyāya view with that of the Mīmāṃsakas. One sub-school of Mīmāṃsakas (the Bhātta) claim that the meaning of “cow” is the universal cowhood, since sentences like “(The) cow is an animal”, or injunctive laws like “Never kick a cow”, say something about the entire class of cows, not about any one individual. Thus:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (ii) 像“牛”这样一个类名表达式，其意义关系项是什么？这里《理性手册》再次把正理的观点与弥曼差派对照。弥曼差的一个支派（跋吒派）主张，“牛”的意义是“牛性”这一普遍，因为像“牛是动物”这样的句子，或“切勿踢牛”这样的训令法则，说的是整个牛类，而不是任何一头个别的牛。于是：
+    step2: |-
+      (ii) 像“牛”这样的类名，它的意义关系项是什么？《理性手册》又把正理与弥曼差派摆在一起对照。弥曼差的一个支派（跋吒派）主张，“牛”的意义就是“牛性”这个普遍。理由是：“牛是动物”这样的句子，或者“切勿踢牛”这样的训令，讲的是整个牛类，不是某一头牛。所以：
   - id: 223
     kind: body
     source: |-
       **(Bh)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(Bh)**
+    step2: |-
+      **(Bh)**
   - id: 224
     kind: body
     source: |-
       “cow” means cowhood.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “牛”意指牛性。
+    step2: |-
+      “牛”意指牛性。
   - id: 225
     kind: body
     source: |-
       In reply to the obvious objection, that in many other sentences, such as “The cow is in the garden”, a particular cow is referred to, these Mīmāṃsakas appeal to the idea that a sentence can carry an ‘implication’ (*ākṣepa*) other than its literal meaning. Thus the sentence “The cow is in the garden” may mean literally that cowhood is collocated with occurrence-in-the-garden (i.e. that there exists a cow in the garden), but carries the implication that a certain particular cow is in the garden. The principle here is that a prior awareness of the qualifier (*viśeṣaṇa*) leads to an implicated awareness of the thing qualified (*viśeṣya*) (TSD 66b). The Nyāya reply to this argument proceeds by way of rejecting the principle cited, for, they say, awareness of a qualifier or universal is possible only via an awareness of the thing qualified.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      面对一个明显的反驳——在许多别的句子里，如“牛在园中”，指的是某一头牛——这些弥曼差师求助于一个观念：句子除了字面意义之外，还可以带有“牵带”（*ākṣepa*）。于是“牛在园中”字面上或许意味着牛性与“在园中发生”同所依（即园中存在着一头牛），但牵带出某一头特定的牛在园中。这里的原则是：对能别（*viśeṣaṇa*）的先前意识导致对所别（*viśeṣya*）的牵带意识（TSD 66b）。正理对这个论证的回应，是拒斥所引的原则，因为他们说，对能别或普遍的觉知只有通过对所别之物的意识才可能。
+    step2: |-
+      明显的反驳是：在“牛在园中”等许多句子里，明明指的是某一头牛。这些弥曼差师的应对，是搬出“牵带”（*ākṣepa*）这一观念：句子除了字面意义，还能带出言外之意。于是“牛在园中”字面上也许表示“牛性与在园中发生同所依”（也就是园里有牛），但同时还牵带出“某一头特定的牛在园中”。他们的原则是：先有对能别（*viśeṣaṇa*）的意识，才谈得上对所别（*viśeṣya*）的牵带意识（TSD 66b）。正理的反驳则直接否掉这条原则：他们说，对能别或普遍的觉知，本身就只能通过对所别之物的觉知才可能。
   - id: 226
     kind: body
     source: |-
       *The Manual of Reason* states the modern Nyāya view: the meaning of an utterance of the word “cow” is a particular individual as qualified by cowhood (*jāti-viśiṣṭa-vyakti*):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《理性手册》陈述现代正理的观点：“牛”这个词的一次话语，其意义是一个被牛性所限定的个别个体（*jāti-viśiṣṭa-vyakti*）：
+    step2: |-
+      《理性手册》摆出现代正理的主张：说出“牛”这个词时，其意义是一个被牛性所限定的个别个体（*jāti-viśiṣṭa-vyakti*）：
   - id: 227
     kind: body
     source: |-
       **(Ny)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(Ny)**
+    step2: |-
+      **(Ny)**
   - id: 228
     kind: body
     source: |-
       “cow” means a-cow-as-qualified-by-cowhood.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “牛”意为一头被牛性所限定的牛。
+    step2: |-
+      “牛”意为一头被牛性所限定的牛。
   - id: 229
     kind: body
     source: |-
       The idea is this. Anyone who understands an utterance of the sentence “(The) cow is in the garden” does so by (a) identifying a certain object as the referent of the word “cow”, and (b) grasps that that individual is qualified by the property occurrence-in-the-garden. However, one can only identify an object by distinguishing it from others, and this involves the use of a distinguishing feature. So the individual is grasped in awareness as distinguished/qualified by the feature cowhood. Since the meaning of a word is, by definition, its contribution to the final belief generated by hearing the utterance containing the word, the meaning of “cow” is an individual as qualified by cowhood. Note that, on such a theory, token utterances of “cow” vary with respect to the individual to which they refer, but every token utterance nevertheless shares a common semantic property, viz. “ …—qualified-by-cowhood”. The Naiyāyikas in this way draw a distinction between type- and token- meaning (or, as some say, between meaning and reference).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其想法如下。任何听懂“牛在园中”这句话的人，都是靠 (a) 把某个对象认定为“牛”这个词的所指，并且 (b) 把握到那个个体被“在园中发生”这一属性所限定。然而，人只能通过把一物与他物区分开来才认定它，而这要用到一项区别性特征。于是个体在意识中被把握为被牛性这一特征所区分／限定。既然按定义，一个词的意义是它对该句所生成最终信念的贡献，那么“牛”的意义就是一个被牛性所限定的个体。注意，按这种理论，“牛”的每一次具体话语所指的个体各不相同，但每一次话语仍共享一个共同的语义属性，即“……被牛性所限定”。正理论师就这样在类型意义与具体话语意义之间（或如某些人所说，在意义与指称之间）作出了区分。
+    step2: |-
+      道理是这样：听懂“牛在园中”的人，做的是两件事——(a) 把某个对象认作“牛”这个词的所指；(b) 把握到这个个体被“在园中发生”这一属性所限定。可人要认定一个对象，就得把它与别的对象区分开，而这离不开某项区别性特征。于是，个体在意识里总是作为“被牛性所区分／限定”的东西被把握的。既然按定义，一个词的意义就是它对“听到含该词之句后所生最终信念”的贡献，那么“牛”的意义便是一个被牛性所限定的个体。注意，按这套理论，“牛”的每一次具体说出，所指的个体各不相同；但每次说出都共享同一个语义属性——“……被牛性所限定”。正理论师就这样分开了类型意义与话语意义（也有人说是意义与指称）。
   - id: 230
     kind: body
     source: |-
       The other Mīmāṃaka sub-school (Prābhākara) claim that, in order to explain the fact that, on hearing a sentence, we grasp a unified proposition and not just a list of entities, the meaning-relatum of a word like “cow” is ‘an object connected with another’ (*itarānvita*). The meaning-relatum is a cow along with a ‘hook’ to link it with other meaning-relata. More precisely, the meaning of the word would be something like
-    step1: TBD
-    step2: TBD
+    step1: |-
+      弥曼差的另一支派（钵罗跋迦罗派）主张，为解释我们听到一句话时把握到的是一个统一命题而非一串实体，像“牛”这样的词，其意义关系项是“与另一物相连的对象”（*itarānvita*）。意义关系项是一头牛，外加一个把它与其他意义关系项连接起来的“钩子”。更确切地说，该词的意义大约会是：
+    step2: |-
+      弥曼差的另一支派（钵罗跋迦罗派）则说：我们听到一句话，把握到的是一个统一命题，不是一堆实体；要解释这一点，就得承认“牛”这类词的意义关系项是“与另一物相连的对象”（*itarānvita*）。也就是说，意义关系项是一头牛，还带着一个钩子，把它同别的意义关系项挂在一起。说得更细些，词的意义大致是：
   - id: 231
     kind: body
     source: |-
       **(Pr)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(Pr)**
+    step2: |-
+      **(Pr)**
   - id: 232
     kind: body
     source: |-
       “cow” means a cow-individual, which is ……
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “牛”意为一头牛个体，它……
+    step2: |-
+      “牛”意为一头牛个体，它……
   - id: 233
     kind: body
     source: |-
       So the sentence “The cow is in the garden” does not just mean the list <cow, being in the garden>, as it would if each word simply designated an object, but rather the connected proposition <cow-which-is in-the-garden>. The idea, in effect, is that all meaning-relata, are, in Frege’s terminology, ‘unsaturated’. To this ingenious suggestion, *The Manual of Reason* replies (TSD 66k) that it is superfluous, for “since it is possible for the relation [between meaning-relata] to be apprehended as what is signified by the sentence [as a whole], it is not necessary to postulate a semantic power with reference to the relation”. In other words, *The Manual of Reason* claims that general (presumably syntactic) features of the sentence are enough to connect the meaning-relata, without needing to claim that those meaning-relata themselves do the connecting.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是“牛在园中”这句话并不只意味着清单〈牛、在园中〉——若每个词都只指称一个对象，就会是这样——而意味着连接起来的命题〈在园中的牛〉。这一想法的实质是：按弗雷格的术语，一切意义关系项都是“未饱和的”。对这一巧妙建议，《理性手册》回复（TSD 66k）说它多余：“既然［意义关系项之间的］关系可以作为整句所表者而被把握，就不必再就这一关系设定语义能力。”换言之，《理性手册》主张，句子的一般（大概是句法的）特征足以连接各意义关系项，无需声称这些意义关系项自身在起连接作用。
+    step2: |-
+      照此，“牛在园中”这句话的意思就不只是一份清单〈牛、在园中〉——倘若每个词只管指称一个对象，得到的就是那份清单——而是一个连接起来的命题〈在园中的牛〉。这想法实际上等于说：用弗雷格的术语，一切意义关系项都是“未饱和的”。对这条巧妙的建议，《理性手册》的回答（TSD 66k）是：多余。因为“既然［意义关系项之间的］关系可以作为整句所表的东西被把握，就不必再针对这一关系设定语义能力”。换句话说，《理性手册》认为，句子的一般特征（大概是句法特征）已经足以把各意义关系项连起来，用不着说这些关系项本身在干连接的活。
   - id: 234
     kind: body
     source: |-
       (iii) The Naiyāyikas offer the following account (TSD 66c) of language acquisition. The child makes a series of observations concerning the linguistic behaviour of adults. She hears adult A utter a certain noise “Bring the cow” say, and sees adult B perform a certain action, bringing of the cow. Again, she hears A utter the noise “Bring the horse”, and sees B bring the horse, and hears “Feed the cow” and sees the cow being fed. Then, by a twin inductive process, of (a) “agreement in presence” (*anvaya*) and “agreement in absence” (*vyatireka*)—i.e. noticing the correlation between A making or not making an utterance and B performing or not performing an action, and (b) ‘collection’ (*āvāpa*) and ‘rejection (*udvāpa*)—i.e. noticing the regularities between utterances of “cow” and events concerning the cow, utterances of “bring” and bringing events, etc., the child understands that the word “cow” is linked with objects belonging the class of cows, etc.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (iii) 正理论师对语言习得给出如下说明（TSD 66c）。孩子对成人的语言行为作出一系列观察。她听见成人 A 说出某个声音，比如“把牛牵来”，又看见成人 B 做出某个动作，把牛牵来。她又听见 A 说“把马牵来”，看见 B 把马牵来；听见“喂牛”，看见牛被喂。然后，通过双重归纳过程：(a) “同有”（*anvaya*）与“同无”（*vyatireka*），即注意 A 说与不说某话语、B 做与不做某动作之间的相关；以及 (b) “集取”（*āvāpa*）与“摒除”（*udvāpa*），即注意“牛”的话语与涉及牛的事件之间、“牵”的话语与牵的动作之间的规律性——孩子便懂得“牛”这个词与属于牛类的对象相连，等等。
+    step2: |-
+      (iii) 关于人怎样学会语言，正理论师的说法是这样（TSD 66c）。孩子观察大人的言语行为：听见大人 A 发出某个声音，比如“把牛牵来”，又看见大人 B 做出相应动作，把牛牵来；再听见 A 说“把马牵来”，看见 B 把马牵来；听见“喂牛”，看见牛被喂。经过一整套双重的归纳——(a) “同有”（*anvaya*）与“同无”（*vyatireka*），即留意 A 说与不说某句话、B 做与不做某个动作之间的相关；(b) “集取”（*āvāpa*）与“摒除”（*udvāpa*），即留意“牛”的话语与关于牛的事件之间、“牵”的话语与牵的动作之间的规律——孩子终于明白：“牛”这个词，是与牛类中的对象连在一起的，如此等等。
   - id: 235
     kind: body
     source: |-
       This is an empiricist account of language learning reminiscent of the account attributed by Wittgenstein to Augustine, and severely criticised by him. Apart from the superhuman inferential powers attributed to the child, the problem highlighted by Wittgenstein is that no amount of observation can show, for example, that the relevant correlation is between “cow” and cow-individuals, and not between “cow” and B’s cow-directed-actions, the universal cowhood, heifers rather than cows, etc. (cf. TSD 66d).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这是一种经验主义的语言学习说明，令人想起维特根斯坦归给奥古斯丁、并严加批评的那种说明。除了赋予孩子超人的推理能力之外，维特根斯坦所指出的问题在于：无论观察多少，都无法表明相关的关联是在“牛”与牛个体之间，而不是在“牛”与 B 的朝牛动作之间、与牛性这一普遍之间、与小母牛而非牛之间，等等（参 TSD 66d）。
+    step2: |-
+      这是一套经验主义的语言学习说，让人想起维特根斯坦归到奥古斯丁名下、又狠狠批过的那种说法。且不说它塞给孩子超人的推理能力；维特根斯坦指出的毛病是：观察再多，也看不出相关的关联究竟在“牛”与牛个体之间，还是在“牛”与 B 那些冲着牛去的动作之间、与牛性这个普遍之间、与小母牛而不是牛之间，等等（参考 TSD 66d）。
   - id: 236
     kind: body
     source: |-
       ### 9.3 Testimony
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 9.3 证言
+    step2: |-
+      ### 9.3 证言
   - id: 237
     kind: body
     source: |-
       *The Manual of Reason* says that statements are either Vedic or secular. It adds that (hearing a) Vedic statement is a *pramāṇa*, a means of knowing that which is stated, because Vedic statements are originally uttered by God. (The Mīmāṃsakas dispute this. Not believing in God, they say instead that a Vedic statement is a means of knowing precisely because it has no personal origin, and error in testimony is always a result of human error in the source!) Hearing a secular statement is a means of knowing only if the speaker is an ‘authoritative person’ (*āpta*). An authoritative person is defined as one who speaks the truth (*yathārthavaktā*). There is an ambiguity here: is an authoritative person one who is speaking the truth with respect to the particular utterance in question, or one who is generally truthful? Another question here is: must the testifiee know that the testifier is an authority in this sense or not?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《理性手册》说，陈述要么是吠陀的，要么是世俗的。它补充说：（听到）一个吠陀陈述是一种量，是认识其所陈述之事的途径，因为吠陀陈述最初由上帝说出。（弥曼差派对此有争议。他们不信上帝，反而说：吠陀陈述之所以是认识手段，正因为它没有个人来源，而证言中的错误总是源自说话者的人为错误！）听一个世俗陈述，只有在说话者是“可信者”（*āpta*）时才是认识手段。可信者被定义为说真话者（*yathārthavaktā*）。这里有歧义：可信者是对眼前这次话语说真话的人，还是一般而言说真话的人？另一个问题是：受言者是否必须知道言说者在这个意义上是可信的？
+    step2: |-
+      《理性手册》说，陈述分两类：吠陀的与世俗的。它又说：（听）一个吠陀陈述是一种量，是认识所陈述之事的途径，因为吠陀陈述最初是上帝说的。（弥曼差派不买账。他们不信上帝，反过来说：吠陀陈述之所以能成为认识途径，恰恰因为它是无源的；而证言出错，从来都是源头的人为错误！）听世俗陈述，则只有当说话者是“可信者”（*āpta*）时才算认识途径。可信者的定义是说真话者（*yathārthavaktā*）。这里有歧义：所谓可信者，是对眼前这句话说真话的人，还是一贯说真话的人？还有个问题：受言者必须知道说话者在这个意义上是可信的吗？
   - id: 238
     kind: body
     source: |-
       To confuse matters further, *The Manual of Reason* says that the ‘*guṇa*’, causal factor responsible for the truth of the testifiee’s belief, is ‘*yathārtha-yogyatā-jñāna*’, which can mean either (i) veridical cognition of semantic fitness, or (ii) cognition of veridical semantic fitness. In either case, the ‘*guṇa*’ has nothing to do with the speaker’s credentials, it seems. Option (ii), however, must be wrong, for it cannot be a condition upon testimony that the hearer already knows that what was said is true. Option (i), however, would not guarantee that the final hearer’s belief is true, unless by ‘fitness’ *The Manual of Reason* now intends a rather stronger notion, according to which the meaning-relata ‘fit’ together iff they are in fact connected, i.e. if the utterance expresses a truth. This is, indeed, how some other Naiyāyikas understand the notion of *yogyatā*, but does not accord with *The Manual of Reason*’s own definition.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      更乱的是，《理性手册》说，负责受言者信念之真的 *guṇa*，是 *yathārtha-yogyatā-jñāna*，这可解作 (i) 对语义适切的如实认知，或 (ii) 对如实的语义适切的认知。无论哪种，*guṇa* 似乎都与说话者的资质无关。然而 (ii) 必错，因为不能把“听者已经知道所说为真”当作证言的条件。(i) 则不能保证听者的最终信念为真，除非《理性手册》此处所谓“适切”意在一个强得多的概念：意义关系项彼此“适切”，当且仅当它们事实上相连，即话语表达了一个真理。某些其他正理论师对 *yogyatā* 的理解确实如此，但与《理性手册》自己的定义不符。
+    step2: |-
+      更添乱的是，《理性手册》说，负责受言者信念之真的 *guṇa* 是 *yathārtha-yogyatā-jñāna*。这个复合词可以两解：(i) 对语义适切的如实认知；或 (ii) 对“如实的语义适切”的认知。无论哪种，*guṇa* 似乎都跟说话者的资质不沾边。但 (ii) 必错：总不能把“听者事先已经知道所说为真”当成证言的条件。(i) 又保证不了听者的最终信念为真——除非《理性手册》这里的“适切”是个强得多的概念：意义关系项彼此“适切”，当且仅当它们在事实上相连，也就是这句话表达了一个真理。某些正理论师确实这样理解 *yogyatā*，但这与《理性手册》自己的定义对不上。
   - id: 239
     kind: body
     source: |-
       I propose the following resolution. The language processing mechanism was described above as one which issues in the testifiee believing that which the testifier says. The truth of the testifiee’s belief will therefore depend upon whether or not the testifier is speaking truly, and so this should be called the ‘*guṇa*’ here. However, we do not always believe what we hear, especially if we have reasons to suppose that the speaker is not likely to be speaking the truth. It is possible, then, that the output of the language processing mechanism is not simply belief in *what* was said, but rather belief simply *that* it has been said. There are, roughly, two sorts of case when this can happen: (1) if the testifiee judges that the testifier is deceitful or unreliable or simply uninformed about the topic, and (2) if the testifiee knows on independent grounds that what the testifier is saying is false (which is consistent with the testifier believing it and testifying sincerely), perhaps on *a priori* grounds concerning the plausibility of the assertion. With a little interpretative licence, we might think that these two conditions correspond to the two conditions imposed by *The Manual of Reason* on testimony: that the testifier must be an ‘authority’ (*āpta*), and that the sentence must be ‘semantically fit’ (*yogya*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我提出如下解决方案。上文把语言处理机制描述为：它使受言者相信言说者所说之事。因此，受言者信念之真将取决于言说者是否说真话，这才是这里应称的 *guṇa*。然而，我们并不总是相信自己听到的东西，尤其当我们有理由认为说话者不大可能说真话时。于是，语言处理机制的输出可能不是对所说之事的信念，而只是对“它被说出过”这一点的信念。这大致有两种情形：(1) 受言者判断言说者欺骗、不可靠，或对该话题根本无知；(2) 受言者凭独立根据知道言说者所说为假（这与言说者本人相信并真诚作证相容），也许是基于关于该断言可信性的先验根据。稍作解释上的通融，我们可以认为，这两种条件正对应《理性手册》对证言所设的两个条件：说话者必须是“可信者”（*āpta*），句子必须“语义适切”（*yogya*）。
+    step2: |-
+      我的解决办法如下。上文把语言处理机制说成：它使受言者相信言说者所说的事。那么，受言者信念的真假，就取决于言说者是否说了真话——这才该叫这里的 *guṇa*。不过，我们并不总是听到什么就信什么，尤其是在有理由觉得说话者未必说真话的时候。这样一来，语言处理机制的输出，可能不是“相信所说的内容”，而只是“相信它被说过”。大致有两种情形：(1) 受言者判断言说者在骗人、不可靠，或者对这话题根本不懂；(2) 受言者凭独立根据知道言说者所说为假（这不妨碍言说者本人相信它并真诚作证），这根据也许是对该断言可信与否的先验判断。稍微放宽一点解释，我们可以说，这两种情形恰好对应《理性手册》为证言设的两个条件：说话者须是“可信者”（*āpta*），句子须“语义适切”（*yogya*）。
   - id: 240
     kind: body
     source: |-
