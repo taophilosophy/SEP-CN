@@ -1543,74 +1543,98 @@ segments:
     kind: note
     source: |-
       [^note-37]: Book 1, Proposition 4, Corollary 7, which was added in the second edition.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-37]: 第一卷第 4 命题推论 7，第二版中加入。
+    step2: |-
+      [^note-37]: 第一卷第 4 命题推论 7，第二版中加入。
   - id: 186
     kind: note
     source: |-
       [^note-38]: Johann Bernoulli, “Nouvelles Pensées sur le Systeme de M. Descartes, Et la maniere d'en déduire les Orbites & les Aphélies des Planètes,” in *Opera omnia*, Lausanne and Geneva, 1742, vol. III, pp. 133-173, p. 144. The translation is from René Dugas, *Mechanics in the Seventeenth Century*, tr. Freda Jacquot, Éditions du Griffon, 1958, p. 571.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-38]: 约翰·伯努利，“Nouvelles Pensées sur le Systeme de M. Descartes, Et la maniere d'en déduire les Orbites & les Aphélies des Planètes,” 载 *Opera omnia*, Lausanne and Geneva, 1742, vol. III, pp. 133-173, p. 144。英译出自 René Dugas, *Mechanics in the Seventeenth Century*, tr. Freda Jacquot, Éditions du Griffon, 1958, p. 571。
+    step2: |-
+      [^note-38]: 约翰·伯努利，“Nouvelles Pensées sur le Systeme de M. Descartes, Et la maniere d'en déduire les Orbites & les Aphélies des Planètes,” 载 *Opera omnia*, Lausanne and Geneva, 1742, vol. III, pp. 133-173, p. 144。译文出自 René Dugas, *Mechanics in the Seventeenth Century*, tr. Freda Jacquot, Éditions du Griffon, 1958, p. 571。
   - id: 187
     kind: note
     source: |-
       [^note-39]: In the first edition this General Scholium follows Section 7.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-39]: 第一版中，这篇总释排在第七节之后。
+    step2: |-
+      [^note-39]: 在第一版中，这篇总释位于第七节之后。
   - id: 188
     kind: note
     source: |-
       [^note-40]: The methodological complications raised by Newton's approach to resistance forces in the second edition are discussed at length in Smith, 2005.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-40]: 牛顿第二版处理阻力方式所引起的方法论复杂问题，在 Smith, 2005 中得到了详细讨论。
+    step2: |-
+      [^note-40]: 牛顿第二版处理阻力方式所引起的方法论复杂问题，在 Smith, 2005 中有详细讨论。
   - id: 189
     kind: note
     source: |-
       [^note-41]: In classic use the term “hypothesis” marked propositions from which deductions were to be made. During the seventeenth century it came also to mark conjectured theoretical claims. The first edition of Book 3 begins with a list of nine hypotheses that were clearly intended to be propositions from which the deductions of the Book were to be made, and not theoretical conjectures. The shift to “Rules” and “Phenomena” in the second edition clarified the logical structure of the derivation of the law of universal gravity and removed any thought that this derivation gave the law an only hypothetical status. Newton did not entirely abandon the label “hypothesis” in the second and third editions. Section 9 of Book 2, as noted earlier, opens with a Hypothesis, and Proposition 11, asserting that the center of gravity of our planetary system is at rest, is immediately preceded by the Hypothesis, “The center of the system of the world is at rest.”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-41]: 在古典用法中，“假设”一词标示将要据以作出演绎的命题。17 世纪，它也开始标示猜测性的理论主张。第三卷第一版以一份九条假设的清单开头，这些假设显然意在作为据以作出该卷演绎的命题，而不是理论猜测。第二版转向“法则”与“现象”，澄清了万有引力定律推导的逻辑结构，并消除了这样一种想法：这一推导只赋予该定律假设性的地位。牛顿在第二版与第三版中并未完全放弃“假设”这一标签。如前所述，第二卷第九节以一条假设开头；而断定我们行星系统重心处于静止的命题 11，其前面紧接的假设是：“世界系统的中心处于静止。” 
+    step2: |-
+      [^note-41]: 在经典用法中，“假设”一词标示将要据以作出演绎的命题。17 世纪，它也开始标示猜测性的理论主张。第三卷第一版以一个九条假设的清单开头，这些假设显然意在作为据以作出该卷演绎的命题，而不是理论猜测。第二版转向“法则”与“现象”，澄清了万有引力定律推导的逻辑结构，并消除了这样一种想法：这一推导只赋予该定律假设性的地位。牛顿在第二版与第三版中并未完全放弃“假设”这一标签。如前所述，第二卷第九节以一条假设开头；而断定我们行星系统重心处于静止的命题 11，其前面紧接的假设是：“世界系统的中心处于静止。” 
   - id: 190
     kind: note
     source: |-
       [^note-42]: For a step-by-step analysis of Newton's deduction of universal gravity, see William Harper, “Newton's Argument for Universal Gravitation” in Cohen and Smith 2002.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-42]: 关于牛顿万有引力演绎的逐步分析，参见 William Harper, “Newton's Argument for Universal Gravitation”, 载 Cohen and Smith 2002。
+    step2: |-
+      [^note-42]: 关于牛顿万有引力演绎的逐步分析，见 William Harper, “Newton's Argument for Universal Gravitation”, 载 Cohen and Smith 2002。
   - id: 191
     kind: note
     source: |-
       [^note-43]: See Pierre Duhem, *The Aim and Structure of Physical Theory*, Princeton University Press, 1991, pp. 190-195. Duhem makes the widely made mistake of saying that Newton deduced the inverse-square from the ellipse, but his point holds equally well for the premise Newton actually uses, that the orbits are stationary.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-43]: 见皮埃尔·迪昂《物理理论的目的与结构》，Princeton University Press, 1991, pp. 190-195。迪昂犯了一个广为流传的错误，说牛顿从椭圆推出平方反比，但他的论点对牛顿实际使用的前提——轨道驻定——同样成立。
+    step2: |-
+      [^note-43]: 见皮埃尔·迪昂《物理理论的目的与结构》，Princeton University Press, 1991, pp. 190-195。迪昂犯了一个流传很广的错误，说牛顿从椭圆推出平方反比，但他的论点对牛顿实际使用的前提——轨道驻定——同样成立。
   - id: 192
     kind: note
     source: |-
       [^note-44]: See for example, Clark Glymour, *Theory and Evidence*, Princeton University Press, 1980, pp. 203-226.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-44]: 例如参见克拉克·格利穆尔《理论与证据》，Princeton University Press, 1980, pp. 203-226。
+    step2: |-
+      [^note-44]: 例如见克拉克·格利穆尔《理论与证据》，Princeton University Press, 1980, pp. 203-226。
   - id: 193
     kind: note
     source: |-
       [^note-45]: The only anachronism in this way of stating the conclusions is the term ‘field’ itself; that Newton certainly had the concept, though not the word, is clear from his Definitions 6-8, [**P**, 406-08].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-45]: 这样陈述结论时唯一不合时代的地方是“场”这个术语本身；牛顿当然有这一概念、只是没有这个词，这一点从他的定义 6–8 可以清楚看出，[**P**, 406-08]。
+    step2: |-
+      [^note-45]: 这样陈述结论时唯一的时代错置是“场”这个术语本身；牛顿当然有这一概念、只是没有这个词，这一点从他的定义 6–8 可以清楚看出，[**P**, 406-08]。
   - id: 194
     kind: note
     source: |-
       [^note-46]: Duhem, *op*. *cit*., p. 195.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-46]: 迪昂，前引著作，第 195 页。
+    step2: |-
+      [^note-46]: 迪昂，前引书，第 195 页。
   - id: 195
     kind: note
     source: |-
       [^note-47]: The subjunctive is Newton's, but the emphasis is added.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-47]: 虚拟语气是牛顿的，强调则为笔者所加。
+    step2: |-
+      [^note-47]: 虚拟式是牛顿的，斜体强调则是笔者所加。
   - id: 196
     kind: note
     source: |-
       [^note-48]: From Newton's remark in the text for Proposition 8, a second requirement for taking the law to be exact is that there be some configuration that at least approximates the pertinent celestial bodies toward which the net centripetal forces of gravity are exactly inverse-square if these forces arise from forces directed toward each part of the body. The configuration cited is a sphere with spherically symmetric density. In the treatment of resistance forces in Section 7 of Book 2 Newton shows a similar preoccupation for identifying circumstances in which the net force is exact when composed from forces acting on the parts of the body.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-48]: 依据牛顿在命题 8 正文中的评述，要把该定律当作精确成立，还有第二项要求：必须存在某种至少近似于相关天体的构型，使得当引力指向物体每一部分时，这些力的合向心力恰好是平方反比的。所引的构型是密度球对称的球体。在第二卷第七节处理阻力时，牛顿也表现出类似的用心：辨认这样的情形，在其中当力由作用于物体各部分的力合成时，合力恰好成立。
+    step2: |-
+      [^note-48]: 从牛顿在命题 8 正文中的评述看，要把该定律当作精确成立，还有第二项要求：必须存在某种至少近似于相关天体的构型，使得当引力指向物体每一部分时，这些力的合向心力恰好是平方反比的。所引的构型是密度球对称的球体。在第二卷第七节处理阻力时，牛顿也表现出类似的用心：辨认这样的情形，在其中当力由作用于物体各部分的力合成时，合力恰好成立。
   - id: 197
     kind: note
     source: |-
