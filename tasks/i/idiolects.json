@@ -2,7 +2,7 @@
   "slug": "idiolects",
   "kind": "retranslate",
   "zh_doc": "i/idiolects.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "I-main-20261111",
       "at": "2026-11-11T07:42:41Z",
       "evidence": "三校体例：check_style 0；check_academic --strict 无硬错误；check_math 0/0；check_summary H1 0；check_quotes 0；check_images 悬空 0；check_prose 0；i_reconcile 五项全等"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T08:22:37Z",
+      "evidence": "冷置回读（隔 identity-indiscernible 全周期后重读）：全文 358 行与源文逐节核销，语义相符无漏译增译；实修 2 处（García-Ramírez 脚注标记后补空格；“大脑中对我们作为语言存在者之本性至为关键的那些方面”表述订正）；术语核销 个人方言/I-语言/E-语言/普遍语法/刺激贫乏/先在理论/当下理论/第一意义 全档一致；表格（epitaph/epithet 赋义）与图 1 卡尼扎三角形照源无误"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T08:28:24Z",
+      "evidence": "逐句回核高风险 5 处：①格赖斯推荐信与马拉克普罗普例外（第一意义/先在/当下理论四定义）；②Lewis 惯例六条件两版（R 版与 L 版）与编号对应；③Davidson 三主张拆解与 Lewis 两策回应链；④Chomsky 语言习得 S₀→S_M→S_L、UG、刺激贫乏；⑤Egan 引文与表征无对象之争。0 新错（仅上步 2 处文字订正）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T08:28:25Z",
+      "evidence": "终稿四检复跑：check_style 0 / check_academic --strict 无硬错误 / check_prose 0 / check_math 0-0 / check_summary H1 0 / check_images 悬空 0；i_reconcile 五项全等；账本守恒不变量保持"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T08:28:25Z",
+      "evidence": "终审签字：116 段全周期完成（cleared→draft→s1-s3→r1-r3）；图片资产与术语/人名登记同批入库；本批第 3 条 done"
     }
   ],
   "blockers": [],
