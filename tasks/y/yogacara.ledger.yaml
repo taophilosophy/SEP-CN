@@ -1,0 +1,795 @@
+version: 1
+slug: yogacara
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Alongside Madhyamaka, Yogācāra is one of the two major philosophical traditions of Mahāyāna Buddhism that originated in India. The philosophical and soteriological ideas set forth in the Yogācāra works had a great impact on the development of Buddhist thought not only in the Indian subcontinent but also in other parts of Asia, especially in China, Japan and Tibet. Besides its highly influential exposition of the stages of the Mahāyāna path to liberation, the tradition developed several emblematic philosophical doctrines, such as the mind-only (*cittamātra*) teaching, the theory of three natures (*trisvabhāva*), and the eightfold classification of consciousness, including the introduction of the so-called defiled mind (*kliṣṭamanas*) and the substratum or store consciousness (*ālayavijñāna*). Through the systematic elucidation and justification of these doctrines, the Yogācāra school made a significant contribution to the metaphysical, epistemological, and phenomenological study of consciousness.
+    step1: TBD
+    step2: TBD
+  - id: 2
+    kind: body
+    source: |-
+      Yogācāra is a spatio-temporally extensive and philosophically diverse tradition. According to the later Tibetan doxographical literature, Yogācāra developed into two main branches in India. One is directly connected with the works of the school’s founders or first systemisers, the (half-)brothers Asaṅga and Vasubandhu (c. 4ᵗʰ–5ᵗʰ century CE), and their followers, most notably Sthiramati and Dharmapāla (both dated to the c. 6ᵗʰ century CE). The other branch is the logico-epistemological or *pramāṇavāda* (“doctrine of valid knowledge”) tradition associated with the works of Dignāga (c. late 5ᵗʰ to early 6ᵗʰ century CE) and Dharmakīrti (c. mid-6ᵗʰ to mid-7ᵗʰ century CE) and their successors.[^note-1] While this distinction was not self-consciously adopted by these figures themselves, it reflects some important differences between their doctrinal and methodological commitments. Asaṅga and Vasubandhu’s tradition aimed at laying down and fortifying the theoretical foundations of Yogācāra by providing a sustained explanation and defence of the school’s key ideas introduced in the Yogācāra *sūtra* literature. By contrast, Dignāga and Dharmakīrti focused more on topics in logic and epistemology that allowed them to engage in meaningful (and formally valid) debates with their non-Buddhist contemporaries. Accordingly, they were less concerned with spelling out the meaning of Yogācāra *sūtra*s or discussing their characteristic concepts such as the *ālayavijñāna*. This entry will focus primarily on the Indian Yogācāra tradition as explicated in the works of Asaṅga and Vasubandhu and their commentators. It will, nonetheless, incorporate those arguments of the logico-epistemological tradition that complement Asaṅga and Vasubandhu’s attempts to develop the unique doctrinal and conceptual framework of Yogācāra.
+    step1: TBD
+    step2: TBD
+  - id: 3
+    kind: body
+    source: |-
+      ## 1. The historical and textual background of Yogācāra
+    step1: TBD
+    step2: TBD
+  - id: 4
+    kind: body
+    source: |-
+      ### 1.1 The names of the tradition
+    step1: TBD
+    step2: TBD
+  - id: 5
+    kind: body
+    source: |-
+      The tradition is most commonly referred to as Yogācāra, with its followers called Yogācāras.[^note-2] Various explanations were proposed as to why the school has been given this particular name. One possibility is that it refers to the foundational treatise (*śāstra*) of the tradition, the *Yogācārabhūmi* (“The Stages of Yogācāra”). This naming practice would be analogous to that of, for instance, the Abhidharmic Vaibhāṣika school, which takes its name from the tradition’s seminal work, the *Abhidharmamahāvibhāṣā* (“The Great Exegesis of Abhidharma”). Accordingly, the Yogācāras are those who study and follow the *Yogācārabhūmi*.[^note-3]
+    step1: TBD
+    step2: TBD
+  - id: 6
+    kind: body
+    source: |-
+      While this might explain the direct origin of the school’s name, it does not shed light on the meaning of the term *yogācāra* itself. The compound *yogācāra* consists of the words *yoga* and *ācāra*. The latter means practice. The meaning of *yoga*, however, is less straightforward. It can be understood more broadly as discipline, but in this context it presumably refers to meditation or some sort of mental cultivation. Indeed, scholars often assume that the term *yogācāra* was originally applied to a community of accomplished meditation practitioners in the Śrāvakayāna (i.e., mainstream Buddhist) tradition (Deleanu 2006: 158)[^deleanu-2006]. Accordingly, the name Yogācāra was arguably meant to indicate that the tradition placed particular emphasis on transforming the mind and gaining insight into the nature of reality through sustained meditative practice.
+    step1: TBD
+    step2: TBD
+  - id: 7
+    kind: body
+    source: |-
+      The Yogācāra school is also known by various other names, including *vijñānavāda* (“doctrine of consciousness”), *cittamātra* (“mind only”), and *vijñaptimātra* (“cognition only”). The term *vijñānavāda* (“doctrine of consciousness”) highlights that the Yogācāras were keenly interested in studying the nature of consciousness and its transformation on the path to liberation. The names *cittamātra* (“mind only”) and *vijñaptimātra* (“cognition only”) more overtly express the school’s signature doctrine that there is “only” or “nothing but” (*mātra*) “mind” (*citta*) or “cognition” (*vijñapti*). Accordingly, the tradition attributes some kind of (epistemological or ontological) priority to the mind, implying, most importantly, that the sensible world depends for its nature and existence on being cognised by a mind. In Western philosophy, this position is commonly labelled as “idealism”, an umbrella term that encompasses a wide variety of senses in which the mind, with its various mental operations, can have priority over the objects it cognises.
+    step1: TBD
+    step2: TBD
+  - id: 8
+    kind: body
+    source: |-
+      ### 1.2 The main textual sources and figures of Yogācāra philosophy
+    step1: TBD
+    step2: TBD
+  - id: 9
+    kind: body
+    source: |-
+      One of the earliest and, arguably, most influential collections of Mahāyāna scriptures, the *Prajñāpāramitā* (“Perfection of Wisdom”) literature—and its characteristic conception of the emptiness (*śūnyatā*) or insubstantiality (*nairātmya*) of all phenomena (*dharma*)—gained great importance in both the Madhyamaka and Yogācāra traditions. Certain *sūtra*s, however, rose to prominence in the Yogācāra school specifically, such as the *Saṃdhinirmocana Sūtra* (“Discourse Unravelling the Intent [of the Buddha]”) or the *Laṅkāvatāra Sūtra* (“Discourse on the Descent into Laṅka”). These *sūtra*s, together with the *Yogācārabhūmi* treatise mentioned earlier, are the foundational sources for studying the origins and early development of key Yogācāra doctrines.
+    step1: TBD
+    step2: TBD
+  - id: 10
+    kind: body
+    source: |-
+      Dating these texts is notoriously difficult. The *Saṃdhinirmocana Sūtra* is the earliest characteristically Yogācāra *sūtra*, which in its present form could not have existed earlier than the end of the third century CE (Powers 1993: 5)[^powers-1993]. With its elucidation of key Yogācāra doctrines (especially in chapters 5 to 7), the text served as one of the main sources for the philosophical elaborations of Asaṅga and Vasubandhu. The *Saṃdhinirmocana Sūtra* is particularly known for its self-description as the “third turning of the wheel of the doctrine”, by which it means that the Yogācāra tenets represent the culmination and definitive interpretation of the Buddha’s teachings, in contrast to the earlier “inadequate” expositions offered by the Abhidharma and Madhyamaka schools. While, within a tradition, the composition of *śāstra*s tends to follow that of the *sūtra*s, scholars assume that parts of the *Saṃdhinirmocana Sūtra* postdate certain sections of the voluminous *Yogācārabhūmi*(*śāstra*) (Schmithausen 1987: 12–13; Williams 2009: 85)[^schmithausen-1987][^williams-2009].
+    step1: TBD
+    step2: TBD
+  - id: 11
+    kind: body
+    source: |-
+      The *Yogācārabhūmi* is traditionally ascribed to Asaṅga (or, according to the Chinese tradition, to Asaṅga’s teacher, Maitreya), but most scholars today agree that it is a compilation consisting of several heterogeneous layers and was composed over an extended period of time (Schmithausen 1987: 13; Kramer 2005: 3–4; Deleanu 2006: 154–156; Delhey 2013: 502)[^deleanu-2006][^delhey-2013][^kramer-2005][^schmithausen-1987]. The two most renowned sections of the *Yogācārabhūmi* are the *Śrāvakabhūmi* and the *Bodhisattvabhūmi*. The former deals with practices associated with the *śrāvaka* practitioners of mainstream Buddhism, while the latter elucidates the *bodhisattva* path to Buddhahood and some of the central doctrines of Yogācāra. It is important to note, however, that the *Yogācārabhūmi* corpus lacks certain characteristic teachings of the more mature Yogācāra tradition, most importantly the *cittamātra* or *vijñaptimātra* doctrine and its idealist connotations (Schmithausen 2005: 244).
+    step1: TBD
+    step2: TBD
+  - id: 12
+    kind: body
+    source: |-
+      The dating of the *Laṅkāvatāra Sūtra* is also rather uncertain. According to Schmithausen (1987: 263–264, n. 102, and 1992), the text is unlikely to be one of the earliest sources of Yogācāra, as it seems to rely on already developed concepts and presupposes the existence of Vasubandhu’s *Triṃśikā* and *Viṃśikā*. Moreover, the *sūtra* is not quoted by either Asaṅga or Vasubandhu, thus it presumably postdates their philosophical developments. Lindtner (1992), however, argues that an early recension of the *Laṅkāvatāra Sūtra* was known to and influenced the works of the Madhyamaka thinkers Nāgārjuna (c. 150–250 CE) and his disciple Āryadeva. In any case, the *sūtra* became a formative text of the Yogācāra tradition with its exposition of the *ālayavijñāna* and the mind-only teaching. It is also noteworthy that it discusses the concept of buddha-nature or buddha-essence (*tathāgatagarbha*)—the highly influential doctrine that all sentient beings contain the essence of a buddha or have the inherent potential to become one—and identifies it with the *ālayavijñāna*.
+    step1: TBD
+    step2: TBD
+  - id: 13
+    kind: body
+    source: |-
+      Building on and systemising these early materials, it is Asaṅga and Vasubandhu who should be credited with the development of Yogācāra as a distinctive philosophical school. The tradition ascribes a significant number of works to each of them, but their authenticity is still subject to scholarly debate. The two most important works attributed by scholars to Asaṅga are the *Abhidharmasamuccaya* (“Compendium of Abhidharma”) and the *Mahāyānasaṃgraha* (“Summary of the Great Vehicle”). The former provides a comprehensive explanation of various categories of *dharma*s (i.e., mental and physical phenomena considered to be the ultimate building blocks of reality in the Abhidharma system) from a Yogācāra and Mahāyāna viewpoint; the latter is an influential treatise on general aspects of Yogācāra theory and practice.
+    step1: TBD
+    step2: TBD
+  - id: 14
+    kind: body
+    source: |-
+      As we have seen in the case of the *Yogācārabhūmi*, there are some Yogācāra works that are traditionally attributed either to Asaṅga or to Maitreya, Asaṅga’s teacher. The identity of Maitreya is ambiguous. While traditional sources identify him with the future Buddha whose treatises were transmitted by Asaṅga, modern scholarship considers Maitreya—or, according to the colophon of certain works, Maitreyanātha—to be a historical figure (Frauwallner 1956: 297)[^frauwallner-1956]. According to tradition, Maitreya composed an important set of Yogācāra texts known as the “Five Treatises of Maitreya”. These are
+    step1: TBD
+    step2: TBD
+  - id: 15
+    kind: body
+    source: |-
+      - the *Abhisamayālaṃkāra* (“The Ornament of Clear Realisation”),
+      - the *Madhyāntavibhāga* (“The Discrimination of the Middle from the Extremes”),
+      - the *Dharmadharmatāvibhāga* (“The Discrimination of *Dharma*s from their True Nature”),
+      - the *Mahāyānasūtrālaṃkāra* (“The Ornament of the Mahāyāna *Sūtra*s”) and
+      - the *Ratnagotravibhāga* (“Analysis of the Lineage of the [Three] Jewels”) also known as *Uttaratantra* (“Sublime Continuation”).
+    step1: TBD
+    step2: TBD
+  - id: 16
+    kind: body
+    source: |-
+      Most of these texts provide a comprehensive outline of the Mahāyāna path to enlightenment while introducing practitioners to the foundational doctrines of Yogācāra. There are also a few distinctive themes appearing in some of these works that are worth mentioning. The *Madhyāntavibhāga*, for instance, as the title suggests, depicts Yogācāra as a middle way between the extreme of permanence, referring to the mind-independent existence of objects endorsed by the Ābhidharmikas, and the extreme of annihilation, understood as the Madhyamaka view of universal emptiness. The *Abhisamayālaṃkāra* is a versified synopsis of the teachings of the *Prajñāpāramitā Sūtra*s. The *Ratnagotravibhāga*, in turn, is an important overview of the *tathāgatagarbha* doctrine.[^note-4]
+    step1: TBD
+    step2: TBD
+  - id: 17
+    kind: body
+    source: |-
+      As for Vasubandhu’s corpus, the numerous works traditionally attributed to him display an even greater doctrinal diversity. His, arguably, most famous work, the *Abhidharmakośa* (“Treasury of Abhidharma”) with its *bhāṣya* (“commentary”), for instance, is not a Yogācāra treatise, but an Abhidharma manual discussing a variety of issues and debates in Abhidharma thought.[^note-5] Turning to Vasubandhu’s Yogācāra works, one of his most widely studied treatises in Western scholarship is the *Viṃśikā* (“Twenty Verses”), which is an argumentative philosophical text defending the mind-only doctrine against various realist objections. It is accompanied by a commentary (*vṛtti*) also traditionally attributed to Vasubandhu. Vasubandhu’s other important Yogācāra treatise, the *Triṃśikā* (“Thirty Verses”), contains fewer arguments. Its primary purpose is to provide a synopsis of the school’s foundational doctrines and their soteriological significance. Despite its Yogācāra content, the work has a palpable Abhidharmic character in its way of exposition. A similar observation can be made of Vasubandhu’s *Karmasiddhiprakaraṇa* (“A Discussion of the Demonstration of Action”), which focuses on topics such as action and karmic continuity, as well as of the *Pañcaskandhaka* (“Explanation of the Five Aggregates”), which presents a concise analysis of the five *skandha*s, i.e., the aggregates constituting sentient beings. While these two works contain some of the characteristic doctrines of Yogācāra, such as the notion of the store or substratum consciousness or the defiled mind, they are reminiscent of the *Abhidharmakośa*(*bhāṣya*) in terms of their scholastic character and the philosophical positions discussed. Another significant text worthy of mention is the *Trisvabhāvanirdeśa* (“Teaching on the Three Natures”). Although the authorship of the work is a matter of contention (see in particular Kapstein 2018)[^kapstein-2018], it is an invaluable source for studying the development of the Yogācāra theory of three natures.[^note-6]
+    step1: TBD
+    step2: TBD
+  - id: 18
+    kind: body
+    source: |-
+      The works of Asaṅga, Maitreya and Vasubandhu are accompanied and elaborated upon by a rich commentarial tradition. One of the most prolific commentators of the Yogācāra tradition is Sthiramati, who not only provided extensive explanations of the treatises of the school’s founders, but also made important original contributions to the development of Yogācāra thought. The Yogācāra commentaries and compilations attributed to Sthiramati by their colophons are the *Pañcaskandhakavibhāṣā*, the *Triṃśikāvijñaptibhāṣya*, the *Abhidharmasamuccayavyākhyā*, the *Madhyāntavibhāgaṭīkā* and the **Sūtrālaṃkāravṛttibhāṣya*.[^note-7] As for the Chinese reception of the Yogācāra doctrines, it is important to mention Dharmapāla, whose lineage was brought to China by the well-known Chinese monk and pilgrim Xuanzang after his studies in India. In his *Cheng weishi lun*—a summary of ten commentaries on Vasubandhu’s *Triṃśikā*—Xuanzang took Dharmapāla’s commentary on the *Triṃśikā* as the correct interpretation of Vasubandhu’s text. A similarly important figure in the Chinese context is Paramārtha (c. 6ᵗʰ century CE), a translator (into Chinese) and exegete of several Yogācāra works. Paramārtha’s name is closely associated with the doctrine of taintless consciousness (**amalavijñāna*), according to which, upon liberation and the cessation of ordinary forms of consciousness, a pure ninth form of consciousness arises. The doctrine is often seen as an attempt to synthesise Yogācāra and *tathāgatagarbha* thought.[^note-8]
+    step1: TBD
+    step2: TBD
+  - id: 19
+    kind: body
+    source: |-
+      The authors and works discussed so far belong to the branch of Yogācāra that draws more directly on the teachings and methods of Asaṅga and Vasubandhu. The other branch, often regarded as a later stage in the development of Yogācāra, is the logico-epistemological (*pramāṇavāda*) tradition, associated with the works of Dignāga and Dharmakīrti. Their doctrinal standpoint cannot be easily classified as Yogācāra since they put forward arguments in favour of both Yogācāra and Sautrāntika positions (hence, they are sometimes called Yogācāra-Sautrāntikas). The Yogācāra stance, moreover, is less prevalent or conspicuous in their works, insofar as they either formulate their epistemological and metaphysical views in a way that is compatible with both realists and idealists, or even (at least provisionally) assume the mind-independent existence of the objects of perception (Siderits 2007: 208–209; Carpenter 2014: 170; Kellner 2017: 311–312)[^carpenter-2014][^kellner-2017][^siderits-2007]. This does not necessarily mean, however, that Dignāga and Dharmakīrti eschewed in their final positions the sort of idealism often espoused by other Yogācāra texts (see the entry on Dharmakīrti). According to scholars, such as Dunne (2004: 53–79), Dharmakīrti, for instance, expresses his philosophical views at various levels of accuracy—an approach termed “sliding scales of analysis”—the highest of which is represented by Yogācāra idealism.
+    step1: TBD
+    step2: TBD
+  - id: 20
+    kind: body
+    source: |-
+      Dignāga’s *magnum opus* is the *Pramāṇasamuccaya*(*vṛtti*) (“Compendium on the Means of Valid Cognition with Commentary”), which sets out his views on logic and epistemology. One of Dignāga’s most important contributions to Buddhist philosophy is held to be his analysis of inferential validity, by virtue of which he is often regarded as the formaliser of Buddhist logic. Dignāga’s arguments in favour of the Yogācāra idealist position are found in his *Ālambanaparīkṣā* (“Investigation of the Percept”), a concise work of eight verses and a brief auto-commentary. The treatise aims to prove that the object of cognition cannot be an external entity. Rather, what we perceive (and what causes our perceptions) is only the form or appearance of an object within cognition itself.
+    step1: TBD
+    step2: TBD
+  - id: 21
+    kind: body
+    source: |-
+      Dharmakīrti, Dignāga’s successor, is regarded as the author of seven treatises, many of which are inspired by Dignāga’s ideas. His most famous works are the *Pramāṇavārttika* (“Commentary on the Means of Valid Cognition”) and the *Pramāṇaviniścaya* (“Ascertainment of the Means of Valid Cognition”). The former is a vast but unfinished text commenting and expanding on Dignāga’s *Pramāṇasamuccaya*. The latter deals with analogous topics in logic and epistemology to those discussed in the *Pramāṇavārttika*, but in a more concise and organised way. Both works present arguments in favour of Yogācāra idealism. With regard to Dharmakīrti’s contributions to other cardinal Yogācāra issues, it is important to mention his treatise against solipsism, the *Saṃtānāntarasiddhi* (“Proof of Other Mental Continua”).[^note-9]
+    step1: TBD
+    step2: TBD
+  - id: 22
+    kind: body
+    source: |-
+      Dignāga and Dharmakīrti’s thesis that cognition involves a representational form or image (*ākāra*) of an object (Kellner 2017: 312–313)[^kellner-2017] was particularly influential and controversial among later proponents of the Yogācāra doctrines. This view was adopted, for instance, by the Yogācāra philosopher Jñānaśrīmitra (c. 11ᵗʰ century CE) in his *Sākārasiddhiśāstra* (“Proof of the Form-Possession View”) and *Sākārasaṃgrahasūtra* (“A Summary of the Form-Possession View”). Jñānaśrīmitra’s “with-form” (*sākāra*) thesis was formulated in response to Ratnākaraśānti’s (c. late 10ᵗʰ to early 11ᵗʰ century CE) “without-form” (*nirākāra*) interpretation of Yogācāra. While both agreed that, in the light of the *cittamātra* doctrine, there are no real, mind-independent objects, they disagreed about the ultimate reality of the forms or images that appear within cognition itself. Ratnākaraśānti assumed that these forms or images are ultimately unreal, whereas Jñānaśrīmitra claimed that they actually exist (McCrea 2019)[^mccrea-2019]. It is also important to mention Jñānaśrīmitra’s disciple, Ratnakīrti (c. 11ᵗʰ century CE), amongst the proponents of Dignāga and Dharmakīrti’s tradition. In contrast to Dharmakīrti’s efforts to dispel the charge of solipsism levelled against the Yogācāra view, Ratnakīrti rejects the ultimate existence of other minds in his famous *Santānāntaradūṣaṇa*.
+    step1: TBD
+    step2: TBD
+  - id: 23
+    kind: body
+    source: |-
+      Attempts were made to harmonise the Yogācāra teachings with other branches of Buddhist thought not only in relation to the *tathāgatagarbha* and Sautrāntika doctrines but also Madhyamaka. Śāntarakṣita and his disciple Kamalaśīla (both dated to the c. 8ᵗʰ century CE) are often referred to as the “great synthesisers” of Madhyamaka and Yogācāra. In contrast to earlier Mādhyamikas who were ardent critics of the Yogācāra doctrines, Śāntarakṣita’s *Madhyamakālaṃkāra* (“Ornament of the Middle Way”) and Kamalaśīla’s *Madhyamakāloka* (“Illumination of the Middle Way”) consider Yogācāra to be a provisional teaching, effective in overcoming certain misconceptions about reality and preparing practitioners for the realisation of the “more profound” Madhyamaka doctrine of universal emptiness. The position adopted by Śāntarakṣita and Kamalaśīla is described by Tibetan doxographers as “Yogācāra-Svātantrika-Madhyamaka” (Svātantrika-Madhyamaka being one of the two main sub-schools of Madhyamaka, along with Prāsaṅgika-Madhyamaka).[^note-10]
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      ## 2. Yogācāra philosophical psychology: A new model of the mind
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      As its alternative names show, the Yogācāra tradition was particularly interested in understanding the nature, structure and various functions of consciousness. Indeed, one of the school’s most prominent philosophical innovations consists in the development of a new model of the mind. Traditional Abhidharma psychology posits six types of consciousness: one for each external sense modality, i.e., the visual, auditory, olfactory, gustatory and tactile consciousness, and one for mentation (*manas*), i.e., the mental consciousness (*manovijñāna*). Buddhists attribute diverse functions to the *manas*. For instance, it apprehends a range of mental objects (e.g., memories, imaginations), but it also has access to the sensory data supplied by the external sense faculties, synthesising them into unified (mental) objects and making various judgements about them.[^note-11] In contrast to this traditional model, classical Yogācāra distinguishes eight types of consciousness or cognition.[^note-12] In addition to the six forms of ordinary consciousness mentioned above, they posited a seventh type, commonly referred to as defiled or afflicted mind (*kliṣṭamanas*), and an eighth form of consciousness, called store or substratum consciousness (*ālayavijñāna*).
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      The six forms of consciousness associated with the five sense organs and the *manas* are often called “manifesting”, “arising” or “occurrent” consciousnesses (*pravṛttivijñāna*). On the one hand, the term indicates the contrast between the six (ordinary) forms of *vijñāna*, which become manifest in our cognitive acts and operate in a supraliminal way, and the *kliṣṭamanas* and the *ālayavijñāna*, which operate in an unmanifest, subliminal way. On the other hand, it also shows that while the *ālayavijñāna* functions uninterruptedly throughout one’s existence, the *pravṛttivijñāna*s arise discontinuously (for instance, they do not operate in deep sleep or deep meditation or when their appropriate objects are not present). From this perspective, it is not surprising that certain works (such as the *Madhyāntavibhāgaṭīkā* or the *Trisvabhāvanirdeśa*) speak of not six but seven *pravṛttivijñāna*s, including the *kliṣṭamanas* as well as the six ordinary forms of consciousness (Delhey 2016: 18–20)[^delhey-2016]. This classification underlines that these seven forms of *vijñāna* have the *ālayavijñāna*, or more precisely the karmic seeds (*bīja*) contained in the *ālayavijñāna*, as their source, and that they arise only when their seeds are ready to ripen. The six forms of consciousness are also sometimes referred to as the “perception of objects” (e.g., *Triṃśikā* verse 2) since each of them emerges in conjunction with its respective object (visible form, sound, etc.) or, in a more idealist-friendly terminology, has the appearance of a well-defined object.
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      It might be helpful to add at this point that the concept of *vijñāna* is generally defined in Buddhist philosophical sources as a cognition of an object. Accordingly, many Yogācāra texts claim that the *kliṣṭamanas* and the *ālayavijñāna*, in addition to the six sensory consciousnesses, are also object-directed or intentional mental states. Otherwise, they could not be regarded as genuine forms of cognition. In line with their subliminal functioning, their objects (as opposed to the objects of ordinary perceptions) are vague or difficult to determine. The *kliṣṭamanas* is directed at the *ālayavijñāna* as its object, while the objects of the *ālayavijñāna* are often held to be the surrounding world (*bhājana*/*bhājanaloka*) and one’s own body (*āśraya* i.e., “basis”).[^note-13]
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      ### 2.1 The defiled mind
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      The defiled mind, one of the new forms of *vijñāna* introduced by the Yogācāra tradition, is responsible for our mistaken belief in the self and our sense of personal identity. In some Yogācāra texts, this layer of the mind is simply referred to as *manas*, but insofar as it is always characterised by the presence of four kinds of defilement (*ātmadṛṣṭi*, i.e., false view of the self; *ātmamoha*, i.e., delusion about the self; *ātmamāna*, i.e., self-conceit; and *ātmasneha*, i.e., self-love), it is often described as “defiled” or “afflicted” (*kliṣṭa*).[^note-14] The origin of the concept is difficult to determine. According to one hypothesis, it goes back to early textual passages (e.g., in the *Viniścayasaṃgrahaṇī* section of the *Yogācārabhūmi*) that conceive of the subliminally operating *ālayavijñāna* as the object of our subtle and innate self-related thoughts. This subliminal process, arguably, called for the introduction of a separate form of consciousness, the *kliṣṭamanas*, which clings to the *ālayavijñāna* and, in a similarly subliminal way, conceptualises it as an ultimately real self (Schmithausen 1987: 151–153)[^schmithausen-1987].[^note-15] The reification of our notion of “I” into a distinct stratum of consciousness (instead of associating it with other forms of consciousness, including the *ālayavijñāna* itself) was probably further inspired by the notion of *ahaṃkāra* (egoism or literally “I-making”) found in the classical Indian Sāṃkhya philosophical tradition (Schmithausen 1987: 29, 151)[^schmithausen-1987].
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      Another incentive for introducing the concept might have been the peculiar nature of the traditional *manas* (i.e., the sixth sense faculty). In the Vaibhāṣika Abhidharma tradition, an important difference between the five sense consciousnesses and the mental consciousness is that each of the former has a simultaneously present sense faculty as its “support” or “basis” (*āśraya*).[^note-16] Visual consciousness, for instance, comes into existence from a simultaneously present eye faculty (and, of course, a visual object). Such a simultaneous basis, however, is missing in the case of the *manovijñāna*. The term *manas* was commonly held to be a mere shorthand for the earlier moment of consciousness that instigated or conditioned the present one. Mental consciousness was, therefore, considered to be a (special) form of consciousness that has only a “past basis”, the *manas*, but not a simultaneously present one.[^note-17] While some Yogācāras were apparently unfazed by the lack of a simultaneous basis for the *manovijñāna*, certain authors and texts (e.g., the *Mahāyānasaṃgraha* or the *Pravṛtti Portion* of the *Yogācārabhūmi*) regarded the *kliṣṭamanas* as the simultaneous, faculty-like basis of mental consciousness (Waldron 2003: 122–123; Kramer 2016b: 160–161)[^kramer-2016b][^waldron-2003].[^note-18]
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      The afflictive functioning of the defiled mind not only instigates a mistaken sense of “I”, but also fundamentally determines the way we conceive and even perceive the world. As the simultaneous support of our conceptualising mental activities, the egoistic tendencies of the *kliṣṭamanas* permeate the manifesting consciousnesses (*pravṛttivijñāna*), as a result of which we habitually misconceive our experiences in terms of selves interacting with independent objects. Since the defiled mind is the proximate cause of our mistaken attitudes towards the self (and separate objects it might appropriate), it is often depicted as the fundamental cause of our entanglement in the cycle of existence (*saṃsāra*). Certain texts, such as Vasubandhu’s *Triṃśikā*, emphasise that the *kliṣṭamanas* operates continuously, ceasing only in exceptional states such as (1) liberation, (2) the supramundane path (*lokottaramārga*), which refers to more advanced practitioners, and (3) a very deep meditative state called “absorption into cessation” (*nirodhasamāpatti*), where all mental activities cease except for the *ālayavijñāna*.
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      ### 2.2 The store or substratum consciousness and its functions
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      The term *ālayavijñāna* is commonly translated as store or substratum consciousness.[^note-19] One of its roles, which warrants the translation “store” (or sometimes “storehouse”) consciousness, is related to the Buddhist notion of karma, i.e., that one’s ethically relevant intentional actions produce results in the future that correspond to the moral nature of the actions. Scholars generally maintain that the concept of *ālayavijñāna* largely developed from Yogācāra attempts to solve common Buddhist and Abhidharmic problems posed by the doctrine of no-self (*anātman*) and the impermanent or momentary existence of all conditioned phenomena (*dharma*). If a person does not have an enduring self underlying their experiences, but is merely a bundle of psychophysical elements that come and go in every single moment, then how can we explain, for instance, personal identity or karmic efficacy and responsibility? Relying on the theory of *ālayavijñāna*, the Yogācāra answer holds that actions produce karmic seeds (*bīja*) or impressions (*vāsanā*), i.e., potentialities or dispositions for future experiences and perceptions, which are retained, as in a sort of “container” or “store”, in the *ālayavijñāna* until they are ready to produce their effects.[^note-20] These perceptions, as we have seen, appear in the bifurcation of subjects and objects due to the influence of the defiled mind. According to the Yogācāras, the continuous operation of the *ālayavijñāna* grounds karmic continuity and efficacy over both one and multiple lifetimes and ensures that karmic results belong to the same personal “continuum” that committed the action.
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      While it cannot be ruled out that the *ālayavijñāna* was originally introduced to cover multiple functions, certain scholars argue that its inception can be traced back more specifically to problems raised by deep meditative practice. Schmithausen (1987: 18) suggests that the passage representing the starting point for the *ālayavijñāna* theory is found in the *Samāhitā* *Bhūmi* section of the *Yogācārabhūmi*, which discusses the *ālayavijñāna* in relation to the meditative state of “absorption into cessation” (*nirodhasamāpatti*).[^note-21] The temporary cessation of all conscious mental activity in *nirodhasamāpatti* posed two interrelated challenges to the proponents of mainstream Buddhist schools. First, insofar as consciousness is regarded in the Buddhist tradition as (one of) the bearer(s) of life, how can the meditator survive the absence of any conscious activity? Secondly, where do ordinary forms of consciousness re-emerge from after *nirodhasamāpatti* if there is no immediately preceding moment of consciousness causing them? According to the *Samāhitā* *Bhūmi*, the subliminal *ālayavijñāna*, which abides or hides in the sense faculties during meditation, functions even when all other conscious states cease to operate.[^note-22] Due to the continuous operation of the *ālayavijñāna*, the meditator can survive the meditative state, and the manifesting consciousnesses (*pravṛttivijñāna*s) can be reactivated from the seeds contained in it.[^note-23] In a related biological role, the *ālayavijñāna* was also seen as the form of consciousness that takes possession of a new life at the time of conception, merging with (proto-)embryonic matter in the womb. Moreover, its uninterrupted presence keeps the body alive throughout one’s existence, only withdrawing from it (with the body becoming cold) at the time of death. Accordingly, the *ālayavijñāna* is the part of the being that undergoes rebirth and forms a link between this life and the next.[^note-24]
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      As we have seen, in some Yogācāra texts (especially in the *Yogācārabhūmi*) the *ālayavijñāna* is placed in a realist framework insofar as it supports and operates together with the physical body. The concept, however, gains even more importance in an idealist context by explaining how the causes of our perceptions can be understood in purely mental terms. It is no longer necessary to posit external objects as the causes of perceptions, since our cognitions of objects can arise directly from the seeds ripened in the *ālayavijñāna*. The ripening of these seeds accounts for the appearance of the sensible world not only as a private but also as an intersubjective experience. While critics of the Yogācāra tradition doubted that a purely mental reality can accommodate intersubjectivity, that is, our conviction that multiple individuals at the same place and time can agree on the content of their experiences, certain Yogācāra works emphasise that our similar experiences are produced by seeds common to all relevant *ālayavijñāna*s. These common seeds, in turn, are the result of previous shared actions and experiences stretching back through beginningless time. Thus the world we experience in an intersubjective manner is determined by a complex causal process involving many minds interacting in a variety of ways.[^note-25]
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      Since the *ālayavijñāna* performs some of the traditional roles attributed to the self (*ātman*) in the Indian tradition (e.g., ensures personal identity, karmic responsibility, undergoes rebirth), it is not surprising that the Yogācāras were often accused of resuscitating the idea of an unchanging, permanent self rejected by all Buddhist traditions. Even though the *ālayavijñāna* is mistakenly conceived by the defiled mind as a substantial self, the Yogācāras insisted that it is in fact nothing like the non-Buddhist concept of the *ātman*. Rather, in works such as the *Saṃdhinirmocana Sūtra*, the *ālayavijñāna* is often likened to a river. Just as a river flows in an unbroken stream while its body of water is constantly changing, so too the *ālayavijñāna* is understood as an uninterrupted series of transitory karmic seeds, traces or tendencies.[^note-26] Moreover, several Yogācāra works stress that the *ālayavijñāna* ceases upon the attainment of liberation, entailing that it is by no means an eternal substance, as the non-Buddhist *ātman* is standardly thought to be.[^note-27]
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      Some of the theoretical benefits of the *ālayavijñāna* discussed above overlap with the proofs given by Yogācāra authors for the existence of such a layer of consciousness. Perhaps the best known is the list of eight proofs found in the so-called *Proof Portion* of the *Yogācārabhūmi*.[^note-28] Some of these concern the *ālayavijñāna*’s relation to the physical body. For instance, they point out that without the existence of the *ālayavijñāna* we could not explain how rebirth and death occur. It is only this form of consciousness that can take possession of a new existence and physical body at the beginning of life, and consequently it must be the same entity that gradually abandons the body at the time of death. As seen above, we would also be unable to explain how the body is kept alive throughout one’s life, especially in apparently unconscious states such as *nirodhasamāpatti* (or deep sleep and fainting, as added by Vasubandhu’s *Pañcaskandhaka*), or how there can be bodily sensations in meditation (e.g., the feeling of ease, see Yamabe 2018)[^yamabe-2018] when ordinary tactile perception is not functioning.[^note-29]
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      Another proof, which is unrelated to the aforementioned bodily aspects, shows that there has to be an *ālayavijñāna* that conditions the emergence of our various ordinary forms of consciousness, since these cannot be one another’s “seeds” or conditioning factors. The justification relies on the observation that successive *pravṛttivijñāna*s sometimes have dissimilar or even incompatible qualities, for example, when a virtuous or wholesome moment of thought immediately follows a non-virtuous or unwholesome one. *Pravṛttivijñāna*s with such dissimilar qualities, however, cannot condition each other’s emergence, so there must be a morally neutral (*avyākṛta*) entity, namely the *ālayavijñāna*, which holds the seeds of virtuous, non-virtuous, and neutral *pravṛttivijñāna*s alike, and enables them to be actualised under the right circumstances (Griffiths 1986: 101; Schmithausen 1987: 132–133)[^griffiths-1986][^schmithausen-1987].
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      The remaining proofs concern the simultaneous presence of multiple consciousnesses. In order to adequately account for the apparently simultaneous presence of multiple sense cognitions and, relatedly, for the phenomenal synchronic unity of our consciousness (i.e., that our experiences of particular qualities and things at a given time are not disparate, but appear to us as if they were aspects of a unified conscious state), we must posit the existence of the *ālayavijñāna*, which allows for the seeds of multiple *pravṛttivijñāna*s to ripen simultaneously (Chadha 2015; Schmithausen 1987: 45–46)[^chadha-2015][^schmithausen-1987]. This view is in stark contrast to the Abhidharmic unisensory model of consciousness, according to which we cannot see or hear at the same time, but these cognitions merely follow each other in rapid succession.
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      The Yogācāra thesis of the simultaneity of multiple consciousnesses has (at least) three important aspects. First, it allows for a multisensory view of perception, according to which several *pravṛttivijñāna*s, such as visual or auditory consciousnesses, can arise simultaneously, for instance, I can see the red colour of the kettle and hear its whistling sound at the same time. Moreover, the fact that a particular object or quality can be perceived simultaneously by both the sensory consciousnesses and the mental consciousness (*manovijñāna*) explains why our mental cognitions of that thing (e.g., our immediate thoughts and judgements about it, or our conative attitudes towards it) are so clear or vivid. If, in keeping with the Abhidharmic unisensory model, the mental cognition of an object arises later than, say, the visual cognition of that object, then the mental cognition would be directed at a past object. But such cognition of a past object is basically an act of remembering. Memories, however, are typically less clear or vivid than the conative or cognitive contents of the *manovijñāna* we normally experience in sense perception (Griffiths 1986: 100–101; Chadha 2015: 752)[^chadha-2015][^griffiths-1986].[^note-30] Secondly, the Yogācāra simultaneity thesis encompasses the functioning of three layers of consciousness:
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      1. the intermittent *pravṛttivijñāna*s (both sensory and mental) directed at various objects,
+      2. the *kliṣṭamanas*, which permeates these with a mistaken cognition of the “I”, and
+      3. the continuously operating *ālayavijñāna*, with its twofold operation of subliminally perceiving the surrounding world and one’s own body.
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      According to the Yogācāras, this (fourfold) complexity of our mental processes in each ordinary moment of life cannot be explained in terms of a “one-dimensional” Abhidharma model. Thirdly, the ability of the *ālayavijñāna* to condition the simultaneous emergence of other forms of consciousness is essential from a soteriological perspective as well. While this point is not mentioned among the eight proofs enumerated in the *Yogācārabhūmi*, other texts such as Vasubandhu’s *Pañcaskandhaka* or Sthiramati’s *Pañcaskandhakavibhāṣā* emphasise that without a multi-layered mind the mental defilements (*kleśa*) that hinder liberation could not be eliminated. This is because a defilement and its counteragent cannot be active in the same instance of consciousness. Therefore, as the argument goes, we need to posit a multi-layered mind where the counteracting mental states are able to act directly on the defilements that are in a dispositional “seed” state in the *ālayavijñāna*.[^note-31]
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      ## 3. The *cittamātra* doctrine: The priority of the mind
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      ### 3.1 The idealism debate
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      Arguably, the most famous and, at the same time, hotly debated doctrine of the Yogācāra tradition in modern scholarship is the *cittamātra* or *vijñaptimātra* teaching. While not every Yogācāra work advocates the mind- or cognition-only position in any robust sense, the strand of Yogācāra thought that does is frequently referred to in the secondary literature by the neologism “Yogācāra-Vijñānavāda”. The doctrine has often been understood to encapsulate the Western conception of idealism, i.e., the philosophical position that assigns some fundamental priority to the mind or cognition over the (apparently external or material) sensible world (for various Western variants of idealism, see the entry on idealism).
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      When considering possible ways to spell out this priority in the context of Yogācāra it is useful, and customary, to distinguish between three levels of interpretation: the level of (i) the objects of perception, (ii) the causes of our perceptions, and (iii) ultimate reality (for slightly different three-level analyses, see Finnigan 2017 and the entry on Vasubandhu)[^finnigan-2017]. While, as we shall see, it is quite difficult to determine whether the doctrine of “mere consciousness” holds true at the ultimate level of reality, the priority of mind at the first two levels seems fairly straightforward. According to the Yogācāra-Vijñānavāda position, the objects constituting the (apparently external) sensible world are mind-dependent in the sense that they are nothing but appearances in our cognitions, that is to say, they exist only insofar as they are cognised. The proponents of Yogācāra-Vijñānavāda also hold that our cognitions of sensible objects have a mental cause, since they arise directly from the *ālayavijñāna*’s seeds. Nevertheless, there is considerable disagreement over the exact ontological implications of these views.
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      More specifically, Yogācāra has standardly been understood as either ontological or epistemological idealism (for an overview of these positions, see Trivedi 2005; Kellner and Taber 2014; the entries on mind in Indian Buddhist philosophy and Vasubandhu; note that a significant part of the idealism debate concerns Vasubandhu’s Yogācāra works)[^kellner-2014][^kellner-2014-2][^trivedi-2005]. According to both readings, the Yogācāra-Vijñānavāda position states that material hypotheses fail to account for the occurrence and appearance of our perceptions, and that we need to appeal to our mind’s own activities to explain the features of our experiences. The epistemological reading, however, emphasises that this does not necessarily mean that there is nothing beyond our perceptions. On this interpretation, the proponents of Yogācāra-Vijñānavāda merely argued that what we are aware of and have access to in cognition is nothing more than the very contents of our own minds caused, or at least deeply influenced, by the *ālayavijñāna*’s seeds. (Despite some important differences, interpretations along these lines have been offered, for example, by Wayman 1965; Kochumuttom 1982; Hayes 1988; Harris 1991; Oetke 1992; and King 1998.)[^harris-1991][^hayes-1988][^king-1998][^kochumuttom-1982][^oetke-1992][^wayman-1965] This interpretation might be compared to the “transcendental idealism” of Immanuel Kant, who, despite his idealist view of the *sensible* world, posited a mind-independent reality that, as it exists in itself, is completely inaccessible to us. A variant of this epistemological approach, by contrast, holds that Yogācāras completely bracket the ontological questions behind the appearances we perceive. Proponents of this interpretation appeal to the Yogācāras’ apparent reluctance to deal with metaphysics, engaging only with what can be described in experiential terms. Accordingly, they prefer to construe their views through the lens of (Husserlian) phenomenology (Lusthaus 2002; Garfield 2015a: 186–189 and 2015b)[^garfield-2015a][^garfield-2015b][^lusthaus-2002].
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      The other, traditionally more dominant route is to interpret Yogācāra-Vijñānavāda as ontological idealism, at least on the basis of certain works such as Vasubandhu’s *Viṃśikā* or the *Trisvabhāvanirdeśa* (e.g., Griffiths 1986: 82–84; Kapstein 1988; Garfield 2002: 152–169; Schmithausen 2005a, 2005b; Siderits 2007: 147; Arnold 2008: 15–18, 2021: 103–107; Kellner & Taber 2014; Westerhoff 2018: 176–179)[^arnold-2008][^garfield-2002][^griffiths-1986][^kapstein-1988][^kellner-2014][^kellner-2014-2][^schmithausen-2005a][^siderits-2007][^westerhoff-2018].[^note-32] Ontological idealism differs from epistemological idealism and phenomenology in that it straightforwardly rejects anything beyond our minds and mental states. In other words, the idealist position they advocate also involves immaterialism, that is, the denial of the existence of a material world.[^note-33] But even if we accept that Yogācāra-Vijñānavāda authors questioned the mind-independence of reality, it is still controversial whether labelling their view as ontological *idealism* is helpful or illuminating. As many have noted, we are dealing with a peculiarly *Buddhist* form of idealism. These peculiarities mainly concern the third level of interpretation: the nature of ultimate reality. Although the Yogācāras often emphasise that consciousness really or fundamentally exists, it is not to be understood (in line with the Buddhist *anātman* or no-self doctrine) as either an individual or a universal mental *substance*, as we typically find in the works of Western idealist philosophers. In particular, the Yogācāra concept of mind differs equally from Berkeley’s perceiving souls and Hegel’s absolute spirit (not to mention the theistic connotations of these Western theories, which are generally alien to the Buddhist tradition).[^note-34]
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      Moreover, Yogācāra authors rejected the subject-object (*grāhaka-grāhya*) duality of consciousness at the ultimate level of reality. Non-duality can be understood in two ways: first, that there is no object independent of consciousness, construed as a cognising “subject”; second, that neither the objective nor the subjective side of experience is ultimately real (Gold 2006)[^gold-2006]. This latter interpretation is sometimes developed into a full-blown illusionism about consciousness, claiming that, according to the Yogācāras’ final position, the act of consciousness itself, with all its phenomenal features, is only a conceptual construct or cognitive illusion with no foundation in reality (see Garfield 2016; Chaturvedi 2024)[^chaturvedi-2024][^garfield-2016]. From this perspective, the Yogācāra position would bear similarities to the Madhyamaka view of the ultimate emptiness of consciousness. Others, however, have argued that the Yogācāra denial of non-duality (even in the second sense) does not rule out the ultimate existence of an ineffable non-dual form of consciousness (Williams 2009: 95–96)[^williams-2009]. That this non-dual form of consciousness transcends our conceptual and linguistic capacities has also made scholars (such as Gold 2011 [2022])[^gold-2011] reluctant to explicitly classify Yogācāra as “standard” ontological idealism. Although *mental* predicates come closest to what reality is ultimately like, even these fail to do justice to its intrinsic nature.
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      ### 3.2 The three natures (*trisvabhāva*) doctrine
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      Some of these subtleties of the Yogācāra position are expressed through a theoretical framework called the doctrine of three natures (*trisvabhāva*) (for a detailed analysis of the theory see Garfield 2002: 128–151; D’Amato 2005; Williams 2009: 88–92; Gold 2015: 148–169; Brennan 2018)[^brennan-2018][^d’amato-2005][^garfield-2002][^gold-2015][^williams-2009]. According to the doctrine, all phenomena have three natures: (1) a “constructed” or “imagined nature” (*parikalpita-svabhāva*); (2) a “dependent nature” (*paratantra-svabhāva*); and (3) a “perfected nature” (*pariniṣpanna-svabhāva*). The imagined nature is the way things appear to us as ordinary, unenlightened beings. More specifically, it refers to our abovementioned misconceptions about the real existence of subjects and objects. As, for instance, the *Saṃdhinirmocana Sūtra* suggests, the imagined nature is related to our use of language, insofar as we ordinarily assume that the structure of the world is correctly represented by our linguistic conventions distinguishing between subjects, objects, properties, their relations, etc. The dependent nature is explained as the fact that our perceptions of imagined phenomena arise depending on various causes and conditions. These causes are often identified with the *ālayavijñāna*, or more precisely the seeds contained therein (e.g., *Trisvabhāvanirdeśa* verse 29). The perfected nature, in turn, refers to the ultimate nature of phenomena, commonly described by the term *tathatā*, i.e., “suchness” or “thusness” (e.g., *Triṃśikā* verses 24–25). In Yogācāra works such as Asaṅga’s *Mahāyānasaṃgraha* or Vasubandhu’s *Triṃśikā* the “perfected nature” is glossed as the absence of the imagined nature from the dependent nature. Accordingly, one grasps the perfected nature as a result of sustained meditative practice by realising that imagined entities (such as subjects and objects) are unreal products or superimpositions of the mind’s conceptualising activity.
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      It must be noted that while *svabhāva* (intrinsic nature or existence) is a key concept in Abhidharma philosophy, the three-nature analysis is not meant to be an endorsement of the Abhidharma metaphysics of ultimately real *dharma*s. On the contrary, in keeping with the ethos of the Mahāyāna, its purpose is to dispel the misconception that phenomena, as conceived by ordinary people and even by the more refined view of the Ābhidharmikas, have an intrinsic existence. Some Yogācāra sources (e.g., *Triṃśikā* verses 23–24) seek to emphasise this by characterising the three natures as three non-natures or naturelessnesses (*niḥsvabhāvatā*), that is, three ways in which the Abhidharmic sense of *svabhāva* is absent from phenomena. Accordingly, the imagined nature is naturelessness in that phenomena do not have the nature or mind-independent properties they appear to have (such as extension, solidity, colour). The dependent nature is naturelessness in the sense that phenomena are not causally independent, because they depend on something external to themselves, especially the cognising mind. Finally, the perfected nature is the realisation of naturelessness itself, defined as the absence of the imagined from the dependent (Garfield 2002: 109–127)[^garfield-2002].
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      While this description of the perfected nature sounds rather negative, on the standard reading it presupposes the ultimate reality of a basis (i.e. the flow of experiences or the dependent nature), which is empty of false conceptualisation, non-dual, and ineffable.[^note-35] Thus the doctrine of three natures, despite its rebuttal of the *svabhāva* metaphysics of Abhidharma, reveals a fundamental agreement between the Abhidharma and Yogācāra traditions: namely, that there must be something that serves as the ultimate foundation of reality (a view often referred to as ontological foundationalism). For Abhidharma, this foundation is the *dharma*s; for Yogācāra, it is consciousness. As the Yogācāras argue, something has to exist fundamentally to ground our false superimpositions. Such an approach would set the Yogācāra position in stark contrast to Madhyamaka anti-foundationalism. Accordingly, the Yogācāra position in general, and the theory of three natures in particular, are characterised by Yogācāra sources such as the *Saṃdhinirmocana Sūtra* as the ultimately correct doctrine, construed as a middle way between the “nihilistic” interpretation of emptiness attributed to the Madhyamaka and the Abhidharmic reification of phenomena (on the complex relationship between Yogācāra and Madhyamaka, see for instance Harris 1991: especially 102–131; King 1994; and the relevant contributions in Garfield & Westerhoff 2015: especially Thakchöe 2015)[^garfield-2015][^harris-1991][^king-1994][^thakchöe-2015].
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      ### 3.3 The origins of Yogācāra idealism
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      Despite the widespread association of Yogācāra with idealism, it is important to stress that not every Yogācāra scripture or treatise advocates the *cittamātra* or *vijñaptimātra* doctrine. As scholars (Griffiths 1986: 82–84; Schmithausen 1987: 32–33 and 297, n. 221; Schmithausen 2005b: 244–245; Kellner 2017: 307)[^griffiths-1986][^kellner-2017][^schmithausen-1987][^schmithausen-2005b] pointed out, the mind-only doctrine is conspicuously absent from the earliest strata of Yogācāra literature. The *Yogācārabhūmi*, for instance, mostly takes for granted the realist ontology of the mainstream Buddhist traditions. According to some scholars, we find some inconsistency in adopting an ontological idealist position even in the works of considerably later authors, such as Sthiramati, whose terminology and statements sometimes appear to be incompatible with idealism (Schmithausen 1987: 298 n. 222)[^schmithausen-1987].[^note-36] It should be added, however, that the *Yogācārabhūmi* corpus does contain some claims or allusions that can be seen as precursors of idealism. These include for instance the ideas that things are mere designations (*prajñapti*), that objects with their characteristics are products of false conceptualisation (*vikalpa*), or that meditative objects are purely mental in nature. This latter remark contrasts with the realist attitude towards the objects of meditation that prevails elsewhere in the work, where they are regarded as subtle material forms perceivable only by the mental cognition (Schmithausen 2005b: 245–246)[^schmithausen-2005b].
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      Scholars have offered various hypotheses to explain the origins of Yogācāra idealism. Griffiths (1986: 82) and Schmithausen (2005b: 246), for instance, argue that some of the core teachings of Yogācāra, especially its idealist philosophy, grew out of sustained contemplation of the nature of meditative experience rather than mere theoretical speculation. This is suggested by the earliest extant Yogācāra source that endorses idealism and uses the term *vijñaptimātra* to express it, the *Saṃdhinirmocana Sūtra* (Schmithausen 2005b: 245–246)[^schmithausen-2005b].[^note-37] Like the position mentioned above, the work adopts an idealist approach to the ontological status of meditative objects, emphasising that they are mental. The *Saṃdhinirmocana Sūtra*, however, goes further and extrapolates this idea to the objects of “reality”, considering them to be mere cognitions (*vijñaptimātra*) as well.[^note-38] But the centrality of meditative practice to the origins of Yogācāra doctrines is not universally accepted. Other scholars (e.g., Sharf 2005: 262–263)[^sharf-2005] have argued that the role attributed to meditative experience in the formation of Buddhist philosophical theories is exaggerated, and the idealist tendencies of the Yogācāra tradition can rather be traced back to philosophical inquiries into the status, and ontological implications, of misperceptions and dreams.[^note-39] Such a line of argument might be supported by the fact that Yogācāra philosophers often appeal to various illusory or hallucinatory states, including dreams and magic tricks, to illustrate and demonstrate the coherence of their position that no cognition whatsoever has a mind-independent object. Vasubandhu, for instance, begins the *Twenty Verses* by likening our ordinary perceptual experiences to a web of hairs or floaters that appear to people with an eye disease.
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      The development of Yogācāra idealism is also thought to have been catalysed by the Abhidharmic Sautrāntika theory of perception.[^note-40] The Sautrāntikas rejected the Abhidharmic Vaibhāṣika direct realist theory of perception, according to which we are directly acquainted with external objects in perception. Instead, as is generally assumed, they favoured the representative realist (or “representationalist”) view that one is in immediate contact only with mental objects, which in turn represent the external world (Dhammajoti 2007: 152–170; Siderits 2007: 130–137; Westerhoff 2018: 79–82)[^dhammajoti-2007][^siderits-2007][^westerhoff-2018].[^note-41] While external objects are still accepted as real according to the Sautrāntika theory, we can only infer their existence and nature from the resembling representations they cause. That Yogācāra was influenced by the Sautrāntika critique of Vaibhāṣika direct realism is evident, for instance, from verse 16 of Vasubandhu’s *Viṃśikā*. This passage argues that the realist cannot appeal to perceptual knowledge or direct acquaintance (*pratyakṣa*) to prove the existence of an external object. Since the cognitive processing of sensory information takes time, once the mental cognition forms the belief that the object is perceived, we are no longer directly aware of the object itself, but, arguably, only an internal representation of a past state of it. Moreover, given the doctrine of momentariness widely accepted in the Abhidharma tradition, by the time we make the judgement that “this object is perceived by me”, both the visual consciousness and the visible object have already ceased to exist. Hence, the allegedly mind-independent object the direct realist knows through perception does not actually exist. This argument bears certain similarities to the time-lag argument used against direct realism in contemporary philosophy (Siderits 2007: 133–134, 169; Mills 2017; Westerhoff 2018: 173)[^mills-2017][^siderits-2007][^westerhoff-2018]. But if we have perceptual knowledge only of unreal objects or mental representations, and the external sense objects are merely inferred as the (prior) causes of our perceptions, as the Sautrāntika position claims, then it seems natural that Yogācāras would also raise questions about the necessity or tenability of this inference, turning to an idealist or phenomenological position.
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      ### 3.4 Idealism in Vasubandhu’s *Twenty Verses*
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      As noted above, much of the idealism debate revolves around determining the exact position proposed and defended in Vasubandhu’s *Viṃśikā*.[^note-42] One of the main clusters of arguments Vasubandhu puts forward in favour of the mind-only position (in verses 2 to 4) is aimed at demonstrating that the Yogācāra doctrine is a viable explanation of our everyday experiences and, as such, can withstand the realists’ criticisms. Vasubandhu’s (hypothetical) opponent gives three reasons why the presupposition of material objects is necessary to explain the generally accepted features of our experiences. The first objection is based on the observation that our experiences are not random, but apparently follow the spatio-temporal patterns in which external objects cause them. In other words, if the objects we perceive were not mind-independent entities, or at least were not caused by such things, then it would be unaccountable why our perceptions of things occur at specific places and times. The second objection relies on the intersubjective nature of our perceptions. The opponent asks how multiple beings could have similar experiences at a given place and time, if not because the same external objects are present to all of them, causing their perceptions. The third objection is based on the common-sense belief that external objects perform various functions that merely mental or illusory objects cannot. Specifically, the external objects we perceive bring about observable changes in the world as well as in us; for instance one can feel full after eating a real but not an illusory dinner. Vasubandhu replies by arguing that these three conditions can equally be met by states in which, as even the opponent should concede, no external objects are involved. In dreams, for instance, objects can appear to us in patterns of spatio-temporal determination. The problem of intersubjectivity can be answered by appealing to the shared experiences of *preta*s (hungry ghosts) and beings in hell, who all undergo similar gruesome hallucinations or visions.[^note-43] Moreover, even unreal objects can produce real changes in our waking life, as is the case with wet or erotic dreams (or, one might add, nightmares).[^note-44]
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      Another important cluster of arguments is meant to show that no materialist account of the sensible world is tenable. In verses 11 to 15 of the *Viṃśikā*, Vasubandhu raises and rejects various possible materialist accounts of the macrophysical objects we perceive. These theories include both Buddhist and non-Buddhist views; for instance Vasubandhu criticises the form of atomism embraced by the Vaibhāṣikas, as well as the Vaiśeṣika theory that posits “whole” objects over and above their (atomic or qualitative) parts. It is worth noting that the broader context of this argumentation is the opponent’s contention that the Buddha himself taught the existence of external objects. According to Vasubandhu’s reply, the Buddha taught it only as a conventional doctrine, and not as an ultimate truth, because even our best material theories of objects, such as theories of atomic agglomeration, turn out to be inconsistent with how we perceive the world.[^note-45]
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      According to a widespread reading of the *Twenty Verses*, the first cluster of arguments aims only to show that the mind-only doctrine is a viable alternative to realism as it can account for the most important features of our ordinary experiences. Vasubandhu attempts to establish the doctrine of mind-only in a more positive manner only in the second cluster of arguments, where he argues that there is no adequate physical or materialistic theory to explain our experiences of the sensible world. His strategy is to show that, in the absence of any viable alternative to explain our experiences, only the mind-only teaching can be true. This line of argument is sometimes called an inference to the best explanation (Gold 2011 [2022])[^gold-2011].[^note-46] On a slightly different reading (Kapstein 1988: 36–37)[^kapstein-1988], Vasubandhu uses a *modus tollens* argument in verses 11 to 15 to show that atomism is necessary to maintain that there are mind-independent, external objects, but atomism is false. Finnigan (2017: 181) and Arnold (2008: 16–17 and 2021: 103–107) also read Vasubandhu as aiming to prove the impossibility of external objects in these verses. While most scholars believe that this cluster of arguments implies an ontological idealist or immaterialist position, there is an influential strand of interpretation that disagrees, arguing that Vasubandhu is merely seeking to show the untenability of materialist theories *as explanations of our experiences.* For instance, Oetke (1992) contends that these verses only prove that mind-independent objects cannot be the (direct) objects of perception, but not that they do not exist at all.
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: body
+    source: |-
+      There are some further considerations that might support an ontological idealist reading of the text. Many suggest that Vasubandhu could argue for ontological idealism on the grounds that it is rationally preferable to realism because, while it is equally capable of explaining all the phenomena at hand, it is an ontologically simpler or more parsimonious theory, appealing to fewer kinds of entities.[^note-47] This strategy, which Siderits (2007: 157–158) calls the “principle of lightness”, appears most clearly in verses 6–7, where Vasubandhu challenges the realist opponent by saying that if they are willing to admit that karma, construed as mental intention, produces physical entities (e.g., hell guardians), which in turn cause suffering in the mental streams of the tormented beings, then why do they not eliminate the intermediate physical step? The supposition that hell guardians are collective hallucinations in the minds of tormented beings is a “lighter” theory of how our experiences in hell come about, appealing only to *mental* entities.
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: body
+    source: |-
+      Even if we do not rely specifically on the second cluster of arguments, some scholars argue that we could still propose an ontological idealist reading of the *Viṃśikā*. Kellner and Taber (2014), for instance, read Vasubandhu’s various arguments in the *Viṃśikā* not only as naturally suggesting such a position, but also as part of an overall argumentative strategy that can be regarded as an argument from ignorance. On this reading, with the first cluster of arguments Vasubandhu shows that no *inference* drawn from the widely accepted features of our perceptual experiences can prove the existence of external objects. But since, as he goes on to show in the second part of the work, none of the other epistemic instruments (namely, *scriptural authority* in the second cluster of arguments, and *perceptual acquaintance* in the rest of the work) can demonstrate the existence of external objects, we have no evidence whatsoever in favour of realism. On the basis that the existence of external objects cannot be proved by any of the epistemic instruments, Vasubandhu concludes that the mind-only position is positively established.[^note-48]
+    step1: TBD
+    step2: TBD
+  - id: 64
+    kind: body
+    source: |-
+      ### 3.5 Later idealist arguments: Dignāga and Dharmakīrti
+    step1: TBD
+    step2: TBD
+  - id: 65
+    kind: body
+    source: |-
+      The tradition of Dignāga and Dharmakīrti also contributed to the Yogācāra defence of idealism. In denying that what we perceive are material objects, Dignāga’s *Ālambanaparīkṣā* can be seen as a continuation and elaboration of Vasubandhu’s idealist arguments in the *Viṃśikā*. The starting point of Dignāga’s argument is that in order for something to be considered an object of perception (*ālambana*) it must fulfil two conditions. First, it has to cause the corresponding percept. Second, it needs to exist in the way it appears to us in consciousness, that is, be similar to the percept. Otherwise, we could not distinguish it from other causes of perception that are equally dissimilar to the object, such as the sense organs.[^note-49]
+    step1: TBD
+    step2: TBD
+  - id: 66
+    kind: body
+    source: |-
+      Dignāga argues that neither a multiplicity of atoms nor their agglomerations can satisfy these two conditions, therefore they cannot be what we perceive. As for the causal criterion, his argument turns on the mereological reductionist principle, frequently deployed by Ābhidharmikas, that composite objects, including atomic agglomerations, are ultimately unreal insofar as they can be analysed into more fundamental constituents. On this basis, Dignāga infers that atomic agglomerations cannot actually cause our perceptions, since unreal things cannot cause anything. The alternative view that the objects we cognise are multiplicities of atoms is also problematic, as they are fundamentally dissimilar to how we perceive the world around us. He points out that our perceptions appear in the form of unified objects, such as cups and pots, as opposed to mere multiplicities of atoms. Therefore, even though these atoms could cause our perceptions, they cannot fulfil the resemblance criterion.[^note-50]
+    step1: TBD
+    step2: TBD
+  - id: 67
+    kind: body
+    source: |-
+      On the basis of such arguments, Dignāga concludes that the objects of perception must be mental representations, because only they can satisfy both criteria. It is important to note that in the *Ālambanaparīkṣā* Dignāga puts forward a mental explanation for the origin of our perceptions, proposing that the appearance of perception is actually caused by impressions left in our minds by previous cognitions. Furthermore, Dignāga makes it clear that the sense faculties are not material either. While these remarks might suggest that Dignāga’s ultimate view is ontological idealism, it is noteworthy that he does not explicitly assert it or call into question the coherence of atomism as Vasubandhu does. While atoms are definitely not the objects of our perceptions, they may, as far as the *Ālambanaparīkṣā*’s arguments go, exist outside our minds.
+    step1: TBD
+    step2: TBD
+  - id: 68
+    kind: body
+    source: |-
+      Dharmakīrti, too, offered important considerations in favour of idealism. While he also recycles Dignāga’s arguments about the object of perception discussed above, his perhaps most famous idealist argument is called *sahopalambhaniyama* inference, variously translated as “necessary joint cognition”, “restriction to invariable co-cognition”, or “certainty of [subject and object] being perceived together”.[^note-51] The argument appeals to the notion of self-awareness or reflexive awareness (*svasaṃvedana* or *svasaṃvitti*), which Dharmakīrti borrows from Dignāga. According to them, in any act of cognition, the mind is not only aware of an object but also of itself cognising the object. Relying on this idea, Dharmakīrti’s *sahopalambhaniyama* inference argues that it is impossible to perceive an object, such as a blue patch, without also being aware of the act of cognition itself. With this move, Dharmakīrti aims to undercut the realists’ attempt to use perception to substantiate our belief in the existence of external objects. To prove that there are external objects, they have to show that these objects are distinct from our consciousness. However, as Dharmakīrti argues, this cannot be done by appealing to our perceptions, since the objects of perception are always bound up with consciousness.[^note-52] Accordingly, the argument establishes an epistemological idealist position: the mind only experiences itself and its own states, but cannot cognitively access external objects *as external objects*. Whether Dharmakīrti’s intention with the *sahopalambhaniyama* inference was to make a leap from this epistemological point to an ontological idealist position is uncertain. While some scholars suggest that Dharmakīrti seeks to make this step, others contend that deriving metaphysical conclusions from claims of inconceivability is a fallacious move that Dharmakīrti would have wanted to avoid (on this controversy, see Finnigan 2017: 190)[^finnigan-2017].
+    step1: TBD
+    step2: TBD
+  - id: 69
+    kind: body
+    source: |-
+      ### 3.6 Solipsism and other minds
+    step1: TBD
+    step2: TBD
+  - id: 70
+    kind: body
+    source: |-
+      As a consequence of their idealist tendencies, the Yogācāras had to face the charge that their view leads to solipsism. In this context, solipsism primarily refers to the ontological position that only one’s own mind exists but there are no other minds. However, it can also be given an epistemological reading, according to which we can only know the existence of our own minds (for a general introduction to the problem of other minds and solipsism, see the entry on other minds). Although the epistemological problem of other minds poses a challenge to anyone who believes in some privileged access to our own minds, the spectre of solipsism is often raised as a specific objection to idealism, especially ontological idealism. It might be argued, for instance, that the argument from ignorance Vasubandhu uses against the existence of a mind-independent world might just as well work against the existence of other minds. Indeed, in the light of the Yogācāras’ rejection of the (subject-object) duality of consciousness, solipsism seems particularly problematic for the Yogācāra type of idealism (Westerhoff 2018: 164)[^westerhoff-2018]. This rejection, as we have seen, concerns the false reification of the apparently dual structure of an act of consciousness, that is, the mistaken belief that there are separate perceiving subjects and perceived objects. Non-duality seems to apply to anything that is an “object” external to a “subject”, including other minds as well as material objects. Moreover, the Yogācāras’ apparent reliance on the principle of lightness in motivating idealism raises another unique problem. Since solipsism, which presupposes nothing but one’s own mind, is the lightest of all possible theories, why not prefer it to a form of idealism that accepts the plurality of minds (Perrett 2017: 64)[^perrett-2017]? It might be worth noting that the epistemological idealist reading of Yogācāra starts from a much better position here.
+    step1: TBD
+    step2: TBD
+  - id: 71
+    kind: body
+    source: |-
+      Solipsism would be an unwelcome conclusion for Yogācāra—no less than for any other Buddhist tradition. Perhaps the most obvious problem is that solipsism is incompatible with the Mahāyāna soteriological goal of liberating all sentient beings. Accordingly, Vasubandhu and other early Yogācāras never explicitly embraced solipsism. In fact, they made statements to the contrary. In the *Twenty Verses* (verse 21 and commentary), for instance, Vasubandhu claims that the buddhas (non-dually) cognise other minds. He believes not only that there are other minds, but also that they can act on each other directly, e.g., harm or kill one another without having bodies to mediate these actions.[^note-53] But even if Yogācāra can consistently include other minds in its ontology, and justify why this assumption is not incompatible with its idealist arguments against the existence of mind-independent objects (such as the argument from ignorance or the principle of lightness), the epistemological concern of how we can know that there are other minds still needs to be addressed.
+    step1: TBD
+    step2: TBD
+  - id: 72
+    kind: body
+    source: |-
+      The standard realist arguments for the existence of other minds rely on observable physical actions (bodily and verbal). These actions are appealed to as the basis for an analogical argument. Since I perceive that my physical actions depend on my mental volitions, I reason analogically that physical actions not caused by me are willed by some other minds. One might also resort to an inference to the best explanation to argue for the existence of other minds: the supposition of other minds amounts to the best explanation of the physical actions that are perceived but not caused by me. But by denying material bodies, or our perceptual access to them, an idealist loses the only observable sign that could indicate the presence of another mind.
+    step1: TBD
+    step2: TBD
+  - id: 73
+    kind: body
+    source: |-
+      Dharmakīrti addresses this very objection in his “Proof of Other Mental Continua” (*Saṃtānāntarasiddhi*). Dharmakīrti’s overarching aim is to show that idealists can use the same strategy as realists to argue for the existence of other minds. Since neither the realist nor the idealist has direct experience of other minds, they both have to appeal to inference. The inference, as we saw above, starts from the observation that my intentional actions are preceded and caused by my volitions. However, I perceive that there are other actions that appear to be similarly intentional, but are not preceded or caused by my volition. Assuming that their cause is similar to that of my intentional actions, we can conclude that there are other volitions, and therefore other minds, causing these behaviours. This looks like a classic analogical argument (Ganeri 2012: 202; Perrett 2017: 65)[^ganeri-2012][^perrett-2017]. The main point Dharmakīrti makes is that what we actually use for this inference is not the physical actions themselves, but merely the *experiences* or *appearances* of them. Therefore, the same strategy is available to the idealist as it is to the realist.
+    step1: TBD
+    step2: TBD
+  - id: 74
+    kind: body
+    source: |-
+      As for the certainty of this sort of inference, Dharmakīrti acknowledges that his analogical argument does not, *strictly speaking*, prove the existence of other minds. It is only an inductive argument that renders the conclusion *probable* that some of our experiences are caused by the volitions of other minds. This probability is sufficient for our everyday purposes, allowing us to interact with others successfully. It might also help to address our earlier concerns about how Yogācāras can include other minds in their ontology in a way that is consistent with their denial of material objects. While Yogācāras argue that the existence of other minds can be shown to be probable, the assumption of external objects as the basis of our perceptions is incoherent. Another limitation of Dharmakīrti’s argument is that no inference can reveal the intrinsic essence or nature of other minds. This could only be achieved through direct perceptual acquaintance. According to his epistemology, inferences concern only universals or types, not specific individuals or tokens (Inami 2001: 467)[^inami-2001]. So, while we can validly conclude that there are *some* other minds because there is a regular correspondence between observed actions and volitions, we cannot know the specific characteristics of those minds. In any event, none of these limitations affect Dharmakīrti’s main argument that the realist is in no better position than the idealist to prove the existence of other minds.
+    step1: TBD
+    step2: TBD
+  - id: 75
+    kind: body
+    source: |-
+      In the light of these caveats, it is not surprising that Ratnakīrti revisited the problem of other minds in the eleventh century. In fact, in his *Santānāntaradūṣaṇa*, he bites the bullet, and accepts that we cannot prove that there are other minds. He also seems to embrace ontological solipsism when arguing that other minds do not exist at the ultimate level of reality. Ratnakīrti straightforwardly rejects the validity of Dharmakīrti’s argument. Ratnakīrti contends that a proper inference only works if we have established that there is an invariable correspondence (co-presence or co-absence) between an observed sign, in this case an observed action, and its cause, the preceding volition. However, we perceive this connection only in relation to our own minds and actions, in a singular case. Since this correspondence between observed action and preceding volition cannot be verified with respect to others, we have no justification for establishing the existence of other minds. The invalidity of Dharmakīrti’s inference, according to Ratnakīrti, comes down to the fact that the volitions and mental states of others are imperceptible to us. If mental states are *in principle* imperceptible, then we cannot establish either the co-presence or the co-absence of mental states and observable actions. As for co-presence, even if the mental state is present, we can only perceive the action, not the mental state itself. As for establishing co-absence, even when we do not perceive an observable action, the mental state might still be there due to its imperceptibility. Ratnakīrti also considers the possibility that others’ mental states are theoretically perceptible, but we never actually perceive them. In this case, however, the very fact that we do not perceive them indicates that they do not exist (Chakrabarti 2011: 26–27; Kachru 2019: 71–72)[^chakrabarti-2011][^kachru-2019].
+    step1: TBD
+    step2: TBD
+  - id: 76
+    kind: body
+    source: |-
+      A related argument proposed by Ratnakīrti is that we cannot distinguish instances of consciousness belonging to another mind from those belonging to my own mind, because I only experience instances of my own consciousness. According to Ratnakīrti, our ability to distinguish between two things depends on our cognitive access to both things, but insofar as we only perceive our own minds, it is impossible to distinguish between mental streams, that is, to individuate other minds from our own (Chakrabarti 2011: 27; Perrett 2017: 66)[^chakrabarti-2011][^perrett-2017]. Here Ratnakīrti raises not merely the epistemological concern of how we can know that there are other minds, but also the problem of how we can form a coherent concept of other minds in the first place. Besides the inconceivability of other minds, an important implication of this argument, as some scholars have pointed out, is that even our own consciousness cannot be individuated after all (Ganeri 2007: 205–208 and 2012: 212–213; Westerhoff 2018: 165–166; Kachru 2019: 72–76)[^ganeri-2007][^ganeri-2012][^kachru-2019][^westerhoff-2018]. This interpretation also makes it clear that Ratnakīrti’s argument should not be interpreted as intending ontological solipsism in the sense that it is only my own mind that exists (Inami 2001: 479, n. 32)[^inami-2001]. In any event, despite his apparent solipsism, Ratnakīrti nevertheless accepted the distinct existence of (other) minds at the conventional level, thus maintaining the meaningfulness of the bodhisattva path and the cultivation of compassion towards others.
+    step1: TBD
+    step2: TBD
+  - id: 77
+    kind: oir
+    source: |-
+      - [Waldron, William S., “Yogācāra”, in Oxford Bibliographies Online](https://www.oxfordbibliographies.com/display/document/obo-9780195393521/obo-9780195393521-0181.xml)
+    step1: TBD
+    step2: TBD
+  - id: 78
+    kind: note
+    source: |-
+      [^note-1]: The tradition of Asaṅga and Vasubandhu is sometimes called the “followers of scripture” (Sanskrit: **āgamānusārin*; Tibetan: *lung gi rjes ’brangs*), which refers primarily to the *Yogācārabhūmi*, the representative text of the tradition. The logico-epistemological tradition of Dignāga and Dharmakīrti is also called the “followers of reasoning” (Sanskrit: **nyāyānusārin*; Tibetan: *rigs pa’i rjes ’brangs*). See Hopkins 1996: 174‒176; Deleanu 2012: 4, n. 4.
+    step1: TBD
+    step2: TBD
+  - id: 79
+    kind: note
+    source: |-
+      [^note-2]: The term “Yogācārin”, which we often find in the secondary literature, has no textual support (Silk 2000: 267)[^silk-2000].
+    step1: TBD
+    step2: TBD
+  - id: 80
+    kind: note
+    source: |-
+      [^note-3]: Such an interpretation has been proposed, for instance, by Mukai (for a brief summary, see Silk 2000: 273, n. 31)[^silk-2000]. Lusthaus (2004: 914) also mentions that the school is named after the *Yogācārabhūmi*.
+    step1: TBD
+    step2: TBD
+  - id: 81
+    kind: note
+    source: |-
+      [^note-4]: Some scholars (Williams 2009: 87)[^williams-2009] have raised concerns about whether the *Abhisamayālaṃkāra* and the *Ratnagotravibhāga* were authored by the same person as the other three works.
+    step1: TBD
+    step2: TBD
+  - id: 82
+    kind: note
+    source: |-
+      [^note-5]: As Kritzer (2005) points out, many of Vasubandhu’s arguments in the *Abhidharmakośa*(*bhāṣya*) are nonetheless deeply influenced by the *Yogācārabhūmi*. For a list of works that can reasonably be attributed to (the same) Vasubandhu, see Schmithausen 1987: 262–263, n. 101 or Skilling 2000: 299.
+    step1: TBD
+    step2: TBD
+  - id: 83
+    kind: note
+    source: |-
+      [^note-6]: In addition to these treatises, the tradition also ascribes to Vasubandhu several commentaries on the works of Asaṅga and Maitreya. Whether these commentaries were composed by the same person as the treatises mentioned above is uncertain, see Schmithausen 1987: 262–263, n. 101.
+    step1: TBD
+    step2: TBD
+  - id: 84
+    kind: note
+    source: |-
+      [^note-7]: Again, it is doubtful that these commentaries are all by the same author, see Kramer 2016a.
+    step1: TBD
+    step2: TBD
+  - id: 85
+    kind: note
+    source: |-
+      [^note-8]: The study of Paramārtha’s views is also burdened by uncertainties regarding the authorship of the works traditionally attributed to him (Radich 2008; Keng & Radich 2019)[^keng-2019][^radich-2008].
+    step1: TBD
+    step2: TBD
+  - id: 86
+    kind: note
+    source: |-
+      [^note-9]: The other four works attributed to Dharmakīrti are the *Nyāyabindu* (“Drop of Reasoning”), the *Hetubindu* (“Drop of Reasons”), the *Sambandhaparīkṣā* (“Analysis of Relations”) and the *Vādanyāya* (“Logic of Argumentation”).
+    step1: TBD
+    step2: TBD
+  - id: 87
+    kind: note
+    source: |-
+      [^note-10]: Attempts to harmonise Madhyamaka and Yogācāra teachings can already be found in a work by Kambala (c. 5ᵗʰ-early 6ᵗʰ century CE), the *Ālokamālā* (Garland of Light), see Williams 2009: 88.
+    step1: TBD
+    step2: TBD
+  - id: 88
+    kind: note
+    source: |-
+      [^note-11]: On the objects of mental consciousness and related issues in various Buddhist philosophical traditions, see Yao 2021.
+    step1: TBD
+    step2: TBD
+  - id: 89
+    kind: note
+    source: |-
+      [^note-12]: We find different stages of development of this model in the various strata of Yogācāra literature. In this entry, the terms “cognition” and “consciousness” are used interchangeably to refer to the broadest category of object-oriented or intentional states of mind. For an explanation of the terms *vijñapti* or *vijñāna*, see Hall 1986; Salvini 2015: 32–43; Kellner 2017: 321, n. 2.
+    step1: TBD
+    step2: TBD
+  - id: 90
+    kind: note
+    source: |-
+      [^note-13]: It is noteworthy that the various Yogācāra sources differ slightly with regard to the objects of the *ālayavijñāna* (Griffiths 1986: 95–96; Schmithausen 1987: 88–107; Waldron 1995: 17)[^griffiths-1986][^schmithausen-1987][^waldron-1995].
+    step1: TBD
+    step2: TBD
+  - id: 91
+    kind: note
+    source: |-
+      [^note-14]: Various texts list slightly different defilements, see, e.g., Schmithausen 1987: 442, n. 943; or Waldron 2003: 116.
+    step1: TBD
+    step2: TBD
+  - id: 92
+    kind: note
+    source: |-
+      [^note-15]: For an alternative theory of the origin of the *kliṣṭamanas* (and the *ālayavijñāna*) by Suguro, see the summary in Schmithausen 1987: 144–145. According to Suguro, the *ālayavijñāna* and the *kliṣṭamanas* were not originally regarded as separate entities. The *manas* later took over from the *ālayavijñāna* the function of clinging to the self, allowing for a more neutral characterisation of the latter as the existential and biological foundation of the individual.
+    step1: TBD
+    step2: TBD
+  - id: 93
+    kind: note
+    source: |-
+      [^note-16]: On the concept of *āśraya* in Abhidharma, see Szanyi 2021.
+    step1: TBD
+    step2: TBD
+  - id: 94
+    kind: note
+    source: |-
+      [^note-17]: Kramer (2016b: 158) claims that the idea that the *manas* is a simultaneously present mental faculty was disregarded in the Abhidharmic context probably due to its apparent similarity to the concept of a substantial and enduring self.
+    step1: TBD
+    step2: TBD
+  - id: 95
+    kind: note
+    source: |-
+      [^note-18]: The *Mahāyānasaṃgraha* contains “proofs” for the existence of the *kliṣṭamanas*, see Kramer 2016b: 162–163.
+    step1: TBD
+    step2: TBD
+  - id: 96
+    kind: note
+    source: |-
+      [^note-19]: There is no obvious way to translate the term *ālayavijñāna*. Even in the Yogācāra works themselves we find different etymological interpretations, for which see Schmithausen 1987: 15, 22–29.
+    step1: TBD
+    step2: TBD
+  - id: 97
+    kind: note
+    source: |-
+      [^note-20]: The *ālayavijñāna* is frequently characterised in the Yogācāra works as “possessing all the seeds” (*sarvabījaka*). The terms *bīja* and *vāsanā* are often used interchangeably in the Yogācāra context. For an etymological analysis of the term *vāsanā*, referring to something that (i) remains (from the Sanskrit root *vas*) unconsciously in the mind, e.g., an impression of a past action or experience, or (ii) perfumes or permeates (from the Sanskrit root *vās*) the mind, see Waldron 2003: 21, n. 15. The Yogācāra theory of seeds can be traced back to Sautrāntika thought, see, e.g., Griffiths 1986: 92–93; Waldron 1994 and 1995; Westerhoff 2018: 201–202. On the Sautrāntika *bīja*-theory in detail, see Jaini 1959 or Park 2014.
+    step1: TBD
+    step2: TBD
+  - id: 98
+    kind: note
+    source: |-
+      [^note-21]: Buescher (2008) disagrees with Schmithausen, claiming that the introduction of the *ālayavijñāna* only became inevitable within the idealist ontological model of the *Saṃdhinirmocana Sūtra*. Buescher argues that the Sautrāntika “bi-polar *bīja* model” was already available to solve the problems caused by *nirodhasamāpatti*.
+    step1: TBD
+    step2: TBD
+  - id: 99
+    kind: note
+    source: |-
+      [^note-22]: In these contexts, the term *ālaya* is best interpreted etymologically as a form of mind that “sticks to” or “dwells in” the body.
+    step1: TBD
+    step2: TBD
+  - id: 100
+    kind: note
+    source: |-
+      [^note-23]: For an alternative theory of the origin of the *ālayavijñāna*, see Yamabe (2018), who claims that the introduction of the *ālayavijñāna* was based directly on meditative experience and not the result of theoretical speculations about *nirodhasamāpatti*.
+    step1: TBD
+    step2: TBD
+  - id: 101
+    kind: note
+    source: |-
+      [^note-24]: The *ālayavijñāna* shows some interesting (dis)similarities with the Theravāda conception of the *bhavaṅgacitta*, see, e.g., Collins 1982: 225–261; Waldron 1994: 216–218.
+    step1: TBD
+    step2: TBD
+  - id: 102
+    kind: note
+    source: |-
+      [^note-25]: On intersubjectivity, see Waldron 2003: 160–169; Schmithausen 2005a; Tzohar 2017 and 2018: 190–201.
+    step1: TBD
+    step2: TBD
+  - id: 103
+    kind: note
+    source: |-
+      [^note-26]: For further discussion of this issue, see Griffiths 1986: 95, who is somewhat sceptical about the philosophical potential of reconciling the concept of *ālayavijñāna* with the doctrine of *anātman*.
+    step1: TBD
+    step2: TBD
+  - id: 104
+    kind: note
+    source: |-
+      [^note-27]: The possibility or even necessity of getting rid of the *ālayavijñāna* is particularly emphasised in texts where it is assessed negatively, for instance as the source of pollution or defilement, and the cause of future rebirths, see Schmithausen 1987: 66–84, Delhey 2016: 21–22. The radical transformation of the *ālayavijñāna* from the state of affliction to the state of enlightenment is called *āśrayaparāvṛtti* or *āśrayaparivṛtti*, i.e., the transformation or reversal of the basis (in this context the term “basis” refers to the *ālayavijñāna*). As for the moral nature of the *ālayavijñāna*, in certain texts its negative evaluation is less emphatic or completely marginal, see Schmithausen 1987, 75, 82–83. Note also that, as many Yogācāra sources suggest, the cessation of the *ālayavijñāna* does not entail that there remains no consciousness in the state of enlightenment, see Williams 2009, 99–100.
+    step1: TBD
+    step2: TBD
+  - id: 105
+    kind: note
+    source: |-
+      [^note-28]: The eight proofs of the *Yogācārabhūmi* are discussed in more detail in Griffiths 1986: 96–104 and 130–138; Schmithausen 1987: 194–196; Waldron 1995: 16–18 and 2003: 102–107; Kramer 2016b, and (in a meditative context) Yamabe 2015. This entry gives only a general overview of the main categories of proofs and their relevance. We find a more concise but partially overlapping list of six proofs in the *Mahāyānasaṃgraha* and of four proofs in Vasubandhu’s *Pañcaskandhaka* and Sthiramati’s *Pañcaskandhakavibhāṣā*. For a detailed exposition of these lists, see Kramer 2016b.
+    step1: TBD
+    step2: TBD
+  - id: 106
+    kind: note
+    source: |-
+      [^note-29]: Schmithausen (1987: 195) describes these as the “somatic” aspects of the *ālayavijñāna*. Note, however, that Buddhists also accept the existence of formless or immaterial realms (*ārūpyadhātu*), where, according to some Yogācāra sources, the *ālayavijñāna* performs very similar functions (e.g., taking possession of a new existence or maintaining the continuity of the individual), even though there is no physical body (see, e.g., Schmithausen 1987: 48–51)[^schmithausen-1987]. The last proof mentioned in this group is understood differently by Griffiths (1986: 102–103). On his interpretation, it refers to the fact that one can have varying physical experiences at any given time. This variation, however, presupposes the *ālayavijñāna* and its seeds as the origin of these different sensations. Read in this way, the argument shows similarities with the proofs discussed later, especially the one arguing that different manifesting consciousnesses cannot be each other’s seeds.
+    step1: TBD
+    step2: TBD
+  - id: 107
+    kind: note
+    source: |-
+      [^note-30]: Despite the multisensory account of perception outlined in the *Proof Portion* of the *Yogācārabhūmi*, certain Yogācāra authors and texts (e.g., Sthiramati’s *Pañcaskandhakavibhāṣā* or Vasubandhu’s “time-lag argument” in the *Viṃśikā*) assume that the *manovijñāna* arises subsequent to the sense perception of the same object, see Kramer 2016b: 152–155. We return to the time-lag argument in section 3.3.
+    step1: TBD
+    step2: TBD
+  - id: 108
+    kind: note
+    source: |-
+      [^note-31]: For a discussion of the flip side of the argument, namely that our entanglement in the cycle of existence would also be inexplicable if there were no *ālayavijñāna*, see Kramer 2014: 318–319.
+    step1: TBD
+    step2: TBD
+  - id: 109
+    kind: note
+    source: |-
+      [^note-32]: While this is a common distinction in the Western philosophical tradition, some argue that a systematic separation of epistemology from ontology would have made little sense in ancient India in any case (Williams 2009: 306, n. 24)[^williams-2009].
+    step1: TBD
+    step2: TBD
+  - id: 110
+    kind: note
+    source: |-
+      [^note-33]: On the distinction between “immaterialism”—the view that there are no material or external objects—and “idealism”—the view that sensible objects are merely ideas in the mind—in Berkeley scholarship, see Stoneham 2002: 31–38; Rickless 2013: 1; or Bartha 2020: 1074–1075. Ontological (or immaterialist) idealism is also often labelled as “anti-realism” insofar as it denies “reality” in the sense of mind-independent existence. However, the terms realism and anti-realism have other applications as well. One of these is particularly relevant to the interpretation of Yogācāra idealism, as it concerns the question of whether, and, if so, to what extent, the mind’s own *conceptual* activity contributes to the construction of the sensible world. A comparison with a Kantian sort of idealism or anti-realism might suggest that, also for the Yogācāras, the sensible world is the product of our minds, not only in the sense that it exists only when a mind cognises it, but also in the sense that the content of our perceptions is essentially determined by the (innate) conceptual structure of our minds. On certain readings (Siderits 2016: 63, 95–96)[^siderits-2016], however, Yogācāras want to maintain the “realist” view that there is a non-conceptual content given to us through conscious experience, which—even if mentally cognised and caused—can be regarded as a “reality” immune to the conceptual activity of our minds.
+    step1: TBD
+    step2: TBD
+  - id: 111
+    kind: note
+    source: |-
+      [^note-34]: It should be noted that Dasgupta 1933 and Chatterjee 1975 proposed an absolute idealist reading of Yogācāra idealism, but this has been compellingly refuted by scholars (e.g., Kochumuttom 1982)[^kochumuttom-1982]. While this interpretation is implausible for various reasons, the attempt to interpret ultimate consciousness in absolute terms has some obvious benefits in explaining our intersubjective experiences of a “shared world”.
+    step1: TBD
+    step2: TBD
+  - id: 112
+    kind: note
+    source: |-
+      [^note-35]: In different Yogācāra sources, however, we find divergent accounts of whether the dependent nature belongs to the level of conventional or ultimate truth. On this question, and more generally on how the three natures overlap with the two truths theory, widely considered to be a core element of the Buddha’s philosophical teachings, see D’Amato 2005; Williams 2009: 88–92; Thakchöe 2015 and the entry on the theory of two truths in India.
+    step1: TBD
+    step2: TBD
+  - id: 113
+    kind: note
+    source: |-
+      [^note-36]: Yamabe (1998: 19, n. 8) suggests that Vasubandhu’s *Viṃśikā* also oscillates between epistemological and ontological idealist positions.
+    step1: TBD
+    step2: TBD
+  - id: 114
+    kind: note
+    source: |-
+      [^note-37]: The early Mahāyāna *Pratyutpannabuddhasaṃmukhāvasthitasamādhi Sūtra*, which is presumably the first (pre-Yogācāra) *sūtra* to use the term *cittamātra* in an idealist sense, also seems to point in this direction (Schmithausen 2005b: 249–250; Williams 2009: 89)[^schmithausen-2005b][^williams-2009]. For an overview of the meditative factors that influenced the development of Yogācāra teachings, see Westerhoff 2018: 194‒199. As for the origins of Yogācāra idealism, Buescher (2008) also traces it back to the *Saṃdhinirmocana Sūtra*.
+    step1: TBD
+    step2: TBD
+  - id: 115
+    kind: note
+    source: |-
+      [^note-38]: On the idea that meditative experience is superior to other epistemic instruments (ordinary perception, reasoning, or testimony/scriptural authority), because it reveals the way things really are, see Westerhoff 2018: 196‒197. The idealist philosophical stance of the *Saṃdhinirmocana Sūtra* is also reflected in its narrative framework, as the work is set in a magnificent palace considered to be the manifestation of the Buddha’s pure mind (Powers 1995: 5, 313, n. 3.; Westerhoff 2018: 149)[^powers-1995][^westerhoff-2018]. The text also likens the perception of ordinary beings to the vision of magical performances that the audience mistakenly believes to be real (Powers 1993: 43‒45d; Westerhoff 2018: 150)[^powers-1993][^westerhoff-2018].
+    step1: TBD
+    step2: TBD
+  - id: 116
+    kind: note
+    source: |-
+      [^note-39]: Bronkhorst 2000: 62‒76 and Franco 2009 take a similar approach to that of Sharf.
+    step1: TBD
+    step2: TBD
+  - id: 117
+    kind: note
+    source: |-
+      [^note-40]: That the Yogācāra tradition takes up and develops various themes from Sautrāntika Abhidharma is often emphasised in the literature, see for instance note 20 of this entry on *bīja* theory. As to their theory of perception specifically, Arnold (2008) argues that Dharmakīrti’s Yogācāra idealism is ultimately based on the same epistemology as Sautrāntika representationalism.
+    step1: TBD
+    step2: TBD
+  - id: 118
+    kind: note
+    source: |-
+      [^note-41]: Note that we should not consider Sautrāntika as a unified doctrinal system at the time of Vasubandhu, see Kellner 2014: 277‒278.
+    step1: TBD
+    step2: TBD
+  - id: 119
+    kind: note
+    source: |-
+      [^note-42]: The work’s argumentation has been analysed in detail in the literature on various occasions (for example in Kochumuttom 1982; Tola & Dragonetti 2004; Siderits 2007; Carpenter 2014: 137‒168; Kellner & Taber 2014; Gold 2015 and 2011 [2022]; Kachru 2021)[^carpenter-2014][^gold-2015][^gold-2011][^kachru-2021][^kellner-2014][^kellner-2014-2][^kochumuttom-1982][^siderits-2007][^tola-2004].
+    step1: TBD
+    step2: TBD
+  - id: 120
+    kind: note
+    source: |-
+      [^note-43]: For an analysis of the hungry ghost analogy in Vasubandhu’s *Twenty Verses*, as well as Asaṅga’s *Mahāyānasaṃgraha* and the *Madhyāntavibhāgaṭīkā* traditionally attributed to Sthiramati, see Tzohar 2017. Tzohar argues that the analogy is meant to show not only that intersubjective agreement is consistent with Yogācāra idealism, but also that intersubjectivity cannot be explained by appealing to external objects of perception in the light of perceptual discrepancies. On the concern that within the Yogācāra framework we can only get “parallel subjectivities” rather than genuine intersubjectivity, see Garfield 2019.
+    step1: TBD
+    step2: TBD
+  - id: 121
+    kind: note
+    source: |-
+      [^note-44]: It is worth noting that the third objection and reply seem to assume that causation necessarily involves a mind-independent *effect*, with Vasubandhu’s appeal to wet dreams only showing that the *cause* need not be external. But it is clear that Vasubandhu’s reply does not want to imply the former, and he merely offers his counterexample as an *ad hominem* argument against the realist objection. See Finnigan 2017: 183, for offering a not question-begging reading of both the objection and the reply. For a detailed analysis of Vasubandhu’s use of dreams in the *Twenty Verses*, see Kachru 2021: 43‒84.
+    step1: TBD
+    step2: TBD
+  - id: 122
+    kind: note
+    source: |-
+      [^note-45]: For a detailed analysis of these verses, see Kapstein 1988; Tola & Dragonetti 2004: 94‒110; Siderits 2007: 159‒167; and Carpenter 2014: 147‒150. For a discussion of Vasubandhu’s anti-atomist argument from contact in the *Viṃśikā*, and the Abhidharmic antecedents of the problem of atomic contact and aggregation, see Carpenter and Ngaserin 2021.
+    step1: TBD
+    step2: TBD
+  - id: 123
+    kind: note
+    source: |-
+      [^note-46]: Some have suggested that the reason Vasubandhu begins the *Twenty Verses* with the epistemological arguments of the first cluster is because he realises that his subsequent metaphysical arguments, though stronger in terms of their conclusion, have less dialectical force insofar as they rely on controversial claims about atomism (see Perrett 2017)[^perrett-2017]. One might also question whether the material accounts of objects that Vasubandhu rejects exhaust all possible alternatives, and, hence, his eliminative argument for the mind-only view as the only viable one is, in fact, valid.
+    step1: TBD
+    step2: TBD
+  - id: 124
+    kind: note
+    source: |-
+      [^note-47]: Such claims can be found in Siderits 2007: 157‒158; Perrett 2017: 62‒63; Westerhoff 2018: 177; and Gold 2011 [2022]. However, given the complexity of the subliminal workings of the *ālayavijñāna*, with its various seeds and causal mechanisms, one might wonder whether Yogācāra idealism also amounts to a more elegant or syntactically simpler theory.
+    step1: TBD
+    step2: TBD
+  - id: 125
+    kind: note
+    source: |-
+      [^note-48]: As Kellner and Taber (2014: 733‒734) argue, while often seen as a logical fallacy, the argument from ignorance can also be taken as an abductive inference, showing that since all available methods have failed to substantiate something, its non-existence is rather probable.
+    step1: TBD
+    step2: TBD
+  - id: 126
+    kind: note
+    source: |-
+      [^note-49]: That genuine perception has a similar object-cause was not unkown to the Ābhidharmikas (e.g., it is present in chapter 9 of Vasubandhu’s *Abhidharmakośabhāṣya* (473.25‒474.2)), but Dignāga’s *Ālambanaparīkṣā* is often credited with identifying the roles objects play in perception more clearly than his predecessors. For a more detailed discussion of Dignāga’s conception of the object-condition of perception, see Chu 2006 or Kellner 2014, 281‒282.
+    step1: TBD
+    step2: TBD
+  - id: 127
+    kind: note
+    source: |-
+      [^note-50]: For an analysis of Dignāga’s arguments, see Tola and Dragonetti 2004: 14‒28; Duckworth et al. 2016; Finnigan 2017. Dignāga’s work was commented on by various commentators, including Dignāga himself. For studies and translations of these, see Duckworth et al. 2016. It is worth noting that Sthiramati’s *Triṃśikāvijñaptibhāṣya* also presents arguments against the realist attempt to identify the objects of our perceptions with material objects composed of atoms, on the grounds that they cannot fulfil the criteria mentioned by Dignāga. His argumentation combines the metaphysical arguments of Vasubandhu’s *Viṃśikā* and Dignāga’s epistemological arguments from the *Ālambanaparīkṣāvṛtti*.
+    step1: TBD
+    step2: TBD
+  - id: 128
+    kind: note
+    source: |-
+      [^note-51]: The argument can be found in both the *Pramāṇavārttika* (3.335 and 3.387‒397) and the *Pramāṇaviniścaya* (1.54‒58). For a helpful overview of the argument, see, for instance, Kellner 2017; Finnigan 2017: 188‒191; Arnold 2008: 13‒14; or Taber 2020.
+    step1: TBD
+    step2: TBD
+  - id: 129
+    kind: note
+    source: |-
+      [^note-52]: Depending on how one understands the notion of *svasaṃvedana*, either as requiring only first-order consciousness of the object of perception or second-order consciousness of the *cognition* of the object, the argument can be read in two different ways (but with a similar conclusion). On the two readings, see Finnigan 2017: 188‒190. On the concept of *svasaṃvedana*, see, e.g., Ganeri 1999 and 2012; Kellner 2010 and 2011; Coseru 2012: 235‒273. The reader might find Dharmakīrti’s argument reminiscent of Berkeley’s so-called “master-argument” (see Berkeley [PHK, § 22‒23]), especially if one believes that Dharmakīrti also wanted to prove the impossibility of external objects. For an analysis of Berkeley’s argument, see, e.g., Rickless 2013: 127‒137.
+    step1: TBD
+    step2: TBD
+  - id: 130
+    kind: note
+    source: |-
+      [^note-53]: More generally, as we have seen, Yogācāra authors propose that our common world of perception is created by an interplay between seeds in multiple (substratum) consciousnesses, resulting in part from our past mind-mind interactions.
+    step1: TBD
+    step2: TBD

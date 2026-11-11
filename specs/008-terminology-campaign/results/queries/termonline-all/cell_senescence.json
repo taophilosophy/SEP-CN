@@ -1,0 +1,348 @@
+{
+ "key": "cell senescence",
+ "term": "cell senescence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T01:21:54+00:00",
+ "status": "ok",
+ "note": "variant=cell senescence; 审定公布名词库=4107; 海峡两岸名词对照库=1897; 其他来源数据库=78; 预公布名词数据库=100; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "细胞衰老",
+   "en": "cell aging,cell senescence",
+   "code": "01.092",
+   "standard": "病理学名词",
+   "subject": "病理学_总论"
+  },
+  {
+   "cn": "细胞衰老",
+   "en": "cell aging,cell senescence",
+   "code": "02.101",
+   "standard": "组织学与胚胎学名词",
+   "subject": "组织学与胚胎学_组织学_细胞"
+  },
+  {
+   "cn": "细胞衰老",
+   "en": "cell aging,cell senescence",
+   "code": "06.291",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞分化与发育"
+  },
+  {
+   "cn": "细胞衰老",
+   "en": "cell aging;cell senescence",
+   "code": "2.166",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "衰老",
+   "en": "senescence",
+   "code": "03.836",
+   "standard": "急救医学名词",
+   "subject": "急救医学_日常医学急救_老年学_老年学概论"
+  },
+  {
+   "cn": "衰老",
+   "en": "senescence",
+   "code": "03.0610",
+   "standard": "食品科学技术名词",
+   "subject": "食品科学技术_食品工程_食品专用技术与装备_贮藏保鲜"
+  },
+  {
+   "cn": "衰老",
+   "en": "senescence",
+   "code": "11.0639",
+   "standard": "植物学名词",
+   "subject": "植物学_植物生理学_植物成熟与衰老生理"
+  },
+  {
+   "cn": "衰老",
+   "en": "senescence",
+   "code": "01.011",
+   "standard": "老年医学名词",
+   "subject": "老年医学_老年医学概论"
+  },
+  {
+   "cn": "衰老",
+   "en": "senescence",
+   "code": "02.449",
+   "standard": "林学名词",
+   "subject": "林学_林学基础_树木生理"
+  },
+  {
+   "cn": "老年化",
+   "en": "senescence",
+   "code": "10.004",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_老年医学"
+  },
+  {
+   "cn": "作物衰老",
+   "en": "crop senescence",
+   "code": "07.027",
+   "standard": "农学名词",
+   "subject": "作物生理生态_生长与发育生理"
+  },
+  {
+   "cn": "早衰",
+   "en": "early senescence",
+   "code": "07.028",
+   "standard": "农学名词",
+   "subject": "作物生理生态_生长与发育生理"
+  },
+  {
+   "cn": "细胞衰老",
+   "en": "cell aging\",\"cell senescence",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "细胞衰老",
+   "en": "cell aging\",\"cell senescence",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "衰老",
+   "en": "senescence",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "衰老",
+   "en": "senescence",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "衰老",
+   "en": "senescence\",\"senility",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "卵巢老化",
+   "en": "ovarian senescence",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "渐进衰老",
+   "en": "progressive senescence",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "脱落衰老",
+   "en": "deciduous senescence",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "叶片衰老",
+   "en": "leaf senescence",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "整体衰老",
+   "en": "overall senescence",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "种老化",
+   "en": "species senescence",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "衰老相关基因",
+   "en": "senescence-associated gene\",\"SAG",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "细胞",
+   "en": "Cell",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "记忆细胞",
+   "en": "Memory cell",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "细胞分裂",
+   "en": "cell division",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "细胞生物学",
+   "en": "cell biology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "芳香化酶",
+   "en": "（granulosa cell",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "燃料电池",
+   "en": "Fuel cell",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "B细胞",
+   "en": "B cell",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据单元",
+   "en": "data cell",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "促性腺激素",
+   "en": "gonadotropic cell",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "白细胞介素-6",
+   "en": "mesangial cell",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "正钒酸钠",
+   "en": "cell lysate",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "催乳素",
+   "en": "Lactotropic cell",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "电解槽",
+   "en": "electrolytic cell",
+   "code": "3.1.2.10.3.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "宿主细胞",
+   "en": "host cell",
+   "code": "6.2.26.8.7",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "细胞培养",
+   "en": "cell culture",
+   "code": "6.2.26.8.8",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "细胞杂交",
+   "en": "cell hybrid",
+   "code": "4.1.4.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射生物效应及其机制"
+  },
+  {
+   "cn": "细胞转化",
+   "en": "cell transformation",
+   "code": "4.1.4.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射生物效应及其机制"
+  },
+  {
+   "cn": "细胞周期",
+   "en": "cell cycle",
+   "code": "4.1.4.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射生物效应及其机制"
+  },
+  {
+   "cn": "热室",
+   "en": "hot cell",
+   "code": "5.4.3.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测类型_工作场所监测"
+  },
+  {
+   "cn": "放射性同位素电池",
+   "en": "radioisotope cell",
+   "code": "6.5.4.20",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用"
+  },
+  {
+   "cn": "浆细胞",
+   "en": "plasma cell",
+   "code": "1.3.3.7",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_免疫细胞"
+  },
+  {
+   "cn": "网状细胞",
+   "en": "reticular cell",
+   "code": "1.3.3.20",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_免疫细胞"
+  },
+  {
+   "cn": "干细胞",
+   "en": "stem cell",
+   "code": "1.3.3.22",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_免疫细胞"
+  },
+  {
+   "cn": "靶细胞",
+   "en": "target cell",
+   "code": "1.3.3.29",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_免疫细胞"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

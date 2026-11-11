@@ -1,11 +1,327 @@
 {
- "key": "chuch’e（主體）",
+ "key": "chuch'e（主體）",
  "term": "chuch’e（主體）",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T14:52:58+00:00",
- "status": "error",
- "note": "variant=chuch’e（主體）; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "chuch’e（主體）: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T01:27:54+00:00",
+ "status": "ok",
+ "note": "variant=chuch’e（主體）; 审定公布名词库=604; 海峡两岸名词对照库=239; 其他来源数据库=16; 预公布名词数据库=9; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "主旋回",
+   "en": "principal cycle",
+   "code": "10.03.045",
+   "standard": "地质学名词",
+   "subject": "地质学_大地构造学_其他大地构造学说"
+  },
+  {
+   "cn": "主应变",
+   "en": "principal strain",
+   "code": "09.02.043",
+   "standard": "地质学名词",
+   "subject": "地质学_构造地质学_应力与应变"
+  },
+  {
+   "cn": "主色",
+   "en": "mass-tone;mass-colour",
+   "code": "05.0389",
+   "standard": "精细化工名词",
+   "subject": "精细化工_涂料_涂装"
+  },
+  {
+   "cn": "敢告主",
+   "en": "gan gao zhu",
+   "code": "07.02.017",
+   "standard": "档案学名词",
+   "subject": "档案学_历史文书_文书用语"
+  },
+  {
+   "cn": "主书",
+   "en": "zhu shu",
+   "code": "08.03.006",
+   "standard": "档案学名词",
+   "subject": "档案学_中国档案事业史_文档官吏"
+  },
+  {
+   "cn": "主簿",
+   "en": "zhu bu",
+   "code": "08.03.014",
+   "standard": "档案学名词",
+   "subject": "档案学_中国档案事业史_文档官吏"
+  },
+  {
+   "cn": "主链",
+   "en": "backbone",
+   "code": "1.0135",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_总论"
+  },
+  {
+   "cn": "主序",
+   "en": "main sequence",
+   "code": "04.063",
+   "standard": "天文学名词",
+   "subject": "天文学_天体物理学"
+  },
+  {
+   "cn": "主镜",
+   "en": "primary mirror",
+   "code": "06.049",
+   "standard": "天文学名词",
+   "subject": "天文学_天文仪器与技术"
+  },
+  {
+   "cn": "主穴",
+   "en": "major point",
+   "code": "19.609",
+   "standard": "兽医学名词",
+   "subject": "兽医学_中兽医学"
+  },
+  {
+   "cn": "主簿",
+   "en": "zhu bu;recorder",
+   "code": "3.067",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_秦汉_政治_中央及地方职官"
+  },
+  {
+   "cn": "主标题",
+   "en": "headline",
+   "code": "02.08.063",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_编辑_报刊编辑"
+  },
+  {
+   "cn": "主静脉",
+   "en": "cardinal vein\",\"vena cardinalis",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "主缢痕",
+   "en": "primary constriction",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "主軸",
+   "en": "caudex",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "主波",
+   "en": "major wave",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "主锋",
+   "en": "principal front",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "主虹",
+   "en": "primary rainbow",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "主脊",
+   "en": "major ridge",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "主反应",
+   "en": "primary reaction",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "主发酵",
+   "en": "principal fermentation",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "主增塑剂",
+   "en": "primary plasticizer",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "主效应",
+   "en": "main effect",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "主增塑剂",
+   "en": "primary plasticizer",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "主元",
+   "en": "pivotpivot element",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "主簿",
+   "en": null,
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "主丛",
+   "en": null,
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "主数据",
+   "en": "master data",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "主羽",
+   "en": "cock feather\",\"cock vane",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "主肋骨",
+   "en": "main frame\",\"midship",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "主序星",
+   "en": "main sequence",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "主序前星",
+   "en": "Zero age main sequence",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "子宫主韧带",
+   "en": "cardinal ligament,Mackenrodt's ligamentlateral cervical ligament,transverse cervical ligament",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "主生产计划",
+   "en": null,
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "主成分分析",
+   "en": "principal component analysis (PCA)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "主飞行显示器",
+   "en": "primary flight display",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "主屏蔽",
+   "en": "primary shielding",
+   "code": "6.2.2.36",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计"
+  },
+  {
+   "cn": "主效应",
+   "en": "main effect",
+   "code": "1.2.5.65",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "鬼主",
+   "en": "Spirit Chief; Guizhu",
+   "code": "3.0251",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族政治"
+  },
+  {
+   "cn": "主检医师",
+   "en": "chief examining physician",
+   "code": "4.3.2.21",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查"
+  },
+  {
+   "cn": "主成份分析",
+   "en": "principal components analysis",
+   "code": "1.2.5.129",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "主诊断分类",
+   "en": "major diagnostic categories，MDCs",
+   "code": "10.2.16.5",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度"
+  },
+  {
+   "cn": "主觉验光",
+   "en": "subjective refraction",
+   "code": "3.2.2.2.5.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测"
+  },
+  {
+   "cn": "案主中心理论",
+   "en": "client-centered theory",
+   "code": "4.4.7.23",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作理论"
+  },
+  {
+   "cn": "案主来源及类型",
+   "en": "source and type of cliental",
+   "code": "4.4.4.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的过程"
+  }
+ ],
+ "error": null,
  "raw": null
 }

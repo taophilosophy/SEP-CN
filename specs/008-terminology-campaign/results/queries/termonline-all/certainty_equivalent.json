@@ -2,10 +2,312 @@
  "key": "certainty equivalent",
  "term": "certainty equivalent",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T14:45:27+00:00",
- "status": "error",
- "note": "variant=certainty equivalent; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "certainty equivalent: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T01:24:54+00:00",
+ "status": "ok",
+ "note": "variant=certainty equivalent; 审定公布名词库=584; 海峡两岸名词对照库=161; 其他来源数据库=7; 预公布名词数据库=59; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "确定性分析",
+   "en": "certainty analysis",
+   "code": "13.103",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_化工技术经济"
+  },
+  {
+   "cn": "确定型决策",
+   "en": "certainty decision",
+   "code": "13.110",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_化工技术经济"
+  },
+  {
+   "cn": "确定型决策",
+   "en": "certainty decision",
+   "code": "10.172",
+   "standard": "经济学名词",
+   "subject": "经济学_数量经济学"
+  },
+  {
+   "cn": "确定性因子方法",
+   "en": "certainty factor theory",
+   "code": "08.0112",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_自动推理"
+  },
+  {
+   "cn": "确定型决策",
+   "en": "decision making under certainty",
+   "code": "01.0042",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_基本概念"
+  },
+  {
+   "cn": "对等词",
+   "en": "equivalent",
+   "code": "06.084",
+   "standard": "语言学名词",
+   "subject": "语言学_辞书学_辞书编纂"
+  },
+  {
+   "cn": "等效",
+   "en": "equivalent",
+   "code": "13.0282",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_航行管理与法规"
+  },
+  {
+   "cn": "等效性",
+   "en": "equivalence",
+   "code": "06.0168",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_相对论"
+  },
+  {
+   "cn": "当量",
+   "en": "equivalence",
+   "code": "11.004",
+   "standard": "呼吸病学名词",
+   "subject": "呼吸病学_体液、电解质与酸碱平衡_体液与电解质平衡"
+  },
+  {
+   "cn": "等价[性]",
+   "en": "equivalence",
+   "code": "01.0037",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "等值宽度",
+   "en": "equivalent width; equivalent breadth",
+   "code": "04.168",
+   "standard": "天文学名词",
+   "subject": "天文学_天体物理学"
+  },
+  {
+   "cn": "等效位置",
+   "en": "equivalent position",
+   "code": "02.00.165",
+   "standard": "地质学名词",
+   "subject": "地质学_结晶学"
+  },
+  {
+   "cn": "确定因子",
+   "en": "certainty factor",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "确信度",
+   "en": "certainty factor\",\"CF",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "等效",
+   "en": "equivalent",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "当量",
+   "en": "equivalent",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "等效",
+   "en": "equivalent",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "等值",
+   "en": "equivalent",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "腔上囊类同器官",
+   "en": "bursa equivalent",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "等价种（=等值种）",
+   "en": "equivalent species",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "等位种（=等值种）",
+   "en": "equivalent species",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "等值种，等位种，等价种",
+   "en": "equivalent species",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "相当温度",
+   "en": "equivalent temperature",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "等当点",
+   "en": "equivalent point",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "等价关系",
+   "en": "Equivalence relation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义对等",
+   "en": "semantic equivalence",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "等效全向辐射功率",
+   "en": "equivalent isotropic radiated power",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "有线等效加密",
+   "en": "wired equivalent privacy (WEP)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "雪水当量",
+   "en": "snow water equivalant, SWE",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "不确定[性]原理",
+   "en": "uncertainty principle",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据高度不确定性",
+   "en": "high uncertainty of data",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "等价物",
+   "en": "equivalent",
+   "code": "02.0059",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "当量剂量",
+   "en": "equivalent dose",
+   "code": "3.3.1.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量"
+  },
+  {
+   "cn": "剂量当量",
+   "en": "dose equivalent",
+   "code": "3.3.2.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_辐射防护量_实用量"
+  },
+  {
+   "cn": "衰减当量",
+   "en": "attenuation equivalent",
+   "code": "6.2.2.30",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计"
+  },
+  {
+   "cn": "铅当量",
+   "en": "lead equivalent",
+   "code": "6.2.2.31",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计"
+  },
+  {
+   "cn": "铝当量",
+   "en": "aluminum equivalent",
+   "code": "6.4.1.19",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_医用电离辐射"
+  },
+  {
+   "cn": "等效能量",
+   "en": "equivalent energy",
+   "code": "6.4.1.20",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_医用电离辐射"
+  },
+  {
+   "cn": "等价交换",
+   "en": "equivalent exchange",
+   "code": "02.0035",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "一般等价物",
+   "en": "universal equivalent",
+   "code": "02.0065",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "特殊等价物",
+   "en": "particular equivalent",
+   "code": "02.0066",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "个别等价物",
+   "en": "individual equivalent",
+   "code": "02.0067",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "等效球镜",
+   "en": "spherical equivalent",
+   "code": "3.2.2.2.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测"
+  }
+ ],
+ "error": null,
  "raw": null
 }

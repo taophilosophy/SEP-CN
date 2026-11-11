@@ -557,6 +557,17 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
     argument from above/below、arousal theory（下位）、association relation、anti-theory、back-and-forth、
     bar induction、Barwise compactness theorem、affirmative action（审定为「肯定性行动计划」下位，通行「平权行动」）。
 
+### 二、二轮第二批（offset 208–264，11 条，b/c 段补查）
+
+* 审计刷新：一致 672 / 不一致 469 / 查无 2598 / 未查证 5169；新增不一致 11 条，**全部保留现译**：
+  * 体例/通行形：belief contraction / expansion（AGM 正条用裸形「收缩/扩充」，与修正对举；审定「信念收缩/信念扩展」为复合形）、
+    bisimulation（模态逻辑通行「互模拟」9 处，审定 CS「双模拟」）、cancer stem cell（肿瘤生物学通行「癌症干细胞」15 处；
+    审定命中出自化工名词库）、Cartesian product（审定「笛卡儿积」与人名表主形「笛卡尔」不一致，保留「笛卡尔积」）。
+  * 假阳性/下位：belief merging（审定「信念融合」，本库 31 处用「信念合并」）、Big Five（量表/模型下位词）、
+    body politic（命中 body politics 异词）、cardinal（语言学/地理异义）、causal closure（审定「物理因果闭合」为限定短语）、
+    bhūta（维基垃圾）。
+
+
 
 
 
