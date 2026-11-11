@@ -2226,6 +2226,7 @@
 | human agency | — | 人类能动性 | 语料回收 | 审定名词库（termonline-all·“人类能动性”在案（域标地理学，哲学通行同形），2026-10-30 浏览器通道凭证） | 2026-10-30 |
 | human embryonic stem cell (HESC) | — | 人类胚胎干细胞 | 首译（stem-cells） | 学界惯例（干细胞生物学通行；HESC 缩写保留）；凭证 2026-11-09 | 2026-11-09 |
 | Human Genome Project | — | 人类基因组计划 | model-organisms 首译 | 大科学计划通行译名；凭证 2026-11-09 | 2026-11-09 |
+| Humean mosaic | — | 休谟式马赛克 | quantum-bayesian | 刘易斯形而上学学界通译（休谟随附性图景：全部局部特殊事实的排列）；联网查证 2026-11-12 | 2026-11-12 |
 | human legislator | — | 人类立法者 | marsilius-padua | 学界通行（马西利乌斯核心概念 legislator humanus）；凭证 2026-11-08 | 2026-11-08 |
 | human nature | — | 人性 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | human rights | — | 人权 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
@@ -2627,6 +2628,7 @@
 | Kantianism | — | 康德主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | kaozhengxue | 考證學 | 考证学 | dai-zhen | 清代学术史通行译名（梁启超《清代学术概论》语；英 evidential learning）；凭证 2026-11-07 | 2026-11-07 |
 | kapi-samyoga | — | 与猴相触 | early-modern-india | 正理教科书标准例（in contact with a monkey）；凭证 2026-11-10；正文作“与猴相触”（校 2026-11-11）| 2026-11-10 |
+| Kochen-Specker theorem | — | 科亨-施佩克尔定理 | quantum-bayesian | 沿词条 k/kochen-specker 定名（H1 同形）；凭证 2026-11-12 | 2026-11-12 |
 | kara-e | 唐絵 | 唐绘 | japanese-aesthetics | 学界惯例（日本美术史研究通行译法“唐绘”） | 2026-11-02 |
 | karagokoro | 漢意（からごころ） | 汉意 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | Karaite | — | 卡拉派 | 首译（saadya） | 犹太教史通行（Karaism 卡拉派，否认口传律法之约束力）；凭证 2026-11-09 | 2026-11-09 |
@@ -3813,6 +3815,7 @@
 | Poincaré transformations | Poincaré transformations | 庞加莱变换 | spacetime-convensimul | 学界惯例（物理学通行） | 2026-11-06 |
 | point-coincidence argument | — | 点重合论证 | spacetime-holearg | B 档（Stachel 术语，学界通行译名） | 2026-10-28 |
 | point-mass | — | 质点 | newton | 力学通行；凭证 2026-11-08 | 2026-11-08 |
+| pointer basis | — | 指针基 | quantum-bayesian | 退相干理论通行（沿 pointer observable 行“指针”口径，basis 作“基”与 Hilbert space 基一致）；凭证 2026-11-12 | 2026-11-12 |
 | pointer observable | — | 指针可观测量 | qm | 学界惯例（pointer 审定库作“指针”，observable 审定库作“可观测量”）；凭证 2026-11-11 | 2026-11-11 |
 | pointer variable | — | 指针变量 | qm-relational | 沿 qm 行“指针可观测量”；学界惯例；凭证 2026-11-11 | 2026-11-11 |
 | polarization | — | 偏振 | qt-entangle | 审定名词库（物理学名词 polarization）；凭证 2026-11-09 | 2026-11-09 |
@@ -3884,6 +3887,7 @@
 | praedicamentum signi | praedicamentum signi | 符号范畴 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法（亦作 praedicamentum termini 词项范畴）；凭证 2026-11-06 | 2026-11-06 |
 | Praepositinianism | — | 普雷波西提尼主义 | gregory-rimini | 由 Praepositinus（普雷波西提努斯）派生（三一论立场名）；凭证 2026-11-10 | 2026-11-10 |
 | prāgabhāva | प्रागभाव | 先无 | early-modern-india | 胜论四种非存在义译（prior nonexistence）；凭证 2026-11-10 | 2026-11-10 |
+| preparation | — | 制备 | quantum-bayesian | 量子力学/量子信息通行（measurement 之对，Bächtold“制备”与 Barad 译法同形）；凭证 2026-11-12 | 2026-11-12 |
 | pragmatic encroachment | — | 实用侵入 | knowledge-analysis | 知识论通行（Stanley 谱系；亦作“语用侵入”，不作主形） | 2026-11-05 |
 | pragmatics | — | 语用学 | 首译（stebbing） | 语言学通行汉译（与句法学、语义学三分）；凭证 2026-11-09 | 2026-11-09 |
 | pragmatism | — | 实用主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
@@ -5599,6 +5603,7 @@
 | Weltanschauung | Weltanschauung | 世界观 | dilthey 首译 | 德语原词，学界通用汉译；凭证 2026-11-10；德语原形即键（2026-11-10 取证） | 2026-11-10 |
 | Weltfreiheit | Weltfreiheit | 脱离世界 | yorck 首译 | B 档：词面直译（作者英译 freedom from the world）；凭证 2026-11-11 | 2026-11-11 |
 | Weltorientierung | Weltorientierung | 世界定向 | jaspers 首译 | 学界通行（《哲学》第一卷卷名）；凭证 2026-11-09 | 2026-11-09 |
+| Wigner’s friend | — | 维格纳朋友 | quantum-bayesian | 首译（悖论名“维格纳朋友悖论”，学界通行）；凭证 2026-11-12 | 2026-11-12 |
 | wen nan | 問難 | 问难 | han-dynasty | 王充术语（questioning and challenging）；上游自带汉字 | 2026-11-10 |
 | Werden | Werden | 生成（Werden） | gadamer-aesthetics | 学界惯例（德国古典哲学通行） | 2026-11-01 |
 | what expresses / what is expressed（rjod byed / brjod bya） | — | 能诠／所诠 | epistemology-language-tibetan | 佛学界通行 | 2026-11-04 |
