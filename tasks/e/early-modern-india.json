@@ -2,7 +2,7 @@
   "slug": "early-modern-india",
   "kind": "retranslate",
   "zh_doc": "e/early-modern-india.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -94,6 +94,20 @@
       "actor": "E-main-20261111",
       "at": "2026-11-11T14:47:43Z",
       "evidence": "r2 术语/人名对账：正文↔登记册双向校准——(1) 正文修正 anyonyābhāva 别异→互无（登记册互无（别异非存在））2 处、Mathuranātha 汉化 1 处；(2) 登记册 27 行校准为现行文本形态（śabda 声量→证言、yogyatā 义适→语义适切、pramā 正智→真认知、viparyaya 颠倒→假、viśiṣṭābhāva/kevalābhāva/ubhayābhāva/anyatarābhāva、六种感官连接三名、kapi-samyoga、abhivyāpya、ākāṅkṣā、āhāryāropa、itarānvita、jāti-viśiṣṭa-vyakti、yathārthavaktā、śaktaṃ padam、pratiyogitāvacchedaka、sa-viṣayaka、yathārtha-yogyatā-jñāna、abhāva-kūṭa、śakti-jñāna、viparyaya、niyata、aprasiddha、paramātman）；(3) 补登术语 22 行（pada/artha/bhāva/dharma 功德/adharma/adṛṣṭa 不可见力/三种 kāraṇa/anupalabdhi-hetu/anvaya-vyatirekin/svārtha/parārtha/hetvābhāsa/tātparya/prakāra/saprakāraka/niṣprakāraka/sa-viṣayaka/viśeṣaṇa-viśeṣya-bhāva/yathārtha-yogyatā-jñāna/Nyāyasiddhāntamañjarī）；check_terms 登记册自洽 exit 0、--docs 告警由 30 降至 8（余 4 条为正文描述性短语与 4 条为现代学者姓氏省称，均属体例）；人名全部在册，唯一正文出现的历史人物 Mathuranātha 已汉化"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "E-main-20261111",
+      "at": "2026-11-11T15:34:04Z",
+      "evidence": "r3 终检：check_all 全量 9 项全绿（SUMMARY 结构/分类目录/单体大小/垃圾入库/图片/术语一致性/直角引号/学术规范/管线单测）；定点 check_style --strict 0、check_academic --strict OK、check_prose 5 条 ADR-0020 豁免（引文/术语/实义动词/引文内例词）、check_math missing+unbalanced 0；结构五维（K 工具口径）headings 12:12 与 33:33、正文 marker 22:22、defs 58:58 键集全等、blocks 255:254（差 1 为源文 byline 块，体例不收）、年份与相关词条 12 项均核；check_terms 自洽 exit 0"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "E-main-20261111",
+      "at": "2026-11-11T15:34:04Z",
+      "evidence": "done：737 行/51622 字符全量零信任重译（specs/015 语体裁定后重做，现代白话）；账本 302 段守恒；r1 冷读修复列表编号 8 组 25 行、r2 术语 27 行校准+22 行补登、r3 九项门禁全绿"
     }
   ],
   "blockers": [],
