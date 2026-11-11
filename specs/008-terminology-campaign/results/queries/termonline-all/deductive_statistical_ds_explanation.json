@@ -1,0 +1,348 @@
+{
+ "key": "deductive-statistical (ds) explanation",
+ "term": "deductive-statistical (DS) explanation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T02:38:30+00:00",
+ "status": "ok",
+ "note": "variant=deductive-statistical (DS) explanation; 审定公布名词库=848; 海峡两岸名词对照库=225; 其他来源数据库=44; 预公布名词数据库=38; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "说明的演绎-律则模型",
+   "en": "deductive-nomological model of explanation",
+   "code": "03.106",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_说明"
+  },
+  {
+   "cn": "说明",
+   "en": "explanation",
+   "code": "03.100",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_说明"
+  },
+  {
+   "cn": "训释",
+   "en": "explanation",
+   "code": "10.021",
+   "standard": "语言学名词",
+   "subject": "语言学_训诂学_训释"
+  },
+  {
+   "cn": "解释",
+   "en": "explanation",
+   "code": "05.105",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制"
+  },
+  {
+   "cn": "扣除",
+   "en": "deduction",
+   "code": "03.0602",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学设备与操作_图像分析技术"
+  },
+  {
+   "cn": "免赔额",
+   "en": "deductible",
+   "code": "07.0433",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_金融工程_技术"
+  },
+  {
+   "cn": "绝对免赔额",
+   "en": "deductible",
+   "code": "13.0192",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_航行管理与法规"
+  },
+  {
+   "cn": "说明的归纳-统计模型",
+   "en": "inductive-statistical model of explanation",
+   "code": "03.107",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_说明"
+  },
+  {
+   "cn": "说明的统计-相关模型",
+   "en": "statistical-relevance model of explanation",
+   "code": "03.108",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_说明"
+  },
+  {
+   "cn": "解离因子",
+   "en": "dissociator,Ds",
+   "code": "02.401",
+   "standard": "遗传学名词",
+   "subject": "遗传学_经典遗传学"
+  },
+  {
+   "cn": "ds区元素",
+   "en": "ds-block element",
+   "code": "01.0079",
+   "standard": "化学名词",
+   "subject": "化学_无机化学_元素及无机化学"
+  },
+  {
+   "cn": "DS型气流分散分级器",
+   "en": "DS dispersion separator",
+   "code": "3.1566",
+   "standard": "化工名词（八）化工装备",
+   "subject": "化工（八）_化工设备_分级设备"
+  },
+  {
+   "cn": "Ds因子",
+   "en": "Ds element",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "演绎",
+   "en": "deduction",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "绝对免赔额",
+   "en": "deductible",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "解离因子",
+   "en": "dissociator\",\"Ds",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "Ac-Ds因子",
+   "en": "Ac-Ds element",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "ds区元素",
+   "en": "ds-block element",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "假设─演绎",
+   "en": "hypothetico-deductive",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "演绎模拟",
+   "en": "deductive simulation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "演绎数据",
+   "en": "deductive data",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "演绎数据库",
+   "en": "deductive database",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "演绎数学",
+   "en": "deductive mathematics",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "扣分",
+   "en": "deduction",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "追加扣分",
+   "en": "additional deduction\",\"supplementary deduction",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "Deductive Reasoning",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "总扣分",
+   "en": "general deduction",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "扣分判罚",
+   "en": "deduction penalty\",\"deduction point\",\"gamjeom\",\"sanction",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "说知",
+   "en": "Knowledge from Explanation",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "解释学习",
+   "en": "explanation-based learning",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "扣分",
+   "en": "deduction of points",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "总体",
+   "en": "statistical population",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "统计力学",
+   "en": "statistical mechanics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "统计分布",
+   "en": "statistical distribution",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "顺序统计量",
+   "en": "Order Statistics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "起付线",
+   "en": "deductible",
+   "code": "11.4.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_健康保险_健康保险费用分担机制"
+  },
+  {
+   "cn": "演绎法",
+   "en": "deductive method",
+   "code": "1.2.1.22",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_方法论"
+  },
+  {
+   "cn": "统计量",
+   "en": "statistic",
+   "code": "1.2.5.39",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "脱髓鞘综合征",
+   "en": "demyelinating syndrome，DS",
+   "code": "2.18.8.24",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征"
+  },
+  {
+   "cn": "统计显著性",
+   "en": "statistical significance",
+   "code": "1.2.5.34",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "统计显著性",
+   "en": "statistical significance",
+   "code": "1.4.2.45",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "统计学模式",
+   "en": "statistical model",
+   "code": "1.0569",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "描述性统计",
+   "en": "descriptive statistics",
+   "code": "1.2.5.41",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "推论性统计",
+   "en": "inferential statistics",
+   "code": "1.2.5.62",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "问题界定与分析解释",
+   "en": "problem definition, analysis and explanation",
+   "code": "4.4.4.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的过程"
+  },
+  {
+   "cn": "数据统计系统",
+   "en": "data statistics system",
+   "code": "3.7.1.2.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理"
+  },
+  {
+   "cn": "军队卫生统计学",
+   "en": "military health statistics",
+   "code": "15",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队卫生统计学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -2,10 +2,326 @@
  "key": "deontic modality",
  "term": "deontic modality",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T17:30:09+00:00",
- "status": "error",
- "note": "variant=deontic modality; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "deontic modality: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T02:41:30+00:00",
+ "status": "ok",
+ "note": "variant=deontic modality; 审定公布名词库=390; 海峡两岸名词对照库=151; 其他来源数据库=9; 预公布名词数据库=69; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "道义逻辑",
+   "en": "deontic logic",
+   "code": "08.0034",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_人工智能逻辑"
+  },
+  {
+   "cn": "模态",
+   "en": "modality",
+   "code": "04.087",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_神经生物物理学_多模态感觉信息加工"
+  },
+  {
+   "cn": "感觉模态",
+   "en": "sensory modality",
+   "code": "03.210",
+   "standard": "生理学名词",
+   "subject": "生理学_神经生理学"
+  },
+  {
+   "cn": "透析模式",
+   "en": "dialysis modality",
+   "code": "11.049",
+   "standard": "器官移植学名词",
+   "subject": "器官移植学_肾移植_肾移植受者评估"
+  },
+  {
+   "cn": "感觉[通]道",
+   "en": "sense modality",
+   "code": "02.023",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "模式",
+   "en": "(1) modality (2) pattern",
+   "code": "01.0033",
+   "standard": "核医学名词",
+   "subject": "核医学_总论"
+  },
+  {
+   "cn": "模态结构主义",
+   "en": "modal structuralism",
+   "code": "03.286",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "模态虚构主义",
+   "en": "modal fictionalism",
+   "code": "03.287",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "众数",
+   "en": "modal number",
+   "code": "4.277",
+   "standard": "血液学名词",
+   "subject": "血液学_常用检查_血液病理检测_遗传学检测相关"
+  },
+  {
+   "cn": "模态分析",
+   "en": "modal analysis",
+   "code": "02.0091",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械动力学_机械振动"
+  },
+  {
+   "cn": "模态参数",
+   "en": "modal parameter",
+   "code": "02.0092",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械动力学_机械振动"
+  },
+  {
+   "cn": "模态刚度",
+   "en": "modal stiffness",
+   "code": "02.0093",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械动力学_机械振动"
+  },
+  {
+   "cn": "模态",
+   "en": "modality",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "调式的",
+   "en": "modal",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "宇宙模型",
+   "en": "world modal",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "模[式]色散",
+   "en": "modal dispersion",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "模式噪声",
+   "en": "modal noise",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "模态逻辑",
+   "en": "modal logic",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "模态双折射性",
+   "en": "modal birefringence",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "模态展开",
+   "en": "modal expansion",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "模间色散",
+   "en": "inter-modal dispersion",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "模内色散",
+   "en": "intra-modal dispersion",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "重量摩尔浓度",
+   "en": "molality",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "分项",
+   "en": "discipline\",\"modality",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "方钠石",
+   "en": "Sodalite",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "电子迁移率",
+   "en": "electron mobility",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "共享出行",
+   "en": "shared mobility",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "智慧出行",
+   "en": "smart mobility",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality rate ",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "医学词汇_其他医学词汇"
+  },
+  {
+   "cn": "访问局部性",
+   "en": "Locality of reference",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "高电子迁移率晶体管",
+   "en": "High electron mobility transistor",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "以义制事",
+   "en": "Handle Matters According to Morality and Justice",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "code": "2.8.2.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会制度_社会规范"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "code": "01.0154",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "code": "1.006",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "总体性",
+   "en": "totality",
+   "code": "05.0003",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality",
+   "code": "3.5.1.10.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测"
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality",
+   "code": "3.7.11.17",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食源性疾病负担"
+  },
+  {
+   "cn": "体育品德",
+   "en": "sports morality",
+   "code": "7.1.3.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校体育与身体活动_学校体育"
+  },
+  {
+   "cn": "私德",
+   "en": "private morality",
+   "code": "1.0090000000000001",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "底线道德",
+   "en": "bottomline morality",
+   "code": "1.06",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "公德",
+   "en": "public morality",
+   "code": "1.008",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "性道德教育",
+   "en": "sex morality education",
+   "code": "3.3.1.2.1.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_围婚期保健"
+  },
+  {
+   "cn": "流动表",
+   "en": "mobility table",
+   "code": "1.2.5.114",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  }
+ ],
+ "error": null,
  "raw": null
 }

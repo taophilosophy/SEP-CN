@@ -1,0 +1,26 @@
+{
+ "key": "cyberterrorism",
+ "term": "cyberterrorism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T02:27:59+00:00",
+ "status": "ok",
+ "note": "variant=cyberterrorism; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "网络恐怖主义",
+   "en": "cyber-terrorism",
+   "code": "10.0366",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘"
+  },
+  {
+   "cn": "网络恐怖主义",
+   "en": "cyber terrorism",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

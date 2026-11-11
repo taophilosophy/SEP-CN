@@ -1,0 +1,187 @@
+{
+ "key": "deducibility",
+ "term": "deducibility",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T02:35:29+00:00",
+ "status": "ok",
+ "note": "variant=deducibility; 审定公布名词库=14; 海峡两岸名词对照库=11; 其他来源数据库=2; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "还原度",
+   "en": "reducibility",
+   "code": "02.149",
+   "standard": "化工名词（六）生物化工",
+   "subject": "化工（六）_代谢工程与合成生物学_代谢工程_弗兰克-沃尔夫法"
+  },
+  {
+   "cn": "可教性",
+   "en": "educability",
+   "code": "01.028",
+   "standard": "教育学名词",
+   "subject": "教育学_教育基本理论"
+  },
+  {
+   "cn": "图灵归约",
+   "en": "Turing reducibility",
+   "code": "02.0202",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "卡普可归约性",
+   "en": "Karp reducibility",
+   "code": "02.0324",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "库克可归约性",
+   "en": "Cook reducibility",
+   "code": "02.0323",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "自归约",
+   "en": "self-reducibility",
+   "code": "02.0418",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "完全可约性",
+   "en": "complete reducibility",
+   "code": "04.1930",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_群论"
+  },
+  {
+   "cn": "还原公理",
+   "en": "axiom of reducibility",
+   "code": "03.273",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "正交完全可约性",
+   "en": "orthogonal complete reducibility",
+   "code": "04.1933",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_群论"
+  },
+  {
+   "cn": "真假值表归约性",
+   "en": "truth table reducibility",
+   "code": "02.0288",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_递归论"
+  },
+  {
+   "cn": "一一可归约性",
+   "en": "one-one reducibility",
+   "code": "02.0285",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_递归论"
+  },
+  {
+   "cn": "多一可归约性",
+   "en": "many one reducibility",
+   "code": "02.0287",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_递归论"
+  },
+  {
+   "cn": "演绎",
+   "en": "deduce",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "可归约性",
+   "en": "reducibility",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "纯正可归约性",
+   "en": "honest reducibility",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "卡普可归约性",
+   "en": "Karp reducibility",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "库克可归约性",
+   "en": "Cook reducibility",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "平均归约[性]",
+   "en": "average reducibility",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "随机归约[性]",
+   "en": "random reducibility",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "图灵可归约性",
+   "en": "Turing reducibility",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "多一可归性",
+   "en": "many-one reducibility",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "随机自归约[性]",
+   "en": "random self-reducibility",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "真值表可归约性",
+   "en": "truth-table reducibility",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "扣分",
+   "en": "deduce\",\"penalize\",\"deduction\",\"penalty",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "可归约性",
+   "en": "reducibility",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

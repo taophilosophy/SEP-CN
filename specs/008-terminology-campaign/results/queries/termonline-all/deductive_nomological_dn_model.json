@@ -1,0 +1,348 @@
+{
+ "key": "deductive-nomological (dn) model",
+ "term": "deductive-nomological (DN) model",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T02:38:30+00:00",
+ "status": "ok",
+ "note": "variant=deductive-nomological (DN) model; 审定公布名词库=3871; 海峡两岸名词对照库=1190; 其他来源数据库=187; 预公布名词数据库=219; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "说明的演绎-律则模型",
+   "en": "deductive-nomological model of explanation",
+   "code": "03.106",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_说明"
+  },
+  {
+   "cn": "演绎建模法",
+   "en": "deductive modeling method",
+   "code": "04.575",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_控制技术_仿真"
+  },
+  {
+   "cn": "律则必然性",
+   "en": "nomological necessity",
+   "code": "03.227",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_认识论"
+  },
+  {
+   "cn": "扣除",
+   "en": "deduction",
+   "code": "03.0602",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学设备与操作_图像分析技术"
+  },
+  {
+   "cn": "免赔额",
+   "en": "deductible",
+   "code": "07.0433",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_金融工程_技术"
+  },
+  {
+   "cn": "绝对免赔额",
+   "en": "deductible",
+   "code": "13.0192",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_航行管理与法规"
+  },
+  {
+   "cn": "演绎与归纳混合建模法",
+   "en": "deductive-inductive hybrid modeling method",
+   "code": "04.577",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_控制技术_仿真"
+  },
+  {
+   "cn": "演绎法",
+   "en": "deductive method",
+   "code": "06.150",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_分析与推理"
+  },
+  {
+   "cn": "论证诊断［法］",
+   "en": "deductive diagnosis",
+   "code": "13.329",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医临床诊断学"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive reasoning",
+   "code": "08.0102",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_自动推理"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "code": "02.644",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "演绎树",
+   "en": "deduction tree",
+   "code": "08.0051",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_人工智能逻辑"
+  },
+  {
+   "cn": "演绎",
+   "en": "deduction",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "绝对免赔额",
+   "en": "deductible",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "[数字图像]像元值",
+   "en": "DN value",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "假设─演绎",
+   "en": "hypothetico-deductive",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "演绎模拟",
+   "en": "deductive simulation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "演绎数据",
+   "en": "deductive data",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "演绎数据库",
+   "en": "deductive database",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "演绎数学",
+   "en": "deductive mathematics",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "本原演绎",
+   "en": "primitive deduction",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "锁演绎",
+   "en": "lock deduction",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "扣分",
+   "en": "deduction",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "追加扣分",
+   "en": "additional deduction\",\"supplementary deduction",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "Deductive Reasoning",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "总扣分",
+   "en": "general deduction",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "扣分判罚",
+   "en": "deduction penalty\",\"deduction point\",\"gamjeom\",\"sanction",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "DNS解析故障",
+   "en": "DNS resolution failure",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "扣分",
+   "en": "deduction of points",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "扣分",
+   "en": "deduce\",\"penalize\",\"deduction\",\"penalty",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "扣分",
+   "en": "deduction of points\",\"penalty of points",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_蹦床名词"
+  },
+  {
+   "cn": "网状模型",
+   "en": "Database model",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "关系模型",
+   "en": "Relational model",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "瀑布模型",
+   "en": "Waterfall Model",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "起付线",
+   "en": "deductible",
+   "code": "11.4.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_健康保险_健康保险费用分担机制"
+  },
+  {
+   "cn": "演绎法",
+   "en": "deductive method",
+   "code": "1.2.1.22",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_方法论"
+  },
+  {
+   "cn": "型号",
+   "en": "model",
+   "code": "5.2.8",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_产品监管"
+  },
+  {
+   "cn": "建模后相加模型",
+   "en": "model-then-add model",
+   "code": "1.4.4.90",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "传统模式",
+   "en": "traditional model",
+   "code": "4.071000000000001",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医疗人际关系"
+  },
+  {
+   "cn": "模型膳食",
+   "en": "model diets",
+   "code": "1.4.4.54",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "概率单位模型",
+   "en": "Probit model",
+   "code": "1.4.4.76",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "隔室模型",
+   "en": "compartment model",
+   "code": "6.3.2.41",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢"
+  },
+  {
+   "cn": "关联模型",
+   "en": "association model",
+   "code": "1.2.5.70",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "模型设定",
+   "en": "model specification",
+   "code": "1.2.5.97",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "对数单位模型",
+   "en": "logit model",
+   "code": "1.2.5.103",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "概率单位模型",
+   "en": "probit model",
+   "code": "1.2.5.106",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

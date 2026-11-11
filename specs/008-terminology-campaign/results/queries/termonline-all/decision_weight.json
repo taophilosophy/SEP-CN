@@ -2,10 +2,347 @@
  "key": "decision weight",
  "term": "decision weight",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T17:15:08+00:00",
- "status": "error",
- "note": "variant=decision weight; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "decision weight: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T02:35:29+00:00",
+ "status": "ok",
+ "note": "variant=decision weight; 审定公布名词库=4655; 海峡两岸名词对照库=1458; 其他来源数据库=339; 预公布名词数据库=153; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "决定",
+   "en": "decision",
+   "code": "02.01.053",
+   "standard": "档案学名词",
+   "subject": "档案学_文件管理_文件概述"
+  },
+  {
+   "cn": "决策",
+   "en": "decision",
+   "code": "09.0517",
+   "standard": "数学名词",
+   "subject": "数学_概率论_数理统计_统计决策论"
+  },
+  {
+   "cn": "判决",
+   "en": "decision",
+   "code": "05.142",
+   "standard": "电子学名词",
+   "subject": "电子学_信息论与信号处理技术"
+  },
+  {
+   "cn": "权",
+   "en": "weight",
+   "code": "02.378",
+   "standard": "测绘学名词",
+   "subject": "测绘学_大地测量学与导航定位"
+  },
+  {
+   "cn": "重量",
+   "en": "weight",
+   "code": "01.0260",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "权[重]",
+   "en": "weight",
+   "code": "01.0259",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "权［重］",
+   "en": "weight",
+   "code": "05.0030",
+   "standard": "化工名词(三)化学工程基础",
+   "subject": "化工（三）_数据处理"
+  },
+  {
+   "cn": "砝码",
+   "en": "weight",
+   "code": "03.0095",
+   "standard": "化学名词",
+   "subject": "化学_分析化学_一般术语"
+  },
+  {
+   "cn": "权值",
+   "en": "weight",
+   "code": "02.0151",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_基本概念"
+  },
+  {
+   "cn": "砝码",
+   "en": "weight",
+   "code": "03.009",
+   "standard": "计量学名词",
+   "subject": "计量学_质量、密度、衡器_质量"
+  },
+  {
+   "cn": "重量",
+   "en": "weight",
+   "code": "03.002",
+   "standard": "计量学名词",
+   "subject": "计量学_质量、密度、衡器_质量"
+  },
+  {
+   "cn": "权[重]",
+   "en": "weight",
+   "code": "07.030",
+   "standard": "化学工程名词",
+   "subject": "化学工程_数据处理"
+  },
+  {
+   "cn": "判决，决策",
+   "en": "decision",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "权重",
+   "en": "weight",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "权",
+   "en": "weight",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "砝码",
+   "en": "weight",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "权重",
+   "en": "weight",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "权",
+   "en": "weight",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "重量",
+   "en": "weight",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "加权",
+   "en": "weighting",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "加权，权重",
+   "en": "weighting",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "加权",
+   "en": "weighting",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "决断高度",
+   "en": "decision height",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "决策分析",
+   "en": "decision analysis",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "判定",
+   "en": "decision",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "判定",
+   "en": "decision",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "判决",
+   "en": "decision",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_举重名词"
+  },
+  {
+   "cn": "抗拉力",
+   "en": "weight",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "裁判灯",
+   "en": "decision light",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_举重名词"
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight category\",\"weight classification\",\"weight division",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight category\",\"weight classification\",\"weight division",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "决策论",
+   "en": "decision theory",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "判定！",
+   "en": "Decision! Hantei!",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "多数裁判员判定",
+   "en": "majority decision",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight class\",\"weight division",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "体重级别",
+   "en": "weight category\",\"weight division",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "知情决策",
+   "en": "informed decision",
+   "code": "1.3.27",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险分析"
+  },
+  {
+   "cn": "决策阈",
+   "en": "decision threshold",
+   "code": "5.6.15",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测质量控制"
+  },
+  {
+   "cn": "决策模型",
+   "en": "decision modeling",
+   "code": "1.2.5.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "决策",
+   "en": "decision making",
+   "code": "4.1.18.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_领导"
+  },
+  {
+   "cn": "固形物重",
+   "en": "drained weight",
+   "code": "5.11.7.4",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_罐头食品"
+  },
+  {
+   "cn": "片重",
+   "en": "tablet weight",
+   "code": "6.1.14.1",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_理化检验"
+  },
+  {
+   "cn": "称重法",
+   "en": "weight method",
+   "code": "6.2.30.10",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "胎儿体重",
+   "en": "fetal weight",
+   "code": "3.5.2.3.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_孕产期保健"
+  },
+  {
+   "cn": "体重",
+   "en": "body weight",
+   "code": "4.2.2.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_儿童保健_儿童生长发育"
+  },
+  {
+   "cn": "出生体重",
+   "en": "birth weight",
+   "code": "4.2.2.1.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_儿童保健_儿童生长发育"
+  },
+  {
+   "cn": "伤残权重",
+   "en": "disability weight",
+   "code": "3.7.12.6",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食源性疾病负担"
+  },
+  {
+   "cn": "决策树分析",
+   "en": "decision tree analysis",
+   "code": "6.1.6.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_分析评估"
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -6,10 +6,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "查无": 2630,
-  "不一致": 481,
-  "一致": 680,
-  "未查证": 5117
+  "查无": 2663,
+  "不一致": 491,
+  "一致": 689,
+  "未查证": 5065
  },
  "results": [
   {
@@ -15693,9 +15693,9 @@
    "table": "术语",
    "line": 734,
    "term": "communitarianism",
-   "trans": "共同体主义",
-   "basis": "学界通行（亦作“社群主义”；本库取共同体主义以别于“共同体”形态描述）；凭证 2026-11-09",
-   "status": "不一致",
+   "trans": "社群主义（亦作“共同体主义”）",
+   "basis": "审定名词库（termonline-all·社会学/医学伦理学名词，2026-11-11 浏览器通道凭证）；学界通行形（正文原混用 15:14，2026-11-11 归一）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -15916,9 +15916,11 @@
    "term": "complacence",
    "trans": "悦慕（爱德华兹：对卓越之美的心悦之爱，与仁爱 benevolence 二分）",
    "basis": "自译裁定（benevolence/complacence 二分无学界通行定译；“悦慕”取“心悦而慕之”义）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -15926,9 +15928,108 @@
    "term": "complement",
    "trans": "补项",
    "basis": "自译裁定（与“对照项”并列；凭证 2026-11-07）；凭证 2026-11-07",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "补体",
+     "en": "complement",
+     "source": "生物化学与分子生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "补体",
+     "en": "complement",
+     "source": "肝病学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "补体",
+     "en": "complement",
+     "source": "兽医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "补体",
+     "en": "complement",
+     "source": "器官移植学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "补体",
+     "en": "complement",
+     "source": "运动医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "补体",
+     "en": "complement",
+     "source": "药学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "补语",
+     "en": "complement",
+     "source": "语言学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "补体",
+     "en": "complement",
+     "source": "细胞生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "补体",
+     "en": "complement",
+     "source": "免疫学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "补体",
+     "en": "complement",
+     "source": "医学名词 第三分册"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "补体",
+     "en": "complement",
+     "source": "海峡两岸生物化学与分子生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "补体",
+     "en": "complement",
+     "source": "海峡两岸细胞生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "补码",
+     "en": "complement",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "船员定员",
+     "en": "complement",
+     "source": "海峡两岸航海科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "补体",
+     "en": "complement",
+     "source": "海峡两岸药学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "补体",
+     "en": "complement",
+     "source": "风湿免疫病学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -15936,9 +16037,66 @@
    "term": "complementarity",
    "trans": "互补性",
    "basis": "学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "互补性",
+     "en": "complementarity",
+     "source": "生物化学与分子生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "互补性",
+     "en": "complementarity",
+     "source": "医学遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "互补性",
+     "en": "complementarity",
+     "source": "药学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "互补性",
+     "en": "complementarity",
+     "source": "遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "互补性",
+     "en": "complementarity",
+     "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "互补性",
+     "en": "complementarity",
+     "source": "海峡两岸地理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "互补性",
+     "en": "complementarity",
+     "source": "海峡两岸遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "互补性",
+     "en": "complementarity",
+     "source": "海峡两岸生物化学与分子生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "互补性",
+     "en": "complementarity",
+     "source": "海峡两岸药学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -15946,9 +16104,11 @@
    "term": "complete individual concept",
    "trans": "完整个体概念",
    "basis": "学界惯例（莱布尼茨研究通行，CIC）；凭证 2026-11-03",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -15956,9 +16116,60 @@
    "term": "completeness",
    "trans": "完全性",
    "basis": "逻辑学通行译法（哥德尔完全性/不完全性定理）；凭证 2026-11-08；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "完备性",
+     "en": "completeness",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "数据完整度",
+     "en": "completeness",
+     "source": "生物物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "完备性",
+     "en": "completeness",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "完全性",
+     "en": "completeness",
+     "source": "数学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "完全性",
+     "en": "completeness",
+     "source": "数学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "完整性",
+     "en": "completeness",
+     "source": "海峡两岸地理信息系统名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "完全性",
+     "en": "completeness",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "完备性",
+     "en": "Completeness",
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -15966,9 +16177,18 @@
    "term": "completion",
    "trans": "完备化",
    "basis": "学界惯例（序理论通行译名）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "完备化",
+     "en": "completion",
+     "source": "数学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -15976,9 +16196,11 @@
    "term": "completion (of a preference ordering)",
    "trans": "完全化",
    "basis": "学界惯例（序理论通行）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -15986,9 +16208,11 @@
    "term": "complex model organism",
    "trans": "复杂模式生物",
    "basis": "本词条术语（按多重标准界定者）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -15996,9 +16220,11 @@
    "term": "complexe significabile",
    "trans": "复合可意谓者",
    "basis": "学界通行（里米尼的格里高利—沃德姆学说；本库统一形，albert-saxony 侧已回改）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -16006,9 +16232,42 @@
    "term": "complexity theory",
    "trans": "复杂性理论",
    "basis": "计算理论通行译法；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "量子复杂性理论",
+     "en": "quantum complexity theory",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "复杂性派生理论",
+     "en": "derivation theory of complexity",
+     "source": "心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "复杂性理论",
+     "en": "complexity theory",
+     "source": "海峡两岸生态学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "复杂[性]理论",
+     "en": "Complexity Theory",
+     "source": "大数据百科术语辞典"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "计算复杂性理论",
+     "en": "computational complexity theory",
+     "source": "大数据百科术语辞典"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -16016,9 +16275,11 @@
    "term": "complexly signifiable",
    "trans": "复合可意谓",
    "basis": "与已登记 complexe significabile（复合可意谓者）同族，中世纪语义学；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -16026,9 +16287,11 @@
    "term": "complicity",
    "trans": "共谋",
    "basis": "学界通行译名（责备伦理学文献）；凭证 2026-11-07",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -16036,9 +16299,11 @@
    "term": "composing synthesis",
    "trans": "组合的综合",
    "basis": "本词条首译（Rosefeldt 2022 语境，与分解的综合对举）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -16156,9 +16421,30 @@
    "term": "computably enumerable",
    "trans": "可计算枚举",
    "basis": "递归论通行（亦作“递归可枚举”）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "计算可枚举图灵度",
+     "en": "computably enumerable Turing degree",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "计算可枚举集完全性准则",
+     "en": "completeness criterion for the computably enumerable sets",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "计算可枚举集的归约原理",
+     "en": "reduction principle for the computably enumerable sets",
+     "source": "计算机科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -16166,9 +16452,11 @@
    "term": "computational aspect",
    "trans": "计算侧面",
    "basis": "构词直译（McDermott 1987 提法）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -16176,9 +16464,36 @@
    "term": "computer virus",
    "trans": "计算机病毒",
    "basis": "计算机科学通行译名；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "计算机病毒",
+     "en": "computer virus",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "计算机病毒",
+     "en": "computer virus",
+     "source": "建筑学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "计算机病毒",
+     "en": "computer virus",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "计算机病毒",
+     "en": "computer virus",
+     "source": "大数据百科术语辞典"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -16210,9 +16525,11 @@
    "term": "conceivability",
    "trans": "可设想性／可设想",
    "basis": "学界惯例（心灵哲学文献通行）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -16220,9 +16537,18 @@
    "term": "conceivability argument",
    "trans": "可设想论证",
    "basis": "学界惯例（查尔莫斯论证通译）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "可设想性论证",
+     "en": "conceivability argument",
+     "source": "自然辩证法名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -16285,9 +16611,11 @@
    "term": "concept drift",
    "trans": "概念漂移",
    "basis": "机器学习/知识工程通行；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -16295,9 +16623,11 @@
    "term": "conceptual apparatus",
    "trans": "概念装置",
    "basis": "Ajdukiewicz 术语通行译法；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -16341,9 +16671,11 @@
    "term": "conceptual relativism",
    "trans": "概念相对主义",
    "basis": "Davidson/蒯因研究文献通行；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -16351,9 +16683,18 @@
    "term": "conceptual scheme",
    "trans": "概念图式",
    "basis": "蒯因/戴维森研究通行（“图式”承康德 Schema 译名）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "方案设计",
+     "en": "schematic design;scheme design;conceptual design",
+     "source": "风景园林名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -16434,9 +16775,11 @@
    "term": "conclusion-based procedure",
    "trans": "基于结论的程序（亦称逐案程序）",
    "basis": "学界通行（判断聚合文献）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -16566,8 +16909,99 @@
    "term": "condensation",
    "trans": "凝缩",
    "basis": "精神分析术语（梦的凝缩；朗格借喻艺术符号）；凭证 2026-11-08",
-   "status": "查无",
-   "hits": [],
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "凝结",
+     "en": "condensation",
+     "source": "电力名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "凝结",
+     "en": "condensation",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "凝聚",
+     "en": "condensation",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "冷凝",
+     "en": "condensation",
+     "source": "化工名词(三)化学工程基础"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "缩合",
+     "en": "condensation",
+     "source": "化学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "冷凝",
+     "en": "condensation",
+     "source": "建筑学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "凝结",
+     "en": "condensation",
+     "source": "大气科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "凝露",
+     "en": "condensation",
+     "source": "电气工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "冷凝",
+     "en": "condensation",
+     "source": "化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "凝结",
+     "en": "condensation",
+     "source": "力学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "凝结",
+     "en": "condensation",
+     "source": "海峡两岸大气科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "浓缩",
+     "en": "condensation",
+     "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "缩合",
+     "en": "condensation",
+     "source": "海峡两岸化学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "凝结[作用]",
+     "en": "condensation",
+     "source": "海峡两岸海洋科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "凝聚",
+     "en": "condensation",
+     "source": "海峡两岸信息科学技术名词"
+    }
+   ],
    "providers": [
     "termonline-all"
    ]
@@ -16659,9 +17093,11 @@
    "term": "conditional prophecy",
    "trans": "有条件预言",
    "basis": "构词直译（“若不悔改就毁灭”型预言）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -16681,9 +17117,11 @@
    "term": "Condorcet Jury Theorem",
    "trans": "孔多塞陪审团定理",
    "basis": "学界通行（社会认识论文献）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -16691,9 +17129,11 @@
    "term": "Condorcet paradox",
    "trans": "孔多塞悖论",
    "basis": "学界通行（社会选择理论文献）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -16701,9 +17141,11 @@
    "term": "confederate",
    "trans": "实验同谋",
    "basis": "实验心理学通行译法（假被试）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -16711,9 +17153,11 @@
    "term": "confidence constraint",
    "trans": "信心约束",
    "basis": "学界惯例（Rawls 1971 深思熟虑判断之信心要求）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -16841,8 +17285,21 @@
    "term": "congruence",
    "trans": "一致（吻合）",
    "basis": "学界惯例（Lewis 术语 congruence 通行译法“一致/吻合”）",
-   "status": "查无",
-   "hits": [],
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "同余式",
+     "en": "congruence",
+     "source": "数学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "同余方程",
+     "en": "congruence",
+     "source": "数学名词"
+    }
+   ],
    "providers": [
     "termonline-all"
    ]
@@ -16889,8 +17346,39 @@
    "term": "conjugate",
    "trans": "共轭",
    "basis": "学界惯例（概率论通行）；凭证 2026-11-08",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "共轭",
+     "en": "conjugate",
+     "source": "化工名词（十）化工系统工程和化工信息化名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "结合物",
+     "en": "conjugate",
+     "source": "生物化学与分子生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "缀合物",
+     "en": "conjugate",
+     "source": "化学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "结合物",
+     "en": "conjugate",
+     "source": "医学名词 第三分册"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "共轭",
+     "en": "conjugate",
+     "source": "数学名词"
+    }
+   ],
    "providers": [
     "termonline-all"
    ]
@@ -17147,9 +17635,24 @@
    "term": "conscientiousness",
    "trans": "尽责性",
    "basis": "大五特质通行汉译；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "严谨性",
+     "en": "conscientiousness",
+     "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "自觉性",
+     "en": "conscientiousness",
+     "source": "马克思主义"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -17157,9 +17660,11 @@
    "term": "conscious automata",
    "trans": "有意识的自动机",
    "basis": "学界惯例（赫胥黎用语通译）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -17331,9 +17836,11 @@
    "term": "consent of being to being",
    "trans": "存在对存在的相契",
    "basis": "自译裁定（Edwards《心灵》第 1 则美之定义；consent 取“相契/协合”义，不取“同意”）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -17341,9 +17848,11 @@
    "term": "consequence of necessity and impossibility",
    "trans": "必然性与不可能性之后承",
    "basis": "中世纪逻辑术语（consequentia necessitatis vel inpossibilitatis）构词直译；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -17351,9 +17860,11 @@
    "term": "consequence operation",
    "trans": "后承算子",
    "basis": "Tarski 术语通行译法；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -17523,9 +18034,24 @@
    "term": "conserved quantity",
    "trans": "守恒量",
    "basis": "学界通行（物理学既有译名；Dowe 2000 守恒过程理论）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "守恒量",
+     "en": "conserved quantity",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "局域守恒量",
+     "en": "locally conserved quantity",
+     "source": "物理学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -17533,9 +18059,11 @@
    "term": "considered judgment",
    "trans": "深思熟虑的判断",
    "basis": "学界惯例（Rawls《正义论》汉译通行）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -17543,9 +18071,11 @@
    "term": "consignificatio",
    "trans": "共意谓",
    "basis": "构词直译（本册 signification=意谓 派生）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -17553,9 +18083,11 @@
    "term": "consilience",
    "trans": "汇归一致",
    "basis": "学界通行（Whewell 1840；亦译“归并”“辐合”）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -17629,6 +18161,12 @@
      "provider": "termonline-all",
      "cn": "一致性",
      "en": "consistency",
+     "source": "电气工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "一致性",
+     "en": "consistency",
      "source": "海峡两岸大气科学名词"
     },
     {
@@ -17690,9 +18228,11 @@
    "term": "consistent",
    "trans": "一致（的）（逻辑语境；区别于 coherence 融贯）",
    "basis": "逻辑学通行（一致性）；与既有 coherence→融贯（justep-coherence）分工；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -17724,9 +18264,66 @@
    "term": "constellation",
    "trans": "星丛",
    "basis": "学界通行汉译（本雅明/阿多诺研究通行）；审定库无查询件（termonline-all 目录现查 2026-11-10）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "星座",
+     "en": "constellation",
+     "source": "天文学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "星座",
+     "en": "constellation",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "条件丛",
+     "en": "constellation",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "星座",
+     "en": "constellation",
+     "source": "通信科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "星座",
+     "en": "constellation",
+     "source": "航海科技名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "星座",
+     "en": "constellation",
+     "source": "海峡两岸天文学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "星座",
+     "en": "constellation",
+     "source": "海峡两岸测绘学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "丛",
+     "en": "constellation",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "星座",
+     "en": "constellation",
+     "source": "海峡两岸航海科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -17905,9 +18502,11 @@
    "term": "constitutive subjectivity",
    "trans": "构成性主体性",
    "basis": "学界通行汉译（阿多诺/观念论研究通行）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -17927,9 +18526,18 @@
    "term": "constructive empiricism",
    "trans": "建构经验主义",
    "basis": "学界通行（van Fraassen 1980）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "建构经验论",
+     "en": "constructive empiricism",
+     "source": "自然辩证法名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -17937,9 +18545,11 @@
    "term": "constructive nominalism",
    "trans": "建构唯名论",
    "basis": "Leśniewski 研究通行译法；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -18076,9 +18686,11 @@
    "term": "content-given-form",
    "trans": "被赋予形式的内容",
    "basis": "本词条首译（Lamarque 内容—形式论）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -18180,9 +18792,11 @@
    "term": "continental philosophy",
    "trans": "大陆哲学",
    "basis": "学界通行（与 analytic philosophy 分析哲学对举）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -18239,9 +18853,18 @@
    "term": "continuity axiom",
    "trans": "连续性公理",
    "basis": "直觉主义分析学术语；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "连续公理",
+     "en": "axiom of continuity",
+     "source": "数学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -18365,9 +18988,11 @@
    "term": "contour theory",
    "trans": "轮廓论",
    "basis": "学界通行（Davies 一派；以音乐轮廓与表情轮廓相似立论）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -18615,9 +19240,11 @@
    "term": "contrast class",
    "trans": "对照类",
    "basis": "学界通行（van Fraassen 之 why-question 理论）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -18637,9 +19264,11 @@
    "term": "contrastivism",
    "trans": "对照主义",
    "basis": "学界通行（与语境主义对举）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -18802,9 +19431,84 @@
    "term": "conversion",
    "trans": "换位",
    "basis": "传统逻辑通行译法；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "转换",
+     "en": "conversion",
+     "source": "档案学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "转化",
+     "en": "conversion",
+     "source": "化工名词（九）无机化工与肥料"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "换流",
+     "en": "conversion",
+     "source": "电力名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "转换",
+     "en": "conversion",
+     "source": "精神医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "转化率",
+     "en": "conversion",
+     "source": "化工名词 (二)基本有机化工"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "转化率",
+     "en": "conversion",
+     "source": "化工名词(三)化学工程基础"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "转化率",
+     "en": "conversion",
+     "source": "化学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "转化率",
+     "en": "conversion",
+     "source": "化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "转化率",
+     "en": "conversion",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "转化",
+     "en": "conversion",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "变换",
+     "en": "conversion",
+     "source": "海峡两岸地理信息系统名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "皈依",
+     "en": "conversion",
+     "source": "社会学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -18812,9 +19516,11 @@
    "term": "conversionary",
    "trans": "转化式",
    "basis": "学界惯例（转化式解释）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -18846,8 +19552,21 @@
    "term": "convexity",
    "trans": "凸性",
    "basis": "学界惯例（数学通行）；凭证 2026-11-08",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "凸性",
+     "en": "convexity",
+     "source": "管理科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "凸性",
+     "en": "convexity",
+     "source": "数学名词"
+    }
+   ],
    "providers": [
     "termonline-all"
    ]
@@ -18858,9 +19577,11 @@
    "term": "coordination condition",
    "trans": "协调条件",
    "basis": "本词条首译（悖论三条件之一）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -20363,9 +21084,11 @@
    "term": "contrapposto",
    "trans": "对置",
    "basis": "学界惯例（艺术史术语通行“对置”；此处喻历史重心之再平衡）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -60505,6 +61228,12 @@
      "cn": "稠度",
      "en": "consistency",
      "source": "土木工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "一致性",
+     "en": "consistency",
+     "source": "电气工程名词"
     },
     {
      "provider": "termonline-all",

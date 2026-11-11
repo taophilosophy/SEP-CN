@@ -1,0 +1,26 @@
+{
+ "key": "dainichi",
+ "term": "Dainichi",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T02:30:59+00:00",
+ "status": "ok",
+ "note": "variant=Dainichi; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "每日新闻",
+   "en": "Mainichi Shimbun",
+   "code": "3.1",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_新闻史_近代新闻史_外国"
+  },
+  {
+   "cn": "铃木镇一",
+   "en": "Suzuki\",\"Shinichi(日本)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

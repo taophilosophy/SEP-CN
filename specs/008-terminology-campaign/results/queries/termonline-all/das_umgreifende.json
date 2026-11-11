@@ -2,10 +2,347 @@
  "key": "das umgreifende",
  "term": "das Umgreifende",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T16:39:34+00:00",
- "status": "error",
- "note": "variant=das Umgreifende; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "das Umgreifende: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T02:30:59+00:00",
+ "status": "ok",
+ "note": "variant=das Umgreifende; 审定公布名词库=833; 海峡两岸名词对照库=221; 其他来源数据库=51; 预公布名词数据库=41; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "鞑靼",
+   "en": "Da Da;Tatar",
+   "code": "7.394",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_辽金元_族部"
+  },
+  {
+   "cn": "多巴胺",
+   "en": "dopamine;DA",
+   "code": "02.053",
+   "standard": "内分泌代谢病学名词",
+   "subject": "下丘脑与垂体疾病_下丘脑激素与垂体激素"
+  },
+  {
+   "cn": "大诰",
+   "en": "da gao",
+   "code": "04.04.012",
+   "standard": "档案学名词",
+   "subject": "档案学_档案文献编纂_档案文献编纂历史"
+  },
+  {
+   "cn": "批答",
+   "en": "pi da",
+   "code": "07.01.035",
+   "standard": "档案学名词",
+   "subject": "档案学_历史文书_文书称谓（含文种）"
+  },
+  {
+   "cn": "多巴胺",
+   "en": "dopamine;DA",
+   "code": "04.474",
+   "standard": "兽医学名词",
+   "subject": "兽医学_动物生理学"
+  },
+  {
+   "cn": "多巴胺",
+   "en": "dopamine;DA",
+   "code": "2.068",
+   "standard": "睡眠医学名词",
+   "subject": "睡眠医学_睡眠生理与心理基础_睡眠生理基础"
+  },
+  {
+   "cn": "多巴胺",
+   "en": "dopamine,DA",
+   "code": "03.102",
+   "standard": "生理学名词",
+   "subject": "生理学_神经生理学"
+  },
+  {
+   "cn": "多巴胺",
+   "en": "dopamine,DA",
+   "code": "04.0689",
+   "standard": "核医学名词",
+   "subject": "核医学_临床核医学_心血管系统核医学_心血管诊疗技术"
+  },
+  {
+   "cn": "道尔顿",
+   "en": "dalton,Da",
+   "code": "03.2338",
+   "standard": "化学名词",
+   "subject": "化学_分析化学_仪器分析_质谱分析"
+  },
+  {
+   "cn": "多巴胺",
+   "en": "dopamine,DA",
+   "code": "05.108",
+   "standard": "心理学名词",
+   "subject": "心理学_生理心理学"
+  },
+  {
+   "cn": "水达达",
+   "en": "Shui Da Da;Water Tatar",
+   "code": "7.415",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_辽金元_族部"
+  },
+  {
+   "cn": "大统式",
+   "en": "Da Tong Shi;Da Tong Ordinances",
+   "code": "4.203",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_魏晋南北朝_政治_礼法"
+  },
+  {
+   "cn": "圣诞节小精灵",
+   "en": "Christelflein\",\"Das",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "莱茵的黄金",
+   "en": "Rheingold\",\"Das",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "多巴胺",
+   "en": "dopamine\",\"DA",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "道尔顿",
+   "en": "Dalton\",\"Da",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "多巴胺",
+   "en": "dopamine\",\"DA",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "脱氧腺苷",
+   "en": "deoxyadenosine\",\"dA",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "梅杜萨之筏",
+   "en": "Flossder Medusa\",\"Das",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "狂暴的大海",
+   "en": "Verratene Meer\",\"Das",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "平均律键盘曲集",
+   "en": "Das Wohltemperierte Klavier",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "音乐的奉献",
+   "en": "Das musikalische Opfer",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "里米尼的弗兰切斯卡",
+   "en": "Francesca da Rimini",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "安魂交响曲",
+   "en": "Sinfonia da Requiem",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "堰坝",
+   "en": "dam",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_皮划艇名词"
+  },
+  {
+   "cn": "儒略日",
+   "en": "Julian Day",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "太阳日",
+   "en": "solar day",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "道",
+   "en": "Dao (Way)",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "拱坝",
+   "en": "arch dam",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "极昼",
+   "en": "Polar day",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "度日",
+   "en": "degree day",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "宪法日",
+   "en": "Constitution Day",
+   "code": null,
+   "standard": "中央文献重要术语",
+   "subject": "其他"
+  },
+  {
+   "cn": "段",
+   "en": "dan\",\"degree\",\"grade",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "段",
+   "en": "dan\",\"degree\",\"grade",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "道法自然",
+   "en": "Dao Operates Naturally.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "画道",
+   "en": "Dao of Painting",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "44关节疾病活动度评分",
+   "en": "disease activity score using 28 joint counts, DAS44",
+   "code": "2.1.2.6",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估"
+  },
+  {
+   "cn": "28关节疾病活动度评分",
+   "en": "disease activity score using 28 joint counts, DAS28",
+   "code": "2.1.2.7",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估"
+  },
+  {
+   "cn": "傣族",
+   "en": "Dai",
+   "code": "1.0443",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "工作日",
+   "en": "working day",
+   "code": "02.0120",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "倒话",
+   "en": "Dao language",
+   "code": "5.0363",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族语言"
+  },
+  {
+   "cn": "傣语",
+   "en": "Dai language",
+   "code": "5.0266",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族语言"
+  },
+  {
+   "cn": "本尊",
+   "en": "Yi dam",
+   "code": "3.0435",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "傣文",
+   "en": "Dai writing",
+   "code": "5.0392",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族文字"
+  },
+  {
+   "cn": "姑娘节",
+   "en": "Girls' Day",
+   "code": "4.0197",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "减压病",
+   "en": "decompression sickness, DCS",
+   "code": "12.2.4",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_航海和潜水医学_潜水医学"
+  },
+  {
+   "cn": "每天吸烟者",
+   "en": "every day smoker",
+   "code": "3.3.2.3.1.4",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测"
+  },
+  {
+   "cn": "二日法",
+   "en": "Two-day method",
+   "code": "5.2.9.1.1.2",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_生育调节_避孕"
+  }
+ ],
+ "error": null,
  "raw": null
 }

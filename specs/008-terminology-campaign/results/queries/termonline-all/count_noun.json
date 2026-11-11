@@ -1,0 +1,348 @@
+{
+ "key": "count noun",
+ "term": "count noun",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T02:20:28+00:00",
+ "status": "ok",
+ "note": "variant=count noun; 审定公布名词库=1999; 海峡两岸名词对照库=450; 其他来源数据库=154; 预公布名词数据库=108; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "名词",
+   "en": "noun",
+   "code": "04.042",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "时间名词",
+   "en": "temporal noun",
+   "code": "04.059",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "处所名词",
+   "en": "place noun",
+   "code": "04.060",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "方位词",
+   "en": "locative noun",
+   "code": "04.061",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "专有名词",
+   "en": "proper noun",
+   "code": "04.056",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "集合名词",
+   "en": "collective noun",
+   "code": "04.057",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "抽象名词",
+   "en": "abstract noun",
+   "code": "04.058",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "计数",
+   "en": "count",
+   "code": "03.0197",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学设备与操作_探测设备"
+  },
+  {
+   "cn": "支数",
+   "en": "count",
+   "code": "03.207",
+   "standard": "水产名词",
+   "subject": "水产_捕捞学"
+  },
+  {
+   "cn": "词频统计",
+   "en": "word count,frequency count",
+   "code": "06.333",
+   "standard": "语言学名词",
+   "subject": "语言学_辞书学_辞书现代化"
+  },
+  {
+   "cn": "源计数",
+   "en": "source count; source counting",
+   "code": "07.285",
+   "standard": "天文学名词",
+   "subject": "天文学_星系和宇宙学"
+  },
+  {
+   "cn": "星系计数",
+   "en": "galaxy count; galaxy counting",
+   "code": "07.286",
+   "standard": "天文学名词",
+   "subject": "天文学_星系和宇宙学"
+  },
+  {
+   "cn": "名词短语",
+   "en": "noun phrase",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "中心名词",
+   "en": "head noun",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "种群统计",
+   "en": "population count",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "细菌数",
+   "en": "bacteria count",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "直接计数",
+   "en": "direct count",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "星系计数",
+   "en": "galaxy count",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "稀释计数",
+   "en": "dilution count",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "粪堆计数",
+   "en": "pellet count",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "鸣叫计数",
+   "en": "call count",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "嵴数",
+   "en": "ridge count",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "多普勒计数",
+   "en": "Doppler count",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "最小读数",
+   "en": "least count",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "读秒",
+   "en": "count",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "计分",
+   "en": "count",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "球数",
+   "en": "count",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "读秒",
+   "en": "count the seconds\",\"count",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "数八秒",
+   "en": "count of 8\",\"eight count",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "计球",
+   "en": "count strokes",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_乒乓球名词"
+  },
+  {
+   "cn": "数十秒",
+   "en": "count of 10",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "有效箭",
+   "en": "counted arrow",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "每分钟计数",
+   "en": "Counts per minute",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "《YD/T 1765-2008 通信安全防护名词术语》",
+   "en": "YD/T 1765-2008 Noun terms in communication safety and protection",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "法院",
+   "en": "Court",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "上器械",
+   "en": "mount",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "词语计数",
+   "en": "words count",
+   "code": "1.2.5.17",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "菌落计数",
+   "en": "colony count",
+   "code": "2.1.1.52",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品生物性危害因素"
+  },
+  {
+   "cn": "4π计数法",
+   "en": "4π counting method",
+   "code": "5.3.2.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测技术_α、β粒子辐射监测技术"
+  },
+  {
+   "cn": "体细胞计数",
+   "en": "Somatic cell count",
+   "code": "5.8.22",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_奶类"
+  },
+  {
+   "cn": "活菌培养计数",
+   "en": "surviving bacteria count",
+   "code": "6.2.26.5",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "液体闪烁计数法",
+   "en": "liquid scintillation counting",
+   "code": "5.3.1.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术"
+  },
+  {
+   "cn": "胎动计数",
+   "en": "fetal movement counting",
+   "code": "3.5.2.2.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_孕产期保健"
+  },
+  {
+   "cn": "菌落总数",
+   "en": "aerobic plate count (APC)",
+   "code": "7.9.1.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队营养与食品卫生_军队食品污染"
+  },
+  {
+   "cn": "固定立体角法",
+   "en": "defined-solid angle counting method",
+   "code": "5.1.1.13",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量"
+  },
+  {
+   "cn": "44关节疾病活动度评分",
+   "en": "disease activity score using 28 joint counts, DAS44",
+   "code": "2.1.2.6",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估"
+  },
+  {
+   "cn": "28关节疾病活动度评分",
+   "en": "disease activity score using 28 joint counts, DAS28",
+   "code": "2.1.2.7",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估"
+  },
+  {
+   "cn": "体外γ计数监测甲状腺放射性碘活度",
+   "en": "external gamma-counting for monitoring radioiodine activity in thyroid",
+   "code": "6.3.4.35",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

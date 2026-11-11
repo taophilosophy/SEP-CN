@@ -2,10 +2,319 @@
  "key": "corporations",
  "term": "corporations",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T16:09:33+00:00",
- "status": "error",
- "note": "variant=corporations; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "corporations: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T02:17:28+00:00",
+ "status": "ok",
+ "note": "variant=corporations; 审定公布名词库=72; 海峡两岸名词对照库=34; 其他来源数据库=17; 预公布名词数据库=8; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "公司",
+   "en": "corporation",
+   "code": "07.206",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学、技术与社会_工程与社会"
+  },
+  {
+   "cn": "公司",
+   "en": "corporation",
+   "code": "01.0861",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_创业管理"
+  },
+  {
+   "cn": "发行企业",
+   "en": "distribution corporation",
+   "code": "05.02.004",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_发行与经营_发行者"
+  },
+  {
+   "cn": "公司",
+   "en": "corporation company",
+   "code": "12.125",
+   "standard": "经济学名词",
+   "subject": "经济学_货币理论与货币政策"
+  },
+  {
+   "cn": "跨国公司",
+   "en": "transnational corporation",
+   "code": "13.014",
+   "standard": "经济学名词",
+   "subject": "经济学_国际贸易"
+  },
+  {
+   "cn": "私营公司",
+   "en": "private corporation",
+   "code": "01.0862",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_创业管理"
+  },
+  {
+   "cn": "公营公司",
+   "en": "public corporation",
+   "code": "01.0863",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_创业管理"
+  },
+  {
+   "cn": "兰德公司",
+   "en": "RAND Corporation",
+   "code": "10.0068",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_科技管理与技术创新_基本概念"
+  },
+  {
+   "cn": "跨国公司",
+   "en": "multinational corporation",
+   "code": "01.0704",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_战略管理"
+  },
+  {
+   "cn": "非营利公司",
+   "en": "nonprofit corporation",
+   "code": "01.0871",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_创业管理"
+  },
+  {
+   "cn": "封闭性公司",
+   "en": "close corporation",
+   "code": "01.0859",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_创业管理"
+  },
+  {
+   "cn": "S公司",
+   "en": "S corporation",
+   "code": "01.0864",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_创业管理"
+  },
+  {
+   "cn": "国际公司",
+   "en": "international corporation",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "会员公司",
+   "en": "member corporation",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "金融公司",
+   "en": "finance corporation",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "开发公司",
+   "en": "development corporation",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "跨国公司",
+   "en": "supernational corporation",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "跨国公司",
+   "en": "transnational corporation",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "贸易公司",
+   "en": "trading corporation",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "协议公司",
+   "en": "agreement corporation",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "信贷公司",
+   "en": "financing corporation",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "垂直企业",
+   "en": "vertical corporation",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "水平企业",
+   "en": "horizontal corporation",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "公司合并",
+   "en": "corporate merger",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "有形",
+   "en": "Corporeal",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "兰德公司",
+   "en": "RAND Corporation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "企业数据",
+   "en": "corporate data",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "国际金融公司",
+   "en": "International Finance Corporation",
+   "code": null,
+   "standard": "外语中文译写规范部际联席会议专家委员会",
+   "subject": "其他"
+  },
+  {
+   "cn": "英国广播公司",
+   "en": "British Broadcasting Corporation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "体罚",
+   "en": "Campaigns against corporal punishment",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "铁人三项奥运距离团体赛",
+   "en": "Corporate Team Olympic Triathlon",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_铁人三项名词"
+  },
+  {
+   "cn": "创新创业债",
+   "en": "innovation and entrepreneurship corporate bond",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "企业平均数据中心效率",
+   "en": "corporate average data center efficiency (CADE)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "区块链自洽公司",
+   "en": "decentralized autonomous corporation (DAC) on the blockchain",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "美国国际数据公司“信息社会指数”",
+   "en": "International Data Corporation’s Information Society Index (USA)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "互联网名称与数字地址分配机构",
+   "en": "Internet Corporation for Assigned Names and Numbers (ICANN)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "法人行动者",
+   "en": "corporate actors",
+   "code": "3.5.3.11",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_经济社会学_新经济社会学"
+  },
+  {
+   "cn": "公司法人治理结构",
+   "en": "corporate governance structure",
+   "code": "02.0414",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "法人治理结构",
+   "en": "corporate governance structure ",
+   "code": "14.2.3.3.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_医生与医院行为_医院行为"
+  },
+  {
+   "cn": "企业社会责任",
+   "en": "corporate social responsibility",
+   "code": "1.019",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "医院管理局法人治理模式",
+   "en": "corporate governance model of hospital administration ",
+   "code": "14.2.3.3.2.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_医生与医院行为_医院行为"
+  },
+  {
+   "cn": "医院联合体法人治理模式",
+   "en": "corporate governance model of hospital consortium ",
+   "code": "14.2.3.3.2.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_医生与医院行为_医院行为"
+  },
+  {
+   "cn": "国际公立医院法人治理改革模式",
+   "en": "international public hospitals reform model of corporate governance",
+   "code": "14.2.3.3.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_医生与医院行为_医院行为"
+  },
+  {
+   "cn": "中国公立医院法人治理改革模式",
+   "en": "Chinese public hospitals reform model of corporate governance",
+   "code": "14.2.3.3.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_医生与医院行为_医院行为"
+  }
+ ],
+ "error": null,
  "raw": null
 }

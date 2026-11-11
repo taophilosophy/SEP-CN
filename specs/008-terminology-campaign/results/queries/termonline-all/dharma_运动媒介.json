@@ -2,10 +2,347 @@
  "key": "dharma（运动媒介）",
  "term": "dharma（运动媒介）",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T17:37:39+00:00",
- "status": "error",
- "note": "variant=dharma（运动媒介）; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "dharma（运动媒介）: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T02:46:00+00:00",
+ "status": "ok",
+ "note": "variant=dharma（运动媒介）; 审定公布名词库=10000; 海峡两岸名词对照库=4514; 其他来源数据库=840; 预公布名词数据库=493; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "运动",
+   "en": "motion",
+   "code": "02.051",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_自然哲学_基本概念"
+  },
+  {
+   "cn": "运动",
+   "en": "sport;motion;movement;exercise",
+   "code": "3.205",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为的生物学基础_遗传学基础_运动遗传学"
+  },
+  {
+   "cn": "运动",
+   "en": "movement",
+   "code": "02.182",
+   "standard": "精神医学名词",
+   "subject": "精神医学_症状与体征_意志行为障碍症状"
+  },
+  {
+   "cn": "运动",
+   "en": "exercise",
+   "code": "07.071",
+   "standard": "运动医学名词",
+   "subject": "运动医学_运动康复_物理治疗技术_运动治疗"
+  },
+  {
+   "cn": "运动",
+   "en": "motion",
+   "code": "04.0771",
+   "standard": "核医学名词",
+   "subject": "核医学_临床核医学_神经系统核医学_神经系统解剖生理基础"
+  },
+  {
+   "cn": "运动",
+   "en": "motion",
+   "code": "05.049",
+   "standard": "全科医学与社区卫生名词",
+   "subject": "全科医学与社区卫生_社区康复"
+  },
+  {
+   "cn": "媒介行动主义",
+   "en": "media activism",
+   "code": "15.014",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播与社会发展_总论"
+  },
+  {
+   "cn": "数字互动媒介",
+   "en": "digital interactive media",
+   "code": "21.113",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_广告_广告媒介"
+  },
+  {
+   "cn": "媒介",
+   "en": "medium；media",
+   "code": "6.069",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播总论_传播研究基础"
+  },
+  {
+   "cn": "媒介",
+   "en": "intermedium",
+   "code": "07.098",
+   "standard": "地方病学名词",
+   "subject": "地方病学_鼠疫_媒介"
+  },
+  {
+   "cn": "媒介",
+   "en": "medium",
+   "code": "01.0148",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_基本概念"
+  },
+  {
+   "cn": "造山运动",
+   "en": "orogeny;orogenic movement",
+   "code": "10.01.071",
+   "standard": "地质学名词",
+   "subject": "地质学_大地构造学_总论"
+  },
+  {
+   "cn": "运动",
+   "en": "motion",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "运动",
+   "en": "movement",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "运动",
+   "en": "movements",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "运动",
+   "en": "motion",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "媒介",
+   "en": "intermediary",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "鞭毛运动",
+   "en": "flagellous movement",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "蠕动运动",
+   "en": "peristaltic movement",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "细胞运动",
+   "en": "cell movement",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "纤毛运动",
+   "en": "ciliary movement",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "运动末梢",
+   "en": "motor ending",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "运动皮质",
+   "en": "motor cortex",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "运动区",
+   "en": "motor area",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "媒介",
+   "en": null,
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "运动补偿",
+   "en": null,
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "运动饮料",
+   "en": null,
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "运动链",
+   "en": null,
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "古文运动",
+   "en": "Classical Prose Movement",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "运动预测",
+   "en": null,
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "圈地运动",
+   "en": "Enclosure",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "有氧运动",
+   "en": "Aerobic exercise",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "运动规划",
+   "en": "Motion Planning",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "拳击运动",
+   "en": "pugilism\",\"boxing",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "赛艇运动",
+   "en": "rowing",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "射击运动",
+   "en": "shooting",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "运动",
+   "en": "motion",
+   "code": "01.0021",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "媒介",
+   "en": "vector",
+   "code": "14.10.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队流行病学_自然疫源性疾病"
+  },
+  {
+   "cn": "天体运动",
+   "en": "nudist movement",
+   "code": "3.3.7.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性社会学_性伦理"
+  },
+  {
+   "cn": "双重运动",
+   "en": "double movement",
+   "code": "3.5.2.15",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_经济社会学_古典经济社会学"
+  },
+  {
+   "cn": "社会运动",
+   "en": "social movement",
+   "code": "3.6.4.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_政治社会学_公民权与公民参与"
+  },
+  {
+   "cn": "复兴运动",
+   "en": "revitalization movement",
+   "code": "4.2.4.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念"
+  },
+  {
+   "cn": "工会运动",
+   "en": "trade union movement",
+   "code": "03.0061",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "共和运动",
+   "en": "republican movement",
+   "code": "03.0073",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "运动保障",
+   "en": "sports guarantee",
+   "code": "4.1.6.10",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应"
+  },
+  {
+   "cn": "运动强度",
+   "en": "exercise intensity",
+   "code": "7.1.4.1.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校体育与身体活动_学校体育"
+  },
+  {
+   "cn": "运动负荷",
+   "en": "exercise load",
+   "code": "7.1.4.1.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校体育与身体活动_学校体育"
+  },
+  {
+   "cn": "运动频率",
+   "en": "exercise frequency",
+   "code": "7.1.4.1.9",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校体育与身体活动_学校体育"
+  }
+ ],
+ "error": null,
  "raw": null
 }

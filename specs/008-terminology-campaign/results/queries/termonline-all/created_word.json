@@ -2,10 +2,347 @@
  "key": "created word",
  "term": "created word",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T16:24:33+00:00",
- "status": "error",
- "note": "variant=created word; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "created word: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T02:24:59+00:00",
+ "status": "ok",
+ "note": "variant=created word; 审定公布名词库=2787; 海峡两岸名词对照库=684; 其他来源数据库=199; 预公布名词数据库=244; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "创造",
+   "en": "create",
+   "code": "10.0387",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_科技管理与技术创新_创新管理"
+  },
+  {
+   "cn": "创建原语",
+   "en": "create primitive",
+   "code": "05.0445",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_操作系统"
+  },
+  {
+   "cn": "字",
+   "en": "word",
+   "code": "03.0128",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机体系结构_计算机模型"
+  },
+  {
+   "cn": "字",
+   "en": "word",
+   "code": "14.0787",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑设备与系统_弱电系统设备与智能设计"
+  },
+  {
+   "cn": "词",
+   "en": "word",
+   "code": "04.028",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_词与词汇"
+  },
+  {
+   "cn": "词",
+   "en": "word",
+   "code": "04.028",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "字",
+   "en": "word",
+   "code": "04.1854",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_群论"
+  },
+  {
+   "cn": "未登录词",
+   "en": "unregistered word,unlisted word,unknown word",
+   "code": "11.033",
+   "standard": "语言学名词",
+   "subject": "语言学_计算语言学_词处理"
+  },
+  {
+   "cn": "词汇词",
+   "en": "lexical word,content word",
+   "code": "05.056",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_词与词汇"
+  },
+  {
+   "cn": "同类词",
+   "en": "class word,group word",
+   "code": "05.074",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_词与词汇"
+  },
+  {
+   "cn": "概念词",
+   "en": "concept word,conception word",
+   "code": "05.097",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_词与词汇"
+  },
+  {
+   "cn": "感情色彩词",
+   "en": "emotive word,affective word",
+   "code": "05.098",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_词与词汇"
+  },
+  {
+   "cn": "创建原语",
+   "en": "create primitive",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "字",
+   "en": "word",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "关键字",
+   "en": "key word",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "词盲",
+   "en": "word blindness",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "功能词",
+   "en": "function word",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "字词联想",
+   "en": "word association",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "保留字",
+   "en": "reserved word",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "关键字",
+   "en": "key word",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "保留字",
+   "en": "reserved word",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "词的使用度",
+   "en": "word usage",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "词范畴",
+   "en": "word category",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "词频",
+   "en": "word frequency",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "量词",
+   "en": "measure word",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "实词",
+   "en": "Content word",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "造词法",
+   "en": "word formation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "词云",
+   "en": "word cloud",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "词模型",
+   "en": "word  model",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "词义",
+   "en": "word sense; meaning of word",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "拓宽就地就近就业渠道",
+   "en": "to create more jobs locally   ",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_社会治理"
+  },
+  {
+   "cn": "自铸伟辞",
+   "en": "Create Masterpieces of Greatness and Originality",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "超长指令字",
+   "en": "Very long instruction word",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "词义消歧",
+   "en": "word sense disambiguation (WSD)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "词袋模型",
+   "en": "Bag-of-words model",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "词袋模型",
+   "en": "bag-of-words model",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "自创性危险因素型",
+   "en": "self-created risk type",
+   "code": "7.3.2",
+   "standard": "社会医学名词",
+   "subject": "健康管理"
+  },
+  {
+   "cn": "遗嘱",
+   "en": "dying word",
+   "code": "7.04",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_临终关怀与死亡伦理"
+  },
+  {
+   "cn": "同源词",
+   "en": "cognate word",
+   "code": "5.007",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "暗语",
+   "en": "code word",
+   "code": "4.036",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "词语计数",
+   "en": "words count",
+   "code": "1.2.5.17",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "底层词",
+   "en": "substratum words",
+   "code": "5.0142",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_语言状况与规划"
+  },
+  {
+   "cn": "创造社交互动机会",
+   "en": "creating opportunities for social interaction",
+   "code": "6.4.1.1.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "学校心理健康促进"
+  },
+  {
+   "cn": "双词句阶段",
+   "en": "two-word stage",
+   "code": "2.5.7.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_心理行为发育"
+  },
+  {
+   "cn": "藏汉对音",
+   "en": "Chinese transcription of the old Tibetan words",
+   "code": "5.0033",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "朝汉对音",
+   "en": "Korean transcription of the borrowed Chinese words",
+   "code": "5.0032",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "越汉对音",
+   "en": "Vietnamese transcription of the borrowed Chinese words",
+   "code": "5.0034",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "工伤",
+   "en": "work-related injury",
+   "code": "3.18.6.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_社会保障_工伤保险"
+  }
+ ],
+ "error": null,
  "raw": null
 }
