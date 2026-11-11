@@ -2,7 +2,7 @@
   "slug": "brouwer",
   "kind": "retranslate",
   "zh_doc": "b/brouwer.md",
-  "state": "drafted",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -17,6 +17,27 @@
       "actor": "?",
       "at": "2026-11-01T20:48:21Z",
       "evidence": ""
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "B-main-20261112",
+      "at": "2026-11-11T22:28:42Z",
+      "evidence": "逐段回核源文（yuanwen 368 行 vs 译文 366 行，双版全文通读）：五维对账段落 97:101、H2 8:9、行内脚注标记多重集 85:85 全等、defs 键集 85:85 全等、公式 6:6 全等（体例差 6 处断言留痕于 script/_b_brouwer_s1.py：致谢 H3→H2、作者行并入 H1、学术工具 blockquote 解列表、contact 行按 B 批先例省略、References 照录说明、相关词条译注占位）；收编前会话在途 s2 实修 14 处逐处对源核实（script/_b_brouwer_s2.py）；实修正名：佩亚诺→皮亚诺（册 1407 行）、学生句 Belinfante/de Iongh/Troelstra/van Dalen/Veldman 改保留英文（册 861/3784/3785/3865 行 ADR-0022 裁定）、引证作者姓不译（模板 §6）、马丁-勒夫→马丁-洛夫（册 2490 行）、latent 义核潜伏→已存在并还原 ideal(ised) 括注、exploitation 开发→发掘；相关词条 17 项逐一对 SUMMARY 定名核定（集合论：集合论的早期发展 即册载定名原名；cantor 库内四源闭合无条目，如实译名候管线挂接）；References 节标题对齐 B 批五条 done 先例，照录说明对齐标准措辞"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "B-main-20261112",
+      "at": "2026-11-11T22:30:19Z",
+      "evidence": "check_prose 3→0 实告警：长句拆分 1（1946 演讲句）、de-chain 化减 1（153 行 所称的→所谓）；余 1 条 de-chain 之 的 均在 Brouwer 1946B 内嵌直引语内（引文逐字不可改），ADR-0020 豁免留痕；术语补登 5 行（连续性原理/连续性定理/映射度/意义学/强反例，字母序插入，与 intuitionism 簇 弱反例/展形/选择序列 同型）；人名补登 16 行（科特韦格/曼努里/尤伟/弗赖登塔尔/门格尔/胡雷维奇/范德瓦耳斯/韦伊/诺特/卡拉泰奥多里/布卢门塔尔/比伯巴赫/贡塞特/德霍尔/范埃登；贝林凡特/德扬/范斯蒂赫 三人 ADR-0022 保留英文）＋Dummett 改判 达米特＋Martin-Löf 同键合并为 佩尔·马丁-洛夫（两处原裁定所在条目 logic-fuzzy/logic-linear 均未实际使用该人名，grep 核证无副作用）；语体：现代汉语学术书面语，通篇无文言句式与成段仿古；量化辅证 之/的=0.104、句末文言标记 0、吾人 0（引块与文献照录除外）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "B-main-20261112",
+      "at": "2026-11-11T22:30:20Z",
+      "evidence": "四检全绿：check_style --strict 0 issue、check_academic --strict 0 硬错误、check_math 0 缺失 0 失衡、check_summary HARD 0；check_prose 0 实告警（1 条直引豁免见 s2）；check_all 九项 8 绿，2 红（分类目录对应性：他会话工作区 SUMMARY/c-change.md 在途 intake；学术规范 task-style-attest×3：tasks/e/epiphenomenalism.json 与 tasks/h/hilbert-program.json 他会话在途标 done 缺留痕）均核证非本批产物，提交限定 pathspec b/ 与登记册"
     }
   ],
   "blockers": [],

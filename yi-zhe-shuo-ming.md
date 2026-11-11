@@ -971,6 +971,8 @@
 | contingency | — | 偶然性 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | contingent being | — | 偶然存在者 | object 首译 | 学界通行汉译（模态形而上学）；凭证 2026-11-07 | 2026-11-07 |
 | continuity axiom | — | 连续性公理 | 首现（intuitionism） | 直觉主义分析学术语；凭证 2026-11-10 | 2026-11-10 |
+| continuity principle | — | 连续性原理 | 首现（intuitionism） | 直觉主义数学通行（选择序列可处理性之原则；与连续性定理分立）；凭证 2026-11-12 | 2026-11-12 |
+| continuity theorem | — | 连续性定理 | 首现（intuitionism） | 直觉主义分析基本定理通行译名（布劳威尔 1927）；凭证 2026-11-12 | 2026-11-12 |
 | continuous creation | — | 持续创造 | la-forge | 学界通行（偶因论研究，creatio continua）；凭证 2026-11-09 | 2026-11-09 |
 | continuum | — | 连续体 | zeno-elea | 学界通行（《物理学》连续性研究；与数学“连续统”分义）；凭证 2026-11-09 | 2026-11-09 |
 | Continuum Hypothesis | — | 连续统假设 | 语料回收（mathematics-inconsistent 首译） | 数学界通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -2905,6 +2907,7 @@
 | many-valued hybrid logic | — | 多值混合逻辑 | logic-hybrid | 学界通行（many-valued logic 多值逻辑）；凭证 2026-11-09 | 2026-11-09 |
 | many-valued logic | — | 多值逻辑 | logic-fuzzy | 逻辑学通行译法；凭证 2026-11-09 | 2026-11-09 |
 | many-worlds interpretation | — | 多世界诠释 | qt-entangle | 学界通行译名；凭证 2026-11-09 | 2026-11-09 |
+| mapping degree | — | 映射度 | 首现（brouwer） | 拓扑学通行译名（degree of mapping）；凭证 2026-11-12 | 2026-11-12 |
 | maqādīr | مقادیر | 量（几何对象；与 aʿdād 数相对） | arabic-islamic-phil-math | 译名裁定（magnitudes） | 2026-11-08 |
 | maqāmah | maqâmah | 玛卡梅（保留音译，首现括注） | f/falaquera 首译 | 阿拉伯文学体裁通行音译（韵文体故事）；凭证 2026-11-11 | 2026-11-11 |
 | marginal revolution | — | 边际革命 | 首现（william-jevons） | 学界通行（经济学史标准术语） | 2026-11-07 |
@@ -4656,6 +4659,7 @@
 | signification | — | 意谓 | richard-sophister | 学界通行汉译（中世纪语义理论） | 2026-11-04 |
 | significatum / res significata / suppositum | — | 意谓对象／所意指之物／所指 | analogy-medieval 首译 | 学界通行（中世纪语义三层区分）；凭证 2026-11-08 | 2026-11-08 |
 | significatum totale / significatum adaequatum | significatum totale / significatum adaequatum | 总体意谓／充分意谓 | nicole-oresme | 中世纪语义学通行译法（与 total significate 总意谓同族）；凭证 2026-11-08 | 2026-11-08 |
+| significs | — | 意义学 | 首现（brouwer） | 学界通行（曼努里学派交往行为分析；与语义学 semantics 分立）；凭证 2026-11-12 | 2026-11-12 |
 | signified | — | 所指 | gadamer-aesthetics | 学界惯例（符号学/索绪尔通行） | 2026-11-01 |
 | signifier | — | 能指 | gadamer-aesthetics | 学界惯例（符号学/索绪尔通行） | 2026-11-01 |
 | Sikh / sikhī | sikhī | 锡克／锡克之道（sikhī 字面义“学习之道”） | 首译（sikh-philosophy） | 学界通行汉译（锡克教研究文献）；sikhī 直译“学习之道”；凭证 2026-11-09 | 2026-11-09 |
@@ -4885,6 +4889,7 @@
 | stringency (of an argument pattern) | — | 严格度 | 首译（scientific-explanation-20th） | 本库首译（Kitcher 1989）；凭证 2026-11-10 | 2026-11-10 |
 | striving possibles | — | 力求存在的可能者 | leibniz-modal | 学界惯例（莱布尼茨研究通行，亦作“力争存在的可能者”备查）；凭证 2026-11-03 | 2026-11-03 |
 | strong completeness | — | 强完全性 | logic-fuzzy | 证明论通行译法；凭证 2026-11-09 | 2026-11-09 |
+| strong counterexample | — | 强反例 | 首现（intuitionism） | 直觉主义数学通行（布劳威尔 1928；与弱反例相对）；凭证 2026-11-12 | 2026-11-12 |
 | strong conjunction | — | 强合取 | logic-fuzzy | 模糊逻辑通行译法；凭证 2026-11-09 | 2026-11-09 |
 | strong loop | — | 强循环 | logic-dynamic | 动态逻辑文献译法（sloop）；凭证 2026-11-10 | 2026-11-09 |
 | strongly actualize | — | 强现实化 | omnipotence 首译 | 与 weakly actualize 弱现实化对举（Wierenga 1989）；凭证 2026-11-11 | 2026-11-11 |
