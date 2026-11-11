@@ -2,7 +2,7 @@
   "slug": "israeli",
   "kind": "retranslate",
   "zh_doc": "i/israeli.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -80,6 +80,34 @@
       "actor": "task_ops",
       "at": "2026-11-10T16:39:54Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-10T22:07:31Z",
+      "evidence": "ADR-0033 置空重译 draft：账本 80 段（body 79＋oir 1）双版全填（反思两步），lq 守恒门 HARD=0（SOFT = 斜体→书名号 33＋机械段 2，逐条留痕）；compose 21,810 字符；源文 2026-08-31 修订版（Fall 2026 存档）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-10T22:12:33Z",
+      "evidence": "一校对照核销：段落 80:80、节数 h2 10:10/h3 19:19、脚注 marker 3:3、defs 键集 37:37 全等、公式 0:0；专名回源核对 13 处（Saʿīd al-Andalusī、Ibn al-Jazzar、Dunash Ibn Tamim、Qusta Ibn Luqa、Ibn Abi Usaybiʾa、Moses Ibn Ezra、Joseph Ibn Tzaddiq、Gerard of Cremona、Nissim ben Solomon、David Qimhi、Ubayd Allah al-Mahdi、S. M. Stern、Borisov）；节名按「## N 中文名」体例；源文 De Fida Orthodoxa 拼写误植，正文统一正名 De Fide Orthodoxa（引文外正字化留痕）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-10T22:12:33Z",
+      "evidence": "二校语言：prose 实修 30 处（长句 12→0 拆分、de-chain 12→0、weak-verb 3→0、plural-men 1→0）；余 2 条豁免留痕：L47 Altmann & Stern 直引（引文内部 de-chain）、L61 亚里士多德实体定义术语（被述说/被谓述，术语内含“被”）；语体：现代汉语学术书面语，通读全文（引文与文献照录除外），无文言仿古，破折号 0 处"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-10T22:12:34Z",
+      "evidence": "三校体例：check_style --docs --strict 0 issue；check_academic --strict 0 硬错误；check_math formulas 0/missing 0/unbalanced 0；check_summary H1 mismatch 0；defs 37:37；marker 3:3；check_terms 硬错误 0（冲突 0）；人名补登 8 行"
     }
   ],
   "blockers": [],

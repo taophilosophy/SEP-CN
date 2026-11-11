@@ -2,7 +2,7 @@
   "slug": "intentionality-ancient",
   "kind": "retranslate",
   "zh_doc": "i/intentionality-ancient.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -80,6 +80,34 @@
       "actor": "task_ops",
       "at": "2026-11-10T16:39:54Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T00:50:00Z",
+      "evidence": "ADR-0033 置空重译 draft：新建账本 45 段（body 44＋oir 1）双版全填（反思两步），旧文言账本仅作历史凭证据 git；lq 守恒门 OK 45 段；compose 23,977 字符；源文 2019-10-18 修订版（Winter 2019 存档）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T00:50:00Z",
+      "evidence": "一校对照核销：段落 45:45、节数 h2 10:10、脚注 marker 18:18 全等、defs 键集 21:21 全等、公式 0:0；相关词条逐条核对 SUMMARY：Gorgias 无词条→高尔吉亚（册内）、intentionality: medieval theories of 未建→意向性：中世纪理论（compose 误配“中世纪的范畴理论”已改），柏拉图《克拉底鲁篇》沿用 SUMMARY 题名；人名按登记册形（普罗塔戈拉、克吕西波、奥古斯丁、布伦塔诺等）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T00:50:00Z",
+      "evidence": "二校语言：prose 39→2（长句 20→1、de-chain 11→0、passive-bei 4→1、weak-verb 3→0、plural-men 1→0）；余 2 条均为巴门尼德直接引文内部（B2 句长 71、“被”×2 在引文内），按 ADR-0020 引文豁免留痕。语体：现代汉语学术书面语，全文通读（引文与文献照录除外），无文言仿古；破折号仅图表式 “……形成一表象，即——” 1 处（源文图式照录）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "I-main-20261111",
+      "at": "2026-11-11T00:50:01Z",
+      "evidence": "三校体例：check_style --docs --strict 0 issue；check_academic --strict 0 硬错误；check_math 0/0/0；check_summary H1 mismatch 0；defs 21:21；marker 18:18；check_terms 硬错误 0；人名无需新增（册内已有）"
     }
   ],
   "blockers": [],
