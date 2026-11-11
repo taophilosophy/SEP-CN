@@ -2,7 +2,7 @@
   "slug": "fuller-margaret",
   "kind": "retranslate",
   "zh_doc": "f/fuller-margaret.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "F-main-20261111b",
       "at": "2026-11-11T06:37:25Z",
       "evidence": "逐句回核五节（生平、一位论与自我修养、超验主义与柏拉图主义、女权主义与谈话会、哲学家的政治）：叙事时间线（1810 生→1835 父丧→1839 谈话会→1843《大诉讼》→1844《十九世纪的妇女》→1846 赴欧→1850 海难）与论辩链逐段对应源文，无漏段、无增译、无事实漂移。数字对账：四位数年份多重集差异仅 1842（源“1840–42”中文展开为 1840–1842）与 1843（书名《1843 年湖上夏日》中英题双现），其余全等；年-页引注组 20:20 全等。关键引文回核（Thurman 2013、Fuller 1843/1845 各段、Channing 1828、Martineau、Carlyle、Mazzini、Ossoli 段）语义一致；引块 2:2。术语登记核销：self-culture 自我修养、self-improvement 自我改善、Conversations 谈话会、transcendentalism 超验主义、faculty psychology 官能心理学均在册；**Unitarianism 行校正**：旧形「一神论派」与 monotheism「一神论」相混，改主形「一位论（亦作唯一神论）」并留 william-jevons 正文涟漪待对齐（不阻断）。check_terms 硬错误 0；check_style --strict 0；check_academic OK；check_math 0/0；check_prose 残余 0。语体结论：现代汉语学术书面语，无文言仿古。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "REV-main-20261111",
+      "at": "2026-11-11T11:27:48Z",
+      "evidence": "终审（REV-main-20261111 独立验收，异于初译/复审 F-main-20261111/11b）：结构对账——defs 62:62 键集与顺序全等、内联 marker 32:32 顺序一致（r1 口径 31:31，差异为计数范围）、节 2:2+子节 4:4、图 0:0、H1 与 SUMMARY 行 1037 逐字一致；四检复跑全绿——check_style 0 / check_math 0 式 0 缺失 0 失衡 / check_academic --strict 0 硬错误 / check_prose 0 告警（s2 实修清零零豁免）；抽读 §2.3 对照源文（谈话会段）无漏译/增译/立场偏移；语体结论：现代汉语学术书面语，无文言仿古"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "REV-main-20261111",
+      "at": "2026-11-11T11:27:48Z",
+      "evidence": "done 收口（REV-main-20261111）：r3 验收签字后正文零改动；四检全绿维持（check_style 0 / check_academic --strict OK / check_math 0/0 / check_prose 0）；复核独立性满足（初译与复审 F 线，终审 REV 线）"
     }
   ],
   "blockers": [],
