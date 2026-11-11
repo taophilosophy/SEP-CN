@@ -2,7 +2,7 @@
   "slug": "ancient-soul",
   "kind": "retranslate",
   "zh_doc": "a/ancient-soul.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "A-main-20261112",
       "at": "2026-11-11T21:22:42Z",
       "evidence": "check_style 0 问题、check_academic OK、check_math missing/unbalanced=0、check_quotes 0 违例、check_terms 硬错 0；Posidonius 登记 ren-ming-biao 并回改正文"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-11T21:45:58Z",
+      "evidence": "冷置回读全文 222 行（中间完成 aesthetic-testimony 全周期后回读）：语体为现代学术书面语；回源抽查 普纽玛/统领能力/hêgemonikon、《斐多》80b 与 70c–72d、《论灵魂》413a32 等编号与 yuanwen 逐处一致；无文言与直译腔"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-11T21:45:58Z",
+      "evidence": "逐句回核：正文 marker 39=39 同序、年份 79=79 同序、定义 61=61 同集、h2/h3=10/13 全等；第 25–58 段与账本 step1 对照（本会话自译）无幻觉增译；术语抽查 灵魂/理性/精神/欲望/普纽玛 与登记册一致"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-11T21:45:59Z",
+      "evidence": "终稿验收：check_style 0、check_academic --strict OK、check_math 0、check_quotes 0、check_terms 硬错 0；check_all 9 项 8 绿，唯一失败项为他会话在途任务（epiphenomenalism/hilbert-program）语体留痕缺失，与本词条无关"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-11T21:45:59Z",
+      "evidence": "A 批 done：ancient-soul 58 段账本双版、222 行成稿、五维对账全等；prose 68→3 引文豁免"
     }
   ],
   "blockers": [],
