@@ -6,10 +6,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "查无": 2598,
-  "不一致": 469,
-  "一致": 672,
-  "未查证": 5169
+  "查无": 2630,
+  "不一致": 481,
+  "一致": 680,
+  "未查证": 5117
  },
  "results": [
   {
@@ -12060,9 +12060,11 @@
    "term": "causal essentialism",
    "trans": "因果本质主义",
    "basis": "学界惯例（形而上学通行）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -12101,9 +12103,11 @@
    "term": "causal interaction",
    "trans": "因果相互作用",
    "basis": "本库首译（Salmon 1984）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -12111,9 +12115,11 @@
    "term": "causal mechanical (CM) model",
    "trans": "因果机制模型",
    "basis": "学界通行（Salmon 1984）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -12145,9 +12151,11 @@
    "term": "causal process",
    "trans": "因果过程",
    "basis": "学界通行（Salmon；与“伪过程”对）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -12246,9 +12254,11 @@
    "term": "causation by omission",
    "trans": "遗漏之因果",
    "basis": "本库首译（omission＝遗漏、不作为）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -12585,9 +12595,48 @@
    "term": "cell senescence",
    "trans": "细胞衰老",
    "basis": "学界通行（细胞生物学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "细胞衰老",
+     "en": "cell aging,cell senescence",
+     "source": "病理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "细胞衰老",
+     "en": "cell aging,cell senescence",
+     "source": "组织学与胚胎学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "细胞衰老",
+     "en": "cell aging,cell senescence",
+     "source": "细胞生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "细胞衰老",
+     "en": "cell aging;cell senescence",
+     "source": "医学遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "细胞衰老",
+     "en": "cell aging\",\"cell senescence",
+     "source": "海峡两岸解剖与组织胚胎学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "细胞衰老",
+     "en": "cell aging\",\"cell senescence",
+     "source": "海峡两岸细胞生物学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -12595,9 +12644,18 @@
    "term": "cell-of-origin",
    "trans": "起源细胞",
    "basis": "学界通行（癌症生物学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "原点小区",
+     "en": "cell of origin,COO",
+     "source": "通信科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -12924,8 +12982,129 @@
    "term": "character",
    "trans": "品性",
    "basis": "学界惯例（Jevons 经济学语境：阶级-性别-种族之品性，White 1994a）；凭证 2026-11-07",
-   "status": "查无",
-   "hits": [],
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "性格",
+     "en": "character",
+     "source": "睡眠医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "性格",
+     "en": "character",
+     "source": "行为医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "性状",
+     "en": "character",
+     "source": "医学遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "性状",
+     "en": "character",
+     "source": "动物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "性格",
+     "en": "character",
+     "source": "计划生育名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "特征标",
+     "en": "character",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "字符",
+     "en": "character",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "性格",
+     "en": "character",
+     "source": "医学美学与美容医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "性格",
+     "en": "character",
+     "source": "心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "特征",
+     "en": "character",
+     "source": "微生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "字符",
+     "en": "character",
+     "source": "地理信息系统名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "性状",
+     "en": "character",
+     "source": "遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "性格",
+     "en": "character",
+     "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "性状",
+     "en": "character",
+     "source": "海峡两岸生态学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "字符",
+     "en": "character",
+     "source": "海峡两岸地理信息系统名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "字符",
+     "en": "character",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "性状",
+     "en": "character",
+     "source": "海峡两岸动物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "品质",
+     "en": "character",
+     "source": "海峡两岸航海科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "性状",
+     "en": "character",
+     "source": "海峡两岸昆虫学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "性格",
+     "en": "character",
+     "source": "维基百科"
+    }
+   ],
    "providers": [
     "termonline-all"
    ]
@@ -12936,9 +13115,120 @@
    "term": "characteristic function",
    "trans": "特征函数",
    "basis": "集合论通行译法；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "特性函数",
+     "en": "characteristic function",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "特征函数",
+     "en": "characteristic function",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "特征函数",
+     "en": "characteristic function",
+     "source": "化学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "特征函数",
+     "en": "characteristic function",
+     "source": "数学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "汉密尔顿特征函数",
+     "en": "Hamilton characteristic function",
+     "source": "地球物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "哈密顿特征函数",
+     "en": "Hamiltonian characteristic function",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "角特征函数",
+     "en": "angular characteristic function",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "点特征函数",
+     "en": "point characteristic function",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "热力学特性函数",
+     "en": "characteristic thermodynamic function",
+     "source": "化工名词(三)化学工程基础"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "项目特征函数",
+     "en": "item characteristic function",
+     "source": "心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "热力学特性函数",
+     "en": "thermodynamic characteristic function",
+     "source": "化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "特征函数",
+     "en": "characteristic function",
+     "source": "海峡两岸大气科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "特性函数",
+     "en": "characteristic function",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "特征函数",
+     "en": "characteristic function",
+     "source": "海峡两岸化学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "特征函数",
+     "en": "characteristic function",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "热力学特性函数",
+     "en": "thermodynamic characteristic function",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "测验特征函数",
+     "en": "test characteristic function",
+     "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "项目特征函数",
+     "en": "item characteristic function",
+     "source": "海峡两岸心理学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -13001,9 +13291,18 @@
    "term": "chatbot",
    "trans": "聊天机器人",
    "basis": "计算机科学通行译名；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "陪聊机器人",
+     "en": "Chatbot",
+     "source": "大数据百科术语辞典"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -13011,9 +13310,11 @@
    "term": "cheater",
    "trans": "欺骗者",
    "basis": "学界通行（社会演化与癌症演化，cheater）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -13033,9 +13334,30 @@
    "term": "cheng",
    "trans": "成（完成）",
    "basis": "中国哲学通行（completion）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "呈",
+     "en": "cheng",
+     "source": "档案学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "呈称",
+     "en": "cheng cheng",
+     "source": "档案学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "城",
+     "en": "cheng",
+     "source": "社会学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -13043,9 +13365,11 @@
    "term": "chi-hosshin / chishin",
    "trans": "智法身",
    "basis": "真言宗汉语传统",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -13396,9 +13720,11 @@
    "term": "choice schema",
    "trans": "选择图式",
    "basis": "直觉主义算术术语；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -13406,9 +13732,11 @@
    "term": "choice sequence",
    "trans": "选择序列",
    "basis": "直觉主义数学通行（布劳威尔术语）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -13416,9 +13744,11 @@
    "term": "choking under pressure",
    "trans": "高压下失常",
    "basis": "运动心理学通行（choking 现象）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -13477,8 +13807,27 @@
    "term": "chuch’e（主體）",
    "trans": "主体",
    "basis": "学界通行（朝鲜主体思想；源文汉字 主體）",
-   "status": "查无",
-   "hits": [],
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "主簿",
+     "en": null,
+     "source": "维基百科"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "主丛",
+     "en": null,
+     "source": "维基百科"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "主生产计划",
+     "en": null,
+     "source": "维基百科"
+    }
+   ],
    "providers": [
     "termonline-all"
    ]
@@ -13489,9 +13838,11 @@
    "term": "Chuci",
    "trans": "《楚辞》",
    "basis": "学界通行学名",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -13550,9 +13901,11 @@
    "term": "Chunqiu Fanlu",
    "trans": "《春秋繁露》",
    "basis": "学界通行学名",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -13560,9 +13913,18 @@
    "term": "Church Fathers",
    "trans": "教父",
    "basis": "学界通行（基督教思想史）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "教父",
+     "en": "father of church",
+     "source": "教育学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -13637,9 +13999,18 @@
    "term": "circumscription",
    "trans": "限定推理",
    "basis": "AI 逻辑通行译法（McCarthy 术语；与国际法 circumscription 限缩分义）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "限定理论",
+     "en": "circumscription",
+     "source": "计算机科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -13731,9 +14102,66 @@
    "term": "civil society",
    "trans": "市民社会",
    "basis": "黑格尔政治哲学通行汉译（bürgerliche Gesellschaft）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "公民社会",
+     "en": "civil society",
+     "source": "管理科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "公民社会指数",
+     "en": "civil society index",
+     "source": "管理科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "全球公民社会",
+     "en": "global civil society",
+     "source": "管理科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "公民社会",
+     "en": "civil society",
+     "source": "维基百科"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "市民社会",
+     "en": "civil society",
+     "source": "社会学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "市民社会",
+     "en": "civil society",
+     "source": "马克思主义"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "市民社会派",
+     "en": "civil society school",
+     "source": "马克思主义"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "民间社会组织",
+     "en": "civil society organization, CSO",
+     "source": "社会医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "市民社会理论",
+     "en": "theory of civil society",
+     "source": "马克思主义"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -13765,8 +14193,63 @@
    "term": "cladistics",
    "trans": "分支系统学",
    "basis": "学界通行译名（生物学哲学文献）；凭证 2026-11-07",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "支序系统学",
+     "en": "cladistics",
+     "source": "植物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "支序系统学",
+     "en": "cladistics",
+     "source": "微生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "分支系统学",
+     "en": "cladistics",
+     "source": "古生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "支序系统学",
+     "en": "cladistics",
+     "source": "遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "进化枝",
+     "en": "cladistics",
+     "source": "地理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "支序分类学",
+     "en": "cladistics",
+     "source": "昆虫学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "进化枝",
+     "en": "cladistics",
+     "source": "海峡两岸地理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "支序系统学,分支系统学",
+     "en": "cladistics",
+     "source": "海峡两岸遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "支序分类学",
+     "en": "cladistics",
+     "source": "海峡两岸昆虫学名词"
+    }
+   ],
    "providers": [
     "termonline-all"
    ]
@@ -13813,9 +14296,11 @@
    "term": "classical AI",
    "trans": "经典 AI",
    "basis": "认知科学史通行称谓（与联结主义对举）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -13823,9 +14308,42 @@
    "term": "classical conditioning",
    "trans": "经典条件作用",
    "basis": "学界通行（巴甫洛夫式条件作用）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "经典条件反射",
+     "en": "classical conditioning",
+     "source": "生理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "经典条件反射",
+     "en": "classical conditioning",
+     "source": "管理科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "经典性条件作用",
+     "en": "classical conditioning",
+     "source": "医学美学与美容医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "经典条件反射",
+     "en": "classical conditioning",
+     "source": "心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "经典性条件反射,经典条件作用",
+     "en": "classical conditioning",
+     "source": "海峡两岸心理学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -13990,9 +14508,11 @@
    "term": "clickjacking",
    "trans": "点击劫持",
    "basis": "信息安全通行译名；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -14000,9 +14520,11 @@
    "term": "clonal evolution",
    "trans": "克隆演化",
    "basis": "学界通行（肿瘤演化）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -14084,9 +14606,11 @@
    "term": "closeness principle",
    "trans": "接近原则",
    "basis": "Smith 模糊性理论通行译法；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -14106,9 +14630,11 @@
    "term": "closure principle",
    "trans": "闭合原则",
    "basis": "学界通行（认识论闭合论证）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -14154,9 +14680,11 @@
    "term": "co-consciousness",
    "trans": "共同意识",
    "basis": "本词条首译（Howell 1992 共同被意识之义）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -14195,8 +14723,57 @@
    "term": "codon bias",
    "trans": "密码子偏倚",
    "basis": "学界通行译名（亦作“密码子偏好性”）；凭证 2026-11-09",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "密码子偏倚",
+     "en": "codon bias",
+     "source": "农学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "密码子偏倚",
+     "en": "codon bias",
+     "source": "生物化学与分子生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "密码子偏倚",
+     "en": "codon bias",
+     "source": "遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "密码子偏倚",
+     "en": "codon bias,codon preference",
+     "source": "植物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "密码子偏倚",
+     "en": "codon bias",
+     "source": "海峡两岸遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "密码子偏爱性（=密码子偏倚）",
+     "en": "codon bias\",\"codon preference",
+     "source": "海峡两岸植物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "密码子偏倚，密码子偏爱性",
+     "en": "codon bias\",\"codon preference",
+     "source": "海峡两岸植物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "密码子偏倚",
+     "en": "codon bias\",\"codon preference",
+     "source": "海峡两岸生物化学与分子生物学名词"
+    }
+   ],
    "providers": [
     "termonline-all"
    ]
@@ -14496,9 +15073,11 @@
    "term": "coherence space",
    "trans": "相干空间",
    "basis": "Girard 术语通行译法；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -14537,9 +15116,11 @@
    "term": "coherentism",
    "trans": "融贯论",
    "basis": "学界惯例（哲学通译；已登记“coherence theory of truth=真理融贯论”）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -14547,9 +15128,11 @@
    "term": "coinage",
    "trans": "铸币",
    "basis": "货币史通行；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -14557,9 +15140,11 @@
    "term": "coincidence of opposites",
    "trans": "对立面的相合",
    "basis": "学界通行；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -14567,9 +15152,11 @@
    "term": "coincidental cause",
    "trans": "偶性原因",
    "basis": "学界惯例（kata sumbebêkos 的通行译法）；凭证 2026-11-08",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -14577,9 +15164,18 @@
    "term": "collapse model",
    "trans": "塌缩模型",
    "basis": "本词条首译裁定（模型论 collapse 通行译法）；凭证 2026-11-06",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "疏水塌缩模型",
+     "en": "hydrophobic-collapse model",
+     "source": "生物物理学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -14587,9 +15183,11 @@
    "term": "Collected topics（bsdus grwa）",
    "trans": "摄类学（bsdus grwa）",
    "basis": "藏传佛教院教育通译",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -14597,9 +15195,11 @@
    "term": "collective prudence",
    "trans": "集体明智",
    "basis": "学界通行（马西利乌斯政治理论核心概念，与亚里士多德个体明智对举）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -14607,9 +15207,11 @@
    "term": "collegia pietatis",
    "trans": "虔敬集会（拉丁原词保留斜体；即虔敬派私下小组聚会 conventicles）",
    "basis": "学界通行汉译（虔敬派研究）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -14674,9 +15276,11 @@
    "term": "combination operator",
    "trans": "组合算子",
    "basis": "学界通行（与合并算子对举）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -14720,9 +15324,36 @@
    "term": "commodity fetishism",
    "trans": "商品拜物教",
    "basis": "学界通行汉译（《资本论》中译本通行）；审定库无查询件（termonline-all 目录现查 2026-11-10）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "商品拜物教",
+     "en": "commodity fetishism",
+     "source": "经济学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "商品拜物教",
+     "en": "Commodity fetishism",
+     "source": "维基百科"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "商品拜物教",
+     "en": "commodity fetishism",
+     "source": "社会学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "商品拜物教",
+     "en": "commodity fetishism",
+     "source": "马克思主义"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -14930,9 +15561,11 @@
    "term": "common sense law of inertia",
    "trans": "常识惯性定律",
    "basis": "AI 逻辑文献通行译法（Shanahan 专著用语）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -14940,9 +15573,11 @@
    "term": "common sensible",
    "trans": "共同可感性质",
    "basis": "学界惯例（洛克《人类理解论》研究通行译法）；凭证 2026-11-06",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -14950,9 +15585,11 @@
    "term": "commonwealth",
    "trans": "国家（共同体）",
    "basis": "学界通行（霍布斯用语；正文依语境用“国家”，首现括注“共同体”）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -14960,9 +15597,78 @@
    "term": "communication protocol",
    "trans": "通信协议",
    "basis": "审定名词（计算机科学技术名词）；凭证 2026-11-07",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "通信协议",
+     "en": "communication protocol",
+     "source": "计量学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "通信协议",
+     "en": "communication protocol",
+     "source": "航天科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "通信规约",
+     "en": "communication protocol",
+     "source": "航空科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "通信协议",
+     "en": "communication protocol",
+     "source": "铁道科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "通信协议一致性",
+     "en": "communication protocol consistence",
+     "source": "计量学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "量子通信协议",
+     "en": "quantum communication protocol",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "通信协议一致性测试",
+     "en": "communication protocol consistence test",
+     "source": "计量学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "通信协议",
+     "en": "communication protocol",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "通信协议",
+     "en": "communication protocol",
+     "source": "海峡两岸航海科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "数字数据通信协议",
+     "en": "digital data communication message protocol",
+     "source": "海峡两岸地理信息系统名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "通信协议",
+     "en": "communication protocol",
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -14970,9 +15676,18 @@
    "term": "communication rule",
    "trans": "通信规则",
    "basis": "超矢列演算术语直译；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "沟通规则",
+     "en": "communication rule",
+     "source": "新闻学与传播学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -14980,9 +15695,24 @@
    "term": "communitarianism",
    "trans": "共同体主义",
    "basis": "学界通行（亦作“社群主义”；本库取共同体主义以别于“共同体”形态描述）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "社群主义",
+     "en": "communitarianism",
+     "source": "社会学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "社群主义",
+     "en": "communitarianism",
+     "source": "医学伦理学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -14990,9 +15720,11 @@
    "term": "commutative monoid",
    "trans": "可交换幺半群",
    "basis": "代数学通行译法；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -15000,9 +15732,11 @@
    "term": "commutativity",
    "trans": "交换性",
    "basis": "结构规则通行译法；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -15010,9 +15744,11 @@
    "term": "comparatio",
    "trans": "《比较论》（文类名）",
    "basis": "本词条首译（文艺复兴“哲学家比较”文类，拉丁 comparatio 直译；待 specs/008 审定库复核）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -15034,9 +15770,11 @@
    "term": "compensatory",
    "trans": "补偿式",
    "basis": "学界惯例（补偿式解答）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -15044,9 +15782,84 @@
    "term": "competence",
    "trans": "胜任度",
    "basis": "学界惯例（陪审团定理语境指个体判断正确的概率）；凭据 2026-11-02",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "感受态",
+     "en": "competence",
+     "source": "农学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "感受态",
+     "en": "competence",
+     "source": "医学遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "反应能力",
+     "en": "competence",
+     "source": "动物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "胜任特征",
+     "en": "competence",
+     "source": "管理科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "感受性",
+     "en": "competence",
+     "source": "组织学与胚胎学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "感受态",
+     "en": "competence",
+     "source": "微生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "感受态",
+     "en": "competence",
+     "source": "细胞生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "感受态",
+     "en": "competence",
+     "source": "遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "搬运力",
+     "en": "competence",
+     "source": "海峡两岸海洋科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "感受态",
+     "en": "competence",
+     "source": "海峡两岸细胞生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "感受态",
+     "en": "competence",
+     "source": "海峡两岸遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "反应能力",
+     "en": "competence",
+     "source": "海峡两岸动物学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -15054,9 +15867,11 @@
    "term": "competence heterogeneity",
    "trans": "胜任度异质性",
    "basis": "学界惯例（本词条定名）；凭据 2026-11-02",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -15064,9 +15879,24 @@
    "term": "competence（医疗与法律语境）",
    "trans": "行为能力",
    "basis": "学界惯例（法学通译，与 decision-making capacity“决策能力”相区分；凭证 2026-11-06）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "法律",
+     "en": null,
+     "source": "维基百科"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "法律事实",
+     "en": null,
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -15074,9 +15904,11 @@
    "term": "competency question",
    "trans": "能力问题",
    "basis": "本体工程通行（Gruninger & Fox 的术语）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",

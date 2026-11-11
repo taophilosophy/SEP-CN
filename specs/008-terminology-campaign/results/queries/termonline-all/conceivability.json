@@ -1,0 +1,33 @@
+{
+ "key": "conceivability",
+ "term": "conceivability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T01:56:27+00:00",
+ "status": "ok",
+ "note": "variant=conceivability; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=2; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "可设想性论证",
+   "en": "conceivability argument",
+   "code": "03.518",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学"
+  },
+  {
+   "cn": "科学立法、严格执法、公正司法、全民守法",
+   "en": "take a well-conceived approach to law-making, and ensure that law is strictly enforced, justice is administered impartially, and the law is observed by all",
+   "code": null,
+   "standard": "中央文献重要术语",
+   "subject": "其他"
+  },
+  {
+   "cn": "职能科学、权责法定、执法严明、公开公正、廉洁高效、守法诚信的法治政府",
+   "en": "a rule of law government which has well-conceived functions and statutorily defined powers and responsibilities; which strictly enforces the law and is impartial; and which operates in an open, clean, and efficient way, with strong credibility",
+   "code": null,
+   "standard": "中央文献重要术语",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

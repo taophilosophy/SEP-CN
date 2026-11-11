@@ -1,0 +1,348 @@
+{
+ "key": "computably enumerable",
+ "term": "computably enumerable",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T01:53:26+00:00",
+ "status": "ok",
+ "note": "variant=computably enumerable; 审定公布名词库=905; 海峡两岸名词对照库=349; 其他来源数据库=202; 预公布名词数据库=21; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "计算可枚举图灵度",
+   "en": "computably enumerable Turing degree",
+   "code": "02.0236",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "枚举",
+   "en": "enumeration",
+   "code": "02.0264",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_递归论"
+  },
+  {
+   "cn": "计算机",
+   "en": "computer ",
+   "code": "3.0416",
+   "standard": "草学名词",
+   "subject": "草学_草地资源与利用"
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "code": "02.0110",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "可计算性",
+   "en": "computability",
+   "code": "02.0918",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_程序理论"
+  },
+  {
+   "cn": "计算机",
+   "en": "computer",
+   "code": "01.0001",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_通论_计算机系统组成"
+  },
+  {
+   "cn": "计算机",
+   "en": "computer",
+   "code": "06.118",
+   "standard": "资源科学技术名词",
+   "subject": "资源科学技术_资源信息学"
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "code": "02.0262",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_递归论"
+  },
+  {
+   "cn": "可计算性",
+   "en": "computability",
+   "code": "02.0257",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_递归论"
+  },
+  {
+   "cn": "计算可枚举集完全性准则",
+   "en": "completeness criterion for the computably enumerable sets",
+   "code": "02.0225",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "计算可枚举集的归约原理",
+   "en": "reduction principle for the computably enumerable sets",
+   "code": "02.0191",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "隐式枚举",
+   "en": "implicit enumeration",
+   "code": "05.199",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程系统优化"
+  },
+  {
+   "cn": "枚举",
+   "en": "enumeration",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "计算机",
+   "en": "computer",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "枚举法",
+   "en": "enumeration method",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "重量枚举器",
+   "en": "weight enumerator",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "概算，初算",
+   "en": "field computation\",\"preliminary  computation",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "可计算模型",
+   "en": "computable model",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "可计算函数",
+   "en": "computable function",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "递归可枚举语言",
+   "en": "recursively enumerable language",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "计算不稳定性",
+   "en": "computational instability",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "计算模[态]",
+   "en": "computational mode",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "电子计算机",
+   "en": "computer",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "穷举法",
+   "en": "enumeration method",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "可计算函数",
+   "en": "computable function",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "递归可枚举集合",
+   "en": "Recursively enumerable set",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "计算机图形学",
+   "en": "computer graphics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "分布式计算",
+   "en": "Distributed computing",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "并发计算",
+   "en": "Concurrent computing",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "字节码",
+   "en": "Execution (computing)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "程序设计",
+   "en": "Computer programming",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "个人计算机",
+   "en": "Personal Computer",
+   "code": null,
+   "standard": "外语中文译写规范部际联席会议专家委员会",
+   "subject": "其他"
+  },
+  {
+   "cn": "计算机断层扫描",
+   "en": "Computed Tomography",
+   "code": null,
+   "standard": "外语中文译写规范部际联席会议专家委员会",
+   "subject": "其他"
+  },
+  {
+   "cn": "计算生物学",
+   "en": "Biological computation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "电脑组件",
+   "en": "computer components",
+   "code": "9.3.1.3.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生"
+  },
+  {
+   "cn": "电脑桌面",
+   "en": "computer desktop",
+   "code": "9.3.1.3.4",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生"
+  },
+  {
+   "cn": "计算机X射线摄影",
+   "en": "computed radiography，CR",
+   "code": "6.4.2.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  },
+  {
+   "cn": "计算机体层成像",
+   "en": "computed tomography，CT",
+   "code": "6.4.2.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  },
+  {
+   "cn": "工业计算机断层成像",
+   "en": "industrial computed tomography",
+   "code": "6.5.2.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_工业应用的放射防护_工业探伤应用"
+  },
+  {
+   "cn": "电脑椅座面",
+   "en": "computer chair seat",
+   "code": "9.3.1.3.5",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生"
+  },
+  {
+   "cn": "电脑椅靠背",
+   "en": "computer chair back",
+   "code": "9.3.1.3.6",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生"
+  },
+  {
+   "cn": "计算暴露评估",
+   "en": "computational exposure assessment",
+   "code": "1.4.4.36",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "发射计算机体层成像",
+   "en": "emission computed tomography，ECT",
+   "code": "6.4.3.11",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_核医学"
+  },
+  {
+   "cn": "电脑使用卫生要求",
+   "en": "hygiene of computer use",
+   "code": "9.3.1.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生"
+  },
+  {
+   "cn": "计算机自适应测试",
+   "en": "computer-adaptive test, CAT",
+   "code": "5.3.3.3.1",
+   "standard": "社会医学名词",
+   "subject": "生命质量"
+  },
+  {
+   "cn": "计算毒理学",
+   "en": "computational toxicology, in silico",
+   "code": "1.4.2.58",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

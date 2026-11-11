@@ -2,10 +2,347 @@
  "key": "conclusive reason",
  "term": "conclusive reason",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T15:30:30+00:00",
- "status": "error",
- "note": "variant=conclusive reason; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "conclusive reason: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T01:59:27+00:00",
+ "status": "ok",
+ "note": "variant=conclusive reason; 审定公布名词库=1611; 海峡两岸名词对照库=808; 其他来源数据库=74; 预公布名词数据库=102; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "结论",
+   "en": "conclusion",
+   "code": "01.0010",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "实验结论",
+   "en": "experimental conclusion",
+   "code": "03.082",
+   "standard": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "subject": "化工（五）_研发与工程化_基础研究与技术开发"
+  },
+  {
+   "cn": "设计总结",
+   "en": "design conclusion",
+   "code": "04.131",
+   "standard": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "subject": "化工（五）_工程建设_工程设计"
+  },
+  {
+   "cn": "审核结论",
+   "en": "audit conclusion",
+   "code": "06.388",
+   "standard": "林学名词",
+   "subject": "林学_森林经理_森林认证"
+  },
+  {
+   "cn": "审核结论",
+   "en": "audit conclusion",
+   "code": "05.0808",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_生产运作管理与工业工程_质量管理"
+  },
+  {
+   "cn": "论证",
+   "en": "reasoning",
+   "code": "4.278",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻评论"
+  },
+  {
+   "cn": "推理",
+   "en": "reasoning",
+   "code": "2.091",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为医学基本理论_认知理论"
+  },
+  {
+   "cn": "推理",
+   "en": "reasoning",
+   "code": "01.0132",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "推理",
+   "en": "reasoning",
+   "code": "04.174",
+   "standard": "阿尔茨海默病名词",
+   "subject": "阿尔茨海默病_精神与心理认知学"
+  },
+  {
+   "cn": "推理",
+   "en": "reasoning",
+   "code": "08.0066",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_自动推理"
+  },
+  {
+   "cn": "实践理性",
+   "en": "practical reason",
+   "code": "03.815",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学"
+  },
+  {
+   "cn": "公共理性",
+   "en": "public reason",
+   "code": "12.198",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_政治传播_公民社会与政治传播"
+  },
+  {
+   "cn": "确定证据",
+   "en": "conclusive evidence",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "道德推理",
+   "en": "moral reasoning",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "条件推理",
+   "en": "conditional reasoning",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "矩阵推理",
+   "en": "matrix reasoning",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "推理",
+   "en": "inference\",\"reasoning",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "前向推论",
+   "en": "forward reasoning",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "合理价值",
+   "en": "reasonable value",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "合理利润",
+   "en": "reasonable profit",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "不精确推理",
+   "en": "inexact reasoning",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "不确定推理",
+   "en": "uncertain reasoning",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "常识推理",
+   "en": "commonsense reasoning",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "单调推理",
+   "en": "monotonic reasoning",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "小收煞",
+   "en": "Midpoint Conclusion",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "Deductive Reasoning",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "溯因推理",
+   "en": "abductive reasoning",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "肌理",
+   "en": "Reasoning and Structure",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "跨媒体分析推理技术",
+   "en": "cross-media analysis and reasoning technology",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "精理为文，秀气成采",
+   "en": "Produce Reasoning-based Writings with Graceful Literary Style",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "普惠经济",
+   "en": "inclusive economy",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "包容性增长",
+   "en": "inclusive growth",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "普惠金融",
+   "en": "inclusive finance",
+   "code": null,
+   "standard": "中央文献重要术语",
+   "subject": "其他"
+  },
+  {
+   "cn": "普惠性交易基础设施",
+   "en": "inclusive trading infrastructure",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "普惠信贷服务",
+   "en": "inclusive credit service",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "一年生植物",
+   "en": "Growing season",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "思辨理性",
+   "en": "speculative reason",
+   "code": "01.0099",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "实践理性",
+   "en": "practical reason",
+   "code": "01.0100",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "辩证理性",
+   "en": "dialectical reason",
+   "code": "01.0173",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "纯粹理性",
+   "en": "pure reason",
+   "code": "01.0174",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "民粹主义理性",
+   "en": "populist reason",
+   "code": "05.0090",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "公共理性",
+   "en": "public reason",
+   "code": "1.055",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "实践理性",
+   "en": "practical reason",
+   "code": "1.0623",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "离岗时检查结论",
+   "en": "examination conclusion when leaving the post",
+   "code": "4.3.2.23",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查"
+  },
+  {
+   "cn": "理性行为理论",
+   "en": "theory of reasoned action, TRA",
+   "code": "5.3.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育理论与模式"
+  },
+  {
+   "cn": "ALARA原则",
+   "en": "As low as reasonably achievable principle",
+   "code": "10.2.2.9",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_重要组织、机构和历史事件_历史事件_推动历史发展的重要事件"
+  },
+  {
+   "cn": "医学原因妊娠终止",
+   "en": "termination of pregnancy due to medical reason",
+   "code": "5.3.2",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_生育调节_人工流产"
+  },
+  {
+   "cn": "有理有利有节",
+   "en": "with good reason to our advantage and with restraint",
+   "code": "03.0436",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
  "raw": null
 }

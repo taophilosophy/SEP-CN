@@ -731,7 +731,7 @@
 | commonwealth | — | 国家（共同体） | hobbes-moral 首译 | 学界通行（霍布斯用语；正文依语境用“国家”，首现括注“共同体”）；凭证 2026-11-09 | 2026-11-09 |
 | communication protocol | — | 通信协议 | s/social-procedures 首译 | 审定名词（计算机科学技术名词）；凭证 2026-11-07 | 2026-11-07 |
 | communication rule | — | 通信规则 | logic-fuzzy | 超矢列演算术语直译；凭证 2026-11-09 | 2026-11-09 |
-| communitarianism | — | 共同体主义 | 首译（african-ethics） | 学界通行（亦作“社群主义”；本库取共同体主义以别于“共同体”形态描述）；凭证 2026-11-09 | 2026-11-09 |
+| communitarianism | — | 社群主义（亦作“共同体主义”） | 首译（african-ethics） | 审定名词库（termonline-all·社会学/医学伦理学名词，2026-11-11 浏览器通道凭证）；学界通行形（正文原混用 15:14，2026-11-11 归一） | 2026-11-11 |
 | commutative monoid | — | 可交换幺半群 | logic-fuzzy | 代数学通行译法；凭证 2026-11-09 | 2026-11-09 |
 | commutativity | — | 交换性 | logic-substructural | 结构规则通行译法；凭证 2026-11-10 | 2026-11-09 |
 | comparatio | — | 《比较论》（文类名） | bessarion | 本词条首译（文艺复兴“哲学家比较”文类，拉丁 comparatio 直译；待 specs/008 审定库复核） | 2026-11-10 |

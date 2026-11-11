@@ -2,10 +2,347 @@
  "key": "conative experiences",
  "term": "conative experiences",
  "provider": "termonline-all",
- "queried_at": "2026-11-09T15:27:30+00:00",
- "status": "error",
- "note": "variant=conative experiences; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "conative experiences: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-11T01:56:27+00:00",
+ "status": "ok",
+ "note": "variant=conative experiences; 审定公布名词库=655; 海峡两岸名词对照库=157; 其他来源数据库=26; 预公布名词数据库=49; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "集合",
+   "en": "convergence,Con",
+   "code": "05.103",
+   "standard": "医学名词 第五分册",
+   "subject": "医学_眼科学_眼屈光学"
+  },
+  {
+   "cn": "磁层对流",
+   "en": "magnetospheric con-vection",
+   "code": "05.0185",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_空间物理学_电离层"
+  },
+  {
+   "cn": "质量摩尔浓度",
+   "en": "mass molar con-centration",
+   "code": "07.0145",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地壳流体科学_水化学性质"
+  },
+  {
+   "cn": "伴刀豆凝集素A",
+   "en": "concanavalin A,Con A",
+   "code": "09.140",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞免疫"
+  },
+  {
+   "cn": "伴刀豆球蛋白A",
+   "en": "concanavalin A,Con A",
+   "code": "1.104",
+   "standard": "免疫学名词",
+   "subject": "免疫学_概论_免疫学相关名词"
+  },
+  {
+   "cn": "面向连接网络业务",
+   "en": "connectionmode network service,CONS",
+   "code": "13.105",
+   "standard": "通信科学技术名词",
+   "subject": "通信科学技术_服务与应用"
+  },
+  {
+   "cn": "电磁干扰控制",
+   "en": "electromagnetic interference con- trol",
+   "code": "30.080",
+   "standard": "电气工程名词",
+   "subject": "电气工程_电磁干扰和电磁兼容"
+  },
+  {
+   "cn": "单心室性房室连接",
+   "en": "univentricular atrioventricular con- nections",
+   "code": "03.588",
+   "standard": "医学名词 第六分册",
+   "subject": "医学_胸心血管外科学"
+  },
+  {
+   "cn": "最大[结构]高度",
+   "en": "maximum con-structive height",
+   "code": "06.235",
+   "standard": "煤炭科学技术名词",
+   "subject": "煤炭科学技术_矿山机械工程_液压支架"
+  },
+  {
+   "cn": "最小[结构]高度",
+   "en": "minimum con-structive height",
+   "code": "06.236",
+   "standard": "煤炭科学技术名词",
+   "subject": "煤炭科学技术_矿山机械工程_液压支架"
+  },
+  {
+   "cn": "静电非导体",
+   "en": "electrostatic non-con-ductor",
+   "code": "07.106",
+   "standard": "煤炭科学技术名词",
+   "subject": "煤炭科学技术_矿山电气工程_矿山电气安全"
+  },
+  {
+   "cn": "钢筋混凝土支架",
+   "en": "reinforced-con-crete support",
+   "code": "04.185",
+   "standard": "煤炭科学技术名词",
+   "subject": "煤炭科学技术_矿井建设_井巷支护"
+  },
+  {
+   "cn": "浓积云",
+   "en": "cumulus congestus\",\"Cu con",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "伴刀豆球蛋白 A",
+   "en": "concanavalin A， Con A",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "伴刀豆凝集素A",
+   "en": "concanavalin A\",\"Con A",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "50% 最低抑菌浓度",
+   "en": "MIC50（=50% minimum inhibitory con-centration）",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "90% 最低抑菌浓度",
+   "en": "MIC90（=90% minimum inhibitory con-centration）",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "生存世界",
+   "en": "erlebnis\",\"experience",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "顿悟经验",
+   "en": "“Aha” experience",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "用户体验",
+   "en": "user experience",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "顶峰体验,巅峰体验",
+   "en": "peak experience",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "空间经验",
+   "en": "spatial experience",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "交叉试验",
+   "en": "crossover experiment",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "数值实验",
+   "en": "numerical experiment",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "场景体验",
+   "en": "scenario experience",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "体验层次",
+   "en": "experience level",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "准实验",
+   "en": "Quasi-experiment",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "扩散电流",
+   "en": "Haynes–Shockley experiment",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "仿星器",
+   "en": "Helically Symmetric Experiment",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "小艾伯特实验",
+   "en": "Little Albert experiment",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子互联网实验",
+   "en": "Quantum Internet Experiment",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "施特恩-格拉赫实验",
+   "en": "Stern-Gerlach experiment",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "亲知",
+   "en": "Knowledge from Personal Experience",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "新型量子互联网实验",
+   "en": "new quantum Internet experiment",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "布丰投针实验",
+   "en": "Buffon’s needle experiment",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "消费扶贫体验活动",
+   "en": "experience of poverty alleviation through consumption",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "投资审核",
+   "en": "certificate-of-need ,CON",
+   "code": "6.4.2.6",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用"
+  },
+  {
+   "cn": "经验",
+   "en": "experience",
+   "code": "01.0202",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  },
+  {
+   "cn": "实验",
+   "en": "experiment",
+   "code": "1.2.3.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_研究设计"
+  },
+  {
+   "cn": "宗教体验",
+   "en": "religious experience",
+   "code": "3.9.2.23",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_宗教社会学_宗教研究"
+  },
+  {
+   "cn": "感性经验",
+   "en": "perceptual experience",
+   "code": "01.0179",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "自我体验",
+   "en": "self-experience",
+   "code": "2.5.10.4",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_心理行为发育"
+  },
+  {
+   "cn": "情绪体验",
+   "en": "emotional experience",
+   "code": "4.2.5.16",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_儿童保健_儿童生长发育"
+  },
+  {
+   "cn": "准实验",
+   "en": "quasi-experiment",
+   "code": "1.2.3.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_研究设计"
+  },
+  {
+   "cn": "霍桑试验",
+   "en": "Hawthorne experiment",
+   "code": "1.0178",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "女性经验",
+   "en": "women’s experiences",
+   "code": "3.2.3.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别研究"
+  },
+  {
+   "cn": "传帮带",
+   "en": "passing on experience",
+   "code": "04.0145",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期"
+  },
+  {
+   "cn": "儿童期不良经历",
+   "en": "childhood adverse experience",
+   "code": "8.3.9",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_伤害与暴力_针对儿童的暴力"
+  }
+ ],
+ "error": null,
  "raw": null
 }
