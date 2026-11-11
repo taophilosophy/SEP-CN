@@ -1351,74 +1351,98 @@ segments:
     kind: note
     source: |-
       [^note-13]: For details, see Cohen 1971.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-13]: 详细讨论见 Cohen 1971。
+    step2: |-
+      [^note-13]: 详见 Cohen 1971。
   - id: 162
     kind: note
     source: |-
       [^note-14]: See G. E. Smith, “The Origins of Book 2 of Newton's *Principia*,” forthcoming.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-14]: 见 G. E. Smith, “The Origins of Book 2 of Newton's *Principia*,” 即将出版。
+    step2: |-
+      [^note-14]: 见 G. E. Smith, “The Origins of Book 2 of Newton's *Principia*,” 即出。
   - id: 163
     kind: note
     source: |-
       [^note-15]: *Journal des Sçavants*, vol. 16 (2 August 1688), pp. 237-8. Translation by Alexandre Koyré. For details on other reviews, see Cohen, 1971, Chapter VI.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-15]: 《学者杂志》第 16 卷（1688 年 8 月 2 日），第 237–8 页。由亚历山大·柯瓦雷翻译。关于其他书评的细节，见 Cohen, 1971, 第六章。
+    step2: |-
+      [^note-15]: 《学者杂志》第 16 卷（1688 年 8 月 2 日），第 237–8 页。亚历山大·柯瓦雷译。关于其他书评的细节，见 Cohen, 1971, 第六章。
   - id: 164
     kind: note
     source: |-
       [^note-16]: The quotation, with the italics in the original, is from Bertoloni Meli's translation, p. 132. Bertoloni Meli shows in his book that, contrary to what Leibniz claimed when publishing his *Tentamen*, he had read at least significant parts of Newton's *Principia*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-16]: 引文（斜体为原文所有）来自贝托洛尼·梅利的译本，第 132 页。贝托洛尼·梅利在书中表明，与莱布尼茨发表其《试论》时所声称的相反，他至少读过牛顿《原理》的相当部分。
+    step2: |-
+      [^note-16]: 引文（斜体为原文所有）出自贝托洛尼·梅利的译本，第 132 页。贝托洛尼·梅利在书中表明，与莱布尼茨发表其《试论》时所声称的相反，他至少读过牛顿《原理》的重要部分。
   - id: 165
     kind: note
     source: |-
       [^note-17]: The second half of Book 2 Section 7, as it appeared in the first edition, can be found in **V**, 775-784; for an English translation, see Buchwald and Cohen, 2001, 299-313.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-17]: 第二卷第七节后半部分在第一版中的样子，见 **V**, 775-784；英译见 Buchwald and Cohen, 2001, 299-313。
+    step2: |-
+      [^note-17]: 第一版中第二卷第七节的后半部分，见 **V**, 775-784；英译见 Buchwald and Cohen, 2001, 299-313。
   - id: 166
     kind: note
     source: |-
       [^note-18]: The philosophical discussion of Newtonian space and time divides across three distinct eras. During most of the eighteenth century, before the extent to which Newton's theory of gravity succeeds in dealing with the actual orbital motions became clear, the burden of proof fell more or less equally on the supporters and critics of Newton. During the nineteenth century the burden of proof fell heavily on Newton's critics. During the twentieth century, following Einsteinian relativity, the discussion, much of it highly sophisticated, has centered on stating with precision the Newtonian assumptions that were in error, as illustrated by the classic philosophical discussion in Stein 1967. For an illuminating examination of the history of the discussion, as well as a very careful analysis of Newton's position, see DiSalle 2006. The position in the text derives from Stein and DiSalle.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-18]: 关于牛顿式空间与时间的哲学讨论可分为三个不同时代。在 18 世纪的大部分时间里，在牛顿引力理论处理实际轨道运动的成功程度变得清楚之前，举证责任或多或少平均落在牛顿的支持者与批评者双方。19 世纪，举证责任重重落在牛顿的批评者一方。20 世纪，在爱因斯坦相对论之后，讨论（其中许多极为精细）集中于精确陈述那些有误的牛顿式预设，斯坦 1967 的经典哲学讨论即为一例。关于这场讨论史的一项富有启发的考察，以及对牛顿立场的极其细致的分析，见 DiSalle 2006。正文中的立场来自斯坦与 DiSalle。
+    step2: |-
+      [^note-18]: 对牛顿式空间与时间的哲学讨论可分成三个不同时代。在 18 世纪的大部分时间里，在牛顿引力理论处理实际轨道运动的成功程度变得清楚之前，举证责任或多或少平均落在牛顿的支持者与批评者双方。19 世纪，举证责任重重落在牛顿的批评者一方。20 世纪，在爱因斯坦相对论之后，讨论（其中许多极为精细）集中于精确陈述那些有误的牛顿式预设，斯坦 1967 的经典哲学讨论即为一例。关于这场讨论史的有启发性的考察，以及对牛顿立场的极其细致的分析，见 DiSalle 2006。正文中的立场来自斯坦与 DiSalle。
   - id: 167
     kind: note
     source: |-
       [^note-19]: Today we would be more inclined to say no quantity without unequivocal ordinality among its values, in the process distinguishing between ordinal, interval, and ratio scales. Although Newton was perfectly aware of the difference between interval and ratio scales, his insistence on the quantities entering physics involving definite proportions is clear throughout the *Principia*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-19]: 今天人们会更倾向于说：没有在其诸值之间具有明确序性的量，并在此过程中区分序数尺度、区间尺度与比率尺度。尽管牛顿完全知道区间尺度与比率尺度之间的区别，但他坚持进入物理学的量都涉及确定的比例，这一点贯穿整部《原理》，十分清楚。
+    step2: |-
+      [^note-19]: 今天我们会更倾向于说：没有在其诸值之间具有明确序性的量，并在此过程中区分序数尺度、区间尺度与比率尺度。尽管牛顿完全知道区间尺度与比率尺度之间的区别，但他坚持进入物理学的量都涉及确定的比例，这一点在整部《原理》中都很清楚。
   - id: 168
     kind: note
     source: |-
       [^note-20]: For more about these assumptions and their later rejection, see DiSalle 2006.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-20]: 关于这些预设及其后来遭拒斥的更多内容，见 DiSalle 2006。
+    step2: |-
+      [^note-20]: 关于这些预设及其后来被拒斥的更多内容，见 DiSalle 2006。
   - id: 169
     kind: note
     source: |-
       [^note-21]: This analysis of Newton's second law is developed in detail in Bruce Pourciau's “Newton's Interpretation of Newton's Second Law,” *Archive for History of Exact Sciences*, 60, 2006, pp. 157-207.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-21]: 对牛顿第二定律的这一分析，在布鲁斯·波尔西奥所写的“牛顿对牛顿第二定律的解释”一文中得到详细展开，*Archive for History of Exact Sciences*, 60, 2006, pp. 157-207。
+    step2: |-
+      [^note-21]: 对牛顿第二定律的这一分析，在布鲁斯·波尔西奥的“牛顿对牛顿第二定律的解释”一文中得到详细展开，*Archive for History of Exact Sciences*, 60, 2006, pp. 157-207。
   - id: 170
     kind: note
     source: |-
       [^note-22]: The idea of using the tension in the string to measure the centrifugal endeavor of an object in uniform circular motion originated not with Huygens, but with Descartes in a too much ignored passage, **D**, 3, 59. Huygens and Newton were both familiar with this passage.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-22]: 用绳中张力来量度物体在匀速圆周运动中的离心趋势，这一想法不是从惠更斯开始的，而是始于笛卡尔在一段太被忽视的文字中的说法，**D**, 3, 59。惠更斯与牛顿都熟悉这段文字。
+    step2: |-
+      [^note-22]: 用绳中张力来量度物体在匀速圆周运动中的离心趋势，这一想法并非始于惠更斯，而是始于笛卡尔在一段太被忽视的文字中的说法，**D**, 3, 59。惠更斯与牛顿都熟悉这段文字。
   - id: 171
     kind: note
     source: |-
       [^note-23]: Newton had employed the third law in his lectures on algebra as one of two principles from which problems of impacting hard spheres could be solved. See Whiteside, *The Mathematical Papers of Isaac Newton*, vol. v, p. 149. The third law first became public, however, in his *Principia*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-23]: 牛顿曾在代数讲稿中用过第三定律，作为据以解决硬球碰撞问题的两条原理之一。见 Whiteside, *The Mathematical Papers of Isaac Newton*, vol. v, p. 149。不过，第三定律首次公开却是在他的《原理》中。
+    step2: |-
+      [^note-23]: 牛顿曾在代数讲稿中使用第三定律，作为据以解决硬球碰撞问题的两条原理之一。见 Whiteside, *The Mathematical Papers of Isaac Newton*, vol. v, p. 149。然而，第三定律首次公开是在他的《原理》中。
   - id: 172
     kind: note
     source: |-
       [^note-24]: Newton goes on to say, “By means of the first two laws and the first two corollaries Galileo found that the descent of heavy bodies is in the squared ratio of the time and that the motion of projectiles occurs in a parabola, as experiment confirms, except insofar as these motions are somewhat retarded by the resistance of the air.” In fact, Galileo does not employ the notion of force at all in his derivation of these two relationships, and contrary to legend however much Galileo may have anticipated the first law, he never showed the least sign of appreciating the implication that Descartes emphasized, that curvilinear motion requires something to deflect the body out of its motion in a straight line. In the second edition of the *Principia* Newton adds a passage indicating how the two Galilean relationships can be derived using the first two laws and first two corollaries. All the evidence indicates that Newton never read Galileo's *Two New Sciences* and knew of the results in it only through secondary sources, including Huygens's *Horologium Oscillatorium*. His claim about Galileo accordingly was more likely just presumptuous, and not dishonest.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-24]: 牛顿接下来写道：“凭借前两条定律与前两条推论，伽利略发现重物下落与时间的平方成比例，抛体运动沿抛物线进行，正如实验所确认的，除非这些运动因空气阻力而多少有所减慢。”事实上，伽利略在推导这两个关系时根本没有使用力的概念；而且与流传的说法相反，无论伽利略可能多么早地预见到第一定律，他从未表现出丝毫迹象表明他领会了笛卡尔所强调的蕴含：曲线运动需要某种东西使物体偏离其直线运动。在《原理》第二版中，牛顿添加了一段文字，说明如何用前两条定律与前两条推论推出伽利略的两个关系。所有证据都表明，牛顿从未读过伽利略的《关于两门新科学的对话》，只通过二手来源（包括惠更斯的《摆钟论》）知道其中的结果。因此，他关于伽利略的说法更可能只是臆断，而非不诚实。
+    step2: |-
+      [^note-24]: 牛顿接着说：“凭借前两条定律与前两条推论，伽利略发现重物下落与时间的平方成比例，抛体运动沿抛物线进行，正如实验所确认的，除非这些运动因空气阻力而多少有所减慢。”事实上，伽利略在推导这两个关系时根本没有使用力的概念；而且与传说相反，无论伽利略可能多么早地预见到第一定律，他从未表现出丝毫迹象表明他领会了笛卡尔所强调的蕴含：曲线运动需要某种东西使物体偏离其直线运动。在《原理》第二版中，牛顿添加了一段文字，说明如何用前两条定律与前两条推论推出伽利略的两个关系。所有证据都表明，牛顿从未读过伽利略的《关于两门新科学的对话》，只通过二手来源（包括惠更斯的《摆钟论》）知道其中的结果。因此，他关于伽利略的说法更可能只是臆断，而非不诚实。
   - id: 173
     kind: note
     source: |-
