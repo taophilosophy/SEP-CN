@@ -1,0 +1,131 @@
+{
+ "key": "gradability",
+ "term": "gradability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T05:10:31+00:00",
+ "status": "ok",
+ "note": "variant=gradability; 审定公布名词库=14; 海峡两岸名词对照库=5; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "爬坡能力",
+   "en": "gradeability",
+   "code": "01.0023",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_物料搬运机械_起重机械_一般名词"
+  },
+  {
+   "cn": "可读性",
+   "en": "readability",
+   "code": "06.01.021",
+   "standard": "档案学名词",
+   "subject": "档案学_电子文件管理_综合"
+  },
+  {
+   "cn": "可读性",
+   "en": "readability",
+   "code": "05.01.063",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_发行与经营_发行基础"
+  },
+  {
+   "cn": "拉深性能",
+   "en": "drawability",
+   "code": "09.1039",
+   "standard": "冶金学名词",
+   "subject": "冶金学_金属加工_锻造、冲压及其他"
+  },
+  {
+   "cn": "可磨性",
+   "en": "grindability",
+   "code": "03.1161",
+   "standard": "化工名词(三)化学工程基础",
+   "subject": "化工（三）_传递过程与单元操作"
+  },
+  {
+   "cn": "可磨性",
+   "en": "grindability",
+   "code": "09.074",
+   "standard": "煤炭科学技术名词",
+   "subject": "煤炭科学技术_煤炭加工利用_选煤"
+  },
+  {
+   "cn": "易读性",
+   "en": "readability",
+   "code": "04.322",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_控制技术_控制技术计算机应用"
+  },
+  {
+   "cn": "钎焊性",
+   "en": "brazability,solderability",
+   "code": "04.253",
+   "standard": "机械工程名词 第二分册",
+   "subject": "机械工程（二）_机械制造工艺与设备_焊接与切割_钎焊"
+  },
+  {
+   "cn": "钎焊性",
+   "en": "brazability,solderability",
+   "code": "01.1690",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_材料科学技术基础_材料合成、制备与加工_焊接与连接技术"
+  },
+  {
+   "cn": "哈氏可磨性指数",
+   "en": "Hardgrove grindability index",
+   "code": "08.073",
+   "standard": "电力名词",
+   "subject": "电力_燃料"
+  },
+  {
+   "cn": "煤可磨性指数",
+   "en": "coal grindability index",
+   "code": "22.0197",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_动力机械_锅炉_参数"
+  },
+  {
+   "cn": "ВТИ可磨性指数",
+   "en": "ВТИ grindability index",
+   "code": "09.365",
+   "standard": "煤炭科学技术名词",
+   "subject": "煤炭科学技术_煤炭加工利用_煤化学及煤质分析"
+  },
+  {
+   "cn": "可磨性",
+   "en": "grindability",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "易读性",
+   "en": "readability",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "钎焊性",
+   "en": "brazability\",\"solderability",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "可磨性指数",
+   "en": "grindability index",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "地图易读性",
+   "en": "map readability\",\"map legilicity",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

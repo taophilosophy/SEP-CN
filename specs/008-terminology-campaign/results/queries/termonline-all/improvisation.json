@@ -1,0 +1,54 @@
+{
+ "key": "improvisation",
+ "term": "improvisation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T08:51:01+00:00",
+ "status": "ok",
+ "note": "variant=improvisation; 审定公布名词库=1; 海峡两岸名词对照库=2; 其他来源数据库=2; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "粗制核装置",
+   "en": "improvised nuclear device",
+   "code": "10.015",
+   "standard": "放射医学与防护名词",
+   "subject": "放射医学与防护_核与辐射突发事件医学应急_基础名词"
+  },
+  {
+   "cn": "即兴",
+   "en": "improvisation",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "本杰明·布里顿即兴曲的即兴",
+   "en": "Improvisation on an Impromptu of Benjamin Britten",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "临时医院",
+   "en": "improvised hospital",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "专有词汇_场所名称"
+  },
+  {
+   "cn": "应急医院",
+   "en": "improvised hospital",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "专有词汇_场所名称"
+  },
+  {
+   "cn": "粗制核装置",
+   "en": "improvised nuclear device，IND",
+   "code": "7.1.5.9",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

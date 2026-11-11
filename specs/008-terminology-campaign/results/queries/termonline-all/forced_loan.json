@@ -1,0 +1,348 @@
+{
+ "key": "forced loan",
+ "term": "forced loan",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T04:49:30+00:00",
+ "status": "ok",
+ "note": "variant=forced loan; 审定公布名词库=2756; 海峡两岸名词对照库=723; 其他来源数据库=108; 预公布名词数据库=74; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "贷款",
+   "en": "loan",
+   "code": "19.261",
+   "standard": "农学名词",
+   "subject": "农业经济与管理_农业财政金融与保险"
+  },
+  {
+   "cn": "贷款",
+   "en": "loan",
+   "code": "07.0648",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_金融工程_产品与服务"
+  },
+  {
+   "cn": "辛迪加贷款",
+   "en": "syndicated loan,joint loan",
+   "code": "07.0647",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_金融工程_产品与服务"
+  },
+  {
+   "cn": "借贷资本",
+   "en": "loan capital",
+   "code": "02.096",
+   "standard": "经济学名词",
+   "subject": "经济学_政治经济学"
+  },
+  {
+   "cn": "信用放款",
+   "en": "character loan",
+   "code": "12.054",
+   "standard": "经济学名词",
+   "subject": "经济学_货币理论与货币政策"
+  },
+  {
+   "cn": "质押贷款",
+   "en": "pledge loan",
+   "code": "12.055",
+   "standard": "经济学名词",
+   "subject": "经济学_货币理论与货币政策"
+  },
+  {
+   "cn": "抵押贷款",
+   "en": "mortgage loan",
+   "code": "12.056",
+   "standard": "经济学名词",
+   "subject": "经济学_货币理论与货币政策"
+  },
+  {
+   "cn": "消费贷款",
+   "en": "consumer loan",
+   "code": "12.057",
+   "standard": "经济学名词",
+   "subject": "经济学_货币理论与货币政策"
+  },
+  {
+   "cn": "贷款评级",
+   "en": "loan grading",
+   "code": "12.177",
+   "standard": "经济学名词",
+   "subject": "经济学_货币理论与货币政策"
+  },
+  {
+   "cn": "外借频率",
+   "en": "loan frequency",
+   "code": "07.127",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息服务与用户研究_外借服务"
+  },
+  {
+   "cn": "借书处",
+   "en": "loan desk",
+   "code": "02.231",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_图书情报工作管理_图书馆建筑与设施"
+  },
+  {
+   "cn": "外借",
+   "en": "library loan",
+   "code": "07.121",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息服务与用户研究_外借服务"
+  },
+  {
+   "cn": "被担保贷款",
+   "en": "insured loan",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "不附带条件的贷款",
+   "en": "untied loan",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "不附条件的贷款",
+   "en": "impact loan",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "常用贷款",
+   "en": "evergreen loan",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "筹集贷款",
+   "en": "loan floatation",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "出口贷款",
+   "en": "export loan",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "呆滞贷款",
+   "en": "dead loan",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "贷款比率",
+   "en": "loan ratio",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "贷款偿还",
+   "en": "loan repayment",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "贷款承诺",
+   "en": "loan commitment",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "贷款额度",
+   "en": "loan limit",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "贷款合同",
+   "en": "loan contract",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "在线信贷",
+   "en": "online loan",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "小额信贷",
+   "en": "micro loan",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "消费贷款",
+   "en": "consumer loan",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "贷款诈骗",
+   "en": "loan fraud",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "力",
+   "en": "force",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "网络小贷",
+   "en": "online small loan",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "小额贷款公司",
+   "en": "small loan company",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "投贷联动",
+   "en": "investment-loan linkage",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "受迫性失误",
+   "en": "forced error",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "熵力",
+   "en": "entropic force",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "表面力",
+   "en": "Surface force",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "封杀出局",
+   "en": "force out",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "借贷资本",
+   "en": "loan capital",
+   "code": "02.0257",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "强迫喂养",
+   "en": "forced feeding",
+   "code": "6.2.5.5",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇幼营养_儿童营养"
+  },
+  {
+   "cn": "生产力",
+   "en": "productive forces",
+   "code": "02.0005",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "进步力量",
+   "en": "progressive forces",
+   "code": "03.0369",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "中间势力",
+   "en": "middle forces",
+   "code": "03.0370",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "顽固势力",
+   "en": "diehard forces",
+   "code": "03.0371",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "社会力量",
+   "en": "social force",
+   "code": "2.1.6.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会活动"
+  },
+  {
+   "cn": "物质力量",
+   "en": "material force",
+   "code": "01.0184",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "劳动力",
+   "en": "labor force",
+   "code": "02.0093",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "反革命势力",
+   "en": "counterrevolutionary force",
+   "code": "03.0054",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "人民武装",
+   "en": "peoples armed forces",
+   "code": "03.0146",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "第一生产力",
+   "en": "primary productive force",
+   "code": "03.0566",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

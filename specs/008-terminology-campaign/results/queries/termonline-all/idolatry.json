@@ -1,0 +1,26 @@
+{
+ "key": "idolatry",
+ "term": "idolatry",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T08:48:01+00:00",
+ "status": "ok",
+ "note": "variant=idolatry; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "偶像崇拜",
+   "en": "idolatry",
+   "code": "3.9.1.19",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_宗教社会学_宗教信仰现象"
+  },
+  {
+   "cn": "偶像崇拜",
+   "en": "idolatry",
+   "code": "3.16.6.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_青少年研究_青年文化"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

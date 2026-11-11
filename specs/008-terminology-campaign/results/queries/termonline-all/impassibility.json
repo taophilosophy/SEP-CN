@@ -1,0 +1,40 @@
+{
+ "key": "impassibility",
+ "term": "impassibility",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T08:51:01+00:00",
+ "status": "ok",
+ "note": "variant=impassibility; 审定公布名词库=4; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "阿罗［不可能］定理",
+   "en": "Arrow’s impossibility theorem",
+   "code": "01.167",
+   "standard": "城乡规划学名词",
+   "subject": "城乡规划学_城乡规划总述_规划价值观和规划教育"
+  },
+  {
+   "cn": "阿罗不可能性定理",
+   "en": "Arrow’s impossibility theorem",
+   "code": "05.005",
+   "standard": "经济学名词",
+   "subject": "经济学_制度经济学"
+  },
+  {
+   "cn": "阿罗不可能性定理",
+   "en": "Arrow’s impossibility theorem",
+   "code": "02.0240",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_决策理论与方法"
+  },
+  {
+   "cn": "空间不可能定理",
+   "en": "the spatial impossibility theorem",
+   "code": "08.073",
+   "standard": "经济学名词",
+   "subject": "经济学_区域经济学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

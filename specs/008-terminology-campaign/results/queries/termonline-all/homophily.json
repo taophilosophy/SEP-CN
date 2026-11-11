@@ -1,0 +1,33 @@
+{
+ "key": "homophily",
+ "term": "homophily",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T05:34:34+00:00",
+ "status": "ok",
+ "note": "variant=homophily; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "谐音",
+   "en": "homophony",
+   "code": "08.086",
+   "standard": "语言学名词",
+   "subject": "语言学_修辞学_修辞方法"
+  },
+  {
+   "cn": "谐趣",
+   "en": "homophony and humour",
+   "code": "08.235",
+   "standard": "语言学名词",
+   "subject": "语言学_修辞学_修辞方法"
+  },
+  {
+   "cn": "主调音乐",
+   "en": "homophony",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

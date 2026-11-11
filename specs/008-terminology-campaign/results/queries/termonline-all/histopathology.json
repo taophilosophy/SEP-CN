@@ -1,0 +1,75 @@
+{
+ "key": "histopathology",
+ "term": "histopathology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T05:28:34+00:00",
+ "status": "ok",
+ "note": "variant=histopathology; 审定公布名词库=6; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "组织病理学",
+   "en": "histopathology",
+   "code": "10.010",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医病理及病理生理学"
+  },
+  {
+   "cn": "组织病理学",
+   "en": "histopathology",
+   "code": "03.685",
+   "standard": "结核病学名词",
+   "subject": "结核病学_结核病诊断_诊断方法_病理学诊断"
+  },
+  {
+   "cn": "病理组织学",
+   "en": "histopathology",
+   "code": "10.003",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫病理学"
+  },
+  {
+   "cn": "组织病理学",
+   "en": "histopathology",
+   "code": "03.008",
+   "standard": "医学名词 第三分册",
+   "subject": "医学_病理学"
+  },
+  {
+   "cn": "组织病理复原",
+   "en": "histopathological recovery",
+   "code": "11.074",
+   "standard": "消化内镜学名词",
+   "subject": "消化内镜学_消化内镜病理诊断_内镜病理标本处理"
+  },
+  {
+   "cn": "妇科肿瘤组织病理学",
+   "en": "histopathology of gynecologic tumor",
+   "code": "1.008",
+   "standard": "妇科肿瘤学名词",
+   "subject": "妇科肿瘤学_总论"
+  },
+  {
+   "cn": "组织病理学",
+   "en": "histopathology",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "病理组织学",
+   "en": "histopathology",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "组织病理学检查",
+   "en": "histopathology",
+   "code": "1.5.1.29",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
