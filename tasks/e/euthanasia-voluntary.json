@@ -2,7 +2,7 @@
   "slug": "euthanasia-voluntary",
   "kind": "retranslate",
   "zh_doc": "e/euthanasia-voluntary.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "E-main-20261110b",
       "at": "2026-11-11T01:35:18Z",
       "evidence": "三校四检：check_style --strict 0 issue；check_math 0 missing/0 unbalanced；check_academic --strict 本文件 0 硬错误（现制 References 保留源节标题 + 50 条 defs 照录）；check_summary H1 mismatch 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "E-main-20261111",
+      "at": "2026-11-11T05:02:44Z",
+      "evidence": "r1 段级核销（评审线独立复核，子代理 s3 件）：正文块 68:68、5 节+5 反驳子节一一对应；marker 58:58 多重集全等、defs 50:50 键集全等；作者-年份引用组（Foot/McMahan/Velleman/Brock/Keown/Sumner/Young/Varelius/Braun/Dworkin/Rachels/Emanuel 等）与书目逐条在位；荷兰准则四条、澳大利亚各州年份序列（1996/1997/2017/2019/2021/2022/2023/2028）、美国各州年份、Remmelink 报告与后续全国研究数字逐项核对；实修 6 处：术语按 yi-zhe-shuo-ming 行 doctrine of double effect=双重效应原则 统一（双重效果→双重效应 5 处+行 100 题名 1 处）；实修 3 处词条题名对齐 SUMMARY：预先指示→预先指示和替代决策（2）、作为与任其受害→造成伤害与允许伤害（1）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "E-main-20261111",
+      "at": "2026-11-11T05:02:44Z",
+      "evidence": "r2 句级复读：check_prose 0 条（长句/被动/弱动词/de-chain 全零），叙述散文通读无欧化，实修 0"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "E-main-20261111",
+      "at": "2026-11-11T05:02:45Z",
+      "evidence": "r3 终检：check_style --strict 0 issue；check_academic --strict OK；check_math formulas 0/missing 0；marker 58:58、defs 50:50、块 68:68；check_summary 本词条无 MISMATCH；check_mulu_s 0 硬错误；直引号/乱码扫描无残留"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "E-main-20261111",
+      "at": "2026-11-11T05:02:45Z",
+      "evidence": "终稿验收：六道全过；r1 术语统一 6 处+题名 3 处、r2 零告警、r3 四检全绿；子代理 s3 件由本会话独立复核满足复核独立性"
     }
   ],
   "blockers": [],
