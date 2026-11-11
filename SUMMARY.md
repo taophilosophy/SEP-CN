@@ -2528,7 +2528,7 @@
   * [斯宾诺莎的属性理论 theory of attributes (Noa Shein)](s/spinoza-attributes.md)
 * [体育哲学 sport, philosophy of (John William Devine and Francisco Javier Lopez Frias)](s/sport.md)
 * [传统逻辑方阵 square of opposition (Terence Parsons and Graziana Ciola)](s/square.md)
-* [室利笈多 Ś rīgupta (Allison Aitken)](s/srigupta.md)
+* [室利笈多 Śrīgupta (Allison Aitken)](s/srigupta.md)
 * [曷利沙 Śrīharṣa (Nilanjan Das)](s/sriharsa.md)
 * [圣彼得堡悖论 St. Petersburg paradox (Martin Peterson)](p/paradox-stpetersburg.md)
 * [事态 states of affairs (Mark Textor)](s/states-of-affairs.md)

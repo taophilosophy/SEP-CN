@@ -1865,7 +1865,7 @@ outline: [1, 6]
 * [中观 Madhyamaka (Richard Hayes)](m/madhyamaka.md)
 * [印度佛教哲学中的心灵 in Indian Buddhist Philosophy (Christian Coseru)](m/mind-indian-buddhism.md)
 * [宝称 Ratnakīrti (McAllister, Patrick)](r/ratnakirti.md)
-* [室利笈多 Ś rīgupta (Allison Aitken)](s/srigupta.md)
+* [室利笈多 Śrīgupta (Allison Aitken)](s/srigupta.md)
 * [瑜伽行派 Yogācāra (Szilvia Szanyi)](y/yogacara.md)
 * [锡克哲学 Sikh Philosophy (Arvind-Pal S. Mandair)](s/sikh-philosophy.md)
 * [龙树 Nāgārjuna (Jan Christoph Westerhoff)](n/nagarjuna.md)
