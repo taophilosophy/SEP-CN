@@ -1242,56 +1242,74 @@ segments:
     kind: body
     source: |-
       ## 7. Perception, Concepts and Sense-Object Relations
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 7. 知觉、概念与感官—对象关系
+    step2: |-
+      ## 7. 知觉、概念与感官—对象关系
   - id: 145
     kind: body
     source: |-
       Noticing something coiled up in the corner of the room, I perceive it to be a piece of rope. Looking out of the window, I see that the sky is blue and see also, perhaps, the blueness of the sky. I see too that the air is cold, and that there is nobody on the street. What do all these experiences have in common, in virtue of which they are all acts of perception? *The Manual of Reason* (TS 46) gives the classical Nyāya answer:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      注意到房间角落里蜷着什么，我把它知觉为一段绳子。朝窗外望去，我看见天空是蓝的，或许还看见天空的蓝。我也看见空气是冷的，看见街上没有人。这些经验有什么共同之处，使它们都是知觉行为？《理性手册》（TS 46）给出正理的经典回答：
+    step2: |-
+      注意到屋角里蜷着一团东西，我把它看成一段绳子；朝窗外看，我看见天是蓝的，也许还看见天的蓝；我也看见空气是冷的，看见街上空无一人。这些经验凭什么都算知觉行为？《理性手册》（TS 46）给出正理的经典答案：
   - id: 146
     kind: body
     source: |-
       > **Principle 1**: In each case of perceptual experience, the experience has as its special instrumental cause a ‘connection’ (*sannikarṣa*) between the object perceived and the perceiver’s sense-faculty.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > **原则 1**：在每一个知觉经验的情形中，该经验的特殊工具因是所知觉对象与知觉者感官官能之间的一种“连接”（*sannikarṣa*）。
+    step2: |-
+      > **原则 1**：凡知觉经验，其特殊工具因都是所知觉对象与知觉者感官之间的一种“连接”（*sannikarṣa*，感官连接）。
   - id: 147
     kind: body
     source: |-
       All seeings are the product of a sensory connection (of a type to be specified) with the thing seen. This basic idea must be embellished in two ways before it is can serve as a proper a theory of perception: (i) some account must be given of the fact that, in all the cases cited above, the content of perception is semantically structured (e.g. that the thing in the corner is a piece of rope), for otherwise perceptual experiences would not be capable of being true, and hence fail to qualify as knowledge-episodes; (ii) an account must be given of the type of ‘connection’ involved here. Only then can we evaluate the merits of the Nyāya theory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一切看见都是与所见之物的一种感官连接（其类型待定）的产物。这个基本观念须经两方面的补充才能充当合格的知觉理论：(i) 必须说明上文所引诸情形中知觉内容在语义上有结构这一事实（如“角落里的东西是一段绳子”），否则知觉经验便不可能为真，因而也就够不上知识事件；(ii) 必须说明这里涉及的“连接”的类型。只有到那时我们才能评估正理理论的优劣。
+    step2: |-
+      一切“看见”，都是与所见之物发生某种（待说明的）感官连接的产物。这个基本想法要补上两件事，才算得上像样的知觉理论：(i) 得说明上文所举各例中知觉内容为什么有语义结构（比如“角落里的东西是一段绳子”），不然知觉经验就不可能为真，也就没资格当知识事件；(ii) 得说明这里涉及的“连接”有哪几类。到那时，我们才有资格评判正理理论的高低。
   - id: 148
     kind: body
     source: |-
       ### 7.1 ‘Qualificative Perception’ and the Role of Concepts
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.1 “有分别知觉”与概念的作用
+    step2: |-
+      ### 7.1 “有分别知觉”与概念的作用
   - id: 149
     kind: body
     source: |-
       A structured perception, of an object a as having a certain property *f* (e.g. seeing the thing in the corner as being a piece of rope), is called by the Naiyāyikas ‘qualificative’ (*savikalpaka = saprakāraka*), for it a perception of an object, the ‘qualificand’ (*viśeṣya*) as having a certain feature or ‘qualifier’ (*prakāra*; *viseṣaṇa*) (cf. TS 47). It is alleged by the Naiyāyikas that any piece of perceptual *knowledge* must be of this form, and further that most cases in which we claim just to be seeing an object (e.g. “I see the car”) are really cases of seeing something as a car. In a ‘qualificative’ perception, it is the qualificand which is in sensory connection with the perceiver. How then does the qualifier enter the picture? The Nyāya claim that:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对一个对象 *a* 具有某属性 *f* 的有结构知觉（例如把角落里的东西看作一段绳子），被正理论师称为“有分别的”（*savikalpaka* = *saprakāraka*），因为它是把一个对象即“所别”（*viśeṣya*）知觉为具有某个特征或“能别”（*prakāra*；*viśeṣaṇa*）（参 TS 47）。正理论师主张，任何知觉知识都必须取这种形式，而且我们声称仅仅看见一个对象的大多数情形（如“我看见那辆车”）实际上是把某物看作一辆车。在“有分别”知觉中，与知觉者发生感官连接的是所别。那么能别如何进入图景？正理主张：
+    step2: |-
+      把对象 *a* 看作具有某属性 *f* 的有结构知觉（比如把角落里的东西看成一段绳子），正理论师称之为“有分别”（*savikalpaka* = *saprakāraka*）：这是把一个对象——所别（*viśeṣya*）——知觉为带有某个特征或“能别”（*prakāra*；*viśeṣaṇa*）（参考 TS 47）。正理论师主张，一切知觉知识都必须是这种形式；他们还说，我们自以为“只是看见一个对象”的大多数情形（“我看见那辆车”），实际上是把某物看成一辆车。在“有分别”知觉里，与知觉者发生感官连接的是所别。那么，能别又是怎么进来的？正理的回答是：
   - id: 150
     kind: body
     source: |-
       > **Principle 2**: In every case of perception, the qualifier is a previously perceived entity (substance, quality, motion or universal) which is recalled by the perceiver and ‘superimposed’ upon the qualificand.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > **原则 2**：在每一个知觉情形中，能别是一个先前被知觉的实体（实体、性质、运动或普遍），它被知觉者回忆起来并被“叠加”于所别之上。
+    step2: |-
+      > **原则 2**：凡知觉，其能别都是先前被知觉过的实体（实体、性质、运动或普遍）；知觉者把它回忆起来，“叠加”到所别之上。
   - id: 151
     kind: body
     source: |-
       The intuitive idea is that the qualifying feature is a concept, empirically acquired by the perceiver, and now used to categorise the object perceived. To see that the passing animal is a horse, one must first possess the concept *horse*, by means of previous acquaintance with the type. (Use of the term ‘concept’ here does not imply that the features are in any sense subjective—for the Nyāya they are objective entities or constructions out of objective entities). The Nyāya thus use their theory of memory (initial experience causing dispositional trace causing memory event) as a theory of concept-possession.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      直观的想法是：起限定作用的特征是一个概念，由知觉者在经验中获得，如今用来给被知觉的对象归类。要看出跑过去的动物是一匹马，必须先凭此前与该类型的接触拥有“马”这个概念。（此处使用“概念”一词，并不意味着这些特征是主观的——对正理而言，它们是客观的实体，或由客观实体构造而成。）正理因此把他们的记忆理论（最初经验引起倾向痕迹，倾向痕迹引起记忆事件）用作概念拥有的理论。
+    step2: |-
+      直观的图画是：那个起限定作用的特征是一个概念，由知觉者从经验中学得，如今用来给所见对象归类。要把跑过去的动物看成马，必须先通过以往的接触拥有“马”这个概念。（这里用“概念”一词，并不是说这些特征是主观的——在正理看来，它们是客观实体，或由客观实体构造出来。）于是，正理把他们的记忆理论（最初经验→倾向痕迹→记忆事件）当作了“概念拥有”的理论。
   - id: 152
     kind: body
     source: |-
       Principle 2 has a number of consequences:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      原则 2 有一系列推论：
+    step2: |-
+      原则 2 引出一串推论：
   - id: 153
     kind: body
     source: |-
@@ -1300,20 +1318,34 @@ segments:
       3. Perceptual illusions, hallucinations, etc., are all explained as cases in which a wrong feature is recalled from memory (or the concept bank). Suppose I misperceive the coiled object in the corner as being a snake. The account given by the Nyāya is that I recall and superimpose the feature snakehood, on the basis presumably of its close similarity with the true feature ropehood. Similarly, if I hallucinate a dagger, the account entails that I am superimposing the memory of some previously encountered dagger upon the region of space in front of me (there must be *some* qualificand, by Principle 1). This is called the ‘mislocation’ (*anyathākhyāti*) theory of perceptual error. Note that, if all error is a product of qualifier-mislocation, then no error is possible with respect to the qualificand with which one is in sensory connection. Note too that the Nyāya make no appeal to ‘images’, ‘ideas’ or any other subjective content to explain illusion—it is an externalist account of error. This shows that the so-called argument from illusion, from the phenomenal indistinguishability of veridical and non-veridical perceptual experiences to their having a shared subjective content, is false. It is not clear, however, that one can always find a suitable qualificand (is a region of space really perceived in a hallucination?) or a suitable qualifier (e.g. when one sees a stick as bent, because partially submerged in water, where does the feature ‘being bent thus’ come from?—the Nyāya actually claim that it is an objective feature causally produced by the act of perceiving!)
       4. This theory allows the Nyāya to say that locutions like “I see (visually) that the air is cold” or “I see that the mango is sweet”, in which the qualifier, though perceptible is not a visible property, are genuine cases of perception. They classify them as a type of ‘extra-ordinary’ perception, called *jñāna-lakṣaṇā-pratyāsatti*. (The other types of extra-ordinary perception sometimes admitted are ‘*sāmānyalakṣaṇa*’, in which all the bearers of a property are perceived by perceiving the property, and yogic perception.)
       5. The Nyāya state that experience amounts to a knowledge-episode when and only when it is true, i.e. when the qualifier actually qualifies the qualificand. *The Manual of Reason* (TS 69 iii) says that the *guṇa* or special causal factor for perceptual knowledge when the qualifier imposed by the perceiver onto the sensorily connected qualificand is actually present in the qualificand. There may, however, be scope for Gettier-style counter-examples to this definition.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 若每一次把对象 *a* 看作 *f* 都先于对 *f* 的先前知觉，而那次先前知觉又是把 *f* 看作被某能别 *g* 所限定，我们就会陷入无穷倒退。正理（参 TS 47）因此主张，除有分别知觉外，还有“无分别”（*nirvikalpaka* = *niṣprakāraka*）的知觉经验。在这种经验中，人同时看见对象与其能别，但不把它看成被该能别所限定。
+      2. 为说明这一总理论，设我第一次看见一只蓝瓶，其蓝色调我从未见过。该理论说：在把瓶子看成被该色调限定之前，我先看见瓶子连同（但不被限定于）该色调，然后回忆起该色调，把它叠加到瓶子上。
+      3. 知觉幻象、幻觉等都可解释为从记忆（或概念库）中召回错误特征的情形。设我把角落里蜷着的东西误看作蛇。正理的说明是：我召回并叠加了“蛇性”这一特征，大概是基于它与真正特征“绳性”的密切相似。同样，若我幻觉出一柄匕首，该说明意味着我把先前遇到过的某柄匕首的记忆叠加到我面前的空间区域上（按原则 1，必得有某个所别）。这被称为知觉错误的“错置”（*anyathākhyāti*）理论。请注意，若一切错误都是能别错置的产物，那么就与感官连接着的所别而言，不可能有错误。还要注意，正理解释幻象时不诉诸“意象”“观念”或任何其他主观内容——这是一种关于错误的外在主义说明。这表明所谓“幻象论证”（从如实与不如实知觉经验在现象上不可分辨，推出二者共享主观内容）是错的。不过，人们是否总能找到合适的所别（幻觉中真的知觉到了一个空间区域吗？）或合适的能别（例如把半浸在水中的棍看成弯的，“如此这般地弯”这一特征从何而来？——正理实际上主张它是由知觉行为因果地产生的客观特征！），并不清楚。
+      4. 这一理论使正理得以说：“我（用视觉）看见空气是冷的”“我看见芒果是甜的”之类说法，其中能别虽可被知觉、却不是可见性质，也是货真价实的知觉。他们把这类情形归为一种“非常”知觉，称为 *jñāna-lakṣaṇā-pratyāsatti*（识相连接）。（有时被承认的其他类型的“非常”知觉是“总相连接”（*sāmānyalakṣaṇa*，通过知觉某属性而知觉其一切承载者），以及瑜伽知觉。）
+      5. 正理主张，经验当且仅当为真时才构成知识事件，即当能别实际限定所别之时。《理性手册》（TS 69 iii）说，知觉知识的 *guṇa*（或特殊因果因素）是：知觉者叠加到有感官连接的所别之上的能别实际存在于该所别之中。不过，这一定义可能仍有盖梯尔式反例的空间。
+    step2: |-
+      1. 若每次把对象 *a* 看成 *f*，都得先有对 *f* 的先前知觉，而那次知觉又是把 *f* 看成被某能别 *g* 限定的，那就没完没了了——无穷倒退。所以正理（参考 TS 47）主张，除有分别知觉之外，还有“无分别”（*nirvikalpaka* = *niṣprakāraka*）的知觉经验：这种经验里，对象与其能别同时被看见，却不把它看成“被该能别限定着的”。
+      2. 拿一个例子说明总理论。设我头一次见到一只蓝瓶，那种蓝我从未见过。理论说：在把瓶子看成“带那种蓝”之前，我先看见瓶子连同那种蓝（但不是“带那种蓝”的样子），随后回忆起那种蓝，把它叠加到瓶子上。
+      3. 知觉幻象、幻觉之类，都能解释成“从记忆（或概念库）里召回了一个错误特征”。设我把屋角蜷着的东西看成蛇。按正理的说法，我召回并叠加了“蛇性”，大概因为它与真正的“绳性”长得太像。同样，若我幻觉出一柄匕首，这个说明就意味着：我把从前见过的某柄匕首的记忆，叠加到了眼前的空间区域上（按原则 1，总得有个所别）。这就是知觉错误的“错置”（*anyathākhyāti*）理论。注意：若一切错误都出于能别错置，那么对正与感官连接着的那个所别而言，就不会出错。还要注意，正理解释幻象从不诉诸“意象”“观念”或任何其他主观内容——这是关于错误的外在主义说明。由此可见，所谓“幻象论证”（从如实与不如实知觉在现象上无法分辨，推出二者共有主观内容）是站不住的。可是，合适的所别是否总能找到（幻觉里当真知觉到一个空间区域了吗？）、合适的能别是否总有（比如把半浸水中的棍看成弯的，“如此这般地弯”这个特征打哪儿来？——正理居然主张：它是知觉行为因果地产生的客观特征！），并不清楚。
+      4. 这个理论让正理可以说：“我（用视觉）看见空气是冷的”“我看见芒果是甜的”这类说法，虽然其能别可被知觉却不是可见性质，但仍是正经的知觉。他们把这类情形归为一种“非常”知觉，叫 *jñāna-lakṣaṇā-pratyāsatti*（识相连接）。（有时还被承认的“非常”知觉另有两种：一是“总相连接”（*sāmānyalakṣaṇa*），借知觉某属性而知觉到该属性的一切承载者；二是瑜伽知觉。）
+      5. 正理主张：经验当且仅当为真时才够得上知识事件，也就是当能别真的限定着所别之时。《理性手册》（TS 69 iii）说，知觉知识的 *guṇa*（特殊因果因素）在于：知觉者叠加到有感官连接的所别上的那个能别，确实就在该所别之中。不过，这个定义也许仍躲不开盖梯尔式的反例。
   - id: 154
     kind: body
     source: |-
       ### 7.2 Types of Sense-Object Relation
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.2 感官—对象关系的类型
+    step2: |-
+      ### 7.2 感官—对象关系的类型
   - id: 155
     kind: body
     source: |-
       *The Manual of Reason* (TS 48) reports the standard Nyāya view, which is due to Uddyotakara, that there are exactly six types of sense-object relation which ground perceptual experiences:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《理性手册》（TS 48）转述了归自乌底耶多迦罗（Uddyotakara）的正理标准观点：恰好有六种感官—对象关系为知觉经验奠基：
+    step2: |-
+      《理性手册》（TS 48）转述了出自乌底耶多迦罗（Uddyotakara）的正理标准观点：恰好有六类感官—对象关系为知觉经验奠基：
   - id: 156
     kind: body
     source: |-
@@ -1323,38 +1355,60 @@ segments:
       4. Inherence (*samavāya*). The Nyāya-Vaiśeṣikas have a rather strange doctrine, that each sense-faculty is made out of the type of substance with which it is particularly associated. The auditory faculty is thus made out of *ākāśa*, and, as sounds inhere in *ākāśa*, the relation between the hearer and the sound is inherence.
       5. Inherence-in-the-inherent (*samaveta-samavāya*). By this indirect relation, the hearer is related to properties such as sound-hood inhering in sound.
       6. Qualifier-qualificand relation (*viśeṣaṇa-viśeṣya-bhāva*). This is an important one. The Nyāya believe that absences are ‘real’ objects, e.g. the absence of an elephant in the room now, and that they can be perceived. Absences are said to qualify their substrata, and are perceived indirectly, by the perceiver seeing the substratum. The Buddhist Dharmakīrti argued that this is really an inference from non-apprehension (*anupalabdhi-hetu*) running thus: “I perceive the walls of the room; if there were an elephant, I would not see it, and my perceptual faculties are working normally; therefore, there is no elephant”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 接触或连合（*saṃyoga*）。普通知觉，例如对一只罐的知觉。若把“接触”理解为某种因果关系，则可以说正理持有一种知觉的因果理论；不过他们也可能是在更字面的意义上说眼睛与对象接触。
+      2. 连合者中的和合（*saṃyukta-samavāya*）。上文说过，在“无分别”知觉中，人同时看见对象与其特征。特征与知觉者之间的关系是间接的——特征和合于对象，而知觉者与对象接触。
+      3. 连合者中和合者中的和合（*saṃyukta-samaveta-samavāya*）。若 (2) 中的特征是一个性质（*guṇa*），例如某个特定色调的蓝，则和合于其中的是一个普遍——蓝色，而蓝色本身显然也可以被知觉。
+      4. 和合（*samavāya*）。正理胜论有一套相当奇特的学说：每种感官官能都由与之特别相关联的那类实体构成。听觉官能由虚空构成，而声和合于虚空，故听者与声之间的关系是和合。
+      5. 和合者中的和合（*samaveta-samavāya*）。借这一间接关系，听者关联于和合在声中的属性，如“声性”。
+      6. 能别—所别关系（*viśeṣaṇa-viśeṣya-bhāva*）。这是一条重要的关系。正理相信非存在是“实在的”对象，例如此刻房间里大象的不在场，并且它们可以被知觉。据说非存在限定其基底，并且经由知觉者看见基底而被间接知觉。佛教徒法称论证说，这其实是一个由未觉（*anupalabdhi-hetu*）出发的推理，其进行如下：“我知觉到房间的墙壁；若有大象，我就会看不见它，而我的知觉官能运作正常；所以没有大象。”
+    step2: |-
+      1. 接触或连合（*saṃyoga*）。普通的知觉，比如看见一只罐。若“接触”指的是某种因果关系，那就可以说正理有一套知觉的因果理论；不过他们也可能是在更字面的意义上说：眼睛就贴着那个对象。
+      2. 连合者中的和合（*saṃyukta-samavāya*）。前面说过，“无分别”知觉里，对象与其特征是一起被看见的。特征与知觉者之间的关系是间接的：特征和合于对象，而知觉者正接触着这个对象。
+      3. 连合者中和合者中的和合（*saṃyukta-samaveta-samavāya*）。若 (2) 里的特征是一项性质（*guṇa*），比如某种特别的蓝，那么和合于它的是一个普遍——蓝色；而蓝色本身显然也能被知觉。
+      4. 和合（*samavāya*）。正理胜论有一套相当怪异的学说：每种感官都由与它特别相配的那类实体做成。听觉官能由虚空做成；声和合于虚空，于是听者与声之间是和合关系。
+      5. 和合者中的和合（*samaveta-samavāya*）。借这条间接关系，听者关联到和合在声中的属性，比如“声性”。
+      6. 能别—所别关系（*viśeṣaṇa-viśeṣya-bhāva*）。这条关系很重要。正理相信，非存在是“实在的”对象——比如此刻房间里没有大象这回事——而且非存在是可以被知觉的。据说非存在限定着自己的基底，并经由知觉者看见基底而被间接知觉。佛教徒法称则论证：这其实是一个“未觉”（*anupalabdhi-hetu*）推理：“我知觉到了房间的墙壁；若真有大象，我会看不见它；而我的知觉官能运作正常；所以，没有大象。”
   - id: 157
     kind: body
     source: |-
       ### 7.3 Gaṅgeśa’s Criticisms and New Definition
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.3 甘格沙的批评与新定义
+    step2: |-
+      ### 7.3 甘格沙的批评与新定义
   - id: 158
     kind: body
     source: |-
       Gaṅgeśa criticises Principle 1 on three grounds: (a) it entails that every awareness is perceptual since every awareness is produced by the instrumentality of the ‘inner’ sense faculty or *manas*; (b) it fails to include divine perception, which involves no sensory connection; and (c) there is no one type of sensory connection, nor anything obviously in common to the ad hoc list of six types. Gaṅgeśa therefore offers a new definition:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      甘格沙从三个方面批评原则 1：(a) 它意味着一切意识都是知觉，因为一切意识都由“内在”感官即意的工具性而产生；(b) 它未涵盖神圣知觉，后者不涉及任何感官连接；(c) 感官连接并无单一类型，那六种类型的临时清单也没有明显共同点。甘格沙因此提出一个新定义：
+    step2: |-
+      甘格沙从三处批评原则 1：(a) 它会推出“一切意识都是知觉”——因为一切意识都经由“内在”感官即意这一工具产生；(b) 它装不下神圣知觉，后者不靠任何感官连接；(c) 感官连接并没有一个统一的类型，那份六种类型的应景清单也没有什么显而易见的共同点。于是甘格沙给出一个新定义：
   - id: 159
     kind: body
     source: |-
       > **Principle 3**: A perceptual experience is a cognition which has no other non-mnemonic cognition as its ‘special’ instrumental cause (*karaṇa*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > **原则 3**：知觉经验是一种认知，它没有其他非记忆性认知作为其“特殊”工具因（*karaṇa*）。
+    step2: |-
+      > **原则 3**：所谓知觉经验，就是这样一种认知：没有任何别的非记忆性认知充当它的“特殊”工具因（*karaṇa*）。
   - id: 160
     kind: body
     source: |-
       Two objections to this definition are countered. Objection 1: Since every qualificative cognition is produced by a prior awareness of the qualifier, the definition under-extends. Reply: No. The awareness of the qualifier is merely an auxiliary causal factor, the ‘special’ instrumental cause is a sense-object contact. Objection 2: Since recognition, which is a type of perception, does have the prior awareness of the qualifier as its ‘special’ instrumental cause, the definition under-extends. Reply: No. The ‘special’ causal factor is the memory of the qualifier triggered by the dispositional trace produced by the prior awareness, not the prior awareness itself.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对这一定义的反驳被一一化解。反驳 1：既然每个有分别认知都由对能别的先前意识所产生，该定义外延过窄。答：不。对能别的意识只是辅助因果因素，“特殊”工具因是感官—对象接触。反驳 2：既然再认——它是一种知觉——确实以对能别的先前意识为其“特殊”工具因，该定义外延过窄。答：不。“特殊”因果因素是由先前意识所产生的倾向痕迹所触发的对能别的记忆，而非先前意识本身。
+    step2: |-
+      这个定义招来两条反驳，都被逐一化解。反驳一：每个有分别认知都由对能别的先前意识产生，定义的外延就太窄了。答：不。对能别的意识只是辅助性的因果因素；“特殊”工具因是感官—对象的接触。反驳二：再认是一种知觉，它偏偏就是拿“对能别的先前意识”当“特殊”工具因，定义的外延还是太窄。答：不。这里起“特殊”作用的因果因素，是先前意识留下的倾向痕迹所触发的对能别的记忆，不是先前意识本身。
   - id: 161
     kind: body
     source: |-
       Gaṅgeśa’s definition has the virtue of capturing the sense in which perceptual experience is more ‘immediate’ than other types of experience, and is also applicable both to human and to divine perception. Restricted to human perception, it turns into the previous definition (Gaṅgeśa says that the ‘inner’ sense should not be regarded as perceptual after all).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      甘格沙的定义有一个优点：它抓住了知觉经验比其他类型的经验更“直接”的那层意思，而且既适用于人的知觉，也适用于神圣知觉。限于人的知觉，它就变成先前那个定义（甘格沙说，“内在”感官终究不应被视为知觉性的）。
+    step2: |-
+      甘格沙的定义有个好处：它抓住了知觉经验较之其他经验更为“直接”的那一层意思，而且人的知觉与神圣知觉都适用。若只限人的知觉，它就退化为先前那个定义（甘格沙说，“内在”感官毕竟不能算知觉性的）。
   - id: 162
     kind: body
     source: |-
