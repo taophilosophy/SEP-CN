@@ -2,7 +2,7 @@
   "slug": "newton-principia",
   "kind": "retranslate",
   "zh_doc": "n/newton-principia.md",
-  "state": "s2_checked",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -31,6 +31,13 @@
       "actor": "N-main-20261111",
       "at": "2026-11-11T15:15:36Z",
       "evidence": "s2 语言实修：check_prose 告警 198→155（弱动词/被动 22 处实修：作出→作/回应、进行→从事等；70 行按分句改分号；拆散 3 处超长并列）；EW 长句与的链残余 116 条按 ADR-0020 判读豁免（多为忠实转写 Smith 原文多层论证与引文，拆句会损论证链；逐类：长句 78、de-chain 60、引文内部被动 5 等）。语体：现代汉语学术书面语，无文言仿古、无半文半白；破折号 98 处均对应源文 em dash（源 87 处），未额外增用；术语用词与登记册一致"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "N-main-20261111",
+      "at": "2026-11-11T15:36:51Z",
+      "evidence": "s3 体例三校：check_style --strict 0、check_academic --strict 0 硬、check_math 0、check_quotes 0、check_summary 0、check_images 0；check_terms 硬错误 0（General Scholium 同键行由并行会话 e4f77daf0 合并收口）；登记册扩充：术语 43 行（向心力/离心力/惯性/绝对空间/绝对时间/外加力既有/运动量/物质的量/通径/拱点角/交点线/出差/二均差/进动/章动/扁率/地球形状/潮汐/黏着性/黏滞性/逐次逼近/摄动/推理许可证/受理论中介的/归纳概括/假设方法/精密科学/极限情形/恒星时/时差/振动中心/摆线摆/圆锥摆/内摆线摆/抛体运动/表面重力/比重/月球不等项/自由下落/哲学推理法则/附释/总释/加速量）+ 人名 14 行（布利奥/霍罗克斯/斯特里特/温/梅卡托/卡西尼/雷恩/怀特赛德/波尔西奥/布拉德利/雅各布·赫尔曼/贝托洛尼·梅利/科恩/惠特曼），registry_azsort 幂等排布，正文用词与登记册一致"
     }
   ],
   "blockers": [],
