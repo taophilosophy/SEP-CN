@@ -1,0 +1,54 @@
+{
+ "key": "eigenstate",
+ "term": "eigenstate",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T19:25:05+00:00",
+ "status": "ok",
+ "note": "00000000000000000000000000000000=5; 00000000000000000000000000000001=1; 00000000000000000000000000000002=0; 00000000000000000000000000000006=0",
+ "hits": [
+  {
+   "cn": "本征态",
+   "en": "eigenstate",
+   "code": "06.0498",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "本征态[完备]集",
+   "en": "complete set of eigenstate",
+   "code": "06.0499",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "本征空间",
+   "en": "eigenspace",
+   "code": "07.0238",
+   "standard": "数学名词",
+   "subject": "数学_泛函分析_谱理论"
+  },
+  {
+   "cn": "边缘态",
+   "en": "edge state",
+   "code": "08.2779",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_特殊物相与极端条件"
+  },
+  {
+   "cn": "广义本征空间",
+   "en": "generalized eigenspace",
+   "code": "07.0239",
+   "standard": "数学名词",
+   "subject": "数学_泛函分析_谱理论"
+  },
+  {
+   "cn": "本征向量空间",
+   "en": "eigenspace",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"searchResult\": [{\"result\": {\"yearsList\": [], \"yearStats\": {\"2019\": 3, \"1993\": 2}, \"sourceStats\": {\"物理学名词\": 3, \"数学名词\": 2}, \"typeStats\": {\"1\": 5}, \"totalRecords\": 5, \"tmWordList\": [{\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": \"[1]物理学名词审定委员会.物理学名词[M].3版.北京：科学出版社\", \"quote2\": \"[2]物理学名词审定委员会.物理学名词\", \"aliasName\": null, \"cn\": \"本征态\", \"collect\": null, \"definition\": null, \"en\": \"eigenstate\", \"id\": \"b67b184526ac11ee8902b068e6519520\", \"publishYear\": \"2019\", \"source\": \"物理学名词\", \"subjectFullName\": \"物理学_相对论、量子理论_量子理论\", \"subjectName\": \"量子理论\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"06.0498\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": \"[1]物理学名词审定委员会.物理学名词[M].3版.北京：科学出版社\", \"quote2\": \"[2]物理学名词审定委员会.物理学名词\", \"aliasName\": null, \"cn\": \"本征态[完备]集\", \"collect\": null, \"definition\": null, \"en\": \"complete set of eigenstate\", \"id\": \"c7e5155226ac11eebcd4b068e6519520\", \"publishYear\": \"2019\", \"source\": \"物理学名词\", \"subjectFullName\": \"物理学_相对论、量子理论_量子理论\", \"subjectName\": \"量子理论\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"06.0499\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]数学名词审定委员会.数学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]数学名词审定委员会.数学名词\", \"aliasName\": null, \"cn\": \"本征空间\", \"collect\": null, \"definition\": null, \"en\": \"eigenspace\", \"id\": \"9fbf71aa26a911eeb914b068e6519520\", \"publishYear\": \"1993\", \"source\": \"数学名词\", \"subjectFullName\": \"数学_泛函分析_谱理论\", \"subjectName\": \"谱理论\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"07.0238\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": \"[1]物理学名词审定委员会.物理学名词[M].3版.北京：科学出版社\", \"quote2\": \"[2]物理学名词审定委员会.物理学名词\", \"aliasName\": null, \"cn\": \"边缘态\", \"collect\": null, \"definition\": null, \"en\": \"edge state\", \"id\": \"8c566b4926ac11ee81c9b068e6519520\", \"publishYear\": \"2019\", \"source\": \"物理学名词\", \"subjectFullName\": \"物理学_凝聚态物理学_特殊物相与极端条件\", \"subjectName\": \"特殊物相与极端条件\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"08.2779\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]数学名词审定委员会.数学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]数学名词审定委员会.数学名词\", \"aliasName\": null, \"cn\": \"广义本征空间\", \"collect\": null, \"definition\": null, \"en\": \"generalized eigenspace\", \"id\": \"9fc53b5a26a911eebabcb068e6519520\", \"publishYear\": \"1993\", \"source\": \"数学名词\", \"subjectFullName\": \"数学_泛函分析_谱理论\", \"subjectName\": \"谱理论\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"07.0239\"}], \"currentPage\": 1, \"totalPage\": 1}, \"id\": \"00000000000000000000000000000000\"}, {\"result\": {\"yearsList\": [], \"yearStats\": {\"2008\": 1}, \"sourceStats\": {\"海峡两岸信息科学技术名词\": 1}, \"typeStats\": {\"2\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"本征向量空间\", \"collect\": null, \"definition\": null, \"en\": \"eigenspace\", \"id\": \"9ca68d4d26b711ee80e4b068e6519520\", \"publishYear\": \"2008\", \"source\": \"海峡两岸信息科学技术名词\", \"subjectFullName\": \"信息科学技术\", \"subjectName\": \"信息科学技术\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"特徵向量空間\", \"wordNumber\": null}], \"currentPage\": 1, \"totalPage\": 1}, \"id\": \"00000000000000000000000000000001\"}, {\"result\": {\"yearsList\": [], \"yearStats\": {}, \"sourceStats\": {}, \"typeStats\": null, \"totalRecords\": 0, \"tmWordList\": [], \"currentPage\": 1, \"totalPage\": 0}, \"id\": \"00000000000000000000000000000002\"}, {\"result\": {\"yearsList\": [], \"yearStats\": {}, \"sourceStats\": {}, \"typeStats\": null, \"totalRecords\": 0, \"tmWordList\": [], \"currentPage\": 1, \"totalPage\": 0}, \"id\": \"00000000000000000000000000000006\"}], \"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}}, \"timestamp\": 1794338705959}"
+}

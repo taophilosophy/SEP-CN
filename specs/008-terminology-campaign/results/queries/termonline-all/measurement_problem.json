@@ -1,0 +1,572 @@
+{
+ "key": "measurement problem",
+ "term": "measurement problem",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T20:03:36+00:00",
+ "status": "ok",
+ "note": "00000000000000000000000000000000=2008; 00000000000000000000000000000001=409; 00000000000000000000000000000002=90; 00000000000000000000000000000006=118",
+ "hits": [
+  {
+   "cn": "测量问题",
+   "en": "measurement problem",
+   "code": "03.374",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_物理学哲学"
+  },
+  {
+   "cn": "不变测度问题",
+   "en": "invariant measure problem",
+   "code": "07.0408",
+   "standard": "数学名词",
+   "subject": "数学_泛函分析_遍历理论"
+  },
+  {
+   "cn": "问题",
+   "en": "problem",
+   "code": "21.108",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_可靠性"
+  },
+  {
+   "cn": "报童问题",
+   "en": "newsboy problem,newsvendor problem",
+   "code": "02.0565",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_物流与供应链管理"
+  },
+  {
+   "cn": "模拟问题",
+   "en": "simulation problem",
+   "code": "03.008",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程模拟"
+  },
+  {
+   "cn": "设计问题",
+   "en": "design problem",
+   "code": "03.009",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程模拟"
+  },
+  {
+   "cn": "归纳问题",
+   "en": "inductive problem",
+   "code": "03.083",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_归纳"
+  },
+  {
+   "cn": "刚性问题",
+   "en": "stiff problem",
+   "code": "03.100",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程模拟"
+  },
+  {
+   "cn": "门槛问题",
+   "en": "threshold problem",
+   "code": "04.026",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程综合"
+  },
+  {
+   "cn": "优化问题",
+   "en": "optimization problem",
+   "code": "05.088",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程系统优化"
+  },
+  {
+   "cn": "对偶问题",
+   "en": "dual problem",
+   "code": "05.107",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程系统优化"
+  },
+  {
+   "cn": "分配问题",
+   "en": "assignment problem",
+   "code": "05.191",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程系统优化"
+  },
+  {
+   "cn": "运输问题",
+   "en": "transportation problem",
+   "code": "05.200",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程系统优化"
+  },
+  {
+   "cn": "转运问题",
+   "en": "transshipment problem",
+   "code": "05.201",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程系统优化"
+  },
+  {
+   "cn": "回文问题",
+   "en": "palindrome problem",
+   "code": "03.615",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_信息哲学"
+  },
+  {
+   "cn": "决策问题",
+   "en": "decision problem",
+   "code": "03.626",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_信息哲学"
+  },
+  {
+   "cn": "捆绑问题",
+   "en": "binding problem",
+   "code": "03.632",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_信息哲学"
+  },
+  {
+   "cn": "停机问题",
+   "en": "halting problem",
+   "code": "03.662",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_信息哲学"
+  },
+  {
+   "cn": "下棋问题",
+   "en": "chess problem",
+   "code": "03.669",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_信息哲学"
+  },
+  {
+   "cn": "技术问题",
+   "en": "technical problem",
+   "code": "04.120",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_技术哲学_一般技术哲学"
+  },
+  {
+   "cn": "问题",
+   "en": "problem",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "反[演]问题",
+   "en": "inverse problem",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "问题解决",
+   "en": "problem solving",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "对应问题",
+   "en": "correspondence problem",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "内倾问题",
+   "en": "internalizing problem",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "问题空间",
+   "en": "problem space",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "同构问题",
+   "en": "isomorphic problem",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "顿悟问题",
+   "en": "insight problem",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "问题表征",
+   "en": "problem representation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "整合问题",
+   "en": "binding problem",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "希尔问题",
+   "en": "Hill problem",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "限制性问题",
+   "en": "restricted problem",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "布耶哈马问题",
+   "en": "Bjerhammar problem",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "背包问题",
+   "en": "knapsack problem",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "不可判定问题",
+   "en": "undecidable problem",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "成员问题，隶属关系问题",
+   "en": "membership problem",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "等价问题",
+   "en": "equivalence problem",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "决策问题",
+   "en": "decision problem",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "可见性问题",
+   "en": "visibility problem",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "可满足性问题",
+   "en": "satisfiability problem",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "测量",
+   "en": "measure\",\"measurement",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "柯西问题",
+   "en": "Cauchy problem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "背包问题",
+   "en": "Knapsack problem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "运输问题",
+   "en": "transportation problem",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "无约束问题",
+   "en": "unconstrained problem",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "背包问题",
+   "en": "knapsack problem",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "停机问题",
+   "en": "halting problem",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "问题空间",
+   "en": "problem space",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "问题求解",
+   "en": "problem solving",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "停机问题",
+   "en": "halting problem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "超引力",
+   "en": "Hierarchy problem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "大统一理论",
+   "en": "Hierarchy problem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "问题导向",
+   "en": "problem-oriented",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "丈量员",
+   "en": "measurer",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "入射角",
+   "en": "Alhazen's problem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "普拉托问题",
+   "en": "Plateau's problem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "三体问题",
+   "en": "Three-body problem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "最大流问题",
+   "en": "Maximum flow problem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "波斯特对应问题",
+   "en": "Post correspondence problem",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "归纳问题",
+   "en": "Problem of Induction",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "环境问题",
+   "en": "environmental problem",
+   "code": "3.14.3.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源"
+  },
+  {
+   "cn": "妇女问题",
+   "en": "female problem",
+   "code": "4.4.9.54",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作实务"
+  },
+  {
+   "cn": "民族问题",
+   "en": "national problem",
+   "code": "03.0118",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "农民问题",
+   "en": "peasants problem",
+   "code": "04.0080",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_列宁斯大林时期"
+  },
+  {
+   "cn": "总问题",
+   "en": "General problem",
+   "code": "05.0069",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "社会问题",
+   "en": "social problem",
+   "code": "13.1",
+   "standard": "社会医学名词",
+   "subject": "社会病"
+  },
+  {
+   "cn": "问题识别",
+   "en": "problem identification",
+   "code": "10.1.2.1.1",
+   "standard": "社会医学名词",
+   "subject": "政策与策略"
+  },
+  {
+   "cn": "社会问题",
+   "en": "social problems",
+   "code": "2.10.2.12",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨"
+  },
+  {
+   "cn": "测量",
+   "en": "measurement",
+   "code": "1.2.4.22",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "搭便车问题",
+   "en": "free rider problem",
+   "code": "3.5.3.13",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_经济社会学_新经济社会学"
+  },
+  {
+   "cn": "价值转形问题",
+   "en": "value transformation problem",
+   "code": "05.0122",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外经济学理论"
+  },
+  {
+   "cn": "都留重人问题",
+   "en": "Shigeto Tsuru problem",
+   "code": "05.0154",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外经济学理论"
+  },
+  {
+   "cn": "问题行为理论",
+   "en": "problem-behavior theory",
+   "code": "5.5.5",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育"
+  },
+  {
+   "cn": "认知问题解决",
+   "en": "cognitive problem solving",
+   "code": "5.5.7",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育"
+  },
+  {
+   "cn": "解决问题能力",
+   "en": "problem solving skill",
+   "code": "5.5.10.10",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育"
+  },
+  {
+   "cn": "偶发性社会问题",
+   "en": "incidental social problem",
+   "code": "13.1.2",
+   "standard": "社会医学名词",
+   "subject": "社会病"
+  },
+  {
+   "cn": "过失性社会问题",
+   "en": "negligent social problem",
+   "code": "13.1.3",
+   "standard": "社会医学名词",
+   "subject": "社会病"
+  },
+  {
+   "cn": "必发性社会问题",
+   "en": "inevitable social problem",
+   "code": "13.1.1",
+   "standard": "社会医学名词",
+   "subject": "社会病"
+  },
+  {
+   "cn": "结构性社会问题",
+   "en": "constitutive social problem",
+   "code": "13.1.4",
+   "standard": "社会医学名词",
+   "subject": "社会病"
+  },
+  {
+   "cn": "消毒测量",
+   "en": "disinfection measurement",
+   "code": "4.1.4.14",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_环境消毒"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"searchResult\": [{\"result\": {\"yearsList\": [], \"yearStats\": {\"2026\": 35, \"2025\": 52, \"2024\": 110, \"2023\": 10, \"2022\": 60, \"2021\": 143, \"2020\": 154, \"2019\": 109, \"2018\": 95, \"2016\": 87, \"2015\": 176, \"2014\": 83, \"2013\": 33, \"2012\": 8, \"2011\": 20, \"2009\": 3, \"2008\": 6, \"2007\": 16, \"2006\": 8, \"2005\": 190, \"2004\": 5, \"2003\": 135, \"2002\": 5, \"2000\": 2, \"1998\": 84, \"1997\": 41, \"1996\": 79, \"1995\": 14, \"1994\": 14, \"1993\": 200, \"1992\": 1, \"1990\": 23, \"1988\": 7}, \"sourceStats\": {\"航天科学技术名词\": 190, \"计量学名词\": 175, \"数学名词\": 160, \"机械工程名词 第三分册\": 115, \"电力名词\": 88, \"计算机科学技术名词\": 64, \"公路交通科技名词\": 63, \"电气工程名词\": 60, \"机械工程名词 第一分册\": 54, \"物理学名词\": 53, \"管理科学技术名词\": 50, \"测绘学名词\": 45, \"地球物理学名词\": 44, \"机械工程名词 第二分册\": 40, \"放射医学与防护名词\": 38, \"农学名词\": 34, \"自然辩证法名词\": 33, \"地质学名词\": 29, \"光学名词\": 28, \"化工名词（十）化工系统工程和化工信息化名词\": 25, \"冶金学名词\": 24, \"电子学名词\": 24, \"天文学名词\": 23, \"自动化名词\": 23, \"化学名词\": 21, \"水利科学技术名词\": 20, \"铁道科学技术名词\": 20, \"核医学名词\": 19, \"心理学名词\": 18, \"机械工程名词 第五分册\": 18, \"船舶工程名词\": 17, \"石油名词\": 14, \"材料科学技术名词\": 13, \"生物化学与分子生物学名词\": 13, \"力学名词\": 11, \"医学名词 第三分册\": 11, \"建筑学名词\": 11, \"核科学技术名词\": 11, \"航海科技名词\": 11, \"化工名词（五）化工规划·研发·工程建设及产业化\": 10, \"土木工程名词\": 10, \"教育学名词\": 10, \"林学名词\": 10, \"航空科学技术名词\": 10, \"通信科学技术名词\": 10, \"行为医学名词\": 9, \"全科医学与社区卫生名词\": 8, \"生物物理学名词\": 8, \"医学影像技术学名词\": 7, \"土壤学名词\": 7, \"地理学名词\": 7, \"经济学名词\": 7, \"语言学名词\": 7, \"风景园林名词\": 7, \"整形外科名词\": 6, \"植物学名词\": 6, \"资源科学技术名词\": 6, \"阿尔茨海默病名词\": 6, \"中医药学名词\": 5, \"地方病学名词\": 5, \"急救医学名词\": 5, \"普通外科学名词\": 5, \"机械工程名词 第四分册\": 5, \"男科及性医学名词\": 5, \"计划生育名词\": 5, \"世界历史名词\": 4, \"中国古代史名词\": 4, \"兽医学名词\": 4, \"化工名词（八）化工装备\": 4, \"呼吸病学名词\": 4, \"城乡规划学名词\": 4, \"水产名词\": 4, \"海洋科技名词\": 4, \"煤炭科学技术名词\": 4, \"药学名词\": 4, \"食品科学技术名词\": 4, \"麻醉学名词\": 4, \"图书馆·情报与文献学名词\": 3, \"地理信息系统名词\": 3, \"物理医学与康复名词\": 3, \"细胞生物学名词\": 3, \"耳鼻咽喉头颈外科学名词\": 3, \"草学名词\": 3, \"内分泌代谢病学名词\": 2, \"化学工程名词\": 2, \"医学遗传学名词\": 2, \"感染病学名词\": 2, \"昆虫学名词\": 2, \"消化病学名词\": 2, \"精神医学名词\": 2, \"结核病学名词\": 2, \"肠外肠内营养学名词\": 2, \"运动医学名词\": 2, \"遗传学名词\": 2, \"化工名词 (二)基本有机化工\": 1, \"化工名词(三)化学工程基础\": 1, \"化工名词（九）无机化工与肥料\": 1, \"化工名词（四）安全·环保·可持续发展\": 1, \"医学名词 第七分册\": 1, \"医学名词 第二分册\": 1, \"医学名词 第五分册\": 1, \"医学名词 第六分册\": 1, \"医学名词 第四分册\": 1, \"医学美学与美容医学名词\": 1, \"妇科肿瘤学名词\": 1, \"微生物学名词\": 1, \"手外科学名词\": 1, \"新闻学与传播学名词\": 1, \"显微外科学名词\": 1, \"档案学名词\": 1, \"消化内镜学名词\": 1, \"生态学名词\": 1, \"生殖医学名词\": 1, \"畜牧学名词\": 1, \"睡眠医学名词\": 1, \"精细化工名词\": 1, \"组织学与胚胎学名词\": 1, \"血液学名词\": 1}, \"typeStats\": {\"1\": 2008}, \"totalRecords\": 2008, \"tmWordList\": [{\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": \"[1]第二届自然辩证法名词审定委员会.自然辩证法名词[M].2版.北京：科学出版社\", \"quote2\": \"[2]第二届自然辩证法名词审定委员会.自然辩证法名词\", \"aliasName\": null, \"cn\": \"测量问题\", \"collect\": null, \"definition\": \"量子力学中波函数是否以及如何坍缩的问题。量子测量总是得到确定的结果，而按照薛定谔方程的演化并不总能得到确定的结果，这种冲突引起了关于量子测量本质的不同争论，产生了量子力学的不同解释体系。\", \"en\": \"measurement problem\", \"id\": \"63c8d6620e0e11f080660242ac110003\", \"publishYear\": \"2024\", \"source\": \"自然辩证法名词\", \"subjectFullName\": \"自然辩证法_科学哲学_分支科学哲学_物理学哲学\", \"subjectName\": \"物理学哲学\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"03.374\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]数学名词审定委员会.数学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]数学名词审定委员会.数学名词\", \"aliasName\": null, \"cn\": \"不变测度问题\", \"collect\": null, \"definition\": null, \"en\": \"invariant measure problem\", \"id\": \"a1a166a926a911ee8beeb068e6519520\", \"publishYear\": \"1993\", \"source\": \"数学名词\", \"subjectFullName\": \"数学_泛函分析_遍历理论\", \"subjectName\": \"遍历理论\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"07.0408\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]航天科学技术名词审定委员会.航天科学技术名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]航天科学技术名词审定委员会.航天科学技术名词\", \"aliasName\": null, \"cn\": \"问题\", \"collect\": null, \"definition\": null, \"en\": \"problem\", \"id\": \"ed91b5d626af11ee98e2b068e6519520\", \"publishYear\": \"2005\", \"source\": \"航天科学技术名词\", \"subjectFullName\": \"航天科学技术_可靠性\", \"subjectName\": \"可靠性\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"21.108\"}, {\"subjectTerms\": [{\"value\": \"收益\", \"color\": 1}, {\"value\": \"费用\", \"color\": 1}, {\"value\": \"订货策略\", \"color\": 1}, {\"value\": \"策略\", \"color\": 1}, {\"value\": \"需求\", \"color\": 1}, {\"value\": \"随机需求\", \"color\": 1}], \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]管理科学技术名词审定委员会.管理科学技术名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]管理科学技术名词审定委员会.管理科学技术名词\", \"aliasName\": null, \"cn\": \"报童问题\", \"collect\": null, \"definition\": \"为了满足单周期随机需求以最大化收益或者最小化费用的一次订货策略问题。\", \"en\": \"newsboy problem,newsvendor problem\", \"id\": \"ea941f0726ae11ee9434b068e6519520\", \"publishYear\": \"2016\", \"source\": \"管理科学技术名词\", \"subjectFullName\": \"管理科学技术_运筹与管理_物流与供应链管理\", \"subjectName\": \"物流与供应链管理\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"02.0565\"}, {\"subjectTerms\": [{\"value\": \"设备参数\", \"color\": 1}, {\"value\": \"系统\", \"color\": 1}, {\"value\": \"过程\", \"color\": 1}, {\"value\": \"模拟\", \"color\": 1}], \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]化工名词审定委员会.化学工程名词（十）化工系统工程与化工信息化[M].1版.北京：科学出版社\", \"quote2\": \"[2]化工名词审定委员会.化学工程名词（十）化工系统工程与化工信息化\", \"aliasName\": null, \"cn\": \"模拟问题\", \"collect\": null, \"definition\": \"对所界定系统，在已知流程结构、设备参数、输入参数的情况下，根据所建立过程模型进行模拟计算，求解该系统的输出参数的问题。\", \"en\": \"simulation problem\", \"id\": \"524e4a84bdd711ef80660242ac110003\", \"publishYear\": \"2024\", \"source\": \"化工名词（十）化工系统工程和化工信息化名词\", \"subjectFullName\": \"化工（十）_化工系统工程和化工信息化_过程模拟\", \"subjectName\": \"过程模拟\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"03.008\"}, {\"subjectTerms\": [{\"value\": \"设备参数\", \"color\": 1}, {\"value\": \"输出变量\", \"color\": 1}, {\"value\": \"系统\", \"color\": 1}], \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]化工名词审定委员会.化学工程名词（十）化工系统工程与化工信息化[M].1版.北京：科学出版社\", \"quote2\": \"[2]化工名词审定委员会.化学工程名词（十）化工系统工程与化工信息化\", \"aliasName\": null, \"cn\": \"设计问题\", \"collect\": null, \"definition\": \"对已知流程结构的系统，在满足一定的设计要求（即输出变量）下，求取某些设备参数或系统输入参数；或对未知流程结构的系统，在满足一定的设计要求时，求取流程结构、某些设备参数或系统输入参数的问题。\", \"en\": \"design problem\", \"id\": \"5261a264bdd711ef80660242ac110003\", \"publishYear\": \"2024\", \"source\": \"化工名词（十）化工系统工程和化工信息化名词\", \"subjectFullName\": \"化工（十）_化工系统工程和化工信息化_过程模拟\", \"subjectName\": \"过程模拟\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"03.009\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": \"[1]第二届自然辩证法名词审定委员会.自然辩证法名词[M].2版.北京：科学出版社\", \"quote2\": \"[2]第二届自然辩证法名词审定委员会.自然辩证法名词\", \"aliasName\": null, \"cn\": \"归纳问题\", \"collect\": null, \"definition\": \"质疑能否保证以有限的个别事例为前提得到普遍为真的必然结论。\", \"en\": \"inductive problem\", \"id\": \"52761d660e0e11f080660242ac110003\", \"publishYear\": \"2024\", \"source\": \"自然辩证法名词\", \"subjectFullName\": \"自然辩证法_科学哲学_一般科学哲学_归纳\", \"subjectName\": \"归纳\", \"alsoName\": \"休谟问题\", \"commName\": null, \"tw\": null, \"wordNumber\": \"03.083\"}, {\"subjectTerms\": [{\"value\": \"初值\", \"color\": 1}, {\"value\": \"过程\", \"color\": 1}, {\"value\": \"初值问题\", \"color\": 1}], \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]化工名词审定委员会.化学工程名词（十）化工系统工程与化工信息化[M].1版.北京：科学出版社\", \"quote2\": \"[2]化工名词审定委员会.化学工程名词（十）化工系统工程与化工信息化\", \"aliasName\": null, \"cn\": \"刚性问题\", \"collect\": null, \"definition\": \"描述包含着多种相互作用但变化速度悬殊过程的微分方程初值问题。\", \"en\": \"stiff problem\", \"id\": \"5893adb2bdd711ef80660242ac110003\", \"publishYear\": \"2024\", \"source\": \"化工名词（十）化工系统工程和化工信息化名词\", \"subjectFullName\": \"化工（十）_化工系统工程和化工信息化_过程模拟\", \"subjectName\": \"过程模拟\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"03.100\"}, {\"subjectTerms\": [{\"value\": \"夹点\", \"color\": 1}, {\"value\": \"系统\", \"color\": 1}, {\"value\": \"过程系统\", \"color\": 1}, {\"value\": \"过程\", \"color\": 1}], \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]化工名词审定委员会.化学工程名词（十）化工系统工程与化工信息化[M].1版.北京：科学出版社\", \"quote2\": \"[2]化工名词审定委员会.化学工程名词（十）化工系统工程与化工信息化\", \"aliasName\": null, \"cn\": \"门槛问题\", \"collect\": null, \"definition\": \"只需要冷却公用工程或只需要加热公用工程的过程系统，即不存在夹点的过程系统。\", \"en\": \"threshold problem\", \"id\": \"618980d6bdd711ef80660242ac110003\", \"publishYear\": \"2024\", \"source\": \"化工名词（十）化工系统工程和化工信息化名词\", \"subjectFullName\": \"化工（十）_化工系统工程和化工信息化_过程综合\", \"subjectName\": \"过程综合\", \"alsoName\": \"阈值问题\", \"commName\": null, \"tw\": null, \"wordNumber\": \"04.026\"}, {\"subjectTerms\": [{\"value\": \"目标函数\", \"color\": 1}, {\"value\": \"约束条件\", \"color\": 1}], \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]化工名词审定委员会.化学工程名词（十）化工系统工程与化工信息化[M].1版.北京：科学出版社\", \"quote2\": \"[2]化工名词审定委员会.化学工程名词（十）化工系统工程与化工信息化\", \"aliasName\": null, \"cn\": \"优化问题\", \"collect\": null, \"definition\": \"在给定的约束条件下（无约束问题除外），使目标函数取极小（或极大）值的数学问题。\", \"en\": \"optimization problem\", \"id\": \"6dd27e6abdd711ef80660242ac110003\", \"publishYear\": \"2024\", \"source\": \"化工名词（十）化工系统工程和化工信息化名词\", \"subjectFullName\": \"化工（十）_化工系统工程和化工信息化_过程系统优化\", \"subjectName\": \"过程系统优化\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"05.088\"}, {\"subjectTerms\": [{\"value\": \"目标函数\", \"color\": 1}, {\"value\": \"优化问题\", \"color\": 1}, {\"value\": \"对偶问题\", \"color\": 1}], \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]化工名词审定委员会.化学工程名词（十）化工系统工程与化工信息化[M].1版.北京：科学出版社\", \"quote2\": \"[2]化工名词审定委员会.化学工程名词（十）化工系统工程与化工信息化\", \"aliasName\": null, \"cn\": \"对偶问题\", \"collect\": null, \"definition\": \"每一个优化问题都有一个对偶问题，其目标函数值是原问题目标函数最优值的下界（原问题为最小化问题）或上界（原问题为最大化问题）。\", \"en\": \"dual problem\", \"id\": \"6e95147abdd711ef80660242ac110003\", \"publishYear\": \"2024\", \"source\": \"化工名词（十）化工系统工程和化工信息化名词\", \"subjectFullName\": \"化工（十）_化工系统工程和化工信息化_过程系统优化\", \"subjectName\": \"过程系统优化\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"05.107\"}, {\"subjectTerms\": [{\"value\": \"优化问题\", \"color\": 1}, {\"value\": \"基\", \"color\": 1}], \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]化工名词审定委员会.化学工程名词（十）化工系统工程与化工信息化[M].1版.北京：科学出版社\", \"quote2\": \"[2]化工名词审定委员会.化学工程名词（十）化工系统工程与化工信息化\", \"aliasName\": null, \"cn\": \"分配问题\", \"collect\": null, \"definition\": \"一类基本的组合优化问题。对于多项任务和多个执行者（二者数量可以不同），假设可以分配任一执行者来执行任一任务，但不同的任务-执行者分配具有不同的成本；要求寻找分配方案，以最小的总成本执行尽可能多的任务，并满足每项任务至多一个执行者，且每个执行者至多承担一项任务。\", \"en\": \"assignment problem\", \"id\": \"708a1e10bdd711ef80660242ac110003\", \"publishYear\": \"2024\", \"source\": \"化工名词（十）化工系统工程和化工信息化名词\", \"subjectFullName\": \"化工（十）_化工系统工程和化工信息化_过程系统优化\", \"subjectName\": \"过程系统优化\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"05.191\"}, {\"subjectTerms\": [], \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]化工名词审定委员会.化学工程名词（十）化工系统工程与化工信息化[M].1版.北京：科学出版社\", \"quote2\": \"[2]化工名词审定委员会.化学工程名词（十）化工系统工程与化工信息化\", \"aliasName\": null, \"cn\": \"运输问题\", \"collect\": null, \"definition\": \"考虑单位物资运价时，将货物从m个产地运往n个销地的总运费最小化问题。\", \"en\": \"transportation problem\", \"id\": \"70bc6794bdd711ef80660242ac110003\", \"publishYear\": \"2024\", \"source\": \"化工名词（十）化工系统工程和化工信息化名词\", \"subjectFullName\": \"化工（十）_化工系统工程和化工信息化_过程系统优化\", \"subjectName\": \"过程系统优化\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"05.200\"}, {\"subjectTerms\": [{\"value\": \"节点\", \"color\": 1}, {\"value\": \"运输\", \"color\": 1}], \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]化工名词审定委员会.化学工程名词（十）化工系统工程与化工信息化[M].1版.北京：科学出版社\", \"quote2\": \"[2]化工名词审定委员会.化学工程名词（十）化工系统工程与化工信息化\", \"aliasName\": null, \"cn\": \"转运问题\", \"collect\": null, \"definition\": \"不仅考虑货物运送的起点和终点，还考虑中间节点转运时的运输费用最小问题。\", \"en\": \"transshipment problem\", \"id\": \"70c1a6bebdd711ef80660242ac110003\", \"publishYear\": \"2024\", \"source\": \"化工名词（十）化工系统工程和化工信息化名词\", \"subjectFullName\": \"化工（十）_化工系统工程和化工信息化_过程系统优化\", \"subjectName\": \"过程系统优化\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"05.201\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": \"[1]第二届自然辩证法名词审定委员会.自然辩证法名词[M].2版.北京：科学出版社\", \"quote2\": \"[2]第二届自然辩证法名词审定委员会.自然辩证法名词\", \"aliasName\": null, \"cn\": \"回文问题\", \"collect\": null, \"definition\": \"可计算性理论中，列举字母表中全部回文集合的问题。该集合构成的回文语言属于语境无关语言。\", \"en\": \"palindrome problem\", \"id\": \"70c2d78c0e0e11f080660242ac110003\", \"publishYear\": \"2024\", \"source\": \"自然辩证法名词\", \"subjectFullName\": \"自然辩证法_科学哲学_分支科学哲学_信息哲学\", \"subjectName\": \"信息哲学\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"03.615\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": \"[1]第二届自然辩证法名词审定委员会.自然辩证法名词[M].2版.北京：科学出版社\", \"quote2\": \"[2]第二届自然辩证法名词审定委员会.自然辩证法名词\", \"aliasName\": null, \"cn\": \"决策问题\", \"collect\": null, \"definition\": \"指在可计算理论与计算复杂性理论中，如何从决策空间中做出行动抉择的问题。其关键是能否通过有效的数学方法或算法对某一事物是否属于某一集合做出判定。\", \"en\": \"decision problem\", \"id\": \"7168504a0e0e11f080660242ac110003\", \"publishYear\": \"2024\", \"source\": \"自然辩证法名词\", \"subjectFullName\": \"自然辩证法_科学哲学_分支科学哲学_信息哲学\", \"subjectName\": \"信息哲学\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"03.626\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": \"[1]第二届自然辩证法名词审定委员会.自然辩证法名词[M].2版.北京：科学出版社\", \"quote2\": \"[2]第二届自然辩证法名词审定委员会.自然辩证法名词\", \"aliasName\": null, \"cn\": \"捆绑问题\", \"collect\": null, \"definition\": \"属性合取的表征问题。广泛存在于各种知识表征中，例如从复杂的感官输入中知觉到统一的整体，或者将物体、背景、情感的属性等组合为单一经验。\", \"en\": \"binding problem\", \"id\": \"71e633840e0e11f080660242ac110003\", \"publishYear\": \"2024\", \"source\": \"自然辩证法名词\", \"subjectFullName\": \"自然辩证法_科学哲学_分支科学哲学_信息哲学\", \"subjectName\": \"信息哲学\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"03.632\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": \"[1]第二届自然辩证法名词审定委员会.自然辩证法名词[M].2版.北京：科学出版社\", \"quote2\": \"[2]第二届自然辩证法名词审定委员会.自然辩证法名词\", \"aliasName\": null, \"cn\": \"停机问题\", \"collect\": null, \"definition\": \"一个判定性问题：是否存在一个算法能够计算出其他所有算法在给定输入上会停机？图灵在1936年证明解决停机问题的通用算法是不存在的，即在图灵机上停机问题是不可判定问题。\", \"en\": \"halting problem\", \"id\": \"73e1c2020e0e11f080660242ac110003\", \"publishYear\": \"2024\", \"source\": \"自然辩证法名词\", \"subjectFullName\": \"自然辩证法_科学哲学_分支科学哲学_信息哲学\", \"subjectName\": \"信息哲学\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"03.662\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": \"[1]第二届自然辩证法名词审定委员会.自然辩证法名词[M].2版.北京：科学出版社\", \"quote2\": \"[2]第二届自然辩证法名词审定委员会.自然辩证法名词\", \"aliasName\": null, \"cn\": \"下棋问题\", \"collect\": null, \"definition\": \"预设好棋盘条件，要求解题者提出计算方法的国际象棋问题。多用于编程训练。\", \"en\": \"chess problem\", \"id\": \"743c5d660e0e11f080660242ac110003\", \"publishYear\": \"2024\", \"source\": \"自然辩证法名词\", \"subjectFullName\": \"自然辩证法_科学哲学_分支科学哲学_信息哲学\", \"subjectName\": \"信息哲学\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"03.669\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": \"[1]第二届自然辩证法名词审定委员会.自然辩证法名词[M].2版.北京：科学出版社\", \"quote2\": \"[2]第二届自然辩证法名词审定委员会.自然辩证法名词\", \"aliasName\": null, \"cn\": \"技术问题\", \"collect\": null, \"definition\": \"人们在技术实践中通过一系列技术认知操作，形成相应的解决方案并给予解决的与技术相关的诸多问题的总称。\", \"en\": \"technical problem\", \"id\": \"824efec20e0e11f080660242ac110003\", \"publishYear\": \"2024\", \"source\": \"自然辩证法名词\", \"subjectFullName\": \"自然辩证法_技术哲学_一般技术哲学\", \"subjectName\": \"一般技术哲学\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"04.120\"}], \"currentPage\": 1, \"totalPage\": 101}, \"id\": \"00000000000000000000000000000000\"}, {\"result\": {\"yearsList\": [], \"yearStats\": {\"2021\": 1, \"2020\": 28, \"2017\": 18, \"2016\": 31, \"2014\": 16, \"2013\": 48, \"2012\": 19, \"2011\": 7, \"2010\": 40, \"2009\": 64, \"2008\": 103, \"2003\": 32, \"2002\": 2}, \"sourceStats\": {\"海峡两岸信息科学技术名词\": 103, \"海峡两岸测绘学名词\": 64, \"海峡两岸心理学名词\": 30, \"海峡两岸天文学名词\": 28, \"海峡两岸航海科学技术名词\": 22, \"海峡两岸大气科学名词\": 20, \"海峡两岸化学名词\": 18, \"海峡两岸化学工程名词\": 18, \"海峡两岸材料科学技术名词\": 16, \"海峡两岸遗传学名词\": 16, \"海峡两岸海洋科学技术名词\": 13, \"海峡两岸生物化学与分子生物学名词\": 12, \"海峡两岸地理信息系统名词\": 9, \"海峡两岸植物学名词\": 8, \"海峡两岸地理学名词\": 7, \"海峡两岸经贸名词\": 6, \"海峡两岸船舶工程名词\": 6, \"海峡两岸药学名词\": 4, \"海峡两岸细胞生物学名词\": 3, \"海峡两岸昆虫学名词\": 2, \"海峡两岸生态学名词\": 2, \"海峡两岸解剖与组织胚胎学名词\": 1, \"海峡两岸音乐名词\": 1}, \"typeStats\": {\"2\": 409}, \"totalRecords\": 409, \"tmWordList\": [{\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"问题\", \"collect\": null, \"definition\": null, \"en\": \"problem\", \"id\": \"e85072a626b711eeab1fb068e6519520\", \"publishYear\": \"2008\", \"source\": \"海峡两岸信息科学技术名词\", \"subjectFullName\": \"信息科学技术\", \"subjectName\": \"信息科学技术\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"問題\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"反[演]问题\", \"collect\": null, \"definition\": null, \"en\": \"inverse problem\", \"id\": \"e3d93e8426b811eea1edb068e6519520\", \"publishYear\": \"2020\", \"source\": \"海峡两岸大气科学名词\", \"subjectFullName\": \"大气科学\", \"subjectName\": \"大气科学\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": \"反演問題\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"问题解决\", \"collect\": null, \"definition\": null, \"en\": \"problem solving\", \"id\": \"1e667e2326b911eea214b068e6519520\", \"publishYear\": \"2016\", \"source\": \"海峡两岸心理学名词\", \"subjectFullName\": \"心理学\", \"subjectName\": \"心理学\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"問題解決\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"对应问题\", \"collect\": null, \"definition\": null, \"en\": \"correspondence problem\", \"id\": \"1ed98aac26b911eeac8ab068e6519520\", \"publishYear\": \"2016\", \"source\": \"海峡两岸心理学名词\", \"subjectFullName\": \"心理学\", \"subjectName\": \"心理学\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"對應問題\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内倾问题\", \"collect\": null, \"definition\": null, \"en\": \"internalizing problem\", \"id\": \"1fa944cc26b911eeafb8b068e6519520\", \"publishYear\": \"2016\", \"source\": \"海峡两岸心理学名词\", \"subjectFullName\": \"心理学\", \"subjectName\": \"心理学\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"內化性問題,內化型問題\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"问题空间\", \"collect\": null, \"definition\": null, \"en\": \"problem space\", \"id\": \"20b7b1ad26b911eeb013b068e6519520\", \"publishYear\": \"2016\", \"source\": \"海峡两岸心理学名词\", \"subjectFullName\": \"心理学\", \"subjectName\": \"心理学\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"問題空間\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"同构问题\", \"collect\": null, \"definition\": null, \"en\": \"isomorphic problem\", \"id\": \"2b449a0626b911ee8d80b068e6519520\", \"publishYear\": \"2016\", \"source\": \"海峡两岸心理学名词\", \"subjectFullName\": \"心理学\", \"subjectName\": \"心理学\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"同構問題\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"顿悟问题\", \"collect\": null, \"definition\": null, \"en\": \"insight problem\", \"id\": \"2dbd37df26b911ee8c2db068e6519520\", \"publishYear\": \"2016\", \"source\": \"海峡两岸心理学名词\", \"subjectFullName\": \"心理学\", \"subjectName\": \"心理学\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"頓悟問題\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"问题表征\", \"collect\": null, \"definition\": null, \"en\": \"problem representation\", \"id\": \"2e72ebf326b911eeaac7b068e6519520\", \"publishYear\": \"2016\", \"source\": \"海峡两岸心理学名词\", \"subjectFullName\": \"心理学\", \"subjectName\": \"心理学\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"問題表徵\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"整合问题\", \"collect\": null, \"definition\": null, \"en\": \"binding problem\", \"id\": \"3772ca0526b911ee8713b068e6519520\", \"publishYear\": \"2016\", \"source\": \"海峡两岸心理学名词\", \"subjectFullName\": \"心理学\", \"subjectName\": \"心理学\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"整合的問題\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"希尔问题\", \"collect\": null, \"definition\": null, \"en\": \"Hill problem\", \"id\": \"14ece17326b911ee84bfb068e6519520\", \"publishYear\": \"2013\", \"source\": \"海峡两岸天文学名词\", \"subjectFullName\": \"天文学\", \"subjectName\": \"天文学\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"希耳問題\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"限制性问题\", \"collect\": null, \"definition\": null, \"en\": \"restricted problem\", \"id\": \"1537c0f526b911ee8fabb068e6519520\", \"publishYear\": \"2013\", \"source\": \"海峡两岸天文学名词\", \"subjectFullName\": \"天文学\", \"subjectName\": \"天文学\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"設限問題\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"布耶哈马问题\", \"collect\": null, \"definition\": null, \"en\": \"Bjerhammar problem\", \"id\": \"a8849cac26b911ee82d5b068e6519520\", \"publishYear\": \"2009\", \"source\": \"海峡两岸测绘学名词\", \"subjectFullName\": \"测绘学\", \"subjectName\": \"测绘学\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"布耶哈馬問題\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"背包问题\", \"collect\": null, \"definition\": null, \"en\": \"knapsack problem\", \"id\": \"9c60b39126b711ee83bcb068e6519520\", \"publishYear\": \"2008\", \"source\": \"海峡两岸信息科学技术名词\", \"subjectFullName\": \"信息科学技术\", \"subjectName\": \"信息科学技术\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"背包問題\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"不可判定问题\", \"collect\": null, \"definition\": null, \"en\": \"undecidable problem\", \"id\": \"9efaf2db26b711ee93f3b068e6519520\", \"publishYear\": \"2008\", \"source\": \"海峡两岸信息科学技术名词\", \"subjectFullName\": \"信息科学技术\", \"subjectName\": \"信息科学技术\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"不可決策問題\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"成员问题，隶属关系问题\", \"collect\": null, \"definition\": null, \"en\": \"membership problem\", \"id\": \"a21a32e526b711ee9f86b068e6519520\", \"publishYear\": \"2008\", \"source\": \"海峡两岸信息科学技术名词\", \"subjectFullName\": \"信息科学技术\", \"subjectName\": \"信息科学技术\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"隸屬問題，資格問題\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"等价问题\", \"collect\": null, \"definition\": null, \"en\": \"equivalence problem\", \"id\": \"a7a6a7ee26b711eeba33b068e6519520\", \"publishYear\": \"2008\", \"source\": \"海峡两岸信息科学技术名词\", \"subjectFullName\": \"信息科学技术\", \"subjectName\": \"信息科学技术\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"等價問題\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"决策问题\", \"collect\": null, \"definition\": null, \"en\": \"decision problem\", \"id\": \"c627ab4226b711ee9046b068e6519520\", \"publishYear\": \"2008\", \"source\": \"海峡两岸信息科学技术名词\", \"subjectFullName\": \"信息科学技术\", \"subjectName\": \"信息科学技术\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"決策問題\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"可见性问题\", \"collect\": null, \"definition\": null, \"en\": \"visibility problem\", \"id\": \"c76cba1626b711eea24db068e6519520\", \"publishYear\": \"2008\", \"source\": \"海峡两岸信息科学技术名词\", \"subjectFullName\": \"信息科学技术\", \"subjectName\": \"信息科学技术\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"可見性問題\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"可满足性问题\", \"collect\": null, \"definition\": null, \"en\": \"satisfiability problem\", \"id\": \"c79ecb7226b711ee9cedb068e6519520\", \"publishYear\": \"2008\", \"source\": \"海峡两岸信息科学技术名词\", \"subjectFullName\": \"信息科学技术\", \"subjectName\": \"信息科学技术\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"滿足性問題\", \"wordNumber\": null}], \"currentPage\": 1, \"totalPage\": 21}, \"id\": \"00000000000000000000000000000001\"}, {\"result\": {\"yearsList\": [], \"yearStats\": {\"暂无年份\": 63, \"2020\": 19, \"2015\": 1, \"2008\": 7}, \"sourceStats\": {\"中央文献重要术语\": 1, \"中国时政术语汉英对照（2012-2018年）\": 7, \"新冠肺炎疫情相关词汇中英对照\": 12, \"奥运体育项目名词\": 7, \"大数据百科术语辞典\": 32, \"维基百科\": 31}, \"typeStats\": {\"3\": 90}, \"totalRecords\": 90, \"tmWordList\": [{\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": \"1\", \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"测量\", \"collect\": null, \"definition\": null, \"en\": \"measure\\\",\\\"measurement\", \"id\": \"1e7e425326bd11ee9010b068e6519520\", \"publishYear\": \"2008\", \"source\": \"奥运体育项目名词\", \"subjectFullName\": \"奥运体育项目名词_田径名词\", \"subjectName\": \"田径名词\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"柯西问题\", \"collect\": null, \"definition\": \"\", \"en\": \"Cauchy problem\", \"id\": \"02c8e361a6e04213a704483f30423000\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"背包问题\", \"collect\": null, \"definition\": \"背包问题（英语：Knapsack problem）是一种组合优化的NP完全问题。问题可以描述为：给定一组物品，每种物品都有自己的重量和价格，在限定的总重量内，我们如何选择，才能使得物品的总价格最高。问题的名称来源于如何选择最合适的物品放置于给定背包中，背包的空间有限，但我们需要最大化背包内所装物品的价值。背包问题通常出现在资源分配中，决策者必须分别从一组不可分割的项目或任务中进行选择，而这些项目又有时间或预算的限制。\\n背包问题历史悠久，甚至可以追溯到1897年。“背包问题”一词最早出现于数学家托比阿斯·丹齐格的早期研究中，他研究的问题是如何打包行李，要求最大化所选行李的价值且不能超载。\", \"en\": \"Knapsack problem\", \"id\": \"9e58da93b9fd48b0b4e485b72271e49b\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": \"1\", \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"运输问题\", \"collect\": null, \"definition\": null, \"en\": \"transportation problem\", \"id\": \"a8d4c626ca6a11f090b80242ac110003\", \"publishYear\": \"暂无年份\", \"source\": \"大数据百科术语辞典\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": \"1\", \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"无约束问题\", \"collect\": null, \"definition\": null, \"en\": \"unconstrained problem\", \"id\": \"a8d4cfc2ca6a11f090b80242ac110003\", \"publishYear\": \"暂无年份\", \"source\": \"大数据百科术语辞典\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": \"1\", \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"背包问题\", \"collect\": null, \"definition\": null, \"en\": \"knapsack problem\", \"id\": \"a8d4d904ca6a11f090b80242ac110003\", \"publishYear\": \"暂无年份\", \"source\": \"大数据百科术语辞典\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": \"1\", \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"停机问题\", \"collect\": null, \"definition\": null, \"en\": \"halting problem\", \"id\": \"a8dcc89eca6a11f090b80242ac110003\", \"publishYear\": \"暂无年份\", \"source\": \"大数据百科术语辞典\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": \"1\", \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"问题空间\", \"collect\": null, \"definition\": null, \"en\": \"problem space\", \"id\": \"a95b9516ca6a11f090b80242ac110003\", \"publishYear\": \"暂无年份\", \"source\": \"大数据百科术语辞典\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": \"1\", \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"问题求解\", \"collect\": null, \"definition\": null, \"en\": \"problem solving\", \"id\": \"a95be368ca6a11f090b80242ac110003\", \"publishYear\": \"暂无年份\", \"source\": \"大数据百科术语辞典\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"停机问题\", \"collect\": null, \"definition\": \"\", \"en\": \"halting problem\", \"id\": \"d5d696c945234a0da901a102223fd8f7\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"超引力\", \"collect\": null, \"definition\": \"\", \"en\": \"Hierarchy problem\", \"id\": \"dc5be4b08904465583233d074ecd4f74\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"大统一理论\", \"collect\": null, \"definition\": \"\", \"en\": \"Hierarchy problem\", \"id\": \"f9f1647ea2a54f79ac8e80ef6098ee32\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"问题导向\", \"collect\": null, \"definition\": null, \"en\": \"problem-oriented\", \"id\": \"52d4a12b26bd11ee884db068e6519520\", \"publishYear\": \"2020\", \"source\": \"中国时政术语汉英对照（2012-2018年）\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": \"1\", \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"丈量员\", \"collect\": null, \"definition\": null, \"en\": \"measurer\", \"id\": \"eae41f2426bc11eebabeb068e6519520\", \"publishYear\": \"2008\", \"source\": \"奥运体育项目名词\", \"subjectFullName\": \"奥运体育项目名词_帆船名词\", \"subjectName\": \"帆船名词\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"入射角\", \"collect\": null, \"definition\": \"入射角在几何光学中是曲面上的入射光线与入射点处垂直于曲面的垂线之间的角度，该垂线称为表面法线。射线可以由任何波形成：光学、声学、微波、X射线等等。在下图中，表示光线的射线与法线（虚线）形成角度θ。光线首次完全内部反射时的入射角称为临界角。反射角和折射角是与光束相关的其他角度。\\n在电脑图形和地理学中，入射角也称为具有光源表面的照明角，例如太阳相对于地球的表面。它也可以等效地描述为任何平面的切平面与另一个与光线成直角的平面之间的角度。这意味著，如果太阳在正上方，该点的照明角为0°，并且在日落或日出时是90°。\\n确定相对于平面的反射角很简单，但计算任何其它表面都会困难得多。球体的精确解（在天文学和电脑图形中具有重要应用）在阿尔哈森问题（英语：Alhazen's problem）中讨论。\", \"en\": \"Alhazen's problem\", \"id\": \"d15ca11fa97a4105a50d7357e989af0c\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"普拉托问题\", \"collect\": null, \"definition\": \"\", \"en\": \"Plateau's problem\", \"id\": \"fedde42e2c2d430e92814eea265ab7f0\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"三体问题\", \"collect\": null, \"definition\": \"三体问题（英语：Three-body problem）是天体力学中的基本力学模型。它是指三个质量、初始位置和初始速度都是任意的可视为质点的天体，在相互之间万有引力的作用下的运动规律问题。\", \"en\": \"Three-body problem\", \"id\": \"2598b5dd55a14b468c448cf4bbf1c126\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"最大流问题\", \"collect\": null, \"definition\": \"最大流问题（英语：Maximum flow problem）涉及到在一个单源点、单汇点的网络流中找到一条最大的流。\\n最大流问题可以被看作是一个更复杂的网络流问题（循环问题，circulation problem）的特殊情况。s-t流（从源点s到汇点t）的最大值等于s-t割的最小容量，这被称为最大流最小割定理。\", \"en\": \"Maximum flow problem\", \"id\": \"958f671edacc43e8800a467a4d5911fb\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": \"1\", \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"波斯特对应问题\", \"collect\": null, \"definition\": null, \"en\": \"Post correspondence problem\", \"id\": \"a8dcd1d6ca6a11f090b80242ac110003\", \"publishYear\": \"暂无年份\", \"source\": \"大数据百科术语辞典\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"归纳问题\", \"collect\": null, \"definition\": \"归纳问题（英语：Problem of Induction）是一个经典的哲学问题，其怀疑先前的观察或经验对未观察或未经验的事物做出预测的合理性。从已观察到的事物（经验）推导至未观察到的事物的推论被称为归纳推理（Inductive Inferences，或称归纳法）。苏格兰哲学家大卫·休谟在其于1739年出版的著作《人性论》中首次提出了该问题。他认为不存在可以遵循的方式去证成归纳推理的任何结论，进而证明归纳推理是不受辩护的；同时他也提出一种实用主义的观点，即既便我们没有办法透过理性去证成这样的推理，但我们每个人仍然需要且必须做出且相信这种推理，亦即一种怀疑主义的哲学立场，与之相对的，法国哲学家笛卡尔在其同样被视为怀疑主义基本问题的邪恶天才论证中则得出了一种怀疑主义的哲学态度，即我们不应当也没有理由去相信那些可能被怀疑的信念或知识。1748年，休谟在其另外一部著作《人类理智研究》中的第四节又对该问题提出了一个较短版本的论证。\\n传统的归纳主义（英语：Inductivism）（Inductivism）观点认为，所有被声称的经验法则，不论其是透过日常生活亦或科学方法，都可以通过某种形式的推理来证明。问题在于，许多哲学家尝试证明这样的论述，但却并未受到其他哲学家的接受。英国知识论学家C.D.博德（英语：C.D.Broad）将归纳主义视为一种科学观点，并曾说过，归纳法是“科学的荣耀和哲学的丑闻”。与之相对的，著名科学哲学家卡尔·波普尔的批判理性主义主张，归纳证明从未在科学中使用过，而是提出科学是基于假设的猜测、演绎计算的程序性结果，然后通过经验尝试证伪这些假设的“程序”。\", \"en\": \"Problem of Induction\", \"id\": \"bec651cac54e430484cf19c716110ff8\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}], \"currentPage\": 1, \"totalPage\": 5}, \"id\": \"00000000000000000000000000000002\"}, {\"result\": {\"yearsList\": [], \"yearStats\": {\"2025\": 118}, \"sourceStats\": {\"放射卫生学\": 43, \"军事预防医学名词\": 15, \"社会学名词\": 15, \"社会医学名词\": 10, \"妇幼卫生学名词\": 9, \"食品卫生学名词\": 7, \"马克思主义\": 7, \"儿少与学校卫生学名词\": 6, \"卫生经济学名词\": 3, \"消毒学\": 2, \"民族学与文化学名词\": 1}, \"typeStats\": {\"6\": 118}, \"totalRecords\": 118, \"tmWordList\": [{\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"环境问题\", \"collect\": null, \"definition\": \"由于人类活动作用于周围环境所引起的环境质量变化，以及这种变化对人类的生产、生活和健康造成的影响。\", \"en\": \"environmental problem\", \"id\": \"1945299715541307473\", \"publishYear\": \"2025\", \"source\": \"社会学名词\", \"subjectFullName\": \"社会学名词_分支社会学_环境社会学_环境问题及其产生根源\", \"subjectName\": \"环境问题及其产生根源\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"3.14.3.3\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"妇女问题\", \"collect\": null, \"definition\": \"妇女因其性别而在经济、政治、社会和家庭省会中遇到的各种特殊障碍，导致她们在个人和家庭生活质量，以及在教育、就业、收入和社会政治参与等方面普遍存在劣势的问题。\", \"en\": \"female problem\", \"id\": \"1945299715570667557\", \"publishYear\": \"2025\", \"source\": \"社会学名词\", \"subjectFullName\": \"社会学名词_跨学科社会学_社会工作_社会工作实务\", \"subjectName\": \"社会工作实务\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"4.4.9.54\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"民族问题\", \"collect\": null, \"definition\": \"在民族发展和交往过程中产生的民族与民族之间的各种矛盾和问题，如民族歧视、民族纠纷、民族压迫等。民族问题是一个历史问题和社会政治问题，它在历史发展的不同时期表现出不同的性质和特点。解决民族问题，核心是实现民族平等和民族团结，最终在消灭私有制的基础上逐渐走向民族融合。\", \"en\": \"national problem\", \"id\": \"1945299715587444874\", \"publishYear\": \"2025\", \"source\": \"马克思主义\", \"subjectFullName\": \"马克思主义_科学社会主义_马克思恩格斯时期\", \"subjectName\": \"马克思恩格斯时期\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"03.0118\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"农民问题\", \"collect\": null, \"definition\": \"列宁于1921年2月8日俄共（布）中央政治局会议上写了《农民问题提纲初稿》，这是一篇表明苏维埃俄国农业政策、甚至整个经济政策重大变化的文献。列宁开始考虑用粮食税代替余粮征集。这篇文献奠定了新经济政策的基础。\", \"en\": \"peasants problem\", \"id\": \"1945299715604221996\", \"publishYear\": \"2025\", \"source\": \"马克思主义\", \"subjectFullName\": \"马克思主义_其他部分_基本词汇_列宁斯大林时期\", \"subjectName\": \"列宁斯大林时期\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"04.0080\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"总问题\", \"collect\": null, \"definition\": \"来自于阿尔都塞《保卫马克思》，指文本的深层结构，即一种思想产生和发展时所处的意识形态环境与这一思想的内在整体。\", \"en\": \"General problem\", \"id\": \"1945299715616804938\", \"publishYear\": \"2025\", \"source\": \"马克思主义\", \"subjectFullName\": \"马克思主义_附录_国外马克思主义哲学\", \"subjectName\": \"国外马克思主义哲学\", \"alsoName\": \"问题框架或问题式\", \"commName\": null, \"tw\": null, \"wordNumber\": \"05.0069\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"社会问题\", \"collect\": null, \"definition\": \"社会中存在的人与自然、人与社会以及人与人之间关系的严重失调或冲突现象，影响社会的正常运转，阻碍社会的协调发展。例如，人口问题、环境污染问题、腐败问题、贫困问题、就业问题等。\", \"en\": \"social problem\", \"id\": \"24af4646e55443818c80b951dbf8b575\", \"publishYear\": \"2025\", \"source\": \"社会医学名词\", \"subjectFullName\": \"社会病\", \"subjectName\": \"社会问题\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"13.1\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"问题识别\", \"collect\": null, \"definition\": \"通过对社会现象的分析、公众意见的收集或专家判断，将某一具体情况明确为需要政策干预的公共问题的过程，是整个政策过程的起点。\", \"en\": \"problem identification\", \"id\": \"551e4cb449fe44a9b30aa6273e51b88b\", \"publishYear\": \"2025\", \"source\": \"社会医学名词\", \"subjectFullName\": \"政策与策略\", \"subjectName\": \"政策\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"10.1.2.1.1\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"社会问题\", \"collect\": null, \"definition\": \"社会成员普遍认为不符合社会预期，违反社会价值，扰乱社会秩序的社会现象。对社会稳定有负面影响，需要运用社会力量对社会结构进行调整和干预，对社会制度进行修正。\", \"en\": \"social problems\", \"id\": \"1945299715507753003\", \"publishYear\": \"2025\", \"source\": \"社会学名词\", \"subjectFullName\": \"社会学名词_社会学一般概念_社会问题与社会控制_社会越轨\", \"subjectName\": \"社会越轨\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"2.10.2.12\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"测量\", \"collect\": null, \"definition\": \"在研究中，根据规定的量度把一定的数值赋予所要研究对象的特定水平或性质的某种状态的过程。\", \"en\": \"measurement\", \"id\": \"1945299715474198653\", \"publishYear\": \"2025\", \"source\": \"社会学名词\", \"subjectFullName\": \"社会学名词_社会学理论与方法_社会学研究方法_数据收集\", \"subjectName\": \"数据收集\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"1.2.4.22\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"搭便车问题\", \"collect\": null, \"definition\": \"因为公共物品具有非竞争性和非排他性特征，使得具有理性自利特征的行动者不会积极主动地发起集体行动、提供集体物品以满足所属集团或组织的需要，而是采取不付成本或少付成本，坐享他人付出之利的行动策略。这反过来会导致提供公共物品的激励不足，从而形成公共物品提供中的一个困境。\", \"en\": \"free rider problem\", \"id\": \"1945299715520335958\", \"publishYear\": \"2025\", \"source\": \"社会学名词\", \"subjectFullName\": \"社会学名词_分支社会学_经济社会学_新经济社会学\", \"subjectName\": \"新经济社会学\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"3.5.3.13\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"价值转形问题\", \"collect\": null, \"definition\": \"在马克思的劳动价值论中，价值转化为生产价格被学术界称为价值转形理论。\", \"en\": \"value transformation problem\", \"id\": \"1945299715620999207\", \"publishYear\": \"2025\", \"source\": \"马克思主义\", \"subjectFullName\": \"马克思主义_附录_国外经济学理论\", \"subjectName\": \"国外经济学理论\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"05.0122\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"都留重人问题\", \"collect\": null, \"definition\": \"日本都留重人针对我国对外开放中出现的弊端曾指出“对外开放应该有节制”。事实上，我国经济在对外开放的牵引下取得了高速的增长，但也带来了过分依靠外资和外国技术的弊端，这种弊端现在也无法完全克服。\", \"en\": \"Shigeto Tsuru problem\", \"id\": \"1945299715620999239\", \"publishYear\": \"2025\", \"source\": \"马克思主义\", \"subjectFullName\": \"马克思主义_附录_国外经济学理论\", \"subjectName\": \"国外经济学理论\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"05.0154\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"问题行为理论\", \"collect\": null, \"definition\": \"杰瑟尔（Jessor）提出的基于行为由人与环境相互作用产生的前提来阐述青少年问题行为的性质及发生发展过程的社会心理学框架。\", \"en\": \"problem-behavior theory\", \"id\": \"1990247655716032564\", \"publishYear\": \"2025\", \"source\": \"儿少与学校卫生学名词\", \"subjectFullName\": \"儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育\", \"subjectName\": \"生活技能教育\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"5.5.5\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"认知问题解决\", \"collect\": null, \"definition\": \"舒尔（Shure）和斯皮瓦克（Spivack）提出的通过提升儿童解决问题的能力，以增强其社会适应能力的干预理论。\", \"en\": \"cognitive problem solving\", \"id\": \"1990247655716032566\", \"publishYear\": \"2025\", \"source\": \"儿少与学校卫生学名词\", \"subjectFullName\": \"儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育\", \"subjectName\": \"生活技能教育\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"5.5.7\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"解决问题能力\", \"collect\": null, \"definition\": \"正确认识自己面临的主要问题，寻找解决该问题的方法并评价其利弊，以便从中选择合适的解决方法的能力。有助于减轻未解决的重大问题对个体造成的心理压力，避免其引起身体紧张和不适。生活技能的核心技能之一。\", \"en\": \"problem solving skill\", \"id\": \"1990247655716032579\", \"publishYear\": \"2025\", \"source\": \"儿少与学校卫生学名词\", \"subjectFullName\": \"儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育\", \"subjectName\": \"生活技能教育\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"5.5.10.10\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"偶发性社会问题\", \"collect\": null, \"definition\": \"社会系统中突然发生、难以预测、具有突发性和紧迫性，并对社会秩序、个体权益或公共安全造成一定影响的问题。例如重大疫情爆发、特大安全事故。\", \"en\": \"incidental social problem\", \"id\": \"2fcac2b569c3443abe0c687af93ca1d3\", \"publishYear\": \"2025\", \"source\": \"社会医学名词\", \"subjectFullName\": \"社会病\", \"subjectName\": \"社会问题\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"13.1.2\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"过失性社会问题\", \"collect\": null, \"definition\": \"部分人群偏离社会正常生活和规范而产生的问题，往往不需要制定新的政策来解决，而是可以通过教育和道德引导来改善。例如网络暴力、公共场所的不文明行为。\", \"en\": \"negligent social problem\", \"id\": \"4d3ed20552444bf2a771b518904f8fa0\", \"publishYear\": \"2025\", \"source\": \"社会医学名词\", \"subjectFullName\": \"社会病\", \"subjectName\": \"社会问题\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"13.1.3\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"必发性社会问题\", \"collect\": null, \"definition\": \"在社会发展的特定阶段或特定进程中，由于其内在的规律性、结构性原因或普遍的发展趋势而难以完全避免的问题。例如人口老龄化，大城市病。\", \"en\": \"inevitable social problem\", \"id\": \"e6da3a250f424406bf03cb615ad0cda4\", \"publishYear\": \"2025\", \"source\": \"社会医学名词\", \"subjectFullName\": \"社会病\", \"subjectName\": \"社会问题\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"13.1.1\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"结构性社会问题\", \"collect\": null, \"definition\": \"由某些制度性、政策性的因素或社会发展中不可逾越的阶段引起的社会问题。例如城乡二元结构、贫富差距。\", \"en\": \"constitutive social problem\", \"id\": \"e7e3ecc7482d41449049c4b6c054e9a6\", \"publishYear\": \"2025\", \"source\": \"社会医学名词\", \"subjectFullName\": \"社会病\", \"subjectName\": \"社会问题\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"13.1.4\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"消毒测量\", \"collect\": null, \"definition\": \"终末消毒前现场勘察，了解消毒区内面积和（或）体积，为计算所配制的消毒药物量而进行的测量。\", \"en\": \"disinfection measurement\", \"id\": \"1945299715381924018\", \"publishYear\": \"2025\", \"source\": \"消毒学\", \"subjectFullName\": \"消毒学_消毒应用_环境消毒\", \"subjectName\": \"环境消毒\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"4.1.4.14\"}], \"currentPage\": 1, \"totalPage\": 6}, \"id\": \"00000000000000000000000000000006\"}], \"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}}, \"timestamp\": 1794341017214}"
+}

@@ -1,0 +1,152 @@
+{
+ "key": "hamiltonian",
+ "term": "Hamiltonian",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T19:25:35+00:00",
+ "status": "ok",
+ "note": "00000000000000000000000000000000=16; 00000000000000000000000000000001=3; 00000000000000000000000000000002=1; 00000000000000000000000000000006=0",
+ "hits": [
+  {
+   "cn": "哈密顿[量]",
+   "en": "Hamiltonian",
+   "code": "02.0606",
+   "standard": "物理学名词",
+   "subject": "物理学_力学"
+  },
+  {
+   "cn": "哈密顿[算符]",
+   "en": "Hamiltonian",
+   "code": "03.2175",
+   "standard": "化学名词",
+   "subject": "化学_分析化学_仪器分析_核磁共振分析"
+  },
+  {
+   "cn": "哈密顿[量]",
+   "en": "Hamiltonian",
+   "code": null,
+   "standard": "力学名词",
+   "subject": "力学_一般力学"
+  },
+  {
+   "cn": "哈密顿函数",
+   "en": "Hamiltonian function",
+   "code": "02.0607",
+   "standard": "物理学名词",
+   "subject": "物理学_力学"
+  },
+  {
+   "cn": "哈密顿算符",
+   "en": "Hamiltonian operator",
+   "code": "06.0594",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "哈密顿算符",
+   "en": "Hamiltonian operator",
+   "code": "04.1308",
+   "standard": "化学名词",
+   "subject": "化学_物理化学_物质结构、理论和计算化学"
+  },
+  {
+   "cn": "哈密顿圈",
+   "en": "Hamiltonian cycle",
+   "code": "03.0128",
+   "standard": "数学名词",
+   "subject": "数学_组合学·一般数学系统_图论"
+  },
+  {
+   "cn": "哈密顿图",
+   "en": "Hamiltonian graph",
+   "code": "03.0129",
+   "standard": "数学名词",
+   "subject": "数学_组合学·一般数学系统_图论"
+  },
+  {
+   "cn": "哈密顿函数",
+   "en": "Hamiltonian function",
+   "code": null,
+   "standard": "力学名词",
+   "subject": "力学_一般力学"
+  },
+  {
+   "cn": "海森伯哈密顿量",
+   "en": "Heisenberg Hamiltonian",
+   "code": "08.1389",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_固体及其性质"
+  },
+  {
+   "cn": "隧穿哈密顿量",
+   "en": "tunneling Hamiltonian",
+   "code": "06.0596",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "哈伯德哈密顿量",
+   "en": "Hubbard Hamiltonian",
+   "code": "08.1548",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_固体及其性质"
+  },
+  {
+   "cn": "自旋哈密顿量",
+   "en": "spin Hamiltonian",
+   "code": "06.0653",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "有效哈密顿量",
+   "en": "effective Hamiltonian",
+   "code": "06.0595",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "哈密顿特征函数",
+   "en": "Hamiltonian characteristic function",
+   "code": "04.0631",
+   "standard": "物理学名词",
+   "subject": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学"
+  },
+  {
+   "cn": "哈密顿微分系统",
+   "en": "Hamiltonian differential system",
+   "code": "06.0082",
+   "standard": "数学名词",
+   "subject": "数学_微分方程_积分方程_常微分方程"
+  },
+  {
+   "cn": "哈密顿[算符]",
+   "en": "Hamiltonian",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "哈密顿回路",
+   "en": "Hamiltonian circuit",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "哈密顿路径",
+   "en": "Hamiltonian path",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "哈密顿算符",
+   "en": "Hamiltonian",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"searchResult\": [{\"result\": {\"yearsList\": [], \"yearStats\": {\"2019\": 9, \"2016\": 2, \"1993\": 5}, \"sourceStats\": {\"物理学名词\": 9, \"数学名词\": 3, \"力学名词\": 2, \"化学名词\": 2}, \"typeStats\": {\"1\": 16}, \"totalRecords\": 16, \"tmWordList\": [{\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": \"[1]物理学名词审定委员会.物理学名词[M].3版.北京：科学出版社\", \"quote2\": \"[2]物理学名词审定委员会.物理学名词\", \"aliasName\": null, \"cn\": \"哈密顿[量]\", \"collect\": null, \"definition\": null, \"en\": \"Hamiltonian\", \"id\": \"7af67d8526ac11eeac1cb068e6519520\", \"publishYear\": \"2019\", \"source\": \"物理学名词\", \"subjectFullName\": \"物理学_力学\", \"subjectName\": \"力学\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"02.0606\"}, {\"subjectTerms\": [{\"value\": \"耦合常数\", \"color\": 1}, {\"value\": \"化学位移\", \"color\": 1}, {\"value\": \"核磁共振\", \"color\": 1}, {\"value\": \"薛定谔方程\", \"color\": 1}, {\"value\": \"耦合\", \"color\": 1}, {\"value\": \"系统\", \"color\": 1}, {\"value\": \"哈密顿算符\", \"color\": 1}, {\"value\": \"相\", \"color\": 1}, {\"value\": \"同\", \"color\": 1}], \"fullName\": \"[]\", \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": \"[1]化学名词审定委员会.化学名词[M].2版.北京：科学出版社\", \"quote2\": \"[2]化学名词审定委员会.化学名词\", \"aliasName\": null, \"cn\": \"哈密顿[算符]\", \"collect\": null, \"definition\": \"核磁共振中的能量算符，针对不同因素(含化学位移项、耦合常数项和相互作用项)变化进行计算的方法。共振核的状态矢量<img src='/root/syzx/static/spz/huaxue2.03.2175.1.png'/>的动力学演化由薛定谔方程表示：<img src='/root/syzx/static/spz/huaxue2.03.2175.2.png'/>，其中对应于系统的总能量的算符H(x,t)称为哈密顿算符。\", \"en\": \"Hamiltonian\", \"id\": \"c470035726a711eebc1eb068e6519520\", \"publishYear\": \"2016\", \"source\": \"化学名词\", \"subjectFullName\": \"化学_分析化学_仪器分析_核磁共振分析\", \"subjectName\": \"核磁共振分析\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"03.2175\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]力学名词审定委员会.力学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]力学名词审定委员会.力学名词\", \"aliasName\": null, \"cn\": \"哈密顿[量]\", \"collect\": null, \"definition\": null, \"en\": \"Hamiltonian\", \"id\": \"90f474cf26a711eebc15b068e6519520\", \"publishYear\": \"1993\", \"source\": \"力学名词\", \"subjectFullName\": \"力学_一般力学\", \"subjectName\": \"一般力学\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": \"[1]物理学名词审定委员会.物理学名词[M].3版.北京：科学出版社\", \"quote2\": \"[2]物理学名词审定委员会.物理学名词\", \"aliasName\": null, \"cn\": \"哈密顿函数\", \"collect\": null, \"definition\": null, \"en\": \"Hamiltonian function\", \"id\": \"8b72280e26ac11ee82a5b068e6519520\", \"publishYear\": \"2019\", \"source\": \"物理学名词\", \"subjectFullName\": \"物理学_力学\", \"subjectName\": \"力学\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"02.0607\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": \"[1]物理学名词审定委员会.物理学名词[M].3版.北京：科学出版社\", \"quote2\": \"[2]物理学名词审定委员会.物理学名词\", \"aliasName\": null, \"cn\": \"哈密顿算符\", \"collect\": null, \"definition\": null, \"en\": \"Hamiltonian operator\", \"id\": \"c9ddde1326ac11eea36eb068e6519520\", \"publishYear\": \"2019\", \"source\": \"物理学名词\", \"subjectFullName\": \"物理学_相对论、量子理论_量子理论\", \"subjectName\": \"量子理论\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"06.0594\"}, {\"subjectTerms\": [{\"value\": \"量子力学\", \"color\": 1}, {\"value\": \"哈密顿算符\", \"color\": 1}], \"fullName\": \"[]\", \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": \"[1]化学名词审定委员会.化学名词[M].2版.北京：科学出版社\", \"quote2\": \"[2]化学名词审定委员会.化学名词\", \"aliasName\": null, \"cn\": \"哈密顿算符\", \"collect\": null, \"definition\": \"量子力学假定之一为可观测的物理量由希尔伯特空间的埃尔米特算符来描述。体系总能量对应的埃尔米特算符称为哈密顿算符。\", \"en\": \"Hamiltonian operator\", \"id\": \"ba16d8cc26a711ee88e1b068e6519520\", \"publishYear\": \"2016\", \"source\": \"化学名词\", \"subjectFullName\": \"化学_物理化学_物质结构、理论和计算化学\", \"subjectName\": \"物质结构、理论和计算化学\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"04.1308\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]数学名词审定委员会.数学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]数学名词审定委员会.数学名词\", \"aliasName\": null, \"cn\": \"哈密顿圈\", \"collect\": null, \"definition\": null, \"en\": \"Hamiltonian cycle\", \"id\": \"8097a8ec26a911eea2e6b068e6519520\", \"publishYear\": \"1993\", \"source\": \"数学名词\", \"subjectFullName\": \"数学_组合学·一般数学系统_图论\", \"subjectName\": \"图论\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"03.0128\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]数学名词审定委员会.数学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]数学名词审定委员会.数学名词\", \"aliasName\": null, \"cn\": \"哈密顿图\", \"collect\": null, \"definition\": null, \"en\": \"Hamiltonian graph\", \"id\": \"80992e6d26a911eea111b068e6519520\", \"publishYear\": \"1993\", \"source\": \"数学名词\", \"subjectFullName\": \"数学_组合学·一般数学系统_图论\", \"subjectName\": \"图论\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"03.0129\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]力学名词审定委员会.力学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]力学名词审定委员会.力学名词\", \"aliasName\": null, \"cn\": \"哈密顿函数\", \"collect\": null, \"definition\": null, \"en\": \"Hamiltonian function\", \"id\": \"8e3f1eaa26a711ee9123b068e6519520\", \"publishYear\": \"1993\", \"source\": \"力学名词\", \"subjectFullName\": \"力学_一般力学\", \"subjectName\": \"一般力学\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": \"[1]物理学名词审定委员会.物理学名词[M].3版.北京：科学出版社\", \"quote2\": \"[2]物理学名词审定委员会.物理学名词\", \"aliasName\": null, \"cn\": \"海森伯哈密顿量\", \"collect\": null, \"definition\": null, \"en\": \"Heisenberg Hamiltonian\", \"id\": \"81664ec326ac11eebfdbb068e6519520\", \"publishYear\": \"2019\", \"source\": \"物理学名词\", \"subjectFullName\": \"物理学_凝聚态物理学_固体及其性质\", \"subjectName\": \"固体及其性质\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"08.1389\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": \"[1]物理学名词审定委员会.物理学名词[M].3版.北京：科学出版社\", \"quote2\": \"[2]物理学名词审定委员会.物理学名词\", \"aliasName\": null, \"cn\": \"隧穿哈密顿量\", \"collect\": null, \"definition\": null, \"en\": \"tunneling Hamiltonian\", \"id\": \"9facac2c26ac11ee8bdeb068e6519520\", \"publishYear\": \"2019\", \"source\": \"物理学名词\", \"subjectFullName\": \"物理学_相对论、量子理论_量子理论\", \"subjectName\": \"量子理论\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"06.0596\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": \"[1]物理学名词审定委员会.物理学名词[M].3版.北京：科学出版社\", \"quote2\": \"[2]物理学名词审定委员会.物理学名词\", \"aliasName\": null, \"cn\": \"哈伯德哈密顿量\", \"collect\": null, \"definition\": null, \"en\": \"Hubbard Hamiltonian\", \"id\": \"baf09a8c26ac11ee8cfeb068e6519520\", \"publishYear\": \"2019\", \"source\": \"物理学名词\", \"subjectFullName\": \"物理学_凝聚态物理学_固体及其性质\", \"subjectName\": \"固体及其性质\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"08.1548\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": \"[1]物理学名词审定委员会.物理学名词[M].3版.北京：科学出版社\", \"quote2\": \"[2]物理学名词审定委员会.物理学名词\", \"aliasName\": null, \"cn\": \"自旋哈密顿量\", \"collect\": null, \"definition\": null, \"en\": \"spin Hamiltonian\", \"id\": \"d6da698326ac11eead3eb068e6519520\", \"publishYear\": \"2019\", \"source\": \"物理学名词\", \"subjectFullName\": \"物理学_相对论、量子理论_量子理论\", \"subjectName\": \"量子理论\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"06.0653\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": \"[1]物理学名词审定委员会.物理学名词[M].3版.北京：科学出版社\", \"quote2\": \"[2]物理学名词审定委员会.物理学名词\", \"aliasName\": null, \"cn\": \"有效哈密顿量\", \"collect\": null, \"definition\": null, \"en\": \"effective Hamiltonian\", \"id\": \"e6d0cb6b26ac11ee854db068e6519520\", \"publishYear\": \"2019\", \"source\": \"物理学名词\", \"subjectFullName\": \"物理学_相对论、量子理论_量子理论\", \"subjectName\": \"量子理论\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"06.0595\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": \"[1]物理学名词审定委员会.物理学名词[M].3版.北京：科学出版社\", \"quote2\": \"[2]物理学名词审定委员会.物理学名词\", \"aliasName\": null, \"cn\": \"哈密顿特征函数\", \"collect\": null, \"definition\": null, \"en\": \"Hamiltonian characteristic function\", \"id\": \"94d3d3c126ac11eebb7ab068e6519520\", \"publishYear\": \"2019\", \"source\": \"物理学名词\", \"subjectFullName\": \"物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学\", \"subjectName\": \"几何光学、光学仪器、生理光学、光度学、色度学\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"04.0631\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]数学名词审定委员会.数学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]数学名词审定委员会.数学名词\", \"aliasName\": null, \"cn\": \"哈密顿微分系统\", \"collect\": null, \"definition\": null, \"en\": \"Hamiltonian differential system\", \"id\": \"9ad5857026a911ee89d2b068e6519520\", \"publishYear\": \"1993\", \"source\": \"数学名词\", \"subjectFullName\": \"数学_微分方程_积分方程_常微分方程\", \"subjectName\": \"常微分方程\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"06.0082\"}], \"currentPage\": 1, \"totalPage\": 1}, \"id\": \"00000000000000000000000000000000\"}, {\"result\": {\"yearsList\": [], \"yearStats\": {\"2013\": 1, \"2010\": 2}, \"sourceStats\": {\"海峡两岸地理信息系统名词\": 2, \"海峡两岸化学名词\": 1}, \"typeStats\": {\"2\": 3}, \"totalRecords\": 3, \"tmWordList\": [{\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"哈密顿[算符]\", \"collect\": null, \"definition\": null, \"en\": \"Hamiltonian\", \"id\": \"93c31da226b811ee8c20b068e6519520\", \"publishYear\": \"2013\", \"source\": \"海峡两岸化学名词\", \"subjectFullName\": \"化学\", \"subjectName\": \"化学\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"哈密頓[算符]，哈密頓[函數]\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"哈密顿回路\", \"collect\": null, \"definition\": null, \"en\": \"Hamiltonian circuit\", \"id\": \"b2c5c95a26b811eea918b068e6519520\", \"publishYear\": \"2010\", \"source\": \"海峡两岸地理信息系统名词\", \"subjectFullName\": \"地理信息系统\", \"subjectName\": \"地理信息系统\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"哈密爾敦環線\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"哈密顿路径\", \"collect\": null, \"definition\": null, \"en\": \"Hamiltonian path\", \"id\": \"b2c727e626b811eeb92db068e6519520\", \"publishYear\": \"2010\", \"source\": \"海峡两岸地理信息系统名词\", \"subjectFullName\": \"地理信息系统\", \"subjectName\": \"地理信息系统\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"哈密爾頓路徑\", \"wordNumber\": null}], \"currentPage\": 1, \"totalPage\": 1}, \"id\": \"00000000000000000000000000000001\"}, {\"result\": {\"yearsList\": [], \"yearStats\": {\"暂无年份\": 1}, \"sourceStats\": {\"维基百科\": 1}, \"typeStats\": {\"3\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"哈密顿算符\", \"collect\": null, \"definition\": \"\", \"en\": \"Hamiltonian\", \"id\": \"e555c0bf74064f9287ef9844a0c22d3b\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}], \"currentPage\": 1, \"totalPage\": 1}, \"id\": \"00000000000000000000000000000002\"}, {\"result\": {\"yearsList\": [], \"yearStats\": {}, \"sourceStats\": {}, \"typeStats\": null, \"totalRecords\": 0, \"tmWordList\": [], \"currentPage\": 1, \"totalPage\": 0}, \"id\": \"00000000000000000000000000000006\"}], \"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}}, \"timestamp\": 1794338735983}"
+}

@@ -1,0 +1,572 @@
+{
+ "key": "density operator",
+ "term": "density operator",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T19:25:01+00:00",
+ "status": "ok",
+ "note": "00000000000000000000000000000000=2845; 00000000000000000000000000000001=780; 00000000000000000000000000000002=96; 00000000000000000000000000000006=117",
+ "hits": [
+  {
+   "cn": "密度算符",
+   "en": "density operator",
+   "code": "02.100",
+   "standard": "光学名词",
+   "subject": "光学_非线性光学与量子光学"
+  },
+  {
+   "cn": "密度算子",
+   "en": "density operator",
+   "code": "12.0073",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_量子计算与量子信息学"
+  },
+  {
+   "cn": "密度算符",
+   "en": "density operator",
+   "code": "04.1436",
+   "standard": "化学名词",
+   "subject": "化学_物理化学_物质结构、理论和计算化学"
+  },
+  {
+   "cn": "约化密度算子",
+   "en": "reduced density operator",
+   "code": "12.0040",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_量子计算与量子信息学"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "code": "03.02.063",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_印刷_印前工艺"
+  },
+  {
+   "cn": "密度",
+   "en": "density ",
+   "code": "3.0126",
+   "standard": "草学名词",
+   "subject": "草学_草地资源与利用"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "code": "01.0483",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_基础理论"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "code": "01.131",
+   "standard": "城乡规划学名词",
+   "subject": "城乡规划学_城乡规划总述_城乡规划制度"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "code": "01.476",
+   "standard": "电力名词",
+   "subject": "电力_总论"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "code": "02.0130",
+   "standard": "物理学名词",
+   "subject": "物理学_力学"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "code": "13.0270",
+   "standard": "植物学名词",
+   "subject": "植物学_植物生态学_植物群落与植被"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "code": "02.1211",
+   "standard": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "subject": "化工（一）_分析、化验、评定"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "code": "03.058",
+   "standard": "林学名词",
+   "subject": "林学_森林生态、湿地与自然保护区_森林生态"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "code": "03.044",
+   "standard": "计量学名词",
+   "subject": "计量学_质量、密度、衡器_密度"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "code": "10.0369",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑物理_建筑热工学"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "code": "01.363",
+   "standard": "地理信息系统名词",
+   "subject": "地理信息系统_基本概念"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "code": "10.131",
+   "standard": "资源科学技术名词",
+   "subject": "资源科学技术_草地资源学"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "code": "06.023",
+   "standard": "生态学名词",
+   "subject": "生态学_群落生态学"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "code": "08.367",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天遥感"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "code": "05.085",
+   "standard": "水利科学技术名词",
+   "subject": "水利科学技术_岩石力学、土力学、岩土工程_土力学（水利）"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "密度",
+   "en": "density",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "浓度",
+   "en": "density",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "郁闭度",
+   "en": "crown density\",\"canopy density\",\"shade density",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "填充密度",
+   "en": "packed density\",\"packing density",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "理论密度",
+   "en": "theoretical density\",\"solid density",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "郁闭度",
+   "en": "crown density\",\"canopy density",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "密度流",
+   "en": "density current\",\"density flow",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "密度分割",
+   "en": "density slicing\",\"density splitting",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "面密度",
+   "en": "area density\",\"areal density",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "非密度制约",
+   "en": "density independence",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "密度制约",
+   "en": "density dependence",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "种群密度",
+   "en": "population density",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "大气密度",
+   "en": "atmospheric density",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "盐跃层",
+   "en": "Density gradient",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "自然密度",
+   "en": "natural density",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "人口密度",
+   "en": "Population density",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "密度图",
+   "en": "density plot",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "密度波理论",
+   "en": "Density wave theory",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "低密度脂蛋白",
+   "en": "low-density lipoprotein",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "疏密",
+   "en": "Sparsity and Density",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "密度聚类",
+   "en": "density-based clustering",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据价值密度",
+   "en": "data value density",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "辐射度量学",
+   "en": "Radiant energy density",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "高密度脂蛋白",
+   "en": "High-density lipoprotein",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "工作人员",
+   "en": "operator",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_排球名词"
+  },
+  {
+   "cn": "μ算子",
+   "en": "μ operator",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "幺正算符",
+   "en": "unitary operator",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "正规算子",
+   "en": "normal operator",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "交换算符",
+   "en": "Exchange Operator)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "豪斯霍尔德变换",
+   "en": "Householder operator",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "微分算子",
+   "en": "Differential operator",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "记分牌操作员",
+   "en": "scoreboards operator",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "运算",
+   "en": "nullary operation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "等离子体密度",
+   "en": "plasma density",
+   "code": "2.2.9.3",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术_物理消毒"
+  },
+  {
+   "cn": "人口密度",
+   "en": "population density",
+   "code": "4.5.9.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_人口社会学_人口分布"
+  },
+  {
+   "cn": "相对密度",
+   "en": "relative density",
+   "code": "6.3.4.5",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品添加剂_食品用香精香料"
+  },
+  {
+   "cn": "染毒密度",
+   "en": "exposure density",
+   "code": "10.5.13.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_化学武器医学防护学_化学战剂"
+  },
+  {
+   "cn": "光密度",
+   "en": "optical density",
+   "code": "5.13.7.3",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_饮料"
+  },
+  {
+   "cn": "光密度值",
+   "en": "optical density value",
+   "code": "6.2.5.4.2",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "骨密度",
+   "en": "bone mineral density",
+   "code": "1.5.1.37",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法"
+  },
+  {
+   "cn": "最大种群密度",
+   "en": "maximum population density",
+   "code": "1.4.4.112",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "密度差异干扰",
+   "en": "disturbance from density difference",
+   "code": "5.1.3.13",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射测量原理"
+  },
+  {
+   "cn": "卫生资源密度指数",
+   "en": "health resources density index，HDRI",
+   "code": "1.4.5.12",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生经济学_健康公平"
+  },
+  {
+   "cn": "无菌操作",
+   "en": "sterile operation",
+   "code": "1.2.19.4",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒学_灭菌"
+  },
+  {
+   "cn": "手术率",
+   "en": "operation rate",
+   "code": "15.3.3.4",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队卫生统计学_战时卫生统计"
+  },
+  {
+   "cn": "变性手术",
+   "en": "transsexual operation",
+   "code": "5.051",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_临床诊疗伦理"
+  },
+  {
+   "cn": "操作限值",
+   "en": "operation limit",
+   "code": "4.5.8",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品安全风险管理_危害分析与关键控制点"
+  },
+  {
+   "cn": "工作区",
+   "en": "operating area",
+   "code": "1.8.24.4",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒学_其他"
+  },
+  {
+   "cn": "战时洗消",
+   "en": "operational decontamination",
+   "code": "10.8.7",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_化学武器医学防护学_化学战剂消除"
+  },
+  {
+   "cn": "核设施操纵员",
+   "en": "unclear installation operator",
+   "code": "6.6.8.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_核工业的放射防护"
+  },
+  {
+   "cn": "食品从业人员",
+   "en": "food business operator",
+   "code": "1.1.26",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全"
+  },
+  {
+   "cn": "普通手术部",
+   "en": "general operation department",
+   "code": "4.6.15",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_医院消毒"
+  },
+  {
+   "cn": "在役去污",
+   "en": "decontamination in operation",
+   "code": "6.6.5.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"searchResult\": [{\"result\": {\"yearsList\": [], \"yearStats\": {\"2026\": 43, \"2025\": 64, \"2024\": 131, \"2023\": 27, \"2022\": 129, \"2021\": 188, \"2020\": 320, \"2019\": 280, \"2018\": 145, \"2017\": 25, \"2016\": 136, \"2015\": 54, \"2014\": 95, \"2013\": 111, \"2012\": 47, \"2011\": 40, \"2009\": 11, \"2008\": 10, \"2007\": 31, \"2006\": 41, \"2005\": 71, \"2003\": 42, \"2002\": 36, \"2000\": 3, \"1998\": 154, \"1997\": 165, \"1996\": 148, \"1995\": 24, \"1994\": 62, \"1993\": 193, \"1992\": 3, \"1990\": 6, \"1989\": 8, \"1988\": 2}, \"sourceStats\": {\"电力名词\": 220, \"数学名词\": 167, \"物理学名词\": 158, \"电气工程名词\": 121, \"计算机科学技术名词\": 119, \"铁道科学技术名词\": 91, \"公路交通科技名词\": 83, \"机械工程名词 第五分册\": 74, \"航天科学技术名词\": 71, \"石油名词\": 62, \"管理科学技术名词\": 62, \"化工名词（十）化工系统工程和化工信息化名词\": 52, \"医学名词 第六分册\": 49, \"冶金学名词\": 44, \"机械工程名词 第一分册\": 43, \"计量学名词\": 43, \"光学名词\": 41, \"建筑学名词\": 35, \"航海科技名词\": 35, \"化学名词\": 34, \"地理信息系统名词\": 34, \"材料科学技术名词\": 32, \"林学名词\": 31, \"农学名词\": 30, \"化工名词（五）化工规划·研发·工程建设及产业化\": 30, \"化工名词（八）化工装备\": 27, \"水利科学技术名词\": 25, \"地球物理学名词\": 24, \"新闻学与传播学名词\": 23, \"机械工程名词 第四分册\": 23, \"生态学名词\": 23, \"船舶工程名词\": 23, \"化学工程名词\": 22, \"煤炭科学技术名词\": 22, \"天文学名词\": 21, \"心理学名词\": 21, \"草学名词\": 21, \"化工名词（一）石油炼制·煤制油及天然气·生物质制油\": 20, \"机械工程名词 第二分册\": 20, \"航空科学技术名词\": 20, \"化工名词（七）高分子化工\": 19, \"地质学名词\": 19, \"行为医学名词\": 19, \"医学名词 第七分册\": 18, \"地理学名词\": 18, \"水产名词\": 18, \"电子学名词\": 18, \"药学名词\": 18, \"通信科学技术名词\": 18, \"风景园林名词\": 18, \"化工名词(三)化学工程基础\": 17, \"食品科学技术名词\": 17, \"图书馆·情报与文献学名词\": 16, \"普通外科学名词\": 16, \"生物化学与分子生物学名词\": 16, \"医学影像技术学名词\": 14, \"手外科学名词\": 14, \"教育学名词\": 14, \"测绘学名词\": 14, \"自然辩证法名词\": 14, \"土木工程名词\": 13, \"生物物理学名词\": 13, \"世界历史名词\": 12, \"兽医学名词\": 12, \"城乡规划学名词\": 12, \"核医学名词\": 12, \"医学美学与美容医学名词\": 11, \"放射医学与防护名词\": 11, \"畜牧学名词\": 11, \"化工名词（九）无机化工与肥料\": 10, \"化工名词（四）安全·环保·可持续发展\": 10, \"土壤学名词\": 10, \"资源科学技术名词\": 10, \"机械工程名词 第三分册\": 9, \"海洋科技名词\": 9, \"编辑与出版学名词\": 9, \"医学名词 第一分册\": 8, \"医学名词 第五分册\": 8, \"整形外科名词\": 8, \"核科学技术名词\": 8, \"植物学名词\": 8, \"经济学名词\": 8, \"肝病学名词\": 8, \"计划生育名词\": 8, \"语言学名词\": 8, \"中国古代史名词\": 7, \"内分泌代谢病学名词\": 7, \"动物学名词\": 7, \"档案学名词\": 7, \"肠外肠内营养学名词\": 7, \"力学名词\": 6, \"大气科学名词\": 6, \"生理学名词\": 6, \"自动化名词\": 6, \"阿尔茨海默病名词\": 6, \"妇科肿瘤学名词\": 5, \"显微外科学名词\": 5, \"男科及性医学名词\": 5, \"精神医学名词\": 5, \"细胞生物学名词\": 5, \"老年医学名词\": 5, \"耳鼻咽喉头颈外科学名词\": 5, \"麻醉学名词\": 5, \"化工名词 (二)基本有机化工\": 4, \"医学遗传学名词\": 4, \"地方病学名词\": 4, \"泌尿外科学名词\": 4, \"神经病学名词\": 4, \"运动医学名词\": 4, \"遗传学名词\": 4, \"医学名词 第二分册\": 3, \"昆虫学名词\": 3, \"烧伤学名词\": 3, \"全科医学与社区卫生名词\": 2, \"化工名词（六）生物化工\": 2, \"医学名词 第三分册\": 2, \"急救医学名词\": 2, \"消化内镜学名词\": 2, \"物理医学与康复名词\": 2, \"生殖医学名词\": 2, \"病理学名词\": 2, \"神经外科学名词\": 2, \"组织学与胚胎学名词\": 2, \"呼吸病学名词\": 1, \"妇产科学名词\": 1, \"微生物学名词\": 1, \"消化病学名词\": 1, \"睡眠医学名词\": 1, \"精细化工名词\": 1}, \"typeStats\": {\"1\": 2845}, \"totalRecords\": 2845, \"tmWordList\": [{\"subjectTerms\": [], \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]光学名词审定委员会.光学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]光学名词审定委员会.光学名词\", \"aliasName\": null, \"cn\": \"密度算符\", \"collect\": null, \"definition\": \"一种线性、自伴、非负、迹一的直接描述量子态的算符。\", \"en\": \"density operator\", \"id\": \"3a57889026a711eea21bb068e6519520\", \"publishYear\": \"2021\", \"source\": \"光学名词\", \"subjectFullName\": \"光学_非线性光学与量子光学\", \"subjectName\": \"非线性光学与量子光学\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"02.100\"}, {\"subjectTerms\": [{\"value\": \"混合态\", \"color\": 1}, {\"value\": \"系\", \"color\": 1}, {\"value\": \"纯态\", \"color\": 1}, {\"value\": \"密度算子\", \"color\": 1}, {\"value\": \"系统\", \"color\": 1}], \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": \"[1]计算机科学技术名词 审定委员会.计算机科学技术名词 [M].3版.北京：科学出版社\", \"quote2\": \"[2]计算机科学技术名词 审定委员会.计算机科学技术名词 \", \"aliasName\": null, \"cn\": \"密度算子\", \"collect\": null, \"definition\": \"主要用于描述混合态的数学表示。假设一个量子系统处于纯态<img src='/root/syzx/static/spz/jsjkx3.12.0073.001.png'/>的概率为<img src='/root/syzx/static/spz/jsjkx3.12.0073.002.png'/>，则该系统的密度算子可以表示为：<img src='/root/syzx/static/spz/jsjkx3.12.0073.003.png'/>，其中<img src='/root/syzx/static/spz/jsjkx3.12.0073.004.png'/>。 \", \"en\": \"density operator\", \"id\": \"a03fb58a26b011eea4f1b068e6519520\", \"publishYear\": \"2018\", \"source\": \"计算机科学技术名词\", \"subjectFullName\": \"计算机科学技术_计算机交叉学科_量子计算与量子信息学\", \"subjectName\": \"量子计算与量子信息学\", \"alsoName\": \"密度矩阵（density matrix）\", \"commName\": null, \"tw\": null, \"wordNumber\": \"12.0073\"}, {\"subjectTerms\": [{\"value\": \"概率\", \"color\": 1}, {\"value\": \"相\", \"color\": 1}, {\"value\": \"密度算符\", \"color\": 1}], \"fullName\": \"[]\", \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": \"[1]化学名词审定委员会.化学名词[M].2版.北京：科学出版社\", \"quote2\": \"[2]化学名词审定委员会.化学名词\", \"aliasName\": null, \"cn\": \"密度算符\", \"collect\": null, \"definition\": \"若体系并不处于某确定的状态，而是处于混合态，即体系状态的量子描述需要如下定义的密度算符来表示：对于一系列的纯态<img src='/root/syzx/static/spz/huaxue2.04.1436.1.png'/>，体系相应出现的概率为<img src='/root/syzx/static/spz/huaxue2.04.1436.2.png'/>,则该体系的密度算符定义为<img src='/root/syzx/static/spz/huaxue2.04.1436.3.png'/><img src='/root/syzx/static/spz/huaxue2.04.1436.4.png'/>。\", \"en\": \"density operator\", \"id\": \"c84b5cee26a711ee9a61b068e6519520\", \"publishYear\": \"2016\", \"source\": \"化学名词\", \"subjectFullName\": \"化学_物理化学_物质结构、理论和计算化学\", \"subjectName\": \"物质结构、理论和计算化学\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"04.1436\"}, {\"subjectTerms\": [{\"value\": \"系\", \"color\": 1}, {\"value\": \"复合\", \"color\": 1}, {\"value\": \"密度算子\", \"color\": 1}, {\"value\": \"系统\", \"color\": 1}], \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": \"[1]计算机科学技术名词 审定委员会.计算机科学技术名词 [M].3版.北京：科学出版社\", \"quote2\": \"[2]计算机科学技术名词 审定委员会.计算机科学技术名词 \", \"aliasName\": null, \"cn\": \"约化密度算子\", \"collect\": null, \"definition\": \"复合系统中子系统的密度算子。可以由复合系统的密度算子求偏迹得到。\", \"en\": \"reduced density operator\", \"id\": \"ba95bda826b011eeb400b068e6519520\", \"publishYear\": \"2018\", \"source\": \"计算机科学技术名词\", \"subjectFullName\": \"计算机科学技术_计算机交叉学科_量子计算与量子信息学\", \"subjectName\": \"量子计算与量子信息学\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"12.0040\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]编辑与出版学名词审定委员会.编辑与出版学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]编辑与出版学名词审定委员会.编辑与出版学名词\", \"aliasName\": null, \"cn\": \"密度\", \"collect\": null, \"definition\": \"以10为底的透或反射系数倒数的对数值。\", \"en\": \"density\", \"id\": \"2c26658d26b511ee90f1b068e6519520\", \"publishYear\": \"2022\", \"source\": \"编辑与出版学名词\", \"subjectFullName\": \"编辑与出版学_印刷_印前工艺\", \"subjectName\": \"印前工艺\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"03.02.063\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]草学名词审定委员会.草学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]草学名词审定委员会.草学名词\", \"aliasName\": null, \"cn\": \"密度\", \"collect\": null, \"definition\": null, \"en\": \"density \", \"id\": \"496f1c7a836511eeabb90242ac110002\", \"publishYear\": \"2022\", \"source\": \"草学名词\", \"subjectFullName\": \"草学_草地资源与利用\", \"subjectName\": \"草地资源与利用\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"3.0126\"}, {\"subjectTerms\": [{\"value\": \"频次\", \"color\": 1}], \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": \"[1]地球物理学名词审定委员会.地球物理学名词[M].2版.北京：科学出版社\", \"quote2\": \"[2]地球物理学名词审定委员会.地球物理学名词\", \"aliasName\": null, \"cn\": \"密度\", \"collect\": null, \"definition\": \"(1)单位测度 (如单位长度、面积或频次)某物质的数量。 (2)单位体积中所含物质的质量。 \", \"en\": \"density\", \"id\": \"62e4ef2326b411eea84ab068e6519520\", \"publishYear\": \"2022\", \"source\": \"地球物理学名词\", \"subjectFullName\": \"地球物理学_地震科学_基础理论\", \"subjectName\": \"基础理论\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"01.0483\"}, {\"subjectTerms\": [{\"value\": \"比例\", \"color\": 1}], \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]城乡规划学名词审定委员会.城乡规划学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]城乡规划学名词审定委员会.城乡规划学名词\", \"aliasName\": null, \"cn\": \"密度\", \"collect\": null, \"definition\": \"通常是指一定范围内，某一要素的量占该范围总面积的比例。\", \"en\": \"density\", \"id\": \"d5e7ab3f26a811ee9c77b068e6519520\", \"publishYear\": \"2021\", \"source\": \"城乡规划学名词\", \"subjectFullName\": \"城乡规划学_城乡规划总述_城乡规划制度\", \"subjectName\": \"城乡规划制度\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"01.131\"}, {\"subjectTerms\": [], \"fullName\": \"[]\", \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": \"[1]电力名词审定委员会.电力名词[M].3版.北京：科学出版社\", \"quote2\": \"[2]电力名词审定委员会.电力名词\", \"aliasName\": null, \"cn\": \"密度\", \"collect\": null, \"definition\": \"单位体积物质的质量。\", \"en\": \"density\", \"id\": \"77fd6a1b26ad11ee85dcb068e6519520\", \"publishYear\": \"2020\", \"source\": \"电力名词\", \"subjectFullName\": \"电力_总论\", \"subjectName\": \"总论\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"01.476\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": \"[1]物理学名词审定委员会.物理学名词[M].3版.北京：科学出版社\", \"quote2\": \"[2]物理学名词审定委员会.物理学名词\", \"aliasName\": null, \"cn\": \"密度\", \"collect\": null, \"definition\": null, \"en\": \"density\", \"id\": \"7f297f6226ac11eeb7afb068e6519520\", \"publishYear\": \"2019\", \"source\": \"物理学名词\", \"subjectFullName\": \"物理学_力学\", \"subjectName\": \"力学\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"02.0130\"}, {\"subjectTerms\": [{\"value\": \"植物\", \"color\": 1}, {\"value\": \"目\", \"color\": 1}, {\"value\": \"个体\", \"color\": 1}], \"fullName\": \"[]\", \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": \"[1]植物学名词审定委员会.植物学名词[M].2版.北京：科学出版社\", \"quote2\": \"[2]植物学名词审定委员会.植物学名词\", \"aliasName\": null, \"cn\": \"密度\", \"collect\": null, \"definition\": \"单位面积上植物个体的数目。\", \"en\": \"density\", \"id\": \"9688ffc226ab11ee88fcb068e6519520\", \"publishYear\": \"2019\", \"source\": \"植物学名词\", \"subjectFullName\": \"植物学_植物生态学_植物群落与植被\", \"subjectName\": \"植物群落与植被\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"13.0270\"}, {\"subjectTerms\": [{\"value\": \"密度\", \"color\": 1}], \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"密度\", \"collect\": null, \"definition\": \"在规定温度下，单位体积内所含物质的质量。以g/cm³或kg/m³表示。油品的密度与化学组成和结构有关。\", \"en\": \"density\", \"id\": \"d2c455a826a711eeb5c9b068e6519520\", \"publishYear\": \"2017\", \"source\": \"化工名词（一）石油炼制·煤制油及天然气·生物质制油\", \"subjectFullName\": \"化工（一）_分析、化验、评定\", \"subjectName\": \"分析、化验、评定\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"02.1211\"}, {\"subjectTerms\": [], \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": \"[1]林学名词审定委员会.林学名词[M].2版.北京：科学出版社\", \"quote2\": \"[2]林学名词审定委员会.林学名词\", \"aliasName\": null, \"cn\": \"密度\", \"collect\": null, \"definition\": \"单位面积或单位空间内的植物种的个体数量。\", \"en\": \"density\", \"id\": \"42e3750526ab11eeaae0b068e6519520\", \"publishYear\": \"2016\", \"source\": \"林学名词\", \"subjectFullName\": \"林学_森林生态、湿地与自然保护区_森林生态\", \"subjectName\": \"森林生态\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"03.058\"}, {\"subjectTerms\": [{\"value\": \"质量\", \"color\": 1}, {\"value\": \"量\", \"color\": 1}], \"fullName\": \"[]\", \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]计量学名词审定委员会.计量学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]计量学名词审定委员会.计量学名词\", \"aliasName\": null, \"cn\": \"密度\", \"collect\": null, \"definition\": \"单位体积中所含物质的质量。单位为 kg/m³。\", \"en\": \"density\", \"id\": \"d178120826b011eea69bb068e6519520\", \"publishYear\": \"2015\", \"source\": \"计量学名词\", \"subjectFullName\": \"计量学_质量、密度、衡器_密度\", \"subjectName\": \"密度\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"03.044\"}, {\"subjectTerms\": [{\"value\": \"符号\", \"color\": 1}, {\"value\": \"材\", \"color\": 1}], \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": \"[1]建筑学名词审定委员会.建筑学名词[M].2版.北京：科学出版社\", \"quote2\": \"[2]建筑学名词审定委员会.建筑学名词\", \"aliasName\": null, \"cn\": \"密度\", \"collect\": null, \"definition\": \"单位体积材料的质量。符号为ρ，单位为kg/m³。\", \"en\": \"density\", \"id\": \"0266116826a911eeb2a0b068e6519520\", \"publishYear\": \"2014\", \"source\": \"建筑学名词\", \"subjectFullName\": \"建筑学_建筑物理_建筑热工学\", \"subjectName\": \"建筑热工学\", \"alsoName\": \"\", \"commName\": null, \"tw\": null, \"wordNumber\": \"10.0369\"}, {\"subjectTerms\": [{\"value\": \"区域\", \"color\": 1}, {\"value\": \"对象\", \"color\": 1}], \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": \"[1]地理信息系统名词审定委员会.地理信息系统名词[M].2版.北京：科学出版社\", \"quote2\": \"[2]地理信息系统名词审定委员会.地理信息系统名词\", \"aliasName\": null, \"cn\": \"密度\", \"collect\": null, \"definition\": \"地理对象在某一地理区域的疏密程度。\", \"en\": \"density\", \"id\": \"acfb35fd26a811eea218b068e6519520\", \"publishYear\": \"2012\", \"source\": \"地理信息系统名词\", \"subjectFullName\": \"地理信息系统_基本概念\", \"subjectName\": \"基本概念\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"01.363\"}, {\"subjectTerms\": [{\"value\": \"草地\", \"color\": 1}], \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]资源科学技术名词审定委员会.资源科学技术名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]资源科学技术名词审定委员会.资源科学技术名词\", \"aliasName\": null, \"cn\": \"密度\", \"collect\": null, \"definition\": \"单位面积草地上的植物个体数。\", \"en\": \"density\", \"id\": \"24d02d5926b111ee9c7fb068e6519520\", \"publishYear\": \"2008\", \"source\": \"资源科学技术名词\", \"subjectFullName\": \"资源科学技术_草地资源学\", \"subjectName\": \"草地资源学\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"10.131\"}, {\"subjectTerms\": [], \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]生态学名词审定委员会.生态学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]生态学名词审定委员会.生态学名词\", \"aliasName\": null, \"cn\": \"密度\", \"collect\": null, \"definition\": \"单位面积或单位空间内的个体数。\", \"en\": \"density\", \"id\": \"106ffc6626ad11eeb10eb068e6519520\", \"publishYear\": \"2006\", \"source\": \"生态学名词\", \"subjectFullName\": \"生态学_群落生态学\", \"subjectName\": \"群落生态学\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"06.023\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]航天科学技术名词审定委员会.航天科学技术名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]航天科学技术名词审定委员会.航天科学技术名词\", \"aliasName\": null, \"cn\": \"密度\", \"collect\": null, \"definition\": null, \"en\": \"density\", \"id\": \"d1d9e80e26af11eea02ab068e6519520\", \"publishYear\": \"2005\", \"source\": \"航天科学技术名词\", \"subjectFullName\": \"航天科学技术_航天遥感\", \"subjectName\": \"航天遥感\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"08.367\"}, {\"subjectTerms\": [{\"value\": \"土\", \"color\": 1}, {\"value\": \"土体\", \"color\": 1}], \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]水利科学技术名词审定委员会.水利科学技术名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]水利科学技术名词审定委员会.水利科学技术名词\", \"aliasName\": null, \"cn\": \"密度\", \"collect\": null, \"definition\": \"单位体积土体的质量。\", \"en\": \"density\", \"id\": \"dd94000a26ab11ee8cb2b068e6519520\", \"publishYear\": \"1997\", \"source\": \"水利科学技术名词\", \"subjectFullName\": \"水利科学技术_岩石力学、土力学、岩土工程_土力学（水利）\", \"subjectName\": \"土力学（水利）\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"05.085\"}], \"currentPage\": 1, \"totalPage\": 143}, \"id\": \"00000000000000000000000000000000\"}, {\"result\": {\"yearsList\": [], \"yearStats\": {\"2021\": 3, \"2020\": 33, \"2017\": 111, \"2016\": 35, \"2014\": 34, \"2013\": 73, \"2012\": 52, \"2011\": 21, \"2010\": 85, \"2009\": 12, \"2008\": 210, \"2005\": 11, \"2003\": 97, \"2002\": 3}, \"sourceStats\": {\"海峡两岸信息科学技术名词\": 210, \"海峡两岸化学工程名词\": 111, \"海峡两岸航海科学技术名词\": 78, \"海峡两岸地理信息系统名词\": 51, \"海峡两岸生态学名词\": 48, \"海峡两岸心理学名词\": 34, \"海峡两岸材料科学技术名词\": 34, \"海峡两岸经贸名词\": 32, \"海峡两岸地理学名词\": 21, \"海峡两岸大气科学名词\": 21, \"海峡两岸海洋科学技术名词\": 20, \"海峡两岸化学名词\": 13, \"海峡两岸天文学名词\": 12, \"海峡两岸植物学名词\": 12, \"海峡两岸测绘学名词\": 12, \"海峡两岸细胞生物学名词\": 12, \"海峡两岸动物学名词\": 11, \"海峡两岸生物化学与分子生物学名词\": 11, \"海峡两岸药学名词\": 10, \"海峡两岸遗传学名词\": 10, \"海峡两岸船舶工程名词\": 9, \"海峡两岸昆虫学名词\": 3, \"海峡两岸解剖与组织胚胎学名词\": 3, \"海峡两岸免疫学名词\": 1, \"海峡两岸音乐名词\": 1}, \"typeStats\": {\"2\": 780}, \"totalRecords\": 780, \"tmWordList\": [{\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"密度\", \"collect\": null, \"definition\": null, \"en\": \"density\", \"id\": \"7861430c26b911ee8dd3b068e6519520\", \"publishYear\": \"2020\", \"source\": \"海峡两岸植物学名词\", \"subjectFullName\": \"植物学\", \"subjectName\": \"植物学\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"密度\", \"collect\": null, \"definition\": null, \"en\": \"density\", \"id\": \"7e847a6d26b811eeaca1b068e6519520\", \"publishYear\": \"2017\", \"source\": \"海峡两岸化学工程名词\", \"subjectFullName\": \"化学工程\", \"subjectName\": \"化学工程\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"密度\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"密度\", \"collect\": null, \"definition\": null, \"en\": \"density\", \"id\": \"5979d3c426b911eea649b068e6519520\", \"publishYear\": \"2014\", \"source\": \"海峡两岸材料科学技术名词\", \"subjectFullName\": \"材料科学技术\", \"subjectName\": \"材料科学技术\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"密度\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"密度\", \"collect\": null, \"definition\": null, \"en\": \"density\", \"id\": \"f90cc95c26b911eea3d5b068e6519520\", \"publishYear\": \"2013\", \"source\": \"海峡两岸生态学名词\", \"subjectFullName\": \"生态学\", \"subjectName\": \"生态学\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"密度\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"密度\", \"collect\": null, \"definition\": null, \"en\": \"density\", \"id\": \"db385e2e26b911ee9688b068e6519520\", \"publishYear\": \"2012\", \"source\": \"海峡两岸海洋科学技术名词\", \"subjectFullName\": \"海洋科学技术\", \"subjectName\": \"海洋科学技术\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"密度\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"密度\", \"collect\": null, \"definition\": null, \"en\": \"density\", \"id\": \"b560a61226b811eea5b8b068e6519520\", \"publishYear\": \"2010\", \"source\": \"海峡两岸地理信息系统名词\", \"subjectFullName\": \"地理信息系统\", \"subjectName\": \"地理信息系统\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"密度\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"密度\", \"collect\": null, \"definition\": null, \"en\": \"density\", \"id\": \"29fc34d926b811eebf1ab068e6519520\", \"publishYear\": \"2005\", \"source\": \"海峡两岸动物学名词\", \"subjectFullName\": \"动物学\", \"subjectName\": \"动物学\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"密度\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"密度\", \"collect\": null, \"definition\": null, \"en\": \"density\", \"id\": \"758b44cf26ba11ee9591b068e6519520\", \"publishYear\": \"2003\", \"source\": \"海峡两岸航海科学技术名词\", \"subjectFullName\": \"航海科学技术\", \"subjectName\": \"航海科学技术\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"密度\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"浓度\", \"collect\": null, \"definition\": null, \"en\": \"density\", \"id\": \"764a8e0d26ba11ee9b50b068e6519520\", \"publishYear\": \"2003\", \"source\": \"海峡两岸航海科学技术名词\", \"subjectFullName\": \"航海科学技术\", \"subjectName\": \"航海科学技术\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"濃度\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"郁闭度\", \"collect\": null, \"definition\": null, \"en\": \"crown density\\\",\\\"canopy density\\\",\\\"shade density\", \"id\": \"9e2ee7be26b911eebcd7b068e6519520\", \"publishYear\": \"2020\", \"source\": \"海峡两岸植物学名词\", \"subjectFullName\": \"植物学\", \"subjectName\": \"植物学\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"填充密度\", \"collect\": null, \"definition\": null, \"en\": \"packed density\\\",\\\"packing density\", \"id\": \"46f1656726b811ee9a61b068e6519520\", \"publishYear\": \"2017\", \"source\": \"海峡两岸化学工程名词\", \"subjectFullName\": \"化学工程\", \"subjectName\": \"化学工程\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"填充密度\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"理论密度\", \"collect\": null, \"definition\": null, \"en\": \"theoretical density\\\",\\\"solid density\", \"id\": \"5f81daef26b911eeb4bab068e6519520\", \"publishYear\": \"2014\", \"source\": \"海峡两岸材料科学技术名词\", \"subjectFullName\": \"材料科学技术\", \"subjectName\": \"材料科学技术\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"理論密度,實體密度,全密度\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"郁闭度\", \"collect\": null, \"definition\": null, \"en\": \"crown density\\\",\\\"canopy density\", \"id\": \"0463a34b26ba11eeb810b068e6519520\", \"publishYear\": \"2013\", \"source\": \"海峡两岸生态学名词\", \"subjectFullName\": \"生态学\", \"subjectName\": \"生态学\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"鬱閉度,葉層密度,林冠密度\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"密度流\", \"collect\": null, \"definition\": null, \"en\": \"density current\\\",\\\"density flow\", \"id\": \"db3bb5b526b911ee8dfcb068e6519520\", \"publishYear\": \"2012\", \"source\": \"海峡两岸海洋科学技术名词\", \"subjectFullName\": \"海洋科学技术\", \"subjectName\": \"海洋科学技术\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"密度流\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"密度分割\", \"collect\": null, \"definition\": null, \"en\": \"density slicing\\\",\\\"density splitting\", \"id\": \"b562ed1326b811eebb0cb068e6519520\", \"publishYear\": \"2010\", \"source\": \"海峡两岸地理信息系统名词\", \"subjectFullName\": \"地理信息系统\", \"subjectName\": \"地理信息系统\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"密度切割\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"面密度\", \"collect\": null, \"definition\": null, \"en\": \"area density\\\",\\\"areal density\", \"id\": \"cecadb9126b711eeaef9b068e6519520\", \"publishYear\": \"2008\", \"source\": \"海峡两岸信息科学技术名词\", \"subjectFullName\": \"信息科学技术\", \"subjectName\": \"信息科学技术\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"面密度，區域密度\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"非密度制约\", \"collect\": null, \"definition\": null, \"en\": \"density independence\", \"id\": \"80ea94db26b911ee86cdb068e6519520\", \"publishYear\": \"2020\", \"source\": \"海峡两岸植物学名词\", \"subjectFullName\": \"植物学\", \"subjectName\": \"植物学\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"密度制约\", \"collect\": null, \"definition\": null, \"en\": \"density dependence\", \"id\": \"8cfcc45826b911eeaf60b068e6519520\", \"publishYear\": \"2020\", \"source\": \"海峡两岸植物学名词\", \"subjectFullName\": \"植物学\", \"subjectName\": \"植物学\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"种群密度\", \"collect\": null, \"definition\": null, \"en\": \"population density\", \"id\": \"a1a0cb8726b911ee8fccb068e6519520\", \"publishYear\": \"2020\", \"source\": \"海峡两岸植物学名词\", \"subjectFullName\": \"植物学\", \"subjectName\": \"植物学\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"大气密度\", \"collect\": null, \"definition\": null, \"en\": \"atmospheric density\", \"id\": \"e0cbcb8726b811eea19ab068e6519520\", \"publishYear\": \"2020\", \"source\": \"海峡两岸大气科学名词\", \"subjectFullName\": \"大气科学\", \"subjectName\": \"大气科学\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": \"大氣密度\", \"wordNumber\": null}], \"currentPage\": 1, \"totalPage\": 39}, \"id\": \"00000000000000000000000000000001\"}, {\"result\": {\"yearsList\": [], \"yearStats\": {\"暂无年份\": 85, \"2020\": 2, \"2015\": 4, \"2008\": 5}, \"sourceStats\": {\"中央文献重要术语\": 4, \"中华思想文化术语传播工程\": 4, \"外语中文译写规范部际联席会议专家委员会\": 2, \"新冠肺炎疫情相关词汇中英对照\": 2, \"奥运体育项目名词\": 5, \"大数据百科术语辞典\": 55, \"维基百科\": 24}, \"typeStats\": {\"3\": 96}, \"totalRecords\": 96, \"tmWordList\": [{\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"盐跃层\", \"collect\": null, \"definition\": \"盐跃层（Halocline）是指有明显盐度梯度（英语：Density gradient）的海水层，它位于海洋表层水之下。一般位于50-200公尺之间。其盐度随深度而迅速增加。研究海水盐度及其梯度可提供水团起源和运动的重要线索.\", \"en\": \"Density gradient\", \"id\": \"0bdb3e8daf33473cb31cc8865bc43b55\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"自然密度\", \"collect\": null, \"definition\": \"自然密度（英语：natural density），又称渐进密度（英语：asymptotic density），是数论中度量自然数子集大小的工具之一。\", \"en\": \"natural density\", \"id\": \"17fa6e4a41b449a6aeab913026591b53\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"人口密度\", \"collect\": null, \"definition\": \"人口密度（英语：Population density）是指在一定时期一定单位面积土地上的平均人口数目，计算方式是其总人口数除以总面积，一般使用的单位是每平方公里人数或每平方米所居住的人口数。\\n人口密度是反映人口分布疏密程度的常用数量指标，通常用于计算人口分布状况。\\n适当的人口密度能够保证良好的居住、卫生及经济条件等。\", \"en\": \"Population density\", \"id\": \"38ed9676ec504106a849817a2fdfba5d\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": \"1\", \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"密度图\", \"collect\": null, \"definition\": null, \"en\": \"density plot\", \"id\": \"a90b27f2ca6a11f090b80242ac110003\", \"publishYear\": \"暂无年份\", \"source\": \"大数据百科术语辞典\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"密度波理论\", \"collect\": null, \"definition\": \"密度波理论（英语：Density wave theory），或称林-徐密度波理论（Lin–Shu density wave theory），是林家翘和徐遐生两位天文物理学家在1960年代中期为解释螺旋星系的旋臂结构所推出的理论，他们的理论引进了长期存在的理想准静态密度波（也称为heavy sound）)，他们选择让星系盘有较高一点的密度（大约高10-20%）。这个理论也成功的运用在土星环。\", \"en\": \"Density wave theory\", \"id\": \"022baca120994bc7bc92d318a000256b\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"低密度脂蛋白\", \"collect\": null, \"definition\": \"低密度脂蛋白（英语：low-density lipoprotein，缩写为LDL）指一类及范围的脂蛋白粒子，有著约18-25纳米直径的大小，负责在血液内运载脂肪酸分子至全身供细胞使用。它是由肝脏所产生的极低密度脂蛋白的最终阶段。它只包含有载体蛋白B-100（即一种有4536种氨基酸的蛋白质）。它亦包含维他命抗氧化剂（维生素E或类胡萝卜素）。低密度脂蛋白携带的胆固醇标准与心血管疾病的发生存在紧密的正相关，因此低密度脂蛋白胆固醇一度被普遍称为「坏胆固醇」或「致粥瘤脂蛋白」（atherogenic lipoprotein ）但值得留意的是，低密度脂蛋白并非胆固醇。\", \"en\": \"low-density lipoprotein\", \"id\": \"14c5d54972e7476cb334d64e8ad739d4\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"疏密\", \"collect\": null, \"definition\": null, \"en\": \"Sparsity and Density\", \"id\": \"6b193920ca6a11f0a7f50242ac110003\", \"publishYear\": \"暂无年份\", \"source\": \"中华思想文化术语传播工程\", \"subjectFullName\": \"文艺\", \"subjectName\": \"文艺\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": \"1\", \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"密度聚类\", \"collect\": null, \"definition\": null, \"en\": \"density-based clustering\", \"id\": \"a8dc0b20ca6a11f090b80242ac110003\", \"publishYear\": \"暂无年份\", \"source\": \"大数据百科术语辞典\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": \"1\", \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"数据价值密度\", \"collect\": null, \"definition\": null, \"en\": \"data value density\", \"id\": \"a915d850ca6a11f090b80242ac110003\", \"publishYear\": \"暂无年份\", \"source\": \"大数据百科术语辞典\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"辐射度量学\", \"collect\": null, \"definition\": \"辐射度量学是研究各种电磁辐射强弱的学科。其包含一系列可以测量电磁辐射的科技，包含可见光。光学中的辐射测量技术描绘了太空中辐射能的分布，与描绘光与人眼的交互作用的光度学相反。辐射度量学也与光子计数之类的量子测量技术不同。\\n辐射度量学中最基本的物理量就是辐射通量，是单位时间内通过某一面积的所有电磁辐射（包括红外、紫外和可见光）总功率的度量，既可以指一辐射源发出辐射的功率，也可以指到达某一特定表面的辐射能量的功率。单位是瓦特。用辐射计测量辐射通量来确定物体或气体的温度的技术被称为高温测量法。手持的红外线温度计通常会做为红外测温仪销售。\\n对于非单色辐射，人们往往关心能量的频谱分布，叫做辐射通量的谱密度。单位是瓦特/赫兹。\\n辐射度量学在天文学领域相当重要，特别是无线电天文学，并且在地球遥测方面扮演了重要的角色。在光学中被归类为辐射测量的测量技术在某些天文应用中被称为光度测量，这与该术语在光学领域的使用相反。\\n国际单位制的辐射量单位查论编物理量符号国际单位制单位符号注释辐射出射度（Radiant exitance）Me瓦特每平方米W·m−2表面出射的辐射通量辐射度（Radiosity）JeorJeλ瓦特每平方米W⋅m−2表面出射及反射的辐射通量总和辐射率（Radiance）Le瓦特每球面度每平方米W·sr−1·m−2每单位立体角每单位投射表面的辐射通量。辐射能（Radiant energy）Qe焦耳J能量。辐射能量密度（英语：Radiant energy density）（Radiant energy density）ωe焦耳每立方米J⋅m−3辐射强度（Radiant intensity）Ie瓦特每球面度W·sr−1每单位立体角的辐射通量。辐射曝光量（Radiant exposure）He焦耳每平方米J⋅m−2辐射通量（Radiant flux）Φe瓦特W每单位时间的辐射能量，亦作「辐射功率」。辐照度（Irradiance）Ee瓦特每平方米W·m−2入射表面的辐射通量。光谱辐射出射度（Spectral radiant emittance）Meλ或Meν瓦特每立方米或瓦特每平方米每赫兹W⋅m−3orW⋅m−2⋅Hz−1表面出射的辐射通量的波长或频率的分布光谱辐射率（Spectral radiance）Leλ或Leν瓦特每球面度每立方米或瓦特每球面度每平方米每赫兹W⋅sr−1⋅m−3或W⋅sr−1⋅m−2⋅Hz−1常用W⋅sr−1⋅m−2⋅nm−1光谱辐照度（Spectral irradiance）Eλ或Eν瓦特每立方米或瓦特每平方米每赫兹W·m−3或W·m−2·Hz−1通常测量单位为 W·m−2·nm−1光谱功率（Spectral power）Φeλ瓦特每米W⋅m−1辐射通量的波长分布光谱强度（英语：Radiant intensity）（Spectral intensity）Ieλ瓦特每球面度每米W⋅sr−1⋅m−1辐射强度的波长分布\\n瓦特每球面度每平方米每赫兹\", \"en\": \"Radiant energy density\", \"id\": \"ae6763a755834aad8f8e2a9bb46285b3\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"高密度脂蛋白\", \"collect\": null, \"definition\": \"高密度脂蛋白（英语：High-density lipoprotein，又称为HDL）是脂蛋白的一种，是由蛋白质和脂质组成的大分子复合物。高密度脂蛋白有不同的种类，它们的形状，大小，密度，蛋白质和脂质成分以及功能各不相同。形状大致分为新生的圆盘状的，和成熟的球状的。直径大约在8至13纳米。密度介于1.21到1.063克/毫升。它们通常用于把胆固醇从身体组织运输到肝脏。血液中大约百分之三十的胆固醇是透过HDL运输的。\\n据推测高密度脂蛋白可以从动脉硬化块和动脉中移除胆固醇并将其运送回肝脏使其被排除体外；这也是连接高密度脂蛋白的胆固醇有时称作“好胆固醇”或者高密度脂蛋白胆固醇的原因。要注意，高密度脂蛋白并非胆固醇。高水平的高密度脂蛋白-胆固醇可以抑制心血管疾病的发生，与此同时高密度脂蛋白胆固醇水平低于40 mg/dL时则会提高心脏病发生的风险。在测试胆固醇水平的时候，任何在高密度脂蛋白粒子内的胆固醇都被视为保护身体心血管系统健康的因子，和俗称「坏胆固醇」的低密度脂蛋白形成对比；因此，高密度脂蛋白也称作「抗粥瘤脂蛋白」（anti-atherogenic lipoprotein）。\", \"en\": \"High-density lipoprotein\", \"id\": \"c1bb9a3822e14b7cba5feddd058d5cff\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": \"1\", \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"工作人员\", \"collect\": null, \"definition\": null, \"en\": \"operator\", \"id\": \"f8ecae5f26bc11ee9ae3b068e6519520\", \"publishYear\": \"2008\", \"source\": \"奥运体育项目名词\", \"subjectFullName\": \"奥运体育项目名词_排球名词\", \"subjectName\": \"排球名词\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"μ算子\", \"collect\": null, \"definition\": \"μ算子（英语：μ operator）或者极小化算子（minimization operator），无界查找算子（unbounded search operator）在可计算性理论中，被用来寻找给定性质下的最小自然数。\", \"en\": \"μ operator\", \"id\": \"ca3ae8873e784b3d99401d226a9362a8\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"幺正算符\", \"collect\": null, \"definition\": \"\", \"en\": \"unitary operator\", \"id\": \"0813018200504661bbd1e508e71fa17a\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"正规算子\", \"collect\": null, \"definition\": \"\", \"en\": \"normal operator\", \"id\": \"3d009e8031114738829b8e91a69b2a6d\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"交换算符\", \"collect\": null, \"definition\": \"交换算符(英语：Exchange Operator)是一种量子力学算符，作用于多粒子量子系统。\", \"en\": \"Exchange Operator)\", \"id\": \"694956620b06457ebf78a9790a3a2273\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"豪斯霍尔德变换\", \"collect\": null, \"definition\": \"豪斯霍尔德变换（Householder transformation）或译「豪斯霍德转换」，又称初等反射（Elementary reflection），最初由A.C Aitken在1932年提出。阿尔斯通·斯科特·豪斯霍尔德在1958年指出了这一变换在数值线性代数上的意义。这一变换将一个向量变换为由一个超平面反射的镜像，是一种线性变换。其变换矩阵被称作豪斯霍尔德矩阵，在一般内积空间中的类比被称作豪斯霍尔德算子（英语：Householder operator）。超平面的法向量被称作豪斯霍尔德向量。\", \"en\": \"Householder operator\", \"id\": \"6d87294286ae4125a9c298b6af44934d\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"微分算子\", \"collect\": null, \"definition\": \"微分算子（英语：Differential operator）是定义为微分运算之函数的算子。首先在记号上，将微分考虑为一个抽象运算是有帮助的，它接受一个函数得到另一个函数[注 1][注 2]。\", \"en\": \"Differential operator\", \"id\": \"d81884d05a7d48da94d8a763ff5fbf37\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": \"1\", \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"记分牌操作员\", \"collect\": null, \"definition\": null, \"en\": \"scoreboards operator\", \"id\": \"03d9a1f126bd11ee97fbb068e6519520\", \"publishYear\": \"2008\", \"source\": \"奥运体育项目名词\", \"subjectFullName\": \"奥运体育项目名词_柔道名词\", \"subjectName\": \"柔道名词\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"运算\", \"collect\": null, \"definition\": \"运算（英语：nullary operation），是一个常数，这种运算在计算机科学中比较常见一些。混合积是一个三元运算的例子。\\n通常而言一个运算的输入值是有限的，但有时也应当考虑无穷元运算（英语：finitary operations），这时，“通常的”输入值有限的运算就被归类为有限元运算了。\", \"en\": \"nullary operation\", \"id\": \"900a244c5d9e4ddc8057c1ea3387533f\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}], \"currentPage\": 1, \"totalPage\": 5}, \"id\": \"00000000000000000000000000000002\"}, {\"result\": {\"yearsList\": [], \"yearStats\": {\"2025\": 117}, \"sourceStats\": {\"军事预防医学名词\": 46, \"社会学名词\": 13, \"消毒学\": 12, \"食品卫生学名词\": 11, \"放射卫生学\": 8, \"民族学与文化学名词\": 8, \"卫生经济学名词\": 5, \"马克思主义\": 5, \"医学伦理学名词\": 3, \"妇幼卫生学名词\": 3, \"儿少与学校卫生学名词\": 2, \"风湿免疫病学名词\": 1}, \"typeStats\": {\"6\": 117}, \"totalRecords\": 117, \"tmWordList\": [{\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"等离子体密度\", \"collect\": null, \"definition\": \"等离子腔体内施加的交变电场引发粒子正负电荷分离，使带电粒子发生集体震荡的粒子密度称为等离子体密度，相应的交变电场即是等离子体频率。\", \"en\": \"plasma density\", \"id\": \"1945299715377729568\", \"publishYear\": \"2025\", \"source\": \"消毒学\", \"subjectFullName\": \"消毒学_消毒技术_物理消毒\", \"subjectName\": \"物理消毒\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"2.2.9.3\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"人口密度\", \"collect\": null, \"definition\": \"单位面积土地上的人口数。例如，每平方英里土地上的人口数，又比如每平方公里耕地上的人口数。\", \"en\": \"population density\", \"id\": \"1945299715570667707\", \"publishYear\": \"2025\", \"source\": \"社会学名词\", \"subjectFullName\": \"社会学名词_跨学科社会学_人口社会学_人口分布\", \"subjectName\": \"人口分布\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"4.5.9.2\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"相对密度\", \"collect\": null, \"definition\": \"一定温度下，一定体积的香料或香精的质量与相同温度下同样体积的蒸馏水的质量之比。是香料或香精的主要理化指标之一。\", \"en\": \"relative density\", \"id\": \"22cbb14fc9cf4621b44eb7e0fcf9c1d4\", \"publishYear\": \"2025\", \"source\": \"食品卫生学名词\", \"subjectFullName\": \"食品卫生学_食品添加剂_食品用香精香料\", \"subjectName\": \"食品用香精香料\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"6.3.4.5\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"染毒密度\", \"collect\": null, \"definition\": \"单位面积地面、物体或人体表面污染毒剂的平均质量，表示这些部位染毒严重程度，常用单位有微克/平方厘米（μg/cm²）、毫克/平方厘米（mg/cm²）、毫克/平方米（mg/m²）、克/平方米（g/m²）。\", \"en\": \"exposure density\", \"id\": \"6075c459cd8b4ea3aacbe8ed069a3d8a\", \"publishYear\": \"2025\", \"source\": \"军事预防医学名词\", \"subjectFullName\": \"军事预防医学_化学武器医学防护学_化学战剂\", \"subjectName\": \"化学战剂\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"10.5.13.2\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"光密度\", \"collect\": null, \"definition\": \"入射光与透射光比值的对数。\", \"en\": \"optical density\", \"id\": \"a2f331cc54a34adb8326f9cbbd2926ca\", \"publishYear\": \"2025\", \"source\": \"食品卫生学名词\", \"subjectFullName\": \"食品卫生学_食品_饮料\", \"subjectName\": \"饮料\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"5.13.7.3\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"光密度值\", \"collect\": null, \"definition\": \"物质在溶液中吸收特定波长光线强弱的数值。与光吸收物质在溶液中的浓度成正比，是透光率对数的倒数。\", \"en\": \"optical density value\", \"id\": \"1945299715394506763\", \"publishYear\": \"2025\", \"source\": \"消毒学\", \"subjectFullName\": \"消毒学_检测与评价_消毒学试验\", \"subjectName\": \"消毒学试验\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"6.2.5.4.2\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"骨密度\", \"collect\": null, \"definition\": \"全称 “骨骼矿物质密度”。评价骨骼强度的 主要指标之一，即单位面积矿物质含量。 人体在 20~29 岁时达到最高值，以后随衰 老进程而下降。诊断骨质疏松的最基本依 据，通常选择腰椎和Ward三角作为骨密度的检测部位。\", \"en\": \"bone mineral density\", \"id\": \"1945299715784577081\", \"publishYear\": \"2025\", \"source\": \"风湿免疫病学名词\", \"subjectFullName\": \"风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法\", \"subjectName\": \"检测方法\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"1.5.1.37\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"最大种群密度\", \"collect\": null, \"definition\": \"种群在一个有限的环境中所能稳定达到的最大数量或最大密度。\", \"en\": \"maximum population density\", \"id\": \"56946c0de777412b9a9dabb4991ea1b6\", \"publishYear\": \"2025\", \"source\": \"食品卫生学名词\", \"subjectFullName\": \"食品卫生学_总论_食品安全风险评估\", \"subjectName\": \"食品安全风险评估\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"1.4.4.112\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"密度差异干扰\", \"collect\": null, \"definition\": \"待测样品与刻度源间的密度差异（如超过10%）对于待测物理量的干扰。\", \"en\": \"disturbance from density difference\", \"id\": \"1945299715415478297\", \"publishYear\": \"2025\", \"source\": \"放射卫生学\", \"subjectFullName\": \"放射卫生学_辐射测量技术与设备_辐射测量原理\", \"subjectName\": \"辐射测量原理\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"5.1.3.13\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"卫生资源密度指数\", \"collect\": null, \"definition\": \"衡量卫生资源地理分布和人口分布综合水平的指数。\", \"en\": \"health resources density index，HDRI\", \"id\": \"1990247655619563598\", \"publishYear\": \"2025\", \"source\": \"卫生经济学名词\", \"subjectFullName\": \"卫生经济学名词_卫生经济学_健康公平\", \"subjectName\": \"健康公平\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"1.4.5.12\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"无菌操作\", \"collect\": null, \"definition\": \"杜绝微生物污染特定环境或物品的操作过程。\", \"en\": \"sterile operation\", \"id\": \"1945299715360952394\", \"publishYear\": \"2025\", \"source\": \"消毒学\", \"subjectFullName\": \"消毒学_消毒学_灭菌\", \"subjectName\": \"灭菌\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"1.2.19.4\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"手术率\", \"collect\": null, \"definition\": \"救治机构对每百名伤员经手术治疗的人数，反映各救治机构的手术工作量以及伤员得到手术救治的普遍程度，为组织调配手术力量提供依据。\", \"en\": \"operation rate\", \"id\": \"5ecdce311c324d44a96d32bfb607a036\", \"publishYear\": \"2025\", \"source\": \"军事预防医学名词\", \"subjectFullName\": \"军事预防医学_军队卫生统计学_战时卫生统计\", \"subjectName\": \"战时卫生统计\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"15.3.3.4\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"变性手术\", \"collect\": null, \"definition\": \"通过整形外科技术（组织移植和器官再造），使易性癖患者的生物学性别与其心理性别相符的手术。\", \"en\": \"transsexual operation\", \"id\": \"7dc7f5ba1b1447bd85a2c603f0da2d59\", \"publishYear\": \"2025\", \"source\": \"医学伦理学名词\", \"subjectFullName\": \"医学伦理学_临床诊疗伦理\", \"subjectName\": \"临床诊疗伦理\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"5.051\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"操作限值\", \"collect\": null, \"definition\": \"用来减少偏离关键限值风险的指标或参数。\", \"en\": \"operation limit\", \"id\": \"89d10d31ff5444c3b9a06c171dbad27e\", \"publishYear\": \"2025\", \"source\": \"食品卫生学名词\", \"subjectFullName\": \"食品卫生学_食品安全风险管理_危害分析与关键控制点\", \"subjectName\": \"危害分析与关键控制点\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"4.5.8\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"工作区\", \"collect\": null, \"definition\": \"指安全柜内从左侧到右侧、从后侧到前窗内侧，高于前窗玻璃下沿约5cm到工作台面进行操作的区域。\", \"en\": \"operating area\", \"id\": \"1945299715365146734\", \"publishYear\": \"2025\", \"source\": \"消毒学\", \"subjectFullName\": \"消毒学_消毒学_其他\", \"subjectName\": \"其他\", \"alsoName\": \"操作区\", \"commName\": null, \"tw\": null, \"wordNumber\": \"1.8.24.4\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"战时洗消\", \"collect\": null, \"definition\": \"对作战行动必需的器材、物资、人员及区域进行的洗消，以最大限度地减少核生化有害物的接触和扩散，保证作战行动的顺利进行。\", \"en\": \"operational decontamination\", \"id\": \"df09c5262552409f94ed7a3b38232d6f\", \"publishYear\": \"2025\", \"source\": \"军事预防医学名词\", \"subjectFullName\": \"军事预防医学_化学武器医学防护学_化学战剂消除\", \"subjectName\": \"化学战剂消除\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"10.8.7\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"核设施操纵员\", \"collect\": null, \"definition\": \"在核设施主控室中担任操作或者指导他人操作核设施控制系统工作的运行值班人员。\", \"en\": \"unclear installation operator\", \"id\": \"1945299715453227037\", \"publishYear\": \"2025\", \"source\": \"放射卫生学\", \"subjectFullName\": \"放射卫生学_放射防护_核工业的放射防护\", \"subjectName\": \"核工业的放射防护\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"6.6.8.2\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"食品从业人员\", \"collect\": null, \"definition\": \"在食品生产经营任何阶段负责从事操作的实体。可以是食品生产经营企业的负责人、食品安全管理人员、关键环节操作人员和其他相关从业人员。\", \"en\": \"food business operator\", \"id\": \"1f84c4bb393148b5829149d13a83ee1e\", \"publishYear\": \"2025\", \"source\": \"食品卫生学名词\", \"subjectFullName\": \"食品卫生学_总论_食品安全\", \"subjectName\": \"食品安全\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"1.1.26\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"普通手术部\", \"collect\": null, \"definition\": \"由非洁净手术室、非洁净辅助用房等一部分或全部组成的独立的功能区域。\", \"en\": \"general operation department\", \"id\": \"1945299715386118223\", \"publishYear\": \"2025\", \"source\": \"消毒学\", \"subjectFullName\": \"消毒学_消毒应用_医院消毒\", \"subjectName\": \"医院消毒\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"4.6.15\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"在役去污\", \"collect\": null, \"definition\": \"对处于在役状态的受污染系统、部件和设备等去污过程。\", \"en\": \"decontamination in operation\", \"id\": \"1945299715449032808\", \"publishYear\": \"2025\", \"source\": \"放射卫生学\", \"subjectFullName\": \"放射卫生学_放射防护_核工业的放射防护_核设施去污和退役\", \"subjectName\": \"核设施去污和退役\", \"alsoName\": nul"
+}

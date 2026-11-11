@@ -1,0 +1,166 @@
+{
+ "key": "eigenvalue",
+ "term": "eigenvalue",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T19:25:10+00:00",
+ "status": "ok",
+ "note": "00000000000000000000000000000000=14; 00000000000000000000000000000001=8; 00000000000000000000000000000002=0; 00000000000000000000000000000006=0",
+ "hits": [
+  {
+   "cn": "本征值",
+   "en": "eigenvalue",
+   "code": "01.1324",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_震源"
+  },
+  {
+   "cn": "本征值",
+   "en": "eigenvalue",
+   "code": "06.0553",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "特征值",
+   "en": "eigenvalue",
+   "code": "03.0340",
+   "standard": "化学名词",
+   "subject": "化学_分析化学_化学计量学"
+  },
+  {
+   "cn": "特征值",
+   "en": "eigenvalue",
+   "code": "03.139",
+   "standard": "心理学名词",
+   "subject": "心理学_心理统计与测量"
+  },
+  {
+   "cn": "特征值",
+   "en": "eigenvalue",
+   "code": "01.623",
+   "standard": "地理信息系统名词",
+   "subject": "地理信息系统_基本概念"
+  },
+  {
+   "cn": "特征值",
+   "en": "eigenvalue",
+   "code": "02.176",
+   "standard": "土木工程名词",
+   "subject": "土木工程_工程力学_结构力学"
+  },
+  {
+   "cn": "本征值",
+   "en": "eigenvalue",
+   "code": "07.0234",
+   "standard": "数学名词",
+   "subject": "数学_泛函分析_谱理论"
+  },
+  {
+   "cn": "本征值问题",
+   "en": "eigenvalue problem",
+   "code": "07.0233",
+   "standard": "数学名词",
+   "subject": "数学_泛函分析_谱理论"
+  },
+  {
+   "cn": "离散本征值",
+   "en": "discrete eigenvalue",
+   "code": "06.0554",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "连续本征值",
+   "en": "continuous eigenvalue",
+   "code": "06.0555",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "广义本征值",
+   "en": "generalized eigenvalue",
+   "code": "07.0235",
+   "standard": "数学名词",
+   "subject": "数学_泛函分析_谱理论"
+  },
+  {
+   "cn": "本征值的指标",
+   "en": "index of eigenvalues",
+   "code": "06.0570",
+   "standard": "数学名词",
+   "subject": "数学_微分方程_积分方程_积分方程"
+  },
+  {
+   "cn": "优势特征值法",
+   "en": "dominant eigenvalue method，DEM",
+   "code": "03.074",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程模拟"
+  },
+  {
+   "cn": "非线性本征值问题",
+   "en": "non-linear eigenvalue problem",
+   "code": "07.0354",
+   "standard": "数学名词",
+   "subject": "数学_泛函分析_非线性泛函分析"
+  },
+  {
+   "cn": "特征值，本征值",
+   "en": "eigenvalue",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "特征值,本征值",
+   "en": "eigenvalue",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "本征值",
+   "en": "eigenvalue",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "特征值",
+   "en": "eigenvalue",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "本征值",
+   "en": "eigenvalue",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "主要本征值",
+   "en": "dominant eigenvalue",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "特征值",
+   "en": "characteristic value\",\"eigenvalue",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "特征值和特征向量",
+   "en": "eigenvalue and eigenvector",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"searchResult\": [{\"result\": {\"yearsList\": [], \"yearStats\": {\"2024\": 1, \"2022\": 1, \"2019\": 3, \"2016\": 1, \"2014\": 1, \"2012\": 1, \"2003\": 1, \"1993\": 5}, \"sourceStats\": {\"数学名词\": 5, \"物理学名词\": 3, \"化学名词\": 1, \"化工名词（十）化工系统工程和化工信息化名词\": 1, \"土木工程名词\": 1, \"地球物理学名词\": 1, \"地理信息系统名词\": 1, \"心理学名词\": 1}, \"typeStats\": {\"1\": 14}, \"totalRecords\": 14, \"tmWordList\": [{\"subjectTerms\": [{\"value\": \"地震\", \"color\": 1}, {\"value\": \"应力\", \"color\": 1}, {\"value\": \"应力张量\", \"color\": 1}, {\"value\": \"地震矩张量\", \"color\": 1}, {\"value\": \"本征值\", \"color\": 1}, {\"value\": \"地震矩\", \"color\": 1}], \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": \"[1]地球物理学名词审定委员会.地球物理学名词[M].2版.北京：科学出版社\", \"quote2\": \"[2]地球物理学名词审定委员会.地球物理学名词\", \"aliasName\": null, \"cn\": \"本征值\", \"collect\": null, \"definition\": \"地震矩张量是一个对称的二阶张量，有 6个独立分量，具有应力张量的全部性质，可以通过主轴变换将它对角化。与应力张量一样，可以用其本征值表征。 \", \"en\": \"eigenvalue\", \"id\": \"6e60760f26b411eebe20b068e6519520\", \"publishYear\": \"2022\", \"source\": \"地球物理学名词\", \"subjectFullName\": \"地球物理学_地震科学_震源\", \"subjectName\": \"震源\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"01.1324\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": \"[1]物理学名词审定委员会.物理学名词[M].3版.北京：科学出版社\", \"quote2\": \"[2]物理学名词审定委员会.物理学名词\", \"aliasName\": null, \"cn\": \"本征值\", \"collect\": null, \"definition\": null, \"en\": \"eigenvalue\", \"id\": \"c80cf53926ac11eeb698b068e6519520\", \"publishYear\": \"2019\", \"source\": \"物理学名词\", \"subjectFullName\": \"物理学_相对论、量子理论_量子理论\", \"subjectName\": \"量子理论\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"06.0553\"}, {\"subjectTerms\": [{\"value\": \"特征值\", \"color\": 1}, {\"value\": \"矩阵\", \"color\": 1}], \"fullName\": \"[]\", \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": \"[1]化学名词审定委员会.化学名词[M].2版.北京：科学出版社\", \"quote2\": \"[2]化学名词审定委员会.化学名词\", \"aliasName\": null, \"cn\": \"特征值\", \"collect\": null, \"definition\": \"对于方阵A，若有非零列矩阵X及数λ，使得AX＝λX，则称λ是矩阵A的特征值。X为矩阵A的特征值所对应的特征向量。\", \"en\": \"eigenvalue\", \"id\": \"a1ca5f5b26a711eebe5ab068e6519520\", \"publishYear\": \"2016\", \"source\": \"化学名词\", \"subjectFullName\": \"化学_分析化学_化学计量学\", \"subjectName\": \"化学计量学\", \"alsoName\": \"本征值（eigenvector）\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"03.0340\"}, {\"subjectTerms\": [{\"value\": \"解释\", \"color\": 1}], \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": \"[1]第二届心理学名词审定委员会.心理学名词[M].2版.北京：科学出版社\", \"quote2\": \"[2]第二届心理学名词审定委员会.心理学名词\", \"aliasName\": null, \"cn\": \"特征值\", \"collect\": null, \"definition\": \"在多元统计中被用于表示某一因素可解释的总变异量。\", \"en\": \"eigenvalue\", \"id\": \"2c7f1dff26a911ee8efcb068e6519520\", \"publishYear\": \"2014\", \"source\": \"心理学名词\", \"subjectFullName\": \"心理学_心理统计与测量\", \"subjectName\": \"心理统计与测量\", \"alsoName\": \"本征值\", \"commName\": null, \"tw\": null, \"wordNumber\": \"03.139\"}, {\"subjectTerms\": [{\"value\": \"矢量\", \"color\": 1}, {\"value\": \"特征\", \"color\": 1}, {\"value\": \"特征值\", \"color\": 1}], \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": \"[1]地理信息系统名词审定委员会.地理信息系统名词[M].2版.北京：科学出版社\", \"quote2\": \"[2]地理信息系统名词审定委员会.地理信息系统名词\", \"aliasName\": null, \"cn\": \"特征值\", \"collect\": null, \"definition\": \"设A是n阶方阵，如果数λ和n维非零矢量X使关系式AX=λX成立，那么这样的数λ称为方阵A的特征值。\", \"en\": \"eigenvalue\", \"id\": \"afce882a26a811ee8fc5b068e6519520\", \"publishYear\": \"2012\", \"source\": \"地理信息系统名词\", \"subjectFullName\": \"地理信息系统_基本概念\", \"subjectName\": \"基本概念\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"01.623\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]土木工程名词审定委员会.土木工程名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]土木工程名词审定委员会.土木工程名词\", \"aliasName\": null, \"cn\": \"特征值\", \"collect\": null, \"definition\": null, \"en\": \"eigenvalue\", \"id\": \"88de65a426a811eeb8c0b068e6519520\", \"publishYear\": \"2003\", \"source\": \"土木工程名词\", \"subjectFullName\": \"土木工程_工程力学_结构力学\", \"subjectName\": \"结构力学\", \"alsoName\": \"本征值\", \"commName\": null, \"tw\": null, \"wordNumber\": \"02.176\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]数学名词审定委员会.数学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]数学名词审定委员会.数学名词\", \"aliasName\": null, \"cn\": \"本征值\", \"collect\": null, \"definition\": null, \"en\": \"eigenvalue\", \"id\": \"9824f1f826a911eeb817b068e6519520\", \"publishYear\": \"1993\", \"source\": \"数学名词\", \"subjectFullName\": \"数学_泛函分析_谱理论\", \"subjectName\": \"谱理论\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"07.0234\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]数学名词审定委员会.数学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]数学名词审定委员会.数学名词\", \"aliasName\": null, \"cn\": \"本征值问题\", \"collect\": null, \"definition\": null, \"en\": \"eigenvalue problem\", \"id\": \"9823947226a911eea585b068e6519520\", \"publishYear\": \"1993\", \"source\": \"数学名词\", \"subjectFullName\": \"数学_泛函分析_谱理论\", \"subjectName\": \"谱理论\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"07.0233\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": \"分立本征值\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": \"[1]物理学名词审定委员会.物理学名词[M].3版.北京：科学出版社\", \"quote2\": \"[2]物理学名词审定委员会.物理学名词\", \"aliasName\": null, \"cn\": \"离散本征值\", \"collect\": null, \"definition\": null, \"en\": \"discrete eigenvalue\", \"id\": \"a2ced2d926ac11eebcdab068e6519520\", \"publishYear\": \"2019\", \"source\": \"物理学名词\", \"subjectFullName\": \"物理学_相对论、量子理论_量子理论\", \"subjectName\": \"量子理论\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"06.0554\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": \"[1]物理学名词审定委员会.物理学名词[M].3版.北京：科学出版社\", \"quote2\": \"[2]物理学名词审定委员会.物理学名词\", \"aliasName\": null, \"cn\": \"连续本征值\", \"collect\": null, \"definition\": null, \"en\": \"continuous eigenvalue\", \"id\": \"b41533a926ac11ee9271b068e6519520\", \"publishYear\": \"2019\", \"source\": \"物理学名词\", \"subjectFullName\": \"物理学_相对论、量子理论_量子理论\", \"subjectName\": \"量子理论\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"06.0555\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]数学名词审定委员会.数学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]数学名词审定委员会.数学名词\", \"aliasName\": null, \"cn\": \"广义本征值\", \"collect\": null, \"definition\": null, \"en\": \"generalized eigenvalue\", \"id\": \"9fac92c726a911ee95fab068e6519520\", \"publishYear\": \"1993\", \"source\": \"数学名词\", \"subjectFullName\": \"数学_泛函分析_谱理论\", \"subjectName\": \"谱理论\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"07.0235\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]数学名词审定委员会.数学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]数学名词审定委员会.数学名词\", \"aliasName\": null, \"cn\": \"本征值的指标\", \"collect\": null, \"definition\": null, \"en\": \"index of eigenvalues\", \"id\": \"9bb8dfed26a911eeaff7b068e6519520\", \"publishYear\": \"1993\", \"source\": \"数学名词\", \"subjectFullName\": \"数学_微分方程_积分方程_积分方程\", \"subjectName\": \"积分方程\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"06.0570\"}, {\"subjectTerms\": [{\"value\": \"迭代法\", \"color\": 1}, {\"value\": \"收敛\", \"color\": 1}, {\"value\": \"直接迭代法\", \"color\": 1}, {\"value\": \"优势特征值法\", \"color\": 1}, {\"value\": \"算法\", \"color\": 1}], \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]化工名词审定委员会.化学工程名词（十）化工系统工程与化工信息化[M].1版.北京：科学出版社\", \"quote2\": \"[2]化工名词审定委员会.化学工程名词（十）化工系统工程与化工信息化\", \"aliasName\": null, \"cn\": \"优势特征值法\", \"collect\": null, \"definition\": \"一种辅助算法，与直接迭代法配合使用。先用直接迭代法进行若干轮迭代，再引入优势特征值法迭代一次，可显著提高收敛特性。迭代公式为：Xk+1=Xk+F(Xk)/[1/(1λk)]，λk= ||F(Xk)||/||F(Xk1)||。\", \"en\": \"dominant eigenvalue method，DEM\", \"id\": \"56d764a0bdd711ef80660242ac110003\", \"publishYear\": \"2024\", \"source\": \"化工名词（十）化工系统工程和化工信息化名词\", \"subjectFullName\": \"化工（十）_化工系统工程和化工信息化_过程模拟\", \"subjectName\": \"过程模拟\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"03.074\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]数学名词审定委员会.数学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]数学名词审定委员会.数学名词\", \"aliasName\": null, \"cn\": \"非线性本征值问题\", \"collect\": null, \"definition\": null, \"en\": \"non-linear eigenvalue problem\", \"id\": \"a11a91a826a911eea6adb068e6519520\", \"publishYear\": \"1993\", \"source\": \"数学名词\", \"subjectFullName\": \"数学_泛函分析_非线性泛函分析\", \"subjectName\": \"非线性泛函分析\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"07.0354\"}], \"currentPage\": 1, \"totalPage\": 1}, \"id\": \"00000000000000000000000000000000\"}, {\"result\": {\"yearsList\": [], \"yearStats\": {\"2020\": 1, \"2017\": 2, \"2016\": 1, \"2013\": 2, \"2010\": 1, \"2008\": 1}, \"sourceStats\": {\"海峡两岸化学工程名词\": 2, \"海峡两岸信息科学技术名词\": 1, \"海峡两岸化学名词\": 1, \"海峡两岸地理信息系统名词\": 1, \"海峡两岸大气科学名词\": 1, \"海峡两岸天文学名词\": 1, \"海峡两岸心理学名词\": 1}, \"typeStats\": {\"2\": 8}, \"totalRecords\": 8, \"tmWordList\": [{\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"特征值，本征值\", \"collect\": null, \"definition\": null, \"en\": \"eigenvalue\", \"id\": \"f57d5d9b26b811ee9bdeb068e6519520\", \"publishYear\": \"2020\", \"source\": \"海峡两岸大气科学名词\", \"subjectFullName\": \"大气科学\", \"subjectName\": \"大气科学\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": \"特徴值\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"特征值,本征值\", \"collect\": null, \"definition\": null, \"en\": \"eigenvalue\", \"id\": \"31cb179d26b911eebbe1b068e6519520\", \"publishYear\": \"2016\", \"source\": \"海峡两岸心理学名词\", \"subjectFullName\": \"心理学\", \"subjectName\": \"心理学\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"特徵值\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"本征值\", \"collect\": null, \"definition\": null, \"en\": \"eigenvalue\", \"id\": \"008efa8f26b911eea712b068e6519520\", \"publishYear\": \"2013\", \"source\": \"海峡两岸天文学名词\", \"subjectFullName\": \"天文学\", \"subjectName\": \"天文学\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"本徵值\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"特征值\", \"collect\": null, \"definition\": null, \"en\": \"eigenvalue\", \"id\": \"b952f91026b811eea46cb068e6519520\", \"publishYear\": \"2010\", \"source\": \"海峡两岸地理信息系统名词\", \"subjectFullName\": \"地理信息系统\", \"subjectName\": \"地理信息系统\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"特徵值\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"本征值\", \"collect\": null, \"definition\": null, \"en\": \"eigenvalue\", \"id\": \"9ca839f726b711eeaad4b068e6519520\", \"publishYear\": \"2008\", \"source\": \"海峡两岸信息科学技术名词\", \"subjectFullName\": \"信息科学技术\", \"subjectName\": \"信息科学技术\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"特徵值\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"主要本征值\", \"collect\": null, \"definition\": null, \"en\": \"dominant eigenvalue\", \"id\": \"55a966ab26b811ee8682b068e6519520\", \"publishYear\": \"2017\", \"source\": \"海峡两岸化学工程名词\", \"subjectFullName\": \"化学工程\", \"subjectName\": \"化学工程\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"主宰固有值，優勢固有值\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"特征值\", \"collect\": null, \"definition\": null, \"en\": \"characteristic value\\\",\\\"eigenvalue\", \"id\": \"7a1fb57726b811eeaed5b068e6519520\", \"publishYear\": \"2017\", \"source\": \"海峡两岸化学工程名词\", \"subjectFullName\": \"化学工程\", \"subjectName\": \"化学工程\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"特徵值，固有值\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"特征值和特征向量\", \"collect\": null, \"definition\": null, \"en\": \"eigenvalue and eigenvector\", \"id\": \"a311c66426b811ee86d9b068e6519520\", \"publishYear\": \"2013\", \"source\": \"海峡两岸化学名词\", \"subjectFullName\": \"化学\", \"subjectName\": \"化学\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"特徵值和特徵向量\", \"wordNumber\": null}], \"currentPage\": 1, \"totalPage\": 1}, \"id\": \"00000000000000000000000000000001\"}, {\"result\": {\"yearsList\": [], \"yearStats\": {}, \"sourceStats\": {}, \"typeStats\": null, \"totalRecords\": 0, \"tmWordList\": [], \"currentPage\": 1, \"totalPage\": 0}, \"id\": \"00000000000000000000000000000002\"}, {\"result\": {\"yearsList\": [], \"yearStats\": {}, \"sourceStats\": {}, \"typeStats\": null, \"totalRecords\": 0, \"tmWordList\": [], \"currentPage\": 1, \"totalPage\": 0}, \"id\": \"00000000000000000000000000000006\"}], \"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}}, \"timestamp\": 1794338710980}"
+}

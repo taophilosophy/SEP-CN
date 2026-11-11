@@ -1,0 +1,572 @@
+{
+ "key": "inner product",
+ "term": "inner product",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-10T20:03:26+00:00",
+ "status": "ok",
+ "note": "00000000000000000000000000000000=2820; 00000000000000000000000000000001=606; 00000000000000000000000000000002=176; 00000000000000000000000000000006=297",
+ "hits": [
+  {
+   "cn": "内积",
+   "en": "inner product",
+   "code": "05.488",
+   "standard": "大气科学名词",
+   "subject": "大气科学_动力气象学"
+  },
+  {
+   "cn": "内积",
+   "en": "inner product",
+   "code": "04.0716",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_线性代数"
+  },
+  {
+   "cn": "彼得松内积",
+   "en": "Peterson inner product",
+   "code": "04.0334",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_算术"
+  },
+  {
+   "cn": "半内积",
+   "en": "semi-inner product",
+   "code": "07.0140",
+   "standard": "数学名词",
+   "subject": "数学_泛函分析_泛函分析基础"
+  },
+  {
+   "cn": "张量的内积",
+   "en": "inner product of tensors",
+   "code": "04.0849",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_型"
+  },
+  {
+   "cn": "不定度规空间",
+   "en": "indefinite inner product space",
+   "code": "07.0141",
+   "standard": "数学名词",
+   "subject": "数学_泛函分析_泛函分析基础"
+  },
+  {
+   "cn": "准不定度规空间",
+   "en": "pre-indefinite inner product space",
+   "code": "07.0142",
+   "standard": "数学名词",
+   "subject": "数学_泛函分析_泛函分析基础"
+  },
+  {
+   "cn": "内扇",
+   "en": "inner fan",
+   "code": "05.05.134",
+   "standard": "地质学名词",
+   "subject": "地质学_沉积学与沉积岩岩石学_沉积环境与沉积相"
+  },
+  {
+   "cn": "内地核",
+   "en": "inner core",
+   "code": "01.00.010",
+   "standard": "地质学名词",
+   "subject": "地质学_总论"
+  },
+  {
+   "cn": "内膛枝",
+   "en": "inner branch",
+   "code": "08.0275",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林工程_风景园林养护"
+  },
+  {
+   "cn": "内相",
+   "en": "inner phase",
+   "code": "06.0058",
+   "standard": "精细化工名词",
+   "subject": "精细化工_表面活性剂"
+  },
+  {
+   "cn": "内耳",
+   "en": "inner ear",
+   "code": "1.1.4",
+   "standard": "耳鼻咽喉头颈外科学名词",
+   "subject": "耳科_耳解剖"
+  },
+  {
+   "cn": "内冕",
+   "en": "inner corona",
+   "code": "09.079",
+   "standard": "天文学名词",
+   "subject": "天文学_太阳"
+  },
+  {
+   "cn": "带内行星",
+   "en": "inner planet",
+   "code": "10.016",
+   "standard": "天文学名词",
+   "subject": "天文学_太阳系"
+  },
+  {
+   "cn": "内彗发",
+   "en": "inner coma",
+   "code": "10.165",
+   "standard": "天文学名词",
+   "subject": "天文学_太阳系"
+  },
+  {
+   "cn": "内水体积",
+   "en": "inner volume",
+   "code": "11.0176",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_方法与技术_分离纯化技术_层析技术"
+  },
+  {
+   "cn": "内在随机性",
+   "en": "inner randomness",
+   "code": "03.749",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学"
+  },
+  {
+   "cn": "内在语",
+   "en": "inner language",
+   "code": "5.119",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_广播电视实务_广播电视播音主持"
+  },
+  {
+   "cn": "内胎",
+   "en": "inner tube",
+   "code": "3.0947",
+   "standard": "化工名词（七）高分子化工",
+   "subject": "化工（七）_合成橡胶_合成橡胶的加工及改性"
+  },
+  {
+   "cn": "内圈",
+   "en": "inner ring",
+   "code": "07.0679",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械零件_滚动轴承_滚动轴承零件"
+  },
+  {
+   "cn": "内积",
+   "en": "inner product",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "内积",
+   "en": "inner product",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "内侧轴系",
+   "en": "inner shafting\",\"inner shaft",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "内臂",
+   "en": "inner arm",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "内层",
+   "en": "inner layer",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "内唇",
+   "en": "inner lip",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "内带",
+   "en": "inner zone",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "内节",
+   "en": "inner segment",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "内隧道",
+   "en": "inner tunnel",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "内柱",
+   "en": "inner rod",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "内花被",
+   "en": "inner perianth",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "内菌幕",
+   "en": "inner veil",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "内[树]皮",
+   "en": "inner bark",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "内颖",
+   "en": "inner glume",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "内珠被",
+   "en": "inner integument",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "内珠心",
+   "en": "inner nucellus",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "纹孔内口",
+   "en": "inner aperture",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "内胎",
+   "en": "inner tube",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "内阀",
+   "en": "inner valve",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "内在导向",
+   "en": "inner directedness",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "内庭",
+   "en": "Inner House",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "内美",
+   "en": "Inner Beauty",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "蓝色内环区",
+   "en": "inner blue",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "黑色内环区",
+   "en": "inner black",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "红色内环区",
+   "en": "inner red",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "白色内环区",
+   "en": "inner white",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "积",
+   "en": "Product",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "跑道内缘",
+   "en": "curb\",\"inner edge",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "内胎",
+   "en": "inner tube\",\"tube",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "线粒体内膜",
+   "en": "inner mitochondrial membrane",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "性灵",
+   "en": "Xingling (Inner Self)",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "溶度积",
+   "en": "solubility product",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "产品生命周期",
+   "en": "Product lifecycle",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据商品",
+   "en": "data product",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "网络产品",
+   "en": "network product",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "半直积",
+   "en": "semidirect product",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生产管理",
+   "en": "production control",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生态生产力",
+   "en": "ecological productivity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "耗散",
+   "en": "entropy production",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "信息生产力",
+   "en": "information productivity",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "生产",
+   "en": "production",
+   "code": "02.0002",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "生产率",
+   "en": "productivity",
+   "code": "1.3.6",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生经济学_卫生服务与体系效率"
+  },
+  {
+   "cn": "能产性",
+   "en": "productivity",
+   "code": "5.0041",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "婚内强奸",
+   "en": "inner-marriage rape",
+   "code": "3.2.4.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别与家庭"
+  },
+  {
+   "cn": "内耳气压伤",
+   "en": "inner ear barotrauma",
+   "code": "12.2.3.3.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_航海和潜水医学_潜水医学"
+  },
+  {
+   "cn": "成品粮",
+   "en": "product grain",
+   "code": "5.1.2",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_粮食"
+  },
+  {
+   "cn": "消毒产品",
+   "en": "disinfection product",
+   "code": "3.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品"
+  },
+  {
+   "cn": "抗菌产品",
+   "en": "antibacterial product",
+   "code": "3.1.13",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "产品监管",
+   "en": "product regulation",
+   "code": "5.2",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理"
+  },
+  {
+   "cn": "产品确认",
+   "en": "product validation",
+   "code": "5.2.14.2",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_产品监管"
+  },
+  {
+   "cn": "文化产品",
+   "en": "cultural product",
+   "code": "3.8.3.23",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_文化社会学_文化的制度结构"
+  },
+  {
+   "cn": "精神产品",
+   "en": "spiritual product",
+   "code": "01.0187",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "剩余产品",
+   "en": "surplus product",
+   "code": "02.0119",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "最终产品",
+   "en": "end product",
+   "code": "02.0206",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "藻类制品",
+   "en": "algae product",
+   "code": "5.7.13",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_水产品"
+  },
+  {
+   "cn": "产品质量",
+   "en": "product quality",
+   "code": "1.2.32",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品完整性"
+  },
+  {
+   "cn": "产品篡改",
+   "en": "product tampering",
+   "code": "1.2.31",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品完整性"
+  },
+  {
+   "cn": "蛋制品",
+   "en": "egg products",
+   "code": "5.9.3",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_蛋类"
+  },
+  {
+   "cn": "水产品",
+   "en": "aquatic products",
+   "code": "5.7",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_水产品"
+  },
+  {
+   "cn": "民俗产品",
+   "en": "folklore products",
+   "code": "4.0473",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_分支学科与研究领域"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"searchResult\": [{\"result\": {\"yearsList\": [], \"yearStats\": {\"2026\": 25, \"2025\": 196, \"2024\": 162, \"2023\": 21, \"2022\": 204, \"2021\": 220, \"2020\": 381, \"2019\": 158, \"2018\": 66, \"2017\": 26, \"2016\": 367, \"2015\": 15, \"2014\": 118, \"2013\": 63, \"2012\": 21, \"2011\": 37, \"2010\": 1, \"2009\": 18, \"2008\": 86, \"2007\": 39, \"2006\": 81, \"2005\": 24, \"2004\": 12, \"2003\": 28, \"2002\": 47, \"2000\": 4, \"1998\": 40, \"1997\": 81, \"1996\": 49, \"1995\": 9, \"1994\": 115, \"1993\": 97, \"1992\": 1, \"1990\": 5, \"1989\": 1, \"1988\": 2}, \"sourceStats\": {\"管理科学技术名词\": 260, \"医学影像技术学名词\": 135, \"石油名词\": 115, \"化工名词（五）化工规划·研发·工程建设及产业化\": 101, \"农学名词\": 87, \"资源科学技术名词\": 86, \"化工名词（十）化工系统工程和化工信息化名词\": 82, \"电力名词\": 77, \"数学名词\": 76, \"草学名词\": 70, \"林学名词\": 67, \"风景园林名词\": 65, \"冶金学名词\": 61, \"经济学名词\": 61, \"计算机科学技术名词\": 50, \"生态学名词\": 49, \"水产名词\": 46, \"自然辩证法名词\": 43, \"铁道科学技术名词\": 43, \"建筑学名词\": 41, \"地球物理学名词\": 36, \"水利科学技术名词\": 36, \"食品科学技术名词\": 36, \"动物学名词\": 34, \"畜牧学名词\": 33, \"地理学名词\": 32, \"机械工程名词 第一分册\": 32, \"新闻学与传播学名词\": 31, \"物理学名词\": 31, \"化学名词\": 29, \"海洋科技名词\": 29, \"精细化工名词\": 28, \"放射医学与防护名词\": 27, \"公路交通科技名词\": 26, \"化工名词（四）安全·环保·可持续发展\": 26, \"材料科学技术名词\": 26, \"植物学名词\": 25, \"化工名词（一）石油炼制·煤制油及天然气·生物质制油\": 24, \"教育学名词\": 24, \"编辑与出版学名词\": 24, \"航天科学技术名词\": 24, \"机械工程名词 第五分册\": 22, \"地质学名词\": 21, \"中国古代史名词\": 19, \"船舶工程名词\": 19, \"城乡规划学名词\": 17, \"机械工程名词 第四分册\": 16, \"电气工程名词\": 16, \"药学名词\": 15, \"煤炭科学技术名词\": 14, \"组织学与胚胎学名词\": 14, \"土木工程名词\": 13, \"电子学名词\": 13, \"中医药学名词\": 12, \"耳鼻咽喉头颈外科学名词\": 11, \"计量学名词\": 11, \"语言学名词\": 11, \"兽医学名词\": 10, \"图书馆·情报与文献学名词\": 10, \"天文学名词\": 10, \"机械工程名词 第三分册\": 10, \"世界历史名词\": 9, \"全科医学与社区卫生名词\": 9, \"化工名词（七）高分子化工\": 9, \"地方病学名词\": 9, \"机械工程名词 第二分册\": 9, \"生物化学与分子生物学名词\": 9, \"航海科技名词\": 9, \"化工名词 (二)基本有机化工\": 8, \"化工名词（九）无机化工与肥料\": 8, \"化工名词（八）化工装备\": 8, \"心理学名词\": 8, \"核科学技术名词\": 8, \"档案学名词\": 8, \"细胞生物学名词\": 8, \"运动医学名词\": 8, \"光学名词\": 7, \"化学工程名词\": 7, \"化工名词(三)化学工程基础\": 7, \"化工名词（六）生物化工\": 7, \"古生物学名词\": 7, \"微生物学名词\": 7, \"核医学名词\": 7, \"器官移植学名词\": 6, \"通信科学技术名词\": 6, \"医学遗传学名词\": 5, \"呼吸病学名词\": 5, \"土壤学名词\": 5, \"地理信息系统名词\": 5, \"普通外科学名词\": 5, \"自动化名词\": 5, \"航空科学技术名词\": 5, \"行为医学名词\": 5, \"内分泌代谢病学名词\": 4, \"医学美学与美容医学名词\": 4, \"感染病学名词\": 4, \"整形外科名词\": 4, \"昆虫学名词\": 4, \"消化病学名词\": 4, \"生物物理学名词\": 4, \"人体解剖学名词\": 3, \"力学名词\": 3, \"大气科学名词\": 3, \"妇科肿瘤学名词\": 3, \"生理学名词\": 3, \"男科及性医学名词\": 3, \"血液学名词\": 3, \"免疫学名词\": 2, \"医学名词 第六分册\": 2, \"显微外科学名词\": 2, \"测绘学名词\": 2, \"神经病学名词\": 2, \"精神医学名词\": 2, \"老年医学名词\": 2, \"遗传学名词\": 2, \"麻醉学名词\": 2, \"中医药学名词（2010）\": 1, \"中医药学名词（2013）\": 1, \"医学名词 第一分册\": 1, \"医学名词 第七分册\": 1, \"医学名词 第三分册\": 1, \"医学名词 第二分册\": 1, \"医学名词 第四分册\": 1, \"急救医学名词\": 1, \"烧伤学名词\": 1, \"物理医学与康复名词\": 1, \"生殖医学名词\": 1, \"睡眠医学名词\": 1, \"结核病学名词\": 1}, \"typeStats\": {\"1\": 2820}, \"totalRecords\": 2820, \"tmWordList\": [{\"subjectTerms\": [{\"value\": \"内积\", \"color\": 1}], \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": \"[1]大气科学名词审定委员会.大气科学名词[M].3版.北京：科学出版社\", \"quote2\": \"[2]大气科学名词审定委员会.大气科学名词\", \"aliasName\": null, \"cn\": \"内积\", \"collect\": null, \"definition\": \"(1)平面或空间中的两个向量的内积。(2)n维向量的内积。\", \"en\": \"inner product\", \"id\": \"e71edfe926a811ee8992b068e6519520\", \"publishYear\": \"2009\", \"source\": \"大气科学名词\", \"subjectFullName\": \"大气科学_动力气象学\", \"subjectName\": \"动力气象学\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"05.488\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]数学名词审定委员会.数学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]数学名词审定委员会.数学名词\", \"aliasName\": null, \"cn\": \"内积\", \"collect\": null, \"definition\": null, \"en\": \"inner product\", \"id\": \"838d855526a911ee8705b068e6519520\", \"publishYear\": \"1993\", \"source\": \"数学名词\", \"subjectFullName\": \"数学_代数学_代数几何学_线性代数\", \"subjectName\": \"线性代数\", \"alsoName\": \"标量积（scalar product）\", \"commName\": null, \"tw\": null, \"wordNumber\": \"04.0716\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]数学名词审定委员会.数学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]数学名词审定委员会.数学名词\", \"aliasName\": null, \"cn\": \"彼得松内积\", \"collect\": null, \"definition\": null, \"en\": \"Peterson inner product\", \"id\": \"8537541926a911ee941eb068e6519520\", \"publishYear\": \"1993\", \"source\": \"数学名词\", \"subjectFullName\": \"数学_代数学_代数几何学_算术\", \"subjectName\": \"算术\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"04.0334\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]数学名词审定委员会.数学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]数学名词审定委员会.数学名词\", \"aliasName\": null, \"cn\": \"半内积\", \"collect\": null, \"definition\": null, \"en\": \"semi-inner product\", \"id\": \"98d750bb26a911eea798b068e6519520\", \"publishYear\": \"1993\", \"source\": \"数学名词\", \"subjectFullName\": \"数学_泛函分析_泛函分析基础\", \"subjectName\": \"泛函分析基础\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"07.0140\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]数学名词审定委员会.数学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]数学名词审定委员会.数学名词\", \"aliasName\": null, \"cn\": \"张量的内积\", \"collect\": null, \"definition\": null, \"en\": \"inner product of tensors\", \"id\": \"b951b80d26a911ee9a6eb068e6519520\", \"publishYear\": \"1993\", \"source\": \"数学名词\", \"subjectFullName\": \"数学_代数学_代数几何学_型\", \"subjectName\": \"型\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"04.0849\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]数学名词审定委员会.数学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]数学名词审定委员会.数学名词\", \"aliasName\": null, \"cn\": \"不定度规空间\", \"collect\": null, \"definition\": null, \"en\": \"indefinite inner product space\", \"id\": \"bf7e947a26a911ee9959b068e6519520\", \"publishYear\": \"1993\", \"source\": \"数学名词\", \"subjectFullName\": \"数学_泛函分析_泛函分析基础\", \"subjectName\": \"泛函分析基础\", \"alsoName\": \"不定内积空间\", \"commName\": null, \"tw\": null, \"wordNumber\": \"07.0141\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]数学名词审定委员会.数学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]数学名词审定委员会.数学名词\", \"aliasName\": null, \"cn\": \"准不定度规空间\", \"collect\": null, \"definition\": null, \"en\": \"pre-indefinite inner product space\", \"id\": \"98dc09d326a911eebad3b068e6519520\", \"publishYear\": \"1993\", \"source\": \"数学名词\", \"subjectFullName\": \"数学_泛函分析_泛函分析基础\", \"subjectName\": \"泛函分析基础\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"07.0142\"}, {\"subjectTerms\": [{\"value\": \"浊流沉积\", \"color\": 1}, {\"value\": \"阶地\", \"color\": 1}, {\"value\": \"内扇\", \"color\": 1}, {\"value\": \"泥\", \"color\": 1}, {\"value\": \"大陆\", \"color\": 1}, {\"value\": \"阶\", \"color\": 1}, {\"value\": \"层\", \"color\": 1}, {\"value\": \"期\", \"color\": 1}, {\"value\": \"天然堤\", \"color\": 1}, {\"value\": \"基质\", \"color\": 1}, {\"value\": \"沉积物\", \"color\": 1}, {\"value\": \"层理\", \"color\": 1}, {\"value\": \"浊积岩\", \"color\": 1}, {\"value\": \"砾岩\", \"color\": 1}, {\"value\": \"泥石流\", \"color\": 1}, {\"value\": \"浊流\", \"color\": 1}], \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内扇\", \"collect\": null, \"definition\": \"位于大陆斜坡和峡谷出口处，包括斜坡坡脚、有天然堤(水道堤)的主水道及主水道两侧的低平地区。在坡脚地带沉积物较粗，主要为滑塌层、基质支撑的砾岩(泥石流沉积)及其他类型的砾岩；在主水道向下的延伸方向上，依次出现紊乱砾岩、反粒序至正粒序砾岩、有层理砾岩等水道充填物，是内扇的主体。浊流间歇期的细粒沉积物被后来发生的浊流侵蚀掉而无法保存下来。在天然堤、天然堤外或阶地外缘，漫出水道的细粒薄层浊流沉积层与浊流间歇期的深海、半深海沉积层形成互层，构成Tc-Te序列的典型浊积岩。\", \"en\": \"inner fan\", \"id\": \"68a74ece48ec11f1bbe50242ac110003\", \"publishYear\": \"2026\", \"source\": \"地质学名词\", \"subjectFullName\": \"地质学_沉积学与沉积岩岩石学_沉积环境与沉积相\", \"subjectName\": \"沉积环境与沉积相\", \"alsoName\": \"\", \"commName\": null, \"tw\": null, \"wordNumber\": \"05.05.134\"}, {\"subjectTerms\": [{\"value\": \"地球\", \"color\": 1}, {\"value\": \"组\", \"color\": 1}], \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内地核\", \"collect\": null, \"definition\": \"呈球体状，位于地球的核心部分。距地表深度5155~6371km，半径(厚度)为1216km。根据地球物理资料推测，主要由呈固态的铁镍合金组成。\", \"en\": \"inner core\", \"id\": \"a1e3b73c48eb11f1bbe50242ac110003\", \"publishYear\": \"2026\", \"source\": \"地质学名词\", \"subjectFullName\": \"地质学_总论\", \"subjectName\": \"总论\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"01.00.010\"}, {\"subjectTerms\": [], \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内膛枝\", \"collect\": null, \"definition\": \"枝干内部生长的小枝。它会阻碍通风，不利于枝干通风透光。\", \"en\": \"inner branch\", \"id\": \"2cee092e618e4be0b74997f56333b301\", \"publishYear\": \"2025\", \"source\": \"风景园林名词\", \"subjectFullName\": \"风景园林_风景园林工程_风景园林养护\", \"subjectName\": \"风景园林养护\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"08.0275\"}, {\"subjectTerms\": [], \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]化工名词审定委员会.精细化工名词审定分委员会.精细化工名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]化工名词审定委员会.精细化工名词审定分委员会.精细化工名词\", \"aliasName\": null, \"cn\": \"内相\", \"collect\": null, \"definition\": \"液-液分散体系中，以小液珠形式存在、被分散的物质。\", \"en\": \"inner phase\", \"id\": \"6c06b77abba311f080660242ac110003\", \"publishYear\": \"2025\", \"source\": \"精细化工名词\", \"subjectFullName\": \"精细化工_表面活性剂\", \"subjectName\": \"表面活性剂\", \"alsoName\": \"分散相（dispersed phase）\", \"commName\": null, \"tw\": null, \"wordNumber\": \"06.0058\"}, {\"subjectTerms\": [{\"value\": \"耳\", \"color\": 1}, {\"value\": \"骨迷路\", \"color\": 1}, {\"value\": \"耳蜗\", \"color\": 1}, {\"value\": \"膜迷路\", \"color\": 1}, {\"value\": \"颞骨\", \"color\": 1}, {\"value\": \"颞骨岩部\", \"color\": 1}, {\"value\": \"听觉\", \"color\": 1}, {\"value\": \"平衡觉\", \"color\": 1}], \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内耳\", \"collect\": null, \"definition\": \"分为骨迷路和膜迷路，位于颞骨岩部内，包括耳蜗、前庭和半规管，司听觉和平衡觉。\", \"en\": \"inner ear\", \"id\": \"9fc76048b3e011f080660242ac110003\", \"publishYear\": \"2025\", \"source\": \"耳鼻咽喉头颈外科学名词\", \"subjectFullName\": \"耳科_耳解剖\", \"subjectName\": \"耳解剖\", \"alsoName\": \"迷路（labyrinth）\", \"commName\": null, \"tw\": null, \"wordNumber\": \"1.1.4\"}, {\"subjectTerms\": [{\"value\": \"太阳\", \"color\": 1}, {\"value\": \"日冕\", \"color\": 1}, {\"value\": \"太阳半径\", \"color\": 1}, {\"value\": \"日\", \"color\": 1}, {\"value\": \"表\", \"color\": 1}], \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": \"[1]天文学名词审定委员会.天文学名词[M].3版.北京：科学出版社\", \"quote2\": \"[2]天文学名词审定委员会.天文学名词\", \"aliasName\": null, \"cn\": \"内冕\", \"collect\": null, \"definition\": \"日冕的内层，与太阳表面的距离小于0.3个太阳半径。\", \"en\": \"inner corona\", \"id\": \"0aaaee0c774611f080660242ac110003\", \"publishYear\": \"2024\", \"source\": \"天文学名词\", \"subjectFullName\": \"天文学_太阳\", \"subjectName\": \"太阳\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"09.079\"}, {\"subjectTerms\": [{\"value\": \"太阳系\", \"color\": 1}, {\"value\": \"行星\", \"color\": 1}, {\"value\": \"小行星\", \"color\": 1}, {\"value\": \"内太阳系\", \"color\": 1}, {\"value\": \"小行星带\", \"color\": 1}, {\"value\": \"类地行星\", \"color\": 1}, {\"value\": \"金星\", \"color\": 1}, {\"value\": \"地球\", \"color\": 1}, {\"value\": \"太阳\", \"color\": 1}], \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": \"[1]天文学名词审定委员会.天文学名词[M].3版.北京：科学出版社\", \"quote2\": \"[2]天文学名词审定委员会.天文学名词\", \"aliasName\": null, \"cn\": \"带内行星\", \"collect\": null, \"definition\": \"轨道在小行星带以内(近)的行星，即水星、金星、地球和火星，都是属于内太阳系的类地行星。\", \"en\": \"inner planet\", \"id\": \"135decac774611f080660242ac110003\", \"publishYear\": \"2024\", \"source\": \"天文学名词\", \"subjectFullName\": \"天文学_太阳系\", \"subjectName\": \"太阳系\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"10.016\"}, {\"subjectTerms\": [{\"value\": \"彗星\", \"color\": 1}, {\"value\": \"彗核\", \"color\": 1}, {\"value\": \"彗发\", \"color\": 1}], \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": \"[1]天文学名词审定委员会.天文学名词[M].3版.北京：科学出版社\", \"quote2\": \"[2]天文学名词审定委员会.天文学名词\", \"aliasName\": null, \"cn\": \"内彗发\", \"collect\": null, \"definition\": \"靠近彗核区域的彗发内层、物质较为浓密的区域，其间以彗星气体和离子物质为主导。\", \"en\": \"inner coma\", \"id\": \"17479ae8774611f080660242ac110003\", \"publishYear\": \"2024\", \"source\": \"天文学名词\", \"subjectFullName\": \"天文学_太阳系\", \"subjectName\": \"太阳系\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"10.165\"}, {\"subjectTerms\": [{\"value\": \"层析\", \"color\": 1}, {\"value\": \"固定相\", \"color\": 1}, {\"value\": \"凝胶过滤层析\", \"color\": 1}], \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": \"[1]生物化学与分子生物学名词审定委员会.生物化学与分子生物学名词[M].2版.北京：科学出版社\", \"quote2\": \"[2]生物化学与分子生物学名词审定委员会.生物化学与分子生物学名词\", \"aliasName\": null, \"cn\": \"内水体积\", \"collect\": null, \"definition\": \"在凝胶过滤层析中，柱床凝胶颗粒内部孔隙的溶剂体积。即固定相的体积。\", \"en\": \"inner volume\", \"id\": \"2b2a0e121e4411efbb160242ac110002\", \"publishYear\": \"2024\", \"source\": \"生物化学与分子生物学名词\", \"subjectFullName\": \"生物化学与分子生物学_方法与技术_分离纯化技术_层析技术\", \"subjectName\": \"层析技术\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"11.0176\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": \"[1]第二届自然辩证法名词审定委员会.自然辩证法名词[M].2版.北京：科学出版社\", \"quote2\": \"[2]第二届自然辩证法名词审定委员会.自然辩证法名词\", \"aliasName\": null, \"cn\": \"内在随机性\", \"collect\": null, \"definition\": \"混沌系统的状态一旦进入奇怪吸引子，其不规则性原则上与随机运动无法区分，但这种随机性是由确定性系统自身内部非线性因素产生的，与外部条件无关。\", \"en\": \"inner randomness\", \"id\": \"78bc26280e0e11f080660242ac110003\", \"publishYear\": \"2024\", \"source\": \"自然辩证法名词\", \"subjectFullName\": \"自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学\", \"subjectName\": \"复杂系统科学哲学\", \"alsoName\": \"确定性随机性\", \"commName\": null, \"tw\": null, \"wordNumber\": \"03.749\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]新闻学与传播学名词审定委员会.新闻学与传播学名词[M].1版.北京：商务印书馆\", \"quote2\": \"[2]新闻学与传播学名词审定委员会.新闻学与传播学名词\", \"aliasName\": null, \"cn\": \"内在语\", \"collect\": null, \"definition\": \"在播音语言中不便透露，不能表露，或没有完全表露出来和没有直接表露出来的语句关系和语句本质。内在语是承续语言链条的结节点。大致可分为六类：①发语性内在语；②寓意性内在语；③关联性内在语；④提示性内在语；⑤回味性内在语；⑥反语性内在语等。\", \"en\": \"inner language\", \"id\": \"17944fd4835811eeabb90242ac110002\", \"publishYear\": \"2022\", \"source\": \"新闻学与传播学名词\", \"subjectFullName\": \"新闻学与传播学_应用新闻_广播电视实务_广播电视播音主持\", \"subjectName\": \"广播电视播音主持\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"5.119\"}, {\"subjectTerms\": [{\"value\": \"胶管\", \"color\": 1}, {\"value\": \"空心轮胎\", \"color\": 1}, {\"value\": \"轮胎\", \"color\": 1}, {\"value\": \"外胎\", \"color\": 1}], \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]化工名词审定委员会.化学工程名词（七）高分子化工名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]化工名词审定委员会.化学工程名词（七）高分子化工名词\", \"aliasName\": null, \"cn\": \"内胎\", \"collect\": null, \"definition\": \"汽车空心轮胎的一个组成部分，是装在外胎与轮辋空隙间的一个环形橡胶管，管上安有气门，能充入和放出空气。\", \"en\": \"inner tube\", \"id\": \"6b8054b2836711eeabb90242ac110002\", \"publishYear\": \"2022\", \"source\": \"化工名词（七）高分子化工\", \"subjectFullName\": \"化工（七）_合成橡胶_合成橡胶的加工及改性\", \"subjectName\": \"合成橡胶的加工及改性\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"3.0947\"}, {\"subjectTerms\": [{\"value\": \"轴承\", \"color\": 1}, {\"value\": \"轴承套圈\", \"color\": 1}, {\"value\": \"轴\", \"color\": 1}, {\"value\": \"表面\", \"color\": 1}, {\"value\": \"滚道\", \"color\": 1}], \"fullName\": \"[]\", \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": \"[1]机械工程名词 第一分册审定委员会.机械工程名词 第一分册[M].2版.北京：科学出版社\", \"quote2\": \"[2]机械工程名词 第一分册审定委员会.机械工程名词 第一分册\", \"aliasName\": null, \"cn\": \"内圈\", \"collect\": null, \"definition\": \"滚道在外表面的轴承套圈。\", \"en\": \"inner ring\", \"id\": \"02d4dccb26aa11ee96dcb068e6519520\", \"publishYear\": \"2021\", \"source\": \"机械工程名词 第一分册\", \"subjectFullName\": \"机械工程（一）_机械零件_滚动轴承_滚动轴承零件\", \"subjectName\": \"滚动轴承零件\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"07.0679\"}], \"currentPage\": 1, \"totalPage\": 141}, \"id\": \"00000000000000000000000000000000\"}, {\"result\": {\"yearsList\": [], \"yearStats\": {\"2021\": 26, \"2020\": 58, \"2017\": 56, \"2016\": 14, \"2014\": 26, \"2013\": 72, \"2012\": 115, \"2011\": 44, \"2010\": 41, \"2009\": 5, \"2008\": 61, \"2005\": 32, \"2003\": 46, \"2002\": 10}, \"sourceStats\": {\"海峡两岸经贸名词\": 65, \"海峡两岸信息科学技术名词\": 61, \"海峡两岸化学工程名词\": 56, \"海峡两岸海洋科学技术名词\": 50, \"海峡两岸植物学名词\": 46, \"海峡两岸生态学名词\": 46, \"海峡两岸地理学名词\": 44, \"海峡两岸动物学名词\": 32, \"海峡两岸材料科学技术名词\": 26, \"海峡两岸解剖与组织胚胎学名词\": 26, \"海峡两岸地理信息系统名词\": 19, \"海峡两岸药学名词\": 19, \"海峡两岸化学名词\": 18, \"海峡两岸航海科学技术名词\": 16, \"海峡两岸心理学名词\": 13, \"海峡两岸大气科学名词\": 12, \"海峡两岸船舶工程名词\": 11, \"海峡两岸昆虫学名词\": 10, \"海峡两岸细胞生物学名词\": 9, \"海峡两岸天文学名词\": 8, \"海峡两岸测绘学名词\": 5, \"海峡两岸生物化学与分子生物学名词\": 5, \"海峡两岸遗传学名词\": 5, \"海峡两岸免疫学名词\": 3, \"海峡两岸音乐名词\": 1}, \"typeStats\": {\"2\": 606}, \"totalRecords\": 606, \"tmWordList\": [{\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内积\", \"collect\": null, \"definition\": null, \"en\": \"inner product\", \"id\": \"edd12a8c26b811eeb8a2b068e6519520\", \"publishYear\": \"2020\", \"source\": \"海峡两岸大气科学名词\", \"subjectFullName\": \"大气科学\", \"subjectName\": \"大气科学\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": \"內積；純量積\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内积\", \"collect\": null, \"definition\": null, \"en\": \"inner product\", \"id\": \"d07a986826b711eeb855b068e6519520\", \"publishYear\": \"2008\", \"source\": \"海峡两岸信息科学技术名词\", \"subjectFullName\": \"信息科学技术\", \"subjectName\": \"信息科学技术\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"內積\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内侧轴系\", \"collect\": null, \"definition\": null, \"en\": \"inner shafting\\\",\\\"inner shaft\", \"id\": \"92a5e87e26ba11eebcc9b068e6519520\", \"publishYear\": \"2003\", \"source\": \"海峡两岸船舶工程名词\", \"subjectFullName\": \"船舶工程\", \"subjectName\": \"船舶工程\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"內軸\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内臂\", \"collect\": null, \"definition\": null, \"en\": \"inner arm\", \"id\": \"cbc1655826ba11ee9b3fb068e6519520\", \"publishYear\": \"2021\", \"source\": \"海峡两岸解剖与组织胚胎学名词\", \"subjectFullName\": \"解剖与组织胚胎学\", \"subjectName\": \"解剖与组织胚胎学\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": \"內臂\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内层\", \"collect\": null, \"definition\": null, \"en\": \"inner layer\", \"id\": \"cbf4607826ba11ee8f5fb068e6519520\", \"publishYear\": \"2021\", \"source\": \"海峡两岸解剖与组织胚胎学名词\", \"subjectFullName\": \"解剖与组织胚胎学\", \"subjectName\": \"解剖与组织胚胎学\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": \"內層\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内唇\", \"collect\": null, \"definition\": null, \"en\": \"inner lip\", \"id\": \"cbf5981926ba11ee9253b068e6519520\", \"publishYear\": \"2021\", \"source\": \"海峡两岸解剖与组织胚胎学名词\", \"subjectFullName\": \"解剖与组织胚胎学\", \"subjectName\": \"解剖与组织胚胎学\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": \"內唇\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内带\", \"collect\": null, \"definition\": null, \"en\": \"inner zone\", \"id\": \"cbf6d11e26ba11ee86b3b068e6519520\", \"publishYear\": \"2021\", \"source\": \"海峡两岸解剖与组织胚胎学名词\", \"subjectFullName\": \"解剖与组织胚胎学\", \"subjectName\": \"解剖与组织胚胎学\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": \"內帶\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内节\", \"collect\": null, \"definition\": null, \"en\": \"inner segment\", \"id\": \"cc1fbf8d26ba11ee9335b068e6519520\", \"publishYear\": \"2021\", \"source\": \"海峡两岸解剖与组织胚胎学名词\", \"subjectFullName\": \"解剖与组织胚胎学\", \"subjectName\": \"解剖与组织胚胎学\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": \"內節\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内隧道\", \"collect\": null, \"definition\": null, \"en\": \"inner tunnel\", \"id\": \"cc51d0d426ba11eea3a4b068e6519520\", \"publishYear\": \"2021\", \"source\": \"海峡两岸解剖与组织胚胎学名词\", \"subjectFullName\": \"解剖与组织胚胎学\", \"subjectName\": \"解剖与组织胚胎学\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": \"內隧道\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内柱\", \"collect\": null, \"definition\": null, \"en\": \"inner rod\", \"id\": \"cc84cbeb26ba11eebf1bb068e6519520\", \"publishYear\": \"2021\", \"source\": \"海峡两岸解剖与组织胚胎学名词\", \"subjectFullName\": \"解剖与组织胚胎学\", \"subjectName\": \"解剖与组织胚胎学\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": \"內柱\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内花被\", \"collect\": null, \"definition\": null, \"en\": \"inner perianth\", \"id\": \"8dd37e9a26b911eebbc4b068e6519520\", \"publishYear\": \"2020\", \"source\": \"海峡两岸植物学名词\", \"subjectFullName\": \"植物学\", \"subjectName\": \"植物学\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内菌幕\", \"collect\": null, \"definition\": null, \"en\": \"inner veil\", \"id\": \"8dd9200926b911eebbc1b068e6519520\", \"publishYear\": \"2020\", \"source\": \"海峡两岸植物学名词\", \"subjectFullName\": \"植物学\", \"subjectName\": \"植物学\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内[树]皮\", \"collect\": null, \"definition\": null, \"en\": \"inner bark\", \"id\": \"8df40f9826b911ee9691b068e6519520\", \"publishYear\": \"2020\", \"source\": \"海峡两岸植物学名词\", \"subjectFullName\": \"植物学\", \"subjectName\": \"植物学\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内颖\", \"collect\": null, \"definition\": null, \"en\": \"inner glume\", \"id\": \"8dfe68ce26b911ee84e7b068e6519520\", \"publishYear\": \"2020\", \"source\": \"海峡两岸植物学名词\", \"subjectFullName\": \"植物学\", \"subjectName\": \"植物学\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内珠被\", \"collect\": null, \"definition\": null, \"en\": \"inner integument\", \"id\": \"8e0c8ff926b911eeb25eb068e6519520\", \"publishYear\": \"2020\", \"source\": \"海峡两岸植物学名词\", \"subjectFullName\": \"植物学\", \"subjectName\": \"植物学\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内珠心\", \"collect\": null, \"definition\": null, \"en\": \"inner nucellus\", \"id\": \"8e0ed84d26b911ee81f5b068e6519520\", \"publishYear\": \"2020\", \"source\": \"海峡两岸植物学名词\", \"subjectFullName\": \"植物学\", \"subjectName\": \"植物学\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"纹孔内口\", \"collect\": null, \"definition\": null, \"en\": \"inner aperture\", \"id\": \"97c2e50726b911eebd51b068e6519520\", \"publishYear\": \"2020\", \"source\": \"海峡两岸植物学名词\", \"subjectFullName\": \"植物学\", \"subjectName\": \"植物学\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内胎\", \"collect\": null, \"definition\": null, \"en\": \"inner tube\", \"id\": \"6a64b4f026b811ee90feb068e6519520\", \"publishYear\": \"2017\", \"source\": \"海峡两岸化学工程名词\", \"subjectFullName\": \"化学工程\", \"subjectName\": \"化学工程\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"內胎\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第二版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内阀\", \"collect\": null, \"definition\": null, \"en\": \"inner valve\", \"id\": \"7826ecb926b811eea175b068e6519520\", \"publishYear\": \"2017\", \"source\": \"海峡两岸化学工程名词\", \"subjectFullName\": \"化学工程\", \"subjectName\": \"化学工程\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"內閥\", \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内在导向\", \"collect\": null, \"definition\": null, \"en\": \"inner directedness\", \"id\": \"1fd47cea26b911eebc13b068e6519520\", \"publishYear\": \"2016\", \"source\": \"海峡两岸心理学名词\", \"subjectFullName\": \"心理学\", \"subjectName\": \"心理学\", \"alsoName\": \"[]\", \"commName\": null, \"tw\": \"內在導向\", \"wordNumber\": null}], \"currentPage\": 1, \"totalPage\": 31}, \"id\": \"00000000000000000000000000000001\"}, {\"result\": {\"yearsList\": [], \"yearStats\": {\"暂无年份\": 136, \"2020\": 21, \"2008\": 19}, \"sourceStats\": {\"重大国家战略常用关键词英文译法\": 4, \"中华思想文化术语传播工程\": 15, \"外语中文译写规范部际联席会议专家委员会\": 4, \"中国时政术语汉英对照（2012-2018年）\": 6, \"新冠肺炎疫情相关词汇中英对照\": 11, \"奥运体育项目名词\": 19, \"大数据百科术语辞典\": 93, \"维基百科\": 24}, \"typeStats\": {\"3\": 176}, \"totalRecords\": 176, \"tmWordList\": [{\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"内庭\", \"collect\": null, \"definition\": \"内庭穴：足部的一个学位城堡内庭：一座城堡中由主建筑物围出的中心空地荷兰国会议事堂：荷兰语名为Binnenhof，意为「内庭」苏格兰高等民事法院复审部（英语：Inner House）：英文名为Inner House，可直译为内庭\\n这是一个消歧义页，罗列了有相同或相近的标题，但内容不同的条目。如果您是通过某条目的内部链接而转到本页，希望您能协助修正该处的内部链接，将它指向正确的条目。\", \"en\": \"Inner House\", \"id\": \"336e2d491f2b45678456cd6a97fb5536\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内美\", \"collect\": null, \"definition\": null, \"en\": \"Inner Beauty\", \"id\": \"68fd4f8cca6a11f0a7f50242ac110003\", \"publishYear\": \"暂无年份\", \"source\": \"中华思想文化术语传播工程\", \"subjectFullName\": \"文艺\", \"subjectName\": \"文艺\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": \"1\", \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"蓝色内环区\", \"collect\": null, \"definition\": null, \"en\": \"inner blue\", \"id\": \"0d3323aa26bd11eebdb9b068e6519520\", \"publishYear\": \"2008\", \"source\": \"奥运体育项目名词\", \"subjectFullName\": \"奥运体育项目名词_射箭名词\", \"subjectName\": \"射箭名词\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": \"1\", \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"黑色内环区\", \"collect\": null, \"definition\": null, \"en\": \"inner black\", \"id\": \"0d40613d26bd11ee9d3db068e6519520\", \"publishYear\": \"2008\", \"source\": \"奥运体育项目名词\", \"subjectFullName\": \"奥运体育项目名词_射箭名词\", \"subjectName\": \"射箭名词\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": \"1\", \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"红色内环区\", \"collect\": null, \"definition\": null, \"en\": \"inner red\", \"id\": \"0e8da68b26bd11ee9c63b068e6519520\", \"publishYear\": \"2008\", \"source\": \"奥运体育项目名词\", \"subjectFullName\": \"奥运体育项目名词_射箭名词\", \"subjectName\": \"射箭名词\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": \"1\", \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"白色内环区\", \"collect\": null, \"definition\": null, \"en\": \"inner white\", \"id\": \"0ee0bf3526bd11ee9a72b068e6519520\", \"publishYear\": \"2008\", \"source\": \"奥运体育项目名词\", \"subjectFullName\": \"奥运体育项目名词_射箭名词\", \"subjectName\": \"射箭名词\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"积\", \"collect\": null, \"definition\": \"积（英语：Product）是数学中多个不同概念的称呼。算术中，两个数或多个数相乘得到的结果称为它们的积或乘积。[注 1]\\n当相乘的对象多于两个时可以称为连乘[注 2]的时候，常常使用连乘号∏[注 3]表示，类似多个对象的加法使用求和符号∑。\\n一般约定，相乘的对象只有一个的时候，乘积是对象本身；没有相乘的对象时也可以约定所谓的空积为1。\", \"en\": \"Product\", \"id\": \"be6ad41bbb60427a8c5c5d2164103632\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": \"1\", \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"跑道内缘\", \"collect\": null, \"definition\": null, \"en\": \"curb\\\",\\\"inner edge\", \"id\": \"1ddf156626bd11ee853bb068e6519520\", \"publishYear\": \"2008\", \"source\": \"奥运体育项目名词\", \"subjectFullName\": \"奥运体育项目名词_田径名词\", \"subjectName\": \"田径名词\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": \"[]\", \"onceName\": \"[]\", \"otherLanguage\": \"1\", \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内胎\", \"collect\": null, \"definition\": null, \"en\": \"inner tube\\\",\\\"tube\", \"id\": \"2c3059de26bd11eea4a7b068e6519520\", \"publishYear\": \"2008\", \"source\": \"奥运体育项目名词\", \"subjectFullName\": \"奥运体育项目名词_自行车名词\", \"subjectName\": \"自行车名词\", \"alsoName\": \"[]\", \"commName\": \"[]\", \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"线粒体内膜\", \"collect\": null, \"definition\": \"线粒体内膜（英语：inner mitochondrial membrane，缩写为“IMM”）是位于线粒体外膜内侧，包裹着线粒体基质的一层单位膜。线粒体内膜比外膜稍薄，厚约5-6nm。线粒体内膜中蛋白质与磷脂的质量比较高（约为0.7:0.3），并含有大量的心磷脂（心磷脂与磷脂的质量比约为0.22:0.78）。线粒体内膜的某些部分会向线粒体基质折叠形成嵴，嵴的形成可大大增加该膜的表面积。线粒体内膜的标志酶是细胞色素氧化酶。\\n线粒体内膜的脂质组成与细菌细胞膜的相似，这一现象可利用内共生假说解释。该假说认为线粒体是由被真核细胞胞吞后内化的原核细胞衍变而来的。\", \"en\": \"inner mitochondrial membrane\", \"id\": \"4b87d4d9b5894c1cbcd4f7667c3e79c1\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"性灵\", \"collect\": null, \"definition\": null, \"en\": \"Xingling (Inner Self)\", \"id\": \"6878c942ca6a11f0a7f50242ac110003\", \"publishYear\": \"暂无年份\", \"source\": \"中华思想文化术语传播工程\", \"subjectFullName\": \"文艺\", \"subjectName\": \"文艺\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"溶度积\", \"collect\": null, \"definition\": \"溶度积（英语：solubility product），或称溶解度积，是溶度积常数的简称。溶度积常数是沉淀的溶解平衡常数，用符号Ksp表示。溶度积的大小反映了难溶电解质的溶解能力，可用实验方法测定。溶度积常数仅适用于难溶电解质的饱和溶液，对易溶的电解质不适用。在温度一定时，每一难溶盐类化合物的Ksp皆为一特定值。\\n离子化合物的溶度积定义为在饱和溶液中与固体化合物平衡存在的离子浓度的乘积（给定温度下）。\", \"en\": \"solubility product\", \"id\": \"0688b741ab76485daa3451b8b42c864f\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"产品生命周期\", \"collect\": null, \"definition\": \"产品生命周期（英语：Product lifecycle，缩写：PLC）是产品的市场寿命，即一种新产品从开始进入市场到被市场淘汰的整个过程。美国经济学者雷蒙德·弗农（Raymond Vernon）认为：产品生命是指市上的营销生命，产品和人的生命一样，要经历形成、成长、成熟、衰退这样的周期。就产品而言，也就是要经历一个开发、引进、成长、成熟、衰退的阶段。而这个周期在不同的技术水平的国家里，发生的时间和过程是不一样的，期间存在一个较大的差距和时差，正是这一时差，表现为不同国家在技术上的差距，它反映了同一产品在不同国家市场上的竞争地位的差异，从而决定了国际贸易和国际投资的变化。\", \"en\": \"Product lifecycle\", \"id\": \"a0a6ee1653ef44eeb6a84c640f13fb9a\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": \"1\", \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"数据商品\", \"collect\": null, \"definition\": null, \"en\": \"data product\", \"id\": \"a9153a4eca6a11f090b80242ac110003\", \"publishYear\": \"暂无年份\", \"source\": \"大数据百科术语辞典\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": \"1\", \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"网络产品\", \"collect\": null, \"definition\": null, \"en\": \"network product\", \"id\": \"a972f9d6ca6a11f090b80242ac110003\", \"publishYear\": \"暂无年份\", \"source\": \"大数据百科术语辞典\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"半直积\", \"collect\": null, \"definition\": \"半直积（英语：semidirect product）是从其中一个是正规子群的两个子群形成一个群的特定方法。半直积是直积的推广。半直积是作为集合的笛卡尔积，但带有特定的乘法运算。\", \"en\": \"semidirect product\", \"id\": \"b4b6ade4241f4d3e98ff5f9827b43d1a\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"生产管理\", \"collect\": null, \"definition\": \"生产管理（英语：production control），指的是计划、组织、控制生产活动的综合管理活动，通常出现在供应链管理和制造业中。其内容包括生产计划、生产组织以及生产控制和统筹。仅是其中之一或是之二的管理被视作为生产管理的部分管理。\", \"en\": \"production control\", \"id\": \"0ba79886068647989be3e3464aa3d43b\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"生态生产力\", \"collect\": null, \"definition\": \"生态生产力（英语：ecological productivity）是指生态系统中生物质的产生速率，通常以单位时间、单位体积（面积）的质量表示，例如克每平方米每天（gm-2d-1）。质量单位可能与干物质或生成碳的质量有关。植物等自养生物的生产力称为初级生产力，而动物等异营生物的生产力称为次级生产力。\", \"en\": \"ecological productivity\", \"id\": \"1f4c656c563c477fa0d2f169cdd15f0c\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": \"\", \"cn\": \"耗散\", \"collect\": null, \"definition\": \"\", \"en\": \"entropy production\", \"id\": \"5fb2ec8fb42a462395810358dff82078\", \"publishYear\": \"暂无年份\", \"source\": \"维基百科\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": \"1\", \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"信息生产力\", \"collect\": null, \"definition\": null, \"en\": \"information productivity\", \"id\": \"a8e85ecaca6a11f090b80242ac110003\", \"publishYear\": \"暂无年份\", \"source\": \"大数据百科术语辞典\", \"subjectFullName\": \"其他\", \"subjectName\": \"其他\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": null}], \"currentPage\": 1, \"totalPage\": 9}, \"id\": \"00000000000000000000000000000002\"}, {\"result\": {\"yearsList\": [], \"yearStats\": {\"2025\": 297}, \"sourceStats\": {\"食品卫生学名词\": 73, \"马克思主义\": 54, \"消毒学\": 52, \"卫生经济学名词\": 36, \"放射卫生学\": 21, \"妇幼卫生学名词\": 18, \"民族学与文化学名词\": 17, \"社会学名词\": 17, \"社会医学名词\": 5, \"军事预防医学名词\": 2, \"儿少与学校卫生学名词\": 1, \"风湿免疫病学名词\": 1}, \"typeStats\": {\"6\": 297}, \"totalRecords\": 297, \"tmWordList\": [{\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"生产\", \"collect\": null, \"definition\": \"以一定的劳动方式、一定的生产资料所有制为基础的劳动者与生产资料结合的形式，从而结合起来的人们改造自然及生产物质资料的过程。广义的生产除了物质财富之外，还包括精神财富的创造和人类自身生产等。\", \"en\": \"production\", \"id\": \"1945299715574862037\", \"publishYear\": \"2025\", \"source\": \"马克思主义\", \"subjectFullName\": \"马克思主义_政治经济学_马克思恩格斯时期\", \"subjectName\": \"马克思恩格斯时期\", \"alsoName\": \"社会生产\", \"commName\": null, \"tw\": null, \"wordNumber\": \"02.0002\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"生产率\", \"collect\": null, \"definition\": \"个人、团队或组织在一定时间内完成的工作量。\", \"en\": \"productivity\", \"id\": \"1990247655619563556\", \"publishYear\": \"2025\", \"source\": \"卫生经济学名词\", \"subjectFullName\": \"卫生经济学名词_卫生经济学_卫生服务与体系效率\", \"subjectName\": \"卫生服务与体系效率\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"1.3.6\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"能产性\", \"collect\": null, \"definition\": \"①语言使用者能够使用并且理解无穷多的句子的创造性能力。是人类语言区别于其他动物交际系统的一个显著特征。②某一成分或模式构成新的词汇、形态和句法格式的性能。\", \"en\": \"productivity\", \"id\": \"819566fc620342b3886225aa9f75ff54\", \"publishYear\": \"2025\", \"source\": \"民族学与文化学名词\", \"subjectFullName\": \"民族学与文化学_民族语文研究_理论与概念\", \"subjectName\": \"理论与概念\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"5.0041\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"婚内强奸\", \"collect\": null, \"definition\": \"婚内或同居者间未经对方同意而强行实施的性行为。此概念存在争议。同意此概念者认为任何不经对方同意的性行为均属强迫性行为，即强奸；反对者认为婚姻或同居包括了性行为义务，任何一方均有权对另一方实施性行为。\", \"en\": \"inner-marriage rape\", \"id\": \"1945299715511947336\", \"publishYear\": \"2025\", \"source\": \"社会学名词\", \"subjectFullName\": \"社会学名词_分支社会学_性别社会学_性别与家庭\", \"subjectName\": \"性别与家庭\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"3.2.4.6\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"内耳气压伤\", \"collect\": null, \"definition\": \"在下潜或加压阶段，外界气压升高时，由于鼓室内外压力不能平衡所导致的前庭或耳蜗损伤。\", \"en\": \"inner ear barotrauma\", \"id\": \"7ce78f9fc1954ad0996cb4de00930d20\", \"publishYear\": \"2025\", \"source\": \"军事预防医学名词\", \"subjectFullName\": \"军事预防医学_航海和潜水医学_潜水医学\", \"subjectName\": \"潜水医学\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"12.2.3.3.2\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"成品粮\", \"collect\": null, \"definition\": \"原粮经机械等方式加工的初级产品,如大米、小麦粉等。\", \"en\": \"product grain\", \"id\": \"14d10ff92a224432b6877997128d64c2\", \"publishYear\": \"2025\", \"source\": \"食品卫生学名词\", \"subjectFullName\": \"食品卫生学_食品_粮食\", \"subjectName\": \"粮食\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"5.1.2\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"消毒产品\", \"collect\": null, \"definition\": \"纳入《消毒产品分类目录》的消毒剂、消毒器械、灭菌指示物和卫生用品等与人体健康相关的产品。\", \"en\": \"disinfection product\", \"id\": \"1945299715377729579\", \"publishYear\": \"2025\", \"source\": \"消毒学\", \"subjectFullName\": \"消毒学_消毒用品\", \"subjectName\": \"消毒用品\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"3.1\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"抗菌产品\", \"collect\": null, \"definition\": \"具有抗菌作用的抗菌剂、抗菌材料和设备。\", \"en\": \"antibacterial product\", \"id\": \"1945299715381923900\", \"publishYear\": \"2025\", \"source\": \"消毒学\", \"subjectFullName\": \"消毒学_消毒用品_消毒产品\", \"subjectName\": \"消毒产品\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"3.1.13\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"产品监管\", \"collect\": null, \"definition\": \"行政机关依据相关法律法规和标准对消毒产品开展监督和管理的行政执法行为。\", \"en\": \"product regulation\", \"id\": \"1945299715390312540\", \"publishYear\": \"2025\", \"source\": \"消毒学\", \"subjectFullName\": \"消毒学_监督管理\", \"subjectName\": \"监督管理\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"5.2\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"产品确认\", \"collect\": null, \"definition\": \"对于抽检的消毒产品，组织抽检的卫生行政部门对产品的生产企业、经销商等产品来源信息进行核实的过程。\", \"en\": \"product validation\", \"id\": \"1945299715390312569\", \"publishYear\": \"2025\", \"source\": \"消毒学\", \"subjectFullName\": \"消毒学_监督管理_产品监管\", \"subjectName\": \"产品监管\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"5.2.14.2\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"文化产品\", \"collect\": null, \"definition\": \"具有文化意涵的、能供人消费的物品。\", \"en\": \"cultural product\", \"id\": \"1945299715528724548\", \"publishYear\": \"2025\", \"source\": \"社会学名词\", \"subjectFullName\": \"社会学名词_分支社会学_文化社会学_文化的制度结构\", \"subjectName\": \"文化的制度结构\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"3.8.3.23\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"精神产品\", \"collect\": null, \"definition\": \"能够满足人们精神生活需要的产品，是人类精神活动的产物，由脑力劳动者以个人劳动的方式在社会科学、文学艺术或文化生活各个领域所创造的一种知识的物化形式，一种观念形态的产品。\", \"en\": \"spiritual product\", \"id\": \"1945299715574861967\", \"publishYear\": \"2025\", \"source\": \"马克思主义\", \"subjectFullName\": \"马克思主义_哲学_马克思恩格斯时期\", \"subjectName\": \"马克思恩格斯时期\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"01.0187\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"剩余产品\", \"collect\": null, \"definition\": \"超过维持劳动力生产和再生产需要，由劳动者的剩余劳动所创造的那部分产品。剩余产品的出现是人类社会劳动生产力发展的结果，从而为私有制和剥削的产生提供了条件。\", \"en\": \"surplus product\", \"id\": \"1945299715579056223\", \"publishYear\": \"2025\", \"source\": \"马克思主义\", \"subjectFullName\": \"马克思主义_政治经济学_马克思恩格斯时期\", \"subjectName\": \"马克思恩格斯时期\", \"alsoName\": \"纯产品（straight product）\", \"commName\": null, \"tw\": null, \"wordNumber\": \"02.0119\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"最终产品\", \"collect\": null, \"definition\": \"最终加入个人消费的产品。用来和社会总产品中的中间成品相区别。最终产品是用于个人消费的，它是用工资和利润来购买的商品。\", \"en\": \"end product\", \"id\": \"1945299715579056310\", \"publishYear\": \"2025\", \"source\": \"马克思主义\", \"subjectFullName\": \"马克思主义_政治经济学_马克思恩格斯时期\", \"subjectName\": \"马克思恩格斯时期\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"02.0206\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"藻类制品\", \"collect\": null, \"definition\": \"以藻类为主要原料，适当添加辅料，经相应工艺加工制成的产品。\", \"en\": \"algae product\", \"id\": \"4369546ba19d44e1bd084f1bfbbb88e7\", \"publishYear\": \"2025\", \"source\": \"食品卫生学名词\", \"subjectFullName\": \"食品卫生学_食品_水产品\", \"subjectName\": \"水产品\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"5.7.13\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"产品质量\", \"collect\": null, \"definition\": \"产品本身具有的满足顾客要求或技术要求的固有特征和特性\", \"en\": \"product quality\", \"id\": \"7c254e5279cf42199caf8284cdf2aad6\", \"publishYear\": \"2025\", \"source\": \"食品卫生学名词\", \"subjectFullName\": \"食品卫生学_总论_食品完整性\", \"subjectName\": \"食品完整性\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"1.2.32\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"产品篡改\", \"collect\": null, \"definition\": \"故意改变食品特性，使之与产品声称不符的食品欺诈行为\", \"en\": \"product tampering\", \"id\": \"c744ee5a1639466da7eba250705e8030\", \"publishYear\": \"2025\", \"source\": \"食品卫生学名词\", \"subjectFullName\": \"食品卫生学_总论_食品完整性\", \"subjectName\": \"食品完整性\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"1.2.31\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"蛋制品\", \"collect\": null, \"definition\": \"以蛋类作为主要原料制作的食品或食品辅料。\", \"en\": \"egg products\", \"id\": \"6566c10062c84503a4a954d718dbe0ac\", \"publishYear\": \"2025\", \"source\": \"食品卫生学名词\", \"subjectFullName\": \"食品卫生学_食品_蛋类\", \"subjectName\": \"蛋类\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"5.9.3\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"水产品\", \"collect\": null, \"definition\": \"海洋或淡水渔业生产的鱼类、甲壳类、软体动物类、藻类等水生生物的统称。\", \"en\": \"aquatic products\", \"id\": \"7225f0fdb2364c469f979612f7a122ac\", \"publishYear\": \"2025\", \"source\": \"食品卫生学名词\", \"subjectFullName\": \"食品卫生学_食品_水产品\", \"subjectName\": \"水产品\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"5.7\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"民俗产品\", \"collect\": null, \"definition\": \"与民俗直接关联的生产与消费，包括生活类相关之衣食住行与婚丧嫁娶等产品生产与消费。如民俗食品（元宵、饺子、拉面、月饼、粽子、以及各类地方风味食品等）、传统中国酒饮（白酒业，黄酒业，以及酒酿，凉茶及其各类茶饮料等）、传统建筑及其构件（四合院、石库门、吊脚楼与马头墙等）；艺术类相关作品、织绣类（蜀绣、苏绣、湘绣、堆绣、壮锦等等）、纸艺类（剪纸、年画、各类绘画等）、陶艺类、瓷艺类、竹木艺类、金属艺术类，以及其他各种民俗物品。\", \"en\": \"folklore products\", \"id\": \"9b390566259e481ba550efa6a934a3a6\", \"publishYear\": \"2025\", \"source\": \"民族学与文化学名词\", \"subjectFullName\": \"民族学与文化学_民俗学_分支学科与研究领域\", \"subjectName\": \"分支学科与研究领域\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"4.0473\"}], \"currentPage\": 1, \"totalPage\": 15}, \"id\": \"00000000000000000000000000000006\"}], \"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}}, \"timestamp\": 1794341007226}"
+}
