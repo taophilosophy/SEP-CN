@@ -1105,62 +1105,82 @@ segments:
     kind: body
     source: |-
       **8.** *What precisely is the motion of the Moon, and what gives rise to the inequalities in it, inequalities not observed in the motions of the satellites of Jupiter and Saturn?* Newton's answer to the second part is the perturbing effect of the Sun's gravity, leaving the answer to the first in the form of a promissory note: work out all the perturbations from solar gravity, and you will have the answer. The major open question was whether the complex motion of the line of apsides and the inequality known as the evection — the two features for which the Horrocksian cinematic model that Newton had employed in the Scholium to Book 3, Proposition 35 had resorted to an old-fashoined epicycle — can be derived from the action of solar gravity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **8.** **月球的精确运动是什么，其中的不等项由什么引起——这些不等项在木星与土星卫星的运动中并未观察到？** 牛顿对第二部分的答案是太阳引力的摄动效应，而对第一部分的回答则采取欠据的形式：把太阳引力的一切摄动都算出来，你就会得到答案。主要的悬而未决问题是：拱线运动与称为“出差”的不等项——牛顿在第三卷命题 35 附释中所采用的霍罗克斯式运动学模型为这两个特征动用了一个老式的本轮——能否从太阳引力的作用导出。
+    step2: |-
+      **8.** **月球的精确运动是什么，其中的不等项由什么引起——这些不等项在木星与土星卫星的运动中并未观察到？** 牛顿对第二部分的回答是太阳引力的摄动效应，而对第一部分的回答则采取欠据的形式：把太阳引力的一切摄动都算出来，你就会得到答案。主要的开放问题是：拱线运动与称为“出差”的不等项——牛顿在第三卷命题 35 附释中所采用的霍罗克斯式运动学模型为这两个特征动用了一个老式的本轮——能否从太阳引力的作用导出。
   - id: 132
     kind: body
     source: |-
       **9.** *What causes the tides, and why do they vary in time as well as from place to place in the way they do?* Because Newton's answer — *the gravitational action of the Sun and the Moon* — was merely qualitative, it left room to question whether the Moon attracts the Earth and, if so, by how strong a force. Also left open was the question of how the inertia and viscosity of the seas and the rotation of the Earth affect the tides, a question requiring a dynamic analysis of the motions of the seas in response to solar and lunar gravity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **9.** **是什么引起潮汐，为什么潮汐在时间上以及在地点上以它们的方式变化？** 由于牛顿的答案——**太阳与月球的引力作用**——只是定性的，它留下了疑问：月球是否吸引地球；如果是，力有多强。同样未决的还有：海洋的惯性与黏滞性以及地球自转如何影响潮汐；这个问题要求对海洋响应太阳与月球引力时的运动作动力学分析。
+    step2: |-
+      **9.** **是什么引起潮汐，为什么潮汐在时间上以及在地点上以它们的方式变化？** 由于牛顿的回答——**太阳与月球的引力作用**——只是定性的，它留下了疑问：月球是否吸引地球；如果是，力有多强。同样悬而未决的还有：海洋的惯性与黏滞性以及地球自转如何影响潮汐；这个问题要求对海洋响应太阳与月球引力时的运动作动力学分析。
   - id: 133
     kind: body
     source: |-
       **10.** *What physically produces the precession of the equinoxes?* Newton's derivation of the precession from the gravitational action of the Moon and Sun raised three unresolved questions: What are the correct values for the mass of the Moon and the oblateness of the Earth? Is the resulting motion of the Earth really analogous to that of the lunar nodes? How does the varying inclination of the Moon affect the calculated motion?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **10.** **是什么在物理上产生岁差？** 牛顿从月球与太阳的引力作用推出岁差，引出了三个未决问题：月球质量与地球扁率的正确值是什么？由此产生的地球运动是否真的类似于月球交点的运动？月球倾角的变化如何影响计算出的运动？
+    step2: |-
+      **10.** **是什么在物理上产生岁差？** 牛顿从月球与太阳的引力作用推导岁差，引出了三个未解决的问题：月球质量与地球扁率的正确值是什么？由此产生的地球运动是否真的类似于月球交点的运动？月球倾角的变化如何影响计算出的运动？
   - id: 134
     kind: body
     source: |-
       **11.** *What trajectories do comets describe*? Newton's answer — *conic-sections that can at least be approximated by parabolas in the region in which they are observable* — gave weight to the question whether the parabolic trajectory works for all comets, and not just the comet of 1680-81 in the case of the first edition, the three others analyzed in the second, and the additional one in the third. The *Principia* also left open questions about how the gravity of Jupiter and Saturn might affect comet motions, whether any significance should be attached to the residual discrepancies between theory and observation in Newton's results, and which, if any, comets do return in some regular fashion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **11.** **彗星描出什么轨迹？** 牛顿的回答——**圆锥截线，在其可被观测的区域内至少可用抛物线近似**——使下述问题变得重要：抛物线轨迹是否适用于所有彗星，而不只是第一版中的 1680–81 年彗星、第二版中所分析的另外三颗、以及第三版中又加的一颗。《原理》还留下一些未答的问题：木星与土星的引力可能如何影响彗星运动；牛顿结果中理论与观测之间的残留差异是否应当赋予某种意义；以及哪些彗星（如果有的话）以某种规律方式回归。
+    step2: |-
+      **11.** **彗星描出什么轨迹？** 牛顿的回答——**圆锥截线，在其可被观测的区域内至少可用抛物线近似**——使如下问题变得重要：抛物线轨迹是否适用于所有彗星，而不只是第一版中的 1680–81 年彗星、第二版中所分析的另外三颗、以及第三版中又加的一颗。《原理》还留下了未答的问题：木星与土星的引力可能如何影响彗星运动；牛顿结果中理论与观测之间的残留差异是否应当赋予某种意义；以及哪些彗星（如果有的话）以某种规律方式回归。
   - id: 135
     kind: body
     source: |-
       Careful reading of the *Principia* makes clear that, although unforthcoming about any of the loose ends, Newton was perfectly aware of them all, in one way or another flagging each for the benefit of the highly astute reader. An instructive way to present the history of eighteenth century research in the wake of the *Principia* is to trace how each of the loose ends became a prominent matter of concern and was then resolved, at least to the point of being removed as in any way a threat to Newton's theory of gravity. This process of addressing the loose ends in Book 3 did not get underway until the 1730s, after Newton had died. During his lifetime the most pressing complaint against the *Principia* was the absence of a mechanism to account for its action save for action at a distance, which Newton himself regarded as “so great an absurdity, that I believe no man who has in philosophical matters a competent faculty of thinking can ever fall into it.”[^note-56] The absence of a mechanism, however, was not something that Newton himself regarded as a loose-end in the *Principia*, for he insisted that all the conclusions listed above could be established, and any loose ends in them resolved, through the law of universal gravity alone, independently of the mechanism responsible for it. Over the decades after he died, those engaged in research predicated on his theory of gravity came increasingly to this same view of the question of mechanism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      细读《原理》可以清楚看出，尽管牛顿对任何未了结之处都不明说，他却完全知道这一切，并以某种方式把每一条都标示出来，以惠及极为敏锐的读者。呈现《原理》之后 18 世纪研究史的一种有益方式，是追踪每一个未了结之处如何成为突出的关切事项、然后又如何被解决，至少解决到不再以任何方式威胁牛顿引力理论的程度。处理第三卷这些未了结之处的过程直到 1730 年代、牛顿去世之后才开始。在牛顿生前，针对《原理》最紧迫的抱怨是缺少一种机制来解释其作用（除超距作用之外），而牛顿本人认为超距作用是“如此巨大的荒谬，我相信任何在哲学事务上具有合格思考能力的人都不会陷入其中”。[^note-56] 然而，缺少机制并不是牛顿本人看作《原理》中未了结之处的东西，因为他坚持认为上文所列的一切结论都可以仅凭万有引力定律建立，其中的任何未了结之处也可以仅凭该定律解决，而与造成引力的机制无关。在他去世后的几十年里，以他的引力理论为前提进行研究的人，对机制问题越来越持同样的看法。
+    step2: |-
+      细心阅读《原理》可以清楚看出，尽管牛顿对任何未了结之处都不明说，他却完全知道这一切，并以某种方式把每一条都标示出来，以惠及极为敏锐的读者。呈现《原理》之后 18 世纪研究史的一种有教益的方式，是追踪每一个未了结之处如何成为突出的关切事项、然后又如何被解决，至少解决到不再以任何方式威胁牛顿引力理论的程度。处理第三卷这些未了结之处的过程直到 1730 年代、牛顿去世之后才开始。在牛顿生前，针对《原理》最紧迫的抱怨是缺少一种机制来解释其作用（除超距作用之外），而牛顿本人认为超距作用是“如此巨大的荒谬，我相信任何在哲学事务上具有合格思考能力的人都不会陷入其中”。[^note-56] 然而，缺少机制并不是牛顿本人看作《原理》中未了结之处的东西，因为他坚持认为上文所列的一切结论都可以仅凭万有引力定律建立，其中的任何未了结之处也可以仅凭该定律解决，而与造成引力的机制无关。在他去世后的几十年里，以他的引力理论为前提进行研究的人，对机制问题越来越持同样的看法。
   - id: 136
     kind: body
     source: |-
       ## 10. The Methodology of the *Principia*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 10. 《原理》的方法论
+    step2: |-
+      ## 10 《原理》的方法论
   - id: 137
     kind: body
     source: |-
       In two passages that remained word for word the same in all three editions Newton announced that the *Principia* was meant to illustrate a new approach to empirical inquiry. Neither the remark about deriving forces from phenomena of motion and then motions from these forces in the Preface to the first edition nor the remark about comparing a generic mathematical theory of centripetal forces with the phenomena in order to find out which conditions of force actually hold at the end of Book 1, Section 11, however, shed much light on just what this new approach is supposed to be. Other than these two passages, the only notable remark about methodology is the famous passage, quoted earlier, from the General Scholium added in the second edition as a final, parting statement:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有两段话在三个版本中逐字未变，牛顿宣告《原理》意在展示一种研究经验世界的新方式。然而，第一版序言中关于从运动现象导出力、再由这些力导出运动的说法，以及第一卷第十一节末尾关于把向心力的通用数学理论与现象相比较以发现哪些力的条件实际成立的说法，都没有充分说明这种新方式究竟是什么。除这两段之外，关于方法论唯一值得注意的说法，就是前文引过的、第二版所加总释中的那段名言，作为最后的告别声明：
+    step2: |-
+      在两段在三个版本中都逐字未变的话里，牛顿宣告《原理》意在展示一种研究经验世界的新方式。然而，第一版序言中关于从运动现象导出力、再由这些力导出运动的说法，以及第一卷第十一节末尾关于把向心力的通用数学理论与现象相比较以发现哪些力的条件实际成立的说法，都没有清楚说明这种新方式究竟是什么。除这两段之外，关于方法论唯一值得注意的说法，就是前文引过的、第二版所加总释中的那段名言，作为最后的告别声明：
   - id: 138
     kind: body
     source: |-
       > I have not as yet been able to deduce from phenomena the reason for these properties of gravity, and I do not feign hypotheses. For whatever is not deduced from the phenomena must be called a hypothesis; and hypotheses, whether metaphysical or physical, or based on occult qualities, or mechanical, have no place in experimental philosophy. In this experimental philosophy, propositions are deduced from the phenomena and are made general by induction. The impenetrability, mobility, and impetus of bodies, and the laws of motion and law of gravity have been found by this method. And it is enough that gravity should really exist and should act according to the laws that we have set forth and should suffice for all the motions of the heavenly bodies and of our sea. [**P**, 943]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我至今还未能从现象中推出这些引力性质的原因，我并且不虚构假设。因为凡不是从现象中推出的，都必须称为假设；而假设，无论形而上学的还是物理学的，无论基于隐秘性质的还是机械的，在实验哲学中都没有位置。在这种实验哲学中，命题从现象中推出，并借归纳而变得普遍。物体的不可入性、可动性与冲力，以及运动定律与引力定律，都是借这种方法发现的。并且只要引力确实存在、按照我们所阐明的定律起作用、足以说明天体与我们海洋的一切运动，那就够了。[**P**, 943]
+    step2: |-
+      > 我至今未能从现象中推出这些引力性质的原因，而我不虚构假设。因为凡不是从现象中推出的，都必须称为假设；而假设，无论是形而上学的还是物理学的，无论是基于隐秘性质的还是机械的，在实验哲学中都没有位置。在这种实验哲学中，命题从现象中推出，并通过归纳而变得普遍。物体的不可入性、可动性与冲力，以及运动定律与引力定律，都是通过这种方法发现的。只要引力确实存在，并按照我们所阐明的定律起作用，且足以说明天体与我们海洋的一切运动，那就够了。[**P**, 943]
   - id: 139
     kind: body
     source: |-
       Much of the discussion of the methodology of the *Principia* in the philosophical literature, from the eighteenth century down to the present time, has taken this clearly polemical passage as the starting point, generating unfortunately more heat than light.[^note-57] This is not the place to grapple with all the controversies surrounding this passage. Some guarded comments about the methodology of the *Principia* may nevertheless prove helpful.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从 18 世纪直到现在的哲学文献中，关于《原理》方法论的讨论，很大一部分都以这段显然论战性的文字为起点，可惜产生的热多于光。[^note-57] 这里不是要处理围绕这段文字的一切争议。不过，关于《原理》方法论的一些有保留的评论，或许仍不无帮助。
+    step2: |-
+      从 18 世纪直到现在的哲学文献中，关于《原理》方法论的讨论，很大一部分都以这段明显论战性的文字为起点，可惜产生的热多于光。[^note-57] 这里不是要处理围绕这段文字的一切争议。不过，关于《原理》方法论的一些有保留的评论，或许仍有帮助。
   - id: 140
     kind: body
     source: |-
       It is scarcely surprising that the unprecedented success of Newton's theory of gravity stimulated interest in the methodology of the *Principia*. The obvious thought was to emulate this success in other areas by following the same method. But then, even independently of questions about what the method was, one has to consider exactly how it contributed to the success. Viewed in retrospect, Book 2 makes clear that this question has no simple answer. If Newton followed the same method in Book 2, then the failure of his effort on resistance forces — even worse, the failure that he did not recognize — shows that the method was no guarantee of success. The empirical world must cooperate for it to succeed.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      牛顿引力理论前所未有的成功，激起人们对《原理》方法论的兴趣，这几乎不令人吃惊。显然的想法是，在其他领域效仿这一成功，遵循同样的方法。但即便不谈该方法究竟是什么的问题，也还必须考虑它究竟如何促成了成功。回顾起来，第二卷清楚表明，这个问题没有简单答案。如果牛顿在第二卷中遵循了同样的方法，那么他在阻力问题上的失败——更糟的是，他并未认识到的失败——表明该方法并不保证成功。经验世界必须配合，它才能成功。
+    step2: |-
+      牛顿引力理论前所未有的成功，激起人们对《原理》方法论的兴趣，这几乎不令人意外。显然的想法是，在其他领域效仿这一成功，遵循同样的方法。但即便撇开关于该方法究竟是什么的问题，也还必须考虑它究竟如何促成了成功。回顾起来，第二卷清楚表明，这个问题没有简单答案。如果牛顿在第二卷中遵循了同样的方法，那么他在阻力问题上的失败——更糟的是，他并未认识到的失败——表明该方法并不保证成功。经验世界必须配合，它才能成功。
   - id: 141
     kind: body
     source: |-
