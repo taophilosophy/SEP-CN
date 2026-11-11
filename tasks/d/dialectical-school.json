@@ -30,7 +30,7 @@
       "status": "ok",
       "actor": "D-main-20261107",
       "at": "2026-11-06T23:15:10Z",
-      "evidence": "四检：check_style --strict 0 违例；check_academic --strict OK；check_math missing/unbalanced 0；check_prose 21→实修 20（de-chain 15/长句 2 拆分/被动 2/weak-verb 1），余 2=爱比克泰德与西塞罗引文块内部按 ADR-0020 豁免留痕；italic-CJK→加粗 2 处（性质/OIR 题名）；cjk-spacing 42 处数字间距；Diodorus 正文人名改从词汇表既有裁定（狄奥多罗斯·克罗诺斯，勿以出生地替代绰号），SUMMARY 题名行不动"
+      "evidence": "四检：check_style --strict 0 违例；check_academic --strict OK；check_math missing/unbalanced 0；check_prose 21→实修 20（de-chain 15/长句 2 拆分/被动 2/weak-verb 1），余 2=爱比克泰德与西塞罗引文块内部按 ADR-0020 豁免留痕；italic-CJK→加粗 2 处（性质/OIR 题名）；cjk-spacing 42 处数字间距；Diodorus 正文人名改从词汇表既有裁定（狄奥多罗斯·克罗诺斯，勿以出生地替代绰号），SUMMARY 题名行不动；语体：现代汉语学术书面语，无文言仿古，破折号使用合规（复核补记 F-main-20261111b）"
     },
     {
       "step": "s3",
