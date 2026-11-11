@@ -2,8 +2,44 @@
   "slug": "alexander",
   "kind": "retranslate",
   "zh_doc": "a/alexander.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-11T22:04:18Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-11T23:28:28Z",
+      "evidence": "ADR-0021 账本 117 段双版全填（本会话自译），lq.py check 守恒 OK；compose 落 a/alexander.md 325 行"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-11T23:28:29Z",
+      "evidence": "逐节对照 yuanwen：marker 序列 10=10 同序、定义 59=59 同集、h3 11=11；h2 10 vs 11 为『Notes（原文脚注）/Notes to Samuel Alexander』双标题合并豁免；年份 154 全序一致（正文另有 1910/1930 年代表述 3 处属年代译法非事实差）；pubinfo 2026-10-06 与版本钉一致"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-11T23:28:29Z",
+      "evidence": "check_prose 19→6：实修 13 处（长句/去链/弱动词/被字句）；余 6 全在直引内（Passmore、Alexander 1920ii 两处、1928、1933 引块）按 ADR-0020 豁免"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-11T23:28:30Z",
+      "evidence": "check_style 0、check_academic --strict OK、check_math 0；人名 Alexander/Locke/Moore 与登记册核对（新增 Samuel Alexander 行）；斜体中文已转加粗"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:36:45Z",
   "version_pin": {
