@@ -945,62 +945,82 @@ segments:
     kind: body
     source: |-
       The Scholium following Proposition 35 opens with the explanation for the preceding efforts on the lunar inequalities: “I wished to show by these computations of the lunar motions that the lunar motions can be computed from their causes by the theory of gravity” [**P**, 869]. Newton never found a way of deriving the precession of the lunar apogee from the theory of gravity, and consequently he never succeeded with a complete, gravity-derived account of the lunar orbit.[^note-53] The mathematical treatment of the three lunar inequalities nevertheless did provide added support for his theory of gravity. It also introduced the idea of attacking the problem of the true orbit in a sequence of successive approximations by calculating perturbations in motion in an assumed orbit caused by the gravitational action of the Sun. This was not only an entirely new approach to the then unsolved problem of simply describing the motion of the Moon, an approach that proceeded from the physical cause to the motion; it was also the beginnings of the perturbational approach that dominated all of celestial mechanics from the middle of the eighteenth century until late in the twentieth.[^note-54] As difficult as Propositions 25 through 35 were for readers at the time — and still are for readers now — they crucially promoted the further research on the complicated orbital motions that ultimately supplied overwhelming support for Newton's theory of gravity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      命题 35 之后的附释，开头解释前文处理月球不等项的工作：“我愿意通过这些月球运动的计算表明，月球运动可以从其原因、借引力理论计算出来”[**P**, 869]。牛顿从未找到从引力理论推导月球远地点进动的方法，因此他从未成功给出一个完整的、由引力推出的月球轨道说明。[^note-53] 不过，对三个月球不等项的数学处理确实为他的引力理论增添了支持。它还引入了这样的想法：通过计算太阳引力作用在假定轨道中引起的运动摄动，以逐次逼近的序列来攻克真实轨道问题。这不仅是一种处理当时尚未解决的、单纯描述月球运动问题的全新进路，一种从物理原因推进到运动的进路；它也是摄动方法的开端，而摄动方法从 18 世纪中叶到 20 世纪晚期一直支配着整个天体力学。[^note-54] 尽管命题 25 至 35 对当时的读者来说很难——对今天的读者仍然如此——它们却关键地推动了关于复杂轨道运动的进一步研究，而后者最终为牛顿的引力理论提供了压倒性的支持。
+    step2: |-
+      命题 35 之后的附释，以对前文处理月球不等项之工作的解释开篇：“我愿意通过这些月球运动的计算表明，月球运动可以从其原因、借引力理论计算出来”[**P**, 869]。牛顿从未找到从引力理论推导月球远地点进动的方法，因此他从未成功给出一个完整的、由引力推出的月球轨道说明。[^note-53] 然而，对三个月球不等项的数学处理确实为他的引力理论提供了额外支持。它还引入了这样的想法：通过计算太阳引力作用在假定轨道中引起的运动摄动，以逐次逼近的序列来攻克真实轨道问题。这不仅是一种处理当时尚未解决的、单纯描述月球运动问题的全新进路，一种从物理原因推进到运动的进路；它也是摄动方法的开端，而摄动方法从 18 世纪中叶到 20 世纪晚期一直支配着整个天体力学。[^note-54] 尽管命题 25 至 35 对当时的读者来说很难——对今天的读者仍然如此——它们却关键地推动了关于复杂轨道运动的进一步研究，而后者最终为牛顿的引力理论提供了压倒性的支持。
   - id: 112
     kind: body
     source: |-
       It was a real breakthrough when Newton discovered that the gravitational forces of the Sun and Moon acting on an oblately spheroidal Earth would produce a wobble of the Earth that, at least qualitatively, could account for the precession of the Equinoxes. No physical explanation for this phenomenon had been proposed before. Newton faced a problem, however, in trying to carry out a quantitative derivation of the precession: he knew the magnitude of the gravitational action of the Sun on the Earth but not that of the Moon, for he could not obtain the mass of the Moon in the way he had for the Sun, Jupiter, and Saturn insofar as no bodies orbit the Moon. Propositions 36 and 37 endeavor to infer the force of the Moon on the Earth from the difference in the heights of the tides when the Sun and Moon are in conjunction and in opposition. In the first edition Newton managed to derive a value for the rate of the precession in good agreement with the known value, but during the quarter century between the first and second editions he concluded that the value he had used for the Moon's force (6 and 1/3 times the Sun's force) was much too large. The derivation of the precession was therefore extensively revised in the second edition, using a new value for the Moon's force (4.4815 times the Sun's force, still more than a factor of 2 greater than the correct value). In all editions the derivation in Proposition 39 treated the wobble not directly as the motion of a rigid body, but by analogy with the motion of the lunar nodes. By the standards of our present physics, no part of Book 3 is further off-base than Newton's solution for the precession. The phenomenon, however, subsequently provided important evidence for Newton's theory of gravity when d'Alembert in 1749 carried out a successful derivation based on rigid body motion and a correct value of the Moon's force derived from the then recently discovered phenomenon of the nutation of the Earth.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当牛顿发现太阳与月球的引力作用于扁球状的地球会产生地球的晃动，而这种晃动至少定性地能够解释岁差时，这是一个真正的突破。此前从未有人为这一现象提出过物理解释。不过，牛顿在尝试定量推导岁差时遇到一个问题：他知道太阳对地球引力作用的大小，却不知道月球引力作用的大小，因为他无法像求得太阳、木星与土星质量那样求得月球质量，毕竟没有天体绕月球运行。命题 36 与 37 试图从太阳与月球相合和相冲时潮汐高度的差异，推断月球对地球的力。在第一版中，牛顿设法导出了一个与已知值颇为一致的岁差率，但在第一版与第二版之间的四分之一个世纪里，他断定自己为月球力所用的值（太阳力的 6 又 1/3 倍）太大了。因此，岁差的推导在第二版中经过大幅修订，采用了月球力的新值（太阳力的 4.4815 倍，仍比正确值大两倍多）。在所有版本中，命题 39 的推导都不是直接把晃动当作刚体运动，而是类比于月球交点的运动。按我们现代物理学的标准，第三卷中没有哪一部分比牛顿对岁差的解离得更远。然而，当达朗贝尔 1749 年基于刚体运动、并采用从当时新发现的章动现象导出的正确月球力值，成功地作出推导之后，这一现象后来为牛顿的引力理论提供了重要证据。
+    step2: |-
+      当牛顿发现太阳与月球的引力作用于一个扁球状地球会产生地球的晃动，而这种晃动至少定性地能够解释岁差时，这是一个真正的突破。此前从未有人为这一现象提出过物理解释。然而，牛顿在尝试定量推导岁差时面临一个问题：他知道太阳对地球引力作用的大小，却不知道月球引力作用的大小，因为他无法像求得太阳、木星与土星质量那样求得月球质量，毕竟没有天体绕月球运行。命题 36 与 37 试图从太阳与月球相合和相冲时潮汐高度的差异，推断月球对地球的力。在第一版中，牛顿设法导出了一个与已知值颇为一致的岁差率，但在第一版与第二版之间的四分之一个世纪里，他断定自己为月球力所用的值（太阳力的 6 又 1/3 倍）太大了。因此，岁差的推导在第二版中经过大幅修订，采用了月球力的新值（太阳力的 4.4815 倍，仍比正确值大两倍多）。在所有版本中，命题 39 的推导都不是直接把晃动当作刚体运动，而是类比于月球交点的运动。按我们现代物理学的标准，第三卷中没有哪一部分比牛顿对岁差的解离得更远。然而，当达朗贝尔 1749 年基于刚体运动、并采用从当时新发现的章动现象导出的正确月球力值，成功地作出推导之后，这一现象后来为牛顿的引力理论提供了重要证据。
   - id: 113
     kind: body
     source: |-
       Newton's account of the tides in Propositions 24, 36, and 37 was much heralded not only at the time, but still today. He is nevertheless receiving more credit for this than he is due. He did identify solar and lunar gravity as the forces driving the tides, but this is all he did. He ignored the rotation of the Earth, and worse he considered only the radial component of the solar and lunar gravitational forces in these three propositions. In fact, the radial component of these forces has a very small effect compared with the transradial component, that is, the component perpendicular to the radial component. All of this became clear in the 1770s when Laplace developed the mathematical theory of tidal motion from which all subsequent work has proceeded.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      牛顿在命题 24、36 与 37 中对潮汐的论述，不仅在当时、而且至今都广受称颂。不过他因此得到的赞誉超过了应得。他确实把太阳与月球的引力认定为驱动潮汐的力，但他所做的仅此而已。他忽略了地球的自转，更糟的是，他在这三个命题中只考虑了太阳与月球引力的径向分量。事实上，与这些力的径向分量相比，横向分量（即垂直于径向分量的分量）的影响要大得多。这一切在 1770 年代变得清楚，当时拉普拉斯发展了潮汐运动的数学理论，此后一切工作都从那里出发。
+    step2: |-
+      牛顿在命题 24、36 与 37 中对潮汐的说明，不仅在当时、而且至今都广受称颂。然而他因此得到的赞誉超过了应得。他确实把太阳与月球的引力认定为驱动潮汐的力，但他所做的仅此而已。他忽略了地球的自转，更糟的是，他在这三个命题中只考虑了太阳与月球引力的径向分量。事实上，与这些力的径向分量相比，横向分量（即垂直于径向分量的分量）的影响要大得多。这一切在 1770 年代变得清楚，当时拉普拉斯发展了潮汐运动的数学理论，此后一切工作都从那里出发。
   - id: 114
     kind: body
     source: |-
       Book 3 ends with a revolutionary analysis of comet trajectories that occupies roughly one-third of the total length of the Book in all three editions. This analysis was slow in coming. As late as June 1686, Newton wrote: “the third [book] wants the Theory of Comets” [**C**, II, 437]. What made the problem difficult, as compared to planet trajectories, was the need to work from a small number of imprecise one-shot observations made from a moving Earth. The method presented in the *Principia* fits a parabola iteratively to the observations, employing novel finite-difference methods that Newton later expanded into a full tract in mathematics, “Methodis Differentialis.” The method presupposes the theory of gravity first in opting for a parabola and second in assuming that the inverse-square centripetal forces known from the planets act on comets along their entire trajectory. The text notes that the trajectories may well be ellipses, but the period of return in that case would be the best way of determining the ellipse. (The parabola approximates the high-curvature end of ellipses with high eccentricity.) The proposal that comets may return was novel, but even more revolutionary at the time was the claim that they button-hook around the Sun, implying that what had sometimes in the past been taken for two distinct comets were really one comet before and after perihelion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第三卷以对彗星轨迹的一场革新型分析作结，这部分在所有三个版本中都约占全卷总长度的三分之一。这一分析来得并不容易。直到 1686 年 6 月，牛顿还写道：“第三卷还缺彗星理论”[**C**, II, 437]。与行星轨迹相比，这个问题之所以困难，是因为需要从少量不精确的、在运动地球上所作的一次性观测出发。 《原理》中提出的方法用迭代方式对观测拟合一条抛物线，采用了新颖的有限差分法，牛顿后来把这种方法扩展为完整的数学论著《微分方法》。这一方法首先在选用抛物线时预设了引力理论，其次在假定已知的行星平方反向心力沿彗星整条轨迹作用于彗星时预设了它。正文指出，轨迹很可能是椭圆，但在那种情形中，回归周期将是确定椭圆的最佳方式。（抛物线近似于高偏心率椭圆曲率较高的一端。）彗星可能回归这一提法是新颖的，但当时更具革命性的是如下主张：彗星会绕太阳“急转”（button-hook），这意味着过去有时被当作两颗不同彗星的，其实是一颗彗星在近日点前后的两段。
+    step2: |-
+      第三卷以对彗星轨迹的革新型分析结束，这部分在所有三个版本中都约占全卷总长度的三分之一。这一分析来之不易。直到 1686 年 6 月，牛顿还写道：“第三卷还缺彗星理论”[**C**, II, 437]。与行星轨迹相比，这个问题之所以困难，是因为需要从少量不精确的、在运动地球上所作的一次性观测出发。 《原理》中提出的方法用迭代方式对观测拟合一条抛物线，采用了新颖的有限差分法，牛顿后来把这种方法扩展为完整的数学论著《微分方法》。这一方法首先在选用抛物线时预设了引力理论，其次在假定已知的行星平方反向心力沿彗星整条轨迹作用于彗星时预设了它。正文指出，轨迹很可能是椭圆，但在那种情形中，回归周期将是确定椭圆的最佳方式。（抛物线近似于高偏心率椭圆曲率较高的一端。）彗星可能回归这一提法是新颖的，但当时更具革命性的是如下主张：彗星会绕太阳“急转”（button-hook），这意味着过去有时被当作两颗不同彗星的，其实是一颗彗星在近日点前后的两段。
   - id: 115
     kind: body
     source: |-
       In the first edition the method was applied only to the comet of 1680-81. The results are presented in a one-foot long diagram on the only fold-out page in the edition. Nothing like this diagram, shown in Figure 3, had ever appeared in print before. The diagram continued to appear in the next two editions, though in reduced form not requiring a fold-out in the third. In the second edition the method was refined and applied as well to the comets of 1664-65, 1683, and 1682 reflecting research Halley had carried out and published in his *Astronomiae Cometicae Synopsis* of 1705. The comet of 1682, now known as Halley's comet, was singled out as being sufficiently similar in trajectory to the comet of 1607 to warrant the proposal that it returns every 75 years.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第一版中，这一方法只用于 1680–81 年的彗星。结果展示在该版唯一一张折页上的一英尺长图中。此前印刷物中从未出现过像图 3 这样的图。这张图在随后两个版本中继续出现，不过在第三版中缩小了，无需折页。在第二版中，方法得到改进，并同样应用于 1664–65 年、1683 年与 1682 年的彗星，反映了哈雷在 1705 年《彗星天文学纲要》中发表的研究。1682 年的彗星——今称哈雷彗星——被特别指出，其轨迹与 1607 年彗星的轨迹足够相似，因而值得提出它每 75 年回归一次。
+    step2: |-
+      在第一版中，这一方法只应用于 1680–81 年的彗星。结果展示在该版唯一一张折页上的一英尺长图中。此前从未有像图 3 这样的图出现在印刷物中。这张图在随后两个版本中继续出现，不过在第三版中缩小了，无需折页。在第二版中，方法得到改进，并同样应用于 1664–65 年、1683 年与 1682 年的彗星，反映了哈雷在 1705 年《彗星天文学纲要》中发表的研究。1682 年的彗星——今称哈雷彗星——被特别指出，其轨迹与 1607 年彗星的轨迹足够相似，因而值得提出它每 75 年回归一次。
   - id: 116
     kind: body
     source: |-
       ![figure 3](../assets/newton-principia/fig3.jpg) Figure 3
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ![图 3](../yuanwen/assets/newton-principia/fig3.jpg) 图 3
+    step2: |-
+      ![图 3](../yuanwen/assets/newton-principia/fig3.jpg) 图 3
   - id: 117
     kind: body
     source: |-
       Added in the third edition was the retrograde comet of 1723, for which Bradley had supplied comparatively accurate observations and the method correspondingly displayed its most impressive success, with no discrepancies between the calculated and observed positions exceeding 1 minute of arc in either longitude or latitude. This suggested that the more exacting the observations entering into the calculation, the more accurate was the method.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第三版加入了 1723 年的逆行彗星，布拉德利为它提供了相对准确的观测，方法也相应地展示了最令人印象深刻的成功：计算位置与观测位置之间的差异，在黄经或黄纬上都没有超过一角分。这说明，进入计算的观测越精确，方法就越准确。
+    step2: |-
+      第三版中加入了 1723 年的逆行彗星，布拉德利为它提供了相对准确的观测，方法也相应地展示了最令人印象深刻的成功：计算位置与观测位置之间的差异，在黄经或黄纬上都没有超过一角分。这表明，进入计算的观测越精确，方法就越准确。
   - id: 118
     kind: body
     source: |-
       Because Newton's theory of comet trajectories depended only on that part of the theory of gravity that was least controversial — inverse-square centripetal accelerations everywhere around the Sun — it did not provoke much philosophical resistance. The success of the method provided evidence that these centripetal forces act equally on comets, contrary to Hooke's proposal in his *Cometa* of 1678 that comets must consist of a fundamentally different kind of material from the planets insofar as they do not respond to the forces directed toward the Sun in the same way. The success of the method also provided strong evidence that inverse-square forces toward the Sun hold throughout the space surrounding it, for not only do comets traverse the spaces between the planet orbits, but also their trajectories, in contrast to those of the then known planets, are often highly inclined with respect to the plane of the ecliptic. Most of all, however, the success of the method provided the most compelling evidence against not only Cartesian vortices, but all theories claiming that the planets are carried around the Sun by fluid vortices. Corollary 3 to Proposition 39 in all three editions summarizes the argument:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由于牛顿的彗星轨迹理论只依赖引力理论中争议最少的部分——太阳周围各处的平方反向心加速度——它没有引起多少哲学上的抵制。这一方法的成功提供了证据，表明这些向心力同样作用于彗星，与胡克 1678 年《彗星》中的提法相反；胡克认为彗星必定由与行星根本上不同的物质构成，因为它们不以同样方式响应指向太阳的力。这一方法的成功还提供了强有力的证据，表明朝向太阳的平方反比力在其周围整个空间中成立，因为彗星不仅穿行于行星轨道之间的空间，而且它们的轨迹（与当时已知行星的轨迹不同）往往相对于黄道面高度倾斜。最重要的是，这一方法的成功为反对笛卡尔涡旋、以及一切声称行星由流体涡旋带着绕太阳运行的理论，提供了最令人信服的证据。三个版本中命题 39 的推论 3 概括了这一论证：
+    step2: |-
+      由于牛顿的彗星轨迹理论只依赖引力理论中最少争议的部分——太阳周围各处的平方反向心加速度——它没有引起多少哲学上的抵制。这一方法的成功提供了证据，表明这些向心力同样作用于彗星，与胡克 1678 年《彗星》中的提法相反；胡克认为彗星必定由与行星根本上不同的物质构成，因为它们不以同样方式响应指向太阳的力。这一方法的成功还提供了有力证据，表明朝向太阳的平方反比力在其周围整个空间中成立，因为彗星不仅穿行于行星轨道之间的空间，而且它们的轨迹（与当时已知行星的轨迹不同）往往相对于黄道面高度倾斜。最重要的是，这一方法的成功为反对笛卡尔涡旋、以及一切声称行星由流体涡旋带着绕太阳运行的理论，提供了最令人信服的证据。三个版本中命题 39 的推论 3 概括了这一论证：
   - id: 119
     kind: body
     source: |-
       > Hence also it is manifest that the heavens are lacking in resistance. For the comets, following paths that are oblique and sometimes contrary to the course of the planets, move in all directions very freely and preserve their motions for a very long time even when these are contrary to the course of planets. [**P**, 895].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 由此也可明白，诸天缺乏阻力。因为彗星沿着倾斜的、有时与行星运行方向相反的路径，非常自由地朝各个方向运动，并且即便这些运动与行星的运行方向相反，也能长久保持其运动。[**P**, 895]。
+    step2: |-
+      > 由此也可明白，诸天缺乏阻力。因为彗星沿着倾斜的、有时与行星运行方向相反的路径，非常自由地朝各个方向运动，并且即便这些运动与行星的运行方向相反，也能长久保持其运动。[**P**, 895]。
   - id: 120
     kind: body
     source: |-
       This was the argument that convinced Huygens when he read the first edition, and it became all the more compelling thereafter as the method was so successful with further comets.[^note-55]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正是这一论证在惠更斯读到第一版时说服了他；此后随着这一方法在更多彗星上取得如此成功，它变得更有说服力。[^note-55]
+    step2: |-
+      正是这一论证在惠更斯读到第一版时说服从了他；此后随着这一方法在更多彗星上如此成功，它变得更有说服力。[^note-55]
   - id: 121
     kind: body
     source: |-
