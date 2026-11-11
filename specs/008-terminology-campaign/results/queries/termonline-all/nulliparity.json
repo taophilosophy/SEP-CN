@@ -1,0 +1,19 @@
+{
+ "key": "nulliparity",
+ "term": "nulliparity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T12:08:09+00:00",
+ "status": "ok",
+ "note": "variant=nulliparity; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "经产",
+   "en": "multiparity",
+   "code": "01.057",
+   "standard": "医学名词 第一分册",
+   "subject": "医学_妇产科学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,348 @@
+{
+ "key": "multi-location",
+ "term": "multi-location",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T11:36:37+00:00",
+ "status": "ok",
+ "note": "variant=multi-location; 审定公布名词库=1730; 海峡两岸名词对照库=478; 其他来源数据库=40; 预公布名词数据库=63; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "选址",
+   "en": "location",
+   "code": "07.0073",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林建筑_设计内容"
+  },
+  {
+   "cn": "区位",
+   "en": "location",
+   "code": "08.007",
+   "standard": "经济学名词",
+   "subject": "经济学_区域经济学"
+  },
+  {
+   "cn": "选址",
+   "en": "location",
+   "code": "09.0671",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理"
+  },
+  {
+   "cn": "区位",
+   "en": "location",
+   "code": "07.0199",
+   "standard": "建筑学名词",
+   "subject": "建筑学_城乡规划_详细规划"
+  },
+  {
+   "cn": "位置",
+   "en": "location",
+   "code": "09.0006",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑设计_总图与场地"
+  },
+  {
+   "cn": "寻位",
+   "en": "locating",
+   "code": "14.0168",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_水上通信"
+  },
+  {
+   "cn": "定域子",
+   "en": "locator",
+   "code": "08.0685",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_结构"
+  },
+  {
+   "cn": "定位器",
+   "en": "locator",
+   "code": "11.0621",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机应用_计算机辅助设计与图形学"
+  },
+  {
+   "cn": "归字",
+   "en": "locate",
+   "code": "09.113",
+   "standard": "语言学名词",
+   "subject": "语言学_音韵学_音类分析和等韵学"
+  },
+  {
+   "cn": "公司总部区位",
+   "en": "headquarter location,HQ location",
+   "code": "18.131",
+   "standard": "地理学名词",
+   "subject": "地理学_经济地理学"
+  },
+  {
+   "cn": "震中位置",
+   "en": "epicentral location; epicenter location",
+   "code": "01.0416",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震科学总论"
+  },
+  {
+   "cn": "现场地址",
+   "en": "current location",
+   "code": "02.056",
+   "standard": "急救医学名词",
+   "subject": "急救医学_急救调度_调度与受理_调度任务"
+  },
+  {
+   "cn": "区位",
+   "en": "location",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "[存储]位置",
+   "en": "location",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "位置",
+   "en": "location",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "寻位",
+   "en": "locating",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "定位",
+   "en": "locating",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "定位器",
+   "en": "locator",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "定位器",
+   "en": "locator",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "总部区位",
+   "en": "headquarter location\",\"HQ location",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "位置配置",
+   "en": "location-allocation",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "位置",
+   "en": "position\",\"location",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "厂址",
+   "en": "plant location",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "位置恒常性",
+   "en": "location constancy",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "多利益攸关方模式",
+   "en": "multi-stakeholderism",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "多体船",
+   "en": "multi-hull",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "基于位置的服务",
+   "en": "Location-Based Service",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "多功能显示器",
+   "en": "multi-function display",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "水源保护",
+   "en": "multi-barrier approach",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "基于位置的社交网络",
+   "en": "location-based social network",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "箭着位置",
+   "en": "location of the arrows",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "统一资源定位符",
+   "en": "uniform resource locator (URL)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "双音多频",
+   "en": "Dual-Tone Multi-Frequency",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "多协议标签交换",
+   "en": "Multi-Protocol Label Switching",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "多强度诱骗态调制方案（中国）",
+   "en": "Multi-intensity Decoy State Modulation Scheme (China)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "全面建成多层次社会保障体系",
+   "en": "comprehensively building a multi-tiered social security system",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "局灶性硬皮病",
+   "en": "located scleroderma",
+   "code": "2.6.3.7",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_系统性硬化症_疾病"
+  },
+  {
+   "cn": "矛盾性阶级位置",
+   "en": "contradictory class location",
+   "code": "2.6.6.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_社会分层理论"
+  },
+  {
+   "cn": "多元分层",
+   "en": "multi-dimension stratification",
+   "code": "2.6.1.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_社会分层"
+  },
+  {
+   "cn": "多中心模式",
+   "en": "multi-nuclei model",
+   "code": "3.4.4.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_城市社会学_城市理论或流派"
+  },
+  {
+   "cn": "多专业服务",
+   "en": "multi-disciplinary service",
+   "code": "4.4.3.33",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施"
+  },
+  {
+   "cn": "多民族社会",
+   "en": "multi-ethnic society",
+   "code": "1.0083",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "燃料破损检测系统",
+   "en": "fuel rupture detection [location] system",
+   "code": "6.6.2.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_核工业的放射防护_核燃料与乏燃料"
+  },
+  {
+   "cn": "伤部构成比",
+   "en": "proportion of locations of injury",
+   "code": "15.3.2.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队卫生统计学_战时卫生统计"
+  },
+  {
+   "cn": "卫生服务费用支付多源性",
+   "en": "multi-payer for health care",
+   "code": "4.1.6.5",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务需求_卫生服务需求"
+  },
+  {
+   "cn": "多民族国家",
+   "en": "multinational state/ multi-ethnic state",
+   "code": "2.0036",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族理论_基本概念"
+  },
+  {
+   "cn": "多联机空调系统",
+   "en": "multi-connected split air conditioning system",
+   "code": "1.8.18.1.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒学_其他"
+  },
+  {
+   "cn": "多成分模型",
+   "en": "multi-component model of body composition",
+   "code": "2.4.2.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_体成分发育"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

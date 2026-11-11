@@ -1,0 +1,348 @@
+{
+ "key": "neighborhood function",
+ "term": "neighborhood function",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T11:57:39+00:00",
+ "status": "ok",
+ "note": "variant=neighborhood function; 审定公布名词库=3164; 海峡两岸名词对照库=776; 其他来源数据库=103; 预公布名词数据库=106; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "邻里",
+   "en": "neighborhood",
+   "code": "13.0013",
+   "standard": "风景园林名词",
+   "subject": "风景园林_其他_景观社会学"
+  },
+  {
+   "cn": "里",
+   "en": "neighborhood",
+   "code": "07.0285",
+   "standard": "建筑学名词",
+   "subject": "建筑学_城乡规划_城市历史与保护"
+  },
+  {
+   "cn": "邻里",
+   "en": "neighborhood",
+   "code": "19.180",
+   "standard": "地理学名词",
+   "subject": "地理学_城市地理学"
+  },
+  {
+   "cn": "邻域",
+   "en": "neighborhood",
+   "code": "08.0446",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_一般拓扑学"
+  },
+  {
+   "cn": "小区游园",
+   "en": "neighborhood garden",
+   "code": "05.0060",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林规划_城乡绿地系统分类"
+  },
+  {
+   "cn": "邻里公园",
+   "en": "neighborhood park",
+   "code": "05.0092",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林规划_城乡绿地系统分类"
+  },
+  {
+   "cn": "邻里单位",
+   "en": "neighborhood unit",
+   "code": "02.094",
+   "standard": "城乡规划学名词",
+   "subject": "城乡规划学_城乡与区域规划理论和方法_城市规划理论与方法"
+  },
+  {
+   "cn": "邻里社区",
+   "en": "neighborhood community",
+   "code": "05.010",
+   "standard": "城乡规划学名词",
+   "subject": "城乡规划学_社区与住房规划_城乡社区发展及规划理论与方法"
+  },
+  {
+   "cn": "邻里效应",
+   "en": "neighborhood effect",
+   "code": "05.011",
+   "standard": "城乡规划学名词",
+   "subject": "城乡规划学_社区与住房规划_城乡社区发展及规划理论与方法"
+  },
+  {
+   "cn": "邻里关系",
+   "en": "neighborhood relationship",
+   "code": "05.076",
+   "standard": "城乡规划学名词",
+   "subject": "城乡规划学_社区与住房规划_城市更新规划"
+  },
+  {
+   "cn": "街坊花园",
+   "en": "neighborhood garden",
+   "code": "09.090",
+   "standard": "林学名词",
+   "subject": "林学_风景园林_风景园林规划与设计"
+  },
+  {
+   "cn": "邻里单位",
+   "en": "neighborhood unit",
+   "code": "07.0296",
+   "standard": "建筑学名词",
+   "subject": "建筑学_城乡规划_城市历史与保护"
+  },
+  {
+   "cn": "邻域函数",
+   "en": "neighborhood functions",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "邻里",
+   "en": "neighborhood",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "邻域",
+   "en": "neighborhood",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "相邻种群大小",
+   "en": "neighborhood size",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "相邻种群大小",
+   "en": "neighborhood size",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "邻里单位",
+   "en": "neighborhood unit",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "邻里演变",
+   "en": "neighborhood evolution",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "邻里中心",
+   "en": "neighborhood center",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "平衡邻里",
+   "en": "balanced neighborhood",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "邻域分析",
+   "en": "neighborhood analysis",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "邻域统计",
+   "en": "neighborhood statistics",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "邻元法",
+   "en": "neighborhood method",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "智能小区管理系统",
+   "en": "smart neighborhood management system",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "智能小区防盗报警系统",
+   "en": "smart neighborhood anti-theft alarm system",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "周边命运共同体",
+   "en": "a neighborhood community with a shared future",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "函数",
+   "en": "function",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "官能度",
+   "en": "functionality",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "连续函数",
+   "en": "continuous function",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "功函数",
+   "en": "Work function",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "S型函数",
+   "en": "sigmoid function",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "波函数",
+   "en": "Wave function",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "光滑函数",
+   "en": "Smooth function",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "幂函数",
+   "en": "Power function",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "可忽略函数",
+   "en": "Negligible function",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "邻里",
+   "en": "neighborhood",
+   "code": "2.5.3.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_群体和组织_聚类群体"
+  },
+  {
+   "cn": "保甲制",
+   "en": "neighborhood administration system",
+   "code": "3.4.12.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_城市社会学_中国古代城市"
+  },
+  {
+   "cn": "功能主义",
+   "en": "functionalism",
+   "code": "4.2.8.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_人类学理论"
+  },
+  {
+   "cn": "滞留函数",
+   "en": "retention function",
+   "code": "6.3.2.37",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢"
+  },
+  {
+   "cn": "排除函数",
+   "en": "excretion function",
+   "code": "6.3.2.45",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢"
+  },
+  {
+   "cn": "链接函数",
+   "en": "link function",
+   "code": "1.2.5.101",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "社会功能",
+   "en": "social function",
+   "code": "2.1.3.22",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会存在"
+  },
+  {
+   "cn": "教育功能",
+   "en": "educational function",
+   "code": "4.4.13.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作督导"
+  },
+  {
+   "cn": "行政功能",
+   "en": "administrative function",
+   "code": "4.4.13.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作督导"
+  },
+  {
+   "cn": "支持功能",
+   "en": "supportive function",
+   "code": "4.4.13.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作督导"
+  },
+  {
+   "cn": "生产函数",
+   "en": "production function",
+   "code": "5.2.7.4",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务生产"
+  },
+  {
+   "cn": "成本函数",
+   "en": "cost function",
+   "code": "5.3.5",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务供给成本"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

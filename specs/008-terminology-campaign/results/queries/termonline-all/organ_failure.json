@@ -1,0 +1,348 @@
+{
+ "key": "organ failure",
+ "term": "organ failure",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T12:39:42+00:00",
+ "status": "ok",
+ "note": "variant=organ failure; 审定公布名词库=2001; 海峡两岸名词对照库=649; 其他来源数据库=92; 预公布名词数据库=169; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "内陷",
+   "en": "organ failure",
+   "code": "01.330",
+   "standard": "中医药学名词（2013）",
+   "subject": "中医药学_外科学_疾病"
+  },
+  {
+   "cn": "多器官功能衰竭",
+   "en": "multiple organ failure",
+   "code": "10.059",
+   "standard": "医学名词 第六分册",
+   "subject": "医学_急诊医学"
+  },
+  {
+   "cn": "多器官功能衰竭肺[功能]衰竭",
+   "en": "respiretory failure of multiple organ failure",
+   "code": "04.0338",
+   "standard": "感染病学名词",
+   "subject": "感染病学_特殊感染及感染相关问题_多器官功能衰竭"
+  },
+  {
+   "cn": "多器官功能衰竭肾[功能]衰竭",
+   "en": "renal failure of multiple organ failure",
+   "code": "04.0339",
+   "standard": "感染病学名词",
+   "subject": "感染病学_特殊感染及感染相关问题_多器官功能衰竭"
+  },
+  {
+   "cn": "多器官功能衰竭肝[功能]衰竭",
+   "en": "liver failure of multiple organ failure",
+   "code": "04.0340",
+   "standard": "感染病学名词",
+   "subject": "感染病学_特殊感染及感染相关问题_多器官功能衰竭"
+  },
+  {
+   "cn": "多器官功能衰竭胃肠道功能衰竭",
+   "en": "gastrointestinal failure of multiple organ failure",
+   "code": "04.0341",
+   "standard": "感染病学名词",
+   "subject": "感染病学_特殊感染及感染相关问题_多器官功能衰竭"
+  },
+  {
+   "cn": "多器官功能衰竭凝血功能衰竭",
+   "en": "coagulation failure of multiple organ failure",
+   "code": "04.0342",
+   "standard": "感染病学名词",
+   "subject": "感染病学_特殊感染及感染相关问题_多器官功能衰竭"
+  },
+  {
+   "cn": "多器官功能衰竭心脏[功能]衰竭",
+   "en": "heart failure of multiple organ failure",
+   "code": "04.0343",
+   "standard": "感染病学名词",
+   "subject": "感染病学_特殊感染及感染相关问题_多器官功能衰竭"
+  },
+  {
+   "cn": "多器官功能衰竭",
+   "en": "multiple organ failure,MOF",
+   "code": "01.111",
+   "standard": "烧伤学名词",
+   "subject": "烧伤学_烧伤概论_烧伤后病理生理变化"
+  },
+  {
+   "cn": "多器官功能衰竭",
+   "en": "multiple organ failure, MOF",
+   "code": "04.0325",
+   "standard": "感染病学名词",
+   "subject": "感染病学_特殊感染及感染相关问题_多器官功能衰竭"
+  },
+  {
+   "cn": "多器官功能衰竭",
+   "en": "multiple organ failure;MOF",
+   "code": "17.083",
+   "standard": "神经外科学名词",
+   "subject": "医学_神经外科学_神经外科重症监护_神经外科重症常见并发症及结局"
+  },
+  {
+   "cn": "序贯性器官功能衰竭评分",
+   "en": "sequential organ failure assessment;SOFA",
+   "code": "07.055",
+   "standard": "普通外科学名词",
+   "subject": "医学_普通外科学_危重疾病"
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "故障",
+   "en": "failure",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "器官",
+   "en": "organ",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "器官",
+   "en": "organ",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "管风琴",
+   "en": "organ",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "组织者",
+   "en": "organizer",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "生物",
+   "en": "organism",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "组织者",
+   "en": "organizer",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "有机体",
+   "en": "organism",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "组织者",
+   "en": "organizer",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "排卵障碍",
+   "en": "ovulation failure",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "提取失败",
+   "en": "retrieval failure",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "比赛组织者",
+   "en": "organizer",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_沙滩排球名词"
+  },
+  {
+   "cn": "失效率",
+   "en": "Failure rate",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "市场失灵",
+   "en": "market failure",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "市场失灵",
+   "en": "market failure",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "剪切强度",
+   "en": "structural failure",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "微血管",
+   "en": "Circumventricular organs",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "管状器官",
+   "en": "tubular organs",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "呼吸器官",
+   "en": "respiratory organs",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "医学词汇_其他医学词汇"
+  },
+  {
+   "cn": "甲型肝炎",
+   "en": "Acute liver failure",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "DNS解析故障",
+   "en": "DNS resolution failure",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据组织",
+   "en": "Data Organization",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "扁平化组织",
+   "en": "flat organization",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "放射性多器官衰竭",
+   "en": "radiation-induced multiple organ failure",
+   "code": "4.2.1.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射性疾病"
+  },
+  {
+   "cn": "他组织",
+   "en": "organization",
+   "code": "2.5.12.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_群体和组织_组织过程"
+  },
+  {
+   "cn": "变色失败",
+   "en": "discoloration failure",
+   "code": "3.1.6.6.6",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "市场失灵",
+   "en": "market failure",
+   "code": "4.3.1.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题"
+  },
+  {
+   "cn": "市场失灵",
+   "en": "market failure",
+   "code": "6.3.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场失灵"
+  },
+  {
+   "cn": "政府失灵",
+   "en": "government failure",
+   "code": "6.4.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用"
+  },
+  {
+   "cn": "避孕失败",
+   "en": "contraceptive failure",
+   "code": "5.2.1.6",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_生育调节_避孕"
+  },
+  {
+   "cn": "器官剂量",
+   "en": "organ dose",
+   "code": "3.3.1.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量"
+  },
+  {
+   "cn": "源器官",
+   "en": "source organ",
+   "code": "6.3.2.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢"
+  },
+  {
+   "cn": "靶器官",
+   "en": "target organ",
+   "code": "6.3.2.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢"
+  },
+  {
+   "cn": "免疫器官",
+   "en": "immune organ",
+   "code": "1.3.2.1",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_免疫器官"
+  },
+  {
+   "cn": "器官捐献",
+   "en": "organ donation",
+   "code": "9.045",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_器官移植伦理"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

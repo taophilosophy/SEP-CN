@@ -1,0 +1,348 @@
+{
+ "key": "multi-agent system",
+ "term": "multi-agent system",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T11:36:37+00:00",
+ "status": "ok",
+ "note": "variant=multi-agent system; 审定公布名词库=9353; 海峡两岸名词对照库=2755; 其他来源数据库=531; 预公布名词数据库=456; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "多智能体系统",
+   "en": "multi-agent system,MAS",
+   "code": "08.0147",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_多智能体系统"
+  },
+  {
+   "cn": "多智能体",
+   "en": "multi-agent",
+   "code": "11.1351",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机应用_基于网络的信息服务"
+  },
+  {
+   "cn": "多智能体系统",
+   "en": "multi-agent system，MAS",
+   "code": "09.017",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_智能化工制造系统"
+  },
+  {
+   "cn": "多智能体系统结构框架",
+   "en": "multi-agent system framework",
+   "code": "09.018",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_智能化工制造系统"
+  },
+  {
+   "cn": "多智能体学习",
+   "en": "multi-agent learning",
+   "code": "08.0203",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_多智能体系统"
+  },
+  {
+   "cn": "多智能体推理",
+   "en": "multi-agent reasoning",
+   "code": "08.0207",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_多智能体系统"
+  },
+  {
+   "cn": "多代理仿真",
+   "en": "multi-agent simulation",
+   "code": "03.0711",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_系统工程"
+  },
+  {
+   "cn": "多智能体合作环境",
+   "en": "multi-agent cooperation environment",
+   "code": "08.0206",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_多智能体系统"
+  },
+  {
+   "cn": "多组分体系",
+   "en": "multi-component system",
+   "code": "04.113",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程综合"
+  },
+  {
+   "cn": "多京制",
+   "en": "multi-capital system",
+   "code": "06.034",
+   "standard": "城乡规划学名词",
+   "subject": "城乡规划学_中国城市建设史和遗产保护规划_中国城市建设史"
+  },
+  {
+   "cn": "多元系",
+   "en": "multi-component system",
+   "code": "04.0017",
+   "standard": "冶金学名词",
+   "subject": "冶金学_冶金物理化学_冶金过程热力学"
+  },
+  {
+   "cn": "多相系",
+   "en": "multi-phase system",
+   "code": "05.0317",
+   "standard": "物理学名词",
+   "subject": "物理学_热学、统计物理学_热学、热力学"
+  },
+  {
+   "cn": "多相系统",
+   "en": "multi-phase system",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "基于主体[的]系统",
+   "en": "agent-based system",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "多波束测深系统",
+   "en": "multi-beam bathymetric system",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "多用户操作系统",
+   "en": "multi-user operating system",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "多波束测深系统",
+   "en": "multi-beam sounding system",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "多点系泊系统",
+   "en": "multi-point mooring system",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "多浮筒系泊系统",
+   "en": "multi-buoy mooring system",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "多摄影机系统",
+   "en": "multiple-camera system\",\"multi-camera system",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "代理",
+   "en": "agent",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "主体",
+   "en": "agent",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "代理人",
+   "en": "agent",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "多进口脉冲转换器系统",
+   "en": "multi-entry pulse converter system",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "多利益攸关方模式",
+   "en": "multi-stakeholderism",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "多体船",
+   "en": "multi-hull",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "用户代理",
+   "en": "user agent",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "膨松剂",
+   "en": "Leavening agent",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "行为智能体",
+   "en": "behavioral agent",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "离散剂",
+   "en": "chaotropic agent",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "抗心律失常药",
+   "en": "Antiarrhythmic agents",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "多功能显示器",
+   "en": "multi-function display",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "水源保护",
+   "en": "multi-barrier approach",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "全面建成多层次社会保障体系",
+   "en": "comprehensively building a multi-tiered social security system",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "5-1阵型",
+   "en": "5-1 system",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_排球名词"
+  },
+  {
+   "cn": "双音多频",
+   "en": "Dual-Tone Multi-Frequency",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "全身中毒性毒剂",
+   "en": "systemic agents",
+   "code": "10.5.7",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_化学武器医学防护学_化学战剂"
+  },
+  {
+   "cn": "代理人",
+   "en": "agent",
+   "code": "4.0569999999999995",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医疗人际关系"
+  },
+  {
+   "cn": "多联机空调系统",
+   "en": "multi-connected split air conditioning system",
+   "code": "1.8.18.1.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒学_其他"
+  },
+  {
+   "cn": "抗寄生虫剂",
+   "en": "antiparasitic agent",
+   "code": "2.2.2.4",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品化学性危害因素"
+  },
+  {
+   "cn": "食用胶",
+   "en": "gelatinizing agent",
+   "code": "5.17.27",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_糖果"
+  },
+  {
+   "cn": "灭菌剂",
+   "en": "sterilizing agent",
+   "code": "3.1.1.11",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "抗菌剂",
+   "en": "antibacterial agent",
+   "code": "3.1.13.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "抑菌剂",
+   "en": "bacteriostatic agent",
+   "code": "3.1.14",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "清洁剂",
+   "en": "cleaning agent",
+   "code": "3.2.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒相关用品"
+  },
+  {
+   "cn": "崩解剂",
+   "en": "disintegrating agent",
+   "code": "6.1.14.3",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_理化检验"
+  },
+  {
+   "cn": "抗泡沫剂",
+   "en": "antifoam agent",
+   "code": "6.2.27.22",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "络合剂",
+   "en": "complexing agent",
+   "code": "6.3.3.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内污染医学处理"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

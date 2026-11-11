@@ -1,0 +1,138 @@
+{
+ "key": "myeloproliferative neoplasms",
+ "term": "myeloproliferative neoplasms",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T11:47:08+00:00",
+ "status": "ok",
+ "note": "variant=myeloproliferative neoplasms; 审定公布名词库=254; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=3; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "骨髓增殖性肿瘤",
+   "en": "myeloproliferative neoplasm,MPN",
+   "code": "04.622",
+   "standard": "老年医学名词",
+   "subject": "老年医学_老年临床医学_老年血液系统疾病"
+  },
+  {
+   "cn": "骨髓增生性肿瘤",
+   "en": "myeloproliferative neoplasm; MPN",
+   "code": "14.10.5.6",
+   "standard": "肝病学名词",
+   "subject": "肝病学_小儿肝病_儿童系统疾病肝脏受累"
+  },
+  {
+   "cn": "骨髓增殖性肿瘤",
+   "en": "myeloproliferative neoplasm;MPN",
+   "code": "7.001",
+   "standard": "血液学名词",
+   "subject": "血液学_髓系肿瘤_骨髓增殖性肿瘤"
+  },
+  {
+   "cn": "骨髓增生性疾病",
+   "en": "myeloproliferative diseases",
+   "code": "04.084",
+   "standard": "医学名词 第一分册",
+   "subject": "医学_血液病学"
+  },
+  {
+   "cn": "赘生物",
+   "en": "neoplasm",
+   "code": "06.304",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞分化与发育"
+  },
+  {
+   "cn": "新生物",
+   "en": "neoplasm",
+   "code": "03.290",
+   "standard": "医学名词 第三分册",
+   "subject": "医学_病理学"
+  },
+  {
+   "cn": "卵巢肿瘤",
+   "en": "ovarian neoplasm",
+   "code": "4.139",
+   "standard": "妇产科学名词",
+   "subject": "妇科肿瘤或瘤样病变_卵巢肿瘤"
+  },
+  {
+   "cn": "耳廓肿瘤",
+   "en": "auricula neoplasm",
+   "code": "1.10.1.1",
+   "standard": "耳鼻咽喉头颈外科学名词",
+   "subject": "耳科_耳肿瘤及手术"
+  },
+  {
+   "cn": "前列腺肿瘤",
+   "en": "prostate neoplasm",
+   "code": "10.053",
+   "standard": "男科及性医学名词",
+   "subject": "男科及性医学_前列腺疾病"
+  },
+  {
+   "cn": "阴道肿瘤",
+   "en": "vaginal neoplasm",
+   "code": "01.135",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医产科学"
+  },
+  {
+   "cn": "种瘤",
+   "en": "seed neoplasm ",
+   "code": "4.0006",
+   "standard": "草学名词",
+   "subject": "草学_种子和育种_草种子学"
+  },
+  {
+   "cn": "阑尾肿瘤",
+   "en": "appendiceal neoplasm",
+   "code": "5.066",
+   "standard": "消化病学名词",
+   "subject": "消化病_阑尾_阑尾疾病"
+  },
+  {
+   "cn": "赘生物",
+   "en": "neoplasm",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "新生物，赘生物",
+   "en": "neoplasm\",\"neoformation",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "赘生物（=新生物）",
+   "en": "neoplasm\",\"neoformation",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "放射性肿瘤",
+   "en": "radiogenic neoplasm",
+   "code": "4.2.6.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射性疾病_随机效应"
+  },
+  {
+   "cn": "职业性放射性肿瘤",
+   "en": "occupational radiogenic neoplasm",
+   "code": "4.2.6.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射性疾病_随机效应"
+  },
+  {
+   "cn": "放射致骨和关节恶性肿瘤",
+   "en": "radiation induced bone and joint malignant neoplasm",
+   "code": "4.2.6.2.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射性疾病_随机效应"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

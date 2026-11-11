@@ -1,0 +1,348 @@
+{
+ "key": "multiset rewriting",
+ "term": "multiset rewriting",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T11:39:38+00:00",
+ "status": "ok",
+ "note": "variant=multiset rewriting; 审定公布名词库=114; 海峡两岸名词对照库=22; 其他来源数据库=29; 预公布名词数据库=31; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "改写",
+   "en": "rewrite",
+   "code": "4.192",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻编辑"
+  },
+  {
+   "cn": "重写",
+   "en": "rewrite",
+   "code": "04.1357",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机硬件_计算机管理"
+  },
+  {
+   "cn": "查询重写",
+   "en": "query rewriting",
+   "code": "07.0179",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库管理系统及其实现技术"
+  },
+  {
+   "cn": "重写规则",
+   "en": "rewriting rules",
+   "code": "11.071",
+   "standard": "语言学名词",
+   "subject": "语言学_计算语言学_形式化方法"
+  },
+  {
+   "cn": "重写规则",
+   "en": "rewriting rule",
+   "code": "05.019",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制"
+  },
+  {
+   "cn": "可录类光盘",
+   "en": "recordable & rewritable disc ",
+   "code": "04.03.003",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_音像复制_光盘复制"
+  },
+  {
+   "cn": "可擦重写光盘",
+   "en": "rewrite erasable disc",
+   "code": "23.078",
+   "standard": "光学名词",
+   "subject": "光学_光全息与光存储技术"
+  },
+  {
+   "cn": "CD光盘",
+   "en": "compact disc rewritable;CD RW",
+   "code": "04.03.005",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_音像复制_光盘复制"
+  },
+  {
+   "cn": "可重写DVD光盘",
+   "en": "digital versatile disc rewritable;DVD RW",
+   "code": "04.03.008",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_音像复制_光盘复制"
+  },
+  {
+   "cn": "可重写光碟",
+   "en": "CD/DVD-rewritable,CD/DVD-RW",
+   "code": "04.0574",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机硬件_存储设备"
+  },
+  {
+   "cn": "可录类光盘生产",
+   "en": "replication of (recorder) recordable and rewritable disc ",
+   "code": "04.03.099",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_音像复制_光盘复制"
+  },
+  {
+   "cn": "可录类光盘内容复制",
+   "en": "content replication of recorder and rewritable disc",
+   "code": "04.03.100",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_音像复制_光盘复制"
+  },
+  {
+   "cn": "多重集",
+   "en": "multiset",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "重写",
+   "en": "rewrite",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "重写规则[系统]",
+   "en": "rewriting rule [system]",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "条件项重写系统",
+   "en": "conditional term rewriting system",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "可重写光碟",
+   "en": "CD-rewritable\",\"CD-RW",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "多重态",
+   "en": "multiplet",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "多重峰，多重态",
+   "en": "multiplet",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "多体",
+   "en": "multimer",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "多用户",
+   "en": "multiuser",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "阶梯减光板",
+   "en": "multistep attenuator",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "多级调制",
+   "en": "multistep modulation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "多用户系统",
+   "en": "multiuser system",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "文笔",
+   "en": "Writing and Writing Technique",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "文章",
+   "en": "Literary Writing",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "以文为戏",
+   "en": "Playful Writing",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "记录",
+   "en": "writing down",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "洗炼",
+   "en": "Make Writing Succinct",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "饰羽尚画",
+   "en": "Inappropriate Embellishment of Writing",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "桐城派",
+   "en": "The Tongcheng School of Writing",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "随物赋形",
+   "en": "Writing That Flows like Water",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "辞尚体要",
+   "en": "Succinctness Is Valued in Writing.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "拘挛补衲",
+   "en": "Florid Prose and Stilted Writing",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "以文为词",
+   "en": "Writing Ci Poems as Prose",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "公安派",
+   "en": "The Gong’an School of Literary Writing",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "拉祜文",
+   "en": "Lahu writing",
+   "code": "5.0379",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族文字"
+  },
+  {
+   "cn": "苗文",
+   "en": "Miao writing",
+   "code": "5.0382",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族文字"
+  },
+  {
+   "cn": "教室书写板",
+   "en": "writing board",
+   "code": "10.4.1.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校卫生监督_学校教学环境和生活设施卫生监督"
+  },
+  {
+   "cn": "藏文",
+   "en": "Tibetan writing",
+   "code": "5.0391",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族文字"
+  },
+  {
+   "cn": "傈僳文",
+   "en": "Lisu writing",
+   "code": "5.0381",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族文字"
+  },
+  {
+   "cn": "柯尔克孜文",
+   "en": "Kirgiz writing",
+   "code": "5.0403",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族文字"
+  },
+  {
+   "cn": "壮文",
+   "en": "Zhuang writing",
+   "code": "5.0388",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族文字"
+  },
+  {
+   "cn": "佤文",
+   "en": "Va writing",
+   "code": "5.0386",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族文字"
+  },
+  {
+   "cn": "文字",
+   "en": "script; writing",
+   "code": "5.0193",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_语言状况与规划"
+  },
+  {
+   "cn": "黎文",
+   "en": "Li writing",
+   "code": "5.038",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族文字"
+  },
+  {
+   "cn": "纳西文",
+   "en": "Naxi writing",
+   "code": "5.0383",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族文字"
+  },
+  {
+   "cn": "土文",
+   "en": "Monguor writing",
+   "code": "5.0385",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_少数民族文字"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
