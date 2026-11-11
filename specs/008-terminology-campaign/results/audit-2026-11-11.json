@@ -6,10 +6,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "查无": 2747,
-  "不一致": 512,
-  "一致": 725,
-  "未查证": 5403
+  "查无": 2823,
+  "不一致": 524,
+  "一致": 743,
+  "未查证": 5297
  },
  "results": [
   {
@@ -26911,9 +26911,11 @@
    "term": "dveṣa",
    "trans": "瞋",
    "basis": "佛典古译通行（aversion；亦作“憎”）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -26921,9 +26923,11 @@
    "term": "dyaṇuka",
    "trans": "二微",
    "basis": "胜论原子论通行（二极微之合；与 tryaṇuka 三微对举）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -26955,9 +26959,24 @@
    "term": "dynamic logic",
    "trans": "动态逻辑",
    "basis": "逻辑学通行译法（DL）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "动态逻辑",
+     "en": "dynamic logic",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "量子动态逻辑",
+     "en": "quantum dynamic logic",
+     "source": "计算机科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -26965,9 +26984,11 @@
    "term": "dynamic rationality",
    "trans": "动态理性",
    "basis": "构词直译（Dietrich & List 2024 语境）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -26975,9 +26996,18 @@
    "term": "dynamic semantics",
    "trans": "动态语义",
    "basis": "形式语义通行译法；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "动态语义",
+     "en": "dynamic semantics",
+     "source": "计算机科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -27279,9 +27309,24 @@
    "term": "economy principle",
    "trans": "经济原则",
    "basis": "学界通行（信念修正文献，最小改动原则）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "经济原则",
+     "en": "economy principle",
+     "source": "语言学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "经济原则",
+     "en": "economy principle",
+     "source": "民族学与文化学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -27544,9 +27589,11 @@
    "term": "effective history",
    "trans": "效果历史",
    "basis": "伽达默尔诠释学核心术语；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -27621,9 +27668,11 @@
    "term": "effective prayer",
    "trans": "有效祷告",
    "basis": "构词直译（本词条术语：使神因祷告而行动，即 difference-making）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -27812,9 +27861,11 @@
    "term": "egoistic",
    "trans": "利己的",
    "basis": "伦理学通行（与“利他的”对举）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -27846,9 +27897,11 @@
    "term": "Eigenheit",
    "trans": "己有性",
    "basis": "B 档：词面直译（eigen 己有；作者英译 ownness）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -28078,9 +28131,78 @@
    "term": "electric shock",
    "trans": "电击",
    "basis": "实验心理学通行译法；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "电击",
+     "en": "electric shock",
+     "source": "电力名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "触电",
+     "en": "electric shock",
+     "source": "化工名词（四）安全·环保·可持续发展"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "电休克",
+     "en": "electric shock",
+     "source": "烧伤学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "电击",
+     "en": "electric shock",
+     "source": "建筑学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "电击",
+     "en": "electric shock",
+     "source": "电气工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "电休克治疗",
+     "en": "electric shock therapy",
+     "source": "精神医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "电击伤",
+     "en": "electric shock injury",
+     "source": "烧伤学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "触电保安器",
+     "en": "electric shock protector",
+     "source": "铁道科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "电休克治疗",
+     "en": "electric shock therapy",
+     "source": "医学名词 第四分册"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "电休克疗法",
+     "en": "Electric Shock Therapy",
+     "source": "世界历史名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "电击实验",
+     "en": "electric shock experiment",
+     "source": "海峡两岸心理学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -28263,9 +28385,11 @@
    "term": "elementary linear logic",
    "trans": "初等线性逻辑",
    "basis": "Girard 术语直译（ELL）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -28273,9 +28397,11 @@
    "term": "elementary understanding",
    "trans": "初级理解",
    "basis": "狄尔泰《历史世界的建构》通行（elementares Verstehen；与高级理解对举）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -28398,8 +28524,21 @@
    "term": "emanation",
    "trans": "流溢",
    "basis": "新柏拉图主义研究通行",
-   "status": "查无",
-   "hits": [],
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "射气",
+     "en": "emanation",
+     "source": "放射医学与防护名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "射气",
+     "en": "emanation",
+     "source": "海峡两岸化学名词"
+    }
+   ],
    "providers": [
     "termonline-all"
    ]
@@ -28723,9 +28862,11 @@
    "term": "Empfindung",
    "trans": "感觉",
    "basis": "学界通行（德国哲学 Empfindung 感觉，与 Gefühl 情感分义）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -28733,19 +28874,30 @@
    "term": "Empfindungsrealität",
    "trans": "感觉实在性",
    "basis": "B 档：词面直译（作者英译 a reality of feeling）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
    "line": 1410,
    "term": "empirical adequacy",
-   "trans": "经验充足性（经验上充足）",
-   "basis": "学界通行（van Fraassen 1980）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "trans": "经验适当性（亦作“经验充足性”）",
+   "basis": "审定名词库（termonline-all·自然辩证法名词，2026-11-11 浏览器通道凭证）；van Fraassen 1980",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "经验适当性",
+     "en": "empirical adequacy",
+     "source": "自然辩证法名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -28765,9 +28917,24 @@
    "term": "empirical deduction",
    "trans": "经验性演绎",
    "basis": "康德研究通行（与先验演绎对举）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "集体消费理论 collective consumption",
+     "en": null,
+     "source": "社会学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "净人口再生产率net reproductive rate",
+     "en": null,
+     "source": "社会学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -28794,9 +28961,11 @@
    "term": "empirical moral psychology",
    "trans": "经验道德心理学",
    "basis": "本词条主题词（empirical 取“经验的”，与“扶手椅式”对举）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -28804,8 +28973,21 @@
    "term": "empirical psychology",
    "trans": "经验心理学",
    "basis": "学界通行汉译",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "经验心理学",
+     "en": "empirical psychology",
+     "source": "心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "经验心理学",
+     "en": "empirical psychology",
+     "source": "海峡两岸心理学名词"
+    }
+   ],
    "providers": [
     "termonline-all"
    ]
@@ -28925,9 +29107,11 @@
    "term": "emptiness charge",
    "trans": "空洞指责",
    "basis": "学界通行（对康德道德哲学“空洞”的指控）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -29002,9 +29186,24 @@
    "term": "enactivism",
    "trans": "生成论",
    "basis": "认知科学哲学通行（enactivism 生成进路）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "集体消费理论 collective consumption",
+     "en": null,
+     "source": "社会学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "净人口再生产率net reproductive rate",
+     "en": null,
+     "source": "社会学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -29024,9 +29223,11 @@
    "term": "end extension",
    "trans": "真端扩张",
    "basis": "集合论模型论通行译法；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -29044,9 +29245,30 @@
    "term": "endogenous",
    "trans": "内源的",
    "basis": "学界通行（生物学与医学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "内源",
+     "en": "endogenous",
+     "source": "动物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "内生的",
+     "en": "endogenous",
+     "source": "经济学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "内源",
+     "en": "endogenous",
+     "source": "海峡两岸动物学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -29085,9 +29307,11 @@
    "term": "endurantism",
    "trans": "延存论",
    "basis": "形而上学通行（与 perdurantism 持续论 对举）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -29119,9 +29343,11 @@
    "term": "engi / pratītya-samutpāda",
    "trans": "缘起",
    "basis": "佛教汉语传统译名",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -29208,9 +29434,11 @@
    "term": "ens simpliciter / ens quodammodo",
    "trans": "绝对意义的存在者／某种意义的存在者",
    "basis": "学界通行（中世纪存在论）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -29442,8 +29670,129 @@
    "term": "entropy",
    "trans": "熵",
    "basis": "学界惯例（信息论与统计力学通行）；凭证 2026-11-08",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "熵",
+     "en": "entropy",
+     "source": "新闻学与传播学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "熵",
+     "en": "entropy",
+     "source": "地球物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "熵",
+     "en": "entropy",
+     "source": "动物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "熵",
+     "en": "entropy",
+     "source": "经济学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "熵",
+     "en": "entropy",
+     "source": "电力名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "熵",
+     "en": "entropy",
+     "source": "冶金学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "熵",
+     "en": "entropy",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "熵",
+     "en": "entropy",
+     "source": "化工名词(三)化学工程基础"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "熵",
+     "en": "entropy",
+     "source": "生物物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "熵",
+     "en": "entropy",
+     "source": "化学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "熵",
+     "en": "entropy",
+     "source": "建筑学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "熵",
+     "en": "entropy",
+     "source": "地理信息系统名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "熵",
+     "en": "entropy",
+     "source": "海峡两岸大气科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "熵",
+     "en": "entropy",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "熵",
+     "en": "entropy",
+     "source": "海峡两岸材料科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "熵",
+     "en": "entropy",
+     "source": "海峡两岸化学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "熵",
+     "en": "entropy",
+     "source": "海峡两岸生态学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "熵",
+     "en": "entropy",
+     "source": "海峡两岸地理信息系统名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "熵",
+     "en": "entropy",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "熵",
+     "en": "entropy",
+     "source": "海峡两岸动物学名词"
+    }
+   ],
    "providers": [
     "termonline-all"
    ]
@@ -29528,9 +29877,11 @@
    "term": "epiclesis",
    "trans": "呼求祷文",
    "basis": "东正教礼仪学通行汉译（圣体礼仪中呼求圣灵之祷文）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -29648,9 +29999,48 @@
    "term": "epigenomics",
    "trans": "表观基因组学",
    "basis": "学界通行；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "表观组学",
+     "en": "epigenomics",
+     "source": "农学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "表观基因组学",
+     "en": "epigenomics",
+     "source": "生物化学与分子生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "表观基因组学",
+     "en": "epigenomics",
+     "source": "医学遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "表观基因组学",
+     "en": "epigenomics",
+     "source": "化工名词（六）生物化工"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "表观基因组学",
+     "en": "epigenomics",
+     "source": "遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "表观基因组学",
+     "en": "epigenomics",
+     "source": "海峡两岸遗传学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -29773,9 +30163,11 @@
    "term": "epistemic community",
    "trans": "认知共同体",
    "basis": "学界通行",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -29783,9 +30175,11 @@
    "term": "epistemic constraint",
    "trans": "认知约束",
    "basis": "学界惯例（Kelly & McGrath 2010 语境）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -29793,9 +30187,11 @@
    "term": "epistemic contact",
    "trans": "认知接触",
    "basis": "学界无定译，取直译（柯克本词条术语）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -29815,9 +30211,11 @@
    "term": "epistemic entrenchment",
    "trans": "认知固化",
    "basis": "学界惯例（AGM 文献；亦译“知识固着”，本文统一“认知固化”）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -30010,9 +30408,11 @@
    "term": "epistemic transparency",
    "trans": "认知透明性",
    "basis": "学界通行",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -30032,9 +30432,11 @@
    "term": "epistemically justified",
    "trans": "认知上得到证成的",
    "basis": "副词性修饰语，与名词 epistemic justification＝知识证成（justep-coherence 登记）区分；与同族 epistemic=认知（认知谦逊／认知准确）一致；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -30110,9 +30512,11 @@
    "term": "epistemology of law",
    "trans": "法律认识论",
    "basis": "学界通行",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -30144,9 +30548,11 @@
    "term": "epithelial",
    "trans": "上皮",
    "basis": "学界通行（组织学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -30735,9 +31141,11 @@
    "term": "Estates Assembly",
    "trans": "等级议会",
    "basis": "学界通行（Ständeversammlung）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -30757,9 +31165,11 @@
    "term": "eternal now",
    "trans": "永恒的当下",
    "basis": "学界通行（神学永恒论）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -30850,9 +31260,11 @@
    "term": "ethical egoism",
    "trans": "伦理利己主义",
    "basis": "伦理学通行（egoism 已登“利己主义”）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -30891,9 +31303,11 @@
    "term": "Ethical Life",
    "trans": "伦理生活",
    "basis": "学界通行汉译（Sittlichkeit；亦作“伦理”）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -30935,9 +31349,11 @@
    "term": "etiological (aspect of explanation)",
    "trans": "病因学",
    "basis": "本库首译（Salmon 之 etiological/constitutive 对）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -30945,9 +31361,72 @@
    "term": "etiology",
    "trans": "病因学",
    "basis": "学界通行（医学；亦作“病因”语境义）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "病因学",
+     "en": "etiology",
+     "source": "兽医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "病因学说",
+     "en": "etiology",
+     "source": "兽医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "病原学",
+     "en": "etiology ",
+     "source": "草学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "病因学",
+     "en": "etiology",
+     "source": "病理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "病因",
+     "en": "etiology",
+     "source": "呼吸病学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "病因学说",
+     "en": "etiology",
+     "source": "中医药学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "病因学",
+     "en": "etiology",
+     "source": "昆虫学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "病因学",
+     "en": "etiology",
+     "source": "医学名词 第三分册"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "病因学",
+     "en": "etiology",
+     "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "病因学",
+     "en": "etiology",
+     "source": "海峡两岸昆虫学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -31286,9 +31765,11 @@
    "term": "evidentialist reliabilism",
    "trans": "证据主义式可靠主义",
    "basis": "Comesaña 术语；自译裁定（evidentialism 证据主义 + reliabilism 可靠主义组合）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -31501,9 +31982,11 @@
    "term": "evolutionary medicine",
    "trans": "演化医学",
    "basis": "学界通行（进化生物学与医学交叉）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -31583,9 +32066,11 @@
    "term": "excellency",
    "trans": "卓越（性）",
    "basis": "学界通行译法（爱德华兹《心灵》术语 excellency；与 beauty 美并用）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -31629,9 +32114,11 @@
    "term": "exchange principle",
    "trans": "交换原则",
    "basis": "学界通行汉译（阿多诺研究通行）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -31639,9 +32126,11 @@
    "term": "exchange society",
    "trans": "交换社会",
    "basis": "学界通行汉译（阿多诺研究通行）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -31985,9 +32474,11 @@
    "term": "Existenzialfragen",
    "trans": "实存问题",
    "basis": "B 档：词面直译（Existenzial 实存的；作者英译 existential questions）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -32019,9 +32510,11 @@
    "term": "exit option",
    "trans": "退出选项",
    "basis": "Dana 等 2006 术语（costly exit）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -32029,9 +32522,24 @@
    "term": "exogenous",
    "trans": "外源的",
    "basis": "学界通行（生物学与医学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "外源",
+     "en": "exogenous",
+     "source": "动物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "外源[的]",
+     "en": "exogenous",
+     "source": "海峡两岸动物学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -32530,9 +33038,11 @@
    "term": "experimental philosophy",
    "trans": "实验哲学",
    "basis": "科学史通行（十七世纪英格兰 experimental philosophy 纲领）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -32552,9 +33062,11 @@
    "term": "experimenter demand effect",
    "trans": "实验者需求效应",
    "basis": "实验方法论通行汉译；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -32562,9 +33074,11 @@
    "term": "explanandum (that which is to be explained)",
    "trans": "被解释项",
    "basis": "学界通行（Hempel 模型术语；与“解释项”对）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -32646,9 +33160,11 @@
    "term": "explanatory framework",
    "trans": "解释框架",
    "basis": "本条术语（Blasimme 等；非 Kuhn 范式义）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -32656,9 +33172,18 @@
    "term": "explanatory gap",
    "trans": "解释鸿沟",
    "basis": "学界惯例（莱文术语通译）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "解释鸿沟",
+     "en": "explanatory gap",
+     "source": "自然辩证法名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -32707,9 +33232,11 @@
    "term": "explanatory store",
    "trans": "解释库",
    "basis": "本库首译（Kitcher 1989 之 E(K)）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -32717,9 +33244,18 @@
    "term": "explication",
    "trans": "阐释",
    "basis": "卡尔纳普术语通行汉译（亦作“阐明”；与 explication 精确化义配套）；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "阐明",
+     "en": "explication",
+     "source": "自然辩证法名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -32856,9 +33392,66 @@
    "term": "expression",
    "trans": "表现（美学/阿多诺语境；与 expression 普通用法“表达”随文区分）",
    "basis": "学界通行汉译（美学与《美学理论》中译通行）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "表达",
+     "en": "expression",
+     "source": "新闻学与传播学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "表情",
+     "en": "expression",
+     "source": "行为医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "内容表达",
+     "en": "expression",
+     "source": "图书馆·情报与文献学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "压榨",
+     "en": "expression",
+     "source": "化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "[表达]式",
+     "en": "expression",
+     "source": "数学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "压榨",
+     "en": "expression",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "表情",
+     "en": "expression",
+     "source": "海峡两岸音乐名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "表达式",
+     "en": "expression",
+     "source": "海峡两岸地理信息系统名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "表达",
+     "en": "expression",
+     "source": "海峡两岸药学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -32866,9 +33459,11 @@
    "term": "expression theory",
    "trans": "表现论",
    "basis": "学界通行（音乐表现力理论）；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -32876,9 +33471,11 @@
    "term": "expressive power",
    "trans": "表达力",
    "basis": "逻辑学通行译法；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -32886,9 +33483,36 @@
    "term": "expressiveness",
    "trans": "表现力（音乐的情感表现）",
    "basis": "学界通行；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "表达能力",
+     "en": "expressiveness",
+     "source": "新闻学与传播学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "表达能力",
+     "en": "expressiveness",
+     "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "表现力",
+     "en": "expressiveness",
+     "source": "奥运体育项目名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "辞达",
+     "en": "Expressiveness",
+     "source": "中华思想文化术语传播工程"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -33132,9 +33756,11 @@
    "term": "external contraction",
    "trans": "外收缩",
    "basis": "超矢列演算术语直译；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -33152,9 +33778,30 @@
    "term": "external validity",
    "trans": "外部效度",
    "basis": "实验方法论通行汉译；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "外部效度",
+     "en": "external validity",
+     "source": "管理科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "外部效度",
+     "en": "external validity",
+     "source": "心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "外在效度",
+     "en": "external validity",
+     "source": "社会学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -33162,9 +33809,11 @@
    "term": "external weakening",
    "trans": "外弱化",
    "basis": "超矢列演算术语直译；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -33248,9 +33897,126 @@
    "term": "extracellular matrix",
    "trans": "细胞外基质",
    "basis": "学界通行（细胞生物学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "细胞外基质",
+     "en": "extracellular matrix",
+     "source": "肝病学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "细胞外基质",
+     "en": "extracellular matrix",
+     "source": "烧伤学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "细胞外基质",
+     "en": "extracellular matrix",
+     "source": "显微外科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "细胞外基质",
+     "en": "extracellular matrix",
+     "source": "组织学与胚胎学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "[细]胞外基质",
+     "en": "extracellular matrix",
+     "source": "细胞生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "细胞外基质",
+     "en": "extracellular matrix,ECM",
+     "source": "生理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "细胞外基质",
+     "en": "extracellular matrix,ECM",
+     "source": "地方病学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "细胞外基质",
+     "en": "extracellular matrix,ECM",
+     "source": "遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "细胞外基质受体",
+     "en": "extracellular matrix receptor",
+     "source": "组织学与胚胎学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "[细]胞外基质受体",
+     "en": "extracellular matrix receptor",
+     "source": "细胞生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "肝细胞外基质",
+     "en": "hepatic extracellular matrix",
+     "source": "消化病学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "细胞外基质磷酸糖蛋白",
+     "en": "matrix extracellular phosphoglycoprotein;MEPG",
+     "source": "内分泌代谢病学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "细胞外基质",
+     "en": "extracellular matrix",
+     "source": "海峡两岸解剖与组织胚胎学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "胞外基质",
+     "en": "extracellular matrix",
+     "source": "海峡两岸生物化学与分子生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "[细]胞外基质",
+     "en": "extracellular matrix\",\"ECM",
+     "source": "海峡两岸细胞生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "细胞外基质",
+     "en": "extracellular matrix\",\"ECM",
+     "source": "海峡两岸遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "细胞外基质受体",
+     "en": "extracellular matrix receptor",
+     "source": "海峡两岸解剖与组织胚胎学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "[细]胞外基质受体",
+     "en": "extracellular matrix receptor",
+     "source": "海峡两岸细胞生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "细胞外基质",
+     "en": "extracellular matrix",
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -33343,9 +34109,24 @@
    "term": "extraversion",
    "trans": "外向性",
    "basis": "大五特质通行汉译；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "外向",
+     "en": "extraversion",
+     "source": "心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "外向",
+     "en": "extraversion",
+     "source": "海峡两岸心理学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -33412,9 +34193,42 @@
    "term": "facet",
    "trans": "层面（人格子维度）",
    "basis": "人格心理学层级模型通行译法（Costa & McCrae 1995）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "小眼面",
+     "en": "facet",
+     "source": "昆虫学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "小平面",
+     "en": "facet",
+     "source": "电子学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "刻面",
+     "en": "facet",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "小平面",
+     "en": "facet",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "小眼面",
+     "en": "facet",
+     "source": "海峡两岸昆虫学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -33556,9 +34370,36 @@
    "term": "fairness",
    "trans": "公平",
    "basis": "与“正义”分列：fairness 指局部分配的公平；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "公平性",
+     "en": "fairness",
+     "source": "风景园林名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "公平性",
+     "en": "fairness",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "公平性",
+     "en": "fairness",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "公平",
+     "en": "fairness",
+     "source": "医学伦理学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -33566,9 +34407,11 @@
    "term": "fairness norm",
    "trans": "公平规范",
    "basis": "社会心理学通行；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -33576,9 +34419,11 @@
    "term": "fairness postulate",
    "trans": "公平公设",
    "basis": "构词直译（信念合并文献）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -33673,9 +34518,11 @@
    "term": "Fallacie maiores",
    "trans": "《大谬误》",
    "basis": "中世纪逻辑史通行译法；凭证 2026-11-09",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -33746,9 +34593,11 @@
    "term": "fan principle",
    "trans": "扇原则",
    "basis": "直觉主义数学通行（扇定理之公理化形式）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -33756,9 +34605,11 @@
    "term": "fan theorem",
    "trans": "扇定理",
    "basis": "直觉主义数学通行（布劳威尔）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -33873,9 +34724,11 @@
    "term": "Fayan",
    "trans": "《法言》",
    "basis": "扬雄书，学界通行学名",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -33895,9 +34748,156 @@
    "term": "feedback loop",
    "trans": "反馈回路",
    "basis": "学界通行（控制论与系统生物学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "反馈回路",
+     "en": "feedback loop",
+     "source": "化工名词（六）生物化工"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "反馈环路",
+     "en": "feedback loop",
+     "source": "生理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "反馈环",
+     "en": "feedback loop",
+     "source": "植物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "反馈回路",
+     "en": "feedback loop",
+     "source": "生物物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "反馈环",
+     "en": "feedback loop",
+     "source": "遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "反馈环",
+     "en": "feedback loop",
+     "source": "生态学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "反馈回路",
+     "en": "feedback loop",
+     "source": "电子学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "反馈回路",
+     "en": "feedback loop",
+     "source": "自动化名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "长反馈",
+     "en": "long-loop feedback",
+     "source": "内分泌代谢病学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "短反馈",
+     "en": "short-loop feedback",
+     "source": "内分泌代谢病学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "超短反馈",
+     "en": "ultrashort-loop feedback",
+     "source": "内分泌代谢病学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "长环反馈",
+     "en": "long loop feedback",
+     "source": "兽医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "反馈环（=反馈回路）",
+     "en": "feedback loop",
+     "source": "海峡两岸解剖与组织胚胎学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "反馈回路，反馈环",
+     "en": "feedback loop",
+     "source": "海峡两岸解剖与组织胚胎学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "反馈环，反馈回路",
+     "en": "feedback loop",
+     "source": "海峡两岸植物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "反馈回路（=反馈环）",
+     "en": "feedback loop",
+     "source": "海峡两岸植物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "反馈回路",
+     "en": "feedback loop",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "反馈环",
+     "en": "feedback loop",
+     "source": "海峡两岸生态学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "反馈环",
+     "en": "feedback loop",
+     "source": "海峡两岸遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "反馈回路",
+     "en": "feedback loop",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "反馈环",
+     "en": "feedback loop",
+     "source": "海峡两岸动物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "突触反馈环",
+     "en": "synapse feedback loop",
+     "source": "海峡两岸解剖与组织胚胎学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "反馈回路",
+     "en": "Feedback loop",
+     "source": "维基百科"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "社群反馈回路",
+     "en": "community feedback loop",
+     "source": "大数据百科术语辞典"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -34298,9 +35298,11 @@
    "term": "fikr",
    "trans": "思虑",
    "basis": "学界惯例（与 ḥads 对举的推论性思考；源文 cogitation or reflection）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -34308,9 +35310,11 @@
    "term": "Filioque",
    "trans": "“和子”句",
    "basis": "基督教神学史通行汉译（拉丁“及圣子”添缀，东西教会分裂争点）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -34318,9 +35322,11 @@
    "term": "filling instructions",
    "trans": "填充指令",
    "basis": "本库首译（Kitcher 1989）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -34328,9 +35334,120 @@
    "term": "filtration",
    "trans": "滤化",
    "basis": "模态逻辑通行译法（Fischer–Ladner）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "过滤",
+     "en": "filtration",
+     "source": "农学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "过滤",
+     "en": "filtration",
+     "source": "化工名词（十）化工系统工程和化工信息化名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "滤过",
+     "en": "filtration",
+     "source": "兽医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "过滤",
+     "en": "filtration",
+     "source": "化工名词（九）无机化工与肥料"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "过滤",
+     "en": "filtration",
+     "source": "化工名词（八）化工装备"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "滤过",
+     "en": "filtration",
+     "source": "生理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "过滤",
+     "en": "filtration",
+     "source": "食品科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "过滤",
+     "en": "filtration",
+     "source": "化工名词（四）安全·环保·可持续发展"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "过滤",
+     "en": "filtration",
+     "source": "冶金学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "过滤",
+     "en": "filtration",
+     "source": "化工名词(三)化学工程基础"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "过滤",
+     "en": "filtration",
+     "source": "化学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "过滤",
+     "en": "filtration",
+     "source": "药学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "过滤",
+     "en": "filtration",
+     "source": "海峡两岸大气科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "过滤",
+     "en": "filtration",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "过滤",
+     "en": "filtration",
+     "source": "海峡两岸海洋科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "过滤",
+     "en": "filtration",
+     "source": "海峡两岸生物化学与分子生物学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "过滤",
+     "en": "filtration",
+     "source": "海峡两岸药学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "过滤",
+     "en": "filtration",
+     "source": "放射卫生学"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -34357,9 +35474,11 @@
    "term": "finite differentiation",
    "trans": "有限分立",
    "basis": "古德曼记法理论通行（differentiated 分立与 dense 稠密对举）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -34367,19 +35486,30 @@
    "term": "finite model property",
    "trans": "有穷模型性质",
    "basis": "模型论通行译法；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
    "line": 1729,
    "term": "finitism",
-   "trans": "有限主义",
-   "basis": "数学哲学通行译名；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "trans": "有穷主义（亦作“有限主义”）",
+   "basis": "审定名词库（termonline-all·自然辩证法名词，2026-11-11 浏览器通道凭证）；与 strict finitism“严格有穷论”配套",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "有穷主义",
+     "en": "finitism",
+     "source": "自然辩证法名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -34399,9 +35529,11 @@
    "term": "First Analogy",
    "trans": "第一类比",
    "basis": "学界通行（康德 A182，类比章译“类比”）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -49895,9 +51027,11 @@
    "term": "justice sensitivity",
    "trans": "正义敏感性",
    "basis": "Schmitt 等量表术语通行汉译；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -49905,9 +51039,11 @@
    "term": "justificatory device",
    "trans": "证成装置",
    "basis": "学界惯例（Daniels 1996: 59–60）；凭证 2026-11-11",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -49999,9 +51135,11 @@
    "term": "kāla",
    "trans": "时（时间）",
    "basis": "印度哲学通行义译（胜论第九实）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -50123,9 +51261,11 @@
    "term": "kapi-samyoga",
    "trans": "与猴连合",
    "basis": "正理教科书标准例（in contact with a monkey）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -50169,9 +51309,11 @@
    "term": "kāraka",
    "trans": "作业格",
    "basis": "印度语法学通行（动名关系；波你尼学派）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -50179,9 +51321,11 @@
    "term": "karaṇa",
    "trans": "特殊工具因",
    "basis": "新正理因果认识论义译（'special' instrumental cause；pramāṇa 之名即出此）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -50213,9 +51357,11 @@
    "term": "karman",
    "trans": "所作业",
    "basis": "同上（object）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -50243,9 +51389,18 @@
    "term": "karma（胜论句义）",
    "trans": "运动（业）",
    "basis": "胜论第三句义传统译“业”（《胜宗十句义论》），此处指运动/动作，随文括注；与佛教业报义同键多义分工；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "主谓句",
+     "en": null,
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -50253,9 +51408,11 @@
    "term": "Karp partial isomorphism theorem",
    "trans": "Karp 部分同构定理",
    "basis": "人名保留英文（Karp 1965）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -50263,9 +51420,11 @@
    "term": "Karrāmite",
    "trans": "卡拉米派",
    "basis": "学界通行（伊斯兰教义学派史；字面主义倾向）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -50273,9 +51432,11 @@
    "term": "kartṛ",
    "trans": "作业者",
    "basis": "印度语法/因明通行（agent；与所作业、工具并列）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -50283,9 +51444,11 @@
    "term": "kartṛ-janyatva",
    "trans": "有作者性",
    "basis": "新正理义译（being made by an agent；欲成之性）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -50293,9 +51456,11 @@
    "term": "kāryatva",
    "trans": "果性",
    "basis": "新正理义译（effect-hood；神存在论证之因相）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -50334,9 +51499,11 @@
    "term": "Kemeny rule",
    "trans": "凯梅尼规则",
    "basis": "学界通行（社会选择理论中译文献）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -50382,9 +51549,11 @@
    "term": "kevala-vyatirekin",
    "trans": "全异转",
    "basis": "印度逻辑学通行义译（universally negative）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -50392,9 +51561,11 @@
    "term": "kevalābhāva",
    "trans": "唯无（纯非存在）",
    "basis": "新正理否定语义译（mere absence；与 viśiṣṭābhāva 别有所无对举）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -50402,9 +51573,11 @@
    "term": "kevalānvayin",
    "trans": "全同转",
    "basis": "印度逻辑学通行义译（universally positive；亦作“纯同”）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -50461,9 +51634,11 @@
    "term": "Khwārazm-Shāh",
    "trans": "花剌子模沙",
    "basis": "学界通行（王朝名；亦作“花拉子模沙”）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -50677,9 +51852,11 @@
    "term": "KK principle",
    "trans": "KK 原则",
    "basis": "学界通行（保留缩写；知即知其知）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -50687,9 +51864,18 @@
    "term": "Kleene–Mostowski hierarchy",
    "trans": "Kleene–Mostowski 层级",
    "basis": "递归论术语照录；凭证 2026-11-09",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "性别等级制 gender hierarchy",
+     "en": null,
+     "source": "社会学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -50729,9 +51915,11 @@
    "term": "knack",
    "trans": "诀窍",
    "basis": "与技能对举义（天赋式巧熟）；凭证 2026-11-10",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -50739,9 +51927,11 @@
    "term": "knockout",
    "trans": "敲除",
    "basis": "学界通行（分子遗传学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -50749,9 +51939,24 @@
    "term": "knowledge argument",
    "trans": "知识论证",
    "basis": "学界惯例（杰克逊论证通译）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "知识论证",
+     "en": "knowledge argument",
+     "source": "自然辩证法名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "零知识交互式论证",
+     "en": "zero-knowledge interactive argument",
+     "source": "海峡两岸信息科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -50759,9 +51964,144 @@
    "term": "knowledge base",
    "trans": "知识库",
    "basis": "计算机科学通行（人工智能）；凭证 2026-11-10",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "知识库",
+     "en": "knowledge base",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "知识库",
+     "en": "knowledge base",
+     "source": "管理科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "知识库",
+     "en": "knowledge base",
+     "source": "地理信息系统名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "知识库",
+     "en": "knowledge base",
+     "source": "化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "知识库",
+     "en": "knowledge base,repository",
+     "source": "图书馆·情报与文献学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "知识库",
+     "en": "knowledge base,KB",
+     "source": "自动化名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "知识库",
+     "en": "knowledge base，KB",
+     "source": "化工名词（十）化工系统工程和化工信息化名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "知识库",
+     "en": "knowledge base;KB",
+     "source": "编辑与出版学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "知识库机",
+     "en": "knowledge base machine",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "林业知识库",
+     "en": "forestry knowledge base",
+     "source": "林学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "语言知识库",
+     "en": "language knowledge base",
+     "source": "语言学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "知识库",
+     "en": "knowledge base",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "知识库",
+     "en": "knowledge base",
+     "source": "海峡两岸地理信息系统名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "知识库",
+     "en": "knowledge base",
+     "source": "海峡两岸航海科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "知识库",
+     "en": "knowledge base\",\"knowledge bank\",\"KB",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "知识库机",
+     "en": "knowledge base machine",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "知识库系统",
+     "en": "knowledge base system",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "语言知识库",
+     "en": "language knowledge base",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "知识库系统",
+     "en": "knowledge base system\",\"KBS",
+     "source": "海峡两岸地理信息系统名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "协作知识库系统",
+     "en": "cooperating knowledge base system",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "知识引导[的]数据库",
+     "en": "knowledge-directed data base",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "知识库",
+     "en": "knowledge base",
+     "source": "大数据百科术语辞典"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",

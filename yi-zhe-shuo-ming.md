@@ -1409,7 +1409,7 @@
 | empathy | — | 共情 | dilthey 首译 | 学界通行译名（Verstehen 被误读为 empathy 之 empathy）；与 sympathy 同情分用；凭证 2026-11-11 | 2026-11-11 |
 | Empfindung | Empfindung | 感觉 | yorck 首译 | 学界通行（德国哲学 Empfindung 感觉，与 Gefühl 情感分义）；凭证 2026-11-11 | 2026-11-11 |
 | Empfindungsrealität | Empfindungsrealität | 感觉实在性 | yorck 首译 | B 档：词面直译（作者英译 a reality of feeling）；凭证 2026-11-11 | 2026-11-11 |
-| empirical adequacy | — | 经验充足性（经验上充足） | 首译（scientific-explanation-20th） | 学界通行（van Fraassen 1980）；凭证 2026-11-10 | 2026-11-10 |
+| empirical adequacy | — | 经验适当性（亦作“经验充足性”） | 首译（scientific-explanation-20th） | 审定名词库（termonline-all·自然辩证法名词，2026-11-11 浏览器通道凭证）；van Fraassen 1980 | 2026-11-11 |
 | empirical aesthetics | — | 经验美学 | 首现（experimental-aesthetics） | 学界通行（心理学研究纲领名，Nadal & Vartanian 2022 综述；与 Erfahrung-Ästhetik 经验美学 分立为同译名组） | 2026-11-09 |
 | empirical deduction | — | 经验性演绎 | kant-transcendental | 康德研究通行（与先验演绎对举）；凭证 2026-11-10 | 2026-11-10 |
 | empirical equivalence | — | 经验等价性（亦作“经验等价”） | 首现（abduction） | 审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
@@ -1730,7 +1730,7 @@
 | finitary standpoint | — | 有穷立场 | hilbert-program 首译 | 照文直译（Hilbert 的 finiter Standpunkt）；凭证 2026-11-11 | 2026-11-11 |
 | finite differentiation | — | 有限分立 | digital-art 首译 | 古德曼记法理论通行（differentiated 分立与 dense 稠密对举）；凭证 2026-11-10 | 2026-11-10 |
 | finite model property | — | 有穷模型性质 | logic-dynamic | 模型论通行译法；凭证 2026-11-10 | 2026-11-09 |
-| finitism | — | 有限主义 | 首现（intuitionism） | 数学哲学通行译名；凭证 2026-11-10 | 2026-11-10 |
+| finitism | — | 有穷主义（亦作“有限主义”） | 首现（intuitionism） | 审定名词库（termonline-all·自然辩证法名词，2026-11-11 浏览器通道凭证）；与 strict finitism“严格有穷论”配套 | 2026-11-11 |
 | First / Later Diffusion of Buddhism | — | 前弘期／后弘期 | epistemology-language-tibetan | 藏学界通行 | 2026-11-04 |
 | First Analogy | — | 第一类比 | kant-transcendental | 学界通行（康德 A182，类比章译“类比”）；凭证 2026-11-11 | 2026-11-11 |
 | first cause | — | 第一因 | crescas | 学界通行；凭证 2026-11-08 | 2026-11-08 |

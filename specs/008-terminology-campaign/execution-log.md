@@ -602,6 +602,20 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
   dharma（维基垃圾）、dialectician（假阳性）、dictator game（假阳性）、disputation（维基命中「九十五条论纲」）、
   doctrinal paradox（假阳性）、downward causation（术语短形，审定「下向因果关系」为全称）。
 
+### 六、二轮第六批（offset 512–608，12 条，e/f 段补查）
+
+* 审计刷新：一致 722 / 不一致 517 / 查无 2775 / 未查证 5089；新增不一致 12 条。
+* **主译变更 2 条**：
+  * empirical adequacy「经验充足性」→「经验适当性」（审定·自然辩证法；van Fraassen 标准形；`s/scientific-explanation-20th.md` 2 处看齐）；
+  * finitism「有限主义」→「有穷主义」（审定·自然辩证法；与已改的 strict finitism「严格有穷论」配套）。**连带题名同步**：
+    `g/geometry-finitism.md` H1、`SUMMARY.md`、`mu-lu-s.md` 三处题名改「几何学中的有穷主义」；`qian-yan/ri-zhi-yu-bian-ji-gui-hua.md`
+    2024 年旧编辑日志原件不动（历史记录）；`a/arabic-islamic-phil-math.md`、`h/hilbert-program.md`、`i/intuitionism.md` 正文/标题看齐。
+* **保留 10 条**：emanation（放射医学「射气」异义）、empirical deduction（假阳性）、enactivism（假阳性）、endogenous / exogenous
+  （动物学「内源/外源」词形差异）、explication（本条卡尔纳普「阐释」为技术术语，「阐明」是一般动词，不可互换）、
+  expression（本条美学「表现」义）、extraversion（审定「外向」为词形差异，人格维度通行「外向性」）、facet（昆虫/电子异义）、
+  filtration（农学/化工「过滤」异义）。
+
+
 
 
 
