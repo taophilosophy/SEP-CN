@@ -2,7 +2,7 @@
   "slug": "falaquera",
   "kind": "retranslate",
   "zh_doc": "f/falaquera.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "F-main-20261111",
       "at": "2026-11-10T20:23:33Z",
       "evidence": "check_academic --strict OK（非存根 1）；check_math 0 missing/unbalanced；术语 6 行（maqāmah 玛卡梅/virtuous city 完善城/active intellect 主动理智/middle commentary 中等评注/pietist 虔信者/paraphrase 改写）+人名 7 行（法拉奎拉/约斯佩/金希/阿尔法哈尔/阿德雷特/希夫曼/伪恩培多克勒）；同键异译回改 原初质料→第一质料"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "F-main-20261111b",
+      "at": "2026-11-11T07:23:58Z",
+      "evidence": "先修复任务状态事故：aa51eeb5e 的并行暂存件把 s3_checked 回退为 cleared，已从 aa51eeb5e^ 恢复四步凭证（成稿在库，状态丢失）。对照核销：marker 1:1、defs 72:72（键集相同）、节 7:7、引块 4:4、段 21:21；逐节回读无漏译/增译，希伯来/阿拉伯转写与书名照录。实修 6 处：①两处英文残留 sources→来源；②「他人他书的短段」→「出自其他作者与著作的短段」；③「论证经文」→「引证经文」（proof texts）；④「遽断」→「贸然断定」（ADR-0033 禁文言）；⑤《记忆之卷》（*Megillat ha-Zikkaron*) 后 ASCII 右括号→全角；⑥「作出明智…拼合」弱动词改写。check_style --strict 0 issue；check_academic --strict OK；check_math 0 missing/unbalanced；check_prose 余 3 条全在引文块（§4 百科导言长句/复数「们」、§7 创世引文 de-chain），按 ADR-0020 豁免。术语 6 行（玛卡梅/完善城/主动理智/中等评注/虔信者/改写）与人名 7 行均在册。语体结论：现代汉语学术书面语，无文言仿古。"
     }
   ],
   "blockers": [],
