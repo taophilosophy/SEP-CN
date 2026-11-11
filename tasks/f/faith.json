@@ -2,7 +2,7 @@
   "slug": "faith",
   "kind": "retranslate",
   "zh_doc": "f/faith.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "F-main-20261111",
       "at": "2026-11-10T16:20:03Z",
       "evidence": "check_academic --strict OK（非存根 1）；check_math 0 missing/unbalanced；术语 21 行（doxastic venture 信念冒险/fiducial 信任型/ultimism 终极主义/entitlement 权利等）+人名 15 行（加尔文/蒂利希/毕晓普/克利福德等）HEAD 基线外科暂存，跳过已登 Kvanvig"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "F-main-20261111b",
+      "at": "2026-11-11T03:56:42Z",
+      "evidence": "对照核销：内联 marker 102:102（顺序一致）、defs 121:121（键集相同）、段 90:90、节 11:11；逐节回读原文，无漏译/增译；引文与书名照录。实修 10 处：①§7 反理性信仰主义段补回缺失左括号（原句尾悬空「）」）；②§4「凡…模型，合理的信仰便受…」主谓错位改「在凡…模型上」；③「有神论真理可以直接启示」改「可以直接得到启示…被体验为直接显明」；④「使其真理足够大概率上为真」改「使其为真的概率明显高于不然」；⑤「由…所蕴含」改「为…所蕴含」、「更是更进一层」改「更进一步」；⑥「先进路是先分类分析」改「采取的进路，是先分类分析」；⑦「度过其生」改「度过自己的一生」；⑧「欢聚于」改「投身于」（引文译）；⑨「不会因其自身而是德性」改「不会本身即是德性」；⑩「当作仿佛真实」补「一般」。人名对齐登记册：谢伦伯格→舍伦贝格、安内特→安妮特·拜尔、奥尔斯顿→阿尔斯顿、普兰丁格首现补全名。check_style --strict 0 issue；check_academic --strict OK；check_math 0 missing/unbalanced；check_prose 余 13 条全为直引内部，按 ADR-0020 豁免。语体结论：现代汉语学术书面语，无文言仿古。"
     }
   ],
   "blockers": [],
