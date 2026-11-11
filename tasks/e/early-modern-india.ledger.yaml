@@ -1413,231 +1413,309 @@ segments:
     kind: body
     source: |-
       ## 8. Logical Theory and Gaṅgeśa’s Analysis of Inferential Warrant (*vyāpti*)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 8. 逻辑理论与甘格沙对推理保证（*vyāpti*）的分析
+    step2: |-
+      ## 8. 逻辑理论与甘格沙对推理保证（*vyāpti*）的分析
   - id: 163
     kind: body
     source: |-
       ### 8.1 Overview of Logical Theory
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 8.1 逻辑理论概观
+    step2: |-
+      ### 8.1 逻辑理论概观
   - id: 164
     kind: body
     source: |-
       Gaṅgeśa’s *Tattvacintāmaṇi* is divided into four parts, one for each of the four knowledge-sources or *pramāṇa*s recognised by the Nyāya school. The post-Gaṅgeśa scholars focused more and more exclusively on the second part, concerning inference, and wrote increasingly detailed commentaries on a comparatively small portion of the book, namely the part where Gaṅgeśa examines the relation between inferential sign and property-to-be-inferred, which is called the *vyāpti*, ‘pervasion’ or ‘inference-warranting’ relation (Ingalls 1951, Goekoop 1977, Wada 2007)[^goekoop-1977][^ingalls-1951][^wada-2007]. Even today, in a traditional Indian education, study of these sub-commentaries on various subsections of the *vyāpti* section of Gaṅgeśa forms an essential part of the curriculum.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      甘格沙的《真理思择摩尼》分为四部分，分别对应正理学派承认的四种知识来源或量（*pramāṇa*）。甘格沙之后的学者越来越专注于第二部分，即关于推理的部分，并对书中相对很小的一部分——甘格沙考察推理标记与所推属性之间关系的部分——写出了日益详细的注疏；这一关系称为 *vyāpti*，即“遍充”或“推理保证”关系（Ingalls 1951，Goekoop 1977，Wada 2007）[^goekoop-1977][^ingalls-1951][^wada-2007]。即便在今天，传统印度教育中，研读这些针对甘格沙遍充节各小节的子注疏，仍是课程的重要部分。
+    step2: |-
+      甘格沙的《真理思择摩尼》分四部分，一部分对应正理承认的一种知识来源（量，*pramāṇa*）。甘格沙以后的学者越来越只盯着第二部分——讲推理的那部分——而且注疏越写越细，却集中在全书极小的一段上：甘格沙考察推理标记与所推属性之间关系的那一段。这个关系叫 *vyāpti*，即“遍充”关系，也叫“推理保证”关系（Ingalls 1951，Goekoop 1977，Wada 2007）[^goekoop-1977][^ingalls-1951][^wada-2007]。直到今天，传统印度教育里，研读这些针对遍充节各小节的子注疏，仍是课程中少不了的一环。
   - id: 165
     kind: body
     source: |-
       The general structure of a properly formulated Nyāya inference has three components: thesis, reason (*hetu*) and example (*dṛṣṭānta*). The thesis, again, has two components: the ‘locus’ (*pakṣa*) or place of the inference, and a property (*sādhya*) whose presence in the locus is to be inferred. Thus every Nyāya argument exhibits the same pattern: *p* has *S*, because it has *H*; e.g. *d*. For example, “The mountain ( = *p*) has fire (= *S*), because it has smoke ( = *H*); e.g. the kitchen ( = *d*)”. A sound argument must fulfil at least three criteria: (i) the reason property must be uncontroversially present in the locus; (ii) the reason property and the inferred property must be appropriately related, roughly such that wherever the reason is present, so is the inferred property; (iii) the example must be an uncontroversial place where both the reason property and the inferred property are present.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个规范表述的正理论证有三部分：宗、因（*hetu*）与喻（*dṛṣṭānta*）。宗又分两部分：推理的“处所”（*pakṣa*，所别），以及有待推出其在该处所中存在之属性（*sādhya*，所立）。因此每个正理论证都呈现同一模式：*p* 有 *S*，因为它有 *H*；例如 *d*。例如“山（= *p*）有火（= *S*），因为它有烟（= *H*）；例如厨房（= *d*）”。一个可靠的论证至少须满足三条标准：(i) 因属性须无争议地存在于处所中；(ii) 因属性与所推属性须有恰当关联，大致凡因所在处所立亦在；(iii) 喻须是无争议地同时具备因属性与所立属性的场合。
+    step2: |-
+      一个合式的正理论证，由宗、因（*hetu*）、喻（*dṛṣṭānta*）三部分组成。宗又含两截：推理的“处所”（*pakṣa*，所别），以及要在该处所里推出其存在的属性（*sādhya*，所立）。于是正理论证总是同一个格式：*p* 有 *S*，因为它有 *H*；例如 *d*。举例：“山（= *p*）有火（= *S*），因为它有烟（= *H*）；例如厨房（= *d*）”。站得住的论证至少满足三条：(i) 因属性在处所中无争议地存在；(ii) 因属性与所推属性之间有恰当关联，粗略说，凡有因处即有所立；(iii) 喻是双方都承认、因与所立兼具的场合。
   - id: 166
     kind: body
     source: |-
       Certain topics concerning this account are addressed in *The Manual of Reason* and other Navya-Nyāya texts. Among them are: the conditions under which inference can take place, and the conditions under which the result is a knowledge-episode (TS 49, 54); the correct account of the inference-warranting relation, between the inferential sign and the property-to-be-inferred, called the ‘pervasion’ or ‘*vyāpti*’ relation (TS 50); the distinction between inference and demonstration (*svārtha*- and *parārtha*- inference) (TS 52, 53); the three-fold classification of inference types, those which are ‘universally positive’ (*kevalānvayin*), those which are ‘universally negative’ (*kevala-vyatirekin*), and those which are combined positive and negative (*anvaya-vyatirekin*) (TS 55); the types of inferential fallacy (*hetvābhāsa*) (TS 57–64).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与这一说明有关的若干论题，在《理性手册》及其他新正理文本中都有讨论。其中包括：推理得以进行的条件，以及结果为知识事件的条件（TS 49、54）；推理标记与所推属性之间推理保证关系的正确说明，即所谓“遍充”或 *vyāpti* 关系（TS 50）；推理与论证之别（*svārtha* 与 *parārtha* 推理）（TS 52、53）；推理类型的三分——全同转（*kevalānvayin*）、全异转（*kevala-vyatirekin*）与同有同无（*anvaya-vyatirekin*）（TS 55）；以及推理谬误（*hetvābhāsa*）的类型（TS 57–64）。
+    step2: |-
+      《理性手册》和其他新正理文本讨论过与此相关的若干问题：推理在什么条件下进行、在什么条件下其结果是知识事件（TS 49、54）；推理标记与所推属性之间那条推理保证关系——即“遍充”或 *vyāpti*——该怎么说明（TS 50）；推理与为他人论证之别（*svārtha* 推理与 *parārtha* 推理）（TS 52、53）；推理的三分：全同转（*kevalānvayin*）、全异转（*kevala-vyatirekin*）、同有同无（*anvaya-vyatirekin*）（TS 55）；以及推理谬误（*hetvābhāsa*）的诸类型（TS 57–64）。
   - id: 167
     kind: body
     source: |-
       I will discuss mainly the definition of the ‘pervasion’ relation. First, however, a brief note on how the causal model of knowledge is applied to inference. The ‘special’ instrumental cause (*karaṇa*) of an inferential cognition is said to be the inferrer’s knowledge of the relevant pervasion relation. The ‘operative condition’ (*vyāpāra*) is said to be an awareness that the locus of inference (*p*) possesses such an inferential sign (*h*) as is pervaded by the property inferred (*s*). This is, in effect, an awareness which combines the two premises of the argument together immediately prior to the conclusion being derived, and is called the ‘*parāmarśa*’ or ‘consideration’. The ‘*guṇa*’ or ‘causal factor responsible for the truth’ of the inferential cognition is the condition that this ‘consideration’ be true, i.e. that the locus does in fact possess such a sign as is pervaded by the inferred property. Another auxiliary causal factor is that the inferrer must either not yet already know the conclusion or else must have a particular desire to infer (i.e. given, knowledge of the premises, the inference would normally take place mechanically, but if the conclusion is already known e.g. perceptually, then the inferrer has to have a special wish to re-establish it inferentially). This condition is known as ‘*pakṣaṭā*’, and should not to be confused with ‘*pakṣadharmatā*’, which is the name of condition (i) above.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我主要讨论“遍充”关系的定义。不过先简要说明知识的因果模型如何应用于推理。推理认知的“特殊”工具因（*karaṇa*），据说是推理者对相关遍充关系的知识。“作用条件”（*vyāpāra*）则是对推理处所（*p*）具有这样一种推理标记（*h*）、而该标记为所推属性（*s*）所遍充的意识。这实际上是在结论被推出之前一刻把论证的两个前提结合起来的意识，称为“省察”（*parāmarśa*）。推理认知的 *guṇa*（或“负责其真的因果因素”），是这一“省察”为真的条件，即处所确实具有为所推属性所遍充的那种标记。另一项辅助因果因素是：推理者要么尚未知道结论，要么必须有进行推理的特定愿望（也就是说，给定对前提的知识，推理通常会机械地发生；但若结论已由知觉等得知，推理者就必须有一种特殊的意愿，要以推理方式重新确立它）。这一条件称为 *pakṣaṭā*（宗未决性），不可与 *pakṣadharmatā*（宗法性）相混，后者是上述条件 (i) 的名称。
+    step2: |-
+      下面主要谈“遍充”关系的定义。先简短交代知识的因果模型如何用在推理上。推理认知的“特殊”工具因（*karaṇa*），据说是推理者掌握相关遍充关系的那份知识；“作用条件”（*vyāpāra*），则是对“推理处所（*p*）具有某种推理标记（*h*），而该标记为所推属性（*s*）所遍充”的意识。这其实就是在结论出台前一刻，把论证的两个前提合到一起的意识，名为“省察”（*parāmarśa*）。推理认知的 *guṇa*（即“负责其真”的因果因素），在于这项“省察”为真：处所确实带有那种被所推属性所遍充的标记。另有一项辅助因果因素：推理者要么还没知道结论，要么必须有一种要推理的特定意愿（也就是说，前提知识在手，推理通常会机械地发生；可若结论已由知觉等途径得知，推理者就得特意愿意用推理把它重新确立一遍）。这项条件叫 *pakṣaṭā*（宗未决性），不可与 *pakṣadharmatā*（宗法性）相混——后者是上面条件 (i) 的名字。
   - id: 168
     kind: body
     source: |-
       ### 8.2 Definitions of the Pervasion (*vyāpti*) Relation
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 8.2 遍充（*vyāpti*）关系的定义
+    step2: |-
+      ### 8.2 遍充（*vyāpti*）关系的定义
   - id: 169
     kind: body
     source: |-
       *Vyāpti* or pervasion, is that relation between the inferential sign (*hetu*) and the inferred property (*sādhya*), which legitimises the inference. It would typically be expressed by a sentence such as “wherever there is smoke there is fire”, or “whatever exists is transitory”. Knowledge of this relation, according to the Nyāya, is the instrumental cause in the inferential process—it is that relation knowledge of which, when combined with observation of the inferential sign, will permit us to make a sound or knowledge-yielding inference. Gaṅgeśa therefore attaches great importance to the precise definition of this relation. He notes as many as twenty-one definitions all of which he rejects for some reason or other, and then he goes on to give seven further formulations, each of which he considers acceptable. Of the definitions he rejects, the first five came to be known as the ‘*vyāpti-pañcaka*’, and inspired a huge literature both among the Sanskrit commentators and their modern interpreters. These definitions are traceable to the earlier Buddhist and Nyāya literature. Two more rejected definitions, known as the ‘Lion and Tiger’ definitions, are apparently due to Gaṅgeśa’s Navya-Nyāya predecessors (Wada 2007, ch. 5)[^wada-2007]. The definition Gaṅgeśa finally accepts is called his ‘*siddhānta-lakṣaṇa*’.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *Vyāpti* 或遍充，是推理标记（*hetu*）与所推属性（*sādhya*）之间使推理合法的那个关系。它典型地由“凡有烟处即有火”或“凡存在者皆无常”这样的句子表达。按正理，关于这一关系的知识是推理过程中的工具因——正是关于它的知识，与对推理标记的观察相结合，才使我们能作出可靠或能产生知识的推理。甘格沙因此极为重视对这一关系的精确定义。他列出多达二十一种定义，逐一以某种理由加以拒斥；随后又给出七种表述，认为都可接受。在被拒斥的定义中，前五种后来被称为“遍充五定义”（*vyāpti-pañcaka*），在梵语注家及其现代解释者中激发出大量文献。这些定义可追溯到更早的佛教与正理文献。另有两种被拒斥的定义，称为“狮子与老虎”定义，显然出自甘格沙之前的新正理学者（Wada 2007，第 5 章）[^wada-2007]。甘格沙最终接受的定义，称为他的“宗义相”（*siddhānta-lakṣaṇa*）。
+    step2: |-
+      *Vyāpti*（遍充）是推理标记（*hetu*）与所推属性（*sādhya*）之间那个使推理得以成立的关系。它通常用这样的句子表达：“凡有烟处即有火”，或“凡存在者皆无常”。按正理，关于这一关系的知识就是推理过程中的工具因：有了它，再结合对推理标记的观察，我们才能作出可靠、能产生知识的推理。正因如此，甘格沙才极其看重这个关系的精确定义。他一口气列出二十一种定义，各以某种理由否掉；然后又给出七种表述，认为都可接受。被否掉的前五种，后来称作“遍充五定义”（*vyāpti-pañcaka*），梵语注家和现代研究者围绕它写出了大量文献。这些定义可以追溯到更早的佛教与正理文献。另外两种被否掉的定义叫“狮子与老虎”定义，显然出自甘格沙之前的新正理学者（Wada 2007，第 5 章）[^wada-2007]。甘格沙最终接受的那个定义，称作他的“宗义相”（*siddhānta-lakṣaṇa*）。
   - id: 170
     kind: body
     source: |-
       ### 8.3 The ‘No Counter-Example’ Definition
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 8.3 “无同喻例”定义
+    step2: |-
+      ### 8.3 “无同喻例”定义
   - id: 171
     kind: body
     source: |-
       The five definitions which make up Gaṅgeśa’s ‘*vyāpti-pañcaka*’ are all varieties of what we might dub the ‘no counter-example’ definition of the pervasion relation. This states that the inferred property *S* pervades the reason property *H* just in case there is no place/entity where *H* is located but *S* is absent. Formally:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      构成甘格沙“遍充五定义”的五个定义，都是我们可称为遍充关系的“无同喻例”（no counter-example）定义的变种。这一说法是：所推属性 *S* 遍充因属性 *H*，当且仅当不存在 *H* 所在而 *S* 不在的处所或实体。形式地：
+    step2: |-
+      甘格沙“遍充五定义”里的五个定义，都属于我们不妨称为“无同喻例”式的遍充定义。它的意思是：所推属性 *S* 遍充因属性 *H*，当且仅当没有任何处所或实体是 *H* 在而 *S* 不在的。形式地写：
   - id: 172
     kind: body
     source: |-
       **V₁**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **V₁**
+    step2: |-
+      **V₁**
   - id: 173
     kind: body
     source: |-
       Pervades (*S*, *H*) iff ¬(∃*x*)(*Hx* & *S*′*x*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Pervades (*S*, *H*) iff ¬(∃*x*)(*Hx* & *S*′*x*).
+    step2: |-
+      Pervades (*S*, *H*) iff ¬(∃*x*)(*Hx* & *S*′*x*).
   - id: 174
     kind: body
     source: |-
       where *S*′ is used to denote the complement of *S*. This definition is traceable both to the early Nyāya notion of a ‘deviating’ pseudo-reason (i.e. one which occurs somewhere where the inferable property *S* is absent), and to Diṅnāga’s ‘triple-condition’ theory of the inferential sign, his third condition being that H must not be located in any “disagreeing case” (cf. ‘*vipakṣa*’), i.e. a place where *S* is absent. In either case, the intuition is that a relation expressed by “where there is smoke there is fire” obtains just in case there is no place where fire is absent but smoke is present, i.e. no counter-example. The first definition which Gaṅgeśa considers is of just this form. It is that *S* pervades *H* iff *H* has “non-occurrence in the loci of absence of *S*” (*sādhyābhāvavad-avṛttitvam*), i.e. V₁.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其中 *S*′ 用以表示 *S* 的补。这一定义既可追溯到早期正理关于“偏离”伪因的观念（即出现在所推属性 *S* 不在的某处），也可追溯到陈那关于推理标记的“三条件”说：其第三条件是 *H* 不得位于任何“相异品”（*vipakṣa*）即 *S* 不在之处。无论哪一来源，直觉都是：“凡有烟处即有火”所表达的关系成立，当且仅当不存在“火不在而烟在”的处所，即不存在反例。甘格沙所考虑的第一个定义正是这种形式：*S* 遍充 *H*，当且仅当 *H* 具有“于 *S* 的非存在之处不转”（*sādhyābhāvavad-avṛttitvam*），即 V₁。
+    step2: |-
+      这里 *S*′ 表示 *S* 的补。这个定义有两个来历：一是早期正理关于“偏离”伪因的说法（伪因出现在所推属性 *S* 不在的某个地方）；二是陈那的推理标记“三条件”说，其第三条要求 *H* 不得落在任何“相异品”（*vipakṣa*）即 *S* 缺席之处。两个来历都指向同一个直觉：“凡有烟处即有火”成立，当且仅当没有“火不在而烟在”的地方，也就是没有反例。甘格沙考虑的第一个定义正是这个形式：*S* 遍充 *H*，当且仅当 *H* 具有“于所立之无处不转”（*sādhyābhāvavad-avṛttitvam*），也就是 V₁。
   - id: 175
     kind: body
     source: |-
       Why is this plausible-seeming interpretation of the notion of pervasion rejected in Navya-Nyāya? There are two reasons:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这个看似合理的遍充解释，为何在新正理中被拒斥？有两个理由：
+    step2: |-
+      这个看起来挺合理的遍充解释，新正理为什么要否掉？理由有两条：
   - id: 176
     kind: body
     source: |-
       *The Problem of Partially Locatable Properties*. The first problem with the ‘no counter-example’ definition depends on the Navya-nyāya notion of partial location (*avyāpya-vṛtti*). A property is said to occur wholly or completely in an object if it occurs in every part of that object. For example, the property of being golden occurs completely in a piece of (pure) gold; the object is ‘saturated’ (*abhivyāpya)* by the property, just as sesame oil saturates a sesame seed. Some properties, however, occur in some parts of the object but not others—these are called “partially locatable”. For example, the property of being molten occurs at the centre of the Earth but not at the periphery. Note that the same property can be wholly located in some loci and partially located in others—e.g. redness occurs wholly in a ruby but partially in a red snooker ball. The distinction concerns two modes of property-possession, not two types of property. An important point is that, if a property is partially located in an object, then so is its negation. The Naiyāyikas’ standard example of a partially locatable property, viz. “…is in contact with a monkey” (*kapi-samyoga*), illustrates the point. If the monkey is sitting on a branch of a tree, then the following statements may be true:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      部分可定位属性问题。“无同喻例”定义的第一个问题，取决于新正理的“局部遍转”（*avyāpya-vṛtti*）观念。一个属性若发生于对象的每一部分，就说它在该对象中完全地或整体地发生。例如“金色”这一属性完全发生于一块（纯）金之中；对象被该属性“饱和”（*abhivyāpya*），正如芝麻油浸透芝麻。然而有些属性只发生于对象的某些部分而不及其余——这些称为“部分可定位的”。例如“熔化”这一属性发生在地心而不在地表。注意，同一属性可以在某些处所完全定位，在另一些处所部分定位——例如红色完全发生于红宝石中，却部分发生于一颗红色台球中。这一区分涉及两种属性拥有方式，而非两类属性。要紧的一点是：若一个属性部分定位于一个对象，那么它的否定也如此。正理论师关于部分可定位属性的标准例子“……与猴相触”（*kapi-samyoga*）恰好说明了这一点。若猴子坐在树的一根枝条上，下列陈述可以同时为真：
+    step2: |-
+      部分可定位属性带来的麻烦。“无同喻例”定义遇到的第一个问题，与新正理的“局部遍转”（*avyāpya-vṛtti*）观念有关。一个属性若在对象的每一部分都发生，就说它在该对象中完整地发生。比如“金色”在一块（纯）金里就是完整发生的；对象被这个属性“浸透”（*abhivyāpya*），好比芝麻油浸透芝麻。可有些属性只在对象的某些部分发生，别处没有——这叫“部分可定位”。比如“熔化”在地心发生，在地表就不发生。注意，同一个属性可以在这里完整定位、在那里部分定位：红色在红宝石里是完整的，在一颗红台球上却是部分的。这个区分讲的是属性的两种拥有方式，不是两类属性。要紧的是：一个属性若部分定位于某物，它的否定也一样。正理论师举的标准例子“……与猴相触”（*kapi-samyoga*）恰好说明这一点。猴子坐在树枝上时，下面两句话可以同时为真：
   - id: 177
     kind: body
     source: |-
       1. The tree is in-contact-with-the-monkey at time *t*, and
       2. The tree is not-in-contact-with-the-monkey at time *t*,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 树在时刻 *t* 与猴相触，以及
+      2. 树在时刻 *t* 不与猴相触，
+    step2: |-
+      1. 树在时刻 *t* 与猴相触；
+      2. 树在时刻 *t* 不与猴相触。
   - id: 178
     kind: body
     source: |-
       (2) being true because there are parts of the tree with which the monkey is not in contact. Nyāya avoids the threatened violation of the law of non-contradiction by relativising the notion of occurrence. (1) is thus analysed as “the occurrence, of the property being-in-contact-with-the-monkey in the tree, *is delimited by (avacchinna)* the branch”. Since a different delimitor appears in (2), there is no inconsistency between the two statements.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (2) 之所以为真，是因为树上有一些部分猴子并未触到。正理通过把“发生”观念相对化，避免了违反矛盾律的威胁。(1) 于是被分析为“与猴相触这一属性在树中的发生，被枝条所限定（*avacchinna*）”。由于 (2) 中出现的是不同的限界者，两句话并不矛盾。
+    step2: |-
+      (2) 为真，是因为树上有些部分猴子没碰到。正理把“发生”观念加以相对化，从而避开了违反矛盾律的指控。(1) 于是分析为：“与猴相触这一属性在树中的发生，以枝条为限界（*avacchinna*）。”既然 (2) 里的限界者不同，两句话就不冲突。
   - id: 179
     kind: body
     source: |-
       The main effect of admitting partially located properties into the system is that it is no longer the case that a property, *P*, and its complement, *P*′, are disjoint: they may now intersect. If the inferred property is partially located, then the class of “agreeing cases” (*sapakṣas* - places where the inferred property is present) and the class of “disagreeing cases” (*vipakṣas*—places where the inferred property is absent) overlap rather than being distinct classes. To put it another way, a property *P* should be thought of as having both a “presence range” (*P*+) and an “absence range” (*P*−), and the two may overlap. Consider now the standard inference “The mountain has fire, because it has smoke”. Suppose we find a place where smoke is present, and fire is both absent and also present, e.g. the kitchen. Does this show the inference to be faulty? According to definition V₁, it does, because the kitchen will be a counter-example, a place where smoke is present and fire absent. But this is wrong: since fire is also present there, it is not a real counter-example to the rule “where there is smoke there is fire”. The upshot is that we must examine the “presence ranges” of the reason property and inferred properties, not their “absence ranges”. A real counter-example to rule is a case which is in the presence-range of the reason property but not in the presence range of the inferred property.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      把部分可定位属性纳入体系的主要后果是：一个属性 *P* 与其补 *P*′ 不再是不相交的，它们现在可以相交。若所推属性是部分可定位的，那么“同品”（*sapakṣa*，所推属性在场的处所）之类与“异品”（*vipakṣa*，所推属性不在的处所）之类便相互重叠，而非彼此有别。换个说法，应当认为一个属性 *P* 既有“在场范围”（*P*+）又有“缺席范围”（*P*−），二者可以重叠。现在考虑标准推理“山上有火，因为有烟”。假设我们找到一处烟在场、火既不在场又在场的地方，例如厨房。这是否表明推理有缺陷？按定义 V₁，是的，因为厨房会成为反例，即烟在场而火不在场之处。但这错了：既然火在那里也在场，它就不是“凡有烟处即有火”这条规则真正的反例。结论是：我们必须考察因属性与所推属性的“在场范围”，而不是它们的“缺席范围”。规则的真反例，是落在因属性在场范围之内、却不落在所推属性在场范围之内的情形。
+    step2: |-
+      承认部分可定位属性进入体系，主要后果是：属性 *P* 与其补 *P*′ 不再互不相交，它们可能交叉。若所推属性是部分可定位的，“同品”（*sapakṣa*，所推属性在场之处）与“异品”（*vipakṣa*，所推属性缺席之处）这两类就会重叠，而不是彼此分开。换个说法，属性 *P* 应看作既有“在场范围”（*P*+），又有“缺席范围”（*P*−），两者可以交叠。现在看标准推理“山上有火，因为有烟”。假定我们找到一处地方，烟在场，火既缺席又在场——比如厨房。这能说明推理有毛病吗？按 V₁，能，因为厨房成了反例：烟在场，火不在场。可这是错的：火在那里明明也在场，厨房并不构成“凡有烟处即有火”的真反例。由此可见，我们该考察的是因属性与所推属性的“在场范围”，不是“缺席范围”。一条规则的真反例，是落在因属性在场范围之内、却不落在所推属性在场范围之内的情形。
   - id: 180
     kind: body
     source: |-
       Gaṅgeśa’s second definition is designed to solve this problem: *H*’s “non-occurrence in the loci of absence of *S* which are different from locus of *S*”. In other words, a locus of absence of *S* which is also not a locus of *S* should not be a locus of *H*:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      甘格沙的第二个定义正是为解决这一问题而设：*H*“于异于 *S* 所在处的 *S* 非存在之处不转”。换言之，一个 *S* 的缺席之处，若同时也不是 *S* 的所在之处，就不应是 *H* 的所在之处：
+    step2: |-
+      甘格沙的第二个定义就是冲着这个问题来的：*H*“于异于 *S* 所在处的 *S* 缺席之处不转”。换句话说，一个地方若既是 *S* 的缺席之处、又不是 *S* 的所在之处，那它就不该是 *H* 的所在之处：
   - id: 181
     kind: body
     source: |-
       **V₂**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **V₂**
+    step2: |-
+      **V₂**
   - id: 182
     kind: body
     source: |-
       Pervades (*S*, *H*) iff ¬(∃*x*)(*Hx* & *S*′*x* & ¬*Sx*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Pervades (*S*, *H*) iff ¬(∃*x*)(*Hx* & *S*′*x* & ¬*Sx*).
+    step2: |-
+      Pervades (*S*, *H*) iff ¬(∃*x*)(*Hx* & *S*′*x* & ¬*Sx*).
   - id: 183
     kind: body
     source: |-
       The effect of the new clause is precisely to rule out the problem of partially locatable properties, by specifying more restrictively what constitutes a counter-example.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      新加子句的作用，恰恰是通过更严格地界定什么算反例，把部分可定位属性问题排除掉。
+    step2: |-
+      新增的这一子句，作用正是更严格地限定“什么算反例”，从而把部分可定位属性带来的麻烦挡在门外。
   - id: 184
     kind: body
     source: |-
       *The Problem of Universally Positive Inference*. There are, claim the Nyāya, patterns of legitimate inference in which the property inferred has as its extension the entire domain. Such inference are called ‘*kevalānvayin*’ or ‘universally positive’ (cf. TS 55). The stock Nyāya example is the inference “This is nameable, because it is knowable”, nameability being regarded as a property of everything. Another example would be “This exists because it is produced”. If such an inference is sound, then its reason property and inferred property must exemplify the pervasion relation. According to the above definition, to say that nameability pervades knowability is to say that any locus of the property absence-of-nameability is not a locus of knowability. The problem is that, since nameability is a universal property, absence-of-nameability is an uninstantiated (*aprasiddha*) property, and the Nyāya claim that such properties are ontologically suspect. To put it another way, the statement “any locus of the property absence-of-nameability is not a locus of knowability” includes a non-referring expression, “locus-of-absence-of-nameability” or “unnameable thing”, and hence is not truth-evaluable. The problem does not arise for all uninstantiated properties, for some, e.g. being a sky-lotus, or being a square circle, can be shown to be constructs made out of simpler instantiated properties. Thus, the statement “The square circle is circular” can be taken not as containing a non-referring expression, but as meaning “The circle is square and circular”. However, ‘unnameable (thing)’ is not decomposable into two distinct properties this way.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      全同转推理问题。正理主张，存在一些合法推理模式，其所推属性的外延是整个论域。这类推理称为“全同转”（*kevalānvayin*）或“普遍肯定式”（参 TS 55）。正理的标准例子是“这是可名的，因为它是可知的”，可名性被视为万物的属性。另一个例子是“这是存在的，因为它是被产生的”。若这类推理可靠，则其因属性与所推属性必例示遍充关系。按上述定义，说可名性遍充可知性，就是说“不可名性之缺席”这一属性的任何所在处都不是可知性的所在处。问题在于：既然可名性是普遍属性，“不可名性”就是一个无实例的（*aprasiddha*）属性，而正理主张这类属性在存在论上可疑。换句话说，“不可名性之缺席的任何所在处都不是可知性的所在处”这句话包含一个无所指称的表达式——“不可名性缺席之处”或“不可名之物”——因而不可作真假评价。这一问题并非对一切无实例属性都出现，因为有些（如“天空莲花”“方的圆”）可以表明是由更简单的有实例属性构造出来的。于是“方的圆是圆的”这句话可以理解为“这个圆既是方的又是圆的”，而不含无所指称的表达式。但“不可名之物”无法这样分解为两个不同的属性。
+    step2: |-
+      全同转推理的麻烦。正理说，有些合法推理模式，其所推属性的外延铺满整个论域。这类推理叫“全同转”（*kevalānvayin*），即“普遍肯定式”（参考 TS 55）。正理的标准例子是“这是可名的，因为它是可知的”——可名性被当作万物的属性。另一例是“这是存在的，因为它是被产生的”。这类推理若可靠，其因属性与所推属性之间就得成立遍充关系。按上面的定义，说可名性遍充可知性，等于说：“不可名性缺席”这个属性的任何所在处，都不是可知性的所在处。麻烦在于：可名性是普遍属性，所以“不可名性”是个没有实例的（*aprasiddha*）属性，而正理认为这类属性在存在论上可疑。换句话说，“不可名性缺席的任何所在处都不是可知性的所在处”这句话里塞着一个没有指称的表达式——“不可名性缺席之处”或“不可名之物”——因此根本谈不上真假。这个问题并不对一切无实例属性都发生：有些（比如“天空莲花”“方的圆”）可以表明是由更简单的、有实例的属性构造出来的。“方的圆是圆的”便可理解为“这个圆既是方的又是圆的”，其中没有空指称。可“不可名之物”没法这样拆成两个不同的属性。
   - id: 185
     kind: body
     source: |-
       None of the interpretations of the ‘no counter-example’ definition considered by Gaṅgeśa can solve the problem of universally positive inferences, and Gaṅgeśa accordingly rejects them all. His own definition uses a trick to get round the problem.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      甘格沙所考虑的“无同喻例”定义的种种解释，没有一种能解决全同转推理问题，因此他把它们统统拒斥。他自己的定义则用一个技巧绕过了这个问题。
+    step2: |-
+      甘格沙考虑过的“无同喻例”定义诸解释，没有一个能摆平全同转推理，于是他全部否掉。他自己的定义耍了个花招，绕过了这道坎。
   - id: 186
     kind: body
     source: |-
       ### 8.4 Gaṅgeśa’s Definition: the ‘*siddhānta-lakṣaṇa*’
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 8.4 甘格沙的定义：“宗义相”
+    step2: |-
+      ### 8.4 甘格沙的定义：“宗义相”
   - id: 187
     kind: body
     source: |-
       *The Manual of Reason* reproduces with slight simplification Gaṅgeśa’s new definition. It says that *S* and *H* are related by the pervasion relation just in case there is collocation of *H* with *S* and *S* is not a property the absence of which is collocated with *H* (*hetusamānādhikaraṇātyantābhāvāpratiyogi-sādhyasāmānādhikaraṇyam vyāptiḥ;* TS 50). Almost the same formulation is found in other Navya-Nyāya texts, such as the *Siddhānta-muktāvali*. This definition is supposed to be applicable even if the inferred property *S* is ‘universally positive’. The idea, roughly, is that if *S* pervades *H* then no property whose absence is collocated with *H* can be identical to *S*. If we can find an instance of a locus of smoke which is also a locus of the absence of some property, coldness say, then coldness cannot be identical with fieriness. That is:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《理性手册》稍加简化地复述了甘格沙的新定义。它说：*S* 与 *H* 由遍充关系相连，当且仅当 *H* 与 *S* 同所依，且 *S* 不是其缺席与 *H* 同所依的那种属性（*hetusamānādhikaraṇātyantābhāvāpratiyogi-sādhyasāmānādhikaraṇyam vyāptiḥ*；TS 50）。几乎相同的表述见于其他新正理文本，如《宗义摩尼鬘》。这一定义据说即便所推属性 *S* 是“全同转”的也适用。其大意是：若 *S* 遍充 *H*，则任何其缺席与 *H* 同所依的属性，都不可能等同于 *S*。若我们能找到烟的一处所在，它同时也是某属性（比如冷性）缺席的所在，那么冷性就不可能等同于火性。即：
+    step2: |-
+      《理性手册》略加简化，复述了甘格沙的新定义：*S* 与 *H* 由遍充关系相连，当且仅当 *H* 与 *S* 同所依，并且 *S* 不是那种“其缺席与 *H* 同所依”的属性（*hetusamānādhikaraṇātyantābhāvāpratiyogi-sādhyasāmānādhikaraṇyam vyāptiḥ*；TS 50）。《宗义摩尼鬘》等其他新正理文本里，几乎同样的表述也出现过。这个定义据说连“全同转”的所推属性 *S* 也能应付。大意是：若 *S* 遍充 *H*，那么凡是“其缺席与 *H* 同所依”的属性，都不可能正是 *S*。比方说，我们若是找到烟的某处所在，它同时又是某属性（就说冷性吧）缺席的所在，那么冷性就不可能是火性。也就是：
   - id: 188
     kind: body
     source: |-
       Pervades (*S*, *H*) only if (∃*x*)(*Hx* & *P*′*x*) → (*P* ≠ *S*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Pervades (*S*, *H*) only if (∃*x*)(*Hx* & *P*′*x*) → (*P* ≠ *S*).
+    step2: |-
+      Pervades (*S*, *H*) only if (∃*x*)(*Hx* & *P*′*x*) → (*P* ≠ *S*).
   - id: 189
     kind: body
     source: |-
       (There is an implicit quantification over *P* here). What this says is that there is no place where *H* is collocated with the absence of *S*, but it does so without actually using the potentially non-referring phrase “absence of S”, and it thereby avoids the problem of universally positive properties. However, although this condition is necessary for pervasion, it is not sufficient, for it is consistent with *H* (or *S*) being uninstantiated. So Gaṅgeśa insists too that *H* and *S* must be collocated:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （这里对 *P* 有一个隐含的全称量化。）这句话说的是：不存在 *H* 与 *S* 之缺席同所依的地方；但它实际上并未使用可能无所指称的“*S* 之缺席”这一短语，从而避开了全同转属性问题。然而，这一条件对遍充虽必要却不充分，因为它与 *H*（或 *S*）无实例的情形相容。所以甘格沙还坚持 *H* 与 *S* 必须同所依：
+    step2: |-
+      （这里对 *P* 隐含着一个全称量化。）这句话的意思是：没有哪个地方是 *H* 与“*S* 之缺席”同所依的；但它自始至终没有动用那个可能空指的短语“*S* 之缺席”，于是绕开了全同转属性的难题。不过，这个条件对遍充只是必要的，还不充分——它与“*H*（或 *S*）根本没有实例”并不冲突。因此甘格沙又强调：*H* 与 *S* 必须同所依：
   - id: 190
     kind: body
     source: |-
       Pervades (*S*, *H*) iff i. ∃*x* (*Hx* & *P*′*x*) → (*P* ≠ *S*), and
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Pervades (*S*, *H*) iff i. ∃*x* (*Hx* & *P*′*x*) → (*P* ≠ *S*), and
+    step2: |-
+      Pervades (*S*, *H*) iff i. ∃*x* (*Hx* & *P*′*x*) → (*P* ≠ *S*), and
   - id: 191
     kind: body
     source: |-
       **ii.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **ii.**
+    step2: |-
+      **ii.**
   - id: 192
     kind: body
     source: |-
       ∃*x* (*Hx* & *Sx*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ∃*x* (*Hx* & *Sx*).
+    step2: |-
+      ∃*x* (*Hx* & *Sx*).
   - id: 193
     kind: body
     source: |-
       Gaṅgeśa’s trick implicitly trades on the theorem “*A* → *B* ≡ ¬ (*A* & ¬ *B*)”. Thus clause (i) is virtually equivalent to V₁. This shows too that we do not yet have a definition which can deal with the partially locatable properties, for which we need something more like V₂. Hence Gaṅgeśa’s final definition is:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      甘格沙的技巧在暗中利用了定理“*A* → *B* ≡ ¬(*A* & ¬*B*)”。于是子句 (i) 实际上等价于 V₁。这也表明，我们仍未得到一个能处理部分可定位属性的定义，那需要更像 V₂ 的东西。因此甘格沙的最终定义是：
+    step2: |-
+      甘格沙这一手，暗地里用上了定理“*A* → *B* ≡ ¬(*A* & ¬*B*)”。于是子句 (i) 实质上等于 V₁。这也说明，眼下这个定义仍处理不了部分可定位属性——那需要更像 V₂ 的东西。所以甘格沙的最终定义是：
   - id: 194
     kind: body
     source: |-
       **V₃**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **V₃**
+    step2: |-
+      **V₃**
   - id: 195
     kind: body
     source: |-
       Pervades (S, H) iff i. ∃*x* (*Hx* & *P*′*x* & ¬*Px*) → (*P* ≠ *S*), and
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Pervades (S, H) iff i. ∃*x* (*Hx* & *P*′*x* & ¬*Px*) → (*P* ≠ *S*), and
+    step2: |-
+      Pervades (S, H) iff i. ∃*x* (*Hx* & *P*′*x* & ¬*Px*) → (*P* ≠ *S*), and
   - id: 196
     kind: body
     source: |-
       **ii.**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **ii.**
+    step2: |-
+      **ii.**
   - id: 197
     kind: body
     source: |-
       ∃*x* (*Hx* & *Sx*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ∃*x* (*Hx* & *Sx*).
+    step2: |-
+      ∃*x* (*Hx* & *Sx*).
   - id: 198
     kind: body
     source: |-
       This definition of pervasion is able to handle both universally positive properties and partially located properties appearing as inferred property.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一遍充定义既能处理全同转属性，也能处理作为所推属性出现的部分可定位属性。
+    step2: |-
+      这个遍充定义，既能应付全同转属性，也能应付以所推属性身份出现的部分可定位属性。
   - id: 199
     kind: body
     source: |-
       One may wonder why it is that, since a pervasion relation is of the form “all *H*s are *S*”, the Naiyāyikas did not simply use the notion of universal quantification in their definitions. The answer, perhaps, is that they were in fact trying to define this notion, and to do so only in terms of certain other notions which they took to be primitive, especially the notion of co-location and absence. If this is correct, however, then we must show how to reconstruct the definition without its implicit quantification over a property *P* (cf. Goekoop 1967).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人们或许会问：既然遍充关系的形式是“凡 *H* 皆 *S*”，正理论师为何不直接在定义中使用全称量化的观念？答案或许是：他们实际上正是在试图定义这一观念，并且只用某些他们视为初始的观念来定义它，尤其是同所依与缺席。若果真如此，我们就必须表明，如何在不隐含对属性 *P* 作量化的条件下重建这一定义（参 Goekoop 1967）。
+    step2: |-
+      有人可能纳闷：遍充关系的形式不就是“凡 *H* 皆 *S*”吗，正理论师干吗不干脆在定义里用全称量化？答案也许是：他们恰恰是在定义全称量化本身，而且只想用几个被当作初始的观念来定义，尤其是“同所依”和“缺席”。若果真如此，那我们就得交代清楚：如何在不偷偷对属性 *P* 作量化的前提下，把这一定义重建出来（参考 Goekoop 1967）。
   - id: 200
     kind: body
     source: |-
