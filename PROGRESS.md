@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-11 07:30（UTC）
+生成时间：2026-11-11 10:23（UTC）
 
 ## 总览
 
@@ -14,22 +14,22 @@
 |已建英文基线|1879|
 |已建任务|1182|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|325|
-|在途（drafted 起、done 前）|203|
+|已完成（done）|330|
+|在途（drafted 起、done 前）|202|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|654|
-|cleared|141|
-|drafted|2|
-|s2_checked|1|
-|s3_checked|52|
-|r1_reviewed|1|
+|pending|650|
+|cleared|140|
+|drafted|3|
+|s1_checked|1|
+|s3_checked|51|
 |r2_reviewed|6|
-|done|325|
+|r3_reviewed|1|
+|done|330|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -38,12 +38,12 @@
 |A|160|160|160|56|
 |B|62|62|62|16|
 |C|172|172|172|23|
-|D|92|92|92|16|
+|D|92|92|92|17|
 |E|99|99|99|24|
 |F|96|96|96|1|
 |G|49|49|49|11|
 |H|61|61|61|15|
-|I|75|75|75|27|
+|I|75|75|75|29|
 |J|38|38|38|8|
 |K|36|36|36|21|
 |L|144|144|30|30|
@@ -52,7 +52,7 @@
 |O|21|21|13|12|
 |P|165|165|12|8|
 |Q|34|34|34|2|
-|R|85|85|85|11|
+|R|85|85|85|13|
 |S|161|161|18|16|
 |T|71|71|7|4|
 |U|4|4|0|0|
@@ -147,14 +147,13 @@
 |descartes-ethics|retranslate|s3_checked|? 2026-11-04|
 |descartes-ideas|retranslate|s3_checked|? 2026-11-04|
 |dewey-political|retranslate|s3_checked|? 2026-11-05|
-|dialectical-school|retranslate|s3_checked|D-main-20261107 2026-11-06|
 |diodorus-cronus|retranslate|s3_checked|D-main-20261107 2026-11-07|
 |disability|retranslate|s3_checked|D-main-20261109 2026-11-09|
 |disability-care-rationing|retranslate|s3_checked|D-main-20261108 2026-11-08|
 |double-effect|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
-|early-modern-india|retranslate|cleared|task_ops 2026-11-10|
+|early-modern-india|retranslate|s1_checked|E-main-20261111 2026-11-11|
 |faith|retranslate|r2_reviewed|F-main-20261111b 2026-11-11|
-|falaquera|retranslate|r1_reviewed|F-main-20261111b 2026-11-11|
+|falaquera|retranslate|r2_reviewed|F-main-20261111b 2026-11-11|
 |frame-problem|retranslate|r2_reviewed|F-main-20261111b 2026-11-11|
 |fuller-margaret|retranslate|r2_reviewed|F-main-20261111b 2026-11-11|
 |gadamer-aesthetics|retranslate|cleared|task_ops 2026-11-01|
@@ -165,6 +164,7 @@
 |gene|retranslate|cleared|EH-main-20261106 2026-11-06|
 |generics|retranslate|cleared|task_ops 2026-11-01|
 |genetic-drift|retranslate|cleared|task_ops 2026-11-01|
+|genetics|retranslate|s3_checked|G-main-20261111 2026-11-11|
 |genotype-phenotype|retranslate|cleared|task_ops 2026-11-01|
 |george-eliot|retranslate|cleared|task_ops 2026-11-01|
 |global-democracy|retranslate|cleared|task_ops 2026-11-01|
@@ -184,7 +184,7 @@
 |hermann-lotze|retranslate|cleared|task_ops 2026-11-01|
 |heytesbury|retranslate|cleared|task_ops 2026-11-01|
 |higher-order-evidence|retranslate|cleared|task_ops 2026-11-01|
-|hilbert-program|retranslate|cleared|task_ops 2026-11-01|
+|hilbert-program|retranslate|s3_checked|H-main-20261111 2026-11-11|
 |hist-westphilmusic-to-1800|retranslate|cleared|task_ops 2026-11-01|
 |hobbes|retranslate|cleared|task_ops 2026-11-01|
 |hobbes-science|retranslate|s3_checked|H-main-20261111 2026-11-11|
@@ -193,9 +193,8 @@
 |hume-freewill|retranslate|cleared|task_ops 2026-11-01|
 |hume-moral|retranslate|cleared|task_ops 2026-11-01|
 |humor|retranslate|cleared|task_ops 2026-11-01|
-|identity-indiscernible|retranslate|s3_checked|I-main-20261111 2026-11-11|
-|idiolects|retranslate|cleared|task_ops 2026-11-11|
 |imaginative-resistance|retranslate|cleared|task_ops 2026-11-01|
+|immigration|retranslate|cleared|task_ops 2026-11-11|
 |immunology|retranslate|cleared|task_ops 2026-11-01|
 |impossible-worlds|retranslate|cleared|task_ops 2026-11-01|
 |information-biological|retranslate|cleared|task_ops 2026-11-01|
@@ -252,13 +251,13 @@
 |montessori-maria|retranslate|s3_checked|M-main-20261111 2026-11-10|
 |moral-learning|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |music|retranslate|s3_checked|M-main-20261109b 2026-11-09|
-|newton-principia|retranslate|cleared|task_ops 2026-11-11|
+|newton-principia|retranslate|drafted|N-main-20261111 2026-11-11|
 |omnipotence|retranslate|cleared|task_ops 2026-11-10|
-|qm|retranslate|r2_reviewed|Q-main-20261111 2026-11-11|
-|qm-relational|retranslate|s2_checked|Q-main-20261111 2026-11-11|
-|ramsey-economics|retranslate|r2_reviewed|R-main-20261111 2026-11-11|
-|ricoeur|retranslate|s3_checked|R-main-20261111 2026-11-11|
-|risk|retranslate|r2_reviewed|R-main-20261111 2026-11-11|
+|qm|retranslate|r3_reviewed|Q-main-20261111 2026-11-11|
+|qm-relational|retranslate|r2_reviewed|Q-main-20261111 2026-11-11|
+|quantum-bayesian|retranslate|cleared|task_ops 2026-11-11|
+|repugnant-conclusion|retranslate|cleared|task_ops 2026-11-11|
+|ricoeur|retranslate|r2_reviewed|R-main-20261111 2026-11-11|
 |sign-language-semantics|retranslate|cleared|task_ops 2026-11-10|
 |tarski-truth|retranslate|cleared|task_ops 2026-11-08|
 |weyl|retranslate|cleared|task_ops 2026-11-08|
