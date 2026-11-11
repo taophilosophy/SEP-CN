@@ -30,7 +30,7 @@
       "status": "ok",
       "actor": "?",
       "at": "2026-11-06T12:50:39Z",
-      "evidence": "prose 实修 5 处（长句 4 拆分：L4/L64/L108/L132、weak-verb 1：‘不可加以任何云谓’→‘非任何云谓所能及’）；转写撇号 51 处 U+2018/U+2019→U+02BC，defs 区 14 行回源照录；残留扫描未见中英混杂"
+      "evidence": "prose 实修 5 处（长句 4 拆分：L4/L64/L108/L132、weak-verb 1：‘不可加以任何云谓’→‘非任何云谓所能及’）；转写撇号 51 处 U+2018/U+2019→U+02BC，defs 区 14 行回源照录；残留扫描未见中英混杂；语体：文言（本轮二校稿经 specs/015 复核判定通篇文言，真·之/的=0.796，以之代“的”与文言判断句成段出现；据 ADR-0033 于 2026-11-10 置空重译，本轮结论以 specs/015-style-register-review/results/verdicts.jsonl 既有判定为准，reviewer pc6-20261111）"
     },
     {
       "step": "s3",
@@ -44,7 +44,7 @@
       "status": "ok",
       "actor": "I-main-20261108",
       "at": "2026-11-07T20:12:50Z",
-      "evidence": "独立复审（rules/04 独立性：本会话≠初译会话）：对照 yuanwen/i/israeli.md 六节逐段核销 80 段，段落数与脚注位置全对齐；37 条脚注（altmann×3/fried/freudenthal/hirschfield×2/muckle×2/stern×3/adamson×2/alonso/altmann-1979/blachere/d'ancona/engel/ferre/guttmann×2/husik/ivry/langermann/pessin×2/rudavsky/sadik/sirat/stern-1960/1957/stitskin/teicher/wolfson×2/zimmerman）逐条比对源文顺序与文字，源文拼写讹误（Guttmann 'irhen/judische'、'Addler'、'Book on Sprit and Soul'、'Fida Orthodoxa'、Guttman/Guttmann）按照录原则保全；文献页引证（Altmann and Stern pp. x/5/10-11/24/25/36-7/39/50/59/78/86/120-121/157-8/183/217/30,44,73-74,117/81-105/108-117/119-132/xiii-xiv、Blachere p.157、Teicher p.424、Stern pp.16-17、Fried pp.75-83、Alonso pp.295,325、Engel 2022、Freudenthal and Stern 2017、Wolfson 1961 pp.279-280）全在场；三书辨名核销：《论元素章》（Chapter on the Elements/曼图亚文本）、《元素之书》（Book of the Elements/Kitab al-Ustuqussat）、《定义之书》三称不混（§5 导言'除《论元素之书》外'对源 'except the Book on the Elements' 义确）。实抓 1 处：§4.4 源文括注 (אלפכר) 译文脱漏，已补回"
+      "evidence": "独立复审（rules/04 独立性：本会话≠初译会话）：对照 yuanwen/i/israeli.md 六节逐段核销 80 段，段落数与脚注位置全对齐；37 条脚注（altmann×3/fried/freudenthal/hirschfield×2/muckle×2/stern×3/adamson×2/alonso/altmann-1979/blachere/d'ancona/engel/ferre/guttmann×2/husik/ivry/langermann/pessin×2/rudavsky/sadik/sirat/stern-1960/1957/stitskin/teicher/wolfson×2/zimmerman）逐条比对源文顺序与文字，源文拼写讹误（Guttmann 'irhen/judische'、'Addler'、'Book on Sprit and Soul'、'Fida Orthodoxa'、Guttman/Guttmann）按照录原则保全；文献页引证（Altmann and Stern pp. x/5/10-11/24/25/36-7/39/50/59/78/86/120-121/157-8/183/217/30,44,73-74,117/81-105/108-117/119-132/xiii-xiv、Blachere p.157、Teicher p.424、Stern pp.16-17、Fried pp.75-83、Alonso pp.295,325、Engel 2022、Freudenthal and Stern 2017、Wolfson 1961 pp.279-280）全在场；三书辨名核销：《论元素章》（Chapter on the Elements/曼图亚文本）、《元素之书》（Book of the Elements/Kitab al-Ustuqussat）、《定义之书》三称不混（§5 导言'除《论元素之书》外'对源 'except the Book on the Elements' 义确）。实抓 1 处：§4.4 源文括注 (אלפכר) 译文脱漏，已补回；语体：文言（同上，本轮独立复审稿经 specs/015 复核判定通篇文言，真·之/的=0.796，已按 ADR-0033 于 2026-11-10 置空重译；判定凭证见 015 verdicts 台账 israeli 条目，reviewer pc6-20261111）"
     },
     {
       "step": "r2",
