@@ -1185,52 +1185,72 @@ segments:
     kind: body
     source: |-
       Two aspects of the general thrust of the method are perfectly clear. First, Newton viewed it as contrasting with what was then called the method of hypotheses — that is, the method of putting forward hypotheses that reached far beyond the available data and then marshalling evidence for them by deducing testable conclusions from them.[^note-58] Second, Newton viewed the method as requiring that questions be regarded as open when empirical considerations had not yet yielded answers to them. Whatever may have been required for empirical consideration to establish a theoretical conclusion, and whatever the status, provisional or otherwise, any such established conclusion was supposed to have, Newton viewed the method as allowing — even mandating — that theoretical answers to some questions could be established even while other closely related questions remained in abeyance. In particular, to use Newton's phrasing from the Scholium that ends Section 11, the physical species and physical proportions of forces could, in the appropriate sense, be established even though the question of their physical causes remained open. The clear aim of the method was accordingly to limit theoretical claims to “inductive generalizations,” as specified by the Rules of Reasoning, of conclusions dictated by experiment and observation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      该方法的总体旨趣有两个方面完全清楚。第一，牛顿认为它与当时所谓假设方法形成对照，即提出远远超出可得数据的假设，然后通过从中推出可检验结论来为它们收集证据的方法。[^note-58] 第二，牛顿认为该方法要求：当经验考虑尚未给出答案时，问题应被视为开放的。无论经验考虑要确立一个理论结论需要什么，也无论任何如此确立的结论应具有何种地位（暂定的还是其他的），牛顿认为该方法允许——甚至要求——某些问题的理论答案可以被确立，而其他密切相关的问题则仍可悬置。尤其是，用牛顿在结束第十一节的附释中的说法，力的物理种类与物理比例可以在适当意义上被确立，即使关于其物理原因的问题仍然开放。因此，该方法的明确目标，是把理论主张限制为“归纳概括”——按推理法则所规定——即限制为由实验与观察所规定的结论。
+    step2: |-
+      该方法总体旨趣的两个方面完全清楚。第一，牛顿认为它与当时所谓假设方法形成对照，即提出远远超出可得数据的假设，然后通过从中推出可检验结论来为它们收集证据的方法。[^note-58] 第二，牛顿认为该方法要求：当经验考虑尚未给出答案时，问题应被视为开放的。无论经验考虑要确立一个理论结论需要什么，也无论任何如此确立的结论应具有何种地位（暂定的还是其他的），牛顿认为该方法允许——甚至要求——某些问题的理论答案可以被确立，而其他密切相关的问题则仍可悬置。特别是，用牛顿在结束第十一节的附释中的说法，力的物理种类与物理比例可以在适当意义上被确立，即使关于其物理原因的问题仍然开放。因此，该方法的明确目标，是把理论主张限制为“归纳概括”——按推理法则所规定——即限制为由实验与观察所规定的结论。
   - id: 142
     kind: body
     source: |-
       Newton's eschewing the method of hypotheses produced no controversy at the time. In a manuscript revision of his “Essay on the causes of celestial motions” Leibniz even adopted Newtonian phrasing: “What follows is not based on hypotheses but is deduced from phenomena by the laws of motion” [Aiton, 1972, 132]. A large fraction of those who had read at most small portions of the *Principia* and depended on others for their knowledge of it most likely saw Newton as having hypothesized inverse-square attraction and hence as in fact following the method of hypotheses. In the years after Newton died, the most celebrated issues receiving concentrated research arose not from how Newton had arrived at universal gravity, but from the claims he had derived from it concerning the figure of the Earth, the vagaries in the motions of Jupiter and Saturn, and the motion of the Moon. The individuals at the center of this research certainly saw these issues as a test of Newton's theory of gravity, but the distinction between taking the theory as a hypothesis and taking it as a provisionally established conclusion was a distinction without much difference for them. Still, it is worth noting that the conclusion Clairaut first drew from the factor of 2 discrepancy in the motion of the lunar apogee was not that Newton's theory of gravity was false, but that the inverse-square needed to be supplemented by a 1/*r*⁴ term — a response fully in keeping with Newton's fourth rule of reasoning.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      牛顿对假设方法的摒弃，在当时并未引起争议。莱布尼茨甚至在他《论天体运动的原因》的手稿修订中采用了牛顿式措辞：“下文并非基于假设，而是借运动定律从现象中推出”[Aiton, 1972, 132]。那些至多只读过《原理》一小部分、并依靠他人来了解它的人，很可能把牛顿看作先假设了平方反比吸引、因而实际上遵循了假设方法。牛顿去世后的年代里，受到集中研究的最著名问题，并非来自牛顿如何达到万有引力，而是来自他由此推出的关于地球形状、木星与土星运动中的游移以及月球运动的主张。处于这些研究中心的那些人，确实把这些看作对牛顿引力理论的检验，但对他们来说，把该理论当作假设与把它当作暂定确立的结论，这一区分并没有多大差别。不过值得指出的是，克莱罗最初从月球远地点运动的两倍之差得出的结论，并不是牛顿引力理论为假，而是平方反比需要补充一个 1/*r*⁴ 项——这一回应完全符合牛顿的第四条推理法则。
+    step2: |-
+      牛顿摒弃假设方法，在当时并未引起争议。莱布尼茨甚至在他《论天体运动的原因》的手稿修订中采用了牛顿式措辞：“下文并非基于假设，而是借运动定律从现象中推出”[Aiton, 1972, 132]。那些至多只读过《原理》一小部分、并依靠他人来了解它的人，很可能把牛顿看作先假设了平方反比吸引、因而实际上遵循了假设方法。牛顿去世后的年代里，受到集中研究的最著名问题，并非来自牛顿如何达到万有引力，而是来自他由此推出的关于地球形状、木星与土星运动中的游移以及月球运动的主张。处于这些研究中心的那些人，确实把这些看作对牛顿引力理论的检验，但对他们来说，把该理论当作假设与把它当作暂定确立的结论，这一区分并没有多大差别。不过值得指出，克莱罗最初从月球远地点运动的两倍之差得出的结论，并不是牛顿引力理论为假，而是平方反比需要补充一个 1/*r*⁴ 项——这一回应完全符合牛顿的第四条推理法则。
   - id: 143
     kind: body
     source: |-
       The aspect of Newton's method that did produce controversy at the time was his insisting that he had established conclusions about the physical species and physical proportions of celestial forces while holding questions about their physical causes in abeyance. This was the core of the complaint by Cartesians that the *Principia* was a work of mathematics, not physics. For Newton's two most important critics, however, Huygens and Leibniz, the objection was not to holding the question of physical causes open, but to accepting certain conclusions that in their mind ruled out the very possibility of a proper answer to the question of physical cause. The defect in Newton's method lay in its not imposing the constraint on theory that all action be through contact, and not at a distance. The violation of this constraint lay behind Huygens's remarking,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      牛顿方法在当时确实引起争议的方面，是他坚持：自己已经确立了关于天体力的物理种类与物理比例，同时又把关于其物理原因的问题搁置起来。这正是笛卡尔派抱怨《原理》是数学作品而非物理作品的核心。然而对牛顿最重要的两位批评者惠更斯与莱布尼茨来说，异议并不在于把物理原因问题保持开放，而在于接受某些在他们看来排除了对物理原因问题作出恰当回答之可能性的结论。牛顿方法的缺陷在于，它没有对理论施加这样的约束：一切作用都通过接触、而非超距进行。违反这一约束，正是惠更斯如下评论背后的原因：
+    step2: |-
+      牛顿方法中在当时确实引起争议的方面，是他坚持：自己已经确立了关于天体力的物理种类与物理比例，同时又把关于其物理原因的问题搁置起来。这正是笛卡尔派抱怨《原理》是数学作品而非物理学作品的核心。然而对牛顿最重要的两位批评者惠更斯与莱布尼茨来说，异议并不在于把物理原因问题保持开放，而在于接受某些在他们看来排除了对物理原因问题作出恰当回答之可能性的结论。牛顿方法的缺陷在于，它没有对理论施加这样的约束：一切作用都通过接触、而非超距进行。违反这一约束，正是惠更斯如下评论背后的原因：
   - id: 144
     kind: body
     source: |-
       > Concerning the Cause of the tides given by M. Newton, I am by no means satisfied, nor by all the other Theories that he builds upon his Principle of Attraction, which seems to me absurd, as I have already mentioned in the addition to the *Discourse on Gravity*. And I have often wondered how he could have given himself all the trouble of making such a number of investigations and difficult calculations that have no other foundation than this very principle. [**OH**, IX, 538]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 关于牛顿先生给出的潮汐原因，我绝不满意，对他基于其吸引原理所建立的所有其他理论也绝不满意；在我看来，这个原理是荒谬的，正如我在《论重力》附录中已经提到的。我常常感到奇怪：他怎能费尽周折作出如此多的研究和困难的计算，而这些研究除了以这个原理本身为基础之外别无其他基础。[**OH**, IX, 538]
+    step2: |-
+      > 关于牛顿先生给出的潮汐原因，我绝不满意，对他基于其吸引原理所建立的所有其他理论也绝不满意；在我看来，这个原理是荒谬的，正如我在《论重力》附录中已经提到的。我常常感到奇怪：他怎能费尽周折作出如此多的研究和困难的计算，而这些研究除了以这个原理本身为基础之外别无其他基础。[**OH**, IX, 538]
   - id: 145
     kind: body
     source: |-
       This, then, was the truly controversial aspect of Newton's method in the *Principia* with which the next generation had to come to some accommodation before research on its loose ends could become respectable.[^note-59]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所以，这就是《原理》中牛顿方法真正引起争议的方面；下一代人必须先与之达成某种妥协，然后对其次要问题的研究才可能变得体面。[^note-59]
+    step2: |-
+      因此，这就是《原理》中牛顿方法真正有争议的方面；下一代人必须先与之达成某种妥协，然后对其次要问题的研究才能变得体面。[^note-59]
   - id: 146
     kind: body
     source: |-
       The idea of developing a mathematical theory in order to enable experiment and observation to provide theory-mediated answers to questions did not originate with the *Principia*. In his *Horologium Oscillatorium*, the work the *Principia* most emulates, Huygens had developed a mathematical theory of pendulum motion that enabled measurement of the length and period of pendulums to provide a robust precise answer to the question, how far does an object fall in the absence of air resistance in the first second? — the measure then of the strength of surface gravity; and he had developed a mathematical theory of uniform circular motion that enabled measurement of the height and period of conical pendulums to provide a second answer to this question. By the time Newton started on the *Principia* pendulums had been used for more than a decade to answer questions about how surface gravity varies between Paris and other locations. The special problem Newton saw himself as having to face in using mathematical theory to a comparable end in the *Principia* stemmed from his realization, expressed in the “Copernican scholium,” that the phenomena of orbital motions are inordinately complicated and hence open to multiple competing descriptions. The problem thus became one of finding a way to use mathematical theory to draw definite robust answers to questions about the physical species and proportions of forces from these phenomena. These answers opened the way to pursing the true motions in a sequence of successive approximations, in the process of which continuing evidence could be brought to bear on the theory, potentially delimiting its exactness and its universal applicability in the manner Newton had noted in his fourth rule of reasoning. Because the “Copernican scholium” was unknown at the time, the subtleties of the new method Newton followed to get around this problem went largely unnoticed.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为了实验与观察能够对问题给出受理论中介的答案而发展一种数学理论，这一想法并不是从《原理》开始的。在《摆钟论》中——这部作品是《原理》最着力效仿的——惠更斯发展了一种摆运动的数学理论，使摆长与周期的测量能为如下问题提供稳健而精确的答案：在无空气阻力的情况下，物体在第一秒内下落多远？——这是当时表面重力强度的量度；他还发展了一种匀速圆周运动的数学理论，使圆锥摆高度与周期的测量能为同一问题提供第二个答案。到牛顿着手写《原理》时，摆已经被使用十多年，以回答关于巴黎与其他地点之间表面重力如何变化的问题。牛顿在《原理》中为类似目的使用数学理论时，认为自己必须面对的特殊问题，源于他的如下认识（表达于“哥白尼附释”中）：轨道运动现象极其复杂，因而对多种相互竞争的描述开放。于是问题变成：找到一种方式，使用数学理论从这些现象中得出关于力的物理种类与比例的明确而稳健的答案。这些答案为以逐次逼近的序列追求真实运动开辟了道路，在这个过程中可以不断为理论积累证据，并可能按照牛顿在第四条推理法则中所指出的方式，限定其精确性与普遍适用性。由于“哥白尼附释”当时不为人知，牛顿为绕过这个问题所遵循的新方法的微妙之处，在很大程度上未被注意到。
+    step2: |-
+      为了实验与观察能够对问题给出受理论中介的答案而发展一种数学理论，这一想法并非始于《原理》。在《摆钟论》中——这部作品是《原理》最着力效仿的——惠更斯发展了一种摆运动的数学理论，使摆长与周期的测量能为如下问题提供稳健而精确的答案：在无空气阻力的情况下，物体在第一秒内下落多远？——这是当时表面重力强度的量度；他还发展了一种匀速圆周运动的数学理论，使圆锥摆高度与周期的测量能为同一问题提供第二个答案。到牛顿开始写《原理》时，摆已经被使用十多年，以回答关于巴黎与其他地点之间表面重力如何变化的问题。牛顿在《原理》中为类似目的使用数学理论时，认为自己必须面对的特殊问题，源于他的如下认识（表达于“哥白尼附释”中）：轨道运动现象极其复杂，因而对多种相互竞争的描述开放。于是问题变成：找到一种方式，使用数学理论从这些现象中得出关于力的物理种类与比例的明确而稳健的答案。这些答案为以逐次逼近的序列追求真实运动开辟了道路，在这个过程中可以不断为理论积累证据，并可能按照牛顿在第四条推理法则中所指出的方式，限定其精确性与普遍适用性。由于“哥白尼附释”当时不为人知，牛顿为绕过这个问题所遵循的新方法的微妙之处，在很大程度上未被注意到。
   - id: 147
     kind: body
     source: |-
       Needless to say, these comments do not answer the philosophically most interesting question of how the method of the *Principia* contributed to the unprecedented success of its theory of gravity. Hopefully, however, they do remove some sources of confusion that have distorted so much of the philosophical discussion of the *Principia*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      无需多说，这些评论并未回答哲学上最有趣的问题： 《原理》的方法如何促成了其引力理论前所未有的成功。不过，但愿它们确实消除了一些混乱来源，而这些混乱扭曲了关于《原理》的许多哲学讨论。
+    step2: |-
+      不用说，这些评论并未回答哲学上最有趣的问题： 《原理》的方法如何促成了其引力理论前所未有的成功。不过，希望它们确实消除了一些混乱来源，而这些混乱扭曲了关于《原理》的许多哲学讨论。
   - id: 148
     kind: oir
     source: |-
       - [MacTutor History of Mathematics Archive](https://mathshistory.st-andrews.ac.uk/Biographies/Newton/)
       - [The Newton Project](http://www.newtonproject.sussex.ac.uk)
       - [The Newton Project-Canada](http://www.isaacnewton.ca)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - [MacTutor 数学史资料库](https://mathshistory.st-andrews.ac.uk/Biographies/Newton/)
+      - [牛顿项目](http://www.newtonproject.sussex.ac.uk)
+      - [牛顿项目（加拿大）](http://www.isaacnewton.ca)
+    step2: |-
+      - [MacTutor 数学史档案](https://mathshistory.st-andrews.ac.uk/Biographies/Newton/)
+      - [牛顿项目](http://www.newtonproject.sussex.ac.uk)
+      - [加拿大牛顿项目](http://www.isaacnewton.ca)
   - id: 149
     kind: note
     source: |-
