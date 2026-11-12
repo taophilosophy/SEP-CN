@@ -2,7 +2,7 @@
   "slug": "algebra-logic-tradition",
   "kind": "retranslate",
   "zh_doc": "a/algebra-logic-tradition.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-12T01:07:25Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T07:14:42Z",
+      "evidence": "ADR-0021 账本 80 段双版全填（本会话自译；数学段 LaTeX 逐字符照录 \\ORjev/align/\\mbox 等），lq.py check 守恒 OK；compose 落 277 行"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T07:14:42Z",
+      "evidence": "对账：定义 75=75、marker 序列 28=28 同序、h2/h3=15/2 全等；年份 213 全序一致，正文另有年代表述（1860 年代末等）8 处属译法；相关词条补译（莱布尼茨对 19 世纪逻辑学的影响）；公式 92 条与 mirror 核对 missing=0，unbalanced 1 为源侧未闭合定界符告警（工具注明不驱动退出码）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T07:14:42Z",
+      "evidence": "check_prose 26→0：全部实修（长句拆分 10、去的字链 12、弱动词 4、被字句 3），无豁免残留"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T07:14:44Z",
+      "evidence": "check_style 0、check_academic --strict OK、check_math missing=0；术语 7 条（等式逻辑/包摄/格/柱形代数/多元代数/基项/罗宾斯猜想）与人名 3 行（Robbins/Halmos/Stone）入册"
     }
   ],
   "blockers": [],
