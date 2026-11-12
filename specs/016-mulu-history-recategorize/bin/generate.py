@@ -68,7 +68,7 @@ def emit_section(out, path, rows, path_map, last):
         common += 1
     for i in range(common, len(parts)):
         out.append('#' * (i + 1) + ' ' + parts[i])
-    out.append('')
+        out.append('')
     slugs = {r['slug'] for r in rows}
     roots = [r for r in rows if r['parent'] not in slugs]
     children = {}

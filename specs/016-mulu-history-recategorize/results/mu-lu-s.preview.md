@@ -20,8 +20,11 @@ outline: [1, 6]
 * [联系信息](guan-yu/lian-xi-xin-xi.md)
 
 # 西方哲学史
+
 ## 一、古代哲学
+
 ### 1.1 早期希腊自然哲学
+
 #### 伊奥尼亚哲学
 
 * [前苏格拉底哲学 Presocratic Philosophy (Patricia Curd)](p/presocratics.md)
@@ -49,6 +52,7 @@ outline: [1, 6]
 * [恩培多克勒 Empedocles (K. Scarlett Kingsley and Richard Parry)](e/empedocles.md)
 
 ### 1.2 古典希腊哲学
+
 #### 智者运动
 
 * [智者 Sophists, The (C.C.W. Taylor and Mi-Kyoung Lee)](s/sophists.md)
@@ -107,6 +111,7 @@ outline: [1, 6]
 * [泰奥弗拉斯特 Theophrastus (Katerina Ierodiakonou)](t/theophrastus.md)
 
 ### 1.3 晚期希腊与罗马哲学
+
 #### 伊壁鸠鲁主义
 
 * [伊壁鸠鲁 Epicurus (David Konstan)](e/epicurus.md)
@@ -164,7 +169,9 @@ outline: [1, 6]
 * [科学与技术 episteme and techne \[= scientific knowledge and expertise\] (Richard Parry)](e/episteme-techne.md)
 
 ## 二、中古哲学
+
 ### 2.1 思想来源与教父哲学
+
 #### 希腊护教士与亚历山大里亚学派
 
 * [奥利金 Origen (Mark J. Edwards)](o/origen.md)
@@ -179,11 +186,13 @@ outline: [1, 6]
 * [伪狄奥尼修斯 Pseudo-Dionysius the Areopagite (Kevin Corrigan and L. Michael Harrington)](p/pseudo-dionysius-areopagite.md)
 
 ### 2.2 奥古斯丁主义与黑暗时代
+
 #### 加洛林文艺复兴与爱留根纳
 
 * [约翰内斯·司各特·爱留根纳 Eriugena, John Scottus (Dermot Moran and Adrian Guiu)](s/scottus-eriugena.md)
 
 ### 2.3 经院哲学的诞生（11–12世纪）
+
 #### 安瑟伦与早期经院
 
 * [伯多禄·达弥盎 Damian, Peter (Toivo J. Holopainen)](p/peter-damian.md)
@@ -201,11 +210,13 @@ outline: [1, 6]
 * [西班牙的彼得（彼得·希斯帕努斯）的逻辑学 The Logic of Peter of Spain (Joke Spruyt)](p/peter-spain.md)
 
 ### 2.4 亚里士多德主义的传播（12–13世纪）
+
 #### 拉丁阿维罗伊主义
 
 * [达西亚的波爱修斯 Boethius of Dacia (Sten Ebbesen)](b/boethius-dacia.md)
 
 ### 2.5 经院哲学的兴盛（13世纪）
+
 #### 大阿尔伯特与阿奎那
 
 * [总务长菲利普 Philip the Chancellor (Colleen McCluskey and Anthony Celano)](p/philip-chancellor.md)
@@ -236,6 +247,7 @@ outline: [1, 6]
 * [彼得·约翰·奥利维 Olivi, Peter John (Juhana Toivanen and Robert Pasnau)](o/olivi.md)
 
 ### 2.6 经院哲学的分裂（13世纪末–14世纪）
+
 #### 1277年谴责
 
 * [方丹的戈弗雷 Godfrey of Fontaines (Tobias Hoffmann and John Wippel)](g/godfrey.md)
@@ -260,6 +272,7 @@ outline: [1, 6]
 * [亚当·德·沃德汉姆 Wodeham, Adam de (John T. Slotemaker and Jeffrey C. Witt)](w/wodeham.md)
 
 ### 2.7 中世纪晚期（14–16世纪）
+
 #### 牛津计算学派
 
 * [让·布里丹 John Buridan (Jack Zupko)](b/buridan.md)
@@ -314,6 +327,7 @@ outline: [1, 6]
 * [神圣光照论 illumination (Robert Pasnau)](i/illumination.md)
 
 ## 三、文艺复兴与宗教改革（1350–1600）
+
 ### 3.1 人文主义与政治哲学
 
 * [但丁·阿利吉耶里 Dante Alighieri (Jason Aleksander and Winthrop Wetherbee)](d/dante.md)
@@ -331,6 +345,7 @@ outline: [1, 6]
 * [玛德莱娜·德·斯居代里 Scudéry, Madeleine de (John Conley)](m/madeleine-scudery.md)
 
 ### 3.2 古典哲学的复兴
+
 #### 柏拉图主义
 
 * [库萨的尼古拉 Cusanus, Nicolaus \[Nicolas of Cusa\] (Clyde Lee Miller)](c/cusanus.md)
@@ -370,7 +385,9 @@ outline: [1, 6]
 * [约翰内斯·开普勒 Kepler, Johannes (Daniel A. Di Liscia)](k/kepler.md)
 
 ## 四、近代哲学（1600–1830）
+
 ### 4.1 唯理论
+
 #### 唯理论总论
 
 * [早期近代理性主义 Early Modern Rationalism (Peter West, Kevin Lower, Natalia Strok, Pedro Pricladnitzky, Fabio Malfara, Manuel Fasko, and Christopher P. Noble)](r/rationalism-early-modern.md)
@@ -448,6 +465,7 @@ outline: [1, 6]
 * [安妮·康威 Conway, Lady Anne (Sarah Hutton)](c/conway.md)
 
 ### 4.2 经验论
+
 #### 培根与霍布斯
 
 * [弗朗西斯·培根 Bacon, Francis (Markku Peltonen)](f/francis-bacon.md)
@@ -489,6 +507,7 @@ outline: [1, 6]
   * [18 世纪苏格兰哲学 in the 18th Century (Alexander Broadie and Craig Smith)](s/scottish-18th.md)
 
 ### 4.3 启蒙运动
+
 #### 法国启蒙
 
 * [皮埃尔·伽桑狄 Gassendi, Pierre (Saul Fisher)](g/gassendi.md)
@@ -527,6 +546,7 @@ outline: [1, 6]
 * [索菲·德·格鲁希 Sophie de Grouchy (Sandrine Berges)](s/sophie-de-grouchy.md)
 
 ### 4.2 经验论
+
 #### 英国道德哲学与宗教哲学
 
 * [玛格丽特·费尔 Fell, Margaret (Jacqueline Broad)](m/margaret-fell.md)
@@ -536,6 +556,7 @@ outline: [1, 6]
 * [大卫·哈特利 Hartley, David (Richard Allen)](h/hartley.md)
 
 ### 4.4 德国古典哲学
+
 #### 康德
 
 * [伊曼努尔·康德 Kant, Immanuel (Michael Rohlf)](k/kant.md)
@@ -596,7 +617,9 @@ outline: [1, 6]
 * [格奥尔格·菲利普·弗里德里希·弗莱赫尔·冯·哈登贝格（诺瓦利斯）Georg Friedrich Philipp von Hardenberg \[Novalis\] (Kristin Gjesdal)](n/novalis.md)
 
 ## 五、现代哲学（1830–）
+
 ### 5.1 后黑格尔与马克思主义
+
 #### 青年黑格尔派
 
 * [路德维希·安德列斯·费尔巴哈 Feuerbach, Ludwig Andreas (Todd Gooch)](l/ludwig-feuerbach.md)
@@ -618,6 +641,7 @@ outline: [1, 6]
 * [路易·阿尔都塞 Althusser, Louis (William Lewis)](a/althusser.md)
 
 ### 5.2 非理性主义与生存哲学
+
 #### 叔本华
 
 * [阿图尔·叔本华 Schopenhauer, Arthur (Robert Wicks)](s/schopenhauer.md)
@@ -635,6 +659,7 @@ outline: [1, 6]
   * [尼采的美学 Nietzsche’s Aesthetics (Timothy Stoll)](n/nietzsche-aesthetics.md)
 
 ### 5.3 实证主义与科学主义
+
 #### 第一代实证主义
 
 * [亚历山大·冯·洪堡 Humboldt, Alexander von (Dalia Nassar)](a/alexander-humboldt.md)
@@ -753,6 +778,7 @@ outline: [1, 6]
 * [阿尔贝·加缪 Camus, Albert (Ronald Aronson)](c/camus.md)
 
 ### 5.7 分析哲学
+
 #### 早期分析哲学
 
 * [戈特洛布·弗雷格 Frege, Gottlob (Edward N. Zalta)](f/frege.md)
@@ -945,6 +971,7 @@ outline: [1, 6]
 * [罗伯特·诺齐克的政治哲学 political philosophy (Eric Mack)](n/nozick-political.md)
 
 ## 六、犹太哲学（跨期传统）
+
 ### 6.1 古代与中世纪犹太哲学
 
 * [亚历山大里亚的斐洛 Philo of Alexandria (Carlos Lévy)](p/philo.md)
@@ -981,7 +1008,9 @@ outline: [1, 6]
 * [耶沙亚胡·莱博维茨 Leibowitz, Yeshayahu (Daniel Rynhold)](l/leibowitz-yeshayahu.md)
 
 # 欧美以外哲学史
+
 ## 中国哲学
+
 ### 先秦
 
 * [老子 Laozi (Alan Chan)](l/laozi.md)
@@ -1052,6 +1081,7 @@ outline: [1, 6]
 * [翻译和解释中国哲学 translating and interpreting (Chad Hansen, David Wong, and Henry Rosemont Jr.)](c/chinese-translate-interpret.md)
 
 ## 印度哲学
+
 ### 佛教
 
 * [佛陀 Buddha (Mark Siderits)](b/buddha.md)
@@ -1104,6 +1134,7 @@ outline: [1, 6]
 * [锡克哲学 Sikh Philosophy (Arvind-Pal S. Mandair)](s/sikh-philosophy.md)
 
 ## 日本哲学
+
 ### 古代与中世
 
 * [空海 Kūkai (John Krummel)](k/kukai.md)
@@ -1127,6 +1158,7 @@ outline: [1, 6]
 * [日本禅宗哲学 Japanese Zen Buddhist Philosophy (Shigenori Nagatomo)](j/japanese-zen.md)
 
 ## 韩国哲学
+
 ### 儒学
 
 * [韩国儒学 Confucianism (Kevin N. Cawley)](k/korean-confucianism.md)
@@ -1140,6 +1172,7 @@ outline: [1, 6]
 * [韩国哲学 Korean Philosophy (Halla Kim)](k/korean-philosophy.md)
 
 ## 伊斯兰哲学
+
 ### 早期
 
 * [肯迪 al-Kindi (Peter Adamson)](a/al-kindi.md)
@@ -1192,6 +1225,7 @@ outline: [1, 6]
 * [欧玛尔·海亚姆 Umar Khayyam (Seyed N. Mousavian, Suzanne Sumner, Mehdi Aminrazavi, and Glen Van Brummelen)](u/umar-khayyam.md)
 
 ## 非洲与非裔哲学
+
 ### 传统非洲哲学
 
 * [阿坎哲学中的人格 Akan Philosophy of the Person (Ajume Wingo)](a/akan-person.md)
@@ -1216,6 +1250,7 @@ outline: [1, 6]
 * [当代非裔哲学 contemporary (Paul C. Taylor)](a/africana-contemporary.md)
 
 ## 拉丁美洲哲学
+
 ### 19–20世纪
 
 * [拉丁美洲哲学 Latin American Philosophy (Jorge Gracia and Manuel Vargas)](l/latin-american-philosophy.md)
