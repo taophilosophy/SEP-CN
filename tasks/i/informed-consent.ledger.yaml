@@ -669,50 +669,66 @@ segments:
     kind: body
     source: |-
       ## 6. Own-waivers of informed consent
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6. 知情同意的自我放弃
+    step2: |-
+      ## 6. 知情同意的自我放弃
   - id: 82
     kind: body
     source: |-
       When, if ever, is a person authorized to waive her informed consent rights? Should participants who donate blood in a medical trial be permitted to authorize its use in any future trial, without their specific consent for each token (as U.S. federal regulations allow them, since 2018, to do)? What about a patient or a candidate study participant who asks to be spared tedious descriptions of her different options, and would rather entrust the medical team, or her village elder, with key decisions? What about someone who asks her physician to lie to her, if he is willing, should her prognosis be despairing? And what about a woman who would like to sell pregnancy services with a fully enforceable contract to hand over the baby even if she develops strong maternal feelings toward him or her and seeks to revoke her consent?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      个人在何时（若有的话）有权放弃其知情同意权？在医学试验中献血的人，是否应被允许授权将其血用于未来任何试验，而无须对每一次使用给出具体同意（如美国联邦法规自 2018 年起所允许的那样）？那么，一位病人或候选研究参与者要求免于冗长描述其不同选项、宁愿把关键决定托付给医疗团队或村中长老，又当如何？再如，某人请医生若其预后绝望便对她撒谎（若医生愿意），又当如何？还有一位女性，想以完全可强制执行的合同出售妊娠服务、交出婴儿，即便她后来产生强烈的母性情感并寻求撤回同意，又当如何？
+    step2: |-
+      个人在何时（若有的话）有权放弃其知情同意权？在医学试验中献血的人，是否应被允许授权将其血用于未来任何试验，而无须对每一次使用给出具体同意（如美国联邦法规自 2018 年起所允许的那样）？那么，一位病人或候选研究参与者要求免于冗长描述其不同选项、宁愿把关键决定托付给医疗团队或村中长老，又当如何？再如，某人请医生若其预后绝望便对她撒谎（若医生愿意），又当如何？还有一位女性，想以完全可强制执行的合同出售妊娠服务、交出婴儿，即便她后来产生强烈的母性情感并寻求撤回同意，又当如何？
   - id: 83
     kind: body
     source: |-
       In democratic politics, we delegate many decisions to representatives. But we keep ourselves barred from signing away others, including the decision to waive our voting rights altogether. The question as to which decisions our institutions should allow patients to delegate to third parties is complex and under-explored. Bioethicists usually frown upon letting patients grant so-called *carte blanche*, or general consent, to whatever the physician considers appropriate for them (Dworkin 1988, e.g., 125–6)[^dworkin-1988]. Instead, patients are usually encouraged or compelled to make decisions on a more ongoing basis—to give so-called specific consent (Kleinig 2010, 18)[^kleinig-2010]—although there are logical limits to how specific consent can be (Manson and O’Neill 2007, 12)[^manson-2007].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在民主政治中，我们把许多决定委托给代表。但我们仍禁止自己签署让渡其他权利，包括完全放弃投票权的决定。我们的制度应允许病人把哪些决定委托给第三方，这个问题复杂且探讨不足。生命伦理学家通常不赞成让病人对医生认为适合他们的一切给予所谓*全权委托*或概括同意（Dworkin 1988, e.g., 125–6）[^dworkin-1988]。相反，病人通常被鼓励或被强制在更持续的基础上作决定——给出所谓具体同意（Kleinig 2010, 18）[^kleinig-2010]——尽管具体同意在逻辑上有多具体存在限度（Manson and O’Neill 2007, 12）[^manson-2007]。
+    step2: |-
+      在民主政治中，我们把许多决定委托给代表。但我们仍禁止自己签署让渡其他权利，包括完全放弃投票权的决定。我们的制度应允许病人把哪些决定委托给第三方，这个问题复杂且探讨不足。生命伦理学家通常不赞成让病人对医生认为适合他们的一切给予所谓*全权委托*或概括同意（Dworkin 1988, e.g., 125–6）[^dworkin-1988]。相反，病人通常被鼓励或被强制在更持续的基础上作决定——给出所谓具体同意（Kleinig 2010, 18）[^kleinig-2010]——尽管具体同意在逻辑上有多具体存在限度（Manson and O’Neill 2007, 12）[^manson-2007]。
   - id: 84
     kind: body
     source: |-
       The requirement of informed consent is often attacked on the ground that many patients would rather have physicians make certain decisions for them, and that such delegation often seems acceptable (Schneider 1998)[^schneider-1998]. One answer to the attack argues that informed consent is a patient’s right, not her duty (Beauchamp and Childress 2008, 105, 107)[^beauchamp-2008], and that, since informed consent serves autonomy, it ought to be autonomously waiveable (Beauchamp and Childress 2008, 106)[^beauchamp-2008]. Indeed, autonomously signed advance directives that bind one’s future self can be perfectly consensual and autonomous. What we may call “waiveable waivers” of informed consent rights (“Please spare me the full disclosure or decide in my name unless I ask to resume full disclosure or active control”) seem relatively easy to accept and fairly consistent with autonomy. However, we do impose some rights, which we consider inalienable, on unwilling rights holders. The right not to become a slave is inalienable, and the same may apply to some informed consent rights, such as the right not to become a participant of a clinical trial that one cannot exit.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      知情同意要求常受攻击，理由是许多病人宁愿让医生替他们作某些决定，而这种委托往往显得可接受（Schneider 1998）[^schneider-1998]。对攻击的一种回答是：知情同意是病人的权利，而非其义务（Beauchamp and Childress 2008, 105, 107）[^beauchamp-2008]；既然知情同意服务于自主性，它就应可被自主放弃（Beauchamp and Childress 2008, 106）[^beauchamp-2008]。的确，自主签署、约束未来自我的预立指示完全可以既是同意的又是自主的。我们可称之为知情同意权的“可放弃的放弃”（“请免去充分披露，或以我的名义作决定，除非我要求恢复充分披露或主动控制”）似乎相对容易接受，也相当符合自主性。然而，我们确实把某些我们认为不可让与的权利强加于不情愿的权利持有者。不成为奴隶的权利不可让与，某些知情同意权或许同样如此，例如不成为自己无法退出的临床试验参与者的权利。
+    step2: |-
+      知情同意要求常受攻击，理由是许多病人宁愿让医生替他们作某些决定，而这种委托往往显得可接受（Schneider 1998）[^schneider-1998]。对攻击的一种回答是：知情同意是病人的权利，而非其义务（Beauchamp and Childress 2008, 105, 107）[^beauchamp-2008]；既然知情同意服务于自主性，它就应可被自主放弃（Beauchamp and Childress 2008, 106）[^beauchamp-2008]。的确，自主签署、约束未来自我的预立指示完全可以既是同意的又是自主的。我们可称之为知情同意权的“可放弃的放弃”（“请免去充分披露，或以我的名义作决定，除非我要求恢复充分披露或主动控制”）似乎相对容易接受，也相当符合自主性。然而，我们确实把某些我们认为不可让与的权利强加于不情愿的权利持有者。不成为奴隶的权利不可让与，某些知情同意权或许同样如此，例如不成为自己无法退出的临床试验参与者的权利。
   - id: 85
     kind: body
     source: |-
       An alternative answer to the attack is therefore that some informed consent rights are waiveable (perhaps including many disclosure rights), and others are non-waiveable (perhaps including the right to revoke prior consent to bodily intrusion). Theory is needed in order to tell which informed consent rights are waiveable and which are not. (Is the alleged second-order right to *waive* informed consent rights alienable?) Theory should also explore whether non-waiveable consent requirements are consistent with patient autonomy, say, because what such requirements impose is autonomous decision-making (potentially out of *paternalistic* concern with protecting the patient’s autonomy). It should also characterize how much the waiveability of informed consent should depend on the health worker’s relative expertise on the subject matter (Brown 2024)[^brown-2024].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，对攻击的另一种回答是：某些知情同意权可放弃（或许包括许多披露权），另一些不可放弃（或许包括撤回先前对身体侵入之同意的权利）。需要理论来说明哪些知情同意权可放弃、哪些不可放弃。（所谓放弃知情同意权的二阶权利本身是否可让与？）理论还应探讨：不可放弃的同意要求是否与病人自主性相容，譬如因为此类要求所强加的是自主决策（可能出于保护病人自主性的*家长主义*关切）。它还应刻画知情同意的可放弃性在多大程度上应取决于卫生工作者在该主题上的相对专业（Brown 2024）[^brown-2024]。
+    step2: |-
+      因此，对攻击的另一种回答是：某些知情同意权可放弃（或许包括许多披露权），另一些不可放弃（或许包括撤回先前对身体侵入之同意的权利）。需要理论来说明哪些知情同意权可放弃、哪些不可放弃。（所谓放弃知情同意权的二阶权利本身是否可让与？）理论还应探讨：不可放弃的同意要求是否与病人自主性相容，譬如因为此类要求所强加的是自主决策（可能出于保护病人自主性的*家长主义*关切）。它还应刻画知情同意的可放弃性在多大程度上应取决于卫生工作者在该主题上的相对专业（Brown 2024）[^brown-2024]。
   - id: 86
     kind: body
     source: |-
       ## 7. Exceptions to informed consent
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 7. 知情同意的例外
+    step2: |-
+      ## 7. 知情同意的例外
   - id: 87
     kind: body
     source: |-
       Even absent own-waivers, and despite absolutist statements of the informed consent requirement, such as the Nuremberg Code, many contemporary theorists agree that there are cases where informed consent procedures are not necessary. The law, and many bioethicists, recognize exceptions to informed consent requirements, such as lack of decision-making capacity, or emergency circumstances where the patient’s wishes are unknown (Tännsjö 1999; Emanuel, Wendler, and Grady 2000)[^tännsjö-1999]. That said, these exceptions serve the spirit of informed consent; they can be plausibly woven into full statements of the requirement (as proposed, for instance, in Dworkin 1988, 117)[^dworkin-1988], and they question only its crudest, most absolutist statements. Other exceptions seem harder to reconcile with full-blown commitment to informed consent and its central justifications. Let us discuss, specifically, the extent to which informed consent is needed in (1) benign care and benign experiments, (2) certain risky experiments, and (3) public health policy. We shall then present the general question, (4) When is informed consent necessary?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      即便没有自我放弃，且尽管有对知情同意要求的绝对主义表述（如《纽伦堡法典》），许多当代理论家仍同意：有些情形不需要知情同意程序。法律与许多生命伦理学家承认知情同意要求的例外，例如缺乏决策能力，或病人意愿未知的紧急情形（Tännsjö 1999; Emanuel, Wendler, and Grady 2000）[^tännsjö-1999]。话虽如此，这些例外服务于知情同意的精神；它们可被合理地编织进该要求的完整表述（例如 Dworkin 1988, 117 所提议的那样）[^dworkin-1988]，它们只质疑其最粗糙、最绝对主义的表述。其他例外似乎更难与对知情同意及其核心正当化理由的充分承诺相协调。让我们具体讨论知情同意在以下情形中在多大程度上必要：（1）良性照护与良性实验；（2）某些有风险的实验；（3）公共卫生政策。然后我们将提出一般问题：（4）知情同意何时必要？
+    step2: |-
+      即便没有自我放弃，且尽管有对知情同意要求的绝对主义表述（如《纽伦堡法典》），许多当代理论家仍同意：有些情形不需要知情同意程序。法律与许多生命伦理学家承认知情同意要求的例外，例如缺乏决策能力，或病人意愿未知的紧急情形（Tännsjö 1999; Emanuel, Wendler, and Grady 2000）[^tännsjö-1999]。话虽如此，这些例外服务于知情同意的精神；它们可被合理地编织进该要求的完整表述（例如 Dworkin 1988, 117 所提议的那样）[^dworkin-1988]，它们只质疑其最粗糙、最绝对主义的表述。其他例外似乎更难与对知情同意及其核心正当化理由的充分承诺相协调。让我们具体讨论知情同意在以下情形中在多大程度上必要：（1）良性照护与良性实验；（2）某些有风险的实验；（3）公共卫生政策。然后我们将提出一般问题：（4）知情同意何时必要？
   - id: 88
     kind: body
     source: |-
       ### 7.1 Benign interventions
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.1 良性干预
+    step2: |-
+      ### 7.1 良性干预
   - id: 89
     kind: body
     source: |-
