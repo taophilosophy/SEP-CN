@@ -1775,6 +1775,7 @@
 | everyday aesthetics | — | 日常美学 | 首现（environmental-aesthetics） | 学界通行（与 aesthetics-of-everyday 同族） | 2026-11-08 |
 | evidence (Evidenz) | Evidenz | 明证性 | brentano-judgement 首译 | 布伦塔诺/现象学通行译法（亦作自明性，本词条取明证性）；凭证 2026-11-09 | 2026-11-09 |
 | evidence-transcending | — | 越出证据的 | faith | 学界通行（宗教哲学）；凭证 2026-11-11 | 2026-11-11 |
+| evidential (linguistics) | — | 示证语 | dynamic-semantics | 语言学通行（evidentiality 示证范畴）；凭证 2026-11-12 | 2026-11-12 |
 | evidential ambiguity | — | 证据模糊 | faith | 学界通行（Hick 论题）；凭证 2026-11-11 | 2026-11-11 |
 | evidential conditional | — | 证据条件句 | necessary-sufficient | Crupi–Iacona 术语；凭证 2026-11-08 | 2026-11-08 |
 | evidential support thesis | — | 证据支持论题 | necessary-sufficient | Douven 术语；凭证 2026-11-08 | 2026-11-08 |
@@ -1818,6 +1819,7 @@
 | existential import | — | 存在蕴含 | 首现（sophismata） | 学界惯例（逻辑学通行；亦作“存在含义”备查）；凭证 2026-11-07 | 2026-11-07 |
 | existential judgement | — | 存在判断 | brentano-judgement 首译 | 学界惯例（布伦塔诺判断理论通行译法）；凭证 2026-11-09 | 2026-11-09 |
 | existential phenomenology | — | 生存现象学 | ricoeur | 学界惯例（与“存在现象学”并行，本册取“生存现象学”对标雅斯贝尔斯—马塞尔线）；凭证 2026-11-11 | 2026-11-11 |
+| existential quantifier | — | 存在量词 | dynamic-semantics | 逻辑学通行；凭证 2026-11-12 | 2026-11-12 |
 | existentialism | — | 存在主义 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | existentialist aesthetics | — | 存在主义美学 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 a/aesthetics-existentialist））；凭证 2026-11-04 | 2026-11-04 |
 | Existenz | Existenz | 生存 | jaspers 首译 | 学界通行（雅斯贝尔斯生存哲学核心概念；与 Dasein 此在分义）；凭证 2026-11-09 | 2026-11-09 |
@@ -4599,6 +4601,7 @@
 | restoration of virginity | — | 贞洁的恢复 | peter-damian | 构词直译（restore virginity 作“恢复贞洁”；本词条核心问题之一）；凭证 2026-11-09 | 2026-11-09 |
 | restricted quantification | — | 受限量化 | logic-relevance | Beall 等 2006 术语直译；凭证 2026-11-09 | 2026-11-09 |
 | restriction | — | 限缩 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
+| restrictor | — | 限制域 | dynamic-semantics | 广义量词理论通行（亦作"限制词"）；凭证 2026-11-12 | 2026-11-12 |
 | resurrection | — | 复活 | 首译（saadya） | 犹太教与基督教神学通行（techiyat ha-metim）；凭证 2026-11-09 | 2026-11-09 |
 | retentive faculty | — | 保留官能 | la-forge | 经院生理学术语直译（facultas retentiva）；凭证 2026-11-09 | 2026-11-09 |
 | retinal image | — | 视网膜像 | 语料回收（标题词） | 学界惯例（视觉科学通行；审定“视网膜成像”复合佐证）；凭证 2026-11-01 | 2026-11-01 |
@@ -4675,6 +4678,7 @@
 | Sache selbst | Sache selbst | 事情本身（die Sache selbst；亦作“事情自身”） | gadamer-aesthetics | 学界惯例（现象学/诠释学通行） | 2026-11-01 |
 | Sachlichkeit | Sachlichkeit | 实事性 | yorck 首译 | 学界通行（德语 Sachlichkeit 实事性／就事论事；本册定“实事性”一形）；凭证 2026-11-11 | 2026-11-11 |
 | sacraments | — | 圣事 | 语料回收（marsilius-inghen 首译） | 天主教通行译法（新教多译“圣礼”）；凭证 2026-11-06 | 2026-11-06 |
+| scope | — | 辖域 | dynamic-semantics | 逻辑学/语言学通行（quantifier scope）；凭证 2026-11-12 | 2026-11-12 |
 | state transition | — | 状态转移 | dynamic-semantics | 计算语义通行（类型 s→s→t 之对象）；凭证 2026-11-12 | 2026-11-12 |
 | sādhya | साध्य | 宗（所立） | jaina-philosophy | 因明传统译名（三支／五支之“宗”） | 2026-11-08 |
 | sādhyābhāvavad-avṛttitvam | — | 于所立之无处不转 | early-modern-india | V1 定义义译（源文自注 non-occurrence in the loci of absence of S）；凭证 2026-11-10 | 2026-11-10 |
@@ -5697,6 +5701,7 @@
 | universal Leibniz language | — | 普遍莱布尼茨语言 | 首现（scholz） | 学界惯例（肖尔兹术语）；凭证 2026-11-07 | 2026-11-07 |
 | universal modality | — | 全称模态 | logic-hybrid | 模态逻辑通行（universal modality）；凭证 2026-11-09 | 2026-11-09 |
 | universal quantification | — | 全称量化 | 语料回收 | 学界惯例（逻辑学通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
+| universal quantifier | — | 全称量词 | dynamic-semantics | 逻辑学通行；凭证 2026-11-12 | 2026-11-12 |
 | universal relation | — | 普适关系 | spacetime-convensimul | 构词直译 | 2026-11-06 |
 | universal suspension | — | 普遍悬置 | 语料回收（arcesilaus） | B 档联网核查（2026-10-27）；008 战役复核 | 2026-10-27 |
 | universal time | — | 普适时间 | cosmology-30s 首译 | Milne 术语学界通行；凭证 2026-11-08 | 2026-11-08 |
