@@ -80,4 +80,4 @@
 ## 执行批次
 
 * B0（2026-10-28，本次）：ADR-0012 立法 + 拆分 + check_terms 三表 + spec + 工具链 + 登记册基线首轮查证。
-* B1+：逐字母批次（harvest → 查证 → 裁定 → 登记），断点续跑，多会话可接手（交接卡见 execution-log.md）。
+* B1+：逐字母批次（harvest → 查证 → 裁定 → 登记），断点续跑，多会话可接手（交接卡见 execution-log/index.md）。
