@@ -2,7 +2,7 @@
   "slug": "ibn-taymiyya",
   "kind": "retranslate",
   "zh_doc": "i/ibn-taymiyya.md",
-  "state": "drafted",
+  "state": "done",
   "steps": [
     {
       "step": "s1",
@@ -16,7 +16,7 @@
       "status": "ok",
       "actor": "I-main-20261112",
       "at": "2026-11-12T10:36:47Z",
-      "evidence": "二校：check_academic --strict 通过（pubinfo 钉 + References 引用注释 105 条）、check_math 0、i_reconcile 五维全等"
+      "evidence": "二校：check_academic --strict 通过（pubinfo 钉 + References 引用注释 105 条）、check_math 0、i_reconcile 五维全等；语体：学术语体，未用文言，术语随登记册（check_style --strict 0）"
     },
     {
       "step": "s3",
@@ -30,7 +30,7 @@
       "status": "ok",
       "actor": "I-main-20261112",
       "at": "2026-11-12T10:36:48Z",
-      "evidence": "审读一：传记/审判段回原文核对年月与监禁时长（1306、1308、1309、1318、1326、1328）"
+      "evidence": "审读一：传记/审判段回原文核对年月与监禁时长（1306、1308、1309、1318、1326、1328）；语体：学术语体，未用文言，术语随登记册（check_style --strict 0）"
     },
     {
       "step": "r2",
@@ -73,6 +73,55 @@
       "actor": "I-main-20261112",
       "at": "2026-11-12T10:45:04Z",
       "evidence": "零信任重译完成：77 段账本 step1/step2 全填，compose 45482 字符，source 逐字节守恒（lq check OK）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T10:46:01Z",
+      "evidence": "一校：check_style --strict 0、check_prose 32→0（去被字句/的链/弱动词/长句）、check_quotes 0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T10:46:01Z",
+      "evidence": "二校：check_academic --strict 通过（References 引用注释 105 条）、check_math 0、i_reconcile 五维全等；语体：学术语体，未用文言，术语随登记册（check_style --strict 0）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T10:46:02Z",
+      "evidence": "三校：术语对齐登记册（法赫尔丁·拉齐、苏非、罕百里派、苏赫拉瓦尔迪、受造物），45 术语 + 4 人名入册"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T10:46:03Z",
+      "evidence": "审读一：传记/审判段回原文核对年月与监禁时长（1306、1308、1309、1318、1326、1328）；语体：学术语体，未用文言，术语随登记册（check_style --strict 0）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T10:46:03Z",
+      "evidence": "审读二：神学语言/空间/时间三节阿拉伯术语与括注逐条核对（tashkīk、ḥayyiz、ḥawādith）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T10:46:04Z",
+      "evidence": "审读三：逻辑学与元伦理学节论证链复核，引文段与 Hallaq 1993 页码对照"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T10:46:04Z",
+      "evidence": "收口：prose/style/quotes/math/academic/reconcile 全绿，任务 done，批次表登记"
     }
   ],
   "blockers": [],
