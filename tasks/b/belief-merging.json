@@ -2,7 +2,7 @@
   "slug": "belief-merging",
   "kind": "retranslate",
   "zh_doc": "b/belief-merging.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "B-main-20261110",
       "at": "2026-11-10T08:20:17Z",
       "evidence": "三校（体例）程序化审计 + 人工核对：①脚注键闭包：正文引用键 100（含 99 个文献键 + note-1..5 已在脚注节定义），定义 99 条，无孤立引用、无孤立定义；与 yuanwen 键集合完全一致（zh 有 yw 无 0、yw 有 zh 无 0）；唯 References 节说明行内字面 [^key] 为现制（refs_kind=modern）转换器契约注记，源文同构，机检现制豁免（fan-yi-mu-ban §6.5）。②文献定义区 99 条与 yuanwen 逐字节一致（唯 note-1..5 按 ADR 译文）。③结构对位：h2 10:10（正文 4 节 + 脚注 + References + 学术工具 + 其他网络资源 + 相关词条 + 致谢），h3 3:3 可对位（2.1/2.2/3.1；yuanwen 多出的 ### Acknowledgments 按模板 #14 升为 ## 致谢）。④标记守恒：数学定界符 528:528 全等；粗体 38 vs 源斜体 34（中文强调按 ADR-0019 转粗体 + 顿号内术语标注差异）。⑤术语主形：判断聚合 34/信念合并 30/信念基 27/剖面 23/议程 34/汉明距离 13/最小和 5/完整性约束 15/教义悖论 8/论辩困境 3，均与 yi-zhe-shuo-ming.md 登记主形一致；异形（判断汇集、海明距离、凯门尼等）0 命中。⑥禁项：HTML 0、直角引号 0、「已+动词」滥用 0。门禁：check_style 0 issue、check_math 0 缺失 0 不配、check_summary H1 mismatch 0、check_academic --strict 0 硬错误、check_terms 0 硬错误（词汇表滞后 0）。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "B-main-20261113",
+      "at": "2026-11-12T17:48:18Z",
+      "evidence": "全文回读完成（376 行逐行）；五维对账：H -1=源文双 Notes 节并作 ## 脚注（体例）、P +6=长段拆分、M 106=106/D 105=105/年份 455:456（+1980=源文 1980s 年代展开豁免）、粗体缩写键 0:0；X 残留 1 处=译注引原文豁免；prose 1 告警=名词被告词内字豁免（ADR-0020）；四检 strict 全绿；源文异常三处均获译注定性（syntax-dependent 语病句、project-then-merge 路径名笔误、Evaraere 拼法笔误）；r1 实修一处误读型错译：正文蒂莫西·威廉姆森(Timothy Williamson)改回姓氏从源文，据 defs 条目 Willamson,J.=Jon Williamson 定性并译注留痕"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "B-main-20261113",
+      "at": "2026-11-12T17:51:01Z",
+      "evidence": "人名登记补课 21 行（script/_b_beliefmerging_names.py bisect 插行 4533→4552+2）：叙述级 Kornhauser/Sager/Baral/Bartholdi/Duddy/Ginsberg/Grégoire/Hudry/Katsuno/Kemeny(凯梅尼)/Konieczny/Liberatore/Lin,J./Mendelzon/Piggins/Pigozzi(作者)/Pino Pérez/Revesz/Schaerf + 致谢 Acar,Erman + 实修定性行 Williamson,Jon；跨条既有行复核（Arrow/Alchourrón/Fermé/Gärdenfors/Hansson/List/Makinson/Pettit/Dietrich/Condorcet/Sen/Black/Poisson/Vacca 均在位）；正文用词与登记一致（凯梅尼规则/加登福斯/邓肯·布莱克/肯尼斯·阿罗）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "B-main-20261113",
+      "at": "2026-11-12T17:57:55Z",
+      "evidence": "check_all 9 项全绿（CI 判据）；register 复核 git grep 22 行 belief-merging 相关键在位；登记册插行后 check_terms/check_quotes exit=0"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "B-main-20261113",
+      "at": "2026-11-12T17:57:55Z",
+      "evidence": "s3_checked→done 收尾：五维对账+全文回读+四检全绿+人名补课 21 行+一处误读实修（威廉姆森定性）；提交随本步落地"
     }
   ],
   "blockers": [],
