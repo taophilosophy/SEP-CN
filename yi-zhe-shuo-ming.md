@@ -161,6 +161,13 @@
 | agreeableness | — | 宜人性 | justice-moral-psych | 大五特质通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | Agrippa's trilemma | — | 阿格里帕三难 | epistemology-latin-america 首译 | 学界通行（trilemma 三难） | 2026-11-11 |
 | ahaṃkāra | — | 我慢（我执） | yogacara 首译 | 数论派通行译“我慢”；作者英译 egoism/I-making；与 ātmamāna 我慢同形，正文括注原词消歧；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| appropriation (Buddhist) | — | 取著 | 首现（buddha） | 本词条译法（认取要素为“我／我所”；与十二支缘起之“取” upādāna 同根相关；termonline-all 各库均为会计/语言学词条，无佛教义命中）；凭证 2026-11-12 | 2026-11-12 |
+| arhat | — | 阿罗汉 | 首现（buddha） | 佛学界通行译名（亦作“罗汉”）；凭证 2026-11-12 | 2026-11-12 |
+| four noble truths | — | 四圣谛 | 首现（buddha） | 佛学界通行译名（苦集灭道；亦作“四谛”）；凭证 2026-11-12 | 2026-11-12 |
+| householder | — | 在家众 | 首现（buddha） | 佛学界通行（与出家众对项）；凭证 2026-11-12 | 2026-11-12 |
+| illocutionary negation | — | 施行性否定 | 首现（buddha） | 言语行为论译法（亦作“语用否定”）；凭证 2026-11-12 | 2026-11-12 |
+| momentariness | — | 刹那灭 | 首现（buddha） | 佛学界通行（kṣaṇikatva；亦作“刹那生灭”）；凭证 2026-11-12 | 2026-11-12 |
+| retrocognition | — | 宿命智 | 首现（buddha） | 佛典古译（亦作“宿命通”；超心理学语境作“逆向认知”）；凭证 2026-11-12 | 2026-11-12 |
 | āhāryāropa | आहार्यारोप | 假设性认知（假想赋予） | early-modern-india | 正理思择义译（counterfactual supposition；āropa 之限定形）；凭证 2026-11-10；正文随文作“假设性认知”（校 2026-11-11）| 2026-11-10 |
 | ahiṃsā | अहिंसा | 不害（非暴力） | jaina-philosophy | 学界千年通行（印度宗教共同术语） | 2026-11-08 |
 | ahimsa | — | 不害 | colonialism | 印度哲学通行汉译；凭证 2026-11-07 | 2026-11-07 |
@@ -453,6 +460,7 @@
 | ayutasiddhi | अयुतसिद्धि | 不离（不可分离） | early-modern-india | 新正理和合定义通行义译（inseparability）；凭证 2026-11-10 | 2026-11-10 |
 | aʿdād | اعداد | 数（算术对象；与 maqādīr 量相对） | arabic-islamic-phil-math | 译名裁定（numbers） | 2026-11-08 |
 | aʿrāḍ | اعراض | 偶性（亚里士多德-阿维森纳 accident） | arabic-islamic-phil-math | 学界通行 | 2026-11-08 |
+| śramana | śramaṇa | 沙门 | 首现（buddha） | 汉文古译传统译名；凭证 2026-11-12 | 2026-11-12 |
 | ʾarbaʿīya | ارباعية | 四性 | arabic-islamic-phil-math | 译名裁定（arbaʿīya 直译；苏赫拉瓦尔迪反数之偶性论证） | 2026-11-08 |
 | ʿamalī / naẓarī | عملی／نظری | 应用的／理论的（法拉比数学之分） | arabic-islamic-phil-math | 译名裁定（practical/theoretical） | 2026-11-08 |
 | ʿaql | عقل | 智识（intellect；勿泛译“理性”） | arabic-islamic-phil-math | 学界通行（noūs 对译） | 2026-11-08 |
@@ -695,7 +703,7 @@
 | cell lineage | — | 细胞谱系 | model-organisms 首译 | 发育生物学通行译名；凭证 2026-11-09 | 2026-11-09 |
 | cell senescence | — | 细胞衰老 | cancer | 学界通行（细胞生物学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | cell-of-origin | — | 起源细胞 | cancer | 学界通行（癌症生物学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
-| center of oscillation | — | 振动中心 | newton-principia | 力学史通行（惠更斯《摆钟论》）；凭证 2026-11-11 | 2026-11-11 |
+| center of oscillation | — | 振动中心（亦作“摆动中心”） | newton-principia | 力学史通行（惠更斯《摆钟论》）；凭证 2026-11-11；亦作记审定·物理学作“摆动中心”，正文 2:0 沿力学史体例（裁定 2026-11-12） | 2026-11-12 |
 | centrifugal force | — | 离心力 | newton-principia | 物理学通行译名；凭证 2026-11-11 | 2026-11-11 |
 | centripetal force | — | 向心力 | newton-principia | 物理学通行译名；凭证 2026-11-11 | 2026-11-11 |
 | cerebral organoid | — | 脑类器官 | 首译（stem-cells） | 学界惯例（神经伦理与干细胞文献通行）；凭证 2026-11-09 | 2026-11-09 |
@@ -1433,7 +1441,7 @@
 
 ## E
 
-| E-language | — | E-语言 | idiolects | 乔姆斯基术语（externalized；与 I-语言对举）；凭证 2026-11-11 | 2026-11-11 |
+| E-language | — | E-语言（亦作“外化语言”） | idiolects | 乔姆斯基术语（externalized；与 I-语言对举）；凭证 2026-11-11；亦作记审定·语言学名词（理论语言学核心术语）作“外化语言”，正文 12:0 沿字母体例（裁定 2026-11-12） | 2026-11-12 |
 | earlier self | — | 先前自我 | 语料回收（标题词） | 学界惯例（advance-directives 词条核心（×31））；凭证 2026-11-01 | 2026-11-01 |
 | early modern | — | 近代早期 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | eavesdropper | — | 窃听者 | qt-entangle | 密码学通行译名；凭证 2026-11-09 | 2026-11-09 |
@@ -2022,7 +2030,7 @@
 | Genocide Convention | — | 《灭绝种族罪公约》（正式名《防止及惩治灭绝种族罪公约》） | s/sovereignty 首译 | 联合国官方中译；凭证 2026-11-07 | 2026-11-07 |
 | genome mapping | — | 基因组作图 | model-organisms 首译 | 遗传学通行译名（与 genome sequencing 基因组测序并称）；凭证 2026-11-09 | 2026-11-09 |
 | genome sequencing | — | 基因组测序 | model-organisms 首译 | 遗传学通行译名；凭证 2026-11-09 | 2026-11-09 |
-| genome-wide association study | — | 全基因组关联研究 | genetics | 基因组学通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
+| genome-wide association study | — | 全基因组关联研究（亦作“全基因组关联分析”） | genetics | 基因组学通行译名；凭证 2026-11-11（主会话直译 g/genetics）；亦作记审定（生物物理学/畜牧学/计算机三库一致）作“全基因组关联分析”（裁定 2026-11-12） | 2026-11-12 |
 | genomics | — | 基因组学 | cancer | 学界通行；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | genotype | — | 基因型 | genetics | 遗传学通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
 | Gentzen sequent | — | Gentzen 序列 | logic-hybrid | 学界惯例（保留 Gentzen 人名，译 sequent 为序列）；凭证 2026-11-09 | 2026-11-09 |
@@ -2300,7 +2308,7 @@
 
 ## I
 
-| I-language | — | I-语言 | idiolects | 乔姆斯基术语（internal, individual, intensional）；凭证 2026-11-11 | 2026-11-11 |
+| I-language | — | I-语言（亦作“内化语言”） | idiolects | 乔姆斯基术语（internal, individual, intensional）；凭证 2026-11-11；亦作记审定·语言学名词（理论语言学核心术语）作“内化语言”，正文 22:0 沿字母体例（裁定 2026-11-12） | 2026-11-12 |
 | icchā | इच्छा | 欲 | early-modern-india | 佛典古译通行（desire；胜论八种自我性质之一）；凭证 2026-11-10 | 2026-11-10 |
 | icchantika | इच्छन्तिक | 一阐提 | korean-buddhism | 佛典古译（不具信之种性者） | 2026-11-05 |
 | icon veneration | — | 圣像崇拜 | john-italos | 拜占庭圣像之争研究通行 | 2026-11-06 |
@@ -2568,7 +2576,7 @@
 | INUS condition | INUS | INUS 条件（不充分但必要的部分，属于本身不必要却充分的条件） | necessary-sufficient | Mackie 术语；凭证 2026-11-08 | 2026-11-08 |
 | inverse method | — | 逆方法 | 首现（william-jevons） | 学界惯例（归纳法语境拉普拉斯式逆概率）；凭证 2026-11-07 | 2026-11-07 |
 | inverse-square (central force) | — | 平方反比（中心力） | newton | 物理学通行；凭证 2026-11-08 | 2026-11-08 |
-| inverse-square law | — | 反平方定律 | kant-development | 物理学通行；凭证 2026-11-11 | 2026-11-11 |
+| inverse-square law | — | 反平方定律（亦作“平方反比定律”） | kant-development | 物理学通行；凭证 2026-11-11；亦作记审定·物理学作“平方反比律/平方反比定律”，本词条体例（H1 与脚注）沿“反平方”（裁定 2026-11-12） | 2026-11-12 |
 | inverted spectrum | — | 颠倒光谱 | 首现（zombies） | 学界惯例（洛克-休梅克思想实验通译）；凭证 2026-11-10 | 2026-11-10 |
 | involuntary euthanasia | — | 不自愿安乐死 | euthanasia-voluntary 首译 | 学界通行（违背患者明示意愿） | 2026-11-11 |
 | involutive negation | — | 对合否定 | logic-fuzzy | 多值逻辑通行译法；凭证 2026-11-09 | 2026-11-09 |
@@ -2892,7 +2900,7 @@
 | Lucasian Professor of Mathematics | — | 卢卡斯数学教授 | newton | 剑桥大学教席通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | luck egalitarianism | — | 运气平等主义 | disability-care-rationing | 政治哲学通行（Arneson 等）；凭证 2026-11-08 | 2026-11-08 |
 | luminosity (nitzutz) | — | 发光性 | gersonides | 源文 Gersonides 术语 *nitzutz* 的英译；正文随文括注原词 | 2026-11-09 |
-| lunar inequality | — | 月球不等项 | newton-principia | 月球运动理论通行；凭证 2026-11-11 | 2026-11-11 |
+| lunar inequality | — | 月球不等项（亦作“月行差”） | newton-principia | 月球运动理论通行；凭证 2026-11-11；亦作记审定·天文学作“月行差”，正文 5:0 沿牛顿学理体例（裁定 2026-11-12） | 2026-11-12 |
 | Lunheng | 論衡 | 《论衡》 | han-dynasty | 王充书，学界通行学名 | 2026-11-10 |
 | Lunyu Jijie | 論語集解 | 《论语集解》 | han-dynasty | 何晏等，学界通行学名 | 2026-11-10 |
 | Lunyu yizhu | — | 《论语译注》 | confucius（上游印汉字） | 上游汉字 | 2026-10-28 |
@@ -3397,7 +3405,7 @@
 | no signaling | — | 无信号传递 | qt-entangle | 学界通行译名（no-signaling 理论）；凭证 2026-11-09 | 2026-11-09 |
 | no-cloning theorem | — | 不可克隆定理 | qt-entangle | 学界通行译名（量子信息文献）；凭证 2026-11-09 | 2026-11-09 |
 | no-difference view | — | 无差别观点 | repugnant-conclusion | 学界惯例（Parfit 1984 术语）；凭证 2026-11-11 | 2026-11-11 |
-| no-go theorem | — | 不可行定理 | quantum-bayesian | 学界通行（量子基础文献）；凭证 2026-11-12 | 2026-11-12 |
+| no-go theorem | — | 不可行定理（亦作“止步定理”） | quantum-bayesian | 学界通行（量子基础文献）；凭证 2026-11-12；亦作记审定·物理学（粒子物理）作“止步定理”（裁定 2026-11-12 保留现译） | 2026-11-12 |
 | nociceptor | — | 伤害感受器 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | noetic | — | 理智的 | omniscience | 学界通行译名（noetic faculties）；凭证 2026-11-09 | 2026-11-09 |
 | nomic condition | — | 律则条件 | necessary-sufficient | 科学哲学通行（nomic 律则的）；凭证 2026-11-08 | 2026-11-08 |
@@ -4359,7 +4367,7 @@
 | repertoire | — | 本领库 | model-organisms 首译 | 本词条术语（Ankeny & Leonelli 的 repertoire，指一生物可资利用的性状与知识储备全库）；凭证 2026-11-09 | 2026-11-09 |
 | replacement | — | 替换 | logic-infinitary；quine-nf | ZF 公理通行译名（替换公理图式）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | replacement site | — | 替换位点 | ecological-genetics 首译 | 学界通行译名（分子进化文献）；凭证 2026-11-09 | 2026-11-09 |
-| replicator | — | 复制者 | genetics | Dawkins 演化论术语，学界通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
+| replicator | — | 复制者（亦作“复制因子”） | genetics | Dawkins 演化论术语，学界通行译名；凭证 2026-11-11（主会话直译 g/genetics）；亦作记审定·遗传学/生化作“复制因子”，本词条与 interactor“交互者”对举体例（裁定 2026-11-12） | 2026-11-12 |
 | reportationes | reportationes | 听课记录 | natphil-ren | 中世纪大学研究通行（学生笔录）；凭证 2026-11-10 | 2026-11-10 |
 | representation theorem | — | 表征定理 | 首现（imprecise-probabilities） | 学界惯例（决策论与测量论通行）；凭证 2026-11-08 | 2026-11-08 |
 | representational scope | — | 表征范围 | model-organisms 首译 | 本词条术语（Ankeny & Leonelli 的 representational scope）；凭证 2026-11-09 | 2026-11-09 |
@@ -4617,7 +4625,7 @@
 | self-hood | — | 自我性 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | self-interest | — | 自利 | justice-moral-psych | 学界通行（self-interested 自利的）；凭证 2026-11-10 | 2026-11-10 |
 | self-knowledge | — | 自我认识 | conscience 首译 | 学界通行；凭证 2026-11-08 | 2026-11-08 |
-| self-organization | — | 自我组织 | kant-development | 学界通行（复杂系统）；凭证 2026-11-11 | 2026-11-11 |
+| self-organization | — | 自我组织（亦作“自组织”） | kant-development | 学界通行（复杂系统）；凭证 2026-11-11；亦作记审定·自然辩证法（复杂系统科学哲学）作“自组织”，本词条康德 Selbstorganisation 语境沿“自我组织”（裁定 2026-11-12） | 2026-11-12 |
 | self-positing | — | 自我设定 | novalis | 费希特研究通行（Selbstsetzung）；凭证 2026-11-11 | 2026-11-11 |
 | self-preservation | — | 自我保存 | grotius | 学界通行（近代自然法核心概念）；凭证 2026-11-12 | 2026-11-12 |
 | self-realization | — | 自我实现 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
@@ -5309,7 +5317,7 @@
 | transcendentalism | — | 超验主义 | emerson | 学界通行（美国超验主义，Emerson/Thoreau 运动） | 2026-11-07 |
 | transcendentals | transcendentalia | 超越者 | 首译（sharpe） | 学界通行（ens/aliquid/res 等；承本册 transcendental term 超越词项）；凭证 2026-11-09 | 2026-11-09 |
 | transcriptomics | — | 转录组学 | cancer | 学界通行；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
-| transfinite induction | — | 超限归纳 | hilbert-program 首译 | 数学通行（Gentzen 一致性证明语境）；凭证 2026-11-11 | 2026-11-11 |
+| transfinite induction | — | 超限归纳（亦作“超穷归纳法”） | hilbert-program 首译 | 数学通行（Gentzen 一致性证明语境）；凭证 2026-11-11；亦作记审定·数学（集合论）作“超穷归纳法”，正文 4:0 通行“超限归纳”（裁定 2026-11-12） | 2026-11-12 |
 | transhumanism | — | 超人类主义 | 首现（it-moral-values） | 哲学通行译名；凭证 2026-11-10 | 2026-11-10 |
 | transient polymorphism | — | 过渡性多态性（亦作“暂态多态性”） | ecological-genetics 首译 | 审定名词库（termonline-all·遗传学名词，2026-11-11 浏览器通道凭证） | 2026-11-11 |
 | Transition; elementary system of the moving forces | — | 过渡（Übergang）；运动力的初阶系统（Elementarsystem） | kant-science | 李秋零《遗著》研究通行 | 2026-11-05 |
