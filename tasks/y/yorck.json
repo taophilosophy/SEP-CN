@@ -2,7 +2,7 @@
   "slug": "yorck",
   "kind": "retranslate",
   "zh_doc": "y/yorck.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "Y-main-20261111",
       "at": "2026-11-11T01:58:04Z",
       "evidence": "三校体例六检：check_style 0 issue；check_math missing 0/unbalanced 0；check_academic --strict 0 硬错误；check_terms 硬错误 0（冲突 0+自洽 0；418 孤儿键与 2 条同键异译分立为全库既有告警，与本词条无关）；check_summary HARD 0（H1 与 SUMMARY 条目一致）；markdownlint y/yorck.md 0 错误；结构：节集合与英文源一致（导语+§1 生平+§2 通信+§3 断片含 3.1/3.2 及 3.2.1-3.2.3 四级标题+参考文献（引用注释）+学术工具+其他网络资源+相关词条），现制 References（引用注释）节标题与转换器注记照录，24 条 note 脚注定义与正文键一一对应；相关词条 7/7 匹配 SUMMARY 中文名"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "Y-main-20261113",
+      "at": "2026-11-12T20:49:21Z",
+      "evidence": "r1 对照原文自审+语体通读（独立复核会话 Y-main-20261113，初译 Y-main-20261111）：逐段对照 yuanwen 330 行实修 19 处并同步回写账本 step2——归属倒置误译 1（判词句应为狄尔泰指出道出者是尼采）、15ᵗʰ 序数上标残留 1、同情感歧义 1、turned-against-itself 漏译 1、宝座→所在 1、empirical/alone/specific/felt 精确性补漏 4、CJK 斜体违规 4（绝口不提/本己→加粗，扎根性/精神科学→引号；驾御→驾驭）、note-7 标记后空格 1、空间性格→空间性质 1、破折号切句 1（窗子句）、引文省略号还原 1、much 落实 1；导语差别长句句号拆分 1。lq check 守恒 112 段 OK（加粗对按纯中文粗体豁免）。语体（ADR-0033）：现代汉语学术书面语无文言；余留破折号皆括注对/连接号/引文修辞。四检：style 0、academic --strict OK、math 0；prose 31 条全 ADR-0020 豁免（引文 9、概念性 de-chain 15、术语性被动 5、名单句 2）。对账：H1=SUMMARY、pubinfo=baseline 2012-03-19/2023-09-08、相关词条 6/7 对齐（philosophy-of-history 无 SUMMARY 行按模板 §6.5 保留译名待挂链）、脚注 24 键+defs 与源全等。人名复核：约克三行及米施/罗特哈克/朔勒姆/布尔特曼/班巴赫/舒尔茨/考夫曼/费切尔/伦特-芬克/格林德等均已登记无缺口"
     }
   ],
   "blockers": [],
