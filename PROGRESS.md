@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-12 06:11（UTC）
+生成时间：2026-11-12 06:15（UTC）
 
 ## 总览
 
@@ -26,8 +26,9 @@
 |cleared|136|
 |drafted|1|
 |s1_checked|1|
-|s3_checked|40|
+|s3_checked|39|
 |r1_reviewed|2|
+|r2_reviewed|1|
 |done|364|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
@@ -132,7 +133,7 @@
 |cloning|retranslate|s3_checked|CD-main-20261106 2026-11-06|
 |concept-emotion-india|retranslate|s3_checked|主代理 2026-11-01|
 |conceptual-art|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
-|confucius|retranslate|s3_checked|主代理 2026-11-01|
+|confucius|retranslate|r2_reviewed|R-main-20261112 2026-11-12|
 |conscience|retranslate|s3_checked|C-main-20261108b 2026-11-08|
 |copernicus|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |cosmology-30s|retranslate|s3_checked|C-main-20261109 2026-11-09|
