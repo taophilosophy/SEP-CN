@@ -1131,6 +1131,7 @@
 | Cut rule | — | 切规则 | logic-substructural | 证明论通行译法；凭证 2026-11-10 | 2026-11-09 |
 | cyberterrorism | — | 网络恐怖主义 | 首现（it-moral-values） | 法学与安全研究通行译名；凭证 2026-11-10 | 2026-11-10 |
 | cycloidal pendulum | — | 摆线摆 | newton-principia | 物理学史通行；凭证 2026-11-11 | 2026-11-11 |
+| cylindric algebra | — | 柱形代数 | algebra-logic-tradition | Tarski 学派通行译名（cylindric algebra）；凭证 2026-11-12 | 2026-11-12 |
 | Cynics | — | 犬儒派 | 首现（timon-phlius） | 学界惯例（古希腊哲学流派；本库无独立词条）；凭证 2026-11-07 | 2026-11-07 |
 | cystic fibrosis | — | 囊性纤维化 | genetics | 医学通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
 
@@ -1594,6 +1595,7 @@
 | epithelial | — | 上皮 | cancer | 学界通行（组织学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | epoché | ἐποχή | 悬搁（亦作“悬置”） | 语料回收 | 学界惯例（胡塞尔现象学通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | equation of time | — | 时差 | newton-principia | 天文学通行（真太阳时与平太阳时之差）；凭证 2026-11-11 | 2026-11-11 |
+| equational logic | — | 等式逻辑 | algebra-logic-tradition | 逻辑学通行（Birkhoff 奠定的等式逻辑术语）；凭证 2026-11-12 | 2026-11-12 |
 | equinumerous | — | 等势 | nicole-oresme | 集合论通行；凭证 2026-11-08 | 2026-11-08 |
 | equipollence | — | 等势 | quine-nf | 集合论通行译名（亦作“等数”）；凭证 2026-11-09 | 2026-11-09 |
 | equivalence class | — | 等价类 | spacetime-convensimul | 学界惯例（数学通行） | 2026-11-06 |
@@ -2084,6 +2086,7 @@
 | Greyfriars | — | 灰衣修士（首现括注，方济各会俗称） | ockham | 教会史通译；凭证 2026-11-07 | 2026-11-07 |
 | ground and consequent | — | 根据与后承 | reinach | 学界惯例（与 causality“因果性”对举）；凭证 2026-11-09 | 2026-11-09 |
 | ground state | — | 基态 | qm | 审定名词库（物理学名词 02.085）；凭证 2026-11-10 | 2026-11-11 |
+| ground term | — | 基项 | algebra-logic-tradition | 数理逻辑通行（不含变元之项）；凭证 2026-11-12 | 2026-11-12 |
 | grounded normativity | — | 扎根规范性 | colonialism | Simpson/Coulthard 概念引介译名；待 008 复核；凭证 2026-11-07 | 2026-11-07 |
 | grounding | — | 奠基 | object 首译 | 学界通行汉译（形而上学奠基）；凭证 2026-11-07 | 2026-11-07 |
 | grounding nominalism | — | 奠基唯名论 | nominalism-metaphysics | 由 grounding 奠基＋nominalism 唯名论复合 | 2026-11-10 |
@@ -2749,6 +2752,7 @@
 | Latin Averroism | — | 拉丁阿威罗伊主义 | zabarella | 学界惯例（中世纪哲学研究通行；SEP 源页该相关词条链接已注释停用、无 SUMMARY 行，保留译名待管线挂链）；凭证 2026-11-09 | 2026-11-09 |
 | Latin Logic | — | 《拉丁逻辑学》（沃尔夫 1728 Philosophia rationalis sive logica） | 18thGerman-preKant | 构词直译 | 2026-11-05 |
 | latitude of forms | — | 形式的纬度 | kilvington | 主会话直译收口 de6bb4b1；凭证 2026-11-04 | 2026-11-04 |
+| lattice | — | 格 | algebra-logic-tradition | 数学通行（格论；bounded lattice 有界格）；凭证 2026-11-12 | 2026-11-12 |
 | latitudo / longitudo | latitudo / longitudo | 纬度／经度（强度／延展） | nicole-oresme | 奥雷斯姆构形论术语（坐标轴名，正文随文释为强度与延展）；凭证 2026-11-08 | 2026-11-08 |
 | latus rectum | — | 通径 | newton-principia | 圆锥曲线与天体力学通行；凭证 2026-11-11 | 2026-11-11 |
 | law of commutativeness | — | 交换律 | 首现（william-jevons） | 学界通行（代数-逻辑标准术语） | 2026-11-07 |
@@ -3856,6 +3860,7 @@
 | pollae myŏnmok（本來面目） | 本來面目 | 本来面目 | korean-buddhism | 禅林古语 | 2026-11-05 |
 | polumathiê | polumathiê | 博闻多识 | heraclitus 首译 | 学界通行（赫拉克利特 B40 语）；凭证 2026-11-09 | 2026-11-09 |
 | polyadic | — | 多元逻辑（与 monadic=一元逻辑配对） | kant-mathematics | 主会话收口 1728e694；凭证 2026-11-04 | 2026-11-04 |
+| polyadic algebra | — | 多元代数 | algebra-logic-tradition | Halmos 1956 术语（polyadic algebra，与“多元逻辑”分立）；凭证 2026-11-12 | 2026-11-12 |
 | polymorphism | — | 多态性 | ecological-genetics 首译 | 学界通行译名（群体遗传学文献）；凭证 2026-11-09 | 2026-11-09 |
 | polyp | — | 息肉 | cancer | 学界通行（病理学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | polyphony | — | 复调 | ricoeur | 利科宗教话语分析用语；凭证 2026-11-11 | 2026-11-11 |
@@ -4427,6 +4432,7 @@
 | Risorgimento | — | 意大利复兴运动 | gramsci | 意大利建国运动史术语，学界通行译名；凭证 2026-11-11（主会话直译 g/gramsci） | 2026-11-11 |
 | Ritterakademie | Ritterakademie | 骑士学院（保留德文） | august-rehberg 首译 | 普鲁士／德意志教育史通行；凭证 2026-11-08 | 2026-11-08 |
 | river fragments | — | 河流残篇 | heraclitus 首译 | 学界通行（B12/B49a/B91[a] 通行称谓）；凭证 2026-11-09 | 2026-11-09 |
+| Robbins conjecture | — | 罗宾斯猜想 | algebra-logic-tradition | 布尔代数通行（McCune 1996 机器证明）；凭证 2026-11-12 | 2026-11-12 |
 | Robertson-Walker metric | — | 罗伯逊—沃克度规 | cosmology-30s 首译 | 宇宙学通行（Robertson 1935/Walker 1935）；凭证 2026-11-08 | 2026-11-08 |
 | roboethics | — | 机器人伦理 | 首现（it-moral-values） | 学界通行译名（亦作“机器人伦理学”）；凭证 2026-11-10 | 2026-11-10 |
 | robustness | — | 稳健性 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -4969,6 +4975,7 @@
 | subformula | — | 子公式 | quine-nf | 数理逻辑通行译名；凭证 2026-11-09 | 2026-11-09 |
 | subformula property | — | 子公式性质 | logic-fuzzy；logic-provability | 证明论通行；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | subgame perfect Nash equilibrium | — | 子博弈完美纳什均衡 | justice-moral-psych | 博弈论通行汉译（Nash equilibrium 已登“纳什均衡”）；凭证 2026-11-10 | 2026-11-10 |
+| subsumption | — | 包摄 | algebra-logic-tradition | 逻辑学通行（Peirce 的 subsumption；亦作“包含”）；凭证 2026-11-12 | 2026-11-12 |
 | subject-matter | — | 主题（伽达默尔/艺术语境；Gadamer 的 Sache） | logic-relevance；gadamer-aesthetics | 学界惯例（美学研究通行）；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | subjective probability | — | 主观概率 | 语料回收（bayes-theorem） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | subjective right | — | 主观权利 | marsilius-padua | 学界通行（Brett/Tierney 讨论用）；凭证 2026-11-08 | 2026-11-08 |
