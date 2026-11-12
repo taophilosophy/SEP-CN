@@ -1,11 +1,81 @@
 {
- "key": "provability",
- "term": "provability",
+ "key": "ω-provability",
+ "term": "ω-provability",
  "provider": "termonline-all",
- "queried_at": "2026-11-11T16:47:40+00:00",
+ "queried_at": "2026-11-12T01:54:03+00:00",
  "status": "ok",
- "note": "variant=provability; 审定公布名词库=231; 海峡两岸名词对照库=93; 其他来源数据库=11; 预公布名词数据库=11; browser-channel（cookie 会话，raw 略）",
+ "note": "variant=ω-provability; 审定公布名词库=254; 海峡两岸名词对照库=98; 其他来源数据库=12; 预公布名词数据库=11; browser-channel（cookie 会话，raw 略）",
  "hits": [
+  {
+   "cn": "不可证明性",
+   "en": "unprovability",
+   "code": "02.0134",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_证明论"
+  },
+  {
+   "cn": "欧[姆]",
+   "en": "ohm,Ω",
+   "code": "01.888",
+   "standard": "电气工程名词",
+   "subject": "电气工程_电工基础及通用名词"
+  },
+  {
+   "cn": "半人马ω球状星团",
+   "en": "ω Centauri",
+   "code": "08.681",
+   "standard": "天文学名词",
+   "subject": "天文学_恒星和银河系"
+  },
+  {
+   "cn": "Ω环",
+   "en": "Ω loop",
+   "code": "2.0885",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_氨基酸_肽与蛋白质_蛋白质_蛋白质结构及性质"
+  },
+  {
+   "cn": "ω聚合物",
+   "en": "ω-polymer",
+   "code": "05.0069",
+   "standard": "化学名词",
+   "subject": "化学_高分子化学_高分子物质"
+  },
+  {
+   "cn": "ω方程",
+   "en": "ω-equation",
+   "code": "05.101",
+   "standard": "大气科学名词",
+   "subject": "大气科学_动力气象学"
+  },
+  {
+   "cn": "50 Ω终端",
+   "en": "50 Ω termination",
+   "code": "11.125",
+   "standard": "计量学名词",
+   "subject": "计量学_无线电_集总参数阻抗"
+  },
+  {
+   "cn": "Ω管屏",
+   "en": "Ω-tube platen",
+   "code": "22.0288",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_动力机械_锅炉_结构"
+  },
+  {
+   "cn": "ω极限点",
+   "en": "ω-limit point",
+   "code": "06.0123",
+   "standard": "数学名词",
+   "subject": "数学_微分方程_积分方程_常微分方程"
+  },
+  {
+   "cn": "拓扑Ω稳定性",
+   "en": "topological Ω-stability",
+   "code": "06.0203",
+   "standard": "数学名词",
+   "subject": "数学_微分方程_积分方程_动力系统（数学）"
+  },
   {
    "cn": "概率",
    "en": "probability",
@@ -21,74 +91,25 @@
    "subject": "肠外肠内营养学_基础研究与临床研究_临床研究"
   },
   {
-   "cn": "概率",
-   "en": "probability",
-   "code": "05.0522",
-   "standard": "物理学名词",
-   "subject": "物理学_热学、统计物理学_统计物理学"
+   "cn": "ω方程",
+   "en": "ω-equation",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
   },
   {
-   "cn": "概率",
-   "en": "probability",
-   "code": "03.0127",
-   "standard": "化学名词",
-   "subject": "化学_分析化学_化学计量学"
+   "cn": "ω聚合物",
+   "en": "ω-polymer",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
   },
   {
-   "cn": "概率",
-   "en": "probability",
-   "code": "07.243",
-   "standard": "大气科学名词",
-   "subject": "大气科学_气候学"
-  },
-  {
-   "cn": "概率",
-   "en": "probability",
-   "code": "01.043",
-   "standard": "电气工程名词",
-   "subject": "电气工程_电工基础及通用名词"
-  },
-  {
-   "cn": "概率",
-   "en": "probability",
-   "code": "09.0029",
-   "standard": "数学名词",
-   "subject": "数学_概率论_数理统计_概率空间"
-  },
-  {
-   "cn": "可移植性",
-   "en": "portability",
-   "code": "06.0470",
-   "standard": "计算机科学技术名词",
-   "subject": "计算机科学技术_软件工程"
-  },
-  {
-   "cn": "不可证明性",
-   "en": "unprovability",
-   "code": "02.0134",
-   "standard": "数学名词",
-   "subject": "数学_数理逻辑·数学基础_证明论"
-  },
-  {
-   "cn": "可移植性",
-   "en": "portability",
-   "code": "04.323",
-   "standard": "自动化名词",
-   "subject": "自动化科学技术_控制技术_控制技术计算机应用"
-  },
-  {
-   "cn": "概率流",
-   "en": "probability current,probability flux",
-   "code": "06.0534",
-   "standard": "物理学名词",
-   "subject": "物理学_相对论、量子理论_量子理论"
-  },
-  {
-   "cn": "超越概率",
-   "en": "exceedance probability,probability of exceedance",
-   "code": "11.0011",
-   "standard": "建筑学名词",
-   "subject": "建筑学_建筑防护_抗震"
+   "cn": "次天气尺度Ω系统",
+   "en": "subsynoptic Ω system",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
   },
   {
    "cn": "概率",
@@ -126,6 +147,13 @@
    "subject": "信息科学技术"
   },
   {
+   "cn": "半人马ω[球状星团]",
+   "en": "ω Centauri\",\"NGC 5139",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
    "cn": "可移植性，易移植性",
    "en": "portability",
    "code": null,
@@ -145,34 +173,6 @@
    "code": null,
    "standard": "海峡两岸植物学名词",
    "subject": "植物学"
-  },
-  {
-   "cn": "概率分布",
-   "en": "probability distribution",
-   "code": null,
-   "standard": "海峡两岸大气科学名词",
-   "subject": "大气科学"
-  },
-  {
-   "cn": "概率函数",
-   "en": "probability function",
-   "code": null,
-   "standard": "海峡两岸大气科学名词",
-   "subject": "大气科学"
-  },
-  {
-   "cn": "概率论",
-   "en": "probability theory",
-   "code": null,
-   "standard": "海峡两岸大气科学名词",
-   "subject": "大气科学"
-  },
-  {
-   "cn": "概率模式",
-   "en": "probability model",
-   "code": null,
-   "standard": "海峡两岸大气科学名词",
-   "subject": "大气科学"
   },
   {
    "cn": "概率",
@@ -214,6 +214,13 @@
    "en": "computational portability",
    "code": null,
    "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "ω-9脂肪酸",
+   "en": "ω−9 fatty acidsn−9 fatty acids",
+   "code": "",
+   "standard": "维基百科",
    "subject": "其他"
   },
   {
