@@ -1188,188 +1188,250 @@ segments:
     kind: body
     source: |-
       ### 3.2 Perfect Naturalness Theories
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2. 完全自然性理论
+    step2: |-
+      ### 3.2. 完全自然性理论
   - id: 145
     kind: body
     source: |-
       The most influential attempt to analyse intrinsicality over the last 30 years has arguably been Lewis’s 1986a account of intrinsicality in terms of perfect naturalness.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      过去 30 年中最有影响的内在性分析尝试，可以说要数刘易斯 1986a 以完全自然性对内在性所作的说明。
+    step2: |-
+      过去 30 年中最有影响的内在性分析尝试，可以说要数刘易斯 1986a 以完全自然性（perfect naturalness）对内在性所作的说明。
   - id: 146
     kind: body
     source: |-
       The perfectly natural properties and relations are the fundamental properties and relations. Lewis wrote:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      完全自然的属性与关系是那些基本的属性与关系。刘易斯写道：
+    step2: |-
+      完全自然的属性与关系是那些基本的属性与关系。刘易斯写道：
   - id: 147
     kind: body
     source: |-
       > Sharing of [the perfectly natural properties] makes for qualitative similarity, they carve at the joints, they are intrinsic, they are highly specific, the set of their instances are ipso facto not entirely miscellaneous, there are only just enough of them to characterise things completely and without redundancy. Physics has its short list of ‘fundamental physical properties’: the charges and masses of particles, also their is so-called ‘spins’ and ‘colours’ and ‘flavours’, and maybe a few more that have yet to be discovered. (Lewis 1986b, p. 60, author’s emphasis)[^lewis-1986b]]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 分享[这些完全自然的属性]造就了性质上的相似；它们在关节处切分；它们是内在的；它们是高度特殊的；其实例的集合因此绝非杂乱无章；它们的数量刚好足以完全不冗余地刻画事物。物理学有它那份"基本物理属性"的简短清单：粒子的电荷与质量，还有它们所谓的"自旋""色"与"味"，也许还有几个尚待发现的。（Lewis 1986b, p. 60，作者强调）[^lewis-1986b]]
+    step2: |-
+      > 分享[这些完全自然的属性]造就了性质上的相似；它们在关节处切分（carve at the joints）；它们是内在的；它们是高度特殊的；其实例的集合因此绝非杂乱无章；它们的数量刚好足以完全不冗余地刻画事物。物理学有它那份"基本物理属性"的简短清单：粒子的电荷与质量，还有它们所谓的"自旋""色"与"味"，也许还有几个尚待发现的。（Lewis 1986b, p. 60，作者强调）[^lewis-1986b]]
   - id: 148
     kind: body
     source: |-
       The notion of a perfectly natural, or fundamental, property or relation suggests an appealing approach to analysing intrinsicality. Consider the non-intrinsic property of being an uncle. It is appealing to think that the reason this property fails to be intrinsic is that it can be analysed in terms of more fundamental relations, such as being a sibling of and being a child of, in a manner that reveals how something being an uncle is at least partially a matter of how it is related to things that aren’t part of it. In particular, it is plausible to think that the reason being an uncle is non-intrinsic is that for $x$ to be an uncle is for $x$ to have a sibling that has a child, where this child fails to be part of $x$. More generally, it is plausible that, if being $F$ is a non-intrinsic property, then the fact that it is non-intrinsic can be revealed by analysing being $F$ in terms of more fundamental properties and relations in a manner that reveals how something being $F$ may partly be a matter of being related to a non-part or may be partly a matter of how non-parts are. If this is true, then it has the following two consequences. First, it follows that every fundamental property is intrinsic, since it being non-intrinsic cannot be revealed by analysis in terms of more fundamental properties and relations. Secondly, and even more importantly, it follows that whether a property is intrinsic should be analysable in terms of how that property can be analysed in terms of the fundamental properties and relations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      完全自然的（或基本的）属性与关系这一概念，提示了一条有吸引力的内在性分析路径。考虑非内在属性"身为叔叔"。有吸引力的想法是：这一属性之所以不是内在的，是因为它可以用更基本的关系（如"是……的兄弟姐妹"与"是……的孩子"）来分析，而这种分析揭示了某物之为叔叔至少部分地关乎它如何与非其部分的事物相关。特别地，可信的想法是："身为叔叔"之所以是非内在的，是因为 $x$ 之为叔叔，就是 $x$ 有一个有孩子的兄弟姐妹，而这个孩子不是 $x$ 的部分。更一般地，可信的想法是：如果"是 $F$"是一个非内在属性，那么它之为非内在这一点，可以通过用更基本的属性与关系分析"是 $F$"来揭示——只要这种分析揭示出：某物之为 $F$ 可能部分地关乎与非部分处于关系之中，或部分地关乎非部分之所是。如果这是真的，那么它有两个推论。第一，每个基本属性都是内在的，因为它之为非内在无法通过用更基本属性与关系的分析来揭示。第二，也是更重要地，一个属性是否内在，应当可以用该属性如何能通过基本属性与关系来分析而得到分析。
+    step2: |-
+      完全自然的（或基本的）属性与关系这一概念，提示了一条有吸引力的内在性分析路径。考虑非内在属性"身为叔叔"。有吸引力的想法是：这一属性之所以不是内在的，是因为它可以用更基本的关系（如"是……的兄弟姐妹"与"是……的孩子"）来分析，而这种分析揭示了某物之为叔叔至少部分地关乎它如何与非其部分的事物相关。特别地，可信的想法是："身为叔叔"之所以是非内在的，是因为 $x$ 之为叔叔，就是 $x$ 有一个有孩子的兄弟姐妹，而这个孩子不是 $x$ 的部分。更一般地，可信的想法是：如果"是 $F$"是一个非内在属性，那么它之为非内在这一点，可以通过用更基本的属性与关系分析"是 $F$"来揭示——只要这种分析揭示出：某物之为 $F$ 可能部分地关乎与非部分处于关系之中，或部分地关乎非部分之所是。如果这是真的，那么它有两个推论。第一，每个基本属性都是内在的，因为它之为非内在无法通过用更基本属性与关系的分析来揭示。第二，也是更重要地，一个属性是否内在，应当可以用该属性如何能通过基本属性与关系来分析而得到分析。
   - id: 149
     kind: body
     source: |-
       Lewis in effect adopts the above approach to analysing intrinsicality by analysing intrinsicality in terms of a particular kind of supervenience on the fundamental properties and relations. Lewis’s 1986 account (formulated so as to be compatible with standard abstractionist theories of possible worlds) consists of (15) and (16).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      刘易斯实际上采纳了上述分析内在性的路径：他通过一种对基本属性与关系的特殊随附性来分析内在性。刘易斯 1986 年的说明（其表述兼容可能世界的标准抽象主义理论）由 (15) 与 (16) 构成。
+    step2: |-
+      刘易斯实际上采纳了上述分析内在性的路径：他通过一种对基本属性与关系的特殊随附性来分析内在性。刘易斯 1986 年的说明（其表述兼容可能世界的标准抽象主义理论）由 (15) 与 (16) 构成。
   - id: 150
     kind: body
     source: |-
       **(15)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(15)**
+    step2: |-
+      **(15)**
   - id: 151
     kind: body
     source: |-
       $p$ is an intrinsic property iff (i) $p$ is a property, and (ii) for any $x$ and $y$, and for any worlds $w_1$ and $w_2$ such that $x$ at $w_1$ is a duplicate of $y$ at $w_2$, $x$ has $p$ at $w_1$ iff $y$ has $p$ at $w_2$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $p$ 是内在属性，当且仅当 (i) $p$ 是一个属性，且 (ii) 对任意 $x$ 与 $y$，对任意世界 $w_1$ 与 $w_2$，若 $x$ 在 $w_1$ 是 $y$ 在 $w_2$ 的复本，则 $x$ 在 $w_1$ 具有 $p$，当且仅当 $y$ 在 $w_2$ 具有 $p$。
+    step2: |-
+      $p$ 是内在属性，当且仅当 (i) $p$ 是一个属性，且 (ii) 对任意 $x$ 与 $y$，对任意世界 $w_1$ 与 $w_2$，若 $x$ 在 $w_1$ 是 $y$ 在 $w_2$ 的复本，则 $x$ 在 $w_1$ 具有 $p$，当且仅当 $y$ 在 $w_2$ 具有 $p$。
   - id: 152
     kind: body
     source: |-
       **(16)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(16)**
+    step2: |-
+      **(16)**
   - id: 153
     kind: body
     source: |-
       $x$ at $w_1$ is a duplicate of $y$ at $w_2$ iff there is a one-to-one correspondence $f$ between $x$’s parts at $w_1$ and $y$’s parts at $w_2$ such that, for any perfectly natural property or relation $R$, for any $x_1, x_2,\ldots$ that are part of $x$ at $w_1$: $x_1, x_2\ldots$ stand in $R$ at $w_1$ iff $f(x_1), f(x_2)\ldots$ stand in $R$ at $w_2$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $x$ 在 $w_1$ 是 $y$ 在 $w_2$ 的复本，当且仅当在 $x$ 于 $w_1$ 的部分与 $y$ 于 $w_2$ 的部分之间存在一一对应 $f$，使得：对任意完全自然的属性或关系 $R$，对任意在 $w_1$ 是 $x$ 之部分的 $x_1, x_2,\ldots$：$x_1, x_2\ldots$ 在 $w_1$ 处于 $R$，当且仅当 $f(x_1), f(x_2)\ldots$ 在 $w_2$ 处于 $R$。
+    step2: |-
+      $x$ 在 $w_1$ 是 $y$ 在 $w_2$ 的复本，当且仅当在 $x$ 于 $w_1$ 的部分与 $y$ 于 $w_2$ 的部分之间存在一一对应 $f$，使得：对任意完全自然的属性或关系 $R$，对任意在 $w_1$ 是 $x$ 之部分的 $x_1, x_2,\ldots$：$x_1, x_2\ldots$ 在 $w_1$ 处于 $R$，当且仅当 $f(x_1), f(x_2)\ldots$ 在 $w_2$ 处于 $R$。
   - id: 154
     kind: body
     source: |-
       Lewis’s account, which I will call perfect naturalness account 1, is best seen as an attempt at analysing duplication preservation, rather than as analysing identity interiority which we argued in section 2.5 is the dominant notion of intrinsicality in philosophy. This account rests heavily on the claim that all perfectly natural properties are intrinsic, and, implicitly, that the perfectly natural properties and relations are sufficient to characterise the world completely. The last assumption is needed because the theory rules out the possibility that there are two things that share all their perfectly natural properties and lack proper parts, but differ with respect to some of their intrinsic properties.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      刘易斯的这一说明（我称之为完全自然性说明 1）最好被看作分析复制保持的尝试，而非分析同一内部性的尝试——我们在第 2.5 节论证过，同一内部性才是哲学中占主导地位的内在性概念。这一说明很依赖如下主张：所有完全自然的属性都是内在的；并且（含蓄地）完全自然的属性与关系足以完全刻画世界。最后一个假设是必需的，因为该理论排除了这样一种可能性：存在两个东西，它们共享其全部完全自然属性、都没有真部分，却在某些内在属性上有所不同。
+    step2: |-
+      刘易斯的这一说明（我称之为完全自然性说明 1）最好被看作分析复制保持的尝试，而非分析同一内部性的尝试——我们在第 2.5 节论证过，同一内部性才是哲学中占主导地位的内在性概念。这一说明很依赖如下主张：所有完全自然的属性都是内在的；并且（含蓄地）完全自然的属性与关系足以完全刻画世界。最后一个假设是必需的，因为该理论排除了这样一种可能性：存在两个东西，它们共享其全部完全自然属性、都没有真部分，却在某些内在属性上有所不同。
   - id: 155
     kind: body
     source: |-
       The first assumption that all perfectly natural properties are intrinsic has been rejected by Weatherson (2006). (See also Yablo 1999 who holds that, even if every perfectly natural property is intrinsic, this fact is at best a lucky accident and that this renders Lewis’s account unsuccessful as a philosophical account of intrinsicality.)[^yablo-1999] Weatherson claims that it is metaphysically possible for the instantiated perfectly natural properties to be vector properties. He then argues that, since vector properties must be extrinsic, it follows that at least some perfectly natural properties fail to be intrinsic, namely the perfectly natural properties instantiated at such worlds. The claim that vector properties need to be extrinsic, however, is highly contentious. It is natural to understand a vector property to be a property that is usefully represented for theoretical purposes by a certain kind of mathematical object, namely a vector. Given this construal, however, there is no reason to think that vector properties cannot be intrinsic. For example, due to the similarity relationships between colours represented by the colour solid it might be useful to represent colours by vectors. However, doing this is compatible with metaphysical theories of colour on which colours are intrinsic. There might be other conceptions of being a vector property on which vector properties cannot be intrinsic. However, it is unclear whether there an conception of vector properties on which they cannot be intrinsic but can be fundamental. (See Busse (2009) and Marshall (2016b) for more discussion.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      "所有完全自然的属性都是内在的"这一第一假设已被韦瑟森（Weatherson 2006）拒斥。（另见 Yablo 1999：即使每个完全自然属性都是内在的，这一事实充其量是一个侥幸的偶然，这使得刘易斯的说明作为内在性的哲学说明是不成功的。）[^yablo-1999] 韦瑟森主张：在形而上学上可能，被实例化的完全自然属性是向量属性。他进而论证：既然向量属性必是外在的，至少某些完全自然属性就不是内在的，即在这类世界中实例化的那些完全自然属性。然而，"向量属性必是外在的"这一主张极有争议。把向量属性理解为一种在理论上用某类数学对象——即向量——来有益地表征的属性，是很自然的。但按这一解释，没有理由认为向量属性不能是内在的。例如，由于颜色立体所表征的颜色之间的相似性关系，用向量来表征颜色可能是有用的；而这与"颜色是内在的"这类颜色形而上学理论相容。也许还有其他关于向量属性的构想，按其向量属性不能是内在的。然而，是否存在这样一种向量属性构想——按其向量属性不能是内在的、却可以是基本的——是不清楚的。（更多讨论见 Busse 2009 与 Marshall 2016b。）
+    step2: |-
+      "所有完全自然的属性都是内在的"这一第一假设已被韦瑟森（Weatherson 2006）拒斥。（另见 Yablo 1999：即使每个完全自然属性都是内在的，这一事实充其量是一个侥幸的偶然，这使得刘易斯的说明作为内在性的哲学说明是不成功的。）[^yablo-1999] 韦瑟森主张：在形而上学上可能，被实例化的完全自然属性是向量属性（vector properties）。他进而论证：既然向量属性必是外在的，至少某些完全自然属性就不是内在的，即在这类世界中实例化的那些完全自然属性。然而，"向量属性必是外在的"这一主张极有争议。把向量属性理解为一种在理论上用某类数学对象——即向量——来有益地表征的属性，是很自然的。但按这一解释，没有理由认为向量属性不能是内在的。例如，由于颜色立体（colour solid）所表征的颜色之间的相似性关系，用向量来表征颜色可能是有用的；而这与"颜色是内在的"这类颜色形而上学理论相容。也许还有其他关于向量属性的构想，按其向量属性不能是内在的。然而，是否存在这样一种向量属性构想——按其向量属性不能是内在的、却可以是基本的——是不清楚的。（更多讨论见 Busse 2009 与 Marshall 2016b。）
   - id: 156
     kind: body
     source: |-
       The second assumption, that the perfectly natural properties and relations are sufficient to characterise each possible world, has been rejected by Sider (1995) and Schaffer (2004). Both claim that it is metaphysically possible for there to be endless sequences of more and more natural properties, without any set of perfectly natural properties out of which all the other properties can be defined. In response to this problem, Sider (1993b) has proposed a modification of Lewis’s account which he claims is consistent with there being such endless sequences of more and more natural properties. Sider (2011) and Marshall (2016b) have recently argued in favour of the second assumption, with Sider’s argument appealing to his Humean theory of metaphysical possibility.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二个假设——完全自然的属性与关系足以刻画每个可能世界——已被 Sider 1995 与谢弗（Schaffer 2004）拒斥。两人都主张：在形而上学上可能存在越来越自然的属性的无尽序列，而没有任何一组完全自然属性可供定义所有其他属性。作为对这一问题的回应，Sider 1993b 提出了对刘易斯说明的一个修改，并声称该修改与存在这样的无尽序列相容。Sider 2011 与 Marshall 2016b 最近则为第二个假设辩护，其中 Sider 的论证诉诸其关于形而上学可能性的休谟式理论。
+    step2: |-
+      第二个假设——完全自然的属性与关系足以刻画每个可能世界——已被 Sider 1995 与谢弗（Schaffer 2004）拒斥。两人都主张：在形而上学上可能存在越来越自然的属性的无尽序列，而没有任何一组完全自然属性可供定义所有其他属性。作为对这一问题的回应，Sider 1993b 提出了对刘易斯说明的一个修改，并声称该修改与存在这样的无尽序列相容。Sider 2011 与 Marshall 2016b 最近则为第二个假设辩护，其中 Sider 的论证诉诸其关于形而上学可能性的休谟式理论。
   - id: 157
     kind: body
     source: |-
       As noted above, Lewis’s account fails to provide an account of identity interiority, which is the most standard notion of intrinsicality, and at best provides an analysis of duplication preservation. Marshall 2016b has recently provided an account in terms of perfect naturalness that, if successful, does provide an analysis of identity interiority. If this account works, it can also be modified to provide analyses of the other notions of intrinsicality described in section 2.4.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如上所述，刘易斯的说明未能给出同一内部性——最标准的内在性概念——的说明，充其量给出了复制保持的分析。Marshall 2016b 最近给出了一种以完全自然性为术语的说明，若成功，它确实提供了对同一内部性的分析。如果这一说明成立，它还可以被修改，以提供第 2.4 节所述其他内在性概念的分析。
+    step2: |-
+      如上所述，刘易斯的说明未能给出同一内部性——最标准的内在性概念——的说明，充其量给出了复制保持的分析。Marshall 2016b 最近给出了一种以完全自然性为术语的说明，若成功，它确实提供了对同一内部性的分析。如果这一说明成立，它还可以被修改，以提供第 2.4 节所述其他内在性概念的分析。
   - id: 158
     kind: body
     source: |-
       The basic idea behind this alternative account of intrinsicality, which I will call perfect naturalness account 2, is that the ascription of a property to a thing is intrinsically about that thing iff the ascription can be expressed in fundamental terms while only referring to, and quantifying over, the parts of $x$. (A similar account is briefly sketched in Skow 2007, p. 112.)[^skow-2007] In more detail, perfect naturalness account 2 first analyses intrinsicality in terms of intrinsic aboutness by (3).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一替代的内在性说明（我称之为完全自然性说明 2）背后的基本想法是：一个属性对某物的归予内在地关乎该物，当且仅当该归予可以用基本词汇来表达，同时只指称 $x$ 的部分、只量化于 $x$ 的部分。（Skow 2007, p. 112 简略勾勒过一个类似的说明。）[^skow-2007] 更详细地说，完全自然性说明 2 首先通过 (3) 以内在关于性来分析内在性。
+    step2: |-
+      这一替代的内在性说明（我称之为完全自然性说明 2）背后的基本想法是：一个属性对某物的归予内在地关乎该物，当且仅当该归予可以用基本词汇来表达，同时只指称 $x$ 的部分、只量化于 $x$ 的部分。（Skow 2007, p. 112 简略勾勒过一个类似的说明。）[^skow-2007] 更详细地说，完全自然性说明 2 首先通过 (3) 以内在关于性来分析内在性。
   - id: 159
     kind: body
     source: |-
       **(3)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(3)**
+    step2: |-
+      **(3)**
   - id: 160
     kind: body
     source: |-
       $p$ is intrinsic iff, necessarily, for any $x$, the ascription of $p$ to $x$ is intrinsically about $x$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $p$ 是内在的，当且仅当必然地，对任意 $x$，$p$ 对 $x$ 的归予内在地关乎 $x$。
+    step2: |-
+      $p$ 是内在的，当且仅当必然地，对任意 $x$，$p$ 对 $x$ 的归予内在地关乎 $x$。
   - id: 161
     kind: body
     source: |-
       It then provides an account of intrinsic aboutness in terms of perfect naturalness and qualitivity by (17), where qualitivity is analysed by (Q). (In (17) and (Q), perfectly natural operators and quantifiers are fundamental operators and quantifiers.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      它进而通过 (17) 以完全自然性与质性性给出内在关于性的说明，其中质性性由 (Q) 分析。（在 (17) 与 (Q) 中，完全自然的算子与量词就是基本算子与量词。）
+    step2: |-
+      它进而通过 (17) 以完全自然性与质性性（qualitivity）给出内在关于性的说明，其中质性性由 (Q) 分析。（在 (17) 与 (Q) 中，完全自然的算子与量词就是基本算子与量词。）
   - id: 162
     kind: body
     source: |-
       **(17)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(17)**
+    step2: |-
+      **(17)**
   - id: 163
     kind: body
     source: |-
       $s$ is intrinsically about $x$ iff $s$ is a non-qualitative state of affairs that can be expressed by a sentence $\phi$ containing at most brackets, commas, lambda abstractors, names referring to parts of $x$, predicates expressing perfectly natural properties and relations, operator expressions expressing perfectly natural operators, and quantifier expressions that express perfectly natural quantifiers and whose occurrences in $\phi$ quantify only over parts of $x$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $s$ 内在地关乎 $x$，当且仅当 $s$ 是一个非质性事态，它可以由一个语句 $\phi$ 表达，该语句至多包含括号、逗号、λ 抽象子、指称 $x$ 部分的名称、表达完全自然属性与关系的谓词、表达完全自然算子的算子表达式，以及表达完全自然量词且其在 $\phi$ 中的出现只量化于 $x$ 的部分的量词表达式。
+    step2: |-
+      $s$ 内在地关乎 $x$，当且仅当 $s$ 是一个非质性事态，它可以由一个语句 $\phi$ 表达，该语句至多包含括号、逗号、λ 抽象子（lambda abstractor）、指称 $x$ 部分的名称、表达完全自然属性与关系的谓词、表达完全自然算子的算子表达式，以及表达完全自然量词且其在 $\phi$ 中的出现只量化于 $x$ 的部分的量词表达式。
   - id: 164
     kind: body
     source: |-
       **(Q)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(Q)**
+    step2: |-
+      **(Q)**
   - id: 165
     kind: body
     source: |-
       $p$ is a qualitative property iff $p$ is a property, and $p$ can be expressed by a predicate containing at most brackets, commas, variables, lambda abstractors, predicates expressing perfectly natural relations, quantifier expressions expressing perfectly natural quantifiers, and operator expressions expressing perfectly natural operators.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $p$ 是质性属性，当且仅当 $p$ 是一个属性，且 $p$ 可以由一个谓词表达，该谓词至多包含括号、逗号、变元、λ 抽象子、表达完全自然关系的谓词、表达完全自然量词的量词表达式与表达完全自然算子的算子表达式。
+    step2: |-
+      $p$ 是质性属性，当且仅当 $p$ 是一个属性，且 $p$ 可以由一个谓词表达，该谓词至多包含括号、逗号、变元、λ 抽象子、表达完全自然关系的谓词、表达完全自然量词的量词表达式与表达完全自然算子的算子表达式。
   - id: 166
     kind: body
     source: |-
       (17) entails that any state of affairs that is intrinsically about something is non-qualitative. This consequence of (17) can be justified by noting that, if $s$ is intrinsically about $x$, then there must be at least one particular thing that it is about, and hence it cannot be a qualitative state of affairs.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (17) 蕴含：任何内在地关乎某物的事态都是非质性的。(17) 的这一推论可以这样证成：如果 $s$ 内在地关乎 $x$，那么必须有至少一个特定事物是它所关乎的，因此它不能是一个质性事态。
+    step2: |-
+      (17) 蕴含：任何内在地关乎某物的事态都是非质性的。(17) 的这一推论可以这样证成：如果 $s$ 内在地关乎 $x$，那么必须有至少一个特定事物是它所关乎的，因此它不能是一个质性事态。
   - id: 167
     kind: body
     source: |-
       (17), as it stands, fails to provide a completely specified account of intrinsic aboutness, since it contains the locution ‘quantifies only over parts of $x$’ which needs to be defined, and giving the needed definition is not straightforward. The account of ‘quantifying over parts of $x$’ given by perfect naturalness account 2 can be simplified if we assume that ‘some’ expresses the only perfectly natural quantifier. Say that a property $p$ necessitates a property $q$ iff, necessarily, for any $x$, if $x$ has $p$ then $x$ has $q$. If $\Phi$ is a set of formulas, let $\bigvee\Phi$ be the disjunction of the formulas in $\Phi$. (So $\bigvee\{\phi_1 , \phi_2,\ldots\}$ = $\ulcorner\phi_1 \vee \phi_2 \vee\ldots\urcorner$.) Given these definitions and the above simplifying assumption, perfect naturalness account 2 endorses (18), where $F$ and $G$ are predicates expressing properties and ‘$\leq$’ symbolises ‘is part of’.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (17) 就其现状而言，未能给出内在关于性的完整明确说明，因为它包含"只量化于 $x$ 的部分"这一有待定义的说法，而给出所需的定义并非直截了当。如果我们假定"有些"表达唯一的完全自然量词，完全自然性说明 2 对"只量化于 $x$ 的部分"的说明就可以简化。我们说属性 $p$ 必然化属性 $q$，当且仅当必然地，对任意 $x$，若 $x$ 具有 $p$ 则 $x$ 具有 $q$。若 $\Phi$ 是一个公式集，令 $\bigvee\Phi$ 为 $\Phi$ 中诸公式的析取。（故 $\bigvee\{\phi_1 , \phi_2,\ldots\}$ = $\ulcorner\phi_1 \vee \phi_2 \vee\ldots\urcorner$。）给定这些定义与上述简化假设，完全自然性说明 2 认可 (18)，其中 $F$ 与 $G$ 是表达属性的谓词，"$\leq$"象征"是……的一部分"。
+    step2: |-
+      (17) 就其现状而言，未能给出内在关于性的完整明确说明，因为它包含"只量化于 $x$ 的部分"这一有待定义的说法，而给出所需的定义并非直截了当。如果我们假定"有些"（some）表达唯一的完全自然量词，完全自然性说明 2 对"只量化于 $x$ 的部分"的说明就可以简化。我们说属性 $p$ 必然化属性 $q$，当且仅当必然地，对任意 $x$，若 $x$ 具有 $p$ 则 $x$ 具有 $q$。若 $\Phi$ 是一个公式集，令 $\bigvee\Phi$ 为 $\Phi$ 中诸公式的析取。（故 $\bigvee\{\phi_1 , \phi_2,\ldots\}$ = $\ulcorner\phi_1 \vee \phi_2 \vee\ldots\urcorner$。）给定这些定义与上述简化假设，完全自然性说明 2 认可 (18)，其中 $F$ 与 $G$ 是表达属性的谓词，"$\leq$"象征"是……的一部分"。
   - id: 168
     kind: body
     source: |-
       **(18)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(18)**
+    step2: |-
+      **(18)**
   - id: 169
     kind: body
     source: |-
       The initial occurrence of ‘Some’ in $\ulcorner [\text{Some } v|Fv]Gv\urcorner$ quantifies only over parts of $x$ iff, for any set $\Pi $ of names of all the parts of $x$, the property expressed by $F$ necessitates the property expressed by $\ulcorner\lambda v\bigvee\{\ulcorner v\leq a\urcorner \mid a\in\Pi\}\urcorner$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $\ulcorner [\text{Some } v|Fv]Gv\urcorner$ 中"Some"的首次出现只量化于 $x$ 的部分，当且仅当：对任意由 $x$ 的所有部分的名称组成的集合 $\Pi $，$F$ 所表达的属性必然化 $\ulcorner\lambda v\bigvee\{\ulcorner v\leq a\urcorner \mid a\in\Pi\}\urcorner$ 所表达的属性。
+    step2: |-
+      $\ulcorner [\text{Some } v|Fv]Gv\urcorner$ 中"Some"的首次出现只量化于 $x$ 的部分，当且仅当：对任意由 $x$ 的所有部分的名称组成的集合 $\Pi $，$F$ 所表达的属性必然化 $\ulcorner\lambda v\bigvee\{\ulcorner v\leq a\urcorner \mid a\in\Pi\}\urcorner$ 所表达的属性。
   - id: 170
     kind: body
     source: |-
       For example, according to this account, if $d$ has exactly three proper parts (which are $a$, $b$ and $c$), then ‘some’ in ‘[Some $v \mid Fv](Gv)$’ quantifies only over parts of $d$ iff the property of being $F$ necessitates the property of being part of either $a$, $b$, $c$ or $d$ (that is, iff, necessarily, any thing that is $F$ is part of either $a$, $b$, $c$ or $d$). More generally, this account endorses (19).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      例如，按这一说明，如果 $d$ 恰有三个真部分（即 $a$、$b$ 与 $c$），那么"[Some $v \mid Fv](Gv)$"中的"some"只量化于 $d$ 的部分，当且仅当"是 $F$"这一属性必然化"是 $a$、$b$、$c$ 或 $d$ 的一部分"这一属性（即：必然地，任何是 $F$ 的东西都是 $a$、$b$、$c$ 或 $d$ 的一部分）。更一般地，这一说明认可 (19)。
+    step2: |-
+      例如，按这一说明，如果 $d$ 恰有三个真部分（即 $a$、$b$ 与 $c$），那么"[Some $v \mid Fv](Gv)$"中的"some"只量化于 $d$ 的部分，当且仅当"是 $F$"这一属性必然化"是 $a$、$b$、$c$ 或 $d$ 的一部分"这一属性（即：必然地，任何是 $F$ 的东西都是 $a$、$b$、$c$ 或 $d$ 的一部分）。更一般地，这一说明认可 (19)。
   - id: 171
     kind: body
     source: |-
       **(19)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(19)**
+    step2: |-
+      **(19)**
   - id: 172
     kind: body
     source: |-
       For any formulas $\phi$ and $\psi$, the initial occurrence of ‘Some’ in $\ulcorner [\text{Some }v\mid \phi]\psi\urcorner$ quantifies only over parts of $x$ iff, for any set $\Pi$ of names of all the parts of $x$, under any assignment $g$ to the free variables in $\phi$ that are not $v$, the property expressed by $\ulcorner\lambda v\phi\urcorner$ necessitates the property expressed by $$\begin{align} \ulcorner\lambda v\big( \bigvee\{\ulcorner v\leq u \urcorner \mid u& \text{ is a free variable in } \phi \text{ that is not } v\} \\ &\vee \bigvee\{\ulcorner v\leq a\urcorner \mid a\in\Pi\}\urcorner. \end{align}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对任意公式 $\phi$ 与 $\psi$，$\ulcorner [\text{Some }v\mid \phi]\psi\urcorner$ 中"Some"的首次出现只量化于 $x$ 的部分，当且仅当：对任意由 $x$ 的所有部分的名称组成的集合 $\Pi$，在 $\phi$ 中非 $v$ 的自由变元的任意指派 $g$ 下，$\ulcorner\lambda v\phi\urcorner$ 所表达的属性必然化 $$\begin{align} \ulcorner\lambda v\big( \bigvee\{\ulcorner v\leq u \urcorner \mid u& \text{ is a free variable in } \phi \text{ that is not } v\} \\ &\vee \bigvee\{\ulcorner v\leq a\urcorner \mid a\in\Pi\}\urcorner. \end{align}$$ 所表达的属性。
+    step2: |-
+      对任意公式 $\phi$ 与 $\psi$，$\ulcorner [\text{Some }v\mid \phi]\psi\urcorner$ 中"Some"的首次出现只量化于 $x$ 的部分，当且仅当：对任意由 $x$ 的所有部分的名称组成的集合 $\Pi$，在 $\phi$ 中非 $v$ 的自由变元的任意指派 $g$ 下，$\ulcorner\lambda v\phi\urcorner$ 所表达的属性必然化 $$\begin{align} \ulcorner\lambda v\big( \bigvee\{\ulcorner v\leq u \urcorner \mid u& \text{ is a free variable in } \phi \text{ that is not } v\} \\ &\vee \bigvee\{\ulcorner v\leq a\urcorner \mid a\in\Pi\}\urcorner. \end{align}$$ 所表达的属性。
   - id: 173
     kind: body
     source: |-
       Given the simplifying assumption that ‘some’ is the only perfectly natural quantifier expression, (3), (17), (Q) and (19) provide the complete account of what it is for a property to be intrinsic according to perfect naturalness account 2.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      给定"some 是唯一的完全自然量词表达式"这一简化假设，(3)、(17)、(Q) 与 (19) 就给出了完全自然性说明 2 下属性之为内在的完整说明。
+    step2: |-
+      给定"some 是唯一的完全自然量词表达式"这一简化假设，(3)、(17)、(Q) 与 (19) 就给出了完全自然性说明 2 下属性之为内在的完整说明。
   - id: 174
     kind: body
     source: |-
       As with perfect naturalness account 1, perfect naturalness account 2 assumes that each perfectly natural property is intrinsic and that the perfectly natural properties, relations, operators and quantifiers are able to completely describe every possible world. If someone rejects these assumptions, they will therefore be unable to endorse this account.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与完全自然性说明 1 一样，完全自然性说明 2 假定每个完全自然属性都是内在的，且完全自然的属性、关系、算子与量词能够完全描述每个可能世界。因此，如果有人拒斥这些假设，他将无法认可这一说明。
+    step2: |-
+      与完全自然性说明 1 一样，完全自然性说明 2 假定每个完全自然属性都是内在的，且完全自然的属性、关系、算子与量词能够完全描述每个可能世界。因此，如果有人拒斥这些假设，他将无法认可这一说明。
   - id: 175
     kind: body
     source: |-
