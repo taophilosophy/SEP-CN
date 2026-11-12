@@ -1004,7 +1004,7 @@
 * [\*民间心理学 folk psychology](README.md)
   * [作为心理模拟的民间心理学 Folk Psychology as Mental Simulation (Luca Barlassina、Robert M. Gordon)](f/folkpsych-simulation.md)
   * [作为理论的民间心理学 Folk Psychology as a Theory (Daniel Hutto、Ian Ravenscroft)](f/folkpsych-theory.md)
-* [菲利帕·福特 Philippa Foot (John Hacker-Wright)](p/philippa-foot.md)
+* [菲利帕·富特 Philippa Foot (John Hacker-Wright)](p/philippa-foot.md)
 * [宽恕 Forgiveness (Luke Russell、Brandon Warmke)](f/forgiveness.md)
 * [\*形式认识论——见形式认识论 formal epistemology — see epistemology, formal](f/formal-epistemology.md)
 * [\*形式主义 formalism](README.md)

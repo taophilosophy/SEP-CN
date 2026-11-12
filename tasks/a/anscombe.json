@@ -2,7 +2,7 @@
   "slug": "anscombe",
   "kind": "retranslate",
   "zh_doc": "a/anscombe.md",
-  "state": "drafted",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -17,6 +17,27 @@
       "actor": "A-main-20261112",
       "at": "2026-11-12T16:06:56Z",
       "evidence": "ADR-0021 账本 106 段双版全填（本会话自译，源 409 行 69KB）；lq.py check 守恒 OK；compose 落 331 行；散文初稿含 5 张列表与 9 处引块"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T17:59:03Z",
+      "evidence": "对账：marker 88=88 同序、脚注定义 81=81 同集、段落 106=106；h2 11 vs 12、h3 4 vs 3 系 Acknowledgments 提为 ## 致谢（模板 v1.3）；年份 206=206 计数一致，顺序差 2 处系脚注定义区前置、OIR 后置之节序"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T17:59:03Z",
+      "evidence": "语体：现代学术书面语；prose 51→10 全部实修（长句 12→4、的去链 29→3、被字 7→3、弱动词 2→0、当时候 1→0），残留 10 条均在 9 处引块/引语内部（ADR-0020 豁免）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T17:59:04Z",
+      "evidence": "check_style 0（补 bold 空格 3 处）、check_academic --strict OK、check_math missing 0、check_terms 硬错 0、check_quotes 0、check_summary 0；术语 10 条与人名 7 条入册；Foot 统一为富特（SUMMARY/mu-lu-s/p 条 H1/正文四处）"
     }
   ],
   "blockers": [],

@@ -855,7 +855,7 @@ outline: [1, 6]
 * [格特鲁德·伊丽莎白·玛格丽特·安斯康姆 Gertrude Elizabeth Margaret Anscombe (Eric Wiland、Julia Driver)](a/anscombe.md)
 * [理查德·默尔文·黑尔 Richard Mervyn Hare (Anthony Price)](h/hare.md)
 * [艾丽丝·默多克 Iris Murdoch (Lawrence Blum)](m/murdoch.md)
-* [菲利帕·福特 Philippa Foot (John Hacker-Wright)](p/philippa-foot.md)
+* [菲利帕·富特 Philippa Foot (John Hacker-Wright)](p/philippa-foot.md)
 
 ### 法兰克福学派
 
