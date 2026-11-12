@@ -75,8 +75,7 @@
 | a priori | a priori | 先天（康德传统；与“先验”transzendental 相区分） | logical-consequence；语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | a priori knowledge | — | 先天知识 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | a-ji / a-ji kan | 阿字観 | 阿字观 | kukai | 真言宗汉语传统（阿字观想） | 2026-11-09 |
-| a-samavayi-kāraṇa | असमवायिकारण | 非和合因 | early-modern-india | 胜论三因义译（non-substrate cause；与和合因、工具因并列）；凭证 2026-11-10 | 2026-11-10 |
-| a-samavāyi-kāraṇa | असमवायिकारण | 非依处因（非和合因） | early-modern-india | 胜论三种因之一（non-inherent cause）；凭证 2026-11-11 | 2026-11-11 |
+| a-samavāyi-kāraṇa | असमवायिकारण | 非和合因（亦作“非依处因”） | early-modern-india | 胜论三因义译（non-inherent cause；与 samavāyi-kāraṇa 和合因、nimitta 工具因并列）；亦作记同词异译形；凭证 2026-11-11；2026-11-13 合并 a-samavayi-kāraṇa/a-samavāyi-kāraṇa 同键异形两行 | 2026-11-13 |
 | abductive reasoning | — | 溯因推理 | 语料回收（abduction） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | abhāva | अभाव | 无体量 | jayaraasi | 因明传统译名（依缺席之否定证） | 2026-11-07 |
 | abhāva-kūṭa | अभावकूट | 非存在之堆（非存在堆） | early-modern-india | Ingalls 译语义译（heap of absences）；凭证 2026-11-10；正文随文作“一堆（特定）非存在”（校 2026-11-11）| 2026-11-10 |
@@ -845,8 +844,7 @@
 | circumstantialist | — | 境遇主义的 | existentialism-mexican | 同上派生（circumstantialist principle 境遇主义原则）；凭证 2026-11-12 | 2026-11-12 |
 | citizenship | — | 公民身份 | immigration | 学界通行（法律与政治身份）；凭证 2026-11-12 | 2026-11-12 |
 | citta | — | 心 | yogacara 首译 | 汉传佛典千年通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| Cittamātra | चित्तमात्र | 唯识 | gelukpa | 佛学界通行译名 | 2026-11-01 |
-| cittamātra | — | 唯心 | yogacara 首译 | 汉传唯识学（citta 心＋mātra 唯）；与 vijñaptimātra 唯识分键；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| Cittamātra | चित्तमात्र | 唯心（亦作“唯识”） | gelukpa（yogacara 同条） | 梵文 citta 心＋mātra 唯；与 vijñaptimātra「唯识」分键（yogacara 词条体例，唯心 97:35 占优）；gelukpa 词条沿用“唯识”属随文旧形，待正文校订归一；凭证 2026-11-11；2026-11-13 合并同键异译两行 | 2026-11-13 |
 | cives | cives | 拉丁原文保留（公民） | oakeshott 首译 | 体例：拉丁术语保留原词并随文释义；凭证 2026-11-07 | 2026-11-07 |
 | civic humanism | — | 公民人文主义 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 h/humanism-civic））；凭证 2026-11-04 | 2026-11-04 |
 | civil association | — | 公民联合 | oakeshott 首译 | 学界惯例（奥克肖特研究通行；与 enterprise association 对举）；凭证 2026-11-07 | 2026-11-07 |
@@ -1974,7 +1972,7 @@
 | first-order logic | — | 一阶逻辑 | 语料回收 | 审定名词库（termonline-all·数学·数理逻辑，2026-10-31 浏览器通道凭证）；本册另有“经典一阶逻辑”行 | 2026-10-31 |
 | Fischer-Ladner closure | — | Fischer–Ladner 闭包 | logic-dynamic | 人名保留英文（Fischer & Ladner 1979）；凭证 2026-11-10 | 2026-11-09 |
 | fitness | — | 适合度 | cancer；biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
-| fitra | فطرة | 天性（菲特拉） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| fitra | فطرة | 天性（菲特拉；亦作“自然禀赋”） | arabic-islamic-* 集群（ibn-taymiyya 同条） | 学界通行；亦作记 ibn-taymiyya 词条随文“自然禀赋（原初禀性）”；凭证 2026-11-12；2026-11-13 合并 fiṭra/fitra 同键异形两行 | 2026-11-13 |
 | fiṭrīyāt | فطریات | 天性命题（有中项而三段论至简；fitra 天性同根） | arabic-islamic-phil-math | 学界通行（阿维森纳逻辑文献） | 2026-11-08 |
 | fittingness | — | 适宜性 | 首现（intuitionism-ethics） | 学界惯例（克拉克/罗斯语境通译）；凭证 2026-11-08 | 2026-11-08 |
 | five classes of sentient beings | — | 五性各别 | korean-buddhism | 佛典古译（玄奘门五种姓说） | 2026-11-05 |
@@ -2136,8 +2134,7 @@
 | Genesis | — | 《创世记》 | marsilius-padua | 圣经通行汉译（和合本）；凭证 2026-11-08 | 2026-11-08 |
 | genetic counseling | — | 遗传咨询 | genetics | 医学遗传学通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
 | genetic drift | — | 遗传漂变 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
-| genetic essentialism | — | 基因本质主义 | cancer | 学界通行（科学哲学与社会科学）；凭证 2026-11-09 | 2026-11-09 |
-| genetic essentialism | — | 遗传本质主义 | genetics | 遗传学哲学通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
+| genetic essentialism | — | 基因本质主义（亦作“遗传本质主义”） | cancer（genetics 同条） | 学界通行（科学哲学与社会科学）；正文 2:1 通行“基因本质主义”；亦作记 genetics 词条行形；凭证 2026-11-09；2026-11-13 合并同键异译两行 | 2026-11-13 |
 | genetic information | — | 遗传信息 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | genetic polymorphism | — | 遗传多态性 | ecological-genetics 首译 | 学界通行译名（群体遗传学文献）；凭证 2026-11-09 | 2026-11-09 |
 | genetics | — | 遗传学 | genetics | 学科名，学界通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
@@ -3080,8 +3077,7 @@
 | machine ethics | — | 机器伦理 | 首现（it-moral-values） | 学界通行（Anderson 与 Anderson 同名文集）；凭证 2026-11-10 | 2026-11-10 |
 | machine model | — | 机器模型 | la-forge | 笛卡儿研究通行（人体机器模型）；凭证 2026-11-09 | 2026-11-09 |
 | macrocosm | — | 大宇宙 | natphil-ren | 学界通行（与册内 microcosm 小宇宙对举）；凭证 2026-11-10 | 2026-11-10 |
-| madhyamaka | मध्यमक | 中观 | gelukpa | 佛学界通行译名；与权威哲学史译本一致 | 2026-11-01 |
-| Madhyamaka | — | 中观派（中观） | yogacara 首译 | 佛学界千年通行译名；与“中观学”随文并用；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| madhyamaka | मध्यमक | 中观（亦作“中观派”） | gelukpa（yogacara 同条） | 佛学界通行译名；与权威哲学史译本一致；亦作记“中观派/中观学”随文并用形；凭证 2026-11-11；2026-11-13 合并 Madhyamaka/madhyamaka 同键异形两行 | 2026-11-13 |
 | Madhyamakālaṃkāra | — | 《中观庄严论》 | yogacara 首译 | 汉文古译（寂护造）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | Madhyamakāloka | — | 《中观光明论》 | yogacara 首译 | 梵题汉译（莲花戒造，无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | Madhyamakāvatāra | — | 《入中论》 | gorampa | 月称入中观论书通行译名 | 2026-11-09 |
@@ -3146,7 +3142,6 @@
 | Master of Theology | — | 神学硕士 | gregory-rimini | 中世纪大学史通行（magister in theologia）；凭证 2026-11-10 | 2026-11-10 |
 | master-slave dialectic | — | 主奴辩证法 | george-eliot 首译 | 黑格尔研究通行 | 2026-11-12 |
 | Masters texts | 諸子 | 诸子文本 | chinese-phil-science | 学界通行（《汉书·诸子略》系）；凭证 2026-11-07 | 2026-11-07 |
-| fiṭra | فطرة | 自然禀赋（原初禀性） | ibn-taymiyya | 学界惯例（伊斯兰神学人类学；正文随文作“自然禀赋”） | 2026-11-12 |
 | matching | — | 匹配 | s/social-procedures 首译 | 学界通行译法（匹配理论通行）；凭证 2026-11-07 | 2026-11-07 |
 | material / formal analogy | — | 实质类比／形式类比 | reasoning-analogy | 学界通行（Hesse 术语） | 2026-11-05 |
 | material adequacy | — | 实质恰当性 | lvov-warsaw；tarski-truth | 塔尔斯基真理定义条件之一（material adequacy）；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
@@ -4353,8 +4348,8 @@
 | public power | — | 公共权力 | global-democracy 首译 | 学界通行（国际权威研究） | 2026-11-12 |
 | public reflective equilibrium | — | 公共反思平衡 | reflective-equilibrium | 学界惯例（Baderin 2017 术语）；凭证 2026-11-11 | 2026-11-11 |
 | Publikationsverbot | Publikationsverbot | 出版禁令 | jaspers 首译 | 学界通行（纳粹时期对雅斯贝尔斯的处分）；凭证 2026-11-09 | 2026-11-09 |
-| pudgala | पुद्गल | 质料 | jaina-philosophy | 耆那教“物质”义（勿与佛教补特伽罗“人我”相混；随文括注原词） | 2026-11-08 |
-| pudgala | — | 补特伽罗（人我） | yogacara 首译 | 汉传佛典千年通行音译；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| pudgala（耆那教物质义） | पुद्गल | 质料 | jaina-philosophy | 耆那教“物质”义（勿与佛教补特伽罗“人我”相混；随文括注原词）；2026-11-13 键加括注消同键异义 | 2026-11-13 |
+| pudgala（佛教补特伽罗义） | पुद्गल | 补特伽罗（人我） | yogacara 首译 | 汉传佛典千年通行音译；2026-11-13 键加括注消同键异义并补原文 | 2026-11-13 |
 | pulsific faculty | — | 搏动官能 | la-forge | 经院生理学术语直译（facultas pulsifica）；凭证 2026-11-09 | 2026-11-09 |
 | pure formula | — | 纯公式 | logic-hybrid | 学界通行（hybrid logic 公理系统术语）；凭证 2026-11-09 | 2026-11-09 |
 | pure intellect | — | 纯粹理智 | henricus-regius | 学界通行（笛卡尔—洛克脉络，与 pure understanding 同指）；凭证 2026-11-08 | 2026-11-08 |
@@ -4480,8 +4475,8 @@
 | real objects | — | 实在对象 | reinach | 学界惯例（同上）；凭证 2026-11-09 | 2026-11-09 |
 | real possibility | — | 实在可能性 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | real proposition | — | 实在命题 | hilbert-program 首译 | 希尔伯特研究通行（与“理想命题”对举）；凭证 2026-11-11 | 2026-11-11 |
-| realism | — | 实在论（亦作“唯实论”；限中世纪共相语境） | 全库既有译名（ockham、buridan 等） | 学界通行；共相之争语境别译“唯实论”，马工程《西方哲学史》明言取此别译（与“唯名论”对仗、与当代实在论区分），《哲学大辞典》阿伯拉尔条同；2026-11-13 用户裁定 | 2026-11-13 |
 | real-soundness | — | 实在可靠性 | hilbert-program 首译 | 证明论通行（Detlefsen 工具主义辩护语境）；凭证 2026-11-11 | 2026-11-11 |
+| realism | — | 实在论（亦作“唯实论”；限中世纪共相语境） | 全库既有译名（ockham、buridan 等） | 学界通行；共相之争语境别译“唯实论”，马工程《西方哲学史》明言取此别译（与“唯名论”对仗、与当代实在论区分），《哲学大辞典》阿伯拉尔条同；2026-11-13 用户裁定 | 2026-11-13 |
 | realist phenomenology | — | 实在论现象学 | reinach | 学界惯例（慕尼黑—哥廷根学派研究文献）；凭证 2026-11-09 | 2026-11-09 |
 | realizability | — | 可实现性 | 首现（intuitionism） | 数理逻辑通行译名（Kleene realizability）；凭证 2026-11-10 | 2026-11-10 |
 | realization | — | 实现 | logic-provability | 可证性逻辑通行（亦作“翻译”“解释”备查） | 2026-11-05 |
@@ -4612,9 +4607,7 @@
 | respublica | respublica | 拉丁原文保留（公共关切/共同善） | oakeshott 首译 | 体例：拉丁术语保留原词并随文释义；凭证 2026-11-07 | 2026-11-07 |
 | restitution | — | 返还 | grotius | 法学术语通行（返还原物）；凭证 2026-11-12 | 2026-11-12 |
 | Restoration Argument | — | 恢复论证 | organ-donation | 构词直译（本词条命名论证） | 2026-11-06 |
-| restoration of virginity | — | 贞洁的恢复（已废弃，见新行） | peter-damian | 构词直译（restore virginity 作“恢复贞洁”；本词条核心问题之一）；凭证 2026-11-09 | 2026-11-09 |
-| restoration of virginity | — | 恢复贞洁 | peter-damian | 与 restore virginity 同形（词条内动词式与名词式统一主形；用户同日裁定 undo the done 同款处理）；凭证 2026-11-10 | 2026-11-10 |
-| restoration of virginity | — | 贞洁的恢复 | peter-damian | 构词直译（restore virginity 作“恢复贞洁”；本词条核心问题之一）；凭证 2026-11-09 | 2026-11-09 |
+| restoration of virginity | — | 恢复贞洁（亦作“贞洁的恢复”） | peter-damian | 与 restore virginity 同形（词条内动词式与名词式统一主形；用户 2026-11-10 裁定，undo the done 同款处理）；亦作记构词直译旧形；凭证 2026-11-10；2026-11-13 合并同键重复三行 | 2026-11-13 |
 | restricted quantification | — | 受限量化 | logic-relevance | Beall 等 2006 术语直译；凭证 2026-11-09 | 2026-11-09 |
 | restriction | — | 限缩 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
 | restrictor | — | 限制域 | dynamic-semantics | 广义量词理论通行（亦作"限制词"）；凭证 2026-11-12 | 2026-11-12 |
@@ -4725,8 +4718,7 @@
 | sāmānyābhāva | सामान्याभाव | 通类非存在 | early-modern-india | 新正理否定语义译（generic absence；与特定非存在对举）；凭证 2026-11-10 | 2026-11-10 |
 | sāmānyalakṣaṇa | सामान्यलक्षण | 总相连接 | early-modern-india | 正理现量论通行义译（超常感知之一）；凭证 2026-11-10 | 2026-11-10 |
 | samavāya | समवाय | 和合 | early-modern-india 首译 | 玄奘古译通行（inherence；胜论第六句义）；凭证 2026-11-10 | 2026-11-10 |
-| samavayi-kāraṇa | समवायिकारण | 和合因（依处因） | early-modern-india | 胜论三因义译（substrate cause；果所依之实）；凭证 2026-11-10 | 2026-11-10 |
-| samavāyi-kāraṇa | समवायिकारण | 依处因（和合因） | early-modern-india | 胜论三种因之一（inherent cause）；凭证 2026-11-11 | 2026-11-11 |
+| samavāyi-kāraṇa | समवायिकारण | 和合因（亦作“依处因”） | early-modern-india | 胜论三因义译（inherent/substrate cause；果所依之实，与 a-samavāyi-kāraṇa 非和合因并列）；亦作记同词异译形；凭证 2026-11-11；2026-11-13 合并 samavayi-kāraṇa/samavāyi-kāraṇa 同键异形两行 | 2026-11-13 |
 | samaveta-samavāya | समवेतसमवाय | 和合者中的和合（和合内之和合） | early-modern-india | 同上系列（inherence-in-the-inherent）；凭证 2026-11-10；六种感官连接之五（校 2026-11-11）| 2026-11-10 |
 | Sambandhaparīkṣā | — | 《观相属论》 | yogacara 首译 | 梵题汉译（法称造，无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | sambhāva | — | 相等量 | jayaraasi | 印度量论通行译法 | 2026-11-07 |
