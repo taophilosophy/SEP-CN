@@ -193,146 +193,198 @@ segments:
       1. $x$ has $F$ in an intrinsic fashion iff a sentence ascribing $F$ to $x$ is entirely about that thing.
       2. $x$ has $F$ in an intrinsic fashion iff $x$ has $F$ in virtue of how $x$ itself, and nothing else, is.
       3. $x$ has $F$ in an intrinsic fashion iff every duplicate of $x$ has $F$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. $x$ 以内在方式具有 $F$，当且仅当把 $F$ 归予 $x$ 的句子完全是关于它的。
+      2. $x$ 以内在方式具有 $F$，当且仅当 $x$ 具有 $F$，是凭借 $x$ 自身、且仅凭 $x$ 自身之所是。
+      3. $x$ 以内在方式具有 $F$，当且仅当 $x$ 的每个复本都具有 $F$。
+    step2: |-
+      1. $x$ 以内在方式具有 $F$，当且仅当把 $F$ 归予 $x$ 的句子完全是关于它的。
+      2. $x$ 以内在方式具有 $F$，当且仅当 $x$ 具有 $F$，是凭借 $x$ 自身、且仅凭 $x$ 自身之所是。
+      3. $x$ 以内在方式具有 $F$，当且仅当 $x$ 的每个复本都具有 $F$。
   - id: 23
     kind: body
     source: |-
       It follows from at least the third of these characterisations that something can have an extrinsic property in an intrinsic fashion. For example, since every duplicate of a piece of tin has the property of being made of tin, every duplicate of a piece of tin also has the extrinsic property of being either made of tin or married. As a result, it follows from the third characterisation that each piece of tin has the property of being either made of tin or married in an intrinsic fashion, despite this property being extrinsic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      至少从第三条刻画可以推出：某物可以以内在的方式具有一个外在属性。例如，既然每块锡的复本都具有由锡制成这一属性，每块锡的复本也就具有"由锡制成或者是已婚的"这一外在属性。于是，由第三条刻画可得：每块锡都以内在方式具有"由锡制成或者是已婚的"这一属性，尽管这一属性是外在的。
+    step2: |-
+      至少从第三条刻画可以推出：某物可以以内在的方式具有一个外在属性。例如，既然每块锡的复本都具有由锡制成这一属性，每块锡的复本也就具有"由锡制成或者是已婚的"这一外在属性。于是，由第三条刻画可得：每块锡都以内在方式具有"由锡制成或者是已婚的"这一属性，尽管这一属性是外在的。
   - id: 24
     kind: body
     source: |-
       Two plausible principles linking the local and global concepts of intrinsicality are (GTL) and (LTG) (see Humberstone 1996, p. 228)[^humberstone-1996].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      把局部概念与全局概念联系起来的两条可信原则是 (GTL) 与 (LTG)（见 Humberstone 1996, p. 228）[^humberstone-1996]。
+    step2: |-
+      把局部概念与全局概念联系起来的两条可信原则是 (GTL) 与 (LTG)（见 Humberstone 1996, p. 228）[^humberstone-1996]。
   - id: 25
     kind: body
     source: |-
       **(GTL)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(GTL)**
+    step2: |-
+      **(GTL)**
   - id: 26
     kind: body
     source: |-
       If $F$ is an intrinsic property, then it is necessary that every $x$ that has $F$ has $F$ in an intrinsic fashion
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 $F$ 是一个内在属性，则必然地，每个具有 $F$ 的 $x$ 都以内在方式具有 $F$。
+    step2: |-
+      若 $F$ 是一个内在属性，则必然地，每个具有 $F$ 的 $x$ 都以内在方式具有 $F$。
   - id: 27
     kind: body
     source: |-
       **(LTG)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(LTG)**
+    step2: |-
+      **(LTG)**
   - id: 28
     kind: body
     source: |-
       If it is necessary that every $x$ that has $F$ has $F$ in an intrinsic fashion, then $F$ is an intrinsic property
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若必然地，每个具有 $F$ 的 $x$ 都以内在方式具有 $F$，则 $F$ 是一个内在属性。
+    step2: |-
+      若必然地，每个具有 $F$ 的 $x$ 都以内在方式具有 $F$，则 $F$ 是一个内在属性。
   - id: 29
     kind: body
     source: |-
       In addition to the two-place predicate ‘has … in an intrinsic fashion’, we can introduce a modifier ‘intrinsically’, where, adapting one of the characterisations above, $x$ is intrinsically $F$ iff $x$ is $F$ in virtue of how $x$ itself, and nothing else, is. (cf. Humberstone 1996, p. 228)[^humberstone-1996]. This modifier takes predicates as arguments rather than names of properties or variables ranging over properties. Nominalists, who don’t believe in properties, might attempt to use this modifier to capture the intuitive distinctions associated with intrinsicality without committing themselves to properties. For example, a nominalist might claim that a table is intrinsically rectangular, while claiming to consistently hold that there is no property of being rectangular. (For simplicity, we will assume in the following that nominalism is false and that there are abundantly many properties and relations, some of which are intrinsic and some of which are extrinsic.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除了二元谓词"以内在方式具有……"之外，我们还可以引入一个修饰语"内在地"（intrinsically）：改造上面的一条刻画，$x$ 内在地是 $F$，当且仅当 $x$ 是 $F$，是凭借 $x$ 自身、且仅凭 $x$ 自身之所是。（参见 Humberstone 1996, p. 228）[^humberstone-1996]。这一修饰语以谓词而非属性名称或属性变元为论元。不相信属性存在的唯名论者，或许会试图用这一修饰语来把握与内在性相关的直观区分，而不必承诺属性的存在。例如，一个唯名论者可能会主张一张桌子内在地是矩形的，同时又融贯地主张不存在"是矩形的"这一属性。（为简单起见，下文我们假定唯名论为假，并且存在丰富多样的属性与关系，其中一些是内在的，另一些是外在的。）
+    step2: |-
+      除了二元谓词"以内在方式具有……"之外，我们还可以引入一个修饰语"内在地"（intrinsically）：仿照上面的一条刻画，$x$ 内在地是 $F$，当且仅当 $x$ 是 $F$，是凭借 $x$ 自身、且仅凭 $x$ 自身之所是。（参见 Humberstone 1996, p. 228）[^humberstone-1996]。这一修饰语以谓词为论元，而非以属性名称或属性变元为论元。不相信属性存在的唯名论者，或许会试图用这一修饰语来把握与内在性相关的直观区分，而无需承诺属性的存在。例如，一个唯名论者可能会主张一张桌子内在地是矩形的，同时又融贯地主张不存在"是矩形的"这一属性。（为简单起见，下文我们假定唯名论为假，并且存在丰富多样的属性与关系，其中一些是内在的，另一些是外在的。）
   - id: 30
     kind: body
     source: |-
       There might be further reasons to employ either the two place predicate ‘has … in an intrinsic fashion’, or the modifier ‘intrinsically’, rather than the one-place predicate ‘is intrinsic’. For example, one might think that at least one of the former two notions is more fundamental than the latter notion, or that the latter notion is misguided in some way that at least one of the former notions isn’t. (See, for example, Figdor 2008.)[^figdor-2008]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      或许还有进一步的理由使用二元谓词"以内在方式具有……"或修饰语"内在地"，而非一元谓词"是内在的"。例如，人们可能认为前两个概念中至少有一个比后者更基本，或者认为后者在某种方式上是有误导的，而前者至少有一个并非如此。（例如参见 Figdor 2008。）[^figdor-2008]
+    step2: |-
+      或许还有进一步的理由使用二元谓词"以内在方式具有……"或修饰语"内在地"，而非一元谓词"是内在的"。例如，人们可能认为，前两个概念中至少有一个比后者更基本；或者认为后者在某种方式上是有误导的，而前者至少有一个并非如此。（例如参见 Figdor 2008。）[^figdor-2008]
   - id: 31
     kind: body
     source: |-
       ### 1.3 Relations
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.3. 关系
+    step2: |-
+      ### 1.3. 关系
   - id: 32
     kind: body
     source: |-
       While this article focuses on the distinction between intrinsic and extrinsic one-place properties, it is important to recognize that the distinction between intrinsic and extrinsic also applies to multiple place relations. As in the case of one-place properties, the distinction between intrinsic and extrinsic multiple place relations can be introduced by characterisations and examples. One characterisation is the following:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      虽然本文聚焦于内在与外在一元属性之间的区分，但重要的是要认识到，内在与外在的区分也适用于多元关系。与一元属性的情形一样，内在与外多元关系之间的区分也可以通过刻画与例子来引入。一条刻画如下：
+    step2: |-
+      虽然本文聚焦于一元属性的内在与外在之区分，但重要的是要认识到，内在与外在的区分同样适用于多元关系。与一元属性的情形一样，内在与外多元关系之间的区分也可以通过刻画与例子来引入。一条刻画如下：
   - id: 33
     kind: body
     source: |-
       > An $n$-place intrinsic relation is an $n$-place relation that $n$ things stand in in virtue of how they are and how they are related to each other, and not in virtue of anything else; whereas, this is not the case for extrinsic $n$-place relations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 一个 $n$ 元内在关系，是这样一种 $n$ 元关系：$n$ 个事物凭它们各自之所是以及它们彼此如何相关而处于该关系中，而不凭任何其他东西；外在的 $n$ 元关系则不然。
+    step2: |-
+      > 一个 $n$ 元内在关系，是这样一种 $n$ 元关系：$n$ 个事物凭它们各自之所是以及它们彼此如何相关而处于该关系中，而不凭任何其他东西；外在的 $n$ 元关系则不然。
   - id: 34
     kind: body
     source: |-
       Examples of extrinsic two-place relations include *being as popular as*, and *having the same cousin as*. Possible examples of intrinsic two-place relations include *being 1 m away from* and *being made of the same type of metal as*. (The claim that distance relations like *being 1 m away from* are intrinsic will be denied by philosophers who deny that shape properties are intrinsic.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      外在二元关系的例子包括：与……一样受欢迎、与……有相同的表亲。内在二元关系的可能例子包括：与……相距一米、与……由同种金属制成。（主张像"与……相距一米"这类距离关系是内在的哲学家，会否认形状属性是内在的。）
+    step2: |-
+      外在二元关系的例子包括"与……一样受欢迎""与……有相同的表亲"。内在二元关系的可能例子包括"与……相距一米""与……由同种金属制成"。（主张像"与……相距一米"这类距离关系是内在的哲学家，会否认形状属性是内在的。）
   - id: 35
     kind: body
     source: |-
       As well as the global notion of an $n$-place relation being intrinsic, there is the local notion of $n$ things standing in a relation in an intrinsic fashion. A characterisation of this local notion is:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除了 $n$ 元关系之为内在的这一全局概念之外，还有 $n$ 个事物以内在方式处于一关系中的局部概念。这一局部概念的一条刻画是：
+    step2: |-
+      除了 $n$ 元关系之为内在的这一全局概念之外，还有 $n$ 个事物以内在方式处于一关系之中的局部概念。这一局部概念的一条刻画是：
   - id: 36
     kind: body
     source: |-
       > $n$ things stand in a relation $R$ in an intrinsic fashion iff the $n$ things stand in $R$ in virtue of how they are and how they are related to each other, and not in virtue of anything else.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > $n$ 个事物以内在方式处于关系 $R$ 中，当且仅当这 $n$ 个事物凭它们各自之所是以及它们彼此如何相关而处于 $R$ 中，而不凭任何其他东西。
+    step2: |-
+      > $n$ 个事物以内在方式处于关系 $R$ 中，当且仅当这 $n$ 个事物凭它们各自之所是以及它们彼此如何相关而处于 $R$ 中，而不凭任何其他东西。
   - id: 37
     kind: body
     source: |-
       ## 2. Notions of Intrinsicality
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2. 内在性的诸概念
+    step2: |-
+      ## 2. 内在性的诸概念
   - id: 38
     kind: body
     source: |-
       A number of different distinctions have been called the intrinsic/extrinsic distinction. As J. Michael Dunn (1990) notes, some authors have used ‘intrinsic’ and ‘extrinsic’ to mean ‘essential’ and ‘accidental’. Dunn is surely right in saying that this is a misuse of the terms. A more interesting distinction is noted by Brian Ellis (1991; discussed in Humberstone 1996: 206)[^humberstone-1996]. (See also Figdor 2008 and Figdor 2014 for a discussion of a related notion of intrinsicality.)[^figdor-2008][^figdor-2014] Ellis suggests we should distinguish between properties that objects have independently of any outside forces acting on them (what we will call the Ellis-intrinsic properties), and those that they have in virtue of those outside forces (the Ellis-extrinsic properties). For many objects (such as, say, a stretched rubber band) their shape will be dependent on the outside forces acting on them, so their shape will be Ellis-extrinsic. If one is committed to the idea that shapes are intrinsic, one should think this means that the distinction between the Ellis-intrinsic and Ellis-extrinsic properties is not the same as the intrinsic/extrinsic distinction. Such a judgement may seem a little hasty, but in any case we will turn now to distinctions that have received more attention in the philosophical literature.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有若干不同的区分都曾被称作内在／外在区分。正如 J. Michael Dunn（1990）指出的，一些作者用"内在的"与"外在的"来意指"本质的"与"偶然的"。Dunn 说这是对术语的误用，这无疑是对的。一个更有趣的区分由 Brian Ellis（1991；Humberstone 1996: 206 有所讨论）指出 [^humberstone-1996]。（另见 Figdor 2008 与 Figdor 2014 对一种相关内在性概念的讨论。）[^figdor-2008][^figdor-2014] Ellis 建议我们区分：对象独立于任何作用于其上的外力而具有的属性（我们称之为 Ellis-内在属性），与对象凭借那些外力而具有的属性（Ellis-外在属性）。对许多对象（比如一根拉紧的橡皮筋）来说，其形状将依赖于作用于其上的外力，因此其形状是 Ellis-外在的。如果一个人承诺形状是内在的这一观念，他就应当认为，这意味着 Ellis-内在属性与 Ellis-外在属性之间的区分不同于内在／外在区分。这样的判断也许显得有些仓促，但无论如何，我们现在转向在哲学文献中受到更多关注的那些区分。
+    step2: |-
+      有若干不同的区分都曾被称作内在／外在区分。正如 J. Michael Dunn（1990）指出的，一些作者用"内在的"与"外在的"来意指"本质的"与"偶然的"。Dunn 说这是对术语的误用，这无疑是对的。一个更有趣的区分由 Brian Ellis（1991；Humberstone 1996: 206 有所讨论）指出 [^humberstone-1996]。（另见 Figdor 2008 与 Figdor 2014 对一种相关内在性概念的讨论。）[^figdor-2008][^figdor-2014] Ellis 建议我们区分：对象独立于任何作用于其上的外力而具有的属性（我们称之为 Ellis-内在属性），与对象凭借那些外力而具有的属性（Ellis-外在属性）。对许多对象（比如一根拉紧的橡皮筋）来说，其形状都依赖于作用于其上的外力，因此其形状是 Ellis-外在的。如果一个人承诺形状是内在的这一观念，他就应当认为，这意味着 Ellis-内在属性与 Ellis-外在属性之间的区分不同于内在／外在区分。这样的判断也许显得有些仓促，但无论如何，我们接下来转向在哲学文献中受到更多关注的那些区分。
   - id: 39
     kind: body
     source: |-
       ### 2.1 Relational vs. Non-Relational Properties
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.1. 关系性属性与非关系性属性
+    step2: |-
+      ### 2.1. 关系性属性与非关系性属性
   - id: 40
     kind: body
     source: |-
       Many writers, especially in the literature on intrinsic value, use ‘relational’ for the opposite of intrinsic. This seems to be a mistake since many properties seem to be both be relational and intrinsic. For example, most people have the property *having longer legs than arms*, and indeed seem to have this property in an intrinsic fashion, even though the property consists in a certain relation being satisfied. Maybe the property is not intrinsic if whether or not something is an arm or a leg is extrinsic, so perhaps this isn’t a conclusive example, but it seems troubling. And, in any case, there are other examples that can’t be responded to in this way. For example, the property of having a proper part is surely intrinsic, but it also appears to be a relational property.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      许多作者（尤其在关于内在价值的文献中）用"关系性的"作为内在的反义词。这似乎是一个错误，因为许多属性似乎既是关系性的又是内在的。例如，大多数人具有"腿比胳膊长"这一属性，而且看起来确实以内在方式具有这一属性，尽管这一属性在于某种关系得到满足。也许，如果某物是不是胳膊或腿是外在的，这一属性就不是内在的，所以这或许不是一个决定性的例子，但它看起来是令人困扰的。而且，无论如何，还有其他无法以这种方式回应的例子。例如，"拥有一个真部分"这一属性无疑是内在的，但它似乎也是一个关系性属性。
+    step2: |-
+      许多作者（尤其在关于内在价值的文献中）用"关系性的"（relational）作为内在的反义词。这似乎是一个错误，因为许多属性似乎既是关系性的又是内在的。例如，大多数人具有"腿比胳膊长"这一属性，而且看起来确实以内在方式具有这一属性，尽管这一属性在于某种关系得到满足。也许，如果某物是不是胳膊或腿是外在的，这一属性就不是内在的，所以这或许不是一个决定性的例子；但它看起来是令人困扰的。而且，无论如何，还有其他无法以这种方式回应的例子。例如，"拥有一个真部分"这一属性无疑是内在的，但它似乎也是一个关系性属性。
   - id: 41
     kind: body
     source: |-
       As Humberstone 1996 notes, some might respond by suggesting that a relational property is one such that if an object has it, then it bears some relation to a non-part of it. But this won’t do either. *Not being within a mile of a rhododendron* is clearly relational, but does not consist in bearing a relation to any non-part, as we can see by the fact that a non-rhododendron all alone in a world can satisfy it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如 Humberstone 1996 所指出的，有人可能会回应说，关系性属性是这样一种属性：如果对象具有它，那么对象与某个非其部分的东西处于某种关系中。但这样做也不行。"不在任何一株杜鹃花的一英里之内"显然是关系性的，却并不在于与任何非部分处于某种关系中——我们可以从一个世界上孤零零的、非杜鹃花的东西能满足这一属性看出这一点。
+    step2: |-
+      正如 Humberstone 1996 所指出的，有人可能会回应说：关系性属性是这样一种属性，如果对象具有它，那么对象与某个非其部分的东西处于某种关系中。但这样做也不行。"不在任何一株杜鹃花的一英里之内"显然是关系性的，却并不在于与任何非部分处于某种关系中——这一点可以从如下事实看出：一个世界上孤零零的、非杜鹃花的东西也能满足这一属性。
   - id: 42
     kind: body
     source: |-
       A further response might be to say that a relational property should be a property that involves a relation that can only relate wholly distinct things, and that, given this construal of a relational property, non-intrinsic properties are relational properties. However, this response faces difficulties also. For example, this account would presumably classify the property of being such that there is a cube as being intrinsic. This property, however, is not intrinsic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      更进一步的回应可能是说：关系性属性应当是这样一种属性，它涉及一种只能关联完全相异之物的关系；而且，若采这一关系性属性的解释，非内在属性都是关系性属性。然而，这一回应同样面临困难。例如，这一说法大概会把"存在一个立方体"这一属性归为内在属性。然而这一属性不是内在的。
+    step2: |-
+      更进一步的回应可能是说：关系性属性应当是这样一种属性，它涉及一种只能关联完全相异之物的关系；并且，按这一关系性属性的解释，非内在属性都是关系性属性。然而，这一回应同样面临困难。例如，这一说法大概会把"存在一个立方体"这一属性归为内在属性。然而这一属性不是内在的。
   - id: 43
     kind: body
     source: |-
       While the notion of a relational property should be distinguished from the notion of a non-intrinsic property, it might be that the notion of intrinsic properties can be given an account in terms of relationality. One such account due to Francesscotti is discussed in the supplement:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      虽然关系性属性的概念应当与非内在属性的概念区分开来，但或许可以借助关系性来给出内在属性的说明。其中一种说明出自 Francescotti，在补充文档中讨论：
+    step2: |-
+      虽然关系性属性的概念应当与非内在属性的概念区分开来，但内在属性的概念或许仍可以借助关系性来给出说明。其中一种说明出自 Francescotti，在补充文档中讨论：
   - id: 44
     kind: body
     source: |-
       [The Relational Account of Intrinsicality](intrinsic-extrinsic.relational-theory.md).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [内在性的关系性说明](intrinsic-extrinsic.relational-theory.md)。
+    step2: |-
+      [内在性的关系性说明](intrinsic-extrinsic.relational-theory.md)。
   - id: 45
     kind: body
     source: |-
       ### 2.2 Local vs. Non-Local Properties
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2. 局部属性与非局部属性
+    step2: |-
+      ### 2.2. 局部属性与非局部属性
   - id: 46
     kind: body
     source: |-
