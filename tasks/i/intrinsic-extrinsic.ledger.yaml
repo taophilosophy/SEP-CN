@@ -1436,123 +1436,165 @@ segments:
     kind: body
     source: |-
       ### 3.3 Non-Disjunctivity Theories
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.3. 非析取性理论
+    step2: |-
+      ### 3.3. 非析取性理论
   - id: 176
     kind: body
     source: |-
       Instead of analysing intrinsicality in terms of perfect naturalness, one might try to analyse it in terms of non-disjunctivity, where non-disjunctivity is regarded as an objective metaphysical feature of properties rather than merely a syntactical feature of predicates. The most prominent attempt to do this is the account of Langton and Lewis 1998. (A similar theory is in an appendix to Zimmerman 1997.)[^zimmerman-1997]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与其用完全自然性来分析内在性，不如尝试用非析取性来分析它，这里非析取性被看作属性的一种客观形而上学特征，而不仅是谓词的句法特征。这一路径最突出的尝试是 Langton and Lewis 1998 的说明。（一个类似的理论见 Zimmerman 1997 的附录。）[^zimmerman-1997]
+    step2: |-
+      与其用完全自然性来分析内在性，不如尝试用非析取性（non-disjunctivity）来分析它，这里非析取性被看作属性的一种客观形而上学特征，而不仅是谓词的句法特征。这一路径最突出的尝试是 Langton and Lewis 1998 的说明。（一个类似的理论见 Zimmerman 1997 的附录。）[^zimmerman-1997]
   - id: 177
     kind: body
     source: |-
       Langton and Lewis’s account involves the following three steps. First, they analyse the non-disjunctive properties as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Langton 与刘易斯的说明包含以下三步。第一步，他们如此分析非析取属性：
+    step2: |-
+      Langton 与刘易斯的说明包含以下三步。第一步，他们如此分析非析取（non-disjunctive）属性：
   - id: 178
     kind: body
     source: |-
       > [T]he *disjunctive* properties [are] those properties that can be expressed by a disjunction of (conjunctions of) natural properties; but that are not themselves natural properties. (Or, if naturalness admits of degrees, they are much less natural than the disjuncts in terms of which they can be expressed.) (Langton and Lewis 1998: 61, author’s emphasis)[^langton-1998]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > [所谓]**析取的**属性[是指]那些可以由（诸）自然属性的析取（或诸自然属性的合取的析取）来表达的属性；但它们本身不是自然属性。（或者，如果自然性有程度之分，它们远不如据以表达它们的各析取支自然。）（Langton and Lewis 1998: 61，作者强调）[^langton-1998]
+    step2: |-
+      > [所谓]**析取的**（disjunctive）属性[是指]那些可以由（诸）自然属性的析取（或诸自然属性的合取的析取）来表达的属性；但它们本身不是自然属性。（或者，如果自然性有程度之分，它们远不如据以表达它们的各析取支自然。）（Langton and Lewis 1998: 61，作者强调）[^langton-1998]
   - id: 179
     kind: body
     source: |-
       Secondly, they say a property is *basic intrinsic* iff it is non-disjunctive, is not the negation of a disjunctive property, and is independent of accompaniment. Finally, they say that (i) two objects are duplicates iff they share the same basic intrinsic properties, and (ii) $F$ is an intrinsic property iff two duplicates never differ with respect to it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二步，他们说一个属性是**基本内在属性**，当且仅当它是非析取的、不是某析取属性的否定，且独立于有伴。最后，他们说 (i) 两个对象是复本，当且仅当它们共享相同的基本内在属性；(ii) $F$ 是内在属性，当且仅当两个复本就之从不相异。
+    step2: |-
+      第二步，他们说一个属性是**基本内在属性**（basic intrinsic），当且仅当它是非析取的、不是某析取属性的否定，且独立于有伴。最后，他们说 (i) 两个对象是复本，当且仅当它们共享相同的基本内在属性；(ii) $F$ 是内在属性，当且仅当两个复本就之从不相异。
   - id: 180
     kind: body
     source: |-
       The last step of their account is in a form that requires Lewis’s concretist theory of possible worlds. The last step in a form suitable for a typical abstractionist theory of possible worlds is instead:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其说明的最后一步采用了需要刘易斯可能世界具体主义理论的形式。适于典型抽象主义可能世界理论的最后一步则是：
+    step2: |-
+      其说明的最后一步采用了需要刘易斯可能世界具体主义理论的形式。适于典型抽象主义可能世界理论的最后一步则是：
   - id: 181
     kind: body
     source: |-
       1. $x$ at $u$ is a duplicate of $y$ at $v$ iff, for any basic intrinsic property $P, x$ has $P$ at $u$ iff $y$ has $P$ at $v$; and
       2. $F$ is intrinsic iff, for any $x$ and $y$, and for any possible worlds $u$ and $v$ such that $x$ at $u$ is a duplicate of $y$ at $v, x$ has $F$ at $u$ iff $y$ has $F$ at $v$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. $x$ 在 $u$ 是 $y$ 在 $v$ 的复本，当且仅当：对任意基本内在属性 $P, x$ 在 $u$ 具有 $P$，当且仅当 $y$ 在 $v$ 具有 $P$；且
+      2. $F$ 是内在的，当且仅当：对任意 $x$ 与 $y$，对任意可能世界 $u$ 与 $v$，若 $x$ 在 $u$ 是 $y$ 在 $v$ 上的复本，则其在 $u$ 具有 $F$，当且仅当 $y$ 在 $v$ 具有 $F$。
+    step2: |-
+      1. $x$ 在 $u$ 是 $y$ 在 $v$ 的复本，当且仅当：对任意基本内在属性 $P, x$ 在 $u$ 具有 $P$，当且仅当 $y$ 在 $v$ 具有 $P$；且
+      2. $F$ 是内在的，当且仅当：对任意 $x$ 与 $y$，对任意可能世界 $u$ 与 $v$，若 $x$ 在 $u$ 是 $y$ 在 $v$ 上的复本，则其在 $u$ 具有 $F$，当且仅当 $y$ 在 $v$ 具有 $F$。
   - id: 182
     kind: body
     source: |-
       Note that (ii) is just the abstractionist version of the duplication characterisation for intrinsicality given by (13) in section 2.4.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      注意，(ii) 正是第 2.4 节 (13) 所给的内在性复制刻画的抽象主义版本。
+    step2: |-
+      注意，(ii) 正是第 2.4 节 (13) 所给的内在性复制刻画的抽象主义版本。
   - id: 183
     kind: body
     source: |-
       Langton and Lewis claim their account works given a variety of ways of understanding ‘natural’ and ‘more natural than’ in their analysis of ‘non-disjunctive’. In particular, they hold that the account will work if ‘natural’ is understood to express the notion of perfect naturalness, or fundamentality, in the Lewis (1986a) account, and ‘more natural than’ is understood to mean ‘is more fundamental than’. They also claim that the account will work if the natural properties are those taken to correspond to Armstrongian universals, or the properties expressed by the predicates in canonical formulations of physics, or the properties expressed by the predicates in canonical formulations of common-sense. Langton and Lewis say that it should not matter how we draw the distinction between natural and non-natural properties for present purposes, as long as we have it, and properties like *being lonely and round or accompanied and cubical* are not natural. As a result of this, Langton and Lewis think that their account is more neutral than Lewis’s earlier account and should therefore should appeal to a larger range of philosophers than the earlier account.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Langton 与刘易斯声称，在其对"非析取的"的分析中，无论以何种方式理解"自然的"与"更自然的"，他们的说明都成立。特别是，他们主张：如果把"自然的"理解为表达刘易斯 1986a 说明中的完全自然性（或基础性）概念，且把"更自然的"理解为"比……更基本"，该说明就会成立。他们还主张：如果自然属性是那些被视为对应于阿姆斯特朗式共相的属性，或物理学标准表述中的谓词所表达的属性，或常识标准表述中的谓词所表达的属性，该说明也会成立。Langton 与刘易斯说，就当前目的而言，我们如何划出自然属性与非自然属性之分并不重要，只要我们划出了这一区分，而且像"孤立且圆形或有伴且立方"这样的属性不是自然的。因此，Langton 与刘易斯认为他们的说明比刘易斯早先的说明更中立，因而应当对更大范围的哲学家有吸引力。
+    step2: |-
+      Langton 与刘易斯声称，在其对"非析取的"的分析中，无论以何种方式理解"自然的"（natural）与"更自然的"（more natural than），他们的说明都成立。特别是，他们主张：如果把"自然的"理解为表达刘易斯 1986a 说明中的完全自然性（或基础性）概念，且把"更自然的"理解为"比……更基本"，该说明就会成立。他们还主张：如果自然属性是那些被视为对应于阿姆斯特朗式共相（Armstrongian universals）的属性，或物理学标准表述中的谓词所表达的属性，或常识标准表述中的谓词所表达的属性，该说明也会成立。Langton 与刘易斯说，就当前目的而言，我们如何划出自然属性与非自然属性之分并不重要，只要我们划出了这一区分，而且像"孤立且圆形或有伴且立方"这样的属性不是自然的。因此，Langton 与刘易斯认为他们的说明比刘易斯早先的说明更中立，因而应当对更大范围的哲学家有吸引力。
   - id: 184
     kind: body
     source: |-
       Langton and Lewis put forward their account as only an analysis of qualitative intrinsic properties, rather than intrinsic properties in general. Their account, however, arguably fails as an account of qualitative identity interior properties since, given numbers necessarily exist, it classifies being such that there is a number as intrinsic. Therefore, like the Lewis 1986a account, the Langton and Lewis account is arguably most charitably interpreted as an account of duplication preservation, or perhaps of qualitative metaphysical necessitation interiority.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Langton 与刘易斯提出其说明时，把它当作只是对质性内在属性的分析，而非对一般内在属性的分析。然而，作为对质性同一内部属性的分析，他们的说明可以说失败了，因为（在数必然存在的条件下）它把"有数存在"归为内在的。因此，与刘易斯 1986a 的说明一样，Langton 与刘易斯的说明最宽厚的解读，或许是把它当作复制保持的说明，或质性形而上学必然化内部性的说明。
+    step2: |-
+      Langton 与刘易斯提出其说明时，把它当作只是对质性内在属性的分析，而非对一般内在属性的分析。然而，作为对质性同一内部属性的分析，他们的说明可以说失败了，因为（在数必然存在的条件下）它把"有数存在"归为内在的。因此，与刘易斯 1986a 的说明一样，Langton 与刘易斯的说明最宽厚的解读，或许是把它当作复制保持的说明，或质性形而上学必然化内部性的说明。
   - id: 185
     kind: body
     source: |-
       In addition to failing to give an account of the standard account of intrinsicality, there are reasons to think that Langton and Lewis cannot be as neutral as they claim to be regarding what account of naturalness is combined with their account. As noted above, Langton and Lewis claim that their account of intrinsicality is compatible with any construal of naturalness on which the natural properties are those that play a special role in our thinking. On one such conception of naturalness, the natural properties include those properties for which we have simple words or concepts, which do not strike us as strange or odd, and on which we have relied in past inductions (Sider 2001: 362)[^sider-2001]. Given this conception of naturalness, the property of being a rock is a natural property, and hence is classified as intrinsic on the Langton and Lewis account. However, as Sider 2001 argues, being a rock is plausibly not an intrinsic property. Just as an object that is qualitatively intrinsically the same as a house and is a large part of a house is not itself a house, an object that is qualitatively intrinsically the same as a rock and is a large part of a rock is not itself a rock. Hence, whether something is a rock is partly a matter of what is the case outside of it. Hence, contra the combination of the Langton and Lewis account with the above conception of naturalness, being a rock is not intrinsic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除了未能给出标准内在性概念的说明之外，还有理由认为：就其说明与何种自然性说明相结合而言，Langton 与刘易斯并不能像他们声称的那样中立。如上所述，Langton 与刘易斯声称，他们的内在性说明与任何如下自然性解释都相容：自然属性是那些在我们的思维中起特殊作用的属性。在这样一种自然性构想下，自然属性包括那些我们有简单语词或概念、不让我们觉得奇怪诡异、且我们在过去归纳中依赖过的属性（Sider 2001: 362）[^sider-2001]。给定这一自然性构想，"是石头"是自然属性，因而在 Langton 与刘易斯的说明下被归为内在的。然而，正如 Sider 2001 所论证的，"是石头"可信地不是内在属性。正如一个对象，它与一座房子在质性上内在地相同、并且是房子的一个大大部分，它本身不是房子；一个对象，它与一块石头在质性上内在地相同、并且是石头的一个大部分，它本身也不是石头。于是，某物是否是石头，部分地关乎它之外的情况。因此，与 Langton 与刘易斯说明加上上述自然性构想的组合相反，"是石头"不是内在的。
+    step2: |-
+      除了未能给出标准内在性概念的说明之外，还有理由认为：就其说明与何种自然性说明相结合而言，Langton 与刘易斯并不能像他们声称的那样中立。如上所述，Langton 与刘易斯声称，他们的内在性说明与任何如下自然性解释都相容：自然属性是那些在我们的思维中起特殊作用的属性。在这样一种自然性构想下，自然属性包括那些我们有简单语词或概念、不让我们觉得奇怪诡异、且我们在过去归纳中依赖过的属性（Sider 2001: 362）[^sider-2001]。给定这一自然性构想，"是石头"是自然属性，因而在 Langton 与刘易斯的说明下被归为内在的。然而，正如 Sider 2001 所论证的，"是石头"可信地不是内在属性。正如一个对象，它与一座房子在质性上内在地相同、并且是房子的一个大大部分，它本身不是房子；一个对象，它与一块石头在质性上内在地相同、并且是石头的一个大部分，它本身也不是石头。于是，某物是否是石头，部分地关乎它之外的情况。因此，与 Langton 与刘易斯说明加上上述自然性构想的组合相反，"是石头"不是内在的。
   - id: 186
     kind: body
     source: |-
       Another objection to the Langton and Lewis account is that there appear to be counterexamples to the account, even given Lewis’s favoured conception of naturalness. On this conception, the perfectly natural properties and relations are the fundamental properties and relations, and a property $p$ is more natural than a property $q$ iff the shortest definition of $p$ in terms of the perfectly natural properties and relations is shorter than the shortest definition of $q$ in terms of the perfectly natural properties and relations. (See (Lewis 1986: 61).) As Marshall and Parsons 2001 argue, given this construal of naturalness, the property of being such that there is a cube appears to be neither a disjunctive property nor the negation of a disjunctive property according to Langton and Lewis’s account of disjunctivity. If this is the case, however, then, since being such that there is a cube is independent of accompaniment, the Langton and Lewis account classifies this property as a basic intrinsic property, and hence classifies it as an intrinsic property. This property, however, is clearly not intrinsic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对 Langton 与刘易斯说明的另一个反驳是：即使按刘易斯偏好的自然性构想，也似乎存在该说明的反例。在这一构想下，完全自然的属性与关系是基本的属性与关系，且属性 $p$ 比属性 $q$ 更自然，当且仅当 $p$ 依据完全自然属性与关系的最短定义，短于 $q$ 依据完全自然属性与关系的最短定义。（见 Lewis 1986: 61。）正如 Marshall 与 Parsons 2001 所论证的，给定这一自然性解释，"存在一个立方体"这一属性，按 Langton 与刘易斯的析取性说明，似乎既不是析取属性，也不是析取属性的否定。然而如果情况如此，那么既然"存在一个立方体"独立于有伴，Langton 与刘易斯的说明就会把这一属性归为基本内在属性，从而归为内在属性。然而这一属性显然不是内在的。
+    step2: |-
+      对 Langton 与刘易斯说明的另一个反驳是：即使按刘易斯偏好的自然性构想，也似乎存在该说明的反例。在这一构想下，完全自然的属性与关系是基本的属性与关系，且属性 $p$ 比属性 $q$ 更自然，当且仅当 $p$ 依据完全自然属性与关系的最短定义，短于 $q$ 依据完全自然属性与关系的最短定义。（见 Lewis 1986: 61。）正如 Marshall 与 Parsons 2001 所论证的，给定这一自然性解释，"存在一个立方体"这一属性，按 Langton 与刘易斯的析取性说明，似乎既不是析取属性，也不是析取属性的否定。然而如果情况如此，那么既然"存在一个立方体"独立于有伴，Langton 与刘易斯的说明就会把这一属性归为基本内在属性，从而归为内在属性。然而这一属性显然不是内在的。
   - id: 187
     kind: body
     source: |-
       Langton and Lewis 2001 have responded to this objection by claiming that being such that there is a cube is less natural than both being a cube and being accompanied by a cube, since (I) being such that there is a cube can be expressed as the disjunction ‘being either a cube or accompanied by a cube’, (II) disjoining unrelated properties always reduces naturalness, and (III) being a cube and being accompanied by a cube are unrelated properties. One problem with this response is that it is not obvious why (II) is meant to be true given Lewis’s favoured conception of naturalness above, or what other notion of naturalness it might be true of. A second problem with the response is that, even granting (II) is true, it is not clear what it is for two properties to be unrelated in the sense that is at issue in (II), and hence it is not clear why being a cube and being accompanied by a cube are meant to be unrelated. For further discussion of attempts to analyse intrinsicality in terms of non-disjunctivity, see the supplementary document:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Langton 与刘易斯 2001 对这一反驳的回应是主张："存在一个立方体"不如"是立方体"与"有立方体相伴"自然，理由是 (I) "存在一个立方体"可以表达为析取式"是立方体或有立方体相伴"，(II) 析取不相关的属性总是降低自然性，(III) "是立方体"与"有立方体相伴"是不相关的属性。这一回应的一个问题是：给定上文刘易斯偏好的自然性构想，为什么 (II) 应当为真并不明显，或者它对哪种其他自然性概念为真也不清楚。第二个问题是：即便承认 (II) 为真，两个属性在 (II) 所涉意义上"不相关"是什么意思也不清楚，因此"是立方体"与"有立方体相伴"为何应当不相关也不清楚。关于以非析取性分析内在性的尝试的进一步讨论，见补充文档：
+    step2: |-
+      Langton 与刘易斯 2001 对这一反驳的回应是主张："存在一个立方体"不如"是立方体"与"有立方体相伴"自然，理由是 (I) "存在一个立方体"可以表达为析取式"是立方体或有立方体相伴"，(II) 析取不相关的属性总是降低自然性，(III) "是立方体"与"有立方体相伴"是不相关的属性。这一回应的一个问题是：给定上文刘易斯偏好的自然性构想，为什么 (II) 应当为真并不明显，或者它对哪种其他自然性概念为真也不清楚。第二个问题是：即便承认 (II) 为真，两个属性在 (II) 所涉意义上"不相关"是什么意思也不清楚，因此"是立方体"与"有立方体相伴"为何应当不相关也不清楚。关于以非析取性分析内在性的尝试的进一步讨论，见补充文档：
   - id: 188
     kind: body
     source: |-
       [More on Non-Disjunctive Theories](intrinsic-extrinsic.non-disjunctive.md).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [非析取理论补论](intrinsic-extrinsic.non-disjunctive.md)。
+    step2: |-
+      [非析取理论补论](intrinsic-extrinsic.non-disjunctive.md)。
   - id: 189
     kind: body
     source: |-
       ### 3.4 Contractionist Theories
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.4. 收缩论理论
+    step2: |-
+      ### 3.4. 收缩论理论
   - id: 190
     kind: body
     source: |-
       One attractive idea is that a thing’s intrinsic properties are those properties it would have if it were alone in the world. An elegant theory of intrinsicality that develops this idea is that of Peter Vallentyne (1997).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个有吸引力的想法是：一个事物的内在属性，就是它若独处于世界中将会具有的那些属性。发展这一想法的一个精巧的内在性理论，是 Peter Vallentyne 1997 的理论。
+    step2: |-
+      一个有吸引力的想法是：一个事物的内在属性，就是它若独处于世界中将会具有的那些属性。发展这一想法的一个精巧的内在性理论，是 Peter Vallentyne 1997 的理论。
   - id: 191
     kind: body
     source: |-
       Vallentyne defines a *contraction* of a world as “a world ‘obtainable’ from the original one solely by ‘removing’ objects from it.” (211) As a special case of this, an $x-t$ contraction, where $x$ is an object and $t$ a time, is “a world ‘obtainable’ from the original one by, to the greatest extent possible, ‘removing’ all objects wholly distinct from $x$, all spatial locations not occupied by $x$, and all times (temporal states of the world) except $t$, from the world”, as well as all laws of nature from the world. (211) Vallentyne claims that $F$ is intrinsic iff, for any thing $x$, for any time $t$, and for any worlds $u$ and $w$ such that $u$ is an $x-t$ contraction of $w, x$ has $F$ at $t$ at $u$ iff $x$ has $F$ at $t$ at $w$. In short, a property is intrinsic to an object iff removing the rest of the world doesn’t change whether the object has the property. Vallentyne’s account classifies identity properties, like being Obama, as intrinsic. It is therefore best seen as an account of interiority. The account also classifies all indiscriminately necessary properties as intrinsic. It is therefore arguably most charitably interpreted as an account of metaphysical necessitation interiority
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Vallentyne 把一个世界的**收缩**定义为"仅凭从原世界中移除对象而得到的世界"。(211) 作为其特例，$x-t$ 收缩（其中 $x$ 是一个对象，$t$ 是一个时间）是"在最大可能程度上，通过从世界中移除所有完全相异于 $x$ 的对象、所有未被 $x$ 占据的空间位置、以及除 $t$ 外的所有时间（世界的时间状态）而从原世界得到的世界"，外加移除世界中所有自然律。(211) Vallentyne 主张：$F$ 是内在的，当且仅当对任意东西 $x$、任意时间 $t$，以及任意世界 $u$ 与 $w$，若 $u$ 是 $w$ 的 $x-t$ 收缩，则 $x$ 在 $t$ 于 $u$ 具有 $F$，当且仅当其在 $t$ 于 $w$ 具有 $F$。简言之，一个属性对一个对象是内在的，当且仅当移除世界其余部分不会改变该对象是否具有该属性。Vallentyne 的说明把同一属性（如"是奥巴马"）归为内在的，因此最好被看作内部性的说明。该说明还把所有无差别必然属性归为内在的，因此最宽厚的解读或许是把它当作形而上学必然化内部性的说明
+    step2: |-
+      Vallentyne 把一个世界的**收缩**（contraction）定义为"仅凭从原世界中移除对象而得到的世界"。(211) 作为其特例，$x-t$ 收缩（其中 $x$ 是一个对象，$t$ 是一个时间）是"在最大可能程度上，通过从世界中移除所有完全相异于 $x$ 的对象、所有未被 $x$ 占据的空间位置、以及除 $t$ 外的所有时间（世界的时间状态）而从原世界得到的世界"，外加移除世界中所有自然律。(211) Vallentyne 主张：$F$ 是内在的，当且仅当对任意东西 $x$、任意时间 $t$，以及任意世界 $u$ 与 $w$，若 $u$ 是 $w$ 的 $x-t$ 收缩，则 $x$ 在 $t$ 于 $u$ 具有 $F$，当且仅当其在 $t$ 于 $w$ 具有 $F$。简言之，一个属性对一个对象是内在的，当且仅当移除世界其余部分不会改变该对象是否具有该属性。Vallentyne 的说明把同一属性（如"是奥巴马"）归为内在的，因此最好被看作内部性的说明。该说明还把所有无差别必然属性归为内在的，因此最宽厚的解读或许是把它当作形而上学必然化内部性的说明
   - id: 192
     kind: body
     source: |-
       As Vallentyne notes, this definition will not be very enlightening unless we understand the idea of a contraction. This seems related to the objection Langton and Lewis (1998) urge against Vallentyne. They say that Vallentyne’s account reduces to the claim that a property is intrinsic iff possession of it never differs between an object and its lonely duplicates, a claim they think is true but too trivial to count as an analysis. Their position is that we cannot understand contractions without understanding duplication, but if we understand duplication then intrinsicality can be easily defined, so Vallentyne’s theory is no advance.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如 Vallentyne 所指出的，除非我们理解收缩这一观念，这一定义不会有太多启发。这似乎与 Langton 与刘易斯 1998 对 Vallentyne 提出的反驳有关。他们说，Vallentyne 的说明可以还原为这一主张：一个属性是内在的，当且仅当它在对象与其孤立复本之间的占有从不相异——他们认为这一主张是真的，但过于平凡，不足以算作分析。他们的立场是：不理解复制就无法理解收缩，但如果我们理解了复制，内在性就能被轻易定义，所以 Vallentyne 的理论没有进展。
+    step2: |-
+      正如 Vallentyne 所指出的，除非我们理解收缩这一观念，这一定义不会有太多启发。这似乎与 Langton 与刘易斯 1998 对 Vallentyne 提出的反驳有关。他们说，Vallentyne 的说明可以还原为这一主张：一个属性是内在的，当且仅当它在对象与其孤立复本之间的占有从不相异——他们认为这一主张是真的，但过于平凡，不足以算作分析。他们的立场是：不理解复制就无法理解收缩，但如果我们理解了复制，内在性就能被轻易定义，所以 Vallentyne 的理论没有进展。
   - id: 193
     kind: body
     source: |-
       This criticism might be too quick. Stephen Yablo (1999) has argued that Vallentyne should best be understood as working within a very different metaphysical framework than Lewis. For Lewis, no (ordinary) object exists at more than one world, so Vallentyne’s contractions, being separate worlds, must contain separate objects. Hence $x-t$ contractions can be nothing other than lonely duplicates, and the theory is trivial. Yablo suggests that the theory becomes substantive relative to a metaphysical background in which the very same object can appear in different worlds. If this is the case then we can get a grip on contractions without thinking about duplications — the $x-t$ contraction of a world is the world that contains $x$ itself, and as few other things as possible.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一批评可能过快了。斯蒂芬·雅布洛 1999 论证说，对 Vallentyne 的最好理解是：他在一个与刘易斯非常不同的形而上学框架内工作。对刘易斯而言，没有（日常）对象存在于多于一个世界，因此 Vallentyne 的收缩作为单独的世界，必须包含单独的对象。于是 $x-t$ 收缩只能是孤立复本，理论是平凡的。雅布洛建议：相对于"同一个对象可以出现于不同世界"这一形而上学背景，该理论变得实质。如果情况如此，那么我们无需考虑复制就能把握收缩——一个世界的 $x-t$ 收缩就是包含 $x$ 自身、且包含尽可能少其他东西的世界。
+    step2: |-
+      这一批评可能过快了。斯蒂芬·雅布洛（Yablo 1999）论证说，对 Vallentyne 的最好理解是：他在一个与刘易斯非常不同的形而上学框架内工作。对刘易斯而言，没有（日常）对象存在于多于一个世界，因此 Vallentyne 的收缩作为单独的世界，必须包含单独的对象。于是 $x-t$ 收缩只能是孤立复本，理论是平凡的。雅布洛建议：相对于"同一个对象可以出现于不同世界"这一形而上学背景，该理论变得实质。如果情况如此，那么我们无需考虑复制就能把握收缩——一个世界的 $x-t$ 收缩就是包含 $x$ 自身、且包含尽可能少其他东西的世界。
   - id: 194
     kind: body
     source: |-
       There are, however, problems with Yablo’s defense of Vallentyne’s contractionist approach to intrinsicality. One problem, discussed in Parsons 2007 and Marshall 2014, is that, on Yablo’s version of contractionism, we need to be able to make sense of sentences like ‘In $w$, Prince Philip is not a husband’, where $w$ is the world consisting of just Prince Philip. Making sense of such sentences, however, is difficult without appealing to the distinction between intrinsic and non-intrinsic properties. Appealing to this distinction when interpreting Yablo’s account, however, would render it circular.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，雅布洛对 Vallentyne 收缩论路径的辩护存在问题。其中一个问题（Parsons 2007 与 Marshall 2014 有所讨论）是：在雅布洛版本的收缩论下，我们需要能够理解诸如"在 $w$ 中，菲利普亲王不是丈夫"这样的语句，其中 $w$ 是仅由菲利普亲王组成的世界。然而，不诉诸内在属性与非内在属性之分，就很难理解这样的语句。而在解读雅布洛的说明时诉诸这一区分，又会使其循环。
+    step2: |-
+      然而，雅布洛对 Vallentyne 收缩论路径的辩护存在问题。其中一个问题（Parsons 2007 与 Marshall 2014 有所讨论）是：在雅布洛版本的收缩论下，我们需要能够理解诸如"在 $w$ 中，菲利普亲王不是丈夫"这样的语句，其中 $w$ 是仅由菲利普亲王组成的世界。然而，不诉诸内在属性与非内在属性之分，就很难理解这样的语句。而在解读雅布洛的说明时诉诸这一区分，又会使其循环。
   - id: 195
     kind: body
     source: |-
