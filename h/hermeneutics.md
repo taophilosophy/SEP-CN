@@ -1,1 +1,1 @@
-# 解释学 Hermeneutics (Theodore George)
+# 诠释学 Hermeneutics (Theodore George)

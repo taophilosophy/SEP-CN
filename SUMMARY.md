@@ -1155,7 +1155,7 @@
 * [约翰·戈特弗里德·冯·赫尔德 Johann Gottfried von Herder (Michael Forster)](h/herder.md)
 * [遗传力 Heritability (Stephen M. Downes、Lucas Matthews)](h/heritability.md)
   * [\*遗传系统——见遗传系统 inheritance systems — see inheritance systems](i/inheritance-systems.md)
-* [解释学 Hermeneutics (Theodore George)](h/hermeneutics.md)
+* [诠释学 Hermeneutics (Theodore George)](h/hermeneutics.md)
 * [威廉·海特斯伯里 William Heytesbury (Miroslav Hanke、Elzbieta Jung)](h/heytesbury.md)
 * [神的隐藏性 Hiddenness of God (Daniel Howard-Snyder、Adam Green)](d/divine-hiddenness.md)
 * [\*大卫·希尔伯特 Hilbert, David](README.md)

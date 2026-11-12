@@ -771,7 +771,7 @@ outline: [1, 6]
 
 * [威廉·狄尔泰 Wilhelm Dilthey (Rudolf Makkreel)](d/dilthey.md)
 * [存在主义 Existentialism (Kevin Aho)](e/existentialism.md)
-* [解释学 Hermeneutics (Theodore George)](h/hermeneutics.md)
+* [诠释学 Hermeneutics (Theodore George)](h/hermeneutics.md)
 * [亨利·柏格森 Henri Bergson (Leonard Lawlor、Valentine Moulard-Leonard)](b/bergson.md)
 * [玛格丽特·苏斯曼 Margarete Susman (Willi Goetschel)](s/susman-margarete.md)
 * [何塞·奥尔特加·伊·加塞特 José Ortega y Gasset (Oliver Holmes)](g/gasset.md)
