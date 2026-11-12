@@ -2,7 +2,7 @@
   "slug": "chinese-phil-science",
   "kind": "retranslate",
   "zh_doc": "c/chinese-phil-science.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -30,7 +30,7 @@
       "status": "ok",
       "actor": "C-main-20261107",
       "at": "2026-11-07T13:43:20Z",
-      "evidence": "prose 20→2（script/c_prose_cps.py 18 条幂等 SUBS 全命中 + 后续 3 条手工再修）：拆长句 6（含 107 字卜德段、99 字荀孟段）、消弱动词 4（予以考虑/作出解读/作出评估/加以历史化）、去「作为一个」2、exists-there 1、de-chain 5；豁免 2 留痕＝行 54（李约瑟语录内部并列『巫术的、科学的、民主的、政治革命的』，忠实引文不拆）、行 88（『军事的、术数的与医学的知识』概念列举必要属格）；另清理中文间多余空格 4 处（账本同步）；check_style --strict 0 issue、check_academic --strict 无硬错误、check_math 无 unbalanced"
+      "evidence": "prose 20→2（script/c_prose_cps.py 18 条幂等 SUBS 全命中 + 后续 3 条手工再修）：拆长句 6（含 107 字卜德段、99 字荀孟段）、消弱动词 4（予以考虑/作出解读/作出评估/加以历史化）、去「作为一个」2、exists-there 1、de-chain 5；豁免 2 留痕＝行 54（李约瑟语录内部并列『巫术的、科学的、民主的、政治革命的』，忠实引文不拆）、行 88（『军事的、术数的与医学的知识』概念列举必要属格）；另清理中文间多余空格 4 处（账本同步）；check_style --strict 0 issue、check_academic --strict 无硬错误、check_math 无 unbalanced；语体（2026-11-13 r1 补录，ADR-0033 生效前原 s2 未留语体痕）：现代汉语学术书面语，全文回读无文言与半文白残留；破折号 38 处均为插入与同位用法，无滥用；宫鹏信、《大学》、邹衍传、《淮南子》测影等引文与典籍引语按 rules/02 豁免保持原文语体"
     },
     {
       "step": "s3",
@@ -38,6 +38,34 @@
       "actor": "C-main-20261107",
       "at": "2026-11-07T13:44:56Z",
       "evidence": "三校收口：人名 30 行（冯友兰/李约瑟/席文/卜德/叶山/古克礼/班大伟/鲁惟一/普鸣/夏德安/马克/戴梅可/费侠莉/文树德/罗维前/森舸澜/瑞丽/马绛/宫鹏/邹衍/刘向/任宏/尹咸/李柱国/宋钘/田骈/慎到/彭蒙/齐思敏/劳埃德）＋术语 18 行（五行/阴阳/养生/方士/数术/方技/道藏/关联性宇宙论/艺文志/李约瑟问题/诸子文本/通才/文本谱系/有机论思维/六艺六经/月令/宿/黄帝内经）；Mencius/Xunzi/Zhuangzi/Han Feizi 已在术语册（ADR-0011 种子）不重复登记；check_terms 硬错误 0；check_all 七项全绿"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "C-main-20261113",
+      "at": "2026-11-12T20:06:21Z",
+      "evidence": "r1 全文回读（247 行全文＋源句回核）：①行 88 叙述性属格列举按 ADR-0020 复判实修（s2 曾豁免的『军事的、术数的与医学的知识』改『军事、术数与医学方面的知识』，尾句『技术性的、格局有限的』改『技术性而格局有限』）；②行 146 正文交叉引用按 SUMMARY 主行统一为『中国哲学与中医』（源文自书 Chinese Medicine and Chinese Philosophy 系上游旧题残留；相关词条行本已按 SUMMARY 定名，二者原不一致）；③回源核验 4 处存疑均系源文自身瑕疵照录：defs chemla-2004 含 Dunod.Csikszentmihalyi 粘连条目、fung-1922 破斜体 I*nternational、《艺文志》『形法（*xing fa* 刑法）』之刑法字、汉武帝『前 141–前 29 年在位』（源 r. 141–29 BCE；史实为前 87，照源不修）；④年份序列差系语序调整致多重集等（1922×5、1895、1990 两侧各等）；⑤登记册补 2 行：Han Chengdi 汉成帝、Qin Shi Huang 秦始皇（上游自带汉字/通行史称，同汉武帝先例）；语体：现代汉语学术书面语，通读无文言与半文白残留；破折号 38 处均为插入与同位用法，无滥用；引文与典籍引语按 rules/02 豁免"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "C-main-20261113",
+      "at": "2026-11-12T20:11:27Z",
+      "evidence": "r2 prose 复跑：2→1，余 1 条＝行 54 李约瑟语录内部并列『巫术的、科学的、民主的、政治革命的』，直引豁免留痕（s2 既录）；r1 实修行 88 已消 de-chain。人名补课核验：叙述处汉名 32 用（30 既有行＋r1 补 Han Chengdi/Qin Shi Huang 2 行）＋全目录共用行（孔子/孟子/荀子/庄子/韩非子/司马迁/班固/汉武帝）全覆盖；引文括注内仅拉丁形的人名（Graham/Lewis/Sato/Machle/Chemla/Ngo/Rickett/Veith/Graziani/Smith/Li Ling）无汉名使用不登记，与『叙述处用汉名者必登』口径一致；check_terms 硬错误 0、冲突 0、自洽 0"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "C-main-20261113",
+      "at": "2026-11-12T20:13:53Z",
+      "evidence": "r3 结构对账：marker 66:66 序列一致、defs 键多重集全等（70:70，撇号归一化）、H2 12:12 全对译（源 References 后置 defs 的结构差为 recon dst=9 计数假象，实核 12）、H3 0:0、粗体 2:2、段落块 83:77 系尾节拼装形态差（源 defs 在文末）；check_style --strict 0、check_academic --strict 无硬错误、check_math 无缺失无失衡、check_prose 余 1（行 54 直引豁免）、check_all 9 项全绿；SUMMARY 定名『中国哲学与科学 Science and Chinese Philosophy (Lisa Raphals)』与 H1 一致"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "C-main-20261113",
+      "at": "2026-11-12T20:13:53Z",
+      "evidence": "done 收口：r1 实修 2 处（行 88 属格列举、行 146 相关词条定名）、登记册补 2 行、四检全绿、对账全等；C 批 s3_checked 存量 -1"
     }
   ],
   "blockers": [],
