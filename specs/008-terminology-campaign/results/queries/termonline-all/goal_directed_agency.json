@@ -2,10 +2,347 @@
  "key": "goal-directed agency",
  "term": "goal-directed agency",
  "provider": "termonline-all",
- "queried_at": "2026-11-12T06:08:49+00:00",
- "status": "error",
- "note": "variant=goal-directed agency; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "goal-directed agency: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T06:52:11+00:00",
+ "status": "ok",
+ "note": "variant=goal-directed agency; 审定公布名词库=3483; 海峡两岸名词对照库=851; 其他来源数据库=176; 预公布名词数据库=164; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "目的指向性思维",
+   "en": "goal-directed thinking",
+   "code": "02.659",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "目标指向学习",
+   "en": "goal-directed learning",
+   "code": "09.057",
+   "standard": "心理学名词",
+   "subject": "心理学_教育心理学"
+  },
+  {
+   "cn": "目标指向编程",
+   "en": "goal directed programming",
+   "code": "19.054",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天机器人"
+  },
+  {
+   "cn": "早期目标导向性治疗",
+   "en": "early goal-directed therapy",
+   "code": "06.093",
+   "standard": "普通外科学名词",
+   "subject": "医学_普通外科学_休克"
+  },
+  {
+   "cn": "目标导向性液体治疗",
+   "en": "goal-directed fluid therapy",
+   "code": "06.095",
+   "standard": "普通外科学名词",
+   "subject": "医学_普通外科学_休克"
+  },
+  {
+   "cn": "目标导向液体治疗",
+   "en": "goal-directed fluid therapy",
+   "code": "03.708",
+   "standard": "麻醉学名词",
+   "subject": "麻醉学_麻醉与围手术期管理_容量管理与治疗"
+  },
+  {
+   "cn": "能动性",
+   "en": "agency",
+   "code": "03.527",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学"
+  },
+  {
+   "cn": "代理",
+   "en": "agency",
+   "code": "05.03.046",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_发行与经营_发行交易"
+  },
+  {
+   "cn": "代理",
+   "en": "agency",
+   "code": "09.0568",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_项目管理与工程管理_采购与合同管理"
+  },
+  {
+   "cn": "代办站",
+   "en": "agency",
+   "code": "06.127",
+   "standard": "公路交通科技名词",
+   "subject": "公路交通科学技术_汽车运输"
+  },
+  {
+   "cn": "目标",
+   "en": "goal",
+   "code": "01.0059",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_基本概念"
+  },
+  {
+   "cn": "目标值",
+   "en": "goal",
+   "code": "21.028",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_可靠性"
+  },
+  {
+   "cn": "目标指向学习",
+   "en": "goal directed learning",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "目标指向思维,目的指向思维",
+   "en": "goal directed thinking",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "目标导向行为",
+   "en": "goal directed behavior",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "目标导向取向",
+   "en": "goal directed approach",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "目标导向推理",
+   "en": "goal-directed reasoning",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "目标引导行为",
+   "en": "goal-directed behavior",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "报关代理行",
+   "en": "customs agency",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "代理背书",
+   "en": "agency endorsement",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "代理期票",
+   "en": "agency bill",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "代理手续费，佣金",
+   "en": "agency commission",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "托收代理行",
+   "en": "collection agency",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "中间代理商",
+   "en": "intermediary agency",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "球门",
+   "en": "goal",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "进球得分",
+   "en": "goal",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "球门",
+   "en": "goal",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_手球名词"
+  },
+  {
+   "cn": "进球得分",
+   "en": "goal",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_手球名词"
+  },
+  {
+   "cn": "球门",
+   "en": "goal",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_水球名词"
+  },
+  {
+   "cn": "进球得分",
+   "en": "goal",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_水球名词"
+  },
+  {
+   "cn": "球门",
+   "en": "goal",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "进球得分",
+   "en": "goal",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "球门",
+   "en": "goal",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "道德责任",
+   "en": "Moral agency",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "进球得分",
+   "en": "goal\",\"marker",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "进球",
+   "en": "basket\",\"goal",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_篮球名词"
+  },
+  {
+   "cn": "志愿团体",
+   "en": "voluntary agency",
+   "code": "2.5.2.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_群体和组织_组织化群体"
+  },
+  {
+   "cn": "机构督导",
+   "en": "agency supervisor",
+   "code": "4.4.11.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作实习"
+  },
+  {
+   "cn": "医学目的",
+   "en": "medical goals",
+   "code": "1.177",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科"
+  },
+  {
+   "cn": "住宿式服务机构",
+   "en": "residential care agency，accommodation-service agency",
+   "code": "4.4.3.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施"
+  },
+  {
+   "cn": "社会服务机构",
+   "en": "social service agency",
+   "code": "4.4.3.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施"
+  },
+  {
+   "cn": "法定服务机构",
+   "en": "statutory service agency",
+   "code": "4.4.3.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施"
+  },
+  {
+   "cn": "自愿服务机构",
+   "en": "voluntary service agency",
+   "code": "4.4.3.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施"
+  },
+  {
+   "cn": "私人服务机构",
+   "en": "private service agency",
+   "code": "4.4.3.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施"
+  },
+  {
+   "cn": "社区服务机构",
+   "en": "community service agency",
+   "code": "4.4.3.12",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施"
+  },
+  {
+   "cn": "医生代理理论",
+   "en": "physician agency theory",
+   "code": "14.1.1.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_医生与医院行为_医生行为"
+  },
+  {
+   "cn": "食品检验机构",
+   "en": "food testing agency",
+   "code": "4.2.30",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品安全风险管理_食品安全法规"
+  },
+  {
+   "cn": "管理目标值",
+   "en": "management goal limit",
+   "code": "6.1.3.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_辐射危险控制"
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -6,9 +6,9 @@
   "youdao-aux"
  ],
  "counts": {
-  "查无": 4203,
+  "查无": 4202,
   "不一致": 731,
-  "一致": 1067,
+  "一致": 1068,
   "未查证": 4007
  },
  "results": [
@@ -4603,10 +4603,59 @@
    "table": "术语",
    "line": 220,
    "term": "amniocentesis",
-   "trans": "羊膜穿刺术",
-   "basis": "医学遗传学通行译名；凭证 2026-11-11（主会话直译 g/genetics）",
-   "status": "查无",
-   "hits": [],
+   "trans": "羊膜腔穿刺术（亦作“羊膜穿刺术”）",
+   "basis": "审定·医学名词四库一致作“羊膜腔穿刺术”（另有“羊膜［腔］穿刺术”方括号记法）；旧形“羊膜穿刺术”降亦作；凭证 2026-11-12",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "羊膜腔穿刺术",
+     "en": "amniocentesis",
+     "source": "妇产科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "羊膜腔穿刺术",
+     "en": "amniocentesis",
+     "source": "兽医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "羊膜腔穿刺术",
+     "en": "amniocentesis",
+     "source": "生殖医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "羊膜腔穿刺术",
+     "en": "amniocentesis",
+     "source": "医学名词 第三分册"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "羊膜穿刺",
+     "en": "amniocentesis",
+     "source": "海峡两岸解剖与组织胚胎学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "羊膜［腔］穿刺术",
+     "en": "amniocentesis",
+     "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "羊膜穿刺[术]",
+     "en": "amniocentesis",
+     "source": "海峡两岸遗传学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "羊膜腔穿刺术",
+     "en": "amniocentesis",
+     "source": "妇幼卫生学名词"
+    }
+   ],
    "providers": [
     "termonline-all"
    ]
@@ -20847,6 +20896,12 @@
      "cn": "稠度",
      "en": "consistency",
      "source": "土木工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "一致性",
+     "en": "consistency",
+     "source": "电气工程名词"
     },
     {
      "provider": "termonline-all",
@@ -78781,6 +78836,12 @@
      "cn": "稠度",
      "en": "consistency",
      "source": "土木工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "一致性",
+     "en": "consistency",
+     "source": "电气工程名词"
     },
     {
      "provider": "termonline-all",
