@@ -1,1 +1,1 @@
-# 适合度 Fitness (Alexander Rosenberg and Frederic Bouchard)
+# 适合度 Fitness (Alexander Rosenberg、Frederic Bouchard)

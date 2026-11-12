@@ -1,1 +1,1 @@
-# 对话逻辑 Dialogical Logic (Nicolas Clerbout and Zoe McConaughey)
+# 对话逻辑 Dialogical Logic (Nicolas Clerbout、Zoe McConaughey)

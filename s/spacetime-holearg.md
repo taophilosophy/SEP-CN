@@ -1,4 +1,4 @@
-# 空穴论证 The Hole Argument (John D. Norton, Oliver Pooley, and James Read)
+# 空穴论证 The Hole Argument (John D. Norton、Oliver Pooley、James Read)
 
 **首次发表于 1999 年 2 月 1 日；2023 年 6 月 6 日实质修订。**
 

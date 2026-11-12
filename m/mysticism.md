@@ -1,1 +1,1 @@
-# 神秘主义 Mysticism (Richard Jones and Jerome Gellman)
+# 神秘主义 Mysticism (Richard Jones、Jerome Gellman)

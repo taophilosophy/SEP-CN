@@ -1,1 +1,1 @@
-# 分析 Analysis (Michael Beaney and Thomas Raysmith)
+# 分析 Analysis (Michael Beaney、Thomas Raysmith)

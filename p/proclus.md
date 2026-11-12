@@ -1,1 +1,1 @@
-# 普罗克洛斯 Proclus (Christoph Helmig and Carlos Steel)
+# 普罗克洛斯 Proclus (Christoph Helmig、Carlos Steel)

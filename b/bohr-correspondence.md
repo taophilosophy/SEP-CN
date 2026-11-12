@@ -1,4 +1,4 @@
-# 玻尔的对应原理 Bohr’s Correspondence Principle (Alisa Bokulich and Peter Bokulich)
+# 玻尔的对应原理 Bohr’s Correspondence Principle (Alisa Bokulich、Peter Bokulich)
 
 *首次发表于 2010 年 10 月 14 日；2020 年 8 月 13 日实质修订。*
 

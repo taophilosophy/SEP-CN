@@ -1,4 +1,4 @@
-# 义务伦理学 Deontological Ethics (Larry Alexander and Michael Moore)
+# 义务伦理学 Deontological Ethics (Larry Alexander、Michael Moore)
 
 **首次发表于 2007 年 11 月 21 日；2024 年 12 月 11 日实质修订。**
 

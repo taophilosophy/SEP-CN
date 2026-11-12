@@ -1,1 +1,1 @@
-# 科学方法 Scientific Method (Brian Hepburn and Hanne Andersen)
+# 科学方法 Scientific Method (Brian Hepburn、Hanne Andersen)

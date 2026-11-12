@@ -1,1 +1,1 @@
-# 知觉学习 Perceptual Learning (Kevin Connolly and Adrienne Prettyman)
+# 知觉学习 Perceptual Learning (Kevin Connolly、Adrienne Prettyman)

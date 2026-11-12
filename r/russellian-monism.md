@@ -1,1 +1,1 @@
-# 罗素一元论 Russellian Monism (Torin Alter and Derk Pereboom)
+# 罗素一元论 Russellian Monism (Torin Alter、Derk Pereboom)

@@ -1,1 +1,1 @@
-# 未来偶然性 Future Contingents (Peter Øhrstrøm and Per Hasle)
+# 未来偶然性 Future Contingents (Peter Øhrstrøm、Per Hasle)

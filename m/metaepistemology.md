@@ -1,1 +1,1 @@
-# 元认识论 Metaepistemology (J. Adam Carter and Ernest Sosa)
+# 元认识论 Metaepistemology (J. Adam Carter、Ernest Sosa)

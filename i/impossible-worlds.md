@@ -1,4 +1,4 @@
-# 不可能世界 Impossible Worlds (Francesco Berto and Mark Jago)
+# 不可能世界 Impossible Worlds (Francesco Berto、Mark Jago)
 
 *首次发表于 2009 年 9 月 17 日；2023 年 4 月 27 日实质修订。*
 

@@ -1,4 +1,4 @@
-# 色诺克拉底 Xenocrates (Giulia De Cesaris and Russell Dancy)
+# 色诺克拉底 Xenocrates (Giulia De Cesaris、Russell Dancy)
 
 *首次发表于 2003 年 7 月 25 日；2025 年 9 月 3 日实质修订。*
 

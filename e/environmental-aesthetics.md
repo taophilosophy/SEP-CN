@@ -1,4 +1,4 @@
-# 环境美学 Environmental Aesthetics (Glenn Parsons and Allen Carlson)
+# 环境美学 Environmental Aesthetics (Glenn Parsons、Allen Carlson)
 
 *首次发表于 2024 年 8 月 16 日。*
 

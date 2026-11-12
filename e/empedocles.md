@@ -1,1 +1,1 @@
-# 恩培多克勒 Empedocles (K. Scarlett Kingsley and Richard Parry)
+# 恩培多克勒 Empedocles (K. Scarlett Kingsley、Richard Parry)

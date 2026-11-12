@@ -1,4 +1,4 @@
-# 进化认识论 Evolutionary Epistemology (Michael Bradie and William Harms)
+# 进化认识论 Evolutionary Epistemology (Michael Bradie、William Harms)
 
 *首次发表于 2001 年 1 月 11 日；2020 年 1 月 21 日实质修订。*
 

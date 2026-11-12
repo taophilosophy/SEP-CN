@@ -1,4 +1,4 @@
-# 知识的价值 The Value of Knowledge (Duncan Pritchard, John Turri, and J. Adam Carter)
+# 知识的价值 The Value of Knowledge (Duncan Pritchard、John Turri、J. Adam Carter)
 
 *首次发表于 2007 年 8 月 21 日；2026 年 10 月 1 日实质修订。*
 

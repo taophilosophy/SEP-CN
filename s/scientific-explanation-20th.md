@@ -1,4 +1,4 @@
-# 20 世纪的科学解释理论 20th Century Theories of Scientific Explanation (James Woodward and Lauren Ross)
+# 20 世纪的科学解释理论 20th Century Theories of Scientific Explanation (James Woodward、Lauren Ross)
 
 *首次发表于 2025 年 12 月 12 日。*
 

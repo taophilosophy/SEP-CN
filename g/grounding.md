@@ -1,1 +1,1 @@
-# 形而上学奠基 Metaphysical Grounding (Ricki Bliss and Kelly Trogdon)
+# 形而上学奠基 Metaphysical Grounding (Ricki Bliss、Kelly Trogdon)

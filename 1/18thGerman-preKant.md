@@ -1,4 +1,4 @@
-# 康德之前的 18 世纪德国哲学 18th Century German Philosophy Prior to Kant (Corey Dyck and Brigitte Sassen)
+# 康德之前的 18 世纪德国哲学 18th Century German Philosophy Prior to Kant (Corey Dyck、Brigitte Sassen)
 
 *首次发表于 2002 年 3 月 10 日；2026 年 7 月 1 日实质修订。*
 

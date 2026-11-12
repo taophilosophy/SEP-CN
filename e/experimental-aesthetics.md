@@ -1,4 +1,4 @@
-# 艺术与美学的实验哲学 Experimental Philosophy of Art and Aesthetics (Elzė Sigutė Mikalonytė, Ryan Doran, and Shen-yi Liao)
+# 艺术与美学的实验哲学 Experimental Philosophy of Art and Aesthetics (Elzė Sigutė Mikalonytė、Ryan Doran、Shen-yi Liao)
 
 *首次发表于 2024 年 10 月 22 日。*
 

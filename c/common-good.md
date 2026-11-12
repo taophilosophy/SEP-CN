@@ -1,1 +1,1 @@
-# 共同善 The Common Good (Waheed Hussain and Margaret Kohn)
+# 共同善 The Common Good (Waheed Hussain、Margaret Kohn)

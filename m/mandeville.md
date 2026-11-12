@@ -1,4 +1,4 @@
-# 伯纳德·曼德维尔 Bernard Mandeville (Mikko Tolonen and Robin Douglass)
+# 伯纳德·曼德维尔 Bernard Mandeville (Mikko Tolonen、Robin Douglass)
 
 *首次发表于 2024 年 6 月 3 日。*
 

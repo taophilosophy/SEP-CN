@@ -1,4 +1,4 @@
-# 辩证学派 Dialectical School (Susanne Bobzien and Matthew Duncombe)
+# 辩证学派 Dialectical School (Susanne Bobzien、Matthew Duncombe)
 *首次发表于 2004 年 8 月 27 日；2023 年 8 月 9 日实质修订。*
 
 “辩证学派”指早期希腊化时期的一群哲学家。他们上承米利都的欧布里德（Eubulides of Miletus）的——苏格拉底式的——传统而治哲学，又共同关心逻辑悖论、命题逻辑与论辩技艺，由此结成一种松散的联结。其成员中最负盛名的两位——逻辑学家菲洛（Philo the Logician）与狄奥多罗斯·克罗诺斯（Diodorus Cronus）——为条件句理论与模态逻辑的发展做出了开创性贡献：菲洛引入了一种实质蕴涵的版本；狄奥多罗斯则设计出严格蕴涵的先声。两人各自发展出一套模态概念体系，均满足现代标准模态理论奠定的基本逻辑要求。在古代，卡里亚雅苏斯的狄奥多罗斯以其所谓的主论证（Master Argument）闻名；该论证旨在证明：唯有现实者才是可能的。

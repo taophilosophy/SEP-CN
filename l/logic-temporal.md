@@ -1,1 +1,1 @@
-# 时间逻辑 Temporal Logic (Valentin Goranko and Antje Rumberg)
+# 时间逻辑 Temporal Logic (Valentin Goranko、Antje Rumberg)

@@ -1,1 +1,1 @@
-# 现象意向性 Phenomenal Intentionality (David Bourget and Angela Mendelovici)
+# 现象意向性 Phenomenal Intentionality (David Bourget、Angela Mendelovici)

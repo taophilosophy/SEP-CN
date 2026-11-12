@@ -1,4 +1,4 @@
-# 霍布斯的道德与政治哲学 Hobbes’s Moral and Political Philosophy (Sharon A. Lloyd and Susanne Sreedhar)
+# 霍布斯的道德与政治哲学 Hobbes’s Moral and Political Philosophy (Sharon A. Lloyd、Susanne Sreedhar)
 
 *首次发表于 2002 年 2 月 12 日；2022 年 9 月 12 日实质修订。*
 

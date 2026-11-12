@@ -1,1 +1,1 @@
-# 塞缪尔·克拉克 Samuel Clarke (Timothy Yenter and Ezio Vailati)
+# 塞缪尔·克拉克 Samuel Clarke (Timothy Yenter、Ezio Vailati)

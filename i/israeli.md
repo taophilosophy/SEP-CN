@@ -1,4 +1,4 @@
-# 伊萨克·伊斯拉埃利 Isaac Israeli (Leonard Levin, R. David Walker, and Shalom Sadik)
+# 伊萨克·伊斯拉埃利 Isaac Israeli (Leonard Levin、R. David Walker、Shalom Sadik)
 
 *首次发表于 2007 年 9 月 10 日；2026 年 8 月 31 日实质修订。*
 

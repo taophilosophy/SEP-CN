@@ -1,1 +1,1 @@
-# 科学模型 Models in Science (Roman Frigg and Stephan Hartmann)
+# 科学模型 Models in Science (Roman Frigg、Stephan Hartmann)

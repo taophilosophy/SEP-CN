@@ -1,1 +1,1 @@
-# 结构理性 Structural Rationality (Benjamin Kiesewetter and Alex Worsnip)
+# 结构理性 Structural Rationality (Benjamin Kiesewetter、Alex Worsnip)

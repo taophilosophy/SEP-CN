@@ -1,1 +1,1 @@
-# 工具理性 Instrumental Rationality (Niko Kolodny and John Brunero)
+# 工具理性 Instrumental Rationality (Niko Kolodny、John Brunero)

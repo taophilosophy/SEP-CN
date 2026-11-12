@@ -1,4 +1,4 @@
-# 本杰明·皮尔斯 Benjamin Peirce (Ivor Grattan-Guinness and Alison Walsh)
+# 本杰明·皮尔斯 Benjamin Peirce (Ivor Grattan-Guinness、Alison Walsh)
 
 *首次发表于 2001 年 2 月 3 日；2008 年 8 月 22 日实质修订。*
 

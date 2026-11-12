@@ -1,4 +1,4 @@
-# 戴震 Dai Zhen (Frank Y. C. Chong and Chris Fraser)
+# 戴震 Dai Zhen (Frank Y. C. Chong、Chris Fraser)
 
 *首次发表于 2025 年 5 月 2 日。*
 

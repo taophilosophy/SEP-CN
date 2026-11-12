@@ -1,1 +1,1 @@
-# 联结主义 Connectionism (Cameron Buckner and James Garson)
+# 联结主义 Connectionism (Cameron Buckner、James Garson)

@@ -1,4 +1,4 @@
-# 索伦·克尔凯郭尔 Søren Kierkegaard (John Lippitt and C. Stephen Evans)
+# 索伦·克尔凯郭尔 Søren Kierkegaard (John Lippitt、C. Stephen Evans)
 
 *首次发表于 2023 年 5 月 22 日。*
 

@@ -1,1 +1,1 @@
-# 科学客观性 Scientific Objectivity (Julian Reiss and Jan Sprenger)
+# 科学客观性 Scientific Objectivity (Julian Reiss、Jan Sprenger)

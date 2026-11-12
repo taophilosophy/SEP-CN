@@ -1,1 +1,1 @@
-# 平等主义 Egalitarianism (Juliana Bidadanure and David Axelsen)
+# 平等主义 Egalitarianism (Juliana Bidadanure、David Axelsen)

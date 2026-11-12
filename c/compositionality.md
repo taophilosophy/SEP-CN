@@ -1,1 +1,1 @@
-# 组合性 Compositionality (Bryan Pickel and Zoltán Gendler Szabó)
+# 组合性 Compositionality (Bryan Pickel、Zoltán Gendler Szabó)

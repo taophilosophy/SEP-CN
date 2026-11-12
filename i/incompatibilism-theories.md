@@ -1,4 +1,4 @@
-# 自由意志的不相容主义（非决定性）理论 Incompatibilist (Nondeterministic) Theories of Free Will (Randolph Clarke, Justin Capes, and Philip Swenson)
+# 自由意志的不相容主义（非决定性）理论 Incompatibilist (Nondeterministic) Theories of Free Will (Randolph Clarke、Justin Capes、Philip Swenson)
 
 *首次发表于 2000 年 8 月 17 日；2021 年 8 月 18 日实质修订。*
 

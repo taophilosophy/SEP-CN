@@ -1,1 +1,1 @@
-# 阿尔凯西劳 Arcesilaus (Charles Brittain and Peter Osorio)
+# 阿尔凯西劳 Arcesilaus (Charles Brittain、Peter Osorio)

@@ -1,1 +1,1 @@
-# 进步 Progress (Agnes Tam and Margaret Meek Lange)
+# 进步 Progress (Agnes Tam、Margaret Meek Lange)

@@ -1,1 +1,1 @@
-# 类别 Sortals (Max A. Freund and Richard E. Grandy)
+# 类别 Sortals (Max A. Freund、Richard E. Grandy)

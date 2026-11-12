@@ -1,1 +1,1 @@
-# 堆垛悖论 Sorites Paradox (Diana Raffman and Dominic Hyde)
+# 堆垛悖论 Sorites Paradox (Diana Raffman、Dominic Hyde)

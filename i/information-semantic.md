@@ -1,4 +1,4 @@
-# 语义概念的信息 Semantic Conceptions of Information (Sebastian Sequoiah-Grayson and Luciano Floridi)
+# 语义概念的信息 Semantic Conceptions of Information (Sebastian Sequoiah-Grayson、Luciano Floridi)
 
 *首次发表于 2005 年 10 月 5 日；2022 年 1 月 14 日实质修订。*
 

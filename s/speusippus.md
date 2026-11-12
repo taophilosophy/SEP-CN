@@ -1,1 +1,1 @@
-# 斯彪西波 Speusippus (Russell Dancy and Giulia De Cesaris)
+# 斯彪西波 Speusippus (Russell Dancy、Giulia De Cesaris)

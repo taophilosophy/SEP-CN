@@ -1,4 +1,4 @@
-# 数学哲学中的演绎主义 Deductivism in the Philosophy of Mathematics (Alexander Paseau and Fabian Pregel)
+# 数学哲学中的演绎主义 Deductivism in the Philosophy of Mathematics (Alexander Paseau、Fabian Pregel)
 **首次发表于 2023 年 8 月 25 日。**
 
 演绎主义主张：数学语句 $s$ 应理解为表达“$s$ 从适当公理演绎地推出”这一断言。例如，演绎主义者可能把“$2 + 2 = 4$”理解为“语句‘$2 + 2 = 4$’从算术公理演绎地推出”。演绎主义许诺若干好处：它抓住了“数学关乎从公理能推出什么”这一常见想法；避免了抽象数学对象的本体论；并主张我们把握数学真理所需者，不超过逻辑演绎的能力。第 1、2 节详界定并说明其动机；第 3 节讨论四位曾在某处认可它的作者（罗素、希尔伯特、帕施、柯里）；第 4 节澄清演绎主义者所作的是何种语义主张；第 5–9 节审视反驳与可能的答复。

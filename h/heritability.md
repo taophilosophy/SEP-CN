@@ -1,1 +1,1 @@
-# 遗传力 Heritability (Stephen M. Downes and Lucas Matthews)
+# 遗传力 Heritability (Stephen M. Downes、Lucas Matthews)

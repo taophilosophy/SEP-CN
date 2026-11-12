@@ -1,4 +1,4 @@
-# 癌症 Cancer (Anya Plutynski and Lucie Laplane)
+# 癌症 Cancer (Anya Plutynski、Lucie Laplane)
 
 *首次发表于 2019 年 5 月 7 日；2023 年 10 月 23 日实质修订。*
 

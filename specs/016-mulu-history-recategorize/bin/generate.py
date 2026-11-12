@@ -85,7 +85,7 @@ def emit_section(out, path, rows, path_map, last):
     for r in rows:
         if r['parent'] in slugs:
             children.setdefault(r['parent'], []).append(r)
-    roots.sort(key=sort_key)
+    roots.sort(key=lambda r: (year(r), child_rank(r) if r['slug'] in SPECIFIC else 90, r['title']))
     for r in roots:
         emit_entry(out, r, children, 0, path_map)
     out.append('')

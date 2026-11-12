@@ -696,6 +696,7 @@
 | Champollion, Lucas | — | Lucas Champollion | — | — | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Chandler, Jake | — | Jake Chandler（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09 | 2026-11-09 |
 | Chang, Chen Chung | — | Chen Chung Chang | — | — | logic-infinitary | 无通行汉名，保留英文原名（模型论学家，1927–2014）；凭证 2026-11-10 | 2026-11-09 |
+| Chan, Alan K. L. | — | 陈素芬 | 新加坡（华裔） | — | laozi、neo-daoism | 本人汉名（新加坡管理大学教务长、前新加坡国立大学哲学系主任；人民网 2012-03-21 报道、中国人民大学哲学院 2025-04-21 报道）；凭证 2026-11-12 | 2026-11-12 |
 | Changkya Rolpé Dorjé | — | 章嘉·若必多吉（lcang skya rol pa'i rdo rje，1717–1786） | — | — | gelukpa | 藏传佛教通行汉译（章嘉活佛） | 2026-11-01 |
 | Channing, William Ellery | — | 威廉·埃勒里·钱宁 | — | — | f/fuller-margaret | 学界通行汉译（一位论派牧师）；凭证 2026-11-11 | 2026-11-11 |
 | Chanut, Pierre | — | 沙努 | — | — | descartes-works | 学界通行（法国驻瑞典大使，笛卡尔挚友） | 2026-11-06 |
@@ -1804,6 +1805,7 @@
 | Hoffman, Paul | — | 保罗·霍夫曼 | 美国 | — | descartes-ideas | 学界通行音译（笛卡尔观念论“简单本性”解读）；凭证 2026-11-12 | 2026-11-12 |
 | Hoffmann, Stanley | — | 斯坦利·霍夫曼 | — | — | sovereignty | 学界通行汉译（国际关系研究通行；与既有 Adolph Friedrich Hoffmann 行同人名异人）；凭证 2026-11-07 | 2026-11-07 |
 | Hofmann, Martin | — | Martin Hofmann | — | — | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
+| Ho, Hock Lai | — | 何福来 | 新加坡 | — | evidence-legal | 本人汉名（新加坡国立大学法学院；《证据法哲学》中国人民大学出版社 2021 中译本署名“何福来”）；凭证 2026-11-12 | 2026-11-12 |
 | Holbach, Paul-Henri Thiry, baron d' | — | 霍尔巴赫 | — | —；godwin | godwin | 学界通行汉译（法国启蒙思想家） | 2026-11-10 合并（同键变体，来源列并双 slug） |
 | Holbrook, Clyde A. | — | 克莱德·霍尔布鲁克 | 美国 | — | edwards | 学界通行汉译（爱德华兹研究）；凭证 2026-11-10 | 2026-11-10 |
 | Hölderlin, Friedrich | — | 弗里德里希·荷尔德林 | 德国／诗人与观念论 | 1770–1843 | august-rehberg | 学界通行汉译；凭证 2026-11-08 | 2026-11-08 |
@@ -2340,6 +2342,7 @@
 | Lartigue, Jeanne de | — | 让娜·德·拉尔蒂格 | — | — | montesquieu | 学界通行音译（孟德斯鸠之妻）；凭证 2026-11-07 | 2026-11-07 |
 | Las Casas, Bartolomé de | Bartolomé de Las Casas | 巴托洛梅·德·拉斯·卡萨斯 | — | — | colonialism | 学界通行汉译（《西印度毁灭述略》署名）；凭证 2026-11-07 | 2026-11-07 |
 | Lasersohn, Peter | — | Peter Lasersohn | — | — | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
+| Lau, Joe Y. F. | — | 刘彦方 | 中国香港 | — | content-externalism | 本人汉名（香港大学哲学系副教授；港大哲学系个人页、《批判性思维与创新导论》中文版署名）；凭证 2026-11-12 | 2026-11-12 |
 | Laurent, Olivier | — | Olivier Laurent | — | — | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Lavallee, Marie | — | 拉瓦莱 | — | — | erotic-art | 学界惯例音译（本词条引用文献作者） | 2026-11-08 |
 | Lavater, Johann Caspar | — | 约翰·卡斯帕·拉瓦特尔 | 瑞士 | 1741–1801 | natphil-ren | 学界通行音译（相面术著作家）；凭证 2026-11-10 | 2026-11-10 |
@@ -2438,6 +2441,7 @@
 | Little, Ian M. D. | — | 伊恩·M. D. 利特尔 | 英国／经济学家 | 1918–2012 | ramsey-economics | 学界通行音译（利特尔—米尔利斯方法）；凭证 2026-11-11 | 2026-11-11 |
 | Liu An | — | 刘安 | — | — | han-dynasty | 上游自带汉字（淮南王，《淮南子》主持者） | 2026-11-10 |
 | Liu Bei | — | 刘备 | — | — | han-dynasty | 上游自带汉字（蜀汉昭烈帝） | 2026-11-10 |
+| Liu, Fenrong | — | 刘奋荣 | 中国 | 1975– | logic-preference | 本人汉名（清华大学哲学系教授；清华大学哲学系官网教师页、百度百科）；凭证 2026-11-12 | 2026-11-12 |
 | Liu Shipei | — | 刘师培 | — | — | dai-zhen | 上游自带汉字；学界通行（清末民初学者）；凭证 2026-11-07 | 2026-11-07 |
 | Liu Xiang | — | 刘向 | — | — | chinese-phil-science | 上游自带汉字（《别录》《七略》编者）；凭证 2026-11-07 | 2026-11-07 |
 | Lloyd, Elisabeth | — | 伊丽莎白·劳埃德 | — | — | biology-philosophy | 学界通行汉译（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -2906,6 +2910,7 @@
 | Newman, John Henry | — | 约翰·亨利·纽曼 | — | — | origin-descent | 学界通行汉译（《大学的理念》中译本）；凭证 2026-11-07 | 2026-11-07 |
 | Newton, Isaac | — | 艾萨克·牛顿 | — | — | emilie-du-chatelet | 学界千年通行译名 | 2026-11-04 |
 | Ng, Yew-Kwang | — | 黄有光 | 澳大利亚（华裔） | 1942– | repugnant-conclusion | 华裔经济学家本人汉名（Yew-Kwang Ng）；凭证 2026-11-11 | 2026-11-11 |
+| Ng, On-cho | — | 伍安祖 | 美国（华裔） | — | qing-philosophy | 本人汉名（宾夕法尼亚州立大学亚洲研究系与哲学系教授；豆瓣人物页、海外中国研究学者英汉名对照表）；凭证 2026-11-12 | 2026-11-12 |
 | Ngawang Chödrak | — | 阿旺却扎 | — | — | epistemology-language-tibetan | 佛学界通行（Ngag dbang chos grags） | 2026-11-04 |
 | Ngok Loden Shérap | — | 俄·罗丹喜饶 | — | — | epistemology-language-tibetan | 佛学界通行（rNgog Blo ldan shes rab） | 2026-11-04 |
 | Nguyen, Hung T. | — | Nguyen | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
@@ -4150,6 +4155,7 @@
 | Wang Mang | — | 王莽 | — | — | han-dynasty | 上游自带汉字（新朝建立者） | 2026-11-10 |
 | Wang Su | — | 王肃 | — | — | han-dynasty | 上游自带汉字（曹魏经学家） | 2026-11-10 |
 | Wang Yangming | — | 王阳明 | — | — | dai-zhen | 上游自带汉字；学界通行（SUMMARY 相关词条定名）；凭证 2026-11-07 | 2026-11-07 |
+| Wang, Yanjing | — | 王彦晶 | 中国 | 1982– | logic-epistemic | 本人汉名（北京大学哲学系教授；北京大学逻辑、语言与认知研究中心师资页、百度百科）；凭证 2026-11-12 | 2026-11-12 |
 | Wansing, Heinrich | — | Heinrich Wansing | — | — | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Warburg, Aby | — | 阿比·瓦尔堡 | 德国 | 1866–1929 | cassirer | 艺术史家、瓦尔堡文化科学图书馆创办人，学界通行汉译；凭证 2026-11-12 r2 | 2026-11-12 |
 | Ward, James | — | 詹姆斯·沃德 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
@@ -4297,6 +4303,7 @@
 | Wŏnchŭk | 圓測 | 圆测 | — | — | korean-buddhism | 汉文传统写法（源文汉字 圓測；新罗僧，玄奘门下） | 2026-11-05 |
 | Wŏnhyo | 元曉 | 元晓 | — | — | korean-buddhism | 汉文传统写法（源文汉字 元曉；新罗“和诤”国师） | 2026-11-05 |
 | Wŏn’gwang | 圓光 | 圆光 | — | — | korean-buddhism | 汉文传统写法（源文汉字 圓光；新罗僧，摄论宗） | 2026-11-05 |
+| Wong, David B. | — | 黄百锐 | 美国（华裔，祖籍广东） | — | ethics-chinese、chinese-mind、chinese-translate-interpret、comparphil-chiwes | 本人汉名（杜克大学哲学系教授；《自然道德》中译本署名、豆瓣人物页）；凭证 2026-11-12 | 2026-11-12 |
 | Woodger, J. H. | — | J. H. Woodger（现代学者，保留英文） | — | — | biology-philosophy | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
 | Woodruff, Paul | — | 保罗·伍德拉夫 | — | — | binarium | 学界惯例（古典哲学家，音译）；凭证 2026-11-08 | 2026-11-08 |
 | Woods, Jack | — | Woods | — | — | logical-consequence | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |

@@ -1,4 +1,4 @@
-# 西奥多·W·阿多诺 Theodor W. Adorno (Henry Pickford and Lambert Zuidervaart)
+# 西奥多·W·阿多诺 Theodor W. Adorno (Henry Pickford、Lambert Zuidervaart)
 
 *首次发表于 2003 年 5 月 5 日；2024 年 11 月 4 日实质修订。*
 

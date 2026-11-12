@@ -1,1 +1,1 @@
-# 内部言语 Inner Speech (Daniel Gregory and Peter Langland-Hassan)
+# 内部言语 Inner Speech (Daniel Gregory、Peter Langland-Hassan)

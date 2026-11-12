@@ -1,4 +1,4 @@
-# 康德和休谟论道德 Kant and Hume on Morality (Eric Entrican Wilson and Lara Denis)
+# 康德和休谟论道德 Kant and Hume on Morality (Eric Entrican Wilson、Lara Denis)
 
 *首次发表于 2008 年 3 月 26 日；2022 年 8 月 19 日实质修订。*
 

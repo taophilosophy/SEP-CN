@@ -1,1 +1,1 @@
-# 确证逻辑 Justification Logic (Sergei Artemov, Melvin Fitting, and Thomas Studer)
+# 确证逻辑 Justification Logic (Sergei Artemov、Melvin Fitting、Thomas Studer)

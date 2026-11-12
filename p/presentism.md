@@ -1,1 +1,1 @@
-# 现在主义 Presentism (David Ingram and Jonathan Tallant)
+# 现在主义 Presentism (David Ingram、Jonathan Tallant)

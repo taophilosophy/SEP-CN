@@ -1,4 +1,4 @@
-# 康德哲学的发展历程 Kant’s Philosophical Development (Martin Schönfeld and Michael Thompson)
+# 康德哲学的发展历程 Kant’s Philosophical Development (Martin Schönfeld、Michael Thompson)
 
 *首次发表于 2003 年 11 月 3 日；2019 年 11 月 22 日实质修订。*
 

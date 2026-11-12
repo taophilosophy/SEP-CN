@@ -1,1 +1,1 @@
-# 跨界同一性 Transworld Identity (Penelope Mackie and Mark Jago)
+# 跨界同一性 Transworld Identity (Penelope Mackie、Mark Jago)

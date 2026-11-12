@@ -1,1 +1,1 @@
-# 全能 Omnipotence (Joshua Hoffman and Gary Rosenkrantz)
+# 全能 Omnipotence (Joshua Hoffman、Gary Rosenkrantz)

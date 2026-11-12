@@ -1,4 +1,4 @@
-# 模式生物 Model Organisms (Michael Dietrich and Nedah Nemati)
+# 模式生物 Model Organisms (Michael Dietrich、Nedah Nemati)
 
 *首次发表于 2026 年 7 月 24 日。*
 

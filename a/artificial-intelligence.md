@@ -1,1 +1,1 @@
-# 人工智能 Artificial Intelligence (Selmer Bringsjord and Naveen Sundar Govindarajulu)
+# 人工智能 Artificial Intelligence (Selmer Bringsjord、Naveen Sundar Govindarajulu)

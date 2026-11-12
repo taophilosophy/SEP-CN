@@ -1,1 +1,1 @@
-# 仇恨言论 Hate Speech (Luvell Anderson and Michael Barnes)
+# 仇恨言论 Hate Speech (Luvell Anderson、Michael Barnes)

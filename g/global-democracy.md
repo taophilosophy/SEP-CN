@@ -1,4 +1,4 @@
-# 全球民主 global (Jonathan Kuyper)
+# 全球民主 Global Democracy (Jonathan Kuyper)
 
 *首次发表于 2015 年 2 月 23 日；2025 年 12 月 5 日实质修订。*
 

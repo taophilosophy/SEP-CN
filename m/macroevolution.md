@@ -1,1 +1,1 @@
-# 宏观进化哲学 Philosophy of Macroevolution (Derek Turner and Joyce C. Havstad)
+# 宏观进化哲学 Philosophy of Macroevolution (Derek Turner、Joyce C. Havstad)

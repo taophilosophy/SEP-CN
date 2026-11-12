@@ -1,1 +1,1 @@
-# 词义 Word Meaning (Luca Gasparri and Diego Marconi)
+# 词义 Word Meaning (Luca Gasparri、Diego Marconi)

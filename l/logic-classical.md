@@ -1,1 +1,1 @@
-# 经典逻辑 Classical Logic (Stewart Shapiro and Teresa Kouri Kissel)
+# 经典逻辑 Classical Logic (Stewart Shapiro、Teresa Kouri Kissel)

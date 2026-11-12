@@ -1,0 +1,68 @@
+{
+ "key": "jawhar",
+ "term": "jawhar",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T13:08:01+00:00",
+ "status": "ok",
+ "note": "variant=jawhar; 审定公布名词库=6; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "火山泥石流",
+   "en": "lahar",
+   "code": "06.0172",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地热学_火山学"
+  },
+  {
+   "cn": "火山泥[石]流",
+   "en": "lahar,volcanic mudflow",
+   "code": "05.066",
+   "standard": "地质学名词",
+   "subject": "地质学_岩石学"
+  },
+  {
+   "cn": "面积加权平均分辨率",
+   "en": "area weighted average resolution,AWAR",
+   "code": "14.042",
+   "standard": "光学名词",
+   "subject": "光学_成像技术"
+  },
+  {
+   "cn": "面积加权平均分辨率",
+   "en": "area weighted average resolution,AWAR",
+   "code": "08.291",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天遥感"
+  },
+  {
+   "cn": "火山泥流",
+   "en": "lahar;volcanic mudflow",
+   "code": "12.04.057",
+   "standard": "地质学名词",
+   "subject": "地质学_火山地质学_火山喷出物"
+  },
+  {
+   "cn": "火山泥流堆积物",
+   "en": "lahar deposit;volcanic mudflow deposit",
+   "code": "12.04.058",
+   "standard": "地质学名词",
+   "subject": "地质学_火山地质学_火山喷出物"
+  },
+  {
+   "cn": "火山泥石流",
+   "en": "lahar",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "面积加权平均分辨率",
+   "en": "area-weighted average resolution\",\"AWAR",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

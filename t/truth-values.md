@@ -1,1 +1,1 @@
-# 真值 Truth Values (Yaroslav Shramko and Heinrich Wansing)
+# 真值 Truth Values (Yaroslav Shramko、Heinrich Wansing)

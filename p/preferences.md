@@ -1,1 +1,1 @@
-# 偏好 Preferences (Sven Ove Hansson and Till Grüne-Yanoff)
+# 偏好 Preferences (Sven Ove Hansson、Till Grüne-Yanoff)

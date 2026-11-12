@@ -1,4 +1,4 @@
-# 线性逻辑 Linear Logic (Roberto Di Cosmo and Dale Miller)
+# 线性逻辑 Linear Logic (Roberto Di Cosmo、Dale Miller)
 
 *首次发表于 2006 年 9 月 6 日；2023 年 9 月 16 日实质修订。*
 

@@ -1,1 +1,1 @@
-# 搜索引擎伦理 Search Engines and Ethics (Herman Tavani and Michael Zimmer)
+# 搜索引擎伦理 Search Engines and Ethics (Herman Tavani、Michael Zimmer)

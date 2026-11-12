@@ -1,1 +1,1 @@
-# 米歇尔·德·蒙田 Michel de Montaigne (Marc Foglia and Emiliano Ferrari)
+# 米歇尔·德·蒙田 Michel de Montaigne (Marc Foglia、Emiliano Ferrari)

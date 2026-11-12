@@ -1,4 +1,4 @@
-# 内在属性与外在属性 Intrinsic vs. Extrinsic Properties (Dan Marshall and Brian Weatherson)
+# 内在属性与外在属性 Intrinsic vs. Extrinsic Properties (Dan Marshall、Brian Weatherson)
 
 *首次发表于 2002 年 1 月 5 日；2023 年 9 月 18 日实质修订。*
 

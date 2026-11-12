@@ -1,1 +1,1 @@
-# 希望 Hope (Claudia Bloeser and Titus Stahl)
+# 希望 Hope (Claudia Bloeser、Titus Stahl)

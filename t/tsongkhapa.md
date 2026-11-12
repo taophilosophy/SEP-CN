@@ -1,1 +1,1 @@
-# 宗喀巴 Tsongkhapa (Gareth Sparham and Chandra Chiara Ehm)
+# 宗喀巴 Tsongkhapa (Gareth Sparham、Chandra Chiara Ehm)

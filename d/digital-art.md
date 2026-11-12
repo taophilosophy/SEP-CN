@@ -1,4 +1,4 @@
-# 数字艺术哲学 The Philosophy of Digital Art (Katherine Thomson-Jones and Shelby Moser)
+# 数字艺术哲学 The Philosophy of Digital Art (Katherine Thomson-Jones、Shelby Moser)
 
 *首次发表于 2015 年 2 月 23 日；2023 年 12 月 15 日实质修订。*
 

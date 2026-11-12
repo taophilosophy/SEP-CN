@@ -1,1 +1,1 @@
-# 汉娜·阿伦特 Hannah Arendt (Tatjana Tömmel and Maurizio Passerin d’Entreves)
+# 汉娜·阿伦特 Hannah Arendt (Tatjana Tömmel、Maurizio Passerin d’Entreves)

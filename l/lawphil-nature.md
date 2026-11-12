@@ -1,1 +1,1 @@
-# 法律的本质 The Nature of Law (Emad Atiq, Andrei Marmor, and Alexander Sarch)
+# 法律的本质 The Nature of Law (Emad Atiq、Andrei Marmor、Alexander Sarch)

@@ -1,4 +1,4 @@
-# 命题动态逻辑 Propositional Dynamic Logic (Nicolas Troquard and Philippe Balbiani)
+# 命题动态逻辑 Propositional Dynamic Logic (Nicolas Troquard、Philippe Balbiani)
 
 *首次发表于 2007 年 2 月 1 日；2023 年 2 月 16 日实质修订。*
 

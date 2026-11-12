@@ -1,4 +1,4 @@
-# 偏好逻辑 Preference Logic (Fenrong Liu and Leon van der Torre)
+# 偏好逻辑 Preference Logic (Fenrong Liu、Leon van der Torre)
 
 *首次发表于 2025 年 7 月 28 日。*
 

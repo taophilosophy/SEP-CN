@@ -1,1 +1,1 @@
-# 萨拉曼卡学派 School of Salamanca (Thomas Izbicki and Matthias Kaufmann)
+# 萨拉曼卡学派 School of Salamanca (Thomas Izbicki、Matthias Kaufmann)

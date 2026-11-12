@@ -1,4 +1,4 @@
-# 令人反感的结论 The Repugnant Conclusion (Gustaf Arrhenius, Jesper Ryberg, and Torbjörn Tännsjö)
+# 令人反感的结论 The Repugnant Conclusion (Gustaf Arrhenius、Jesper Ryberg、Torbjörn Tännsjö)
 
 *首次发表于 2006 年 2 月 16 日；2017 年 1 月 16 日实质修订。*
 

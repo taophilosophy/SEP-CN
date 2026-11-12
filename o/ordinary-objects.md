@@ -1,1 +1,1 @@
-# 日常对象 Ordinary Objects (Daniel Z. Korman and Jonathan Barker)
+# 日常对象 Ordinary Objects (Daniel Z. Korman、Jonathan Barker)

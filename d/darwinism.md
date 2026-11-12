@@ -1,1 +1,1 @@
-# 达尔文主义 Darwinism (James Lennox and Charles H. Pence)
+# 达尔文主义 Darwinism (James Lennox、Charles H. Pence)

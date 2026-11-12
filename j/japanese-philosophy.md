@@ -1,1 +1,1 @@
-# 日本哲学 Japanese Philosophy (Thomas Kasulis and Raquel Bouso)
+# 日本哲学 Japanese Philosophy (Thomas Kasulis、Raquel Bouso)

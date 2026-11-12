@@ -1,1 +1,1 @@
-# 社会主义 Socialism (Pablo Gilabert and Martin O’Neill)
+# 社会主义 Socialism (Pablo Gilabert、Martin O’Neill)

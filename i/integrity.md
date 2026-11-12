@@ -1,4 +1,4 @@
-# 诚信 Integrity (Damian Cox, Marguerite La Caze, and Michael Levine)
+# 诚信 Integrity (Damian Cox、Marguerite La Caze、Michael Levine)
 
 *首次发表于 2001 年 4 月 9 日；2025 年 9 月 9 日实质修订。*
 

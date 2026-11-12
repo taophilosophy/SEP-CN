@@ -1,1 +1,1 @@
-# 权威 Authority (Tom Christiano and Stefan Sciaraffa)
+# 权威 Authority (Tom Christiano、Stefan Sciaraffa)

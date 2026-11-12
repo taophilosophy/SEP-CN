@@ -1,1 +1,1 @@
-# 倾向 Dispositions (Sungho Choi and Michael Fara)
+# 倾向 Dispositions (Sungho Choi、Michael Fara)

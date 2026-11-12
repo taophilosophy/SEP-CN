@@ -1,1 +1,1 @@
-# 事实 Facts (Kevin Mulligan and Fabrice Correia)
+# 事实 Facts (Kevin Mulligan、Fabrice Correia)

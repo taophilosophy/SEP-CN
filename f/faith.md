@@ -1,4 +1,4 @@
-# 信仰 Faith (John Bishop and Daniel J. McKaughan)
+# 信仰 Faith (John Bishop、Daniel J. McKaughan)
 
 *首次发表于 2010 年 6 月 23 日；2023 年 12 月 9 日实质修订。*
 

@@ -1,4 +1,4 @@
-# 人体器官捐献 The Donation of Human Organs (Martin Wilkinson and Stephen Wilkinson)
+# 人体器官捐献 The Donation of Human Organs (Martin Wilkinson、Stephen Wilkinson)
 
 *首次发表于 2011 年 10 月 28 日；2026 年 5 月 20 日实质修订。*
 

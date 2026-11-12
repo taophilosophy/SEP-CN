@@ -1,1 +1,1 @@
-# 马丁·布伯 Martin Buber (Michael Zank and Zachary Braiterman)
+# 马丁·布伯 Martin Buber (Michael Zank、Zachary Braiterman)

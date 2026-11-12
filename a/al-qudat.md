@@ -1,4 +1,4 @@
-# 艾因·古达特 ʿAyn al-Qudat (Muhammad U. Faruque and Mohammed Rustom)
+# 艾因·古达特 ʿAyn al-Qudat (Muhammad U. Faruque、Mohammed Rustom)
 
 **首次发表于 2024 年 10 月 30 日。**
 

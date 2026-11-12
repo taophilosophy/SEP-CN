@@ -1,1 +1,1 @@
-# 阿兰·勒罗伊·洛克 Alain LeRoy Locke (Jacoby Adeshei Carter and Corey Barnes)
+# 阿兰·勒罗伊·洛克 Alain LeRoy Locke (Jacoby Adeshei Carter、Corey Barnes)

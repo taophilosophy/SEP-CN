@@ -1,1 +1,1 @@
-# 古代伦理学思想 Ancient Ethical Theory (Richard Parry and Harald Thorsrud)
+# 古代伦理学思想 Ancient Ethical Theory (Richard Parry、Harald Thorsrud)

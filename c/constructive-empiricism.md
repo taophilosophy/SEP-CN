@@ -1,1 +1,1 @@
-# 建构经验论 Constructive Empiricism (Chad Mohler and Bradley Monton)
+# 建构经验论 Constructive Empiricism (Chad Mohler、Bradley Monton)

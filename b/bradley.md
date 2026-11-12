@@ -1,4 +1,4 @@
-# 弗朗西斯·赫伯特·布拉德雷 Francis Herbert Bradley (Stewart Candlish and Pierfrancesco Basile)
+# 弗朗西斯·赫伯特·布拉德雷 Francis Herbert Bradley (Stewart Candlish、Pierfrancesco Basile)
 
 **首次发表于 1996 年 5 月 9 日；2021 年 2 月 23 日实质修订。**
 

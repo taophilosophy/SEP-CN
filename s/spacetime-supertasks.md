@@ -1,1 +1,1 @@
-# 超级任务 Supertasks (JB Manchak and Bryan W. Roberts)
+# 超级任务 Supertasks (JB Manchak、Bryan W. Roberts)

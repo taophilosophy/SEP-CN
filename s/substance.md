@@ -1,1 +1,1 @@
-# 实体 Substance (Howard Robinson and Ralph Weir)
+# 实体 Substance (Howard Robinson、Ralph Weir)

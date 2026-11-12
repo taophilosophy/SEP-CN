@@ -1,1 +1,1 @@
-# 种族 Race (Michael James and Adam Burgos)
+# 种族 Race (Michael James、Adam Burgos)

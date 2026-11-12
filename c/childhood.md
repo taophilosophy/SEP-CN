@@ -1,4 +1,4 @@
-# 童年哲学 The Philosophy of Childhood (Gareth Matthews and Amy Mullin)
+# 童年哲学 The Philosophy of Childhood (Gareth Matthews、Amy Mullin)
 
 *首次发表于 2002 年 9 月 13 日；2023 年 1 月 31 日实质修订。*
 

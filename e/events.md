@@ -1,1 +1,1 @@
-# 事件 Events (Roberto Casati and Achille Varzi)
+# 事件 Events (Roberto Casati、Achille Varzi)

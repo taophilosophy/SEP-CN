@@ -1,1 +1,1 @@
-# 决策理论 Decision Theory (Katie Steele and H. Orri Stefánsson)
+# 决策理论 Decision Theory (Katie Steele、H. Orri Stefánsson)

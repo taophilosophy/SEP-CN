@@ -1,4 +1,4 @@
-# 里米尼的格里高利 Gregory of Rimini (Christopher Schabel and Charles Girard)
+# 里米尼的格里高利 Gregory of Rimini (Christopher Schabel、Charles Girard)
 
 *首次发表于 2001 年 9 月 24 日；2022 年 2 月 25 日实质修订。*
 

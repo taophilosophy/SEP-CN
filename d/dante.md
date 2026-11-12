@@ -1,1 +1,1 @@
-# 但丁·阿利吉耶里 Dante Alighieri (Jason Aleksander and Winthrop Wetherbee)
+# 但丁·阿利吉耶里 Dante Alighieri (Jason Aleksander、Winthrop Wetherbee)

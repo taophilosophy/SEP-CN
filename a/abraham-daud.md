@@ -1,4 +1,4 @@
-# 亚伯拉罕·伊本·达乌德 Abraham Ibn Daud (Resianne Fontaine and Amira Eran)
+# 亚伯拉罕·伊本·达乌德 Abraham Ibn Daud (Resianne Fontaine、Amira Eran)
 
 **首次发表于 2006 年 8 月 26 日；2024 年 9 月 10 日实质修订。**
 

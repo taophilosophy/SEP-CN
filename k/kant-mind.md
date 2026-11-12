@@ -1,4 +1,4 @@
-# 康德对心灵和自我意识的观点 Kant’s View of the Mind and Consciousness of Self (Andrew Brook and Julian Wuerth)
+# 康德对心灵和自我意识的观点 Kant’s View of the Mind and Consciousness of Self (Andrew Brook、Julian Wuerth)
 
 *首次发表于 2004 年 7 月 26 日；2020 年 10 月 8 日实质修订。*
 

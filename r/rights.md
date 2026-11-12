@@ -1,1 +1,1 @@
-# 权利 Rights (Leif Wenar and Rowan Cruft)
+# 权利 Rights (Leif Wenar、Rowan Cruft)

@@ -1,0 +1,33 @@
+{
+ "key": "khamr",
+ "term": "khamr",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T13:08:01+00:00",
+ "status": "ok",
+ "note": "variant=khamr; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "热辅助磁记录",
+   "en": "heat-assisted magnetic recording,HAMR",
+   "code": "04.0389",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机硬件_存储设备"
+  },
+  {
+   "cn": "康区",
+   "en": "Khams",
+   "code": "3.0547",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "朵甘思",
+   "en": "Mdo khams",
+   "code": "3.0331",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族经济与地理"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

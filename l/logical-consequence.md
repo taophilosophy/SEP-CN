@@ -1,4 +1,4 @@
-# 逻辑后承 Logical Consequence (Jc Beall, Greg Restall, and Gil Sagi)
+# 逻辑后承 Logical Consequence (Jc Beall、Greg Restall、Gil Sagi)
 
 *首次发表于 2005 年 1 月 7 日；2024 年 5 月 17 日实质修订。*
 

@@ -1,1 +1,1 @@
-# 想象 Imagination (Daniel Munro, Shen-yi Liao, and Tamar Gendler)
+# 想象 Imagination (Daniel Munro、Shen-yi Liao、Tamar Gendler)

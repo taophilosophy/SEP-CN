@@ -1,4 +1,4 @@
-# 动态语义 dynamic semantics (Rick Nouwen, Adrian Brasoveanu, Jan van Eijck, and Albert Visser)
+# 动态语义 Dynamic Semantics (Rick Nouwen、Adrian Brasoveanu、Jan van Eijck、Albert Visser)
 
 *首次发表于 2010 年 8 月 23 日；2016 年 7 月 12 日实质修订。*
 

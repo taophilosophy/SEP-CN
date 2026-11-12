@@ -1,4 +1,4 @@
-# 同一性 Identity (Harold Noonan and Ben Curtis)
+# 同一性 Identity (Harold Noonan、Ben Curtis)
 
 *首次发表于 2004 年 12 月 15 日；2026 年 10 月 2 日实质修订。*
 

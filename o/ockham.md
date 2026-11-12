@@ -1,4 +1,4 @@
-# 奥卡姆的威廉 William of Ockham (Paul Vincent Spade, Claude Panaccio, and Jenny Pelletier)
+# 奥卡姆的威廉 William of Ockham (Paul Vincent Spade、Claude Panaccio、Jenny Pelletier)
 
 *首次发表于 2002 年 8 月 16 日；2024 年 9 月 11 日实质修订。*
 

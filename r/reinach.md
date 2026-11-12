@@ -1,4 +1,4 @@
-# 阿道夫·莱纳赫 Adolf Reinach (Alessandro Salice, James DuBois, and Barry Smith)
+# 阿道夫·莱纳赫 Adolf Reinach (Alessandro Salice、James DuBois、Barry Smith)
 
 *首次发表于 2008 年 9 月 21 日；2024 年 4 月 5 日实质修订。*
 

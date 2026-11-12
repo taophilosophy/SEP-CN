@@ -1,4 +1,4 @@
-# 尤尔根·哈贝马斯 Jürgen Habermas (James Gordon Finlayson and Dafydd Huw Rees)
+# 尤尔根·哈贝马斯 Jürgen Habermas (James Gordon Finlayson、Dafydd Huw Rees)
 
 *首次发表于 2023 年 9 月 15 日。*
 

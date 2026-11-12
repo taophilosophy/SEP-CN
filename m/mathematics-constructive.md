@@ -1,1 +1,1 @@
-# 构造数学 Constructive Mathematics (Douglas Bridges, Erik Palmgren, and Hajime Ishihara)
+# 构造数学 Constructive Mathematics (Douglas Bridges、Erik Palmgren、Hajime Ishihara)

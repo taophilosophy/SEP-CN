@@ -1,1 +1,1 @@
-# 瓦尔特·本雅明 Walter Benjamin (Peter Osborne and Matthew Charles)
+# 瓦尔特·本雅明 Walter Benjamin (Peter Osborne、Matthew Charles)

@@ -1,4 +1,4 @@
-# 伦理学中的现实主义和可能性主义 Actualism and Possibilism in Ethics (Travis Timmerman and Yishai Cohen)
+# 伦理学中的现实主义和可能性主义 Actualism and Possibilism in Ethics (Travis Timmerman、Yishai Cohen)
 
 **首次发表于 2019 年 5 月 20 日。**
 

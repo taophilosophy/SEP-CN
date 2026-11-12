@@ -1,1 +1,1 @@
-# 动物意识 Animal Consciousness (Michael Trestman, Jonathan Birch, and Colin Allen)
+# 动物意识 Animal Consciousness (Michael Trestman、Jonathan Birch、Colin Allen)

@@ -1,1 +1,1 @@
-# 方丹的戈弗雷 Godfrey of Fontaines (Tobias Hoffmann and John Wippel)
+# 方丹的戈弗雷 Godfrey of Fontaines (Tobias Hoffmann、John Wippel)

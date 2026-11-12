@@ -1,1 +1,1 @@
-# 坍缩理论 Collapse Theories (Giancarlo Ghirardi and Angelo Bassi)
+# 坍缩理论 Collapse Theories (Giancarlo Ghirardi、Angelo Bassi)

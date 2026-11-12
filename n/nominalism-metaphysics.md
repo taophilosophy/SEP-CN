@@ -1,4 +1,4 @@
-# 形而上学中的唯名论 Nominalism in Metaphysics (Sam Cowling and Daniel Giberman)
+# 形而上学中的唯名论 Nominalism in Metaphysics (Sam Cowling、Daniel Giberman)
 
 *首次发表于 2025 年 4 月 21 日。*
 

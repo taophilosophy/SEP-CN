@@ -1,1 +1,1 @@
-# 意志薄弱 Weakness of Will (Sarah Stroud and Larisa Svirsky)
+# 意志薄弱 Weakness of Will (Sarah Stroud、Larisa Svirsky)

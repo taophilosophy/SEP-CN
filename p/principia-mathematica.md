@@ -1,1 +1,1 @@
-# 《数学原理 Principia Mathematica (Bernard Linsky and Andrew David Irvine)
+# 《数学原理 Principia Mathematica (Bernard Linsky、Andrew David Irvine)

@@ -1,1 +1,1 @@
-# 寂护 Śāntarakṣita (James Blumenthal and James Apple)
+# 寂护 Śāntarakṣita (James Blumenthal、James Apple)

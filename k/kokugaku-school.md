@@ -1,4 +1,4 @@
-# 日本国学 The Kokugaku (Native Japan Studies) School (Gideon Fujiwara and Peter Nosco)
+# 日本国学 The Kokugaku (Native Japan Studies) School (Gideon Fujiwara、Peter Nosco)
 
 *首次发表于 2018 年 11 月 16 日；2021 年 6 月 21 日实质修订。*
 

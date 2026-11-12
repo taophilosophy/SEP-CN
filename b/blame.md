@@ -1,4 +1,4 @@
-# 责备 Blame (Neal Tognazzini and D. Justin Coates)
+# 责备 Blame (Neal Tognazzini、D. Justin Coates)
 
 *首次发表于 2014 年 4 月 15 日；2024 年 8 月 30 日实质修订。*
 

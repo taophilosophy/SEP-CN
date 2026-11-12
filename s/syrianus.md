@@ -1,1 +1,1 @@
-# 西里阿努斯 Syrianus (Roberto Granieri and Christian Wildberg)
+# 西里阿努斯 Syrianus (Roberto Granieri、Christian Wildberg)

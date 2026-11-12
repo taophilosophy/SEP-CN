@@ -1,0 +1,236 @@
+{
+ "key": "din",
+ "term": "dīn",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T13:00:30+00:00",
+ "status": "ok",
+ "note": "variant=dīn; 审定公布名词库=60; 海峡两岸名词对照库=25; 其他来源数据库=6; 预公布名词数据库=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "兔褐毛",
+   "en": "dun",
+   "code": "02.313",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_饲养管理_马饲养"
+  },
+  {
+   "cn": "心",
+   "en": "xīn,CO15,heart",
+   "code": "03.094",
+   "standard": "中医药学名词",
+   "subject": "中医药学_针灸学_耳穴名称和头皮穴线名称"
+  },
+  {
+   "cn": "背侧中缝核",
+   "en": "dorsal raphe nucleus,DRN",
+   "code": "03.825",
+   "standard": "生理学名词",
+   "subject": "生理学_神经生理学"
+  },
+  {
+   "cn": "溶解有机氮",
+   "en": "dissolved organic nitrogen,DON",
+   "code": "13.0528",
+   "standard": "植物学名词",
+   "subject": "植物学_植物生态学_生态系统与景观生态学"
+  },
+  {
+   "cn": "容迟网络",
+   "en": "delay tolerant network,DTN",
+   "code": "09.0020",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_协议体系与组成结构"
+  },
+  {
+   "cn": "数字数据网",
+   "en": "digital data network,DDN",
+   "code": "09.0206",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_有线网络"
+  },
+  {
+   "cn": "数字数据网",
+   "en": "digital data network,DDN",
+   "code": "02.054",
+   "standard": "通信科学技术名词",
+   "subject": "通信科学技术_通信网络"
+  },
+  {
+   "cn": "干式低氮燃烧室",
+   "en": "dry low <img src='/root/syzx/static/spz/dianli3.09.206.01.png'/>combustor,DLN",
+   "code": "10.592",
+   "standard": "电力名词",
+   "subject": "电力_汽轮机、燃气轮机"
+  },
+  {
+   "cn": "数字数据[网]业务",
+   "en": "digital data network service,DDN",
+   "code": "13.085",
+   "standard": "通信科学技术名词",
+   "subject": "通信科学技术_服务与应用"
+  },
+  {
+   "cn": "糖尿病肾病",
+   "en": "diabetic nephropathy,DN",
+   "code": "11.040",
+   "standard": "器官移植学名词",
+   "subject": "器官移植学_肾移植_肾移植受者评估"
+  },
+  {
+   "cn": "糖尿病性神经病",
+   "en": "diabetic neuropathy,DN",
+   "code": "13.056",
+   "standard": "神经病学名词",
+   "subject": "神经病学_周围神经系统疾病"
+  },
+  {
+   "cn": "数值",
+   "en": "digital number,DN",
+   "code": "01.579",
+   "standard": "地理信息系统名词",
+   "subject": "地理信息系统_基本概念"
+  },
+  {
+   "cn": "唐帕斯夸莱",
+   "en": "Don Pasquale",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "唐乔凡尼",
+   "en": "Don Giovanni",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "堂吉诃德",
+   "en": "Don Quichotte",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "唐波罗科比沃",
+   "en": "Don Procopio",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "唐璜",
+   "en": "Don Juan",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "唐卡洛斯",
+   "en": "Don Carlos",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "贾耽",
+   "en": "Jia Dan",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "航标艇",
+   "en": "dan boat",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "可溶性有机氮（=溶解有机氮）",
+   "en": "dissolved organic nitrogen\",\"DON",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "溶解有机氮，可溶性有机氮",
+   "en": "dissolved organic nitrogen\",\"DON",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "切里",
+   "en": "Cherry\",\"Don(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "团伊玖磨",
+   "en": "Dan\",\"Ikuma(日本)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "超流体",
+   "en": "Don Misener",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "段",
+   "en": "dan\",\"degree\",\"grade",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "段",
+   "en": "dan\",\"degree\",\"grade",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "德国标准化协会",
+   "en": "German Institute for Standardization (DIN)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《DIN 66274-2-2012 信息技术 互联网接入 第2部分：分类》",
+   "en": "DIN 66274-2:2012 Information technology — Internet accesses — Part 2: Classification",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《DIN 16587-2016 信息技术 自动识别和信息采集技术 数据矩阵矩形扩展》",
+   "en": "DIN 16587:2016 Information technology — Automatic identification and data capture techniques — Data matrix rectangular extension",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "第一国际第一次伦敦代表会议",
+   "en": "First Lon don Congress of the First International",
+   "code": "04.0467",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要会议_马克思恩格斯时期"
+  },
+  {
+   "cn": "大小和卓之乱",
+   "en": "rebellion of Burhan al-Din and Khwaja Jinan",
+   "code": "3.0257",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族政治"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

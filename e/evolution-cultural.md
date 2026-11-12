@@ -1,1 +1,1 @@
-# 文化演化 Cultural Evolution (Tim Lewens and Andrew Buskell)
+# 文化演化 Cultural Evolution (Tim Lewens、Andrew Buskell)

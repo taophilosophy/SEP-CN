@@ -1,1 +1,1 @@
-# 多类逻辑 Many-Sorted Logic (María Manzano and Víctor Aranda)
+# 多类逻辑 Many-Sorted Logic (María Manzano、Víctor Aranda)

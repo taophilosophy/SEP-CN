@@ -1,1 +1,1 @@
-# 拜占庭哲学 Byzantine Philosophy (Katerina Ierodiakonou and Börje Bydén)
+# 拜占庭哲学 Byzantine Philosophy (Katerina Ierodiakonou、Börje Bydén)

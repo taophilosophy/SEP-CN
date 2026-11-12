@@ -1,4 +1,4 @@
-# 华严宗 Huayan Buddhism (Bryan Van Norden and Nicholaos Jones)
+# 华严宗 Huayan Buddhism (Bryan Van Norden、Nicholaos Jones)
 
 **首次发表于 2019 年 11 月 5 日；2024 年 9 月 17 日实质修订。**
 

@@ -1,4 +1,4 @@
-# 路易·德·拉弗尔热 Louis de La Forge (Andrea Sangiacomo and Desmond Clarke)
+# 路易·德·拉弗尔热 Louis de La Forge (Andrea Sangiacomo、Desmond Clarke)
 
 *首次发表于 2011 年 11 月 15 日；2019 年 10 月 15 日实质修订。*
 

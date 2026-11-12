@@ -1,1 +1,1 @@
-# 路德的哲学影响 Luther’s Influence on Philosophy (Robert Stern and Volker Leppin)
+# 路德的哲学影响 Luther’s Influence on Philosophy (Robert Stern、Volker Leppin)

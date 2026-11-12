@@ -1,1 +1,1 @@
-# 泛心论 Panpsychism (Philip Goff, William Seager, and Sean Allen-Hermanson)
+# 泛心论 Panpsychism (Philip Goff、William Seager、Sean Allen-Hermanson)

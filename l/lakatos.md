@@ -1,4 +1,4 @@
-# 伊姆雷·拉卡托斯 Imre Lakatos (Alan Musgrave and Charles Pigden)
+# 伊姆雷·拉卡托斯 Imre Lakatos (Alan Musgrave、Charles Pigden)
 
 *首次发表于 2016 年 4 月 4 日；2026 年 6 月 19 日实质修订。*
 

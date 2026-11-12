@@ -1,1 +1,1 @@
-# 自杀 Suicide (Michael Cholbi and Brent Kious)
+# 自杀 Suicide (Michael Cholbi、Brent Kious)

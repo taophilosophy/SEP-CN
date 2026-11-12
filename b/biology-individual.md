@@ -1,1 +1,1 @@
-# 生物学个体 Biological Individuals (Robert A. Wilson and Matthew J. Barker)
+# 生物学个体 Biological Individuals (Robert A. Wilson、Matthew J. Barker)

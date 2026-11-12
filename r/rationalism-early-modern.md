@@ -1,4 +1,4 @@
-# 早期近代理性主义 Early Modern Rationalism (Peter West, Kevin Lower, Natalia Strok, Pedro Pricladnitzky, Fabio Malfara, Manuel Fasko, and Christopher P. Noble)
+# 早期近代理性主义 Early Modern Rationalism (Peter West、Kevin Lower、Natalia Strok、Pedro Pricladnitzky、Fabio Malfara、Manuel Fasko、Christopher P. Noble)
 
 *首次发表于 2026 年 4 月 17 日。*
 

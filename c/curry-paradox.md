@@ -1,1 +1,1 @@
-# 柯里悖论 Curry’s Paradox (Lionel Shapiro and Jc Beall)
+# 柯里悖论 Curry’s Paradox (Lionel Shapiro、Jc Beall)

@@ -1,4 +1,4 @@
-# 生物学哲学 Philosophy of Biology (Jay Odenbaugh and Paul Griffiths)
+# 生物学哲学 Philosophy of Biology (Jay Odenbaugh、Paul Griffiths)
 
 *首次发表于 2008 年 7 月 4 日；2024 年 10 月 19 日实质修订。*
 

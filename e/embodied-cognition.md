@@ -1,1 +1,1 @@
-# 具身认知 Embodied Cognition (Lawrence Shapiro and Shannon Spaulding)
+# 具身认知 Embodied Cognition (Lawrence Shapiro、Shannon Spaulding)

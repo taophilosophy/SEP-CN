@@ -1,1 +1,1 @@
-# 马丁·路德 Martin Luther (Robert Stern and Volker Leppin)
+# 马丁·路德 Martin Luther (Robert Stern、Volker Leppin)

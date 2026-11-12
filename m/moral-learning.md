@@ -1,4 +1,4 @@
-# 道德学习 Moral Learning (Tamar Kushnir and Shaun Nichols)
+# 道德学习 Moral Learning (Tamar Kushnir、Shaun Nichols)
 
 *首次发表于 2026 年 9 月 12 日。*
 

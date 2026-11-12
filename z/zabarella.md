@@ -1,4 +1,4 @@
-# 贾科莫·萨巴雷拉 Giacomo Zabarella (Heikki Mikkeli and Tawrin Baker)
+# 贾科莫·萨巴雷拉 Giacomo Zabarella (Heikki Mikkeli、Tawrin Baker)
 
 *首次发表于 2005 年 5 月 17 日；2024 年 2 月 8 日实质修订。*
 

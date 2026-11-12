@@ -1,1 +1,1 @@
-# 虚构实体 Fictional Entities (Fred Kroon and Alberto Voltolini)
+# 虚构实体 Fictional Entities (Fred Kroon、Alberto Voltolini)

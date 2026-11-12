@@ -1,4 +1,4 @@
-# 卡尔·雅斯贝尔斯 Karl Jaspers (Chris Thornhill and Ronny Miron)
+# 卡尔·雅斯贝尔斯 Karl Jaspers (Chris Thornhill、Ronny Miron)
 
 *首次发表于 2006 年 6 月 5 日；2022 年 3 月 7 日实质修订。*
 

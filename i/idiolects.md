@@ -1,4 +1,4 @@
-# 个人方言 Idiolects (Alex Barber and Eduardo Garcia Ramirez)
+# 个人方言 Idiolects (Alex Barber、Eduardo Garcia Ramirez)
 
 *首次发表于 2004 年 11 月 15 日；2025 年 8 月 5 日实质修订。*
 

@@ -1,4 +1,4 @@
-# 残疾的定义与模型 Disability: Definitions and Models (David Wasserman and Sean Aas)
+# 残疾的定义与模型 Disability: Definitions and Models (David Wasserman、Sean Aas)
 
 *首次发表于 2011 年 12 月 16 日；2022 年 4 月 14 日实质修订。*
 

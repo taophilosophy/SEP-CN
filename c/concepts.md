@@ -1,1 +1,1 @@
-# 概念 Concepts (Eric Margolis and Stephen Laurence)
+# 概念 Concepts (Eric Margolis、Stephen Laurence)

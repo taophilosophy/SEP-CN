@@ -1,4 +1,4 @@
-# 布鲁诺·鲍威尔 Bruno Bauer (Douglas Moggach and Gabriele Schimmenti)
+# 布鲁诺·鲍威尔 Bruno Bauer (Douglas Moggach、Gabriele Schimmenti)
 
 **首次发表于 2002 年 3 月 7 日；2026 年 2 月 20 日实质修订。**
 

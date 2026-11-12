@@ -1,1 +1,1 @@
-# 相容论 Compatibilism (Michael McKenna and D. Justin Coates)
+# 相容论 Compatibilism (Michael McKenna、D. Justin Coates)

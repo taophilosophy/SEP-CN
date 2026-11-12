@@ -1,1 +1,1 @@
-# 声音 Sounds (Roberto Casati, Jerome Dokic, and Elvira Di Bona)
+# 声音 Sounds (Roberto Casati、Jerome Dokic、Elvira Di Bona)

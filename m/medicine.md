@@ -1,1 +1,1 @@
-# 医学哲学 Philosophy of Medicine (Julian Reiss and Rachel A. Ankeny)
+# 医学哲学 Philosophy of Medicine (Julian Reiss、Rachel A. Ankeny)

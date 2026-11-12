@@ -1,4 +1,4 @@
-# 世界主义 Cosmopolitanism (Pauline Kleingeld and Eric Brown)
+# 世界主义 Cosmopolitanism (Pauline Kleingeld、Eric Brown)
 
 *首次发表于 2002 年 2 月 23 日；2019 年 10 月 17 日实质修订。*
 
