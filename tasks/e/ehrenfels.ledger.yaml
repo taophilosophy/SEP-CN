@@ -11,50 +11,66 @@ segments:
     kind: body
     source: |-
       Christian von Ehrenfels (b. June 20, 1859, d. September 8, 1932) was an Austrian philosopher and psychologist from the school of Franz Brentano. He proved himself to be a highly independent and diverse thinker by formulating the notion of *Gestalt* qualities, elaborating on a new theory of value, and developing new ideas in sexual ethics and cosmology. He drew on what he learned not only from Brentano, but also from Alexius Meinong, the Austrian economists, and evolution theorists. Nevertheless, Ehrenfels (as he shall henceforth be designated) was also critical of his various mentors on a number of issues. Though he was very much a theorist, he was by no means aloof regarding the social and cultural problems of his time. Thus he also attempted to respond to these problems by forging new paths towards their solutions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      克里斯蒂安·冯·埃伦费尔斯（Christian von Ehrenfels，1859 年 6 月 20 日生，1932 年 9 月 8 日卒）是奥地利哲学家、心理学家，出自弗朗兹·布伦塔诺的学派。他通过提出格式塔质（*Gestalt* qualities）的概念、阐发一种新的价值理论、并在性伦理与宇宙论领域发展新思想，证明了自己是一位高度独立而多样的思想家。他所汲取的学养不仅来自布伦塔诺，也来自亚历克修斯·迈农、奥地利经济学家与演化论者。尽管如此，埃伦费尔斯（下文一律如此简称）也在不少问题上对各导师有所批评。他虽是一位不折不扣的理论家，但对他那个时代的社会与文化问题绝非漠然置之。因此，他也试图通过为这些问题开辟解决的新路来作出回应。
+    step2: |-
+      克里斯蒂安·冯·埃伦费尔斯（Christian von Ehrenfels，1859 年 6 月 20 日生，1932 年 9 月 8 日卒），奥地利哲学家、心理学家，出身弗朗兹·布伦塔诺门下。他提出格式塔质（*Gestalt* qualities）概念，阐发一套新的价值理论，又在性伦理与宇宙论上别开生面，由此证明自己是位极独立、兴趣广博的思想家。滋养他的不只有布伦塔诺一家，还有亚历克修斯·迈农、奥地利经济学派与演化论。话虽如此，埃伦费尔斯（本文以下一律如此称谓）在诸多问题上对各位老师并不一味附和。他固然是十足的理论家，却并未对身当时处的社会文化难题袖手旁观，反而力图另辟蹊径，为解决这些问题闯出新路。
   - id: 2
     kind: body
     source: |-
       ## 1. Life and Work
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1. 生平与著作
+    step2: |-
+      ## 1. 生平与著作
   - id: 3
     kind: body
     source: |-
       Christian Julius Leopold Karl, Freiherr von Ehrenfels, was born in Rodaun near Vienna. He grew up in his father’s castle in Brunn am Walde (see Valent 2016 for more biographical details on Ehrenfels’ youth)[^valent-2016]. Though he was the eldest son and accordingly the rightful heir to the family estate, he decided in 1882, when he was 23 years old, to give away his birthright to his younger brother and to devote himself entirely to philosophy, poetry, and music. At first Ehrenfels went to Vienna in 1877 to undertake agricultural studies, but in the winter semester 1879/80 he enrolled at the university where he began his studies in philosophy with Franz Brentano, Thomas Masaryk, and the young Alexius Meinong, while also attending lectures of Franz Exner, Ludwig Boltzmann, and Ernst Mach (Valent 2016, 179)[^valent-2016]. At the same time he also began to study composition with Anton Bruckner. As an enthusiastic follower of Richard Wagner he was to write librettos for Wagnerian-style music dramas. Ehrenfels then also links his loss of Christian faith to the start of his academic studies and the discovery of Wagner (Höfer 2017, 25)[^höfer-2017]. In 1882 Ehrenfels undertook a “pilgrimage” to Bayreuth in order to attend the first performance of Wagner’s *Parzifal*. This visit triggered both the end of his uncritical personal admiration of Wagner (though not of his art) and the insight that his own musical abilities were inadequate, ending his lessons with Bruckner (Höfer 2017, 26)[^höfer-2017].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      克里斯蒂安·尤利乌斯·利奥波德·卡尔·冯·埃伦费尔斯男爵（Christian Julius Leopold Karl, Freiherr von Ehrenfels）生于维也纳附近的罗道恩（Rodaun），在父亲位于布伦阿姆瓦尔德（Brunn am Walde）的城堡中长大（关于埃伦费尔斯青年时代的更多传记细节，见 Valent 2016）[^valent-2016]。他虽是长子，依例本应继承家产，却在 1882 年、23 岁那年决定把继承权让给弟弟，从此全心投入哲学、诗歌与音乐。埃伦费尔斯起初于 1877 年赴维也纳学习农学，但 1879/80 年冬季学期他考入大学，开始随弗朗兹·布伦塔诺、托马斯·马萨里克与年轻的亚历克修斯·迈农学习哲学，同时旁听弗朗茨·埃克斯纳、路德维希·玻尔兹曼与恩斯特·马赫的讲课（Valent 2016, 179）[^valent-2016]。与此同时，他还开始随安东·布鲁克纳学习作曲。作为理查德·瓦格纳的热忱追随者，他后来要为瓦格纳风格的乐剧撰写剧本。埃伦费尔斯还把自己的基督教信仰之丧失与学术生涯的开端以及对瓦格纳的发现联系在一起（Höfer 2017, 25）[^höfer-2017]。1882 年，埃伦费尔斯赴拜罗伊特“朝圣”，以参加瓦格纳《帕西法尔》（*Parzifal*）的首演。此行既终结了他对瓦格纳其人（而非其艺术）的无批判崇拜，也让他认识到自己的音乐才能有所不逮，于是终止了与布鲁克纳的课业（Höfer 2017, 26）[^höfer-2017]。
+    step2: |-
+      克里斯蒂安·尤利乌斯·利奥波德·卡尔·冯·埃伦费尔斯男爵（Christian Julius Leopold Karl, Freiherr von Ehrenfels）出生于维也纳近郊的罗道恩（Rodaun），在父亲的城堡——布伦阿姆瓦尔德（Brunn am Walde）——度过童年（其青年时代的传记细节，详见 Valent 2016）[^valent-2016]。身为长子，他本可顺理成章地继承家业，却在 1882 年、23 岁上做出决定：把继承权让给弟弟，一头扎进哲学、诗歌与音乐。1877 年他初到维也纳读的是农学；到 1879/80 年冬季学期，他考入大学，在弗朗兹·布伦塔诺、托马斯·马萨里克与青年亚历克修斯·迈农门下研习哲学，同时去听弗朗茨·埃克斯纳、路德维希·玻尔兹曼与恩斯特·马赫的课（Valent 2016, 179）[^valent-2016]。同一时期，他还随安东·布鲁克纳学作曲。他是理查德·瓦格纳的热忱信徒，日后打算为瓦格纳式乐剧撰写剧本。埃伦费尔斯自己把基督教信仰的丧失与学术生涯的开端、与发现瓦格纳联系在一起（Höfer 2017, 25）[^höfer-2017]。1882 年他专程“朝圣”拜罗伊特，赶赴瓦格纳《帕西法尔》（*Parzifal*）的首演。这趟旅程带来双重转折：既终结了他对瓦格纳其人（虽非其艺术）的无批判崇拜，也让他看清自己的音乐才能有限，就此停了布鲁克纳的课（Höfer 2017, 26）[^höfer-2017]。
   - id: 4
     kind: body
     source: |-
       As regards Ehrenfels’ philosophical pursuits, his interest in Brentano’s philosophy gave way to a receptivity to the ideas of Meinong, the new young lecturer who had also studied with Brentano, but who was already developing views of his own, particularly in the theory of relations, which diverged from Brentano’s orthodox teachings (see Rollinger 2008)[^rollinger-2008]. According to Ehrenfels’ later account, Brentano’s smooth and polished delivery did not impress him nearly as much as Meinong’s painstaking search for truth (Ehrenfels in PSIV, 426–429). Alois Höfler, another student who also preferred Meinong over Brentano (and likewise a Wagnerian), became a close friend of Ehrenfels after first meeting him in Brunn in 1876 (Valent 2016, 178)[^valent-2016]. Having started to lecture in Vienna only in 1878, Meinong was awarded a position in Graz in 1882, where Ehrenfels followed him in the winter semester of 1884/1885, after a year of military service. Ehrenfels wrote his dissertation on *Relations of Magnitude and Numbers. A Psychological Study* in Graz under Meinong’s guidance, likely based on an extensive commentary on Meinong’s 1882 article “Hume Studien II: zur Relationstheorie” (see Ierna 2017a, 165 and Ehrenfels 2017)[^ierna-2017a]. Ehrenfels returned to Vienna, where he completed his *Habilitation* (a second thesis, in addition to the doctoral thesis, in order to qualify for a teaching position) “On Feeling and Willing” (Ehrenfels 1887, in PSIII, 15–97)[^ehrenfels-1887][^ehrenfels-1887-2], in which he opposed the Brentanian doctrine concerning emotions and also laid down the psychological foundation for his later theory of value.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      就其哲学追求而言，埃伦费尔斯对布伦塔诺哲学的兴趣，渐渐让位于对迈农思想的接受。迈农是这位同样出身布伦塔诺门下的年轻新讲师，却已发展出自己的观点，尤其在关系理论上与布伦塔诺的正统教导分歧（见 Rollinger 2008）[^rollinger-2008]。按埃伦费尔斯晚年的说法，布伦塔诺流畅圆熟的讲授远不如迈农艰苦卓绝的求真那样打动他（Ehrenfels in PSIV, 426–429）。阿洛伊斯·赫夫勒（Alois Höfler）是另一位宁取迈农而舍布伦塔诺的学生（同样也是瓦格纳崇拜者），1876 年在布伦初遇埃伦费尔斯后成为其挚友（Valent 2016, 178）[^valent-2016]。迈农 1878 年才开始在维也纳讲课，1882 年在格拉茨获得职位；埃伦费尔斯服完一年兵役后，于 1884/1885 年冬季学期追随他到了格拉茨。埃伦费尔斯在格拉茨迈农的指导下写成学位论文《量度关系与数：一项心理学研究》（*Relations of Magnitude and Numbers. A Psychological Study*），其基础很可能是对迈农 1882 年论文《休谟研究 II：论关系理论》（“Hume Studien II: zur Relationstheorie”）的一篇长篇评注（见 Ierna 2017a, 165 与 Ehrenfels 2017）[^ierna-2017a]。此后埃伦费尔斯回到维也纳，完成了大学任教资格论文（*Habilitation*，即在博士论文之外为取得教书资格所作的第二篇论文）《论感受与意愿》（“On Feeling and Willing”；Ehrenfels 1887, in PSIII, 15–97）[^ehrenfels-1887][^ehrenfels-1887-2]，其中他反对布伦塔诺关于情感的学说，也为其后来的价值理论奠定了心理学基础。
+    step2: |-
+      在哲学取向上，埃伦费尔斯起初倾心布伦塔诺，后来兴趣转移，转向了迈农。这位年轻的新讲师虽也出师布伦塔诺，却已在发育自家的观点，尤其是在关系理论上偏离了老师的正统（见 Rollinger 2008）[^rollinger-2008]。照埃伦费尔斯后来的回忆，布伦塔诺讲得再流畅圆熟，也不及迈农那种苦求真理的执拗打动他（Ehrenfels in PSIV, 426–429）。阿洛伊斯·赫夫勒（Alois Höfler）同样舍布伦塔诺而取迈农（同样是瓦格纳迷），1876 年在布伦与埃伦费尔斯初识，此后成为至交（Valent 2016, 178）[^valent-2016]。迈农 1878 年方登维也纳讲坛，1882 年获格拉茨教职；埃伦费尔斯服完一年兵役，便于 1884/1885 年冬季学期追随而至。在格拉茨，他由迈农指导完成了学位论文《量度关系与数：一项心理学研究》（*Relations of Magnitude and Numbers. A Psychological Study*），其底本多半是对迈农 1882 年论文《休谟研究 II：论关系理论》的长篇评注（见 Ierna 2017a, 165 与 Ehrenfels 2017）[^ierna-2017a]。之后他返回维也纳，完成任教资格论文（*Habilitation*，博士论文之外为取得教职而提交的第二篇论文）《论感受与意愿》（“On Feeling and Willing”；Ehrenfels 1887, in PSIII, 15–97）[^ehrenfels-1887][^ehrenfels-1887-2]——文中既反对布伦塔诺的情感学说，也为自己日后的价值理论打下心理学根基。
   - id: 5
     kind: body
     source: |-
       Despite such opposition, it must not be overlooked that Ehrenfels’ basic orientation is unquestionably Brentanian, insofar as he never gives up thinking that consciousness is inwardly perceived and is directed at objects. He shares this psychological basis for philosophy with other prominent students of Brentano, such as Meinong, Carl Stumpf, Anton Marty, Edmund Husserl, Kasimir Twardowski, and Thomas Masaryk. In addition it should be pointed out that, though Ehrenfels did not accept Brentano’s own peculiar version of theism, he shared with Brentano a concern for the more “spiritual” side of things. There is, by contrast, hardly any trace of such a concern in the thought of Meinong.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管有这些反对，不应忽视的是，埃伦费尔斯的基本取向毫无疑义是布伦塔诺式的，因为他从未放弃如下想法：意识是内向地被知觉的，并且指向对象。他与布伦塔诺的其他著名弟子——如迈农、卡尔·斯图姆夫、安东·马蒂、埃德蒙德·胡塞尔、卡齐米日·特瓦尔多夫斯基与托马斯·马萨里克——共享这一作为哲学之基础的心理学立场。此外应当指出，埃伦费尔斯虽然不接受布伦塔诺本人那套独特的有神论，却与布伦塔诺共享一种对事物更“精神”一面的关切。相比之下，在迈农的思想中几乎看不到这种关切的任何痕迹。
+    step2: |-
+      尽管有这些反对声，有一点不容忽视：埃伦费尔斯的基本取向无疑仍是布伦塔诺式的——他始终认定，意识被内在地知觉到，并且指向对象。这一作为哲学地基的心理学立场，把他与布伦塔诺门下其他声名显赫的弟子连在一起：迈农、卡尔·斯图姆夫、安东·马蒂、埃德蒙德·胡塞尔、卡齐米日·特瓦尔多夫斯基、托马斯·马萨里克。还应指出，埃伦费尔斯虽不接受布伦塔诺本人那套独家的有神论，但与老师共享一份对事物“精神”面向的关切；这份关切在迈农的思想里却几乎无迹可寻。
   - id: 6
     kind: body
     source: |-
       Ehrenfels lectured in Vienna during the summer semesters from 1891, while travelling in the winter semesters. In 1894 he met the young widow Emma von Hartmann at a meeting of the *Academic Wagner Society* and married her in the same year. In 1896 he was awarded a position at the University of Prague (PSII, 21 ff.) where he would become a full professor in 1899 and, despite initial misgivings, remain until his retirement. This of course meant that he was a colleague of Marty (in large measure an orthodox follower of Brentano), who in fact found Ehrenfels’ non-cognitivist orientation in value theory completely reprehensible. When Ehrenfels supported hiring Höfler in Prague as a professor of pedagogy, this brought him into bitter conflict with Marty, who even ascribed “naive egoism” to him (Dölling 1999, 141; Valent 2016, 194; Janoušek and Rollinger 2017, 314)[^dölling-1999][^janoušek-2017][^valent-2016]. Ehrenfels maintained a close relationship with Meinong and, unlike Meinong himself and Höfler, managed to stay on good terms with Brentano. However much Ehrenfels drew upon ideas of Meinong or anyone else, however, he spent his years in Prague as an independent thinker and teacher. Both Franz Kafka, Felix Weltsch, and Max Brod were familiar with Ehrenfels as a teacher and found him to be a rather colorful and interesting figure (see also the quotation from Emma von Ehrenfels’ biographic sketch in PSII, 26).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      自 1891 年起，埃伦费尔斯夏季学期在维也纳讲课，冬季学期则外出游历。1894 年，他在“学术瓦格纳协会”（*Academic Wagner Society*）的一次聚会上结识年轻寡妇埃玛·冯·哈特曼（Emma von Hartmann），同年成婚。1896 年他获布拉格大学职位（PSII, 21 ff.），1899 年升任正教授，虽有起初的疑虑，仍在此任职直至退休。这自然意味着他成了马蒂的同事（马蒂在很大限度上是布伦塔诺的忠实追随者），而马蒂实际上认为埃伦费尔斯在价值理论中的非认知主义取向完全要不得。埃伦费尔斯支持聘赫夫勒到布拉格任教育学教授，这使他与马蒂发生激烈冲突，马蒂甚至把“幼稚利己主义”加在他头上（Dölling 1999, 141；Valent 2016, 194；Janoušek and Rollinger 2017, 314）[^dölling-1999][^janoušek-2017][^valent-2016]。埃伦费尔斯与迈农保持密切关系，并且不像迈农本人和赫夫勒那样，他与布伦塔诺也始终相处融洽。然而，无论埃伦费尔斯从迈农或他人那里汲取了多少思想，他在布拉格的岁月里始终是一位独立的思想者与教师。弗朗茨·卡夫卡、费利克斯·韦尔奇与马克斯·布罗德都熟识作为教师的埃伦费尔斯，觉得他是个相当多彩而有趣的人物（另见埃玛·冯·埃伦费尔斯生平小传中的引文，PSII, 26）。
+    step2: |-
+      从 1891 年起，埃伦费尔斯每逢夏季学期在维也纳授课，冬季学期则外出游历。1894 年，他在“学术瓦格纳协会”（*Academic Wagner Society*）的一次聚会上遇见年轻寡妇埃玛·冯·哈特曼（Emma von Hartmann），当年便结了婚。1896 年他获布拉格大学教职（PSII, 21 ff.），1899 年升正教授；尽管起初心存疑虑，他还是在这个位置上一直干到退休。这意味着他与马蒂成了同事——马蒂大体是布伦塔诺的忠实追随者——而在马蒂看来，埃伦费尔斯价值理论里的非认知主义取向简直一无是处。埃伦费尔斯又支持聘赫夫勒来布拉格当教育学教授，为此与马蒂闹得极僵，马蒂甚至说他“幼稚利己主义”（Dölling 1999, 141；Valent 2016, 194；Janoušek and Rollinger 2017, 314）[^dölling-1999][^janoušek-2017][^valent-2016]。埃伦费尔斯同迈农始终过从甚密；而且不像迈农和赫夫勒那样，他与布伦塔诺也一直保持良好关系。不过，无论从迈农或旁人那里吸取了多少东西，埃伦费尔斯在布拉格的岁月终究是以独立思想者和教师的身份度过的。弗朗茨·卡夫卡、费利克斯·韦尔奇、马克斯·布罗德都熟悉这位老师，觉得他是个颇有声色、引人入胜的人物（另见埃玛·冯·埃伦费尔斯所写生平小传中的引文，PSII, 26）。
   - id: 7
     kind: body
     source: |-
       As pessimism began to grow in the early twentieth century, Ehrenfels became increasingly concerned with reviving European culture (Valent 2016, § 9)[^valent-2016]. According to Max Brod, Ehrenfels’ *Cosmogony* “was a document of this generation [the ”Generation nevertheless“ (*Generation des Trotzdem*)], which for the first time embodied a mood of impending doom, tough without vanishing into fear” (quoted from Frechette 2017, 325). It is also in this context that he developed his ideas for reforming sexual ethics. In essence he advocated polygamy for the superior men, in order to increase the population of people with higher qualities. He was at the same time opposed to those who advocated racial purity and was instead all in favor of mixed races. He did not see Jews as a threat to the “Aryan race” and in fact acknowledged their great cultural achievements (PSIII, 262), although he did fear the “yellow peril” (see Ehrenfels 1908, Dickinson 2002)[^ehrenfels-1908][^dickinson-2002]. His proposal for a new sexual ethic in order to enhance the European stock was, however, not well received. As the years went on, Ehrenfels himself lost enthusiasm for it, but was instead more concerned with developing a new religion. He did not think that Christianity, with its demands for blind faith where reason could no longer be effective, was viable. The new religion was to be built upon a thoroughly scientific foundation, a rational dualistic principle of cosmogony, which also to a large extent drew upon the concept of *Gestalt* qualities that he had developed early in his career. It should also be mentioned here that Ehrenfels found the *Gestalt* concept to be fruitful in the domain of mathematics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      随着悲观情绪在二十世纪初蔓延，埃伦费尔斯越来越关心如何复兴欧洲文化（Valent 2016, § 9）[^valent-2016]。照马克斯·布罗德的说法，埃伦费尔斯的《宇宙发生论》（*Cosmogony*）“是这一代人的文献［即‘尽管如此’的一代（*Generation des Trotzdem*）］，这一代人第一次体现了一种大祸将至的心情，尽管这心情还不至于化为恐惧”（引自 Frechette 2017, 325）。也正是在这一语境中，他形成了改革性伦理的思想。其要点是为优等男性提倡一夫多妻制，以增加具有更高素质的人口。同时他反对那些鼓吹种族纯粹的人，反而完全赞成种族混血。他不认为犹太人对“雅利安种族”构成威胁，实际上承认他们伟大的文化成就（PSIII, 262），尽管他确实惧怕“黄祸”（见 Ehrenfels 1908, Dickinson 2002）[^ehrenfels-1908][^dickinson-2002]。然而，他为增进欧洲人种而提出的新性伦理方案并未获得多少响应。随着岁月流逝，埃伦费尔斯本人对它失去了热情，转而更关心创立一种新宗教。他认为基督教已难以为继——在理性不再能起作用的地方，它要求人们盲目信仰。新宗教要建立在彻底科学的基础之上，即一种理性主义的二元论宇宙发生原理，这在很大程度上也取材于他早年发展的格式塔质概念。这里还应提到，埃伦费尔斯发现格式塔概念在数学领域也颇多收获。
+    step2: |-
+      二十世纪初，悲观情绪日渐弥漫，埃伦费尔斯也日益把心思放在复兴欧洲文化上（Valent 2016, § 9）[^valent-2016]。用马克斯·布罗德的话说，埃伦费尔斯的《宇宙发生论》（*Cosmogony*）“是这一代人的文献［即‘尽管如此’的一代（*Generation des Trotzdem*）］：这一代人头一回把大难临头的心绪写进了自己的姿态，虽惊而不惧”（转引自 Frechette 2017, 325）。性伦理改革的构想正是在这一背景下成形。其核心主张是让优等男性实行一夫多妻，借以提高高素质人口的数量。与此同时，他反对鼓吹种族纯粹之辈，反而全力赞成种族融合。他不觉得犹太人对“雅利安种族”有何威胁，反倒承认其伟大的文化成就（PSIII, 262）；不过“黄祸”确实是他心头之忧（见 Ehrenfels 1908, Dickinson 2002）[^ehrenfels-1908][^dickinson-2002]。然而，这套为增强欧洲人种而设计的新性伦理并不受欢迎。年复一年，埃伦费尔斯自己对它也冷淡下来，转而倾注心力于创立新宗教。在他看来，基督教要求人在理性失效之处盲目信仰，这条路已走不通。新宗教必须建立在完全科学的基础之上——一个理性的二元论宇宙发生原理；这原理在很大程度上又取材于他早年提出的格式塔质概念。顺带一提，埃伦费尔斯还发现格式塔概念在数学领域同样多产。
   - id: 8
     kind: body
     source: |-
       Ehrenfels died just one year before Adolf Hitler, who was of course fanatical in advancing racial purity, came to power in Germany. Ehrenfels was thus spared the agony of seeing the prospect of western civilization becoming something diametrically opposed to his own vision. Unlike many philosophers of the twentieth century, however, it should be kept in mind that Ehrenfels indeed had a vision. In this regard he was more comparable to a Leibniz or a Hume as opposed to present-day specialists in the various fragmented domains of philosophical inquiry. Nevertheless, much of his philosophical work also exhibits detailed analysis and rigorous argumentation and may well be appreciated by contemporary philosophers who do not share his driving concerns.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      埃伦费尔斯去世的时间，恰好在阿道夫·希特勒于德国上台之前一年——而希特勒当然狂热推进种族纯粹。就此而言，埃伦费尔斯免受了亲眼目睹西方文明前景沦为与自己构想正相反对之物的痛苦。然而也应记住，与二十世纪的许多哲学家不同，埃伦费尔斯确实怀有一幅总体蓝图。就此而言，与其比作当今哲学探究各碎片化领域的专家，他更近于一位莱布尼茨或休谟。尽管如此，他的许多哲学著作同样显示出细致的分析与严格的论证，即便不认同其主导关怀的当代哲学家，也大可以欣赏这些成果。
+    step2: |-
+      埃伦费尔斯去世之年，恰在阿道夫·希特勒攫取德国政权的前一年——而后者推进种族纯粹之狂热，自不待言。他因此免去了亲眼目睹西方文明前景翻转为自家构想之反面的痛苦。不过应当记住：与二十世纪的许多哲学家不同，埃伦费尔斯确实有一幅总体构想。就此而言，与其把他比作当今哲学各碎片化领域的专家，不如比作一位莱布尼茨或休谟。话虽如此，他的许多哲学著作同样显示出细密的分析与严整的论证；即便不认同其主导关怀的当代哲学家，也完全可以欣赏。
   - id: 9
     kind: body
     source: |-
