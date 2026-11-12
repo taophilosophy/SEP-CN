@@ -225,9 +225,12 @@ outline: [1, 6]
 
 ### 经院哲学的兴盛
 
-#### 大阿尔伯特与托马斯主义
+#### 大阿尔伯特
 
 * [大阿尔伯特 Albert the Great (Bruno Tremblay)](a/albert-great.md)
+
+#### 托马斯主义
+
 * [托马斯·阿奎那 Thomas Aquinas (Robert Pasnau)](a/aquinas.md)
   * [托马斯·阿奎那的伦理学、政治哲学和法哲学 Aquinas’ Moral, Political, and Legal Philosophy (John Finnis)](a/aquinas-moral-political.md)
 * [罗马的吉尔斯 Giles of Rome (Roberto Lambertini)](g/giles.md)
