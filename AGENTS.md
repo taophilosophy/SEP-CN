@@ -40,15 +40,15 @@
 | 约束 | 要点 | 权威 |
 | ---- | ---- | ---- |
 | 知难行易 | 先明确方向与验收判据，再选手段；工具与文档篇幅都不是完成证据 | `rules/08-intent-first.md`、宪法 VII |
-| 零信任 | 既有中文译文不作底稿或修改依据；可疑处回 `en/`、`yuanwen/` 原文核对 | 宪法、ADR-0027 |
-| 主代理单干 | 禁止调用子代理；唯一例外是用户当轮显式批准并写明范围 | ADR-0034 |
+| 零信任 | 既有中文译文不作底稿或修改依据；可疑处回 `en/`、`yuanwen/` 核对；成品可回溯到英文源版本钉（pubinfo、存档版名、SHA-256） | 宪法、ADR-0027 |
+| 主代理单干 | 禁止调用子代理（`Agent`、`Task` 及 workflow 扇出）；唯一例外是用户当轮显式批准并写明范围 | ADR-0034 |
 | 单一事实源 | 结构 `SUMMARY.md`、术语 `yi-zhe-shuo-ming.md`、人名 `ren-ming-biao.md`、版本 `baseline/`、任务 `tasks/`；不一致时修弱势方 | ADR-0012 |
 | 流程先行 | 动笔前先建任务；先登记术语后使用；每步留 `evidence` | `rules/04`、`rules/03` |
-| 提交纪律 | 小步提交、中文一行信息、只提交相关文件、直接提交 main；推送前先 pull --rebase；积压线为途中不超过 1 条、收工清零 | `rules/06`、ADR-0026、ADR-0028 |
+| 提交纪律 | 小步提交、中文一行信息、只提交相关文件、直接提交 main；未经要求不 push、不 force；推送前先 pull --rebase；积压线途中不超过 1 条、收工清零 | `rules/06`、ADR-0026、ADR-0028 |
 | 抓取礼貌 | 相邻请求至少间隔 5 秒；4xx、5xx、超时退避重试并记录，禁止静默跳过 | `rules/05` |
-| 抓取完整性 | 词条包内被引用资产必须齐备；`tools/fetch_audit.py` 闭包迭代至不动点 | `tools/fetch_audit.py` |
+| 抓取完整性 | 词条包内被引用资产必须齐备；`tools/fetch_audit.py` 闭包迭代至不动点，缺件自动补抓 | `tools/fetch_audit.py` |
 | 更新流程 | `fetch_catalog` 检测漂移，`compare.py` 产出变更文件，转 update 任务（`changes:`），三校走变更段 | `specs/001-sep-sync-pipeline/contracts/cli.md` |
-| 结构形态 | 词条 `<letter>/<slug>.md`；`yuanwen/` 镜像逐字符一致 | `rules/01`、ADR-0009 |
+| 结构形态 | 词条 `<letter>/<slug>.md`，别名链目标、导航链 README；`yuanwen/<letter>/<slug>.md` 镜像逐字符一致 | `rules/01`、ADR-0009 |
 | 单体文件 | 叙事、规则、规格类 md 超 1000 行或 100 KB 必须按文件夹拆分（登记册与生成物豁免） | ADR-0004、`check_doc_size.py` |
 | 根目录白名单 | 根层只放白名单条目；散件归 `script/`（本地）、`state/`（运行态）或 `specs/<NNN>-*/` 的 `bin`、`results` 子目录；新增根级条目走 ADR | ADR-0023、`check_junk.py` |
 | 批量改写 | 写回前置门（残余不为 0 禁止写回）、幂等、逐行身份追踪、改写前强制基线还原 | `rules/05` |
@@ -56,4 +56,4 @@
 
 ## 现状与进度
 
-阶段、计数与主战场一律看 `PROGRESS.md`（`tools/progress.py` 生成）与 `specs/005-translation-campaign/session-handoff.md`（开工卡：status、next、claim）；**本文件不复制数字**（ADR-0015）。多机定岗与同步协议见 `rules/06-governance.md` 的多机并行一节。
+阶段、计数与主战场一律看 `PROGRESS.md`（`tools/progress.py` 生成）与 `specs/005-translation-campaign/session-handoff.md`（开工卡：status、next、claim）；**本文件不复制数字**（ADR-0015）。多机定岗与同步协议（各持独立克隆、只经 `origin/main` 同步）见 `rules/06-governance.md` 的多机并行一节。
