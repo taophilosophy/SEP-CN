@@ -2,7 +2,7 @@
   "slug": "informed-consent",
   "kind": "retranslate",
   "zh_doc": "i/informed-consent.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-11-12T11:04:30Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T15:00:26Z",
+      "evidence": "零信任重译完成：116 段账本 step1/step2 全填，compose 45221 字符，source 逐字节守恒（lq check OK）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T15:03:19Z",
+      "evidence": "一校：check_style --strict 0（中文强调改加粗并补空格 26 处）、check_prose 46→0、check_quotes 0；语体：学术语体，未用文言"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T15:03:19Z",
+      "evidence": "二校：check_academic --strict 通过（References 引用注释 100 条）、check_math 0、i_reconcile 五维全等；语体：学术语体，未用文言，术语随登记册"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T15:03:20Z",
+      "evidence": "三校：术语对齐登记册（决策能力/预先指示/人身侵害），24 术语 + 6 人名入册，硬错误 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T15:03:20Z",
+      "evidence": "审读一：第 2 节七大理据与原文逐段核对，Mill 主权引文与孔多塞类比复核；语体：学术语体，未用文言"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T15:03:20Z",
+      "evidence": "审读二：第 4–5 节披露/理解/自愿三要素与 Nuremberg Code 引文核对，统计与法条引用照录"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T15:03:22Z",
+      "evidence": "审读三：第 8–9 节地位与跨领域同意论证链复核，脚注 291 marker 全等"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T15:03:22Z",
+      "evidence": "收口：prose/style/quotes/math/academic/reconcile 全绿，任务 done，批次表登记"
     }
   ],
   "blockers": [],
