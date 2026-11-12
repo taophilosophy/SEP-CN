@@ -1268,7 +1268,7 @@ outline: [1, 6]
 
 * [变革性体验 transformative experience (Rebecca Chan)](t/transformative-experience.md)
 * [类型与个例 types and tokens (David Liebesman)](t/types-tokens.md)
-  * [变化与不一致 and inconsistency (Chris Mortensen)](c/change.md)
+  * [变化与不一致 Change and Inconsistency (Chris Mortensen)](c/change.md)
   * [动物主义 animalism (Stephan Blatti)](a/animalism.md)
 
 ### 时间与空间哲学

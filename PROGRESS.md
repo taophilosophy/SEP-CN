@@ -2,7 +2,11 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
+<<<<<<< HEAD
 生成时间：2026-11-11 23:39（UTC）
+=======
+生成时间：2026-11-12 01:55（UTC）
+>>>>>>> 48694d6ba (change 评审线收口 done：r3 五维全等，四检绿，mu-lu-s 标题随 SUMMARY 同步（分类目录门禁复绿）)
 
 ## 总览
 
@@ -15,28 +19,47 @@
 |已建任务|1183|
 |例行/维护任务（不计状态机）|2|
 |已完成（done）|355|
+<<<<<<< HEAD
 |在途（drafted 起、done 前）|187|
+=======
+|在途（drafted 起、done 前）|182|
+>>>>>>> 48694d6ba (change 评审线收口 done：r3 五维全等，四检绿，mu-lu-s 标题随 SUMMARY 同步（分类目录门禁复绿）)
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
+<<<<<<< HEAD
 |pending|641|
 |cleared|139|
 |drafted|2|
 |s1_checked|1|
 |s3_checked|44|
 |r1_reviewed|1|
+=======
+|pending|646|
+|cleared|136|
+|drafted|1|
+|s1_checked|1|
+|s2_checked|1|
+|s3_checked|43|
+>>>>>>> 48694d6ba (change 评审线收口 done：r3 五维全等，四检绿，mu-lu-s 标题随 SUMMARY 同步（分类目录门禁复绿）)
 |done|355|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
+<<<<<<< HEAD
 |A|160|160|160|58|
 |B|62|62|62|16|
 |C|172|172|172|24|
+=======
+|A|160|160|160|57|
+|B|62|62|62|17|
+|C|172|172|172|25|
+>>>>>>> 48694d6ba (change 评审线收口 done：r3 五维全等，四检绿，mu-lu-s 标题随 SUMMARY 同步（分类目录门禁复绿）)
 |D|92|92|92|21|
 |E|99|99|99|26|
 |F|96|96|96|5|
@@ -80,8 +103,11 @@
 |al-farabi-soc-rel|retranslate|cleared|task_ops 2026-10-31|
 |al-ghazali|retranslate|cleared|task_ops 2026-10-31|
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
+<<<<<<< HEAD
 |alexander|retranslate|s3_checked|A-main-20261112 2026-11-11|
 |aristotle-noncontradiction|retranslate|cleared|task_ops 2026-11-11|
+=======
+>>>>>>> 48694d6ba (change 评审线收口 done：r3 五维全等，四检绿，mu-lu-s 标题随 SUMMARY 同步（分类目录门禁复绿）)
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
 |beardsley-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |beauty|retranslate|cleared|task_ops 2026-11-01|
@@ -93,7 +119,6 @@
 |bentham|retranslate|cleared|task_ops 2026-11-01|
 |berkeley|retranslate|cleared|task_ops 2026-11-01|
 |berlin|retranslate|cleared|task_ops 2026-11-01|
-|bessarion|retranslate|s3_checked|B-main-20261109c 2026-11-09|
 |biodiversity|retranslate|cleared|task_ops 2026-11-01|
 |bioethics-latin-america|retranslate|cleared|task_ops 2026-11-01|
 |biology-developmental|retranslate|cleared|task_ops 2026-11-01|
@@ -117,7 +142,7 @@
 |brentano|retranslate|s3_checked|B-main-20261109b 2026-11-09|
 |brentano-judgement|retranslate|s3_checked|B-main-20261109b 2026-11-09|
 |broad|retranslate|cleared|task_ops 2026-11-01|
-|brouwer|retranslate|drafted|? 2026-11-01|
+|brouwer|retranslate|s3_checked|B-main-20261112 2026-11-11|
 |bruno|retranslate|cleared|task_ops 2026-11-01|
 |buber|retranslate|cleared|task_ops 2026-11-01|
 |buddha|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -129,7 +154,6 @@
 |butler-moral|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |byzantine-philosophy|retranslate|cleared|task_ops 2026-11-01|
 |cancer|retranslate|s3_checked|C-main-20261109b 2026-11-09|
-|change|retranslate|s3_checked|主代理 2026-11-01|
 |chinese-phil-science|retranslate|s3_checked|C-main-20261107 2026-11-07|
 |cloning|retranslate|s3_checked|CD-main-20261106 2026-11-06|
 |concept-emotion-india|retranslate|s3_checked|主代理 2026-11-01|
@@ -240,7 +264,11 @@
 |music|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |newton-stm|retranslate|cleared|task_ops 2026-11-11|
 |omnipotence|retranslate|cleared|task_ops 2026-11-10|
+<<<<<<< HEAD
 |quantum-bayesian|retranslate|s3_checked|Q-main-20261112 2026-11-11|
+=======
+|quantum-bayesian|retranslate|s2_checked|Q-main-20261112 2026-11-11|
+>>>>>>> 48694d6ba (change 评审线收口 done：r3 五维全等，四检绿，mu-lu-s 标题随 SUMMARY 同步（分类目录门禁复绿）)
 |repugnant-conclusion|retranslate|s1_checked|R-main-20261111 2026-11-11|
 |sign-language-semantics|retranslate|cleared|task_ops 2026-11-10|
 |tarski-truth|retranslate|cleared|task_ops 2026-11-08|
