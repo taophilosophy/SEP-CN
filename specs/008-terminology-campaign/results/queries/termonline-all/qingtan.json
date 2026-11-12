@@ -2,10 +2,151 @@
  "key": "qingtan",
  "term": "Qingtan",
  "provider": "termonline-all",
- "queried_at": "2026-11-11T17:07:12+00:00",
- "status": "error",
- "note": "variant=Qingtan; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Qingtan: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T00:29:58+00:00",
+ "status": "ok",
+ "note": "variant=Qingtan; 审定公布名词库=45; 海峡两岸名词对照库=3; 其他来源数据库=4; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "明堂",
+   "en": "mingtang",
+   "code": "03.0186",
+   "standard": "建筑学名词",
+   "subject": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)"
+  },
+  {
+   "cn": "厅堂式",
+   "en": "mansion-type structure,tingtang",
+   "code": "03.0011",
+   "standard": "建筑学名词",
+   "subject": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)"
+  },
+  {
+   "cn": "井干式",
+   "en": "log-cabin construction,jinggan",
+   "code": "03.0007",
+   "standard": "建筑学名词",
+   "subject": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)"
+  },
+  {
+   "cn": "清咽丸",
+   "en": "qingyan pills",
+   "code": "07.536",
+   "standard": "中医药学名词",
+   "subject": "中医药学_方剂学_中成药"
+  },
+  {
+   "cn": "青田石矿床",
+   "en": "Qingtian stone deposit",
+   "code": "14.13.063",
+   "standard": "地质学名词",
+   "subject": "地质学_矿床学_宝玉石矿床"
+  },
+  {
+   "cn": "龙潭组",
+   "en": "Longtan Formation",
+   "code": "07.04.532",
+   "standard": "地质学名词",
+   "subject": "地质学_地史学与地层学_岩石地层学"
+  },
+  {
+   "cn": "青山组",
+   "en": "Qingshan Formation",
+   "code": "07.04.723",
+   "standard": "地质学名词",
+   "subject": "地质学_地史学与地层学_岩石地层学"
+  },
+  {
+   "cn": "岭南园林",
+   "en": "Lingnan garden",
+   "code": "02.0042",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林史_中国"
+  },
+  {
+   "cn": "青云片",
+   "en": "qingyun slate",
+   "code": "08.0682",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林工程_风景园林假山"
+  },
+  {
+   "cn": "青白石",
+   "en": "qingbai marble",
+   "code": "08.1041",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林工程_风景园林材料"
+  },
+  {
+   "cn": "青黛散",
+   "en": "qingdai powder",
+   "code": "19.568",
+   "standard": "兽医学名词",
+   "subject": "兽医学_中兽医学"
+  },
+  {
+   "cn": "定安鹅",
+   "en": "Ding’an goose",
+   "code": "03.230",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_家畜家禽品种_鹅品种_地方鹅品种"
+  },
+  {
+   "cn": "青藏低槽",
+   "en": "Qinghai-Xizang trough",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "青藏高压",
+   "en": "Qinghai-Xizang Plateau high",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "青藏高原季风",
+   "en": "Qinghai-Xizang Plateau monsoon",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "上海合作组织青岛峰会",
+   "en": "SCO Qingdao Summit",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "青藏铁路精神",
+   "en": "the spirit of the Qinghai-Tibet Railway",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "“两路”精神",
+   "en": "the spirit of the “Two Roads” (the Sichuan-Tibet and Qinghai-Tibet Highway)",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "“三区三州”",
+   "en": "“Three Regions and Three Prefectures^ (Three Regions refers to the Tibet Autonomous Region, the Tibetan areas of Qinghai, Sichuan, Gansu, and Yunnan provinces, as well as Hetian, Aksu, Kashi, Kizilsu Kyrgyz in the south of Xinjiang Autonomous Region. Three Prefectures refers to Liangshan prefecture in Sichuan, Nujiang prefecture in Yunnan and Linxia prefecture in Gansu.)",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "青岛民族工作座谈会",
+   "en": "Qingdao Ethnic Work Symposium",
+   "code": "2.0055",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族理论_马克思主义民族理论中国化"
+  }
+ ],
+ "error": null,
  "raw": null
 }

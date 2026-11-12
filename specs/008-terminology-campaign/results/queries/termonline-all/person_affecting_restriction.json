@@ -1,0 +1,348 @@
+{
+ "key": "person-affecting restriction",
+ "term": "person-affecting restriction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T00:05:56+00:00",
+ "status": "ok",
+ "note": "variant=person-affecting restriction; 审定公布名词库=1892; 海峡两岸名词对照库=595; 其他来源数据库=157; 预公布名词数据库=163; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "情感",
+   "en": "affection",
+   "code": "2.191",
+   "standard": "睡眠医学名词",
+   "subject": "睡眠医学_睡眠生理与心理基础_睡眠心理基础"
+  },
+  {
+   "cn": "情感",
+   "en": "affection",
+   "code": "4.067",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为的心理学基础_情绪与行为"
+  },
+  {
+   "cn": "情感",
+   "en": "affection",
+   "code": "02.205",
+   "standard": "精神医学名词",
+   "subject": "精神医学_症状与体征_情感障碍症状"
+  },
+  {
+   "cn": "情感",
+   "en": "affection",
+   "code": "02.727",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "情感",
+   "en": "affect",
+   "code": "04.191",
+   "standard": "阿尔茨海默病名词",
+   "subject": "阿尔茨海默病_精神与心理认知学"
+  },
+  {
+   "cn": "限制",
+   "en": "restriction",
+   "code": "01.0061",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "情感失禁",
+   "en": "affective incontinence",
+   "code": "4.03",
+   "standard": "神经外科学名词",
+   "subject": "医学_神经外科学_神经系统疾病临床特征_症状"
+  },
+  {
+   "cn": "情感需求",
+   "en": "affection needs",
+   "code": "8.098",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_人际沟通_人际沟通意图"
+  },
+  {
+   "cn": "情感障碍",
+   "en": "affective disorder",
+   "code": "16.107",
+   "standard": "行为医学名词",
+   "subject": "行为医学_其他神经行为障碍_异常行为症状"
+  },
+  {
+   "cn": "情感迟钝",
+   "en": "affective blunting",
+   "code": "16.109",
+   "standard": "行为医学名词",
+   "subject": "行为医学_其他神经行为障碍_异常行为症状"
+  },
+  {
+   "cn": "情感平淡",
+   "en": "affective flattening",
+   "code": "16.11",
+   "standard": "行为医学名词",
+   "subject": "行为医学_其他神经行为障碍_异常行为症状"
+  },
+  {
+   "cn": "情感性精神病",
+   "en": "affective psychosis",
+   "code": "6.13",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "情感",
+   "en": "affection",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "限制",
+   "en": "restriction",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "相克",
+   "en": "restriction",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "内部级",
+   "en": "restricted",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "情感神经科学",
+   "en": "affective neuroscience",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "情感障碍",
+   "en": "affective disorder",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "情感性精神病",
+   "en": "affective psychosis",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "情感性预测",
+   "en": "affective forecasting",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "情感性特质",
+   "en": "affective trait",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "情感成分",
+   "en": "affective component",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "情感性承诺",
+   "en": "affective commitment",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "情意测验",
+   "en": "affective test",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "疫区",
+   "en": "affected area",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "专有词汇_场所名称"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "人格",
+   "en": "Personality",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "个人特点",
+   "en": "personality",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "限制酶",
+   "en": "restriction enzyme",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "旅行限制",
+   "en": "travel restrictions",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "理念举措_具体措施"
+  },
+  {
+   "cn": "心肌病",
+   "en": "restrictive cardiomyopathy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "禁区",
+   "en": "Restricted Area",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "限定空间",
+   "en": "restricted space",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "法人",
+   "en": "juridical person",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "自然人",
+   "en": "natural person",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "法人",
+   "en": "legal person",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "情感障碍",
+   "en": "affective disorder",
+   "code": "6.3.4",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题"
+  },
+  {
+   "cn": "情感反应",
+   "en": "affection reflection",
+   "code": "6.5.1.4.3.4",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务"
+  },
+  {
+   "cn": "个性",
+   "en": "personality",
+   "code": "2.5.9.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_心理行为发育"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "code": "3.0069999999999997",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医学伦理原则"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "code": "2.5.10",
+   "standard": "社会医学名词",
+   "subject": "医学模式"
+  },
+  {
+   "cn": "权力制约",
+   "en": "power restriction",
+   "code": "03.0772",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "职业限制",
+   "en": "occupational restriction",
+   "code": "11.6.2.2.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_健康保险_健康保险覆盖"
+  },
+  {
+   "cn": "广告限制",
+   "en": "advertising restriction ",
+   "code": "15.2.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_危害健康行为经济学_健康危害行为公共政策"
+  },
+  {
+   "cn": "限用物质",
+   "en": "restricted substance",
+   "code": "5.1.8.1.2",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_企业监管"
+  },
+  {
+   "cn": "受约束的比转换能",
+   "en": "restricted cema",
+   "code": "3.2.5.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量"
+  },
+  {
+   "cn": "限制口粮",
+   "en": "restricted rations",
+   "code": "7.5.1.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队营养与食品卫生_军用食品"
+  },
+  {
+   "cn": "代表性个人",
+   "en": "representative person",
+   "code": "6.1.5.8",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_一般要求"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

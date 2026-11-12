@@ -1,0 +1,348 @@
+{
+ "key": "recognition (ricoeur)",
+ "term": "recognition (Ricoeur)",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T00:41:58+00:00",
+ "status": "ok",
+ "note": "variant=recognition (Ricoeur); 审定公布名词库=220; 海峡两岸名词对照库=117; 其他来源数据库=17; 预公布名词数据库=14; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "识别",
+   "en": "recognition",
+   "code": "1.0249",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_总论"
+  },
+  {
+   "cn": "再认",
+   "en": "recognition",
+   "code": "4.034",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为的心理学基础_认知与行为"
+  },
+  {
+   "cn": "识别",
+   "en": "recognition",
+   "code": "02.166",
+   "standard": "生理学名词",
+   "subject": "生理学_细胞生理学"
+  },
+  {
+   "cn": "再认",
+   "en": "recognition",
+   "code": "02.559",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "识别",
+   "en": "recognition",
+   "code": "05.346",
+   "standard": "药学名词",
+   "subject": "药学_生物药学"
+  },
+  {
+   "cn": "识别",
+   "en": "recognition",
+   "code": "05.154",
+   "standard": "电子学名词",
+   "subject": "电子学_信息论与信号处理技术"
+  },
+  {
+   "cn": "语音识别",
+   "en": "voice recognition,speech recognition",
+   "code": "08.0433",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_模式识别"
+  },
+  {
+   "cn": "语音识别",
+   "en": "voice recognition; speech recognition",
+   "code": "16.221",
+   "standard": "农学名词",
+   "subject": "农业信息_农业信息技术"
+  },
+  {
+   "cn": "智能识别",
+   "en": "intelligent recognition",
+   "code": "16.218",
+   "standard": "农学名词",
+   "subject": "农业信息_农业信息技术"
+  },
+  {
+   "cn": "模式识别",
+   "en": "pattern recognition",
+   "code": "16.219",
+   "standard": "农学名词",
+   "subject": "农业信息_农业信息技术"
+  },
+  {
+   "cn": "图像识别",
+   "en": "image recognition",
+   "code": "16.222",
+   "standard": "农学名词",
+   "subject": "农业信息_农业信息技术"
+  },
+  {
+   "cn": "文字辨识",
+   "en": "character recognition",
+   "code": "04.03.075",
+   "standard": "档案学名词",
+   "subject": "档案学_档案文献编纂_档案文献编纂方法"
+  },
+  {
+   "cn": "再认",
+   "en": "recognition",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "识别",
+   "en": "recognition",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "识别",
+   "en": "recognition",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "识别",
+   "en": "recognition",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "面孔识别，人脸识别，面部识别",
+   "en": "face recognition\",\"facial recognition",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "轮廓识别",
+   "en": "contour recognition\",\"outline recognition",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "细胞识别",
+   "en": "cell recognition",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "识别蛋白",
+   "en": "recognition protein",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "识别反应",
+   "en": "recognition reaction",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "识别序列",
+   "en": "recognition sequence",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "图形识别",
+   "en": "pattern recognition",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "模式识别",
+   "en": "pattern recognition",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "生物特征识别",
+   "en": "biometric recognition",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "人脸识别",
+   "en": "face recognition",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "模式识别",
+   "en": "pattern recognition",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "识别序列",
+   "en": "recognition sequence",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子目标识别",
+   "en": "quantum target recognition",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "人脸识别支付",
+   "en": "face recognition payment",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "人像识别技术",
+   "en": "facial recognition technology",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "深度语音识别技术",
+   "en": "deep speech recognition technology",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "遥感图像识别",
+   "en": "remote sensing image recognition",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "虹膜识别门禁",
+   "en": "iris recognition access control",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "互信互认机制",
+   "en": "mutual recognition and mutual trust",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数字认证互认",
+   "en": "mutual recognition of digital certificates",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会承认",
+   "en": "social recognition",
+   "code": "2.1.5.19",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会生活"
+  },
+  {
+   "cn": "生物识别",
+   "en": "biological recognition",
+   "code": "1.2.57",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品完整性"
+  },
+  {
+   "cn": "承认政治",
+   "en": "politics of recognition",
+   "code": "3.6.4.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_政治社会学_公民权与公民参与"
+  },
+  {
+   "cn": "承认理论",
+   "en": "theory of recognition",
+   "code": "05.0044",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "抗原识别受体",
+   "en": "antigen recognition receptor",
+   "code": "1.3.4.8",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_抗原与抗体"
+  },
+  {
+   "cn": "模式识别受体",
+   "en": "pattern recognition receptor",
+   "code": "1.3.5.38",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_发病机制_炎症介质"
+  },
+  {
+   "cn": "模式识别受体",
+   "en": "pattern recognition receptor",
+   "code": "3.4.15",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物过敏"
+  },
+  {
+   "cn": "抗信号识别颗粒自身抗体",
+   "en": "anti-signal recognition particle autoantibody, anti-SRP autoantibody",
+   "code": "1.5.3.68",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体"
+  },
+  {
+   "cn": "认识",
+   "en": "cognition",
+   "code": "01.0155",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "社会认知",
+   "en": "social cognition",
+   "code": "4.1.7.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_社会认知"
+  },
+  {
+   "cn": "感性认识",
+   "en": "perceptual cognition",
+   "code": "01.0240",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "理性认识",
+   "en": "rational cognition",
+   "code": "01.0241",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

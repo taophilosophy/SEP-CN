@@ -2,10 +2,340 @@
  "key": "satisficing futures",
  "term": "satisficing futures",
  "provider": "termonline-all",
- "queried_at": "2026-11-11T19:29:53+00:00",
- "status": "error",
- "note": "variant=satisficing futures; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "satisficing futures: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T01:01:30+00:00",
+ "status": "ok",
+ "note": "variant=satisficing futures; 审定公布名词库=362; 海峡两岸名词对照库=124; 其他来源数据库=39; 预公布名词数据库=11; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "满意决策模型",
+   "en": "satisficing decision model",
+   "code": "04.0636",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_组织行为与人力资源管理_绩效管理"
+  },
+  {
+   "cn": "期货",
+   "en": "futures",
+   "code": "19.105",
+   "standard": "农学名词",
+   "subject": "农业经济与管理_农业市场与贸易"
+  },
+  {
+   "cn": "未来",
+   "en": "future",
+   "code": "06.0075",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_相对论"
+  },
+  {
+   "cn": "未来主义",
+   "en": "futurism",
+   "code": "03.0349",
+   "standard": "建筑学名词",
+   "subject": "建筑学_中外建筑历史_外国19~20世纪建筑"
+  },
+  {
+   "cn": "指向未来",
+   "en": "future pointing,future-pointing",
+   "code": "06.0118",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_相对论"
+  },
+  {
+   "cn": "棉花期货",
+   "en": "cotton futures",
+   "code": "04.050",
+   "standard": "农学名词",
+   "subject": "经济作物_纤维作物"
+  },
+  {
+   "cn": "期货交易",
+   "en": "futures trading",
+   "code": "19.106",
+   "standard": "农学名词",
+   "subject": "农业经济与管理_农业市场与贸易"
+  },
+  {
+   "cn": "期货市场",
+   "en": "futures market",
+   "code": "19.107",
+   "standard": "农学名词",
+   "subject": "农业经济与管理_农业市场与贸易"
+  },
+  {
+   "cn": "期货市场",
+   "en": "futures market",
+   "code": "04.052",
+   "standard": "经济学名词",
+   "subject": "经济学_宏观经济学"
+  },
+  {
+   "cn": "石油期货",
+   "en": "oil futures",
+   "code": "01.0133",
+   "standard": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "subject": "化工（一）_总论_技术经济"
+  },
+  {
+   "cn": "商品期货",
+   "en": "commodity futures",
+   "code": "07.0523",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_金融工程_产品与服务"
+  },
+  {
+   "cn": "期货基金",
+   "en": "futures fund",
+   "code": "07.0602",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_金融工程_产品与服务"
+  },
+  {
+   "cn": "期货",
+   "en": "futures",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "未来主义",
+   "en": "futurism",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "货币期货",
+   "en": "currency futures",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "商品期货",
+   "en": "commodity futures",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "金融期货",
+   "en": "financial future",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "期货价格",
+   "en": "future price",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "期货交易",
+   "en": "future business",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "①期货交易所 ②期货外汇",
+   "en": "future exchange",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "期货市场",
+   "en": "future market",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "远期交货，期货交割",
+   "en": "future delivery",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "指数期货",
+   "en": "index future",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "商品期货交易",
+   "en": "commodity futures trading",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "期货",
+   "en": "futures contract",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "未来互联网",
+   "en": "future Internet",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "未来法学家",
+   "en": "future jurist",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "未来法治",
+   "en": "future rule of law",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "命运共同体",
+   "en": "the community of shared future",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "命运共同体",
+   "en": "community with a common future",
+   "code": null,
+   "standard": "中央文献重要术语",
+   "subject": "其他"
+  },
+  {
+   "cn": "《JR/T 0016-2014 期货交易数据交换协议》",
+   "en": "JR/T 0016-2014 Futures trading data exchange protocol",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "网络空间命运共同体",
+   "en": "community with a shared future in cyberspace",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "周边命运共同体",
+   "en": "a neighborhood community with a shared future",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "《互联网合作的未来——蒙得维的亚声明》",
+   "en": "Montevideo Statement on the Future of Internet Cooperation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "共建面向未来的亚太伙伴关系",
+   "en": "jointly building the future-oriented Asia-Pacific partnership",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "构建人类命运共同体",
+   "en": "building a community with a shared future for humanity",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "人类命运共同体",
+   "en": "human community with a Shared Future",
+   "code": "03.0800",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "惩前毖后治病救人",
+   "en": "learn from past mistakes to avoid future ones cure the sickness to save the patient",
+   "code": "03.0482",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "标准培养物",
+   "en": "reference cultures",
+   "code": "1.5.51",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险监测"
+  },
+  {
+   "cn": "工作菌株",
+   "en": "working cultures",
+   "code": "1.5.54",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险监测"
+  },
+  {
+   "cn": "文化解释",
+   "en": "interpretations of cultures",
+   "code": "4.2.8.11",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_人类学理论"
+  },
+  {
+   "cn": "卫生服务产品特性",
+   "en": "features of health service products",
+   "code": "6.2.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场"
+  },
+  {
+   "cn": "卫生服务市场特征",
+   "en": "features of health service market",
+   "code": "6.2.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场"
+  },
+  {
+   "cn": "前现代高度文明的法",
+   "en": "law of pre-modern high cultures",
+   "code": "3.7.6.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_法律社会学_法律的演化"
+  },
+  {
+   "cn": "具有自身免疫特征的间质性肺炎",
+   "en": "interstitial pneumonia with autoimmune features，IPAF",
+   "code": "2.17.12",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_其他风湿免疫病"
+  },
+  {
+   "cn": "文化区系类型理论",
+   "en": "theory of regional typology of archaeological cultures",
+   "code": "1.0072",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "《西域同文志》",
+   "en": "A survey of Geography and Figures of the Western Region",
+   "code": "3.0271",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族文化"
+  }
+ ],
+ "error": null,
  "raw": null
 }

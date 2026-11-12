@@ -2,10 +2,165 @@
  "key": "scholastic quaestio",
  "term": "scholastic quaestio",
  "provider": "termonline-all",
- "queried_at": "2026-11-11T19:37:23+00:00",
- "status": "error",
- "note": "variant=scholastic quaestio; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "scholastic quaestio: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T01:01:30+00:00",
+ "status": "ok",
+ "note": "variant=scholastic quaestio; 审定公布名词库=44; 海峡两岸名词对照库=3; 其他来源数据库=1; 预公布名词数据库=6; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "学术性向测验",
+   "en": "scholastic aptitudetest,SAT",
+   "code": "05.072",
+   "standard": "教育学名词",
+   "subject": "教育学_比较教育_美国教育"
+  },
+  {
+   "cn": "经院经济思想",
+   "en": "scholastic economic thought",
+   "code": "14.042",
+   "standard": "经济学名词",
+   "subject": "经济学_经济思想史"
+  },
+  {
+   "cn": "学业评价测验",
+   "en": "Scholastic Assessment Test,SAT",
+   "code": "03.273",
+   "standard": "心理学名词",
+   "subject": "心理学_心理统计与测量"
+  },
+  {
+   "cn": "学习能力倾向测验",
+   "en": "scholastic aptitude test;SAT",
+   "code": "19.05",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为心理评估_心理评估_心理测验与测评"
+  },
+  {
+   "cn": "混合性学业技能障碍",
+   "en": "mixed scholastic skill disorder",
+   "code": "03.378",
+   "standard": "精神医学名词",
+   "subject": "精神医学_诊断分类_心理发育障碍"
+  },
+  {
+   "cn": "特定学业技能发育障碍",
+   "en": "develop-mental disorder of specific scholastic skill",
+   "code": "03.377",
+   "standard": "精神医学名词",
+   "subject": "精神医学_诊断分类_心理发育障碍"
+  },
+  {
+   "cn": "金元四家",
+   "en": "four scholastic sects of Jin-Yuan dynasties",
+   "code": "02.211",
+   "standard": "中医药学名词",
+   "subject": "中医药学_医史文献_医史文献其他"
+  },
+  {
+   "cn": "提问",
+   "en": "question",
+   "code": "4.065",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻采访"
+  },
+  {
+   "cn": "直接提问",
+   "en": "overt question",
+   "code": "4.068",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻采访"
+  },
+  {
+   "cn": "隐含提问",
+   "en": "implied question",
+   "code": "4.069",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻采访"
+  },
+  {
+   "cn": "激将法提问",
+   "en": "prodding question",
+   "code": "4.07",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻采访"
+  },
+  {
+   "cn": "试验性提问",
+   "en": "test question",
+   "code": "05.142",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息检索_检索技术与方法"
+  },
+  {
+   "cn": "学业评价测验",
+   "en": "Scholastic Assessment Test\",\"SAT",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "问题回答系统",
+   "en": "question answering system",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "基于知识的问答系统",
+   "en": "knowledge-based question answering system",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "李约瑟难题",
+   "en": "Needham's Grand Question",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "两分问题",
+   "en": "dichotomous question",
+   "code": "1.2.4.63",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "筛选问题",
+   "en": "filter question",
+   "code": "1.2.4.64",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "封闭式问题",
+   "en": "close-ended question",
+   "code": "1.2.4.57",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "多选问题",
+   "en": "multiple choice question",
+   "code": "1.2.4.60",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "具体问题具体分析",
+   "en": "concrete question concrete analysis",
+   "code": "01.0212",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  },
+  {
+   "cn": "跳出历史周期率的第二个答案",
+   "en": "the second answer to the question of how to escape the historical cycle of rise and fall",
+   "code": "03.0831",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
  "raw": null
 }

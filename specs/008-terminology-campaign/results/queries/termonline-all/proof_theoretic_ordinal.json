@@ -1,0 +1,348 @@
+{
+ "key": "proof-theoretic ordinal",
+ "term": "proof-theoretic ordinal",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T00:25:27+00:00",
+ "status": "ok",
+ "note": "variant=proof-theoretic ordinal; 审定公布名词库=981; 海峡两岸名词对照库=306; 其他来源数据库=28; 预公布名词数据库=23; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "序数词",
+   "en": "ordinal",
+   "code": "04.076",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "序数",
+   "en": "ordinal",
+   "code": "02.0176",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_集合论"
+  },
+  {
+   "cn": "纵坐标",
+   "en": "ordinate",
+   "code": "08.0211",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_解析几何学"
+  },
+  {
+   "cn": "排序",
+   "en": "ordination",
+   "code": "7.0481",
+   "standard": "动物学名词",
+   "subject": "动物学_动物生态学_群落生态学"
+  },
+  {
+   "cn": "排序",
+   "en": "ordination",
+   "code": "06.323",
+   "standard": "生态学名词",
+   "subject": "生态学_群落生态学"
+  },
+  {
+   "cn": "证明",
+   "en": "proof",
+   "code": "06.154",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_分析与推理"
+  },
+  {
+   "cn": "校样",
+   "en": "proof",
+   "code": "4.247",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻编辑"
+  },
+  {
+   "cn": "校样",
+   "en": "proof",
+   "code": "02.05.009",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_编辑_校对"
+  },
+  {
+   "cn": "证[明]",
+   "en": "proof",
+   "code": "01.0024",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "打样",
+   "en": "proofing ",
+   "code": "03.02.136",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_印刷_印前工艺"
+  },
+  {
+   "cn": "打样",
+   "en": "proofing",
+   "code": "04.355",
+   "standard": "测绘学名词",
+   "subject": "测绘学_地图学"
+  },
+  {
+   "cn": "顺序量表",
+   "en": "ordinal scaling",
+   "code": "04.312",
+   "standard": "测绘学名词",
+   "subject": "测绘学_地图学"
+  },
+  {
+   "cn": "有序的",
+   "en": "ordinal",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "纵坐标",
+   "en": "ordinate",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "纵坐标",
+   "en": "ordinate",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "排序",
+   "en": "ordination",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "排序",
+   "en": "ordination",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "证明",
+   "en": "proof",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "打样",
+   "en": "proofing",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "顺序变量",
+   "en": "ordinal variable",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "顺序量表",
+   "en": "ordinal scale",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "顺序数据",
+   "en": "ordinal data",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "顺序量表",
+   "en": "ordinal scaling",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "群落排序",
+   "en": "community ordination",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "新秩序",
+   "en": "Ordine Nuovo",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "类型论",
+   "en": "Proof assistant",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "理论科学范式",
+   "en": "theoretical science paradigm",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "零知识证明",
+   "en": "zero-knowledge proof",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "个人行程证明",
+   "en": "proof of travel; travel records ",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_社会治理"
+  },
+  {
+   "cn": "“七个强化”",
+   "en": "the “Seven Strengthening” (strengthening theoretical competence, the sense of mission, responsibility, work in poverty alleviation, the awareness of development, honesty and self-discipline, and organizational construction)",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "成键轨道",
+   "en": "Bonding orbital；Bonding molecular orbital",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "反键轨道",
+   "en": "Antibonding orbital",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "基数效用",
+   "en": "cardinal utility",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "大基数",
+   "en": "Ramsey cardinal",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "公转",
+   "en": "Orbital revolution",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "太空互联网",
+   "en": "Orbital Internet",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "定序尺度",
+   "en": "ordinal scale",
+   "code": "1.2.4.40",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "序数效用论",
+   "en": "ordinal utility",
+   "code": "4.2.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务需求_卫生服务消费者行为"
+  },
+  {
+   "cn": "理论抽样",
+   "en": "theoretical sampling",
+   "code": "1.2.1.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_方法论"
+  },
+  {
+   "cn": "理论创新",
+   "en": "theoretical innovation",
+   "code": "03.0679",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "理论实践",
+   "en": "theoretical practice",
+   "code": "05.0070",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "理论民俗学",
+   "en": "theoretical folkloristics",
+   "code": "4.0451",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_分支学科与研究领域"
+  },
+  {
+   "cn": "死亡证明",
+   "en": "death proof",
+   "code": "7.023",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_临终关怀与死亡伦理"
+  },
+  {
+   "cn": "门诊共济",
+   "en": "outpatient co-ordination",
+   "code": "11.6.4.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_健康保险_健康保险覆盖"
+  },
+  {
+   "cn": "营舍防潮",
+   "en": "barrack damp proof",
+   "code": "2.3.1.2.3.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事环境卫生_驻扎环境卫生"
+  },
+  {
+   "cn": "坑道防潮",
+   "en": "tunnel moisture proofing",
+   "code": "2.3.3.2.4",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事环境卫生_驻扎环境卫生"
+  },
+  {
+   "cn": "社会工作的理论基础",
+   "en": "the theoretical foundation of",
+   "code": "4.4.7.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作理论"
+  },
+  {
+   "cn": "中国特色社会主义理论体系",
+   "en": "socialist theoretical system with chinese characteristics",
+   "code": "03.0699",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

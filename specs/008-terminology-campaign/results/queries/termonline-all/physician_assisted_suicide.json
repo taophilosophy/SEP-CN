@@ -1,0 +1,348 @@
+{
+ "key": "physician-assisted suicide",
+ "term": "physician-assisted suicide",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T00:10:26+00:00",
+ "status": "ok",
+ "note": "variant=physician-assisted suicide; 审定公布名词库=898; 海峡两岸名词对照库=263; 其他来源数据库=99; 预公布名词数据库=169; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "自杀",
+   "en": "suicide",
+   "code": "7.062",
+   "standard": "行为医学名词",
+   "subject": "行为医学_健康相关行为_健康危害行为"
+  },
+  {
+   "cn": "自杀",
+   "en": "suicide",
+   "code": "02.265",
+   "standard": "精神医学名词",
+   "subject": "精神医学_症状与体征_自杀"
+  },
+  {
+   "cn": "自杀",
+   "en": "suicide",
+   "code": "10.056",
+   "standard": "医学名词 第六分册",
+   "subject": "医学_急诊医学"
+  },
+  {
+   "cn": "急救医生",
+   "en": "emergency physician",
+   "code": "01.028",
+   "standard": "急救医学名词",
+   "subject": "急救医学_急救概论_急救基本概念_急救人员"
+  },
+  {
+   "cn": "儒医",
+   "en": "Confucian physician",
+   "code": "08.066",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科技伦理_中国传统科技伦理"
+  },
+  {
+   "cn": "良医",
+   "en": "good physician",
+   "code": "08.067",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科技伦理_中国传统科技伦理"
+  },
+  {
+   "cn": "美容医师",
+   "en": "aesthetic physician",
+   "code": "10.010",
+   "standard": "医学美学与美容医学名词",
+   "subject": "医学美学与美容医学_其他"
+  },
+  {
+   "cn": "主治医师",
+   "en": "attending physician",
+   "code": "01.024",
+   "standard": "全科医学与社区卫生名词",
+   "subject": "全科医学与社区卫生_全科医学与社区卫生总论"
+  },
+  {
+   "cn": "太医",
+   "en": "palace physician",
+   "code": "02.185",
+   "standard": "中医药学名词",
+   "subject": "中医药学_医史文献_医史文献其他"
+  },
+  {
+   "cn": "自杀法",
+   "en": "suicide method",
+   "code": "11.0941",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术"
+  },
+  {
+   "cn": "自杀底物",
+   "en": "suicide substrate",
+   "code": "3.0102",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_酶_酶促反应及其机制_蛋白质结构及性质"
+  },
+  {
+   "cn": "自杀酶",
+   "en": "suicide enzyme",
+   "code": "3.0751",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_酶_核酶及其他_易位酶"
+  },
+  {
+   "cn": "自杀",
+   "en": "suicide",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "自杀意念",
+   "en": "suicidal idea\",\"suicidal ideation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "突发变故型自杀",
+   "en": "anomic suicide",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "自杀预防",
+   "en": "suicide prevention",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "自杀基因",
+   "en": "suicide gene",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "自杀基因",
+   "en": "suicide gene",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "自杀底物",
+   "en": "suicide substrate",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "自杀法",
+   "en": "suicide method",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "自杀酶",
+   "en": "suicide enzyme",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "自杀法",
+   "en": "suicide method",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "自杀行为",
+   "en": "suicidal behavior",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "自杀未遂",
+   "en": "suicidal attempt",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "助攻",
+   "en": "assist",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "助攻",
+   "en": "assist",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "助攻",
+   "en": "assist",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "助杀",
+   "en": "assist",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "助攻",
+   "en": "assist",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_篮球名词"
+  },
+  {
+   "cn": "助手",
+   "en": "assistant",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "助手",
+   "en": "assistant",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "助手",
+   "en": "assistant",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "助手",
+   "en": "assistant",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "腺样体肥大",
+   "en": "Wilhelm Meyer (physician)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数字化助手",
+   "en": "digital assistant",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "量刑辅助",
+   "en": "sentencing assistance",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "医师",
+   "en": "physician",
+   "code": "4.003",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医疗人际关系"
+  },
+  {
+   "cn": "自杀",
+   "en": "suicide",
+   "code": "13.3.2",
+   "standard": "社会医学名词",
+   "subject": "社会病"
+  },
+  {
+   "cn": "自杀论",
+   "en": "Suicide",
+   "code": "1.0528",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "自杀",
+   "en": "suicide",
+   "code": "7.007999999999999",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_临终关怀与死亡伦理"
+  },
+  {
+   "cn": "医生行为",
+   "en": "physician behavior",
+   "code": "14.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_医生与医院行为_医生行为"
+  },
+  {
+   "cn": "医师权利",
+   "en": "physician right",
+   "code": "4.004",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医疗人际关系"
+  },
+  {
+   "cn": "自杀未遂",
+   "en": "attempted suicide",
+   "code": "13.3.2.3",
+   "standard": "社会医学名词",
+   "subject": "社会病"
+  },
+  {
+   "cn": "青少年自杀",
+   "en": "adolescent suicide",
+   "code": "3.3.2.2.1.6",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测"
+  },
+  {
+   "cn": "青少年自杀",
+   "en": "adolescent suicide",
+   "code": "8.3.5",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_伤害与暴力_针对儿童的暴力"
+  },
+  {
+   "cn": "自杀计划",
+   "en": "suicide plan",
+   "code": "13.3.2.2",
+   "standard": "社会医学名词",
+   "subject": "社会病"
+  },
+  {
+   "cn": "自杀意念",
+   "en": "suicide ideation",
+   "code": "13.3.2.1",
+   "standard": "社会医学名词",
+   "subject": "社会病"
+  },
+  {
+   "cn": "自杀预防",
+   "en": "suicide prevention",
+   "code": "13.3.2.5",
+   "standard": "社会医学名词",
+   "subject": "社会病"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

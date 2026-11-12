@@ -2,10 +2,291 @@
  "key": "propositional attitude",
  "term": "propositional attitude",
  "provider": "termonline-all",
- "queried_at": "2026-11-11T16:40:10+00:00",
- "status": "error",
- "note": "variant=propositional attitude; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "propositional attitude: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T00:25:27+00:00",
+ "status": "ok",
+ "note": "variant=propositional attitude; 审定公布名词库=522; 海峡两岸名词对照库=257; 其他来源数据库=4; 预公布名词数据库=56; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "命题态度",
+   "en": "propositional attitudes",
+   "code": "03.520",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学"
+  },
+  {
+   "cn": "命题",
+   "en": "proposition",
+   "code": "01.0014",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "code": "02.0937",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_程序理论"
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "code": "02.540",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "命题函数",
+   "en": "propositional function",
+   "code": "02.0025",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "code": "02.0022",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "命题μ演算",
+   "en": "propositional μ-calculus",
+   "code": "02.0934",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_程序理论"
+  },
+  {
+   "cn": "全称命题",
+   "en": "universal proposition",
+   "code": "03.075",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_意义标准"
+  },
+  {
+   "cn": "命题语料库",
+   "en": "proposition bank",
+   "code": "08.0499",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_计算语言学"
+  },
+  {
+   "cn": "直言命题",
+   "en": "categorical proposition",
+   "code": "08.0119",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_自动推理"
+  },
+  {
+   "cn": "价值主张",
+   "en": "value proposition",
+   "code": "08.0294",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_市场营销_营销战略"
+  },
+  {
+   "cn": "米勒–莫迪利安尼定理",
+   "en": "MillerModigliani proposition",
+   "code": "06.0558",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_会计_公司财务"
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "命题逻辑",
+   "en": "propositional logic",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "归纳命题",
+   "en": "inductive proposition",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "态度",
+   "en": "attitude",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "姿态",
+   "en": "attitude",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "姿态",
+   "en": "attitude",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "姿态",
+   "en": "attitude",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "内隐态度",
+   "en": "implicit attitude",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "品牌态度",
+   "en": "brand attitude",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "双重态度",
+   "en": "dual attitude",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "态度量表",
+   "en": "Attitude Scale",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "命题",
+   "en": "proposition",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "阿提秋",
+   "en": "attitude",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "海拔",
+   "en": "altitude",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "高海拔宇宙线观测站",
+   "en": "Large High Air Altitude Shower Observatory",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "态度",
+   "en": "attitude",
+   "code": "4.1.15.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_社会态度"
+  },
+  {
+   "cn": "态度测量",
+   "en": "attitude measurement",
+   "code": "1.2.4.45",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "社会态度",
+   "en": "social attitude",
+   "code": "4.1.15.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_社会态度"
+  },
+  {
+   "cn": "态度形成",
+   "en": "attitude formation",
+   "code": "4.1.15.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_社会态度"
+  },
+  {
+   "cn": "态度改变",
+   "en": "attitude change",
+   "code": "4.1.15.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_社会态度"
+  },
+  {
+   "cn": "健康态度",
+   "en": "health attitude",
+   "code": "5.8.3.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育与健康促进评价"
+  },
+  {
+   "cn": "语言态度",
+   "en": "language attitude",
+   "code": "5.0175",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_语言状况与规划"
+  },
+  {
+   "cn": "自然本体论态度",
+   "en": "natural ontological attitude",
+   "code": "03.194",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向"
+  },
+  {
+   "cn": "妇幼健康态度",
+   "en": "woman and child health attitude",
+   "code": "9.1.1.2",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇幼健康教育与健康促进_妇幼健康教育"
+  },
+  {
+   "cn": "发展两岸关系促进祖国和平统一的八项主张",
+   "en": "eight propositions on the developing the crossstrait relations and promoting the peaceful reunification of the motherland",
+   "code": "04.0189",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期"
+  },
+  {
+   "cn": "海拔高度",
+   "en": "altitude",
+   "code": "3.2.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_寒区军事卫生_环境冷强度"
+  },
+  {
+   "cn": "高空缺氧",
+   "en": "altitude hypoxia",
+   "code": "11.1.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_航空和航天医学_航空医学"
+  }
+ ],
+ "error": null,
  "raw": null
 }

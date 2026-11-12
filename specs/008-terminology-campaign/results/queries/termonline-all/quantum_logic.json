@@ -2,10 +2,347 @@
  "key": "quantum logic",
  "term": "quantum logic",
  "provider": "termonline-all",
- "queried_at": "2026-11-11T17:19:13+00:00",
- "status": "error",
- "note": "variant=quantum logic; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "quantum logic: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T00:34:28+00:00",
+ "status": "ok",
+ "note": "variant=quantum logic; 审定公布名词库=1109; 海峡两岸名词对照库=310; 其他来源数据库=148; 预公布名词数据库=13; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "量子逻辑",
+   "en": "quantum logic",
+   "code": "06.0815",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子信息"
+  },
+  {
+   "cn": "量子逻辑",
+   "en": "quantum logic",
+   "code": "12.0056",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_量子计算与量子信息学"
+  },
+  {
+   "cn": "量子逻辑门",
+   "en": "quantum logic gate",
+   "code": "06.0816",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子信息"
+  },
+  {
+   "cn": "量子逻辑门",
+   "en": "quantum logic gate",
+   "code": "12.0029",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_量子计算与量子信息学"
+  },
+  {
+   "cn": "不分明量子逻辑",
+   "en": "unsharp quantum logic",
+   "code": "12.0063",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_量子计算与量子信息学"
+  },
+  {
+   "cn": "量子动态逻辑",
+   "en": "quantum dynamic logic",
+   "code": "12.0118",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_量子计算与量子信息学"
+  },
+  {
+   "cn": "分明量子逻辑",
+   "en": "sharp quantum logic",
+   "code": "12.0057",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_量子计算与量子信息学"
+  },
+  {
+   "cn": "基于量子逻辑的量子有限自动机",
+   "en": "quantum logic based quantum finite automata",
+   "code": "12.0021",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_量子计算与量子信息学"
+  },
+  {
+   "cn": "概率量子霍尔逻辑",
+   "en": "probabilistic quantum Hoare logic",
+   "code": "12.0117",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_量子计算与量子信息学"
+  },
+  {
+   "cn": "基于分明量子逻辑的量子有限自动机",
+   "en": "sharp quantum logic based quantum finite automata",
+   "code": "12.0022",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_量子计算与量子信息学"
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "code": "03.065",
+   "standard": "医学影像技术学名词",
+   "subject": "医学影像技术学_数字X射线成像技术_数字影像学基础"
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "code": "06.0373",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "量子产额（=量子产率）",
+   "en": "quantum yield",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "量子产率，量子产额",
+   "en": "quantum yield",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "量子[式]进化",
+   "en": "quantum evolution",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "量子效率",
+   "en": "quantum efficiency",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "量子需求量",
+   "en": "quantum requirement",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "量子理论",
+   "en": "quantum theory",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "量子效应",
+   "en": "quantum effect",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "量子微腔",
+   "en": "quantum microcavity",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "量子线",
+   "en": "quantum wire",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "量子效率",
+   "en": "quantum efficiency",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "量子宇宙",
+   "en": "quantum universe",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子马尔可夫链",
+   "en": "Quantum probability",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子化学",
+   "en": "Quantum chemistry",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子退火",
+   "en": "Quantum annealing",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子退相干",
+   "en": "Quantum decoherence",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子涨落",
+   "en": "quantum fluctuation。",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子光学",
+   "en": "Quantum optics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子计算机",
+   "en": "Quantum computer",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子科技",
+   "en": "Quantum Technology",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子力学",
+   "en": "quantum mechanics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子引力",
+   "en": "quantum gravity",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子效应",
+   "en": "quantum effect",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "思辨逻辑",
+   "en": "speculative logic",
+   "code": "01.0101",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "抽象逻辑思维",
+   "en": "abstract logic thinking",
+   "code": "2.5.5.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_心理行为发育"
+  },
+  {
+   "cn": "先逻辑思维",
+   "en": "pre-logical thinking",
+   "code": "1.0534",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "放射性同位素测井",
+   "en": "radioisotope log",
+   "code": "6.5.4.25",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用"
+  },
+  {
+   "cn": "杀灭对数值",
+   "en": "killing log value",
+   "code": "6.2.20",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "灭活对数值",
+   "en": "inactivation log value",
+   "code": "6.2.21",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "对数线性模型",
+   "en": "log-linear model",
+   "code": "1.2.5.107",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "杀灭对数值",
+   "en": "killing log value",
+   "code": "4.4.63",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品安全风险管理_食品生产规范"
+  },
+  {
+   "cn": "对数罗杰斯蒂克模型",
+   "en": "Log-Logistic model",
+   "code": "1.4.4.80",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "测井中子发生器",
+   "en": "neutron generator for well logging",
+   "code": "8.2.11",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生监管_工业及其他应用监管"
+  },
+  {
+   "cn": "油气田测井",
+   "en": "oil and natural gas field for well logging",
+   "code": "8.2.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生监管_工业及其他应用监管"
+  },
+  {
+   "cn": "对数单位",
+   "en": "logit",
+   "code": "1.2.5.102",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  }
+ ],
+ "error": null,
  "raw": null
 }

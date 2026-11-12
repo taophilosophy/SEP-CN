@@ -2,10 +2,347 @@
  "key": "retentive faculty",
  "term": "retentive faculty",
  "provider": "termonline-all",
- "queried_at": "2026-11-11T18:35:49+00:00",
- "status": "error",
- "note": "variant=retentive faculty; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "retentive faculty: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T00:49:29+00:00",
+ "status": "ok",
+ "note": "variant=retentive faculty; 审定公布名词库=1113; 海峡两岸名词对照库=257; 其他来源数据库=81; 预公布名词数据库=50; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "学部",
+   "en": "faculty",
+   "code": "08.066",
+   "standard": "教育学名词",
+   "subject": "教育学_高等教育_系科、学科"
+  },
+  {
+   "cn": "融合功能",
+   "en": "fusion faculty",
+   "code": "16.076",
+   "standard": "光学名词",
+   "subject": "光学_显示技术"
+  },
+  {
+   "cn": "官能心理学",
+   "en": "faculty psychology",
+   "code": "04.099",
+   "standard": "心理学名词",
+   "subject": "心理学_理论心理学与心理学史"
+  },
+  {
+   "cn": "教授评议会",
+   "en": "faculty senate",
+   "code": "05.081",
+   "standard": "教育学名词",
+   "subject": "教育学_比较教育_美国教育"
+  },
+  {
+   "cn": "融合力",
+   "en": "fusion faculty",
+   "code": "06.012",
+   "standard": "医学名词 第五分册",
+   "subject": "医学_眼科学_斜视与弱视"
+  },
+  {
+   "cn": "大学教师职务",
+   "en": "college faculty ranks",
+   "code": "09.198",
+   "standard": "教育学名词",
+   "subject": "教育学_教师教育_教师管理"
+  },
+  {
+   "cn": "生师比",
+   "en": "student-faculty ratio",
+   "code": "08.149",
+   "standard": "教育学名词",
+   "subject": "教育学_高等教育_高等学校管理"
+  },
+  {
+   "cn": "保留",
+   "en": "retention",
+   "code": "2.232",
+   "standard": "核科学技术名词",
+   "subject": "核科学技术_核化学与放射化学_核化学"
+  },
+  {
+   "cn": "保持",
+   "en": "retention",
+   "code": "4.032",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为的心理学基础_认知与行为"
+  },
+  {
+   "cn": "截留",
+   "en": "retention",
+   "code": "03.310",
+   "standard": "化工名词（六）生物化工",
+   "subject": "化工（六）_生物反应工程与生物反应器_酶催化反应_酶"
+  },
+  {
+   "cn": "渗余物",
+   "en": "retentate",
+   "code": "03.0961",
+   "standard": "化工名词(三)化学工程基础",
+   "subject": "化工（三）_传递过程与单元操作"
+  },
+  {
+   "cn": "滞留",
+   "en": "retention",
+   "code": "02.0559",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学相关基础学科_放射防护与剂量学"
+  },
+  {
+   "cn": "官能心理学",
+   "en": "faculty psychology",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "渗余物",
+   "en": "retentate",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "截留，保留",
+   "en": "retention",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "保持",
+   "en": "retention",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "保留",
+   "en": "retention",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "滞留",
+   "en": "retention",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "持水量",
+   "en": "retention storage",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "保留周期",
+   "en": "retention period",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "保留体积",
+   "en": "retention volume",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "保留时间",
+   "en": "retention time",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "选择性记忆",
+   "en": "selective retention",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "保持曲线",
+   "en": "retention curve",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "《紧急通信与互联网数据保留法案》（英国）",
+   "en": "Emergency Communications and Internet Data Retention Act (UK)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "感受野",
+   "en": "Receptive field",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "预防措施",
+   "en": "preventive measures",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "理念举措_具体措施"
+  },
+  {
+   "cn": "设施管理",
+   "en": "Facility Management",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "智能设施",
+   "en": "Intelligent Facility",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "设施平台",
+   "en": "Facility Platform",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "跳跃运动区",
+   "en": "jumping facility",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "违例",
+   "en": "fault",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_沙滩排球名词"
+  },
+  {
+   "cn": "犯规",
+   "en": "fault",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "犯规！",
+   "en": "Fault!",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "违例",
+   "en": "fault",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "违例",
+   "en": "fault",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "理解力",
+   "en": "comprehension faculty",
+   "code": "8.4.2.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价"
+  },
+  {
+   "cn": "滞留",
+   "en": "retention",
+   "code": "6.3.2.11",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢"
+  },
+  {
+   "cn": "滞留份额",
+   "en": "retention fraction",
+   "code": "6.3.2.36",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢"
+  },
+  {
+   "cn": "滞留函数",
+   "en": "retention function",
+   "code": "6.3.2.37",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢"
+  },
+  {
+   "cn": "尿潴留",
+   "en": "urinary retention",
+   "code": "1.4.2.3.22",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_症状与体征_症状"
+  },
+  {
+   "cn": "胎盘滞留",
+   "en": "placenta retention",
+   "code": "3.5.3.39",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_孕产期保健"
+  },
+  {
+   "cn": "风险自留",
+   "en": "risk retention",
+   "code": "1.3.15",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险分析"
+  },
+  {
+   "cn": "终点保存期",
+   "en": "endpoint retention period",
+   "code": "3.1.4.4.6",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "食品留样",
+   "en": "food retention sample",
+   "code": "4.1.4.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应"
+  },
+  {
+   "cn": "产后体重滞留",
+   "en": "postpartum weight retention",
+   "code": "6.1.4.8",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇女营养"
+  },
+  {
+   "cn": "本顿视觉保留",
+   "en": "Benton visual retention",
+   "code": "6.1.4.2.1.6",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事作业医学_军事作业生理学"
+  },
+  {
+   "cn": "室温留样法",
+   "en": "room temperature retention method",
+   "code": "6.1.15.7.1",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_理化检验"
+  }
+ ],
+ "error": null,
  "raw": null
 }

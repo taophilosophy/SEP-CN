@@ -2,10 +2,88 @@
  "key": "quaternion",
  "term": "quaternion",
  "provider": "termonline-all",
- "queried_at": "2026-11-11T17:22:13+00:00",
- "status": "error",
- "note": "variant=quaternion; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "quaternion: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T00:34:28+00:00",
+ "status": "ok",
+ "note": "variant=quaternion; 审定公布名词库=5; 海峡两岸名词对照库=0; 其他来源数据库=6; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "四元数",
+   "en": "quaternion",
+   "code": "04.0506",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_域·多项式"
+  },
+  {
+   "cn": "四元数群",
+   "en": "quaternion group",
+   "code": "04.1813",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_群论"
+  },
+  {
+   "cn": "四元数可除代数",
+   "en": "quaternion division algebra",
+   "code": "04.0507",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_域·多项式"
+  },
+  {
+   "cn": "广义四元数群",
+   "en": "generalized quaternion group",
+   "code": "04.1814",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_群论"
+  },
+  {
+   "cn": "广义四元数环",
+   "en": "generalized quaternion ring",
+   "code": "04.1324",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_结合环"
+  },
+  {
+   "cn": "虚数",
+   "en": "Dual quaternion",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "有理数",
+   "en": "Dual quaternion",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "序数",
+   "en": "Dual quaternion",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数",
+   "en": "Dual quaternion",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "循环小数",
+   "en": "Dual quaternion",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "负数",
+   "en": "Dual quaternion",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
  "raw": null
 }

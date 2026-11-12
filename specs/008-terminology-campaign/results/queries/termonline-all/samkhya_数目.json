@@ -2,10 +2,347 @@
  "key": "samkhya（数目）",
  "term": "saṃkhyā（数目）",
  "provider": "termonline-all",
- "queried_at": "2026-11-11T19:17:52+00:00",
- "status": "error",
- "note": "variant=saṃkhyā（数目）; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "saṃkhyā（数目）: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T00:56:59+00:00",
+ "status": "ok",
+ "note": "variant=saṃkhyā（数目）; 审定公布名词库=1476; 海峡两岸名词对照库=472; 其他来源数据库=137; 预公布名词数据库=91; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "数目放大",
+   "en": "numbering-up",
+   "code": "04.0305",
+   "standard": "化工名词(三)化学工程基础",
+   "subject": "化工（三）_化学反应工程"
+  },
+  {
+   "cn": "数目畸变",
+   "en": "numerical aberration",
+   "code": "01.131",
+   "standard": "医学名词 第三分册",
+   "subject": "医学_医学遗传学"
+  },
+  {
+   "cn": "命中数目图",
+   "en": "hit count plot",
+   "code": "01.1908",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震反演"
+  },
+  {
+   "cn": "着色数目问题",
+   "en": "chromatic number problem",
+   "code": "02.0774",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_算法设计与分析"
+  },
+  {
+   "cn": "河流数目定律",
+   "en": "law of stream number",
+   "code": "05.048",
+   "standard": "地理学名词",
+   "subject": "地理学_水文学"
+  },
+  {
+   "cn": "抗Sa抗体",
+   "en": "anti-Sa antibody",
+   "code": "2.329",
+   "standard": "免疫学名词",
+   "subject": "免疫学_免疫系统_免疫分子"
+  },
+  {
+   "cn": "染色体数目畸变",
+   "en": "chromosome numerical aberration",
+   "code": "03.019",
+   "standard": "男科及性医学名词",
+   "subject": "男科及性医学_生殖系统遗传"
+  },
+  {
+   "cn": "染色体数目畸变",
+   "en": "chromosome nume-rical aberration",
+   "code": "10.016",
+   "standard": "生殖医学名词",
+   "subject": "生殖医学_生殖遗传"
+  },
+  {
+   "cn": "染色体数目畸变",
+   "en": "chromosome numerical aberration",
+   "code": "07.353",
+   "standard": "药学名词",
+   "subject": "药学_药理学"
+  },
+  {
+   "cn": "运动单位数目估计",
+   "en": "motor unit number estimation,MUNE",
+   "code": "05.186",
+   "standard": "神经病学名词",
+   "subject": "神经病学_神经病诊断技术_临床肌电图学"
+  },
+  {
+   "cn": "可变数目串联重复序列",
+   "en": "variable number tandem repeat;VNTR",
+   "code": "10.1",
+   "standard": "生殖医学名词",
+   "subject": "生殖医学_生殖遗传"
+  },
+  {
+   "cn": "可变数目串联重复序列",
+   "en": "variable number of tandem repeat;VNTR",
+   "code": "4.29",
+   "standard": "血液学名词",
+   "subject": "血液学_常用检查_血液病理检测_分子生物学检测相关"
+  },
+  {
+   "cn": "着色数目问题",
+   "en": "chromatic number problem",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "拷贝数目变异",
+   "en": "copy number variation\",\"CNV",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "河流数目定律",
+   "en": "law of stream number",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "抗Sa抗体",
+   "en": "anti-Sa antibody",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "可变数目串联重复",
+   "en": "variable number tandem repeat\",\"VNTR",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "Sa型星系",
+   "en": "Sa galaxy",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "目",
+   "en": "order",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "目",
+   "en": "order",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "目",
+   "en": "order",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "目",
+   "en": "order",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "亚目",
+   "en": "suborder",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "筛目",
+   "en": "mesh",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "可变数目串联重复序列",
+   "en": "Variable number tandem repeat",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "目",
+   "en": null,
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "木贼目",
+   "en": "Famennian",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "编目",
+   "en": null,
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "吏目",
+   "en": null,
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "孔目",
+   "en": null,
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "目系",
+   "en": null,
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "蜚蠊目",
+   "en": null,
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "项目",
+   "en": null,
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "条目",
+   "en": null,
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "亚目",
+   "en": null,
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "直翅目",
+   "en": "Romalea microptera",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "抗Sa抗体",
+   "en": "anti-Sa antibody",
+   "code": "1.5.3.27",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体"
+  },
+  {
+   "cn": "土目",
+   "en": "Tumu",
+   "code": "3.0209",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族政治"
+  },
+  {
+   "cn": "项目组",
+   "en": "project team",
+   "code": "2.5.13.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念群体和组织"
+  },
+  {
+   "cn": "目脑节",
+   "en": "Munao Festival",
+   "code": "4.0182",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "条目池",
+   "en": "item bank",
+   "code": "5.4.1.1",
+   "standard": "社会医学名词",
+   "subject": "生命质量"
+  },
+  {
+   "cn": "目标追踪",
+   "en": "pursuit aiming",
+   "code": "6.1.4.2.1.7",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事作业医学_军事作业生理学"
+  },
+  {
+   "cn": "目测法",
+   "en": "ocular estimate",
+   "code": "6.2.30.9",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "组织目标",
+   "en": "organizational target",
+   "code": "2.5.9.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_群体和组织_组织结构"
+  },
+  {
+   "cn": "按条目预算",
+   "en": "line-item budget",
+   "code": "10.2.15",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度"
+  },
+  {
+   "cn": "患者援助项目",
+   "en": "patient assistance program,PAP",
+   "code": "13.3.5.2.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_药物经济学_药品政策与规制"
+  },
+  {
+   "cn": "目标强化",
+   "en": "targeted food fortification",
+   "code": "4.1.2.1.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应"
+  },
+  {
+   "cn": "卫生项目评价",
+   "en": "health project evaluation",
+   "code": "8.12.2",
+   "standard": "社会医学名词",
+   "subject": "卫生服务研究"
+  }
+ ],
+ "error": null,
  "raw": null
 }

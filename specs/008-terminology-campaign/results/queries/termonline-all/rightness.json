@@ -2,10 +2,347 @@
  "key": "rightness",
  "term": "rightness",
  "provider": "termonline-all",
- "queried_at": "2026-11-11T18:43:20+00:00",
- "status": "error",
- "note": "variant=rightness; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "rightness: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T00:49:29+00:00",
+ "status": "ok",
+ "note": "variant=rightness; 审定公布名词库=776; 海峡两岸名词对照库=315; 其他来源数据库=167; 预公布名词数据库=56; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "右半肝切除术",
+   "en": "right hemihepatectomy;right hepatectomy",
+   "code": "20.242",
+   "standard": "普通外科学名词",
+   "subject": "医学_普通外科学_肝外科"
+  },
+  {
+   "cn": "右半结肠切除术",
+   "en": "right hemicolectomy",
+   "code": "19.210",
+   "standard": "普通外科学名词",
+   "subject": "医学_普通外科学_结直肠与腹膜后肿瘤外科"
+  },
+  {
+   "cn": "右半肝",
+   "en": "right hemiliver",
+   "code": "20.003",
+   "standard": "普通外科学名词",
+   "subject": "医学_普通外科学_肝外科"
+  },
+  {
+   "cn": "右三叶肝切除术",
+   "en": "right trisectionectomy",
+   "code": "20.248",
+   "standard": "普通外科学名词",
+   "subject": "医学_普通外科学_肝外科"
+  },
+  {
+   "cn": "品种权",
+   "en": "variety right",
+   "code": "09.0213",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林植物_风景园林植物遗传育种"
+  },
+  {
+   "cn": "产权",
+   "en": "property right",
+   "code": "19.219",
+   "standard": "农学名词",
+   "subject": "农业经济与管理_农业制度经济"
+  },
+  {
+   "cn": "赤经",
+   "en": "right ascension",
+   "code": "02.043",
+   "standard": "天文学名词",
+   "subject": "天文学_天体测量学"
+  },
+  {
+   "cn": "环境权利",
+   "en": "environmental right",
+   "code": "04.208",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_技术哲学_环境哲学"
+  },
+  {
+   "cn": "患者权利",
+   "en": "patient rights",
+   "code": "08.113",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科技伦理_医学伦理学"
+  },
+  {
+   "cn": "右心房",
+   "en": "right atrium",
+   "code": "01.139",
+   "standard": "麻醉学名词",
+   "subject": "麻醉学_麻醉学基础_循环系统_心血管系统解剖"
+  },
+  {
+   "cn": "右心室",
+   "en": "right ventricle",
+   "code": "01.140",
+   "standard": "麻醉学名词",
+   "subject": "麻醉学_麻醉学基础_循环系统_心血管系统解剖"
+  },
+  {
+   "cn": "动物权利",
+   "en": "animal rights",
+   "code": "05.124",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医公共卫生学"
+  },
+  {
+   "cn": "右板",
+   "en": "right lamina\",\"right plate",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "复原力臂",
+   "en": "righting arm\",\"righting lever",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "右部",
+   "en": "right part",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "右肺",
+   "en": "right lung",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "右肝",
+   "en": "right liver",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "右脚",
+   "en": "right crus",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "右肾",
+   "en": "right kidney",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "右心耳",
+   "en": "right auricle",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "右心房",
+   "en": "right atrium",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "右心室",
+   "en": "right ventricle",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "右叶",
+   "en": "right lobe",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "右缘",
+   "en": "right margin",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "扶正",
+   "en": "right",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "摆平",
+   "en": "right",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_皮划艇名词"
+  },
+  {
+   "cn": "右边锋",
+   "en": "outside right\",\"right winger",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "右手拳",
+   "en": "right\",\"right-hand blow",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "右前卫",
+   "en": "inside right\",\"right halfback",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "生育权",
+   "en": "reproductive rights",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "直角三角形",
+   "en": "right triangle",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "排污权",
+   "en": "emission right",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "水权",
+   "en": "water right",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数权",
+   "en": "Data Rights",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "宪法权利",
+   "en": "constitutional rights",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "民事权利",
+   "en": "civil rights",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "权利",
+   "en": "rights",
+   "code": "03.0138",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "民权",
+   "en": "civil rights",
+   "code": "1.1.2.11",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想"
+  },
+  {
+   "cn": "性权利",
+   "en": "sex right",
+   "code": "3.3.6.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性社会学_性的多元论"
+  },
+  {
+   "cn": "业主维权",
+   "en": "homeowners rights",
+   "code": "3.4.13.18",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_城市社会学_中国现代城市"
+  },
+  {
+   "cn": "社会权利",
+   "en": "social right",
+   "code": "4.3.1.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题"
+  },
+  {
+   "cn": "新右派",
+   "en": "new right",
+   "code": "4.3.3.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会政策对象及领域"
+  },
+  {
+   "cn": "权利平等",
+   "en": "equal rights",
+   "code": "03.0139",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "code": "03.0150",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "法权",
+   "en": "legal rights",
+   "code": "05.0157",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外经济学理论"
+  },
+  {
+   "cn": "语言权",
+   "en": "language rights",
+   "code": "5.0167",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_语言状况与规划"
+  },
+  {
+   "cn": "医师权利",
+   "en": "physician right",
+   "code": "4.004",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医疗人际关系"
+  },
+  {
+   "cn": "健康权",
+   "en": "health right",
+   "code": "1.1.8.6",
+   "standard": "社会医学名词",
+   "subject": "社会医学概述"
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -1,0 +1,264 @@
+{
+ "key": "refugee",
+ "term": "refugee",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T00:41:58+00:00",
+ "status": "ok",
+ "note": "variant=refugee; 审定公布名词库=64; 海峡两岸名词对照库=14; 其他来源数据库=59; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "难民",
+   "en": "refugee",
+   "code": "05.018",
+   "standard": "急救医学名词",
+   "subject": "急救医学_灾难医学_基本概念_通用概念"
+  },
+  {
+   "cn": "巴勒斯坦难民",
+   "en": "Palestine Refugee",
+   "code": "04.0422",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_西亚"
+  },
+  {
+   "cn": "侨人",
+   "en": "qiao ren;Northern emigré or refugee household",
+   "code": "4.241",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_魏晋南北朝_社会经济_身份户丁"
+  },
+  {
+   "cn": "乞活",
+   "en": "qi huo;people begging for sur-vive;refugees",
+   "code": "4.065",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_魏晋南北朝_政治_治乱兴衰"
+  },
+  {
+   "cn": "联合国难民事务高级专员公署",
+   "en": "Office of United Nations High Commissioner for Refugees,UNHCR",
+   "code": "01.0493",
+   "standard": "世界历史名词",
+   "subject": "世界历史_综合_国家集团、国际组织"
+  },
+  {
+   "cn": "荆襄流民起义",
+   "en": "Jing Xiang liu min qi yi;uprising of the Jingxiang refugees",
+   "code": "8.017",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_明清_政治_治乱兴衰大事"
+  },
+  {
+   "cn": "救助站",
+   "en": "refuge",
+   "code": "02.0126",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑类型及组成_办公建筑"
+  },
+  {
+   "cn": "避难所",
+   "en": "refuge",
+   "code": "01.0209",
+   "standard": "古生物学名词",
+   "subject": "古生物学_总论"
+  },
+  {
+   "cn": "庇护所",
+   "en": "refuge,shelter",
+   "code": "03.364",
+   "standard": "林学名词",
+   "subject": "林学_森林生态、湿地与自然保护区_自然保护区"
+  },
+  {
+   "cn": "庇护所",
+   "en": "refuge,refugium",
+   "code": "13.068",
+   "standard": "生态学名词",
+   "subject": "生态学_保护生态学"
+  },
+  {
+   "cn": "拒借",
+   "en": "refuse",
+   "code": "07.155",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息服务与用户研究_外借服务"
+  },
+  {
+   "cn": "矸石",
+   "en": "refuse",
+   "code": "01.011",
+   "standard": "煤炭科学技术名词",
+   "subject": "煤炭科学技术_煤炭科技总论"
+  },
+  {
+   "cn": "外逃资金",
+   "en": "refugee fund",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "庇护所",
+   "en": "refuge",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "庇护所",
+   "en": "refuge\",\"refugium",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "庇护所",
+   "en": "refuge\",\"refugium",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "矸石",
+   "en": "refuse",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "庇护所策略",
+   "en": "refuge strategy",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "野生生物保护区",
+   "en": "wildlife refuge",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "捕食庇护所",
+   "en": "predation refuge",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "野生生物保护区系统",
+   "en": "wildlife refuge system",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "避难港",
+   "en": "port of refuge",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "废物坑",
+   "en": "refuse pit",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "有机废物",
+   "en": "organic refuse",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "裁判员",
+   "en": "referee",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "裁判",
+   "en": "referee",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "场上裁判员",
+   "en": "referee",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "裁判员",
+   "en": "referee",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "裁判员",
+   "en": "referee",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_手球名词"
+  },
+  {
+   "cn": "裁判",
+   "en": "referee",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "场上裁判员",
+   "en": "referee",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "裁判员",
+   "en": "referee",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_水球名词"
+  },
+  {
+   "cn": "裁判",
+   "en": "referee",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "裁判长",
+   "en": "referee",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "裁判长",
+   "en": "referee",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跳水名词"
+  },
+  {
+   "cn": "裁判员",
+   "en": "referee",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

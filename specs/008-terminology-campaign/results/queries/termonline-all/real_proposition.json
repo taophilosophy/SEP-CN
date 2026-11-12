@@ -1,0 +1,348 @@
+{
+ "key": "real proposition",
+ "term": "real proposition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T00:37:28+00:00",
+ "status": "ok",
+ "note": "variant=real proposition; 审定公布名词库=1460; 海峡两岸名词对照库=346; 其他来源数据库=51; 预公布名词数据库=65; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "命题",
+   "en": "proposition",
+   "code": "01.0014",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "全称命题",
+   "en": "universal proposition",
+   "code": "03.075",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_意义标准"
+  },
+  {
+   "cn": "命题语料库",
+   "en": "proposition bank",
+   "code": "08.0499",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_计算语言学"
+  },
+  {
+   "cn": "直言命题",
+   "en": "categorical proposition",
+   "code": "08.0119",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_自动推理"
+  },
+  {
+   "cn": "价值主张",
+   "en": "value proposition",
+   "code": "08.0294",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_市场营销_营销战略"
+  },
+  {
+   "cn": "米勒–莫迪利安尼定理",
+   "en": "MillerModigliani proposition",
+   "code": "06.0558",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_会计_公司财务"
+  },
+  {
+   "cn": "命题演算",
+   "en": "proposition calculus",
+   "code": "11.097",
+   "standard": "语言学名词",
+   "subject": "语言学_计算语言学_形式化方法"
+  },
+  {
+   "cn": "逆命题",
+   "en": "converse proposition",
+   "code": "01.0016",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "否命题",
+   "en": "negative proposition",
+   "code": "01.0015",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "命题态度",
+   "en": "propositional attitudes",
+   "code": "03.520",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学"
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "code": "02.0937",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_程序理论"
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "code": "02.540",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "归纳命题",
+   "en": "inductive proposition",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "命题逻辑",
+   "en": "propositional logic",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "即时",
+   "en": "real time",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "实际大气",
+   "en": "real atmosphere",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "真实组成",
+   "en": "real composition",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "真实气体",
+   "en": "real gas",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "实际阶段",
+   "en": "real stage",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "真动",
+   "en": "real movement",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "实际成本",
+   "en": "real cost",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "实际负债",
+   "en": "real liability",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "命题",
+   "en": "proposition",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "物权",
+   "en": "real right",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "实数",
+   "en": "real number",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "实时",
+   "en": "Real time (media)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "实时映射",
+   "en": "real-time mapping",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "实时多媒体",
+   "en": "real-time multimedia",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "实时处理",
+   "en": "real-time processing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "新实体经济",
+   "en": "new real economy",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "不动产众筹",
+   "en": "real estate crowdfunding",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "实网演练",
+   "en": "real network drill",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "实时定价",
+   "en": "real-time pricing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "实时发布",
+   "en": "real-time updates",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_百姓生活"
+  },
+  {
+   "cn": "实在规则",
+   "en": "real rule",
+   "code": "3.7.6.17",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_法律社会学_法律的演化"
+  },
+  {
+   "cn": "现实的个人",
+   "en": "real individual",
+   "code": "01.0135",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "实际工资",
+   "en": "real wage",
+   "code": "02.0146",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "实体整合",
+   "en": "real integration",
+   "code": "8.1.2.5.7",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生资源配置_卫生资源配置"
+  },
+  {
+   "cn": "实时荧光聚合酶链反应",
+   "en": "real-time polymerase chain reaction, real-time qPCR",
+   "code": "2.1.1.69",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品生物性危害因素"
+  },
+  {
+   "cn": "实时荧光聚合酶链反应",
+   "en": "real-time fluorescence PCR",
+   "code": "4.1.5.12",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射生物效应及其机制"
+  },
+  {
+   "cn": "卫生总费用实际值",
+   "en": "real value of total health expenditure",
+   "code": "2.1.5",
+   "standard": "卫生经济学名词",
+   "subject": "卫生总费用"
+  },
+  {
+   "cn": "实际补偿比",
+   "en": "actual compensation ratio，real compensation ratio",
+   "code": "11.6.4.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_健康保险_健康保险覆盖"
+  },
+  {
+   "cn": "发展两岸关系促进祖国和平统一的八项主张",
+   "en": "eight propositions on the developing the crossstrait relations and promoting the peaceful reunification of the motherland",
+   "code": "04.0189",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期"
+  },
+  {
+   "cn": "共付比",
+   "en": "co-pay proportion",
+   "code": "11.4.4",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_健康保险_健康保险费用分担机制"
+  },
+  {
+   "cn": "高比例母乳喂养",
+   "en": "high-proportion breastfeeding",
+   "code": "6.2.2.6",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇幼营养_儿童营养"
+  },
+  {
+   "cn": "中等比例母乳喂养",
+   "en": "medium-proportion breastfeeding",
+   "code": "6.2.2.7",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇幼营养_儿童营养"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

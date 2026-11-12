@@ -2,10 +2,347 @@
  "key": "quantum computation",
  "term": "quantum computation",
  "provider": "termonline-all",
- "queried_at": "2026-11-11T17:14:43+00:00",
- "status": "error",
- "note": "variant=quantum computation; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "quantum computation: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T00:34:28+00:00",
+ "status": "ok",
+ "note": "variant=quantum computation; 审定公布名词库=1578; 海峡两岸名词对照库=510; 其他来源数据库=412; 预公布名词数据库=31; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "量子计算",
+   "en": "quantum computation",
+   "code": "02.076",
+   "standard": "光学名词",
+   "subject": "光学_非线性光学与量子光学"
+  },
+  {
+   "cn": "量子计算",
+   "en": "quantum computation",
+   "code": "12.0001",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_量子计算与量子信息学"
+  },
+  {
+   "cn": "量子计算机",
+   "en": "quantum computer",
+   "code": "03.634",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_信息哲学"
+  },
+  {
+   "cn": "量子计算机",
+   "en": "quantum computer",
+   "code": "02.077",
+   "standard": "光学名词",
+   "subject": "光学_非线性光学与量子光学"
+  },
+  {
+   "cn": "量子计算",
+   "en": "quantum computing",
+   "code": "06.0810",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子信息"
+  },
+  {
+   "cn": "量子计算机",
+   "en": "quantum computer",
+   "code": "06.0809",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子信息"
+  },
+  {
+   "cn": "量子计算机",
+   "en": "quantum computer",
+   "code": "01.0046",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_通论_计算机系统类型"
+  },
+  {
+   "cn": "量子并行计算",
+   "en": "quantum parallel computation",
+   "code": "06.0813",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子信息"
+  },
+  {
+   "cn": "绝热量子计算",
+   "en": "adiabatic quantum computation",
+   "code": "12.0014",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_量子计算与量子信息学"
+  },
+  {
+   "cn": "几何量子计算",
+   "en": "geometric quantum computation",
+   "code": "12.0012",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_量子计算与量子信息学"
+  },
+  {
+   "cn": "拓扑量子计算",
+   "en": "topological quantum computation",
+   "code": "12.0013",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_量子计算与量子信息学"
+  },
+  {
+   "cn": "分布式量子计算",
+   "en": "distributed quantum computation",
+   "code": "12.0017",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_量子计算与量子信息学"
+  },
+  {
+   "cn": "量子计算机",
+   "en": "quantum computer",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "计算机",
+   "en": "computer",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "量子产额（=量子产率）",
+   "en": "quantum yield",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "量子产率，量子产额",
+   "en": "quantum yield",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "量子[式]进化",
+   "en": "quantum evolution",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "量子效率",
+   "en": "quantum efficiency",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "量子需求量",
+   "en": "quantum requirement",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "量子理论",
+   "en": "quantum theory",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "量子效应",
+   "en": "quantum effect",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "量子计算机",
+   "en": "Quantum computer",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子计算",
+   "en": "Quantum Computing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子计算机",
+   "en": "quantum computer",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子智能计算",
+   "en": "quantum intelligence computing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "拓扑量子计算",
+   "en": "topological quantum computing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "超导量子计算",
+   "en": "superconducting quantum computing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "光学量子计算",
+   "en": "optical quantum computing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子计算网络",
+   "en": "quantum computing network",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "四极离子阱",
+   "en": "Trapped ion quantum computer",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子计算实验室（阿里巴巴）",
+   "en": "Quantum Computing Laboratory (Alibaba)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "离子阱量子计算",
+   "en": "trapped ion quantum computing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子计算云平台（阿里巴巴）",
+   "en": "Quantum Computing Cloud Platform (Alibaba)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "电脑组件",
+   "en": "computer components",
+   "code": "9.3.1.3.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生"
+  },
+  {
+   "cn": "电脑桌面",
+   "en": "computer desktop",
+   "code": "9.3.1.3.4",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生"
+  },
+  {
+   "cn": "计算暴露评估",
+   "en": "computational exposure assessment",
+   "code": "1.4.4.36",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "计算机X射线摄影",
+   "en": "computed radiography，CR",
+   "code": "6.4.2.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  },
+  {
+   "cn": "计算机体层成像",
+   "en": "computed tomography，CT",
+   "code": "6.4.2.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  },
+  {
+   "cn": "工业计算机断层成像",
+   "en": "industrial computed tomography",
+   "code": "6.5.2.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_工业应用的放射防护_工业探伤应用"
+  },
+  {
+   "cn": "电脑椅座面",
+   "en": "computer chair seat",
+   "code": "9.3.1.3.5",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生"
+  },
+  {
+   "cn": "电脑椅靠背",
+   "en": "computer chair back",
+   "code": "9.3.1.3.6",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生"
+  },
+  {
+   "cn": "计算毒理学",
+   "en": "computational toxicology, in silico",
+   "code": "1.4.2.58",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "发射计算机体层成像",
+   "en": "emission computed tomography，ECT",
+   "code": "6.4.3.11",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_核医学"
+  },
+  {
+   "cn": "电脑使用卫生要求",
+   "en": "hygiene of computer use",
+   "code": "9.3.1.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生"
+  },
+  {
+   "cn": "计算机自适应测试",
+   "en": "computer-adaptive test, CAT",
+   "code": "5.3.3.3.1",
+   "standard": "社会医学名词",
+   "subject": "生命质量"
+  }
+ ],
+ "error": null,
  "raw": null
 }

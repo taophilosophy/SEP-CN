@@ -1,0 +1,61 @@
+{
+ "key": "samtana",
+ "term": "saṃtāna",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T00:56:59+00:00",
+ "status": "ok",
+ "note": "variant=saṃtāna; 审定公布名词库=4; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "K+Na+交换",
+   "en": "K + Na + exchange",
+   "code": "04.387",
+   "standard": "兽医学名词",
+   "subject": "兽医学_动物生理学"
+  },
+  {
+   "cn": "H+Na+交换",
+   "en": "H + Na + exchange",
+   "code": "04.388",
+   "standard": "兽医学名词",
+   "subject": "兽医学_动物生理学"
+  },
+  {
+   "cn": "抗Sa抗体",
+   "en": "anti-Sa antibody",
+   "code": "2.329",
+   "standard": "免疫学名词",
+   "subject": "免疫学_免疫系统_免疫分子"
+  },
+  {
+   "cn": "<img src='/root/syzx/static/spz/shengli2.Na+.png'/>-葡萄糖共转运体",
+   "en": "<img src='/root/syzx/static/spz/shengli2.Na+.png'/>-glucose cotransporter",
+   "code": "02.104",
+   "standard": "生理学名词",
+   "subject": "生理学_细胞生理学"
+  },
+  {
+   "cn": "抗Sa抗体",
+   "en": "anti-Sa antibody",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "Sa型星系",
+   "en": "Sa galaxy",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "抗Sa抗体",
+   "en": "anti-Sa antibody",
+   "code": "1.5.3.27",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -2,10 +2,319 @@
  "key": "religious epistemology",
  "term": "religious epistemology",
  "provider": "termonline-all",
- "queried_at": "2026-11-11T18:16:16+00:00",
- "status": "error",
- "note": "variant=religious epistemology; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "religious epistemology: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T00:44:59+00:00",
+ "status": "ok",
+ "note": "variant=religious epistemology; 审定公布名词库=39; 海峡两岸名词对照库=9; 其他来源数据库=11; 预公布名词数据库=51; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "code": "03.209",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_认识论"
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "code": "04.028",
+   "standard": "心理学名词",
+   "subject": "心理学_理论心理学与心理学史"
+  },
+  {
+   "cn": "进化认识论",
+   "en": "evolutionary epistemology",
+   "code": "03.015",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学实在论"
+  },
+  {
+   "cn": "发生认识论",
+   "en": "genetic epistemology",
+   "code": "03.501",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学"
+  },
+  {
+   "cn": "社会认识论",
+   "en": "social epistemology",
+   "code": "03.818",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学"
+  },
+  {
+   "cn": "科学认识",
+   "en": "scientific epistemology",
+   "code": "06.012",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_方法与工具"
+  },
+  {
+   "cn": "社会认识论",
+   "en": "social epistemology",
+   "code": "01.135",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_图书馆学情报学基础_图书馆学"
+  },
+  {
+   "cn": "发生认识论",
+   "en": "genetic epistemology",
+   "code": "04.168",
+   "standard": "心理学名词",
+   "subject": "心理学_理论心理学与心理学史"
+  },
+  {
+   "cn": "认识整体论",
+   "en": "epistemological holism",
+   "code": "03.014",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学实在论"
+  },
+  {
+   "cn": "宗教建筑",
+   "en": "religious building",
+   "code": "04.0178",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景名胜_风景名胜资源"
+  },
+  {
+   "cn": "教会档案馆",
+   "en": "religious archives",
+   "code": "09.02.012",
+   "standard": "档案学名词",
+   "subject": "档案学_外国档案事业史_外国档案机构"
+  },
+  {
+   "cn": "宗教出版物",
+   "en": "religious publication",
+   "code": "07.01.024",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_出版物_综述"
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "认识学",
+   "en": "epistemology",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "发生认识论",
+   "en": "genetic epistemology",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "宗教显露",
+   "en": "religious revelation",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "新实证主义认识论",
+   "en": "neo-positivist epistemology",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "宗教心理学",
+   "en": "religion psychology",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "天启教",
+   "en": "revealed religion",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "宗教地理学",
+   "en": "geography of religion",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "不确定性",
+   "en": "Outline of epistemology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "宗教",
+   "en": "<div> Buddhist Teachings / Religious Sect</div>",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "阴阳",
+   "en": "Miao folk religion",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "神话",
+   "en": "Religion and mythology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "城隍",
+   "en": "Miao folk religion",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "道教",
+   "en": "Miao folk religion",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "三一教",
+   "en": "Miao folk religion",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "混沌",
+   "en": "Miao folk religion",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "米底王国",
+   "en": "Ancient Iranian religion",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "城隍庙",
+   "en": "Miao folk religion",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "穿刺",
+   "en": "Religion and capital punishment",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "code": "01.0156",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "宗教仪式",
+   "en": "religious rite,religious ritual",
+   "code": "3.9.1.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_宗教社会学_宗教信仰现象"
+  },
+  {
+   "cn": "以兴趣为导向的认识论",
+   "en": "interestoriented epistemology",
+   "code": "05.0042",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "医学认识论",
+   "en": "medical epistemology",
+   "code": "1.179",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科"
+  },
+  {
+   "cn": "认识论断裂",
+   "en": "epistemological rupture",
+   "code": "05.0067",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "宗教符号",
+   "en": "religious symbol",
+   "code": "3.9.1.17",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_宗教社会学_宗教信仰现象"
+  },
+  {
+   "cn": "宗教多元论",
+   "en": "religious pluralism",
+   "code": "3.9.1.21",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_宗教社会学_宗教信仰现象"
+  },
+  {
+   "cn": "宗教拒世",
+   "en": "religious rejection",
+   "code": "3.9.2.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_宗教社会学_宗教研究"
+  },
+  {
+   "cn": "宗教经济",
+   "en": "religious economy",
+   "code": "3.9.2.19",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_宗教社会学_宗教研究"
+  },
+  {
+   "cn": "宗教补偿",
+   "en": "religious compensator",
+   "code": "3.9.2.20",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_宗教社会学_宗教研究"
+  },
+  {
+   "cn": "宗教个人主义",
+   "en": "religious individualism",
+   "code": "3.9.2.21",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_宗教社会学_宗教研究"
+  },
+  {
+   "cn": "宗教认同",
+   "en": "religious identity",
+   "code": "3.9.2.22",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_宗教社会学_宗教研究"
+  }
+ ],
+ "error": null,
  "raw": null
 }
