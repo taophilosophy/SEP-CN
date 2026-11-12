@@ -1886,7 +1886,7 @@
 * [艾萨克·牛顿 Newton, Isaac (George Smith)](n/newton.md)
   * [自然哲学的数学原理 Philosophiae Naturalis Principia Mathematica (George Smith)](n/newton-principia.md)
   * [牛顿的哲学 Newton’s Philosophy (Andrew Janiak)](n/newton-philosophy.md)
-  * [牛顿对空间、时间和运动的观点 views on space, time, and motion (Robert Rynasiewicz)](n/newton-stm.md)
+  * [牛顿对空间、时间和运动的观点 Newton’s Views on Space, Time, and Motion (Robert Rynasiewicz)](n/newton-stm.md)
 * [奥特古的尼克拉 Nicholas of Autrecourt \[de Altricuria, Autricuria, Ultricuria, Autricort\] (Hans Thijssen)](a/autrecourt.md)
 * [\*库萨的尼古拉——见库萨的尼古拉 Nicolas of Cusa — see Cusanus, Nicolaus](c/cusanus.md)
 * [弗里德里希·尼采 Nietzsche, Friedrich (R. Lanier Anderson)](n/nietzsche.md)
