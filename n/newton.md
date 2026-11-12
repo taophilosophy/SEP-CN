@@ -1,4 +1,4 @@
-# 艾萨克·牛顿 Newton, Isaac (George Smith)
+# 艾萨克·牛顿 Isaac Newton (George Smith)
 
 *首次发表于 2007 年 12 月 19 日。*
 

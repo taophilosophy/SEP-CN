@@ -1,1 +1,1 @@
-# 道德情感主义 moral sentimentalism (Antti Kauppinen)
+# 道德情感主义 Moral Sentimentalism (Antti Kauppinen)

@@ -1,1 +1,1 @@
-# 神的自由 divine (Klaas Kraay)
+# 神的自由 Divine Freedom (Klaas Kraay)

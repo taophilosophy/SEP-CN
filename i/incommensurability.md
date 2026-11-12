@@ -1,4 +1,4 @@
-# 科学理论的不可通约性 the incommensurability of scientific theories (Eric Oberheim and Paul Hoyningen-Huene)
+# 科学理论的不可通约性 The Incommensurability of Scientific Theories (Eric Oberheim and Paul Hoyningen-Huene)
 
 *首次发表于 2009 年 2 月 25 日；2024 年 5 月 7 日实质修订。*
 

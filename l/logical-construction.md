@@ -1,1 +1,1 @@
-# 逻辑构造 logical constructions (Bernard Linsky)
+# 逻辑构造 Logical Constructions (Bernard Linsky)

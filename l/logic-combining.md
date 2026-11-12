@@ -1,1 +1,1 @@
-# 合并逻辑 combining (Walter Carnielli and Marcelo Esteban Coniglio)
+# 合并逻辑 Combining Logics (Walter Carnielli and Marcelo Esteban Coniglio)

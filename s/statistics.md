@@ -1,1 +1,1 @@
-# 统计学哲学 statistics, philosophy of (Jan-Willem Romeijn)
+# 统计学哲学 Philosophy of Statistics (Jan-Willem Romeijn)

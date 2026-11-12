@@ -1,4 +1,4 @@
-# 认知科学 cognitive science (Paul Thagard)
+# 认知科学 Cognitive Science (Paul Thagard)
 
 *首次发表于 1996 年 9 月 23 日；2023 年 1 月 31 日实质修订。*
 

@@ -1,4 +1,4 @@
-# 法律与意识形态 and ideology (Christine Sypnowich)
+# 法律与意识形态 Law and Ideology (Christine Sypnowich)
 
 *首次发表于 2001 年 10 月 22 日；2024 年 3 月 24 日实质修订。*
 

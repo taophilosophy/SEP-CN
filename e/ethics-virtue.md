@@ -1,1 +1,1 @@
-# 德性伦理学 virtue (Rosalind Hursthouse and Glen Pettigrove)
+# 德性伦理学 Virtue Ethics (Rosalind Hursthouse and Glen Pettigrove)

@@ -55,6 +55,9 @@ S = {
     'M63': f'{W} > 二、中古哲学 > 2.6 经院哲学的分裂（13世纪末–14世纪） > 奥康主义与“现代路线”',
     'M64': f'{W} > 二、中古哲学 > 2.6 经院哲学的分裂（13世纪末–14世纪） > 中世纪神秘主义',
     'M65': f'{W} > 二、中古哲学 > 2.6 经院哲学的分裂（13世纪末–14世纪） > 唯名论与实在论之争',
+    'M66': f'{W} > 二、中古哲学 > 2.6 经院哲学的分裂（13世纪末–14世纪） > 奥康主义与“现代路线”',
+    'M67': f'{W} > 二、中古哲学 > 2.6 经院哲学的分裂（13世纪末–14世纪） > 巴黎唯名论与牛津计算学派',
+    'M68': f'{W} > 二、中古哲学 > 2.6 经院哲学的分裂（13世纪末–14世纪） > 实在论',
     'M33': f'{W} > 二、中古哲学 > 2.3 经院哲学的诞生（11–12世纪） > 理性与信仰之争',
     'M71': f'{W} > 二、中古哲学 > 2.7 中世纪晚期（14–16世纪） > 牛津计算学派',
     'M72': f'{W} > 二、中古哲学 > 2.7 中世纪晚期（14–16世纪） > 威克里夫与宗教改革前夜',
@@ -114,18 +117,39 @@ S = {
     'C73': f'{W} > 五、现代哲学（1830–） > 5.7 分析哲学 > 后实证科学哲学',
     'C74': f'{W} > 五、现代哲学（1830–） > 5.7 分析哲学 > 分析形而上学与语言哲学',
     'C75': f'{W} > 五、现代哲学（1830–） > 5.7 分析哲学 > 分析伦理学与政治哲学',
-    'C8': f'{W} > 五、现代哲学（1830–） > 5.8 批判理论',
-    'C9': f'{W} > 五、现代哲学（1830–） > 5.9 结构主义与后结构主义',
+    'C8': f'{W} > 五、现代哲学（1830–） > 5.8 批判理论（法兰克福学派）',
+    'C81': f'{W} > 五、现代哲学（1830–） > 5.8 批判理论（法兰克福学派） > 法兰克福学派',
+    'C82': f'{W} > 五、现代哲学（1830–） > 5.8 批判理论（法兰克福学派） > 哈贝马斯与交往行为理论',
+    'C83': f'{W} > 五、现代哲学（1830–） > 5.8 批判理论（法兰克福学派） > 批判理论的当代发展',
+    'C9': f'{W} > 五、现代哲学（1830–） > 5.9 结构主义、后结构主义与解构',
+    'C91': f'{W} > 五、现代哲学（1830–） > 5.9 结构主义、后结构主义与解构 > 结构主义',
+    'C92': f'{W} > 五、现代哲学（1830–） > 5.9 结构主义、后结构主义与解构 > 后结构主义',
+    'C93': f'{W} > 五、现代哲学（1830–） > 5.9 结构主义、后结构主义与解构 > 解构',
+    'C94': f'{W} > 五、现代哲学（1830–） > 5.9 结构主义、后结构主义与解构 > 后现代主义',
     'C10': f'{W} > 五、现代哲学（1830–） > 5.10 实用主义与过程哲学',
     'C11p': f'{W} > 五、现代哲学（1830–） > 5.11 政治哲学与法哲学',
+    'C20': f'{W} > 五、现代哲学（1830–） > 5.12 科学哲学',
+    'C201': f'{W} > 五、现代哲学（1830–） > 5.12 科学哲学 > 波普尔与批判理性主义',
+    'C202': f'{W} > 五、现代哲学（1830–） > 5.12 科学哲学 > 库恩、拉卡托斯与历史主义',
+    'C203': f'{W} > 五、现代哲学（1830–） > 5.12 科学哲学 > 费耶阿本德与无政府主义认识论',
+    'C204': f'{W} > 五、现代哲学（1830–） > 5.12 科学哲学 > 科学实在论与反实在论',
+    'C205': f'{W} > 五、现代哲学（1830–） > 5.12 科学哲学 > 科学解释与科学方法论',
     # 犹太
     'J1': f'{W} > 六、犹太哲学（跨期传统） > 6.1 古代与中世纪犹太哲学',
     'J2': f'{W} > 六、犹太哲学（跨期传统） > 6.2 近代犹太哲学',
     'J3': f'{W} > 六、犹太哲学（跨期传统） > 6.3 现代犹太哲学',
     # 区域
     'CH1': f'{E} > 中国哲学 > 先秦',
+    'CH11': f'{E} > 中国哲学 > 先秦 > 儒家',
+    'CH12': f'{E} > 中国哲学 > 先秦 > 道家',
+    'CH13': f'{E} > 中国哲学 > 先秦 > 墨家',
+    'CH14': f'{E} > 中国哲学 > 先秦 > 名家',
+    'CH15': f'{E} > 中国哲学 > 先秦 > 法家',
+    'CH16': f'{E} > 中国哲学 > 先秦 > 易经',
     'CH2': f'{E} > 中国哲学 > 汉唐',
     'CH3': f'{E} > 中国哲学 > 宋明',
+    'CH31': f'{E} > 中国哲学 > 宋明 > 理学',
+    'CH32': f'{E} > 中国哲学 > 宋明 > 心学',
     'CH4': f'{E} > 中国哲学 > 清代',
     'CH5': f'{E} > 中国哲学 > 现代',
     'CH6': f'{E} > 中国哲学 > 中国佛教',
@@ -142,6 +166,7 @@ S = {
     'JP1': f'{E} > 日本哲学 > 古代与中世',
     'JP2': f'{E} > 日本哲学 > 近世',
     'JP3': f'{E} > 日本哲学 > 近代',
+    'JP31': f'{E} > 日本哲学 > 近代 > 京都学派',
     'JP4': f'{E} > 日本哲学 > 专题',
     'KR1': f'{E} > 韩国哲学 > 儒学',
     'KR2': f'{E} > 韩国哲学 > 佛教',
@@ -149,6 +174,9 @@ S = {
     'IS1': f'{E} > 伊斯兰哲学 > 早期',
     'IS2': f'{E} > 伊斯兰哲学 > 黄金时代',
     'IS3': f'{E} > 伊斯兰哲学 > 后期',
+    'IS31': f'{E} > 伊斯兰哲学 > 后期 > 苏菲主义',
+    'IS32': f'{E} > 伊斯兰哲学 > 后期 > 照明学派',
+    'IS33': f'{E} > 伊斯兰哲学 > 后期 > 超越神智学',
     'IS4': f'{E} > 伊斯兰哲学 > 专题',
     'AF1': f'{E} > 非洲与非裔哲学 > 传统非洲哲学',
     'AF2': f'{E} > 非洲与非裔哲学 > 非裔哲学',
@@ -378,10 +406,16 @@ ibn-gabirol albalag kaspi-joseph
 put('J2', 'maimon mendelssohn')
 put('J3', 'buber rosenzweig scholem leibowitz-yeshayahu')
 
-put('CH1', 'confucius laozi mencius xunzi zhuangzi school-names chinese-legalism mohism mohist-canons')
+put('CH11', 'confucius mencius xunzi')
+put('CH12', 'laozi zhuangzi')
+put('CH13', 'mohism mohist-canons')
+put('CH14', 'school-names')
+put('CH15', 'chinese-legalism')
+put('CH16', 'chinese-change')
 put('CH9', 'chinese-change')
 put('CH2', 'neo-daoism han-dynasty')
-put('CH3', 'song-ming-confucianism wang-yangming zhu-xi')
+put('CH31', 'song-ming-confucianism zhu-xi')
+put('CH32', 'wang-yangming')
 put('CH4', 'qing-philosophy dai-zhen')
 put('CH5', 'confucianism-modern')
 put('CH6', 'buddhism-chan buddhism-huayan buddhism-tiantai')
@@ -413,7 +447,7 @@ logic-india naturalism-india perception-india personhood-india sriharsa sikh-phi
 
 put('JP1', 'kukai')
 put('JP2', 'japanese-confucian kokugaku-school')
-put('JP3', 'kyoto-school nishida-kitaro watsuji-tetsuro')
+put('JP31', 'kyoto-school nishida-kitaro watsuji-tetsuro')
 put('JP4', 'japanese-philosophy japanese-aesthetics japanese-pure-land japanese-zen')
 
 put('KR1', 'korean-confucianism')
@@ -425,9 +459,11 @@ put('IS2', '''
 ibn-sina ibn-sina-logic ibn-sina-metaphysics ibn-sina-natural al-ghazali
 ibn-rushd ibn-rushd-natural ibn-bajja
 ''')
+put('IS31', 'ibn-arabi al-qudat arabic-islamic-mysticism')
+put('IS32', 'suhrawardi')
+put('IS33', 'mulla-sadra')
 put('IS3', '''
-suhrawardi mulla-sadra ibn-arabi ibn-taymiyya al-qudat al-khunaji al-din-al-razi
-al-baghdadi
+ibn-taymiyya al-khunaji al-din-al-razi al-baghdadi
 ''')
 put('IS4', '''
 arabic-islamic-metaphysics arabic-islamic-natural arabic-islamic-language
@@ -493,6 +529,43 @@ put('N13', 'emilie-du-chatelet')
 put('N11', 'astell')
 put('N22', 'lady-masham')
 put('R1', 'lucrezia-marinella madeleine-scudery')
+
+# 补充：唯名论与实在论、神秘主义、理性与信仰、文艺复兴斯多亚与怀疑、
+# 法国唯物主义、德国通俗哲学、19 世纪学院哲学、存在主义与解释学、
+# 法兰克福学派、结构主义/后结构主义/解构、科学哲学。
+put('M65', 'universals-medieval')
+put('M66', '''
+ockham walter-chatton crathorn francis-marchia gregory-rimini wodeham dietrich-freiberg
+''')
+put('M67', '''
+buridan albert-saxony marsilius-inghen nicole-oresme heytesbury kilvington
+''')
+put('M68', '''
+burley wyclif fitzralph sharpe paul-venice penbygull alyngton erfurt radulphus-brito
+''')
+put('M64', 'meister-eckhart')
+put('M33', 'condemnation boethius-dacia')
+put('R23', 'justus-lipsius montaigne francisco-sanches')
+put('N35', 'diderot holbach')
+put('N31', 'condillac')
+put('N36', 'mendelssohn hamann friedrich-jacobi')
+put('C41', 'neo-kantianism friedrich-lange natorp wilhelm-windelband cohen heinrich-rickert')
+put('C42', 'green bosanquet bradley bradley-moral bradley-regress')
+put('C43', 'james-ward fechner wilhelm-wundt dilthey hermann-lotze')
+put('C61', 'existentialism camus jaspers marcel sartre authenticity gasset bergson')
+put('C62', 'hermeneutics gadamer gadamer-aesthetics ricoeur yorck')
+put('C81', 'adorno marcuse horkheimer benjamin')
+put('C82', 'habermas')
+put('C83', 'critical-theory')
+put('C91', 'lacan')
+put('C92', 'foucault deleuze')
+put('C93', 'derrida')
+put('C94', 'lyotard baudrillard postmodernism')
+put('C201', 'popper')
+put('C202', 'thomas-kuhn lakatos')
+put('C203', 'feyerabend fleck')
+put('C204', '')
+put('C205', 'hempel reichenbach physics-Rpcc wesley-salmon duhem')
 
 # 现节 fallback
 HISTORY_FALLBACK = {

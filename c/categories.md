@@ -1,1 +1,1 @@
-# 范畴 categories (Amie Thomasson)
+# 范畴 Categories (Amie Thomasson)

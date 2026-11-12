@@ -1,1 +1,1 @@
-# 教育哲学 education, philosophy of (Randall Curren)
+# 教育哲学 Philosophy of Education (Randall Curren)

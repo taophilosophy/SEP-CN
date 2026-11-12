@@ -1,1 +1,1 @@
-# 斯宾诺莎的属性理论 theory of attributes (Noa Shein)
+# 斯宾诺莎的属性理论 Spinoza’s Theory of Attributes (Noa Shein)

@@ -1,4 +1,4 @@
-# 彼得·奥雷奥利 Auriol [Aureol, Aureoli], Peter (Russell L. Friedman and Giacomo Fornasieri)
+# 彼得·奥雷奥利 Peter Auriol (Russell L. Friedman and Giacomo Fornasieri)
 
 **首次发表于 2002 年 11 月 6 日；2026 年 2 月 12 日实质修订。**
 

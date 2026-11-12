@@ -1,1 +1,1 @@
-# 弗朗西斯·培根 Bacon, Francis (Markku Peltonen)
+# 弗朗西斯·培根 Francis Bacon (Markku Peltonen)

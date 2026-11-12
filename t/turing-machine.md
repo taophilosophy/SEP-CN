@@ -1,1 +1,1 @@
-# 图灵机 Turing machines (Liesbeth De Mol)
+# 图灵机 Turing Machines (Liesbeth De Mol)

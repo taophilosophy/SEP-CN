@@ -1,1 +1,1 @@
-# 家长主义 paternalism (Gerald Dworkin)
+# 家长主义 Paternalism (Gerald Dworkin)

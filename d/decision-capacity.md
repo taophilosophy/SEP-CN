@@ -1,1 +1,1 @@
-# 决策能力 decision-making capacity (Jennifer Hawkins and Louis C. Charland)
+# 决策能力 Decision-Making Capacity (Jennifer Hawkins and Louis C. Charland)

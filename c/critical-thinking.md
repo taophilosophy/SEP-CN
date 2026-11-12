@@ -1,1 +1,1 @@
-# 批判性思维 critical thinking (David Hitchcock)
+# 批判性思维 Critical Thinking (David Hitchcock)

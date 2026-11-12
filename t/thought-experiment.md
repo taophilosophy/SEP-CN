@@ -1,1 +1,1 @@
-# 思想实验 thought experiments (James Robert Brown and Yiftach Fehige)
+# 思想实验 Thought Experiments (James Robert Brown and Yiftach Fehige)

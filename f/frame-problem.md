@@ -1,4 +1,4 @@
-# 框架问题 frame problem (Murray Shanahan)
+# 框架问题 The Frame Problem (Murray Shanahan)
 
 *首次发表于 2004 年 2 月 23 日；2016 年 2 月 8 日实质修订。*
 

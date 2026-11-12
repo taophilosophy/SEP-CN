@@ -1,1 +1,1 @@
-# 休谟论自由意志 on free will (Paul Russell)
+# 休谟论自由意志 Hume on Free Will (Paul Russell)

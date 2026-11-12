@@ -1,1 +1,1 @@
-# 歧义 ambiguity (Adam Sennet)
+# 歧义 Ambiguity (Adam Sennet)

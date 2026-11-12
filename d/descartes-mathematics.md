@@ -1,1 +1,1 @@
-# 笛卡尔的数学 mathematics (Mary Domski)
+# 笛卡尔的数学 Descartes’ Mathematics (Mary Domski)

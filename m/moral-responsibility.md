@@ -1,1 +1,1 @@
-# 道德责任 moral responsibility (Matthew Talbert)
+# 道德责任 Moral Responsibility (Matthew Talbert)

@@ -1,1 +1,1 @@
-# 无限倒退论证 infinite regress arguments (Ross Cameron)
+# 无限倒退论证 Infinite Regress Arguments (Ross Cameron)

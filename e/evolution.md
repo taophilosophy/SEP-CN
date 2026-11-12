@@ -1,4 +1,4 @@
-# 进化 evolution (Roberta L. Millstein)
+# 进化 Evolution (Roberta L. Millstein)
 
 *首次发表于 2017 年 8 月 25 日；2026 年 5 月 27 日实质修订。*
 

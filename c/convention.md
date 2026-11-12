@@ -1,1 +1,1 @@
-# 约定 convention (Michael Rescorla)
+# 约定 Convention (Michael Rescorla)

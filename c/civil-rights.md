@@ -1,1 +1,1 @@
-# 公民权利 civil rights (Robin L. West)
+# 公民权利 Civil Rights (Robin L. West)

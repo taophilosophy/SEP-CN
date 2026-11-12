@@ -1,1 +1,1 @@
-# 康德的道德哲学 moral philosophy (Robert Johnson and Adam Cureton)
+# 康德的道德哲学 Kant’s Moral Philosophy (Robert Johnson and Adam Cureton)

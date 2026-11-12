@@ -1,1 +1,1 @@
-# 道德怀疑论 moral skepticism (Walter Sinnott-Armstrong)
+# 道德怀疑论 Moral Skepticism (Walter Sinnott-Armstrong)

@@ -1,1 +1,1 @@
-# 泛指概括 generic generalizations (Sarah-Jane Leslie and Adam Lerner)
+# 泛指概括 Generic Generalizations (Sarah-Jane Leslie and Adam Lerner)

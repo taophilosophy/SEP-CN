@@ -1,4 +1,4 @@
-# 劳伦佐·瓦拉 Valla, Lorenzo (Lodi Nauta)
+# 劳伦佐·瓦拉 Lorenzo Valla (Lodi Nauta)
 
 *首次发表于 2009 年 5 月 14 日；2026 年 3 月 6 日实质修订。*
 

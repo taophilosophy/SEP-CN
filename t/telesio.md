@@ -1,4 +1,4 @@
-# 贝尔纳迪诺·特莱西奥 Telesio, Bernardino (Michaela Boenke)
+# 贝尔纳迪诺·特莱西奥 Bernardino Telesio (Michaela Boenke)
 
 *首次发表于 2004 年 8 月 30 日；2023 年 1 月 4 日实质修订。*
 

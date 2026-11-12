@@ -1,1 +1,1 @@
-# 公正 impartiality (Troy Jollimore)
+# 公正 Impartiality (Troy Jollimore)

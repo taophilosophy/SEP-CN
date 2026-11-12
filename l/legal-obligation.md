@@ -1,1 +1,1 @@
-# 法律义务和法律权威 legal obligation and authority (Massimo Renzo and Leslie Green)
+# 法律义务和法律权威 Legal Obligation and Authority (Massimo Renzo and Leslie Green)

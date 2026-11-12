@@ -1,1 +1,1 @@
-# 道德分歧 moral disagreement (Folke Tersman)
+# 道德分歧 Moral Disagreement (Folke Tersman)

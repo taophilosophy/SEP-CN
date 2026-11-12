@@ -1,4 +1,4 @@
-# 量子贝叶斯模型和实用主义的量子理论观点 Bayesian and pragmatist views (Richard Healey)
+# 量子贝叶斯模型和实用主义的量子理论观点 Quantum-Bayesian and Pragmatist Views of Quantum Theory (Richard Healey)
 
 *首次发表于 2016 年 12 月 8 日；2026 年 9 月 8 日实质修订。*
 

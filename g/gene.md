@@ -1,1 +1,1 @@
-# 基因 gene (Robert Meunier)
+# 基因 Gene (Robert Meunier)

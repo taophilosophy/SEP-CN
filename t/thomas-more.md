@@ -1,1 +1,1 @@
-# 托马斯·莫尔 More, Thomas (Gerard B. Wegemer)
+# 托马斯·莫尔 Thomas More (Gerard B. Wegemer)

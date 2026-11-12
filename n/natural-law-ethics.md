@@ -1,1 +1,1 @@
-# 伦理学中的自然法传统 natural law tradition (Mark Murphy)
+# 伦理学中的自然法传统 The Natural Law Tradition in Ethics (Mark Murphy)

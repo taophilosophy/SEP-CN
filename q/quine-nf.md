@@ -1,4 +1,4 @@
-# 蒯因的新基础 New Foundations (Thomas Forster)
+# 蒯因的新基础 Quine’s New Foundations (Thomas Forster)
 
 *首次发表于 2006 年 1 月 4 日；2025 年 4 月 2 日实质修订。*
 

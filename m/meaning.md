@@ -1,1 +1,1 @@
-# 意义理论 meaning, theories of (Jeff Speaks)
+# 意义理论 Theories of Meaning (Jeff Speaks)

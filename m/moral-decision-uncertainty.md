@@ -1,1 +1,1 @@
-# 不确定性下的道德决策 moral decision-making under uncertainty (Christian Tarsney, Teruji Thomas, and William MacAskill)
+# 不确定性下的道德决策 Moral Decision-Making Under Uncertainty (Christian Tarsney, Teruji Thomas, and William MacAskill)

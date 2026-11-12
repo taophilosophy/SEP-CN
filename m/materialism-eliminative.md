@@ -1,1 +1,1 @@
-# 取消唯物主义 eliminative (William Ramsey)
+# 取消唯物主义 Eliminative Materialism (William Ramsey)

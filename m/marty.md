@@ -1,1 +1,1 @@
-# 安东·马蒂 Marty, Anton (Robin Rollinger and Hynek Janousek)
+# 安东·马蒂 Anton Marty (Robin Rollinger and Hynek Janousek)

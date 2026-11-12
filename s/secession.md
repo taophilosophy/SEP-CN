@@ -1,1 +1,1 @@
-# 分离 secession (Allen Buchanan and Elizabeth Levinson)
+# 分离 Secession (Allen Buchanan and Elizabeth Levinson)

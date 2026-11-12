@@ -1,1 +1,1 @@
-# 后现代主义 postmodernism (Gary Aylesworth)
+# 后现代主义 Postmodernism (Gary Aylesworth)

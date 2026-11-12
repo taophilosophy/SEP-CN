@@ -1,4 +1,4 @@
-# 图式 schema (John Corcoran and Idris Samawi Hamid)
+# 图式 Schema (John Corcoran and Idris Samawi Hamid)
 *首次发表于 2004 年 5 月 28 日；2016 年 8 月 2 日实质修订。*
 
 **图式**（*schema*；复数 *schemata* 或 *schemas*），英文中又称 *scheme*（复数 *schemes*），是一种语言的“模板”“框架”或“模式”，另配一条使用规则，用来指定数量上可能无穷的短语、语句或论证；被指定出来的这些，称为该图式的 **实例**。图式在逻辑学中用于指定推理规则，在数学中用于描述含无穷多条公理的理论，在语义学中用于给出真之定义的适当性条件。

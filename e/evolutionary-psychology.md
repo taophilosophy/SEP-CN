@@ -1,1 +1,1 @@
-# 进化心理学 evolutionary (Stephen M. Downes)
+# 进化心理学 Evolutionary Psychology (Stephen M. Downes)

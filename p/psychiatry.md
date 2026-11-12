@@ -1,1 +1,1 @@
-# 精神病学哲学 psychiatry, philosophy of (Dominic Murphy)
+# 精神病学哲学 Philosophy of Psychiatry (Dominic Murphy)

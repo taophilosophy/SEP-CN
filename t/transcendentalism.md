@@ -1,1 +1,1 @@
-# 超验主义 transcendentalism (Russell Goodman)
+# 超验主义 Transcendentalism (Russell Goodman)

@@ -1,1 +1,1 @@
-# 意向性 intentionality (Pierre Jacob)
+# 意向性 Intentionality (Pierre Jacob)

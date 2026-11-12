@@ -1,1 +1,1 @@
-# 隐喻 metaphor (David Hills)
+# 隐喻 Metaphor (David Hills)

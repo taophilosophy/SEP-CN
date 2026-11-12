@@ -1,1 +1,1 @@
-# 来世 afterlife (William Hasker and Charles Taliaferro)
+# 来世 Afterlife (William Hasker and Charles Taliaferro)

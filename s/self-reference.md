@@ -1,1 +1,1 @@
-# 自我指涉 self-reference (Thomas Bolander)
+# 自我指涉 Self-Reference and Paradox (Thomas Bolander)

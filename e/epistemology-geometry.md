@@ -1,1 +1,1 @@
-# 几何学的认识论 epistemology of (Jeremy Gray and José Ferreirós)
+# 几何学的认识论 Epistemology of Geometry (Jeremy Gray and José Ferreirós)

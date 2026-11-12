@@ -1,1 +1,1 @@
-# 严格指示词 rigid designators (Joseph LaPorte)
+# 严格指示词 Rigid Designators (Joseph LaPorte)

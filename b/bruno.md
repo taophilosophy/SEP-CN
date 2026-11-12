@@ -1,1 +1,1 @@
-# 乔尔丹诺·布鲁诺 Bruno, Giordano (Dilwyn Knox)
+# 乔尔丹诺·布鲁诺 Giordano Bruno (Dilwyn Knox)

@@ -1,1 +1,1 @@
-# 先验证成与先验知识 a priori justification and knowledge (Bruce Russell)
+# 先验证成与先验知识 A Priori Justification and Knowledge (Bruce Russell)

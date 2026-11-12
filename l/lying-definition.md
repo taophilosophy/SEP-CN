@@ -1,1 +1,1 @@
-# 谎言与欺骗的定义 definition of (James Edwin Mahon)
+# 谎言与欺骗的定义 The Definition of Lying and Deception (James Edwin Mahon)

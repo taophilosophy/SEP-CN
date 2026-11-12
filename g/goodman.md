@@ -1,1 +1,1 @@
-# 纳尔逊·古德曼 Goodman, Nelson (Daniel Cohnitz and Marcus Rossberg)
+# 纳尔逊·古德曼 Nelson Goodman (Daniel Cohnitz and Marcus Rossberg)

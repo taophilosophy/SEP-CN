@@ -1,1 +1,1 @@
-# 古代怀疑论 ancient (Katja Vogt)
+# 古代怀疑论 Ancient Skepticism (Katja Vogt)

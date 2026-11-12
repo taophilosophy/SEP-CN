@@ -1,1 +1,1 @@
-# 自然选择 natural selection (Peter Gildenhuys)
+# 自然选择 Natural Selection (Peter Gildenhuys)

@@ -1,4 +1,4 @@
-# 休谟的伦理学 moral philosophy (Rachel Cohon)
+# 休谟的伦理学 Hume’s Moral Philosophy (Rachel Cohon)
 
 
 *首次发表于 2004 年 10 月 29 日；2018 年 8 月 20 日实质修订。*

@@ -1,1 +1,1 @@
-# 彼得罗·彭波那齐 Pomponazzi, Pietro (Craig Martin)
+# 彼得罗·彭波那齐 Pietro Pomponazzi (Craig Martin)

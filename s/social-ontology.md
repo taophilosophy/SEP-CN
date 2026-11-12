@@ -1,1 +1,1 @@
-# 社会本体论 social ontology (Brian Epstein)
+# 社会本体论 Social Ontology (Brian Epstein)

@@ -1,1 +1,1 @@
-# 经济学哲学 philosophy of (Daniel M. Hausman)
+# 经济学哲学 Philosophy of Economics (Daniel M. Hausman)

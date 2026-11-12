@@ -1,1 +1,1 @@
-# 库尔特·哥德尔 Gödel, Kurt (Juliette Kennedy)
+# 库尔特·哥德尔 Kurt Gödel (Juliette Kennedy)

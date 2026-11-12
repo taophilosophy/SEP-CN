@@ -1,1 +1,1 @@
-# 戏剧哲学 theater, philosophy of (James R. Hamilton)
+# 戏剧哲学 Philosophy of Theater (James R. Hamilton)

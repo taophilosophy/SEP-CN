@@ -1,4 +1,4 @@
-# 让·巴蒂斯特·杜博斯 Du Bos, Jean-Baptiste (James O. Young and Margaret Cameron)
+# 让·巴蒂斯特·杜博斯 Jean-Baptiste Du Bos (James O. Young and Margaret Cameron)
 
 *首次发表于 2019 年 11 月 19 日；2023 年 12 月 5 日实质修订。*
 

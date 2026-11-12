@@ -1,1 +1,1 @@
-# 自由主义女性主义 liberal feminism (Amy R. Baehr)
+# 自由主义女性主义 Liberal Feminism (Amy R. Baehr)

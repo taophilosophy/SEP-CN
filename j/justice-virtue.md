@@ -1,4 +1,4 @@
-# 作为美德的正义 justice as a virtue (Mark LeBar)
+# 作为美德的正义 Justice as a Virtue (Mark LeBar)
 
 *首次发表于 2002 年 3 月 8 日；2025 年 8 月 8 日实质修订。*
 

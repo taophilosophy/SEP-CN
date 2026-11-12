@@ -1,4 +1,4 @@
-# 非洲智者哲学 sage philosophy (Dismas Masolo)
+# 非洲智者哲学 African Sage Philosophy (Dismas Masolo)
 
 **首次发表于 2006 年 2 月 14 日；2016 年 2 月 22 日实质修订。**
 

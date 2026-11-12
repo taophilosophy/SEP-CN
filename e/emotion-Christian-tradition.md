@@ -1,4 +1,4 @@
-# 基督教传统中的情感 in the Christian tradition (Robert Roberts)
+# 基督教传统中的情感 Emotions in the Christian Tradition (Robert Roberts)
 
 **首次发表于 2006 年 2 月 1 日；2021 年 3 月 10 日实质修订。**
 

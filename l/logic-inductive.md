@@ -1,1 +1,1 @@
-# 归纳逻辑 inductive (James Hawthorne)
+# 归纳逻辑 Inductive Logic (James Hawthorne)

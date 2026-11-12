@@ -1,1 +1,1 @@
-# 哥德尔不完备定理 incompleteness theorems (Panu Raatikainen)
+# 哥德尔不完备定理 Gödel’s Incompleteness Theorems (Panu Raatikainen)

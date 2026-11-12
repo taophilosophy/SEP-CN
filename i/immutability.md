@@ -1,4 +1,4 @@
-# 不变性 immutability (Brian Leftow)
+# 不变性 Immutability (Brian Leftow)
 
 *首次发表于 2002 年 7 月 1 日；2024 年 3 月 28 日实质修订。*
 

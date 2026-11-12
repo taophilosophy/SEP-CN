@@ -1,1 +1,1 @@
-# 泛神论 pantheism (William Mander)
+# 泛神论 Pantheism (William Mander)

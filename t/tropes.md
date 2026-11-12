@@ -1,1 +1,1 @@
-# 特普 tropes (Anna-Sofia Maurin)
+# 特普 Tropes (Anna-Sofia Maurin)

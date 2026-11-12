@@ -1,4 +1,4 @@
-# 关系性量子力学 relational (Carlo Rovelli)
+# 关系性量子力学 Relational Quantum Mechanics (Carlo Rovelli)
 
 *首次发表于 2002 年 2 月 4 日；2025 年 2 月 4 日实质修订。*
 

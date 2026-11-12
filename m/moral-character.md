@@ -1,1 +1,1 @@
-# 道德品质 character, moral (Marcia Homiak)
+# 道德品质 Moral Character (Marcia Homiak)

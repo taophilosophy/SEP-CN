@@ -1,1 +1,1 @@
-# 柏拉图的秘所思 myths (Catalin Partenie)
+# 柏拉图的秘所思 Plato’s Myths (Catalin Partenie)

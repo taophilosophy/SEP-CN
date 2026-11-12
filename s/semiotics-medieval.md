@@ -1,1 +1,1 @@
-# 中世纪符号学 medieval (Stephan Meier-Oeser)
+# 中世纪符号学 Medieval Semiotics (Stephan Meier-Oeser)

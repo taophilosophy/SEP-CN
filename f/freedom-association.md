@@ -1,1 +1,1 @@
-# 结社自由 of association (Kimberley Brownlee and David Jenkins)
+# 结社自由 Freedom of Association (Kimberley Brownlee and David Jenkins)

@@ -1,4 +1,4 @@
-# 恩斯特·卡西尔 Cassirer, Ernst (Michael Friedman)
+# 恩斯特·卡西尔 Ernst Cassirer (Michael Friedman)
 
 **首次发表于 2004 年 6 月 30 日；2022 年 2 月 27 日实质修订。**
 

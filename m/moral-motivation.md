@@ -1,1 +1,1 @@
-# 道德动机 moral motivation (Connie S. Rosati)
+# 道德动机 Moral Motivation (Connie S. Rosati)

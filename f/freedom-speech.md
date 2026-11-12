@@ -1,1 +1,1 @@
-# 言论自由 of speech (Jeffrey W. Howard)
+# 言论自由 Freedom of Speech (Jeffrey W. Howard)

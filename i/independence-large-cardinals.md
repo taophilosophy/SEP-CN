@@ -1,4 +1,4 @@
-# 大基数与独立性 independence and large cardinals (Peter Koellner)
+# 大基数与独立性 Independence and Large Cardinals (Peter Koellner)
 
 *首次发表于 2010 年 4 月 20 日。*
 

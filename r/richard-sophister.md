@@ -1,4 +1,4 @@
-# 诡辩家理查德 Richard the Sophister [Ricardus Sophista, Magister abstractionum] (Paul Streveler)
+# 诡辩家理查德 Richard the Sophister (Paul Streveler)
 
 *首次发表于 1999 年 8 月 4 日；2016 年 11 月 26 日实质修订。*
 

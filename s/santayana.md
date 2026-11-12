@@ -1,1 +1,1 @@
-# 乔治·桑塔亚纳 Santayana, George (Herman Saatkamp and Martin Coleman)
+# 乔治·桑塔亚纳 George Santayana (Herman Saatkamp and Martin Coleman)

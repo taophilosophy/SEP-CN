@@ -1,1 +1,1 @@
-# 命题 propositions (Matthew McGrath and Devin Frank)
+# 命题 Propositions (Matthew McGrath and Devin Frank)

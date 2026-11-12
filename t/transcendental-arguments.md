@@ -1,1 +1,1 @@
-# 先验论证 transcendental arguments (Robert Stern and Tony Cheng)
+# 先验论证 Transcendental Arguments (Robert Stern and Tony Cheng)

@@ -1,1 +1,1 @@
-# 中世纪关系理论 medieval theories of (Jeffrey Brower)
+# 中世纪关系理论 Medieval Theories of Relations (Jeffrey Brower)

@@ -1,4 +1,4 @@
-# 罗曼·英伽登 Ingarden, Roman (Amie Thomasson)
+# 罗曼·英伽登 Roman Ingarden (Amie Thomasson)
 
 *首次发表于 2003 年 6 月 12 日；2026 年 6 月 11 日实质修订。*
 

@@ -1,4 +1,4 @@
-# 威廉·狄尔泰 Dilthey, Wilhelm (Rudolf Makkreel)
+# 威廉·狄尔泰 Wilhelm Dilthey (Rudolf Makkreel)
 
 *首次发表于 2008 年 1 月 16 日；2020 年 9 月 29 日实质修订。*
 

@@ -1,1 +1,1 @@
-# 作为理论的民间心理学 as a theory (Daniel Hutto and Ian Ravenscroft)
+# 作为理论的民间心理学 Folk Psychology as a Theory (Daniel Hutto and Ian Ravenscroft)

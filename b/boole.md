@@ -1,1 +1,1 @@
-# 乔治·布尔 Boole, George (Stanley Burris and Marcel Jackson)
+# 乔治·布尔 George Boole (Stanley Burris and Marcel Jackson)

@@ -1,1 +1,1 @@
-# 模态虚构主义 modal (Daniel Nolan)
+# 模态虚构主义 Modal Fictionalism (Daniel Nolan)

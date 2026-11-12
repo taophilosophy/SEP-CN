@@ -1,4 +1,4 @@
-# 哈丽雅特·泰勒·密尔 Mill, Harriet Taylor (Dale E. Miller)
+# 哈丽雅特·泰勒·密尔 Harriet Taylor Mill (Dale E. Miller)
 
 *首次发表于 2002 年 3 月 11 日；2022 年 7 月 29 日实质修订。*
 

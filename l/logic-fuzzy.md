@@ -1,4 +1,4 @@
-# 模糊逻辑 fuzzy (Petr Cintula, Christian G. Fermüller, and Carles Noguera)
+# 模糊逻辑 Fuzzy Logic (Petr Cintula, Christian G. Fermüller, and Carles Noguera)
 
 *首次发表于 2016 年 11 月 15 日；2021 年 11 月 11 日实质修订。*
 

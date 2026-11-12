@@ -1,1 +1,1 @@
-# 文化遗产伦理 cultural heritage, ethics of (Erich Hatala Matthes)
+# 文化遗产伦理 The Ethics of Cultural Heritage (Erich Hatala Matthes)

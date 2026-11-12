@@ -1,1 +1,1 @@
-# 生物伦理理论 theory (Jennifer Flynn)
+# 生物伦理理论 Theory and Bioethics (Jennifer Flynn)

@@ -1,1 +1,1 @@
-# 沃尔特·伯利 Burley [Burleigh], Walter (Alessandro Conti)
+# 沃尔特·伯利 Walter Burley (Alessandro Conti)

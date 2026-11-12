@@ -1,4 +1,4 @@
-# 能力 abilities (John Maier and Sophie Kikkert)
+# 能力 Abilities (John Maier and Sophie Kikkert)
 
 **首次发表于 2010 年 1 月 26 日；2025 年 4 月 22 日实质修订。**
 

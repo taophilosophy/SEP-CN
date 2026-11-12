@@ -1,1 +1,1 @@
-# 女性主义环境哲学 environmental philosophy (Karen J. Warren)
+# 女性主义环境哲学 Feminist Environmental Philosophy (Karen J. Warren)

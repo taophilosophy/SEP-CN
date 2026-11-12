@@ -1,4 +1,4 @@
-# 混合逻辑 hybrid (Torben Braüner)
+# 混合逻辑 Hybrid Logic (Torben Braüner)
 
 *首次发表于 2006 年 6 月 13 日；2021 年 12 月 22 日实质修订。*
 

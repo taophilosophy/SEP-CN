@@ -1,4 +1,4 @@
-# 希尔伯特纲领 Hilbert's program in the foundations of mathematics (Richard Zach)
+# 希尔伯特纲领 Hilbert’s Program (Richard Zach)
 
 *首次发表于 2003 年 7 月 31 日；2023 年 9 月 29 日实质修订。*
 

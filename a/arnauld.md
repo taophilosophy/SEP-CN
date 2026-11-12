@@ -1,1 +1,1 @@
-# 安托万·阿尔诺 Arnauld, Antoine (Elmar Kremer)
+# 安托万·阿尔诺 Antoine Arnauld (Elmar Kremer)

@@ -1,4 +1,4 @@
-# 犹大·莱昂·阿布拉瓦内尔 Abrabanel, Judah (Aaron Hughes)
+# 犹大·莱昂·阿布拉瓦内尔 Judah Abrabanel (Aaron Hughes)
 
 **首次发表于 2005 年 12 月 2 日；2022 年 6 月 8 日实质修订。**
 

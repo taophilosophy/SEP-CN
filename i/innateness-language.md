@@ -1,1 +1,1 @@
-# 先天与语言 and language (Gabe Dupre)
+# 先天与语言 Innateness and Language (Gabe Dupre)

@@ -1,1 +1,1 @@
-# 生物医学哲学 biomedicine, philosophy of (Sean Valles and Yael Friedman)
+# 生物医学哲学 Philosophy of Biomedicine (Sean Valles and Yael Friedman)

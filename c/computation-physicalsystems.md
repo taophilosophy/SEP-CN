@@ -1,1 +1,1 @@
-# 物理系统中的计算 in physical systems (Gualtiero Piccinini)
+# 物理系统中的计算 Computation in Physical Systems (Gualtiero Piccinini)

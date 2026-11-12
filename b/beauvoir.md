@@ -1,1 +1,1 @@
-# 西蒙娜·德·波伏娃 Beauvoir, Simone de (Debra Bergoffen and Megan Burke)
+# 西蒙娜·德·波伏娃 Simone de Beauvoir (Debra Bergoffen and Megan Burke)

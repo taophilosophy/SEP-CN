@@ -1,1 +1,1 @@
-# 基于逻辑的人工智能 logic-based (Richmond Thomason)
+# 基于逻辑的人工智能 Logic-Based Artificial Intelligence (Richmond Thomason)

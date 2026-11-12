@@ -1,4 +1,4 @@
-# 宗教经验 religious experience (Mark Webb)
+# 宗教经验 Religious Experience (Mark Webb)
 
 *首次发表于 2011 年 11 月 8 日；2022 年 8 月 26 日实质修订。*
 

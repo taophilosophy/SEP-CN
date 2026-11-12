@@ -1,1 +1,1 @@
-# 能动性 agency (Markus Schlosser)
+# 能动性 Agency (Markus Schlosser)

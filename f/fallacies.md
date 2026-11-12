@@ -1,1 +1,1 @@
-# 谬误 fallacies (Hans Hansen)
+# 谬误 Fallacies (Hans Hansen)

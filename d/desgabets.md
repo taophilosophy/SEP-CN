@@ -1,4 +1,4 @@
-# 罗伯特·戴加贝 Desgabets, Robert (Patricia Easton)
+# 罗伯特·戴加贝 Robert Desgabets (Patricia Easton)
 
 **首次发表于 2001 年 3 月 23 日；2023 年 5 月 22 日实质修订。**
 

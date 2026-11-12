@@ -1,4 +1,4 @@
-# 早期现代印度的分析哲学 Early Modern India, analytic philosophy in (Jonardon Ganeri)
+# 早期现代印度的分析哲学 Analytic Philosophy in Early Modern India (Jonardon Ganeri)
 
 *首次发表于 2009 年 3 月 10 日；2023 年 11 月 5 日实质修订。*
 

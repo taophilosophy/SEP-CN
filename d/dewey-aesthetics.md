@@ -1,1 +1,1 @@
-# 杜威的美学 aesthetics (Tom Leddy and Kalle Puolakka)
+# 杜威的美学 Dewey’s Aesthetics (Tom Leddy and Kalle Puolakka)

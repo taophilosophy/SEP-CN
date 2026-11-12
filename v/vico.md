@@ -1,1 +1,1 @@
-# 詹巴蒂斯塔·维柯 Vico, Giambattista (Timothy Costelloe)
+# 詹巴蒂斯塔·维柯 Giambattista Vico (Timothy Costelloe)

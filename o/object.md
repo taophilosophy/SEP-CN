@@ -1,4 +1,4 @@
-# 对象 object (Bradley Rettler and Andrew M. Bailey)
+# 对象 Object (Bradley Rettler and Andrew M. Bailey)
 
 *首次发表于 2017 年 10 月 26 日；2023 年 11 月 3 日实质修订。*
 

@@ -1,4 +1,4 @@
-# 汉斯-格奥尔格·伽达默尔 Gadamer, Hans-Georg (Jeff Malpas)
+# 汉斯-格奥尔格·伽达默尔 Hans-Georg Gadamer (Jeff Malpas)
 
 *首次发表于 2003 年 3 月 3 日；2022 年 8 月 22 日实质修订。*
 

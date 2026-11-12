@@ -1,1 +1,1 @@
-# 热力学时间非对称性 thermodynamic asymmetry in (Craig Callender)
+# 热力学时间非对称性 Thermodynamic Asymmetry in Time (Craig Callender)

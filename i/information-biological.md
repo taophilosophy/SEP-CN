@@ -1,4 +1,4 @@
-# 生物信息 biological (Marc Artiga)
+# 生物信息 Biological Information (Marc Artiga)
 
 *首次发表于 2024 年 7 月 19 日。*
 

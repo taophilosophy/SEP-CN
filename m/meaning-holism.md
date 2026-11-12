@@ -1,1 +1,1 @@
-# 意义整体论 meaning holism (Henry Jackman)
+# 意义整体论 Meaning Holism (Henry Jackman)

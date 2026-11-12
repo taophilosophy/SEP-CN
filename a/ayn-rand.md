@@ -1,1 +1,1 @@
-# 安·兰德 Rand, Ayn (Neera K. Badhwar and Roderick T. Long)
+# 安·兰德 Ayn Rand (Neera K. Badhwar and Roderick T. Long)

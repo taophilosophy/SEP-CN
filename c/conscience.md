@@ -1,4 +1,4 @@
-# 良心 conscience (Alberto Giubilini)
+# 良心 Conscience (Alberto Giubilini)
 
 *首次发表于 2016 年 3 月 14 日；2024 年 10 月 1 日实质修订。*
 

@@ -1,4 +1,4 @@
-# 想象性抗拒 imaginative resistance (Emine Hande Tuna)
+# 想象性抗拒 Imaginative Resistance (Emine Hande Tuna)
 
 *首次发表于 2020 年 4 月 13 日；2024 年 9 月 1 日实质修订。*
 

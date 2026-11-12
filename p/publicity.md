@@ -1,1 +1,1 @@
-# 公开性 publicity (Axel Gosseries and Tom Parr)
+# 公开性 Publicity (Axel Gosseries and Tom Parr)

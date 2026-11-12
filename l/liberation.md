@@ -1,1 +1,1 @@
-# 解放哲学 liberation, philosophy of (Eduardo Mendieta)
+# 解放哲学 Philosophy of Liberation (Eduardo Mendieta)

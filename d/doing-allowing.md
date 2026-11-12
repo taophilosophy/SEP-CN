@@ -1,1 +1,1 @@
-# 造成伤害与允许伤害 doing vs. allowing harm (Fiona Woollard, Frances Howard-Snyder, and Charlotte Unruh)
+# 造成伤害与允许伤害 Doing vs. Allowing Harm (Fiona Woollard, Frances Howard-Snyder, and Charlotte Unruh)

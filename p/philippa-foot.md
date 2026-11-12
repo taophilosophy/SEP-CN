@@ -1,1 +1,1 @@
-# 菲利帕·福特 Foot, Philippa (John Hacker-Wright)
+# 菲利帕·福特 Philippa Foot (John Hacker-Wright)

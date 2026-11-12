@@ -1,1 +1,1 @@
-# 法律经济学 economic analysis of law (Lewis Kornhauser)
+# 法律经济学 The Economic Analysis of Law (Lewis Kornhauser)

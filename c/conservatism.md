@@ -1,1 +1,1 @@
-# 保守主义 conservatism (Andy Hamilton)
+# 保守主义 Conservatism (Andy Hamilton)

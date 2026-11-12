@@ -1,1 +1,1 @@
-# 统计力学哲学 philosophy of statistical mechanics (Roman Frigg and Charlotte Werndl)
+# 统计力学哲学 Philosophy of Statistical Mechanics (Roman Frigg and Charlotte Werndl)

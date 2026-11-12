@@ -1,1 +1,1 @@
-# 自然法则 laws of nature (John W. Carroll)
+# 自然法则 Laws of Nature (John W. Carroll)

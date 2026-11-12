@@ -1,1 +1,1 @@
-# 战争 war (Seth Lazar)
+# 战争 War (Seth Lazar)

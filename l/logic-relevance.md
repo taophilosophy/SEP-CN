@@ -1,4 +1,4 @@
-# 相干逻辑 relevance (Edwin Mares)
+# 相干逻辑 Relevance Logic (Edwin Mares)
 
 *首次发表于 1998 年 6 月 17 日；2020 年 11 月 13 日实质修订。*
 

@@ -1,4 +1,4 @@
-# 约翰·邓·司各脱 Duns Scotus, John (Thomas Williams)
+# 约翰·邓·司各脱 John Duns Scotus (Thomas Williams)
 
 *首次发表于 2001 年 5 月 31 日；2025 年 12 月 15 日实质修订。*
 

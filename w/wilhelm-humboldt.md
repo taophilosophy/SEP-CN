@@ -1,1 +1,1 @@
-# 威廉·冯·洪堡 Humboldt, Wilhelm von (Kurt Mueller-Vollmer and Markus Messling)
+# 威廉·冯·洪堡 Wilhelm von Humboldt (Kurt Mueller-Vollmer and Markus Messling)

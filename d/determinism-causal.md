@@ -1,1 +1,1 @@
-# 因果决定论 causal (Carl Hoefer)
+# 因果决定论 Causal Determinism (Carl Hoefer)

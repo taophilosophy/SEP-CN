@@ -1,4 +1,4 @@
-# 莱布尼茨的模态形而上学 modal metaphysics (Brandon C. Look)
+# 莱布尼茨的模态形而上学 Leibniz’s Modal Metaphysics (Brandon C. Look)
 
 *首次发表于 2008 年 5 月 23 日；2013 年 2 月 8 日实质修订。*
 

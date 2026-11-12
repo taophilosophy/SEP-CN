@@ -1,4 +1,4 @@
-# 笛卡尔的物理学 physics (Edward Slowik)
+# 笛卡尔的物理学 Descartes’ Physics (Edward Slowik)
 
 **首次发表于 2005 年 7 月 29 日；2025 年 10 月 20 日实质修订。**
 

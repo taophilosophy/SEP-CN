@@ -1,1 +1,1 @@
-# 肮脏的手问题 dirty hands, the problem of (C.A.J. Coady)
+# 肮脏的手问题 The Problem of Dirty Hands (C.A.J. Coady)

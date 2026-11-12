@@ -1,4 +1,4 @@
-# 亚里士多德的矛盾律 on non-contradiction (Paula Gottlieb)
+# 亚里士多德的矛盾律 Aristotle on Non-contradiction (Paula Gottlieb)
 
 *首次发表于 2007 年 2 月 2 日；2023 年 10 月 19 日实质修订。*
 

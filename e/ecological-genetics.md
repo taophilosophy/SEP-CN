@@ -1,4 +1,4 @@
-# 生态遗传学 ecological (Michael Wade)
+# 生态遗传学 Ecological Genetics (Michael Wade)
 
 *首次发表于 2021 年 11 月 19 日；2026 年 1 月 12 日实质修订。*
 

@@ -1,4 +1,4 @@
-# 古代哲学的意向性 in ancient philosophy (Victor Caston)
+# 古代哲学的意向性 Intentionality in Ancient Philosophy (Victor Caston)
 
 *首次发表于 2003 年 9 月 22 日；2019 年 10 月 18 日实质修订。*
 

@@ -1,1 +1,1 @@
-# 比较认知学方法 comparative cognition, methods in (Marta Halina)
+# 比较认知学方法 Methods in Comparative Cognition (Marta Halina)

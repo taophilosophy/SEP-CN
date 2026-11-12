@@ -1,4 +1,4 @@
-# 必要条件和充分条件 necessary and sufficient conditions (Andrew Brennan)
+# 必要条件和充分条件 Necessary and Sufficient Conditions (Andrew Brennan)
 
 *首次发表于 2003 年 8 月 15 日；2022 年 7 月 6 日实质修订。*
 

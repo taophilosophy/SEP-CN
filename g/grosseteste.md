@@ -1,1 +1,1 @@
-# 罗伯特·格罗斯泰斯特 Grosseteste, Robert (Neil Lewis and Nicola Polloni)
+# 罗伯特·格罗斯泰斯特 Robert Grosseteste (Neil Lewis and Nicola Polloni)

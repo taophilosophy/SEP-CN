@@ -38,8 +38,11 @@ EXEMPT = {
 
 # 工具生成物（逐日重建、非叙事文档，ADR-0004 豁免表）：术语审阅报告由
 # tools/term_audit.py 生成，体量随登记册行数增长，拆分须先改生成器与解析器。
+# 2026-11-12 补记：016 目录重建预览稿由 bin/generate.py 单文件输出、仅供用户
+# 审阅，无任何解析器依赖；拆分须先改生成器且破坏对照审阅，同按生成物豁免。
 EXEMPT_RES = (
     re.compile(r"^specs/008-terminology-campaign/results/audit-\d{4}-\d{2}-\d{2}\.md$"),
+    re.compile(r"^specs/016-mulu-history-recategorize/results/mu-lu-s\.preview\.md$"),
 )
 
 

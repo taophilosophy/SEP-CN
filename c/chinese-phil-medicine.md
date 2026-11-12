@@ -1,4 +1,4 @@
-# 中国哲学与中医 Chinese medicine (Lisa Raphals)
+# 中国哲学与中医 Chinese Philosophy and Chinese Medicine (Lisa Raphals)
 
 *首次发表于 2015 年 4 月 28 日；2020 年 10 月 7 日实质修订。*
 

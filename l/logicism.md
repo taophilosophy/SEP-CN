@@ -1,1 +1,1 @@
-# 逻辑主义和新逻辑主义 logicism and neologicism (Neil Tennant)
+# 逻辑主义和新逻辑主义 Logicism and Neologicism (Neil Tennant)

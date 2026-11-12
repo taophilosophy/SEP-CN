@@ -1,1 +1,1 @@
-# 政治合法性 legitimacy, political (Fabienne Peter)
+# 政治合法性 Political Legitimacy (Fabienne Peter)

@@ -1,1 +1,1 @@
-# 公共理性 public reason (Jonathan Quong)
+# 公共理性 Public Reason (Jonathan Quong)

@@ -1,1 +1,1 @@
-# 集体意向性 collective (David P. Schweikard and Hans Bernhard Schmid)
+# 集体意向性 Collective Intentionality (David P. Schweikard and Hans Bernhard Schmid)

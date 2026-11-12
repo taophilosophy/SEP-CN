@@ -1,4 +1,4 @@
-# 亨利·雷吉乌斯 Regius, Henricus (Desmond Clarke and Erik-Jan Bos)
+# 亨利·雷吉乌斯 Henricus Regius (Desmond Clarke and Erik-Jan Bos)
 
 *首次发表于 2008 年 8 月 12 日；2026 年 3 月 3 日实质修订。*
 

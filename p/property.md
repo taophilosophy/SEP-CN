@@ -1,1 +1,1 @@
-# 财产和所有权 property and ownership (Jeremy Waldron and James Penner)
+# 财产和所有权 Property and Ownership (Jeremy Waldron and James Penner)

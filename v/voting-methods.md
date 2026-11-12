@@ -1,1 +1,1 @@
-# 投票方法 methods (Eric Pacuit)
+# 投票方法 Voting Methods (Eric Pacuit)

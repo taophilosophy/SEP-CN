@@ -1,1 +1,1 @@
-# 描述性决策理论 descriptive (Jake Chandler)
+# 描述性决策理论 Descriptive Decision Theory (Jake Chandler)

@@ -1,1 +1,1 @@
-# 美 beauty (Crispin Sartwell)
+# 美 Beauty (Crispin Sartwell)

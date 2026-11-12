@@ -1,1 +1,1 @@
-# 奥古斯特·孔德 Comte, Auguste (Michel Bourdeau)
+# 奥古斯特·孔德 Auguste Comte (Michel Bourdeau)

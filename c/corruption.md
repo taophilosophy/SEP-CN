@@ -1,1 +1,1 @@
-# 腐败 corruption (Seumas Miller)
+# 腐败 Corruption (Seumas Miller)

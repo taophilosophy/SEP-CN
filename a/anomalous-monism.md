@@ -1,1 +1,1 @@
-# 变异一元论 anomalous monism (Steven Yalowitz)
+# 变异一元论 Anomalous Monism (Steven Yalowitz)

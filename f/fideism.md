@@ -1,1 +1,1 @@
-# 信仰主义 fideism (Richard Amesbury)
+# 信仰主义 Fideism (Richard Amesbury)

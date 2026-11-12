@@ -1,1 +1,1 @@
-# 群体遗传学 population (Samir Okasha)
+# 群体遗传学 Population Genetics (Samir Okasha)

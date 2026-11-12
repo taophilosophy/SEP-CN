@@ -1,1 +1,1 @@
-# 机会与随机性 versus randomness (Antony Eagle)
+# 机会与随机性 Chance versus Randomness (Antony Eagle)

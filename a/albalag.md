@@ -1,4 +1,4 @@
-# 以撒·阿尔巴拉格 Albalag, Isaac (Bakinaz Abdalla)
+# 以撒·阿尔巴拉格 Isaac Albalag (Bakinaz Abdalla)
 
 **首次发表于 2020 年 8 月 20 日；2025 年 7 月 2 日实质修订。**
 

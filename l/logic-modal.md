@@ -1,1 +1,1 @@
-# 模态逻辑 modal (James Garson)
+# 模态逻辑 Modal Logic (James Garson)

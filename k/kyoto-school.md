@@ -1,1 +1,1 @@
-# 京都学派 Kyoto School (Bret W. Davis)
+# 京都学派 The Kyoto School (Bret W. Davis)

@@ -1,1 +1,1 @@
-# 文艺复兴时期的亚里士多德主义 in the Renaissance (David Lines)
+# 文艺复兴时期的亚里士多德主义 Aristotelianism in the Renaissance (David Lines)

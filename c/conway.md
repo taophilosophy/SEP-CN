@@ -1,4 +1,4 @@
-# 安妮·康威 Conway, Lady Anne (Sarah Hutton)
+# 安妮·康威 Lady Anne Conway (Sarah Hutton)
 
 **首次发表于 2003 年 2 月 13 日；2025 年 8 月 4 日实质修订。**
 

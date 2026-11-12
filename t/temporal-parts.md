@@ -1,1 +1,1 @@
-# 时间部分 temporal parts (Katherine Hawley)
+# 时间部分 Temporal Parts (Katherine Hawley)

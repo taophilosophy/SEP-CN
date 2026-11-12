@@ -1,1 +1,1 @@
-# 保罗·格莱斯 Grice, Paul (Richard E. Grandy and Richard Warner)
+# 保罗·格莱斯 Paul Grice (Richard E. Grandy and Richard Warner)

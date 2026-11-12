@@ -1,1 +1,1 @@
-# 本真性 authenticity (Somogy Varga and Charles Guignon)
+# 本真性 Authenticity (Somogy Varga and Charles Guignon)

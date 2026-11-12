@@ -1,1 +1,1 @@
-# 赫尔曼·科恩 Cohen, Hermann (Scott Edgar)
+# 赫尔曼·科恩 Hermann Cohen (Scott Edgar)

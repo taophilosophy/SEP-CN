@@ -1,1 +1,1 @@
-# 演化博弈论 evolutionary (J. McKenzie Alexander)
+# 演化博弈论 Evolutionary Game Theory (J. McKenzie Alexander)

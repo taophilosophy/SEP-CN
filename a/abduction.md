@@ -1,4 +1,4 @@
-# 溯因 abduction (Igor Douven)
+# 溯因 Abduction (Igor Douven)
 
 **首次发表于 2011 年 3 月 9 日；2025 年 6 月 18 日实质修订。**
 

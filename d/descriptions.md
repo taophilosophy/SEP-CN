@@ -1,1 +1,1 @@
-# 摹状词 descriptions (Peter Ludlow)
+# 摹状词 Descriptions (Peter Ludlow)

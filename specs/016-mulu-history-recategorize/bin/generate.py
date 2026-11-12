@@ -17,19 +17,22 @@ OUT = os.path.join(ROOT, 'specs', '016-mulu-history-recategorize', 'results', 'm
 ORDER = [
     'A11', 'A12', 'A13', 'A21', 'A22', 'A23', 'A24', 'A25',
     'A31', 'A32', 'A33', 'A34', 'A35', 'A9',
-    'M11', 'M12', 'M13', 'M14', 'M21', 'M22', 'M31', 'M32',
-    'M41', 'M42', 'M51', 'M52', 'M61', 'M62', 'M63', 'M71', 'M72', 'M8', 'M9',
-    'R1', 'R21', 'R22', 'R3', 'R4',
-    'N10', 'N11', 'N12', 'N13', 'N14', 'N21', 'N22', 'N23', 'N24', 'N25',
-    'N31', 'N32', 'N33', 'N34', 'N26', 'N41', 'N42', 'N43', 'N44', 'N5',
+    'M11', 'M12', 'M13', 'M14', 'M21', 'M22', 'M31', 'M32', 'M33',
+    'M41', 'M42', 'M51', 'M52', 'M65', 'M66', 'M67', 'M68', 'M62', 'M61', 'M64', 'M71', 'M72', 'M8', 'M9',
+    'R1', 'R21', 'R22', 'R23', 'R3', 'R4',
+    'N10', 'N11', 'N12', 'N13', 'N14', 'N21', 'N22', 'N23', 'N24', 'N25', 'N26',
+    'N31', 'N32', 'N33', 'N34', 'N35', 'N36', 'N41', 'N42', 'N43', 'N44', 'N5',
     'C11', 'C12', 'C13', 'C21', 'C22', 'C23', 'C31', 'C32', 'C33', 'C34',
-    'C4', 'C5', 'C6', 'C71', 'C72', 'C73', 'C74', 'C75', 'C8', 'C9', 'C10', 'C11p',
+    'C41', 'C42', 'C43', 'C5', 'C61', 'C62', 'C71', 'C72', 'C73', 'C74', 'C75',
+    'C81', 'C82', 'C83', 'C91', 'C92', 'C93', 'C94', 'C10', 'C11p',
+    'C20', 'C201', 'C202', 'C203', 'C204', 'C205',
     'J1', 'J2', 'J3',
-    'CH1', 'CH2', 'CH3', 'CH4', 'CH5', 'CH6', 'CH7', 'CH8', 'CH9',
+    'CH11', 'CH12', 'CH13', 'CH14', 'CH15', 'CH16', 'CH2', 'CH31', 'CH32',
+    'CH4', 'CH5', 'CH6', 'CH7', 'CH8', 'CH9',
     'IN1', 'IN2', 'IN3', 'IN4', 'IN5', 'IN6', 'IN7',
-    'JP1', 'JP2', 'JP3', 'JP4',
+    'JP1', 'JP2', 'JP31', 'JP4',
     'KR1', 'KR2', 'KR3',
-    'IS1', 'IS2', 'IS3', 'IS4',
+    'IS1', 'IS2', 'IS31', 'IS32', 'IS33', 'IS3', 'IS4',
     'AF1', 'AF2', 'AF3',
     'LA1', 'LA2',
 ]
@@ -60,6 +63,13 @@ def build_path_map(lines):
     return m
 
 
+def strip_num(s):
+    """去掉标题前的序号：一、 / 1.1 / 2.6 / 5.12 等。"""
+    s = re.sub(r'^[一二三四五六七八九十]+、\s*', '', s)
+    s = re.sub(r'^\d+(\.\d+)*\s+', '', s)
+    return s
+
+
 def emit_section(out, path, rows, path_map, last):
     parts = path.split(' > ')
     # 只输出与上一节不同的层级
@@ -67,7 +77,7 @@ def emit_section(out, path, rows, path_map, last):
     while common < min(len(parts), len(last)) and parts[common] == last[common]:
         common += 1
     for i in range(common, len(parts)):
-        out.append('#' * (i + 1) + ' ' + parts[i])
+        out.append('#' * (i + 1) + ' ' + strip_num(parts[i]))
         out.append('')
     slugs = {r['slug'] for r in rows}
     roots = [r for r in rows if r['parent'] not in slugs]
@@ -135,6 +145,10 @@ SPECIFIC = {
     'hume-freewill': 20, 'hume-newton': 40, 'hume-moral': 50,
     'hume-aesthetics': 70, 'hume-religion': 80,
     'hobbes-science': 40, 'hobbes-moral': 50,
+    'al-farabi-logic': 10, 'al-farabi-metaphysics': 20,
+    'al-farabi-psych': 30, 'al-farabi-soc-rel': 60,
+    'ibn-sina-logic': 10, 'ibn-sina-metaphysics': 20, 'ibn-sina-natural': 40,
+    'ibn-rushd-natural': 40,
 }
 
 
@@ -175,8 +189,8 @@ def parse_original():
     start = next(i for i, l in enumerate(lines) if l.startswith('# 前言'))
     about = next(i for i, l in enumerate(lines) if l.startswith('# 关于'))
     west = next(i for i, l in enumerate(lines) if l.startswith('# 西方哲学史'))
-    region = next(i for i, l in enumerate(lines) if l.startswith('# 区域哲学'))
     theory = next(i for i, l in enumerate(lines) if l.startswith('# 哲学通论'))
+    region = next((i for i, l in enumerate(lines) if l.startswith('# 区域哲学') or l.startswith('# 欧美以外哲学史')), theory)
     return lines, start, about, west, region, theory
 
 

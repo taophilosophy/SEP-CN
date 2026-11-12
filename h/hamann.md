@@ -1,4 +1,4 @@
-# 约翰·格奥尔格·哈曼 Hamann, Johann Georg (Gwen Griffith-Dickson)
+# 约翰·格奥尔格·哈曼 Johann Georg Hamann (Gwen Griffith-Dickson)
 
 *首次发表于 2002 年 6 月 29 日；2026 年 9 月 23 日实质修订。*
 

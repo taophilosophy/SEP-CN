@@ -1,1 +1,1 @@
-# 戈特洛布·弗雷格 Frege, Gottlob (Edward N. Zalta)
+# 戈特洛布·弗雷格 Gottlob Frege (Edward N. Zalta)

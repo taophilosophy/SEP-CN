@@ -1,4 +1,4 @@
-# 基于行动的知觉理论 action-based theories of perception (Robert Briscoe, Rick Grush, and Alison Springle)
+# 基于行动的知觉理论 Action-based Theories of Perception (Robert Briscoe, Rick Grush, and Alison Springle)
 
 **首次发表于 2015 年 7 月 8 日；2023 年 9 月 19 日实质修订。**
 

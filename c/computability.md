@@ -1,4 +1,4 @@
-# 可计算性与复杂度 computability and complexity (Neil Immerman)
+# 可计算性与复杂度 Computability and Complexity (Neil Immerman)
 
 *首次发表于 2004 年 6 月 24 日；2021 年 10 月 18 日实质修订。*
 

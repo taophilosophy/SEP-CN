@@ -1,1 +1,1 @@
-# 和解 reconciliation (Linda Radzik and Colleen Murphy)
+# 和解 Reconciliation (Linda Radzik and Colleen Murphy)

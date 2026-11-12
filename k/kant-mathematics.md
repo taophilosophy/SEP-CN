@@ -1,4 +1,4 @@
-# 康德的数学哲学 Kant's Philosophy of Mathematics (Lisa Shabel)
+# 康德的数学哲学 Kant’s Philosophy of Mathematics (Lisa Shabel)
 
 *首次发表于 2013 年 7 月 19 日；2021 年 8 月 11 日实质修订。*
 

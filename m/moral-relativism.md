@@ -1,1 +1,1 @@
-# 道德相对主义 moral relativism (Chris Gowans)
+# 道德相对主义 Moral Relativism (Chris Gowans)

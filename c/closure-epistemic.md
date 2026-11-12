@@ -1,4 +1,4 @@
-# 认知闭合 epistemic closure (Steven Luper)
+# 认知闭合 Epistemic Closure (Steven Luper)
 
 **首次发表于 2001 年 12 月 31 日；2016 年 2 月 24 日实质修订。**
 

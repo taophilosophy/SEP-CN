@@ -1,1 +1,1 @@
-# 简单性 simplicity (Alan Baker)
+# 简单性 Simplicity (Alan Baker)

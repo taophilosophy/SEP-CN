@@ -1,1 +1,1 @@
-# 直觉主义逻辑的发展 intuitionistic logic (Mark van Atten)
+# 直觉主义逻辑的发展 The Development of Intuitionistic Logic (Mark van Atten)

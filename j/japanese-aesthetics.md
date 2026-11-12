@@ -1,4 +1,4 @@
-# 日本美学 aesthetics (Graham Parkes and Adam Loughnane)
+# 日本美学 Japanese Aesthetics (Graham Parkes and Adam Loughnane)
 
 *首次发表于 2005 年 12 月 12 日；2023 年 12 月 6 日实质修订。*
 

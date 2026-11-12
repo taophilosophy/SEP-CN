@@ -1,4 +1,4 @@
-# 亚尼修·玛理乌斯·塞味利诺·波爱修斯 Boethius, Anicius Manlius Severinus (John Marenbon)
+# 亚尼修·玛理乌斯·塞味利诺·波爱修斯 Anicius Manlius Severinus Boethius (John Marenbon)
 
 *首次发表于 2005 年 5 月 6 日；内容修订于 2026 年 10 月 14 日。*
 

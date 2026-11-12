@@ -1,1 +1,1 @@
-# 基督教思想中的罪 sin, in Christian thought (Kevin Timpe)
+# 基督教思想中的罪 Sin in Christian Thought (Kevin Timpe)

@@ -1,1 +1,1 @@
-# 印度的“二谛”理论 two truths in India, theory of (Sonam Thakchoe)
+# 印度的“二谛”理论 The Theory of Two Truths in India (Sonam Thakchoe)

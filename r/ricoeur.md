@@ -1,4 +1,4 @@
-# 保罗·利科 Ricoeur, Paul (David Pellauer, Bernard Dauenhauer, and Scott Davidson)
+# 保罗·利科 Paul Ricoeur (David Pellauer, Bernard Dauenhauer, and Scott Davidson)
 
 *首次发表于 2002 年 11 月 11 日；2026 年 1 月 5 日实质修订。*
 

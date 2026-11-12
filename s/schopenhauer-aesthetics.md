@@ -1,1 +1,1 @@
-# 叔本华的美学 aesthetics (Sandra Shapshay)
+# 叔本华的美学 Schopenhauer’s Aesthetics (Sandra Shapshay)

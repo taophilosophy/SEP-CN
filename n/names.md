@@ -1,1 +1,1 @@
-# 专名 names (Sam Cumming)
+# 专名 Names (Sam Cumming)

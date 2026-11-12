@@ -1,1 +1,1 @@
-# 行动的逻辑 action (Krister Segerberg, John-Jules Meyer, and Marcus Kracht)
+# 行动的逻辑 The Logic of Action (Krister Segerberg, John-Jules Meyer, and Marcus Kracht)

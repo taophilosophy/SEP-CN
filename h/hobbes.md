@@ -1,1 +1,1 @@
-# 托马斯·霍布斯 Hobbes, Thomas (Stewart Duncan)
+# 托马斯·霍布斯 Thomas Hobbes (Stewart Duncan)

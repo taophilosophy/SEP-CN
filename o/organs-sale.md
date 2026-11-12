@@ -1,4 +1,4 @@
-# 人体器官买卖 sale of human organs (Stephen Wilkinson)
+# 人体器官买卖 The Sale of Human Organs (Stephen Wilkinson)
 
 *首次发表于 2011 年 10 月 17 日；2025 年 3 月 10 日实质修订。*
 

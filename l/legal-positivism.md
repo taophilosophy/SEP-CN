@@ -1,1 +1,1 @@
-# 法律实证主义 legal positivism (Leslie Green and Thomas Adams)
+# 法律实证主义 Legal Positivism (Leslie Green and Thomas Adams)

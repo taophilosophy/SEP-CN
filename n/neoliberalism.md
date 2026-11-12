@@ -1,1 +1,1 @@
-# 新自由主义 neoliberalism (Kevin Vallier)
+# 新自由主义 Neoliberalism (Kevin Vallier)

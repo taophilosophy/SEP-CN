@@ -1,4 +1,4 @@
-# 教育机会均等 of educational opportunity (Liam Shields, Anne Newman, and Debra Satz)
+# 教育机会均等 Equality of Educational Opportunity (Liam Shields, Anne Newman, and Debra Satz)
 
 *首次发表于 2017 年 5 月 31 日；2023 年 3 月 17 日实质修订。*
 

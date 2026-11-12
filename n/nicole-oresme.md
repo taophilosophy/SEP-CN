@@ -1,4 +1,4 @@
-# 尼科尔·奥雷斯姆 Oresme, Nicole (Stefan Kirschner)
+# 尼科尔·奥雷斯姆 Nicole Oresme (Stefan Kirschner)
 
 *首次发表于 2009 年 7 月 23 日；2025 年 12 月 17 日实质修订。*
 

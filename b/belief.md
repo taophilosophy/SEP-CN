@@ -1,1 +1,1 @@
-# 信念 belief (Eric Schwitzgebel)
+# 信念 Belief (Eric Schwitzgebel)

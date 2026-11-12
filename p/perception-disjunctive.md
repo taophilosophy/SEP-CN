@@ -1,1 +1,1 @@
-# 感知的析取理论 the disjunctive theory of (Matthew Soteriou)
+# 感知的析取理论 The Disjunctive Theory of Perception (Matthew Soteriou)

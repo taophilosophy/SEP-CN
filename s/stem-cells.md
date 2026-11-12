@@ -1,4 +1,4 @@
-# 干细胞研究的伦理问题 stem cell research (Andrew Siegel)
+# 干细胞研究的伦理问题 Ethics of Stem Cell Research (Andrew Siegel)
 
 *首次发表于 2008 年 4 月 25 日；2018 年 12 月 19 日实质修订。*
 

@@ -1,1 +1,1 @@
-# 法律权利 legal rights (Ori Herstein)
+# 法律权利 Legal Rights (Ori Herstein)

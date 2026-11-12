@@ -1,1 +1,1 @@
-# 心灵计算理论 computational theory of (Michael Rescorla)
+# 心灵计算理论 The Computational Theory of Mind (Michael Rescorla)

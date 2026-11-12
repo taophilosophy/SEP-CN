@@ -1,4 +1,4 @@
-# 安东尼奥·罗斯米尼 Rosmini, Antonio (Denis Cleary)
+# 安东尼奥·罗斯米尼 Antonio Rosmini (Denis Cleary)
 
 **首次发表于 2001 年 12 月 28 日；2015 年 5 月 15 日实质修订。**
 

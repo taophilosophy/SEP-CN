@@ -1,1 +1,1 @@
-# 厚伦理概念 thick ethical concepts (Pekka Väyrynen)
+# 厚伦理概念 Thick Ethical Concepts (Pekka Väyrynen)

@@ -1,1 +1,1 @@
-# 尼采的生平与著作 life and works (Robert Wicks)
+# 尼采的生平与著作 Nietzsche’s Life and Works (Robert Wicks)

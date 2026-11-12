@@ -1,1 +1,1 @@
-# 新康德主义 neo-Kantianism (Jeremy Heis)
+# 新康德主义 Neo-Kantianism (Jeremy Heis)

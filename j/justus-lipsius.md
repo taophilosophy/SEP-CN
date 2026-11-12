@@ -1,4 +1,4 @@
-# 尤斯图斯·利普修斯 Lipsius, Justus (Jan Papy)
+# 尤斯图斯·利普修斯 Justus Lipsius (Jan Papy)
 
 *首次发表于 2004 年 8 月 23 日；2019 年 3 月 1 日实质修订。*
 

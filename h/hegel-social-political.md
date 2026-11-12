@@ -1,4 +1,4 @@
-# 黑格尔的社会与政治哲学 Hegel's Social and Political Philosophy (Thom Brooks)
+# 黑格尔的社会与政治哲学 Hegel’s Social and Political Philosophy (Thom Brooks)
 
 *首次发表于 2021 年 6 月 3 日；2025 年 3 月 31 日实质修订。*
 

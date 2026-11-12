@@ -1,1 +1,1 @@
-# 批判的残疾理论 critical disability theory (Melinda C. Hall)
+# 批判的残疾理论 Critical Disability Theory (Melinda C. Hall)

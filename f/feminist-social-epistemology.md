@@ -1,1 +1,1 @@
-# 女性主义社会认识论 social epistemology (Heidi Grasswick)
+# 女性主义社会认识论 Feminist Social Epistemology (Heidi Grasswick)

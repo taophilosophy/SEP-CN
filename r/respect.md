@@ -1,1 +1,1 @@
-# 尊重 respect (Robin S. Dillon)
+# 尊重 Respect (Robin S. Dillon)

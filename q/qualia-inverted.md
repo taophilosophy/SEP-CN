@@ -1,1 +1,1 @@
-# 感质倒转 inverted (Alex Byrne)
+# 感质倒转 Inverted Qualia (Alex Byrne)

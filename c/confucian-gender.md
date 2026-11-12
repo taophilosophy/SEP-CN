@@ -1,1 +1,1 @@
-# 儒学中的性别 gender in Confucian philosophy (Li-Hsiang Rosenlee)
+# 儒学中的性别 Gender in Confucian Philosophy (Li-Hsiang Rosenlee)

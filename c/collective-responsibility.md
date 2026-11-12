@@ -1,1 +1,1 @@
-# 集体责任 collective (Marion Smiley)
+# 集体责任 Collective Responsibility (Marion Smiley)

@@ -1,1 +1,1 @@
-# 分体论 mereology (Achille Varzi)
+# 分体论 Mereology (Achille Varzi)

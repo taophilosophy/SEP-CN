@@ -1,4 +1,4 @@
-# 关于如何做某事的知识 knowledge how (Carlotta Pavese)
+# 关于如何做某事的知识 Knowledge How (Carlotta Pavese)
 
 *首次发表于 2021 年 4 月 20 日。*
 

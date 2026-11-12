@@ -1,1 +1,1 @@
-# 多元文化主义 multiculturalism (Sarah Song)
+# 多元文化主义 Multiculturalism (Sarah Song)

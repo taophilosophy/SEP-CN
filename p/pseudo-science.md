@@ -1,1 +1,1 @@
-# 科学与伪科学 and pseudo-science (Sven Ove Hansson)
+# 科学与伪科学 Science and Pseudo-Science (Sven Ove Hansson)

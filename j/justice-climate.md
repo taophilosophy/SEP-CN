@@ -1,1 +1,1 @@
-# 气候正义 climate (Simon Caney)
+# 气候正义 Climate Justice (Simon Caney)

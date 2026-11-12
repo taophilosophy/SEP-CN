@@ -1,1 +1,1 @@
-# 阿尔贝·加缪 Camus, Albert (Ronald Aronson)
+# 阿尔贝·加缪 Albert Camus (Ronald Aronson)

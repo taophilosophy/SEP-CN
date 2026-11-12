@@ -1,1 +1,1 @@
-# 文化 culture (Patti Tamara Lenard)
+# 文化 Culture (Patti Tamara Lenard)

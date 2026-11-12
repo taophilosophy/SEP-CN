@@ -1,4 +1,4 @@
-# 自然哲学的数学原理 Philosophiae Naturalis Principia Mathematica (George Smith)
+# 自然哲学的数学原理 Newton’s Philosophiae Naturalis Principia Mathematica (George Smith)
 
 *首次发表于 2007 年 12 月 20 日。*
 

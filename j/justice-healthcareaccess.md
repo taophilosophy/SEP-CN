@@ -1,1 +1,1 @@
-# 医疗保健的公正与获取 justice and access to health care (Norman Daniels)
+# 医疗保健的公正与获取 Justice and Access to Health Care (Norman Daniels)

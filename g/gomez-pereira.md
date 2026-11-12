@@ -1,4 +1,4 @@
-# 戈麦斯·佩雷拉 Pereira, Gómez (José Manuel García Valverde)
+# 戈麦斯·佩雷拉 Gómez Pereira (José Manuel García Valverde)
 
 *首次发表于 2022 年 4 月 19 日；2026 年 6 月 8 日实质修订。*
 

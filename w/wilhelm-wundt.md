@@ -1,1 +1,1 @@
-# 威廉·马克西米利安·冯特 Wundt, Wilhelm Maximilian (Alan Kim)
+# 威廉·马克西米利安·冯特 Wilhelm Maximilian Wundt (Alan Kim)

@@ -1,4 +1,4 @@
-# 儿童哲学 children, philosophy for (Michael Pritchard)
+# 儿童哲学 Philosophy for Children (Michael Pritchard)
 
 *首次发表于 2002 年 5 月 2 日；2022 年 5 月 27 日实质修订。*
 

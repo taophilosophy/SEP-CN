@@ -1,1 +1,1 @@
-# 话语表征理论 discourse representation theory (Bart Geurts, David I. Beaver, and Emar Maier)
+# 话语表征理论 Discourse Representation Theory (Bart Geurts, David I. Beaver, and Emar Maier)

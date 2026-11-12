@@ -1,1 +1,1 @@
-# 归纳问题 problem of (Leah Henderson)
+# 归纳问题 The Problem of Induction (Leah Henderson)

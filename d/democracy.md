@@ -1,1 +1,1 @@
-# 民主 democracy (Tom Christiano and Sameer Bajaj)
+# 民主 Democracy (Tom Christiano and Sameer Bajaj)

@@ -1,1 +1,1 @@
-# 早期中国哲学中的情 emotions in early Chinese Philosophy (Bongrae Seok)
+# 早期中国哲学中的情 The Emotions in Early Chinese Philosophy (Bongrae Seok)

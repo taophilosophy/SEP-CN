@@ -1,4 +1,4 @@
-# 唐纳德·戴维森 Davidson, Donald (Jeff Malpas)
+# 唐纳德·戴维森 Donald Davidson (Jeff Malpas)
 
 *首次发表于 1996 年 5 月 29 日；2023 年 4 月 28 日实质修订。*
 

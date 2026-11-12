@@ -1,4 +1,4 @@
-# 自愿安乐死 voluntary euthanasia (Robert Young)
+# 自愿安乐死 Voluntary Euthanasia (Robert Young)
 
 *首次发表于 1996 年 4 月 18 日；2024 年 3 月 9 日实质修订。*
 

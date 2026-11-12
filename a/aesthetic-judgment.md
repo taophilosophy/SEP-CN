@@ -1,4 +1,4 @@
-# 审美判断 aesthetic judgment (Nick Zangwill)
+# 审美判断 Aesthetic Judgment (Nick Zangwill)
 
 *首次发表于 2003 年 2 月 28 日；2023 年 2 月 16 日实质修订。*
 

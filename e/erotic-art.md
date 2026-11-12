@@ -1,4 +1,4 @@
-# 情色艺术 erotic (Hans Maes)
+# 情色艺术 Erotic Art (Hans Maes)
 
 *首次发表于 2014 年 8 月 20 日；2023 年 2 月 7 日实质修订。*
 

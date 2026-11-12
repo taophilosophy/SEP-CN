@@ -1,1 +1,1 @@
-# 罗伯特·基尔沃比 Kilwardby, Robert (José Filipe Silva)
+# 罗伯特·基尔沃比 Robert Kilwardby (José Filipe Silva)

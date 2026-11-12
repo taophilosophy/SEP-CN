@@ -1,1 +1,1 @@
-# 可辩驳推理 defeasible (Robert Koons)
+# 可辩驳推理 Defeasible Reasoning (Robert Koons)

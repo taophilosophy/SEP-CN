@@ -1,1 +1,1 @@
-# 洛克的伦理学 moral philosophy (Patricia Sheridan)
+# 洛克的伦理学 Locke’s Moral Philosophy (Patricia Sheridan)

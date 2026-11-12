@@ -1,1 +1,1 @@
-# 科学表征 scientific representation (Roman Frigg and James Nguyen)
+# 科学表征 Scientific Representation (Roman Frigg and James Nguyen)

@@ -1,4 +1,4 @@
-# 布伦塔诺的判断理论 theory of judgement (Johannes L. Brandl and Mark Textor)
+# 布伦塔诺的判断理论 Brentano’s Theory of Judgement (Johannes L. Brandl and Mark Textor)
 
 *首次发表于 2000 年 11 月 22 日；2022 年 12 月 13 日实质修订。*
 

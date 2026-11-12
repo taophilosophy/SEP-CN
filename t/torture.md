@@ -1,1 +1,1 @@
-# 酷刑 torture (Seumas Miller)
+# 酷刑 Torture (Seumas Miller)

@@ -1,1 +1,1 @@
-# 宗教语言 religious language (Michael Scott)
+# 宗教语言 Religious Language (Michael Scott)

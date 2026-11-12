@@ -623,6 +623,14 @@
 
 补充说明：2.6 的 155 条与本轮 74 条之差，源于干执行二（f25d0108）已对齐 263 处，本轮不再重复改动已一致项。作者判定以条目页 `citation_author` 为准；contents 页个别条目滞后（berlin、pascal、pragmatic-belief-god、nonwellfounded-set-theory），四处均经现行页面逐条核对后定夺。
 
+### 11.1 英文标题标准化（2026-11-12）
+
+以条目页 `citation_title` 为唯一英文标题来源，对 1872 条主条目全量比对：一致 320 条，需改 1552 条（仅大小写 519、二级残片 581、人名倒装 315、扩写 36、其他改写 140、标点 2）。已按 SUMMARY、mu-lu-s、H1 三处同步写回（提交 d1da30154）；别名目标英文同步 237 条，自指别名 185 条暂留原目录记法，待编辑处理。
+
+效果：`check_summary` H1 不一致 0、别名残片 0；`check_mulu_s` 硬错误 0；官方目录与 SUMMARY 双向差集 0。
+
+口径说明：`baseline/entries.json` 的 `title` 字段即条目页标题，本次以它为源，不引入编辑判断；`baseline/catalog.json` 的 `title` 是 contents 索引式（残片、倒装），只用于目录归属比对，不再作为标题来源。作者串维持官方 `A, B, and C`，以末尾括号定界，不改分隔符。
+
 ## 附录 A（已拆分）
 
 附录 A"未纳入分类目录的词条名单（800 条）"已按单体文件治理（ADR-0004）拆分至 [fu-lu-a.md](fu-lu-a.md)。

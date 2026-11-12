@@ -1,1 +1,1 @@
-# 形式化学习理论 learning theory, formal (Oliver Schulte)
+# 形式化学习理论 Formal Learning Theory (Oliver Schulte)

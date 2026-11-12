@@ -1,4 +1,4 @@
-# 约瑟夫·卡斯皮 Kaspi, Joseph (Hannah Kasher and Moshe Kahan)
+# 约瑟夫·卡斯皮 Joseph Kaspi (Hannah Kasher and Moshe Kahan)
 
 *首次发表于 2006 年 6 月 6 日；2023 年 4 月 10 日实质修订。*
 

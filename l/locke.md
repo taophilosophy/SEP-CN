@@ -1,1 +1,1 @@
-# 约翰·洛克 Locke, John (William Uzgalis)
+# 约翰·洛克 John Locke (William Uzgalis)

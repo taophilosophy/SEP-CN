@@ -1,1 +1,1 @@
-# 科学中的理论术语 theoretical terms in science (Holger Andreas)
+# 科学中的理论术语 Theoretical Terms in Science (Holger Andreas)

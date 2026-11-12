@@ -1,1 +1,1 @@
-# 囚徒困境 prisoner’s dilemma (Steven Kuhn)
+# 囚徒困境 Prisoner’s Dilemma (Steven Kuhn)

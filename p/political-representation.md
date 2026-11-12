@@ -1,1 +1,1 @@
-# 政治代表 representation, political (Suzanne Dovi and Wendy Salkin)
+# 政治代表 Political Representation (Suzanne Dovi and Wendy Salkin)

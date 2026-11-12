@@ -1,4 +1,4 @@
-# 坎特伯雷的安瑟伦 Anselm of Canterbury [Anselm of Bec] (Thomas Williams)
+# 坎特伯雷的安瑟伦 Anselm of Canterbury (Thomas Williams)
 
 **首次发表于 2000 年 5 月 18 日；2023 年 7 月 16 日实质修订。**
 

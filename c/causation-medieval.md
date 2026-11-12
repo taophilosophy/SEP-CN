@@ -1,4 +1,4 @@
-# 中世纪的因果理论 medieval theories of (Graham White)
+# 中世纪的因果理论 Medieval Theories of Causation (Graham White)
 
 *首次发表于 2001 年 8 月 10 日；2018 年 4 月 23 日实质修订。*
 

@@ -1,1 +1,1 @@
-# 道德运气 moral (Dana K. Nelkin)
+# 道德运气 Moral Luck (Dana K. Nelkin)

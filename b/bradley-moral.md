@@ -1,4 +1,4 @@
-# 布拉德雷的伦理学 moral philosophy (Dina Babushkina and David Crossley)
+# 布拉德雷的伦理学 Bradley’s Moral Philosophy (Dina Babushkina and David Crossley)
 
 *首次发表于 2024 年 3 月 6 日。*
 

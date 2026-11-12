@@ -1,1 +1,1 @@
-# 中世纪的良心理论 medieval theories of (Peter Eardley)
+# 中世纪的良心理论 Medieval Theories of Conscience (Peter Eardley)

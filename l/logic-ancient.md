@@ -1,1 +1,1 @@
-# 古代逻辑学 ancient (Susanne Bobzien)
+# 古代逻辑学 Ancient Logic (Susanne Bobzien)

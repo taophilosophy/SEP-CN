@@ -1,1 +1,1 @@
-# 自然语言语义学的情境 in natural language semantics (Angelika Kratzer)
+# 自然语言语义学的情境 Situations in Natural Language Semantics (Angelika Kratzer)

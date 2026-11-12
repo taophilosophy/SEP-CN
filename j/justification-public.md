@@ -1,1 +1,1 @@
-# 公共证成 public (Kevin Vallier)
+# 公共证成 Public Justification (Kevin Vallier)

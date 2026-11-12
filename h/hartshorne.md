@@ -1,4 +1,4 @@
-# 查尔斯·哈茨霍恩 Hartshorne, Charles (Dan Dombrowski)
+# 查尔斯·哈茨霍恩 Charles Hartshorne (Dan Dombrowski)
 
 *首次发表于 2001 年 7 月 23 日；2024 年 3 月 3 日实质修订。*
 

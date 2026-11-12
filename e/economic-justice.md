@@ -1,1 +1,1 @@
-# 规范经济学与经济正义 economics [normative] and economic justice (Marc Fleurbaey)
+# 规范经济学与经济正义 Normative Economics and Economic Justice (Marc Fleurbaey)

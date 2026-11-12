@@ -1,0 +1,348 @@
+{
+ "key": "republic",
+ "term": "Republic",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T11:04:59+00:00",
+ "status": "ok",
+ "note": "variant=Republic; 审定公布名词库=592; 海峡两岸名词对照库=60; 其他来源数据库=138; 预公布名词数据库=148; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "诺夫哥罗德共和国",
+   "en": "Novgorod Republic",
+   "code": "02.0719",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_东欧"
+  },
+  {
+   "cn": "普斯科夫共和国",
+   "en": "Pskkov Republic",
+   "code": "02.0721",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_东欧"
+  },
+  {
+   "cn": "吉朗共和国",
+   "en": "Gilan Republic",
+   "code": "04.0407",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_西亚"
+  },
+  {
+   "cn": "魏玛共和国",
+   "en": "Weimar Republic",
+   "code": "03.0623",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_德国、奥地利"
+  },
+  {
+   "cn": "苏维埃社会主义自治共和国",
+   "en": "Autonomous Republic",
+   "code": "05.0411",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人"
+  },
+  {
+   "cn": "海尔维第共和国",
+   "en": "Helvetian Republic",
+   "code": "03.0843",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_瑞士"
+  },
+  {
+   "cn": "罗马共和国",
+   "en": "Roman Republic",
+   "code": "03.0678",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_意大利"
+  },
+  {
+   "cn": "再版",
+   "en": "republishing;republication",
+   "code": "01.03.083",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_综论_出版基础"
+  },
+  {
+   "cn": "帕尔马雷斯共和国",
+   "en": "Republic of Palmars",
+   "code": "04.0703",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_南美"
+  },
+  {
+   "cn": "得克萨斯共和国",
+   "en": "Republic of Texas",
+   "code": "04.0611",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_墨西哥、中美洲"
+  },
+  {
+   "cn": "威尼斯共和国",
+   "en": "Republic of Venice",
+   "code": "02.0609",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_西欧"
+  },
+  {
+   "cn": "热那亚共和国",
+   "en": "Republic of Genoa",
+   "code": "02.0612",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_西欧"
+  },
+  {
+   "cn": "公有土地",
+   "en": "public land\",\"public domain",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "民意,舆论",
+   "en": "public opinions",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "公共距离",
+   "en": "public distance",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "公众照射",
+   "en": "public exposure",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "公共市场",
+   "en": "public market",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "公共投资",
+   "en": "public investment",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "公共消费",
+   "en": "public consumption",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "公共信贷",
+   "en": "public credit",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "公共信托",
+   "en": "public trust",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "公开投标",
+   "en": "public tender",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "公共空间",
+   "en": "public space",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "公害",
+   "en": "public nuisance",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "《数字共和国法》（法国）",
+   "en": "Digital Republic Law (France)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "埃维昂协议",
+   "en": "Provisional Government of the Algerian Republic",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "捷克个人数据保护办公室",
+   "en": "Office for Personal Data Protection (Czech Republic)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《中华人民共和国网络安全法》",
+   "en": "Cybersecurity Law of the People’s Republic of China",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "中华人民共和国国家标准化管理委员会",
+   "en": "Standardization Administration of the People’s Republic of China (SAC)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《中华人民共和国电子商务法》",
+   "en": "E-Commerce Law of the People’s Republic of China",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《中华人民共和国电子签名法》",
+   "en": "Electronic Signature Law of the People’s Republic of China",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《中华人民共和国政府信息公开条例》",
+   "en": "Regulations of the People’s Republic of China on Open Government Information",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "中华人民共和国工业和信息化部",
+   "en": "Ministry of Industry and Information Technology of the People’s Republic of China",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《中华人民共和国计算机信息系统安全保护条例》",
+   "en": "Regulations of the People’s Republic of China for Safety Protection of Computer Information Systems",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《中华人民共和国传染病防治法》",
+   "en": "Law of the People’s Republic of China on Prevention and Treatment of Infectious Diseases",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "理念举措_法规条例"
+  },
+  {
+   "cn": "《公安部关于大力推进基础信息化建设的意见》（中国）",
+   "en": "Opinions of the Ministry of Public Security of the People’s Republic of China on Vigorously Promoting Information Infrastructure Construction",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "共和国",
+   "en": "republic",
+   "code": "03.0071",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "民主共和国",
+   "en": "democratic republic",
+   "code": "03.0279",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_列宁斯大林时期"
+  },
+  {
+   "cn": "自治共和国",
+   "en": "autonomous republic",
+   "code": "04.0115",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_列宁斯大林时期"
+  },
+  {
+   "cn": "加盟共和国",
+   "en": "union republics",
+   "code": "04.0419",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要组织政党_列宁斯大林时期"
+  },
+  {
+   "cn": "无产阶级共和国",
+   "en": "republic of proletariat",
+   "code": "03.0191",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "苏维埃社会主义共和国联盟",
+   "en": "Union of Soviet Socialist Republics",
+   "code": "04.0418",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要组织政党_列宁斯大林时期"
+  },
+  {
+   "cn": "中华人民共和国劳动法",
+   "en": "labor law of the People’s Republic of China",
+   "code": "9.1.2.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生法规标准_放射卫生法规_放射卫生相关法律"
+  },
+  {
+   "cn": "中华人民共和国计量法",
+   "en": "metrology law of the People’s Republic of China",
+   "code": "9.1.2.17",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生法规标准_放射卫生法规_放射卫生相关法律"
+  },
+  {
+   "cn": "苏联最高苏维埃",
+   "en": "Supreme Soviet of the Union of Soviet Socialist Republics",
+   "code": "04.0421",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要组织政党_列宁斯大林时期"
+  },
+  {
+   "cn": "中华人民共和国食品安全法",
+   "en": "food safety law of the People's Republic of China",
+   "code": "9.1.2.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生法规标准_放射卫生法规_放射卫生相关法律"
+  },
+  {
+   "cn": "中华人民共和国行政许可法",
+   "en": "administrative permission law of the People's Republic of China",
+   "code": "9.1.2.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生法规标准_放射卫生法规_放射卫生相关法律"
+  },
+  {
+   "cn": "中华人民共和国行政诉讼法",
+   "en": "administrative procedure law of the People’s Republic of China",
+   "code": "9.1.2.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生法规标准_放射卫生法规_放射卫生相关法律"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,4 +1,4 @@
-# 剑桥柏拉图学派 Cambridge Platonists (Sarah Hutton)
+# 剑桥柏拉图学派 The Cambridge Platonists (Sarah Hutton)
 
 **首次发表于 2001 年 10 月 3 日；2026 年 10 月 8 日实质修订。**
 

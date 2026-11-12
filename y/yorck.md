@@ -1,4 +1,4 @@
-# 保罗·约克·冯·瓦滕堡伯爵 Yorck von Wartenburg, Count Paul (Ingo Farin)
+# 保罗·约克·冯·瓦滕堡伯爵 Count Paul Yorck von Wartenburg (Ingo Farin)
 
 *首次发表于 2012 年 3 月 19 日；2023 年 9 月 8 日实质修订。*
 

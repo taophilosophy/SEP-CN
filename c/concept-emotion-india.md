@@ -1,4 +1,4 @@
-# 古典印度哲学中的情感概念 concept of emotion (Joerg Tuske)
+# 古典印度哲学中的情感概念 The Concept of Emotion in Classical Indian Philosophy (Joerg Tuske)
 
 **首次发表于 2011 年 3 月 1 日；2025 年 10 月 30 日实质修订。**
 

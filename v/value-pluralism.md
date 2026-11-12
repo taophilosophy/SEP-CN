@@ -1,1 +1,1 @@
-# 价值多元主义 pluralism (Elinor Mason)
+# 价值多元主义 Value Pluralism (Elinor Mason)

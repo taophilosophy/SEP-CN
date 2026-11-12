@@ -1,1 +1,1 @@
-# 卡尔·马克思 Marx, Karl (Jonathan Wolff and David Leopold)
+# 卡尔·马克思 Karl Marx (Jonathan Wolff and David Leopold)

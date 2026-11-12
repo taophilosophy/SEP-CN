@@ -1,4 +1,4 @@
-# 1277 年巴黎谴责 condemnation of 1277 (Hans Thijssen)
+# 1277 年巴黎谴责 Condemnation of 1277 (Hans Thijssen)
 
 **首次发表于 2003 年 1 月 30 日；2023 年 12 月 18 日实质修订。**
 

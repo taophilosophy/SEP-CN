@@ -51,6 +51,17 @@ class OverLimitTest(unittest.TestCase):
         self.assertFalse(is_exempt(
             "specs/008-terminology-campaign/results/audit-2026-11-12.json"))
 
+    def test_generated_mulu_preview_exempt(self):
+        # 016 目录重建预览稿（bin/generate.py 单文件输出、仅供审阅）按 2026-11-12 补记豁免；
+        # 同目录其他文件、裸文件名与同前缀文件不豁免
+        self.assertTrue(is_exempt(
+            "specs/016-mulu-history-recategorize/results/mu-lu-s.preview.md"))
+        self.assertFalse(is_exempt("mu-lu-s.preview.md"))
+        self.assertFalse(is_exempt(
+            "specs/016-mulu-history-recategorize/results/scheme.md"))
+        self.assertFalse(is_exempt(
+            "specs/016-mulu-history-recategorize/results/mu-lu-s.preview.md.bak"))
+
 
 class ScanTest(unittest.TestCase):
     def test_scan_counts_lines_and_bytes(self):

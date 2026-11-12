@@ -1,4 +1,4 @@
-# 审美证言 aesthetic testimony (Jon Robson and Rebecca Wallbank)
+# 审美证言 Aesthetic Testimony (Jon Robson and Rebecca Wallbank)
 
 *首次发表于 2024 年 3 月 13 日。*
 

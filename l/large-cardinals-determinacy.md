@@ -1,1 +1,1 @@
-# 大基数与决定性 large cardinals and determinacy (Peter Koellner)
+# 大基数与决定性 Large Cardinals and Determinacy (Peter Koellner)

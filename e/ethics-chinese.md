@@ -1,1 +1,1 @@
-# 中国哲学中的伦理学 ethics (David Wong)
+# 中国哲学中的伦理学 Chinese Ethics (David Wong)

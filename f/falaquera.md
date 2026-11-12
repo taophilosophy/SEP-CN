@@ -1,4 +1,4 @@
-# 闪-托夫·伊本·法拉奎拉 Falaquera, Shem Tov Ibn (Steve Harvey)
+# 闪-托夫·伊本·法拉奎拉 Shem Tov Ibn Falaquera (Steve Harvey)
 
 *首次发表于 2007 年 7 月 2 日；2020 年 8 月 28 日实质修订。*
 

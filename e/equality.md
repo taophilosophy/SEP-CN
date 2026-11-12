@@ -1,1 +1,1 @@
-# 平等 equality (Stefan Gosepath)
+# 平等 Equality (Stefan Gosepath)

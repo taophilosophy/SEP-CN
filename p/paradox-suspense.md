@@ -1,4 +1,4 @@
-# 悬疑悖论 suspense, paradox of (Aaron Smuts)
+# 悬疑悖论 The Paradox of Suspense (Aaron Smuts)
 
 *首次发表于 2009 年 7 月 6 日；2021 年 10 月 26 日实质修订。*
 

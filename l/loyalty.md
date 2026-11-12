@@ -1,1 +1,1 @@
-# 忠诚 loyalty (John Kleinig)
+# 忠诚 Loyalty (John Kleinig)

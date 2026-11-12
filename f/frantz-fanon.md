@@ -1,1 +1,1 @@
-# 弗朗茨·法农 Fanon, Frantz (John Drabinski)
+# 弗朗茨·法农 Frantz Fanon (John Drabinski)

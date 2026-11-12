@@ -1,1 +1,1 @@
-# 雅克·德里达 Derrida, Jacques (Leonard Lawlor)
+# 雅克·德里达 Jacques Derrida (Leonard Lawlor)

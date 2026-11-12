@@ -1,1 +1,1 @@
-# 分配正义 distributive (Julian Lamont and Christi Favor)
+# 分配正义 Distributive Justice (Julian Lamont and Christi Favor)

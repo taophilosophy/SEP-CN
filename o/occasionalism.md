@@ -1,4 +1,4 @@
-# 偶因论 occasionalism (Sukjae Lee)
+# 偶因论 Occasionalism (Sukjae Lee)
 
 *首次发表于 2008 年 10 月 20 日；2019 年 10 月 17 日实质修订。*
 

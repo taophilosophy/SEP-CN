@@ -1,4 +1,4 @@
-# 数学哲学中的直觉主义 intuitionism (Rosalie Iemhoff)
+# 数学哲学中的直觉主义 Intuitionism in the Philosophy of Mathematics (Rosalie Iemhoff)
 
 *首次发表于 2008 年 9 月 4 日；2019 年 6 月 11 日实质修订。*
 

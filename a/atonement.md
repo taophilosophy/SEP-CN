@@ -1,1 +1,1 @@
-# 赎罪 atonement (Joshua C. Thurow)
+# 赎罪 Atonement (Joshua C. Thurow)

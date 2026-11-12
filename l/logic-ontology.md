@@ -1,1 +1,1 @@
-# 逻辑与本体论 logic and ontology (Thomas Hofweber)
+# 逻辑与本体论 Logic and Ontology (Thomas Hofweber)

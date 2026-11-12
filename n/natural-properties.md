@@ -1,1 +1,1 @@
-# 自然属性 natural (Cian Dorr)
+# 自然属性 Natural Properties (Cian Dorr)

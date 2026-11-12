@@ -1,1 +1,1 @@
-# 范畴论 category theory (Jean-Pierre Marquis)
+# 范畴论 Category Theory (Jean-Pierre Marquis)

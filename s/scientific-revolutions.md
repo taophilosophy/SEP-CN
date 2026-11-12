@@ -1,1 +1,1 @@
-# 科学革命 scientific revolutions (Thomas Nickles)
+# 科学革命 Scientific Revolutions (Thomas Nickles)

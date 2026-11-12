@@ -1,4 +1,4 @@
-# 迈克尔·奥克肖特 Oakeshott, Michael (Terry Nardin)
+# 迈克尔·奥克肖特 Michael Oakeshott (Terry Nardin)
 
 *首次发表于 2016 年 3 月 8 日；2024 年 2 月 1 日实质修订。*
 

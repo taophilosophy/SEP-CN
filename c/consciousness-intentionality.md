@@ -1,1 +1,1 @@
-# 意识与意向性 and intentionality (Charles Siewert)
+# 意识与意向性 Consciousness and Intentionality (Charles Siewert)

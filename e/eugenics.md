@@ -1,1 +1,1 @@
-# 优生学 eugenics (Inmaculada de Melo-Martin and Sara Goering)
+# 优生学 Eugenics (Inmaculada de Melo-Martin and Sara Goering)

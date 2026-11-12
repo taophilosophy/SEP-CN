@@ -1,1 +1,1 @@
-# 比厄斯利的美学 aesthetics (Michael Wreen)
+# 比厄斯利的美学 Beardsley’s Aesthetics (Michael Wreen)

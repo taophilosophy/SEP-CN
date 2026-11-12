@@ -1,4 +1,4 @@
-# 子结构逻辑 substructural (Greg Restall)
+# 子结构逻辑 Substructural Logics (Greg Restall)
 
 *首次发表于 2000 年 7 月 4 日；2024 年 8 月 15 日实质修订。*
 

@@ -1,1 +1,1 @@
-# 计算语言学 computational (Lenhart Schubert)
+# 计算语言学 Computational Linguistics (Lenhart Schubert)

@@ -1,4 +1,4 @@
-# 纯粹法理论 pure theory of law (Andrei Marmor)
+# 纯粹法理论 The Pure Theory of Law (Andrei Marmor)
 
 *首次发表于 2002 年 11 月 18 日；2026 年 3 月 13 日实质修订。*
 

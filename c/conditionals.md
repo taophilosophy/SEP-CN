@@ -1,1 +1,1 @@
-# 直陈条件 conditionals (Dorothy Edgington)
+# 直陈条件 Indicative Conditionals (Dorothy Edgington)

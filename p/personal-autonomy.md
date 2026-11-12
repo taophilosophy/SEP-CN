@@ -1,1 +1,1 @@
-# 个人自主权 personal (Sarah Buss and Andrea Westlund)
+# 个人自主权 Personal Autonomy (Sarah Buss and Andrea Westlund)

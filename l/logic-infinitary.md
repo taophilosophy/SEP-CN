@@ -1,4 +1,4 @@
-# 无穷逻辑 infinitary (John L. Bell)
+# 无穷逻辑 Infinitary Logic (John L. Bell)
 
 *首次发表于 2000 年 1 月 23 日；2023 年 9 月 6 日实质修订。*
 

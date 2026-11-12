@@ -1,4 +1,4 @@
-# 预先指示和替代决策 advance directives (Agnieszka Jaworska)
+# 预先指示和替代决策 Advance Directives and Substitute Decision-Making (Agnieszka Jaworska)
 
 **首次发表于 2009 年 3 月 24 日。**
 

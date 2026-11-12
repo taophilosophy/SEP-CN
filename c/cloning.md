@@ -1,4 +1,4 @@
-# 克隆 cloning (Katrien Devolder)
+# 克隆 Cloning (Katrien Devolder)
 
 **首次发表于 2008 年 9 月 17 日；2021 年 12 月 10 日实质修订。**
 

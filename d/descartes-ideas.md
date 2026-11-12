@@ -1,4 +1,4 @@
-# 笛卡尔的观念论 theory of ideas (Kurt Smith)
+# 笛卡尔的观念论 Descartes’ Theory of Ideas (Kurt Smith)
 
 *首次发表于 2007 年 3 月 14 日；2025 年 9 月 18 日实质修订。*
 

@@ -1,1 +1,1 @@
-# 科学发现 scientific discovery (Jutta Schickore)
+# 科学发现 Scientific Discovery (Jutta Schickore)

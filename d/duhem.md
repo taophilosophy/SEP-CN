@@ -1,4 +1,4 @@
-# 皮埃尔·迪昂 Duhem, Pierre (Roger Ariew)
+# 皮埃尔·迪昂 Pierre Duhem (Roger Ariew)
 
 **首次发表于 2007 年 7 月 13 日；2026 年 2 月 13 日实质修订。**
 

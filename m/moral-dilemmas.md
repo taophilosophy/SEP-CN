@@ -1,1 +1,1 @@
-# 道德困境 moral dilemmas (Terrance McConnell)
+# 道德困境 Moral Dilemmas (Terrance McConnell)

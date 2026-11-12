@@ -1,1 +1,1 @@
-# 相对主义 relativism (Maria Baghramian and J. Adam Carter)
+# 相对主义 Relativism (Maria Baghramian and J. Adam Carter)

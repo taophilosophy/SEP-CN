@@ -1,1 +1,1 @@
-# 道德责任与替代可能性原则 principle of alternative possibilities (David Robb)
+# 道德责任与替代可能性原则 Moral Responsibility and the Principle of Alternative Possibilities (David Robb)

@@ -1,1 +1,1 @@
-# 罗素的伦理学 moral philosophy (Charles Pigden)
+# 罗素的伦理学 Russell’s Moral Philosophy (Charles Pigden)

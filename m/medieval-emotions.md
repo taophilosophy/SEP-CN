@@ -1,1 +1,1 @@
-# 中世纪情感理论 medieval theories of (Simo Knuuttila)
+# 中世纪情感理论 Medieval Theories of the Emotions (Simo Knuuttila)

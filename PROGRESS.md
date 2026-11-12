@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-12 10:23（UTC）
+生成时间：2026-11-12 11:27（UTC）
 
 ## 总览
 
@@ -15,16 +15,16 @@
 |已建任务|1179|
 |例行/维护任务（不计状态机）|2|
 |已完成（done）|374|
-|在途（drafted 起、done 前）|172|
+|在途（drafted 起、done 前）|173|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|633|
+|pending|632|
 |cleared|134|
-|drafted|1|
+|drafted|2|
 |s1_checked|1|
 |s3_checked|35|
 |r1_reviewed|1|
@@ -169,6 +169,7 @@
 |hume-freewill|retranslate|cleared|task_ops 2026-11-01|
 |hume-moral|retranslate|cleared|task_ops 2026-11-01|
 |humor|retranslate|cleared|task_ops 2026-11-01|
+|ibn-taymiyya|retranslate|drafted|I-main-20261112 2026-11-12|
 |immunology|retranslate|cleared|task_ops 2026-11-01|
 |impossible-worlds|retranslate|cleared|task_ops 2026-11-01|
 |intrinsic-extrinsic|retranslate|cleared|task_ops 2026-11-01|

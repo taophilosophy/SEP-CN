@@ -1,4 +1,4 @@
-# 弗兰西斯·哈奇森 Hutcheson, Francis (Dale Dorsey)
+# 弗兰西斯·哈奇森 Francis Hutcheson (Dale Dorsey)
 *首次发表于 2021 年 4 月 20 日。*
 
 弗兰西斯·哈奇森（Francis Hutcheson，1694–1746）是英国有影响力的道德学家、道德情感主义的倡导者，也是苏格兰启蒙运动的关键人物。哈奇森在格拉斯哥大学接受教育并度过其学术生涯，但他生于爱尔兰。其主要著作——包括《探究我们关于美与德的观念的起源》（*Inquiry into the Original of our Ideas of Beauty and Virtue*）与《论激情的天性与行为，附道德感例释》（*Essay on the Nature and Conduct of the Passions, with Illustrations on the Moral Sense*）——出版之后（其中一些还经大幅修订），他才返回苏格兰。尽管如此，他对苏格兰知识界影响深远，部分原因在于他与当时苏格兰重要人物（包括亚当·斯密、托马斯·里德和大卫·休谟）的交往。

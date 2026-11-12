@@ -1,1 +1,1 @@
-# 命题逻辑 propositional (Curtis Franks)
+# 命题逻辑 Propositional Logic (Curtis Franks)

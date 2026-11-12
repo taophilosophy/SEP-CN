@@ -1,1 +1,1 @@
-# 多的难题 many, problem of (Brian Weatherson)
+# 多的难题 The Problem of the Many (Brian Weatherson)

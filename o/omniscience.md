@@ -1,4 +1,4 @@
-# 全知 omniscience (Edward Wierenga)
+# 全知 Omniscience (Edward Wierenga)
 
 *首次发表于 2010 年 2 月 1 日；2025 年 5 月 10 日实质修订。*
 

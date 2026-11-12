@@ -1,4 +1,4 @@
-# 古代灵魂理论 soul, ancient theories of (Hendrik Lorenz)
+# 古代灵魂理论 Ancient Theories of Soul (Hendrik Lorenz)
 
 *首次发表于 2003 年 10 月 23 日；2024 年 5 月 15 日实质修订。*
 

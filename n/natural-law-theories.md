@@ -1,1 +1,1 @@
-# 自然法理论 natural law theories (John Finnis)
+# 自然法理论 Natural Law Theories (John Finnis)

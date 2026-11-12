@@ -1,4 +1,4 @@
-# 非洲伦理学 ethics (Kwame Gyekye)
+# 非洲伦理学 African Ethics (Kwame Gyekye)
 
 *首次发表于 2010 年 9 月 9 日。*
 

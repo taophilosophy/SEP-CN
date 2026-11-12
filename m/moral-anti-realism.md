@@ -1,1 +1,1 @@
-# 道德反实在论 moral anti-realism (Richard Joyce)
+# 道德反实在论 Moral Anti-Realism (Richard Joyce)

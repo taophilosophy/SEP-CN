@@ -1,4 +1,4 @@
-# 海因里希·阿格里帕·冯·内特斯海姆 Agrippa von Nettesheim, Heinrich Cornelius (Vittoria Perrone Compagni)
+# 海因里希·阿格里帕·冯·内特斯海姆 Heinrich Cornelius Agrippa von Nettesheim (Vittoria Perrone Compagni)
 
 **首次发表于 2017 年 2 月 15 日；2025 年 3 月 28 日实质修订。**
 

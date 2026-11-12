@@ -1,1 +1,1 @@
-# 里德的伦理学 ethics (Terence Cuneo)
+# 里德的伦理学 Reid’s Ethics (Terence Cuneo)

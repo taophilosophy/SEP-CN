@@ -1,4 +1,4 @@
-# 物质名词的逻辑 logic of (David Nicolas)
+# 物质名词的逻辑 The Logic of Mass Expressions (David Nicolas)
 
 *首次发表于 2013 年 3 月 8 日；2024 年 1 月 31 日实质修订。*
 

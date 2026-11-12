@@ -1,1 +1,1 @@
-# 历时同一性 over time (Andre Gallois and Irem Kurtsal)
+# 历时同一性 Identity Over Time (Andre Gallois and Irem Kurtsal)

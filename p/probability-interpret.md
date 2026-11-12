@@ -1,1 +1,1 @@
-# 对概率的解释 probability, interpretations of (Alan Hájek)
+# 对概率的解释 Interpretations of Probability (Alan Hájek)

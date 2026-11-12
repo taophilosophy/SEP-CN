@@ -1,1 +1,1 @@
-# 因果关系与可操纵性 and manipulability (James Woodward)
+# 因果关系与可操纵性 Causation and Manipulability (James Woodward)

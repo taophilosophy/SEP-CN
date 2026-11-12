@@ -1,1 +1,1 @@
-# 二元论 dualism (Howard Robinson and Ralph Weir)
+# 二元论 Dualism (Howard Robinson and Ralph Weir)

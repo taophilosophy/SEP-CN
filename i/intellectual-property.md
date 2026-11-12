@@ -1,4 +1,4 @@
-# 知识产权 intellectual property (Adam Moore and Ken Himma)
+# 知识产权 Intellectual Property (Adam Moore and Ken Himma)
 
 *首次发表于 2011 年 3 月 8 日；2022 年 8 月 18 日实质修订。*
 

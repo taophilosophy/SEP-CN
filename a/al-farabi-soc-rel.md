@@ -1,1 +1,1 @@
-# 法拉比的社会与宗教哲学 philosophy of society and religion (Nadja Germann)
+# 法拉比的社会与宗教哲学 al-Farabi’s Philosophy of Society and Religion (Nadja Germann)

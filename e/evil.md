@@ -1,1 +1,1 @@
-# 恶的问题 problem of (Michael Tooley)
+# 恶的问题 The Problem of Evil (Michael Tooley)

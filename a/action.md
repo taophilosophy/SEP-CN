@@ -1,4 +1,4 @@
-# 行动 action (Juan S. Piñeros Glasscock and Sergio Tenenbaum)
+# 行动 Action (Juan S. Piñeros Glasscock and Sergio Tenenbaum)
 
 **首次发表于 2023 年 1 月 11 日。**
 

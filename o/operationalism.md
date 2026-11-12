@@ -1,1 +1,1 @@
-# 操作主义 operationalism (Hasok Chang)
+# 操作主义 Operationalism (Hasok Chang)

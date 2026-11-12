@@ -1,4 +1,4 @@
-# 亚里士多德的神学 Theology of Aristotle (Peter Adamson)
+# 亚里士多德的神学 The Theology of Aristotle (Peter Adamson)
 
 *首次发表于 2008 年 6 月 5 日；2025 年 5 月 14 日实质修订。*
 

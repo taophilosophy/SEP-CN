@@ -1,1 +1,1 @@
-# 双面真理论 dialetheism (Graham Priest, Francesco Berto, and Zach Weber)
+# 双面真理论 Dialetheism (Graham Priest, Francesco Berto, and Zach Weber)

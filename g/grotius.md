@@ -1,4 +1,4 @@
-# 胡果·格劳秀斯 Grotius, Hugo (Jon Miller)
+# 胡果·格劳秀斯 Hugo Grotius (Jon Miller)
 
 *首次发表于 2005 年 12 月 16 日；2021 年 1 月 8 日实质修订。*
 

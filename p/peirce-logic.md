@@ -1,1 +1,1 @@
-# 皮尔士的演绎逻辑 logic (Sun-Joo Shin)
+# 皮尔士的演绎逻辑 Peirce’s Deductive Logic (Sun-Joo Shin)

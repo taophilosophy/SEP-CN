@@ -1,1 +1,1 @@
-# 证明论的发展 development of (Jan von Plato)
+# 证明论的发展 The Development of Proof Theory (Jan von Plato)

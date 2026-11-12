@@ -1,1 +1,1 @@
-# 科学进步 scientific progress (Ilkka Niiniluoto)
+# 科学进步 Scientific Progress (Ilkka Niiniluoto)

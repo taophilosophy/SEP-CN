@@ -1,4 +1,4 @@
-# 中世纪的义务理论 obligationes, medieval theories of (Mikko Yrjönsuuri)
+# 中世纪的义务理论 Medieval Theories of Obligationes (Mikko Yrjönsuuri)
 
 *首次发表于 2022 年 1 月 19 日。*
 

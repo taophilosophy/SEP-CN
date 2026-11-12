@@ -1,1 +1,1 @@
-# 撒母耳·伊本·提本 Tibbon, Samuel Ibn (James T. Robinson)
+# 撒母耳·伊本·提本 Samuel Ibn Tibbon (James T. Robinson)

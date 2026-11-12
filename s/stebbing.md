@@ -1,4 +1,4 @@
-# 苏珊·斯泰宾 Stebbing, Susan (Michael Beaney and Siobhan Chapman)
+# 苏珊·斯泰宾 Susan Stebbing (Michael Beaney and Siobhan Chapman)
 
 *首次发表于 2017 年 5 月 8 日；2026 年 7 月 24 日实质修订。*
 

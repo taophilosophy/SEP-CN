@@ -1,1 +1,1 @@
-# 本质属性与偶然属性 essential vs. accidental properties (Philip Atkins, Fabrice Correia, and Teresa Robertson Ishii)
+# 本质属性与偶然属性 Essential vs. Accidental Properties (Philip Atkins, Fabrice Correia, and Teresa Robertson Ishii)

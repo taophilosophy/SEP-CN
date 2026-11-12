@@ -1,1 +1,1 @@
-# 清代哲学 Qing philosophy (On-cho Ng)
+# 清代哲学 Qing Philosophy (On-cho Ng)

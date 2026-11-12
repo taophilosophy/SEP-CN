@@ -1,1 +1,1 @@
-# 休谟论宗教 on religion (Paul Russell and Anders Kraal)
+# 休谟论宗教 Hume on Religion (Paul Russell and Anders Kraal)

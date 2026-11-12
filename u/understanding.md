@@ -1,1 +1,1 @@
-# 理解 understanding (Stephen Grimm)
+# 理解 Understanding (Stephen Grimm)

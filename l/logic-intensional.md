@@ -1,1 +1,1 @@
-# 内涵逻辑 intensional (Melvin Fitting)
+# 内涵逻辑 Intensional Logic (Melvin Fitting)

@@ -1,1 +1,1 @@
-# 公共卫生伦理 ethics (Ruth Faden, Justin Bernstein, and Sirine Shebaya)
+# 公共卫生伦理 Public Health Ethics (Ruth Faden, Justin Bernstein, and Sirine Shebaya)

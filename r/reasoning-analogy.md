@@ -1,4 +1,4 @@
-# 类比与类比推理 analogy and analogical reasoning (Paul Bartha)
+# 类比与类比推理 Analogy and Analogical Reasoning (Paul Bartha)
 
 *首次发表于 2013 年 6 月 25 日；2019 年 1 月 25 日实质修订。*
 

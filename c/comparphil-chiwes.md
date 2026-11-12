@@ -1,1 +1,1 @@
-# 比较哲学：中西哲学 Chinese and Western (David Wong)
+# 比较哲学：中西哲学 Comparative Philosophy: Chinese and Western (David Wong)

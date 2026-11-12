@@ -1,1 +1,1 @@
-# 宿命论 fatalism (Hugh Rice)
+# 宿命论 Fatalism (Hugh Rice)

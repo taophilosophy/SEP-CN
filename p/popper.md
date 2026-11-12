@@ -1,1 +1,1 @@
-# 卡尔·波普尔 Popper, Karl (Stephen Thornton)
+# 卡尔·波普尔 Karl Popper (Stephen Thornton)

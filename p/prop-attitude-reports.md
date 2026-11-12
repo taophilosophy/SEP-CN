@@ -1,1 +1,1 @@
-# 命题态度报告 propositional attitude reports (Michael Nelson)
+# 命题态度报告 Propositional Attitude Reports (Michael Nelson)

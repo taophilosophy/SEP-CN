@@ -1,1 +1,1 @@
-# 直觉主义类型论 intuitionistic (Peter Dybjer and Erik Palmgren)
+# 直觉主义类型论 Intuitionistic Type Theory (Peter Dybjer and Erik Palmgren)

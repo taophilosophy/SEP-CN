@@ -1,1 +1,1 @@
-# 命题函项 propositional function (Edwin Mares)
+# 命题函项 Propositional Function (Edwin Mares)

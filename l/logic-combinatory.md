@@ -1,1 +1,1 @@
-# 组合逻辑 combinatory (Katalin Bimbó)
+# 组合逻辑 Combinatory Logic (Katalin Bimbó)
