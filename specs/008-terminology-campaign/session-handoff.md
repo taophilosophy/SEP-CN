@@ -16,7 +16,7 @@
 
 | 资产 | 状态 |
 | ---- | ---- |
-| 登记册两表 | `yi-zhe-shuo-ming.md`（术语，A–Z 分节；数据行 3583）+ `ren-ming-biao.md`（人名，A–Z 分节；数据行 2845）；2026-11-09 起按字母节排列，新行入库后跑 `python tools/registry_azsort.py --apply` 归位（幂等） |
+| 登记册两表 | `shu-yu-biao.md`（术语，A–Z 分节；ADR-0036 改名，原 `yi-zhe-shuo-ming.md`）+ `ren-ming-biao.md`（人名，A–Z 分节）；2026-11-09 起按字母节排列，新行入库后跑 `python tools/registry_azsort.py --apply` 归位（幂等） |
 | 候选池 | 75594 条：已裁定 ~1130（published ~330 / held 28 / rejected ~770）、new 余量=中低频长尾（随词条翻译核定，不再整批跑） |
 | 提取器 | term_harvest 多语种版（topic/六种原文文字/foreign 重分类），动态增量：词条入库后 `--refresh` 或按字母批次补提 |
 | 查证通道 | 审定库浏览器通道主力（S.O.P. 见 contracts/browser-channel.md）+ standard/youdao 辅助档；**激活机制=搜索页导航**（首页 reload 不激活） |
@@ -28,7 +28,7 @@
 ## 常态流程（系统批处理收官后）
 
 1. **词条翻译期**：新词条 intake/translate 时，`python tools/check_terms.py --docs <词条>` 核销正文术语与登记册一致性；池内该词条来源的 new 候选就地核定（A/C 分档）。
-2. **登记变更**：主译变更 → Edit 两登记册（五列，禁维基）→ ci-hui-biao 看齐 → `--docs` 复核涟漪（主译待对齐信号）→ 正文看齐。
+2. **登记变更**：主译变更 → Edit 两登记册（五列，禁维基）→ `--docs` 复核涟漪（主译待对齐信号）→ 正文看齐（ADR-0036：ci-hui-biao 已并网删除）。
 3. **增量提取**：新词条入库后 `python tools/term_harvest.py --refresh`（或 --letter）补提候选。
 4. **多会话**：认领照旧写本卡「执行认领」节；批次工具与节奏全部固化在 termonline-batch 技能。
 
@@ -58,8 +58,7 @@ python tools/cnki_query.py --terms <词...>            # 定点
 # 2) 审阅
 python tools/term_audit.py                            # 报告落 specs/008/results/
 # 3) 裁定后登记（先登记后使用；依据列写来源+日期，禁维基）
-#    → Edit yi-zhe-shuo-ming.md / ren-ming-biao.md（五列；变更不删旧行）
-#    → qian-yan/ci-hui-biao.md 同步（修弱势方向登记册看齐）
+#    → Edit shu-yu-biao.md / ren-ming-biao.md（五列；变更不删旧行；ADR-0036 起无词汇表同步步骤）
 # 4) 门禁
 python tools/check_terms.py && python tools/check_all.py
 ```

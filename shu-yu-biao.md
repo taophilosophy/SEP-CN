@@ -1,6 +1,6 @@
-# 译者说明：术语对照表
+# 术语表
 
-> 本文件为 SEP-CN 全库**术语**译名登记的单一事实源（宪法 III）。规则：新术语先登记、后使用；三校步骤校验正文用词与本表一致。
+> 本文件为 SEP-CN 全库**术语**译名登记的单一事实源（宪法 III）。规则：新术语先登记、后使用；三校步骤校验正文用词与本表一致。2026-11-13 由 `yi-zhe-shuo-ming.md` 改名并并网原发布词汇表（ADR-0036）。
 >
 > **排序体例**：全表按词条首字母 A–Z 分节；分节键=首列键剥离前置装饰符（《》、引号、括号、ʿ/ʾ 等）与变音符后的首个拉丁字母，非拉丁字母（希腊/阿拉伯/汉字）或数字起首归末节 `#`；节内按折叠键排序，同键行保持原相对次序。
 >
@@ -4480,6 +4480,7 @@
 | real objects | — | 实在对象 | reinach | 学界惯例（同上）；凭证 2026-11-09 | 2026-11-09 |
 | real possibility | — | 实在可能性 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | real proposition | — | 实在命题 | hilbert-program 首译 | 希尔伯特研究通行（与“理想命题”对举）；凭证 2026-11-11 | 2026-11-11 |
+| realism | — | 实在论（亦作“唯实论”；限中世纪共相语境） | 全库既有译名（ockham、buridan 等） | 学界通行；共相之争语境别译“唯实论”，马工程《西方哲学史》明言取此别译（与“唯名论”对仗、与当代实在论区分），《哲学大辞典》阿伯拉尔条同；2026-11-13 用户裁定 | 2026-11-13 |
 | real-soundness | — | 实在可靠性 | hilbert-program 首译 | 证明论通行（Detlefsen 工具主义辩护语境）；凭证 2026-11-11 | 2026-11-11 |
 | realist phenomenology | — | 实在论现象学 | reinach | 学界惯例（慕尼黑—哥廷根学派研究文献）；凭证 2026-11-09 | 2026-11-09 |
 | realizability | — | 可实现性 | 首现（intuitionism） | 数理逻辑通行译名（Kleene realizability）；凭证 2026-11-10 | 2026-11-10 |
@@ -5693,9 +5694,7 @@
 | underpervades | — | 周遍不足 | gorampa | 藏传因明通行（khyab chung ba）；格鲁派批评果让巴“否定不足”之术语 | 2026-11-09 |
 | understanding | — | 知性（康德 Verstand；日常语境译“理解”） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04；2026-11-06 审计裁定维持，审定异形“理解”系日常语境（行内已注记），不另记亦作 | 2026-11-04 |
 | understanding (faculty) | — | 理智 | 首现（intuitionism-ethics） | 学界惯例（与“感性”对举的认知能力）；凭证 2026-11-08 | 2026-11-08 |
-| undo the done | — | 使已成之事未成 | peter-damian | 学界通行（Damian 研究文献译法；undoing of the done 作“取消已成之事”）；凭证 2026-11-09 | 2026-11-09 |
-| undo the done | — | 使已成之事未成（已废弃，见新行） | peter-damian | 学界通行（Damian 研究文献译法；undoing of the done 作“取消已成之事”）；凭证 2026-11-09 | 2026-11-09 |
-| undo the done | — | 取消已成之事 | peter-damian | 用户裁定 2026-11-10（词条内动词式与名词式统一主形；完整句式 bring it about that what has been done has not been done 作“使已成之事成为未曾做过”）；凭证 2026-11-10 | 2026-11-10 |
+| undo the done | — | 取消已成之事（亦作“使已成之事未成”） | peter-damian | 用户裁定 2026-11-10（词条内动词式与名词式统一主形；完整句式 bring it about that what has been done has not been done 作“使已成之事成为未曾做过”）；亦作记 Damian 研究文献旧译形；凭证 2026-11-10；2026-11-13 合并同键重复两行 | 2026-11-13 |
 | unfairness | — | 不公 | justice-moral-psych | 与“公平”对举（vice of unfairness 不公之恶）；凭证 2026-11-10 | 2026-11-10 |
 | unfused union (asynchytos henōsis) | — | 不融合的联合 | 首现（porphyry） | 新柏拉图主义研究通行（波菲利灵魂—身体关系术语，源文 unfused union）；凭证 2026-11-11 | 2026-11-11 |
 | unicity | — | 独一性 | kant-transcendental | Onof & Schulting 2015 语境本词条首译（与 unity 统一性分立）；凭证 2026-11-11 | 2026-11-11 |

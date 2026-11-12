@@ -67,8 +67,8 @@ EXCLUDE_DIRS = {
     'qian-yan', 'fang-fa-lun', 'jian-yi-shu', 'guan-yu',
 }
 EXCLUDE_FILES = {
-    'README.md', 'SUMMARY.md', 'mu-lu-s.md', 'yi-zhe-shuo-ming.md',
-    'ren-ming-biao.md',  # ADR-0012 人名登记册，与 yi-zhe-shuo-ming 同性质
+    'README.md', 'SUMMARY.md', 'mu-lu-s.md', 'shu-yu-biao.md',
+    'ren-ming-biao.md',  # ADR-0012 人名登记册，与术语登记册同性质
     'PROGRESS.md', 'AGENTS.md', 'CODE_OF_CONDUCT.md', 'CONTRIBUTING.md',
     'RELEASE-NOTES.md',  # G5 发布登记页（ADR-0016），非词条（008 第八轮补）
 }

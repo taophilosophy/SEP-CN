@@ -42,7 +42,7 @@
 | 知难行易 | 先明确方向与验收判据，再选手段；工具与文档篇幅都不是完成证据 | `rules/08-intent-first.md`、宪法 VII |
 | 零信任 | 既有中文译文不作底稿或修改依据；可疑处回 `en/`、`yuanwen/` 核对；成品可回溯到英文源版本钉（pubinfo、存档版名、SHA-256） | 宪法、ADR-0027 |
 | 主代理单干 | 禁止调用子代理（`Agent`、`Task` 及 workflow 扇出）；唯一例外是用户当轮显式批准并写明范围 | ADR-0034 |
-| 单一事实源 | 结构 `SUMMARY.md`、术语 `yi-zhe-shuo-ming.md`、人名 `ren-ming-biao.md`、版本 `baseline/`、任务 `tasks/`；不一致时修弱势方 | ADR-0012 |
+| 单一事实源 | 结构 `SUMMARY.md`、术语 `shu-yu-biao.md`、人名 `ren-ming-biao.md`、版本 `baseline/`、任务 `tasks/`；不一致时修弱势方 | ADR-0012、ADR-0036 |
 | 流程先行 | 动笔前先建任务；先登记术语后使用；每步留 `evidence` | `rules/04`、`rules/03` |
 | 提交纪律 | 小步提交、中文一行信息、只提交相关文件、直接提交 main；未经要求不 push、不 force；推送前先 pull --rebase；积压线途中不超过 1 条、收工清零 | `rules/06`、ADR-0026、ADR-0028 |
 | 抓取礼貌 | 相邻请求至少间隔 5 秒；4xx、5xx、超时退避重试并记录，禁止静默跳过 | `rules/05` |

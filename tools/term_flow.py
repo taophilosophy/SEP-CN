@@ -2,7 +2,7 @@
 """术语落册统一流水线（specs/008 常态流程优化，2026-11-01）。
 
 取代每批手写登记脚本：rowspec 清单驱动的幂等落册——
-  登记册（术语=锚点后插，人名=二分）→ 词汇表（二分）→ 池 publish → 自检计数。
+  登记册（术语=锚点后插，人名=二分）→ 池 publish → 自检计数（ADR-0036：词汇表已并网删除）。
 键已存在自动跳过（杜绝重复行事故）；锚点缺失即报错不写盘（杜绝半成品）。
 
 rowspec JSON 格式:
@@ -36,9 +36,8 @@ if not _enc or _enc.lower() not in ('utf-8', 'utf8'):
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if ROOT not in sys.path:
     sys.path.insert(0, ROOT)
-REG = os.path.join(ROOT, 'yi-zhe-shuo-ming.md')
+REG = os.path.join(ROOT, 'shu-yu-biao.md')
 REN = os.path.join(ROOT, 'ren-ming-biao.md')
-GLO = os.path.join(ROOT, 'qian-yan', 'ci-hui-biao.md')
 POOL = os.path.join(ROOT, 'tasks', 'term-pool.json')
 
 
@@ -70,8 +69,7 @@ def build_row(spec, date):
     else:
         reg_row = '| %s | %s | %s | %s | %s |' % (
             en, zh, spec.get('first_seen', '语料回收（全目录）'), basis, date)
-    glo_row = '|%s|%s|%s|' % (en, zh, spec.get('glo_note', ''))
-    return reg_row, glo_row
+    return reg_row
 
 
 def bisect_insert(lines, row):
@@ -97,13 +95,12 @@ def apply(spec_path, dry):
     date = spec.get('date', '')
     reg = io.open(REG, encoding='utf-8', newline='').read().split('\n')
     ren = io.open(REN, encoding='utf-8', newline='').read().split('\n')
-    glo = io.open(GLO, encoding='utf-8', newline='').read().split('\n')
 
     reg_keys = {key_of(l) for l in reg if l.startswith('| ')}
     ren_keys = {key_of(l) for l in ren if l.startswith('| ')}
-    miss, dup, ok_r, ok_g = [], 0, 0, 0
+    miss, dup, ok_r = [], 0, 0
     for sp in rows:
-        reg_row, glo_row = build_row(sp, sp.get('date', date))
+        reg_row = build_row(sp, sp.get('date', date))
         table = sp.get('table', 'term')
         en_key = key_of(reg_row)
         target, keys = (reg, reg_keys) if table == 'term' else (ren, ren_keys)
@@ -125,14 +122,8 @@ def apply(spec_path, dry):
                 miss.append('%s（二分失败）' % sp['en'])
                 continue
         ok_r += 1
-        k = key_of(glo_row)
-        for i, l in enumerate(glo):
-            if l.startswith('|') and key_of(l) > k and '----' not in l:
-                glo.insert(i, glo_row)
-                ok_g += 1
-                break
-    print('登记册: 插入 %d | 词汇表: 插入 %d | 跳过(已存在) %d%s'
-          % (ok_r, ok_g, dup, ('；锚点缺失: ' + '; '.join(miss)) if miss else ''))
+    print('登记册: 插入 %d | 跳过(已存在) %d%s'
+          % (ok_r, dup, ('；锚点缺失: ' + '; '.join(miss)) if miss else ''))
 
     import json as _json
     pool_d = _json.load(open(POOL, encoding='utf-8'))
@@ -145,7 +136,7 @@ def apply(spec_path, dry):
     print('池: published=%d' % np_)
 
     if not dry and not miss:
-        for path, lines in ((REG, reg), (REN, ren), (GLO, glo)):
+        for path, lines in ((REG, reg), (REN, ren)):
             with io.open(path, 'w', encoding='utf-8', newline='') as f:
                 f.write('\n'.join(lines))
         _json.dump(pool_d, open(POOL, 'w', encoding='utf-8'), ensure_ascii=False)

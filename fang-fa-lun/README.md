@@ -14,7 +14,7 @@
 
 | 文件 | 内容 |
 | ---- | ---- |
-| tasks/ci-hui-biao.json | 词汇表维护任务：已完成步骤与持续待办（提交信息挖掘、双向同步） |
+| tasks/ci-hui-biao.json | 词汇表维护任务（2026-11-13 随发布表并网收官，ADR-0036；步骤史留档） |
 | tasks/term-candidates.json | 原文术语候选清单（55 条，建议译法待裁定） |
 | tasks/<slug>.json | 各词条翻译任务（schema 见标准 S4） |
 
@@ -32,5 +32,6 @@
 ## 相关文档
 
 * `specs/001-sep-sync-pipeline/`：抓取/更新/比较/翻译管线规格（FR-001 起），他会话维护，本目录与其引用对齐。
-* `yi-zhe-shuo-ming.md`：术语登记簿（单一事实源）。
-* `qian-yan/ci-hui-biao.md`：词汇表发布表。
+* `shu-yu-biao.md`：术语登记册（单一事实源；ADR-0036 改名，原 `yi-zhe-shuo-ming.md`）。
+* `ren-ming-biao.md`：人名登记册（ADR-0012）。
+* `qian-yan/ci-hui-biao.md`：词汇表发布表（2026-11-13 并网删除，ADR-0036）。

@@ -44,7 +44,7 @@ def registry_variants(kind, en):
     key = (kind, en.lower())
     if key in _REG_CACHE:
         return _REG_CACHE[key]
-    path = "ren-ming-biao.md" if kind == "P" else "yi-zhe-shuo-ming.md"
+    path = "ren-ming-biao.md" if kind == "P" else "shu-yu-biao.md"
     res = ""
     try:
         hits = []

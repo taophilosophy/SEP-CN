@@ -17,7 +17,7 @@
 | ---- | ---- | -------- |
 | [01-repository-structure.md](01-repository-structure.md) | 仓库结构、目录职责、命名、SUMMARY 与分类目录、单体文件治理 | 全部贡献者 |
 | [02-style.md](02-style.md) | 编写体例：引号、空格、代码块、表格、图片 | 译文与说明页 |
-| [03-terminology.md](03-terminology.md) | 术语治理：登记册与发布词汇表的关系、登记流程 | 译文 |
+| [03-terminology.md](03-terminology.md) | 术语治理：两登记册的职责与登记流程（ADR-0036 发布词汇表已并网） | 译文 |
 | [04-translation-workflow.md](04-translation-workflow.md) | 翻译与三审三校流程、任务联动、重译纪律 | 翻译与校对会话 |
 | [05-ci-and-tools.md](05-ci-and-tools.md) | CI 工作流约定、本地工具清单、提交策略 | 全部会话 |
 | [06-governance.md](06-governance.md) | 软件工程治理：单一事实源登记表、变更管理、并发会话纪律、质量门 | 全部会话 |
@@ -48,7 +48,7 @@
 * 新任务或需求含糊 → 先写方向声明（用户到底要什么、目标/非目标、验收判据），再选手段（[08](08-intent-first.md)）。
 * 想用子代理（`Agent`／`Task`／workflow 扇出）跑任务 → 不许：主代理单干，翻译/检索/核对/工具一律主会话亲自做；仅当用户本轮提示词显式批准才可派发（[06](06-governance.md) §子代理禁用，ADR-0034）。
 * 改标题 → 只改 `SUMMARY.md`，再跑 `python tools/check_summary.py --sync-headers` 同步 H1；门禁与 CI 同器实拦，CI 不写回（[01](01-repository-structure.md)、ADR-0024）。
-* 新术语 → 先登记 `yi-zhe-shuo-ming.md`，再使用（[03](03-terminology.md)）。
+* 新术语 → 先登记 `shu-yu-biao.md`，再使用（[03](03-terminology.md)；ADR-0036 改名）。
 * 动手翻译 → 先建/查任务 `tasks/`，按状态机推进，禁止跳步（[04](04-translation-workflow.md)）。
 * 引号、空格、表格格式 → 按 [02](02-style.md)，机器可判部分用 `tools/check_style.py` 预检。
 * 学术规范（参考文献/译注/版本事实）→ 按 [07](07-academic-norms.md)，定点 `tools/check_academic.py --docs <路径> --strict`；收工前 `python tools/check_all.py` 一键全量。

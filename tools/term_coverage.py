@@ -74,7 +74,7 @@ def main(argv=None):
     docs = argv or nonstub_docs()
     # 登记册两表 → [(fold(原文), 变体集, 原文, 表)]
     entries = []
-    for path, label in ((os.path.join(ROOT, 'yi-zhe-shuo-ming.md'), '术语'),
+    for path, label in ((os.path.join(ROOT, 'shu-yu-biao.md'), '术语'),
                         (os.path.join(ROOT, 'ren-ming-biao.md'), '人名')):
         rows, _ = check_terms.parse_registry(path)
         for term, trans, first_seen, basis, row_date, lineno in rows:

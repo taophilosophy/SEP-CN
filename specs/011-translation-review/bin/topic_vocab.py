@@ -2,7 +2,7 @@
 """specs/011：按词条主题解析词汇（用户建议 2026-11-03）。
 
 每词条三层主题词汇场：
-  L1 标题词：SUMMARY 英文题名（去作者括注）↔ 中文题名译名，对照登记册/词汇表；
+  L1 标题词：SUMMARY 英文题名（去作者括注）↔ 中文题名译名，对照两登记册；
   L2 正文斜体术语：yuanwen 正文（剔 References/学术工具）中的 *term* 拉丁/外语斜体，
      词频排序取前 N，对照登记册；
   L3 登记落实：登记侧变体在 zh 正文的出现与否。
@@ -34,7 +34,7 @@ def fold(s):
 def load_registry():
     """en_key(lower/fold) -> {zh 全串, lines}。"""
     reg = {}
-    for path in ("yi-zhe-shuo-ming.md", "ren-ming-biao.md"):
+    for path in ("shu-yu-biao.md", "ren-ming-biao.md"):
         for line in io.open(path, encoding="utf-8"):
             if not line.startswith("|"):
                 continue
@@ -47,13 +47,8 @@ def load_registry():
 
 
 def glossary():
-    g = {}
-    for line in io.open("qian-yan/ci-hui-biao.md", encoding="utf-8"):
-        if line.startswith("|"):
-            c = [x.strip() for x in line.split("|")]
-            if len(c) >= 2 and c[1]:
-                g.setdefault(fold(c[1]), c[2])
-    return g
+    """ADR-0036：发布词汇表已并网删除，此源不再存在；保留空实现兼容旧调用。"""
+    return {}
 
 
 def strip_tail(t):

@@ -73,7 +73,7 @@ ROOT_ALLOW = {
     'PROGRESS.md': '进度汇总（受控生成物）',
     'SUMMARY.md': '目录结构唯一数据源',
     'mu-lu-s.md': '手工分类目录',
-    'yi-zhe-shuo-ming.md': '术语与人名登记册',
+    'shu-yu-biao.md': '术语登记册（ADR-0036 改名）',
     'ren-ming-biao.md': '人名对照表',
     # 结构目录
     'assets': '词条图片（正文 ../assets/ 引用）',

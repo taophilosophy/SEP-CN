@@ -10,11 +10,11 @@
 | ---- | ---- | -------- |
 | `<letter>/`（a…z 及个别非字母目录如 `1/`） | 中文词条正文：`<letter>/<slug>.md` + 补充材料 `<slug>.<x>.md`（ADR-0009 A–Z 字母目录 + SEP slug 单文件）；未翻译条目为仅含 H1 的骨架 | 是 |
 | `yuanwen/` | 英文原文**本地库**：`yuanwen/<letter>/<slug>.md` 与中文侧逐字符镜像（ADR-0009）；图片存 `yuanwen/assets/<slug>/` | 否（gitignore，已跟踪演示条目除外） |
-| `qian-yan/`、`guan-yu/` | 项目说明页（版权、日志、词汇表、编辑信息等） | 是 |
+| `qian-yan/`、`guan-yu/` | 项目说明页（版权、日志、编辑信息等） | 是 |
 | `SUMMARY.md` | **目录结构唯一数据源**，GitBook 侧边栏由它生成 | 是 |
 | `mu-lu-s.md` | 手工维护的 **分类目录** （独立于 SUMMARY 的学科分类视图） | 是 |
-| `yi-zhe-shuo-ming.md` | 术语与人名对照 **登记册** （术语决策的单一事实源） | 是 |
-| `qian-yan/ci-hui-biao.md` | 面向读者的 **发布词汇表** （发布视图，非决策源） | 是 |
+| `shu-yu-biao.md` | 术语对照 **登记册** （术语决策的单一事实源；ADR-0036 改名，原 `yi-zhe-shuo-ming.md`） | 是 |
+| `ren-ming-biao.md` | 人名对照 **登记册** （ADR-0012 自术语表拆出） | 是 |
 | `tasks/` | 文档任务状态记录（JSON，按 SEP slug 组织） | 是 |
 | `baseline/` | 词条版本元数据清单（slug、版本日期、存档版名、SHA-256、抓取时间） | 是 |
 | `specs/`、`.specify/` | 工程规格与项目宪法（spec-kit 体系） | 是 |
@@ -73,6 +73,6 @@
 ## 单体文件治理（ADR-0004）
 
 * 叙事/规则/规格/指南类 markdown 单文件超过 **1000 行或 100KB** 任一，必须按文件夹拆分：`X.md` → `X/index.md` + 按节/附录归类的拼音命名子文件（注：拼音命名仅适用于叙事文档子文件，与词条 SEP slug 命名分属两个约定，见上文废除条款）；`git mv` 保留历史；SUMMARY 收录状态不变。
-* 豁免：登记册（`SUMMARY.md`、`mu-lu-s.md`、`yi-zhe-shuo-ming.md`、`ren-ming-biao.md`（ADR-0012））、生成物（`PROGRESS.md`）、发布词汇表（`qian-yan/ci-hui-biao.md`）；豁免文件超限须走 spec 改解析器后另行裁定。
+* 豁免：登记册（`SUMMARY.md`、`mu-lu-s.md`、`shu-yu-biao.md`（ADR-0036 改名）、`ren-ming-biao.md`（ADR-0012））、生成物（`PROGRESS.md`）；发布词汇表已并网删除（ADR-0036）；豁免文件超限须走 spec 改解析器后另行裁定。
 * 门禁 `python tools/check_doc_size.py`（本地与 `checks.yml`）；SEP 词条本体不在管辖内。
 * **规则文本专用阈值（2026-10-27）**：约束性规则 `rules/0X.md` 超过 **300 行或 30KB** 任一，必须按主题拆分为目录 `rules/0X/`，每文件一主题、分别存放具体规则，规则地图（`rules/README.md`）同步；`check_doc_size` 机检（当前最大 rules/05 74 行，全部达标）。

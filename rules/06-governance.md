@@ -11,8 +11,8 @@
 | 目录结构与标题 | `SUMMARY.md` | 各文件 H1（CI 同步，别名行不覆盖）；`tools/check_summary.py` |
 | 学科分类目录 | `mu-lu-s.md`（手编） | `tools/check_mulu_s.py` 对应性检测 |
 | 英文原文镜像 | `yuanwen/<letter>/<slug>.md`（管线转换，不入库） | `tools/compare.py`、`rebuild_dir.py check`、`baseline_audit.py` |
-| 术语译法 | `yi-zhe-shuo-ming.md` 登记册 | `qian-yan/ci-hui-biao.md` 发布词汇表 |
-| 人名译法 | `ren-ming-biao.md` 登记册（ADR-0012） | `qian-yan/ci-hui-biao.md` 发布词汇表 |
+| 术语译法 | `shu-yu-biao.md` 登记册（ADR-0036 改名） | ——（发布词汇表已并网删除，ADR-0036） |
+| 人名译法 | `ren-ming-biao.md` 登记册（ADR-0012） | ——（发布词汇表已并网删除，ADR-0036） |
 | 词条版本事实 | `baseline/` 元数据清单 | `tools/baseline_audit.py` |
 | 文档任务状态 | `tasks/<首字母>/<slug>.json` | `tools/task_ops.py show` |
 | 流程与验收标准 | `specs/<NNN>-*/spec.md`、`plan.md` | `checklists/`、`demo-log.md` |
@@ -57,7 +57,7 @@
 * push 只有三个检查点：批次认领（抢锁）／`campaign.py advance`／条目 done 收口。认领即推，别攒；其余微提交留本地。**积压线（ADR-0028）**：作业途中未推送提交 ≤1（`python tools/sync_guard.py status` 自查），**收工时必须清零**；例外：M2 关机代理不可用时允许积压跨夜，恢复联网后第一件事清零。
 * **孤儿件处置（ADR-0028）**：本地提交不在远程历史时，先 `git cherry` 判内容是否已在远程；已在→本地弃置；不在→reflog 恢复后推送。处置记入对应 spec execution-log，禁止静默。
 * **机器身份以 IP 区分**（两机 git 用户名同为 `ykla`）：M1 `192.168.5.6` → `pc6`，M2 `192.168.5.4` → `pc4`；标签存各克隆本地配置 `git config --local ykla.machine`，会话 ID 前缀取之（`pc6-c-s3-20261109`）。当场取法：`ipconfig | grep -a IPv4 | head -1`。批次交接用 `campaign.py release <批> --note`，接手方重新 claim。
-* **生成物冲突不手工解**：`PROGRESS.md` 任取一侧后 `tools/progress.py` 重生成；`SUMMARY.md` 取并集后 `check_summary.py`；账本 rebase 后重放 `campaign.py advance`（幂等）；术语表／人名表／词汇表追加式书写，冲突取并集后 `check_terms.py`。
+* **生成物冲突不手工解**：`PROGRESS.md` 任取一侧后 `tools/progress.py` 重生成；`SUMMARY.md` 取并集后 `check_summary.py`；账本 rebase 后重放 `campaign.py advance`（幂等）；术语表／人名表追加式书写，冲突取并集后 `check_terms.py`。
 * 两机尽量不同时开工同一字母批，压低 `SUMMARY.md` 与登记册的文本冲突面；本地相（`script/`、`state/`、`.secrets/`；`en/`、`yuanwen/` 已随 ADR-0027 入库）各机自持，不入库不共享。
 * **M1 的 GitHub 访问经 M2 代理**（`192.168.5.4:7890`，本机直连因 TLS 吊销检查脱机不可用）；M2 关机时 M1 无法 push/pull，需等其上线或改用局域网直连仓库应急。`check_all --all` 每次会改写 `specs/001/en-integrity-full.json` 的 `ran_at`，提交前还原，别把时间戳当改动。
 
@@ -66,7 +66,7 @@
 * **一键全量复核**：`python tools/check_all.py`（八项门禁：结构/分类/单体/垃圾/图片引用/术语/引号/学术规范 + 管线单元测试，共 9 项；`--all` 另加基线审计与英文镜像复核，共 11 项）——收工前与推审前必跑。
 * **文档任务 done** = 六道全部完成（状态机 `r3_reviewed → done`）+ 学术规范挂钩通过（s3/r3 自动跑 `check_academic --docs --strict`，0 硬错误）+ `tools/check_style.py` 0 issue + markdownlint 绿 + CI 全绿。
 * **结构改动 done** = `check_summary.py` 与 `check_mulu_s.py` 报告 0 坏链 0 标题不一致；`rebuild_dir.py check` 镜像无缺口。
-* **术语改动 done** = 登记册新行有首现与裁定日期；发布词汇表同步。
+* **术语改动 done** = 登记册新行有首现与裁定日期（ADR-0036：发布词汇表已并网删除，无同步步骤）。
 * **更新任务输入** = `tools/compare.py <slug>` 的段落级变更清单（spec 001 US-3），evidence 以 `changes:` 开头引用。
 * **完成定义以验收判据为准**：不以工具使用、流程走完、文档篇幅或工时衡量；收工自检“本次改变了哪个决策、产物或门禁”（[08](08-intent-first.md)）。
 * 每次提交 = 一个可回溯单元：中文一行提交信息 + 相关文件 + 必要凭证（任务 JSON 的 evidence、demo 日志）。

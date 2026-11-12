@@ -1,22 +1,20 @@
 # -*- coding: utf-8 -*-
-"""术语一致性检查器（specs/002 FR-001..005；ADR-0012/specs/008 扩展三表）。
+"""术语一致性检查器（specs/002 FR-001..005；ADR-0012/specs/008 扩展双表；ADR-0036 词汇表并网）。
 
 用法:
-  python tools/check_terms.py                       # 三表冲突 + 两登记册自洽（门禁）
+  python tools/check_terms.py                       # 两登记册自洽（门禁）
   python tools/check_terms.py --docs a/某词条.md …   # 定点核销：登记册"首现"驱动的正文核对
-  python tools/check_terms.py --registry <路径> --glossary <路径>   # 测试注入（单表模式）
+  python tools/check_terms.py --registry <路径>     # 测试注入（单表模式）
   python tools/check_terms.py --registry2 <路径>    # 注入第二登记册（人名表）
 
-三表:
-  - 术语登记册 yi-zhe-shuo-ming.md（键|原文|译法|出处|依据|日期，六列；
+两表（ADR-0036 2026-11-13：发布词汇表 qian-yan/ci-hui-biao.md 已并网删除，三表收敛为双表）:
+  - 术语登记册 shu-yu-biao.md（键|原文|译法|首现|依据|裁定日期，六列；
     旧五列「键|译法|首现|依据|裁定日期」按旧口径兼容解析）
   - 人名登记册 ren-ming-biao.md（同六列，ADR-0012 自术语表拆出）
-  - 发布词汇表 qian-yan/ci-hui-biao.md（英语|中文|备注，发布视图）
 
 规则:
   - 键规范化：剥 * 斜体标记、去首尾空格、比对用 casefold，展示保留原样。
-  - 译法集合：取"（"前主形，并按 / 与 ／ 拆分为变体；两侧集合互斥 = 冲突（硬错误）；
-    一侧为另一侧真子集 = 词汇表滞后（告警）。
+  - 译法集合：取"（"前主形，并按 / 与 ／ 拆分为变体（--docs 定点核销按变体命中判定）。
   - 登记册自洽：废弃行须有同键非废弃行；裁定日期缺失、依据列缺失 = 告警
     （数据欠账，登记会话补齐）；同键同译法重复 = 硬错误。
   - 非英语术语缺原文 = 告警（非硬错误，2026-11-06）：键含非 ASCII 拉丁变音符／
@@ -37,9 +35,8 @@ if not _enc or _enc.lower() not in ('utf-8', 'utf8'):
     except (AttributeError, ValueError):
         pass
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-REGISTRY = os.path.join(ROOT, 'yi-zhe-shuo-ming.md')
+REGISTRY = os.path.join(ROOT, 'shu-yu-biao.md')
 REGISTRY2 = os.path.join(ROOT, 'ren-ming-biao.md')
-GLOSSARY = os.path.join(ROOT, 'qian-yan', 'ci-hui-biao.md')
 ORIG_REPORT = os.path.join(ROOT, 'specs', '008-terminology-campaign', 'results',
                            'orig-missing.txt')
 PERSON_REPORT = os.path.join(ROOT, 'specs', '013-person-attribution', 'results',
@@ -385,57 +382,6 @@ def write_orig_missing(entries, path):
     os.replace(tmp, path)
 
 
-def parse_glossary(path):
-    """返回 rows=[(term, trans, lineno)] 与解析告警。
-
-    译法集合取第 2 列，并从第 3 列注记提取 亦作"X" 形态并入
-    （整列并入会把叙述文字当译法，008 战役口径 2026-10-29 收窄）。
-    """
-    rows, warns = [], []
-    for lineno, line in enumerate(open(path, encoding='utf-8'), 1):
-        if not line.startswith('|'):
-            continue
-        cells = split_row(line)
-        if not is_data_row(cells):
-            continue
-        trans = cells[1]
-        if len(cells) >= 3:
-            # 第 3 列注记变体提取：前缀词含亦作/译作/亦译/亦音译/音译/又译/又作，
-            # 连排引号（"X""Y"）逐个吸收（与登记册 translations 口径对齐 2026-11-03）
-            extra = []
-            for m in re.finditer(
-                    r'(?:亦作|译作|亦译|亦音译|音译|又译|又作)[“"]([^”"]{1,40})[”"]', cells[2]):
-                for v in re.split(r'[/／；、;，]', m.group(1)):
-                    if v.strip():
-                        extra.append(v.strip())
-                rest = cells[2][m.end():]
-                while True:
-                    m2 = re.match(r'[“"]([^”"]{1,40})[”"]', rest.strip())
-                    if not m2:
-                        break
-                    for v in re.split(r'[/／；、;，]', m2.group(1)):
-                        if v.strip():
-                            extra.append(v.strip())
-                    rest = rest.strip()[m2.end():]
-            if extra:
-                trans += '；' + '；'.join(extra)
-        rows.append((cells[0], trans, lineno))
-    return rows, warns
-
-
-def collect(rows):
-    """key -> {translation_set, display_key, linenos}"""
-    table = {}
-    for row in rows:
-        term, trans, lineno = row[0], row[1], row[-1]
-        key = norm_key(term)
-        entry = table.setdefault(key, {'key': key, 'display': term,
-                                       'trans': set(), 'lines': []})
-        entry['trans'] |= translations(trans)
-        entry['lines'].append(lineno)
-    return table
-
-
 def check_registry_self(rows):
     """自洽性：废弃链、重复 = 硬错误；缺裁定日期/缺依据 = 告警（数据欠账）。"""
     errors, warns = [], []
@@ -476,23 +422,9 @@ def check_registry_self(rows):
     return errors, warns
 
 
-def check_conflicts(reg, glos, label):
-    """登记册↔词汇表：互斥 = 冲突（硬错误）；词汇表缺登记侧变体 = 滞后（告警）。
-    词汇表多出的变体不报（发布视图允许含更宽通行变体，2026-11-03 口径收窄）。"""
-    conflicts, lagging = [], []
-    for key in sorted(set(reg) & set(glos)):
-        rt, gt = reg[key]['trans'], glos[key]['trans']
-        if rt and gt and not (rt & gt):
-            conflicts.append((label, reg[key]['display'], sorted(rt), sorted(gt),
-                              reg[key]['lines'], glos[key]['lines']))
-        elif rt and gt and (gt < rt):
-            lagging.append((label, reg[key]['display'], sorted(rt), sorted(gt)))
-    return conflicts, lagging
-
-
 def main(argv=None):
     argv = sys.argv[1:] if argv is None else argv
-    reg_path, glos_path, docs = REGISTRY, GLOSSARY, []
+    reg_path, docs = REGISTRY, []
     reg2_path = REGISTRY2
     injected = False
     i = 0
@@ -504,13 +436,10 @@ def main(argv=None):
             reg_path, i, injected = argv[i + 1], i + 1, True
         elif argv[i] == '--registry2':
             reg2_path, i = argv[i + 1], i + 1
-        elif argv[i] == '--glossary':
-            glos_path, i = argv[i + 1], i + 1
         i += 1
     if injected and '--registry2' not in argv:
         reg2_path = ''  # 注入单表模式：跳过人名表，保证测试密闭
 
-    conflicts, lagging = [], []
     all_self_errors, warns = [], []
     doc_rows, orig_entries = [], []
 
@@ -518,10 +447,6 @@ def main(argv=None):
         full_rows, w = parse_registry_full(path)
         rows = [(t, trans, fs, basis, date, ln)
                 for t, _orig, trans, fs, basis, date, ln in full_rows]
-        reg = collect(rows)
-        c, l = check_conflicts(reg, glos, label)
-        conflicts.extend(c)
-        lagging.extend(l)
         e, dw = check_registry_self(rows)
         all_self_errors.extend('%s %s' % (label, x) for x in e)
         warns.extend('%s %s' % (label, x) for x in w + dw)
@@ -532,32 +457,14 @@ def main(argv=None):
                 warns.append('非英语术语缺原文: %s %s（行 %d）' % (label, term, lineno))
                 orig_entries.append((label, term, lineno))
         doc_rows.extend(rows)
-        return rows, reg
+        return rows
 
-    glos_rows, glos_warns = parse_glossary(glos_path)
-    glos = collect(glos_rows)
-    reg1_rows, reg1 = load_one('登记册', reg_path)
-    reg2_rows, reg2 = load_one('人名表', reg2_path, warn_orig=False)
+    reg1_rows = load_one('登记册', reg_path)
+    reg2_rows = load_one('人名表', reg2_path, warn_orig=False)
 
-    print('登记册 %s 行 %d（键 %d） | 人名表 %s 行 %d（键 %d） | 词汇表行 %d（键 %d） | 交集键 %d+%d'
-          % (os.path.basename(reg_path or '(跳过)'), len(reg1_rows), len(reg1),
-             os.path.basename(reg2_path or '(跳过)'), len(reg2_rows), len(reg2),
-             len(glos_rows), len(glos),
-             len(set(reg1) & set(glos)), len(set(reg2) & set(glos))))
-    for w in glos_warns:
-        print('告警(解析): %s' % w)
-    for label, term, rt, gt, rl, gl in conflicts:
-        print('冲突: %s\n  %s(第%s行): %s\n  词汇表(第%s行): %s'
-              % (term, label, ','.join(map(str, rl)), '、'.join(rt),
-                 ','.join(map(str, gl)), '、'.join(gt)))
-    for label, term, rt, gt in lagging:
-        print('词汇表滞后（告警）: [%s] %s | 登记侧: %s | 词汇表: %s'
-              % (label, term, '、'.join(rt), '、'.join(gt)))
-    # 词汇表孤儿键（告警，不计硬错误）：词汇表有、两登记册皆无——违反「先登记后使用」，
-    # 但词汇表按体例收纳书名/作品与常用异形，故不阻断；数量与清单见 specs/008 报告。
-    orphans = sorted({k for k in glos if k not in reg1 and k not in reg2})
-    if orphans:
-        print('词汇表孤儿键（告警）：%d 条（两登记册皆无；书名/作品与异形待逐条裁定）' % len(orphans))
+    print('登记册 %s 行 %d | 人名表 %s 行 %d'
+          % (os.path.basename(reg_path or '(跳过)'), len(reg1_rows),
+             os.path.basename(reg2_path or '(跳过)'), len(reg2_rows)))
     for e in all_self_errors:
         print('自洽违例: %s' % e)
     for w in warns:
@@ -590,9 +497,8 @@ def main(argv=None):
                           % (term, d, '／'.join(found), head))
         print('定点核销：%d 个文档，%d 处疑似缺译法（仅告警）' % (len(docs), misses))
 
-    hard = len(conflicts) + len(all_self_errors)
-    print('硬错误 %d（冲突 %d + 自洽 %d），词汇表滞后 %d'
-          % (hard, len(conflicts), len(all_self_errors), len(lagging)))
+    hard = len(all_self_errors)
+    print('硬错误 %d（自洽 %d）' % (hard, len(all_self_errors)))
     # 非英语术语缺原文：全量清单只对正式登记表落盘（注入模式=测试，不写产物）
     if not injected:
         write_orig_missing(orig_entries, ORIG_REPORT)

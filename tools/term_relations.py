@@ -33,9 +33,8 @@ if ROOT not in sys.path:
     sys.path.insert(0, ROOT)
 from tools import check_terms  # noqa: E402
 
-REG = os.path.join(ROOT, 'yi-zhe-shuo-ming.md')
+REG = os.path.join(ROOT, 'shu-yu-biao.md')
 REN = os.path.join(ROOT, 'ren-ming-biao.md')
-GLO = os.path.join(ROOT, 'qian-yan', 'ci-hui-biao.md')
 CACHE = os.path.join(ROOT, 'specs', '008-terminology-campaign', 'results',
                      'harvest-cache')
 

@@ -13,7 +13,7 @@
 
 1. **翻译 / 校对词条**：在 [PROGRESS.md](PROGRESS.md) 与 `tasks/` 领取任务 → `python tools/task_ops.py create <slug> --kind retranslate`（前置：词条已建英文基线）→ 按六道状态机推进（一校→二校→三校→初审→复审→终审，禁止跳步）→ 每步留 `evidence` 凭证 → 完成即提交（中文一行信息）。
 2. **新词条 / 新页面**：文件与路径由 ykla 统一创建；缺条目请开 issue。
-3. **术语**：先登记 `yi-zhe-shuo-ming.md` 后使用；发布词汇表 `qian-yan/ci-hui-biao.md` 向登记册看齐（见 `rules/03-terminology.md`）。
+3. **术语**：先登记 `shu-yu-biao.md`（人名登记 `ren-ming-biao.md`）后使用（见 `rules/03-terminology.md`；ADR-0036 发布词汇表已并网删除）。
 4. **改结构 / 标题**：只改 `SUMMARY.md`，各文件 H1 由 CI 同步；分类目录 `mu-lu-s.md` 改动后跑 `python tools/check_mulu_s.py`。
 5. **提交前**：跑 `python tools/check_all.py`（六项门禁 + 单元测试）；定点再用 `python tools/check_style.py <改动文件>`；lint 用 `bunx markdownlint-cli2`。
 

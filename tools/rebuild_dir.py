@@ -36,7 +36,8 @@ FRONT = {
     "分类目录": "mu-lu-s.md",
     "版权说明": "qian-yan/ban-quan-shuo-ming.md",
     "日志与编辑规划": "qian-yan/ri-zhi-yu-bian-ji-gui-hua.md",
-    "词汇表": "qian-yan/ci-hui-biao.md",
+    "术语表": "shu-yu-biao.md",
+    "人名表": "ren-ming-biao.md",
     "编辑信息": "guan-yu/bian-ji-xin-xi.md",
     "关于 SEP": "guan-yu/guan-yu-sep.md",
     "编委会": "guan-yu/bian-wei-hui.md",
@@ -47,7 +48,7 @@ FRONT = {
 }
 JUNK_PREFIXES = (".zcode/", ".specify/", "tools/", "rules/", "fang-fa-lun/", "jian-yi-shu/", "specs/")
 JUNK_FILES = {"AGENTS.md", "CODE_OF_CONDUCT.md", "CONTRIBUTING.md", "PROGRESS.md",
-              "SUMMARY.md", "yi-zhe-shuo-ming.md"}
+              "SUMMARY.md", "shu-yu-biao.md"}
 
 
 def norm(s):
@@ -345,8 +346,8 @@ def cmd_toletters():
     def letter_of(stem):
         return stem[0].lower() if re.fullmatch(r"[A-Za-z0-9]", stem[:1]) else "1"
 
-    skip_roots = {"README.md", "SUMMARY.md", "mu-lu-s.md", "PROGRESS.md", "yi-zhe-shuo-ming.md",
-                  "AGENTS.md", "CODE_OF_CONDUCT.md", "CONTRIBUTING.md"}
+    skip_roots = {"README.md", "SUMMARY.md", "mu-lu-s.md", "PROGRESS.md", "shu-yu-biao.md",
+                  "ren-ming-biao.md", "AGENTS.md", "CODE_OF_CONDUCT.md", "CONTRIBUTING.md"}
 
     # 1) 中文侧：根级 <slug>.md → <letter>/<slug>.md
     for fn in sorted(os.listdir(ROOT)):

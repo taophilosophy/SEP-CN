@@ -30,7 +30,7 @@
    （按 row_key 归并变体 → specs/008/results/queries/termonline-all/<safe_key>.json，
      schema 与 cnki_query 一致；raw 留空，note 记各库 totalRecords）
 4) 审计：python tools/term_audit.py（四态刷新，报告落 specs/008/results/）
-5) 裁定登记：只报告不修改；修正走裁定 → Edit 两登记册（五列，禁维基）→ ci-hui-biao 看齐
+5) 裁定登记：只报告不修改；修正走裁定 → Edit 两登记册（五列，禁维基；ADR-0036 起无词汇表看齐步骤）
 6) 门禁：python tools/check_terms.py && python tools/check_all.py；提交（中文一行信息）
 ```
 

@@ -12,7 +12,7 @@
   ⑦主题词（H1 题名 + 章节标题关键短语，type=topic）⑧原文文字路线：阿拉伯/希腊/
   希伯来/西里尔/天城体/汉字字母原文（type=arabic/greek/hebrew/cyrillic/devanagari/cjk）
   ⑨罗马化外语词重分类：含非 ASCII 拉丁扩展或德语名词标记的斜体/引语候选 → type=foreign
-与两登记册 + 词汇表 + 候选池已登记键求差后入池。幂等：单篇提取结果缓存于
+与两登记册 + 候选池已登记键求差后入池（ADR-0036：词汇表已并网删除）。幂等：单篇提取结果缓存于
 specs/008-terminology-campaign/results/harvest-cache/，重跑只增量解析新文件；
 路线/停用词/阈值变更后必须 --refresh（缓存嵌旧词表）。
 
@@ -38,7 +38,7 @@ CORPUS = os.path.join(ROOT, 'yuanwen')
 POOL = os.path.join(ROOT, 'tasks', 'term-pool.json')
 CACHE = os.path.join(ROOT, 'specs', '008-terminology-campaign', 'results',
                      'harvest-cache')
-REGISTRY = os.path.join(ROOT, 'yi-zhe-shuo-ming.md')
+REGISTRY = os.path.join(ROOT, 'shu-yu-biao.md')
 REGISTRY2 = os.path.join(ROOT, 'ren-ming-biao.md')
 LEGACY_POOL = os.path.join(ROOT, 'tasks', 'term-candidates.json')
 
@@ -257,7 +257,7 @@ def extract_slug(path):
 
 
 def load_registered_keys():
-    """已登记键：两登记册 + 词汇表 + 旧候选池 + 新候选池。"""
+    """已登记键：两登记册 + 旧候选池 + 新候选池（ADR-0036：词汇表并网删除）。"""
     from tools import check_terms
     keys = set()
     for path in (REGISTRY, REGISTRY2):
@@ -268,10 +268,6 @@ def load_registered_keys():
             for part in re.split(r'\s*/\s*', row[0]):
                 if part.strip():
                     keys.add(check_terms.norm_key(part))
-    glos_rows, _ = check_terms.parse_glossary(
-        os.path.join(ROOT, 'qian-yan', 'ci-hui-biao.md'))
-    for row in glos_rows:
-        keys.add(check_terms.norm_key(row[0]))
     for pool_path in (LEGACY_POOL, POOL):
         if os.path.exists(pool_path):
             try:
@@ -402,7 +398,7 @@ def main(argv=None):
         'method': '多语种提取（2026-10-30）：斜体/引语/-ism/高频短语/人名序列/阿位专名'
                   '（ADR-0013 变音符折叠键）/主题词（题名+章节标题）/原文文字'
                   '（阿拉伯-希腊-希伯来-西里尔-天城体-汉字）/罗马化外语重分类；'
-                  '与两登记册+词汇表+候选池求差；'
+                  '与两登记册+候选池求差；'
                   '按型阈值 phrase=%d ism/italic/foreign/arabic=%d quoted=3 '
                   'person=5 topic/greek/hebrew/cyrillic/devanagari/cjk=1；'
                   '低频尾部留存单篇缓存（results/harvest-cache/，本地）；' % (
