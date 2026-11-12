@@ -145,10 +145,10 @@ SPECIFIC = {
     'hume-freewill': 20, 'hume-newton': 40, 'hume-moral': 50,
     'hume-aesthetics': 70, 'hume-religion': 80,
     'hobbes-science': 40, 'hobbes-moral': 50,
-    'al-farabi-logic': 10, 'al-farabi-metaphysics': 20,
+    'al-farabi': 0, 'al-farabi-logic': 10, 'al-farabi-metaphysics': 20,
     'al-farabi-psych': 30, 'al-farabi-soc-rel': 60,
-    'ibn-sina-logic': 10, 'ibn-sina-metaphysics': 20, 'ibn-sina-natural': 40,
-    'ibn-rushd-natural': 40,
+    'ibn-sina': 0, 'ibn-sina-logic': 10, 'ibn-sina-metaphysics': 20, 'ibn-sina-natural': 40,
+    'ibn-rushd': 0, 'ibn-rushd-natural': 40,
 }
 
 
