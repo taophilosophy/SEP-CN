@@ -1,50 +1,64 @@
 {
- "slug": "concept-emotion-india",
- "kind": "retranslate",
- "zh_doc": "c/concept-emotion-india.md",
- "state": "s3_checked",
- "steps": [
-  {
-   "step": "clear",
-   "status": "ok",
-   "actor": "task_ops",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "baseline gate: 英文镜像齐备（ADR-0009 逐字符），version_pin 一致"
-  },
-  {
-   "step": "draft",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "初译完成：零信任译自 yuanwen/concept-emotion-india.md，账本双版（step1/step2）齐全"
-  },
-  {
-   "step": "s1",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "自校一：体例修复 italic-cjk→加粗、中西空格，check_style 正文 0"
-  },
-  {
-   "step": "s2",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "自校二：check_academic --strict 0 硬错误，引用键解析完整"
-  },
-  {
-   "step": "s3",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "自校三：翻译波收口，双版账本齐全，学术规范+体例双绿"
+  "slug": "concept-emotion-india",
+  "kind": "retranslate",
+  "zh_doc": "c/concept-emotion-india.md",
+  "state": "r2_reviewed",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "baseline gate: 英文镜像齐备（ADR-0009 逐字符），version_pin 一致"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "初译完成：零信任译自 yuanwen/concept-emotion-india.md，账本双版（step1/step2）齐全"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "自校一：体例修复 italic-cjk→加粗、中西空格，check_style 正文 0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "自校二：check_academic --strict 0 硬错误，引用键解析完整"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "自校三：翻译波收口，双版账本齐全，学术规范+体例双绿"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "R-main-20261112",
+      "at": "2026-11-12T07:14:38Z",
+      "evidence": "r1 初审（R-main-20261112，异于初译主代理 2026-11-01，异会话独立性满足；其间已完整作业 cassirer/change/confucius 全周期=冷置）：218 行全文回读并对照 yuanwen 逐段核验。结构五维全等：正文段 54:54、节 9:9（5 编号节＋References/学术工具/其他网络资源/相关词条）、脚注定义 23:23 键集同序、原始文献表 11 行键（BSBh/NB/NM/NS/NV/PV/SPB/SSu/TS/TSP/VS/VSU/YS）与源逐行对应。H1 与 SUMMARY 行 1259 逐字一致；相关词条 10 项与 SUMMARY 定名核对全等（早期中国哲学中的情=emotions-chinese 行 436、法称=dharmakiirti 行 690、早期现代印度的分析哲学行 757、情感行 781、情感：17 世纪和 18 世纪的情感理论、情感：中世纪情感理论、爱行 1589、印度佛教哲学中的心灵行 1746、快乐行 2061、寂护行 2351）。实修 7 处：编号节标题 5 处去英文句点（模板行 4；全库 234:1812 少数派）；References 子标题 原始文献/第二手文献→Primary sources/Secondary sources（模板行 17 保留英文，全库 332:89 多数派）。零信任复核不改：vedanā（受）与 bhāva（受）同译——源文本身即 *vedanā* (feeling) and *bhāva* (feeling)，作者原样并列，不改；[梵语词从略]←[Sanskrit terms omitted]、[脚注从略]←[Footnote omitted] 逐字对应；第二手文献节在源文即为空节（Secondary sources 后直接 Academic Tools），照录保留。prose 46→36（实修 10：弱动词 5 处去作出/予以框架、被动 6 处改主动或去双被，含『这些对象可有若干种挑出的方式』『须经自我认知才能被体验』『区分一方面知觉与另一方面爱与憎』等），余 36 分类豁免（ADR-0020 留痕）：de-chain 27 为梵语术语偏正结构（情感之认知、prakṛti 之诸性质等）、长句 8 为源文周期句镜像、passive 1（被归诸）。check_style 0／check_math 0 式 0 缺 0 失衡／check_academic --strict OK。语体：现代汉语学术书面语，无文言仿古；破折号仅插入语。Critical/Major 零残留。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "R-main-20261112",
+      "at": "2026-11-12T07:16:16Z",
+      "evidence": "r2 复审（R-main-20261112，异于初译主代理）：逐句回核原文与逻辑——r1 所修 17 处回读语境连贯；五节论证链（正理—胜论缺陷说→不二吠檀多心之性质→数论—瑜伽双重障碍→佛教 vijñāna/kleśa 说明）完整；经论引用（NB/NS/NV/VS/VSU/NM/BSBh/YS/SSu/PV/TS/TSP）位置与源逐一对应；梵语术语括注（*rāga*/*dveṣa*/*harṣa*/*bhaya*/*śoka*、*sattva*/*rajas*/*tamas*、*kleśas*、*vijñāna*、*uparāga* 等）与源一一对应。人名回核：发现并修正 1 处异形冲突——正文『乌地陀迦罗』对册定『乌底耶多迦罗』（Uddyotakara，ren-ming-biao 行 3953，early-modern-india 2026-11-10 定名），正文对齐 1 处；古典印度学者在册者直接沿用：法称 Dharmakīrti、寂护 Śāntarakṣita、莲花戒 Kamalaśīla、商羯罗 Śaṅkara、无著 Asaṅga、弥勒 Maitreya；补登 9 行（先登后用补课，来源 concept-emotion-india，凭证 2026-11-12 r2）：Patañjali 波颠阇利、Vyāsa 毗耶娑、Vātsyāyana 筏蹉衍那、Jayanta Bhaṭṭa 阇衍陀·跋陀、Śaṅkara Miśra 商羯罗·弥尸罗（与吠檀多商羯罗异人分立）；现代学者无通行汉名者 4 行按 ADR-0022 保留英文：Franco, Eli／Jha, Ganganatha／Lutz, Catherine／Sinha, Jadunath；registry_azsort 干跑守恒 4277 行、周界 0，9 行按折叠键就位（Jha<Ji、Franco<Franck、Patañjali<Pateman、Jayanta<Jayarāśi、Vyāsa<Vygotsky、Vātsyāyana<Vattimo、Lutz<Luxemburg、Sinha 于 Sin Hudam 后、Śaṅkara Miśra 于 Śaṅkara 后）。check_terms 硬错误 0（冲突 0+自洽 0）。观察项：参考文献采用表格形态（[BSBh] 等键 + 版本行 + GRETIL），与脚注式条目并存，属源文形态照录，不改形。"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-10-31T22:09:59Z",
+  "version_pin": {
+    "pubinfo_date": "Oct 30, 2025",
+    "archive_edition": "Winter 2025",
+    "sha256": "596e69290fcd10b2d4c2bd410336135e9397c8dd71cb86c91eaea9761d320a45"
   }
- ],
- "blockers": [],
- "created_at": "2026-10-31T22:09:59Z",
- "version_pin": {
-  "pubinfo_date": "Oct 30, 2025",
-  "archive_edition": "Winter 2025",
-  "sha256": "596e69290fcd10b2d4c2bd410336135e9397c8dd71cb86c91eaea9761d320a45"
- }
 }

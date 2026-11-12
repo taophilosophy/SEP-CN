@@ -1290,6 +1290,7 @@
 | Francis of Assisi, St. | — | 亚西西的圣方济各 | — | — | arabic-islamic-mysticism | 基督教史通行汉译 | 2026-11-07 |
 | Francis of Marchia | — | 马尔基亚的弗朗西斯 | 意大利 | — | gregory-rimini | 依驻地冠称（Franciscus de Marchia，方济各会神学家）；凭证 2026-11-10 | 2026-11-10 |
 | Francis of Prato | — | 普拉托的弗朗西斯 | 意大利 | 活跃于 1340 年代 | sharpe | 本词条首译（14 世纪意大利多明我会逻辑学家，无通行汉名；Amerini 研究文献）；凭证 2026-11-09 | 2026-11-09 |
+| Franco, Eli | — | Eli Franco（现代学者，保留英文） | — | — | concept-emotion-india | ADR-0022：无通行汉名者保留英文（法称研究）；凭证 2026-11-12 concept-emotion-india r2 | 2026-11-12 |
 | Franck, Jacob | — | 雅各布·弗兰克 | 波兰（波多利亚生） | c. 1726–1791 | scholem | 学界通行汉译（十八世纪沙巴泰派领袖）；凭证 2026-11-08 | 2026-11-08 |
 | Frank, Adolphe | — | 阿道夫·弗兰克 | 法国 | 1809–1893 | scholem | 学界通行汉译（十九世纪犹太学者）；凭证 2026-11-08 | 2026-11-08 |
 | Frankel, Stanley | — | 斯坦利·弗兰克尔 | 美国 | 1919–1978 | computing-history | 学界通行音译（洛斯阿拉莫斯计算项目负责人之一）；凭证 2026-11-10 | 2026-11-09 |
@@ -1971,6 +1972,7 @@
 | Jason Stanley | — | 杰森·斯坦利 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Jaspers, Karl | — | 卡尔·雅斯贝尔斯 | 德国 | 1883–1969 | yorck | 学界通行汉译（生存哲学，登记册 jaspers 系术语已多见）；凭证 2026-11-11 | 2026-11-11 |
 | Jaurès, Jean | Jean Jaurès | 让·饶勒斯 | — | — | bergson | 法国社会主义领袖，柏格森高师同窗；学界通行汉译 | 2026-11-08 |
+| Jayanta Bhaṭṭa | जयन्त भट्ट | 阇衍陀·跋陀 | 古印度／正理论师 | 约 9 世纪 | concept-emotion-india | 学界通行汉译（《正理花环》作者）；凭证 2026-11-12 concept-emotion-india r2 | 2026-11-12 |
 | Jayarāśi Bhaṭṭa | जयराशि भट्ट | 阇耶罗师·跋陀 | — | — | jayaraasi | 本库自拟梵音（jaya 阇耶＝胜、rāśi 罗师＝聚；Bhaṭṭa 从 kumaarila 词条作“跋陀”）；SUMMARY 原题“伽耶惹悉·巴札”2026-11-07 归一 | 2026-11-07 |
 | Jean Fernel | — | 让·费尔内尔 | — | — | locke-on-medicine | 医史通行音译（盖伦传统医家） | 2026-11-05 |
 | Jean Hampton | — | 琼·汉普顿 | — | — | justice-virtue | 学界通行汉译（政治哲学）；凭证 2026-11-02 | 2026-11-02 |
@@ -1994,6 +1996,7 @@
 | Jesus of Nazareth | — | 拿撒勒人耶稣 | — | — | god-necessary-being | 《圣经》和合本通行译名（非历史年表人物，经文引文语境） | 2026-11-09 |
 | Jevons, Thomas | — | 托马斯·杰文斯 | — | — | william-jevons | 构词直译（杰文斯之父，铁商）；凭证 2026-11-07 | 2026-11-07 |
 | Jevons, William Stanley | — | Jevons | — | — | lvov-warsaw | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
+| Jha, Ganganatha | — | Ganganatha Jha（现代学者，保留英文） | — | — | concept-emotion-india | ADR-0022：无通行汉名者保留英文（《正理经》英译者）；凭证 2026-11-12 concept-emotion-india r2 | 2026-11-12 |
 | Ji Yun | — | 纪昀 | — | — | dai-zhen | 上游自带汉字；学界通行（四库馆总纂官）；凭证 2026-11-07 | 2026-11-07 |
 | Jia Yi | — | 贾谊 | — | — | han-dynasty | 上游自带汉字（西汉政论家） | 2026-11-10 |
 | Jiang Yong | — | 江永 | — | — | dai-zhen | 上游自带汉字；学界通行（三礼与历算名家，戴震之师）；凭证 2026-11-07 | 2026-11-07 |
@@ -2473,6 +2476,7 @@
 | Luria, Solomon | — | 卢里亚 | — | — | democritus | 学界通例（俄国古典学者；正文以姓行文） | 2026-11-06 |
 | Luther, Martin | — | 马丁·路德 | — | — | erasmus | 学界惯例（宗教改革研究通行汉译） | 2026-11-04 |
 | Lutz, Carsten | — | Carsten Lutz | — | — | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
+| Lutz, Catherine | — | Catherine Lutz（现代学者，保留英文） | — | — | concept-emotion-india | ADR-0022：无通行汉名者保留英文（情感人类学）；凭证 2026-11-12 concept-emotion-india r2 | 2026-11-12 |
 | Luxemburg, Rosa | — | 罗莎·卢森堡 | — | — | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Lycan, William G. | — | William Lycan（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09 | 2026-11-09 |
 | Lynceus | — | 林叩斯 | — | — | erasmus | 学界惯例（阿尔戈英雄中目光锐利者通译） | 2026-11-04 |
@@ -3043,6 +3047,7 @@
 | Pashukanis, Evgeny | — | 叶夫根尼·帕舒卡尼斯 | — | — | bloch | 学界通行汉译（苏联法学家）；凭证 2026-11-07 | 2026-11-07 |
 | Passmore, John | — | 约翰·帕斯莫尔 | 澳大利亚 | 1914–2004 | cudworth | 学界通行汉译（哲学史家，1951 年库德沃斯未刊手稿研究开山）；凭证 2026-11-10 | 2026-11-09 |
 | Passy, Solomon | — | Solomon Passy | — | — | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
+| Patañjali | पतञ्जलि | 波颠阇利 | 古印度／瑜伽派 | 约 2 世纪 | concept-emotion-india | 学界通行汉译（《瑜伽经》作者；与正理派无关）；凭证 2026-11-12 concept-emotion-india r2 | 2026-11-12 |
 | Pateman, Carole | — | 卡罗尔·帕特曼 | — | — | c/contractarianism 首译 | 学界通行汉译（《性契约》中译本作者）；凭证 2026-11-07 | 2026-11-07 |
 | Paterson, Michael S. | — | Michael S. Paterson | — | — | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Pauen, Michael | — | 米夏埃尔·保恩 | 德国 | — | epiphenomenalism | 音译（正文作“保恩（Michael Pauen）”）；凭证 2026-11-12 | 2026-11-12 |
@@ -3487,6 +3492,7 @@
 | Sanford, David H. | — | David Sanford（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文（条件句研究）；凭证 2026-11-09 | 2026-11-09 |
 | Sarkar, Sahotra | — | 萨霍特拉·萨卡尔 | 美国 | — | information-biological | 音译（生物学哲学）；凭证 2026-11-12 | 2026-11-12 |
 | Śaṅkara | शङ्कर | 商羯罗 | 南印度（迦拉迪，喀拉拉）／不二论吠檀多 | c. 700–750 | kumaarila | 印度哲学史学界通行（不二论吠檀多，约八世纪） | 2026-11-05 |
+| Śaṅkara Miśra | — | 商羯罗·弥尸罗 | 古印度／胜论注释者 | 15 世纪 | concept-emotion-india | 学界通行汉译（《胜论经》Upaskāra 注作者；与吠檀多商羯罗异人分立）；凭证 2026-11-12 concept-emotion-india r2 | 2026-11-12 |
 | Śāntarakṣita | शान्तरक्षित | 寂护 | 孟加拉／佛教中观与瑜伽行 | 725–788 | abhidharma | 佛学界通行汉译；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | Santayana, George | — | 乔治·桑塔亚那 | — | — | environmental-aesthetics | 学界通行汉译 | 2026-11-08 |
 | Santorio, Santorio | — | 桑托里奥·桑托里 | — | — | henricus-regius | 学界惯例（意大利医学教授，1561–1636，通行汉译）；凭证 2026-11-08 | 2026-11-08 |
@@ -3648,6 +3654,7 @@
 | Simon, Richard | — | 理查·西蒙 | — | — | albo-joseph | 《原则之书》法译注家（正文作西蒙） | 2026-11-07 |
 | Simplicius | — | 辛普里丘 | — | — | leucippus | 学界通行汉译（古代哲学注释家）；待 specs/008 审定库复核 | 2026-11-03 |
 | Simpson, Leanne Betasamosake | — | 丽安·贝塔萨莫萨克·辛普森 | — | — | colonialism | 正文首现音译；待 008 复核；凭证 2026-11-07 | 2026-11-07 |
+| Sinha, Jadunath | — | Jadunath Sinha（现代学者，保留英文） | — | — | concept-emotion-india | ADR-0022：无通行汉名者保留英文（《印度心理学》作者）；凭证 2026-11-12 concept-emotion-india r2 | 2026-11-12 |
 | Sin Hudam | 慎後聃 | 慎后聃 | 1702–1761 | — | korean-confucianism | 汉文传统写法（朝鲜性理学者，《西学辨》作者） | 2026-11-08 |
 | Singer, Peter | — | 彼得·辛格 | — | — | intuitionism-ethics | 学界通行汉译（《饥荒、富裕与道德》作者）；凭证 2026-11-08 | 2026-11-08 |
 | Sinnott-Armstrong, Walter | — | Walter Sinnott-Armstrong（现代学者，保留英文） | — | — | justice-moral-psych | ADR-0022：无通行汉名者保留英文（致谢）；凭证 2026-11-10 | 2026-11-10 |
@@ -4024,6 +4031,7 @@
 | Vásquez, Gabriel | — | 加布里埃尔·巴斯克斯 | 西班牙／耶稣会经院哲学家 | 1549–1604 | johann-sturm | 学界通行音译；凭证 2026-11-10 | 2026-11-10 |
 | Vasubandhu | — | 世亲 | 古印度／瑜伽行派 | 约 4–5 世纪 | yogacara | 汉传佛典千年通行译名（《俱舍论》《唯识三十论》作者）；凭证 2026-11-11 | 2026-11-11 |
 | Vātsyāyana | वात्स्यायन | 筏磋衍那 | 古印度／正理派 | 约 450–500 | jaina-philosophy | 正理与因明学界通行音译（《逻辑经疏》作者） | 2026-11-08 |
+| Vātsyāyana | वात्स्यायन | 筏蹉衍那 | 古印度／正理派 | 约 4–5 世纪 | concept-emotion-india | 学界通行汉译（《正理疏》作者）；凭证 2026-11-12 concept-emotion-india r2 | 2026-11-12 |
 | Vattimo, Gianni | — | 詹尼·瓦蒂莫 | — | — | bloch | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Vaudemont, Nicholas of | — | 尼古拉·德·沃德蒙 | — | — | buridan | 学界通行音译（14 世纪巴黎艺学硕士）；凭证 2026-11-08 | 2026-11-08 |
 | Vaught, Robert | — | 沃特 | — | —；tarski-truth | tarski-truth | 学界通行汉译（模型论学家，Tarski–Vaught 检验） | 2026-11-09 合并（同键变体，来源列并双 slug） |
@@ -4056,6 +4064,7 @@
 | von Hildebrand, Dietrich | — | 迪特里希·冯·希尔德布兰德 | 德国／美国／现象学与价值伦理学 | 1889–1977 | reinach | 学界通行汉译（现象学价值伦理学）；凭证 2026-11-09 | 2026-11-09 |
 | von Wright, Georg Henrik | — | Georg Henrik von Wright（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文（学界通行汉译“冯·赖特”备查）；凭证 2026-11-09 | 2026-11-09 |
 | Vossius, Gerardus (Vos, Gerrit Janszoon) | — | 福修斯（赫里特·扬松·福斯） | 荷兰／古典学者 | 1577–1649 | johann-sturm | 学界通行汉译（Vossius 为拉丁名）；凭证 2026-11-10 | 2026-11-10 |
+| Vyāsa | व्यास | 毗耶娑 | 古印度／《瑜伽经》注释者 | 约 5–6 世纪 | concept-emotion-india | 学界通行汉译（Yoga-bhāṣya 作者）；凭证 2026-11-12 concept-emotion-india r2 | 2026-11-12 |
 | Vygotsky, Lev | — | 列夫·维果茨基 | 苏联 | 1896–1934 | innateness-cognition | 学界通行汉译（社会文化理论）；凭证 2026-11-12 | 2026-11-12 |
 
 ## W
