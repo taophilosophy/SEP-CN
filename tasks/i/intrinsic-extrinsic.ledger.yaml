@@ -733,158 +733,210 @@ segments:
     kind: body
     source: |-
       ### 2.4 Duplication Preserving vs. Duplication Non-Preserving Properties
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.4. 复制保持属性与复制不保持属性
+    step2: |-
+      ### 2.4. 复制保持属性与复制不保持属性
   - id: 90
     kind: body
     source: |-
       The third characterisation Lewis lists when isolating the concept of intrinsicality is that duplicates never differ with respect to their intrinsic properties. Lewis holds a further principle that may not be obvious from the above quote: that any property with respect to which duplicates never differ is intrinsic. Adding this further principle to the characterisation gives us (12).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      刘易斯在孤立内在性概念时所列的第三条刻画是：复本就其内在属性而言从不相异。刘易斯还持有一个从上面的引文可能看不出来的进一步原则：凡复本就之从不相异的属性都是内在的。把这一进一步原则加到该刻画上，便得到 (12)。
+    step2: |-
+      刘易斯在孤立内在性概念时所列的第三条刻画是：复本（duplicates）就其内在属性而言从不相异。刘易斯还持有一个从上面的引文未必看得出来的进一步原则：凡复本就之从不相异的属性都是内在的。把这一进一步原则加到该刻画上，便得到 (12)。
   - id: 91
     kind: body
     source: |-
       **(12)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(12)**
+    step2: |-
+      **(12)**
   - id: 92
     kind: body
     source: |-
       $F$ is intrinsic iff $F$ never differs between duplicates.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $F$ 是内在的，当且仅当 $F$ 在复本之间从不相异。
+    step2: |-
+      $F$ 是内在的，当且仅当 $F$ 在复本之间从不相异。
   - id: 93
     kind: body
     source: |-
       (12), however, has the following problem. Assume that no man has a mass of 500 kg (although it is possible for a man to have a mass of 500 kg). Since nothing has the property of being a popular man who is 500 kg, given this assumption, no two duplicates differ in whether they have this property. (12) therefore falsely classifies *being a popular man who is 500 kg* as intrinsic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，(12) 有如下问题。假定没有男人具有 500 千克的质量（尽管男人可能具有 500 千克的质量）。既然在此假设下没有任何东西具有"是受欢迎的 500 千克男人"这一属性，就没有哪两个复本在是否具有这一属性上有所不同。(12) 因此错误地把"是受欢迎的 500 千克男人"归为内在的。
+    step2: |-
+      然而，(12) 有如下问题。假定没有男人具有 500 千克的质量（尽管男人可能具有 500 千克的质量）。既然在此假设下没有任何东西具有"是受欢迎的 500 千克男人"这一属性，就没有哪两个复本在是否具有这一属性上有所不同。(12) 因此错误地把"是受欢迎的 500 千克男人"归为内在的。
   - id: 94
     kind: body
     source: |-
       David Lewis doesn’t face this problem due to his concretist theory of possible worlds. Lewis holds that, in addition to the world we live in, there are many other concrete worlds of the same kind as the world we live in. Moreover, he holds that contained in some of these worlds are 500 kg duplicate men, some of whom are popular, and some of whom are not. Given Lewis’s concretist theory of possible worlds, then, being a popular man who is 500 kg is classified as extrinsic by (12).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      大卫·刘易斯并未面临这一问题，这得益于他的可能世界具体主义理论。刘易斯主张：除我们所居住的世界之外，还存在许多其他与我们所在世界同类的具体世界。而且他主张，其中一些世界包含 500 千克的复本男人，其中一些受欢迎，另一些不受欢迎。于是，在刘易斯的可能世界具体主义理论下，"是受欢迎的 500 千克男人"被 (12) 归为外在的。
+    step2: |-
+      大卫·刘易斯并未面临这一问题，这得益于他的可能世界具体主义（concretist）理论。刘易斯主张：除我们所居住的世界之外，还存在许多其他与我们所在世界同类的具体世界。而且他主张，其中一些世界包含 500 千克的复本男人，其中一些受欢迎，另一些不受欢迎。于是，在刘易斯的可能世界具体主义理论下，"是受欢迎的 500 千克男人"被 (12) 归为外在的。
   - id: 95
     kind: body
     source: |-
       Philosophers who instead endorse standard abstractionist theories of possible worlds, however, can’t accept (12). According to standard abstractionist theories of possible worlds, possible worlds do not contain concrete entities such as 500 kg men as parts. According to standard abstractionists, then, there are no 500 kg men, there are only possible worlds that represent that there are 500 kg men. Philosophers who endorse standard abstractionist theories of possible worlds, however, can replace (12) with (13) (see Moore 1922 and Francescotti 1999)[^francescotti-1999][^moore-1922]. (Or at least, they can replace (12) with (13) given they hold that there are things that exist according to non-actual possible worlds that don’t exist according to the actual world. Abstractionists who deny this will have to further modify (13).)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，转而支持可能世界标准抽象主义理论的哲学家无法接受 (12)。按照可能世界的标准抽象主义理论，可能世界并不把诸如 500 千克男人这类具体实体作为部分包含在内。于是，按照标准抽象主义者，不存在 500 千克的男人，只存在表征有 500 千克男人的可能世界。不过，支持可能世界标准抽象主义理论的哲学家可以用 (13) 替换 (12)（见 Moore 1922 与 Francescotti 1999）[^francescotti-1999][^moore-1922]。（或者至少，如果他们主张存在按非现实可能世界存在而不按现实世界存在的东西，他们就可以用 (13) 替换 (12)。否认这一点的抽象主义者将不得不进一步修改 (13)。）
+    step2: |-
+      然而，转而支持可能世界标准抽象主义（abstractionist）理论的哲学家无法接受 (12)。按照可能世界的标准抽象主义理论，可能世界并不把诸如 500 千克男人这类具体实体作为部分包含在内。于是，按照标准抽象主义者，不存在 500 千克的男人，只存在表征有 500 千克男人的可能世界。不过，支持可能世界标准抽象主义理论的哲学家可以用 (13) 替换 (12)（见 Moore 1922 与 Francescotti 1999）[^francescotti-1999][^moore-1922]。（或者至少，如果他们主张存在按非现实可能世界存在而不按现实世界存在的东西，他们就可以用 (13) 替换 (12)。否认这一点的抽象主义者将不得不进一步修改 (13)。）
   - id: 96
     kind: body
     source: |-
       **(13)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(13)**
+    step2: |-
+      **(13)**
   - id: 97
     kind: body
     source: |-
       $F$ is intrinsic iff, for any $x$ and $y$, and for any possible worlds $u$ and $v$ such that $x$ at $u$ is a duplicate of $y$ at $v, x$ has $F$ at $u$ iff $y$ has $F$ at $v$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $F$ 是内在的，当且仅当：对任意 $x$ 与 $y$，以及对任意可能世界 $u$ 与 $v$，若 $x$ 在 $u$ 上是 $y$ 在 $v$ 上的复本，则其在 $u$ 上具有 $F$，当且仅当 $y$ 在 $v$ 上具有 $F$。
+    step2: |-
+      $F$ 是内在的，当且仅当：对任意 $x$ 与 $y$，以及对任意可能世界 $u$ 与 $v$，若 $x$ 在 $u$ 上是 $y$ 在 $v$ 上的复本，则其在 $u$ 上具有 $F$，当且仅当 $y$ 在 $v$ 上具有 $F$。
   - id: 98
     kind: body
     source: |-
       Given a standard abstractionist theory of possible worlds, there is a possible world $u$ that represents there being a popular 500 kg man $x$, and there is another possible world $v$ that represents there being an unpopular 500 kg man $y$, where $x$ at $u$ has the same intrinsic properties as $y$ at $v$, and hence $x$ at $u$ is a duplicate of $y$ at $v$. Given this, (13) classifies *being a popular man who is 500 kg* as extrinsic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在可能世界的标准抽象主义理论下，存在一个可能世界 $u$，它表征有一个受欢迎的 500 千克男人 $x$；还存在另一个可能世界 $v$，它表征有一个不受欢迎的 500 千克男人 $y$；其中 $x$ 在 $u$ 与 $y$ 在 $v$ 具有相同的内在属性，因而 $x$ 在 $u$ 是 $y$ 在 $v$ 的复本。由此，(13) 把"是受欢迎的 500 千克男人"归为外在的。
+    step2: |-
+      在可能世界的标准抽象主义理论下，存在一个可能世界 $u$，它表征有一个受欢迎的 500 千克男人 $x$；还存在另一个可能世界 $v$，它表征有一个不受欢迎的 500 千克男人 $y$；其中 $x$ 在 $u$ 与 $y$ 在 $v$ 具有相同的内在属性，因而 $x$ 在 $u$ 是 $y$ 在 $v$ 的复本。由此，(13) 把"是受欢迎的 500 千克男人"归为外在的。
   - id: 99
     kind: body
     source: |-
       Putting aside for the moment the question of whether (13) correctly characterises a genuine notion of intrinsicality, let us call the notion it does characterise duplication preservation. (13), understood as a characterisation of duplication preservation has two important consequences. First, it has the consequence that identity properties, such as being Obama, aren’t duplication preserving. The reason for this is that, since Obama could have had a duplicate distinct from himself, there is a possible world at which Obama has a duplicate who is not Obama, and hence there is a possible world at which something having the property of being Obama has a duplicate which lacks this property.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们暂且撇开 (13) 是否正确刻画了一个真正的内在性概念这一问题，把它确实刻画的概念称为复制保持（duplication preservation）。作为对复制保持的刻画，(13) 有两个重要推论。第一，它蕴含同一属性——例如"是奥巴马"——不是复制保持的。理由是：既然奥巴马本可能有区别于自身的复本，就存在一个可能世界，在该世界中奥巴马有一个不是奥巴马的复本；于是存在一个可能世界，在该世界中某个具有"是奥巴马"这一属性的东西有一个缺乏这一属性的复本。
+    step2: |-
+      我们暂且撇开 (13) 是否正确刻画了一个真正的内在性概念这一问题，把它确实刻画的概念称为复制保持（duplication preservation）。作为对复制保持的刻画，(13) 有两个重要推论。第一，它蕴含同一属性——例如"是奥巴马"——不是复制保持的。理由是：既然奥巴马本可能有区别于自身的复本，就存在一个可能世界，在该世界中奥巴马有一个不是奥巴马的复本；于是存在一个可能世界，在该世界中某个具有"是奥巴马"这一属性的东西有一个缺乏这一属性的复本。
   - id: 100
     kind: body
     source: |-
       A more general consequence can be stated using the distinction between qualitative and non-qualitative properties, where a qualitative property is intuitively a property that doesn’t concern any particular entities, while a non-qualitative property is a property that does concern one or more particular entities. Examples of qualitative properties include the property of being cubical and the property of being next to a tin, while examples of non-qualitative properties include the property of being Obama and the property of being next to Clinton. It plausibly follows from (13), understood as a characterisation of duplication preservation, that any non-qualitative property that is possibly instantiated is not a duplication preserving property.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个更一般的推论可以借助质性属性与非质性属性之分来陈述：质性属性直观上是不关乎任何特定实体的属性，而非质性属性是关乎一个或多个特定实体的属性。质性属性的例子包括"是立方体"与"在一块锡旁边"；非质性属性的例子包括"是奥巴马"与"在克林顿旁边"。由作为复制保持之刻画的 (13) 可信地可得：任何可能被实例化的非质性属性都不是复制保持属性。
+    step2: |-
+      一个更一般的推论可以借助质性属性与非质性属性之分来陈述：质性属性（qualitative property）直观上是不关乎任何特定实体的属性，而非质性属性是关乎一个或多个特定实体的属性。质性属性的例子包括"是立方体"与"在一块锡旁边"；非质性属性的例子包括"是奥巴马"与"在克林顿旁边"。由作为复制保持之刻画的 (13) 可信地可得：任何可能被实例化的非质性属性都不是复制保持属性。
   - id: 101
     kind: body
     source: |-
       Say that a property is indiscriminately necessary iff it is necessarily had by everything. The second consequence of (13), understood as a characterisation of duplication preservation, is that any two properties that are indiscriminately necessary are duplication preserving. Consider, for example, the indiscriminately necessary property of being such that there is a number (where we are assuming that numbers necessarily exist). Since all things at all possible worlds have this property, it is a duplication preserving property.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们说一个属性是无差别必然的，当且仅当它必然地被一切东西所具有。作为对复制保持之刻画的 (13) 的第二个推论是：任何两个无差别必然的属性都是复制保持的。例如考虑无差别必然属性"有数存在"（我们假定数必然存在）。既然所有可能世界中的所有东西都具有这一属性，它就是复制保持属性。
+    step2: |-
+      我们说一个属性是无差别必然的（indiscriminately necessary），当且仅当它必然地被一切东西所具有。作为对复制保持之刻画的 (13) 的第二个推论是：任何两个无差别必然的属性都是复制保持的。例如考虑无差别必然属性"有数存在"（我们假定数必然存在）。既然所有可能世界中的所有东西都具有这一属性，它就是复制保持属性。
   - id: 102
     kind: body
     source: |-
       Since being such that there is a number is neither a local property or an identity interior property, but is a duplication preserving property (given numbers necessarily exist), the duplication preserving properties do not coincide with either the local properties or the identity interior properties. Since being Obama is a metaphysical necessitation interior property, but is not a duplication preserving property, the duplication preserving properties don’t coincide with the metaphysical necessitation interior properties either. (Moore (1922) and Dunn (1990), in effect, both distinguish duplication preservation from interiority on these grounds.) Hence, we have at least four distinct kinds of properties that are characterised by Lewis’s three characterisations: local properties, identity interior properties, metaphysical necessitation interior properties, and duplication preserving properties.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      既然"有数存在"既不是局部属性也不是同一内部属性，却是复制保持属性（在数必然存在的条件下），复制保持属性就既不与局部属性重合，也不与同一内部属性重合。既然"是奥巴马"是形而上学必然化内部属性，却不是复制保持属性，复制保持属性也不与形而上学必然化内部属性重合。（Moore 1922 与 Dunn 1990 实际上都正是以这些根据区分了复制保持与内部性。）于是，我们至少有四种由刘易斯三条刻画所刻画的彼此不同的属性：局部属性、同一内部属性、形而上学必然化内部属性与复制保持属性。
+    step2: |-
+      既然"有数存在"既不是局部属性也不是同一内部属性，却是复制保持属性（在数必然存在的条件下），复制保持属性就既不与局部属性重合，也不与同一内部属性重合。既然"是奥巴马"是形而上学必然化内部属性，却不是复制保持属性，复制保持属性也不与形而上学必然化内部属性重合。（Moore 1922 与 Dunn 1990 实际上都正是以这些根据区分了复制保持与内部性。）于是，我们至少有四种由刘易斯三条刻画所刻画的彼此不同的属性：局部属性、同一内部属性、形而上学必然化内部属性与复制保持属性。
   - id: 103
     kind: body
     source: |-
       If Lewis’s three characterisations concerning intrinsicality characterise different notions, the three characterisations described in section 1.2 concerning having a property in an intrinsic fashion also characterise different notions. In order to distinguish these notions, we may employ these characterisations to define having a property in a duplication preserving fashion, having a property in an interior fashion (relative to different entailment relations), and having a property in a local fashion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果刘易斯关于内在性的三条刻画刻画了不同的概念，那么第 1.2 节所述关于"以内在方式具有属性"的三条刻画也刻画了不同的概念。为了区分这些概念，我们可以用这些刻画来定义：以复制保持方式具有属性、以内部方式具有属性（相对于不同的蕴含关系）与以局部方式具有属性。
+    step2: |-
+      如果刘易斯关于内在性的三条刻画刻画了不同的概念，那么第 1.2 节所述关于"以内在方式具有属性"的三条刻画也刻画了不同的概念。为了区分这些概念，我们可以用这些刻画来定义：以复制保持方式具有属性、以内部方式具有属性（相对于不同的蕴含关系）与以局部方式具有属性。
   - id: 104
     kind: body
     source: |-
       ### 2.5 Which is the real distinction?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.5. 哪一个才是真正的区分？
+    step2: |-
+      ### 2.5. 哪一个才是真正的区分？
   - id: 105
     kind: body
     source: |-
       In the last three subsections, we distinguished a number of distinct notions that are characterised by Lewis’s three characterisation: locality, duplication preservation, and several different kinds of interiority. We now need to address the question of whether there is a single notion of intrinsicality, and, if there is, which of these notions is it? More precisely, we need to determine whether there is a single notion that philosophers typically use ‘intrinsic’ to express, and, if so, which notion is it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在过去三个小节中，我们区分了刘易斯三条刻画所刻画的若干不同概念：局部性、复制保持，以及若干不同种类的内部性。我们现在需要处理这样的问题：是否存在单一的内在性概念？如果存在，它是这些概念中的哪一个？更精确地说，我们需要确定：哲学家通常用"内在的"来表达的是否是单一的概念；如果是，是哪一个。
+    step2: |-
+      在前三个小节中，我们区分了刘易斯三条刻画所刻画的若干不同概念：局部性（locality）、复制保持，以及若干不同种类的内部性。我们现在需要处理这样的问题：是否存在单一的内在性概念？如果存在，它是这些概念中的哪一个？更精确地说，我们需要确定：哲学家通常用"内在的"来表达的是否是单一的概念；如果是，是哪一个。
   - id: 106
     kind: body
     source: |-
       One might attempt to answer this question by first noting that it is much more common for philosophers to use Lewis’s second “in virtue” characterisation (or some variant of it), than either of the other two characterisations when explaining what they mean by ‘intrinsic’. (For example, as far as we know, Lewis uses the “in virtue” characterisation whenever he explains what he means by ‘intrinsic’, but only uses the other characterisations once.) This suggests that philosophers typically use ‘intrinsic’ to express a notion of interiority rather than either of the notions of locality or duplication preservation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有人或许会这样回答这个问题：首先注意到，在解释"内在的"之意谓时，哲学家使用刘易斯第二条"凭借"刻画（或其某种变体）的频率，远高于另外两条刻画。（例如，据我们所知，刘易斯每次解释"内在的"之意谓时都使用"凭借"刻画，而另外两条刻画各只用过一次。）这提示：哲学家通常用"内在的"来表达一个内部性概念，而非局部性或复制保持概念。
+    step2: |-
+      有人或许会这样回答这个问题：首先注意到，在解释"内在的"之意谓时，哲学家使用刘易斯第二条"凭借"刻画（或其某种变体）的频率，远高于另外两条刻画。（例如，据我们所知，刘易斯每次解释"内在的"之意谓时都使用"凭借"刻画，而另外两条刻画各只用过一次。）这提示：哲学家通常用"内在的"来表达一个内部性概念，而非局部性或复制保持概念。
   - id: 107
     kind: body
     source: |-
       Given philosophers typically use ‘intrinsic’ to express some notion of interiority, there are several reasons to think that the notion of interiority they typically express is that of identity interiority. First, identity interiority is more fundamental, or simpler, than the other notions of interiority, and philosophers are often interested in employing more fundamental notions than less fundamental notions. Second, the intrinsic properties of a thing should be the properties that thing has “in itself”, rather than merely the properties that are metaphysically necessitated, or nomically necessitated, or metaphysically explained, by the properties the thing has “in itself”. But this suggests that the intrinsic properties should be the identity interior properties, rather than the metaphysical necessitation interior properties, or the nomic necessitation interior properties, or the weak grounding interior properties. Finally, while the identity interiority of necessarily coextensive properties can intuitively differ, this is not true for at least some of the other notions of interiority, such as metaphysical necessitation interiority and nomic necessitation interiority. (Properties $p$ and $q$ are necessarily coextensive iff, necessarily, for any $x$, $x$ has $p$ iff $x$ has $q$.) Since it is a widespread intuition that necessarily coextensive properties can differ in whether they are intrinsic, this suggests these other notions of interiority aren’t what philosophers typically express by ‘intrinsic’. (This last reason also provides a further reason to think that duplication preservation isn’t the notion of intrinsicality philosophers typically employ, since it also does not differ among necessarily equivalent properties.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      既然哲学家通常用"内在的"表达某种内部性概念，有若干理由认为他们通常表达的正是同一内部性。第一，同一内部性比其他内部性概念更基本（或更简单），而哲学家通常更关心运用更基本的概念而非较不基本的概念。第二，一个事物的内在属性应当是该事物"就其自身"而具有的属性，而不只是由该事物"就其自身"而具有的属性所形而上学必然化、律则必然化或形而上学地解释出来的属性。但这提示：内在属性应当是同一内部属性，而非形而上学必然化内部属性、律则必然化内部属性或弱奠基内部属性。最后，虽然必然共延属性的同一内部性可以直观地有所不同，这对至少某些其他内部性概念并不成立，例如形而上学必然化内部性与律则必然化内部性。（属性 $p$ 与 $q$ 必然共延，当且仅当必然地，对任意 $x$，$x$ 具有 $p$ 当且仅当 $x$ 具有 $q$。）既然"必然共延属性可以在是否内在上有所不同"是一个广泛持有的直觉，这就提示：这些其他内部性概念并不是哲学家通常用"内在的"所表达的东西。（最后这条理由也提供了进一步的根据，认为复制保持不是哲学家通常运用的内在性概念，因为复制保持在必然等价的属性之间也不有所不同。）
+    step2: |-
+      既然哲学家通常用"内在的"表达某种内部性概念，有若干理由认为他们通常表达的正是同一内部性。第一，同一内部性比其他内部性概念更基本（或更简单），而哲学家通常更关心运用更基本的概念而非较不基本的概念。第二，一个事物的内在属性应当是该事物"就其自身"（in itself）而具有的属性，而不只是由该事物"就其自身"而具有的属性所形而上学必然化、律则必然化或形而上学地解释出来的属性。但这提示：内在属性应当是同一内部属性，而非形而上学必然化内部属性、律则必然化内部属性或弱奠基内部属性。最后，虽然必然共延（necessarily coextensive）属性的同一内部性可以直观地有所不同，这对至少某些其他内部性概念并不成立，例如形而上学必然化内部性与律则必然化内部性。（属性 $p$ 与 $q$ 必然共延，当且仅当必然地，对任意 $x$，$x$ 具有 $p$ 当且仅当 $x$ 具有 $q$。）既然"必然共延属性可以在是否内在上有所不同"是一个广泛持有的直觉，这就提示：这些其他内部性概念并不是哲学家通常用"内在的"所表达的东西。（最后这条理由也提供了进一步的根据，认为复制保持不是哲学家通常运用的内在性概念，因为复制保持在必然等价的属性之间也不有所不同。）
   - id: 108
     kind: body
     source: |-
       There are therefore reasons to think that the notion philosophers typically use ‘intrinsic’ to express is identity interiority. These reasons, however, are not decisive. First, philosophers often take intrinsic properties to be qualitative, and use ‘intrinsic’ to distinguish only among qualitative properties. (See Sider 1996.) Since each local property and each duplication preserving property is qualitative, but this is not true for interior properties, this possibly suggests that at least some philosophers at least some of the time use ‘intrinsic’ to express either locality or duplication preservation. Secondly, while identity interiority can do much of the theoretical work intrinsicality is meant to do, it arguably cannot do all of it, with some of this work being better done by some of the other notions of intrinsicality described above. For example, Sider (1996) has argued that duplication preservation is better able to be used to define individualism about mental states than identity interiority. Finally, the failure of many philosophers to clearly distinguish which notion of intrinsicality they are employing provides at least some reason to suspect that those philosophers have often used ‘intrinsic’ indeterminately to express a multiplicity of notions of intrinsicality.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，有理由认为哲学家通常用"内在的"所表达的概念就是同一内部性。然而这些理由并非决定性的。第一，哲学家常常把内在属性当作质性属性，并用"内在的"只在质性属性之间作区分。（见 Sider 1996。）既然每个局部属性和每个复制保持属性都是质性的，而内部属性并非如此，这或许提示：至少有些哲学家至少有时用"内在的"表达局部性或复制保持。第二，虽然同一内部性能够完成内在性所要完成的大部分理论工作，但可以说它无法完成全部工作，其中一些工作由上文所述的其他内在性概念来完成会更好。例如，Sider 1996 论证说，就定义关于心灵状态的个体主义而言，复制保持比同一内部性更好用。最后，许多哲学家未能清楚区分他们所运用的是哪一个内在性概念，这至少提供了某些理由怀疑：这些哲学家常常不加确定地用"内在的"来表达多种内在性概念。
+    step2: |-
+      因此，有理由认为哲学家通常用"内在的"所表达的概念就是同一内部性。然而这些理由并非决定性的。第一，哲学家常常把内在属性当作质性属性，并用"内在的"只在质性属性之间作区分。（见 Sider 1996。）既然每个局部属性和每个复制保持属性都是质性的，而内部属性并非如此，这或许提示：至少有些哲学家至少有时用"内在的"表达局部性或复制保持。第二，虽然同一内部性能够完成内在性所要完成的大部分理论工作，但可以说它无法完成全部工作，其中一些工作由上文所述的其他内在性概念来完成会更好。例如，Sider 1996 论证说，就定义关于心灵状态的个体主义而言，复制保持比同一内部性更好用。最后，许多哲学家未能清楚区分他们所运用的是哪一个内在性概念，这至少提供了某些理由怀疑：这些哲学家常常不加确定地用"内在的"来表达多种内在性概念。
   - id: 109
     kind: body
     source: |-
       An alternative view has been put forward by Plate 2018, who has argued that there is a single notion of intrinsicality and that none of the notions discussed above correspond to it. Plate points out that, on each of the alleged notions of intrinsicality discussed above, either the property of having Paris as a part is classified as non-intrinsic or the uninstantiable property of being such that Socrates is non-self-identical is classified as intrinsic. Plate then argues that, since having Paris as a part is intrinsic while being such that Socrates is non-self-identical is non-intrinsic, it follows that none of the above notions is intrinsicality. A response to Plate’s argument is given by Marshall 2021, who argues that there is no notion of intrinsicality on which these properties are respectively intrinsic and non-intrinsic. Instead, according to this response, there are only notions of intrinsicality on which either both are intrinsic or both are non-intrinsic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一种观点由 Plate 2018 提出：存在单一的内在性概念，而上文讨论的所有概念都不对应于它。Plate 指出：在上文所讨论的每一个所谓内在性概念上，要么"以巴黎为部分"这一属性被归为非内在的，要么"苏格拉底非自等同"这一不可实例化属性被归为内在的。Plate 进而论证：既然"以巴黎为部分"是内在的，而"苏格拉底非自等同"是非内在的，那么上述概念都不是内在性。Marshall 2021 对 Plate 的论证给出了回应：不存在这样一个内在性概念，使这两个属性分别为内在的与非内在的；按照这一回应，只有"两者皆为内在"或"两者皆为非内在"的内在性概念。
+    step2: |-
+      另一种观点由 Plate 2018 提出：存在单一的内在性概念，而上文讨论的所有概念都不对应于它。Plate 指出：在上文所讨论的每一个所谓内在性概念上，要么"以巴黎为部分"这一属性被归为非内在的，要么"苏格拉底非自等同"这一不可实例化属性被归为内在的。Plate 进而论证：既然"以巴黎为部分"是内在的，而"苏格拉底非自等同"是非内在的，那么上述概念都不是内在性。Marshall 2021 对 Plate 的论证给出了回应：不存在这样一个内在性概念，使这两个属性分别为内在的与非内在的；按照这一回应，只有"两者皆为内在"或"两者皆为非内在"的内在性概念。
   - id: 110
     kind: body
     source: |-
       In the next section, we will consider a number of attempts to analyse ‘intrinsic’. Unless otherwise made clear, we will use ‘intrinsic’ to express identity interiority, and we will assume that identity interiority is the most dominant notion of intrinsicality employed by philosophers. As we will see, however, a number of these attempts are most charitably seen as attempts to analyse notions of intrinsicality other than identity interiority.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在下一节中，我们将考察分析"内在的"的若干尝试。除非另有说明，我们将用"内在的"表达同一内部性，并假定同一内部性是哲学家所运用的最占主导地位的内在性概念。不过我们将看到，其中许多尝试最宽厚的解读，是对不同于同一内部性的内在性概念的分析尝试。
+    step2: |-
+      在下一节中，我们将考察分析"内在的"的若干尝试。除非另有说明，我们将用"内在的"表达同一内部性，并假定同一内部性是哲学家所运用的最占主导地位的内在性概念。不过我们将看到，其中许多尝试在其最宽厚的解读下，是对不同于同一内部性的内在性概念的分析尝试。
   - id: 111
     kind: body
     source: |-
       ## 3. Attempts at Analysis
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. 分析的诸尝试
+    step2: |-
+      ## 3. 分析的诸尝试
   - id: 112
     kind: body
     source: |-
       One reason to attempt an analysis of intrinsicality is that the orientating characterisations of intrinsicality discussed in section 1 and sections 2.2 – 2.4 are all to some degree circular. (Cf Lewis 1983a and Yablo 1999.)[^lewis-1983a][^yablo-1999] For example, a property $p$ whose ascription to a thing $x$ is about $x$ is intrinsic only if it is about how $x$ is *intrinsically*; $p$ is not intrinsic if the ascription of $p$ to $x$ is about how $x$ is *extrinsically*. Similarly, a property $p$ that is had by $x$ in virtue of how $x$ is is intrinsic only if $x$ has $p$ in virtue of how $x$ is *intrinsically*; $p$ need not be *intrinsic* if $x$ has $p$ in virtue of how $x$ is *extrinsically*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尝试分析内在性的一个理由是：第 1 节与第 2.2–2.4 节所讨论的内在性引导性刻画都在某种程度上是循环的。（参见 Lewis 1983a 与 Yablo 1999。）[^lewis-1983a][^yablo-1999] 例如，一个属性 $p$，其归予某物 $x$ 是关于 $x$ 的，仅当它是关于 $x$ 如何**内在地**之所是，才是内在的；如果 $p$ 对 $x$ 的归予是关于 $x$ 如何**外在地**之所是，$p$ 就不是内在的。类似地，一个由 $x$ 凭 $x$ 之所是而具有的属性 $p$，仅当 $x$ 凭 $x$ 如何**内在地**之所是而具有 $p$，才是内在的；如果 $x$ 凭 $x$ 如何**外在地**之所是而具有 $p$，$p$ 不必是**内在的**。
+    step2: |-
+      尝试分析内在性的一个理由是：第 1 节与第 2.2–2.4 节所讨论的内在性引导性刻画都在某种程度上是循环的。（参见 Lewis 1983a 与 Yablo 1999。）[^lewis-1983a][^yablo-1999] 例如，一个属性 $p$，其归予某物 $x$ 是关于 $x$ 的，仅当它是关于 $x$ 如何**内在地**之所是，才是内在的；如果 $p$ 对 $x$ 的归予是关于 $x$ 如何**外在地**之所是，$p$ 就不是内在的。类似地，一个由 $x$ 凭 $x$ 之所是而具有的属性 $p$，仅当 $x$ 凭 $x$ 如何**内在地**之所是而具有 $p$，才是内在的；如果 $x$ 凭 $x$ 如何**外在地**之所是而具有 $p$，$p$ 不必是**内在的**。
   - id: 113
     kind: body
     source: |-
       Some of the following attempts to analyse intrinsicality are best seen as attempts to analyse the distinction between duplication preserving properties and properties that aren’t duplication preserving, while other attempts are best seen as attempts to analyse the distinction between interior and exterior properties, or between local and non-local properties. For a discussion of whether we can give, or need to give, a reductive analysis of intrinsicality, see Skiles 2014 and Hoffman-Kolss 2018.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      下面的内在性分析尝试中，有一些最好被看作分析"复制保持属性与非复制保持属性之区分"的尝试；另一些最好被看作分析"内部属性与外部属性之区分"或"局部属性与非局部属性之区分"的尝试。关于我们能否给出、或是否需要给出内在性的还原性分析，见 Skiles 2014 与 Hoffman-Kolss 2018。
+    step2: |-
+      下面的内在性分析尝试中，有一些最好被看作分析"复制保持属性与非复制保持属性之区分"的尝试；另一些最好被看作分析"内部属性与外部属性之区分"或"局部属性与非局部属性之区分"的尝试。关于我们能否给出、或是否需要给出内在性的还原性分析（reductive analysis），见 Skiles 2014 与 Hoffman-Kolss 2018。
   - id: 114
     kind: body
     source: |-
       In addition to the metaphysical project of determining what it is for a property to be intrinsic, there is an epistemological project of determining how we can come to know with respect to particular properties whether they are intrinsic, and whether such knowledge is possible. To some extent, the metaphysical project of determining what it is to be intrinsic can help with this epistemological project. For example, if it can be shown that being intrinsic can be analysed as the possession of such and such features, and we have knowledge of which properties have such and such features, then we can use this analysis to explain how we can know of particular properties that they are intrinsic. In addition to employing such analyses of intrinsicality, however, we might hope to develop and describe further methods for obtaining justified beliefs regarding what properties are intrinsic. For further discussion that bears on this issue, see McQueen and van Woudenberg 2016.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除了确定属性之为内在究竟是什么这一形而上学计划之外，还有一个认识论计划：确定对于特定属性我们如何能知道它们是否是内在的，以及这种知识是否可能。在某种程度上，确定内在之所是的形而上学计划可以帮助这一认识论计划。例如，如果能证明"是内在的"可以分析为具有某某特征，并且我们知道哪些属性具有某某特征，那么我们可以用这一分析来解释我们如何能知道特定属性是内在的。不过，除了运用这类内在性分析之外，我们或许还希望发展并描述进一步的方法，以获得关于哪些属性是内在的证成信念。与这一问题相关的进一步讨论，见 McQueen 与 van Woudenberg 2016。
+    step2: |-
+      除了确定属性之为内在究竟是什么这一形而上学计划之外，还有一个认识论计划：确定对于特定属性我们如何能知道它们是否是内在的，以及这种知识是否可能。在某种程度上，确定内在之所是的形而上学计划可以帮助这一认识论计划。例如，如果能证明"是内在的"可以分析为具有某某特征，并且我们知道哪些属性具有某某特征，那么我们可以用这一分析来解释我们如何能知道特定属性是内在的。不过，除了运用这类内在性分析之外，我们或许还希望发展并描述进一步的方法，以获得关于哪些属性是内在的证成信念。与这一问题相关的进一步讨论，见 McQueen 与 van Woudenberg 2016。
   - id: 115
     kind: body
     source: |-
