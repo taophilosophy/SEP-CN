@@ -2,7 +2,7 @@
   "slug": "gadamer-aesthetics",
   "kind": "retranslate",
   "zh_doc": "g/gadamer-aesthetics.md",
-  "state": "r1_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,27 @@
       "actor": "G-main-20261112",
       "at": "2026-11-12T06:13:55Z",
       "evidence": "r1 初审：全文 130 行回读（GW/TM/RB/PH/AM 引证编号逐条核）；英译名、拉丁/德文术语（Bildung、Erlebnis/Erfahrung、Ereignis、Da-sein、Überlieferung）原样；语体：现代汉语学术书面语；对账五维一致"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-12T07:06:33Z",
+      "evidence": "r2 回读：年份 136:136 逐一同序；引证键 65:65 同序（正文+defs）；标题 19:19；pubinfo 2007-06-13/2023-09-06 对源一致，无错配"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-12T07:06:34Z",
+      "evidence": "r3 终校：四检复跑全绿（style/academic/math/summary），check_prose 余 1 处为 Palmer 2001,71 引文内双“被”（ADR-0020 豁免）；术语一致性 同时代性 4/同时性 0、观礼者/圣体/居间者 各就位；参考文献结构与已完成件一致（References（引用注释）+ 英文子题）；check_terms 无硬错误"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-12T07:06:34Z",
+      "evidence": "G 批 gadamer-aesthetics 收口 done：61 段账本双版，26151 字符，全周期无子代理"
     }
   ],
   "blockers": [],
