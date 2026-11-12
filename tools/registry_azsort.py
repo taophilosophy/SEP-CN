@@ -58,7 +58,7 @@ GREEK = {'α': 'a', 'β': 'b', 'γ': 'g', 'δ': 'd', 'ε': 'e', 'ζ': 'z', 'η':
          'ο': 'o', 'π': 'p', 'ρ': 'r', 'σ': 's', 'ς': 's', 'τ': 't', 'υ': 'u',
          'φ': 'f', 'χ': 'c', 'ψ': 'y', 'ω': 'o'}
 
-TERM_FILE = 'yi-zhe-shuo-ming.md'
+TERM_FILE = 'shu-yu-biao.md'
 PERSON_FILE = 'ren-ming-biao.md'
 
 PERSON_DOC_PREFIXES = ('## 伊斯兰阿拉伯人物', '## 登记格式说明', '## 待裁定')

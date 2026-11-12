@@ -47,7 +47,7 @@ if ROOT not in sys.path:
     sys.path.insert(0, ROOT)  # 脚本直跑时保证 from tools import 可用
 OUTDIR = os.path.join(ROOT, 'specs', '008-terminology-campaign', 'results',
                       'queries')
-REGISTRY = os.path.join(ROOT, 'yi-zhe-shuo-ming.md')
+REGISTRY = os.path.join(ROOT, 'shu-yu-biao.md')
 REGISTRY2 = os.path.join(ROOT, 'ren-ming-biao.md')
 POOL = os.path.join(ROOT, 'tasks', 'term-pool.json')
 

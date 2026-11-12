@@ -34,7 +34,7 @@ if ROOT not in sys.path:
 QUERIES = os.path.join(ROOT, 'specs', '008-terminology-campaign', 'results',
                        'queries')
 OUT = os.path.join(ROOT, 'specs', '008-terminology-campaign', 'results')
-REGISTRY = os.path.join(ROOT, 'yi-zhe-shuo-ming.md')
+REGISTRY = os.path.join(ROOT, 'shu-yu-biao.md')
 REGISTRY2 = os.path.join(ROOT, 'ren-ming-biao.md')
 
 
