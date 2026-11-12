@@ -549,7 +549,7 @@
 | balanced polymorphism | — | 平衡多态性 | ecological-genetics 首译 | 学界通行译名（群体遗传学文献）；凭证 2026-11-09 | 2026-11-09 |
 | balancing argument | — | 平衡论证 | kant-science | 康德物质理论文献通行直译（Warren 2010 语境） | 2026-11-05 |
 | balancing selection | — | 平衡选择 | ecological-genetics 首译 | 学界通行译名（群体遗传学文献）；凭证 2026-11-09 | 2026-11-09 |
-| banality of evil | Banalität des Bösen | 恶的平庸性 | evil-kinds-origins | 阿伦特术语通行汉译 | 2026-11-12 |
+| banality of evil | Banalität des Bösen | 恶的平庸性 | moral-responsibility-empirical（evil-kinds-origins 同条） | 阿伦特术语通行汉译；2026-11-12 合并重复行（原 evil-kinds-origins 行去重） | 2026-11-12 |
 | bandha | बन्ध | 系缚 | jaina-philosophy | 学界通行 | 2026-11-08 |
 | bar (intuitionism) | — | 棒 | 首现（intuitionism） | 直觉主义数学术语通译（亦作“条”）；凭证 2026-11-10 | 2026-11-10 |
 | bar induction | — | 棒归纳 | 首现（intuitionism） | 直觉主义数学通行（亦作“条归纳”）；凭证 2026-11-10 | 2026-11-10 |
@@ -1610,7 +1610,7 @@
 | empty reference | — | 空指称 | 首现（simon-faversham） | 学界语言哲学通行；凭证 2026-11-08 | 2026-11-08 |
 | empty set | — | 空集 | 语料回收 | 审定名词库（termonline-all·数学名词，2026-10-30 浏览器通道凭证） | 2026-10-30 |
 | empty sounds | κεναὶ φωναί | 空洞的声音 | epicurus | 本词条译名（*LH* 37；与 kenodoxia 空洞信念 相系） | 2026-11-12 |
-| Enneads | Ἐννεάδες | 《九章集》 | evil-kinds-origins | 学界通行（普罗提诺） | 2026-11-12 |
+| Enneads | Ἐννεάδες | 《九章集》 | evil-kinds-origins（theology-aristotle 同条） | 学界通行（普罗提诺著作标准汉译）；凭证 2026-11-08；2026-11-12 合并重复行 | 2026-11-12 |
 | en voyage | en voyage | 法文原文保留（永远在途中） | oakeshott 首译 | 体例：引语保留原文；凭证 2026-11-07 | 2026-11-07 |
 | enactive approach | — | 生成进路 | 语料回收（标题词） | 学界惯例（生成认知（enactivism）通行）；凭证 2026-11-01 | 2026-11-01 |
 | enactivism | — | 生成论 | knowledge-how | 认知科学哲学通行（enactivism 生成进路）；凭证 2026-11-10 | 2026-11-10 |
