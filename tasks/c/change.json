@@ -1,50 +1,64 @@
 {
- "slug": "change",
- "kind": "retranslate",
- "zh_doc": "c/change.md",
- "state": "s3_checked",
- "steps": [
-  {
-   "step": "clear",
-   "status": "ok",
-   "actor": "task_ops",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "baseline gate: 英文镜像齐备（ADR-0009 逐字符），version_pin 一致"
-  },
-  {
-   "step": "draft",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "初译完成：零信任译自 yuanwen/change.md，账本双版（step1/step2）齐全"
-  },
-  {
-   "step": "s1",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "自校一：体例修复 italic-cjk→加粗、中西空格，check_style 正文 0"
-  },
-  {
-   "step": "s2",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "自校二：check_academic --strict 0 硬错误，引用键解析完整"
-  },
-  {
-   "step": "s3",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "自校三：翻译波收口，双版账本齐全，学术规范+体例双绿"
+  "slug": "change",
+  "kind": "retranslate",
+  "zh_doc": "c/change.md",
+  "state": "r2_reviewed",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "baseline gate: 英文镜像齐备（ADR-0009 逐字符），version_pin 一致"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "初译完成：零信任译自 yuanwen/change.md，账本双版（step1/step2）齐全"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "自校一：体例修复 italic-cjk→加粗、中西空格，check_style 正文 0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "自校二：check_academic --strict 0 硬错误，引用键解析完整"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "自校三：翻译波收口，双版账本齐全，学术规范+体例双绿"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "R-main-20261112",
+      "at": "2026-11-11T23:58:28Z",
+      "evidence": "r1 初审（R-main-20261112，异于初译主代理 2026-11-01，异会话独立性满足；其间已完整作业 cassirer 全周期=冷置）：243 行全文回读并对照 yuanwen 逐段核验。结构五维全等：段 40:41（源 41 含独立 byline 行，按 byline 豁免口径）、节 9:9、脚注定义 31:31 键集同序、文内数学 span 结构逐段核对。实修 24 处：[Major] H1 残缺——变化与不一致 and inconsistency→变化与不一致 Change and Inconsistency（丢 Change 且误小写，SUMMARY L412 同步）；[Major] 变化的同一性难题→变化的一致性难题（源 problem of the consistency of change，词条核心术语首现）；节标题 9 处去英文句点（模板行 4：编号 h2 去句点）；speed/velocity 对齐：L39/41 speed→速率×3、L135 velocity→速度×1（源 speed 与 velocity 有别，原译混用）；数学 span 修复 3 段（\\amp 前全角括号出 span 致定界符错配，括号入 span 对齐源文）；$A$-/$B$-系列与 $X$/$Y$ 数学包裹 7 处对齐源文；措辞 4（不同或非同→差异或非同一、本书→本百科全书、设想断裂一个物质体→设想把一个物质体断开、是错误→是一个错误）；错字 现像学→现象学。源文自带不改：L140 段尾无句号（源 perceived motion 后无句点）、L115 $-f(a)$ 承源文原样、L56 法称/法上读过亚里士多德（源 who had certainly read their Aristotle 逐字核验，源文自带断言）、$C$-无穷等。prose 38→34（实修 4：L53/L109 分号缝拆分、L127 弱动词 作出反应→起反应、L73 被动链重构 被比较/被重叠→不经过比较/重叠或叠加），余 34 分类豁免（ADR-0020 留痕）：de-chain 24 术语性偏正、长句 5 源文周期句与连锁条件链镜像、exists-there 2（存在着的矛盾=黑格尔 existierender Widerspruch 通译；在场/存在对照承源文 existent）、passive 1（被视为/被涂抹承源文 regarded as/smeared out）。check_style 首跑 2 假阳性（L63 Leibniz' law、L209 Archimedes' Point——词尾所有格撇号，与 2026-11-08 K 批同类），patch tools/check_style.py 补遮蔽后 style 0（cassirer 复跑不受影响）。语体：现代汉语学术书面语；破折号/括注合度；无 Critical/Major 残留。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "R-main-20261112",
+      "at": "2026-11-12T00:02:12Z",
+      "evidence": "r2 复审（R-main-20261112，异于初译主代理）：逐句回核原文与逻辑——r1 所修 24 处回读语境连贯；$A$/$B$-系列、剑桥变化、刹那论、电影式变化观、莱布尼茨连续性条件（LCC）、赖夏特探测器等核心术语前后一致；check_terms 硬错误 0（冲突 0+自洽 0）。人名回核（genetics 先例：引证组作者照录英文，行文提及转册定中文）：引证组保留拉丁 14 处（Geach（1969, 71–2）、Lewis（1986）（1988）、Scherbatsky（1930）、Parfit（1984）、Price（1996）、Medlin（1963）、Hamblin（1969）、Palmer（1999）、Gruber/Bach/Block（2015）、Johnston/Lowe/Haslanger、Weatherson（2002）、Davidson（1967）、（Hegel（1812），第 440 页）、Weyl 1960）；行文提及转册定中文 16 处——麦克塔加特×4（册定 麦克塔加特，原译正文及相关词条行 麦克塔格特 异形同步对齐）、刘易斯×5（David Lewis 首现 大卫·刘易斯）、康德（1781）、牛顿、莱布尼茨、马赫、闵可夫斯基、赖夏特、博斯科维奇各 1–2 处；Priest×22 与 von Wright 册定保留英文（ADR-0022 裁定行，Priest, Graham 主形即 Graham Priest；von Wright, Georg Henrik 保留英文），拉丁合法；L71 Priest 与 Routley 并称紧邻合著引证组，随 Priest 保持原文形态；Nerlich/Medlin 无册定行文保留英文（ADR-0022）。补登 2 行（先登后用补课，来源 change，凭证 2026-11-12 r2）：Boscovich, Roger Joseph 罗杰·约瑟夫·博斯科维奇（1711–1787）、Reichardt, Werner 维尔纳·赖夏特（1924–1992，与正文既用 赖夏特探测器×4 对齐）；registry_azsort 干跑守恒 4163 行、周界 0。相关词条 14 项与 SUMMARY 标题核对一致（内在属性与外在属性=i/intrinsic-extrinsic.md SUMMARY 行 1313 等）。观察项：SUMMARY L2248 科学实在论和理论变革 and theory change in science 同款 H1 残缺模式（11-01 批量 era 系统性），属 r/realism-theory-change.md 该条 r 线处置，不在本条范围。"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-10-31T22:08:43Z",
+  "version_pin": {
+    "pubinfo_date": "Feb 13, 2020",
+    "archive_edition": "Spring 2020",
+    "sha256": "3beb8f07887eef7f7ebe71237a92cb0b51c8c125d4db8dd5bc1012301070a957"
   }
- ],
- "blockers": [],
- "created_at": "2026-10-31T22:08:43Z",
- "version_pin": {
-  "pubinfo_date": "Feb 13, 2020",
-  "archive_edition": "Spring 2020",
-  "sha256": "3beb8f07887eef7f7ebe71237a92cb0b51c8c125d4db8dd5bc1012301070a957"
- }
 }

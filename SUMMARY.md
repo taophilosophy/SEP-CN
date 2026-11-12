@@ -409,7 +409,7 @@
 * [\*概率 chance](README.md)
   * [机会与随机性 versus randomness (Antony Eagle)](c/chance-randomness.md)
 * [\*变化 change](README.md)
-  * [变化与不一致 and inconsistency (Chris Mortensen)](c/change.md)
+  * [变化与不一致 Change and Inconsistency (Chris Mortensen)](c/change.md)
 * [\*易经：中国哲学——见中国哲学：中国易经哲学 Chinese Philosophy of Change (Yijing) — see Chinese Philosophy: philosophy of change](c/chinese-change.md)
 * [混沌 chaos (Robert Bishop)](c/chaos.md)
 * [道德品质 character, moral (Marcia Homiak)](m/moral-character.md)
