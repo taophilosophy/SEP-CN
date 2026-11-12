@@ -2,7 +2,7 @@
   "slug": "george-eliot",
   "kind": "retranslate",
   "zh_doc": "g/george-eliot.md",
-  "state": "r1_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,27 @@
       "actor": "G-main-20261112",
       "at": "2026-11-12T09:43:17Z",
       "evidence": "r1 回读：四检复跑全绿（style/academic/math/summary）；五维对账全平（114:114/28:28/169:169/96:96/年份 463:463 同序）；语体复核同 s2：现代汉语学术书面语，破折号无滥用；prose 余 2 处结构豁免"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-12T10:18:57Z",
+      "evidence": "r2 回读：年份 463:463 逐一同序；引证键 169:169 同序（正文+defs）；defs 96:96 逐行同序；标题 28:28；pubinfo 2025-04-28 对源一致（First published Mon Apr 28, 2025）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-12T10:18:58Z",
+      "evidence": "r3 终校：四检复跑全绿；check_terms 硬错误 0、词汇表滞后 0；prose 余 2 处结构豁免（Eliot 1868 引文内三“的”、书名《弗洛斯河上的磨坊》固有“的”）；参考文献体例照录（References（引用注释）+ A/B 及 A.1–A.5 子题 + 96 条 defs），与已完成件一致"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-12T10:18:58Z",
+      "evidence": "G 批 george-eliot 收口 done：131 段账本双版，39903 字符；期间遭并行 clear 抹稿，按批脚本复原并重放润色；全周期无子代理"
     }
   ],
   "blockers": [],
