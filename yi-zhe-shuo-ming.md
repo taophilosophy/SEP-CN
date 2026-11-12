@@ -2388,8 +2388,7 @@
 | immanent universal | — | 内在共相 | object 首译 | 学界通行汉译（与超越共相对举）；凭证 2026-11-07 | 2026-11-07 |
 | immediate intuition | — | 直接直觉 | 首现（intuitionism-ethics） | 学界惯例（近代认识论通行）；凭证 2026-11-08 | 2026-11-08 |
 | immediate perception | — | 直接知觉 | 首现（intuitionism-ethics） | 学界惯例（近代认识论通行）；凭证 2026-11-08 | 2026-11-08 |
-| immortality (of the soul) | — | 灵魂不朽 | gersonides | 学界通行 | 2026-11-09 |
-| immortality of the soul | — | 灵魂不朽 | gomez-pereira | 学界通行（十六世纪灵魂不朽之争）；凭证 2026-11-12 | 2026-11-12 |
+| immortality of the soul | — | 灵魂不朽 | gersonides 首现（gomez-pereira 十六世纪灵魂不朽之争同条） | 学界通行；凭证 2026-11-12；2026-11-12 合并原“immortality (of the soul)”重复行（同义同译，归一避免凭证文件名相撞） | 2026-11-12 |
 | immune recognition | — | 免疫识别 | 首译（stem-cells） | 学界惯例（免疫学通行）；凭证 2026-11-09 | 2026-11-09 |
 | immunity to error through misidentification | — | 免于误认错误 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | immunorejection | — | 免疫排斥 | 首现（cloning） | 学界惯例（移植医学通行）；凭证 2026-11-07 | 2026-11-07 |
@@ -5764,12 +5763,11 @@
 | world citizenship | — | 世界公民身份 | 首译（cosmopolitanism） | 学界通行（与 world citizen 世界公民同族，本条作制度/身份义）；凭证 2026-11-09 | 2026-11-09 |
 | world community | — | 世界共同体 | cosmopolitanism | 学界通行；凭证 2026-11-09 | 2026-11-09 |
 | world government | — | 世界政府 | cosmopolitanism | 学界通行（国际关系理论）；凭证 2026-11-09 | 2026-11-09 |
-| world picture | — | 世界图景 | cosmology-30s 首译 | 学界通行（Weltbild 传统译法）；凭证 2026-11-08 | 2026-11-08 |
+| world picture | Weltbild | 世界图景 | cosmology-30s 首现（epistemology-latin-america 维特根斯坦《论确定性》同条） | 学界通行（Weltbild 传统译法）；凭证 2026-11-08；2026-11-12 合并原“world-picture”重复行（同义同译，归一避免凭证文件名相撞） | 2026-11-12 |
 | world soul | — | 世界灵魂 | 首现（theology-aristotle） | 学界通行（柏拉图主义宇宙论标准译名）；凭证 2026-11-08 | 2026-11-08 |
 | world state | — | 世界国家 | cosmopolitanism | 学界通行（世界主义政治理论）；与 world government 世界政府区分；凭证 2026-11-09 | 2026-11-09 |
 | world to come | — | 来世 | albo-joseph 首译 | 犹太研究通行（olam ha-ba） | 2026-11-07 |
 | world-geometry | — | 世界几何 | cosmology-30s 首译 | Milne 术语学界通行（与 world structure 世界结构配对）；凭证 2026-11-08 | 2026-11-08 |
-| world-picture | Weltbild | 世界图景 | epistemology-latin-america 首译 | 学界通行（维特根斯坦《论确定性》） | 2026-11-11 |
 | world-systems theory | — | 世界体系论 | colonialism | 学界通行（《现代世界体系》中译本系）；凭证 2026-11-07 | 2026-11-07 |
 | world-type | — | 世界类型 | omnipotence 首译 | 莫利纳主义术语（Flint & Freddoso 1983 的 world-type-for-S）；凭证 2026-11-11 | 2026-11-11 |
 | world-unity | — | 世界统一性 | kant-transcendental | Rosefeldt 2022 语境本词条首译；凭证 2026-11-11 | 2026-11-11 |

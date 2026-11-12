@@ -809,6 +809,21 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
   `g/genetics.md` 1 处看齐）。其余 7 项：查无 5（goal-directed agency、immortality of the soul、intention in action、
   poverty of stimulus、provability），一致 2（consistency、world-picture）。
 
+### 六、凭证文件名希腊字母剥名缺陷与重复行归一（2026-11-12 收尾）
+
+* **缺陷**：`cnki_query.safe_key` 只保留 `[a-z0-9\\u4e00-\\u9fff]`，希腊字母被剥——`ω-consistency` 与
+  `consistency` 落同一文件名，后查者覆盖前查者凭证（实测 4 组：ω-consistency/consistency、ω-provability/provability、
+  modal μ-calculus/modal calculus、ε-notation/notation）。更隐蔽的是审计会因此误判「一致」。
+* **修复**：`safe_key` 增加希腊字母音译表（ω→omega、ε→epsilon、μ→mu 等，25 字母），`tools/cnki_query.py`
+  已单独提交（19eb975e5）；四组凭证重查后分别落 `omega_consistency/omega_provability/epsilon_notation/modal_mu_calculus.json`，
+  普通词 `consistency/provability` 回正。
+* **重复行归一 2 组**（同义同译，且归一后文件名相撞）：`immortality (of the soul)` 与 `immortality of the soul` 合为后行；
+  `world-picture` 与 `world picture` 合为后行（Weltbild 原文与维特根斯坦依据并入）。
+* **多会话事故留痕**：共享克隆内并行会话的 `git checkout`/结构删除两次冲掉本会话未提交的暂存（暂存的重命名、
+  工具补丁、登记册合并行）；教训重申——工具补丁与登记册改动须即刻单独提交，不留窗口。
+* 收敛实测：`--emit --unverified --table term` 余 18 项，均为并行会话当日新登记行（genetics/teleosemantics 批次等），
+  属正常增量而非缺陷。
+
 
 
 
