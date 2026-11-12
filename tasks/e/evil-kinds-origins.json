@@ -2,7 +2,7 @@
   "slug": "evil-kinds-origins",
   "kind": "retranslate",
   "zh_doc": "e/evil-kinds-origins.md",
-  "state": "cleared",
+  "state": "s1_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,20 @@
       "actor": "task_ops",
       "at": "2026-11-12T09:10:27Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "E-main-20261112",
+      "at": "2026-11-12T15:19:52Z",
+      "evidence": "零信任重译落盘：账本 142 段（body 140＋oir 1＋ack 1）逐段双版（step1 忠实/step2 提炼），compose 32573 字符/393 行；表格 2 张逐格译出；文献 69 条照录、脚注标记 67 条随文；标题补全为“恶的种类和起源 Kinds and Origins of Evil”，SUMMARY/mu-lu-s 两行同步"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "E-main-20261112",
+      "at": "2026-11-12T15:19:52Z",
+      "evidence": "s1 忠实度对账：逐段对照 yuanwen/e/evil-kinds-origins.md（459 行；pubinfo Dec 10 2021，Winter 2021 存档），导语＋七节＋表 1/2＋尾节全覆盖；五维：headings 源 ##7 ###8 ####4 = 中 7/8/4、markers 67:67、defs 69:69、blocks 121:120（byline 豁免）、年份 166:166；引文（OED、安瑟伦《论魔鬼的堕落》、普罗提诺《九章集》、约伯记 4:7–10、罗马书 8:22、Arendt 致 Jaspers、Wood、Jaspers、Kant AK 6:43、Augustine《忏悔录》卷二、Schelling、Plantinga 1989:58、Stone 2009:208）逐处核并对齐栏页"
     }
   ],
   "blockers": [],
