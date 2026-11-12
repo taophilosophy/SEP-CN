@@ -55,6 +55,20 @@
 * 规避并行会话冲突的办法：`SUMMARY.md`、`mu-lu-s.md` 均以 `HEAD` 内容为底套单行替换后经 `git hash-object --path` 归一化，写入临时索引再 `commit-tree`，不带入并行会话未提交的 ADR-0036 改动，也不动其暂存项。
 * 核验：`check_mulu_s.py` 硬错误 0、标题不一致 0；`check_terms.py` 硬错误 0；`check_academic.py --docs h/hermeneutics.md --strict` 无硬错误。
 
+### 同日：术语统一「诠释学」（用户批准）
+
+* 用户裁定：以「诠释学」统一指称 Hermeneutik。依据见 `results/toc-study-v2.md` §6 与《哲学研究》2020 年第 4 期洪汉鼎专文（三译名并存，「诠释学」为哲学界主流）。
+* 全库扫查「解释学」：53 处 / 29 个文件。逐处读上下文分类，24 个词条正文共 39 处改为「诠释学」；报告见 `results/herm-unify-report.md`，提交 `feca5344f`。
+* 有意保留的 5 类（均经原文或性质核实）：
+  * `c/carneades.md`：「解释学园派论证」对应 en 原文 `the Academic arguments`，为动词＋宾语，非学科名；
+  * `k/kierkegaard.md`：「解释学派」对应 en 原文 `broader school of interpretation`，指研究阵营；
+  * `jian-yi-shu/index.md`：建议书历史分类记录，保持原状；
+  * `shu-yu-biao.md`：「亦作“解释学”」字段必须保留；
+  * `rules/reference/engineering-doctrine/`：参考方法论，不属词条体例。
+* `h/hermeneutics.md` 为空存根（仅标题行），无处加「又译解释学、阐释学」注记；待该词条开译时在首段补。
+* 门禁：`check_terms.py` 硬错误 0；24 个改动文档 `check_academic.py --strict` 无硬错误；残余复扫恰为上述 5 类共 13 处。
+* 待议：登记册是否把「阐释学」也列入「亦作」——该名被张江一派用作自觉的学派自称，暂未登记。
+
 
 ## 待办
 
