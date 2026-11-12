@@ -9,6 +9,9 @@
 
 ## A
 
+| Against the Physicists | Πρὸς φυσικούς | 《驳物理学家》 | epicurus | 本词条译名（塞克斯都·恩披里柯） | 2026-11-12 |
+| aisthêseis | αἰσθήσεις | 感觉 | epicurus | 学界惯例（伊壁鸠鲁派认识论；与 pathê 感受分列） | 2026-11-12 |
+| algêdôn | ἀλγηδών | 痛苦 | epicurus | 本词条译名（与 hêdonê 快乐对举） | 2026-11-12 |
 | A Modern Elementary Logic | — | 《逻辑学现代基础》 | 首译（stebbing） | 斯泰宾著作（1943）；书名体例译；凭证 2026-11-09 | 2026-11-09 |
 | A Modern Introduction to Logic | — | 《逻辑学现代导论》 | 首译（stebbing） | 斯泰宾著作（1930）；书名体例译；凭证 2026-11-09 | 2026-11-09 |
 | A New Elucidation of the First Principles of Metaphysical Cognition | — | 《形而上学认识诸第一原则的新阐明》（简称《新阐明》） | kant-science | 学界通行；kant-leibniz 短形先例 | 2026-11-05 |
@@ -668,6 +671,7 @@
 | Cartesian product | — | 笛卡尔积 | logic-infinitary | 数学通行译法；凭证 2026-11-10 | 2026-11-09 |
 | Cārvāka / Lokāyata | चार्वाक / लोकायत | 顺世论 | jayaraasi | 印度哲学史学界通行（唯物论派；音译“遮卢婆迦”较少用）；与既有 anumāna/pratyakṣa 因明系译名并行 | 2026-11-07 |
 | casus | casus | 情形（正文保留拉丁原词 *casus*，首现括注） | richard-sophister | 学界惯例（义务论辩研究保留拉丁术语） | 2026-11-04 |
+| catastematic pleasure | καταστηματικὴ ἡδονή | 静态快乐 | epicurus | 本词条译名（与 kinetic 动态快乐对举；西塞罗拉丁译 static） | 2026-11-12 |
 | categorematic | — | 范畴式 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | categorematic / autosemantic | — | 范畴词／自立语义词 | reism | 与非范畴词对偶的通行译法 | 2026-11-04 |
 | categorematic word | — | 范畴词 | peter-spain | 中世纪逻辑通行译法（自身有确定意谓的词）；凭证 2026-11-09 | 2026-11-09 |
@@ -794,6 +798,7 @@
 | classical theism | — | 古典有神论 | omnipresence | 学界通行；凭证 2026-11-08 | 2026-11-08 |
 | clear and distinct perception | — | 清晰分明知觉 | descartes-ontological | 学界通行（笛卡尔知识论核心术语；观念作“清晰分明的”） | 2026-11-06 |
 | clickjacking | — | 点击劫持 | 首现（it-moral-values） | 信息安全通行译名；凭证 2026-11-10 | 2026-11-10 |
+| clinamen (swerve) | clinamen / παρέγκλισις | 偏斜 | epicurus | 学界通行（原子偏斜；卢克莱修作 clinamen） | 2026-11-12 |
 | clonal evolution | — | 克隆演化 | cancer | 学界通行（肿瘤演化）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | cloning | — | 克隆 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 c/cloning））；凭证 2026-11-04 | 2026-11-04 |
 | closed theory | — | 封闭理论 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -1086,6 +1091,7 @@
 | cost-effective／cost-effectiveness | — | 成本效益 | organ-donation | 学界惯例（卫生经济学通行；凭证 2026-11-06） | 2026-11-06 |
 | cotangent bundle | — | 余切丛 | geometry-19th.supplement | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | cotangent space | — | 余切空间 | geometry-19th.supplement | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
+| counterwitnessing | — | 反证 | epicurus | 本词条译名（伊壁鸠鲁方法论术语，亦作“反见证”） | 2026-11-12 |
 | count expression | — | 可数表达 | logic-massexpress | 语法通行译法；凭证 2026-11-10 | 2026-11-09 |
 | count noun | — | 可数名词 | logic-massexpress | 语法与语义学通行译法；凭证 2026-11-10 | 2026-11-09 |
 | countable choice | — | 可数选择 | quine-nf | 集合论通行译名（AC 弱形式）；凭证 2026-11-09 | 2026-11-09 |
@@ -1179,6 +1185,7 @@
 | De perfectione scientiae naturalis ac de eius ordine | — | 《论自然科学的完善及其秩序》 | zabarella | 直译（正文节题引）；凭证 2026-11-09 | 2026-11-09 |
 | de re | de re | 对象性的（de re） | omniscience | 学界通行译名；凭证 2026-11-09；拉丁/德语原形即键（2026-11-10 取证） | 2026-11-09 |
 | De rebus naturalibus | — | 《论自然事物》（*De rebus naturalibus*） | zabarella | 直译；凭证 2026-11-09 | 2026-11-09 |
+| De rerum natura | — | 《物性论》 | epicurus | 学界通行（卢克莱修） | 2026-11-12 |
 | De Revolutionibus | De Revolutionibus | 《天体运行论》 | 语料回收（lakatos 首译） | 学界通行译名（哥白尼 1543，亦译《天球运行论》）；凭证 2026-11-06 | 2026-11-06 |
 | de se | — | 涉己的 | 首现（erotic-art） | 分析哲学通行（拉丁 de se，与 de dicto 相对） | 2026-11-08 |
 | De Sophisticis Elenchis | De Sophisticis Elenchis | 《辨谬篇》 | richard-sophister | 学界通行汉译（亚里士多德著作通行译名） | 2026-11-04 |
@@ -1526,6 +1533,7 @@
 | emptiness charge | — | 空洞指责 | hegel-social-political | 学界通行（对康德道德哲学“空洞”的指控） | 2026-11-10 |
 | empty reference | — | 空指称 | 首现（simon-faversham） | 学界语言哲学通行；凭证 2026-11-08 | 2026-11-08 |
 | empty set | — | 空集 | 语料回收 | 审定名词库（termonline-all·数学名词，2026-10-30 浏览器通道凭证） | 2026-10-30 |
+| empty sounds | κεναὶ φωναί | 空洞的声音 | epicurus | 本词条译名（*LH* 37；与 kenodoxia 空洞信念 相系） | 2026-11-12 |
 | en voyage | en voyage | 法文原文保留（永远在途中） | oakeshott 首译 | 体例：引语保留原文；凭证 2026-11-07 | 2026-11-07 |
 | enactive approach | — | 生成进路 | 语料回收（标题词） | 学界惯例（生成认知（enactivism）通行）；凭证 2026-11-01 | 2026-11-01 |
 | enactivism | — | 生成论 | knowledge-how | 认知科学哲学通行（enactivism 生成进路）；凭证 2026-11-10 | 2026-11-10 |
@@ -1563,6 +1571,7 @@
 | envy | — | 嫉妒 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 e/envy））；凭证 2026-11-04 | 2026-11-04 |
 | envy-free | — | 无嫉妒 | s/social-procedures 首译 | 学界通行译法（公平分配文献通行）；凭证 2026-11-07 | 2026-11-07 |
 | epiclesis | — | 呼求祷文 | bessarion | 东正教礼仪学通行汉译（圣体礼仪中呼求圣灵之祷文） | 2026-11-10 |
+| Epicureanism | — | 伊壁鸠鲁主义 | epicurus | 学界通行（学派名） | 2026-11-12 |
 | epidemic constitution | — | 疫病体质 | locke-on-medicine | 西德纳姆研究通行（逐年流行病“体质”构想） | 2026-11-05 |
 | epidemiology | — | 流行病学 | necessary-sufficient | 医学通行；凭证 2026-11-08 | 2026-11-08 |
 | epigenetic inheritance | — | 表观遗传 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -1991,6 +2000,7 @@
 | game theory | — | 博弈论（亦作“对策论”） | 语料回收 | 审定名词库（termonline-all·自然辩证法·科学哲学，2026-10-31 浏览器通道凭证）；审定“对策论”（管理科学）作亦作 | 2026-10-31 |
 | game-theoretic semantics | — | 博弈论语义 | logical-consequence | 形式语义通行译法；凭证 2026-11-09 | 2026-11-09 |
 | gamete | — | 配子 | 首译（stem-cells） | 学界惯例（发育生物学通行）；凭证 2026-11-09 | 2026-11-09 |
+| Garden | Κῆπος | 花园 | epicurus | 学界通行（伊壁鸠鲁学派别称） | 2026-11-12 |
 | gastrulation | — | 原肠胚形成 | 首译（stem-cells） | 学界惯例（胚胎学通行）；凭证 2026-11-09 | 2026-11-09 |
 | gastruloid | — | 类原肠胚 | 首译（stem-cells） | 构词直译（gastrula 原肠胚 + -oid；学界新造术语）；凭证 2026-11-09 | 2026-11-09 |
 | gauge freedom | — | 规范自由度 | spacetime-holearg | A 档（学界通行译名） | 2026-10-28 |
@@ -2079,6 +2089,7 @@
 | good sense | — | 良识 | gramsci | 葛兰西 buon senso 术语，学界通行译名；凭证 2026-11-11（主会话直译 g/gramsci） | 2026-11-11 |
 | good will | — | 善良意志 | kant-development | 康德伦理学通行（《奠基》开篇无条件的善）；凭证 2026-11-11 | 2026-11-11 |
 | goods of fortune | — | 幸运之善 | 首现（justice-virtue） | 学界惯例（亚里士多德）；凭证 2026-11-02 | 2026-11-02 |
+| Gorgias | — | 《高尔吉亚篇》 | epicurus | 学界通行（柏拉图） | 2026-11-12 |
 | Government House Utilitarianism | — | 官邸功利主义 | ramsey-economics | 学界通行（Sen and Williams 1982 术语）；凭证 2026-11-11 | 2026-11-11 |
 | grace | — | 恩典（神学语境；divine grace 上帝的恩典） | 18thGerman-preKant | 学界通行汉译（基督教神学惯例） | 2026-11-05 |
 | gradability | — | 可分级性 | knowledge-how | 语义学／知识论通行；凭证 2026-11-10 | 2026-11-10 |
@@ -2166,6 +2177,7 @@
 | Hasidism | — | 哈西德主义 | s/scholem 首译 | 学界通行译名；凭证 2026-11-08 | 2026-11-08 |
 | hatsuboku | 泼墨 | 泼墨 | japanese-aesthetics | 学界惯例（日本水墨画研究通行译法“泼墨”） | 2026-11-02 |
 | Ḥayy ibn Yaqẓān | حي بن يقظان | 《哈义·本·叶格赞》（伊本·图斐利著；亦译《觉民之子》） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| hêdonê | ἡδονή | 快乐 | epicurus | 学界惯例（与 algêdôn 痛苦对举；hedonism 快乐主义 已登记） | 2026-11-12 |
 | hedonic | — | 享乐的 | paradox-of-tragedy | 学界惯例（hedonic compensation 享乐补偿；hedonic charge 享乐电荷）；凭证 2026-11-10 | 2026-11-10 |
 | hedonic reversal | — | 快乐逆转 | paradox-of-tragedy | 学界惯例（Rozin 研究通行译法）；凭证 2026-11-10 | 2026-11-10 |
 | Hedonic Utilitarianism | — | 快乐论功利主义 | 首现（intuitionism-ethics） | 学界通行（功利主义史标准译名） | 2026-11-09 |
@@ -2613,6 +2625,7 @@
 | isomorphism | — | 同构 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | isomorphism class | — | 同构类 | quine-nf | 范畴论/模型论通行译名；凭证 2026-11-09 | 2026-11-09 |
 | isonomia | ἰσονομία | 平等（政治隐喻中指各种力量的均等） | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-26 |
+| isotakheia | ἰσοτάχεια | 等速性 | epicurus | 本词条译名（原子同速原则） | 2026-11-12 |
 | isotropy | — | 各向同性 | f/frame-problem 首译 | Fodor 术语通行译法（借自物理学术语）；凭证 2026-11-10 | 2026-11-10 |
 | īśvara | ईश्वर | 自在天（亦作“自在”） | 语料回收 | 学界惯例（印度哲学译名）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | itarānvita | इतरान्वित | 与另一物相连者（连他） | early-modern-india | 弥曼差语义学义译（“与他相连之物”；Prābhākara 学说）；凭证 2026-11-10；正文随文作“与另一物相连的对象”（校 2026-11-11）| 2026-11-10 |
@@ -2682,6 +2695,7 @@
 | kalokagathos | καλοκἀγαθός | 美善合一 | landmann-kalischer | 希腊 καλοκἀγαθός 学界通行（亦作“美且善者”备查） | 2026-11-04 |
 | Kanhwa Sŏn（看話禪） | 看話禪 | 看话禅 | korean-buddhism | 汉文传统写法（大慧宗杲创、知讷引入韩国） | 2026-11-05 |
 | kannagara | 随神 | 随神而行 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| Kanon (Epicurus) | Κανών | 《规范》 | epicurus | 本词条译名（伊壁鸠鲁认识论著作；与 canon 咏礼司铎 分列） | 2026-11-12 |
 | Kantianism | — | 康德主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | kaozhengxue | 考證學 | 考证学 | dai-zhen | 清代学术史通行译名（梁启超《清代学术概论》语；英 evidential learning）；凭证 2026-11-07 | 2026-11-07 |
 | kapi-samyoga | — | 与猴相触 | early-modern-india | 正理教科书标准例（in contact with a monkey）；凭证 2026-11-10；正文作“与猴相触”（校 2026-11-11）| 2026-11-10 |
@@ -2704,6 +2718,7 @@
 | kata | 型 | 型（形） | japanese-aesthetics | 学界惯例（日本艺道研究通行译法“型”） | 2026-11-02 |
 | katanakake | 刀掛け | 刀挂 | japanese-aesthetics | 学界惯例（日本茶室研究通行译法“刀挂”） | 2026-11-02 |
 | Kemeny rule | — | 凯梅尼规则 | belief-merging | 学界通行（社会选择理论中译文献）；凭证 2026-11-10 | 2026-11-10 |
+| kenodoxia | κενοδοξία | 空洞信念 | epicurus | 本词条译名（亦作“虚妄意见”） | 2026-11-12 |
 | kenon | κενόν | 空腔 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-26 |
 | kensho | 見性 | 见性（保留拉丁 kensho） | religious-experience | 学界通行（禅宗） | 2026-11-05 |
 | kerygmatic theology | — | 宣道神学 | 首现（scholz） | 学界惯例（巴特研究通行）；凭证 2026-11-07 | 2026-11-07 |
@@ -2711,8 +2726,11 @@
 | kevalābhāva | केवलाभाव | 纯非存在（唯无） | early-modern-india | 新正理否定语义译（mere absence；与 viśiṣṭābhāva 别有所无对举）；凭证 2026-11-10；正文作“纯非存在”（校 2026-11-11）| 2026-11-10 |
 | kevalānvayin | केवलान्वयिन् | 全同转 | early-modern-india 首译 | 印度逻辑学通行义译（universally positive；亦作“纯同”）；凭证 2026-11-10 | 2026-11-10 |
 | key distribution | — | 密钥分发 | qt-entangle | 密码学通行译名；凭证 2026-11-09 | 2026-11-09 |
+| khara | χαρά | 喜 | epicurus | 本词条译名（心灵之乐，与身体之乐 hêdonê 对举） | 2026-11-12 |
 | Khwārazm-Shāh | — | 花剌子模沙 | al-din-al-razi 首译 | 学界通行（王朝名；亦作“花拉子模沙”） | 2026-11-09 |
 | kidney exchange | — | 肾脏交换 | organ-donation | 学界惯例（亦作“配对交换”；凭证 2026-11-06） | 2026-11-06 |
+| kinêmata | κινήματα | 跳跃 | epicurus | 本词条译名（原子离散位移；亚里士多德用语） | 2026-11-12 |
+| kinetic pleasure | κινητικὴ ἡδονή | 动态快乐 | epicurus | 本词条译名（与静态快乐对举） | 2026-11-12 |
 | kin selection | — | 亲缘选择 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | kinematic relativity | — | 运动学相对论 | cosmology-30s 首译 | 宇宙学史通行（Milne 1933/1935 理论名）；凭证 2026-11-08 | 2026-11-08 |
 | kinêsis | κίνησις | 运动（希腊语境） | 语料回收 | 学界惯例（希腊哲学术语）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
@@ -2754,6 +2772,7 @@
 | Kripke structure | — | 克里普克结构 | tarski-truth | 模态逻辑通行 | 2026-11-09 |
 | Kripke's schema | — | 克里普克图式 | 首现（intuitionism） | 直觉主义数学通行（**KS**；亦作“克里普克模式”）；凭证 2026-11-10 | 2026-11-10 |
 | Krogh organism | — | Krogh 生物 | model-organisms 首译 | 本词条术语（Green et al. 2018，源自 August Krogh 的极端适应生物选材）；凭证 2026-11-09 | 2026-11-09 |
+| Kuriai Doxai (Principal Doctrines) | Κύριαι Δόξαι | 《主要学说》 | epicurus | 本词条译名（通行亦作“主要原理”“基本要义”） | 2026-11-12 |
 | kyūdō | 弓道 | 弓道 | japanese-aesthetics | 学界惯例（日本武道研究通行译法“弓道”） | 2026-11-02 |
 
 ## L
@@ -2764,6 +2783,7 @@
 | lakṣaṇa | लक्षण | 定义（相） | early-modern-india | 正理方法论义译（definition；佛典“相”古译随文括注）；凭证 2026-11-10 | 2026-11-10 |
 | Lambek calculus | — | Lambek 演算 | logic-substructural | 人名保留英文；凭证 2026-11-10 | 2026-11-09 |
 | Lamdre | — | 道果 | gorampa | 萨迦派核心修法通行译名（lam ‘bras） | 2026-11-09 |
+| lamina | — | 薄膜 | epicurus | 本词条译名（影像 simulacra 的物理载体） | 2026-11-12 |
 | landscape model | — | 景观模式 | 首译（environmental-aesthetics） | Carlson 术语（如画式二维景面欣赏） | 2026-11-08 |
 | Landstandschaft | Landstandschaft | 邦等级权（保留德文） | august-rehberg 首译 | 德国史通行；凭证 2026-11-08 | 2026-11-08 |
 | language-game | — | 语言游戏 | religious-experience | 学界通行（维特根斯坦术语） | 2026-11-05 |
@@ -2815,6 +2835,9 @@
 | Lernfreiheit | Lernfreiheit | 学习自由（亦作“学的自由”） | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
 | Letter on Divine Science | — | 《论神圣科学书简》 | 首现（theology-aristotle） | 照题直译（伪法拉比书简，通行亦作《论神圣科学》）；凭证 2026-11-08 | 2026-11-08 |
 | Letters on Aesthetic Education | — | 《审美教育书简》（席勒） | gadamer-aesthetics | 权威译本通行译法（席勒《审美教育书简》） | 2026-11-01 |
+| Letter to Herodotus | — | 《致希罗多德书》 | epicurus | 本词条译名（*LH*） | 2026-11-12 |
+| Letter to Menoeceus | — | 《致美诺寇书》 | epicurus | 本词条译名（*LM*） | 2026-11-12 |
+| Letter to Pythocles | — | 《致皮托克勒斯书》 | epicurus | 本词条译名 | 2026-11-12 |
 | leukemic stem cell | — | 白血病干细胞 | cancer | 学界通行（血液肿瘤学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | level of skepticism | — | 怀疑水平 | logic-fuzzy | 投票语义术语直译；凭证 2026-11-09 | 2026-11-09 |
 | levels of selection | — | 选择层次 | genetics | 演化生物学通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
@@ -2861,12 +2884,14 @@
 | Liujing zaidao | 六經載道 | 六经载道 | dai-zhen | 上游自带汉字；儒学通行命题（英 the Six Classics convey the dao）；凭证 2026-11-07 | 2026-11-07 |
 | live metaphor | — | 活的隐喻 | ricoeur | 利科术语与书名（métaphore vive）；学界惯例；凭证 2026-11-11 | 2026-11-11 |
 | lived experience | Erlebnis | 体验（亦作“生命体验”） | dilthey 首译 | 学界通行（狄尔泰 Erlebnis；与“经验”Erfahrung 分用）；凭证 2026-11-09 | 2026-11-09 |
+| Lives of Eminent Philosophers | Βίοι φιλοσόφων | 《名哲言行录》 | epicurus | 学界通行（第欧根尼·拉尔修） | 2026-11-12 |
 | living assay | — | 活体测定 | model-organisms 首译 | 本词条术语（Green 2024 的 living assay）；凭证 2026-11-09 | 2026-11-09 |
 | living donor | — | 活体捐献者 | organ-donation | 学界惯例（《人体器官移植条例》“活体器官捐献”；凭证 2026-11-06） | 2026-11-06 |
 | living past | — | 活的过去 | oakeshott 首译 | 学界惯例（与 Croce“活的过去”史学用语同形）；凭证 2026-11-07 | 2026-11-07 |
 | living well | — | 过好生活 | 首现（wisdom） | 学界惯例（eudaimonia 语境下的 living well）；凭证 2026-11-07 | 2026-11-07 |
 | living will | — | 生前预嘱 | euthanasia-voluntary 首译 | 学界通行汉译（与 advance directive 预先指示并列） | 2026-11-11 |
 | liyi | 理義 | 理义 | dai-zhen | 上游自带汉字；戴震承《孟子》原词（英 pattern and right）；凭证 2026-11-07 | 2026-11-07 |
+| logismos | λογισμός | 推理（计算） | epicurus | 本词条译名 | 2026-11-12 |
 | lo mexicano | — | 墨西哥性（墨西哥的东西） | existentialism-mexican | 本词条核心短语，源文括注 Mexicanness；凭证 2026-11-12 | 2026-11-12 |
 | Lobachevskian geometry | — | 罗巴切夫斯基几何 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | Löb’s theorem | Löb’s theorem | 勒布定理 | 语料回收 | 学界惯例（数理逻辑通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
@@ -3133,6 +3158,7 @@
 | mind-independent | — | 独立于心灵的 | 首现（truth-coherence） | 学界通行（形而上学用语）；凭证 2026-11-07 | 2026-11-07 |
 | ming (allotment) | 命 | 命 | han-dynasty | 王充术语（allotment）；与“名”同音异字 | 2026-11-10 |
 | ming (name) | 名 | 名 | han-dynasty | 徐干名实论；与“命”同音异字 | 2026-11-10 |
+| minima (Epicurean) | ἐλάχιστα | 最小量 | epicurus | 学界惯例（与 minima naturalia 自然最小体 分列） | 2026-11-12 |
 | minima naturalia | minima naturalia | 自然最小体 | natphil-ren | 亚里士多德—经院自然哲学通行（形式不再保持的最小量）；凭证 2026-11-10 | 2026-11-10 |
 | minimal model organism | — | 最低限度模式生物 | model-organisms 首译 | 本词条术语（只满足单一标准者，与复杂模式生物对举）；凭证 2026-11-09 | 2026-11-09 |
 | minimax | — | 最小最大算子 | belief-merging | 学界通行（决策理论/社会选择通行）；凭证 2026-11-10 | 2026-11-10 |
@@ -3561,8 +3587,12 @@
 | omniscient | — | 全知的（omniscience=全知） | omniscience | 登记册既有 omniscience 全知行，按同词根取形容词形；凭证 2026-11-09 | 2026-11-09 |
 | omniscient interpreter | — | 全知解释者 | davidson 首译 | 戴维森认识论通行（omniscient 全知既有行同根）；凭证 2026-11-10 | 2026-11-10 |
 | omnisubjectivity | — | 全主体性 | omniscience | 本词条首译裁定（Zagzebski 术语）；凭证 2026-11-09 | 2026-11-09 |
+| On Choices and Avoidances | — | 《论选择与回避》 | epicurus | 本词条译名（[菲洛德穆]） | 2026-11-12 |
 | On Generation and Corruption | — | 《论生灭》 | zabarella | 学界通行汉译（亚里士多德著作）；凭证 2026-11-09 | 2026-11-09 |
+| On Incredible Tales | — | 《论不可信的故事》 | epicurus | 本词条译名（帕莱法托斯） | 2026-11-12 |
 | On Interpretation | — | 《解释篇》 | zabarella | 学界通行汉译（亚里士多德著作）；凭证 2026-11-09 | 2026-11-09 |
+| On Moral Ends (De finibus) | — | 《论至善与至恶》 | epicurus | 学界通行（西塞罗） | 2026-11-12 |
+| On Noble Families | — | 《论高贵家族》 | epicurus | 本词条译名（梅特罗多洛斯） | 2026-11-12 |
 | On the Heavens | — | 《论天》 | zabarella | 学界通行汉译（亚里士多德著作）；凭证 2026-11-09 | 2026-11-09 |
 | oncogene | — | 癌基因 | cancer | 学界通行（癌症分子生物学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | One Mind（yixin/ilsim） | 一心 | 一心 | korean-buddhism | 佛典古译（《大乘起信论》一心，源文汉字 一心） | 2026-11-05 |
@@ -3639,6 +3669,7 @@
 | other minds | — | 他心问题 | cordemoy 补登 | 学界通行（the problem of other minds）；凭证 2026-11-09 | 2026-11-09 |
 | ou mallon | οὐ μᾶλλον | 并不更 | democritus | 学界通行（原子论—怀疑论“无差异”论证式；正文完整式作“并不比…更”） | 2026-11-06 |
 | ouden mallon | — | 并不更 | 首现（timon-phlius） | 学界惯例（与 ou mallon 同式，正文完整希腊形）；凭证 2026-11-07 | 2026-11-07 |
+| Outline of Pyrrhonism | Πυρρώνειοι ὑποτυπώσεις | 《皮浪主义纲要》 | epicurus | 学界通行（塞克斯都·恩披里柯） | 2026-11-12 |
 | outside option | — | 外部选项 | justice-moral-psych | 博弈论通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | Over-Soul | — | 超灵 | emerson | 学界通行（爱默生《论超灵》） | 2026-11-07 |
 | overdetermination | causal overdetermination | 过度决定（因果过度决定） | occasionalism 首译 | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
@@ -3655,6 +3686,8 @@
 
 ## P
 
+| pathê | πάθη | 感受 | epicurus | 本词条译名（苦乐之感；与亚里士多德“情感”义分列） | 2026-11-12 |
+| Peri phuseôs (On Nature) | Περὶ φύσεως | 《论自然》 | epicurus | 学界通行（伊壁鸠鲁 37 卷讲稿） | 2026-11-12 |
 | p-hacking | — | p 值操纵 | 首译（experimental-aesthetics） | 科研方法论文献通行（开放科学批评文献同形） | 2026-11-09 |
 | pacifism | — | 和平主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | pada | पद | 词 | early-modern-india | 胜论句义词源分析（word；padārtha 之 pada）；凭证 2026-11-11 | 2026-11-11 |
@@ -3798,6 +3831,7 @@
 | phantasia（经院内感官语境） | phantasia | 想象（能力） | 首现（simon-faversham） | 与斯多葛语境 phantasia＝表象 行分列；学界阿维森纳—托马斯心理学；凭证 2026-11-08 | 2026-11-08 |
 | phantasm | phantasma | 幻象 | 首译（sharpe） | 承本册 phantasma 幻象；中世纪认识论通行（与 intelligible species 可理解种相对）；凭证 2026-11-09 | 2026-11-09 |
 | phantasma | — | 幻象 | intentionality-ancient | 斯多葛术语（非存在者之表象；与 phantasia 分） | 2026-11-07 |
+| phantasmata | φαντάσματα | 影像 | epicurus | 本词条译名（与 simulacra 影像 同源异形） | 2026-11-12 |
 | phantasy | — | 幻想 | landmann-kalischer | 现象学 Phantasie 通行（与 imagination 想象相区分语境） | 2026-11-04 |
 | phantom limb | — | 幻肢 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | phase semantics | — | 相语义 | logic-linear | Girard 术语通行译法（phase semantics）；凭证 2026-11-10 | 2026-11-09 |
@@ -3810,6 +3844,8 @@
 | phenomenology | — | 现象学 | gadamer-aesthetics | 学界惯例（现象学通行）；审定库无相关命中（凭证 2026-11-01） | 2026-11-01 |
 | phenomenology of mind | — | 精神现象学（黑格尔） | gadamer-aesthetics | 权威译本通行译法（黑格尔《精神现象学》） | 2026-11-01 |
 | phenotype | — | 表型 | genetics | 遗传学通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
+| Philebus | — | 《斐莱布篇》 | epicurus | 学界通行（柏拉图；亦作“菲莱布篇”） | 2026-11-12 |
+| philia | φιλία | 友爱 | epicurus | 学界通行（亦作“爱”；friendship 友谊 为对应词条名） | 2026-11-12 |
 | philology | — | 语文学 | s/scholem 首译 | 学界通行译名；凭证 2026-11-08 | 2026-11-08 |
 | philonikia | — | 好胜（philonikia，φιλονικία） | zeno-elea | 学界惯例（“爱胜”/“好胜”通行，取好胜）；凭证 2026-11-09 | 2026-11-09 |
 | philosophia perennis | — | 常青哲学 | antonio-rosmini | 中世纪—文艺复兴哲学传统通行（与 philosophia perennis 拉丁原形并列） | 2026-11-07 |
@@ -4401,6 +4437,7 @@
 | representor | — | 表征集 | 首现（imprecise-probabilities） | 学界惯例（van Fraassen 术语）；凭证 2026-11-08 | 2026-11-08 |
 | reprobation | reprobatio | 弃绝 | gregory-rimini | 神学通行（亦作“遗弃”；与 predestination 预定配对）；凭证 2026-11-10 | 2026-11-10 |
 | reproductive cloning | — | 生殖性克隆 | 首译（stem-cells） | 学界惯例（生命伦理学通行；与已登记“研究性克隆”配对）；凭证 2026-11-09 | 2026-11-09 |
+| Republic | Πολιτεία | 《理想国》 | epicurus | 学界通行（柏拉图） | 2026-11-12 |
 | Republic (Plato) | — | 《理想国》 | ancient-soul 首译 | 学界通行汉译（柏拉图对话） | 2026-11-09 |
 | republic of letters | — | 文人共和国 | 首译（cosmopolitanism） | 学界通行（Enlightenment 研究通用）；凭证 2026-11-09 | 2026-11-09 |
 | republican cosmopolitanism | — | 共和主义世界主义 | cosmopolitanism | 学界通行（Pettit、Laborde 等新共和主义谱系）；凭证 2026-11-09 | 2026-11-09 |
@@ -4767,6 +4804,7 @@
 | simples | amerē | 单纯者 | diodorus-cronus | 学界通行（希腊文 amerē 之译，物理与形而上皆不可分者）；凭证 2026-11-07 | 2026-11-07 |
 | simplicity (of properties) | — | 单纯性 | 首现（intuitionism-ethics） | 学界惯例（与复合性对举）；凭证 2026-11-08 | 2026-11-08 |
 | simply fair | — | 简单公平 | s/social-procedures 首译 | 构词直译（与 envy-free 无嫉妒对举）；凭证 2026-11-07 | 2026-11-07 |
+| simulacra | — | 影像 | epicurus | 学界通行（卢克莱修语，希腊语 eidōla；与 phantasmata 同译“影像”） | 2026-11-12 |
 | simulation theory | — | 模拟论 | f/frame-problem 首译 | 民间心理学论争通行译名（与 theory theory 理论论对举）；凭证 2026-11-10 | 2026-11-10 |
 | simultaneity | — | 同时性 | spacetime-convensimul | 学界惯例（相对论与时间哲学通行） | 2026-11-06 |
 | sincere voting | — | 真诚投票 | jury-theorems | 学界惯例（投票理论通行）；凭据 2026-11-02 | 2026-11-02 |
@@ -5143,7 +5181,11 @@
 
 ## T
 
+| tarakhê | ταραχή | 扰动 | epicurus | 本词条译名（与 ataraxia 心神宁静 对举） | 2026-11-12 |
+| the all (to pan) | τὸ πᾶν | 万有 | epicurus | 本词条译名（亦作“宇宙整体”） | 2026-11-12 |
+| The Cyrenaics | — | 昔勒尼学派 | epicurus | SUMMARY 定名（c/cyrenaics；亦作“昔兰尼派”） | 2026-11-12 |
 | t-norm | — | t-范数 | logic-fuzzy | triangular norm 通行译法；凭证 2026-11-09 | 2026-11-09 |
+| Tripod | Τρίπους | 《三脚架》 | epicurus | 本词条译名（瑙西芬尼） | 2026-11-12 |
 | T-scheme | — | T-图式 | lvov-warsaw | Tarski 真理论通行译法；凭证 2026-11-09 | 2026-11-09 |
 | T-sentence | — | T 句 | davidson 首译 | 塔尔斯基真理理论通行（与 Convention T 约定 T 相承）；凭证 2026-11-10 | 2026-11-10 |
 | Table of Categories | — | 范畴表 | kant-transcendental | 康德研究通行（A80/B106）；凭证 2026-11-10 | 2026-11-10 |
@@ -5403,6 +5445,7 @@
 | tumor suppressor | — | 抑癌基因 | cancer | 学界通行（癌症遗传学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | tumorigenicity | — | 致瘤性 | cancer | 学界通行（肿瘤生物学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | tuphos | — | 虚妄 | 首现（timon-phlius） | 学界惯例（犬儒派抨击术语，vanity；第蒙 *hupatuphos* 词根）；凭证 2026-11-07 | 2026-11-07 |
+| Tusculan Disputations | — | 《图斯库鲁姆论辩集》 | epicurus | 学界通行（西塞罗） | 2026-11-12 |
 | Twin Earth | — | 孪生地球 | 语料回收（标题词） | 学界惯例（心灵哲学（普特南思想实验）通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | two truths | — | 二谛（佛教；犹太哲学语境亦作“两种真理”） | gelukpa、delmedigo | 佛学界通行译名（真谛/俗谛） | 2026-11-01 |
 | Two Visual Systems Model | — | 双视觉系统模型 | 语料回收（molyneux-problem 首译） | 认知科学界通行译法（Goodale–Milner）；凭证 2026-11-06 | 2026-11-06 |
@@ -5547,6 +5590,7 @@
 | variation (lunar) | — | 二均差 | newton-principia | 月球运动理论通行（月球不等项之一）；凭证 2026-11-11 | 2026-11-11 |
 | varietas / falsitas | — | 多样性／虚假性 | gianfrancesco-pico | 源文拉丁对举，正文保留拉丁原词并括注；Gianfrancesco 论证核心 | 2026-11-09 |
 | vāsanā | — | 习气（熏习） | yogacara 首译 | 汉传唯识学通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| Vatican Sayings | — | 《梵蒂冈格言》 | epicurus | 本词条译名（*VS*） | 2026-11-12 |
 | vector | — | 矢量 | qm | 物理学通行（数学名词作“向量”；本库沿 qt 批“矢量空间”用法）；凭证 2026-11-11 | 2026-11-11 |
 | vector space | — | 矢量空间 | qm | 学界惯例（数学名词作“向量空间”；审定库检索无命中）；凭证 2026-11-11 | 2026-11-11 |
 | Veda | वेद | 《吠陀》 | early-modern-india | 千年通行译名；凭证 2026-11-10 | 2026-11-10 |
