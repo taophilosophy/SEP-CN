@@ -1,0 +1,563 @@
+version: 1
+slug: altruism-biological
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      In evolutionary biology, an organism is said to behave altruistically when its behaviour benefits other organisms, at a cost to itself. The costs and benefits are measured in terms of *reproductive fitness*, or expected number of offspring. So by behaving altruistically, an organism reduces the number of offspring it is likely to produce itself, but boosts the number that other organisms are likely to produce. This biological notion of altruism is not identical to the everyday concept. In everyday parlance, an action would only be called ‘altruistic’ if it was done with the conscious intention of helping another. But in the biological sense there is no such requirement. Indeed, some of the most interesting examples of biological altruism are found among creatures that are (presumably) not capable of conscious thought at all, e.g. insects. For the biologist, it is the consequences of an action for reproductive fitness that determine whether the action counts as altruistic, not the intentions, if any, with which the action is performed.
+    step1: |-
+      在演化生物学中，若一个生物的行为有利于其他生物，而自身付出代价，就说它表现出利他行为。代价与收益以*繁殖适合度*（即预期后代数）衡量。因此，生物表现出利他行为，会减少自己可能产生的后代数，却增加其他生物可能产生的后代数。这种生物学意义上的利他，与日常概念并不相同。在日常用语中，只有带着帮助他人的自觉意图去做，一个行为才被称为“利他的”。但在生物学意义上并无此要求。事实上，一些最有趣的生物学利他实例，见于（想必）根本不能自觉思考的生物，例如昆虫。对生物学家而言，决定一个行为是否算利他的，是该行为对繁殖适合度的后果，而不是行为所伴随的意图（如果有的话）。
+    step2: |-
+      在演化生物学中，若一个生物的行为有利于其他生物，而自身付出代价，就说它表现出利他行为。代价与收益以*繁殖适合度*（即预期后代数）衡量。因此，生物表现出利他行为，会减少自己可能产生的后代数，却增加其他生物可能产生的后代数。这种生物学意义上的利他，与日常概念并不相同。日常用语中，只有带着帮助他人的自觉意图去做，一个行为才被称为“利他的”；生物学意义则无此要求。事实上，一些最有趣的生物学利他实例，见于（想必）根本不能自觉思考的生物，例如昆虫。对生物学家而言，决定一个行为是否算利他的，是该行为对繁殖适合度的后果，而不是行为所伴随的意图（如果有的话）。
+  - id: 2
+    kind: body
+    source: |-
+      Altruistic behaviour is common throughout the animal kingdom, particularly in species with complex social structures. For example, vampire bats regularly regurgitate blood and donate it to other members of their group who have failed to feed that night, ensuring they do not starve. In numerous bird species, a breeding pair receives help in raising its young from other ‘helper’ birds, who protect the nest from predators and help to feed the fledglings. Vervet monkeys give alarm calls to warn fellow monkeys of the presence of predators, even though in doing so they attract attention to themselves, increasing their personal chance of being attacked. In social insect colonies (ants, wasps, bees and termites), sterile workers devote their whole lives to caring for the queen, constructing and protecting the nest, foraging for food, and tending the larvae. Such behaviour is maximally altruistic: sterile workers obviously do not leave any offspring of their own—so have personal fitness of zero—but their actions greatly assist the reproductive efforts of the queen.
+    step1: |-
+      利他行为在整个动物界很常见，尤其在具有复杂社会结构的物种中。例如，吸血蝙蝠经常反刍血液，捐给群体中当晚未能进食的其他成员，使它们不致饿死。在许多鸟类中，繁殖对会得到其他“帮手”鸟的帮助来养育幼鸟；帮手保护巢穴免受捕食者侵害，并帮助喂养雏鸟。绿猴发现捕食者时会发出警报叫声，警告同伴，尽管这样做会把注意力引向自己，增加自身受攻击的几率。在社会性昆虫群体（蚂蚁、黄蜂、蜜蜂与白蚁）中，不育的工蚁终其一生照料蚁后、建造并保护巢穴、觅食并抚育幼虫。这种行为是最大程度的利他：不育工蚁显然不留下自己的后代——个人适合度为零——但它们的行动极大帮助了蚁后的繁殖。
+    step2: |-
+      利他行为在整个动物界很常见，尤其在具有复杂社会结构的物种中。例如，吸血蝙蝠经常反刍血液，捐给群体中当晚未能进食的其他成员，使它们不致饿死。在许多鸟类中，繁殖对会得到其他“帮手”鸟的帮助来养育幼鸟；帮手保护巢穴免受捕食者侵害，并帮助喂养雏鸟。绿猴发现捕食者时会发出警报叫声，警告同伴，尽管这样做会把注意力引向自己，增加自身受攻击的几率。在社会性昆虫群体（蚂蚁、黄蜂、蜜蜂与白蚁）中，不育的工蚁终其一生照料蚁后、建造并保护巢穴、觅食并抚育幼虫。这种行为是最大程度的利他：不育工蚁显然不留下自己的后代——个人适合度为零——但它们的行动极大帮助了蚁后的繁殖。
+  - id: 3
+    kind: body
+    source: |-
+      From a Darwinian viewpoint, the existence of altruism in nature is at first sight puzzling, as Darwin himself realized. Natural selection leads us to expect animals to behave in ways that increase their *own* chances of survival and reproduction, not those of others. But by behaving altruistically an animal reduces its own fitness, so should be at a selective disadvantage vis-à-vis one which behaves selfishly. To see this, imagine that some members of a group of Vervet monkeys give alarm calls when they see predators, but others do not. Other things being equal, the latter will have an advantage. By selfishly refusing to give an alarm call, a monkey can reduce the chance that it will itself be attacked, while at the same time benefiting from the alarm calls of others. So we should expect natural selection to favour those monkeys that do not give alarm calls over those that do. But this raises an immediate puzzle. How did the alarm-calling behaviour evolve in the first place, and why has it not been eliminated by natural selection? How can the existence of altruism be reconciled with basic Darwinian principles?
+    step1: |-
+      从达尔文主义观点看，自然界中利他的存在乍看令人困惑，达尔文本人也意识到了。自然选择使我们预期动物以增加*自身*生存与繁殖机会的方式行动，而非增加他人的机会。但动物表现出利他行为会降低自身适合度，因而相对于自私行动的动物应处于选择劣势。要看清这一点，设想一群绿猴中有些成员看到捕食者时发出警报，另一些则不。其他条件相同，后者将占优势。通过自私地拒绝发出警报，一只猴子可以降低自身受攻击的几率，同时受益于他人的警报。因此我们应预期自然选择偏爱不发警报的猴子，而非发警报者。但这立刻引出难题：发警报行为最初如何演化出来？为何未被自然选择淘汰？利他的存在如何与基本达尔文原则相容？
+    step2: |-
+      从达尔文主义观点看，自然界中利他的存在乍看令人困惑，达尔文本人也意识到了。自然选择使我们预期动物以增加*自身*生存与繁殖机会的方式行动，而非增加他人的机会。但动物表现出利他行为会降低自身适合度，因而相对于自私行动的动物应处于选择劣势。要看清这一点，设想一群绿猴中有些成员看到捕食者时发出警报，另一些则不。其他条件相同，后者将占优势。通过自私地拒绝发出警报，一只猴子可以降低自身受攻击的几率，同时受益于他人的警报。因此我们应预期自然选择偏爱不发警报的猴子，而非发警报者。但这立刻引出难题：发警报行为最初如何演化出来？为何未被自然选择淘汰？利他的存在如何与基本达尔文原则相容？
+  - id: 4
+    kind: body
+    source: |-
+      ## 1. Altruism and the Levels of Selection
+    step1: |-
+      ## 1 利他与选择层次
+    step2: |-
+      ## 1 利他与选择层次
+  - id: 5
+    kind: body
+    source: |-
+      The problem of altruism is intimately connected with questions about the level at which natural selection acts. If selection acts exclusively at the individual level, favouring some individual organisms over others, then it seems that altruism cannot evolve, for behaving altruistically is disadvantageous for the individual organism itself, by definition. However, it is possible that altruism may be advantageous at the *group* level. A group containing lots of altruists, each ready to subordinate their own selfish interests for the greater good of the group, may well have a survival advantage over a group composed mainly or exclusively of selfish organisms. A process of between-group selection may thus allow the altruistic behaviour to evolve. *Within* each group, altruists will be at a selective disadvantage relative to their selfish colleagues, but the fitness of the group as a whole will be enhanced by the presence of altruists. Groups composed only or mainly of selfish organisms go extinct, leaving behind groups containing altruists. In the example of the Vervet monkeys, a group containing a high proportion of alarm-calling monkeys will have a survival advantage over a group containing a lower proportion. So conceivably, the alarm-calling behaviour may evolve by between-group selection, even though within each group, selection favours monkeys that do not give alarm calls.
+    step1: |-
+      利他问题与自然选择在哪个层次起作用的问题密切相关。若选择只在个体层次起作用，偏爱某些个体生物胜过另一些，那么利他似乎无法演化，因为按定义，利他行为对个体生物本身不利。然而，利他可能在*群体*层次有利。一个包含许多利他者的群体，每个成员都准备为群体更大的善而服从自身利益，很可能比主要由或完全由自私生物组成的群体更具生存优势。于是，群体间选择过程可能容许利他行为演化。在*群体内*，利他者相对于自私同伴将处于选择劣势，但利他者的存在会提升整个群体的适合度。只由或主要由自私生物组成的群体灭绝，留下包含利他者的群体。在绿猴例子中，发警报猴子比例高的群体将比比例低的群体更具生存优势。因此可以设想，发警报行为可能通过群体间选择演化，即便在每个群体内，选择偏爱不发警报的猴子。
+    step2: |-
+      利他问题与自然选择在哪个层次起作用的问题密切相关。若选择只在个体层次起作用，偏爱某些个体生物胜过另一些，那么利他似乎无法演化，因为按定义，利他行为对个体生物本身不利。然而，利他可能在*群体*层次有利。一个包含许多利他者的群体，每个成员都准备为群体更大的善而牺牲自身利益，很可能比主要由或完全由自私生物组成的群体更具生存优势。于是，群体间选择过程可能容许利他行为演化。在*群体内*，利他者相对于自私同伴将处于选择劣势，但利他者的存在会提升整个群体的适合度。只由或主要由自私生物组成的群体灭绝，留下包含利他者的群体。在绿猴例子中，发警报猴子比例高的群体将比比例低的群体更具生存优势。因此可以设想，发警报行为可能通过群体间选择演化，即便在每个群体内，选择偏爱不发警报的猴子。
+  - id: 6
+    kind: body
+    source: |-
+      The idea that group selection might explain the evolution of altruism was first broached by Darwin himself. In *The Descent of Man* (1871), Darwin discussed the origin of altruistic and self-sacrificial behaviour among humans. Such behaviour is obviously disadvantageous at the individual level, as Darwin realized: “he who was ready to sacrifice his life, as many a savage has been, rather than betray his comrades, would often leave no offspring to inherit his noble nature” (p.163). Darwin then argued that self-sacrificial behaviour, though disadvantageous for the individual ‘savage’, might be beneficial at the group level: “a tribe including many members who...were always ready to give aid to each other and sacrifice themselves for the common good, would be victorious over most other tribes; and this would be natural selection” (p.166). Darwin's suggestion is that the altruistic behaviour in question may have evolved by a process of between-group selection.
+    step1: |-
+      群体选择或许能解释利他演化的想法，最早由达尔文本人提出。在《人类的由来》（1871）中，达尔文讨论了人类利他与自我牺牲行为的起源。这种行为在个体层次显然不利，达尔文意识到：“一个准备牺牲自己生命、而不愿背叛同伴的人，如许多野蛮人所为，往往不会留下后代来继承其高贵本性”（第 163 页）。达尔文进而论证，自我牺牲行为虽对个体“野蛮人”不利，却可能在群体层次有益：“一个部落若包含许多成员……总是准备互相援助、为共同善而牺牲自己，就会战胜大多数其他部落；而这将是自然选择”（第 166 页）。达尔文的建议是：所讨论的利他行为可能通过群体间选择过程演化。
+    step2: |-
+      群体选择或许能解释利他演化的想法，最早由达尔文本人提出。在《人类的由来》（1871）中，他讨论了人类利他与自我牺牲行为的起源。这种行为在个体层次显然不利，达尔文意识到：“一个准备牺牲自己生命、而不愿背叛同伴的人，如许多野蛮人所为，往往不会留下后代来继承其高贵本性”（第 163 页）。他进而论证，自我牺牲行为虽对个体“野蛮人”不利，却可能在群体层次有益：“一个部落若包含许多成员……总是准备互相援助、为共同善而牺牲自己，就会战胜大多数其他部落；而这将是自然选择”（第 166 页）。达尔文的建议是：所讨论的利他行为可能通过群体间选择过程演化。
+  - id: 7
+    kind: body
+    source: |-
+      The concept of group selection has a chequered and controversial history in evolutionary biology. The founders of modern neo-Darwinism—R.A. Fisher, J.B.S. Haldane and S. Wright—were all aware that group selection could in principle permit altruistic behaviours to evolve, but they doubted the importance of this evolutionary mechanism. Nonetheless, many mid-twentieth century ecologists and some ethologists, notably Konrad Lorenz, routinely assumed that natural selection would produce outcomes beneficial for the whole group or species, often without even realizing that individual-level selection guarantees no such thing. This uncritical ‘good of the species’ tradition came to an abrupt halt in the 1960s, due largely to the work of G.C. Williams (1966) and J. Maynard Smith (1964). These authors argued that group selection was an inherently weak evolutionary force, hence unlikely to promote interesting altruistic behaviours. This conclusion was supported by a number of mathematical models, which apparently showed that group selection would only have significant effects for a limited range of parameter values. As a result, the notion of group selection fell into widespread disrepute in orthodox evolutionary circles; see Sober and Wilson 1998, Segestrale 2000, Okasha 2006, Leigh 2010 and Sober 2011 for details of the history of this debate.
+    step1: |-
+      群体选择概念在演化生物学中有一段曲折而富有争议的历史。现代新达尔文主义的奠基者——R. A. 费希尔、J. B. S. 霍尔丹与 S. 赖特——都知道群体选择原则上可以容许利他行为演化，却怀疑这一演化机制的重要性。尽管如此，二十世纪中期的许多生态学家与一些动物行为学家（尤其康拉德·洛伦兹）仍惯常假定自然选择会产生有利于整个群体或物种的结果，往往甚至未意识到个体层次的选择根本不保证这一点。这种不加批判的“物种之善”传统在 1960 年代戛然而止，主要归功于 G. C. 威廉斯（1966）与 J. 梅纳德·史密斯（1964）的工作。这些作者论证，群体选择是一种本质上很弱的演化力量，因而不太可能促进有趣的利他行为。这一结论得到若干数学模型的支持；这些模型显然表明，群体选择只在有限参数范围内才有显著效果。结果，群体选择概念在正统演化圈内广受诟病；关于这场争论历史的详情，见 Sober and Wilson 1998、Segestrale 2000、Okasha 2006、Leigh 2010 与 Sober 2011。
+    step2: |-
+      群体选择概念在演化生物学中有一段曲折而富有争议的历史。现代新达尔文主义的奠基者——R. A. 费希尔、J. B. S. 霍尔丹与 S. 赖特——都知道群体选择原则上可以容许利他行为演化，却怀疑这一机制的重要性。尽管如此，二十世纪中期的许多生态学家与一些动物行为学家（尤其康拉德·洛伦兹）仍惯常假定自然选择会产生有利于整个群体或物种的结果，往往甚至未意识到个体层次的选择根本不保证这一点。这种不加批判的“物种之善”传统在 1960 年代戛然而止，主要归功于 G. C. 威廉斯（1966）与 J. 梅纳德·史密斯（1964）的工作。这些作者论证，群体选择是一种本质上很弱的演化力量，因而不太可能促进有趣的利他行为。这一结论得到若干数学模型的支持；这些模型显然表明，群体选择只在有限参数范围内才有显著效果。结果，群体选择概念在正统演化圈内广受诟病；关于这场争论历史的详情，见 Sober and Wilson 1998、Segestrale 2000、Okasha 2006、Leigh 2010 与 Sober 2011。
+  - id: 8
+    kind: body
+    source: |-
+      The major weakness of group selection as an explanation of altruism, according to the consensus that emerged in the 1960s, was a problem that Dawkins (1976) called ‘subversion from within’; see also Maynard Smith 1964. Even if altruism is advantageous at the group level, within any group altruists are liable to be exploited by selfish ‘free-riders’ who refrain from behaving altruistically. These free-riders will have an obvious fitness advantage: they benefit from the altruism of others, but do not incur any of the costs. So even if a group is composed exclusively of altruists, all behaving nicely towards each other, it only takes a single selfish mutant to bring an end to this happy idyll. By virtue of its relative fitness advantage within the group, the selfish mutant will out-reproduce the altruists, hence selfishness will eventually swamp altruism. Since the generation time of individual organisms is likely to be much shorter than that of groups, the probability that a selfish mutant will arise and spread is very high, according to this line of argument. ‘Subversion from within’ is generally regarded as a major stumbling block for group-selectionist theories of the evolution of altruism.
+    step1: |-
+      按照 1960 年代形成的共识，群体选择作为利他解释的主要弱点，是道金斯（1976）所谓的“内部颠覆”；另见 Maynard Smith 1964。即便利他在群体层次有利，在任何群体内，利他者都容易被自私的“搭便车者”利用，后者不表现出利他行为。这些搭便车者显然有适合度优势：他们受益于他人的利他，却不承担任何代价。因此，即便一个群体完全由利他者组成，彼此友善相待，只需一个自私突变体就能终结这段幸福牧歌。凭借其在群体内的相对适合度优势，自私突变体会比利他者繁殖得更多，于是自私最终会淹没利他。按照这一论证，由于个体生物的世代时间很可能远短于群体的世代时间，自私突变体出现并扩散的概率非常高。“内部颠覆”通常被视为利他演化的群体选择论的主要绊脚石。
+    step2: |-
+      按照 1960 年代形成的共识，群体选择作为利他解释的主要弱点，是道金斯（1976）所谓的“内部颠覆”；另见 Maynard Smith 1964。即便利他在群体层次有利，在任何群体内，利他者都容易被自私的“搭便车者”利用，后者不表现出利他行为。这些搭便车者显然有适合度优势：他们受益于他人的利他，却不承担任何代价。因此，即便一个群体完全由利他者组成，彼此友善相待，只需一个自私突变体就能终结这段幸福牧歌。凭借在群体内的相对适合度优势，自私突变体会比利他者繁殖得更多，于是自私最终会淹没利他。按照这一论证，由于个体生物的世代时间很可能远短于群体的世代时间，自私突变体出现并扩散的概率非常高。“内部颠覆”通常被视为利他演化的群体选择论的主要绊脚石。
+  - id: 9
+    kind: body
+    source: |-
+      If group selection is not the correct explanation for how the altruistic behaviours found in nature evolved, then what is? In the 1960s and 1970s a rival theory emerged: kin selection or ‘inclusive fitness’ theory, due originally to Hamilton (1964). This theory, discussed in detail below, apparently showed how altruistic behaviour could evolve *without* the need for group-level selection, and quickly gained prominence among biologists interested in the evolution of social behaviour; the empirical success of kin selection theory contributed to the demise of the group selection concept. However, the precise relation between kin and group selection is a source of ongoing controversy (see for example the recent exchange in *Nature* between Nowak, Tarnita and Wilson 2010 and Abbot et. al. 2011)[^abbot-2011]. Since the 1990s, proponents of ‘multi-level selection theory’ have resuscitated a form of group-level selection—sometimes called ‘new’ group selection—and shown that it can permit altruism to evolve (cf. Sober and Wilson 1998)[^sober-1998]. But ‘new’ group selection turns out to be mathematically equivalent to kin selection in most if not all cases, as a number of authors have emphasized (Grafen 1984, Frank 1998, West *et al*. 2007, Lehmann *et al*. 2007, Marshall 2011)[^frank-1998][^grafen-1984][^lehmann-2007][^marshall-2011][^west-2007]; this point was already appreciated by Hamilton (1975). Since the relation between ‘old’ and ‘new’ group selection is itself a point of controversy, this explains why disagreement about the relation between kin and group selection should persist.
+    step1: |-
+      若群体选择不是自然界所见利他行为如何演化的正确解释，那又是什么？1960 与 1970 年代出现了一种竞争理论：亲缘选择或“包容适合度”理论，最初由汉密尔顿（1964）提出。这一理论（详见下文）显然表明，利他行为可以在*无需*群体层次选择的情况下演化，并很快在关心社会行为演化的生物学家中崭露头角；亲缘选择理论的经验成功促成了群体选择概念的衰落。然而，亲缘选择与群体选择的确切关系仍是持续争议之源（例如见 Nowak, Tarnita and Wilson 2010 与 Abbot 等 2011 在《自然》上的近期交锋）[^abbot-2011]。自 1990 年代以来，“多层次选择理论”的倡导者复活了一种群体层次选择——有时称“新”群体选择——并表明它可以容许利他演化（参 Sober and Wilson 1998）[^sober-1998]。但正如若干作者所强调的，“新”群体选择在多数（若非全部）情形中在数学上等价于亲缘选择（Grafen 1984, Frank 1998, West *et al*. 2007, Lehmann *et al*. 2007, Marshall 2011）[^frank-1998][^grafen-1984][^lehmann-2007][^marshall-2011][^west-2007]；这一点汉密尔顿（1975）已经认识到。由于“旧”与“新”群体选择的关系本身就是争议点，这解释了为何关于亲缘选择与群体选择关系的分歧应当持续存在。
+    step2: |-
+      若群体选择不是自然界所见利他行为如何演化的正确解释，那又是什么？1960 与 1970 年代出现了一种竞争理论：亲缘选择或“包容适合度”理论，最初由汉密尔顿（1964）提出。这一理论（详见下文）显然表明，利他行为可以在*无需*群体层次选择的情况下演化，并很快在关心社会行为演化的生物学家中崭露头角；其经验成功促成了群体选择概念的衰落。然而，亲缘选择与群体选择的确切关系仍是持续争议之源（例如见 Nowak, Tarnita and Wilson 2010 与 Abbot 等 2011 在《自然》上的近期交锋）[^abbot-2011]。自 1990 年代以来，“多层次选择理论”的倡导者复活了一种群体层次选择——有时称“新”群体选择——并表明它可以容许利他演化（参 Sober and Wilson 1998）[^sober-1998]。但正如若干作者所强调的，“新”群体选择在多数（若非全部）情形中在数学上等价于亲缘选择（Grafen 1984, Frank 1998, West *et al*. 2007, Lehmann *et al*. 2007, Marshall 2011）[^frank-1998][^grafen-1984][^lehmann-2007][^marshall-2011][^west-2007]；汉密尔顿（1975）已经认识到这一点。由于“旧”与“新”群体选择的关系本身就是争议点，关于亲缘选择与群体选择关系的分歧持续存在，也就不难理解。
+  - id: 10
+    kind: body
+    source: |-
+      ## 2. Kin Selection and Inclusive Fitness
+    step1: |-
+      ## 2 亲缘选择与包容适合度
+    step2: |-
+      ## 2 亲缘选择与包容适合度
+  - id: 11
+    kind: body
+    source: |-
+      The basic idea of kin selection is simple. Imagine a gene which causes its bearer to behave altruistically towards other organisms, e.g. by sharing food with them. Organisms without the gene are selfish—they keep all their food for themselves, and sometimes get handouts from the altruists. Clearly the altruists will be at a fitness disadvantage, so we should expect the altruistic gene to be eliminated from the population. However, suppose that altruists are discriminating in who they share food with. They do not share with just anybody, but only with their relatives. This immediately changes things. For relatives are genetically similar—they share genes with one another. So when an organism carrying the altruistic gene shares his food, there is a certain probability that the recipients of the food will also carry copies of that gene. (How probable depends on how closely related they are.) This means that the altruistic gene can in principle spread by natural selection. The gene causes an organism to behave in a way which reduces its own fitness but boosts the fitness of its relatives—who have a greater than average chance of carrying the gene themselves. So the overall effect of the behaviour may be to increase the number of copies of the altruistic gene found in the next generation, and thus the incidence of the altruistic behaviour itself.
+    step1: |-
+      亲缘选择的基本想法很简单。设想一个基因，使其携带者对其他生物表现出利他行为，例如与它们分享食物。没有该基因的生物是自私的——它们把全部食物留给自己，有时还从利他者那里得到施舍。显然利他者将处于适合度劣势，因此我们应预期利他基因从种群中被淘汰。然而，假定利他者在与谁分享食物上有区别：它们不随便与任何人分享，只与亲属分享。这立刻改变了局面。因为亲属在遗传上相似——彼此共享基因。因此，当一个携带利他基因的生物分享食物时，食物的接受者也有一定概率携带该基因的拷贝。（概率多大取决于亲缘关系的远近。）这意味着利他基因原则上可以通过自然选择扩散。该基因使生物以降低自身适合度、却提升亲属适合度的方式行动——而亲属携带该基因的几率高于平均。因此，该行为的总体效果可能是增加下一代中利他基因的拷贝数，从而增加利他行为本身的发生率。
+    step2: |-
+      亲缘选择的基本想法很简单。设想一个基因，使其携带者对其他生物表现出利他行为，例如与它们分享食物。没有该基因的生物是自私的——它们把全部食物留给自己，有时还从利他者那里得到施舍。显然利他者将处于适合度劣势，因此我们应预期利他基因从种群中被淘汰。然而，假定利他者在与谁分享食物上有区别：它们不随便与任何人分享，只与亲属分享。这立刻改变了局面。因为亲属在遗传上相似——彼此共享基因。因此，当一个携带利他基因的生物分享食物时，食物的接受者也有一定概率携带该基因的拷贝（概率多大取决于亲缘关系的远近）。这意味着利他基因原则上可以通过自然选择扩散：该基因使生物以降低自身适合度、却提升亲属适合度的方式行动，而亲属携带该基因的几率高于平均。因此，该行为的总体效果可能是增加下一代中利他基因的拷贝数，从而增加利他行为本身的发生率。
+  - id: 12
+    kind: body
+    source: |-
+      Though this argument was hinted at by Haldane in the 1930s, and to a lesser extent by Darwin in his discussion of sterile insect castes in *The Origin of Species*, it was first made explicit by William Hamilton (1964) in a pair of seminal papers. Hamilton demonstrated rigorously that an altruistic gene will be favoured by natural selection when a certain condition, known as *Hamilton's rule*, is satisfied. In its simplest version, the rule states that *b* > *c*/*r*, where *c* is the cost incurred by the altruist (the donor), b is the benefit received by the recipients of the altruism, and r is the *co-efficient of relationship* between donor and recipient. The costs and benefits are measured in terms of reproductive fitness. The co-efficient of relationship depends on the genealogical relation between donor and recipient—it is defined as the probability that donor and recipient share genes at a given locus that are ‘identical by descent’. (Two genes are identical by descent if they are copies of a single gene in a shared ancestor.) In a sexually reproducing diploid species, the value of r for full siblings is ½, for parents and offspring ½, for grandparents and grandoffspring ¼, for full cousins 1/8,  and so-on. The higher the value of r, the greater the probability that the recipient of the altruistic behaviour will also possess the gene for altruism. So what Hamilton's rule tells us is that a gene for altruism can spread by natural selection, so long as the cost incurred by the altruist is offset by a sufficient amount of benefit to sufficiently closed related relatives. The proof of Hamilton's rule relies on certain non-trivial assumptions; see Frank 1998, Grafen 1985, 2006, Queller 1992a, 1992b, Boyd and McIlreath 2006 and Birch forthcoming for details.
+    step1: |-
+      这一论证虽在 1930 年代已由霍尔丹暗示，达尔文在《物种起源》讨论不育昆虫品级时也有较轻程度的提示，但首次明确表述它的是威廉·汉密尔顿（1964），见于两篇开创性论文。汉密尔顿严格证明：当某个称为*汉密尔顿法则*的条件得到满足时，利他基因将受自然选择偏爱。该法则最简单的版本是 *b* > *c*/*r*，其中 *c* 是利他者（施予者）付出的代价，b 是利他行为的接受者获得的收益，r 是施予者与接受者之间的*亲缘系数*。代价与收益以繁殖适合度衡量。亲缘系数取决于施予者与接受者的谱系关系——它被定义为施予者与接受者在某一给定基因座上共享“同源同一”基因的概率。（若两个基因是共同祖先中某一基因的拷贝，它们就同源同一。）在有性生殖的二倍体物种中，全同胞的 r 值为 ½，亲子之间为 ½，祖孙之间为 ¼，全表亲之间为 1/8，如此类推。r 值越高，利他行为接受者同样拥有利他基因的概率越大。因此，汉密尔顿法则告诉我们：只要利他者付出的代价被足够近亲所获的足够收益抵消，利他基因就能通过自然选择扩散。汉密尔顿法则的证明依赖某些非平凡假定；详情见 Frank 1998、Grafen 1985, 2006、Queller 1992a, 1992b、Boyd and McIlreath 2006 与 Birch（即出）。
+    step2: |-
+      这一论证虽在 1930 年代已由霍尔丹暗示，达尔文在《物种起源》讨论不育昆虫品级时也有较轻程度的提示，但首次明确表述它的是威廉·汉密尔顿（1964），见于两篇开创性论文。汉密尔顿严格证明：当某个称为*汉密尔顿法则*的条件得到满足时，利他基因将受自然选择偏爱。该法则最简单的版本是 *b* > *c*/*r*，其中 *c* 是利他者（施予者）付出的代价，b 是利他行为接受者获得的收益，r 是施予者与接受者之间的*亲缘系数*。代价与收益以繁殖适合度衡量。亲缘系数取决于施予者与接受者的谱系关系——它被定义为施予者与接受者在某一给定基因座上共享“同源同一”基因的概率。（若两个基因是共同祖先中某一基因的拷贝，它们就同源同一。）在有性生殖的二倍体物种中，全同胞的 r 值为 ½，亲子之间为 ½，祖孙之间为 ¼，全表亲之间为 1/8，如此类推。r 值越高，利他行为接受者同样拥有利他基因的概率越大。因此，汉密尔顿法则告诉我们：只要利他者付出的代价被足够近亲所获的足够收益抵消，利他基因就能通过自然选择扩散。汉密尔顿法则的证明依赖某些非平凡假定；详情见 Frank 1998、Grafen 1985, 2006、Queller 1992a, 1992b、Boyd and McIlreath 2006 与 Birch（即出）。
+  - id: 13
+    kind: body
+    source: |-
+      Though Hamilton himself did not use the term, his idea quickly became known as ‘kin selection’, for obvious reasons. Kin selection theory predicts that animals are more likely to behave altruistically towards their relatives than towards unrelated members of their species. Moreover, it predicts that the *degree* of altruism will be greater, the closer the relationship. In the years since Hamilton's theory was devised, these predictions have been amply confirmed by empirical work. For example, in various bird species, it has been found that ‘helper’ birds are much more likely to help relatives raise their young, than they are to help unrelated breeding pairs. Similarly, studies of Japanese macaques have shown that altruistic actions, such as defending others from attack, tend to be preferentially directed towards close kin. In most social insect species, a peculiarity of the genetic system known as ‘haplodiploidy’ means that females on average share more genes with their sisters than with their own offspring. So a female may well be able to get more genes into the next generation by helping the queen reproduce, hence increasing the number of sisters she will have, rather than by having offspring of her own. Kin selection theory therefore provides a neat explanation of how sterility in the social insects may have evolved by Darwinian means. (Note, however, that the precise significance of haplodiploidy for the evolution of worker sterility is a controversial question; see Maynard Smith and Szathmary 1995 ch.16, Gardner, Alpedrinha and West 2012.)[^maynard-1995]
+    step1: |-
+      汉密尔顿本人虽未使用该词，其想法很快因显而易见的原因被称为“亲缘选择”。亲缘选择理论预测，动物更可能对亲属而非同种中无亲缘关系的成员表现出利他行为。此外，它预测亲缘关系越近，利他的*程度*越大。在汉密尔顿理论提出后的岁月里，这些预测已由经验工作充分证实。例如，在各种鸟类中发现，“帮手”鸟帮助亲属养育幼鸟的可能性远高于帮助无亲缘关系的繁殖对。类似地，对日本猕猴的研究表明，诸如保护他人免受攻击的利他行为，往往优先指向近亲。在多数社会性昆虫物种中，称为“单倍二倍体”的遗传系统特性意味着雌性平均与姐妹共享的基因多于与自己后代共享的基因。因此，雌性通过帮助蚁后繁殖、从而增加自己将拥有的姐妹数，可能比通过留下自己后代，把更多基因带入下一代。亲缘选择理论由此为下列问题提供了简洁解释：社会性昆虫中的不育如何可能通过达尔文式手段演化。（不过请注意，单倍二倍体对工蚁不育演化的确切意义仍是有争议的问题；见 Maynard Smith and Szathmary 1995 第 16 章、Gardner, Alpedrinha and West 2012。）[^maynard-1995]
+    step2: |-
+      汉密尔顿本人虽未使用该词，其想法很快因显而易见的原因被称为“亲缘选择”。亲缘选择理论预测，动物更可能对亲属而非同种中无亲缘关系的成员表现出利他行为；它还预测，亲缘关系越近，利他的*程度*越大。在汉密尔顿理论提出后的岁月里，这些预测已由经验工作充分证实。例如，在各种鸟类中发现，“帮手”鸟帮助亲属养育幼鸟的可能性远高于帮助无亲缘关系的繁殖对。类似地，对日本猕猴的研究表明，诸如保护他人免受攻击的利他行为，往往优先指向近亲。在多数社会性昆虫物种中，称为“单倍二倍体”的遗传系统特性意味着雌性平均与姐妹共享的基因多于与自己后代共享的基因。因此，雌性通过帮助蚁后繁殖、从而增加自己将拥有的姐妹数，可能比通过留下自己后代，把更多基因带入下一代。亲缘选择理论由此为下列问题提供了简洁解释：社会性昆虫中的不育如何可能通过达尔文式手段演化。（不过请注意，单倍二倍体对工蚁不育演化的确切意义仍是有争议的问题；见 Maynard Smith and Szathmary 1995 第 16 章、Gardner, Alpedrinha and West 2012。）[^maynard-1995]
+  - id: 14
+    kind: body
+    source: |-
+      Kin selection theory is often presented as a triumph of the ‘gene's-eye view of evolution’, which sees organic evolution as the result of competition among genes for increased representation in the gene-pool, and individual organisms as mere ‘vehicles’ that genes have constructed to aid their propagation (Dawkins 1976, 1982)[^dawkins-1976]. The gene's eye-view is certainly the easiest way of understanding kin selection, and was employed by Hamilton himself in his 1964 papers. Altruism seems anomalous from the individual organism's point of view, but from the gene's point of view it makes good sense. A gene wants to maximize the number of copies of itself that are found in the next generation; one way of doing that is to cause its host organism to behave altruistically towards other bearers of the gene, so long as the costs and benefits satisfy the Hamilton inequality. But interestingly, Hamilton showed that kin selection can also be understood from the organism's point of view. Though an altruistic behaviour which spreads by kin selection reduces the organism's personal fitness (by definition), it increases what Hamilton called the organism's *inclusive* fitness. An organism's inclusive fitness is defined as its personal fitness, plus the sum of its weighted effects on the fitness of every other organism in the population, the weights determined by the coefficient of relationship r. Given this definition, natural selection will act to maximise the inclusive fitness of individuals in the population (Grafen 2006)[^grafen-2006]. Instead of thinking in terms of selfish genes trying to maximize their future representation in the gene-pool, we can think in terms of organisms trying to maximize their inclusive fitness. Most people find the ‘gene's eye’ approach to kin selection heuristically simpler than the inclusive fitness approach, but mathematically they are in fact equivalent (Michod 1982, Frank 1998, Boyd and McIlreath 2006, Grafen 2006)[^boyd-2006][^frank-1998][^grafen-2006][^michod-1982].
+    step1: |-
+      亲缘选择理论常被呈现为“演化的基因视角”的胜利：这一视角把有机演化看作基因之间为增加在基因库中的代表而竞争的结果，而把个体生物看作基因所建造、用以助其传播的单纯“载体”（Dawkins 1976, 1982）[^dawkins-1976]。基因视角当然是理解亲缘选择最容易的方式，汉密尔顿本人在其 1964 年论文中也采用了它。从个体生物的观点看，利他似乎反常；但从基因的观点看，它完全讲得通。一个基因想最大化自身在下一代中的拷贝数；做到这一点的一种方式，是使其宿主生物对基因的其他携带者表现出利他行为，只要代价与收益满足汉密尔顿不等式。但有趣的是，汉密尔顿表明，亲缘选择也可以从生物的观点理解。通过亲缘选择扩散的利他行为虽按定义降低生物的个人适合度，却增加汉密尔顿所谓的生物*包容*适合度。一个生物的包容适合度定义为：其个人适合度，加上其对种群中每一其他生物适合度的加权效应之和，权重由亲缘系数 r 决定。按此定义，自然选择将作用于最大化种群中个体的包容适合度（Grafen 2006）[^grafen-2006]。我们不必设想自私基因试图最大化其未来在基因库中的代表，而可设想生物试图最大化其包容适合度。多数人觉得“基因视角”进路在启发上比包容适合度进路更简单，但二者在数学上其实等价（Michod 1982, Frank 1998, Boyd and McIlreath 2006, Grafen 2006）[^boyd-2006][^frank-1998][^grafen-2006][^michod-1982]。
+    step2: |-
+      亲缘选择理论常被呈现为“演化的基因视角”的胜利：这一视角把有机演化看作基因之间为增加在基因库中的代表而竞争的结果，而把个体生物看作基因所建造、用以助其传播的单纯“载体”（Dawkins 1976, 1982）[^dawkins-1976]。基因视角当然是理解亲缘选择最容易的方式，汉密尔顿本人在其 1964 年论文中也采用了它。从个体生物的观点看，利他似乎反常；从基因的观点看，它却完全讲得通。一个基因想最大化自身在下一代中的拷贝数；办法之一是使其宿主生物对基因的其他携带者表现出利他行为，只要代价与收益满足汉密尔顿不等式。但有趣的是，汉密尔顿表明，亲缘选择也可以从生物的观点理解。通过亲缘选择扩散的利他行为虽按定义降低生物的个人适合度，却增加汉密尔顿所谓的生物*包容*适合度。一个生物的包容适合度定义为：其个人适合度，加上其对种群中每一其他生物适合度的加权效应之和，权重由亲缘系数 r 决定。按此定义，自然选择将作用于最大化种群中个体的包容适合度（Grafen 2006）[^grafen-2006]。我们不必设想自私基因试图最大化其未来在基因库中的代表，而可设想生物试图最大化其包容适合度。多数人觉得“基因视角”进路在启发上比包容适合度进路更简单，但二者在数学上其实等价（Michod 1982, Frank 1998, Boyd and McIlreath 2006, Grafen 2006）[^boyd-2006][^frank-1998][^grafen-2006][^michod-1982]。
+  - id: 15
+    kind: body
+    source: |-
+      Contrary to what is sometimes thought, kin selection does not require that animals must have the ability to discriminate relatives from non-relatives, less still to calculate coefficients of relationship. Many animals can in fact recognize their kin, often by smell, but kin selection can operate in the absence of such an ability. Hamilton's inequality can be satisfied so long as an animal behaves altruistically towards other animals that are *in fact* its relatives. The animal *might* achieve this by having the ability to tell relatives from non-relatives, but this is not the only possibility. An alternative is to use some proximal indicator of kinship. For example, if an animal behaves altruistically towards those in its immediate vicinity, then the recipients of the altruism are likely to be relatives, given that relatives tend to live near each other. No ability to recognize kin is presupposed. Cuckoos exploit precisely this fact, free-riding on the innate tendency of birds to care for the young in their nests.
+    step1: |-
+      与某些人所想相反，亲缘选择并不要求动物具备区分亲属与非亲属的能力，更不要求计算亲缘系数。许多动物确实能识别亲属，往往凭气味，但亲缘选择也能在此类能力缺席时起作用。只要动物对*事实上*是其亲属的其他动物表现出利他行为，汉密尔顿不等式就能满足。动物*或许*通过具备区分亲属与非亲属的能力来做到这一点，但这并非唯一可能。另一种可能是使用某种亲缘的近端指标。例如，若动物对其近旁者表现出利他行为，那么鉴于亲属往往住在附近，利他的接受者很可能是亲属。这并不预设任何识别亲属的能力。杜鹃正是利用这一点，搭便车于鸟类照料巢中幼鸟的先天倾向。
+    step2: |-
+      与某些人所想相反，亲缘选择并不要求动物具备区分亲属与非亲属的能力，更不要求计算亲缘系数。许多动物确实能识别亲属，往往凭气味，但亲缘选择也能在此类能力缺席时起作用。只要动物对*事实上*是其亲属的其他动物表现出利他行为，汉密尔顿不等式就能满足。动物*或许*通过具备区分亲属与非亲属的能力来做到这一点，但这并非唯一可能。另一种可能是使用某种亲缘的近端指标。例如，若动物对其近旁者表现出利他行为，那么鉴于亲属往往住在附近，利他的接受者很可能是亲属。这并不预设任何识别亲属的能力。杜鹃正是利用这一点，搭便车于鸟类照料巢中幼鸟的先天倾向。
+  - id: 16
+    kind: body
+    source: |-
+      Another popular misconception is that kin selection theory is committed to ‘genetic determinism’, the idea that genes rigidly determine or control behaviour. Though some sociobiologists have made incautious remarks to this effect, evolutionary theories of behaviour, including kin selection, are not committed to it. So long as the behaviours in question have a genetical *component*, i.e. are influenced to some extent by one or more genetic factor, then the theories can apply. When Hamilton (1964) talks about a gene which ‘causes’ altruism, this is really shorthand for a gene which increases the probability that its bearer will behave altruistically, to some degree. This is much weaker than saying that the behaviour is genetically ‘determined’, and is quite compatible with the existence of strong environmental influences on the behaviour's expression. Kin selection theory does not deny the truism that all traits are affected by both genes and environment. Nor does it deny that many interesting animal behaviours are transmitted through non-genetical means, such as imitation and social learning (Avital and Jablonka 2000)[^avital-2000].
+    step1: |-
+      另一种流行误解是，亲缘选择理论承诺“遗传决定论”，即基因严格决定或控制行为。尽管一些社会生物学家曾就此说过不谨慎的话，但包括亲缘选择在内的行为演化理论并不承诺这一点。只要所讨论的行为具有遗传*成分*，即在某种程度上受一个或多个遗传因素影响，这些理论便可适用。当汉密尔顿（1964）谈到“引起”利他的基因时，这其实只是“在某种程度上增加其携带者表现出利他行为概率”的基因的简写。这比说行为由遗传“决定”弱得多，也完全相容于行为表现受强烈环境影响。亲缘选择理论并不否认一切性状都同时受基因与环境影响这一老生常谈；也不否认许多有趣的动物行为通过模仿与社会学习等非遗传方式传递（Avital and Jablonka 2000）[^avital-2000]。
+    step2: |-
+      另一种流行误解是，亲缘选择理论承诺“遗传决定论”，即基因严格决定或控制行为。尽管一些社会生物学家曾就此说过不谨慎的话，但包括亲缘选择在内的行为演化理论并不承诺这一点。只要所讨论的行为具有遗传*成分*，即在某种程度上受一个或多个遗传因素影响，这些理论便可适用。当汉密尔顿（1964）谈到“引起”利他的基因时，这其实只是“在某种程度上增加携带者表现出利他行为概率”的基因的简写。这比说行为由遗传“决定”弱得多，也完全相容于行为表现受强烈环境影响。亲缘选择理论并不否认一切性状都同时受基因与环境影响这一老生常谈；也不否认许多有趣的动物行为通过模仿与社会学习等非遗传方式传递（Avital and Jablonka 2000）[^avital-2000]。
+  - id: 17
+    kind: body
+    source: |-
+      The importance of kinship for the evolution of altruism is very widely accepted today, on both theoretical and empirical grounds. However, kinship is really only a way of ensuring that altruists and recipients both carry copies of the altruistic gene, which is the fundamental requirement. If altruism is to evolve, it must be the case that the recipients of altruistic actions have a greater than average probability of being altruists themselves. Kin-directed altruism is the most obvious way of satisfying this condition, but there are other possibilities too (Hamilton 1975, Sober and Wilson 1998, Bowles and Gintis 2011, Gardner and West 2011)[^bowles-2011][^hamilton-1975][^sober-1998]. For example, if the gene that causes altruism also causes animals to favour a particular feeding ground (for whatever reason), then the required correlation between donor and recipient may be generated. It is this correlation, however brought about, that is necessary for altruism to evolve. This point was noted by Hamilton himself in the 1970s: he stressed that the coefficient of relationship of his 1964 papers should really be replaced with a more general correlation coefficient, which reflects the probability that altruist and recipient share genes, whether because of kinship or not (Hamilton 1970, 1972, 1975)[^hamilton-1970]. This point is theoretically important, and has not always been recognized; but in practice, kinship remains the most important source of statistical associations between altruists and recipients (Maynard Smith 1998, Okasha 2002, West *et al*. 2007)[^maynard-1998][^okasha-2002][^west-2007].
+    step1: |-
+      亲缘关系对利他演化的重要性，今天在理论与经验两方面都得到广泛接受。然而，亲缘关系其实只是确保利他者与接受者都携带利他基因拷贝的一种方式，而后者才是根本要求。若利他要演化，利他行为的接受者成为利他者的概率就必须高于平均。亲缘导向的利他是满足这一条件最明显的方式，但也还有其他可能（Hamilton 1975, Sober and Wilson 1998, Bowles and Gintis 2011, Gardner and West 2011）[^bowles-2011][^hamilton-1975][^sober-1998]。例如，若引起利他的基因也（无论何故）使动物偏好某一特定觅食地，那么施予者与接受者之间所需的相关性就可能产生。正是这种相关性——无论由何产生——为利他演化所必需。汉密尔顿本人在 1970 年代指出了这一点：他强调，其 1964 年论文中的亲缘系数其实应替换为更一般的相关系数，以反映利他者与接受者共享基因的概率，无论是否因亲缘关系（Hamilton 1970, 1972, 1975）[^hamilton-1970]。这一点在理论上重要，却未被一贯认识；但在实践中，亲缘关系仍是利他者与接受者之间统计关联最重要的来源（Maynard Smith 1998, Okasha 2002, West *et al*. 2007）[^maynard-1998][^okasha-2002][^west-2007]。
+    step2: |-
+      亲缘关系对利他演化的重要性，今天在理论与经验两方面都得到广泛接受。然而，亲缘关系其实只是确保利他者与接受者都携带利他基因拷贝的一种方式，而后者才是根本要求。若利他要演化，利他行为接受者成为利他者的概率就必须高于平均。亲缘导向的利他是满足这一条件最明显的方式，但也还有其他可能（Hamilton 1975, Sober and Wilson 1998, Bowles and Gintis 2011, Gardner and West 2011）[^bowles-2011][^hamilton-1975][^sober-1998]。例如，若引起利他的基因也（无论何故）使动物偏好某一特定觅食地，那么施予者与接受者之间所需的相关性就可能产生。正是这种相关性——无论由何产生——为利他演化所必需。汉密尔顿本人在 1970 年代指出了这一点：他强调，其 1964 年论文中的亲缘系数其实应替换为更一般的相关系数，以反映利他者与接受者共享基因的概率，无论是否因亲缘关系（Hamilton 1970, 1972, 1975）[^hamilton-1970]。这一点在理论上重要，却未被一贯认识；但在实践中，亲缘关系仍是利他者与接受者之间统计关联最重要的来源（Maynard Smith 1998, Okasha 2002, West *et al*. 2007）[^maynard-1998][^okasha-2002][^west-2007]。
+  - id: 18
+    kind: body
+    source: |-
+      ### 2.1 A Simple Illustration: the Prisoner's dilemma
+    step1: |-
+      ### 2.1 一个简单例示：囚徒困境
+    step2: |-
+      ### 2.1 一个简单例示：囚徒困境
+  - id: 19
+    kind: body
+    source: |-
+      The fact that correlation between donor and recipient is the key to the evolution of altruism can be illustrated via a simple ‘one shot’ Prisoner's dilemma game. Consider a large population of organisms who engage in a social interaction in pairs; the interaction affects their biological fitness. Organisms are of two types: selfish (S) and altruistic (A). The latter engage in pro-social behaviour, thus benefiting their partner but at a cost to themselves; the former do not. So in a mixed (S,A) pair, the selfish organism does better—he benefits from his partner's altruism without incurring any cost. However, (A,A) pairs do better than (S,S) pairs—for the former work as a co-operative unit, while the latter do not. The interaction thus has the form of a one-shot Prisoner's dilemma, familiar from game theory. Illustrative payoff values to each ‘player’, i.e., each partner in the interaction, measured in units of biological fitness, are shown in the matrix below.
+    step1: |-
+      施予者与接受者之间的相关性是利他演化之关键，这一事实可以通过一个简单的“单次”囚徒困境博弈来例示。设想一大群两两进行社会互动的生物，互动影响其生物适合度。生物有两类：自私型（S）与利他型（A）。后者从事亲社会行为，从而有利于其伙伴，却自身付出代价；前者则不。于是在混合（S,A）配对中，自私型表现更好——他受益于伙伴的利他，却不承担任何代价。然而，（A,A）配对优于（S,S）配对——因为前者作为合作单元运作，后者则不然。互动因此具有博弈论中熟悉的单次囚徒困境形式。每一“玩家”（即互动中的每一伙伴）的示例收益值，以生物适合度单位衡量，见下表。
+    step2: |-
+      施予者与接受者之间的相关性是利他演化之关键，这一事实可以通过一个简单的“单次”囚徒困境博弈来例示。设想一大群两两进行社会互动的生物，互动影响其生物适合度。生物有两类：自私型（S）与利他型（A）。后者从事亲社会行为，从而有利于伙伴，却自身付出代价；前者则不。于是在混合（S,A）配对中，自私型表现更好——他受益于伙伴的利他，却不承担任何代价。然而，（A,A）配对优于（S,S）配对——前者作为合作单元运作，后者则不然。互动因此具有博弈论中熟悉的单次囚徒困境形式。每一“玩家”（即互动中的每一伙伴）的示例收益值，以生物适合度单位衡量，见下表。
+  - id: 20
+    kind: body
+    source: |-
+      > |   |   | **Player 2** |   |
+      > | --- | --- | --- | --- |
+      > |   |   | Altruist | Selfish |
+      > | **Player 1** | Altruist | 11,11 | 0,20 |
+      > | Selfish | 20,0 | 5,5 |   |
+      >
+      > **Payoffs for (Player 1, Player 2) in units of reproductive fitness**
+    step1: |-
+      > |   |   | **玩家 2** |   |
+      > | --- | --- | --- | --- |
+      > |   |   | 利他者 | 自私者 |
+      > | **玩家 1** | 利他者 | 11,11 | 0,20 |
+      > | 自私者 | 20,0 | 5,5 |   |
+      >
+      > **（玩家 1，玩家 2）的收益，单位：繁殖适合度**
+    step2: |-
+      > |   |   | **玩家 2** |   |
+      > | --- | --- | --- | --- |
+      > |   |   | 利他者 | 自私者 |
+      > | **玩家 1** | 利他者 | 11,11 | 0,20 |
+      > | 自私者 | 20,0 | 5,5 |   |
+      >
+      > **（玩家 1，玩家 2）的收益，单位：繁殖适合度**
+  - id: 21
+    kind: body
+    source: |-
+      The question we are interested in is: which type will be favoured by selection? To make the analysis tractable, we make two simplifying assumptions: that reproduction is asexual, and that type is perfectly inherited, i.e., selfish (altruistic) organisms give rise to selfish (altruistic) offspring. Modulo these assumptions, the evolutionary dynamics can be determined very easily, simply by seeing whether the *S* or the *A* type has higher fitness, in the overall population. The fitness of the *S* type, *W*(*S*), is the weighted average of the payoff to an *S* when partnered with an *S* and the payoff to an *S* when partnered with an *A*, where the weights are determined by the probability of having the partner in question. Therefore,
+    step1: |-
+      我们关心的问题是：哪一类型将受选择偏爱？为使分析可行，我们作两个简化假定：繁殖是无性的，且类型完全遗传，即自私（利他）生物产生自私（利他）后代。在这些假定下，演化动力学很容易确定，只需看整个种群中 *S* 型还是 *A* 型适合度更高。*S* 型的适合度 *W*(*S*)，是 *S* 与 *S* 配对时 *S* 的收益、与 *S* 与 *A* 配对时 *S* 的收益的加权平均，权重由拥有相应伙伴的概率决定。因此，
+    step2: |-
+      我们关心的问题是：哪一类型将受选择偏爱？为使分析可行，我们作两个简化假定：繁殖是无性的，且类型完全遗传，即自私（利他）生物产生自私（利他）后代。在这些假定下，演化动力学很容易确定，只需看整个种群中 *S* 型还是 *A* 型适合度更高。*S* 型的适合度 *W*(*S*)，是 *S* 与 *S* 配对时 *S* 的收益、与 *S* 与 *A* 配对时 *S* 的收益的加权平均，权重由拥有相应伙伴的概率决定。因此，
+  - id: 22
+    kind: body
+    source: |-
+      > *W*(*S*) = 5 * Prob(*S* partner/*S*) + 20 * Prob(*A* partner/*S*)
+    step1: |-
+      > *W*(*S*) = 5 * Prob(*S* partner/*S*) + 20 * Prob(*A* partner/*S*)
+    step2: |-
+      > *W*(*S*) = 5 * Prob(*S* partner/*S*) + 20 * Prob(*A* partner/*S*)
+  - id: 23
+    kind: body
+    source: |-
+      (The conditional probabilities in the above expression should be read as the probability of having a selfish (altruistic) partner, given that one is selfish oneself.)
+    step1: |-
+      （上述表达式中的条件概率，应读作：在自身为自私型的前提下，拥有自私（利他）伙伴的概率。）
+    step2: |-
+      （上述表达式中的条件概率，应读作：在自身为自私型的前提下，拥有自私（利他）伙伴的概率。）
+  - id: 24
+    kind: body
+    source: |-
+      Similarly, the fitness of the *A* type is:
+    step1: |-
+      类似地，*A* 型的适合度为：
+    step2: |-
+      类似地，*A* 型的适合度为：
+  - id: 25
+    kind: body
+    source: |-
+      > *W*(*A*) = 0 * Prob(*S* partner/*A*) + 11 * Prob(*A* partner/*A*)
+    step1: |-
+      > *W*(*A*) = 0 * Prob(*S* partner/*A*) + 11 * Prob(*A* partner/*A*)
+    step2: |-
+      > *W*(*A*) = 0 * Prob(*S* partner/*A*) + 11 * Prob(*A* partner/*A*)
+  - id: 26
+    kind: body
+    source: |-
+      From these expressions for the fitnesses of the two types of organism, we can immediately deduce that the altruistic type will only be favoured by selection if there is a statistical correlation between partners, i.e., if altruists have greater than random chance of being paired with other altruists, and similarly for selfish types. For suppose there is no such correlation—as would be the case if the pairs were formed by random sampling from the population. Then, the probability of having a selfish partner would be the same for both *S* and *A* types, i.e., P(*S* partner/*S*) = P(*S* partner/*A*). Similarly, P(*A* partner/*S*) = P(*A* partner/*A*). From these probabilistic equalities, it follows immediately that *W*(*S*) is greater than *W*(*A*), as can be seen from the expressions for *W*(*S*) and *W*(*A*) above; so the selfish type will be favoured by natural selection, and will increase in frequency every generation until all the altruists are eliminated from the population. Therefore, in the absence of correlation between partners, selfishness must win out (cf. Skyrms 1996)[^skyrms-1996]. This confirms the point noted in section 2—that altruism can only evolve if there is a statistical tendency for the beneficiaries of altruistic actions to be altruists themselves.
+    step1: |-
+      由这两类生物适合度的表达式，我们可以立即推出：只有当伙伴之间存在统计相关时，即利他者与其他利他者配对的概率高于随机、自私型亦然时，利他型才会受选择偏爱。因为假定没有这种相关——若配对由种群随机抽样形成便是如此。那么，拥有自私伙伴的概率对 *S* 型与 *A* 型相同，即 P(*S* partner/*S*) = P(*S* partner/*A*)。类似地，P(*A* partner/*S*) = P(*A* partner/*A*)。由这些概率等式立即推出 *W*(*S*) 大于 *W*(*A*)（从上面 *W*(*S*) 与 *W*(*A*) 的表达式可见）；于是自私型将受自然选择偏爱，并在每一代增加频率，直到利他者全部从种群中消失。因此，在伙伴间无相关的情况下，自私必定胜出（参 Skyrms 1996）[^skyrms-1996]。这证实了第 2 节指出的要点：只有当利他行为的受益者本身倾向于成为利他者时，利他才可能演化。
+    step2: |-
+      由这两类生物适合度的表达式，可以立即推出：只有当伙伴之间存在统计相关时，即利他者与其他利他者配对的概率高于随机、自私型亦然时，利他型才会受选择偏爱。因为假定没有这种相关——若配对由种群随机抽样形成便是如此。那么，拥有自私伙伴的概率对 *S* 型与 *A* 型相同，即 P(*S* partner/*S*) = P(*S* partner/*A*)；类似地，P(*A* partner/*S*) = P(*A* partner/*A*)。由这些概率等式立即推出 *W*(*S*) 大于 *W*(*A*)（从上面 *W*(*S*) 与 *W*(*A*) 的表达式可见）；于是自私型将受自然选择偏爱，并在每一代增加频率，直到利他者全部从种群中消失。因此，在伙伴间无相关的情况下，自私必定胜出（参 Skyrms 1996）[^skyrms-1996]。这证实了第 2 节指出的要点：只有当利他行为的受益者本身倾向于成为利他者时，利他才可能演化。
+  - id: 27
+    kind: body
+    source: |-
+      If the correlation between partners is sufficiently strong, in this simple model, then it is possible for the condition *W*(*A*) > *W*(*S*) to be satisfied, and thus for altruism to evolve. The easiest way to see this is to suppose that the correlation is perfect, i.e., selfish types are always paired with other selfish types, and ditto for altruists, so P(*S* partner/*S*) = P(*A* partner/*A*) = 1. This assumption implies that *W*(*A*)=11 and *W*(*S*)=5, so altruism evolves. With intermediate degrees of correlation, it is also possible for the condition *W*(*S*) > *W*(*A*) to be satisfied, given the particular choice of payoff values in the model above.
+    step1: |-
+      在这个简单模型中，若伙伴间的相关足够强，条件 *W*(*A*) > *W*(*S*) 就可能满足，从而利他得以演化。最容易看出这一点的方式，是假定相关完全，即自私型总是与自私型配对，利他型亦然，于是 P(*S* partner/*S*) = P(*A* partner/*A*) = 1。这一假定蕴含 *W*(*A*)=11 且 *W*(*S*)=5，于是利他演化。在中等程度的相关下，给定上述模型中的特定收益值，条件 *W*(*S*) > *W*(*A*) 也可能满足。
+    step2: |-
+      在这个简单模型中，若伙伴间的相关足够强，条件 *W*(*A*) > *W*(*S*) 就可能满足，从而利他得以演化。最容易看出这一点的方式，是假定相关完全，即自私型总是与自私型配对，利他型亦然，于是 P(*S* partner/*S*) = P(*A* partner/*A*) = 1。这一假定蕴含 *W*(*A*)=11 且 *W*(*S*)=5，于是利他演化。在中等程度的相关下，给定上述模型的特定收益值，条件 *W*(*S*) > *W*(*A*) 也可能满足。
+  - id: 28
+    kind: body
+    source: |-
+      This simple model also highlights the point made previously, that donor-recipient correlation, rather than genetic relatedness, is the key to the evolution of altruism. What is needed for altruism to evolve, in the model above, is for the probability of having a partner of the same type as oneself to be sufficiently larger than the probability of having a partner of opposite type; this ensures that the recipients of altruism have a greater than random chance of being fellow altruists, i.e., donor-recipient correlation. Whether this correlation arises because partners tend to be relatives, or because altruists are able to seek out other altruists and choose them as partners, or for some other reason, makes no difference to the evolutionary dynamics, at least in this simple example.
+    step1: |-
+      这个简单模型也凸显了先前提出的要点：施予者—接受者相关，而非遗传亲缘关系，才是利他演化的关键。在上述模型中，利他要演化，所需的是：拥有与自身同类型伙伴的概率，显著大于拥有相反类型伙伴的概率；这确保利他的接受者成为同为利他者的概率高于随机，即施予者—接受者相关。这种相关究竟源于伙伴往往是亲属，还是源于利他者能找到其他利他者并选其为伙伴，抑或源于其他原因，至少在这个简单例子中，对演化动力学没有差别。
+    step2: |-
+      这个简单模型也凸显了先前提出的要点：施予者—接受者相关，而非遗传亲缘关系，才是利他演化的关键。在上述模型中，利他要演化，所需的是：拥有与自身同类型伙伴的概率，显著大于拥有相反类型伙伴的概率；这确保利他的接受者成为同为利他者的概率高于随机，即施予者—接受者相关。这种相关究竟源于伙伴往往是亲属，还是源于利他者能找到其他利他者并选其为伙伴，抑或源于其他原因，至少在这个简单例子中，对演化动力学没有差别。
+  - id: 29
+    kind: body
+    source: |-
+      ## 3. Conceptual Issues
+    step1: |-
+      ## 3 概念问题
+    step2: |-
+      ## 3 概念问题
+  - id: 30
+    kind: body
+    source: |-
+      Altruism is a well understood topic in evolutionary biology; the theoretical ideas explained above have been extensively analysed, empirically confirmed, and are widely accepted. Nonetheless, there are a number of conceptual ambiguities surrounding altruism and related concepts in the literature; some of these are purely semantic, others are more substantive. Three such ambiguities are briefly discussed below; for further discussion, see West *et al*. 2007, Sachs *et al*. 2004 or Lehmann and Keller 2006.
+    step1: |-
+      利他在演化生物学中是一个理解得相当透彻的主题；上述理论想法已得到广泛分析、经验证实并被普遍接受。尽管如此，文献中围绕利他及相关概念仍有若干概念歧义；有些纯属语义问题，另一些则更具实质意义。下面简要讨论三种歧义；进一步讨论见 West *et al*. 2007、Sachs *et al*. 2004 或 Lehmann and Keller 2006。
+    step2: |-
+      利他在演化生物学中是一个理解得相当透彻的主题；上述理论想法已得到广泛分析、经验证实并被普遍接受。尽管如此，文献中围绕利他及相关概念仍有若干概念歧义；有些纯属语义问题，另一些则更具实质意义。下面简要讨论三种歧义；进一步讨论见 West *et al*. 2007、Sachs *et al*. 2004 或 Lehmann and Keller 2006。
+  - id: 31
+    kind: body
+    source: |-
+      ### 3.1 Altruism, Co-operation, Mutualism
+    step1: |-
+      ### 3.1 利他、合作、互利共生
+    step2: |-
+      ### 3.1 利他、合作、互利共生
+  - id: 32
+    kind: body
+    source: |-
+      According to the standard definition, a social behaviour counts as altruistic if it reduces the fitness of the organism performing the behaviour, but boosts the fitness of others. This was the definition used by Hamilton (1964), and by many subsequent authors. However, there is less consensus on how to describe behaviours that boost the fitness of others but also boost the fitness of the organism performing the behaviour. As West *et al*. (2007) note, such behaviours are sometimes termed ‘co-operative’, but this usage is not universal; others use ‘co-operation’ to refer to behaviour that boosts the fitness of others irrespective of its effect on self; while still others use ‘cooperation’ as a synonym for altruism. (Indeed, in the simple Prisoner's dilemma game above, the two strategies are usually called ‘co-operate’ and ‘defect’.) To avoid this confusion, West *et al*. (2007) suggest the term ‘mutual benefit’ for behaviours that benefit both self and other, while Sachs *et al*. (2004) suggest ‘byproduct benefit’.
+    step1: |-
+      按照标准定义，若一种社会行为降低行为者的适合度，却提升他人的适合度，就算利他。这是汉密尔顿（1964）以及许多后续作者所用的定义。然而，对于既提升他人适合度、又提升行为者自身适合度的行为该如何描述，共识较少。正如 West *et al*.（2007）所指出的，这类行为有时被称为“合作的”，但这一用法并不普遍；另一些人用“合作”指提升他人适合度的行为，不论对自身有何效果；还有人把“合作”用作利他的同义词。（事实上，在上述简单囚徒困境博弈中，两种策略通常就称为“合作”与“背叛”。）为避免混乱，West *et al*.（2007）建议用“互利”一词指既利己又利他的行为，而 Sachs *et al*.（2004）建议用“副产品收益”。
+    step2: |-
+      按照标准定义，若一种社会行为降低行为者适合度，却提升他人适合度，就算利他。这是汉密尔顿（1964）以及许多后续作者所用的定义。然而，对于既提升他人适合度、又提升行为者自身适合度的行为该如何描述，共识较少。正如 West *et al*.（2007）所指出的，这类行为有时被称为“合作的”，但这一用法并不普遍；另一些人用“合作”指提升他人适合度的行为，不论对自身有何效果；还有人把“合作”用作利他的同义词。（事实上，在上述简单囚徒困境博弈中，两种策略通常就称为“合作”与“背叛”。）为避免混乱，West *et al*.（2007）建议用“互利”一词指既利己又利他的行为，而 Sachs *et al*.（2004）建议用“副产品收益”。
+  - id: 33
+    kind: body
+    source: |-
+      Whatever term is used, the important point is that behaviours that benefit both self and others can evolve much more easily than altruistic behaviours, and thus require no special mechanisms such as kinship. The reason is clear: organisms performing such behaviours thereby increase their personal fitness, so are at a selective advantage vis-a-vis those not performing the behaviour. The fact that the behaviour has a beneficial effect on the fitness of others is a mere side-effect, or byproduct, and is not part of the explanation for why the behaviour evolves. For example, Sachs *et al*. (2004) note that an action such as joining a herd or a flock may be of this sort; the individual gains directly, via his reduced risk of predation, while simultaneously reducing the predation risk of other individuals. By contrast with an altruistic action, there is no personal incentive to ‘cheat’, i.e., to refrain from performing the action, for doing so would directly reduce personal fitness.
+    step1: |-
+      无论用哪个词，重要之处在于：既利己又利他的行为比利他行为容易演化得多，因而不需要亲缘关系之类特殊机制。原因很清楚：表现出这类行为的生物从而增加自身个人适合度，相对于不表现该行为者处于选择优势。该行为对他人适合度产生有利效果，只是副作用或副产品，并不参与解释该行为为何演化。例如，Sachs *et al*.（2004）指出，加入兽群或鸟群之类行动可能属于此类：个体通过降低自身被捕食风险直接获益，同时降低其他个体的被捕食风险。与利他行为相反，这里没有“作弊”（即不表现该行为）的个人激励，因为那样做会直接降低个人适合度。
+    step2: |-
+      无论用哪个词，重要之处在于：既利己又利他的行为比利他行为容易演化得多，因而不需要亲缘关系之类特殊机制。原因很清楚：表现出这类行为的生物从而增加自身个人适合度，相对于不表现该行为者处于选择优势。该行为对他人适合度产生有利效果，只是副作用或副产品，并不参与解释该行为为何演化。例如，Sachs *et al*.（2004）指出，加入兽群或鸟群之类行动可能属于此类：个体通过降低自身被捕食风险直接获益，同时降低其他个体的被捕食风险。与利他行为相反，这里没有“作弊”（即不表现该行为）的个人激励，因为那样做会直接降低个人适合度。
+  - id: 34
+    kind: body
+    source: |-
+      Also indicative of the difference between altruistic behaviour and behaviour that benefit both self and others is the fact that in the latter case, though not the former, the beneficiary may be a member of a different species, without altering the evolutionary dynamics of the behaviour. Indeed, there are numerous examples where the self-interested activities of one organism produce an incidental benefit for a non-conspecific; such behaviours are sometimes called ‘mutualistic’, though again, this is not the only way that the latter term has been used (West *et al*. 2007)[^west-2007]. By contrast, in the case of altruism, it makes an enormous difference whether the beneficiary and the donor are con-specifics or not; for if not, then kin selection can play no role, and it is quite unclear how the altruistic behaviour can evolve. Unsurprisingly, virtually all the bona fide examples of biological altruism in the living world involve donors and recipients that are con-specifics. (Cases of so-called ‘reciprocal altruism’ are sometimes thought to be exceptions to this generalization; but see section 4 below.)
+    step1: |-
+      利他行为与既利己又利他行为之别的另一标志是：在后一类情形（而非前一类）中，受益者可以属于不同物种，而不改变该行为的演化动力学。事实上，有无数例子表明，一个生物的自利活动会给非同类带来附带好处；这类行为有时称为“互利共生的”，不过该词也并非只有这一种用法（West *et al*. 2007）[^west-2007]。相反，在利他情形中，受益者与施予者是否同种差别巨大；因为若不同种，亲缘选择便无法起作用，而利他行为如何演化也就很不清楚。不出所料，现存世界中几乎所有真正的生物学利他实例，都涉及同种的施予者与接受者。（所谓“互惠利他”的情形有时被视为这一概括的例外；但见下文第 4 节。）
+    step2: |-
+      利他行为与既利己又利他行为之别的另一标志是：在后一类情形（而非前一类）中，受益者可以属于不同物种，而不改变该行为的演化动力学。事实上，有无数例子表明，一个生物的自利活动会给非同类带来附带好处；这类行为有时称为“互利共生的”，不过该词也并非只有这一种用法（West *et al*. 2007）[^west-2007]。相反，在利他情形中，受益者与施予者是否同种差别巨大；因为若不同种，亲缘选择便无法起作用，而利他行为如何演化也就很不清楚。不出所料，现存世界中几乎所有真正的生物学利他实例，都涉及同种的施予者与接受者。（所谓“互惠利他”的情形有时被视为这一概括的例外；但见下文第 4 节。）
+  - id: 35
+    kind: body
+    source: |-
+      ### 3.2 Weak and Strong Altruism
+    step1: |-
+      ### 3.2 弱利他与强利他
+    step2: |-
+      ### 3.2 弱利他与强利他
+  - id: 36
+    kind: body
+    source: |-
+      A quite different ambiguity concerns the distinction between weak and strong altruism, in the terminology of D.S. Wilson (1977, 1980, 1990). This distinction is about whether the altruistic action entails an absolute or relative fitness reduction for the donor. To count as strongly altruistic, a behaviour must reduce the *absolute* fitness (i.e., number of offspring) of the donor. Strong altruism is the standard notion of altruism in the literature, and was assumed above. To count as weakly altruistic, an action need only reduce the *relative* fitness of the donor, i.e., its fitness relative to that of the recipient. Thus for example, an action which causes an organism to leave an additional 10 offspring, but causes each organism(s) with which it interacts to leave an additional 20 offspring, is weakly but not strongly altruistic. The action boosts the absolute fitness of the ‘donor’, but boosts the absolute fitness of other organisms by even more, thus reducing the donor's relative fitness.
+    step1: |-
+      另一种颇为不同的歧义，涉及 D. S. 威尔逊（1977, 1980, 1990）术语中弱利他与强利他的区分。这一区分关乎利他行动是否给施予者带来绝对还是相对的适合度下降。要算强利他，行为必须降低施予者的*绝对*适合度（即后代数）。强利他是文献中的标准利他概念，上文假定的也是它。要算弱利他，行动只需降低施予者的*相对*适合度，即相对于接受者适合度的适合度。例如，一个行动使某生物多留下 10 个后代，却使与其互动的每一生物多留下 20 个后代，那就是弱利他而非强利他。该行动提升了“施予者”的绝对适合度，却以更大程度提升其他生物的绝对适合度，从而降低施予者的相对适合度。
+    step2: |-
+      另一种颇为不同的歧义，涉及 D. S. 威尔逊（1977, 1980, 1990）术语中弱利他与强利他的区分。这一区分关乎利他行动是否给施予者带来绝对还是相对的适合度下降。要算强利他，行为必须降低施予者的*绝对*适合度（即后代数）。强利他是文献中的标准利他概念，上文假定的也是它。要算弱利他，行动只需降低施予者的*相对*适合度，即相对于接受者适合度的适合度。例如，一个行动使某生物多留下 10 个后代，却使与其互动的每一生物多留下 20 个后代，那就是弱利他而非强利他。该行动提升了“施予者”的绝对适合度，却以更大程度提升其他生物的绝对适合度，从而降低施予者的相对适合度。
+  - id: 37
+    kind: body
+    source: |-
+      Should weakly altruistic behaviours be classified as altruistic or selfish? This question is not merely semantic; for the real issue is whether the conditions under which weak altruism can evolve are relevantly similar to the conditions under which strong altruism can evolve, or not. Many authors argue that the answer is ‘no’, on the grounds that weakly altruistic behaviours are individually advantageous, so can evolve with no component of kin selection or donor-recipient correlation, unlike strongly altruistic behaviours (Grafen 1984, Nunney 1985, West *et al*. 2007)[^grafen-1984][^nunney-1985][^west-2007]. To appreciate this argument, consider a game-theoretic scenario similar to the one-shot Prisoner's dilemma of section 4, in which organisms engage in a pair-wise interaction that affects their fitness. Organisms are of two types, weakly altruistic (*W*) and non-altruistic (*N*). *W*-types perform an action that boosts their own fitness by 10 units and the fitness of their partner by 20 units; *N*-types do not perform the action. The payoff matrix is thus:
+    step1: |-
+      弱利他行为应被归为利他还是自私？这个问题不只是语义问题；真正的问题在于，弱利他得以演化的条件是否与强利他得以演化的条件在相关方面相似。许多作者认为答案是“否”，理由是弱利他行为对个体有利，因此无需亲缘选择或施予者—接受者相关成分即可演化，与强利他行为不同（Grafen 1984, Nunney 1985, West *et al*. 2007）[^grafen-1984][^nunney-1985][^west-2007]。要领会这一论证，设想一个类似第 4 节单次囚徒困境的博弈论场景，其中生物两两互动，互动影响其适合度。生物有两类：弱利他型（*W*）与非利他型（*N*）。*W* 型表现一种行动，使自身适合度增加 10 单位，使伙伴适合度增加 20 单位；*N* 型不表现该行动。收益矩阵如下：
+    step2: |-
+      弱利他行为应被归为利他还是自私？这个问题不只是语义问题；真正的问题在于，弱利他得以演化的条件是否与强利他得以演化的条件在相关方面相似。许多作者认为答案是“否”，理由是弱利他行为对个体有利，因此无需亲缘选择或施予者—接受者相关成分即可演化，与强利他行为不同（Grafen 1984, Nunney 1985, West *et al*. 2007）[^grafen-1984][^nunney-1985][^west-2007]。要领会这一论证，设想一个类似第 4 节单次囚徒困境的博弈论场景，其中生物两两互动，互动影响其适合度。生物有两类：弱利他型（*W*）与非利他型（*N*）。*W* 型表现一种行动，使自身适合度增加 10 单位，使伙伴适合度增加 20 单位；*N* 型不表现该行动。收益矩阵如下：
+  - id: 38
+    kind: body
+    source: |-
+      > |   |   | **Player 2** |   |
+      > | --- | --- | --- | --- |
+      > |   |   | Weak Altruist | Non |
+      > | **Player 1** | Weak Altruist | 30,30 | 10,20 |
+      > | Non | 20,10 | 0,0 |   |
+      >
+      > **Payoffs for (Player 1, Player 2) in units of reproductive fitness**
+    step1: |-
+      > |   |   | **玩家 2** |   |
+      > | --- | --- | --- | --- |
+      > |   |   | 弱利他者 | 非利他者 |
+      > | **玩家 1** | 弱利他者 | 30,30 | 10,20 |
+      > | 非利他者 | 20,10 | 0,0 |   |
+      >
+      > **（玩家 1，玩家 2）的收益，单位：繁殖适合度**
+    step2: |-
+      > |   |   | **玩家 2** |   |
+      > | --- | --- | --- | --- |
+      > |   |   | 弱利他者 | 非利他者 |
+      > | **玩家 1** | 弱利他者 | 30,30 | 10,20 |
+      > | 非利他者 | 20,10 | 0,0 |   |
+      >
+      > **（玩家 1，玩家 2）的收益，单位：繁殖适合度**
+  - id: 39
+    kind: body
+    source: |-
+      The payoff matrix highlights the fact that weak altruism is individually advantageous, and thus the oddity of thinking of it it as altruistic rather than selfish. To see this, assume for a moment that the game is being played by two rational agents, as in classical game theory. Clearly, the rational strategy for each individual is *W*, for *W* dominates *N*. Each individual gets a higher payoff from playing *W* than *N*, *irrespective of what its opponent does*—30 rather than 20 if the opponent plays *W*, 10 rather than 0 if the opponent plays *N*. This captures a clear sense in which weak altruism is individually advantageous.
+    step1: |-
+      收益矩阵凸显了弱利他对个体有利这一事实，因而也凸显了把它看作利他而非自私的古怪。要看清这一点，暂且假定博弈由两个理性行动者进行，如古典博弈论中那样。显然，每个个体的理性策略是 *W*，因为 *W* 支配 *N*。每个个体从 *W* 得到的收益都高于 *N*，*无论对手怎么做*——若对手做 *W*，是 30 而非 20；若对手做 *N*，是 10 而非 0。这捕捉到弱利他对个体有利的明确意义。
+    step2: |-
+      收益矩阵凸显了弱利他对个体有利这一事实，因而也凸显了把它看作利他而非自私的古怪。要看清这一点，暂且假定博弈由两个理性行动者进行，如古典博弈论中那样。显然，每个个体的理性策略是 *W*，因为 *W* 支配 *N*。每个个体从 *W* 得到的收益都高于 *N*，*无论对手怎么做*——若对手做 *W*，是 30 而非 20；若对手做 *N*，是 10 而非 0。这捕捉到弱利他对个体有利的明确意义。
+  - id: 40
+    kind: body
+    source: |-
+      In the context of evolutionary game theory, where the game is being played by pairs of organisms with hard-wired strategies, the counterpart of the fact that *W* dominates *N* is the fact that *W* can spread in the population even if pairs are formed at random (cf. Wilson 1980)[^wilson-1980]. To see this, consider the expressions for the overall population-wide fitnesses of *W* and *N*:
+    step1: |-
+      在演化博弈论语境中，博弈由具有硬连策略的生物两两进行；*W* 支配 *N* 这一事实的对应物是：即便配对随机形成，*W* 也能在种群中扩散（参 Wilson 1980）[^wilson-1980]。要看清这一点，考虑 *W* 与 *N* 在整个种群范围内的适合度表达式：
+    step2: |-
+      在演化博弈论语境中，博弈由具有硬连策略的生物两两进行；*W* 支配 *N* 这一事实的对应物是：即便配对随机形成，*W* 也能在种群中扩散（参 Wilson 1980）[^wilson-1980]。要看清这一点，考虑 *W* 与 *N* 在整个种群范围内的适合度表达式：
+  - id: 41
+    kind: body
+    source: |-
+      > *W*(*W*) = 30 * Prob(*W* partner/*W*) + 10 * Prob(*N* partner/*W*)
+      >
+      > *W*(*N*) = 20 * Prob(*W* partner/*N*) + 0 * Prob(*N* partner/*N*)
+    step1: |-
+      > *W*(*W*) = 30 * Prob(*W* partner/*W*) + 10 * Prob(*N* partner/*W*)
+      >
+      > *W*(*N*) = 20 * Prob(*W* partner/*N*) + 0 * Prob(*N* partner/*N*)
+    step2: |-
+      > *W*(*W*) = 30 * Prob(*W* partner/*W*) + 10 * Prob(*N* partner/*W*)
+      >
+      > *W*(*N*) = 20 * Prob(*W* partner/*N*) + 0 * Prob(*N* partner/*N*)
+  - id: 42
+    kind: body
+    source: |-
+      (As before, Prob(*W* partner/*W*) denotes the conditional probability of having a weakly altruistic partner given that one is weakly altruistic oneself, and so-on.) From these expressions, it is easy to see that *W*(*W*) > *W*(*N*) even if the there is no correlation among partners, i.e., even if Prob(*W* partner/*W*) = P(*W* partner/*N*) and P(*N* partner/*W*) = P(*N* partner/*N*). Therefore, weak altruism can evolve in the absence of donor-recipient correlation; as we saw, this is not true of strong altruism. So weak and strong altruism evolve by different evolutionary mechanisms, hence should not be co-classified, according to this argument.
+    step1: |-
+      （如前，Prob(*W* partner/*W*) 表示在自身为弱利他型的前提下拥有弱利他伙伴的条件概率，等等。）由这些表达式容易看出，即便伙伴间没有相关，即即便 Prob(*W* partner/*W*) = P(*W* partner/*N*) 且 P(*N* partner/*W*) = P(*N* partner/*N*)，仍有 *W*(*W*) > *W*(*N*)。因此，弱利他可以在施予者—接受者相关缺席时演化；如我们所见，强利他则不然。所以按这一论证，弱利他与强利他通过不同演化机制演化，因而不应被归为一类。
+    step2: |-
+      （如前，Prob(*W* partner/*W*) 表示在自身为弱利他型的前提下拥有弱利他伙伴的条件概率，等等。）由这些表达式容易看出：即便伙伴间没有相关，即即便 Prob(*W* partner/*W*) = P(*W* partner/*N*) 且 P(*N* partner/*W*) = P(*N* partner/*N*)，仍有 *W*(*W*) > *W*(*N*)。因此，弱利他可以在施予者—接受者相关缺席时演化；如我们所见，强利他则不然。所以按这一论证，弱利他与强利他通过不同演化机制演化，因而不应被归为一类。
+  - id: 43
+    kind: body
+    source: |-
+      However, there is a counter argument due to D.S. Wilson (1977, 1980), who maintains that weak altruism cannot evolve by individual selection alone; a component of group selection is needed. Wilson's argument stems from the fact that in a mixed (*W*,*N*) pair, the non-altruist is fitter than the weak altruist. More generally, within a single group of any size containing weak altruists and non-altruists, the latter will be fitter. So weak altruism can only evolve, Wilson argues, in a multi-group setting—in which the within-group selection in favour of *N*, is counteracted by between-group selection in favour of *W*. (On Wilson's view, the evolutionary game described above is a multi-group setting, involving a large number of groups of size two.) Thus weak altruism, like strong altruism, in fact evolves because it is group-advantageous, Wilson argues.
+    step1: |-
+      然而，D. S. 威尔逊（1977, 1980）提出了一个反论证：他坚持弱利他不能仅靠个体选择演化；还需要群体选择成分。威尔逊的论证源于这一事实：在混合（*W*,*N*）配对中，非利他者比弱利他者更适合。更一般地说，在任何大小的单一群体内，若同时包含弱利他者与非利他者，后者将更适合。因此威尔逊论证，弱利他只能在多群体环境中演化——在其中，群体内有利于 *N* 的选择，被群体间有利于 *W* 的选择所抵消。（在威尔逊看来，上述演化博弈就是多群体环境，涉及大量规模为二的群体。）于是威尔逊论证，弱利他与强利他一样，其实因其对群体有利而演化。
+    step2: |-
+      然而，D. S. 威尔逊（1977, 1980）提出了一个反论证：他坚持弱利他不能仅靠个体选择演化；还需要群体选择成分。威尔逊的论证源于这一事实：在混合（*W*,*N*）配对中，非利他者比弱利他者更适合。更一般地说，在任何大小的单一群体内，若同时包含弱利他者与非利他者，后者将更适合。因此威尔逊论证，弱利他只能在多群体环境中演化——在其中，群体内有利于 *N* 的选择，被群体间有利于 *W* 的选择所抵消。（在威尔逊看来，上述演化博弈就是多群体环境，涉及大量规模为二的群体。）于是威尔逊论证，弱利他与强利他一样，其实因其对群体有利而演化。
+  - id: 44
+    kind: body
+    source: |-
+      The dispute between those who regard weak altruism as individually advantageous, and those like Wilson who regard it as group advantageous, stems ultimately from differing conceptions of individual and group selection. For Wilson, individual selection means within-group selection, so to determine which strategy is favoured by individual selection, one must compare the fitnesses of *W* and *N* types within a group, or pair. For other theorists, individual selection means selection based on differences in individual phenotype, rather than social context; so to determine which strategy is favoured by individual selection, one must compare the fitnesses of *W* and *N* types in the same social context, i.e., with the same partner. These two comparisons yield different answers to the question of whether weak altruism is individually advantageous. Thus the debate over how to classify weak altruism is intimately connected to the broader levels of selection question; see Nunney 1985, Okasha 2005, 2006, Fletcher and Doebeli 2006, West *et al*. 2007, for further discussion.
+    step1: |-
+      把弱利他视为对个体有利者，与威尔逊等视为对群体有利者之间的争论，最终源于对个体选择与群体选择的不同理解。对威尔逊而言，个体选择意味着群体内选择，因此要确定个体选择偏爱哪种策略，必须比较群体或配对内 *W* 型与 *N* 型的适合度。对其他理论家而言，个体选择意味着基于个体表型差异（而非社会语境）的选择；因此要确定个体选择偏爱哪种策略，必须比较同一社会语境（即同一伙伴）下 *W* 型与 *N* 型的适合度。这两种比较对弱利他是否对个体有利给出不同答案。于是，如何归类弱利他的争论，与更广泛的选择层次问题密切相关；进一步讨论见 Nunney 1985、Okasha 2005, 2006、Fletcher and Doebeli 2006、West *et al*. 2007。
+    step2: |-
+      把弱利他视为对个体有利者，与威尔逊等视为对群体有利者之间的争论，最终源于对个体选择与群体选择的不同理解。对威尔逊而言，个体选择意味着群体内选择，因此要确定个体选择偏爱哪种策略，必须比较群体或配对内 *W* 型与 *N* 型的适合度。对其他理论家而言，个体选择意味着基于个体表型差异（而非社会语境）的选择；因此要确定个体选择偏爱哪种策略，必须比较同一社会语境（即同一伙伴）下 *W* 型与 *N* 型的适合度。这两种比较对弱利他是否对个体有利给出不同答案。于是，如何归类弱利他的争论，与更广泛的选择层次问题密切相关；进一步讨论见 Nunney 1985、Okasha 2005, 2006、Fletcher and Doebeli 2006、West *et al*. 2007。
+  - id: 45
+    kind: body
+    source: |-
+      ### 3.3 Short-term versus Long-term Fitness Consequences
+    step1: |-
+      ### 3.3 短期与长期适合度后果
+    step2: |-
+      ### 3.3 短期与长期适合度后果
+  - id: 46
+    kind: body
+    source: |-
+      A further source of ambiguity in the definition of biological altruism concerns the time-scale over which fitness is measured. Conceivably, an animal might engage in a social behaviour which benefits another and reduces its own (absolute) fitness in the short-term; however, in the long-term, the behaviour might be to the animal's advantage. So if we focus on short-term fitness effects, the behaviour will seem altruistic; but if we focus on lifetime fitness, the behaviour will seem selfish—the animal's lifetime fitness would be reduced if it did not perform the behaviour.
+    step1: |-
+      生物学利他定义中的另一歧义来源，关乎衡量适合度的时间尺度。可以设想，动物可能表现出一种社会行为，在短期内有利于他者并降低自身（绝对）适合度；然而长期看，该行为可能对动物有利。因此，若聚焦短期适合度效果，该行为显得利他；但若聚焦终生适合度，该行为显得自私——若动物不表现该行为，其终生适合度反而会降低。
+    step2: |-
+      生物学利他定义中的另一歧义来源，关乎衡量适合度的时间尺度。可以设想，动物可能表现出一种社会行为，在短期内有利于他者并降低自身（绝对）适合度；然而长期看，该行为可能对动物有利。因此，若聚焦短期适合度效果，该行为显得利他；但若聚焦终生适合度，该行为显得自私——若动物不表现该行为，其终生适合度反而会降低。
+  - id: 47
+    kind: body
+    source: |-
+      Why might a social behaviour reduce an animal's short-term fitness but boost its lifetime fitness? This could arise in cases of ‘directed reciprocation’, where the beneficiary of the behaviour returns the favour at some point in the future (cf. Sachs *et al*. 2004)[^sachs-2004]. By performing the behaviour, and suffering the short-term cost, the animal thus ensures (or raises the chance) that it will receive return benefits in the future. Similarly, in symbioses between members of different species, it may pay an organism to sacrifice resources for the benefit of a symbiont with which it has a long-term relationship, as its long-term welfare may be heavily dependent on the symbiont's welfare.
+    step1: |-
+      为什么一种社会行为会降低动物的短期适合度，却提升其终生适合度？这可能出现在“定向回报”的情形中：行为的受益者在未来某个时候回报恩惠（参 Sachs *et al*. 2004）[^sachs-2004]。通过表现该行为并承受短期代价，动物从而确保（或提高几率）自己将来获得回报。类似地，在不同物种成员之间的共生关系中，生物可能值得为有长期关系的共生者牺牲资源，因为其长期福祉可能严重依赖共生者的福祉。
+    step2: |-
+      为什么一种社会行为会降低动物的短期适合度，却提升其终生适合度？这可能出现在“定向回报”的情形中：行为的受益者在未来某个时候回报恩惠（参 Sachs *et al*. 2004）[^sachs-2004]。通过表现该行为并承受短期代价，动物从而确保（或提高几率）自己将来获得回报。类似地，在不同物种成员之间的共生关系中，生物可能值得为有长期关系的共生者牺牲资源，因为其长期福祉可能严重依赖共生者的福祉。
+  - id: 48
+    kind: body
+    source: |-
+      From a theoretical point of view, the most satisfactory resolution of this ambiguity is to use lifetime fitness as the relevant parameter (cf. West *et al*. 2007)[^west-2007] Thus an action only counts as altruistic if it reduces an organism's lifetime fitness. This stipulation makes sense, since it preserves the key idea that the evolution of altruism requires statistical association between donor and recipient; this would not be true if short-term fitness were used to define altruism, for behaviours which reduce short-term fitness but boost lifetime fitness can evolve with no component of kin selection, or donor-recipient correlation. However, the stipulation has two disadvantages: (i) it makes it harder to tell whether a given behaviour is altruistic, since lifetime fitness is notoriously difficult to estimate; (ii) it has the consequence that most models of ‘reciprocal altruism’ are mis-named.
+    step1: |-
+      从理论观点看，解决这一歧义最令人满意的方式，是用终生适合度作为相关参数（参 West *et al*. 2007）[^west-2007]。于是，只有降低生物终生适合度的行动才算利他。这一规定讲得通，因为它保留了关键想法：利他演化需要施予者与接受者之间的统计关联；若用短期适合度定义利他，这一点便不成立，因为降低短期适合度却提升终生适合度的行为，可以在没有亲缘选择或施予者—接受者相关成分的情况下演化。然而，这一规定有两个缺点：（i）它使判断某一行为是否利他变得更难，因为终生适合度众所周知难以估计；（ii）它导致多数“互惠利他”模型名不副实。
+    step2: |-
+      从理论观点看，解决这一歧义最令人满意的方式，是用终生适合度作为相关参数（参 West *et al*. 2007）[^west-2007]。于是，只有降低生物终生适合度的行动才算利他。这一规定讲得通，因为它保留了关键想法：利他演化需要施予者与接受者之间的统计关联；若用短期适合度定义利他，这一点便不成立，因为降低短期适合度却提升终生适合度的行为，可以在没有亲缘选择或施予者—接受者相关成分的情况下演化。然而，这一规定有两个缺点：（1）它使判断某一行为是否利他变得更难，因为终生适合度众所周知难以估计；（2）它导致多数“互惠利他”模型名不副实。
+  - id: 49
+    kind: body
+    source: |-
+      ## 4. Reciprocal Altruism
+    step1: |-
+      ## 4 互惠利他
+    step2: |-
+      ## 4 互惠利他
+  - id: 50
+    kind: body
+    source: |-
+      The theory of reciprocal altruism was originally developed by Trivers (1971), as an attempt to explain cases of (apparent) altruism among unrelated organisms, including members of different species. (Clearly, kin selection cannot help explain altruism among non-relatives.) Trivers' basic idea was straightforward: it may pay an organism to help another, if there is an expectation of the favour being returned in the future. (‘If you scratch my back, I'll scratch yours’.) The cost of helping is offset by the likelihood of the return benefit, permitting the behaviour to evolve by natural selection. Trivers termed with evolutionary mechanism ‘reciprocal altruism’.
+    step1: |-
+      互惠利他理论最初由特里弗斯（Trivers，1971）提出，试图解释无亲缘关系生物（包括不同物种成员）之间（表面上的）利他情形。（显然，亲缘选择无法解释非亲属之间的利他。）特里弗斯的基本想法很直接：若预期恩惠将来会得到回报，帮助他者可能对生物有利。（“你替我挠背，我就替你挠背。”）帮助的代价被回报收益的可能性抵消，从而使该行为能通过自然选择演化。特里弗斯把这一演化机制称为“互惠利他”。
+    step2: |-
+      互惠利他理论最初由特里弗斯（Trivers，1971）提出，试图解释无亲缘关系生物（包括不同物种成员）之间（表面上的）利他情形。（显然，亲缘选择无法解释非亲属之间的利他。）特里弗斯的基本想法很直接：若预期恩惠将来会得到回报，帮助他者可能对生物有利。（“你替我挠背，我就替你挠背。”）帮助的代价被回报收益的可能性抵消，从而使该行为能通过自然选择演化。特里弗斯把这一演化机制称为“互惠利他”。
+  - id: 51
+    kind: body
+    source: |-
+      For reciprocal altruism to work, there is no need for the two individuals to be relatives, nor even to be members of the same species. However, it is necessary that individuals should interact with each more than once, and have the ability to recognize other individuals with whom they have interacted in the past.[^note-1] If individuals interact only once in their lifetimes and never meet again, there is obviously no possibility of return benefit, so there is nothing to be gained by helping another. However, if individuals encounter each other frequently, and are capable of identifying and punishing ‘cheaters’ who have refused to help in the past, then the helping behaviour can evolve. A ‘cheat’ who refuses to help will ultimately sabotage his own interests, for although he does not incur the cost of helping others, he forfeits the return benefits too—others will not help him in the future. This evolutionary mechanism is most likely to work where animals live in relatively small groups, increasing the likelihood of multiple encounters.
+    step1: |-
+      互惠利他要起作用，两个个体无需是亲属，甚至无需属于同一物种。然而，个体必须不止一次地互动，并且具备识别过去曾与自己互动的其他个体的能力。[^note-1] 若个体一生只互动一次、此后不再相见，显然没有回报收益的可能，帮助他者也就无所得。然而，若个体频繁相遇，且能识别并惩罚过去拒绝帮助的“作弊者”，帮助行为便能演化。拒绝帮助的“作弊者”最终会损害自身利益，因为他虽不承担帮助他人的代价，却也丧失回报收益——将来他人不会帮助他。这种演化机制最可能在动物生活在相对较小群体、从而增加多次相遇可能性的地方起作用。
+    step2: |-
+      互惠利他要起作用，两个个体无需是亲属，甚至无需属于同一物种。然而，个体必须不止一次地互动，并且具备识别过去曾与自己互动的其他个体的能力。[^note-1] 若个体一生只互动一次、此后不再相见，显然没有回报收益的可能，帮助他者也就无所得。然而，若个体频繁相遇，且能识别并惩罚过去拒绝帮助的“作弊者”，帮助行为便能演化。拒绝帮助的“作弊者”最终会损害自身利益，因为他虽不承担帮助他人的代价，却也丧失回报收益——将来他人不会帮助他。这种演化机制最可能在动物生活在相对较小群体、从而增加多次相遇可能性的地方起作用。
+  - id: 52
+    kind: body
+    source: |-
+      As West *et al*. (2007) and Bowles and Gintis (2011) note, if altruism is defined by reference to lifetime fitness, then Trivers' theory is not really about the evolution of altruism at all; for behaviours that evolve via reciprocation of benefits, as described by Trivers, are ultimately of direct benefit to the individuals performing them, so do not reduce lifetime fitness. Despite this consideration, the label ‘reciprocal altruism’ is well-entrenched in the literature, and the evolutionary mechanism that it describes is of some importance, whatever it is called. Where reciprocal altruism is referred to below, it should be remembered that the behaviours in question are only altruistic in the short-term.
+    step1: |-
+      正如 West *et al*.（2007）与 Bowles and Gintis（2011）所指出的，若以终生适合度定义利他，那么特里弗斯理论其实根本不是关于利他演化的；因为如特里弗斯所述，通过利益互惠而演化的行为，最终对表现它们的个体有直接好处，因而并不降低终生适合度。尽管如此，“互惠利他”这一标签在文献中已根深蒂固，而它所描述的演化机制无论叫什么，都有相当的重要性。下文提到互惠利他时，应记住所讨论的行为只在短期意义上利他。
+    step2: |-
+      正如 West *et al*.（2007）与 Bowles and Gintis（2011）所指出的，若以终生适合度定义利他，那么特里弗斯理论其实根本不是关于利他演化的；因为如特里弗斯所述，通过利益互惠而演化的行为，最终对表现它们的个体有直接好处，因而并不降低终生适合度。尽管如此，“互惠利他”这一标签在文献中已根深蒂固，而它所描述的演化机制无论叫什么，都有相当的重要性。下文提到互惠利他时，应记住所讨论的行为只在短期意义上利他。
+  - id: 53
+    kind: body
+    source: |-
+      The concept of reciprocal altruism is closely related to the Tit-for-Tat strategy in the iterated Prisoner's Dilemma (IPD) from game theory. In the IPD, players interact on multiple occasions, and are able to adjust their behaviour depending on what their opponent has done in previous rounds. There are two possible strategies, co-operate and defect; the payoff matrix (per interaction) is as in section 2.1 above. The fact that the game is iterated rather than one-shot obviously changes the optimal course of action; defecting is no longer necessarily the best option, so long as the probability of subsequent encounters is sufficiently high. In their famous computer tournament in which a large number of strategies were pitted against each other in the IPD, Axelrod and Hamilton (1981) found that the Tit-for-Tat strategy yielded the highest payoff. In Tit-For-Tat, a player follows two basic rules: (i) on the first encounter, cooperate; (ii) on subsequent encounters, do what your opponent did on the previous encounter. The success of Tit-for-Tat was widely taken to confirm the idea that with multiple encounters, natural selection could favour social behaviours that entail a short-term fitness cost. Subsequent work in evolutionary game theory, much of it inspired by Axelrod and Hamilton's ideas, has confirmed that repeated games permit the evolution of social behaviours that cannot evolve in one-shot situations (cf. Nowak 2006)[^nowak-2006]; this is closely related to the so-called 'folk theorem' of repeated game theory in economics (cf. Bowles and Gintis 2011)[^bowles-2011]. For a useful discussion of social behaviour that evolves via reciprocation of benefits, see Sachs *et al*. 2004.
+    step1: |-
+      互惠利他概念与博弈论中重复囚徒困境（IPD）的“一报还一报”（Tit-for-Tat）策略密切相关。在 IPD 中，玩家多次互动，并能根据对手先前回合的行为调整自己的行为。有两种可能策略：合作与背叛；收益矩阵（每次互动）如上文第 2.1 节。博弈是重复而非单次，显然改变了最优行动路线；只要后续相遇概率足够高，背叛不再必然是最佳选择。在 Axelrod and Hamilton（1981）著名的计算机竞赛中，大量策略在 IPD 中相互对抗，结果“一报还一报”策略收益最高。在“一报还一报”中，玩家遵循两条基本规则：（1）首次相遇时合作；（2）后续相遇时，做对手上一回合所做之事。“一报还一报”的成功被广泛视为证实了这一想法：在多次相遇中，自然选择可以偏爱承担短期适合度代价的社会行为。随后演化博弈论的工作（多受 Axelrod 与 Hamilton 想法启发）已确认，重复博弈容许那些在单次情境中无法演化的社会行为演化（参 Nowak 2006）[^nowak-2006]；这与经济学中重复博弈的所谓“民间定理”密切相关（参 Bowles and Gintis 2011）[^bowles-2011]。关于通过利益互惠而演化的社会行为的有益讨论，见 Sachs *et al*. 2004。
+    step2: |-
+      互惠利他概念与博弈论中重复囚徒困境（IPD）的“一报还一报”（Tit-for-Tat）策略密切相关。在 IPD 中，玩家多次互动，并能根据对手先前回合的行为调整自己的行为。有两种可能策略：合作与背叛；收益矩阵（每次互动）如上文第 2.1 节。博弈是重复而非单次，显然改变了最优行动路线；只要后续相遇概率足够高，背叛不再必然是最佳选择。在 Axelrod and Hamilton（1981）著名的计算机竞赛中，大量策略在 IPD 中相互对抗，结果“一报还一报”策略收益最高。在“一报还一报”中，玩家遵循两条基本规则：（1）首次相遇时合作；（2）后续相遇时，做对手上一回合所做之事。“一报还一报”的成功被广泛视为证实了这一想法：在多次相遇中，自然选择可以偏爱承担短期适合度代价的社会行为。随后演化博弈论的工作（多受 Axelrod 与 Hamilton 想法启发）已确认，重复博弈容许那些在单次情境中无法演化的社会行为演化（参 Nowak 2006）[^nowak-2006]；这与经济学中重复博弈的所谓“民间定理”密切相关（参 Bowles and Gintis 2011）[^bowles-2011]。关于通过利益互惠而演化的社会行为的有益讨论，见 Sachs *et al*. 2004。
+  - id: 54
+    kind: body
+    source: |-
+      Despite the attention paid to reciprocal altruism by theoreticians, clear-cut empirical examples in non-human animals are relatively few (Hammerstein 2003, Sachs *et al*. 2004, Taborsky 2013)[^hammerstein-2003][^sachs-2004][^taborsky-2013]. This is probably because the pre-conditions for reciprocal altruism to evolve- multiple encounters and individual recognition—are not especially common. However, one possible example is provided by blood-sharing in vampire bats (Wilkinson 1984, 1990, Carter & Wilkinson 2013)[^carter-2013][^wilkinson-1984]. It is quite common for a vampire bat to fail to feed on a given night. This is potentially fatal, for bats die if they go without food for more than a couple of days. On any given night, bats donate blood (by regurgitation) to other members of their group who have failed to feed, thus saving them from starvation. Since vampire bats live in small groups and associate with each other over long periods of time, the preconditions for reciprocal altruism are likely to be met. Wilkinson and his colleagues' studies showed that bats tended to share food with their close associates, and were more likely to share with others that had recently shared with them. These findings appear to accord with reciprocal altruism theory.
+    step1: |-
+      尽管理论家关注互惠利他，非人动物中清晰的经验实例却相对很少（Hammerstein 2003, Sachs *et al*. 2004, Taborsky 2013）[^hammerstein-2003][^sachs-2004][^taborsky-2013]。这大概是因为互惠利他演化的前提——多次相遇与个体识别——并不特别常见。然而，吸血蝙蝠的血液分享提供了一个可能例子（Wilkinson 1984, 1990, Carter & Wilkinson 2013）[^carter-2013][^wilkinson-1984]。吸血蝙蝠在某夜未能进食相当常见。这可能是致命的，因为蝙蝠若断食超过几天便会死亡。在任何一夜，蝙蝠都会（通过反刍）向群体中未能进食的其他成员捐血，使它们免于饿死。由于吸血蝙蝠生活在小组中并长期彼此交往，互惠利他的前提很可能得到满足。威尔金森及其同事的研究表明，蝙蝠倾向于与亲密伙伴分享食物，且更可能与近期与自己分享过的他者分享。这些发现似乎符合互惠利他理论。
+    step2: |-
+      尽管理论家关注互惠利他，非人动物中清晰的经验实例却相对很少（Hammerstein 2003, Sachs *et al*. 2004, Taborsky 2013）[^hammerstein-2003][^sachs-2004][^taborsky-2013]。这大概是因为互惠利他演化的前提——多次相遇与个体识别——并不特别常见。然而，吸血蝙蝠的血液分享提供了一个可能例子（Wilkinson 1984, 1990, Carter & Wilkinson 2013）[^carter-2013][^wilkinson-1984]。吸血蝙蝠在某夜未能进食相当常见。这可能是致命的，因为蝙蝠若断食超过几天便会死亡。在任何一夜，蝙蝠都会（通过反刍）向群体中未能进食的其他成员捐血，使它们免于饿死。由于吸血蝙蝠生活在小组中并长期彼此交往，互惠利他的前提很可能得到满足。威尔金森及其同事的研究表明，蝙蝠倾向于与亲密伙伴分享食物，且更可能与近期与自己分享过的他者分享。这些发现似乎符合互惠利他理论。
+  - id: 55
+    kind: body
+    source: |-
+      Trivers (1985) describes an apparent case of reciprocal altruism between non con-specifics. On tropical coral reefs, various species of small fish act as ‘cleaners’ for large fish, removing parasites from their mouths and gills. The interaction is mutually beneficial—the large fish gets cleaned and the cleaner gets fed. However, Trivers notes that the large fish sometimes appear to behave altruistically towards the cleaners. If a large fish is attacked by a predator while it has a cleaner in its mouth, then it waits for the cleaner to leave before fleeing the predator, rather than swallowing the cleaner and fleeing immediately. Trivers explains the larger fish's behaviour in terms of reciprocal altruism. Since the large fish often returns to the same cleaner many times over, it pays to look after the cleaner's welfare, i.e., not to swallow it, even if this increases the chance of being wounded by a predator. So the larger fish allows the cleaner to escape, because there is an expectation of return benefit—getting cleaned again in the future. As in the case of the vampire bats, it is because the large fish and the cleaner interact more than once that the behaviour can evolve.
+    step1: |-
+      特里弗斯（1985）描述了非同类之间一个表面上的互惠利他案例。在热带珊瑚礁中，各种小型鱼类充当大鱼的“清洁工”，清除其口腔与鳃中的寄生虫。这种互动是互利的——大鱼得到清洁，清洁工得到食物。然而特里弗斯指出，大鱼有时似乎对清洁工表现出利他行为。若大鱼口中有清洁工时遭捕食者攻击，它会等清洁工离开后再逃离，而不是吞下清洁工立刻逃走。特里弗斯用互惠利他解释大鱼的行为。由于大鱼常多次回到同一清洁工处，照顾清洁工的福祉（即不吞掉它）是值得的，即便这会增加被捕食者伤害的几率。于是大鱼让清洁工逃走，因为预期有回报收益——将来再次得到清洁。与吸血蝙蝠的情形一样，正因为大鱼与清洁工不止一次互动，该行为才能演化。
+    step2: |-
+      特里弗斯（1985）描述了非同类之间一个表面上的互惠利他案例。在热带珊瑚礁中，各种小型鱼类充当大鱼的“清洁工”，清除其口腔与鳃中的寄生虫。这种互动是互利的——大鱼得到清洁，清洁工得到食物。然而特里弗斯指出，大鱼有时似乎对清洁工表现出利他行为。若大鱼口中有清洁工时遭捕食者攻击，它会等清洁工离开后再逃离，而不是吞下清洁工立刻逃走。特里弗斯用互惠利他解释大鱼的行为。由于大鱼常多次回到同一清洁工处，照顾清洁工的福祉（即不吞掉它）是值得的，即便这会增加被捕食者伤害的几率。于是大鱼让清洁工逃走，因为预期有回报收益——将来再次得到清洁。与吸血蝙蝠的情形一样，正因为大鱼与清洁工不止一次互动，该行为才能演化。
+  - id: 56
+    kind: body
+    source: |-
+      ## 5. But is it ‘Real’ Altruism?
+    step1: |-
+      ## 5 但这是“真正的”利他吗？
+    step2: |-
+      ## 5 但这是“真正的”利他吗？
+  - id: 57
+    kind: body
+    source: |-
+      The evolutionary theories described above, in particular kin selection, go a long way towards reconciling the existence of altruism in nature with Darwinian principles. However, some people have felt these theories in a way devalue altruism, and that the behaviours they explain are not ‘really’ altruistic. The grounds for this view are easy to see. Ordinarily we think of altruistic actions as disinterested, done with the interests of the recipient, rather than our own interests, in mind. But kin selection theory explains altruistic behaviour as a clever strategy devised by selfish genes as a way of increasing their representation in the gene-pool, at the expense of other genes. Surely this means that the behaviours in question are only ‘apparently’ altruistic, for they are ultimately the result of genic self-interest? Reciprocal altruism theory also seems to ‘take the altruism out of altruism’. Behaving nicely to someone in order to procure return benefits from them in the future seems in a way the antithesis of ‘real’ altruism—it is just delayed self-interest.
+    step1: |-
+      上述演化理论，尤其亲缘选择，在使自然界利他的存在与达尔文原则相容方面贡献甚大。然而，有些人觉得这些理论在某种意义上贬低了利他，觉得它们所解释的行为并非“真正”利他。这种看法的根据不难看出。通常我们把利他行动看作无私的，是出于接受者的利益而非自身利益而做的。但亲缘选择理论把利他行为解释为自私基因设计的巧妙策略，用以牺牲其他基因、增加自身在基因库中的代表。这岂不意味着所讨论的行为只是“表面”利他，因为它们终究是基因自利的结果？互惠利他理论似乎也“把利他从利他中抽走”。为在未来从某人那里获取回报收益而友善待他，似乎在某种意义上是“真正”利他的反面——它只是延迟的自利。
+    step2: |-
+      上述演化理论，尤其亲缘选择，在使自然界利他的存在与达尔文原则相容方面贡献甚大。然而，有些人觉得这些理论在某种意义上贬低了利他，觉得它们所解释的行为并非“真正”利他。这种看法的根据不难看出。通常我们把利他行动看作无私的，是出于接受者的利益而非自身利益而做的。但亲缘选择理论把利他行为解释为自私基因设计的巧妙策略，用以牺牲其他基因、增加自身在基因库中的代表。这岂不意味着所讨论的行为只是“表面”利他，因为它们终究是基因自利的结果？互惠利他理论似乎也“把利他从利他中抽走”：为在未来从某人那里获取回报收益而友善待他，似乎在某种意义上是“真正”利他的反面——它只是延迟的自利。
+  - id: 58
+    kind: body
+    source: |-
+      This is a tempting line of argument. Indeed Trivers (1971) and, arguably, Dawkins (1976) were themselves tempted by it. But it should not convince. The key point to remember is that biological altruism cannot be equated with altruism in the everyday vernacular sense. Biological altruism is defined in terms of fitness consequences, not motivating intentions. If by ‘real’ altruism we mean altruism done with the conscious intention to help, then the vast majority of living creatures are not capable of ‘real’ altruism nor therefore of ‘real’ selfishness either. Ants and termites, for example, presumably do not have conscious intentions, hence their behaviour cannot be done with the intention of promoting their own self-interest, nor the interests of others. Thus the assertion that the evolutionary theories reviewed above show that the altruism in nature is only apparent makes little sense. The contrast between ‘real’ altruism and merely apparent altruism simply does not apply to most animal species.
+    step1: |-
+      这是一条诱人的论证路线。事实上，特里弗斯（1971）以及（可以说）道金斯（1976）本人都为它所诱。但它不应令人信服。要记住的关键点是：生物学利他不能等同于日常语言意义上的利他。生物学利他以适合度后果定义，而非以动机意图定义。若“真正”利他指带着自觉帮助意图所做的利他，那么绝大多数生物既不能有“真正”利他，因而也不能有“真正”自私。例如，蚂蚁与白蚁想必没有自觉意图，因此它们的行为既不可能带着促进自身自利的意图，也不可能带着促进他人利益的意图。于是，断言上述演化理论表明自然界的利他只是表面利他，便没有多大意义。“真正”利他与仅表面利他的对照，根本不适用于多数动物物种。
+    step2: |-
+      这是一条诱人的论证路线。事实上，特里弗斯（1971）以及（可以说）道金斯（1976）本人都为它所诱。但它不应令人信服。要记住的关键点是：生物学利他不能等同于日常语言意义上的利他。生物学利他以适合度后果定义，而非以动机意图定义。若“真正”利他指带着自觉帮助意图所做的利他，那么绝大多数生物既不能有“真正”利他，因而也不能有“真正”自私。例如，蚂蚁与白蚁想必没有自觉意图，因此它们的行为既不可能带着促进自身自利的意图，也不可能带着促进他人利益的意图。于是，断言上述演化理论表明自然界的利他只是表面利他，便没有多大意义。“真正”利他与仅表面利他的对照，根本不适用于多数动物物种。
+  - id: 59
+    kind: body
+    source: |-
+      To some extent, the idea that kin-directed altruism is not ‘real’ altruism has been fostered by the use of the ‘selfish gene’ terminology of Dawkins (1976). As we have seen, the gene's-eye perspective is heuristically useful for understanding the evolution of altruistic behaviours, especially those that evolve by kin selection. But talking about ‘selfish’ genes trying to increase their representation in the gene-pool is of course just a metaphor (as Dawkins fully admits); there is no literal sense in which genes ‘try’ to do anything. *Any* evolutionary explanation of how a phenotypic trait evolves must ultimately show that the trait leads to an increase in frequency of the genes that code for it (presuming the trait is transmitted genetically.) Therefore, a ‘selfish gene’ story can by definition be told about any trait, including a behavioural trait, that evolves by Darwinian natural selection. To say that kin selection interprets altruistic behaviour as a strategy designed by ‘selfish’ genes to aid their propagation is not wrong; but it is just another way of saying that a Darwinian explanation for the evolution of altruism has been found. As Sober and Wilson (1998) note, if one insists on saying that behaviours which evolve by kin selection / donor-recipient correlation are ‘really selfish’, one ends up reserving the word ‘altruistic’ for behaviours which cannot evolve by natural selection at all.
+    step1: |-
+      在某种程度上，亲缘导向的利他并非“真正”利他这一想法，是由道金斯（1976）“自私基因”术语的使用所助长的。如我们所见，基因视角对理解利他行为的演化（尤其通过亲缘选择演化者）在启发上有用。但谈论“自私”基因试图增加其在基因库中的代表，当然只是隐喻（道金斯完全承认）；基因“试图”做任何事都没有字面意义。*任何*关于表型性状如何演化的演化解释，最终都必须表明该性状导致为其编码的基因频率增加（假定该性状经遗传传递）。因此，按定义，任何通过达尔文式自然选择演化的性状（包括行为性状）都可以讲一个“自私基因”的故事。说亲缘选择把利他行为解释为“自私”基因设计的助其传播的策略，并没有错；但那只是换一种说法，说已经找到了对利他演化的达尔文式解释。正如 Sober and Wilson（1998）所指出的，若坚持说通过亲缘选择/施予者—接受者相关演化的行为“其实是自私的”，最终就会把“利他的”一词保留给完全不能通过自然选择演化的行为。
+    step2: |-
+      在某种程度上，亲缘导向的利他并非“真正”利他这一想法，是由道金斯（1976）“自私基因”术语的使用所助长的。如我们所见，基因视角对理解利他行为的演化（尤其通过亲缘选择演化者）在启发上有用。但谈论“自私”基因试图增加其在基因库中的代表，当然只是隐喻（道金斯完全承认）；基因“试图”做任何事都没有字面意义。*任何*关于表型性状如何演化的演化解释，最终都必须表明该性状导致为其编码的基因频率增加（假定该性状经遗传传递）。因此按定义，任何通过达尔文式自然选择演化的性状（包括行为性状）都可以讲一个“自私基因”的故事。说亲缘选择把利他行为解释为“自私”基因设计的助其传播的策略，并没有错；那只是换一种说法，说已经找到了对利他演化的达尔文式解释。正如 Sober and Wilson（1998）所指出的，若坚持说通过亲缘选择/施予者—接受者相关演化的行为“其实是自私的”，最终就会把“利他的”一词保留给完全不能通过自然选择演化的行为。
+  - id: 60
+    kind: body
+    source: |-
+      Do theories of the evolution of biological altruism apply to humans? This is part of the broader question of whether ideas about the evolution of animal behaviour can be extrapolated to humans, a question that fuelled the sociobiology controversy of the 1980s and is still actively debated today (cf. Boyd and Richerson 2006, Bowles and Gintis 2011, Sterelny 2012)[^bowles-2011][^boyd-2006][^sterelny-2012]. All biologists accept that *Homo sapiens* is an evolved species, and thus that general evolutionary principles apply to it. However, human behaviour is obviously influenced by culture to a far greater extent than that of other animals, and is often the product of conscious beliefs and desires (though this does not necessarily mean that genetics has no influence.) Nonetheless, at least some human behaviour does seem to fit the predictions of the evolutionary theories reviewed above. In general, humans behave more altruistically (in the biological sense) towards their close kin than towards non-relatives, e.g. by helping relatives raise their children, just as kin selection theory would predict. It is also true that we tend to help those who have helped us out in the past, just as reciprocal altruism theory would predict. On the other hand, humans are unique in that we co-operate extensively with our non-kin; and more generally, numerous human behaviours seem anomalous from the point of view of biological fitness. Think for example of adoption. Parents who adopt children instead of having their own reduce their biological fitness, obviously, so adoption is an altruistic behaviour. But it does not benefit kin—for parents are generally unrelated to the infants they adopt—and nor do the parents stand to gain much in the form of reciprocal benefits. So although evolutionary considerations can help us understand some human behaviours, they must be applied judiciously.
+    step1: |-
+      生物学利他演化的理论是否适用于人类？这属于一个更广泛的问题：关于动物行为演化的想法能否外推到人类；这个问题曾助燃 1980 年代的社会生物学争论，至今仍被积极讨论（参 Boyd and Richerson 2006、Bowles and Gintis 2011、Sterelny 2012）[^bowles-2011][^boyd-2006][^sterelny-2012]。所有生物学家都接受*智人*是演化而来的物种，因而一般演化原则适用于它。然而，人类行为显然比其它动物更大程度受文化影响，且往往是自觉信念与欲望的产物（尽管这未必意味着遗传毫无影响）。尽管如此，至少某些人类行为似乎符合上述演化理论的预测。一般说来，人类对近亲比对非亲属更利他（在生物学意义上），例如帮助亲属抚养子女，正如亲缘选择理论所预测。我们也确实倾向于帮助过去帮助过我们的人，正如互惠利他理论所预测。另一方面，人类的独特之处在于我们与非亲属广泛合作；更一般地说，许多人类行为从生物适合度角度看似乎反常。例如收养。收养孩子而非自己生育的父母显然降低其生物适合度，因此收养是利他行为。但它并不利于亲属——因为父母通常与被收养婴儿无亲缘关系——父母也得不到多少互惠收益。因此，尽管演化考虑能帮助我们理解某些人类行为，它们必须被审慎应用。
+    step2: |-
+      生物学利他演化的理论是否适用于人类？这属于一个更广泛的问题：关于动物行为演化的想法能否外推到人类；这个问题曾助燃 1980 年代的社会生物学争论，至今仍被积极讨论（参 Boyd and Richerson 2006、Bowles and Gintis 2011、Sterelny 2012）[^bowles-2011][^boyd-2006][^sterelny-2012]。所有生物学家都接受*智人*是演化而来的物种，因而一般演化原则适用于它。然而，人类行为显然比其它动物更大程度受文化影响，且往往是自觉信念与欲望的产物（尽管这未必意味着遗传毫无影响）。尽管如此，至少某些人类行为似乎符合上述演化理论的预测。一般说来，人类对近亲比对非亲属更利他（在生物学意义上），例如帮助亲属抚养子女，正如亲缘选择理论所预测。我们也确实倾向于帮助过去帮助过我们的人，正如互惠利他理论所预测。另一方面，人类的独特之处在于我们与非亲属广泛合作；更一般地说，许多人类行为从生物适合度角度看似乎反常。例如收养：收养孩子而非自己生育的父母显然降低其生物适合度，因此收养是利他行为。但它并不利于亲属——父母通常与被收养婴儿无亲缘关系——父母也得不到多少互惠收益。因此，尽管演化考虑能帮助我们理解某些人类行为，它们必须被审慎应用。
+  - id: 61
+    kind: body
+    source: |-
+      Where human behaviour is concerned, the distinction between biological altruism, defined in terms of fitness consequences, and ‘real’ altruism, defined in terms of the agent's conscious intentions to help others, does make sense. (Sometimes the label ‘psychological altruism’ is used instead of ‘real’ altruism.) What is the relationship between these two concepts? They appear to be independent in both directions, as Elliott Sober (1994) has argued; see also Vromen (2012) and Clavien and Chapuisat (2013). An action performed with the conscious intention of helping another human being may not affect their biological fitness at all, so would not count as altruistic in the biological sense. Conversely, an action undertaken for purely self-interested reasons, i.e., without the conscious intention of helping another, may boost their biological fitness tremendously.
+    step1: |-
+      就人类行为而言，以适合度后果定义的生物学利他，与以行动者自觉助人意图定义的“真正”利他，确实有区别。（有时人们用“心理利他”而非“真正”利他来称呼后者。）这两个概念之间是何关系？正如埃利奥特·索伯（Elliott Sober，1994）所论证的，它们似乎在两个方向上彼此独立；另见 Vromen（2012）与 Clavien and Chapuisat（2013）。带着自觉帮助他人意图所做的行动，可能根本不影响其生物适合度，因此在生物学意义上不算利他。相反，纯粹出于自利理由（即没有自觉助人意图）而采取的行动，可能大幅提升其生物适合度。
+    step2: |-
+      就人类行为而言，以适合度后果定义的生物学利他，与以行动者自觉助人意图定义的“真正”利他，确实有区别。（有时人们用“心理利他”而非“真正”利他来称呼后者。）这两个概念之间是何关系？正如埃利奥特·索伯（Elliott Sober，1994）所论证的，它们似乎在两个方向上彼此独立；另见 Vromen（2012）与 Clavien and Chapuisat（2013）。带着自觉帮助他人意图所做的行动，可能根本不影响其生物适合度，因此在生物学意义上不算利他。相反，纯粹出于自利理由（即没有自觉助人意图）而采取的行动，可能大幅提升其生物适合度。
+  - id: 62
+    kind: body
+    source: |-
+      Sober argues that, even if we accept an evolutionary approach to human behaviour, there is no particular reason to think that evolution would have made humans into egoists rather than psychological altruists (see also Schulz 2011)[^schulz-2011]. On the contrary, it is quite possible that natural selection would have favoured humans who genuinely do care about helping others, i.e., who are capable of ‘real’ or psychological altruism. Suppose there is an evolutionary advantage associated with taking good care of one's children—a quite plausible idea. Then, parents who *really do* care about their childrens' welfare, i.e., who are ‘real’ altruists, will have a higher inclusive fitness, hence spread more of their genes, than parents who only pretend to care, or who do not care. Therefore, evolution may well lead ‘real’ or psychological altruism to evolve. Contrary to what is often thought, an evolutionary approach to human behaviour does *not* imply that humans are likely to be motivated by self-interest alone. One strategy by which ‘selfish genes’ may increase their future representation is by causing humans to be *non*-selfish, in the psychological sense.
+    step1: |-
+      索伯论证，即便我们接受对人类行为的演化进路，也没有特别理由认为演化会把人类变成利己主义者而非心理利他主义者（另见 Schulz 2011）[^schulz-2011]。相反，自然选择很可能偏爱真正关心帮助他人的人类，即有能力做出“真正”或心理利他的人类。假定好好照料自己的孩子具有演化优势——这是一个相当可信的想法。那么，*真正*关心自己孩子福祉的父母（即“真正”利他者），将比只假装关心或根本不关心的父母有更高的包容适合度，从而传播更多基因。因此，演化很可能导致“真正”或心理利他演化出来。与通常所想相反，对人类行为的演化进路*并不*蕴含人类很可能仅受自利驱动。“自私基因”增加其未来代表的一种策略，正是使人类在心理意义上成为*非*自私者。
+    step2: |-
+      索伯论证，即便我们接受对人类行为的演化进路，也没有特别理由认为演化会把人类变成利己主义者而非心理利他主义者（另见 Schulz 2011）[^schulz-2011]。相反，自然选择很可能偏爱真正关心帮助他人的人类，即有能力做出“真正”或心理利他的人类。假定好好照料自己的孩子具有演化优势——这是一个相当可信的想法。那么，*真正*关心自己孩子福祉的父母（即“真正”利他者），将比只假装关心或根本不关心的父母有更高的包容适合度，从而传播更多基因。因此，演化很可能导致“真正”或心理利他演化出来。与通常所想相反，对人类行为的演化进路*并不*蕴含人类很可能仅受自利驱动。“自私基因”增加其未来代表的一种策略，正是使人类在心理意义上成为*非*自私者。
+  - id: 63
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: |-
+      [欢迎向作者提出建议。]
+    step2: |-
+      [欢迎向作者提出建议。]
+  - id: 64
+    kind: note
+    source: |-
+      [^note-1]: Though if each individual interacts with only one or a few other individuals throughout its lifetime, reciprocal altruism may evolve without the ability for individual recognition. See Axelrod and Hamilton (1981) and Maynard Smith (1982) for discussion of this point.
+    step1: |-
+      [^note-1]: 不过，若每个个体一生只与一个或少数几个其他个体互动，互惠利他可能在缺乏个体识别能力的情况下演化。关于这一点的讨论，见 Axelrod and Hamilton（1981）与 Maynard Smith（1982）。
+    step2: |-
+      [^note-1]: 不过，若每个个体一生只与一个或少数几个其他个体互动，互惠利他在缺乏个体识别能力时也可能演化。关于这一点的讨论，见 Axelrod and Hamilton（1981）与 Maynard Smith（1982）。

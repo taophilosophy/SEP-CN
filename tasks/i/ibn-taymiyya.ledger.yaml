@@ -1,0 +1,628 @@
+version: 1
+slug: ibn-taymiyya
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Ibn Taymiyya (1263–1328) of Damascus was a prominent Sunnī religious scholar, activist, and reformer who sought to root out religious innovation and return Islam to the Qurʾān, the practice (*sunna*) of the Prophet Muḥammad, and the interpretations of the early Muslims (*salaf*). Ibn Taymiyya is best known today as a major inspiration to the global Salafism movement (Meijer 2009)[^meijer-2009]. A few modern scholars have heralded him as a philosopher on account of his nominalism, empiricism, and similarities with the philosopher Ibn Rushd (Averroes, d. 1198) (Ajhar 2014; Tamer 2013 provides a survey of such views)[^ajhar-2014][^tamer-2013]. Others have denigrated him for slavish traditionalism, literalism, and hatred of reason thanks to his refutation of Aristotelian logic and his call for revelation-based reform (e.g., Fakhry 2004: 326–9; Walbridge 2011: 5, 115)[^fakhry-2004][^walbridge-2011]. Ibn Taymiyya was in fact very well read in the philosophical and theological literature of his day (Michot 2000b: 599)[^michot-2000b], and he deployed extensive hermeneutical reflection and rational argumentation to defend his interpretation of Islamic revelation as fully congruent with reason. While it may go too far to call Ibn Taymiyya a philosopher (Tamer 2013: 373)[^tamer-2013], he was certainly an apologist for the rationality of Islamic revelation, and there is much of philosophical interest in his writings. Ibn Taymiyya’s approach has thus been called philosophical theology (Hoover 2004: 295)[^hoover-2004] and Qurʾānic rational theology (Özervarli 2010: 78)[^özervarli-2010].
+    step1: |-
+      伊本·泰米叶（1263–1328）是大马士革著名的逊尼派宗教学者、活动家与改革者，力图根除宗教创新，使伊斯兰回归《古兰经》、先知穆罕默德的实践（*sunna*，逊奈）以及早期穆斯林（*salaf*，萨拉夫）的解释。今天，伊本·泰米叶最广为人知的身份是全球萨拉菲主义运动的重要灵感来源（Meijer 2009）[^meijer-2009]。少数现代学者因他的唯名论、经验论以及与哲学家伊本·鲁世德（阿威罗伊，卒于 1198）的相似性，称他为哲学家（Ajhar 2014; Tamer 2013 综述了此类观点）[^ajhar-2014][^tamer-2013]。另一些人则因他驳斥亚里士多德逻辑、呼吁以启示为基础的改革，而诋毁他是奴性传统主义、字面主义与仇视理性（如 Fakhry 2004: 326–9; Walbridge 2011: 5, 115）[^fakhry-2004][^walbridge-2011]。事实上，伊本·泰米叶对当时哲学与神学文献涉猎极广（Michot 2000b: 599）[^michot-2000b]，并运用大量解释学反思与理性论证，捍卫他对伊斯兰启示的解释——它完全符合理性。称伊本·泰米叶为哲学家也许言过其实（Tamer 2013: 373）[^tamer-2013]，但他无疑是伊斯兰启示之理性性的辩护者，其著作中颇有哲学趣味。因此，伊本·泰米叶的进路被称为哲学神学（Hoover 2004: 295）[^hoover-2004] 与《古兰经》理性神学（Özervarli 2010: 78）[^özervarli-2010]。
+    step2: |-
+      伊本·泰米叶（1263–1328）是大马士革著名的逊尼派宗教学者、活动家与改革者，力图根除宗教创新，使伊斯兰回归《古兰经》、先知穆罕默德的实践（*sunna*，逊奈）以及早期穆斯林（*salaf*，萨拉夫）的解释。今天，伊本·泰米叶最广为人知的身份是全球萨拉菲主义运动的重要灵感来源（Meijer 2009）[^meijer-2009]。少数现代学者因他的唯名论、经验论以及与哲学家伊本·鲁世德（阿威罗伊，卒于 1198）的相似性，称他为哲学家（Ajhar 2014; Tamer 2013 综述了此类观点）[^ajhar-2014][^tamer-2013]。另一些人则因他驳斥亚里士多德逻辑、呼吁以启示为基础的改革，而诋毁他是奴性传统主义、字面主义与仇视理性（如 Fakhry 2004: 326–9; Walbridge 2011: 5, 115）[^fakhry-2004][^walbridge-2011]。事实上，伊本·泰米叶对当时哲学与神学文献涉猎极广（Michot 2000b: 599）[^michot-2000b]，并运用大量解释学反思与理性论证，捍卫他对伊斯兰启示的解释——它完全符合理性。称伊本·泰米叶为哲学家也许言过其实（Tamer 2013: 373）[^tamer-2013]，但他无疑是伊斯兰启示之理性性的辩护者，其著作中颇有哲学趣味。因此，伊本·泰米叶的进路被称为哲学神学（Hoover 2004: 295）[^hoover-2004] 与《古兰经》理性神学（Özervarli 2010: 78）[^özervarli-2010]。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Life and Works
+    step1: |-
+      ## 1. 生平与著作
+    step2: |-
+      ## 1. 生平与著作
+  - id: 3
+    kind: body
+    source: |-
+      Mongol invasions shaped Ibn Taymiyya’s childhood and early career. The Mongols conquered Baghdad in 1258 and established the Ilkhānid Mongol Empire in Iraq and Persia, one of the four major Mongol empires that together controlled the vast expanse of territory from eastern Europe to the Korean peninsula. In 1260 the Mamlūk rulers of Egypt and Syria halted the Ilkhānid Mongol advance from the northeast at the Battle of ʿAyn Jālūt in Palestine. Ahmad Ibn Taymiyya was born in 1263 (661 in the Islamic calendar) in Ḥarrān which is located today in southeastern Turkey. The Mamlūks controlled Ḥarrān at the time, but later in 1269 Ibn Taymiyya’s family fled a Mongol incursion and settled in Damascus. His father was a Ḥanbalī religious scholar who became head of the Sukkariyya madrasa. Ibn Taymiyya excelled at the religious sciences and took over as head of the Sukkariyya in 1284 when his father died. Ibn Taymiyya found himself in theological difficulty in 1298 for writing against the Ashʿarī *kalām* theology of God’s attributes. He was charged with ascribing a body to God (*tajsīm*), interrogated, and then released. The issue of theological corporealism would reemerge several years later. In the meantime, the Mongols invaded Syria three times between 1299 and 1303. The Ilkhānid Mongols had converted to Islam in 1295, which raised the ethical problem of Muslims fighting Muslims. Ibn Taymiyya argued that the Mamlūks must defend Islam against the Mongols because the latter did not adhere to all the laws of Islam and were motivated by their own interests rather than the interests of religion. The Mamlūks eventually repelled the Mongols and enjoyed an extended period of peace and economic prosperity.
+    step1: |-
+      蒙古入侵塑造了伊本·泰米叶的童年与早期生涯。1258 年蒙古人攻陷巴格达，在伊拉克与波斯建立伊儿汗国，这是四大蒙古帝国之一，它们共同控制从东欧到朝鲜半岛的广袤领土。1260 年，埃及与叙利亚的马穆鲁克统治者在巴勒斯坦艾因贾鲁特战役中阻止了伊儿汗国从东北的推进。艾哈迈德·伊本·泰米叶于 1263 年（伊斯兰历 661 年）生于哈兰，该地今属土耳其东南部。当时马穆鲁克控制哈兰，但 1269 年伊本·泰米叶一家因蒙古入侵而逃往大马士革定居。其父是罕百里派宗教学者，后任苏卡里亚经学院院长。伊本·泰米叶在宗教学科上出类拔萃，1284 年父亲去世后接任苏卡里亚经学院院长。1298 年，他因撰文反对艾什尔里派关于神属性的凯拉姆神学而陷入神学麻烦。他被指控为真主赋予身体（*tajsīm*，拟人化），受审后获释。神学形体论问题数年后再度出现。与此同时，蒙古人于 1299 至 1303 年间三次入侵叙利亚。伊儿汗国蒙古人已于 1295 年皈依伊斯兰教，这引出穆斯林与穆斯林作战的伦理问题。伊本·泰米叶主张，马穆鲁克必须保卫伊斯兰以对抗蒙古人，因为后者并未遵守伊斯兰全部律法，且其动机是自身利益而非宗教利益。马穆鲁克最终击退蒙古人，享有长期和平与经济繁荣。
+    step2: |-
+      蒙古入侵塑造了伊本·泰米叶的童年与早期生涯。1258 年蒙古人攻陷巴格达，在伊拉克与波斯建立伊儿汗国，这是四大蒙古帝国之一，它们共同控制从东欧到朝鲜半岛的广袤领土。1260 年，埃及与叙利亚的马穆鲁克统治者在巴勒斯坦艾因贾鲁特战役中阻止了伊儿汗国从东北的推进。艾哈迈德·伊本·泰米叶于 1263 年（伊斯兰历 661 年）生于哈兰，该地今属土耳其东南部。当时马穆鲁克控制哈兰，但 1269 年伊本·泰米叶一家因蒙古入侵而逃往大马士革定居。其父是罕百里派宗教学者，后任苏卡里亚经学院院长。伊本·泰米叶在宗教学科上出类拔萃，1284 年父亲去世后接任苏卡里亚经学院院长。1298 年，他因撰文反对艾什尔里派关于神属性的凯拉姆神学而陷入神学麻烦。他被指控为真主赋予身体（*tajsīm*，拟人化），受审后获释。神学形体论问题数年后再度出现。与此同时，蒙古人于 1299 至 1303 年间三次入侵叙利亚。伊儿汗国蒙古人已于 1295 年皈依伊斯兰教，这引出穆斯林与穆斯林作战的伦理问题。伊本·泰米叶主张，马穆鲁克必须保卫伊斯兰以对抗蒙古人，因为后者并未遵守伊斯兰全部律法，且其动机是自身利益而非宗教利益。马穆鲁克最终击退蒙古人，享有长期和平与经济繁荣。
+  - id: 4
+    kind: body
+    source: |-
+      With the passing of the Mongol threat, Ibn Taymiyya agitated against Sufi theology and popular religious practices that he believed deviated from Islam and weakened Muslim society. In response, his enemies among the religious scholars gained the support of the Mamlūk political authorities to have him tried again for theological corporealism. Three trials held in Damascus in January and February 1306 were inconclusive. He was then summoned to Cairo, the Mamluk capital, where he was convicted of corporealism and related issues in April 1306 and imprisoned for 18 months. In April 1308 he was imprisoned again in Cairo for another 16 months following a disturbance with Sufis. He was transferred to Alexandria in August 1309 and placed under house arrest for eight more months. Ibn Taymiyya then enjoyed three years of calm in Cairo. In 1313 he returned to Damascus where he spent the rest of his life writing and teaching a small circle of disciples. This period was punctuated by disputes with religious scholars that led to Mamluk state intervention. In 1318 he was imprisoned for five and one-half months for issuing unorthodox opinions about divorce oaths. He suffered further imprisonment in 1326 for teaching against undertaking travel to graves to seek intercession through the dead. He remained in prison until his death in September 1328 (728 in the Islamic calendar).
+    step1: |-
+      蒙古威胁过去后，伊本·泰米叶鼓动反对苏菲神学与民间宗教实践，他认为这些偏离伊斯兰、削弱穆斯林社会。作为回应，他在宗教学者中的敌人获得马穆鲁克政治当局支持，再次以神学形体论审判他。1306 年 1、2 月在大马士革举行的三次审判未有定论。随后他被召至马穆鲁克首都开罗，1306 年 4 月被判形体论及相关问题有罪，监禁 18 个月。1308 年 4 月，因与苏菲派发生骚乱，他在开罗再次被囚 16 个月。1309 年 8 月他被转至亚历山大，软禁八个月。此后伊本·泰米叶在开罗平静度过三年。1313 年他返回大马士革，余生写作并教授一小圈弟子。此期间与宗教学者的争执导致马穆鲁克国家干预。1318 年，他因就离婚誓言发表非正统见解被囚五个半月。1326 年，他又因教导反对前往坟墓、通过死者求情而被囚。他一直被关押至 1328 年 9 月（伊斯兰历 728 年）去世。
+    step2: |-
+      蒙古威胁过去后，伊本·泰米叶鼓动反对苏菲神学与民间宗教实践，他认为这些偏离伊斯兰、削弱穆斯林社会。作为回应，他在宗教学者中的敌人获得马穆鲁克政治当局支持，再次以神学形体论审判他。1306 年 1、2 月在大马士革举行的三次审判未有定论。随后他被召至马穆鲁克首都开罗，1306 年 4 月被判形体论及相关问题有罪，监禁 18 个月。1308 年 4 月，因与苏菲派发生骚乱，他在开罗再次被囚 16 个月。1309 年 8 月他被转至亚历山大，软禁八个月。此后伊本·泰米叶在开罗平静度过三年。1313 年他返回大马士革，余生写作并教授一小圈弟子。此期间与宗教学者的争执导致马穆鲁克国家干预。1318 年，他因就离婚誓言发表非正统见解被囚五个半月。1326 年，他又因教导反对前往坟墓、通过死者求情而被囚。他一直被关押至 1328 年 9 月（伊斯兰历 728 年）去世。
+  - id: 5
+    kind: body
+    source: |-
+      Ibn Taymiyya did not write systematic works of theology or philosophy. He instead left a vast corpus of refutations and fatwas of widely varying lengths and degrees of organization. It is difficult to date Ibn Taymiyya’s writings, and it is for this reason challenging to trace development in his thought. Nonetheless, it is possible to sequence his three largest theological tomes. Ibn Taymiyya wrote *Explication of the Deceit of the Jahmiyya* (*Bayān talbīs al-Jahmiyya*), a refutation of Ashʿarī incorporealism, during his first 12 months in prison in Egypt, that is, between April 1306 and April 1307. He composed his masterwork *Averting the Conflict between Reason and Revealed Tradition* (*Darʾ taʿāruḍ al-ʿaql wa-l-naql*) sometime after 1313 followed by his refutation of Twelver Shīʿism *The Way of the Prophetic Sunna* (*Minhāj al-sunna al-nabawiyya*). These three works take up ten, eleven, and nine volumes, respectively, in their modern Arabic critical editions. Ibn Taymiyya also wrote large works on law, prophecy, and Christianity. Of special philosophical interest is his *Refutation of the Logicians* (*al-Radd ʿalā al-manṭiqiyyīn*), which he started while under house arrest in Alexandria in 1309–1310 and completed later in Damascus. Also of interest is Ibn Taymiyya’s work on political theology *Law-Guided Public Policy* (*al-Siyāsa al-Sharʿiyya*), which appears to have been drafted around 1310 and then completed upon his return to Damascus. While Ibn Taymiyya’s large works have been published separately, a great many of his small and medium length writings have been published in collections, the most cited of which is the 37 volume *Majmūʿ fatāwā* first published 1961–7 (Murad 1979; Bori 2009, 2010, 2021; Hoover 2019b: 1–39)[^bori-2009][^hoover-2019b][^murad-1979].
+    step1: |-
+      伊本·泰米叶没有写系统的神学或哲学著作，而是留下大量长短不一、组织程度各异的驳论与教法判决。其著作年代难以确定，因此追踪其思想发展颇具挑战。尽管如此，仍可为他三部最大的神学巨著排序。伊本·泰米叶在埃及第一次入狱的 12 个月里（即 1306 年 4 月至 1307 年 4 月）写成《阐明贾赫米派的欺骗》（*Bayān talbīs al-Jahmiyya*），驳斥艾什尔里派的无形体论。1313 年后的某个时候，他完成代表作《消除理性与启示传统之间的冲突》（*Darʾ taʿāruḍ al-ʿaql wa-l-naql*），随后又写成驳斥十二伊玛目派什叶主义的《先知逊奈之道》（*Minhāj al-sunna al-nabawiyya*）。这三部著作在现代阿拉伯文校勘版中分别占十、十一、九卷。伊本·泰米叶还写了关于法律、先知预言与基督教的大部头著作。特别有哲学趣味的是《驳逻辑学家》（*al-Radd ʿalā al-manṭiqiyyīn*），他于 1309–1310 年在亚历山大软禁期间开始撰写，后在大马士革完成。同样有趣的是其政治神学著作《遵循教法的公共政策》（*al-Siyāsa al-Sharʿiyya*），似于 1310 年前后起草，返回大马士革后完成。伊本·泰米叶的大部头著作已单独出版，但他大量中小篇幅著作收入文集，其中被引用最多的是 1961–7 年首次出版的 37 卷《教法判决全集》（*Majmūʿ fatāwā*）（Murad 1979; Bori 2009, 2010, 2021; Hoover 2019b: 1–39）[^bori-2009][^hoover-2019b][^murad-1979]。
+    step2: |-
+      伊本·泰米叶没有写系统的神学或哲学著作，而是留下大量长短不一、组织程度各异的驳论与教法判决。其著作年代难以确定，因此追踪其思想发展颇具挑战。尽管如此，仍可为他三部最大的神学巨著排序。伊本·泰米叶在埃及第一次入狱的 12 个月里（即 1306 年 4 月至 1307 年 4 月）写成《阐明贾赫米派的欺骗》（*Bayān talbīs al-Jahmiyya*），驳斥艾什尔里派的无形体论。1313 年后的某个时候，他完成代表作《消除理性与启示传统之间的冲突》（*Darʾ taʿāruḍ al-ʿaql wa-l-naql*），随后又写成驳斥十二伊玛目派什叶主义的《先知逊奈之道》（*Minhāj al-sunna al-nabawiyya*）。这三部著作在现代阿拉伯文校勘版中分别占十、十一、九卷。伊本·泰米叶还写了关于法律、先知预言与基督教的大部头著作。特别有哲学趣味的是《驳逻辑学家》（*al-Radd ʿalā al-manṭiqiyyīn*），他于 1309–1310 年在亚历山大软禁期间开始撰写，后在大马士革完成。同样有趣的是其政治神学著作《遵循教法的公共政策》（*al-Siyāsa al-Sharʿiyya*），似于 1310 年前后起草，返回大马士革后完成。伊本·泰米叶的大部头著作已单独出版，但他大量中小篇幅著作收入文集，其中被引用最多的是 1961–7 年首次出版的 37 卷《教法判决全集》（*Majmūʿ fatāwā*）（Murad 1979; Bori 2009, 2010, 2021; Hoover 2019b: 1–39）[^bori-2009][^hoover-2019b][^murad-1979]。
+  - id: 6
+    kind: body
+    source: |-
+      ## 2. Ontology
+    step1: |-
+      ## 2. 本体论
+    step2: |-
+      ## 2. 本体论
+  - id: 7
+    kind: body
+    source: |-
+      Contrary to the dominant currents of post-classical Islamic thought, Ibn Taymiyya’s ontology is physicalist or materialist. All existents, including God, are concrete particulars capable of being perceived (*maḥsūs*) by at least one of the five senses of sight, hearing, smell, taste, and touch. Whatever is not susceptible to perception by the senses does not exist. Even existents in the unseen world (*ʿālam al-ghayb*) are accessible to sense perception under certain conditions. The unseen, according to Ibn Taymiyya, is not an intellectual world or a world of immaterial images. Instead, the unseen world, like the seen, consists of concrete particulars with temporal and spatial dimensions that may be perceived by the senses when unimpeded. Among other things, the unseen includes God, angels, the afterlife, and the human soul, which is distinct from the human body but not immaterial. Some things in the unseen world have already been perceived in this life by prophets in visions and dreams, and believers will see God in front of them with their eyes in the hereafter. God is in fact more seeable than any other existent because God’s existence is more perfect than the existence of anything else. Conversely, according to Ibn Taymiyya, the incorporeal God of *kalām* theology and philosophers like Ibn Sīnā (Avicenna, d. 1037) and Ibn Rushd is tantamount to a nonexistent. That God is no more than a concept in the mind (Moustafa 2017; Suleiman 2019: 98–102; El-Tobgui 2020: 230–5, 251–2; Hoover 2022: 647–8)[^el-tobgui-2020][^hoover-2022][^moustafa-2017][^suleiman-2019].
+    step1: |-
+      与后古典伊斯兰思想的主流相反，伊本·泰米叶的本体论是物理主义或唯物主义的。一切存在者，包括真主，都是具体个别物，至少能被五种感官（视、听、嗅、味、触）之一感知（*maḥsūs*）。凡不能被感官感知者，便不存在。即便幽玄世界（*ʿālam al-ghayb*）中的存在者，在特定条件下也可被感官感知。在伊本·泰米叶看来，幽玄并非理智世界或无形影像的世界。相反，幽玄世界与可见世界一样，由具有时间与空间维度的具体个别物构成，在不受阻碍时可被感官感知。除其他外，幽玄包括真主、天使、后世与人的灵魂；灵魂区别于人的身体，但并非无形。幽玄世界中的某些事物，已在此生由先知在异象与梦境中感知；信士在后世将用眼睛看见真主在面前。事实上，真主比任何其他存在者更可见，因为真主的存在比任何其他事物的存在更完满。反之，在伊本·泰米叶看来，凯拉姆神学以及伊本·西那（阿维森纳，卒于 1037）与伊本·鲁世德等哲学家所说的无形体真主，无异于不存在者。那样的真主不过是心中的概念（Moustafa 2017; Suleiman 2019: 98–102; El-Tobgui 2020: 230–5, 251–2; Hoover 2022: 647–8）[^el-tobgui-2020][^hoover-2022][^moustafa-2017][^suleiman-2019]。
+    step2: |-
+      与后古典伊斯兰思想的主流相反，伊本·泰米叶的本体论是物理主义或唯物主义的。一切存在者，包括真主，都是具体个别物，至少能被五种感官（视、听、嗅、味、触）之一感知（*maḥsūs*）。凡不能被感官感知者，便不存在。即便幽玄世界（*ʿālam al-ghayb*）中的存在者，在特定条件下也可被感官感知。在伊本·泰米叶看来，幽玄并非理智世界或无形影像的世界。相反，幽玄世界与可见世界一样，由具有时间与空间维度的具体个别物构成，在不受阻碍时可被感官感知。除其他外，幽玄包括真主、天使、后世与人的灵魂；灵魂区别于人的身体，但并非无形。幽玄世界中的某些事物，已在此生由先知在异象与梦境中感知；信士在后世将用眼睛看见真主在面前。事实上，真主比任何其他存在者更可见，因为真主的存在比任何其他事物的存在更完满。反之，在伊本·泰米叶看来，凯拉姆神学以及伊本·西那（阿维森纳，卒于 1037）与伊本·鲁世德等哲学家所说的无形体真主，无异于不存在者。那样的真主不过是心中的概念（Moustafa 2017; Suleiman 2019: 98–102; El-Tobgui 2020: 230–5, 251–2; Hoover 2022: 647–8）[^el-tobgui-2020][^hoover-2022][^moustafa-2017][^suleiman-2019]。
+  - id: 8
+    kind: body
+    source: |-
+      Parallel to this physicalism, Ibn Taymiyya denies that universals exist in extramental reality. He rejects universals existing independently of particulars (Platonic realism) or as shared essences or quiddities (*māhiyyāt*) within particulars that the mind abstracts as universals (Aristotelian and Avicennan moderate realism). Shared meanings and universal notions abstracted from concrete particulars in the extramental world exist only in the mind. There is for example no extramental “absolute human” in which concrete and particular humans participate or of which they are instantiations, and there is no real quiddity “human” that exists in every human. There are only ontologically distinct existents that a mind groups together under a shared meaning or mental universal called “human”. Ibn Taymiyya’s rejection of real universals is often called “nominalism” (e.g., Hallaq 1993: xvi–xxiv)[^hallaq-1993], but it has also been argued that “conceptualism” is the better label. Conceptualism acknowledges the existence of universals in the mind whereas nominalism may imply rejection of that as well (Suleiman 2019: 106–19)[^suleiman-2019].
+    step1: |-
+      与这种物理主义平行，伊本·泰米叶否认共相存在于心外实在中。他拒绝柏拉图式实在论（共相独立于个别物而存在），也拒绝亚里士多德与阿维森纳式温和实在论（共相作为个别物内部共享的本质或实质 *māhiyyāt*，由心灵抽象为共相）。共享意义与从心外具体个别物抽象出的普遍概念，只存在于心灵中。例如，并不存在心外的“绝对的人”，让具体个别的人分有或作为其例示；也不存在真实存在于每个人之中的“人”之实质。存在的只是本体上彼此不同的存在者，心灵把它们归入一个称为“人”的共享意义或心理共相之下。伊本·泰米叶对真实共相的拒绝常被称为“唯名论”（如 Hallaq 1993: xvi–xxiv）[^hallaq-1993]，但也有人主张“概念论”是更好的标签。概念论承认共相存在于心灵中，而唯名论可能连这一点也否认（Suleiman 2019: 106–19）[^suleiman-2019]。
+    step2: |-
+      与这种物理主义平行，伊本·泰米叶否认共相存在于心外实在中。他拒绝柏拉图式实在论（共相独立于个别物而存在），也拒绝亚里士多德与阿维森纳式温和实在论（共相作为个别物内部共享的本质或实质 *māhiyyāt*，由心灵抽象为共相）。共享意义与从心外具体个别物抽象出的普遍概念，只存在于心灵中。例如，并不存在心外的“绝对的人”，让具体个别的人分有或作为其例示；也不存在真实存在于每个人之中的“人”之实质。存在的只是本体上彼此不同的存在者，心灵把它们归入一个称为“人”的共享意义或心理共相之下。伊本·泰米叶对真实共相的拒绝常被称为“唯名论”（如 Hallaq 1993: xvi–xxiv）[^hallaq-1993]，但也有人主张“概念论”是更好的标签。概念论承认共相存在于心灵中，而唯名论可能连这一点也否认（Suleiman 2019: 106–19）[^suleiman-2019]。
+  - id: 9
+    kind: body
+    source: |-
+      For Ibn Taymiyya, extramental existents do share in the fact of existing and in the fact of having unique essences and quiddities:
+    step1: |-
+      在伊本·泰米叶看来，心外存在者确实共享“存在”这一事实，也共享“具有独特本质与实质”这一事实：
+    step2: |-
+      在伊本·泰米叶看来，心外存在者确实共享“存在”这一事实，也共享“具有独特本质与实质”这一事实：
+  - id: 10
+    kind: body
+    source: |-
+      > Between any two existents is something that they share and something that distinguishes them. They must share in being two existents that subsist and obtain, and in each one having a reality (*ḥaqīqa*), which is its essence (*dhāt*), its identify (*nafs*) and its quiddity, even if the two existents are obviously different as in the case of black and white. (*Darʾ taʿāruḍ* 5:83–4)
+    step1: |-
+      > 任何两个存在者之间，都有它们共享的东西，也有使它们彼此区分的东西。它们必定共享“作为两个持续并成立的存在者”这一点，也共享“各自具有一个实在（*ḥaqīqa*）——即其本质（*dhāt*）、其自体（*nafs*）与其实质”——这一点，即便两个存在者明显不同，如黑与白。（*Darʾ taʿāruḍ* 5:83–4）
+    step2: |-
+      > 任何两个存在者之间，都有它们共享的东西，也有使它们彼此区分的东西。它们必定共享“作为两个持续并成立的存在者”这一点，也共享“各自具有一个实在（*ḥaqīqa*）——即其本质（*dhāt*）、其自体（*nafs*）与其实质”——这一点，即便两个存在者明显不同，如黑与白。（*Darʾ taʿāruḍ* 5:83–4）
+  - id: 11
+    kind: body
+    source: |-
+      It is then the unique essences that distinguish existents from each other and render them all completely unique individuals. The essence of something is in fact its very existence along with its attributes (El-Tobgui 2020: 246–50)[^el-tobgui-2020]. Ibn Taymiyya’s views on universals are not entirely unique within post-classical Islam; he is part of a wider drift toward nominalism or conceptualism found in earlier figures such as Shihāb al-Dīn al-Suhrawardī (d. 1191) (Adamson & Benevich 2023: 189–256)[^adamson-2023].
+    step1: |-
+      正是独特本质使存在者彼此区分，并使它们全都成为完全独特的个体。某物的本质事实上就是其存在连同其属性（El-Tobgui 2020: 246–50）[^el-tobgui-2020]。伊本·泰米叶关于共相的观点在后古典伊斯兰中并非全然独特；他属于一种更广泛的唯名论或概念论转向，早期人物如希哈布·丁·苏赫拉瓦迪（卒于 1191）已有此倾向（Adamson & Benevich 2023: 189–256）[^adamson-2023]。
+    step2: |-
+      正是独特本质使存在者彼此区分，并使它们全都成为完全独特的个体。某物的本质事实上就是其存在连同其属性（El-Tobgui 2020: 246–50）[^el-tobgui-2020]。伊本·泰米叶关于共相的观点在后古典伊斯兰中并非全然独特；他属于一种更广泛的唯名论或概念论转向，早期人物如希哈布·丁·苏赫拉瓦迪（卒于 1191）已有此倾向（Adamson & Benevich 2023: 189–256）[^adamson-2023]。
+  - id: 12
+    kind: body
+    source: |-
+      Ibn Taymiyya also maintains that certain rational principles obtain universally, both in the mind and in extramental reality. These principles accord with his physicalist ontology, and they include logical axioms like the law of noncontradiction and the law of the excluded middle. It is not possible, for example, that something exist and not exist at the same time or that something exist neither inside the world nor outside of it. Likewise, one of two existents cannot be neither suffused within the other nor distinct from it. Ibn Taymiyya also affirms the division of existents into two fundamental types. Every existent is either eternal or originated, necessary or possible, and self-subsisting or subsisting in another. He insists on the universal applicability of efficient causality as well. Nothing possible or temporal can come into existence without a sufficient cause. Everything originated requires an originator (*muḥdith*), and everything preponderated needs a preponderator (*murajjīḥ*). It is for this reason, Ibn Taymiyya maintains, that normally functioning human beings perceive directly from their own existence that there must be a God who created them (El-Tobgui 2020: 255–60, 283)[^el-tobgui-2020].
+    step1: |-
+      伊本·泰米叶还主张，某些理性原则普遍成立，既在心灵中，也在心外实在中。这些原则与其物理主义本体论一致，包括不矛盾律与排中律等逻辑公理。例如，某物不可能同时存在又不存在，也不可能既不在世界之内又不在世界之外。同样，两个存在者之一不可能既不渗透于另一个之中，也不与之区分。伊本·泰米叶还肯定存在者分为两个基本类型：每个存在者要么永恒要么被造，要么必然要么可能，要么自存要么依存于他者。他也坚持动力因的普遍适用性：任何可能或时间中的事物，若无充分原因便不能进入存在。一切被造者都需要一个创造者（*muḥdith*），一切被偏重者都需要一个偏重者（*murajjīḥ*）。正因如此，伊本·泰米叶主张，正常运作的人从自身存在直接感知到必有一位创造他们的真主（El-Tobgui 2020: 255–60, 283）[^el-tobgui-2020]。
+    step2: |-
+      伊本·泰米叶还主张，某些理性原则普遍成立，既在心灵中，也在心外实在中。这些原则与其物理主义本体论一致，包括不矛盾律与排中律等逻辑公理。例如，某物不可能同时存在又不存在，也不可能既不在世界之内又不在世界之外。同样，两个存在者之一不可能既不渗透于另一个之中，也不与之区分。伊本·泰米叶还肯定存在者分为两个基本类型：每个存在者要么永恒要么被造，要么必然要么可能，要么自存要么依存于他者。他也坚持动力因的普遍适用性：任何可能或时间中的事物，若无充分原因便不能进入存在。一切被造者都需要一个创造者（*muḥdith*），一切被偏重者都需要一个偏重者（*murajjīḥ*）。正因如此，伊本·泰米叶主张，正常运作的人从自身存在直接感知到必有一位创造他们的真主（El-Tobgui 2020: 255–60, 283）[^el-tobgui-2020]。
+  - id: 13
+    kind: body
+    source: |-
+      ## 3. Epistemology
+    step1: |-
+      ## 3. 认识论
+    step2: |-
+      ## 3. 认识论
+  - id: 14
+    kind: body
+    source: |-
+      ### 3.1 Ways of Knowing
+    step1: |-
+      ### 3.1 认知方式
+    step2: |-
+      ### 3.1 认知方式
+  - id: 15
+    kind: body
+    source: |-
+      Ibn Taymiyya’s epistemology is based on sense perception (*ḥiss*), report (*khabar*), reason (*ʿaql*), and the human natural constitution (*fiṭra*). Sense perception is both outer and inner. Outer sense perception comes through the five senses. It perceives the particulars of the visible world in this life, and it perceives God in the hereafter. Inner sense perception is of hunger, thirst, joy, pain, the existence of one’s own soul, and the existence of God. Sense perception, according to Ibn Taymiyya, is immediate and necessary in the sense that it cannot be denied.
+    step1: |-
+      伊本·泰米叶的认识论基于感官知觉（*ḥiss*）、传述（*khabar*）、理性（*ʿaql*）与人的自然禀赋（*fiṭra*）。感官知觉分外在和内在。外在感官知觉通过五种感官而来，在此生感知可见世界的个别物，在后世感知真主。内在感官知觉关乎饥饿、口渴、快乐、痛苦、自身灵魂的存在以及真主的存在。在伊本·泰米叶看来，感官知觉是直接的、必然的，即不可否认。
+    step2: |-
+      伊本·泰米叶的认识论基于感官知觉（*ḥiss*）、传述（*khabar*）、理性（*ʿaql*）与人的自然禀赋（*fiṭra*）。感官知觉分外在和内在。外在感官知觉通过五种感官而来，在此生感知可见世界的个别物，在后世感知真主。内在感官知觉关乎饥饿、口渴、快乐、痛苦、自身灵魂的存在以及真主的存在。在伊本·泰米叶看来，感官知觉是直接的、必然的，即不可否认。
+  - id: 16
+    kind: body
+    source: |-
+      Report is related to sense perception insofar as it derives from the sense perceptions of others who have experienced what they report. Reports may be of particulars and universals and of the seen and the unseen. Much of what we know comes from reports because our own sense perception is limited in range. Divine revelation constitutes a special category of reports providing knowledge about the unseen world and the hereafter. Reports provide certain knowledge only if they are so abundantly transmitted as to preclude collusion and forgery. Muslims consider the Qurʾān and some reports from the Prophet Muḥammad to be abundantly transmitted (*mutawātir*). Ibn Taymiyya regards some reports of the early Muslims, the *salaf*, to be abundantly transmitted as well (El-Tobgui 2020: 227–9, 235–41)[^el-tobgui-2020].
+    step1: |-
+      传述与感官知觉相关，因为它源自其他经历过其所传述之事者的感官知觉。传述可以是关于个别物与共相、可见与幽玄的。我们所知甚多来自传述，因为我们自己的感官知觉范围有限。神圣启示构成传述的一个特殊类别，提供关于幽玄世界与后世的知识。只有当传述被如此大量地传递，以至排除了串通与伪造时，它才提供确定知识。穆斯林认为《古兰经》与先知穆罕默德的一些传述是大量传递的（*mutawātir*）。伊本·泰米叶也认为早期穆斯林（*salaf*）的一些传述是大量传递的（El-Tobgui 2020: 227–9, 235–41）[^el-tobgui-2020]。
+    step2: |-
+      传述与感官知觉相关，因为它源自其他经历过其所传述之事者的感官知觉。传述可以是关于个别物与共相、可见与幽玄的。我们所知甚多来自传述，因为我们自己的感官知觉范围有限。神圣启示构成传述的一个特殊类别，提供关于幽玄世界与后世的知识。只有当传述被如此大量地传递，以至排除了串通与伪造时，它才提供确定知识。穆斯林认为《古兰经》与先知穆罕默德的一些传述是大量传递的（*mutawātir*）。伊本·泰米叶也认为早期穆斯林（*salaf*）的一些传述是大量传递的（El-Tobgui 2020: 227–9, 235–41）[^el-tobgui-2020]。
+  - id: 17
+    kind: body
+    source: |-
+      Reason for Ibn Taymiyya is both a rational faculty and a kind of immediate (*badīhī*) and necessary (*ḍarūrī*) knowledge. The latter includes logical axioms like those noted above (e.g., the law of excluded middle and the law of non-contradiction) and basic moral intuitions (e.g., that God must be the only object of worship and that what is beneficial is good). The functions of reason as a faculty include forming universals in the mind from the extramental concrete particulars known through the senses and carrying out rational inferences (El-Tobgui 2020: 253–60)[^el-tobgui-2020].
+    step1: |-
+      对伊本·泰米叶而言，理性既是理性能力，也是一种直接（*badīhī*）而必然（*ḍarūrī*）的知识。后者包括上述逻辑公理（如排中律与不矛盾律）以及基本道德直觉（如真主必是唯一崇拜对象、有益者即善）。作为能力的理性，其功能包括从感官所知的心外具体个别物在心灵中形成共相，并进行理性推理（El-Tobgui 2020: 253–60）[^el-tobgui-2020]。
+    step2: |-
+      对伊本·泰米叶而言，理性既是理性能力，也是一种直接（*badīhī*）而必然（*ḍarūrī*）的知识。后者包括上述逻辑公理（如排中律与不矛盾律）以及基本道德直觉（如真主必是唯一崇拜对象、有益者即善）。作为能力的理性，其功能包括从感官所知的心外具体个别物在心灵中形成共相，并进行理性推理（El-Tobgui 2020: 253–60）[^el-tobgui-2020]。
+  - id: 18
+    kind: body
+    source: |-
+      The *fiṭra* frames Ibn Taymiyya’s epistemological outlook as the “original normative disposition” (El-Tobgui 2020: 260)[^el-tobgui-2020] or “natural constitution” (Hoover 2007: 39)[^hoover-2007] of the human being to believe in and worship God alone just as an infant instinctively seeks to drink its mother’s milk. God creates human beings with a Godward orientation, and this includes many things known by reason such as the basic rules of thought and fundamental moral intuitions. Corrupting influences and incorrect *kalam* and philosophical reasoning may divert the *fiṭra* from its proper ends. The role of prophecy and divine revelation then is to perfect the *fiṭra* by removing sources of corruption, providing correct arguments, and revealing aspects of the divine law not known through natural means (Holtzman 2010: 165–78; Anjum 2012: 215–27; Kazi 2013: 232–313; Vasalou 2016: 77–92; El-Tobgui 2020: 260–4; Candiard 2023: 309–28)[^anjum-2012][^candiard-2023][^el-tobgui-2020][^holtzman-2010][^kazi-2013][^vasalou-2016].
+    step1: |-
+      *fiṭra* 把伊本·泰米叶的认识论构想框定为人的“原初规范禀性”（El-Tobgui 2020: 260）[^el-tobgui-2020] 或“自然构造”（Hoover 2007: 39）[^hoover-2007]：人倾向于信仰并只崇拜真主，正如婴儿本能地寻求吮吸母乳。真主创造人时赋予其朝向真主的取向，其中包括许多由理性所知之事，如思维的基本规则与根本道德直觉。败坏性影响以及错误的凯拉姆与哲学推理，可能使 *fiṭra* 偏离其恰当目的。预言与神圣启示的作用，便是通过移除败坏之源、提供正确论证、揭示自然手段所不知的神法方面，来完善 *fiṭra*（Holtzman 2010: 165–78; Anjum 2012: 215–27; Kazi 2013: 232–313; Vasalou 2016: 77–92; El-Tobgui 2020: 260–4; Candiard 2023: 309–28）[^anjum-2012][^candiard-2023][^el-tobgui-2020][^holtzman-2010][^kazi-2013][^vasalou-2016]。
+    step2: |-
+      *fiṭra* 把伊本·泰米叶的认识论构想框定为人的“原初规范禀性”（El-Tobgui 2020: 260）[^el-tobgui-2020] 或“自然构造”（Hoover 2007: 39）[^hoover-2007]：人倾向于信仰并只崇拜真主，正如婴儿本能地寻求吮吸母乳。真主创造人时赋予其朝向真主的取向，其中包括许多由理性所知之事，如思维的基本规则与根本道德直觉。败坏性影响以及错误的凯拉姆与哲学推理，可能使 *fiṭra* 偏离其恰当目的。预言与神圣启示的作用，便是通过移除败坏之源、提供正确论证、揭示自然手段所不知的神法方面，来完善 *fiṭra*（Holtzman 2010: 165–78; Anjum 2012: 215–27; Kazi 2013: 232–313; Vasalou 2016: 77–92; El-Tobgui 2020: 260–4; Candiard 2023: 309–28）[^anjum-2012][^candiard-2023][^el-tobgui-2020][^holtzman-2010][^kazi-2013][^vasalou-2016]。
+  - id: 19
+    kind: body
+    source: |-
+      Apart from prophecy, Ibn Taymiyya also appeals to the collective *fiṭra* of humankind to secure the reliability of sensory knowledge and rational axioms against the corrupt reasoning of *kalām* theologians and philosophers. For example, the axiom that one of two existents is either suffused within the other or distinct from it is so abundantly transmitted from ordinary people of sound *fiṭra* as to preclude collusion and error. This unmasks the faulty reasoning of theologians of corrupted *fiṭra* who posit a third type of existent that is neither suffused within another existent nor distinct from it (i.e., God). With this, abundant transmission (*tawāṭur*) guarantees for Ibn Taymiyya not only the authenticity of divine revelation but also the certainty of knowledge that accords with logical axioms and sense perception (El-Tobgui 2018a; El-Tobgui 2020: 267–75)[^el-tobgui-2018a][^el-tobgui-2020].
+    step1: |-
+      除预言外，伊本·泰米叶还诉诸人类的集体 *fiṭra*，以保障感官知识与理性公理的可靠性，对抗凯拉姆神学家与哲学家的败坏推理。例如，“两个存在者之一要么渗透于另一个之中、要么与之区分”这一公理，从具有健全 *fiṭra* 的普通人那里被如此大量地传递，以至排除了串通与错误。这揭穿了 *fiṭra* 已败坏的神学家们的错误推理：他们设定第三种存在者，既不渗透于另一存在者之中，也不与之区分（即真主）。由此，大量传递（*tawāṭur*）对伊本·泰米叶而言不仅保障神圣启示的真实性，也保障符合逻辑公理与感官知觉的知识之确定性（El-Tobgui 2018a; El-Tobgui 2020: 267–75）[^el-tobgui-2018a][^el-tobgui-2020]。
+    step2: |-
+      除预言外，伊本·泰米叶还诉诸人类的集体 *fiṭra*，以保障感官知识与理性公理的可靠性，对抗凯拉姆神学家与哲学家的败坏推理。例如，“两个存在者之一要么渗透于另一个之中、要么与之区分”这一公理，从具有健全 *fiṭra* 的普通人那里被如此大量地传递，以至排除了串通与错误。这揭穿了 *fiṭra* 已败坏的神学家们的错误推理：他们设定第三种存在者，既不渗透于另一存在者之中，也不与之区分（即真主）。由此，大量传递（*tawāṭur*）对伊本·泰米叶而言不仅保障神圣启示的真实性，也保障符合逻辑公理与感官知觉的知识之确定性（El-Tobgui 2018a; El-Tobgui 2020: 267–75）[^el-tobgui-2018a][^el-tobgui-2020]。
+  - id: 20
+    kind: body
+    source: |-
+      ### 3.2 Refutation of Aristotelian Logic
+    step1: |-
+      ### 3.2 对亚里士多德逻辑的驳斥
+    step2: |-
+      ### 3.2 对亚里士多德逻辑的驳斥
+  - id: 21
+    kind: body
+    source: |-
+      Ibn Taymiyya devotes his *Refutation of the Logicians* (*al-Radd ʿalā al-manṭiyyīn*) to Aristotelian logic as reformulated by Ibn Sīnā. The Avicennan logical system is foundationalist. New knowledge is built up from primary knowledge through discursive reasoning. Otherwise, without a foundation of primary knowledge, rational inferences would regress infinitely. Avicennan logic furthermore divides knowledge (*ʿilm*) into conceptualization (*taṣawwur*) and assent (*taṣdīq*). Conceptualization is the formation of a notion or concept in the mind. Some concepts like “thing” and “existent” are primary; they are known immediately without discursive reasoning (*naẓar*). Other concepts are acquired by formation of a real definition (*ḥadd*), which indicates the essence or quiddity (*māhiyya*) of a species by specifying its genus and specific difference. For example, the definition of “human” as “rational animal” is acquired through reflection on prior knowledge of the species “animal” and the specific difference “rational”. The definition generates a concept in the mind that corresponds to the quiddity of the existing thing in extramental reality. Assent, the second division of Avicennan logic, affirms the truthfulness of a proposition. Assents are also primary or acquired, and they may be either certain (*yaqīn*) or probable. Primary assents that are certain include, among other things, primary truths (e.g., the whole is greater than the part); sense perceptions (e.g., seeing that the sun is shining), and abundantly transmitted reports (e.g., of the existence of a given city). Probable primary assents include beliefs about human customs and laws. Acquired assents are derived through induction, analogy, and syllogism. Induction and analogy impart no more than probability, but a valid categorical syllogism with certain premises provides apodictic certainty. Such a syllogism is called a demonstration (*burhān*) (Inati 1984; Hallaq 1993: xiv–xvii, xxvii–xxviii, 4–5 n. 4; Ahmed 2011; Black 2013)[^ahmed-2011][^black-2013][^hallaq-1993][^inati-1984].
+    step1: |-
+      伊本·泰米叶把《驳逻辑学家》（*al-Radd ʿalā al-manṭiqiyyīn*）用于驳斥经伊本·西那重新表述的亚里士多德逻辑。阿维森纳逻辑体系是基础主义的：新知识通过推理由原初知识建构起来；否则，若无原初知识的基础，理性推理将无限倒退。阿维森纳逻辑还把知识（*ʿilm*）分为概念化（*taṣawwur*）与断定（*taṣdīq*）。概念化是在心灵中形成观念或概念。有些概念如“事物”与“存在者”是原初的，无须推理（*naẓar*）便直接得知。其他概念则通过形成真实定义（*ḥadd*）而获得；定义通过指定属与种差，指明一个种的本质或实质（*māhiyya*）。例如，把“人”定义为“理性动物”，是经由反思对“动物”这一种与“理性”这一种差的先在知识而获得。定义在心灵中生成一个概念，对应于心外实在中现存之物的实质。断定是阿维森纳逻辑的第二部分，肯定一个命题为真。断定也分原初与获得，且可以是确定的（*yaqīn*）或或然的。确定的原初断定除其他外包括原初真理（如整体大于部分）、感官知觉（如看见太阳在照耀）与大量传递的传述（如某座城市存在）。或然的原初断定包括关于人类习俗与法律的信念。获得的断定通过归纳、类比与三段论得出。归纳与类比只提供或然性，但前提确定的有效直言三段论提供必然确定性；这种三段论称为证明（*burhān*）（Inati 1984; Hallaq 1993: xiv–xvii, xxvii–xxviii, 4–5 n. 4; Ahmed 2011; Black 2013）[^ahmed-2011][^black-2013][^hallaq-1993][^inati-1984]。
+    step2: |-
+      伊本·泰米叶把《驳逻辑学家》（*al-Radd ʿalā al-manṭiqiyyīn*）用于驳斥经伊本·西那重新表述的亚里士多德逻辑。阿维森纳逻辑体系是基础主义的：新知识通过推理由原初知识建构起来；否则，若无原初知识的基础，理性推理将无限倒退。阿维森纳逻辑还把知识（*ʿilm*）分为概念化（*taṣawwur*）与断定（*taṣdīq*）。概念化是在心灵中形成观念或概念。有些概念如“事物”与“存在者”是原初的，无须推理（*naẓar*）便直接得知。其他概念则通过形成真实定义（*ḥadd*）而获得；定义通过指定属与种差，指明一个种的本质或实质（*māhiyya*）。例如，把“人”定义为“理性动物”，是经由反思对“动物”这一种与“理性”这一种差的先在知识而获得。定义在心灵中生成一个概念，对应于心外实在中现存之物的实质。断定是阿维森纳逻辑的第二部分，肯定一个命题为真。断定也分原初与获得，且可以是确定的（*yaqīn*）或或然的。确定的原初断定除其他外包括原初真理（如整体大于部分）、感官知觉（如看见太阳在照耀）与大量传递的传述（如某座城市存在）。或然的原初断定包括关于人类习俗与法律的信念。获得的断定通过归纳、类比与三段论得出。归纳与类比只提供或然性，但前提确定的有效直言三段论提供必然确定性；这种三段论称为证明（*burhān*）（Inati 1984; Hallaq 1993: xiv–xvii, xxvii–xxviii, 4–5 n. 4; Ahmed 2011; Black 2013）[^ahmed-2011][^black-2013][^hallaq-1993][^inati-1984]。
+  - id: 22
+    kind: body
+    source: |-
+      Ibn Taymiyya falls within a tradition going back to the twelfth century that subjected Ibn Sīnā’s Aristotelian notion of real definition to skeptical critique. He rejects the ontology underpinning Avicennan definitions: definitions do not delineate real Avicennan quiddities shared by multiple existents outside the mind, and the attributes of extramental realities are not divided into those which are quiddative or essential and those which are not. Ibn Taymiyya maintains instead that definitions are matters of linguistic convention. They simply name and identify what is defined, and they distinguish one thing from another. This is the view of definitions common among *kalām* theologians. Following on from this, Ibn Taymiyya asserts that Aristotelian definitions are not needed to form concepts and that in fact, as the Ashʿarī theologian Fakhr al-Dīn al-Rāzī (d. 606/1210) argued earlier, real definitions cannot lead to the acquisition of conceptualizations at all. Conceptualizations are all primary and empirical in character; they arise from experience and the senses, both external (e.g., sight and hearing) and internal (e.g., hunger, pain, love). Aristotelian definitions do not impart knowledge not already known. Those who hear definitions will not understand them unless they have previously conceptualized and understood the terms used to form the definitions themselves. The definition of human as rational animal for example is merely an assertion of the person who defines it. A hearer who knows this to be true will know it based on prior knowledge and not from the definition. A hearer who does not know it to be true cannot be sure that the testimony of this one person who defined it is correct without further corroboration (*Manṭiqiyyīn* 7–87/49–129; Hallaq 1993: xvii–xx, xlvi–xlvii; von Kügelgen 2005: 179–204; Rayan 2009, 2010, 2011b; on earlier critiques of definition, including al-Rāzī’s, see Jacobsen Ben Hammed 2020; Griffel 2021: 312–3, 336–87; Benevich 2022)[^benevich-2022][^griffel-2021][^hallaq-1993][^jacobsen-2020][^rayan-2009].
+    step1: |-
+      伊本·泰米叶属于可追溯至 12 世纪的传统，该传统对伊本·西那的亚里士多德式真实定义概念作怀疑论批评。他拒绝支撑阿维森纳定义的形而上学：定义并不刻画心外多个存在者共享的真实阿维森纳式实质，心外实在的属性也不分为本质性的与非本质性的。伊本·泰米叶反而主张，定义是语言约定之事。它们只是命名并标识被定义者，使一物区别于另一物。这是凯拉姆神学家中常见的定义观。由此，伊本·泰米叶断言，亚里士多德式定义并非形成概念所需；事实上，正如艾什尔里派神学家法赫尔·丁·拉齐（卒于 606/1210）早先所论，真实定义根本不能导致概念化的获得。概念化全是原初的、经验性的；它们源于经验与感官，包括外在感官（如视、听）与内在感官（如饥饿、痛苦、爱）。亚里士多德式定义并不传达尚未知晓的知识。听定义者除非事先已概念化并理解构成定义所用术语，否则不会理解定义。例如，把人定义为理性动物，不过是下定义者的断言。知道其为真的听者，是依据先在知识而非定义知道；不知道其为真的听者，若无进一步佐证，便不能确定这一定义者的证言正确（*Manṭiqiyyīn* 7–87/49–129; Hallaq 1993: xvii–xx, xlvi–xlvii; von Kügelgen 2005: 179–204; Rayan 2009, 2010, 2011b；关于包括拉齐在内的早期定义批评，见 Jacobsen Ben Hammed 2020; Griffel 2021: 312–3, 336–87; Benevich 2022）[^benevich-2022][^griffel-2021][^hallaq-1993][^jacobsen-2020][^rayan-2009]。
+    step2: |-
+      伊本·泰米叶属于可追溯至 12 世纪的传统，该传统对伊本·西那的亚里士多德式真实定义概念作怀疑论批评。他拒绝支撑阿维森纳定义的形而上学：定义并不刻画心外多个存在者共享的真实阿维森纳式实质，心外实在的属性也不分为本质性的与非本质性的。伊本·泰米叶反而主张，定义是语言约定之事。它们只是命名并标识被定义者，使一物区别于另一物。这是凯拉姆神学家中常见的定义观。由此，伊本·泰米叶断言，亚里士多德式定义并非形成概念所需；事实上，正如艾什尔里派神学家法赫尔·丁·拉齐（卒于 606/1210）早先所论，真实定义根本不能导致概念化的获得。概念化全是原初的、经验性的；它们源于经验与感官，包括外在感官（如视、听）与内在感官（如饥饿、痛苦、爱）。亚里士多德式定义并不传达尚未知晓的知识。听定义者除非事先已概念化并理解构成定义所用术语，否则不会理解定义。例如，把人定义为理性动物，不过是下定义者的断言。知道其为真的听者，是依据先在知识而非定义知道；不知道其为真的听者，若无进一步佐证，便不能确定这一定义者的证言正确（*Manṭiqiyyīn* 7–87/49–129; Hallaq 1993: xvii–xx, xlvi–xlvii; von Kügelgen 2005: 179–204; Rayan 2009, 2010, 2011b；关于包括拉齐在内的早期定义批评，见 Jacobsen Ben Hammed 2020; Griffel 2021: 312–3, 336–87; Benevich 2022）[^benevich-2022][^griffel-2021][^hallaq-1993][^jacobsen-2020][^rayan-2009]。
+  - id: 23
+    kind: body
+    source: |-
+      Ibn Taymiyya also denounces the logicians’ demonstrative syllogism as unnecessary and useless for acquiring certain knowledge. He does affirm that a categorical syllogism is formally productive. It yields certainty if its premises are certain:
+    step1: |-
+      伊本·泰米叶还谴责逻辑学家的证明三段论，认为它既非必要也无用于获得确定知识。他确实肯定直言三段论在形式上有效：若前提确定，它便产生确定性：
+    step2: |-
+      伊本·泰米叶还谴责逻辑学家的证明三段论，认为它既非必要也无用于获得确定知识。他确实肯定直言三段论在形式上有效：若前提确定，它便产生确定性：
+  - id: 24
+    kind: body
+    source: |-
+      > If the subject matter of the syllogistic form is known [with certainty], then there is no doubt that it yields certainty. If it is said that every A is B and every B is C, and the two premises are known [with certainty], then there is no doubt that this combination yields [certain] knowledge that every A is C. This is not disputed. (*Manṭiqiyyīn* 293/339; cf. Hallaq 1993: 141)[^hallaq-1993]
+    step1: |-
+      > 若三段论形式的主项材料被[确定地]知道，那么它无疑产生确定性。若说“凡 A 是 B，凡 B 是 C”，且两个前提被[确定地]知道，那么这个组合无疑产生“凡 A 是 C”的[确定]知识。这没有争议。（*Manṭiqiyyīn* 293/339；参 Hallaq 1993: 141）[^hallaq-1993]
+    step2: |-
+      > 若三段论形式的主项材料被[确定地]知道，那么它无疑产生确定性。若说“凡 A 是 B，凡 B 是 C”，且两个前提被[确定地]知道，那么这个组合无疑产生“凡 A 是 C”的[确定]知识。这没有争议。（*Manṭiqiyyīn* 293/339；参 Hallaq 1993: 141）[^hallaq-1993]
+  - id: 25
+    kind: body
+    source: |-
+      However, Ibn Taymiyya belittles the Aristotelian and Avicennan elaboration of syllogistic figures and conditions as unduly complex and of little worth:
+    step1: |-
+      然而，伊本·泰米叶贬低亚里士多德与阿维森纳对三段论格与条件的精细阐述，认为它们过于复杂而价值甚微：
+    step2: |-
+      然而，伊本·泰米叶贬低亚里士多德与阿维森纳对三段论格与条件的精细阐述，认为它们过于复杂而价值甚微：
+  - id: 26
+    kind: body
+    source: |-
+      > The upshot of the multiplicity of these figures and conditions is prolixity of little use and much weariness. They are lean camel meat on a rugged mountain peak that is not easy to climb, and [the meat] not ample enough to be worth carrying down. (*Manṭiqiyyīn* 296/342–3; cf. Hallaq 1993: 141)[^hallaq-1993]
+    step1: |-
+      > 这些格与条件繁多，结果是冗长而少用、令人疲惫。它们是崎岖山峰上的瘦骆驼肉，不易攀爬，[肉]也不够多，不值得搬下来。（*Manṭiqiyyīn* 296/342–3；参 Hallaq 1993: 141）[^hallaq-1993]
+    step2: |-
+      > 这些格与条件繁多，结果是冗长而少用、令人疲惫。它们是崎岖山峰上的瘦骆驼肉，不易攀爬，[肉]也不够多，不值得搬下来。（*Manṭiqiyyīn* 296/342–3；参 Hallaq 1993: 141）[^hallaq-1993]
+  - id: 27
+    kind: body
+    source: |-
+      More substantively, Ibn Taymiyya argues that certain knowledge may be acquired without a categorical syllogism. Different people come to certainty in different ways. What is acquired knowledge for some may be immediate knowledge for others. Some need the middle term of a syllogism to acquire certain knowledge while others do not. A rational inference producing certainty also need not be composed of exactly two premises, counter to what logicians require for a demonstrative syllogism. The number of premises varies according to the ability of the one seeking knowledge, and some inferences require only one premise, that is, a single indicant (*dalīl*) with its necessarily entailment (*luzūm*). As an example, Ibn Taymiyya notes that every created thing known with certainty to exist entails the existence of the Creator necessarily. The argument does not need to be reformulated into a categorical syllogism to provide certainty, and to require the syllogistic form is mere pedantry. Moreover, and following on from Ibn Taymiyya’s empiricist outlook, the universal proposition in a demonstrative syllogism is in fact superfluous in matters pertaining to the extramental world because knowledge of that world is rooted in particulars. For example, to determine whether the universal, “All flames burn”, is true in the world outside the mind, one would need to examine all flames to see whether they all burn. In this attempt at complete induction, one would discover along the way that a particular flame burns. There would then be no need to construct a demonstrative syllogism with the universal premise, “All flames burn”, to attain certainty that that one flame burns. It has already been ascertained that it burns. Additionally, in view of the difficulty of achieving complete induction of particulars, acquired knowledge of the extramental world will be merely probable, not certain (*Manṭiqiyyīn* 113–4/155, 250–3/294–7; Hallaq 1993: xxvii–xxxv, 30–42, 134–7; von Kügelgen 2005: 204–9; Rayan 2011a, 2012)[^hallaq-1993][^rayan-2011a].
+    step1: |-
+      更实质地说，伊本·泰米叶主张，确定知识可以不经直言三段论而获得。不同的人以不同方式达到确定。对某些人是获得知识者，对另一些人可能是直接知识。有些人需要三段论的中项来获得确定知识，另一些人则不需要。产生确定性的理性推理也不必恰好由两个前提构成，这与逻辑学家对证明三段论的要求相反。前提数目随求知者能力而异，有些推理只需一个前提，即一个指示项（*dalīl*）及其必然蕴含（*luzūm*）。例如，伊本·泰米叶指出，每个被确定知道存在的被造物都必然蕴含创造者的存在。该论证无须改写成直言三段论便能提供确定性；要求三段论形式纯属迂腐。此外，依循伊本·泰米叶的经验论构想，证明三段论中的全称命题在关涉心外世界时其实多余，因为关于该世界的知识根植于个别物。例如，要判定全称命题“凡火焰皆燃烧”在心外世界是否为真，人须检查所有火焰，看它们是否都燃烧。在这一完全归纳的尝试中，人会沿途发现某一特定火焰燃烧。于是便无须构造带全称前提“凡火焰皆燃烧”的证明三段论，来确定那一火焰燃烧；它已被确认燃烧。再者，鉴于对个别物作完全归纳的困难，关于心外世界的获得知识将只是或然的，而非确定的（*Manṭiqiyyīn* 113–4/155, 250–3/294–7; Hallaq 1993: xxvii–xxxv, 30–42, 134–7; von Kügelgen 2005: 204–9; Rayan 2011a, 2012）[^hallaq-1993][^rayan-2011a]。
+    step2: |-
+      更实质地说，伊本·泰米叶主张，确定知识可以不经直言三段论而获得。不同的人以不同方式达到确定。对某些人是获得知识者，对另一些人可能是直接知识。有些人需要三段论的中项来获得确定知识，另一些人则不需要。产生确定性的理性推理也不必恰好由两个前提构成，这与逻辑学家对证明三段论的要求相反。前提数目随求知者能力而异，有些推理只需一个前提，即一个指示项（*dalīl*）及其必然蕴含（*luzūm*）。例如，伊本·泰米叶指出，每个被确定知道存在的被造物都必然蕴含创造者的存在。该论证无须改写成直言三段论便能提供确定性；要求三段论形式纯属迂腐。此外，依循伊本·泰米叶的经验论构想，证明三段论中的全称命题在关涉心外世界时其实多余，因为关于该世界的知识根植于个别物。例如，要判定全称命题“凡火焰皆燃烧”在心外世界是否为真，人须检查所有火焰，看它们是否都燃烧。在这一完全归纳的尝试中，人会沿途发现某一特定火焰燃烧。于是便无须构造带全称前提“凡火焰皆燃烧”的证明三段论，来确定那一火焰燃烧；它已被确认燃烧。再者，鉴于对个别物作完全归纳的困难，关于心外世界的获得知识将只是或然的，而非确定的（*Manṭiqiyyīn* 113–4/155, 250–3/294–7; Hallaq 1993: xxvii–xxxv, 30–42, 134–7; von Kügelgen 2005: 204–9; Rayan 2011a, 2012）[^hallaq-1993][^rayan-2011a]。
+  - id: 28
+    kind: body
+    source: |-
+      Ibn Taymiyya also claims in his *Refutation of the Logicians* that the categorical syllogism is equivalent to analogy:
+    step1: |-
+      伊本·泰米叶在《驳逻辑学家》中还主张，直言三段论等同于类比：
+    step2: |-
+      伊本·泰米叶在《驳逻辑学家》中还主张，直言三段论等同于类比：
+  - id: 29
+    kind: body
+    source: |-
+      > Analogy (*qiyās al-tamthīl*) and the categorical syllogism (*qiyās al-shumūl*) are equivalent. Certainty (*yaqīn*) and probability (*ẓann*) differ only according to the subject matter [of the premises]. If the specific subject matter is certain in one, it is certain in the other, and, if it is probable in one, it is probable in the other. (*Manṭiqiyyīn* 116/157, cf. 6/48, 200–1/244)
+    step1: |-
+      > 类比（*qiyās al-tamthīl*）与直言三段论（*qiyās al-shumūl*）等价。确定性（*yaqīn*）与或然性（*ẓann*）的差别只在于[前提的]主项材料。若特定主项材料在一种中确定，在另一种中也确定；若在一种中或然，在另一种中也或然。（*Manṭiqiyyīn* 116/157，参 6/48, 200–1/244）
+    step2: |-
+      > 类比（*qiyās al-tamthīl*）与直言三段论（*qiyās al-shumūl*）等价。确定性（*yaqīn*）与或然性（*ẓann*）的差别只在于[前提的]主项材料。若特定主项材料在一种中确定，在另一种中也确定；若在一种中或然，在另一种中也或然。（*Manṭiqiyyīn* 116/157，参 6/48, 200–1/244）
+  - id: 30
+    kind: body
+    source: |-
+      According to Aristotelian and Avicennan logic, an analogy can never impart certain knowledge because it only compares one particular with another. An analogy transfers a judgement or property found in one particular to the second particular by virtue of a characteristic shared between the two. The cause (*ʿilla*) of this shared characteristic can never be ascertained with complete certainty, and so an analogy can never impart certain knowledge.
+    step1: |-
+      按亚里士多德与阿维森纳逻辑，类比绝不能提供确定知识，因为它只是把一个别物与另一个别物相比较。类比借助两个别物共享的特征，把一个别物中的判断或属性转移至第二个别物。这一共享特征的原因（*ʿilla*）绝不能完全确定地查明，故类比绝不能提供确定知识。
+    step2: |-
+      按亚里士多德与阿维森纳逻辑，类比绝不能提供确定知识，因为它只是把一个别物与另一个别物相比较。类比借助两个别物共享的特征，把一个别物中的判断或属性转移至第二个别物。这一共享特征的原因（*ʿilla*）绝不能完全确定地查明，故类比绝不能提供确定知识。
+  - id: 31
+    kind: body
+    source: |-
+      Contrary to this, Ibn Taymiyya contends that the middle term of the categorical syllogism is identical to the cause in analogy and that an analogy can be reformulated as the first figure of a categorical syllogism. He illustrates with the famous juristic case of date wine (*nabīdh*). Date wine is forbidden by analogy to grape wine because both intoxicate. Intoxication is the cause of forbiddance in both the original and the assimilated cases. Likewise, date wine is forbidden by the following demonstration: every date wine is an intoxicant; every intoxicant is forbidden; therefore, date wine is forbidden. Ibn Taymiyya acknowledges that the greatest question concerning analogy is how to ascertain that the characteristic shared by the original and assimilated cases (e.g., intoxication) causes or necessitates the ruling (e.g., forbiddance). However, he explains, that is no different from the equally difficult problem of identifying the middle term in a categorical syllogism. If the middle term is certainly the cause and the premises are certain, that forms a demonstration. Otherwise, the major premise in the syllogism will be only probable, and the conclusion will likewise be only probable. As noted above, Ibn Taymiyya maintains that it is not possible to acquire certain knowledge of universal propositions in extramental reality (e.g., that all flames burn), and so he effectively reduces the categorical syllogism to the epistemic level of analogy as a tool for acquiring new knowledge of the world outside the mind.
+    step1: |-
+      与此相反，伊本·泰米叶主张，直言三段论的中项等同于类比中的原因，且类比可改写为直言三段论的第一格。他以著名的椰枣酒（*nabīdh*）教法案例说明。椰枣酒因与葡萄酒同样致醉而被类比禁止。致醉在原初案例与归入案例中都是禁止的原因。同样，椰枣酒可经以下证明被禁止：凡椰枣酒皆致醉物；凡致醉物皆被禁止；故椰枣酒被禁止。伊本·泰米叶承认，关于类比的最大问题，是如何确定原初案例与归入案例共享的特征（如致醉）导致或必然蕴含该判决（如禁止）。然而他解释说，这与直言三段论中识别中项这一同样困难的问题并无不同。若中项确定是原因且前提确定，便构成证明。否则，三段论的大前提只是或然的，结论也同样是或然的。如上所述，伊本·泰米叶主张，不可能获得关于心外实在全称命题（如凡火焰皆燃烧）的确定知识，故他实际上把直言三段论降为类比的认识论层次，作为获得心外世界新知识的工具。
+    step2: |-
+      与此相反，伊本·泰米叶主张，直言三段论的中项等同于类比中的原因，且类比可改写为直言三段论的第一格。他以著名的椰枣酒（*nabīdh*）教法案例说明。椰枣酒因与葡萄酒同样致醉而被类比禁止。致醉在原初案例与归入案例中都是禁止的原因。同样，椰枣酒可经以下证明被禁止：凡椰枣酒皆致醉物；凡致醉物皆被禁止；故椰枣酒被禁止。伊本·泰米叶承认，关于类比的最大问题，是如何确定原初案例与归入案例共享的特征（如致醉）导致或必然蕴含该判决（如禁止）。然而他解释说，这与直言三段论中识别中项这一同样困难的问题并无不同。若中项确定是原因且前提确定，便构成证明。否则，三段论的大前提只是或然的，结论也同样是或然的。如上所述，伊本·泰米叶主张，不可能获得关于心外实在全称命题（如凡火焰皆燃烧）的确定知识，故他实际上把直言三段论降为类比的认识论层次，作为获得心外世界新知识的工具。
+  - id: 32
+    kind: body
+    source: |-
+      Ibn Taymiyya furthermore explains that once the necessitating cause in an analogy has been identified (e.g., intoxication as the cause of forbiddance), it becomes a universal, and the original case in the analogical argument is no longer needed. Whenever the cause obtains, the ruling follows necessarily. Yet, Ibn Taymiyya continues, a universal only exists with respect to a particular case, and specifying the original case is how the universal comes to be known (*Manṭiqiyyīn* 116–8/158–60). For Ibn Taymiyya, it is divine revelation that makes the cause of a ruling known. In the case of date wine, it is known from the consensus of the Muslim community and unambiguous revealed texts that every intoxicant is forbidden. Among unambiguous texts are two statements of the Prophet Muḥammad in the hadith collection of Muslim: “Every intoxicant is wine (*khamr*), and every intoxicant is forbidden”, and, “Every intoxicant is wine, and every wine is forbidden” (*Manṭiqiyyīn* 111–2/152–3; Heer 1988; Hallaq 1993: xxxv–xxxviii, 43–51, 159–64; von Kügelgen 2005: 209–12; von Kügelgen 2013: 313–22)[^hallaq-1993][^heer-1988]. Divine revelation can provide certain knowledge of the world outside the mind even if empirical observation of extramental particulars cannot. This leads Hallaq to call Ibn Taymiyya “an ardent sceptic, but a sceptic saved by religion” (Hallaq 1993: xxxix)[^hallaq-1993]. However, Hallaq’s comment is apt only to a point because, as will be seen below, Ibn Taymiyya maintains that knowledge about God may be derived through rational inferences as well.
+    step1: |-
+      伊本·泰米叶进一步解释，一旦类比中起必然作用的原因被识别（如致醉是禁止的原因），它就变成全称的，类比论证中的原初案例便不再需要。只要原因成立，判决便必然随之。然而伊本·泰米叶继续说，全称只相对于特定案例而存在，而指定原初案例正是全称得以被知的方式（*Manṭiqiyyīn* 116–8/158–60）。在伊本·泰米叶看来，正是神圣启示使判决的原因被知。就椰枣酒而言，从穆斯林共同体的共识与明确无歧义的启示文本可知，凡致醉物皆被禁止。明确文本包括先知穆罕默德在穆斯林·本·哈贾吉圣训集中的两句话：“凡致醉物皆是酒（*khamr*），凡致醉物皆被禁止”，以及“凡致醉物皆是酒，凡酒皆被禁止”（*Manṭiqiyyīn* 111–2/152–3; Heer 1988; Hallaq 1993: xxxv–xxxviii, 43–51, 159–64; von Kügelgen 2005: 209–12; von Kügelgen 2013: 313–22）[^hallaq-1993][^heer-1988]。即便对心外个别物的经验观察不能提供确定知识，神圣启示仍能提供关于心外世界的确定知识。这使哈拉克称伊本·泰米叶为“热忱的怀疑论者，但也是被宗教拯救的怀疑论者”（Hallaq 1993: xxxix）[^hallaq-1993]。然而哈拉克的评论只在某一点上恰当，因为如下文所见，伊本·泰米叶主张关于真主的知识也可通过理性推理获得。
+    step2: |-
+      伊本·泰米叶进一步解释，一旦类比中起必然作用的原因被识别（如致醉是禁止的原因），它就变成全称的，类比论证中的原初案例便不再需要。只要原因成立，判决便必然随之。然而伊本·泰米叶继续说，全称只相对于特定案例而存在，而指定原初案例正是全称得以被知的方式（*Manṭiqiyyīn* 116–8/158–60）。在伊本·泰米叶看来，正是神圣启示使判决的原因被知。就椰枣酒而言，从穆斯林共同体的共识与明确无歧义的启示文本可知，凡致醉物皆被禁止。明确文本包括先知穆罕默德在穆斯林·本·哈贾吉圣训集中的两句话：“凡致醉物皆是酒（*khamr*），凡致醉物皆被禁止”，以及“凡致醉物皆是酒，凡酒皆被禁止”（*Manṭiqiyyīn* 111–2/152–3; Heer 1988; Hallaq 1993: xxxv–xxxviii, 43–51, 159–64; von Kügelgen 2005: 209–12; von Kügelgen 2013: 313–22）[^hallaq-1993][^heer-1988]。即便对心外个别物的经验观察不能提供确定知识，神圣启示仍能提供关于心外世界的确定知识。这使哈拉克称伊本·泰米叶为“热忱的怀疑论者，但也是被宗教拯救的怀疑论者”（Hallaq 1993: xxxix）[^hallaq-1993]。然而哈拉克的评论只在某一点上恰当，因为如下文所见，伊本·泰米叶主张关于真主的知识也可通过理性推理获得。
+  - id: 33
+    kind: body
+    source: |-
+      Ibn Taymiyya’s *Refutation of the Logicians* received very little attention from logicians in his own day or in the following centuries (von Kügelgen 2013: 270–3). One possible reason for this is that he does not take the later logical tradition into account. Arab logicians from the twelfth century onward are not uniformly committed to the existence of extramental universals, as noted above, nor to the Avicennan claim that definitions and demonstrative syllogisms are the only means to acquire certain knowledge through rational reflection (Spevack 2010)[^spevack-2010]. Another possible reason is that Ibn Taymiyya is sometimes imprecise. For example, he reports baldly that the logicians claim, “No assents are known except by means of the syllogism” (*Manṭiqiyyīn* 88/130). As a few modern scholars have noted, this is not true when taken at face value; Avicennan logicians also recognize a variety of primary assents, as well as probable assents acquired through induction or analogy (Hallaq 1993: 30; El-Rouayheb 2016: 418)[^el-rouayheb-2016][^hallaq-1993]. Ibn Taymiyya is aware of this wider teaching about assent (*Manṭiqiyyīn* 4–7/46–8), and it becomes apparent during his *Refutation* that he is addressing the more limited claim that no acquired, certain assents are known except by means of the categorical syllogism. In sum Ibn Taymiyya’s imprecision and the fact that he gives later logical developments minimal attention may help explain why pre-modern logicians did not interact with his criticism (El-Rouayheb 2016: 417–22)[^el-rouayheb-2016].
+    step1: |-
+      伊本·泰米叶的《驳逻辑学家》在他生前及此后数世纪几乎未受逻辑学家注意（von Kügelgen 2013: 270–3）。一个可能原因是他未考虑后来的逻辑传统。如上所述，12 世纪以后的阿拉伯逻辑学家并非一致承诺心外共相存在，也并非一致承诺阿维森纳式主张——定义与证明三段论是经由理性反思获得确定知识的唯一手段（Spevack 2010）[^spevack-2010]。另一可能原因是他有时不够精确。例如，他直白地报告逻辑学家主张“除三段论外，无断定可知”（*Manṭiqiyyīn* 88/130）。正如一些现代学者指出，按字面看这并不成立；阿维森纳逻辑学家也承认各种原初断定，以及通过归纳或类比获得的或然断定（Hallaq 1993: 30; El-Rouayheb 2016: 418）[^el-rouayheb-2016][^hallaq-1993]。伊本·泰米叶知道关于断定的更广泛教导（*Manṭiqiyyīn* 4–7/46–8），且在其《驳论》中可以看出，他所针对的是更有限的主张：除直言三段论外，无获得的确定断定可知。总之，伊本·泰米叶的不精确，以及他对后来逻辑发展关注甚少，或可帮助解释前现代逻辑学家为何未与其批评互动（El-Rouayheb 2016: 417–22）[^el-rouayheb-2016]。
+    step2: |-
+      伊本·泰米叶的《驳逻辑学家》在他生前及此后数世纪几乎未受逻辑学家注意（von Kügelgen 2013: 270–3）。一个可能原因是他未考虑后来的逻辑传统。如上所述，12 世纪以后的阿拉伯逻辑学家并非一致承诺心外共相存在，也并非一致承诺阿维森纳式主张——定义与证明三段论是经由理性反思获得确定知识的唯一手段（Spevack 2010）[^spevack-2010]。另一可能原因是他有时不够精确。例如，他直白地报告逻辑学家主张“除三段论外，无断定可知”（*Manṭiqiyyīn* 88/130）。正如一些现代学者指出，按字面看这并不成立；阿维森纳逻辑学家也承认各种原初断定，以及通过归纳或类比获得的或然断定（Hallaq 1993: 30; El-Rouayheb 2016: 418）[^el-rouayheb-2016][^hallaq-1993]。伊本·泰米叶知道关于断定的更广泛教导（*Manṭiqiyyīn* 4–7/46–8），且在其《驳论》中可以看出，他所针对的是更有限的主张：除直言三段论外，无获得的确定断定可知。总之，伊本·泰米叶的不精确，以及他对后来逻辑发展关注甚少，或可帮助解释前现代逻辑学家为何未与其批评互动（El-Rouayheb 2016: 417–22）[^el-rouayheb-2016]。
+  - id: 34
+    kind: body
+    source: |-
+      ## 4. Philosophical Theology
+    step1: |-
+      ## 4. 哲学神学
+    step2: |-
+      ## 4. 哲学神学
+  - id: 35
+    kind: body
+    source: |-
+      ### 4.1 Theological Language
+    step1: |-
+      ### 4.1 神学语言
+    step2: |-
+      ### 4.1 神学语言
+  - id: 36
+    kind: body
+    source: |-
+      As a theological traditionalist within the Ḥanbalī school of Sunnī Islam, Ibn Taymiyya affirms that God must be described as the Qurʾān and the Prophet Muḥammad describe Him, both negatively and positively, in accord with the Qurʾānic verse, “There is nothing like Him, and He is All-Hearing, All-Seeing” (Q. 42:11). On the one hand, God’s revealed names and attributes are incomparable (*tanzīh*), and they must not be likened (*tamthīl*) or assimilated (*tashbīh*) to creatures. On the other, attributes like God’s hearing and seeing must be affirmed in their plain sense (*ẓāhir*) according to the interpretation (*tafsīr*) of the *salaf* and not distorted (*taḥrīf*) or stripped away (*taʿṭīl*).
+    step1: |-
+      作为逊尼派伊斯兰罕百里学派内的神学传统主义者，伊本·泰米叶肯定，真主必须按《古兰经》与先知穆罕默德的描述被描述，无论否定还是肯定，都符合《古兰经》经文：“没有任何物像他，他是全听者、全观者”（Q. 42:11）。一方面，真主启示的尊名与属性不可比拟（*tanzīh*），不得比附（*tamthīl*）或同化（*tashbīh*）于受造物。另一方面，真主的听、观等属性必须按其字面意义（*ẓāhir*）肯定，依 *salaf* 的解释（*tafsīr*），而不得扭曲（*taḥrīf*）或剥离（*taʿṭīl*）。
+    step2: |-
+      作为逊尼派伊斯兰罕百里学派内的神学传统主义者，伊本·泰米叶肯定，真主必须按《古兰经》与先知穆罕默德的描述被描述，无论否定还是肯定，都符合《古兰经》经文：“没有任何物像他，他是全听者、全观者”（Q. 42:11）。一方面，真主启示的尊名与属性不可比拟（*tanzīh*），不得比附（*tamthīl*）或同化（*tashbīh*）于受造物。另一方面，真主的听、观等属性必须按其字面意义（*ẓāhir*）肯定，依 *salaf* 的解释（*tafsīr*），而不得扭曲（*taḥrīf*）或剥离（*taʿṭīl*）。
+  - id: 37
+    kind: body
+    source: |-
+      The polemic against likening and stripping away is aimed at two broad trends. First, according to Ibn Taymiyya, Muʿtazilī and post-classical Ashʿarī *kalām* theologians liken God’s attributes to those of creatures. Then, they strip God of those attributes that imply anthropomorphism and corporealism and sometimes reinterpret them. God cannot have a literal “hand”, for example, and so the literal sense must be denied and perhaps reinterpreted non-literally as God’s “power”. Likewise, it must be denied that God’s “sitting” has anything to do with motion, place, or space, and it may perhaps be reinterpreted as God’s “possessing”. Ibn Taymiyya rejects the *kalām* approach and insists that all God’s attributes must be affirmed equally as uniquely befitting God. Divine attributes that could imply corporeality may not be denied while other attributes are affirmed (Hoover 2007: 48–52)[^hoover-2007].
+    step1: |-
+      反对比附与剥离的论战针对两大潮流。第一，据伊本·泰米叶，穆尔太齐赖派与后古典艾什尔里派凯拉姆神学家把真主的属性比附于受造物的属性。随后，他们剥离真主那些蕴含拟人化与形体论的属性，有时重新解释它们。例如，真主不可能有字面意义上的“手”，故必须否认字面意义，也许非字面地重新解释为真主的“能力”。同样，必须否认真主的“端坐”与运动、位置或空间有任何关系，也许重新解释为真主的“占有”。伊本·泰米叶拒绝凯拉姆进路，坚持真主的一切属性都必须同样肯定为独特地适于真主。不得在肯定某些属性的同时否认可能蕴含形体性的神性属性（Hoover 2007: 48–52）[^hoover-2007]。
+    step2: |-
+      反对比附与剥离的论战针对两大潮流。第一，据伊本·泰米叶，穆尔太齐赖派与后古典艾什尔里派凯拉姆神学家把真主的属性比附于受造物的属性。随后，他们剥离真主那些蕴含拟人化与形体论的属性，有时重新解释它们。例如，真主不可能有字面意义上的“手”，故必须否认字面意义，也许非字面地重新解释为真主的“能力”。同样，必须否认真主的“端坐”与运动、位置或空间有任何关系，也许重新解释为真主的“占有”。伊本·泰米叶拒绝凯拉姆进路，坚持真主的一切属性都必须同样肯定为独特地适于真主。不得在肯定某些属性的同时否认可能蕴含形体性的神性属性（Hoover 2007: 48–52）[^hoover-2007]。
+  - id: 38
+    kind: body
+    source: |-
+      The second target of Ibn Taymiyya’s polemic is the esotericism of Ismāʿīlī Shīʿīs, philosophers in the Neoplatonic and Aristotelian traditions, al-Ghazālī (d. 1111), and the Sufi theorist Ibn al-ʿArabī (d. 1240) and his followers. Esotericism affirms two meanings for revelation, one for the commoners and another for an elite. The philosophers Ibn Sīnā and Ibn Rushd, for example, understand the corporeal imagery of exoteric revelation as pious fiction for the commoners. The commoners should not be told what the philosophers know to be true, namely, that God and the hereafter are incorporeal. That would too easily suggest to commoners that God and the hereafter do not exist at all and so undermine their faith. Ibn Taymiyya welcomes the philosophers’ rejection of *kalām* reinterpretation at the exoteric level, but he fiercely condemns their esoteric interpretations confined to an elite. The revelation that is accessible to all is true for all in its plain sense (Michot 2003a, 2008, 2012a, 2015, 2019; von Kügelgen 2004)[^michot-2003a].
+    step1: |-
+      伊本·泰米叶论战的第二个目标，是伊斯玛仪派什叶派、新柏拉图主义与亚里士多德传统中的哲学家、安萨里（卒于 1111）以及苏菲理论家伊本·阿拉比（卒于 1240）及其追随者的秘传主义。秘传主义肯定启示有两重意义，一重给大众，一重给精英。例如，哲学家伊本·西那与伊本·鲁世德把显白启示的形体意象理解为给大众的虔诚虚构。不应告诉大众哲学家所知为真之事，即真主与后世无形体；那太容易让大众以为真主与后世根本不存在，从而破坏其信仰。伊本·泰米叶欢迎哲学家在显白层面拒绝凯拉姆式重新解释，但猛烈谴责他们限于精英的秘传解释。人人可及的启示，其字面意义对人人皆为真（Michot 2003a, 2008, 2012a, 2015, 2019; von Kügelgen 2004）[^michot-2003a]。
+    step2: |-
+      伊本·泰米叶论战的第二个目标，是伊斯玛仪派什叶派、新柏拉图主义与亚里士多德传统中的哲学家、安萨里（卒于 1111）以及苏菲理论家伊本·阿拉比（卒于 1240）及其追随者的秘传主义。秘传主义肯定启示有两重意义，一重给大众，一重给精英。例如，哲学家伊本·西那与伊本·鲁世德把显白启示的形体意象理解为给大众的虔诚虚构。不应告诉大众哲学家所知为真之事，即真主与后世无形体；那太容易让大众以为真主与后世根本不存在，从而破坏其信仰。伊本·泰米叶欢迎哲学家在显白层面拒绝凯拉姆式重新解释，但猛烈谴责他们限于精英的秘传解释。人人可及的启示，其字面意义对人人皆为真（Michot 2003a, 2008, 2012a, 2015, 2019; von Kügelgen 2004）[^michot-2003a]。
+  - id: 39
+    kind: body
+    source: |-
+      A major stream of theological traditionalism prohibits debating with *kalām* theologians and shuns all attempts to understand God’s attributes. This traditionalist noncognitivism deems the meaning (*maʿnā*) and the condition or modality (*kayfiyya*) of the attributes to be entirely inaccessible to human comprehension. While the verbal forms of “hearing” and “hand” are the same when applied to God and creatures, the meanings of these words when applied to God are unknowable and must not be probed (Hoover with Mahajneh 2018: 43–7)[^hoover-2018][^hoover-2018-2].
+    step1: |-
+      神学传统主义的一大潮流禁止与凯拉姆神学家辩论，并回避一切理解真主属性的尝试。这种传统主义非认知主义认为，属性的意义（*maʿnā*）与状况或样式（*kayfiyya*）完全非人类理解所能及。尽管“听”与“手”的语词形式在用于真主与受造物时相同，但这些词用于真主时的意义不可知，且不得探究（Hoover with Mahajneh 2018: 43–7）[^hoover-2018][^hoover-2018-2]。
+    step2: |-
+      神学传统主义的一大潮流禁止与凯拉姆神学家辩论，并回避一切理解真主属性的尝试。这种传统主义非认知主义认为，属性的意义（*maʿnā*）与状况或样式（*kayfiyya*）完全非人类理解所能及。尽管“听”与“手”的语词形式在用于真主与受造物时相同，但这些词用于真主时的意义不可知，且不得探究（Hoover with Mahajneh 2018: 43–7）[^hoover-2018][^hoover-2018-2]。
+  - id: 40
+    kind: body
+    source: |-
+      Ibn Taymiyya retains the unknowability of the modality of God’s attributes, as well as their ultimate reality (*ḥaqīqa*), but he rejects traditionalist noncognitivism. He also rejects the literalism of *kalām* theology. Words like “hand” and “sitting” do not have literal meanings that must be denied and perhaps replaced with other terms when applied to God. Rather, Ibn Taymiyya affirms, the plain senses of God’s attributes are accessible to human cognition and shaped by their theological context. Ibn Taymiyya’s theory of meaning is contextual and pragmatic. Words have no meanings apart from context, and their meanings are modulated according to contextual indicators (Ali 2000: 87–114; Belhaj 2008; Mustafa 2018)[^ali-2000][^belhaj-2008][^mustafa-2018]. Names and attributes applied to both God and creatures have meanings in the human mind, but they apply to God and creatures in different ways according to the precedence of God over creatures. Universal meanings occur only in the mind, and there are no real universals outside the mind. Yet, the mind identifies features in the particulars of extramental reality that can be said to be shared, albeit differently in the particulars that are God and creatures because God is necessary while creatures are merely contingent or possible. Adapting distinctions developed by Ibn Sīnā and his successors, Ibn Taymiyya construes the relation between the meanings of terms applied to both God and humans as neither equivocal nor purely univocal but analogical or modulated (*mushakkik*). Ibn Taymiyya elaborates in a passage from his *Refutation of the Logicians*:
+    step1: |-
+      伊本·泰米叶保留真主属性样式以及其终极实在（*ḥaqīqa*）的不可知性，但拒绝传统主义非认知主义。他也拒绝凯拉姆神学的字面主义。“手”与“端坐”等词用于真主时，并不具有必须否认、也许还须替换为其他术语的字面意义。相反，伊本·泰米叶肯定，真主属性的字面意义可为人类认知所及，并受其神学语境塑造。他的意义理论是语境论的、语用论的。语词离开语境便无意义，其意义随语境指示项而调节（Ali 2000: 87–114; Belhaj 2008; Mustafa 2018）[^ali-2000][^belhaj-2008][^mustafa-2018]。用于真主与受造物的尊名与属性在人心中有意义，但依真主对受造物的优先性，以不同方式适用于真主与受造物。普遍意义只出现在心灵中，心外没有真实共相。然而，心灵识别心外实在个别物中可说是共享的特征，尽管在真主与受造物这些个别物中方式不同，因为真主是必然的，而受造物只是偶然的或可能的。伊本·泰米叶借用伊本·西那及其后继者发展的区分，把同时用于真主与人的术语意义之间的关系，构想为既非纯歧义、也非纯单义，而是类比或调节的（*mushakkik*）。伊本·泰米叶在《驳逻辑学家》的一段话中详述：
+    step2: |-
+      伊本·泰米叶保留真主属性样式以及其终极实在（*ḥaqīqa*）的不可知性，但拒绝传统主义非认知主义。他也拒绝凯拉姆神学的字面主义。“手”与“端坐”等词用于真主时，并不具有必须否认、也许还须替换为其他术语的字面意义。相反，伊本·泰米叶肯定，真主属性的字面意义可为人类认知所及，并受其神学语境塑造。他的意义理论是语境论的、语用论的。语词离开语境便无意义，其意义随语境指示项而调节（Ali 2000: 87–114; Belhaj 2008; Mustafa 2018）[^ali-2000][^belhaj-2008][^mustafa-2018]。用于真主与受造物的尊名与属性在人心中有意义，但依真主对受造物的优先性，以不同方式适用于真主与受造物。普遍意义只出现在心灵中，心外没有真实共相。然而，心灵识别心外实在个别物中可说是共享的特征，尽管在真主与受造物这些个别物中方式不同，因为真主是必然的，而受造物只是偶然的或可能的。伊本·泰米叶借用伊本·西那及其后继者发展的区分，把同时用于真主与人的术语意义之间的关系，构想为既非纯歧义、也非纯单义，而是类比或调节的（*mushakkik*）。伊本·泰米叶在《驳逻辑学家》的一段话中详述：
+  - id: 41
+    kind: body
+    source: |-
+      > The names applied [both] to [God] and others are applied by way of modulation (*tashkīk*), which is a kind of general univocity (*al-tawāṭuʾ al-ʿāmm*). It is neither a matter of equivocity, nor a matter of univocity in which the individuals to which it applies are alike. Rather, it is a matter of univocity in which the individuals to which it applies take precedence over each other. For example, the word “white” or “black” is applied to what is intense, like the whiteness of snow, and to what is less [intense], like the whiteness of ivory. Likewise, the word “existence” is applied to [both] the necessary and the possible….Modulated names must have a shared universal meaning, even if that occurs only in the mind….The fact that the existence of the necessary is more perfect than the existence of the possible does not prevent what is called “existence” from being a universal meaning shared between the two of them. This is likewise the case with regard to the other names and attributes applied to the Creator and the creature, like the names Living, Knowing, Powerful, Hearing, and Seeing, and likewise with His attributes, like His knowledge, His power, His mercy, His good pleasure, His anger, and His joy, and the rest of His names and His attributes that the messengers applied to Him. (*Manṭiqiyyīn* 155/198; see further Ali 2000: 114–25; Suleiman 2019: 145–77; El-Tobgui 2020: 193–206, 285–8; on the Avicennan background, see Janos 2022; Adamson & Benovich 2023: 109–37)[^adamson-2023][^ali-2000][^el-tobgui-2020][^janos-2022][^suleiman-2019]
+    step1: |-
+      > 用于[真主]与他者的尊名，是以调节（*tashkīk*）的方式使用的，这是一种普遍单义（*al-tawāṭuʾ al-ʿāmm*）。它既非歧义，也非其适用个体彼此相似的单义，而是其适用个体有先后等级的单义。例如，“白”或“黑”一词用于浓者，如雪之白，也用于较淡者，如象牙之白。同样，“存在”一词用于必然者与可能者……调节的尊名必有共享的普遍意义，即便这只出现在心灵中……必然者的存在比可能者的存在更完满，这并不妨碍被称为“存在”者成为二者共享的普遍意义。用于创造者与受造物的其他尊名与属性亦然，如“永生”“全知”“全能”“全听”“全观”，其属性如他的知识、能力、慈悯、喜悦、愤怒、欢乐，以及众使者用于他的其余尊名与属性。（*Manṭiqiyyīn* 155/198；进一步见 Ali 2000: 114–25; Suleiman 2019: 145–77; El-Tobgui 2020: 193–206, 285–8；关于阿维森纳背景，见 Janos 2022; Adamson & Benovich 2023: 109–37）[^adamson-2023][^ali-2000][^el-tobgui-2020][^janos-2022][^suleiman-2019]
+    step2: |-
+      > 用于[真主]与他者的尊名，是以调节（*tashkīk*）的方式使用的，这是一种普遍单义（*al-tawāṭuʾ al-ʿāmm*）。它既非歧义，也非其适用个体彼此相似的单义，而是其适用个体有先后等级的单义。例如，“白”或“黑”一词用于浓者，如雪之白，也用于较淡者，如象牙之白。同样，“存在”一词用于必然者与可能者……调节的尊名必有共享的普遍意义，即便这只出现在心灵中……必然者的存在比可能者的存在更完满，这并不妨碍被称为“存在”者成为二者共享的普遍意义。用于创造者与受造物的其他尊名与属性亦然，如“永生”“全知”“全能”“全听”“全观”，其属性如他的知识、能力、慈悯、喜悦、愤怒、欢乐，以及众使者用于他的其余尊名与属性。（*Manṭiqiyyīn* 155/198；进一步见 Ali 2000: 114–25; Suleiman 2019: 145–77; El-Tobgui 2020: 193–206, 285–8；关于阿维森纳背景，见 Janos 2022; Adamson & Benovich 2023: 109–37）[^adamson-2023][^ali-2000][^el-tobgui-2020][^janos-2022][^suleiman-2019]
+  - id: 42
+    kind: body
+    source: |-
+      Ibn Taymiyya willingness to discuss the meanings of God’s attributes opens the door to theological explanation and argumentation. With his traditionalist sensibility, he often reminds readers that the modality and reality of God’s names and attributes cannot be known. He also prefers to speak of God only in words found in revealed texts. Nonetheless, he permits engaging the terminologies of theological opponents as needed to clarify the meanings of the revelation, and he justifies this by analogy to the permission to translate the Qurʾān into other languages to convey its message. He condemns the *kalām* theologians for introducing innovated and non-scriptural technical terms like substance (*jawhar*), accident (*ʿaraḍ*), body (*jism*), and spatial extension (*taḥayyuz*) into theological discourse, but he permits using such terms when necessary to translate the revelation into the idiom of the day (Hoover with Mahajneh 2018)[^hoover-2018][^hoover-2018-2].
+    step1: |-
+      伊本·泰米叶愿意讨论真主属性的意义，这为神学解释与论证打开了大门。以其传统主义感受力，他常提醒读者，真主尊名与属性的样式与实在不可知。他也宁愿只用启示文本中的词语谈论真主。尽管如此，他允许在需要澄清启示意义时使用神学对手的术语，并以允许把《古兰经》译成其他语言以传达其信息为类比来辩护。他谴责凯拉姆神学家把实体（*jawhar*）、偶性（*ʿaraḍ*）、物体（*jism*）与空间延展（*taḥayyuz*）等创新且非经文的术语引入神学话语，但允许在必要时用这类术语把启示译成当时的习语（Hoover with Mahajneh 2018）[^hoover-2018][^hoover-2018-2]。
+    step2: |-
+      伊本·泰米叶愿意讨论真主属性的意义，这为神学解释与论证打开了大门。以其传统主义感受力，他常提醒读者，真主尊名与属性的样式与实在不可知。他也宁愿只用启示文本中的词语谈论真主。尽管如此，他允许在需要澄清启示意义时使用神学对手的术语，并以允许把《古兰经》译成其他语言以传达其信息为类比来辩护。他谴责凯拉姆神学家把实体（*jawhar*）、偶性（*ʿaraḍ*）、物体（*jism*）与空间延展（*taḥayyuz*）等创新且非经文的术语引入神学话语，但允许在必要时用这类术语把启示译成当时的习语（Hoover with Mahajneh 2018）[^hoover-2018][^hoover-2018-2]。
+  - id: 43
+    kind: body
+    source: |-
+      ### 4.2 Reason and Revelation
+    step1: |-
+      ### 4.2 理性与启示
+    step2: |-
+      ### 4.2 理性与启示
+  - id: 44
+    kind: body
+    source: |-
+      It is also Ibn Taymiyya’s conviction that much of what is known about God through revelation is known equally and primally from reason and the human natural constitution (*fiṭra*). Prophets complete and perfect what humans already know, and revelation reiterates rational proofs relevant to religion and exposes incorrect reasoning for what it is. There is therefore no conflict between true revelation and correct reason, and this is the main claim to which Ibn Taymiyya’s devotes his masterwork *Averting the Conflict* (*Darʾ taʿāruḍ*). Ibn Taymiyya condemns philosophers and post-classical *kalām* theologians like the Ashʿarī Fakhr al-Dīn al-Rāzī for demoting the Qurʾān to mere information and subjecting it to alien and erroneous regimes of reason that lead to stripping God of his rightful attributes. Ibn Taymiyya’s apologetic aim is to take the rational high ground away from philosophers and *kalām* theologians by showing that his theology is what both reason and the texts of revelation indicate (Abrahamov 1992; Michot 1994; Kazi 2013; Zouggar 2014; Griffel 2018; Hoover with Mahajneh 2018; El-Tobgui 2020; Candiard 2023)[^abrahamov-1992][^candiard-2023][^el-tobgui-2020][^griffel-2018][^hoover-2018][^hoover-2018-2][^kazi-2013][^michot-1994][^zouggar-2014]. What follows here and in the following subsections will focus more on clarifying Ibn Taymiyya’s theological concepts than on their textual indicants. We begin with the basics of his natural theology.
+    step1: |-
+      伊本·泰米叶还确信，通过启示所知的许多关于真主之事，同样也可原初地从理性与人的自然禀赋（*fiṭra*）得知。先知完善并成全人已知之事，启示重申与宗教相关的理性证明，并揭露错误推理的真面目。因此，真启示与正确理性之间没有冲突；这正是伊本·泰米叶代表作《消除冲突》的主旨。他谴责哲学家与后古典凯拉姆神学家（如艾什尔里派法赫尔·丁·拉齐）把《古兰经》降为单纯信息，使之服从陌生而错误的理性体制，导致剥离真主的应有属性。伊本·泰米叶的护教目标，是从哲学家与凯拉姆神学家手中夺走理性高地，表明其神学正是理性与启示文本共同指示的（Abrahamov 1992; Michot 1994; Kazi 2013; Zouggar 2014; Griffel 2018; Hoover with Mahajneh 2018; El-Tobgui 2020; Candiard 2023）[^abrahamov-1992][^candiard-2023][^el-tobgui-2020][^griffel-2018][^hoover-2018][^hoover-2018-2][^kazi-2013][^michot-1994][^zouggar-2014]。以下及随后各小节将更多澄清伊本·泰米叶的神学概念，而非其文本指示。我们先从其自然神学基础开始。
+    step2: |-
+      伊本·泰米叶还确信，通过启示所知的许多关于真主之事，同样也可原初地从理性与人的自然禀赋（*fiṭra*）得知。先知完善并成全人已知之事，启示重申与宗教相关的理性证明，并揭露错误推理的真面目。因此，真启示与正确理性之间没有冲突；这正是伊本·泰米叶代表作《消除冲突》的主旨。他谴责哲学家与后古典凯拉姆神学家（如艾什尔里派法赫尔·丁·拉齐）把《古兰经》降为单纯信息，使之服从陌生而错误的理性体制，导致剥离真主的应有属性。伊本·泰米叶的护教目标，是从哲学家与凯拉姆神学家手中夺走理性高地，表明其神学正是理性与启示文本共同指示的（Abrahamov 1992; Michot 1994; Kazi 2013; Zouggar 2014; Griffel 2018; Hoover with Mahajneh 2018; El-Tobgui 2020; Candiard 2023）[^abrahamov-1992][^candiard-2023][^el-tobgui-2020][^griffel-2018][^hoover-2018][^hoover-2018-2][^kazi-2013][^michot-1994][^zouggar-2014]。以下及随后各小节将更多澄清伊本·泰米叶的神学概念，而非其文本指示。我们先从其自然神学基础开始。
+  - id: 45
+    kind: body
+    source: |-
+      As noted above, Ibn Taymiyya affirms that everything originated requires a cause for its existence, and creatures thereby know immediately that God exists by virtue of their need for a creator. There is no need for the prolix reasoning of the *kalām* cosmological argument for the existence of God from atoms and accidents. Ibn Taymiyya furthermore upholds causal priority: a cause is more perfect than its effect, and the cause is the source of the effect’s perfections. Likewise, the Creator is more perfect than creatures, and it is from the Creator that creatures derive their perfections. The perfections of God may therefore be inferred from the perfections of creatures, apart from revelation. However, Ibn Taymiyya does not permit inferring God’s attributes from the attributes of creatures with an analogy or categorical syllogism because that would involve comparing God and creatures on equal terms. Instead, a fortiori argumentation must be used to respect God’s incomparability. An a fortiori argument (*qiyās al-awlā*) transfers the judgment of one case to a second case that is all the more worthy of that judgment than the first. Applied to theology, God is all the worthier of whatever perfections are found in creatures than are the creatures themselves, and so perfections found in creatures must be all the more so ascribed to God. Ibn Taymiyya explains:
+    step1: |-
+      如上所述，伊本·泰米叶肯定一切被造者都需要存在原因，受造物由此因需要创造者而直接知道真主存在。无须凯拉姆宇宙论论证从原子与偶性出发的冗长推理。伊本·泰米叶还坚持因果优先性：原因比结果更完满，原因是结果完满性之源。同样，创造者比受造物更完满，受造物的完满性来自创造者。因此，除启示外，也可从受造物的完满性推断真主的完满性。然而，伊本·泰米叶不允许用类比或直言三段论从受造物属性推断真主属性，因为那会把真主与受造物置于同等地位比较。相反，必须使用强化论证（*qiyās al-awlā*），以尊重真主的不可比拟性。强化论证把对一个案例的判断转移至更配得该判断的第二个案例。用于神学，真主比受造物本身更配得受造物中的任何完满性，故受造物中的完满性必更应归予真主。伊本·泰米叶解释说：
+    step2: |-
+      如上所述，伊本·泰米叶肯定一切被造者都需要存在原因，受造物由此因需要创造者而直接知道真主存在。无须凯拉姆宇宙论论证从原子与偶性出发的冗长推理。伊本·泰米叶还坚持因果优先性：原因比结果更完满，原因是结果完满性之源。同样，创造者比受造物更完满，受造物的完满性来自创造者。因此，除启示外，也可从受造物的完满性推断真主的完满性。然而，伊本·泰米叶不允许用类比或直言三段论从受造物属性推断真主属性，因为那会把真主与受造物置于同等地位比较。相反，必须使用强化论证（*qiyās al-awlā*），以尊重真主的不可比拟性。强化论证把对一个案例的判断转移至更配得该判断的第二个案例。用于神学，真主比受造物本身更配得受造物中的任何完满性，故受造物中的完满性必更应归予真主。伊本·泰米叶解释说：
+  - id: 46
+    kind: body
+    source: |-
+      > It is not permissible that God—Exalted is He—and another be included in a categorical syllogism whose terms are on the same level or in an analogy in which the judgment of the original case and that of the assimilated case are on the same level. Indeed, God—Exalted is He—there is nothing like Him, neither in His essence which is mentioned through His names, nor in His attributes, nor in His acts. However, the a fortiori argument is followed with respect to Him. As He said, “And to God is the highest similitude (*al-mathal al-aʿlā*)” (Q. 16:60). With respect to every perfection and attribute praiseworthy in itself and devoid of imperfection that belongs to some created, originated existents, it is known that the Lord, Creator, Self-Subsistent, Everlasting, Eternal and Necessary Existent in Himself is all the worthier of it, and [with respect to] every imperfection and defect from which some originated, possible creatures must be exonerated, the Lord, Creator, Holy, Peace, Eternal, Necessary of Existence in Himself is all the worthier of being exonerated from it. (*Sharḥ al-Iṣbahāniyya* 456–7; trans. adapted from Hoover 2007: 59)[^hoover-2007]
+    step1: |-
+      > 不允许把真主——至高无上——与他者纳入词项同等层次的直言三段论，或纳入原初案例与归入案例判断同等层次的类比。的确，真主——至高无上——没有任何物像他，无论在其尊名所述的本质中，还是在其属性中，还是在其行动中。然而，对真主可使用强化论证。如他所说：“真主有最高的典型”（Q. 16:60）。凡本身可赞、且无缺陷的完满性与属性，若属于某些被造的、被生成的存在者，那么主、创造者、自存者、永恒者、自在必然存在者更配得它；凡某些被造的、可能的存在者必须免除的缺陷与不足，主、创造者、神圣者、和平者、永恒者、自在必然存在者更配得免除它。（*Sharḥ al-Iṣbahāniyya* 456–7；译文据 Hoover 2007: 59 改编）[^hoover-2007]
+    step2: |-
+      > 不允许把真主——至高无上——与他者纳入词项同等层次的直言三段论，或纳入原初案例与归入案例判断同等层次的类比。的确，真主——至高无上——没有任何物像他，无论在其尊名所述的本质中，还是在其属性中，还是在其行动中。然而，对真主可使用强化论证。如他所说：“真主有最高的典型”（Q. 16:60）。凡本身可赞、且无缺陷的完满性与属性，若属于某些被造的、被生成的存在者，那么主、创造者、自存者、永恒者、自在必然存在者更配得它；凡某些被造的、可能的存在者必须免除的缺陷与不足，主、创造者、神圣者、和平者、永恒者、自在必然存在者更配得免除它。（*Sharḥ al-Iṣbahāniyya* 456–7；译文据 Hoover 2007: 59 改编）[^hoover-2007]
+  - id: 47
+    kind: body
+    source: |-
+      On these grounds, Ibn Taymiyya reasons that God must be living, knowing, powerful, seeing, hearing, and speaking. Otherwise, God would be dead, ignorant, impotent, blind, deaf, and mute, respectively, and He would be less perfect than living creatures that He has created. Moreover, God must be moving and not immovable. Otherwise, God would be inferior to inanimate objects, which can at least be moved by something else. In similar fashion, God has hands because having the ability to choose to act with hands is more perfect than not having that ability. God also has the attributes of laughter and joy to exclude crying and sadness which imply weakness. God furthermore loves perfection and hates imperfection because it is more perfect to distinguish perfection and imperfection through love and hate than not to do so. However, God does not eat and drink because eating and drinking imply need whereas having no need is more perfect than being in need. Moreover, Ibn Taymiyya contends that it is in God’s perfection to be qualified by attributes of perfection such that He is unlike created things (Hoover 2007: 56–67; Suleiman 2019: 225–59)[^hoover-2007][^suleiman-2019].
+    step1: |-
+      据此，伊本·泰米叶推论真主必是永生、全知、全能、全观、全听、能言的。否则，真主便会分别是死的、无知的、无能的、盲的、聋的、哑的，比他所造的活物更不完满。此外，真主必是运动的，而非不动的；否则，真主便不如无生命物，后者至少能被其他东西推动。类似地，真主有手，因为拥有选择用手行动的能力比没有更完满。真主还有笑与欢乐的属性，以排除暗示软弱的哭与悲伤。真主还爱完满、恨缺陷，因为通过爱与恨区分完满与缺陷比不区分更完满。然而，真主不吃不喝，因为吃喝蕴含需要，而无需要比有需要更完满。此外，伊本·泰米叶主张，真主以完满属性为特质、以致不同于受造物，这本身就在其完满之中（Hoover 2007: 56–67; Suleiman 2019: 225–59）[^hoover-2007][^suleiman-2019]。
+    step2: |-
+      据此，伊本·泰米叶推论真主必是永生、全知、全能、全观、全听、能言的。否则，真主便会分别是死的、无知的、无能的、盲的、聋的、哑的，比他所造的活物更不完满。此外，真主必是运动的，而非不动的；否则，真主便不如无生命物，后者至少能被其他东西推动。类似地，真主有手，因为拥有选择用手行动的能力比没有更完满。真主还有笑与欢乐的属性，以排除暗示软弱的哭与悲伤。真主还爱完满、恨缺陷，因为通过爱与恨区分完满与缺陷比不区分更完满。然而，真主不吃不喝，因为吃喝蕴含需要，而无需要比有需要更完满。此外，伊本·泰米叶主张，真主以完满属性为特质、以致不同于受造物，这本身就在其完满之中（Hoover 2007: 56–67; Suleiman 2019: 225–59）[^hoover-2007][^suleiman-2019]。
+  - id: 48
+    kind: body
+    source: |-
+      ### 4.3 God and Space
+    step1: |-
+      ### 4.3 真主与空间
+    step2: |-
+      ### 4.3 真主与空间
+  - id: 49
+    kind: body
+    source: |-
+      Ibn Taymiyya rationalizes a strand of traditionalism found in earlier figures such as ʿUthmān b. Saʿīd al-Dārimī (d. between 280/893 and 282/895) that distinguishes God above from the world below spatially. Ibn Taymiyya deems it a necessary truth of reason and the natural constitution (*fiṭra*) that God is located above and distinct from the universe in a spatial sense. God is above the sky and not found anywhere within the created world. Ibn Taymiyya also regards this as the plain witness of revelation, as in the Qur’anic verses, “They fear their Lord above them” (Q. 16:50), and “The All-Merciful sat over the Throne” (Q. 20:5). He works out the implications of God’s spatial aboveness most fully in *Explicating the Deception*, a refutation of Fakhr al-Dīn al-Rāzī’s *Taʾsīs al-taqdīs* (*Establishing Sanctification*). According to al-Rāzī, God is not accessible to the senses, and God is not spatial (*mutaḥayyiz*) or subject to location (*jiha*). God is also neither inside the world nor outside of it. God is a non-spatial entity accessible only to the intellect. Al-Rāzī provides several arguments for his position, which Ibn Taymiyya refutes in turn and thereby clarifies his own view.
+    step1: |-
+      伊本·泰米叶理性化了一种传统主义脉络，见于奥斯曼·本·赛义德·达里米（卒于 280/893 至 282/895 之间）等早期人物，该脉络在空间上区分上方之真主与下方之世界。伊本·泰米叶认为，真主在空间意义上位于宇宙之上并与之区分，这是理性与自然禀赋（*fiṭra*）的必然真理。真主在天空之上，不在受造世界的任何地方。伊本·泰米叶也把这视为启示的显白见证，如《古兰经》经文“他们畏惧在他们上面的主”（Q. 16:50）与“至仁主升于宝座”（Q. 20:5）。他在《阐明欺骗》中最充分地展开真主空间上在上方之内涵，该书驳斥法赫尔·丁·拉齐的《确立神圣》（*Taʾsīs al-taqdīs*）。据拉齐，真主不可为感官所及，真主不具空间性（*mutaḥayyiz*），也不受位置（*jiha*）支配。真主既不在世界之内，也不在世界之外。真主是只可为理智所及的非空间实体。拉齐为其立场提供若干论证，伊本·泰米叶逐一驳斥，从而澄清自己的观点。
+    step2: |-
+      伊本·泰米叶理性化了一种传统主义脉络，见于奥斯曼·本·赛义德·达里米（卒于 280/893 至 282/895 之间）等早期人物，该脉络在空间上区分上方之真主与下方之世界。伊本·泰米叶认为，真主在空间意义上位于宇宙之上并与之区分，这是理性与自然禀赋（*fiṭra*）的必然真理。真主在天空之上，不在受造世界的任何地方。伊本·泰米叶也把这视为启示的显白见证，如《古兰经》经文“他们畏惧在他们上面的主”（Q. 16:50）与“至仁主升于宝座”（Q. 20:5）。他在《阐明欺骗》中最充分地展开真主空间上在上方之内涵，该书驳斥法赫尔·丁·拉齐的《确立神圣》（*Taʾsīs al-taqdīs*）。据拉齐，真主不可为感官所及，真主不具空间性（*mutaḥayyiz*），也不受位置（*jiha*）支配。真主既不在世界之内，也不在世界之外。真主是只可为理智所及的非空间实体。拉齐为其立场提供若干论证，伊本·泰米叶逐一驳斥，从而澄清自己的观点。
+  - id: 50
+    kind: body
+    source: |-
+      Al-Rāzī argues that a God located in space would need that space. Al-Rāzī here adopts a Platonic conception of space that subsists independently of the objects it contains (Adamson 2017)[^adamson-2017]. A space occupying God is thus dependent on the space in which He is located, and this impugns His self-sufficiency. Ibn Taymiyya denies the existence of space that subsists independently of other existents. He takes inspiration from Ibn Rushd who denies the existence of void space and defines place (*makān*) in Aristotelian terms as the inner surface of the body surrounding and containing it. The place of one celestial sphere, for example, is the inner surface of the celestial sphere surrounding it, but the universe has no place because it is not surrounded by anything at all, not even void space. Ibn Taymiyya likewise affirms that there is no void space. Space (*ḥayyiz*) is the boundary of an object inside of which the object extends and obtains. The boundaries are part of the object and do not exist apart from it. Without the object, no space exists. To put it differently, existents do not occupy space; instead, existents are spatially extended (*mutaḥayyiz*). So, nothing exists except God and the world below. There is nothing above the world except God, and there is no space above God that God could be said to occupy.
+    step1: |-
+      拉齐主张，位于空间中的真主会需要该空间。拉齐在此采纳柏拉图式空间概念，即空间独立于其所含对象而存在（Adamson 2017）[^adamson-2017]。占据真主的空间因而依赖真主所处之空间，这损害其自足性。伊本·泰米叶否认独立于其他存在者而存在的空间。他受伊本·鲁世德启发；后者否认虚空存在，并以亚里士多德术语把位置（*makān*）定义为包围并包含物体的物体的内表面。例如，一个天球的位置是包围它的天球的内表面，但宇宙没有位置，因为它不被任何东西包围，甚至不被虚空包围。伊本·泰米叶同样肯定没有虚空。空间（*ḥayyiz*）是物体内部的边界，物体在其中延展并成立。边界是物体的一部分，不脱离物体而存在。没有物体，便没有空间。换言之，存在者不占据空间；存在者是空间延展的（*mutaḥayyiz*）。所以，除真主与下方世界外，无物存在。世界之上除真主外无物，真主之上也没有可供真主占据的空间。
+    step2: |-
+      拉齐主张，位于空间中的真主会需要该空间。拉齐在此采纳柏拉图式空间概念，即空间独立于其所含对象而存在（Adamson 2017）[^adamson-2017]。占据真主的空间因而依赖真主所处之空间，这损害其自足性。伊本·泰米叶否认独立于其他存在者而存在的空间。他受伊本·鲁世德启发；后者否认虚空存在，并以亚里士多德术语把位置（*makān*）定义为包围并包含物体的物体的内表面。例如，一个天球的位置是包围它的天球的内表面，但宇宙没有位置，因为它不被任何东西包围，甚至不被虚空包围。伊本·泰米叶同样肯定没有虚空。空间（*ḥayyiz*）是物体内部的边界，物体在其中延展并成立。边界是物体的一部分，不脱离物体而存在。没有物体，便没有空间。换言之，存在者不占据空间；存在者是空间延展的（*mutaḥayyiz*）。所以，除真主与下方世界外，无物存在。世界之上除真主外无物，真主之上也没有可供真主占据的空间。
+  - id: 51
+    kind: body
+    source: |-
+      Along with *kalām* theology more generally, al-Rāzī contends that a spatial God would be divisible and composite, which would violate God’s unity. Ibn Taymiyya agrees that God cannot be divided into parts or composed out of them, but he does not concede that spatiality implies divisibility and composition in the case of God. God can be both indivisible and very big. Ibn Taymiyya affirms that God is so immense that no one can measure God truly, but he also explains that God’s size is finite because an infinite spatial extension is impossible.
+    step1: |-
+      与凯拉姆神学更一般地一致，拉齐主张，空间性的真主会可分割、可组合，这违反真主的独一性。伊本·泰米叶同意真主不可分为部分、也不由部分组成，但他不承认在真主情形中空间性蕴含可分割与可组合。真主既可不可分割，又可极其巨大。伊本·泰米叶肯定真主广大无边，无人能真正测度真主；但他也解释，真主的大小是有限的，因为无限的空间延展不可能。
+    step2: |-
+      与凯拉姆神学更一般地一致，拉齐主张，空间性的真主会可分割、可组合，这违反真主的独一性。伊本·泰米叶同意真主不可分为部分、也不由部分组成，但他不承认在真主情形中空间性蕴含可分割与可组合。真主既可不可分割，又可极其巨大。伊本·泰米叶肯定真主广大无边，无人能真正测度真主；但他也解释，真主的大小是有限的，因为无限的空间延展不可能。
+  - id: 52
+    kind: body
+    source: |-
+      Al-Rāzī argues furthermore that a God located above in a spatial sense would lie above people standing on one side of the spherical earth but below those on the opposite side, which is absurd. Ibn Taymiyya replies that the sky is above the earth no matter where one stands on the earth. Likewise, God is always located above from any point on the earth. God in fact surrounds the universe:
+    step1: |-
+      拉齐还主张，在空间意义上位于上方的真主，会位于站在球形地球一侧的人之上，却位于对面的人之下，这荒谬。伊本·泰米叶回应说，无论人站在地球上何处，天空都在大地之上。同样，从地球上任何一点看，真主总位于上方。事实上，真主包围宇宙：
+    step2: |-
+      拉齐还主张，在空间意义上位于上方的真主，会位于站在球形地球一侧的人之上，却位于对面的人之下，这荒谬。伊本·泰米叶回应说，无论人站在地球上何处，天空都在大地之上。同样，从地球上任何一点看，真主总位于上方。事实上，真主包围宇宙：
+  - id: 53
+    kind: body
+    source: |-
+      > The Creator of all things is above all things and surrounds them from His location that surrounds all of [the celestial spheres] (*an yakūna khāliq al-jamīʿ fawq al-jamīʿ wa-muḥīṭan bi-hi min jihati-hi al-muḥīṭa jamīʿi-hā*). (*Bayān Talbīs* 4: 52; trans. Hoover 2022: 664)[^hoover-2022]
+    step1: |-
+      > 万物的创造者高于万物，并从其包围一切[天球]的位置包围它们（*an yakūna khāliq al-jamīʿ fawq al-jamīʿ wa-muḥīṭan bi-hi min jihati-hi al-muḥīṭa jamīʿi-hā*）。（*Bayān Talbīs* 4: 52；译 Hoover 2022: 664）[^hoover-2022]
+    step2: |-
+      > 万物的创造者高于万物，并从其包围一切[天球]的位置包围它们（*an yakūna khāliq al-jamīʿ fawq al-jamīʿ wa-muḥīṭan bi-hi min jihati-hi al-muḥīṭa jamīʿi-hā*）。（*Bayān Talbīs* 4: 52；译 Hoover 2022: 664）[^hoover-2022]
+  - id: 54
+    kind: body
+    source: |-
+      The notion of God’s spatial extension easily suggests that God is a body. Ibn Taymiyya is, however, reticent to speak of God as a body (*jism*) because the revealed texts and the early Muslims (*salaf*) do not affirm or deny this term of God. He is also wary of the term because *kalām* theologians understand the very definition of “body” to involve divisibility and composition. Yet, Ibn Taymiyya does allow calling God a body so long as it is completely clear that God is indivisible.
+    step1: |-
+      真主空间延展的观念容易暗示真主是物体。然而，伊本·泰米叶不愿说真主是物体（*jism*），因为启示文本与早期穆斯林（*salaf*）既未肯定也未否认真主的这一术语。他也警惕该术语，因为凯拉姆神学家把“物体”定义本身理解为涉及可分割与可组合。不过，伊本·泰米叶确实允许称真主为物体，只要完全清楚真主不可分割。
+    step2: |-
+      真主空间延展的观念容易暗示真主是物体。然而，伊本·泰米叶不愿说真主是物体（*jism*），因为启示文本与早期穆斯林（*salaf*）既未肯定也未否认真主的这一术语。他也警惕该术语，因为凯拉姆神学家把“物体”定义本身理解为涉及可分割与可组合。不过，伊本·泰米叶确实允许称真主为物体，只要完全清楚真主不可分割。
+  - id: 55
+    kind: body
+    source: |-
+      To sum up Ibn Taymiyya’s views on God and space, God is a huge indivisible, spatially extended existent that surrounds the entire universe. God is not an existent in space, nor does God transcend space. Rather, God is spatial in God’s essence. There is no void space, and no space exists apart from God and the universe that God has created (Holtzman 2018: 457–63; Suleiman 2019: 119–25; Hoover 2022)[^holtzman-2018][^hoover-2022][^suleiman-2019].
+    step1: |-
+      总结伊本·泰米叶关于真主与空间的观点：真主是巨大的、不可分割的、空间延展的存在者，包围整个宇宙。真主不是空间中的存在者，也不超越空间。相反，真主在其本质上就是空间性的。没有虚空，除真主与真主所造的宇宙外，也没有空间存在（Holtzman 2018: 457–63; Suleiman 2019: 119–25; Hoover 2022）[^holtzman-2018][^hoover-2022][^suleiman-2019]。
+    step2: |-
+      总结伊本·泰米叶关于真主与空间的观点：真主是巨大的、不可分割的、空间延展的存在者，包围整个宇宙。真主不是空间中的存在者，也不超越空间。相反，真主在其本质上就是空间性的。没有虚空，除真主与真主所造的宇宙外，也没有空间存在（Holtzman 2018: 457–63; Suleiman 2019: 119–25; Hoover 2022）[^holtzman-2018][^hoover-2022][^suleiman-2019]。
+  - id: 56
+    kind: body
+    source: |-
+      ### 4.4 God, Creation and Time
+    step1: |-
+      ### 4.4 真主、创造与时间
+    step2: |-
+      ### 4.4 真主、创造与时间
+  - id: 57
+    kind: body
+    source: |-
+      According to Ibn Taymiyya, God’s perfection entails perpetual dynamism and not timeless eternity as in *kalām* theology and Avicennan philosophy. Ibn Taymiyya’s understanding of time, much like his interpretation of space, is Aristotelian in tenor. God does not transcend time, but God does not exist within time either. Rather, time derives from God’s internal dynamism and God’s perpetual creation of the world. Furthermore, there has always been time. The genus of time is eternal because God has been doing one thing after another from eternity. However, time does not subsist as an eternal entity independently of God. Time has no independent existence apart from the movement from which it derives (Suleiman 2019: 125–8)[^suleiman-2019].
+    step1: |-
+      据伊本·泰米叶，真主的完满蕴含永恒的动态，而非凯拉姆神学与阿维森纳哲学中的无时间永恒。伊本·泰米叶对时间的理解，颇似其对空间的解释，带有亚里士多德色彩。真主不超越时间，但真主也不存在于时间之中。相反，时间源自真主的内部动态与真主对世界的永恒创造。此外，时间一直存在。时间的种是永恒的，因为真主从永恒起就一件接一件地做。然而，时间并不作为永恒实体独立于真主而存在。时间离开其所由派生的运动，便无独立存在（Suleiman 2019: 125–8）[^suleiman-2019]。
+    step2: |-
+      据伊本·泰米叶，真主的完满蕴含永恒的动态，而非凯拉姆神学与阿维森纳哲学中的无时间永恒。伊本·泰米叶对时间的理解，颇似其对空间的解释，带有亚里士多德色彩。真主不超越时间，但真主也不存在于时间之中。相反，时间源自真主的内部动态与真主对世界的永恒创造。此外，时间一直存在。时间的种是永恒的，因为真主从永恒起就一件接一件地做。然而，时间并不作为永恒实体独立于真主而存在。时间离开其所由派生的运动，便无独立存在（Suleiman 2019: 125–8）[^suleiman-2019]。
+  - id: 58
+    kind: body
+    source: |-
+      Ibn Taymiyya’s understanding of God’s internal dynamism is similar to views held earlier by the philosopher Abū Barakāt al-Baghdādī (d. ca. 1165) and the Karrāmī theologians who thrived in what is today Iran and Afghanistan. He also acknowledges that his position is tantamount to what *kalām* theologians identify as temporally originating events (*ḥawādith*) subsisting in God’s essence. However, Ibn Taymiyya prefers to avoid the non-scriptural term *ḥawādith* and speak instead of God’s dynamism in terms of God’s voluntary attributes (*al-ṣifāt al-ikhtiyāriyya*). God’s voluntary attributes include God’s creation, love, mercy, wrath, justice, sitting and descending. These attributes subsist in God’s essence, and God exercises them by means of His will and power. Ibn Taymiyya contrasts his view with those of the Ashʿarīs and Muʿtazilīs, taking speech as a prime example. The Ashʿarīs maintain along with Ibn Taymiyya that God’s speech, will, and power subsist in God’s essence, but they insist that these attributes are timelessly eternal to avert temporality in the essence of God. Ibn Taymiyya counters that the Ashʿarīs thereby abolish the instrumentality between God’s will and power on the one hand and God’s speech on the other. They impugn God’s perfection by making it impossible for God to speak by means of His will and power. Additionally, Ibn Taymiyya does not believe that it is possible to correlate a timelessly eternal attribute of speech with temporal events in the world. The Muʿtazilīs for their part do affirm that God speaks by His will, but they seek to safeguard God’s timeless eternity by understanding God’s speech to be something created in a substrate disjoined from God’s essence. Ibn Taymiyya responds that such speech is no longer God’s own because it does not subsist within Him. For Ibn Taymiyya, the correct view, the view of the *salaf*, is that God has been speaking by His will and power from eternity with individual acts of speech subsisting in His essence. These divine speech acts are not themselves eternal, but neither are they created because created things do not subsist in the essence of God. Ibn Taymiyya breaks the *kalām* identity of the temporal with the created and the timelessly eternal with the uncreated. God’s internal dynamism is temporal in character but not created. God’s uncreated speech acts are temporal and can address temporal events in the world (Hoover 2004: 296–9; Hoover 2010: 58–60; Suleiman 2019: 298–312)[^hoover-2004][^hoover-2010][^suleiman-2019].
+    step1: |-
+      伊本·泰米叶对真主内部动态的理解，类似哲学家阿布·巴拉卡特·巴格达迪（约卒于 1165）与卡兰米派神学家早先的观点；后者活跃于今伊朗与阿富汗一带。他也承认，其立场等同于凯拉姆神学家所谓“在真主本质中成立的时间性生起事件（*ḥawādith*）”。然而，伊本·泰米叶宁愿回避非经文的 *ḥawādith* 一词，转而以真主的自愿属性（*al-ṣifāt al-ikhtiyāriyya*）谈真主的动态。真主的自愿属性包括真主的创造、爱、慈悯、愤怒、正义、端坐与降临。这些属性在真主本质中成立，真主借其意志与能力运用它们。伊本·泰米叶以言语为首要例子，把自己的观点与艾什尔里派和穆尔太齐赖派对照。艾什尔里派与伊本·泰米叶一样主张，真主的言语、意志与能力在真主本质中成立，但他们坚持这些属性无时间地永恒，以避免真主本质中的时间性。伊本·泰米叶反驳说，艾什尔里派由此取消了真主意愿与能力同真主言语之间的工具关系。他们使真主不能借其意志与能力言说，从而损害真主的完满。此外，伊本·泰米叶不相信能把无时间永恒的言语属性与世界中的时间事件关联起来。穆尔太齐赖派则肯定真主借其意志言说，但他们试图通过把真主言语理解为在被造基质中、与真主本质分离的东西，来保障真主的无时间永恒。伊本·泰米叶回应说，这样的言语不再是真主自己的，因为它不在真主之中成立。在伊本·泰米叶看来，正确观点、即 *salaf* 的观点是：真主从永恒起就借其意志与能力言说，个别的言语行为在真主本质中成立。这些神圣言语行为本身不是永恒的，但也不是被造的，因为被造物不在真主本质中成立。伊本·泰米叶打破了凯拉姆关于“时间性的即被造的、无时间永恒的即非被造的”这一等同。真主的内部动态在性质上是时间性的，但不是被造的。真主非被造的言语行为是时间性的，可以针对世界中的时间事件（Hoover 2004: 296–9; Hoover 2010: 58–60; Suleiman 2019: 298–312）[^hoover-2004][^hoover-2010][^suleiman-2019]。
+    step2: |-
+      伊本·泰米叶对真主内部动态的理解，类似哲学家阿布·巴拉卡特·巴格达迪（约卒于 1165）与卡兰米派神学家早先的观点；后者活跃于今伊朗与阿富汗一带。他也承认，其立场等同于凯拉姆神学家所谓“在真主本质中成立的时间性生起事件（*ḥawādith*）”。然而，伊本·泰米叶宁愿回避非经文的 *ḥawādith* 一词，转而以真主的自愿属性（*al-ṣifāt al-ikhtiyāriyya*）谈真主的动态。真主的自愿属性包括真主的创造、爱、慈悯、愤怒、正义、端坐与降临。这些属性在真主本质中成立，真主借其意志与能力运用它们。伊本·泰米叶以言语为首要例子，把自己的观点与艾什尔里派和穆尔太齐赖派对照。艾什尔里派与伊本·泰米叶一样主张，真主的言语、意志与能力在真主本质中成立，但他们坚持这些属性无时间地永恒，以避免真主本质中的时间性。伊本·泰米叶反驳说，艾什尔里派由此取消了真主意愿与能力同真主言语之间的工具关系。他们使真主不能借其意志与能力言说，从而损害真主的完满。此外，伊本·泰米叶不相信能把无时间永恒的言语属性与世界中的时间事件关联起来。穆尔太齐赖派则肯定真主借其意志言说，但他们试图通过把真主言语理解为在被造基质中、与真主本质分离的东西，来保障真主的无时间永恒。伊本·泰米叶回应说，这样的言语不再是真主自己的，因为它不在真主之中成立。在伊本·泰米叶看来，正确观点、即 *salaf* 的观点是：真主从永恒起就借其意志与能力言说，个别的言语行为在真主本质中成立。这些神圣言语行为本身不是永恒的，但也不是被造的，因为被造物不在真主本质中成立。伊本·泰米叶打破了凯拉姆关于“时间性的即被造的、无时间永恒的即非被造的”这一等同。真主的内部动态在性质上是时间性的，但不是被造的。真主非被造的言语行为是时间性的，可以针对世界中的时间事件（Hoover 2004: 296–9; Hoover 2010: 58–60; Suleiman 2019: 298–312）[^hoover-2004][^hoover-2010][^suleiman-2019]。
+  - id: 59
+    kind: body
+    source: |-
+      Creation in Ibn Taymiyya’s theology is a voluntary attribute like speech. God’s perfection entails that God perpetually create created things by His will and power from eternity without beginning (*min al-azal*). While each created thing in the world had a beginning and no created thing is eternal alongside God, there has always been one created thing or another. This present world that God created in six days was created out of prior materials that God had created previously out of prior created things and so on ad infinitum into the past. Ibn Taymiyya speaks of the genus or species of created things being eternal since there have always been created things, but he denies that this genus as such has an extramental existence. In a history of creation that has no beginning and no end, only created things with beginnings exist in extramental reality.
+    step1: |-
+      在伊本·泰米叶的神学中，创造是与言语一样的自愿属性。真主的完满蕴含：真主从无始的永恒（*min al-azal*）起，就借其意志与能力不断创造被造物。尽管世界中每个被造物都有开端，且没有被造物与真主同为永恒，但总有一个又一个被造物存在。真主在六天内创造的当前世界，是由真主此前创造的先前材料所造，而那些材料又由更早的被造物所造，如此无限上溯。伊本·泰米叶说被造物的种或类是永恒的，因为被造物一直存在；但他否认该种本身有心外存在。在一段无始无终的创造史中，只有有开端的被造物存在于心外实在中。
+    step2: |-
+      在伊本·泰米叶的神学中，创造是与言语一样的自愿属性。真主的完满蕴含：真主从无始的永恒（*min al-azal*）起，就借其意志与能力不断创造被造物。尽管世界中每个被造物都有开端，且没有被造物与真主同为永恒，但总有一个又一个被造物存在。真主在六天内创造的当前世界，是由真主此前创造的先前材料所造，而那些材料又由更早的被造物所造，如此无限上溯。伊本·泰米叶说被造物的种或类是永恒的，因为被造物一直存在；但他否认该种本身有心外存在。在一段无始无终的创造史中，只有有开端的被造物存在于心外实在中。
+  - id: 60
+    kind: body
+    source: |-
+      Ibn Taymiyya’s view of creation is closer to the philosophers Ibn Sīnā and Ibn Rushd than to the *kalām* theologians. He follows both philosophers in affirming that God’s perfection entails the production of the world, but like Ibn Rushd, he rejects Ibn Sīnā’s emanation scheme in favor of God’s continuous creation of the world. Ibn Taymiyya may well have been inspired by Ibn Rushd since we know that he read the philosopher’s texts. Ibn Taymiyya also adopts Ibn Sīnā’s and Ibn Rushd’s criticism of the *kalām* theologians’ account of creation ex nihilo. If the world had had a beginning, as the *kalām* theologians argue, God would have been imperfect before creating it and subject to change when He began the creation process. A preponderator (*murajjiḥ*) or efficient cause would need to have arisen to cause God to start originating. The *kalām* theologians counter that it is was in the very nature of God’s will to begin originating the world, and no additional preponderator was needed to cause God to begin creating. Ibn Taymiyya rejects this as positing something impossible, namely, preponderance without a preponderator (Hoover 2004; Abu AbdurRahman 2023)[^abu-2023][^hoover-2004].
+    step1: |-
+      伊本·泰米叶的创造观更接近哲学家伊本·西那与伊本·鲁世德，而非凯拉姆神学家。他跟随两位哲学家肯定真主的完满蕴含世界的产生；但像伊本·鲁世德一样，他拒绝伊本·西那的流溢图式，主张真主持续创造世界。伊本·泰米叶很可能受伊本·鲁世德启发，因为我们知道他读过这位哲学家的文本。伊本·泰米叶还采纳伊本·西那与伊本·鲁世德对凯拉姆神学家“从无创造”说明的批评。若世界有开端（如凯拉姆神学家所论），真主在创造它之前便不完满，且在开始创造过程时会发生变化。需要出现一个偏重者（*murajjiḥ*）或动力因，使真主开始创造。凯拉姆神学家回应说，开始创造世界本就在真主意愿的本性之中，无须额外偏重者使真主开始创造。伊本·泰米叶斥之为设定不可能之事，即无偏重者的偏重（Hoover 2004; Abu AbdurRahman 2023）[^abu-2023][^hoover-2004]。
+    step2: |-
+      伊本·泰米叶的创造观更接近哲学家伊本·西那与伊本·鲁世德，而非凯拉姆神学家。他跟随两位哲学家肯定真主的完满蕴含世界的产生；但像伊本·鲁世德一样，他拒绝伊本·西那的流溢图式，主张真主持续创造世界。伊本·泰米叶很可能受伊本·鲁世德启发，因为我们知道他读过这位哲学家的文本。伊本·泰米叶还采纳伊本·西那与伊本·鲁世德对凯拉姆神学家“从无创造”说明的批评。若世界有开端（如凯拉姆神学家所论），真主在创造它之前便不完满，且在开始创造过程时会发生变化。需要出现一个偏重者（*murajjiḥ*）或动力因，使真主开始创造。凯拉姆神学家回应说，开始创造世界本就在真主意愿的本性之中，无须额外偏重者使真主开始创造。伊本·泰米叶斥之为设定不可能之事，即无偏重者的偏重（Hoover 2004; Abu AbdurRahman 2023）[^abu-2023][^hoover-2004]。
+  - id: 61
+    kind: body
+    source: |-
+      ### 4.5 Causality and Theodicy
+    step1: |-
+      ### 4.5 因果性与神义论
+    step2: |-
+      ### 4.5 因果性与神义论
+  - id: 62
+    kind: body
+    source: |-
+      Ibn Taymiyya affirms that God’s activity is rational. God creates on account of a cause (*ʿilla*) or wise purpose (*ḥikma*), and, given that God has been creating from eternity, the wise purposes of God’s creative acts regress infinitely into the past within God’s essence. Moreover, God’s rationality is not purely altruistic. God acts for benefits that redound not only to creatures but also to God Himself. For Ibn Taymiyya it is neither rational nor praiseworthy for agents to commit acts that are of no benefit to themselves. Ashʿarī theologians object that a God who acts for wise purposes must be needy and dependent on those acts to attain perfection. Ibn Taymiyya counters that it is rational for agents to be perfected by their acts and that it is a greater perfection to create things for wise purposes at the right times than to create without purpose. God is self-sufficient, not in the sense of being free to act or not act without reason—the Ashʿarī view—but in needing no help in the act of creation. Furthermore, God’s love for the love and obedience of His servants does not derive from God’s need for love. Rather, it follows on from God’s love of God’s self. God’s self-love is primary, and from God’s self-love flows God’s love for human beings and the creation of everything that they do, including their love for God and obedience to Him. God does not act to acquire perfection. Instead, God’s creative acts, and with them the created world, are necessary concomitants of the perfection of God’s essence. Ibn Taymiyya’s resolution to the problem of God’s self-sufficiency is Neoplatonic, and the notion of God’s self-love giving rise to the world as a necessary concomitant is found in the Neoplatonism of Ibn Sīnā (Bell 1979: 71–3; Hoover 2007: 70–102; Vasalou 2016: 167–79)[^bell-1979][^hoover-2007][^vasalou-2016].
+    step1: |-
+      伊本·泰米叶肯定真主的活动是理性的。真主因某个原因（*ʿilla*）或智慧目的（*ḥikma*）而创造；既然真主从永恒起就在创造，真主创造活动的智慧目的便在真主本质中无限上溯。此外，真主的理性并非纯粹利他。真主行动所得益处不仅归予受造物，也归予真主自身。在伊本·泰米叶看来，能动者从事对自身无益的行为，既非理性也不可赞。艾什尔里派神学家反对说，为智慧目的行动的真主必定有需要，并依赖这些行为来达到完满。伊本·泰米叶反驳说，能动者因其行为而完善是理性的；在恰当时机为智慧目的创造万物，比无目的地创造更完满。真主自足，不是说真主可以无理由地行动或不行动（艾什尔里派观点），而是说真主在创造行为中不需要帮助。此外，真主对其仆人的爱与顺服的喜爱，并非源于真主对爱的需要，而是源于真主对自身的爱。真主的自爱是首要的；从真主的自爱流出真主对人的爱，以及对他们一切行为的创造，包括他们对真主的爱与顺服。真主行动不是为了获取完满。相反，真主的创造活动、连同受造世界，是真主本质完满的必然伴随物。伊本·泰米叶对真主自足问题的解决是新柏拉图式的；真主自爱产生世界作为必然伴随物这一观念，见于伊本·西那的新柏拉图主义（Bell 1979: 71–3; Hoover 2007: 70–102; Vasalou 2016: 167–79）[^bell-1979][^hoover-2007][^vasalou-2016]。
+    step2: |-
+      伊本·泰米叶肯定真主的活动是理性的。真主因某个原因（*ʿilla*）或智慧目的（*ḥikma*）而创造；既然真主从永恒起就在创造，真主创造活动的智慧目的便在真主本质中无限上溯。此外，真主的理性并非纯粹利他。真主行动所得益处不仅归予受造物，也归予真主自身。在伊本·泰米叶看来，能动者从事对自身无益的行为，既非理性也不可赞。艾什尔里派神学家反对说，为智慧目的行动的真主必定有需要，并依赖这些行为来达到完满。伊本·泰米叶反驳说，能动者因其行为而完善是理性的；在恰当时机为智慧目的创造万物，比无目的地创造更完满。真主自足，不是说真主可以无理由地行动或不行动（艾什尔里派观点），而是说真主在创造行为中不需要帮助。此外，真主对其仆人的爱与顺服的喜爱，并非源于真主对爱的需要，而是源于真主对自身的爱。真主的自爱是首要的；从真主的自爱流出真主对人的爱，以及对他们一切行为的创造，包括他们对真主的爱与顺服。真主行动不是为了获取完满。相反，真主的创造活动、连同受造世界，是真主本质完满的必然伴随物。伊本·泰米叶对真主自足问题的解决是新柏拉图式的；真主自爱产生世界作为必然伴随物这一观念，见于伊本·西那的新柏拉图主义（Bell 1979: 71–3; Hoover 2007: 70–102; Vasalou 2016: 167–79）[^bell-1979][^hoover-2007][^vasalou-2016]。
+  - id: 63
+    kind: body
+    source: |-
+      Ibn Taymiyya uses the language of secondary causes (sg. *sabab*) in instrumental and material senses to describe the process of God’s creation of things in the world. For example, God creates the human act by means of the human will and power; God makes plants grow by means of clouds and rain; and God causes illness and death by means of poison. In general, God creates everything out of and by means of previously existing materials and powers. Secondary causality looks natural from the human perspective, even though God has the power to interrupt it, but from the divine perspective, it is purely instrumental.
+    step1: |-
+      伊本·泰米叶以工具与材料意义上的次级原因（单数 *sabab*）语言，描述真主创造世界中事物的过程。例如，真主借人的意志与能力创造人的行为；真主借云与雨使植物生长；真主借毒物导致疾病与死亡。一般地说，真主从先前存在的材料与力量中、并借它们创造万物。从人的视角看，次级因果显得自然，尽管真主有能力中断它；但从神的视角看，它纯属工具性的。
+    step2: |-
+      伊本·泰米叶以工具与材料意义上的次级原因（单数 *sabab*）语言，描述真主创造世界中事物的过程。例如，真主借人的意志与能力创造人的行为；真主借云与雨使植物生长；真主借毒物导致疾病与死亡。一般地说，真主从先前存在的材料与力量中、并借它们创造万物。从人的视角看，次级因果显得自然，尽管真主有能力中断它；但从神的视角看，它纯属工具性的。
+  - id: 64
+    kind: body
+    source: |-
+      God’s creation of all human acts raises the question of human responsibility. The Muʿtazlilī *kalām* theologians maintain that humans are responsible for their acts because humans themselves create them. Ibn Taymiyya rejects the Muʿtazilī formulation as compromising God’s exclusive creative power. Instead, in what may be earlier texts, he affirms that humans are the agents of their acts and therefore liable to reward and punishment because God creates their acts in them and not in Himself. In what may be later texts, Ibn Taymiyya also roots the origin of human moral failure in nonexistence to absolve God completely of creating it. Humans are liable to punishment for omitting to do the deeds that they were created to perform. This omission is a privation; it does not exist, and so it cannot be attributed to God.
+    step1: |-
+      真主创造一切人类行为，引出人的责任问题。穆尔太齐赖派凯拉姆神学家主张，人对其行为负责，因为人自己创造它们。伊本·泰米叶拒绝穆尔太齐赖派表述，认为它损害真主专有的创造能力。相反，在可能较早的文本中，他肯定人是其行为的行动者，因而应得赏罚，因为真主在人的内部而非自身中创造其行为。在可能较晚的文本中，伊本·泰米叶还把人类道德失败的起源追溯到不存在，以完全免除真主创造它。人因未履行被造来履行的行为而应受惩罚。这种不作为是一种缺失；它不存在，故不能归予真主。
+    step2: |-
+      真主创造一切人类行为，引出人的责任问题。穆尔太齐赖派凯拉姆神学家主张，人对其行为负责，因为人自己创造它们。伊本·泰米叶拒绝穆尔太齐赖派表述，认为它损害真主专有的创造能力。相反，在可能较早的文本中，他肯定人是其行为的行动者，因而应得赏罚，因为真主在人的内部而非自身中创造其行为。在可能较晚的文本中，伊本·泰米叶还把人类道德失败的起源追溯到不存在，以完全免除真主创造它。人因未履行被造来履行的行为而应受惩罚。这种不作为是一种缺失；它不存在，故不能归予真主。
+  - id: 65
+    kind: body
+    source: |-
+      As with Ibn Taymiyya’s approach to God’s self-sufficiency, Avicennan Neoplatonic inclinations color his theodicy as well. God creates all things, including evils, for wise purposes that are ultimately good. Pure or absolute evil does not exist. Evil is only evil relative to those afflicted by it. Ibn Taymiyya sometimes says that God’s wise purposes in evil cannot be known. At other times, however, he indicates that God’s wise purposes have to do with nurturing religious virtues such as repentance, humility, and patience. Ibn Taymiyya ultimately affirms that everything God creates is good and that this world is the best of all possible worlds. To avoid the charge that this limits God’s power, Ibn Taymiyya asserts that God could create other than this world. However, God creates the world that He does out of His perfection and wise purpose (Hoover 2007: 146–65, 177–228)[^hoover-2007].
+    step1: |-
+      与伊本·泰米叶对真主自足的处理一样，阿维森纳式新柏拉图倾向也渲染其神义论。真主为最终为善的智慧目的创造万物，包括恶。纯粹或绝对的恶不存在。恶只相对于受其折磨者才是恶。伊本·泰米叶有时说，真主在恶中的智慧目的不可知。然而另一些时候，他暗示真主的智慧目的关乎培育悔罪、谦卑与忍耐等宗教美德。伊本·泰米叶最终肯定真主所造一切皆善，且这个世界是一切可能世界中最好的。为避免“这限制了真主能力”的指责，伊本·泰米叶断言真主能创造这个世界之外的别的世界。然而，真主出于其完满与智慧目的创造了这个世界（Hoover 2007: 146–65, 177–228）[^hoover-2007]。
+    step2: |-
+      与伊本·泰米叶对真主自足的处理一样，阿维森纳式新柏拉图倾向也渲染其神义论。真主为最终为善的智慧目的创造万物，包括恶。纯粹或绝对的恶不存在。恶只相对于受其折磨者才是恶。伊本·泰米叶有时说，真主在恶中的智慧目的不可知。然而另一些时候，他暗示真主的智慧目的关乎培育悔罪、谦卑与忍耐等宗教美德。伊本·泰米叶最终肯定真主所造一切皆善，且这个世界是一切可能世界中最好的。为避免“这限制了真主能力”的指责，伊本·泰米叶断言真主能创造这个世界之外的别的世界。然而，真主出于其完满与智慧目的创造了这个世界（Hoover 2007: 146–65, 177–228）[^hoover-2007]。
+  - id: 66
+    kind: body
+    source: |-
+      ## 5. Theory of Religion
+    step1: |-
+      ## 5. 宗教理论
+    step2: |-
+      ## 5. 宗教理论
+  - id: 67
+    kind: body
+    source: |-
+      Ibn Taymiyya’s theory of religion (*dīn*) is decidedly naturalistic and sociological, at least in its foundations, and, as will be noted further below, it draws on Ibn Sīnā’s analysis of final causality to point to God as religion’s proper object of worship. For Ibn Taymiyya, humans are dynamic and goal-oriented beings who necessarily will, love, worship, and obey something. So, they cannot help but be religious. Moreover, human beings are social, and every human group requires a religion to unite it and guide it in attaining benefit and warding off harm. Religion consists of inner and outer acts of obedience, worship, and ethical character, and it is what people love in common to attain mutual benefit. Religion then has two fundamental aspects: 1) the object of love and worship and 2) the means by which that object is loved and worshipped. The divinely revealed and most beneficial religion is worship and love of God alone by means of the prescriptions of Islam. Ibn Taymiyya elaborates as follows:
+    step1: |-
+      伊本·泰米叶的宗教（*dīn*）理论至少在其基础上是坚定自然主义与社会学的；如下文将进一步指出，它借用伊本·西那对目的因的分析，指出真主是宗教恰当的崇拜对象。在伊本·泰米叶看来，人是动态的、目标导向的存在者，必然而然地意愿、爱、崇拜并顺服某物。因此，人不能不宗教。此外，人是社会的，每个人类群体都需要一种宗教来团结它、指导它趋利避害。宗教由内在与外在的顺服行为、崇拜与伦理品格构成，是人们共同所爱、以求得相互利益者。于是宗教有两个基本方面：1）爱与崇拜的对象；2）爱并崇拜该对象的手段。神圣启示的、最有益的宗教，是借伊斯兰规定只崇拜并爱真主。伊本·泰米叶详述如下：
+    step2: |-
+      伊本·泰米叶的宗教（*dīn*）理论至少在其基础上是坚定自然主义与社会学的；如下文将进一步指出，它借用伊本·西那对目的因的分析，指出真主是宗教恰当的崇拜对象。在伊本·泰米叶看来，人是动态的、目标导向的存在者，必然而然地意愿、爱、崇拜并顺服某物。因此，人不能不宗教。此外，人是社会的，每个人类群体都需要一种宗教来团结它、指导它趋利避害。宗教由内在与外在的顺服行为、崇拜与伦理品格构成，是人们共同所爱、以求得相互利益者。于是宗教有两个基本方面：1）爱与崇拜的对象；2）爱并崇拜该对象的手段。神圣启示的、最有益的宗教，是借伊斯兰规定只崇拜并爱真主。伊本·泰米叶详述如下：
+  - id: 68
+    kind: body
+    source: |-
+      > Every living being must have an object of love, which is the goal of its love and its will and towards which its inner and outer movements are directed. That is its god. That [love, will, and movement] is of no benefit unless it is for God alone, without giving Him an associate. Everything other than Islam is worthless.…Every religion, obedience, and love must have two things. The first is the object of religion, love, and obedience. This is the object of intention and the object of will. The second is the form of the deeds by which [that object] is obeyed and worshipped. This is the way, the path, the law, the method, and the means of access.…Religion encompasses two things: the object of worship and the worship. The object of worship is the one God. Worship is obeying Him and obeying His Messenger. This is the religion of God with which He is well pleased. As He said, “I am well pleased with Islam as a religion for you” (Qurʾān 5:3). (*Qāʾida fī al-maḥabba* 39–40; trans. Hoover 2019b: 43–4; see further Abbasi 2021: 64–70)[^abbasi-2021][^hoover-2019b]
+    step1: |-
+      > 每个有生命者都必有一个爱的对象，即其爱与意志的目标，其内外运动都朝向它。那就是它的神。这种[爱、意志与运动]若非专为真主、不给他设配主，便无益处。伊斯兰之外的一切都无价值……每种宗教、顺服与爱都必有两样东西。第一是宗教、爱与顺服的对象，即意图对象与意志对象。第二是借以顺服并崇拜[该对象]的行为形式，即道路、路径、律法、方法与接近手段……宗教包含两样：崇拜对象与崇拜。崇拜对象是独一真主；崇拜是顺服他、顺服他的使者。这是真主所喜悦的宗教。如他所说：“我已为你们喜悦伊斯兰为宗教”（《古兰经》5:3）。（*Qāʾida fī al-maḥabba* 39–40；译 Hoover 2019b: 43–4；进一步见 Abbasi 2021: 64–70）[^abbasi-2021][^hoover-2019b]
+    step2: |-
+      > 每个有生命者都必有一个爱的对象，即其爱与意志的目标，其内外运动都朝向它。那就是它的神。这种[爱、意志与运动]若非专为真主、不给他设配主，便无益处。伊斯兰之外的一切都无价值……每种宗教、顺服与爱都必有两样东西。第一是宗教、爱与顺服的对象，即意图对象与意志对象。第二是借以顺服并崇拜[该对象]的行为形式，即道路、路径、律法、方法与接近手段……宗教包含两样：崇拜对象与崇拜。崇拜对象是独一真主；崇拜是顺服他、顺服他的使者。这是真主所喜悦的宗教。如他所说：“我已为你们喜悦伊斯兰为宗教”（《古兰经》5:3）。（*Qāʾida fī al-maḥabba* 39–40；译 Hoover 2019b: 43–4；进一步见 Abbasi 2021: 64–70）[^abbasi-2021][^hoover-2019b]
+  - id: 69
+    kind: body
+    source: |-
+      Ibn Taymiyya frequently signifies God’s unique worthiness of worship with the terms *ulūhiyya* and *ilāhiyya*. Both mean “divinity” in the sense of that which is worshipped, and he compounds them with the term *tawḥīd* (confessing the oneness or exclusivity of God) to denote the act of taking God as the sole object of worship and obedience (*tawḥīd al-ulūhiyya* and *tawḥīd al-ilāhiyya*). Ibn Taymiyya also uses the terms *rubūbiyya* and *rabbāniyya* (lordship) to denote God’s role as creator, sustainer, and source. The confession that God is the one and only Lord of the universe (*tawḥīd al-rubūbiyya* or *tawḥīd al-rabbāniyya*) means that God is creator of everything that exists, all human acts included. Ibn Taymiyya often complains that the Ashʿarī *kalām* theologians give primacy to confessing the exclusiveness of God’s lordship (*tawḥīd al-rubūbiyya*) and lose sight of God’s sole right to worship. Instead, he argues, the Qurʾān gives priority to devoting worship to God alone (*tawḥīd al-ulūhiyya*), as in the invocation in the first chapter of the Qurʾān, “You alone we worship; You alone we ask for help” (Qurʾān 1:5). “You alone we worship” comes first as an expression of *tawḥīd al-ulūhiyya* and is then followed by “You alone we ask for help” as a confession that God is the sole source of sustenance, an expression of *tawḥīd al-rubūbiyya* (Hoover 2007: 26–9, 120–2; Michot 2012b: 123–68)[^hoover-2007][^michot-2012b].
+    step1: |-
+      伊本·泰米叶常用 *ulūhiyya* 与 *ilāhiyya* 表示真主独特配得崇拜。二者都指“神性”，即被崇拜者；他把它们与 *tawḥīd*（承认真主的独一或排他）复合，表示把真主作为唯一崇拜与顺服对象的行为（*tawḥīd al-ulūhiyya* 与 *tawḥīd al-ilāhiyya*）。伊本·泰米叶还用 *rubūbiyya* 与 *rabbāniyya*（主性）表示真主作为创造者、维系者与本源的角色。承认真主是宇宙唯一的主（*tawḥīd al-rubūbiyya* 或 *tawḥīd al-rabbāniyya*）意味着真主是一切存在者——包括一切人类行为——的创造者。伊本·泰米叶常抱怨艾什尔里派凯拉姆神学家把承认真主主性的排他性（*tawḥīd al-rubūbiyya*）置于首位，却忽视真主独有的崇拜权利。他主张，相反，《古兰经》优先把崇拜专归真主（*tawḥīd al-ulūhiyya*），如《古兰经》首章的祈祷：“我们只崇拜你；我们只求你相助”（Q. 1:5）。“我们只崇拜你”在前，表达 *tawḥīd al-ulūhiyya*；随后“我们只求你相助”承认真主是生计的唯一来源，表达 *tawḥīd al-rubūbiyya*（Hoover 2007: 26–9, 120–2; Michot 2012b: 123–68）[^hoover-2007][^michot-2012b]。
+    step2: |-
+      伊本·泰米叶常用 *ulūhiyya* 与 *ilāhiyya* 表示真主独特配得崇拜。二者都指“神性”，即被崇拜者；他把它们与 *tawḥīd*（承认真主的独一或排他）复合，表示把真主作为唯一崇拜与顺服对象的行为（*tawḥīd al-ulūhiyya* 与 *tawḥīd al-ilāhiyya*）。伊本·泰米叶还用 *rubūbiyya* 与 *rabbāniyya*（主性）表示真主作为创造者、维系者与本源的角色。承认真主是宇宙唯一的主（*tawḥīd al-rubūbiyya* 或 *tawḥīd al-rabbāniyya*）意味着真主是一切存在者——包括一切人类行为——的创造者。伊本·泰米叶常抱怨艾什尔里派凯拉姆神学家把承认真主主性的排他性（*tawḥīd al-rubūbiyya*）置于首位，却忽视真主独有的崇拜权利。他主张，相反，《古兰经》优先把崇拜专归真主（*tawḥīd al-ulūhiyya*），如《古兰经》首章的祈祷：“我们只崇拜你；我们只求你相助”（Q. 1:5）。“我们只崇拜你”在前，表达 *tawḥīd al-ulūhiyya*；随后“我们只求你相助”承认真主是生计的唯一来源，表达 *tawḥīd al-rubūbiyya*（Hoover 2007: 26–9, 120–2; Michot 2012b: 123–68）[^hoover-2007][^michot-2012b]。
+  - id: 70
+    kind: body
+    source: |-
+      Ibn Taymiyya further elucidates the priority of God’s worthiness of worship with the Aristotelian causal analysis of Ibn Sīnā. For Ibn Sīnā, the final cause is the end for which something comes into existence and the efficient cause is that which brings the thing into existence. Additionally, the final cause is the efficient cause of the efficient cause insofar as it motivates the action of the efficient cause. In the following discussion of Qurʾān 1:5, Ibn Taymiyya links final causality to divinity and efficient causality to lordship and underlines the primacy of divinity by identifying it as the efficient cause of the efficient cause lordship.
+    step1: |-
+      伊本·泰米叶进一步用伊本·西那的亚里士多德式因果分析阐明真主配得崇拜的优先性。对伊本·西那而言，目的因是某物为之前来的目的，动力因是使该物存在者。此外，目的因是动力因的动力因，因为它推动动力因的行动。在以下关于《古兰经》1:5 的讨论中，伊本·泰米叶把目的因与神性相联、把动力因与主性相联，并通过把神性认定为动力因（主性）的动力因，强调神性的优先性。
+    step2: |-
+      伊本·泰米叶进一步用伊本·西那的亚里士多德式因果分析阐明真主配得崇拜的优先性。对伊本·西那而言，目的因是某物为之前来的目的，动力因是使该物存在者。此外，目的因是动力因的动力因，因为它推动动力因的行动。在以下关于《古兰经》1:5 的讨论中，伊本·泰米叶把目的因与神性相联、把动力因与主性相联，并通过把神性认定为动力因（主性）的动力因，强调神性的优先性。
+  - id: 71
+    kind: body
+    source: |-
+      > The God (*al-ilāh*) is the one worshipped and asking for help is linked to His lordship. The Lord of the servants is He who lords over them. This entails that He is Creator of everything that is in them and from them. The divinity is the final cause, and lordship is the efficient cause. The final [cause] is that which is aimed at, and it is the efficient cause of the efficient cause. Therefore, He made “You alone we worship” precede “You alone we ask for help”. Confessing the exclusiveness of the divinity (*tawḥīd al-ilāhiyya*) includes confessing the exclusiveness of the lordship (*tawḥīḍ al-rubūbiyya*). Included in worshipping only God is not confessing the lordship of any other. (*Bayān talbīs al-Jahmiyya* 4: 533, trans. Hoover 2007:28–9)[^hoover-2007]
+    step1: |-
+      > 神（*al-ilāh*）是被崇拜者，求相助则与其主性相联。众仆的主是统辖他们者。这蕴含他是他们之内与出自他们的一切的创造者。神性是目的因，主性是动力因。目的[因]是被追求者，且是动力因的动力因。因此，他把“我们只崇拜你”置于“我们只求你相助”之前。承认真主神性的排他性（*tawḥīd al-ilāhiyya*）包含承认真主主性的排他性（*tawḥīd al-rubūbiyya*）。只崇拜真主包含不承认任何他者的主性。（*Bayān talbīs al-Jahmiyya* 4: 533，译 Hoover 2007: 28–9）[^hoover-2007]
+    step2: |-
+      > 神（*al-ilāh*）是被崇拜者，求相助则与其主性相联。众仆的主是统辖他们者。这蕴含他是他们之内与出自他们的一切的创造者。神性是目的因，主性是动力因。目的[因]是被追求者，且是动力因的动力因。因此，他把“我们只崇拜你”置于“我们只求你相助”之前。承认真主神性的排他性（*tawḥīd al-ilāhiyya*）包含承认真主主性的排他性（*tawḥīd al-rubūbiyya*）。只崇拜真主包含不承认任何他者的主性。（*Bayān talbīs al-Jahmiyya* 4: 533，译 Hoover 2007: 28–9）[^hoover-2007]
+  - id: 72
+    kind: body
+    source: |-
+      In Ibn Taymiyya’s view, the means of worship most pleasing to God and most beneficial to humankind is the law (*sharīʿa*) revealed to the Prophet Muḥammad. This law encompasses everything that God loves for human beings to believe and do, and it includes religious ritual, theological doctrines, contractual and moral obligations toward others, and religious virtues like patience and gratitude. Ibn Taymiyya maintains as well that the law of Islam is coextensive with justice and maximum human benefit (*maṣlaḥa*) in much the same way that he claims that reason and revelation coincide in matters of theology. Ibn Taymiyya is as much an apologist for the rationality of the divine law as he is for the rationality of his theological doctrines. The two terms “law” and “justice” are for him interchangeable, and he goes so far as to say that God will give victory to a just state that is not Muslim over a Muslim state that is not just. Furthermore, there is nothing outside the revealed law whose benefit outweighs its detriment. The religious law never neglects a benefit, and Muslim jurists who imagine that some acts not mentioned in the law are beneficial are mistaken. Al-Ghazālī had developed a process for authorizing unstated benefits (*al-maṣāliḥ al-mursala*) by identifying five fundamental purposes of the law: the preservation of religion, intellect, life, progeny and property. Benefits not found directly in the revealed law may be legitimized as part of that law by aligning them with the main purposes of the law. Ibn Taymiyya criticizes this strategy for adding rulings to the law that God did not legislate. Additionally, according to Ibn Taymiyya, al-Ghazālī’s five purposes are too narrowly focused on worldly affairs, and they do not take sufficient account of benefits found in legislated worship rituals like the ritual prayer (*ṣalāh*). For Ibn Taymiyya, innovated religious rituals, like commemorating the Prophet’s birthday, and other acts not found within the law may yield some benefit for those who perform them, but the detriments always outweigh the benefits. Ibn Taymiyya therefore condemns such acts and urges abandoning them if possible (Opwis 2010: 181–199; Rapoport 2010; Ukeles 2010; Vasalou 2016: 197–210; Mustafa 2023)[^mustafa-2023][^opwis-2010][^rapoport-2010][^rapoport-2010-2][^ukeles-2010][^vasalou-2016].
+    step1: |-
+      在伊本·泰米叶看来，最令真主喜悦、最有益于人类的崇拜手段，是启示给先知穆罕默德的律法（*sharīʿa*）。该律法涵盖真主愿人类信仰并做的一切，包括宗教仪式、神学教义、对他人的契约与道德义务，以及忍耐、感恩等宗教美德。伊本·泰米叶还主张，伊斯兰律法与正义及最大人类利益（*maṣlaḥa*）外延相同，正如他主张理性与启示在神学事务上一致。他既是神法理性性的辩护者，也是其神学教义理性性的辩护者。“律法”与“正义”二词对他可互换；他甚至说，真主会使一个非穆斯林但正义的国家战胜一个穆斯林但不正义的国家。此外，启示律法之外没有任何东西的益处超过其害处。宗教律法从不忽视利益；那些以为律法未提及的某些行为有益的穆斯林法学家错了。安萨里曾发展一套授权未明言利益（*al-maṣāliḥ al-mursala*）的程序，通过识别律法的五个基本目的：保护宗教、理智、生命、后代与财产。启示律法未直接提及的利益，可通过与律法主要目的对齐而被合法化为律法的一部分。伊本·泰米叶批评这一策略，认为它把真主未立法的判决加进律法。此外，据伊本·泰米叶，安萨里的五个目的过于狭窄地聚焦世俗事务，未充分考虑礼拜（*ṣalāh*）等定制的崇拜仪式中的利益。对伊本·泰米叶而言，创新的宗教仪式（如纪念先知诞辰）以及律法之外的其他行为，也许给践行者带来某些利益，但害处总是超过益处。因此他谴责此类行为，并敦促尽可能放弃（Opwis 2010: 181–199; Rapoport 2010; Ukeles 2010; Vasalou 2016: 197–210; Mustafa 2023）[^mustafa-2023][^opwis-2010][^rapoport-2010][^rapoport-2010-2][^ukeles-2010][^vasalou-2016]。
+    step2: |-
+      在伊本·泰米叶看来，最令真主喜悦、最有益于人类的崇拜手段，是启示给先知穆罕默德的律法（*sharīʿa*）。该律法涵盖真主愿人类信仰并做的一切，包括宗教仪式、神学教义、对他人的契约与道德义务，以及忍耐、感恩等宗教美德。伊本·泰米叶还主张，伊斯兰律法与正义及最大人类利益（*maṣlaḥa*）外延相同，正如他主张理性与启示在神学事务上一致。他既是神法理性性的辩护者，也是其神学教义理性性的辩护者。“律法”与“正义”二词对他可互换；他甚至说，真主会使一个非穆斯林但正义的国家战胜一个穆斯林但不正义的国家。此外，启示律法之外没有任何东西的益处超过其害处。宗教律法从不忽视利益；那些以为律法未提及的某些行为有益的穆斯林法学家错了。安萨里曾发展一套授权未明言利益（*al-maṣāliḥ al-mursala*）的程序，通过识别律法的五个基本目的：保护宗教、理智、生命、后代与财产。启示律法未直接提及的利益，可通过与律法主要目的对齐而被合法化为律法的一部分。伊本·泰米叶批评这一策略，认为它把真主未立法的判决加进律法。此外，据伊本·泰米叶，安萨里的五个目的过于狭窄地聚焦世俗事务，未充分考虑礼拜（*ṣalāh*）等定制的崇拜仪式中的利益。对伊本·泰米叶而言，创新的宗教仪式（如纪念先知诞辰）以及律法之外的其他行为，也许给践行者带来某些利益，但害处总是超过益处。因此他谴责此类行为，并敦促尽可能放弃（Opwis 2010: 181–199; Rapoport 2010; Ukeles 2010; Vasalou 2016: 197–210; Mustafa 2023）[^mustafa-2023][^opwis-2010][^rapoport-2010][^rapoport-2010-2][^ukeles-2010][^vasalou-2016]。
+  - id: 73
+    kind: body
+    source: |-
+      Religion for Ibn Taymiyya cannot do without temporal power, and he criticizes two errors in this regard. One is avoiding power and wealth so as not to sully religion with the compromises of temporal affairs, and the other is deploying power and wealth for personal gain instead of advancing religion. To avert these errors, Ibn Taymiyya seeks to infuse public authority with the ethical impulses of the revealed law in his book *Law-Guided Public Policy* (*al-Siyāsa al-Sharʿiyya*). The purpose of the public authorities, whether they be political, military, judicial or scholarly, is “to reform the religion of the people” in order “that religion is entirely for God and that the word of God is most high” (*Siyāsa* 30, 33). Rulers are to further the cause of religion and enable worship of God alone within whatever political structures happen to be in place. While Ibn Taymiyya speaks to the appointment of public officials, the distribution of public wealth, the conduct of war, the provision of public services, and criminal and personal status law among other things, he does not outline a blueprint for a perfect Islamic state. He instead exhorts public officials to work toward religious reform to the best of their abilities within the circumstances, using force as deemed prudent (Khan 1992: 23–64, 98–170; Johanson 2008; Anjum 2012; Belhaj 2013; Michot 2014; Bori 2021)[^anjum-2012][^belhaj-2013][^bori-2021][^khan-1992][^michot-2014].
+    step1: |-
+      在伊本·泰米叶看来，宗教离不开世俗权力；他批评此方面两种错误。其一是回避权力与财富，以免世俗事务的妥协玷污宗教；其二是把权力与财富用于个人利益而非推进宗教。为避免这些错误，伊本·泰米叶在《遵循教法的公共政策》（*al-Siyāsa al-Sharʿiyya*）中力图把启示律法的伦理冲动注入公共权威。公共权威——无论政治的、军事的、司法的还是学术的——其目的是“改革人民的宗教”，以便“宗教全归真主，真主之言至高”（*Siyāsa* 30, 33）。统治者应在既有政治结构中推进宗教事业，使只崇拜真主成为可能。伊本·泰米叶论及公共官员任命、公共财富分配、战争进行、公共服务提供、刑法与身份法等，但并未勾勒完美伊斯兰国家的蓝图。他反而劝勉公共官员在具体情势中尽力推进宗教改革，审慎使用强制（Khan 1992: 23–64, 98–170; Johanson 2008; Anjum 2012; Belhaj 2013; Michot 2014; Bori 2021）[^anjum-2012][^belhaj-2013][^bori-2021][^khan-1992][^michot-2014]。
+    step2: |-
+      在伊本·泰米叶看来，宗教离不开世俗权力；他批评此方面两种错误。其一是回避权力与财富，以免世俗事务的妥协玷污宗教；其二是把权力与财富用于个人利益而非推进宗教。为避免这些错误，伊本·泰米叶在《遵循教法的公共政策》（*al-Siyāsa al-Sharʿiyya*）中力图把启示律法的伦理冲动注入公共权威。公共权威——无论政治的、军事的、司法的还是学术的——其目的是“改革人民的宗教”，以便“宗教全归真主，真主之言至高”（*Siyāsa* 30, 33）。统治者应在既有政治结构中推进宗教事业，使只崇拜真主成为可能。伊本·泰米叶论及公共官员任命、公共财富分配、战争进行、公共服务提供、刑法与身份法等，但并未勾勒完美伊斯兰国家的蓝图。他反而劝勉公共官员在具体情势中尽力推进宗教改革，审慎使用强制（Khan 1992: 23–64, 98–170; Johanson 2008; Anjum 2012; Belhaj 2013; Michot 2014; Bori 2021）[^anjum-2012][^belhaj-2013][^bori-2021][^khan-1992][^michot-2014]。
+  - id: 74
+    kind: body
+    source: |-
+      ## 6. Metaethics
+    step1: |-
+      ## 6. 元伦理学
+    step2: |-
+      ## 6. 元伦理学
+  - id: 75
+    kind: body
+    source: |-
+      It has been observed that Ibn Taymiyya’s ethics of God’s creative and commanding activity follows the utilitarian maxim of the greatest happiness for the greatest number (Vasalou 2016: 172)[^vasalou-2016]. This is readily apparent in Ibn Taymiyya’s theodicy: God continuously produces the greatest possible benefit for the greatest number by creating the best-of-all-possible-worlds. Ibn Taymiyya’s metaethical theory on the human plane mirrors this divine utilitarianism. He rejects the moral rationalism of the Muʿtazilī *kalām* theologians who argue that acts are objectively good or bad in themselves such that God commands an act because it is good or forbids an act because it is bad. He also rebuffs classical Ashʿarī divine command theory in which the moral values of acts are determined solely by God’s will such that an act is good only because God commands it. Ibn Taymiyya instead follows the consequentialist inclinations of post-classical Ashʿarīs like Fakhr al-Dīn al-Rāzī. The moral values of acts depend on the outcomes of those acts, whether they produce pleasure or pain, benefit or detriment, profit or harm. The goodness of an act depends on the degree to which it is advantageous to the actor or wider society, and rational human communities should seek to maximize their overall benefit. The role of God’s law then is to point humankind to what is of ultimate benefit in both this life and the hereafter, namely, worshipping God alone according to God’s law (Hoover 2007: 34–9; Vasalou 2016: 11–136)[^hoover-2007][^vasalou-2016].
+    step1: |-
+      有人指出，伊本·泰米叶关于真主创造与命令活动的伦理学，遵循“最大多数人的最大幸福”这一功利主义格言（Vasalou 2016: 172）[^vasalou-2016]。这在其神义论中显而易见：真主通过创造一切可能世界中最好的世界，不断为最大多数人产生最大可能利益。伊本·泰米叶在人类层面的元伦理学理论映照这种神圣功利主义。他拒绝穆尔太齐赖派凯拉姆神学家的道德理性主义，后者主张行为本身客观地善恶，故真主因某行为善而命令它、因某行为恶而禁止它。他也拒绝古典艾什尔里派神命论，即行为的道德价值完全由真主意愿决定，故某行为善只因真主命令它。伊本·泰米叶反而跟随法赫尔·丁·拉齐等后古典艾什尔里派的后果论倾向。行为的道德价值取决于行为后果，无论产生快乐或痛苦、利益或损害、收益或伤害。行为的善取决于它对行动者或更广社会的有利程度，理性的人类共同体应寻求最大化整体利益。于是神法的作用，是指引人类认识今生与后世中具有终极利益者，即按神法只崇拜真主（Hoover 2007: 34–9; Vasalou 2016: 11–136）[^hoover-2007][^vasalou-2016]。
+    step2: |-
+      有人指出，伊本·泰米叶关于真主创造与命令活动的伦理学，遵循“最大多数人的最大幸福”这一功利主义格言（Vasalou 2016: 172）[^vasalou-2016]。这在其神义论中显而易见：真主通过创造一切可能世界中最好的世界，不断为最大多数人产生最大可能利益。伊本·泰米叶在人类层面的元伦理学理论映照这种神圣功利主义。他拒绝穆尔太齐赖派凯拉姆神学家的道德理性主义，后者主张行为本身客观地善恶，故真主因某行为善而命令它、因某行为恶而禁止它。他也拒绝古典艾什尔里派神命论，即行为的道德价值完全由真主意愿决定，故某行为善只因真主命令它。伊本·泰米叶反而跟随法赫尔·丁·拉齐等后古典艾什尔里派的后果论倾向。行为的道德价值取决于行为后果，无论产生快乐或痛苦、利益或损害、收益或伤害。行为的善取决于它对行动者或更广社会的有利程度，理性的人类共同体应寻求最大化整体利益。于是神法的作用，是指引人类认识今生与后世中具有终极利益者，即按神法只崇拜真主（Hoover 2007: 34–9; Vasalou 2016: 11–136）[^hoover-2007][^vasalou-2016]。
+  - id: 76
+    kind: body
+    source: |-
+      Like other post-classical Muslim jurists, Ibn Taymiyya sometimes overrides explicit legal prohibitions on the grounds of benefit and necessity. For example, Islamic law forbids eating carrion, but Ibn Taymiya permits eating it if necessary to avoid starvation. More generally, Ibn Taymiyya maintains the revealed law as his guiding ideal, but he insists that the benefits and detriments of actions must be weighed up carefully when human weakness or sin make following the law difficult or impossible or when the law is not fully known. His reflection on the caliphate is a poignant example of such utilitarian calculation. Ibn Taymiyya maintains that the “caliphate of prophecy”, the normative caliphate of the first four Sunnī caliphs following the death of the Prophet Muḥammad, is an obligation for the Muslim community. Morally inferior “kingship”, which predominated in Muslim lands after the first four Sunnī caliphs, is only permissible in case of need. Nonetheless, Ibn Taymiyya maintains, kingship is only a minor sin, and Muslims should weigh up the benefits and detriments in the circumstances to attain the greatest possible benefit for religion. It might be beneficial, for example, to indulge a king’s wine drinking if calling upon him to stop would lead to the greater detriment of his apostasy from Islam. Moreover, Ibn Taymiyya explains, such weighing up of benefits and detriments is the way of the Prophet (Michot 2006: 14–7, 20, 50–3, 85–100; Hoover 2019a)[^hoover-2019a][^michot-2006].
+    step1: |-
+      与其他后古典穆斯林法学家一样，伊本·泰米叶有时以利益与必要性为由，超越明确的律法禁令。例如，伊斯兰律法禁止吃自死物，但伊本·泰米叶允许在避免饿死所必需时吃它。更一般地说，伊本·泰米叶把启示律法作为指导理想，但坚持当人的软弱或罪使守法困难或不可能、或律法未被完全知晓时，必须仔细权衡行为的利弊。他对哈里发制度的思考，是这种功利计算的鲜明例子。伊本·泰米叶主张，“先知哈里发”即先知穆罕默德死后前四位逊尼派哈里发的规范哈里发制，是穆斯林共同体的义务。道德上较低的“王权”在前四位逊尼派哈里发之后的穆斯林土地上占主导，只在需要时才可允许。然而伊本·泰米叶主张，王权只是小罪，穆斯林应权衡情势中的利弊，为宗教求得最大可能利益。例如，若呼吁国王戒酒会导致他叛教的更大害处，那么纵容国王饮酒也许有益。此外，伊本·泰米叶解释说，这种利弊权衡正是先知之道（Michot 2006: 14–7, 20, 50–3, 85–100; Hoover 2019a）[^hoover-2019a][^michot-2006]。
+    step2: |-
+      与其他后古典穆斯林法学家一样，伊本·泰米叶有时以利益与必要性为由，超越明确的律法禁令。例如，伊斯兰律法禁止吃自死物，但伊本·泰米叶允许在避免饿死所必需时吃它。更一般地说，伊本·泰米叶把启示律法作为指导理想，但坚持当人的软弱或罪使守法困难或不可能、或律法未被完全知晓时，必须仔细权衡行为的利弊。他对哈里发制度的思考，是这种功利计算的鲜明例子。伊本·泰米叶主张，“先知哈里发”即先知穆罕默德死后前四位逊尼派哈里发的规范哈里发制，是穆斯林共同体的义务。道德上较低的“王权”在前四位逊尼派哈里发之后的穆斯林土地上占主导，只在需要时才可允许。然而伊本·泰米叶主张，王权只是小罪，穆斯林应权衡情势中的利弊，为宗教求得最大可能利益。例如，若呼吁国王戒酒会导致他叛教的更大害处，那么纵容国王饮酒也许有益。此外，伊本·泰米叶解释说，这种利弊权衡正是先知之道（Michot 2006: 14–7, 20, 50–3, 85–100; Hoover 2019a）[^hoover-2019a][^michot-2006]。
+  - id: 77
+    kind: oir
+    source: |-
+      - “[By the Book: Ibn Taymiyya](https://www.historyofphilosophy.net/ibn-taymiyya)”, episode 181 (Islamic) podcast at the History of Philosophy without any gaps, posted 22 June 2014.
+      - [Taymiyyan Studies resources](https://sites.google.com/site/jhoover363/taymiyyan-studies), by Jon Hoover, Department of Theology and Religious Studies, University of Nottingham.
+    step1: |-
+      - “[By the Book: Ibn Taymiyya](https://www.historyofphilosophy.net/ibn-taymiyya)”, episode 181 (Islamic) podcast at the History of Philosophy without any gaps, posted 22 June 2014.
+      - [Taymiyyan Studies resources](https://sites.google.com/site/jhoover363/taymiyyan-studies), by Jon Hoover, Department of Theology and Religious Studies, University of Nottingham.
+    step2: |-
+      - “[By the Book: Ibn Taymiyya](https://www.historyofphilosophy.net/ibn-taymiyya)”, episode 181 (Islamic) podcast at the History of Philosophy without any gaps, posted 22 June 2014.
+      - [Taymiyyan Studies resources](https://sites.google.com/site/jhoover363/taymiyyan-studies), by Jon Hoover, Department of Theology and Religious Studies, University of Nottingham.
