@@ -2220,7 +2220,6 @@ outline: [1, 6]
 * [造成伤害与允许伤害 Doing vs. Allowing Harm (Fiona Woollard、Frances Howard-Snyder、Charlotte Unruh)](d/doing-allowing.md)
 * [商业伦理学 Business Ethics (Jeffrey Moriarty)](e/ethics-business.md)
 * [知识产权 Intellectual Property (Adam Moore、Ken Himma)](i/intellectual-property.md)
-* [自卫 Self-Defense (Helen Frowe、Jonathan Parry)](s/self-defense.md)
 
 ## 政治哲学
 
@@ -2352,33 +2351,51 @@ outline: [1, 6]
 
 ## 法哲学
 
-* [法律中的因果关系 Causation in the Law (Michael Moore)](c/causation-law.md)
-* [合同法哲学 Philosophy of Contract Law (Daniel Markovits、Emad Atiq)](c/contract-law.md)
-* [刑法理论 Theories of Criminal Law (James Edwards)](c/criminal-law.md)
-* [证据的法律概念 The Legal Concept of Evidence (Hock Lai Ho)](e/evidence-legal.md)
-* [国际法哲学 Philosophy of International Law (John Tasioulas、Guglielmo Verdirame)](i/international-law.md)
-* [应报正义 Retributive Justice (Alec Walen)](j/justice-retributive.md)
-* [法律与意识形态 Law and Ideology (Christine Sypnowich)](l/law-ideology.md)
-* [法律与语言 Law and Language (Timothy Endicott)](l/law-language.md)
-* [法律解释 Legal Interpretation (Mark Greenberg)](l/legal-interpretation.md)
-* [法律义务和法律权威 Legal Obligation and Authority (Massimo Renzo、Leslie Green)](l/legal-obligation.md)
-* [法律经济学 The Economic Analysis of Law (Lewis Kornhauser)](l/legal-econanalysis.md)
-* [法律概然性 Legal Probabilism (Rafal Urbaniak、Marcello Di Bello)](l/legal-probabilism.md)
-* [法律推理的解释与连贯 Interpretation and Coherence in Legal Reasoning (Julie Dickson)](l/legal-reas-interpret.md)
-* [法律推理中的先例与类推 Precedent and Analogy in Legal Reasoning (Grant Lamond)](l/legal-reas-prec.md)
-* [法律权利 Legal Rights (Ori Herstein)](l/legal-rights.md)
-* [法律的界限 The Limits of Law (John Stanton-Ife)](l/law-limits.md)
+> 本编分五节：法概念论（法的性质与效力）、法学方法论（解释、推理、证据）、法与相邻学科、部门法哲学、惩罚与责任。
+> 主权、战争、恐怖主义、酷刑等条目分列 政治哲学／政治理论 与 伦理学／应用伦理学；本编不重复收录。
+
+### 法概念论
+
 * [法律的本质 The Nature of Law (Emad Atiq、Andrei Marmor、Alexander Sarch)](l/lawphil-nature.md)
-* [法律解释主义 Legal Interpretivism (Nicos Stavropoulos)](l/law-interpretivist.md)
+* [纯粹法理论 The Pure Theory of Law (Andrei Marmor)](l/lawphil-theory.md)
 * [法律实证主义 Legal Positivism (Leslie Green、Thomas Adams)](l/legal-positivism.md)
 * [自然法理论 Natural Law Theories (John Finnis)](n/natural-law-theories.md)
-* [纯粹法理论 The Pure Theory of Law (Andrei Marmor)](l/lawphil-theory.md)
-* [法律惩罚 Legal Punishment (Zachary Hoskins、Antony Duff)](l/legal-punishment.md)
+* [法律解释主义 Legal Interpretivism (Nicos Stavropoulos)](l/law-interpretivist.md)
+* [法律权利 Legal Rights (Ori Herstein)](l/legal-rights.md)
+* [法律义务和法律权威 Legal Obligation and Authority (Massimo Renzo、Leslie Green)](l/legal-obligation.md)
+* [法律的界限 The Limits of Law (John Stanton-Ife)](l/law-limits.md)
 * [法治与程序正义 The Rule of Law (Kristen Rundle、Jeremy Waldron)](r/rule-of-law.md)
-* [普通法系下的侵权法理论 Theories of the Common Law of Torts (Arthur Ripstein)](t/tort-theories.md)
-* [约翰·奥斯丁 John Austin (Brian Bix)](a/austin-john.md)
 * [法哲学中的自然主义 Naturalism in Legal Philosophy (Brian Leiter、Matthew X. Etchemendy)](l/lawphil-naturalism.md)
+* [约翰·奥斯丁 John Austin (Brian Bix)](a/austin-john.md)
+
+### 法学方法论
+
+* [法律解释 Legal Interpretation (Mark Greenberg)](l/legal-interpretation.md)
+* [法律推理的解释与连贯 Interpretation and Coherence in Legal Reasoning (Julie Dickson)](l/legal-reas-interpret.md)
+* [法律推理中的先例与类推 Precedent and Analogy in Legal Reasoning (Grant Lamond)](l/legal-reas-prec.md)
+* [法律概然性 Legal Probabilism (Rafal Urbaniak、Marcello Di Bello)](l/legal-probabilism.md)
+* [证据的法律概念 The Legal Concept of Evidence (Hock Lai Ho)](e/evidence-legal.md)
+
+### 法与相邻学科
+
+* [法律与语言 Law and Language (Timothy Endicott)](l/law-language.md)
+* [法律与意识形态 Law and Ideology (Christine Sypnowich)](l/law-ideology.md)
+* [法律经济学 The Economic Analysis of Law (Lewis Kornhauser)](l/legal-econanalysis.md)
 * [实验法理学 Experimental Jurisprudence (Kevin Tobia、Guilherme Almeida、Karolina Prochownik、Ivar Hannikainen)](e/experimental-jurisprudence.md)
+
+### 部门法哲学
+
+* [合同法哲学 Philosophy of Contract Law (Daniel Markovits、Emad Atiq)](c/contract-law.md)
+* [刑法理论 Theories of Criminal Law (James Edwards)](c/criminal-law.md)
+* [普通法系下的侵权法理论 Theories of the Common Law of Torts (Arthur Ripstein)](t/tort-theories.md)
+* [国际法哲学 Philosophy of International Law (John Tasioulas、Guglielmo Verdirame)](i/international-law.md)
+* [法律中的因果关系 Causation in the Law (Michael Moore)](c/causation-law.md)
+
+### 惩罚与责任
+
+* [法律惩罚 Legal Punishment (Zachary Hoskins、Antony Duff)](l/legal-punishment.md)
+* [应报正义 Retributive Justice (Alec Walen)](j/justice-retributive.md)
+* [自卫 Self-Defense (Helen Frowe、Jonathan Parry)](s/self-defense.md)
 
 ## 宗教哲学
 
