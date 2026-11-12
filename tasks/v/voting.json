@@ -1,0 +1,22 @@
+{
+  "slug": "voting",
+  "kind": "retranslate",
+  "zh_doc": "v/voting.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-12T23:10:39Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-12T23:08:53Z",
+  "version_pin": {
+    "pubinfo_date": "Feb 21, 2025",
+    "archive_edition": "Spring 2025",
+    "sha256": "2faf0fba76e9f0feadbf4c3e128f7a3b2ce8377f29b778e8ddb81cc4a683ae5a"
+  }
+}

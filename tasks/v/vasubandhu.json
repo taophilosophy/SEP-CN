@@ -1,0 +1,22 @@
+{
+  "slug": "vasubandhu",
+  "kind": "retranslate",
+  "zh_doc": "v/vasubandhu.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-12T23:10:37Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-12T23:08:51Z",
+  "version_pin": {
+    "pubinfo_date": "Jan 7, 2021",
+    "archive_edition": "Summer 2026",
+    "sha256": "396bc8f806749d084f0f6198ffc9637a8cdeb684b451927e0130f276f7c484e6"
+  }
+}

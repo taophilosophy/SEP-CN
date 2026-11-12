@@ -2,7 +2,7 @@
   "slug": "ehrenfels",
   "kind": "retranslate",
   "zh_doc": "e/ehrenfels.md",
-  "state": "cleared",
+  "state": "s2_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,27 @@
       "actor": "task_ops",
       "at": "2026-11-12T16:31:38Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "E-main-20261111",
+      "at": "2026-11-12T22:56:13Z",
+      "evidence": "账本 79 段（77 body+1 oir+1 ack）双版填充（step1≠step2），9 批落盘；守恒门 HARD=0（段36 漏译尾部由守恒门实抓后补齐）；compose 40512 字符/274 行；SUMMARY 家法定名厄棱费尔回改正文 281 处；H1/学术工具四行制/相关词条映射经 compose 生成并人工核对无误映射"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "E-main-20261111",
+      "at": "2026-11-12T22:59:21Z",
+      "evidence": "五维对账：段落块 94:96（+2=compose 模板说明行豁免）、标题 18:18 逐条对齐、行内 marker 189:189 序列全同、defs 键集 74:74 相等、年份 430:429 唯一差=2000 years 译数量词两千多年（豁免留痕）、粗体缩写键 0:0；撇号 15 处全定性（内层单引号与照录区合法）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "E-main-20261111",
+      "at": "2026-11-12T23:10:26Z",
+      "evidence": "check_prose 34→9：叙述散文实修 22 处（长句拆分 12/de-chain 改写 9/两极漂移断句 1，经账本 step2 修正后重 compose 两轮），余 9 条全部为引文内部或引块（>）之 de-chain/long-sentence/passive-bei，按 ADR-0020 豁免留痕；check_style --strict 0 issues"
     }
   ],
   "blockers": [],

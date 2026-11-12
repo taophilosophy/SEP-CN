@@ -1,0 +1,22 @@
+{
+  "slug": "umar-khayyam",
+  "kind": "retranslate",
+  "zh_doc": "u/umar-khayyam.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-12T21:52:44Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-12T21:52:43Z",
+  "version_pin": {
+    "pubinfo_date": "Apr 18, 2023",
+    "archive_edition": "Summer 2024",
+    "sha256": "72851b9e62adaac6f92ed2c7e1254e12129320d820c6deb0672f0e9250c6e7cd"
+  }
+}

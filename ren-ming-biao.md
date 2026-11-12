@@ -7,6 +7,7 @@
 
 ## A
 
+| Abrams, Marshall | — | 马歇尔·艾布拉姆斯 | — | — | fitness | 学界通行音译（生物学哲学家，参照环境问题）；凭证 2026-11-13 | 2026-11-13 |
 | Acar, Erman | — | Erman Acar（现代学者，保留英文） | — | — | belief-merging | ADR-0022：无通行汉名者保留英文（致谢提及，指出前一版若干笔误）；凭证 2026-11-13 | 2026-11-13 |
 | Adams, Marilyn McCord | — | 玛丽莲·麦考德·亚当斯 | 美国 | 1943–2017 | evil-kinds-origins | 音译（恶与苦难研究） | 2026-11-12 |
 | Adamson, Peter | — | 彼得·亚当森 | 英国 | 1972– | epicurus | 学界通行（古代哲学播客 History of Philosophy without any Gaps 主持） | 2026-11-12 |
@@ -50,10 +51,12 @@
 | Adret, Solomon ibn | — | 所罗门·伊本·阿德雷特 | — | — | f/falaquera | 音译（13 世纪巴塞罗那拉比，1305 年禁令颁布者）；凭证 2026-11-11 | 2026-11-11 |
 | Aelius Aristides | — | 埃利乌斯·阿里斯泰德斯 | — | — | olympiodorus | 2 世纪演说家（与 dialectical-school 之 Aristides 异人）；学界音译；凭证 2026-11-08 | 2026-11-08 |
 | Aenesidemus | — | 埃奈西德穆 | 希腊（克诺索斯） | 约前 1 世纪 | heraclitus | 学界通行汉译（怀疑论者）；凭证 2026-11-09 | 2026-11-09 |
+| Agren, G. | — | Agren | — | — | fitness | 无通行汉名，保留英文原名（瑞典种群生物学家，与 Ekbohm/Fagerstrom 合著）；凭证 2026-11-13 | 2026-11-13 |
 | Alcuin | — | 阿尔昆 | — | — | boethius | 学界通行汉译（加洛林文艺复兴主脑，《论语法》作者，序言含《论真哲学》）；凭证 2026-11-13 | 2026-11-13 |
 | Aloni, Maria | — | Aloni, Maria | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
 | AnderBois, Scott | — | AnderBois, Scott | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
 | Archytas | — | 阿尔库塔斯 | — | — | boethius | 学界通行汉译（毕泰戈拉派作家，《范畴篇》新柏拉图主义释经所托）；凭证 2026-11-13 | 2026-11-13 |
+| Ariew, André | — | 安德烈·阿里厄 | — | — | fitness | 学界通行音译（生物学哲学文献，与 Matthen 合著）；凭证 2026-11-13 | 2026-11-13 |
 | Arnheim, Rudolf | — | 鲁道夫·阿恩海姆 | 德裔美国 | 1904–2007 | ehrenfels | 学界通行汉译（格式塔心理学美学家，《艺术与视知觉》作者）；凭证 2026-11-13 | 2026-11-13 |
 | Asztalos, M. | — | M. Asztalos（现代学者，保留英文） | — | — | boethius | ADR-0022：无通行汉名者保留英文（《范畴篇》波爱修斯注疏校勘本编纂者，boethius defs 注提及）；凭证 2026-11-13 | 2026-11-13 |
 | Axelrod, Robert | — | 罗伯特·阿克塞尔罗德 | 美国 | 1943– | altruism-biological | 学界通行音译（重复囚徒困境竞赛）；凭证 2026-11-12 | 2026-11-12 |
@@ -336,9 +339,12 @@
 | Baral, Chitta | — | Chitta Baral（现代学者，保留英文） | — | — | belief-merging | ADR-0022：无通行汉名者保留英文（知识库组合算子提出者，Baral–Kraus–Minker）；凭证 2026-11-13 | 2026-11-13 |
 | Barker, Chris | — | Barker, Chris | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
 | Bartholdi, John J., III | — | John J. Bartholdi III（现代学者，保留英文） | — | — | belief-merging | ADR-0022：无通行汉名者保留英文（投票操纵与凯梅尼规则计算复杂性的最早判定者之一）；凭证 2026-11-13 | 2026-11-13 |
+| Beatty, John | — | 约翰·比蒂 | — | — | fitness | 学界通行音译（生物学哲学文献，语义进路）；凭证 2026-11-13 | 2026-11-13 |
 | Benussi, Vittorio | — | 维托里奥·贝努西 | 意裔奥地利 | 1878–1927 | ehrenfels | 学界通行音译（格拉茨—柏林格式塔心理学家）；凭证 2026-11-13 | 2026-11-13 |
 | Bittner, Maria | — | Bittner, Maria | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
 | Boltzmann, Ludwig | — | 路德维希·玻尔兹曼 | 奥地利 | 1844–1906 | ehrenfels | 学界千年通行汉译（物理学家）；凭证 2026-11-13 | 2026-11-13 |
+| Bouchard, Frédéric | Frederic Bouchard | 弗雷德里克·布沙尔 | 加拿大 | — | fitness | 本词条作者（H1 括注）；学界通行音译（生物学哲学文献）；凭证 2026-11-13 | 2026-11-13 |
+| Bourrat, Pierrick | — | 皮埃里克·布拉 | — | — | fitness | 学界通行音译（生物学哲学文献）；凭证 2026-11-13 | 2026-11-13 |
 | Brasoveanu, Adrian | — | Brasoveanu, Adrian | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
 | Brod, Max | — | 马克斯·布罗德 | 奥匈（布拉格） | 1884–1968 | ehrenfels | 学界通行汉译（卡夫卡挚友、传记作者）；凭证 2026-11-13 | 2026-11-13 |
 | Bruckner, Anton | — | 安东·布鲁克纳 | 奥地利 | 1824–1896 | ehrenfels | 学界千年通行汉译（作曲家；与 Brueckner／Brukner 异人）；凭证 2026-11-13 | 2026-11-13 |
@@ -728,6 +734,7 @@
 | Caroline of Ansbach | — | 卡罗琳（威尔士公主） | 德意志（安斯巴赫）／英格兰 | 1683–1737 | newton-philosophy | 英国史通行汉译（乔治二世王后；莱布尼茨—克拉克论战之居中者） | 2026-11-10 |
 | Carroll, Noël | Noël Carroll | 卡罗尔 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
 | Carruthers, Peter | — | 彼得·卡拉瑟斯 | 英国 | 1952– | innateness-cognition | 音译（心灵模块性）；凭证 2026-11-12 | 2026-11-12 |
+| Carson, Scott | — | 斯科特·卡森 | — | — | fitness | 学界通行音译（与 Brandon 合著概率倾向论）；凭证 2026-11-13 | 2026-11-13 |
 | Cartwright, Helen Morris | — | Helen Morris Cartwright | — | — | logic-massexpress | 无通行汉名，保留英文原名（1965 论量词与物质名词；与 Nancy Cartwright 分列）；凭证 2026-11-10 | 2026-11-09 |
 | Cartwright, Nancy | — | 南希·卡特赖特 | 美国／英国 | 1944– | davidson | 学界通行汉译（科学哲学，《自然定律如何撒谎》作者）；凭证 2026-11-10 | 2026-11-10 |
 | Carugo, Adriano | — | 卡鲁戈 | — | — | duhem | 全名汉译“阿德里亚诺·卡鲁戈”，正文简名首现括注；学界惯例（科学史研究通行音译）；凭证 2026-11-06 | 2026-11-06 |
@@ -993,6 +1000,7 @@
 | Dekker, Paul | — | Dekker, Paul | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
 | Demosthenes | — | 德摩斯梯尼 | — | — | boethius | 学界千年通行汉译（演说家，论题 differentia 例证）；凭证 2026-11-13 | 2026-11-13 |
 | Ditmarsch, Hans van | — | Ditmarsch, Hans van | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
+| Doolittle, W. Ford | — | W·福特·杜利特尔 | — | — | fitness | 学界通行音译（生化演化论者）；凭证 2026-11-13 | 2026-11-13 |
 | Dārimī, ʿUthmān ibn Saʿīd al- | عثمان بن سعيد الدارمي | 奥斯曼·本·赛义德·达里米 | — | d. 280/893–282/895 | ibn-taymiyya | 音译（早期传统主义者，空间神学脉络；学界无统一汉名） | 2026-11-12 |
 | da Costa, Newton | — | 达科斯塔 | — | — | 语料回收（mathematics-inconsistent 首译） | 逻辑学界通行汉译（巴西逻辑学家，弗协调逻辑创始人）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Dabringer, Gerhard | — | 格哈德·达布林格 | 奥地利 | — | it-moral-values | 学界通行音译（军事伦理）；凭证 2026-11-10 | 2026-11-10 |
@@ -1199,6 +1207,7 @@
 | Ehrenfels, Christian von | — | 克里斯蒂安·冯·厄棱费尔 | 奥地利 | 1859–1932 | ehrenfels | 家法定名（SUMMARY/mu-lu-s 既有定形沿用）；布伦塔诺学派（格式塔质、价值论、性伦理）；凭证 2026-11-13 | 2026-11-13 |
 | Eichmann, Adolf | — | 阿道夫·艾希曼 | 德国／纳粹官员 | 1906–1962 | evil-kinds-origins | 学界通行（耶路撒冷审判被告） | 2026-11-12 |
 | Eisler, Rudolf | — | 鲁道夫·艾斯勒 | 奥地利 | 1873–1926 | ehrenfels | 音译（《哲学家人名辞典》编者；与 Hanns Eisler 汉斯·艾斯勒异人）；凭证 2026-11-13 | 2026-11-13 |
+| Ekbohm, G. | — | Ekbohm | — | — | fitness | 无通行汉名，保留英文原名（瑞典种群生物学家）；凭证 2026-11-13 | 2026-11-13 |
 | Elbourne, Paul | — | Elbourne, Paul | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
 | Eliphaz the Temanite | אֱלִיפַז | 提幔人以利法 | — | — | evil-kinds-origins | 圣经通行汉译（《约伯记》） | 2026-11-12 |
 | E.P. Thompson | — | E.P. 汤普森 | — | — | law-ideology | 学界通行汉译（马克思主义史学家）；待 specs/008 审定库复核 | 2026-11-03 |
@@ -1245,6 +1254,7 @@
 | Emperor Huan | — | 汉桓帝 | — | — | han-dynasty | 东汉皇帝刘志（上游作 Emperor Huan of Han） | 2026-11-10 |
 | Emperor Wu (Han) | — | 汉武帝 | — | — | han-dynasty | 西汉皇帝刘彻（上游作 Emperor Wu of Han） | 2026-11-10 |
 | Emperor Zhao (Han) | — | 汉昭帝 | — | — | han-dynasty | 西汉皇帝刘弗陵（上游作 Emperor Zhao of Han） | 2026-11-10 |
+| Endler, John A. | — | 约翰·恩德勒 | — | — | fitness | 学界通行音译（《自然选择》作者）；凭证 2026-11-13 | 2026-11-13 |
 | Engel, Amir | — | 阿米尔·恩格尔 | 以色列 | — | scholem | 构词直译（朔勒姆传记作者）；凭证 2026-11-08 | 2026-11-08 |
 | Engel, Johann Jakob | — | 约翰·雅各布·恩格尔 | 德国／作家与康德派 | — | august-rehberg | 学界通行音译；正文一次提称；凭证 2026-11-08 | 2026-11-08 |
 | Engeler, Erwin | — | Erwin Engeler | — | — | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
@@ -1270,6 +1280,7 @@
 | Ernst Meumann | — | 恩斯特·迈曼 | — | — | landmann-kalischer | 学界通行汉译（实验教育学/美学学者）；待 specs/008 审定库复核 | 2026-11-04 |
 | Ernst Schröder | Ernst Schröder | 恩斯特·施罗德 | — | — | leibniz-logic-influence | 学界通行汉译（《逻辑代数讲义》作者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Ernst Zermelo | — | 恩斯特·策梅洛 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Ernst, Jason | — | 杰森·恩斯特 | — | — | fitness | 音译（与 Ariew 合著性状适合度）；凭证 2026-11-13 | 2026-11-13 |
 | Escher, M. C. | — | 埃舍尔 | — | — | 语料回收（mathematics-inconsistent 首译） | 艺术史学界通行汉译（荷兰版画家）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Ess, Charles | — | 查尔斯·埃斯 | 美国 | 1951– | it-moral-values | 学界通行音译（信息伦理学）；凭证 2026-11-10 | 2026-11-10 |
 | Esteva, Francesc | — | Francesc Esteva | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
@@ -1306,6 +1317,7 @@
 ## F
 
 | F.A. Hayek | — | 弗里德里希·哈耶克 | — | — | law-ideology | 学界通行汉译（经济学家）；待 specs/008 审定库复核 | 2026-11-03 |
+| Fagerstrom, T. | — | Fagerstrom | — | — | fitness | 无通行汉名，保留英文原名（瑞典种群生物学家）；凭证 2026-11-13 | 2026-11-13 |
 | Fagin, Ronald | — | 罗纳德·法金 | 美国 | 1945– | computability | 学界通行音译（描述复杂性开创者，Fagin 定理）；凭证 2026-11-10 | 2026-11-09 |
 | Fakhr al-Dīn al-Rāzī | فخر الدين الرازي | 法赫尔丁·拉齐 | 波斯（赖伊出生，赫拉特卒）／伊斯兰神学 | 1150–1210 | arabic-islamic-* 集群 | 学界通行；与医师哲学家拉齐（Abū Bakr al-Rāzī）区分 | 2026-10-28 |
 | Falaquera, Shem Tov ibn | — | 闪-托夫·伊本·法拉奎拉 | — | — | f/falaquera | SUMMARY 定名沿用（f/falaquera.md）；凭证 2026-11-11 | 2026-11-11 |
@@ -1328,6 +1340,7 @@
 | Feldman, Yishai A. | — | 伊沙伊·费尔德曼 | — | — | social-procedures | 希伯来名音译（算法教材作者）；凭证 2026-11-07 | 2026-11-07 |
 | Fellner, William | — | 威廉·费尔纳 | 美国／经济学 | 1905–1983 | risk | 学界惯例音译（决策权重进路）；凭证 2026-11-09 | 2026-11-09 |
 | Felsenstein, Joseph | — | 约瑟夫·费尔森斯坦 | — | — | biology-philosophy | 学界通行汉译（系统发生学文献）；凭证 2026-11-07 | 2026-11-07 |
+| Finsen, Susan | — | 苏珊·芬森 | — | — | fitness | 学界通行音译（倾向解释方差问题，与 Beatty 合著）；凭证 2026-11-13 | 2026-11-13 |
 | Fox, Danny | — | Fox, Danny | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
 | Fénelon, François de | François de Fénelon | 弗朗索瓦·德·费奈隆 | — | — | lady-masham | 学界通行汉译（康布雷大主教） | 2026-11-07 |
 | Ferber, Ilit | — | 伊莉特·费伯 | 以色列 | — | scholem | 构词直译（朔勒姆语言理论研究）；凭证 2026-11-08 | 2026-11-08 |
@@ -1502,6 +1515,7 @@
 | García-Ramírez, Eduardo | — | 爱德华多·加西亚-拉米雷斯 | — | — | idiolects | 音译（本词条作者，语言哲学）；凭证 2026-11-11 | 2026-11-11 |
 | George, Benjamin Ross | — | George, Benjamin Ross | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
 | Gerbrandy, Jelle | — | Gerbrandy, Jelle | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
+| Gillespie, John H. | — | 约翰·H·吉莱斯皮 | — | — | fitness | 学界通行音译（种群遗传学家）；凭证 2026-11-13 | 2026-11-13 |
 | Ginsberg, Matthew | — | Matthew Ginsberg（现代学者，保留英文） | — | — | belief-merging | ADR-0022：无通行汉名者保留英文（极大一致子集处理不一致理论思想提出者）；凭证 2026-11-13 | 2026-11-13 |
 | Grégoire, Éric | — | Éric Grégoire（现代学者，保留英文） | — | — | belief-merging | ADR-0022：无通行汉名者保留英文（基于距离的融合与信息融合综述作者）；凭证 2026-11-13 | 2026-11-13 |
 | Groenendijk, Jeroen | — | Groenendijk, Jeroen | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
@@ -1724,11 +1738,13 @@
 
 ## H
 
+| Haber, Matt | — | 马特·哈伯 | — | — | fitness | 音译（生物个体性研究者）；凭证 2026-11-13 | 2026-11-13 |
 | Hale, Thomas | — | 托马斯·黑尔 | 美国 | — | global-democracy | 音译（全球治理研究） | 2026-11-12 |
 | Hammerstaedt, Jürgen | — | 于尔根·哈默施泰特 | 德国 | — | epicurus | 音译（俄诺安达铭文研究） | 2026-11-12 |
 | H.L.A. Hart | — | 哈特（首现括注 H.L.A. Hart） | — | — | lawphil-theory | 学界通行汉译（法哲学家，《法律的概念》作者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Haakonssen, Knud | — | 克努德·哈孔森 | — | — | oakeshott | 学界惯例（自然法与思想史研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | Hallaq, Wael B. | — | 瓦埃勒·哈拉克 | 巴勒斯坦裔美国 | 1955– | ibn-taymiyya | 音译（伊斯兰法学者；《伊本·泰米叶驳希腊逻辑学家》译者） | 2026-11-12 |
+| Huneman, Philippe | — | 菲利普·于南 | 法国 | — | fitness | 学界通行音译（法国生物学哲学家）；凭证 2026-11-13 | 2026-11-13 |
 | Ḥabīb ibn Bahrīz | — | 哈比卜·伊本·巴里兹 | 摩苏尔／叙利亚-阿拉伯翻译家 | d. c. 820 | arabic-islamic-phil-math | 音译（9 世纪初摩苏尔主教，尼科马霍斯《算术引论》叙利亚文译者） | 2026-11-08 |
 | Hacker, P. M. S. | — | Hacker（现代学者，保留英文） | 英国 | 1946– | intuitionism | ADR-0022：无通行汉名者保留英文（维特根斯坦研究）；凭证 2026-11-10 | 2026-11-10 |
 | Hacking, Ian | — | 伊恩·哈金 | — | — | bayes-theorem | 学界通行汉译（《统计推理的逻辑》作者） | 2026-11-05 |
@@ -2264,6 +2280,7 @@
 | Kamm, F.M. | — | F.M.卡姆 | — | — | ethics-deontological | 学界通行汉译（《义务伦理学》作者） | 2026-11-04 |
 | Kamo no Chōmei | 鴨長明 | 鸭长明 | — | — | japanese-aesthetics | 学界惯例（日本文学史通行汉名） | 2026-11-02 |
 | Kamo no Mabuchi | — | 贺茂真渊 | — | — | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
+| Kaplan, David M. | — | 戴维·M·卡普兰 | — | — | fitness | 音译（生物学哲学文献；与 omniscience 的戴维·卡普兰异人）；凭证 2026-11-13 | 2026-11-13 |
 | Karttunen, Lauri | — | 劳里·卡尔图宁 | 芬兰／美国 | — | dynamic-semantics | 语用学界通行音译（预设投射研究）；凭证 2026-11-12 | 2026-11-12 |
 | Kaṇāda | कणाद | 迦那陀 | 古印度／胜论派 | — | early-modern-india | 学界通行音译（《胜论经》托名作者；亦作“羯那陀”）；凭证 2026-11-10 | 2026-11-10 |
 | Kang Chŏngildang | 姜靜一堂 | 姜静一堂 | — | — | korean-philosophy | 汉文传统写法（源文汉字 姜靜一堂；朝鲜女性儒者） | 2026-11-05 |
@@ -2450,6 +2467,8 @@
 | Lafont, Yves | — | Yves Lafont | — | — | logic-linear | 无通行汉名，保留英文原名（软线性逻辑）；凭证 2026-11-10 | 2026-11-09 |
 | Lagerlund, Henrik | — | Henrik Lagerlund（现代学者，保留英文） | — | — | william-sherwood | ADR-0022（中世纪逻辑研究） | 2026-11-09 |
 | Lagrange, Joseph-Louis | — | 约瑟夫-路易·拉格朗日 | 法国（意大利裔） | 1736–1813 | newton-principia | 学界千年通行汉译（《分析力学》作者）；凭证 2026-11-12 | 2026-11-12 |
+| Lange, Marc | — | 马克·朗格 | — | — | fitness | 学界通行音译（科学哲学家；与 logic-dynamic 的 Martin Lange、18thGerman-preKant 的 Joachim Lange 异人）；凭证 2026-11-13 | 2026-11-13 |
+| Lewens, Tim | — | 蒂姆·卢文斯 | — | — | fitness | 学界通行音译（剑桥生物学哲学家）；凭证 2026-11-13 | 2026-11-13 |
 | Lāhijī, ʿAbd al-Razzāq | — | 阿卜杜勒·拉扎克·拉希吉 | — | — | arabic-islamic-mysticism | 萨德拉学派通行音译 | 2026-11-07 |
 | Lamarche, François | — | François Lamarche | — | — | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Lamarck, Jean-Baptiste | — | 让-巴蒂斯特·拉马克 | — | — | origin-descent | 学界通行汉译（《动物学哲学》中译本）；凭证 2026-11-07 | 2026-11-07 |
@@ -2918,6 +2937,8 @@
 | Miller, David | — | 戴维·米勒 | 英国 | 1946– | cosmopolitanism | 学界通行汉译（《民族性与社会正义》作者）；凭证 2026-11-09 | 2026-11-09 |
 | Miller, Russ | — | 拉斯·米勒 | — | — | social-procedures | 构词直译（算法教材作者）；凭证 2026-11-07 | 2026-11-07 |
 | Millikan, Ruth | — | 露丝·米利肯 | 美国 | 1932– | information-biological | 音译（目的论语义学）；凭证 2026-11-12 | 2026-11-12 |
+| Mills, Susan K. | — | 苏珊·K·米尔斯 | — | — | fitness | 音译（与 Beatty 合著倾向定义）；凭证 2026-11-13 | 2026-11-13 |
+| Millstein, Roberta | — | 罗伯塔·米尔斯坦 | — | — | fitness | 学界通行音译（生物学哲学家）；凭证 2026-11-13 | 2026-11-13 |
 | Milne, E. A. | — | 爱德华·亚瑟·米尔恩 | — | — | cosmology-30s | 学界通行音译（E. A. Milne，本词条主角，运动学相对论作者）；凭证 2026-11-08 | 2026-11-08 |
 | Milner, Robin | — | Milner, Robin | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
 | Milton, John | — | 约翰·弥尔顿 | — | — | descartes-works | 学界千年通行（《失乐园》作者） | 2026-11-06 |
@@ -3139,6 +3160,7 @@
 
 ## O
 
+| O'Malley, Maureen A. | — | 莫琳·奥马利 | — | — | fitness | 音译（微生物学哲学家；正文脚注键为 U+2019 形态照源）；凭证 2026-11-13 | 2026-11-13 |
 | Obbink, Dirk | — | 德克·奥宾克 | 荷兰／美国 | — | epicurus | 音译（纸草学与菲洛德穆研究） | 2026-11-12 |
 | O'Keefe, Tim | — | 奥基夫 | — | — | democritus | 学界通行（原子论与伊壁鸠鲁研究者） | 2026-11-06 |
 | O'Neill, Onora | — | 奥诺拉·奥尼尔 | 英国 | 1941– | cosmopolitanism | 学界通行汉译（康德伦理学与全球正义）；凭证 2026-11-09 | 2026-11-09 |
@@ -3204,10 +3226,12 @@
 | Paek I-jŏng | 白頤正 | 白颐正 | 1247–1323 | — | korean-confucianism | 汉文传统写法（高丽性理学者，万卷堂与元儒往还） | 2026-11-08 |
 | Paek Munbo | 白文寶 | 白文宝 | 1303–1374 | — | korean-confucianism | 汉文传统写法（高丽末儒者，《斥佛疏》作者） | 2026-11-08 |
 | Paek Sŏnguk | 백성욱 | 白性郁 | — | — | korean-philosophy | 源文汉字 白性郁（近代佛教哲学家；korean-buddhism 条目无汉字暂保留罗马字，此处据源文补录） | 2026-11-05 |
+| Pence, Charles H. | — | 查尔斯·H·彭斯 | — | — | fitness | 音译（生物学哲学家，本词条 2015 修订作者之一）；凭证 2026-11-13 | 2026-11-13 |
 | Piggins, Ashley | — | Ashley Piggins（现代学者，保留英文） | — | — | belief-merging | ADR-0022：无通行汉名者保留英文（判断集距离度量批评者，与 Duddy 合作）；凭证 2026-11-13 | 2026-11-13 |
 | Pigozzi, Gabriella | — | Gabriella Pigozzi（现代学者，保留英文） | — | — | belief-merging | ADR-0022：无通行汉名者保留英文（本词条作者，信念合并与判断聚合）；凭证 2026-11-13 | 2026-11-13 |
 | Pino Pérez, Ramón | — | Ramón Pino Pérez（现代学者，保留英文） | — | — | belief-merging | ADR-0022：无通行汉名者保留英文（IC 合并框架提出者之一，与 Konieczny 合作）；凭证 2026-11-13 | 2026-11-13 |
 | Plaza, Jan A. | — | Plaza, Jan A. | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
+| Pradeu, Thomas | — | 托马斯·普拉杜 | 法国 | — | fitness | 学界通行音译（《自我的界限》作者）；凭证 2026-11-13 | 2026-11-13 |
 | Páez, Andrés | — | 安德烈斯·帕埃斯 | 哥伦比亚 | — | epistemology-latin-america | 音译（西班牙语译名惯例）；凭证 2026-11-11 | 2026-11-11 |
 | Pak Cheka | — | 朴齐家 | — | — | korean-philosophy | 汉文传统写法（源文汉字 朴齊家；北学派，楚亭） | 2026-11-05 |
 | Pak Chiwon | — | 朴趾源 | — | — | korean-philosophy | 汉文传统写法（北学派，燕岩） | 2026-11-05 |
@@ -3498,7 +3522,9 @@
 | Raghunātha | रघुनाथ | 罗怙那陀 | 古印度／新正理 | 约 1470–1550 | early-modern-india | 梵音自拟（raghu 从“罗怙罗”古译通例；号“宝顶”śiromaṇi，圆足关系论者）；凭证 2026-11-10 | 2026-11-10 |
 | Rahel Levin | Rahel Levin | 拉赫尔·莱温 | — | — | schlegel | 学界惯例（柏林沙龙主人）；凭证 2026-11-07 | 2026-11-07 |
 | Raidl, Eric | — | Eric Raidl（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09 | 2026-11-09 |
+| Railton, Peter | — | 彼得·雷尔顿 | — | — | fitness | 学界通行音译（密歇根大学伦理学家）；凭证 2026-11-13 | 2026-11-13 |
 | Rainer Maria Rilke | — | 赖纳·马利亚·里尔克 | — | — | gadamer-aesthetics | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01） | 2026-11-01 |
+| Ramsey, Grant | — | 格兰特·拉姆齐 | — | — | fitness | 音译（生物学哲学家；与 closure-epistemic 的弗兰克·拉姆齐异人）；凭证 2026-11-13 | 2026-11-13 |
 | Reicher-Marek, Maria | — | 玛丽亚·赖歇尔-马雷克 | 奥地利 | — | ehrenfels | 音译（价值论与美学学者，本词条致谢）；凭证 2026-11-13 | 2026-11-13 |
 | Relihan, Joel | — | 乔尔·雷利汉 | — | — | boethius | 学界惯例音译（《哲学的慰藉》墨尼波斯式反讽解读提出者）；凭证 2026-11-13 | 2026-11-13 |
 | Remigius of Auxerre | — | 欧塞尔的雷米吉乌斯 | — | — | boethius | 学界通行汉译（9 世纪《哲学的慰藉》注疏者）；凭证 2026-11-13 | 2026-11-13 |
@@ -3699,6 +3725,8 @@
 | Saint-Lambert, Jean-François de | Jean-François de Saint-Lambert | 让-弗朗索瓦·德·圣朗贝尔 | — | — | emilie-du-chatelet | 学界惯例（启蒙文人，通行音译） | 2026-11-04 |
 | Saint-Pierre, Abbé de | — | 圣皮埃尔修道院长 | 法国 | 1658–1743 | global-democracy | 学界通行（永久和平方案作者） | 2026-11-12 |
 | Sakalauskaite, J. | — | J. Sakalauskaite | — | — | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
+| Stamos, David | — | 戴维·斯塔莫斯 | — | — | fitness | 音译（生物学哲学文献）；凭证 2026-11-13 | 2026-11-13 |
+| Stephens, Chris | — | 克里斯·斯蒂芬斯 | — | — | fitness | 音译（生物学哲学文献）；凭证 2026-11-13 | 2026-11-13 |
 | Śākya Chokden | — | 释迦秋登 | — | — | gorampa | 萨迦派学者（shākya mchog ldan，1428–1507）；通行音译 | 2026-11-09 |
 | Sakya Pandita Künga Gyeltsen | — | 萨迦·班智达·贡噶坚赞 | — | — | epistemology-language-tibetan | 佛学界通行（SUMMARY 定名沿用） | 2026-11-04 |
 | Śākyaśrībhadra | — | 释迦室利跋陀罗 | 克什米尔／佛教 | 1127–1225 | epistemology-language-tibetan | 佛学界通行（克什米尔班智达） | 2026-11-04 |
@@ -4085,6 +4113,9 @@
 
 ## T
 
+| Thoday, J. M. | — | J·M·索迪 | — | — | fitness | 音译（英国遗传学家，持存性适应度）；凭证 2026-11-13 | 2026-11-13 |
+| Thompson, Paul | — | 保罗·汤普森 | — | — | fitness | 音译（《生物学理论的结构》作者；与 intention 的迈克尔·汤普森异人）；凭证 2026-11-13 | 2026-11-13 |
+| Turner, J. Scott | — | J·斯科特·特纳 | — | — | fitness | 音译（延伸表型论者；与 colonialism 的戴尔·特纳异人）；凭证 2026-11-13 | 2026-11-13 |
 | Ṭabāṭabāʾī | طباطبائي | 塔巴塔巴伊 | — | — | arabic-islamic-mysticism | 伊朗哲学通行音译（ʿAllāma Ṭabāṭabāʾī） | 2026-11-07 |
 | Tacitus | — | 塔西佗 | — | — | justus-lipsius | 古典学界通行汉译 | 2026-11-07 |
 | Taehyŏn | 大賢 | 大贤 | — | — | korean-philosophy | 汉文传统写法（源文汉字 大賢；新罗唯识） | 2026-11-05 |
@@ -4261,6 +4292,7 @@
 ## V
 
 | van den Berg, Martin H. | — | van den Berg, Martin H. | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
+| Van Valen, Leigh | — | 利·范瓦伦 | 美国 | 1935–2010 | fitness | 学界通行音译（演化生物学家，红皇后假说）；凭证 2026-11-13 | 2026-11-13 |
 | Veltman, Frank | — | Veltman, Frank | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
 | Vermeulen, C. F. M. | — | Vermeulen, C. F. M. | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
 | Visser, Albert | — | Visser, Albert | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
@@ -4340,7 +4372,9 @@
 
 ## W
 
+| Waddington, C. H. | — | C. H. 沃丁顿 | 英国 | 1905–1975 | fitness | 学界通行汉译（发育生物学家，《走向理论生物学》）；凭证 2026-11-13 | 2026-11-13 |
 | Wagner, Richard | — | 理查德·瓦格纳 | 德国 | 1813–1883 | ehrenfels | 学界千年通行汉译（作曲家；与 Wagener 异人）；凭证 2026-11-13 | 2026-11-13 |
+| Walsh, Denis | — | 丹尼斯·沃尔什 | — | — | fitness | 学界通行音译（多伦多生物学哲学家）；凭证 2026-11-13 | 2026-11-13 |
 | Warren, James | — | 詹姆斯·沃伦 | 英国 | — | epicurus | 音译（伊壁鸠鲁研究；与 Warren, Jared 异人） | 2026-11-12 |
 | W. E. B. Du Bois | — | 杜波依斯 | — | — | alexander-crummell | 学界通行汉译（叙述处首现括注 W. E. B. Du Bois） | 2026-11-07 |
 | W.D. Ross | — | W.D.罗斯 | — | — | justice-virtue | 学界通行汉译（伦理学史，《正当与善》）；凭证 2026-11-02 | 2026-11-02 |
@@ -4508,8 +4542,10 @@
 | Williamson, Timothy | — | 蒂莫西·威廉森 | — | — | closure-epistemic | 知识论通行音译（《知识及其限度》；与化学家威廉姆森异人）；凭证 2026-11-08 | 2026-11-08 |
 | Wilshaw, Sky | — | Wilshaw | — | 无通行汉名，保留英文原名；凭证 2026-11-09 | quine-nf | — | 2026-11-09 |
 | Wilson Jeremiah Moses | — | 威尔逊·杰里迈亚·摩西 | — | — | alexander-crummell | 现代学者（传记作者），音译 | 2026-11-07 |
+| Wilson, David Sloan | — | 戴维·斯隆·威尔逊 | — | — | fitness | 学界通行音译（超有机体复兴论者；与 biology-philosophy 的 E. O. 威尔逊异人）；凭证 2026-11-13 | 2026-11-13 |
 | Wilson, Edward O. | — | E. O. 威尔逊 | — | — | biology-philosophy | 学界通行汉译（《社会生物学》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Wilson, Ian R. | — | Ian Wilson（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文（与 John L. Wilson 威尔逊异人）；凭证 2026-11-09 | 2026-11-09 |
+| Wilson, James | — | 詹姆斯·威尔逊 | — | — | fitness | 音译（《生物个体性》作者；与 alexander-crummell 的约翰·L·威尔逊异人）；凭证 2026-11-13 | 2026-11-13 |
 | Wilson, Timothy D. | — | 蒂莫西·威尔逊 | 美国 | — | epiphenomenalism | 学界通行汉译（正文作“威尔逊”）；凭证 2026-11-12 | 2026-11-12 |
 | Wilton, Thomas | — | 托马斯·威尔顿 | — | — | autrecourt | 学界通行（牛津神学家） | 2026-11-06 |
 | Winchelsey, John | — | 温切尔西尔 | — | †1313 | simon-faversham | 音译（坎特伯雷大主教）；凭证 2026-11-08 | 2026-11-08 |

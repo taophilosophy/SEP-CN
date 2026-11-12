@@ -1,0 +1,22 @@
+{
+  "slug": "value-theory",
+  "kind": "retranslate",
+  "zh_doc": "v/value-theory.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-12T23:10:36Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-12T23:08:50Z",
+  "version_pin": {
+    "pubinfo_date": "Jul 14, 2025",
+    "archive_edition": "Fall 2025",
+    "sha256": "883bdf0d39cad87213106bfc86c71540c53db35b143ae049a94432491cb57e15"
+  }
+}

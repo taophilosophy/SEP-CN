@@ -1,0 +1,22 @@
+{
+  "slug": "voltaire",
+  "kind": "retranslate",
+  "zh_doc": "v/voltaire.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-12T23:10:38Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-12T23:08:52Z",
+  "version_pin": {
+    "pubinfo_date": "Aug 21, 2024",
+    "archive_edition": "Fall 2024",
+    "sha256": "d4f98254337009148764f58725cbcc862cd507c88aefd0da91653c55abf25642"
+  }
+}

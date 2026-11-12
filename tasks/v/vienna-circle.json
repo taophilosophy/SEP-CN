@@ -1,0 +1,22 @@
+{
+  "slug": "vienna-circle",
+  "kind": "retranslate",
+  "zh_doc": "v/vienna-circle.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-12T23:10:37Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-12T23:08:52Z",
+  "version_pin": {
+    "pubinfo_date": "May 7, 2024",
+    "archive_edition": "Summer 2024",
+    "sha256": "18b7c2913672d1327381dc79793b553a66fa97105ff27459a82fc28c3321080c"
+  }
+}

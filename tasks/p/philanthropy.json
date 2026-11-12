@@ -2,8 +2,16 @@
   "slug": "philanthropy",
   "kind": "retranslate",
   "zh_doc": "p/philanthropy.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-12T23:00:52Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T05:38:12Z",
   "version_pin": {

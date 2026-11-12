@@ -1,0 +1,22 @@
+{
+  "slug": "value-intrinsic-extrinsic",
+  "kind": "retranslate",
+  "zh_doc": "v/value-intrinsic-extrinsic.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-12T23:10:36Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-12T23:08:50Z",
+  "version_pin": {
+    "pubinfo_date": "Jun 2, 2025",
+    "archive_edition": "Summer 2025",
+    "sha256": "3e00b16566a09d0788ca42a32bd0b3b5d024574887ef2206b11a487feac57fe8"
+  }
+}
