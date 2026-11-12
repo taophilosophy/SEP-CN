@@ -593,257 +593,257 @@ segments:
     source: |-
       Some claim that grounding is a strict order—it’s transitive, irreflexive, and asymmetric (Correia 2010; Fine 2012a; Raven 2013)[^correia-2010][^fine-2012a][^raven-2013]. One way to argue that grounding has some or all of these features is to embrace separatism (grounding is determination_{*G*}) and argue that determination_{*G*} or determination in general has some or all of them (Audi 2012a)[^audi-2012a]. Another option is to embrace unionism (grounding is explanation_{*G*}), focusing on the features of explanation_{*G*} or explanation in general (Raven 2015)[^raven-2015]. Another way, still, is to argue that, given either separatism or unionism, grounding plays the theoretical roles normally assigned to it only if it has some or all of these features (Kovacs 2018)[^kovacs-2018]. These strategies can be used to argue that grounding has further properties as well. For example, Litland (2013) and Raven (2015) claim that explanation in general is non-monotonic, so, given unionism, grounding is as well; and Audi (2012a) claims that determination in general is non-monotonic, so, given separatism, grounding is as well.
     step1: |-
-
+      有人主张奠基是一种严格序——它是传递的、非自反的、非对称的（Correia 2010; Fine 2012a; Raven 2013）[^correia-2010][^fine-2012a][^raven-2013]。论证奠基具有其中某些或全部特征的一种办法，是接受分离论（奠基是决定_{*G*}），进而论证决定_{*G*}或一般而言的决定具有其中某些或全部特征（Audi 2012a）[^audi-2012a]。另一种办法是接受联合论（奠基是说明_{*G*}），着眼于说明_{*G*}或一般而言的说明的特征（Raven 2015）[^raven-2015]。还有一种办法是论证：无论接受分离论还是联合论，奠基唯有具备其中某些或全部特征，才能扮演通常分配给它的那些理论角色（Kovacs 2018）[^kovacs-2018]。这些策略也可用来论证奠基具有进一步的性质。例如，Litland（2013）与 Raven（2015）主张一般而言的说明是非单调的，因此给定联合论，奠基亦然；Audi（2012a）主张一般而言的决定是非单调的，因此给定分离论，奠基亦然。
     step2: |-
-
+      有人主张奠基是一种严格序——即它传递、非自反且非对称（Correia 2010; Fine 2012a; Raven 2013）[^correia-2010][^fine-2012a][^raven-2013]。要论证奠基具备其中某些或全部特征，一条路是接受分离论（奠基即决定_{*G*}），再论证决定_{*G*}乃至一般决定本身具备这些特征（Audi 2012a）[^audi-2012a]；另一条路是接受联合论（奠基即说明_{*G*}），转而考察说明_{*G*}乃至一般说明本身的特征（Raven 2015）[^raven-2015]；还有一条路是论证：无论持分离论还是联合论，奠基若不具备其中某些或全部特征，便承担不起通常归于它的那些理论角色（Kovacs 2018）[^kovacs-2018]。这些策略同样可以论证奠基还有别的性质。例如，Litland（2013）和 Raven（2015）主张一般说明非单调，故给定联合论，奠基也非单调；Audi（2012a）主张一般决定非单调，故给定分离论，奠基也非单调。
   - id: 72
     kind: body
     source: |-
       While the view that grounding is a strict-order is the prevailing view, what reasons might there be to think otherwise? (As Bliss & Priest [2018b] note, there are various possible combinations of formal properties that we may wish to ultimately consider.) Let’s begin with transitivity. Consider the following case, adapted from one that Schaffer (2012) proposes. Suppose that the following claims are true, where *g* is a metal globe:
     step1: |-
-
+      虽然奠基是严格序的观点是主流，但有什么理由可以持不同看法？（正如 Bliss & Priest [2018b] 所指出的，我们最终可能想考虑形式性质的各种组合。）从传递性说起。考虑下面这个改编自舍弗（2012）所提案例的情形。设 *g* 是一个金属地球仪，并设下列主张为真：
     step2: |-
-
+      奠基本身虽属主流看法，但有什么理由可以持不同意见？（Bliss & Priest [2018b] 提醒：形式性质有多种可能的组合，我们最终或许都要加以考虑。）先说传递性。考虑下面这个改编自舍弗（2012）所提案例的情形。设 *g* 是一个金属地球仪，并设以下主张为真：
   - id: 73
     kind: body
     source: |-
       **(1)**
     step1: |-
-
+      **(1)**
     step2: |-
-
+      **(1)**
   - id: 74
     kind: body
     source: |-
       [*g* is dented in thus-and-so way] grounds [*g* has determinate shape *S*].
     step1: |-
-
+      [*g* is dented in thus-and-so way] grounds [*g* has determinate shape *S*].
     step2: |-
-
+      [*g* is dented in thus-and-so way] 奠基 [*g* has determinate shape *S*]。
   - id: 75
     kind: body
     source: |-
       **(2)**
     step1: |-
-
+      **(2)**
     step2: |-
-
+      **(2)**
   - id: 76
     kind: body
     source: |-
       [*g* has determinate shape *S*] grounds [*g* is more-or-less spherical].
     step1: |-
-
+      [*g* has determinate shape *S*] grounds [*g* is more-or-less spherical].
     step2: |-
-
+      [*g* has determinate shape *S*] 奠基 [*g* is more-or-less spherical]。
   - id: 77
     kind: body
     source: |-
       If grounding is transitive, then the following is true as well:
     step1: |-
-
+      若奠基是传递的，那么下面这条也为真：
     step2: |-
-
+      如果奠基传递，下面这条也应当为真：
   - id: 78
     kind: body
     source: |-
       **(3)**
     step1: |-
-
+      **(3)**
     step2: |-
-
+      **(3)**
   - id: 79
     kind: body
     source: |-
       [*g* is dented in thus-and-so way] grounds [*g* is more-or-less spherical].
     step1: |-
-
+      [*g* is dented in thus-and-so way] grounds [*g* is more-or-less spherical].
     step2: |-
-
+      [*g* is dented in thus-and-so way] 奠基 [*g* is more-or-less spherical]。
   - id: 80
     kind: body
     source: |-
       You might think, however, that (3) is false—as Schaffer puts the idea, “The thing is more-or-less spherical *despite* the minor dent, not because of it” (2012: 127). Note that (1) concerns merely partial grounding, while (2) concerns full grounding. But, as any merely partial ground is a partial ground, and any full ground is a partial ground, we can read (1)–(3) as targeting partial grounding, so there is no equivocation here.
     step1: |-
-
+      然而你可能认为 (3) 为假——正如舍弗表达这个想法所说：“这个东西之所以大体是球形的，*尽管*有那处轻微凹陷，而不是因为那处凹陷”（2012: 127）。注意 (1) 只涉及部分奠基，而 (2) 涉及完全奠基。但由于任何单纯部分奠基者都是部分奠基者，任何完全奠基者都是部分奠基者，我们可以把 (1)–(3) 都读作针对部分奠基，这样就没有偷换概念。
     step2: |-
-
+      不过你可能觉得 (3) 为假——舍弗如此表达这个想法：“这东西大体呈球形是*尽管*有那处小凹陷，而非因为那处小凹陷”（2012: 127）。要注意 (1) 涉及的只是部分奠基，(2) 涉及的则是完全奠基。但由于只是部分奠基者固然是部分奠基者，完全奠基者也必是部分奠基者，我们可以把 (1)–(3) 一律读作针对部分奠基而言，这里并无偷换概念的余地。
   - id: 81
     kind: body
     source: |-
       How might proponents of transitivity respond? Litland (2013) proposes that we can add a fact to the merely partial ground for [*g* has determinate shape *S*] to get a full ground:
     step1: |-
-
+      传递性的支持者可以如何回应？Litland（2013）提议，往 [*g* has determinate shape *S*] 的单纯部分奠基中再加一个事实，便得到一个完全奠基者：
     step2: |-
-
+      传递性的拥护者如何回应？Litland（2013）提议：为 [*g* has determinate shape *S*] 的单纯部分奠基者再添上一个事实，即可得到完全奠基者：
   - id: 82
     kind: body
     source: |-
       **(4)**
     step1: |-
-
+      **(4)**
     step2: |-
-
+      **(4)**
   - id: 83
     kind: body
     source: |-
       [*g* is dented in thus-and-so way], [*g* elsewhere has determinate shape $S'$] fully grounds [*g* has determinate shape S].
     step1: |-
-
+      [*g* is dented in thus-and-so way], [*g* elsewhere has determinate shape $S'$] fully grounds [*g* has determinate shape S].
     step2: |-
-
+      [*g* is dented in thus-and-so way], [*g* elsewhere has determinate shape $S'$] 完全奠基 [*g* has determinate shape S]。
   - id: 84
     kind: body
     source: |-
       Given that (2) also concerns full grounding, the transitive inference from (4) and (2) is the following:
     step1: |-
-
+      既然 (2) 同样涉及完全奠基，由 (4) 与 (2) 作传递推理便得到：
     step2: |-
-
+      由于 (2) 也关乎完全奠基，从 (4) 与 (2) 出发的传递推理是：
   - id: 85
     kind: body
     source: |-
       **(5)**
     step1: |-
-
+      **(5)**
     step2: |-
-
+      **(5)**
   - id: 86
     kind: body
     source: |-
       [*g* is dented in thus-and-so way], [*g* elsewhere has determinate shape $S'$] fully grounds [*g* is more-or-less spherical].
     step1: |-
-
+      [*g* is dented in thus-and-so way], [*g* elsewhere has determinate shape $S'$] fully grounds [*g* is more-or-less spherical].
     step2: |-
-
+      [*g* is dented in thus-and-so way], [*g* elsewhere has determinate shape $S'$] 完全奠基 [*g* is more-or-less spherical]。
   - id: 87
     kind: body
     source: |-
       Litland claims that (5) is plausible, or at least as plausible as (1) and (2). And, provided that any collection of facts that is a full ground is such that any fact among that collection is a partial ground, (3) follows from (5). (See Raven 2015 for a similar treatment of this case; see also Rodriguez-Pereyra 2015 and Tahko 2013 for potential counterexamples to transitivity involving truth.)[^raven-2015][^rodriguez-pereyra-2015][^tahko-2013]
     step1: |-
-
+      Litland 主张 (5) 是可信的，或者至少与 (1) 和 (2) 一样可信。而且，既然任何一个作为完全奠基者的事实集合中，其中任一事实都是部分奠基者，(3) 便从 (5) 推出。（Raven 2015 对此案有类似处理；关于涉及真的传递性反例，另见 Rodriguez-Pereyra 2015 与 Tahko 2013。）[^raven-2015][^rodriguez-pereyra-2015][^tahko-2013]
     step2: |-
-
+      Litland 声称 (5) 合乎情理，至少不比 (1)、(2) 更差。再者，只要一个事实集合构成完全奠基者，其中的每个事实便都是部分奠基者，于是 (3) 可从 (5) 推出。（对此案的类似处理见 Raven 2015；涉及真的传递性潜在反例，另见 Rodriguez-Pereyra 2015、Tahko 2013。）[^raven-2015][^rodriguez-pereyra-2015][^tahko-2013]
   - id: 88
     kind: body
     source: |-
       Turning to irreflexivity, Bliss (2018) critically assesses the general theoretical motivations for thinking that grounding is irreflexive. Lowe (1998: 145) suggests that self-explanatory states of affairs are epistemically possible, so perhaps a characterization of grounding shouldn’t rule this out. Historically, certain influential thinkers have thought that the fact that God exists, for example, is a self-explanatory state of affairs. Fine (2010) and Krämer (2013) also discuss various cases that seem to involve violations of irreflexivity. Here is a case along the lines of those they discuss—consider the following fact: [Some fact or other obtains]. Some facts do indeed obtain, so of course [Some fact or other obtains] itself obtains. And it seems that any fact that obtains is something that grounds this fact. Since [Some fact or other obtains] is itself a fact that obtains, it follows that this fact grounds itself!
     step1: |-
-
+      转到非自反性。Bliss（2018）批判性地评估了认为奠基非自反的一般理论动机。Lowe（1998: 145）提出，自我说明的事态在认知上是可能的，所以对奠基的刻画或许不应排除这一点。历史上，一些有影响的思想家认为，比如上帝存在这一事实，就是一个自我说明的事态。Fine（2010）与 Krämer（2013）也讨论了若干似乎违反非自反性的案例。下面一个案例与他们的讨论相仿——考虑这个事实：[Some fact or other obtains]。确实有些事实成立，所以 [Some fact or other obtains] 自身当然成立。而似乎任何成立的事实都是为这个事实奠基的东西。既然 [Some fact or other obtains] 本身就是一个成立的事实，那么这个事实为它自己奠基！
     step2: |-
-
+      再看非自反性。Bliss（2018）对“奠基非自反”这一想法的一般理论动机作了批判性考察。Lowe（1998: 145）则提出：自我说明的事态在认知上有可能存在，故对奠基的刻画或许不该把它排除在外。就历史而言，某些颇有影响的思想家确曾认为，例如上帝存在这个事实，就是一件自我说明的事态。Fine（2010）和 Krämer（2013）还讨论过一些似乎违反非自反性的情形。这里有一例，与他们的讨论相仿——请考虑如下事实：[Some fact or other obtains]。确有某些事实成立，故 [Some fact or other obtains] 自身当然也成立；而且看来凡是成立的事实，都是为这个事实奠基者。既然 [Some fact or other obtains] 本身就是成立的事实，于是这个事实为自己奠基！
   - id: 89
     kind: body
     source: |-
       In response to cases like this, Woods (2018) distinguishes between what he calls *vacuous* and *non-vacuous* grounding. Woods suggests that cases like [Some fact or other obtains] involve vacuous grounding, and, while vacuous grounding isn’t irreflexive, non-vacuous grounding is. Roughly speaking, $[P],$ $[P'],$ … vacuously grounds $[Q]$ when the former grounds the latter, yet the identity and nature of the constituents of $[P],$ $[P'],$ … aren’t explanatorily relevant to $[Q]$ obtaining. Perhaps [The truck is red] is a vacuous ground for [Some fact or other obtains]—while the former grounds the latter, it seems that the identity and nature of the truck and the property of being red don’t contribute to explaining why [Some fact or other] obtains.
     step1: |-
-
+      为回应此类案例，Woods（2018）区分了他所谓*空洞的*（vacuous）与*非空洞的*（non-vacuous）奠基。Woods 提出，[Some fact or other obtains] 这类案例涉及空洞奠基，空洞奠基虽不非自反，非空洞奠基却是非自反的。大致说来，当 $[P],$ $[P'],$ … 奠基 $[Q]$，但其构成成分的同一与本性对 $[Q]$ 的成立没有说明上的相关性时，$[P],$ $[P'],$ … 便空洞地奠基 $[Q]$。[The truck is red] 或许是 [Some fact or other obtains] 的一个空洞奠基者——虽然前者奠基后者，但卡车及其红色的同一与本性，看来无助于说明 [Some fact or other] 为何成立。
     step2: |-
-
+      针对这类案例，Woods（2018）区分了*空洞*（vacuous）奠基与*非空洞*（non-vacuous）奠基。按他的说法，[Some fact or other obtains] 这样的案例属于空洞奠基：空洞奠基不算违反非自反性，非空洞奠基则非自反。粗略地说：当 $[P],$ $[P'],$ … 奠基 $[Q]$，但 $[P],$ $[P'],$ … 的构成成分是何、本性如何，对 $[Q]$ 的成立在说明上无关紧要时，前者便是空洞地奠基后者。[The truck is red] 大概就是 [Some fact or other obtains] 的一个空洞奠基者——前者虽奠基后者，但那辆卡车之为其是、红之为红，似乎都无助于解释 [Some fact or other] 为何成立。
   - id: 90
     kind: body
     source: |-
       Turning to asymmetry, Bliss (2014) and Thompson (2016, 2018) critically assess the general theoretical motivations for thinking that grounding is asymmetric and propose potential counterexamples. Thompson suggests that, given the functional relationship between mass, volume, and density (the density of a substance is its mass divided its volume), we should accept that, say, [*g* has 3cm³ volume] grounds [*g* has 2g/cm³ density] and vice versa. It’s worth noting, however, that many reciprocal functional relationships don’t involve symmetric grounding. As Alexander Skiles has suggested to us in conversation, there is, for example, a reciprocal functional relationship between how many things are Socrates and how many members Socrates’ singleton has, but it’s clear in which direction the grounding runs in this case.
     step1: |-
-
+      转到非对称性。Bliss（2014）与 Thompson（2016, 2018）批判性地评估了认为奠基非对称的一般理论动机，并提出了潜在的反例。Thompson 提出，鉴于质量、体积与密度之间的函数关系（一物质的密度是其质量除以其体积），我们应当接受诸如 [*g* has 3cm³ volume] 奠基 [*g* has 2g/cm³ density]，且反之亦然。但值得注意，许多互反的函数关系并不涉及对称的奠基。正如 Alexander Skiles 在交谈中向我们指出的，例如，有几个东西是苏格拉底，与苏格拉底的单元集合有多少个元素，这两者之间存在互反的函数关系，但在这个案例中奠基的方向是清楚的。
     step2: |-
-
+      再看非对称性。Bliss（2014）和 Thompson（2016、2018）对“奠基非对称”的一般理论动机作了批判性考察，并给出潜在反例。Thompson 建议：既然质量、体积、密度三者有函数关系（物质的密度等于其质量除以体积），我们就应当接受 [*g* has 3cm³ volume] 奠基 [*g* has 2g/cm³ density]，并且反之亦然。然而要注意，许多互反的函数关系并不牵涉对称奠基。Alexander Skiles 曾在私下交谈中向我们指出：例如，“有几个东西是苏格拉底”与“苏格拉底的单元集有几个元素”之间存在互反的函数关系，但奠基朝哪个方向走，在这个案例里是明明白白的。
   - id: 91
     kind: body
     source: |-
       ### 2.4 Well-foundedness
     step1: |-
-
+      ### 2.4 Well-foundedness
     step2: |-
-
+      ### 2.4 良基性
   - id: 92
     kind: body
     source: |-
       Another issue is whether grounding is *well-founded*. Different authors mean different things in claiming that grounding is well-founded. According to Schaffer, grounding is well-founded in the sense that downwardly non-terminating chains of grounds are impossible. In conceiving of grounding as a relation between entities in general and not just facts, Schaffer’s rationale concerns the notion of *reality inheritance*. Schaffer claims that, were there downwardly non-terminating grounding chains, the being of any object in such a chain would be “infinitely deferred, never achieved” (2010: 62). Something “…cannot be real merely by having a limitless sequence of ancestors, each claiming reality from its parents”; instead, “There must actually be a source of reality somewhere” (2016a: 95). This echoes Leibniz, who claims that in the event that every object is a being of aggregation, “one never arrives at any real being” (Adams 1994: 333)[^adams-1994].
     step1: |-
-
+      另一个问题是奠基是否*良基*。主张奠基良基的不同作者，其含义各不相同。按舍弗的说法，奠基良基是指向下不终止的奠基链条是不可能的。舍弗把奠基构想为一般实体之间而不只是事实之间的关系，他的理据关乎*实在继承*这一概念。舍弗主张，倘若存在向下不终止的奠基链条，链条中任一对象的存在都会“被无限推迟，永未达成”（2010: 62）。某物“……不能仅凭拥有一列无穷的祖先而实在，其中的每一个都从其父母那里领来实在”；相反，“某处必须实际存在一个实在之源”（2016a: 95）。这与莱布尼茨相呼应，后者主张，若每个对象都是聚合的存在者，“就永远到不了任何实在的存在者”（Adams 1994: 333）[^adams-1994]。
     step2: |-
-
+      另一个问题：奠基是否*良基*？主张奠基良基的作者们，各自所意并不相同。在舍弗那里，奠基良基意味着向下不终止的奠基链不可能存在。舍弗把奠基看作一般实体之间（而不只事实之间）的关系，其理据牵涉*实在继承*（reality inheritance）观念。舍弗主张：一旦存在向下不终止的奠基链，链中任一对象的存在便会“被无限推迟，永未达成”（2010: 62）：“……不能仅仅因为有一串无穷无尽的祖先、个个都从其父母处领取实在，便是实在的”；毋宁说，“必须在某处真有一个实在之源”（2016a: 95）。此说与莱布尼茨相呼应——后者主张，若每个对象都是聚合的存在者，“那就永远抵达不了任何实在的存在”（Adams 1994: 333）[^adams-1994]。
   - id: 93
     kind: body
     source: |-
       Others claim that grounding is well-founded in the sense that any grounded fact is ultimately grounded by ungrounded facts (Dixon 2016; Rabin & Rabern 2016)[^dixon-2016][^rabin-2016]. Note that this conception of the well-foundedness of grounding, in contrast to the one above, allows for infinitely descending grounding chains. How so? Following Bliss (2013) and Rabin and Rabern (2016), consider Euclidean space, which is comprised of points and regions that include those points. Suppose that regions are gunky in that every region has a region as a proper part. And suppose that the existence facts concerning regions are grounded by the existence facts concerning their sub-regions, the existence facts concerning sub-regions are grounded by the existence facts concerning their sub-sub-regions, and so on, *ad infinitum*. Hence, the fact that region *R* exists is a member of an infinitely descending grounding chain. But suppose that the existence facts concerning regions are also grounded by the existence facts concerning points. Suppose, moreover, that the existence facts concerning points lack grounds. Hence, while the fact that *R* exists is a member of an infinitely descending grounding chain, this fact nonetheless is grounded in facts that themselves lack grounds. The same applies to all the other facts that are links in the grounding chain in question.
     step1: |-
-
+      另有人主张奠基良基是指任何被奠基的事实最终由不被奠基的事实奠基（Dixon 2016; Rabin & Rabern 2016）[^dixon-2016][^rabin-2016]。注意，与上面那种理解不同，这种奠基良基观允许无穷下降的奠基链条。何以如此？循 Bliss（2013）与 Rabin 和 Rabern（2016），考虑欧几里得空间，它由点与包含这些点的区域构成。设区域是黏糊的（gunky），即每个区域都有一个区域作为真部分。又设关于区域的存在事实由关于其子区域的存在事实奠基，关于子区域的存在事实由关于其子子区域的存在事实奠基，如此*以至无穷*。于是，区域 *R* 存在这一事实便是一条无穷下降奠基链中的一员。但再设关于区域的存在事实也由关于点的存在事实奠基；进而设关于点的存在事实没有奠基者。于是，虽然 *R* 存在这一事实属于一条无穷下降的奠基链，这个事实仍由自身没有奠基者的事实奠基。这条奠基链中其余作为环节的所有其他事实，情况亦然。
     step2: |-
-
+      另一种主张是：奠基良基，意谓任何被奠基的事实最终都由不被奠基的事实奠基（Dixon 2016; Rabin & Rabern 2016）[^dixon-2016][^rabin-2016]。注意：与上一种理解不同，这种良基观容许无穷下降的奠基链。何以容许？跟随 Bliss（2013）与 Rabin、Rabern（2016），考虑欧几里得空间——它由点与包含这些点的区域组成。设区域是黏糊的（gunky）：每个区域都以某个区域为真部分。再设区域的存在事实由其子区域的存在事实奠基，子区域的存在事实由子子区域的存在事实奠基，如此*以至无穷*。于是“区域 *R* 存在”这个事实就成了某条无穷下降奠基链上的一环。但又设区域的存在事实同样由点的存在事实奠基，并且点的存在事实没有奠基者。这样一来，尽管“*R* 存在”属于无穷下降的奠基链，这个事实仍然奠基于自身没有奠基者的事实。所论奠基链上其余作为环节的事实，无不如此。
   - id: 94
     kind: body
     source: |-
       It may be that, if considerations involving reality inheritance are relevant here, they ultimately support the idea that grounding is well-founded in the second sense rather than the first. While there may be something wrong about reality inheritance in the absence of a source of reality, perhaps there is nothing wrong about endless reality inheritance *per se*. (See Puryear 2020 for discussion of the historical context of reality inheritance and Trogdon 2018b for further discussion of reality inheritance in the contemporary context.)[^puryear-2020][^trogdon-2018b]
     step1: |-
-
+      情况可能是：如果涉及实在继承的考量与此相关，它们最终支持的是第二种意义上的奠基良基，而非第一种。虽然缺乏实在之源时的实在继承或许有问题，但无穷尽的实在继承*本身*或许并无不妥。（实在继承的历史语境的讨论见 Puryear 2020；当代语境下实在继承的进一步讨论见 Trogdon 2018b。）[^puryear-2020][^trogdon-2018b]
     step2: |-
-
+      或许可以这样看：倘若实在继承的考量在此相关，它们最终支持的将是第二种而非第一种意义上的奠基良基。固然，在没有实在之源的情况下谈实在继承，或许有不对的地方；但无穷尽的实在继承*就其本身而言*或许并无问题。（实在继承的历史语境见 Puryear 2020 的讨论；其在当代语境的进一步讨论见 Trogdon 2018b。）[^puryear-2020][^trogdon-2018b]
   - id: 95
     kind: body
     source: |-
       ## 3. Why Think There is Grounding?
     step1: |-
-
+      ## 3. Why Think There is Grounding?
     step2: |-
-
+      ## 3 为什么认为存在奠基？
   - id: 96
     kind: body
     source: |-
       ### 3.1 Arguments from theoretical utility
     step1: |-
-
+      ### 3.1 Arguments from theoretical utility
     step2: |-
-
+      ### 3.1 理论效用论证
   - id: 97
     kind: body
     source: |-
       That grounding figures in ordinary and philosophical thinking (and perhaps other domains as well) and that many grounding claims are fairly easy to evaluate (e.g., [*Beijing exists*] grounds [{*Beijing*} *exists*]) gives us defeasible reason to think that there is grounding (deRosset 2020)[^rosset-2020]. What else can be said on behalf of grounding? Proponents of grounding tend to think that it’s a justified posit on the basis of its theoretical utility. In this section we set out three theoretical utility arguments for grounding that involve unity, explanation, and the direction of priority.
     step1: |-
-
+      奠基既出现在日常与哲学思考中（或许还出现在其他领域），许多奠基主张又相当容易评估（例如 [*Beijing exists*] 奠基 [{*Beijing*} *exists*]），这给了我们可废止的理由去认为存在奠基（deRosset 2020）[^rosset-2020]。还能为奠基说什么？奠基的支持者倾向于认为，奠基凭借其理论效用而成为一个有理由的设定。本节给出三个奠基的理论效用论证，分别涉及统一性、说明与优先性方向。
     step2: |-
-
+      奠基见于日常与哲学思考（或许也见于其他领域），且许多奠基主张相当容易评估（例如 [*Beijing exists*] 奠基 [{*Beijing*} *exists*]）——这给我们提供了可废止的理由，让我们认为存在奠基（deRosset 2020）[^rosset-2020]。此外还能为奠基说些什么？奠基的支持者倾向于主张：凭其理论效用，奠基是一个有正当理由的设定（posit）。本节铺陈三个诉诸理论效用的奠基论证，分别关涉统一、说明与优先性的方向。
   - id: 98
     kind: body
     source: |-
       The *unity argument* says that grounding is a justified posit because of its unifying role (Audi 2012a; Rosen 2010; Schaffer 2009)[^audi-2012a][^rosen-2010][^schaffer-2009]. On one way of casting the argument, it has three premises. First, there is substantial unity among the metaphysical relations (relations familiar from metaphysics such as functional realization and set formation that resist analysis in purely modal terms). Second, where there is substantial unity, plausibly there is a unifier, something that explains why the relations in question resemble one another in the manner they do. Third, if there is a unifier for the metaphysical relations, the best candidate is grounding.
     step1: |-
-
+      *统一论证*说，奠基因其统一作用而是一个有理由的设定（Audi 2012a; Rosen 2010; Schaffer 2009）[^audi-2012a][^rosen-2010][^schaffer-2009]。按一种表述，该论证有三个前提。第一，诸形而上学关系之间存在实质的统一性（这些关系是形而上学中熟悉的，如功能实现与集合形成，它们抗拒纯模态术语的分析）。第二，凡有实质统一性之处，多半有一个统一者，即说明那些关系为何以其实际方式彼此相似的东西。第三，如果诸形而上学关系有一个统一者，最佳候选就是奠基。
     step2: |-
-
+      *统一论证*主张：奠基因其统一的角色而是有理由的设定（Audi 2012a; Rosen 2010; Schaffer 2009）[^audi-2012a][^rosen-2010][^schaffer-2009]。一种铺陈方式下设三个前提：其一，形而上学诸关系之间存在实质性统一——这些关系是形而上学里的熟面孔，如功能实现、集合形成，它们无法用纯模态词汇来分析；其二，凡有实质统一之处，多半有一个统一者，即说明所论诸关系为何以那种方式彼此相似的东西；其三，若形而上学诸关系确有统一者，最佳候选者就是奠基。
   - id: 99
     kind: body
     source: |-
       The *explanation argument* says that grounding is a justified posit because of its explanatory role (Audi 2012a; Dasgupta 2014a; Fine 2012a; Litland 2017; Schaffer 2016a)[^audi-2012a][^dasgupta-2014a][^fine-2012a][^litland-2017][^schaffer-2016a]. Recalling the distinction between unionism and separatism (see §1.1), the argument proceeds differently depending on which view is in play (Kovacs 2017)[^kovacs-2017]. Given separatism (grounding is determination_{*G*}), one way to cast the explanation argument is as follows: there is a form of explanation—what we can call *ontic* explanation—such that explanations of this form are backed by worldly relations; and, among the ontic explanations are ones such that the best candidate for the relation that plays the backing role is determination_{*G*}. Given unionism (grounding is explanation_{*G*}), one way to cast the argument is as follows: there is a form of explanation, what we can call *metaphysical explanation*, such that the connections in metaphysical explanations are best expressed in terms of explanation_{*G*}.
     step1: |-
-
+      *说明论证*说，奠基因其说明作用而是一个有理由的设定（Audi 2012a; Dasgupta 2014a; Fine 2012a; Litland 2017; Schaffer 2016a）[^audi-2012a][^dasgupta-2014a][^fine-2012a][^litland-2017][^schaffer-2016a]。回想联合论与分离论之分（见 §1.1），该论证依所持观点不同而走法不同（Kovacs 2017）[^kovacs-2017]。给定分离论（奠基是决定_{*G*}），说明论证可以这样铺陈：存在一种说明形式——我们可称之为*本体性*说明——这种形式的说明由世界性关系支撑；而在诸本体性说明中，有些说明的最优候选支撑关系是决定_{*G*}。给定联合论（奠基是说明_{*G*}），论证可以这样铺陈：存在一种说明形式，我们可称之为*形而上学说明*，形而上学说明中的连接用说明_{*G*}来表达最佳。
     step2: |-
-
+      *说明论证*主张：奠基因其说明的角色而是有理由的设定（Audi 2012a; Dasgupta 2014a; Fine 2012a; Litland 2017; Schaffer 2016a）[^audi-2012a][^dasgupta-2014a][^fine-2012a][^litland-2017][^schaffer-2016a]。由于有联合论与分离论之分（见 §1.1），这个论证随所持观点不同而路径不同（Kovacs 2017）[^kovacs-2017]。持分离论（奠基即决定_{*G*}）时，可以这样铺陈：存在一种说明形式——不妨称为*本体性*说明——此类说明由世界性的关系作支撑；而诸本体性说明中，有一些的最佳候选支撑关系正是决定_{*G*}。持联合论（奠基即说明_{*G*}）时，可以这样铺陈：存在一种说明形式，不妨称为*形而上学说明*，这种说明中的连接用说明_{*G*}来刻划最好。
   - id: 100
     kind: body
     source: |-
       The *priority argument* says that grounding is a justified posit because of its direction-fixing role—it fixes the direction of priority between facts, where one fact is prior to another only if the former is more fundamental than the latter. (See §4.3 for further discussion of fundamentality; J. Wilson (2014) initially proposes the priority argument but rejects it—more on this below.) Let a *priority case* be one in which some fact is prior to another and entities these facts concern are yoked by metaphysical relations. One way to cast the priority argument is as follows: there are priority cases in which the direction of metaphysical relations doesn’t determine which fact is prior to the other; and the best candidate for that which fixes the direction of priority in such cases is grounding.
     step1: |-
-
+      *优先性论证*说，奠基因其固定方向的作用而是一个有理由的设定——它固定事实之间优先性的方向，其中一个事实先于另一个，仅当前者比后者更根本。（关于根本性的进一步讨论见 §4.3；J. Wilson（2014）最先提出优先性论证但拒绝它——下文详述。）设一个*优先性案例*是某个事实先于另一个事实、且这些事实所关涉的实体被形而上学关系束缚在一起的案例。优先性论证可以这样铺陈：存在这样的优先性案例，其中形而上学关系的方向并不能决定哪个事实先于哪个；而在这些案例中固定优先性方向者的最佳候选是奠基。
     step2: |-
-
+      *优先性论证*主张：奠基因其定向的作用而是有理由的设定——它在事实之间固定优先性的方向；说一个事实先于另一个，仅当前者比后者更根本。（根本性的进一步讨论见 §4.3；J. Wilson（2014）率先提出优先性论证却将其拒斥——详下。）设*优先性案例*为：某事实先于另一事实，而这两桩事实所关涉的实体又被形而上学关系拴在一起。优先性论证可以这样铺陈：有些优先性案例中，形而上学关系的方向定不出哪个事实先于哪个；而在这类案例中固定优先性方向者，最佳候选是奠基。
   - id: 101
     kind: body
     source: |-
       We can cast arguments for grounding in terms of theoretical roles in addition to those specified by the unity, explanation, and priority arguments as well. Some, for example, claim that the thesis of *physicalism* (roughly, the view that the world is ultimately physical in nature) is usefully formulated in terms of grounding (Block 2015; Dasgupta 2014a; Schaffer 2017b)[^block-2015][^dasgupta-2014a][^schaffer-2017b]. With respect to physicalism *about the mental*in particular (roughly, the view that mental phenomena are nothing over and above physical phenomena), a simple grounding-theoretic formulation of the view is this: the mental facts are grounded by (non-mental) physical facts (perhaps together with other non-mental facts such as indexical and totality facts). It’s by now a familiar idea that purely modal formulations of physicalism are inadequate, as there are coherent versions of dualism that such formulations don’t rule out (Horgan 1993, 2006)[^horgan-1993]. Hence, one point in favor of appealing to grounding in this context is that grounding isn’t a purely modal notion. And Block (2015) argues that even physicalism formulated in terms of a priori entailment faces the same problem, pointing to a particular grounding formulation of physicalism as the way to resolve the issue.
     step1: |-
-
+      除统一、说明与优先性论证所刻画的那些理论角色外，我们还可以用别的理论角色来铺陈奠基论证。例如有人主张，*物理主义*论题（大致即认为世界归根结底在本性上是物理的观点）用奠基来表述颇为有用（Block 2015; Dasgupta 2014a; Schaffer 2017b）[^block-2015][^dasgupta-2014a][^schaffer-2017b]。就*关于心灵的*物理主义而言（大致即认为心灵现象不外于物理现象的观点），一个简单的奠基论表述是：心灵事实由（非心灵的）物理事实奠基（或许连同其他非心灵事实，如索引性事实与总体性事实）。纯粹模态表述的物理主义不充分，这已是人们熟悉的想法，因为存在这类表述排除不了的融贯二元论版本（Horgan 1993, 2006）[^horgan-1993]。因此，在这个语境中诉诸奠基的一点好处是：奠基不是纯模态概念。Block（2015）则论证，即使用先天衍推表述的物理主义也面临同样问题，并指向物理主义的一种特定的奠基表述，以此作为解决之道。
     step2: |-
-
+      除了统一、说明、优先性三个论证所刻划的理论角色，奠基论证还可以用别的理论角色来铺陈。例如，有人主张*物理主义*论题（粗略地说，世界归根结底是物理的本性）宜用奠基来表述（Block 2015; Dasgupta 2014a; Schaffer 2017b）[^block-2015][^dasgupta-2014a][^schaffer-2017b]。就*关于心灵的*物理主义来说（粗略地说，心灵现象并不超出物理现象之外），这一观点的一种简单奠基论表述是：心灵事实由（非心灵的）物理事实奠基（或许再加上其他非心灵事实，如索引性事实、总体性事实）。纯模态表述的物理主义不充分——这已是熟知的想法，因为有融贯的二元论版本是这类表述排除不掉的（Horgan 1993, 2006）[^horgan-1993]。于是，在这个语境中诉诸奠基的好处之一是：奠基并非纯模态概念。Block（2015）进而论证，连用先天衍推表述的物理主义也逃不掉同一个问题，并指认物理主义的一种特定奠基表述为解决之道。
   - id: 102
     kind: body
     source: |-
       As for further potential theoretical applications, some have proposed grounding-theoretic accounts of:
     step1: |-
-
+      至于更多的潜在理论应用，有人已提出关于以下各项的奠基论说明：
     step2: |-
-
+      更多的潜在理论应用方面，已有提议为下述诸项给出奠基论说明：
   - id: 103
     kind: body
     source: |-
@@ -865,41 +865,73 @@ segments:
       - the relation between being F (e.g., being blue) and having the property F-ness (e.g., having blueness) (Dixon 2018)[^dixon-2018];
       - how mental events (e.g., pain) can cause physical events (e.g., wincing) given that such physical events have physical causes (e.g., C-fiber firing) (Clark & Wildman 2018; Kroedel & Schulz 2016)[^clark-2018][^kroedel-2016]; Stenwall 2021; Tiehen 2015).
     step1: |-
-
+      - the nature of properties (Audi 2016; Carmichael 2016)[^audi-2016][^carmichael-2016];
+      - the distinction between *intrinsic* and *extrinsic* properties—roughly, properties that something has just in virtue of how that thing is (e.g., being made of tin) vs. properties something has because of how it's related to wholly distinct things (e.g., being next to a tin cup) (Rosen 2010; Witmer et al 2005)[^rosen-2010][^witmer-2005];
+      - what it is for an object (e.g., Socrates) in contrast to a word (e.g., ‘Socrates’) to have a definition (Rosen 2015)[^rosen-2015];
+      - what it is for one claim to reduce to another (Fine 2001)[^fine-2001]
+      - what it is for the world to be stratified into levels (Rabin 2018; Schaffer 2012)[^rabin-2018][^schaffer-2012];
+      - how moral facts (e.g., facts about what we’re morally obligated to do) are related to natural facts (e.g., facts concerning what maximizes utility) (Rosen 2017)[^rosen-2017];
+      - the special explanatory gap between the experiential and physical truths (Rabin 2019; Trogdon forthcoming)[^rabin-2019];
+      - what it is for the existence of certain entities to depend on the existence of others (Schnieder 2020)[^schnieder-2020];
+      - what it is for truths to be such that things in the world make them true (Correia 2014; Rodriguez-Pereyra 2005; Schnieder 2006)[^correia-2014][^rodriguez-pereyra-2005][^schnieder-2006];
+      - what it is for one theory to be more parsimonious than another (Schaffer 2013);
+      - the nature of free will and moral responsibility (Sartorio 2013)[^sartorio-2013];
+      - what it is for something (e.g., gender) to be a social construction (Griffith 2018; Schaffer 2017a)[^griffith-2018][^schaffer-2017a];
+      - the historically important view that everything has an explanation (Amijee 2020a; Dasgupta 2016; K. McDaniel 2019; Schnieder & Steinberg 2015)[^dasgupta-2016][^mcdaniel-2019][^mcdaniel-2019-2];
+      - how multiple objects can exist at the same place and time (Saenz 2015)[^saenz-2015];
+      - the view that only present things exist (Baron 2014);
+      - the relation between being F (e.g., being blue) and having the property F-ness (e.g., having blueness) (Dixon 2018)[^dixon-2018];
+      - how mental events (e.g., pain) can cause physical events (e.g., wincing) given that such physical events have physical causes (e.g., C-fiber firing) (Clark & Wildman 2018; Kroedel & Schulz 2016)[^clark-2018][^kroedel-2016]; Stenwall 2021; Tiehen 2015).
     step2: |-
-
+      - 属性的本性（Audi 2016; Carmichael 2016）[^audi-2016][^carmichael-2016]；
+      - *内在*属性与*外在*属性之分——粗略地说，即一物仅凭其自身如何而具有的属性（如由锡制成）与一物因其同完全不同的他物相关联而具有的属性（如紧挨着一个锡杯）（Rosen 2010; Witmer et al 2005）[^rosen-2010][^witmer-2005]；
+      - 一个对象（如苏格拉底）——而非一个词（如 “Socrates”）——拥有一个定义是什么（Rosen 2015）[^rosen-2015]；
+      - 一个主张还原为另一个主张是什么（Fine 2001）[^fine-2001]
+      - 世界分层为诸层级是什么（Rabin 2018; Schaffer 2012）[^rabin-2018][^schaffer-2012]；
+      - 道德事实（如关于我们道德上应当做什么的事实）与自然事实（如关于什么最大化效用的事实）如何相关（Rosen 2017）[^rosen-2017]；
+      - 体验性真理与物理真理之间那种特别的说明鸿沟（Rabin 2019; Trogdon forthcoming）[^rabin-2019]；
+      - 某些实体的存在依赖于其他实体的存在是什么（Schnieder 2020）[^schnieder-2020]；
+      - 真理之为世中的事物使其为真是什么（Correia 2014; Rodriguez-Pereyra 2005; Schnieder 2006）[^correia-2014][^rodriguez-pereyra-2005][^schnieder-2006]；
+      - 一个理论比另一个更节俭是什么（Schaffer 2013）；
+      - 自由意志与道德责任的本性（Sartorio 2013）[^sartorio-2013]；
+      - 某物（如性别）是一种社会建构是什么（Griffith 2018; Schaffer 2017a）[^griffith-2018][^schaffer-2017a]；
+      - 万事皆有说明这一历史上重要的观点（Amijee 2020a; Dasgupta 2016; K. McDaniel 2019; Schnieder & Steinberg 2015）[^dasgupta-2016][^mcdaniel-2019][^mcdaniel-2019-2]；
+      - 多个对象如何能同时同地存在（Saenz 2015）[^saenz-2015]；
+      - 只有当下的东西存在的观点（Baron 2014）；
+      - 是 F（如是蓝的）与具有 F 性（如具有蓝色）之间的关系（Dixon 2018）[^dixon-2018]；
+      - 心理事件（如疼痛）如何能引起物理事件（如皱眉龇牙）——给定这类物理事件有物理原因（如 C 纤维放电）（Clark & Wildman 2018; Kroedel & Schulz 2016）[^clark-2018][^kroedel-2016]；Stenwall 2021；Tiehen 2015）。
   - id: 104
     kind: body
     source: |-
       This is by no means an exhaustive list—there is something of a cottage industry of developing grounding-theoretic accounts of items of philosophical interest.
     step1: |-
-
+      This is by no means an exhaustive list—there is something of a cottage industry of developing grounding-theoretic accounts of items of philosophical interest.
     step2: |-
-
+      这份清单绝非详尽——为种种有哲学意趣的项目发展奠基论说明，如今已俨然是一项家庭手工业。
   - id: 105
     kind: body
     source: |-
       ### 3.2 Skeptical responses
     step1: |-
-
+      ### 3.2 Skeptical responses
     step2: |-
-
+      ### 3.2 怀疑论回应
   - id: 106
     kind: body
     source: |-
       Some are skeptical of grounding. A distinction can be drawn between what we might call *first-wave* and *second-wave* grounding skepticism (see Koslicki 2020, though she uses different terminology)[^koslicki-2020]. First-wave skepticism is characterized by a general concern about the intelligibility of the notion. Daly (2012) argues that the notion of grounding doesn’t really make sense. In a similar spirit, Hofweber (2009) states that grounding theorists are guilty of engaging in a problematic form of metaphysics—while they make use of perfectly ordinary terms such as *priority*, *fundamental* and *ultimately*, they use them in a distinctively non-ordinary, metaphysical way. (For non-skeptical rejoinders to first-wave skepticism, see Audi 2012b and Raven 2012.)[^audi-2012b][^raven-2012] Second-wave skeptics, by contrast, generally grant that the notion of grounding is coherent, but they think that it doesn’t belong in our theoretical toolkit in any case, as the arguments in favor of positing grounding aren’t persuasive. What unites second-wave skeptics is a shared sense that grounding theorizing is simultaneously undermotivated and overreaching.
     step1: |-
-
+      有人对奠基持怀疑态度。可以区分我们所谓的*第一波*与*第二波*奠基怀疑主义（见 Koslicki 2020，尽管她用的是不同的术语）[^koslicki-2020]。第一波怀疑主义的特征是担忧这个概念的可理解性。Daly（2012）论证奠基概念其实讲不通。Hofweber（2009）持类似的调子，说奠基理论家犯了一种有问题的形而上学之过——他们虽然使用*优先*、*根本*与*归根结底*这样完全日常的词，却以一种独特的非日常的、形而上学的方式使用它们。（对第一波怀疑主义的非怀疑论回应，见 Audi 2012b 与 Raven 2012。）[^audi-2012b][^raven-2012] 第二波怀疑论者则一般承认奠基概念是融贯的，但他们认为它无论如何都不属于我们的理论工具箱，因为支持设定奠基的论证并不令人信服。把第二波怀疑论者联合起来的，是一种共同的感受：奠基理论化既动力不足，又用力过猛。
     step2: |-
-
+      有人怀疑奠基。我们可以区分所谓*第一波*与*第二波*的奠基怀疑论（见 Koslicki 2020；不过她用的术语不同）[^koslicki-2020]。第一波怀疑论的特点是对奠基概念可理解性的普遍担忧。Daly（2012）主张奠基概念其实没有意义。Hofweber（2009）以类似的口吻断言：奠基理论家搞的是一种有毛病的形而上学——他们用的*优先*、*根本*、*归根结底*这些词本来完全日常，却被他们以独特的非日常的、形而上学的方式使用。（对第一波怀疑论的非怀疑论反驳见 Audi 2012b、Raven 2012。）[^audi-2012b][^raven-2012] 相比之下，第二波怀疑论者一般承认奠基概念融贯无碍，但他们认为这个概念无论如何都不该进我们的理论工具箱，因为支持设定奠基的那些论证没有说服力。第二波怀疑论者的共同点是一种共同感受：奠基理论化同时患了动机不足与胃口过大的毛病。
   - id: 107
     kind: body
     source: |-
       With respect to the unity argument, Koslicki (2015) and J. Wilson (2016a) challenge the second premise, arguing that, even if the metaphysical relations (or some sub-collection thereof) are substantially unified, this on its own wouldn’t give us a good reason to posit a generic relation of grounding as a unifier. J. Wilson (2014) challenges the first premise as well, arguing that there is a class of metaphysical relations, what she calls the *small-g* grounding relations, that are neither terminologically, formally, nor metaphysically unified. Relatedly, Turner (2016) describes various differences in the way certain kinds of grounding claims behave, ultimately distinguishing between two forms of grounding, *dependence-grounding* and *realization-grounding.* (For non-skeptical rejoinders to these challenges, see Raven 2017, and Schaffer 2016b.)[^raven-2017][^schaffer-2016b]
     step1: |-
-
+      关于统一论证，Koslicki（2015）与 J. Wilson（2016a）挑战第二个前提，论证说，即便形而上学关系（或其某个子集）实质上统一，仅凭这一点也不足以给我们好理由去设定一个作为统一者的奠基这类一般关系。J. Wilson（2014）还挑战第一个前提，论证存在一类形而上学关系，她所谓*小写 g* 的奠基关系，在术语上、形式上、形而上学上都不统一。相关地，Turner（2016）描述了某些种类的奠基主张在行为方式上的种种差异，最终区分了两种奠基形式：*依赖奠基*（dependence-grounding）与*实现奠基*（realization-grounding）。（对这些挑战的非怀疑论回应，见 Raven 2017 与 Schaffer 2016b。）[^raven-2017][^schaffer-2016b]
     step2: |-
-
+      就统一论证而言，Koslicki（2015）和 J. Wilson（2016a）攻击其第二个前提：即便形而上学诸关系（或其中某子集）实质上统一，单凭这一点也给不出好理由，让我们设定一个作为统一者的奠基这种一般关系。J. Wilson（2014）连第一个前提也攻击：有一类形而上学关系——她所谓的*小写 g* 奠基关系——无论术语、形式还是形而上学上都谈不上统一。与此相关，Turner（2016）描述了某些奠基主张在行为上的种种差异，最终区分出两种奠基形式：*依赖奠基*（dependence-grounding）与*实现奠基*（realization-grounding）。（对这些挑战的非怀疑论回应见 Raven 2017、Schaffer 2016b。）[^raven-2017][^schaffer-2016b]
   - id: 108
     kind: body
     source: |-
