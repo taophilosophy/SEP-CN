@@ -2,7 +2,7 @@
   "slug": "altruism-biological",
   "kind": "retranslate",
   "zh_doc": "a/altruism-biological.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "A-main-20261112",
       "at": "2026-11-12T12:36:42Z",
       "evidence": "check_style 0、check_academic --strict OK、check_math 0；术语 inclusive fitness/haplodiploidy/free-rider/mutualism/reproductive fitness/Tit-for-Tat 与人名 Hamilton/Trivers/Axelrod 入册"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T15:10:19Z",
+      "evidence": "冷置回读 246 行全文（algebra 收口后回读）：现代学术书面语，抽象名词化与长复句合于哲学百科体例，无文言腔；回源核 20 处——source 自身“section 4”交叉引、“W(S)>W(A) 中等相关”句、“Segestrale/McIlreath”拼写、b/r 斜体均照录；修正 10 处（职虫统一、Abbot *et al*.、亲缘关系近端指标、共生体、先天固定策略、其他）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T15:10:20Z",
+      "evidence": "逐句回核对账：marker 42=42 同序、定义 78=78 同集、h3 4=4；h2 10 vs 11（Notes 双标题合并）、表 4 vs 5（Academic Tools）为模板豁免；两张收益矩阵数值与源一致（11,11/0,20/20,0/5,5 与 30,30/10,20/20,10/0,0）；*W* 与 Prob 公式逐字符一致；术语合登记册（包容适合度/单倍二倍体/搭便车者/互利共生/繁殖适合度/一报还一报/职虫/同源同一）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T15:10:22Z",
+      "evidence": "终稿验收：check_style 0、check_academic --strict 全库 OK、check_math missing=0 unbalanced=0、check_terms 硬错 0、check_prose 0 残留；登记册 2 术语 1 人名已入库并复验"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T15:10:22Z",
+      "evidence": "A 批 done：altruism-biological 64 段账本双版、246 行成稿、prose 8→0、r1 回读修正 10 处"
     }
   ],
   "blockers": [],
