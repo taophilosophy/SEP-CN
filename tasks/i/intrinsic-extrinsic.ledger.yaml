@@ -195,11 +195,11 @@ segments:
       3. $x$ has $F$ in an intrinsic fashion iff every duplicate of $x$ has $F$.
     step1: |-
       1. $x$ 以内在方式具有 $F$，当且仅当把 $F$ 归予 $x$ 的句子完全是关于它的。
-      2. $x$ 以内在方式具有 $F$，当且仅当 $x$ 具有 $F$，是凭借 $x$ 自身、且仅凭 $x$ 自身之所是。
+      2. $x$ 以内在方式具有 $F$，当且仅当 $x$ 具有 $F$，是凭借 $x$ 自身、且仅凭其自身之所是。
       3. $x$ 以内在方式具有 $F$，当且仅当 $x$ 的每个复本都具有 $F$。
     step2: |-
       1. $x$ 以内在方式具有 $F$，当且仅当把 $F$ 归予 $x$ 的句子完全是关于它的。
-      2. $x$ 以内在方式具有 $F$，当且仅当 $x$ 具有 $F$，是凭借 $x$ 自身、且仅凭 $x$ 自身之所是。
+      2. $x$ 以内在方式具有 $F$，当且仅当 $x$ 具有 $F$，是凭借 $x$ 自身、且仅凭其自身之所是。
       3. $x$ 以内在方式具有 $F$，当且仅当 $x$ 的每个复本都具有 $F$。
   - id: 23
     kind: body
@@ -254,9 +254,9 @@ segments:
     source: |-
       In addition to the two-place predicate ‘has … in an intrinsic fashion’, we can introduce a modifier ‘intrinsically’, where, adapting one of the characterisations above, $x$ is intrinsically $F$ iff $x$ is $F$ in virtue of how $x$ itself, and nothing else, is. (cf. Humberstone 1996, p. 228)[^humberstone-1996]. This modifier takes predicates as arguments rather than names of properties or variables ranging over properties. Nominalists, who don’t believe in properties, might attempt to use this modifier to capture the intuitive distinctions associated with intrinsicality without committing themselves to properties. For example, a nominalist might claim that a table is intrinsically rectangular, while claiming to consistently hold that there is no property of being rectangular. (For simplicity, we will assume in the following that nominalism is false and that there are abundantly many properties and relations, some of which are intrinsic and some of which are extrinsic.)
     step1: |-
-      除了二元谓词"以内在方式具有……"之外，我们还可以引入一个修饰语"内在地"（intrinsically）：改造上面的一条刻画，$x$ 内在地是 $F$，当且仅当 $x$ 是 $F$，是凭借 $x$ 自身、且仅凭 $x$ 自身之所是。（参见 Humberstone 1996, p. 228）[^humberstone-1996]。这一修饰语以谓词而非属性名称或属性变元为论元。不相信属性存在的唯名论者，或许会试图用这一修饰语来把握与内在性相关的直观区分，而不必承诺属性的存在。例如，一个唯名论者可能会主张一张桌子内在地是矩形的，同时又融贯地主张不存在"是矩形的"这一属性。（为简单起见，下文我们假定唯名论为假，并且存在丰富多样的属性与关系，其中一些是内在的，另一些是外在的。）
+      除了二元谓词"以内在方式具有……"之外，我们还可以引入一个修饰语"内在地"（intrinsically）：改造上面的一条刻画，$x$ 内在地是 $F$，当且仅当 $x$ 是 $F$，是凭借 $x$ 自身、且仅凭其自身之所是。（参见 Humberstone 1996, p. 228）[^humberstone-1996]。这一修饰语以谓词而非属性名称或属性变元为论元。不相信属性存在的唯名论者，或许会试图用这一修饰语来把握与内在性相关的直观区分，而不必承诺属性的存在。例如，一个唯名论者可能会主张一张桌子内在地是矩形的，同时又融贯地主张不存在"是矩形的"这一属性。（为简单起见，下文我们假定唯名论为假，并且存在丰富多样的属性与关系，其中一些是内在的，另一些是外在的。）
     step2: |-
-      除了二元谓词"以内在方式具有……"之外，我们还可以引入一个修饰语"内在地"（intrinsically）：仿照上面的一条刻画，$x$ 内在地是 $F$，当且仅当 $x$ 是 $F$，是凭借 $x$ 自身、且仅凭 $x$ 自身之所是。（参见 Humberstone 1996, p. 228）[^humberstone-1996]。这一修饰语以谓词为论元，而非以属性名称或属性变元为论元。不相信属性存在的唯名论者，或许会试图用这一修饰语来把握与内在性相关的直观区分，而无需承诺属性的存在。例如，一个唯名论者可能会主张一张桌子内在地是矩形的，同时又融贯地主张不存在"是矩形的"这一属性。（为简单起见，下文我们假定唯名论为假，并且存在丰富多样的属性与关系，其中一些是内在的，另一些是外在的。）
+      除了二元谓词"以内在方式具有……"之外，我们还可以引入一个修饰语"内在地"（intrinsically）：仿照上面的一条刻画，$x$ 内在地是 $F$，当且仅当 $x$ 是 $F$，是凭借 $x$ 自身、且仅凭其自身之所是。（参见 Humberstone 1996, p. 228）[^humberstone-1996]。这一修饰语以谓词为论元，而非以属性名称或属性变元为论元。不相信属性存在的唯名论者，或许会试图用这一修饰语来把握与内在性相关的直观区分，而无需承诺属性的存在。例如，一个唯名论者可能会主张一张桌子内在地是矩形的，同时又融贯地主张不存在"是矩形的"这一属性。（为简单起见，下文我们假定唯名论为假，并且存在丰富多样的属性与关系，其中一些是内在的，另一些是外在的。）
   - id: 30
     kind: body
     source: |-
