@@ -2,10 +2,298 @@
  "key": "restitution",
  "term": "restitution",
  "provider": "termonline-all",
- "queried_at": "2026-11-12T00:49:29+00:00",
- "status": "error",
- "note": "variant=restitution; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "restitution: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T04:40:49+00:00",
+ "status": "ok",
+ "note": "variant=restitution; 审定公布名词库=87; 海峡两岸名词对照库=20; 其他来源数据库=5; 预公布名词数据库=35; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "恢复",
+   "en": "restitution",
+   "code": "02.0482",
+   "standard": "物理学名词",
+   "subject": "物理学_力学"
+  },
+  {
+   "cn": "重建",
+   "en": "restitution",
+   "code": "01.205",
+   "standard": "医学名词 第三分册",
+   "subject": "医学_医学遗传学"
+  },
+  {
+   "cn": "恢复力",
+   "en": "restitution force",
+   "code": "10.0048",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地球物理信息学_地球物理观测技术"
+  },
+  {
+   "cn": "再组核",
+   "en": "restitution nucleus",
+   "code": "08.0225",
+   "standard": "植物学名词",
+   "subject": "植物学_植物生殖与发育生物学"
+  },
+  {
+   "cn": "恢复系数",
+   "en": "restitution coefficient,coefficient of restitution",
+   "code": "02.0484",
+   "standard": "物理学名词",
+   "subject": "物理学_力学"
+  },
+  {
+   "cn": "减数分裂再组核",
+   "en": "meiotic restitution nucleus",
+   "code": "08.0226",
+   "standard": "植物学名词",
+   "subject": "植物学_植物生殖与发育生物学"
+  },
+  {
+   "cn": "有丝分裂再组核",
+   "en": "mitotic restitution nucleus",
+   "code": "08.0227",
+   "standard": "植物学名词",
+   "subject": "植物学_植物生殖与发育生物学"
+  },
+  {
+   "cn": "恢复冲量",
+   "en": "impulse of restitution",
+   "code": "02.0483",
+   "standard": "物理学名词",
+   "subject": "物理学_力学"
+  },
+  {
+   "cn": "恢复冲量",
+   "en": "impulse of restitution",
+   "code": null,
+   "standard": "力学名词",
+   "subject": "力学_力学通类"
+  },
+  {
+   "cn": "恢复系数",
+   "en": "coefficient of restitution",
+   "code": null,
+   "standard": "力学名词",
+   "subject": "力学_力学通类"
+  },
+  {
+   "cn": "胎头复位",
+   "en": "restitution of fetal head",
+   "code": "17.041",
+   "standard": "妇产科学名词",
+   "subject": "正常分娩_分娩机制"
+  },
+  {
+   "cn": "先天性生殖道畸形整复术",
+   "en": "restitution of congenital genital tract malformation",
+   "code": "5.402",
+   "standard": "妇科肿瘤学名词",
+   "subject": "妇科肿瘤学_妇科肿瘤诊断学_妇科肿瘤内镜检查_宫腔镜"
+  },
+  {
+   "cn": "重组核",
+   "en": "restitution nucleus",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "复组核（=再组核）",
+   "en": "restitution nucleus",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "再组核，复组核",
+   "en": "restitution nucleus",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "减数分裂再组核",
+   "en": "meiotic restitution nucleus",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "要求退回原物的诉讼",
+   "en": "action for restitution",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "退回预付资金",
+   "en": "restitution of advance payment",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "放款机构",
+   "en": "lending institution",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "货币制度",
+   "en": "monetary institution",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "金融机构",
+   "en": "financial institution",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "投资机构",
+   "en": "investing institution",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "信贷机构",
+   "en": "credit institution",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "信托机构",
+   "en": "fiduciary institution",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "卫生机构",
+   "en": "health institution",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "专有词汇_机构名称"
+  },
+  {
+   "cn": "医疗机构",
+   "en": "medical institution",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "专有词汇_机构名称"
+  },
+  {
+   "cn": "中国小额信贷机构联席会",
+   "en": "China Microfinance Institution Association",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "英国标准协会",
+   "en": "British Standards Institution (BSI)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据交易服务机构",
+   "en": "data trading service institution",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "赤贫化",
+   "en": "destitution",
+   "code": "04.0039",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_马克思恩格斯时期"
+  },
+  {
+   "cn": "卖淫",
+   "en": "prostitution",
+   "code": "3.3.4.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性社会学_性法律"
+  },
+  {
+   "cn": "企业单位",
+   "en": "enterprise institution",
+   "code": "2.5.7.15",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念群体和组织"
+  },
+  {
+   "cn": "卖淫法",
+   "en": "prostitution act",
+   "code": "3.3.4.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性社会学_性法律"
+  },
+  {
+   "cn": "社会制度",
+   "en": "social institution",
+   "code": "03.0169",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "婚姻制度",
+   "en": "marriage institution",
+   "code": "4.0252",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "合亩制",
+   "en": "hemu institution",
+   "code": "1.0292",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "医疗机构",
+   "en": "medical institution",
+   "code": "4.001",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医疗人际关系"
+  },
+  {
+   "cn": "医疗机构从业人员",
+   "en": "medical institution practitioner",
+   "code": "4.002",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医疗人际关系"
+  },
+  {
+   "cn": "机构养老服务",
+   "en": "institution aged care",
+   "code": "3.15.7.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_老年和老龄化研究_老年社会服务"
+  },
+  {
+   "cn": "机构与学院的伙伴关系",
+   "en": "institution-college partnership",
+   "code": "4.4.11.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作实习"
+  },
+  {
+   "cn": "定点医疗机构",
+   "en": "contracted medical institution",
+   "code": "11.7.1.5.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_健康保险_健康保险监管"
+  }
+ ],
+ "error": null,
  "raw": null
 }

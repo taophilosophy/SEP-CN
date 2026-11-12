@@ -2,10 +2,347 @@
  "key": "relational quantum mechanics",
  "term": "relational quantum mechanics",
  "provider": "termonline-all",
- "queried_at": "2026-11-12T00:44:59+00:00",
- "status": "error",
- "note": "variant=relational quantum mechanics; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "relational quantum mechanics: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T04:40:49+00:00",
+ "status": "ok",
+ "note": "variant=relational quantum mechanics; 审定公布名词库=2485; 海峡两岸名词对照库=494; 其他来源数据库=252; 预公布名词数据库=113; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "量子力学",
+   "en": "quantum mechanics",
+   "code": "06.0363",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "量子力学",
+   "en": "quantum mechanics",
+   "code": "04.1147",
+   "standard": "化学名词",
+   "subject": "化学_物理化学_物质结构、理论和计算化学"
+  },
+  {
+   "cn": "量子统计力学",
+   "en": "quantum statistical mechanics",
+   "code": "05.0472",
+   "standard": "物理学名词",
+   "subject": "物理学_热学、统计物理学_统计物理学"
+  },
+  {
+   "cn": "相对论[性]量子力学",
+   "en": "relativistic quantum mechanics",
+   "code": "06.0366",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "量子力学方法",
+   "en": "quantum mechanics method，QM method",
+   "code": "02.055",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟"
+  },
+  {
+   "cn": "量子力学的哲学诠释",
+   "en": "philosophical interpretation of quantum mechanics",
+   "code": "03.364",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_物理学哲学"
+  },
+  {
+   "cn": "量子力学的实在论诠释",
+   "en": "realist interpretation of quantum mechanics",
+   "code": "03.366",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_物理学哲学"
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "code": "03.065",
+   "standard": "医学影像技术学名词",
+   "subject": "医学影像技术学_数字X射线成像技术_数字影像学基础"
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "code": "06.0373",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "code": "01.176",
+   "standard": "电气工程名词",
+   "subject": "电气工程_电工基础及通用名词"
+  },
+  {
+   "cn": "要闻集录",
+   "en": "Relation",
+   "code": "3.014",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_新闻史_古代新闻史_外国"
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "code": "07.0116",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库管理系统及其实现技术"
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "力学",
+   "en": "mechanics",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "机制",
+   "en": "mechanism",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "量子产额（=量子产率）",
+   "en": "quantum yield",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "量子产率，量子产额",
+   "en": "quantum yield",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "量子[式]进化",
+   "en": "quantum evolution",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "量子效率",
+   "en": "quantum efficiency",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "量子需求量",
+   "en": "quantum requirement",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "量子理论",
+   "en": "quantum theory",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "量子效应",
+   "en": "quantum effect",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "量子微腔",
+   "en": "quantum microcavity",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "量子力学",
+   "en": "quantum mechanics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "相干态",
+   "en": "Glossary of elementary quantum mechanics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "真空能量",
+   "en": "Glossary of elementary quantum mechanics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "泡利不相容原理",
+   "en": "Glossary of elementary quantum mechanics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子存储器",
+   "en": "Glossary of elementary quantum mechanics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "多体问题",
+   "en": "Glossary of elementary quantum mechanics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "不确定性原理",
+   "en": "Glossary of elementary quantum mechanics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "自旋磁矩",
+   "en": "Glossary of elementary quantum mechanics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "力学",
+   "en": "mechanics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "机械师",
+   "en": "mechanic",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "机械师",
+   "en": "mechanic",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "联系",
+   "en": "relation",
+   "code": "01.0031",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relations",
+   "code": "03.0156",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "宗法关系",
+   "en": "patriarchal relations",
+   "code": "04.0024",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_马克思恩格斯时期"
+  },
+  {
+   "cn": "人伦",
+   "en": "human relations",
+   "code": "1.075",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "普遍联系",
+   "en": "universal relation",
+   "code": "01.0032",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "土地关系",
+   "en": "agrarian relation",
+   "code": "03.0184",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "民族关系",
+   "en": "ethnic relation",
+   "code": "2.0008",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族理论_基本概念"
+  },
+  {
+   "cn": "关系取向",
+   "en": "relation orientation",
+   "code": "1.0641",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "消毒机理",
+   "en": "disinfection mechanism",
+   "code": "1.1.7",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒学_消毒"
+  },
+  {
+   "cn": "机械通风",
+   "en": "mechanical ventilation",
+   "code": "1.8.17",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒学_其他"
+  },
+  {
+   "cn": "机械排风",
+   "en": "mechanical exhaust",
+   "code": "1.8.17.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒学_其他"
+  },
+  {
+   "cn": "机械传播",
+   "en": "mechanical transmission",
+   "code": "4.1.4.13.5.3",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_环境消毒"
+  }
+ ],
+ "error": null,
  "raw": null
 }
