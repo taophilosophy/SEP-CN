@@ -1,0 +1,348 @@
+{
+ "key": "tangent bundle",
+ "term": "tangent bundle",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T01:24:01+00:00",
+ "status": "ok",
+ "note": "variant=tangent bundle; 审定公布名词库=1609; 海峡两岸名词对照库=617; 其他来源数据库=91; 预公布名词数据库=103; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "切丛",
+   "en": "tangent bundle",
+   "code": "08.0884",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_微分流形"
+  },
+  {
+   "cn": "切线",
+   "en": "tangent",
+   "code": "01.0328",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_数学"
+  },
+  {
+   "cn": "正切",
+   "en": "tangent",
+   "code": "08.0184",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_三角学"
+  },
+  {
+   "cn": "维管束",
+   "en": "vascular bundle,bundle",
+   "code": "03.1087",
+   "standard": "植物学名词",
+   "subject": "植物学_植物形态与结构植物学_结构植物学"
+  },
+  {
+   "cn": "绑定",
+   "en": "bundling",
+   "code": "17.024",
+   "standard": "通信科学技术名词",
+   "subject": "通信科学技术_政策、法规与管理"
+  },
+  {
+   "cn": "业务捆绑",
+   "en": "bundling",
+   "code": "13.037",
+   "standard": "通信科学技术名词",
+   "subject": "通信科学技术_服务与应用"
+  },
+  {
+   "cn": "正切条件",
+   "en": "tangent condition",
+   "code": "13.089",
+   "standard": "光学名词",
+   "subject": "光学_一般光学系统与光学设计"
+  },
+  {
+   "cn": "圆弧–直线凸轮",
+   "en": "tangent cam",
+   "code": "01.0119",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机构与机器人学_机器与机构构成"
+  },
+  {
+   "cn": "切向圆",
+   "en": "tangent circle",
+   "code": "01.0222",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机构与机器人学_机构运动学"
+  },
+  {
+   "cn": "损耗角正切",
+   "en": "loss tangent",
+   "code": "02.0351",
+   "standard": "食品科学技术名词",
+   "subject": "食品科学技术_食品科学_食品物理_食品流变学特性"
+  },
+  {
+   "cn": "切线规则",
+   "en": "tangent rule",
+   "code": "04.0094",
+   "standard": "冶金学名词",
+   "subject": "冶金学_冶金物理化学_冶金过程热力学"
+  },
+  {
+   "cn": "切向分辨率",
+   "en": "tangent resolution",
+   "code": "08.288",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天遥感"
+  },
+  {
+   "cn": "切线",
+   "en": "tangent",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "路径束",
+   "en": "bundle",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "维管束",
+   "en": "vascular bundle\",\"bundle",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "损耗角正切",
+   "en": "loss tangent",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "切投影",
+   "en": "tangent projection",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "切线长",
+   "en": "tangent distance",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "正切面",
+   "en": "tangent plane",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "主切线",
+   "en": "main tangent",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "肌束",
+   "en": "muscle bundle",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "乳头黄斑束",
+   "en": "papillomacular bundle",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "束细胞",
+   "en": "bundle cell",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "束状骨",
+   "en": "bundle bone",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "切线",
+   "en": "tangent line",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "维管束",
+   "en": "Vascular bundle",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "纤维丛",
+   "en": "fiber bundle",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "大地坐标系",
+   "en": "Local tangent plane coordinates",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "权利束理论",
+   "en": "bundle-of-rights theory",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "棍柄",
+   "en": "handle",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "旋涡",
+   "en": "puddle",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "栏架",
+   "en": "hurdle",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "拍柄",
+   "en": "handle",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "马缰",
+   "en": "bridle",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "棒柄",
+   "en": "handle",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "马勒",
+   "en": "bridle",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "捆绑支付",
+   "en": "bundled payment",
+   "code": "10.2.18",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度"
+  },
+  {
+   "cn": "气泡室",
+   "en": "bubble chamber",
+   "code": "5.2.1.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测设备_α、β粒子辐射监测设备"
+  },
+  {
+   "cn": "气泡探测器",
+   "en": "bubble detector",
+   "code": "5.2.3.15",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测设备_中子监测设备"
+  },
+  {
+   "cn": "热带丛林",
+   "en": "tropical jungle",
+   "code": "6.3.10.6.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事作业医学_军事作业卫生"
+  },
+  {
+   "cn": "栅栏技术",
+   "en": "hurdle technology",
+   "code": "5.18.3",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_方便食品"
+  },
+  {
+   "cn": "党项",
+   "en": "Tangut",
+   "code": "3.008",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族称谓"
+  },
+  {
+   "cn": "崩得",
+   "en": "Bund",
+   "code": "04.0425",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要组织政党_列宁斯大林时期"
+  },
+  {
+   "cn": "代理人",
+   "en": "agent",
+   "code": "4.0569999999999995",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医疗人际关系"
+  },
+  {
+   "cn": "目标微生物",
+   "en": "target microorganism",
+   "code": "6.2.3.2",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "靶部位",
+   "en": "target region",
+   "code": "6.3.2.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢"
+  },
+  {
+   "cn": "靶组织",
+   "en": "target tissue",
+   "code": "6.3.2.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢"
+  },
+  {
+   "cn": "靶器官",
+   "en": "target organ",
+   "code": "6.3.2.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

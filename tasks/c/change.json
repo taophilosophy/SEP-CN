@@ -2,7 +2,7 @@
   "slug": "change",
   "kind": "retranslate",
   "zh_doc": "c/change.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "R-main-20261112",
       "at": "2026-11-12T00:02:12Z",
       "evidence": "r2 复审（R-main-20261112，异于初译主代理）：逐句回核原文与逻辑——r1 所修 24 处回读语境连贯；$A$/$B$-系列、剑桥变化、刹那论、电影式变化观、莱布尼茨连续性条件（LCC）、赖夏特探测器等核心术语前后一致；check_terms 硬错误 0（冲突 0+自洽 0）。人名回核（genetics 先例：引证组作者照录英文，行文提及转册定中文）：引证组保留拉丁 14 处（Geach（1969, 71–2）、Lewis（1986）（1988）、Scherbatsky（1930）、Parfit（1984）、Price（1996）、Medlin（1963）、Hamblin（1969）、Palmer（1999）、Gruber/Bach/Block（2015）、Johnston/Lowe/Haslanger、Weatherson（2002）、Davidson（1967）、（Hegel（1812），第 440 页）、Weyl 1960）；行文提及转册定中文 16 处——麦克塔加特×4（册定 麦克塔加特，原译正文及相关词条行 麦克塔格特 异形同步对齐）、刘易斯×5（David Lewis 首现 大卫·刘易斯）、康德（1781）、牛顿、莱布尼茨、马赫、闵可夫斯基、赖夏特、博斯科维奇各 1–2 处；Priest×22 与 von Wright 册定保留英文（ADR-0022 裁定行，Priest, Graham 主形即 Graham Priest；von Wright, Georg Henrik 保留英文），拉丁合法；L71 Priest 与 Routley 并称紧邻合著引证组，随 Priest 保持原文形态；Nerlich/Medlin 无册定行文保留英文（ADR-0022）。补登 2 行（先登后用补课，来源 change，凭证 2026-11-12 r2）：Boscovich, Roger Joseph 罗杰·约瑟夫·博斯科维奇（1711–1787）、Reichardt, Werner 维尔纳·赖夏特（1924–1992，与正文既用 赖夏特探测器×4 对齐）；registry_azsort 干跑守恒 4163 行、周界 0。相关词条 14 项与 SUMMARY 标题核对一致（内在属性与外在属性=i/intrinsic-extrinsic.md SUMMARY 行 1313 等）。观察项：SUMMARY L2248 科学实在论和理论变革 and theory change in science 同款 H1 残缺模式（11-01 批量 era 系统性），属 r/realism-theory-change.md 该条 r 线处置，不在本条范围。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "R-main-20261112",
+      "at": "2026-11-12T01:41:34Z",
+      "evidence": "r3 终审（R-main-20261112，终读距 r1/r2 落定已隔提交与门禁两轮，冷置回读）：243 行全文终读未见 Critical/Major 残留；结构对账——正文段 68:68、节 13:13（9 编号节＋4 尾节）、脚注定义 32:32 键集与顺序全等，另 zh 侧文末译注挂接提示行 1 段属管线增补（非源文段，既定体例）；四检复跑——check_style 0 issue／check_academic --strict OK／check_math 0 式 0 缺失 0 失衡／check_terms 硬错误 0；check_prose 余 34 条按 r1 分类豁免留痕（de-chain 24 术语性偏正、长句 5 源文周期句与条件链镜像、exists-there 2、passive 1）；check_all 九项中 8 项绿，哲学学术规范红项 8 条全属他会话在途/存量任务（ancient-soul s2、bessarion draft、dewey-political s2、epiphenomenalism s2/r1、hilbert-program r1、innateness-cognition s2/r1 的语体留痕），与 change 无关。本轮自查发现并修复 mu-lu-s.md 未随 SUMMARY 同步的 H1 不一致（分类目录对应性门禁由此复绿），已按单一事实源修弱势方。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "R-main-20261112",
+      "at": "2026-11-12T01:43:18Z",
+      "evidence": "全周期收口（评审线：初译主代理 2026-11-01 → r1/r2/r3 R-main-20261112）：243 行、脚注定义 32、正文段 68 守恒；四检 style 0/academic OK/math 0/terms 硬错 0；实修累计 45 处（准确性 24 含 H1 残缺与一致性难题两 Major、prose 4、人名册对齐 16 类、SUMMARY+mu-lu-s 标题同步 2），豁免按 ADR-0020 分类留痕 34；工具侧 patch check_style 词尾所有格撇号遮蔽（Leibniz' law 类假阳性，已回归验证）；s3_checked 存量 47→45。"
     }
   ],
   "blockers": [],
