@@ -2,7 +2,7 @@
   "slug": "disability",
   "kind": "retranslate",
   "zh_doc": "d/disability.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -30,7 +30,7 @@
       "status": "ok",
       "actor": "D-main-20261109",
       "at": "2026-11-09T00:11:41Z",
-      "evidence": "二校（语言）：check_prose 告警 83→6，实修 77 处（逐处人工改写，未用批量替换）：弱动词 8→0、被动被字句 11→0、的连用 density 26→0、超长句 38→0（拆句不增删信息，脚注重挂点逐一复核）。余 6 条逐条豁免留痕（均 blockquote 照录）：行 184《最终版能力缺失理论》定义引文（Buchanan/Gregory 式单句定义，拆分即改写引文）、行 216 Tremain 2017:22 引文（原文 2 个「被」，拆分即改写）、行 228 Beaudry 2020:17 引文（long 2＋de-chain 2，同上）。复核：脚注定义键 76:76、引用多重集 129:129、H2/H3/H4 6:6/5:5/5:5 全等，marker 与数学 $ 计数不变；check_style 0 issue"
+      "evidence": "二校（语言）：check_prose 告警 83→6，实修 77 处（逐处人工改写，未用批量替换）：弱动词 8→0、被动被字句 11→0、的连用 density 26→0、超长句 38→0（拆句不增删信息，脚注重挂点逐一复核）。余 6 条逐条豁免留痕（均 blockquote 照录）：行 184《最终版能力缺失理论》定义引文（Buchanan/Gregory 式单句定义，拆分即改写引文）、行 216 Tremain 2017:22 引文（原文 2 个「被」，拆分即改写）、行 228 Beaudry 2020:17 引文（long 2＋de-chain 2，同上）。复核：脚注定义键 76:76、引用多重集 129:129、H2/H3/H4 6:6/5:5/5:5 全等，marker 与数学 $ 计数不变；check_style 0 issue；r1 复核补语体留痕：语体：现代汉语学术书面语，全篇无文言句式与成段仿古（ADR-0033；补记人 D-main-20261112，据全文通读）"
     },
     {
       "step": "s3",
@@ -38,6 +38,34 @@
       "actor": "D-main-20261109",
       "at": "2026-11-09T00:11:42Z",
       "evidence": "三校（体例）：check_style 0 issue（引号/空格/bold-spacing/italic-cjk 全绿，CJK 强调一律加粗、拉丁斜体保留）、check_academic --strict 0 硬错误、check_terms 三表无新冲突（本条目新登术语 15＋人名 19 已入册）、markdownlint 与 check_all 7/7 全绿；相关词条 9 项中文名对 SUMMARY 逐条一致；文献区 references 现制（标题保留 References（引用注释）＋照录说明＋文末脚注定义 76 条）；学术工具 4 项与 oir 4 项链接齐备"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "D-main-20261112",
+      "at": "2026-11-12T06:50:05Z",
+      "evidence": "一校（全文回读 337 行对照 yuanwen）：实修 2 处——①交叉引用词条名「知识分析」改 SUMMARY 主名「知识的分析」（source: the analysis of knowledge）②年份括注误粘第二作者名后（「萨莉·弗伦奇（Sally French，2000）阐明」）改「（Sally French）在 2000 年阐明」。全文逐段核销 2.2.1–2.2.5 五家定义（Boorse 病理式／Kahane–Savulescu 福利主义式／Barnes、Lim、Howard–Aas、Jenkins–Webster 社会建构式／Buchanan 等能力缺失式／Gregory 与 Begon 能力式）与源文引文、页码一一对应；照源保留：source OIR 首条自身残缺标记「[ADA] [[…」、MF3 句末无句点、公式 $n_1,$ 逗号在 math 内，均按零信任照源镜像。结构对账：标题 ##2/###5/####5 全等、脚注 52/52、定义 76/76、段落 99/98（差 1=源 byline *Wasserman, David, Aas, Sean* 已并入 H1）、尾节子标题 0/0、照录行 12/13（标准声明行）；无表格无图。人名：伯尔斯/卡哈内/萨武列斯库/斯温/弗伦奇/巴恩斯/布坎南/布罗克/丹尼尔斯/维克勒/特雷曼/博德里/阿斯等在册，Howard/Jenkins/Webster/Lim/Gregory/Begon/Kingma 按 ADR-0022 保留英文。语体：现代汉语学术书面语，无文言句式与成段仿古（ADR-0033，据全文通读）。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "D-main-20261112",
+      "at": "2026-11-12T06:50:53Z",
+      "evidence": "二校复核（语言）：check_prose 6 条全部为引文内告警，逐条豁免留痕——Beaudry 2020 两段直接引语（p. 5/13/17）内 2 条 long-sentence（79/70 字）与 2 条 de-chain，Tremain 2017 引语内 1 条双重被动（被牵连/被纠缠），Gregory 2020「最终版能力缺失理论」定义引语内 1 条 79 字长句；ADR-0020 引文内自然被动与长句豁免，引文外散文 0 告警。s2 实修 77 处成果复核未见回退（弱动词 0/被动 0/的链 0）。语体：现代汉语学术书面语（ADR-0033 已核）。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "D-main-20261112",
+      "at": "2026-11-12T06:50:54Z",
+      "evidence": "三校复核（体例）：check_style --strict 0 issue；check_academic --strict 无硬错误；check_math formulas 4 missing=0 unbalanced=0（源=中公式多重集 4:4 全等）；check_summary H1 与 SUMMARY 一致、相关词条 9 项全为 SUMMARY 主名形（残疾与医疗卫生配给/残疾与正义/残疾与福祉/女性主义对残疾的观点/女性主义对性与性别的观点/疾病与健康的概念/知识的分析/莫利纽克斯问题/自我认识）。结构对账：标题 ##2/###5/####5、脚注 52/52、定义 76/76、段落 99/98（byline 合并）、尾节 0/0、照录 12/13（标准声明行）。参考文献 76 条脚注定义齐备，## References（引用注释）标题照源保留。语体：现代汉语学术书面语（ADR-0033 已核）。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "D-main-20261112",
+      "at": "2026-11-12T06:50:55Z",
+      "evidence": "收口：s3_checked 复审完成（r1 逐段回读 2 实修、r2 6 条引文豁免留痕、r3 四检+结构/公式对账全绿）；照源保留判据 3 处（OIR 残缺标记、MF3 无句点、math 内逗号）已留痕。D 批 s3_checked 复审第 3 条。"
     }
   ],
   "blockers": [],
