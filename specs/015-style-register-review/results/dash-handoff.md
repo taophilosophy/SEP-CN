@@ -12,7 +12,9 @@
 
 ## 续做队列（按 dash-scan 密度降序）
 
-lambert-auxerre→dai-zhen→…→kant-leibniz→kilvington→leibniz-mind **等 18 条已收口且通过机械替换回溯审计**（见 dash-verdicts `action=none`）。**下一条：lakatos（200 对，7.91/千字）**，其后 luxemburg（136）→ leibniz-evil（144）→ lorenzo-valla（116）→ karl-reinhold（98）→ ockham（156）→ duhem（98）→ 18thGerman-preKant（139）→ kochen-specker（118）→ abrabanel（78）→ …（余 33 条全清单见 dash-verdicts.jsonl `action=fix`，动手前以 dash_scan.py 最新复扫为准）。
+lambert-auxerre→dai-zhen→…→kilvington→leibniz-mind→lakatos **等 19 条已收口且通过机械替换回溯审计**（见 dash-verdicts `action=none`）。**下一条：luxemburg（136 对，7.86/千字）**，其后 leibniz-evil（144）→ lorenzo-valla（116）→ karl-reinhold（98）→ ockham（156）→ duhem（98）→ 18thGerman-preKant（139）→ kochen-specker（118）→ abrabanel（78）→ …（余 32 条全清单见 dash-verdicts.jsonl `action=fix`，动手前以 dash_scan.py 最新复扫为准）。
+
+**并行安全（2026-11-12 血泪）**：本仓库多会话共用一个工作区，他会话的「门禁清障／rebase autostash」会**清空未提交改动**（lakatos 一次 224 处改动被整篇回滚、无 git 对象可恢复）。因此：① 一条词条**改完立即 `git add` + commit**，不要攒着；② 大批量替换写成幂等脚本（`script/_<slug>_dash_fix.py`，每对 old/new 断言唯一命中、已应用则跳过）一次跑完再核；③ 动手前 `stat` 目标文件 mtime，若数分钟内在变，先等其落定。
 
 **leibniz-mind 收口样例（2026-11-12）**：94 处逐一按源句重写（`such as`→「如」、`that is`→「也就是说」、同位语→括注或「即」、并列→句分或「：」领起），复扫归零；改后须留意 `check_style` 的 bold-spacing（删破折号后加粗两侧失去「允许紧贴」的豁免，须补半角空格）。
 
