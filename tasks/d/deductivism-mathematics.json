@@ -30,7 +30,7 @@
       "status": "ok",
       "actor": "D-main-20261107",
       "at": "2026-11-07T18:27:42Z",
-      "evidence": "四检：check_style --strict 0（含 39 处 CJK 斜体转加粗 + 加粗两侧空格扫描式规整 + 日期间距）；check_academic --strict OK；check_math missing 0（171 式无一丢失，unbalanced 警告源出英文镜像自身行）；check_prose 21→实修 20 处（长句 10 拆句/de-chain 6/weak-verb 2/passive 3），余 5 全为引文块（Pasch、Curry、Hilbert、Frege 引文内 de-chain 与被动）按 ADR-0020 豁免留痕"
+      "evidence": "四检：check_style --strict 0（含 39 处 CJK 斜体转加粗 + 加粗两侧空格扫描式规整 + 日期间距）；check_academic --strict OK；check_math missing 0（171 式无一丢失，unbalanced 警告源出英文镜像自身行）；check_prose 21→实修 20 处（长句 10 拆句/de-chain 6/weak-verb 2/passive 3），余 5 全为引文块（Pasch、Curry、Hilbert、Frege 引文内 de-chain 与被动）按 ADR-0020 豁免留痕；语体：现代汉语学术书面语，无成段仿古或文言腔（ADR-0033 补记 2026-11-12，E 批会话代核 d/deductivism-mathematics.md：粗筛 焉/矣/乎/者也 10 处，抽查均为“几乎/似乎/论者也”等常用词或引文）"
     },
     {
       "step": "s3",
