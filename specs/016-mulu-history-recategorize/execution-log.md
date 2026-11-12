@@ -47,6 +47,15 @@
 * 门禁：`check_mulu_s.py` 硬错误 0（3 项 SUMMARY 差为既有状态）；`check_all.py` 9 项中 2 项失败，均属**并行会话在途重构**（`tools/check_doc_size.py` 删去 `qian-yan/ci-hui-biao.md` 豁免、登记册改名 ADR-0036 未完成、`tools/tests/test_check_terms.py` 改动），与本批无关。
 * 遗留：`specs/017-mulu-completeness/bin/generate.py` 的节路径常量仍为旧 H1 名；该脚本 `SRC` 与 `OUT` 同为 `mu-lu-s.md`，属一次性重排器，**不得重跑**。
 
+### 同日收尾：hermeneutics 条目标题改齐
+
+* 一致性扫查发现：登记册主译为「诠释学（亦作“解释学”）」（行 2295），但该词条正文 H1、`SUMMARY.md`、`mu-lu-s.md` 三处标题仍用旧形「解释学」，且正文内 0 处「诠释学」。按 ADR-0012「不一致时修弱势方」，三处同步改为「诠释学 Hermeneutics (Theodore George)」（slug 不变）。
+* 全仓复扫：词条 H1 含「解释学」仅此 1 处；`state/mu-lu-s.before-017.md`、`script/_fazhe_preview.md` 为历史快照，不改。
+* 提交 `44aa7b16e`（正文／SUMMARY／目录三处），另有补正 `beea7f5dd`：上一条经临时索引构造时误删两文件末尾换行，已恢复（末字节 `0a`）。
+* 规避并行会话冲突的办法：`SUMMARY.md`、`mu-lu-s.md` 均以 `HEAD` 内容为底套单行替换后经 `git hash-object --path` 归一化，写入临时索引再 `commit-tree`，不带入并行会话未提交的 ADR-0036 改动，也不动其暂存项。
+* 核验：`check_mulu_s.py` 硬错误 0、标题不一致 0；`check_terms.py` 硬错误 0；`check_academic.py --docs h/hermeneutics.md --strict` 无硬错误。
+
+
 ## 待办
 
 1. 用户审阅 `mapping.tsv` 与 `mu-lu-s.preview.md`，裁定学派归属与排序。
