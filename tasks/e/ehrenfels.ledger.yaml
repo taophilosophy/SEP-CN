@@ -75,50 +75,66 @@ segments:
     kind: body
     source: |-
       ## 2. *Gestalt* Qualities
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2. 格式塔质
+    step2: |-
+      ## 2. 格式塔质
   - id: 10
     kind: body
     source: |-
       “*Gestalt*” is probably the best known contribution of Ehrenfels to philosophy and psychology. As Ehrenfels himself points out in his 1890 article “*Über ‘Gestaltqualitäten’*” (“On ‘*Gestalt* Qualities’”), he was inspired by a series of remarks in Ernst Mach’s 1886 book *Beiträge zur Analyse der Empfindungen* (*Contributions to the Analysis of Sensations*), in particular Mach’s claim that we would be able to sense spatial shapes and melodies (“tone shapes”) directly. Mach begins by discussing the comparison of geometrical shapes: “In examining two figures which are alike [*gleiche Gestalten*] but differently colored (for example, two letters of the same size and shape, but of different colors), we recognize their sameness of form [*gleiche Form*] at the first glance, in spite of the difference of color-sensation.” (Mach 1886, 43, translation from Mach 1914, 105, the same example can be found already in Stumpf 1883, 115, which Ehrenfels had read previously.)[^mach-1886][^mach-1914][^stumpf-1883] However, Mach then also proceeds to apply the term *Gestalt* in a metaphorical sense to the qualitative moments of melodies. *Gestalten*, for Mach, appear thanks to an equality (*Gleichheit*) in the sensations, which can be noticed “at a glance”, i.e., they are given directly, not deduced or abstracted. Mach argues that the geometrical similarity of two whole figures would be given by the lower level equality of their elements (lengths, angles, etc.) (Mach 1886, 47; Mach 1914, 109)[^mach-1886][^mach-1914]. In analogy to his considerations about space, Mach also applies this analysis to time, finding the same “immediate” perception of *Gestalt* in rhythm and melody (Mach 1886, 128; Mach 1914, 285)[^mach-1886][^mach-1914]. In this way, Mach used the term *Gestalt* to indicate the characteristics of a whole that depend on the specific configuration of its parts. This formed one of the starting points for Ehrenfels’ much more focused discussions of *Gestalten* in 1890. The other starting point is of course the discussion in the School of Brentano about parts and wholes, similarity and equality, fusion, “relations of relations”, and higher order objects in general (in various terminologies). In particular, Ehrenfels’ teacher Alexius Meinong had dedicated a work specifically to the theory of relations (Meinong 1882)[^meinong-1882], which is also repeatedly referred to by Ehrenfels, underscoring that relations are crucially important to his discussion and explicitly pointing out that relations themselves are nothing but *Gestalt* qualities (Ehrenfels 1890; Smith 1988, 101)[^ehrenfels-1890][^smith-1988]. Moreover, Stumpf had previously likewise discussed the case of “the similarity of one melody to another with equal relations of successive tones, but with different absolute tonal pitches (where we even speak of the ”same“ melody)” (Stumpf 1883, 113; tr. from Stumpf 2020, 63)[^stumpf-1883][^stumpf-2020]. At the same time as Ehrenfels, and due to more or less the same set of influences, Husserl also had used the term *Gestalt* and *Gestaltmoment* to indicate higher-order quasi-qualities and the unitary framework of the whole intuition (in a lecture from January 1890, see Husserl 2005, and in the 1891 *Philosophy of Arithmetic*, where he switches his terminology to “figural moment”). The similarity of Husserl’s and Ehrenfels’ accounts were already noted at the time by Hillebrand in his collective review of their works (Hillebrand 1893, tr. in Ierna 2012)[^hillebrand-1893]. Finally, Ehrenfels himself anticipates some of the ideas of his famous 1890 article in his 1885 dissertation, in which he discusses the similarity of relations and concludes that through comparisons of higher order relations one can find a “clearly perceptible similarity in their relationships, so that through the relation even the seemingly most incompatible can be given unity and harmony.” (Ehrenfels 1885, 85)[^ehrenfels-1885]. Despite such anticipations and parallels in the School of Brentano (see also the critical remarks by Zimmer in Albertazzi et al. 2001, 135 ff.)[^albertazzi-2001][^zimmer-2001], it was Ehrenfels’ work that thematized this whole topic and brought such diverse approaches into focus, thereby turning the psychology of *Gestalten* into a topic in its own right and fixating the terminology, problems, and scope of the debate about higher order objects and relations for the years to come.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “格式塔”（*Gestalt*）大概是埃伦费尔斯对哲学与心理学最出名的贡献。正如埃伦费尔斯本人在其 1890 年论文《论“格式塔质”》（“*Über ‘Gestaltqualitäten’*”，即“On ‘*Gestalt* Qualities’”）中指出的，他的灵感来自恩斯特·马赫 1886 年《感觉的分析》（*Beiträge zur Analyse der Empfindungen*，*Contributions to the Analysis of Sensations*）中的一系列评论，尤其是马赫的下述主张：我们能够直接觉知空间形状与旋律（“音形”）。马赫先讨论几何形状的比较：“在考察两个相似［*gleiche Gestalten*］而颜色不同的图形时（例如两个大小与形状相同而颜色不同的字母），尽管颜色感觉有差异，我们第一眼就认出它们的形式相同［*gleiche Form*］。”（Mach 1886, 43，译文取自 Mach 1914, 105；同样的例子早已见于埃伦费尔斯先前读过的 Stumpf 1883, 115。）[^mach-1886][^mach-1914][^stumpf-1883] 然而，马赫随后也把“格式塔”一词以隐喻的方式用于旋律的质性环节。对马赫来说，格式塔的出现有赖于感觉中的一种相等（*Gleichheit*），这种相等可以“一眼”看出，即它们是被直接给予的，而非推导或抽象而来。马赫论证说，两个整体图形的几何相似性由其元素（长度、角度等）在更低层面的相等给出（Mach 1886, 47；Mach 1914, 109）[^mach-1886][^mach-1914]。与他对空间的考虑相类比，马赫也把这一分析应用于时间，在节奏与旋律中发现了同样的“直接”格式塔知觉（Mach 1886, 128；Mach 1914, 285）[^mach-1886][^mach-1914]。就这样，马赫用“格式塔”一词指示一个整体的那些依赖其各部分特定构型的特征。这构成了埃伦费尔斯 1890 年更专注地讨论格式塔的起点之一。另一个起点当然是布伦塔诺学派关于部分与整体、相似与相等、融合、“关系的关系”以及一般而言高阶对象的讨论（所用术语各异）。特别是，埃伦费尔斯的老师亚历克修斯·迈农曾专门著书讨论关系理论（Meinong 1882）[^meinong-1882]，埃伦费尔斯也反复援引此书，既强调关系对他的讨论至关重要，也明确指出关系本身不外是格式塔质（Ehrenfels 1890；Smith 1988, 101）[^ehrenfels-1890][^smith-1988]。此外，斯图姆夫此前也曾讨论过“一段旋律与另一段旋律相似的情形——两者相继各音的关系相等，但绝对音高不同（此时我们甚至说那是‘同一’旋律）”（Stumpf 1883, 113；译自 Stumpf 2020, 63）[^stumpf-1883][^stumpf-2020]。与埃伦费尔斯同时、且所受影响大体相同的胡塞尔，也曾用“格式塔”与“格式塔环节”（*Gestaltmoment*）两词指示高阶的准性质以及整个直观的统一框架（见其 1890 年 1 月的一次讲演，Husserl 2005；以及 1891 年《算术哲学》，在那里他把术语换成了“形象环节”［“figural moment”］）。胡塞尔与埃伦费尔斯两种说法的相似，当时已由希尔德布兰德在对二人著作的合评中指出（Hillebrand 1893，译文见 Ierna 2012）[^hillebrand-1893]。最后，埃伦费尔斯本人在其 1885 年学位论文中已预演了其著名的 1890 年论文的若干想法：他在其中讨论关系的相似性，并总结说，通过比较高阶关系，人们可以在它们的关系中发现“一种清晰可感的相似性，以至于凭借这种关系，哪怕看似最不相容者也能被给予统一与和谐”。（Ehrenfels 1885, 85）[^ehrenfels-1885] 尽管有这些预示以及布伦塔诺学派内的平行讨论（另见 Zimmer 在 Albertazzi et al. 2001, 135 ff. 中的批评性评论）[^albertazzi-2001][^zimmer-2001]，把这一整个论题主题化、把如此多样的进路聚于焦点、从而把格式塔心理学变成一个独立论题、并为日后关于高阶对象与关系的争论钉牢术语、问题与范围的，仍然是埃伦费尔斯的工作。
+    step2: |-
+      要说埃伦费尔斯留给哲学与心理学的名头，“格式塔”（*Gestalt*）大概最响。他本人在 1890 年的论文《论“格式塔质”》（“*Über ‘Gestaltqualitäten’*”）中交代过来历：灵感动自恩斯特·马赫 1886 年的《感觉的分析》（*Beiträge zur Analyse der Empfindungen*，*Contributions to the Analysis of Sensations*）里的一串议论，尤其是马赫那个说法——我们能够直接感知空间形状与旋律（“音形”）。马赫从几何图形的比较入手：“考察两个相似［*gleiche Gestalten*］而着色不同的图形（例如两个同大小、同形状而异色的字母），尽管颜色感觉不同，我们一眼便认出二者的形式相同［*gleiche Form*］。”（Mach 1886, 43，译文取自 Mach 1914, 105；同一例证更早已见于 Stumpf 1883, 115，埃伦费尔斯此前读过。）[^mach-1886][^mach-1914][^stumpf-1883] 不过，马赫接着又把“格式塔”一词转了个弯，用到旋律的质性环节上。在他那里，格式塔之所以显现，靠的是感觉中的相等（*Gleichheit*），而这种相等“一眼”即可察觉——也就是说，它们是直接给定的，不是推演或抽象出来的。马赫主张，两个整体图形的几何相似，由其元素（长度、角度等）在更低层面的相等给出（Mach 1886, 47；Mach 1914, 109）[^mach-1886][^mach-1914]。他把对空间的这套考虑类推到时间上，在节奏与旋律里发现了同样“直接”的格式塔知觉（Mach 1886, 128；Mach 1914, 285）[^mach-1886][^mach-1914]。就这样，“格式塔”在马赫手里被用来标示整体的这样一类特征：它们取决于部分之间的特定构型。这构成了埃伦费尔斯 1890 年集中讨论格式塔的一个起点。另一个起点自然来自布伦塔诺学派内部关于部分与整体、相似与相等、融合、“关系的关系”以及一般高阶对象的讨论（术语人各一套）。尤其是，他的老师亚历克修斯·迈农曾专事关系理论（Meinong 1882）[^meinong-1882]；埃伦费尔斯反复征引此书，一方面强调关系对己说至关重要，另一方面明说关系本身不外是格式塔质（Ehrenfels 1890；Smith 1988, 101）[^ehrenfels-1890][^smith-1988]。斯图姆夫此前也谈过类似的情形：“一段旋律与另一段旋律相似的情形——两者相继各音的关系相等，但绝对音高不同（此时我们甚至说那是‘同一’旋律）”（Stumpf 1883, 113；译自 Stumpf 2020, 63）[^stumpf-1883][^stumpf-2020]。与此同时，胡塞尔受着大体相同的一路影响，也用过“格式塔”和“格式塔环节”（*Gestaltmoment*）来标示高阶准性质与整个直观的统一框架（见其 1890 年 1 月讲演，Husserl 2005；又见 1891 年《算术哲学》，在那里他把术语换成了“形象环节”［“figural moment”］）。两套说法的相近，当时就被希尔德布兰德在合评二人著作时点破了（Hillebrand 1893，译文见 Ierna 2012）[^hillebrand-1893]。最后，埃伦费尔斯本人在 1885 年的学位论文里已经预演了 1890 年名文的若干想法：他在那里讨论关系之间的相似性，并得出结论说，通过比较高阶的关系，可以在其相互关系中发现“一种清晰可感的相似性，以至于凭这层关系，哪怕看起来最不相容的东西也能被赋予统一与和谐”。（Ehrenfels 1885, 85）[^ehrenfels-1885] 预示也好、平行讨论也罢（另见 Zimmer 载 Albertazzi et al. 2001, 135 ff. 的批评意见）[^albertazzi-2001][^zimmer-2001]，终究是埃伦费尔斯把这一整片论题主题化，把各路进路拢到一个焦点上，让格式塔心理学自立门户，并为日后关于高阶对象与关系的辩论钉死了术语、问题与范围。
   - id: 11
     kind: body
     source: |-
       It is likely that Ehrenfels’ musical interests, particularly Wagner’s music and the concept of “*Leitmotiv*”, influenced his idea of *Gestaltqualität* and his choice of melodies as a main example. Through Wagner there may be an implicit undercurrent of German Idealism and romanticism that in Ehrenfels obtains a (Brentanist/Meinongian) psychological formulation (Höfer 2017, 34–38)[^höfer-2017].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      埃伦费尔斯的音乐兴趣，尤其是瓦格纳的音乐与“主导动机”（“*Leitmotiv*”）概念，很可能影响了他的格式塔质观念以及他把旋律选为主要例子的做法。经由瓦格纳，或许还有一股德国观念论与浪漫主义的暗流，它在埃伦费尔斯那里获得了一种（布伦塔诺主义／迈农主义的）心理学表述（Höfer 2017, 34–38）[^höfer-2017]。
+    step2: |-
+      埃伦费尔斯的音乐趣味——特别是瓦格纳的音乐与“主导动机”（“*Leitmotiv*”）概念——多半也参与塑造了他的格式塔质观念，以及拿旋律当主要例子的选择。经由瓦格纳，德国观念论与浪漫主义或许有一条暗流潜入，到了埃伦费尔斯手里，这条暗流取得了一种（布伦塔诺派／迈农派的）心理学形态（Höfer 2017, 34–38）[^höfer-2017]。
   - id: 12
     kind: body
     source: |-
       The fundamental question with which Ehrenfels begins is the following: “Is a melody (i) a mere sum [*Zusammenfassung*] of elements, or (ii) something novel in relation to this sum, something that certainly goes hand in hand with but is distinguishable from the sum of elements?” (Ehrenfels 1890, tr. Smith 1988, 83)[^ehrenfels-1890][^smith-1988] According to Ehrenfels, insofar as Mach spoke of *Gestalten* as objects of sensation, he could not have considered them as “mere sum of elements”, but rather as something new. Indeed, Stumpf had formulated a similar conclusion, claiming that with fusion the simple elements in sensation appear as parts of one greater whole: “the qualities are not in the least changed [… ] but a new relation is introduced between them, which establishes a closer unity than that between members of a mere sum” (Stumpf 1890, 64)[^stumpf-1890]. According to Ehrenfels, as soon as one is committed to the idea that something other than the sum of the tones makes up the melody, “one has in effect accepted what we call the tonal *Gestalt*” (Ehrenfels 1890; Smith 1988, 91)[^ehrenfels-1890][^smith-1988]. More precisely:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      埃伦费尔斯由之出发的根本问题是：“旋律（i）是诸元素的单纯总和［*Zusammenfassung*］，还是（ii）相对于这一总和而言的某种新东西——某种确定与之相伴、却可与之区别开来的东西？”（Ehrenfels 1890，tr. Smith 1988, 83）[^ehrenfels-1890][^smith-1988] 在埃伦费尔斯看来，马赫既然把格式塔当作感觉的对象来谈，就不可能把它们视为“诸元素的单纯总和”，而只能视作某种新东西。事实上，斯图姆夫已表述过一个类似的结论：经由融合，感觉中的简单元素显现为一个更大整体的诸部分——“性质丝毫未变［……］，但在它们之间引入了一种新关系，这种关系建立起比单纯总和的成员之间更紧密的统一”（Stumpf 1890, 64）[^stumpf-1890]。按埃伦费尔斯的说法，一旦有人认定除了各音的总和之外还有别的东西构成旋律，他“实际上就已经接受了我们所说的音调格式塔”（Ehrenfels 1890；Smith 1988, 91）[^ehrenfels-1890][^smith-1988]。更确切地说：
+    step2: |-
+      埃伦费尔斯开宗明义的根本问题是：“旋律（i）是诸元素的单纯总和［*Zusammenfassung*］，还是（ii）相对于这个总和而言的某种新东西——它固然与总和结伴而行，却又能与之区分开来？”（Ehrenfels 1890，tr. Smith 1988, 83）[^ehrenfels-1890][^smith-1988] 依埃伦费尔斯之见，马赫既然拿格式塔当感觉对象来说事，就断不至于把它们当作“诸元素的单纯总和”，而只能当新东西看。斯图姆夫其实早已下过近似的断语：经过融合，感觉里的简单元素就作为更大整体的各部分显现出来——“性质分毫未变［……］，只是其间引入了一种新关系，它确立起一种比单纯总和的成员之间更紧密的统一”（Stumpf 1890, 64）[^stumpf-1890]。在埃伦费尔斯看来，谁要是认定旋律并非只由各音之和构成，“谁就实际上接受了我们所谓的音调格式塔”（Ehrenfels 1890；Smith 1988, 91）[^ehrenfels-1890][^smith-1988]。更精确地说：
   - id: 13
     kind: body
     source: |-
       > Let us suppose, on the one hand, that the series of tones *t*₁, *t*₂, *t*₃, …, *t*_{*n*}, on being sounded, is apprehended by a conscious subject *S* as a tonal *Gestalt* (so that the memory-images of all the tones are simultaneously present to him); and let us suppose also that the sum of these *n* tones, each with its particular temporal determination, is brought to presentation by n unities of consciousness in such a way that each of these *n* individuals has in his consciousness only one single tone-presentation. Then the question arises whether the consciousness *S*, in apprehending the melody, brings more to his presentation than the *n* distinct individuals taken together. (Ehrenfels 1890; Smith 1988, 85)[^ehrenfels-1890][^smith-1988]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 让我们一方面假定：音序列 *t*₁, *t*₂, *t*₃, …, *t*_{*n*} 在鸣响时被一个有意识的主体 *S* 觉知为一个音调格式塔（这样一来，所有各音的记忆图像同时向他呈现）；另一方面再假定：这 *n* 个音的总和——每个音都带着其特定的时间规定——由 *n* 个意识统一体带到表象之中，而这 *n* 个个体每一个的意识里只有单独一个音表象。于是问题来了：意识 *S* 在把握这段旋律时，带到其表象中的东西是否多于这 *n* 个不同个体加在一起的东西。（Ehrenfels 1890；Smith 1988, 85）[^ehrenfels-1890][^smith-1988]
+    step2: |-
+      > 且作两重假定。其一：音列 *t*₁, *t*₂, *t*₃, …, *t*_{*n*} 奏响之时，被一个有意识的主体 *S* 把握为一个音调格式塔（此时所有各音的记忆图像同时向他在场）；其二：这 *n* 个音的总和——各音各带其特定的时间规定——由 *n* 个意识统一体带入表象，而 *n* 个个体中的每一个，其意识里只有单独一个音表象。于是问题浮现：意识 *S* 在把握旋律时带入表象的东西，是否多于这 *n* 个互异的个体合在一起所具有的。（Ehrenfels 1890；Smith 1988, 85）[^ehrenfels-1890][^smith-1988]
   - id: 14
     kind: body
     source: |-
       Ehrenfels argues that a *Gestalt* is more (or at least other) than the sum of its parts, which helps to explain how people can remember melodies without having absolute pitch and in different keys, which would be incompatible with the view of melodies as mere sums of tones (Ehrenfels 1890; Smith 1988, 90 ff.)[^ehrenfels-1890][^smith-1988]. Based on these preliminary observations and the rejection of simplistic objections, Ehrenfels introduces his definition of a *Gestalt*:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      埃伦费尔斯论证说，格式塔多于（或至少不同于）其部分之和；这有助于解释人们何以能在没有绝对音感的情况下、并在不同的调上记住旋律——若是把旋律看作单纯的音总和，这一点就说不通（Ehrenfels 1890；Smith 1988, 90 ff.）[^ehrenfels-1890][^smith-1988]。基于这些初步观察以及对简单化反驳的拒斥，埃伦费尔斯给出了他的格式塔定义：
+    step2: |-
+      埃伦费尔斯的论证是：格式塔多于其部分之和——至少也是与之不同的东西。这正好解释了人们为什么没有绝对音感也能记住旋律、换个调也照记不误；倘若旋律真的只是音的总和，这两件事都无从谈起（Ehrenfels 1890；Smith 1988, 90 ff.）[^ehrenfels-1890][^smith-1988]。有了这些初步观察，又挡开了几条把问题简单化的反驳之后，埃伦费尔斯亮出他的格式塔定义：
   - id: 15
     kind: body
     source: |-
       > By a *Gestalt* quality we understand a positive content of presentation bound up in consciousness with the presence of complexes of mutually separable (i.e., independently presentable) elements. That complex of presentations which is necessary for the existence of a given *Gestalt* quality we call the foundation [*Grundlage*] of that quality. (Ehrenfels 1890; Smith 1988, 93)[^ehrenfels-1890][^smith-1988]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 所谓格式塔质，我们指的是一种肯定的表象内容，它在意识中与诸可互相分离（即可以独立地被表象）的元素的复合体的在场绑定在一起。一个给定格式塔质的存在所必需的那个表象复合体，我们称之为该质的基础［*Grundlage*］。（Ehrenfels 1890；Smith 1988, 93）[^ehrenfels-1890][^smith-1988]
+    step2: |-
+      > 我们把格式塔质理解为一种肯定的表象内容：它在意识之中，与诸元素的复合体的在场结为一体，而这些元素可以彼此分离（也就是可以各自独立地被表象）。某一给定格式塔质要存在，所必需的那个表象复合体，我们就叫它这一质的基础［*Grundlage*］。（Ehrenfels 1890；Smith 1988, 93）[^ehrenfels-1890][^smith-1988]
   - id: 16
     kind: body
     source: |-
       Furthermore, he introduces an important distinction here: “We can however exhaustively partition all possible *Gestalt* qualities into the two non-overlapping categories of temporal and non-temporal.” Specifically, in the case of temporal *Gestalt* qualities “at most one element can be given in perceptual presentation”, the rest being available only in memory or anticipation, while non-temporal *Gestalt* qualities “are qualities whose foundation can be given completely in perceptual presentation” (Ehrenfels 1890; Smith 1988, 94)[^ehrenfels-1890][^smith-1988].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，他在这里引入一个重要区分：“不过我们可以把所有可能的格式塔质穷尽地划分为时间性与非时间性这两个不重叠的类。”具体地说，就时间性格式塔质而言，“至多只有一个元素能在知觉表象中被给予”，其余只能在记忆或预期中获得；而非时间性格式塔质“是这样一些质，其基础可以在知觉表象中被完整地给予”（Ehrenfels 1890；Smith 1988, 94）[^ehrenfels-1890][^smith-1988]。
+    step2: |-
+      他在这里还立起一个重要区分：“不过，我们可以把一切可能的格式塔质穷尽地分成两个互不重叠的类：时间性的与非时间性的。”具体而言，时间性格式塔质这边，“知觉表象里至多只能给出一个元素”，其余的只在记忆或预期里够得着；非时间性格式塔质那边，则是“其基础能够在知觉表象中被完整给予的那些质”（Ehrenfels 1890；Smith 1988, 94）[^ehrenfels-1890][^smith-1988]。
   - id: 17
     kind: body
     source: |-
