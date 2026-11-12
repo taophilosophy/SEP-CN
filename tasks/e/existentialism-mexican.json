@@ -2,7 +2,7 @@
   "slug": "existentialism-mexican",
   "kind": "retranslate",
   "zh_doc": "e/existentialism-mexican.md",
-  "state": "s3_checked",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,20 @@
       "actor": "E-main-20261112",
       "at": "2026-11-12T01:30:39Z",
       "evidence": "s3 四检全绿：check_style --strict 0；check_academic --strict OK；check_math formulas 0 / missing 0 / unbalanced 0；check_summary H1 mismatch 0 / HARD 0；check_mulu_s HARD 0；check_terms 登记册自洽 exit 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "E-main-20261112",
+      "at": "2026-11-12T02:19:24Z",
+      "evidence": "r1 冷读对账：全文 285 行逐段回读，对照 yuanwen 核义理与引文（nepantla/zozobra/relajo/apretado 保留原文策略一致、Uranga/Zea/Portilla 引文年份页码逐条核）；结构沿用 s1 五维（headings 4/8/8、markers 66:66、defs 88:88、blocks 61:60 byline 豁免）；实修 2 处：标题实体还原后 SUMMARY/mu-lu-s 同步、'这样的认'→'这样的体认'"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "E-main-20261112",
+      "at": "2026-11-12T02:19:24Z",
+      "evidence": "r2 术语/人名对账：术语 22 行新登（accidentality 偶在性/thrownness 被抛性/being-toward-death 向死存在/vital reason 生命理性/circumstance 境遇/nepantla·zozobra·relajo·relajiento·apretado 保留原文/desgana 不欲/substantialization 实体化/lo mexicano 墨西哥性/charity 爱德 等）、人类 25 行新登（高斯/卡索/乌兰加/塞亚/波蒂利亚/奥尔特加·伊·加塞特/安萨尔杜亚/帕斯/卡斯特利亚诺斯/拉莫斯/巴尔特拉/巴斯孔塞洛斯/波伏娃 等）；正文 Ortega 名按 SUMMARY 统一为“奥尔特加·伊·加塞特”；check_terms 登记册自洽 exit 0，--docs 告警 16 条为全名/姓氏与拉丁缩写体例差异"
     }
   ],
   "blockers": [],
