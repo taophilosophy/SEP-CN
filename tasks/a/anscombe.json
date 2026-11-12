@@ -2,7 +2,7 @@
   "slug": "anscombe",
   "kind": "retranslate",
   "zh_doc": "a/anscombe.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "A-main-20261112",
       "at": "2026-11-12T17:59:04Z",
       "evidence": "check_style 0（补 bold 空格 3 处）、check_academic --strict OK、check_math missing 0、check_terms 硬错 0、check_quotes 0、check_summary 0；术语 10 条与人名 7 条入册；Foot 统一为富特（SUMMARY/mu-lu-s/p 条 H1/正文四处）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T18:27:07Z",
+      "evidence": "冷置后逐段回读全文 331 行并修 7 处：伤/伤=“which is saying something”误译（改“这话分量不轻”）、补 *表明* 强调、the subject of 义（改“作为主体去做的事件”）、意图对象“描述”释义句、被动式“未能相信你”句、可能性、琐屑区分句；语体：现代学术书面语，长复句与术语密度合于百科体例，回读未见文言腔"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T18:27:07Z",
+      "evidence": "逐句对账：marker 88=88 同序、脚注定义 81=81 同集、段落 106=106；h2 11 vs 12、h3 4 vs 3（Acknowledgments 提为 ## 致谢）、年份 206=206（顺序差 2 处系节序）；prose 10 条全在 9 处引块/引语内部，ADR-0020 豁免；术语合登记册（行动/意图/实践知识/实践推理/厚薄概念/认知不义）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T18:27:08Z",
+      "evidence": "终稿验收：check_style 0、check_academic --strict 全库 OK、check_math missing 0 unbalanced 0、check_terms 硬错 0、check_quotes 0、check_summary 0；术语 10 人名 7 入册，Foot 四处统一富特"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T18:27:08Z",
+      "evidence": "A 批 done：anscombe 106 段账本双版、331 行成稿、prose 51→10（引块豁免）、r1 回读修 7 处"
     }
   ],
   "blockers": [],
