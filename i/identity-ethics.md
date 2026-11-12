@@ -1,4 +1,4 @@
-# 人格同一性与伦理学 and ethics (David Shoemaker)
+# 人格同一性与伦理学 and ethics (Annette Dufner)
 
 *首次发表于 2025 年 6 月 30 日。*
 

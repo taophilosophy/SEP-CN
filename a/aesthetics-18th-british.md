@@ -1,4 +1,4 @@
-# 18 世纪的英国美学 18th Century British Aesthetics
+# 18 世纪的英国美学 18th Century British Aesthetics (James Shelley)
 
 **首次发表于 2006 年 7 月 6 日；2022 年 10 月 6 日实质修订。**
 

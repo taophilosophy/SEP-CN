@@ -1,4 +1,4 @@
-# 道德直觉主义 Intuitionism in Ethics
+# 道德直觉主义 Intuitionism in Ethics (Matthew S. Bedke)
 
 *首次发表于 2026 年 7 月 27 日。*
 

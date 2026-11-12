@@ -1,1 +1,1 @@
-# 类别 sortals (Richard E. Grandy and Max A. Freund)
+# 类别 sortals (Max A. Freund and Richard E. Grandy)

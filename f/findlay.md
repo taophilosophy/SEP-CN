@@ -1,1 +1,1 @@
-# J·N·芬德利 John Niemeyer Findlay
+# J·N·芬德利 John Niemeyer Findlay (Douglas Lackey)

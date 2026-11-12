@@ -1,4 +1,4 @@
-# 莱布尼茨对 19 世纪逻辑学的影响 Leibniz’s Influence on 19th Century Logic
+# 莱布尼茨对 19 世纪逻辑学的影响 Leibniz’s Influence on 19th Century Logic (Volker Peckhaus)
 
 **首次发表于 2009 年 9 月 4 日；2024 年 2 月 2 日实质修订。**
 

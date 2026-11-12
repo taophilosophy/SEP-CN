@@ -1,1 +1,1 @@
-# 艺术本体论史 History of the Ontology of Art
+# 艺术本体论史 History of the Ontology of Art (Paisley Livingston)

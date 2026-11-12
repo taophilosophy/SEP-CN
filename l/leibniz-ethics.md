@@ -1,4 +1,4 @@
-# 莱布尼茨的伦理学 ethics (Andrew Youpa)
+# 莱布尼茨的伦理学 ethics (Andrew Youpa and Saja Parvizian)
 
 *首次发表于 2004 年 8 月 26 日；2025 年 6 月 17 日实质修订。*
 

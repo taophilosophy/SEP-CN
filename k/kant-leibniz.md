@@ -1,4 +1,4 @@
-# 莱布尼茨对康德的影响 Leibniz’s Influence on Kant
+# 莱布尼茨对康德的影响 Leibniz’s Influence on Kant (Catherine Wilson)
 
 *首次发表于 2004 年 5 月 21 日；2022 年 5 月 18 日实质修订。*
 

@@ -1,1 +1,1 @@
-# 18 世纪的德国美学 18th Century German Aesthetics
+# 18 世纪的德国美学 18th Century German Aesthetics (Paul Guyer)

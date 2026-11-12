@@ -1,1 +1,1 @@
-# 分析女性主义 Analytic Feminism
+# 分析女性主义 Analytic Feminism (Ann Garry)

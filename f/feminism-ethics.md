@@ -1,1 +1,1 @@
-# 女性主义伦理学 ethics (Kathryn Norlock)
+# 女性主义伦理学 ethics (Kathryn Norlock and Jordan Pascoe)

@@ -1,4 +1,4 @@
-# 可证性逻辑 Provability Logic (Verbrugge, Rineke (L.C.))
+# 可证性逻辑 Provability Logic (Rineke (L.C.) Verbrugge)
 
 *首次发表于 2003 年 4 月 2 日；2024 年 3 月 4 日实质修订。*
 

@@ -1,4 +1,4 @@
-# 宇宙学：20 世纪 30 年代和 40 年代的方法论辩论 Cosmology: Methodological Debates in the 1930s and 1940s
+# 宇宙学：20 世纪 30 年代和 40 年代的方法论辩论 Cosmology: Methodological Debates in the 1930s and 1940s (George Gale)
 
 *首次发表于 2002 年 5 月 18 日；2023 年 9 月 7 日实质修订。*
 

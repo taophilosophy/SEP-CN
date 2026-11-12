@@ -1,1 +1,1 @@
-# 意识的统一性 unity of (Andrew Brook and Paul Raymont)
+# 意识的统一性 unity of (Farid Masrour, Andrew Brook, and Paul Raymont)

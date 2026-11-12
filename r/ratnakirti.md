@@ -1,1 +1,1 @@
-# 宝称 Ratnakīrti (McAllister, Patrick)
+# 宝称 Ratnakīrti (Patrick McAllister)

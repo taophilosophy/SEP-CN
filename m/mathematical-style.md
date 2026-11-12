@@ -1,1 +1,1 @@
-# 数学风格 Mathematical Style
+# 数学风格 Mathematical Style (Paolo Mancosu)

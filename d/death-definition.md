@@ -1,1 +1,1 @@
-# 死亡的定义 definition of (David DeGrazia)
+# 死亡的定义 definition of (Adam Omelianchuk and David DeGrazia)

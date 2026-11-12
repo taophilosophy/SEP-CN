@@ -1,1 +1,1 @@
-# 道德的定义 morality, definition of (Bernard Gert and Joshua Gert)
+# 道德的定义 morality, definition of (Joshua Gert and Bernard Gert)

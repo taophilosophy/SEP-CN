@@ -1,1 +1,1 @@
-# 奥托巴·库加诺 Ottobah Cugoano (LoLordo, Antonia)
+# 奥托巴·库加诺 Ottobah Cugoano (Antonia LoLordo)

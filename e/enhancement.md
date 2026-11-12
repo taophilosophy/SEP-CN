@@ -1,1 +1,1 @@
-# 人类增强 human enhancement (Eric Juengst and Daniel Moseley)
+# 人类增强 human enhancement (Daniel Moseley and Eric Juengst)

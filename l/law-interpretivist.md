@@ -1,1 +1,1 @@
-# 法律解释主义 Legal Interpretivism
+# 法律解释主义 Legal Interpretivism (Nicos Stavropoulos)
