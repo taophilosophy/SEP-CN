@@ -231,6 +231,7 @@
 | Arthur Danto | — | 阿瑟·丹托 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Arthur Eddington | — | 爱丁顿（Arthur Eddington） | — | — | spacetime-convensimul | 学界惯例（物理学通行汉译） | 2026-11-06 |
 | Arthur Schopenhauer | — | 阿图尔·叔本华 | — | — | landmann-kalischer | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-04 |
+| Artiga, Marc | — | 马克·阿蒂加 | — | — | information-biological | 音译（本词条作者）；凭证 2026-11-12 | 2026-11-12 |
 | Āryadeva | — | 提婆 | — | — | gorampa | 龙树弟子、中观论师通行汉译 | 2026-11-09 |
 | Asaṅga | — | 无著 | 古印度／瑜伽行派 | 约 4–5 世纪 | yogacara | 汉传佛典千年通行译名（《摄大乘论》作者）；凭证 2026-11-11 | 2026-11-11 |
 | Asch, Adrienne | — | 阿德里安娜·阿施 | — | — | disability-care-rationing | 学界通行汉译（生物伦理与失能研究）；正文本条仅以姓“阿施”出现；凭证 2026-11-08 | 2026-11-08 |
@@ -606,6 +607,7 @@
 | Cai Yong | — | 蔡邕 | — | — | han-dynasty | 上游自带汉字（东汉文学家） | 2026-11-10 |
 | Cain, Mark | — | 马克·凯恩 | — | — | innateness-cognition | 音译（本词条作者）；凭证 2026-11-12 | 2026-11-12 |
 | Cajetan, Thomas de Vio | — | 托马斯·德·维奥·卡耶坦（通称卡耶坦） | 意大利／天主教托马斯主义 | 1469–1534 | analogy-medieval | 中世纪神哲学通行汉译；凭证 2026-11-08 | 2026-11-08 |
+| Calcott, Brett | — | 布雷特·卡尔科特 | — | — | information-biological | 音译（生物信息哲学）；凭证 2026-11-12 | 2026-11-12 |
 | Caligula | — | 卡利古拉 | — | —；godwin | godwin | 学界通行汉译（罗马皇帝） | 2026-11-10 合并（同键变体，来源列并双 slug） |
 | Calkins, Mary | — | 玛丽·卡尔金斯 | — | — | langer | 美国心理学家、哲学家（哈佛旁听而拒授学位；学界惯用“卡尔金斯”）；凭证 2026-11-08 | 2026-11-08 |
 | Callias | — | 卡利阿斯 | 希腊（雅典） | — | zeno-elea | 学界惯例音译（雅典富豪，智者之学的资助人）；凭证 2026-11-09 | 2026-11-09 |
@@ -1468,6 +1470,7 @@
 | Giuseppe Peano | — | 朱塞佩·皮亚诺 | — | — | 语料回收（全目录） | 审定“皮亚诺”译名系（数学）；凭证 2026-11-01 | 2026-11-01 |
 | Glanvill, Joseph | — | 约瑟夫·格兰维尔 | 英国 | 1636–1680 | cambridge-platonists | 学界通行音译（《撒都该主义之溃败》作者）；凭证 2026-11-09 | 2026-11-09 |
 | Glymour, Clark | — | 克拉克·格利穆尔 | — | — | bayes-theorem | 学界惯例（《理论与证据》作者，通行音译） | 2026-11-05 |
+| Godfrey-Smith, Peter | — | 彼得·戈弗雷-史密斯 | 澳大利亚 | 1965– | information-biological | 音译（生物信息与前词条作者）；凭证 2026-11-12 | 2026-11-12 |
 | Gödel, Kurt | Kurt Gödel | 库尔特·哥德尔 | — | —；logic-fuzzy | deductivism-mathematics | 学界千年通行汉译（不完全性定理）；凭证 2026-11-08 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | Godfrey of Fontaines | — | 方丹的戈弗雷 | — | — | basing→SUMMARY 归一 | SUMMARY 定名（g/godfrey.md“方丹的戈弗雷”）优先于 auriol 语料回收异形（丰泰纳的戈弗雷）；2026-11-08 归一 | 2026-11-08 |
 | Godo, Lluís | — | Lluís Godo | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
@@ -2228,6 +2231,7 @@
 | Kramers, Hendrik | — | 亨德里克·克拉默斯 | — | — | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Krasner, Stephen D. | — | 斯蒂芬·克拉斯纳 | — | — | sovereignty | 学界通行汉译（国际关系研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | Kratz, Frida | — | 弗里达·克拉茨 | 德国 | — | gadamer | 伽达默尔首任妻子，音译；凭证 2026-11-10 | 2026-11-10 |
+| Krebs, John | — | 约翰·克雷布斯 | 英国 | 1945– | information-biological | 音译（动物行为学）；凭证 2026-11-12 | 2026-11-12 |
 | Kreisel, Georg | — | Kreisel | — | — | logical-consequence | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Kretzmann, Norman | — | Norman Kretzmann（现代学者，保留英文） | — | — | william-sherwood | ADR-0022（舍伍德著作校订与英译者） | 2026-11-09 |
 | Krifka, Manfred | — | Manfred Krifka | — | — | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
@@ -2366,6 +2370,7 @@
 | Lévinas, Emmanuel | Emmanuel Lévinas | 埃马纽埃尔·列维纳斯 | — | — | bergson | 学界通行汉译 | 2026-11-08 |
 | Levins, Richard | — | 理查德·莱文斯 | — | — | biology-philosophy | 学界通行汉译（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Levinson, Jerrold | — | 莱文森 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
+| Levy, Arnon | — | 阿尔农·莱维 | 以色列 | — | information-biological | 音译（生物信息虚构主义）；凭证 2026-11-12 | 2026-11-12 |
 | Levy, Azriel | — | 莱维 | — | —；tarski-truth | tarski-truth | 学界通行汉译（集合论学家，Σ_n 公式层级） | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | Lévy, Jean-Jacques | — | Jean-Jacques Lévy | — | — | logic-linear | 无通行汉名，保留英文原名（Lévy 最优归约）；凭证 2026-11-10 | 2026-11-09 |
 | Levy, Steven | — | 史蒂文·利维 | 美国 | 1951– | it-moral-values | 新闻与科技史通行音译（《黑客》作者）；凭证 2026-11-10 | 2026-11-10 |
@@ -2627,6 +2632,7 @@
 | Maximus Confessor | — | 马克西姆·忏悔者 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | May, Karl | — | 卡尔·迈 | — | — | bloch | 学界通行汉译（德国通俗小说家）；凭证 2026-11-07 | 2026-11-07 |
 | Mayer, Tobias | — | 托比亚斯·迈尔 | — | — | newton | 天文学史通行汉译（月球运动理论）；凭证 2026-11-08 | 2026-11-08 |
+| Maynard Smith, John | — | 约翰·梅纳德·史密斯 | 英国 | 1920–2004 | information-biological | 学界通行音译（演化生物学）；凭证 2026-11-12 | 2026-11-12 |
 | Mazu Daoyi | — | 马祖道一 | — | — | buddhism-chan | 佛学界通行汉译（洪州宗开祖） | 2026-11-05 |
 | Mazzini, Giuseppe | — | 朱塞佩·马志尼 | — | — | f/fuller-margaret | 学界通行汉译（意大利统一运动领袖）；凭证 2026-11-11 | 2026-11-11 |
 | McCain, Kevin | — | 凯文·麦凯恩 | — | — | basing-epistemic | 学界惯例（音译，干预主义因果论者）；凭证 2026-11-08 | 2026-11-08 |
@@ -2721,6 +2727,7 @@
 | Miller, Dale | — | Dale Miller | — | — | logic-linear | 无通行汉名，保留英文原名（线性逻辑编程；与 David Miller、Russ Miller 分列）；凭证 2026-11-10 | 2026-11-09 |
 | Miller, David | — | 戴维·米勒 | 英国 | 1946– | cosmopolitanism | 学界通行汉译（《民族性与社会正义》作者）；凭证 2026-11-09 | 2026-11-09 |
 | Miller, Russ | — | 拉斯·米勒 | — | — | social-procedures | 构词直译（算法教材作者）；凭证 2026-11-07 | 2026-11-07 |
+| Millikan, Ruth | — | 露丝·米利肯 | 美国 | 1932– | information-biological | 音译（目的论语义学）；凭证 2026-11-12 | 2026-11-12 |
 | Milne, E. A. | — | 爱德华·亚瑟·米尔恩 | — | — | cosmology-30s | 学界通行音译（E. A. Milne，本词条主角，运动学相对论作者）；凭证 2026-11-08 | 2026-11-08 |
 | Milton, John | — | 约翰·弥尔顿 | — | — | descartes-works | 学界千年通行（《失乐园》作者） | 2026-11-06 |
 | Milverley, John | — | 约翰·米尔弗利 | 英格兰 | 活跃于 15 世纪初 | penbygull | 本词条首译（牛津实在论者，Penbygull 词条提及；无通行汉名） | 2026-11-09 |
@@ -2842,6 +2849,7 @@
 | Narveson, Jan | — | 简·纳维森 | 加拿大 | 1936– | contractarianism | 学界通行汉译（自由至上主义与契约主义，The Libertarian Idea 作者）；凭证 2026-11-10 | 2026-11-09 |
 | Nasafī, ʿAzīz al-Dīn | — | 纳萨菲 | — | — | al-qudat | 学界惯例（波斯苏菲作者，通行音译） | 2026-11-06 |
 | Naṣīr al-Dīn al-Ṭūsī | نصير الدين الطوسي | 纳西尔丁·图西 | 波斯（图斯）／伊斯兰哲学与天文 | 1201–1274 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| Neander, Karen | — | 卡伦·尼安德 | — | — | information-biological | 音译（目的论信息）；凭证 2026-11-12 | 2026-11-12 |
 | Nāṣir-i Khusraw | — | 纳赛尔·霍斯鲁 | — | — | arabic-islamic-mysticism | 伊斯玛仪哲学通行汉译 | 2026-11-07 |
 | Natorp, Paul | — | 保罗·那托普 | 德国 | 1854–1924 | gadamer | SUMMARY 定名沿用（n/natorp.md 作“那托普”）；凭证 2026-11-10 | 2026-11-10 |
 | Nebel, Jacob | — | Jacob Nebel（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09 | 2026-11-09 |
@@ -3158,6 +3166,7 @@
 | Pius VII | — | 庇护七世 | — | — | antonio-rosmini | 教宗通行汉译 | 2026-11-07 |
 | Pivato, Marcus | — | Marcus Pivato | — | — | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
 | Planck, Max | — | 马克斯·普朗克 | — | — | bohr-correspondence | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
+| Planer, Ronald | — | 罗纳德·普拉纳 | — | — | information-biological | 音译（符号与信息）；凭证 2026-11-12 | 2026-11-12 |
 | Plantinga, Alvin | — | 阿尔文·普兰丁格 | 美国 | 1932– | omniscience | 学界通行译名；凭证 2026-11-09 | 2026-11-09 |
 | Planudes, Maximus | Maximus Planudes | 马克西穆斯·普兰努德斯 | 拜占庭 | c. 1260–c. 1310 | bessarion | 本词条首译（拜占庭学者、《希腊文选》编者；学界通行音译） | 2026-11-10 |
 | Platek, Richard | — | Richard Platek | — | — | logic-infinitary | 无通行汉名，保留英文原名（美国逻辑学家，1940– ）；凭证 2026-11-10 | 2026-11-09 |
@@ -3167,6 +3176,7 @@
 | Pliny the Elder | — | 老普林尼 | — | — | agrippa-nettesheim | 千年通行译名（《自然史》作者） | 2026-11-06 |
 | Plumwood, Val | — | Val Plumwood | — | — | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Plutarch | — | 普鲁塔克 | — | — | landmann-kalischer | 千年通行译名（希腊化传记作家） | 2026-11-04 |
+| Pocheville, Arnaud | — | 阿尔诺·波舍维尔 | 法国 | — | information-biological | 音译（因果特异性与信息）；凭证 2026-11-12 | 2026-11-12 |
 | Podolsky, Boris | — | 鲍里斯·波多尔斯基 | 美国 | 1896–1966 | qt-entangle | 学界通行汉译（EPR 论证）；凭证 2026-11-09 | 2026-11-09 |
 | Podong Choklé Namgyel | — | 博东·却列南杰 | — | — | epistemology-language-tibetan | 佛学界通行（Bo dong Phyogs las rnam rgyal） | 2026-11-04 |
 | Pogge, Thomas | — | 托马斯·博格 | — | — | sovereignty | 学界通行汉译（全球正义研究通行“博格”）；凭证 2026-11-07 | 2026-11-07 |
@@ -3475,6 +3485,7 @@
 | Sandra Harding | — | 桑德拉·哈丁 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Saner, Hans | — | Hans Saner（现代学者，保留英文） | — | — | jaspers | ADR-0022：无通行汉名者保留英文（KJG 协作）；凭证 2026-11-09 | 2026-11-09 |
 | Sanford, David H. | — | David Sanford（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文（条件句研究）；凭证 2026-11-09 | 2026-11-09 |
+| Sarkar, Sahotra | — | 萨霍特拉·萨卡尔 | 美国 | — | information-biological | 音译（生物学哲学）；凭证 2026-11-12 | 2026-11-12 |
 | Śaṅkara | शङ्कर | 商羯罗 | 南印度（迦拉迪，喀拉拉）／不二论吠檀多 | c. 700–750 | kumaarila | 印度哲学史学界通行（不二论吠檀多，约八世纪） | 2026-11-05 |
 | Śāntarakṣita | शान्तरक्षित | 寂护 | 孟加拉／佛教中观与瑜伽行 | 725–788 | abhidharma | 佛学界通行汉译；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | Santayana, George | — | 乔治·桑塔亚那 | — | — | environmental-aesthetics | 学界通行汉译 | 2026-11-08 |
@@ -3496,6 +3507,7 @@
 | Scanlon, T. M. | — | 托马斯·M. 斯坎伦 | 美国／哲学家 | 1940– | reflective-equilibrium | 学界通行汉译（《我们彼此负有什么义务》作者）；凭证 2026-11-11 | 2026-11-11 |
 | Scanlon, Thomas | — | 托马斯·斯坎伦 | — | — | ethics-deontological | 学界通行汉译（《我们彼此负有什么义务》作者） | 2026-11-04 |
 | Scanu, Maria | — | 玛丽亚·斯坎努 | — | — | erotic-art | 学界惯例音译（雕塑家） | 2026-11-08 |
+| Scarantino, Andrea | — | 安德烈亚·斯卡兰蒂诺 | 意大利／美国 | — | information-biological | 音译（动物信号与信息）；凭证 2026-11-12 | 2026-11-12 |
 | Scarpellini, Bruno | — | Bruno Scarpellini | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Schaefer, Thomas | — | 托马斯·谢弗 | 美国 | 1947– | computability | 学界通行音译（布尔可满足性二分定理）；凭证 2026-11-10 | 2026-11-09 |
 | Schaffer, Jonathan | — | 乔纳森·谢弗 | — | — | basing-epistemic | 学界惯例（音译，形而上学家，“贬损恶魔”提出者）；凭证 2026-11-08 | 2026-11-08 |
@@ -3593,6 +3605,7 @@
 | Sharpe, Johannes | — | 约翰·夏普 | — | — | alyngton | SUMMARY 定名沿用（牛津实在论者） | 2026-11-06 |
 | Shatz, David | — | 大卫·沙茨 | — | — | closure-epistemic | 学界通行音译（诺齐克知识论批评）；凭证 2026-11-08 | 2026-11-08 |
 | Shaun Nichols | — | 肖恩·尼科尔斯 | — | — | 语料回收（全目录） | 学界惯例（实验哲学/道德心理）；凭证 2026-11-01 | 2026-11-01 |
+| Shea, Nicholas | — | 尼古拉斯·谢伊 | 英国 | — | information-biological | 音译（继承系统与信息）；凭证 2026-11-12 | 2026-11-12 |
 | Sheffer, Henry Maurice | — | 亨利·谢弗 | — | — | langer | 学界惯例（逻辑史通行汉译）；凭证 2026-11-08 | 2026-11-08 |
 | Sheikh Farid | — | 谢赫·法里德 | 印度（旁遮普） | 约 1173–1266 | sikh-philosophy | 学界通行（苏非诗人，GG 收录） | 2026-11-09 |
 | Shelley, Percy Bysshe | — | 珀西·比希·雪莱 | — | — | environmental-aesthetics | 千年通行 | 2026-11-08 |
@@ -3647,6 +3660,7 @@
 | Skinner, B.F. | — | B.F.斯金纳 | — | — | behaviorism | 学界通行汉译（《瓦尔登湖第二》作者） | 2026-11-05 |
 | Skolem, Thoralf | — | 斯科伦 | — | —；tarski-truth；lvov-warsaw | tarski-truth | 学界通行汉译（挪威逻辑学家，斯科伦函数） | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | Skow, Bradford | — | 布拉德福德·斯科 | 美国 | — | imaginative-resistance | 音译（形而上学与美学）；凭证 2026-11-12 | 2026-11-12 |
+| Skyrms, Brian | — | 布赖恩·斯凯姆斯 | 美国 | 1938– | information-biological | 音译（信号博弈）；凭证 2026-11-12 | 2026-11-12 |
 | Slaney, John | — | John Slaney | — | —；logic-substructural | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 合并（同键变体，来源列并双 slug） |
 | Slechta, Jan | — | 扬·斯莱赫塔 | — | — | erasmus | 学界惯例（波希米亚人文主义者通译） | 2026-11-04 |
 | Slingerland, Edward | — | 森舸澜 | — | — | chinese-phil-science | 学界通行（汉名森舸澜，先秦思想与认知科学）；凭证 2026-11-07 | 2026-11-07 |
@@ -3728,6 +3742,7 @@
 | Steen, Mark | — | Mark Steen | — | — | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Stefan George | — | 斯特凡·格奥尔格 | — | — | landmann-kalischer | 学界通行汉译（德国诗人，格奥尔格圈核心）；待 specs/008 审定库复核 | 2026-11-04 |
 | Stefan Müller-Doohm | — | 施特凡·米勒-多姆 | 德国／社会学家（阿多诺传记作者） | 生卒待核 | adorno | 学界通行音译（《阿多诺传》中译本通行）；凭证 2026-11-10 | 2026-11-10 |
+| Stegmann, Ulrich | — | 乌尔里希·施特格曼 | 德国 | — | information-biological | 音译（遗传信息）；凭证 2026-11-12 | 2026-11-12 |
 | Stein, Howard | — | 霍华德·斯坦 | 美国／科学哲学 | 1929– | newton-philosophy | 学界惯例音译（科学哲学家，牛顿时空研究） | 2026-11-10 |
 | Stein, Karl von | — | 卡尔·冯·施泰因 | 德国／普鲁士改革 | 1757–1831 | august-rehberg | 学界通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | Stein, Michael | — | 迈克尔·斯坦 | — | — | disability-care-rationing | 学界通行汉译（法学与分配正义，功利主义辩护）；首现括注；凭证 2026-11-08 | 2026-11-08 |

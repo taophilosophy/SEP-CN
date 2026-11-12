@@ -12,6 +12,7 @@
 | A Modern Elementary Logic | — | 《逻辑学现代基础》 | 首译（stebbing） | 斯泰宾著作（1943）；书名体例译；凭证 2026-11-09 | 2026-11-09 |
 | A Modern Introduction to Logic | — | 《逻辑学现代导论》 | 首译（stebbing） | 斯泰宾著作（1930）；书名体例译；凭证 2026-11-09 | 2026-11-09 |
 | A New Elucidation of the First Principles of Metaphysical Cognition | — | 《形而上学认识诸第一原则的新阐明》（简称《新阐明》） | kant-science | 学界通行；kant-leibniz 短形先例 | 2026-11-05 |
+| Shannon information | — | 香农信息 | information-biological | 学界通行；凭证 2026-11-12 | 2026-11-12 |
 | Simple View | — | 简单观点 | intention | 首译（Bratman 1987 命名）；凭证 2026-11-12 | 2026-11-12 |
 | a posteriori | a posteriori | 后验 | logical-consequence | 哲学通行译法；凭证 2026-11-09；拉丁/德语原形即键（2026-11-10 取证） | 2026-11-09 |
 | a posteriori necessity | — | 后天必然性 | 首现（zombies） | 学界惯例（同上）；凭证 2026-11-10 | 2026-11-10 |
@@ -342,6 +343,7 @@
 | arbitration operator | — | 仲裁算子 | belief-merging | 学界通行（信念合并文献）；凭证 2026-11-10 | 2026-11-10 |
 | arché | ἀρχή | 本原（亦作“始基”） | 语料回收 | 学界惯例（前苏格拉底希腊哲学术语）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | Archeus | — | 阿尔凯厄斯 | locke-on-medicine | 赫尔蒙特研究通行（掌控器官运作的准精神实体） | 2026-11-05 |
+| arbitrariness | — | 任意性 | information-biological | 学界通行（遗传密码之任意性）；凭证 2026-11-12 | 2026-11-12 |
 | archimedean property | — | 阿基米德性质 | repugnant-conclusion | 审定名词库数学通行译名；凭证 2026-11-11 | 2026-11-11 |
 | aretaic | — | 德性的（aretaic） | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | aretê | ἀρετή | 德性（亦作“卓越”） | 语料回收 | 学界惯例（希腊哲学术语）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
@@ -752,6 +754,7 @@
 | Chunqiu Fanlu | 春秋繁露 | 《春秋繁露》 | han-dynasty | 学界通行学名 | 2026-11-10 |
 | Church Fathers | — | 教父 | ancient-soul 首译 | 学界通行（基督教思想史） | 2026-11-09 |
 | all-out judgement | — | 全盘判断 | intention | 首译（Davidson 1978 全盘评价判断）；凭证 2026-11-12 | 2026-11-12 |
+| central dogma | — | 中心法则 | information-biological | 学界通行（分子生物学）；凭证 2026-11-12 | 2026-11-12 |
 | chymistry | — | 化学论（早期近代“化学”） | locke-on-medicine | 化学史 Newman 传统通行（chymical 形容词作“化学论的”，以别于后牛顿化学） | 2026-11-05 |
 | ch’e-yong（體用） | 體用 | 体用 | korean-philosophy | 汉文传统写法（儒佛共享范式；源文汉字 體用） | 2026-11-05 |
 | ciphers of transcendence | Chiffre | 超越之密码 | jaspers 首译 | 学界通行（雅斯贝尔斯密码学说；Chiffre 密码）；凭证 2026-11-09 | 2026-11-09 |
@@ -802,6 +805,7 @@
 | co-consciousness | — | 共同意识 | kant-transcendental | 本词条首译（Howell 1992 共同被意识之义）；凭证 2026-11-11 | 2026-11-11 |
 | co-constitutive | — | 共同构成的 | model-organisms 首译 | 本词条术语（Ankeny & Leonelli 的 co-constitutive）；凭证 2026-11-09 | 2026-11-09 |
 | coalition formation | — | 联盟形成 | s/social-procedures 首译 | 学界通行译法（多智能体研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| codon | — | 密码子 | information-biological | 学界通行；凭证 2026-11-12 | 2026-11-12 |
 | codon bias | — | 密码子偏倚 | ecological-genetics 首译 | 学界通行译名（亦作“密码子偏好性”）；凭证 2026-11-09 | 2026-11-09 |
 | cofinality | — | 共尾性 | quine-nf | 集合论通行译名；凭证 2026-11-09 | 2026-11-09 |
 | cogito | cogito | 我思（笛卡尔 cogito ergo sum） | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；凭证 2026-11-04 | 2026-11-04 |
@@ -1063,6 +1067,7 @@
 | correct / incorrect conventional | — | 正世俗／倒世俗 | epistemology-language-tibetan | 中观学通行 | 2026-11-04 |
 | corrective justice | — | 矫正正义（亚里士多德；与分配正义相对） | 语料回收 | 学界惯例（亚里士多德正义论通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | correctness criterion | — | 正确性判据 | logic-linear | 证明网文献通行译法；凭证 2026-11-10 | 2026-11-09 |
+| correlational information | — | 关联信息 | information-biological | 学界通行（香农信息）；凭证 2026-11-12 | 2026-11-12 |
 | correlative cosmology | 关联性宇宙论 | 关联性宇宙论 | chinese-phil-science | 学界通行（参 Graham《阴阳与关联思维》）；凭证 2026-11-07 | 2026-11-07 |
 | correspondence principle | — | 对应原理 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | correspondence theory of truth | — | 真理符合论 | 首现（truth-coherence） | 学界通行（与 truth-coherence 词条配对；SUMMARY 定名）；凭证 2026-11-07 | 2026-11-07 |
@@ -1178,6 +1183,7 @@
 | de se | — | 涉己的 | 首现（erotic-art） | 分析哲学通行（拉丁 de se，与 de dicto 相对） | 2026-11-08 |
 | De Sophisticis Elenchis | De Sophisticis Elenchis | 《辨谬篇》 | richard-sophister | 学界通行汉译（亚里士多德著作通行译名） | 2026-11-04 |
 | De translatione imperii | — | 《帝国的转移》 | marsilius-padua | 学界通行汉译（马西利乌斯据科隆纳论著改写）；凭证 2026-11-08 | 2026-11-08 |
+| cue | — | 线索 | information-biological | 学界通行（与信号对举）；凭证 2026-11-12 | 2026-11-12 |
 | deafferented | — | 去传入 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | debasement (of currency) | — | 铸币贬值 | nicole-oresme | 货币史通行；凭证 2026-11-08 | 2026-11-08 |
 | debasing demon | — | 贬损恶魔 | basing-epistemic 首译 | 谢弗术语构词直译（debase=贬损，与笛卡尔恶魔对举）；凭证 2026-11-08 | 2026-11-08 |
@@ -2190,6 +2196,7 @@
 | heterozygote advantage | — | 杂合子优势 | ecological-genetics 首译 | 学界通行译名（群体遗传学文献）；凭证 2026-11-10 | 2026-11-10 |
 | hetu | हेतु | 因（证因） | jaina-philosophy | 因明传统译名（三支／五支之“因”） | 2026-11-08 |
 | Hetubindu | — | 《因滴论》 | yogacara 首译 | 梵题汉译（法称造，无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| functional reference | — | 功能指称 | information-biological | 学界通行（动物交流）；凭证 2026-11-12 | 2026-11-12 |
 | guiding desire | — | 引导性欲求 | intention | 首译（Bratman 1987 对 intention 的替代分析）；凭证 2026-11-12 | 2026-11-12 |
 | hetvābhāsa | हेत्वाभास | 推理谬误（似因） | early-modern-india | 因明“似因”通行（fallacy）；凭证 2026-11-11 | 2026-11-11 |
 | hexagon of opposition | — | 对当六角形 | 首现（william-sherwood） | 学界惯例（舍伍德纳入单称命题后的方阵扩展）；凭证 2026-11-07 | 2026-11-07 |
@@ -2279,6 +2286,7 @@
 | humanistic ethics | — | 人本主义伦理 | african-ethics 首译 | 非洲伦理学语境通行（Gyekye 研究中译惯例）；凭证 2026-11-09 | 2026-11-09 |
 | humanitarian intervention | — | 人道主义干预 | s/sovereignty 首译 | 学界通行译名（国际法／政治学通行）；凭证 2026-11-07 | 2026-11-07 |
 | Humean mosaic | — | 休谟式马赛克 | quantum-bayesian | 刘易斯形而上学学界通译（休谟随附性图景：全部局部特殊事实的排列）；联网查证 2026-11-12 | 2026-11-12 |
+| genetic code | — | 遗传密码 | information-biological | 学界通行；凭证 2026-11-12 | 2026-11-12 |
 | humility | — | 谦卑 | modesty-humility | 学界通行译法（与 modesty“谦逊”区分；凭证 2026-11-06） | 2026-11-06 |
 | humility theory of wisdom | — | 智慧的谦逊理论 | 首现（wisdom） | 学界惯例（Ryan 词条分类）；凭证 2026-11-07 | 2026-11-07 |
 | humours | — | 体液 | locke-on-medicine | 医史通行（盖伦四体液：血液/黑胆/黄胆/黏液） | 2026-11-05 |
@@ -2473,6 +2481,7 @@
 | information link | — | 信息联系 | logic-relevance | 信息论解释术语直译；凭证 2026-11-09 | 2026-11-09 |
 | information philosophy | — | 信息哲学 | 首现（it-moral-values） | 哲学通行译名（Floridi）；凭证 2026-11-10 | 2026-11-10 |
 | information warfare | — | 信息战 | 首现（it-moral-values） | 军事与信息安全通行译名；凭证 2026-11-10 | 2026-11-10 |
+| informational content | — | 信息内容 | information-biological | 学界通行；凭证 2026-11-12 | 2026-11-12 |
 | informational unencapsulation | — | 信息非封装性 | f/frame-problem 首译 | 构词直译（Fodor 术语，informationally unencapsulated → 信息上不封装）；凭证 2026-11-10 | 2026-11-10 |
 | informed consent | — | 知情同意 | 语料回收 | 审定名词库（termonline-all·自然辩证法名词·科技伦理，2026-10-29 浏览器通道凭证） | 2026-10-29 |
 | Ingsoc | — | 英社 | 语料回收（lakatos 首译） | 《一九八四》通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -3287,6 +3296,7 @@
 | mutakallimūn | مُتَكَلِّمُون | 凯拉姆学者（亦作“教义学家”） | 语料回收 | 学界惯例（伊斯兰哲学）；审定库无相关命中（凭证 2026-10-31）；审定库精确查无（凭证 2026-10-31） | 2026-10-31 |
 | mutakhayyila | متخیلة | 想象力（阿维森纳 cogitative 官能；与 takhayyul 想象官能相区分） | arabic-islamic-phil-math | 译名裁定（Black 2013 cogitative power 语境） | 2026-11-08 |
 | mutation-selection balance | — | 突变-选择平衡 | ecological-genetics 首译 | 学界通行译名；凭证 2026-11-09 | 2026-11-09 |
+| mutual information | — | 互信息 | information-biological | 学界通行（信息论）；凭证 2026-11-12 | 2026-11-12 |
 | mutual recognition | — | 相互承认 | ricoeur | 利科《承认的过程》主题词；学界惯例；凭证 2026-11-11 | 2026-11-11 |
 | muʿjiza | معجزة | 奇迹 | ibn-kammuna | 伊斯兰神学通行（阿拉伯语 miracle；专指先知所行之证验）；凭证 2026-11-10 | 2026-11-10 |
 | Muʿtazila / Muʿtazilism | مُعْتَزِلَة | 穆尔太齐赖派 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
@@ -3684,6 +3694,7 @@
 | parāmarśa | परामर्श | 省察 | early-modern-india | 新正理推理义译（consideration；结论前合并两前提之觉知）；凭证 2026-11-10 | 2026-11-10 |
 | paramātman | परमात्मन् | 最高我／神的自我 | early-modern-india | 印度哲学通行义译（divine self）；凭证 2026-11-10；正文随文作“神的自我”（校 2026-11-11）| 2026-11-10 |
 | paraphrase | — | 改写 | f/falaquera 首译 | 译学通行译法（与 translation 翻译分义；paraphraser 改写者）；凭证 2026-11-11 | 2026-11-11 |
+| parity thesis | — | 对等论题 | information-biological | 首译（DST  Griffiths & Gray）；凭证 2026-11-12 | 2026-11-12 |
 | parārdha | परार्ध | 极大数 | early-modern-india | 胜论数目名（源文记作 1014〔上游掉上标，照源〕）；凭证 2026-11-10 | 2026-11-10 |
 | parārtha | परार्थ | 为他推理 | early-modern-india | 同上（for others）；凭证 2026-11-11 | 2026-11-11 |
 | parārthānumāna | परार्थानुमान | 为他比量 | jaina-philosophy | 因明传统译名（陈那系统） | 2026-11-08 |
@@ -4292,6 +4303,7 @@
 | reason why | — | 原因性理由（何以如此的理由） | necessary-sufficient | 本词条核心区分（解释性关系）；凭证 2026-11-08 | 2026-11-08 |
 | reasoner | — | 推理机 | ontology-is | 知识工程通行（inference engine 推理引擎）；凭证 2026-11-11 | 2026-11-11 |
 | Rechtschaffenheit | — | 追求正当 | dilthey 首译 | 狄尔泰伦理学三动因之二（德语原义“正直”）；本词条括注原文；凭证 2026-11-11 | 2026-11-11 |
+| receiver | — | 接收者 | information-biological | 学界通行（发送者-接收者框架）；凭证 2026-11-12 | 2026-11-12 |
 | recidivist suspense | — | 重看者的悬念 | paradox-suspense | 构词直译（recidivist 指反复观看同一叙事者，正文作“重看者”）；凭证 2026-11-09 | 2026-11-09 |
 | recipient | — | 受赠者 | justice-moral-psych | 独裁者博弈文献通行译法；凭证 2026-11-10 | 2026-11-10 |
 | reciprocal altruism | — | 互惠利他 | s/social-procedures 首译 | 学界通行译法（生物学哲学与演化伦理学通行）；凭证 2026-11-07 | 2026-11-07 |
@@ -4732,9 +4744,11 @@
 | Siddham / shittan | 悉曇 | 悉昙 | kukai | 佛学界传统译名（梵字悉昙书体） | 2026-11-09 |
 | siddhānta-lakṣaṇa | सिद्धान्तलक्षण | 宗义相 | early-modern-india | 新正理通行义译（Gaṅgeśa 遍充终极定义）；凭证 2026-11-10 | 2026-11-10 |
 | Siddhānta-muktāvalī | सिद्धान्तमुक्तावली | 《宗义摩尼鬘》 | early-modern-india | 新正理教科书书名义译（muktāvalī=鬘/璎珞）；凭证 2026-11-10；原文取证（wisdomlib.org Monier-Williams 词条显式配对，2026-11-10） | 2026-11-10 |
+| sender | — | 发送者 | information-biological | 学界通行（发送者-接收者框架）；凭证 2026-11-12 | 2026-11-12 |
 | side condition | — | 附加条件 | schema | 学界惯例（数理逻辑通行；亦作“侧条件”） | 2026-11-06 |
 | side effect | — | 副作用 | double-effect 首译 | 双效原则语境通行译名（仅为预见、非意图的后果）；凭证 2026-11-11 | 2026-11-11 |
 | sidereal time | — | 恒星时 | newton-principia | 天文学通行；凭证 2026-11-11 | 2026-11-11 |
+| signal | — | 信号 | information-biological | 学界通行（与线索对举）；凭证 2026-11-12 | 2026-11-12 |
 | ṣifāt | — | 属性 | 首现（theology-aristotle） | 学界惯例（伊斯兰神学'神之属性'，正文保留原词）；凭证 2026-11-08 | 2026-11-08 |
 | significant form | — | 有意味的形式 | 首现（erotic-art） | 美学通行（Clive Bell 术语；旧译“有意义的形式”） | 2026-11-08 |
 | significatio | significatio | 意涵（阿伯拉尔） | 首现（abelard） | 学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
@@ -5193,6 +5207,7 @@
 | Ten Commandments | — | 十诫 | 语料回收（标题词） | 学界惯例（宗教学通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | Ten Unhistorical Aphorisms | — | 《十则非历史的箴言》 | s/scholem 首译 | 构词直译（朔勒姆短文）；凭证 2026-11-08 | 2026-11-08 |
 | Ten Wings | — | 十翼 | 语料回收（标题词） | 学界惯例（学界惯例（易经 Commentary 通行）；审定“十问”异域不采）；凭证 2026-11-01 | 2026-11-01 |
+| teleological information | — | 目的论信息 | information-biological | 学界通行；凭证 2026-11-12 | 2026-11-12 |
 | tenacity | — | 黏着性 | newton-principia | 牛顿流体力学通行（与黏滞性分列）；凭证 2026-11-11 | 2026-11-11 |
 | tendency (Tendenz) | — | 趋势 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | tendency to competence | — | 胜任倾向 | jury-theorems | 学界惯例（本词条定名）；凭据 2026-11-02 | 2026-11-02 |

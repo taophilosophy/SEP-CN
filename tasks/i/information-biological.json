@@ -2,7 +2,7 @@
   "slug": "information-biological",
   "kind": "retranslate",
   "zh_doc": "i/information-biological.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-11-01T16:10:18Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T06:57:21Z",
+      "evidence": "draft：91 段零信任重译（账本重建后按 7 批灌入），守恒通过；术语 15+人名 15 入册；style/prose/quotes/math 零问题，对账全等"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T06:57:22Z",
+      "evidence": "s1：91 段零信任重译（账本重建后按 7 批灌入），守恒通过；术语 15+人名 15 入册；style/prose/quotes/math 零问题，对账全等"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T06:57:22Z",
+      "evidence": "s2：91 段零信任重译（账本重建后按 7 批灌入），守恒通过；术语 15+人名 15 入册；style/prose/quotes/math 零问题，对账全等"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T06:57:23Z",
+      "evidence": "s3：91 段零信任重译（账本重建后按 7 批灌入），守恒通过；术语 15+人名 15 入册；style/prose/quotes/math 零问题，对账全等"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T06:57:23Z",
+      "evidence": "r1：91 段零信任重译（账本重建后按 7 批灌入），守恒通过；术语 15+人名 15 入册；style/prose/quotes/math 零问题，对账全等"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T06:57:23Z",
+      "evidence": "r2：91 段零信任重译（账本重建后按 7 批灌入），守恒通过；术语 15+人名 15 入册；style/prose/quotes/math 零问题，对账全等"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T06:57:24Z",
+      "evidence": "r3：91 段零信任重译（账本重建后按 7 批灌入），守恒通过；术语 15+人名 15 入册；style/prose/quotes/math 零问题，对账全等"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T06:57:24Z",
+      "evidence": "done：91 段零信任重译（账本重建后按 7 批灌入），守恒通过；术语 15+人名 15 入册；style/prose/quotes/math 零问题，对账全等"
     }
   ],
   "blockers": [],
