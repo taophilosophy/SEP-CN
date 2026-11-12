@@ -193,9 +193,9 @@ outline: [1, 6]
 
 ### 经院哲学的诞生
 
-#### 理性主义神学（唯理论）
+#### 理性神学与辩证法之争
 
-> 本节含反辩证法一极（彼得·达米安），以见十一世纪理性与信仰之争的张力；安瑟伦“信仰寻求理解”为唯理论一路之典型。
+> 本节含反辩证法一极（彼得·达米安），以见十一世纪理性与信仰之争的张力；安瑟伦“信仰寻求理解”为理性神学一路之典型。
 
 * [伯多禄·达弥盎 Peter Damian (Toivo J. Holopainen)](p/peter-damian.md)
 * [坎特伯雷的安瑟伦 Anselm of Canterbury (Thomas Williams)](a/anselm.md)
@@ -730,7 +730,7 @@ outline: [1, 6]
 * [恩斯特·卡西尔 Ernst Cassirer (Michael Friedman)](c/cassirer.md)
 * [汉斯·费英格 Hans Vaihinger (Timothy Stoll)](v/vaihinger.md)
 
-### 英国唯心论与实在论
+### 英国观念论与实在论
 
 * [托马斯·希尔·格林 Thomas Hill Green (David Brink)](g/green.md)
 * [詹姆斯·沃德 James Ward (Pierfrancesco Basile)](j/james-ward.md)
@@ -767,7 +767,7 @@ outline: [1, 6]
 * [莫里斯·梅洛-庞蒂 Maurice Merleau-Ponty (Ted Toadvine)](m/merleau-ponty.md)
 * [安东·马蒂 Anton Marty (Robin Rollinger、Hynek Janousek)](m/marty.md)
 
-### 存在主义与解释学
+### 存在主义与诠释学
 
 * [威廉·狄尔泰 Wilhelm Dilthey (Rudolf Makkreel)](d/dilthey.md)
 * [存在主义 Existentialism (Kevin Aho)](e/existentialism.md)
@@ -965,7 +965,7 @@ outline: [1, 6]
 * [格肖姆·朔勒姆 Gershom Scholem (Daniel Weidner)](s/scholem.md)
 * [耶沙亚胡·莱博维茨 Yeshayahu Leibowitz (Daniel Rynhold)](l/leibowitz-yeshayahu.md)
 
-# 欧美以外哲学史
+# 世界哲学（欧洲以外）
 
 ## 中国哲学
 
@@ -1702,7 +1702,7 @@ outline: [1, 6]
 * [知识证成的内在主义与外在主义观念 Internalist vs. Externalist Conceptions of Epistemic Justification (Clayton Littlejohn)](j/justep-intext.md)
 * [怀疑论 Skepticism (Juan Comesaña、Peter Klein)](s/skepticism.md)
 
-### 知识论
+### 认识论总论
 
 * [确定性 Certainty (Baron Reed)](c/certainty.md)
 * [认识论 Epistemology (Matthias Steup、Ram Neta)](e/epistemology.md)
