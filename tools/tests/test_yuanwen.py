@@ -178,6 +178,52 @@ class TestMathFidelity(unittest.TestCase):
         self.assertNotIn('pdf', text)
 
 
+class TestAuditFixes20261113(unittest.TestCase):
+    """specs/018 逐段审计发现的三类系统性转换缺陷的回归测试。"""
+
+    def test_em_boundary_spaces_moved_outside(self):
+        # em 内尾随空格是词间分隔，strip 后粘字（abduction §1.1 *abductive*ones）
+        self.assertEqual(inline_to_md('<em>abductive </em>ones'), '*abductive* ones')
+        self.assertEqual(inline_to_md('a<em> x</em>b'), 'a *x*b')
+        self.assertEqual(inline_to_md('<strong>word </strong>next'), '**word** next')
+        # 干净内容行为不变
+        self.assertEqual(inline_to_md('<em>x</em>'), '*x*')
+        # 空内容降级为纯空白，不产空星对
+        self.assertEqual(inline_to_md('a<em> </em>b'), 'a b')
+
+    def test_b_tag_bold_preserved(self):
+        # <b> 旧无转换规则、被兜底剥标签丢加粗（abduction 书目 Peirce [CP] 条）
+        self.assertEqual(inline_to_md('Peirce, C. S. [<b>CP</b>]'), 'Peirce, C. S. [**CP**]')
+        self.assertEqual(inline_to_md('<b>P</b>(<em>H</em>)'), '**P**(*H*)')
+        # 星交错复杂内容维持既有降级路径（无星流奇偶错乱）
+        self.assertEqual(inline_to_md('<b><em>x</em>+1</b>'), '*x*+1')
+
+    def test_blockquote_br_keeps_line_structure(self):
+        # 引块内三行逻辑图式不得并行成单行（abduction §1.1 两处）
+        html = ('<blockquote><p>All <i>A</i>s are <i>B</i>s.<br />'
+                '<i>a</i> is an <i>A</i>.<br />Hence, <i>a</i> is a <i>B</i>.</p></blockquote>')
+        ctx = Ctx('t')
+        render_blocks(extract_blocks_raw(html), ctx)
+        self.assertIn('> All *A*s are *B*s.\n> *a* is an *A*.\n> Hence, *a* is a *B*.',
+                      '\n'.join(ctx.out))
+
+    def test_blockquote_br_bare_text_lines(self):
+        # 无 <p> 包装的引块裸文本同样保行结构（abduction 佛兰德图式）
+        html = '<blockquote>96 per cent speak Dutch and French.<br />Louise is Flemish.</blockquote>'
+        ctx = Ctx('t')
+        render_blocks(extract_blocks_raw(html), ctx)
+        self.assertIn('> 96 per cent speak Dutch and French.\n> Louise is Flemish.',
+                      '\n'.join(ctx.out))
+
+    def test_br_outside_blockquote_unchanged(self):
+        # 非引块上下文 <br> 行为不变（最小爆炸半径）；表格/列表容器区内亦然
+        self.assertEqual(inline_to_md('a<br />b'), 'a b')
+        html = '<blockquote><ul><li>a<br />b</li></ul></blockquote>'
+        ctx = Ctx('t')
+        render_blocks(extract_blocks_raw(html), ctx)
+        self.assertIn('- a b', '\n'.join(ctx.out))
+
+
 class TestGuardRails(unittest.TestCase):
     """上游噪声与公式护栏边界（ADR-0016 一致性收口补测）。"""
 

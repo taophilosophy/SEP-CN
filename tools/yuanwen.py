@@ -220,6 +220,59 @@ def _subsup_md(inner, mapping, marker):
     return marker % inner
 
 
+def _md_emphasis(inner):
+    """<em>/<i> → *…*：标签内首尾空白移到星号外侧。
+
+    em 内尾随空格常是词间分隔（<em>abductive </em>ones），strip 后粘字成
+    *abductive*ones（2026-11-13 逐段审计实证，abduction §1.1 等 3 处）；
+    移出后的空白由 inline_to_md 尾部折叠归一，星内不留空白（CommonMark
+    翼规则下星内空白永不渲染）。空内容降级为纯空白，不产空星对。"""
+    core = inner.strip()
+    if not core:
+        return ' ' if inner else ''
+    pre = ' ' if inner[:1].isspace() else ''
+    post = ' ' if inner[-1:].isspace() else ''
+    return '%s*%s*%s' % (pre, core, post)
+
+
+def _md_bold_tag(m):
+    """<strong>/<b> → **…**：空白处理同 _md_emphasis。
+
+    内容含星（内层 em 已转出）时降级 <b> raw 待兜底剥除——星流奇偶错乱
+    防线（2026-10-30 裁定）不变；本次修正仅把此前无任何规则、被行末兜底
+    剥标签而丢失加粗的纯 <b>（数学记号粗体、[CP] 类缩写，abduction 书目
+    Peirce 条实证）转为 md 粗体。"""
+    inner = m.group(1)
+    core = inner.strip()
+    if not core:
+        return ' ' if inner else ''
+    pre = ' ' if inner[:1].isspace() else ''
+    post = ' ' if inner[-1:].isspace() else ''
+    if '*' in core:
+        return '%s<b>%s</b>%s' % (pre, core, post)
+    return '%s**%s**%s' % (pre, core, post)
+
+
+BR_LINE_RE = re.compile(r'\s*<br\s*/?>\s*', re.I)  # 两侧空白一并吞：行尾不得残留空格
+BR_KEEP_ZONE_RE = re.compile(
+    r'<(?:table|ul|ol|dl|pre)\b.*?</(?:table|ul|ol|dl|pre)>', re.S | re.I)
+BR_MARK = '\x00BRL\x00'  # 引块内 <br> 行标记：非空白非标签，行内转换全程透明
+
+
+def _split_br_lines(inner):
+    """引块内 <br> 行结构 → 行标记（诗节/逻辑图式逐行，2026-11-13 审计
+    实证 abduction 两处三行图式被并行成单行）；标记由 blockquote 分支在
+    渲染后还原为换行，紧贴成行、不引入段间空行。表格/列表/定义/代码
+    区内 <br> 维持旧行为（转空格），不动容器结构。"""
+    out, last = [], 0
+    for m in BR_KEEP_ZONE_RE.finditer(inner):
+        out.append(BR_LINE_RE.sub(BR_MARK, inner[last:m.start()]))
+        out.append(m.group(0))
+        last = m.end()
+    out.append(BR_LINE_RE.sub(BR_MARK, inner[last:]))
+    return ''.join(out)
+
+
 def inline_to_md(html, slug=None):
     """行内 HTML → Markdown 文本。数学与 sub/sup 占位保护后原样还原。"""
     if not html:
@@ -271,14 +324,12 @@ def inline_to_md(html, slug=None):
     # 2026-10-30：三处 (.*?) re.S 会在 strong/b 交错时跨标签吞段、且 em 先行
     # 转出的内层星与外层 ** 组成三连星边界错乱（149 镜像文件 667 对星内空格
     # 的根因，实测）——改 [^<]* 限单层；粗体内容含星（内层 em 转出）时降级
-    # <b> 保结构稳定。<b>（数学记号粗体，如 <b>P</b>(<em>H</em>)）保留 raw
-    # HTML 不转 md 星：与 <em>/字面星交错会产生星流奇偶错位并连锁整段
-    def _md_bold(m):
-        inner = m.group(1).strip()
-        return ('<b>%s</b>' % inner) if '*' in inner else ('**%s**' % inner)
-
-    s = re.sub(r'<(?:em|i)>([^<]*)</(?:em|i)>', lambda m: '*' + m.group(1).strip() + '*', s, flags=re.I)
-    s = re.sub(r'<strong>([^<]*)</strong>', _md_bold, s, flags=re.I)
+    # <b> 保结构稳定（_md_bold_tag 维持该降级路径）。2026-11-13 审计修正：
+    # em/strong 标签内空白移到星号外侧；纯 <b> 转 md 粗体（旧无规则，被
+    # 行末兜底剥标签丢加粗）
+    s = re.sub(r'<(?:em|i)>([^<]*)</(?:em|i)>', lambda m: _md_emphasis(m.group(1)), s, flags=re.I)
+    s = re.sub(r'<strong>([^<]*)</strong>', _md_bold_tag, s, flags=re.I)
+    s = re.sub(r'<b(?:\s[^>]*)?>([^<]*)</b>', _md_bold_tag, s, flags=re.I)
     s = re.sub(r'<code>([^<]*)</code>', r'`\1`', s, flags=re.S | re.I)
     s = re.sub(r'<br\s*/?>', ' ', s, flags=re.I)
     s = re.sub(r'</?span[^>]*>', '', s, flags=re.I)
@@ -466,10 +517,11 @@ def render_blocks(blocks, ctx):
                 ctx.emit('', text)
         elif t == 'blockquote':
             # 引文块内完整渲染（2026-10-27 数学保真裁定）：旧实现只挑 <p>，
-            # 会丢引文中的裸展示公式（p 间 gap）与无 <p> 包装的列表项
+            # 会丢引文中的裸展示公式（p 间 gap）与无 <p> 包装的列表项；
+            # 2026-11-13 审计修正：<br> 行结构先拆为段落边界再切块
             sub = Ctx(ctx.slug)
-            render_blocks(extract_blocks_raw(inner), sub)
-            body = '\n'.join(sub.out).strip()
+            render_blocks(extract_blocks_raw(_split_br_lines(inner)), sub)
+            body = '\n'.join(sub.out).strip().replace(BR_MARK, '\n')
             if body:
                 ctx.emit('')
                 for ln in body.split('\n'):
