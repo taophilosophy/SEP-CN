@@ -12,7 +12,9 @@
 
 ## 续做队列（按 dash-scan 密度降序）
 
-lambert-auxerre→dai-zhen→…→kant-leibniz→kilvington **等 17 条已收口且通过机械替换回溯审计**（见 dash-verdicts `action=none`）。**下一条：leibniz-mind（81 对，7.92/千字）**，其后 lakatos（200）→ luxemburg（136）→ leibniz-evil（144）→ lorenzo-valla（116）→ karl-reinhold（98）→ ockham（156）→ duhem（98）→ 18thGerman-preKant（139）→ kochen-specker（118）→ …（余 34 条全清单见 dash-verdicts.jsonl `action=fix`，动手前以 dash_scan.py 最新复扫为准）。
+lambert-auxerre→dai-zhen→…→kant-leibniz→kilvington→leibniz-mind **等 18 条已收口且通过机械替换回溯审计**（见 dash-verdicts `action=none`）。**下一条：lakatos（200 对，7.91/千字）**，其后 luxemburg（136）→ leibniz-evil（144）→ lorenzo-valla（116）→ karl-reinhold（98）→ ockham（156）→ duhem（98）→ 18thGerman-preKant（139）→ kochen-specker（118）→ abrabanel（78）→ …（余 33 条全清单见 dash-verdicts.jsonl `action=fix`，动手前以 dash_scan.py 最新复扫为准）。
+
+**leibniz-mind 收口样例（2026-11-12）**：94 处逐一按源句重写（`such as`→「如」、`that is`→「也就是说」、同位语→括注或「即」、并列→句分或「：」领起），复扫归零；改后须留意 `check_style` 的 bold-spacing（删破折号后加粗两侧失去「允许紧贴」的豁免，须补半角空格）。
 
 **注意事项**：
 
