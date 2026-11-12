@@ -1,0 +1,348 @@
+{
+ "key": "public announcement",
+ "term": "public announcement",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T16:13:12+00:00",
+ "status": "ok",
+ "note": "variant=public announcement; 审定公布名词库=897; 海峡两岸名词对照库=103; 其他来源数据库=154; 预公布名词数据库=144; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "公告",
+   "en": "announcement to the public",
+   "code": "02.01.062",
+   "standard": "档案学名词",
+   "subject": "档案学_文件管理_文件概述"
+  },
+  {
+   "cn": "公益广告",
+   "en": "public service announcement;PSA",
+   "code": "05.05.194",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_发行与经营_发行信息与管理"
+  },
+  {
+   "cn": "招标公告",
+   "en": "tender announcement",
+   "code": "04.588",
+   "standard": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "subject": "化工（五）_工程建设_工程采购"
+  },
+  {
+   "cn": "股利宣布日",
+   "en": "announcement date",
+   "code": "07.0466",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_金融工程_产品与服务"
+  },
+  {
+   "cn": "露布",
+   "en": "lu bu;announcement",
+   "code": "1.284",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_通论_政治_文书"
+  },
+  {
+   "cn": "公众",
+   "en": "public",
+   "code": "08.0131",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_市场营销_营销机会"
+  },
+  {
+   "cn": "公众",
+   "en": "publics",
+   "code": "12.196",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_政治传播_公民社会与政治传播"
+  },
+  {
+   "cn": "公共性",
+   "en": "publicness",
+   "code": "12.197",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_政治传播_公民社会与政治传播"
+  },
+  {
+   "cn": "出版物",
+   "en": "publication",
+   "code": "07.01.001",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_出版物_综述"
+  },
+  {
+   "cn": "宣传",
+   "en": "publicity",
+   "code": "1.054",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_新闻理论_新闻与宣传"
+  },
+  {
+   "cn": "公共性",
+   "en": "publicness",
+   "code": "01.175",
+   "standard": "城乡规划学名词",
+   "subject": "城乡规划学_城乡规划总述_规划价值观和规划教育"
+  },
+  {
+   "cn": "链路状态公告",
+   "en": "link state announcement,LSA",
+   "code": "22.121",
+   "standard": "光学名词",
+   "subject": "光学_光通信技术"
+  },
+  {
+   "cn": "进口通知",
+   "en": "import announcement",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "招标公告",
+   "en": "bidding announcement",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "录音通知，录音播放",
+   "en": "recorded announcement",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "公有土地",
+   "en": "public land\",\"public domain",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "民意,舆论",
+   "en": "public opinions",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "公共距离",
+   "en": "public distance",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "公众照射",
+   "en": "public exposure",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "公共市场",
+   "en": "public market",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "公共投资",
+   "en": "public investment",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "公共消费",
+   "en": "public consumption",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "公共信贷",
+   "en": "public credit",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "公共信托",
+   "en": "public trust",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "广播员",
+   "en": "announcer",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_游泳名词"
+  },
+  {
+   "cn": "广播员",
+   "en": "announcer",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "公示方式法定",
+   "en": "statutory form of public announcement",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "公共资源交易公告",
+   "en": "announcement of public resource transaction",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "广播员",
+   "en": "announcer\",\"speaker",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "广播员",
+   "en": "announcer\",\"speaker",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "广播员",
+   "en": "announcer\",\"speaker",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "广播员",
+   "en": "announcer\",\"speaker",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "报分",
+   "en": "announce\",\"call",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "广播员",
+   "en": "announcer\",\"speaker",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "广播员",
+   "en": "announcer\",\"speaker",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "公众",
+   "en": "public",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "新食品原料公告",
+   "en": "announcement of novel food ingredients",
+   "code": "5.23.8",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_其他食品"
+  },
+  {
+   "cn": "公众照射",
+   "en": "public exposure",
+   "code": "6.1.4.2.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_照射分类_照射人员分类"
+  },
+  {
+   "cn": "公众信息",
+   "en": "public information",
+   "code": "7.2.2.26.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应"
+  },
+  {
+   "cn": "公共距离",
+   "en": "public distance",
+   "code": "2.4.1.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念社会互动"
+  },
+  {
+   "cn": "公共组织",
+   "en": "public organization",
+   "code": "2.5.7.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念群体和组织"
+  },
+  {
+   "cn": "公共空间",
+   "en": "public space",
+   "code": "3.4.7.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_城市社会学_城市文化"
+  },
+  {
+   "cn": "公共住房",
+   "en": "public housing",
+   "code": "3.4.11.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_城市社会学_城市政策"
+  },
+  {
+   "cn": "公共权力",
+   "en": "public power",
+   "code": "3.6.2.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_政治社会学_权力与支配"
+  },
+  {
+   "cn": "公共领域",
+   "en": "public sphere",
+   "code": "3.6.4.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_政治社会学_公民权与公民参与"
+  },
+  {
+   "cn": "公共选择",
+   "en": "public option",
+   "code": "3.6.4.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_政治社会学_公民权与公民参与"
+  },
+  {
+   "cn": "品味公众",
+   "en": "taste public",
+   "code": "3.8.4.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_文化社会学_群体文化"
+  },
+  {
+   "cn": "公共宗教",
+   "en": "public religion",
+   "code": "3.9.2.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_宗教社会学_宗教研究"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,348 @@
+{
+ "key": "stack semantics",
+ "term": "stack semantics",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T16:20:43+00:00",
+ "status": "ok",
+ "note": "variant=stack semantics; 审定公布名词库=789; 海峡两岸名词对照库=335; 其他来源数据库=59; 预公布名词数据库=14; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "code": "6.206",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播总论_模式与方法"
+  },
+  {
+   "cn": "语义",
+   "en": "semantics",
+   "code": "05.0005",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_语言与编译"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "code": "08.0484",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_计算语言学"
+  },
+  {
+   "cn": "语义",
+   "en": "semantics",
+   "code": "02.0016",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics,linguistic semantics",
+   "code": "05.001",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_语义学与语义理论"
+  },
+  {
+   "cn": "烟囱",
+   "en": "stack",
+   "code": "3.0663",
+   "standard": "化工名词（八）化工装备",
+   "subject": "化工（八）_化工设备_化工炉窑"
+  },
+  {
+   "cn": "栈",
+   "en": "stack",
+   "code": "02.0021",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_数据结构"
+  },
+  {
+   "cn": "堆码",
+   "en": "stacking",
+   "code": "05.04.052",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_发行与经营_发行物流"
+  },
+  {
+   "cn": "叠加",
+   "en": "stacking",
+   "code": "01.0734",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_基础理论"
+  },
+  {
+   "cn": "码垛",
+   "en": "stacking",
+   "code": "03.0656",
+   "standard": "食品科学技术名词",
+   "subject": "食品科学技术_食品工程_食品专用技术与装备_食品物流"
+  },
+  {
+   "cn": "π-π堆积作用",
+   "en": "π-π stacking",
+   "code": "02.0825",
+   "standard": "化学名词",
+   "subject": "化学_有机化学_物理有机化学_超分子"
+  },
+  {
+   "cn": "样品堆积",
+   "en": "stacking",
+   "code": "03.2165",
+   "standard": "化学名词",
+   "subject": "化学_分析化学_仪器分析_色谱分析"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "语义",
+   "en": "semantic",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "海柱",
+   "en": "stack",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "栈",
+   "en": "stack",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "堆垛",
+   "en": "stacking",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "样品堆积",
+   "en": "stacking",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "语义编码",
+   "en": "semantic encoding\",\"semantic coding",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "生成语义学",
+   "en": "generative semantics",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "地图语义",
+   "en": "cartographic semantics",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "地图语义",
+   "en": "cartographic semantics",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "数据语义",
+   "en": "data semantics",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "地图语义",
+   "en": "cartographic semantics",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "指称语义",
+   "en": "Denotational semantics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "普通语义学",
+   "en": "general semantics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "框架语义学",
+   "en": "frame semantics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义角色",
+   "en": "Semantic roles",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义信息",
+   "en": "semantic information",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义网络",
+   "en": "Semantic Network",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义网",
+   "en": "Semantic Web",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义网络",
+   "en": "semantic network",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义搜索",
+   "en": "semantic search",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义对等",
+   "en": "semantic equivalence",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义模型",
+   "en": "semantic model",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义建模",
+   "en": "semantic modeling",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "语义的不可通约性",
+   "en": "semantic incommensurability",
+   "code": "03.184",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向"
+  },
+  {
+   "cn": "燃料柱",
+   "en": "fuel stack",
+   "code": "6.6.2.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_核工业的放射防护_核燃料与乏燃料"
+  },
+  {
+   "cn": "语义差异量表",
+   "en": "semantic differential scale",
+   "code": "1.2.4.47",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "语义网络分析",
+   "en": "semantic network analysis",
+   "code": "1.2.5.16",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "表意文字",
+   "en": "semantic script; ideography",
+   "code": "5.0195",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_语言状况与规划"
+  },
+  {
+   "cn": "股票",
+   "en": "stock",
+   "code": "02.0242",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "股票价格",
+   "en": "stock price",
+   "code": "02.0245",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "健康存量",
+   "en": "health stock",
+   "code": "3.1.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_健康需求_健康需求"
+  },
+  {
+   "cn": "尼龙刮菌棒",
+   "en": "nylon scratch stick",
+   "code": "6.2.27.16",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "曲棍球杆图",
+   "en": "hockey stick graph",
+   "code": "3.14.5.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学环境社会学"
+  },
+  {
+   "cn": "证券交易所",
+   "en": "stock exchange house",
+   "code": "02.0247",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "股份制",
+   "en": "Joint stock system",
+   "code": "02.0392",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

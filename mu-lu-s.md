@@ -170,6 +170,8 @@ outline: [1, 6]
 
 ### 思想来源与教父哲学
 
+> SEP 未为德尔图良、克莱门特、阿塔那修斯、卡帕多奇亚三教父单设条目，本节以现存奥利金、奥古斯丁两条为限；教父哲学的思想来源（柏拉图主义、新柏拉图主义、圣经观念）散见于古代哲学与中世纪专题各条。
+
 #### 希腊护教士与亚历山大里亚学派
 
 * [奥利金 Origen (Mark J. Edwards)](o/origen.md)
@@ -223,9 +225,12 @@ outline: [1, 6]
 
 ### 经院哲学的兴盛
 
-#### 大阿尔伯特与托马斯主义
+#### 大阿尔伯特
 
 * [大阿尔伯特 Albert the Great (Bruno Tremblay)](a/albert-great.md)
+
+#### 托马斯主义
+
 * [托马斯·阿奎那 Thomas Aquinas (Robert Pasnau)](a/aquinas.md)
   * [托马斯·阿奎那的伦理学、政治哲学和法哲学 Aquinas’ Moral, Political, and Legal Philosophy (John Finnis)](a/aquinas-moral-political.md)
 * [罗马的吉尔斯 Giles of Rome (Roberto Lambertini)](g/giles.md)
