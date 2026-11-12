@@ -235,62 +235,82 @@ segments:
     kind: body
     source: |-
       ## 3. Theory of Values
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3. 价值论
+    step2: |-
+      ## 3. 价值论
   - id: 30
     kind: body
     source: |-
       Soon after publishing his article on *Gestalt* qualities, Ehrenfels produced a series of articles under the title “Werttheorie und Ethik” (1893–1894) which were followed by his two-volume *System der Werttheorie* (1897–1898). The first volume in particular, entitled *Allgemeine Werttheorie, Psychologie des Begehrens*, concerns us in this section.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      发表格式塔质论文后不久，埃伦费尔斯以“价值理论与伦理学”（“Werttheorie und Ethik”，1893–1894）为题发表系列论文，随后又出版两卷本《价值理论体系》（*System der Werttheorie*，1897–1898）。本节尤其关心第一卷，题为《一般价值理论：欲望心理学》（*Allgemeine Werttheorie, Psychologie des Begehrens*）。
+    step2: |-
+      格式塔质的论文刊出后不久，埃伦费尔斯又以“价值理论与伦理学”（“Werttheorie und Ethik”，1893–1894）为题抛出一系列文章，随后便是两卷本的《价值理论体系》（*System der Werttheorie*，1897–1898）。与我们这一节直接相干的，尤其是第一卷——《一般价值理论：欲望心理学》（*Allgemeine Werttheorie, Psychologie des Begehrens*）。
   - id: 31
     kind: body
     source: |-
       According to Ehrenfels, it is most appropriate to begin a philosophical investigation by taking into account what is indicated by ordinary language, but it is by no means obligatory to leave the matter there. Sometimes a revision of the concept in question is needed and such a revision he finds indeed to be necessary regarding the concept of value. While ordinary language seems to indicate that the value of something is among its objective properties, such a value-property is not to be found in reality. Rather, as long as we adhere to such a conception of value, it seems to be mystical. The two options Ehrenfels considers, resemble those of the Euthyphro dilemma: do we desire things because of their value or do things have value because we desire them? Though we ordinarily think that we desire objects because they are “valuable” (i.e., because they supposedly have this “mystical, incomprehensible essence”), the fact of the matter, says Ehrenfels, is that we ascribe value to objects because we desire them (Ehrenfels 1897, 2, also see Fabian in Albertazzi et al. 1996, 166; Reicher 2017, 284 f.)[^ehrenfels-1897][^ehrenfels-1897-2][^albertazzi-1996][^fabian-1996][^reicher-2017].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在埃伦费尔斯看来，哲学研究最恰当的开端是考虑日常语言所指示的东西，但绝没有义务到此为止。有时需要对所讨论的概念作修正；而关于价值概念，他确实认为这种修正是必要的。日常语言似乎表明，某物的价值属于其客观属性，但这种价值属性在现实中找不到。毋宁说，只要我们固守这样一种价值观，它就显得神秘。埃伦费尔斯考虑的两个选项，与欧绪弗洛两难相似：我们因为事物有价值而欲求它们，还是事物因为我们欲求它们而有价值？虽然我们通常认为，我们欲求对象是因为它们“有价值”（即因为它们据说具有这种“神秘的、不可理解的本质”），但事实是，埃伦费尔斯说，我们把价值归于对象是因为我们欲求它们（Ehrenfels 1897, 2，另见 Fabian in Albertazzi et al. 1996, 166；Reicher 2017, 284 f.）[^ehrenfels-1897][^ehrenfels-1897-2][^albertazzi-1996][^fabian-1996][^reicher-2017]。
+    step2: |-
+      依埃伦费尔斯之见，哲学探究最合适的起点，是看看日常语言都说了什么；但事情绝不必停在那里。有些概念需要修订，而在他看来，价值概念恰恰非修订不可。日常语言似乎在说：价值是事物客观属性中的一员；可在现实里，这种价值属性根本寻不着。毋宁说，只要我们还抱着这种价值观，价值就显得神神秘秘。摆在埃伦费尔斯面前的两个选项，像极了欧绪弗洛两难：我们是因为事物有价值才欲求它，还是事物因为我们欲求它才有价值？按平日的想法，我们欲求一个对象，是因为它“有价值”（就是说，它据说带着那种“神秘的、不可理解的本质”）；可埃伦费尔斯说，实际情况恰恰相反：我们之所以把价值派给对象，是因为我们欲求它们（Ehrenfels 1897, 2，另见 Fabian in Albertazzi et al. 1996, 166；Reicher 2017, 284 f.）[^ehrenfels-1897][^ehrenfels-1897-2][^albertazzi-1996][^fabian-1996][^reicher-2017]。
   - id: 32
     kind: body
     source: |-
       Besides the view that value is some sort of mystical property of objects, other ones are identified by Ehrenfels in opposition to his. Among these views is the one put forward by the so-called “first school” of Austrian value theory, as put forward by the economists Carl Menger, Eugen Böhm von Bawerk, and Friedrich von Wieser (as mentioned in Ehrenfels 1897, 3 n.)[^ehrenfels-1897][^ehrenfels-1897-2]. On this view the value of objects “is neither a property nor an essence of them, considered as such, but rather merely their indispensability in the satisfaction of our desires” (Ehrenfels 1897, 3)[^ehrenfels-1897][^ehrenfels-1897-2]. While Ehrenfels fully appreciates this school’s contribution to the understanding of value (Smith 1994, 282)[^smith-1994], he nonetheless thinks that it does not provide a satisfactory theory of value in general due to its narrow focus on economic value. There are for him other types of value besides this, as exhibited by counter-examples (as when the lock of hair belonging to one’s mother is kept as a thing of value). A general theory of value on his view is to illuminate economic value and not vice versa.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除了把价值当作对象的某种神秘属性的观点之外，埃伦费尔斯还辨识出一些与己相对的观点。其中之一是奥地利价值理论所谓“第一学派”提出的观点，由经济学家卡尔·门格尔（Carl Menger）、欧根·庞巴维克（Eugen Böhm von Bawerk）与弗里德里希·冯·维塞尔（Friedrich von Wieser）提出（如 Ehrenfels 1897, 3 n. 所提及）[^ehrenfels-1897][^ehrenfels-1897-2]。按这种观点，对象的价值“既不是它们的属性，也不是它们就其自身而言的本质，而仅仅是它们在满足我们欲望时的不可或缺性”（Ehrenfels 1897, 3）[^ehrenfels-1897][^ehrenfels-1897-2]。埃伦费尔斯虽然充分赞赏这一学派对理解价值的贡献（Smith 1994, 282）[^smith-1994]，但仍认为它由于窄狭地聚焦于经济价值，并未提供一种令人满意的一般价值理论。在他看来，除此之外还有其他类型的价值，反例便可显示这一点（例如把母亲的一绺头发作为有价值之物保存）。按他的观点，一般价值理论应当照亮经济价值，而不是相反。
+    step2: |-
+      价值是对象某种神秘属性——这一路之外，埃伦费尔斯还点了几个对家。其中一派是奥地利价值理论的所谓“第一学派”，主事者是经济学家卡尔·门格尔（Carl Menger）、欧根·庞巴维克（Eugen Böhm von Bawerk）与弗里德里希·冯·维塞尔（Friedrich von Wieser）（Ehrenfels 1897, 3 n. 提到过）[^ehrenfels-1897][^ehrenfels-1897-2]。在他们那里，对象的价值“既非其属性，亦非其就自身而言的本质，而不过是它们在满足我们欲望一事上的不可或缺”（Ehrenfels 1897, 3）[^ehrenfels-1897][^ehrenfels-1897-2]。埃伦费尔斯对这一学派理解价值的贡献推崇备至（Smith 1994, 282）[^smith-1994]，但他仍然认为，这一派把眼光死死钉在经济价值上，拿不出令人满意的一般价值理论。在他看来，经济价值之外还有别样的价值，反例俯拾即是——譬如把母亲的一绺头发当宝贝收藏。依他的构想，一般价值理论应当去照亮经济价值，而不是反过来。
   - id: 33
     kind: body
     source: |-
       Yet another attempt to characterize value without assigning it the status of a mystical property of certain objects, is the one that had been put forward by Brentano, which Ehrenfels formulates as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      还有另一个尝试，要刻画价值而不把它抬到某些对象的神秘属性的地位，这就是布伦塔诺提出的方案，埃伦费尔斯将其表述如下：
+    step2: |-
+      刻画价值的另一个尝试——不把价值封为某些对象的神秘属性——出自布伦塔诺。埃伦费尔斯把它表述如下：
   - id: 34
     kind: body
     source: |-
       > Not all desired things are valuable, but rather only those which are *worthy* of being desired. Whether this worthiness belongs to a thing, however, is not in the particular case yielded from the investigation of the objective nature of the thing, but rather from the subjective consideration of the desire directed at the thing. From the examination of our own mental activity in the act of desire we discern whether this is directed at something valuable or not. (Ehrenfels 1897, 3–4)[^ehrenfels-1897][^ehrenfels-1897-2]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 并非一切被欲求的东西都有价值，只有那些值得被欲求的东西才有价值。然而，这种值得与否是否属于一个事物，在具体情形中并不是从对该事物客观本性的考察中得出的，而是来自针对该事物的欲望的主观考察。从对欲望行为中我们自身心理活动的检视，我们辨认出这欲望是否指向某种有价值的东西。（Ehrenfels 1897, 3–4）[^ehrenfels-1897][^ehrenfels-1897-2]
+    step2: |-
+      > 并非凡被欲求者皆有价值；唯有值得被欲求者才有价值。可一件事物是否具有这份值得，在具体情形中并非得自对该物客观本性的考察，而是得自对指向该物之欲望的主观审视。检视我们在欲望行为中的心理活动，便能辨认这欲望所指向者究竟有没有价值。（Ehrenfels 1897, 3–4）[^ehrenfels-1897][^ehrenfels-1897-2]
   - id: 35
     kind: body
     source: |-
       In contemporary terms, Brentano is a cognitivist, for he maintains that loving and hating (the acts of valuing on his view) can be characterized as correct or incorrect (Brentano 1889)[^brentano-1889]: loving what is worthy of love is correct, hating it is incorrect. The “second school” of Austrian value theory, to which the early Meinong (1894) as well as Ehrenfels belong, distanced itself from Brentano’s cognitivism, while building on his method of descriptive psychology (Grassl in PSI, 5). Here we should note, however, that Ehrenfels came to develop views in aesthetics that can be contrasted with the non-cognitivism found in his early work. This later development will be discussed further at the end of the present section.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      用当代的术语说，布伦塔诺是一位认知主义者，因为他主张爱与恨（在他的价值论中即价值评价行为）可以被刻画为正确或不正确（Brentano 1889）[^brentano-1889]：爱值得爱的东西是正确的，恨它则不正确。奥地利价值理论的“第二学派”——早期的迈农（1894）与埃伦费尔斯都属于这一派——与布伦塔诺的认知主义拉开距离，同时却又建基在其描述心理学方法之上（Grassl in PSI, 5）。不过这里应当注意，埃伦费尔斯后来在美学中发展出一些观点，可以与他早期作品中的非认知主义相对照。这一后期发展将在本节末尾进一步讨论。
+    step2: |-
+      拿当代的行话说，布伦塔诺是认知主义者：他主张爱与恨（照他的价值论，即价值评价行为）能被刻画为正确或不正确（Brentano 1889）[^brentano-1889]——爱那值得爱的，正确；恨它，则不正确。奥地利价值理论的“第二学派”——早期迈农（1894）与埃伦费尔斯都在此列——跟布伦塔诺的认知主义拉开了距离，可脚下踩的仍是他那套描述心理学的方法（Grassl in PSI, 5）。但有一点须留意：埃伦费尔斯后来在美学上发展出的观点，跟他早期作品里的非认知主义恰成对照。这一后期转向，本节末尾还会细谈。
   - id: 36
     kind: body
     source: |-
       An important aspect of Ehrenfels’ value theory is his view regarding the relation of desire to feeling. He characterizes feeling as anything that occurs on the scale that ranges from pleasure to pain (Ehrenfels 1897, 5 ff.)[^ehrenfels-1897][^ehrenfels-1897-2]. Indifference is the central point in this scale. Desire also encompasses a range of phenomena, consisting of wishing, striving, and willing (Ehrenfels 1897, 6 ff.)[^ehrenfels-1897][^ehrenfels-1897-2]. There is, according to Ehrenfels, clearly a difference between feeling and desire, though they are also connected in a psychologically interesting way. While Brentano seems to think that his inclusion of feeling and desire in a single class of psychical phenomena is supported by inner perception, Ehrenfels points out how ineffective an appeal to inner perception is in such matters of dispute (this, however, does not prevent Ehrenfels from making similar appeals at crucial junctures of his value theory). Moreover, Brentano argues for his classification of desire together with feeling by presenting us with a range of phenomena which seem to shade off into each other, beginning with a feeling and ending with not only a desire, but with a full-fledged instance of willing (Brentano 1874, 308 ff.; Brentano 1995, 183 ff.)[^brentano-1874][^brentano-1995]. Nevertheless, Ehrenfels maintains that instances in which there occurs feeling without desire and desire without feeling serve to demonstrate that they do not belong together in the same class of psychical phenomena (Ehrenfels 1897, 10 ff.)[^ehrenfels-1897][^ehrenfels-1897-2]. It is, in addition, on his view desire rather than feeling that determines what is valuable. It was Meinong who first insisted on the distinction between feeling and desire, although he regarded feelings rather than desires to be determinative of values (Meinong 1894, §§ 5–6)[^meinong-1894]. Ehrenfels’ general theory of value thus stands in contrast with those that were advocated by both of his mentors (also see Reicher 2017, 285 f. and for the opposition between Brentano and Ehrenfels on emotion and desire, see Rollinger 2021)[^reicher-2017][^rollinger-2021].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      埃伦费尔斯价值理论的一个重要方面，是他关于欲望与感受之关系的看法。他把感受刻画为任何出现在从快乐到痛苦这一尺度上的东西（Ehrenfels 1897, 5 ff.）[^ehrenfels-1897][^ehrenfels-1897-2]。无差别是这一尺度的中点。欲望也涵盖一系列现象，由愿望、努力与意志构成（Ehrenfels 1897, 6 ff.）[^ehrenfels-1897][^ehrenfels-1897-2]。按埃伦费尔斯的说法，感受与欲望之间显然有区别，尽管二者也以一种在心理学上耐人寻味的方式联系在一起。布伦塔诺似乎认为，他把感受与欲望归入同一类心理现象，这一点得到内知觉的支持；埃伦费尔斯则指出，在这类有争议的事情上，诉诸内知觉是多么无效（不过这并不妨碍埃伦费尔斯在其价值理论的关键节点上提出类似的诉诸）。此外，布伦塔诺为把欲望与感受归为一类的做法辩护的方式，是向我们呈现一系列似乎彼此渐变过渡的现象：始于一种感受，终结于不只一个欲望，而且是一个完全成形的意志行为（Brentano 1874, 308 ff.；Brentano 1995, 183 ff.）[^brentano-1874][^brentano-1995]。尽管如此，埃伦费尔斯坚持认为，有感受而无欲望、有欲望而无感受的情形，足以证明二者不属于同一类心理现象（Ehrenfels 1897, 10 ff.）[^ehrenfels-1897][^ehrenfels-1897-2]。
+    step2: |-
+      埃伦费尔斯价值理论的另一根支柱，是他关于欲望与感受关系的看法。他把感受刻画为凡在快乐到痛苦这条尺度上出现的任何东西（Ehrenfels 1897, 5 ff.）[^ehrenfels-1897][^ehrenfels-1897-2]；无差别就落在这条尺度的正中。欲望也铺开一片现象地带，从愿望、努力到意志（Ehrenfels 1897, 6 ff.）[^ehrenfels-1897][^ehrenfels-1897-2]。在埃伦费尔斯看来，感受与欲望显然两回事，尽管二者又以一种心理学上耐人寻味的方式纠缠在一起。布伦塔诺似乎觉得，把感受和欲望归进同一类心理现象，有内知觉撑腰；埃伦费尔斯则点破：在这类争讼之地，搬出内知觉根本无济于事（不过轮到自己价值理论吃紧的关节，他也照样这么搬）。再者，布伦塔诺为这个分类辩护的手法，是摆出一串看似互相过渡的现象：一头是感受，另一头不只是一个欲望，更是一个完全成形的意志行为（Brentano 1874, 308 ff.；Brentano 1995, 183 ff.）[^brentano-1874][^brentano-1995]。尽管如此，埃伦费尔斯咬定：有感受而无欲望、有欲望而无感受的情形摆在那里，足以证明二者不属同一类心理现象（Ehrenfels 1897, 10 ff.）[^ehrenfels-1897][^ehrenfels-1897-2]。
   - id: 37
     kind: body
     source: |-
       Ehrenfels also criticizes the traditional view (especially prominent in Kantian ethics) that reason (*Vernunft*) can direct our desires (Ehrenfels 1897, 8 ff.)[^ehrenfels-1897][^ehrenfels-1897-2]. On his view, reason may be used to construct complexes of presentations, which are then set as goals by our desires, though reason itself is unable to set these as goals. Ehrenfels also thinks that reason can determine the means whereby a goal is to be achieved, but this is again not the same as setting goals. Aside from its involvement in shaping the presentations of ends and the determination of the means to them, Ehrenfels rejects any suggestion that reason plays any additional role in valuation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      埃伦费尔斯还批评传统观点（在康德伦理学中尤为突出），即理性（*Vernunft*）能够指导我们的欲望（Ehrenfels 1897, 8 ff.）[^ehrenfels-1897][^ehrenfels-1897-2]。在他的观点中，理性可以用来构造表象复合体，这些复合体随后被我们的欲望设为目标，尽管理性本身无力把它们设为目标。埃伦费尔斯还认为，理性能够确定实现一个目标所经的手段，但这同样不等于设定目标。除了参与塑造目的的表象以及确定通往目的的手段之外，埃伦费尔斯拒绝任何认为理性在价值评价中扮演额外角色的主张。
+    step2: |-
+      还有一笔旧账：传统观点（在康德伦理学里最为扎眼）认定理性（*Vernunft*）能够指导我们的欲望，埃伦费尔斯照单驳回（Ehrenfels 1897, 8 ff.）[^ehrenfels-1897][^ehrenfels-1897-2]。在他那里，理性固然可以构造表象复合体，随后这些复合体被我们的欲望立为目标——但理性自己立不了。理性也能决定达标所要的手段，可这依旧不等于设定目标。除了参与塑造目的表象、确定通往目的的手段这两件差事，埃伦费尔斯一概否认理性在价值评价中还有别的戏份。
   - id: 38
     kind: body
     source: |-
       While the view that desire and not reason determines value will suggest to many that Ehrenfels wants to assert that nothing is valuable for each individual aside from its own pleasure, the underlying assumption would be that one desires only one’s own feeling of pleasure. Our experience, however, shows us that this assumption is false. “In the most common circumstances of our everyday life our desiring aims directly at certain routine external tasks such as eating, drinking, waiting, sitting, sleeping, etc., without there being presented thereby the state of feeling which corresponds to these” (Ehrenfels 1897, 27; Smith 1994, 283 ff.)[^ehrenfels-1897][^ehrenfels-1897-2][^smith-1994]. Nevertheless, obtaining what we desire does result in an increase of pleasure relative to the state that would be experienced without the desire being satisfied (Ehrenfels 1897, 31 ff.)[^ehrenfels-1897][^ehrenfels-1897-2].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “决定价值的是欲望而非理性”这一观点会让许多人以为，埃伦费尔斯想要断言：对每个个体而言，除了其自身的快乐之外没有任何东西有价值。这背后的假定会是：人只欲求自己的快乐感。然而我们的经验表明这一假定是假的。“在我们日常生活最常见的情形中，我们的欲求直接瞄准某些日常的外部事务，如吃、喝、等、坐、睡等，而与此相应的感受状态并没有由此被表象出来”（Ehrenfels 1897, 27；Smith 1994, 283 ff.）[^ehrenfels-1897][^ehrenfels-1897-2][^smith-1994]。尽管如此，获得我们所欲求的东西确实会带来快乐的增加，相对于欲望未获满足时将会经验到的状态而言（Ehrenfels 1897, 31 ff.）[^ehrenfels-1897][^ehrenfels-1897-2]。
+    step2: |-
+      “定价值的不是理性，是欲望”——这话听上去，多半会让人以为埃伦费尔斯想断言：对每个个体来说，除了自身的快乐，什么都不值钱。而这背后的潜台词是：人只欲求自己的快乐感。可经验告诉我们，这个假定站不住。“在日常生活最常见的境况里，我们的欲求直接瞄准某些例行公事式的外部事务——吃、喝、等、坐、睡之类——而与这些相应的感受状态并未由此被表象出来”（Ehrenfels 1897, 27；Smith 1994, 283 ff.）[^ehrenfels-1897][^ehrenfels-1897-2][^smith-1994]。话虽如此，如愿以偿确实带来快乐：比起欲望落空时的状态，快乐是增加了的（Ehrenfels 1897, 31 ff.）[^ehrenfels-1897][^ehrenfels-1897-2]。
   - id: 39
     kind: body
     source: |-
