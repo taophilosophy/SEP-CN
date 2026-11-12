@@ -2,7 +2,7 @@
   "slug": "davidson",
   "kind": "retranslate",
   "zh_doc": "d/davidson.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -30,7 +30,7 @@
       "status": "ok",
       "actor": "D-main-20261110",
       "at": "2026-11-09T23:34:03Z",
-      "evidence": "check_prose --strict 89 条全实修清零（三轮 96 处外科替换：长句 45 拆分、的链 30 消解、被动 7 重组、弱动词 7 实改，逐条断言唯一命中，无豁免）；check_style --strict 清零（嵌套弯单引号 2 处去除）；check_academic --strict 无硬错误；check_math 无缺失无失衡；check_bold_collapse 家法无 ** 新增（源文无粗体，译文守恒）"
+      "evidence": "check_prose --strict 89 条全实修清零（三轮 96 处外科替换：长句 45 拆分、的链 30 消解、被动 7 重组、弱动词 7 实改，逐条断言唯一命中，无豁免）；check_style --strict 清零（嵌套弯单引号 2 处去除）；check_academic --strict 无硬错误；check_math 无缺失无失衡；check_bold_collapse 家法无 ** 新增（源文无粗体，译文守恒）；r1 复核补语体留痕：语体：现代汉语学术书面语，叙述主体无文言句式与成段仿古（ADR-0033；补记人 D-main-20261112，据全文通读；015 语体复核判定 modern，个别文言色彩词与一处文言收束句已定点改写）"
     },
     {
       "step": "s3",
@@ -38,6 +38,34 @@
       "actor": "D-main-20261110",
       "at": "2026-11-09T23:34:04Z",
       "evidence": "三校收口：四检全绿（style/prose/academic/math），五项对账全过（marker 8:8 顺序全等、defs 90:90 键集全等、节数 24:24、年份 token 136/126 在带、汉字 16705）；术语补登 14 行（anomalism of the mental 心理的变异性/radical interpretation 彻底解释/principle of charity 慈善原则/triangulation 三角测量/holism 整体论/Swampman 沼泽人/omniscient interpreter 全知解释者/primary reason 首要理由/pro-attitude 肯定态度/holding true 视为真/conceptual scheme 概念图式/conceptual relativism 概念相对主义/indeterminacy of translation 翻译的非确定性/T-sentence T 句）与人名 5 行（伽达默尔/怀特海/卡特赖特/米德/詹姆斯·乔伊斯，Tolstoy 沿用既有行未重登）；check_terms 硬错误 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "D-main-20261112",
+      "at": "2026-11-12T07:20:03Z",
+      "evidence": "一校（全文回读 250 行对照 yuanwen）：实修 12 处——①「，。」标点并置+关联词断裂改「；而且」②「所辩护三条原则」补「的」③「深成问题」非词改「大成问题」（deeply problematic）④「非但…。而且」关联词错配改「不仅…。而且，」并拆分长句⑤「又并拒」改「又拒斥」⑥Tarski 首现补汉名「塔尔斯基（Alfred Tarski）」并按语体拆句⑦「塔尔斯基 约定 T」前后空格改引号⑧015 语体复核定点句「不可翻译，其所为证者，非有…之谓也」改现代汉语（source: Inability to translate counts as evidence, not of the existence of an untranslatable language, but of the absence of a language of any sort）⑨文言虚词 6 处改写（乃→是、尤然→尤其如此、方始刊布→才开始发表、故而×2→因此、坚执…乃一核心概念→坚持认为…是一个核心概念）。结构/内容对账：标题 ##5/###13 全等、脚注 7/7、定义 91/91、段落 47/46（差 1=源 byline *Malpas, Jeff* 并入 H1）、尾节子标题 2/2（Primary/Secondary Literature）、照录行 10/11（标准声明行）；无公式（源 0/中 0）、无图。照源保留：source 自身「(Davidson, 160)」缺年份引注、参考文献条目拼写（Hanbook/Dedining/MIT Press Press）均照录。相关词条 15 条与 SUMMARY 主名逐一核对无误。语体：现代汉语学术书面语；015 语体复核判定 modern（2026-11-11），其列出的文言收束句已在本轮定点改写，全文无文言句式与成段仿古（ADR-0033，据全文通读）。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "D-main-20261112",
+      "at": "2026-11-12T07:21:10Z",
+      "evidence": "二校复核（语言）：check_prose 0（s2 已 89 条实修清零，本轮未回退）；r1 新增 12 处实修补齐标点、关联词与文言虚词，改写后长句门禁复测仍 0（两处改写初版触发 76/89 字长句，已拆句复归 0）；术语复核：变异一元论/随附性/彻底解释/慈善原则/三角测量/非确定性/理由作为原因 与登记册同形；人名复核：蒯因/罗蒂/卡特赖特/斯特劳森/伽达默尔/杜威/海德格尔/德里达/斯宾诺莎/休谟/康德/刘易斯/米德 在册或为通行汉名，Ludwig/Lepore/Dummett/Fodor/Brandom/Malpas/Cavell 按 ADR-0022 保留英文。语体：现代汉语学术书面语，无文言句式（ADR-0033 已核）。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "D-main-20261112",
+      "at": "2026-11-12T07:21:11Z",
+      "evidence": "三校复核（体例）：check_style --strict 0 issue；check_academic --strict 无硬错误；check_math 源 0/中 0 missing=0 unbalanced=0；check_summary H1 与 SUMMARY 一致、相关词条 15 条全为 SUMMARY 主名形。结构对账：标题 ##5/###13、脚注 7/7、定义 91/91、段落 47/46（byline 合并）、尾节子标题 2/2、照录 10/11（标准声明行）。参考文献 91 条脚注定义齐备，### Primary Literature / ### Secondary Literature 子标题在（源头 http 链接保留）。语体：现代汉语学术书面语（ADR-0033 已核）。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "D-main-20261112",
+      "at": "2026-11-12T07:21:11Z",
+      "evidence": "收口：s3_checked 复审完成（r1 逐段回读 12 实修含 015 定点文言句改写、r2 语言 0 告警、r3 四检+结构对账全绿）；照源保留判据 2 类（引注缺年份、文献表拼写）已留痕。D 批 s3_checked 复审第 4 条（4/4 完成）。"
     }
   ],
   "blockers": [],
