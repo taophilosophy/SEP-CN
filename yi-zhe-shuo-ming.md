@@ -4468,8 +4468,7 @@
 | representor | — | 表征集 | 首现（imprecise-probabilities） | 学界惯例（van Fraassen 术语）；凭证 2026-11-08 | 2026-11-08 |
 | reprobation | reprobatio | 弃绝 | gregory-rimini | 神学通行（亦作“遗弃”；与 predestination 预定配对）；凭证 2026-11-10 | 2026-11-10 |
 | reproductive cloning | — | 生殖性克隆 | 首译（stem-cells） | 学界惯例（生命伦理学通行；与已登记“研究性克隆”配对）；凭证 2026-11-09 | 2026-11-09 |
-| Republic | Πολιτεία | 《理想国》 | epicurus | 学界通行（柏拉图） | 2026-11-12 |
-| Republic (Plato) | — | 《理想国》 | ancient-soul 首译 | 学界通行汉译（柏拉图对话） | 2026-11-09 |
+| Republic | Πολιτεία | 《理想国》 | epicurus（ancient-soul 同条） | 学界通行汉译（柏拉图对话）；2026-11-12 合并原“Republic (Plato)”重复行（同译，题名归一） | 2026-11-12 |
 | republic of letters | — | 文人共和国 | 首译（cosmopolitanism） | 学界通行（Enlightenment 研究通用）；凭证 2026-11-09 | 2026-11-09 |
 | republican cosmopolitanism | — | 共和主义世界主义 | cosmopolitanism | 学界通行（Pettit、Laborde 等新共和主义谱系）；凭证 2026-11-09 | 2026-11-09 |
 | republicanism | — | 共和主义 | 首现（schlegel） | 学界惯例（政治哲学通行）；凭证 2026-11-07 | 2026-11-07 |
