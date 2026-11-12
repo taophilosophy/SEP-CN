@@ -2,7 +2,7 @@
   "slug": "deductivism-mathematics",
   "kind": "retranslate",
   "zh_doc": "d/deductivism-mathematics.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "D-main-20261107",
       "at": "2026-11-07T18:27:45Z",
       "evidence": "登记与门禁：术语册 14 行（演绎主义/如果—那么主义/蕴涵主义/真值完全性/可证性/公理化/omega 规则/一致性/完全性/混合语句/扩展虚构/不动点/实体化/模态主义）+ 人名册 22 行（哥德尔/帕施/柯里/海廷/丘奇/图灵/伦格 用通行汉译；Hellman/Shapiro/Maddy/Parsons/Burgess 等按 ADR-0022 保留英文并注明）；check_terms 硬错误 0；check_all 七项全绿"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "D-main-20261112",
+      "at": "2026-11-12T01:08:53Z",
+      "evidence": "独立复核一（全文回读 372 行 vs 源 414 行）：公式保真专项——$…$ 多重集对账 源 171/译 170，逐项定位三处差异并处置：①源 'proof of ¬φ from T' 第二处译文省略 '从 T'，补足使两处并列同构；②源自身笔误 '(for some $Ax)$ since…'（右括号误置于 math 内）译文修为 '$Ax$）'，据源文可判读、留痕不改镜像；③源以 $we$ 作强调，中文强调无标记体例，改'我们'。另：尾节 '## 致谢' 降为 '### 致谢'（源为 ### Acknowledgments，尾节子标题 1:1 复原）。准确性核销：五节论旨（演绎主义界定与动机、四位历史作者、语义主张四种澄清、五大挑战）逐段对读无漏译；⊢/⊨ 两概念分工、哥德尔句论证、模态路线、Resnik 反驳逐段核对。语体：现代汉语学术书面语（ADR-0033）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "D-main-20261112",
+      "at": "2026-11-12T01:12:11Z",
+      "evidence": "独立复核二（术语与人名）：术语核对——演绎主义/如果—那么主义/消除式结构主义/非消除式结构主义/结构主义/演绎后承/语义后承/可证性/可证性逻辑 与正文一致；本批补登 2 行——eliminative structuralism=消除式结构主义、semantic consequence=语义后承（亦作语义蕴涵，正文两形并存已由登记行收口）。人名：Paseau/Pregel（作者，H1 括注）、Rheinwald/Bostock/Hellman/Putnam/Maddy/Resnik/Parsons/Boolos/Wright/Benacerraf/帕施/柯里/希尔伯特/罗素/哥德尔 均在册；Hartry Field 依 ADR-0022 无通行汉名保留拉丁原名（正文首现即拉丁形）。相关词条与索引行未变。prose 5 条（4 de-chain 术语链、1 被动）沿用低残量豁免，未新增"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "D-main-20261112",
+      "at": "2026-11-12T01:19:29Z",
+      "evidence": "独立复核三（终稿）：check_style 0 issue、check_academic --strict 0 硬错误、check_math 0 missing（镜像侧 unclosed-delimiter 三处为源文自身 $ 笔误，非本产物）、check_prose 5 条豁免、check_summary HARD 0；五维终跑 标题 9/5、marker 51:51 键序全等、defs 67:67 键集全等、段落 110:109（byline 豁免）、图 0:0、尾节子标题 1:1；公式多重集 171:170（差异 3 处已逐项处置留痕）；脚注 66 条书目照录；学术工具四行齐备；H1 与 SUMMARY 定名一致"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "D-main-20261112",
+      "at": "2026-11-12T01:27:50Z",
+      "evidence": "全周期完成（九步齐备）：r1 全文回读＋公式多重集对账修三处差异（补'从 T'、修源括号笔误留痕、去 $我们$ math 容器）＋致谢标题层级；r2 补登术语 2 行、人名核销；r3 四检全绿；译文入库 d/deductivism-mathematics.md"
     }
   ],
   "blockers": [],
