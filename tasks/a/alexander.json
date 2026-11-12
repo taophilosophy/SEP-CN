@@ -2,7 +2,7 @@
   "slug": "alexander",
   "kind": "retranslate",
   "zh_doc": "a/alexander.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "A-main-20261112",
       "at": "2026-11-11T23:28:30Z",
       "evidence": "check_style 0、check_academic --strict OK、check_math 0；人名 Alexander/Locke/Moore 与登记册核对（新增 Samuel Alexander 行）；斜体中文已转加粗"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T01:05:26Z",
+      "evidence": "冷置回读（中间完成 aristotle-noncontradiction 全周期后回读 325 行）：现代学术书面语；回源核对 1908《洛克》、1889《道德秩序与进步》、1914《实在论的基础》、1920i: 35/47/87、1920ii: 3/45/346/353–4 等编号与译文逐处相符；修正『与经验性质或性质相区别』为『与经验范畴或经验性质相区别』"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T01:05:26Z",
+      "evidence": "逐句回核：marker 10=10 同序、定义 59=59 同集、h3 11=11、年份 154 同序（正文 1910/1930 年代表述 3 处属译法）；术语与登记册一致（突现/共存/奋求/范畴性格）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T01:05:27Z",
+      "evidence": "终稿验收：check_style 0、check_academic --strict OK、check_math 0、check_terms 硬错 0；check_all 唯一失败项属他会话在途任务"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T01:05:27Z",
+      "evidence": "A 批 done：alexander 117 段账本双版、325 行成稿、prose 19→6 引文豁免"
     }
   ],
   "blockers": [],
