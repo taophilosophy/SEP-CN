@@ -1,50 +1,64 @@
 {
- "slug": "confucius",
- "kind": "retranslate",
- "zh_doc": "c/confucius.md",
- "state": "s3_checked",
- "steps": [
-  {
-   "step": "clear",
-   "status": "ok",
-   "actor": "task_ops",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "baseline gate: 英文镜像齐备（ADR-0009 逐字符），version_pin 一致"
-  },
-  {
-   "step": "draft",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "初译完成：零信任译自 yuanwen/confucius.md，账本双版（step1/step2）齐全"
-  },
-  {
-   "step": "s1",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "自校一：体例修复 italic-cjk→加粗、中西空格，check_style 正文 0"
-  },
-  {
-   "step": "s2",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "自校二：check_academic --strict 0 硬错误，引用键解析完整"
-  },
-  {
-   "step": "s3",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "自校三：翻译波收口，双版账本齐全，学术规范+体例双绿"
+  "slug": "confucius",
+  "kind": "retranslate",
+  "zh_doc": "c/confucius.md",
+  "state": "r2_reviewed",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "baseline gate: 英文镜像齐备（ADR-0009 逐字符），version_pin 一致"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "初译完成：零信任译自 yuanwen/confucius.md，账本双版（step1/step2）齐全"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "自校一：体例修复 italic-cjk→加粗、中西空格，check_style 正文 0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "自校二：check_academic --strict 0 硬错误，引用键解析完整"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "自校三：翻译波收口，双版账本齐全，学术规范+体例双绿"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "R-main-20261112",
+      "at": "2026-11-12T05:26:42Z",
+      "evidence": "r1 初审（R-main-20261112，异于初译主代理 2026-11-01，异会话独立性满足；其间已完整作业 cassirer+change 全周期=冷置）：202 行全文回读并对照 yuanwen 逐段核验。结构五维全等：正文段 69:69、主节 5:5、脚注定义 24:24 键集同序（含 note-1 与 23 条书目）；Notes 尾区双标题（## Notes（原文脚注）＋## Notes to Confucius）为 i/implicature-optimality-games done 条目同款惯例，保留。实修 6 处：[Major] L71 重复引文——源文两处措辞刻意有别（thinks of righteousness when faced with gain 16.10/19.10 与 when faced with profit 14.12），原译两处均作「见利思义」丢失区分，第二处改「面对利益时」（14.12）；[Major-体例] [^note-1] 注文整段英文未译（模板行 13：脚注键与译文），已译出（论语按篇节标注/ctext.org 编号/英译出作者本人）；相关词条 2 项对齐 SUMMARY 定名——中国哲学：宋明儒学→宋明理学（SUMMARY 行 454）、日本哲学：儒学→日本儒学（行 1334）；导语纪年「传统纪年前 551–479 年」→「传统纪年：公元前 551–479 年」（源 trad. 551–479 BCE，原表述可误读为「纪年前」断句）；L45 映照句语序顺正；Notes 前双空行清理。源文自带不改：《先王之书》/《尚书》别名、在前一个对话里（In the former dialogue 直指 12.22 先举）、休谟式长句多句、中文古典引文译文。prose 34→24（实修 10：弱动词 3 处去加以/予以框架、被动 2 处改主动「用作转喻」「把孔子描绘为」、长句拆分 5 处含 L17 三句与 L31/L151 巨句于句界缝），余 24 分类豁免（ADR-0020 留痕）：长句 13 为源文周期句与古典引文枚举镜像、de-chain 10 为术语性偏正、passive 1（被归诸圣明君主所倚重的臣僚）。check_style 0／check_math 0 式 0 缺 0 失衡／check_academic --strict OK。语体：现代汉语学术书面语；无 Critical/Major 残留。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "R-main-20261112",
+      "at": "2026-11-12T05:36:23Z",
+      "evidence": "r2 复审（R-main-20261112，异于初译主代理；异会话独立性满足）：逐句回核原文与逻辑——r1 所修 16 处回读连贯；礼之心理学（敬/情/欲望节制）、五种德性（仁义礼智信）、孝与天命、黄金法则之争等论证链完整；古典引文（3.17/4.5/8.8/12.1/13.18/17.9/6.22/2.5 等）与源文引文位置逐一对应，无错位；check_terms 硬错误 0（冲突 0+自洽 0）。人名回核（C 批 chinese-phil-science 先例：汉学家用通行汉名入册）：正文 8 处现代学者行文提及汉名化——艾文贺（Philip J. Ivanhoe）、郝大维（David L. Hall）、安乐哲（Roger T. Ames）、万百安（Bryan W. Van Norden）、白牧之（E. Bruce Brooks）、罗伯特·贝拉（Robert Bellah）、伊若泊（Robert Eno）、信广来（Kwong-Loi Shun）、罗思文（Henry Rosemont）；Michael J. Hunter 按 ADR-0022 无通行汉名保留英文。补登 12 行（先登后用补课，来源 confucius，凭证 2026-11-12 r2）：Ames/Bellah/Brooks/Clerc/Eno/Hall/Hunter(保留英文)/Ivanhoe/Pound/Rosemont/Shun/Van Norden，逐行按折叠键就位（12 次局部上浮校正），registry_azsort 干跑守恒 4268 行、周界 0。既有在册者不再重登：Csikszentmihalyi, Mark 齐思敏（作者署名 H1 保留英文，体例同 summary）。中文学者（司马迁/班固/刘宝楠/胡适/陈来/阎步克/朱维铮/王充）本已汉名，与册一致。观察项：中国哲学：伦理学 在 SUMMARY 无对应行（未译条目占位），保留原文形态。"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-10-31T22:09:20Z",
+  "version_pin": {
+    "pubinfo_date": "May 2, 2024",
+    "archive_edition": "Summer 2024",
+    "sha256": "f068244ef520bdaef9621317b0c430ae65a6699d5b65d80f187bc2a1824e7591"
   }
- ],
- "blockers": [],
- "created_at": "2026-10-31T22:09:20Z",
- "version_pin": {
-  "pubinfo_date": "May 2, 2024",
-  "archive_edition": "Summer 2024",
-  "sha256": "f068244ef520bdaef9621317b0c430ae65a6699d5b65d80f187bc2a1824e7591"
- }
 }
