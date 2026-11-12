@@ -43,10 +43,10 @@
 | free-rider | — | 搭便车者 | altruism-biological | 博弈论与演化生物学通行（free rider，亦作“免费搭车者”）；凭证 2026-11-12 | 2026-11-12 |
 | general consent | — | 概括同意 | informed-consent | 学界惯例（与 specific consent 具体同意对举） | 2026-11-12 |
 | generalized quantification | — | 广义量化 | dynamic-semantics | 学界通行；凭证 2026-11-12 | 2026-11-12 |
-| haplodiploidy | — | 单倍二倍体 | altruism-biological | 演化生物学通行（膜翅目性别决定机制，亦作“单倍二倍性”）；凭证 2026-11-12 | 2026-11-12 |
+| haplodiploidy | — | 单倍二倍体（亦作“单倍二倍性”） | altruism-biological | 演化生物学通行（膜翅目性别决定机制）；亦作记审定·生态学（行为生态学）作“单倍二倍性”；凭证 2026-11-12（裁定 2026-11-13 亦作前置到译法列） | 2026-11-13 |
 | hypothetical consent | — | 假设同意 | informed-consent | 学界通行（政治哲学与生命伦理学；与推定同意相区分） | 2026-11-12 |
 | identical by descent | — | 同源同一 | altruism-biological 首现 | 群体遗传学 IBD 概念直译（句内自释：共同祖先中某一基因的拷贝）；审定库未见通行定译，待 specs/008 复核；凭证 2026-11-12 | 2026-11-12 |
-| inclusive fitness | — | 包容适合度 | altruism-biological | 演化生物学通行（Hamilton 概念；亦作“广义适合度”）；凭证 2026-11-12 | 2026-11-12 |
+| inclusive fitness | — | 包容适合度（亦作“广义适合度”） | altruism-biological | 演化生物学通行（Hamilton 概念）；亦作记审定·生态学（进化生态学）/植物学作“广义适合度”；凭证 2026-11-12（裁定 2026-11-13 亦作前置到译法列） | 2026-11-13 |
 | information state | — | 信息状态 | dynamic-semantics | 学界通行；凭证 2026-11-12 | 2026-11-12 |
 | informed consent form | — | 知情同意书 | informed-consent | 学界惯例（临床与研究伦理通行） | 2026-11-12 |
 | intervention ladder | — | 干预阶梯 | informed-consent | 首译（Nuffield Council on Bioethics 2007 术语） | 2026-11-12 |

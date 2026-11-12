@@ -114,3 +114,17 @@ TL-main-20261112 续：凭证文件名缺陷修复、重复行归一与清扫收
 * **登记册重复行归一 4 组**（check_terms 自洽硬错误拦截）：banality of evil（502/503）、Enneads（1564/1580）、
   great chain of being（2139/2140）、人名表 Iblīs/Iblis（1926/1927）——均为并行会话按新词条重登记同键行所致，
   合并为一行并在依据列记双首现与德语/拉丁/希腊原文。
+
+### 八、稳态增量（116 项，2026-11-12 夜至 13 日）
+
+* 队列 `%TEMP%/az-term12.json` 116 项（并行会话当日新登记行：altruism-biological、dynamic-semantics、informed-consent 等）
+  全部跑完；审计：一致 1090 / 不一致 752 / 查无 4377 / 未查证 4206。
+* **主译变更 0 条**；**亦作前置化 2 条**（原写在依据列、审计读不到，按体例铁律移入译法列括注）：
+  haplodiploidy「单倍二倍体」（亦作“单倍二倍性”，审定·生态学）、inclusive fitness「包容适合度」
+  （亦作“广义适合度”，审定·生态学/植物学）。
+* 其余 12 条保留：coercion（哲学「强制」vs 审定法学「胁迫」）、common ground（审定「公共接地点/共同摄食地」假阳性）、
+  destructive assignment（垃圾池）、DRT（审定·语言学即「话语表现理论」，CS 库「话语表示理论」为异学科）、
+  identical by descent（审定「同源相同基因」为全称）、information state（「状态信息」异序）、
+  public announcement（审定「公告」泛词）、reproductive fitness（审定「繁殖适度」异义）、
+  Tit-for-Tat（审定「一报还一报式合作」全称）、boundary problem（审定「边界值问题」数学义）、
+  demos（审定「雅典人民」特指）、Job（书名 vs 审定「作业/职位」）。
