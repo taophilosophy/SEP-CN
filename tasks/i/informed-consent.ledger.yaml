@@ -733,158 +733,210 @@ segments:
     kind: body
     source: |-
       The reality is that informed consent procedures (form filling, mandatory disclosures, and so forth) are not legally mandated for the lion’s share of medical care, e.g. standard blood draws, in contrast to more invasive interventions like surgery. Nor are they necessary intuitively (Manson and O’Neill 2007, 81f)[^manson-2007]. In medical research, United States federal regulations authorize review boards to omit informed consent requirements on many occasions when “research involves no more than minimal risk to the participants”, a provision expanded in 2018. Likewise, a relatively safe and low-impact study comparing two widely used drugs to ascertain which is best seems morally permissible, even without a full-fledged informed consent process (Truog et al. 1999)[^truog-1999], and recent US regulations waive consent requirements in many such cases (Propes, O’Rourke, and Morain 2024).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现实是，知情同意程序（填表、强制披露等等）对大部分医疗照护——例如标准抽血——并无法律强制，这与手术等更具侵入性的干预不同。直觉上它们也不必要（Manson and O’Neill 2007, 81f）[^manson-2007]。在医学研究中，美国联邦法规授权审查委员会在许多“研究对参与者不超过最小风险”的场合省略知情同意要求，该条款于 2018 年扩展。同样，一项相对安全、影响较低的研究比较两种广泛使用的药物以确定哪种最好，即便没有完备的知情同意程序，似乎也在道德上可允许（Truog et al. 1999）[^truog-1999]；美国晚近法规在许多此类情形中免除同意要求（Propes, O’Rourke, and Morain 2024）。
+    step2: |-
+      现实是，知情同意程序（填表、强制披露等等）对大部分医疗照护——例如标准抽血——并无法律强制，这与手术等更具侵入性的干预不同。直觉上它们也不必要（Manson and O’Neill 2007, 81f）[^manson-2007]。在医学研究中，美国联邦法规授权审查委员会在许多“研究对参与者不超过最小风险”的场合省略知情同意要求，该条款于 2018 年扩展。同样，一项相对安全、影响较低的研究比较两种广泛使用的药物以确定哪种最好，即便没有完备的知情同意程序，似乎也在道德上可允许（Truog et al. 1999）[^truog-1999]；美国晚近法规在许多此类情形中免除同意要求（Propes, O’Rourke, and Morain 2024）。
   - id: 90
     kind: body
     source: |-
       Some authors have used such examples to downplay the need for informed consent, criticizing what they call bioethicists’ “fixation” with informed consent (O’Neill 2002, 47–8; Brownsword 2004, 224)[^brownsword-2004][^o’neill-2002]. In response, some proponents of informed consent insist that, in many of the alleged counter-examples, something in the way of informed consent remains vital. In blood draws, in particular, when the patient is shown the needle and silently stretches her arm forward, she is said to give tacit or non-verbal consent (Beauchamp and Childress 2008, 107; and see also Manson and O’Neill 2007, 11)[^beauchamp-2008][^manson-2007]. This particular response may be insufficient. For example, when a busy nurse with many patients in line realizes that a patient is very ignorant about a blood draw, such that her tacit consent is uninformed, intuitively the nurse does *not* owe the patient a long explanation of the risks from a sanitized needle prick, which are remote and minor.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一些作者用此类例子淡化知情同意的必要性，批评他们所称生命伦理学家对知情同意的“固着”（O’Neill 2002, 47–8; Brownsword 2004, 224）[^brownsword-2004][^o’neill-2002]。作为回应，一些知情同意的拥护者坚持：在许多所谓的反例中，某种形式的知情同意仍然至关重要。尤其在抽血时，当病人看到针头并默默伸出手臂，据说她给出了默示的或非语言的同意（Beauchamp and Childress 2008, 107; 亦见 Manson and O’Neill 2007, 11）[^beauchamp-2008][^manson-2007]。这一特定回应或许不够。例如，当一位忙碌、还有许多病人排队的护士意识到某病人对抽血极为无知，以致其默示同意并不知情时，直觉上护士并*不*欠该病人一段关于消毒针头刺入风险的冗长解释——那些风险遥远而轻微。
+    step2: |-
+      一些作者用此类例子淡化知情同意的必要性，批评他们所称生命伦理学家对知情同意的“固着”（O’Neill 2002, 47–8; Brownsword 2004, 224）[^brownsword-2004][^o’neill-2002]。作为回应，一些知情同意的拥护者坚持：在许多所谓的反例中，某种形式的知情同意仍然至关重要。尤其在抽血时，当病人看到针头并默默伸出手臂，据说她给出了默示的或非语言的同意（Beauchamp and Childress 2008, 107; 亦见 Manson and O’Neill 2007, 11）[^beauchamp-2008][^manson-2007]。这一特定回应或许不够。例如，当一位忙碌、还有许多病人排队的护士意识到某病人对抽血极为无知，以致其默示同意并不知情时，直觉上护士并*不*欠该病人一段关于消毒针头刺入风险的冗长解释——那些风险遥远而轻微。
   - id: 91
     kind: body
     source: |-
       To some, this may suggest that fully-fledged informed consent requirements simply do not apply to highly benign interventions. Surely the need to protect health and welfare, at least, through informed consent procedures is lesser when that risk is negligible in the first place. Interestingly, similar logic suggests that when an intervention is not benign yet informed consent cannot improve upon other protections, informed consent may also be unnecessary. A possible case in point is observational studies of anonymized electronic health records, where the main risk comes from breach of data security and confidentiality—a serious yet technical matter that few individual patients could assess reliably—and thus informed consent might be an ineffective, unhelpful protection. What is needed instead is legal and information technology solutions, as well as democratic decision making on any remaining risk.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在某些人看来，这或许表明完备的知情同意要求根本不适用于高度良性的干预。无疑，当风险本就微不足道时，至少通过知情同意程序保护健康与福祉的需要也较小。有趣的是，类似的逻辑表明：当某项干预并非良性，而知情同意又无法改进其他保护措施时，知情同意也可能不必要。一个可能的例子是对匿名电子健康记录的观察性研究：主要风险来自数据安全与机密性被破坏——这是严重却技术性的问题，少有单个病人能可靠评估——因此知情同意或许是一种无效、无益的保护。所需要的反而是法律与信息技术解决方案，以及对任何残余风险的民主决策。
+    step2: |-
+      在某些人看来，这或许表明完备的知情同意要求根本不适用于高度良性的干预。无疑，当风险本就微不足道时，至少通过知情同意程序保护健康与福祉的需要也较小。有趣的是，类似的逻辑表明：当某项干预并非良性，而知情同意又无法改进其他保护措施时，知情同意也可能不必要。一个可能的例子是对匿名电子健康记录的观察性研究：主要风险来自数据安全与机密性被破坏——这是严重却技术性的问题，少有单个病人能可靠评估——因此知情同意或许是一种无效、无益的保护。所需要的反而是法律与信息技术解决方案，以及对任何残余风险的民主决策。
   - id: 92
     kind: body
     source: |-
       Still, some elements of the requirement of informed consent obtain even in standard blood draws and other benign interventions (Dickert et al. 2017)[^dickert-2017]. Physical duress against a refusing patient and the intentional exploitation of a patient’s ignorance about blood draws both usually remain wrong. This may suggest that informed consent bundles together requirements of variable stringency, some of which obtain apply only sometimes. An alternative account of the impermissibility of duress even for benign blood draws is that informed consent is a bulwark against coercive or fraudulent medical interventions, risky or benign. However, the arguable permissibility of some benign studies without informed consent calls this defense into question.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管如此，知情同意要求的某些要素即便在标准抽血与其他良性干预中也成立（Dickert et al. 2017）[^dickert-2017]。对拒绝病人的身体胁迫，以及对病人抽血无知的故意利用，通常仍然都是错的。这或许表明，知情同意把严格程度各异的要求捆绑在一起，其中一些只偶尔适用。对即便良性抽血也不可胁迫的另一种解释是：知情同意是抵御强制或欺诈性医疗干预的堡垒，无论有风险还是良性。然而，某些良性研究无须知情同意即可（姑且认为）允许，这使该辩护受到质疑。
+    step2: |-
+      尽管如此，知情同意要求的某些要素即便在标准抽血与其他良性干预中也成立（Dickert et al. 2017）[^dickert-2017]。对拒绝病人的身体胁迫，以及对病人抽血无知的故意利用，通常仍然都是错的。这或许表明，知情同意把严格程度各异的要求捆绑在一起，其中一些只偶尔适用。对即便良性抽血也不可胁迫的另一种解释是：知情同意是抵御强制或欺诈性医疗干预的堡垒，无论有风险还是良性。然而，某些良性研究无须知情同意即可（姑且认为）允许，这使该辩护受到质疑。
   - id: 93
     kind: body
     source: |-
       ### 7.2 Some risky experiments
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.2 某些有风险的实验
+    step2: |-
+      ### 7.2 某些有风险的实验
   - id: 94
     kind: body
     source: |-
       Advancing the field of emergency medicine requires medical experimentation, including trials that compare different interventions and that only sometimes serve the best interests of trial participants. But in emergency circumstances, it is often impossible to obtain consent from the patient or her family in time. Many physicians believe that because the field of emergency medicine simply cannot progress absent experimentation, there should be an exception to informed consent requirements for these trials, however risky, with substitutes for fully-fledged informed consent sought. That elements of informed consent, such as retrospective debriefing, remain necessary in such trials, again suggests a “bundled” requirement (Fost 1998; Dickert et al. 2017)[^dickert-2017][^fost-1998].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      推进急诊医学领域需要医学实验，包括比较不同干预、且只有时符合试验参与者最佳利益的试验。但在紧急情形中，往往无法及时取得病人或其家属的同意。许多医生认为，既然没有实验急诊医学就无法进步，这些试验——无论风险多大——就应有知情同意要求的例外，同时寻求完备知情同意的替代物。知情同意的某些要素（如事后说明）在此类试验中仍然必要，这再次表明存在一种“捆绑式”要求（Fost 1998; Dickert et al. 2017）[^dickert-2017][^fost-1998]。
+    step2: |-
+      推进急诊医学领域需要医学实验，包括比较不同干预、且只有时符合试验参与者最佳利益的试验。但在紧急情形中，往往无法及时取得病人或其家属的同意。许多医生认为，既然没有实验急诊医学就无法进步，这些试验——无论风险多大——就应有知情同意要求的例外，同时寻求完备知情同意的替代物。知情同意的某些要素（如事后说明）在此类试验中仍然必要，这再次表明存在一种“捆绑式”要求（Fost 1998; Dickert et al. 2017）[^dickert-2017][^fost-1998]。
   - id: 95
     kind: body
     source: |-
       ### 7.3 Some public health policies
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.3 某些公共卫生政策
+    step2: |-
+      ### 7.3 某些公共卫生政策
   - id: 96
     kind: body
     source: |-
       Interestingly, that for public health interventions, whose impact on human health can exceed that of clinical interventions, usually little, if any, informed consent is mandated. Exposure to ads and “nudges” that promote populations’ health seems legitimate to most of us even when the authority executing the interventions discloses very little about these interventions, their risks, their alternatives, and any real opportunities to avert them. Changes to traffic regulations that affect accident rates on a grand scale are not thought to demand the consent of each individual citizen. Nor are such changes considered necessary when they are experimental (despite Richter et al. 2001)[^richter-2001]--health policy trials may require a very different approach to consent than clinical trials (Faden et al. 2013, Mackay and Chakrabarti 2019)[^faden-2013].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有趣的是，对于公共卫生干预——其对人类健康的影响可能超过临床干预——通常很少甚至不强制要求知情同意。接触促进人群健康的广告与“助推”，在我们多数人看来似乎正当，即便执行干预的当局对这些干预、其风险、替代方案以及任何真正避免它们的机会披露甚少。影响大规模事故率的交通法规变更，并不被认为需要每位公民同意。此类变更即便是实验性的，也不被认为需要同意（尽管有 Richter et al. 2001）[^richter-2001]——卫生政策试验对同意的处理方式可能与临床试验大不相同（Faden et al. 2013, Mackay and Chakrabarti 2019）[^faden-2013]。
+    step2: |-
+      有趣的是，对于公共卫生干预——其对人类健康的影响可能超过临床干预——通常很少甚至不强制要求知情同意。接触促进人群健康的广告与“助推”，在我们多数人看来似乎正当，即便执行干预的当局对这些干预、其风险、替代方案以及任何真正避免它们的机会披露甚少。影响大规模事故率的交通法规变更，并不被认为需要每位公民同意。此类变更即便是实验性的，也不被认为需要同意（尽管有 Richter et al. 2001）[^richter-2001]——卫生政策试验对同意的处理方式可能与临床试验大不相同（Faden et al. 2013, Mackay and Chakrabarti 2019）[^faden-2013]。
   - id: 97
     kind: body
     source: |-
       Differently put, even in the absence of public health emergencies (which can warrant transgressions like forced geographical isolation), the widely accepted standard in public health seems more intrusive than the one in clinical care. As further illustration, many would agree that it is legitimate to implement smoke-free bar laws that somewhat increase anti-smoking stigma, partly in order to goad smokers to quit (and not only as measures to protect third parties from second-hand smoke). But most would condemn a clinician who deliberately boosts stigma to goad an individual patient to quit smoking (e.g. mocking the stink), and might explain that such pressure undermines the patient’s freedom to decide whether to quit. Is one of these arguably different approaches to informed consent right and the other one, wrong? Or is informed consent morally required for some interventions and not for others?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      换言之，即便在没有公共卫生紧急状态（那可以正当化强制地理隔离之类的越界）的情况下，公共卫生领域广为接受的标准似乎也比临床照护的标准更具侵入性。再举一例：许多人会同意，实施无烟酒吧法、在某种程度上加剧反吸烟污名是正当的，部分正是为了促使吸烟者戒烟（而不只是作为保护第三方免受二手烟之害的措施）。但多数人会谴责一位临床医生为促使某位病人戒烟而故意加剧污名（例如嘲笑其烟臭），并可能解释说这种压力损害了病人决定是否戒烟的自由。这两种对知情同意的进路中，是否一者对、另一者错？还是说，知情同意对某些干预是道德必需的，对另一些则不是？
+    step2: |-
+      换言之，即便在没有公共卫生紧急状态（那可以正当化强制地理隔离之类的越界）的情况下，公共卫生领域广为接受的标准似乎也比临床照护的标准更具侵入性。再举一例：许多人会同意，实施无烟酒吧法、在某种程度上加剧反吸烟污名是正当的，部分正是为了促使吸烟者戒烟（而不只是作为保护第三方免受二手烟之害的措施）。但多数人会谴责一位临床医生为促使某位病人戒烟而故意加剧污名（例如嘲笑其烟臭），并可能解释说这种压力损害了病人决定是否戒烟的自由。这两种对知情同意的进路中，是否一者对、另一者错？还是说，知情同意对某些干预是道德必需的，对另一些则不是？
   - id: 98
     kind: body
     source: |-
       ### 7.4 Informed consent—when?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.4 知情同意——何时必要？
+    step2: |-
+      ### 7.4 知情同意——何时必要？
   - id: 99
     kind: body
     source: |-
       An emerging picture is that the need for informed consent depends on many variables. Just like being informed, the voluntariness of choices comes in degrees (Beauchamp and Childress 2008, 101)[^beauchamp-2008]. Threats, for example, control us to different degrees, depending on the degree of harm being threatened (Beauchamp 2010, 70–1)[^beauchamp-2010]. The level of voluntariness necessary for valid consent to medical intervention may vary according to the type of intervention offered. So does the level of decision-making capacity necessary for valid consent (Buchanan and Brock 1989, ch. 1; Beauchamp 2010, 71)[^beauchamp-2010][^buchanan-1989]. Robust informed consent that requires a great deal of information, voluntariness, and decisional capacity and is formalized and relatively non-waiveable, is necessary sometimes, but not always. Roughly speaking, robust informed consent (Joffe and Truog 2010, 358; Miller 2010, 391; Beauchamp and Childress 2008, 101; Beauchamp 2010, 70–1)[^beauchamp-2010][^beauchamp-2008][^joffe-2010][^miller-2010][^miller-2010-2] tends to be necessary the more risky the intervention, the more it is a high-impact (e.g. a definitive “critical life choice”: Archard 2008)[^archard-2008], the more it is value-laden and controversial, the more private the area of the body that the intervention directly affects (Mazor 2019)[^mazor-2019], and the more conflicted and unsupervised the practitioner. On other occasions, the need for very robust informed consent, and indeed, for consent of any form, is lesser (Miller 2010, 393)[^miller-2010][^miller-2010-2]. On those occasions, high financial or other costs of robust consent procedures easily override that need.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      逐渐浮现的图景是：对知情同意的需要取决于许多变量。与“知情”一样，选择的自愿性也有程度之分（Beauchamp and Childress 2008, 101）[^beauchamp-2008]。例如，威胁对我们的控制程度各不相同，取决于所威胁的伤害程度（Beauchamp 2010, 70–1）[^beauchamp-2010]。对医疗干预的有效同意所需的自愿性水平，可能随所提供干预的类型而变化。有效同意所需的决策能力水平亦然（Buchanan and Brock 1989, ch. 1; Beauchamp 2010, 71）[^beauchamp-2010][^buchanan-1989]。要求大量信息、自愿性与决策能力，且已形式化、相对不可放弃的强健知情同意，有时必要，但并非总是必要。粗略地说，干预风险越大、影响越大（例如一种决定性的“关键人生选择”：Archard 2008）[^archard-2008]、越负载价值且越有争议、所直接影响的体表区域越私密（Mazor 2019）[^mazor-2019]，以及从业者越处于冲突、越缺乏监督，强健知情同意（Joffe and Truog 2010, 358; Miller 2010, 391; Beauchamp and Childress 2008, 101; Beauchamp 2010, 70–1）[^beauchamp-2010][^beauchamp-2008][^joffe-2010][^miller-2010][^miller-2010-2] 往往越必要。在其他场合，对非常强健的知情同意、乃至对任何形式同意的需要则较小（Miller 2010, 393）[^miller-2010][^miller-2010-2]。在那些场合，强健同意程序的高昂财务或其他成本很容易压倒该需要。
+    step2: |-
+      逐渐浮现的图景是：对知情同意的需要取决于许多变量。与“知情”一样，选择的自愿性也有程度之分（Beauchamp and Childress 2008, 101）[^beauchamp-2008]。例如，威胁对我们的控制程度各不相同，取决于所威胁的伤害程度（Beauchamp 2010, 70–1）[^beauchamp-2010]。对医疗干预的有效同意所需的自愿性水平，可能随所提供干预的类型而变化。有效同意所需的决策能力水平亦然（Buchanan and Brock 1989, ch. 1; Beauchamp 2010, 71）[^beauchamp-2010][^buchanan-1989]。要求大量信息、自愿性与决策能力，且已形式化、相对不可放弃的强健知情同意，有时必要，但并非总是必要。粗略地说，干预风险越大、影响越大（例如一种决定性的“关键人生选择”：Archard 2008）[^archard-2008]、越负载价值且越有争议、所直接影响的体表区域越私密（Mazor 2019）[^mazor-2019]，以及从业者越处于冲突、越缺乏监督，强健知情同意（Joffe and Truog 2010, 358; Miller 2010, 391; Beauchamp and Childress 2008, 101; Beauchamp 2010, 70–1）[^beauchamp-2010][^beauchamp-2008][^joffe-2010][^miller-2010][^miller-2010-2] 往往越必要。在其他场合，对非常强健的知情同意、乃至对任何形式同意的需要则较小（Miller 2010, 393）[^miller-2010][^miller-2010-2]。在那些场合，强健同意程序的高昂财务或其他成本很容易压倒该需要。
   - id: 100
     kind: body
     source: |-
       Does the need for informed consent depend, among other variables, on whether the consent is for research or for care? Currently, consent procedures for research tend to be more demanding and more regulated than consent procedures for equally intrusive treatment (Levine 1988, 127–30; Miller 2010, 381)[^levine-1988][^miller-2010][^miller-2010-2]. Why? A standard account is that the proper goal of research is to gather generalizable knowledge, and not to help the individual, and that this different goal enhances the need for protections like informed consent (Fried 1974)[^fried-1974]. However, actual goals often differ from proper goals. In reality, many researchers are highly committed to promoting participants’ health, and many clinicians seek primarily financial gain, sometimes at patients’ expense. In addition, studies are reviewed independently for their safety, making some so safe that (with or without consent) they impose less risk than similar clinical care. Another rationale for the fewer consent requirements in care is that the relationship between the clinician and the patient is typically a fiduciary one whereas the relationship between the investigator and the study participant is scarcely fiduciary (Joffe and Truog 2010, 364)[^joffe-2010]. But this rationale could easily work the other way around: assuming that the fiduciary relationship is a ground for informed consent (Joffe and Truog 2010, 352ff.)[^joffe-2010], the more fiduciary clinical relationship should demand more, not less, by way of informed consent.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对知情同意的需要，除其他变量外，是否还取决于同意是为了研究还是为了照护？目前，研究同意程序往往比同等侵入性治疗的同意程序更苛刻、更受监管（Levine 1988, 127–30; Miller 2010, 381）[^levine-1988][^miller-2010][^miller-2010-2]。为什么？一种标准说明是：研究的恰当目标是获取可推广的知识，而非帮助个人，这一不同目标增强了对知情同意之类保护的需要（Fried 1974）[^fried-1974]。然而，实际目标常与恰当目标不同。现实中，许多研究者高度致力于促进参与者的健康，许多临床医生则主要追求经济收益，有时以病人为代价。此外，研究的安全性会受到独立审查，有些研究安全到（无论有无同意）所施加的风险低于类似的临床照护。照护中同意要求较少的另一理据是：临床医生与病人之间的关系通常是信义关系，而研究者与研究参与者之间的关系几乎不是信义关系（Joffe and Truog 2010, 364）[^joffe-2010]。但这一理据很容易反过来说：假定信义关系是知情同意的根据（Joffe and Truog 2010, 352ff.）[^joffe-2010]，那么更具信义性的临床关系就应以知情同意要求更多，而非更少。
+    step2: |-
+      对知情同意的需要，除其他变量外，是否还取决于同意是为了研究还是为了照护？目前，研究同意程序往往比同等侵入性治疗的同意程序更苛刻、更受监管（Levine 1988, 127–30; Miller 2010, 381）[^levine-1988][^miller-2010][^miller-2010-2]。为什么？一种标准说明是：研究的恰当目标是获取可推广的知识，而非帮助个人，这一不同目标增强了对知情同意之类保护的需要（Fried 1974）[^fried-1974]。然而，实际目标常与恰当目标不同。现实中，许多研究者高度致力于促进参与者的健康，许多临床医生则主要追求经济收益，有时以病人为代价。此外，研究的安全性会受到独立审查，有些研究安全到（无论有无同意）所施加的风险低于类似的临床照护。照护中同意要求较少的另一理据是：临床医生与病人之间的关系通常是信义关系，而研究者与研究参与者之间的关系几乎不是信义关系（Joffe and Truog 2010, 364）[^joffe-2010]。但这一理据很容易反过来说：假定信义关系是知情同意的根据（Joffe and Truog 2010, 352ff.）[^joffe-2010]，那么更具信义性的临床关系就应以知情同意要求更多，而非更少。
   - id: 101
     kind: body
     source: |-
       Let us return to the general picture of scalar need for informed consent, which depends on many variables and generates different requirements on different occasions (Dickert et al. 2017)[^dickert-2017]. It also raises interesting practical questions. First, who should decide when (relatively exacting and burdensome) informed consent is necessary (Joffe and Truog 2010, 361)[^joffe-2010]? Might a crude, one-size-fits-all requirement of informed consent serve most practical purposes (Wertheimer 2014)[^wertheimer-2014]? Perhaps a fair compromise is to use an “intervention ladder” that defines broad categories of intervention as more or less intrusive, then specifies broad categories of circumstance that require especially robust consent in some cases and only minimal consent in others (Nuffield Council on Bioethics 2007, 41–3)[^nuffield-2007]? What seems, in any event, to emerge is that the need for informed consent would be misrepresented as fundamentally a single constraint or threshold. In this area, at least, commonsense morality acknowledges that prescriptions’ strengths and characters vary, with multiple determinants.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      让我们回到对知情同意之需要呈标量式的总体图景：它取决于许多变量，并在不同场合产生不同要求（Dickert et al. 2017）[^dickert-2017]。它也提出有趣的实践问题。第一，应由谁决定何时需要（相对严格且繁重的）知情同意（Joffe and Truog 2010, 361）[^joffe-2010]？一项粗糙的、一刀切的知情同意要求是否可服务于多数实践目的（Wertheimer 2014）[^wertheimer-2014]？或许一种公平的折中是采用“干预阶梯”，把干预的宽泛类别界定为侵入性较强或较弱，再规定哪些宽泛情形类别在某些情况下需要特别强健的同意、在另一些情况下只需最低限度的同意（Nuffield Council on Bioethics 2007, 41–3）[^nuffield-2007]？无论如何，似乎浮现出的是：把对知情同意的需要误表为根本上单一约束或阈值，并不正确。至少在此领域，常识道德承认规范的强度与性质随多重决定因素而变化。
+    step2: |-
+      让我们回到对知情同意之需要呈标量式的总体图景：它取决于许多变量，并在不同场合产生不同要求（Dickert et al. 2017）[^dickert-2017]。它也提出有趣的实践问题。第一，应由谁决定何时需要（相对严格且繁重的）知情同意（Joffe and Truog 2010, 361）[^joffe-2010]？一项粗糙的、一刀切的知情同意要求是否可服务于多数实践目的（Wertheimer 2014）[^wertheimer-2014]？或许一种公平的折中是采用“干预阶梯”，把干预的宽泛类别界定为侵入性较强或较弱，再规定哪些宽泛情形类别在某些情况下需要特别强健的同意、在另一些情况下只需最低限度的同意（Nuffield Council on Bioethics 2007, 41–3）[^nuffield-2007]？无论如何，似乎浮现出的是：把对知情同意的需要误表为根本上单一约束或阈值，并不正确。至少在此领域，常识道德承认规范的强度与性质随多重决定因素而变化。
   - id: 102
     kind: body
     source: |-
       ## 8. The status of informed consent
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 8. 知情同意的地位
+    step2: |-
+      ## 8. 知情同意的地位
   - id: 103
     kind: body
     source: |-
       When informed consent is required, what kind of requirement does it represent? In particular, does it correlate to a natural right, to a legal right, or to something else?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当知情同意被要求时，它代表何种要求？特别是，它对应一项自然权利、一项法律权利，还是别的什么？
+    step2: |-
+      当知情同意被要求时，它代表何种要求？特别是，它对应一项自然权利、一项法律权利，还是别的什么？
   - id: 104
     kind: body
     source: |-
       Bioethicists and human rights lawyers tend to assume that informed consent is a natural right that generates a correlative objective moral duty and, downstream, legal and institutional duties. Many contemporary philosophers assume that consent has moral “magic” that turns what would have been a wrongful action into a right one, in an objective, moral sense (Hurd 1996)[^hurd-1996]. But some of the aforementioned justifications for informed consent better support other assumptions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      生命伦理学家与人权律师往往假定，知情同意是一项自然权利，它产生相应的客观道德义务，并在下游产生法律与制度义务。许多当代哲学家假定，同意具有道德“魔力”，能在客观道德意义上把本属不当的行动变为正当（Hurd 1996）[^hurd-1996]。但上述某些知情同意的正当化理由，更支持其他假定。
+    step2: |-
+      生命伦理学家与人权律师往往假定，知情同意是一项自然权利，它产生相应的客观道德义务，并在下游产生法律与制度义务。许多当代哲学家假定，同意具有道德“魔力”，能在客观道德意义上把本属不当的行动变为正当（Hurd 1996）[^hurd-1996]。但上述某些知情同意的正当化理由，更支持其他假定。
   - id: 105
     kind: body
     source: |-
       For example, the forward-looking trust rationale mentioned earlier can be understood to mean that, morally, we should enshrine and then honor legal (and cultural) informed consent requirements to protect trust in medical practitioners. On that view, violating informed consent requirements toward a patient does not necessarily violate that patient’s natural moral rights, only what *are* and morally *should* remain everyone’s legally protected interests.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      例如，前面提到的前瞻性信任理据可被理解为：在道德上，我们应当确立并遵守法律（与文化）层面的知情同意要求，以保护对医疗从业者的信任。按此观点，违反针对某病人的知情同意要求，并不必然侵犯该病人的自然道德权利，而只是侵犯了*事实上*且道德上*应当*继续受法律保护的每个人利益。
+    step2: |-
+      例如，前面提到的前瞻性信任理据可被理解为：在道德上，我们应当确立并遵守法律（与文化）层面的知情同意要求，以保护对医疗从业者的信任。按此观点，违反针对某病人的知情同意要求，并不必然侵犯该病人的自然道德权利，而只是侵犯了*事实上*且道德上*应当*继续受法律保护的每个人利益。
   - id: 106
     kind: body
     source: |-
       In a further model, the uniform requirement of informed consent across circumstances reflects our sheer epistemological problem telling in advance the typical circumstances when it objectively applies from relative exceptions on which it does not (Wertheimer 2014, about the requirement in intervention research; see also Alexander 2014)[^alexander-2014][^wertheimer-2014]. In a still further model, the informed consent requirement only appears to apply homogeneously across circumstances in the eyes of agents who have cultivated, as morally they should, a fruitful yet false belief in the requirement’s objectively homogeneous application (Eyal 2015)[^eyal-2015]. In a final model, the justified legal standing of informed consent bolsters its moral standing (Miller and Wertheimer 2010, 82–3)[^miller-2010][^miller-2010-2][^wertheimer-2010].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在又一种模型中，知情同意在各类情形中的统一要求，反映了我们纯粹认识论上的困难：事先分辨该要求客观上适用的典型情形与它不适用的相对例外（Wertheimer 2014, 论干预研究中的要求；亦见 Alexander 2014）[^alexander-2014][^wertheimer-2014]。在再一种模型中，知情同意要求只是在那些已（在道德上应当）培养出一种有益却错误的信念——即该要求客观同质地适用——的行动者眼中，才显得同质地适用于各类情形（Eyal 2015）[^eyal-2015]。在最后一种模型中，知情同意获得正当法律地位这一点，支撑了其道德地位（Miller and Wertheimer 2010, 82–3）[^miller-2010][^miller-2010-2][^wertheimer-2010]。
+    step2: |-
+      在又一种模型中，知情同意在各类情形中的统一要求，反映了我们纯粹认识论上的困难：事先分辨该要求客观上适用的典型情形与它不适用的相对例外（Wertheimer 2014, 论干预研究中的要求；亦见 Alexander 2014）[^alexander-2014][^wertheimer-2014]。在再一种模型中，知情同意要求只是在那些已（在道德上应当）培养出一种有益却错误的信念——即该要求客观同质地适用——的行动者眼中，才显得同质地适用于各类情形（Eyal 2015）[^eyal-2015]。在最后一种模型中，知情同意获得正当法律地位这一点，支撑了其道德地位（Miller and Wertheimer 2010, 82–3）[^miller-2010][^miller-2010-2][^wertheimer-2010]。
   - id: 107
     kind: body
     source: |-
       One reason to take non-naturalistic approaches to the status of informed consent seriously is that not all natural rights are legally enforceable. Therefore, a moral informed consent right that is legally enforceable (as that right is usually taken to be in at least some institutional settings) may stand in need of additional moral justification, even if a natural right has been established. That additional, inescapable moral justification may then turn out to justify informed consent regulations even absent natural informed consent rights, say as trust-building measures. In particular, recall that many bioethicists ground informed consent in duties to treat rational, autonomous persons respectfully. Some such duties are clearly non-enforceable. For example, the moral duty not to lie to friends, disrespectfully and in breach of their autonomous decision-making, is seldom legitimately enforceable. Thus, additional justification would be needed, beyond simple appeal to respect for autonomy, in order to establish an enforceable informed consent requirement. That inescapable additional moral justification may then turn out, if successful, to justify informed consent regulations and the surrounding ethos on its own. It may do so even if the project of grounding informed consent in autonomy, and all other attempts to justify natural informed consent rights, founder.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      认真对待关于知情同意地位的非自然主义进路，一个理由是：并非所有自然权利都可法律强制执行。因此，一项可法律强制执行的道德知情同意权（至少在某些制度环境中通常被认为如此），即便自然权利已经确立，也可能仍需额外的道德正当化。那种额外且不可回避的道德正当化，随后或许会证明：即便不存在自然的知情同意权，也能为知情同意法规及周边伦理气质提供正当化，譬如作为建立信任的措施。特别是，回想许多生命伦理学家把知情同意奠基于尊重理性、自主之人的义务。某些此类义务显然不可强制执行。例如，不对朋友撒谎——不尊重地、以破坏其自主决策的方式撒谎——的道德义务，鲜能正当地强制执行。因此，要确立一项可强制执行的知情同意要求，就需要超出简单诉诸尊重自主性的额外正当化。那种不可回避的额外道德正当化若成功，或许本身就能为知情同意法规及周边伦理气质提供正当化。即便把知情同意奠基于自主性的计划、以及一切为自然知情同意权辩护的尝试都失败，它或许仍能如此。
+    step2: |-
+      认真对待关于知情同意地位的非自然主义进路，一个理由是：并非所有自然权利都可法律强制执行。因此，一项可法律强制执行的道德知情同意权（至少在某些制度环境中通常被认为如此），即便自然权利已经确立，也可能仍需额外的道德正当化。那种额外且不可回避的道德正当化，随后或许会证明：即便不存在自然的知情同意权，也能为知情同意法规及周边伦理气质提供正当化，譬如作为建立信任的措施。特别是，回想许多生命伦理学家把知情同意奠基于尊重理性、自主之人的义务。某些此类义务显然不可强制执行。例如，不对朋友撒谎——不尊重地、以破坏其自主决策的方式撒谎——的道德义务，鲜能正当地强制执行。因此，要确立一项可强制执行的知情同意要求，就需要超出简单诉诸尊重自主性的额外正当化。那种不可回避的额外道德正当化若成功，或许本身就能为知情同意法规及周边伦理气质提供正当化。即便把知情同意奠基于自主性的计划、以及一切为自然知情同意权辩护的尝试都失败，它或许仍能如此。
   - id: 108
     kind: body
     source: |-
       ## 9. Consent in other domains
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 9. 其他领域中的同意
+    step2: |-
+      ## 9. 其他领域中的同意
   - id: 109
     kind: body
     source: |-
       For decades, bioethicists have discussed medical informed consent in relative isolation from consent in political philosophy, contract theory, and sexual ethics, where notions of consent are also pivotal. This is finally changing, and it raises new technical and philosophical questions about how to put these different discourses in dialogue with each other. For instance, is what bioethicists call “presumed consent” the same thing as what political philosophers call “hypothetical consent”? Is what bioethicists call “proxy consent” one with what lawyers call “impersonal consent”? What bioethicists dub “invalid consent” would often be described by contract law experts as “lack of consent” (Beauchamp 2010, 56; Kleinig 2010, 13, 15)[^beauchamp-2010][^kleinig-2010].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      数十年来，生命伦理学家讨论医学知情同意时，相对孤立于政治哲学、契约论与性伦理学中的同意——这些领域中的同意观念同样关键。这一状况终于开始改变，它提出了新的技术与哲学问题：如何让这些不同话语相互对话。例如，生命伦理学家所谓的“推定同意”，是否等同于政治哲学家所谓的“假设同意”？生命伦理学家所谓的“代理同意”，是否等同于律师所谓的“非人身同意”？生命伦理学家所称的“无效同意”，契约法专家往往描述为“缺乏同意”（Beauchamp 2010, 56; Kleinig 2010, 13, 15）[^beauchamp-2010][^kleinig-2010]。
+    step2: |-
+      数十年来，生命伦理学家讨论医学知情同意时，相对孤立于政治哲学、契约论与性伦理学中的同意——这些领域中的同意观念同样关键。这一状况终于开始改变，它提出了新的技术与哲学问题：如何让这些不同话语相互对话。例如，生命伦理学家所谓的“推定同意”，是否等同于政治哲学家所谓的“假设同意”？生命伦理学家所谓的“代理同意”，是否等同于律师所谓的“非人身同意”？生命伦理学家所称的“无效同意”，契约法专家往往描述为“缺乏同意”（Beauchamp 2010, 56; Kleinig 2010, 13, 15）[^beauchamp-2010][^kleinig-2010]。
   - id: 110
     kind: body
     source: |-
       This new development also raises substantive normative questions. For example, imagine that the same basic principle underlies legitimate political regimes and legitimate medical experimentation. It may follow that either tacit consent to a political regime, which Lockean contract theorists often cite, cannot successfully legitimize political regimes—because it would not suffice for most medical studies; or that tacit consent successfully legitimizes medical experimentation. Likewise, imagine that the same basic principle underlies the redistributive agency’s legitimate procurement of income and that of organs for transplantation. Then perhaps either income tax—without tax-payers’ consent—is illegitimate (Nozick 1986)[^nozick-1986], or a “kidney tax” could be perfectly legitimate (Fabre 2008, chs. 4–5)[^fabre-2008]. Either way, existing practice in one of these domains would be misguided.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一新发展也提出实质性的规范问题。例如，设想同一条基本原则既支撑正当的政治制度，也支撑正当的医学实验。那么或许可以推出：要么洛克式契约论者常引用的对政治制度的默示同意无法成功使政治制度正当化——因为它对多数医学研究而言并不充分；要么默示同意能成功使医学实验正当化。同样，设想同一条基本原则既支撑再分配机构对收入的正当获取，也支撑其对移植器官的正当获取。那么或许要么所得税——未经纳税人同意——不正当（Nozick 1986）[^nozick-1986]，要么“肾脏税”完全可以正当（Fabre 2008, chs. 4–5）[^fabre-2008]。无论哪种，其中一个领域的现行实践都会被误导。
+    step2: |-
+      这一新发展也提出实质性的规范问题。例如，设想同一条基本原则既支撑正当的政治制度，也支撑正当的医学实验。那么或许可以推出：要么洛克式契约论者常引用的对政治制度的默示同意无法成功使政治制度正当化——因为它对多数医学研究而言并不充分；要么默示同意能成功使医学实验正当化。同样，设想同一条基本原则既支撑再分配机构对收入的正当获取，也支撑其对移植器官的正当获取。那么或许要么所得税——未经纳税人同意——不正当（Nozick 1986）[^nozick-1986]，要么“肾脏税”完全可以正当（Fabre 2008, chs. 4–5）[^fabre-2008]。无论哪种，其中一个领域的现行实践都会被误导。
   - id: 111
     kind: body
     source: |-
       On a different approach, fundamentally different right-making principles and rationales regarding consent apply in domains like medicine, sex, political life, and the marketplace, as might be indicated by the variety of approaches to consent between these domains. For example, in most commercial transactions, unlike in the medical sphere, there are no legal requirements to disclose all relevant information and to verify that it is understood (Miller and Wertheimer 2010, 80; Joffe and Truog 2010, 351)[^joffe-2010][^miller-2010][^miller-2010-2][^wertheimer-2010], perhaps indicating that in commerce, fairness or the right to be spared exhausting disclosures (Chomanski and Lauwaert, forthcoming) generally matter more than autonomous decision-making. Likewise, whereas once we consent to sell a car or to support a political candidate (by signing a contract or casting a vote) our consent is not retractable, invasive medical intervention is usually considered illegitimate once a previously consenting patient or research participant expresses a change of mind—as though the point of consent in the medical arena were not simply autonomous authorization but ongoing control. Finally, if A mishears B’s consent to sex as refusal yet proceeds with sexual advances, a third party who understands the full picture has strong reasons to stop A’s advances (*pace* Alexander 2014, 105)[^alexander-2014]. But if a physician mishears a patient’s consent to medically beneficial treatment as refusal yet proceeds to it, it is far less clear that a third party who understands the full picture should thwart the treatment. The point of medical care is, after all, not defeated by discordance of attitudes in quite the same way that the point of sex is. One possible conclusion from this variety is that the very point of requiring informed consent, and hence what is fundamentally required and when, vary between domains.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按另一种进路，在医学、性、政治生活与市场等领域，适用于同意的根本正当化原则与理据各不相同，这些领域对同意的不同处理方式或可表明这一点。例如，在多数商业交易中，与医学领域不同，并无法律要求披露一切相关信息并核实其已被理解（Miller and Wertheimer 2010, 80; Joffe and Truog 2010, 351）[^joffe-2010][^miller-2010][^miller-2010-2][^wertheimer-2010]；这或许表明在商业中，公平或免于令人疲惫之披露的权利（Chomanski and Lauwaert, forthcoming）通常比自主决策更重要。同样，一旦我们同意卖车或支持某位政治候选人（通过签署合同或投票），我们的同意便不可撤回；而侵入性医疗干预通常在先前同意的病人或研究参与者表示改变主意后即被视为不正当——仿佛医学领域中同意的意义不只是自主授权，而是持续控制。最后，若 A 把 B 对性行为的同意误听为拒绝，却仍推进性挑逗，那么了解全貌的第三方有强理由阻止 A 的挑逗（*pace* Alexander 2014, 105）[^alexander-2014]。但若一位医生把病人对医学上有益治疗的同意误听为拒绝，却仍施行治疗，那么了解全貌的第三方是否应阻止治疗就远不清楚。毕竟，医疗的目的不会像性的目的那样，因态度不一致而被同样地挫败。从这种多样性可能得出的一个结论是：要求知情同意的根本意义、因而根本要求什么以及何时要求，因领域而异。
+    step2: |-
+      按另一种进路，在医学、性、政治生活与市场等领域，适用于同意的根本正当化原则与理据各不相同，这些领域对同意的不同处理方式或可表明这一点。例如，在多数商业交易中，与医学领域不同，并无法律要求披露一切相关信息并核实其已被理解（Miller and Wertheimer 2010, 80; Joffe and Truog 2010, 351）[^joffe-2010][^miller-2010][^miller-2010-2][^wertheimer-2010]；这或许表明在商业中，公平或免于令人疲惫之披露的权利（Chomanski and Lauwaert, forthcoming）通常比自主决策更重要。同样，一旦我们同意卖车或支持某位政治候选人（通过签署合同或投票），我们的同意便不可撤回；而侵入性医疗干预通常在先前同意的病人或研究参与者表示改变主意后即被视为不正当——仿佛医学领域中同意的意义不只是自主授权，而是持续控制。最后，若 A 把 B 对性行为的同意误听为拒绝，却仍推进性挑逗，那么了解全貌的第三方有强理由阻止 A 的挑逗（*pace* Alexander 2014, 105）[^alexander-2014]。但若一位医生把病人对医学上有益治疗的同意误听为拒绝，却仍施行治疗，那么了解全貌的第三方是否应阻止治疗就远不清楚。毕竟，医疗的目的不会像性的目的那样，因态度不一致而被同样地挫败。从这种多样性可能得出的一个结论是：要求知情同意的根本意义、因而根本要求什么以及何时要求，因领域而异。
   - id: 112
     kind: body
     source: |-
       ## 10. Conclusion: the core of informed consent
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 10. 结论：知情同意的核心
+    step2: |-
+      ## 10. 结论：知情同意的核心
   - id: 113
     kind: body
     source: |-
       Recent decades have seen doubts surfacing about informed consent, but that just makes the resilience of other parts of the requirement all the more striking. Even purported critics usually revise only the requirement’s prevalent justifications and interpretations in borderline areas, and leave a certain “core” intact. Given how much philosophers usually disagree, it is remarkable that, when a medical intervention is risky, value-laden, high-impact, physically invasive, and/or medically controversial, especially when a patient of sound mind explicitly refuses the intervention, most of us would feel that only the most dire costs would justify imposition of care. The grudging nature of relative skeptics’ acceptance of this core part of the requirement only attests to its philosophical resilience.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      近几十年来，对知情同意的疑虑浮现，但这只突显该要求其他部分的韧性。即便所谓的批评者，通常也只修正该要求在边缘领域的主流正当化与解释，而让某个“核心”保持完好。鉴于哲学家通常分歧之大，值得注意的是：当某项医疗干预有风险、负载价值、影响重大、身体侵入性强和/或在医学上有争议时，尤其当一位心智健全的病人明确拒绝该干预时，我们多数人会感到，只有最惨重的代价才足以证明强加照护为正当。相对怀疑者对这一核心部分的勉强接受，恰恰证明其哲学韧性。
+    step2: |-
+      近几十年来，对知情同意的疑虑浮现，但这只突显该要求其他部分的韧性。即便所谓的批评者，通常也只修正该要求在边缘领域的主流正当化与解释，而让某个“核心”保持完好。鉴于哲学家通常分歧之大，值得注意的是：当某项医疗干预有风险、负载价值、影响重大、身体侵入性强和/或在医学上有争议时，尤其当一位心智健全的病人明确拒绝该干预时，我们多数人会感到，只有最惨重的代价才足以证明强加照护为正当。相对怀疑者对这一核心部分的勉强接受，恰恰证明其哲学韧性。
   - id: 114
     kind: body
     source: |-
       In seeking justification for the requirement of informed consent, we may therefore not have one task, but many. We need to justify this powerful, relatively non-controversial core, as well as a weaker and more questionable rim. It is possible that the core stems directly from natural right, whereas the rim is merely instrumental or conventional. It is also possible that they both rely on the same ground, say, the value of autonomy, but touch on it in different measures. Even if the core of the requirement of informed consent commands high priority, other parts may turn out to be easily overridable by competing values, including the value of advancing scientific research.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，在为知情同意要求寻求正当化时，我们面前或许不是一项任务，而是许多任务。我们需要为这一有力、相对无争议的核心辩护，也要为一个较弱且更可疑的外缘辩护。可能核心直接源自自然权利，而外缘只是工具性的或约定性的。也可能两者依靠同一根据——譬如自主性的价值——只是以不同尺度触及它。即便知情同意要求的核心拥有很高优先性，其他部分也可能轻易被竞争性价值（包括推进科学研究的价值）压倒。
+    step2: |-
+      因此，在为知情同意要求寻求正当化时，我们面前或许不是一项任务，而是许多任务。我们需要为这一有力、相对无争议的核心辩护，也要为一个较弱且更可疑的外缘辩护。可能核心直接源自自然权利，而外缘只是工具性的或约定性的。也可能两者依靠同一根据——譬如自主性的价值——只是以不同尺度触及它。即便知情同意要求的核心拥有很高优先性，其他部分也可能轻易被竞争性价值（包括推进科学研究的价值）压倒。
   - id: 115
     kind: oir
     source: |-
@@ -892,11 +944,21 @@ segments:
       - [The Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html)
       - [Declaration of Helsinki](https://jamanetwork.com/journals/jama/fullarticle/2825290)
       - [U.S. federal code 45 CFR 46](https://www.hhs.gov/ohrp/humansubjects/guidance/45cfr46.html#46.116)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - [《纽伦堡法典》](https://research.unc.edu/human-research-ethics/resources/ccm3_019064/)
+      - [《贝尔蒙报告》](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html)
+      - [《赫尔辛基宣言》](https://jamanetwork.com/journals/jama/fullarticle/2825290)
+      - [美国联邦法典 45 CFR 46](https://www.hhs.gov/ohrp/humansubjects/guidance/45cfr46.html#46.116)
+    step2: |-
+      - [《纽伦堡法典》](https://research.unc.edu/human-research-ethics/resources/ccm3_019064/)
+      - [《贝尔蒙报告》](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html)
+      - [《赫尔辛基宣言》](https://jamanetwork.com/journals/jama/fullarticle/2825290)
+      - [美国联邦法典 45 CFR 46](https://www.hhs.gov/ohrp/humansubjects/guidance/45cfr46.html#46.116)
   - id: 116
     kind: ack
     source: |-
       For excellent comments, thanks are due to Jennifer Hawkins, as well as Dan Brock RIP, Tom Dougherty, Steve Joffe, Neil Manson, Emma Ryman, Robert Truog, David Wendler, Daniel Viehoff, Alan Wertheimer RIP, Dan Wikler, and my students. Work on recent editions was supported by Wellcome 208766/Z/17/Z.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      感谢 Jennifer Hawkins 的出色评论，也感谢 Dan Brock（已故）、Tom Dougherty、Steve Joffe、Neil Manson、Emma Ryman、Robert Truog、David Wendler、Daniel Viehoff、Alan Wertheimer（已故）、Dan Wikler 以及我的学生们。晚近几版的工作得到 Wellcome 208766/Z/17/Z 的支持。
+    step2: |-
+      感谢 Jennifer Hawkins 的出色评论，也感谢 Dan Brock（已故）、Tom Dougherty、Steve Joffe、Neil Manson、Emma Ryman、Robert Truog、David Wendler、Daniel Viehoff、Alan Wertheimer（已故）、Dan Wikler 以及我的学生们。晚近几版的工作得到 Wellcome 208766/Z/17/Z 的支持。

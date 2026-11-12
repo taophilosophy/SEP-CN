@@ -22,15 +22,15 @@ segments:
     step1: |-
       重要的是要意识到这一视角的抽象性，以免作出各种不成立的推论。一方面，人们很容易以为动态语义或更新语义至少部分地承诺了一种内在主义的意义观，因为信息状态是“内在的”——意思是它们完全包含在个体的心智/大脑之内。换句话说，人们可能认为动态语义的信息状态就是普特南（Putnam 1975）所说的“方法论唯我论意义上的状态”。参见科学实在论、心灵的计算理论、关于心理内容的外在主义与狭义心理内容各词条。然而，这一一般框架对状态是什么不作任何说明。状态完全可以包含解释者所处的环境，从而含有一个“外在的”成分。
     step2: |-
-      需要注意的是这一视角的抽象性，以防各种不当推论。其一，人们容易以为动态语义或更新语义至少部分地承诺了内在主义的意义观，因为信息状态是“内在的”——即完全包含在个体的心智/大脑之中。换言之，人们可能认为动态语义的信息状态就是普特南（Putnam 1975）所说的“方法论唯我论意义上的状态”（参见科学实在论、心灵的计算理论、关于心理内容的外在主义、狭义心理内容各词条）。然而，这一一般框架并未说明状态究竟是什么。状态完全可以包含解释者所处的环境，从而带有一个“外在”成分。
+      需要注意的是这一视角的抽象性，以防各种不当推论。其一，人们容易以为动态语义或更新语义至少部分地承诺了内在主义的意义观，因为信息状态是“内在的”——即完全包含在个体的心智/大脑之中。换言之，人们可能把动态语义的信息状态理解为普特南（Putnam 1975）所说的“方法论唯我论意义上的状态”。（参见科学实在论、心灵的计算理论、关于心理内容的外在主义、狭义心理内容各词条）然而，这一一般框架并未说明状态究竟是什么。状态完全可以包含解释者所处的环境，从而带有一个“外在”成分。
   - id: 3
     kind: body
     source: |-
       A second possible misunderstanding is that dynamic semantics or update semantics is in complete opposition to classical truth conditional semantics (compare the entries on classical logic and first-order model theory). In fact, as this entry will soon make clear, what dynamic semantics provides is a generalization of truth conditional semantics rather than a radically different alternative. The classical meanings become the *preconditions* for success of the discourse actions. Dynamic semanticists claim that *compositional meanings* have the nature of functions or relations and the classical meanings are recoverable from the relational dynamic meanings as *projections* onto their “input” coordinate.
     step1: |-
-      第二种可能的误解是，动态语义或更新语义与古典真值条件语义学完全对立（比较古典逻辑与一阶模型论词条）。事实上，正如本词条很快会表明的，动态语义提供的是真值条件语义学的一种推广，而不是一种彻底不同的替代方案。古典意义成为话语行动成功的** 前提条件 **（preconditions）。动态语义学家主张，** 组合性意义 **（compositional meanings）具有函数或关系的本性，而古典意义可以作为一种** 投影 **（projections），即向“输入”坐标的投影，从关系性动态意义中恢复出来。
+      第二种可能的误解是，动态语义或更新语义与古典真值条件语义学完全对立（比较古典逻辑与一阶模型论词条）。事实上，正如本词条很快会表明的，动态语义提供的是真值条件语义学的一种推广，而不是一种彻底不同的替代方案。古典意义成为话语行动成功的 **前提条件**（preconditions）。动态语义学家主张，**组合性意义**（compositional meanings）具有函数或关系的本性，而古典意义可以作为一种 **投影**（projections），即向“输入”坐标的投影，从关系性动态意义中恢复出来。
     step2: |-
-      第二种可能的误解是：动态语义或更新语义与古典真值条件语义学截然对立（参“古典逻辑”“一阶模型论”词条）。事实上，本词条稍后会说明，动态语义给出的是真值条件语义学的一种推广，而非彻底不同的替代方案：古典意义成为话语行动取得成功的*preconditions*（前提条件）。动态语义学家主张，*compositional meanings*（组合性意义）具有函数或关系的本性；古典意义则可以作为向“输入”坐标的*projections*（投影），从关系性动态意义中恢复出来。
+      第二种可能的误解是：动态语义或更新语义与古典真值条件语义学截然对立（参“古典逻辑”“一阶模型论”词条）。事实上，本词条稍后说明：动态语义推广了真值条件语义学，而非提供彻底不同的替代方案——古典意义成为话语行动取得成功的*preconditions*（前提条件）。动态语义学家主张，*compositional meanings*（组合性意义）具有函数或关系的本性；古典意义则可以作为向“输入”坐标的*projections*（投影），从关系性动态意义中恢复出来。
   - id: 4
     kind: body
     source: |-
@@ -44,25 +44,25 @@ segments:
     source: |-
       Since dynamic semantics focuses on the discourse actions of sender and receiver, it is in a sense close to use-oriented approaches to meaning in philosophy such as the work of Wittgenstein and Dummett. However, easy identifications between dynamic semantics and these approaches are to be avoided. Dynamic semantics as an abstract framework is compatible with many philosophical ways of viewing meaning and interpretation. Dynamic semantics aims to *model* meaning and interpretation. You can do that without answering broader philosophical questions such as the question of what it is that makes it possible for the subject to be related to these meanings at all. For example, in dynamic predicate logic we take the meaning of *horse* as given without making any substantial claim about what it means for a subject to have the concept of *horse*; we just stipulate the subject has it. This is not to say such questions—which are at the center of the work of Wittgenstein and Dummett—should not ultimately be answered: it’s just that a model can be of interest even if it does not answer them. (Note that dynamic semantics tries to give a systematic and compositional account of meaning, which makes it markedly different in spirit from Wittgenstein’s later philosophy.)
     step1: |-
-      由于动态语义关注发送者与接收者的话语行动，它在某种意义上接近哲学中以使用为导向的意义进路，如维特根斯坦与达米特的工作。但不应把动态语义与这些进路轻易等同。作为抽象框架，动态语义与许多观察意义与解释的哲学方式相容。动态语义旨在对意义与解释进行** 建模 **。你可以在不回答更广泛的哲学问题（例如究竟是什么使主体能够与这些意义发生关联）的情况下这样做。例如，在动态谓词逻辑中，我们把** 马 **的意义视为给定的，而不对主体拥有** 马 **这一概念意味着什么作出实质主张；我们只是规定主体拥有它。这并不是说这类问题——它们处于维特根斯坦与达米特工作的中心——最终不应被回答：只是说，一个模型即便不回答它们，也可以是有意义的。（注意：动态语义试图给出关于意义的系统而组合性的说明，这使它在精神上明显不同于维特根斯坦后期哲学。）
+      由于动态语义关注发送者与接收者的话语行动，它在某种意义上接近哲学中以使用为导向的意义进路，如维特根斯坦与达米特的工作。但不应把动态语义与这些进路轻易等同。作为抽象框架，动态语义与许多观察意义与解释的哲学方式相容。动态语义旨在对意义与解释进行 **建模**。你可以在不回答更广泛的哲学问题（例如究竟是什么使主体能够与这些意义发生关联）的情况下这样做。例如，在动态谓词逻辑中，我们把 **马** 的意义视为给定的，而不对主体拥有 **马** 这一概念意味着什么作出实质主张；我们只是规定主体拥有它。这并不是说这类问题——它们处于维特根斯坦与达米特工作的中心——最终不应被回答：只是说，一个模型即便不回答它们，也可以是有意义的。（注意：动态语义试图给出关于意义的系统而组合性的说明，这使它在精神上明显不同于维特根斯坦后期哲学。）
     step2: |-
-      动态语义关注发送者与接收者的话语行动，因此在一定意义上接近哲学中以使用为导向的意义进路，如维特根斯坦与达米特的工作。但不宜把二者轻易等同：作为抽象框架，动态语义与许多看待意义与解释的哲学方式相容，它旨在对意义与解释进行** 建模 **。做这种建模，并不需要回答更宽泛的哲学问题，比如究竟是什么使主体得以与这些意义发生关联。例如在动态谓词逻辑中，我们把“马”的意义视为既定，并不对主体拥有“马”这一概念意味着什么作出实质断言，只是规定主体拥有它。这并非说这类问题（它们居于维特根斯坦与达米特工作的中心）最终不必回答，而只是说：一个模型即便不回答它们，也可以有价值。（动态语义力图给出系统而组合性的意义说明，这使它在精神上明显不同于维特根斯坦后期哲学。）
+      动态语义关注发送者与接收者的话语行动，因此在一定意义上接近哲学中以使用为导向的意义进路，如维特根斯坦与达米特的工作。但不宜把二者轻易等同：作为抽象框架，动态语义与许多看待意义与解释的哲学方式相容，它旨在对意义与解释进行 **建模**。做这种建模，并不需要回答更宽泛的哲学问题，比如究竟是什么使主体得以与这些意义发生关联。例如在动态谓词逻辑中，我们把“马”的意义视为既定，并不实质断言主体拥有“马”这一概念意味着什么，只是规定主体拥有它。这并非说这类问题（它们居于维特根斯坦与达米特工作的中心）最终不必回答，而只是说：一个模型即便不回答它们，也可以有价值。（动态语义力图给出系统而组合性的意义说明，这使它在精神上明显不同于维特根斯坦后期哲学。）
   - id: 6
     kind: body
     source: |-
       One approach to dynamic semantics is *discourse representation theory* (DRT, Kamp 1981)[^kamp-1981]. (Closely related to Kamp’s approach is Irene Heim’s *file change semantics* (FCS, Heim 1983a)[^heim-1983a] and the discourse semantics of Seuren 1985). Meanings in DRT are so-called *discourse representation structures* (DRSs). These structures are a type of database that contains specific pieces of information. In and of itself a DRS is a static object, but DRT can be said to be a dynamic semantic framework because it allows us to understand the process of composing meanings as a process of *merging* discourse representation structures. In this way, information change becomes an integral part of the interpretation process.
     step1: |-
-      动态语义的一种进路是** 话语表现理论 **（DRT，Kamp 1981）[^kamp-1981]。（与坎普的进路密切相关的是艾琳·海姆的** 文件变化语义学 **（FCS，Heim 1983a）[^heim-1983a] 以及 Seuren 1985 的话语语义学。）DRT 中的意义是所谓的** 话语表现结构 **（DRSs）。这些结构是一种数据库，包含特定的信息片段。DRS 本身是一个静态对象，但 DRT 可以说是一个动态语义框架，因为它使我们能够把组合意义的过程理解为** 合并 **话语表现结构的过程。这样一来，信息变化就成为解释过程不可分割的一部分。
+      动态语义的一种进路是 **话语表现理论**（DRT，Kamp 1981）[^kamp-1981]。（与坎普的进路密切相关的是艾琳·海姆的 **文件变化语义学**（FCS，Heim 1983a）[^heim-1983a] 以及 Seuren 1985 的话语语义学。）DRT 中的意义是所谓的 **话语表现结构**（DRSs）。这些结构是一种数据库，包含特定的信息片段。DRS 本身是一个静态对象，但 DRT 可以说是一个动态语义框架，因为它使我们能够把组合意义的过程理解为 **合并** 话语表现结构的过程。这样一来，信息变化就成为解释过程不可分割的一部分。
     step2: |-
-      动态语义的第一种进路是** 话语表现理论 **（discourse representation theory，DRT；Kamp 1981）[^kamp-1981]。与坎普的进路密切相关的是艾琳·海姆的** 文件变化语义学 **（file change semantics，FCS；Heim 1983a）[^heim-1983a]，以及 Seuren 1985 的话语语义学。DRT 中的意义是所谓** 话语表现结构 **（discourse representation structures，DRSs）：这类结构是一种数据库，含特定的信息片段。DRS 本身是静态对象，但 DRT 仍可称为动态语义框架——因为它使我们能把组合意义的过程理解为** 合并 **话语表现结构的过程，信息变化由此成为解释过程的组成部分。
+      动态语义的第一种进路是 **话语表现理论**（discourse representation theory，DRT；Kamp 1981）[^kamp-1981]。与坎普的进路密切相关的是艾琳·海姆的 **文件变化语义学**（file change semantics，FCS；Heim 1983a）[^heim-1983a]，以及 Seuren 1985 的话语语义学。DRT 中的意义是所谓 **话语表现结构**（discourse representation structures，DRSs）：这类结构是一种数据库，含特定的信息片段。DRS 本身是静态对象，但 DRT 仍可称为动态语义框架——因为它使我们能把组合意义的过程理解为 **合并** 话语表现结构的过程，信息变化由此成为解释过程的组成部分。
   - id: 7
     kind: body
     source: |-
       Our main focus in this entry is a second approach to dynamic semantics, although we will compare things to DRT along the way. In this second approach, dynamic meanings are types of actions, things that are individuated by the changes they effect. This is the approach associated with *dynamic predicate logic* (DPL, Groenendijk and Stokhof 1991a)[^groenendijk-1991a]. According to this dynamic semantic tradition, a meaning is a specification of how a receiver’s information state would be modified. It could for instance be a function that maps an old information state to one which has been *updated* with the information that the meaning embodies. Alternatively, it could be a relation that expresses the kind of information change that the meaning brings about. (For early work in this tradition, see Groenendijk and Stokhof 1991a,b; Muskens 1991; Dekker 1993; Vermeulen 1993; van Eijck 1994; Vermeulen 1994; Krahmer 1995; van den Berg 1996; Groenendijk et al. 1996; Aloni 1997; Muskens et al. 1997)[^aloni-1997][^berg-1996][^dekker-1993][^eijck-1994][^groenendijk-1991a][^groenendijk-1996][^krahmer-1995][^muskens-1991][^muskens-1997][^vermeulen-1993][^vermeulen-1994].
     step1: |-
-      本词条的主要焦点是动态语义的第二种进路，尽管我们会在途中与 DRT 作比较。在这一进路中，动态意义是行动的类型，即由其造成的变化来个体化的东西。这是与** 动态谓词逻辑 **（DPL，Groenendijk and Stokhof 1991a）[^groenendijk-1991a] 相联系的进路。按这一动态语义传统，一个意义就是关于接收者的信息状态将如何被修改的说明。例如，它可以是一个函数，把旧的信息状态映射到用该意义所体现的信息** 更新 **过的状态。或者，它可以是一个关系，表达该意义所带来的那种信息变化。（这一传统的早期工作见 Groenendijk and Stokhof 1991a,b；Muskens 1991；Dekker 1993；Vermeulen 1993；van Eijck 1994；Vermeulen 1994；Krahmer 1995；van den Berg 1996；Groenendijk et al. 1996；Aloni 1997；Muskens et al. 1997）[^aloni-1997][^berg-1996][^dekker-1993][^eijck-1994][^groenendijk-1991a][^groenendijk-1996][^krahmer-1995][^muskens-1991][^muskens-1997][^vermeulen-1993][^vermeulen-1994]
+      本词条的主要焦点是动态语义的第二种进路，尽管我们会在途中与 DRT 作比较。在这一进路中，动态意义是行动的类型，即由其造成的变化来个体化的东西。这是与 **动态谓词逻辑**（DPL，Groenendijk and Stokhof 1991a）[^groenendijk-1991a] 相联系的进路。按这一动态语义传统，一个意义就是关于接收者的信息状态将如何被修改的说明。例如，它可以是一个函数，把旧的信息状态映射到用该意义所体现的信息 **更新** 过的状态。或者，它可以是一个关系，表达该意义所带来的那种信息变化。（这一传统的早期工作见 Groenendijk and Stokhof 1991a,b；Muskens 1991；Dekker 1993；Vermeulen 1993；van Eijck 1994；Vermeulen 1994；Krahmer 1995；van den Berg 1996；Groenendijk et al. 1996；Aloni 1997；Muskens et al. 1997）[^aloni-1997][^berg-1996][^dekker-1993][^eijck-1994][^groenendijk-1991a][^groenendijk-1996][^krahmer-1995][^muskens-1991][^muskens-1997][^vermeulen-1993][^vermeulen-1994]
     step2: |-
-      本词条的主要焦点是第二种进路，途中也会与 DRT 比较。在这一进路中，动态意义是行动的类型——由其所造成的变化来个体化。这是与** 动态谓词逻辑 **（dynamic predicate logic，DPL；Groenendijk and Stokhof 1991a）[^groenendijk-1991a] 相联系的进路。按这一传统，意义是对接收者信息状态将如何被修改的说明：它可以是一个函数，把旧信息状态映射为用该意义所含信息** 更新 **过的状态；也可以是一个关系，表达该意义所造成的那种信息变化。（早期工作见 Groenendijk and Stokhof 1991a,b；Muskens 1991；Dekker 1993；Vermeulen 1993；van Eijck 1994；Vermeulen 1994；Krahmer 1995；van den Berg 1996；Groenendijk et al. 1996；Aloni 1997；Muskens et al. 1997）[^aloni-1997][^berg-1996][^dekker-1993][^eijck-1994][^groenendijk-1991a][^groenendijk-1996][^krahmer-1995][^muskens-1991][^muskens-1997][^vermeulen-1993][^vermeulen-1994]
+      本词条的主要焦点是第二种进路，途中也会与 DRT 比较。在这一进路中，动态意义是行动的类型——由其所造成的变化来个体化。这是与 **动态谓词逻辑**（dynamic predicate logic，DPL；Groenendijk and Stokhof 1991a）[^groenendijk-1991a] 相联系的进路。按这一传统，意义是对接收者信息状态将如何被修改的说明：它可以是一个函数，把旧信息状态映射为用该意义所含信息 **更新** 过的状态；也可以是一个关系，表达该意义所造成的那种信息变化。（早期工作见 Groenendijk and Stokhof 1991a,b；Muskens 1991；Dekker 1993；Vermeulen 1993；van Eijck 1994；Vermeulen 1994；Krahmer 1995；van den Berg 1996；Groenendijk et al. 1996；Aloni 1997；Muskens et al. 1997）[^aloni-1997][^berg-1996][^dekker-1993][^eijck-1994][^groenendijk-1991a][^groenendijk-1996][^krahmer-1995][^muskens-1991][^muskens-1997][^vermeulen-1993][^vermeulen-1994]
   - id: 8
     kind: body
     source: |-
@@ -78,7 +78,7 @@ segments:
     step1: |-
       陈述句的解释可以被视为一个产物或一个过程。从产物视角看，焦点在于给定情境中的真这一概念。从过程视角看，命题的解释被视为一个信息更新步骤，它使我们能够用一个新的、更准确的知识状态取代既有的知识状态。动态语义关注作为过程的解释。
     step2: |-
-      陈述句的解释可以看作产物，也可以看作过程。产物视角聚焦于给定情境中的真；过程视角则把命题的解释视为一个信息更新步骤——以新的、更准确的知识状态取代原有的知识状态。动态语义关注的正是作为过程的解释。
+      陈述句的解释可以看作产物，也可以看作过程。产物视角聚焦于给定情境中的真；过程视角则把命题的解释看作一次信息更新：用更准确的新知识状态取代原有状态。动态语义关注的正是作为过程的解释。
   - id: 10
     kind: body
     source: |-
@@ -92,9 +92,9 @@ segments:
     source: |-
       Update semantics is a particular way in which the interpretation-as-process idea can be implemented. The central idea behind update semantics is very simple. We start with a simple model of a hearer/receiver who receives items of information sequentially. At every moment the hearer is in a certain state: she possesses certain information. This state is modified by the incoming information in a systematic way. We now analyze the meaning of the incoming items as their contribution to the change of the information state of the receiver. Thus, meanings are seen as actions, or, more precisely, as *action types*: They are not the concrete changes of some given state into another, but what such concrete changes have in common.
     step1: |-
-      更新语义是实现“解释即过程”这一想法的一种特定方式。更新语义背后的核心想法非常简单。我们从一个关于听者/接收者的简单模型开始，他顺序地接收信息项。每一时刻，听者都处于某一状态：她拥有某些信息。这一状态以系统的方式被进来的信息所修改。我们于是把进来的信息项的意义分析为它们对接收者信息状态变化的贡献。这样，意义就被视为行动，更准确地说，被视为** 行动类型 **：它们不是把某一给定状态变成另一状态的具体变化，而是这类具体变化的共同之处。
+      更新语义是实现“解释即过程”这一想法的一种特定方式。更新语义背后的核心想法非常简单。我们从一个关于听者/接收者的简单模型开始，他顺序地接收信息项。每一时刻，听者都处于某一状态：她拥有某些信息。这一状态以系统的方式被进来的信息所修改。我们于是把进来的信息项的意义分析为它们对接收者信息状态变化的贡献。这样，意义就被视为行动，更准确地说，被视为 **行动类型**：它们不是把某一给定状态变成另一状态的具体变化，而是这类具体变化的共同之处。
     step2: |-
-      更新语义是落实“解释即过程”这一想法的一种具体方式。其核心想法很简单：我们设定一个听者/接收者的简单模型，他按顺序接收信息项。听者在每一时刻都处于某个状态，拥有某些信息；这一状态被进来的信息以系统的方式修改。于是我们把所接收信息项的意义分析为它们对接收者信息状态变化的贡献——意义由此被视为行动，更准确地说，是** 行动类型 **：不是把某个给定状态变成另一状态的具体变化，而是这类具体变化所共有者。
+      更新语义是落实“解释即过程”这一想法的一种具体方式。其核心想法很简单：我们设定一个听者/接收者的简单模型，他按顺序接收信息项。听者在每一时刻都处于某个状态，拥有某些信息；这一状态被进来的信息以系统的方式修改。于是我们把所接收信息项的意义，分析为它们对接收者信息状态变化的贡献。意义由此被视为行动，更准确地说，是 **行动类型**：不是把某个给定状态变成另一状态的具体变化，而是这类具体变化所共有者。
   - id: 12
     kind: body
     source: |-
@@ -127,15 +127,15 @@ segments:
       - *Conjunctions of statements*. These are of the form $\phi \wedge \psi$. The corresponding update action is to select those possibilities from the current context that form the intersection of the selections from the current context made by the $\phi$ and the $\psi$ statements.
       - *Disjunctions of statements*. These are of the form $\phi \vee \psi$. The corresponding update action is to select those possibilities from the current context that form the union of the selections made by the $\phi$ and the $\psi$ statements.
     step1: |-
-      - ** 原子陈述 **。它们是 $p, q, r$。相应的更新行动是从当前语境中选出那些该字母未被划掉（未加上划线）的可能。
-      - ** 否定陈述 **。其形式为 $\neg \phi$。相应的更新行动是从当前语境中选出那些构成 $\phi$ 陈述所选可能集合之补集的可能。
-      - ** 合取陈述 **。其形式为 $\phi \wedge \psi$。相应的更新行动是从当前语境中选出那些构成 $\phi$ 与 $\psi$ 陈述从当前语境所作选择之交集的可能。
-      - ** 析取陈述 **。其形式为 $\phi \vee \psi$。相应的更新行动是从当前语境中选出那些构成 $\phi$ 与 $\psi$ 陈述所作选择之并集的可能。
+      - **原子陈述**。它们是 $p, q, r$。相应的更新行动是从当前语境中选出那些该字母未被划掉（未加上划线）的可能。
+      - **否定陈述**。其形式为 $\neg \phi$。相应的更新行动是从当前语境中选出那些构成 $\phi$ 陈述所选可能集合之补集的可能。
+      - **合取陈述**。其形式为 $\phi \wedge \psi$。相应的更新行动是从当前语境中选出那些构成 $\phi$ 与 $\psi$ 陈述从当前语境所作选择之交集的可能。
+      - **析取陈述**。其形式为 $\phi \vee \psi$。相应的更新行动是从当前语境中选出那些构成 $\phi$ 与 $\psi$ 陈述所作选择之并集的可能。
     step2: |-
-      - ** 原子陈述 **：即 $p, q, r$。相应的更新行动，是从当前语境中选出该字母未被划掉（未加上划线）的那些可能。
-      - ** 否定陈述 **：形式为 $\neg \phi$。相应的更新行动，是从当前语境中选出构成 $\phi$ 陈述所选可能集合之补集的那些可能。
-      - ** 合取陈述 **：形式为 $\phi \wedge \psi$。相应的更新行动，是从当前语境中选出构成 $\phi$ 与 $\psi$ 陈述从当前语境所作选择之交集的那些可能。
-      - ** 析取陈述 **：形式为 $\phi \vee \psi$。相应的更新行动，是从当前语境中选出构成 $\phi$ 与 $\psi$ 陈述所作选择之并集的那些可能。
+      - **原子陈述**：即 $p, q, r$。相应的更新行动，是从当前语境中选出该字母未被划掉（未加上划线）的那些可能。
+      - **否定陈述**：形式为 $\neg \phi$。相应的更新行动，是从当前语境中选出构成 $\phi$ 陈述所选可能集合之补集的那些可能。
+      - **合取陈述**：形式为 $\phi \wedge \psi$。相应的更新行动，是从当前语境中选出构成 $\phi$ 与 $\psi$ 陈述从当前语境所作选择之交集的那些可能。
+      - **析取陈述**：形式为 $\phi \vee \psi$。相应的更新行动，是从当前语境中选出构成 $\phi$ 与 $\psi$ 陈述所作选择之并集的那些可能。
   - id: 16
     kind: body
     source: |-
@@ -143,7 +143,7 @@ segments:
     step1: |-
       这给出了命题联结词的意义，即从表示知识状态的旧语境到表示处理命题信息后所得知识状态的新语境的运算。
     step2: |-
-      由此，命题联结词的意义就是从表示知识状态的旧语境到新语境的运算，而新语境表示处理相应命题信息后所得的知识状态。
+      由此，命题联结词的意义就是一种运算：从表示知识状态的旧语境，到处理相应命题信息后所得的新语境。
   - id: 17
     kind: body
     source: |-
@@ -163,7 +163,7 @@ segments:
 
       $$ \begin{array}{|c|c|}\hline x & 12 \\\hline y & 117 \\\hline z & 3 \\\hline \end{array} $$
     step2: |-
-      把更新语义中的行动与程序语句及其执行作比较，颇有启发，因为它第一次显示出量化在动态环境中如何运作。命令式语言的程序语句是在机器状态的语境中被解释（“执行”）的，而机器状态可以看作给各寄存器赋值。设寄存器以变量 $x, y, z$ 命名，内容为自然数，则下面是一个机器状态：
+      把更新语义中的行动与程序语句及其执行作比较，颇有启发，因为它第一次显示出量化在动态环境中如何运作。命令式语言的程序语句，要在机器状态的语境中解释（“执行”）；机器状态则可看作给各寄存器赋值。设寄存器以变量 $x, y, z$ 命名，内容为自然数，则下面是一个机器状态：
 
       $$ \begin{array}{|c|c|}\hline x & 12 \\\hline y & 117 \\\hline z & 3 \\\hline \end{array} $$
   - id: 19
@@ -207,9 +207,9 @@ segments:
     source: |-
       Now consider the existential quantifier “there exists an $x$ such that $A$”. Suppose we add this quantifier to an imperative programming language. What would be its meaning? It would be an instruction to replace the old value of $x$ by a new value, where the new value has property $A$. We can decompose this into a part “there exists $x$” and a test “$A$”. A formula/instruction is a *test* if the update contributed by it takes the states in the input context one at a time and tests that they satisfy a particular condition. If they do, they are included in the output context; if they don’t, they are discarded. That is, a test is an update that takes an input context and outputs a context that is a subset of the input context. All the formulas of propositional logic in the Propositional logic as an update logic section above are tests.
     step1: |-
-      现在考虑存在量词“存在一个 $x$，使得 $A$”。假定我们把这一量词加入一种命令式编程语言。它的意义会是什么？它将是一条指令：用一个新的值取代 $x$ 的旧值，而新值具有性质 $A$。我们可以把它分解为“存在 $x$”这一部分与“$A$”这一检验。一个公式/指令是** 检验 **，如果它贡献的更新一次取输入语境中的一个状态，检验它是否满足某一条件。若满足，该状态被纳入输出语境；若不满足，则被丢弃。也就是说，检验是一种更新：它以输入语境为输入，输出输入语境的一个子集。上文“作为更新逻辑的命题逻辑”一节中命题逻辑的所有公式都是检验。
+      现在考虑存在量词“存在一个 $x$，使得 $A$”。假定我们把这一量词加入一种命令式编程语言。它的意义会是什么？它将是一条指令：用一个新的值取代 $x$ 的旧值，而新值具有性质 $A$。我们可以把它分解为“存在 $x$”这一部分与“$A$”这一检验。一个公式/指令是 **检验**，如果它贡献的更新一次取输入语境中的一个状态，检验它是否满足某一条件。若满足，该状态被纳入输出语境；若不满足，则被丢弃。也就是说，检验是一种更新：它以输入语境为输入，输出输入语境的一个子集。上文“作为更新逻辑的命题逻辑”一节中命题逻辑的所有公式都是检验。
     step2: |-
-      现在考虑存在量词“存在一个 $x$，使得 $A$”。若把这一量词加入命令式编程语言，它的意义会是什么？它会是一条指令：用一个具有性质 $A$ 的新值取代 $x$ 的旧值。这可分解为“存在 $x$”与检验“$A$”两部分。所谓** 检验 **，是一种更新：它逐个取出输入语境中的状态，检验其是否满足某一条件，满足者纳入输出语境，不满足者弃去——故检验的输出语境总是输入语境的子集。上文“作为更新逻辑的命题逻辑”一节中，命题逻辑的全部公式都是检验。
+      现在考虑存在量词“存在一个 $x$，使得 $A$”。若把这一量词加入命令式编程语言，它的意义会是什么？它会是一条指令：用一个具有性质 $A$ 的新值取代 $x$ 的旧值。这可分解为“存在 $x$”与检验“$A$”两部分。所谓 **检验**，是一种更新：它逐个取出输入语境中的状态，检验其是否满足某一条件，满足者纳入输出语境，不满足者弃去——故检验的输出语境总是输入语境的子集。上文“作为更新逻辑的命题逻辑”一节中，命题逻辑的全部公式都是检验。
   - id: 23
     kind: body
     source: |-
@@ -255,17 +255,17 @@ segments:
     source: |-
       Information states are often called *contexts*, since the state is a precondition for the “interpretation”, i.e., semantic evaluation, of expressions in a formal or natural language. The use of the word “context” also makes it clear that we are not interested in the total state of the receiver but only in aspects of it relevant to the interpretation of the expressions/informational items we are focusing on. Thus, meanings are often called *context change potentials* in the dynamic tradition.
     step1: |-
-      信息状态常被称为** 语境 **，因为状态是“解释”即形式语言或自然语言表达式的语义评价的前提条件。“语境”一词的使用也表明，我们关心的不是接收者的总体状态，而只是其中与我们所关注的表达式/信息项的解释相关的方面。因此，在动态传统中，意义常被称为** 语境变化潜能 **。
+      信息状态常被称为 **语境**，因为状态是“解释”即形式语言或自然语言表达式的语义评价的前提条件。“语境”一词的使用也表明，我们关心的不是接收者的总体状态，而只是其中与我们所关注的表达式/信息项的解释相关的方面。因此，在动态传统中，意义常被称为 **语境变化潜能**。
     step2: |-
-      信息状态常被称为** 语境 **，因为状态是“解释”——即对形式语言或自然语言表达式作语义评价——的前提条件。“语境”一词也表明，我们关心的不是接收者的总体状态，而只是其中与所关注表达式/信息项的解释相关的方面。因此，在动态传统中，意义常被称为** 语境变化潜能 **。
+      信息状态常被称为 **语境**，因为状态是“解释”——即对形式语言或自然语言表达式作语义评价——的前提条件。“语境”一词也表明，我们关心的不是接收者的总体状态，而只是其中与所关注表达式/信息项的解释相关的方面。因此，在动态传统中，意义常被称为 **语境变化潜能**。
   - id: 29
     kind: body
     source: |-
       Although it is broadly speaking true that the changes brought about by meanings in dynamic semantics concern aspects of *context*, it is important to note that semanticists may mean various things when they talk about context (compare the entries on epistemic contextualism and indexicals), and these different views engender varieties of dynamic semantics that deal with a variety of issues. Some of these issues are: constructing an appropriate mechanism for pronominal reference (compare the entries on anaphora and reference), explaining the semantics of conditionals (compare the entries on conditionals and the logic of conditionals), giving a semantic treatment of the distinction between assertion and presupposition (compare the entries on assertion, speech acts, implicature, pragmatics) and developing a theory of “presupposition projection”, explaining how the interpretation of discourse is influenced and guided by the common ground that exists between speaker and hearer, and developing a theory of how this common ground develops as the discourse proceeds (compare the entries on pragmatics and implicature).
     step1: |-
-      尽管宽泛地说，动态语义中意义所带来的变化确实涉及** 语境 **的各方面，但要注意，语义学家谈语境时可能意指各种不同的东西（比较认知语境主义与索引词词条），而这些不同看法产生处理各种问题的动态语义变体。其中一些问题包括：为代词回指构造适当的机制（比较回指与指称词条）；解释条件句的语义（比较条件句与条件句逻辑词条）；对断言与预设的区分给出语义处理（比较断言、言语行为、含义、语用学词条）；发展一种“预设投射”理论，解释话语解释如何受说话者与听者之间既有共同基础的影响与引导；以及发展一种关于共同基础随话语推进而发展的理论（比较语用学与含义词条）。
+      尽管宽泛地说，动态语义中意义所带来的变化确实涉及 **语境** 的各方面，但要注意，语义学家谈语境时可能意指各种不同的东西（比较认知语境主义与索引词词条），而这些不同看法产生处理各种问题的动态语义变体。其中一些问题包括：为代词回指构造适当的机制（比较回指与指称词条）；解释条件句的语义（比较条件句与条件句逻辑词条）；对断言与预设的区分给出语义处理（比较断言、言语行为、含义、语用学词条）；发展一种“预设投射”理论，解释话语解释如何受说话者与听者之间既有共同基础的影响与引导；以及发展一种关于共同基础随话语推进而发展的理论（比较语用学与含义词条）。
     step2: |-
-      尽管宽泛地说，动态语义中意义所带来的变化确实涉及** 语境 **的各方面，但语义学家谈语境时可以意指很不同的东西（参“认知语境主义”“索引词”词条），而这些不同看法催生了处理不同问题的各种动态语义变体。相关问题包括：为代词回指构造适当的机制（参“回指”“指称”词条）；解释条件句的语义（参“条件句”“条件句逻辑”词条）；对断言与预设的区分给出语义处理（参“断言”“言语行为”“含义”“语用学”词条）；发展“预设投射”理论，说明话语解释如何受说话者与听者之间共同基础的影响与引导；以及说明共同基础随话语推进如何发展（参“语用学”“含义”词条）。
+      尽管宽泛地说，动态语义中意义所带来的变化确实涉及 **语境** 的各方面，但语义学家谈语境时可以意指很不同的东西（参“认知语境主义”“索引词”词条）。这些不同看法，催生了处理不同问题的各种动态语义变体。相关问题包括：为代词回指构造适当的机制（参“回指”“指称”词条）；解释条件句的语义（参“条件句”“条件句逻辑”词条）；对断言与预设的区分给出语义处理（参“断言”“言语行为”“含义”“语用学”词条）；发展“预设投射”理论，说明话语解释如何受说话者与听者之间共同基础的影响与引导；以及说明共同基础随话语推进如何发展（参“语用学”“含义”词条）。
   - id: 30
     kind: body
     source: |-
@@ -273,7 +273,7 @@ segments:
     step1: |-
       语境在两个彼此独立的区分中起作用。第一个区分是语境与修改语境者之间的区分。这里的语境是信息状态或它的某种适当抽象（比较信息的语义概念词条）。语境修改者是所接收信息项的（意义）。信息不可能在不具有正确类型的预设信息状态的情况下被接收。古典静态谓词逻辑中的恰当对应物如下：信息状态是一个赋值（环境）或赋值集合，所接收的信息是一个赋值集合。第二个区分是语境与内容之间的区分。这里的语境类似于接收者的存储容量以及可能影响新表达式/信息项如何被解释的其他各种特征。内容是所存储的（事实性的、真值条件性的）信息。因此，例如，此意义上的语境可以是寄存器/变量集合，或用 DRT/FCS 的术语说，话语所指或文件。内容则会是某个赋值集合，或者也许是约束这些话语所指之值以及作为现实世界之活候选的世界集合的世界/赋值对集合。
     step2: |-
-      语境在两个彼此独立的区分中起作用。第一个区分是语境与修改语境者之间：这里的语境是信息状态或它的某种适当抽象（参“信息的语义概念”词条），语境修改者则是所接收信息项的（意义）。信息不可能在不具备正确类型的预设信息状态的情况下被接收。古典静态谓词逻辑中的恰当对应物如下：信息状态是一个赋值（环境）或赋值集合，所接收的信息是一个赋值集合。第二个区分是语境与内容之间：这里的语境类似接收者的存储容量，以及可能影响新表达式/信息项如何被解释的其他各种特征；内容是所存储的（事实性、真值条件性的）信息。因此，此意义上的语境可以是寄存器/变量集合，或用 DRT/FCS 的术语说，是话语所指或文件；内容则是某个赋值集合，或者也许是约束这些话语所指之值与“现实世界之活候选”世界集合的世界/赋值对集合。
+      语境在两个彼此独立的区分中起作用。第一个区分是语境与修改语境者：语境即信息状态或它的某种适当抽象（参“信息的语义概念”词条）；修改语境者是所接收信息项的意义。信息不可能在不具备正确类型的预设信息状态的情况下被接收。古典静态谓词逻辑中的恰当对应物如下：信息状态是一个赋值（环境）或赋值集合，所接收的信息是一个赋值集合。第二个区分是语境与内容之间：这里的语境类似接收者的存储容量，以及可能影响新表达式/信息项如何被解释的其他各种特征；内容是所存储的（事实性、真值条件性的）信息。因此，此意义上的语境可以是寄存器/变量集合，或用 DRT/FCS 的术语说，是话语所指或文件；内容则是某个赋值集合，或者也许是约束这些话语所指之值与“现实世界之活候选”世界集合的世界/赋值对集合。
   - id: 31
     kind: body
     source: |-
@@ -281,7 +281,7 @@ segments:
     step1: |-
       这里有一个例子来说明这些区分。假定我们把信息状态看作一个有限话语所指集合与一个世界/赋值对集合构成的对，其中赋值的定义域是给定的有限话语所指集合。这样的状态将是第一种意义上的语境，而话语所指集合将是第二种意义上的语境。一种基本更新是内容的更新：在此我们约束世界/赋值对的集合，而让所指集合保持不变。第二种基本更新是指所集合的扩充：我们扩展已分配的存储容量。我们修改给定的世界/赋值对，使之成为世界与扩充赋值的对，其中扩充赋值受旧赋值约束，但在新所指上取一切可能值。于是，我们例子中的更新过程是二维的：我们既有内容的更新，也有第二种意义上的语境的更新。
     step2: |-
-      下面用一个例子说明这些区分。假定把信息状态看成一个由有限话语所指集合与世界/赋值对集合构成的对，其中赋值的定义域是给定的有限话语所指集合。这样的状态就是第一种意义上的语境，而话语所指集合则是第二种意义上的语境。一种基本更新是内容更新：约束世界/赋值对的集合，而让所指集合保持不变。第二种基本更新是所指集合的扩充：扩展已分配的存储容量，即把给定的世界/赋值对修改为世界与扩充赋值构成的对——扩充赋值受旧赋值约束，但在新所指上取一切可能值。于是，此例中的更新过程是二维的：既有内容的更新，也有第二种意义上的语境的更新。
+      下面用一个例子说明这些区分。假定信息状态是一个由有限话语所指集合与世界/赋值对集合构成的对；赋值的定义域，就是那个有限话语所指集合。这样的状态就是第一种意义上的语境，而话语所指集合则是第二种意义上的语境。一种基本更新是内容更新：约束世界/赋值对的集合，而让所指集合保持不变。第二种基本更新扩充所指集合，即扩展已分配的存储容量：把给定的世界/赋值对改成世界与扩充赋值构成的对；扩充赋值受旧赋值约束，但在新所指上取一切可能值。于是，此例的更新过程是二维的：既更新内容，也更新第二种意义上的语境。
   - id: 32
     kind: body
     source: |-
@@ -305,7 +305,7 @@ segments:
     step1: |-
       自然语言的动态语义框架的动机，首先来自人称代词的指称与不定名词短语的指称之间可能的依赖关系。这种依赖关系最简单的例子是同指话语回指，如：
     step2: |-
-      自然语言动态语义框架的动机，首先来自人称代词的指称与不定名词短语的指称之间可能存在的依赖关系。最简单的情形是同指性的话语回指，如：
+      自然语言的动态语义框架，其动机首先来自人称代词与不定名词短语在指称上可能存在的依赖关系。最简单的情形是同指性的话语回指，如：
   - id: 35
     kind: body
     source: |-
@@ -351,9 +351,9 @@ segments:
     source: |-
       However, a similar analysis is unavailable for the equivalent two-sentence example in (1). This is because interpretation is *compositional* (see the entry on compositionality for discussion) and in our compositional analysis, we will first come to an analysis of *Mary met a student yesterday*, which will have the form $\exists x(\texttt{student}(x)\wedge\texttt{met}(m,x))$. Likewise, the second sentence will correspond to $\texttt{need-help}(x)$. Assuming that the default mode of combining multiple sentences is to conjoin them, we now arrive at:
     step1: |-
-      然而，(1) 中那个等价的两句例子却没有类似的分析。这是因为解释是** 组合性的 **（讨论见组合性词条），而在我们的组合分析中，我们会先得到对** 玛丽昨天遇见了一个学生 **的分析，其形式为 $\exists x(\texttt{student}(x)\wedge\texttt{met}(m,x))$。同样，第二句将对应 $\texttt{need-help}(x)$。假定组合多个句子的默认方式是合取，我们于是得到：
+      然而，(1) 中那个等价的两句例子却没有类似的分析。这是因为解释是 **组合性的**（讨论见组合性词条），而在我们的组合分析中，我们会先得到对 **玛丽昨天遇见了一个学生** 的分析，其形式为 $\exists x(\texttt{student}(x)\wedge\texttt{met}(m,x))$。同样，第二句将对应 $\texttt{need-help}(x)$。假定组合多个句子的默认方式是合取，我们于是得到：
     step2: |-
-      然而，(1) 中那个等价的两句例子却没有类似的分析。这是因为解释是** 组合性的 **（讨论见“组合性”词条）：在组合分析中，我们会先得到对** 玛丽昨天遇见了一个学生 **的分析，其形式为 $\exists x(\texttt{student}(x)\wedge\texttt{met}(m,x))$；同样，第二句对应 $\texttt{need-help}(x)$。若假定组合多个句子的默认方式是合取，便得到：
+      然而，(1) 中那个等价的两句例子却没有类似的分析。这是因为解释是 **组合性的**（讨论见“组合性”词条）：在组合分析中，我们会先得到对 **玛丽昨天遇见了一个学生** 的分析，其形式为 $\exists x(\texttt{student}(x)\wedge\texttt{met}(m,x))$；同样，第二句对应 $\texttt{need-help}(x)$。若假定组合多个句子的默认方式是合取，便得到：
   - id: 41
     kind: body
     source: |-
@@ -377,11 +377,11 @@ segments:
 
       $$\exists x(\psi \wedge \phi) \textrm{ iff } \exists x(\psi)\wedge \phi$$
     step1: |-
-      这违反直觉。我们知道 (1) 中各单句的意义，并且希望把握这些意义与其他意义结合而形成一个有意义的整体（该整体对应一个句子序列）的潜能。动态语义使我们能够给出句子层面和句子间层面的充分组合性意义分析。它之所以能做到这一点，是因为它保证：与古典谓词逻辑不同，在古典谓词逻辑句法的** 动态 **解释中，(3) 与 (4) ** 是 **等价的。特别地，在动态谓词逻辑中，下式有效：
+      这违反直觉。我们知道 (1) 中各单句的意义，并且希望把握这些意义与其他意义结合而形成一个有意义的整体（该整体对应一个句子序列）的潜能。动态语义使我们能够给出句子层面和句子间层面的充分组合性意义分析。它之所以能做到这一点，是因为它保证：与古典谓词逻辑不同，在古典谓词逻辑句法的 **动态** 解释中，(3) 与 (4) **是** 等价的。特别地，在动态谓词逻辑中，下式有效：
 
       $$\exists x(\psi \wedge \phi) \textrm{ iff } \exists x(\psi)\wedge \phi$$
     step2: |-
-      这违反直觉。我们知道 (1) 中各单句的意义，也希望把握这些意义与其他意义结合、形成有意义的整体（对应一个句子序列）的潜能。动态语义能够给出句子层面与句子间层面的充分组合性意义分析：它保证，与古典谓词逻辑不同，在古典谓词逻辑句法的** 动态 **解释中，(3) 与 (4) ** 是 **等价的。特别地，下式在动态谓词逻辑中有效：
+      这违反直觉。我们知道 (1) 中各单句的意义，也希望把握这些意义与其他意义结合、形成有意义的整体（对应一个句子序列）的潜能。动态语义能够给出句子层面与句子间层面的充分组合性意义分析：它保证，与古典谓词逻辑不同，在古典谓词逻辑句法的 **动态** 解释中，(3) 与 (4) **是** 等价的。特别地，下式在动态谓词逻辑中有效：
 
       $$\exists x(\psi \wedge \phi) \textrm{ iff } \exists x(\psi)\wedge \phi$$
   - id: 44
@@ -389,9 +389,9 @@ segments:
     source: |-
       In this kind of dynamic semantics for natural language, the meaning of a sentence does not correspond to a set of truth-conditions, but rather to an action performed on a context. There are two kinds of actions. Predications like $\texttt{need-help}(x)$ or $\texttt{met}(m,x)$ are *tests*. They merely check if every state/assignment in the current context assigns a value to $x$ that satisfies the relevant predicate; if (and only if) this is the case, the test passes the unaltered assignment on to the output context. In contrast, the existential quantifier is not a test. It has the potential to alter the context by randomly resetting the value of its associated variable. So, $\exists x(\psi)$ takes a context, randomly changes the value of $x$ in each assignment in the context and passes these changed assignments on to the output context if they also satisfy the condition contributed by the test $\psi$.
     step1: |-
-      在这一类自然语言动态语义中，句子的意义不对应于真值条件集合，而对应于在语境上执行的行动。行动有两类。像 $\texttt{need-help}(x)$ 或 $\texttt{met}(m,x)$ 这样的谓述是** 检验 **。它们只检查当前语境中每个状态/赋值是否给 $x$ 指派了一个满足相应谓词的值；若（且仅若）如此，检验便把未改动的赋值传给输出语境。相反，存在量词不是检验。它有潜力通过随机重置其关联变量的值来改变语境。因此，$\exists x(\psi)$ 取一个语境，随机地改变该语境中每个赋值里 $x$ 的值，并在这些改变后的赋值也满足检验 $\psi$ 所贡献的条件时，把它们传给输出语境。
+      在这一类自然语言动态语义中，句子的意义不对应于真值条件集合，而对应于在语境上执行的行动。行动有两类。像 $\texttt{need-help}(x)$ 或 $\texttt{met}(m,x)$ 这样的谓述是 **检验**。它们只检查当前语境中每个状态/赋值是否给 $x$ 指派了一个满足相应谓词的值；若（且仅若）如此，检验便把未改动的赋值传给输出语境。相反，存在量词不是检验。它有潜力通过随机重置其关联变量的值来改变语境。因此，$\exists x(\psi)$ 取一个语境，随机地改变该语境中每个赋值里 $x$ 的值，并在这些改变后的赋值也满足检验 $\psi$ 所贡献的条件时，把它们传给输出语境。
     step2: |-
-      在这类自然语言动态语义中，句子的意义不对应于真值条件集合，而对应于在语境上执行的行动。行动有两类。像 $\texttt{need-help}(x)$ 或 $\texttt{met}(m,x)$ 这样的谓述是** 检验 **：它们只检查当前语境中每个状态/赋值是否给 $x$ 指派了满足相应谓词的值，若（且仅若）如此，检验便把未改动的赋值传给输出语境。存在量词则不是检验，它有潜力通过随机重置其关联变量的值来改变语境。因此，$\exists x(\psi)$ 取一个语境，随机改变该语境中每个赋值里 $x$ 的值，并在这些改变后的赋值也满足检验 $\psi$ 所贡献的条件时，把它们传给输出语境。
+      在这类自然语言动态语义中，句子的意义不对应于真值条件集合，而对应于在语境上执行的行动。行动有两类。像 $\texttt{need-help}(x)$ 或 $\texttt{met}(m,x)$ 这样的谓述是 **检验**：它们只检查当前语境中每个状态/赋值是否给 $x$ 指派了满足相应谓词的值，若（且仅若）如此，检验便把未改动的赋值传给输出语境。存在量词则不是检验，它有潜力通过随机重置其关联变量的值来改变语境。因此，$\exists x(\psi)$ 取一个语境，随机改变该语境中每个赋值里 $x$ 的值，并在这些改变后的赋值也满足检验 $\psi$ 所贡献的条件时，把它们传给输出语境。
   - id: 45
     kind: body
     source: |-
@@ -399,15 +399,15 @@ segments:
     step1: |-
       这一语义的主要后果之一是，存在量词的作用域原则上是无限的。它改变某个变量的值，而在该变量再次被改变之前，任何后续检验都访问那个被设定的特定值。这也意味着，存在量化的语义无需参照任何作用域就能给出：$\exists x$ 的意义就是这样一个行动，它取一个语境，返回同一个语境，其中至多把 $x$ 的值随机替换为另一个值。（下文将详细展开。）
     step2: |-
-      这一语义的主要后果之一是：存在量词的作用域原则上是无限的。它改变某个变量的值，在该变量再次被改变之前，任何后续检验都访问那个被设定的值。这也意味着，存在量化的语义无需参照任何作用域即可给出：$\exists x$ 的意义就是这样一个行动——取一个语境，返回同一语境，其中至多把 $x$ 的值随机替换为另一个值。（下文将详细展开。）
+      这一语义的一个重要后果是：存在量词的作用域原则上无限。它改变某个变量的值；在该变量再次改变之前，任何后续检验都访问那个已设定的值。这也意味着，存在量化的语义无需参照任何作用域即可给出：$\exists x$ 的意义就是这样一个行动——取一个语境，返回同一语境，其中至多把 $x$ 的值随机替换为另一个值。（下文将详细展开。）
   - id: 46
     kind: body
     source: |-
       Right now, two senses of the term dynamic semantics (as applied to natural language) emerge. First and foremost, dynamic semantics is the general idea that logical statements do not express truth-conditions but rather actions on contexts (where contexts can be conceptualized in various ways). A second understanding of the term dynamic semantics is a set of theoretical positions taken within debates concerning the semantics of certain natural language phenomena, most notably pronominal anaphora. (See below for a similar take on dynamic semantics with respect to *presupposition*). For the case of anaphora, this theoretical understanding embodies the combination of two hypotheses: (i) pronouns correspond to variables; (ii) indefinites are non-quantificational, they simply contribute a dynamic variable assignment update. As is clear from the second hypothesis, this theoretical use of the term dynamic semantics presupposes the more general view that meanings are actions on contexts.
     step1: |-
-      此时，“动态语义”一词（就自然语言而言）浮现出两种含义。首先，动态语义是这样一种一般想法：逻辑陈述不表达真值条件，而表达在语境上的行动（语境可以作各种概念化）。其次，“动态语义”指在关于某些自然语言现象的语义学争论中采取的一组理论立场，最著名的是代词回指。（关于预设可参见下文类似的动态语义处理。）就回指而言，这一理论含义体现为两个假说的结合：(i) 代词对应变量；(ii) 不定词是非量化的，它们只是贡献一个动态的变量赋值更新。由第二个假说可见，动态语义的这一理论用法预设了更一般的观点：意义是语境上的行动。
+      此时，“动态语义”一词（就自然语言而言）浮现出两种含义。首先，动态语义是这样一种一般想法：逻辑陈述不表达真值条件，而表达在语境上的行动（语境可以作各种概念化）。其次，“动态语义”指在关于某些自然语言现象的语义学争论中采取的一组理论立场，最著名的是代词回指。（关于预设可参见下文类似的动态语义处理。）就回指而言，这一理论含义体现为两个假说的结合：(i) 代词对应变量；(ii) 不定词是非量化的，它们只是贡献一个动态的变量赋值更新。第二个假说表明，这种理论用法预设了更一般的观点：意义即语境上的行动。
     step2: |-
-      于是，“动态语义”一词（用于自然语言时）浮现出两种含义。首先是作为一般想法：逻辑陈述表达的不是真值条件，而是语境上的行动（语境可以作各种概念化）。其次是作为一组理论立场——它们出现于关于某些自然语言现象（最著名的是代词回指）的语义学争论中（关于预设，可参见下文的类似动态语义处理）。就回指而言，这一理论含义体现为两个假说的结合：(i) 代词对应变量；(ii) 不定词是非量化的，只贡献一个动态的变量赋值更新。由第二个假说可见，动态语义的这一理论用法预设了更一般的观点：意义是语境上的行动。
+      于是，“动态语义”一词（用于自然语言时）浮现出两种含义。首先是作为一般想法：逻辑陈述表达的不是真值条件，而是语境上的行动（语境可以作各种概念化）。其次是作为一组理论立场——它们出现于关于某些自然语言现象（最著名的是代词回指）的语义学争论中（关于预设，可参见下文的类似动态语义处理）。就回指而言，这一理论含义体现为两个假说的结合：(i) 代词对应变量；(ii) 不定词是非量化的，只贡献一个动态的变量赋值更新。第二个假说表明，这种理论用法预设了更一般的观点：意义即语境上的行动。
   - id: 47
     kind: body
     source: |-
@@ -429,9 +429,9 @@ segments:
     source: |-
       The previous subsection gave a first glimpse into the basic aim of a dynamic semantic framework, which is to define a logical semantics in which statements express actions and specifically, in which existential quantification has the potential to reset variables, thus *changing* the context. We get our clue about how to do this by examining the definition of existential quantification in ordinary predicate logic. Suppose we work with total assignments on a fixed set of variables $\textsf{VAR}$ over a fixed domain $D$. The set of total assignments $\textsf{ASSIGN}$ is therefore the set of all (total) functions from $\textsf{VAR}$ to $D$.
     step1: |-
-      上一小节初步展示了动态语义框架的基本目标：定义一种逻辑语义，其中陈述表达行动，特别是其中存在量化具有重置变量的潜力，从而** 改变 **语境。我们通过考察普通谓词逻辑中存在量化的定义来获得如何做到这一点的线索。假定我们在固定变量集 $\textsf{VAR}$ 与固定域 $D$ 上使用全赋值。于是全赋值集合 $\textsf{ASSIGN}$ 就是一切从 $\textsf{VAR}$ 到 $D$ 的（完全）函数构成的集合。
+      上一小节初步展示了动态语义框架的基本目标：定义一种逻辑语义，其中陈述表达行动，特别是其中存在量化具有重置变量的潜力，从而 **改变** 语境。我们通过考察普通谓词逻辑中存在量化的定义来获得如何做到这一点的线索。假定我们在固定变量集 $\textsf{VAR}$ 与固定域 $D$ 上使用全赋值。于是全赋值集合 $\textsf{ASSIGN}$ 就是一切从 $\textsf{VAR}$ 到 $D$ 的（完全）函数构成的集合。
     step2: |-
-      上一小节初步展示了动态语义框架的基本目标：定义一种逻辑语义，使陈述表达行动，尤其是使存在量化具有重置变量、从而** 改变 **语境的潜力。线索来自普通谓词逻辑中存在量化的定义。假定在固定变量集 $\textsf{VAR}$ 与固定域 $D$ 上使用完全赋值，则完全赋值集合 $\textsf{ASSIGN}$ 就是一切从 $\textsf{VAR}$ 到 $D$ 的（完全）函数构成的集合。
+      上一小节初步展示了动态语义框架的基本目标：定义一种逻辑语义，使陈述表达行动，尤其是使存在量化具有重置变量、从而 **改变** 语境的潜力。线索来自普通谓词逻辑中存在量化的定义。假定在固定变量集 $\textsf{VAR}$ 与固定域 $D$ 上使用完全赋值，则完全赋值集合 $\textsf{ASSIGN}$ 就是一切从 $\textsf{VAR}$ 到 $D$ 的（完全）函数构成的集合。
   - id: 50
     kind: body
     source: |-
@@ -445,9 +445,9 @@ segments:
     source: |-
       Now define: $$ \alpha[x]\beta := \forall v \in \textsf{VAR}\setminus\{x\}\ (\alpha(v) = \beta(v)). $$ So [$x$] is the binary relation “assignment $\beta$ is a result of (at most) resetting the value of the variable $x$ in assignment $\alpha$”. As already mentioned, this is an equivalence relation over variable assignments. Now the meaning $G$ of $\exists x P(x)$, will be: $$ G := \{\alpha \in \textsf{ASSIGN } \mid \exists \beta \in F \alpha[x]\beta \}. $$ Thus, $G$ is the set of assignments that can be successfully reset with respect to $x$ and obtain an assignment in $F$ as a result of this resetting. Viewed differently, $G$ is *the domain of* the relation $R$ given by $$\alpha R\beta := \alpha[x]\beta \textrm{ and } \beta \in F. $$
     step1: |-
-      现在定义：$$ \alpha[x]\beta := \forall v \in \textsf{VAR}\setminus\{x\}\ (\alpha(v) = \beta(v)). $$ 于是 [$x$] 就是二元关系“赋值 $\beta$ 是在赋值 $\alpha$ 中（至多）重置变量 $x$ 的值的结果”。如前所述，这是变量赋值上的等价关系。现在 $\exists x P(x)$ 的意义 $G$ 将是：$$ G := \{\alpha \in \textsf{ASSIGN } \mid \exists \beta \in F\ \alpha[x]\beta \}. $$ 因此，$G$ 是那些可以就 $x$ 被成功重置、并因此重置而得到一个属于 $F$ 的赋值的赋值集合。换个说法，$G$ 是由 $$\alpha R\beta := \alpha[x]\beta \textrm{ and } \beta \in F. $$ 给出的关系 $R$ 的** 定义域 **。
+      现在定义：$$ \alpha[x]\beta := \forall v \in \textsf{VAR}\setminus\{x\}\ (\alpha(v) = \beta(v)). $$ 于是 [$x$] 就是二元关系“赋值 $\beta$ 是在赋值 $\alpha$ 中（至多）重置变量 $x$ 的值的结果”。如前所述，这是变量赋值上的等价关系。现在 $\exists x P(x)$ 的意义 $G$ 将是：$$ G := \{\alpha \in \textsf{ASSIGN } \mid \exists \beta \in F \alpha[x]\beta \}. $$ 因此，$G$ 是那些可以就 $x$ 被成功重置、并因此重置而得到一个属于 $F$ 的赋值的赋值集合。换个说法，$G$ 是由 $$\alpha R\beta := \alpha[x]\beta \textrm{ and } \beta \in F. $$ 给出的关系 $R$ 的 **定义域**。
     step2: |-
-      现在定义：$$ \alpha[x]\beta := \forall v \in \textsf{VAR}\setminus\{x\}\ (\alpha(v) = \beta(v)). $$ 于是 [$x$] 就是二元关系“赋值 $\beta$ 是在赋值 $\alpha$ 中（至多）重置变量 $x$ 的值所得的结果”。如前所述，这是变量赋值上的等价关系。于是 $\exists x P(x)$ 的意义 $G$ 为：$$ G := \{\alpha \in \textsf{ASSIGN } \mid \exists \beta \in F\ \alpha[x]\beta \}. $$ 也就是说，$G$ 由那些可以就 $x$ 被成功重置、并因重置而得到属于 $F$ 的赋值的赋值组成。换个说法，$G$ 是由 $$\alpha R\beta := \alpha[x]\beta \textrm{ and } \beta \in F. $$ 给出的关系 $R$ 的** 定义域 **。
+      现在定义：$$ \alpha[x]\beta := \forall v \in \textsf{VAR}\setminus\{x\}\ (\alpha(v) = \beta(v)). $$ 于是 [$x$] 就是二元关系“赋值 $\beta$ 是在赋值 $\alpha$ 中（至多）重置变量 $x$ 的值所得的结果”。如前所述，这是变量赋值上的等价关系。于是 $\exists x P(x)$ 的意义 $G$ 为：$$ G := \{\alpha \in \textsf{ASSIGN } \mid \exists \beta \in F \alpha[x]\beta \}. $$ 也就是说，$G$ 由那些可以就 $x$ 被成功重置、并因重置而得到属于 $F$ 的赋值的赋值组成。换个说法，$G$ 是由 $$\alpha R\beta := \alpha[x]\beta \textrm{ and } \beta \in F. $$ 给出的关系 $R$ 的 **定义域**。
   - id: 52
     kind: body
     source: |-
@@ -455,15 +455,15 @@ segments:
     step1: |-
       我们可以说，$G$ 是重置行动 $R$ 的前提条件。现在 $\textsf{DPL}$ 的想法是：把 $\exists x P(x)$ 的意义取为重置行动 $R$，而不是（如古典静态一阶逻辑那样）取为前提条件 $G$。这样我们不会丢失信息，因为 $G$ 总能从 $R$ 得到。此外，关系 $R$ 的值域由这样的赋值 $\beta$ 构成：它们与前提条件 $G$ 中的赋值至多在 $x$ 的值上不同，并且也属于 $F$（即 $\beta(x)$ 在 $P$ 的解释中）。二元关系 $R$ 的值域中所存的 $x$ 值，正是满足 $P$ 的 $x$ 值，即我们所要找的值。
     step2: |-
-      可以说，$G$ 是重置行动 $R$ 的前提条件。$\textsf{DPL}$ 的想法则是：把 $\exists x P(x)$ 的意义取为重置行动 $R$，而不是（如古典静态一阶逻辑那样）取为前提条件 $G$。这样并不丢失信息，因为 $G$ 总能从 $R$ 得到。而且，关系 $R$ 的值域由这样的赋值 $\beta$ 构成：它们与前提条件 $G$ 中的赋值至多在 $x$ 的值上不同，并且也属于 $F$（即 $\beta(x)$ 在 $P$ 的解释中）。二元关系 $R$ 的值域中所存的 $x$ 值，正是满足 $P$ 的 $x$ 值，即我们所要寻找的值。
+      可以说，$G$ 是重置行动 $R$ 的前提条件。$\textsf{DPL}$ 的想法则是：把 $\exists x P(x)$ 的意义取为重置行动 $R$，而不是（如古典静态一阶逻辑那样）取为前提条件 $G$。这样并不丢失信息，因为 $G$ 总能从 $R$ 得到。而且，关系 $R$ 的值域由这样的赋值 $\beta$ 构成：它们与前提条件 $G$ 中的赋值至多在 $x$ 的值上不同，并且也属于 $F$（即 $\beta(x)$ 在 $P$ 的解释中）。二元关系 $R$ 的值域所存 $x$ 值，正是满足 $P$ 的那些 $x$ 值——也就是我们要找的值。
   - id: 53
     kind: body
     source: |-
       More generally, we take as $\textsf{DPL}$-meanings *binary relations* between assignments. Such relations can be seen as (modeling) *resetting actions*. This is an instance of an admittedly simplistic but well-known and useful way of modeling actions: an action is viewed as a relation between the states of the world before the action and the corresponding states after the action.
     step1: |-
-      更一般地，我们把赋值之间的** 二元关系 **取作 $\textsf{DPL}$ 意义。这类关系可以视为（对）** 重置行动 **的建模。这是对行动的一种 admittedly 简单化但著名而有用建模方式的一个实例：行动被看作行动前的世界状态与行动后相应状态之间的关系。
+      更一般地，我们把赋值之间的 **二元关系** 取作 $\textsf{DPL}$ 意义。这类关系可以视为（对）**重置行动** 的建模。这是对行动的一种 admittedly 简单化但著名而有用建模方式的一个实例：行动被看作行动前的世界状态与行动后相应状态之间的关系。
     step2: |-
-      更一般地，我们把赋值之间的** 二元关系 **取作 $\textsf{DPL}$ 意义。这类关系可以视为对** 重置行动 **的建模。这是对行动的一种虽显简单化、却著名而有用的建模方式的实例：一个行动被看作行动前的世界状态与行动后相应状态之间的关系。
+      更一般地，我们把赋值之间的 **二元关系** 取作 $\textsf{DPL}$ 意义。这类关系可以视为对 **重置行动** 的建模。这是对行动的一种虽显简单化、却著名而有用的建模方式的实例：一个行动被看作行动前的世界状态与行动后相应状态之间的关系。
   - id: 54
     kind: body
     source: |-
@@ -590,9 +590,9 @@ segments:
     source: |-
       The interpretations of predicate symbols are *conditions*. They are subsets of the diagonal $\{\langle \alpha , \alpha \rangle \mid \alpha \in \textsf{ASSIGN}\}$ (which is the meaning of $\top)$. Subsets of the diagonal are tests: they modify nothing and simply pass on what is OK (satisfies the condition) and throw away what is not. The mapping $\textsf{diag}$ that sends a set $F$ of assignments to a condition $\{\langle \alpha , \alpha \rangle \mid \alpha \in F\}$ is the link between the classical static and the dynamic world. For example, the relational composition of $\textsf{diag}(F)$ and $\textsf{diag}(G)$ is $\textsf{diag}(F\cap G)$.
     step1: |-
-      谓词符号的解释是** 条件 **。它们是（$\top$ 的意义）对角线 $\{\langle \alpha , \alpha \rangle \mid \alpha \in \textsf{ASSIGN}\}$ 的子集。对角线的子集是检验：它们不修改任何东西，只是放过合格的（满足条件的），丢弃不合格的。把赋值集合 $F$ 送到条件 $\{\langle \alpha , \alpha \rangle \mid \alpha \in F\}$ 的映射 $\textsf{diag}$，是古典静态世界与动态世界之间的纽带。例如，$\textsf{diag}(F)$ 与 $\textsf{diag}(G)$ 的关系合成是 $\textsf{diag}(F\cap G)$。
+      谓词符号的解释是 **条件**。它们是（$\top$ 的意义）对角线 $\{\langle \alpha , \alpha \rangle \mid \alpha \in \textsf{ASSIGN}\}$ 的子集。对角线的子集是检验：它们不修改任何东西，只是放过合格的（满足条件的），丢弃不合格的。把赋值集合 $F$ 送到条件 $\{\langle \alpha , \alpha \rangle \mid \alpha \in F\}$ 的映射 $\textsf{diag}$，是古典静态世界与动态世界之间的纽带。例如，$\textsf{diag}(F)$ 与 $\textsf{diag}(G)$ 的关系合成是 $\textsf{diag}(F\cap G)$。
     step2: |-
-      谓词符号的解释是** 条件 **，即对角线 $\{\langle \alpha , \alpha \rangle \mid \alpha \in \textsf{ASSIGN}\}$（也就是 $\top$ 的意义）的子集。对角线的子集是检验：它们不修改任何东西，只放过合格的（满足条件的），丢弃不合格的。映射 $\textsf{diag}$ 把赋值集合 $F$ 送到条件 $\{\langle \alpha , \alpha \rangle \mid \alpha \in F\}$，它是古典静态世界与动态世界之间的纽带。例如，$\textsf{diag}(F)$ 与 $\textsf{diag}(G)$ 的关系合成就是 $\textsf{diag}(F\cap G)$。
+      谓词符号的解释是 **条件**，即对角线 $\{\langle \alpha , \alpha \rangle \mid \alpha \in \textsf{ASSIGN}\}$（也就是 $\top$ 的意义）的子集。对角线的子集是检验：它们不作修改，只放过合格者（满足条件者），丢弃不合格者。映射 $\textsf{diag}$ 把赋值集合 $F$ 送到条件 $\{\langle \alpha , \alpha \rangle \mid \alpha \in F\}$，它是古典静态世界与动态世界之间的纽带。例如，$\textsf{diag}(F)$ 与 $\textsf{diag}(G)$ 的关系合成就是 $\textsf{diag}(F\cap G)$。
   - id: 66
     kind: body
     source: |-
@@ -620,9 +620,9 @@ segments:
     source: |-
       We get that $[\phi^*]$ is the diagonal of the classical interpretation of $\phi$. Our translation is compositional. It shows that FOL can be taken as a *fragment* of $\textsf{DPL}$.
     step1: |-
-      我们得到：$[\phi^*]$ 是 $\phi$ 之古典解释的对角线。我们的翻译是组合性的。它表明，FOL 可以被视为 $\textsf{DPL}$ 的一个*片段*。
+      我们得到：$[\phi^*]$ 是 $\phi$ 之古典解释的对角线。我们的翻译是组合性的。它表明，FOL 可以被视为 $\textsf{DPL}$ 的一个 **片段**。
     step2: |-
-      由此得到：$[\phi^*]$ 是 $\phi$ 之古典解释的对角线。这一翻译是组合性的，它表明 FOL 可以视为 $\textsf{DPL}$ 的一个*片段*。
+      由此得到：$[\phi^*]$ 是 $\phi$ 之古典解释的对角线。这一翻译是组合性的，它表明 FOL 可以视为 $\textsf{DPL}$ 的一个 **片段**。
   - id: 69
     kind: body
     source: |-
@@ -691,9 +691,9 @@ segments:
     source: |-
       There is obviously a dependency between the pronouns $he$ and $it$ and the indefinites *a farmer* and *a donkey*, respectively. In a nutshell, the problem for (5) in a classical analysis is that such an analysis gives us two choices, which taken together do not cover the possible meanings of (5). If we treat the indefinites as referring to a particular farmer and a particular donkey and the pronouns as simply picking up that same entities, then we get a possible yet not very salient reading for (5). The most prominent reading describes a co-variation between the owning relation and the beating relation: any farmer-donkey pair that stands in the *own* relation also stands in the *beat* relation. Clearly, we will need to interpret the indefinites as quantifiers. Yet if we do so, they won’t be able to bind the variables in the consequent of the conditional since a compositional analysis will place the variables contributed by the pronouns outside the classical scope of the existential quantifiers in the antecedent of the conditional. That is, (6) does not yield the correct truth-conditions for (5).
     step1: |-
-      显然，代词 $he$ 与 $it$ 分别与不定词 *a farmer* 和 *a donkey* 之间存在依赖关系。简言之，(5) 在古典分析中的问题在于，这种分析给我们两种选择，而两者合起来并不能覆盖 (5) 的可能意义。如果我们把不定词处理为指称某位特定的农夫与某头特定的驴子，把代词处理为径直拾取同一实体，那么我们得到 (5) 的一种可能却不很显著的读法。最显著的读法描述拥有关系与殴打关系之间的共变：任何处于** 拥有 **关系的农夫-驴子对，也处于** 殴打 **关系。显然，我们需要把不定词解释为量词。然而若这样做，它们就无法约束条件句后件中的变量，因为组合分析会把代词所贡献的变量置于条件句前件中存在量词的古典作用域之外。也就是说，(6) 并不给出 (5) 的正确真值条件。
+      显然，代词 $he$ 与 $it$ 分别与不定词 *a farmer* 和 *a donkey* 之间存在依赖关系。简言之，(5) 在古典分析中的问题在于，这种分析给我们两种选择，而两者合起来并不能覆盖 (5) 的可能意义。如果我们把不定词处理为指称某位特定的农夫与某头特定的驴子，把代词处理为径直拾取同一实体，那么我们得到 (5) 的一种可能却不很显著的读法。最显著的读法描述拥有关系与殴打关系之间的共变：任何处于 **拥有** 关系的农夫-驴子对，也处于 **殴打** 关系。显然，我们需要把不定词解释为量词。然而若这样做，它们就无法约束条件句后件中的变量，因为组合分析会把代词所贡献的变量置于条件句前件中存在量词的古典作用域之外。也就是说，(6) 并不给出 (5) 的正确真值条件。
     step2: |-
-      显然，代词 $he$ 与 $it$ 分别与不定词 *a farmer*、*a donkey* 之间存在依赖关系。简言之，(5) 在古典分析中的困难在于：这种分析只有两种选择，而两者合起来并不能覆盖 (5) 的可能意义。若把不定词处理为指称某位特定的农夫与某头特定的驴子，把代词处理为径直拾取同一实体，便得到 (5) 的一种可能却并不显著的读法。最显著的读法描述拥有关系与殴打关系之间的共变：任何处于** 拥有 **关系的农夫-驴子对，也处于** 殴打 **关系。显然，我们需要把不定词解释为量词。可若这样做，它们就无法约束条件句后件中的变量，因为组合分析会把代词所贡献的变量置于条件句前件中诸存在量词的古典作用域之外。也就是说，(6) 并不给出 (5) 的正确真值条件。
+      显然，代词 $he$ 与 $it$ 分别与不定词 *a farmer*、*a donkey* 之间存在依赖关系。简言之，(5) 在古典分析中的困难在于：这种分析只有两种选择，而两者合起来并不能覆盖 (5) 的可能意义。若把不定词处理为指称某位特定的农夫与某头特定的驴子，把代词处理为径直拾取同一实体，便得到 (5) 的一种可能却并不显著的读法。最显著的读法描述拥有关系与殴打关系之间的共变：任何处于 **拥有** 关系的农夫-驴子对，也处于 **殴打** 关系。显然，我们需要把不定词解释为量词。可若这样做，它们就无法约束条件句后件中的变量，因为组合分析会把代词所贡献的变量置于条件句前件中诸存在量词的古典作用域之外。也就是说，(6) 并不给出 (5) 的正确真值条件。
   - id: 76
     kind: body
     source: |-
@@ -761,11 +761,11 @@ segments:
     source: |-
       The successful application of dynamic predicate logic to the interaction of quantification and anaphora in natural languages hinges on the fact that in DPL, existential quantification is dynamic whereas universal quantification is not. What would happen if universal quantification were dynamic too? Note first of all, that it makes no sense to define a universal quantification action $\forall x$ in parallel to the random reset action $\exists x$. This is because universal quantification only makes sense on a given domain (the *restrictor*) and with respect to some given property (the *scope*). Second, if we give $\forall x(\phi)(\psi)$ a dynamic interpretation, it predicts that universal quantifiers can stand in anaphoric relations to singular pronouns across clausal boundaries, just as existential quantifiers can. For cases like (9), this is clearly undesirable.
     step1: |-
-      动态谓词逻辑在自然语言量化与回指交互问题上的成功应用，取决于一个事实：在 DPL 中，存在量化是动态的，而全称量化不是。如果全称量化也是动态的，会怎么样？首先注意，与随机重置行动 $\exists x$ 平行地定义一个全称量化行动 $\forall x$ 没有意义。这是因为全称量化只在给定域（** 限定语 **）上、并相对于某个给定性质（** 作用域 **）才有意义。其次，如果我们给 $\forall x(\phi)(\psi)$ 以动态解释，它便预测全称量词可以像存在量词那样跨小句边界与单数代词建立回指关系。对 (9) 这类情形，这显然是不可取的。
+      动态谓词逻辑在自然语言量化与回指交互问题上的成功应用，取决于一个事实：在 DPL 中，存在量化是动态的，而全称量化不是。如果全称量化也是动态的，会怎么样？首先注意，与随机重置行动 $\exists x$ 平行地定义一个全称量化行动 $\forall x$ 没有意义。这是因为全称量化只在给定域（**限定语**）上、并相对于某个给定性质（**作用域**）才有意义。其次，如果我们给 $\forall x(\phi)(\psi)$ 以动态解释，它便预测全称量词可以像存在量词那样跨小句边界与单数代词建立回指关系。对 (9) 这类情形，这显然是不可取的。
 
       - (9) Every boy wrote an essay. #He wrote a research proposal too.（每个男孩都写了一篇文章。#他也写了一篇研究计划。）
     step2: |-
-      动态谓词逻辑之所以能成功处理自然语言中量化与回指的交互，取决于一个事实：在 DPL 中，存在量化是动态的，全称量化则不是。倘若全称量化也是动态的，情况会如何？首先要注意，与随机重置行动 $\exists x$ 平行地定义一个全称量化行动 $\forall x$ 并无意义：全称量化只有在给定域（** 限定语 **）上、并相对于某个给定性质（** 作用域 **）才有意义。其次，若给 $\forall x(\phi)(\psi)$ 以动态解释，它就会预测全称量词能像存在量词那样，跨小句边界与单数代词建立回指关系。对 (9) 这类情形，这显然不可取。
+      动态谓词逻辑之所以能成功处理自然语言中量化与回指的交互，取决于一个事实：在 DPL 中，存在量化是动态的，全称量化则不是。倘若全称量化也是动态的，情况会如何？首先要注意，与随机重置行动 $\exists x$ 平行地定义一个全称量化行动 $\forall x$ 并无意义：全称量化只有在给定域（**限定语**）上、并相对于某个给定性质（**作用域**）才有意义。其次，若给 $\forall x(\phi)(\psi)$ 以动态解释，它就会预测全称量词能像存在量词那样，跨小句边界与单数代词建立回指关系。对 (9) 这类情形，这显然不可取。
 
   - id: 84
     kind: body
@@ -780,11 +780,11 @@ segments:
     source: |-
       However, as soon as one looks at *plural anaphora* it becomes apparent that the static nature of universal quantification (and, in fact, that of other non-indefinite generalized quantifiers) should not be taken for granted. For example, (10) allows a reading in which *they* is anaphorically linked to *every boy*.
     step1: |-
-      然而，一旦考察** 复数回指 **，就会看出全称量化（事实上，还有其他非不定词类的广义量词）的静态本性不应被视为理所当然。例如，(10) 允许一种读法，其中 *they* 与 *every boy* 有回指联系。
+      然而，一旦考察 **复数回指**，就会看出全称量化（事实上，还有其他非不定词类的广义量词）的静态本性不应被视为理所当然。例如，(10) 允许一种读法，其中 *they* 与 *every boy* 有回指联系。
 
       - (10) Every boy wrote an essay. They wrote a research proposal too.（每个男孩都写了一篇文章。他们也写了一篇研究计划。）
     step2: |-
-      然而，一旦考察** 复数回指 **，便会看出全称量化（事实上，还有其他非不定词类的广义量词）的静态本性不可视为理所当然。例如，(10) 允许一种读法，其中 *they* 与 *every boy* 有回指联系。
+      然而，一旦考察 **复数回指**，便会看出全称量化（事实上，还有其他非不定词类的广义量词）的静态本性不可视为理所当然。例如，(10) 允许一种读法，其中 *they* 与 *every boy* 有回指联系。
 
   - id: 86
     kind: body
@@ -818,9 +818,9 @@ segments:
     source: |-
       The leading idea in dynamic treatments of generalized quantification and plural anaphora is to represent plural values not by assigning pluralities to variables, but rather to adopt a notion of context that allows for pluralities (e.g., sets) of assignment functions. Say that the first sentence in (11) is translated into dynamic predicate logic with dynamic quantifiers as follows: $\forall x(\textrm{boy}(x))(\exists y\cdot \textrm{essay}(y)\cdot \textrm{wrote}(x,y))$. The interpretation of such formulas requires collecting assignment functions in which the value of $x$ is a boy and the value of $y$ is an essay written by this boy. The universal quantifier requires such collections to include all possible values for the predicate *boy*. In the subsequent discourse, we now have access to the set of all $x$ values, i.e., the set of all boys, the set of all $y$ values, i.e., the set of essays written by the boys, as well as the individual boy-essay pairs: each atomic assignment $f$ in the set of contextual assignments following the first sentence of (11) is such that $f(y)$ is an essay written by boy $f(x)$. All that is now needed to account for the case of anaphora in (11) is the assumption that the universal quantification there involves universal quantification over assignment functions, rather than just quantification over values. See van den Berg (1996), Nouwen (2007, forthcoming), Brasoveanu (2007, 2008, 2013) for various ways of implementing this idea.
     step1: |-
-      动态处理广义量化与复数回指的主导想法是：不以给变量指派复数的方式来表征复数值，而采用一种允许赋值函项之复数（例如集合）的语境概念。设 (11) 第一句翻译为带动态量词的动态谓词逻辑式：$\forall x(\textrm{boy}(x))(\exists y\cdot \textrm{essay}(y)\cdot \textrm{wrote}(x,y))$。这类公式的解释要求收集这样的赋值函项：其中 $x$ 的值是男孩，$y$ 的值是该男孩所写的一篇文章。全称量词要求这类收集涵盖谓词 *boy* 的一切可能值。在随后的话语中，我们于是可以访问全体 $x$ 值（即全体男孩）、全体 $y$ 值（即男孩们所写的文章），以及各个男孩-文章对：(11) 第一句之后语境赋值集合中的每个原子赋值 $f$ 都满足：$f(y)$ 是由男孩 $f(x)$ 所写的一篇文章。现在要说明 (11) 中的回指，只须假定那里的全称量化涉及对赋值函项的全称量化，而不只是对值的量化。实现这一想法的各种方式见 van den Berg (1996)、Nouwen (2007, 即将出版)、Brasoveanu (2007, 2008, 2013)。
+      动态处理广义量化与复数回指的主导想法是：不以给变量指派复数的方式来表征复数值，而采用一种允许赋值函项之复数（例如集合）的语境概念。设 (11) 第一句翻译为带动态量词的动态谓词逻辑式：$\forall x(\textrm{boy}(x))(\exists y\cdot \textrm{essay}(y)\cdot \textrm{wrote}(x,y))$。这类公式的解释要求收集这样的赋值函项：其中 $x$ 的值是男孩，$y$ 的值是该男孩所写的一篇文章。全称量词要求这类收集涵盖谓词 *boy* 的一切可能值。在随后的话语中，我们于是可以访问全体 $x$ 值（即全体男孩）、全体 $y$ 值（即男孩们所写的文章），以及各个男孩-文章对。具体地说，(11) 第一句之后语境赋值集合中的每个原子赋值 $f$ 都满足：$f(y)$ 是由男孩 $f(x)$ 所写的一篇文章。现在要说明 (11) 的回指，只须假定那里的全称量化作用于赋值函项，而不只是作用于值。实现这一想法的各种方式见 van den Berg (1996)、Nouwen (2007, 即将出版)、Brasoveanu (2007, 2008, 2013)。
     step2: |-
-      动态处理广义量化与复数回指的主导想法，不是给变量指派复数来表征复数值，而是采用一种允许赋值函项之复数（例如集合）的语境概念。设 (11) 第一句译为带动态量词的动态谓词逻辑式：$\forall x(\textrm{boy}(x))(\exists y\cdot \textrm{essay}(y)\cdot \textrm{wrote}(x,y))$。这类公式的解释要求收集这样的赋值函项：其中 $x$ 的值是男孩，$y$ 的值是该男孩所写的一篇文章；全称量词则要求这类收集涵盖谓词 *boy* 的一切可能值。于是，在随后的话语中，我们可以访问全体 $x$ 值（全体男孩）、全体 $y$ 值（男孩们所写的文章），以及各个男孩-文章对：(11) 第一句之后语境赋值集合中的每个原子赋值 $f$ 都满足，$f(y)$ 是由男孩 $f(x)$ 所写的一篇文章。要说明 (11) 中的回指，只须假定那里的全称量化涉及对赋值函项的全称量化，而不只是对值的量化。实现这一想法的各种方式见 van den Berg (1996)、Nouwen (2007, 即将出版)、Brasoveanu (2007, 2008, 2013)。
+      动态处理广义量化与复数回指的主导想法，不是给变量指派复数来表征复数值，而是采用一种允许赋值函项之复数（例如集合）的语境概念。设 (11) 第一句译为带动态量词的动态谓词逻辑式：$\forall x(\textrm{boy}(x))(\exists y\cdot \textrm{essay}(y)\cdot \textrm{wrote}(x,y))$。解释这类公式，要求收集这样的赋值函项：其中 $x$ 取男孩为值，$y$ 取该男孩所写的一篇文章为值；全称量词则要求收集涵盖谓词 *boy* 的一切可能值。于是，在随后的话语中，我们可以访问全体 $x$ 值（全体男孩）、全体 $y$ 值（男孩们所写的文章），以及各个男孩-文章对。具体地说，(11) 第一句之后语境赋值集合中的每个原子赋值 $f$ 都满足，$f(y)$ 是由男孩 $f(x)$ 所写的一篇文章。要说明 (11) 的回指，只须假定那里的全称量化作用于赋值函项，而不只是作用于值。实现这一想法的各种方式见 van den Berg (1996)、Nouwen (2007, 即将出版)、Brasoveanu (2007, 2008, 2013)。
   - id: 90
     kind: body
     source: |-
@@ -885,12 +885,12 @@ segments:
     source: |-
       Context plays an important role in presupposition. A sentence like (13) presupposes that John is late. But put this sentence in a context providing this very information, as in (14), and the presupposition disappears. That John is late is *asserted* in (14), not presupposed.
     step1: |-
-      语境在预设中起重要作用。像 (13) 这样的句子预设约翰迟到了。但若把这句话放进一个提供此信息的语境，如 (14)，预设就消失了。在 (14) 中，约翰迟到是被** 断言 **的，而不是被预设的。
+      语境在预设中起重要作用。像 (13) 这样的句子预设约翰迟到了。但若把这句话放进一个提供此信息的语境，如 (14)，预设就消失了。在 (14) 中，约翰迟到是被 **断言** 的，而不是被预设的。
 
       - (13) Mary knows that John is late（玛丽知道约翰迟到了）
       - (14) John is late and Mary knows that he is late.（约翰迟到了，而玛丽知道他迟到了。）
     step2: |-
-      语境在预设中起重要作用。像 (13) 这样的句子预设约翰迟到了。但若把这句话放进一个提供该信息的语境，如 (14)，预设便消失了：(14) 中约翰迟到是被** 断言 **的，而非被预设的。
+      语境在预设中起重要作用。像 (13) 这样的句子预设约翰迟到了。但若把这句话放进一个提供该信息的语境，如 (14)，预设便消失：(14) 对约翰迟到是 **断言** 而非预设。
 
   - id: 98
     kind: body
@@ -908,11 +908,11 @@ segments:
     source: |-
       Stalnaker 1973 takes presupposition to be based on presumed common knowledge. Uttering a sentence like (13) *takes for granted* that it is common knowledge that John is late. In this sense, (13) requires the context of utterance to be such that this common knowledge is in place. In contrast, (14) lacks such a requirement simply because the first conjunct in (14) asserts what the second conjunct takes for granted. The crucial assumption made by Stalnaker is that interpretation is incremental in the following sense: for a sentence of the form [$S$1 and $S$2], the interpretation of $S$2 occurs in a context which is already updated with $S$1. Schematically:
     step1: |-
-      Stalnaker 1973 认为预设基于假定的共同知识。说出像 (13) 这样的句子，就是** 视为理所当然 **：约翰迟到是共同知识。在此意义上，(13) 要求说出它的语境中这一共同知识已然就位。相反，(14) 没有这种要求，原因很简单：(14) 的第一个合取支断言了第二个合取支视为理所当然的东西。Stalnaker 的关键假定是：解释是增量的，其意为：对 [$S$1 and $S$2] 形式的句子，$S$2 的解释发生在一个已用 $S$1 更新过的语境中。图示如下：
+      Stalnaker 1973 认为预设基于假定的共同知识。说出像 (13) 这样的句子，就是 **视为理所当然**：约翰迟到是共同知识。在此意义上，(13) 要求说出它的语境中这一共同知识已然就位。相反，(14) 没有这种要求，原因很简单：(14) 的第一个合取支断言了第二个合取支视为理所当然的东西。Stalnaker 的关键假定是：解释是增量的，其意为：对 [$S$1 and $S$2] 形式的句子，$S$2 的解释发生在一个已用 $S$1 更新过的语境中。图示如下：
 
       - (15) ${C}[{S1 \textrm{ and } S2}] = ({C}[{S1}])({S2})$
     step2: |-
-      斯托尔内克（Stalnaker 1973）认为，预设基于假定的共同知识。说出像 (13) 这样的句子，即** 视为理所当然 **：约翰迟到是共同知识。在此意义上，(13) 要求说出它的语境中这一共同知识已然就位。相反，(14) 没有这种要求，原因很简单：(14) 的第一个合取支断言了第二个合取支视为理所当然的东西。斯托尔内克的关键假定是：解释是增量的——对 [$S$1 and $S$2] 形式的句子，$S$2 的解释发生在一个已用 $S$1 更新过的语境中。图示如下：
+      斯托尔内克（Stalnaker 1973）认为，预设基于假定的共同知识。说出像 (13) 这样的句子，即 **视为理所当然**：约翰迟到是共同知识。在此意义上，(13) 要求说出它的语境中这一共同知识已然就位。相反，(14) 没有这种要求，原因很简单：(14) 的第一个合取支断言了第二个合取支视为理所当然的东西。斯托尔内克的关键假定是：解释是增量的——对 [$S$1 and $S$2] 形式的句子，$S$2 的解释发生在一个已用 $S$1 更新过的语境中。图示如下：
 
   - id: 100
     kind: body
@@ -927,11 +927,11 @@ segments:
     source: |-
       Stalnaker’s interpretation of the scheme in (15) is pragmatic: when we encounter a series of clauses in discourse, we interpret these clauses *in light of* a context that is already informed by the interpretation of previous clauses. This idea of incremental interpretation is simple yet powerful and it makes perfect sense for complex discourses with conjunctive interpretations (for instance, coordinations with *and* and simple sequences of declarative sentences). Since the conjuncts in a conjunction have assertoric force, they can be used to update the context in order to create a new local context. The problem is though that presuppositions do not just disappear in conjunctive environments. Just like (14), (16) also lacks the requirement that it should be common knowledge that John is late. But here the first disjunct does not have assertoric force (see, for instance, Schlenker 2009 for discussion)[^schlenker-2009]. It is not obvious what kind of pragmatic rule could account for the lack of a presupposition in (16).
     step1: |-
-      Stalnaker 对 (15) 图式的解释是语用性的：当我们在话语中遇到一连串小句时，我们** 依据 **一个已被先前小句之解释所告知的语境来解释这些小句。这种增量解释的想法简单而有力，对于具有合取解释的复杂话语（例如以 *and* 连接的并列结构、以及陈述句的简单序列）完全说得通。由于合取中的各个合取支具有断言力量，它们可以用来更新语境，从而创造一个新的局部语境。然而问题在于：预设并不只在合取环境中消失。与 (14) 一样，(16) 也不要求约翰迟到是共同知识。但这里第一个析取支没有断言力量（讨论见 Schlenker 2009）[^schlenker-2009]。什么样的语用规则能说明 (16) 中预设的缺失，并不显然。
+      Stalnaker 对 (15) 图式的解释是语用性的：当我们在话语中遇到一连串小句时，我们 **依据** 一个已被先前小句之解释所告知的语境来解释这些小句。这种增量解释的想法简单而有力，对于具有合取解释的复杂话语（例如以 *and* 连接的并列结构、以及陈述句的简单序列）完全说得通。由于合取中的各个合取支具有断言力量，它们可以用来更新语境，从而创造一个新的局部语境。然而问题在于：预设并不只在合取环境中消失。与 (14) 一样，(16) 也不要求约翰迟到是共同知识。但这里第一个析取支没有断言力量（讨论见 Schlenker 2009）[^schlenker-2009]。什么样的语用规则能说明 (16) 中预设的缺失，并不显然。
 
       - (16) Either John is not late or Mary does not know that he is late.（要么约翰没有迟到，要么玛丽不知道他迟到了。）
     step2: |-
-      斯托尔内克对 (15) 图式的解释是语用性的：在话语中遇到一连串小句时，我们** 依据 **一个已被先前小句之解释所告知的语境来解释这些小句。这一增量解释的想法简单而有力，对具有合取解释的复杂话语（例如以 *and* 连接的并列结构、陈述句的简单序列）完全说得通：合取中的各合取支具有断言力量，可用来更新语境，从而创造新的局部语境。然而问题在于：预设并不只在合取环境中消失。与 (14) 一样，(16) 也不要求约翰迟到是共同知识，可这里第一个析取支并没有断言力量（讨论见 Schlenker 2009）[^schlenker-2009]。何种语用规则能说明 (16) 中预设的缺失，并不显然。
+      斯托尔内克对 (15) 图式的解释是语用性的：在话语中遇到一连串小句时，我们 **依据** 一个已被先前小句之解释所告知的语境来解释这些小句。这一增量解释的想法简单而有力，对合取解释的复杂话语完全说得通，例如以 *and* 连接的并列结构、陈述句的简单序列。合取支具有断言力量，可用来更新语境，从而创造新的局部语境。然而问题在于：预设并不只在合取环境中消失。与 (14) 一样，(16) 也不要求约翰迟到是共同知识，可这里第一个析取支并没有断言力量（讨论见 Schlenker 2009）[^schlenker-2009]。何种语用规则能说明 (16) 中预设的缺失，并不显然。
 
   - id: 102
     kind: body
@@ -946,17 +946,17 @@ segments:
     source: |-
       Examples like (16) call into question the value of an incremental interpretation schema like (15). On top of that, (15) is rather presumptuous in its assumptions of how interpretation proceeds. Asserting a clause with propositional content $p$ does not automatically make it common knowledge that $p$. Rather, such an assertion should be regarded as a *proposal* to make $p$ common knowledge. Whether or not $p$ becomes common ground is dependent on the willingness of the other interlocutors to accept the proposition (for instance, by not objecting against the assertion). In other words, (15) seems ill-suited for capturing the pragmatics of (the dynamics of) information flow.
     step1: |-
-      (16) 这类例子使人怀疑 (15) 这类增量解释图式的价值。此外，(15) 对解释如何进行的假定颇显武断。断言一个命题内容为 $p$ 的小句，并不自动使 $p$ 成为共同知识。毋宁说，这样的断言应视为使 $p$ 成为共同知识的** 提议 **。$p$ 是否成为共同基础，取决于其他对话者是否愿意接受该命题（例如不反对该断言）。换句话说，(15) 似乎不适于刻画信息流（的动态）语用学。
+      (16) 这类例子使人怀疑 (15) 这类增量解释图式的价值。此外，(15) 对解释如何进行的假定颇显武断。断言一个命题内容为 $p$ 的小句，并不自动使 $p$ 成为共同知识。毋宁说，这样的断言应视为使 $p$ 成为共同知识的 **提议**。$p$ 是否成为共同基础，取决于其他对话者是否愿意接受该命题（例如不反对该断言）。换句话说，(15) 似乎不适于刻画信息流（的动态）语用学。
     step2: |-
-      (16) 这类例子使人怀疑 (15) 这类增量解释图式是否有价值。此外，(15) 对解释如何进行的假定也颇显武断：断言一个命题内容为 $p$ 的小句，并不自动使 $p$ 成为共同知识；这样的断言更应视为使 $p$ 成为共同知识的** 提议 **，而 $p$ 是否成为共同基础，取决于其他对话者是否愿意接受该命题（例如不反对该断言）。换言之，(15) 似乎不适于刻画信息流（之动态）的语用学。
+      (16) 这类例子使人怀疑 (15) 这类增量解释图式是否有价值。此外，(15) 关于解释如何展开的假定也颇显武断：断言一个命题内容为 $p$ 的小句，并不自动使 $p$ 成为共同知识；这样的断言更应视为使 $p$ 成为共同知识的 **提议**，而 $p$ 是否成为共同基础，取决于其他对话者是否愿意接受该命题（例如不反对该断言）。换言之，(15) 似乎不适于刻画信息流（之动态）的语用学。
   - id: 104
     kind: body
     source: |-
       A possible way out is to regard (15) not as a pragmatic rule, but rather as a semantic rule, couched in a dynamic notion of interpretation. This was most prominently proposed in Heim 1983b, following Karttunen 1973. Karttunen distinguishes *global contexts*, which are contexts relative to which the current sentence is evaluated, from *local contexts*, which are contexts relative to which the current clause (or potentially some sub-clausal entity) is interpreted. The idea now is that a rule like (15) can express the semantics of *and*. In (15), $C$ is the global context. A crucial part of the semantics of conjunction is that the local context for $S$2 is the update of the global context with $S$1. Thus, there is no presupposition in (14) simply because of the dynamic *semantics* of *and*. All we need to account for the lack of presupposition in (16) is to come up with a semantics for disjunction in which the local context for the second disjunct has already been updated with the negation of the first disjunct; see Krahmer and Muskens 1996 for such an account that also captures interactions between (double) negation and anaphora.
     step1: |-
-      一条可能的出路是把 (15) 不看作语用规则，而看作以动态解释概念表述的语义规则。这一点最著名地见于 Heim 1983b（追随 Karttunen 1973）。Karttunen 区分** 全局语境 **与** 局部语境 **：前者是评价当前句子所相对的语境，后者是解释当前小句（或潜在地某个次小句实体）所相对的语境。现在的想法是：像 (15) 这样的规则可以表达 *and* 的语义。在 (15) 中，$C$ 是全局语境。合取语义的关键部分在于：$S$2 的局部语境是用 $S$1 更新全局语境的结果。因此，(14) 中没有预设，仅仅是由于 *and* 的动态** 语义 **。要说明 (16) 中预设的缺失，只须给出一种析取语义，使第二个析取支的局部语境已用第一个析取支的否定更新过；这样的说明见 Krahmer and Muskens 1996，它同时刻画了（双重）否定与回指之间的交互。
+      一条可能的出路是把 (15) 不看作语用规则，而看作以动态解释概念表述的语义规则。这一点最著名地见于 Heim 1983b（追随 Karttunen 1973）。Karttunen 区分 **全局语境** 与 **局部语境**：前者是评价当前句子所相对的语境，后者是解释当前小句（或潜在地某个次小句实体）所相对的语境。现在的想法是：像 (15) 这样的规则可以表达 *and* 的语义。在 (15) 中，$C$ 是全局语境。合取语义的关键部分在于：$S$2 的局部语境是用 $S$1 更新全局语境的结果。因此，(14) 中没有预设，仅仅是由于 *and* 的动态 **语义**。要说明 (16) 中预设的缺失，只须给出一种析取语义，使第二个析取支的局部语境已用第一个析取支的否定更新过；这样的说明见 Krahmer and Muskens 1996，它同时刻画了（双重）否定与回指之间的交互。
     step2: |-
-      一条可能的出路是：不把 (15) 看作语用规则，而看作以动态解释概念表述的语义规则。这一点最著名地见于 Heim 1983b（追随 Karttunen 1973）。Karttunen 区分** 全局语境 **与** 局部语境 **：前者是评价当前句子所相对的语境，后者是解释当前小句（或潜在地某个次小句实体）所相对的语境。现在的想法是：像 (15) 这样的规则可以表达 *and* 的语义。在 (15) 中，$C$ 是全局语境；合取语义的关键部分在于，$S$2 的局部语境是用 $S$1 更新全局语境的结果。因此，(14) 中没有预设，仅仅是由于 *and* 的动态** 语义 **。要说明 (16) 中预设的缺失，只须给出一种析取语义，使第二个析取支的局部语境已用第一个析取支的否定更新过；这样的说明见 Krahmer and Muskens 1996，它同时刻画了（双重）否定与回指之间的交互。
+      一条可能的出路是：不把 (15) 看作语用规则，而看作以动态解释概念表述的语义规则。这一点最著名地见于 Heim 1983b（追随 Karttunen 1973）。Karttunen 区分 **全局语境** 与 **局部语境**：前者是评价当前句子所相对的语境，后者是解释当前小句（或潜在地某个次小句实体）所相对的语境。现在的想法是：像 (15) 这样的规则可以表达 *and* 的语义。在 (15) 中，$C$ 是全局语境；合取语义的关键部分在于，$S$2 的局部语境是用 $S$1 更新全局语境的结果。因此，(14) 中没有预设，仅仅是由于 *and* 的动态 **语义**。要说明 (16) 中预设的缺失，只须给出一种析取语义，使第二个析取支的局部语境已用第一个析取支的否定更新过；这样的说明见 Krahmer and Muskens 1996，它同时刻画了（双重）否定与回指之间的交互。
   - id: 105
     kind: body
     source: |-
@@ -982,7 +982,7 @@ segments:
 
       - (18) ${C}[{S1 \textrm{ or } S2}] = {C}[{S1}] \cup {C}[{S2}]$
     step2: |-
-      有人质疑这种动态解释的解释价值，理由是：该框架无法说明，为何似乎没有自然语言表达式编码 (17) 的某种最小变体——例如第二个析取支 $S$2 的局部语境是 $C[S1]$ 而非 $C[\textrm{not }S1]$，或 $S$1 的局部语境基于用 $S$2 作更新，或如 (18) 那样根本没有局部语境（例如见 Soames 1989）[^soames-1989]。
+      有人质疑这种动态解释的解释价值，理由是：该框架无法说明，为何似乎没有自然语言表达式编码 (17) 的某种最小变体。例如第二个析取支 $S$2 的局部语境是 $C[S1]$ 而非 $C[\textrm{not }S1]$，或 $S$1 的局部语境基于用 $S$2 作更新，或如 (18) 那样根本没有局部语境（例如见 Soames 1989）[^soames-1989]。
 
   - id: 108
     kind: body
@@ -1029,9 +1029,9 @@ segments:
     source: |-
       What happens to a given epistemic state $(M, w_0) = ((W, V, \{ R_i \mid i \in I\}), w_0)$ if a public announcement $\phi$ is made? Intuitively, the world set $W$ of $M$ is restricted to those worlds $w \in W$ where $\phi$ holds, and the valuation function $V$ and epistemic relations $R_i$ are restricted accordingly. Call the new model $M\mid\phi$. In case $\phi$ is true in $w_0$, the meaning of the public announcement $\phi$ can be viewed as a map from $(M, w_0)$ to $(M\mid\phi , w_0)$. In case $\phi$ is false in $w_0$, no update is possible.
     step1: |-
-      若作出一个公共宣告 $\phi$，给定的认知状态 $(M, w_0) = ((W, V, \{ R_i \mid i \in I\}), w_0)$ 会发生什么？直观地说，$M$ 的世界集合 $W$ 被限制为那些使 $\phi$ 成立的 $w \in W$，赋值函数 $V$ 与认识关系 $R_i$ 也相应受限。称新模型为 $M\mid\phi$。若 $\phi$ 在 $w_0$ 中为真，则公共宣告 $\phi$ 的意义可以看作从 $(M, w_0)$ 到 $(M\mid\phi , w_0)$ 的映射；若 $\phi$ 在 $w_0$ 中为假，则不可能更新。
+      若公开宣告 $\phi$，给定的认知状态 $(M, w_0) = ((W, V, \{ R_i \mid i \in I\}), w_0)$ 会发生什么？直观地说，$M$ 的世界集合 $W$ 被限制为那些使 $\phi$ 成立的 $w \in W$，赋值函数 $V$ 与认识关系 $R_i$ 也相应受限。称新模型为 $M\mid\phi$。若 $\phi$ 在 $w_0$ 中为真，则公共宣告 $\phi$ 的意义可以看作从 $(M, w_0)$ 到 $(M\mid\phi , w_0)$ 的映射；若 $\phi$ 在 $w_0$ 中为假，则不可能更新。
     step2: |-
-      若作出一个公共宣告 $\phi$，给定的认知状态 $(M, w_0) = ((W, V, \{ R_i \mid i \in I\}), w_0)$ 会发生什么？直观地说，$M$ 的世界集合 $W$ 被限制为那些使 $\phi$ 成立的 $w \in W$，赋值函数 $V$ 与认识关系 $R_i$ 也相应受限。称新模型为 $M\mid\phi$：若 $\phi$ 在 $w_0$ 中为真，则公共宣告 $\phi$ 的意义可以看作从 $(M, w_0)$ 到 $(M\mid\phi , w_0)$ 的映射；若 $\phi$ 在 $w_0$ 中为假，则不可能更新。
+      若公开宣告 $\phi$，给定的认知状态 $(M, w_0) = ((W, V, \{ R_i \mid i \in I\}), w_0)$ 会发生什么？直观地说，$M$ 的世界集合 $W$ 被限制为那些使 $\phi$ 成立的 $w \in W$，赋值函数 $V$ 与认识关系 $R_i$ 也相应受限。称新模型为 $M\mid\phi$：若 $\phi$ 在 $w_0$ 中为真，则公共宣告 $\phi$ 的意义可以看作从 $(M, w_0)$ 到 $(M\mid\phi , w_0)$ 的映射；若 $\phi$ 在 $w_0$ 中为假，则不可能更新。
   - id: 114
     kind: body
     source: |-
@@ -1055,7 +1055,7 @@ segments:
     step1: |-
       在认知逻辑框架内，可以如下表征带有预设的说出行为的交流情境。首先，我们需要表征说话者关于其听众知道或相信什么的假定，即一个多能动者信念（或知识）状态；然后，我们需要建模交流行动对该信念状态的影响。在动态认知逻辑中处理带预设的说出行为，一种简单方式是把预设 $P$ 建模为公共宣告“$P$ 是共同知识”。若 $P$ 确实是共同知识，用此信息更新不改变任何东西。然而若 $P$ 不是共同知识，则该说出行为为假，而对假命题的公共宣告会产生不一致的知识状态。
     step2: |-
-      在认知逻辑框架内，可以如下表征带有预设的说出行为的交流情境：先表征说话者关于其听众知道或相信什么的假定（即一个多能动者信念或知识状态），再建模交流行动对该信念状态的影响。在动态认知逻辑中处理带预设的说出行为，一种简单方式是把预设 $P$ 建模为公共宣告“$P$ 是共同知识”。若 $P$ 确是共同知识，用此信息更新不改变任何东西；若 $P$ 不是共同知识，则该说出行为为假，而对假命题的公共宣告会产生不一致的知识状态。
+      在认知逻辑框架内，可以如下表征带有预设的说出行为的交流情境。先表征说话者关于其听众知道或相信什么的假定（即一个多能动者信念或知识状态），再建模交流行动对该信念状态的影响。在动态认知逻辑中处理带预设的说出行为，一种简单方式是把预设 $P$ 建模为公共宣告“$P$ 是共同知识”。若 $P$ 确是共同知识，用此信息更新不改变任何东西；若 $P$ 不是共同知识，则该说出行为为假，而对假命题的公共宣告会产生不一致的知识状态。
   - id: 117
     kind: body
     source: |-
@@ -1069,11 +1069,11 @@ segments:
     source: |-
       Dynamic semantics is particularly suitable to describe how different types of linguistic material affect different aspects of the information state. In particular, dynamic semantics allows one to efficiently model the difference between *at-issue* content, e.g., the content that is asserted by the utterance of a declarative sentence and *non-at issue* content, content that plays some secondary role. For instance, the at-issue content of (19) is that John’s neighbor was arrested yesterday: it is the message the speaker intends to assert. The appositive *who I have never met* is not at issue. One way to see this is that an interlocutor can only respond to (19) with *No! That’s not true!* if s/he intends to challenge the fact that the neighbor was arrested, not if s/he merely wishes to express their disbelief in the speaker’s claim of never having met the neighbor.
     step1: |-
-      动态语义特别适合描述不同类型语言材料如何影响信息状态的不同方面。尤其，动态语义能有效建模** 议题 **内容与** 非议题 **内容之间的区别：前者例如陈述句的说出所断言的内容，后者起某种次要作用。例如 (19) 的议题内容是约翰的邻居昨天被捕：这是说话者意图断言的信息。同位语 *who I have never met* 不是议题内容。看出这一点的一种方式是：对话者只能以 *No! That's not true!* 回应 (19)，如果他或她意图质疑邻居被捕这一事实，而不是仅仅想表达对说话者所谓从未见过邻居的不信。
+      动态语义特别适合描述不同类型语言材料如何影响信息状态的不同方面。尤其，动态语义能有效建模 **议题** 内容与 **非议题** 内容之间的区别：前者例如陈述句的说出所断言的内容，后者起某种次要作用。例如 (19) 的议题内容是约翰的邻居昨天被捕：这是说话者意图断言的信息。同位语 *who I have never met* 不是议题内容。看出这一点的一种方式是：对话者只能以 *No! That's not true!* 回应 (19)，如果他或她意图质疑邻居被捕这一事实，而不是仅仅想表达对说话者所谓从未见过邻居的不信。
 
       - (19) John's neighbour, who I have never met, was arrested yesterday.（约翰的邻居——我从未见过他——昨天被捕了。）
     step2: |-
-      动态语义特别适合描述不同类型的语言材料如何影响信息状态的不同方面。尤其，它能有效建模** 议题 **内容与** 非议题 **内容之别：前者如陈述句的说出所断言的内容，后者起某种次要作用。例如 (19) 的议题内容是约翰的邻居昨天被捕，这是说话者意图断言的信息；同位语 *who I have never met* 则非议题内容。看出这一点的一种方式是：对话者只有在意图质疑邻居被捕这一事实时，才能以 *No! That's not true!* 回应 (19)；若只是想表达对说话者所谓从未见过邻居的不信，则不能。
+      动态语义特别适合描述不同类型的语言材料如何影响信息状态的不同方面。尤其，它能有效建模 **议题** 内容与 **非议题** 内容之别：前者如陈述句的说出所断言的内容，后者起某种次要作用。例如 (19) 的议题内容是约翰的邻居昨天被捕，这是说话者意图断言的信息；同位语 *who I have never met* 则非议题内容。看出这一点的一种方式是：对话者只有在意图质疑邻居被捕这一事实时，才能以 *No! That's not true!* 回应 (19)；若只是想表达对说话者所谓从未见过邻居的不信，则不能。
 
   - id: 119
     kind: body
@@ -1088,9 +1088,9 @@ segments:
     source: |-
       Dynamic semantics is a suitable framework for analyzing what goes on when such sentences are interpreted, since it naturally allows the modeling of separate streams of information. For instance, AnderBois et al. 2015 provide an account of sentences like (19) where the matrix sentence updates a local set of possible worlds. The updated set can be seen as a potential candidate for updating the common ground with. In contrast, the appositive directly updates the common ground. Rather than a *proposed* common ground update, it can be seen as an *imposed* update (see Nouwen 2007 for an alternative dynamic logic)[^nouwen-2007]. The ideas of AnderBois et al. 2015 are partly inspired by similar ideas that were successfully applied in the realm of evidentials; see in particular Murray 2014.
     step1: |-
-      动态语义是分析这类句子被解释时所发生之事的适当框架，因为它天然允许对彼此分离的信息流建模。例如 AnderBois et al. 2015 给出对 (19) 这类句子的说明：主句更新一个局部的可能世界集合，更新后的集合可以看作用以更新共同基础的潜在候选；相反，同位语直接更新共同基础。与其说是** 提议的 **共同基础更新，不如说它是** 强加的 **更新（关于另一种动态逻辑，见 Nouwen 2007）[^nouwen-2007]。AnderBois et al. 2015 的想法部分受到类似观念的启发，那些观念已在传信范畴领域得到成功应用；特别见 Murray 2014。
+      动态语义是分析这类句子被解释时所发生之事的适当框架，因为它天然允许对彼此分离的信息流建模。例如 AnderBois et al. 2015 给出对 (19) 这类句子的说明：主句更新一个局部的可能世界集合，更新后的集合可以看作用以更新共同基础的潜在候选；相反，同位语直接更新共同基础。与其说是 **提议的** 共同基础更新，不如说它是 **强加的** 更新（关于另一种动态逻辑，见 Nouwen 2007）[^nouwen-2007]。AnderBois et al. 2015 的想法部分受到类似观念的启发，那些观念已在传信范畴领域得到成功应用；特别见 Murray 2014。
     step2: |-
-      动态语义是分析这类句子被解释时所发生之事的适当框架，因为它天然允许对彼此分离的信息流建模。例如 AnderBois et al. 2015 对 (19) 这类句子给出如下说明：主句更新一个局部的可能世界集合，更新后的集合可以看作用以更新共同基础的潜在候选；同位语则直接更新共同基础——与其说是** 提议的 **共同基础更新，不如说是** 强加的 **更新（关于另一种动态逻辑，见 Nouwen 2007）[^nouwen-2007]。AnderBois et al. 2015 的想法部分受到类似观念的启发，那些观念已在传信范畴（evidentials）领域得到成功应用；特别见 Murray 2014。
+      动态语义是分析这类句子被解释时所发生之事的适当框架，因为它天然允许对彼此分离的信息流建模。例如 AnderBois et al. 2015 对 (19) 这类句子给出如下说明：主句更新一个局部的可能世界集合，更新后的集合可以看作用以更新共同基础的潜在候选；同位语则直接更新共同基础——与其说是 **提议的** 共同基础更新，不如说是 **强加的** 更新（关于另一种动态逻辑，见 Nouwen 2007）[^nouwen-2007]。AnderBois et al. 2015 的想法部分受到类似观念的启发，那些观念已在传信范畴（evidentials）领域得到成功应用；特别见 Murray 2014。
   - id: 121
     kind: body
     source: |-
@@ -1156,9 +1156,9 @@ segments:
     source: |-
       Instead of the basic types e and t of classical extensional Montague grammar, DMG has basic types $e, t$ and $m (m$ for marker). States pick out entities for markers, so they can be viewed as objects of type $m \rightarrow e$. Abbreviating $m \rightarrow e$ as $s$ (for “state”), we call objects of type $s \rightarrow s \rightarrow t$ state transitions. The variable $P$ in the DMG translation of “a man” has type $m \rightarrow s \rightarrow s \rightarrow t$, so VP meanings have been lifted from type $e \rightarrow t$ to this type. Note that $\rightarrow$ associates to the right, so $m \rightarrow s \rightarrow s \rightarrow t$ is shorthand for $m \rightarrow(s \rightarrow(s \rightarrow t))$. Indeed, DMG can be viewed as the result of systematic replacement of entities by markers and of truth values by state transitions. A VP meaning for “is happy” is a function that maps a marker to a state transition. The state transition for marker $u_i$ will check whether the input state maps $u_i$ to a happy entity, and whether the output context equals the input context. The variables $a$, *a$'$* range over states, and the expression $(u_i \mid x)a$ denotes the result of resetting the value of $u_i$ in $a$ to $x$, so the old value of $u_i$ gets destroyed (destructive assignment). The anaphoric index $i$ on reference marker $u_i$ is introduced by the translation. In fact, the translation starts from the indexed indefinite noun phrase “a man$_i$”. The connection between Montagovian compositionality and dynamic semantics as well as the basic Montagovian and dynamic ingredients are much more transparent and streamlined in the typed Logic of Change proposed in Muskens 1991, 1995, 1996. Because of this, Muskens’s Compositional DRT is probably the *de facto* standard and starting point for current research in compositional dynamic semantics. An alternative treatment is given in Incremental Typed Logic (ITL), an extension to typed logic of a “stack semantics” that is based on variable free indexing and that avoids the destructive assignment problem. The basic idea of the stack semantics for DPL, developed in Vermeulen 1993, is to replace the destructive assignment of ordinary DPL, which throws away old values when resetting, by a stack-valued one that allows old values to be reused. Stack-valued assignments assign to each variable a stack of values, the top of the stack being the current value. Existential quantification pushes a new value on the stack, but there is also the possibility of popping the stack to reuse a previously assigned value. Eijck’s 2000 ITL is in fact a typed version of stack semantics, using a single stack.
     step1: |-
-      DMG 不像古典外延蒙塔古语法那样以 e 与 t 为基本类型，而以 $e, t$ 与 $m$（m 指标记）为基本类型。状态为标记挑出实体，因此可以看作类型为 $m \rightarrow e$ 的对象。把 $m \rightarrow e$ 缩写为 $s$（“状态”），我们把类型为 $s \rightarrow s \rightarrow t$ 的对象称为状态转换。“a man”在 DMG 翻译中的变量 $P$ 类型为 $m \rightarrow s \rightarrow s \rightarrow t$，因此 VP 的意义已从类型 $e \rightarrow t$ 提升到这一类型。注意 $\rightarrow$ 右结合，故 $m \rightarrow s \rightarrow s \rightarrow t$ 是 $m \rightarrow(s \rightarrow(s \rightarrow t))$ 的缩写。事实上，DMG 可以看作系统地用标记替换实体、用状态转换替换真值的结果。“is happy”的 VP 意义是一个把标记映射到状态转换的函数。标记 $u_i$ 的状态转换将检查输入状态是否把 $u_i$ 映射到一个快乐的实体，以及输出语境是否等于输入语境。变量 $a$、*a$'$* 取状态为值，表达式 $(u_i \mid x)a$ 表示把 $a$ 中 $u_i$ 的值重置为 $x$ 的结果，于是 $u_i$ 的旧值被销毁（破坏性赋值）。指称标记 $u_i$ 上的回指索引 $i$ 由翻译引入。事实上，翻译从带索引的不定名词短语“a man$_i$”出发。蒙塔古式组合性与动态语义之间的联系，以及蒙塔古式与动态的基本要素，在 Muskens 1991, 1995, 1996 提出的类型化变化逻辑中要透明、精炼得多。因此，Muskens 的组合性 DRT 大概是当前组合性动态语义研究的** 事实 **标准与出发点。另一种处理见于增量类型化逻辑（ITL），它是对一种“栈语义”的类型化逻辑扩展；栈语义基于无变量索引，避免了破坏性赋值问题。Vermeulen 1993 所发展的 DPL 栈语义的基本想法是：以允许旧值复用的栈值赋值，取代普通 DPL 中重置时丢弃旧值的破坏性赋值。栈值赋值给每个变量指派一个值栈，栈顶为当前值。存在量化把一个新值压入栈，但也可以弹出栈以复用先前指派的值。Eijck 2000 的 ITL 事实上是栈语义的类型化版本，使用单一栈。
+      DMG 不像古典外延蒙塔古语法那样以 e 与 t 为基本类型，而以 $e, t$ 与 $m$（m 指标记）为基本类型。状态为标记挑出实体，因此可以看作类型为 $m \rightarrow e$ 的对象。把 $m \rightarrow e$ 缩写为 $s$（“状态”），我们把类型为 $s \rightarrow s \rightarrow t$ 的对象称为状态转换。“a man”在 DMG 翻译中的变量 $P$ 类型为 $m \rightarrow s \rightarrow s \rightarrow t$，因此 VP 的意义已从类型 $e \rightarrow t$ 提升到这一类型。注意 $\rightarrow$ 右结合，故 $m \rightarrow s \rightarrow s \rightarrow t$ 是 $m \rightarrow(s \rightarrow(s \rightarrow t))$ 的缩写。事实上，DMG 可以看作系统地用标记替换实体、用状态转换替换真值的结果。“is happy”的 VP 意义是一个把标记映射到状态转换的函数。标记 $u_i$ 的状态转换将检查输入状态是否把 $u_i$ 映射到一个快乐的实体，以及输出语境是否等于输入语境。变量 $a$、*a$'$* 取状态为值，表达式 $(u_i \mid x)a$ 表示把 $a$ 中 $u_i$ 的值重置为 $x$ 的结果，于是 $u_i$ 的旧值被销毁（破坏性赋值）。指称标记 $u_i$ 上的回指索引 $i$ 由翻译引入。事实上，翻译从带索引的不定名词短语“a man$_i$”出发。蒙塔古式组合性与动态语义之间的联系，以及蒙塔古式与动态的基本要素，在 Muskens 1991, 1995, 1996 提出的类型化变化逻辑中要透明、精炼得多。因此，Muskens 的组合性 DRT 大概是当前组合性动态语义研究的 **事实** 标准与出发点。另一种处理见于增量类型化逻辑（ITL），它是对一种“栈语义”的类型化逻辑扩展；栈语义基于无变量索引，避免了破坏性赋值问题。Vermeulen 1993 所发展的 DPL 栈语义的基本想法是：以允许旧值复用的栈值赋值，取代普通 DPL 中重置时丢弃旧值的破坏性赋值。栈值赋值给每个变量指派一个值栈，栈顶为当前值。存在量化把一个新值压入栈，但也可以弹出栈以复用先前指派的值。Eijck 2000 的 ITL 事实上是栈语义的类型化版本，使用单一栈。
     step2: |-
-      DMG 不像古典外延蒙塔古语法那样以 e 与 t 为基本类型，而以 $e, t$ 与 $m$（m 指标记）为基本类型。状态为标记挑出实体，因此可看作类型为 $m \rightarrow e$ 的对象。把 $m \rightarrow e$ 缩写为 $s$（“状态”），类型为 $s \rightarrow s \rightarrow t$ 的对象便称为状态转换。“a man”在 DMG 翻译中的变量 $P$ 类型为 $m \rightarrow s \rightarrow s \rightarrow t$，因此 VP 的意义已从类型 $e \rightarrow t$ 提升到这一类型。注意 $\rightarrow$ 右结合，故 $m \rightarrow s \rightarrow s \rightarrow t$ 是 $m \rightarrow(s \rightarrow(s \rightarrow t))$ 的缩写。事实上，DMG 可以看作系统地用标记替换实体、用状态转换替换真值的结果。“is happy”的 VP 意义是一个把标记映射到状态转换的函数；标记 $u_i$ 的状态转换将检查输入状态是否把 $u_i$ 映射到一个快乐的实体，以及输出语境是否等于输入语境。变量 $a$、*a$'$* 取状态为值，表达式 $(u_i \mid x)a$ 表示把 $a$ 中 $u_i$ 的值重置为 $x$ 的结果，于是 $u_i$ 的旧值被销毁（破坏性赋值）。指称标记 $u_i$ 上的回指索引 $i$ 由翻译引入；事实上，翻译从带索引的不定名词短语“a man$_i$”出发。蒙塔古式组合性与动态语义之间的联系，以及蒙塔古式与动态的基本要素，在 Muskens 1991, 1995, 1996 提出的类型化变化逻辑中要透明、精炼得多；因此，Muskens 的组合性 DRT 大概是当前组合性动态语义研究的** 事实 **标准与出发点。另一种处理见于增量类型化逻辑（ITL）：它是对一种“栈语义”的类型化逻辑扩展，栈语义基于无变量索引，避免了破坏性赋值问题。Vermeulen 1993 所发展的 DPL 栈语义，其基本想法是以允许旧值复用的栈值赋值，取代普通 DPL 中重置时丢弃旧值的破坏性赋值：栈值赋值给每个变量指派一个值栈，栈顶为当前值；存在量化把一个新值压入栈，但也可以弹出栈以复用先前指派的值。Eijck 2000 的 ITL 事实上是栈语义的类型化版本，使用单一栈。
+      DMG 不像古典外延蒙塔古语法那样以 e 与 t 为基本类型，而以 $e, t$ 与 $m$（m 指标记）为基本类型。状态为标记挑出实体，因此可看作类型为 $m \rightarrow e$ 的对象。把 $m \rightarrow e$ 缩写为 $s$（“状态”），类型为 $s \rightarrow s \rightarrow t$ 的对象便称为状态转换。“a man”在 DMG 翻译中的变量 $P$ 类型为 $m \rightarrow s \rightarrow s \rightarrow t$，因此 VP 的意义已从类型 $e \rightarrow t$ 提升到这一类型。注意 $\rightarrow$ 右结合，故 $m \rightarrow s \rightarrow s \rightarrow t$ 是 $m \rightarrow(s \rightarrow(s \rightarrow t))$ 的缩写。事实上，DMG 可以看作系统地用标记替换实体、用状态转换替换真值的结果。“is happy”的 VP 意义是一个把标记映射到状态转换的函数；标记 $u_i$ 的状态转换将检查输入状态是否把 $u_i$ 映射到一个快乐的实体，以及输出语境是否等于输入语境。变量 $a$、*a$'$* 取状态为值，表达式 $(u_i \mid x)a$ 表示把 $a$ 中 $u_i$ 的值重置为 $x$ 的结果，于是 $u_i$ 的旧值被销毁（破坏性赋值）。指称标记 $u_i$ 上的回指索引 $i$ 由翻译引入；事实上，翻译从带索引的不定名词短语“a man$_i$”出发。蒙塔古式组合性与动态语义之间的联系，以及蒙塔古式与动态的基本要素，在 Muskens 1991, 1995, 1996 提出的类型化变化逻辑中要透明、精炼得多；因此，Muskens 的组合性 DRT 大概是当前组合性动态语义研究的 **事实** 标准与出发点。另一种处理见于增量类型化逻辑（ITL）：它是对一种“栈语义”的类型化逻辑扩展，栈语义基于无变量索引，避免了破坏性赋值问题。Vermeulen 1993 所发展的 DPL 栈语义，其基本想法是以允许旧值复用的栈值赋值，取代普通 DPL 中重置时丢弃旧值的破坏性赋值：栈值赋值给每个变量指派一个值栈，栈顶为当前值；存在量化把一个新值压入栈，但也可以弹出栈以复用先前指派的值。Eijck 2000 的 ITL 事实上是栈语义的类型化版本，使用单一栈。
   - id: 128
     kind: body
     source: |-
@@ -1186,9 +1186,9 @@ segments:
     source: |-
       Here $P$ is a variable of type $\{0, \ldots ,i\} \rightarrow[e]^{i+1} \rightarrow [e]^j \rightarrow t$, while $c$ is a variable of type [$e]^i$ representing the input context of length $i$, and $c'$ is a variable of type [$e]^j$ representing the output context. Note that the type $\{0, \ldots ,i\} \rightarrow [e]^{i+1} \rightarrow [e]^j \rightarrow t$ for $P$ indicates that $P$ first takes an index in the range $\{0, \ldots ,i\}$, next a context fitting this range (a context of length $i+1)$, next a context of a yet unknown length, and then gives a truth value. $P$ is the type of unary predicates, lifted to the level of context changers, as follows. Instead of using a variable to range over objects to form an expression of type $e$, a lifted predicate uses a variable ranging over the size of an input context to form an expression that denotes a changer for that context.
     step1: |-
-      这里 $P$ 是类型为 $\{0, \ldots ,i\} \rightarrow[e]^{i+1} \rightarrow [e]^j \rightarrow t$ 的变量，而 $c$ 是类型为 [$e]^i$、代表长度为 $i$ 之输入语境的变量，$c'$ 是类型为 [$e]^j$、代表输出语境的变量。注意类型 $\{0, \ldots ,i\} \rightarrow [e]^{i+1} \rightarrow [e]^j \rightarrow t$ 对 $P$ 而言表明：$P$ 先取范围 $\{0, \ldots ,i\}$ 中的一个索引，再取一个适合此范围的语境（长度为 $i+1$ 的语境），再取一个长度未知的语境，然后给出真值。$P$ 是一元谓词的类型，按如下方式提升到语境变化者的层面：提升后的谓词不用一个在类型 $e$ 的对象上取值的变量来构成表达式，而用一个在输入语境大小上取值的变量，来构成指称该语境之变化者的表达式。
+      这里 $P$ 是类型为 $\{0, \ldots ,i\} \rightarrow[e]^{i+1} \rightarrow [e]^j \rightarrow t$ 的变量，而 $c$ 是类型为 [$e]^i$、代表长度为 $i$ 之输入语境的变量，$c'$ 是类型为 [$e]^j$、代表输出语境的变量。注意类型 $\{0, \ldots ,i\} \rightarrow [e]^{i+1} \rightarrow [e]^j \rightarrow t$ 表明 $P$ 的角色：$P$ 先取范围 $\{0, \ldots ,i\}$ 中的一个索引，再取适合此范围的语境（长度 $i+1$），再取长度未知的语境，最后给出真值。$P$ 是一元谓词的类型，按如下方式提升到语境变化者的层面：提升后的谓词不用一个在类型 $e$ 的对象上取值的变量来构成表达式，而用一个在输入语境大小上取值的变量，来构成指称该语境之变化者的表达式。
     step2: |-
-      这里 $P$ 是类型为 $\{0, \ldots ,i\} \rightarrow[e]^{i+1} \rightarrow [e]^j \rightarrow t$ 的变量，$c$ 是类型为 [$e]^i$、代表长度为 $i$ 之输入语境的变量，$c'$ 是类型为 [$e]^j$、代表输出语境的变量。注意类型 $\{0, \ldots ,i\} \rightarrow [e]^{i+1} \rightarrow [e]^j \rightarrow t$ 对 $P$ 而言表明：$P$ 先取范围 $\{0, \ldots ,i\}$ 中的一个索引，再取一个适合此范围的语境（长度为 $i+1$ 的语境），再取一个长度未知的语境，然后给出真值。$P$ 是一元谓词的类型，按如下方式提升到语境变化者的层面：提升后的谓词不用一个在类型 $e$ 的对象上取值的变量来构成表达式，而用在输入语境大小上取值的变量，构成指称该语境之变化者的表达式。
+      这里 $P$ 是类型为 $\{0, \ldots ,i\} \rightarrow[e]^{i+1} \rightarrow [e]^j \rightarrow t$ 的变量，$c$ 是类型为 [$e]^i$、代表长度为 $i$ 之输入语境的变量，$c'$ 是类型为 [$e]^j$、代表输出语境的变量。注意类型 $\{0, \ldots ,i\} \rightarrow [e]^{i+1} \rightarrow [e]^j \rightarrow t$ 表明 $P$ 的角色：$P$ 先取范围 $\{0, \ldots ,i\}$ 中的一个索引，再取适合此范围的语境（长度 $i+1$），再取长度未知的语境，最后给出真值。$P$ 是一元谓词的类型，按如下方式提升到语境变化者的层面。提升后的谓词不再让变量在类型 $e$ 的对象上取值来构成表达式，而在语境大小上取值，构成指称语境变化者的表达式。
   - id: 131
     kind: body
     source: |-
@@ -1242,7 +1242,7 @@ segments:
     step1: |-
       希望上文已使读者感到，动态语义是处理意义与信息加工的一种富有成果而灵活的进路。动态语义带来一套灵活的工具，以及一批“杀手级应用”，如驴子句的组合处理、回指联结的说明、预设投射的说明、认识更新的说明，以及对不同种类（非议题）更新之间精细区别的刻画。动态语义是形式语义学中一个非常活跃的子领域，采用动态进路处理的现象在跨语言上范围正日益扩大。
     step2: |-
-      希望上文已使读者感到，动态语义是处理意义与信息加工的一种富有成果而灵活的进路。它带来一套灵活的工具，以及一批“杀手级应用”：驴子句的组合处理、回指联结的说明、预设投射的说明、认识更新的说明，以及对不同种类（非议题）更新之间精细区别的刻画。动态语义是形式语义学中一个非常活跃的子领域，而以动态进路处理的现象在跨语言上的范围正日益扩大。
+      希望上文已使读者感到，动态语义是处理意义与信息加工的一种富有成果而灵活的进路。它带来一套灵活工具，以及一批“杀手级应用”：驴子句的组合处理、回指联结、预设投射、认识更新，还有对不同种类（非议题）更新的精细区分。动态语义是形式语义学中一个非常活跃的子领域；以动态进路处理的现象，其跨语言范围也正日益扩大。
   - id: 137
     kind: oir
     source: |-
