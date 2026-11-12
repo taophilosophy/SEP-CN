@@ -1,0 +1,348 @@
+{
+ "key": "free-rider",
+ "term": "free-rider",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T15:53:41+00:00",
+ "status": "ok",
+ "note": "variant=free-rider; 审定公布名词库=1937; 海峡两岸名词对照库=633; 其他来源数据库=150; 预公布名词数据库=58; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "搭便车者",
+   "en": "free rider",
+   "code": "01.0129",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_基本概念"
+  },
+  {
+   "cn": "搭便车困境",
+   "en": "free rider problem",
+   "code": "03.211",
+   "standard": "经济学名词",
+   "subject": "经济学_微观经济学"
+  },
+  {
+   "cn": "游码",
+   "en": "rider",
+   "code": "03.0096",
+   "standard": "化学名词",
+   "subject": "化学_分析化学_一般术语"
+  },
+  {
+   "cn": "游码",
+   "en": "rider",
+   "code": "03.012",
+   "standard": "计量学名词",
+   "subject": "计量学_质量、密度、衡器_质量"
+  },
+  {
+   "cn": "驼峰",
+   "en": "rider peak",
+   "code": "06.332",
+   "standard": "药学名词",
+   "subject": "药学_药物分析"
+  },
+  {
+   "cn": "游码",
+   "en": "rider weight",
+   "code": "07.059",
+   "standard": "机械工程名词 第三分册",
+   "subject": "机械工程_仪器仪表_实验室仪器和装置_天平仪器_机械天平零部件及附件"
+  },
+  {
+   "cn": "自由乘客运动",
+   "en": "Freedom Riders",
+   "code": "03.0208",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_美国"
+  },
+  {
+   "cn": "自由-自由跃迁",
+   "en": "free-free transition",
+   "code": "04.155",
+   "standard": "天文学名词",
+   "subject": "天文学_天体物理学"
+  },
+  {
+   "cn": "自由-自由跃迁",
+   "en": "free-free transition",
+   "code": "07.0039",
+   "standard": "物理学名词",
+   "subject": "物理学_原子、分子物理学"
+  },
+  {
+   "cn": "自由-自由状态",
+   "en": "free-free state",
+   "code": "14.197",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天器结构强度与航天环境工程"
+  },
+  {
+   "cn": "自由面",
+   "en": "free face,free surface",
+   "code": "02.0363",
+   "standard": "冶金学名词",
+   "subject": "冶金学_采矿_凿岩爆破"
+  },
+  {
+   "cn": "临空面",
+   "en": "free surface,free face",
+   "code": "09.104",
+   "standard": "土木工程名词",
+   "subject": "土木工程_隧道与地下工程_隧道施工方法"
+  },
+  {
+   "cn": "搭便车效应",
+   "en": "free rider effect",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "游码",
+   "en": "rider",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "驼峰",
+   "en": "rider peak",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "自由-自由跃迁",
+   "en": "free-free transition",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "独立缘（=游离缘）",
+   "en": "free border\",\"free margin",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "游离缘，独立缘",
+   "en": "free border\",\"free margin",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "游离核糖体",
+   "en": "free ribosome",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "游离巨噬细胞",
+   "en": "free macrophage",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "游离面",
+   "en": "free surface",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "游离末梢",
+   "en": "free ending",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "游离绒毛",
+   "en": "free villus",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "游离细胞",
+   "en": "free cell",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "男骑手",
+   "en": "horseman\",\"rider",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "骑手",
+   "en": "horseman\",\"rider",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "自选",
+   "en": "free",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "自选",
+   "en": "free",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "领先大部队车手",
+   "en": "breakaway rider",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "罚球",
+   "en": "free shot\",\"free throw",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_篮球名词"
+  },
+  {
+   "cn": "自行车运动员",
+   "en": "cyclist\",\"racer\",\"rider",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "领骑者",
+   "en": "leader\",\"leading rider",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "坠马",
+   "en": "throw the rider",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "自由使用",
+   "en": "free use",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "自由意志",
+   "en": "Free will",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "无障碍区",
+   "en": "free zone",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_沙滩排球名词"
+  },
+  {
+   "cn": "搭便车问题",
+   "en": "free rider problem",
+   "code": "3.5.3.13",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_经济社会学_新经济社会学"
+  },
+  {
+   "cn": "游离棉酚",
+   "en": "free gossypol",
+   "code": "5.10.4.11",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_食用油脂"
+  },
+  {
+   "cn": "游离碘",
+   "en": "free iodine",
+   "code": "2.1.6.2.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术_化学消毒"
+  },
+  {
+   "cn": "游离氨",
+   "en": "free ammonia",
+   "code": "2.1.12.12",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术_化学消毒"
+  },
+  {
+   "cn": "自由电子",
+   "en": "free electron",
+   "code": "3.1.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_核物理基本概念"
+  },
+  {
+   "cn": "自由基",
+   "en": "free radical",
+   "code": "4.1.1.1.27",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词"
+  },
+  {
+   "cn": "价值中立",
+   "en": "value free",
+   "code": "1.2.2.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_伦理准则"
+  },
+  {
+   "cn": "自由贸易",
+   "en": "free trade",
+   "code": "02.0176",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "自由竞争",
+   "en": "free competition",
+   "code": "02.0182",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "自由劳动",
+   "en": "free labor",
+   "code": "03.0238",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "自由联合",
+   "en": "free association",
+   "code": "03.0239",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "自由农",
+   "en": "free peasants",
+   "code": "03.0240",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

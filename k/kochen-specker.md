@@ -1,4 +1,4 @@
-# 科亨-施佩克尔定理（KS 定理 The Kochen-Specker Theorem (Carsten Held)
+# 科亨-施佩克尔定理（KS 定理） The Kochen-Specker Theorem (Carsten Held)
 
 *首次发表于 2000 年 9 月 11 日；2022 年 9 月 6 日实质修订。*
 

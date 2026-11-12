@@ -2295,7 +2295,8 @@
 | Klement, Erich Peter | — | Klement | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Klima, Gyula | — | Gyula Klima（现代学者，保留英文） | — | — | buridan | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08 | 2026-11-08 |
 | Klir, George J. | — | Klir | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
-| Kneale, William and Martha | — | 威廉·涅尔与玛尔塔·涅尔 | — | — | leibniz-logic-influence | 学界通行汉译（《逻辑学的发展》作者）；凭证 2026-11-07 | 2026-11-07 |
+| Kneale, Martha | — | 玛尔塔·涅尔 | — | — | leibniz-logic-influence | 学界通行汉译（《逻辑学的发展》合著者）；凭证 2026-11-07 | 2026-11-07 |
+| Kneale, William | — | 威廉·涅尔 | — | — | leibniz-logic-influence | 学界通行汉译（《逻辑学的发展》合著者）；凭证 2026-11-07 | 2026-11-07 |
 | Knight, Carl | — | 卡尔·奈特 | — | — | truth-coherence | 学界惯例（反思平衡研究者，音译）；凭证 2026-11-08 | 2026-11-08 |
 | Knobe, Joshua | — | 乔舒亚·诺布 | 美国 | — | double-effect | 学界通行汉译（实验哲学“诺布效应”提出者）；凭证 2026-11-11 | 2026-11-11 |
 | Knorr von Rosenroth, Christian | — | 克诺尔·冯·罗森罗特 | 德意志 | 1636–1689 | cambridge-platonists | 学界通行音译（《卡巴拉解蔽》编译者）；凭证 2026-11-09 | 2026-11-09 |
@@ -2334,7 +2335,8 @@
 | Kreisel, Georg | — | Kreisel | — | — | logical-consequence | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Kretzmann, Norman | — | Norman Kretzmann（现代学者，保留英文） | — | — | william-sherwood | ADR-0022（舍伍德著作校订与英译者） | 2026-11-09 |
 | Krifka, Manfred | — | Manfred Krifka | — | — | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
-| Krige, J. D. and E. J. | — | J. D. 克里格与 E. J. 克里格 | 南非 | — | african-ethics | 学界通行音译（洛维杜人研究）；凭证 2026-11-09 | 2026-11-09 |
+| Krige, E. J. | — | E. J. 克里格 | 南非 | — | african-ethics | 学界通行音译（洛维杜人研究合著者）；凭证 2026-11-09 | 2026-11-09 |
+| Krige, J. D. | — | J. D. 克里格 | 南非 | — | african-ethics | 学界通行音译（洛维杜人研究合著者）；凭证 2026-11-09 | 2026-11-09 |
 | Krika, Manfred | — | Manfred Krika | — | — | logic-massexpress | 源文拼作 Krika（1989），保留英文；凭证 2026-11-10 | 2026-11-09 |
 | Kripke, Saul | — | 索尔·克里普克 | — | — | closure-epistemic | 学界通行汉译（《命名与必然性》）；凭证 2026-11-08 | 2026-11-08 |
 | Krisch, Nico | — | 尼科·克里施 | 德国 | — | global-democracy | 音译（国际法学者） | 2026-11-12 |
@@ -4280,7 +4282,8 @@
 | Watson, Richard A. | — | 理查德·沃森 | 美国 | — | epistemology-latin-america | 音译（英语译名惯例）；凭证 2026-11-11 | 2026-11-11 |
 | Weatherson, Brian | — | 布赖恩·韦瑟森 | 美国／加拿大 | 1973– | imaginative-resistance | 音译（四谜题）；凭证 2026-11-12 | 2026-11-12 |
 | Webb, Peter | — | 彼得·韦布 | — | — | erotic-art | 学界惯例音译（情色艺术研究者） | 2026-11-08 |
-| Webb, Sidney and Beatrice | — | 西德尼与比阿特丽斯·韦伯（韦伯夫妇） | — | — | economic-democracy | 学界通行汉译（英国费边社会主义者） | 2026-11-04 |
+| Webb, Beatrice | — | 比阿特丽斯·韦伯 | — | — | economic-democracy | 学界通行汉译（英国费边社会主义者，韦伯夫妇之一） | 2026-11-04 |
+| Webb, Sidney | — | 西德尼·韦伯 | — | — | economic-democracy | 学界通行汉译（英国费边社会主义者，韦伯夫妇之一） | 2026-11-04 |
 | Webb, William | — | 威廉·韦布 | — | — | social-procedures | 构词直译（切蛋糕算法研究者）；凭证 2026-11-07 | 2026-11-07 |
 | Weber, Max | — | 马克斯·韦伯 | — | — | bloch | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Weber, Zach | — | Zach Weber | — | — | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |

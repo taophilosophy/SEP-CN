@@ -1,4 +1,4 @@
-# 社会程序的形式化进路 Formal Approaches to Social Procedures (Jan van Eijck and Rineke (L.C.) Verbrugge)
+# 社会程序的形式化进路 Formal Approaches to Social Procedures (Jan van Eijck、Rineke (L.C.) Verbrugge)
 
 *首次发表于 2014 年 9 月 8 日；2019 年 11 月 7 日实质修订。*
 

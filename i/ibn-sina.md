@@ -1,4 +1,4 @@
-# 伊本·西那（阿维森纳 Ibn Sina [Avicenna] (Dimitri Gutas)
+# 伊本·西那（阿维森纳） Ibn Sina [Avicenna] (Dimitri Gutas)
 
 *首次发表于 2016 年 9 月 15 日；2025 年 10 月 31 日实质修订。*
 

@@ -1,4 +1,4 @@
-# 格奥尔格·菲利普·弗里德里希·弗莱赫尔·冯·哈登贝格（诺瓦利斯 Georg Friedrich Philipp von Hardenberg [Novalis] (Kristin Gjesdal)
+# 格奥尔格·菲利普·弗里德里希·弗莱赫尔·冯·哈登贝格（诺瓦利斯） Georg Friedrich Philipp von Hardenberg [Novalis] (Kristin Gjesdal)
 
 首次发表于 2009 年 5 月 21 日；2020 年 10 月 20 日实质修订。
 

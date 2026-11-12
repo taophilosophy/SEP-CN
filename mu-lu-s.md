@@ -2,7 +2,6 @@
 outline: [1, 6]
 ---
 
-
 # 前言
 
 * [日志与编辑规划](qian-yan/ri-zhi-yu-bian-ji-gui-hua.md)
@@ -71,17 +70,17 @@ outline: [1, 6]
 #### 柏拉图与学园
 
 * [柏拉图 Plato (Richard Kraut)](p/plato.md)
-  * [柏拉图的 《克拉底鲁篇 Plato’s Cratylus (David Meißner)](p/plato-cratylus.md)
+  * [柏拉图的《克拉底鲁篇》 Plato’s Cratylus (David Meißner)](p/plato-cratylus.md)
   * [柏拉图在《智者篇》和《政治家篇》中的方法论与形而上学 Method and Metaphysics in Plato’s Sophist and Statesman (Mary-Louise Gill)](p/plato-sophstate.md)
   * [柏拉图中期的形而上学和认识论 Plato’s Middle Period Metaphysics and Epistemology (Allan Silverman)](p/plato-metaphysics.md)
-  * [柏拉图的《巴门尼德篇 Plato’s Parmenides (Samuel Rickless)](p/plato-parmenides.md)
+  * [柏拉图的《巴门尼德篇》 Plato’s Parmenides (Samuel Rickless)](p/plato-parmenides.md)
   * [在《泰阿泰德篇》中柏拉图的认识论 Plato on Knowledge in the Theaetetus (Sophie-Grace Chappell、Francesco Verde)](p/plato-theaetetus.md)
-  * [柏拉图的《蒂迈欧篇 Plato’s Timaeus (Donald Zeyl、Barbara Sattler)](p/plato-timaeus.md)
+  * [柏拉图的《蒂迈欧篇》 Plato’s Timaeus (Donald Zeyl、Barbara Sattler)](p/plato-timaeus.md)
   * [柏拉图伦理学概述 Plato’s Ethics: An Overview (Dorothea Frede、Mi-Kyoung Lee)](p/plato-ethics.md)
   * [在《理想国》中柏拉图的伦理学和政治学 Plato’s Ethics and Politics in The Republic (Eric Brown)](p/plato-ethics-politics.md)
   * [柏拉图的短篇伦理学著作 Plato’s Shorter Ethical Works (Paul Woodruff)](p/plato-ethics-shorter.md)
   * [柏拉图论友爱与爱欲 Plato on Friendship and Eros (C. D. C. Reeve)](p/plato-friendship.md)
-  * [柏拉图的《法律篇 Plato’s Laws (Chris Bobonich、Katherine Meadows)](p/plato-laws.md)
+  * [柏拉图的《法律篇》 Plato’s Laws (Chris Bobonich、Katherine Meadows)](p/plato-laws.md)
   * [柏拉图的美学 Plato’s Aesthetics (Nickolas Pappas)](p/plato-aesthetics.md)
   * [柏拉图论修辞学和诗歌 Plato on Rhetoric and Poetry (Charles L. Griswold)](p/plato-rhetoric.md)
   * [柏拉图的秘所思 Plato’s Myths (Catalin Partenie)](p/plato-myths.md)
@@ -100,7 +99,7 @@ outline: [1, 6]
   * [亚里士多德论数学 Aristotle and Mathematics (Henry Mendell)](a/aristotle-mathematics.md)
   * [亚里士多德的生物学 Aristotle’s Biology (James Lennox、Mariska Leunissen)](a/aristotle-biology.md)
   * [亚里士多德的心理学 Aristotle’s Psychology (Christopher Shields)](a/aristotle-psychology.md)
-  * [亚里士多德的《动物的运动 Aristotle’s De Motu Animalium (Klaus Corcilius)](a/aristotle-de-motu.md)
+  * [亚里士多德的《动物的运动》 Aristotle’s De Motu Animalium (Klaus Corcilius)](a/aristotle-de-motu.md)
   * [亚里士多德的伦理学 Aristotle’s Ethics (Richard Kraut)](a/aristotle-ethics.md)
   * [亚里士多德的政治学 Aristotle’s Political Theory (Fred Miller)](a/aristotle-politics.md)
   * [亚里士多德的修辞学 Aristotle’s Rhetoric (Christof Rapp)](a/aristotle-rhetoric.md)
@@ -179,12 +178,12 @@ outline: [1, 6]
 
 * [希波的奥古斯丁 Augustine of Hippo (Christian Tornau)](a/augustine.md)
 
-#### 伪狄奥尼修斯与波爱修
+### 奥古斯丁主义与黑暗时代
+
+#### 波爱修与伪狄奥尼修斯
 
 * [亚尼修·玛理乌斯·塞味利诺·波爱修斯 Anicius Manlius Severinus Boethius (John Marenbon)](b/boethius.md)
 * [伪狄奥尼修斯 Pseudo-Dionysius the Areopagite (Kevin Corrigan、L. Michael Harrington)](p/pseudo-dionysius-areopagite.md)
-
-### 奥古斯丁主义与黑暗时代
 
 #### 加洛林文艺复兴与爱留根纳
 
@@ -192,7 +191,9 @@ outline: [1, 6]
 
 ### 经院哲学的诞生
 
-#### 安瑟伦与理性主义神学
+#### 理性主义神学（唯理论）
+
+> 本节含反辩证法一极（彼得·达米安），以见十一世纪理性与信仰之争的张力；安瑟伦“信仰寻求理解”为唯理论一路之典型。
 
 * [伯多禄·达弥盎 Peter Damian (Toivo J. Holopainen)](p/peter-damian.md)
 * [坎特伯雷的安瑟伦 Anselm of Canterbury (Thomas Williams)](a/anselm.md)
@@ -213,6 +214,8 @@ outline: [1, 6]
 * [西班牙的彼得（彼得·希斯帕努斯）的逻辑学 The Logic of Peter of Spain (Joke Spruyt)](p/peter-spain.md)
 
 ### 亚里士多德主义的传播
+
+> 并见 伊斯兰哲学／黄金时代（伊本·鲁世德）、犹太哲学／古代与中世纪（迈蒙尼德）；阿拉伯与犹太中介条目分列两域，此处不重复收录。
 
 #### 拉丁阿维罗伊主义
 
@@ -266,17 +269,19 @@ outline: [1, 6]
   * [中世纪的模态理论 Medieval Theories of Modality (Simo Knuuttila)](m/modality-medieval.md)
   * [中世纪的此性理论 Medieval Theories of Haecceity (Richard Cross)](m/medieval-haecceity.md)
 
-#### 唯名论与现代路线
+#### 唯名论与奥康主义
 
-* [奥特古的尼克拉 Nicholas of Autrecourt (Hans Thijssen)](a/autrecourt.md)
+> 并见 中世纪哲学专题／中世纪的词项属性理论、不可解命题、诡辩。
+
+* [奥卡姆的威廉 William of Ockham (Paul Vincent Spade、Claude Panaccio、Jenny Pelletier)](o/ockham.md)
 * [彼得·奥雷奥利 Peter Auriol (Russell L. Friedman、Giacomo Fornasieri)](a/auriol.md)
 * [罗伯特·霍尔科特 Robert Holkot (Hester Gelber、John T. Slotemaker)](h/holkot.md)
-* [奥卡姆的威廉 William of Ockham (Paul Vincent Spade、Claude Panaccio、Jenny Pelletier)](o/ockham.md)
 * [沃尔特·查顿 Walter Chatton (Rondo Keele、Jenny Pelletier)](w/walter-chatton.md)
-* [马尔基亚的弗朗西斯 Francis of Marchia (Christopher Schabel)](f/francis-marchia.md)
 * [威廉·克雷索恩 William Crathorn (Aurélien Robert)](c/crathorn.md)
-* [里米尼的格里高利 Gregory of Rimini (Christopher Schabel、Charles Girard)](g/gregory-rimini.md)
 * [亚当·德·沃德汉姆 Adam de Wodeham (John T. Slotemaker、Jeffrey C. Witt)](w/wodeham.md)
+* [马尔基亚的弗朗西斯 Francis of Marchia (Christopher Schabel)](f/francis-marchia.md)
+* [里米尼的格里高利 Gregory of Rimini (Christopher Schabel、Charles Girard)](g/gregory-rimini.md)
+* [奥特古的尼克拉 Nicholas of Autrecourt (Hans Thijssen)](a/autrecourt.md)
 
 ### 中世纪晚期
 
@@ -313,7 +318,6 @@ outline: [1, 6]
 * [帕多瓦的马西利乌斯 Marsilius of Padua (Alessandro Mulieri)](m/marsilius-padua.md)
 * [中世纪哲学 Medieval Philosophy (John Marenbon)](m/medieval-philosophy.md)
 * [中世纪哲学的文学形式 Literary Forms of Medieval Philosophy (Eileen Sweeney)](m/medieval-literary.md)
-* [阿拉伯和伊斯兰哲学中的本质与存在 Essence and Existence in Arabic and Islamic Philosophy (Fedor Benevich)](a/arabic-islamic-essence.md)
 * [不可解命题 Insolubles (Stephen Read、Paul Vincent Spade)](i/insolubles.md)
 * [中世纪关系理论 Medieval Theories of Relations (Jeffrey Brower)](r/relations-medieval.md)
 * [中世纪和文艺复兴时期哲学中的概率 Probability in Medieval and Renaissance Philosophy (Rudolf Schuessler)](p/probability-medieval-renaissance.md)
@@ -435,7 +439,7 @@ outline: [1, 6]
 * [塞缪尔·克拉克 Samuel Clarke (Timothy Yenter、Ezio Vailati)](c/clarke.md)
 * [17 世纪和 18 世纪的情感理论 17th and 18th Century Theories of Emotions (Amy M. Schmitter)](e/emotions-17th18th.md)
 * [17 世纪的意识理论 Seventeenth-Century Theories of Consciousness (Larry M. Jorgensen)](c/consciousness-17th.md)
-* [《波尔·罗亚尔逻辑》 （《逻辑或思维的艺术 Port Royal Logic (Alan Nelson、Jill Buroker)](p/port-royal-logic.md)
+* [《波尔·罗亚尔逻辑》（《逻辑或思维的艺术》） Port Royal Logic (Alan Nelson、Jill Buroker)](p/port-royal-logic.md)
 * [偶因论 Occasionalism (Sukjae Lee)](o/occasionalism.md)
 * [启蒙运动 Enlightenment (William Bristow)](e/enlightenment.md)
   * [进步 Progress (Agnes Tam、Margaret Meek Lange)](p/progress.md)
@@ -544,7 +548,7 @@ outline: [1, 6]
 #### 苏格兰启蒙
 
 * [伯纳德·曼德维尔 Bernard Mandeville (Mikko Tolonen、Robin Douglass)](m/mandeville.md)
-* [沙夫茨伯里伯爵（第三代沙夫茨伯里伯爵安东尼·阿什利-柯柏 Lord Shaftesbury \[Anthony Ashley Cooper, 3rd Earl of Shaftesbury\] (Michael B. Gill)](s/shaftesbury.md)
+* [沙夫茨伯里伯爵（第三代沙夫茨伯里伯爵安东尼·阿什利-柯柏） Lord Shaftesbury \[Anthony Ashley Cooper, 3rd Earl of Shaftesbury\] (Michael B. Gill)](s/shaftesbury.md)
 * [弗兰西斯·哈奇森 Francis Hutcheson (Dale Dorsey)](h/hutcheson.md)
 * [乔纳森·爱德华兹 Jonathan Edwards (William Wainwright)](e/edwards.md)
 * [亚当·斯密的伦理学和政治哲学 Adam Smith’s Moral and Political Philosophy (Samuel Fleischacker)](s/smith-moral-political.md)
@@ -625,7 +629,7 @@ outline: [1, 6]
 * [人格主义 Personalism (Thomas D. Williams、Jan Olof Bengtsson)](p/personalism.md)
 * [弗里德里希·施莱格尔 Friedrich Schlegel (Allen Speight)](s/schlegel.md)
   * [奥古斯特·威廉·冯·施莱格尔 August Wilhelm von Schlegel (Katia D. Hay)](s/schlegel-aw.md)
-* [格奥尔格·菲利普·弗里德里希·弗莱赫尔·冯·哈登贝格（诺瓦利斯 Georg Friedrich Philipp von Hardenberg \[Novalis\] (Kristin Gjesdal)](n/novalis.md)
+* [格奥尔格·菲利普·弗里德里希·弗莱赫尔·冯·哈登贝格（诺瓦利斯） Georg Friedrich Philipp von Hardenberg \[Novalis\] (Kristin Gjesdal)](n/novalis.md)
 
 ## 现代哲学
 
@@ -650,6 +654,7 @@ outline: [1, 6]
 * [格奥尔格·卢卡奇 Georg \[György\] Lukács (Titus Stahl)](l/lukacs.md)
 * [安东尼奥·葛兰西 Antonio Gramsci (James Martin)](g/gramsci.md)
 * [路易·阿尔都塞 Louis Althusser (William Lewis)](a/althusser.md)
+* [异化 Alienation (David Leopold)](a/alienation.md)
 
 ### 非理性主义与生存哲学
 
@@ -777,6 +782,7 @@ outline: [1, 6]
 * [保罗·利科 Paul Ricoeur (David Pellauer、Bernard Dauenhauer、Scott Davidson)](r/ricoeur.md)
 * [保罗·约克·冯·瓦滕堡伯爵 Count Paul Yorck von Wartenburg (Ingo Farin)](y/yorck.md)
 * [阿尔贝·加缪 Albert Camus (Ronald Aronson)](c/camus.md)
+* [欧根·罗森斯托克-胡絮 Eugen Rosenstock-Huessy (Wayne Cristaudo)](r/rosenstock-huessy.md)
 
 ### 分析哲学
 
@@ -790,7 +796,7 @@ outline: [1, 6]
 * [伯特兰·罗素 Bertrand Russell (Andrew David Irvine)](r/russell.md)
   * [罗素的逻辑原子主义 Russell’s Logical Atomism (Kevin Klement)](l/logical-atomism.md)
   * [逻辑构造 Logical Constructions (Bernard Linsky)](l/logical-construction.md)
-  * [《数学原理 Principia Mathematica (Bernard Linsky、Andrew David Irvine)](p/principia-mathematica.md)
+  * [《数学原理》 Principia Mathematica (Bernard Linsky、Andrew David Irvine)](p/principia-mathematica.md)
   * [《数学原理》中的符号 The Notation in Principia Mathematica (Bernard Linsky)](p/pm-notation.md)
   * [罗素的伦理学 Russell’s Moral Philosophy (Charles Pigden)](r/russell-moral.md)
   * [罗素悖论 Russell’s Paradox (Harry Deutsch、Oliver Marshall、Andrew David Irvine)](r/russell-paradox.md)
@@ -833,7 +839,7 @@ outline: [1, 6]
 * [威尔弗里德·塞拉斯 Wilfrid Sellars (Willem deVries、Carl Sachs)](s/sellars.md)
 * [唐纳德·戴维森 Donald Davidson (Jeff Malpas)](d/davidson.md)
 * [伯纳德·威廉斯 Bernard Williams (Sophie-Grace Chappell、Nicholas Smyth)](w/williams-bernard.md)
-* [理查德·西尔万（理查德·劳特利 Richard Sylvan \[Routley\] (Dominic Hyde、Filippo Casati、Zach Weber)](s/sylvan-routley.md)
+* [理查德·西尔万（理查德·劳特利） Richard Sylvan \[Routley\] (Dominic Hyde、Filippo Casati、Zach Weber)](s/sylvan-routley.md)
 
 #### 分析伦理学与政治哲学
 
@@ -846,30 +852,33 @@ outline: [1, 6]
 * [艾丽丝·默多克 Iris Murdoch (Lawrence Blum)](m/murdoch.md)
 * [菲利帕·福特 Philippa Foot (John Hacker-Wright)](p/philippa-foot.md)
 
-### 批判理论与法兰克福学派
+### 法兰克福学派
 
-#### 法兰克福学派
+> 并见 美学／批判理论中的美学、社会伦理学／承认。SEP 未为霍耐特、弗洛姆等单设条目，故本节点以现存六条为限。
 
-* [批判理论（法兰克福学派 Critical Theory (Frankfurt School) (Robin Celikates、Jeffrey Flynn)](c/critical-theory.md)
-* [瓦尔特·本雅明 Walter Benjamin (Peter Osborne、Matthew Charles)](b/benjamin.md)
+* [批判理论（法兰克福学派） Critical Theory (Frankfurt School) (Robin Celikates、Jeffrey Flynn)](c/critical-theory.md)
 * [马克斯·霍克海默 Max Horkheimer (J.C. Berendzen)](h/horkheimer.md)
-* [赫伯特·马尔库塞 Herbert Marcuse (Arnold Farr)](m/marcuse.md)
 * [西奥多·W·阿多诺 Theodor W. Adorno (Henry Pickford、Lambert Zuidervaart)](a/adorno.md)
+* [赫伯特·马尔库塞 Herbert Marcuse (Arnold Farr)](m/marcuse.md)
+* [瓦尔特·本雅明 Walter Benjamin (Peter Osborne、Matthew Charles)](b/benjamin.md)
 * [尤尔根·哈贝马斯 Jürgen Habermas (James Gordon Finlayson、Dafydd Huw Rees)](h/habermas.md)
 
-### 结构主义与后结构主义
-
-#### 结构主义与符号学
+### 结构主义与符号学
 
 * [雅克·拉康 Jacques Lacan (Adrian Johnston)](l/lacan.md)
 
-#### 后结构主义与解构
+### 后结构主义
 
-* [后现代主义 Postmodernism (Gary Aylesworth)](p/postmodernism.md)
-* [让-弗朗索瓦·利奥塔 Jean François Lyotard (Peter Gratton)](l/lyotard.md)
-* [吉尔·德勒兹 Gilles Deleuze (Daniel Smith、John Protevi、Daniela Voss)](d/deleuze.md)
 * [米歇尔·福柯 Michel Foucault (Gary Gutting、Johanna Oksala)](f/foucault.md)
+* [吉尔·德勒兹 Gilles Deleuze (Daniel Smith、John Protevi、Daniela Voss)](d/deleuze.md)
+* [让-弗朗索瓦·利奥塔 Jean François Lyotard (Peter Gratton)](l/lyotard.md)
 * [让·鲍德里亚 Jean Baudrillard (Douglas Kellner)](b/baudrillard.md)
+* [后现代主义 Postmodernism (Gary Aylesworth)](p/postmodernism.md)
+
+### 解构哲学
+
+> 并见 后结构主义（福柯、德勒兹、利奥塔、鲍德里亚）。SEP 无“解构”专条，德里达条为唯一入口。
+
 * [雅克·德里达 Jacques Derrida (Leonard Lawlor)](d/derrida.md)
 
 ### 实用主义与过程哲学
@@ -1128,7 +1137,7 @@ outline: [1, 6]
 
 ### 黄金时代
 
-* [伊本·西那（阿维森纳 Ibn Sina \[Avicenna\] (Dimitri Gutas)](i/ibn-sina.md)
+* [伊本·西那（阿维森纳） Ibn Sina \[Avicenna\] (Dimitri Gutas)](i/ibn-sina.md)
 * [伊本·西那（阿维森纳）的形而上学 Ibn Sina’s Metaphysics (Olga Lizzini)](i/ibn-sina-metaphysics.md)
 * [伊本·西那（阿维森纳）的自然哲学 Ibn Sina’s Natural Philosophy (Jon McGinnis)](i/ibn-sina-natural.md)
 * [伊本·西那（阿维森纳）的逻辑学 Ibn Sina’s Logic (Riccardo Strobino)](i/ibn-sina-logic.md)
@@ -1150,6 +1159,7 @@ outline: [1, 6]
 
 ### 专题
 
+* [阿拉伯和伊斯兰哲学中的本质与存在 Essence and Existence in Arabic and Islamic Philosophy (Fedor Benevich)](a/arabic-islamic-essence.md)
 * [阿拉伯和伊斯兰形而上学 Arabic and Islamic Metaphysics (Amos Bertolacci)](a/arabic-islamic-metaphysics.md)
 * [亚里士多德的神学 The Theology of Aristotle (Peter Adamson)](t/theology-aristotle.md)
 * [伊本·凯姆那 Ibn Kammūna (Tzvi Langermann)](i/ibn-kammuna.md)
@@ -1325,7 +1335,7 @@ outline: [1, 6]
 * [量子力学中的一致性历史方法 The Consistent Histories Approach to Quantum Mechanics (Robert B. Griffiths)](q/qm-consistent-histories.md)
 * [量子力学的哥本哈根诠释 Copenhagen Interpretation of Quantum Mechanics (Jan Faye)](q/qm-copenhagen.md)
 * [埃弗雷特量子力学 Everettian Quantum Mechanics (Jeffrey Barrett)](q/qm-everett.md)
-* [科亨-施佩克尔定理（KS 定理 The Kochen-Specker Theorem (Carsten Held)](k/kochen-specker.md)
+* [科亨-施佩克尔定理（KS 定理） The Kochen-Specker Theorem (Carsten Held)](k/kochen-specker.md)
 * [量子力学的多世界诠释 Many-Worlds Interpretation of Quantum Mechanics (Lev Vaidman)](q/qm-manyworlds.md)
 * [量子力学的模态解释 Modal Interpretations of Quantum Mechanics (Olimpia Lombardi、Dennis Dieks)](q/qm-modal.md)
 * [关系性量子力学 Relational Quantum Mechanics (Carlo Rovelli)](q/qm-relational.md)
@@ -1388,7 +1398,6 @@ outline: [1, 6]
 * [对概率的解释 Interpretations of Probability (Alan Hájek)](p/probability-interpret.md)
 * [辛普森悖论 Simpson’s Paradox (Jan Sprenger、Naftali Weinberger)](p/paradox-simpson.md)
 * [统计学哲学 Philosophy of Statistics (Jan-Willem Romeijn)](s/statistics.md)
-* [代数 Algebra (Vaughan Pratt)](a/algebra.md)
 * [无限 Infinity (Kenny Easwaran、Alan Hájek、Paolo Mancosu、Graham Oppy)](i/infinity.md)
 
 ## 生物学哲学
@@ -1430,20 +1439,18 @@ outline: [1, 6]
 * [进化认识论 Evolutionary Epistemology (Michael Bradie、William Harms)](e/epistemology-evolutionary.md)
 * [进化 Evolution (Roberta L. Millstein)](e/evolution.md)
 * [达尔文之前的进化思想 Evolutionary Thought Before Darwin (Phillip Sloan)](e/evolution-before-darwin.md)
-* [达尔文：从《物种起源》到《人类的由来 Darwin: From the Origin of Species to the Descent of Man (Phillip Sloan)](o/origin-descent.md)
+* [达尔文：从《物种起源》到《人类的由来》 Darwin: From the Origin of Species to the Descent of Man (Phillip Sloan)](o/origin-descent.md)
 * [进化和发育 Evolution and Development (Jan Baedke、Scott F. Gilbert)](e/evolution-development.md)
 * [适合度 Fitness (Alexander Rosenberg、Frederic Bouchard)](f/fitness.md)
 * [先天性特征与后天获得性特征的区别 The Distinction Between Innate and Acquired Characteristics (Paul Griffiths、Stefan Linquist)](i/innate-acquired.md)
 * [宏观进化哲学 Philosophy of Macroevolution (Derek Turner、Joyce C. Havstad)](m/macroevolution.md)
 * [自然选择 Natural Selection (Peter Gildenhuys)](n/natural-selection.md)
 * [选择的单位与层次 Units and Levels of Selection (Elisabeth Lloyd)](s/selection-units.md)
-* [道德与演化生物学 Morality and Evolutionary Biology (William FitzPatrick)](m/morality-biology.md)
 * [动物认知 Animal Cognition (Kristin Andrews、Susana Monsó)](c/cognition-animal.md)
 * [动物交流 Animal Communication (Richard Moore、Giulia Palazzolo)](a/animal-communication.md)
 * [动物社会认知 Animal Social Cognition (Cameron Buckner)](a/animal-social-cognition.md)
 * [动物思维 Animal Thought (Laura Danón)](a/animal-thought.md)
 * [动物规范性 Animal Normativity (Simon Fitzpatrick)](a/animal-normativity.md)
-* [动物的道德地位 The Moral Status of Animals (Lori Gruen、Susana Monsó)](m/moral-animal.md)
 * [神创论 Creationism (Michael Ruse)](c/creationism.md)
 * [社会生物学 Sociobiology (Catherine Driscoll)](s/sociobiology.md)
 
@@ -1455,7 +1462,7 @@ outline: [1, 6]
 * [医学哲学 Philosophy of Medicine (Julian Reiss、Rachel A. Ankeny)](m/medicine.md)
 * [残疾的定义与模型 Disability: Definitions and Models (David Wasserman、Sean Aas)](d/disability.md)
 * [疾病与健康的概念 Concepts of Disease and Health (Dominic Murphy)](h/health-disease.md)
-* [精神障碍（精神疾病 Mental Disorder (Illness) (Jennifer Radden、Jonathan Y. Tsou)](m/mental-disorder.md)
+* [精神障碍（精神疾病） Mental Disorder (Illness) (Jennifer Radden、Jonathan Y. Tsou)](m/mental-disorder.md)
 * [知情同意 Informed Consent (Nir Eyal)](i/informed-consent.md)
 * [预先指示和替代决策 Advance Directives and Substitute Decision-Making (Agnieszka Jaworska)](a/advance-directives.md)
 * [残疾与医疗卫生配给 Disability and Health Care Rationing (Jerome Bickenbach)](d/disability-care-rationing.md)
@@ -1468,7 +1475,6 @@ outline: [1, 6]
 * [克隆 Cloning (Katrien Devolder)](c/cloning.md)
 * [干细胞研究的伦理问题 Ethics of Stem Cell Research (Andrew Siegel)](s/stem-cells.md)
 * [生物伦理理论 Theory and Bioethics (Jennifer Flynn)](t/theory-bioethics.md)
-* [堕胎的伦理学 The Ethics of Abortion (Elizabeth Harman)](a/abortion.md)
 * [临床研究伦理 The Ethics of Clinical Research (David Wendler)](c/clinical-research.md)
 * [人类卵子和精子的捐献与买卖 The Donation and Sale of Human Eggs and Sperm (Reuven Brandt、Stephen Wilkinson、Nicola Williams)](g/gametes-donation-sale.md)
 * [人体器官捐献 The Donation of Human Organs (Martin Wilkinson、Stephen Wilkinson)](o/organ-donation.md)
@@ -1492,20 +1498,11 @@ outline: [1, 6]
   * [图灵测试 The Turing Test (Graham Oppy、David Dowe)](t/turing-test.md)
   * [图灵机 Turing Machines (Liesbeth De Mol)](t/turing-machine.md)
 * [邱奇-图灵论题 The Church-Turing Thesis (B. Jack Copeland)](c/church-turing.md)
-* [人工智能和机器人伦理 Ethics of Artificial Intelligence and Robotics (Vincent C. Müller)](e/ethics-ai.md)
-* [算法公平 Algorithmic Fairness (Deborah Hellman)](a/algorithmic-fairness.md)
-* [计算机与道德责任 Computing and Moral Responsibility (Merel Noorman)](c/computing-responsibility.md)
-* [互联网研究伦理 Internet Research Ethics (Elizabeth A. Buchanan、Michael Zimmer)](e/ethics-internet-research.md)
-* [搜索引擎伦理 Search Engines and Ethics (Herman Tavani、Michael Zimmer)](e/ethics-search.md)
 * [信息 Information (Pieter Adriaans)](i/information.md)
 * [生物信息 Biological Information (Marc Artiga)](i/information-biological.md)
 * [本体论与信息系统 Ontology and Information Systems (Adam Pease)](o/ontology-is.md)
 * [语义概念的信息 Semantic Conceptions of Information (Sebastian Sequoiah-Grayson、Luciano Floridi)](i/information-semantic.md)
-* [信息技术与道德价值 Information Technology and Moral Values (John Sullins)](i/it-moral-values.md)
-* [信息技术伦理学的现象学方法 Phenomenological Approaches to Ethics and Information Technology (Lucas Introna)](e/ethics-it-phenomenology.md)
-* [隐私与信息技术 Privacy and Information Technology (Jeroen van den Hoven、Martijn Blaauw、Wolter Pieters、Martijn Warnier)](i/it-privacy.md)
 * [逻辑与信息 Logic and Information (Maricarmen Martinez、Sebastian Sequoiah-Grayson)](l/logic-information.md)
-* [网络社交与伦理学 Social Networking and Ethics (Shannon Vallor)](e/ethics-social-networking.md)
 * [可计算性与复杂度 Computability and Complexity (Neil Immerman)](c/computability.md)
 * [计算复杂性理论 Computational Complexity Theory (Walter Dean)](c/computational-complexity.md)
 * [计算哲学 Computational Philosophy (Patrick Grim、Daniel Singer)](c/computational-philosophy.md)
@@ -1532,22 +1529,28 @@ outline: [1, 6]
 * [信念合并与判断聚合 Belief Merging and Judgment Aggregation (Gabriella Pigozzi)](b/belief-merging.md)
 * [方法论个人主义 Methodological Individualism (Joseph Heath)](m/methodological-individualism.md)
 * [社会选择理论 Social Choice Theory (Christian List)](s/social-choice.md)
-* [社会程序的形式化进路 Formal Approaches to Social Procedures (Jan van Eijck and Rineke (L.C.) Verbrugge)](s/social-procedures.md)
+* [社会程序的形式化进路 Formal Approaches to Social Procedures (Jan van Eijck、Rineke (L.C.) Verbrugge)](s/social-procedures.md)
 * [投票方法 Voting Methods (Eric Pacuit)](v/voting-methods.md)
 * [社会建构的自然主义方法 Naturalistic Approaches to Social Construction (Ron Mallon)](s/social-construction-naturalistic.md)
 * [社会制度 Social Institutions (Seumas Miller)](s/social-institutions.md)
 * [社会规范 Social Norms (Cristina Bicchieri、Ryan Muldoon、Alessandro Sontuoso)](s/social-norms.md)
 * [社会本体论 Social Ontology (Brian Epstein)](s/social-ontology.md)
-* [欧根·罗森斯托克-胡絮 Eugen Rosenstock-Huessy (Wayne Cristaudo)](r/rosenstock-huessy.md)
 * [历史哲学 Philosophy of History (Daniel Little)](h/history.md)
-* [异化 Alienation (David Leopold)](a/alienation.md)
 * [文化演化 Cultural Evolution (Tim Lewens、Andrew Buskell)](e/evolution-cultural.md)
-* [宗教的演化论进路 Evolutionary Approaches to Religion (Jason Marsh)](r/religion-evolutionary.md)
 * [社会科学中的整体主义方法论 Methodological Holism in the Social Sciences (Julie Zahle)](h/holism-social.md)
 
 ## 技术哲学
 
 * [技术哲学 Philosophy of Technology (Maarten Franssen、Ibo van de Poel、Michael Klenk、Filippo Santoni de Sio)](t/technology.md)
+* [人工智能和机器人伦理 Ethics of Artificial Intelligence and Robotics (Vincent C. Müller)](e/ethics-ai.md)
+* [算法公平 Algorithmic Fairness (Deborah Hellman)](a/algorithmic-fairness.md)
+* [计算机与道德责任 Computing and Moral Responsibility (Merel Noorman)](c/computing-responsibility.md)
+* [信息技术与道德价值 Information Technology and Moral Values (John Sullins)](i/it-moral-values.md)
+* [隐私与信息技术 Privacy and Information Technology (Jeroen van den Hoven、Martijn Blaauw、Wolter Pieters、Martijn Warnier)](i/it-privacy.md)
+* [互联网研究伦理 Internet Research Ethics (Elizabeth A. Buchanan、Michael Zimmer)](e/ethics-internet-research.md)
+* [搜索引擎伦理 Search Engines and Ethics (Herman Tavani、Michael Zimmer)](e/ethics-search.md)
+* [网络社交与伦理学 Social Networking and Ethics (Shannon Vallor)](e/ethics-social-networking.md)
+* [信息技术伦理学的现象学方法 Phenomenological Approaches to Ethics and Information Technology (Lucas Introna)](e/ethics-it-phenomenology.md)
 
 # 哲学通论
 
@@ -1607,6 +1610,9 @@ outline: [1, 6]
 * [事实 Facts (Kevin Mulligan、Fabrice Correia)](f/facts.md)
 * [特普 Tropes (Anna-Sofia Maurin)](t/tropes.md)
 * [事件 Events (Roberto Casati、Achille Varzi)](e/events.md)
+* [事态 States of Affairs (Mark Textor)](s/states-of-affairs.md)
+* [模态虚构主义 Modal Fictionalism (Daniel Nolan)](f/fictionalism-modal.md)
+* [虚构主义 Fictionalism (Matti Eklund)](f/fictionalism.md)
 
 ### 模态与可能世界
 
@@ -1715,8 +1721,12 @@ outline: [1, 6]
 
 ### 信念与证成
 
+* [信念 Belief (Eric Schwitzgebel)](b/belief.md)
+* [信念自愿论 Doxastic Voluntarism (Mark Boespflug、Elizabeth Jackson)](d/doxastic-voluntarism.md)
+* [认知基础关系 The Epistemic Basing Relation (Keith Allen Korcz)](b/basing-epistemic.md)
 * [辩护与担保的传递 Transmission of Justification and Warrant (Luca Moretti、Tommaso Piazza)](t/transmission-justification-warrant.md)
 * [可靠主义认识论 Reliabilist Epistemology (Alvin Goldman、Bob Beddor)](r/reliabilism.md)
+* [信念伦理学 The Ethics of Belief (Andrew Chignell)](e/ethics-belief.md)
 
 ### 怀疑论
 
@@ -1734,13 +1744,10 @@ outline: [1, 6]
 ### 语言哲学
 
 * [语言哲学 Philosophy of Linguistics (Barbara C. Scholz、Francis Jeffry Pelletier、Geoffrey K. Pullum、Ryan Nefdt)](l/linguistics.md)
-* [事态 States of Affairs (Mark Textor)](s/states-of-affairs.md)
 * [遵循规则与意向性 Rule-Following and Intentionality (Alexander Miller、Olivia Sultanescu)](r/rule-following.md)
 * [私人语言 Private Language (Stewart Candlish、George Wrisley)](p/private-language.md)
 * [逻辑形式 Logical Form (Paul Pietroski)](l/logical-form.md)
 * [分析 Analysis (Michael Beaney、Thomas Raysmith)](a/analysis.md)
-* [模态虚构主义 Modal Fictionalism (Daniel Nolan)](f/fictionalism-modal.md)
-* [虚构主义 Fictionalism (Matti Eklund)](f/fictionalism.md)
 * [严格指示词 Rigid Designators (Joseph LaPorte)](r/rigid-designators.md)
 * [命题 Propositions (Matthew McGrath、Devin Frank)](p/propositions.md)
 * [单称命题 Singular Propositions (Greg Fitch、Michael Nelson)](p/propositions-singular.md)
@@ -1825,7 +1832,6 @@ outline: [1, 6]
 * [直觉主义逻辑的发展 The Development of Intuitionistic Logic (Mark van Atten)](i/intuitionistic-logic-development.md)
 * [现代模态逻辑的起源 Modern Origins of Modal Logic (Roberta Ballarin)](l/logic-modal-origins.md)
 * [心理主义 Psychologism (Martin Kusch)](p/psychologism.md)
-* [λ 演算 The Lambda Calculus (Jesse Alama、Johannes Korbmacher)](l/lambda-calculus.md)
 * [直陈条件 Indicative Conditionals (Dorothy Edgington)](c/conditionals.md)
 * [反事实 Counterfactuals (Willow Starr、Alex Kocurek)](c/counterfactuals.md)
 
@@ -1873,7 +1879,6 @@ outline: [1, 6]
 * [逻辑多元主义 Logical Pluralism (Gillian Russell、Christopher Blake-Turner)](l/logical-pluralism.md)
 * [逻辑真理 Logical Truth (Mario Gómez-Torrente)](l/logical-truth.md)
 * [多元量化 Plural Quantification (Øystein Linnebo)](p/plural-quant.md)
-* [丘奇类型论 Church’s Type Theory (Christoph Benzmüller、Peter Andrews)](t/type-theory-church.md)
 * [未来偶然性 Future Contingents (Peter Øhrstrøm、Per Hasle)](f/future-contingents.md)
 * [线性逻辑 Linear Logic (Roberto Di Cosmo、Dale Miller)](l/logic-linear.md)
 * [模糊性 Vagueness (Roy Sorensen)](v/vagueness.md)
@@ -1884,37 +1889,43 @@ outline: [1, 6]
 * [模态逻辑 Modal Logic (James Garson)](l/logic-modal.md)
 * [多模态逻辑的哲学方向 Philosophical Aspects of Multi-Modal Logic (Sonja Smets、Fernando Velázquez-Quesada)](p/phil-multimodallogic.md)
 * [自然语言语义学的情境 Situations in Natural Language Semantics (Angelika Kratzer)](s/situations-semantics.md)
-* [逻辑代数的传统 The Algebra of Logic Tradition (Stanley Burris、Javier Legris)](a/algebra-logic-tradition.md)
-* [数学中的逻辑代数 The Mathematics of Boolean Algebra (J. Donald Monk)](b/boolalg-math.md)
-* [范畴论 Category Theory (Jean-Pierre Marquis)](c/category-theory.md)
-* [ε 演算 The Epsilon Calculus (Jeremy Avigad、Richard Zach)](e/epsilon-calculus.md)
-* [组合逻辑 Combinatory Logic (Katalin Bimbó)](l/logic-combinatory.md)
 * [合并逻辑 Combining Logics (Walter Carnielli、Marcelo Esteban Coniglio)](l/logic-combining.md)
 * [二阶逻辑与高阶逻辑 Second-order and Higher-order Logic (Jouko Väänänen)](l/logic-higher-order.md)
-* [逻辑主义和新逻辑主义 Logicism and Neologicism (Neil Tennant)](l/logicism.md)
-* [模型论 Model Theory (Wilfrid Hodges)](m/model-theory.md)
-* [一阶模型论 First-order Model Theory (Wilfrid Hodges、Thomas Scanlon)](m/modeltheory-fo.md)
-* [证明论 Proof Theory (Michael Rathjen、Wilfried Sieg)](p/proof-theory.md)
-* [证明论的发展 The Development of Proof Theory (Jan von Plato)](p/proof-theory-development.md)
 * [可证性逻辑 Provability Logic (Rineke (L.C.) Verbrugge)](l/logic-provability.md)
-* [集合论 Set Theory (Joan Bagaria)](s/set-theory.md)
-* [替代性公理集合论 Alternative Axiomatic Set Theories (M. Randall Holmes)](s/settheory-alternative.md)
-* [集合论：构造主义和直觉主义 Set Theory: Constructive and Intuitionistic ZF (Laura Crosilla)](s/set-theory-constructive.md)
-* [集合论：连续统假设 The Continuum Hypothesis (Peter Koellner)](c/continuum-hypothesis.md)
-* [集合论：集合论的早期发展 The Early Development of Set Theory (José Ferreirós)](s/settheory-early.md)
-* [非良基集合论 Non-wellfounded Set Theory (Lawrence S. Moss)](n/nonwellfounded-set-theory.md)
-* [策梅洛的公理化集合论 Zermelo’s Axiomatization of Set Theory (Michael Hallett)](z/zermelo-set-theory.md)
-* [大基数与独立性 Independence and Large Cardinals (Peter Koellner)](i/independence-large-cardinals.md)
-* [大基数与决定性 Large Cardinals and Determinacy (Peter Koellner)](l/large-cardinals-determinacy.md)
-* [递归函数 Recursive Functions (Walter Dean、Alberto Naibo)](r/recursive-functions.md)
-* [反推数学 Reverse Mathematics (Benedict Eastaugh)](r/reverse-mathematics.md)
 * [真值 Truth Values (Yaroslav Shramko、Heinrich Wansing)](t/truth-values.md)
-* [类型论 Type Theory (Thierry Coquand)](t/type-theory.md)
 * [行动的逻辑 The Logic of Action (Krister Segerberg、John-Jules Meyer、Marcus Kracht)](l/logic-action.md)
 * [用于分析标准形式博弈中权力的逻辑 Reasoning About Power in Games (Paolo Turrini、Thomas Ågotnes)](l/logic-power-games.md)
 * [分析游戏的逻辑 Logics for Analyzing Games (Johan van Benthem、Dominik Klein)](l/logics-for-games.md)
 * [逻辑与游戏 Logic and Games (Wilfrid Hodges、Jouko Väänänen)](l/logic-games.md)
+
+### 数理逻辑与数学基础
+
+* [逻辑主义和新逻辑主义 Logicism and Neologicism (Neil Tennant)](l/logicism.md)
+* [集合论：集合论的早期发展 The Early Development of Set Theory (José Ferreirós)](s/settheory-early.md)
+* [集合论 Set Theory (Joan Bagaria)](s/set-theory.md)
+* [策梅洛的公理化集合论 Zermelo’s Axiomatization of Set Theory (Michael Hallett)](z/zermelo-set-theory.md)
+* [替代性公理集合论 Alternative Axiomatic Set Theories (M. Randall Holmes)](s/settheory-alternative.md)
+* [集合论：构造主义和直觉主义 Set Theory: Constructive and Intuitionistic ZF (Laura Crosilla)](s/set-theory-constructive.md)
+* [非良基集合论 Non-wellfounded Set Theory (Lawrence S. Moss)](n/nonwellfounded-set-theory.md)
+* [集合论：连续统假设 The Continuum Hypothesis (Peter Koellner)](c/continuum-hypothesis.md)
+* [大基数与独立性 Independence and Large Cardinals (Peter Koellner)](i/independence-large-cardinals.md)
+* [大基数与决定性 Large Cardinals and Determinacy (Peter Koellner)](l/large-cardinals-determinacy.md)
+* [模型论 Model Theory (Wilfrid Hodges)](m/model-theory.md)
+* [一阶模型论 First-order Model Theory (Wilfrid Hodges、Thomas Scanlon)](m/modeltheory-fo.md)
+* [证明论 Proof Theory (Michael Rathjen、Wilfried Sieg)](p/proof-theory.md)
+* [证明论的发展 The Development of Proof Theory (Jan von Plato)](p/proof-theory-development.md)
+* [类型论 Type Theory (Thierry Coquand)](t/type-theory.md)
+* [丘奇类型论 Church’s Type Theory (Christoph Benzmüller、Peter Andrews)](t/type-theory-church.md)
 * [直觉主义类型论 Intuitionistic Type Theory (Peter Dybjer、Erik Palmgren)](t/type-theory-intuitionistic.md)
+* [λ 演算 The Lambda Calculus (Jesse Alama、Johannes Korbmacher)](l/lambda-calculus.md)
+* [组合逻辑 Combinatory Logic (Katalin Bimbó)](l/logic-combinatory.md)
+* [ε 演算 The Epsilon Calculus (Jeremy Avigad、Richard Zach)](e/epsilon-calculus.md)
+* [递归函数 Recursive Functions (Walter Dean、Alberto Naibo)](r/recursive-functions.md)
+* [反推数学 Reverse Mathematics (Benedict Eastaugh)](r/reverse-mathematics.md)
+* [范畴论 Category Theory (Jean-Pierre Marquis)](c/category-theory.md)
+* [代数 Algebra (Vaughan Pratt)](a/algebra.md)
+* [逻辑代数的传统 The Algebra of Logic Tradition (Stanley Burris、Javier Legris)](a/algebra-logic-tradition.md)
+* [数学中的逻辑代数 The Mathematics of Boolean Algebra (J. Donald Monk)](b/boolalg-math.md)
 
 ### 悖论与非形式逻辑
 
@@ -1934,14 +1945,14 @@ outline: [1, 6]
 
 ## 心灵哲学
 
+### 心灵哲学总论
+
 * [能力 Abilities (John Maier、Sophie Kikkert)](a/abilities.md)
-* [利他主义的经验主义研究 Empirical Approaches to Altruism (John Doris、Stephen Stich、Lachlan Walmsley、Armin Schulz)](a/altruism-empirical.md)
-* [联想主义的思维理论 Associationist Theories of Thought (Eric Mandelbaum、Raphaël Millière)](a/associationist-thought.md)
 * [注意力 Attention (Christopher Mole)](a/attention.md)
-* [内隐偏见 Implicit Bias (Michael Brownstein)](i/implicit-bias.md)
-* [身体意识 Bodily Awareness (Frédérique de Vignemont)](b/bodily-awareness.md)
-* [进化心理学 Evolutionary Psychology (Stephen M. Downes)](e/evolutionary-psychology.md)
 * [内省 Introspection (Eric Schwitzgebel)](i/introspection.md)
+* [联想主义的思维理论 Associationist Theories of Thought (Eric Mandelbaum、Raphaël Millière)](a/associationist-thought.md)
+* [进化心理学 Evolutionary Psychology (Stephen M. Downes)](e/evolutionary-psychology.md)
+* [内隐偏见 Implicit Bias (Michael Brownstein)](i/implicit-bias.md)
 
 ### 心理现象与认知科学
 
@@ -1985,6 +1996,11 @@ outline: [1, 6]
 
 ### 意识
 
+* [意识 Consciousness (Robert Van Gulick)](c/consciousness.md)
+* [意识的高阶理论 Higher-Order Theories of Consciousness (Peter Carruthers、Rocco Gennaro)](c/consciousness-higher.md)
+* [意识表征理论 Representational Theories of Consciousness (William Lycan)](c/consciousness-representational.md)
+* [时间意识 Temporal Consciousness (Barry Dainton)](c/consciousness-temporal.md)
+* [意识的统一性 The Unity of Consciousness (Farid Masrour、Andrew Brook、Paul Raymont)](c/consciousness-unity.md)
 * [僵尸 Zombies (Robert Kirk)](z/zombies.md)
 * [罗素一元论 Russellian Monism (Torin Alter、Derk Pereboom)](r/russellian-monism.md)
 * [二元论 Dualism (Howard Robinson、Ralph Weir)](d/dualism.md)
@@ -1999,6 +2015,7 @@ outline: [1, 6]
 
 ### 知觉
 
+* [身体意识 Bodily Awareness (Frédérique de Vignemont)](b/bodily-awareness.md)
 * [知觉学习 Perceptual Learning (Kevin Connolly、Adrienne Prettyman)](p/perceptual-learning.md)
 * [听知觉 Auditory Perception (Casey O’Callaghan)](p/perception-auditory.md)
 * [感知的内容 The Contents of Perception (Susanna Siegel)](p/perception-contents.md)
@@ -2037,11 +2054,6 @@ outline: [1, 6]
 * [心灵外在主义 Externalism About the Mind (Mark Rowlands、Joe Lau、Max Deutsch)](c/content-externalism.md)
 * [怀疑论和内容外在主义 Content Externalism and Skepticism (Gary Ebbs)](s/skepticism-content-externalism.md)
   * [外在主义与自我认识 Externalism and Self-Knowledge (T. Parent)](s/self-knowledge-externalism.md)
-* [意识 Consciousness (Robert Van Gulick)](c/consciousness.md)
-* [意识的高阶理论 Higher-Order Theories of Consciousness (Peter Carruthers、Rocco Gennaro)](c/consciousness-higher.md)
-* [意识表征理论 Representational Theories of Consciousness (William Lycan)](c/consciousness-representational.md)
-* [时间意识 Temporal Consciousness (Barry Dainton)](c/consciousness-temporal.md)
-* [意识的统一性 The Unity of Consciousness (Farid Masrour、Andrew Brook、Paul Raymont)](c/consciousness-unity.md)
 
 ### 情感
 
@@ -2058,6 +2070,7 @@ outline: [1, 6]
 >
 > 本节涵盖：直觉主义、情感主义、自然主义、认知主义、主观主义、后设伦理学、规范术语的含义
 
+* [道德与演化生物学 Morality and Evolutionary Biology (William FitzPatrick)](m/morality-biology.md)
 * [道德自然主义 Moral Naturalism (Matthew Lutz)](n/naturalism-moral.md)
 * [元伦理学中的建构主义 Constructivism in Metaethics (Carla Bagnoli)](c/constructivism-metaethics.md)
 * [元伦理学 Metaethics (Geoff Sayre-McCord)](m/metaethics.md)
@@ -2086,13 +2099,18 @@ outline: [1, 6]
 * [道德责任怀疑论 Skepticism About Moral Responsibility (Gregg Caruso)](s/skepticism-moral-responsibility.md)
 * [道德地位的基础 The Grounds of Moral Status (Agnieszka Jaworska、Julie Tannenbaum)](g/grounds-moral-status.md)
 * [道德理论 Moral Theory (Julia Driver)](m/moral-theory.md)
-* [道德与政治哲学中的需求 Needs in Moral and Political Philosophy (Gillian Brock、David Miller)](n/needs.md)
 * [道德随附性 Supervenience in Ethics (Tristram McPherson)](s/supervenience-ethics.md)
 * [道德认识论 Moral Epistemology (Richmond Campbell)](m/moral-epistemology.md)
 * [道德认识论中的先验主义 A Priorism in Moral Epistemology (Michael DePaul、Amelia Hicks)](m/moral-epistemology-a-priori.md)
+* [道德现象学 Moral Phenomenology (John Drummond、Mark Timmons)](m/moral-phenomenology.md)
 
 ### 规范伦理学
 
+* [后果主义 Consequentialism (Walter Sinnott-Armstrong)](c/consequentialism.md)
+* [规则后果主义 Rule Consequentialism (Brad Hooker)](c/consequentialism-rule.md)
+* [义务伦理学 Deontological Ethics (Larry Alexander、Michael Moore)](e/ethics-deontological.md)
+* [德性伦理学 Virtue Ethics (Rosalind Hursthouse、Glen Pettigrove)](e/ethics-virtue.md)
+* [伦理学中的自然法传统 The Natural Law Tradition in Ethics (Mark Murphy)](n/natural-law-ethics.md)
 * [功利主义 Consequentializing (Douglas W. Portmore)](c/consequentializing.md)
 * [自利契约论 Contractarianism (Ann Cudd、Seena Eftekhari)](c/contractarianism.md)
 * [非自利契约论 Contractualism (Elizabeth Ashford、Tim Mulgan)](c/contractualism.md)
@@ -2104,6 +2122,8 @@ outline: [1, 6]
 * [超义务 Supererogation (David Heyd)](s/supererogation.md)
 * [道德要求与许可/特权 Moral Demands and Permissions/Prerogatives (Thomas Hurka)](m/moral-demands-permissions.md)
 * [利己主义 Egoism (Robert Shaver)](e/egoism.md)
+* [利他主义 Altruism (Richard Kraut)](a/altruism.md)
+* [当代分析哲学中的智慧 Wisdom in Contemporary Analytic Philosophy (Shane Ryan、Sharon Ryan)](w/wisdom-analytic.md)
 
 ### 价值论
 
@@ -2112,11 +2132,6 @@ outline: [1, 6]
 * [幸福 Happiness (Dan Haybron)](h/happiness.md)
 * [享乐主义 Hedonism (Andrew Moore)](h/hedonism.md)
 * [嫉妒 Envy (Justin D’Arms)](e/envy.md)
-* [宽恕 Forgiveness (Luke Russell、Brandon Warmke)](f/forgiveness.md)
-* [责备 Blame (Neal Tognazzini、D. Justin Coates)](b/blame.md)
-* [良心 Conscience (Alberto Giubilini)](c/conscience.md)
-* [利他主义 Altruism (Richard Kraut)](a/altruism.md)
-* [慈善 Philanthropy (Theodore M. Lechterman、Emma Saunders-Hastings、Rob Reich)](p/philanthropy.md)
 * [双重效应原则 Doctrine of Double Effect (Alison McIntyre)](d/double-effect.md)
 * [谦逊与谦卑 Modesty and Humility (Nicolas Bommarito)](m/modesty-humility.md)
 * [伦理学和政治哲学中的完美主义 Perfectionism in Moral and Political Philosophy (Steven Wall)](p/perfectionism-moral.md)
@@ -2133,6 +2148,10 @@ outline: [1, 6]
 >
 > 本节涵盖：道德决策、道德发展、道德学习、道德认知-判断决策推理、涉及欲望、意识、恶的概念
 
+* [利他主义的经验主义研究 Empirical Approaches to Altruism (John Doris、Stephen Stich、Lachlan Walmsley、Armin Schulz)](a/altruism-empirical.md)
+* [宽恕 Forgiveness (Luke Russell、Brandon Warmke)](f/forgiveness.md)
+* [责备 Blame (Neal Tognazzini、D. Justin Coates)](b/blame.md)
+* [良心 Conscience (Alberto Giubilini)](c/conscience.md)
 * [欲望 Desire (Tim Schroeder)](d/desire.md)
 * [人性 Human Nature (Neil Roughley)](h/human-nature.md)
 * [非人化 Dehumanization (Ben Phillips)](d/dehumanization.md)
@@ -2143,13 +2162,7 @@ outline: [1, 6]
 * [道德心理学的经验主义研究 Moral Psychology: Empirical Approaches (John Doris、Stephen Stich、Jonathan Phillips、Lachlan Walmsley)](m/moral-psych-emp.md)
 * [道德学习 Moral Learning (Tamar Kushnir、Shaun Nichols)](m/moral-learning.md)
 * [道德推理 Moral Reasoning (Henry S. Richardson)](r/reasoning-moral.md)
-* [当代分析哲学中的智慧 Wisdom in Contemporary Analytic Philosophy (Shane Ryan、Sharon Ryan)](w/wisdom-analytic.md)
 * [实验伦理学 Experimental Moral Philosophy (Mark Alfano、Edouard Machery、Alexandra Plakias、Don Loeb)](e/experimental-moral.md)
-* [后果主义 Consequentialism (Walter Sinnott-Armstrong)](c/consequentialism.md)
-* [规则后果主义 Rule Consequentialism (Brad Hooker)](c/consequentialism-rule.md)
-* [德性伦理学 Virtue Ethics (Rosalind Hursthouse、Glen Pettigrove)](e/ethics-virtue.md)
-* [义务伦理学 Deontological Ethics (Larry Alexander、Michael Moore)](e/ethics-deontological.md)
-* [伦理学中的自然法传统 The Natural Law Tradition in Ethics (Mark Murphy)](n/natural-law-ethics.md)
 
 ### 行动哲学与理由论
 
@@ -2183,24 +2196,30 @@ outline: [1, 6]
 * [承诺 Promises (Allen Habib)](p/promises.md)
 * [承认 Recognition (Mattias Iser)](r/recognition.md)
 * [和解 Reconciliation (Linda Radzik、Colleen Murphy)](r/reconciliation.md)
-* [宽容 Toleration (Rainer Forst)](t/toleration.md)
 * [信任 Trust (Carolyn McLeod)](t/trust.md)
-* [战争 War (Seth Lazar)](w/war.md)
 * [伦理素食主义 Moral Vegetarianism (Tyler Doggett)](v/vegetarianism.md)
-* [恐怖主义 Terrorism (Igor Primoratz)](t/terrorism.md)
 
 ### 应用伦理学
 
+* [战争 War (Seth Lazar)](w/war.md)
+* [恐怖主义 Terrorism (Igor Primoratz)](t/terrorism.md)
+* [动物的道德地位 The Moral Status of Animals (Lori Gruen、Susana Monsó)](m/moral-animal.md)
+* [堕胎的伦理学 The Ethics of Abortion (Elizabeth Harman)](a/abortion.md)
+* [慈善 Philanthropy (Theodore M. Lechterman、Emma Saunders-Hastings、Rob Reich)](p/philanthropy.md)
 * [应用伦理学中的有益原则 The Principle of Beneficence in Applied Ethics (Tom Beauchamp)](p/principle-beneficence.md)
 * [文化遗产伦理 The Ethics of Cultural Heritage (Erich Hatala Matthes)](e/ethics-cultural-heritage.md)
 * [造成伤害与允许伤害 Doing vs. Allowing Harm (Fiona Woollard、Frances Howard-Snyder、Charlotte Unruh)](d/doing-allowing.md)
 * [商业伦理学 Business Ethics (Jeffrey Moriarty)](e/ethics-business.md)
 * [知识产权 Intellectual Property (Adam Moore、Ken Himma)](i/intellectual-property.md)
+* [自卫 Self-Defense (Helen Frowe、Jonathan Parry)](s/self-defense.md)
 
 ## 政治哲学
 
 ### 政治理论
 
+* [主权 Sovereignty (Daniel Philpott)](s/sovereignty.md)
+* [道德与政治哲学中的需求 Needs in Moral and Political Philosophy (Gillian Brock、David Miller)](n/needs.md)
+* [宽容 Toleration (Rainer Forst)](t/toleration.md)
 * [社会主义 Socialism (Pablo Gilabert、Martin O’Neill)](s/socialism.md)
 * [资本主义 Capitalism (Chiara Cordelli)](c/capitalism.md)
 * [意识形态 Ideology (William Clare Roberts)](i/ideology.md)
@@ -2214,8 +2233,6 @@ outline: [1, 6]
 * [个人自主权 Personal Autonomy (Sarah Buss、Andrea Westlund)](p/personal-autonomy.md)
 * [家长主义 Paternalism (Gerald Dworkin)](p/paternalism.md)
 * [酷刑 Torture (Seumas Miller)](t/torture.md)
-* [信念伦理学 The Ethics of Belief (Andrew Chignell)](e/ethics-belief.md)
-* [道德现象学 Moral Phenomenology (John Drummond、Mark Timmons)](m/moral-phenomenology.md)
 * [保守主义 Conservatism (Andy Hamilton)](c/conservatism.md)
 * [平等主义 Egalitarianism (Juliana Bidadanure、David Axelsen)](e/egalitarianism.md)
 * [作为价值理论的优先主义 Prioritarianism as a Theory of Value (Matthew Adler、Nils Holtug)](p/prioritarianism.md)
@@ -2249,6 +2266,9 @@ outline: [1, 6]
 * [再分配 Redistribution (Christian Barry)](r/redistribution.md)
 * [社会契约论的当代方法 Contemporary Approaches to the Social Contract (Fred D’Agostino、Gerald Gaus、John Thrasher)](c/contractarianism-contemporary.md)
 * [可行能力 The Capability Approach (Ingrid Robeyns、Morten Fibieger Byskov)](c/capability-approach.md)
+* [机会平等 Equality of Opportunity (Gideon Elford)](e/equal-opportunity.md)
+* [分配正义 Distributive Justice (Julian Lamont、Christi Favor)](j/justice-distributive.md)
+* [转型正义 Transitional Justice (Nir Eisikovits)](j/justice-transitional.md)
 
 ### 民主理论
 
@@ -2266,13 +2286,11 @@ outline: [1, 6]
 * [公民人文主义 Civic Humanism (Cary Nederman)](h/humanism-civic.md)
 * [宪政主义 Constitutionalism (Wil Waluchow、Dimitrios Kyritsis)](c/constitutionalism.md)
 * [自由主义 Liberalism (Shane D. Courtland、Gerald Gaus、David Schmidtz)](l/liberalism.md)
-* [奥托巴·库加诺 Ottobah Cugoano (Antonia LoLordo)](c/cugoano.md)
 * [自由至上主义 Libertarianism (Bas van der Vossen、Billy Christmas)](l/libertarianism.md)
 * [积极自由和消极自由 Positive and Negative Liberty (Ian Carter、Ilkin Huseynli)](l/liberty-positive-negative.md)
 * [新自由主义 Neoliberalism (Kevin Vallier)](n/neoliberalism.md)
 * [共和主义 Republicanism (Frank Lovett)](r/republicanism.md)
 * [财产和所有权 Property and Ownership (Jeremy Waldron、James Penner)](p/property.md)
-* [权威 Authority (Tom Christiano、Stefan Sciaraffa)](a/authority.md)
 
 ### 全球正义与移民
 
@@ -2289,17 +2307,16 @@ outline: [1, 6]
 
 ### 种族哲学
 
+* [奥托巴·库加诺 Ottobah Cugoano (Antonia LoLordo)](c/cugoano.md)
 * [批判种族哲学 Critical Philosophy of Race (Linda Alcoff)](c/critical-phil-race.md)
 * [种族 Race (Michael James、Adam Burgos)](r/race.md)
 * [黑人赔偿 Black Reparations (Bernard Boxill、J. Angelo Corlett)](b/black-reparations.md)
 * [肯定性行动 Affirmative Action (Robert Fullinwider)](a/affirmative-action.md)
 * [殖民主义 Colonialism (Margaret Kohn、Kavita Reddy)](c/colonialism.md)
-* [机会平等 Equality of Opportunity (Gideon Elford)](e/equal-opportunity.md)
-* [分配正义 Distributive Justice (Julian Lamont、Christi Favor)](j/justice-distributive.md)
-* [转型正义 Transitional Justice (Nir Eisikovits)](j/justice-transitional.md)
 
 ### 政治义务与合法性
 
+* [权威 Authority (Tom Christiano、Stefan Sciaraffa)](a/authority.md)
 * [公民 Citizenship (Dominique Leydet)](c/citizenship.md)
 * [公民教育 Civic Education (Jack Crittenden、Peter Levine)](c/civic-education.md)
 * [公民不服从 Civil Disobedience (Candice Delmas、Kimberley Brownlee)](c/civil-disobedience.md)
@@ -2350,12 +2367,7 @@ outline: [1, 6]
 * [法律惩罚 Legal Punishment (Zachary Hoskins、Antony Duff)](l/legal-punishment.md)
 * [法治与程序正义 The Rule of Law (Kristen Rundle、Jeremy Waldron)](r/rule-of-law.md)
 * [普通法系下的侵权法理论 Theories of the Common Law of Torts (Arthur Ripstein)](t/tort-theories.md)
-* [自卫 Self-Defense (Helen Frowe、Jonathan Parry)](s/self-defense.md)
-* [主权 Sovereignty (Daniel Philpott)](s/sovereignty.md)
 * [约翰·奥斯丁 John Austin (Brian Bix)](a/austin-john.md)
-* [认知基础关系 The Epistemic Basing Relation (Keith Allen Korcz)](b/basing-epistemic.md)
-* [信念 Belief (Eric Schwitzgebel)](b/belief.md)
-* [信念自愿论 Doxastic Voluntarism (Mark Boespflug、Elizabeth Jackson)](d/doxastic-voluntarism.md)
 * [法哲学中的自然主义 Naturalism in Legal Philosophy (Brian Leiter、Matthew X. Etchemendy)](l/lawphil-naturalism.md)
 * [实验法理学 Experimental Jurisprudence (Kevin Tobia、Guilherme Almeida、Karolina Prochownik、Ivar Hannikainen)](e/experimental-jurisprudence.md)
 
@@ -2428,6 +2440,7 @@ outline: [1, 6]
 
 ### 宗教与科学
 
+* [宗教的演化论进路 Evolutionary Approaches to Religion (Jason Marsh)](r/religion-evolutionary.md)
 * [宇宙学与神学 Cosmology and Theology (Hans Halvorson、Helge Kragh)](c/cosmology-theology.md)
 * [宗教与科学 Religion and Science (Helen De Cruz)](r/religion-science.md)
 
