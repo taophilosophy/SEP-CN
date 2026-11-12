@@ -182,7 +182,7 @@
 
 [^introductio-2008]: *Introductio ad syllogismos categoricos*, C. Thomsen Thornqvist (ed.), Gotheburg: University of Gothenburg, 2008 (Studies graeca et latina gothoburgensia 69).
 
-[^an-nd]: An edition of the *Categories* commentary by M. Asztalos is (and has for many years been) in preparation; at the moment, the work must still be read in the edition found in J.-P. Migne, *Patrologia Latina* 64.
+[^an-nd]: M. 阿兹塔洛斯（M. Asztalos）对《范畴篇》注疏的校勘本正在编纂之中（多年来一直如此）；目前，这部著作仍须读米涅《拉丁教父文献大全》（*Patrologia Latina*）第 64 卷所收的版本。
 
 [^opuscula-2005]: *Opuscula Sacra* and *De consolatione Philosophiae*, C. Moreschini (ed.), revised edition, Munich/Leipzig: K.G. Saur, 2005.
 
