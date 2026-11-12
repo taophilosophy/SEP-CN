@@ -501,176 +501,234 @@ segments:
     kind: body
     source: |-
       ### 2.3 Interior vs. Exterior Properties
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.3. 内部属性与外部属性
+    step2: |-
+      ### 2.3. 内部属性与外部属性
   - id: 61
     kind: body
     source: |-
       The second characterisation listed in the quote by Lewis in section 1 was “A thing has its intrinsic properties in virtue of the way that thing itself, and nothing else, is”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第 1 节所引刘易斯语录中的第二条刻画是："一个事物具有其内在属性，是凭借该事物自身、且仅凭该事物自身之所是"。
+    step2: |-
+      第 1 节所引刘易斯语录中的第二条刻画是："一个事物具有其内在属性，是凭借该事物自身、且仅凭该事物自身之所是"。
   - id: 62
     kind: body
     source: |-
       This characterisation can be stated more precisely by schema (4), where ‘how $x$ is intrinsically’ abbreviates ‘how $x$ and its parts are and how they are related to each other, as opposed to how $x$ and its parts are related to other things and how other things are’.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这条刻画可以由模式 (4) 更精确地陈述，其中“$x$ 内在地之所是”是“$x$ 及其部分各自之所是以及它们彼此如何相关，而非 $x$ 及其部分如何与其他事物相关、以及其他事物之所是”的缩写。
+    step2: |-
+      这条刻画可以由模式 (4) 更精确地陈述，其中“$x$ 内在地之所是”（how $x$ is intrinsically）是“$x$ 及其部分各自之所是以及它们彼此如何相关，而非 $x$ 及其部分如何与其他事物相关、以及其他事物之所是”的缩写。
   - id: 63
     kind: body
     source: |-
       **(4)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(4)**
+    step2: |-
+      **(4)**
   - id: 64
     kind: body
     source: |-
       Being $F$ is intrinsic iff, necessarily, for any $x$, if $x$ is $F$ then $x$ is $F$ in virtue of how $x$ is intrinsically.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      是 $F$ 是内在的，当且仅当必然地，对任意 $x$，若 $x$ 是 $F$，则 $x$ 是 $F$ 是凭借 $x$ 内在地之所是。
+    step2: |-
+      是 $F$ 是内在的，当且仅当必然地，对任意 $x$，若 $x$ 是 $F$，则 $x$ 是 $F$ 是凭借 $x$ 内在地之所是。
   - id: 65
     kind: body
     source: |-
       Call the properties that are classified as intrinsic by (4) *interior* properties, and call the properties that are classified as non-intrinsic by (4) *exterior* properties. An important question is what meaning ‘in virtue’ is meant to have in (4). One possible answer is that it is meant to have a reading corresponding to metaphysical grounding, where metaphysical grounding is the relation that stands to metaphysical explanation as causation stands to causal explanation. Under such a reading of ‘in virtue’, (5) is necessarily true.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们把 (4) 归为内在的属性称为**内部属性**（interior properties），把 (4) 归为非内在的属性称为**外部属性**（exterior properties）。一个重要的问题是：(4) 中的"凭借"（in virtue）应当是什么意思。一种可能的回答是：它应当有一种对应于形而上学奠基的读法；形而上学奠基之于形而上学说明，正如因果之于因果说明。在这一"凭借"读法下，(5) 是必然真的。
+    step2: |-
+      我们把 (4) 归为内在的属性称为**内部属性**（interior properties），把 (4) 归为非内在的属性称为**外部属性**（exterior properties）。一个重要的问题是：(4) 中的"凭借"（in virtue）应当是什么意思。一种可能的回答是：它应当有一种对应于形而上学奠基的读法；形而上学奠基之于形而上学说明，正如因果之于因果说明。在这一"凭借"读法下，(5) 是必然真的。
   - id: 66
     kind: body
     source: |-
       **(5)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(5)**
+    step2: |-
+      **(5)**
   - id: 67
     kind: body
     source: |-
       ‘$\varphi$ in virtue of it being the case that $\phi$’ is true iff the state of affairs expressed by $\phi$ metaphysically grounds the state of affairs expressed by $\varphi$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “$\varphi$ 凭借 $\phi$ 得以成立”为真，当且仅当 $\phi$ 所表达的事态形而上学地奠基 $\varphi$ 所表达的事态。
+    step2: |-
+      “$\varphi$ 凭借 $\phi$ 得以成立”为真，当且仅当 $\phi$ 所表达的事态形而上学地奠基 $\varphi$ 所表达的事态。
   - id: 68
     kind: body
     source: |-
       While it might be initially appealing to think that ‘in virtue’ in (4) expresses metaphysical grounding, Marshall 2015 has given an argument that (4) fails to characterise a notion of intrinsicality when ‘in virtue’ has this reading. The argument relies on (6) being necessarily true and (7) being true on any notion of intrinsicality.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      虽然"(4) 中的凭借表达形而上学奠基"这一想法起初很有吸引力，但 Marshall 2015 给出了一个论证，表明当"凭借"取这一读法时，(4) 无法刻画任何内在性概念。该论证依赖：(6) 是必然真的，且 (7) 在任何内在性概念上都为真。
+    step2: |-
+      虽然"(4) 中的"凭借"表达形而上学奠基"这一想法起初很有吸引力，但 Marshall 2015 给出了一个论证，表明当"凭借"取这一读法时，(4) 无法刻画任何内在性概念。该论证依赖两点：(6) 是必然真的，且 (7) 在任何内在性概念上都为真。
   - id: 69
     kind: body
     source: |-
       **(6)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(6)**
+    step2: |-
+      **(6)**
   - id: 70
     kind: body
     source: |-
       ‘$\varphi$ in virtue of how $x$ is intrinsically’ is true iff there is a sentence $\phi$ that expresses an obtaining state of affairs that is intrinsically about $x$ such that ‘$\varphi$ in virtue of it being the case that $\phi$’ is true.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “$\varphi$ 凭借 $x$ 内在地之所是”为真，当且仅当存在一个语句 $\phi$，它表达一个内在地关乎 $x$ 的成立事态，使得“$\varphi$ 凭借 $\phi$ 得以成立”为真。
+    step2: |-
+      “$\varphi$ 凭借 $x$ 内在地之所是”为真，当且仅当存在一个语句 $\phi$，它表达一个内在地关乎 $x$ 的成立事态，使得“$\varphi$ 凭借 $\phi$ 得以成立”为真。
   - id: 71
     kind: body
     source: |-
       **(7)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(7)**
+    step2: |-
+      **(7)**
   - id: 72
     kind: body
     source: |-
       It is possible for there to be a sentence ‘$a$ is $F$’, where $F$ expresses an intrinsic property and ‘$a$ is $F$’ expresses a foundational fact in the sense of being a fact that is not metaphysically grounded by any other fact.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      可能存在一个语句“$a$ 是 $F$”，其中 $F$ 表达一个内在属性，且“$a$ 是 $F$”表达一个基础性事实——即一个不被任何其他事实形而上学奠基的事实。
+    step2: |-
+      可能存在一个语句“$a$ 是 $F$”，其中 $F$ 表达一个内在属性，且“$a$ 是 $F$”表达一个基础性事实——即一个不被任何其他事实形而上学奠基的事实。
   - id: 73
     kind: body
     source: |-
       The argument is the following. Suppose, for reductio, that (4) characterises a notion of intrinsicality when ‘in virtue’ expresses metaphysical grounding. It follows from this, and the necessity of (5) and (6), that (8) is necessarily true.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      论证如下。设为归谬：当"凭借"表达形而上学奠基时，(4) 刻画了一个内在性概念。由这一点以及 (5) 与 (6) 的必然性，可得 (8) 是必然真的。
+    step2: |-
+      论证如下。设为归谬（reductio）：当"凭借"表达形而上学奠基时，(4) 刻画了一个内在性概念。由这一点以及 (5) 与 (6) 的必然性，可得 (8) 是必然真的。
   - id: 74
     kind: body
     source: |-
       **(8)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(8)**
+    step2: |-
+      **(8)**
   - id: 75
     kind: body
     source: |-
       Being $F$ is intrinsic iff, necessarily, for any $x$, if $x$ is $F$ then there is an obtaining state of affairs $s$ that is intrinsically about $x$ such that $s$ metaphysically grounds $x$ being $F$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      是 $F$ 是内在的，当且仅当必然地，对任意 $x$，若 $x$ 是 $F$，则存在一个内在地关乎 $x$ 的成立事态 $s$，使得 $s$ 形而上学地奠基 $x$ 之是 $F$。
+    step2: |-
+      是 $F$ 是内在的，当且仅当必然地，对任意 $x$，若 $x$ 是 $F$，则存在一个内在地关乎 $x$ 的成立事态 $s$，使得 $s$ 形而上学地奠基 $x$ 之是 $F$。
   - id: 76
     kind: body
     source: |-
       By (7), it is possible for a sentence $\ulcorner a$ is $F\urcorner$ to express a foundational fact, where $F$ expresses an intrinsic property. Hence, it follows from (7) and the necessity of (8) that (9) is possibly true.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由 (7)，可能有一个语句 $\ulcorner a$ 是 $F\urcorner$ 表达一个基础性事实，其中 $F$ 表达一个内在属性。于是，由 (7) 与 (8) 的必然性可得 (9) 是可能真的。
+    step2: |-
+      由 (7)，可能有一个语句 $\ulcorner a$ 是 $F\urcorner$ 表达一个基础性事实，其中 $F$ 表达一个内在属性。于是，由 (7) 与 (8) 的必然性可得 (9) 是可能真的。
   - id: 77
     kind: body
     source: |-
       **(9)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(9)**
+    step2: |-
+      **(9)**
   - id: 78
     kind: body
     source: |-
       $a$ being $F$ is a foundational fact and there is an obtaining state of affairs $s$ that is intrinsically about $a$ such that $s$ metaphysically grounds $a$ being $F$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $a$ 之是 $F$ 是一个基础性事实，且存在一个内在地关乎 $a$ 的成立事态 $s$，使得 $s$ 形而上学地奠基 $a$ 之是 $F$。
+    step2: |-
+      $a$ 之是 $F$ 是一个基础性事实，且存在一个内在地关乎 $a$ 的成立事态 $s$，使得 $s$ 形而上学地奠基 $a$ 之是 $F$。
   - id: 79
     kind: body
     source: |-
       However, (9) is necessarily false, since foundational facts cannot be metaphysically grounded by any facts. Hence, the assumption that (4) characterises a notion of intrinsicality when ‘in virtue’ expresses metaphysical grounding is false.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，(9) 是必然假的，因为基础性事实不可能被任何事实形而上学奠基。因此，"(4) 在凭借表达形而上学奠基时刻画了一个内在性概念"这一假设为假。
+    step2: |-
+      然而，(9) 是必然假的，因为基础性事实不可能被任何事实形而上学奠基。因此，"(4) 在"凭借"表达形而上学奠基时刻画了一个内在性概念"这一假设为假。
   - id: 80
     kind: body
     source: |-
       Given ‘in virtue’ doesn’t express metaphysical grounding in (4) on its intended use, what does it express? One attractive option is to think that ‘in virtue’ in (4) is meant to be understood as having the same effect as ‘is a matter of’ and that, on this reading, it expresses the identity relation. On this reading, ‘$\varphi$ in virtue of it being the case that $\psi$’ is true iff the state of affairs expressed by $\phi$ is identical to the state of affairs expressed by $\varphi$. Since it follows from (6) that, on this reading ‘$\varphi$ in virtue of how $x$ is intrinsically’ is true iff there is a sentence $\phi$ that expresses an obtaining state of affairs that is intrinsically about $x$, (10) follows from (4) on this reading of ‘in virtue’.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      既然在其预期的用法上，(4) 中的"凭借"不表达形而上学奠基，那它表达什么？一个有吸引力的选项是认为：(4) 中的"凭借"应当被理解为与"在于"有相同的效果，且在这一读法下它表达同一关系。在这一读法下，“$\varphi$ 凭借 $\phi$ 得以成立”为真，当且仅当 $\phi$ 所表达的事态等同于 $\varphi$ 所表达的事态。由 (6) 可得：在这一读法下，“$\varphi$ 凭借 $x$ 内在地之所是”为真，当且仅当存在一个语句 $\phi$，它表达一个内在地关乎 $x$ 的成立事态；于是，在"凭借"的这一读法下，(10) 可由 (4) 得出。
+    step2: |-
+      既然在其预期的用法上，(4) 中的"凭借"不表达形而上学奠基，那它表达什么？一个有吸引力的选项是认为：(4) 中的"凭借"应当被理解为与"在于"（is a matter of）有相同的效果，且在这一读法下它表达同一关系。在这一读法下，“$\varphi$ 凭借 $\phi$ 得以成立”为真，当且仅当 $\phi$ 所表达的事态等同于 $\varphi$ 所表达的事态。由 (6) 可得：在这一读法下，“$\varphi$ 凭借 $x$ 内在地之所是”为真，当且仅当存在一个语句 $\phi$，它表达一个内在地关乎 $x$ 的成立事态；于是，在"凭借"的这一读法下，(10) 可由 (4) 得出。
   - id: 81
     kind: body
     source: |-
       **(10)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(10)**
+    step2: |-
+      **(10)**
   - id: 82
     kind: body
     source: |-
       Being $F$ is intrinsic iff, necessarily, for any $x$, if $x$ is $F$ then the state of affairs of $x$ being $F$ is intrinsically about $x$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      是 $F$ 是内在的，当且仅当必然地，对任意 $x$，若 $x$ 是 $F$，则 $x$ 是 $F$ 这一事态内在地关乎 $x$。
+    step2: |-
+      是 $F$ 是内在的，当且仅当必然地，对任意 $x$，若 $x$ 是 $F$，则 $x$ 是 $F$ 这一事态内在地关乎 $x$。
   - id: 83
     kind: body
     source: |-
       An alternative option, which is investigated in Marshall 2016a, is to hold that ‘in virtue’ may express a number of different reflexive determination, or entailment, relations in (4), and that each of these relations determines a different notion of intrinsicality. In addition to identity, such entailment relations might include metaphysical necessitation, nomic necessitation, and weak metaphysical grounding, where $p$ weakly metaphysically grounds $q$ iff either $p=q$ or $p$ metaphysically grounds $q$. Given these relations determine different notions of intrinsicality for each relation $R$, we may call the notion of interiority corresponding to $R$ ‘$R$ interiority’. So, for example, the notion of intrinsicality obtained from (4) by interpreting ‘in virtue’ as expressing the identity relation might be called identity interiority, while the notion of interiority obtained from metaphysical necessitation might be called metaphysical necessitation interiority, and the notion of interiority obtained from nomic necessitation might be called nomic necessitation interiority.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一种选项（Marshall 2016a 考察了它）是主张：(4) 中的"凭借"可以表达若干不同的自返决定关系（或称蕴含关系），且这些关系中的每一个都决定一个不同的内在性概念。除同一之外，这类蕴含关系还可以包括形而上学必然化、律则必然化与弱形而上学奠基，其中 $p$ 弱地形而上学奠基 $q$，当且仅当 $p=q$ 或 $p$ 形而上学地奠基 $q$。既然这些关系对每个关系 $R$ 都决定一个不同的内在性概念，我们可以把对应于 $R$ 的内部性概念称为“$R$ 内部性”。例如，把"凭借"解释为表达同一关系而从 (4) 得到的内在性概念，或许可以称为同一内部性（identity interiority）；由形而上学必然化得到的内部性概念或许可以称为形而上学必然化内部性；由律则必然化得到的内部性概念则或许可以称为律则必然化内部性。
+    step2: |-
+      另一种选项（Marshall 2016a 考察了它）是主张：(4) 中的"凭借"可以表达若干不同的自返决定关系（或称蕴含关系），且这些关系中的每一个都决定一个不同的内在性概念。除同一之外，这类蕴含关系还可以包括形而上学必然化（metaphysical necessitation）、律则必然化（nomic necessitation）与弱形而上学奠基，其中 $p$ 弱地形而上学奠基 $q$，当且仅当 $p=q$ 或 $p$ 形而上学地奠基 $q$。既然这些关系对每个关系 $R$ 都决定一个不同的内在性概念，我们可以把对应于 $R$ 的内部性概念称为“$R$ 内部性”。例如，把"凭借"解释为表达同一关系而从 (4) 得到的内在性概念，或许可以称为同一内部性（identity interiority）；由形而上学必然化得到的内部性概念或许可以称为形而上学必然化内部性；由律则必然化得到的内部性概念则或许可以称为律则必然化内部性。
   - id: 84
     kind: body
     source: |-
       If ‘in virtue’ expresses the relation $R$, then ‘$\varphi$ in virtue of it being the case that $\phi$’ is true iff the state of affairs of it being the case that $\phi$ stands in $R$ to the state of affairs of it being the case the $\varphi$. It follows from this, (4) and (6) that the $R$ interior properties satisfy (11).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若"凭借"表达关系 $R$，则“$\varphi$ 凭借 $\phi$ 得以成立”为真，当且仅当 $\phi$ 得以成立的事态对 $\varphi$ 得以成立的事态处于 $R$ 中。由此以及 (4) 与 (6) 可得，$R$ 内部属性满足 (11)。
+    step2: |-
+      若"凭借"表达关系 $R$，则“$\varphi$ 凭借 $\phi$ 得以成立”为真，当且仅当 $\phi$ 得以成立的事态对 $\varphi$ 得以成立的事态处于 $R$ 中。由此以及 (4) 与 (6) 可得，$R$ 内部属性满足 (11)。
   - id: 85
     kind: body
     source: |-
       **(11)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(11)**
+    step2: |-
+      **(11)**
   - id: 86
     kind: body
     source: |-
       Being $F$ is $R$ interior iff, necessarily, for any $x$, if $x$ is $F$ then there is an obtaining state of affairs $s$ that is intrinsically about $x$ such that $s$ stands in $R$ to the state of affairs of it being the case that $x$ is $F$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      是 $F$ 是 $R$ 内部的，当且仅当必然地，对任意 $x$，若 $x$ 是 $F$，则存在一个内在地关乎 $x$ 的成立事态 $s$，使得 $s$ 对 $x$ 是 $F$ 这一事态处于 $R$ 中。
+    step2: |-
+      是 $F$ 是 $R$ 内部的，当且仅当必然地，对任意 $x$，若 $x$ 是 $F$，则存在一个内在地关乎 $x$ 的成立事态 $s$，使得 $s$ 对 $x$ 是 $F$ 这一事态处于 $R$ 中。
   - id: 87
     kind: body
     source: |-
       Just as being cubical is intuitively a local property, while being an uncle and being such that there is a number are intuitively non-local properties, the former property is intuitively an identity interiority property, while the latter properties are both intuitively not identity interior. (Those that claim that being such that there is a number is a local property, however, are likely to also claim that this property is identity interior. See, for example, Sider (1993a), Eddon (2011), Vallentyne (1997), Hoffman-Kolls (2014) and Francescotti (2014) for the relevant debate.) The identity interior properties, however, plausibly do not coincide with the local properties, since, while being identical to Obama is not a local property, it is plausibly an identity interior property. This is because, necessarily, for any $x$ that is identical to Obama, the state of affairs of $x$ being identical to Obama is plausibly about how $x$ and its parts are and how they are related to each other, as opposed to how they are related to other things and how other things are.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如"是立方体"直观上是局部属性，而"身为叔叔"与"有数存在"直观上是非局部属性，前一属性直观上是一个同一内部性属性，而后两个属性直观上都不是同一内部的。（不过，主张"有数存在"是局部属性的人，很可能也会主张这一属性是同一内部的。相关争论例如见 Sider 1993a、Eddon 2011、Vallentyne 1997、Hoffman-Kolss 2014 与 Francescotti 2014。）然而，同一内部属性可信地不与局部属性重合，因为，虽然"等同于奥巴马"不是局部属性，它却可信地是一个同一内部属性。这是因为：必然地，对任意等同于奥巴马的 $x$，$x$ 等同于奥巴马这一事态可信地关乎 $x$ 及其部分各自之所是以及它们彼此如何相关，而非它们如何与其他事物相关、以及其他事物之所是。
+    step2: |-
+      正如"是立方体"直观上是局部属性，而"身为叔叔"与"有数存在"直观上是非局部属性，前一属性直观上是一个同一内部性属性，而后两个属性直观上都不是同一内部的。（不过，主张"有数存在"是局部属性的人，很可能也会主张这一属性是同一内部的。相关争论例如见 Sider 1993a、Eddon 2011、Vallentyne 1997、Hoffman-Kolss 2014 与 Francescotti 2014。）然而，同一内部属性可信地不与局部属性重合，因为，虽然"等同于奥巴马"不是局部属性，它却可信地是一个同一内部属性。这是因为：必然地，对任意等同于奥巴马的 $x$，$x$ 等同于奥巴马这一事态可信地关乎 $x$ 及其部分各自之所是以及它们彼此如何相关，而非它们如何与其他事物相关、以及其他事物之所是。
   - id: 88
     kind: body
     source: |-
       Since each identity interior property is also an $R$ interior property, for each reflexive relation $R$, the $R$ interior properties also do not coincide with the local properties for each $R$. The $R$ interior properties also differ from the identity interior properties for at least some $R$. For example, the metaphysical necessitation interior properties plausibly differ from the identity interior properties since, while being such that there is a number is plausibly not identity interior, it is metaphysical necessitation interior. This is because, given the assumption that numbers necessarily exist, any $x$ is such that how it is intrinsically necessitates that $x$ is such that there is a number.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      既然每个同一内部属性也是一个 $R$ 内部属性（对每个自返关系 $R$ 而言），$R$ 内部属性对每个 $R$ 也不与局部属性重合。至少对某些 $R$，$R$ 内部属性也不同于同一内部属性。例如，形而上学必然化内部属性可信地不同于同一内部属性：虽然"有数存在"可信地不是同一内部的，它却是形而上学必然化内部的。这是因为，在数必然存在这一假设下，任意 $x$ 都是这样的：它内在地之所是必然化 $x$ 是"有数存在"的。
+    step2: |-
+      既然每个同一内部属性也是一个 $R$ 内部属性（对每个自返关系 $R$ 而言），$R$ 内部属性对每个 $R$ 也不与局部属性重合。至少对某些 $R$，$R$ 内部属性也不同于同一内部属性。例如，形而上学必然化内部属性可信地不同于同一内部属性：虽然"有数存在"可信地不是同一内部的，它却是形而上学必然化内部的。这是因为，在数必然存在这一假设下，任意 $x$ 都是这样的：它内在地之所是必然化 $x$ 是"有数存在"的。
   - id: 89
     kind: body
     source: |-
