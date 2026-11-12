@@ -859,7 +859,7 @@
 * [\*应用伦理学 ethics, applied](../README.md)
   * [\*信息技术伦理学的现象学方法——见信息技术：信息技术伦理学的现象学方法 phenomenological approaches to ethics and information technology — see information technology: phenomenological approaches to ethics and](e/ethics-it-phenomenology.md)
 * [\*生物医学伦理学 ethics, biomedical](../README.md)
-  * [*堕胎的伦理学——见堕胎的伦理学 abortion, ethics of — see The Ethics of Abortion](a/abortion.md)
+  * [*堕胎的伦理学——见堕胎的伦理学 abortion ethics — see The Ethics of Abortion](a/abortion.md)
   * [\*预先指示和替代决策——见预先指示和替代决策 advance directives and substitute decision-making — see advance directives](a/advance-directives.md)
   * [人类/非人类嵌合体 Human/Non-Human Chimeras (Robert Streiffer)](c/chimeras.md)
   * [临床研究伦理 The Ethics of Clinical Research (David Wendler)](c/clinical-research.md)
