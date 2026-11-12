@@ -315,50 +315,66 @@ segments:
     kind: body
     source: |-
       Far from desire being aimed at such concrete things as feelings, it is rather described by Ehrenfels in the following way:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      欲望绝非瞄准感受这类具体东西；埃伦费尔斯对欲望的描述反倒是这样的：
+    step2: |-
+      欲望瞄准的远不是感受这类具体东西；在埃伦费尔斯笔下，欲望毋宁是这样一副面孔：
   - id: 40
     kind: body
     source: |-
       > Desiring a thing means either desiring the existence of a thing, or possession of it, in which case the desire is directed at an existence, though not of the thing itself, but rather of its availability, and at the same time at a non-existence, the absence of all disturbances which obstruct that availability. (Ehrenfels 1897, 53)[^ehrenfels-1897][^ehrenfels-1897-2]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 欲求一物，要么是欲求该物的存在，要么是欲求对它的占有；在后者那里，欲望指向一种存在，不过不是该物自身的存在，而是它的可获得性的存在，同时还指向一种非存在，即妨碍那种可获得性的一切干扰之缺席。（Ehrenfels 1897, 53）[^ehrenfels-1897][^ehrenfels-1897-2]
+    step2: |-
+      > 欲求一物，无非两途：或欲求该物存在，或欲求占有该物。后者那里，欲望指向的是一种存在——但不是该物自身的存在，而是它触手可及这种可得性的存在；同时还指向一种非存在——一切妨碍这份可得性的干扰都告缺席。（Ehrenfels 1897, 53）[^ehrenfels-1897][^ehrenfels-1897-2]
   - id: 41
     kind: body
     source: |-
       We can of course have “negative” desires that are as such directed at the non-existence of something. Though Ehrenfels does not use any technical term in application to the correlate of desire, it is understandable to suggest that he has “states of affairs” (*Sachverhalte*) in mind here (Smith 1994, 286)[^smith-1994].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们当然可以有“否定性”的欲望，它们就其本身而言指向某物的非存在。虽然埃伦费尔斯没有使用任何术语来称呼欲望的关联物，但可以理解地推测，他这里想到的是“事态”（*Sachverhalte*）（Smith 1994, 286）[^smith-1994]。
+    step2: |-
+      “否定性”欲望自然也是有的——它们就其本身而言指向某物的非存在。欲望的关联物，埃伦费尔斯没有起任何术语名目；但说他心里想的是“事态”（*Sachverhalte*），想来也在情理之中（Smith 1994, 286）[^smith-1994]。
   - id: 42
     kind: body
     source: |-
       It has been said that the theory of value that Ehrenfels developed in his early work was non-cognitivist in his general theory of values. In his aesthetics, however, we find a very different view regarding values of works of art. This view is expressed in a posthumously published dialogue, “Was ist Schönheit?”, where he says “that absolute beauty is given and comes about wherever we grasp with feeling or sensation a certain lawfulness [*Gesetztmäßigkeit*] that we cannot yet comprehend with the understanding” (PSII, 164). There are, according to Ehrenfels, no differences in taste in art. As regards music, for instance, the apparent difference in taste among people is characterized as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      据说，埃伦费尔斯早期著作中的价值理论，在其一般价值理论上是非认知主义的。然而在他的美学中，我们发现一种关于艺术品价值的非常不同的观点。这一观点见于一部身后出版的对话录《美是什么？》（“Was ist Schönheit?”），他在其中说，“凡是我们以感受或感觉把握到某种尚不能以知性理解的合规律性［*Gesetztmäßigkeit*］之处，绝对的美就在那里被给予并且产生出来”（PSII, 164）。在埃伦费尔斯看来，艺术中不存在趣味差异。以音乐为例，人们之间表面上的趣味差异被刻画如下：
+    step2: |-
+      人们常说，埃伦费尔斯早期著作里的价值理论，就其一般价值理论而言是非认知主义的。可一到美学，艺术品价值的图景陡然一变。这番见解见于身后刊行的对话录《美是什么？》（“Was ist Schönheit?”）：“凡是我们以感受或感觉把握到某种合规律性［*Gesetztmäßigkeit*］、而知性尚且跟不上之处，绝对的美就在那里被给予、被造出”（PSII, 164）。在埃伦费尔斯看来，艺术上根本没有趣味高下之分。就拿音乐来说，人们表面上的趣味差异，被他刻画成这样：
   - id: 43
     kind: body
     source: |-
       > Most fundamentally much rather difference in the capacity for musical perception, that is to say, the faculty of apprehension, of imagination and memory for tonal forms [*Tongestalten*] – furthermore difference in inner rhythm and inner gestures with which we unconsciously accompany our speech, thoughts, and feelings – difference in our instinctual life [*Triebleben*], even in the formation of our senses. (PSII, 164–165.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 最根本的，更多是音乐知觉能力上的差异，也就是说，把握能力、对音形［*Tongestalten*］的想象与记忆上的差异——还有内节奏与内姿态上的差异，我们无意识地以它们伴随自己的言语、思想与感受——本能生活［*Triebleben*］上的差异，甚至感官构造上的差异。（PSII, 164–165.）
+    step2: |-
+      > 最根本的毋宁是：音乐知觉能力的差异，也就是对音形［*Tongestalten*］的把握力、想象力与记忆力的差异——还有内节奏与内姿态的差异：我们说话、思想、动情时，无意识中总是带着它们——本能生活［*Triebleben*］的差异，甚至连感官的构造也彼此有别。（PSII, 164–165.）
   - id: 44
     kind: body
     source: |-
       In short, absolute beauty is the same for all of us, though our differences in the apprehension of works of art misleads us into thinking that beauty is merely relative, just “a matter of taste”. While this development in Ehrenfels aesthetics away from his earlier non-cognitivism has not gone unnoticed (Reicher 2006, 2009)[^reicher-2006] it is a domain that he himself left open for further investigation. It apparently calls for revision of his earlier non-cognitivism as well as explorations of connections between the theory of *Gestalt* qualities and aesthetics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      总之，绝对的美对我们都一样，只是我们在艺术品把握上的差异误导我们，让我们以为美仅仅是相对的，不过是“趣味问题”。埃伦费尔斯美学中这一远离其早期非认知主义的发展并非无人注意（Reicher 2006, 2009）[^reicher-2006]，但它仍是他本人留待进一步探究的领域。它显然要求修正他早期的非认知主义，也要求探索格式塔质理论与美学之间的联系。
+    step2: |-
+      一句话：绝对之美人同此心；只是我们把握艺术品的能耐参差不齐，才被带偏，以为美不过是相对的东西，全凭“趣味”说了算。埃伦费尔斯美学里这场背离早期非认知主义的转向，并不是没人看见（Reicher 2006, 2009）[^reicher-2006]；但这块地毕竟还是他自己留下没耕完的。它显然需要两件事：修订他早期的非认知主义，并探究格式塔质理论与美学之间的关联。
   - id: 45
     kind: body
     source: |-
       While Ehrenfels’ early work on value theory and ethics remained for the most part within the domain now called “metaethics”, he did make an effort in his later work to develop a theory of normative ethics. His most passionate attempt to do so will be considered in the following section.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      虽然埃伦费尔斯早期关于价值理论与伦理学的工作大体停留在如今称为“元伦理学”的领域之内，但他在后期著作中确实努力发展一种规范伦理学理论。他为此最热忱的一次尝试将在下一节讨论。
+    step2: |-
+      埃伦费尔斯早期的价值论与伦理学工作，大体滞留在如今所谓“元伦理学”的地界之内；不过在后期著作里，他确实试着搞出一套规范伦理学。这股劲头最足的一次尝试，下一节见分晓。
   - id: 46
     kind: body
     source: |-
       ## 4. Sexual Ethics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. 性伦理
+    step2: |-
+      ## 4. 性伦理
   - id: 47
     kind: body
     source: |-
