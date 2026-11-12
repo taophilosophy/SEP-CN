@@ -2,8 +2,44 @@
   "slug": "aristotle-noncontradiction",
   "kind": "retranslate",
   "zh_doc": "a/aristotle-noncontradiction.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-11T23:31:19Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T00:59:22Z",
+      "evidence": "ADR-0021 账本 71 段双版全填（本会话自译），lq.py check 守恒 OK；compose 落 a/aristotle-noncontradiction.md 301 行"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T00:59:22Z",
+      "evidence": "逐节对照 yuanwen：定义 115=115、marker 1=1、年份 2=2；相关词条 transcendental arguments 补译『先验论证』；源文无 ## 的 Acknowledgments 按模板 #14 立『## 致谢』并译出；h2 17 vs 16 即此新立节；pubinfo 2023-10-19 与版本钉一致"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T00:59:22Z",
+      "evidence": "check_prose 16→3：实修 13 处（长句拆分/去链/弱动词/被字句）；余 3 全在亚里士多德论普罗塔戈拉引文内（行 129）按 ADR-0020 豁免"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T00:59:23Z",
+      "evidence": "check_style 0、check_academic --strict OK、check_math 0；术语按登记册（不矛盾律/驳诘/双面真理论/弗协调性/意谓/偶性/自然种类）"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:37:01Z",
   "version_pin": {

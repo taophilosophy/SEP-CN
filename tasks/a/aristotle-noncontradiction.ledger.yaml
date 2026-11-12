@@ -1,0 +1,604 @@
+version: 1
+slug: aristotle-noncontradiction
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      According to Aristotle, first philosophy, or metaphysics, deals with ontology and first principles, of which the principle (or law) of non-contradiction is the firmest. Aristotle says that without the principle of non-contradiction we could not know anything that we do know. Presumably, we could not demarcate the subject matter of any of the special sciences, for example, biology or mathematics, and we would not be able to distinguish between what something is, for example a human being or a frog, and what it is like, for example pale or green. Aristotle’s own distinction between essence and accident would be impossible to draw, and the inability to draw distinctions in general would make rational discussion impossible. According to Aristotle, the principle of non-contradiction is a principle of scientific inquiry, reasoning and communication that we cannot do without.
+    step1: |-
+      按照亚里士多德，第一哲学或形而上学研究存在论与第一原理，而第一原理中最牢固者是不矛盾原理（或称不矛盾律）。亚里士多德说，没有不矛盾律，凡我们所知者便都无从知晓。想必我们也就无法划定任何专门科学（例如生物学或数学）的主题，也无法区分某物是什么（例如人还是青蛙）与它什么样（例如苍白还是绿色）。亚里士多德本人关于本质与偶性的区分将无法作出；而一般地区分能力的缺失，将使理性讨论成为不可能。按照亚里士多德，不矛盾律是科学探究、推理与交流的一条原理，我们离了它便寸步难行。
+    step2: |-
+      按照亚里士多德，第一哲学或形而上学研究存在论与第一原理，而第一原理中最牢固者是不矛盾原理（或称不矛盾律）。他说，没有不矛盾律，凡我们所知者便都无从知晓。想必我们也就无法划定任何专门科学（例如生物学或数学）的主题，也无法区分某物是什么（例如人还是青蛙）与它什么样（例如苍白还是绿色）。他本人关于本质与偶性的区分将无法作出；而一般地区分能力的缺失，将使理性讨论成为不可能。按照亚里士多德，不矛盾律是科学探究、推理与交流的一条原理，我们离了它便寸步难行。
+  - id: 2
+    kind: body
+    source: |-
+      Aristotle’s main and most famous discussion of the principle of non-contradiction occurs in *Metaphysics* IV (Gamma) 3–6, especially 4. There are also snippets of discussion about the principle of non-contradiction early in the corpus, for example in *De Interpretatione*, and there is the obscure chapter 11 of *Posterior Analytics* I, but none of these rival Aristotle’s treatment of the principle of non-contradiction in *Metaphysics* IV. The discussion below mostly concerns the main interpretative and philosophical issues that arise from reading *Metaphysics* IV 3–6.
+    step1: |-
+      亚里士多德对不矛盾律主要且最著名的讨论，见于《形而上学》第四卷（Γ）3–6 章，尤其第 4 章。语料早处也有关于不矛盾律的片段讨论，例如《解释篇》；《后分析篇》第一卷还有晦涩的第 11 章。但这些都不及《形而上学》第四卷对不矛盾律的处理。下文主要讨论阅读《形而上学》第四卷 3–6 章所产生的主要解释问题与哲学问题。
+    step2: |-
+      亚里士多德对不矛盾律主要且最著名的讨论，见于《形而上学》第四卷（Γ）3–6 章，尤其第 4 章。语料早处也有关于不矛盾律的片段讨论，例如《解释篇》；《后分析篇》第一卷还有晦涩的第 11 章。但这些都不及《形而上学》第四卷对不矛盾律的处理。下文主要讨论阅读《形而上学》第四卷 3–6 章所产生的主要解释问题与哲学问题。
+  - id: 3
+    kind: body
+    source: |-
+      Aristotle’s discussion of the principle of non-contradiction also raises thorny issues in many areas of modern philosophy, for example, questions about what we are committed to by our beliefs, the relationship between language, thought and the world, and the status of transcendental arguments. Arguments from conflicting appearances have proved remarkably long-lived, and debates about skepticism, realism and anti-realism continue to this day.
+    step1: |-
+      亚里士多德对不矛盾律的讨论，在现代哲学的许多领域也引出棘手问题，例如：我们的信念使我们承诺了什么；语言、思想与世界的关系；先验论证的地位。来自冲突现象的论证被证明极为长寿；关于怀疑论、实在论与反实在论的争论延续至今。
+    step2: |-
+      亚里士多德对不矛盾律的讨论，在现代哲学的许多领域也引出棘手问题，例如：我们的信念使我们承诺了什么；语言、思想与世界的关系；先验论证的地位。来自冲突现象的论证被证明极为长寿；关于怀疑论、实在论与反实在论的争论延续至今。
+  - id: 4
+    kind: body
+    source: |-
+      ## 1. Three Versions of the Principle of Non-Contradiction
+    step1: |-
+      ## 1 不矛盾原理的三个版本
+    step2: |-
+      ## 1 不矛盾原理的三个版本
+  - id: 5
+    kind: body
+    source: |-
+      There are arguably three versions of the principle of non-contradiction to be found in Aristotle: an ontological, a doxastic and a semantic version. The first version concerns things that exist in the world, the second is about what we can believe, and the third relates to assertion and truth. The first version (hereafter, simply PNC) is usually taken to be the main version of the principle and it runs as follows: “It is impossible for the same thing to belong and not to belong at the same time to the same thing and in the same respect” (with the appropriate qualifications) (*Metaph* IV 3 1005b19–20). The following are some of those qualifications: The “same thing” that belongs must be one and the same thing and it must be the actual thing and not merely its linguistic expression. For example, it is possible for someone to be a pitcher and not a pitcher where “pitcher” in the first instance refers to a baseball player and in the second to a jug that can hold beer. Also, while it is possible for *x* to be actually *F* and potentially not *F*, it is impossible for something to be actually *F* and actually not *F*. A table can be actually red and potentially not red, but not actually red and actually not red at the same time.
+    step1: |-
+      可以说，在亚里士多德那里可以找到不矛盾原理的三个版本：存在论版本、信念版本与语义版本。第一个版本关乎世界中存在的事物，第二个关乎我们能相信什么，第三个关乎断言与真。第一个版本（以下径称 PNC）通常被视为该原理的主要版本，其表述如下：“同一事物不可能在同一时间、同一方面既属于又不属于同一事物”（附带适当限定）（《形而上学》IV 3 1005b19–20）。以下是部分限定：所归属的“同一事物”必须是一个且同一个事物，而且必须是实际事物，而不只是其语言表达。例如，某人可能是投手（pitcher）又不是投手（pitcher），其中第一个“投手”指棒球运动员，第二个指能盛啤酒的罐子。此外，尽管*x*可能现实地是*F*而潜在地不是*F*，某物却不可能现实地是*F*且现实地不是*F*。一张桌子可以现实地是红色而潜在地不是红色，却不能在同一时间现实地是红色且现实地不是红色。
+    step2: |-
+      可以说，亚里士多德那里有不矛盾原理的三个版本：存在论版本、信念版本与语义版本。第一个版本关乎世界中存在的事物，第二个关乎我们能相信什么，第三个关乎断言与真。第一个版本（以下径称 PNC）通常被视为该原理的主要版本，其表述如下：“同一事物不可能在同一时间、同一方面既属于又不属于同一事物”（附带适当限定）（《形而上学》IV 3 1005b19–20）。以下是部分限定：所归属的“同一事物”必须是一个且同一个事物，而且必须是实际事物，而不只是其语言表达。例如，某人可能是投手（pitcher）又不是投手（pitcher），其中第一个“投手”指棒球运动员，第二个指能盛啤酒的罐子。此外，尽管*x*可能现实地是*F*而潜在地不是*F*，某物却不可能现实地是*F*且现实地不是*F*。一张桌子可以现实地是红色而潜在地不是红色，却不能在同一时间现实地是红色且现实地不是红色。
+  - id: 6
+    kind: body
+    source: |-
+      The second version is as follows: “It is impossible to hold (suppose) the same thing to be and not to be (*Metaph* IV 3 1005b24 cf.1005b29–30).” Although this version is ambiguous as it stands, it is best understood as the claim that it is impossible to hold the same thing to be *F* and not to be *F* &c.
+    step1: |-
+      第二个版本如下：“不可能把同一事物认定为（设想为）是又不是”（《形而上学》IV 3 1005b24；参 1005b29–30）。这一版本如此表述虽有歧义，最好理解为：不可能把同一事物认定为*F*又不是*F*，等等。
+    step2: |-
+      第二个版本如下：“不可能把同一事物认定为（设想为）是又不是”（《形而上学》IV 3 1005b24；参 1005b29–30）。这一版本如此表述虽有歧义，最好理解为：不可能把同一事物认定为*F*又不是*F*，等等。
+  - id: 7
+    kind: body
+    source: |-
+      As a descriptive account of human psychology, this may seem implausible. People surely have inconsistent beliefs; indeed, most of us have many inconsistent beliefs. This is especially true if we take into account the consequences of our beliefs. Must one, though, believe the consequences of one’s beliefs? These remain difficult issues in modern philosophy of language and epistemology. Can one knowingly believe an outright contradiction? Heraclitus, for instance, seems to say contradictory things. Here, Aristotle might retort, and he does so retort with respect to Heraclitus, that people can utter such words, but cannot really believe what they are saying (*Metaph* IV 3 1005b23–26).
+    step1: |-
+      作为对人类心理的描述性说明，这似乎不可信。人们当然持有不一致的信念；事实上，我们多数人都有许多不一致的信念。若把信念的后果算进来，就更是如此。然而，人必须相信其信念的后果吗？这些在现代语言哲学与认识论中仍是难题。人能明知而相信一个直截了当的矛盾吗？例如，赫拉克利特似乎说了自相矛盾的话。亚里士多德或许会反驳——而且他确实针对赫拉克利特如此反驳——人们可以说出这类话，却不能真正相信自己在说什么（《形而上学》IV 3 1005b23–26）。
+    step2: |-
+      作为对人类心理的描述性说明，这似乎不可信。人们当然持有不一致的信念；事实上，我们多数人都有许多不一致的信念。若把信念的后果算进来，就更是如此。然而，人必须相信其信念的后果吗？这些在现代语言哲学与认识论中仍是难题。人能明知而相信一个直截了当的矛盾吗？例如，赫拉克利特似乎说了自相矛盾的话。亚里士多德或许会反驳——而且他确实针对赫拉克利特如此反驳——人们可以说出这类话，却不能真正相信自己在说什么（《形而上学》IV 3 1005b23–26）。
+  - id: 8
+    kind: body
+    source: |-
+      An alternate way of understanding the second formulation is to treat it not as a descriptive claim about human psychology, but as a normative claim, a claim about what it is rational to believe. On this view, it is not that one cannot believe that *x* is *F* and not *F* &c, but that one cannot rationally do so.
+    step1: |-
+      理解第二个表述的另一种方式，是不把它当作关于人类心理的描述性主张，而当作规范性主张，即关于什么是理性上可相信的主张。按这种看法，并非人不能相信*x*是*F*又不是*F*等等，而是人不能理性地这样做。
+    step2: |-
+      理解第二个表述的另一种方式，是不把它当作关于人类心理的描述性主张，而当作规范性主张，即关于什么是理性上可相信的主张。按这种看法，并非人不能相信*x*是*F*又不是*F*等等，而是人不能理性地这样做。
+  - id: 9
+    kind: body
+    source: |-
+      It is not completely clear how Aristotle understands the second formulation. At the end of *Metaphysics* IV 3, Aristotle gives a bad argument that the doxastic version rests on the ontological version, confusing belief that not *p* with not having the belief that *p*.
+    step1: |-
+      亚里士多德如何理解第二个表述，并不完全清楚。《形而上学》IV 3 末尾，他给出一个糟糕论证，主张信念版本依赖于存在论版本，却把“相信并非*p*”与“不具有*p*的信念”混为一谈。
+    step2: |-
+      亚里士多德如何理解第二个表述，并不完全清楚。《形而上学》IV 3 末尾，他给出一个糟糕论证，主张信念版本依赖于存在论版本，却把“相信并非*p*”与“不具有*p*的信念”混为一谈。
+  - id: 10
+    kind: body
+    source: |-
+      There is a further problem with this second formulation. We need to distinguish the possibility of believing that *x* is *F* and not *F* in a particular case from the possibility of disbelieving the first version of PNC in its full generality.
+    step1: |-
+      第二个表述还有一个问题。我们需要区分：在特定情形中相信*x*是*F*又不是*F*的可能性，与不相信 PNC 第一版本之全般普遍性的可能性。
+    step2: |-
+      第二个表述还有一个问题。我们需要区分两种可能性：在特定情形中相信*x*是*F*又不是*F*，与不相信 PNC 第一版本之全般普遍性。
+  - id: 11
+    kind: body
+    source: |-
+      The third version is that “opposite assertions cannot be true at the same time” (*Metaph* IV 6 1011b13–20). As it stands, this version is neutral about the internal structure of the assertion, but Aristotle assumes that any assertion involves predicating one thing of another. As with the second formulation, one might give a psychologistic interpretation, relating to what people actually do affirm and deny, but the idea that opposite assertions cannot be true at the same time suggests that this third version is better interpreted as a variant of the first formulation.
+    step1: |-
+      第三个版本是：“相反的断言不可能在同一时间都为真”（《形而上学》IV 6 1011b13–20）。如此表述，该版本对断言的内部结构保持中立，但亚里士多德假定任何断言都涉及把一物谓述于另一物。与第二个表述一样，人们可以给出心理学化解释，关联于人实际肯定与否认什么；但“相反断言不可能同时为真”这一想法提示，第三个版本最好被解释为第一个版本的变体。
+    step2: |-
+      第三个版本是：“相反的断言不可能在同一时间都为真”（《形而上学》IV 6 1011b13–20）。如此表述，该版本对断言的内部结构保持中立，但亚里士多德假定任何断言都涉及把一物谓述于另一物。与第二个表述一样，人们可以给出心理学化解释，关联于人实际肯定与否认什么；但“相反断言不可能同时为真”这一想法提示，第三个版本最好被解释为第一个版本的变体。
+  - id: 12
+    kind: body
+    source: |-
+      How many versions there are and which version Aristotle intends to establish are matters of controversy. He could be establishing the second version on the basis of the first, or the first version on the basis of the second, or just the first version or just the second version.
+    step1: |-
+      究竟有几个版本、亚里士多德意图确立哪一个，都是争论问题。他可能以第一版本为基础确立第二版本，也可能以第二版本为基础确立第一版本，或只确立第一版本，或只确立第二版本。
+    step2: |-
+      究竟有几个版本、亚里士多德意图确立哪一个，都是争论问题。他可能以第一版本为基础确立第二版本，也可能以第二版本为基础确立第一版本，或只确立第一版本，或只确立第二版本。
+  - id: 13
+    kind: body
+    source: |-
+      ## 2. The Peculiar Status of the Principle of Non-Contradiction
+    step1: |-
+      ## 2 不矛盾律的特殊地位
+    step2: |-
+      ## 2 不矛盾律的特殊地位
+  - id: 14
+    kind: body
+    source: |-
+      Aristotle says that PNC is one of the common axioms, axioms common to all the special sciences. It has no specific subject matter, but applies to everything that is. It is a first principle and also the firmest principle of all. Like *modus ponens*, as Lewis Carroll memorably showed, PNC does not function as a premise in any argument. Unlike *modus ponens*, PNC is not a rule of inference. Aristotle says that it is a principle which “is necessary for anyone to have who knows any of the things that are” (*Metaph* IV 3 1005b15). It is no mere hypothesis.
+    step1: |-
+      亚里士多德说不矛盾律是共同公理之一，即为一切专门科学共有的公理。它没有特定主题，却适用于一切存在者。它是一条第一原理，而且是一切原理中最牢固者。正如刘易斯·卡罗尔令人难忘地表明的，不矛盾律像肯定前件式一样，并不作为任何论证的前提起作用。与肯定前件式不同，不矛盾律不是推理规则。亚里士多德说，它是“任何认识存在事物之一的人所必须具备的”原理（《形而上学》IV 3 1005b15）。它绝非单纯假设。
+    step2: |-
+      亚里士多德说不矛盾律是共同公理之一，即为一切专门科学共有的公理。它没有特定主题，却适用于一切存在者。它是一条第一原理，而且是一切原理中最牢固者。正如刘易斯·卡罗尔令人难忘地表明的，不矛盾律像肯定前件式一样，并不作为任何论证的前提起作用。与肯定前件式不同，不矛盾律不是推理规则。亚里士多德说，它是“任何认识存在事物之一的人所必须具备的”原理（《形而上学》IV 3 1005b15）。它绝不只是假设。
+  - id: 15
+    kind: body
+    source: |-
+      Aristotle explains that, given its peculiar status as the firmest first principle, PNC is not susceptible to demonstration. A demonstration is a deductive argument, the conclusion of which is deduced from firmer, prior premises. It follows that if PNC could be deduced from another premise, then that premise would have to be a firmer and prior principle, with the result that PNC could not have been the firmest first principle. Aristotle also says that if PNC could be demonstrated, then everything would be subject to demonstration, which would lead to an infinite regress. Therefore demonstration is ruled out, and it is important to be wary of reconstructions of Aristotle’s discussion in terms of ordinary deductive arguments. Anyone asking for a deductive argument for PNC, as Aristotle points out, is missing the point, or, rather, is asking for something that is impossible without using PNC. You cannot engage in argument unless you rely on PNC. Anyone who claims to reject PNC “for the sake of argument” is similarly misguided.
+    step1: |-
+      亚里士多德解释说，鉴于不矛盾律作为最牢固第一原理的特殊地位，它不适合被证明。证明是一种演绎论证，其结论由更牢固、在先的前提推出。由此可推：若不矛盾律能从另一前提推出，那么该前提必是更牢固、在先的原理，结果不矛盾律便不可能是最牢固的第一原理。亚里士多德还说，若不矛盾律可被证明，那么一切都将成为可证明的，从而导致无穷倒退。因此证明被排除；同时，须警惕用普通演绎论证来重构亚里士多德的讨论。正如他指出的，任何要求为不矛盾律提供演绎论证的人，都未抓住要点；毋宁说，他要求的是不用不矛盾律便不可能之事。你不依赖不矛盾律，就无法进行论证。任何人声称“为论证起见”拒斥不矛盾律，同样误入歧途。
+    step2: |-
+      亚里士多德解释说，鉴于不矛盾律作为最牢固第一原理的特殊地位，它不适合被证明。证明是一种演绎论证，其结论由更牢固、在先的前提推出。由此可推：若不矛盾律能从另一前提推出，该前提必是更牢固、在先的原理，结果不矛盾律便不可能是最牢固的第一原理。亚里士多德还说，若不矛盾律可被证明，一切都将成为可证明的，从而导致无穷倒退。因此证明被排除；同时须警惕用普通演绎论证来重构他的讨论。正如他指出的，任何要求为不矛盾律提供演绎论证的人，都未抓住要点；毋宁说，他要求的是不用不矛盾律便不可能之事。你不依赖不矛盾律，就无法进行论证。任何人声称“为论证起见”拒斥不矛盾律，同样误入歧途。
+  - id: 16
+    kind: body
+    source: |-
+      Given the impossibility of deducing PNC from anything else, one might expect Aristotle to explain the peculiar status of PNC by comparing it with other logical principles that might be rivals for the title of the firmest first principle, for example his version of the law of excluded middle—for any *x* and for any *F*, it is necessary either to assert *F* of *x* or to deny *F* of *x*. Instead, Aristotle defies others to find a prior principle (*Metaph* IV 4 1006a10–11). For modern philosophers, it is still an interesting question whether PNC is prior to other principles of logic, or, indeed, to the notions of truth, reference and identity. PNC assumes the notion of identity: It is impossible for (one and) the *same* thing to belong and not to belong to (one and) the *same* thing at (one and) the *same* time &c. PNC is presupposed by Leibniz’s law, which states that if *x* and *y* are discernible (if one has a property that the other lacks), then *x* is not identical with *y*.
+    step1: |-
+      既然不可能从别处推出不矛盾律，人们也许期待亚里士多德通过与其他可能争夺“最牢固第一原理”之名的逻辑原理相比较，来解释其特殊地位，例如与他版本的排中律相比较——对任何*x*与任何*F*，必须要么断言*F*属于*x*，要么否认*F*属于*x*。然而，亚里士多德反而向他人挑战，要他们找出一条在先原理（《形而上学》IV 4 1006a10–11）。对现代哲学家而言，不矛盾律是否先于其他逻辑原理，乃至先于真、指称与同一性等概念，仍是一个有趣问题。不矛盾律预设了同一性概念：（一个且）同一事物不可能在（一个且）同一时间既属于又不属于（一个且）同一事物，等等。莱布尼茨律预设不矛盾律；该律称，若*x*与*y*可辨别（若一个有另一者所缺乏的属性），则*x*与*y*不同一。
+    step2: |-
+      既然不可能从别处推出不矛盾律，人们也许期待亚里士多德通过与其他可能争夺“最牢固第一原理”之名的逻辑原理相比较，来解释其特殊地位，例如与他版本的排中律——对任何*x*与任何*F*，必须要么断言*F*属于*x*，要么否认*F*属于*x*。然而，亚里士多德反而向他人挑战，要他们找出一条在先原理（《形而上学》IV 4 1006a10–11）。对现代哲学家而言，不矛盾律是否先于其他逻辑原理，乃至先于真、指称与同一性等概念，仍是一个有趣问题。不矛盾律预设了同一性概念：（一个且）同一事物不可能在（一个且）同一时间既属于又不属于（一个且）同一事物，等等。莱布尼茨律预设不矛盾律；该律称，若*x*与*y*可辨别（若一个有另一者所缺乏的属性），则*x*与*y*不同一。
+  - id: 17
+    kind: body
+    source: |-
+      ## 3. The Elenctic Method and Transcendental Arguments
+    step1: |-
+      ## 3 驳诘方法与先验论证
+    step2: |-
+      ## 3 驳诘方法与先验论证
+  - id: 18
+    kind: body
+    source: |-
+      Although PNC is not subject to demonstration, it is subject to “elenctic refutation” according to Aristotle. The “elenchus” refers to the Socratic method of argument. When Socrates uses the elenchus, he gets his opponent to refute himself out of his own mouth. The opponent makes a proposal that is shown to conflict with other claims to which he agrees. To be consistent, the opponent must give up one of these claims, and he usually abandons the original proposal. This is the method of *reductio ad absurdum* familiar to ancient Greek geometers and modern formal logicians and mathematicians.
+    step1: |-
+      按照亚里士多德，不矛盾律虽不适合被证明，却适合“驳诘式反驳”。“驳诘”（elenchus）指苏格拉底式论证方法。苏格拉底使用驳诘时，让对手用自己的嘴反驳自己。对手提出一个主张，该主张被表明与他所同意的其他主张冲突。为保持一致，对手必须放弃其中一项主张，而他通常放弃原初主张。这就是古希腊几何学家与现代形式逻辑学家、数学家所熟悉的归谬法。
+    step2: |-
+      按照亚里士多德，不矛盾律虽不适合被证明，却适合“驳诘式反驳”（elenctic refutation）。“驳诘”（elenchus）指苏格拉底式论证方法。苏格拉底使用驳诘时，让对手用自己的嘴反驳自己。对手提出一个主张，该主张被表明与他所同意的其他主张冲突。为保持一致，对手必须放弃其中一项主张，而他通常放弃原初主张。这就是古希腊几何学家与现代形式逻辑学家、数学家所熟悉的归谬法。
+  - id: 19
+    kind: body
+    source: |-
+      The idea of using an elenchus is at first sight very puzzling. The person claiming to reject PNC is not being consistent and apparently does not want to be. Aristotle is not trying to catch the opponent in a formal contradiction. The opponent purportedly does not care about that, and it would be begging the question. Instead, Aristotle’s trick is to draw the opponent into saying something, without making a complete statement, that shows that he does accept that *x* is *F* and is not at the same time not *F*, in spite of the words he previously said. In other words, Aristotle needs to show that his opponent is committed to at least one thing that is not contradictory. The Socratic method is turned on its head.
+    step1: |-
+      使用驳诘的想法乍看很令人困惑。声称拒斥不矛盾律的人并不一致，而且显然也不想一致。亚里士多德并不是要抓对手的形式矛盾。对手据说不在乎这个，而且那样做会是窃取论题。相反，亚里士多德的诀窍是诱使对手说出某种不完整的话，从而表明：尽管他先前说了那些话，他确实接受*x*是*F*且不同时不是*F*。换言之，亚里士多德需要表明，对手至少承诺了一件不矛盾的事。苏格拉底方法由此被倒转过来。
+    step2: |-
+      使用驳诘的想法乍看很令人困惑。声称拒斥不矛盾律的人并不一致，而且显然也不想一致。亚里士多德并不是要抓对手的形式矛盾——对手据说不在乎这个，而且那样做会是窃取论题。相反，他的诀窍是诱使对手说出某种不完整的话，从而表明：尽管先前的说法如此，对手确实接受*x*是*F*且不同时不是*F*。换言之，亚里士多德需要表明，对手至少承诺了一件不矛盾的事。苏格拉底方法由此被倒转过来。
+  - id: 20
+    kind: body
+    source: |-
+      It has long been noted that Aristotle is here assuming that his opponent takes the very strong position that for any *x* and for any *F*, it is possible for *F* to belong and not to belong to *x* at the same time in the same respect &c. Later he says that he is glad to have stamped out the view according to which we do not have anything definite in our thinking (*Metaph* IV 4 1009a3–5).
+    step1: |-
+      人们早已注意到，亚里士多德在此假定对手采取一个极强的立场：对任何*x*与任何*F*，*F*都可能在同一时间、同一方面既属于又不属于*x*，等等。他后来还说，他很高兴铲除了那种认为我们思想中没有任何确定之物的观点（《形而上学》IV 4 1009a3–5）。
+    step2: |-
+      人们早已注意到，亚里士多德在此假定对手采取一个极强的立场：对任何*x*与任何*F*，*F*都可能在同一时间、同一方面既属于又不属于*x*，等等。他后来还说，他很高兴铲除了那种认为我们思想中没有任何确定之物的观点（《形而上学》IV 4 1009a3–5）。
+  - id: 21
+    kind: body
+    source: |-
+      Aristotle’s “elenctic refutation” has been fruitfully compared to a Kantian transcendental argument. Transcendental arguments generally run as follows: If certain aspects of experience or thinking are possible, the world must be a certain way. Since these aspects of experience or thinking do exist, the world *is* a certain way. These aspects of our experience or thinking presuppose that the world is a certain way. That the world *is* a certain way explains these aspects of our experience or thinking and not the other way round. On this interpretation, Aristotle would be arguing that the world conforms to PNC, or that PNC is true, because it is presupposed by and explains the opponent’s ability to say something significant.
+    step1: |-
+      人们已富有成效地把亚里士多德的“驳诘式反驳”比作康德式先验论证。先验论证一般如此进行：若经验的某些方面或思想的某些方面是可能的，世界必定是某种样子；既然这些经验或思想方面确实存在，世界*就是*某种样子；我们经验或思想的这些方面预设世界是某种样子；世界*是*某种样子解释了这些经验或思想方面，而非相反。按这种解释，亚里士多德将论证：世界符合不矛盾律，或不矛盾律为真，因为它被对手说出某种有意义之言的能力所预设，并解释了这种能力。
+    step2: |-
+      人们已富有成效地把亚里士多德的“驳诘式反驳”比作康德式先验论证。先验论证一般如此进行：若经验的某些方面或思想的某些方面是可能的，世界必定是某种样子；既然这些经验或思想方面确实存在，世界*就是*某种样子。我们经验或思想的这些方面预设世界是某种样子；世界*是*某种样子解释了这些经验或思想方面，而非相反。按这种解释，亚里士多德将论证：世界符合不矛盾律，或不矛盾律为真，因为它被对手说出某种有意义之言的能力所预设，并解释了这种能力。
+  - id: 22
+    kind: body
+    source: |-
+      Transcendental arguments are controversial. One controversy surrounds the precise content of their conclusions and what exactly is presupposed. Should one conclude that the world must be a certain way or merely that we have to think that it is a certain way, in order to have the experience and thoughts at issue? The modern debate finds its counterpart in debate among scholars about what Aristotle is aiming to do in his elenctic discussion. There are two main possibilities. Aristotle may be aiming to show that the ontological version of the principle of non-contradiction is true, or he may be aiming to show merely that it cannot be disbelieved.
+    step1: |-
+      先验论证富有争议。一种争议围绕其结论的确切内容以及究竟预设了什么：我们应当断定世界必定是某种样子，还是只断定为了使相关经验与思想成为可能，我们必须认为世界是某种样子？现代争论在学者关于亚里士多德驳诘讨论意图何为的争论中有其对应物。主要有两种可能：亚里士多德可能力图表明不矛盾律的存在论版本为真，也可能只力图表明它无法被不相信。
+    step2: |-
+      先验论证富有争议。一种争议围绕其结论的确切内容以及究竟预设了什么：我们应当断定世界必定是某种样子，还是只断定为了使相关经验与思想成为可能，我们必须认为世界是某种样子？现代争论在学者关于亚里士多德驳诘讨论意图何为的争论中有其对应物。主要有两种可能：亚里士多德可能力图表明不矛盾律的存在论版本为真，也可能只力图表明它无法被不相信。
+  - id: 23
+    kind: body
+    source: |-
+      ## 4. Aristotle’s Challenge to the Opponent to Signify Some One Thing
+    step1: |-
+      ## 4 亚里士多德要求对手意谓某一事物
+    step2: |-
+      ## 4 亚里士多德要求对手意谓某一事物
+  - id: 24
+    kind: body
+    source: |-
+      Aristotle challenges the opponent to signify some one thing both to himself and to another, for example, “human being”. Aristotle explains that the word chosen by the opponent can have several meanings, provided one definition can be assigned to each and each definition is assigned a different word. Aristotle says that the word may not have infinitely many meanings. Perhaps this is because otherwise the opponent can keep on saying that we have not yet reached the meaning she has in mind, or perhaps Aristotle envisages infinitely branching meanings, so that we will never arrive at anything definite.
+    step1: |-
+      亚里士多德要求对手对自己也对他人意谓某一事物，例如“人”。他解释说，对手所选的词可以有若干含义，只要每一含义可分配一个定义，且每一定义分配给不同的词。亚里士多德说，这个词不能有无限多含义。也许这是因为否则对手就能一直说我们尚未达到她心中的那个含义；也许亚里士多德设想含义无限分叉，以致我们永远达不到任何确定之物。
+    step2: |-
+      亚里士多德要求对手对自己也对他人意谓某一事物，例如“人”。他解释说，对手所选的词可以有若干含义，只要每一含义可分配一个定义，且每一定义分配给不同的词。亚里士多德说，这个词不能有无限多含义。也许这是因为否则对手就能一直说我们尚未达到她心中的那个含义；也许他设想含义无限分叉，以致我们永远达不到任何确定之物。
+  - id: 25
+    kind: body
+    source: |-
+      Aristotle next draws a distinction between “signifying” and “signifying about”. The opponent needs to do both and not merely signify about. One can signify about something by saying “pale (thing)”, but that does not tell you what you are signifying, e.g., a human being. “Human being” both signifies about and signifies a human being. If “human being” means something definite, for example, “two-footed animal” (Aristotle’s dummy definition), then, Aristotle concludes, it is impossible that the same thing be a human being and not be a human being. (For a parallel discussion, see *Posterior Analytics* I 22.)
+    step1: |-
+      亚里士多德接着区分“意谓”与“意谓关于”。对手需要二者兼具，而不只是意谓关于。人可以通过说“苍白（的东西）”来意谓关于某物，但这并不告诉你所意谓的是什么，例如一个人。“人”既意谓关于，又意谓一个人。若“人”意谓某种确定之物，例如“两足动物”（亚里士多德设定的假定义），那么亚里士多德得出结论：同一事物不可能既是人又不是人。（平行讨论见《后分析篇》I 22。）
+    step2: |-
+      亚里士多德接着区分“意谓”与“意谓关于”。对手需要二者兼具，而不只是意谓关于。人可以通过说“苍白（的东西）”来意谓关于某物，但这并不告诉你所意谓的是什么，例如一个人。“人”既意谓关于，又意谓一个人。若“人”意谓某种确定之物，例如“两足动物”（亚里士多德设定的假定义），那么他得出结论：同一事物不可能既是人又不是人。（平行讨论见《后分析篇》I 22。）
+  - id: 26
+    kind: body
+    source: |-
+      On such an account, Aristotle is showing the opponent that if she wants to reject PNC she must pick out the same object and say that contradictory predicates apply, but if she does not mean anything definite by “human being”, for example, then she will be unable to pick out a subject of predication, for example, a human being, and say that contradictory predicates apply. Saying that an individual human being is a human being and not a human being, where the first means “two-footed animal” and the latter means something different is not to reject PNC. That is why the opponent must pick a particular word with a definite meaning.
+    step1: |-
+      按这种解释，亚里士多德向对手表明：若她想拒斥不矛盾律，就必须挑出同一个对象，并说相互矛盾的谓词适用于它；但若她对“人”并不意谓任何确定之物，例如，她就无法挑出一个谓述主项（例如一个人），并说相互矛盾的谓词适用于它。说某个人是人又不是人——其中前者意为“两足动物”，后者意为别的什么——并不是拒斥不矛盾律。这就是对手必须选择一个具有确定含义的特定词的原因。
+    step2: |-
+      按这种解释，亚里士多德向对手表明：若她想拒斥不矛盾律，就必须挑出同一个对象，并说相互矛盾的谓词适用于它；但若她对“人”并不意谓任何确定之物，她就无法挑出一个谓述主项（例如一个人），并说相互矛盾的谓词适用于它。说某个人是人又不是人——其中前者意为“两足动物”，后者意为别的什么——并不是拒斥不矛盾律。这就是对手必须选择一个具有确定含义的特定词的原因。
+  - id: 27
+    kind: body
+    source: |-
+      On an alternative account, Aristotle is merely talking about kinds. “Pale (thing)” does not signify a kind, whereas “human being” does. Signifying one thing does not involve signifying an individual who is a member of a kind, but simply one kind.
+    step1: |-
+      按另一种解释，亚里士多德只是在谈种类。“苍白（的东西）”不意谓一个种类，而“人”意谓。意谓一个事物并不涉及意谓一个属于某种类的个体，而只涉及一个种类。
+    step2: |-
+      按另一种解释，亚里士多德只是在谈种类。“苍白（的东西）”不意谓一个种类，而“人”意谓。意谓一个事物并不涉及意谓一个属于某种类的个体，而只涉及一个种类。
+  - id: 28
+    kind: body
+    source: |-
+      The details of the argument are controversial. Is it meant to be generalizable across the board so that it would work for things that are not substances, for example, qualities like redness? Aristotle elsewhere says that the sweet is necessarily so (*Metaph* IV 5 1010b24–6). Must the opponent say something that names a natural kind? What if the opponent says “animal”, naming a genus rather than a species? What if the opponent says “goatstag”, something that does not exist? Does the distinction between “signifying” and “signifying about” necessarily lead to subjects that are individuals (for example, individual human beings or horses) and their properties? Here, we run into the issue of Aristotelian essentialism.
+    step1: |-
+      论证的细节富有争议。它是否意在普遍化，以致也适用于非实体之物，例如红这样的性质？亚里士多德在别处说甜者必然如此（《形而上学》IV 5 1010b24–6）。对手是否必须说出命名自然种类之物？若对手说“动物”，命名的是属而非种，又当如何？若对手说“山羊鹿”，一个不存在之物，又当如何？“意谓”与“意谓关于”的区分，是否必然导向作为个体的主项（例如个别的人或马）及其属性？在此我们遇到亚里士多德本质主义的问题。
+    step2: |-
+      论证的细节富有争议。它是否意在普遍化，以致也适用于非实体之物，例如红这样的性质？亚里士多德在别处说甜者必然如此（《形而上学》IV 5 1010b24–6）。对手是否必须说出命名自然种类之物？若对手说“动物”，命名的是属而非种，又当如何？若对手说“山羊鹿”，一个不存在之物，又当如何？“意谓”与“意谓关于”的区分，是否必然导向作为个体的主项（例如个别的人或马）及其属性？在此我们遇到亚里士多德本质主义的问题。
+  - id: 29
+    kind: body
+    source: |-
+      ## 5. The Role of Aristotelian Essentialism
+    step1: |-
+      ## 5 亚里士多德本质主义的作用
+    step2: |-
+      ## 5 亚里士多德本质主义的作用
+  - id: 30
+    kind: body
+    source: |-
+      Aristotelian essentialism is the view that there exist what modern philosophers would treat as natural kinds, for example, human beings, horses and acanthus plants. Individuals belonging to these kinds have essential natures that are definable. These individuals cannot survive a change in essence, but they can survive a change in their accidental properties. There is a difference between dying and dyeing one’s hair. When a human being ceases to be a human being, she dies. By contrast, when her hair is dyed a different color, she survives. In an earlier work, Aristotle distinguishes essence, for example the necessary property of being rational for a human being, from accident, for example, being asleep, and from distinctive properties, those necessary properties that are explained by rationality but are not part of the human essence, for example, the capacity to learn a language (*Topics* I 5). It is a puzzling feature of the argument of *Metaphysics* IV 4 that distinctive properties are not explicitly mentioned.
+    step1: |-
+      亚里士多德本质主义是这样一种观点：存在现代哲学家会视为自然种类的东西，例如人、马与老鼠簕。属于这些种类的个体具有可定义的本质本性。这些个体不能经受本质改变而存活，却能经受偶性改变而存活。死亡与染发不同。当一个人不再是其人时，她死了；相反，当她的头发被染成另一种颜色时，她仍活着。在较早著作中，亚里士多德区分本质（例如人具有理性的必然属性）、偶性（例如睡着）与特有属性——那些由理性解释但不属于人的本质的必然属性，例如学习语言的能力（《论题篇》I 5）。《形而上学》IV 4 论证的一个令人困惑之处，是特有属性未被明确提及。
+    step2: |-
+      亚里士多德本质主义是这样一种观点：存在现代哲学家会视为自然种类的东西，例如人、马与老鼠簕。属于这些种类的个体具有可定义的本质本性。这些个体不能经受本质改变而存活，却能经受偶性改变而存活。死亡与染发不同。当一个人不再是其人时，她死了；相反，当她的头发被染成另一种颜色时，她仍活着。在较早著作中，亚里士多德区分本质（例如人具有理性的必然属性）、偶性（例如睡着）与特有属性——那些由理性解释但不属于人的本质的必然属性，例如学习语言的能力（《论题篇》I 5）。《形而上学》IV 4 论证的一个令人困惑之处，是特有属性未被明确提及。
+  - id: 31
+    kind: body
+    source: |-
+      Aristotle says that those who refuse to take up the challenge to signify one thing “do away with substance and essence. For they must say that all attributes are accidents, and that there is no such thing as ‘being essentially a human being’ or ‘an animal’” (*Metaph* IV 4 1007a20–23). According to Aristotle, then, those who claim to reject PNC are rejecting Aristotelian essentialism. Aristotle connects “merely signifying about” with denoting an accident, and “signifying” with denoting the bearer of an accident, the bearer being a substance. If the opponent refuses to “signify”, she is left with accidents.
+    step1: |-
+      亚里士多德说，那些拒绝接受“意谓一个事物”之挑战的人，“取消了实体与本质。因为他们必须说一切属性都是偶性，并且不存在‘本质上作为人’或‘作为动物’这回事”（《形而上学》IV 4 1007a20–23）。因此，按照亚里士多德，那些声称拒斥不矛盾律的人，是在拒斥亚里士多德本质主义。他把“仅意谓关于”与指称偶性相联系，把“意谓”与指称偶性的承载者相联系，而承载者是实体。若对手拒绝“意谓”，她便只剩下偶性。
+    step2: |-
+      亚里士多德说，那些拒绝接受“意谓一个事物”之挑战的人，“取消了实体与本质。因为他们必须说一切属性都是偶性，并且不存在‘本质上作为人’或‘作为动物’这回事”（《形而上学》IV 4 1007a20–23）。因此，按照亚里士多德，那些声称拒斥不矛盾律的人，是在拒斥亚里士多德本质主义。他把“仅意谓关于”与指称偶性相联系，把“意谓”与指称偶性的承载者相联系，而承载者是实体。若对手拒绝“意谓”，她便只剩下偶性。
+  - id: 32
+    kind: body
+    source: |-
+      Next, Aristotle tries to put Humpty Dumpty together again: Accidents cannot be predicated of accidents, but they must be predicated of something. For example, if there are accidents such as the musical or the pale, these cannot be predicated of one another, so they need a subject with an essential nature to be predicated of, for example, Socrates, a human being. While Socrates is pale and musical, the pale is not musical, nor the musical pale, unless all this means is that Socrates is pale and musical. Nor does a collection of accidents—the pale, the musical and so on—add up to one subject like Socrates. Nor does it tell us what Socrates is, a human being. Accidents need subjects and subjects that are substances and have an essential nature, and, if that is the case, essentialism is reinstated and PNC applies after all.
+    step1: |-
+      接下来，亚里士多德试图把矮胖子重新拼起来：偶性不能谓述偶性，却必须谓述某物。例如，若有“通音律的”或“苍白的”这类偶性，它们不能相互谓述，因此需要一个具有本质本性的主项来承受谓述，例如苏格拉底这个人。苏格拉底既苍白又通音律，但苍白者不通音律，通音律者不苍白，除非这一切的意思只是苏格拉底既苍白又通音律。偶性的集合——苍白者、通音律者等等——也不等于苏格拉底这样一个主项，也不告诉我们苏格拉底是什么，即一个人。偶性需要主项，而主项是实体、具有本质本性；若如此，本质主义便恢复，不矛盾律终究适用。
+    step2: |-
+      接下来，亚里士多德试图把矮胖子重新拼起来：偶性不能谓述偶性，却必须谓述某物。例如，若有“通音律的”或“苍白的”这类偶性，它们不能相互谓述，因此需要一个具有本质本性的主项来承受谓述，例如苏格拉底这个人。苏格拉底既苍白又通音律，但苍白者不通音律，通音律者不苍白，除非这一切的意思只是苏格拉底既苍白又通音律。偶性的集合——苍白者、通音律者等等——也不等于苏格拉底这样一个主项，也不告诉我们苏格拉底是什么，即一个人。偶性需要主项，而主项是实体、具有本质本性；若如此，本质主义便恢复，不矛盾律终究适用。
+  - id: 33
+    kind: body
+    source: |-
+      According to Aristotle, if the opponent refuses to speak, he is no better off than a vegetable. While this may seem to be merely ill-tempered abuse, it has a serious side. If the opponent rejects PNC *and essentialism*, then he cannot explain why he is not a vegetable. Aristotelian essentialism, if correct, applies to oneself as well as to other things in the world. At first sight, it is not clear why the PNC-opponent is left with a picture of anything. But perhaps that is Aristotle’s point. Aristotle gives the PNC-opponent a world in which accidents can be linked up in any way he likes. Anything goes in such a world, or nothing goes, depending on his taste. Alternatively, as Aristotle puts it, “all things will be one” (*Metaph* IV 4 1007a19).
+    step1: |-
+      按照亚里士多德，若对手拒绝说话，他的处境便不比一株植物更好。这看似只是刻薄谩骂，却有严肃一面。若对手既拒斥不矛盾律、*又拒斥本质主义*，他就无法解释自己为何不是一株植物。亚里士多德本质主义若正确，便适用于自己，也适用于世界中其他事物。乍看并不清楚，为何不矛盾律的对手还剩下任何事物的图景。但也许这正是亚里士多德的要点。他给不矛盾律的对手一个世界，其中偶性可以随他喜欢任意连接。在这样的世界里，什么都行，或什么都不行，取决于他的口味。或者如亚里士多德所说，“一切事物将成为一”（《形而上学》IV 4 1007a19）。
+    step2: |-
+      按照亚里士多德，若对手拒绝说话，他的处境便不比一株植物更好。这看似只是刻薄谩骂，却有严肃一面。若对手既拒斥不矛盾律、*又拒斥本质主义*，他就无法解释自己为何不是一株植物。亚里士多德本质主义若正确，便适用于自己，也适用于世界中其他事物。乍看并不清楚，为何不矛盾律的对手还剩下任何事物的图景。但也许这正是亚里士多德的要点。他给不矛盾律的对手一个世界，其中偶性可以随他喜欢任意连接。在这样的世界里，什么都行，或什么都不行，取决于他的口味。或者如亚里士多德所说，“一切事物将成为一”（《形而上学》IV 4 1007a19）。
+  - id: 34
+    kind: body
+    source: |-
+      Aristotle is arguing that the rejection of PNC leads to the rejection of Aristotelian essentialism, and the acceptance of Aristotelian essentialism leads to the acceptance of PNC. A controversial question is whether Aristotle is also arguing that the acceptance of PNC necessarily goes hand in hand with the acceptance of Aristotelian essentialism. If Aristotle is claiming that to signify something is to signify a bearer that has an essential nature, this would lead to the acceptance of both PNC and some form of essentialism. The argument itself does not rule out Platonic forms as the bearers, or momentary objects, or numbers. Nevertheless, the argument could be supplemented by Aristotle’s arguments elsewhere against Platonic forms, and his distinctions between different types of change in the world.
+    step1: |-
+      亚里士多德论证：拒斥不矛盾律导致拒斥亚里士多德本质主义，而接受亚里士多德本质主义导致接受不矛盾律。一个争议问题是：亚里士多德是否还论证，接受不矛盾律必然与接受亚里士多德本质主义携手而行？若他主张意谓某物就是意谓一个具有本质本性的承载者，这便会导致同时接受不矛盾律与某种形式的本质主义。论证本身并不排除以柏拉图型相为承载者，也不排除刹那对象或数。然而，这一论证可以由亚里士多德在别处反对柏拉图型相的论证、以及他关于世界不同类型变化的区分来补充。
+    step2: |-
+      亚里士多德论证：拒斥不矛盾律导致拒斥亚里士多德本质主义，而接受亚里士多德本质主义导致接受不矛盾律。一个争议问题是：他是否还论证，接受不矛盾律必然与接受亚里士多德本质主义携手而行？若他主张意谓某物就是意谓一个具有本质本性的承载者，这便会导致同时接受不矛盾律与某种形式的本质主义。论证本身并不排除以柏拉图型相为承载者，也不排除刹那对象或数。然而，这一论证可以由亚里士多德在别处反对柏拉图型相的论证、以及他关于世界不同类型变化的区分来补充。
+  - id: 35
+    kind: body
+    source: |-
+      ## 6. The Principle of Non-Contradiction and Action
+    step1: |-
+      ## 6 不矛盾律与行动
+    step2: |-
+      ## 6 不矛盾律与行动
+  - id: 36
+    kind: body
+    source: |-
+      Aristotle notes that even if the opponent fails to speak, she must still act, and if she acts in a certain way, that shows that she thinks that things in the world are one way rather than another, and that some courses of action are better than others. That is why people do not walk into wells or over precipices, and it shows that people think it better not to walk into a well or over a precipice than to do so. Their actions show that they have beliefs that conform to PNC.
+    step1: |-
+      亚里士多德指出，即便对手拒绝说话，她仍须行动；若她以某种方式行动，这就表明她认为世界中的事物是这样而非那样，也表明某些行动路线优于另一些。这就是人们不走进井里、不从悬崖上跳下的原因；它表明人们认为不走进井里、不从悬崖上跳下比这样做更好。他们的行动表明，他们持有符合不矛盾律的信念。
+    step2: |-
+      亚里士多德指出，即便对手拒绝说话，她仍须行动；若她以某种方式行动，这就表明她认为世界中的事物是这样而非那样，也表明某些行动路线优于另一些。这就是人们不走进井里、不从悬崖上跳下的原因；它表明人们认为不走进井里、不从悬崖上跳下比这样做更好。他们的行动表明，他们持有符合不矛盾律的信念。
+  - id: 37
+    kind: body
+    source: |-
+      In response to Aristotle, one might wonder whether it is possible to act merely *as if* one has certain beliefs, without having them. In Hellenistic philosophy, the question arises whether the skeptic can live his skepticism, and in modern philosophy the parallel question arises whether moral anti-realists can act on their theory. If the answer is yes, then all Aristotle will have shown is that we do act *as if* we are committed to PNC, an answer that falls short of Aristotle’s aim in *Metaphysics* IV 4, whether this is interpreted as to show that PNC is true or to show that PNC is indubitable.
+    step1: |-
+      针对亚里士多德，人们可以问：是否可能仅仅*仿佛*持有某些信念地行动，而并不真的持有？在希腊化哲学中，问题在于怀疑论者能否践行其怀疑论；在现代哲学中，对应的问题是道德反实在论者能否按自己的理论行动。若答案为是，那么亚里士多德所表明的便只是：我们的行动*仿佛*承诺了不矛盾律——这一答案达不到《形而上学》IV 4 的目标，无论该目标被解释为表明不矛盾律为真，还是表明它无可怀疑。
+    step2: |-
+      针对亚里士多德，人们可以问：是否可能仅仅*仿佛*持有某些信念地行动，而并不真的持有？在希腊化哲学中，问题在于怀疑论者能否践行其怀疑论；在现代哲学中，对应的问题是道德反实在论者能否按自己的理论行动。若答案为是，那么亚里士多德所表明的便只是：我们的行动*仿佛*承诺了不矛盾律——这一答案达不到《形而上学》IV 4 的目标，无论该目标被解释为表明不矛盾律为真，还是表明它无可怀疑。
+  - id: 38
+    kind: body
+    source: |-
+      On this view, we are left with a skeptical Humean or pragmatic account. Aristotle’s account would be parallel to Hume’s skeptical solution to the problem of induction: We just do proceed as if induction is correct, even though we lack any justification for so doing. Or compare Wittgenstein: “..the end is not an unfounded presupposition—It is an unfounded way of acting.” (*On Certainty*, Section 110).
+    step1: |-
+      按这种看法，我们只剩下一种休谟式怀疑论或实用主义说明。亚里士多德的说明将与休谟对归纳问题的怀疑论解决相平行：我们就是仿佛归纳正确那样行事，尽管我们缺乏任何如此行事的辩护。或者比较维特根斯坦：“……终点并不是一个无根据的预设——它是一种无根据的行动方式。”（《论确定性》，第 110 节）
+    step2: |-
+      按这种看法，我们只剩下一种休谟式怀疑论或实用主义说明。亚里士多德的说明将与休谟对归纳问题的怀疑论解决相平行：我们就是仿佛归纳正确那样行事，尽管我们缺乏任何如此行事的辩护。或者比较维特根斯坦：“……终点并不是一个无根据的预设——它是一种无根据的行动方式。”（《论确定性》，第 110 节）
+  - id: 39
+    kind: body
+    source: |-
+      Is such a view coherent? Here it is appropriate to ask the skeptic what kind of justification she is seeking. The question returns us to the problem of PNC being a first principle for which there is no ordinary proof. Is it possible to act *as if* one has certain beliefs even though one does not? Here the skeptic owes the non-skeptic some account of “as-if belief” that differs from actual belief. If this is to act following “how things appear to one”, Aristotle is justified in asking whether they can even appear to be *F* and not *F* to the same human being at the same time. “As-if belief” may commit one to PNC just as much as actual belief does.
+    step1: |-
+      这种观点融贯吗？在此适合问怀疑论者：她寻求的是何种辩护？这个问题把我们带回不矛盾律作为第一原理、没有普通证明的难题。是否可能虽不持有某些信念，却*仿佛*持有地行动？在此，怀疑论者欠非怀疑论者一个说明：与真实信念不同的“仿佛信念”究竟是什么。若这是依照“事物向一个人显现的方式”行动，亚里士多德就有理由问：事物是否可能在同一时间对同一个人既显现为*F*又显现为不是*F*？“仿佛信念”也许与真实信念一样使人承诺不矛盾律。
+    step2: |-
+      这种观点融贯吗？在此适合问怀疑论者：她寻求的是何种辩护？这个问题把我们带回不矛盾律作为第一原理、没有普通证明的难题。是否可能虽不持有某些信念，却*仿佛*持有地行动？在此，怀疑论者欠非怀疑论者一个说明：与真实信念不同的“仿佛信念”究竟是什么。若这是依照“事物向一个人显现的方式”行动，亚里士多德就有理由问：事物是否可能在同一时间对同一个人既显现为*F*又显现为不是*F*？“仿佛信念”也许与真实信念一样使人承诺不矛盾律。
+  - id: 40
+    kind: body
+    source: |-
+      Action is the place where our beliefs collide with the world. If the skeptic is skeptical about beliefs, it is not clear that she can accept that there are *actions*, as opposed to reflexes and other involuntary movements. Such a PNC-opponent would become a robot, not just a vegetable.
+    step1: |-
+      行动是我们的信念与世界相撞之处。若怀疑论者对信念持怀疑态度，她能否接受存在*行动*（而非反射与其他不随意运动），便不清楚。这样的不矛盾律对手会变成机器人，而不只是植物。
+    step2: |-
+      行动是我们的信念与世界相撞之处。若怀疑论者对信念持怀疑态度，她能否接受存在*行动*（而非反射与其他不随意运动），便不清楚。这样的不矛盾律对手会变成机器人，而不只是植物。
+  - id: 41
+    kind: body
+    source: |-
+      ## 7. The Principle of Non-Contradiction and Proximity to the Truth or the Truth-Like
+    step1: |-
+      ## 7 不矛盾律与接近真理或类似真理者
+    step2: |-
+      ## 7 不矛盾律与接近真理或类似真理者
+  - id: 42
+    kind: body
+    source: |-
+      At the end of chapter 4, Aristotle says that however much things “are so and not so”, there “is a more and a less in the nature of things”, for someone who thinks that four things are five is less wrong than someone who thinks that they are a thousand, and so there must be some truth to which the more true is nearer. He adds that even if there is not some truth to which the more true is nearer, “still there is already something firmer and liker the truth, and we shall have got rid of the unqualified doctrine which would prevent us from having anything definite in our thought” (*Metaph* IV 4 1009a2–5). He first points out that we can make comparative judgments, even if we do not make absolute judgments, and that comparative judgments presuppose some absolute standard. But even if there is no absolute standard, something truth-like is presupposed and so we will not be prevented from having anything definite in our thought.
+    step1: |-
+      在第 4 章末尾，亚里士多德说，无论事物“是如此又不是如此”到什么程度，“事物本性中总有较多与较少”：认为四物为五者，比认为四物为千者错得较少，因此必定有某种真理，较真者更接近它。他补充说，即便没有某种真理让较真者更接近，“也已经有某种更牢固、更像真理的东西；我们也将摆脱那种不容许我们思想中有任何确定之物的无限制学说”（《形而上学》IV 4 1009a2–5）。他先指出：即便不作绝对判断，我们也能作比较判断，而比较判断预设某种绝对标准。但即便没有绝对标准，也预设了某种类似真理者，因此我们不会被迫失去思想中的确定之物。
+    step2: |-
+      第 4 章末尾，亚里士多德说，无论事物“是如此又不是如此”到什么程度，“事物本性中总有较多与较少”：认为四物为五者，比认为四物为千者错得较少，因此必定有某种真理，较真者更接近它。他补充说，即便没有某种真理让较真者更接近，“也已经有某种更牢固、更像真理的东西；我们也将摆脱那种不容许我们思想中有任何确定之物的无限制学说”（《形而上学》IV 4 1009a2–5）。他先指出：即便不作绝对判断，我们也能作比较判断，而比较判断预设某种绝对标准。但即便没有绝对标准，也预设了某种类似真理者，因此我们不会被迫失去思想中的确定之物。
+  - id: 43
+    kind: body
+    source: |-
+      One might wonder how much of a concession these points are to Aristotle’s opponent. A modern scientific realist would insist that our views merely approximate the truth. But would it be enough that there be something “liker the truth”? It would be interesting to work out the implications of these ideas for Aristotle’s essentialism. Would Aristotle be sympathetic to “fuzzy essentialism” or “fuzzy realism”? How much vagueness can Aristotelian realism allow? These are issues about realism that later Hellenistic philosophers and modern philosophers consider in more detail.
+    step1: |-
+      人们可以问：这些论点对亚里士多德的对手究竟作了多大让步。现代科学实在论者会坚持，我们的观点只是近似真理。但仅仅存在某种“更像真理”的东西，够吗？弄清这些想法对亚里士多德本质主义的含义，将会很有意思。亚里士多德会同情“模糊本质主义”或“模糊实在论”吗？亚里士多德式实在论能允许多少模糊性？这些是关于实在论的问题，后来的希腊化哲学家与现代哲学家讨论得更细。
+    step2: |-
+      人们可以问：这些论点对亚里士多德的对手究竟作了多大让步。现代科学实在论者会坚持，我们的观点只是近似真理。但仅仅存在某种“更像真理”的东西，够吗？弄清这些想法对亚里士多德本质主义的含义，将会很有意思。他会同情“模糊本质主义”或“模糊实在论”吗？亚里士多德式实在论能允许多少模糊性？这些是关于实在论的问题，后来的希腊化哲学家与现代哲学家讨论得更细。
+  - id: 44
+    kind: body
+    source: |-
+      ## 8. The Argument from Conflicting Appearances
+    step1: |-
+      ## 8 来自冲突现象的论证
+    step2: |-
+      ## 8 来自冲突现象的论证
+  - id: 45
+    kind: body
+    source: |-
+      In chapter 5, Aristotle distinguishes two types of opponent, those who claim to reject PNC for the sake of argument, and those Pre-Socratics who are genuinely perplexed. He now addresses the second type. Anaxagoras and Democritus are led to say that contradictions are true at the same time, because they are confused by change. They see contraries coming into existence out of the same thing, and infer that the same thing must have had contrary properties. Aristotle introduces his distinction between the potential and the actual to dispel their confusion. An object can be potentially *F* and potentially not *F*, but it cannot be actually *F* and actually not *F* at the same time.
+    step1: |-
+      第 5 章中，亚里士多德区分两类对手：为论证起见声称拒斥不矛盾律者，以及真正感到困惑的前苏格拉底哲人。他现在处理第二类。阿那克萨戈拉与德谟克利特因被变化弄糊涂，而主张矛盾可以同时为真。他们看到相反者从同一事物中产生，便推断同一事物必定曾具有相反属性。亚里士多德引入潜能与现实的区分来消除其困惑。一个对象可以潜在地是*F*且潜在地不是*F*，却不能在同一时间现实地是*F*且现实地不是*F*。
+    step2: |-
+      第 5 章中，亚里士多德区分两类对手：为论证起见声称拒斥不矛盾律者，以及真正感到困惑的前苏格拉底哲人。他现在处理第二类。阿那克萨戈拉与德谟克利特因被变化弄糊涂，而主张矛盾可以同时为真。他们看到相反者从同一事物中产生，便推断同一事物必定曾具有相反属性。亚里士多德引入潜能与现实的区分来消除其困惑。一个对象可以潜在地是*F*且潜在地不是*F*，却不能在同一时间现实地是*F*且现实地不是*F*。
+  - id: 46
+    kind: body
+    source: |-
+      Other philosophers are led by the argument from conflicting appearances to accept conclusions that violate PNC or lead to general scepticism. Aristotle presents the argument as follows:
+    step1: |-
+      另一些哲学家则被来自冲突现象的论证引向违反不矛盾律或导致普遍怀疑论的结论。亚里士多德如下呈现该论证：
+    step2: |-
+      另一些哲学家则被来自冲突现象的论证引向违反不矛盾律或导致普遍怀疑论的结论。亚里士多德如下呈现该论证：
+  - id: 47
+    kind: body
+    source: |-
+      1. There are three sorts of cases of conflicting appearances:
+      2. Things appear different to different members of the same species, e.g., the same thing is thought bitter by some and sweet by others (*Metaph* IV 5 1009b2–3).
+      3. Things appear different to members of different species (e.g., to other animals and to us) (*Metaph* IV 5 1009b7–8).
+      4. Things do not always appear the same even to the senses of the same individual (*Metaph* IV 5 1009b8–9).
+      5. It is not clear which appearances are true and which false (*Metaph* IV 5 1009b10).
+      6. Conclusions:
+      7. Nothing is true (Democritus in dogmatic mood, *Metaph* IV 5 1009b11–12).
+      8. (If something is true) it is not clear to us (Democritus in skeptical mood, *Metaph* IV 5 1009b12).
+      9. Everything is just as true as everything else. (This is mentioned as an explanation of premiss 2 at *Metaph* IV 5 1009b10–11. It is Protagoras’s view, as described at the beginning of the chapter.)
+    step1: |-
+      1. 冲突现象有三类情形：
+      2. 事物对同一种的不同成员显现不同，例如同一事物被一些人认为苦、被另一些人认为甜（《形而上学》IV 5 1009b2–3）。
+      3. 事物对不同种的成员显现不同（例如对其他动物与对我们）（《形而上学》IV 5 1009b7–8）。
+      4. 事物甚至对同一个体的感官也并不总是显现相同（《形而上学》IV 5 1009b8–9）。
+      5. 不清楚哪些现象为真、哪些为假（《形而上学》IV 5 1009b10）。
+      6. 结论：
+      7. 没有事物为真（德谟克利特的独断情绪，《形而上学》IV 5 1009b11–12）。
+      8. （若有某物为真）我们也不清楚（德谟克利特的怀疑情绪，《形而上学》IV 5 1009b12）。
+      9. 一切事物都同样真。（此说在《形而上学》IV 5 1009b10–11 被提为对前提 2 的解释，即本章开头所述普罗塔戈拉的观点。）
+    step2: |-
+      1. 冲突现象有三类情形：
+      2. 事物对同一种的不同成员显现不同，例如同一事物被一些人认为苦、被另一些人认为甜（《形而上学》IV 5 1009b2–3）。
+      3. 事物对不同种的成员显现不同（例如对其他动物与对我们）（《形而上学》IV 5 1009b7–8）。
+      4. 事物甚至对同一个体的感官也并不总是显现相同（《形而上学》IV 5 1009b8–9）。
+      5. 不清楚哪些现象为真、哪些为假（《形而上学》IV 5 1009b10）。
+      6. 结论：
+      7. 没有事物为真（德谟克利特的独断情绪，《形而上学》IV 5 1009b11–12）。
+      8. （若有某物为真）我们也不清楚（德谟克利特的怀疑情绪，《形而上学》IV 5 1009b12）。
+      9. 一切事物都同样真。（此说在《形而上学》IV 5 1009b10–11 被提为对前提 2 的解释，即本章开头所述普罗塔戈拉的观点。）
+  - id: 48
+    kind: body
+    source: |-
+      In response to this argument, Aristotle concedes most of the first premise. He agrees that things do appear different to different members of different species, to different members of the same species, and even to the same individual, although he denies that the same thing can appear differently to the same sense of the same individual at the same time (*Metaph* IV 5 1010b18).
+    step1: |-
+      针对这一论证，亚里士多德在第一个前提上作了大部分让步。他同意：事物确实对不同种的不同成员、同一种的不同成员、甚至同一个体显现不同；不过他否认同一事物能在同一时间对同一个体的同一感官显现不同（《形而上学》IV 5 1010b18）。
+    step2: |-
+      针对这一论证，亚里士多德在第一个前提上作了大部分让步。他同意：事物确实对不同种的不同成员、同一种的不同成员、甚至同一个体显现不同；不过他否认同一事物能在同一时间对同一个体的同一感官显现不同（《形而上学》IV 5 1010b18）。
+  - id: 49
+    kind: body
+    source: |-
+      Unlike modern philosophers, Aristotle does not attack the inference from premises 1 and 2 to the conclusions in 3. Instead, he attacks premise 2. If the attack is successful, he will have knocked down all three conclusions at the same time. Aristotle’s attack on premise 2 does not rest on accepting a majority verdict. Aristotle appears to accept his opponents’ argument that, in cases like 1a, where things appear different to different members of the same species, majority decision is not an appropriate criterion for truth, because if the majority were ill or mad, the minority would be thought to be in that condition. He argues instead that people are not really confused as to whether magnitudes and colors are such as appear to those at a distance or those nearby, or whether what appears to the weak or strong is heavier or whether what appears to one asleep or awake is true. Once awake, a person in Libya is not confused about whether his dreams of Athens or his waking experiences are true; he does not start out for the odeon. Therefore, according to Aristotle, people do not really find it unclear which appearances to take as true.
+    step1: |-
+      与现代哲学家不同，亚里士多德并不攻击从前提 1、2 到结论 3 的推论，而是攻击前提 2。若攻击成功，他便可同时击倒三个结论。亚里士多德对前提 2 的攻击并不依赖接受多数裁决。他似乎接受对手的论证：在 1a 这类情形中——事物对同一种的不同成员显现不同——多数决定并非真理的适当标准，因为若多数人生病或发疯，少数人反而会被认为处于那种状况。他转而论证：人们其实并不困惑于量值与颜色究竟是远处之人所见的那样，还是近处之人所见的那样；也不困惑于对弱者或强者显得更重者为何，或对睡着者与醒着者显现者何者为真。利比亚的一个人醒来后，并不困惑于自己关于雅典的梦与清醒经验何者为真；他不会起身去音乐厅。因此，按照亚里士多德，人们其实并不真的觉得不清楚该把哪些现象当作真的。
+    step2: |-
+      与现代哲学家不同，亚里士多德并不攻击从前提 1、2 到结论 3 的推论，而是攻击前提 2。若攻击成功，他便可同时击倒三个结论。他对前提 2 的攻击并不依赖接受多数裁决。他似乎接受对手的论证：在 1a 这类情形中——事物对同一种的不同成员显现不同——多数决定并非真理的适当标准，因为若多数人生病或发疯，少数人反而会被认为处于那种状况。他转而论证：人们其实并不困惑于量值与颜色究竟是远处之人所见的那样，还是近处之人所见的那样；也不困惑于对弱者或强者显得更重者为何，或对睡着者与醒着者显现者何者为真。利比亚的一个人醒来后，并不困惑于自己关于雅典的梦与清醒经验何者为真；他不会起身去音乐厅。因此，按照亚里士多德，人们其实并不真的觉得不清楚该把哪些现象当作真的。
+  - id: 50
+    kind: body
+    source: |-
+      Aristotle extends his discussion to opinions, arguing that not all opinions are equally authoritative. Aristotle points out that when it comes to questions about our future health, the opinion of the physician is not on a par with a lay person. Nor are our senses equally authoritative on the same subject matter. Each sense is authoritative about its own special objects. For example, sight, and not taste, is the authority on color, but taste, and not sight, is the authority on flavor (*Metaph* IV 5 1010b11–17). According to Aristotle, then, it is far from unclear which appearances, or whose opinions, are to be trusted in cases of conflict. Those who profess to deny this, show, by their own actions, presumably by trusting only their waking appearances when they are awake, and by consulting a physician when they are ill and so on, that they believe quite the reverse. Therefore, according to Aristotle, the second premise of the argument from conflicting appearances is false, and so the argument fails.
+    step1: |-
+      亚里士多德把讨论扩展到意见，论证并非一切意见都同等权威。他指出：在关乎我们未来健康的问题上，医生的意见并不与外行同等。我们的感官在同一主题上也并非同等权威。每种感官对其自身特有对象具有权威。例如，颜色方面的权威是视觉而非味觉，而味道方面的权威是味觉而非视觉（《形而上学》IV 5 1010b11–17）。因此，按照亚里士多德，在冲突情形中该信任哪些现象、谁的意见，远非不清楚。那些声称否认这一点的人，以自己的行动表明——想必是清醒时只信任清醒现象、生病时去求医等等——他们相信的恰好相反。因此，按照亚里士多德，来自冲突现象之论证的第二个前提为假，论证于是失败。
+    step2: |-
+      亚里士多德把讨论扩展到意见，论证并非一切意见都同等权威。他指出：在关乎我们未来健康的问题上，医生的意见并不与外行同等。我们的感官在同一主题上也并非同等权威。每种感官对其自身特有对象具有权威。例如，颜色方面的权威是视觉而非味觉，味道方面的权威是味觉而非视觉（《形而上学》IV 5 1010b11–17）。因此，按照亚里士多德，在冲突情形中该信任哪些现象、谁的意见，远非不清楚。那些声称否认这一点的人，以自己的行动表明——想必是清醒时只信任清醒现象、生病时去求医等等——他们相信的恰好相反。因此，按照亚里士多德，来自冲突现象之论证的第二个前提为假，论证于是失败。
+  - id: 51
+    kind: body
+    source: |-
+      Aristotle has not had the last word. The skeptics of Hellenistic times made much of arguments from conflicting appearances, and modern philosophers continue to discuss their efficacy, especially in the field of ethics.
+    step1: |-
+      亚里士多德并非说了最后一句话。希腊化时期的怀疑论者大加利用来自冲突现象的论证；现代哲学家继续讨论其效力，尤其在伦理学领域。
+    step2: |-
+      亚里士多德并非说了最后一句话。希腊化时期的怀疑论者大加利用来自冲突现象的论证；现代哲学家继续讨论其效力，尤其在伦理学领域。
+  - id: 52
+    kind: body
+    source: |-
+      ## 9. Protagoras, Heraclitus, and Plato’s *Theaetetus*
+    step1: |-
+      ## 9 普罗塔戈拉、赫拉克利特与柏拉图《泰阿泰德篇》
+    step2: |-
+      ## 9 普罗塔戈拉、赫拉克利特与柏拉图《泰阿泰德篇》
+  - id: 53
+    kind: body
+    source: |-
+      At the beginning of *Metaphysics* IV 5, Aristotle says that PNC stands and falls with the doctrine of Protagoras, that each individual human being is the measure of all things. In his *Theaetetus* 151–183, Plato argues that Theaetetus, who holds that knowledge is nothing but perception, is committed to Protagoras’s view via an argument from conflicting appearances. If the wind appears cold to you but hot to me and knowledge is nothing but perception, then we must both be correct, as Protagoras says.
+    step1: |-
+      《形而上学》IV 5 开头，亚里士多德说不矛盾律与普罗塔戈拉“人是万物的尺度”这一学说同存同亡。在《泰阿泰德篇》151–183 中，柏拉图论证：主张知识不过是感觉的泰阿泰德，经由来自冲突现象的论证，承诺了普罗塔戈拉的观点。若风对你显得冷、对我显得热，而知识不过是感觉，那么我们两人都必是对的，如普罗塔戈拉所说。
+    step2: |-
+      《形而上学》IV 5 开头，亚里士多德说不矛盾律与普罗塔戈拉“人是万物的尺度”这一学说同存同亡。在《泰阿泰德篇》151–183 中，柏拉图论证：主张知识不过是感觉的泰阿泰德，经由来自冲突现象的论证，承诺了普罗塔戈拉的观点。若风对你显得冷、对我显得热，而知识不过是感觉，那么我们两人都必是对的，如普罗塔戈拉所说。
+  - id: 54
+    kind: body
+    source: |-
+      Plato goes on to argue that Protagoras is committed to the view that nothing is anything in itself (otherwise one might be wrong about how it really is) and to a “secret” Heraclitean doctrine of flux. In order to accommodate more and more conflicting appearances, and to avoid violating PNC, more and more flux is needed, until we reach a radical version of Heraclitus’s doctrine according to which everything is “so and not so” (*Tht* 183), with accompanying difficulties for ordinary language. The extended argument also contains a mini-argument, a “self-refutation”, where Plato draws the “exquisite” conclusion that Protagoras refutes himself if he agrees that other people disagree with his own view (*Tht* 171A-D). If they are right, then he must be wrong!
+    step1: |-
+      柏拉图进而论证：普罗塔戈拉承诺了“无物自在”（否则人可能对其真实所是判断错误），也承诺了一种“秘传的”赫拉克利特式流变说。为容纳越来越多的冲突现象，并避免违反不矛盾律，就需要越来越多的流变，直到达到赫拉克利特学说的极端版本：一切事物都“如此又不如此”（《泰阿泰德篇》183），并给日常语言带来相应困难。这一长篇论证还包含一个小论证，即“自我反驳”：柏拉图从中得出“精妙”的结论——若普罗塔戈拉同意别人与自己的观点不同，他便反驳了自己（《泰阿泰德篇》171A-D）。若他们是对的，他就必定是错的！
+    step2: |-
+      柏拉图进而论证：普罗塔戈拉承诺了“无物自在”（否则人可能对其真实所是判断错误），也承诺了一种“秘传的”赫拉克利特式流变说。为容纳越来越多的冲突现象，并避免违反不矛盾律，就需要越来越多的流变，直到达到赫拉克利特学说的极端版本：一切事物都“如此又不如此”（《泰阿泰德篇》183），并给日常语言带来相应困难。这一长篇论证还包含一个小论证，即“自我反驳”：柏拉图从中得出“精妙”的结论——若普罗塔戈拉同意别人与自己的观点不同，他便反驳了自己（《泰阿泰德篇》171A-D）。若他们是对的，他就必定是错的！
+  - id: 55
+    kind: body
+    source: |-
+      The details of Plato’s argument, the fairness and the success of his strategy against Theaetetus and Protagoras are matters of some controversy. A recent point of contention is whether Plato’s Protagoras is committed to a view of “relative truth” instead of flux, and how far Aristotle’s Protagoras is similar. What is less controversial is that elements of Plato’s discussion re-surface in Aristotle’s *Metaphysics* IV. Aristotle’s opponents are said to believe that knowledge is perception because they think that what they perceive is all that exists, and they are also said to be impressed by arguments from conflicting appearances. The thesis that knowledge is perception and an argument from conflicting appearances lead to Protagoras’s view in Plato’s *Theaetetus*. In *Metaphysics* IV 5, Aristotle agrees with Plato that Protagoras’s view and the suggestion that everything is “so and not so” (an expression echoed by Aristotle earlier at *Metaph* IV 4 1006a30–31) go hand in hand. The Protagoras of Plato’s *Theaetetus* and the PNC-opponent in *Metaphysics* IV 4 are said to be committed to the thesis that nothing is anything in itself, understood by Aristotle to mean that everything is accidental.
+    step1: |-
+      柏拉图论证的细节、其策略针对泰阿泰德与普罗塔戈拉是否公平、是否成功，都颇有争议。晚近一个争点是：柏拉图的普罗塔戈拉是否承诺“相对真理”观而非流变说，以及亚里士多德的普罗塔戈拉与之有多相似。较少争议的是：柏拉图讨论的要素在亚里士多德《形而上学》第四卷中重新浮现。亚里士多德的对手据说相信知识即感觉，因为他们认为所感知者便是存在的一切；据说他们还受来自冲突现象之论证的影响。“知识即感觉”这一论题与来自冲突现象的论证，在柏拉图《泰阿泰德篇》中导向普罗塔戈拉的观点。在《形而上学》IV 5 中，亚里士多德同意柏拉图：普罗塔戈拉的观点与“一切事物如此又不如此”这一说法（亚里士多德早前在《形而上学》IV 4 1006a30–31 也用过这一表述）携手而行。柏拉图《泰阿泰德篇》中的普罗塔戈拉与《形而上学》IV 4 中的不矛盾律对手，据说都承诺“无物自在”这一论题；亚里士多德将其理解为一切皆偶性。
+    step2: |-
+      柏拉图论证的细节、其策略针对泰阿泰德与普罗塔戈拉是否公平、是否成功，都颇有争议。晚近一个争点是：柏拉图的普罗塔戈拉是否承诺“相对真理”观而非流变说，以及亚里士多德的普罗塔戈拉与之有多相似。较少争议的是：柏拉图讨论的要素在亚里士多德《形而上学》第四卷中重新浮现。亚里士多德的对手据说相信知识即感觉，因为他们认为所感知者便是存在的一切；据说他们还受来自冲突现象之论证的影响。“知识即感觉”这一论题与来自冲突现象的论证，在柏拉图《泰阿泰德篇》中导向普罗塔戈拉的观点。在《形而上学》IV 5 中，亚里士多德同意柏拉图：普罗塔戈拉的观点与“一切事物如此又不如此”这一说法（他早前在《形而上学》IV 4 1006a30–31 也用过这一表述）携手而行。柏拉图《泰阿泰德篇》中的普罗塔戈拉与《形而上学》IV 4 中的不矛盾律对手，据说都承诺“无物自在”这一论题；亚里士多德将其理解为一切皆偶性。
+  - id: 56
+    kind: body
+    source: |-
+      While Aristotle does not saddle Heraclitus himself with the rejection of PNC, he notes that Heraclitus’s followers thought that there is so much change in the world that it is impossible to say anything true, and so Cratylus, one of their number, was reduced to wagging his finger. Cratylus was mistaken, according to Aristotle, because there is no radical flux. When things change, something persists, and even if the quantity of a thing is not constant, we know each thing by what sort of thing it is. Presumably, even if its water is constantly flowing, we can still identify a river. Aristotle points out that if there were radical flux, this would be tantamount to everything being at rest, so the idea of radical flux is contradictory.
+    step1: |-
+      亚里士多德虽未把拒斥不矛盾律的罪名安在赫拉克利特本人头上，却指出赫拉克利特的追随者认为世界变化如此之大，以致不可能说出任何真话；他们中的克拉底鲁因此沦落到只摇手指。按照亚里士多德，克拉底鲁错了，因为不存在极端流变。事物变化时总有某物持存；即便一物的量不恒定，我们也凭它是何种事物来认识每一事物。想必即便河水不断流动，我们仍能认出一条河。亚里士多德指出，若存在极端流变，那就无异于一切事物都静止；因此极端流变的想法自相矛盾。
+    step2: |-
+      亚里士多德虽未把拒斥不矛盾律的罪名安在赫拉克利特本人头上，却指出其追随者认为世界变化如此之大，以致不可能说出任何真话；他们中的克拉底鲁因此沦落到只摇手指。按照亚里士多德，克拉底鲁错了，因为不存在极端流变。事物变化时总有某物持存；即便一物的量不恒定，我们也凭它是何种事物来认识每一事物。想必即便河水不断流动，我们仍能认出一条河。亚里士多德指出，若存在极端流变，那就无异于一切事物都静止；因此极端流变的想法自相矛盾。
+  - id: 57
+    kind: body
+    source: |-
+      One way to think of Aristotle’s strategy in *Metaphysics* IV is as the reverse of Plato’s. If the PNC-opponent says something significant, for example, the beginning of Protagoras’s doctrine of the measure, “human being”, then she is committed to denying the thesis that nothing is anything in itself, and to accepting a non-Protagorean view. On this interpretation of Aristotle’s strategy, at least two puzzling features in Aristotle’s discussion are resolved, why he appears to be addressing someone who claims the contrary, and not the contradictory of PNC, and how Aristotle can argue from the second version of the principle of non-contradiction to the first. Since Plato’s Protagorean is forced to reject PNC across the board, Aristotle’s Protagorean PNC-skeptic would be an opponent who claims the contrary, not merely the contradictory, of PNC. In addition, a Protagorean PNC-skeptic, who accepts that “as things appear to one, so they are” would have to be impressed by an argument that shows that things cannot appear to him in a way that would violate PNC. On his own view, showing that PNC is indubitable would also show that it is true.
+    step1: |-
+      理解亚里士多德《形而上学》第四卷策略的一种方式，是把它看作柏拉图策略的倒转。若不矛盾律对手说出了某种有意义之言，例如普罗塔戈拉“尺度”学说开头的“人”，她便承诺否认“无物自在”这一论题，并接受一种非普罗塔戈拉式观点。按这种解释，亚里士多德讨论中至少两个令人困惑之处得到解决：为何他似乎针对一个主张不矛盾律之相反项（而非矛盾项）的人；以及他如何能从第二版本论证到第一版本。既然柏拉图的普罗塔戈拉式人物被迫全面拒斥不矛盾律，亚里士多德的不矛盾律怀疑者便是主张其相反项而非仅矛盾项的对手。此外，一个接受“事物向某人显现如何，它们便如何”的普罗塔戈拉式怀疑者，必会受这样一个论证触动：它表明事物不可能以违反不矛盾律的方式向他显现。按他自己的观点，表明不矛盾律无可怀疑，也就表明它为真。
+    step2: |-
+      理解亚里士多德《形而上学》第四卷策略的一种方式，是把它看作柏拉图策略的倒转。若不矛盾律对手说出了某种有意义之言，例如普罗塔戈拉“尺度”学说开头的“人”，她便承诺否认“无物自在”这一论题，并接受一种非普罗塔戈拉式观点。按这种解释，亚里士多德讨论中至少两个令人困惑之处得到解决：为何他似乎针对一个主张不矛盾律之相反项（而非矛盾项）的人；以及他如何能从第二版本论证到第一版本。既然柏拉图的普罗塔戈拉式人物被迫全面拒斥不矛盾律，亚里士多德的不矛盾律怀疑者便是主张其相反项而非仅矛盾项的对手。此外，一个接受“事物向某人显现如何，它们便如何”的普罗塔戈拉式怀疑者，必会受这样一个论证触动：它表明事物不可能以违反不矛盾律的方式向他显现。按他自己的观点，表明不矛盾律无可怀疑，也就表明它为真。
+  - id: 58
+    kind: body
+    source: |-
+      At this point, one might wonder if Protagoras can turn the tables on Aristotle. Certainly, to a Protagorean, showing that PNC is indubitable would show that it is true, but it also assumes his own view, that how things appear is how they are! Does Aristotle or Protagoras win? The same can be asked of the “exquisite” argument of Plato’s *Theaetetus*. Is Protagoras’s view refuted or confirmed? The Stoic Chrysippus apparently wrote a whole book, now lost, on such table-turning arguments.
+    step1: |-
+      至此，人们可以问普罗塔戈拉能否以其人之道还治亚里士多德。当然，对普罗塔戈拉主义者而言，表明不矛盾律无可怀疑也就表明它为真，但这同时假定了他自己的观点：事物显现如何，它们便如何！究竟亚里士多德赢还是普罗塔戈拉赢？对柏拉图《泰阿泰德篇》的“精妙”论证也可如此问：普罗塔戈拉的观点是被反驳了还是被证实了？据说斯多亚派克吕西波就这类“反将一军”的论证写了整整一本书，今已失传。
+    step2: |-
+      至此，人们可以问普罗塔戈拉能否以其人之道还治亚里士多德。当然，对普罗塔戈拉主义者而言，表明不矛盾律无可怀疑也就表明它为真，但这同时假定了自己的观点：事物显现如何，它们便如何！究竟亚里士多德赢还是普罗塔戈拉赢？对柏拉图《泰阿泰德篇》的“精妙”论证也可如此问：普罗塔戈拉的观点是被反驳了还是被证实了？据说斯多亚派克吕西波就这类“反将一军”的论证写了整整一本书，今已失传。
+  - id: 59
+    kind: body
+    source: |-
+      A further question surrounds the formulation of Protagoras’s own view. In *Metaphysics* IV 6, Aristotle explains how a Protagorean PNC-skeptic ought to present his view so as to avoid violating PNC: “those who seek to be compelled by argument, and at the same time demand to be called to account for their views, must guard themselves by saying that the truth is not that what appears exists, but that what appears exists for him to whom it appears, and when, and to the senses to which, and under the conditions under which it appears.” Otherwise, they will find themselves contradicting themselves (*Metaph* IV 6 1011a20–25). However, Aristotle still finds fault with this view because it makes everything relative to perception, including the perceiver. Not everything can be relative to perception, according to Aristotle. As he explains at the end of the previous chapter, there is something beyond perception that causes the perception and is prior. Aristotle uses his discussion of PNC and Protagoras to stake out a realist position.
+    step1: |-
+      进一步的问题围绕普罗塔戈拉本人观点的表述。《形而上学》IV 6 中，亚里士多德解释普罗塔戈拉式不矛盾律怀疑者应如何表述其观点以避免违反不矛盾律：“那些想受论证强制、同时又要求为自己的观点作出交代的人，必须如此设防：真理并非‘显现者存在’，而是‘显现者对于它向其显现的人、在它显现的时候、对它显现的感官、在它显现的条件下存在’。”否则他们就会自相矛盾（《形而上学》IV 6 1011a20–25）。然而，亚里士多德仍挑出这一观点的毛病，因为它使一切相对于感知，包括感知者。按照亚里士多德，并非一切都可相对于感知。正如他在前一章末尾所解释的，感知之外还有某种引起感知且在先的东西。亚里士多德借不矛盾律与普罗塔戈拉的讨论，标定出一种实在论立场。
+    step2: |-
+      进一步的问题围绕普罗塔戈拉本人观点的表述。《形而上学》IV 6 中，亚里士多德解释普罗塔戈拉式不矛盾律怀疑者应如何表述其观点以避免违反不矛盾律：“那些想受论证强制、同时又要求为自己的观点作出交代的人，必须如此设防：真理并非‘显现者存在’，而是‘显现者对于它向其显现的人、在它显现的时候、对它显现的感官、在它显现的条件下存在’。”否则他们就会自相矛盾（《形而上学》IV 6 1011a20–25）。然而，亚里士多德仍挑出这一观点的毛病：它使一切相对于感知，包括感知者。按照亚里士多德，并非一切都可相对于感知。正如他在前一章末尾所解释的，感知之外还有某种引起感知且在先的东西。他借不矛盾律与普罗塔戈拉的讨论，标定出一种实在论立场。
+  - id: 60
+    kind: body
+    source: |-
+      ## 10. Aristotle’s Conclusion and Implications for Ethics and Politics
+    step1: |-
+      ## 10 亚里士多德的结论及其伦理与政治含义
+    step2: |-
+      ## 10 亚里士多德的结论及其伦理与政治含义
+  - id: 61
+    kind: body
+    source: |-
+      At the end of chapter 6, Aristotle concludes, “Let this, then suffice to show (1) that the firmest belief is that opposite assertions are not true at the same time, (2) what happens to those who speak in this way and (3) why people do speak in this way” (*Metaph* IV 6 1011b13–15).
+    step1: |-
+      第 6 章末尾，亚里士多德总结道：“以上所述足以表明：（1）最牢固的信念是相反断言不可能同时为真；（2）如此说话者会有何种遭遇；（3）人们为何如此说话”（《形而上学》IV 6 1011b13–15）。
+    step2: |-
+      第 6 章末尾，亚里士多德总结道：“以上所述足以表明：（1）最牢固的信念是相反断言不可能同时为真；（2）如此说话者会有何种遭遇；（3）人们为何如此说话”（《形而上学》IV 6 1011b13–15）。
+  - id: 62
+    kind: body
+    source: |-
+      On the first point, as we saw, it is controversial whether Aristotle’s conclusion that the firmest belief is a belief in PNC carries with it the presupposition that PNC is true, a presupposition that is needed for his own project of first philosophy. On the third point, Aristotle discusses views about perception and change that lead people to say that they reject PNC. On the second point, Aristotle shows that those who *say* that they reject PNC do not really do so, or, if they do, they will be giving up intelligible discourse and action. It is controversial how much of an essentialist or indeed realist view one must accept if one accepts PNC, but it is clear that PNC is essential for the project of an Aristotelian science.
+    step1: |-
+      关于第一点，如我们所见，亚里士多德“最牢固信念即对不矛盾律的信念”这一结论是否带有“不矛盾律为真”的预设——而这一预设是其第一哲学计划所需——尚有争议。关于第三点，亚里士多德讨论导致人们声称拒斥不矛盾律的感知与变化观点。关于第二点，他表明：那些*说*自己拒斥不矛盾律的人其实并未真拒斥；或者，若真拒斥，他们就将放弃可理解的话语与行动。接受不矛盾律须同时接受多少本质主义、乃至实在论观点，尚有争议；但清楚的是，不矛盾律对亚里士多德式科学计划不可或缺。
+    step2: |-
+      关于第一点，如我们所见，亚里士多德“最牢固信念即对不矛盾律的信念”这一结论是否带有“不矛盾律为真”的预设——而这一预设是其第一哲学计划所需——尚有争议。关于第三点，他讨论导致人们声称拒斥不矛盾律的感知与变化观点。关于第二点，他表明：那些*说*自己拒斥不矛盾律的人其实并未真拒斥；或者，若真拒斥，他们就将放弃可理解的话语与行动。接受不矛盾律须同时接受多少本质主义、乃至实在论观点，尚有争议；但清楚的是，不矛盾律对亚里士多德式科学计划不可或缺。
+  - id: 63
+    kind: body
+    source: |-
+      Without PNC, Aristotle notes, beginners in philosophy who are interested in the truth would be off on a wild goose chase (*Metaph* IV 5 1009b36–8). This applies to both metaphysics and science, and to ethics and politics. Without PNC, and without the truth, we would be living in a world of mere sophistry and, although Aristotle fails to spell this out, power. Aristotle’s discussion of PNC, then, has broader ethical and political implications.
+    step1: |-
+      亚里士多德指出，没有不矛盾律，关心真理的哲学初学者便会走上歧途（《形而上学》IV 5 1009b36–8）。这既适用于形而上学与科学，也适用于伦理学与政治学。没有不矛盾律，没有真理，我们就会生活在一个纯属诡辩的世界里——而且，尽管亚里士多德未明说，也是一个权力至上的世界。因此，他对不矛盾律的讨论具有更广阔的伦理与政治含义。
+    step2: |-
+      亚里士多德指出，没有不矛盾律，关心真理的哲学初学者便会走上歧途（《形而上学》IV 5 1009b36–8）。这既适用于形而上学与科学，也适用于伦理学与政治学。没有不矛盾律，没有真理，我们就会生活在一个纯属诡辩的世界里——而且，尽管他未明说，也是一个权力至上的世界。因此，他对不矛盾律的讨论具有更广阔的伦理与政治含义。
+  - id: 64
+    kind: body
+    source: |-
+      ## 11. Dialetheism, Paraconsistency, and Aristotle
+    step1: |-
+      ## 11 双面真理论、弗协调性与亚里士多德
+    step2: |-
+      ## 11 双面真理论、弗协调性与亚里士多德
+  - id: 65
+    kind: body
+    source: |-
+      Aristotle’s account of the PNC has been challenged anew by modern-day dialetheists, who hold that there are some true contradictions, and that Aristotle’s discussion fails to show otherwise. One approach is to argue that some of Aristotle’s discussion of PNC begs the question in favor of PNC. (Of course, Aristotle would agree that any argument in favor of PNC must beg the question.) Another approach is for dialetheists to refuse to let the Aristotelian reformulate their supposed counterexamples to PNC by adding qualifications so that these supposed counterexamples do not violate PNC after all. The Aristotelian can counter that without those qualifications the dialetheist has not said anything meaningful at all. Finally, the dialetheist may ask how Aristotle would deal with the liar’s paradoxical sentence “I am lying”. Why is this not both true and false at the same time as the dialetheist contends?
+    step1: |-
+      亚里士多德对不矛盾律的说明，近来受到当代双面真理论者的新挑战。他们主张存在某些真矛盾，而亚里士多德的讨论未能表明不是这样。一种进路是论证：亚里士多德关于不矛盾律的某些讨论以不矛盾律为论题而窃取论题。（当然，亚里士多德会同意：任何支持不矛盾律的论证都必定窃取论题。）另一种进路是：双面真理论者拒绝让亚里士多德派通过增加限定来重新表述其所谓的反例，使这些反例终究不违反不矛盾律。亚里士多德派可以回应：没有这些限定，双面真理论者根本没说任何有意义的话。最后，双面真理论者可以问：亚里士多德会如何处理说谎者悖论句“我正在说谎”？为何它不像双面真理论者所主张的那样同时为真又为假？
+    step2: |-
+      亚里士多德对不矛盾律的说明，近来受到当代双面真理论者的新挑战。他们主张存在某些真矛盾，而亚里士多德的讨论未能表明不是这样。一种进路是论证：亚里士多德关于不矛盾律的某些讨论以不矛盾律为论题而窃取论题。（当然，亚里士多德会同意：任何支持不矛盾律的论证都必定窃取论题。）另一种进路是：双面真理论者拒绝让亚里士多德派通过增加限定来重新表述其所谓的反例，使这些反例终究不违反不矛盾律。亚里士多德派可以回应：没有这些限定，双面真理论者根本没说任何有意义的话。最后，双面真理论者可以问：亚里士多德会如何处理说谎者悖论句“我正在说谎”？为何它不像双面真理论者所主张的那样同时为真又为假？
+  - id: 66
+    kind: body
+    source: |-
+      Besides dialetheists, some modern logicians, who need not be dialetheists, think that logic can be paraconsistent, i.e., that, contrary to classical logic, one contradiction need not lead to an explosion where anything goes. While Aristotle is obviously not a dialetheist, it is not clear where he stands on the issue of paraconsistency in *Metaph* IV. Although Aristotle does claim that if his opponent rejects PNC across the board, she is committed to a world in which anything goes, he never argues that if (*per impossibile*) his opponent is committed to one contradiction, she is committed to anything, and he even considers that the opponent’s view might apply to some statements but not to others (*Metaph* IV 4 1008a10–12). However one understands these passages, in the *Prior Analytics*, Aristotle does commit himself to the view that syllogistic is paraconsistent (*APr.* II 15 64a15).
+    step1: |-
+      除双面真理论者外，一些现代逻辑学家（不必是双面真理论者）认为逻辑可以是弗协调的，即与经典逻辑相反，一个矛盾不必导致“什么都行”的爆炸。亚里士多德显然不是双面真理论者，但他在《形而上学》第四卷中对弗协调性问题持何立场并不清楚。尽管他确实主张：若对手全面拒斥不矛盾律，她便承诺一个什么都行的世界；他却从未论证：若（不可能地）对手承诺一个矛盾，她便承诺一切。他甚至考虑对手的观点可能适用于某些陈述而不适用于另一些（《形而上学》IV 4 1008a10–12）。无论怎样理解这些段落，在《前分析篇》中，亚里士多德确实承诺三段论是弗协调的（《前分析篇》II 15 64a15）。
+    step2: |-
+      除双面真理论者外，一些现代逻辑学家（不必是双面真理论者）认为逻辑可以是弗协调的，即与经典逻辑相反，一个矛盾不必导致“什么都行”的爆炸。亚里士多德显然不是双面真理论者，但他在《形而上学》第四卷中对弗协调性问题持何立场并不清楚。尽管他确实主张：若对手全面拒斥不矛盾律，她便承诺一个什么都行的世界；他却从未论证：若（不可能地）对手承诺一个矛盾，她便承诺一切。他甚至考虑对手的观点可能适用于某些陈述而不适用于另一些（《形而上学》IV 4 1008a10–12）。无论怎样理解这些段落，在《前分析篇》中，亚里士多德确实承诺三段论是弗协调的（《前分析篇》II 15 64a15）。
+  - id: 67
+    kind: body
+    source: |-
+      ## 12. *Posterior Analytics* I 11
+    step1: |-
+      ## 12 《后分析篇》I 11
+    step2: |-
+      ## 12 《后分析篇》I 11
+  - id: 68
+    kind: body
+    source: |-
+      This is an intriguing and relatively neglected text. At first sight it looks as if Aristotle is presenting a valid argument that includes contradictions as some of the premises, which would be surprising given his account of PNC in *Metaphysics* IV. However, the text is even more obscure than usual.
+    step1: |-
+      这是一篇引人入胜却相对受忽视的文本。乍看，亚里士多德似乎在提出一个有效论证，其前提中包含矛盾；鉴于他在《形而上学》第四卷中对不矛盾律的说明，这会令人惊讶。然而，这篇文本比通常更为晦涩。
+    step2: |-
+      这是一篇引人入胜却相对受忽视的文本。乍看，亚里士多德似乎在提出一个有效论证，其前提中包含矛盾；鉴于他在《形而上学》第四卷中对不矛盾律的说明，这会令人惊讶。然而，这篇文本比通常更为晦涩。
+  - id: 69
+    kind: body
+    source: |-
+      There are two basic interpretations. According to one interpretation, Aristotle does indeed include contradictions, but these are idle and play no real logical role in the argument he presents. According to the other interpretation, following Aquinas’s commentary (lecture 20), Aristotle is not claiming that Callias both is and is not Callias or that he is and is not a human being, for example, but that the term “animal”covers Callias and those who are not Callias and not human beings, as Aristotle himself explains when he says that the major term (“animal”) is more extensive than the middle term (“human”). (In the syllogism All *A*s are *B*s; All *B*s are *C*s; therefore All *A*s are *C*s, “A” is the major term and “*B*” is the middle term.)
+    step1: |-
+      有两种基本解释。按一种解释，亚里士多德确实纳入了矛盾，但这些矛盾是闲置的，在他所呈现的论证中不起真正逻辑作用。按另一种解释（依阿奎那评注，第 20 讲），亚里士多德并非主张卡里亚斯既是又不是卡里亚斯，或既是人又不是人，而是主张“动物”一词涵盖卡里亚斯以及那些不是卡里亚斯、不是人者；正如他本人所解释的：大词（“动物”）比中词（“人”）外延更广。（在三段论“所有*A*是*B*；所有*B*是*C*；所以所有*A*是*C*”中，“A”是大词，“*B*”是中词。）
+    step2: |-
+      有两种基本解释。按一种解释，亚里士多德确实纳入了矛盾，但这些矛盾是闲置的，在他所呈现的论证中不起真正逻辑作用。按另一种解释（依阿奎那评注，第 20 讲），亚里士多德并非主张卡里亚斯既是又不是卡里亚斯，或既是人又不是人，而是主张“动物”一词涵盖卡里亚斯以及那些不是卡里亚斯、不是人者；正如他本人所解释的：大词（“动物”）比中词（“人”）外延更广。（在三段论“所有*A*是*B*；所有*B*是*C*；所以所有*A*是*C*”中，“A”是大词，“*B*”是中词。）
+  - id: 70
+    kind: body
+    source: |-
+      There are difficulties with both interpretations. Aristotle starts by saying that no demonstration assumes PNC unless it concludes that *x* is *F* and not not-*F*. According to the first interpretation, Aristotle’s explanation about the major and middle term is unnecessary. However, according to the second interpretation, the relationship between Aristotle’s main point and his comments about PNC is obscure. The text invites further elucidation.
+    step1: |-
+      两种解释各有困难。亚里士多德开篇说，除非一个证明的结论是*x*是*F*且不是非-*F*，否则它不预设不矛盾律。按第一种解释，亚里士多德关于大词与中词的说明便是多余的。然而，按第二种解释，他的主要观点与关于不矛盾律的评论之间的关系又晦涩不明。这篇文本有待进一步阐明。
+    step2: |-
+      两种解释各有困难。亚里士多德开篇说，除非一个证明的结论是*x*是*F*且不是非-*F*，否则它不预设不矛盾律。按第一种解释，他关于大词与中词的说明便是多余的。然而，按第二种解释，其主要观点与关于不矛盾律的评论之间的关系又晦涩不明。这篇文本有待进一步阐明。
+  - id: 71
+    kind: oir
+    source: |-
+      - For Greek texts, translations and more, see the [Perseus Project](http://www.perseus.tufts.edu/)
+      - For detailed analyses and commentaries on selected Greek texts, see [Project Archelogos](http://www.archelogos.co/)
+    step1: |-
+      - 希腊语文本、译本及更多资料，见[珀尔修斯项目](http://www.perseus.tufts.edu/)
+      - 关于所选希腊语文本的详细分析与评注，见[Archelogos 项目](http://www.archelogos.co/)
+    step2: |-
+      - 希腊语文本、译本及更多资料，见[珀尔修斯项目](http://www.perseus.tufts.edu/)
+      - 关于所选希腊语文本的详细分析与评注，见[Archelogos 项目](http://www.archelogos.co/)
