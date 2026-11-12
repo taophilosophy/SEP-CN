@@ -2,10 +2,347 @@
  "key": "school divinity",
  "term": "school divinity",
  "provider": "termonline-all",
- "queried_at": "2026-11-12T01:04:30+00:00",
- "status": "error",
- "note": "variant=school divinity; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "school divinity: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T06:19:20+00:00",
+ "status": "ok",
+ "note": "variant=school divinity; 审定公布名词库=791; 海峡两岸名词对照库=93; 其他来源数据库=51; 预公布名词数据库=204; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "卜",
+   "en": "bu;divination",
+   "code": "2.468",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_先秦_宗教"
+  },
+  {
+   "cn": "贞人",
+   "en": "zhen ren;diviner",
+   "code": "2.109",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_先秦_政治_中央及地方职官"
+  },
+  {
+   "cn": "卜人",
+   "en": "bu ren;diviner",
+   "code": "2.128",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_先秦_政治_中央及地方职官"
+  },
+  {
+   "cn": "风角",
+   "en": "feng jiao;wind divination",
+   "code": "1.494",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_通论_思想文化_科技"
+  },
+  {
+   "cn": "太卜",
+   "en": "tai bu;grand diviner",
+   "code": "2.108",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_先秦_政治_中央及地方职官"
+  },
+  {
+   "cn": "卜辞",
+   "en": "bu ci;divination inscriptions",
+   "code": "2.397",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_先秦_思想文化_思想学术"
+  },
+  {
+   "cn": "卜夕",
+   "en": "bu xi;evening divination",
+   "code": "2.469",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_先秦_宗教"
+  },
+  {
+   "cn": "习卜",
+   "en": "xi bu;repeat divination",
+   "code": "2.471",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_先秦_宗教"
+  },
+  {
+   "cn": "筮",
+   "en": "shi;counting rod divination",
+   "code": "2.473",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_先秦_宗教"
+  },
+  {
+   "cn": "数学学派",
+   "en": "quantitative school,mathematical school",
+   "code": "01.0441",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_管理思想史"
+  },
+  {
+   "cn": "小学",
+   "en": "elementary school,primary school",
+   "code": "07.001",
+   "standard": "教育学名词",
+   "subject": "教育学_初等中等教育"
+  },
+  {
+   "cn": "国民学校",
+   "en": "folk school,compulsory school",
+   "code": "04.140",
+   "standard": "教育学名词",
+   "subject": "教育学_外国教育史_近现代"
+  },
+  {
+   "cn": "神圣之诗",
+   "en": "Divine Poem\",\"The",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "维也纳学派",
+   "en": "Viennese school\",\"Vienna school",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "学校心理学",
+   "en": "school psychology",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "认知学派",
+   "en": "cognitive school",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "奥地利学派",
+   "en": "Austrian school",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "哥伦比亚学派",
+   "en": "Columbia school",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "皮亚杰学派",
+   "en": "Piagetian school",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "曼海姆乐派",
+   "en": "Mannheim School",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "那不勒斯乐派",
+   "en": "Neapolitan School",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "日内瓦学派",
+   "en": "Geneva school",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "学校恐惧症",
+   "en": "school phobia",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "芝加哥学派",
+   "en": "Chicago school",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "调教",
+   "en": "school\",\"schooling",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "独立学校",
+   "en": "independent school",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "中学",
+   "en": "secondary school",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "安全教育",
+   "en": "（school security",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "伯明翰学派",
+   "en": "Birmingham School",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "室内驯马场",
+   "en": "indoor school",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "高级骑术学校",
+   "en": "high school",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "驯马场",
+   "en": "riding school",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "室外驯马场",
+   "en": "outdoor school",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "调教步法",
+   "en": "school pace",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "符号主义学派",
+   "en": "school of symbolicism",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "连接主义学派",
+   "en": "school of connectionism",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "占卜",
+   "en": "divination",
+   "code": "4.2.9.34",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_文化现象"
+  },
+  {
+   "cn": "占卜",
+   "en": "divination",
+   "code": "4.0301",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "神判",
+   "en": "divine judgments",
+   "code": "4.0316",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "学校",
+   "en": "school",
+   "code": "4.4.9.28",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作实务"
+  },
+  {
+   "cn": "芝加哥学派",
+   "en": "Chicago school",
+   "code": "3.4.4.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_城市社会学_城市理论或流派"
+  },
+  {
+   "cn": "公学",
+   "en": "public school",
+   "code": "3.12.5.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学教育社会学"
+  },
+  {
+   "cn": "社学",
+   "en": "community school",
+   "code": "3.12.9.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学教育社会学"
+  },
+  {
+   "cn": "霸凌",
+   "en": "school bullying",
+   "code": "4.4.9.27",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作实务"
+  },
+  {
+   "cn": "学院督导",
+   "en": "school supervisor",
+   "code": "4.4.11.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作实习"
+  },
+  {
+   "cn": "德波林学派",
+   "en": "Deborin school",
+   "code": "04.0360",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_主要思想流派_列宁斯大林时期"
+  },
+  {
+   "cn": "法兰克福学派",
+   "en": "Frankfurt School",
+   "code": "05.0011",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "调节学派",
+   "en": "regulation school",
+   "code": "05.0155",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外经济学理论"
+  }
+ ],
+ "error": null,
  "raw": null
 }

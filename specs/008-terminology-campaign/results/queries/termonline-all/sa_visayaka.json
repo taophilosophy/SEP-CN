@@ -2,10 +2,228 @@
  "key": "sa-visayaka",
  "term": "sa-viṣayaka",
  "provider": "termonline-all",
- "queried_at": "2026-11-12T00:52:29+00:00",
- "status": "error",
- "note": "variant=sa-viṣayaka; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "sa-viṣayaka: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T06:16:20+00:00",
+ "status": "ok",
+ "note": "variant=sa-viṣayaka; 审定公布名词库=39; 海峡两岸名词对照库=14; 其他来源数据库=0; 预公布名词数据库=7; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "撒",
+   "en": "sa",
+   "code": "11.0164",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林艺术_插花艺术"
+  },
+  {
+   "cn": "抗Sa抗体",
+   "en": "anti-Sa antibody",
+   "code": "2.329",
+   "standard": "免疫学名词",
+   "subject": "免疫学_免疫系统_免疫分子"
+  },
+  {
+   "cn": "骶前位",
+   "en": "sacroanterior;SA",
+   "code": "10.025",
+   "standard": "妇产科学名词",
+   "subject": "妊娠诊断_母体生理变化"
+  },
+  {
+   "cn": "选择可用性",
+   "en": "selective availability,SA",
+   "code": "02.636",
+   "standard": "测绘学名词",
+   "subject": "测绘学_大地测量学与导航定位"
+  },
+  {
+   "cn": "水杨酸",
+   "en": "salicylic acid,SA",
+   "code": "11.0544",
+   "standard": "植物学名词",
+   "subject": "植物学_植物生理学_植物生长物质"
+  },
+  {
+   "cn": "安全关联",
+   "en": "security association,SA",
+   "code": "09.0939",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_网络管理与安全"
+  },
+  {
+   "cn": "选择利用性",
+   "en": "selective availability,SA",
+   "code": "05.585",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天控制与导航"
+  },
+  {
+   "cn": "选择可用性",
+   "en": "selective availability,SA",
+   "code": "04.0014",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_电子航海"
+  },
+  {
+   "cn": "水杨酸",
+   "en": "salicylic acid;SA",
+   "code": "9.0321",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_激素与维生素_激素_植物激素"
+  },
+  {
+   "cn": "比活性",
+   "en": "specific activity;SA",
+   "code": "1.0175",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_总论"
+  },
+  {
+   "cn": "继发性醛固酮症",
+   "en": "secondary aldoste-ronism,SA",
+   "code": "04.604",
+   "standard": "老年医学名词",
+   "subject": "老年医学_老年临床医学_老年内分泌系统疾病"
+  },
+  {
+   "cn": "模拟退火算法",
+   "en": "simulated annea-ling; SA",
+   "code": "08.0260",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_勘探地球物理学_地震勘探"
+  },
+  {
+   "cn": "Sa型星系",
+   "en": "Sa galaxy",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "抗Sa抗体",
+   "en": "anti-Sa antibody",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "水杨酸",
+   "en": "salicylic acid\",\"SA",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "球差",
+   "en": "spherical aberration\",\"SA",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "选区",
+   "en": "Selected Area\",\"SA",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "比活性",
+   "en": "specific activity\",\"SA",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "水杨酸, 邻羟基苯甲酸",
+   "en": "salicylic acid\",\"SA",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "选择可用性",
+   "en": "selective availability\",\"SA",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "选择可用性",
+   "en": "selective availability\",\"SA",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "自由号卫星",
+   "en": "Uhuru\",\"SAS-A",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "小角散射",
+   "en": "small angle scattering\",\"SAS",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "圣-桑斯",
+   "en": "Saint-Saëns\",\"Camille(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "抗Sa抗体",
+   "en": "anti-Sa antibody",
+   "code": "1.5.3.27",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体"
+  },
+  {
+   "cn": "萨迦寺",
+   "en": "Sa skya dgon",
+   "code": "3.056",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "萨迦派",
+   "en": "Sa skya pa",
+   "code": "3.0481",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "萨迦政权",
+   "en": "Sa skyavi srid dbang",
+   "code": "3.053",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "《萨迦格言》",
+   "en": "Sa skya legs bshad",
+   "code": "3.0359",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "大昭寺",
+   "en": "Lha sa gzug lag khang/ Ra sa vphrul snang khang",
+   "code": "3.057",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "萨班•贡噶坚赞",
+   "en": "Sa pan kun dgav rgyal mtshan",
+   "code": "3.041",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  }
+ ],
+ "error": null,
  "raw": null
 }

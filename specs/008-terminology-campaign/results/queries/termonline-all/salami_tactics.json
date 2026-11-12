@@ -2,10 +2,347 @@
  "key": "salami tactics",
  "term": "salami tactics",
  "provider": "termonline-all",
- "queried_at": "2026-11-12T00:56:59+00:00",
- "status": "error",
- "note": "variant=salami tactics; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "salami tactics: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T06:16:20+00:00",
+ "status": "ok",
+ "note": "variant=salami tactics; 审定公布名词库=367; 海峡两岸名词对照库=52; 其他来源数据库=53; 预公布名词数据库=27; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "萨拉米斯战役",
+   "en": "Battle of Salamis",
+   "code": "02.0311",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_希腊"
+  },
+  {
+   "cn": "立构规整度",
+   "en": "tacticity",
+   "code": "1.0049",
+   "standard": "化工名词（七）高分子化工",
+   "subject": "化工（七）_通类"
+  },
+  {
+   "cn": "立构规整度",
+   "en": "tacticity",
+   "code": "08.2486",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_软物质物理"
+  },
+  {
+   "cn": "编码化策略",
+   "en": "codification tactics",
+   "code": "03.0785",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_知识管理"
+  },
+  {
+   "cn": "个性化策略",
+   "en": "personalization tactics",
+   "code": "03.0786",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_知识管理"
+  },
+  {
+   "cn": "心理战术",
+   "en": "psychological tactics",
+   "code": "14.049",
+   "standard": "心理学名词",
+   "subject": "心理学_运动心理学"
+  },
+  {
+   "cn": "战术情报",
+   "en": "tactical intelligence",
+   "code": "01.254",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_图书馆学情报学基础_情报学"
+  },
+  {
+   "cn": "战术信息",
+   "en": "tactical information",
+   "code": "03.0110",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_管理信息系统"
+  },
+  {
+   "cn": "战术性行为",
+   "en": "tactical action",
+   "code": "01.0690",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_战略管理"
+  },
+  {
+   "cn": "战术思维",
+   "en": "tactical thinking",
+   "code": "14.050",
+   "standard": "心理学名词",
+   "subject": "心理学_运动心理学"
+  },
+  {
+   "cn": "策略中心",
+   "en": "Tactical Center",
+   "code": "05.0371",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人"
+  },
+  {
+   "cn": "战术直径",
+   "en": "tactical diameter",
+   "code": "03.296",
+   "standard": "船舶工程名词",
+   "subject": "船舶工程_船舶性能及其试验"
+  },
+  {
+   "cn": "战术情报",
+   "en": "tactical intelligence",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "立构规整度",
+   "en": "stereo-regularity\",\"tacticity",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "立构规整度",
+   "en": "tacticity\",\"stereo-regularity",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "有规立构聚合物",
+   "en": "stereoregular polymer\",\"tactic polymer",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "有规立构聚合物",
+   "en": "tactic polymer\",\"stereoregular polymer",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "旋回半径",
+   "en": "turning radius\",\"tactical diameter",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "回转直径",
+   "en": "steady turning diameter\",\"tactical diameter",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "塔康，战术空中导航系统",
+   "en": "tactical air navigation system，TACAN",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "罗坦系统，远程战术导航系统",
+   "en": "long range and tactical navigation system，LORTAN",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "伏塔克",
+   "en": "VHF omnirange and tactical air navigation system，VORTAC",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "activity",
+   "en": "[]",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "intersection",
+   "en": "[]",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "战术",
+   "en": "tactics",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_手球名词"
+  },
+  {
+   "cn": "战术",
+   "en": "tactics",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "战术",
+   "en": "tactics",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_水球名词"
+  },
+  {
+   "cn": "战术",
+   "en": "tactics",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "战术",
+   "en": "tactics",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "战术",
+   "en": "tactics",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "战术",
+   "en": "tactics",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "战术",
+   "en": "tactics",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "战术",
+   "en": "tactics",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_篮球名词"
+  },
+  {
+   "cn": "战术",
+   "en": "tactics",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_乒乓球名词"
+  },
+  {
+   "cn": "战术",
+   "en": "tactics",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "进攻战术",
+   "en": "attacking tactics\",\"offensive tactics",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "战略和策略",
+   "en": "strategy and tactic",
+   "code": "04.0082",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_列宁斯大林时期"
+  },
+  {
+   "cn": "战术核武器",
+   "en": "tactical nuclear weapon",
+   "code": "7.1.1.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件基础名词"
+  },
+  {
+   "cn": "无产阶级斗争策略",
+   "en": "tactics of proletarian struggle",
+   "code": "03.0189",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "政策和策略思想",
+   "en": "thought about policy and tactic",
+   "code": "03.0429",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "以革命两手对付反革命两手",
+   "en": "using revolutionary doublefaced tactics to deal with the doublefaced tactics taken by counterrevolutionaries",
+   "code": "03.0444",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "政策和策略是党的生命",
+   "en": "policy and tactics are the lifeblood of the party",
+   "code": "03.0430",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "人民战争的战略战术原则",
+   "en": "principles of military strategy and tactics in the peoples war",
+   "code": "03.0414",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "战略上藐视敌人战术上重视敌人",
+   "en": "strategically take the enemy lightly and tactically take the enemy seriously",
+   "code": "03.0431",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "code": "6.4.2.60",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "code": "6.4.2.61",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "code": "8.2.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生监管_工业及其他应用监管"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "code": "6.4.2.69",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护"
+  }
+ ],
+ "error": null,
  "raw": null
 }

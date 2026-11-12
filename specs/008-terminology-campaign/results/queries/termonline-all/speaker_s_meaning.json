@@ -2,10 +2,347 @@
  "key": "speaker's meaning",
  "term": "speaker's meaning",
  "provider": "termonline-all",
- "queried_at": "2026-11-12T01:16:31+00:00",
- "status": "error",
- "note": "variant=speaker's meaning; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "speaker's meaning: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T06:23:50+00:00",
+ "status": "ok",
+ "note": "variant=speaker's meaning; 审定公布名词库=3387; 海峡两岸名词对照库=938; 其他来源数据库=147; 预公布名词数据库=148; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "意义",
+   "en": "meaning",
+   "code": "6.05",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播总论_传播研究基础"
+  },
+  {
+   "cn": "意义",
+   "en": "meaning",
+   "code": "01.108",
+   "standard": "语言学名词",
+   "subject": "语言学_理论语言学_核心术语"
+  },
+  {
+   "cn": "均值",
+   "en": "mean",
+   "code": "19.173",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传媒经济_传媒经济研究"
+  },
+  {
+   "cn": "平均数",
+   "en": "mean",
+   "code": "05.134",
+   "standard": "肠外肠内营养学名词",
+   "subject": "肠外肠内营养学_基础研究与临床研究_临床研究"
+  },
+  {
+   "cn": "均值",
+   "en": "mean",
+   "code": "25.084",
+   "standard": "地理学名词",
+   "subject": "地理学_数量地理学"
+  },
+  {
+   "cn": "均值",
+   "en": "mean",
+   "code": "09.0115",
+   "standard": "数学名词",
+   "subject": "数学_概率论_数理统计_随机变量"
+  },
+  {
+   "cn": "引申义",
+   "en": "extensional meaning,denotative meaning",
+   "code": "05.146",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_词义"
+  },
+  {
+   "cn": "本义",
+   "en": "original meaning,basic meaning",
+   "code": "10.039",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_词义"
+  },
+  {
+   "cn": "概念义",
+   "en": "ideational meaning,conceptual meaning",
+   "code": "05.136",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_词义"
+  },
+  {
+   "cn": "平位置",
+   "en": "mean position; mean place",
+   "code": "02.138",
+   "standard": "天文学名词",
+   "subject": "天文学_天体测量学"
+  },
+  {
+   "cn": "k均值聚类",
+   "en": "k-means,C-means",
+   "code": "08.0275",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_机器学习"
+  },
+  {
+   "cn": "意义协调",
+   "en": "meaning coordination",
+   "code": "6.052",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播总论_传播研究基础"
+  },
+  {
+   "cn": "意义",
+   "en": "meaning",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "均值",
+   "en": "mean",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "平均数",
+   "en": "mean",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "均值",
+   "en": "mean",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "平位置",
+   "en": "mean position\",\"mean place",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "意义归因",
+   "en": "meaning attribution",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "意义编码",
+   "en": "meaning encoding",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "意义域",
+   "en": "meaning domain",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "加权平均",
+   "en": "weighted mean",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "年平均",
+   "en": "annual mean",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "平均环流",
+   "en": "mean circulation",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "平均[气]流",
+   "en": "mean flow",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "格义",
+   "en": "Matching Meanings",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "平均数",
+   "en": "Mean, Average",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "调和平均数",
+   "en": "harmonic mean",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "正义",
+   "en": "Correct Meaning / Justice",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "劳动资料",
+   "en": "means of labor",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "政者正也",
+   "en": "Governance Means Rectitude.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "平均红细胞血红蛋白含量",
+   "en": "mean corpuscular hemoglobin",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "K均值聚类",
+   "en": "K-means clustering",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "均值漂移聚类",
+   "en": "mean shift clustering",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "平均自由程",
+   "en": "mean free path",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "中庸",
+   "en": "Zhongyong (The Golden Mean)",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "时中",
+   "en": "Follow the Golden Mean",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "意义",
+   "en": "meaning",
+   "code": "4.2.3.11",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念"
+  },
+  {
+   "cn": "意义",
+   "en": "meaning",
+   "code": "5.0042",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "平均值",
+   "en": "mean",
+   "code": "1.5.24",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险监测"
+  },
+  {
+   "cn": "语境意义",
+   "en": "situated meaning",
+   "code": "5.0111",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_语言状况与规划"
+  },
+  {
+   "cn": "平均寿命",
+   "en": "mean life",
+   "code": "3.2.1.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量"
+  },
+  {
+   "cn": "平均年龄",
+   "en": "mean age",
+   "code": "4.5.7.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_人口社会学_年龄性别结构"
+  },
+  {
+   "cn": "行政手段",
+   "en": "administrative means",
+   "code": "6.4.1.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用"
+  },
+  {
+   "cn": "法律手段",
+   "en": "legal means",
+   "code": "6.4.1.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用"
+  },
+  {
+   "cn": "视听手段",
+   "en": "audiovisual mean",
+   "code": "5.2.3.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法"
+  },
+  {
+   "cn": "意义中心论",
+   "en": "meaning-centered theory",
+   "code": "1.0246",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "平均穿透深度",
+   "en": "mean penetration depth",
+   "code": "3.2.3.13",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量"
+  },
+  {
+   "cn": "平均自由程",
+   "en": "mean free path",
+   "code": "3.2.3.14",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量"
+  }
+ ],
+ "error": null,
  "raw": null
 }
