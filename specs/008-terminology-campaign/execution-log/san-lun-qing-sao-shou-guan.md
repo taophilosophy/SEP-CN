@@ -138,3 +138,5 @@ TL-main-20261112 续：凭证文件名缺陷修复、重复行归一与清扫收
 * **ADR-0036 改名适配**：并行会话按用户裁定把术语登记册 `yi-zhe-shuo-ming.md` 改名 `shu-yu-biao.md`（词汇表并网），
   `check_terms.py` 先行改指；本线补齐 `cnki_query.py`/`registry_azsort.py`/`term_audit.py` 三处路径（提交 29b4ac74b），
   emit/audit 均按新名正常工作。**后续术语跑批一律以 `shu-yu-biao.md` 为准**。
+* 追加 10 项（前批降级词＋新登记行）跑完；审计 一致 1099 / 不一致 753 / 查无 4389 / 未查证 4235；
+  新增不一致 1 条保留：affectedness「受影响」（审定命中为集体消费理论垃圾池）。

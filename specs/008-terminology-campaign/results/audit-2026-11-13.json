@@ -6,10 +6,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "未查证": 4243,
-  "查无": 4383,
-  "一致": 1097,
-  "不一致": 753
+  "查无": 4389,
+  "不一致": 753,
+  "一致": 1099,
+  "未查证": 4235
  },
  "results": [
   {
@@ -18,9 +18,11 @@
    "term": "absence theory (of evil)",
    "trans": "缺失论",
    "basis": "本词条译名（与 privation 褫夺论 分列）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -28,9 +30,24 @@
    "term": "affectedness",
    "trans": "受影响",
    "basis": "与 subjectedness 受治对举",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "集体消费理论 collective consumption",
+     "en": null,
+     "source": "社会学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "净人口再生产率net reproductive rate",
+     "en": null,
+     "source": "社会学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -50,9 +67,11 @@
    "term": "agency slack",
    "trans": "代理松弛",
    "basis": "委托—代理理论通行",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -120,9 +139,30 @@
    "term": "anaphora",
    "trans": "回指",
    "basis": "学界通行；凭证 2026-11-12",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "指代",
+     "en": "anaphora",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "回指",
+     "en": "anaphora",
+     "source": "语言学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "回指",
+     "en": "anaphora",
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -130,9 +170,11 @@
    "term": "anaphoric index",
    "trans": "回指索引",
    "basis": "学界通行（DMG/ITL 形式语义）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -225,9 +267,11 @@
    "term": "antelapsarian state",
    "trans": "堕落前状态",
    "basis": "神学通行（亚当堕落前的状态）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -235,9 +279,11 @@
    "term": "appositive",
    "trans": "同位语",
    "basis": "语法通行（与同位语从句同族）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -245,9 +291,11 @@
    "term": "assertoric force",
    "trans": "断言之力",
    "basis": "言语行为理论惯例（assertoric 断言的）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -28074,9 +28122,9 @@
    "table": "术语",
    "line": 1314,
    "term": "deliberative democracy",
-   "trans": "审议民主",
-   "basis": "学界通行（deliberation 已登“审议”）",
-   "status": "不一致",
+   "trans": "审议民主（亦作“协商民主”）",
+   "basis": "学界通行（deliberation 已登“审议”）；亦作记审定·政治学作“协商民主/协商式民主”，正文 12:2 通行“审议民主”（裁定 2026-11-13 保留现译）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
