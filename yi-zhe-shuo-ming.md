@@ -1961,7 +1961,7 @@
 | First / Later Diffusion of Buddhism | — | 前弘期／后弘期 | epistemology-language-tibetan | 藏学界通行 | 2026-11-04 |
 | First Analogy | — | 第一类比 | kant-transcendental | 学界通行（康德 A182，类比章译“类比”）；凭证 2026-11-11 | 2026-11-11 |
 | first cause | — | 第一因 | crescas | 学界通行；凭证 2026-11-08 | 2026-11-08 |
-| First Degree Entailment (FDE) | — | FDE（First Degree Entailment） | logic-relevance | 无审定汉译，正文保留英文，待裁定；凭证 2026-11-09 | 2026-11-09 |
+| First Degree Entailment (FDE) | — | FDE（First Degree Entailment） | logic-relevance | 2026-11-13 裁定：正文保留 FDE 缩写、首现括注英文全称，不新造汉译——两轮联网检索（中文逻辑文献＋普里斯特著作中译情况）均无审定译名；候选「一阶衍推」因与 first-order（一阶）冲突弃用，「第一度衍推」未见通行使用；凭证 2026-11-13 | 2026-11-13 |
 | first intention | — | 第一意向 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | first meaning | — | 第一意义 | idiolects | 戴维森术语（Davidson 1986）；凭证 2026-11-11 | 2026-11-11 |
 | first mover | — | 第一推动者 | cordemoy 补登 | 学界通行（亚里士多德—经院—笛卡尔宇宙论）；凭证 2026-11-09 | 2026-11-09 |
