@@ -389,86 +389,114 @@ segments:
     kind: body
     source: |-
       We now turn to the notion of intrinsicality characterised by the characterisations listed in section 1. Or perhaps better, we now turn to the *notions* of intrinsicality characterised by these characterisations, since, while Lewis thought that each of these characterisations characterise a single notion of intrinsically, it is plausible that they characterise different notions. In this subsection, we will discuss the notion characterised by the first characterisation which involves aboutness. In the next two subsections, we will discuss the notions characterised by the other two characterisations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们现在转向第 1 节所列诸刻画所刻画的内在性概念。或者也许更好的说法是，我们转向这些刻画所刻画的内在性**诸概念**，因为，尽管刘易斯认为这些刻画中的每一条都刻画了单一的内在性概念，但更可信的是：它们刻画的是不同的概念。在本小节中，我们将讨论第一条刻画——即涉及关于性的那条——所刻画的概念。在接下来的两个小节中，我们将讨论另外两条刻画所刻画的诸概念。
+    step2: |-
+      我们现在转向第 1 节所列诸刻画所刻画的内在性概念。或者更恰当地说，我们转向这些刻画所刻画的内在性**诸概念**，因为，尽管刘易斯认为这些刻画中的每一条都刻画了单一的内在性概念，但更可信的是：它们刻画的是不同的概念。本小节讨论第一条刻画——即涉及关于性（aboutness）的那条——所刻写的概念。接下来两个小节讨论另外两条刻画所刻画的诸概念。
   - id: 47
     kind: body
     source: |-
       Lewis’s first characterisation is:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      刘易斯的第一条刻画是：
+    step2: |-
+      刘易斯的第一条刻画是：
   - id: 48
     kind: body
     source: |-
       > A sentence or statement or proposition that ascribes intrinsic properties to something is entirely about that thing; whereas an ascription of extrinsic properties to something is not entirely about that thing, though it may well be about some larger whole which includes that thing as part. (Lewis 1983a: 111–2)[^lewis-1983a]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 把内在属性归予某物的句子、陈述或命题，完全是关于该物的；而把外在属性归予某物的归予，则不完全是关于该物的，尽管它很可能是关于某个以该物为部分的整体的。（Lewis 1983a: 111–2）[^lewis-1983a]
+    step2: |-
+      > 把内在属性归予某物的句子、陈述或命题，完全是关于该物的；而把外在属性归予某物的归予，则不完全是关于该物的，尽管它很可能是关于某个以该物为部分的整体的。（Lewis 1983a: 111–2）[^lewis-1983a]
   - id: 49
     kind: body
     source: |-
       The notion of aboutness employed in this characterisation is plausibly that of *intrinsic aboutness*, where intrinsic aboutness can be intuitively characterised by (1).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这条刻画所使用的关于性概念，很可能是**内在关于性**（intrinsic aboutness）的概念；而内在关于性可以由 (1) 直观地刻画。
+    step2: |-
+      这条刻画所使用的关于性概念，很可能是**内在关于性**（intrinsic aboutness）的概念；而内在关于性可以由 (1) 直观地刻画。
   - id: 50
     kind: body
     source: |-
       **(1)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(1)**
+    step2: |-
+      **(1)**
   - id: 51
     kind: body
     source: |-
       A state of affairs $s$ is intrinsically about a thing $x$ iff $s$ (either truly or falsely) describes how $x$ and its parts are and how they are related to each other, as opposed to how $x$ and its parts are related to other things and how other things are.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      事态 $s$ 内在地关乎一个事物 $x$，当且仅当 $s$（无论真假）描述了 $x$ 及其部分各自之所是以及它们彼此如何相关，而非 $x$ 及其部分如何与其他事物相关、以及其他事物之所是。
+    step2: |-
+      事态 $s$ 内在地关乎一个事物 $x$，当且仅当 $s$（无论真假）描述了 $x$ 及其部分各自之所是以及它们彼此如何相关，而非 $x$ 及其部分如何与其他事物相关、以及其他事物之所是。
   - id: 52
     kind: body
     source: |-
       Using the notion of intrinsic aboutness, Lewis’s first characterisation can be more precisely stated by the schema (2).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      利用内在关于性概念，刘易斯的第一条刻画可以由模式 (2) 更精确地陈述。
+    step2: |-
+      利用内在关于性概念，刘易斯的第一条刻画可以由模式 (2) 更精确地陈述。
   - id: 53
     kind: body
     source: |-
       **(2)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(2)**
+    step2: |-
+      **(2)**
   - id: 54
     kind: body
     source: |-
       The property of being $F$ is intrinsic iff, necessarily, for any $x$, the state of affairs of $x$ being $F$ is intrinsically about $x$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      是 $F$ 的属性是内在的，当且仅当必然地，对任意 $x$，$x$ 是 $F$ 这一事态内在地关乎 $x$。
+    step2: |-
+      是 $F$ 的属性是内在的，当且仅当必然地，对任意 $x$，$x$ 是 $F$ 这一事态内在地关乎 $x$。
   - id: 55
     kind: body
     source: |-
       For any predicate $F$ expressing a property $p$, and any name $n$ referring to an $x$, define the ascription of $p$ to $x$ to be the state of affairs expressed by $\ulcorner Fn\urcorner$. Using this definition, we can replace the schema (2) with the sentence (3).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对任意表达属性 $p$ 的谓词 $F$，以及任意指称某 $x$ 的名称 $n$，把 $p$ 对 $x$ 的归予定义为 $\ulcorner Fn\urcorner$ 所表达的事态。利用这一定义，我们可以用语句 (3) 替换模式 (2)。
+    step2: |-
+      对任意表达属性 $p$ 的谓词 $F$，以及任意指称某 $x$ 的名称 $n$，把 $p$ 对 $x$ 的归予（ascription）定义为 $\ulcorner Fn\urcorner$ 所表达的事态。利用这一定义，我们可以用语句 (3) 替换模式 (2)。
   - id: 56
     kind: body
     source: |-
       **(3)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(3)**
+    step2: |-
+      **(3)**
   - id: 57
     kind: body
     source: |-
       For any property $p, p$ is intrinsic iff, necessarily, for any $x$, the ascription of $p$ to $x$ is intrinsically about $x$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对任意属性 $p$，$p$ 是内在的，当且仅当必然地，对任意 $x$，$p$ 对 $x$ 的归予内在地关乎 $x$。
+    step2: |-
+      对任意属性 $p$，$p$ 是内在的，当且仅当必然地，对任意 $x$，$p$ 对 $x$ 的归予内在地关乎 $x$。
   - id: 58
     kind: body
     source: |-
       (3) plausibly classifies *being a cube* as intrinsic, since, for any $x$, the state of affairs of $x$ being a cube plausibly describes how $x$ and its parts are and how they are related to each other, as opposed to how they are related to other things and how other things are. In contrast, (3) plausibly classifies *being an uncle* as non-intrinsic, since its ascription to a thing is not only about how it and its parts are and how they are related to each other, but also about how it is related to things outside of it. (3) also plausibly classifies being Obama as non-intrinsic since the ascription of being Obama to Clinton, namely the state of affairs of Obama being identical to Clinton, is not wholly about Clinton, but is also about Obama. Finally, (3) also appears to classify being such that there is a number as non-intrinsic, even if it is necessary that there are numbers. This is because the ascription of this property to Clinton, namely the state of affairs that Clinton is such that there is a number, appears to be not wholly about how Clinton is, but is also about how things wholly distinct from Clinton are. (We will assume that the intuition underlying this judgement is correct. However, this is not uncontroversial. See Sider 1996 for a rejection of a closely related intuition and Eddon 2011 for a reply to this rejection.)[^eddon-2011]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (3) 可信地把"是立方体"归为内在的，因为对任意 $x$，$x$ 是立方体这一事态可信地描述了 $x$ 及其部分各自之所是以及它们彼此如何相关，而非它们如何与其他事物相关、以及其他事物之所是。相比之下，(3) 可信地把"身为叔叔"归为非内在的，因为它对某物的归予不仅关乎该物及其部分各自之所是以及它们彼此如何相关，还关乎该物如何与其外的事物相关。(3) 还可信地把"是奥巴马"归为非内在的，因为把"是奥巴马"归予克林顿，即奥巴马等同于克林顿这一事态，并不完全关乎克林顿，还关乎奥巴马。最后，(3) 似乎也把"有数存在"归为非内在的，即便数存在是必然的。这是因为把这一属性归予克林顿，即克林顿是如此这般有数存在的事态，似乎并不完全关乎克林顿之所是，还关乎完全相异于克林顿的事物之所是。（我们将假定这一判断背后的直觉是正确的。然而这并非没有争议：Sider 1996 拒斥了一个密切相关的直觉，Eddon 2011 则回应了这一拒斥。）[^eddon-2011]
+    step2: |-
+      (3) 可信地把"是立方体"归为内在的，因为对任意 $x$，$x$ 是立方体这一事态可信地描述了 $x$ 及其部分各自之所是以及它们彼此如何相关，而非它们如何与其他事物相关、以及其他事物之所是。相比之下，(3) 可信地把"身为叔叔"归为非内在的，因为它对某物的归予不仅关乎该物及其部分各自之所是以及它们彼此如何相关，还关乎该物如何与其外的事物相关。(3) 还可信地把"是奥巴马"归为非内在的，因为把"是奥巴马"归予克林顿，即奥巴马等同于克林顿这一事态，并不完全关乎克林顿，还关乎奥巴马。最后，(3) 似乎也把"有数存在"归为非内在的，即便数存在是必然的。这是因为，把这一属性归予克林顿——即克林顿是如此这般有数存在的事态——似乎并不完全关乎克林顿之所是，还关乎完全相异于克林顿的事物之所是。（我们将假定这一判断背后的直觉是正确的。然而这并非没有争议：Sider 1996 拒斥了一个密切相关的直觉，Eddon 2011 则回应了这一拒斥。）[^eddon-2011]
   - id: 59
     kind: body
     source: |-
       In the following, we will call the properties classified as intrinsic by (3) *local* properties, and call the properties classified by (3) as not intrinsic *non-local* properties. (This notion of a local property needs to be distinguished from the local conception of something having a property in an intrinsic fashion discussed in section 1.2.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      下文中，我们把 (3) 归为内在的属性称为**局部属性**（local properties），把 (3) 归为非内在的属性称为**非局部属性**。（这一局部属性概念，需要与第 1.2 节讨论的"某物以内在方式具有属性"的局部概念区分开来。）
+    step2: |-
+      下文中，我们把 (3) 归为内在的属性称为**局部属性**（local properties），把 (3) 归为非内在的属性称为**非局部属性**（non-local properties）。（这一局部属性概念，需要与第 1.2 节所讨论的"某物以内在方式具有属性"的局部概念区分开来。）
   - id: 60
     kind: body
     source: |-
