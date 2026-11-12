@@ -1217,6 +1217,7 @@
 | Demiurge | — | 巨匠造物主 | neoplatonism | 柏拉图研究通行（亦作“德穆革”）；《蒂迈欧篇》 | 2026-11-07 |
 | democratic centralism | — | 民主集中制 | gramsci | 列宁主义组织原则，学界通行译名；凭证 2026-11-11（主会话直译 g/gramsci） | 2026-11-11 |
 | demon (daemon) | — | 恶魔 | gianfrancesco-pico | 学界通行；源文 daemon／demonic 同根，正文作“恶魔的” | 2026-11-09 |
+| demonstratio potissima | — | 最高一类证明（最有力证明） | demonstration-medieval | 中世纪《后分析篇》注释通行术语；正文括注原文；凭证 2026-11-12 | 2026-11-12 |
 | demonstratio propter quid | — | 所以然证明（“证明所以然”） | zabarella | 学界惯例（同 quia 行）；凭证 2026-11-09 | 2026-11-09 |
 | demonstratio quia | — | 所然证明（“证明所然”；亦作“事实证明”） | zabarella | 学界惯例（《后分析篇》研究：quia＝所然，propter quid＝所以然）；凭证 2026-11-09 | 2026-11-09 |
 | demonstration | — | 演证 | hobbes-science 首译 | 学界通行（霍布斯 scientia 语境 demonstratio；与 proof 证明分用）；凭证 2026-11-11 | 2026-11-11 |
@@ -3399,6 +3400,7 @@
 | nomic expectability | — | 律则可期待性 | 首译（scientific-explanation-20th） | 本库首译（Salmon 1989 之用语；“律则的”nomological）；凭证 2026-11-10 | 2026-11-10 |
 | nomic isomorphism | — | 律则同构 | reasoning-analogy | 学界通行（nomic 律则的） | 2026-11-05 |
 | nominal | — | 名项 | logic-hybrid | 学界通行汉译（hybrid logic 专用命题符号）；凭证 2026-11-09 | 2026-11-09 |
+| nominal definition | — | 名义定义 | demonstration-medieval | 中世纪逻辑通行（与实在定义对举，nominalis definitio）；凭证 2026-11-12 | 2026-11-12 |
 | Nominalism | — | 唯名论 | 词汇表复核（源提交 36fd04fd）；buridan | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）；学界通行译名（中世纪逻辑与哲学研究文献）；2026-11-08 重复键合并（小写 nominalism 行并入，buridan 首译凭证） | 2026-10-27 |
 | Nominalism in Metaphysics | — | 形而上学中的唯名论 | nominalism-metaphysics | 词条题名组合译法：沿用本册 Nominalism；metaphysics 采用哲学学界通行译名“形而上学”（2026-10-28） | 2026-10-28 |
 | nominalization | — | 名词化 | logic-massexpress | 语言学通行译法；凭证 2026-11-10 | 2026-11-09 |
@@ -4090,6 +4092,7 @@
 | propositional faith | — | 命题性信仰 | faith | 学界通行（Howard-Snyder 2013b 术语）；凭证 2026-11-11 | 2026-11-11 |
 | propositional function | — | 命题函项（亦作“命题函数”） | schema | 学界惯例（罗素《数理哲学导论》中译通行）；亦作记审定·数学（模型论）作“命题函数”（裁定 2026-11-12 保留现译） | 2026-11-12 |
 | proprioception | — | 本体感觉 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
+| propter quid | — | 证明其为何如此（原因证明） | demonstration-medieval | 亚里士多德《后分析篇》I 13 通行（与 quia 对举）；正文括注原文；凭证 2026-11-12 | 2026-11-12 |
 | Proslogion | Proslogion | 《宣讲》（安瑟伦） | james-ward | 主会话复审收口 7a4e34eb；凭证 2026-11-04 | 2026-11-04 |
 | prosocial behavior | — | 亲社会行为 | moral-learning | 学界通行；凭证 2026-11-09 | 2026-11-09 |
 | prospect | — | 前景 | 首现（imprecise-probabilities） | 学界惯例（决策论通行）；凭证 2026-11-08 | 2026-11-08 |
@@ -4202,6 +4205,7 @@
 | quaternion | — | 四元数 | peirce-benjamin | 数学通行译名（四元数代数）；凭证 2026-11-09 | 2026-11-09 |
 | qubit | — | 量子比特 | qt-entangle | 审定名词库（termonline·物理学名词，qubit=量子比特）；凭证 2026-11-09 | 2026-11-09 |
 | qubit register | — | 量子比特寄存器 | qt-entangle | 学界通行译名；凭证 2026-11-09 | 2026-11-09 |
+| quia | — | 证明其为如此（事实证明） | demonstration-medieval | 亚里士多德《后分析篇》I 13 通行（与 propter quid 对举）；正文括注原文；凭证 2026-11-12 | 2026-11-12 |
 | quiddity | — | 本质（quiddity，阿拉伯语 māhiyya） | israeli | 中世纪哲学通行 | 2026-11-06 |
 | quiddity（与 essence 并置时） | quidditas | 什么性 | 首现（simon-faversham） | 经院哲学汉译（与 essence＝本质区分）；本册 quiddity＝本质 行在并置语境适用本行；凭证 2026-11-08 | 2026-11-08 |
 | quietism | — | 寂静主义 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -4960,6 +4964,7 @@
 | subalgebra | — | 子代数 | 首现（boolalg-math） | 学界惯例（抽象代数通行译名） | 2026-11-01 |
 | Subaltern Studies | — | 庶民研究（subaltern 庶民） | colonialism | 学界通行（《庶民研究》丛刊引介）；凭证 2026-11-07 | 2026-11-07 |
 | subalternated science | — | 从属科学（subalternari 从属） | zabarella | 学界惯例（经院科学论 subalternatio 从属关系）；凭证 2026-11-09 | 2026-11-09 |
+| subalternation | — | 从属（科学间的从属） | demonstration-medieval | 中世纪科学分类通行（subalternatio；一门科学借用另一门原理）；凭证 2026-11-12 | 2026-11-12 |
 | subdirect product | — | 次直积 | logic-fuzzy | 泛代数通行译法；凭证 2026-11-09 | 2026-11-09 |
 | subformula | — | 子公式 | quine-nf | 数理逻辑通行译名；凭证 2026-11-09 | 2026-11-09 |
 | subformula property | — | 子公式性质 | logic-fuzzy；logic-provability | 证明论通行；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |

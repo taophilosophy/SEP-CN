@@ -2,7 +2,7 @@
   "slug": "quantum-bayesian",
   "kind": "retranslate",
   "zh_doc": "q/quantum-bayesian.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "Q-main-20261112",
       "at": "2026-11-11T23:37:51Z",
       "evidence": "三校（术语与人名登记核销）：人名 7 行补登（de Finetti=布鲁诺·德·菲内蒂 1906–1985、Höffding=哈拉尔德·赫夫丁 1843–1931 丹麦实用主义先驱玻尔之师、Landau=列夫·朗道、Lifshitz=叶夫根尼·栗弗席兹、Brukner=恰斯拉夫·布鲁克纳、Stapp=亨利·斯塔普、Bächtold=曼努埃尔·贝希托尔德）；正文译名对册修正 1（冯·诺依曼→冯·诺伊曼，沿册三行主形）；Brukner/Zeilinger 正文汉名化与 §5.2 节标题统一（布鲁克纳与蔡林格）；同姓异人核销（Fuchs, Thomas≠Christopher A. 照录、Barrett, Justin L.≠Jonathan 照录）。术语 5 行补登（Humean mosaic=休谟式马赛克，联网查证刘易斯学界通译并回改正文「拼图」→「马赛克」；Kochen-Specker theorem 沿 k/kochen-specker 词条定名；Wigner's friend=维格纳朋友；pointer basis=指针基沿 qm 指针系；preparation=制备）；POVM/SIC/credence/degree of belief/能动者/荒漠实用主义/推理主义/本体论模型框架 等 20 键册行在案且正文一致核销。五维对账沿用 s1（结构 11 h2/18 h3、defs 76:76、marker 键序全等）；s3 增改均为正文行内微调与册补登，不动结构。四检＋quotes＋summary 全绿：style 0、prose 0、math 0/0、academic --strict OK、quotes 违例 0、summary HARD 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "Q-main-20261112",
+      "at": "2026-11-12T00:46:07Z",
+      "evidence": "独立复核一（全文回读 vs 源文 479 行）：五维对账终跑全等——h2 12:11（源 Notes 双标题合节，s1 核销）、h3 18:18、marker 26:26 键集相等、defs 73:73 键集相等、正文段 103:103；lq 守恒门 OK 146 段（残余仅斜体→书名号/粗体体例转换，rules/02）。引文逐句回核 6 处：Carnap（Now 段）✓、Bell（raw data 感知句 s2 已正）✓、Mermin 84–85（solipsism 辩护，**1.****0** 粗体拆分系源文自带照录）✓、Timpson 600（类钠导电）✓、Schack 2018（no laws）✓、Jansson 165——微调 1 处 serious cost「不小的代价」→「重大的代价」；全条无新漏译、无误译回升。语体：现代汉语学术书面语，无文言句式残留（s2 八处文言已清）"
     }
   ],
   "blockers": [],

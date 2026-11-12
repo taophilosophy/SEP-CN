@@ -2,8 +2,16 @@
   "slug": "intention",
   "kind": "retranslate",
   "zh_doc": "i/intention.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-12T00:25:35Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:29:50Z",
   "version_pin": {

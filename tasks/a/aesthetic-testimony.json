@@ -2,7 +2,7 @@
   "slug": "aesthetic-testimony",
   "kind": "retranslate",
   "zh_doc": "a/aesthetic-testimony.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "A-main-20261112",
       "at": "2026-11-11T17:40:14Z",
       "evidence": "check_style/academic/terms/quotes/math 全绿；斜体中文强调已转加粗；人名 Bräuer→布罗伊尔 登记 ren-ming-biao"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-11T21:39:13Z",
+      "evidence": "冷置回读（中间完成 ancient-soul 全周期后再回读本稿 394 行）：全文通读语体为现代学术书面语；回源抽查 Hopkins 2007: 613/2011: 139–32、2011: 146–8、153–4 与 Meskin 2004/2006 页码均与 yuanwen 一致；无文言、无直译腔残留"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-11T21:39:13Z",
+      "evidence": "逐句回核：正文脚注 marker 序列 146=146 与源同序、年份序列 378=378 同序、定义键 113=113 同集、h2/h3/h4=10/14/14 全等；术语抽查（亲知原则/不可得-不可用悲观论/顺从）与登记册一致"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-11T21:42:05Z",
+      "evidence": "终稿验收：check_style 0、check_academic --strict OK、check_math 0、check_quotes 0、check_terms 硬错 0；check_all 9 项中 8 绿，唯一失败项为他会话在途任务（epiphenomenalism r1/r2、hilbert-program r1）缺语体留痕，与本词条无关"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-11T21:42:05Z",
+      "evidence": "A 批 done：aesthetic-testimony 全文 10 节、128 段账本双版、prose 46→3 引文豁免、五维对账全等；行文与现代学术书面语一致"
     }
   ],
   "blockers": [],
