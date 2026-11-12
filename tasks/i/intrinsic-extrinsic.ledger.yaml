@@ -478,9 +478,9 @@ segments:
     source: |-
       For any property $p, p$ is intrinsic iff, necessarily, for any $x$, the ascription of $p$ to $x$ is intrinsically about $x$.
     step1: |-
-      对任意属性 $p$，$p$ 是内在的，当且仅当必然地，对任意 $x$，$p$ 对 $x$ 的归予内在地关乎 $x$。
+      对任意属性 $p, p$ 是内在的，当且仅当必然地，对任意 $x$，$p$ 对 $x$ 的归予内在地关乎 $x$。
     step2: |-
-      对任意属性 $p$，$p$ 是内在的，当且仅当必然地，对任意 $x$，$p$ 对 $x$ 的归予内在地关乎 $x$。
+      对任意属性 $p, p$ 是内在的，当且仅当必然地，对任意 $x$，$p$ 对 $x$ 的归予内在地关乎 $x$。
   - id: 58
     kind: body
     source: |-
