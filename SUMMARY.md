@@ -904,7 +904,7 @@
 * [存在 existence (Michael Nelson)](e/existence.md)
 * [存在主义 existentialism (Kevin Aho)](e/existentialism.md)
   * [\*美学——见美学：存在主义美学 aesthetics — see aesthetics: existentialist](a/aesthetics-existentialist.md)
-  * [墨西哥存在主义 Mexican Existentialism (Carlos S&aacute;nchez)](e/existentialism-mexican.md)
+  * [墨西哥存在主义 Mexican Existentialism (Carlos Sánchez)](e/existentialism-mexican.md)
 * [\*审美体验——见审美体验 experience, aesthetic — see aesthetic experience](a/aesthetic-experience.md)
 * [\*实验法理学——见实验法理学 experimental jurisprudence — see jurisprudence, experimental](e/experimental-jurisprudence.md)
 * [实验伦理学 experimental moral philosophy (Mark Alfano, Edouard Machery, Alexandra Plakias, and Don Loeb)](e/experimental-moral.md)

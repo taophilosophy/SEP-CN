@@ -1,0 +1,666 @@
+version: 1
+slug: existentialism-mexican
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Mexican existentialism grows out of the encounter, engagement, and appropriation with French and German existentialist philosophies in Mexico mid-way through the twentieth-century. Key players in this tradition were José Gaos (1900–1969), Antonio Caso (1883–1946), and, especially, *el grupo Hiperión* (the Hyperion Group). Members of Hyperion, but particularly Emilio Uranga (1921–1988), Leopoldo Zea (1912–2004), Jorge Portilla (1918–1963), and Luis Villoro (1922–2014), focused their efforts on existential reinterpretations of *that which is Mexican* (“lo mexicano” or Mexicanness), a focus that lends this tradition its historical and conceptual uniqueness and importance.
+    step1: |-
+      墨西哥存在主义诞生于 20 世纪中叶墨西哥与法国、德国存在主义哲学的相遇、接触与挪用。这一传统的关键人物是何塞·高斯（1900–1969）、安东尼奥·卡索（1883–1946），尤其是 *el grupo Hiperión*（许珀里翁小组）。许珀里翁小组的成员，尤其是埃米利奥·乌兰加（1921–1988）、莱奥波尔多·塞亚（1912–2004）、豪尔赫·波蒂利亚（1918–1963）与路易斯·比略罗（1922–2014），把精力集中于对“墨西哥的东西”（“lo mexicano”，即墨西哥性）作存在主义式的重新解释；这一聚焦赋予该传统历史与概念上的独特性与重要性。
+    step2: |-
+      墨西哥存在主义诞生于 20 世纪中叶，是墨西哥思想界与法、德存在主义哲学相遇、往来并加以挪用的产物。这一传统的代表人物有何塞·高斯（1900–1969）、安东尼奥·卡索（1883–1946），尤其是“许珀里翁小组”（*el grupo Hiperión*）。小组成员——特别是埃米利奥·乌兰加（1921–1988）、莱奥波尔多·塞亚（1912–2004）、豪尔赫·波蒂利亚（1918–1963）和路易斯·比略罗（1922–2014）——专力于对“墨西哥的东西”（lo mexicano，即墨西哥性）作存在主义式重释。正是这一聚焦，使该传统在历史上与概念上都独具一格，且意义重大。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Brief Historical Background
+    step1: |-
+      ## 1. 简要历史背景
+    step2: |-
+      ## 1. 简要历史背景
+  - id: 3
+    kind: body
+    source: |-
+      European existentialism made its way into Mexico in the late 1930s. A growing enthusiasm among young Mexican intellectuals for philosophical analyses of situated existence helped its spread. By the early 1940s, popular seminars on Martin Heidegger’s *Being and Time* fueled a growing interest into a “Mexican Dasein,” or Mexican existence. These seminars were led by recent European arrivals, Spanish exiles fleeing the Spanish Civil War (1936–1939). Crucial amongst these are José Gaos and Juan David García Bacca (1901–1992) who, through lectures, books, and translations laid the groundwork for a unique and impassioned appropriation of existentialism that would come to define Mexican philosophy for years to come. Ultimately, what is now called “Mexican existentialism” emerges from readings and reaction to Heidegger and the French existentialists (particularly Sartre, Merleau-Ponty, and others) originally introduced by Gaos, Bacca, and others. Key to its growth were the efforts of *el* *grupo Hiperión*, or the Hyperion Group (named after one of the twelve Greek Titan gods [Reyes 2004: 15])[^reyes-2004]. Between 1947 and 1952, Hyperion read, interpreted, and promoted a version of French and German existentialism that they then applied to their own and unique historical, cultural, and existential moment. Some members of the Group believed that existentialism offered the conceptual resources necessary to bring about “*moral, social, and religious transformations*” in Mexican society (Uranga 1952 [2021: 94])[^uranga-1952][^uranga-1952-2] and “the very instrument with which to interpret Mexican reality” (Zea 1968: 12)[^zea-1968]. Others, like Portilla, were a bit more dramatic, suggesting that the existentialist attitude was the natural attitude of Mexicans, especially given their history of struggle and overcoming, writing, “it might be said that we Mexicans are existentialist from birth” (Portilla 1949 [2017: 186])[^portilla-1949].
+    step1: |-
+      欧洲存在主义于 1930 年代末传入墨西哥。年轻的墨西哥知识分子对“处境中的存在”之哲学分析日益热情，助长了它的传播。到 1940 年代初，关于马丁·海德格尔《存在与时间》的通俗研讨班催生了对“墨西哥此在”或墨西哥存在的日渐兴趣。这些研讨班由新近到来的欧洲人主持，他们是为躲避西班牙内战（1936–1939）而流亡的西班牙人。其中最关键的是何塞·高斯与胡安·大卫·加西亚·巴卡（1901–1992）：他们通过讲座、著作与翻译，为一种独特而充满激情的存在主义挪用奠定了基础，而这种挪用后来定义了此后多年的墨西哥哲学。最终，如今所谓“墨西哥存在主义”，正是出自对海德格尔与法国存在主义者（尤其是萨特、梅洛-庞蒂等人）的阅读与回应，而这些最初是由高斯、巴卡等人引入的。其成长的关键是 *el grupo Hiperión*（许珀里翁小组）的努力（得名于希腊十二提坦神之一 [Reyes 2004: 15]）[^reyes-2004]。1947 至 1952 年间，许珀里翁小组阅读、解释并推广了一种法德存在主义版本，随后把它应用于他们自己独特的历史、文化与存在时刻。小组的一些成员相信，存在主义提供了必要的概念资源，足以在墨西哥社会中促成“*道德的、社会的与宗教的转变*”（Uranga 1952 [2021: 94]）[^uranga-1952][^uranga-1952-2]，并成为“用来解释墨西哥现实的工具本身”（Zea 1968: 12）[^zea-1968]。另一些人如波蒂利亚则更戏剧化一些，认为存在主义态度是墨西哥人的自然态度——尤其考虑到他们抗争与克服的历史——他写道：“或许可以说，我们墨西哥人天生就是存在主义者”（Portilla 1949 [2017: 186]）[^portilla-1949]。
+    step2: |-
+      欧洲存在主义在 1930 年代末传入墨西哥，借助的是年轻墨西哥知识分子对“处境中的存在”之哲学分析日益高涨的热情。1940 年代初，关于海德格尔《存在与时间》的通俗研讨班又催生了对“墨西哥此在”即墨西哥存在的兴趣。主讲者多为新近抵墨的欧洲人——为躲避西班牙内战（1936–1939）而流亡的西班牙人；其中最关键的是何塞·高斯与胡安·大卫·加西亚·巴卡（1901–1992）。他们通过讲座、著作和翻译，为一种独特而炽烈的存在主义挪用铺好了路，此后多年的墨西哥哲学由此定型。归根结底，今日所谓“墨西哥存在主义”，来自后来的墨西哥人对海德格尔与法国存在主义者（尤其是萨特、梅洛-庞蒂等人）的阅读与回应，而这些人最初是由高斯、巴卡等人引进的。推动它成长的，是“许珀里翁小组”（*el grupo Hiperión*，得名于希腊十二提坦神之一 [Reyes 2004: 15]）[^reyes-2004]。1947 至 1952 年间，小组阅读、阐释并推介一种法德存在主义版本，再把它用于自身独特的历史、文化与存在处境。有些成员相信，存在主义提供了在墨西哥社会促成“*道德、社会与宗教转变*”所需的概念资源（Uranga 1952 [2021: 94]）[^uranga-1952][^uranga-1952-2]，是“诠释墨西哥现实的现成工具”（Zea 1968: 12）[^zea-1968]。波蒂利亚等人则更戏剧化：他们主张，存在主义态度就是墨西哥人的自然态度——尤其考虑到墨西哥人抗争与克服的历史——他写道：“或许可以说，我们墨西哥人生来就是存在主义者”（Portilla 1949 [2017: 186]）[^portilla-1949]。
+  - id: 4
+    kind: body
+    source: |-
+      The Mexican appropriation of existentialism was never meant to be faithful to any one (European) approach. Early on, Luis Villoro (1919–2014) referred this appropriation as a “partial acceptance of existentialism in our day” which, he emphasized, “responds to a concrete situation” (1949: 233). This was an important qualification because Mexican philosophers could not expect their philosophical conclusions to perfectly echo those of their European counterparts. So the acceptance of existentialism was to be “partial” or, said differently, ultimately to be determined by the concrete realities of the Mexican social, cultural, and historical situation.
+    step1: |-
+      墨西哥对存在主义的挪用从来不是为了忠实于某一种（欧洲）进路。早在 1949 年，路易斯·比略罗就把这种挪用称为“我们时代对存在主义的部分接受”，并强调它“回应着一个具体处境”（1949: 233）。这是一个重要的限定，因为墨西哥哲学家不能指望自己的哲学结论与欧洲同行完全呼应。因此，对存在主义的接受是“部分的”；换句话说，最终要由墨西哥社会、文化与历史处境的具体现实来决定。
+    step2: |-
+      墨西哥人对存在主义的挪用，从来不是要忠实于某一家（欧洲）路数。比略罗（Luis Villoro）早在 1949 年就说，这种挪用是“我们时代对存在主义的部分接受”，并强调它“回应的是一个具体处境”（1949: 233）。这层限定很要紧：墨西哥哲学家不能指望自己的结论与欧洲同行完全合拍。所以，对存在主义的接受是“部分的”；换个说法，它最终要由墨西哥社会、文化与历史处境的现实来裁定。
+  - id: 5
+    kind: body
+    source: |-
+      What follows will not be a detailed historical outline of this effort (a lot of this history is included in the entry on philosophy in Mexico—see also Hurtado 2006; Merrim 2023)[^merrim-2023][^hurtado-2006]. Instead, we consider its results, presented here as a (non-exhaustive) conceptual inventory referencing some of the most important insights of this tradition—the contents of what has previously been called “(M)existentialism” (Sánchez 2019, 2023)[^sánchez-2019].
+    step1: |-
+      下文并不是对这一努力的详尽历史勾勒（这段历史很大一部分已收入“墨西哥哲学”词条——另参 Hurtado 2006；Merrim 2023）[^merrim-2023][^hurtado-2006]。相反，我们考察它的成果，以一份（非穷尽的）概念清单呈现，涉及该传统一些最重要的洞见——即此前所谓“（M）existentialism”（Sánchez 2019, 2023）[^sánchez-2019] 的内容。
+    step2: |-
+      下文不打算对这场努力作详尽的历史勾勒（其大半已见“墨西哥哲学”词条，另参 Hurtado 2006；Merrim 2023）[^merrim-2023][^hurtado-2006]。我们要看的是它的成果——以一份（并不穷尽的）概念清单列出，涉及该传统最重要的若干洞见，也就是此前被称作“（墨）存在主义”（(M)existentialism）的那些内容（Sánchez 2019, 2023）[^sánchez-2019]。
+  - id: 6
+    kind: body
+    source: |-
+      ## 2. Conceptual Inventory of Mexican Existentialism
+    step1: |-
+      ## 2. 墨西哥存在主义的概念清单
+    step2: |-
+      ## 2. 墨西哥存在主义的概念清单
+  - id: 7
+    kind: body
+    source: |-
+      ### 2.1 Freedom, Circumstance, and Responsibility
+    step1: |-
+      ### 2.1 自由、境遇与责任
+    step2: |-
+      ### 2.1 自由、境遇与责任
+  - id: 8
+    kind: body
+    source: |-
+      Søren Kierkegaard’s definition of freedom as “the possibility of possibility” prefigures what 20ᵗʰ century existentialists will say about this topic (Kierkegaard 1844 [2015])[^kierkegaard-1844]. In broad strokes, it is said that freedom makes possible a subject’s capacity to choose one course of action among many. This freedom to choose, however, is constrained, according to existentialists such as Simone de Beauvoir and Jean-Paul Sartre. In her view, de Beauvoir thinks the possibilities afforded by freedom are always limited by something external to the agent, e.g., traditions, situations, history (Beauvoir 2004). Mexican existentialists further particularize this view, proposing that for the Mexican subject freedom is enacted in a conscious choosing among possibilities availed to it by the *Mexican circumstance*. For Mexican existentialists, the goal of thinking of freedom in this way (as a movement toward possibilities) is freedom itself, or the intellectual liberation from the colonial inheritance and its various manifestations. Mexican existentialists thus understand freedom in the context of historical determinations (colonial oppression) and as the capacity to transcend them, which happens when they are affirmed in acts of criticism, commitment, and responsibility. In this sense, freedom only makes sense as a choosing to commit oneself to the circumstance into which on is thrown and assuming the responsibilities that this thrownness requires. Freedom, commitment, and responsibility thus go hand in hand. Let’s consider these ideas one at a time.
+    step1: |-
+      索伦·克尔凯郭尔把自由定义为“可能性之可能性”，预示了 20 世纪存在主义者将就这一主题所说的话（Kierkegaard 1844 [2015]）[^kierkegaard-1844]。粗略地说，自由使主体能够在诸多行动路线中选择其一。然而，按西蒙娜·德·波伏娃与让-保罗·萨特等存在主义者的看法，这种选择的自由是受约束的。在波伏娃看来，自由所提供的可能性总是受行动者之外的某种东西限制，例如传统、处境、历史（Beauvoir 2004）。墨西哥存在主义者进一步具体化了这一看法：他们提出，对墨西哥主体而言，自由是在*墨西哥境遇*所提供的可能性之中作有意识选择的行为。对墨西哥存在主义者来说，如此思考自由（作为朝向可能性的运动）的目的就是自由本身，或者说，是从殖民遗产及其种种表现中获得的思想解放。因此，墨西哥存在主义者在历史规定（殖民压迫）的语境中理解自由，并把它理解为超越这些规定的力量——当这些规定在批判、承诺与责任的行为中被确认时，这种超越就发生了。在这个意义上，自由只有作为这样一种选择才有意义：献身于自己被抛入其中的境遇，并承担这种被抛性所要求的责任。于是，自由、承诺与责任三者携手并进。下面逐一考察这些观念。
+    step2: |-
+      克尔凯郭尔把自由界定为“可能性之可能性”，这已预示了 20 世纪存在主义者的说法（Kierkegaard 1844 [2015]）[^kierkegaard-1844]。大体说来，自由使主体得以在许多行动路线中择一而行。但在波伏娃与萨特等人看来，这种选择的自由是有约束的：波伏娃认为，自由所提供的可能性总被行动者之外的某种东西限制着，比如传统、处境、历史（Beauvoir 2004）。墨西哥存在主义者把这层意思说得更具体：对墨西哥主体来说，自由是在*墨西哥境遇*所给予的各种可能之中作出的自觉选择。在他们看来，这样理解自由（把它看作朝向可能性的运动），目标就是自由本身，或者说，是从殖民遗产及其种种表现中求得的思想解放。于是，他们既在历史规定（殖民压迫）的脉络里理解自由，又把自由理解为超越这些规定的力量——当这些规定在批判、承诺与责任的行为中被确认下来，超越便发生了。就此而言，自由只有作为一种选择才讲得通：选择献身于自己被抛入的境遇，并承担这种被抛性所要求的责任。自由、承诺、责任，三者并肩而行。下面逐一来看。
+  - id: 9
+    kind: body
+    source: |-
+      #### 2.1.1 Freedom
+    step1: |-
+      #### 2.1.1 自由
+    step2: |-
+      #### 2.1.1 自由
+  - id: 10
+    kind: body
+    source: |-
+      Freedom reveals itself in the willingness both to commit and to assume responsibility for our commitments. Because commitment requires taking an exclusionary position on certain values or norms, and because making such choices is only available in freedom, choosing to commit oneself to the *right* values or norms is the best expression of our freedom. The right values or norms will be those that, in choosing to commit ourselves to them, make us responsible for the wellbeing of our neighbors, for the future of our community, or for the health of our circumstance. Leopoldo Zea says: “our freedom is expressed in the form in which we assume the inevitable commitment to our circumstance” (1952 [2017: 126]). In this way, the end of freedom is something other than freedom. Freedom is not an end in itself (Muñoz 1953: 78), but always a means to empower our circumstance, conceived not as an abstract, universal ideal, but as a real and concrete *place*.
+    step1: |-
+      自由显露于这样两种意愿之中：作出承诺，并为自己的承诺承担责任。因为承诺要求对某些价值或规范采取排他性立场，而作出这类选择只有在自由中才可能，所以选择献身于*正确的*价值或规范，是我们自由的最好表达。所谓正确的价值或规范，就是那些：当我们选择献身于它们时，会使我们对邻人的福祉、对共同体的未来、或对我们境遇的健康负责。莱奥波尔多·塞亚说：“我们的自由表现在我们承担对境遇之不可避免的承诺的形式中”（1952 [2017: 126]）。这样看来，自由的目的不是自由本身。自由不是目的本身（Muñoz 1953: 78），而始终是增强我们境遇的手段；而境遇不是抽象的普遍理想，而是一个真实而具体的*地方*。
+    step2: |-
+      自由显露在两种意愿里：愿意承诺，也愿意为自己的承诺担责。承诺总要对某些价值或规范采取排他立场；而这类选择又只能在自由中作出。因此，选择献身于*正确的*价值或规范，正是自由的最佳表达。什么是正确的价值或规范？就是那些一旦我们选择献身其中，便让我们对邻人的福祉、对共同体的未来、对自身境遇的健全负起责任的东西。塞亚说：“我们的自由，表现在我们承担对境遇那不可避免的承诺的方式之中”（1952 [2017: 126]）。由此可见，自由的目的并不是自由本身。自由不是目的（Muñoz 1953: 78），它始终是增强境遇的手段；而境遇不是抽象的普遍理想，而是一处真实、具体的*地方*。
+  - id: 11
+    kind: body
+    source: |-
+      Historical systems of oppression operative since the time of conquest and colonization of Mexico have rendered the Mexican person indecisive and “unwilling” (see below). Liberation from these long-standing oppressions requires reclaiming one’s power, understood as the subject’s ability to properly choose and to act on those choices. Emilio Uranga says that liberation is possible when we “dislodge [ourselves] from systems of inferior motivations” (1951 [2017: 170]), while Jorge Portilla writes that it involves dismantling the totalizing and objectifying “perspective of the stranger” (1949 [2017: 182]). Being properly free or liberated thus involves a recognition of one’s oppression (Macgregor 1948: 278) and, on this basis, the performance of “morally determining” actions (Uranga 1951 [2017: 170])[^uranga-1951][^uranga-1951-2] that "dislodge" us from it (our various constraints or objectifications) so that we may positively contribute to the well-being of our neighbor or our circumstance. Because they are to be *morally* determining, our actions will take the form of responsible commitments to concrete others and not to ideals or abstractions—for instance, to “humanity in general.” Freedom is thus to be understood, then, as “situated” and “committed” (Zea 1952 [2017: 135])[^zea-1952]. This is a “[r]esponsible freedom, [one] aware of its limits” (135). On such an account, freedom and responsibility are two sides of the same coin; or as Zea puts it, “[w]here there is no responsibility, there is no freedom” (135). Portilla concurs: “To the extent that this person becomes responsible,” he writes, “he or she becomes free, and to the extent that this person becomes free, he or she affirms themselves as a human being” (Portilla 1966 [2012: 162])[^portilla-1966][^portilla-1966-2]. In other words, liberation from oppression—physical or psychological, colonial or otherwise—depends on taking responsibility for, and acting on behalf of, the concrete situation or circumstance in which one finds oneself. Choosing responsible and committed action is the essence of freedom.
+    step1: |-
+      自墨西哥被征服与殖民以来一直运作的历史性压迫体系，使墨西哥人变得优柔寡断且“不欲”（见下文）。从这些长期压迫中获得解放，要求夺回自己的力量，即主体正确选择并依照选择行动的能力。埃米利奥·乌兰加说，当我们“（把自己）从低劣动机的体系中驱逐出去”时，解放就是可能的（1951 [2017: 170]）；豪尔赫·波蒂利亚则写道，解放意味着拆除那种总体化、对象化的“陌生人视角”（1949 [2017: 182]）。因此，真正自由或获得解放，涉及对自己所受压迫的承认（Macgregor 1948: 278），并在此基础上施行“道德上具有规定性”的行动（Uranga 1951 [2017: 170]）[^uranga-1951][^uranga-1951-2]，把我们从中“驱逐”出去（我们的种种约束或对象化），以便我们能对邻人或境遇的福祉作出积极贡献。由于这些行动要在*道德上*具有规定性，它们将采取对具体他人、而非对理想或抽象（比如“一般的人性”）作出负责任承诺的形式。因此，自由应被理解为“处境中的”与“承诺性的”（Zea 1952 [2017: 135]）[^zea-1952]。这是一种“负责任的自由，一种意识到自身界限的自由”（135）。按这种说法，自由与责任是同一枚硬币的两面；用塞亚的话说，“哪里没有责任，哪里就没有自由”（135）。波蒂利亚表示同意：“这个人变得负责任到什么程度，”他写道，“他或她就自由到什么程度；而这个人自由到什么程度，他或她就作为人肯定自己到什么程度”（Portilla 1966 [2012: 162]）[^portilla-1966][^portilla-1966-2]。换句话说，从压迫中解放——不论是身体上的还是心理上的、殖民的还是其他形式的——取决于为自己所处的具体处境担责并为之行动。选择负责任而有所承诺的行动，正是自由的本质。
+    step2: |-
+      自征服与殖民以来，历史性的压迫制度一直在运作，把墨西哥人弄得优柔寡断、“不欲”（见下文）。要从这些经年累月的压迫中解放，就得夺回自己的力量——主体正确选择并照着选择去行动的能力。乌兰加说，一旦我们“（把自己）从低劣动机的系统中撵出去”，解放便有可能（1951 [2017: 170]）；波蒂利亚则写道，解放意味着拆掉那种总体化、对象化的“陌生人视角”（1949 [2017: 182]）。所以，真正自由或获得解放，先要承认自己所受的压迫（Macgregor 1948: 278），再在此基础上做出“道德上具有规定作用”的行为（Uranga 1951 [2017: 170]）[^uranga-1951][^uranga-1951-2]，把自己从压迫（种种约束或对象化）中“撵”出去，从而对邻人或境遇的福祉作出积极贡献。这些行为既然是*道德上*具有规定作用的，便采取对具体他人而非理想或抽象（比如“一般的人性”）负责的承诺形式。因此，自由应当理解为“处境中的”“承诺性的”（Zea 1952 [2017: 135]）[^zea-1952]。这是一种“负责任的自由，一种意识到自身界限的自由”（135）。照此说法，自由与责任是同一枚硬币的两面；用塞亚的话说：“没有责任，就没有自由”（135）。波蒂利亚也赞同：“一个人越是负起责任，”他写道，“就越是自由；越是自由，就越是作为人肯定自身”（Portilla 1966 [2012: 162]）[^portilla-1966][^portilla-1966-2]。换句话说，从压迫（身体或心理的、殖民的或别的）中解放，取决于为自己所处的具体处境担起责任、为之行动。选择负责任而有承诺的行动，就是自由的本质。
+  - id: 12
+    kind: body
+    source: |-
+      #### 2.1.2 Circumstance
+    step1: |-
+      #### 2.1.2 境遇
+    step2: |-
+      #### 2.1.2 境遇
+  - id: 13
+    kind: body
+    source: |-
+      Mexican existentialism responds to a particular Mexican crisis. It is a historical crisis of identity, of belonging, and of values. The philosophical models and approaches needed to address this crisis must be rooted in the Mexican circumstance. “After all,” writes Leopoldo Zea, “if we are to be faithful to our calling, we have to affirm that our *situation* is not that of Jean-Paul Sartre. Our situation is not that of the European bourgeoisie” (1952 [2017: 137]). Zea’s point is two-fold: the first, which is an obvious point, is that both the Mexican and the European situations are qualitatively different; and two, that given its own moral failings, central among these the catastrophe of the Holocaust, Europe has lost the moral authority to serve as a model to anyone, but especially Latin American philosophers seeking a philosophical orientation. The general idea motivating Zea is that human existence is necessarily situational, conditioned by space and time, and that philosophy itself emerges from reflecting on that situation—on its past, present, and future. These reflections constitute the core of Mexican existentialism.
+    step1: |-
+      墨西哥存在主义回应一场特定的墨西哥危机。这是一场关于身份、归属与价值的历史危机。应对这场危机所需的哲学模型与进路必须植根于墨西哥境遇。“毕竟，”莱奥波尔多·塞亚写道，“如果我们要忠于自己的使命，就必须肯定：我们的*处境*不是让-保罗·萨特的处境。我们的处境不是欧洲资产阶级的处境”（1952 [2017: 137]）。塞亚的要点有两层：第一（这是显而易见的一点），墨西哥与欧洲的处境在质上不同；第二，鉴于欧洲自身的道德失败——其中核心是大屠杀的灾难——欧洲已失去了充当任何人榜样（尤其是寻求哲学定向的拉丁美洲哲学家）的道德权威。驱动塞亚的总体想法是：人的存在必然是处境性的，受空间与时间的制约；而哲学本身正是从反思这一处境——反思其过去、现在与未来——中产生的。这些反思构成了墨西哥存在主义的核心。
+    step2: |-
+      墨西哥存在主义回应的是一场具体的墨西哥危机：身份、归属与价值的历史危机。要应对这场危机，所需的哲学模型与进路必须扎根于墨西哥境遇。“毕竟，”塞亚写道，“要忠于我们的使命，就得承认：我们的*处境*不是萨特的处境，不是欧洲资产阶级的处境”（1952 [2017: 137]）。塞亚的话有两层意思。一层显而易见：墨西哥与欧洲的处境在质上不同。另一层是：欧洲自身在道德上已经破产——其中尤以大屠杀这场灾难为最——因此再无资格充当任何人的榜样，对寻求哲学定向的拉美哲学家来说尤其如此。驱动塞亚的总想法是：人的存在必然是处境性的，受时间与空间制约；哲学本身也从对这一处境的反思中生长出来——反思它的过去、现在与未来。这些反思，正是墨西哥存在主义的核心。
+  - id: 14
+    kind: body
+    source: |-
+      Existentialism in Mexico grows in popularity in the late 1940s. The groundwork for this growth, however, was laid decades before, with the introduction into Mexico of José Ortega y Gasset’s (1883–1955) notion of “vital reason” in the 1920s. Ortega’s doctrine of vital reason privileges perspective and situatedness over abstractness and rational detachment, proposing that what matters is how human beings respond to their own particular circumstance. In his *Meditations on Quixote*, written in 1914, the Spanish philosopher introduces the centrality of circumstance in his anti-Cartesian “circumstantialist” principle: “I am myself and my circumstance, and if I don’t save it, I don’t save myself” (Ortega 1999: 45; see also Romanell 1951)[^romanell-1951]. What this principle conveys is that what is truly meaningful about one’s life is not something intangible, but something concrete, namely the place where one stands, the everyday details that make one up, or those things that create one’s identity in context. In a brief, illuminating phrase, it describes the nature of one’s identity (which is a marriage of *self* and *circumstance*) and, also, what one needs to do on its behalf (namely, “save it,” or preserve it by understanding it, advocating for it, or loving it). Circumstance, or in its Latin, *circum* and *stantia*, refers to that which *stands around*, including mountains, streets, forests, sky, or the totality of the environment…these are all “circumstance.” But “circumstance” is also language, culture, tradition, history, existing social relations. In sum, the circumstance is the totality of that *habitat* in which I find myself and that could identify me, inform me, or constitute me.
+    step1: |-
+      墨西哥的存在主义在 1940 年代末日益流行。然而，这一成长的基础早在几十年前就已奠定：1920 年代，何塞·奥尔特加·加塞特（1883–1955）的“生命理性”概念被引入墨西哥。奥尔特加的生命理性学说赋予视角与处境以优先地位，而贬低抽象与理性超脱；它提出，要紧的是人如何回应自己特定的境遇。这位西班牙哲学家在 1914 年写成的《堂吉诃德沉思》中，以他那反笛卡尔的“境遇主义”原则引入了境遇的中心地位：“我就是我自己加上我的境遇；如果我不拯救它，我也就拯救不了我自己”（Ortega 1999: 45；另参 Romanell 1951）[^romanell-1951]。这一原则所传达的是：一个人生命中真正有意义的东西不是不可捉摸的，而是具体的，即他所站立的地方、构成他的日常细节，或在语境中造就其身份的那些事物。它用一句简短而富有启发的话，既描述了一个人身份的本性（身份是*自我*与*境遇*的结合），也描述了一个人为此需要做什么（即“拯救它”，或通过理解它、为它主张、爱它来保存它）。境遇，其拉丁文词源为 *circum* 与 *stantia*，指的是*环绕而立*的东西，包括群山、街道、森林、天空，或环境的整体……这些都是“境遇”。但“境遇”也是语言、文化、传统、历史、现存的社会关系。总之，境遇是我身处其中、可能识别我、告知我或构成我的那整个*栖居地*。
+    step2: |-
+      墨西哥存在主义在 1940 年代末走红。但它的根扎得更早：1920 年代，何塞·奥尔特加·加塞特（1883–1955）的“生命理性”（razón vital）概念传入墨西哥。奥尔特加这套学说抬举视角与处境，贬低抽象与理性超脱，主张要紧的是人如何回应自己那份特定的境遇。1914 年写成的《堂吉诃德沉思》里，这位西班牙哲学家以反笛卡尔的“境遇主义”原则把境遇摆到中心：“我就是我自己加上我的境遇；若不拯救它，我便拯救不了自己”（Ortega 1999: 45；另参 Romanell 1951）[^romanell-1951]。这句话的意思是：人生中真正有意义的东西并不缥缈，它很具体——你站立的地方、构成你的日常细节、在具体脉络中造就你身份的那些事物。短短一句话，既点明身份的本性（身份是*自我*与*境遇*的结合），也点明你该为它做什么（“拯救它”：靠理解、主张与爱来保全它）。境遇，拉丁文作 *circum* 加 *stantia*，指*环绕而立*的一切：山峦、街道、森林、天空，或整个环境……这些都是“境遇”。但“境遇”也是语言、文化、传统、历史与现存的社会关系。总而言之，境遇就是我身处其中、可能识别我、塑造我或构成我的那整个*栖居地*。
+  - id: 15
+    kind: body
+    source: |-
+      Ortega’s “circumstantialist” principle takes the form of an equation where the “I am” is the sum total of a “self” and the self’s “circumstance” (myself + circumstance = I am). The suggestion here is that the “I am” is not reducible merely to an “I think” or identical merely to itself. The “I am,” that is, is a product of an ego in a circumstance, in that situation in which it finds itself. The second part of the principle, moreover, says that if the circumstances cannot be “saved,” then the “myself” cannot be saved. This simply points back to the essential connection between myself and the circumstance that inform the “I am,” and the commitment and responsibility this implies. The circumstance limits me, but also affords me the ways in which I can respond to it. Mexican existentialists centered this principle in their philosophical project, imagining their identities as irrevocably tied to their circumstance, both in crisis and both demanding to be saved.
+    step1: |-
+      奥尔特加的“境遇主义”原则取一个等式的形式：“我在”是“自我”与自我之“境遇”的总和（我自己＋境遇＝我在）。此处的提示是：“我在”不能仅仅还原为“我思”，也不能仅仅等同于自身。“我在”是一个处于境遇中的自我、处于它所发现自己之处的那种处境的产物。而且，该原则的第二部分说：如果境遇不能被“拯救”，那么“我自己”也就不能被拯救。这不过是指回“我自己”与“境遇”之间那种构成“我在”的本质联系，以及它所蕴含的承诺与责任。境遇限制我，但也给予我回应它的方式。墨西哥存在主义者把这一原则置于其哲学计划的中心，把自己的身份想象为与境遇不可分割地绑在一起，两者都处于危机之中，两者都要求被拯救。
+    step2: |-
+      奥尔特加的“境遇主义”原则可以写成一个等式：“我在”等于“自我”加上自我的“境遇”（我自己＋境遇＝我在）。这暗示，“我在”不能还原为单纯的“我思”，也不能等同于自身；“我在”是自我处在境遇中、处在它所遭遇的那种处境中的产物。原则的后半句还说：境遇若不能“拯救”，“我自己”也就无从拯救。这无非是回到“我自己”与“境遇”之间那层构成“我在”的本质联系，以及由此而来的承诺与责任。境遇限制我，同时也给我回应它的方式。墨西哥存在主义者把这条原则摆在哲学计划的中心，认为自己的身份与境遇牢不可分：两者同处危机，也同待拯救。
+  - id: 16
+    kind: body
+    source: |-
+      To be free is to become aware of my determination in a circumstance and choosing to commit myself to it in responsible ways—in other words, to engage my world. This means that freedom cannot be radical in the sense of a being unconstrained by any obstacle; the circumstance is an obstacle, it stands before us and must be dealt with—the way we deal with it determines us as free (Uranga 1947: 6)[^uranga-1947]. Thus, in freedom I affirm my subjectivity and I do this in responsibility committing myself to my circumstance. For Mexican existentialists, this takes the form of choosing to commit myself to the world *as I find it* and taking responsibility for it (for the sake of “saving” it) precisely because of the state in which I find it.
+    step1: |-
+      自由就是意识到我在境遇中的被规定性，并选择以负责任的方式献身于它——换句话说，投入我的世界。这意味着自由不能是“不受任何障碍约束的”那种意义上的激进的自由；境遇就是障碍，它立在我们面前，必须被处理——我们处理它的方式把我们规定为自由的（Uranga 1947: 6）[^uranga-1947]。因此，在自由中我肯定自己的主体性，而这是通过负责任地献身于我的境遇来做的。对墨西哥存在主义者来说，这采取这样的形式：选择献身于*我所发现的世界*，并为它承担责任（为了“拯救”它）——恰恰因为我在其中所发现的状况。
+    step2: |-
+      自由，就是意识到自己在境遇中受到规定，并选择以负责任的方式献身于它——也就是投入自己的世界。可见自由不能是“不受任何障碍约束”的那种激进自由：境遇本身就是障碍，它挡住去路，必须应对；而我们应对它的方式，恰恰把我们规定为自由的（Uranga 1947: 6）[^uranga-1947]。于是，我在自由中肯定自己的主体性，而这是靠负责任地献身于自己的境遇来完成的。对墨西哥存在主义者而言，这就是选择献身于*我所发现的世界*，并为之担责（为了“拯救”它）——恰恰因为世界在我眼前呈现出的这副样子。
+  - id: 17
+    kind: body
+    source: |-
+      #### 2.1.3 Responsibility
+    step1: |-
+      #### 2.1.3 责任
+    step2: |-
+      #### 2.1.3 责任
+  - id: 18
+    kind: body
+    source: |-
+      Of course, in one’s exercise of freedom, one can choose not to choose. But in Mexican existentialism, this unwillingness to choose (*desgana*: see below), rather than an expression of freedom, is seen as a form of withdrawal from the world, a refusal to be free. Freedom requires the willingness to choose, along with the willingness to commit oneself to what is chosen.
+    step1: |-
+      当然，在行使自由时，人可以选择不选择。但在墨西哥存在主义中，这种不愿选择（*desgana*：见下文）不被看作自由的表达，而被视为一种从世界中退出的形式，一种拒绝自由的作法。自由要求选择的意愿，也要求献身于所选之物的意愿。
+    step2: |-
+      当然，人在行使自由时也可以选择不选择。但在墨西哥存在主义看来，这种“不愿选择”（*desgana*，详见下文）不是自由的表达，而是从世界退缩、拒绝自由。自由既要有选择的意愿，也要有献身于所选之物的意愿。
+  - id: 19
+    kind: body
+    source: |-
+      But how does one choose one’s commitments and responsibilities? Leopoldo Zea proposes a hierarchy of commitments and responsibilities, where commitment to and responsibility for one’s concrete situation or circumstance sits at the top, while commitment to or responsibility for ideas or abstractions fall somewhere below that. He writes: “Committing ourselves to the universal and the eternal, without making a single concrete commitment, does not commit us to anything” (Zea 1952 [2017: 138])[^zea-1952]. For instance, as philosophers, it is possible to commit ourselves to ideals or abstractions, such as universal moral imperatives. However, it is more valuable and worthwhile, Zea proposes, if we commit ourselves to ideas and concepts connected to what we actually see and experience. This is because for Zea, “existentialism does not wish to elude reality, does not evade it, it confronts it, assuming it with all of its consequences” (Zea 1949)[^zea-1949].
+    step1: |-
+      但人如何选择自己的承诺与责任呢？莱奥波尔多·塞亚提出一种承诺与责任的层级：对自己的具体处境或境遇的承诺与责任居于顶端，而对观念或抽象的承诺与责任则居于其下某处。他写道：“献身于普遍与永恒，却不作任何一项具体承诺，那不会使我们承诺于任何东西”（Zea 1952 [2017: 138]）[^zea-1952]。例如，作为哲学家，我们有可能献身于理想或抽象，比如普遍的道德律令。然而塞亚提出，如果我们献身于与实际所见所经验之物相联系的观念与概念，那就更有价值、更值得。因为对塞亚来说，“存在主义不愿逃避现实，它不回避现实，而是面对现实，连同其一切后果一起承担它”（Zea 1949）[^zea-1949]。
+    step2: |-
+      可人怎么选择自己的承诺与责任？塞亚给出一个层级：对自身具体处境或境遇的承诺与责任居首，对观念或抽象的承诺与责任则排在下面。他写道：“献身于普遍与永恒，却不肯作出哪怕一项具体承诺，这不会使我们承诺于任何东西”（Zea 1952 [2017: 138]）[^zea-1952]。举例来说，身为哲学家，我们当然可以献身于理想或抽象，比如普遍的道德律令。但塞亚认为，若献身于与实际所见所经验之物相关的观念与概念，那更有价值、更值得。因为在他看来，“存在主义不愿逃避现实，也不回避现实；它直面现实，连同一切后果一起承担”（Zea 1949）[^zea-1949]。
+  - id: 20
+    kind: body
+    source: |-
+      Echoing Sartre and the European existentialist tradition, Zea says that “every person is a committed agent, that is, inserted, *thrown*, or placed in a world in which they must act and for which they must be responsible” (Zea 1952 [2017: 126])[^zea-1952]. Where Zea diverges is in suggesting that the world in which we are thrown is not “the world,” or that abstract landscape where “mankind” or “humankind” makes its home; the world of Zea and the Mexican existentialists is the non-European world, the conquered, colonized, and peripheral world of the non-European “other”—the Americas (Larroyo 1951)[^larroyo-1951]. As Uranga puts it: “There is no world which is pure, neither is there pure consciousness; rather, there is always a consciousness in a situation, or commitment, which means at once a thrownness toward the world and the possibility to return to it so as to acquire a consciousness of the sense and essence of our commitment” (Uranga 1949: 227)[^uranga-1949]. Once consciousness of the particularity of this, Mexican, world is “acquired” then the choice becomes clear: to commit or to flee, to be responsible or to be unwilling. For Zea, as with the rest of the Mexican existentialist, fleeing and unwillingness are not authentic options: “We have to take responsibility for a past not of our making: yet at the same time, with our attitude, whatever it might be, we commit and take responsibility for a future that must be made by us. In this way, we are responsible for others in the presence of others. This, in short, is the essence of commitment” (1952 [2017: 127]). In Mexico, as in other historical geographies with a defined colonial inheritance, the sort of commitments and responsibilities that Zea and Uranga have in mind involve confronting the colonial past, challenging it, and, ultimately overcoming it, while keeping a firm grasp on the future. This sort of work is done via political action, journalism, speaking for those who cannot speak for themselves, and the kind of critical unmasking of which philosophy is capable. In this sense, commitment to philosophy is a form of responsibility.
+    step1: |-
+      呼应萨特与欧洲存在主义传统，塞亚说“每个人都是一个有所承诺的行动者，也就是说，被插入、*被抛*或安置在一个世界中，他必须在那里行动，并必须为之负责”（Zea 1952 [2017: 126]）[^zea-1952]。塞亚的不同之处在于：我们被抛入的世界并不是“世界”，也不是“人类”或“人性”安家的那个抽象景观；塞亚与墨西哥存在主义者的世界是非欧洲的世界，是被征服、被殖民的边缘世界，是非欧洲“他者”的世界——美洲（Larroyo 1951）[^larroyo-1951]。正如乌兰加所说：“没有纯粹的世界，也没有纯粹的意识；有的始终是处境中的、或承诺中的意识，这同时意味着一种朝向世界的被抛性，以及回到世界、从而获得关于我们承诺之意义与本质的意识的可能性”（Uranga 1949: 227）[^uranga-1949]。一旦“获得”对这个特定的、墨西哥的世界的特殊性的意识，选择就变得清楚了：承诺还是逃离，负责还是不欲。对塞亚以及其余墨西哥存在主义者来说，逃离与不欲都不是本真的选项：“我们必须为一个并非我们所造的过去负责；但同时，无论我们的态度如何，我们都在承诺并为一个必须由我们造就的未来负责。这样，我们在他人的在场中为他人负责。简言之，这就是承诺的本质”（1952 [2017: 127]）。在墨西哥，如同在其他具有明确殖民遗产的历史地域，塞亚与乌兰加所想的那种承诺与责任，涉及直面殖民的过去、挑战它、并最终克服它，同时牢牢把握未来。这类工作通过政治行动、新闻写作、为不能为自己发声者代言，以及哲学所能做的那种批判性揭蔽来完成。在这个意义上，对哲学的承诺是一种责任形式。
+    step2: |-
+      塞亚呼应萨特与欧洲存在主义传统：每个人都是“有所承诺的行动者”——被插入、*被抛*或安置在一个世界里，他必须在那里行动，也必须为之负责（Zea 1952 [2017: 126]）[^zea-1952]。塞亚的不同在于：我们被抛入的这个世界，不是“世界”，不是“人类”安家的那片抽象风景。塞亚与墨西哥存在主义者的世界，是非欧洲的世界，是被征服、被殖民的边缘世界，是非欧洲“他者”——美洲——的世界（Larroyo 1951）[^larroyo-1951]。乌兰加说得好：“没有纯粹的世界，也没有纯粹的意识；有的永远是处境中的意识、承诺中的意识。这既是朝世界而去的一种被抛，也是回到世界、以取得对我们承诺之意义与本质的意识的可能性”（Uranga 1949: 227）[^uranga-1949]。一旦“取得”对这个特定的墨西哥世界之特殊性的意识，选择就清楚了：承诺还是逃离，负责还是“不欲”。对塞亚和其余墨西哥存在主义者来说，逃离与“不欲”都不是本真选项：“我们必须为一个并非自己造就的过去担责；但与此同时，无论采取什么态度，我们都在承诺，并为一个必须由我们造就的未来担责。我们就以这种方式，在他人的面前为他人负责。简言之，这就是承诺的本质”（1952 [2017: 127]）。在墨西哥，如同在其他有着明确殖民遗产的历史地域，塞亚与乌兰加心目中的承诺与责任，意味着直面殖民的过去、挑战它，最终克服它，同时牢牢抓住未来。这类活计靠政治行动、新闻写作、为无法发声者发声，以及哲学特有的批判性揭蔽来完成。就此而言，对哲学的承诺本身就是一种担责。
+  - id: 21
+    kind: body
+    source: |-
+      ### 2.2 Accidentality
+    step1: |-
+      ### 2.2 偶在性
+    step2: |-
+      ### 2.2 偶在性
+  - id: 22
+    kind: body
+    source: |-
+      A key concept in Mexican existentialism is “accidentality.” Accidentality refers to the *being of the accident,* or to the mode of existence belonging to concrete beings lacking in “substantial consistency” (Portilla 1949 [2017: 186])[^portilla-1949]. In the context of this tradition, what is substantially consistent is unaffected by space, time, or circumstance (by “history”); importantly, substantial consistency is central to the Eurocentric ideal of humanity, or the idea of “the human” or “humanity in general” (Uranga 1952 [2021: 107])[^uranga-1952][^uranga-1952-2]. To be an accident in relation to this ideal is thus to be an insufficient, and even dependent, instantiation of that ideal. Accidentality—*insubstantial inconsistency*—is a being “less than” the ideal of humanity and any of the ways this ideal is represented in culture, history, or society.
+    step1: |-
+      墨西哥存在主义的一个关键概念是“偶在性”。偶在性指*偶性的存在*，或者说，指缺乏“实体性一贯”的具体存在者所拥有的存在方式（Portilla 1949 [2017: 186]）[^portilla-1949]。在这一传统的语境中，具有实体性一贯的东西不受空间、时间或境遇（即“历史”）的影响；重要的是，实体性一贯对欧洲中心的人性理想、即“人”或“一般人性”的观念来说居于核心（Uranga 1952 [2021: 107]）[^uranga-1952][^uranga-1952-2]。因此，相对于这一理想而作为偶性存在，就是作为该理想的一种不充分的、甚至依赖性的实例化。偶在性——*非实体的不一贯*——是一种“低于”人性理想以及该理想在文化、历史或社会中之任何表现的存在。
+    step2: |-
+      墨西哥存在主义的一个关键概念是“偶在性”。它指的是*偶性的存在*，即缺乏“实体性一贯”的具体存在者所处的存在方式（Portilla 1949 [2017: 186]）[^portilla-1949]。在这一传统里，“实体性一贯”意味着不受空间、时间或境遇（即“历史”）影响；要紧的是，实体性一贯乃是欧洲中心的人性理想——“人”或“一般人性”——的支柱（Uranga 1952 [2021: 107]）[^uranga-1952][^uranga-1952-2]。所以，相对于这个理想而作为偶性存在，就是充当该理想的一种不充分、甚至依赖性的实例。偶在性——*非实体的不一贯*——是一种“低于”人性理想的存在，也低于该理想在文化、历史、社会中的任何表现。
+  - id: 23
+    kind: body
+    source: |-
+      Emilio Uranga describes the accident as “fragility” due to its relation of dependency to the ideal, or to “substance.” He writes:
+    step1: |-
+      埃米利奥·乌兰加把偶性描述为“脆弱”，因为偶性与理想、或与“实体”处于依赖关系。他写道：
+    step2: |-
+      乌兰加把偶性说成“脆弱”，因为它与理想、与“实体”之间是一种依赖关系。他写道：
+  - id: 24
+    kind: body
+    source: |-
+      > The accident is fragility: oscillation between being and nothingness. This means that its “fit” in being, its adhesion to being expressed in the modality of being-in, is not protected by an inalienable right, but rather whatever may be the form of its inherence, it is always revocable. The accident is constantly threatened by displacement [*desalojamiento*]. Attached to being, it can always be torn off from its “there,” exterminated. Whatever it holds on to, whatever handle it grabs on to, can be removed. It was born to be-in and at the same time to not-be-in. (Uranga 1952 [2021: 116])[^uranga-1952][^uranga-1952-2]
+    step1: |-
+      > 偶性即脆弱：在有与无之间摆荡。这意味着，它在存在中的“贴合”、它以“在之中”这一模态对存在的依附，并不受一项不可剥夺的权利的保护；相反，无论其内属的形式为何，它总是可被撤销的。偶性时刻受到错位［*desalojamiento*］的威胁。它依附于存在，却随时可能从其“那里”被撕下、被消灭。它抓住什么、攀住什么把手，都可能被移走。它生来就是要“在之中”，同时又“不在之中”。（Uranga 1952 [2021: 116]）[^uranga-1952][^uranga-1952-2]
+    step2: |-
+      > 偶性就是脆弱：在有与无之间来回摆荡。也就是说，它在存在中的“贴合”、它以“在之中”的方式对存在的附着，并没有什么不可剥夺的权利来保障；不管它以何种方式内属于存在，这份内属随时可被撤销。偶性时时面临错位［*desalojamiento*］的威胁：它附着于存在，却随时可能从自己的“那里”被撕下来、被消灭。它抓住什么、攀住什么，都可能被夺走。它生来就要“在之中”，同时又要“不在之中”。（Uranga 1952 [2021: 116]）[^uranga-1952][^uranga-1952-2]
+  - id: 25
+    kind: body
+    source: |-
+      While Uranga proposes that accidentality, as this fragile relation to being (to substance), characterizes the Mexican experience in particular, what he means is that Mexican persons *recognize* it as such, and they do so as a result of sharing in the trauma of their own history, which is one of violence, uprootedness, marginalization, and hardship. Such recognition demands thinking of life itself as revocable, finite, subject to precarity or extermination.
+    step1: |-
+      虽然乌兰加提出，偶在性作为这种与存在（与实体）的脆弱关系，特别刻画了墨西哥经验，但他真正的意思是：墨西哥人*认出*它是如此，而他们之所以能认出，是因为他们分担着自己历史的创伤——那是一部充满暴力、连根拔起、边缘化与艰辛的历史。这样的认出要求把生命本身思考为可撤销的、有限的、随时可能陷入不安定或被消灭的。
+    step2: |-
+      乌兰加说，偶在性——这种与存在（与实体）之间的脆弱关系——特别刻画了墨西哥经验。但他的意思其实是：墨西哥人*认出*了自己身上的这种偶在性，而他们之所以能认出，是因为他们共同承担着自身历史的创伤——那是暴力、连根拔起、边缘化与艰辛交织的历史。这样的认，要求把生命本身看作可撤销的、有限的，随时可能陷入不安定，甚至被消灭。
+  - id: 26
+    kind: body
+    source: |-
+      Accidentality has an established philosophical historiography. Aristotle says that substance is primary and self-sufficient and that the accident is secondary and dependent. Accidents are accidental attributes of substance. Applied to persons, these categories and distinctions mean that those who are substantial are self-sufficient and necessary while those that are accidental are inessential, dependent, and insufficient. Persons defined by accidentality will be those that “through a thousand accidents of history, of culture or society, have been framed by the catastrophic” (1952 [2021: 185]). Those framed by the catastrophic are familiar with historical violence and finitude and understand the world through their accidentality, that is, as precarious and finite. Uranga suggests that Mexicans in particular, but also, and in general, peoples living in the peripheries of world history, in its margins and undersides, have been framed—and frame themselves—in this way. (An alternative reconstruction of accidentality is offered by Vargas 2020)[^vargas-2020].
+    step1: |-
+      偶在性有一套既定的哲学史编纂。亚里士多德说实体是第一位的、自足的，偶性是第二位的、依赖的。偶性是实体的偶性属性。把这些范畴与区分应用于人，就意味着：实体性的东西是自足的、必然的，而偶性的东西则是非本质的、依赖的、不充分的。由偶在性定义的人，将是那些“经由历史、文化或社会的千百次偶变，被灾难所框定”的人（1952 [2021: 185]）。被灾难框定的人熟悉历史暴力与有限性，并通过自己的偶在性——即作为不安定的、有限的——来理解世界。乌兰加认为，墨西哥人尤其如此；但一般而言，居于世界历史边缘、处在边缘与底层的人民也是如此：他们被这样框定，也这样框定自己。（另一种对偶在性的重构见 Vargas 2020）[^vargas-2020]。
+    step2: |-
+      偶在性在哲学史上自有脉络。亚里士多德认为实体是第一位的、自足的，偶性是第二位的、依赖的；偶性只是实体的偶性属性。把这对范畴用在人身上就意味着：实体性的存在者自足而必然，偶性的存在者则非本质、依赖、不充分。由偶在性来定义的人，就是“被历史、文化或社会的千百次偶变所框定、被灾难所塑造”的那些人（1952 [2021: 185]）。被灾难塑造的人，熟悉历史暴力与有限性，也通过自身的偶在性——即作为不安定、有限的存在——来理解世界。乌兰加认为，墨西哥人尤其如此；推而广之，凡居于世界历史边缘、处在边缘和底层的人民，都是这样被塑造、也这样塑造自己的。（另一种对偶在性的重构见 Vargas 2020）[^vargas-2020]。
+  - id: 27
+    kind: body
+    source: |-
+      We can think of accidentality, then, in a metaphysical sense as a deficiency or a lack-of-being before substance. Mexican existentialists, like Uranga, explicitly reject substance metaphysics in favor of a metaphysics of the accident where accidentality is all there is, thus revealing *individual* human life as indeterminate, ungrounded, and always already abandoned onto its context. No matter how connected I *feel* to substance, whether that comes in the form of God, the State, Capitalism, and so on, this relation will always be fragile, breakable, and uncertain. This uncertain relation to what only seems substantially independent ultimately exposes my temporality, my finitude, and my accidentality.
+    step1: |-
+      于是，我们可以在形而上学意义上把偶在性思考为面对实体时的欠缺或存在之匮乏。像乌兰加这样的墨西哥存在主义者明确拒斥实体形而上学，转而主张一种偶性形而上学：其中只有偶在性，从而使*个体*的人类生命显现为不确定的、无根据的、且总是已经被遗弃在其语境之中的。无论我*感到*自己与实体有多么紧密的联系——不论它以神、国家、资本主义等等形式出现——这种联系都将是脆弱的、可断裂的、不确定的。与那个仅仅显得实体性独立的东西之间的这种不确定关系，最终暴露出我的时间性、我的有限性与我的偶在性。
+    step2: |-
+      这样看来，在形而上学层面上，偶在性就是面对实体时的一种欠缺、一种存在上的匮乏。乌兰加等墨西哥存在主义者明确拒斥实体形而上学，主张一种“偶性的形而上学”：在这里，除了偶在性别无所有。于是，*个体*的人类生命显出它本来的样子——不确定、无根基，而且从一开始就被抛在其语境之中。无论我*觉得*自己与实体有多亲近——不论是神、国家还是资本主义——这种关系永远脆弱、易断、不可靠。人同那个看似实体性独立的东西之间这层不确定的关系，最终暴露出我的时间性、我的有限性、我的偶在性。
+  - id: 28
+    kind: body
+    source: |-
+      A prescriptive upshot in Uranga’s existential philosophy of accidentality is that keeping one’s accidentality firmly in mind is good for the business of life, and this for at least two reasons. One, in recognizing it and affirming it, we become more sensitive to our finitude or our human limitations. This in turn refocuses our existential concerns to what is most important, such as the needs of others, our own well-being, and our determinate circumstance. And two, recognizing our accidentality strips us of the self-delusion that we can ever achieve “substantiality”—i.e., absolute self-independence or perfection.
+    step1: |-
+      乌兰加的偶在性存在哲学有一个规范性的推论：牢牢记住自己的偶在性，对生活事务有好处，理由至少有两个。其一，在认出并肯定它时，我们对自己的有限性或人的局限变得更敏感。这又反过来把我们的存在关切重新聚焦于最重要的事情上，比如他人的需要、自身福祉与特定的境遇。其二，认出自己的偶在性，剥去了我们“终能达致实体性”——即绝对的自我独立或完善——这一自我欺骗。
+    step2: |-
+      乌兰加的偶在性存在哲学还有个规范性的结论：把偶在性牢牢放在心上，对过日子有好处，理由至少两条。第一，认出并肯定偶在性，我们会对自身的有限性与人的局限更加敏感；这又会把存在关切重新对准最要紧的事——他人的需要、自身的福祉、特定的境遇。第二，认出偶在性，就剥掉了那层自欺：以为自己终能获得“实体性”，即绝对的自足或完善。
+  - id: 29
+    kind: body
+    source: |-
+      #### 2.2.1 Substantialization
+    step1: |-
+      #### 2.2.1 实体化
+    step2: |-
+      #### 2.2.1 实体化
+  - id: 30
+    kind: body
+    source: |-
+      Substantialization is the opposite of accidentality. It is the (illusory) belief that one’s being, identity, or purpose is stable, determined, and self-sufficient. According to Uranga, “substantialization” [*sustancialidad*] is an obstacle to the liberation of the Mexican mind. “Substantialization” remains today as an aspirational ideal by those who believe in the superiority of classes, cultures, races, or ideals. Uranga thinks that the ideal of substantialization is “inhuman.” It is inhuman because it needlessly and harmfully divides people into those who are "substance" and those who are "accident," which is a false division because it is not humanly possible for *anybody* to actually *be* substance in the sense described. Liberation from this ideal means awakening Mexican consciousness to the recognition of what is most human and most true about human existence, namely, “accidentality.” In *Analysis of Mexican Being*, Uranga proposes that what distinguishes Mexicans from other peoples (especially Europeans) is the fact that they have “an ear” to their accidentality, to the terrifying realization that their lives are both a product of chance and always on the brink of “extermination” (116).
+    step1: |-
+      实体化是偶在性的反面。它是对下述看法的（虚幻）信念：自己的存在、身份或目的是稳定的、被规定的、自足的。按乌兰加所说，“实体化”［*sustancialidad*］是墨西哥精神解放的障碍。“实体化”在今天仍然是那些相信阶级、文化、种族或理想优越性的人的向往理想。乌兰加认为，实体化的理想是“非人的”。它之所以非人，是因为它无必要且有害地把人分成“实体”与“偶性”两类；这是一种虚假的划分，因为按所述的意义，*任何人*实际上都*不可能*成为实体。从这一理想中解放，意味着唤醒墨西哥意识，使之认出人类存在最人性、最真实的东西，即“偶在性”。在《墨西哥存在分析》中，乌兰加提出，使墨西哥人区别于其他民族（尤其是欧洲人）的，是他们对自己的偶在性“有耳朵”，能听见那骇人的领悟：他们的生命既是偶然的产物，又总处在“被消灭”的边缘（116）。
+    step2: |-
+      实体化是偶在性的反面。它是对下面这一点的（虚妄）信念：自己的存在、身份或目的是稳当的、确定的、自足的。乌兰加说，“实体化”［*sustancialidad*］是墨西哥心灵解放的绊脚石。今天，仍有人信奉“实体化”，把它当作值得追求的理想——他们相信某些阶级、文化、种族或理想高人一等。乌兰加认为，实体化的理想“非人”。它非人，是因为它毫无必要而又有害地把人分成“实体”与“偶性”两类；这种划分是假的：按上述意义，任何人实际上都*不可能*成为实体。要从这个理想中解放，就得唤醒墨西哥意识，让它认出人类存在中最人性、最真实的东西——“偶在性”。在《墨西哥存在分析》中，乌兰加提出：墨西哥人之所以有别于其他民族（尤其是欧洲人），是因为他们对自己的偶在性“有耳朵”——听得见那骇人的领悟：自己的生命既是偶然的产物，又总悬在“被消灭”的边缘（116）。
+  - id: 31
+    kind: body
+    source: |-
+      For finite beings, substantiality is not an aspirational ideal. No one can ever *become* substance. Now, while Uranga has in mind the harm caused by the myth of substantiality to the Mexican sense of self, today we can see it play out, for instance, in the United States, in those cultural and social conceptions of immigrants and refugees as “insufficiently” human, or insufficiently civilized, compared to “true” or “real” or “authentic” “American” citizens. As insufficient, immigrants and refugees are thus treated as inessential to life itself, and as accidental to it (see Mendoza 2016; Sánchez 2014)[^mendoza-2016][^sánchez-2014]. The truth is, however, that insufficiency is the essence of the concrete, so even the rich, the powerful, “Americans,” or “citizens,” and so on, can never achieve, nor can they aspire to, the substantial being that they may claim for themselves. We are all insufficient, inessential, and accidental to life, to the planet, to the universe.
+    step1: |-
+      对有限的存在者来说，实体性不是值得追求的理想。没有人能*成为*实体。现在，虽然乌兰加心中想的是实体性神话对墨西哥人自我感造成的伤害，但今天我们也能在美国看到它的上演：在那些把移民与难民看成“不够”人、或不够文明的观念中——与“真正”或“真实”或“正宗”的“美国”公民相比。于是，作为不充分者，移民与难民被视为对生命本身而言非本质的、对生命而言偶性的（参 Mendoza 2016；Sánchez 2014）[^mendoza-2016][^sánchez-2014]。然而，真相是：不充分正是具体者的本质；因此，即便是富人、权势者、“美国人”或“公民”等等，也永远无法达到、甚至不能奢望他们为自己所声称的那种实体性存在。我们对生命、对行星、对宇宙而言，都是不充分的、非本质的、偶性的。
+    step2: |-
+      对有限的存在者而言，实体性算不上什么值得追求的理想。没有人能*成为*实体。乌兰加心里想的是实体性神话对墨西哥人自我感的伤害；但今天，我们也能在美国看到同样的戏码：在社会文化观念里，移民与难民被看成“不够”人、不够文明——比不上“真正”“真实”或“正宗”的“美国”公民。既然是“不充分”的，移民与难民便被当作对生命本身无足轻重、纯属偶然的东西（参 Mendoza 2016；Sánchez 2014）[^mendoza-2016][^sánchez-2014]。可真相是：不充分恰恰是具体者的本质。所以，富人也好，权势者也好，“美国人”或“公民”也好，都永远达不到、也休想达到他们自诩的那种实体性存在。在生命面前、在这颗行星面前、在宇宙面前，我们都一样不充分、一样无足轻重、一样偶在。
+  - id: 32
+    kind: body
+    source: |-
+      #### 2.2.2 Insufficiency
+    step1: |-
+      #### 2.2.2 不足
+    step2: |-
+      #### 2.2.2 不足
+  - id: 33
+    kind: body
+    source: |-
+      “Insufficiency” [*Insuficiencia*] is a mode of accidentality. It is the ontological correlate to the psychological “complex of inferiority.” The latter is the *feeling* of impotence and inadequacy that can overwhelm a person in the presence of something that appears superior or “better than.” It is originally posited in response to Samuel Ramos (1934) suggestion that an essential characteristic of the Mexican people was a shared feeling of inferiority explained much of their behavior toward themselves and one another. Against Ramos, Uranga argues that the Mexican inferiority complex is but a symptom of a much deeper *human* condition, namely, accidentality experienced as insufficiency. In other words, the Mexican experience as inferiority is really a foundational (or ontological) insufficiency that describes every finite, mortal, and bounded human experience (Uranga 1952 [2021])[^uranga-1952][^uranga-1952-2]. Recognition of insufficiency is, as is the case with accidentality, empowering. By recognizing and accepting this existential and ontological insufficiency, Mexicans are always closer to the truth of being human and, in in doing so, are far more authentic than their European/North American counterparts. In short, insufficiency describes the mode of being of the human as always already deficiency in being—in existential terms, it describes the human being’s perpetual project of becoming.
+    step1: |-
+      “不足”［*Insuficiencia*］是偶在性的一种模态。它是心理学“自卑情结”的本体论对应物。后者是一种无力与不称职的*感受*，当人面对某种显得优越或“更好”的东西时，这种感受可能压倒人。这一概念最初是为回应萨穆埃尔·拉莫斯（1934）的提议而提出的：拉莫斯认为，墨西哥民族的一个本质特征是一种共同的卑下感，它解释了墨西哥人对自己、对彼此的大部分行为。针对拉莫斯，乌兰加论证说，墨西哥人的自卑情结只是一种更深层的*人的*状况的症状，即作为不足而被经验的偶在性。换句话说，墨西哥人作为卑下的经验，其实是一种基础性的（或本体论的）不足，它描述着每一种有限的、有死的、受限的人类经验（Uranga 1952 [2021]）[^uranga-1952][^uranga-1952-2]。对不足的认出，与偶在性的情形一样，具有赋能作用。通过认出并接受这种存在论与本体论上的不足，墨西哥人始终更接近“作为人”的真理，也因此比他们的欧洲／北美同行本真得多。简言之，不足描述的是人这种存在者的存在方式：总是已经在存在上有所欠缺；用存在主义的话说，它描述的是人这种存在者永不停歇的“生成”计划。
+    step2: |-
+      “不足”［*Insuficiencia*］是偶在性的一种形态。它是心理学所谓“自卑情结”的本体论对应物。自卑情结是一种无力与不称职的*感受*：当人面对某种显得优越、“比自己强”的东西时，这种感受可能把人压垮。这个概念最初是为了回应拉莫斯（Samuel Ramos，1934）的提法：拉莫斯认为，墨西哥民族的一个本质特征就是共有的卑下感，它解释了墨西哥人对待自己、对待彼此的许多行为。乌兰加反驳拉莫斯：墨西哥人的自卑情结只是一种更深层*人类*状况的症状——那就是被体验为“不足”的偶在性。换句话说，墨西哥人那种“自卑”的经验，其实是一种基础性的（本体论的）不足，它刻画着每一种有限、有死、受限的人类经验（Uranga 1952 [2021]）[^uranga-1952][^uranga-1952-2]。同偶在性一样，认出“不足”也具有赋能作用。墨西哥人一旦认出并接受这种存在论上的不足，就更接近“做一个人”的真理，也比欧洲／北美的同行本真得多。简言之，“不足”说的是人这种存在者的存在方式：他总是在存在上已经有所欠缺；用存在主义的话说，它描述的是人永不停歇的“生成”事业。
+  - id: 34
+    kind: body
+    source: |-
+      ### 2.3 Nepantla
+    step1: |-
+      ### 2.3 *nepantla*（“之间”）
+    step2: |-
+      ### 2.3 *nepantla*（“之间”）
+  - id: 35
+    kind: body
+    source: |-
+      The concept of “nepantla” has an established historiography in English-language Latinx scholarship. Primarily associated with Latinx/Chicanx feminism, and in particular with the work of Gloria Anzaldúa (1942–2004), it has come to name the social, political, and gendered status of those who live “in-between” cultures, in-between gendered and linguistic spaces, in-between differential sites of oppression and marginalization, and so on. However, the concept has a long history outside of that historiography, one intertwined with the Nahuatl experience of European colonization and displacement. It is from this tradition that it is appropriated by Mexican existentialist, where *nepantla* has one or all of the following meanings:
+    step1: |-
+      “nepantla”这一概念在英语拉丁裔学术界有一套既定的史学。它主要与拉丁裔／奇卡诺女性主义相联系，尤其是与格洛丽亚·安萨尔杜亚（1942–2004）的著作相联系；它逐渐用来指称那些生活在文化“之间”、性别与语言空间之间、不同的压迫与边缘化场所之间的人的社会的、政治的与性别的状况，等等。然而，这一概念在该史学之外有很长的历史，与纳瓦特尔人经历欧洲殖民与流离失所的经验交织在一起。墨西哥存在主义者正是从这一传统中挪用了它；在墨西哥存在主义中，*nepantla* 具有以下一种或全部含义：
+    step2: |-
+      “nepantla”这一概念在英语世界的拉丁裔研究中已有自己的学术史。它主要与拉丁裔／奇卡诺女性主义联系在一起，尤其见于安萨尔杜亚（Gloria Anzaldúa，1942–2004）的著作；如今它用来指称一类人的社会、政治与性别处境——他们生活在文化“之间”、性别与语言空间之间、不同的压迫与边缘化场所之间，等等。不过，这个概念在这段学术史之外另有悠久的来历，与纳瓦特尔人经历欧洲殖民与流离失所的经验纠缠在一起。墨西哥存在主义者正是从这一传统中把它挪为己用；在他们那里，*nepantla* 含有以下一种或全部含义：
+  - id: 36
+    kind: body
+    source: |-
+      1. *Nepantla* is an ontological concept that refers to a *suspension between commitments or worlds* that is indicative of the “postmodern” tendency toward indetermination, fluidity, and accidentality.
+      2. *Nepantla* captures the *always being on the way*, i.e., the nomadism of those in-between worlds, but of also of the world-less, those who have been displaced by social, political, or other forces. It is sometimes referred to as a *never again/never yet* structure (Sánchez 2023, 53–68)[^sánchez-2023].
+      3. *Nepantla* describes an existential *refusal* to commit, a *neutrality* regarding direct action on the circumstances in which some find themselves, circumstances which oftentimes offer no true living option. This can describe persons who exist with inherited oppressive existential situations and who, considering them as inadequate, refuse to commit themselves to them.
+      4. Finally, *nepantla* is the “in between” temporalities, worlds, processes; it is being “in the middle,” as in “on the way,” in transit, from one place to another, or “in the middle” as in “in the midst of” a crisis or a paradigm shift.
+    step1: |-
+      1. *Nepantla* 是一个本体论概念，指*诸承诺或诸世界之间的悬置*，它标示出一种朝向不确定、流动与偶在的“后现代”倾向。
+      2. *Nepantla* 捕捉到*永远在途中*，即那些处于诸世界之间者的游牧状态，也包括那些无世界者——被社会、政治或其他力量所驱逐的人。它有时被称为一种*永不重来／尚未来临*的结构（Sánchez 2023, 53–68）[^sánchez-2023]。
+      3. *Nepantla* 描述一种存在上的*拒绝*承诺，一种对直接作用于某些人所处境况的*中立*——而这些境况常常并不提供真正的生存选项。它可以描述这样的人：他们存在于继承而来的压迫性存在处境之中，并因认为这些处境不充分而拒绝献身于它们。
+      4. 最后，*nepantla* 是诸时间性、诸世界、诸过程“之间”；它是“在中间”——“在路上”、在中转、从一处到另一处；或者“在中间”意为处在危机或范式转换的“当中”。
+    step2: |-
+      1. *Nepantla* 是一个本体论概念，指*在诸承诺或诸世界之间悬置*，标示出那种朝向不确定、流动与偶在的“后现代”倾向。
+      2. *Nepantla* 抓住的是*永远在途中*：那些处在诸世界之间的人四处游荡，无世界可归的人——被社会、政治或其他力量赶出家园的人——也是如此。它有时被称作一种*永不重来／尚未来临*的结构（Sánchez 2023, 53–68）[^sánchez-2023]。
+      3. *Nepantla* 描述的是一种存在上的*拒绝*：拒绝承诺，对直接作用于自身处境保持*中立*，而这些处境往往根本不提供真正可活的选项。它可以用来说这样的人：他们生在承袭而来的压迫性处境里，觉得这些处境不堪，于是拒绝献身其中。
+      4. 最后，*nepantla* 是诸时间性、诸世界、诸过程“之间”；它是“在中间”，是“在路上”、在中转、从一处到另一处；或者“在中间”意为身在危机或范式转换的“当中”。
+  - id: 37
+    kind: body
+    source: |-
+      These different ways to characterize *nepantla* revolve around a central axis, neatly summarized in the concept of “in-betweenness.” There are different kinds of “in-betweenness” across every imaginable human experience, and so *nepantla* can be considered a category of human being.
+    step1: |-
+      这些刻画 *nepantla* 的不同方式围绕一个中心轴旋转，这个中心轴可以用“之间性”这一概念简洁地概括。在每一种可以想象的人类经验中，都有不同种类的“之间性”；因此，*nepantla* 可以被视为人类存在的一个范畴。
+    step2: |-
+      这些刻画 *nepantla* 的方式各各不同，却都绕着一根轴转，而“之间性”一词把这条轴概括得恰到好处。凡能想象的人类经验里都有不同款式的“之间性”；因此，*nepantla* 不妨看作“人的存在”的一个范畴。
+  - id: 38
+    kind: body
+    source: |-
+      *Nepantla* is mentioned only twice in the main text of Emilio Uranga’s *Analysis of Mexican Being* (1952 [2021]), yet he argues that it is *the* key “ontological” concept in Mexican existentialism. Uranga writes that “[t]he Mexican character does not install itself over…two agencies, but between [*entre*] them. The nahuatl term *”nepantla*“ captures this phenomenon perfectly; it means ‘in between,’ in the middle, in the center. We thus have before us, in all its purity, the central category of our ontology, autochthonous, one that does not borrow from the Western tradition…” (Uranga 1952 [2021]: 167)[^uranga-1952][^uranga-1952-2]. As “the central category” of this tradition, *nepantla* defies the Western philosophical tradition by insisting on the ontological priority of indeterminateness and fluidity. Proposing it as such is an important strategic move, since motivating Mexican existentialists is an attempt to confront and overcome suffocating colonial prejudices regarding who and what they are.
+    step1: |-
+      *nepantla* 在埃米利奥·乌兰加《墨西哥存在分析》（1952 [2021]）正文中只被提到两次，然而他论证说，它是墨西哥存在主义中*那个*关键的“本体论”概念。乌兰加写道：“墨西哥性格并不安顿于……两种机构之上，而是位于它们*之间*［*entre*］。纳瓦特尔语词 *nepantla* 完美地捕捉了这一现象；它的意思是‘在之间’，在中间，在中心。于是，我们面前就有了我们本体论的核心范畴，纯粹无杂、原生的，并不借自西方传统……”（Uranga 1952 [2021]: 167）[^uranga-1952][^uranga-1952-2]。作为这一传统的“核心范畴”，*nepantla* 坚持不确定性、流动性的本体论优先性，从而抗拒西方哲学传统。如此提出它是一步重要的策略性举措，因为驱动墨西哥存在主义者的，正是要面对并克服那些关于他们是谁、是什么的令人窒息的殖民偏见。
+    step2: |-
+      在乌兰加《墨西哥存在分析》（1952 [2021]）的正文里，*nepantla* 只出现过两次；可乌兰加偏说，它才是墨西哥存在主义*那个*关键的“本体论”概念。他写道：“墨西哥性格不把自己安在……两种机制之上，而是安在二者*之间*［*entre*］。纳瓦特尔词 *nepantla* 把这个现象抓得极准：它的意思就是‘在之间’、在中间、在中心。于是，我们面前就摆着我们本体论的核心范畴——纯然原生，不借自西方传统……”（Uranga 1952 [2021]: 167）[^uranga-1952][^uranga-1952-2]。作为这一传统的“核心范畴”，*nepantla* 坚持不确定性与流动性的本体论优先地位，从而与西方哲学传统相抗。这样提出它，是一步重要的策略棋：墨西哥存在主义者所图者，正是面对并克服那些关于“他们是谁、是什么”的、令人窒息的殖民偏见。
+  - id: 39
+    kind: body
+    source: |-
+      Mexican existentialism thus recovers and re-appropriates the Nahuatl notion of “nepantla” to designate Mexicans as “in-between” a seemingly endless journey that continues to take them further away from determinate and established identities. In a more general sense, this designation is also strategic, as it allows whoever defines themselves as *nepantla* to remain neutral in response to claims made on their identity by others—as *napantla*, that is, one can allow oneself to refuse the rigid of objectifications of the crowd.
+    step1: |-
+      因此，墨西哥存在主义恢复并重新挪用了纳瓦特尔语的“nepantla”概念，以指认墨西哥人处在“之间”——处在一段看似无尽、不断把他们带离确定而既定身份的旅程“之间”。在更一般的意义上，这一指认也是策略性的：它让任何把自己定义为 *nepantla* 的人，在面对他人对其身份提出的主张时保持中立——也就是说，作为 *nepantla*，人可以允许自己拒绝众人那些僵化的对象化。
+    step2: |-
+      就这样，墨西哥存在主义把纳瓦特尔语的“nepantla”重新拾起、重新挪用，用它来指认墨西哥人处在“之间”：他们置身于一段看似没有尽头的旅程，越走越远离那些确定而既成的身份。往更一般处说，这一指认同样带有策略意味：谁把自己界定为 *nepantla*，谁就能在别人对其身份提出要求时保持中立——作为 *nepantla*，他可以干脆拒绝众人那些僵化的对象化。
+  - id: 40
+    kind: body
+    source: |-
+      ### 2.4 Zozobra
+    step1: |-
+      ### 2.4 *zozobra*
+    step2: |-
+      ### 2.4 *zozobra*
+  - id: 41
+    kind: body
+    source: |-
+      About *nepantla*, Uranga (1952 [2013]) writes: “This is *nepantla*. Not a ‘synthesis,’ but an ‘oscillation,’ to ‘go from one end to another without rest.’ The *mood* [*estado de animo*] that communicates this *structure of being* is precisely ‘zozobra.’ In the *mood* of zozobra we do not know what to depend on, we vacillate between one and another ‘law,’ we are ‘neutral,’ ‘in between,’ ‘nepantla’” (149; emphasis added). What this tells us is that *zozobra*—a term Uranga inherits from the Mexican poet Ramón Lopéz Velarde (1888–1921), whose 1919 masterwork *Zozobra* serves as inspiration—and *nepantla* are not identical or interchangeable terms. *Zozobra* is the emotive expression of nepantla; it is the *feeling* of uncertainty, unease, anxiety, and despair that Uranga calls an “estado de animo” (a “mood”—see Gallegos 2023).
+    step1: |-
+      关于 *nepantla*，乌兰加（1952 [2013]）写道：“这就是 *nepantla*。不是‘综合’，而是‘摆荡’，是‘不歇地从一端到另一端’。传达这种*存在结构*的*心情*［*estado de animo*］正是‘zozobra’。在 zozobra 的*心情*中，我们不知道可以依靠什么，我们在这样一条与那样一条‘法则’之间摇摆不定，我们‘中立’，‘在之间’，‘nepantla’”（149；着重为引者所加）。这告诉我们：*zozobra*——乌兰加从墨西哥诗人拉蒙·洛佩斯·贝拉尔德（1888–1921）那里继承的词，后者 1919 年的杰作《忧悬》正是灵感来源——与 *nepantla* 并不是同一或可互换的术语。*Zozobra* 是 nepantla 的情感表达；它是乌兰加所谓“estado de animo”（一种“心情”——参 Gallegos 2023）的那种不确定、不安、焦虑与绝望的*感受*。
+    step2: |-
+      谈到 *nepantla*，乌兰加（1952 [2013]）写道：“这就是 *nepantla*。不是‘综合’，而是‘摆荡’，是不歇气地‘从一端荡到另一端’。传达这种*存在结构*的*心情*［*estado de animo*］，恰恰就是‘zozobra’。处在 zozobra 的*心情*里，我们不知道该靠什么，在一条又一条‘法则’之间来回摇摆，我们‘中立’，‘在之间’，‘nepantla’”（149；着重为引者所加）。由此可见：*zozobra* 与 *nepantla* 并非同一回事，也不能互换。*zozobra* 一词承自墨西哥诗人拉蒙·洛佩斯·贝拉尔德（1888–1921），其 1919 年的杰作《忧悬》正是灵感所自。*Zozobra* 是 nepantla 的情感表达：那种不确定、不安、焦虑与绝望的*感受*，乌兰加称之为“estado de animo”（一种“心情”——参 Gallegos 2023）。
+  - id: 42
+    kind: body
+    source: |-
+      Finding oneself in this mood, or in the emotive state of *zozobra*, is not unlike finding oneself overcome with Kierkegaardian anxiety. Unlike Kierkegaardian anxiety, however, zozobra names the specific feeling of sinking and drowning (a going “over and under”), of being overwhelmed and undermined by thoughts of the future; or, what’s the same, it names the feeling of being pulled to pieces by the many possibilities of existence, none of which is presented as valuable or trustworthy. Uranga’s definition of *zozobra* highlights the accompanying feeling of hopelessness: is a “mode of being that incessantly oscillates between two possibilities, between two affects, without knowing on which of these to depend, on which of these to cling to for justification” (1952 [2021: 180]). In this way, Mexican existentialism posits that *zozobra* manifests the *nepantla* nature of Mexican identity, as unsettled, undefined, and accidental, while also free (see also Villoro 1949: 242). But it is a freedom that condemns us to a perpetual disquiet, feeling ourselves standing without “a fixed and solid ground” [*punto fijo y roqueño*], or always on “quicksand on which nothing firm can stand” (Uranga 1952 [2021: 181])[^uranga-1952][^uranga-1952-2].
+    step1: |-
+      发现自己处在这种心情中、或处在 *zozobra* 的情感状态中，与发现自己被克尔凯郭尔式的焦虑所压倒并无不同。然而，与克尔凯郭尔式焦虑不同的是，zozobra 命名的是那种下沉与淹没（“上上下下”）的特定感受，是被关于未来的念头所压倒、所蛀蚀的感受；或者，同一回事，它命名的是被存在的诸多可能性撕成碎片的感受——这些可能性没有一个被呈现为有价值的或可信赖的。乌兰加对 *zozobra* 的定义突出了与之相随的无望感：它是一种“在两极可能、两种情感之间不停地摆荡的存在方式，不知道应当依靠其中哪一个，应当攀住其中哪一个来求得证成”（1952 [2021: 180]）。这样，墨西哥存在主义提出，*zozobra* 显现了墨西哥身份的 *nepantla* 本性：不安定、未被界定、偶在，但同时也是自由的（另参 Villoro 1949: 242）。但这是一种把我们判给永久不安的自由：觉得自己站在没有“固定而坚实的根基”［*punto fijo y roqueño*］的地方，或永远站在“什么牢固的东西都立不住的流沙”之上（Uranga 1952 [2021: 181]）[^uranga-1952][^uranga-1952-2]。
+    step2: |-
+      落进这种心情，或者说落进 *zozobra* 的情感状态，与克尔凯郭尔式的焦虑颇为相似。但克尔凯郭尔式的焦虑不是它：zozobra 特指下沉与淹没的感受（“上来又下去”），被关于未来的念头压垮、掏空的感受；换个说法，它指被存在的种种可能撕成碎片的感受——这些可能，没有一个显得可贵或可信。乌兰加给 *zozobra* 下的定义，点出了随之而来的无望感：它是“一种在两极可能、两种情感之间不停摆荡的存在方式，不知道该靠哪一个，该攀住哪一个来求个证成”（1952 [2021: 180]）。于是，墨西哥存在主义主张：*zozobra* 显现了墨西哥身份那种 *nepantla* 本性——不安定、未界定、偶在，同时又自由（另参 Villoro 1949: 242）。可这种自由把我们判给了永无休止的不安：觉得自己脚下没有“固定坚实的根基”［*punto fijo y roqueño*］，或者始终站在“什么牢固东西都立不住的流沙”上（Uranga 1952 [2021: 181]）[^uranga-1952][^uranga-1952-2]。
+  - id: 43
+    kind: body
+    source: |-
+      ### 2.5 Relajo
+    step1: |-
+      ### 2.5 *relajo*
+    step2: |-
+      ### 2.5 *relajo*
+  - id: 44
+    kind: body
+    source: |-
+      *Relajo* is a core concept in the existential philosophy of Jorge Portilla (Hurtado 2006, 2023; Sánchez 2012, 2016, 2023; Portilla 1966 [2012, 2023])[^portilla-1966][^sánchez-2012][^hurtado-2006][^portilla-1966-2]. In a general sense, *relajo* refers to an action or behavior that undermines prescribed or expected attitudes toward established values (social, aesthetic, historical, legal, and so on)*.* Portilla defines *relajo* as a “suspension of seriousness,” which is equivalent, he says, to saying “no” to values. To say “no” to values is to deny the demands of the social world itself. In normal situations, I attend to the values of the world, saying “yes” to them and doing as they demand—*I behave appropriately*. Doing so maintains a social status quo and things go on as they should. “The mere grasping of the value carries with it the fulfillment of that demand… [and its] realization in the world; and in order for this demand…to be realized, the subject, in turn, performs an act, a movement of loyalty [to the value] that is a kind of ‘yes’” (Portilla 1966 [2012, 129])[^portilla-1966][^portilla-1966-2]. *Relajo* is a non-normal response to those same values. It is a rejection of their demands: “[t]he sense of *relajo* is precisely to frustrate the effectiveness of [a] spontaneous response that accompanies the grasping of the value. *Relajo* suspends seriousness; that is to say, it cancels the normal response to the value, freeing me from the commitment to its realization” (129–30).
+    step1: |-
+      *Relajo* 是豪尔赫·波蒂利亚存在哲学的核心概念（Hurtado 2006, 2023；Sánchez 2012, 2016, 2023；Portilla 1966 [2012, 2023]）[^portilla-1966][^sánchez-2012][^hurtado-2006][^portilla-1966-2]。一般地说，*relajo* 指一种削弱对既定价值（社会的、审美的、历史的、法律的等等）的规定态度或预期态度的行动或行为。波蒂利亚把 *relajo* 定义为“严肃性的悬置”，他说这等同于对价值说“不”。对价值说“不”，就是否认社会世界本身的要求。在正常情形中，我关注世界的价值，对它们说“是”，并照它们的要求去做——*我的举止合宜*。这样做维持着一种社会现状，事情按应有的方式继续。“仅仅把握到价值，就伴随着对该要求的履行……［以及它］在世界中的实现；而为了使这一要求……得到实现，主体反过来要施予一种行为，一种［对价值的］忠诚运动，那就是一种‘是’”（Portilla 1966 [2012, 129]）[^portilla-1966][^portilla-1966-2]。*Relajo* 是对同样这些价值的一种非正常回应。它是对其要求的拒绝：“*relajo* 的意义恰恰在于挫败伴随价值把握而来的那个自发回应的效力。*relajo* 悬置严肃性；也就是说，它取消了对价值的正常回应，把我从实现它的承诺中解放出来”（129–30）。
+    step2: |-
+      *Relajo* 是波蒂利亚存在哲学的核心概念（Hurtado 2006, 2023；Sánchez 2012, 2016, 2023；Portilla 1966 [2012, 2023]）[^portilla-1966][^sánchez-2012][^hurtado-2006][^portilla-1966-2]。大体上说，*relajo* 指某种行动或行为：它拆解人对既定价值（社会、审美、历史、法律等价值）所应有的、被期待的态度。波蒂利亚把 *relajo* 界定为“严肃性的悬置”，并说这等于对价值说“不”。对价值说“不”，就是对社会的世界本身的要求说不。在寻常情形下，我关注世上的价值，对之说“是”，照它的要求去做——*举止合宜*。这样一来，社会现状得以维持，事情按部就班。“单单把握到价值，就已经伴随着对该要求的履行……［以及它］在世的实现；而为了让这一要求……落实，主体反过来要做出一个行为，一种［对价值的］忠诚之举，那是一种‘是’”（Portilla 1966 [2012, 129]）[^portilla-1966][^portilla-1966-2]。*Relajo* 则是对同样这些价值作出的非寻常回应，是对其要求的拒斥：“*relajo* 的要义，恰恰是让那个伴随价值把握而来的自发回应失效。*relajo* 悬置严肃性；也就是说，它取消了面对价值的正常回应，把我从‘务必实现它’的承诺中解脱出来”（129–30）。
+  - id: 45
+    kind: body
+    source: |-
+      The phenomenon of *relajo* involves the following three movements, which happen simultaneously. The three are related to a subject’s relation to a proposed value(s): (i) the *displacement of attention* away from what demands it, namely, a value or set of values; (ii) a *dissolution of the relation* between the subject and the value, or, Portilla says, a “lack of solidarity with the proposed value” and it is not identical to the displacement of attention; and (iii) a *disruptive gesture or behavior*, or an “action in the proper sense of the word that consists of outward manifestations of gesture or word that constitute an invitation to others to participate with me in this lack of solidarity [with the value]” (1966 [2012: 130]). Plainly put, *relajo* suspends a subject’s relation to value while demanding the involvement of others in the disruptions or suspensions. As a phenomenological fact, it reveals both the necessity of others and the primacy of the relation I-you, since without others, *relajo* is impossible.
+    step1: |-
+      *relajo* 现象包含以下三个同时发生的运动。三者都与主体同某个被提出的价值的关系有关：(i) 注意力从要求注意的东西（即某个价值或某组价值）上*移开*；(ii) 主体与价值之间关系的*消解*，或者如波蒂利亚所说，一种“与被提出价值之间团结感的缺乏”，它与注意力的移开并不等同；以及 (iii) 一个*破坏性的姿态或行为*，或一个“真正意义上的行动，它由姿态或言辞的外在表现构成，这些表现构成一种邀请，请他人与我一起参与这种［对价值的］团结感的缺乏”（1966 [2012: 130]）。说白了，*relajo* 悬置了主体与价值的关系，同时要求他人参与这些扰乱或悬置。作为一个现象学事实，它既揭示了他人之必要，也揭示了“我—你”关系的优先性，因为没有他人，*relajo* 就不可能。
+    step2: |-
+      *relajo* 现象包含三个同时发生的动作，都关乎主体同某个被提出的价值之间的关系：(i) 注意力从要求它的事物——某个价值或某组价值——上*移开*；(ii) 主体与价值之间的*关系消解*，用波蒂利亚的话说，就是“与被提出价值之间缺乏团结”，这和注意力移开并不是一回事；(iii) 一个*破坏性的姿态或行为*，即“一个本来意义上的行动，由姿态或言辞的外在表现构成，而这些表现是在邀请别人同我一道，参与这种［对价值的］缺乏团结”（1966 [2012: 130]）。说白了，*relajo* 悬置主体与价值的关系，同时要求他人加入这场扰乱或悬置。作为一个现象学事实，它既显出他人的必要，也显出“我—你”关系的优先：没有他人，*relajo* 根本无从谈起。
+  - id: 46
+    kind: body
+    source: |-
+      ### 2.6 Apretados and Relajientos
+    step1: |-
+      ### 2.6 *apretados* 与 *relajientos*
+    step2: |-
+      ### 2.6 *apretados* 与 *relajientos*
+  - id: 47
+    kind: body
+    source: |-
+      There are persons that appear to embody *relajo*. They are called “relajientos.” *Relajientos* are unserious persons who willfully suspend seriousness any chance they get. *Relajientos* have mastered the art of initiating chaos, displacing attention from what demands attention via actions or behaviors that both interrupt and invite. *Relajientos* can be anyone, but the primary characteristic of one is that in their behavior they exhibit a lackadaisical attitude that quickly morphs into a disdain of rules, authority, or customs. Their whole personality manifests an incapacity, and unwillingness, to commit to what society and others regard as valuable or worthy of commitment. *Relajientos* seek to live fully in the now; the past has no use for them and the future does not exist. Jorge Portilla says: “a *relajiento* is, literally, an individual without a future. …he or she refuses to take anything seriously, to commit to anything…assumes no responsibility for anything…a good humor witness to the banality of life” (1966 [2012: 147]).
+    step1: |-
+      有些人似乎体现了 *relajo*。他们被称为“relajientos”。*Relajientos* 是不严肃的人，一有机会就故意悬置严肃性。*Relajientos* 精通发起混乱的艺术：通过既打断又邀请的行动或行为，把注意力从要求注意的东西上移开。*Relajientos* 可以是任何人，但其主要特征是：他们的行为表现出一种懒散态度，而这种态度很快变成对规则、权威或习俗的轻蔑。他们的整个人格都表现出一种无能力、也不愿意承诺于社会与他人认为有价值或值得承诺的东西。*Relajientos* 追求完全活在当下；过去对他们没有用处，未来则不存在。豪尔赫·波蒂利亚说：“一个 *relajiento*，字面意义上就是一个没有未来的人。……他或她拒绝认真对待任何事情、拒绝承诺于任何事情……不为任何事情承担责任……一个好脾气的旁观者，看着人生的乏味”（1966 [2012: 147]）。
+    step2: |-
+      有些人像是 *relajo* 的化身，人们管他们叫 *relajientos*。*Relajientos* 是不认真的人，逮着机会就故意把严肃性悬起来。他们精于挑起混乱：借着那些既打断又招引的行动与做派，把注意力从本该注意的东西上挪开。*Relajientos* 可以是任何人，但他们的头号特征是：举止里透出一种吊儿郎当，转眼就变成对规则、权威或习俗的蔑视。他们的整个人格都显出：无力、也不愿承诺于社会与他人眼中可贵、值得承诺的东西。*Relajientos* 只想完完全全活在当下；过去对他们毫无用处，未来则不存在。波蒂利亚说：“一个 *relajiento*，说白了就是个没有未来的人。……他拒绝把任何事当真，拒绝承诺任何事……对任何事都不负责任……乐呵呵地看着人生的乏味”（1966 [2012: 147]）。
+  - id: 48
+    kind: body
+    source: |-
+      At “the absolute opposite pole” of the *relajiento* is the “apretado.” The *apretado*, a term we can loosely translate as “goody-two-shoes,” “stick-in-the-mud,” or even “snobbish” is not just serious, but is *burdened with seriousness*. Colloquially we say that they are “tightly wound,” zealous, fully determined in and committed to their beliefs. We may even call them fanatics (Sánchez 2024b)[^sánchez-2024b]. According to Portilla, *apretados* are “afflicted with the spirit of seriousness” (1966 [2012: 190]). This affliction shows up as a commitment to *being* serious. Being serious set *apretados* apart. Unlike *relajientos* who do as they please, *apretados* do only what is demanded by their values. Ultimately, *apretados* value order and obedience more than freedom. One finds in this individual, Portilla writes, “no distance…between being and value”—the *apreatado is* what the *apratado* values, and this identity will be reflected in how they represent themselves to others. How they portray themselves is, moreover, is “an expression of [their] internal being” (191). *Apretados* “carry their value in the same way that they carry with them their legs or their liver: as a silent and solid cause of pleasure that they caress in their private moments” (191). They are, Portilla says, “[c]ompact masses of value.” (191).
+    step1: |-
+      在 *relajiento* 的“绝对对立极”上是“apretado”。*apretado* 这个词大致可译作“一本正经的好孩子”“死板的人”，甚至“势利眼”；他们不只是严肃，而是*被严肃压着*。口语里我们说他们“绷得紧”、狂热、在信念上完全确定并全心投入。我们甚至可以把他们称为狂热者（Sánchez 2024b）[^sánchez-2024b]。按波蒂利亚所说，*apretados* “被严肃精神所折磨”（1966 [2012: 190]）。这种折磨表现为一种对“*成为*严肃”的承诺。严肃使他们与众不同。与随心所欲的 *relajientos* 不同，*apretados* 只做其价值所要求的事。归根结底，*apretados* 重视秩序与服从甚于自由。波蒂利亚写道，在这种人身上，“存在与价值之间没有距离”——*apretado* 之所是，就是 *apretado* 所重视的东西；这种同一会反映在他们如何向他人表现自己上。而且，他们如何描绘自己，是“［其］内在存在的表达”（191）。*Apretados* “带着他们的价值，就像带着他们的腿或肝一样：作为一种静默而坚实的快乐之源，在私下的时刻抚摸着它”（191）。波蒂利亚说，他们是“价值的一团团紧实块体”（191）。
+    step2: |-
+      与 *relajiento* 正相反的另一极，是 *apretado*。这个词勉强可译作“乖宝宝”“死脑筋”，甚至“势利眼”；他们不但严肃，而且*被严肃压得喘不过气*。口语里，我们说他们“绷得很紧”、较真，对信念完全笃定、全心投入。叫他们狂热分子也无不可（Sánchez 2024b）[^sánchez-2024b]。波蒂利亚说，*apretados* 是“被严肃精神缠上了”（1966 [2012: 190]）。这毛病表现为：一心要*做个*严肃的人。严肃把他们与旁人区分开来。*relajientos* 为所欲为，*apretados* 则只做价值要求他们做的事。说到底，*apretados* 重秩序与服从，轻自由。波蒂利亚写道，这种人身上“存在与价值之间……没有距离”——*apretado* 是什么，就是他重视什么；这种同一，会体现在他们向他人展示自己的方式上。而且，他们的自我描绘是“［其］内在存在的表现”（191）。*Apretados* “把价值带在身边，就像带着自己的腿、自己的肝一样：那是一种无声而坚实的快乐之源，他们在私下里摩挲着”（191）。波蒂利亚说，他们就是“一团团紧实的价值”（191）。
+  - id: 49
+    kind: body
+    source: |-
+      Between the nihilism of the *relajiento* and the fanaticism of the *apretado* there is a politically, morally, and existentially preferable way to be. This middle ground will be the personality type that respects societal values, obeys communal rules, laws, and prohibitions, but is willing to question and challenge her situation, changing her mind if necessary. This middle ground personality will use irony and humor to her advantage as a means to reveal the right way to be and the right way to go, and not as weapon of disruption or suspension (she will not be a *relajiento*). Moreover, she will identify with values, but will not become them, and will always be willing to be rationally led to other, more enriching, values and ways of being (she will not be an *apretado*).
+    step1: |-
+      在 *relajiento* 的虚无主义与 *apretado* 的狂热主义之间，还有一种在政治上、道德上、存在上更可取的活法。这一中间地带将是这样一种人格类型：尊重社会价值，服从共同体的规则、法律与禁令，但愿意质疑并挑战自己的处境，必要时改变主意。这种中间地带的人格会运用反讽与幽默为自己服务，作为揭示正确活法与正确道路的手段，而不是作为扰乱或悬置的武器（她不会是 *relajiento*）。此外，她将认同价值，但不会变成价值本身，并且始终愿意被理性地引向其他更丰富的价值与存在方式（她不会是 *apretado*）。
+    step2: |-
+      在 *relajiento* 的虚无主义与 *apretado* 的狂热主义之间，还有一条在政治、道德和存在上都更可取的活法。处于这条中间道路的人格类型：尊重社会价值，遵守共同体的规则、法律与禁令，却愿意质疑、挑战自己的处境，必要时改弦更张。这种人会把反讽与幽默用在正道上——用它们点出何为正当的活法、该往哪里走——而不是拿它们当扰乱或悬置的武器（所以她不是 *relajiento*）。再者，她会认同价值，却不把自己等同于价值，而且始终愿意被理性地引向别的、更丰富的价值与生活方式（所以她不是 *apretado*）。
+  - id: 50
+    kind: body
+    source: |-
+      ### 2.7 Death
+    step1: |-
+      ### 2.7 死亡
+    step2: |-
+      ### 2.7 死亡
+  - id: 51
+    kind: body
+    source: |-
+      Emilio Uranga contrasts a Mexican idea of death with the idea of death of the Anglo-American or “norteamericano” (Uranga 1950). For the Anglo-American, death is terrifying, something to be feared, and avoid thinking about. This is because, for the Anglo-American, when death comes, it takes *everything* away. For the Mexican, on the other hand, death takes nothing away from you for the simple reason that *in life* you never *truly* possessed anything. So death is neither feared nor avoided; and thinking about it is like thinking about any other of life’s facts—it is simply *there*. Uranga (1952 [2013]) puts it this way:
+    step1: |-
+      埃米利奥·乌兰加把一种墨西哥的死亡观念与盎格鲁-美国人或“norteamericano”（北美裔）的死亡观念相对照（Uranga 1950）。对盎格鲁-美国人而言，死亡是可怕的，是应当畏惧、应当避免去想的东西。这是因为，对盎格鲁-美国人来说，死亡来临时，会把*一切*都带走。另一方面，对墨西哥人来说，死亡什么也带不走，理由很简单：*在生时*你从未*真正*拥有过任何东西。于是死亡既不被畏惧也不被回避；思考死亡就像思考生活中任何其他事实——它就在*那里*。乌兰加（1952 [2013]）是这样说的：
+    step2: |-
+      乌兰加把墨西哥人的死亡观与盎格鲁-美国人（“norteamericano”，北美裔）的死亡观对照来看（Uranga 1950）。在盎格鲁-美国人眼里，死亡是恐怖的，令人害怕，最好别去想。因为对他们来说，死亡一来，就把*一切*都带走。墨西哥人则不然：死亡什么都带不走，理由很简单——*活着的时候*，你压根儿就*没有真正*拥有过什么。所以死亡既不足惧，也无需回避；想到死，就跟想到生活中的其他事实一样——它就在*那里*。乌兰加（1952 [2013]）是这样说的：
+  - id: 52
+    kind: body
+    source: |-
+      > Death is not feared for the ends it brings nor because it impedes some mission, which doesn’t exist, nor is it feared for ripping away a self that also does not exist. This is opposed to that extreme case, the German, which is Heidegger’s, in which death is imagined as conferring upon life both individuality and totality. For the Spaniard and for the North American death takes away something, while for the German, it gives, but for the Mexican it neither gives nor takes because there’s nothing to take and there’s nothing to give (Uranga 1952 [2013]: 194)[^uranga-1952][^uranga-1952-2].
+    step1: |-
+      > 死亡并不因其带来的终结而可畏，也不因它妨碍了某个并不存在的使命而可畏，也不因它夺走一个同样并不存在的自我而可畏。这与那极端的情形、即德国人的情形（也就是海德格尔的情形）相对：在那里，死亡被想象为赋予生命以个体性与总体性。对西班牙人与北美人来说，死亡带走某种东西；对德国人来说，死亡给予；但对墨西哥人来说，死亡既不给予也不带走，因为没有什么可带走的，也没有什么可给予的（Uranga 1952 [2013]: 194）[^uranga-1952][^uranga-1952-2]。
+    step2: |-
+      > 我们不怕死，不是因为它带来终结，也不是因为它耽误了某个根本不存在的使命，更不是因为它夺走一个同样不存在的自我。这与那种极端情形——德国人的情形，即海德格尔的情形——正相对照：在那里，死亡被设想为给生命带来个体性与总体性。对西班牙人和北美人来说，死亡拿走点什么；对德国人来说，死亡给予点什么；可对墨西哥人来说，死亡既不给也不拿，因为没有什么可拿，也没有什么可给（Uranga 1952 [2013]: 194）[^uranga-1952][^uranga-1952-2]。
+  - id: 53
+    kind: body
+    source: |-
+      In *The Labyrinth of Solitude*, published in 1951, Octavio Paz (1914–1998)—one of Mexico’s literary icons and a Nobel prize winner—echoes Uranga’s sentiment: “there are two attitudes toward death: one, pointing forward, that conceives of it as creation; the other, pointing backward, that expresses itself as a fascination with nothingness or as a nostalgia for limbo” (1985: 61). Paz goes on to say that the forward-pointing attitude belongs to the peoples of Europe and North America; the backward-pointing attitude to the peoples of Mexico and Latin America. We may call the forward-pointing attitude, the “instrumental attitude”; the backward-pointing attitude may be referred to as the “historical attitude”; the instrumental is Anglo-European, the historical, Mexican (Sánchez 2013)[^sánchez-2013].
+    step1: |-
+      在 1951 年出版的《孤独的迷宫》中，墨西哥文学偶像之一、诺贝尔奖得主奥克塔维奥·帕斯（1914–1998）呼应了乌兰加的情绪：“对死亡有两种态度：一种朝前，把它设想为创造；另一种朝后，表现为对虚无的迷恋，或对灵薄狱的乡愁”（1985: 61）。帕斯接着说，朝前的态度属于欧洲与北美的人民；朝后的态度属于墨西哥与拉丁美洲的人民。我们可以把朝前的态度称为“工具性态度”；把朝后的态度称为“历史性态度”；工具性的是盎格鲁-欧洲的，历史性的是墨西哥的（Sánchez 2013）[^sánchez-2013]。
+    step2: |-
+      1951 年问世的《孤独的迷宫》里，墨西哥文学巨匠、诺贝尔奖得主奥克塔维奥·帕斯（1914–1998）与乌兰加同声相应：“对死亡有两种态度：一种朝前看，把死亡设想为创造；一种朝后看，表现为对虚无的迷恋，或对灵薄狱的乡愁”（1985: 61）。帕斯接着说：朝前看的态度属于欧洲与北美的人民，朝后看的态度属于墨西哥与拉丁美洲的人民。不妨把朝前的叫作“工具性态度”，把朝后的叫作“历史性态度”；工具性态度是盎格鲁-欧洲的，历史性态度是墨西哥的（Sánchez 2013）[^sánchez-2013]。
+  - id: 54
+    kind: body
+    source: |-
+      To say that my attitude toward death is instrumental is to say that death, my death and death in general, has instrumental value or is a means to an end. The “end” is the vision, or ambition, I have for my own life, and the “means” is the *thought* that I’m going to die. The thought of death is what pushes me onward to the fulfillment of my goals. As such, death is thought of as an always “not yet,” as approaching, always on the horizon and always a possibility. The instrumental attitude is neatly described by Ernest Becker (1973) in *The Denial of Death*: “[T]he idea of death, the fear of it, haunts the human animal like nothing else; it is a mainspring of human activity—activity designed largely to avoid the fatality of death, to overcome it by denying in some way that it is the final destiny of man” (xvii). This instrumental view of death is the Western or North American attitude.
+    step1: |-
+      说我对死亡的态度是工具性的，就是说死亡——我的死与一般的死——具有工具价值，或是一种达到目的的手段。“目的”是我对自己生命的愿景或抱负，“手段”则是“我将要死”这一*念头*。死亡的念头推动我前进、去实现目标。因此，死亡被设想为一个永远的“尚未”，一个正在临近者，永远在地平线上，永远是一种可能。工具性态度被贝克尔（1973）在《拒斥死亡》中描述得恰到好处：“死亡观念，对死亡的恐惧，像没有什么别的东西那样萦绕着人这种动物；它是人类活动的一个发条——人类活动很大程度上就是为了避开死亡的终局，通过以某种方式否认死亡是人的最终命运来克服它”（xvii）。这种工具性的死亡观是西方或北美的态度。
+    step2: |-
+      说我对死亡取工具性态度，意思是：死亡——我的死，以及一般的死——具有工具价值，是达成目的的手段。“目的”是我对自己人生的愿景或抱负，“手段”则是“我终有一死”这个*念头*。正是死的念头推着我往前走，去实现目标。于是，死亡被想成一个永远的“尚未”：它正在走近，总在地平线上，总是一种可能。贝克尔（Ernest Becker，1973）在《拒斥死亡》里把工具性态度讲得很干净：“死亡观念、对死亡的恐惧，死死缠着人这种动物，别的什么都比不了；它是人类活动的一个发条——人类活动大半是为了避开死亡的终局，靠以某种方式否认死亡是人的最终归宿来克服它”（xvii）。这种工具性死亡观，就是西方或北美的态度。
+  - id: 55
+    kind: body
+    source: |-
+      Again, the Mexican attitude toward death, on the other hand, holds that death has no such instrumental value but is merely a fact like any other. As fact, it is not a “not yet,” but an “always already,” a constant presence or a coexistence. This attitude is summarized by Uranga (1951 [2017]) when he writes: “Death is the only thing that the Mexican does not leave for ‘tomorrow’” (193). In other words, our being is not a “being-toward-death,” as Heidegger would say, but a “being-with-death” in the now and not in the future. In this way, Mexicans coexist with death as presence and fact. But coexistence does not mean that death cannot surprise you; death, like any *other*, can always catch you by surprise. Uranga says that “Constantly, Mexican lives [are] being ambushed by death” (167).
+    step1: |-
+      另一方面，墨西哥人的死亡态度则认为，死亡没有这种工具价值，它只是像任何其他事实一样的事实。作为事实，它不是“尚未”，而是“总是已经”，是一种恒常的在场或共存。乌兰加（1951 [2017]）如此概括这种态度：“死亡是墨西哥人唯一不留给‘明天’的东西”（193）。换句话说，我们的存在不是海德格尔所说的“向死存在”，而是一种在当下、而非在未来的“与死共存”。这样，墨西哥人作为在场与事实与死亡共存。但共存并不意味着死亡不能让你吃惊；死亡像任何*他者*一样，总能出其不意地逮住你。乌兰加说：“墨西哥人的生活不断地遭到死亡的伏击”（167）。
+    step2: |-
+      反过来，墨西哥人的死亡态度是：死亡并无这种工具价值，它不过是又一个事实，跟别的事实没什么两样。作为事实，它不是“尚未”，而是“总是已经”；它恒常在场，与人共处。乌兰加（1951 [2017]）一句话概括了这种态度：“死亡是墨西哥人唯一不拖到‘明天’的事”（193）。换句话说，我们的存在不是海德格尔说的“向死存在”，而是在当下、而非在未来“与死共存”。就这样，墨西哥人与作为在场、作为事实的死亡共处。但共处并不意味着死亡不会突袭你：死亡跟任何*他者*一样，总能冷不防地撞上你。乌兰加说：“墨西哥人的生活，时时遭到死亡的伏击”（167）。
+  - id: 56
+    kind: body
+    source: |-
+      According to Mexican existentialists, then, the fear of death is removed with the thought that there’s nothing that I have that death wants. Our co-existence is not transactional, it is marked, rather by togetherness and conviviality. We thus co-live with death in acceptance. Uranga says, “We exist on the edge of death. There is in the life of the Mexican a permanent availability, or resolution, to death” (Uranga 2021: 511)[^uranga-2021]. Again, the focus is not on the forthcomingness of death, on its future, although death is both here and it can always kill me; the focus is, rather, on its presence, or on its persistence in the present (Carrion 1951).
+    step1: |-
+      于是，按墨西哥存在主义者的说法，对死亡的恐惧随着这样一个念头而消除：我没有什么是死亡想要的。我们的共处不是交易性的，而是以同在与共居为标志。于是我们在接受中与死亡共活。乌兰加说：“我们存在于死亡的边缘。在墨西哥人的生活中，有一种对死亡的永久可及性或决意”（Uranga 2021: 511）[^uranga-2021]。同样，焦点不在死亡的将至性、不在它的未来，尽管死亡既在这里、又总能杀死我；焦点毋宁在于它的在场，或它在当下的持续（Carrion 1951）。
+    step2: |-
+      所以，照墨西哥存在主义者的看法，只要想到“我身上没有什么是死亡想要的”，对死亡的恐惧便消散了。我们的共处不是一笔交易，而是以同在、共居为标记。于是，我们坦然接受地与死亡共活。乌兰加说：“我们生活在死亡的边缘。墨西哥人的生命里，永远有一种向死而敞开、向死而决断的姿态”（Uranga 2021: 511）[^uranga-2021]。这里的关键再次不在死亡的将至、不在它的未来——尽管死亡就在此处，随时能取我性命——而在它的在场，在它在当下的持续（Carrion 1951）。
+  - id: 57
+    kind: body
+    source: |-
+      ### 2.8 Minor Themes
+    step1: |-
+      ### 2.8 次要主题
+    step2: |-
+      ### 2.8 次要主题
+  - id: 58
+    kind: body
+    source: |-
+      #### 2.8.1 Irony
+    step1: |-
+      #### 2.8.1 反讽
+    step2: |-
+      #### 2.8.1 反讽
+  - id: 59
+    kind: body
+    source: |-
+      Irony is a key existential concept for philosophers like Jorge Portilla and Rosario Castellanos (1925–1974). Both of these thinkers recognize irony’s liberating function. For Castellanos, irony is capable of interrogating the authority of dogmatic (inherited) values, thus freeing us from them; and for Portilla, it represents a critical stance, both against the dogmatism of the apretado and the nihilism of the relajiento.
+    step1: |-
+      反讽对波蒂利亚与罗萨里奥·卡斯特利亚诺斯（1925–1974）这样的哲学家来说是一个关键的存在概念。这两位思想家都承认反讽的解放功能。对卡斯特利亚诺斯来说，反讽能够质问教条的（继承而来的）价值的权威，从而使我们从中解放出来；而对波蒂利亚来说，反讽代表一种批判立场，既针对 *apretado* 的教条主义，也针对 *relajiento* 的虚无主义。
+    step2: |-
+      对波蒂利亚和卡斯特利亚诺斯（Rosario Castellanos，1925–1974）这类哲学家来说，反讽是一个关键的存在论概念。两人都看重反讽的解放功能。卡斯特利亚诺斯认为，反讽能够质问那些教条化的（承袭而来的）价值有何权威，从而把我们从中解放出来；波蒂利亚则认为，反讽是一种批判姿态，既对着 *apretado* 的教条主义，也对着 *relajiento* 的虚无主义。
+  - id: 60
+    kind: body
+    source: |-
+      Portilla considers irony as a mean, or middle ground, between the excesses represented by apretados and relajientos. When related to tradition, or inherited value systems, relajo shows up as a negation of those values necessary to make sense of what is going on in the present; in contrast, the fanaticism of the apretado insists that the present only makes sense with, or can only be understood through, inherited values. The first, the relajiento, rejects the call of values, while the second, the apretado, embodies them. Irony, on the other hand, holds itself at a distance from them and neither rejects them nor accepts them. From a “will to truth” irony demands the taking of a Socratic posture toward inherited values, one in which a claim of ignorance allows the truth to come to light. Irony opens the door to truth, a door relajo sees but does not open and apretados see but nail shut. Portilla writes, “Irony is a liberation that founds a freedom for value…[while] relajo is a negation that founds a pseudofreedom that is purely negative and thus infertile” (1966 [2012: 176]).
+    step1: |-
+      波蒂利亚把反讽视为 *apretados* 与 *relajientos* 所代表的两种过度之间的中道或中间地带。当涉及传统或继承的价值体系时，*relajo* 表现为对那些理解当下之事所必需的价值加以否定；相形之下，*apretado* 的狂热主义坚持认为，当下只有凭借继承的价值才有意义、或只能通过继承的价值来理解。前者（*relajiento*）拒绝价值的召唤，后者（*apretado*）则把价值体现出来。而反讽与它们保持距离，既不拒绝也不接受。出于一种“求真意志”，反讽要求在面对继承价值时采取苏格拉底式的姿态，在这种姿态中，声称无知使真理得以显露。反讽为真理开门；*relajo* 看见这门却不开，*apretados* 看见这门却把它钉死。波蒂利亚写道：“反讽是一种解放，它为价值奠定了自由……［而］*relajo* 是一种否定，它奠定了一种纯否定、因而贫瘠的伪自由”（1966 [2012: 176]）。
+    step2: |-
+      在波蒂利亚看来，反讽是介于 *apretados* 与 *relajientos* 这两种过度之间的中道。就传统或既承的价值体系而言，*relajo* 表现为否定那些理解当下所必需的价值；*apretado* 的狂热主义则一口咬定：当下只有靠继承的价值才说得通，也只能通过这些价值来理解。*relajiento* 拒绝价值的召唤，*apretado* 则把价值身体力行。反讽却与二者都保持距离，既不拒绝，也不接受。出于“求真意志”，反讽要求对既承价值采取苏格拉底式的姿态：声称自己无知，好让真理显露出来。反讽为真理开了门；*relajo* 看见门却不开，*apretados* 看见门却把它钉死。波蒂利亚写道：“反讽是一种解放，它为价值奠立自由……［而］*relajo* 是一种否定，它奠立的只是一种纯否定的伪自由，因而毫无生育力”（1966 [2012: 176]）。
+  - id: 61
+    kind: body
+    source: |-
+      Portilla’s idea is that a wholesale demolition of the way things stand (of “values”) does not lead to progress or truth or freedom. Neither is a fanatical seriousness about inherited values, which sticks one in place and traps one in the past—in a different kind of unfreedom. What Portilla calls an “ironic consciousness” is necessary to overcome both relajo and/or fanaticism, since only an ironic consciousness can confront meaning without destroying it. In the context of Portilla’s existentialism, irony is thereby the means whereby subjects create a future without either blindly undermining tradition (via the destructions relajo) or wholly internalizing it (via a dogmatic acceptance or substantialization characteristic of the apretadismo).
+    step1: |-
+      波蒂利亚的想法是：对事物现状（对“价值”）的整体拆除不会带来进步、真理或自由。对继承价值的狂热严肃也一样，它把人钉在原处、困在过去——这是另一种不自由。波蒂利亚所谓的“反讽意识”是克服 *relajo* 和／或狂热主义所必需的，因为只有反讽意识才能面对意义而不摧毁它。在波蒂利亚存在主义的语境中，反讽因此成为这样一种手段：主体借以创造未来，既不必盲目地破坏传统（通过 *relajo* 式的摧毁），也不必把它整个内化（通过教条式的接受，或 *apretadismo* 所特有的实体化）。
+    step2: |-
+      波蒂利亚的意思是：把现状（即“价值”）连根拆掉，并不会带来进步、真理或自由；而用狂热的严肃对待继承价值，同样不行——那会把人钉在原地、困在过去，只是另一种不自由。要克服 *relajo* 和／或狂热主义，就需要波蒂利亚所说的“反讽意识”：只有反讽意识才能直面意义而不把意义毁掉。在波蒂利亚存在主义的脉络里，反讽于是成了这样一条途径：主体借此开创未来，既不必盲目地拆毁传统（像 *relajo* 那样搞破坏），也不必把传统整个吞下去（像 *apretadismo* 那样教条地接受、把它实体化）。
+  - id: 62
+    kind: body
+    source: |-
+      Rosario Castellanos (2017) similarly proposes that inherited values—this time in the form of patriarchal relations—oppress and marginalize. In this case, only an ironic attitude can liberate one (women, in particular) to a future freedom. Reflecting on how women have been excluded from both literature and philosophy, Castellanos ironically announces that such exclusion is appropriate because women “would be bored to death” by that sort of pursuit (2017). Castellanos’ ironic observation, however, is refuted by her own literary and philosophical endeavors. Her extensive bibliography attests to this. In saying that women would be bored to do such work, moreover, she is calling attention to the fact that this is the way that patriarchal narratives represent women’s attitudes towards learning and academic life. Irony is here a key existential moment in the liberation of the oppressed in general and women in particular (see Hierro 1997)[^hierro-1997].
+    step1: |-
+      罗萨里奥·卡斯特利亚诺斯（2017）同样提出，继承价值——这次以父权关系的形式——压迫并边缘化人。在这种情况下，只有反讽态度才能把人（尤其是女性）解放到未来的自由。反思女性如何被排除在文学与哲学之外，卡斯特利亚诺斯反讽地宣称，这种排除是恰当的，因为女性会被这类追求的“无聊得要死”（2017）。然而，卡斯特利亚诺斯这一反讽的观察，被她自己的文学与哲学努力所驳倒。她丰硕的著述书目就是证明。而且，在说女性做这种事会觉得无聊时，她是在提醒注意一个事实：这正是父权叙事表现女性对学习与学术生活之态度的方式。在此，反讽是受压迫者（一般而言）与女性（尤其）解放中的一个关键存在时刻（参 Hierro 1997）[^hierro-1997]。
+    step2: |-
+      卡斯特利亚诺斯（2017）也持类似的看法：承袭而来的价值——这一次是以父权关系的形式——压迫人、把人边缘化。在这种情况下，只有反讽态度才能把人（尤其是女性）解放出来，走向未来的自由。她反思女性如何被排除在文学和哲学之外，反讽地宣称：这种排除是应该的，因为女人干这种事“会无聊得要死”（2017）。可是，卡斯特利亚诺斯这番反讽之论，恰恰被她自己的文学与哲学事业所驳倒——她那份可观的著作目录就是铁证。而且，她说女人干这种事会无聊，其实是在提醒：父权叙事正是这样表现女性对学问与学术生活的态度的。在这里，反讽是受压迫者（一般地）和女性（特别地）获得解放的关键存在时刻（参 Hierro 1997）[^hierro-1997]。
+  - id: 63
+    kind: body
+    source: |-
+      #### 2.8.2 Charity
+    step1: |-
+      #### 2.8.2 爱德
+    step2: |-
+      #### 2.8.2 爱德
+  - id: 64
+    kind: body
+    source: |-
+      Antonio Caso’s *Existence as Economy and Charity*, originally published in 1916, and republished in expanded form in 1919 as *Existence as Economy, as Disinterest, and as Charity*, can be classified as a work in Christian existentialism. Influenced by the work of Pascal, Kierkegaard, and Bergson, Caso proposes that human existence in itself is pure egoism and selfishness, determined always by its biological need for self-preservation. In acts of aesthetic disinterest and Christian love, a person frees itself from its biological prison by doing what does not contribute to its immediate survival. A text written decades before the arrival of French and German existentialism to Mexico, the goal of Caso’s work is ultimately to persuade its reader that authentic human life is lived in service to others. He calls this “charity,” and believes that if anything distinguishes the human from the beast, it is their ability to “sacrifice” their own self-interests for the interests of their fellows.
+    step1: |-
+      安东尼奥·卡索的《作为经济与爱的存在》初版于 1916 年，1919 年以扩充形式重版为《作为经济、无利害与爱的存在》，可归入基督教存在主义之作。受帕斯卡尔、克尔凯郭尔与柏格森著作的影响，卡索提出：人的存在本身纯粹是利己主义与自私自利，总被其自我保全的生物学需要所决定。在审美无利害与基督教爱的行为中，人通过做那些无助于其即时生存的事情，从自己的生物学牢笼中解放出来。这部写于法德存在主义抵达墨西哥之前数十年的文本，最终目标是说服读者：本真的人类生活是在服务他人中度过的。他称此为“爱德”，并相信，如果说有什么使人区别于兽，那就是人为同类利益“牺牲”自身利益的能力。
+    step2: |-
+      卡索的《作为经济与爱的存在》初版于 1916 年，1919 年扩版为《作为经济、无利害与爱的存在》，可归入基督教存在主义之列。在帕斯卡尔、克尔凯郭尔和柏格森的影响下，卡索提出：人的存在本身纯是利己与自私，时时被自我保全的生物学需要所左右。而在审美无利害与基督教之爱的行为里，人做那些无助于即时生存的事，从而从生物学牢笼中脱身。这本书写在法德存在主义传入墨西哥之前几十年，其最终目的是让读者相信：本真的人生，是在为他人服务中度过的。他称此为“爱德”，并且相信：人若有什么地方区别于野兽，那就是能为同类的利益“牺牲”自身利益。
+  - id: 65
+    kind: body
+    source: |-
+      Caso identifies three possible forms of existence: existence as economy, existence as disinterest, and existence as charity. Regarding the first: Caso’s existentialism is situated in the context of Mexico’s anti-positivist movement of the first decades of the 20ᵗʰ century. In fact, Caso’s early texts responds to the positivism of August Comte, Herbert Spencer and the Social Darwinism popularized in Mexico toward the end of the 19ᵗʰ century. According to that tradition, existence is nothing but a “struggle for life,” that is, a struggle for survival and the continuation of the species—this is existence as mere transaction, power, or economy. All that the person does, in this case, is for self-benefit. This is the height of egoism: all accumulation and all excess of vital energy, material wealth, power and so on is re-invested in oneself or accumulated for one’s profit. Other selves are there *for me* and for *my* needs*.* The formula for this way of existing is this: “life=maximum benefit + minimum effort.” According to Caso, existence as economy is the *most* rational way to life.
+    step1: |-
+      卡索指出存在的三种可能形式：作为经济的存在、作为无利害的存在与作为爱的存在。关于第一种：卡索的存在主义处于 20 世纪最初几十年墨西哥反实证主义运动的语境中。事实上，卡索的早期文本回应的是奥古斯特·孔德、赫伯特·斯宾塞的实证主义，以及 19 世纪末在墨西哥流行的社会达尔文主义。按那一传统，存在不过是一场“生存斗争”，即为生存与物种延续而斗争——这就是作为纯粹交易、权力或经济的存在。在这种情况下，人所做的一切都是为了自身利益。这是利己主义的顶峰：一切积累、一切多余的生命能量、物质财富、权力等等，都被再投资于自身，或为自身利益而囤积。其他自我是*为我*而在、为*我的*需要而在。这种存在方式的公式是：“生活＝最大收益＋最小努力。”按卡索所说，作为经济的存在是生活的*最*合理方式。
+    step2: |-
+      卡索区分出存在的三种可能形式：作为经济的存在、作为无利害的存在、作为爱的存在。先说第一种。卡索的存在主义，处在 20 世纪头几十年墨西哥反实证主义运动的语境里；他的早期文本，针对的正是孔德、斯宾塞的实证主义，以及 19 世纪末在墨西哥流行的社会达尔文主义。按那一套说法，存在无非是一场“生存斗争”——为活命、为物种延续而挣扎。这就是作为纯粹交易、权力或经济的存在。此时人所做的一切，都为了自己。利己主义到了顶点：一切积累，一切多余的生命能量、物质财富、权力等等，都再投回自己身上，或为私利囤积起来。别的自我只是*为我*而存在，为*我的*需要而存在。这种活法的公式是：“生活＝最大收益＋最小努力”。卡索认为，作为经济的存在是生活*最*理性的方式。
+  - id: 66
+    kind: body
+    source: |-
+      Existence as disinterest and existence as charity are irrational ways to live. To live life as disinterest is to invest all excess vital energy not on the ego, but in things that have nothing to do with biology, such as art or the contemplation of beauty. This form of existence is not interested in the triumphs of the ego, or even survival. Living charitably takes this one step further: it is to sacrifice resources (what he calls “life energy”) that would otherwise benefit a subject’s own preservation and to do so for the sake of others. Reason is adamantly opposed to this. Reason says that any excess resources (or “energy”) that a subject may possess should be spent on that which may guarantee survival or reproduction. It is irrational to spend energy excesses in any other way. The formula for this way of existence: “sacrifice=maximum effort +minimum gain.” A charitable existence, that is, is one lived *for others*, in service of one’s neighbor, while doing the most with what one has and investing of oneself without expecting a return on that investment. Ultimately, it is the individual who sacrifices for others, who spends his excess energy, his surplus, on the well-being of others that has surpassed the tyranny of the self and is truly charitable.
+    step1: |-
+      作为无利害的存在与作为爱的存在是不合理的活法。把生活作为无利害来过，就是把一切多余的生命能量不投在自我上，而投在与生物学无关的事物上，比如艺术或对美的沉思。这种存在形式不关心自我的胜利，甚至不关心生存。有爱地生活则更进一步：牺牲本来会有益于主体自身保全的资源（他称之为“生命能量”），并且是为他人而这样做。理性坚决反对这一点。理性说，主体所拥有的任何多余资源（或“能量”）都应花在可能保障生存或繁衍的事情上。以任何其他方式花费多余能量都是不合理的。这种存在方式的公式是：“牺牲＝最大努力＋最小收益。”也就是说，有爱的存在是为他人而活、为邻人服务，同时用自己所有的做最多的事，把自己投入进去而不指望回报。最终，正是为他人牺牲、把自己的多余能量即盈余花在他人福祉上的个体，才超越了自我的暴政，才是真正有爱的。
+    step2: |-
+      作为无利害的存在与作为爱的存在，都是不合理性的活法。以无利害的方式生活，就是不把多余的生命能量投在自我上，而投在与生物学无关的东西上——艺术、对美的沉思之类。这种存在不计较自我的凯旋，连生存也不计较。有爱的生活又进了一步：把本可用于自我保全的资源（他称之为“生命能量”）牺牲掉，而且是为他人牺牲。理性对此坚决反对。理性说，一个人手里多余资源（或“能量”）都该花在能保证生存或繁衍的事上；拿多余的能量去别处花，就是不理性。这种活法的公式是：“牺牲＝最大努力＋最小收获”。所谓有爱的存在，就是*为他人*而活，为邻人服务，同时把手里的一切用到极致，把自己投进去而不图回报。说到底，只有为他人牺牲、把多余的能量与盈余花在他人福祉上的人，才超越了自我的暴政，才真正有爱。
+  - id: 67
+    kind: body
+    source: |-
+      Freedom is intimately involved in the choice between living life as economy, as disinterest, or as charity. One can chose to live life as economy and never care about others, about art, or about the world. But “goodness” itself depends on choosing charity over economy: “a good man sacrifices egoism in favor of helping his fellow man, and such a sacrifice is free.” (Caso 2017: 38)[^caso-2017]. But, again, charity is irrational; no rational calculus can conclude that giving away what one has is good for the self. So existence as charity is both a free act and an irrational choice, since reason is fundamentally egoist. “Life says: do not give what is your own. Reason says: to give is foolish. The good says: give what your egoism asks you to hold on to because reason does not discover your true, deep self, your real, autonomous personality emancipated from biological life” (Caso 1986: 51)[^caso-1986]. Charity is thus a category of existence to which person ought to aspire if they wish to be good. The moral imperative attached to this aspiration is simple: “Go, commit acts of charity!” (Caso 2017: 45)[^caso-2017].
+    step1: |-
+      自由与在“作为经济、作为无利害或作为爱”之间作选择这件事密不可分。人可以选择以经济的方式生活，从不关心他人、艺术或世界。但“善”本身取决于选择爱德而非经济：“一个善人为帮助同类而牺牲利己主义，而这种牺牲是自由的”（Caso 2017: 38）[^caso-2017]。但话说回来，爱德是不理性的；没有任何理性算计能得出结论说，把自己所有的给出去对自己有好处。因此，作为爱的存在既是自由的行为，又是不理性的选择，因为理性从根本上说是利己的。“生活说：不要给出你自己的东西。理性说：给予是愚蠢的。善说：把你利己主义要求你守住的东西给出去，因为理性发现不了你真正而深层的自我，你那从生物生命中解放出来的、真正自主的人格”（Caso 1986: 51）[^caso-1986]。于是，爱德是人若想成为善人就应当向往的一种存在范畴。与这一向往相系的道德律令很简单：“去吧，行爱德之事！”（Caso 2017: 45）[^caso-2017]。
+    step2: |-
+      在“作为经济”“作为无利害”“作为爱”这三种活法之间作选择，自由深深卷入其中。人尽可以选经济式的生活，对他人、对艺术、对世界一概不关心。但“善”本身就取决于选择爱德而非经济：“善人为帮助同类而牺牲利己，这种牺牲是自由的”（Caso 2017: 38）[^caso-2017]。可话说回来，爱德不合理性：任何理性盘算都得不出“把自己所有的给出去对自己有好处”的结论。所以，作为爱的存在既是自由的行为，又是不理性的选择，因为理性骨子里是利己的。“生活说：别把自己的东西给出去。理性说：给予是愚蠢的。善说：把你利己之心紧紧攥住的东西给出去吧，因为理性找不到你真正深层的自我，找不到你那从生物生命中解放出来的、真正自主的人格”（Caso 1986: 51）[^caso-1986]。因此，爱德是人想要为善就该向往的一种存在范畴。这一向往所附的道德律令很简单：“去吧，去行爱德！”（Caso 2017: 45）[^caso-2017]。
+  - id: 68
+    kind: body
+    source: |-
+      #### 2.8.3 Fragility, Melancholy, and Unwillingness
+    step1: |-
+      #### 2.8.3 脆弱、忧郁与不欲
+    step2: |-
+      #### 2.8.3 脆弱、忧郁与不欲
+  - id: 69
+    kind: body
+    source: |-
+      Emilio Uranga defines human fragility as “the quality of always being threatened by nothingness, by the threat of falling into non-being” (1951 [2017: 167]). Fragility is an “ontological condition” like insufficiency that defines the “being of Mexican being.” For Mexicans (or so say the Mexican existentialists), this fragility is manifested as “melancholy” and “unwillingness” (*desgana*). Importantly, melancholy is more fundamental than either fragility and unwillingness, as it exposes us as beings without ground and without reason for being (Ramírez 2022: 53)[^ramírez-2022]. Unwillingness differs from melancholy in that it is a response to it; it does not refer to a *lack of will*, but to a *willingness to refuse* to exercise it because *there is no point* in doing so. Said differently, it is not that one lacks the will to do X, but that one refuses to do X for some reason, including “repulsion,” “disgust,” or procrastination—“leaving everything for ‘tomorrow’” (Uranga 1951 [2017: 167])[^uranga-1951][^uranga-1951-2]. One sees the world as disgusting, for example, when participating in its rituals bring me closer to something that I hate or with which I don’t want to associate. “Unwillingness is precisely the disgust that overtakes us when we foresee that our action might contribute to a consolidation of the abject sense of things. All action is therefore valued, in unwillingness, within the horizon of its contribution to depravity and corruption” (168). Uranga’s notion of unwillingness could be interpreted as laziness, which the term seems to imply; but unwillingness here is thought to be imbued with power. It is a form of resistance to *not* participate in the world. The unwilling man, writes Uranga, “sees a meaningful process that beckons his collaboration, his decision, his action, and that demands to be fulfilled by a *surplus* of determination” (167); in spite of this call, however, or against it, the unwilling person refuses to act, or *chooses not to choose*. Unwillingness is an intentional indifference having less to do with incapacity or inability and more to do with power, or resistance. However, for the Mexican existentialists, the downside of unwillingness is that the unwilling lose out on the opportunity to be historical, to impact the world. On the other hand, the willing (or the “generous”) make “a determined choice to collaborate, a will to sympathize, to enter into auxiliary contact with things, with history, with social movements, of adding or synthesizing the capacity for teleological determination that emanates from freedom with the causality that weighs things down, with the dialectical course of the world that straightens itself toward a goal but which without that *surplus* of determination can degrade or minimize itself into inadequate compromises” (167). Mexican existentialists point to unwillingness so that it may be avoided. It should be avoided because nothing changes if one is unwilling to “collaborate.” And if nothing changes, everything stays the same, including whatever oppressive conditions one may be presently enduring.
+    step1: |-
+      埃米利奥·乌兰加把人的脆弱定义为“总是受到虚无之威胁、受到坠入非存在之威胁的品质”（1951 [2017: 167]）。脆弱是一种“本体论状况”，与不足一样，定义着“墨西哥存在的存在”。对墨西哥人来说（墨西哥存在主义者如是说），这种脆弱表现为“忧郁”与“不欲”（*desgana*）。重要的是，忧郁比脆弱与不欲都更根本，因为它把我们就暴露为无根据、无存在理由的存在者（Ramírez 2022: 53）[^ramírez-2022]。不欲与忧郁不同：它是对忧郁的一种回应；它并不指*意志的缺乏*，而指一种*拒绝*行使意志的*意愿*，因为这样做*没有意义*。换句话说，不是人缺乏做 X 的意志，而是人出于某种理由——包括“厌恶”“恶心”或拖延——“把一切都留给‘明天’”——而拒绝做 X（Uranga 1951 [2017: 167]）[^uranga-1951][^uranga-1951-2]。比如，当参与世界的仪式使我更接近我所憎恨、或不愿与之往来之物时，我就觉得这世界令人恶心。“不欲恰恰是当我们预见自己的行动可能有助于巩固事物的卑劣意义时，将我们攫住的那种恶心。因此，在不欲中，一切行动都在其对堕落与腐败的贡献这一视野内被评价”（168）。乌兰加的不欲概念可以被解释为懒惰，该词似乎也暗示这一点；但这里的不欲被认为充满了力量。它是一种*不*参与世界的抵抗形式。乌兰加写道，不欲的人“看见一个有意义的过程，召唤着他的合作、他的决定、他的行动，并要求以一种*盈余*的规定来充实它”（167）；然而，尽管有这一召唤、或逆着它，不欲的人仍拒绝行动，或*选择不选择*。不欲是一种有意向的漠然，与其说关乎无能力或不能，不如说关乎力量或抵抗。然而，对墨西哥存在主义者来说，不欲的缺点是：不欲者错失了成为历史性的、影响世界的机会。另一方面，有意愿者（或“慷慨者”）作出“一种合作的坚决选择，一种共情的意愿，愿与事物、与历史、与社会运动建立辅助性接触，愿把从自由中流出的目的论规定能力，与压住事物的因果性、与世界那朝目标自我校正的辩证进程结合起来——若无那份规定的*盈余*，这一进程可能退化为或缩水为不充分的妥协”（167）。墨西哥存在主义者指出不欲，是为了让人避开它。之所以应当避开，是因为人若不欲“合作”，就什么都不会变。而若什么都不变，一切就照旧，包括人当下可能正在忍受的任何压迫状况。
+    step2: |-
+      乌兰加把人的脆弱界定为“总受虚无威胁、总有坠入非存在之虞的品质”（1951 [2017: 167]）。脆弱是一种“本体论状况”，同“不足”一样，规定着“墨西哥存在之存在”。墨西哥存在主义者说，在墨西哥人身上，这种脆弱表现为“忧郁”与“不欲”（*desgana*）。要紧的是，忧郁比脆弱和不欲都更根本：它把我们暴露为没有根基、没有存在理由的存在者（Ramírez 2022: 53）[^ramírez-2022]。不欲不同于忧郁：它是对忧郁的回应；它并不指*没有意志*，而指*不愿*动用意志，因为这么做*没有意义*。换句话说，不是人没有意志去做某事，而是人为某个理由拒绝去做——“厌恶”“恶心”，或者拖延，把那件事“留给明天”（Uranga 1951 [2017: 167]）[^uranga-1951][^uranga-1951-2]。比如，参加世上的仪式若使我更靠近我所憎恶、不愿沾染的东西，我就会觉得这世界令人恶心。“不欲恰恰就是那种恶心：当我们预见自己的行动可能帮着把事物的卑劣意义夯实，它便攫住我们。所以在不欲里，一切行动都要按其助长堕落与腐败的程度来估价”（168）。乌兰加说的“不欲”容易被读成懒惰——这个词看似有此含义；但在这里，不欲被看成充满力量的东西。它是一种*不*参与世界的抵抗。乌兰加写道，不欲的人“看见一个有意义的过程在召唤他去合作、去决定、去行动，要求他以一份*盈余*的决断去充实它”（167）；可面对这一召唤、甚至顶着它，不欲的人偏偏拒绝行动，或者*选择不选择*。不欲是一种有意的漠然：与其说关乎无能或无力，不如说关乎力量、关乎抵抗。不过，在墨西哥存在主义者看来，不欲的坏处在于：不欲者失去了成为历史性存在、影响世界的机会。反过来，有意志的人（“慷慨者”）会“坚决地选择合作，怀着共情之意，与事物、历史、社会运动建立辅助性的联系，把源自自由的目的论规定能力，加在压住事物的因果性上、加在世界那朝目标自我校正的辩证进程上——若无这份规定的*盈余*，这一进程就会退化成、萎缩成不充分的妥协”（167）。墨西哥存在主义者标出不欲，是为了让人避开它。之所以要避开，是因为人若不肯“合作”，就什么都不会变；而什么都不变，一切照旧，包括你眼下正在忍受的那些压迫。
+  - id: 70
+    kind: body
+    source: |-
+      ## 3. Critiques of Mexican Existentialism
+    step1: |-
+      ## 3. 对墨西哥存在主义的批评
+    step2: |-
+      ## 3. 对墨西哥存在主义的批评
+  - id: 71
+    kind: body
+    source: |-
+      Critiques for Mexican existentialism abound and vary from rigorous critique of methodology (Gaos 1952 and Villegas 1979)[^gaos-1952][^villegas-1979] to dismissal on political or other-than-philosophical grounds (Bartra 1987 and Santos Ruiz 2015)[^santos-2015]. While Gaos himself helps articulate the Mexican existentialist project with his mentorship and courses on Heidegger and others, he’s also one of the first to critique their approach on the basis that the Mexican being to which the philosophers refer *does not exist*, calling their method “arbitrary” (Gaos 1952)[^gaos-1952]. Villegas likewise criticizes the method, observing that Mexican existentialist confuse history for being, historicism for ontology (Villegas 1979)[^villegas-1979]. Other critics simply propose that the Mexican existentialists didn’t understand existentialism (Díaz 2024)[^díaz-2024].
+    step1: |-
+      对墨西哥存在主义的批评比比皆是，从对方法论进行严格批评（Gaos 1952 与 Villegas 1979）[^gaos-1952][^villegas-1979]，到以政治或其他非哲学理由加以否定（Bartra 1987 与 Santos Ruiz 2015）[^santos-2015]。高斯本人虽然以导师身份、通过关于海德格尔等人的课程帮助阐明了墨西哥存在主义计划，却也是最早批评其进路的人之一，理由是他们所说的墨西哥存在*并不存在*；他称这种方法为“任意的”（Gaos 1952）[^gaos-1952]。维列加斯同样批评这一方法，指出墨西哥存在主义者把历史误认为存在、把历史主义误认为本体论（Villegas 1979）[^villegas-1979]。其他批评者则干脆说，墨西哥存在主义者并不理解存在主义（Díaz 2024）[^díaz-2024]。
+    step2: |-
+      对墨西哥存在主义的批评很多，有对方法论的严格批评（Gaos 1952；Villegas 1979）[^gaos-1952][^villegas-1979]，也有从政治上或其他非哲学理由出发的否定（Bartra 1987；Santos Ruiz 2015）[^santos-2015]。高斯本人虽以师承和关于海德格尔等人的课程帮衬过这个计划，却也是最早批评其进路的人之一：他说哲学家们所谈的墨西哥存在*根本不存在*，并称其方法“任意”（Gaos 1952）[^gaos-1952]。维列加斯同样批评这种方法，指出墨西哥存在主义者把历史当成了存在，把历史主义当成了本体论（Villegas 1979）[^villegas-1979]。还有批评者干脆说：墨西哥存在主义者压根没弄懂存在主义（Díaz 2024）[^díaz-2024]。
+  - id: 72
+    kind: body
+    source: |-
+      There were more dismissive critiques. One of Mexico’s most important and influential philosophers, José Vasconcelos, was an early, and vociferous, critic of the Mexican existentialist movement. In interviews given in 1950, Vasconcelos laments that existentialism in Mexico “is as sterile as the nothingness from which it takes its point of departure” (1950). The crux of his critique is that existentialism doesn’t really introduce anything new or interesting to either philosophy or culture: “the method is simplistic, almost infantile and its conclusions obvious” (1950). The obvious conclusions of existentialism (that man is free, that God does not exist, that one is thrown into the world) don’t inspire purpose or the sort of commitment that Zea, Uranga, and the rest, believe that they inspire. What it inspires, instead, is the abandonment of those ideals that make life worth living—another way to say that existentialism breeds unwillingness. And without ideals, man is lost. “Existentialism,” he says, “is the terminus of a decadence that in philosophy begins when thought lacks God and turns to itself” (1950). Such egoism is at the heart of existentialism and, Vasconcelos hopes, Mexican existentialist realize this sooner rather than later.
+    step1: |-
+      还有更轻蔑的批评。墨西哥最重要、最具影响力的哲学家之一何塞·巴斯孔塞洛斯，就是墨西哥存在主义运动早期而激烈的批评者。在 1950 年的访谈中，巴斯孔塞洛斯哀叹墨西哥的存在主义“像它所出发的那个虚无一样贫瘠”（1950）。他批评的要点是：存在主义对哲学或文化都没有真正带来什么新东西或有趣的东西：“方法简单化，几乎幼稚，结论显而易见”（1950）。存在主义的那些显而易见的结论（人是自由的、上帝不存在、人被抛入世界）并不能激发目的，也不能激发塞亚、乌兰加等人所相信的那种承诺。它所激发的，反倒是抛弃那些使生活值得过的理想——换句话说，存在主义滋生不欲。而没有理想，人就迷失了。“存在主义，”他说，“是一种衰败的终点；在哲学中，这种衰败始于思想失去上帝、转向自身之时”（1950）。这种利己主义是存在主义的核心，巴斯孔塞洛斯希望墨西哥存在主义者尽早而不是尽晚地认识到这一点。
+    step2: |-
+      还有更不留情的批评。墨西哥最重要、最有影响的哲学家之一巴斯孔塞洛斯（José Vasconcelos），早年就激烈抨击墨西哥存在主义运动。1950 年的访谈中，他感叹墨西哥的存在主义“像它出发的那个虚无一样贫瘠”（1950）。他批评的要害是：存在主义对哲学、对文化都没拿出什么新鲜有趣的东西：“方法简陋，近乎幼稚，结论一望而知”（1950）。存在主义那些一望而知的结论（人是自由的、上帝不存在、人被抛入世界），并不能催生目的，也激不起塞亚、乌兰加等人所吹嘘的那种承诺。它真正催生的，是抛弃那些让生活值得一过的理想——换个说法，存在主义滋生“不欲”。人没有理想，就迷失了。他说：“存在主义是一种衰败的终点；在哲学里，这种衰败始于思想没了上帝、只转向自己”（1950）。这种利己主义正是存在主义的命门；巴斯孔塞洛斯希望墨西哥存在主义者早点醒悟，别拖得太晚。
+  - id: 73
+    kind: body
+    source: |-
+      A few decades after Vasconcelos, the Mexican cultural critic Roger Bartra dismisses the Mexican existentialist project on political grounds. In *The Cage of Melancholy* (1987), Bartra suggests that as its apex, during the moment of *la filosofía de lo mexicano*, Mexican existentialism was ultimately rooted in “the disdain of the dominant classes for the lives of those who find themselves in conditions of misery” (60). In other words, the existential analysis that found Mexicans as accidental, indifferent to death, relajientos, or insufficient was political and ideological and was meant to justify existing social conditions (unequal and oppressive as they were). Existentialism, Bartra says, was an expression of a “nationalist romanticism” that sought to “generate a tragic sense of the opposition between the barbarian and the civilized man, and to create for modern man a mythical past, so that his very modernity could, apparently, shed such myths and confront rationally the construction of the future” (53).
+    step1: |-
+      在巴斯孔塞洛斯之后几十年，墨西哥文化批评家罗赫尔·巴尔特拉以政治理由否弃墨西哥存在主义计划。在《忧郁的牢笼》（1987）中，巴尔特拉提出：墨西哥存在主义在其鼎盛期、即“墨西哥性哲学”（*la filosofía de lo mexicano*）时期，归根到底植根于“统治阶级对身处苦难境况者生命的轻蔑”（60）。换句话说，那种把墨西哥人说成偶在的、对死亡漠然的、*relajientos* 或不充分的存在分析，是政治性与意识形态性的，意在为既存的社会状况（不平等且压迫性的状况）作辩护。巴尔特拉说，存在主义是一种“民族主义浪漫主义”的表达，这种浪漫主义力图“制造野蛮人与文明人之间对立的悲剧感，并为现代人创造一个神话般的过去，好让他的现代性可以——表面上——摆脱这类神话，理性地面对未来的建设”（53）。
+    step2: |-
+      巴斯孔塞洛斯之后几十年，墨西哥文化批评家巴尔特拉（Roger Bartra）又从政治角度否定了墨西哥存在主义。在《忧郁的牢笼》（1987）里，巴尔特拉说：墨西哥存在主义发展到顶点、即“墨西哥性哲学”（*la filosofía de lo mexicano*）时期，骨子里扎根于“统治阶级对苦难中人的生命的轻蔑”（60）。也就是说，那套把墨西哥人分析成偶在的、对死满不在乎的、*relajientos* 或不充分的存在论，本身是政治与意识形态的产物，用意在替既有的社会状况（不平等、压迫性的状况）作辩护。巴尔特拉说，存在主义是“民族主义浪漫主义”的一种表现，这种浪漫主义要“造出一种野蛮人与文明人对立的悲剧感，为现代人虚构一个神话般的过去，好让他的现代性——表面上——甩掉这些神话，理性地面对未来的建设”（53）。
+  - id: 74
+    kind: body
+    source: |-
+      Similarly, Ana Santos Ruiz’s *Los Hijos de los dioses: El Grupo filosófico Hiperión y la filosofía de lo mexicano* reaffirms Bartra’s suspicion that Mexican existentialism was not philosophy at all, but a form of state ideology. According to Santos Ruiz, Mexican existentialism sought to essentialize Mexican identity through various mechanism and strategies, thus solidifying and authenticating that identity as an accomplished, historical, fact. Santos Ruiz thus connects the *philosophical* project of autognosis, of knowing who and what the Mexican was, with a broader political project:
+    step1: |-
+      同样，安娜·桑托斯·鲁伊斯的《诸神之子：许珀里翁哲学小组与墨西哥性哲学》重申了巴尔特拉的怀疑：墨西哥存在主义根本不是哲学，而是国家意识形态的一种形式。按桑托斯·鲁伊斯的说法，墨西哥存在主义力图通过种种机制与策略把墨西哥身份本质化，从而把这一身份固化为一项既成的历史事实并使之合法化。于是，桑托斯·鲁伊斯把认识谁、什么是墨西哥人的*哲学*计划——即自我认识的计划——与一个更广阔的政治计划联系起来：
+    step2: |-
+      同样，桑托斯·鲁伊斯（Ana Santos Ruiz）的《诸神之子：许珀里翁哲学小组与墨西哥性哲学》又坐实了巴尔特拉的怀疑：墨西哥存在主义根本不算哲学，而是国家意识形态的一种形态。照她看来，墨西哥存在主义用各种机制与策略把“墨西哥身份”本质化，好把这一身份坐实、认证成一项既成的历史事实。于是，她把“认识墨西哥人是谁、是什么”这一*哲学*计划（自我认识），同更大的政治计划挂在一起：
+  - id: 75
+    kind: body
+    source: |-
+      > The *filosofía de lo mexicano*, for its part, created a discourse that sought to erase ethnic, cultural, social, political, and economic differences so as to offer a unique project of nation building based on an identity equally unique that, in turn, rested in *one* character, *one* history, and *one* shared culture (Ruiz 2015: 325).
+    step1: |-
+      > “墨西哥性哲学”则创造了一套话语，力图抹去族群、文化、社会、政治与经济上的差异，以便提供一项独特的建国计划；这一计划基于一种同样独特的身份，而这种身份又系于*一种*性格、*一段*历史与*一种*共享的文化（Ruiz 2015: 325）。
+    step2: |-
+      > 至于“墨西哥性哲学”，它造出一套话语，要把族群、文化、社会、政治、经济上的差异一概抹平，从而献上一个独一无二的建国方案。这个方案依托一种同样独一无二的身份；这种身份又系于*一种*性格、*一段*历史、*一种*共同文化（Ruiz 2015: 325）。
+  - id: 76
+    kind: body
+    source: |-
+      In other words, the subject of Mexican existentialism—the person that takes responsibility, that commits, that exists in nepantla, that suffers relajo, that deploys irony, and so on—is itself abstract and ideal. Mexican existentialism does not account, according to this critique, for the multiple identities and ethnicities that make up the historical and social space which is Mexico. This is a fair critique and much more can be said about it as well as other critiques levelled against the tradition (Pereda 2006)[^pereda-2006].
+    step1: |-
+      换句话说，墨西哥存在主义的主体——那个承担责任、作出承诺、在 *nepantla* 中存在、遭受 *relajo*、运用反讽等等的人——本身就是抽象的、理想的。按这一批评，墨西哥存在主义并未说明构成墨西哥这一历史与社会空间的多种身份与族群。这是一条公允的批评；关于它以及针对该传统的其他批评，还有许多可说（Pereda 2006）[^pereda-2006]。
+    step2: |-
+      换句话说，墨西哥存在主义所说的主体——那个担责的人、承诺的人、在 *nepantla* 中存在的人、受 *relajo* 摆布的人、会玩反讽的人——本身就是个抽象的理想人。按这一批评，墨西哥存在主义说不清构成墨西哥这一历史与社会空间的多元身份与族群。这条批评是公允的；关于它，关于针对这一传统的种种批评，还有不少话可讲（Pereda 2006）[^pereda-2006]。
+  - id: 77
+    kind: body
+    source: |-
+      ## 4. Current Scholarship
+    step1: |-
+      ## 4. 当前研究
+    step2: |-
+      ## 4. 当前研究
+  - id: 78
+    kind: body
+    source: |-
+      Mexican existentialism is currently in a state of recovery. In Mexico, the recovery process begins in earnest at the turn of the present century with Guillermo Hurtado’s edited volume *El* *Hiperión* (2006), which brings together the most significant figures of this movement as well as fragments of their best-known writings. This is followed by Jaime Vieyra’s “Emilio Uranga: la existencia como accidente” (2007) and Guillermo Hurtado’s edition of Emilio Uranga’s master work, *Análisis del ser del mexicano* together with various other of Uranga’s writings (1952 [2013]). Most recently, works by Hurtado, Aurelia Valero, José Manuel Cuéllar, Mario Teodoro Ramírez, Jaime Vieyra, and Hector Aparicio offer contemporary interpretations of existential writings of Portilla, Uranga, Villoro, and Zea (Hurtado 2019; Pie 2012; Cuéllar 2020; Ramírez 2022; Aparicio 2023; Garcia Torres 2024)[^garcia-2024][^torres-2024][^cuéllar-2020][^hurtado-2019][^ramírez-2022]. The Mexican project of recovery continues and it is sure continue well into the 21ˢᵗ century.
+    step1: |-
+      墨西哥存在主义目前正处于复兴之中。在墨西哥，复兴进程在本世纪之交认真启动，起于吉列尔莫·乌尔塔多主编的《许珀里翁》（2006）；该书汇集了这一运动最重要的人物，以及他们最著名著作的片段。随后是海梅·比耶拉的《埃米利奥·乌兰加：作为偶性的存在》（2007），以及乌尔塔多对乌兰加的代表作《墨西哥存在之分析》连同乌兰加其他若干著作的编订（1952 [2013]）。最近，乌尔塔多、奥雷利亚·瓦莱罗、何塞·曼努埃尔·奎利亚尔、马里奥·特奥多罗·拉米雷斯、海梅·比耶拉与埃克托尔·阿帕里西奥的著作，对波蒂利亚、乌兰加、比略罗与塞亚的存在主义文本提供了当代解读（Hurtado 2019；Pie 2012；Cuéllar 2020；Ramírez 2022；Aparicio 2023；Garcia Torres 2024）[^garcia-2024][^torres-2024][^cuéllar-2020][^hurtado-2019][^ramírez-2022]。墨西哥的复兴工程仍在继续，而且必定会一直继续到 21 世纪以后。
+    step2: |-
+      墨西哥存在主义眼下正在复兴。在墨西哥，这场复兴在本世纪之交真正起步：吉列尔莫·乌尔塔多（Guillermo Hurtado）主编的《许珀里翁》（2006）把这一运动最重要的人物及其代表作选段汇于一编。接着是海梅·比耶拉的《埃米利奥·乌兰加：作为偶性的存在》（2007），以及乌尔塔多编订的乌兰加代表作《墨西哥存在之分析》及乌兰加其他若干文字（1952 [2013]）。晚近以来，乌尔塔多、奥雷利亚·瓦莱罗、何塞·曼努埃尔·奎利亚尔、马里奥·特奥多罗·拉米雷斯、海梅·比耶拉和埃克托尔·阿帕里西奥等人的著作，为波蒂利亚、乌兰加、比略罗、塞亚的存在主义文本提供了当代解读（Hurtado 2019；Pie 2012；Cuéllar 2020；Ramírez 2022；Aparicio 2023；Garcia Torres 2024）[^garcia-2024][^torres-2024][^cuéllar-2020][^hurtado-2019][^ramírez-2022]。墨西哥的复兴工程仍在推进，且必定会延续到 21 世纪深处。
+  - id: 79
+    kind: body
+    source: |-
+      In the US, this project of recovery is simultaneously a project of discovery. It involves a synergistic approach to Mexican philosophy involving translation, interpretation, publication and teaching. These efforts include Carlos Alberto Sanchéz’s introduction and translation of Jorge Portilla’s *La fenomenología del relajo* (1966 [2012, 2023]) and *Emilio Uranga’s* *Analysis of Mexican Being* (1952 [2021]), as well as Sánchez’s *Contingency and Commitment: Mexican Existentialism and the Place of Philosophy* (2016). These works begin a conversation of Mexican existentialism, it’s breadth, scope, and also its blind-spots—Andrea Pitts (2016), for instance, points out the complete lack of the feminist perspective internal to this project. The project is spurned on by the editorial work of Robert Eli Sanchez and Carlos Alberto Sánchez, who publish *Mexican Philosophy in the 20ᵗʰ Century: Essential Readings* in 2017 and launch the *Journal of Mexican Philosophy* a few years later in 2022. More recent scholarship seeks to engage Mexican existentialism with a less historical, more analytical, approach. Stephanie Merrim’s *A Latin American Existentialist Ethos* (2023) zeroes in on the influence of Mexican existentialism on literary figures of the time, including Juan Rulfo and Rosario Castellanos; Sergio Gallegos-Ordonica engages Uranga’s humanism (2020); Manuel Vargas offers an analysis and interpretation of “accidentality” (2020); Juan Carlos Gonzalez (2024) thinks of Mexican existentialism in relation to the various crises plaguing “America” in the 21ˢᵗ century; Francisco Gallegos gives us a contemporary reading of the phenomenology of zozobra (2023); and Juan Garcia Torres (2023) brings these Mexican existentialists into conversation with the popular decolonial approaches. It is thus safe to say that Mexican existentialism is a not merely a historical artifact, but a living, breathing philosophical archive with much to offer contemporary scholars.
+    step1: |-
+      在美国，这一复兴工程同时是一项发现工程。它涉及一种协同的进路：翻译、解释、出版与教学。这些努力包括卡洛斯·阿尔贝托·桑切斯对波蒂利亚《relajo 现象学》（1966 [2012, 2023]）与*埃米利奥·乌兰加*《墨西哥存在之分析》（1952 [2021]）的导论与翻译，以及桑切斯的《偶然性与承诺：墨西哥存在主义与哲学的位置》（2016）。这些著作开启了关于墨西哥存在主义的对话，涉及它的广度、范围，以及它的盲点——例如，安德里亚·皮茨（2016）指出，这一计划内部完全缺乏女性主义视角。该工程得到罗伯特·埃利·桑切斯与卡洛斯·阿尔贝托·桑切斯编辑工作的推动：他们于 2017 年出版《20 世纪墨西哥哲学：基本读本》，并于几年后、2022 年创办《墨西哥哲学杂志》。更晚近的研究寻求以较少历史性、更多分析性的进路介入墨西哥存在主义。斯蒂芬妮·梅里姆的《拉丁美洲存在主义精神》（2023）聚焦墨西哥存在主义对当时文学人物的影响，包括胡安·鲁尔福与罗萨里奥·卡斯特利亚诺斯；塞尔吉奥·加列戈斯-奥尔多里卡探讨乌兰加的人本主义（2020）；曼努埃尔·巴尔加斯对“偶在性”作了分析与解释（2020）；胡安·卡洛斯·贡萨莱斯（2024）把墨西哥存在主义与 21 世纪困扰“美国”的种种危机联系起来思考；弗朗西斯科·加列戈斯（2023）对 zozobra 现象学作了当代解读；胡安·加西亚·托雷斯（2023）让这些墨西哥存在主义者与流行的去殖民进路展开对话。因此，可以有把握地说，墨西哥存在主义不只是历史遗物，而是一个活生生的哲学档案，对当代学者大有可提供之处。
+    step2: |-
+      在美国，这场复兴同时也是发现。它走的是协同并进的路子：翻译、解释、出版、教学齐头并举。其中包括桑切斯（Carlos Alberto Sánchez）为波蒂利亚《relajo 现象学》（1966 [2012, 2023]）和乌兰加《墨西哥存在之分析》（1952 [2021]）所作的导论与译文，以及他本人的《偶然性与承诺：墨西哥存在主义与哲学的位置》（2016）。这些著作打开了关于墨西哥存在主义的对话——谈它的广度、范围，也谈它的盲点：例如皮茨（Andrea Pitts，2016）就指出，这一计划内部完全缺少女权主义视角。这项工作又因罗伯特·埃利·桑切斯与卡洛斯·阿尔贝托·桑切斯的编辑之功而加速：他们 2017 年出版《20 世纪墨西哥哲学：基本读本》，2022 年又创办《墨西哥哲学杂志》。较近的研究则尝试以更重分析、较少历史的方式介入墨西哥存在主义。梅里姆（Stephanie Merrim）的《拉丁美洲存在主义精神》（2023）专论墨西哥存在主义对当时文学人物的影响，包括胡安·鲁尔福与罗萨里奥·卡斯特利亚诺斯；加列戈斯-奥尔多里卡（Sergio Gallegos-Ordorica）深入乌兰加的人本主义（2020）；巴尔加斯（Manuel Vargas）对“偶在性”作了分析与解释（2020）；贡萨莱斯（Juan Carlos Gonzalez，2024）把墨西哥存在主义同 21 世纪困扰“美国”的种种危机对照来想；加列戈斯（Francisco Gallegos，2023）给出 zozobra 现象学的当代读解；加西亚·托雷斯（Juan Garcia Torres，2023）则让这些墨西哥存在主义者与流行的去殖民进路对话。可以说，墨西哥存在主义并非一件历史旧物，而是一个活生生的哲学档案，可供当代学者取用的东西很多。
+  - id: 80
+    kind: oir
+    source: |-
+      - [Gloria Anzaldúa](https://en.wikipedia.org/wiki/Gloria_E._Anzald%C3%BAa), Wikipedia article
+    step1: |-
+      - [格洛丽亚·安萨尔杜亚](https://en.wikipedia.org/wiki/Gloria_E._Anzald%C3%BAa)，维基百科条目
+    step2: |-
+      - 维基百科条目：[格洛丽亚·安萨尔杜亚](https://en.wikipedia.org/wiki/Gloria_E._Anzald%C3%BAa)
+  - id: 81
+    kind: ack
+    source: |-
+      Special thanks to Manuel Vargas, Robert E. Sanchez, Mariana Alessandri, Jorge Montiel, and Morgana Lambeth for helpful comments and criticism.
+    step1: |-
+      特别感谢 Manuel Vargas、Robert E. Sanchez、Mariana Alessandri、Jorge Montiel 与 Morgana Lambeth 的有益评论与批评。
+    step2: |-
+      谨向曼努埃尔·巴尔加斯、罗伯特·E. 桑切斯、玛丽安娜·亚历山德里、豪尔赫·蒙铁尔与莫尔加纳·兰贝思致以谢意，感谢他们有益的评论与批评。

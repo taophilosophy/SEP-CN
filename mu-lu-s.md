@@ -536,7 +536,7 @@ outline: [1, 6]
 * [J·N·芬德利 John Niemeyer Findlay](f/findlay.md)
 * [约翰·麦克塔格特 McTaggart, John M. E. (Kris McDaniel)](m/mctaggart.md)
 * [存在主义 existentialism (Kevin Aho)](e/existentialism.md)
-* [墨西哥存在主义 Mexican Existentialism (Carlos S&aacute;nchez)](e/existentialism-mexican.md)
+* [墨西哥存在主义 Mexican Existentialism (Carlos Sánchez)](e/existentialism-mexican.md)
 * [阿尔贝·加缪 Camus, Albert (Ronald Aronson)](c/camus.md)
 * [卡尔·雅斯贝尔斯 Jaspers, Karl (Chris Thornhill and Ronny Miron)](j/jaspers.md)
 * [加布里埃尔·马塞尔 Marcel, Gabriel (-Honoré) (Brian Treanor and Brendan Sweetman)](m/marcel.md)
