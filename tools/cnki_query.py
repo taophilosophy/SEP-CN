@@ -65,8 +65,19 @@ def norm_key(text):
     return re.sub(r'\s+', ' ', s).casefold()
 
 
+_GREEK = {
+    'α': 'alpha', 'β': 'beta', 'γ': 'gamma', 'δ': 'delta', 'ε': 'epsilon',
+    'ζ': 'zeta', 'η': 'eta', 'θ': 'theta', 'ι': 'iota', 'κ': 'kappa',
+    'λ': 'lambda', 'μ': 'mu', 'ν': 'nu', 'ξ': 'xi', 'ο': 'omicron',
+    'π': 'pi', 'ρ': 'rho', 'σ': 'sigma', 'ς': 'sigma', 'τ': 'tau',
+    'υ': 'upsilon', 'φ': 'phi', 'χ': 'chi', 'ψ': 'psi', 'ω': 'omega',
+}
+
+
 def safe_key(key):
-    key = key.casefold()
+    """文件名安全键。希腊字母须音译：否则 ω-consistency 被剥成 consistency，
+    与真词 consistency 的凭证同名覆盖（2026-11-12 实踩）。"""
+    key = key.casefold().translate(str.maketrans(_GREEK))
     return re.sub(r'[^a-z0-9\u4e00-\u9fff]+', '_', key)[:80].strip('_')
 
 
