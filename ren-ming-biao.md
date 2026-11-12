@@ -49,6 +49,7 @@
 | Adret, Solomon ibn | — | 所罗门·伊本·阿德雷特 | — | — | f/falaquera | 音译（13 世纪巴塞罗那拉比，1305 年禁令颁布者）；凭证 2026-11-11 | 2026-11-11 |
 | Aelius Aristides | — | 埃利乌斯·阿里斯泰德斯 | — | — | olympiodorus | 2 世纪演说家（与 dialectical-school 之 Aristides 异人）；学界音译；凭证 2026-11-08 | 2026-11-08 |
 | Aenesidemus | — | 埃奈西德穆 | 希腊（克诺索斯） | 约前 1 世纪 | heraclitus | 学界通行汉译（怀疑论者）；凭证 2026-11-09 | 2026-11-09 |
+| Axelrod, Robert | — | 罗伯特·阿克塞尔罗德 | 美国 | 1943– | altruism-biological | 学界通行音译（重复囚徒困境竞赛）；凭证 2026-11-12 | 2026-11-12 |
 | Aëtius | — | 埃提乌斯 | — | — | 首现（xenophanes）；xenocrates | 学界通行汉译（古希腊学说汇编者）；凭证 2026-11-07；xenocrates 复现（2026-11-08 合并行，来源列并双 slug） | 2026-11-07 |
 | Agathe Calvelli-Adorno | — | 阿加特·卡尔维利-阿多诺 | 科西嘉裔，德国／歌唱家与钢琴家（阿多诺之姨） | 生卒待核 | adorno | 学界通行音译；凭证 2026-11-10 | 2026-11-10 |
 | Agathon | — | 阿伽通 | — | — | diodorus-cronus | 学界通行汉译（古希腊悲剧诗人，亚里士多德《尼各马可伦理学》1139b10 所引）；凭证 2026-11-07 | 2026-11-07 |
@@ -239,6 +240,8 @@
 | Arthur Eddington | — | 爱丁顿（Arthur Eddington） | — | — | spacetime-convensimul | 学界惯例（物理学通行汉译） | 2026-11-06 |
 | Arthur Schopenhauer | — | 阿图尔·叔本华 | — | — | landmann-kalischer | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-04 |
 | Artiga, Marc | — | 马克·阿蒂加 | — | — | information-biological | 音译（本词条作者）；凭证 2026-11-12 | 2026-11-12 |
+| Hamilton, William D. | — | 威廉·D. 汉密尔顿 | 英国 | 1936–2000 | altruism-biological | 学界通行音译（亲缘选择理论；与苏格兰哲学家 William Hamilton 分立）；凭证 2026-11-12 | 2026-11-12 |
+| Trivers, Robert | — | 罗伯特·特里弗斯 | 美国 | 1943– | altruism-biological | 学界通行音译（互惠利他理论）；凭证 2026-11-12 | 2026-11-12 |
 | Āryadeva | — | 提婆 | — | — | gorampa | 龙树弟子、中观论师通行汉译 | 2026-11-09 |
 | Asaṅga | — | 无著 | 古印度／瑜伽行派 | 约 4–5 世纪 | yogacara | 汉传佛典千年通行译名（《摄大乘论》作者）；凭证 2026-11-11 | 2026-11-11 |
 | Asch, Adrienne | — | 阿德里安娜·阿施 | — | — | disability-care-rationing | 学界通行汉译（生物伦理与失能研究）；正文本条仅以姓“阿施”出现；凭证 2026-11-08 | 2026-11-08 |
