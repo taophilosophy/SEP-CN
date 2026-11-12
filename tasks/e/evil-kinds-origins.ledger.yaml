@@ -397,122 +397,162 @@ segments:
     kind: body
     source: |-
       Plotinus rejects Absence Theory for a related reason: it compels us
-    step1: TBD
-    step2: TBD
+    step1: |-
+      普罗提诺出于相关理由拒斥缺失论：它迫使我们
+    step2: |-
+      普罗提诺拒斥缺失论，理由与此相关：这理论逼我们
   - id: 48
     kind: body
     source: |-
       > to say that there are evils in the higher world too; for there the Soul is inferior to Intellect, and Intellect is lesser than [the One]. (*Enneads* I, 8, 13)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 承认更高世界中也存在恶；因为在那里，灵魂低于理智，理智又低于［太一］。（《九章集》I, 8, 13）
+    step2: |-
+      > 承认上界亦有恶；在那里，灵魂低于理智，理智又逊于［太一］。（《九章集》I, 8, 13）
   - id: 49
     kind: body
     source: |-
       For Plotinus, it is not merely being *lower* than the highest One that makes something evil; rather, evil consists in being so low as to be associated with matter. Indeterminate or “unformed matter” is the final term on the cosmic chain from being to non-being—it is as far away from intelligence as possible, and thus equally far away from goodness. This is the *Matter Theory of Evil* that was influential in various gnosticisms, early Christian heresies, and late antique platonisms (see O’Meara 2019)[^o’meara-2019].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对普罗提诺来说，使某物为恶的并不只是它*低于*最高的太一；恶在于低到与质料相关联。不确定的或“未成形的质料”是从存在到非存在的宇宙链条上的最后一环——它离理智最远，因而离善也同样远。这就是*恶的质料论*，它在各种诺斯替主义、早期基督教异端与晚期古代柏拉图主义中颇有影响（见 O’Meara 2019）[^o’meara-2019]。
+    step2: |-
+      在普罗提诺看来，一物为恶，不只是因为*低于*至高的太一；恶在于低到与质料纠缠的地步。不确定的、“未成形”的质料，是从存在通往非存在的宇宙链条上最后一环：它离理智最远，离善也就同样远。这便是*恶的质料论*。诺斯替各派、早期基督教异端、晚期古代柏拉图主义者都受其影响（见 O’Meara 2019）[^o’meara-2019]。
   - id: 50
     kind: body
     source: |-
       #### 3.1.3 Privation Theory
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 3.1.3 褫夺论
+    step2: |-
+      #### 3.1.3 褫夺论
   - id: 51
     kind: body
     source: |-
       Augustine, as well as many scholastics and early moderns, rejected Matter Theory on religious grounds. God *created* matter, and so it cannot be bad in itself. Instead of reverting to pure Absence Theory, however, these monotheists developed the *Privation Theory of Evil*. This can be construed as Absence Theory plus the Aristotelian idea that goodness is relative to a thing’s *kind*. Individuals of different kinds have different ends dictated by their natures: as long as the dog achieves the ends set out by its nature, it counts as *fully* good of its canine kind, even if it essentially lacks the good-making capacities (or “realities”) of beings higher on the chain. (For more on Augustine’s version, see King 2019; on Aquinas, see Davies 2019)[^davies-2019][^king-2019].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥古斯丁以及许多经院哲学家和早期现代哲学家，出于宗教理由拒斥质料论。上帝*创造*了质料，所以质料本身不可能是坏的。然而，这些一神论者并未退回纯粹的缺失论，而是发展出*恶的褫夺论*。它可以被解释为缺失论加上亚里士多德的一个观念：善相对于事物的*种类*。不同种类的个体有由各自本性所规定的不同目的：只要狗达成了其本性所设定的目的，就算作其犬类中*完全*善的，即使它本质上缺乏链条上更高存在者那些成就善的能力（或“实在”）。
+    step2: |-
+      奥古斯丁连同许多经院学者、早期现代哲学家，都以宗教理由否弃质料论：质料是上帝*所造*，本身不可能坏。可他们并未退回纯粹的缺失论，而是另立*恶的褫夺论*（Privation Theory of Evil）。此说可解作缺失论再加上亚里士多德的一条：善是相对于事物的*种类*而言的。不同种类之物，其本性各有目的；狗只要达成犬类本性所立的目的，就算作犬类中*十足*的善，纵然它本质上缺少链条上更高存在者那些成就善的能力（或“实在”）。
   - id: 52
     kind: body
     source: |-
       Privation Theory thus reduces pressure on monotheism: evil is not a being but rather an absence, and so God did not create it. Moreover, evil is the kind of absence that is *not* a function of the essential natures of things, and so God cannot be faulted for creating things that are essentially evil. Failing to accomplish the end set out by one’s nature—failing to be the way one *ought* to be—*is* a privation, however, and so it is evil.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是，褫夺论减轻了一神论所受的压力：恶不是一个存在者，而是一种缺失，因此上帝并未创造它。再者，恶是那种*并非*事物本质本性之函数的缺失，因此不能责怪上帝创造了本质上恶的事物。然而，未能达成自身本性所设定的目的——未能成为自己*应当*成为的样子——*就是*一种褫夺，因而就是恶。
+    step2: |-
+      褫夺论由此替一神论卸了些压力：恶不是存在者，只是一种缺失，所以上帝没有创造它。再者，恶这种缺失*并不*出于事物的本质本性，所以也不能怪上帝造出了本质上为恶的东西。可是，未能达成本性所立的目的——未能成为自己*应当*成为的样子——*本身*就是褫夺，也就是恶。
   - id: 53
     kind: body
     source: |-
       Friends of Privation Theory offer different accounts of how and why things fail to accomplish their natural end. Most ascribe the failure to something *in* the individual creature—culpable ignorance, Original Sin, free agency—rather than to God, thereby grounding metaphysical evil in moral evil (on which see section 4.1 below). The extent to which these appeals to privation succeed in getting God off the hook is, naturally, controversial.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      褫夺论的支持者对事物如何以及为何未能达成其自然目的给出不同解释。多数人把失败归因于个体造物*之中*的某种东西——该受责备的无知、原罪、自由能动性——而非归于上帝，从而把形而上学之恶奠基于道德之恶（详见下文 4.1 节）。这些诉诸褫夺的论证在多大程度上真能让上帝脱责，自然是有争议的。
+    step2: |-
+      事物何以未能达成自然目的，褫夺论者各有说法。多数人把过失算在个体造物*内部*的什么东西上——咎由自取的无知、原罪、自由选择——而不算在上帝头上；形而上学之恶由此奠基于道德之恶（详见下文 4.1 节）。这类诉诸褫夺的论证究竟能让上帝卸下多少责任，自然聚讼纷纭。
   - id: 54
     kind: body
     source: |-
       Plotinus’s view is effectively a hybrid of Privation Theory and Matter Theory: for him, privation only occurs when some of the matter in something is unformed or unmastered by a form (see *Enneads* I, 8, 5, 19–26). But even if other Privation Theorists do not view privation in this way, the conception of evil as infinitely distant from reason and intelligibility survives. In other words, Ignorance, Original Sin, and other misuses of freedom are not necessarily a function of irrational *matter*, but they are still opposed to rational *mind*. Descartes is illustrative here: for him, the *only* teleology (and privation) in the world relates to the souls—and in particular the wills—of human beings. Material substance is mechanistic, and aggregates of it (in the forms of animals and plants) can be explained mechanistically, without invoking teleology or kind-relative values (compare Newlands 2019)[^newlands-2019].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      普罗提诺的观点实际上是褫夺论与质料论的混合：在他看来，只有当某物中的部分质料未成形、未被形式统摄时，褫夺才会发生（见《九章集》I, 8, 5, 19–26）。但即便其他褫夺论者不这样看褫夺，“恶无限远离理性与可理解性”这一构想仍然留存。换言之，无知、原罪以及其他对自由的误用，未必是非理性*质料*的函数，但它们仍与理性*心灵*相对。笛卡尔在此可作说明：对他而言，世上*唯一*的目的论（以及褫夺）关乎人的灵魂——尤其是人的意志。物质实体是机械的，其聚集体（以动植物形式出现者）可以机械地解释，无须援引目的论或种类相对的价值（比较 Newlands 2019）[^newlands-2019]。
+    step2: |-
+      普罗提诺的立场，实际上把褫夺论与质料论混在一起：在他看来，只有一物中的部分质料未成形、未被形式驾驭时，才谈得上褫夺（见《九章集》I, 8, 5, 19–26）。不过，别的褫夺论者纵不如此理解褫夺，“恶与理性、与可理解性相距无限远”这一构想仍然留了下来。换句话说，无知、原罪以及对自由的其他误用，未必出于无理性的*质料*，却终究与理性的*心灵*相悖。笛卡尔可为例证：在他看来，世上*唯一*的目的论（以及褫夺）系于人的灵魂，尤其是人的意志。物质实体是机械的；物质聚成之物（动植物即其形态）尽可作机械解释，无须请出目的论，也无须谈什么种类相对的价值（比较 Newlands 2019）[^newlands-2019]。
   - id: 55
     kind: body
     source: |-
       #### 3.1.4 Real Property Theory
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 3.1.4 实在属性论
+    step2: |-
+      #### 3.1.4 实在属性论
   - id: 56
     kind: body
     source: |-
       A fourth major account of the nature of metaphysical evil takes it to be something more substantive than absence, privation, or unformed matter. Call this the *Real Property Theory of Evil*: evil is some sort of *reality*—a determinate feature of certain finite beings (see J. Russell 1977, 1981, and Frankfurter 2006)[^frankfurter-2006][^russell-1977]. Some versions of this picture say that evil is ultimately dependent on the good. Other, more Manichaean versions take the two to be coeval and independent, locked in an eternal axiological struggle. Although the relevant “property” here is supposed to have more reality or substance than mere absence or privation, there is still a kind of unintelligibility to it. The evil side of reality, the dark force, or the malevolent will is a kind of black hole for the “natural light” of reason—positively real, but inaccessible to complete explanation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于形而上学恶之性质的第四种主要解释，认为它比缺失、褫夺或未成形质料更具实体性。不妨称之为*恶的实在属性论*：恶是某种*实在*——某些有限存在者的确定特征。这一图景的某些版本主张，恶终究依赖于善。另一些更接近摩尼教的版本则认为二者同时并存、彼此独立，陷于永恒的价值论斗争。尽管此处所谓“属性”被认为比单纯的缺失或褫夺更具实在性或实体性，它仍带有某种不可理解性。实在的暗面、黑暗力量或恶意意志，是理性“自然之光”的黑洞——确实实在，却无法得到完整的解释。
+    step2: |-
+      第四种关于形而上学之恶的主要解释，认为它比缺失、褫夺、未成形的质料都更实在。这就是*恶的实在属性论*：恶是一种*实在*，是某些有限存在者身上确定的特征。此说的某些版本仍让恶最终依赖于善；另一些版本更近摩尼教，主张善恶同时并存、各自独立，在价值论上永久角力。这里所谓的“属性”虽比单纯的缺失或褫夺更实在、更有实体味，却也仍带着某种不可理解性。实在的暗面、黑暗的力量、恶意的意志，之于理性的“自然之光”，犹如黑洞：确确实实在那儿，却怎么也照不透。
   - id: 57
     kind: body
     source: |-
       ### 3.2 Empirical Evil
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 经验之恶
+    step2: |-
+      ### 3.2 经验之恶
   - id: 58
     kind: body
     source: |-
       *Empirical evil* is a capacious category: it covers bodily pain, damage, and disease as well as the psychological *concomitants* or *effects* of these physical phenomena—suffering, terror, depression, mental illness. Traditionally, it has also included social ills such as oppression, poverty, and structural injustice (see Sharpe 1909)[^sharpe-1909]. Philosophers who believe in metaphysical evil often take them to manifest in empirical evils. Philosophers who reject metaphysical evil, by contrast, take the empirical kind to be fundamental.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *经验之恶*是一个宽泛的范畴：它涵盖身体痛苦、损伤与疾病，也涵盖这些物理现象的心理*伴随物*或*效应*——苦难、恐惧、抑郁、精神疾病。传统上，它还包括压迫、贫困、结构性不义等社会弊害（见 Sharpe 1909）[^sharpe-1909]。相信形而上学之恶的哲学家，常认为它们表现于经验之恶中。相反，拒斥形而上学之恶的哲学家则认为经验层面才是根本。
+    step2: |-
+      *经验之恶*名目很宽：身体上的疼痛、损伤、疾病固然在内，这些物理现象在心理上的*伴随物*或*效应*——苦难、恐惧、抑郁、精神疾患——也算；传统上还捎上压迫、贫困、结构性不义这类社会弊病（见 Sharpe 1909）[^sharpe-1909]。信形而上学之恶的哲学家，多认为它要在经验之恶里现身；不承认形而上学之恶的哲学家，则把经验层面看作根本。
   - id: 59
     kind: body
     source: |-
       Calling pain an evil might raise eyebrows, since clearly some pain is beneficial: it protects us from collisions, diseases, and predators. But the idea is that, whatever instrumental uses it has, pain *qua phenomenal quality*—the *feeling* of it—is *intrinsically* bad (setting aside for these purposes tricky cases like that of the masochist who takes pleasure in experiencing pain). Pain in the horrendous amounts and kinds that we encounter in human history as well as in the “charnel house” of evolutionary history is sickeningly and obviously bad (Murray 2008; Martin & Watkins 2019)[^martin-2019][^murray-2008].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      把痛苦称为恶，或许会让人挑眉，因为有些痛苦显然有益：它保护我们免于碰撞、疾病与掠食者。但这里的想法是：无论痛苦有何工具性用途，痛苦*作为现象性质*——痛苦之*感觉*——就*内在地*是坏的（此处姑且撇开受虐者从痛苦中取乐之类的棘手情形）。人类历史中以及进化史的“藏骸所”中所遇到的那种数量与种类骇人的痛苦，令人作呕地、显而易见地是坏的（Murray 2008；Martin & Watkins 2019）[^martin-2019][^murray-2008]。
+    step2: |-
+      把痛苦叫作恶，怕有人要皱眉：有些痛苦分明有益，能让人免于碰撞、疾病、猛兽。可这里的意思是：不管痛苦有多少工具性的用处，痛苦*作为现象性质*——那份*痛感*本身——就*内在地*坏（受虐者以痛为乐之类的棘手情形，此处搁置不论）。人类历史上、进化史那座“藏骸所”里所见的那种量与那种类的痛苦，恶心得明明白白，坏得不容置疑（Murray 2008；Martin & Watkins 2019）[^martin-2019][^murray-2008]。
   - id: 60
     kind: body
     source: |-
       The templates used to characterize metaphysical evil above can be applied to empirical evil, too. An *Absence Theory* of empirical evil construes it simply as the absence of physical-psychological states of pleasure, health, stability, justice, and even life. *Matter Theory* regards pain, disease, mental malaise, and social ills as effects of our standing as material beings, vulnerable to the “matter” in our organism breaking down or coming into conflict with other parts of material creation. *Privation Theory* says that empirical evil is the absence of some such good which *ought* to exist. There will then be different accounts of why the good ought to exist, and why it doesn’t—some of these will be based in a theory of metaphysical evil.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上文用以刻画形而上学之恶的模板，也可用于经验之恶。经验之恶的*缺失论*把它径直解释为快乐、健康、稳定、正义乃至生命等身心状态的缺失。*质料论*把痛苦、疾病、精神不适与社会弊害，视为我们作为物质存在者的处境所生的效应：我们机体中的“质料”会败坏，或与物质造物的其他部分相冲突。*褫夺论*则说，经验之恶是某种*本应*存在的善的缺失。至于那种善为何应当存在、又为何不存在，会有不同解释——其中一些以某种形而上学之恶的理论为根据。
+    step2: |-
+      上文刻画形而上学之恶的那几套模板，用到经验之恶上也合适。经验之恶的*缺失论*说得干脆：它就是快乐、健康、安稳、正义乃至生命这些身心状态的缺失。*质料论*则把痛苦、疾病、精神萎靡与社会弊病，看作我们身为物质存在者的处境所致：机体里的“质料”会坏，会跟物质造物的其他部分打架。*褫夺论*说：经验之恶是某种*本应*存在的善之缺失。至于那种善何以应当存在、又何以偏偏不在，各家解释不同，有些正立足于某种形而上学之恶的理论。
   - id: 61
     kind: body
     source: |-
       A *Real Property Theory* of empirical evil, by contrast, insists that pain and suffering are positive realities and not mere absences (it is thus compatible with Matter Theory, but not with Absence or Privation Theory). As Malebranche notes, this is problematic in theological contexts, since God is supposed to be the ground of all positive beings (see Malebranche 1674–5 [1997: 348 and 392])[^malebranche-1674]. In a letter to a mathematician named Arnold Eckhard, G.W. Leibniz discusses this issue, and suggests “with some scruples” that “pain too is a perfection” (1677 [1969: 177]). That is a fairly unusual view, one that is made particularly poignant by the fact that Leibniz himself spent the last few years of his life in immense pain. He apparently had a habit of sleeping in a chair near his writing desk, and it
-    step1: TBD
-    step2: TBD
+    step1: |-
+      相反，经验之恶的*实在属性论*坚持认为，痛苦与苦难是积极的实在，而不只是缺失（因此它与质料论相容，而与缺失论或褫夺论不相容）。正如马勒布朗士所指出的，这在神学语境中颇成问题，因为上帝被设想为一切积极存在者的根据（见 Malebranche 1674–5 [1997: 348 and 392]）[^malebranche-1674]。在致一位名叫阿诺德·埃克哈德的数学家的信中，莱布尼茨讨论了这个问题，并“带着几分疑虑”提出“痛苦也是一种完善”（1677 [1969: 177]）。这是个相当不寻常的观点，而莱布尼茨本人在生命最后几年饱受剧痛，更使这一观点显得格外酸楚。他显然习惯在书桌旁的椅子上睡觉，而这
+    step2: |-
+      与此相反，经验之恶的*实在属性论*一口咬定：痛苦与苦难是积极的实在，不止是缺失（故此说与质料论相容，与缺失论、褫夺论则不两立）。马勒布朗士早已指出，这在神学上很别扭：上帝按理是一切积极存在者的根据（见 Malebranche 1674–5 [1997: 348 and 392]）[^malebranche-1674]。莱布尼茨在写给数学家阿诺德·埃克哈德（Arnold Eckhard）的信里也碰到这问题，于是“颇有些迟疑地”提出：“痛苦也是一种完善”（1677 [1969: 177]）。这说法相当特别；更叫人唏嘘的是，莱布尼茨晚年正是被剧痛折磨了好几年。据说他惯于在书桌旁的椅子上打盹，结果
   - id: 62
     kind: body
     source: |-
       > led to his having an open sore on his right leg. This caused him difficulty in walking; he tried to remedy it, but only by putting blotting paper on it. Later, to reduce the pain and to make the nerves insensitive he had a number of wooden clamps made, and these he screwed onto himself wherever he felt pain. I suspect that by doing this he so damaged his nerves that eventually he could no longer use his feet and had to stay in bed. (Guhrauer 1842 [1966: vol 2, p.336]; quoted in Mates 1989: 29)[^guhrauer-1842][^mates-1989]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 导致他右腿生了溃疡。这使他行走困难；他试图补救，却只是往上面贴吸墨纸。后来，为减轻疼痛、使神经麻木，他让人做了若干木夹，哪里疼就往哪里拧。我猜想，如此折腾之下，他的神经损伤过甚，最终双脚不能再走，只能卧床。（Guhrauer 1842 [1966: 第 2 卷, 第 336 页]；引自 Mates 1989: 29）[^guhrauer-1842][^mates-1989]
+    step2: |-
+      > 右腿落了个敞口的疮。走路因此艰难；他想治，办法却只是往疮上贴吸墨纸。后来为了止痛、让神经麻木，他叫人做了不少木夹子，哪儿疼就往哪儿拧。我猜这么一来，神经伤得太狠，末了双脚再也使不上，只能卧床。（Guhrauer 1842 [1966: 第 2 卷，第 336 页]；引自 Mates 1989: 29）[^guhrauer-1842][^mates-1989]
   - id: 63
     kind: body
     source: |-
       Although such pain is a “perfection” and thus a real property, for Leibniz, it still involves a kind of weakness or imperfection in the person who *has* it, and so God cannot, in the end, exemplify this “perfection”. Rather, God’s possession of maximal pleasure is somehow sufficient to ground the “reality” that is found in both pleasure and pain (Leibniz 1677 [1969: 177])[^leibniz-1677]. This seems fishy, and other philosophers argue against Leibniz that if pain is a real property (rather than a mere absence), then God as the “ground of all reality” must indeed exemplify it. Some recent theologians and philosophers even welcome this idea, arguing that a conception of God as grounding empirical evil by *suffering* it has advantages for projects in theodicy (Hartshorne 1984; Wolterstorff 1988)[^hartshorne-1984][^wolterstorff-1988].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管这种痛苦是一种“完善”，因而是实在属性，但在莱布尼茨看来，它仍涉及*拥有*该痛苦者身上的某种虚弱或不完善，所以上帝归根到底不能例示这种“完善”。毋宁说，上帝拥有最大限度的快乐，便以某种方式足以充当快乐与痛苦中同样可见的那种“实在”的根据（Leibniz 1677 [1969: 177]）[^leibniz-1677]。这显得可疑；其他哲学家反驳莱布尼茨说，如果痛苦是实在属性（而不只是缺失），那么作为“一切实在之根据”的上帝必定也例示它。一些晚近的神学家与哲学家甚至欢迎这一想法，主张把上帝设想为通过*承受*经验之恶而为其奠定根据，这对神义论方案有所助益（Hartshorne 1984；Wolterstorff 1988）[^hartshorne-1984][^wolterstorff-1988]。
+    step2: |-
+      在莱布尼茨看来，这种痛固然是“完善”，是实在属性；可它毕竟连着*有痛者*的某种虚弱与欠缺，所以上帝到头来不能例示这份“完善”。他宁可说：上帝享有至极的快乐，这已足以充当那份“实在”的根据——快乐与痛苦中所见的实在，皆出于此（Leibniz 1677 [1969: 177]）[^leibniz-1677]。这话听着可疑。别的哲学家便反驳说：痛苦若是实在属性，而非单纯的缺失，那么作为“一切实在之根据”的上帝，就非例示它不可。晚近有些神学家与哲学家反倒欢迎这个结论，认为把上帝设想为以*受苦*来为经验之恶奠基，于神义论方案有益（Hartshorne 1984；Wolterstorff 1988）[^hartshorne-1984][^wolterstorff-1988]。
   - id: 64
     kind: body
     source: |-
       Mental illnesses can be classified as “empirical evils” if we assume that they have empirical causes and neural bases (Bhattacharjee 2018)[^bhattacharjee-2018]. Such illness often generates further empirical evil in the form of inexplicably cruel or destructive behavior to self and others, as will be familiar to anyone who has tried to live (or love someone) with mental illnesses like posttraumatic stress disorder (PTSD), borderline personality disorder, schizophrenia, and so on. It is unclear whether the theologians just mentioned would want to say that this kind of empirical evil, too, must have its ground in the divine by way of exemplification. The theological consequences of such a suggestion seem unattractive, to say the least.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果我们假定精神疾病有经验原因与神经基础，那么它们可被归入“经验之恶”（Bhattacharjee 2018）[^bhattacharjee-2018]。这类疾病常常产生进一步的经验之恶，其形式是对己对人难以解释的残忍或破坏行为；凡与创伤后应激障碍（PTSD）、边缘型人格障碍、精神分裂症等精神疾病共同生活过（或爱过这样的人）者，对此都不陌生。刚才提到的那些神学家是否愿意说，这类经验之恶也必须以上帝的例示为根据，尚不清楚。这种主张的神学后果，至少可以说并不讨人喜欢。
+    step2: |-
+      倘或认定精神疾患自有经验的原因与神经基础，它们便可归入“经验之恶”（Bhattacharjee 2018）[^bhattacharjee-2018]。这类病往往再生出经验之恶：对己对人做出匪夷所思的残忍或破坏之事。凡与创伤后应激障碍（PTSD）、边缘型人格障碍、精神分裂症之类的病共处过——或爱过这样的人——都晓得那是什么滋味。前面提到的那些神学家，是否肯说这类经验之恶也非得由上帝例示来奠基，尚未可知。真这么说，神学上的后果至少谈不上讨喜。
   - id: 65
     kind: body
     source: |-
       ## 4. Origins of Evil: Moral and Natural
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4. 恶的起源：道德的与自然的
+    step2: |-
+      ## 4. 恶的起源：道德的与自然的
   - id: 66
     kind: body
     source: |-
       ### 4.1 Moral Evil
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 道德之恶
+    step2: |-
+      ### 4.1 道德之恶
   - id: 67
     kind: body
     source: |-
