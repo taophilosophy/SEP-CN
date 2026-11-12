@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-12 02:12（UTC）
+生成时间：2026-11-12 06:15（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1879|
 |已建任务|1183|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|360|
-|在途（drafted 起、done 前）|184|
+|已完成（done）|363|
+|在途（drafted 起、done 前）|181|
 |阻塞|0|
 
 ## 任务状态分布
@@ -23,12 +23,13 @@
 |状态|数量|
 |---|---|
 |pending|639|
-|cleared|137|
+|cleared|136|
 |drafted|1|
 |s1_checked|1|
-|s3_checked|43|
+|s3_checked|40|
 |r1_reviewed|2|
-|done|360|
+|r2_reviewed|1|
+|done|363|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -36,13 +37,13 @@
 |---|---|---|---|---|
 |A|160|160|160|59|
 |B|62|62|62|17|
-|C|172|172|172|25|
-|D|92|92|92|22|
+|C|172|172|172|26|
+|D|92|92|92|23|
 |E|99|99|99|26|
 |F|96|96|96|5|
 |G|49|49|49|14|
 |H|61|61|61|17|
-|I|75|75|75|32|
+|I|75|75|75|33|
 |J|38|38|38|9|
 |K|36|36|36|21|
 |L|144|144|30|30|
@@ -132,17 +133,15 @@
 |cloning|retranslate|s3_checked|CD-main-20261106 2026-11-06|
 |concept-emotion-india|retranslate|s3_checked|主代理 2026-11-01|
 |conceptual-art|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
-|confucius|retranslate|s3_checked|主代理 2026-11-01|
 |conscience|retranslate|s3_checked|C-main-20261108b 2026-11-08|
 |copernicus|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |cosmology-30s|retranslate|s3_checked|C-main-20261109 2026-11-09|
 |cosmopolitanism|retranslate|s3_checked|C-main-20261109b 2026-11-09|
 |davidson|retranslate|s3_checked|D-main-20261110 2026-11-09|
-|demonstration-medieval|retranslate|s3_checked|sub-demonstration-medieval 2026-11-01|
 |diodorus-cronus|retranslate|s3_checked|D-main-20261107 2026-11-07|
 |disability|retranslate|s3_checked|D-main-20261109 2026-11-09|
 |disability-care-rationing|retranslate|s3_checked|D-main-20261108 2026-11-08|
-|existentialism-mexican|retranslate|s3_checked|E-main-20261112 2026-11-12|
+|existentialism-mexican|retranslate|r2_reviewed|E-main-20261112 2026-11-12|
 |fitness|retranslate|cleared|task_ops 2026-11-11|
 |gadamer-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |galen|retranslate|cleared|task_ops 2026-11-01|
@@ -182,7 +181,6 @@
 |immunology|retranslate|cleared|task_ops 2026-11-01|
 |impossible-worlds|retranslate|cleared|task_ops 2026-11-01|
 |information-biological|retranslate|cleared|task_ops 2026-11-01|
-|intention|retranslate|cleared|task_ops 2026-11-12|
 |intrinsic-extrinsic|retranslate|cleared|task_ops 2026-11-01|
 |jaina-philosophy|retranslate|cleared|task_ops 2026-11-10|
 |james-mill|retranslate|cleared|task_ops 2026-11-10|
