@@ -2,7 +2,7 @@
   "slug": "imaginative-resistance",
   "kind": "retranslate",
   "zh_doc": "i/imaginative-resistance.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-11-01T16:14:38Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T00:05:41Z",
+      "evidence": "想象性抗拒：账本 123 段全填，守恒校验通过；style/prose/math/quotes 零问题；对账全等（段 211/135、标题 24/24、脚注 152/152、defs 79/79）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T00:05:41Z",
+      "evidence": "s1 对照 yuanwen：123 段逐段校，无漏段增段；题名回退登记册既有译名“想象性抗拒”（避免与 e/experimental-aesthetics、词汇表冲突）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T00:05:41Z",
+      "evidence": "s2 全文通读：术语按登记册（取消主义/雅布洛/艾伦·梅斯金归一），中文斜体全改引号或书名号；长句、的链、被字句、弱动词清零"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T00:05:42Z",
+      "evidence": "s3 四检复跑零问题，学术规范 --strict 零硬错误，lq 守恒 123 段，i_reconcile 全等"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T00:10:50Z",
+      "evidence": "r1 忠实度：对照原文复核 Walton/Weatherson/Gendler 引文与页码；确认四谜题、六类触发项、粗粝英雄五条件均无遗漏"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T00:10:50Z",
+      "evidence": "r2 语体：全文通读，文言残留清零，破折号仅存源文插入语；中文书名号/引号体例统一"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T00:10:51Z",
+      "evidence": "r3 终校：四检零问题、学术门禁零硬错误、守恒 123 段、对账全等；题名三处一致"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T00:10:51Z",
+      "evidence": "done：术语 15+人名 28 入册"
     }
   ],
   "blockers": [],

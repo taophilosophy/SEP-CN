@@ -12,6 +12,7 @@
 | A Modern Elementary Logic | — | 《逻辑学现代基础》 | 首译（stebbing） | 斯泰宾著作（1943）；书名体例译；凭证 2026-11-09 | 2026-11-09 |
 | A Modern Introduction to Logic | — | 《逻辑学现代导论》 | 首译（stebbing） | 斯泰宾著作（1930）；书名体例译；凭证 2026-11-09 | 2026-11-09 |
 | A New Elucidation of the First Principles of Metaphysical Cognition | — | 《形而上学认识诸第一原则的新阐明》（简称《新阐明》） | kant-science | 学界通行；kant-leibniz 短形先例 | 2026-11-05 |
+| Cantian | — | 不能论 | imaginative-resistance | 首译（Gendler 2006 术语 can’t 派）；凭证 2026-11-12 | 2026-11-12 |
 | a posteriori | a posteriori | 后验 | logical-consequence | 哲学通行译法；凭证 2026-11-09；拉丁/德语原形即键（2026-11-10 取证） | 2026-11-09 |
 | a posteriori necessity | — | 后天必然性 | 首现（zombies） | 学界惯例（同上）；凭证 2026-11-10 | 2026-11-10 |
 | a priori | a priori | 先天（康德传统；与“先验”transzendental 相区分） | logical-consequence；语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
@@ -2866,6 +2867,9 @@
 | Lutheranism | — | 路德宗 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29） | 2026-10-27 |
 | Lvov-Warsaw School | — | 利沃夫—华沙学派 | lvov-warsaw | 学界通行译法（LWS）；凭证 2026-11-09 | 2026-11-09 |
 | Lyceum | — | 吕克昂 | schema | 学界惯例（亚里士多德学园通译） | 2026-11-06 |
+| cognitive imagination | — | 认知想象 | imaginative-resistance | 学界通行（与 conative 对举）；凭证 2026-11-12 | 2026-11-12 |
+| desire-like imagining | — | 欲求式想象 | imaginative-resistance | 学界通行（Currie 2002）；凭证 2026-11-12 | 2026-11-12 |
+| fictionality puzzle | — | 虚构性谜题 | imaginative-resistance | 首译（Weatherson 2004 原称 alethic puzzle）；凭证 2026-11-12 | 2026-11-12 |
 | lymph | — | 淋巴 | cancer | 学界通行（免疫学与肿瘤学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | Ł-modal system | — | Ł-模态系统 | lvov-warsaw | Łukasiewicz 术语照录；凭证 2026-11-09 | 2026-11-09 |
 | Łukasiewicz logic | Łukasiewicz logic | 卢卡西维茨逻辑 | 语料回收 | 学界惯例（数理逻辑通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
@@ -2884,6 +2888,7 @@
 | Madhyamakāloka | — | 《中观光明论》 | yogacara 首译 | 梵题汉译（莲花戒造，无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | Madhyamakāvatāra | — | 《入中论》 | gorampa | 月称入中观论书通行译名 | 2026-11-09 |
 | Madhyāntavibhāga | — | 《辩中边论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| belief-like imagining | — | 信念式想象 | imaginative-resistance | 学界通行（Currie 2002）；凭证 2026-11-12 | 2026-11-12 |
 | magic | — | 魔法 | gianfrancesco-pico | 与 witchcraft 巫术分立（源文 magic 指仪式性法术实践） | 2026-11-09 |
 | magical idealism | — | 魔法唯心论 | novalis | 诺瓦利斯研究通行（magischer Idealismus）；凭证 2026-11-11 | 2026-11-11 |
 | Magna Charta Universitatum | Magna Charta Universitatum | 《大学大宪章》 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
@@ -3039,15 +3044,20 @@
 | metasomatosis | — | 易体 | bessarion | 本词条首译（柏拉图《蒂迈欧》灵魂易换躯体学说；无通行定译，待 specs/008 审定库复核） | 2026-11-10 |
 | metemsomatosis | — | 灵魂转生 | ibn-kammuna | 学界惯例（metempsychosis 同义）；凭证 2026-11-10 | 2026-11-10 |
 | Meteorology | — | 《气象学》 | zabarella | 学界通行汉译（亚里士多德著作）；凭证 2026-11-09 | 2026-11-09 |
+| Wontian | — | 不愿论 | imaginative-resistance | 首译（Gendler 2006 术语 won’t 派）；凭证 2026-11-12 | 2026-11-12 |
 | method of exhaustion | — | 穷竭法 | 语料回收（mathematics-inconsistent 首译） | 数学史界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | method of hypotheses | — | 假设方法 | newton-principia | 科学史通行（与牛顿实验哲学对举）；凭证 2026-11-11 | 2026-11-11 |
 | method of least squares | — | 最小二乘法 | 首现（william-jevons） | 学界通行（统计学标准译名） | 2026-11-07 |
 | methodological solipsism | — | 方法论唯我论 | 首译（stebbing） | 学界通行（卡尔纳普《构造》中的立场；与形而上学唯我论别）；凭证 2026-11-09 | 2026-11-09 |
 | Methodology of Scientific Research Programmes (MSRP) | — | 科学研究纲领方法论 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
+| aesthetic puzzle | — | 美学谜题 | imaginative-resistance | 首译（Weatherson 2004 四谜之一）；凭证 2026-11-12 | 2026-11-12 |
+| alief | — | 信念样态度 | imaginative-resistance | 首译（Gendler 2008；保留英文并注）；凭证 2026-11-12 | 2026-11-12 |
 | metric | — | 度规 | spacetime-holearg | A 档（物理学通行译名，“度规”优于“度量”） | 2026-10-28 |
 | metric field | — | 度规场 | spacetime-holearg | A 档（物理学通行译名） | 2026-10-28 |
 | metriopatheia | — | 适度情感 | 首现（porphyry） | 新柏拉图主义研究通行（源文括注希腊文；与 apatheia 无情欲对举）；凭证 2026-11-11 | 2026-11-11 |
 | Mezzogiorno | — | 梅佐焦尔诺 | gramsci | 意大利南部地区称谓，学界通行音译；凭证 2026-11-11（主会话直译 g/gramsci） | 2026-11-11 |
+| conative imagination | — | 意欲想象 | imaginative-resistance | 学界通行（与 cognitive 对举）；凭证 2026-11-12 | 2026-11-12 |
+| fictionality | — | 虚构性 | imaginative-resistance | 学界通行；凭证 2026-11-12 | 2026-11-12 |
 | microbiome | — | 微生物组 | cancer | 学界通行（微生物学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | microbiota | — | 微生物群 | cancer | 学界通行（微生物学；与 microbiome 微生物组按原文分用）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | microcephaly | — | 小头畸形 | 首译（stem-cells） | 学界惯例（医学通行）；凭证 2026-11-09 | 2026-11-09 |
@@ -3569,6 +3579,7 @@
 | original position | — | 原初状态 | 首现（justice-virtue） | 学界惯例（《正义论》译本通行）；凭证 2026-11-02 | 2026-11-02 |
 | original sin | — | 原罪 | marsilius-padua | 学界通行（基督教神学）；凭证 2026-11-08 | 2026-11-08 |
 | Orphic | — | 俄耳甫斯教的 | ancient-soul 首译 | 学界通行（Orphism 俄耳甫斯教） | 2026-11-09 |
+| imaginative puzzle | — | 想象谜题 | imaginative-resistance | 首译（Weatherson 2004）；凭证 2026-11-12 | 2026-11-12 |
 | orthodox proof-rule | — | 正统证明规则 | logic-hybrid | 直译（Blackburn & ten Cate 术语）；凭证 2026-11-09 | 2026-11-09 |
 | orthonormal basis | — | 规范正交基 | qm | 审定名词库（数学名词 04.0723；物理学名词另有“正交归一系”orthonormal system）；凭证 2026-11-10 | 2026-11-11 |
 | ostrich nominalism | — | 鸵鸟式唯名论 | nominalism-metaphysics | Armstrong 1978 贬称，学界通行直译 | 2026-11-10 |
@@ -3740,6 +3751,7 @@
 | Phenomenal Conservatism | — | 现象保守主义 | 首现（intuitionism-ethics） | 学界通行（Huemer 2006 起；亦作“现象保守论”） | 2026-11-09 |
 | personal common ground | — | 个人共同基础 | innateness-cognition | 首译（Tomasello）；凭证 2026-11-12 | 2026-11-12 |
 | phenomenal information | — | 现象信息 | epiphenomenalism | Jackson/Lewis 知识论证术语；与 physical information 物理信息对举；凭证 2026-11-12 | 2026-11-12 |
+| phenomenological puzzle | — | 现象学谜题 | imaginative-resistance | 首译（Weatherson 2004）；凭证 2026-11-12 | 2026-11-12 |
 | phenomenology | — | 现象学 | gadamer-aesthetics | 学界惯例（现象学通行）；审定库无相关命中（凭证 2026-11-01） | 2026-11-01 |
 | phenomenology of mind | — | 精神现象学（黑格尔） | gadamer-aesthetics | 权威译本通行译法（黑格尔《精神现象学》） | 2026-11-01 |
 | phenotype | — | 表型 | genetics | 遗传学通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
@@ -4442,6 +4454,8 @@
 | sākāra | — | 有相 | yogacara 首译 | 汉传量论研究通行（有相说）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | Sākārasaṃgrahasūtra | — | 《有相集论》 | yogacara 首译 | 梵题汉译（无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | Sākārasiddhiśāstra | — | 《有相成就论》 | yogacara 首译 | 梵题汉译（智作护造，无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| rough hero | — | 粗粝英雄 | imaginative-resistance | 首译（Hume 语，Eaton 2012 界定）；凭证 2026-11-12 | 2026-11-12 |
+| rough heroine | — | 粗粝女主角 | imaginative-resistance | 首译（Clavel-Vazquez 2018）；凭证 2026-11-12 | 2026-11-12 |
 | śaktaṃ padam | शक्तं पदम् | 有语义能力者（有语义能力之词） | early-modern-india | 《理性手册》词定义义译（word with semantic power）；凭证 2026-11-10；正文随文作“有语义能力者”（校 2026-11-11）| 2026-11-10 |
 | śakti-jñāna | शक्तिज्ञान | 词义知识（词力知） | early-modern-india | 语言处理机制义译（knowledge of word-meaning power）；凭证 2026-11-10；正文随文作“词之义（的默知）”（校 2026-11-11）| 2026-11-10 |
 | salami tactics | — | 萨拉米战术 | 语料回收（lakatos 首译） | 史学界通行译法（拉科西用语）；凭证 2026-11-06 | 2026-11-06 |
@@ -5458,6 +5472,7 @@
 | value function | — | 价值函数 | jury-theorems | 学界惯例（经济学/决策论通行）；凭据 2026-11-02 | 2026-11-02 |
 | value judgment | — | 价值判断 | landmann-kalischer | 价值论/逻辑学通行 | 2026-11-04 |
 | value of statistical life | — | 统计生命价值 | risk | 学界惯例（成本—收益分析文献通行）；凭证 2026-11-09 | 2026-11-09 |
+| value-like imagining | — | 价值式想象 | imaginative-resistance | 首译（Stokes 2006）；凭证 2026-11-12 | 2026-11-12 |
 | variable sharing principle | — | 变量共享原则 | logic-relevance | 相干逻辑通行译法；凭证 2026-11-09 | 2026-11-09 |
 | variable value principle | — | 可变价值原则 | repugnant-conclusion | 学界惯例（Hurka 1983 / Ng 1989 / Sider 1991）；凭证 2026-11-11 | 2026-11-11 |
 | variance | — | 方差 | risk | 审定名词库统计学术语通行译名；凭证 2026-11-09 | 2026-11-09 |
