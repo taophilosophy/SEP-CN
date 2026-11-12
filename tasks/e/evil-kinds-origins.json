@@ -2,7 +2,7 @@
   "slug": "evil-kinds-origins",
   "kind": "retranslate",
   "zh_doc": "e/evil-kinds-origins.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "E-main-20261112",
       "at": "2026-11-12T15:22:04Z",
       "evidence": "s3 四检：check_style --strict 0（表格内 CJK 斜体 10 处转粗）；check_academic --strict 硬错误 0；check_math 公式 missing/unbalanced 均 0（正文无公式）；check_summary 本词条 H1 一致（另 1 硬错误属并行会话在途件 g/global-democracy.md）；check_mulu_s HARD 0；check_prose 30→3，余 3 全在直引块内（《约伯记》4:7–10 一句 de-chain、Wood 2010:157 引文一长句＋de-chain），按 ADR-0020 豁免留痕"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "E-main-20261112",
+      "at": "2026-11-12T15:26:19Z",
+      "evidence": "r1 冷读对账：393 行全文逐段回读，对照 yuanwen 核义理与引文（OED 释义、安瑟伦“虚无非存在”推论、普罗提诺上界之恶、约伯记与以利法、罗马书叹息、Plantinga 辩护情景、Arendt 1951 通信与 1963 平庸论、Jaspers 自由与恶、Kant AK 6:43、Schelling 黑暗、Augustine 偷梨、Satan 战号、Stone 2009 杀手自白、Rothstein 结构、Chignell 鸡肉三明治）逐处核；表 1/表 2 逐格对照源表；实修 5 处：“不短不长”误译 extended→“长幅”、“那些上去”→“那些情形上”、“法系”→“法律体系”（legal systems）、“吞废气的收费员”→“吞着废气的收费岗”（exhaust-guzzling 指收费亭）、“极坏极坏”补足三重；结构沿用 s1 五维（headings 7/8/4、markers 67:67、defs 69:69、blocks 121:120 byline 豁免、年份 166:166）；语体：现代汉语学术书面语，无文言句式与成段仿古（ADR-0033）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "E-main-20261112",
+      "at": "2026-11-12T15:32:18Z",
+      "evidence": "r2 术语/人名复核：三十条术语在正文中的形（缺失论/褫夺论/质料论/实在属性论、形而上学之恶/经验之恶/道德之恶/自然之恶/系统性恶/象征性恶/根本恶、恶之表、鬼魅式非人格、象征价值/负价值、善的外观、存在巨链、灵魂塑造、堕落前状态、恶的平庸性）逐处抽查无混杂变体；人名汉写与登记册一致（安瑟伦、梅特斯、玛格利特、谢林、伊本·西那、波爱修、鲁佩尔、图利、马勒布朗士）；引证形态沿用“见/参 姓 年份”英文裸引体例，正文主名汉写；check_terms 自洽 exit 0（重复行 0）。语体：现代汉语学术书面语（ADR-0033）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "E-main-20261112",
+      "at": "2026-11-12T15:32:20Z",
+      "evidence": "r3 收口复检：check_all 9 项全绿（check_summary 另有 1 硬错误属并行会话在途未提交件 g/global-democracy.md，与本词条无关）；check_style --strict 0；check_academic --strict 0；check_math 0；check_mulu_s 0；check_prose 余 3 为直引块内（约伯记、Wood）ADR-0020 豁免；五维对账 headings 7/8/4、markers 67:67、defs 69:69、blocks 121:120（byline 豁免）、年份 166:166、尾节子标题 源1/中0（Acknowledgments 由 compose 作“## 致谢”，体例常量）；语体：现代汉语学术书面语（ADR-0033）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "E-main-20261112",
+      "at": "2026-11-12T15:36:39Z",
+      "evidence": "done 收口：142 段账本（body 140＋oir 1＋ack 1）零信任重译全周期，compose 32573 字符/393 行；表 1/表 2 逐格译出、文献 69 条照录、脚注 67 条随文；术语 30 行＋人名 15 行入册；五维 headings 7/8/4、markers 67:67、defs 69:69、blocks 121:120（byline 豁免）、年份 166:166；prose 30→3（全为引文豁免）；check_all 9 项全绿"
     }
   ],
   "blockers": [],

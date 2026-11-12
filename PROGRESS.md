@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-12 15:27（UTC）
+生成时间：2026-11-12 15:43（UTC）
 
 ## 总览
 
@@ -14,7 +14,7 @@
 |已建英文基线|1872|
 |已建任务|1179|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|379|
+|已完成（done）|380|
 |在途（drafted 起、done 前）|172|
 |阻塞|0|
 
@@ -22,13 +22,13 @@
 
 |状态|数量|
 |---|---|
-|pending|628|
-|cleared|134|
+|pending|627|
+|cleared|135|
 |drafted|1|
 |s1_checked|1|
 |s3_checked|34|
-|r1_reviewed|2|
-|done|379|
+|r1_reviewed|1|
+|done|380|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -38,7 +38,7 @@
 |B|62|62|62|17|
 |C|171|171|171|27|
 |D|92|92|92|27|
-|E|99|99|99|28|
+|E|99|99|99|29|
 |F|96|96|96|5|
 |G|49|49|49|18|
 |H|61|61|61|17|
@@ -135,7 +135,6 @@
 |cosmology-30s|retranslate|s3_checked|C-main-20261109 2026-11-09|
 |cosmopolitanism|retranslate|s3_checked|C-main-20261109b 2026-11-09|
 |dynamic-semantics|retranslate|cleared|task_ops 2026-11-12|
-|evil-kinds-origins|retranslate|r1_reviewed|E-main-20261112 2026-11-12|
 |fitness|retranslate|cleared|task_ops 2026-11-11|
 |galen|retranslate|cleared|task_ops 2026-11-01|
 |galileo|retranslate|cleared|task_ops 2026-11-01|
@@ -169,6 +168,7 @@
 |hume-freewill|retranslate|cleared|task_ops 2026-11-01|
 |hume-moral|retranslate|cleared|task_ops 2026-11-01|
 |humor|retranslate|cleared|task_ops 2026-11-01|
+|ibn-arabi|retranslate|cleared|task_ops 2026-11-12|
 |immunology|retranslate|cleared|task_ops 2026-11-01|
 |impossible-worlds|retranslate|cleared|task_ops 2026-11-01|
 |intrinsic-extrinsic|retranslate|cleared|task_ops 2026-11-01|
