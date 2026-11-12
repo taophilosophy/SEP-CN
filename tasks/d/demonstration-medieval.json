@@ -2,7 +2,7 @@
   "slug": "demonstration-medieval",
   "kind": "retranslate",
   "zh_doc": "d/demonstration-medieval.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "sub-demonstration-medieval",
       "at": "2026-11-01T07:08:06Z",
       "evidence": "三校体例：check_style 0 issue（curly-quotes/bold-spacing/cjk-spacing/no-html/no-text-fence/no-asciiart/italic-cjk）；check_academic --strict 无硬错误（pubinfo 2005-08-12 钉、56 脚注定义在文献节内无孤儿、引用组照录、文献节照录豁免）；check_math 0（无公式）；check_terms 定点核销 0 疑似缺译法（登记册自洽违例为既有重复行，非本词条所致）。H1/版本行/尾节序与约定一致"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "D-main-20261112",
+      "at": "2026-11-12T02:29:43Z",
+      "evidence": "独立复核一（全文回读 246 行）：结构与五维全等——标题 7/0、marker 0:0、defs 56:56 键集全等、段落 42:41（byline 豁免）、尾节子标题 3:3、照录行 16:17（+1=译注行）；准确性逐段核销：per se 两义与第四义之争、格罗斯泰斯特的 *aestimatio* 经验程序与数学/自然证明二分、科学从属三情形（单义/部分/严格）、大阿尔伯特对格罗斯泰斯特形而上学之拒斥、阿奎那流溢说、最高一类证明（*demonstratio potissima*）之争（阿尔伯特 vs 托马斯 vs 罗马的吉尔斯窃题之辩 vs 康沃尔的约翰本质性概念辩护）、奥卡姆三重判准与动力因果还原——均与源文对读无漏译、无增译；拉丁术语（*aestimatio*、quia/propter quid、*infima species*、*demonstratio potissima*、*concretum*）括注原文照源保留。prose 0（原文本身经 s2 实修后已零告警）。语体：现代汉语学术书面语（ADR-0033）"
     }
   ],
   "blockers": [],
