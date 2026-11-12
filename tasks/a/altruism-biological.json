@@ -2,8 +2,44 @@
   "slug": "altruism-biological",
   "kind": "retranslate",
   "zh_doc": "a/altruism-biological.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-12T12:14:43Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T12:36:41Z",
+      "evidence": "ADR-0021 账本 64 段双版全填（本会话自译），lq.py check 守恒 OK；compose 落 246 行，含两张收益矩阵表与公式段"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T12:36:41Z",
+      "evidence": "对账：marker 序列 42=42 同序、定义 78=78 同集、h3 4=4；h2 10 vs 11 与表 4 vs 5 均为源侧双 Notes 标题合并、Academic Tools 表格形态转四行 bullet（模板 v1.3 合规）所致；年份 142 全序一致，另有『1960 年代』等表述 10 处属译法；pubinfo 2013-07-21 与版本钉一致"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T12:36:42Z",
+      "evidence": "check_prose 8→0：全部实修（长句拆分 3、去链 3、弱动词 1、被字句 1），无豁免残留"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "A-main-20261112",
+      "at": "2026-11-12T12:36:42Z",
+      "evidence": "check_style 0、check_academic --strict OK、check_math 0；术语 inclusive fitness/haplodiploidy/free-rider/mutualism/reproductive fitness/Tit-for-Tat 与人名 Hamilton/Trivers/Axelrod 入册"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:36:46Z",
   "version_pin": {
