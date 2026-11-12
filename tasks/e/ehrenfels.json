@@ -2,8 +2,16 @@
   "slug": "ehrenfels",
   "kind": "retranslate",
   "zh_doc": "e/ehrenfels.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-12T16:31:38Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T11:02:27Z",
   "version_pin": {
