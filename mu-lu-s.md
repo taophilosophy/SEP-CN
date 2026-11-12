@@ -2237,7 +2237,7 @@ outline: [1, 6]
 * [道德认知主义与非认知主义 cognitivism vs. non-cognitivism, moral (Mark van Roojen)](m/moral-cognitivism.md)
 * [谎言与欺骗的定义 definition of (James Edwin Mahon)](l/lying-definition.md)
 * [恶的概念 concept of (Todd Calder)](c/concept-evil.md)
-* [恶的种类和起源 kinds and origins (Andrew Chignell)](e/evil-kinds-origins.md)
+* [恶的种类和起源 Kinds and Origins of Evil (Andrew Chignell)](e/evil-kinds-origins.md)
 * [道德/习俗区分 The Moral/Conventional Distinction (Edouard Machery and Stephen Stich)](m/moral-conventional.md)
 * [道德的定义 morality, definition of (Joshua Gert and Bernard Gert)](m/morality-definition.md)
 * [道德非自然主义 moral non-naturalism (Michael Ridge)](m/moral-non-naturalism.md)

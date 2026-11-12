@@ -890,7 +890,7 @@
 * [高阶证据 evidence, higher-order (Sophie Horowitz)](h/higher-order-evidence.md)
 * [\*恶 evil](README.md)
   * [恶的概念 concept of (Todd Calder)](c/concept-evil.md)
-  * [恶的种类和起源 kinds and origins (Andrew Chignell)](e/evil-kinds-origins.md)
+  * [恶的种类和起源 Kinds and Origins of Evil (Andrew Chignell)](e/evil-kinds-origins.md)
   * [恶的问题 problem of (Michael Tooley)](e/evil.md)
 * [进化 evolution (Roberta L. Millstein)](e/evolution.md)
   * [达尔文之前的进化思想 Evolutionary Thought Before Darwin (Phillip Sloan)](e/evolution-before-darwin.md)
