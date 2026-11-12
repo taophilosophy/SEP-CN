@@ -609,6 +609,20 @@
 * **并行会话协同**：同期另一会话在同一分支实施了语义化路径改名、H3 细分（笛卡尔、逻辑实证主义、数理逻辑、量子力学、进化论、人工智能哲学等）与术语一致性门禁；本会话所有编辑均以标题/标题行定位、逐批原子提交，未触碰路径与并行会话文件。
 * **尚待执行**：附录 A 的 800 条补录进分类目录；人物册（逻辑学家/科学家/经济学家/政治家）方案 A/B 的最终定夺与净化；需改文件名的译名（伽达默尔拼音、公开性、共同善等）单独一批；actualism 与 Church 译名的项目定夺。
 
+## 十一、复核与处置（2026-11-12）
+
+复核基准：`baseline/catalog.json`（官方 contents 页，2026-10-28 抓取）与各条目页 `citation_author` 元数据；脚本逐条比对 `SUMMARY.md`、`mu-lu-s.md` 与条目 H1 三处；作者差异逐条按相邻请求不少于 5 秒的间隔抓取官方现行页面核实。
+
+| 节 | 复核结论 | 处置 |
+| --- | --- | --- |
+| 2.2 标题不一致 4 处 | 现状 0 处：四条路径在 SUMMARY 与 mu-lu-s 的标题逐字符一致（`a/antiochus-ascalon.md`、`d/disability-critical.md`、`m/medieval-futcont.md`、`i/innate-acquired.md`） | 无需改动（结构重建与干执行二已统一） |
+| 2.3 重复收录 5 处 | 现状 0 处：五条路径在 mu-lu-s 均只出现 1 次，全库无重复路径 | 无需改动 |
+| 2.4 别名 4 处 | 均已消解：consent 别名已不存在；action at a distance、pineal gland 转为正式子条目（`q/qm-action-distance.md`、`p/pineal-gland.md`）；recursion 改指 `recursive functions`，官方别名 recursive 在册 | 无需改动 |
+| 2.5 主条目 14 条 | 12 条为项目自建页；余 7 条为官方已退休条目（scientific-explanation、wisdom、wyclif-political、pineal-gland、qm-action-distance、continental-rationalism、time-experience），依 2026-10-28 撤稿裁定保留并建归档基线，不属目录缺陷。本节对 continental-rationalism“条目在线”的判断系软 404 误读（HTTP 200 加 Document Not Found 正文），已由该裁定更正 | 无需改动 |
+| 2.6 作者名单 155 条 | 复核余 74 条：72 条按官方 `citation_author` 对齐（补录缺失作者 41、名单与顺序更新 16、格式规范化 15）；berlin、philosophy-mexico 两条经现行页面核对，本地署名已正确 | 已修复，提交 bf35f7d16（SUMMARY、mu-lu-s、H1 三处同步） |
+
+补充说明：2.6 的 155 条与本轮 74 条之差，源于干执行二（f25d0108）已对齐 263 处，本轮不再重复改动已一致项。作者判定以条目页 `citation_author` 为准；contents 页个别条目滞后（berlin、pascal、pragmatic-belief-god、nonwellfounded-set-theory），四处均经现行页面逐条核对后定夺。
+
 ## 附录 A（已拆分）
 
 附录 A"未纳入分类目录的词条名单（800 条）"已按单体文件治理（ADR-0004）拆分至 [fu-lu-a.md](fu-lu-a.md)。
