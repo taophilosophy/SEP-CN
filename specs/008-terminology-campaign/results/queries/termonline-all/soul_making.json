@@ -2,10 +2,347 @@
  "key": "soul-making",
  "term": "soul-making",
  "provider": "termonline-all",
- "queried_at": "2026-11-12T16:20:43+00:00",
- "status": "error",
- "note": "variant=soul-making; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "soul-making: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T17:11:00+00:00",
+ "status": "ok",
+ "note": "variant=soul-making; 审定公布名词库=2920; 海峡两岸名词对照库=601; 其他来源数据库=153; 预公布名词数据库=62; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "魂",
+   "en": "soul",
+   "code": "03.399",
+   "standard": "中医药学名词",
+   "subject": "中医药学_中医基础理论_气血津液精神"
+  },
+  {
+   "cn": "离魂症",
+   "en": "dispersed soul,hallucination",
+   "code": "01.0662",
+   "standard": "中医药学名词（2010）",
+   "subject": "中医药学_内科学"
+  },
+  {
+   "cn": "肝藏魂",
+   "en": "liver storing soul",
+   "code": "03.146",
+   "standard": "中医药学名词",
+   "subject": "中医药学_中医基础理论_脏象"
+  },
+  {
+   "cn": "关合",
+   "en": "making",
+   "code": "19.288",
+   "standard": "电力名词",
+   "subject": "电力_变电"
+  },
+  {
+   "cn": "接通",
+   "en": "making",
+   "code": "09.397",
+   "standard": "电气工程名词",
+   "subject": "电气工程_开关设备和控制设备"
+  },
+  {
+   "cn": "掇山",
+   "en": "rockery making",
+   "code": "08.0675",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林工程_风景园林假山"
+  },
+  {
+   "cn": "印版制作",
+   "en": "plate making",
+   "code": "03.03.001",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_印刷_制版"
+  },
+  {
+   "cn": "制袋",
+   "en": "bag making",
+   "code": "03.05.059",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_印刷_印后加工"
+  },
+  {
+   "cn": "制盒",
+   "en": "box making",
+   "code": "03.05.060",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_印刷_印后加工"
+  },
+  {
+   "cn": "制箱",
+   "en": "carton making",
+   "code": "03.05.061",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_印刷_印后加工"
+  },
+  {
+   "cn": "制签",
+   "en": "making label",
+   "code": "05.05.113",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_发行与经营_发行信息与管理"
+  },
+  {
+   "cn": "网页制作",
+   "en": "page making",
+   "code": "06.01.149",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_数字出版_综述"
+  },
+  {
+   "cn": "决策",
+   "en": "decision making",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "决策",
+   "en": "decision making",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "制芯",
+   "en": "core making",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "制定价格",
+   "en": "price making",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "地图制图",
+   "en": "map making",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "地图制图",
+   "en": "map making",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "制版",
+   "en": "plate making",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "决策制定",
+   "en": "decision making",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "切断",
+   "en": "make dead",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "动态决策",
+   "en": "dynamic decision making",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "决策理论",
+   "en": "decision making theory",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "决策风格",
+   "en": "decision making style",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "品题",
+   "en": "Make Appraisals",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "摆出姿势",
+   "en": "make gestures",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "洗炼",
+   "en": "Make Writing Succinct",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "控制体重",
+   "en": "make the weight",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "控制体重",
+   "en": "make the weight",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "数据驱动决策",
+   "en": "data-driven decision-making",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "取消比赛资格",
+   "en": "disqualify\",\"disqualification\",\"hansoku-make",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "失败",
+   "en": "lose\",\"defeat\",\"loss\",\"make",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "吊球",
+   "en": "make a drop\",\"drop",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_排球名词"
+  },
+  {
+   "cn": "减少外出",
+   "en": "to make fewer trips outside",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "理念举措_具体措施"
+  },
+  {
+   "cn": "城市管理决策智能化",
+   "en": "intelligent decision-making in urban management",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "比显兴隐",
+   "en": "Make Analogy Explicit and Association Implicit",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "灵魂",
+   "en": "soul",
+   "code": "4.2.9.35",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_文化现象"
+  },
+  {
+   "cn": "灵魂崇拜",
+   "en": "soul worship",
+   "code": "4.0296",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "送魂",
+   "en": "dispatch the soul",
+   "code": "4.0258",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "招魂",
+   "en": "summons the soul",
+   "code": "4.0257",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "毛泽东思想活的灵魂",
+   "en": "living soul of Mao Zedong thought",
+   "code": "01.0244",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "决策",
+   "en": "decision making",
+   "code": "4.1.18.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_领导"
+  },
+  {
+   "cn": "祈雨",
+   "en": "rain making",
+   "code": "4.2.9.33",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_文化现象"
+  },
+  {
+   "cn": "创新是一个民族进步的灵魂",
+   "en": "innovation is the soul of a nations progress",
+   "code": "04.0188",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期"
+  },
+  {
+   "cn": "思想和政治是统帅和灵魂",
+   "en": "ideology and politics is the chief and the soul",
+   "code": "03.0447",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "组织决策",
+   "en": "organizational decision-making",
+   "code": "2.5.13.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念群体和组织"
+  },
+  {
+   "cn": "群体决策",
+   "en": "group decision-making",
+   "code": "4.1.17.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_群体"
+  },
+  {
+   "cn": "决策能力",
+   "en": "decision making skill",
+   "code": "5.5.10.9",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育"
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -2,10 +2,221 @@
  "key": "deliberative democracy",
  "term": "deliberative democracy",
  "provider": "termonline-all",
- "queried_at": "2026-11-12T15:46:10+00:00",
- "status": "error",
- "note": "variant=deliberative democracy; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "deliberative democracy: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T17:08:00+00:00",
+ "status": "ok",
+ "note": "variant=deliberative democracy; 审定公布名词库=23; 海峡两岸名词对照库=2; 其他来源数据库=4; 预公布名词数据库=32; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "协商式民主决策",
+   "en": "deliberative democracy",
+   "code": "11.0263",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_公共管理_公共政策"
+  },
+  {
+   "cn": "协商民主",
+   "en": "deliberative democracy;discursive democracy",
+   "code": "12.19",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_政治传播_媒体新媒体与政治传播"
+  },
+  {
+   "cn": "慎思型结构",
+   "en": "deliberative architecture",
+   "code": "08.0177",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_多智能体系统"
+  },
+  {
+   "cn": "学术民主",
+   "en": "academic democracy",
+   "code": "08.012",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科技伦理_科学伦理"
+  },
+  {
+   "cn": "电子化民主",
+   "en": "E democracy",
+   "code": "18.128",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播政治经济研究_重要概念"
+  },
+  {
+   "cn": "社会民主主义",
+   "en": "social democracy",
+   "code": "11.0138",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_公共管理_基本概念"
+  },
+  {
+   "cn": "网络民主",
+   "en": "cyber democracy",
+   "code": "11.0469",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_公共管理_政府管理"
+  },
+  {
+   "cn": "教育民主",
+   "en": "educational democracy",
+   "code": "01.050",
+   "standard": "教育学名词",
+   "subject": "教育学_教育基本理论"
+  },
+  {
+   "cn": "社会民主主义",
+   "en": "Social Democracy",
+   "code": "01.0099",
+   "standard": "世界历史名词",
+   "subject": "世界历史_综合_国际共产主义运动"
+  },
+  {
+   "cn": "波兰国家民主党",
+   "en": "National Democracy",
+   "code": "05.0569",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代俄罗斯、东欧、高加索、中亚_东欧"
+  },
+  {
+   "cn": "网络民主",
+   "en": "cyberdemocracy;digital democracy",
+   "code": "12.086",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_政治传播_政治传播基础"
+  },
+  {
+   "cn": "决策民主",
+   "en": "democracy of decision-making",
+   "code": "08.051",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科技伦理_工程伦理"
+  },
+  {
+   "cn": "德利布",
+   "en": "Delibes\",\"Leo(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "人为干扰",
+   "en": "man-made interference\",\"deliberate interference",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "党内民主",
+   "en": "intra-Party democracy",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会主义协商民主",
+   "en": "the socialist consultative democracy",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "民主",
+   "en": "Lord of the People / Democracy",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "社会服务",
+   "en": "List of social democrats",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "协商式民主",
+   "en": "deliberative democracy",
+   "code": "3.6.3.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_政治社会学_民主与选举"
+  },
+  {
+   "cn": "协商民主",
+   "en": "deliberative democracy",
+   "code": "03.0764",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "民主",
+   "en": "democracy",
+   "code": "03.0113",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "合作式民主",
+   "en": "consociational democracy",
+   "code": "3.6.3.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_政治社会学_民主与选举"
+  },
+  {
+   "cn": "参与式民主",
+   "en": "participatory democracy",
+   "code": "3.6.3.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_政治社会学_民主与选举"
+  },
+  {
+   "cn": "社会民主主义",
+   "en": "social democracy",
+   "code": "4.3.3.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会政策对象及领域"
+  },
+  {
+   "cn": "无产阶级民主",
+   "en": "proletarian democracy",
+   "code": "03.0198",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "资产阶级民主",
+   "en": "bourgeois democracy",
+   "code": "03.0235",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "党内民主",
+   "en": "intraparty democracy",
+   "code": "03.0280",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_列宁斯大林时期"
+  },
+  {
+   "cn": "抽象民主",
+   "en": "abstract democracy",
+   "code": "03.0529",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "社会主义民主",
+   "en": "socialist democracy",
+   "code": "03.0590",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "基层民主",
+   "en": "communitylevel democracy",
+   "code": "03.0630",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
  "raw": null
 }

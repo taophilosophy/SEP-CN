@@ -128,3 +128,13 @@ TL-main-20261112 续：凭证文件名缺陷修复、重复行归一与清扫收
   public announcement（审定「公告」泛词）、reproductive fitness（审定「繁殖适度」异义）、
   Tit-for-Tat（审定「一报还一报式合作」全称）、boundary problem（审定「边界值问题」数学义）、
   demos（审定「雅典人民」特指）、Job（书名 vs 审定「作业/职位」）。
+
+### 九、28 项残差与 ADR-0036 改名适配（2026-11-13）
+
+* 队列 `%TEMP%/az-term13.json` 28 项（前批降级词＋新登记行）跑完；审计：一致 1097 / 不一致 753 / 查无 4383 / 未查证 4243。
+* 新增不一致 3 条：**补亦作 1 条** deliberative democracy「审议民主」亦作“协商民主”（审定·政治学作“协商民主/协商式民主”，
+  正文 12:2 通行审议民主）；保留 2 条：battery（医疗语境「人身侵害」，审定「医疗器械」假阳性）、
+  state transition（「状态转移」，审定「状态转换/过渡态」异形与异义）。
+* **ADR-0036 改名适配**：并行会话按用户裁定把术语登记册 `yi-zhe-shuo-ming.md` 改名 `shu-yu-biao.md`（词汇表并网），
+  `check_terms.py` 先行改指；本线补齐 `cnki_query.py`/`registry_azsort.py`/`term_audit.py` 三处路径（提交 29b4ac74b），
+  emit/audit 均按新名正常工作。**后续术语跑批一律以 `shu-yu-biao.md` 为准**。

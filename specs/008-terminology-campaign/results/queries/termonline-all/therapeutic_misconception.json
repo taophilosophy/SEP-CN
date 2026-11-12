@@ -2,10 +2,200 @@
  "key": "therapeutic misconception",
  "term": "therapeutic misconception",
  "provider": "termonline-all",
- "queried_at": "2026-11-12T16:28:13+00:00",
- "status": "error",
- "note": "variant=therapeutic misconception; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "therapeutic misconception: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T17:14:00+00:00",
+ "status": "ok",
+ "note": "variant=therapeutic misconception; 审定公布名词库=106; 海峡两岸名词对照库=12; 其他来源数据库=0; 预公布名词数据库=3; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "错误概念",
+   "en": "misconception",
+   "code": "09.043",
+   "standard": "心理学名词",
+   "subject": "心理学_教育心理学"
+  },
+  {
+   "cn": "治疗",
+   "en": "therapeutic",
+   "code": "09.077",
+   "standard": "运动医学名词",
+   "subject": "运动医学_反兴奋剂_国际标准"
+  },
+  {
+   "cn": "治疗性克隆",
+   "en": "therapeutic cloning,therapeutic clone",
+   "code": "05.479",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_繁殖_胚胎移植"
+  },
+  {
+   "cn": "治疗性克隆",
+   "en": "therapeutic cloning",
+   "code": "10.050",
+   "standard": "普通外科学名词",
+   "subject": "医学_普通外科学_修复"
+  },
+  {
+   "cn": "治疗性胸腔穿刺术",
+   "en": "therapeutic thoracentesis",
+   "code": "07.170",
+   "standard": "急救医学名词",
+   "subject": "急救医学_急救技能与护理_急救护理_护理技术与操作"
+  },
+  {
+   "cn": "治疗窗",
+   "en": "therapeutic window",
+   "code": "02.119",
+   "standard": "麻醉学名词",
+   "subject": "麻醉学_麻醉药理学_临床药理学"
+  },
+  {
+   "cn": "治疗剂量",
+   "en": "therapeutic dose",
+   "code": "02.120",
+   "standard": "麻醉学名词",
+   "subject": "麻醉学_麻醉药理学_临床药理学"
+  },
+  {
+   "cn": "治疗效果",
+   "en": "therapeutic effect",
+   "code": "02.121",
+   "standard": "麻醉学名词",
+   "subject": "麻醉学_麻醉药理学_临床药理学"
+  },
+  {
+   "cn": "治疗作用",
+   "en": "therapeutic action",
+   "code": "02.123",
+   "standard": "麻醉学名词",
+   "subject": "麻醉学_麻醉药理学_临床药理学"
+  },
+  {
+   "cn": "治疗作用",
+   "en": "therapeutic action",
+   "code": "17.101",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医药理学"
+  },
+  {
+   "cn": "治疗指数",
+   "en": "therapeutic index",
+   "code": "17.102",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医药理学"
+  },
+  {
+   "cn": "治疗性克隆",
+   "en": "therapeutic cloning",
+   "code": "9.006",
+   "standard": "生殖医学名词",
+   "subject": "生殖医学_生殖医学前沿技术"
+  },
+  {
+   "cn": "错误概念,迷思概念",
+   "en": "misconception",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "治疗性克隆",
+   "en": "therapeutic cloning",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "治疗景观",
+   "en": "therapeutic landscape",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "治疗性抗血清",
+   "en": "therapeutic antiserum",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "治疗窗",
+   "en": "therapeutic window",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "治疗性配伍禁忌",
+   "en": "therapeutic incompatibility",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "治疗指数",
+   "en": "therapeutic index",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "治疗作用",
+   "en": "therapeutic action",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "共同治疗因素",
+   "en": "common therapeutic factor",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "透皮治疗系统",
+   "en": "transdermal therapeutic system",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "治疗药物监测",
+   "en": "therapeutic drug monitoring",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "药房和治疗委员会，药事委员会",
+   "en": "pharmacy and therapeutics committee",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "治疗性照射",
+   "en": "therapeutic exposure",
+   "code": "6.4.1.1.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_医用电离辐射_医疗照射"
+  },
+  {
+   "cn": "治疗伦理",
+   "en": "therapeutic ethics",
+   "code": "5.033",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_临床诊疗伦理"
+  },
+  {
+   "cn": "治疗性沟通",
+   "en": "therapeutic communication",
+   "code": "4.084",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医疗人际关系"
+  }
+ ],
+ "error": null,
  "raw": null
 }
