@@ -11,785 +11,839 @@ segments:
     kind: body
     source: |-
       Iamblichus (ca. 242–ca. 325) was a Syrian Neoplatonist and disciple of Porphyry of Tyre, the editor of Plotinus’ works. One of the three major representatives of early Neoplatonism (the third one being Plotinus himself), he exerted considerable influence among later philosophers belonging to the same tradition, such as Proclus, Damascius, and Simplicius. His work as a Pagan theologian and exegete earned him high praise and made a decisive contribution to the transformation of Plotinian metaphysics into the full-fledged system of the fifth-century school of Athens, at that time the major school of philosophy, along with the one in Alexandria. His harsh critique of Plotinus’ philosophical tenets is linked to his pessimistic outlook on the condition of the human soul, as well as to his advocacy of salvation by ritual means, known as “theurgy”.
-        step1: |-
+    step1: |-
       杨布里科斯（Iamblichus，约 242–约 325）是叙利亚的新柏拉图主义者，也是提尔的波菲利（Porphyry of Tyre）的弟子，后者是普罗提诺（Plotinus）著作的编纂者。作为早期新柏拉图主义三大主要代表之一（第三位是普罗提诺本人），他对属于同一传统的后世哲学家，如普罗克洛斯（Proclus）、达马斯基乌斯（Damascius）与辛普里丘（Simplicius），产生了相当大的影响。他作为异教神学家与解经家的工作为他赢得了高度赞誉，并对普罗提诺形而上学向五世纪雅典学派的成熟体系的转变作出了决定性贡献——在当时，雅典学派与亚历山大里亚学派并列为最重要的哲学学派。他对普罗提诺哲学学说的严厉批判，与他人类灵魂处境的悲观看法有关，也与他主张通过仪式手段获得拯救——即所谓“通神术”（theurgy）——的立场有关。
-        step2: |-
+    step2: |-
       杨布里科斯（Iamblichus，约 242–约 325）是叙利亚新柏拉图主义者，师从提尔的波菲利（Porphyry of Tyre），而波菲利正是普罗提诺（Plotinus）著作的编纂者。他是早期新柏拉图主义的三大代表之一（第三位即普罗提诺本人），对该传统的后世哲学家——如普罗克洛斯（Proclus）、达马斯基乌斯（Damascius）、辛普里丘（Simplicius）——影响甚巨。他以异教神学家与解经家身份所做的工作广受赞誉，并在普罗提诺形而上学转变为五世纪雅典学派成熟体系的过程中起了决定性作用；该学派当时与亚历山大里亚学派并列为哲学重镇。他对普罗提诺哲学学说的严厉批判，一方面源于他对人类灵魂处境的悲观判断，另一方面则源于他主张以仪式手段求得拯救——即所谓“通神术”（theurgy）。
   - id: 2
     kind: body
     source: |-
       ## 1. Life and Works
-        step1: |-
+    step1: |-
       ## 1. 生平与著作
-        step2: |-
+    step2: |-
       ## 1. 生平与著作
   - id: 3
     kind: body
     source: |-
       ### 1.1 Life
-        step1: |-
+    step1: |-
       ### 1.1 生平
-        step2: |-
+    step2: |-
       ### 1.1 生平
   - id: 4
     kind: body
     source: |-
       Little is known about Iamblichus’ life and career, since Eunapius of Sardis’ biography of Iamblichus (*Lives of Philosophers and Sophists* V [Goulet 2014, Baltussen 2023])[^goulet-2014][^baltussen-2023] is merely hagiographical in nature. His birthplace is traditionally taken to be Chalcis ad Belum (modern Qinnasrin), although support has been voiced in favor of a different Chalcis, Chalcis sub Libanum (Aliquot 2010: 307 and n. 7)[^aliquot-2010]. What is uncontroversial is that Iamblichus hailed from a very influential Syrian family, the Sampsigeramids of Emesa (Damascius, *Philosophical History*, Athanassiadi 1999: 334.10–14 [Zintzen 1967: 2.8–10])[^athanassiadi-1999][^zintzen-1967], who had gained access to the Imperial throne along with Elagabalus (218–222).
-        step1: |-
+    step1: |-
       人们对杨布里科斯的生平与事业所知甚少，因为萨迪斯的欧纳皮乌斯（Eunapius of Sardis）为其所作的传记（《哲人与智者传》V [Goulet 2014, Baltussen 2023]）[^goulet-2014][^baltussen-2023]本质上只是圣徒传式的文字。他的出生地传统上被认为是贝尔河畔的哈尔基斯（今基纳斯林），但也有学者支持另一处哈尔基斯，即黎巴嫩山麓的哈尔基斯（Aliquot 2010: 307 及注 7）[^aliquot-2010]。无可争议的是，杨布里科斯出身于一个极具势力的叙利亚家族——埃梅萨的萨姆西格拉米德家族（Damascius, 《哲学史》, Athanassiadi 1999: 334.10–14 [Zintzen 1967: 2.8–10]）[^athanassiadi-1999][^zintzen-1967]，该家族曾与埃拉伽巴路斯（218–222）一同问鼎皇位。
-        step2: |-
+    step2: |-
       关于杨布里科斯的生平与事业，我们所知甚少：萨迪斯的欧纳皮乌斯（Eunapius of Sardis）为他所作的传记（《哲人与智者传》V [Goulet 2014, Baltussen 2023]）[^goulet-2014][^baltussen-2023]本质上只是圣徒传式的文字。他的出生地传统上被认定为贝尔河畔的哈尔基斯（今基纳斯林），也有论者支持另一处哈尔基斯，即黎巴嫩山麓的哈尔基斯（Aliquot 2010: 307 及注 7）[^aliquot-2010]。不过有一点无可争议：杨布里科斯出自一个极具势力的叙利亚家族——埃梅萨的萨姆西格拉米德家族（Damascius, 《哲学史》, Athanassiadi 1999: 334.10–14 [Zintzen 1967: 2.8–10]）[^athanassiadi-1999][^zintzen-1967]，该家族曾与埃拉伽巴路斯（218–222）一同问鼎帝国皇位。
   - id: 5
     kind: body
     source: |-
       Eunapius gives Anatolius and then Porphyry as Iamblichus’ two teachers, and there are no decisive reasons to doubt this: on the one hand, it is evident that he was influenced by the kind of theological arithmology Anatolius championed; on the other hand, Porphyry dedicated his treatise *On the “Know thyself”* to Iamblichus (Stobaeus, *Anthology* III, 21, 26) and provides information about the philosopher’s son (*Life of Plotinus* 9). Since this son is said by Porphyry to have married a Roman aristocrat, it is very likely that Iamblichus studied in Rome under Porphyry, who would have carried on the philosophical circle Plotinus had founded in 244. Dalsgaard Larsen’s (DL-1972: I, 38–39)[^dl--1972] supposition of a prolonged stay at Alexandria is dubious at best.
-        step1: |-
+    step1: |-
       欧纳皮乌斯列出的杨布里科斯的两位老师，先是阿纳托利乌斯（Anatolius），然后是波菲利；我们没有决定性的理由怀疑这一点：一方面，他显然受到阿纳托利乌斯所倡导的那种神学数论的影响；另一方面，波菲利把自己的论文《论“认识你自己”》题献给杨布里科斯（斯托拜乌斯，《文选》III, 21, 26），并提供了这位哲学家之子的信息（《普罗提诺传》9）。由于波菲利说这个儿子娶了一位罗马贵族，杨布里科斯很可能是在罗马从波菲利受业，并由此接续了普罗提诺于 244 年创立的哲学圈子。达尔斯加德·拉森（DL-1972: I, 38–39）[^dl--1972]关于他长期逗留亚历山大里亚的猜想，充其量是可疑的。
-        step2: |-
+    step2: |-
       据欧纳皮乌斯记载，杨布里科斯的老师先是阿纳托利乌斯（Anatolius），后是波菲利；我们没有决定性的理由怀疑这一说法。一方面，他显然受到了阿纳托利乌斯所倡导的那类神学数论的影响；另一方面，波菲利曾把专文《论“认识你自己”》题献给杨布里科斯（斯托拜乌斯，《文选》III, 21, 26），并传下了这位哲学家之子的信息（《普罗提诺传》9）。既然波菲利说到这个儿子娶了罗马贵族之女，杨布里科斯就很可能是赴罗马从波菲利受业，从而接续了普罗提诺 244 年创立的哲学圈子。至于达尔斯加德·拉森（DL-1972: I, 38–39）[^dl--1972]所设想的长期逗留亚历山大里亚，则至多存疑。
   - id: 6
     kind: body
     source: |-
       After a break with Porphyry that seems impossible to date with precision, Iamblichus settled in Syria. Although he is known to have owned an estate in Antioch’s suburb of Daphne, it is now accepted that he settled in Apamea, where Plotinus’ first disciple Amelius had previously moved. There, welcomed by a wealthy notable, Sopater, he founded a flourishing school: we know about a dozen of his students (see below, Section 2.4), among whom the most conspicuous are Sopater himself, who died because of a plot at Constantine’s court; Aedesius, who moved the school to Pergamon; and Dexippus, the only disciple of whom we still have a philosophical work (a commentary on Aristotle’s *Categories*). Apart from Eunapius, evidence about Iamblichus’ whereabouts in Apamea is to be found mainly in Libanius (e.g. *Ep.* 1389.13–14) and, above all, in the letters by an anonymous Syrian sophist whose correspondence with Iamblichus was preserved among the genuine letters of the emperor Julian (e.g. Pseudo-Julian, *Ep.* 78 and 79 Wright).
-        step1: |-
+    step1: |-
       在一次难以精确系年的与波菲利的决裂之后，杨布里科斯定居叙利亚。虽然已知他在安条克郊区达夫尼拥有地产，但现在公认他定居于阿帕梅亚——普罗提诺的首位弟子阿梅利乌斯（Amelius）此前已移居该地。在当地富绅索帕特（Sopater）的款待下，他创办了一所兴旺的学校：我们所知的学生约有十余人（见下文 2.4 节），其中最著名的是索帕特本人——他因君士坦丁宫廷的一场阴谋而死；埃德西乌斯（Aedesius）——他把学校迁往帕加马；以及德克西普斯（Dexippus）——唯一一位我们仍有哲学著作传世的弟子（一部亚里士多德《范畴篇》注）。除欧纳皮乌斯外，关于杨布里科斯在阿帕梅亚行迹的证据主要见于利巴尼乌斯（Libanius）（如《书信》1389.13–14），尤其是见于一位匿名叙利亚智者与杨布里科斯的通信——这些书信被保存于皇帝尤利安的真正书信之中（如伪尤利安，《书信》78 与 79 Wright）。
-        step2: |-
+    step2: |-
       与波菲利决裂（其确切年代已难考定）之后，杨布里科斯定居叙利亚。虽然我们知道他在安条克近郊达夫尼置有地产，但学界如今公认他定居于阿帕梅亚；普罗提诺的首位弟子阿梅利乌斯（Amelius）此前已移居此地。他受到当地富绅索帕特（Sopater）的礼遇，创办了一所兴盛的学校。我们所知的学生约有十余人（见下文 2.4 节），其中最显赫的是：索帕特本人——他死于君士坦丁宫廷的一场阴谋；埃德西乌斯（Aedesius）——他将学校迁往帕加马；以及德克西普斯（Dexippus）——诸弟子中唯一仍有哲学著作传世者（一部亚里士多德《范畴篇》注疏）。除欧纳皮乌斯外，关于杨布里科斯在阿帕梅亚行止的证据主要见于利巴尼乌斯（Libanius）（如《书信》1389.13–14），而最重要的则是一位匿名叙利亚智者的书信——他与杨布里科斯的通信被保存于皇帝尤利安的真书信之中（如伪尤利安，《书信》78 与 79 Wright）。
   - id: 7
     kind: body
     source: |-
       ### 1.2 Works
-        step1: |-
+    step1: |-
       ### 1.2 著作
-        step2: |-
+    step2: |-
       ### 1.2 著作
   - id: 8
     kind: body
     source: |-
       Few of Iamblichus’ works are preserved in the direct manuscript tradition. Four of these texts pertain to a summa *On Pythagoreanism* (conflicting testimonies exist about its title: cf. O’Meara 1989: 32–33)[^o’meara-1989]: *On the Pythagorean Life*; the *Protrepticus*; *On General Mathematical Science*; and an *Introduction to Arithmetic* based on Nicomachus of Gerasa’s treatise of the same name. Sadly, they are for the most part impersonal works: the *Protrepticus* consists in lengthy quotations from previous hortatory literature, and its interest mostly lies in the fact that it provides evidence for valuable lost works (most notably Aristotle’s own *Protrepticus* and the so-called *Anonymus Iamblichi*), while *On the Pythagorean Life* plagiarizes previous biographies of the master, although it certainly contains valuable insights on Iamblichus’ conception of the “divine man”. Neither of these works seems to have had any impact over the subsequent course of philosophy, whereas *On General Mathematical Science* was at least a formative influence on Proclus’ commentary to Euclid’s *Elements*, as well as on Syrianus’ commentary on *Metaphysics* Μ–Ν (see DGU-2020)[^dgu--2020]. It also provides the basic material for the reconstruction of Iamblichus’ philosophy of mathematics (see below, Section 4). For a general characterization of *On Pythagoreanism* and its context, see Huffman (2006 [2019: sect. 4.4]).
-        step1: |-
-      杨布里科斯的著作很少以直接的手稿传统保存下来。其中四篇属于一部名为《论毕达哥拉斯主义》的总纲性著作（关于其书名证据相互冲突：参见 O'Meara 1989: 32–33）[^o'meara-1989]：《论毕达哥拉斯的生平》；《劝勉篇》；《论一般数学科学》；以及一部以杰拉萨的尼科马霍斯（Nicomachus of Gerasa）同名著作为基础的《算术引论》。遗憾的是，这些著作大都是非个人性的：《劝勉篇》由对前人劝勉文献的长篇征引组成，其价值主要在于它为珍贵的佚作（最著名的如亚里士多德本人的《劝勉篇》和所谓的《扬布里柯斯氏匿名者》）提供了证据；而《论毕达哥拉斯的生平》则剽窃了此前关于这位大师的传记，尽管它确实包含关于杨布里科斯“神圣之人”观念的宝贵洞见。这两部著作似乎都对此后的哲学进程没有产生什么影响，而《论一般数学科学》至少对普罗克洛斯的欧几里得《几何原本》注以及叙里亚努斯（Syrianus）的《形而上学》Μ–Ν 注形成了塑造性的影响（见 DGU-2020）[^dgu--2020]。它还为重构杨布里科斯的数学哲学提供了基本材料（见下文第 4 节）。关于《论毕达哥拉斯主义》及其语境的一般性刻画，参见 Huffman（2006 [2019: sect. 4.4]）。
-        step2: |-
-      杨布里科斯的著作很少经由直接的手稿传统传世。其中四种属于一部题为《论毕达哥拉斯主义》的总纲性著作（其书名诸证互有出入：参见 O'Meara 1989: 32–33）[^o'meara-1989]：《论毕达哥拉斯的生平》、《劝勉篇》、《论一般数学科学》，以及一部以杰拉萨的尼科马霍斯（Nicomachus of Gerasa）同名著作为蓝本的《算术引论》。可惜这些著作大多缺乏个人色彩：《劝勉篇》由前人劝勉文献的长篇征引缀成，其意义主要在于见证了多部珍贵的佚作（最要者如亚里士多德本人的《劝勉篇》与所谓《扬布里柯斯氏匿名者》）；《论毕达哥拉斯的生平》则大量袭用此前关于这位大师的传记，尽管其中确实含有关于杨布里科斯“神圣之人”观念的宝贵洞见。这两部书对此后的哲学进程似乎都无甚影响；相比之下，《论一般数学科学》至少塑造了普罗克洛斯的欧几里得《几何原本》注疏，也影响了叙里亚努斯（Syrianus）的《形而上学》Μ–Ν 注疏（见 DGU-2020）[^dgu--2020]。它还为重构杨布里科斯的数学哲学提供了基本材料（见下文第 4 节）。至于《论毕达哥拉斯主义》及其历史语境的一般性论述，参见 Huffman（2006 [2019: sect. 4.4]）。
+    step1: |-
+      杨布里科斯的著作很少以直接的手稿传统保存下来。其中四篇属于一部名为《论毕达哥拉斯主义》的总纲性著作（关于其书名证据相互冲突：参见 O'Meara 1989: 32–33）[^o’meara-1989]：《论毕达哥拉斯的生平》；《劝勉篇》；《论一般数学科学》；以及一部以杰拉萨的尼科马霍斯（Nicomachus of Gerasa）同名著作为基础的《算术引论》。遗憾的是，这些著作大都是非个人性的：《劝勉篇》由对前人劝勉文献的长篇征引组成，其价值主要在于它为珍贵的佚作（最著名的如亚里士多德本人的《劝勉篇》和所谓的《杨布里科斯氏匿名者》）提供了证据；而《论毕达哥拉斯的生平》则剽窃了此前关于这位大师的传记，尽管它确实包含关于杨布里科斯“神圣之人”观念的宝贵洞见。这两部著作似乎都对此后的哲学进程没有产生什么影响，而《论一般数学科学》至少对普罗克洛斯的欧几里得《几何原本》注以及西里阿努斯（Syrianus）的《形而上学》Μ–Ν 注形成了塑造性的影响（见 DGU-2020）[^dgu--2020]。它还为重构杨布里科斯的数学哲学提供了基本材料（见下文第 4 节）。关于《论毕达哥拉斯主义》及其语境的一般性刻画，参见 Huffman（2006 [2019: sect. 4.4]）。
+    step2: |-
+      杨布里科斯的著作很少经由直接的手稿传统传世。其中四种属于一部题为《论毕达哥拉斯主义》的总纲性著作（其书名诸证互有出入：参见 O'Meara 1989: 32–33）[^o’meara-1989]：《论毕达哥拉斯的生平》、《劝勉篇》、《论一般数学科学》，以及一部以杰拉萨的尼科马霍斯（Nicomachus of Gerasa）同名著作为蓝本的《算术引论》。可惜这些著作大多缺乏个人色彩：《劝勉篇》由前人劝勉文献的长篇征引缀成，其意义主要在于见证了多部珍贵的佚作（最要者如亚里士多德本人的《劝勉篇》与所谓《杨布里科斯氏匿名者》）；《论毕达哥拉斯的生平》则大量袭用此前关于这位大师的传记，尽管其中确实含有关于杨布里科斯“神圣之人”观念的宝贵洞见。这两部书对此后的哲学进程似乎都无甚影响；相比之下，《论一般数学科学》至少塑造了普罗克洛斯的欧几里得《几何原本》注疏，也影响了西里阿努斯（Syrianus）的《形而上学》Μ–Ν 注疏（见 DGU-2020）[^dgu--2020]。它还为重构杨布里科斯的数学哲学提供了基本材料（见下文第 4 节）。至于《论毕达哥拉斯主义》及其历史语境的一般性论述，参见 Huffman（2006 [2019: sect. 4.4]）。
   - id: 9
     kind: body
     source: |-
       The most important extant treatise by Iamblichus, however, is the *Reply of Master Abamon to Porphyry’s Letter to Anebo, and Solutions to the Difficulties Contained Therein* (abbreviated to *Reply to Porphyry* and traditionally known as *De mysteriis Ægyptiorum* since Marsilio Ficino’s original Latin translation: see SS-2013: ix–xxi)[^ss--2013]. The work is a defense of Pagan religious practice (sacrifice, prayer, divination etc.; on the latter, see Timotin 2022)[^timotin-2022] against the objections raised by Porphyry, and to serve this purpose it introduces several philosophical developments on the divine nature and orders, as well as the pretensions of the human soul. The whole debate is framed with a fictional Egyptian scenario: Porphyry had raised his objections in an epistle addressed to Anebo, an Egyptian priest, while Iamblichus wrote his reply under the assumed guise of the Egyptian prophet Abamon. While it had limited direct transmission (the only ancient testimonium being Proclus, *In Timaeum* I, 386.8–13 [D-1973: Fr. 38], although Taormina (2014) expressed reservations), its importance as a touchstone against which one can safely compare what can be gathered from other sources is invaluable.
-        step1: |-
+    step1: |-
       然而，杨布里科斯现存最重要的论著是《阿巴蒙大师对波菲利致阿涅波书信的答复暨其中疑难之解答》（简称《答波菲利》；自马尔西利奥·费奇诺（Marsilio Ficino）的拉丁文首译以来，传统上以《论埃及秘仪》之名著称：参见 SS-2013: ix–xxi）[^ss--2013]。该著作是为异教宗教实践（献祭、祈祷、占卜等；关于后者参见 Timotin 2022）[^timotin-2022]辩护，以回应波菲利提出的诘难，并为此目的引入了关于神圣本性、神圣秩序以及人类灵魂之僭求的若干哲学进展。整场辩论被置于一个虚构的埃及场景之中：波菲利在致埃及祭司阿涅波（Anebo）的书信中提出诘难，而杨布里科斯则假托埃及先知阿巴蒙（Abamon）之名作答。此书的直接流传有限（古代唯一的证词是普罗克洛斯，《蒂迈欧注》I, 386.8–13 [D-1973: Fr. 38]，尽管 Taormina（2014）对此有所保留），但它作为试金石的价值无可估量——凭借它，我们可以稳妥地比较从其他来源收集到的东西。
-        step2: |-
+    step2: |-
       不过，杨布里科斯现存最重要的论著是《阿巴蒙大师对波菲利致阿涅波书信的答复暨其中疑难之解答》（简称《答波菲利》；自费奇诺（Marsilio Ficino）首次拉丁译出以来，传统上以《论埃及秘仪》知名：参见 SS-2013: ix–xxi）[^ss--2013]。此书为异教宗教实践（献祭、祈祷、占卜等；占卜问题参见 Timotin 2022）[^timotin-2022]辩护，回击波菲利的种种诘难；为达成这一目的，它引入了关于神圣本性、诸神圣秩序以及人类灵魂之僭求的若干哲学进展。整场论辩被安放在一个虚构的埃及场景中：波菲利在致埃及祭司阿涅波（Anebo）的书信中提出诘难，杨布里科斯则假托埃及先知阿巴蒙（Abamon）之名作答。此书直接流传有限——古代唯一的见证是普罗克洛斯《蒂迈欧注》I, 386.8–13 [D-1973: Fr. 38]（Taormina（2014）对此有所保留）——然而，作为一块可据以稳妥比较其他来源所得信息的试金石，其价值无可估量。
   - id: 10
     kind: body
     source: |-
       The bulk of what remains of Iamblichus’ work consists in approx. 800 fragments and testimonia. Of these, the extensive excerpts given by Stobaeus of a work *On the Soul* as well as a dozen *Letters*, which have been the object of multiple independent editions, stand out as the most coherent, if not necessarily the most original. By far the most influential part of his philosophical output, his *Commentaries* on key works by Plato and Aristotle are all lost, although in almost two cases (his commentary on the *Categories*, transmitted by Simplicius; that on the *Timaeus*, transmitted by Proclus), quotations are so numerous that one can safely establish the main features of the exegesis given. Of the other works Iamblichus wrote commentaries on, the most important ones are the *Alcibiades*, the *Philebus* and the *Parmenides*, while the existence of a separate, continuous commentary on Aristotle’s *De anima* was questioned by Blumenthal (1974). A richly annotated edition of the Platonic fragments was given by D-1973, while DL-1972 collected all fragments known to Dalsgaard Larsen as an appendix to his monograph, although his work can barely be described as an edition. Another collection focusing on Aristotelian exegesis was produced by Romano [R-2012].
-        step1: |-
+    step1: |-
       杨布里科斯著作的现存主体由约 800 条残篇与证词构成。其中，斯托拜乌斯从一部《论灵魂》中辑出的长篇摘录，以及十余封《书信》——后者已被多次独立编辑——即便未必最具原创性，也堪称最连贯的部分。他哲学产出中影响最深远的是对柏拉图与亚里士多德关键著作的《注疏》，但全部亡佚；不过在将近两种情形中（由辛普里丘传世的《范畴篇》注、由普罗克洛斯传世的《蒂迈欧篇》注），征引如此之多，以至于我们可以稳妥地确立其解经的主要特征。在杨布里科斯为之作注的其他著作中，最重要的是《阿尔喀比亚德篇》、《斐莱布篇》与《巴门尼德篇》；至于亚里士多德《论灵魂》是否存在一部单独的、连续的注疏，Blumenthal（1974）曾提出疑问。柏拉图残篇的一部详注本由 D-1973 给出，而 DL-1972 则把达尔斯加德·拉森所知的全部残篇收集为其专著的附录，尽管他的工作几乎算不上一种校勘本。另一部聚焦于亚里士多德解经的辑本由 Romano 编成 [R-2012]。
-        step2: |-
+    step2: |-
       杨布里科斯著作的现存主体是约 800 条残篇与证词。其中最连贯——尽管未必最具原创性——的两宗，是斯托拜乌斯自一部《论灵魂》辑出的长篇摘录，以及十余封屡经独立校勘的《书信》。其哲学著述中影响最深远的当属对柏拉图与亚里士多德关键著作的《注疏》，然而全部亡佚；唯有两部近于例外（由辛普里丘传世的《范畴篇》注、由普罗克洛斯传世的《蒂迈欧篇》注）：征引如此繁密，我们足以稳妥地复原其解经的要点。在他注疏过的其余著作中，最重要的有《阿尔喀比亚德篇》、《斐莱布篇》与《巴门尼德篇》；至于亚里士多德《论灵魂》是否有过一部独立而连续的注疏，Blumenthal（1974）曾有疑问。柏拉图残篇已由 D-1973 出以详注之本；DL-1972 则把达尔斯加德·拉森所知的全部残篇辑为其专著附录，尽管那几乎称不上校勘。另有一部专重亚里士多德解经的辑本出自 Romano 之手 [R-2012]。
   - id: 11
     kind: body
     source: |-
       ## 2. Iamblichus’ Place in Greek Neoplatonism
-        step1: |-
+    step1: |-
       ## 2. 杨布里科斯在希腊新柏拉图主义中的位置
-        step2: |-
+    step2: |-
       ## 2. 杨布里科斯在希腊新柏拉图主义中的位置
   - id: 12
     kind: body
     source: |-
       ### 2.1 The second founder of Neoplatonism
-        step1: |-
+    step1: |-
       ### 2.1 新柏拉图主义的第二奠基人
-        step2: |-
+    step2: |-
       ### 2.1 新柏拉图主义的第二奠基人
   - id: 13
     kind: body
     source: |-
       Iamblichus’ significance in Late Antique philosophy can hardly be overestimated. Karl Praechter described him as the second founder of Neoplatonism after Plotinus and argued that Iamblichus’ position was similar to that of Chrysippus in ancient Stoicism (Praechter 1910: 143)[^praechter-1910]. This statement aptly expresses Iamblichus’ historical and philosophical significance, but needs qualification: unlike the Stoa, “Neoplatonism” is not an ancient philosophical school, but a modern historical category (whose reliability scholars are sometimes inclined to question: see Catana 2013)[^catana-2013]. Iamblichus is likely, as was mentioned above (Section 1.1) to have been a student of Porphyry who was, in turn, a student of Plotinus. Iamblichus’ school was, however, separate from that of Plotinus, both in time and in place: consequently, despite late, ideological attempts to reconstruct a continuous “golden chain” of Neoplatonist exegetes (see, e.g., Hierocles, *De Providentia*, *apud* Photius cod. 214, 173 a; Proclus, *Platonic Theology* I, p. 6.16–7.8), there is no institutional continuity between Plotinus and Iamblichus and, from this point of view, the situation is different from that of the ancient Stoa. Iamblichus is not the second founder of the Neoplatonic school for the simple reason that there is no unitary Neoplatonic school in Late Antiquity. What scholars call Greek Neoplatonism is actually a multifaceted philosophical movement that covers some three centuries and includes several schools scattered throughout the Roman Empire: these schools certainly shared doctrines and methods, but their relations were sometimes close, sometimes much more tenuous. Certainly, Iamblichus accepts and further develops some distinctive features of Plotinus’ philosophy and he can be seen as a follower of Plotinus and Porphyry: this holds in particular for Iamblichus’ general metaphysical and philosophical approach, for his account of the One and of the first principles, for his exegesis of some works such as Plato’s *Parmenides* and Aristotle’s *Categories*. On the other hand, Iamblichus’ original position *vis-à-vis* Plotinus and Porphyry emerges clearly with respect to both his theories and his methods (see Taormina 1999)[^taormina-1999].
-        step1: |-
-      杨布里科斯在古代晚期哲学中的重要性，无论如何估计都不过分。卡尔·普雷希特（Karl Praechter）称他为普罗提诺之后新柏拉图主义的第二奠基人，并认为杨布里科斯的地位类似于克吕西波在古代斯多葛主义中的地位（Praechter 1910: 143）[^praechter-1910]。这一说法恰当地表达了杨布里科斯的历史与哲学意义，但需要限定：与斯多亚学派不同，“新柏拉图主义”并不是一个古代哲学学派，而是一个现代史学范畴（学者们有时倾向于质疑这一范畴的可靠性：见 Catana 2013）[^catana-2013]。如上所述（1.1 节），杨布里科斯很可能是波菲利的弟子，而波菲利又是普罗提诺的弟子。然而，杨布里科斯的学校无论在时间上还是地点上都与普罗提诺的学校分开：因此，尽管晚期有人出于意识形态的动机试图重构一条连续的新柏拉图主义解经家的“金链”（例如见希罗克勒斯（Hierocles），《论天意》，载佛提乌（Photius）cod. 214, 173 a；普罗克洛斯，《柏拉图神学》I, p. 6.16–7.8），但普罗提诺与杨布里科斯之间并不存在建制上的连续性；从这个角度看，情况不同于古代斯多亚学派。杨布里科斯并不是新柏拉图主义学派的第二奠基人，原因很简单：古代晚期并不存在一个统一的新柏拉图主义学派。学者们所谓的希腊新柏拉图主义，实际上是一个多面向的哲学运动，绵延约三个世纪，包括散布于罗马帝国各处的若干学派：这些学派固然共享一些学说与方法，但它们之间的关系有时紧密，有时则相当疏远。诚然，杨布里科斯接受并进一步发展了普罗提诺哲学的某些独特特征，可以被视为普罗提诺与波菲利的后学：这尤其体现在杨布里科斯总体的形而上学与哲学取径上，体现在他对太一与最初本原的论述上，也体现在他对某些著作——如柏拉图《巴门尼德篇》与亚里士多德《范畴篇》——的解经上。另一方面，杨布里科斯相对于普罗提诺与波菲利的独创立场，在其理论与方法两方面都清晰地显现出来（见 Taormina 1999）[^taormina-1999]。
-        step2: |-
-      杨布里科斯在古代晚期哲学中的重要性，无论怎样估计都不为过。卡尔·普雷希特（Karl Praechter）称他为普罗提诺之后的新柏拉图主义第二奠基人，并把他的地位比作克吕西波之于古代斯多葛主义（Praechter 1910: 143）[^praechter-1910]。这一定位恰切地表达了杨布里科斯的历史与哲学分量，但须加限定：与斯多亚学派不同，“新柏拉图主义”并非古代哲学学派，而是一个现代史学范畴（学者们有时会质疑这一范畴的可靠性：见 Catana 2013）[^catana-2013]。如上所述（1.1 节），杨布里科斯很可能是波菲利的弟子，而波菲利又师承普罗提诺。然而，杨布里科斯的学园无论在时间上还是地点上都与普罗提诺的学园彼此分立。因此，尽管晚期有人出于意识形态动机，试图把历代新柏拉图主义解经家重构为一条绵延不断的“金链”（例如希罗克勒斯（Hierocles）《论天意》，载佛提乌（Photius）cod. 214, 173 a；普罗克洛斯《柏拉图神学》I, p. 6.16–7.8），普罗提诺与杨布里科斯之间却并无建制上的连续性；就此而言，局面不同于古代斯多亚。杨布里科斯之所以算不上新柏拉图主义学派的第二奠基人，理由很简单：古代晚期本无一个统一的新柏拉图主义学派。学者们所说的希腊新柏拉图主义，实则是一场面向多元的哲学运动，绵延约三个世纪，囊括散布于罗马帝国各地的若干学派：它们固然共享一些学说与方法，彼此的关系却时密时疏。诚然，杨布里科斯接受并进一步发展了普罗提诺哲学的若干独特之处，可视为普罗提诺与波菲利的后学：这尤其体现在他总体的形而上学与哲学取径上，体现在他对太一与最初本原的论述上，也体现在他对柏拉图《巴门尼德篇》、亚里士多德《范畴篇》等著作的解经上。但另一方面，杨布里科斯相对于普罗提诺与波菲利的独创立场，无论在学说还是在方法上都清晰可辨（见 Taormina 1999）[^taormina-1999]。
+    step1: |-
+      杨布里科斯在古代晚期哲学中的重要性，无论如何估计都不过分。卡尔·普雷希特（Karl Praechter）称他为普罗提诺之后新柏拉图主义的第二奠基人，并认为杨布里科斯的地位类似于克吕西波在古代斯多亚主义中的地位（Praechter 1910: 143）[^praechter-1910]。这一说法恰当地表达了杨布里科斯的历史与哲学意义，但需要限定：与斯多亚学派不同，“新柏拉图主义”并不是一个古代哲学学派，而是一个现代史学范畴（学者们有时倾向于质疑这一范畴的可靠性：见 Catana 2013）[^catana-2013]。如上所述（1.1 节），杨布里科斯很可能是波菲利的弟子，而波菲利又是普罗提诺的弟子。然而，杨布里科斯的学校无论在时间上还是地点上都与普罗提诺的学校分开：因此，尽管晚期有人出于意识形态的动机试图重构一条连续的新柏拉图主义解经家的“金链”（例如见希罗克勒斯（Hierocles），《论天意》，载佛提乌（Photius）cod. 214, 173 a；普罗克洛斯，《柏拉图神学》I, p. 6.16–7.8），但普罗提诺与杨布里科斯之间并不存在建制上的连续性；从这个角度看，情况不同于古代斯多亚学派。杨布里科斯并不是新柏拉图主义学派的第二奠基人，原因很简单：古代晚期并不存在一个统一的新柏拉图主义学派。学者们所谓的希腊新柏拉图主义，实际上是一个多面向的哲学运动，绵延约三个世纪，包括散布于罗马帝国各处的若干学派：这些学派固然共享一些学说与方法，但它们之间的关系有时紧密，有时则相当疏远。诚然，杨布里科斯接受并进一步发展了普罗提诺哲学的某些独特特征，可以被视为普罗提诺与波菲利的后学：这尤其体现在杨布里科斯总体的形而上学与哲学取径上，体现在他对太一与最初本原的论述上，也体现在他对某些著作——如柏拉图《巴门尼德篇》与亚里士多德《范畴篇》——的解经上。另一方面，杨布里科斯相对于普罗提诺与波菲利的独创立场，在其理论与方法两方面都清晰地显现出来（见 Taormina 1999）[^taormina-1999]。
+    step2: |-
+      杨布里科斯在古代晚期哲学中的重要性，无论怎样估计都不为过。卡尔·普雷希特（Karl Praechter）称他为普罗提诺之后的新柏拉图主义第二奠基人，并把他的地位比作克吕西波之于古代斯多亚主义（Praechter 1910: 143）[^praechter-1910]。这一定位恰切地表达了杨布里科斯的历史与哲学分量，但须加限定：与斯多亚学派不同，“新柏拉图主义”并非古代哲学学派，而是一个现代史学范畴（学者们有时会质疑这一范畴的可靠性：见 Catana 2013）[^catana-2013]。如上所述（1.1 节），杨布里科斯很可能是波菲利的弟子，而波菲利又师承普罗提诺。然而，杨布里科斯的学园无论在时间上还是地点上都与普罗提诺的学园彼此分立。因此，尽管晚期有人出于意识形态动机，试图把历代新柏拉图主义解经家重构为一条绵延不断的“金链”（例如希罗克勒斯（Hierocles）《论天意》，载佛提乌（Photius）cod. 214, 173 a；普罗克洛斯《柏拉图神学》I, p. 6.16–7.8），普罗提诺与杨布里科斯之间却并无建制上的连续性；就此而言，局面不同于古代斯多亚。杨布里科斯之所以算不上新柏拉图主义学派的第二奠基人，理由很简单：古代晚期本无一个统一的新柏拉图主义学派。学者们所说的希腊新柏拉图主义，实则是一场面向多元的哲学运动，绵延约三个世纪，囊括散布于罗马帝国各地的若干学派：它们固然共享一些学说与方法，彼此的关系却时密时疏。诚然，杨布里科斯接受并进一步发展了普罗提诺哲学的若干独特之处，可视为普罗提诺与波菲利的后学：这尤其体现在他总体的形而上学与哲学取径上，体现在他对太一与最初本原的论述上，也体现在他对柏拉图《巴门尼德篇》、亚里士多德《范畴篇》等著作的解经上。但另一方面，杨布里科斯相对于普罗提诺与波菲利的独创立场，无论在学说还是在方法上都清晰可辨（见 Taormina 1999）[^taormina-1999]。
   - id: 14
     kind: body
     source: |-
       ### 2.2 Exegesis
-        step1: |-
+    step1: |-
       ### 2.2 解经
-        step2: |-
+    step2: |-
       ### 2.2 解经
   - id: 15
     kind: body
     source: |-
       One of the most conspicuous of Iamblichus’ contributions to emerging Neoplatonism regards his views on exegesis. A typical Late Antique intellectual in this respect, Iamblichus considers the written work of authoritative figures to be sacred and claims to be a mere interpreter of their true, deeper meaning (*nous*).
-        step1: |-
+    step1: |-
       杨布里科斯对新生的新柏拉图主义最引人注目的贡献之一，在于他关于解经的看法。就此而言，他是典型的古代晚期智识人：杨布里科斯认为权威人物的书面著作是神圣的，并自称只是其真实的、更深层的意义（*nous*）的解释者。
-        step2: |-
+    step2: |-
       杨布里科斯对新生的新柏拉图主义最显著的贡献之一，是他关于解经的观点。在这一点上，他是典型的古代晚期智识人：他把权威人物的书面著作奉为神圣，并自称只是其真实而更深层的意义（*nous*）的解释者。
   - id: 16
     kind: body
     source: |-
       Four overarching principles govern Iamblichus’ exegetical practice. First, the idea that every authoritative work is fully self-consistent and strives to demonstrate a certain thesis which acts as its “goal” or “target” (*skopos*). This principle is applied rigorously: for instance, since the *skopos* of the *Timaeus* is the theory of nature, this means that even the work’s prologue, however autonomous it may seem at first glance, should be interpreted in this way (*In Timaeum* [D-1973: Fr. 3]). This amounts to considering literary works living organisms, in accordance with what Plato writes in *Phaedrus* 264C (see Coulter 1976: 73)[^coulter-1976]. Guidelines to determining a given work’s *skopos* are found in a late anonymous composition, the *Prolegomena to Platonic Philosophy* (§§ 21–23).
-        step1: |-
+    step1: |-
       四条总纲性的原则支配着杨布里科斯的解经实践。第一，每一部权威著作都完全自洽，并力图论证某一个充当其“目标”或“鹄的”（*skopos*）的论题。这一原则被严格地贯彻：例如，既然《蒂迈欧篇》的论旨是自然理论，这就意味着，即便该书的序言乍看起来再怎么自成一体，也应当循此来解读（《蒂迈欧注》[D-1973: Fr. 3]）。这相当于把文学作品视为活的机体，与柏拉图在《斐德罗篇》264C 中所写的一致（见 Coulter 1976: 73）[^coulter-1976]。判定一部著作论旨的指导原则，见于晚期一部匿名著作《柏拉图哲学导论》（§§ 21–23）。
-        step2: |-
+    step2: |-
       四条总纲性原则支配着杨布里科斯的解经实践。其一，每一部权威著作都完全自洽，且力图论证某个充当其“目标”或“鹄的”（*skopos*）的论题。这条原则被执行得一丝不苟：例如，既然《蒂迈欧篇》的论旨是自然理论，那么即便其序言乍看之下何等独立成章，也必须依循这一论旨来解读（《蒂迈欧注》[D-1973: Fr. 3]）。这等于把文学作品当作活的机体来看待，正与柏拉图《斐德罗篇》264C 所言相合（见 Coulter 1976: 73）[^coulter-1976]。至于如何判定一部著作的论旨，相关指导原则见于晚期一部匿名著作《柏拉图哲学导论》（§§ 21–23）。
   - id: 17
     kind: body
     source: |-
       The same source (§ 26) provides a list of twelve Platonic dialogues (10 + 2) which, according to Iamblichus, offer an overview of his philosophy and thus encompass the whole theory of reality. The list starts with the *Alcibiades*, taken as an introduction to philosophy and thought to contain the first ten dialogues, as if it were a “seed” (*In Alcibiadem* [D-1973: Fr. 1). The remaining dialogues are subsequently arranged according to the different branches of philosophy (as Porphyry had done with Plotinus’ *Enneads*), while the Aristotelian distinction between *praxis* and *theōria* is simultaneously taken into account. *Praxis* or ethics is exemplified by the *Gorgias* and the *Phaedo*, the former representing politics, the latter catharsis (in accordance with Iamblichus’ conception of virtues, on which see below, Section 7.2). Then comes *theōria* where, as it seems, the *Cratylus* and the *Theaetetus* are taken to provide Plato’s account of logic (the former teaching names, the latter concepts); then come the *Sophist* and the *Politicus*, which supposedly deal with physics—however strange this may seem to us—and finally the *Phaedrus* and the *Symposium*, which deal with theology. The crowning dialogue in the first cycle is the *Philebus*, because its *skopos* is the all-transcendent Good. Then, as a recapitulation of the first cycle, we find a second one consisting in only two works (both of which, remarkably, feature main characters other than Socrates): the *Timaeus* and the *Parmenides*, the former subordinated to the latter as physics is to theology, although both display a degree of perfection and thus are expected to embrace the whole of Plato’s philosophy. This curriculum principle, then, was supposed to bring an author’s *œuvre* into accordance with itself, just as the *skopos* postulated organic unity in a single text.
-        step1: |-
+    step1: |-
       同一来源（§ 26）还给出了一份十二篇柏拉图对话（10 + 2）的清单：据杨布里科斯，这些对话提供了其哲学的总览，从而囊括了关于实在的全部理论。清单始于《阿尔喀比亚德篇》——它被当作哲学的入门，并被认为内含前十篇对话，如同一粒“种子”（《阿尔喀比亚德注》[D-1973: Fr. 1）。其余对话随后按哲学的不同分支排列（如波菲利编排普罗提诺《九章集》时所做的那样），同时一并考虑亚里士多德对*praxis*（实践）与*theōria*（观思）的区分。实践或伦理的例证是《高尔吉亚篇》与《斐多篇》：前者代表政治，后者代表净化（这合乎杨布里科斯的德性观，见下文 7.2 节）。接下来是*theōria*：如所似乎，《克拉提鲁斯篇》与《泰阿泰德篇》被视为提供了柏拉图的逻辑（前者教名称，后者教概念）；然后是《智者篇》与《政治家篇》，它们据说处理物理学——无论这在我们看来多么奇怪；最后是《斐德罗篇》与《会饮篇》，它们处理神学。第一轮的压卷之作是《斐莱布篇》，因为它的论旨是超越一切的本善。然后，作为第一轮的总结，我们看到第二轮，它只由两部著作构成（值得注意的是，两者的主角都不是苏格拉底）：《蒂迈欧篇》与《巴门尼德篇》，前者像物理学服从神学那样从属于后者，尽管两者都显示出某种圆满性，因而被期望囊括柏拉图的全部哲学。于是，这一课程原则旨在使一位作者的著作整体达成自我一致，正如论旨在单一文本中设定了有机统一。
-        step2: |-
+    step2: |-
       同一来源（§ 26）还开列了一份十二篇柏拉图对话（10 + 2）的清单：在杨布里科斯看来，这组对话给出了其哲学的总览，从而囊括关于实在的全部理论。清单以《阿尔喀比亚德篇》开篇：它被奉为哲学入门，并被认为内含前十篇对话，宛如一粒“种子”（《阿尔喀比亚德注》[D-1973: Fr. 1）。其余对话继而按哲学的各分支排列（一如波菲利编排普罗提诺《九章集》的先例），同时兼顾亚里士多德关于*praxis*（实践）与*theōria*（观思）的区分。实践即伦理，以《高尔吉亚篇》与《斐多篇》为代表：前者示政治，后者示净化（此合于杨布里科斯的德性学说，见下文 7.2 节）。接下来是*theōria*：照此安排，《克拉提鲁斯篇》与《泰阿泰德篇》提供柏拉图的逻辑（前者讲授名称，后者讲授概念）；继而《智者篇》与《政治家篇》据说处理物理学——无论这在我们看来多么奇怪；最后是《斐德罗篇》与《会饮篇》，所涉为神学。第一轮的压卷之作是《斐莱布篇》，因为其论旨乃是超越一切的本善。随后，作为第一轮的重演与总结，出现了仅含两部著作的第二轮（值得注意的是，两部的主角都非苏格拉底）：《蒂迈欧篇》与《巴门尼德篇》——前者之从属于后者，犹如物理学之从属于神学；但两者都圆满自足，故被期望囊括柏拉图哲学的整体。这一课程原则由此旨在使作者的著作整体自相协调，恰如论旨设定了单一文本内的有机统一。
   - id: 18
     kind: body
     source: |-
       All that was left at this point was to establish harmony between different authors; and this is where *sumphōnia* or “agreement” comes into play. Building on Porphyry’s efforts (as opposed to Plotinus’ views), Iamblichus fully integrated Aristotle into Platonism (see Section 5 below); he also took into account Pythagoras and the pseudo-Pythagorean corpus (see Section 4.3). References to other schools are scarce and mostly critical. Iamblichus’ philosophical authorities, then, are Plato, Aristotle, and the Pythagoreans; they were complemented by several texts held to be divinely inspired, of which the two most important ones are the *Chaldean Oracles* (a second-century collection of verse oracles which provide a Platonic-influenced revelation mostly based on the *Timaeus*, and which develop a dualistic view about matter and a divine energy called “fire”) and the pseudo-Orphic *Rhapsodies* in 24 books. The *Chaldean Oracles* at least are known to have been commented upon by Iamblichus, in a huge commentary comprising at least 28 books (Damascius, *De Principiis* II, 1.5–8). (on Iamblichus’ religious views, see below, Section 6.3.)
-        step1: |-
+    step1: |-
       至此尚存的，只是确立不同作者之间的和谐；而这正是*sumphōnia*即“一致”发挥作用之处。在波菲利的努力之上（与普罗提诺的立场相对），杨布里科斯把亚里士多德完全整合进柏拉图主义（见下文第 5 节）；他还把毕达哥拉斯与伪毕达哥拉斯文集纳入考量（见 4.3 节）。对其他学派的引证稀少且多带批判。于是，杨布里科斯的哲学权威是柏拉图、亚里士多德与毕达哥拉斯派；此外还有若干被认为受神启的文本与之互补，其中最重要的两种是《迦勒底神谕》——一部二世纪的神谕诗集，提供一种以《蒂迈欧篇》为主要基础的、受柏拉图影响的启示，并发展出关于质料与一种称为“火”的神圣能量的二元论观点——以及 24 卷的伪俄耳甫斯教《圣辞》。至少《迦勒底神谕》据知曾被杨布里科斯注疏，其注疏规模庞大，至少有 28 卷（达马斯基乌斯，《论第一原理》II, 1.5–8）。（关于杨布里科斯的宗教观，见下文 6.3 节。）
-        step2: |-
+    step2: |-
       至此所余的，只是确立不同作者之间的和谐；而这正是*sumphōnia*（“一致”）登场之处。在波菲利努力的基础上（与普罗提诺的观点相反），杨布里科斯把亚里士多德完整地纳入柏拉图主义（见下文第 5 节）；同时他也将毕达哥拉斯与伪毕达哥拉斯文集纳入视野（见 4.3 节）。至于其他学派，征引稀少且多带批判。于是，杨布里科斯的哲学权威便是柏拉图、亚里士多德与毕达哥拉斯派；与之互补的还有若干奉为神启的文本，其中最重要的两种是《迦勒底神谕》与 24 卷的伪俄耳甫斯教《圣辞》。《迦勒底神谕》是二世纪的一部神谕诗集，提供了以《蒂迈欧篇》为主要底本的、受柏拉图影响的启示，并发展出一种关于质料与名为“火”的神圣能量的二元论。至少《迦勒底神谕》确曾被杨布里科斯注疏，其注规模惊人，至少达 28 卷（达马斯基乌斯，《论第一原理》II, 1.5–8）。（关于杨布里科斯的宗教观，见下文 6.3 节。）
   - id: 19
     kind: body
     source: |-
       ### 2.3 Philosophy and theology
-        step1: |-
+    step1: |-
       ### 2.3 哲学与神学
-        step2: |-
+    step2: |-
       ### 2.3 哲学与神学
   - id: 20
     kind: body
     source: |-
       Iamblichus brought about a shift towards religion and theology in Neoplatonism which proved crucial for the later development of this movement and for its Christian appropriation (see Lecerf and Taormina 2022). The *Reply to Porphyry*, where Iamblichus rejects Porphyry’s over-confident intellectualism in theological and religious matters, is certainly our major source on debates in early Neoplatonism. Scholars have traditionally described Iamblichus’ stance as irrational, contrasting it with Plotinus and Porphyry’s rational and philosophical approach (see Dodds 1951: 285–298)[^dodds-1951]. Recent scholarship, however, has effectively questioned this view (see Tanaseanu-Döbler 2013)[^tanaseanu-döbler-2013]. In his *Reply to Porphyry* (I, 2 [SS-2013: 4.5–5.11])[^ss--2013] Iamblichus distinguishes three disciplines, each with its own distinctive methods: philosophy, theology, and theurgy. Theurgy certainly goes beyond reason and philosophy, but Iamblichus’ appeal to theurgy and rituals is based on sophisticated philosophical views and arguments dealing with the nature of divine beings and the status of human souls (see below, Section 6). It would therefore be misleading to draw a strict opposition between theurgy and rational methods. What is distinctive about Iamblichus *vis-à-vis* Plotinian Platonism is the thorough integration of theological traditions into his account of reality. This emerges in two related areas. Whether or not he wrote a work by this title, Iamblichus is the first Neoplatonist to develop a “Platonic theology” (see Proclus, *Platonic Theology* III, 44.1–5 [Saffrey & Westerink 1968–1997])[^saffrey-1968]. This approach will be carried further in Athenian Neoplatonism, especially by Proclus. Plotinus had already connected the hypotheses about the One in the second part of Plato’s *Parmenides* with his distinction of metaphysical principles (see *Enn.* V, 1.8). Iamblichus goes one step further in that he connects the metaphysical reading of this dialogue with the gods of the Greek pantheon. His interpretation of Plato’s *Parmenides* can therefore be described not only as “metaphysical” but also as “theological”. In addition to this, Iamblichus provides a harmonising account of the different theological traditions, again paving the way for the later developments in Athenian Neoplatonism (see below, Section 3.2). In his *Reply to Porphyry* Iamblichus establishes a triad of foundational traditions: the Egyptian, the Chaldaic and the Greek, represented by the philosophical wisdom of Pythagoras and Plato. The term “Chaldaic” refers to the *Chaldaean Oracles* (see above, Section 2.2). The extant evidence suggests that Plotinus and Porphyry accorded limited significance to the *Oracles* which, instead, become a crucial source for Iamblichus: he wrote an extensive commentary on this work and the revealed Platonizing theology of the *Oracles* is an integral part of his thought. The Egyptian tradition is represented by the so-called Hermetic books and, according to Iamblichus, this is the genuine source of Greek philosophy (*Reply to Porphyry* I, 2 [SS-2013: 4.7–9])[^ss--2013].
-        step1: |-
+    step1: |-
       杨布里科斯在新柏拉图主义中促成了一次向宗教与神学的转折，这对该运动此后的发展及其被基督教的吸收都至关重要（见 Lecerf and Taormina 2022）。《答波菲利》中，杨布里科斯驳斥了波菲利在神学与宗教事务上过分自信的理智主义；它无疑是我们了解早期新柏拉图主义内部辩论的最重要来源。学界传统上把杨布里科斯的立场描述为非理性的，并与普罗提诺和波菲利理性而哲学的进路相对照（见 Dodds 1951: 285–298）[^dodds-1951]。然而晚近的研究已有效地质疑了这一看法（见 Tanaseanu-Döbler 2013）[^tanaseanu-döbler-2013]。在《答波菲利》（I, 2 [SS-2013: 4.5–5.11]）[^ss--2013]中，杨布里科斯区分了三门学科，每门各有其独特的方法：哲学、神学与通神术。通神术当然超出了理性与哲学，但杨布里科斯诉诸通神术与仪式，其根据是关于神圣存在者之本性以及人类灵魂之地位的一套精微的哲学观点与论证（见下文第 6 节）。因此，在通神术与理性方法之间画出一道截然的对立，会引人误入歧途。杨布里科斯相对于普罗提诺式柏拉图主义的独特之处，在于他把神学传统彻底整合进了自己的实在图景。这一点显现在两个相互关联的领域。无论是否写过以此为题的著作，杨布里科斯都是第一位发展出“柏拉图神学”的新柏拉图主义者（见普罗克洛斯，《柏拉图神学》III, 44.1–5 [Saffrey & Westerink 1968–1997]）[^saffrey-1968]。这一取径将在雅典新柏拉图主义中——尤其在普罗克洛斯那里——得到进一步推进。普罗提诺已把《巴门尼德篇》第二部分关于太一的诸假设与其形而上学本原的区分联系起来（见《九章集》V, 1.8）。杨布里科斯更进一步：他把这部对话的形而上学解读与希腊万神殿中的诸神联系起来。因此，他对柏拉图《巴门尼德篇》的解读不仅可以称为“形而上学的”，也可以称为“神学的”。除此之外，杨布里科斯对各种神学传统给出了一个调和性的说明，再次为雅典新柏拉图主义的后续发展铺平了道路（见下文 3.2 节）。在《答波菲利》中，杨布里科斯确立了三大奠基传统：埃及的、迦勒底的与希腊的，第三者以毕达哥拉斯与柏拉图的哲学智慧为代表。“迦勒底的”一词指《迦勒底神谕》（见上文 2.2 节）。现存的证据表明，普罗提诺与波菲利对《神谕》的评价有限；相反，它成了杨布里科斯的关键来源：他为这部著作写了浩繁的注疏，而《神谕》中启示性的、柏拉图化的神学是其思想的有机部分。埃及传统则由所谓的赫尔墨斯文集来代表；依杨布里科斯之见，这才是希腊哲学的真正源头（《答波菲利》I, 2 [SS-2013: 4.7–9]）[^ss--2013]。
-        step2: |-
+    step2: |-
       杨布里科斯在新柏拉图主义中促成了一次转向宗教与神学的转折；这对该运动此后的走向、乃至它后来被基督教吸收，都至关重要（见 Lecerf and Taormina 2022）。在《答波菲利》中，杨布里科斯驳斥了波菲利在神学与宗教事务上过分自信的理智主义；此书无疑是我们了解早期新柏拉图主义内部论辩的头号文献。学界传统上把杨布里科斯的立场描述为非理性的，以之与普罗提诺和波菲利理性而哲学的进路相对照（见 Dodds 1951: 285–298）[^dodds-1951]。然而，晚近研究已对这一看法提出了有力质疑（见 Tanaseanu-Döbler 2013）[^tanaseanu-döbler-2013]。在《答波菲利》（I, 2 [SS-2013: 4.5–5.11]）[^ss--2013]中，杨布里科斯区分了三门学科，各门都有其独特方法：哲学、神学与通神术。通神术当然超越理性与哲学，但杨布里科斯对通神术与仪式的诉诸，是立足于一套精微的哲学观点与论证的，所涉正是神圣存在者的本性与人类灵魂的地位（见下文第 6 节）。因此，在通神术与理性方法之间画一道截然的对立，便会引人误入歧途。杨布里科斯区别于普罗提诺式柏拉图主义之处，在于他把神学传统彻底整合进自己的实在图景。这显现在两个相互关联的领域。且不论他是否写过以此为题的书，杨布里科斯都是第一位阐发“柏拉图神学”的新柏拉图主义者（见普罗克洛斯《柏拉图神学》III, 44.1–5 [Saffrey & Westerink 1968–1997]）[^saffrey-1968]。这一取径将在雅典新柏拉图主义中——尤其在普罗克洛斯那里——被继续推进。普罗提诺早已把《巴门尼德篇》第二部分关于太一的诸假设与其形而上学本原的区分勾连起来（见《九章集》V, 1.8）；杨布里科斯更进一步，把这部对话的形而上学解读与希腊万神殿的诸神勾连起来。于是，他对柏拉图《巴门尼德篇》的解读不仅可称“形而上学的”，也可称“神学的”。此外，杨布里科斯还为各神学传统给出调和性的说明，再度为雅典新柏拉图主义后来的发展铺路（见下文 3.2 节）。在《答波菲利》中，杨布里科斯立定了三大奠基传统：埃及的、迦勒底的与希腊的；第三者以毕达哥拉斯与柏拉图的哲学智慧为代表。“迦勒底的”一词指《迦勒底神谕》（见上文 2.2 节）。现存证据表明，普罗提诺与波菲利给《神谕》的分量有限；而在杨布里科斯那里，它却成了关键来源：他为这部书写下浩繁的注疏，《神谕》那启示性的、柏拉图化的神学由此成为其思想的有机部分。至于埃及传统，其代表是所谓的赫尔墨斯文集；依杨布里科斯之见，这才是希腊哲学的真正源头（《答波菲利》I, 2 [SS-2013: 4.7–9]）[^ss--2013]。
   - id: 21
     kind: body
     source: |-
       ### 2.4 Iamblichus’ posterity
-        step1: |-
+    step1: |-
       ### 2.4 杨布里科斯的后嗣
-        step2: |-
+    step2: |-
       ### 2.4 杨布里科斯的后嗣
   - id: 22
     kind: body
     source: |-
       Iamblichus’ philosophical stance is connected to some views which separate him from Plotinus and Porphyry and lay the ground for later Neoplatonism, in particular that of Proclus and of the so-called Athenian school of the fifth and sixth century AD. These views concern: the status of embodied souls (according to Iamblichus there is no superior part of our soul which resides in intelligible being); the role of religious acts revealed by the gods to enable the soul’s ascension to the intelligible realm (as already noted, for Iamblichus, philosophical and intellectual contemplation alone are not sufficient and theurgy is necessary); a harmonising account of the various theological traditions and the privileged role assigned to Pythagoras and to the *Chaldaean Oracles*; an account of principles and of the metaphysical hierarchy which, while based on Plotinus’ and Porphyry’s doctrines, includes more degrees and intermediate levels; and, finally, a tendency towards scholasticism and the systematization of exegetical methods.
-        step1: |-
+    step1: |-
       杨布里科斯的哲学立场关联着一些使他区别于普罗提诺与波菲利、并为后来的新柏拉图主义——尤其是普罗克洛斯与所谓公元五、六世纪雅典学派的新柏拉图主义——奠基的观点。这些观点涉及：具身灵魂的地位（依杨布里科斯，我们灵魂中没有任何居于理知存在中的高等部分）；诸神启示的宗教行为在使灵魂上升到理知领域方面的作用（如前所述，对杨布里科斯而言，单凭哲学与理智的静观并不充分，通神术是必要的）；对各种神学传统的调和性说明，以及赋予毕达哥拉斯与《迦勒底神谕》的特权地位；一个以普罗提诺与波菲利学说为基础、但包含更多层级与中间层次的关于本原与形而上学等级的说明；最后，一种趋向经院化与解经方法系统化的倾向。
-        step2: |-
+    step2: |-
       杨布里科斯的哲学立场牵连着若干观点：它们使他与普罗提诺、波菲利分道，并为后来的新柏拉图主义——尤其是普罗克洛斯与所谓公元五、六世纪的雅典学派——奠基。这些观点涉及：具身灵魂的地位（依杨布里科斯，我们灵魂中并无任何栖居于理知存在之中的高等部分）；诸神启示的宗教行为在助灵魂上升至理知领域方面的作用（如前所述，对杨布里科斯而言，单凭哲学与理智的静观并不足够，通神术实属必要）；对诸神学传统的调和性说明，以及赋予毕达哥拉斯与《迦勒底神谕》的特权地位；一套关于本原与形而上学等级的说明——它以普罗提诺与波菲利的学说为基础，却纳入了更多层级与中间层次；最后，则是趋向经院化与解经方法系统化的倾向。
   - id: 23
     kind: body
     source: |-
       A picture of Late Antique philosophy jumping from Iamblichus to Proclus would however be misleading. Actually, more than one century separates Iamblichus’ death from the foundation of the Neoplatonist school at Athens by Plutarch of Athens. Some crucial details escape us: for example, we don’t even know how and when Iamblichus’ teaching entered the philosophical schools in Athens (Goulet 2012)[^goulet-2012]. In addition to this, Iamblichus’ posterity in the fourth century does not suggest that his philosophical approach was immediately and unanimously followed. Praechter (1910) regarded those disciples of Iamblichus’ who settled in Pergamon, gathering around Iamblichus’ student Aedesius, as forming a school (the “school of Pergamon”), where rational methods were abandoned in favor of theurgy and religious practices. In addition, these philosophers are sometimes regarded as forming an ideologically engaged Pagan group threatened by Christian persecution after Constantine. Such views are somewhat oversimplistic. Our main source for reconstructing this phase of Neoplatonism is Eunapius’ *Lives of Philosophers and Sophists* (Goulet 2014)[^goulet-2014]. As already noted, Eunapius is a tendentious source, with his own hagiographical agenda and with little taste for philosophical technicalities. Whatever we make of this, he says that Iamblichus’ students formed a large crowd and that those who were eager to learn flocked to him from all parts (see Eunapius *Lives* VI, 4 [Goulet 2014: 12–14])[^goulet-2014]. This and other passages suggest that Pagan philosophical teaching definitely did not go underground under and after Constantine (the elite of the Roman Empire was still largely Pagan at that time). Eunapius’ list of Iamblichus’ students confirms the echo of his teaching: the list includes Sopater the Syrian (see above, Section 1.1), Aedesius, Eustathius from Cappadocia, Theodorus, and Euphrasius (see Eunapius *Lives* V, 5 [Goulet 2014: 12.14–20])[^goulet-2014]. Among these, Theodorus is likely to coincide with Theodorus of Asine who, while being a student of Iamblichus, is said to have held different philosophical views and reverted to an intellectualist Platonism of the Plotinian sort. Aedesius’ school too certainly hosted different positions and internal debates. Thus Eusebius of Myndus was a member of that school, but apparently held an attitude closer to that of Plotinus and he was inclined to reject theurgical and magical practices. On the other hand, theurgy was adopted by Aedesius’ Iamblichean disciples such as Chrysanthius of Sardis, Maximus of Ephesus, and Priscus of Thesprotia. Maximus and Priscus were charismatic figures who are mainly known as masters and counsellors of the Emperor Julian (Julian studied philosophy at Pergamon around 350). Iamblichus’ teaching actually forms the philosophical background of Julian’s project of restoration of Paganism, as shown by Julian’s own writings (see De Vita 2011) and by the short treatise *On the Gods and the Cosmos* by one Salustius (possibly Saturninius Secundus Salutius, a dignitary at Julian’s court). It is worth noting, however, that even committed theurgists like Maximus did not abandon rational methods (we know about Maximus’ work on Aristotle’s *Categories* and *Prior Analytics*).
-        step1: |-
-      然而，一幅从杨布里科斯直接跳到普罗克洛斯的古代晚期哲学图景会引人误解。实际上，杨布里科斯去世与雅典的普鲁塔克（Plutarch of Athens）创建雅典新柏拉图主义学园之间，相隔一个多世纪。一些关键细节我们无从知晓：例如，我们甚至不知道杨布里科斯的学说如何、何时进入雅典的哲学学园（Goulet 2012）[^goulet-2012]。此外，杨布里科斯在四世纪的后学状况并不表明其哲学取径立刻得到一致追随。普雷希特（Praechter 1910）把那些聚拢在杨布里科斯弟子埃德西乌斯（Aedesius）周围、定居帕加马的弟子们视为一个学派（“帕加马学派”），在那里理性方法被弃置，转而倚重通神术与宗教实践。此外，这些哲学家有时被视为一个在意识形态上投入的异教团体，在君士坦丁之后受到基督教迫害的威胁。这类看法有些过于简单化。我们重构新柏拉图主义这一阶段的主要来源是欧纳皮乌斯的《哲人与智者传》（Goulet 2014）[^goulet-2014]。如前所述，欧纳皮乌斯是一个有倾向性的来源，自有其圣徒传式的议程，且对哲学技术细节兴致寥寥。无论我们如何评判，他说杨布里科斯的学生聚成一大群，渴望学习的人从各地涌向他（见欧纳皮乌斯《哲人与智者传》VI, 4 [Goulet 2014: 12–14]）[^goulet-2014]。这一段与其他段落表明，异教哲学教学在君士坦丁治下及其后肯定没有转入地下（当时罗马帝国的精英大多仍是异教徒）。欧纳皮乌斯的杨布里科斯学生名单印证了其教学的回响：名单包括叙利亚人索帕特（见上文 1.1 节）、埃德西乌斯、来自卡帕多基亚的欧斯塔提乌斯（Eustathius）、狄奥多鲁斯（Theodorus）与欧弗拉西乌斯（Euphrasius）（见欧纳皮乌斯《哲人与智者传》V, 5 [Goulet 2014: 12.14–20]）[^goulet-2014]。其中，狄奥多鲁斯很可能就是阿西内的狄奥多鲁斯（Theodorus of Asine）；他虽是杨布里科斯的弟子，却据说持不同的哲学观点，退回到普罗提诺式的理智主义柏拉图主义。埃德西乌斯的学园也无疑容纳了不同的立场与内部辩论。例如，缪恩杜斯的优西比乌（Eusebius of Myndus）是该学园的成员，但态度显然更接近普罗提诺，并倾向于拒斥通神术与魔法实践。另一方面，通神术则被埃德西乌斯的扬布里柯斯派弟子们采纳，如萨迪斯的克吕桑提乌斯（Chrysanthius of Sardis）、以弗所的马克西穆斯（Maximus of Ephesus）与特斯普罗提亚的普里斯库斯（Priscus of Thesprotia）。马克西穆斯与普里斯库斯是魅力型人物，主要作为皇帝尤利安的师傅与顾问而为人所知（尤利安约于 350 年在帕加马学习哲学）。杨布里科斯的学说实际上构成了尤利安复兴异教计划的哲学背景，尤利安本人的著作为此作证（见 De Vita 2011），一位名叫萨卢斯提乌斯（Salustius）者（可能即萨图尔尼尼乌斯·塞昆杜斯·萨卢提乌斯，尤利安宫廷的一位显贵）的短论《论诸神与宇宙》亦然。然而值得注意的是，即便是马克西穆斯这样虔诚的通神术师也没有放弃理性方法（我们知道马克西穆斯著有关于亚里士多德《范畴篇》与《前分析篇》的作品）。
-        step2: |-
-      不过，一幅从杨布里科斯一步跨到普罗克洛斯的古代晚期哲学图景，会引人误解。事实上，从杨布里科斯辞世到雅典的普鲁塔克（Plutarch of Athens）创建雅典新柏拉图主义学园，相隔一个多世纪。若干关键细节我们无从把握：例如，我们甚至不知道杨布里科斯的学说于何时、以何种方式进入雅典的哲学学园（Goulet 2012）[^goulet-2012]。此外，四世纪中杨布里科斯后学的状况也不表明其哲学取径立刻赢得一致追随。普雷希特（Praechter 1910）把定居帕加马、聚拢在杨布里科斯弟子埃德西乌斯（Aedesius）周围的那些弟子视为一个学派（“帕加马学派”），认为在那里理性方法被弃置，取而代之的是通神术与宗教实践。此外，这些哲学家有时又被当作一个意识形态上高度投入的异教团体，在君士坦丁之后处于基督教迫害的威胁之下。这类看法不免失之简单。我们重构新柏拉图主义这一阶段的主要依据是欧纳皮乌斯的《哲人与智者传》（Goulet 2014）[^goulet-2014]。如前所述，欧纳皮乌斯是一个有倾向性的来源：自有圣徒传式的议程，对哲学的技术细节也兴味索然。姑且不论如何评价，他确实说到杨布里科斯的学生聚成一大群，渴望向学之人从四方涌来（见欧纳皮乌斯《哲人与智者传》VI, 4 [Goulet 2014: 12–14]）[^goulet-2014]。这一段与其他段落表明，异教哲学教学在君士坦丁治下及其后并未转入地下（当时罗马帝国的精英大多仍是异教徒）。欧纳皮乌斯所列的杨布里科斯弟子名单印证了其教学的回响：名单中有叙利亚人索帕特（见上文 1.1 节）、埃德西乌斯、来自卡帕多基亚的欧斯塔提乌斯（Eustathius）、狄奥多鲁斯（Theodorus）与欧弗拉西乌斯（Euphrasius）（见欧纳皮乌斯《哲人与智者传》V, 5 [Goulet 2014: 12.14–20]）[^goulet-2014]。其中，狄奥多鲁斯很可能就是阿西内的狄奥多鲁斯（Theodorus of Asine）：他虽师从杨布里科斯，却据说持不同见解，退回到普罗提诺式的理智主义柏拉图主义。埃德西乌斯的学园无疑也容纳不同的立场与内部论辩。例如，缪恩杜斯的优西比乌（Eusebius of Myndus）即是该学园成员，但态度显然更近于普罗提诺，倾向于拒斥通神术与魔法实践。另一方面，通神术为埃德西乌斯门下的扬布里柯斯派弟子所采纳，如萨迪斯的克吕桑提乌斯（Chrysanthius of Sardis）、以弗所的马克西穆斯（Maximus of Ephesus）与特斯普罗提亚的普里斯库斯（Priscus of Thesprotia）。马克西穆斯与普里斯库斯皆魅力人物，主要以皇帝尤利安的师傅与顾问身份为人所知（尤利安约于 350 年在帕加马研习哲学）。杨布里科斯的学说实际上构成了尤利安复兴异教之事业的哲学底色：尤利安本人的著述为证（见 De Vita 2011），一位名叫萨卢斯提乌斯（Salustius）者（可能即尤利安宫廷显贵萨图尔尼尼乌斯·塞昆杜斯·萨卢提乌斯，Saturninius Secundus Salutius）的短论《论诸神与宇宙》亦然。不过值得注意：即便是马克西穆斯这样虔诚的通神术师，也未曾放弃理性方法（我们知道马克西穆斯撰有关于亚里士多德《范畴篇》与《前分析篇》的著作）。
+    step1: |-
+      然而，一幅从杨布里科斯直接跳到普罗克洛斯的古代晚期哲学图景会引人误解。实际上，杨布里科斯去世与雅典的普鲁塔克（Plutarch of Athens）创建雅典新柏拉图主义学园之间，相隔一个多世纪。一些关键细节我们无从知晓：例如，我们甚至不知道杨布里科斯的学说如何、何时进入雅典的哲学学园（Goulet 2012）[^goulet-2012]。此外，杨布里科斯在四世纪的后学状况并不表明其哲学取径立刻得到一致追随。普雷希特（Praechter 1910）把那些聚拢在杨布里科斯弟子埃德西乌斯（Aedesius）周围、定居帕加马的弟子们视为一个学派（“帕加马学派”），在那里理性方法被弃置，转而倚重通神术与宗教实践。此外，这些哲学家有时被视为一个在意识形态上投入的异教团体，在君士坦丁之后受到基督教迫害的威胁。这类看法有些过于简单化。我们重构新柏拉图主义这一阶段的主要来源是欧纳皮乌斯的《哲人与智者传》（Goulet 2014）[^goulet-2014]。如前所述，欧纳皮乌斯是一个有倾向性的来源，自有其圣徒传式的议程，且对哲学技术细节兴致寥寥。无论我们如何评判，他说杨布里科斯的学生聚成一大群，渴望学习的人从各地涌向他（见欧纳皮乌斯《哲人与智者传》VI, 4 [Goulet 2014: 12–14]）[^goulet-2014]。这一段与其他段落表明，异教哲学教学在君士坦丁治下及其后肯定没有转入地下（当时罗马帝国的精英大多仍是异教徒）。欧纳皮乌斯的杨布里科斯学生名单印证了其教学的回响：名单包括叙利亚人索帕特（见上文 1.1 节）、埃德西乌斯、来自卡帕多基亚的欧斯塔提乌斯（Eustathius）、狄奥多鲁斯（Theodorus）与欧弗拉西乌斯（Euphrasius）（见欧纳皮乌斯《哲人与智者传》V, 5 [Goulet 2014: 12.14–20]）[^goulet-2014]。其中，狄奥多鲁斯很可能就是阿西内的狄奥多鲁斯（Theodorus of Asine）；他虽是杨布里科斯的弟子，却据说持不同的哲学观点，退回到普罗提诺式的理智主义柏拉图主义。埃德西乌斯的学园也无疑容纳了不同的立场与内部辩论。例如，缪恩杜斯的优西比乌（Eusebius of Myndus）是该学园的成员，但态度显然更接近普罗提诺，并倾向于拒斥通神术与魔法实践。另一方面，通神术则被埃德西乌斯的杨布里科斯派弟子们采纳，如萨迪斯的克吕桑提乌斯（Chrysanthius of Sardis）、以弗所的马克西穆斯（Maximus of Ephesus）与特斯普罗提亚的普里斯库斯（Priscus of Thesprotia）。马克西穆斯与普里斯库斯是魅力型人物，主要作为皇帝尤利安的师傅与顾问而为人所知（尤利安约于 350 年在帕加马学习哲学）。杨布里科斯的学说实际上构成了尤利安复兴异教计划的哲学背景，尤利安本人的著作为此作证（见 De Vita 2011），一位名叫萨卢斯提乌斯（Salustius）者（可能即萨图尔尼尼乌斯·塞昆杜斯·萨卢提乌斯，尤利安宫廷的一位显贵）的短论《论诸神与宇宙》亦然。然而值得注意的是，即便是马克西穆斯这样虔诚的通神术师也没有放弃理性方法（我们知道马克西穆斯著有关于亚里士多德《范畴篇》与《前分析篇》的作品）。
+    step2: |-
+      不过，一幅从杨布里科斯一步跨到普罗克洛斯的古代晚期哲学图景，会引人误解。事实上，从杨布里科斯辞世到雅典的普鲁塔克（Plutarch of Athens）创建雅典新柏拉图主义学园，相隔一个多世纪。若干关键细节我们无从把握：例如，我们甚至不知道杨布里科斯的学说于何时、以何种方式进入雅典的哲学学园（Goulet 2012）[^goulet-2012]。此外，四世纪中杨布里科斯后学的状况也不表明其哲学取径立刻赢得一致追随。普雷希特（Praechter 1910）把定居帕加马、聚拢在杨布里科斯弟子埃德西乌斯（Aedesius）周围的那些弟子视为一个学派（“帕加马学派”），认为在那里理性方法被弃置，取而代之的是通神术与宗教实践。此外，这些哲学家有时又被当作一个意识形态上高度投入的异教团体，在君士坦丁之后处于基督教迫害的威胁之下。这类看法不免失之简单。我们重构新柏拉图主义这一阶段的主要依据是欧纳皮乌斯的《哲人与智者传》（Goulet 2014）[^goulet-2014]。如前所述，欧纳皮乌斯是一个有倾向性的来源：自有圣徒传式的议程，对哲学的技术细节也兴味索然。姑且不论如何评价，他确实说到杨布里科斯的学生聚成一大群，渴望向学之人从四方涌来（见欧纳皮乌斯《哲人与智者传》VI, 4 [Goulet 2014: 12–14]）[^goulet-2014]。这一段与其他段落表明，异教哲学教学在君士坦丁治下及其后并未转入地下（当时罗马帝国的精英大多仍是异教徒）。欧纳皮乌斯所列的杨布里科斯弟子名单印证了其教学的回响：名单中有叙利亚人索帕特（见上文 1.1 节）、埃德西乌斯、来自卡帕多基亚的欧斯塔提乌斯（Eustathius）、狄奥多鲁斯（Theodorus）与欧弗拉西乌斯（Euphrasius）（见欧纳皮乌斯《哲人与智者传》V, 5 [Goulet 2014: 12.14–20]）[^goulet-2014]。其中，狄奥多鲁斯很可能就是阿西内的狄奥多鲁斯（Theodorus of Asine）：他虽师从杨布里科斯，却据说持不同见解，退回到普罗提诺式的理智主义柏拉图主义。埃德西乌斯的学园无疑也容纳不同的立场与内部论辩。例如，缪恩杜斯的优西比乌（Eusebius of Myndus）即是该学园成员，但态度显然更近于普罗提诺，倾向于拒斥通神术与魔法实践。另一方面，通神术为埃德西乌斯门下的杨布里科斯派弟子所采纳，如萨迪斯的克吕桑提乌斯（Chrysanthius of Sardis）、以弗所的马克西穆斯（Maximus of Ephesus）与特斯普罗提亚的普里斯库斯（Priscus of Thesprotia）。马克西穆斯与普里斯库斯皆魅力人物，主要以皇帝尤利安的师傅与顾问身份为人所知（尤利安约于 350 年在帕加马研习哲学）。杨布里科斯的学说实际上构成了尤利安复兴异教之事业的哲学底色：尤利安本人的著述为证（见 De Vita 2011），一位名叫萨卢斯提乌斯（Salustius）者（可能即尤利安宫廷显贵萨图尔尼尼乌斯·塞昆杜斯·萨卢提乌斯，Saturninius Secundus Salutius）的短论《论诸神与宇宙》亦然。不过值得注意：即便是马克西穆斯这样虔诚的通神术师，也未曾放弃理性方法（我们知道马克西穆斯撰有关于亚里士多德《范畴篇》与《前分析篇》的著作）。
   - id: 24
     kind: body
     source: |-
       In addition to internal debates among Iamblichus’ disciples, fourth-century philosophy includes an overtly anti-Iamblichean trend. This is the case with Themistius (orator, commentator of Aristotle and authoritative member of the Senate in Constantinople), who did not endorse Iamblichus’ philosophy and did not show any sympathy for his theurgic and Pythagorean teaching. He actually sharply criticizes the new philosophical approach represented by the “man of Chalcis” (an allusion to Iamblichus: see Themistius, *Or*. 23, 295b). Themistius engaged in a controversy with Maximus of Ephesus over Aristotle’s logic in Constantinople, where Julian acted as arbiter (Ammonius, *In Analytica Priora*, p. 31.11–23). Furthermore, Themistius regarded the Pythagorean Archytas’ treatise on the categories as spurious and argued that the author was not a Pythagorean at all (Boethius, *In Categorias*, PL 64, 162 A). By doing so Themistius actually removed the main support for Iamblichus’ Pythagorean and metaphysical reading of Aristotle. Iamblichus’ philosophy, then, was only gradually accepted and it was regarded with both consensus and disagreement in its immediate posterity. Certainly, Iamblichus’ philosophical approach did not entail any abandonment of rational methods, not even among those who enthusiastically embraced theurgy.
-        step1: |-
-      除了杨布里科斯弟子内部的辩论之外，四世纪哲学还包括一种公开的反扬布里柯斯派潮流。特米斯提乌斯（Themistius）即属此例（演说家、亚里士多德注家、君士坦丁堡元老院的权威成员），他不赞同杨布里科斯的哲学，对其通神术与毕达哥拉斯式的教导也不表同情。他实际上尖锐批判了以“哈尔基斯人”（对杨布里科斯的影射：见特米斯提乌斯，《演说》23, 295b）为代表的新哲学取径。特米斯提乌斯还在君士坦丁堡就亚里士多德逻辑与以弗所的马克西穆斯展开论战，尤利安充当仲裁（阿莫尼俄斯，《前分析篇注》，p. 31.11–23）。此外，特米斯提乌斯认为毕达哥拉斯派阿尔基塔斯（Archytas）论范畴的著作是伪作，并主张其作者根本不是毕达哥拉斯派（波爱修，《范畴篇注》，PL 64, 162 A）。如此一来，特米斯提乌斯实际上抽掉了杨布里科斯对亚里士多德作毕达哥拉斯式与形而上学解读的主要支柱。于是，杨布里科斯的哲学只是逐渐获得接受，在其直接后学中既有赞同也有异议。当然，杨布里科斯的哲学取径并不要求放弃理性方法，即便在最热情拥抱通神术的人那里也是如此。
-        step2: |-
-      除杨布里科斯弟子的内部论辩外，四世纪哲学中还出现了一股公开的反扬布里柯斯派潮流。特米斯提乌斯（Themistius）——演说家、亚里士多德注家、君士坦丁堡元老院的权威人物——即属此列：他既不认同杨布里科斯的哲学，对其通神术与毕达哥拉斯式教导也毫无同情。他着实尖锐抨击了以“哈尔基斯人”（暗指杨布里科斯：见特米斯提乌斯《演说》23, 295b）为代表的新哲学取径。特米斯提乌斯还就亚里士多德逻辑与以弗所的马克西穆斯在君士坦丁堡公开论战，尤利安亲自充当仲裁（阿莫尼俄斯《前分析篇注》，p. 31.11–23）。此外，特米斯提乌斯断定毕达哥拉斯派阿尔基塔斯（Archytas）那部论范畴的著作为伪作，主张其作者根本不是毕达哥拉斯派（波爱修《范畴篇注》，PL 64, 162 A）。如此一来，特米斯提乌斯实际上拆除了杨布里科斯对亚里士多德作毕达哥拉斯式、形而上学解读的主要支柱。于是，杨布里科斯的哲学只是逐渐赢得接受；在其直接后学之中，附和与异议并存。当然，杨布里科斯的哲学取径绝不意味着放弃理性方法——即便在最热忱拥抱通神术的人那里亦然。
+    step1: |-
+      除了杨布里科斯弟子内部的辩论之外，四世纪哲学还包括一种公开的反杨布里科斯派潮流。特米斯提乌斯（Themistius）即属此例（演说家、亚里士多德注家、君士坦丁堡元老院的权威成员），他不赞同杨布里科斯的哲学，对其通神术与毕达哥拉斯式的教导也不表同情。他实际上尖锐批判了以“哈尔基斯人”（对杨布里科斯的影射：见特米斯提乌斯，《演说》23, 295b）为代表的新哲学取径。特米斯提乌斯还在君士坦丁堡就亚里士多德逻辑与以弗所的马克西穆斯展开论战，尤利安充当仲裁（阿莫尼俄斯，《前分析篇注》，p. 31.11–23）。此外，特米斯提乌斯认为毕达哥拉斯派阿尔基塔斯（Archytas）论范畴的著作是伪作，并主张其作者根本不是毕达哥拉斯派（波爱修，《范畴篇注》，PL 64, 162 A）。如此一来，特米斯提乌斯实际上抽掉了杨布里科斯对亚里士多德作毕达哥拉斯式与形而上学解读的主要支柱。于是，杨布里科斯的哲学只是逐渐获得接受，在其直接后学中既有赞同也有异议。当然，杨布里科斯的哲学取径并不要求放弃理性方法，即便在最热情拥抱通神术的人那里也是如此。
+    step2: |-
+      除杨布里科斯弟子的内部论辩外，四世纪哲学中还出现了一股公开的反杨布里科斯派潮流。特米斯提乌斯（Themistius）——演说家、亚里士多德注家、君士坦丁堡元老院的权威人物——即属此列：他既不认同杨布里科斯的哲学，对其通神术与毕达哥拉斯式教导也毫无同情。他着实尖锐抨击了以“哈尔基斯人”（暗指杨布里科斯：见特米斯提乌斯《演说》23, 295b）为代表的新哲学取径。特米斯提乌斯还就亚里士多德逻辑与以弗所的马克西穆斯在君士坦丁堡公开论战，尤利安亲自充当仲裁（阿莫尼俄斯《前分析篇注》，p. 31.11–23）。此外，特米斯提乌斯断定毕达哥拉斯派阿尔基塔斯（Archytas）那部论范畴的著作为伪作，主张其作者根本不是毕达哥拉斯派（波爱修《范畴篇注》，PL 64, 162 A）。如此一来，特米斯提乌斯实际上拆除了杨布里科斯对亚里士多德作毕达哥拉斯式、形而上学解读的主要支柱。于是，杨布里科斯的哲学只是逐渐赢得接受；在其直接后学之中，附和与异议并存。当然，杨布里科斯的哲学取径绝不意味着放弃理性方法——即便在最热忱拥抱通神术的人那里亦然。
   - id: 25
     kind: body
     source: |-
       ## 3. Iamblichus’ System
-        step1: |-
+    step1: |-
       ## 3. 杨布里科斯的体系
-        step2: |-
+    step2: |-
       ## 3. 杨布里科斯的体系
   - id: 26
     kind: body
     source: |-
       As a general rule, Iamblichus’ system is best characterized as a refined version of Plotinus’. Building on hierarchical hints already present in the *Enneads* as well as the work of his own teacher Porphyry, Iamblichus set about producing a far more complex picture of reality, while keeping the same fundamental patterns in place.
-        step1: |-
+    step1: |-
       作为一般规则，杨布里科斯的体系最好被刻画为普罗提诺体系的一个精致版本。在《九章集》中已有的等级暗示以及他自己老师波菲利的工作的基础上，杨布里科斯着手制作一幅远为复杂的实在图景，同时保持相同的基本格局不变。
-        step2: |-
+    step2: |-
       总的说来，杨布里科斯的体系最好被刻画为普罗提诺体系的精致化版本。在《九章集》已有的层级暗示以及其师波菲利工作的基础上，杨布里科斯着手绘制一幅远为繁复的实在图景，而基本格局则一仍其旧。
   - id: 27
     kind: body
     source: |-
       ### 3.1 The One and the higher principles
-        step1: |-
+    step1: |-
       ### 3.1 太一与更高的本原
-        step2: |-
+    step2: |-
       ### 3.1 太一与更高的本原
   - id: 28
     kind: body
     source: |-
       Iamblichus’ account of the One is difficult to ascertain, since the crucial testimony (Damascius, *De principiis* II, 1.4–16.19 Combès & Westerink) is somewhat oblique. What lies beyond doubt is that Iamblichus reacted against Porphyry’s introduction of a first principle “coordinated” with the Intelligible Triad by positing two levels above it: on the one hand, a “wholly unspeakable principle”—which Theodorus of Asine and Damascius incorporated into their own theology, although Proclus did not: on the subject, see Linguiti 1988—and, on the other hand, a principle “uncoordinated with the triad”. In this respect, Iamblichus seems to have wished to distinguish between two almost contradictory aspects of the first principle: its transcendence with respect to everything else (negative theology), i.e., absoluteness in a literal sense; and its causative aspect (cataphatic theology). Iamblichus, then, appears to have conceived of his “unspeakable principle” as a safeguard against any objection based on indefinite regress in the chain of causes, while the principle that is “uncoordinated to the triad” is akin to Plotinus’ One, insofar as it lies above the Intellect.
-        step1: |-
+    step1: |-
       杨布里科斯关于太一的学说难以确考，因为关键的证词（达马斯基乌斯，《论第一原理》II, 1.4–16.19 Combès & Westerink）颇为隐晦。无可怀疑的是，杨布里科斯反对波菲利引入一个与理知三一体“相协调”的第一本原，而在其上设定了两个层级：一方面是一个“全然不可言说的本原”——阿西内的狄奥多鲁斯与达马斯基乌斯把它吸收进各自的神学，普罗克洛斯则没有：关于此题见 Linguiti 1988；另一方面是一个“与三一体不协调的本原”。就此而言，杨布里科斯似乎想要区分第一本原的两个几乎矛盾的面向：它相对于万物的超越性（否定神学），即字面意义上的绝对性；以及它的致动面向（肯定神学）。于是，杨布里科斯构想其“不可言说的本原”，似乎是作为对任何基于因果之链无限倒退的异议的防备，而那个“与三一体不协调的本原”则近于普罗提诺的太一，因为它居于努斯之上。
-        step2: |-
+    step2: |-
       杨布里科斯关于太一的学说难以确考：关键证词（达马斯基乌斯《论第一原理》II, 1.4–16.19，Combès & Westerink 版）本身颇为隐晦。无可怀疑的是，杨布里科斯反对波菲利引入一个与理知三一体“相协调”的第一本原，转而在其上设定两个层级：其一是“全然不可言说的本原”——阿西内的狄奥多鲁斯与达马斯基乌斯将它吸收进各自的神学，普罗克洛斯则否（关于此题见 Linguiti 1988）；其二是“与三一体不协调的本原”。就此而论，杨布里科斯似乎有意区分第一本原的两个近乎相反的面向：一是它相对于万物的超越性（否定神学），即字面意义上的绝对性；二是它的致动面向（肯定神学）。于是，他构想“不可言说的本原”，看来是作为针对一切以因果链无限倒退为据的异议的屏障；而那个“与三一体不协调的本原”则近于普罗提诺的太一，因为它居于努斯之上。
   - id: 29
     kind: body
     source: |-
       Below the One is located the intelligible triad of Limit, the Unlimited, and the One-Being. This arrangement shows the influence of Plato’s *Philebus* 26C (with the uncoordinated One as the Cause, and the One-Being as the *mikton*): this is accounted for in Van Riel 2008. Damascius assimilates this sequence to another one attributed to “the Pythagoreans”: Monad-Dyad-Triad, and, ultimately, to the system of principles inferred from the *Chaldean Oracles*: Father-Power-Intellect. It is likely that the same interpretation was already to be found in Iamblichus, given that both Pythagoras and the Chaldeans rank high in his list of authorities.
-        step1: |-
+    step1: |-
       在太一之下是限定、无限定与太一存在（One-Being）的理知三一体。这一安排显示了柏拉图《斐莱布篇》26C 的影响（不协调的太一充当本因，太一存在充当*mikton*〔混合体〕）：此点在 Van Riel 2008 中得到说明。达马斯基乌斯把这一序列等同于另一条归于“毕达哥拉斯派”的序列——一元—二元—三元，并最终等同于从《迦勒底神谕》推得的本原系统：父—权能—努斯。鉴于毕达哥拉斯与迦勒底人在杨布里科斯的权威名单中位居前列，很可能同一解释已见于杨布里科斯本人。
-        step2: |-
+    step2: |-
       太一之下，是限定、无限定与太一存在（One-Being）构成的理知三一体。这一安排可见柏拉图《斐莱布篇》26C 的影响（不协调的太一充当本因，太一存在充当*mikton*〔混合体〕）；对此 Van Riel 2008 已有说明。达马斯基乌斯把这一序列等同于另一条归于“毕达哥拉斯派”的序列——一元、二元、三元——并最终等同于从《迦勒底神谕》推出的本原系统：父、权能、努斯。考虑到毕达哥拉斯与迦勒底人在杨布里科斯的权威序列中位居前列，很可能这一解释早已见于杨布里科斯本人。
   - id: 30
     kind: body
     source: |-
       Whether Iamblichus introduced the doctrine of “henads” into the teachings of the Neoplatonic School remains controversial (see Clark 2010; Mesyats 2012; Opsomer in Opsomer et al. 2018: 1365–1366)[^opsomer-2018][^clark-2010][^mesyats-2012]. The henads (literally “unities”) are the very first plurality emanating from the One: since they are located beyond Being itself, they are meant to bridge the gap between the absolute One and the intelligible world. Iamblichean authorship of this theory would make it predate Syrianus and Proclus—its first explicit proponents—by almost a century, and indeed several hints point in that direction, in particular the fact that, according to Proclus, Iamblichus identified “God and the gods” as the subject of the first hypothesis of Plato’s *Parmenides*. These “gods” might be self-sufficient items located right below the One and, judging by the—admittedly very allusive—testimonies of Proclus (references in Saffrey & Westerink 1968–1997: III, pp. XVII–XXVI)[^saffrey-1968] and Damascius, might indifferently be called “henads” or “intelligible gods”, in contradiction with Syrianus’ and Proclus’ later terminological distinctions.
-        step1: |-
-      杨布里科斯是否把“诸一”（henads，字面义为“诸统一体”）学说引入了新柏拉图主义学派的教义，仍有争议（见 Clark 2010；Mesyats 2012；Opsomer, 载 Opsomer et al. 2018: 1365–1366）[^opsomer-2018][^clark-2010][^mesyats-2012]。诸一是从太一流溢而出的最初复多：由于它们被置于存在本身之外，其用意是在绝对的太一与理知世界之间架设桥梁。若此说确出杨布里科斯之手，它将比叙里亚努斯与普罗克洛斯——其最早明确的倡导者——早近一个世纪；而且若干线索确实指向这一方向，特别是如下事实：据普罗克洛斯，杨布里科斯把“神与诸神”认定为柏拉图《巴门尼德篇》第一假设的主题。这些“神”或许是恰位于太一之下、自足自在的存在项；而依据普罗克洛斯那些公认十分隐晦的证词（参考文献见 Saffrey & Westerink 1968–1997: III, pp. XVII–XXVI）[^saffrey-1968]与达马斯基乌斯，它们或许可以不加区分地称作“诸一”或“理知诸神”——这与叙里亚努斯和普罗克洛斯后来的术语区分相抵触。
-        step2: |-
-      杨布里科斯是否把“诸一”（henads，字面义为“诸统一体”）学说引入了新柏拉图主义学派的教义，至今聚讼未决（见 Clark 2010；Mesyats 2012；Opsomer, 载 Opsomer et al. 2018: 1365–1366）[^opsomer-2018][^clark-2010][^mesyats-2012]。诸一是自太一流出的最初复多：因其被置于存在本身之外，用意便是在绝对的太一与理知世界之间搭桥。倘若此说确出杨布里科斯，它将比叙里亚努斯与普罗克洛斯——这两人是其最早明确的倡导者——早出近一个世纪；也确有若干线索指向该方向，尤其据普罗克洛斯，杨布里科斯把“神与诸神”认定为柏拉图《巴门尼德篇》第一假设的主题。这些“神”或许是恰置于太一之下、自足自立的存在项；而依照普罗克洛斯那些公认极为隐晦的证词（文献见 Saffrey & Westerink 1968–1997: III, pp. XVII–XXVI）[^saffrey-1968]与达马斯基乌斯，它们尽可或称“诸一”、或称“理知诸神”——这与叙里亚努斯、普罗克洛斯后来的术语区隔有所抵牾。
+    step1: |-
+      杨布里科斯是否把“诸一”（henads，字面义为“诸统一体”）学说引入了新柏拉图主义学派的教义，仍有争议（见 Clark 2010；Mesyats 2012；Opsomer, 载 Opsomer et al. 2018: 1365–1366）[^opsomer-2018][^clark-2010][^mesyats-2012]。诸一是从太一流溢而出的最初复多：由于它们被置于存在本身之外，其用意是在绝对的太一与理知世界之间架设桥梁。若此说确出杨布里科斯之手，它将比西里阿努斯与普罗克洛斯——其最早明确的倡导者——早近一个世纪；而且若干线索确实指向这一方向，特别是如下事实：据普罗克洛斯，杨布里科斯把“神与诸神”认定为柏拉图《巴门尼德篇》第一假设的主题。这些“神”或许是恰位于太一之下、自足自在的存在项；而依据普罗克洛斯那些公认十分隐晦的证词（参考文献见 Saffrey & Westerink 1968–1997: III, pp. XVII–XXVI）[^saffrey-1968]与达马斯基乌斯，它们或许可以不加区分地称作“诸一”或“理知诸神”——这与西里阿努斯和普罗克洛斯后来的术语区分相抵触。
+    step2: |-
+      杨布里科斯是否把“诸一”（henads，字面义为“诸统一体”）学说引入了新柏拉图主义学派的教义，至今聚讼未决（见 Clark 2010；Mesyats 2012；Opsomer, 载 Opsomer et al. 2018: 1365–1366）[^opsomer-2018][^clark-2010][^mesyats-2012]。诸一是自太一流出的最初复多：因其被置于存在本身之外，用意便是在绝对的太一与理知世界之间搭桥。倘若此说确出杨布里科斯，它将比西里阿努斯与普罗克洛斯——这两人是其最早明确的倡导者——早出近一个世纪；也确有若干线索指向该方向，尤其据普罗克洛斯，杨布里科斯把“神与诸神”认定为柏拉图《巴门尼德篇》第一假设的主题。这些“神”或许是恰置于太一之下、自足自立的存在项；而依照普罗克洛斯那些公认极为隐晦的证词（文献见 Saffrey & Westerink 1968–1997: III, pp. XVII–XXVI）[^saffrey-1968]与达马斯基乌斯，它们尽可或称“诸一”、或称“理知诸神”——这与西里阿努斯、普罗克洛斯后来的术语区隔有所抵牾。
   - id: 31
     kind: body
     source: |-
       There is also another hint in support of this interpretation. Damascius explicitly states that according to Iamblichus divinity is closely correlated to degrees of unity: the intelligible gods are “crystallised, as it were, around the One” (*De principiis* II, 36.17). According to this conception, the higher a god is situated on the scale of reality, the more “unified” and undifferentiated it is, and the less accessible to the intellect and to conceptual knowledge: one can only know such realities by resorting to intuition. This doctrine is hinted at in various passages of Iamblichus’ *Reply to Porphyry* (where unity, “friendship”—*philia*—and goodness are all described as fundamental attributes of the gods: “whatever Being might be in them, this is equivalent to their unity”, I, 19 [SS-2013: 45.8–10])[^ss--2013] and is also compatible with his stressing the fact that knowledge of the gods is innate, lying as it does within the heart of every individual (I, 3 [SS-2013: 5.14–20])[^ss--2013]. From an historical point of view, this gradual diffusion of unity also represents a major contribution to the representation of reality as a continuum, thereby somewhat bridging the rift that, following Plotinus, had emerged between the One and the Intellect. “Unification” too (*henōsis*) also becomes a key philosophical term, and this opens up the possibility of an anti-intellectual slant, as can be found in a famous extract of the *Reply to Porphyry* (II, 11 [SS-2013: 73.1–16])[^ss--2013].
-        step1: |-
+    step1: |-
       支持这一解释还有另一条线索。达马斯基乌斯明确陈述：依杨布里科斯，神性与统一性的程度紧密相关——理知诸神“可以说是在太一周围结晶而成”（《论第一原理》II, 36.17）。按照这一观念，一位神在实在的等级中位置越高，就越“统一”、越无分化，也越不为人智与概念知识所及：人们只有诉诸直觉才能认识这类实在。这一学说在《答波菲利》的多处段落中有所暗示（其中统一性、“友爱”——*philia*——与善都被描述为诸神的根本属性：“无论存在在他们之中可能是什么，这都等同于他们的统一性”，I, 19 [SS-2013: 45.8–10]）[^ss--2013]；它也与杨布里科斯强调对诸神的知识是天赋的、内在于每个个体心中这一事实相容（I, 3 [SS-2013: 5.14–20]）[^ss--2013]。从历史的角度看，这种统一性的渐次扩散也是对实在之连续体表象的重大贡献，从而多少弥合了自普罗提诺以来出现于太一与努斯之间的裂隙。“统一化”（*henōsis*）同样成为一个关键哲学术语，而这开启了某种反理智倾向的可能，正如《答波菲利》一处著名段落所示（II, 11 [SS-2013: 73.1–16]）[^ss--2013]。
-        step2: |-
+    step2: |-
       支持上述解释还有另一条线索。达马斯基乌斯明确指出：依杨布里科斯，神性与统一性的程度紧密相关；理知诸神“可以说是在太一周围结晶而成”（《论第一原理》II, 36.17）。按这一观念，一位神在实在等级中的位置越高，就越“统一”、越无分化，也越难为人智与概念知识所把握：唯有诉诸直觉，方能认识这类实在。此说在《答波菲利》多处段落中已有端倪（其中统一性、“友爱”——*philia*——与善皆被列为诸神的根本属性：“无论存在在他们之中是什么，这都等同于他们的统一性”，I, 19 [SS-2013: 45.8–10]）[^ss--2013]；这也与他强调对诸神的知识乃天赋、内在于每个个体心中相合（I, 3 [SS-2013: 5.14–20]）[^ss--2013]。从历史角度看，这种统一性的渐次弥散，又是对实在之连续体表象的一大贡献：它多少弥合了普罗提诺以降横亘于太一与努斯之间的裂隙。“统一化”（*henōsis*）也由此成为关键哲学术语，并开启了某种反理智倾向的可能——《答波菲利》一处著名段落即其例证（II, 11 [SS-2013: 73.1–16]）[^ss--2013]。
   - id: 32
     kind: body
     source: |-
       ### 3.2 “Intelligible” and “intellective”
-        step1: |-
+    step1: |-
       ### 3.2 “理知的”与“智性的”
-        step2: |-
+    step2: |-
       ### 3.2 “理知的”与“智性的”
   - id: 33
     kind: body
     source: |-
       Iamblichus’ best-known philosophical doctrine might be the distinction he introduced between the “intelligible” (*noēton*) and the “intellective” (*noeron*). Before Iamblichus, *noeron*—not a very common word before the second century A.D.—was used to refer to any thinking entity, and Porphyry employs it mostly in association with the soul. From Iamblichus onwards, it becomes a technical term which exclusively designates the order of gods located right below the Intelligible, and endowed with demiurgic functions. The word is found with such a meaning in fourth-century authors in the tradition of Iamblichus, such as the emperor Julian and Salustius.
-        step1: |-
+    step1: |-
       杨布里科斯最知名的哲学学说，或许就是他引入的“理知的”（*noēton*）与“智性的”（*noeron*）之区分。在杨布里科斯之前，*noeron*——公元二世纪之前并非常见词——被用来指称任何进行思维的实体，波菲利使用它时也多与灵魂连用。自杨布里科斯以降，它成为一个专门术语，专指恰居于理知秩序之下、被赋予创世职能的诸神序列。这一含义的用例见于四世纪杨布里柯斯派传统中的作者，如皇帝尤利安与萨卢斯提乌斯。
-        step2: |-
+    step2: |-
       杨布里科斯最负盛名的哲学学说，或许正是他所引入的“理知的”（*noēton*）与“智性的”（*noeron*）之区分。在他之前，*noeron*——公元二世纪以前并非常用词——泛指任何进行思维的实体，波菲利使用它时也多与灵魂相连。自杨布里科斯始，它成为一个专门术语，专指恰居理知秩序之下、被赋予创世职能的诸神序列。这一含义的用例可见于四世纪杨布里柯斯派谱系中的作者，如皇帝尤利安与萨卢斯提乌斯。
   - id: 34
     kind: body
     source: |-
       The idea of distinguishing “seen” and “seeing” principles (objects and subjects of intellectual knowledge) dates back to the early interpretation of Plato’s *Timaeus (*(39E), where the Demiurge appears to behold a Model located outside himself in order to gather from it all the data necessary for the creation of the Cosmos: Middle Platonists thus used to distinguish between the Demiurge, Ideas, and Matter. As opposed to, e.g., Longinus (see Syrianus, *In Metaphysica*, 105.25–28), Plotinus had decisively argued that intelligibles are actually not to be found outside the Intellect. Iamblichus instead falls back on more traditional positions and expressly subordinates the Demiurge to the Intelligible Model. As, on the other hand, Iamblichus follows Plotinus’ steps in developing a doctrine of the One, this results in the Demiurge now being assigned a secondary rank, as he is surpassed by a plethora of other deities, including the Intelligible Model (*In Timaeum* [D-1973: Fr. 42–46]). He is but the third member of the “paternal” triad, itself part of a larger “intellective” Hebdomad (Proclus, *In Timaeum* I, 308.17–309.13: compare this triad to Fr. 4 [D-1973] *In Philebum* = Damascius, *In Philebum* § 105). From this point onwards, until the closing of the Neoplatonic schools, identifying the Demiurge with the First Principle is out of the question.
-        step1: |-
-      区分“被观看者”与“观看者”本原（即理智知识的对象与主体）这一想法，可追溯到对柏拉图《蒂迈欧篇》的早期解读（39E）：在那里，巨匠造物主似乎须观看一个位于自身之外的范型，以便从中收集创造宇宙所需的全部数据：中期柏拉图主义者因此习惯于区分巨匠造物主、理念与质料。与例如朗吉努斯（见叙里亚努斯，《形而上学注》105.25–28）相对，普罗提诺曾决定性地论证：理知者其实并不在努斯之外。杨布里科斯则退回到更传统的立场，明确使巨匠造物主从属于理知范型。而另一方面，杨布里科斯又追随普罗提诺的步履发展出一套太一学说，这就导致巨匠造物主如今被派定一个次级位置：他屈居于众多其他神明之下，包括那个理知范型（《蒂迈欧注》[D-1973: Fr. 42–46]）。他不过是“父性”三一体的第三位成员，而后者本身又是一个更大的“智性”七一体的一部分（普罗克洛斯，《蒂迈欧注》I, 308.17–309.13：将此三一体与 Fr. 4 [D-1973] 《斐莱布注》＝达马斯基乌斯，《斐莱布注》§ 105 相比）。自此以后，直到新柏拉图主义学园关闭，把巨匠造物主与第一本原等同起来都是不可想象的。
-        step2: |-
-      区分“被观看者”与“观看者”两类本原（即理智知识的对象与主体）的想法，可上溯至柏拉图《蒂迈欧篇》的早期解读（39E）：在那里，巨匠造物主似乎须观看一个位于自身之外的范型，从中收集创造宇宙所需的一切数据；中期柏拉图主义者由此习惯于区分巨匠造物主、理念与质料。普罗提诺与此相反（对照朗吉努斯，见叙里亚努斯《形而上学注》105.25–28），曾决定性地论证：理知者并不在努斯之外。杨布里科斯则退回更传统的立场，明确使巨匠造物主从属于理知范型。可另一方面，他又循普罗提诺的步履发展太一学说；两相叠加，巨匠造物主便被派定了次级席位：他屈居众多其他神明——包括那个理知范型——之下（《蒂迈欧注》[D-1973: Fr. 42–46]）。他不过是“父性”三一体的第三位成员，而后者本身又是一个更大的“智性”七一体的一环（普罗克洛斯《蒂迈欧注》I, 308.17–309.13：可把此三一体与 Fr. 4 [D-1973]《斐莱布注》＝达马斯基乌斯《斐莱布注》§ 105 对看）。自此以降，直到新柏拉图主义学园关闭，把巨匠造物主等同于第一本原都是不可设想的。
+    step1: |-
+      区分“被观看者”与“观看者”本原（即理智知识的对象与主体）这一想法，可追溯到对柏拉图《蒂迈欧篇》的早期解读（39E）：在那里，巨匠造物主似乎须观看一个位于自身之外的范型，以便从中收集创造宇宙所需的全部数据：中期柏拉图主义者因此习惯于区分巨匠造物主、理念与质料。与例如朗吉努斯（见西里阿努斯，《形而上学注》105.25–28）相对，普罗提诺曾决定性地论证：理知者其实并不在努斯之外。杨布里科斯则退回到更传统的立场，明确使巨匠造物主从属于理知范型。而另一方面，杨布里科斯又追随普罗提诺的步履发展出一套太一学说，这就导致巨匠造物主如今被派定一个次级位置：他屈居于众多其他神明之下，包括那个理知范型（《蒂迈欧注》[D-1973: Fr. 42–46]）。他不过是“父性”三一体的第三位成员，而后者本身又是一个更大的“智性”七一体的一部分（普罗克洛斯，《蒂迈欧注》I, 308.17–309.13：将此三一体与 Fr. 4 [D-1973] 《斐莱布注》＝达马斯基乌斯，《斐莱布注》§ 105 相比）。自此以后，直到新柏拉图主义学园关闭，把巨匠造物主与第一本原等同起来都是不可想象的。
+    step2: |-
+      区分“被观看者”与“观看者”两类本原（即理智知识的对象与主体）的想法，可上溯至柏拉图《蒂迈欧篇》的早期解读（39E）：在那里，巨匠造物主似乎须观看一个位于自身之外的范型，从中收集创造宇宙所需的一切数据；中期柏拉图主义者由此习惯于区分巨匠造物主、理念与质料。普罗提诺与此相反（对照朗吉努斯，见西里阿努斯《形而上学注》105.25–28），曾决定性地论证：理知者并不在努斯之外。杨布里科斯则退回更传统的立场，明确使巨匠造物主从属于理知范型。可另一方面，他又循普罗提诺的步履发展太一学说；两相叠加，巨匠造物主便被派定了次级席位：他屈居众多其他神明——包括那个理知范型——之下（《蒂迈欧注》[D-1973: Fr. 42–46]）。他不过是“父性”三一体的第三位成员，而后者本身又是一个更大的“智性”七一体的一环（普罗克洛斯《蒂迈欧注》I, 308.17–309.13：可把此三一体与 Fr. 4 [D-1973]《斐莱布注》＝达马斯基乌斯《斐莱布注》§ 105 对看）。自此以降，直到新柏拉图主义学园关闭，把巨匠造物主等同于第一本原都是不可设想的。
   - id: 35
     kind: body
     source: |-
       On the other hand, Iamblichus fully embraces Plotinus’ idea that intelligibles are endowed with life, power, activity etc. and therefore multiplicity (at least implicitly). This allows him to superpose the divine names found in theology (Orpheus, the Chaldeans, and the dialogues of Plato dealing with the intelligible) upon a conceptual armature: for instance, the Platonic Demiurge is to be identified with the Zeus of Hellenic tradition. This effort reveals itself most conspicuously in Julian, and will find its crowning in Proclus’ *Platonic Theology*. As a general rule, to every philosophical concept in the intelligible world there corresponds some divine level or entity: the idea of such a correspondence and its application to the sequence of predicates present in the hypotheses of Plato’s *Parmenides* is generally assigned to Proclus’ master Syrianus, but several hints suggest that it was actually introduced by Iamblichus. One explicit instance of such a term-to-term correspondence is the localization of the genera of Being within the intellective order rather than the intelligible one, because of the former’s higher degree of multiplicity (Proclus, *Platonic Theology* I, 52.2–13). This important doctrine implies that the Demiurgic intellect is now conceived as some kind of “container” of all intelligible ideas, with the reservation that it is less unified than the Model is.
-        step1: |-
-      另一方面，杨布里科斯完全拥抱普罗提诺的如下观念：理知者被赋予生命、权能、活动等，从而（至少隐含地）被赋予复多性。这使他能够把神学中的诸神圣名称（俄耳甫斯、迦勒底人，以及处理理知领域的柏拉图对话）叠加到一个概念骨架之上：例如，柏拉图的巨匠造物主要与希腊传统中的宙斯等同。这一努力在尤利安那里表现得最为醒目，并将在普罗克洛斯的《柏拉图神学》中臻于顶点。作为一般规则，理知世界中的每一个哲学概念都对应着某个神圣层级或实体：这种对应观念及其在柏拉图《巴门尼德篇》诸假设的谓词序列上的应用，通常被归于普罗克洛斯的老师叙里亚努斯，但若干线索暗示它实际由杨布里科斯引入。这种逐项对应的一个显例，是把存在诸属定位于智性秩序而非理知秩序之中，理由是前者具有更高的复多程度（普罗克洛斯，《柏拉图神学》I, 52.2–13）。这一重要学说意味着：创世努斯如今被设想为某种“容器”，容纳一切理知理念，但保留一点：它不如范型那样统一。
-        step2: |-
-      另一方面，杨布里科斯全盘接受普罗提诺的如下观念：理知者被赋予生命、权能、活动等，从而（至少隐含地）被赋予复多性。这使他得以把神学中的诸神圣名称——俄耳甫斯、迦勒底人，以及涉及理知领域的柏拉图对话——叠加到一个概念骨架之上：例如，柏拉图笔下的巨匠造物主要与希腊传统中的宙斯相等同。这一努力在尤利安身上最为醒目，并将在普罗克洛斯的《柏拉图神学》中臻于顶点。通则如下：理知世界中的每一个哲学概念，都对应某个神圣层级或神圣实体。这类对应的观念，及其在柏拉图《巴门尼德篇》诸假设谓词序列上的运用，通常归于普罗克洛斯的老师叙里亚努斯；但若干线索暗示，真正引入者实为杨布里科斯。这种逐项对应的一个显例，是把存在诸属定位于智性秩序而非理知秩序——理由是前者复多程度更高（普罗克洛斯《柏拉图神学》I, 52.2–13）。这一重要学说意味着：创世努斯如今被设想为某种容纳一切理知理念的“容器”；唯有一点保留：它的统一程度不及范型。
+    step1: |-
+      另一方面，杨布里科斯完全拥抱普罗提诺的如下观念：理知者被赋予生命、权能、活动等，从而（至少隐含地）被赋予复多性。这使他能够把神学中的诸神圣名称（俄耳甫斯、迦勒底人，以及处理理知领域的柏拉图对话）叠加到一个概念骨架之上：例如，柏拉图的巨匠造物主要与希腊传统中的宙斯等同。这一努力在尤利安那里表现得最为醒目，并将在普罗克洛斯的《柏拉图神学》中臻于顶点。作为一般规则，理知世界中的每一个哲学概念都对应着某个神圣层级或实体：这种对应观念及其在柏拉图《巴门尼德篇》诸假设的谓词序列上的应用，通常被归于普罗克洛斯的老师西里阿努斯，但若干线索暗示它实际由杨布里科斯引入。这种逐项对应的一个显例，是把存在诸属定位于智性秩序而非理知秩序之中，理由是前者具有更高的复多程度（普罗克洛斯，《柏拉图神学》I, 52.2–13）。这一重要学说意味着：创世努斯如今被设想为某种“容器”，容纳一切理知理念，但保留一点：它不如范型那样统一。
+    step2: |-
+      另一方面，杨布里科斯全盘接受普罗提诺的如下观念：理知者被赋予生命、权能、活动等，从而（至少隐含地）被赋予复多性。这使他得以把神学中的诸神圣名称——俄耳甫斯、迦勒底人，以及涉及理知领域的柏拉图对话——叠加到一个概念骨架之上：例如，柏拉图笔下的巨匠造物主要与希腊传统中的宙斯相等同。这一努力在尤利安身上最为醒目，并将在普罗克洛斯的《柏拉图神学》中臻于顶点。通则如下：理知世界中的每一个哲学概念，都对应某个神圣层级或神圣实体。这类对应的观念，及其在柏拉图《巴门尼德篇》诸假设谓词序列上的运用，通常归于普罗克洛斯的老师西里阿努斯；但若干线索暗示，真正引入者实为杨布里科斯。这种逐项对应的一个显例，是把存在诸属定位于智性秩序而非理知秩序——理由是前者复多程度更高（普罗克洛斯《柏拉图神学》I, 52.2–13）。这一重要学说意味着：创世努斯如今被设想为某种容纳一切理知理念的“容器”；唯有一点保留：它的统一程度不及范型。
   - id: 36
     kind: body
     source: |-
       ### 3.3 Lower entities
-        step1: |-
+    step1: |-
       ### 3.3 较低的存在者
-        step2: |-
+    step2: |-
       ### 3.3 较低的存在者
   - id: 37
     kind: body
     source: |-
       Through a comparison between Julian and Proclus (see Lecerf 2012)[^lecerf-2012], one may conclude that Iamblichus had conceived of a variety of Demiurges, the main one (identified with Zeus) acting as a principle or “monad” for the others. While Zeus creates the world insofar as it is governed by rational laws and populated with beings pertaining to species and genera (themselves of intelligible nature), other demiurgic entities are tasked with informing matter and bodies (which undergo a process of generation and corruption) according to such laws.
-        step1: |-
+    step1: |-
       通过尤利安与普罗克洛斯的比较（见 Lecerf 2012）[^lecerf-2012]，可以得出：杨布里科斯构想过众多的巨匠造物主，其中主要者（与宙斯等同）充当其他诸神的本原或“单子”。宙斯在世界的运转服从理性法则、并栖居着属于种与属（其本身具有理知本性）的存在者的意义上创造世界；而其他创世性实体则受命依这些法则赋予质料与形体（它们经历生成与朽坏的过程）以形式。
-        step2: |-
+    step2: |-
       把尤利安与普罗克洛斯加以比较（见 Lecerf 2012）[^lecerf-2012]，可以推知：杨布里科斯构想过众多巨匠造物主，其中主位者（与宙斯等同）充当其余诸神的本原或“单子”。就世界受理性法则支配、栖居着隶属种与属（这些种属本身具有理知本性）的存在者而言，世界由宙斯创造；而其他创世性实体的职分，则是依循这些法则，赋予质料与形体——它们历经生成与朽坏——以形式。
   - id: 38
     kind: body
     source: |-
       Iamblichus already uses the terminology “hypercosmic” vs. “encosmic” or “pericosmic” (e.g., *Reply to Porphyry* VIII, 8 [SS-2013: 200.25–27])[^ss--2013], inherited from Middle Platonism but destined to become technical in later Neoplatonism. In anticipation of this later use, they are meant to bridge the gap between the Demiurge and the sublunar realm, although their exact role in Iamblichus remains unclear (the aforementioned passage speaks of the help they give to souls in their ascent). Such lower entities seem to be produced according to a geometric progression (cf. *In Timaeum* [D-1973: Fr. 79]). The terminological continuity allows one to conceive of Iamblichus’ system as the matrix for later variations, particularly Proclus’ one, although it is to be noted that no text bears witness to the presence of Proclus’ intermediate “intelligible-intellective” and “hypercosmic-encosmic” levels in Iamblichus.
-        step1: |-
+    step1: |-
       杨布里科斯已经在使用“超宇宙的”对“宇宙内的”或“环宇宙的”这一术语（如《答波菲利》VIII, 8 [SS-2013: 200.25–27]）[^ss--2013]，这一对术语承自中期柏拉图主义，但注定要在后来的新柏拉图主义中成为术语。作为对这种后来用法的预演，它们意在弥合巨匠造物主与月下领域之间的鸿沟，尽管它们在杨布里科斯那里的确切作用仍不清楚（前引段落谈到它们如何帮助灵魂上升）。这些较低的存在者似乎按几何级数被产生（参《蒂迈欧注》[D-1973: Fr. 79]）。术语上的连续性使人可以把杨布里科斯的体系构想为后来诸变体——尤其是普罗克洛斯的体系——的母型；不过应当注意，没有任何文本见证普罗克洛斯那些中间的“理知—智性”与“超宇宙—宇宙内”层级存在于杨布里科斯。
-        step2: |-
+    step2: |-
       “超宇宙的”对“宇宙内的”（或“环宇宙的”）这组术语，杨布里科斯已在沿用（如《答波菲利》VIII, 8 [SS-2013: 200.25–27]）[^ss--2013]；它承自中期柏拉图主义，而后注定成为后期新柏拉图主义的术语。作为对后续用法的预演，这组术语意在弥合巨匠造物主与月下领域之间的鸿沟，尽管它们在杨布里科斯体系中的确切角色仍不明朗（前引段落谈到它们如何助灵魂上升）。这些较低的存在者似乎按几何级数生成（参《蒂迈欧注》[D-1973: Fr. 79]）。术语上的连续性，使人可以把杨布里科斯的体系视为后来诸变体——尤其是普罗克洛斯体系——的母型；但须注意：没有任何文本可以证明，普罗克洛斯那些中间的“理知—智性”与“超宇宙—宇宙内”层级已存在于杨布里科斯。
   - id: 39
     kind: body
     source: |-
       The hierarchies of “higher genera” will be considered in Section 6.1.
-        step1: |-
+    step1: |-
       “更高属”的等级系统将在 6.1 节讨论。
-        step2: |-
+    step2: |-
       “更高属”的等级系统将于 6.1 节讨论。
   - id: 40
     kind: body
     source: |-
       ### 3.4 Nature and Matter
-        step1: |-
+    step1: |-
       ### 3.4 自然与质料
-        step2: |-
+    step2: |-
       ### 3.4 自然与质料
   - id: 41
     kind: body
     source: |-
       Iamblichus’ notion of Nature displays little originality when compared to that of other Neoplatonists. It acts as a productive power for cosmic beings, originating in the celestial gods (*Reply to Porphyry* III, 28 [SS-2013: 127.2–12])[^ss--2013], but it does not act according to reason. This ambiguity explains why, depending on the context, it can be considered either a positive entity, insofar as it is part of a reality governed by Providence, or a deceitful, almost evil force, a view strongly influenced by the *Chaldean Oracles* (see, e.g., V, 18 [SS-2013: 166.18–24])[^ss--2013]: it comes as no surprise that, in this respect, Nature is also closely associated with Fate. The same ambivalence is to be found with regard to astrology, which Iamblichus deems useful, yet not the best way to determine the identity of our personal *daimōn* (IX, 4–5 [SS-2013: 205.1–207.9])[^ss--2013].
-        step1: |-
+    step1: |-
       与其他新柏拉图主义者相比，杨布里科斯的自然概念几乎没有原创性。它作为宇宙存在者的生产性力量发挥作用，源于天界诸神（《答波菲利》III, 28 [SS-2013: 127.2–12]）[^ss--2013]，但它并不依理性行事。这一暧昧性解释了为什么视语境而定，它既可被视为一个肯定性的实体——就它是受神意支配的实在的一部分而言——也可被视为一种骗人的、近乎邪恶的力量；后一种观点深受《迦勒底神谕》影响（例如见 V, 18 [SS-2013: 166.18–24]）[^ss--2013]：无怪乎就此而言，自然也与命运紧密相连。同样的双重性也见于占星术：杨布里科斯认为它有用，却又不是确定我们个人守护精灵身份的最佳途径（IX, 4–5 [SS-2013: 205.1–207.9]）[^ss--2013]。
-        step2: |-
+    step2: |-
       较之其他新柏拉图主义者，杨布里科斯的自然概念几无原创性可言。它作为宇宙存在者的生产性力量发挥作用，发源于天界诸神（《答波菲利》III, 28 [SS-2013: 127.2–12]）[^ss--2013]，却不依理性行事。这层暧昧解释了为何随着语境变换，它既可被当作一个肯定性实体——就它是受神意支配的实在之一部而言——又可被当作一种骗人的、近乎邪恶的力量；后一种看法深受《迦勒底神谕》影响（例如见 V, 18 [SS-2013: 166.18–24]）[^ss--2013]。无怪乎就此而言，自然也与命运紧密相连。同样的双重性也见于占星术：杨布里科斯认为占星有用，却不是确定我们个人守护精灵之身份的最佳途径（IX, 4–5 [SS-2013: 205.1–207.9]）[^ss--2013]。
   - id: 42
     kind: body
     source: |-
       Matter also displays both these traits—integration into the world order and a connection with corporeality and evil. Iamblichus’ *Reply to Porphyry* is replete with allusions to matter as a taint and source of corruption: “what is mixed with the irrationality and darkness associated with bodies and matter is overcome with ignorance” (VI, 4 [SS-2013: 182.7–10])[^ss--2013]. By contrast, “divine fire” strives to eradicate materiality and generation (V, 12 [SS-2013: 161.2])[^ss--2013]. In such passages, Iamblichus inherits the strongly negative views on matter developed by Middle Platonists such as Numenius and further developed by Plotinus. However, a testimony from John Lydus (*De Mensibus* 175.1–176.7 Wünsch) states, apropos Matter, that “nothing imperfect stems from the paternal (i.e., demiurgic) triad”. Thus the possibility of a monistic interpretation remains open: this evidence is studied by Taormina (2016). Accordingly, several testimonies (e.g., Simplicius, *In Categorias* 418.3–8) also state that Iamblichus attributed no real existence to Evil, only a *parhupostasis*.
-        step1: |-
+    step1: |-
       质料同样显示出这两个特征——被整合进世界秩序，以及与形体性、恶的关联。杨布里科斯的《答波菲利》充满把质料当作污点与腐坏之源的暗示：“凡与形体和质料相关的非理性与黑暗相混合者，都被无知所压倒”（VI, 4 [SS-2013: 182.7–10]）[^ss--2013]。相反，“神圣之火”则力图根除物质性与生成（V, 12 [SS-2013: 161.2]）[^ss--2013]。在这类段落中，杨布里科斯继承了中期柏拉图主义者（如努梅尼乌斯）所发展、又由普罗提诺进一步推进的对质料的强烈否定看法。然而，约翰·利杜斯的一条证词（《论月令》175.1–176.7 Wünsch）就质料说道：“没有任何不完善者出自父性的（即创世的）三一体”。于是一元论解读的可能性仍然敞开：这条证据由 Taormina（2016）研究。相应地，若干证词（如辛普里丘，《范畴篇注》418.3–8）也表明，杨布里科斯不曾赋予恶以实在的存在，只赋予它一种*parhupostasis*（副实体）。
-        step2: |-
+    step2: |-
       质料同样兼具这两个特征——既被整合进世界秩序，又与形体性、恶相牵连。杨布里科斯的《答波菲利》通篇暗示质料是污点与腐坏之源：“凡与形体和质料相伴的非理性与黑暗相混者，皆为无知所压倒”（VI, 4 [SS-2013: 182.7–10]）[^ss--2013]；相反，“神圣之火”则力图根除物质性与生成（V, 12 [SS-2013: 161.2]）[^ss--2013]。在这类段落里，杨布里科斯继承了中期柏拉图主义者（如努梅尼乌斯）发展、复经普罗提诺推进的那套对质料的强烈否定之见。然而，约翰·利杜斯的一条证词（《论月令》175.1–176.7 Wünsch）却就质料说道：“没有任何不完善者出自父性的（即创世的）三一体”。一元论解读的可能性由此仍然敞开；这条证据已由 Taormina（2016）研究。与之相应，若干证词（如辛普里丘《范畴篇注》418.3–8）同样表明：杨布里科斯不曾赋予恶以实在的存在，只赋予它一种*parhupostasis*（副实体）。
   - id: 43
     kind: body
     source: |-
       ### 3.5 Overarching concepts and general traits
-        step1: |-
+    step1: |-
       ### 3.5 总纲性概念与一般特征
-        step2: |-
+    step2: |-
       ### 3.5 总纲性概念与一般特征
   - id: 44
     kind: body
     source: |-
       Iamblichus’ work exerted a very profound influence on the subsequent course of Neoplatonic philosophy. In particular, he stands out as an important theologian owing to the shift he brought about with respect to Plotinianism. With Iamblichus, Plotinus’ economical approach to metaphysical principles was developed into full-fledged metaphysical laws: in this respect, Iamblichus emerges as a remote forerunner of Medieval scholasticism. He himself vindicated a “scientific theology” (*Reply to Porphyry* I, 4 [SS-2013: 10.18])[^ss--2013] and established a canon of texts that gave it the justification of tradition.
-        step1: |-
+    step1: |-
       杨布里科斯的著作对此后新柏拉图哲学的进程施加了极为深刻的影响。特别值得一提的是，由于他相对普罗提诺主义造成的转向，他卓然立于重要神学家之列。经由杨布里科斯，普罗提诺对形而上学本原的节俭处理发展为一整套完备的形而上学法则：就此而言，杨布里科斯是中世纪经院哲学的一位远祖。他本人倡导一种“科学神学”（《答波菲利》I, 4 [SS-2013: 10.18]）[^ss--2013]，并确立了一个文本正典，使这一神学获得传统的证成。
-        step2: |-
+    step2: |-
       杨布里科斯的著作对此后新柏拉图哲学的进程影响至深。尤其因他相对普罗提诺主义促成的转向，他卓然立于重要神学家之列。经他之手，普罗提诺对形而上学本原的节俭处理，扩展为一整套完备的形而上学法则；就此而言，杨布里科斯堪称中世纪经院哲学的远祖。他本人倡导一种“科学神学”（《答波菲利》I, 4 [SS-2013: 10.18]）[^ss--2013]，并立定一个文本正典，使这门神学获得传统的证成。
   - id: 45
     kind: body
     source: |-
       Perhaps the most conspicuous trait of Iamblichean metaphysics is its highly vertical conception of causality. For Iamblichus, an effect does not enjoy any ontological independence with respect to its cause: anything it adds amounts to failure and nothingness. This idea predates Iamblichus, but he was the first Pagan philosopher to apply it with absolute consistency. Most of his system follows from this one axiom, particularly his doctrine of the soul (see Section 6). The principles’ supervision always lurks in the background: see, e.g., the idea that the intelligible gods “contain” the visible gods (i.e., planets; *Reply to Porphyry* I, 19 [SS-2013: 45.14–20])[^ss--2013]. The idea of the vacuity of effects leads to the notion that their sole purpose is to render themselves apt to receive the influx of their causes: Iamblichus calls this *epitēdeiotēs,* or “receptivity”. This process of adaptation accounts for most of the diversity in the phenomenal world. Another important law states that “everything is in everything according to its property”: Damascius ascribes it to both Iamblichus and Porphyry (*In Philebum* § 130 = Iamblichus *In Philebum* [D-1973: Fr. 5]). The last words are the most important: superior beings keep their prerogatives in spite of the existence of a universal homology, which means for example that causes are present to their effects *as causes*, i.e., are not encompassed by them or relegated to their status. In this way, Iamblichus manages to preserve at the same time the benefits of divine immanence (the world is not abandoned by the gods) and the requirement of divine transcendence, which he feels the need to constantly affirm, lest he be accused of debasing divinity.
-        step1: |-
-      扬布里柯斯式形而上学最显著的特征，或许是它高度纵向的因果观。对杨布里科斯而言，结果相对于原因不享有任何存在论上的独立：它所增添的一切都等于失败与虚无。这一观念先于杨布里科斯，但他是第一位以绝对一贯的方式应用它的异教哲学家。其体系的大部分都由这一条公理推出，尤其是他的灵魂学说（见第 6 节）。诸本原的监管始终隐伏于背景之中：例如，理知诸神“包含”可见诸神（即行星；《答波菲利》I, 19 [SS-2013: 45.14–20]）[^ss--2013]这一观念。结果之虚空导向如下观念：结果的唯一目的，是使自己适于承受其原因的流入：杨布里科斯称之为*epitēdeiotēs*，即“承受性”（适配性）。这一适应过程说明了现象世界的大部分多样性。另一条重要法则是“一切都在一切之中，各按其本性”：达马斯基乌斯把它同时归于杨布里科斯与波菲利（《斐莱布注》§ 130 ＝ 杨布里科斯，《斐莱布注》[D-1973: Fr. 5]）。最后几个字最为重要：尽管存在普遍的同构，较高的存在者仍保持其特权；这意味着，例如，原因作为原因而在场于其结果，即不被结果所囊括，也不被贬入结果的地位。如此，杨布里科斯同时保住了神圣内在性的益处（世界并未被诸神抛弃）与神圣超越性的要求——他感到必须不断申言后者，以免被指控贬低了神性。
-        step2: |-
-      扬布里柯斯式形而上学最显著的特征，或许是它高度纵向的因果观。在杨布里科斯看来，结果相对原因不享有丝毫存在论独立：结果所增添的一切，皆是失败与虚无。这一观念先于杨布里科斯，但他是最早以绝对一贯的方式运用它的异教哲学家。其体系的大部分由这条公理推出，尤其是他的灵魂学说（见第 6 节）。诸本原的监管始终隐伏于幕后：例如，理知诸神“包含”可见诸神（即行星）之说（《答波菲利》I, 19 [SS-2013: 45.14–20]）[^ss--2013]。结果之虚空，则导向另一个观念：结果的唯一目的，是使自己适于承受原因的流入；杨布里科斯称之为*epitēdeiotēs*，即“承受性”（适配性）。现象世界的大部分多样性，正是由这一适应过程说明的。另一条重要法则是“一切都在一切之中，各按其本性”：达马斯基乌斯把它同时归于杨布里科斯与波菲利（《斐莱布注》§ 130 ＝ 杨布里科斯《斐莱布注》[D-1973: Fr. 5]）。末句最为关键：尽管存在普遍的同构，较高的存在者仍保有其特权。这意味着，例如，原因是作为原因而对其结果在场的——不被结果所囊括，也不被贬入结果的地位。如此，杨布里科斯同时保住了神圣内在性的益处（世界并未被诸神抛弃）与神圣超越性的要求；他感到必须不断申言后者，以免被指控贬低神性。
+    step1: |-
+      杨布里科斯式形而上学最显著的特征，或许是它高度纵向的因果观。对杨布里科斯而言，结果相对于原因不享有任何存在论上的独立：它所增添的一切都等于失败与虚无。这一观念先于杨布里科斯，但他是第一位以绝对一贯的方式应用它的异教哲学家。其体系的大部分都由这一条公理推出，尤其是他的灵魂学说（见第 6 节）。诸本原的监管始终隐伏于背景之中：例如，理知诸神“包含”可见诸神（即行星；《答波菲利》I, 19 [SS-2013: 45.14–20]）[^ss--2013]这一观念。结果之虚空导向如下观念：结果的唯一目的，是使自己适于承受其原因的流入：杨布里科斯称之为*epitēdeiotēs*，即“承受性”（适配性）。这一适应过程说明了现象世界的大部分多样性。另一条重要法则是“一切都在一切之中，各按其本性”：达马斯基乌斯把它同时归于杨布里科斯与波菲利（《斐莱布注》§ 130 ＝ 杨布里科斯，《斐莱布注》[D-1973: Fr. 5]）。最后几个字最为重要：尽管存在普遍的同构，较高的存在者仍保持其特权；这意味着，例如，原因作为原因而在场于其结果，即不被结果所囊括，也不被贬入结果的地位。如此，杨布里科斯同时保住了神圣内在性的益处（世界并未被诸神抛弃）与神圣超越性的要求——他感到必须不断申言后者，以免被指控贬低了神性。
+    step2: |-
+      杨布里科斯式形而上学最显著的特征，或许是它高度纵向的因果观。在杨布里科斯看来，结果相对原因不享有丝毫存在论独立：结果所增添的一切，皆是失败与虚无。这一观念先于杨布里科斯，但他是最早以绝对一贯的方式运用它的异教哲学家。其体系的大部分由这条公理推出，尤其是他的灵魂学说（见第 6 节）。诸本原的监管始终隐伏于幕后：例如，理知诸神“包含”可见诸神（即行星）之说（《答波菲利》I, 19 [SS-2013: 45.14–20]）[^ss--2013]。结果之虚空，则导向另一个观念：结果的唯一目的，是使自己适于承受原因的流入；杨布里科斯称之为*epitēdeiotēs*，即“承受性”（适配性）。现象世界的大部分多样性，正是由这一适应过程说明的。另一条重要法则是“一切都在一切之中，各按其本性”：达马斯基乌斯把它同时归于杨布里科斯与波菲利（《斐莱布注》§ 130 ＝ 杨布里科斯《斐莱布注》[D-1973: Fr. 5]）。末句最为关键：尽管存在普遍的同构，较高的存在者仍保有其特权。这意味着，例如，原因是作为原因而对其结果在场的——不被结果所囊括，也不被贬入结果的地位。如此，杨布里科斯同时保住了神圣内在性的益处（世界并未被诸神抛弃）与神圣超越性的要求；他感到必须不断申言后者，以免被指控贬低神性。
   - id: 46
     kind: body
     source: |-
       Iamblichus’ programme of a scientific theology (see Lecerf and Taormina forthcoming) is based on newly developed terminology, of which we have already seen several examples. It also relies on new structures such as divine orders (*diakosmoi*, *taxeis*), a notion foreign to Plotinus. Their proliferation does not bother Iamblichus in the least, since centrifugal tendencies are curbed by constantly reasserting the fundamental unity of reality. This is provided for through the return of the same processes in a more or less absolute form (for instance, what exists in a unified manner in the universal Paradigm as a whole appears again in individual paradigms, yet only partially: see *In Timaeum* [D-1973: Fr. 43]). Recurring metaphysical laws serve the same purpose, as do schemes such as the regrouping of divine entities in accordance with meaningful numbers, e.g., triads, a structure that adequately accounts for uni-multiplicity in reality since it treats as one single process the succession of an immobile first state (*monē*), a dynamic procession (*proodos*) and a return or “conversion” to the first element (*epistrophē*; see *In Timaeum* [D-1973: Fr. 53]). Triads are thus a prime example of what modern commentators have named the “law of mean-terms”, i.e., the need for a *tertium quid* to provide a mediation between two levels. Continuity is thereby introduced in the picture, although the latter remains resolutely holistic. The whole stands in relation to its parts as a cause to its effect: in this sense, it may be said that Iamblichus created and almost deified the Neoplatonic system as a unified and coherent account of reality, avoiding any recourse to dualism.
-        step1: |-
+    step1: |-
       杨布里科斯的科学神学纲领（见 Lecerf and Taormina 即出）立足于新创的术语，我们已见过若干例子。它还依赖新的结构，如诸神圣秩序（*diakosmoi*、*taxeis*），这一概念为普罗提诺所无。它们的增殖丝毫没有困扰杨布里科斯，因为离心倾向被不断重申的实在之根本统一性所遏制。这一点通过同一过程以或多或少绝对的形式反复回归而得到保障（例如，在普遍范型中作为整体以统一方式存在者，再次显现于个别范型之中，然只是部分地：见《蒂迈欧注》[D-1973: Fr. 43]）。反复出现的形而上学法则服务于同一目的，某些图式亦然，例如依有意义的数字把诸神圣实体重新编组——如三一体；这一结构恰当地说明了实在中的统一—复多性，因为它把一个不动衍的最初状态（*monē*〔静驻〕）、一个动态的流出（*proodos*〔流出〕）与向最初元素的回返或“回转”（*epistrophē*〔回返〕）的相继当作单一过程来处理（见《蒂迈欧注》[D-1973: Fr. 53]）。三一体因此是现代评注家所谓“中项法则”的首要例证，即需要一个*tertium quid*（第三者）在两个层级之间提供中介。连续性由此被引入图景，尽管后者依然坚定地是整体论的。整体与其部分的关系，犹如原因与结果的关系：在这个意义上，可以说杨布里科斯创造并几乎神化了新柏拉图主义体系，使之成为对实在的统一而融贯的说明，同时避免任何诉诸二元论。
-        step2: |-
+    step2: |-
       杨布里科斯的科学神学纲领（见 Lecerf and Taormina 即出）立足于新创的术语，上文已见数例；它还依赖新的结构，如诸神圣秩序（*diakosmoi*、*taxeis*）——这一概念为普罗提诺所无。这些秩序的增殖丝毫不令杨布里科斯困扰：离心倾向被不断重申的实在之根本统一性所遏制。保障正在于此：同一过程以或多或少绝对的形式反复回归。例如，在普遍范型中作为整体以统一方式存在者，会再度显现于个别范型之中，然只是部分地（见《蒂迈欧注》[D-1973: Fr. 43]）。反复出现的形而上学法则服务于此；某些图式亦然——例如依有意义的数字把诸神圣实体重新编组，如三一体。这一结构恰能说明实在中的统一—复多性，因为它把不动衍的最初状态（*monē*〔静驻〕）、动态的流出（*proodos*〔流出〕）与向最初元素的回返即“回转”（*epistrophē*〔回返〕）的相继，当作单一过程来处理（见《蒂迈欧注》[D-1973: Fr. 53]）。三一体由此成为现代评注家所谓“中项法则”的首要例证：为在两个层级之间提供中介，需要一个*tertium quid*（第三者）。连续性由此被引入图景，尽管图景依旧坚定地整体论。整体之于部分，犹如原因之于结果：就此而言，可以说杨布里科斯创造并几乎神化了新柏拉图主义体系——把它立为对实在统一而融贯的说明，同时避免任何诉诸二元论。
   - id: 47
     kind: body
     source: |-
       ## 4. Pythagoreanism, Mathematics
-        step1: |-
+    step1: |-
       ## 4. 毕达哥拉斯主义与数学
-        step2: |-
+    step2: |-
       ## 4. 毕达哥拉斯主义与数学
   - id: 48
     kind: body
     source: |-
       ### 4.1 Limit and the Unlimited
-        step1: |-
+    step1: |-
       ### 4.1 限定与无限定
-        step2: |-
+    step2: |-
       ### 4.1 限定与无限定
   - id: 49
     kind: body
     source: |-
       As we have seen, Iamblichus posited at the top of his system, below the One but above the Intelligible—and thus at a supra-essential level—the dual principles of Limit (*peras*) and the Unlimited (or Infinite: *apeiron*). These principles belong to the Pythagorean tradition (see, e.g., Philolaus Fr. 1 Huffman and Nicomachus, *Introduction to Arithmetic* II, 18, 4), although the main catalysts responsible for their integration into the Neoplatonic system were two indirect accounts, Plato’s *Philebus* (see above, Section 3.1) and Aristotle, *Metaphysics* Α, 5 (987a15–19):
-        step1: |-
+    step1: |-
       如我们所见，杨布里科斯在其体系的顶端——居于太一之下、理知之上，因而处于超本质的层级——设定了限定（*peras*）与无限定（或无限：*apeiron*）这两个本原。这些本原属于毕达哥拉斯传统（例如见 Philolaus Fr. 1 Huffman 与尼科马霍斯，《算术引论》II, 18, 4），但把它们整合进新柏拉图主义体系的主要催化剂，是两个间接的来源：柏拉图的《斐莱布篇》（见上文 3.1 节）与亚里士多德《形而上学》Α, 5（987a15–19）：
-        step2: |-
+    step2: |-
       如前所见，杨布里科斯在体系顶端——太一之下、理知之上，即超本质的层级——设定了限定（*peras*）与无限定（或无限：*apeiron*）两个本原。它们属于毕达哥拉斯传统（例如见 Philolaus Fr. 1 Huffman 与尼科马霍斯《算术引论》II, 18, 4）；但把它们整合进新柏拉图主义体系的两大催化剂，是两个间接来源：柏拉图的《斐莱布篇》（见上文 3.1 节），以及亚里士多德《形而上学》Α, 5（987a15–19）：
   - id: 50
     kind: body
     source: |-
       > (the Pythagoreans) thought that finitude and infinity were not attributes of certain other things, e.g., of fire or earth or anything else of this kind, but that infinity itself and unity itself were the substance of the things of which they are predicated (trans. Ross).
-        step1: |-
+    step1: |-
       > （毕达哥拉斯派）认为，有限与无限并非某些其他事物——例如火、土或任何此类事物——的属性，而是无限本身与一本身即其所表述之物的实体（Ross 英译）。
-        step2: |-
+    step2: |-
       > （毕达哥拉斯派）认为，有限与无限并非某些其他事物——例如火、土或任何此类东西——的属性；毋宁说，无限本身与一本身，即是它们所表述之物的实体（Ross 英译）。
   - id: 51
     kind: body
     source: |-
       Closer to Iamblichus, one must also mention the precedent of Eudorus of Alexandria (*apud* Simplicius, *In Phys*. 118.22–28), as well as Plotinus’ acknowledgment of something *apeiron* within the Intellect (*Ennead* II, 4 [12]).
-        step1: |-
+    step1: |-
       更接近杨布里科斯的是，还必须提到亚历山大里亚的欧多鲁（Eudorus of Alexandria）的先例（载辛普里丘，《物理学注》118.22–28），以及普罗提诺对努斯之内某种*apeiron*的承认（《九章集》II, 4 [12]）。
-        step2: |-
+    step2: |-
       更切近杨布里科斯的，还须提及亚历山大里亚的欧多鲁（Eudorus of Alexandria）的先例（载辛普里丘《物理学注》118.22–28），以及普罗提诺对努斯之内某种*apeiron*的承认（《九章集》II, 4 [12]）。
   - id: 52
     kind: body
     source: |-
       The importance of this Pythagoreanizing slant can hardly be overstated. In agreement with Iamblichus’ vertical conception of reality, it means that everything below this dyad is to be regarded as a mix of determination and indetermination: and this includes gods, as well as Forms such as those contained within the Model, some of which are claimed to partake in movement and alterity (see *In Timaeum* [D-1973: Fr. 46]), while less elaborate versions of Platonism would rather view them as solely determinate, viz. thinkable. In a text from Simplicius’ commentary on the *Categories* (135.10–16 [DL-1972: Fr. 37])[^dl--1972], the productive capacity of the One appears to reflect these two dimensions:
-        step1: |-
+    step1: |-
       这一毕达哥拉斯化倾向的重要性，无论怎样强调都不过分。与杨布里科斯纵向的实在观相一致，它意味着这一二元之下的万事万物都应被视为规定与不规定的混合：诸神如此，范型之内所含的那些理念也是如此——其中一些据称分有运动与他性（见《蒂迈欧注》[D-1973: Fr. 46]），而较不精致的柏拉图主义版本则宁愿把它们看作纯然被规定的，即可思想的。在辛普里丘《范畴篇注》的一段文字中（135.10–16 [DL-1972: Fr. 37]）[^dl--1972]，太一的生产性能力似乎反映了这两个维度：
-        step2: |-
+    step2: |-
       这一毕达哥拉斯化倾向的分量，无论怎样强调都不为过。与杨布里科斯纵向的实在观相合，它意味着：这组二元之下的万事万物，都应被看作规定与不规定的混合。诸神如此；范型之内的那些理念亦然——据称其中一些分有运动与他性（见《蒂迈欧注》[D-1973: Fr. 46]），而较不精致的柏拉图主义版本则宁愿视之为纯然被规定的，亦即可思想的。辛普里丘《范畴篇注》的一段文字（135.10–16 [DL-1972: Fr. 37]）[^dl--1972]中，太一的生产性能力似乎正映照出这两个维度：
   - id: 53
     kind: body
     source: |-
       > Since the power of the One, from which all quantity is generated, is extended unchanged … and gives definition to each thing as it proceeds from itself, in that it pervades the whole in an entirely undivided manner, it brings the continuous into being, by making its progression single and uninterrupted …: but in that it comes to a halt in its progression at each of the forms and defines each … it brings about the discrete (trans. Fleet).
-        step1: |-
+    step1: |-
       > 由于太一的权能——一切量皆由之生成——在自身不受改变的情况下延展……并在每一事物出于它时给予规定，它以完全不可分割的方式贯通整体，由此带来连续者，因为它使其流衍单一而不间断……；但由于它在流衍中于每一个形式处停驻并规定每一个……它便造成了离散者（Fleet 英译）。
-        step2: |-
+    step2: |-
       > 太一的权能——一切量皆由之生成——在自身不受改变的情况下延展……并在每一事物出于它时给予规定；它以完全不可分割的方式贯通整体，由此带来连续者，因为它的流衍单一而不间断……；而它又在流衍中于每一个形式处停驻，并规定每一个……由此造成离散者（Fleet 英译）。
   - id: 54
     kind: body
     source: |-
       Consequently, Iamblichus came to the conclusion that all things partake in opposition, a phenomenon most conspicuous in the sublunary world, as the philosopher notes in the context of an allegorical exegesis of the prologue to Plato’s *Timaeus* (*In Timaeum* [D-1973: Fr. 10]). Thus, it appears that Iamblichus’ goal in introducing the Limit–Unlimited pair was to account for the genesis of multiplicity and alterity, Limit providing definition and intelligibility, while the Unlimited enables infinite flux and iteration within all individual items partaking of the same form: this interpretation is, at any rate, in line with the *epitēdeiotēs* or “receptivity” axiom (see Section 3.5 above), which states that the effect receives the causal influx according to what it is itself, and thus always imperfectly. This may be seen as Iamblichus’ equivalent of Plotinus’ intellectual vitalism (the notion that the intelligible world is intrinsically active, being Life itself): it allows for considerable metaphysical dynamism. To be sure, Limit retains axiological precedence over the Unlimited, but indetermination can no longer be conceived of as a mere by-product of matter’s resistance to form. Rather, while it is true that higher principles are more characterized by Limit and lower ones by the Unlimited, each and every thing reflects, to some extent, both of these principles.
-        step1: |-
+    step1: |-
       由此，杨布里科斯得出结论：万物都分有对立，这一现象在月下世界最为显著，如这位哲学家在寓意解读柏拉图《蒂迈欧篇》序言的语境中所言（《蒂迈欧注》[D-1973: Fr. 10]）。于是，杨布里科斯引入限定—无限定这一对的目的，看来是为了说明复多与他性的发生：限定提供规定与可理解性，而无限定则使一切分有同一形式的个别事物内部的无限流动与迭代成为可能：这一解释无论如何与*epitēdeiotēs*即“承受性”公理（见上文 3.5 节）一致，该公理说结果依其自身的所是接受因果流入，因而总是不完善的。这可以看作杨布里科斯对普罗提诺理智生命论（即理知世界本质上是能动的、本身就是生命这一观念）的对应物：它允许相当大的形而上学动态性。诚然，限定在价值论上仍优先于无限定，但不规定性不能再被设想为质料抵抗形式的单纯副产品。毋宁说，虽然较高的本原确实更多由限定刻画、较低的本原更多由无限定刻画，但每一个事物都在某种程度上同时反映这两个本原。
-        step2: |-
+    step2: |-
       由此，杨布里科斯得出结论：万物皆分有对立；此现象在月下世界最为显著，哲学家本人即在对柏拉图《蒂迈欧篇》序言作寓意解读的语境中如此言说（《蒂迈欧注》[D-1973: Fr. 10]）。于是，杨布里科斯引入限定—无限定这一对，其目的看来正是说明复多与他性的发生：限定提供规定与可理解性，无限定则使一切分有同一形式的个别事物内部的无限流动与迭代成为可能。无论怎样，这一解释与*epitēdeiotēs*即“承受性”公理（见上文 3.5 节）一致：该公理主张，结果依其自身之所是接受因果流入，因而总是不完善的。这可视作杨布里科斯对普罗提诺理智生命论——即理知世界本质上是能动的、其本身即是生命——的对应物：它允许相当可观的形而上学动态。诚然，限定在价值论上仍优先于无限定；但不规定性不能再被当作质料抵抗形式的单纯副产品。毋宁说：较高的本原固然更多由限定刻画，较低的本原固然更多由无限定刻画，但每一事物都在某种程度上同时映现这两个本原。
   - id: 55
     kind: body
     source: |-
       ### 4.2 Mathematics
-        step1: |-
+    step1: |-
       ### 4.2 数学
-        step2: |-
+    step2: |-
       ### 4.2 数学
   - id: 56
     kind: body
     source: |-
       Limit and the Unlimited are also principles active among mathematical entities (*On General Mathematical Science*, chap. 13). Here they play a role similar to that of the pairs Monad and Dyad, Odd and Even, or Same and Other according to Nicomachus of Gerasa, the neo-Pythagorean author of the *Introduction to Arithmetic* and one of Iamblichus’ intellectual heroes; similar pairs studied by the mathematical sciences are “continuous” and “discrete” (*sunekhes*, *diōrismenon*), “magnitude” and “plurality” (*megethos*, *plēthos*: cf. Nicomachus, *Intr*. *arith*. I, 2, 4–5), all of which concur to form a dynamic picture of reality. The four mathematical sciences—arithmetic, which takes precedence over the others; geometry, music and astronomy—each study a corresponding kind of being, and were the object of *On Pythagoreanism* vol. IV and VIII–X respectively (see the plan of the work as outlined by O’Meara 1989)[^o’meara-1989].
-        step1: |-
-      限定与无限定也是数学存在者之中活动的本原（《论一般数学科学》第 13 章）。在这里，它们扮演的角色类似于杰拉萨的尼科马霍斯——新毕达哥拉斯派、《算术引论》作者、杨布里科斯的思想英雄之一——笔下的这样几对：一元与二元、奇与偶、同与异。数学科学研究的相关成对概念还有“连续”与“离散”（*sunekhes*、*diōrismenon*）、“大小”与“多”（*megethos*、*plēthos*：参尼科马霍斯，《算术引论》I, 2, 4–5）；凡此种种，共同构成一幅动态的实在图景。四门数学科学——居首的算术、几何、音乐与天文——各研究一类相应的存在，分别是《论毕达哥拉斯主义》第四卷与第八至十卷的对象（见 O'Meara 1989 所勾画的该书计划）[^o'meara-1989]。
-        step2: |-
-      在数学存在者的领域，限定与无限定同样是活动的本原（《论一般数学科学》第 13 章）。在这里，它们的角色类似于杰拉萨的尼科马霍斯笔下的那几对：一元与二元、奇与偶、同与异。尼科马霍斯是新毕达哥拉斯派、《算术引论》的作者，也是杨布里科斯的思想英雄之一。数学科学研究的成对概念还有“连续”与“离散”（*sunekhes*、*diōrismenon*）、“大小”与“多”（*megethos*、*plēthos*：参尼科马霍斯《算术引论》I, 2, 4–5）；凡此种种，共同织成一幅动态的实在图景。四门数学科学——算术（居诸科之首）、几何、音乐与天文——各研究一类相应的存在，分别对应《论毕达哥拉斯主义》第四卷与第八至十卷（见 O'Meara 1989 所勾画的该书规划）[^o'meara-1989]。
+    step1: |-
+      限定与无限定也是数学存在者之中活动的本原（《论一般数学科学》第 13 章）。在这里，它们扮演的角色类似于杰拉萨的尼科马霍斯——新毕达哥拉斯派、《算术引论》作者、杨布里科斯的思想英雄之一——笔下的这样几对：一元与二元、奇与偶、同与异。数学科学研究的相关成对概念还有“连续”与“离散”（*sunekhes*、*diōrismenon*）、“大小”与“多”（*megethos*、*plēthos*：参尼科马霍斯，《算术引论》I, 2, 4–5）；凡此种种，共同构成一幅动态的实在图景。四门数学科学——居首的算术、几何、音乐与天文——各研究一类相应的存在，分别是《论毕达哥拉斯主义》第四卷与第八至十卷的对象（见 O'Meara 1989 所勾画的该书计划）[^o’meara-1989]。
+    step2: |-
+      在数学存在者的领域，限定与无限定同样是活动的本原（《论一般数学科学》第 13 章）。在这里，它们的角色类似于杰拉萨的尼科马霍斯笔下的那几对：一元与二元、奇与偶、同与异。尼科马霍斯是新毕达哥拉斯派、《算术引论》的作者，也是杨布里科斯的思想英雄之一。数学科学研究的成对概念还有“连续”与“离散”（*sunekhes*、*diōrismenon*）、“大小”与“多”（*megethos*、*plēthos*：参尼科马霍斯《算术引论》I, 2, 4–5）；凡此种种，共同织成一幅动态的实在图景。四门数学科学——算术（居诸科之首）、几何、音乐与天文——各研究一类相应的存在，分别对应《论毕达哥拉斯主义》第四卷与第八至十卷（见 O'Meara 1989 所勾画的该书规划）[^o’meara-1989]。
   - id: 57
     kind: body
     source: |-
       Iamblichus’ interest in mathematics is part of a larger trend that includes authors such as Theon of Smyrna and Calcidius, but excludes Plotinus and, to a lesser extent, Porphyry. For Iamblichus, mathematics is both a scientific discipline and concerns a realm of being, intermediate between the intelligible and the sensible: the latter view is influenced by Aristotelian ontology as well as by the Platonic analogy of the Line (*Republic*, 509d–511e), but with the Pythagorean proviso that mathematical entities “exist in themselves” and that each number possesses a distinct essence.
-        step1: |-
+    step1: |-
       杨布里科斯对数学的兴趣是更大潮流的一部分，这一潮流包括士麦那的塞翁（Theon of Smyrna）与卡尔基迪乌斯（Calcidius）等作者，却把普罗提诺排除在外，波菲利也在较小程度上被排除。对杨布里科斯而言，数学既是一门科学学科，又涉及一个居于理知者与可感者之间的存在领域：后一种观点既受亚里士多德存在论影响，也受柏拉图线喻（《理想国》509d–511e）的类比影响，但带有一个毕达哥拉斯式的附带条件：数学存在者“自在存在”，且每个数都有独特的本质。
-        step2: |-
+    step2: |-
       杨布里科斯对数学的兴趣，是一场更大潮流的一部分：这场潮流包括士麦那的塞翁（Theon of Smyrna）、卡尔基迪乌斯（Calcidius）等作者，却将普罗提诺排除在外——波菲利也在较小程度上被排除。在杨布里科斯看来，数学既是一门科学学科，又关乎一个居于理知者与可感者之间的存在领域。后一种看法既受亚里士多德存在论的影响，也受柏拉图线喻（《理想国》509d–511e）之类比的影响，但附带一个毕达哥拉斯式的条件：数学存在者“自在存在”，且每个数都拥有独特的本质。
   - id: 58
     kind: body
     source: |-
       The study of mathematics allows the soul to disengage itself from the material world, thus providing a starting point towards higher being. More interestingly, mathematics is assigned symbolic significance in a variety of fields: vol. V–VII of *On Pythagoreanism* (now lost) dealt with the mathematical teachings that can be drawn concerning ethics, physics and theology respectively (the anonymous *Theologoumena arithmeticae* might provide some insight into Iamblichus’ view of the relation between arithmetic and theology, as they include extensive quotes from Nicomachus as well as Iamblichus’ first teacher Anatolius). Mathematics is therefore versatile and multivalent in its essence (see, e.g., *On General Mathematical Science*, chap. 15; 18), and thus closely associated with the soul (*ibid*., chap. 9). It is also very likely that Syrianus’ distinction of various types of “number”—in descending order: eidetic, mathematical, physical, cf., e.g., *In Metaphysica* 122.11–16—stems from Iamblichean teachings.
-        step1: |-
-      研习数学使灵魂得以从物质世界中脱身，从而提供了一个通往更高存在的起点。更有趣的是，数学在多种领域中被赋予象征意义：《论毕达哥拉斯主义》第五至七卷（今已亡佚）讨论了可分别就伦理、物理与神学抽取的数学教义（匿名的《算术神学》或可为了解杨布里科斯关于算术与神学之关系的观点提供线索，因为该书大量征引尼科马霍斯以及杨布里科斯的第一位老师阿纳托利乌斯）。因此，数学就其本质而言是多用途且多义的（例如见《论一般数学科学》第 15 章；第 18 章），从而与灵魂紧密相关（同书第 9 章）。还有一点极可能成立：叙里亚努斯对各种“数”的区分——依降序：理念性的、数学的、物理的，参《形而上学注》122.11–16——源于扬布里柯斯派的教义。
-        step2: |-
-      研习数学使灵魂得以从物质世界脱身，从而提供了通往更高存在的起点。更有意味的是，数学在多种领域中被赋予象征意义：《论毕达哥拉斯主义》第五至七卷（今已亡佚）讨论了可分别就伦理、物理与神学抽取的数学教义。匿名的《算术神学》或可为了解杨布里科斯关于算术与神学之关系的观点提供线索：该书大量征引尼科马霍斯，也征引杨布里科斯的第一位老师阿纳托利乌斯。因此，数学就其本质而言是多用途而多义的（例如见《论一般数学科学》第 15 章、第 18 章），从而与灵魂紧密相连（同书第 9 章）。还有一点极可能成立：叙里亚努斯对各种“数”的区分——依降序为理念性的、数学的、物理的（参《形而上学注》122.11–16）——正源于扬布里柯斯派的教义。
+    step1: |-
+      研习数学使灵魂得以从物质世界中脱身，从而提供了一个通往更高存在的起点。更有趣的是，数学在多种领域中被赋予象征意义：《论毕达哥拉斯主义》第五至七卷（今已亡佚）讨论了可分别就伦理、物理与神学抽取的数学教义（匿名的《算术神学》或可为了解杨布里科斯关于算术与神学之关系的观点提供线索，因为该书大量征引尼科马霍斯以及杨布里科斯的第一位老师阿纳托利乌斯）。因此，数学就其本质而言是多用途且多义的（例如见《论一般数学科学》第 15 章；第 18 章），从而与灵魂紧密相关（同书第 9 章）。还有一点极可能成立：西里阿努斯对各种“数”的区分——依降序：理念性的、数学的、物理的，参《形而上学注》122.11–16——源于杨布里科斯派的教义。
+    step2: |-
+      研习数学使灵魂得以从物质世界脱身，从而提供了通往更高存在的起点。更有意味的是，数学在多种领域中被赋予象征意义：《论毕达哥拉斯主义》第五至七卷（今已亡佚）讨论了可分别就伦理、物理与神学抽取的数学教义。匿名的《算术神学》或可为了解杨布里科斯关于算术与神学之关系的观点提供线索：该书大量征引尼科马霍斯，也征引杨布里科斯的第一位老师阿纳托利乌斯。因此，数学就其本质而言是多用途而多义的（例如见《论一般数学科学》第 15 章、第 18 章），从而与灵魂紧密相连（同书第 9 章）。还有一点极可能成立：西里阿努斯对各种“数”的区分——依降序为理念性的、数学的、物理的（参《形而上学注》122.11–16）——正源于杨布里科斯派的教义。
   - id: 59
     kind: body
     source: |-
       Iamblichus’ writings on mathematics were influential, and are used, e.g., in Syrianus’ commentary on the *Metaphysics* and Proclus’ commentary on Euclid. His views on the *quadrivium*, drawing upon Nicomachus, were also adopted by Martianus Capella and Boethius, and through them became an integral part of education in the Middle Ages.
-        step1: |-
-      杨布里科斯关于数学的著述影响深远，例如叙里亚努斯的《形而上学》注与普罗克洛斯的欧几里得注都使用了它们。他借鉴尼科马霍斯而形成的关于四艺的观点，也被马蒂亚努斯·卡佩拉（Martianus Capella）与波爱修采纳，并经由二人成为中世纪教育的组成部分。
-        step2: |-
-      杨布里科斯的数学著述影响深远：叙里亚努斯的《形而上学》注、普罗克洛斯的欧几里得注，都取材于此。他借鉴尼科马霍斯而形成的四艺之说，也被马蒂亚努斯·卡佩拉（Martianus Capella）与波爱修采纳，并经由二人融入中世纪的教育。
+    step1: |-
+      杨布里科斯关于数学的著述影响深远，例如西里阿努斯的《形而上学》注与普罗克洛斯的欧几里得注都使用了它们。他借鉴尼科马霍斯而形成的关于四艺的观点，也被马蒂亚努斯·卡佩拉（Martianus Capella）与波爱修采纳，并经由二人成为中世纪教育的组成部分。
+    step2: |-
+      杨布里科斯的数学著述影响深远：西里阿努斯的《形而上学》注、普罗克洛斯的欧几里得注，都取材于此。他借鉴尼科马霍斯而形成的四艺之说，也被马蒂亚努斯·卡佩拉（Martianus Capella）与波爱修采纳，并经由二人融入中世纪的教育。
   - id: 60
     kind: body
     source: |-
       ### 4.3 Iamblichus and Pythagoreanism
-        step1: |-
+    step1: |-
       ### 4.3 杨布里科斯与毕达哥拉斯主义
-        step2: |-
+    step2: |-
       ### 4.3 杨布里科斯与毕达哥拉斯主义
   - id: 61
     kind: body
     source: |-
       While Iamblichus took great pains to study mathematics in detail, its true meaning, according to him, is not of a “technical” nature: rather, it is meant to constitute a form of philosophical ascesis:
-        step1: |-
+    step1: |-
       虽然杨布里科斯不遗余力地细究数学，但依他之见，数学的真正意义并非“技术的”：毋宁说，它应当构成一种哲学修行的形式：
-        step2: |-
+    step2: |-
       杨布里科斯虽不遗余力地细究数学，但依他之见，数学的真正意义并非“技术性的”：毋宁说，它应当构成一种哲学修行的形式：
   - id: 62
     kind: body
     source: |-
       > If we intend to practice mathematics in a Pythagorean manner, it is necessary to pursue with zeal its divinely inspired, elevating, purifying and perfective way. (*On General Mathematical Science*, chap. 22)
-        step1: |-
+    step1: |-
       > 如果我们打算以毕达哥拉斯的方式修习数学，那就必须以热忱追随它那受神启的、提升性的、净化的与成全的道路。（《论一般数学科学》第 22 章）
-        step2: |-
+    step2: |-
       > 我们若欲以毕达哥拉斯的方式修习数学，就必须满怀热忱，追随它那受神启的、提升人的、净化的、使人成全的道路。（《论一般数学科学》第 22 章）
   - id: 63
     kind: body
     source: |-
       Indeed, as part of his *sumphōnia* programme, Iamblichus strove to fully integrate Pythagorean teaching into the Hellenic dogmatic tradition, making Pythagoras the recipient of a divine revelation handed down by Orpheus through a mysterious figure, “Aglaophamus” (*De Vita Pythagorica* 146). Book II of *On Pythagoreanism*, the *Protrepticus*, while using a variety of sources, also taps into the Pythagorean repertoire with wisdom texts such as the *Golden Verses*. Building on the then widely accepted axiom that the truth had already been revealed in remote times and then merely reformulated—if not twisted—by recent writers, he accepted as authoritative the pseudo-Pythagorean corpus for which he (along with Stobaeus, who knew the Iamblichean *œuvre* quite well) is one of our main sources: on Iamblichus’ library of Pythagorean texts, see Macris 2002. Iamblichus made the most conspicuous use of these texts in his lost *Commentary on the* Categories, where ps.-Archytas’ *On the All* was repeatedly quoted as the source of the Aristotelian treatise (see below, Section 5.1).
-        step1: |-
-      的确，作为其*sumphōnia*（和谐）纲领的一部分，杨布里科斯力图把毕达哥拉斯的教导完全整合进希腊的教义传统，使毕达哥拉斯成为经由神秘人物“阿格拉奥法穆斯”由俄耳甫斯传递下来的神启的承受者（《毕达哥拉斯生平》146）。《论毕达哥拉斯主义》第二卷即《劝勉篇》，它在利用多种来源的同时，也汲取毕达哥拉斯的宝库，如《金言》这样的智慧文本。当时广为接受的公理是：真理已在远古被启示，而晚近作家只是——即便不是扭曲地——重新表述了它；在此基础上，他认可伪毕达哥拉斯文集为权威文献，而他自己（与相当熟悉扬布里柯斯氏著作的斯托拜乌斯一道）正是其主要来源之一：关于杨布里科斯的毕达哥拉斯文本藏书，见 Macris 2002。杨布里科斯对这些文本最显眼的运用见于其亡佚的《范畴篇注》，其中伪阿尔基塔斯的《论万有》被反复征引为亚里士多德那部论文的来源（见下文 5.1 节）。
-        step2: |-
-      的确，作为其*sumphōnia*（和谐）纲领的一环，杨布里科斯力图把毕达哥拉斯教导完整地纳入希腊教义传统：他使毕达哥拉斯成为神启的承受者，而这一启示由俄耳甫斯经神秘人物“阿格拉奥法穆斯”传递下来（《毕达哥拉斯生平》146）。《论毕达哥拉斯主义》第二卷即《劝勉篇》：它取材多方，同时也汲取毕达哥拉斯的宝库，例如《金言》这样的智慧文本。当时有一公理广为接受：真理早已在远古被启示，晚近作家不过是——即便不是扭曲地——重新表述它。基于此，杨布里科斯奉伪毕达哥拉斯文集为权威文献；他自己（连同对扬布里柯斯氏著作相当熟稔的斯托拜乌斯）正是这些文献的主要来源之一。关于杨布里科斯的毕达哥拉斯文本藏书，见 Macris 2002。他对这些文本最显眼的运用，见于其亡佚的《范畴篇注》：其中伪阿尔基塔斯的《论万有》被反复征引为亚里士多德那篇论文的来源（见下文 5.1 节）。
+    step1: |-
+      的确，作为其*sumphōnia*（和谐）纲领的一部分，杨布里科斯力图把毕达哥拉斯的教导完全整合进希腊的教义传统，使毕达哥拉斯成为经由神秘人物“阿格拉奥法穆斯”由俄耳甫斯传递下来的神启的承受者（《毕达哥拉斯生平》146）。《论毕达哥拉斯主义》第二卷即《劝勉篇》，它在利用多种来源的同时，也汲取毕达哥拉斯的宝库，如《金言》这样的智慧文本。当时广为接受的公理是：真理已在远古被启示，而晚近作家只是——即便不是扭曲地——重新表述了它；在此基础上，他认可伪毕达哥拉斯文集为权威文献，而他自己（与相当熟悉杨布里科斯氏著作的斯托拜乌斯一道）正是其主要来源之一：关于杨布里科斯的毕达哥拉斯文本藏书，见 Macris 2002。杨布里科斯对这些文本最显眼的运用见于其亡佚的《范畴篇注》，其中伪阿尔基塔斯的《论万有》被反复征引为亚里士多德那部论文的来源（见下文 5.1 节）。
+    step2: |-
+      的确，作为其*sumphōnia*（和谐）纲领的一环，杨布里科斯力图把毕达哥拉斯教导完整地纳入希腊教义传统：他使毕达哥拉斯成为神启的承受者，而这一启示由俄耳甫斯经神秘人物“阿格拉奥法穆斯”传递下来（《毕达哥拉斯生平》146）。《论毕达哥拉斯主义》第二卷即《劝勉篇》：它取材多方，同时也汲取毕达哥拉斯的宝库，例如《金言》这样的智慧文本。当时有一公理广为接受：真理早已在远古被启示，晚近作家不过是——即便不是扭曲地——重新表述它。基于此，杨布里科斯奉伪毕达哥拉斯文集为权威文献；他自己（连同对杨布里科斯氏著作相当熟稔的斯托拜乌斯）正是这些文献的主要来源之一。关于杨布里科斯的毕达哥拉斯文本藏书，见 Macris 2002。他对这些文本最显眼的运用，见于其亡佚的《范畴篇注》：其中伪阿尔基塔斯的《论万有》被反复征引为亚里士多德那篇论文的来源（见下文 5.1 节）。
   - id: 64
     kind: body
     source: |-
       In order to assess Iamblichus’ reliability as a witness of ancient Pythagoreanism, one has to take into account a variety of factors, including his attitude towards the information available to him (ranging from literal dependence to creative elaboration for his own ideological and systematic purposes). This is crucial, since the *Pythagorean Life* in particular is one of our major sources on this subject (for details, see the studies collected in Huffman 2014; von Albrecht et al. 2002)[^albrecht-2002][^huffman-2014].
-        step1: |-
+    step1: |-
       要评估杨布里科斯作为古代毕达哥拉斯主义见证者的可靠性，必须把多种因素考虑在内，其中包括他对可得信息的态度（从字面依赖到为自己的意识形态与体系目标而作的创造性加工，程度不等）。这一点至关重要，因为《论毕达哥拉斯的生平》尤其是我们关于这一主题的主要来源之一（详情见 Huffman 2014 所集论文；von Albrecht et al. 2002）[^albrecht-2002][^huffman-2014]。
-        step2: |-
+    step2: |-
       要评估杨布里科斯作为古代毕达哥拉斯主义见证者的可靠程度，须把多种因素纳入考量，其中之一是他对可得信息的态度——从字面依赖，到为自己的意识形态与体系目标而作的创造性加工，深浅不等。这一点至关重要：《论毕达哥拉斯的生平》尤其是我们研究这一主题的主要来源之一（详情见 Huffman 2014 所集论文；von Albrecht et al. 2002）[^albrecht-2002][^huffman-2014]。
   - id: 65
     kind: body
     source: |-
       ## 5. Logic and the Categories
-        step1: |-
+    step1: |-
       ## 5. 逻辑与《范畴篇》
-        step2: |-
+    step2: |-
       ## 5. 逻辑与《范畴篇》
   - id: 66
     kind: body
     source: |-
       ### 5.1 Iamblichus’ commentary work on Aristotle
-        step1: |-
+    step1: |-
       ### 5.1 杨布里科斯对亚里士多德的注疏工作
-        step2: |-
+    step2: |-
       ### 5.1 杨布里科斯对亚里士多德的注疏工作
   - id: 67
     kind: body
     source: |-
       Iamblichus wrote an extensive commentary on the *Categories*, fragments of which have been preserved by Simplicius and Dexippus (a student of Iamblichus): in addition to literal quotes, Iamblichus is behind much of Simplicius’ extant exegesis of this treatise. We also have evidence that Iamblichus wrote a commentary on Aristotle’s *Prior Analytics* and we know about his exegetical work on the *De interpretatione* and the *De caelo* (see Opsomer 2015)[^opsomer-2015]. From the first century BC onwards, Platonist philosophers had been familiar with Aristotle’s *Categories*: Platonists such as Eudorus of Alexandria and Nicostratus raised objections against Aristotle’s doctrine; Plotinus wrote a very important treatise *On the Genera of Being,* where he critically discussed Aristotle’s categories (*Ennead* VI, 1–3). To the best of our knowledge, however, no Platonist wrote a commentary on Aristotle’s *Categories* before Porphyry, who was the author of two commentaries on this treatise: a short and extant elucidation in a question-and-answer format and a very extensive commentary in seven books dedicated to someone called Gedalius, which is now lost. In addition, Porphyry wrote an introduction to logic, the *Isagoge*, which is closely connected to the *Categories*. With Porphyry, then, Aristotle’s *Categories* became an integral part of the Platonist curriculum and this was a crucial move for the subsequent history of Late Antique and medieval philosophy. As is often the case, Iamblichus’ exegetical work relies on Porphyry but introduces some changes which are probably aimed to supplement (and possibly supplant) Porphyry’s approach. Simplicius informs us that Iamblichus followed the great and now lost commentary written by Porphyry, while adding two distinctive features. First Iamblichus “applied his Intellective Theory (*noera theōria*) everywhere, to almost all of the chapter-headings” (Simplicius, *In Categorias*, 2.13–15 [DL-1972: Fr. 2], trans. Chase; see Dillon 1997)[^dl--1972][^dillon-1997]. Iamblichus employs the same expression, *noera theōria* in the opening section of the *Reply to Porphyry* (I, 2 [SS-2013: 4.16])[^ss--2013], in a passage where he characterizes the mode of inquiry that is typical of theology. Secondly, Iamblichus took Archytas’ treatise *On the All* to be Aristotle’s source and he developed a thoroughly Pythagorising interpretation of the *Categories* (Simplicius, *In Categorias*, 2.15–25 [DL-1972: Fr. 2]; see Hoffmann 1980)[^dl--1972][^hoffmann-1980]. Archytas’ treatise is actually a forgery which scholars now date to the first century BC. Iamblichus, however, took it to be a genuine work by Archytas and in doing so he claimed a Pythagorean origin for Aristotle’s theory. To sum up, Iamblichus’ exegesis of the *Categories* was an integral part of his Pythagorean philosophical programme and in interpreting the *Categories* Iamblichus made use of his metaphysical and theological views. Apparently, Iamblichus pushed his reading of Aristotle along Platonic/Pythagorean lines so far that (as later sources report) he did not refrain from assuming that Aristotle was not opposed to Plato on the theory of Ideas (see Elias/David, *In Categorias*, 123.2–3).
-        step1: |-
+    step1: |-
       杨布里科斯写了一部浩繁的《范畴篇》注，其残篇由辛普里丘与德克西普斯（Dexippus，杨布里科斯的学生）保存：除字面征引之外，辛普里丘现存的这部论著解经大半出自杨布里科斯。我们还有证据表明杨布里科斯注疏过亚里士多德的《前分析篇》，并且我们知道他对《解释篇》与《论天》的解经工作（见 Opsomer 2015）[^opsomer-2015]。自公元前一世纪起，柏拉图主义者已熟习亚里士多德的《范畴篇》：欧多鲁与尼科斯特拉图斯（Nicostratus）等柏拉图主义者曾对亚里士多德的学说提出异议；普罗提诺写有极重要的论文《论存在诸属》，其中批判性地讨论了亚里士多德的范畴（《九章集》VI, 1–3）。然而，据我们所知，在波菲利之前没有柏拉图主义者为亚里士多德《范畴篇》写过注疏；波菲利为此论著写过两部注：一部以问答形式写成的简短疏解，现存；另一部是献给一位名为盖达利乌斯（Gedalius）者的七卷浩繁注疏，今已亡佚。此外，波菲利还写有逻辑导论《导论》，它与《范畴篇》紧密相关。经由波菲利，亚里士多德的《范畴篇》成为柏拉图主义课程的整体部分；这对古代晚期与中世纪哲学的后续历史是关键一步。与常例相同，杨布里科斯的解经工作依赖波菲利，但引入了一些或许旨在补充（并可能取代）波菲利进路的变化。辛普里丘告诉我们，杨布里科斯追随波菲利那部伟大而今已亡佚的注疏，同时添加了两个独特特征。第一，杨布里科斯“把他的智性理论（*noera theōria*）到处应用于几乎所有的章节标题”（辛普里丘，《范畴篇注》2.13–15 [DL-1972: Fr. 2]，Chase 英译；见 Dillon 1997）[^dl--1972][^dillon-1997]。杨布里科斯在《答波菲利》的开篇部分（I, 2 [SS-2013: 4.16]）[^ss--2013]也使用同一表达式*noera theōria*，用以刻画神学特有的探究方式。第二，杨布里科斯把阿尔基塔斯的《论万有》当作亚里士多德的来源，并对《范畴篇》发展出一种彻底毕达哥拉斯化的解读（辛普里丘，《范畴篇注》2.15–25 [DL-1972: Fr. 2]；见 Hoffmann 1980）[^dl--1972][^hoffmann-1980]。阿尔基塔斯的这部论著实为伪作，学界今定其年代于公元前一世纪。然而，杨布里科斯视之为阿尔基塔斯的真作，并由此为亚里士多德的理论宣称一种毕达哥拉斯起源。总而言之，杨布里科斯对《范畴篇》的解经是其毕达哥拉斯哲学纲领的有机部分；在解读《范畴篇》时，杨布里科斯动用了他的形而上学与神学观点。显然，杨布里科斯把他对亚里士多德的解读沿柏拉图/毕达哥拉斯路线推进到如此地步，以至于（如后来来源所报道）他不忌讳假定亚里士多德在理念理论上并不反对柏拉图（见 Elias/David，《范畴篇注》123.2–3）。
-        step2: |-
+    step2: |-
       杨布里科斯写过一部浩繁的《范畴篇》注，残篇由辛普里丘与德克西普斯（Dexippus，杨布里科斯的学生）保存。除字面征引外，辛普里丘现存的这部论著解经大半出自杨布里科斯之手。另有证据表明，杨布里科斯注疏过亚里士多德《前分析篇》；我们对他的《解释篇》与《论天》解经工作也有所知（见 Opsomer 2015）[^opsomer-2015]。自公元前一世纪起，柏拉图主义者便已熟习亚里士多德《范畴篇》：欧多鲁、尼科斯特拉图斯（Nicostratus）等柏拉图主义者曾对亚里士多德的学说提出异议；普罗提诺更写下极重要的《论存在诸属》，批判性地讨论亚里士多德的范畴（《九章集》VI, 1–3）。然而据我们所知，在波菲利之前，从未有柏拉图主义者为《范畴篇》作过注疏；而波菲利为此篇写过两部注：一部以问答体写就的简短疏解，尚存于世；另一部是献给一位名叫盖达利乌斯（Gedalius）者的七卷浩繁注疏，今已亡佚。此外，波菲利还著有逻辑导论《导论》，与《范畴篇》紧密相扣。经由波菲利，《范畴篇》遂成为柏拉图主义课程的固定部分；这对古代晚期与中世纪哲学的后续历史而言，是关键一步。一如常例，杨布里科斯的解经依傍波菲利，却引入若干变动，其用意或许是补充（乃至取代）波菲利的进路。辛普里丘告诉我们：杨布里科斯追随波菲利那部伟大而今亡佚的注疏，同时加上两个独特特征。其一，杨布里科斯“把他的智性理论（*noera theōria*）到处应用于几乎所有的章节标题”（辛普里丘《范畴篇注》2.13–15 [DL-1972: Fr. 2]，Chase 英译；见 Dillon 1997）[^dl--1972][^dillon-1997]。杨布里科斯在《答波菲利》开篇（I, 2 [SS-2013: 4.16]）[^ss--2013]也用了*noera theōria*这同一表达式，用以刻画神学特有的探究方式。其二，杨布里科斯把阿尔基塔斯的《论万有》奉为亚里士多德的来源，由此对《范畴篇》发展出一种彻底毕达哥拉斯化的解读（辛普里丘《范畴篇注》2.15–25 [DL-1972: Fr. 2]；见 Hoffmann 1980）[^dl--1972][^hoffmann-1980]。阿尔基塔斯这部论著实为伪作，学界今定其年代于公元前一世纪；杨布里科斯却视之为真作，并借此为亚里士多德的理论宣称一个毕达哥拉斯起源。要言之，杨布里科斯对《范畴篇》的解经是其毕达哥拉斯哲学纲领的有机部分：在解读《范畴篇》时，他动用了自己的形而上学与神学观点。显然，他把对亚里士多德的解读沿柏拉图/毕达哥拉斯路线推进到如此地步，以至于（如后来来源所报道）他不忌讳假定：在理念理论上，亚里士多德并不反对柏拉图（见 Elias/David《范畴篇注》123.2–3）。
   - id: 68
     kind: body
     source: |-
       ### 5.2 The Pythagorean reading of the *Categories*
-        step1: |-
+    step1: |-
       ### 5.2 毕达哥拉斯式的《范畴篇》解读
-        step2: |-
+    step2: |-
       ### 5.2 毕达哥拉斯式的《范畴篇》解读
   - id: 69
     kind: body
     source: |-
       Iamblichus’ interpretation characteristically included a definition of the “target” (*skopos*) of Aristotle’s treatise, which Iamblichus regarded as focusing on signifying expressions insofar as they signify things via concepts (see Hoffmann 1987)[^hoffmann-1987]. This view was not new and Simplicius traces it back to the previous tradition starting from the early Peripatetic commentators (Simplicius, *In Categorias*, 13.15–18). Iamblichus, however, added two distinctive features. First, he gave a more systematic account of the target of Aristotle’s treatise (for example, Porphyry too claimed that Aristotle’s *Categories* focus on simple signifying expressions insofar as they signify things, but to the best of our knowledge he did not refer to concepts). In addition to this, Iamblichus’ discussion of semantics incorporated a Neoplatonist account of language and signification grounded in Neoplatonic metaphysics and psychology (Simplicius, *In Categorias*, 12.16–13.12: see Griffin 2012)[^griffin-2012]. Iamblichus referred to analogy (*analogia*) as a resource that explains how Aristotle’s account of categories can be applied to intelligible beings too. For example, Simplicius reports that according to Iamblichus the property of being receptive of contraries while being one and the same in number (see Arist., *Cat.*, 5, 4a10–11) applies to all levels of substance (both sensible and intelligible) via analogy (*kata analogian*, Simpl., *In Categorias*, 116.25–26 [DL-1972: Fr. 33])[^dl--1972]: in intelligible substance contraries belong to substance simultaneously whereas in sensible substance they exist successively. Accordingly, different levels of being reveal corresponding structures (where lower degrees in the hierarchy entail increasing multiplicity and dispersion). This metaphysical framework accounts for Iamblichus’ views about genera and predication. Iamblichus is critical of the previous Peripatetic tradition: he criticizes Alexander of Aphrodisias for mistakenly regarding corporeal and incorporeal beings as species ranked under the same genus (that of substance, *ousia*) (Simplicius, *In Categorias*, 83.20–23 [DL-1972: Fr. 24])[^dl--1972]. Iamblichus’ point is that the Peripatetic reading of the *Categories* does not account for the hierarchical structure of reality. On Iamblichus’ view, full weight should instead be given to the hierarchical notion of the genus as a unity of derivation from a principle (actually the genus is both the principle itself and the hierarchy of items depending on it). This structure does not entail that levels ranked in the same genus share any common item. Rather, different and hierarchically ordered levels are connected via analogy, so that lower items mirror higher ones while not sharing any common item with them. Analogy, then, allows Iamblichus to combine two complementary aspects of his metaphysics: on the one hand the vertical hierarchy that separates different levels of beings, on the other hand the continuity that connects these different levels together within a unified whole. Iamblichus’ approach emerges in his account of essential or synonymous predication (the predication of items within the same category). Porphyry argued that in this kind of predication subject and predicate denote two different items, the *akatakakton* (uncoordinated or unallocated) and the *katatetagmenon* (coordinated or allocated) (Simplicius, *In Categorias*, 53.6–9; 79.24–30). The meaning of these expressions is debated. The “allocated genus” is to be identified with the *in re* universal shared by particulars; the unallocated may be either the separated and Platonic *ante rem* universal or the abstracted and *post rem* universal concept. Whatever we make of Porphyry’s view, Iamblichus started from Porphyry’s exegesis and gave a different slant to it (see Chiaradonna 2023: 138–162)[^chiaradonna-2023]. In doing so Iamblichus suggested that Aristotle’s essential predication is a way of expressing the participation of corporeal beings in their transcendent genera (Simplicius, *In Categorias*, 53.9–18 [DL-1972: Fr. 16])[^dl--1972]. More precisely, “Socrates is man” would be a way of expressing the fact that the corporeal Socrates participates in the transcendent Form of Man. Separate genera provide the basis for essential predication, though they are not properly predicated in themselves (what is predicated is rather the participated item). Interestingly, Iamblichus refers to the technical notion of *ptōsis* (“case”), which is associated with Aristotle’s account of paronymy in the *Categories*: a *ptōsis* is an inflected form of a term (such as “grammatical” or “courageous”) which is paronymous with the noun form and derives from it (“grammatical” and “courageous” are both adjectival forms which derive from “grammar” and “courage” respectively). So Iamblichus held that in the predicative statement “Socrates is man”, “man” improperly occurs in the predication instead of its *ptōsis*: Iamblichus is probably referring here to an adjectival construction like “human”. Such a paronymous form would correctly refer to the participation of Socrates in his transcendent Form. Simplicius informs us too that Iamblichus focused on Aristotle’s account of motion and activity: Plotinus had criticized Aristotle for not regarding motion as a single category and had argued that motion in sensible beings is a form of complete activity (Simplicius, *In Categorias*, 303.35–306.12 [DL-1972: Fr. 86])[^dl--1972]. Iamblichus rejects Plotinus’ account and aims to integrate Aristotle’s account of sensible motion as “incomplete actuality” into a Platonist philosophical framework (see Taormina 1999: chap. III)[^taormina-1999].
-        step1: |-
+    step1: |-
       杨布里科斯的解读典型地包括对亚里士多德这部论著之“鹄的”（*skopos*〔论旨〕）的界定：他认为该论著关注的是表义表达式，就其经由概念指示事物而言（见 Hoffmann 1987）[^hoffmann-1987]。这一看法并不新鲜：辛普里丘把它追溯到始于早期逍遥学派注疏家的前人传统（辛普里丘，《范畴篇注》13.15–18）。然而，杨布里科斯添加了两个独特特征。第一，他对亚里士多德论著的鹄的给出了更系统的说明（例如，波菲利也主张《范畴篇》关注简单的表义表达式，就其指示事物而言；但据我们所知，他没有提及概念）。除此之外，杨布里科斯关于语义学的讨论纳入了一种以新柏拉图主义形而上学与心理学为根基的语言与意指理论（辛普里丘，《范畴篇注》12.16–13.12：见 Griffin 2012）[^griffin-2012]。杨布里科斯诉诸类比（*analogia*）来解释亚里士多德的范畴学说如何也能适用于理知存在者。例如，辛普里丘报道说：依杨布里科斯，“在数量上是一且同一却又接受相反者”这一属性（参亚里士多德，《范畴篇》5, 4a10–11）经由类比（*kata analogian*，辛普里丘，《范畴篇注》116.25–26 [DL-1972: Fr. 33]）[^dl--1972]适用于实体的一切层级（可感的与理知的皆是）：在理知实体中，相反者同时属于实体；而在可感实体中，它们相继存在。相应地，存在的不同层级显示出相应的结构（等级中越低的层级意味着越大的复多与散布）。这一形而上学框架说明了杨布里科斯关于属与谓述的观点。杨布里科斯对先前的逍遥学派传统持批判态度：他批评阿弗罗狄西亚的亚历山大（Alexander of Aphrodisias）误把形体与无形体的存在者当作排在同一属（即实体*ousia*）之下的种（辛普里丘，《范畴篇注》83.20–23 [DL-1972: Fr. 24]）[^dl--1972]。杨布里科斯的要点是：逍遥学派对《范畴篇》的解读没有顾及实在的等级结构。依他之见，应当充分重视属的等级观念，即把属看作自本原而来的派生统一体（实际上，属既是本原本身，又是依系于该本原的各项的等级）。这一结构并不意味着排于同一属下的各层级共享任何公共项。毋宁说，不同而等级有序的诸层级经由类比相连，以致低层级映照高层级，却不与其共享任何公共项。于是，类比使杨布里科斯得以把其形而上学的两个互补方面结合起来：一方面是分隔诸存在层级的纵向等级，另一方面是把诸层级连为一个统一整体的连续性。杨布里科斯的取径见于他对本质谓述或同名谓述（同一范畴内诸项的谓述）的说明。波菲利曾论证：在这种谓述中，主词与谓词指称两个不同的项，即*akatakakton*（不协调者/未分配者）与*katatetagmenon*（协调者/已分配者）（辛普里丘，《范畴篇注》53.6–9；79.24–30）。这些表达式的含义有争议。“已分配的属”要等同于为诸个别者所共享的*in re*（在物之中）普遍者；未分配者则或是分离的、柏拉图式的*ante rem*（先于物）普遍者，或是抽象的*post rem*（后于物）普遍概念。无论我们如何评价波菲利的观点，杨布里科斯都从波菲利的解经出发而赋予其不同的取向（见 Chiaradonna 2023: 138–162）[^chiaradonna-2023]。如此，杨布里科斯暗示：亚里士多德的本质谓述是表达形体存在者分有其超越诸属的一种方式（辛普里丘，《范畴篇注》53.9–18 [DL-1972: Fr. 16]）[^dl--1972]。更确切地说，“苏格拉底是人”表达的正是：形体的苏格拉底分有超越的人之理念。分离的诸属为本质谓述提供基础，尽管它们本身并不被恰当地谓述（被谓述的毋宁是被分有者）。有趣的是，杨布里科斯提到了*ptōsis*（“格”）这一术语，它与亚里士多德在《范畴篇》中对引申构词的说明相关联：*ptōsis*是一个词的屈折形式（如“语法的”或“勇敢的”），它与名词形式构成引申关系并从之派生（“语法的”与“勇敢的”都是形容词形式，分别派生自“语法”与“勇气”）。因此，杨布里科斯认为：在谓述句“苏格拉底是人”中，“人”不恰当地出现于谓述之中，而未用其*ptōsis*；此处他所指的或许是一个如“人的”这样的形容词构式。这样的引申形式将正确地指称苏格拉底对其超越理念的分有。辛普里丘也告诉我们，杨布里科斯聚焦于亚里士多德对运动与活动的说明：普罗提诺曾批评亚里士多德不把运动当作单一范畴，并主张可感存在者中的运动是完全活动的一种形式（辛普里丘，《范畴篇注》303.35–306.12 [DL-1972: Fr. 86]）[^dl--1972]。杨布里科斯拒绝普罗提诺的说明，旨在把亚里士多德对可感运动作为“不完善现实”的说明整合进一个柏拉图主义的哲学框架（见 Taormina 1999: 第三章）[^taormina-1999]。
-        step2: |-
+    step2: |-
       杨布里科斯的解读，典型地包括对亚里士多德这部论著“鹄的”（*skopos*〔论旨〕）的界定：在他看来，该论著关注的是表义表达式——就其经由概念指示事物而言（见 Hoffmann 1987）[^hoffmann-1987]。这一看法并不新鲜：辛普里丘把它追溯到始于早期逍遥学派注疏家的前人传统（辛普里丘《范畴篇注》13.15–18）。但杨布里科斯加上了两个独特特征。其一，他对亚里士多德论著的鹄的给出了更系统的说明（例如，波菲利同样主张《范畴篇》关注简单的表义表达式——就其指示事物而言；但据我们所知，他未曾提及概念）。其二，杨布里科斯的语义讨论，纳入了一种以新柏拉图主义形而上学与心理学为根基的语言与意指理论（辛普里丘《范畴篇注》12.16–13.12：见 Griffin 2012）[^griffin-2012]。杨布里科斯还诉诸类比（*analogia*），以解释亚里士多德的范畴学说如何也能适用于理知存在者。例如，辛普里丘报道说：依杨布里科斯，“在数量上是一且同一，却又接受相反者”这一属性（参亚里士多德《范畴篇》5, 4a10–11），经由类比（*kata analogian*，辛普里丘《范畴篇注》116.25–26 [DL-1972: Fr. 33]）[^dl--1972]适用于实体的一切层级——可感的与理知的皆是：在理知实体中，相反者同时属于实体；在可感实体中，它们则相继存在。相应地，存在的不同层级显示出相应的结构：等级中越低的层级，意味着越大的复多与散布。这一形而上学框架，说明了杨布里科斯关于属与谓述的观点。他对先前的逍遥学派传统持批判态度：他批评阿弗罗狄西亚的亚历山大（Alexander of Aphrodisias）误把形体与无形体的存在者当作排在同一属（即实体*ousia*）之下的种（辛普里丘《范畴篇注》83.20–23 [DL-1972: Fr. 24]）[^dl--1972]。杨布里科斯的要点是：逍遥学派对《范畴篇》的解读，未顾及实在的等级结构。依他之见，应当充分重视属的等级观念——把属看作自本原而来的派生统一体；实际上，属既是本原本身，又是依系于本原的各项的等级序列。这一结构并不意味着：排于同一属下的各层级共享任何公共项。毋宁说，不同而等级有序的诸层级经由类比相连：低层级映照高层级，却不与之共享任何公共项。于是，类比让杨布里科斯得以把其形而上学的两个互补面结合起来：一面是分隔诸存在层级的纵向等级，一面是把诸层级连成统一整体的连续性。杨布里科斯的取径，见于他对本质谓述即同名谓述（同一范畴内诸项的谓述）的说明。波菲利曾论证：在这种谓述中，主词与谓词指称两个不同的项——*akatakakton*（不协调者／未分配者）与*katatetagmenon*（协调者／已分配者）（辛普里丘《范畴篇注》53.6–9；79.24–30）。这两个表达式的含义历来有争。“已分配的属”要等同于诸个别者共享的*in re*（在物之中）普遍者；未分配者则或是分离的、柏拉图式的*ante rem*（先于物）普遍者，或是抽象的*post rem*（后于物）普遍概念。姑且不论波菲利的观点当如何评价，杨布里科斯确实从波菲利的解经出发而赋予其不同的取向（见 Chiaradonna 2023: 138–162）[^chiaradonna-2023]。如此，他暗示：亚里士多德的本质谓述，正是表达形体存在者分有其超越诸属的一种方式（辛普里丘《范畴篇注》53.9–18 [DL-1972: Fr. 16]）[^dl--1972]。更确切地说，“苏格拉底是人”所表达的，正是形体的苏格拉底分有超越的人之理念这一事实。分离的诸属为本质谓述奠基，尽管它们本身并不被恰当地谓述——被谓述的毋宁是被分有者。有趣的是，杨布里科斯提及*ptōsis*（“格”）这一术语；它关联着亚里士多德在《范畴篇》中对引申构词的说明：*ptōsis*是一个词的屈折形式（如“语法的”“勇敢的”），与名词形式构成引申关系并从之派生（“语法的”与“勇敢的”皆为形容词形式，分别派生自“语法”与“勇气”）。于是杨布里科斯认为：在谓述句“苏格拉底是人”中，“人”不恰当地出现于谓述，而未用其*ptōsis*；他此处所指的，或许正是“人的”这样的形容词构式。这样的引申形式，方能正确指称苏格拉底对其超越理念的分有。辛普里丘还告诉我们：杨布里科斯聚焦于亚里士多德对运动与活动的说明。普罗提诺曾批评亚里士多德不把运动当作单一范畴，并主张可感存在者中的运动是完全活动的一种形式（辛普里丘《范畴篇注》303.35–306.12 [DL-1972: Fr. 86]）[^dl--1972]。杨布里科斯拒绝普罗提诺的说明，意在把亚里士多德“可感运动是不完善现实”的学说，整合进一个柏拉图主义的哲学框架（见 Taormina 1999: 第三章）[^taormina-1999]。
   - id: 70
     kind: body
     source: |-
       ### 5.3 Categories and theology
-        step1: |-
+    step1: |-
       ### 5.3 《范畴篇》与神学
-        step2: |-
+    step2: |-
       ### 5.3 《范畴篇》与神学
   - id: 71
     kind: body
     source: |-
       Iamblichus’ exegesis of the *Categories* (in particular his account of genera of hierarchical structures and his use of analogy) sheds light on other areas of his philosophy and forms the background of Iamblichus’ criticism of Porphyry’s account of divine hierarchy in the *Reply to Porphyry* (see Chiaradonna 2023: 138–162)[^chiaradonna-2023]. There Iamblichus rejects Porphyry’s account of divine hierarchy as misleading, since Porphyry regarded classes of divine beings as species ranked under the same genus and determined by “properties” (*idiōmata*) that act as specific differentiae (*Reply to Porphyry*, I, 4 [SS-2013: 7.21–8.6])[^ss--2013]. In so doing, Porphyry ruins the very idea of hierarchy: *divine* comes to be a common genus which is predicated of all of its species, in the same way as *animal* is predicated of (say) *horse* and *dog*. Against Porphyry, Iamblichus calls for a qualified use of logical notions which makes the hierarchical relation between different classes of divine beings clear. Each level differs from the others as a whole and not in the same way as different species are divided under the same common genus. As said above, in his interpretation of the *Categories* Iamblichus argued that the genus is a hierarchical relation in which items from different levels are analogically connected to their origin. This can be set in parallel with what Iamblichus says in the *Reply to Porphyry*:
-        step1: |-
+    step1: |-
       杨布里科斯对《范畴篇》的解经（尤其是他对诸等级结构之属的说明以及他对类比的使用）照亮了他哲学的其他领域，并构成《答波菲利》中他对波菲利神圣等级说明之批判的背景（见 Chiaradonna 2023: 138–162）[^chiaradonna-2023]。在《答波菲利》中，杨布里科斯指斥波菲利对神圣等级的说明是误导性的，因为波菲利把诸神圣存在者的类当作排在同一属之下、并由充当种差的“特性”（*idiōmata*）所规定的种（《答波菲利》I, 4 [SS-2013: 7.21–8.6]）[^ss--2013]。如此一来，波菲利毁掉了等级观念本身：*divine*（神圣的）成了被谓述于其一切种的公共属，正如*animal*（动物）被谓述于（比如说）*horse*（马）与*dog*（狗）。与波菲利相对，杨布里科斯要求对逻辑概念作一种有节制的使用，使不同类神圣存在者之间的等级关系变得清晰。每一层级都作为整体而区别于其他层级，而非如同一个公共属之下的不同种那样被划分。如前所述，在《范畴篇》解读中，杨布里科斯主张：属是一种等级关系，其中来自不同层级的诸项以类比的方式关联于其本源。这可以与杨布里科斯在《答波菲利》中所说平行而观：
-        step2: |-
+    step2: |-
       杨布里科斯对《范畴篇》的解经——尤其是他对诸等级结构之属的说明与对类比的使用——照亮了他哲学的其他领域，并构成《答波菲利》中他批判波菲利神圣等级学说的背景（见 Chiaradonna 2023: 138–162）[^chiaradonna-2023]。在那里，杨布里科斯指斥波菲利对神圣等级的说明是误导性的：波菲利把诸神圣存在者的类当作排在同一属之下、由充当种差的“特性”（*idiōmata*）规定的种（《答波菲利》I, 4 [SS-2013: 7.21–8.6]）[^ss--2013]。如此一来，波菲利毁掉的正是等级观念本身：*divine*（神圣的）沦为对其一切种都有效的公共属，恰如*animal*（动物）被谓述于（比如说）*horse*（马）与*dog*（狗）。与波菲利相反，杨布里科斯要求对逻辑概念作有节制的使用，以使不同类神圣存在者之间的等级关系清晰可辨。每一层级都作为整体而区别于其余层级，而非如同一公共属之下的不同种那样被划分。如前所述，在解读《范畴篇》时，杨布里科斯主张：属是一种等级关系，其中来自不同层级的诸项以类比方式关联于其本源。这可与他在《答波菲利》中的说法平行而观：
   - id: 72
     kind: body
     source: |-
       > But if one were to apply an analogical principle of identity to different genera, for example to the many genera of gods, and again to those among the demons and heroes, and lastly in the case of souls, then one might succeed in defining their specific characteristics. (*Reply to Porphyry*, I, 4 [SS-2013: 10.25–11.4], trans. CDH-2003)[^cdh--2003][^ss--2013]
-        step1: |-
+    step1: |-
       > 但是，如果人们把一个类比的同一原则应用于不同的属——例如诸神的众多属，再如精灵与英雄之中的诸属，最后应用于灵魂的情形——那么人们或许能够界定它们各自的特性。（《答波菲利》I, 4 [SS-2013: 10.25–11.4]，CDH-2003 英译）[^cdh--2003][^ss--2013]
-        step2: |-
+    step2: |-
       > 但是，若把一个类比的同一原则应用于不同的属——例如诸神的众多属，再如精灵与英雄之中的诸属，最后应用于灵魂的情形——那么人们或许就能界定它们各自的特性。（《答波菲利》I, 4 [SS-2013: 10.25–11.4]，CDH-2003 英译）[^cdh--2003][^ss--2013]
   - id: 73
     kind: body
     source: |-
       ## 6. The Soul, Theurgy and Religion
-        step1: |-
+    step1: |-
       ## 6. 灵魂、通神术与宗教
-        step2: |-
+    step2: |-
       ## 6. 灵魂、通神术与宗教
   - id: 74
     kind: body
     source: |-
       ### 6.1 The soul’s place in the system
-        step1: |-
+    step1: |-
       ### 6.1 灵魂在体系中的位置
-        step2: |-
+    step2: |-
       ### 6.1 灵魂在体系中的位置
   - id: 75
     kind: body
     source: |-
       According to Iamblichus, “soul” is but the last and weakest link in the chain of “higher genera” (*kreittona genē*). In the *Reply to Porphyry*, those entities are enumerated in full: gods—archangels—angels—demons—heroes—archons ruling the world—enmattered archons—souls. This is a token of Iamblichus’ receptiveness towards the religious speculation of his day, although most of this theological bestiary was in fact already present in Porphyry’s *Letter to Anebo*. Iamblichus’ acceptance of “evil demons” (cf. O’Neill 2018)[^o’neill-2018] is particularly interesting, since it seems to undermine Iamblichus’ monism and providentialism, and is best explained as reflecting the influence of the *Chaldean Oracles*.
-        step1: |-
-      依杨布里科斯之见，“灵魂”不过是“更高属”（*kreittona genē*）之链上最后也是最弱的一环。在《答波菲利》中，这些实体被完整列举：神明——大天使——天使——精灵——英雄——统辖世界的执政官——具质料的执政官——灵魂。这是杨布里科斯对其时代宗教思辨持开放态度的一个标记，尽管这份神学谱系志中的大部分其实已见于波菲利的《致阿涅波书》。杨布里科斯对“邪恶精灵”的接受（参 O'Neill 2018）[^o'neill-2018]尤其耐人寻味，因为它似乎动摇了杨布里科斯的一元论与神意论，最好的解释是它反映了《迦勒底神谕》的影响。
-        step2: |-
-      依杨布里科斯之见，“灵魂”不过是“更高属”（*kreittona genē*）之链上最后也最弱的一环。在《答波菲利》中，这些实体被完整列举：神明——大天使——天使——精灵——英雄——统辖世界的执政官——具质料的执政官——灵魂。这是杨布里科斯对其时代宗教思辨持开放态度的一个标记；尽管这份神学谱系志的大部分，其实早已见于波菲利的《致阿涅波书》。杨布里科斯对“邪恶精灵”的接纳（参 O'Neill 2018）[^o'neill-2018]尤其耐人寻味：它似乎动摇了杨布里科斯的一元论与神意论；对此最好的解释，是它折射出《迦勒底神谕》的影响。
+    step1: |-
+      依杨布里科斯之见，“灵魂”不过是“更高属”（*kreittona genē*）之链上最后也是最弱的一环。在《答波菲利》中，这些实体被完整列举：神明——大天使——天使——精灵——英雄——统辖世界的执政官——具质料的执政官——灵魂。这是杨布里科斯对其时代宗教思辨持开放态度的一个标记，尽管这份神学谱系志中的大部分其实已见于波菲利的《致阿涅波书》。杨布里科斯对“邪恶精灵”的接受（参 O'Neill 2018）[^o’neill-2018]尤其耐人寻味，因为它似乎动摇了杨布里科斯的一元论与神意论，最好的解释是它反映了《迦勒底神谕》的影响。
+    step2: |-
+      依杨布里科斯之见，“灵魂”不过是“更高属”（*kreittona genē*）之链上最后也最弱的一环。在《答波菲利》中，这些实体被完整列举：神明——大天使——天使——精灵——英雄——统辖世界的执政官——具质料的执政官——灵魂。这是杨布里科斯对其时代宗教思辨持开放态度的一个标记；尽管这份神学谱系志的大部分，其实早已见于波菲利的《致阿涅波书》。杨布里科斯对“邪恶精灵”的接纳（参 O'Neill 2018）[^o’neill-2018]尤其耐人寻味：它似乎动摇了杨布里科斯的一元论与神意论；对此最好的解释，是它折射出《迦勒底神谕》的影响。
   - id: 76
     kind: body
     source: |-
       In contradistinction with the gods, the soul receives a plethora of negative traits: it is imperfect, intermittent, it leans towards matter; and while the causes of Order and Beauty exist in full communion with the gods, the soul can never be given more than a mere share of it (*Reply to Porphyry* I, 6–7 [SS-2013: 15.14–17.7])[^ss--2013]. The immutability of this celestial hierarchy is striking, and foreshadows the later works of Hierocles, Proclus, and pseudo-Dionysius the Areopagite. Although the soul’s versatility—its ability to “make use of varied forms and life-principles”—allows it to attach itself to superior beings and lay claim “to receiving perfection as an angelic, immaculate soul” (*Reply to Porphyry* II, 2 [SS-2013: 51.10–52.11])[^ss--2013], on closer reading it appears to be unable to escape its condition by virtue of its own essence: its ascent is never complete (it is an endeavor, *ephesis* or *henōsis*, with a suffix expressing verbal action) and it presupposes, moreover, the gods’ “goodwill and illumination”. Porphyry had previously drawn a similar distinction between demons that are so “by essence” (*kat’ ousian*) or by mere “relation” (*kata skhesin*), the latter being those humans who, by virtue of their excellent life, are allotted demonic status. On the other hand, the human soul is also unable to be relegated to the rank of animals via metempsychosis (cf. the title of one of Iamblichus’ psychological works preserved by Nemesius of Emesa, *On the Nature of Man*, chap. 2, p. 35.7–11 Morani). Some points, however, remain unclear, such as how exactly Iamblichus’ generic distinction between human souls and “divine” ones would fit within such a structure; or what we are to make of the souls of exceptional, even semi-divine characters such as Pythagoras or the theurgists. Similar preoccupations underlie Frs. 82 and 83 *In Timaeum* [D-1973], interpreting *Timaeus* 41d.
-        step1: |-
+    step1: |-
       与诸神相对照，灵魂带有一大堆否定性特征：它不完善、断续、倾向于质料；而当秩序与美的原因与诸神处于完全的共融之中时，灵魂所能得到的至多只是对它们的分有（《答波菲利》I, 6–7 [SS-2013: 15.14–17.7]）[^ss--2013]。这一天界等级的不变性令人瞩目，预示了希罗克勒斯、普罗克洛斯与伪狄奥尼修斯（雅典最高法院法官狄奥尼修斯）后来的著作。虽然灵魂的多变性——它“使用各种形式与生命本原”的能力——使它得以依系于较高存在者，并宣称“作为天使般纯洁无瑕的灵魂接受成全”（《答波菲利》II, 2 [SS-2013: 51.10–52.11]）[^ss--2013]，但细读之下可见：灵魂凭其本质无法逃脱自身的处境——它的上升从不完成（这是一种努力，*ephesis* 或*henōsis*，是带有表示言语动作之后缀的名词）；而且，它还以诸神的“善意与照亮”为前提。波菲利此前曾区分“依本质”（*kat' ousian*）为精灵者与仅“依关系”（*kata skhesin*）为精灵者；后者指那些凭卓越生活而被分配精灵身份的人。另一方面，人的灵魂也不可能经由轮回被贬入动物的等级（参杨布里科斯一部灵魂论著的标题，该著由埃梅萨的涅梅西乌斯（Nemesius of Emesa）《论人的本性》第 2 章保存，p. 35.7–11 Morani）。然而有几点仍不清楚：例如，杨布里科斯对人的灵魂与“神圣”灵魂的类上区分如何嵌入这一结构；或者我们该如何看待毕达哥拉斯或通神术师这类卓越乃至半神圣人物的灵魂。类似的关切构成《蒂迈欧注》Fr. 82 与 83 [D-1973] 的底层，它们解读《蒂迈欧篇》41d。
-        step2: |-
+    step2: |-
       与诸神相对照，灵魂带有一大堆否定性特征：它不完善、断续、倾向质料。秩序与美的原因同诸神处于完全的共融之中；灵魂所能得到的，至多只是一份分有（《答波菲利》I, 6–7 [SS-2013: 15.14–17.7]）[^ss--2013]。这一天界等级的不变性令人瞩目，预示了希罗克勒斯、普罗克洛斯与伪狄奥尼修斯（雅典最高法院法官狄奥尼修斯）后来的著作。灵魂的多变性——它“使用各种形式与生命本原”的能力——使它得以依系于较高存在者，并宣称自己“作为天使般纯洁无瑕的灵魂接受成全”（《答波菲利》II, 2 [SS-2013: 51.10–52.11]）[^ss--2013]。然而细读之下可见：凭其本质，灵魂无法逃脱自身处境——它的上升从不完成（那是一种努力，*ephesis* 或*henōsis*，是带有表示动作之后缀的名词）；何况，它还以诸神的“善意与照亮”为前提。波菲利此前曾作区分：一类是“依本质”（*kat' ousian*）为精灵者，另一类仅“依关系”（*kata skhesin*）为精灵者——后者指那些凭卓越生活而被授予精灵身份的人。另一方面，人的灵魂也不可能经轮回被贬入动物的等级（参杨布里科斯一部灵魂论著的标题；该著由埃梅萨的涅梅西乌斯（Nemesius of Emesa）《论人的本性》第 2 章保存，p. 35.7–11 Morani）。然而有几点仍不明朗：例如，杨布里科斯对人的灵魂与“神圣”灵魂的类上区分，究竟如何嵌入这一结构；又如，对毕达哥拉斯或通神术师这类卓越乃至半神圣人物的灵魂，我们该如何看待。类似的关切构成《蒂迈欧注》Fr. 82 与 83 [D-1973] 的底层——它们解读的正是《蒂迈欧篇》41d。
   - id: 77
     kind: body
     source: |-
       Lastly and perhaps most importantly, the soul is irremediably inferior to the *intellect*. Rejecting any internalist interpretation of intellectual processes, Iamblichus regards them as the result of the soul’s illumination by a transcendent entity. Our information on this matter is to be gathered mostly from the late Aristotelian commentators, pseudo-Simplicius (see *In De anima* 313.1–10, with a reference to the “unparticipated” intellect which, if genuinely Iamblichean, would predate Proclean terminology) and Priscian of Lydia (*Metaphrasis in Theophrastum*): these relatively neglected texts are the object of the pioneering work Steel 1978. Indeed, such a position implies some knowledge of the philosophical debates on this issue within the Aristotelian tradition (Theophrastus, Alexander). Its significance is enormous, insofar as it directly leads to the rejection of Plotinus’ doctrine of the undescended soul: that is, the idea that something of the soul always remains in the intelligible world. Thus, rejecting the notion that the soul shares *homeomereia* with the remaining intellectual entities, Iamblichus writes:
-        step1: |-
-      最后，或许也是最重要的：灵魂无可救药地低于努斯。杨布里科斯拒斥对理智过程的任何内在论解读，把它们视为一个超越实体照亮灵魂的结果。我们关于此事的信息主要得自晚期亚里士多德注家：伪辛普里丘（见《论灵魂注》313.1–10，其中提到一个“不被分有的”努斯；若此说确属扬布里柯斯派，它将早于普罗克洛斯的术语）与吕底亚的普里西安（《忒奥弗拉斯托斯著作转述》）；这些相对被忽视的文本是 Steel 1978 开创性研究的对象。的确，这一立场意味着对亚里士多德传统内部相关哲学辩论（忒奥弗拉斯托斯、亚历山大）的某种了解。其意义巨大：它直接导致对普罗提诺未堕落灵魂学说的拒斥——即灵魂总有一部分留在理知世界的主张。于是，拒绝灵魂与其余理智实体共享*homeomereia*（同质部分）的观念，杨布里科斯写道：
-        step2: |-
-      最后，或许也最重要：灵魂无可救药地低于努斯。杨布里科斯拒斥对理智过程的任何内在论解读，把它们看作一个超越实体照亮灵魂的结果。我们对此事的了解主要得自晚期亚里士多德注家：伪辛普里丘（见《论灵魂注》313.1–10，其中提到一个“不被分有的”努斯；此说若确属扬布里柯斯派，则将早于普罗克洛斯的术语）与吕底亚的普里西安（《忒奥弗拉斯托斯著作转述》）。这些相对被忽视的文本，正是 Steel 1978 开创性研究的对象。这一立场确实意味着：杨布里科斯对亚里士多德传统内部的相关辩论（忒奥弗拉斯托斯、亚历山大）有所了解。其意义巨大：它直接导致对普罗提诺未堕落灵魂学说的拒斥——所谓灵魂总有一部分留在理知世界。于是，在拒绝灵魂与其余理智实体共享*homeomereia*（同质部分）这一观念时，杨布里科斯写道：
+    step1: |-
+      最后，或许也是最重要的：灵魂无可救药地低于努斯。杨布里科斯拒斥对理智过程的任何内在论解读，把它们视为一个超越实体照亮灵魂的结果。我们关于此事的信息主要得自晚期亚里士多德注家：伪辛普里丘（见《论灵魂注》313.1–10，其中提到一个“不被分有的”努斯；若此说确属杨布里科斯派，它将早于普罗克洛斯的术语）与吕底亚的普里西安（《忒奥弗拉斯托斯著作转述》）；这些相对被忽视的文本是 Steel 1978 开创性研究的对象。的确，这一立场意味着对亚里士多德传统内部相关哲学辩论（忒奥弗拉斯托斯、亚历山大）的某种了解。其意义巨大：它直接导致对普罗提诺未堕落灵魂学说的拒斥——即灵魂总有一部分留在理知世界的主张。于是，拒绝灵魂与其余理智实体共享*homeomereia*（同质部分）的观念，杨布里科斯写道：
+    step2: |-
+      最后，或许也最重要：灵魂无可救药地低于努斯。杨布里科斯拒斥对理智过程的任何内在论解读，把它们看作一个超越实体照亮灵魂的结果。我们对此事的了解主要得自晚期亚里士多德注家：伪辛普里丘（见《论灵魂注》313.1–10，其中提到一个“不被分有的”努斯；此说若确属杨布里科斯派，则将早于普罗克洛斯的术语）与吕底亚的普里西安（《忒奥弗拉斯托斯著作转述》）。这些相对被忽视的文本，正是 Steel 1978 开创性研究的对象。这一立场确实意味着：杨布里科斯对亚里士多德传统内部的相关辩论（忒奥弗拉斯托斯、亚历山大）有所了解。其意义巨大：它直接导致对普罗提诺未堕落灵魂学说的拒斥——所谓灵魂总有一部分留在理知世界。于是，在拒绝灵魂与其余理智实体共享*homeomereia*（同质部分）这一观念时，杨布里科斯写道：
   - id: 78
     kind: body
     source: |-
       > the doctrine opposed to this separates soul, insofar as it is born second with regard to the intellect as a distinct hypostasis, and interprets what, in it, partakes of intellect as something dependent from intellect, although it is susceptible of individual existence; and it separates it from all the higher genera. (*De anima*, sect. 7 [DF-2002])[^df--2002]
-        step1: |-
+    step1: |-
       > 与此相反的学说则把灵魂——就其作为有别于努斯的独立实体而第二位出生而言——分离出来，并把它之内分有努斯的东西解读为依赖努斯者，尽管它能够有个别的存在；而且它把它与一切更高的属分离开来。（《论灵魂》第 7 节 [DF-2002]）[^df--2002]
-        step2: |-
+    step2: |-
       > 与此相反的学说，则把灵魂分离出来——就其作为有别于努斯的独立实体而位居第二而言——把它之内分有努斯的东西解读为依赖努斯者，尽管那东西能够个别地存在；并且，它把灵魂与一切更高的属分离开来。（《论灵魂》第 7 节 [DF-2002]）[^df--2002]
   - id: 79
     kind: body
     source: |-
       Iamblichus also fiercely attacks Plotinus (as well as Theodorus of Asine) for the assumption that “there is something in us that is impassible and always thinking” (*In Timaeum* [D-1973: Fr. 87]; on this text see Rist 1975 and Dillon 2005)[^dillon-2005][^rist-1975]. However, here again the attitude of the superior souls with regard to their descent is somewhat obscure: according to Damascius (*In Parm*. IV, 24.1–7 Combès & Westerink), Iamblichus taught that the first class of souls “descends while not descending”, and that the descent “only effects a presence alongside what is here”. This problem was tackled by van den Berg (1997; opting for the existence of unaffected pure souls and thus positing Iamblichus as an intermediary between Plotinus and Proclus) and Taormina (2012; emphasizing that every soul remains separated from the intelligible and only relates to it through participation). It is, in any case, clear that Iamblichus conceived of the soul’s presence in this world as something natural and normal, not as a transitory exile, even less as “always an evil” (the theory of Cronius, Numenius and Harpocration, criticized in *De anima* sect. 29 [DF-2002])[^df--2002].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      杨布里科斯还猛烈抨击普罗提诺（以及阿西内的狄奥多鲁斯）的这一假定：“在我们之中有某种不受感动的、永远在思维的东西”（《蒂迈欧注》[D-1973: Fr. 87]；关于此文本见 Rist 1975 与 Dillon 2005）[^dillon-2005][^rist-1975]。然而在此处，较高灵魂对其下落的态度也有些含混：据达马斯基乌斯（《巴门尼德注》IV, 24.1–7 Combès & Westerink），杨布里科斯教导说，第一类灵魂“下降而不下降”，而且下降“只造成一种与此地之物的同在”。van den Berg（1997；主张存在不受影响的纯粹灵魂，从而把杨布里科斯定位为普罗提诺与普罗克洛斯之间的中介）与 Taormina（2012；强调每一灵魂都保持与理知者的分离，只经由分有而与之相关）都处理过这一问题。无论如何，显然杨布里科斯把灵魂在此世中的在场视为自然而正常的事，而非短暂的流放，更非“永远是一种恶”（克罗尼乌斯（Cronius）、努梅尼乌斯与哈尔波克拉提翁（Harpocration）的理论，《论灵魂》第 29 节 [DF-2002] 中受到批评）[^df--2002]。
+    step2: |-
+      杨布里科斯还猛烈抨击普罗提诺（以及阿西内的狄奥多鲁斯）的一个假定：“在我们之中有某种不受感动的、永远在思维的东西”（《蒂迈欧注》[D-1973: Fr. 87]；关于此文本见 Rist 1975 与 Dillon 2005）[^dillon-2005][^rist-1975]。然而在此处，较高灵魂对其下落的态度也有些含混。据达马斯基乌斯（《巴门尼德注》IV, 24.1–7，Combès & Westerink 版），杨布里科斯教导说：第一类灵魂“下降而不下降”，且下降“只造成一种与此地之物的同在”。这一问题 van den Berg（1997；主张存在不受影响的纯粹灵魂，从而把杨布里科斯定位为普罗提诺与普罗克洛斯之间的中介）与 Taormina（2012；强调每一灵魂都保持与理知者的分离，只经由分有而与之相关）都曾处理。无论如何，有一点是清楚的：杨布里科斯把灵魂在此世的在场视为自然而正常之事——不是短暂的流放，更不是“永远的一种恶”（克罗尼乌斯（Cronius）、努梅尼乌斯与哈尔波克拉提翁（Harpocration）的理论，在《论灵魂》第 29 节 [DF-2002] 中受到批评）[^df--2002]。
   - id: 80
     kind: body
     source: |-
       ### 6.2 Soul and embodiment
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.2 灵魂与具身
+    step2: |-
+      ### 6.2 灵魂与具身
   - id: 81
     kind: body
     source: |-
       It is fair to say that Iamblichus—in this respect closer to Porphyry—focuses more closely than Plotinus on the soul’s indwelling within the body and on the actions it performs alongside it. In what remains of his treatise *On the Soul*, he reviews all sorts of historical theses about the composition, powers and activities of the soul, and does not hesitate to engage his Neoplatonic predecessors.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      可以说，杨布里科斯——在此点上更接近波菲利——比普罗提诺更关注灵魂居于身体之内这一事实，以及灵魂随同身体一道实施的行为。在其《论灵魂》的现存部分中，他检视了关于灵魂的构造、权能与活动的各种历史论题，并毫不犹豫地与新柏拉图主义的前辈们交锋。
+    step2: |-
+      可以说，杨布里科斯——在此点上更近于波菲利——比普罗提诺更关切灵魂居于身体之内这一事实，以及灵魂随身体一道实施的行为。在其《论灵魂》的现存部分中，他检视了关于灵魂之构造、权能与活动的各种历史论题，并毫不犹豫地与新柏拉图主义前辈交锋。
   - id: 82
     kind: body
     source: |-
       In the available testimonies (Priscian in particular: see the assessment in Huby 1993)[^huby-1993], the soul is constantly associated with the notion of “life”. The latter is approached here not so much as an essential psychic property (as had been the case in the *Phaedo*), as in terms of the corporeal “life-principles” (*zōai*, most often in the plural) that the soul is said to project outside of itself in order to get a hold on the external world:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在可得的证词中（普里西安的证据尤其重要：相关评估见 Huby 1993）[^huby-1993]，灵魂始终与“生命”概念相连。此处对生命的理解，与其说是把它当作本质性的灵魂属性（如《斐多篇》中的情形），不如说是从形体性的“生命本原”（*zōai*，多用复数）着眼——据说灵魂把这些生命本原投射于自身之外，以便把握外部世界：
+    step2: |-
+      在可得的证词中（普里西安的证据尤其重要：相关评估见 Huby 1993）[^huby-1993]，灵魂始终与“生命”概念相连。此处对生命的理解，与其说把它当作本质性的灵魂属性（如《斐多篇》中的情形），不如说着眼于形体性的“生命本原”（*zōai*，多用复数）——据说灵魂把这些生命本原投射于自身之外，以便把握外部世界：
   - id: 83
     kind: body
     source: |-
       > insofar as it puts forth other levels of life that incline towards generation and consort with the body, thus far (soul) is involved in the order of the cosmos (*Letter to Macedonius*, *apud* Stobaeus, *Anthology* II, 8, 45 [DP-2009: 25])[^dp--2009].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 就它伸出另一些趋向生成、与身体交游的生命层级而言，（灵魂）就此而言被卷入宇宙的秩序之中（《致马其顿尼乌斯书》，载斯托拜乌斯，《文选》II, 8, 45 [DP-2009: 25]）[^dp--2009]。
+    step2: |-
+      > 灵魂伸出另一些生命层级——它们趋向生成、与身体交游——就其如此而言，（灵魂）便被卷入宇宙的秩序（《致马其顿尼乌斯书》，载斯托拜乌斯《文选》II, 8, 45 [DP-2009: 25]）[^dp--2009]。
   - id: 84
     kind: body
     source: |-
       In this manner, psychic activities that involve a relationship with external objects (such as sense-perception) presuppose a dialectic relationship between the soul’s essence and the multiplicity of powers it deploys: the individual and immaterial entity “soul” goes out of itself to grasp enmattered items, before going back (literally “converting”, *epistrephein*) in order to compare the data thus aggregated to (stable) Forms, which lend it intelligibility. As a result,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如此，涉及外部对象的心灵活动（如感觉知觉）便预设了灵魂的本质与其所运用的复多权能之间的辩证关系：那个个别而无形体的实体“灵魂”走出自身去把握具质料的事项，然后再回返（字面义即“回转”，*epistrephein*），以便把如此聚集的数据与（稳定的）诸理念相比较——正是后者赋予它可理解性。结果是：
+    step2: |-
+      如此，凡涉及外部对象的心灵活动（如感觉知觉）都预设了灵魂的本质与其所运用的复多权能之间的辩证关系：那个个别而无形体的实体“灵魂”走出自身，去把握具质料的事项；继而回返（字面义即“回转”，*epistrephein*），把如此聚拢的数据与（稳定的）诸理念相较——正是后者赋予其可理解性。结果是：
   - id: 85
     kind: body
     source: |-
       > the particular soul, as being in the middle of all the kinds of things of this world, and being divided together with them and being multiplied along with them, not only remains but also changes, living through so many partial lives. And not only with regard to its dispositions, but also with regard to its substance it changes somewhat. (Priscian, *Metaphrasis* 32.15–19 [trans. Huby 1993: 8])[^huby-1993]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 特殊灵魂处于世上一切类的事物之中间，与它们一同被分割、随它们一同被复多化，因而不仅保持不变，而且也发生变化，经历着如此之多的部分生命。不仅就其规定而言，而且就其实体而言，它都有所变化。（普里西安，《转述》32.15–19 [Huby 1993: 8 英译]）[^huby-1993]
+    step2: |-
+      > 特殊灵魂居于世上一切类事物的中间，与它们一同被分割、随它们一同被复多化；因而它不仅持存，而且变化，经历着如此之多的部分生命。不仅就其规定而言，而且就其实体而言，它都有所变化。（普里西安《转述》32.15–19 [Huby 1993: 8 英译]）[^huby-1993]
   - id: 86
     kind: body
     source: |-
       Imagination, being torn between sensibility and abstract intellection, whose difference it helps bridge, functions in a similar way and contributes to making the soul the median entity *par excellence*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      想象介于感性与抽象理智之间，并有助于弥合二者的差异；它以类似的方式运作，促成灵魂成为卓越超群的中间实体。
+    step2: |-
+      想象介于感性与抽象理智之间，并有助于弥合二者的差异。它以类似的方式运作，促成灵魂成为那卓越超群的中间实体。
   - id: 87
     kind: body
     source: |-
       Sensibility, then, would seem to be proof of the soul’s radical inability to remain in itself, as opposed to the intellect, which is immobile and in actuality by its own nature (another sign of the fact that the unity of the soul is no longer considered self-evident is the introduction of the so-called “vehicle” of the soul, a spiritual garment that acts as an interface between the soul and bodies: on this subject, cf. Finamore 1985)[^finamore-1985]. What stands out as most remarkable is the notion that the soul’s essence is also challenged in the course of sensitive acts. Iamblichus here inherits the Aristotelian terminology of Essence/Substance (*ousia*)—Power (*dynamis*)—Activity (*energeia*) (see LCH-2022)[^lch--2022][^lch--2022-2]: a single essence—say, the human soul—acts as a substratum for a plurality of powers (sensitive, intellective, imaginative, etc.), and those powers are in turn actualized in a greater plurality of activities (sense-perception, *aisthēsis*, of *x*, *y*, or *z*; intellection, *noēsis*, about *x*, *y*, or *z*). These three terms are hierarchised, insofar as the soul can remain inactive: but in Aristotle, this hierarchy remains largely implicit, contrary to Iamblichus and his unequivocal conception of vertical causality (see above, Section 3.5). In applying his own principles, Iamblichus argues that, since the effect is nothing outside of its cause, any flaw connatural to the effect would also have to be preassumed in the cause. Since, then, the soul’s *activities* show instability and imperfection, this inability to act consistently and permanently points to a break in its very *essence* (cf. *De anima* sect. C [DF-2002] = pseudo-Simplicius, *In De anima* 89.33–35)[^df--2002].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是，感性似乎证明了灵魂根本无力保持于自身之内，这与努斯相对——后者凭其本性而是不动的、现实的（另一个表明灵魂的统一不再被视为自明的迹象，是引入了所谓的灵魂“载体”：一种充当灵魂与身体之间界面的灵性外衣；关于此题参 Finamore 1985）[^finamore-1985]。最值得注意的是这一观念：灵魂的本质也在感性活动中受到挑战。杨布里科斯在此继承了亚里士多德的本质/实体（*ousia*）——权能（*dynamis*）——活动（*energeia*）术语（见 LCH-2022）[^lch--2022][^lch--2022-2]：单一的本质——比如人的灵魂——充当众多权能（感性的、理智的、想象的等）的基底，而这些权能又依次在更大的复多活动中被实现（对*x*、*y*或*z*的感觉知觉*aisthēsis*；关于*x*、*y*或*z*的理智活动*noēsis*）。这三个术语被等级化，因为灵魂可以保持不活动：但在亚里士多德那里，这一等级大体仍是隐含的；杨布里科斯则不然，他有明确无误的纵向因果观（见上文 3.5 节）。在贯彻自己的原理时，杨布里科斯论证说：既然结果在其原因之外什么都不是，那么任何与结果相固有的缺陷也必须被预先设定于原因之中。既然灵魂的活动显示出不稳定与不完善，这种无法一贯而恒久地行动的无能，便指向其本质中的断裂（参《论灵魂》C 节 [DF-2002] ＝ 伪辛普里丘，《论灵魂注》89.33–35）[^df--2002]。
+    step2: |-
+      于是，感性似乎证明了灵魂根本无力持守于自身之内；与之相对的是努斯——它凭本性而是不动的、现实的（另一迹象同样表明：灵魂的统一已不再被视为自明，即所谓灵魂“载体”的引入——一种充当灵魂与身体之间界面的灵性外衣；关于此题参 Finamore 1985）[^finamore-1985]。最堪注意的，是这一观念：灵魂的本质也在感性活动中受到挑战。杨布里科斯在此继承了亚里士多德的术语三联：本质/实体（*ousia*）——权能（*dynamis*）——活动（*energeia*）（见 LCH-2022）[^lch--2022][^lch--2022-2]。单一的本质——比如人的灵魂——充当众多权能（感性的、理智的、想象的等）的基底；这些权能又依次在更大的复多活动中被实现（对*x*、*y*或*z*的感觉知觉*aisthēsis*；关于*x*、*y*或*z*的理智活动*noēsis*）。这三个术语被等级化：灵魂可以保持不活动。但在亚里士多德那里，这一等级大体仍是隐含的；杨布里科斯则不然——他持有明确无误的纵向因果观（见上文 3.5 节）。贯彻自己的原理时，他论证说：既然结果在其原因之外什么都不是，那么任何与结果相固有的缺陷也必须预先设定于原因之中。既然灵魂的活动显示出不稳定与不完善，那么这种无法一贯而恒久行动的无能，便指向其本质中的断裂（参《论灵魂》C 节 [DF-2002] ＝ 伪辛普里丘《论灵魂注》89.33–35）[^df--2002]。
   - id: 88
     kind: body
     source: |-
       This is Iamblichus’ notion of the “changing self”, as first expounded by Steel 1978. Such a conception of the human soul represents a major break in the Platonic tradition, which until then had been prone to emphasize the soul’s inner dignity and divinity: on the other hand, it is a very convenient way to account for human fallibility. One could interpret it as a literal exegesis of *Timaeus* 35A: the Demiurge creates the soul’s essence as a mix of indivisible and divisible Being, so that—one might think—it is no more indivisible than it is divisible. By the same reasoning, Iamblichus concludes that the soul is at the same time changing and unchanging, dying and undying. This, at least, is what characterizes “particular” souls (*merikai* or *en merei*: a terminology propagated by Iamblichus—see *Reply to Porphyry* V, 2 [SS-2013: 149.26]—before it became usual in later authors)[^ss--2013]. The case of divine souls is less clear-cut, since they are able to mend the gap between essence and activity (*De anima* sect. 20–21; see also 18). It is unclear whether—and how—this picture can be reconciled with Iamblichus’ allusions to “two souls”, one originating in the intelligible, the other given to us by celestial influences (*Reply to Porphyry* VIII, 6 [SS-2013: 199.1–12])[^ss--2013].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这就是杨布里科斯的“变化的自我”概念，由 Steel 1978 首次阐明。这种对人的灵魂的构想代表着柏拉图传统中的一次重大断裂，该传统此前一向倾向于强调灵魂内在的尊严与神性；另一方面，它又是解释人类可错性的极便利方式。可以把它解读为对《蒂迈欧篇》35A 的字面解经：巨匠造物主把灵魂的本质创造为不可分的存在与可分的存在之混合，因此——人们或许会想——它之不可分恰如其可分。依同一推理，杨布里科斯得出结论：灵魂既是变化的又是不变的，既是会死的又是不死的。至少，这是“特殊”灵魂（*merikai* 或*en merei*：一个由杨布里科斯推广的术语——见《答波菲利》V, 2 [SS-2013: 149.26]——后成为晚期作者的惯用语）的特征。神圣灵魂的情形则不那么清晰，因为它们能够弥合本质与活动之间的裂隙（《论灵魂》第 20–21 节；另见第 18 节）。这幅图景能否——以及如何——与杨布里科斯对“两个灵魂”的暗示相调和（一个源于理知界，另一个由天界影响赋予我们：《答波菲利》VIII, 6 [SS-2013: 199.1–12]）[^ss--2013]，仍不清楚。
+    step2: |-
+      这就是杨布里科斯的“变化的自我”概念，由 Steel 1978 首次阐明。这种对人的灵魂的构想，是柏拉图传统中的一次重大断裂——此前该传统一向强调灵魂内在的尊严与神性；另一方面，它又是解释人类可错性的极便利方式。可以把它解读为对《蒂迈欧篇》35A 的字面解经：巨匠造物主把灵魂的本质造为不可分存在与可分存在之混合；因此——人们或许会想——它之不可分恰如其可分。依同一推理，杨布里科斯得出结论：灵魂既变化又不变，既会死又不死。至少，“特殊”灵魂（*merikai* 或*en merei*——一个由杨布里科斯推广的术语，见《答波菲利》V, 2 [SS-2013: 149.26][^ss--2013]——此后成为晚期作者的惯用语）是如此。神圣灵魂的情形则不那么清晰，因为它们能够弥合本质与活动之间的裂隙（《论灵魂》第 20–21 节；另见第 18 节）。至于这幅图景能否——以及如何——与杨布里科斯对“两个灵魂”的暗示相调和（一个源于理知界，另一个由天界影响赋予我们：《答波菲利》VIII, 6 [SS-2013: 199.1–12]）[^ss--2013]，仍不明朗。
   - id: 89
     kind: body
     source: |-
       ### 6.3 Soul’s ascent and salvation; religion
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.3 灵魂的上升与拯救；宗教
+    step2: |-
+      ### 6.3 灵魂的上升与拯救；宗教
   - id: 90
     kind: body
     source: |-
       Belittled as it is in the grand scheme of things, and unable to achieve any perpetual union with the intelligible world, the human soul is deemed connatural to “nothingness” (*Reply to Porphyry* III, 18 [SS-2013: 108.16–17])[^ss--2013]. It now needs external help from the gods—that is, *grace*—in order to perform any relevant action. Broken in its *essence*, it is, however, able to regain some ground through its *activity*. Co-action with the gods, “godlike action” (*theourgia*, i.e., theurgy), is the purpose of the Iamblichean soul, which it attains through religious acts such as prayer, offerings, sacrifice, etc., that is the very liturgy that Porphyry had attacked in the *Letter to Anebo*. Hence the necessary connection between two fields, psychology and the philosophy of religion, which was clearly set out by Shaw (1995). Ritual is given precedence over philosophical ascesis or discursive thinking, although Iamblichus would say that he is merely giving philosophy its due place rather than abolishing it: it is also true that he underlines the need for the religious practitioner to be virtuous, individual sanctity being a requisite to make the medium apt to receive the gods’ influx. But Iamblichus heavily stresses that the key to the whole process always lies in the gods: very interestingly, “human”, “artificial” or “natural” contributions are equally side-lined and relegated to the status of mere auxiliary causes (see, e.g., *Reply to Porphyry* III, 9 [SS-2013: 89.7–9])[^ss--2013]. He is also adamant about the human inability to extort any effect from the higher beings (i.e., via “magic”), since they are by nature impassible.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      人的灵魂在宏大格局中受到贬抑，又无法与理知世界达成任何永恒的统一，故被认为与“虚无”相固有（《答波菲利》III, 18 [SS-2013: 108.16–17]）[^ss--2013]。它如今需要来自诸神的外在帮助——也就是恩典——才能实施任何有意义的活动。它的本质已然破碎，然而它能够经由活动重获一些阵地。与诸神的协同行动，“似神的行为”（*theourgia*，即通神术）是杨布里科斯派灵魂的目的；灵魂经由祈祷、供奉、献祭等宗教行为达到这一目的——这正是波菲利在《致阿涅波书》中攻击的那种礼仪。由此确立了两个领域——心理学与宗教哲学——之间的必然联系；Shaw（1995）对此有清楚的阐述。仪式被置于哲学修行或推论思维之上，尽管杨布里科斯会说，他只是给哲学以应得的位置，而非废除它：同样真实的是，他强调宗教践行者必须有德——个人的圣洁是使中介适于承受诸神流入的先决条件。但杨布里科斯极力强调：整个过程的钥匙始终在诸神手中。非常值得注意的是，“人的”“人工的”或“自然的”贡献都被同样边缘化，被贬为单纯的辅助性原因（例如见《答波菲利》III, 9 [SS-2013: 89.7–9]）[^ss--2013]。他同样坚定地主张：人无法从较高存在者那里强取任何效果（即通过“魔法”），因为后者按本性是不受感动的。
+    step2: |-
+      人的灵魂在宏大格局中受到贬抑，又无法与理知世界达成任何永恒统一，故被认为与“虚无”相固有（《答波菲利》III, 18 [SS-2013: 108.16–17]）[^ss--2013]。它如今需要来自诸神的外在帮助——也就是恩典——方能实施任何有意义的活动。其本质已然破碎；然而，它能经由活动重获一些阵地。与诸神协同行动——“似神的行为”（*theourgia*，即通神术）——是杨布里科斯派灵魂的目的；灵魂经由祈祷、供奉、献祭等宗教行为达致这一目的，而这正是波菲利在《致阿涅波书》中抨击的那套礼仪。由此，心理学与宗教哲学这两个领域之间的必然联系得以确立；Shaw（1995）对此有清楚的阐述。仪式被置于哲学修行或推论思维之上，尽管杨布里科斯会说：他只是给哲学以应得的位置，而非废除哲学。同样真实的是，他强调宗教践行者必须有德——个人的圣洁，是使中介适于承受诸神流入的先决条件。但杨布里科斯极力强调：整个过程的钥匙始终握在诸神手中。非常值得注意的是：“人的”“人工的”或“自然的”贡献被同样边缘化，贬为单纯的辅助性原因（例如见《答波菲利》III, 9 [SS-2013: 89.7–9]）[^ss--2013]。他同样坚定主张：人无法凭“魔法”从较高存在者那里强取任何效果，因为后者按本性不受感动。
   - id: 91
     kind: body
     source: |-
       It remains beyond doubt that his stance on the matter is anti-intellectualist in nature and thus in stark contrast with the teachings of Plotinus and Porphyry. One does not start with self-knowledge, as Porphyry had set out to demonstrate in a treatise *On the phrase: “Know thyself”,* which he had dedicated to Iamblichus, no doubt cognizant of all the implications of this (Fr. 273 Smith = Stobaeus, *Anthology* III, 21, 26). Instead, knowledge of the gods encompasses self-knowledge (*Reply to Porphyry* X, 1 [SS-2013: 212.2–3])[^ss--2013] and should be taken as the correct starting-point. What remains intellectualistic in Iamblichus’ approach is the conviction that not acting in the light of theological knowledge leads to the failure of the ritual process (*ibid.* II, 10 [SS-2013: 68.25–69.20])[^ss--2013]. Accordingly, the best theurgist is also the best theologian: and since Iamblichus’ theology is highly philosophical in nature, insofar as it strives to identify the Pagan gods with metaphysical forces or concepts and submits them to the authority of the Platonic One, it seems necessary that, in Iamblichus’ system, precedence be given to Neoplatonist religious specialists deriving their information from the appropriate literature. In this respect, theurgy represents a rationalization of the irrational, rather than the converse. It is also important to note that the conflict between the Plotino-Porphyrian approach and Iamblichus’ one does not simply amount to a conflict between philosophy and religion; rather, it opposes two different modes of access to the divine, with Iamblichus’ predecessors laying emphasis on silent ascesis and the shedding of our external identity, and accordingly viewing corporeality and materiality as something inherently negative.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      毫无疑问，他在此事上的立场在本质上是反理智主义的，因而与普罗提诺和波菲利的教导形成鲜明对照。人并不是从自我认识开始——波菲利曾在一部《论“认识你自己”这句话》的论著中力图证明这一点，并把它题献给杨布里科斯，无疑深知其中的全部含义（Fr. 273 Smith ＝ 斯托拜乌斯，《文选》III, 21, 26）。相反，对诸神的知识囊括了自我认识（《答波菲利》X, 1 [SS-2013: 212.2–3]）[^ss--2013]，应当被视为正确的起点。杨布里科斯进路中残存的理智主义成分，是这样一种信念：不在神学之光的引导下行动，会导致仪式过程的失败（同上 II, 10 [SS-2013: 68.25–69.20]）[^ss--2013]。据此，最好的通神术师也是最好的神学家；而由于杨布里科斯的神学在本质上是高度哲学性的——它力图把异教诸神与形而上学力量或概念相等同，并使之服从柏拉图式太一的权威——在杨布里科斯的体系中，优先地位似乎必须给予那些从恰当文献获取信息的新柏拉图主义宗教专家。就此而言，通神术代表了对非理性之物的理性化，而非相反。同样值得注意的是：普罗提诺—波菲利进路与杨布里科斯进路之间的冲突，并不单纯是哲学与宗教的冲突；毋宁说，它对立的是通达神圣的两种不同方式——杨布里科斯的前辈们强调沉默的修行与对外在身份的摆脱，并相应地把形体性与物质性视为本质上否定的东西。
+    step2: |-
+      毫无疑问，他在此事上的立场本质上是反理智主义的，与普罗提诺和波菲利的教导形成鲜明对照。人并不是从自我认识开始——波菲利曾在一部《论“认识你自己”这句话》的论著中力图证明这一点，并把它题献给杨布里科斯，无疑深知其中的全部含义（Fr. 273 Smith ＝ 斯托拜乌斯《文选》III, 21, 26）。相反，对诸神的知识囊括了自我认识（《答波菲利》X, 1 [SS-2013: 212.2–3]）[^ss--2013]，应当被当作正确的起点。杨布里科斯进路中残存的理智主义，是这样一条信念：不在神学之光的引导下行动，会导致仪式过程的失败（同上 II, 10 [SS-2013: 68.25–69.20]）[^ss--2013]。据此，最好的通神术师也是最好的神学家；而杨布里科斯的神学本质上高度哲学化——它力图把异教诸神与形而上学力量或概念相等同，并使之服从柏拉图式太一的权威。于是，在杨布里科斯的体系中，优先地位似乎必须给予那些从恰当文献获取信息的新柏拉图主义宗教专家。就此而言，通神术代表了对非理性之物的理性化，而非相反。同样值得注意的是：普罗提诺—波菲利进路与杨布里科斯进路之间的冲突，并不单纯是哲学与宗教的冲突；毋宁说，它对立的是通达神圣的两种方式——杨布里科斯的前辈们强调沉默的修行与对外在身份的摆脱，并相应地把形体性与物质性视为本质上否定的东西。
   - id: 92
     kind: body
     source: |-
       According to Iamblichus, the gods help mankind overcome its inherent weakness by revealing symbols to them that will establish some sort of connection: one of the criticisms he lays on Porphyry is that his views will “leave earth deprived of the presence of the superior beings” (*Reply to Porphyry* I, 8 [SS-2013: 21.12–13]; on related issues concerning Porphyry’s and Iamblichus’ contrasting views on dreams and divination, see Timotin [2022] 109–126)[^ss--2013]. These symbols may differ in nature: items, rituals, myths, theological revelations such as the *Chaldean Oracles*, etc.; and most of them are placed under the patronage of a particular deity, thus creating a “chain” (*seira*) of, say, sun-like entities. In this manner, Iamblichean ontology necessarily leads to cultural traditionalism; it also opens up the possibility of a grandiose *sumphōnia* of all Pagan schools or currents, be they Hellenic or “barbarian”, the latter actually being assigned even more prestige insofar as the Egyptians, Assyrians, Phoenicians etc. enjoy greater antiquity and—supposedly—avoided innovation, contrary to the Greeks (*Reply to Porphyry* VII, 5 [SS-2013: 192.22–24])[^ss--2013]. A whole new field thus opened up for Platonists in which they could exercise their exegetical virtuosity in search of remarkable analogies. It is no wonder, then, that Iamblichus’ views were heartily embraced by later proponents of a “Pagan revival”, of whom the most prominent was Julian the Apostate: a Roman emperor as well as the pupil of Maximus of Ephesus, who was a philosopher in the tradition of Iamblichus in addition to being the most infamous theurgist of his time.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      依杨布里科斯之见，诸神帮助人类克服其固有的软弱，办法是向他们启示一些能够建立某种联系的符号：他对波菲利的批评之一是，后者的观点将“使大地被剥夺较高存在者的在场”（《答波菲利》I, 8 [SS-2013: 21.12–13]；关于波菲利与杨布里科斯在梦与占卜上对立观点的相关问题，见 Timotin [2022] 109–126）[^ss--2013]。这些符号的性质可以各不相同：物件、仪式、神话、神学启示如《迦勒底神谕》等；其中大多数被置于某位特定神明的庇护之下，由此形成一条——比如说——太阳式实体的“链”（*seira*）。如此，杨布里科斯派存在论必然导向文化传统主义；它也开启了把一切异教学派或流派（无论希腊的还是“蛮族的”）整合为一场宏伟*sumphōnia*（和谐）的可能；后者实际上被赋予更高的威望，因为埃及人、亚述人、腓尼基人等享有更古老的年代，而且——据认为——避免了创新，与希腊人不同（《答波菲利》VII, 5 [SS-2013: 192.22–24]）[^ss--2013]。由此，一个全新的领域向柏拉图主义者敞开，他们可以在其中施展解经的绝技，寻找惊人的类比。难怪杨布里科斯的观点被“异教复兴”的后来倡导者由衷拥抱，其中最突出的是背教者尤利安：他既是罗马皇帝，又是以弗所的马克西穆斯的弟子；后者属于杨布里柯斯传统的哲学家，同时也是其时代最恶名昭著的通神术师。
+    step2: |-
+      依杨布里科斯之见，诸神帮助人类克服其固有的软弱，办法是向他们启示一些能够建立联系的符号。他对波菲利的批评之一是：后者的观点将“使大地被剥夺较高存在者的在场”（《答波菲利》I, 8 [SS-2013: 21.12–13]；关于波菲利与杨布里科斯在梦与占卜上对立观点的相关问题，见 Timotin [2022] 109–126）[^ss--2013]。这些符号的性质可以各不相同：物件、仪式、神话，以及《迦勒底神谕》这样的神学启示，等等；其中大多数被置于某位特定神明的庇护之下，由此形成一条——比如说——太阳式实体的“链”（*seira*）。如此，杨布里科斯派存在论必然导向文化传统主义；它也开启了一种可能：把一切异教学派或流派（无论希腊的还是“蛮族的”）整合为一场宏伟的*sumphōnia*（和谐）。“蛮族的”传统实际上被赋予更高的威望：埃及人、亚述人、腓尼基人等享有更古老的年代，而且——据认为——避免了创新，与希腊人不同（《答波菲利》VII, 5 [SS-2013: 192.22–24]）[^ss--2013]。由此，一个全新的领域向柏拉图主义者敞开：他们可以在其中施展解经绝技，寻找惊人的类比。难怪杨布里科斯的观点被“异教复兴”的后来倡导者由衷拥抱——其中最突出的是背教者尤利安：他既是罗马皇帝，又是以弗所的马克西穆斯的弟子；后者属于杨布里科斯传统的哲学家，同时也是其时代最恶名昭著的通神术师。
   - id: 93
     kind: body
     source: |-
       ## 7. Ethics and Politics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 7. 伦理学与政治学
+    step2: |-
+      ## 7. 伦理学与政治学
   - id: 94
     kind: body
     source: |-
       ### 7.1 Neoplatonism and politics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.1 新柏拉图主义与政治学
+    step2: |-
+      ### 7.1 新柏拉图主义与政治学
   - id: 95
     kind: body
     source: |-
       Neoplatonism has often been regarded as a theological and other-worldly philosophy which assigns little (if any) significance to politics and conceives of ethics merely as an ascetic path for the separation of the soul from the body. This view has been questioned by D.J. O’Meara and the significance of Neoplatonist political philosophy is gaining increasing attention (see O’Meara 2003; Schramm 2013)[^o’meara-2003][^schramm-2013]. Iamblichus wrote a whole treatise *On virtues*, which is lost but whose content can be inferred from later sources. In addition to this, references to ethics and politics can be gathered from his extant works, especially the letters preserved by Johannes Stobaeus (see DP-2009; TP-2010)[^dp--2009][^tp--2010]. It is a notable fact that some of Iamblichus’ interlocutors were influential figures in the fourth-century Roman empire, as is for example the case with Sopater of Apamea (see above, Section 1.1). It is somewhat difficult to clearly grasp Iamblichus’ position on these issues, since his treatise on virtues is lost, the later testimonia are cursory and Iamblichus’ letters are for the most part introductory and refrain from philosophical technicalities.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      新柏拉图主义常被视为一种神学的、彼岸世界的哲学：它几乎不赋予政治任何意义，并把伦理仅仅构想为灵魂与身体相分离的一条苦修之路。这一观点已受到 D.J. O'Meara 的质疑；新柏拉图主义政治哲学的意义正获得越来越多的关注（见 O'Meara 2003；Schramm 2013）[^o’meara-2003][^schramm-2013]。杨布里科斯写过一部完整的论著《论德性》，虽已亡佚，其内容却可由后来的来源推知。除此之外，伦理与政治方面的论述可从其现存著作中辑出，尤其是斯托拜乌斯保存的书信（见 DP-2009；TP-2010）[^dp--2009][^tp--2010]。值得注意的是，杨布里科斯的某些对话者曾是四世纪罗马帝国中举足轻重的人物，例如阿帕梅亚的索帕特（见上文 1.1 节）。要清晰把握杨布里科斯在这些问题上的立场，多少有些困难：他的德性论著已佚，后来的证词零星简略，而其书信大多带有引介性质，避免哲学的技术细节。
+    step2: |-
+      新柏拉图主义常被视为一种神学的、彼岸世界的哲学：它几乎不赋予政治任何意义，而把伦理仅仅构想为灵魂脱离身体的一条苦修之路。这一观点已受到 D.J. O'Meara 的质疑；新柏拉图主义政治哲学的意义正获得越来越多的关注（见 O'Meara 2003；Schramm 2013）[^o’meara-2003][^schramm-2013]。杨布里科斯写过一部完整的论著《论德性》，虽已亡佚，其内容却可由后来的来源推知。此外，伦理与政治方面的论述可从其现存著作中辑出，尤其是斯托拜乌斯保存的书信（见 DP-2009；TP-2010）[^dp--2009][^tp--2010]。值得注意的是，杨布里科斯的某些对话者曾是四世纪罗马帝国举足轻重的人物——例如阿帕梅亚的索帕特（见上文 1.1 节）。要清晰把握杨布里科斯在这些问题上的立场，多少有些困难：其德性论著已佚，后来的证词零星简略，其书信又大多带有引介性质，回避哲学的技术细节。
   - id: 96
     kind: body
     source: |-
       The extant evidence nonetheless suffices to outline some of Iamblichus’ views. Two letters focus on providence, fate and free will against the background of Iamblichus’ account of causation, which sees the One as the principle of all being and the lower levels of reality as characterized by increasing degrees of multiplicity (see the letters to Macedonius and Sopater: Johannes Stobaeus I, 5, 17 and I, 5, 18). Iamblichus identifies the sphere of operation of fate with nature, i.e., “the immanent causal principle of the cosmos and that which immanently comprises the totality of causes of the realm of generation” (DP-2009: 35)[^dp--2009]. These views are reminiscent of the Stoic deterministic model of causation, but Iamblichus also emphasises that the soul contains within itself a free and independent life and is able to emancipate itself from worldly influences (see Johannes Stobaeus I, 8, 45a).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现存证据仍足以勾勒出杨布里科斯的一些观点。有两封书信聚焦于神意、命运与自由意志，背景是杨布里科斯的因果学说：太一是一切存在的本原，而实在的较低层级以递增的复多程度为特征（见致马其顿尼乌斯与致索帕特的书信：斯托拜乌斯 I, 5, 17 与 I, 5, 18）。杨布里科斯把命运的运作范围等同于自然，即“宇宙的内在因果本原，以及内在地包含生成领域诸原因之总体者”（DP-2009: 35）[^dp--2009]。这些观点令人想起斯多亚派的因果决定论模型，但杨布里科斯也强调：灵魂自身包含一种自由而独立的生命，能够从世俗影响中解放出来（见斯托拜乌斯 I, 8, 45a）。
+    step2: |-
+      现存证据仍足以勾勒杨布里科斯的部分观点。有两封书信聚焦于神意、命运与自由意志，其背景是杨布里科斯的因果学说：太一是一切存在的本原，实在的较低层级则以递增的复多程度为特征（见致马其顿尼乌斯、致索帕特的书信：斯托拜乌斯 I, 5, 17 与 I, 5, 18）。杨布里科斯把命运的运作范围等同于自然，即“宇宙的内在因果本原，以及内在地包含生成领域诸原因之总体者”（DP-2009: 35）[^dp--2009]。这些观点令人想起斯多亚派的因果决定论模型；但杨布里科斯也强调：灵魂自身包含一种自由而独立的生命，能够从世俗影响中解放出来（见斯托拜乌斯 I, 8, 45a）。
   - id: 97
     kind: body
     source: |-
       This theological and metaphysical framework also grounds Iamblichus’ views about politics. In his letters he describes the art of rulership as a kind of divinisation based on wisdom: through wisdom human beings are assimilated to gods and political rulership is an image of divine rulership in cosmos (see Johannes Stobaeus III, 3, 26). Leadership is connected with philanthropy, which makes the ruler mild, pleasant and approachable. Such views outline a characteristically theocratic conception. Elsewhere, however, Iamblichus suggests a more modest view about rulership: he emphasises the importance of law, which he sees as the genuine expression of a divine model, the ruler being only its guardian (see Johannes Stobaeus IV, 5, 77). Such views can certainly be traced back to Plato: the passages about kingship can be set in parallel with Plato’s account of philosopher-kings in the *Republic*, whereas those about the primacy of laws obviously recall Plato’s political views in the *Laws*. But parallels are abundant even outside the Platonist tradition (e.g., in Stoicism and in Dio Chrysostomus, in the Pseudo-Pythagorean writings) and the introductory tone of Iamblichus’ letters makes it difficult to isolate characteristic Neoplatonist elements. According to some interpreters, however, Iamblichus’ interest in politics is likely to be connected to his views about the embodied soul. As O’Meara remarks,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一神学的与形而上学的框架，同样奠定了杨布里科斯关于政治的观点。在其书信中，他把统治术描述为一种基于智慧的神化：经由智慧，人被同化于诸神；而政治统治是宇宙中神圣统治的映像（见斯托拜乌斯 III, 3, 26）。领导权与仁爱相连，后者使统治者温和、可亲、平易。这类观点勾勒出一种特色鲜明的神权政治观。然而在别处，杨布里科斯又提出一种较为谦抑的统治观：他强调法律的重要性，视之为神圣模型的真正表达，统治者只是其守护者（见斯托拜乌斯 IV, 5, 77）。这类观点当然可以追溯到柏拉图：论王制的段落可与柏拉图《理想国》中哲学王的说明平行而观，论法律首要性的段落则显然令人想起柏拉图在《法律篇》中的政治观点。但即便在柏拉图主义传统之外，类似的平行也不胜枚举（例如斯多亚主义、狄奥·克里索斯托姆（Dio Chrysostomus）、伪毕达哥拉斯派文献），而杨布里科斯书信的引介性笔调使人难以离析出独具特色的新柏拉图主义要素。不过，依一些解释者之见，杨布里科斯对政治的兴趣很可能与其关于具身灵魂的观点相关。正如 O'Meara 所言：
+    step2: |-
+      这一神学与形而上学的框架，同样奠定了杨布里科斯的政治观点。在其书信中，他把统治术描述为一种基于智慧的神化：经由智慧，人被同化于诸神；而政治统治是神圣统治在宇宙中的映像（见斯托拜乌斯 III, 3, 26）。领导权与仁爱相连：仁爱使统治者温和、可亲、平易。这类观点勾勒出一种特色鲜明的神权政治观。然而在别处，杨布里科斯又提出一种较为谦抑的统治观：他强调法律的重要性，视之为神圣模型的真正表达，统治者只是法律的守护者（见斯托拜乌斯 IV, 5, 77）。这类观点当然可以上溯至柏拉图：论王制的段落，可与《理想国》中哲学王的说明平行而观；论法律首要性的段落，则显然令人想起柏拉图《法律篇》中的政治观点。但即便在柏拉图主义传统之外，类似的平行也不胜枚举（例如斯多亚主义、狄奥·克里索斯托姆（Dio Chrysostomus）、伪毕达哥拉斯派文献）；而杨布里科斯书信的引介笔调，使人难以离析出独具特色的新柏拉图主义要素。不过，依一些解释者之见，杨布里科斯对政治的兴趣很可能与其具身灵魂学说相关。正如 O'Meara 所言：
   - id: 98
     kind: body
     source: |-
       > Human soul, alienated from its divine origins, finds its identity in its relation to body. As a consequence, the material, bodily aspects of the human condition were to be of much greater relevance for the divinization of soul in later Neoplatonism than in Plotinus. (2003: 39)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 人的灵魂疏离于其神圣本源，在它与身体的关系中寻得自身的同一性。因此，在晚期新柏拉图主义中，就灵魂的神化而言，人的处境中那些质料的、形体的方面，远比在普罗提诺那里重要。（2003: 39）
+    step2: |-
+      > 人的灵魂疏离于其神圣本源，在它与身体的关系中寻得自身的同一性。因此，晚期新柏拉图主义论灵魂的神化时，人的处境中那些质料的、形体的方面，远比在普罗提诺那里来得重要。（2003: 39）
   - id: 99
     kind: body
     source: |-
       In fact, Neoplatonist philosophical ideas shaped not only Iamblichus’ views about politics, but also those of the Emperor Julian, whose Neoplatonist background (ultimately deriving from the Iamblichean teaching of his masters at Pergamon) informs both his account of law and rulership (see Julian’s *Letter to Themistius*) and his theological foundation of the Roman Empire (Elm 2012)[^elm-2012].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      事实上，新柏拉图主义的哲学理念不仅塑造了杨布里科斯的政治观点，也塑造了皇帝尤利安的政治观点。尤利安的新柏拉图主义背景（最终源自其帕加马老师们所授的杨布里科斯派学说）既体现于他关于法律与统治的说明（见尤利安《致特米斯提乌斯书》），也体现于他为罗马帝国奠定的神学基础（Elm 2012）[^elm-2012]。
+    step2: |-
+      事实上，新柏拉图主义的哲学理念不仅塑造了杨布里科斯的政治观点，也塑造了皇帝尤利安的政治观点。尤利安的新柏拉图主义背景——最终源自其帕加马老师们传授的杨布里科斯派学说——既体现于他关于法律与统治的说明（见尤利安《致特米斯提乌斯书》），也体现于他为罗马帝国奠定的神学基础（Elm 2012）[^elm-2012]。
   - id: 100
     kind: body
     source: |-
       ### 7.2 The hierarchy of virtues
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.2 德性的等级
+    step2: |-
+      ### 7.2 德性的等级
   - id: 101
     kind: body
     source: |-
       In *Ennead* I, 2, Plotinus holds that virtues bearing the same names (that is the four cardinal virtues of Plato’s *Republic*: wisdom, temperance, courage and justice) exist in different grades at different levels: the lower level is that of the so-called civic or political virtues, whereas the higher degrees include the soul’s purification and the result of it, that is the contemplation of Intellect on the part of the soul. In *Sentence* 32, Porphyry draws on Plotinus and offers a classification of virtues: these are divided into civic, purificatory, contemplative and paradigmatic virtues. Iamblichus’ lost treatise *On virtues* was certainly based on these previous discussions and offered a systematic discussion that laid the ground for later Neoplatonist accounts of the so-called *scala virtutum*. The late anonymous *Prolegomena to Plato’s philosophy* ascribes the distinction of five levels of virtues to Iamblichus: natural, moral, political, purificatory, and contemplative (see *Prolegomena* § 26.30–36). This distinction is connected to the order or reading of Plato’s dialogues: thus the *Gorgias* focuses on the political virtues, the *Phaedo* on the purificatory. All this is most likely to derive from Iamblichus, who then associated his canon of twelve Platonic dialogues with the different levels of the *scala virtutum* (see above, Section 2.2). While crucial, the testimony of the *Prolegomena* is nonetheless partial: we know from Damascius and Marinus of Neapolis that Iamblichus’ distinction had two further levels at the top: those of “paradigmatic” and “theurgic” or “hieratic” virtues. Iamblichus, therefore, probably distinguished seven levels of virtues: natural, moral, political, purificatory, contemplative, paradigmatic, theurgic or hieratic. The views about the soul and theurgy outlined above help explain why Iamblichus, unlike Plotinus and Porphyry, posited theurgic or hieratic virtues at the top of his classification: such virtues are the highest degree of the soul’s ascension to the divine, which human beings cannot achieve merely through their intellect.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在《九章集》I, 2 中，普罗提诺主张：同名诸德性（即柏拉图《理想国》的四枢德：智慧、节制、勇敢与正义）在不同层级以不同的级别存在：较低层级是所谓的城邦的或政治的德性，较高的级别则包括灵魂的净化及其结果，即灵魂对努斯的静观。在《箴言集》32 中，波菲利取材于普罗提诺，给出一个德性分类：它们被分为城邦的、净化的、静观的与范型的德性。杨布里科斯亡佚的论著《论德性》无疑以这些先前的讨论为基础，提供了一个系统的论述，为后来新柏拉图主义者对所谓德性阶梯（*scala virtutum*）的说明奠基。晚期的匿名《柏拉图哲学导论》把五层德性的区分归于杨布里科斯：自然的、伦理的、政治的、净化的与静观的（见《导论》§ 26.30–36）。这一区分与柏拉图对话的阅读次第相连：《高尔吉亚篇》聚焦政治德性，《斐多篇》聚焦净化德性。所有这一切最可能源自杨布里科斯：他把十二篇柏拉图对话的正典与德性阶梯的不同层级联系起来（见上文 2.2 节）。然而，《导论》的证词虽关键，却是片面的：我们从达马斯基乌斯与纳波利斯的马里努斯（Marinus of Neapolis）得知，杨布里科斯的区分在顶端还有两个层级：“范型的”与“通神术的”或“祭司的”德性。因此，杨布里科斯很可能区分了七层德性：自然的、伦理的、政治的、净化的、静观的、范型的，以及通神术的或祭司的。上文勾勒的关于灵魂与通神术的观点，有助于解释为什么杨布里科斯不同于普罗提诺与波菲利，把通神术的或祭司的德性置于其分类的顶端：这类德性是灵魂向神上升的最高级别，人无法仅凭其努斯达到它。
+    step2: |-
+      在《九章集》I, 2 中，普罗提诺主张：同名诸德性（即柏拉图《理想国》的四枢德：智慧、节制、勇敢与正义）在不同层级以不同级别存在。较低层级是所谓的城邦的或政治的德性；较高的级别则包括灵魂的净化及其成果——即灵魂对努斯的静观。在《箴言集》32 中，波菲利取材于普罗提诺，给出一个德性分类：城邦的、净化的、静观的与范型的德性。杨布里科斯亡佚的《论德性》无疑以这些先前的讨论为基础，给出了一个系统论述，为后来新柏拉图主义者对所谓德性阶梯（*scala virtutum*）的说明奠基。晚期的匿名《柏拉图哲学导论》把五层德性的区分归于杨布里科斯：自然的、伦理的、政治的、净化的、静观的（见《导论》§ 26.30–36）。这一区分与柏拉图对话的阅读次第相连：《高尔吉亚篇》聚焦政治德性，《斐多篇》聚焦净化德性。所有这一切最可能源自杨布里科斯：他把十二篇柏拉图对话的正典与德性阶梯的不同层级联系起来（见上文 2.2 节）。然而，《导论》的证词虽属关键，却是片面的：从达马斯基乌斯与纳波利斯的马里努斯（Marinus of Neapolis）那里得知，杨布里科斯的区分在顶端还有两个层级——“范型的”与“通神术的”或“祭司的”德性。因此，杨布里科斯很可能区分了七层德性：自然的、伦理的、政治的、净化的、静观的、范型的，以及通神术的或祭司的。上文勾勒的关于灵魂与通神术的观点，有助于解释为什么杨布里科斯不同于普罗提诺与波菲利，把通神术的或祭司的德性置于其分类顶端：这类德性是灵魂向神上升的最高级别，人无法仅凭自己的努斯达到它。
   - id: 102
     kind: body
     source: |-
       It is worth noting that the author of the *Prolegomena* sets out the hierarchy of virtues as an order “according to depth” (*kata bathos*). The term *bathos* has a technical meaning in Iamblichus: it is borrowed from mathematics and is opposed to *platos* insofar as it describes the vertical order of items in a hierarchy, as opposed to the horizontal one (see Taormina in TP-2010: 245)[^tp--2010]. This suggests that Iamblichus arranged his classification of virtues according to the vertical pattern described above, which points to his distinctive account of the hierarchy of beings.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      值得注意的是，《导论》的作者把德性等级设定为一种“依深度”（*kata bathos*）的秩序。*bathos*（深度）一词在杨布里科斯那里有技术含义：它借自数学，与*platos*（广度）相对，描述的是等级中诸项的纵向秩序，而非横向秩序（见 Taormina, 载 TP-2010: 245）[^tp--2010]。这暗示杨布里科斯依上述纵向图式安排其德性分类，而这一图式正指向他独具特色的诸存在等级学说。
+    step2: |-
+      值得注意的是，《导论》的作者把德性等级设定为一种“依深度”（*kata bathos*）的秩序。*bathos*（深度）一词在杨布里科斯那里有技术含义：它借自数学，与*platos*（广度）相对——它描述等级中诸项的纵向秩序，而非横向秩序（见 Taormina, 载 TP-2010: 245）[^tp--2010]。这暗示杨布里科斯依上述纵向图式安排其德性分类；而这一图式，正指向他独具特色的诸存在等级学说。
   - id: 103
     kind: oir
     source: |-
       [Please contact the authors with suggestions.]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [欢迎向作者提出建议。]
+    step2: |-
+      [欢迎向作者提出建议。]
   - id: 104
     kind: ack
     source: |-
       The authors wish to thank Dr. Sergio Knipe for his kind and accurate proofreading.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      作者感谢 Sergio Knipe 博士细致而准确的校读。
+    step2: |-
+      作者谨谢 Sergio Knipe 博士细致而准确的校读。
   - id: 105
     kind: ack
     source: |-
       Riccardo Chiaradonna is the author of Sections 2.1, 2.3, 2.4, 5, and 7. Adrien Lecerf is the author of Sections 1, 2.2, 3, 4, and 6.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      里卡多·基亚拉多纳（Riccardo Chiaradonna）撰写第 2.1、2.3、2.4、5 与 7 节；阿德里安·勒塞尔夫（Adrien Lecerf）撰写第 1、2.2、3、4 与 6 节。
+    step2: |-
+      第 2.1、2.3、2.4、5 与 7 节出自里卡多·基亚拉多纳（Riccardo Chiaradonna）之手；第 1、2.2、3、4 与 6 节出自阿德里安·勒塞尔夫（Adrien Lecerf）之手。

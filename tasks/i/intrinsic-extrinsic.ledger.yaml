@@ -80,25 +80,25 @@ segments:
     source: |-
       As P. T. Geach (1969) noted, the fact that some object $a$ is not $F$ before an event occurs but is $F$ after that event occurs does not mean that the event constitutes, in any deep sense, a change in $a$. To use a well-worn example, at the time of Socrates’s death Xanthippe became a widow; that is, she was not a widow before the event of her husband’s death, but she was a widow when it ended. Still, though that event constituted (or perhaps was constituted by) a change in Socrates, it did not in itself constitute a change in Xanthippe. Geach noted that we can distinguish between real changes, such as what occurs in Socrates when he dies, from mere changes in which predicates one satisfies, such as what occurs in Xanthippe when Socrates dies. The latter he termed ‘mere Cambridge’ change. There is something of a consensus that an object undergoes real change in an event iff there is some **intrinsic** property it instantiated before the event but not afterwards.
     step1: |-
-      正如 P. T. 吉奇（Geach 1969）所指出的，某对象 $a$ 在某事件发生前不是 $F$、在该事件发生后是 $F$，并不意味着该事件在任何深层的意义上构成了 $a$ 的一个变化。用一个老生常谈的例子来说：在苏格拉底死去之时，克桑蒂佩成了寡妇；也就是说，在她丈夫死亡这一事件之前她不是寡妇，而当该事件结束时她是寡妇。尽管那一事件构成了（或者也许是该变化构成了那一事件）苏格拉底的一个变化，它本身并未构成克桑蒂佩的变化。吉奇指出，我们可以区分真实的变化（如苏格拉底死时所发生者）与所满足谓词方面的单纯变化（如苏格拉底死去时克桑蒂佩身上所发生者）；后者他称之为“纯粹的剑桥式”变化。大体上有这样一个共识：一个对象在某事件中经历了真实的变化，当且仅当有某个**内在**属性，它在该事件之前被实例化而之后不再被实例化。
+      正如 P. T. 吉奇（Geach 1969）所指出的，某对象 $a$ 在某事件发生前不是 $F$、在该事件发生后是 $F$，并不意味着该事件在任何深层的意义上构成了 $a$ 的一个变化。用一个老生常谈的例子来说：在苏格拉底死去之时，克桑蒂佩成了寡妇；也就是说，在她丈夫死亡这一事件之前她不是寡妇，而当该事件结束时她是寡妇。尽管那一事件构成了（或者也许是该变化构成了那一事件）苏格拉底的一个变化，它本身并未构成克桑蒂佩的变化。吉奇指出，我们可以区分真实的变化（如苏格拉底死时所发生者）与所满足谓词方面的单纯变化（如苏格拉底死去时克桑蒂佩身上所发生者）；后者他称之为“纯粹的剑桥式”变化。大体上有这样一个共识：一个对象在某事件中经历了真实的变化，当且仅当有某个 **内在** 属性，它在该事件之前被实例化而之后不再被实例化。
     step2: |-
-      正如 P. T. 吉奇（Geach 1969）所指出的，某对象 $a$ 在某事件发生前不是 $F$、在该事件发生后是 $F$，并不意味着该事件在任何深层的意义上构成了 $a$ 的一个变化。用一个老生常谈的例子来说：在苏格拉底死去之时，克桑蒂佩成了寡妇；也就是说，在她丈夫死亡这一事件之前她不是寡妇，而当该事件结束时她是寡妇。尽管那一事件构成了苏格拉底的一个变化（或者也许毋宁说是该变化构成了那一事件），它本身并未构成克桑蒂佩的变化。吉奇指出，我们可以把真实的变化——如苏格拉底死时所发生者——与所满足谓词方面的单纯变化——如苏格拉底死去时克桑蒂佩身上所发生者——区分开来；后者他称之为“纯粹的剑桥式”变化。大体上有这样一个共识：一个对象在某事件中经历了真实的变化，当且仅当有某个**内在**属性，它在该事件之前被实例化而之后不再被实例化。
+      正如 P. T. 吉奇（Geach 1969）所指出的，某对象 $a$ 在某事件发生前不是 $F$、在该事件发生后是 $F$，并不意味着该事件在任何深层的意义上构成了 $a$ 的一个变化。用一个老生常谈的例子来说：在苏格拉底死去之时，克桑蒂佩成了寡妇；也就是说，在她丈夫死亡这一事件之前她不是寡妇，而当该事件结束时她是寡妇。尽管那一事件构成了苏格拉底的一个变化（或者也许毋宁说是该变化构成了那一事件），它本身并未构成克桑蒂佩的变化。吉奇指出，我们可以把真实的变化——如苏格拉底死时所发生者——与所满足谓词方面的单纯变化——如苏格拉底死去时克桑蒂佩身上所发生者——区分开来；后者他称之为“纯粹的剑桥式”变化。大体上有这样一个共识：一个对象在某事件中经历了真实的变化，当且仅当有某个 **内在** 属性，它在该事件之前被实例化而之后不再被实例化。
   - id: 9
     kind: body
     source: |-
       David Lewis (1986a, 1988) built on this point of Geach’s to mount an attack on **endurantism**, the theory that objects persist by being wholly located at different times, and that there can be strict identity between an object existing at one time and one existing at another time. Lewis argues that this is inconsistent with the idea that objects undergo real change. If the very same object can be both $F$ (at one time) and not $F$ (at another), this means that $F$-ness must be a relation to a time, but this means that it is not an intrinsic property. So any property that an object can change must be extrinsic, so nothing undergoes real change. Lewis says that this argument supports the rival theory of **perdurantism**, which says that objects persist by having different temporal parts at different times. While this argument is controversial (see Haslanger (1989), Johnston (1987) and Lowe (1988) for some responses), it does show how considerations about intrinsicality can resonate within quite different areas of metaphysics.
     step1: |-
-      大卫·刘易斯（1986a, 1988）以吉奇的这一观点为基础，对**延存论**（endurantism）发起攻击。延存论主张，对象通过完整地位于不同时间而持存，并且在一个时间存在的对象与在另一时间存在的对象之间可以有严格同一。刘易斯论证说，这与对象经历真实变化的观念不相容。如果同一个对象可以既（在一个时间）是 $F$ 又（在另一时间）不是 $F$，这就意味着 $F$ 性必定是与时间的一种关系，而这又意味着它不是内在属性。于是，对象能够改变的任何属性都必定是外在的，因此没有任何东西经历真实的变化。刘易斯说，这一论证支持了与之竞争的**持续论**（perdurantism），后者主张对象通过在不同时间拥有不同的时间部分而持存。尽管这一论证有争议（相关回应见 Haslanger 1989、Johnston 1987 与 Lowe 1988），它确实表明了关于内在性的考量如何在形而上学的相当不同的领域中引起回响。
+      大卫·刘易斯（1986a, 1988）以吉奇的这一观点为基础，对 **延存论** （endurantism）发起攻击。延存论主张，对象通过完整地位于不同时间而持存，并且在一个时间存在的对象与在另一时间存在的对象之间可以有严格同一。刘易斯论证说，这与对象经历真实变化的观念不相容。如果同一个对象可以既（在一个时间）是 $F$ 又（在另一时间）不是 $F$，这就意味着 $F$ 性必定是与时间的一种关系，而这又意味着它不是内在属性。于是，对象能够改变的任何属性都必定是外在的，因此没有任何东西经历真实的变化。刘易斯说，这一论证支持了与之竞争的 **持续论** （perdurantism），后者主张对象通过在不同时间拥有不同的时间部分而持存。尽管这一论证有争议（相关回应见 Haslanger 1989、Johnston 1987 与 Lowe 1988），它确实表明了关于内在性的考量如何在形而上学的相当不同的领域中引起回响。
     step2: |-
-      大卫·刘易斯（1986a, 1988）以吉奇的这一观点为基础，对**延存论**（endurantism）发起攻击。延存论主张：对象通过完整地位于不同时间而持存；在某个时间存在的对象与在另一时间存在的对象之间，可以有严格同一。刘易斯论证说，这与对象经历真实变化的观念不相容。如果同一个对象可以既（在一个时间）是 $F$ 又（在另一时间）不是 $F$，这就意味着 $F$ 性必定是与时间的一种关系，而这又意味着它不是内在属性。于是，对象能够改变的任何属性都必定是外在的，因此没有任何东西经历真实的变化。刘易斯说，这一论证支持了与之竞争的**持续论**（perdurantism），后者主张对象通过在不同时间拥有不同的时间部分而持存。尽管这一论证有争议（相关回应见 Haslanger 1989、Johnston 1987 与 Lowe 1988），它确实表明：关于内在性的考量如何在形而上学的相当不同的领域中引起回响。
+      大卫·刘易斯（1986a, 1988）以吉奇的这一观点为基础，对 **延存论** （endurantism）发起攻击。延存论主张：对象通过完整地位于不同时间而持存；在某个时间存在的对象与在另一时间存在的对象之间，可以有严格同一。刘易斯论证说，这与对象经历真实变化的观念不相容。如果同一个对象可以既（在一个时间）是 $F$ 又（在另一时间）不是 $F$，这就意味着 $F$ 性必定是与时间的一种关系，而这又意味着它不是内在属性。于是，对象能够改变的任何属性都必定是外在的，因此没有任何东西经历真实的变化。刘易斯说，这一论证支持了与之竞争的 **持续论** （perdurantism），后者主张对象通过在不同时间拥有不同的时间部分而持存。尽管这一论证有争议（相关回应见 Haslanger 1989、Johnston 1987 与 Lowe 1988），它确实表明：关于内在性的考量如何在形而上学的相当不同的领域中引起回响。
   - id: 10
     kind: body
     source: |-
       A third major area where the concept of intrinsicality has been put to work is in stating various supervenience theses. Frank Jackson (1998) defines physicalism in terms of duplication and physical duplication, which are in turn defined in terms of intrinsic properties. Similarly, Jaegwon Kim (1982) defines a mind/body supervenience thesis in terms of intrinsic properties. As Theodore Sider (1993) notes, the simplest way to define the **individualist** theory of mental content that Tyler Burge (1979) attacks is as the claim that the content of a thinker’s propositional attitudes supervenes on the intrinsic properties of the thinker. And many **internalist** theories in epistemology are based around the intuition that whether a thinker is justified in believing some proposition supervenes on the intrinsic properties of the thinker.
     step1: |-
-      内在性概念得到运用的第三个主要领域，是陈述各种随附性论题。Frank Jackson（1998）以复制与物理复制来定义物理主义，而复制与物理复制又以内在属性来定义。类似地，金在权（Kim 1982）以内在属性定义一种心身随附性论题。正如 Theodore Sider（1993）指出的，Tyler Burge（1979）所攻击的关于心灵内容的**个体主义**理论，其最简定义便是：思想者的命题态度的内容随附于思想者的内在属性。认识论中的许多**内在主义**理论也都基于如下直觉：思想者相信某命题是否有证成，随附于思想者的内在属性。
+      内在性概念得到运用的第三个主要领域，是陈述各种随附性论题。Frank Jackson（1998）以复制与物理复制来定义物理主义，而复制与物理复制又以内在属性来定义。类似地，金在权（Kim 1982）以内在属性定义一种心身随附性论题。正如 Theodore Sider（1993）指出的，Tyler Burge（1979）所攻击的关于心灵内容的 **个体主义** 理论，其最简定义便是：思想者的命题态度的内容随附于思想者的内在属性。认识论中的许多 **内在主义** 理论也都基于如下直觉：思想者相信某命题是否有证成，随附于思想者的内在属性。
     step2: |-
-      内在性概念得到运用的第三个主要领域，是陈述各种随附性论题。Frank Jackson（1998）以复制与物理复制来定义物理主义，而复制与物理复制又以内在属性来定义。类似地，金在权（Kim 1982）以内在属性定义了一种心身随附性论题。正如 Theodore Sider（1993）指出的，Tyler Burge（1979）所攻击的关于心灵内容的**个体主义**理论，其最简定义便是：思想者的命题态度的内容随附于思想者的内在属性。认识论中的许多**内在主义**理论也都基于如下直觉：思想者相信某命题是否有证成，随附于思想者的内在属性。
+      内在性概念得到运用的第三个主要领域，是陈述各种随附性论题。Frank Jackson（1998）以复制与物理复制来定义物理主义，而复制与物理复制又以内在属性来定义。类似地，金在权（Kim 1982）以内在属性定义了一种心身随附性论题。正如 Theodore Sider（1993）指出的，Tyler Burge（1979）所攻击的关于心灵内容的 **个体主义** 理论，其最简定义便是：思想者的命题态度的内容随附于思想者的内在属性。认识论中的许多 **内在主义** 理论也都基于如下直觉：思想者相信某命题是否有证成，随附于思想者的内在属性。
   - id: 11
     kind: body
     source: |-
@@ -144,9 +144,9 @@ segments:
     source: |-
       For any *intrinsic* properties $p$ and $q$, it is possible that there are two wholly distinct things, $x$ and $y$, such that $x$ has $p$ and $y$ has $q$.
     step1: |-
-      对任意**内在的**属性 $p$ 与 $q$，可能存在两个完全相异的东西 $x$ 与 $y$，使得 $x$ 具有 $p$ 而 $y$ 具有 $q$。
+      对任意 **内在的** 属性 $p$ 与 $q$，可能存在两个完全相异的东西 $x$ 与 $y$，使得 $x$ 具有 $p$ 而 $y$ 具有 $q$。
     step2: |-
-      对任意**内在的**属性 $p$ 与 $q$，可能存在两个完全相异的东西 $x$ 与 $y$，使得 $x$ 具有 $p$ 而 $y$ 具有 $q$。
+      对任意 **内在的** 属性 $p$ 与 $q$，可能存在两个完全相异的东西 $x$ 与 $y$，使得 $x$ 具有 $p$ 而 $y$ 具有 $q$。
   - id: 17
     kind: body
     source: |-
@@ -206,9 +206,9 @@ segments:
     source: |-
       It follows from at least the third of these characterisations that something can have an extrinsic property in an intrinsic fashion. For example, since every duplicate of a piece of tin has the property of being made of tin, every duplicate of a piece of tin also has the extrinsic property of being either made of tin or married. As a result, it follows from the third characterisation that each piece of tin has the property of being either made of tin or married in an intrinsic fashion, despite this property being extrinsic.
     step1: |-
-      至少从第三条刻画可以推出：某物可以以内在的方式具有一个外在属性。例如，既然每块锡的复本都具有由锡制成这一属性，每块锡的复本也就具有"由锡制成或者是已婚的"这一外在属性。于是，由第三条刻画可得：每块锡都以内在方式具有"由锡制成或者是已婚的"这一属性，尽管这一属性是外在的。
+      至少从第三条刻画可以推出：某物可以以内在的方式具有一个外在属性。例如，既然每块锡的复本都具有由锡制成这一属性，每块锡的复本也就具有“由锡制成或者是已婚的”这一外在属性。于是，由第三条刻画可得：每块锡都以内在方式具有“由锡制成或者是已婚的”这一属性，尽管这一属性是外在的。
     step2: |-
-      至少从第三条刻画可以推出：某物可以以内在的方式具有一个外在属性。例如，既然每块锡的复本都具有由锡制成这一属性，每块锡的复本也就具有"由锡制成或者是已婚的"这一外在属性。于是，由第三条刻画可得：每块锡都以内在方式具有"由锡制成或者是已婚的"这一属性，尽管这一属性是外在的。
+      至少从第三条刻画可以推出：某物可以以内在的方式具有一个外在属性。例如，既然每块锡的复本都具有由锡制成这一属性，每块锡的复本也就具有“由锡制成或者是已婚的”这一外在属性。于是，由第三条刻画可得：每块锡都以内在方式具有“由锡制成或者是已婚的”这一属性，尽管这一属性是外在的。
   - id: 24
     kind: body
     source: |-
@@ -254,17 +254,17 @@ segments:
     source: |-
       In addition to the two-place predicate ‘has … in an intrinsic fashion’, we can introduce a modifier ‘intrinsically’, where, adapting one of the characterisations above, $x$ is intrinsically $F$ iff $x$ is $F$ in virtue of how $x$ itself, and nothing else, is. (cf. Humberstone 1996, p. 228)[^humberstone-1996]. This modifier takes predicates as arguments rather than names of properties or variables ranging over properties. Nominalists, who don’t believe in properties, might attempt to use this modifier to capture the intuitive distinctions associated with intrinsicality without committing themselves to properties. For example, a nominalist might claim that a table is intrinsically rectangular, while claiming to consistently hold that there is no property of being rectangular. (For simplicity, we will assume in the following that nominalism is false and that there are abundantly many properties and relations, some of which are intrinsic and some of which are extrinsic.)
     step1: |-
-      除了二元谓词"以内在方式具有……"之外，我们还可以引入一个修饰语"内在地"（intrinsically）：改造上面的一条刻画，$x$ 内在地是 $F$，当且仅当 $x$ 是 $F$，是凭借 $x$ 自身、且仅凭其自身之所是。（参见 Humberstone 1996, p. 228）[^humberstone-1996]。这一修饰语以谓词而非属性名称或属性变元为论元。不相信属性存在的唯名论者，或许会试图用这一修饰语来把握与内在性相关的直观区分，而不必承诺属性的存在。例如，一个唯名论者可能会主张一张桌子内在地是矩形的，同时又融贯地主张不存在"是矩形的"这一属性。（为简单起见，下文我们假定唯名论为假，并且存在丰富多样的属性与关系，其中一些是内在的，另一些是外在的。）
+      除了二元谓词“以内在方式具有……”之外，我们还可以引入一个修饰语“内在地”（intrinsically）：改造上面的一条刻画，$x$ 内在地是 $F$，当且仅当 $x$ 是 $F$，是凭借 $x$ 自身、且仅凭其自身之所是。（参见 Humberstone 1996, p. 228）[^humberstone-1996]。这一修饰语以谓词而非属性名称或属性变元为论元。不相信属性存在的唯名论者，或许会试图用这一修饰语来把握与内在性相关的直观区分，而不必承诺属性的存在。例如，一个唯名论者可能会主张一张桌子内在地是矩形的，同时又融贯地主张不存在“是矩形的”这一属性。（为简单起见，下文我们假定唯名论为假，并且存在丰富多样的属性与关系，其中一些是内在的，另一些是外在的。）
     step2: |-
-      除了二元谓词"以内在方式具有……"之外，我们还可以引入一个修饰语"内在地"（intrinsically）：仿照上面的一条刻画，$x$ 内在地是 $F$，当且仅当 $x$ 是 $F$，是凭借 $x$ 自身、且仅凭其自身之所是。（参见 Humberstone 1996, p. 228）[^humberstone-1996]。这一修饰语以谓词为论元，而非以属性名称或属性变元为论元。不相信属性存在的唯名论者，或许会试图用这一修饰语来把握与内在性相关的直观区分，而无需承诺属性的存在。例如，一个唯名论者可能会主张一张桌子内在地是矩形的，同时又融贯地主张不存在"是矩形的"这一属性。（为简单起见，下文我们假定唯名论为假，并且存在丰富多样的属性与关系，其中一些是内在的，另一些是外在的。）
+      除了二元谓词“以内在方式具有……”之外，我们还可以引入一个修饰语“内在地”（intrinsically）：仿照上面的一条刻画，$x$ 内在地是 $F$，当且仅当 $x$ 是 $F$，是凭借 $x$ 自身、且仅凭其自身之所是。（参见 Humberstone 1996, p. 228）[^humberstone-1996]。这一修饰语以谓词为论元，而非以属性名称或属性变元为论元。不相信属性存在的唯名论者，或许会试图用这一修饰语来把握与内在性相关的直观区分，而无需承诺属性的存在。例如，一个唯名论者可能会主张一张桌子内在地是矩形的，同时又融贯地主张不存在“是矩形的”这一属性。（为简单起见，下文我们假定唯名论为假，并且存在丰富多样的属性与关系，其中一些是内在的，另一些是外在的。）
   - id: 30
     kind: body
     source: |-
       There might be further reasons to employ either the two place predicate ‘has … in an intrinsic fashion’, or the modifier ‘intrinsically’, rather than the one-place predicate ‘is intrinsic’. For example, one might think that at least one of the former two notions is more fundamental than the latter notion, or that the latter notion is misguided in some way that at least one of the former notions isn’t. (See, for example, Figdor 2008.)[^figdor-2008]
     step1: |-
-      或许还有进一步的理由使用二元谓词"以内在方式具有……"或修饰语"内在地"，而非一元谓词"是内在的"。例如，人们可能认为前两个概念中至少有一个比后者更基本，或者认为后者在某种方式上是有误导的，而前者至少有一个并非如此。（例如参见 Figdor 2008。）[^figdor-2008]
+      或许还有进一步的理由使用二元谓词“以内在方式具有……”或修饰语“内在地”，而非一元谓词“是内在的”。例如，人们可能认为前两个概念中至少有一个比后者更基本，或者认为后者在某种方式上是有误导的，而前者至少有一个并非如此。（例如参见 Figdor 2008。）[^figdor-2008]
     step2: |-
-      或许还有进一步的理由使用二元谓词"以内在方式具有……"或修饰语"内在地"，而非一元谓词"是内在的"。例如，人们可能认为，前两个概念中至少有一个比后者更基本；或者认为后者在某种方式上是有误导的，而前者至少有一个并非如此。（例如参见 Figdor 2008。）[^figdor-2008]
+      或许还有进一步的理由使用二元谓词“以内在方式具有……”或修饰语“内在地”，而非一元谓词“是内在的”。例如，人们可能认为，前两个概念中至少有一个比后者更基本；或者认为后者在某种方式上是有误导的，而前者至少有一个并非如此。（例如参见 Figdor 2008。）[^figdor-2008]
   - id: 31
     kind: body
     source: |-
@@ -294,9 +294,9 @@ segments:
     source: |-
       Examples of extrinsic two-place relations include *being as popular as*, and *having the same cousin as*. Possible examples of intrinsic two-place relations include *being 1 m away from* and *being made of the same type of metal as*. (The claim that distance relations like *being 1 m away from* are intrinsic will be denied by philosophers who deny that shape properties are intrinsic.)
     step1: |-
-      外在二元关系的例子包括：与……一样受欢迎、与……有相同的表亲。内在二元关系的可能例子包括：与……相距一米、与……由同种金属制成。（主张像"与……相距一米"这类距离关系是内在的哲学家，会否认形状属性是内在的。）
+      外在二元关系的例子包括：与……一样受欢迎、与……有相同的表亲。内在二元关系的可能例子包括：与……相距一米、与……由同种金属制成。（主张像“与……相距一米”这类距离关系是内在的哲学家，会否认形状属性是内在的。）
     step2: |-
-      外在二元关系的例子包括"与……一样受欢迎""与……有相同的表亲"。内在二元关系的可能例子包括"与……相距一米""与……由同种金属制成"。（主张像"与……相距一米"这类距离关系是内在的哲学家，会否认形状属性是内在的。）
+      外在二元关系的例子包括“与……一样受欢迎”“与……有相同的表亲”。内在二元关系的可能例子包括“与……相距一米”“与……由同种金属制成”。（主张像“与……相距一米”这类距离关系是内在的哲学家，会否认形状属性是内在的。）
   - id: 35
     kind: body
     source: |-
@@ -326,9 +326,9 @@ segments:
     source: |-
       A number of different distinctions have been called the intrinsic/extrinsic distinction. As J. Michael Dunn (1990) notes, some authors have used ‘intrinsic’ and ‘extrinsic’ to mean ‘essential’ and ‘accidental’. Dunn is surely right in saying that this is a misuse of the terms. A more interesting distinction is noted by Brian Ellis (1991; discussed in Humberstone 1996: 206)[^humberstone-1996]. (See also Figdor 2008 and Figdor 2014 for a discussion of a related notion of intrinsicality.)[^figdor-2008][^figdor-2014] Ellis suggests we should distinguish between properties that objects have independently of any outside forces acting on them (what we will call the Ellis-intrinsic properties), and those that they have in virtue of those outside forces (the Ellis-extrinsic properties). For many objects (such as, say, a stretched rubber band) their shape will be dependent on the outside forces acting on them, so their shape will be Ellis-extrinsic. If one is committed to the idea that shapes are intrinsic, one should think this means that the distinction between the Ellis-intrinsic and Ellis-extrinsic properties is not the same as the intrinsic/extrinsic distinction. Such a judgement may seem a little hasty, but in any case we will turn now to distinctions that have received more attention in the philosophical literature.
     step1: |-
-      有若干不同的区分都曾被称作内在／外在区分。正如 J. Michael Dunn（1990）指出的，一些作者用"内在的"与"外在的"来意指"本质的"与"偶然的"。Dunn 说这是对术语的误用，这无疑是对的。一个更有趣的区分由 Brian Ellis（1991；Humberstone 1996: 206 有所讨论）指出 [^humberstone-1996]。（另见 Figdor 2008 与 Figdor 2014 对一种相关内在性概念的讨论。）[^figdor-2008][^figdor-2014] Ellis 建议我们区分：对象独立于任何作用于其上的外力而具有的属性（我们称之为 Ellis-内在属性），与对象凭借那些外力而具有的属性（Ellis-外在属性）。对许多对象（比如一根拉紧的橡皮筋）来说，其形状将依赖于作用于其上的外力，因此其形状是 Ellis-外在的。如果一个人承诺形状是内在的这一观念，他就应当认为，这意味着 Ellis-内在属性与 Ellis-外在属性之间的区分不同于内在／外在区分。这样的判断也许显得有些仓促，但无论如何，我们现在转向在哲学文献中受到更多关注的那些区分。
+      有若干不同的区分都曾被称作内在／外在区分。正如 J. Michael Dunn（1990）指出的，一些作者用“内在的”与“外在的”来意指“本质的”与“偶然的”。Dunn 说这是对术语的误用，这无疑是对的。一个更有趣的区分由 Brian Ellis（1991；Humberstone 1996: 206 有所讨论）指出 [^humberstone-1996]。（另见 Figdor 2008 与 Figdor 2014 对一种相关内在性概念的讨论。）[^figdor-2008][^figdor-2014] Ellis 建议我们区分：对象独立于任何作用于其上的外力而具有的属性（我们称之为 Ellis-内在属性），与对象凭借那些外力而具有的属性（Ellis-外在属性）。对许多对象（比如一根拉紧的橡皮筋）来说，其形状将依赖于作用于其上的外力，因此其形状是 Ellis-外在的。如果一个人承诺形状是内在的这一观念，他就应当认为，这意味着 Ellis-内在属性与 Ellis-外在属性之间的区分不同于内在／外在区分。这样的判断也许显得有些仓促，但无论如何，我们现在转向在哲学文献中受到更多关注的那些区分。
     step2: |-
-      有若干不同的区分都曾被称作内在／外在区分。正如 J. Michael Dunn（1990）指出的，一些作者用"内在的"与"外在的"来意指"本质的"与"偶然的"。Dunn 说这是对术语的误用，这无疑是对的。一个更有趣的区分由 Brian Ellis（1991；Humberstone 1996: 206 有所讨论）指出 [^humberstone-1996]。（另见 Figdor 2008 与 Figdor 2014 对一种相关内在性概念的讨论。）[^figdor-2008][^figdor-2014] Ellis 建议我们区分：对象独立于任何作用于其上的外力而具有的属性（我们称之为 Ellis-内在属性），与对象凭借那些外力而具有的属性（Ellis-外在属性）。对许多对象（比如一根拉紧的橡皮筋）来说，其形状都依赖于作用于其上的外力，因此其形状是 Ellis-外在的。如果一个人承诺形状是内在的这一观念，他就应当认为，这意味着 Ellis-内在属性与 Ellis-外在属性之间的区分不同于内在／外在区分。这样的判断也许显得有些仓促，但无论如何，我们接下来转向在哲学文献中受到更多关注的那些区分。
+      有若干不同的区分都曾被称作内在／外在区分。正如 J. Michael Dunn（1990）指出的，一些作者用“内在的”与“外在的”来意指“本质的”与“偶然的”。Dunn 说这是对术语的误用，这无疑是对的。一个更有趣的区分由 Brian Ellis（1991；Humberstone 1996: 206 有所讨论）指出 [^humberstone-1996]。（另见 Figdor 2008 与 Figdor 2014 对一种相关内在性概念的讨论。）[^figdor-2008][^figdor-2014] Ellis 建议我们区分：对象独立于任何作用于其上的外力而具有的属性（我们称之为 Ellis-内在属性），与对象凭借那些外力而具有的属性（Ellis-外在属性）。对许多对象（比如一根拉紧的橡皮筋）来说，其形状都依赖于作用于其上的外力，因此其形状是 Ellis-外在的。如果一个人承诺形状是内在的这一观念，他就应当认为，这意味着 Ellis-内在属性与 Ellis-外在属性之间的区分不同于内在／外在区分。这样的判断也许显得有些仓促，但无论如何，我们接下来转向在哲学文献中受到更多关注的那些区分。
   - id: 39
     kind: body
     source: |-
@@ -342,25 +342,25 @@ segments:
     source: |-
       Many writers, especially in the literature on intrinsic value, use ‘relational’ for the opposite of intrinsic. This seems to be a mistake since many properties seem to be both be relational and intrinsic. For example, most people have the property *having longer legs than arms*, and indeed seem to have this property in an intrinsic fashion, even though the property consists in a certain relation being satisfied. Maybe the property is not intrinsic if whether or not something is an arm or a leg is extrinsic, so perhaps this isn’t a conclusive example, but it seems troubling. And, in any case, there are other examples that can’t be responded to in this way. For example, the property of having a proper part is surely intrinsic, but it also appears to be a relational property.
     step1: |-
-      许多作者（尤其在关于内在价值的文献中）用"关系性的"作为内在的反义词。这似乎是一个错误，因为许多属性似乎既是关系性的又是内在的。例如，大多数人具有"腿比胳膊长"这一属性，而且看起来确实以内在方式具有这一属性，尽管这一属性在于某种关系得到满足。也许，如果某物是不是胳膊或腿是外在的，这一属性就不是内在的，所以这或许不是一个决定性的例子，但它看起来是令人困扰的。而且，无论如何，还有其他无法以这种方式回应的例子。例如，"拥有一个真部分"这一属性无疑是内在的，但它似乎也是一个关系性属性。
+      许多作者（尤其在关于内在价值的文献中）用“关系性的”作为内在的反义词。这似乎是一个错误，因为许多属性似乎既是关系性的又是内在的。例如，大多数人具有“腿比胳膊长”这一属性，而且看起来确实以内在方式具有这一属性，尽管这一属性在于某种关系得到满足。也许，如果某物是不是胳膊或腿是外在的，这一属性就不是内在的，所以这或许不是一个决定性的例子，但它看起来是令人困扰的。而且，无论如何，还有其他无法以这种方式回应的例子。例如，“拥有一个真部分”这一属性无疑是内在的，但它似乎也是一个关系性属性。
     step2: |-
-      许多作者（尤其在关于内在价值的文献中）用"关系性的"（relational）作为内在的反义词。这似乎是一个错误，因为许多属性似乎既是关系性的又是内在的。例如，大多数人具有"腿比胳膊长"这一属性，而且看起来确实以内在方式具有这一属性，尽管这一属性在于某种关系得到满足。也许，如果某物是不是胳膊或腿是外在的，这一属性就不是内在的，所以这或许不是一个决定性的例子；但它看起来是令人困扰的。而且，无论如何，还有其他无法以这种方式回应的例子。例如，"拥有一个真部分"这一属性无疑是内在的，但它似乎也是一个关系性属性。
+      许多作者（尤其在关于内在价值的文献中）用“关系性的”（relational）作为内在的反义词。这似乎是一个错误，因为许多属性似乎既是关系性的又是内在的。例如，大多数人具有“腿比胳膊长”这一属性，而且看起来确实以内在方式具有这一属性，尽管这一属性在于某种关系得到满足。也许，如果某物是不是胳膊或腿是外在的，这一属性就不是内在的，所以这或许不是一个决定性的例子；但它看起来是令人困扰的。而且，无论如何，还有其他无法以这种方式回应的例子。例如，“拥有一个真部分”这一属性无疑是内在的，但它似乎也是一个关系性属性。
   - id: 41
     kind: body
     source: |-
       As Humberstone 1996 notes, some might respond by suggesting that a relational property is one such that if an object has it, then it bears some relation to a non-part of it. But this won’t do either. *Not being within a mile of a rhododendron* is clearly relational, but does not consist in bearing a relation to any non-part, as we can see by the fact that a non-rhododendron all alone in a world can satisfy it.
     step1: |-
-      正如 Humberstone 1996 所指出的，有人可能会回应说，关系性属性是这样一种属性：如果对象具有它，那么对象与某个非其部分的东西处于某种关系中。但这样做也不行。"不在任何一株杜鹃花的一英里之内"显然是关系性的，却并不在于与任何非部分处于某种关系中——我们可以从一个世界上孤零零的、非杜鹃花的东西能满足这一属性看出这一点。
+      正如 Humberstone 1996 所指出的，有人可能会回应说，关系性属性是这样一种属性：如果对象具有它，那么对象与某个非其部分的东西处于某种关系中。但这样做也不行。“不在任何一株杜鹃花的一英里之内”显然是关系性的，却并不在于与任何非部分处于某种关系中——我们可以从一个世界上孤零零的、非杜鹃花的东西能满足这一属性看出这一点。
     step2: |-
-      正如 Humberstone 1996 所指出的，有人可能会回应说：关系性属性是这样一种属性，如果对象具有它，那么对象与某个非其部分的东西处于某种关系中。但这样做也不行。"不在任何一株杜鹃花的一英里之内"显然是关系性的，却并不在于与任何非部分处于某种关系中——这一点可以从如下事实看出：一个世界上孤零零的、非杜鹃花的东西也能满足这一属性。
+      正如 Humberstone 1996 所指出的，有人可能会回应说：关系性属性是这样一种属性，如果对象具有它，那么对象与某个非其部分的东西处于某种关系中。但这样做也不行。“不在任何一株杜鹃花的一英里之内”显然是关系性的，却并不在于与任何非部分处于某种关系中——这一点可以从如下事实看出：一个世界上孤零零的、非杜鹃花的东西也能满足这一属性。
   - id: 42
     kind: body
     source: |-
       A further response might be to say that a relational property should be a property that involves a relation that can only relate wholly distinct things, and that, given this construal of a relational property, non-intrinsic properties are relational properties. However, this response faces difficulties also. For example, this account would presumably classify the property of being such that there is a cube as being intrinsic. This property, however, is not intrinsic.
     step1: |-
-      更进一步的回应可能是说：关系性属性应当是这样一种属性，它涉及一种只能关联完全相异之物的关系；而且，若采这一关系性属性的解释，非内在属性都是关系性属性。然而，这一回应同样面临困难。例如，这一说法大概会把"存在一个立方体"这一属性归为内在属性。然而这一属性不是内在的。
+      更进一步的回应可能是说：关系性属性应当是这样一种属性，它涉及一种只能关联完全相异之物的关系；而且，若采这一关系性属性的解释，非内在属性都是关系性属性。然而，这一回应同样面临困难。例如，这一说法大概会把“存在一个立方体”这一属性归为内在属性。然而这一属性不是内在的。
     step2: |-
-      更进一步的回应可能是说：关系性属性应当是这样一种属性，它涉及一种只能关联完全相异之物的关系；并且，按这一关系性属性的解释，非内在属性都是关系性属性。然而，这一回应同样面临困难。例如，这一说法大概会把"存在一个立方体"这一属性归为内在属性。然而这一属性不是内在的。
+      更进一步的回应可能是说：关系性属性应当是这样一种属性，它涉及一种只能关联完全相异之物的关系；并且，按这一关系性属性的解释，非内在属性都是关系性属性。然而，这一回应同样面临困难。例如，这一说法大概会把“存在一个立方体”这一属性归为内在属性。然而这一属性不是内在的。
   - id: 43
     kind: body
     source: |-
@@ -390,9 +390,9 @@ segments:
     source: |-
       We now turn to the notion of intrinsicality characterised by the characterisations listed in section 1. Or perhaps better, we now turn to the *notions* of intrinsicality characterised by these characterisations, since, while Lewis thought that each of these characterisations characterise a single notion of intrinsically, it is plausible that they characterise different notions. In this subsection, we will discuss the notion characterised by the first characterisation which involves aboutness. In the next two subsections, we will discuss the notions characterised by the other two characterisations.
     step1: |-
-      我们现在转向第 1 节所列诸刻画所刻画的内在性概念。或者也许更好的说法是，我们转向这些刻画所刻画的内在性**诸概念**，因为，尽管刘易斯认为这些刻画中的每一条都刻画了单一的内在性概念，但更可信的是：它们刻画的是不同的概念。在本小节中，我们将讨论第一条刻画——即涉及关于性的那条——所刻画的概念。在接下来的两个小节中，我们将讨论另外两条刻画所刻画的诸概念。
+      我们现在转向第 1 节所列诸刻画所刻画的内在性概念。或者也许更好的说法是，我们转向这些刻画所刻画的内在性 **诸概念**，因为，尽管刘易斯认为这些刻画中的每一条都刻画了单一的内在性概念，但更可信的是：它们刻画的是不同的概念。在本小节中，我们将讨论第一条刻画——即涉及关于性的那条——所刻画的概念。在接下来的两个小节中，我们将讨论另外两条刻画所刻画的诸概念。
     step2: |-
-      我们现在转向第 1 节所列诸刻画所刻画的内在性概念。或者更恰当地说，我们转向这些刻画所刻画的内在性**诸概念**，因为，尽管刘易斯认为这些刻画中的每一条都刻画了单一的内在性概念，但更可信的是：它们刻画的是不同的概念。本小节讨论第一条刻画——即涉及关于性（aboutness）的那条——所刻写的概念。接下来两个小节讨论另外两条刻画所刻画的诸概念。
+      我们现在转向第 1 节所列诸刻画所刻画的内在性概念。或者更恰当地说，我们转向这些刻画所刻画的内在性 **诸概念**，因为，尽管刘易斯认为这些刻画中的每一条都刻画了单一的内在性概念，但更可信的是：它们刻画的是不同的概念。本小节讨论第一条刻画——即涉及关于性（aboutness）的那条——所刻写的概念。接下来两个小节讨论另外两条刻画所刻画的诸概念。
   - id: 47
     kind: body
     source: |-
@@ -414,9 +414,9 @@ segments:
     source: |-
       The notion of aboutness employed in this characterisation is plausibly that of *intrinsic aboutness*, where intrinsic aboutness can be intuitively characterised by (1).
     step1: |-
-      这条刻画所使用的关于性概念，很可能是**内在关于性**（intrinsic aboutness）的概念；而内在关于性可以由 (1) 直观地刻画。
+      这条刻画所使用的关于性概念，很可能是 **内在关于性** （intrinsic aboutness）的概念；而内在关于性可以由 (1) 直观地刻画。
     step2: |-
-      这条刻画所使用的关于性概念，很可能是**内在关于性**（intrinsic aboutness）的概念；而内在关于性可以由 (1) 直观地刻画。
+      这条刻画所使用的关于性概念，很可能是 **内在关于性** （intrinsic aboutness）的概念；而内在关于性可以由 (1) 直观地刻画。
   - id: 50
     kind: body
     source: |-
@@ -486,17 +486,17 @@ segments:
     source: |-
       (3) plausibly classifies *being a cube* as intrinsic, since, for any $x$, the state of affairs of $x$ being a cube plausibly describes how $x$ and its parts are and how they are related to each other, as opposed to how they are related to other things and how other things are. In contrast, (3) plausibly classifies *being an uncle* as non-intrinsic, since its ascription to a thing is not only about how it and its parts are and how they are related to each other, but also about how it is related to things outside of it. (3) also plausibly classifies being Obama as non-intrinsic since the ascription of being Obama to Clinton, namely the state of affairs of Obama being identical to Clinton, is not wholly about Clinton, but is also about Obama. Finally, (3) also appears to classify being such that there is a number as non-intrinsic, even if it is necessary that there are numbers. This is because the ascription of this property to Clinton, namely the state of affairs that Clinton is such that there is a number, appears to be not wholly about how Clinton is, but is also about how things wholly distinct from Clinton are. (We will assume that the intuition underlying this judgement is correct. However, this is not uncontroversial. See Sider 1996 for a rejection of a closely related intuition and Eddon 2011 for a reply to this rejection.)[^eddon-2011]
     step1: |-
-      (3) 可信地把"是立方体"归为内在的，因为对任意 $x$，$x$ 是立方体这一事态可信地描述了 $x$ 及其部分各自之所是以及它们彼此如何相关，而非它们如何与其他事物相关、以及其他事物之所是。相比之下，(3) 可信地把"身为叔叔"归为非内在的，因为它对某物的归予不仅关乎该物及其部分各自之所是以及它们彼此如何相关，还关乎该物如何与其外的事物相关。(3) 还可信地把"是奥巴马"归为非内在的，因为把"是奥巴马"归予克林顿，即奥巴马等同于克林顿这一事态，并不完全关乎克林顿，还关乎奥巴马。最后，(3) 似乎也把"有数存在"归为非内在的，即便数存在是必然的。这是因为把这一属性归予克林顿，即克林顿是如此这般有数存在的事态，似乎并不完全关乎克林顿之所是，还关乎完全相异于克林顿的事物之所是。（我们将假定这一判断背后的直觉是正确的。然而这并非没有争议：Sider 1996 拒斥了一个密切相关的直觉，Eddon 2011 则回应了这一拒斥。）[^eddon-2011]
+      (3) 可信地把“是立方体”归为内在的，因为对任意 $x$，$x$ 是立方体这一事态可信地描述了 $x$ 及其部分各自之所是以及它们彼此如何相关，而非它们如何与其他事物相关、以及其他事物之所是。相比之下，(3) 可信地把“身为叔叔”归为非内在的，因为它对某物的归予不仅关乎该物及其部分各自之所是以及它们彼此如何相关，还关乎该物如何与其外的事物相关。(3) 还可信地把“是奥巴马”归为非内在的，因为把“是奥巴马”归予克林顿，即奥巴马等同于克林顿这一事态，并不完全关乎克林顿，还关乎奥巴马。最后，(3) 似乎也把“有数存在”归为非内在的，即便数存在是必然的。这是因为把这一属性归予克林顿，即克林顿是如此这般有数存在的事态，似乎并不完全关乎克林顿之所是，还关乎完全相异于克林顿的事物之所是。（我们将假定这一判断背后的直觉是正确的。然而这并非没有争议：Sider 1996 拒斥了一个密切相关的直觉，Eddon 2011 则回应了这一拒斥。）[^eddon-2011]
     step2: |-
-      (3) 可信地把"是立方体"归为内在的，因为对任意 $x$，$x$ 是立方体这一事态可信地描述了 $x$ 及其部分各自之所是以及它们彼此如何相关，而非它们如何与其他事物相关、以及其他事物之所是。相比之下，(3) 可信地把"身为叔叔"归为非内在的，因为它对某物的归予不仅关乎该物及其部分各自之所是以及它们彼此如何相关，还关乎该物如何与其外的事物相关。(3) 还可信地把"是奥巴马"归为非内在的，因为把"是奥巴马"归予克林顿，即奥巴马等同于克林顿这一事态，并不完全关乎克林顿，还关乎奥巴马。最后，(3) 似乎也把"有数存在"归为非内在的，即便数存在是必然的。这是因为，把这一属性归予克林顿——即克林顿是如此这般有数存在的事态——似乎并不完全关乎克林顿之所是，还关乎完全相异于克林顿的事物之所是。（我们将假定这一判断背后的直觉是正确的。然而这并非没有争议：Sider 1996 拒斥了一个密切相关的直觉，Eddon 2011 则回应了这一拒斥。）[^eddon-2011]
+      (3) 可信地把“是立方体”归为内在的，因为对任意 $x$，$x$ 是立方体这一事态可信地描述了 $x$ 及其部分各自之所是以及它们彼此如何相关，而非它们如何与其他事物相关、以及其他事物之所是。相比之下，(3) 可信地把“身为叔叔”归为非内在的，因为它对某物的归予不仅关乎该物及其部分各自之所是以及它们彼此如何相关，还关乎该物如何与其外的事物相关。(3) 还可信地把“是奥巴马”归为非内在的，因为把“是奥巴马”归予克林顿，即奥巴马等同于克林顿这一事态，并不完全关乎克林顿，还关乎奥巴马。最后，(3) 似乎也把“有数存在”归为非内在的，即便数存在是必然的。这是因为，把这一属性归予克林顿——即克林顿是如此这般有数存在的事态——似乎并不完全关乎克林顿之所是，还关乎完全相异于克林顿的事物之所是。（我们将假定这一判断背后的直觉是正确的。然而这并非没有争议：Sider 1996 拒斥了一个密切相关的直觉，Eddon 2011 则回应了这一拒斥。）[^eddon-2011]
   - id: 59
     kind: body
     source: |-
       In the following, we will call the properties classified as intrinsic by (3) *local* properties, and call the properties classified by (3) as not intrinsic *non-local* properties. (This notion of a local property needs to be distinguished from the local conception of something having a property in an intrinsic fashion discussed in section 1.2.)
     step1: |-
-      下文中，我们把 (3) 归为内在的属性称为**局部属性**（local properties），把 (3) 归为非内在的属性称为**非局部属性**。（这一局部属性概念，需要与第 1.2 节讨论的"某物以内在方式具有属性"的局部概念区分开来。）
+      下文中，我们把 (3) 归为内在的属性称为 **局部属性** （local properties），把 (3) 归为非内在的属性称为 **非局部属性**。（这一局部属性概念，需要与第 1.2 节讨论的“某物以内在方式具有属性”的局部概念区分开来。）
     step2: |-
-      下文中，我们把 (3) 归为内在的属性称为**局部属性**（local properties），把 (3) 归为非内在的属性称为**非局部属性**（non-local properties）。（这一局部属性概念，需要与第 1.2 节所讨论的"某物以内在方式具有属性"的局部概念区分开来。）
+      下文中，我们把 (3) 归为内在的属性称为 **局部属性** （local properties），把 (3) 归为非内在的属性称为 **非局部属性** （non-local properties）。（这一局部属性概念，需要与第 1.2 节所讨论的“某物以内在方式具有属性”的局部概念区分开来。）
   - id: 60
     kind: body
     source: |-
@@ -510,9 +510,9 @@ segments:
     source: |-
       The second characterisation listed in the quote by Lewis in section 1 was “A thing has its intrinsic properties in virtue of the way that thing itself, and nothing else, is”.
     step1: |-
-      第 1 节所引刘易斯语录中的第二条刻画是："一个事物具有其内在属性，是凭借该事物自身、且仅凭该事物自身之所是"。
+      第 1 节所引刘易斯语录中的第二条刻画是：“一个事物具有其内在属性，是凭借该事物自身、且仅凭该事物自身之所是”。
     step2: |-
-      第 1 节所引刘易斯语录中的第二条刻画是："一个事物具有其内在属性，是凭借该事物自身、且仅凭该事物自身之所是"。
+      第 1 节所引刘易斯语录中的第二条刻画是：“一个事物具有其内在属性，是凭借该事物自身、且仅凭该事物自身之所是”。
   - id: 62
     kind: body
     source: |-
@@ -542,9 +542,9 @@ segments:
     source: |-
       Call the properties that are classified as intrinsic by (4) *interior* properties, and call the properties that are classified as non-intrinsic by (4) *exterior* properties. An important question is what meaning ‘in virtue’ is meant to have in (4). One possible answer is that it is meant to have a reading corresponding to metaphysical grounding, where metaphysical grounding is the relation that stands to metaphysical explanation as causation stands to causal explanation. Under such a reading of ‘in virtue’, (5) is necessarily true.
     step1: |-
-      我们把 (4) 归为内在的属性称为**内部属性**（interior properties），把 (4) 归为非内在的属性称为**外部属性**（exterior properties）。一个重要的问题是：(4) 中的"凭借"（in virtue）应当是什么意思。一种可能的回答是：它应当有一种对应于形而上学奠基的读法；形而上学奠基之于形而上学说明，正如因果之于因果说明。在这一"凭借"读法下，(5) 是必然真的。
+      我们把 (4) 归为内在的属性称为 **内部属性** （interior properties），把 (4) 归为非内在的属性称为 **外部属性** （exterior properties）。一个重要的问题是：(4) 中的“凭借”（in virtue）应当是什么意思。一种可能的回答是：它应当有一种对应于形而上学奠基的读法；形而上学奠基之于形而上学说明，正如因果之于因果说明。在这一“凭借”读法下，(5) 是必然真的。
     step2: |-
-      我们把 (4) 归为内在的属性称为**内部属性**（interior properties），把 (4) 归为非内在的属性称为**外部属性**（exterior properties）。一个重要的问题是：(4) 中的"凭借"（in virtue）应当是什么意思。一种可能的回答是：它应当有一种对应于形而上学奠基的读法；形而上学奠基之于形而上学说明，正如因果之于因果说明。在这一"凭借"读法下，(5) 是必然真的。
+      我们把 (4) 归为内在的属性称为 **内部属性** （interior properties），把 (4) 归为非内在的属性称为 **外部属性** （exterior properties）。一个重要的问题是：(4) 中的“凭借”（in virtue）应当是什么意思。一种可能的回答是：它应当有一种对应于形而上学奠基的读法；形而上学奠基之于形而上学说明，正如因果之于因果说明。在这一“凭借”读法下，(5) 是必然真的。
   - id: 66
     kind: body
     source: |-
@@ -566,9 +566,9 @@ segments:
     source: |-
       While it might be initially appealing to think that ‘in virtue’ in (4) expresses metaphysical grounding, Marshall 2015 has given an argument that (4) fails to characterise a notion of intrinsicality when ‘in virtue’ has this reading. The argument relies on (6) being necessarily true and (7) being true on any notion of intrinsicality.
     step1: |-
-      虽然"(4) 中的凭借表达形而上学奠基"这一想法起初很有吸引力，但 Marshall 2015 给出了一个论证，表明当"凭借"取这一读法时，(4) 无法刻画任何内在性概念。该论证依赖：(6) 是必然真的，且 (7) 在任何内在性概念上都为真。
+      虽然“(4) 中的凭借表达形而上学奠基”这一想法起初很有吸引力，但 Marshall 2015 给出了一个论证，表明当“凭借”取这一读法时，(4) 无法刻画任何内在性概念。该论证依赖：(6) 是必然真的，且 (7) 在任何内在性概念上都为真。
     step2: |-
-      虽然"(4) 中的"凭借"表达形而上学奠基"这一想法起初很有吸引力，但 Marshall 2015 给出了一个论证，表明当"凭借"取这一读法时，(4) 无法刻画任何内在性概念。该论证依赖两点：(6) 是必然真的，且 (7) 在任何内在性概念上都为真。
+      虽然“(4) 中的”凭借“表达形而上学奠基”这一想法起初很有吸引力，但 Marshall 2015 给出了一个论证，表明当“凭借”取这一读法时，(4) 无法刻画任何内在性概念。该论证依赖两点：(6) 是必然真的，且 (7) 在任何内在性概念上都为真。
   - id: 69
     kind: body
     source: |-
@@ -606,9 +606,9 @@ segments:
     source: |-
       The argument is the following. Suppose, for reductio, that (4) characterises a notion of intrinsicality when ‘in virtue’ expresses metaphysical grounding. It follows from this, and the necessity of (5) and (6), that (8) is necessarily true.
     step1: |-
-      论证如下。设为归谬：当"凭借"表达形而上学奠基时，(4) 刻画了一个内在性概念。由这一点以及 (5) 与 (6) 的必然性，可得 (8) 是必然真的。
+      论证如下。设为归谬：当“凭借”表达形而上学奠基时，(4) 刻画了一个内在性概念。由这一点以及 (5) 与 (6) 的必然性，可得 (8) 是必然真的。
     step2: |-
-      论证如下。设为归谬（reductio）：当"凭借"表达形而上学奠基时，(4) 刻画了一个内在性概念。由这一点以及 (5) 与 (6) 的必然性，可得 (8) 是必然真的。
+      论证如下。设为归谬（reductio）：当“凭借”表达形而上学奠基时，(4) 刻画了一个内在性概念。由这一点以及 (5) 与 (6) 的必然性，可得 (8) 是必然真的。
   - id: 74
     kind: body
     source: |-
@@ -654,17 +654,17 @@ segments:
     source: |-
       However, (9) is necessarily false, since foundational facts cannot be metaphysically grounded by any facts. Hence, the assumption that (4) characterises a notion of intrinsicality when ‘in virtue’ expresses metaphysical grounding is false.
     step1: |-
-      然而，(9) 是必然假的，因为基础性事实不可能被任何事实形而上学奠基。因此，"(4) 在凭借表达形而上学奠基时刻画了一个内在性概念"这一假设为假。
+      然而，(9) 是必然假的，因为基础性事实不可能被任何事实形而上学奠基。因此，“(4) 在凭借表达形而上学奠基时刻画了一个内在性概念”这一假设为假。
     step2: |-
-      然而，(9) 是必然假的，因为基础性事实不可能被任何事实形而上学奠基。因此，"(4) 在"凭借"表达形而上学奠基时刻画了一个内在性概念"这一假设为假。
+      然而，(9) 是必然假的，因为基础性事实不可能被任何事实形而上学奠基。因此，“(4) 在”凭借“表达形而上学奠基时刻画了一个内在性概念”这一假设为假。
   - id: 80
     kind: body
     source: |-
       Given ‘in virtue’ doesn’t express metaphysical grounding in (4) on its intended use, what does it express? One attractive option is to think that ‘in virtue’ in (4) is meant to be understood as having the same effect as ‘is a matter of’ and that, on this reading, it expresses the identity relation. On this reading, ‘$\varphi$ in virtue of it being the case that $\psi$’ is true iff the state of affairs expressed by $\phi$ is identical to the state of affairs expressed by $\varphi$. Since it follows from (6) that, on this reading ‘$\varphi$ in virtue of how $x$ is intrinsically’ is true iff there is a sentence $\phi$ that expresses an obtaining state of affairs that is intrinsically about $x$, (10) follows from (4) on this reading of ‘in virtue’.
     step1: |-
-      既然在其预期的用法上，(4) 中的"凭借"不表达形而上学奠基，那它表达什么？一个有吸引力的选项是认为：(4) 中的"凭借"应当被理解为与"在于"有相同的效果，且在这一读法下它表达同一关系。在这一读法下，“$\varphi$ 凭借 $\phi$ 得以成立”为真，当且仅当 $\phi$ 所表达的事态等同于 $\varphi$ 所表达的事态。由 (6) 可得：在这一读法下，“$\varphi$ 凭借 $x$ 内在地之所是”为真，当且仅当存在一个语句 $\phi$，它表达一个内在地关乎 $x$ 的成立事态；于是，在"凭借"的这一读法下，(10) 可由 (4) 得出。
+      既然在其预期的用法上，(4) 中的“凭借”不表达形而上学奠基，那它表达什么？一个有吸引力的选项是认为：(4) 中的“凭借”应当被理解为与“在于”有相同的效果，且在这一读法下它表达同一关系。在这一读法下，“$\varphi$ 凭借 $\phi$ 得以成立”为真，当且仅当 $\phi$ 所表达的事态等同于 $\varphi$ 所表达的事态。由 (6) 可得：在这一读法下，“$\varphi$ 凭借 $x$ 内在地之所是”为真，当且仅当存在一个语句 $\phi$，它表达一个内在地关乎 $x$ 的成立事态；于是，在“凭借”的这一读法下，(10) 可由 (4) 得出。
     step2: |-
-      既然在其预期的用法上，(4) 中的"凭借"不表达形而上学奠基，那它表达什么？一个有吸引力的选项是认为：(4) 中的"凭借"应当被理解为与"在于"（is a matter of）有相同的效果，且在这一读法下它表达同一关系。在这一读法下，“$\varphi$ 凭借 $\phi$ 得以成立”为真，当且仅当 $\phi$ 所表达的事态等同于 $\varphi$ 所表达的事态。由 (6) 可得：在这一读法下，“$\varphi$ 凭借 $x$ 内在地之所是”为真，当且仅当存在一个语句 $\phi$，它表达一个内在地关乎 $x$ 的成立事态；于是，在"凭借"的这一读法下，(10) 可由 (4) 得出。
+      既然在其预期的用法上，(4) 中的“凭借”不表达形而上学奠基，那它表达什么？一个有吸引力的选项是认为：(4) 中的“凭借”应当被理解为与“在于”（is a matter of）有相同的效果，且在这一读法下它表达同一关系。在这一读法下，“$\varphi$ 凭借 $\phi$ 得以成立”为真，当且仅当 $\phi$ 所表达的事态等同于 $\varphi$ 所表达的事态。由 (6) 可得：在这一读法下，“$\varphi$ 凭借 $x$ 内在地之所是”为真，当且仅当存在一个语句 $\phi$，它表达一个内在地关乎 $x$ 的成立事态；于是，在“凭借”的这一读法下，(10) 可由 (4) 得出。
   - id: 81
     kind: body
     source: |-
@@ -686,17 +686,17 @@ segments:
     source: |-
       An alternative option, which is investigated in Marshall 2016a, is to hold that ‘in virtue’ may express a number of different reflexive determination, or entailment, relations in (4), and that each of these relations determines a different notion of intrinsicality. In addition to identity, such entailment relations might include metaphysical necessitation, nomic necessitation, and weak metaphysical grounding, where $p$ weakly metaphysically grounds $q$ iff either $p=q$ or $p$ metaphysically grounds $q$. Given these relations determine different notions of intrinsicality for each relation $R$, we may call the notion of interiority corresponding to $R$ ‘$R$ interiority’. So, for example, the notion of intrinsicality obtained from (4) by interpreting ‘in virtue’ as expressing the identity relation might be called identity interiority, while the notion of interiority obtained from metaphysical necessitation might be called metaphysical necessitation interiority, and the notion of interiority obtained from nomic necessitation might be called nomic necessitation interiority.
     step1: |-
-      另一种选项（Marshall 2016a 考察了它）是主张：(4) 中的"凭借"可以表达若干不同的自返决定关系（或称蕴含关系），且这些关系中的每一个都决定一个不同的内在性概念。除同一之外，这类蕴含关系还可以包括形而上学必然化、律则必然化与弱形而上学奠基，其中 $p$ 弱地形而上学奠基 $q$，当且仅当 $p=q$ 或 $p$ 形而上学地奠基 $q$。既然这些关系对每个关系 $R$ 都决定一个不同的内在性概念，我们可以把对应于 $R$ 的内部性概念称为“$R$ 内部性”。例如，把"凭借"解释为表达同一关系而从 (4) 得到的内在性概念，或许可以称为同一内部性（identity interiority）；由形而上学必然化得到的内部性概念或许可以称为形而上学必然化内部性；由律则必然化得到的内部性概念则或许可以称为律则必然化内部性。
+      另一种选项（Marshall 2016a 考察了它）是主张：(4) 中的“凭借”可以表达若干不同的自返决定关系（或称蕴含关系），且这些关系中的每一个都决定一个不同的内在性概念。除同一之外，这类蕴含关系还可以包括形而上学必然化、律则必然化与弱形而上学奠基，其中 $p$ 弱地形而上学奠基 $q$，当且仅当 $p=q$ 或 $p$ 形而上学地奠基 $q$。既然这些关系对每个关系 $R$ 都决定一个不同的内在性概念，我们可以把对应于 $R$ 的内部性概念称为“$R$ 内部性”。例如，把“凭借”解释为表达同一关系而从 (4) 得到的内在性概念，或许可以称为同一内部性（identity interiority）；由形而上学必然化得到的内部性概念或许可以称为形而上学必然化内部性；由律则必然化得到的内部性概念则或许可以称为律则必然化内部性。
     step2: |-
-      另一种选项（Marshall 2016a 考察了它）是主张：(4) 中的"凭借"可以表达若干不同的自返决定关系（或称蕴含关系），且这些关系中的每一个都决定一个不同的内在性概念。除同一之外，这类蕴含关系还可以包括形而上学必然化（metaphysical necessitation）、律则必然化（nomic necessitation）与弱形而上学奠基，其中 $p$ 弱地形而上学奠基 $q$，当且仅当 $p=q$ 或 $p$ 形而上学地奠基 $q$。既然这些关系对每个关系 $R$ 都决定一个不同的内在性概念，我们可以把对应于 $R$ 的内部性概念称为“$R$ 内部性”。例如，把"凭借"解释为表达同一关系而从 (4) 得到的内在性概念，或许可以称为同一内部性（identity interiority）；由形而上学必然化得到的内部性概念或许可以称为形而上学必然化内部性；由律则必然化得到的内部性概念则或许可以称为律则必然化内部性。
+      另一种选项（Marshall 2016a 考察了它）是主张：(4) 中的“凭借”可以表达若干不同的自返决定关系（或称蕴含关系），且这些关系中的每一个都决定一个不同的内在性概念。除同一之外，这类蕴含关系还可以包括形而上学必然化（metaphysical necessitation）、律则必然化（nomic necessitation）与弱形而上学奠基，其中 $p$ 弱地形而上学奠基 $q$，当且仅当 $p=q$ 或 $p$ 形而上学地奠基 $q$。既然这些关系对每个关系 $R$ 都决定一个不同的内在性概念，我们可以把对应于 $R$ 的内部性概念称为“$R$ 内部性”。例如，把“凭借”解释为表达同一关系而从 (4) 得到的内在性概念，或许可以称为同一内部性（identity interiority）；由形而上学必然化得到的内部性概念或许可以称为形而上学必然化内部性；由律则必然化得到的内部性概念则或许可以称为律则必然化内部性。
   - id: 84
     kind: body
     source: |-
       If ‘in virtue’ expresses the relation $R$, then ‘$\varphi$ in virtue of it being the case that $\phi$’ is true iff the state of affairs of it being the case that $\phi$ stands in $R$ to the state of affairs of it being the case the $\varphi$. It follows from this, (4) and (6) that the $R$ interior properties satisfy (11).
     step1: |-
-      若"凭借"表达关系 $R$，则“$\varphi$ 凭借 $\phi$ 得以成立”为真，当且仅当 $\phi$ 得以成立的事态对 $\varphi$ 得以成立的事态处于 $R$ 中。由此以及 (4) 与 (6) 可得，$R$ 内部属性满足 (11)。
+      若“凭借”表达关系 $R$，则“$\varphi$ 凭借 $\phi$ 得以成立”为真，当且仅当 $\phi$ 得以成立的事态对 $\varphi$ 得以成立的事态处于 $R$ 中。由此以及 (4) 与 (6) 可得，$R$ 内部属性满足 (11)。
     step2: |-
-      若"凭借"表达关系 $R$，则“$\varphi$ 凭借 $\phi$ 得以成立”为真，当且仅当 $\phi$ 得以成立的事态对 $\varphi$ 得以成立的事态处于 $R$ 中。由此以及 (4) 与 (6) 可得，$R$ 内部属性满足 (11)。
+      若“凭借”表达关系 $R$，则“$\varphi$ 凭借 $\phi$ 得以成立”为真，当且仅当 $\phi$ 得以成立的事态对 $\varphi$ 得以成立的事态处于 $R$ 中。由此以及 (4) 与 (6) 可得，$R$ 内部属性满足 (11)。
   - id: 85
     kind: body
     source: |-
@@ -718,17 +718,17 @@ segments:
     source: |-
       Just as being cubical is intuitively a local property, while being an uncle and being such that there is a number are intuitively non-local properties, the former property is intuitively an identity interiority property, while the latter properties are both intuitively not identity interior. (Those that claim that being such that there is a number is a local property, however, are likely to also claim that this property is identity interior. See, for example, Sider (1993a), Eddon (2011), Vallentyne (1997), Hoffman-Kolls (2014) and Francescotti (2014) for the relevant debate.) The identity interior properties, however, plausibly do not coincide with the local properties, since, while being identical to Obama is not a local property, it is plausibly an identity interior property. This is because, necessarily, for any $x$ that is identical to Obama, the state of affairs of $x$ being identical to Obama is plausibly about how $x$ and its parts are and how they are related to each other, as opposed to how they are related to other things and how other things are.
     step1: |-
-      正如"是立方体"直观上是局部属性，而"身为叔叔"与"有数存在"直观上是非局部属性，前一属性直观上是一个同一内部性属性，而后两个属性直观上都不是同一内部的。（不过，主张"有数存在"是局部属性的人，很可能也会主张这一属性是同一内部的。相关争论例如见 Sider 1993a、Eddon 2011、Vallentyne 1997、Hoffman-Kolss 2014 与 Francescotti 2014。）然而，同一内部属性可信地不与局部属性重合，因为，虽然"等同于奥巴马"不是局部属性，它却可信地是一个同一内部属性。这是因为：必然地，对任意等同于奥巴马的 $x$，$x$ 等同于奥巴马这一事态可信地关乎 $x$ 及其部分各自之所是以及它们彼此如何相关，而非它们如何与其他事物相关、以及其他事物之所是。
+      正如“是立方体”直观上是局部属性，而“身为叔叔”与“有数存在”直观上是非局部属性，前一属性直观上是一个同一内部性属性，而后两个属性直观上都不是同一内部的。（不过，主张“有数存在”是局部属性的人，很可能也会主张这一属性是同一内部的。相关争论例如见 Sider 1993a、Eddon 2011、Vallentyne 1997、Hoffman-Kolss 2014 与 Francescotti 2014。）然而，同一内部属性可信地不与局部属性重合，因为，虽然“等同于奥巴马”不是局部属性，它却可信地是一个同一内部属性。这是因为：必然地，对任意等同于奥巴马的 $x$，$x$ 等同于奥巴马这一事态可信地关乎 $x$ 及其部分各自之所是以及它们彼此如何相关，而非它们如何与其他事物相关、以及其他事物之所是。
     step2: |-
-      正如"是立方体"直观上是局部属性，而"身为叔叔"与"有数存在"直观上是非局部属性，前一属性直观上是一个同一内部性属性，而后两个属性直观上都不是同一内部的。（不过，主张"有数存在"是局部属性的人，很可能也会主张这一属性是同一内部的。相关争论例如见 Sider 1993a、Eddon 2011、Vallentyne 1997、Hoffman-Kolss 2014 与 Francescotti 2014。）然而，同一内部属性可信地不与局部属性重合，因为，虽然"等同于奥巴马"不是局部属性，它却可信地是一个同一内部属性。这是因为：必然地，对任意等同于奥巴马的 $x$，$x$ 等同于奥巴马这一事态可信地关乎 $x$ 及其部分各自之所是以及它们彼此如何相关，而非它们如何与其他事物相关、以及其他事物之所是。
+      正如“是立方体”直观上是局部属性，而“身为叔叔”与“有数存在”直观上是非局部属性，前一属性直观上是一个同一内部性属性，而后两个属性直观上都不是同一内部的。（不过，主张“有数存在”是局部属性的人，很可能也会主张这一属性是同一内部的。相关争论例如见 Sider 1993a、Eddon 2011、Vallentyne 1997、Hoffman-Kolss 2014 与 Francescotti 2014。）然而，同一内部属性可信地不与局部属性重合，因为，虽然“等同于奥巴马”不是局部属性，它却可信地是一个同一内部属性。这是因为：必然地，对任意等同于奥巴马的 $x$，$x$ 等同于奥巴马这一事态可信地关乎 $x$ 及其部分各自之所是以及它们彼此如何相关，而非它们如何与其他事物相关、以及其他事物之所是。
   - id: 88
     kind: body
     source: |-
       Since each identity interior property is also an $R$ interior property, for each reflexive relation $R$, the $R$ interior properties also do not coincide with the local properties for each $R$. The $R$ interior properties also differ from the identity interior properties for at least some $R$. For example, the metaphysical necessitation interior properties plausibly differ from the identity interior properties since, while being such that there is a number is plausibly not identity interior, it is metaphysical necessitation interior. This is because, given the assumption that numbers necessarily exist, any $x$ is such that how it is intrinsically necessitates that $x$ is such that there is a number.
     step1: |-
-      既然每个同一内部属性也是一个 $R$ 内部属性（对每个自返关系 $R$ 而言），$R$ 内部属性对每个 $R$ 也不与局部属性重合。至少对某些 $R$，$R$ 内部属性也不同于同一内部属性。例如，形而上学必然化内部属性可信地不同于同一内部属性：虽然"有数存在"可信地不是同一内部的，它却是形而上学必然化内部的。这是因为，在数必然存在这一假设下，任意 $x$ 都是这样的：它内在地之所是必然化 $x$ 是"有数存在"的。
+      既然每个同一内部属性也是一个 $R$ 内部属性（对每个自返关系 $R$ 而言），$R$ 内部属性对每个 $R$ 也不与局部属性重合。至少对某些 $R$，$R$ 内部属性也不同于同一内部属性。例如，形而上学必然化内部属性可信地不同于同一内部属性：虽然“有数存在”可信地不是同一内部的，它却是形而上学必然化内部的。这是因为，在数必然存在这一假设下，任意 $x$ 都是这样的：它内在地之所是必然化 $x$ 是“有数存在”的。
     step2: |-
-      既然每个同一内部属性也是一个 $R$ 内部属性（对每个自返关系 $R$ 而言），$R$ 内部属性对每个 $R$ 也不与局部属性重合。至少对某些 $R$，$R$ 内部属性也不同于同一内部属性。例如，形而上学必然化内部属性可信地不同于同一内部属性：虽然"有数存在"可信地不是同一内部的，它却是形而上学必然化内部的。这是因为，在数必然存在这一假设下，任意 $x$ 都是这样的：它内在地之所是必然化 $x$ 是"有数存在"的。
+      既然每个同一内部属性也是一个 $R$ 内部属性（对每个自返关系 $R$ 而言），$R$ 内部属性对每个 $R$ 也不与局部属性重合。至少对某些 $R$，$R$ 内部属性也不同于同一内部属性。例如，形而上学必然化内部属性可信地不同于同一内部属性：虽然“有数存在”可信地不是同一内部的，它却是形而上学必然化内部的。这是因为，在数必然存在这一假设下，任意 $x$ 都是这样的：它内在地之所是必然化 $x$ 是“有数存在”的。
   - id: 89
     kind: body
     source: |-
@@ -766,17 +766,17 @@ segments:
     source: |-
       (12), however, has the following problem. Assume that no man has a mass of 500 kg (although it is possible for a man to have a mass of 500 kg). Since nothing has the property of being a popular man who is 500 kg, given this assumption, no two duplicates differ in whether they have this property. (12) therefore falsely classifies *being a popular man who is 500 kg* as intrinsic.
     step1: |-
-      然而，(12) 有如下问题。假定没有男人具有 500 千克的质量（尽管男人可能具有 500 千克的质量）。既然在此假设下没有任何东西具有"是受欢迎的 500 千克男人"这一属性，就没有哪两个复本在是否具有这一属性上有所不同。(12) 因此错误地把"是受欢迎的 500 千克男人"归为内在的。
+      然而，(12) 有如下问题。假定没有男人具有 500 千克的质量（尽管男人可能具有 500 千克的质量）。既然在此假设下没有任何东西具有“是受欢迎的 500 千克男人”这一属性，就没有哪两个复本在是否具有这一属性上有所不同。(12) 因此错误地把“是受欢迎的 500 千克男人”归为内在的。
     step2: |-
-      然而，(12) 有如下问题。假定没有男人具有 500 千克的质量（尽管男人可能具有 500 千克的质量）。既然在此假设下没有任何东西具有"是受欢迎的 500 千克男人"这一属性，就没有哪两个复本在是否具有这一属性上有所不同。(12) 因此错误地把"是受欢迎的 500 千克男人"归为内在的。
+      然而，(12) 有如下问题。假定没有男人具有 500 千克的质量（尽管男人可能具有 500 千克的质量）。既然在此假设下没有任何东西具有“是受欢迎的 500 千克男人”这一属性，就没有哪两个复本在是否具有这一属性上有所不同。(12) 因此错误地把“是受欢迎的 500 千克男人”归为内在的。
   - id: 94
     kind: body
     source: |-
       David Lewis doesn’t face this problem due to his concretist theory of possible worlds. Lewis holds that, in addition to the world we live in, there are many other concrete worlds of the same kind as the world we live in. Moreover, he holds that contained in some of these worlds are 500 kg duplicate men, some of whom are popular, and some of whom are not. Given Lewis’s concretist theory of possible worlds, then, being a popular man who is 500 kg is classified as extrinsic by (12).
     step1: |-
-      大卫·刘易斯并未面临这一问题，这得益于他的可能世界具体主义理论。刘易斯主张：除我们所居住的世界之外，还存在许多其他与我们所在世界同类的具体世界。而且他主张，其中一些世界包含 500 千克的复本男人，其中一些受欢迎，另一些不受欢迎。于是，在刘易斯的可能世界具体主义理论下，"是受欢迎的 500 千克男人"被 (12) 归为外在的。
+      大卫·刘易斯并未面临这一问题，这得益于他的可能世界具体主义理论。刘易斯主张：除我们所居住的世界之外，还存在许多其他与我们所在世界同类的具体世界。而且他主张，其中一些世界包含 500 千克的复本男人，其中一些受欢迎，另一些不受欢迎。于是，在刘易斯的可能世界具体主义理论下，“是受欢迎的 500 千克男人”被 (12) 归为外在的。
     step2: |-
-      大卫·刘易斯并未面临这一问题，这得益于他的可能世界具体主义（concretist）理论。刘易斯主张：除我们所居住的世界之外，还存在许多其他与我们所在世界同类的具体世界。而且他主张，其中一些世界包含 500 千克的复本男人，其中一些受欢迎，另一些不受欢迎。于是，在刘易斯的可能世界具体主义理论下，"是受欢迎的 500 千克男人"被 (12) 归为外在的。
+      大卫·刘易斯并未面临这一问题，这得益于他的可能世界具体主义（concretist）理论。刘易斯主张：除我们所居住的世界之外，还存在许多其他与我们所在世界同类的具体世界。而且他主张，其中一些世界包含 500 千克的复本男人，其中一些受欢迎，另一些不受欢迎。于是，在刘易斯的可能世界具体主义理论下，“是受欢迎的 500 千克男人”被 (12) 归为外在的。
   - id: 95
     kind: body
     source: |-
@@ -806,49 +806,49 @@ segments:
     source: |-
       Given a standard abstractionist theory of possible worlds, there is a possible world $u$ that represents there being a popular 500 kg man $x$, and there is another possible world $v$ that represents there being an unpopular 500 kg man $y$, where $x$ at $u$ has the same intrinsic properties as $y$ at $v$, and hence $x$ at $u$ is a duplicate of $y$ at $v$. Given this, (13) classifies *being a popular man who is 500 kg* as extrinsic.
     step1: |-
-      在可能世界的标准抽象主义理论下，存在一个可能世界 $u$，它表征有一个受欢迎的 500 千克男人 $x$；还存在另一个可能世界 $v$，它表征有一个不受欢迎的 500 千克男人 $y$；其中 $x$ 在 $u$ 与 $y$ 在 $v$ 具有相同的内在属性，因而 $x$ 在 $u$ 是 $y$ 在 $v$ 的复本。由此，(13) 把"是受欢迎的 500 千克男人"归为外在的。
+      在可能世界的标准抽象主义理论下，存在一个可能世界 $u$，它表征有一个受欢迎的 500 千克男人 $x$；还存在另一个可能世界 $v$，它表征有一个不受欢迎的 500 千克男人 $y$；其中 $x$ 在 $u$ 与 $y$ 在 $v$ 具有相同的内在属性，因而 $x$ 在 $u$ 是 $y$ 在 $v$ 的复本。由此，(13) 把“是受欢迎的 500 千克男人”归为外在的。
     step2: |-
-      在可能世界的标准抽象主义理论下，存在一个可能世界 $u$，它表征有一个受欢迎的 500 千克男人 $x$；还存在另一个可能世界 $v$，它表征有一个不受欢迎的 500 千克男人 $y$；其中 $x$ 在 $u$ 与 $y$ 在 $v$ 具有相同的内在属性，因而 $x$ 在 $u$ 是 $y$ 在 $v$ 的复本。由此，(13) 把"是受欢迎的 500 千克男人"归为外在的。
+      在可能世界的标准抽象主义理论下，存在一个可能世界 $u$，它表征有一个受欢迎的 500 千克男人 $x$；还存在另一个可能世界 $v$，它表征有一个不受欢迎的 500 千克男人 $y$；其中 $x$ 在 $u$ 与 $y$ 在 $v$ 具有相同的内在属性，因而 $x$ 在 $u$ 是 $y$ 在 $v$ 的复本。由此，(13) 把“是受欢迎的 500 千克男人”归为外在的。
   - id: 99
     kind: body
     source: |-
       Putting aside for the moment the question of whether (13) correctly characterises a genuine notion of intrinsicality, let us call the notion it does characterise duplication preservation. (13), understood as a characterisation of duplication preservation has two important consequences. First, it has the consequence that identity properties, such as being Obama, aren’t duplication preserving. The reason for this is that, since Obama could have had a duplicate distinct from himself, there is a possible world at which Obama has a duplicate who is not Obama, and hence there is a possible world at which something having the property of being Obama has a duplicate which lacks this property.
     step1: |-
-      我们暂且撇开 (13) 是否正确刻画了一个真正的内在性概念这一问题，把它确实刻画的概念称为复制保持（duplication preservation）。作为对复制保持的刻画，(13) 有两个重要推论。第一，它蕴含同一属性——例如"是奥巴马"——不是复制保持的。理由是：既然奥巴马本可能有区别于自身的复本，就存在一个可能世界，在该世界中奥巴马有一个不是奥巴马的复本；于是存在一个可能世界，在该世界中某个具有"是奥巴马"这一属性的东西有一个缺乏这一属性的复本。
+      我们暂且撇开 (13) 是否正确刻画了一个真正的内在性概念这一问题，把它确实刻画的概念称为复制保持（duplication preservation）。作为对复制保持的刻画，(13) 有两个重要推论。第一，它蕴含同一属性——例如“是奥巴马”——不是复制保持的。理由是：既然奥巴马本可能有区别于自身的复本，就存在一个可能世界，在该世界中奥巴马有一个不是奥巴马的复本；于是存在一个可能世界，在该世界中某个具有“是奥巴马”这一属性的东西有一个缺乏这一属性的复本。
     step2: |-
-      我们暂且撇开 (13) 是否正确刻画了一个真正的内在性概念这一问题，把它确实刻画的概念称为复制保持（duplication preservation）。作为对复制保持的刻画，(13) 有两个重要推论。第一，它蕴含同一属性——例如"是奥巴马"——不是复制保持的。理由是：既然奥巴马本可能有区别于自身的复本，就存在一个可能世界，在该世界中奥巴马有一个不是奥巴马的复本；于是存在一个可能世界，在该世界中某个具有"是奥巴马"这一属性的东西有一个缺乏这一属性的复本。
+      我们暂且撇开 (13) 是否正确刻画了一个真正的内在性概念这一问题，把它确实刻画的概念称为复制保持（duplication preservation）。作为对复制保持的刻画，(13) 有两个重要推论。第一，它蕴含同一属性——例如“是奥巴马”——不是复制保持的。理由是：既然奥巴马本可能有区别于自身的复本，就存在一个可能世界，在该世界中奥巴马有一个不是奥巴马的复本；于是存在一个可能世界，在该世界中某个具有“是奥巴马”这一属性的东西有一个缺乏这一属性的复本。
   - id: 100
     kind: body
     source: |-
       A more general consequence can be stated using the distinction between qualitative and non-qualitative properties, where a qualitative property is intuitively a property that doesn’t concern any particular entities, while a non-qualitative property is a property that does concern one or more particular entities. Examples of qualitative properties include the property of being cubical and the property of being next to a tin, while examples of non-qualitative properties include the property of being Obama and the property of being next to Clinton. It plausibly follows from (13), understood as a characterisation of duplication preservation, that any non-qualitative property that is possibly instantiated is not a duplication preserving property.
     step1: |-
-      一个更一般的推论可以借助质性属性与非质性属性之分来陈述：质性属性直观上是不关乎任何特定实体的属性，而非质性属性是关乎一个或多个特定实体的属性。质性属性的例子包括"是立方体"与"在一块锡旁边"；非质性属性的例子包括"是奥巴马"与"在克林顿旁边"。由作为复制保持之刻画的 (13) 可信地可得：任何可能被实例化的非质性属性都不是复制保持属性。
+      一个更一般的推论可以借助质性属性与非质性属性之分来陈述：质性属性直观上是不关乎任何特定实体的属性，而非质性属性是关乎一个或多个特定实体的属性。质性属性的例子包括“是立方体”与“在一块锡旁边”；非质性属性的例子包括“是奥巴马”与“在克林顿旁边”。由作为复制保持之刻画的 (13) 可信地可得：任何可能被实例化的非质性属性都不是复制保持属性。
     step2: |-
-      一个更一般的推论可以借助质性属性与非质性属性之分来陈述：质性属性（qualitative property）直观上是不关乎任何特定实体的属性，而非质性属性是关乎一个或多个特定实体的属性。质性属性的例子包括"是立方体"与"在一块锡旁边"；非质性属性的例子包括"是奥巴马"与"在克林顿旁边"。由作为复制保持之刻画的 (13) 可信地可得：任何可能被实例化的非质性属性都不是复制保持属性。
+      一个更一般的推论可以借助质性属性与非质性属性之分来陈述：质性属性（qualitative property）直观上是不关乎任何特定实体的属性，而非质性属性是关乎一个或多个特定实体的属性。质性属性的例子包括“是立方体”与“在一块锡旁边”；非质性属性的例子包括“是奥巴马”与“在克林顿旁边”。由作为复制保持之刻画的 (13) 可信地可得：任何可能被实例化的非质性属性都不是复制保持属性。
   - id: 101
     kind: body
     source: |-
       Say that a property is indiscriminately necessary iff it is necessarily had by everything. The second consequence of (13), understood as a characterisation of duplication preservation, is that any two properties that are indiscriminately necessary are duplication preserving. Consider, for example, the indiscriminately necessary property of being such that there is a number (where we are assuming that numbers necessarily exist). Since all things at all possible worlds have this property, it is a duplication preserving property.
     step1: |-
-      我们说一个属性是无差别必然的，当且仅当它必然地被一切东西所具有。作为对复制保持之刻画的 (13) 的第二个推论是：任何两个无差别必然的属性都是复制保持的。例如考虑无差别必然属性"有数存在"（我们假定数必然存在）。既然所有可能世界中的所有东西都具有这一属性，它就是复制保持属性。
+      我们说一个属性是无差别必然的，当且仅当它必然地被一切东西所具有。作为对复制保持之刻画的 (13) 的第二个推论是：任何两个无差别必然的属性都是复制保持的。例如考虑无差别必然属性“有数存在”（我们假定数必然存在）。既然所有可能世界中的所有东西都具有这一属性，它就是复制保持属性。
     step2: |-
-      我们说一个属性是无差别必然的（indiscriminately necessary），当且仅当它必然地被一切东西所具有。作为对复制保持之刻画的 (13) 的第二个推论是：任何两个无差别必然的属性都是复制保持的。例如考虑无差别必然属性"有数存在"（我们假定数必然存在）。既然所有可能世界中的所有东西都具有这一属性，它就是复制保持属性。
+      我们说一个属性是无差别必然的（indiscriminately necessary），当且仅当它必然地被一切东西所具有。作为对复制保持之刻画的 (13) 的第二个推论是：任何两个无差别必然的属性都是复制保持的。例如考虑无差别必然属性“有数存在”（我们假定数必然存在）。既然所有可能世界中的所有东西都具有这一属性，它就是复制保持属性。
   - id: 102
     kind: body
     source: |-
       Since being such that there is a number is neither a local property or an identity interior property, but is a duplication preserving property (given numbers necessarily exist), the duplication preserving properties do not coincide with either the local properties or the identity interior properties. Since being Obama is a metaphysical necessitation interior property, but is not a duplication preserving property, the duplication preserving properties don’t coincide with the metaphysical necessitation interior properties either. (Moore (1922) and Dunn (1990), in effect, both distinguish duplication preservation from interiority on these grounds.) Hence, we have at least four distinct kinds of properties that are characterised by Lewis’s three characterisations: local properties, identity interior properties, metaphysical necessitation interior properties, and duplication preserving properties.
     step1: |-
-      既然"有数存在"既不是局部属性也不是同一内部属性，却是复制保持属性（在数必然存在的条件下），复制保持属性就既不与局部属性重合，也不与同一内部属性重合。既然"是奥巴马"是形而上学必然化内部属性，却不是复制保持属性，复制保持属性也不与形而上学必然化内部属性重合。（Moore 1922 与 Dunn 1990 实际上都正是以这些根据区分了复制保持与内部性。）于是，我们至少有四种由刘易斯三条刻画所刻画的彼此不同的属性：局部属性、同一内部属性、形而上学必然化内部属性与复制保持属性。
+      既然“有数存在”既不是局部属性也不是同一内部属性，却是复制保持属性（在数必然存在的条件下），复制保持属性就既不与局部属性重合，也不与同一内部属性重合。既然“是奥巴马”是形而上学必然化内部属性，却不是复制保持属性，复制保持属性也不与形而上学必然化内部属性重合。（Moore 1922 与 Dunn 1990 实际上都正是以这些根据区分了复制保持与内部性。）于是，我们至少有四种由刘易斯三条刻画所刻画的彼此不同的属性：局部属性、同一内部属性、形而上学必然化内部属性与复制保持属性。
     step2: |-
-      既然"有数存在"既不是局部属性也不是同一内部属性，却是复制保持属性（在数必然存在的条件下），复制保持属性就既不与局部属性重合，也不与同一内部属性重合。既然"是奥巴马"是形而上学必然化内部属性，却不是复制保持属性，复制保持属性也不与形而上学必然化内部属性重合。（Moore 1922 与 Dunn 1990 实际上都正是以这些根据区分了复制保持与内部性。）于是，我们至少有四种由刘易斯三条刻画所刻画的彼此不同的属性：局部属性、同一内部属性、形而上学必然化内部属性与复制保持属性。
+      既然“有数存在”既不是局部属性也不是同一内部属性，却是复制保持属性（在数必然存在的条件下），复制保持属性就既不与局部属性重合，也不与同一内部属性重合。既然“是奥巴马”是形而上学必然化内部属性，却不是复制保持属性，复制保持属性也不与形而上学必然化内部属性重合。（Moore 1922 与 Dunn 1990 实际上都正是以这些根据区分了复制保持与内部性。）于是，我们至少有四种由刘易斯三条刻画所刻画的彼此不同的属性：局部属性、同一内部属性、形而上学必然化内部属性与复制保持属性。
   - id: 103
     kind: body
     source: |-
       If Lewis’s three characterisations concerning intrinsicality characterise different notions, the three characterisations described in section 1.2 concerning having a property in an intrinsic fashion also characterise different notions. In order to distinguish these notions, we may employ these characterisations to define having a property in a duplication preserving fashion, having a property in an interior fashion (relative to different entailment relations), and having a property in a local fashion.
     step1: |-
-      如果刘易斯关于内在性的三条刻画刻画了不同的概念，那么第 1.2 节所述关于"以内在方式具有属性"的三条刻画也刻画了不同的概念。为了区分这些概念，我们可以用这些刻画来定义：以复制保持方式具有属性、以内部方式具有属性（相对于不同的蕴含关系）与以局部方式具有属性。
+      如果刘易斯关于内在性的三条刻画刻画了不同的概念，那么第 1.2 节所述关于“以内在方式具有属性”的三条刻画也刻画了不同的概念。为了区分这些概念，我们可以用这些刻画来定义：以复制保持方式具有属性、以内部方式具有属性（相对于不同的蕴含关系）与以局部方式具有属性。
     step2: |-
-      如果刘易斯关于内在性的三条刻画刻画了不同的概念，那么第 1.2 节所述关于"以内在方式具有属性"的三条刻画也刻画了不同的概念。为了区分这些概念，我们可以用这些刻画来定义：以复制保持方式具有属性、以内部方式具有属性（相对于不同的蕴含关系）与以局部方式具有属性。
+      如果刘易斯关于内在性的三条刻画刻画了不同的概念，那么第 1.2 节所述关于“以内在方式具有属性”的三条刻画也刻画了不同的概念。为了区分这些概念，我们可以用这些刻画来定义：以复制保持方式具有属性、以内部方式具有属性（相对于不同的蕴含关系）与以局部方式具有属性。
   - id: 104
     kind: body
     source: |-
@@ -862,49 +862,49 @@ segments:
     source: |-
       In the last three subsections, we distinguished a number of distinct notions that are characterised by Lewis’s three characterisation: locality, duplication preservation, and several different kinds of interiority. We now need to address the question of whether there is a single notion of intrinsicality, and, if there is, which of these notions is it? More precisely, we need to determine whether there is a single notion that philosophers typically use ‘intrinsic’ to express, and, if so, which notion is it.
     step1: |-
-      在过去三个小节中，我们区分了刘易斯三条刻画所刻画的若干不同概念：局部性、复制保持，以及若干不同种类的内部性。我们现在需要处理这样的问题：是否存在单一的内在性概念？如果存在，它是这些概念中的哪一个？更精确地说，我们需要确定：哲学家通常用"内在的"来表达的是否是单一的概念；如果是，是哪一个。
+      在过去三个小节中，我们区分了刘易斯三条刻画所刻画的若干不同概念：局部性、复制保持，以及若干不同种类的内部性。我们现在需要处理这样的问题：是否存在单一的内在性概念？如果存在，它是这些概念中的哪一个？更精确地说，我们需要确定：哲学家通常用“内在的”来表达的是否是单一的概念；如果是，是哪一个。
     step2: |-
-      在前三个小节中，我们区分了刘易斯三条刻画所刻画的若干不同概念：局部性（locality）、复制保持，以及若干不同种类的内部性。我们现在需要处理这样的问题：是否存在单一的内在性概念？如果存在，它是这些概念中的哪一个？更精确地说，我们需要确定：哲学家通常用"内在的"来表达的是否是单一的概念；如果是，是哪一个。
+      在前三个小节中，我们区分了刘易斯三条刻画所刻画的若干不同概念：局部性（locality）、复制保持，以及若干不同种类的内部性。我们现在需要处理这样的问题：是否存在单一的内在性概念？如果存在，它是这些概念中的哪一个？更精确地说，我们需要确定：哲学家通常用“内在的”来表达的是否是单一的概念；如果是，是哪一个。
   - id: 106
     kind: body
     source: |-
       One might attempt to answer this question by first noting that it is much more common for philosophers to use Lewis’s second “in virtue” characterisation (or some variant of it), than either of the other two characterisations when explaining what they mean by ‘intrinsic’. (For example, as far as we know, Lewis uses the “in virtue” characterisation whenever he explains what he means by ‘intrinsic’, but only uses the other characterisations once.) This suggests that philosophers typically use ‘intrinsic’ to express a notion of interiority rather than either of the notions of locality or duplication preservation.
     step1: |-
-      有人或许会这样回答这个问题：首先注意到，在解释"内在的"之意谓时，哲学家使用刘易斯第二条"凭借"刻画（或其某种变体）的频率，远高于另外两条刻画。（例如，据我们所知，刘易斯每次解释"内在的"之意谓时都使用"凭借"刻画，而另外两条刻画各只用过一次。）这提示：哲学家通常用"内在的"来表达一个内部性概念，而非局部性或复制保持概念。
+      有人或许会这样回答这个问题：首先注意到，在解释“内在的”之意谓时，哲学家使用刘易斯第二条“凭借”刻画（或其某种变体）的频率，远高于另外两条刻画。（例如，据我们所知，刘易斯每次解释“内在的”之意谓时都使用“凭借”刻画，而另外两条刻画各只用过一次。）这提示：哲学家通常用“内在的”来表达一个内部性概念，而非局部性或复制保持概念。
     step2: |-
-      有人或许会这样回答这个问题：首先注意到，在解释"内在的"之意谓时，哲学家使用刘易斯第二条"凭借"刻画（或其某种变体）的频率，远高于另外两条刻画。（例如，据我们所知，刘易斯每次解释"内在的"之意谓时都使用"凭借"刻画，而另外两条刻画各只用过一次。）这提示：哲学家通常用"内在的"来表达一个内部性概念，而非局部性或复制保持概念。
+      有人或许会这样回答这个问题：首先注意到，在解释“内在的”之意谓时，哲学家使用刘易斯第二条“凭借”刻画（或其某种变体）的频率，远高于另外两条刻画。（例如，据我们所知，刘易斯每次解释“内在的”之意谓时都使用“凭借”刻画，而另外两条刻画各只用过一次。）这提示：哲学家通常用“内在的”来表达一个内部性概念，而非局部性或复制保持概念。
   - id: 107
     kind: body
     source: |-
       Given philosophers typically use ‘intrinsic’ to express some notion of interiority, there are several reasons to think that the notion of interiority they typically express is that of identity interiority. First, identity interiority is more fundamental, or simpler, than the other notions of interiority, and philosophers are often interested in employing more fundamental notions than less fundamental notions. Second, the intrinsic properties of a thing should be the properties that thing has “in itself”, rather than merely the properties that are metaphysically necessitated, or nomically necessitated, or metaphysically explained, by the properties the thing has “in itself”. But this suggests that the intrinsic properties should be the identity interior properties, rather than the metaphysical necessitation interior properties, or the nomic necessitation interior properties, or the weak grounding interior properties. Finally, while the identity interiority of necessarily coextensive properties can intuitively differ, this is not true for at least some of the other notions of interiority, such as metaphysical necessitation interiority and nomic necessitation interiority. (Properties $p$ and $q$ are necessarily coextensive iff, necessarily, for any $x$, $x$ has $p$ iff $x$ has $q$.) Since it is a widespread intuition that necessarily coextensive properties can differ in whether they are intrinsic, this suggests these other notions of interiority aren’t what philosophers typically express by ‘intrinsic’. (This last reason also provides a further reason to think that duplication preservation isn’t the notion of intrinsicality philosophers typically employ, since it also does not differ among necessarily equivalent properties.)
     step1: |-
-      既然哲学家通常用"内在的"表达某种内部性概念，有若干理由认为他们通常表达的正是同一内部性。第一，同一内部性比其他内部性概念更基本（或更简单），而哲学家通常更关心运用更基本的概念而非较不基本的概念。第二，一个事物的内在属性应当是该事物"就其自身"而具有的属性，而不只是由该事物"就其自身"而具有的属性所形而上学必然化、律则必然化或形而上学地解释出来的属性。但这提示：内在属性应当是同一内部属性，而非形而上学必然化内部属性、律则必然化内部属性或弱奠基内部属性。最后，虽然必然共延属性的同一内部性可以直观地有所不同，这对至少某些其他内部性概念并不成立，例如形而上学必然化内部性与律则必然化内部性。（属性 $p$ 与 $q$ 必然共延，当且仅当必然地，对任意 $x$，$x$ 具有 $p$ 当且仅当 $x$ 具有 $q$。）既然"必然共延属性可以在是否内在上有所不同"是一个广泛持有的直觉，这就提示：这些其他内部性概念并不是哲学家通常用"内在的"所表达的东西。（最后这条理由也提供了进一步的根据，认为复制保持不是哲学家通常运用的内在性概念，因为复制保持在必然等价的属性之间也不有所不同。）
+      既然哲学家通常用“内在的”表达某种内部性概念，有若干理由认为他们通常表达的正是同一内部性。第一，同一内部性比其他内部性概念更基本（或更简单），而哲学家通常更关心运用更基本的概念而非较不基本的概念。第二，一个事物的内在属性应当是该事物“就其自身”而具有的属性，而不只是由该事物“就其自身”而具有的属性所形而上学必然化、律则必然化或形而上学地解释出来的属性。但这提示：内在属性应当是同一内部属性，而非形而上学必然化内部属性、律则必然化内部属性或弱奠基内部属性。最后，虽然必然共延属性的同一内部性可以直观地有所不同，这对至少某些其他内部性概念并不成立，例如形而上学必然化内部性与律则必然化内部性。（属性 $p$ 与 $q$ 必然共延，当且仅当必然地，对任意 $x$，$x$ 具有 $p$ 当且仅当 $x$ 具有 $q$。）既然“必然共延属性可以在是否内在上有所不同”是一个广泛持有的直觉，这就提示：这些其他内部性概念并不是哲学家通常用“内在的”所表达的东西。（最后这条理由也提供了进一步的根据，认为复制保持不是哲学家通常运用的内在性概念，因为复制保持在必然等价的属性之间也不有所不同。）
     step2: |-
-      既然哲学家通常用"内在的"表达某种内部性概念，有若干理由认为他们通常表达的正是同一内部性。第一，同一内部性比其他内部性概念更基本（或更简单），而哲学家通常更关心运用更基本的概念而非较不基本的概念。第二，一个事物的内在属性应当是该事物"就其自身"（in itself）而具有的属性，而不只是由该事物"就其自身"而具有的属性所形而上学必然化、律则必然化或形而上学地解释出来的属性。但这提示：内在属性应当是同一内部属性，而非形而上学必然化内部属性、律则必然化内部属性或弱奠基内部属性。最后，虽然必然共延（necessarily coextensive）属性的同一内部性可以直观地有所不同，这对至少某些其他内部性概念并不成立，例如形而上学必然化内部性与律则必然化内部性。（属性 $p$ 与 $q$ 必然共延，当且仅当必然地，对任意 $x$，$x$ 具有 $p$ 当且仅当 $x$ 具有 $q$。）既然"必然共延属性可以在是否内在上有所不同"是一个广泛持有的直觉，这就提示：这些其他内部性概念并不是哲学家通常用"内在的"所表达的东西。（最后这条理由也提供了进一步的根据，认为复制保持不是哲学家通常运用的内在性概念，因为复制保持在必然等价的属性之间也不有所不同。）
+      既然哲学家通常用“内在的”表达某种内部性概念，有若干理由认为他们通常表达的正是同一内部性。第一，同一内部性比其他内部性概念更基本（或更简单），而哲学家通常更关心运用更基本的概念而非较不基本的概念。第二，一个事物的内在属性应当是该事物“就其自身”（in itself）而具有的属性，而不只是由该事物“就其自身”而具有的属性所形而上学必然化、律则必然化或形而上学地解释出来的属性。但这提示：内在属性应当是同一内部属性，而非形而上学必然化内部属性、律则必然化内部属性或弱奠基内部属性。最后，虽然必然共延（necessarily coextensive）属性的同一内部性可以直观地有所不同，这对至少某些其他内部性概念并不成立，例如形而上学必然化内部性与律则必然化内部性。（属性 $p$ 与 $q$ 必然共延，当且仅当必然地，对任意 $x$，$x$ 具有 $p$ 当且仅当 $x$ 具有 $q$。）既然“必然共延属性可以在是否内在上有所不同”是一个广泛持有的直觉，这就提示：这些其他内部性概念并不是哲学家通常用“内在的”所表达的东西。（最后这条理由也提供了进一步的根据，认为复制保持不是哲学家通常运用的内在性概念，因为复制保持在必然等价的属性之间也不有所不同。）
   - id: 108
     kind: body
     source: |-
       There are therefore reasons to think that the notion philosophers typically use ‘intrinsic’ to express is identity interiority. These reasons, however, are not decisive. First, philosophers often take intrinsic properties to be qualitative, and use ‘intrinsic’ to distinguish only among qualitative properties. (See Sider 1996.) Since each local property and each duplication preserving property is qualitative, but this is not true for interior properties, this possibly suggests that at least some philosophers at least some of the time use ‘intrinsic’ to express either locality or duplication preservation. Secondly, while identity interiority can do much of the theoretical work intrinsicality is meant to do, it arguably cannot do all of it, with some of this work being better done by some of the other notions of intrinsicality described above. For example, Sider (1996) has argued that duplication preservation is better able to be used to define individualism about mental states than identity interiority. Finally, the failure of many philosophers to clearly distinguish which notion of intrinsicality they are employing provides at least some reason to suspect that those philosophers have often used ‘intrinsic’ indeterminately to express a multiplicity of notions of intrinsicality.
     step1: |-
-      因此，有理由认为哲学家通常用"内在的"所表达的概念就是同一内部性。然而这些理由并非决定性的。第一，哲学家常常把内在属性当作质性属性，并用"内在的"只在质性属性之间作区分。（见 Sider 1996。）既然每个局部属性和每个复制保持属性都是质性的，而内部属性并非如此，这或许提示：至少有些哲学家至少有时用"内在的"表达局部性或复制保持。第二，虽然同一内部性能够完成内在性所要完成的大部分理论工作，但可以说它无法完成全部工作，其中一些工作由上文所述的其他内在性概念来完成会更好。例如，Sider 1996 论证说，就定义关于心灵状态的个体主义而言，复制保持比同一内部性更好用。最后，许多哲学家未能清楚区分他们所运用的是哪一个内在性概念，这至少提供了某些理由怀疑：这些哲学家常常不加确定地用"内在的"来表达多种内在性概念。
+      因此，有理由认为哲学家通常用“内在的”所表达的概念就是同一内部性。然而这些理由并非决定性的。第一，哲学家常常把内在属性当作质性属性，并用“内在的”只在质性属性之间作区分。（见 Sider 1996。）既然每个局部属性和每个复制保持属性都是质性的，而内部属性并非如此，这或许提示：至少有些哲学家至少有时用“内在的”表达局部性或复制保持。第二，虽然同一内部性能够完成内在性所要完成的大部分理论工作，但可以说它无法完成全部工作，其中一些工作由上文所述的其他内在性概念来完成会更好。例如，Sider 1996 论证说，就定义关于心灵状态的个体主义而言，复制保持比同一内部性更好用。最后，许多哲学家未能清楚区分他们所运用的是哪一个内在性概念，这至少提供了某些理由怀疑：这些哲学家常常不加确定地用“内在的”来表达多种内在性概念。
     step2: |-
-      因此，有理由认为哲学家通常用"内在的"所表达的概念就是同一内部性。然而这些理由并非决定性的。第一，哲学家常常把内在属性当作质性属性，并用"内在的"只在质性属性之间作区分。（见 Sider 1996。）既然每个局部属性和每个复制保持属性都是质性的，而内部属性并非如此，这或许提示：至少有些哲学家至少有时用"内在的"表达局部性或复制保持。第二，虽然同一内部性能够完成内在性所要完成的大部分理论工作，但可以说它无法完成全部工作，其中一些工作由上文所述的其他内在性概念来完成会更好。例如，Sider 1996 论证说，就定义关于心灵状态的个体主义而言，复制保持比同一内部性更好用。最后，许多哲学家未能清楚区分他们所运用的是哪一个内在性概念，这至少提供了某些理由怀疑：这些哲学家常常不加确定地用"内在的"来表达多种内在性概念。
+      因此，有理由认为哲学家通常用“内在的”所表达的概念就是同一内部性。然而这些理由并非决定性的。第一，哲学家常常把内在属性当作质性属性，并用“内在的”只在质性属性之间作区分。（见 Sider 1996。）既然每个局部属性和每个复制保持属性都是质性的，而内部属性并非如此，这或许提示：至少有些哲学家至少有时用“内在的”表达局部性或复制保持。第二，虽然同一内部性能够完成内在性所要完成的大部分理论工作，但可以说它无法完成全部工作，其中一些工作由上文所述的其他内在性概念来完成会更好。例如，Sider 1996 论证说，就定义关于心灵状态的个体主义而言，复制保持比同一内部性更好用。最后，许多哲学家未能清楚区分他们所运用的是哪一个内在性概念，这至少提供了某些理由怀疑：这些哲学家常常不加确定地用“内在的”来表达多种内在性概念。
   - id: 109
     kind: body
     source: |-
       An alternative view has been put forward by Plate 2018, who has argued that there is a single notion of intrinsicality and that none of the notions discussed above correspond to it. Plate points out that, on each of the alleged notions of intrinsicality discussed above, either the property of having Paris as a part is classified as non-intrinsic or the uninstantiable property of being such that Socrates is non-self-identical is classified as intrinsic. Plate then argues that, since having Paris as a part is intrinsic while being such that Socrates is non-self-identical is non-intrinsic, it follows that none of the above notions is intrinsicality. A response to Plate’s argument is given by Marshall 2021, who argues that there is no notion of intrinsicality on which these properties are respectively intrinsic and non-intrinsic. Instead, according to this response, there are only notions of intrinsicality on which either both are intrinsic or both are non-intrinsic.
     step1: |-
-      另一种观点由 Plate 2018 提出：存在单一的内在性概念，而上文讨论的所有概念都不对应于它。Plate 指出：在上文所讨论的每一个所谓内在性概念上，要么"以巴黎为部分"这一属性被归为非内在的，要么"苏格拉底非自等同"这一不可实例化属性被归为内在的。Plate 进而论证：既然"以巴黎为部分"是内在的，而"苏格拉底非自等同"是非内在的，那么上述概念都不是内在性。Marshall 2021 对 Plate 的论证给出了回应：不存在这样一个内在性概念，使这两个属性分别为内在的与非内在的；按照这一回应，只有"两者皆为内在"或"两者皆为非内在"的内在性概念。
+      另一种观点由 Plate 2018 提出：存在单一的内在性概念，而上文讨论的所有概念都不对应于它。Plate 指出：在上文所讨论的每一个所谓内在性概念上，要么“以巴黎为部分”这一属性被归为非内在的，要么“苏格拉底非自等同”这一不可实例化属性被归为内在的。Plate 进而论证：既然“以巴黎为部分”是内在的，而“苏格拉底非自等同”是非内在的，那么上述概念都不是内在性。Marshall 2021 对 Plate 的论证给出了回应：不存在这样一个内在性概念，使这两个属性分别为内在的与非内在的；按照这一回应，只有“两者皆为内在”或“两者皆为非内在”的内在性概念。
     step2: |-
-      另一种观点由 Plate 2018 提出：存在单一的内在性概念，而上文讨论的所有概念都不对应于它。Plate 指出：在上文所讨论的每一个所谓内在性概念上，要么"以巴黎为部分"这一属性被归为非内在的，要么"苏格拉底非自等同"这一不可实例化属性被归为内在的。Plate 进而论证：既然"以巴黎为部分"是内在的，而"苏格拉底非自等同"是非内在的，那么上述概念都不是内在性。Marshall 2021 对 Plate 的论证给出了回应：不存在这样一个内在性概念，使这两个属性分别为内在的与非内在的；按照这一回应，只有"两者皆为内在"或"两者皆为非内在"的内在性概念。
+      另一种观点由 Plate 2018 提出：存在单一的内在性概念，而上文讨论的所有概念都不对应于它。Plate 指出：在上文所讨论的每一个所谓内在性概念上，要么“以巴黎为部分”这一属性被归为非内在的，要么“苏格拉底非自等同”这一不可实例化属性被归为内在的。Plate 进而论证：既然“以巴黎为部分”是内在的，而“苏格拉底非自等同”是非内在的，那么上述概念都不是内在性。Marshall 2021 对 Plate 的论证给出了回应：不存在这样一个内在性概念，使这两个属性分别为内在的与非内在的；按照这一回应，只有“两者皆为内在”或“两者皆为非内在”的内在性概念。
   - id: 110
     kind: body
     source: |-
       In the next section, we will consider a number of attempts to analyse ‘intrinsic’. Unless otherwise made clear, we will use ‘intrinsic’ to express identity interiority, and we will assume that identity interiority is the most dominant notion of intrinsicality employed by philosophers. As we will see, however, a number of these attempts are most charitably seen as attempts to analyse notions of intrinsicality other than identity interiority.
     step1: |-
-      在下一节中，我们将考察分析"内在的"的若干尝试。除非另有说明，我们将用"内在的"表达同一内部性，并假定同一内部性是哲学家所运用的最占主导地位的内在性概念。不过我们将看到，其中许多尝试最宽厚的解读，是对不同于同一内部性的内在性概念的分析尝试。
+      在下一节中，我们将考察分析“内在的”的若干尝试。除非另有说明，我们将用“内在的”表达同一内部性，并假定同一内部性是哲学家所运用的最占主导地位的内在性概念。不过我们将看到，其中许多尝试最宽厚的解读，是对不同于同一内部性的内在性概念的分析尝试。
     step2: |-
-      在下一节中，我们将考察分析"内在的"的若干尝试。除非另有说明，我们将用"内在的"表达同一内部性，并假定同一内部性是哲学家所运用的最占主导地位的内在性概念。不过我们将看到，其中许多尝试在其最宽厚的解读下，是对不同于同一内部性的内在性概念的分析尝试。
+      在下一节中，我们将考察分析“内在的”的若干尝试。除非另有说明，我们将用“内在的”表达同一内部性，并假定同一内部性是哲学家所运用的最占主导地位的内在性概念。不过我们将看到，其中许多尝试在其最宽厚的解读下，是对不同于同一内部性的内在性概念的分析尝试。
   - id: 111
     kind: body
     source: |-
@@ -918,25 +918,25 @@ segments:
     source: |-
       One reason to attempt an analysis of intrinsicality is that the orientating characterisations of intrinsicality discussed in section 1 and sections 2.2 – 2.4 are all to some degree circular. (Cf Lewis 1983a and Yablo 1999.)[^lewis-1983a][^yablo-1999] For example, a property $p$ whose ascription to a thing $x$ is about $x$ is intrinsic only if it is about how $x$ is *intrinsically*; $p$ is not intrinsic if the ascription of $p$ to $x$ is about how $x$ is *extrinsically*. Similarly, a property $p$ that is had by $x$ in virtue of how $x$ is is intrinsic only if $x$ has $p$ in virtue of how $x$ is *intrinsically*; $p$ need not be *intrinsic* if $x$ has $p$ in virtue of how $x$ is *extrinsically*.
     step1: |-
-      尝试分析内在性的一个理由是：第 1 节与第 2.2–2.4 节所讨论的内在性引导性刻画都在某种程度上是循环的。（参见 Lewis 1983a 与 Yablo 1999。）[^lewis-1983a][^yablo-1999] 例如，一个属性 $p$，其归予某物 $x$ 是关于 $x$ 的，仅当它是关于 $x$ 如何**内在地**之所是，才是内在的；如果 $p$ 对 $x$ 的归予是关于 $x$ 如何**外在地**之所是，$p$ 就不是内在的。类似地，一个由 $x$ 凭 $x$ 之所是而具有的属性 $p$，仅当 $x$ 凭 $x$ 如何**内在地**之所是而具有 $p$，才是内在的；如果 $x$ 凭 $x$ 如何**外在地**之所是而具有 $p$，$p$ 不必是**内在的**。
+      尝试分析内在性的一个理由是：第 1 节与第 2.2–2.4 节所讨论的内在性引导性刻画都在某种程度上是循环的。（参见 Lewis 1983a 与 Yablo 1999。）[^lewis-1983a][^yablo-1999] 例如，一个属性 $p$，其归予某物 $x$ 是关于 $x$ 的，仅当它是关于 $x$ 如何 **内在地** 之所是，才是内在的；如果 $p$ 对 $x$ 的归予是关于 $x$ 如何 **外在地** 之所是，$p$ 就不是内在的。类似地，一个由 $x$ 凭 $x$ 之所是而具有的属性 $p$，仅当 $x$ 凭 $x$ 如何 **内在地** 之所是而具有 $p$，才是内在的；如果 $x$ 凭 $x$ 如何 **外在地** 之所是而具有 $p$，$p$ 不必是 **内在的**。
     step2: |-
-      尝试分析内在性的一个理由是：第 1 节与第 2.2–2.4 节所讨论的内在性引导性刻画都在某种程度上是循环的。（参见 Lewis 1983a 与 Yablo 1999。）[^lewis-1983a][^yablo-1999] 例如，一个属性 $p$，其归予某物 $x$ 是关于 $x$ 的，仅当它是关于 $x$ 如何**内在地**之所是，才是内在的；如果 $p$ 对 $x$ 的归予是关于 $x$ 如何**外在地**之所是，$p$ 就不是内在的。类似地，一个由 $x$ 凭 $x$ 之所是而具有的属性 $p$，仅当 $x$ 凭 $x$ 如何**内在地**之所是而具有 $p$，才是内在的；如果 $x$ 凭 $x$ 如何**外在地**之所是而具有 $p$，$p$ 不必是**内在的**。
+      尝试分析内在性的一个理由是：第 1 节与第 2.2–2.4 节所讨论的内在性引导性刻画都在某种程度上是循环的。（参见 Lewis 1983a 与 Yablo 1999。）[^lewis-1983a][^yablo-1999] 例如，一个属性 $p$，其归予某物 $x$ 是关于 $x$ 的，仅当它是关于 $x$ 如何 **内在地** 之所是，才是内在的；如果 $p$ 对 $x$ 的归予是关于 $x$ 如何 **外在地** 之所是，$p$ 就不是内在的。类似地，一个由 $x$ 凭 $x$ 之所是而具有的属性 $p$，仅当 $x$ 凭 $x$ 如何 **内在地** 之所是而具有 $p$，才是内在的；如果 $x$ 凭 $x$ 如何 **外在地** 之所是而具有 $p$，$p$ 不必是 **内在的**。
   - id: 113
     kind: body
     source: |-
       Some of the following attempts to analyse intrinsicality are best seen as attempts to analyse the distinction between duplication preserving properties and properties that aren’t duplication preserving, while other attempts are best seen as attempts to analyse the distinction between interior and exterior properties, or between local and non-local properties. For a discussion of whether we can give, or need to give, a reductive analysis of intrinsicality, see Skiles 2014 and Hoffman-Kolss 2018.)
     step1: |-
-      下面的内在性分析尝试中，有一些最好被看作分析"复制保持属性与非复制保持属性之区分"的尝试；另一些最好被看作分析"内部属性与外部属性之区分"或"局部属性与非局部属性之区分"的尝试。关于我们能否给出、或是否需要给出内在性的还原性分析，见 Skiles 2014 与 Hoffman-Kolss 2018。
+      下面的内在性分析尝试中，有一些最好被看作分析“复制保持属性与非复制保持属性之区分”的尝试；另一些最好被看作分析“内部属性与外部属性之区分”或“局部属性与非局部属性之区分”的尝试。关于我们能否给出、或是否需要给出内在性的还原性分析，见 Skiles 2014 与 Hoffman-Kolss 2018。
     step2: |-
-      下面的内在性分析尝试中，有一些最好被看作分析"复制保持属性与非复制保持属性之区分"的尝试；另一些最好被看作分析"内部属性与外部属性之区分"或"局部属性与非局部属性之区分"的尝试。关于我们能否给出、或是否需要给出内在性的还原性分析（reductive analysis），见 Skiles 2014 与 Hoffman-Kolss 2018。
+      下面的内在性分析尝试中，有一些最好被看作分析“复制保持属性与非复制保持属性之区分”的尝试；另一些最好被看作分析“内部属性与外部属性之区分”或“局部属性与非局部属性之区分”的尝试。关于我们能否给出、或是否需要给出内在性的还原性分析（reductive analysis），见 Skiles 2014 与 Hoffman-Kolss 2018。
   - id: 114
     kind: body
     source: |-
       In addition to the metaphysical project of determining what it is for a property to be intrinsic, there is an epistemological project of determining how we can come to know with respect to particular properties whether they are intrinsic, and whether such knowledge is possible. To some extent, the metaphysical project of determining what it is to be intrinsic can help with this epistemological project. For example, if it can be shown that being intrinsic can be analysed as the possession of such and such features, and we have knowledge of which properties have such and such features, then we can use this analysis to explain how we can know of particular properties that they are intrinsic. In addition to employing such analyses of intrinsicality, however, we might hope to develop and describe further methods for obtaining justified beliefs regarding what properties are intrinsic. For further discussion that bears on this issue, see McQueen and van Woudenberg 2016.
     step1: |-
-      除了确定属性之为内在究竟是什么这一形而上学计划之外，还有一个认识论计划：确定对于特定属性我们如何能知道它们是否是内在的，以及这种知识是否可能。在某种程度上，确定内在之所是的形而上学计划可以帮助这一认识论计划。例如，如果能证明"是内在的"可以分析为具有某某特征，并且我们知道哪些属性具有某某特征，那么我们可以用这一分析来解释我们如何能知道特定属性是内在的。不过，除了运用这类内在性分析之外，我们或许还希望发展并描述进一步的方法，以获得关于哪些属性是内在的证成信念。与这一问题相关的进一步讨论，见 McQueen 与 van Woudenberg 2016。
+      除了确定属性之为内在究竟是什么这一形而上学计划之外，还有一个认识论计划：确定对于特定属性我们如何能知道它们是否是内在的，以及这种知识是否可能。在某种程度上，确定内在之所是的形而上学计划可以帮助这一认识论计划。例如，如果能证明“是内在的”可以分析为具有某某特征，并且我们知道哪些属性具有某某特征，那么我们可以用这一分析来解释我们如何能知道特定属性是内在的。不过，除了运用这类内在性分析之外，我们或许还希望发展并描述进一步的方法，以获得关于哪些属性是内在的证成信念。与这一问题相关的进一步讨论，见 McQueen 与 van Woudenberg 2016。
     step2: |-
-      除了确定属性之为内在究竟是什么这一形而上学计划之外，还有一个认识论计划：确定对于特定属性我们如何能知道它们是否是内在的，以及这种知识是否可能。在某种程度上，确定内在之所是的形而上学计划可以帮助这一认识论计划。例如，如果能证明"是内在的"可以分析为具有某某特征，并且我们知道哪些属性具有某某特征，那么我们可以用这一分析来解释我们如何能知道特定属性是内在的。不过，除了运用这类内在性分析之外，我们或许还希望发展并描述进一步的方法，以获得关于哪些属性是内在的证成信念。与这一问题相关的进一步讨论，见 McQueen 与 van Woudenberg 2016。
+      除了确定属性之为内在究竟是什么这一形而上学计划之外，还有一个认识论计划：确定对于特定属性我们如何能知道它们是否是内在的，以及这种知识是否可能。在某种程度上，确定内在之所是的形而上学计划可以帮助这一认识论计划。例如，如果能证明“是内在的”可以分析为具有某某特征，并且我们知道哪些属性具有某某特征，那么我们可以用这一分析来解释我们如何能知道特定属性是内在的。不过，除了运用这类内在性分析之外，我们或许还希望发展并描述进一步的方法，以获得关于哪些属性是内在的证成信念。与这一问题相关的进一步讨论，见 McQueen 与 van Woudenberg 2016。
   - id: 115
     kind: body
     source: |-
@@ -950,33 +950,33 @@ segments:
     source: |-
       It would be good if we could analyse intrinsicality using only broadly logical notions, where broadly logical notions are exhausted by the narrowly logical notions of conjunction, negation and existential quantification, the modal notion of metaphysical possibility, the mereological notion of parthood, and the basic notions associated with property theory and set theory, such as the notions expressed by ‘state of affairs’, ‘property’, ‘relation’, ‘possible world’, ‘instantiates’, ‘is a member of’ and ‘set’. (The locution ‘state of affairs’ is used differently by different philosophers. Here it is being used to refer to the zero-place analogues of one-place properties and multiple place relations. Just as a property is a way of a thing is or fails to be, a state of affairs, under our usage, is a way things are or fail to be.)
     step1: |-
-      如果我们能够只用广义逻辑概念来分析内在性，那将是一件好事。所谓广义逻辑概念，由以下概念穷尽：合取、否定与存在量化的狭义逻辑概念；形而上学可能性的模态概念；分体论的部分关系概念；以及与属性理论和集合论相关的基本概念，例如由"事态""属性""关系""可能世界""实例化""是……的元素"与"集合"所表达的概念。（"事态"这一说法被不同哲学家以不同方式使用。在这里，它被用来指一元属性与多元关系的零元类似物。正如属性是某物之所是或不之所是的一种方式，在我们的用法下，事态是事物之所是或不之所是的一种方式。）
+      如果我们能够只用广义逻辑概念来分析内在性，那将是一件好事。所谓广义逻辑概念，由以下概念穷尽：合取、否定与存在量化的狭义逻辑概念；形而上学可能性的模态概念；分体论的部分关系概念；以及与属性理论和集合论相关的基本概念，例如由“事态”“属性”“关系”“可能世界”“实例化”“是……的元素”与“集合”所表达的概念。（“事态”这一说法被不同哲学家以不同方式使用。在这里，它被用来指一元属性与多元关系的零元类似物。正如属性是某物之所是或不之所是的一种方式，在我们的用法下，事态是事物之所是或不之所是的一种方式。）
     step2: |-
-      如果我们能够只用广义逻辑（broadly logical）概念来分析内在性，那将是一件好事。所谓广义逻辑概念，由以下概念穷尽：合取、否定与存在量化的狭义逻辑概念；形而上学可能性的模态概念；分体论的部分关系（parthood）概念；以及与属性理论和集合论相关的基本概念，例如由"事态""属性""关系""可能世界""实例化""是……的元素"与"集合"所表达的概念。（"事态"这一说法被不同哲学家以不同方式使用。在这里，它被用来指一元属性与多元关系的零元类似物。正如属性是某物之所是或不之所是的一种方式，在我们的用法下，事态是事物之所是或不之所是的一种方式。）
+      如果我们能够只用广义逻辑（broadly logical）概念来分析内在性，那将是一件好事。所谓广义逻辑概念，由以下概念穷尽：合取、否定与存在量化的狭义逻辑概念；形而上学可能性的模态概念；分体论的部分关系（parthood）概念；以及与属性理论和集合论相关的基本概念，例如由“事态”“属性”“关系”“可能世界”“实例化”“是……的元素”与“集合”所表达的概念。（“事态”这一说法被不同哲学家以不同方式使用。在这里，它被用来指一元属性与多元关系的零元类似物。正如属性是某物之所是或不之所是的一种方式，在我们的用法下，事态是事物之所是或不之所是的一种方式。）
   - id: 117
     kind: body
     source: |-
       It is at least initially appealing to think that, if an object has a property in an intrinsic fashion, then it has it independently of the way the rest of the world is. The rest of the world could disappear, and the object might still have that property. Hence a *lonely* object, an object that doesn’t coexist with any contingent objects wholly distinct from it, could have the property. Many extrinsic properties, on the other hand, cannot be possessed by lonely objects – no lonely object has the property of being six metres from a rhododendron, for example. This suggests an analysis of intrinsicality: $F$ is an intrinsic property iff it is possible for a lonely object to be $F$. This analysis is usually attributed to Kim (1982) (e.g. in Lewis 1983a and Sider 1993)[^lewis-1983a], though Humberstone (1996) dissents from this interpretation. If this analysis is successful then it would constitute a broadly logical analysis, since the expressions on the right hand side of the account can each be defined using only broadly logical vocabulary.
     step1: |-
-      至少初看之下，以下想法很有吸引力：如果一个对象以内在方式具有某属性，那么它独立于世界其余部分之所是而具有该属性。世界其余部分可以消失，而该对象或许仍具有那一属性。于是，一个**孤立的**对象——即不与任何完全相异于它的偶然对象共存的对象——可能具有该属性。另一方面，许多外在属性不能为孤立对象所具有——例如，没有任何孤立对象具有"距一株杜鹃花六米"这一属性。这提示了一种内在性分析：$F$ 是内在属性，当且仅当孤立对象可能是 $F$。这一分析通常归于金在权（Kim 1982）（例如 Lewis 1983a 与 Sider 1993 中即如此）[^lewis-1983a]，尽管 Humberstone 1996 不认同这一解读。如果这一分析成功，它就构成一个广义逻辑的分析，因为该说明右边各式都能只用广义逻辑词汇来定义。
+      至少初看之下，以下想法很有吸引力：如果一个对象以内在方式具有某属性，那么它独立于世界其余部分之所是而具有该属性。世界其余部分可以消失，而该对象或许仍具有那一属性。于是，一个 **孤立的** 对象——即不与任何完全相异于它的偶然对象共存的对象——可能具有该属性。另一方面，许多外在属性不能为孤立对象所具有——例如，没有任何孤立对象具有“距一株杜鹃花六米”这一属性。这提示了一种内在性分析：$F$ 是内在属性，当且仅当孤立对象可能是 $F$。这一分析通常归于金在权（Kim 1982）（例如 Lewis 1983a 与 Sider 1993 中即如此）[^lewis-1983a]，尽管 Humberstone 1996 不认同这一解读。如果这一分析成功，它就构成一个广义逻辑的分析，因为该说明右边各式都能只用广义逻辑词汇来定义。
     step2: |-
-      至少初看之下，以下想法很有吸引力：如果一个对象以内在方式具有某属性，那么它独立于世界其余部分之所是而具有该属性。世界其余部分可以消失，而该对象或许仍具有那一属性。于是，一个**孤立的**（lonely）对象——即不与任何完全相异于它的偶然对象共存的对象——可能具有该属性。另一方面，许多外在属性不能为孤立对象所具有——例如，没有任何孤立对象具有"距一株杜鹃花六米"这一属性。这提示了一种内在性分析：$F$ 是内在属性，当且仅当孤立对象可能是 $F$。这一分析通常归于金在权（Kim 1982）（例如 Lewis 1983a 与 Sider 1993 中即如此）[^lewis-1983a]，尽管 Humberstone 1996 不认同这一解读。如果这一分析成功，它就构成一个广义逻辑的分析，因为该说明右边各式都能只用广义逻辑词汇来定义。
+      至少初看之下，以下想法很有吸引力：如果一个对象以内在方式具有某属性，那么它独立于世界其余部分之所是而具有该属性。世界其余部分可以消失，而该对象或许仍具有那一属性。于是，一个 **孤立的** （lonely）对象——即不与任何完全相异于它的偶然对象共存的对象——可能具有该属性。另一方面，许多外在属性不能为孤立对象所具有——例如，没有任何孤立对象具有“距一株杜鹃花六米”这一属性。这提示了一种内在性分析：$F$ 是内在属性，当且仅当孤立对象可能是 $F$。这一分析通常归于金在权（Kim 1982）（例如 Lewis 1983a 与 Sider 1993 中即如此）[^lewis-1983a]，尽管 Humberstone 1996 不认同这一解读。如果这一分析成功，它就构成一个广义逻辑的分析，因为该说明右边各式都能只用广义逻辑词汇来定义。
   - id: 118
     kind: body
     source: |-
       The major problem with this analysis is that the ‘if’ direction of the biconditional is clearly false. As Lewis (1983) pointed out, it is possible for a lonely object to have the property of being lonely, but the property of being lonely is not intrinsic.
     step1: |-
-      这一分析的主要问题在于：双条件的"如果"方向显然为假。正如刘易斯（Lewis 1983）指出的，一个孤立对象可能具有"是孤立的"这一属性，但"是孤立的"这一属性不是内在的。
+      这一分析的主要问题在于：双条件的“如果”方向显然为假。正如刘易斯（Lewis 1983）指出的，一个孤立对象可能具有“是孤立的”这一属性，但“是孤立的”这一属性不是内在的。
     step2: |-
-      这一分析的主要问题在于：双条件的"如果"方向显然为假。正如刘易斯（Lewis 1983）指出的，一个孤立对象可能具有"是孤立的"这一属性，但"是孤立的"这一属性不是内在的。
+      这一分析的主要问题在于：双条件的“如果”方向显然为假。正如刘易斯（Lewis 1983）指出的，一个孤立对象可能具有“是孤立的”这一属性，但“是孤立的”这一属性不是内在的。
   - id: 119
     kind: body
     source: |-
       One might try to deal with this problem by adding extra modal conditions to the above account. Say that a property $F$ is *independent of accompaniment* iff the following four conditions (taken from Langton and Lewis 1998)[^langton-1998] are met:
     step1: |-
-      有人或许试图通过给上述说明添加额外的模态条件来处理这一问题。我们说属性 $F$ 是**独立于有伴的**，当且仅当以下四个条件（取自 Langton and Lewis 1998）[^langton-1998] 得到满足：
+      有人或许试图通过给上述说明添加额外的模态条件来处理这一问题。我们说属性 $F$ 是 **独立于有伴的**，当且仅当以下四个条件（取自 Langton and Lewis 1998）[^langton-1998] 得到满足：
     step2: |-
-      有人或许试图通过给上述说明添加额外的模态条件来处理这一问题。我们说属性 $F$ 是**独立于有伴的**（independent of accompaniment），当且仅当以下四个条件（取自 Langton and Lewis 1998）[^langton-1998] 得到满足：
+      有人或许试图通过给上述说明添加额外的模态条件来处理这一问题。我们说属性 $F$ 是 **独立于有伴的** （independent of accompaniment），当且仅当以下四个条件（取自 Langton and Lewis 1998）[^langton-1998] 得到满足：
   - id: 120
     kind: body
     source: |-
@@ -1007,17 +1007,17 @@ segments:
     source: |-
       As Langton and Lewis (1998) point out, however, this strengthened analysis still fails (see also Lewis 1983a)[^lewis-1983a]. Given intrinsic properties, such as being a cube, are independent of accompaniment, the extrinsic property of being either a lonely cube or an accompanied non-cube is also independent of accompaniment. Hence, provided the strengthened analysis correctly classifies *being a cube* as intrinsic, it will falsely classify *being either a lonely cube or an accompanied non-cube* as intrinsic.
     step1: |-
-      然而，正如 Langton and Lewis 1998 指出的，这一强化后的分析仍然失败（另见 Lewis 1983a）[^lewis-1983a]。既然内在属性（如"是立方体"）独立于有伴，外在属性"是孤立的立方体或有伴的非立方体"也独立于有伴。于是，只要强化后的分析正确地把"是立方体"归为内在的，它就会错误地把"是孤立的立方体或有伴的非立方体"归为内在的。
+      然而，正如 Langton and Lewis 1998 指出的，这一强化后的分析仍然失败（另见 Lewis 1983a）[^lewis-1983a]。既然内在属性（如“是立方体”）独立于有伴，外在属性“是孤立的立方体或有伴的非立方体”也独立于有伴。于是，只要强化后的分析正确地把“是立方体”归为内在的，它就会错误地把“是孤立的立方体或有伴的非立方体”归为内在的。
     step2: |-
-      然而，正如 Langton and Lewis 1998 指出的，这一强化后的分析仍然失败（另见 Lewis 1983a）[^lewis-1983a]。既然内在属性（如"是立方体"）独立于有伴，外在属性"是孤立的立方体或有伴的非立方体"也独立于有伴。于是，只要强化后的分析正确地把"是立方体"归为内在的，它就会错误地把"是孤立的立方体或有伴的非立方体"归为内在的。
+      然而，正如 Langton and Lewis 1998 指出的，这一强化后的分析仍然失败（另见 Lewis 1983a）[^lewis-1983a]。既然内在属性（如“是立方体”）独立于有伴，外在属性“是孤立的立方体或有伴的非立方体”也独立于有伴。于是，只要强化后的分析正确地把“是立方体”归为内在的，它就会错误地把“是孤立的立方体或有伴的非立方体”归为内在的。
   - id: 123
     kind: body
     source: |-
       In the face of this failure, we might still hope that a yet more sophisticated broadly logical analysis might succeed. An argument due to Marshall 2009 and Parsons 2001, however, shows that, given standard views about what is possible, and given the absence of special assumptions about the abundance and structure of properties, no such analysis can be given. This argument considers the intrinsic property of being an electron and the extrinsic property of being either an accompanied electron or a lonely positron. It then shows that, given certain common views about properties and possibility, these properties have the same pattern of instantiation through logical, mereological and set-theoretic space. Since formulas containing only broadly logical expressions cannot distinguish between properties having the same such pattern, it then follows that no broadly logical analysis of intrinsically is possible.
     step1: |-
-      面对这一失败，我们或许仍希望某种更精巧的广义逻辑分析能够成功。然而，一个出自 Marshall 2009 与 Parsons 2001 的论证表明：在关于何者为可能的标准观点下，且在对属性的丰富性与结构性缺乏特殊假设的情况下，这样的分析无法给出。该论证考察内在属性"是电子"与外在属性"是有伴电子或孤立正电子"。它进而表明：在关于属性与可能性的某些通行观点下，这两个属性在逻辑、分体论与集合论空间中具有相同的实例化模式。既然只含广义逻辑表达式的公式无法区分具有相同模式的属性，由此可得：内在性的广义逻辑分析是不可能的。
+      面对这一失败，我们或许仍希望某种更精巧的广义逻辑分析能够成功。然而，一个出自 Marshall 2009 与 Parsons 2001 的论证表明：在关于何者为可能的标准观点下，且在对属性的丰富性与结构性缺乏特殊假设的情况下，这样的分析无法给出。该论证考察内在属性“是电子”与外在属性“是有伴电子或孤立正电子”。它进而表明：在关于属性与可能性的某些通行观点下，这两个属性在逻辑、分体论与集合论空间中具有相同的实例化模式。既然只含广义逻辑表达式的公式无法区分具有相同模式的属性，由此可得：内在性的广义逻辑分析是不可能的。
     step2: |-
-      面对这一失败，我们或许仍希望某种更精巧的广义逻辑分析能够成功。然而，一个出自 Marshall 2009 与 Parsons 2001 的论证表明：在关于何者为可能的标准观点下，且在对属性的丰富性与结构性缺乏特殊假设的情况下，这样的分析无法给出。该论证考察内在属性"是电子"与外在属性"是有伴电子或孤立正电子"。它进而表明：在关于属性与可能性的某些通行观点下，这两个属性在逻辑、分体论与集合论空间中具有相同的实例化模式。既然只含广义逻辑表达式的公式无法区分具有相同这种模式的属性，由此可得：内在性的广义逻辑分析是不可能的。
+      面对这一失败，我们或许仍希望某种更精巧的广义逻辑分析能够成功。然而，一个出自 Marshall 2009 与 Parsons 2001 的论证表明：在关于何者为可能的标准观点下，且在对属性的丰富性与结构性缺乏特殊假设的情况下，这样的分析无法给出。该论证考察内在属性“是电子”与外在属性“是有伴电子或孤立正电子”。它进而表明：在关于属性与可能性的某些通行观点下，这两个属性在逻辑、分体论与集合论空间中具有相同的实例化模式。既然只含广义逻辑表达式的公式无法区分具有相同这种模式的属性，由此可得：内在性的广义逻辑分析是不可能的。
   - id: 124
     kind: body
     source: |-
@@ -1079,9 +1079,9 @@ segments:
     source: |-
       Suppose, for reductio, that the notion of an intrinsic property can be analysed in terms of broadly logical notions. Then, since analyses must be necessary, there is a formula $\varphi(p)$ such that (A) is necessarily true, where $\varphi$ contains only broadly logical vocabulary, such as variables, brackets, ‘&’, ‘$\vee$’, ‘$\exists$’, ‘is a possible world’, ‘at’ and ‘$\in$’.
     step1: |-
-      设为归谬：内在属性概念可以用广义逻辑概念来分析。那么，既然分析必须是必然的，就存在一个公式 $\varphi(p)$ 使得 (A) 是必然真的，其中 $\varphi$ 只含广义逻辑词汇，例如变元、括号、"&"、"$\vee$"、"$\exists$"、"是可能世界"、"在"与"$\in$"。
+      设为归谬：内在属性概念可以用广义逻辑概念来分析。那么，既然分析必须是必然的，就存在一个公式 $\varphi(p)$ 使得 (A) 是必然真的，其中 $\varphi$ 只含广义逻辑词汇，例如变元、括号、“&”、“$\vee$”、“$\exists$”、“是可能世界”、“在”与“$\in$”。
     step2: |-
-      设为归谬（reductio）：内在属性概念可以用广义逻辑概念来分析。那么，既然分析必须是必然的，就存在一个公式 $\varphi(p)$ 使得 (A) 是必然真的，其中 $\varphi$ 只含广义逻辑词汇，例如变元、括号、"&"、"$\vee$"、"$\exists$"、"是可能世界"、"在"与"$\in$"。
+      设为归谬（reductio）：内在属性概念可以用广义逻辑概念来分析。那么，既然分析必须是必然的，就存在一个公式 $\varphi(p)$ 使得 (A) 是必然真的，其中 $\varphi$ 只含广义逻辑词汇，例如变元、括号、“&”、“$\vee$”、“$\exists$”、“是可能世界”、“在”与“$\in$”。
   - id: 132
     kind: body
     source: |-
@@ -1213,17 +1213,17 @@ segments:
     source: |-
       > Sharing of [the perfectly natural properties] makes for qualitative similarity, they carve at the joints, they are intrinsic, they are highly specific, the set of their instances are ipso facto not entirely miscellaneous, there are only just enough of them to characterise things completely and without redundancy. Physics has its short list of ‘fundamental physical properties’: the charges and masses of particles, also their is so-called ‘spins’ and ‘colours’ and ‘flavours’, and maybe a few more that have yet to be discovered. (Lewis 1986b, p. 60, author’s emphasis)[^lewis-1986b]]
     step1: |-
-      > 分享[这些完全自然的属性]造就了性质上的相似；它们在关节处切分；它们是内在的；它们是高度特殊的；其实例的集合因此绝非杂乱无章；它们的数量刚好足以完全不冗余地刻画事物。物理学有它那份"基本物理属性"的简短清单：粒子的电荷与质量，还有它们所谓的"自旋""色"与"味"，也许还有几个尚待发现的。（Lewis 1986b, p. 60，作者强调）[^lewis-1986b]]
+      > 分享[这些完全自然的属性]造就了性质上的相似；它们在关节处切分；它们是内在的；它们是高度特殊的；其实例的集合因此绝非杂乱无章；它们的数量刚好足以完全不冗余地刻画事物。物理学有它那份“基本物理属性”的简短清单：粒子的电荷与质量，还有它们所谓的“自旋”“色”与“味”，也许还有几个尚待发现的。（Lewis 1986b, p. 60，作者强调）[^lewis-1986b]]
     step2: |-
-      > 分享[这些完全自然的属性]造就了性质上的相似；它们在关节处切分（carve at the joints）；它们是内在的；它们是高度特殊的；其实例的集合因此绝非杂乱无章；它们的数量刚好足以完全不冗余地刻画事物。物理学有它那份"基本物理属性"的简短清单：粒子的电荷与质量，还有它们所谓的"自旋""色"与"味"，也许还有几个尚待发现的。（Lewis 1986b, p. 60，作者强调）[^lewis-1986b]]
+      > 分享[这些完全自然的属性]造就了性质上的相似；它们在关节处切分（carve at the joints）；它们是内在的；它们是高度特殊的；其实例的集合因此绝非杂乱无章；它们的数量刚好足以完全不冗余地刻画事物。物理学有它那份“基本物理属性”的简短清单：粒子的电荷与质量，还有它们所谓的“自旋”“色”与“味”，也许还有几个尚待发现的。（Lewis 1986b, p. 60，作者强调）[^lewis-1986b]]
   - id: 148
     kind: body
     source: |-
       The notion of a perfectly natural, or fundamental, property or relation suggests an appealing approach to analysing intrinsicality. Consider the non-intrinsic property of being an uncle. It is appealing to think that the reason this property fails to be intrinsic is that it can be analysed in terms of more fundamental relations, such as being a sibling of and being a child of, in a manner that reveals how something being an uncle is at least partially a matter of how it is related to things that aren’t part of it. In particular, it is plausible to think that the reason being an uncle is non-intrinsic is that for $x$ to be an uncle is for $x$ to have a sibling that has a child, where this child fails to be part of $x$. More generally, it is plausible that, if being $F$ is a non-intrinsic property, then the fact that it is non-intrinsic can be revealed by analysing being $F$ in terms of more fundamental properties and relations in a manner that reveals how something being $F$ may partly be a matter of being related to a non-part or may be partly a matter of how non-parts are. If this is true, then it has the following two consequences. First, it follows that every fundamental property is intrinsic, since it being non-intrinsic cannot be revealed by analysis in terms of more fundamental properties and relations. Secondly, and even more importantly, it follows that whether a property is intrinsic should be analysable in terms of how that property can be analysed in terms of the fundamental properties and relations.
     step1: |-
-      完全自然的（或基本的）属性与关系这一概念，提示了一条有吸引力的内在性分析路径。考虑非内在属性"身为叔叔"。有吸引力的想法是：这一属性之所以不是内在的，是因为它可以用更基本的关系（如"是……的兄弟姐妹"与"是……的孩子"）来分析，而这种分析揭示了某物之为叔叔至少部分地关乎它如何与非其部分的事物相关。特别地，可信的想法是："身为叔叔"之所以是非内在的，是因为 $x$ 之为叔叔，就是 $x$ 有一个有孩子的兄弟姐妹，而这个孩子不是 $x$ 的部分。更一般地，可信的想法是：如果"是 $F$"是一个非内在属性，那么它之为非内在这一点，可以通过用更基本的属性与关系分析"是 $F$"来揭示——只要这种分析揭示出：某物之为 $F$ 可能部分地关乎与非部分处于关系之中，或部分地关乎非部分之所是。如果这是真的，那么它有两个推论。第一，每个基本属性都是内在的，因为它之为非内在无法通过用更基本属性与关系的分析来揭示。第二，也是更重要地，一个属性是否内在，应当可以用该属性如何能通过基本属性与关系来分析而得到分析。
+      完全自然的（或基本的）属性与关系这一概念，提示了一条有吸引力的内在性分析路径。考虑非内在属性“身为叔叔”。有吸引力的想法是：这一属性之所以不是内在的，是因为它可以用更基本的关系（如“是……的兄弟姐妹”与“是……的孩子”）来分析，而这种分析揭示了某物之为叔叔至少部分地关乎它如何与非其部分的事物相关。特别地，可信的想法是：“身为叔叔”之所以是非内在的，是因为 $x$ 之为叔叔，就是 $x$ 有一个有孩子的兄弟姐妹，而这个孩子不是 $x$ 的部分。更一般地，可信的想法是：如果“是 $F$”是一个非内在属性，那么它之为非内在这一点，可以通过用更基本的属性与关系分析“是 $F$”来揭示——只要这种分析揭示出：某物之为 $F$ 可能部分地关乎与非部分处于关系之中，或部分地关乎非部分之所是。如果这是真的，那么它有两个推论。第一，每个基本属性都是内在的，因为它之为非内在无法通过用更基本属性与关系的分析来揭示。第二，也是更重要地，一个属性是否内在，应当可以用该属性如何能通过基本属性与关系来分析而得到分析。
     step2: |-
-      完全自然的（或基本的）属性与关系这一概念，提示了一条有吸引力的内在性分析路径。考虑非内在属性"身为叔叔"。有吸引力的想法是：这一属性之所以不是内在的，是因为它可以用更基本的关系（如"是……的兄弟姐妹"与"是……的孩子"）来分析，而这种分析揭示了某物之为叔叔至少部分地关乎它如何与非其部分的事物相关。特别地，可信的想法是："身为叔叔"之所以是非内在的，是因为 $x$ 之为叔叔，就是 $x$ 有一个有孩子的兄弟姐妹，而这个孩子不是 $x$ 的部分。更一般地，可信的想法是：如果"是 $F$"是一个非内在属性，那么它之为非内在这一点，可以通过用更基本的属性与关系分析"是 $F$"来揭示——只要这种分析揭示出：某物之为 $F$ 可能部分地关乎与非部分处于关系之中，或部分地关乎非部分之所是。如果这是真的，那么它有两个推论。第一，每个基本属性都是内在的，因为它之为非内在无法通过用更基本属性与关系的分析来揭示。第二，也是更重要地，一个属性是否内在，应当可以用该属性如何能通过基本属性与关系来分析而得到分析。
+      完全自然的（或基本的）属性与关系这一概念，提示了一条有吸引力的内在性分析路径。考虑非内在属性“身为叔叔”。有吸引力的想法是：这一属性之所以不是内在的，是因为它可以用更基本的关系（如“是……的兄弟姐妹”与“是……的孩子”）来分析，而这种分析揭示了某物之为叔叔至少部分地关乎它如何与非其部分的事物相关。特别地，可信的想法是：“身为叔叔”之所以是非内在的，是因为 $x$ 之为叔叔，就是 $x$ 有一个有孩子的兄弟姐妹，而这个孩子不是 $x$ 的部分。更一般地，可信的想法是：如果“是 $F$”是一个非内在属性，那么它之为非内在这一点，可以通过用更基本的属性与关系分析“是 $F$”来揭示——只要这种分析揭示出：某物之为 $F$ 可能部分地关乎与非部分处于关系之中，或部分地关乎非部分之所是。如果这是真的，那么它有两个推论。第一，每个基本属性都是内在的，因为它之为非内在无法通过用更基本属性与关系的分析来揭示。第二，也是更重要地，一个属性是否内在，应当可以用该属性如何能通过基本属性与关系来分析而得到分析。
   - id: 149
     kind: body
     source: |-
@@ -1277,9 +1277,9 @@ segments:
     source: |-
       The first assumption that all perfectly natural properties are intrinsic has been rejected by Weatherson (2006). (See also Yablo 1999 who holds that, even if every perfectly natural property is intrinsic, this fact is at best a lucky accident and that this renders Lewis’s account unsuccessful as a philosophical account of intrinsicality.)[^yablo-1999] Weatherson claims that it is metaphysically possible for the instantiated perfectly natural properties to be vector properties. He then argues that, since vector properties must be extrinsic, it follows that at least some perfectly natural properties fail to be intrinsic, namely the perfectly natural properties instantiated at such worlds. The claim that vector properties need to be extrinsic, however, is highly contentious. It is natural to understand a vector property to be a property that is usefully represented for theoretical purposes by a certain kind of mathematical object, namely a vector. Given this construal, however, there is no reason to think that vector properties cannot be intrinsic. For example, due to the similarity relationships between colours represented by the colour solid it might be useful to represent colours by vectors. However, doing this is compatible with metaphysical theories of colour on which colours are intrinsic. There might be other conceptions of being a vector property on which vector properties cannot be intrinsic. However, it is unclear whether there an conception of vector properties on which they cannot be intrinsic but can be fundamental. (See Busse (2009) and Marshall (2016b) for more discussion.)
     step1: |-
-      "所有完全自然的属性都是内在的"这一第一假设已被韦瑟森（Weatherson 2006）拒斥。（另见 Yablo 1999：即使每个完全自然属性都是内在的，这一事实充其量是一个侥幸的偶然，这使得刘易斯的说明作为内在性的哲学说明是不成功的。）[^yablo-1999] 韦瑟森主张：在形而上学上可能，被实例化的完全自然属性是向量属性。他进而论证：既然向量属性必是外在的，至少某些完全自然属性就不是内在的，即在这类世界中实例化的那些完全自然属性。然而，"向量属性必是外在的"这一主张极有争议。把向量属性理解为一种在理论上用某类数学对象——即向量——来有益地表征的属性，是很自然的。但按这一解释，没有理由认为向量属性不能是内在的。例如，由于颜色立体所表征的颜色之间的相似性关系，用向量来表征颜色可能是有用的；而这与"颜色是内在的"这类颜色形而上学理论相容。也许还有其他关于向量属性的构想，按其向量属性不能是内在的。然而，是否存在这样一种向量属性构想——按其向量属性不能是内在的、却可以是基本的——是不清楚的。（更多讨论见 Busse 2009 与 Marshall 2016b。）
+      “所有完全自然的属性都是内在的”这一第一假设已被韦瑟森（Weatherson 2006）拒斥。（另见 Yablo 1999：即使每个完全自然属性都是内在的，这一事实充其量是一个侥幸的偶然，这使得刘易斯的说明作为内在性的哲学说明是不成功的。）[^yablo-1999] 韦瑟森主张：在形而上学上可能，被实例化的完全自然属性是向量属性。他进而论证：既然向量属性必是外在的，至少某些完全自然属性就不是内在的，即在这类世界中实例化的那些完全自然属性。然而，“向量属性必是外在的”这一主张极有争议。把向量属性理解为一种在理论上用某类数学对象——即向量——来有益地表征的属性，是很自然的。但按这一解释，没有理由认为向量属性不能是内在的。例如，由于颜色立体所表征的颜色之间的相似性关系，用向量来表征颜色可能是有用的；而这与“颜色是内在的”这类颜色形而上学理论相容。也许还有其他关于向量属性的构想，按其向量属性不能是内在的。然而，是否存在这样一种向量属性构想——按其向量属性不能是内在的、却可以是基本的——是不清楚的。（更多讨论见 Busse 2009 与 Marshall 2016b。）
     step2: |-
-      "所有完全自然的属性都是内在的"这一第一假设已被韦瑟森（Weatherson 2006）拒斥。（另见 Yablo 1999：即使每个完全自然属性都是内在的，这一事实充其量是一个侥幸的偶然，这使得刘易斯的说明作为内在性的哲学说明是不成功的。）[^yablo-1999] 韦瑟森主张：在形而上学上可能，被实例化的完全自然属性是向量属性（vector properties）。他进而论证：既然向量属性必是外在的，至少某些完全自然属性就不是内在的，即在这类世界中实例化的那些完全自然属性。然而，"向量属性必是外在的"这一主张极有争议。把向量属性理解为一种在理论上用某类数学对象——即向量——来有益地表征的属性，是很自然的。但按这一解释，没有理由认为向量属性不能是内在的。例如，由于颜色立体（colour solid）所表征的颜色之间的相似性关系，用向量来表征颜色可能是有用的；而这与"颜色是内在的"这类颜色形而上学理论相容。也许还有其他关于向量属性的构想，按其向量属性不能是内在的。然而，是否存在这样一种向量属性构想——按其向量属性不能是内在的、却可以是基本的——是不清楚的。（更多讨论见 Busse 2009 与 Marshall 2016b。）
+      “所有完全自然的属性都是内在的”这一第一假设已被韦瑟森（Weatherson 2006）拒斥。（另见 Yablo 1999：即使每个完全自然属性都是内在的，这一事实充其量是一个侥幸的偶然，这使得刘易斯的说明作为内在性的哲学说明是不成功的。）[^yablo-1999] 韦瑟森主张：在形而上学上可能，被实例化的完全自然属性是向量属性（vector properties）。他进而论证：既然向量属性必是外在的，至少某些完全自然属性就不是内在的，即在这类世界中实例化的那些完全自然属性。然而，“向量属性必是外在的”这一主张极有争议。把向量属性理解为一种在理论上用某类数学对象——即向量——来有益地表征的属性，是很自然的。但按这一解释，没有理由认为向量属性不能是内在的。例如，由于颜色立体（colour solid）所表征的颜色之间的相似性关系，用向量来表征颜色可能是有用的；而这与“颜色是内在的”这类颜色形而上学理论相容。也许还有其他关于向量属性的构想，按其向量属性不能是内在的。然而，是否存在这样一种向量属性构想——按其向量属性不能是内在的、却可以是基本的——是不清楚的。（更多讨论见 Busse 2009 与 Marshall 2016b。）
   - id: 156
     kind: body
     source: |-
@@ -1373,9 +1373,9 @@ segments:
     source: |-
       (17), as it stands, fails to provide a completely specified account of intrinsic aboutness, since it contains the locution ‘quantifies only over parts of $x$’ which needs to be defined, and giving the needed definition is not straightforward. The account of ‘quantifying over parts of $x$’ given by perfect naturalness account 2 can be simplified if we assume that ‘some’ expresses the only perfectly natural quantifier. Say that a property $p$ necessitates a property $q$ iff, necessarily, for any $x$, if $x$ has $p$ then $x$ has $q$. If $\Phi$ is a set of formulas, let $\bigvee\Phi$ be the disjunction of the formulas in $\Phi$. (So $\bigvee\{\phi_1 , \phi_2,\ldots\}$ = $\ulcorner\phi_1 \vee \phi_2 \vee\ldots\urcorner$.) Given these definitions and the above simplifying assumption, perfect naturalness account 2 endorses (18), where $F$ and $G$ are predicates expressing properties and ‘$\leq$’ symbolises ‘is part of’.
     step1: |-
-      (17) 就其现状而言，未能给出内在关于性的完整明确说明，因为它包含"只量化于 $x$ 的部分"这一有待定义的说法，而给出所需的定义并非直截了当。如果我们假定"有些"表达唯一的完全自然量词，完全自然性说明 2 对"只量化于 $x$ 的部分"的说明就可以简化。我们说属性 $p$ 必然化属性 $q$，当且仅当必然地，对任意 $x$，若 $x$ 具有 $p$ 则 $x$ 具有 $q$。若 $\Phi$ 是一个公式集，令 $\bigvee\Phi$ 为 $\Phi$ 中诸公式的析取。（故 $\bigvee\{\phi_1 , \phi_2,\ldots\}$ = $\ulcorner\phi_1 \vee \phi_2 \vee\ldots\urcorner$。）给定这些定义与上述简化假设，完全自然性说明 2 认可 (18)，其中 $F$ 与 $G$ 是表达属性的谓词，"$\leq$"象征"是……的一部分"。
+      (17) 就其现状而言，未能给出内在关于性的完整明确说明，因为它包含“只量化于 $x$ 的部分”这一有待定义的说法，而给出所需的定义并非直截了当。如果我们假定“有些”表达唯一的完全自然量词，完全自然性说明 2 对“只量化于 $x$ 的部分”的说明就可以简化。我们说属性 $p$ 必然化属性 $q$，当且仅当必然地，对任意 $x$，若 $x$ 具有 $p$ 则 $x$ 具有 $q$。若 $\Phi$ 是一个公式集，令 $\bigvee\Phi$ 为 $\Phi$ 中诸公式的析取。（故 $\bigvee\{\phi_1 , \phi_2,\ldots\}$ = $\ulcorner\phi_1 \vee \phi_2 \vee\ldots\urcorner$。）给定这些定义与上述简化假设，完全自然性说明 2 认可 (18)，其中 $F$ 与 $G$ 是表达属性的谓词，“$\leq$”象征“是……的一部分”。
     step2: |-
-      (17) 就其现状而言，未能给出内在关于性的完整明确说明，因为它包含"只量化于 $x$ 的部分"这一有待定义的说法，而给出所需的定义并非直截了当。如果我们假定"有些"（some）表达唯一的完全自然量词，完全自然性说明 2 对"只量化于 $x$ 的部分"的说明就可以简化。我们说属性 $p$ 必然化属性 $q$，当且仅当必然地，对任意 $x$，若 $x$ 具有 $p$ 则 $x$ 具有 $q$。若 $\Phi$ 是一个公式集，令 $\bigvee\Phi$ 为 $\Phi$ 中诸公式的析取。（故 $\bigvee\{\phi_1 , \phi_2,\ldots\}$ = $\ulcorner\phi_1 \vee \phi_2 \vee\ldots\urcorner$。）给定这些定义与上述简化假设，完全自然性说明 2 认可 (18)，其中 $F$ 与 $G$ 是表达属性的谓词，"$\leq$"象征"是……的一部分"。
+      (17) 就其现状而言，未能给出内在关于性的完整明确说明，因为它包含“只量化于 $x$ 的部分”这一有待定义的说法，而给出所需的定义并非直截了当。如果我们假定“有些”（some）表达唯一的完全自然量词，完全自然性说明 2 对“只量化于 $x$ 的部分”的说明就可以简化。我们说属性 $p$ 必然化属性 $q$，当且仅当必然地，对任意 $x$，若 $x$ 具有 $p$ 则 $x$ 具有 $q$。若 $\Phi$ 是一个公式集，令 $\bigvee\Phi$ 为 $\Phi$ 中诸公式的析取。（故 $\bigvee\{\phi_1 , \phi_2,\ldots\}$ = $\ulcorner\phi_1 \vee \phi_2 \vee\ldots\urcorner$。）给定这些定义与上述简化假设，完全自然性说明 2 认可 (18)，其中 $F$ 与 $G$ 是表达属性的谓词，“$\leq$”象征“是……的一部分”。
   - id: 168
     kind: body
     source: |-
@@ -1389,17 +1389,17 @@ segments:
     source: |-
       The initial occurrence of ‘Some’ in $\ulcorner [\text{Some } v|Fv]Gv\urcorner$ quantifies only over parts of $x$ iff, for any set $\Pi $ of names of all the parts of $x$, the property expressed by $F$ necessitates the property expressed by $\ulcorner\lambda v\bigvee\{\ulcorner v\leq a\urcorner \mid a\in\Pi\}\urcorner$.
     step1: |-
-      $\ulcorner [\text{Some } v|Fv]Gv\urcorner$ 中"Some"的首次出现只量化于 $x$ 的部分，当且仅当：对任意由 $x$ 的所有部分的名称组成的集合 $\Pi $，$F$ 所表达的属性必然化 $\ulcorner\lambda v\bigvee\{\ulcorner v\leq a\urcorner \mid a\in\Pi\}\urcorner$ 所表达的属性。
+      $\ulcorner [\text{Some } v|Fv]Gv\urcorner$ 中“Some”的首次出现只量化于 $x$ 的部分，当且仅当：对任意由 $x$ 的所有部分的名称组成的集合 $\Pi $，$F$ 所表达的属性必然化 $\ulcorner\lambda v\bigvee\{\ulcorner v\leq a\urcorner \mid a\in\Pi\}\urcorner$ 所表达的属性。
     step2: |-
-      $\ulcorner [\text{Some } v|Fv]Gv\urcorner$ 中"Some"的首次出现只量化于 $x$ 的部分，当且仅当：对任意由 $x$ 的所有部分的名称组成的集合 $\Pi $，$F$ 所表达的属性必然化 $\ulcorner\lambda v\bigvee\{\ulcorner v\leq a\urcorner \mid a\in\Pi\}\urcorner$ 所表达的属性。
+      $\ulcorner [\text{Some } v|Fv]Gv\urcorner$ 中“Some”的首次出现只量化于 $x$ 的部分，当且仅当：对任意由 $x$ 的所有部分的名称组成的集合 $\Pi $，$F$ 所表达的属性必然化 $\ulcorner\lambda v\bigvee\{\ulcorner v\leq a\urcorner \mid a\in\Pi\}\urcorner$ 所表达的属性。
   - id: 170
     kind: body
     source: |-
       For example, according to this account, if $d$ has exactly three proper parts (which are $a$, $b$ and $c$), then ‘some’ in ‘[Some $v \mid Fv](Gv)$’ quantifies only over parts of $d$ iff the property of being $F$ necessitates the property of being part of either $a$, $b$, $c$ or $d$ (that is, iff, necessarily, any thing that is $F$ is part of either $a$, $b$, $c$ or $d$). More generally, this account endorses (19).
     step1: |-
-      例如，按这一说明，如果 $d$ 恰有三个真部分（即 $a$、$b$ 与 $c$），那么"[Some $v \mid Fv](Gv)$"中的"some"只量化于 $d$ 的部分，当且仅当"是 $F$"这一属性必然化"是 $a$、$b$、$c$ 或 $d$ 的一部分"这一属性（即：必然地，任何是 $F$ 的东西都是 $a$、$b$、$c$ 或 $d$ 的一部分）。更一般地，这一说明认可 (19)。
+      例如，按这一说明，如果 $d$ 恰有三个真部分（即 $a$、$b$ 与 $c$），那么“[Some $v \mid Fv](Gv)$”中的“some”只量化于 $d$ 的部分，当且仅当“是 $F$”这一属性必然化“是 $a$、$b$、$c$ 或 $d$ 的一部分”这一属性（即：必然地，任何是 $F$ 的东西都是 $a$、$b$、$c$ 或 $d$ 的一部分）。更一般地，这一说明认可 (19)。
     step2: |-
-      例如，按这一说明，如果 $d$ 恰有三个真部分（即 $a$、$b$ 与 $c$），那么"[Some $v \mid Fv](Gv)$"中的"some"只量化于 $d$ 的部分，当且仅当"是 $F$"这一属性必然化"是 $a$、$b$、$c$ 或 $d$ 的一部分"这一属性（即：必然地，任何是 $F$ 的东西都是 $a$、$b$、$c$ 或 $d$ 的一部分）。更一般地，这一说明认可 (19)。
+      例如，按这一说明，如果 $d$ 恰有三个真部分（即 $a$、$b$ 与 $c$），那么“[Some $v \mid Fv](Gv)$”中的“some”只量化于 $d$ 的部分，当且仅当“是 $F$”这一属性必然化“是 $a$、$b$、$c$ 或 $d$ 的一部分”这一属性（即：必然地，任何是 $F$ 的东西都是 $a$、$b$、$c$ 或 $d$ 的一部分）。更一般地，这一说明认可 (19)。
   - id: 171
     kind: body
     source: |-
@@ -1413,17 +1413,17 @@ segments:
     source: |-
       For any formulas $\phi$ and $\psi$, the initial occurrence of ‘Some’ in $\ulcorner [\text{Some }v\mid \phi]\psi\urcorner$ quantifies only over parts of $x$ iff, for any set $\Pi$ of names of all the parts of $x$, under any assignment $g$ to the free variables in $\phi$ that are not $v$, the property expressed by $\ulcorner\lambda v\phi\urcorner$ necessitates the property expressed by $$\begin{align} \ulcorner\lambda v\big( \bigvee\{\ulcorner v\leq u \urcorner \mid u& \text{ is a free variable in } \phi \text{ that is not } v\} \\ &\vee \bigvee\{\ulcorner v\leq a\urcorner \mid a\in\Pi\}\urcorner. \end{align}$$
     step1: |-
-      对任意公式 $\phi$ 与 $\psi$，$\ulcorner [\text{Some }v\mid \phi]\psi\urcorner$ 中"Some"的首次出现只量化于 $x$ 的部分，当且仅当：对任意由 $x$ 的所有部分的名称组成的集合 $\Pi$，在 $\phi$ 中非 $v$ 的自由变元的任意指派 $g$ 下，$\ulcorner\lambda v\phi\urcorner$ 所表达的属性必然化 $$\begin{align} \ulcorner\lambda v\big( \bigvee\{\ulcorner v\leq u \urcorner \mid u& \text{ is a free variable in } \phi \text{ that is not } v\} \\ &\vee \bigvee\{\ulcorner v\leq a\urcorner \mid a\in\Pi\}\urcorner. \end{align}$$ 所表达的属性。
+      对任意公式 $\phi$ 与 $\psi$，$\ulcorner [\text{Some }v\mid \phi]\psi\urcorner$ 中“Some”的首次出现只量化于 $x$ 的部分，当且仅当：对任意由 $x$ 的所有部分的名称组成的集合 $\Pi$，在 $\phi$ 中非 $v$ 的自由变元的任意指派 $g$ 下，$\ulcorner\lambda v\phi\urcorner$ 所表达的属性必然化 $$\begin{align} \ulcorner\lambda v\big( \bigvee\{\ulcorner v\leq u \urcorner \mid u& \text{ is a free variable in } \phi \text{ that is not } v\} \\ &\vee \bigvee\{\ulcorner v\leq a\urcorner \mid a\in\Pi\}\urcorner. \end{align}$$ 所表达的属性。
     step2: |-
-      对任意公式 $\phi$ 与 $\psi$，$\ulcorner [\text{Some }v\mid \phi]\psi\urcorner$ 中"Some"的首次出现只量化于 $x$ 的部分，当且仅当：对任意由 $x$ 的所有部分的名称组成的集合 $\Pi$，在 $\phi$ 中非 $v$ 的自由变元的任意指派 $g$ 下，$\ulcorner\lambda v\phi\urcorner$ 所表达的属性必然化 $$\begin{align} \ulcorner\lambda v\big( \bigvee\{\ulcorner v\leq u \urcorner \mid u& \text{ is a free variable in } \phi \text{ that is not } v\} \\ &\vee \bigvee\{\ulcorner v\leq a\urcorner \mid a\in\Pi\}\urcorner. \end{align}$$ 所表达的属性。
+      对任意公式 $\phi$ 与 $\psi$，$\ulcorner [\text{Some }v\mid \phi]\psi\urcorner$ 中“Some”的首次出现只量化于 $x$ 的部分，当且仅当：对任意由 $x$ 的所有部分的名称组成的集合 $\Pi$，在 $\phi$ 中非 $v$ 的自由变元的任意指派 $g$ 下，$\ulcorner\lambda v\phi\urcorner$ 所表达的属性必然化 $$\begin{align} \ulcorner\lambda v\big( \bigvee\{\ulcorner v\leq u \urcorner \mid u& \text{ is a free variable in } \phi \text{ that is not } v\} \\ &\vee \bigvee\{\ulcorner v\leq a\urcorner \mid a\in\Pi\}\urcorner. \end{align}$$ 所表达的属性。
   - id: 173
     kind: body
     source: |-
       Given the simplifying assumption that ‘some’ is the only perfectly natural quantifier expression, (3), (17), (Q) and (19) provide the complete account of what it is for a property to be intrinsic according to perfect naturalness account 2.
     step1: |-
-      给定"some 是唯一的完全自然量词表达式"这一简化假设，(3)、(17)、(Q) 与 (19) 就给出了完全自然性说明 2 下属性之为内在的完整说明。
+      给定“some 是唯一的完全自然量词表达式”这一简化假设，(3)、(17)、(Q) 与 (19) 就给出了完全自然性说明 2 下属性之为内在的完整说明。
     step2: |-
-      给定"some 是唯一的完全自然量词表达式"这一简化假设，(3)、(17)、(Q) 与 (19) 就给出了完全自然性说明 2 下属性之为内在的完整说明。
+      给定“some 是唯一的完全自然量词表达式”这一简化假设，(3)、(17)、(Q) 与 (19) 就给出了完全自然性说明 2 下属性之为内在的完整说明。
   - id: 174
     kind: body
     source: |-
@@ -1461,17 +1461,17 @@ segments:
     source: |-
       > [T]he *disjunctive* properties [are] those properties that can be expressed by a disjunction of (conjunctions of) natural properties; but that are not themselves natural properties. (Or, if naturalness admits of degrees, they are much less natural than the disjuncts in terms of which they can be expressed.) (Langton and Lewis 1998: 61, author’s emphasis)[^langton-1998]
     step1: |-
-      > [所谓]**析取的**属性[是指]那些可以由（诸）自然属性的析取（或诸自然属性的合取的析取）来表达的属性；但它们本身不是自然属性。（或者，如果自然性有程度之分，它们远不如据以表达它们的各析取支自然。）（Langton and Lewis 1998: 61，作者强调）[^langton-1998]
+      > [所谓] **析取的** 属性[是指]那些可以由（诸）自然属性的析取（或诸自然属性的合取的析取）来表达的属性；但它们本身不是自然属性。（或者，如果自然性有程度之分，它们远不如据以表达它们的各析取支自然。）（Langton and Lewis 1998: 61，作者强调）[^langton-1998]
     step2: |-
-      > [所谓]**析取的**（disjunctive）属性[是指]那些可以由（诸）自然属性的析取（或诸自然属性的合取的析取）来表达的属性；但它们本身不是自然属性。（或者，如果自然性有程度之分，它们远不如据以表达它们的各析取支自然。）（Langton and Lewis 1998: 61，作者强调）[^langton-1998]
+      > [所谓] **析取的** （disjunctive）属性[是指]那些可以由（诸）自然属性的析取（或诸自然属性的合取的析取）来表达的属性；但它们本身不是自然属性。（或者，如果自然性有程度之分，它们远不如据以表达它们的各析取支自然。）（Langton and Lewis 1998: 61，作者强调）[^langton-1998]
   - id: 179
     kind: body
     source: |-
       Secondly, they say a property is *basic intrinsic* iff it is non-disjunctive, is not the negation of a disjunctive property, and is independent of accompaniment. Finally, they say that (i) two objects are duplicates iff they share the same basic intrinsic properties, and (ii) $F$ is an intrinsic property iff two duplicates never differ with respect to it.
     step1: |-
-      第二步，他们说一个属性是**基本内在属性**，当且仅当它是非析取的、不是某析取属性的否定，且独立于有伴。最后，他们说 (i) 两个对象是复本，当且仅当它们共享相同的基本内在属性；(ii) $F$ 是内在属性，当且仅当两个复本就之从不相异。
+      第二步，他们说一个属性是 **基本内在属性**，当且仅当它是非析取的、不是某析取属性的否定，且独立于有伴。最后，他们说 (i) 两个对象是复本，当且仅当它们共享相同的基本内在属性；(ii) $F$ 是内在属性，当且仅当两个复本就之从不相异。
     step2: |-
-      第二步，他们说一个属性是**基本内在属性**（basic intrinsic），当且仅当它是非析取的、不是某析取属性的否定，且独立于有伴。最后，他们说 (i) 两个对象是复本，当且仅当它们共享相同的基本内在属性；(ii) $F$ 是内在属性，当且仅当两个复本就之从不相异。
+      第二步，他们说一个属性是 **基本内在属性** （basic intrinsic），当且仅当它是非析取的、不是某析取属性的否定，且独立于有伴。最后，他们说 (i) 两个对象是复本，当且仅当它们共享相同的基本内在属性；(ii) $F$ 是内在属性，当且仅当两个复本就之从不相异。
   - id: 180
     kind: body
     source: |-
@@ -1504,41 +1504,41 @@ segments:
     source: |-
       Langton and Lewis claim their account works given a variety of ways of understanding ‘natural’ and ‘more natural than’ in their analysis of ‘non-disjunctive’. In particular, they hold that the account will work if ‘natural’ is understood to express the notion of perfect naturalness, or fundamentality, in the Lewis (1986a) account, and ‘more natural than’ is understood to mean ‘is more fundamental than’. They also claim that the account will work if the natural properties are those taken to correspond to Armstrongian universals, or the properties expressed by the predicates in canonical formulations of physics, or the properties expressed by the predicates in canonical formulations of common-sense. Langton and Lewis say that it should not matter how we draw the distinction between natural and non-natural properties for present purposes, as long as we have it, and properties like *being lonely and round or accompanied and cubical* are not natural. As a result of this, Langton and Lewis think that their account is more neutral than Lewis’s earlier account and should therefore should appeal to a larger range of philosophers than the earlier account.
     step1: |-
-      Langton 与刘易斯声称，在其对"非析取的"的分析中，无论以何种方式理解"自然的"与"更自然的"，他们的说明都成立。特别是，他们主张：如果把"自然的"理解为表达刘易斯 1986a 说明中的完全自然性（或基础性）概念，且把"更自然的"理解为"比……更基本"，该说明就会成立。他们还主张：如果自然属性是那些被视为对应于阿姆斯特朗式共相的属性，或物理学标准表述中的谓词所表达的属性，或常识标准表述中的谓词所表达的属性，该说明也会成立。Langton 与刘易斯说，就当前目的而言，我们如何划出自然属性与非自然属性之分并不重要，只要我们划出了这一区分，而且像"孤立且圆形或有伴且立方"这样的属性不是自然的。因此，Langton 与刘易斯认为他们的说明比刘易斯早先的说明更中立，因而应当对更大范围的哲学家有吸引力。
+      Langton 与刘易斯声称，在其对“非析取的”的分析中，无论以何种方式理解“自然的”与“更自然的”，他们的说明都成立。特别是，他们主张：如果把“自然的”理解为表达刘易斯 1986a 说明中的完全自然性（或基础性）概念，且把“更自然的”理解为“比……更基本”，该说明就会成立。他们还主张：如果自然属性是那些被视为对应于阿姆斯特朗式共相的属性，或物理学标准表述中的谓词所表达的属性，或常识标准表述中的谓词所表达的属性，该说明也会成立。Langton 与刘易斯说，就当前目的而言，我们如何划出自然属性与非自然属性之分并不重要，只要我们划出了这一区分，而且像“孤立且圆形或有伴且立方”这样的属性不是自然的。因此，Langton 与刘易斯认为他们的说明比刘易斯早先的说明更中立，因而应当对更大范围的哲学家有吸引力。
     step2: |-
-      Langton 与刘易斯声称，在其对"非析取的"的分析中，无论以何种方式理解"自然的"（natural）与"更自然的"（more natural than），他们的说明都成立。特别是，他们主张：如果把"自然的"理解为表达刘易斯 1986a 说明中的完全自然性（或基础性）概念，且把"更自然的"理解为"比……更基本"，该说明就会成立。他们还主张：如果自然属性是那些被视为对应于阿姆斯特朗式共相（Armstrongian universals）的属性，或物理学标准表述中的谓词所表达的属性，或常识标准表述中的谓词所表达的属性，该说明也会成立。Langton 与刘易斯说，就当前目的而言，我们如何划出自然属性与非自然属性之分并不重要，只要我们划出了这一区分，而且像"孤立且圆形或有伴且立方"这样的属性不是自然的。因此，Langton 与刘易斯认为他们的说明比刘易斯早先的说明更中立，因而应当对更大范围的哲学家有吸引力。
+      Langton 与刘易斯声称，在其对“非析取的”的分析中，无论以何种方式理解“自然的”（natural）与“更自然的”（more natural than），他们的说明都成立。特别是，他们主张：如果把“自然的”理解为表达刘易斯 1986a 说明中的完全自然性（或基础性）概念，且把“更自然的”理解为“比……更基本”，该说明就会成立。他们还主张：如果自然属性是那些被视为对应于阿姆斯特朗式共相（Armstrongian universals）的属性，或物理学标准表述中的谓词所表达的属性，或常识标准表述中的谓词所表达的属性，该说明也会成立。Langton 与刘易斯说，就当前目的而言，我们如何划出自然属性与非自然属性之分并不重要，只要我们划出了这一区分，而且像“孤立且圆形或有伴且立方”这样的属性不是自然的。因此，Langton 与刘易斯认为他们的说明比刘易斯早先的说明更中立，因而应当对更大范围的哲学家有吸引力。
   - id: 184
     kind: body
     source: |-
       Langton and Lewis put forward their account as only an analysis of qualitative intrinsic properties, rather than intrinsic properties in general. Their account, however, arguably fails as an account of qualitative identity interior properties since, given numbers necessarily exist, it classifies being such that there is a number as intrinsic. Therefore, like the Lewis 1986a account, the Langton and Lewis account is arguably most charitably interpreted as an account of duplication preservation, or perhaps of qualitative metaphysical necessitation interiority.
     step1: |-
-      Langton 与刘易斯提出其说明时，把它当作只是对质性内在属性的分析，而非对一般内在属性的分析。然而，作为对质性同一内部属性的分析，他们的说明可以说失败了，因为（在数必然存在的条件下）它把"有数存在"归为内在的。因此，与刘易斯 1986a 的说明一样，Langton 与刘易斯的说明最宽厚的解读，或许是把它当作复制保持的说明，或质性形而上学必然化内部性的说明。
+      Langton 与刘易斯提出其说明时，把它当作只是对质性内在属性的分析，而非对一般内在属性的分析。然而，作为对质性同一内部属性的分析，他们的说明可以说失败了，因为（在数必然存在的条件下）它把“有数存在”归为内在的。因此，与刘易斯 1986a 的说明一样，Langton 与刘易斯的说明最宽厚的解读，或许是把它当作复制保持的说明，或质性形而上学必然化内部性的说明。
     step2: |-
-      Langton 与刘易斯提出其说明时，把它当作只是对质性内在属性的分析，而非对一般内在属性的分析。然而，作为对质性同一内部属性的分析，他们的说明可以说失败了，因为（在数必然存在的条件下）它把"有数存在"归为内在的。因此，与刘易斯 1986a 的说明一样，Langton 与刘易斯的说明最宽厚的解读，或许是把它当作复制保持的说明，或质性形而上学必然化内部性的说明。
+      Langton 与刘易斯提出其说明时，把它当作只是对质性内在属性的分析，而非对一般内在属性的分析。然而，作为对质性同一内部属性的分析，他们的说明可以说失败了，因为（在数必然存在的条件下）它把“有数存在”归为内在的。因此，与刘易斯 1986a 的说明一样，Langton 与刘易斯的说明最宽厚的解读，或许是把它当作复制保持的说明，或质性形而上学必然化内部性的说明。
   - id: 185
     kind: body
     source: |-
       In addition to failing to give an account of the standard account of intrinsicality, there are reasons to think that Langton and Lewis cannot be as neutral as they claim to be regarding what account of naturalness is combined with their account. As noted above, Langton and Lewis claim that their account of intrinsicality is compatible with any construal of naturalness on which the natural properties are those that play a special role in our thinking. On one such conception of naturalness, the natural properties include those properties for which we have simple words or concepts, which do not strike us as strange or odd, and on which we have relied in past inductions (Sider 2001: 362)[^sider-2001]. Given this conception of naturalness, the property of being a rock is a natural property, and hence is classified as intrinsic on the Langton and Lewis account. However, as Sider 2001 argues, being a rock is plausibly not an intrinsic property. Just as an object that is qualitatively intrinsically the same as a house and is a large part of a house is not itself a house, an object that is qualitatively intrinsically the same as a rock and is a large part of a rock is not itself a rock. Hence, whether something is a rock is partly a matter of what is the case outside of it. Hence, contra the combination of the Langton and Lewis account with the above conception of naturalness, being a rock is not intrinsic.
     step1: |-
-      除了未能给出标准内在性概念的说明之外，还有理由认为：就其说明与何种自然性说明相结合而言，Langton 与刘易斯并不能像他们声称的那样中立。如上所述，Langton 与刘易斯声称，他们的内在性说明与任何如下自然性解释都相容：自然属性是那些在我们的思维中起特殊作用的属性。在这样一种自然性构想下，自然属性包括那些我们有简单语词或概念、不让我们觉得奇怪诡异、且我们在过去归纳中依赖过的属性（Sider 2001: 362）[^sider-2001]。给定这一自然性构想，"是石头"是自然属性，因而在 Langton 与刘易斯的说明下被归为内在的。然而，正如 Sider 2001 所论证的，"是石头"可信地不是内在属性。正如一个对象，它与一座房子在质性上内在地相同、并且是房子的一个大大部分，它本身不是房子；一个对象，它与一块石头在质性上内在地相同、并且是石头的一个大部分，它本身也不是石头。于是，某物是否是石头，部分地关乎它之外的情况。因此，与 Langton 与刘易斯说明加上上述自然性构想的组合相反，"是石头"不是内在的。
+      除了未能给出标准内在性概念的说明之外，还有理由认为：就其说明与何种自然性说明相结合而言，Langton 与刘易斯并不能像他们声称的那样中立。如上所述，Langton 与刘易斯声称，他们的内在性说明与任何如下自然性解释都相容：自然属性是那些在我们的思维中起特殊作用的属性。在这样一种自然性构想下，自然属性包括那些我们有简单语词或概念、不让我们觉得奇怪诡异、且我们在过去归纳中依赖过的属性（Sider 2001: 362）[^sider-2001]。给定这一自然性构想，“是石头”是自然属性，因而在 Langton 与刘易斯的说明下被归为内在的。然而，正如 Sider 2001 所论证的，“是石头”可信地不是内在属性。正如一个对象，它与一座房子在质性上内在地相同、并且是房子的一个大大部分，它本身不是房子；一个对象，它与一块石头在质性上内在地相同、并且是石头的一个大部分，它本身也不是石头。于是，某物是否是石头，部分地关乎它之外的情况。因此，与 Langton 与刘易斯说明加上上述自然性构想的组合相反，“是石头”不是内在的。
     step2: |-
-      除了未能给出标准内在性概念的说明之外，还有理由认为：就其说明与何种自然性说明相结合而言，Langton 与刘易斯并不能像他们声称的那样中立。如上所述，Langton 与刘易斯声称，他们的内在性说明与任何如下自然性解释都相容：自然属性是那些在我们的思维中起特殊作用的属性。在这样一种自然性构想下，自然属性包括那些我们有简单语词或概念、不让我们觉得奇怪诡异、且我们在过去归纳中依赖过的属性（Sider 2001: 362）[^sider-2001]。给定这一自然性构想，"是石头"是自然属性，因而在 Langton 与刘易斯的说明下被归为内在的。然而，正如 Sider 2001 所论证的，"是石头"可信地不是内在属性。正如一个对象，它与一座房子在质性上内在地相同、并且是房子的一个大大部分，它本身不是房子；一个对象，它与一块石头在质性上内在地相同、并且是石头的一个大部分，它本身也不是石头。于是，某物是否是石头，部分地关乎它之外的情况。因此，与 Langton 与刘易斯说明加上上述自然性构想的组合相反，"是石头"不是内在的。
+      除了未能给出标准内在性概念的说明之外，还有理由认为：就其说明与何种自然性说明相结合而言，Langton 与刘易斯并不能像他们声称的那样中立。如上所述，Langton 与刘易斯声称，他们的内在性说明与任何如下自然性解释都相容：自然属性是那些在我们的思维中起特殊作用的属性。在这样一种自然性构想下，自然属性包括那些我们有简单语词或概念、不让我们觉得奇怪诡异、且我们在过去归纳中依赖过的属性（Sider 2001: 362）[^sider-2001]。给定这一自然性构想，“是石头”是自然属性，因而在 Langton 与刘易斯的说明下被归为内在的。然而，正如 Sider 2001 所论证的，“是石头”可信地不是内在属性。正如一个对象，它与一座房子在质性上内在地相同、并且是房子的一个大大部分，它本身不是房子；一个对象，它与一块石头在质性上内在地相同、并且是石头的一个大部分，它本身也不是石头。于是，某物是否是石头，部分地关乎它之外的情况。因此，与 Langton 与刘易斯说明加上上述自然性构想的组合相反，“是石头”不是内在的。
   - id: 186
     kind: body
     source: |-
       Another objection to the Langton and Lewis account is that there appear to be counterexamples to the account, even given Lewis’s favoured conception of naturalness. On this conception, the perfectly natural properties and relations are the fundamental properties and relations, and a property $p$ is more natural than a property $q$ iff the shortest definition of $p$ in terms of the perfectly natural properties and relations is shorter than the shortest definition of $q$ in terms of the perfectly natural properties and relations. (See (Lewis 1986: 61).) As Marshall and Parsons 2001 argue, given this construal of naturalness, the property of being such that there is a cube appears to be neither a disjunctive property nor the negation of a disjunctive property according to Langton and Lewis’s account of disjunctivity. If this is the case, however, then, since being such that there is a cube is independent of accompaniment, the Langton and Lewis account classifies this property as a basic intrinsic property, and hence classifies it as an intrinsic property. This property, however, is clearly not intrinsic.
     step1: |-
-      对 Langton 与刘易斯说明的另一个反驳是：即使按刘易斯偏好的自然性构想，也似乎存在该说明的反例。在这一构想下，完全自然的属性与关系是基本的属性与关系，且属性 $p$ 比属性 $q$ 更自然，当且仅当 $p$ 依据完全自然属性与关系的最短定义，短于 $q$ 依据完全自然属性与关系的最短定义。（见 Lewis 1986: 61。）正如 Marshall 与 Parsons 2001 所论证的，给定这一自然性解释，"存在一个立方体"这一属性，按 Langton 与刘易斯的析取性说明，似乎既不是析取属性，也不是析取属性的否定。然而如果情况如此，那么既然"存在一个立方体"独立于有伴，Langton 与刘易斯的说明就会把这一属性归为基本内在属性，从而归为内在属性。然而这一属性显然不是内在的。
+      对 Langton 与刘易斯说明的另一个反驳是：即使按刘易斯偏好的自然性构想，也似乎存在该说明的反例。在这一构想下，完全自然的属性与关系是基本的属性与关系，且属性 $p$ 比属性 $q$ 更自然，当且仅当 $p$ 依据完全自然属性与关系的最短定义，短于 $q$ 依据完全自然属性与关系的最短定义。（见 Lewis 1986: 61。）正如 Marshall 与 Parsons 2001 所论证的，给定这一自然性解释，“存在一个立方体”这一属性，按 Langton 与刘易斯的析取性说明，似乎既不是析取属性，也不是析取属性的否定。然而如果情况如此，那么既然“存在一个立方体”独立于有伴，Langton 与刘易斯的说明就会把这一属性归为基本内在属性，从而归为内在属性。然而这一属性显然不是内在的。
     step2: |-
-      对 Langton 与刘易斯说明的另一个反驳是：即使按刘易斯偏好的自然性构想，也似乎存在该说明的反例。在这一构想下，完全自然的属性与关系是基本的属性与关系，且属性 $p$ 比属性 $q$ 更自然，当且仅当 $p$ 依据完全自然属性与关系的最短定义，短于 $q$ 依据完全自然属性与关系的最短定义。（见 Lewis 1986: 61。）正如 Marshall 与 Parsons 2001 所论证的，给定这一自然性解释，"存在一个立方体"这一属性，按 Langton 与刘易斯的析取性说明，似乎既不是析取属性，也不是析取属性的否定。然而如果情况如此，那么既然"存在一个立方体"独立于有伴，Langton 与刘易斯的说明就会把这一属性归为基本内在属性，从而归为内在属性。然而这一属性显然不是内在的。
+      对 Langton 与刘易斯说明的另一个反驳是：即使按刘易斯偏好的自然性构想，也似乎存在该说明的反例。在这一构想下，完全自然的属性与关系是基本的属性与关系，且属性 $p$ 比属性 $q$ 更自然，当且仅当 $p$ 依据完全自然属性与关系的最短定义，短于 $q$ 依据完全自然属性与关系的最短定义。（见 Lewis 1986: 61。）正如 Marshall 与 Parsons 2001 所论证的，给定这一自然性解释，“存在一个立方体”这一属性，按 Langton 与刘易斯的析取性说明，似乎既不是析取属性，也不是析取属性的否定。然而如果情况如此，那么既然“存在一个立方体”独立于有伴，Langton 与刘易斯的说明就会把这一属性归为基本内在属性，从而归为内在属性。然而这一属性显然不是内在的。
   - id: 187
     kind: body
     source: |-
       Langton and Lewis 2001 have responded to this objection by claiming that being such that there is a cube is less natural than both being a cube and being accompanied by a cube, since (I) being such that there is a cube can be expressed as the disjunction ‘being either a cube or accompanied by a cube’, (II) disjoining unrelated properties always reduces naturalness, and (III) being a cube and being accompanied by a cube are unrelated properties. One problem with this response is that it is not obvious why (II) is meant to be true given Lewis’s favoured conception of naturalness above, or what other notion of naturalness it might be true of. A second problem with the response is that, even granting (II) is true, it is not clear what it is for two properties to be unrelated in the sense that is at issue in (II), and hence it is not clear why being a cube and being accompanied by a cube are meant to be unrelated. For further discussion of attempts to analyse intrinsicality in terms of non-disjunctivity, see the supplementary document:
     step1: |-
-      Langton 与刘易斯 2001 对这一反驳的回应是主张："存在一个立方体"不如"是立方体"与"有立方体相伴"自然，理由是 (I) "存在一个立方体"可以表达为析取式"是立方体或有立方体相伴"，(II) 析取不相关的属性总是降低自然性，(III) "是立方体"与"有立方体相伴"是不相关的属性。这一回应的一个问题是：给定上文刘易斯偏好的自然性构想，为什么 (II) 应当为真并不明显，或者它对哪种其他自然性概念为真也不清楚。第二个问题是：即便承认 (II) 为真，两个属性在 (II) 所涉意义上"不相关"是什么意思也不清楚，因此"是立方体"与"有立方体相伴"为何应当不相关也不清楚。关于以非析取性分析内在性的尝试的进一步讨论，见补充文档：
+      Langton 与刘易斯 2001 对这一反驳的回应是主张：“存在一个立方体”不如“是立方体”与“有立方体相伴”自然，理由是 (I) “存在一个立方体”可以表达为析取式“是立方体或有立方体相伴”，(II) 析取不相关的属性总是降低自然性，(III) “是立方体”与“有立方体相伴”是不相关的属性。这一回应的一个问题是：给定上文刘易斯偏好的自然性构想，为什么 (II) 应当为真并不明显，或者它对哪种其他自然性概念为真也不清楚。第二个问题是：即便承认 (II) 为真，两个属性在 (II) 所涉意义上“不相关”是什么意思也不清楚，因此“是立方体”与“有立方体相伴”为何应当不相关也不清楚。关于以非析取性分析内在性的尝试的进一步讨论，见补充文档：
     step2: |-
-      Langton 与刘易斯 2001 对这一反驳的回应是主张："存在一个立方体"不如"是立方体"与"有立方体相伴"自然，理由是 (I) "存在一个立方体"可以表达为析取式"是立方体或有立方体相伴"，(II) 析取不相关的属性总是降低自然性，(III) "是立方体"与"有立方体相伴"是不相关的属性。这一回应的一个问题是：给定上文刘易斯偏好的自然性构想，为什么 (II) 应当为真并不明显，或者它对哪种其他自然性概念为真也不清楚。第二个问题是：即便承认 (II) 为真，两个属性在 (II) 所涉意义上"不相关"是什么意思也不清楚，因此"是立方体"与"有立方体相伴"为何应当不相关也不清楚。关于以非析取性分析内在性的尝试的进一步讨论，见补充文档：
+      Langton 与刘易斯 2001 对这一反驳的回应是主张：“存在一个立方体”不如“是立方体”与“有立方体相伴”自然，理由是 (I) “存在一个立方体”可以表达为析取式“是立方体或有立方体相伴”，(II) 析取不相关的属性总是降低自然性，(III) “是立方体”与“有立方体相伴”是不相关的属性。这一回应的一个问题是：给定上文刘易斯偏好的自然性构想，为什么 (II) 应当为真并不明显，或者它对哪种其他自然性概念为真也不清楚。第二个问题是：即便承认 (II) 为真，两个属性在 (II) 所涉意义上“不相关”是什么意思也不清楚，因此“是立方体”与“有立方体相伴”为何应当不相关也不清楚。关于以非析取性分析内在性的尝试的进一步讨论，见补充文档：
   - id: 188
     kind: body
     source: |-
@@ -1568,9 +1568,9 @@ segments:
     source: |-
       Vallentyne defines a *contraction* of a world as “a world ‘obtainable’ from the original one solely by ‘removing’ objects from it.” (211) As a special case of this, an $x-t$ contraction, where $x$ is an object and $t$ a time, is “a world ‘obtainable’ from the original one by, to the greatest extent possible, ‘removing’ all objects wholly distinct from $x$, all spatial locations not occupied by $x$, and all times (temporal states of the world) except $t$, from the world”, as well as all laws of nature from the world. (211) Vallentyne claims that $F$ is intrinsic iff, for any thing $x$, for any time $t$, and for any worlds $u$ and $w$ such that $u$ is an $x-t$ contraction of $w, x$ has $F$ at $t$ at $u$ iff $x$ has $F$ at $t$ at $w$. In short, a property is intrinsic to an object iff removing the rest of the world doesn’t change whether the object has the property. Vallentyne’s account classifies identity properties, like being Obama, as intrinsic. It is therefore best seen as an account of interiority. The account also classifies all indiscriminately necessary properties as intrinsic. It is therefore arguably most charitably interpreted as an account of metaphysical necessitation interiority
     step1: |-
-      Vallentyne 把一个世界的**收缩**定义为"仅凭从原世界中移除对象而得到的世界"。(211) 作为其特例，$x-t$ 收缩（其中 $x$ 是一个对象，$t$ 是一个时间）是"在最大可能程度上，通过从世界中移除所有完全相异于 $x$ 的对象、所有未被 $x$ 占据的空间位置、以及除 $t$ 外的所有时间（世界的时间状态）而从原世界得到的世界"，外加移除世界中所有自然律。(211) Vallentyne 主张：$F$ 是内在的，当且仅当对任意东西 $x$、任意时间 $t$，以及任意世界 $u$ 与 $w$，若 $u$ 是 $w$ 的 $x-t$ 收缩，则 $x$ 在 $t$ 于 $u$ 具有 $F$，当且仅当其在 $t$ 于 $w$ 具有 $F$。简言之，一个属性对一个对象是内在的，当且仅当移除世界其余部分不会改变该对象是否具有该属性。Vallentyne 的说明把同一属性（如"是奥巴马"）归为内在的，因此最好被看作内部性的说明。该说明还把所有无差别必然属性归为内在的，因此最宽厚的解读或许是把它当作形而上学必然化内部性的说明
+      Vallentyne 把一个世界的 **收缩** 定义为“仅凭从原世界中移除对象而得到的世界”。(211) 作为其特例，$x-t$ 收缩（其中 $x$ 是一个对象，$t$ 是一个时间）是“在最大可能程度上，通过从世界中移除所有完全相异于 $x$ 的对象、所有未被 $x$ 占据的空间位置、以及除 $t$ 外的所有时间（世界的时间状态）而从原世界得到的世界”，外加移除世界中所有自然律。(211) Vallentyne 主张：$F$ 是内在的，当且仅当对任意东西 $x$、任意时间 $t$，以及任意世界 $u$ 与 $w$，若 $u$ 是 $w$ 的 $x-t$ 收缩，则 $x$ 在 $t$ 于 $u$ 具有 $F$，当且仅当其在 $t$ 于 $w$ 具有 $F$。简言之，一个属性对一个对象是内在的，当且仅当移除世界其余部分不会改变该对象是否具有该属性。Vallentyne 的说明把同一属性（如“是奥巴马”）归为内在的，因此最好被看作内部性的说明。该说明还把所有无差别必然属性归为内在的，因此最宽厚的解读或许是把它当作形而上学必然化内部性的说明
     step2: |-
-      Vallentyne 把一个世界的**收缩**（contraction）定义为"仅凭从原世界中移除对象而得到的世界"。(211) 作为其特例，$x-t$ 收缩（其中 $x$ 是一个对象，$t$ 是一个时间）是"在最大可能程度上，通过从世界中移除所有完全相异于 $x$ 的对象、所有未被 $x$ 占据的空间位置、以及除 $t$ 外的所有时间（世界的时间状态）而从原世界得到的世界"，外加移除世界中所有自然律。(211) Vallentyne 主张：$F$ 是内在的，当且仅当对任意东西 $x$、任意时间 $t$，以及任意世界 $u$ 与 $w$，若 $u$ 是 $w$ 的 $x-t$ 收缩，则 $x$ 在 $t$ 于 $u$ 具有 $F$，当且仅当其在 $t$ 于 $w$ 具有 $F$。简言之，一个属性对一个对象是内在的，当且仅当移除世界其余部分不会改变该对象是否具有该属性。Vallentyne 的说明把同一属性（如"是奥巴马"）归为内在的，因此最好被看作内部性的说明。该说明还把所有无差别必然属性归为内在的，因此最宽厚的解读或许是把它当作形而上学必然化内部性的说明
+      Vallentyne 把一个世界的 **收缩** （contraction）定义为“仅凭从原世界中移除对象而得到的世界”。(211) 作为其特例，$x-t$ 收缩（其中 $x$ 是一个对象，$t$ 是一个时间）是“在最大可能程度上，通过从世界中移除所有完全相异于 $x$ 的对象、所有未被 $x$ 占据的空间位置、以及除 $t$ 外的所有时间（世界的时间状态）而从原世界得到的世界”，外加移除世界中所有自然律。(211) Vallentyne 主张：$F$ 是内在的，当且仅当对任意东西 $x$、任意时间 $t$，以及任意世界 $u$ 与 $w$，若 $u$ 是 $w$ 的 $x-t$ 收缩，则 $x$ 在 $t$ 于 $u$ 具有 $F$，当且仅当其在 $t$ 于 $w$ 具有 $F$。简言之，一个属性对一个对象是内在的，当且仅当移除世界其余部分不会改变该对象是否具有该属性。Vallentyne 的说明把同一属性（如“是奥巴马”）归为内在的，因此最好被看作内部性的说明。该说明还把所有无差别必然属性归为内在的，因此最宽厚的解读或许是把它当作形而上学必然化内部性的说明
   - id: 192
     kind: body
     source: |-
@@ -1584,17 +1584,17 @@ segments:
     source: |-
       This criticism might be too quick. Stephen Yablo (1999) has argued that Vallentyne should best be understood as working within a very different metaphysical framework than Lewis. For Lewis, no (ordinary) object exists at more than one world, so Vallentyne’s contractions, being separate worlds, must contain separate objects. Hence $x-t$ contractions can be nothing other than lonely duplicates, and the theory is trivial. Yablo suggests that the theory becomes substantive relative to a metaphysical background in which the very same object can appear in different worlds. If this is the case then we can get a grip on contractions without thinking about duplications — the $x-t$ contraction of a world is the world that contains $x$ itself, and as few other things as possible.
     step1: |-
-      这一批评可能过快了。斯蒂芬·雅布洛 1999 论证说，对 Vallentyne 的最好理解是：他在一个与刘易斯非常不同的形而上学框架内工作。对刘易斯而言，没有（日常）对象存在于多于一个世界，因此 Vallentyne 的收缩作为单独的世界，必须包含单独的对象。于是 $x-t$ 收缩只能是孤立复本，理论是平凡的。雅布洛建议：相对于"同一个对象可以出现于不同世界"这一形而上学背景，该理论变得实质。如果情况如此，那么我们无需考虑复制就能把握收缩——一个世界的 $x-t$ 收缩就是包含 $x$ 自身、且包含尽可能少其他东西的世界。
+      这一批评可能过快了。斯蒂芬·雅布洛 1999 论证说，对 Vallentyne 的最好理解是：他在一个与刘易斯非常不同的形而上学框架内工作。对刘易斯而言，没有（日常）对象存在于多于一个世界，因此 Vallentyne 的收缩作为单独的世界，必须包含单独的对象。于是 $x-t$ 收缩只能是孤立复本，理论是平凡的。雅布洛建议：相对于“同一个对象可以出现于不同世界”这一形而上学背景，该理论变得实质。如果情况如此，那么我们无需考虑复制就能把握收缩——一个世界的 $x-t$ 收缩就是包含 $x$ 自身、且包含尽可能少其他东西的世界。
     step2: |-
-      这一批评可能过快了。斯蒂芬·雅布洛（Yablo 1999）论证说，对 Vallentyne 的最好理解是：他在一个与刘易斯非常不同的形而上学框架内工作。对刘易斯而言，没有（日常）对象存在于多于一个世界，因此 Vallentyne 的收缩作为单独的世界，必须包含单独的对象。于是 $x-t$ 收缩只能是孤立复本，理论是平凡的。雅布洛建议：相对于"同一个对象可以出现于不同世界"这一形而上学背景，该理论变得实质。如果情况如此，那么我们无需考虑复制就能把握收缩——一个世界的 $x-t$ 收缩就是包含 $x$ 自身、且包含尽可能少其他东西的世界。
+      这一批评可能过快了。斯蒂芬·雅布洛（Yablo 1999）论证说，对 Vallentyne 的最好理解是：他在一个与刘易斯非常不同的形而上学框架内工作。对刘易斯而言，没有（日常）对象存在于多于一个世界，因此 Vallentyne 的收缩作为单独的世界，必须包含单独的对象。于是 $x-t$ 收缩只能是孤立复本，理论是平凡的。雅布洛建议：相对于“同一个对象可以出现于不同世界”这一形而上学背景，该理论变得实质。如果情况如此，那么我们无需考虑复制就能把握收缩——一个世界的 $x-t$ 收缩就是包含 $x$ 自身、且包含尽可能少其他东西的世界。
   - id: 194
     kind: body
     source: |-
       There are, however, problems with Yablo’s defense of Vallentyne’s contractionist approach to intrinsicality. One problem, discussed in Parsons 2007 and Marshall 2014, is that, on Yablo’s version of contractionism, we need to be able to make sense of sentences like ‘In $w$, Prince Philip is not a husband’, where $w$ is the world consisting of just Prince Philip. Making sense of such sentences, however, is difficult without appealing to the distinction between intrinsic and non-intrinsic properties. Appealing to this distinction when interpreting Yablo’s account, however, would render it circular.
     step1: |-
-      然而，雅布洛对 Vallentyne 收缩论路径的辩护存在问题。其中一个问题（Parsons 2007 与 Marshall 2014 有所讨论）是：在雅布洛版本的收缩论下，我们需要能够理解诸如"在 $w$ 中，菲利普亲王不是丈夫"这样的语句，其中 $w$ 是仅由菲利普亲王组成的世界。然而，不诉诸内在属性与非内在属性之分，就很难理解这样的语句。而在解读雅布洛的说明时诉诸这一区分，又会使其循环。
+      然而，雅布洛对 Vallentyne 收缩论路径的辩护存在问题。其中一个问题（Parsons 2007 与 Marshall 2014 有所讨论）是：在雅布洛版本的收缩论下，我们需要能够理解诸如“在 $w$ 中，菲利普亲王不是丈夫”这样的语句，其中 $w$ 是仅由菲利普亲王组成的世界。然而，不诉诸内在属性与非内在属性之分，就很难理解这样的语句。而在解读雅布洛的说明时诉诸这一区分，又会使其循环。
     step2: |-
-      然而，雅布洛对 Vallentyne 收缩论路径的辩护存在问题。其中一个问题（Parsons 2007 与 Marshall 2014 有所讨论）是：在雅布洛版本的收缩论下，我们需要能够理解诸如"在 $w$ 中，菲利普亲王不是丈夫"这样的语句，其中 $w$ 是仅由菲利普亲王组成的世界。然而，不诉诸内在属性与非内在属性之分，就很难理解这样的语句。而在解读雅布洛的说明时诉诸这一区分，又会使其循环。
+      然而，雅布洛对 Vallentyne 收缩论路径的辩护存在问题。其中一个问题（Parsons 2007 与 Marshall 2014 有所讨论）是：在雅布洛版本的收缩论下，我们需要能够理解诸如“在 $w$ 中，菲利普亲王不是丈夫”这样的语句，其中 $w$ 是仅由菲利普亲王组成的世界。然而，不诉诸内在属性与非内在属性之分，就很难理解这样的语句。而在解读雅布洛的说明时诉诸这一区分，又会使其循环。
   - id: 195
     kind: body
     source: |-
@@ -1624,9 +1624,9 @@ segments:
     source: |-
       The state of affairs of it being the case that $A$ is grounded by the state of affairs of it being the case that $B$ iff $A$ in virtue of it being the case that $B$, where the relevant notion of “in virtue” is meant to be a metaphysically explanatory one. Grounding is supposed to be a metaphysical analogue of causation: just as causation is what connects the explanans of an explanation with its explanandum in causal explanation, grounding is meant to be what connects the explanans of an explanation with its explanandum in metaphysical explanation. An example of a metaphysical explanation would be an explanation of why a certain type of act is wrong in terms of more fundamental moral facts.
     step1: |-
-      "$A$ 得以成立"的事态被"$B$ 得以成立"的事态所奠基，当且仅当 $A$ 凭借 $B$ 得以成立，其中相关的"凭借"概念意在作形而上学解释性的理解。奠基被当作因果的形而上学类似物：正如因果说明中因果把说明项与被说明项联系起来，奠基意在形而上学说明中把说明项与被说明项联系起来。形而上学说明的一个例子是：以更基本的道德事实来说明某类行为为何是错的。
+      “$A$ 得以成立”的事态被“$B$ 得以成立”的事态所奠基，当且仅当 $A$ 凭借 $B$ 得以成立，其中相关的“凭借”概念意在作形而上学解释性的理解。奠基被当作因果的形而上学类似物：正如因果说明中因果把说明项与被说明项联系起来，奠基意在形而上学说明中把说明项与被说明项联系起来。形而上学说明的一个例子是：以更基本的道德事实来说明某类行为为何是错的。
     step2: |-
-      "$A$ 得以成立"的事态被"$B$ 得以成立"的事态所奠基，当且仅当 $A$ 凭借 $B$ 得以成立，其中相关的"凭借"概念意在作形而上学解释性的理解。奠基（grounding）被当作因果的形而上学类似物：正如因果说明中因果把说明项（explanans）与被说明项（explanandum）联系起来，奠基意在形而上学说明中把说明项与被说明项联系起来。形而上学说明的一个例子是：以更基本的道德事实来说明某类行为为何是错的。
+      “$A$ 得以成立”的事态被“$B$ 得以成立”的事态所奠基，当且仅当 $A$ 凭借 $B$ 得以成立，其中相关的“凭借”概念意在作形而上学解释性的理解。奠基（grounding）被当作因果的形而上学类似物：正如因果说明中因果把说明项（explanans）与被说明项（explanandum）联系起来，奠基意在形而上学说明中把说明项与被说明项联系起来。形而上学说明的一个例子是：以更基本的道德事实来说明某类行为为何是错的。
   - id: 199
     kind: body
     source: |-
@@ -1648,9 +1648,9 @@ segments:
     source: |-
       Given the negation of the ascription of being Obama to Clinton is grounded by the negation of the ascription of identity to Obama and Clinton (a claim plausibly required by Rosen’s account) the account classifies being Obama as non-intrinsic since Obama is not part of Clinton. The analysis also classifies intuitively non-intrinsic indiscriminately necessary properties, such as the property of being such that there is a number, as non-intrinsic. Being such that there is a number is classified as non-intrinsic by the account since, for example, its ascription to Obama is grounded by the fact that 2 is a number, which has a constituent, namely the number 2, that is not part of Obama. These consequences of the account suggest that it is best thought of as an account of the distinction between local and non-local properties.
     step1: |-
-      既然"是奥巴马"对克林顿的归予之否定被"同一"对奥巴马与克林顿的归予之否定所奠基（Rosen 的说明可信地要求这一主张），该说明把"是奥巴马"归为非内在的，因为奥巴马不是克林顿的部分。这一分析还把直观上非内在的无差别必然属性（如"有数存在"）归为非内在的。"有数存在"被该说明归为非内在，因为例如它对奥巴马的归予被"2 是一个数"这一事实奠基，而该事实有一个成分——即数 2——它不是奥巴马的部分。该说明的这些推论提示：最好把它看作关于局部属性与非局部属性之分的说明。
+      既然“是奥巴马”对克林顿的归予之否定被“同一”对奥巴马与克林顿的归予之否定所奠基（Rosen 的说明可信地要求这一主张），该说明把“是奥巴马”归为非内在的，因为奥巴马不是克林顿的部分。这一分析还把直观上非内在的无差别必然属性（如“有数存在”）归为非内在的。“有数存在”被该说明归为非内在，因为例如它对奥巴马的归予被“2 是一个数”这一事实奠基，而该事实有一个成分——即数 2——它不是奥巴马的部分。该说明的这些推论提示：最好把它看作关于局部属性与非局部属性之分的说明。
     step2: |-
-      既然"是奥巴马"对克林顿的归予之否定被"同一"对奥巴马与克林顿的归予之否定所奠基（Rosen 的说明可信地要求这一主张），该说明把"是奥巴马"归为非内在的，因为奥巴马不是克林顿的部分。这一分析还把直观上非内在的无差别必然属性（如"有数存在"）归为非内在的。"有数存在"被该说明归为非内在，因为例如它对奥巴马的归予被"2 是一个数"这一事实奠基，而该事实有一个成分——即数 2——它不是奥巴马的部分。该说明的这些推论提示：最好把它看作关于局部属性与非局部属性之分的说明。
+      既然“是奥巴马”对克林顿的归予之否定被“同一”对奥巴马与克林顿的归予之否定所奠基（Rosen 的说明可信地要求这一主张），该说明把“是奥巴马”归为非内在的，因为奥巴马不是克林顿的部分。这一分析还把直观上非内在的无差别必然属性（如“有数存在”）归为非内在的。“有数存在”被该说明归为非内在，因为例如它对奥巴马的归予被“2 是一个数”这一事实奠基，而该事实有一个成分——即数 2——它不是奥巴马的部分。该说明的这些推论提示：最好把它看作关于局部属性与非局部属性之分的说明。
   - id: 202
     kind: body
     source: |-
@@ -1664,9 +1664,9 @@ segments:
     source: |-
       To consider an example of such a grounding relationship, let us assume that standard set theory is necessarily true, and that existence is a local property. (If one thinks that existence is not a local property, perhaps because one thinks that existence is the non-local quantificational property of being such that, among all the things there are, there is something that is identical to one, replace existence with the property of being such that, among all the parts of one, there is something identical to one, which is intuitively local.) Let us also assume the common (though not universal) view that members of sets are not literally parts of those sets. (See Lewis (1986a) for an example of a prominent theory of sets that denies members of sets are parts of those sets.) Given these assumptions, it is plausible that the fact that $\{Obama\}$ exists is grounded by the fact that Obama exists. However, if this is correct, then, since the fact that Obama exists has a constituent that is not part of $\{Obama\}$, it follows that Rosen’s account falsely classifies existence as a non-local property.
     step1: |-
-      为考虑这样一个奠基关系的例子，让我们假定标准集合论必然为真，且存在是局部属性。（如果有人认为存在不是局部属性——也许因为他认为存在是非局部的量化属性"是如此这般的：在所有存在的东西中，有某物等同于我"——就把存在替换为"是如此这般的：在我的所有部分中，有某物等同于我"这一属性，它直观上是局部的。）让我们再假定一个通行（虽非普遍）的观点：集合的元素并非字面上是那些集合的部分。（关于否认集合元素是集合之部分的著名理论之例，见 Lewis 1986a。）给定这些假设，可信的是："$\{Obama\}$ 存在"这一事实被"奥巴马存在"这一事实奠基。然而，如果这是正确的，那么既然"奥巴马存在"这一事实有一个不是 $\{Obama\}$ 之部分的成分，Rosen 的说明就错误地把存在归为非局部属性。
+      为考虑这样一个奠基关系的例子，让我们假定标准集合论必然为真，且存在是局部属性。（如果有人认为存在不是局部属性——也许因为他认为存在是非局部的量化属性“是如此这般的：在所有存在的东西中，有某物等同于我”——就把存在替换为“是如此这般的：在我的所有部分中，有某物等同于我”这一属性，它直观上是局部的。）让我们再假定一个通行（虽非普遍）的观点：集合的元素并非字面上是那些集合的部分。（关于否认集合元素是集合之部分的著名理论之例，见 Lewis 1986a。）给定这些假设，可信的是：“$\{Obama\}$ 存在”这一事实被“奥巴马存在”这一事实奠基。然而，如果这是正确的，那么既然“奥巴马存在”这一事实有一个不是 $\{Obama\}$ 之部分的成分，Rosen 的说明就错误地把存在归为非局部属性。
     step2: |-
-      为考虑这样一个奠基关系的例子，让我们假定标准集合论必然为真，且存在（existence）是局部属性。（如果有人认为存在不是局部属性——也许因为他认为存在是非局部的量化属性"是如此这般的：在所有存在的东西中，有某物等同于我"——就把存在替换为"是如此这般的：在我的所有部分中，有某物等同于我"这一属性，它直观上是局部的。）让我们再假定一个通行（虽非普遍）的观点：集合的元素并非字面上是那些集合的部分。（关于否认集合元素是集合之部分的著名理论之例，见 Lewis 1986a。）给定这些假设，可信的是："$\{Obama\}$ 存在"这一事实被"奥巴马存在"这一事实奠基。然而，如果这是正确的，那么既然"奥巴马存在"这一事实有一个不是 $\{Obama\}$ 之部分的成分，Rosen 的说明就错误地把存在归为非局部属性。
+      为考虑这样一个奠基关系的例子，让我们假定标准集合论必然为真，且存在（existence）是局部属性。（如果有人认为存在不是局部属性——也许因为他认为存在是非局部的量化属性“是如此这般的：在所有存在的东西中，有某物等同于我”——就把存在替换为“是如此这般的：在我的所有部分中，有某物等同于我”这一属性，它直观上是局部的。）让我们再假定一个通行（虽非普遍）的观点：集合的元素并非字面上是那些集合的部分。（关于否认集合元素是集合之部分的著名理论之例，见 Lewis 1986a。）给定这些假设，可信的是：“$\{Obama\}$ 存在”这一事实被“奥巴马存在”这一事实奠基。然而，如果这是正确的，那么既然“奥巴马存在”这一事实有一个不是 $\{Obama\}$ 之部分的成分，Rosen 的说明就错误地把存在归为非局部属性。
   - id: 204
     kind: body
     source: |-
@@ -1688,9 +1688,9 @@ segments:
     source: |-
       $x$ ontologically depends on $y$ iff the fact that $y$ exists at least partly grounds the fact that $x$ exists.
     step1: |-
-      $x$ 本体论地依赖于 $y$，当且仅当"$y$ 存在"这一事实至少部分地奠基"$x$ 存在"这一事实。
+      $x$ 本体论地依赖于 $y$，当且仅当“$y$ 存在”这一事实至少部分地奠基“$x$ 存在”这一事实。
     step2: |-
-      $x$ 本体论地依赖于 $y$，当且仅当"$y$ 存在"这一事实至少部分地奠基"$x$ 存在"这一事实。
+      $x$ 本体论地依赖于 $y$，当且仅当“$y$ 存在”这一事实至少部分地奠基“$x$ 存在”这一事实。
   - id: 207
     kind: body
     source: |-
@@ -1720,9 +1720,9 @@ segments:
     source: |-
       This modified version of Rosen’s account appears to correctly classify existence as a local property given the above metaphysical theses. Given these metaphysical theses, however, it arguably ends up classifying too many properties as local. For example, given the above theses, it appears to classify the property of having a member as a local property. It does this, since, given the above metaphysical theses, necessarily, if $x$ has a member, then the fact that $x$ has a member is plausibly grounded by the fact that $y$ is a member of $x$, where $y$ is some member of $x$, and where $x$ is ontologically dependent on $y$. Provided members of sets aren’t parts of those sets, however, the property of having a member appears to be just as non-local as the property of having something be two meters away from one.
     step1: |-
-      给定上述形而上学论题，Rosen 说明的这一修改版似乎正确地把存在归为局部属性。然而，给定这些形而上学论题，它可以说最终把太多属性归为局部的。例如，给定上述论题，它似乎把"有一个元素"这一属性归为局部属性。它这样做是因为：给定上述形而上学论题，必然地，如果 $x$ 有一个元素，那么"$x$ 有一个元素"这一事实可信地被"$y$ 是 $x$ 的元素"这一事实奠基，其中 $y$ 是 $x$ 的某个元素，且 $x$ 本体论地依赖于 $y$。然而，只要集合的元素不是那些集合的部分，"有一个元素"这一属性看起来就与"有某物距我两米"这一属性一样是非局部的。
+      给定上述形而上学论题，Rosen 说明的这一修改版似乎正确地把存在归为局部属性。然而，给定这些形而上学论题，它可以说最终把太多属性归为局部的。例如，给定上述论题，它似乎把“有一个元素”这一属性归为局部属性。它这样做是因为：给定上述形而上学论题，必然地，如果 $x$ 有一个元素，那么“$x$ 有一个元素”这一事实可信地被“$y$ 是 $x$ 的元素”这一事实奠基，其中 $y$ 是 $x$ 的某个元素，且 $x$ 本体论地依赖于 $y$。然而，只要集合的元素不是那些集合的部分，“有一个元素”这一属性看起来就与“有某物距我两米”这一属性一样是非局部的。
     step2: |-
-      给定上述形而上学论题，Rosen 说明的这一修改版似乎正确地把存在归为局部属性。然而，给定这些形而上学论题，它可以说最终把太多属性归为局部的。例如，给定上述论题，它似乎把"有一个元素"这一属性归为局部属性。它这样做是因为：给定上述形而上学论题，必然地，如果 $x$ 有一个元素，那么"$x$ 有一个元素"这一事实可信地被"$y$ 是 $x$ 的元素"这一事实奠基，其中 $y$ 是 $x$ 的某个元素，且 $x$ 本体论地依赖于 $y$。然而，只要集合的元素不是那些集合的部分，"有一个元素"这一属性看起来就与"有某物距我两米"这一属性一样是非局部的。
+      给定上述形而上学论题，Rosen 说明的这一修改版似乎正确地把存在归为局部属性。然而，给定这些形而上学论题，它可以说最终把太多属性归为局部的。例如，给定上述论题，它似乎把“有一个元素”这一属性归为局部属性。它这样做是因为：给定上述形而上学论题，必然地，如果 $x$ 有一个元素，那么“$x$ 有一个元素”这一事实可信地被“$y$ 是 $x$ 的元素”这一事实奠基，其中 $y$ 是 $x$ 的某个元素，且 $x$ 本体论地依赖于 $y$。然而，只要集合的元素不是那些集合的部分，“有一个元素”这一属性看起来就与“有某物距我两米”这一属性一样是非局部的。
   - id: 211
     kind: oir
     source: |-

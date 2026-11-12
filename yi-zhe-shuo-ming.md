@@ -1768,6 +1768,7 @@
 | European integration | — | 欧洲一体化 | s/sovereignty 首译 | 学界通行译名（欧洲研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | euthanasia | — | 安乐死 | euthanasia-voluntary 首译 | 学界通行汉译（SUMMARY 词条定名；旧译“安死术”不取） | 2026-11-11 |
 | euthymia | εὐθυμία | 愉快 | democritus | 学界通行（德谟克利特伦理核心词，良好心境；亦作“明朗”） | 2026-11-06 |
+| Euthyphro dilemma | — | 欧绪弗洛两难 | ehrenfels | 学界通行（柏拉图《欧绪弗洛篇》所立难题）；凭证 2026-11-13 | 2026-11-13 |
 | evaluation system | — | 评价系统 | justep-coherence | 学界惯例（Lehrer 术语直译） | 2026-11-02 |
 | evaluative content | — | 评价性内容 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | evangelical poverty | — | 福音贫穷 | marsilius-padua | 学界通行（方济各会守贫之争）；凭证 2026-11-08 | 2026-11-08 |
@@ -1945,6 +1946,7 @@
 | fiducial | — | 信任型的 | faith | 学界通行（fiducial model 信任型模型）；凭证 2026-11-11 | 2026-11-11 |
 | fiducial measurement | — | 基准测量 | quantum-bayesian | QBism 术语（fiducial measurement）；本库直译；凭证 2026-11-12 | 2026-11-12 |
 | fifth element / aether | αἰθήρ | 第五元素／以太（首现括注） | olympiodorus | 沿本册 ether=以太；亚里士多德宇宙论术语；凭证 2026-11-08 | 2026-11-08 |
+| figural moment | — | 形象环节 | ehrenfels | 胡塞尔《算术哲学》术语（Gestaltmoment 亦译格式塔环节）；凭证 2026-11-13 | 2026-11-13 |
 | figure of the Earth | — | 地球形状 | newton-principia | 大地测量学通行；凭证 2026-11-11 | 2026-11-11 |
 | fikr | فكر | 思虑 | ibn-kammuna | 学界惯例（与 ḥads 对举的推论性思考；源文 cogitation or reflection）；凭证 2026-11-10 | 2026-11-10 |
 | Filioque | — | “和子”句 | bessarion | 基督教神学史通行汉译（拉丁“及圣子”添缀，东西教会分裂争点） | 2026-11-10 |
@@ -2022,9 +2024,11 @@
 | formative drive | — | 形成驱力（Bildungstrieb） | kant-science | 康德生物学文献通行；待 specs/008 审定库复核 | 2026-11-05 |
 | forms of life | — | 生活形式 | 首现（religion-epistemology） | 维特根斯坦术语通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | Formula of Universal Law | — | 普遍法则公式 | hegel-social-political | 康德伦理学通行汉译 | 2026-11-10 |
+| foundation (Gestalt theory) | Grundlage | 基础 | ehrenfels | 厄棱费尔格式塔质定义术语（格式塔质所系的表象复合体）；凭证 2026-11-13 | 2026-11-13 |
 | foundational consciousness | — | 基识 | gelukpa | 藏传佛教通译（kun gzhi rnam shes） | 2026-11-01 |
 | foundational research | Grundlagenforschung | 基础研究 | 首现（scholz） | 学界惯例（数学基础研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | foundationalism | — | 基础主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
+| founded contents | fundierte Inhalte | 奠定内容 | ehrenfels | 迈农术语通行译法（与格式塔质对举）；凭证 2026-11-13 | 2026-11-13 |
 | four causes | — | 四因说 | aristotle-causality 首译 | 亚里士多德研究通行译名（doctrine of the four causes）；凭证 2026-11-08 | 2026-11-08 |
 | Four Dimensionalism | — | 四维主义 | 语料回收（标题词） | 学界惯例（形而上学通行）；审定库无相关命中（凭证 2026-11-01） | 2026-11-01 |
 | four kinds of inquiry | — | 四类探究 | israeli | 亚里士多德《后分析篇》研究通行 | 2026-11-06 |
@@ -2156,6 +2160,9 @@
 | German Metaphysics | — | 《德语形而上学》（沃尔夫 1719，缩写 GM） | 18thGerman-preKant | 构词直译（沃尔夫德文教材系列通名）；中文通行译法待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
 | german philosophy | — | 德国哲学 | 语料回收（academic-freedom） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29） | 2026-10-27 |
 | Geschichtlichkeit | Geschichtlichkeit | 历史性 | yorck 首译 | 学界通行汉译（历史哲学与诠释学通行；约克为该词较早哲学使用者）；凭证 2026-11-11 | 2026-11-11 |
+| Gestalt | — | 格式塔 | ehrenfels | 学界通行（格式塔心理学标准译名）；凭证 2026-11-13 | 2026-11-13 |
+| Gestalt quality | Gestaltqualität | 格式塔质 | ehrenfels | 学界通行（格式塔理论核心术语，厄棱费尔 1890 首创）；凭证 2026-11-13 | 2026-11-13 |
+| Gestalt switch | — | 格式塔转换 | ehrenfels | 学界通行（格拉茨／柏林学派术语）；凭证 2026-11-13 | 2026-11-13 |
 | Gestaltlichkeit | Gestaltlichkeit | 形态性 | yorck 首译 | B 档：约克用语（Gestalt 形态；作者英译 plasticity）；凭证 2026-11-11 | 2026-11-11 |
 | Gettier cases | — | 盖梯尔案例 | knowledge-analysis | 知识论通行（以 Edmund Gettier 1963 命名） | 2026-11-05 |
 | Gettierization | — | 盖梯尔化 | knowledge-how | 册内 Gettier“盖梯尔”词根派生（同族词形统一）；凭证 2026-11-10 | 2026-11-10 |
@@ -3943,6 +3950,7 @@
 | personal relativism | — | 个人相对主义 | hobbes-moral 首译 | 学界通行；凭证 2026-11-09 | 2026-11-09 |
 | personal supposition | — | 人称指代 | 首现（william-sherwood） | 学界惯例（suppositio personalis）；凭证 2026-11-07 | 2026-11-07 |
 | personalist | — | 个人主义 | quantum-bayesian | 概率哲学通行（personalist interpretation）；凭证 2026-11-12 | 2026-11-12 |
+| personalities of higher order | — | 高阶人格 | ehrenfels | 厄棱费尔宗教著作术语（意识单位叠置之类比）；凭证 2026-11-13 | 2026-11-13 |
 | personalized medicine | — | 个性化医疗 | genetics | 医学通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
 | perspectival modelling | — | 视角建模 | model-organisms 首译 | 科学哲学通行译名（Larraín 2024）；凭证 2026-11-09 | 2026-11-09 |
 | perspectivalism | — | 视角主义 | qm-relational | 学界惯例（perspectival 视角的）；凭证 2026-11-11 | 2026-11-11 |
@@ -4685,7 +4693,10 @@
 | Sachlichkeit | Sachlichkeit | 实事性 | yorck 首译 | 学界通行（德语 Sachlichkeit 实事性／就事论事；本册定“实事性”一形）；凭证 2026-11-11 | 2026-11-11 |
 | sacraments | — | 圣事 | 语料回收（marsilius-inghen 首译） | 天主教通行译法（新教多译“圣礼”）；凭证 2026-11-06 | 2026-11-06 |
 | scope | — | 辖域 | dynamic-semantics | 逻辑学/语言学通行（quantifier scope）；凭证 2026-11-12 | 2026-11-12 |
+| solotheism | — | 独神论 | ehrenfels | 厄棱费尔对西方一神教的贬称（solo 独一）；凭证 2026-11-13 | 2026-11-13 |
 | state transition | — | 状态转移 | dynamic-semantics | 计算语义通行（类型 s→s→t 之对象）；凭证 2026-11-12 | 2026-11-12 |
+| superimposed Gestalten | — | 叠置格式塔 | ehrenfels | 厄棱费尔《宇宙发生论》术语（高阶格式塔）；凭证 2026-11-13 | 2026-11-13 |
+| superposition of units of consciousness | — | 意识单位之叠置 | ehrenfels | 厄棱费尔宗教著作术语；凭证 2026-11-13 | 2026-11-13 |
 | sādhya | साध्य | 宗（所立） | jaina-philosophy | 因明传统译名（三支／五支之“宗”） | 2026-11-08 |
 | sādhyābhāvavad-avṛttitvam | — | 于所立之无处不转 | early-modern-india | V1 定义义译（源文自注 non-occurrence in the loci of absence of S）；凭证 2026-11-10 | 2026-11-10 |
 | sadistic conclusion | — | 施虐结论 | repugnant-conclusion | 学界惯例（Arrhenius 2000a 术语）；凭证 2026-11-11 | 2026-11-11 |
@@ -5349,12 +5360,14 @@
 | tafsīr | تفسير | 解释（经注） | ibn-taymiyya | 学界通行 | 2026-11-12 |
 | taint | — | 污染（沾染） | evil-kinds-origins | 本词条译名（象征污染逻辑） | 2026-11-12 |
 | tarakhê | ταραχή | 扰动 | epicurus | 本词条译名（与 ataraxia 心神宁静 对举） | 2026-11-12 |
+| temporal / non-temporal Gestalt qualities | — | 时间性／非时间性格式塔质 | ehrenfels | 厄棱费尔对格式塔质的两分（1890）；凭证 2026-11-13 | 2026-11-13 |
 | test (dynamic semantics) | — | 测试 | dynamic-semantics | 程序语义借义（formula as test）；凭证 2026-11-12 | 2026-11-12 |
 | the all (to pan) | τὸ πᾶν | 万有 | epicurus | 本词条译名（亦作“宇宙整体”） | 2026-11-12 |
 | The Cyrenaics | — | 昔勒尼学派 | epicurus | SUMMARY 定名（c/cyrenaics；亦作“昔兰尼派”） | 2026-11-12 |
 | the Table of Evils | — | 恶之表 | evil-kinds-origins | 本词条译名（作者自制图表） | 2026-11-12 |
 | t-norm | — | t-范数 | logic-fuzzy | triangular norm 通行译法；凭证 2026-11-09 | 2026-11-09 |
 | the Woman Question | — | 妇女问题 | george-eliot 首译 | 维多利亚研究通行 | 2026-11-12 |
+| tonal Gestalt | — | 音调格式塔 | ehrenfels | 厄棱费尔术语（旋律格式塔）；凭证 2026-11-13 | 2026-11-13 |
 | transscalarity | — | 跨尺度性 | global-democracy 首译 | Scholte 术语，无通行汉译，构词直译 | 2026-11-12 |
 | Tripod | Τρίπους | 《三脚架》 | epicurus | 本词条译名（瑙西芬尼） | 2026-11-12 |
 | T-scheme | — | T-图式 | lvov-warsaw | Tarski 真理论通行译法；凭证 2026-11-09 | 2026-11-09 |
@@ -5751,6 +5764,8 @@
 
 ## V
 
+| virile selection | — | 男性选择 | ehrenfels | 厄棱费尔《性伦理》术语（virile 男性的）；凭证 2026-11-13 | 2026-11-13 |
+| Volksseele | Volksseele | 民族灵魂 | ehrenfels | 德语词照录（高阶人格之例）；凭证 2026-11-13 | 2026-11-13 |
 | Vādanyāya | — | 《诤理论》 | yogacara 首译 | 梵题汉译（法称造，无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | vague predicate | — | 模糊谓词 | logic-massexpress | 语义学通行译法；凭证 2026-11-10 | 2026-11-09 |
 | vagueness | — | 模糊性 | 首现（imprecise-probabilities） | 学界惯例（语言哲学与认识论通行）；凭证 2026-11-08 | 2026-11-08 |
@@ -6015,6 +6030,7 @@
 
 ## Z
 
+| Zahlfiguren | Zahlenfiguren | 数的图形 | ehrenfels | 《素数定律》术语（第三阶数集合）；凭证 2026-11-13 | 2026-11-13 |
 | Zechariah | — | 《撒迦利亚书》 | 首译（saadya） | 圣经书卷通行汉译；凭证 2026-11-09 | 2026-11-09 |
 | zero-sum game | — | 零和博弈 | organ-donation | 学界惯例（博弈论通行；凭证 2026-11-06） | 2026-11-06 |
 | Zhonglun | 中論 | 《中论》（徐干） | han-dynasty | 徐干书；与龙树《中论》同译名异书，见同键行 | 2026-11-10 |
