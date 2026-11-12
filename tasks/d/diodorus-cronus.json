@@ -2,7 +2,7 @@
   "slug": "diodorus-cronus",
   "kind": "retranslate",
   "zh_doc": "d/diodorus-cronus.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -30,7 +30,7 @@
       "status": "ok",
       "actor": "D-main-20261107",
       "at": "2026-11-07T10:05:42Z",
-      "evidence": "四检：check_style --strict 0 违例（含 5 处 CJK 斜体转加粗）；check_academic --strict OK；check_math missing/unbalanced 0；check_prose 22→实修 26 处（de-chain 10/长句 8 拆句/weak-verb 3/passive 1），余 1=塞克斯都引文块内双重被动按 ADR-0020 豁免留痕"
+      "evidence": "四检：check_style --strict 0 违例（含 5 处 CJK 斜体转加粗）；check_academic --strict OK；check_math missing/unbalanced 0；check_prose 22→实修 26 处（de-chain 10/长句 8 拆句/weak-verb 3/passive 1），余 1=塞克斯都引文块内双重被动按 ADR-0020 豁免留痕；r1 复核补语体留痕：语体：现代汉语学术书面语，全篇无文言句式与成段仿古（ADR-0033；补记人 D-main-20261112，据全文通读）"
     },
     {
       "step": "s3",
@@ -38,6 +38,34 @@
       "actor": "D-main-20261107",
       "at": "2026-11-07T10:05:45Z",
       "evidence": "登记与门禁：术语册 8 行（模态坍塌/优势论证/时间原子论/单纯者/狄奥多罗斯式可能性/麦加拉问题/论辩问题/全然大变）+ 人名册 10 行（阿波罗尼俄斯·克罗诺斯、卡利马科斯、托勒密一世·救主、阿伽通、安提斯泰尼、色诺芬、斐多（埃利斯的）、阿里斯托芬、阿基里斯、海伦）；Phaedo 与词汇表作品义冲突以键限定消解；check_terms 硬错误 0；check_all 七项全绿"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "D-main-20261112",
+      "at": "2026-11-12T06:16:23Z",
+      "evidence": "一校（全文回读 515 行对照 yuanwen）：实修 10 处——①正文拉丁残片「$\\phihmtBcing」去 -ing（元语言套用式，译作「正在 $\\phi$」）②「既是…便…」因果误连改「既然…只是…便…」③Martha Kneale 用形遵登记册「玛尔塔·涅尔」（存疑：通行中译本或作「玛莎」，待 008 审定复核）④「尼尔」二处归一「涅尔」⑤「走在走」叠字三处改「正在走」（Dio walks 译文残迹）⑥源文 math 容器吞标点致「, b$」还原为「$ 与 $ 的某一部分同大」⑦「倒证」改「反例」（counterexamples）⑧「以讨论实践哲学」改「以讨论方式从事哲学」（practiced philosophy through discussion）⑨结论长句破折号句拆分⑩尾节「## 致谢」还原源文 ### 层级。照源保留：源文两处自身笔误——(a) 将来偶然两情形重复同文（Either…Or…同句），(b) kid 论证 P1 意谓「年幼山羊」而 P3/C1 作「年幼的人」，均按零信任照源镜像不改，另源文 C3「body $」同。公式对账：源 171/中 171；逐一核 19 处差异全为源文 markup 缺陷归一（$t)n$/t_{n+ 1/2} 空格、括注吞进 math、$n= 9998$ 空格），无内容增删。结构对账：标题 ##11/###14 全等、脚注标记 47/47、定义 37/37、段落 196/195（差 1=源 byline *Duncombe, Matthew* 已并入 H1）、尾节子标题 3/3、照录行 11/12（差 1=项目标准照录声明）。语体：现代汉语学术书面语，无文言句式与成段仿古（ADR-0033，据全文通读）。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "D-main-20261112",
+      "at": "2026-11-12T06:17:17Z",
+      "evidence": "二校复核（语言）：check_prose 22→1，26 处 s2 实修成效保留；r1 追加实修 8 处（叠字 3、因果连词 1、弱表达 2、长句拆分 1、拉丁残片 1）；余 1=塞克斯都《M》10,86 引文块内「被观察到…被观察到」双重被动，按 ADR-0020 引文内自然被动豁免。术语复核：模态坍塌/优势论证/时间原子论/单纯者/狄奥多罗斯式可能性/麦加拉问题/论辩问题/全然大变 8 行在册且正文同形；人名复核：正文叙述名（狄奥多罗斯/芝诺/菲洛/欧布里德/欧克里德/阿波罗尼俄斯/塞德利/玛尔塔·涅尔/登耶/博布齐恩）与登记册一致，括号引注人名照录。语体：现代汉语学术书面语（ADR-0033 已核）。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "D-main-20261112",
+      "at": "2026-11-12T06:18:45Z",
+      "evidence": "三校复核（体例）：check_style --strict 0 issue；check_academic --strict 无硬错误（版本钉齐）；check_math formulas 171 missing=0 unbalanced=0；check_summary H1 与 SUMMARY 一致、别名完整、相关词条名全为 SUMMARY 主名形（含基提翁的芝诺/埃利亚的芝诺分立正确）；公式多重集对账源=中 171，19 处差异全为源 markup 归一。结构对账：标题 ##11/###14 全等、脚注 47/47、定义 37/37、段落 196/195（byline 合并）、尾节子标题 3/3、照录行 11/12（标准声明行）。参考文献脚注定义制 37 条齐备、### Collections of Primary Sources / ### Secondary Sources 子标题在。语体：现代汉语学术书面语（ADR-0033 已核）。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "D-main-20261112",
+      "at": "2026-11-12T06:18:45Z",
+      "evidence": "收口：s3_checked 复审完成（r1 逐段回读 10 实修、r2 语言 22→1 豁免、r3 四检与结构/公式对账全绿）；照源保留判据 3 处源文自身笔误已留痕；术语 8 行、人名在册。D 批 s3_checked 复审第 2 条。"
     }
   ],
   "blockers": [],
