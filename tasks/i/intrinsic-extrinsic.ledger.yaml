@@ -11,20 +11,26 @@ segments:
     kind: body
     source: |-
       We have some of our properties purely in virtue of the way we are. (Our mass is an example.) We have other properties in virtue of the way we interact with the world. (Our weight is an example.) The former are the intrinsic properties, the latter are the extrinsic properties. This seems to be an intuitive enough distinction to grasp, and hence the intuitive distinction has made its way into many discussions in philosophy, including discussions in ethics, philosophy of mind, metaphysics, epistemology and philosophy of physics. Unfortunately, when we look more closely at the intuitive distinction, we find reason to suspect that it conflates a few related distinctions, and that each of these distinctions is somewhat resistant to analysis.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们拥有某些属性，纯粹是凭借我们自身之所是。（我们的质量便是一例。）我们拥有另一些属性，则是凭借我们与世界互动的方式。（我们的重量便是一例。）前者是内在属性，后者是外在属性。这一区分看起来足够直观、易于把握，因此这一直观区分进入了哲学中的许多讨论，包括伦理学、心灵哲学、形而上学、认识论与物理学哲学中的讨论。可惜，当我们更仔细地审视这一直观区分时，便有理由怀疑它混同了几种彼此相关的区分，而且其中每一种区分都多少有些难以分析。
+    step2: |-
+      我们的某些属性，是纯粹凭借我们自身之所是而具有的。（质量便是一例。）另一些属性，则是凭借我们与世界互动的方式而具有的。（重量便是一例。）前者是内在属性（intrinsic properties），后者是外在属性（extrinsic properties）。这一区分看似直观而易于把握，因而这一直观区分已经进入了哲学中的大量讨论，包括伦理学、心灵哲学、形而上学、认识论与物理学哲学中的讨论。然而，一旦更仔细地审视这一直观区分，我们便有理由怀疑：它混同了几种彼此相关的区分，而其中每一种区分都多少有些难以分析。
   - id: 2
     kind: body
     source: |-
       ## 1. Introduction
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1. 引言
+    step2: |-
+      ## 1. 引言
   - id: 3
     kind: body
     source: |-
       The standard way to introduce the distinction between intrinsic and extrinsic properties is by the use of a few orientating characterisations. David Lewis provides the following list:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      介绍内在属性与外在属性之区分的标准方式，是使用几条引导性刻画。大卫·刘易斯提供了如下一列刻画：
+    step2: |-
+      引入内在属性与外在属性之区分的标准方式，是给出几条引导性刻画。大卫·刘易斯（David Lewis）提供了如下几条刻画：
   - id: 4
     kind: body
     source: |-
@@ -33,110 +39,154 @@ segments:
       > A thing has its intrinsic properties in virtue of the way that thing itself, and nothing else, is. Not so for extrinsic properties, though a thing may well have these in virtue of the way some larger whole is … (Lewis 1983a: 197)[^lewis-1983a]
       >
       > If something has an intrinsic property, then so does any perfect duplicate of that thing; whereas duplicates situated in different surroundings will differ in their extrinsic properties. (Lewis 1983a: 197)[^lewis-1983a]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 把内在属性归予某物的句子、陈述或命题，完全是关于该物的；而把外在属性归予某物的归予，则不完全是关于该物的，尽管它很可能是关于某个以该物为部分的整体的。（Lewis 1983a: 197）[^lewis-1983a]
+      >
+      > 一个事物具有其内在属性，是凭借该事物自身、且仅凭该事物自身之所是；外在属性则不然，尽管事物很可能是凭某个更大整体之所是而具有这些属性……（Lewis 1983a: 197）[^lewis-1983a]
+      >
+      > 如果某物具有一个内在属性，那么该物的任何完全复本（perfect duplicate）亦然；而处于不同环境中的复本，则会在外在属性上有所不同。（Lewis 1983a: 197）[^lewis-1983a]
+    step2: |-
+      > 把内在属性归予某物的句子、陈述或命题，完全是关于该物的；而把外在属性归予某物的归予，则不完全是关于该物的，尽管它很可能是关于某个以该物为部分的整体的。（Lewis 1983a: 197）[^lewis-1983a]
+      >
+      > 一个事物具有其内在属性，是凭借该事物自身、且仅凭该事物自身之所是；外在属性则不然，尽管事物很可能是凭某个更大整体之所是而具有这些属性……（Lewis 1983a: 197）[^lewis-1983a]
+      >
+      > 如果某物具有一个内在属性，那么该物的任何完全复本亦然；而处于不同环境中的复本，则会在外在属性上有所不同。（Lewis 1983a: 197）[^lewis-1983a]
   - id: 5
     kind: body
     source: |-
       The other way to introduce the subject matter is by providing examples of paradigmatic intrinsic and extrinsic properties. One half of this task is easy: everyone agrees that being an uncle is extrinsic, as is being six metres from a rhododendron. The other half is more challenging, since there is much less agreement about which properties are intrinsic. Lewis (1983a, 1986a, 1988), for example, has insisted that shape properties are intrinsic, but one could hold that an object’s shape depends on the curvature of the space in which it is located at, and this might not even be intrinsic to that space (Nerlich 1979)[^nerlich-1979], let alone the object (Bricker 1993, McDaniel 2007, and Skow 2007)[^bricker-1993][^mcdaniel-2007][^skow-2007]. Lewis also mentions charge and internal structure as being examples of intrinsic properties. (For ease of exposition, we will assume below that shape properties are intrinsic. We will also assume that properties like being made of tin, and having a mass of 500kg are intrinsic.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      引入这一主题的另一方式，是提供范例性的内在属性与外在属性的例子。这项任务的一半是容易的：人人都同意，身为叔叔是外在的，距一株杜鹃花六米亦然。另一半则更具挑战，因为关于哪些属性是内在的，共识要少得多。例如，刘易斯（Lewis 1983a, 1986a, 1988）坚持认为形状属性是内在的，但人们也可以主张，一个对象的形状依赖于它所位于其中的空间的曲率，而这种曲率甚至可能不是该空间本身的内在属性（Nerlich 1979）[^nerlich-1979]，更不用说该对象的了（Bricker 1993、McDaniel 2007 与 Skow 2007）[^bricker-1993][^mcdaniel-2007][^skow-2007]。刘易斯还提到电荷与内部结构作为内在属性的例子。（为便于论述，下文将假定形状属性是内在的。我们还将假定，由锡制成、具有 500 千克的质量这类属性是内在的。）
+    step2: |-
+      引入这一主题的另一方式，是给出范例性的内在属性与外在属性各是什么的例子。这项任务的一半是容易的：人人都同意，身为叔叔是外在的，距一株杜鹃花六米亦是如此。另一半则更具挑战，因为关于哪些属性是内在的，共识要少得多。例如，刘易斯（Lewis 1983a, 1986a, 1988）坚持认为形状属性是内在的；但人们也可以主张，一个对象的形状依赖于它所处空间的曲率，而这种曲率甚至可能不是该空间本身的内在属性（Nerlich 1979）[^nerlich-1979]，更不用说该对象的了（Bricker 1993、McDaniel 2007 与 Skow 2007）[^bricker-1993][^mcdaniel-2007][^skow-2007]。刘易斯还提到电荷与内部结构作为内在属性的例子。（为便于论述，下文将假定形状属性是内在的。我们还将假定，由锡制成、具有 500 千克的质量这类属性是内在的。）
   - id: 6
     kind: body
     source: |-
       ### 1.1 Philosophical Importance
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.1. 哲学重要性
+    step2: |-
+      ### 1.1. 哲学重要性
   - id: 7
     kind: body
     source: |-
       The distinction between intrinsic and extrinsic properties plays an essential role in stating several interesting philosophical problems. Historically, the most prominent of these has to do with notions of intrinsic value. G. E. Moore (1903: §18) noted that we can make a distinction between things that are good in themselves, or possess intrinsic value, and those that are good as a means to other things. To this day there is still much debate over whether this distinction can be sustained (Feldman 1998, Kagan 1998)[^feldman-1998][^kagan-1998], and, if it can, which kinds of things possess intrinsic value (Krebs 1999)[^krebs-1999]. In particular, one of the central topics in contemporary environmental ethics is the question of which kinds of things (intelligent beings, conscious beings, living things, species, etc) might have intrinsic value. While this is the oldest (and still most common) use of the intrinsic/extrinsic distinction in philosophy, it has not played much role in the discussions of the distinction in metaphysics, to which we now turn.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      内在属性与外在属性之区分，在陈述若干有趣的哲学问题时起着不可或缺的作用。历史上，其中最突出的问题关乎内在价值概念。G. E. 摩尔（Moore 1903: §18）指出，我们可以区分自身即善的事物（或曰具有内在价值的事物）与作为达到其他事物之手段而善的事物。时至今日，关于这一区分能否成立（Feldman 1998、Kagan 1998）[^feldman-1998][^kagan-1998]，以及若能成立，哪些种类的事物具有内在价值（Krebs 1999）[^krebs-1999]，仍争论不休。特别是，当代环境伦理学的核心议题之一，便是哪些种类的事物（有智能的存在者、有意识的存在者、生物、物种等）可能具有内在价值。虽然这是内在／外在区分在哲学中最古老（且至今最常见）的用法，但它在形而上学关于这一区分的讨论中并未起多大作用，而我们接下来就转向形而上学。
+    step2: |-
+      内在属性与外在属性之区分，在陈述若干有趣的哲学问题时起着不可或缺的作用。历史上，其中最突出的问题关乎内在价值概念。G. E. 摩尔（Moore 1903: §18）指出，我们可以区分自身即善的事物（或曰具有内在价值的事物）与作为达到其他事物之手段而善的事物。时至今日，关于这一区分能否成立（Feldman 1998、Kagan 1998）[^feldman-1998][^kagan-1998]，以及若能成立，哪些种类的事物具有内在价值（Krebs 1999）[^krebs-1999]，仍争论不休。特别是，当代环境伦理学的核心议题之一，便是哪些种类的事物（有智能的存在者、有意识的存在者、生物、物种等）可能具有内在价值。虽然这是内在／外在区分在哲学中最古老（且至今最常见）的用法，但它在形而上学关于这一区分的讨论中并未起多大作用；我们接下来就转向形而上学。
   - id: 8
     kind: body
     source: |-
       As P. T. Geach (1969) noted, the fact that some object $a$ is not $F$ before an event occurs but is $F$ after that event occurs does not mean that the event constitutes, in any deep sense, a change in $a$. To use a well-worn example, at the time of Socrates’s death Xanthippe became a widow; that is, she was not a widow before the event of her husband’s death, but she was a widow when it ended. Still, though that event constituted (or perhaps was constituted by) a change in Socrates, it did not in itself constitute a change in Xanthippe. Geach noted that we can distinguish between real changes, such as what occurs in Socrates when he dies, from mere changes in which predicates one satisfies, such as what occurs in Xanthippe when Socrates dies. The latter he termed ‘mere Cambridge’ change. There is something of a consensus that an object undergoes real change in an event iff there is some **intrinsic** property it instantiated before the event but not afterwards.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如 P. T. 吉奇（Geach 1969）所指出的，某对象 $a$ 在某事件发生前不是 $F$、在该事件发生后是 $F$，并不意味着该事件在任何深层的意义上构成了 $a$ 的一个变化。用一个老生常谈的例子来说：在苏格拉底死去之时，克桑蒂佩成了寡妇；也就是说，在她丈夫死亡这一事件之前她不是寡妇，而当该事件结束时她是寡妇。尽管那一事件构成了（或者也许是该变化构成了那一事件）苏格拉底的一个变化，它本身并未构成克桑蒂佩的变化。吉奇指出，我们可以区分真实的变化（如苏格拉底死时所发生者）与所满足谓词方面的单纯变化（如苏格拉底死去时克桑蒂佩身上所发生者）；后者他称之为“纯粹的剑桥式”变化。大体上有这样一个共识：一个对象在某事件中经历了真实的变化，当且仅当有某个**内在**属性，它在该事件之前被实例化而之后不再被实例化。
+    step2: |-
+      正如 P. T. 吉奇（Geach 1969）所指出的，某对象 $a$ 在某事件发生前不是 $F$、在该事件发生后是 $F$，并不意味着该事件在任何深层的意义上构成了 $a$ 的一个变化。用一个老生常谈的例子来说：在苏格拉底死去之时，克桑蒂佩成了寡妇；也就是说，在她丈夫死亡这一事件之前她不是寡妇，而当该事件结束时她是寡妇。尽管那一事件构成了苏格拉底的一个变化（或者也许毋宁说是该变化构成了那一事件），它本身并未构成克桑蒂佩的变化。吉奇指出，我们可以把真实的变化——如苏格拉底死时所发生者——与所满足谓词方面的单纯变化——如苏格拉底死去时克桑蒂佩身上所发生者——区分开来；后者他称之为“纯粹的剑桥式”变化。大体上有这样一个共识：一个对象在某事件中经历了真实的变化，当且仅当有某个**内在**属性，它在该事件之前被实例化而之后不再被实例化。
   - id: 9
     kind: body
     source: |-
       David Lewis (1986a, 1988) built on this point of Geach’s to mount an attack on **endurantism**, the theory that objects persist by being wholly located at different times, and that there can be strict identity between an object existing at one time and one existing at another time. Lewis argues that this is inconsistent with the idea that objects undergo real change. If the very same object can be both $F$ (at one time) and not $F$ (at another), this means that $F$-ness must be a relation to a time, but this means that it is not an intrinsic property. So any property that an object can change must be extrinsic, so nothing undergoes real change. Lewis says that this argument supports the rival theory of **perdurantism**, which says that objects persist by having different temporal parts at different times. While this argument is controversial (see Haslanger (1989), Johnston (1987) and Lowe (1988) for some responses), it does show how considerations about intrinsicality can resonate within quite different areas of metaphysics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      大卫·刘易斯（1986a, 1988）以吉奇的这一观点为基础，对**延存论**（endurantism）发起攻击。延存论主张，对象通过完整地位于不同时间而持存，并且在一个时间存在的对象与在另一时间存在的对象之间可以有严格同一。刘易斯论证说，这与对象经历真实变化的观念不相容。如果同一个对象可以既（在一个时间）是 $F$ 又（在另一时间）不是 $F$，这就意味着 $F$ 性必定是与时间的一种关系，而这又意味着它不是内在属性。于是，对象能够改变的任何属性都必定是外在的，因此没有任何东西经历真实的变化。刘易斯说，这一论证支持了与之竞争的**持续论**（perdurantism），后者主张对象通过在不同时间拥有不同的时间部分而持存。尽管这一论证有争议（相关回应见 Haslanger 1989、Johnston 1987 与 Lowe 1988），它确实表明了关于内在性的考量如何在形而上学的相当不同的领域中引起回响。
+    step2: |-
+      大卫·刘易斯（1986a, 1988）以吉奇的这一观点为基础，对**延存论**（endurantism）发起攻击。延存论主张：对象通过完整地位于不同时间而持存；在某个时间存在的对象与在另一时间存在的对象之间，可以有严格同一。刘易斯论证说，这与对象经历真实变化的观念不相容。如果同一个对象可以既（在一个时间）是 $F$ 又（在另一时间）不是 $F$，这就意味着 $F$ 性必定是与时间的一种关系，而这又意味着它不是内在属性。于是，对象能够改变的任何属性都必定是外在的，因此没有任何东西经历真实的变化。刘易斯说，这一论证支持了与之竞争的**持续论**（perdurantism），后者主张对象通过在不同时间拥有不同的时间部分而持存。尽管这一论证有争议（相关回应见 Haslanger 1989、Johnston 1987 与 Lowe 1988），它确实表明：关于内在性的考量如何在形而上学的相当不同的领域中引起回响。
   - id: 10
     kind: body
     source: |-
       A third major area where the concept of intrinsicality has been put to work is in stating various supervenience theses. Frank Jackson (1998) defines physicalism in terms of duplication and physical duplication, which are in turn defined in terms of intrinsic properties. Similarly, Jaegwon Kim (1982) defines a mind/body supervenience thesis in terms of intrinsic properties. As Theodore Sider (1993) notes, the simplest way to define the **individualist** theory of mental content that Tyler Burge (1979) attacks is as the claim that the content of a thinker’s propositional attitudes supervenes on the intrinsic properties of the thinker. And many **internalist** theories in epistemology are based around the intuition that whether a thinker is justified in believing some proposition supervenes on the intrinsic properties of the thinker.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      内在性概念得到运用的第三个主要领域，是陈述各种随附性论题。Frank Jackson（1998）以复制与物理复制来定义物理主义，而复制与物理复制又以内在属性来定义。类似地，金在权（Kim 1982）以内在属性定义一种心身随附性论题。正如 Theodore Sider（1993）指出的，Tyler Burge（1979）所攻击的关于心灵内容的**个体主义**理论，其最简定义便是：思想者的命题态度的内容随附于思想者的内在属性。认识论中的许多**内在主义**理论也都基于如下直觉：思想者相信某命题是否有证成，随附于思想者的内在属性。
+    step2: |-
+      内在性概念得到运用的第三个主要领域，是陈述各种随附性论题。Frank Jackson（1998）以复制与物理复制来定义物理主义，而复制与物理复制又以内在属性来定义。类似地，金在权（Kim 1982）以内在属性定义了一种心身随附性论题。正如 Theodore Sider（1993）指出的，Tyler Burge（1979）所攻击的关于心灵内容的**个体主义**理论，其最简定义便是：思想者的命题态度的内容随附于思想者的内在属性。认识论中的许多**内在主义**理论也都基于如下直觉：思想者相信某命题是否有证成，随附于思想者的内在属性。
   - id: 11
     kind: body
     source: |-
       A fourth area where the concept of intrinsically has been employed is to state recombination principles intended to describe what possible states of the world there are. (See Lewis 1986a.)[^lewis-1986a] An initial attempt to state such a principle might be (R1), where $x$ is wholly distinct from $y$ iff $x$ and $y$ have no parts in common. (As is standard in philosophical usage, each thing is counted as a part of itself. Hence, things are not wholly distinct from themselves.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      内在性概念得到运用的第四个领域，是陈述旨在描述世界有哪些可能状态的重组原则。（见 Lewis 1986a。）[^lewis-1986a] 对这一原则的初步尝试可以陈述为 (R1)，其中 $x$ 与 $y$ 完全相异，当且仅当 $x$ 与 $y$ 没有共同部分。（按照哲学用法的惯例，每个事物都算作其自身的一个部分。因此，事物并不与其自身完全相异。）
+    step2: |-
+      内在性概念得到运用的第四个领域，是陈述旨在描述世界有哪些可能状态的重组原则。（见 Lewis 1986a。）[^lewis-1986a] 这一原则的初步尝试可以陈述为 (R1)，其中 $x$ 与 $y$ 完全相异，当且仅当 $x$ 与 $y$ 没有共同部分。（按照哲学用法的惯例，每个事物都算作其自身的一个部分；因此，事物并不与其自身完全相异。）
   - id: 12
     kind: body
     source: |-
       **(R1)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(R1)**
+    step2: |-
+      **(R1)**
   - id: 13
     kind: body
     source: |-
       For any properties $p$ and $q$ , it is possible that there are two wholly distinct things, $x$ and $y$, such that $x$ has $p$ and $y$ has $q$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对任意属性 $p$ 与 $q$，可能存在两个完全相异的东西 $x$ 与 $y$，使得 $x$ 具有 $p$ 而 $y$ 具有 $q$。
+    step2: |-
+      对任意属性 $p$ 与 $q$，可能存在两个完全相异的东西 $x$ 与 $y$，使得 $x$ 具有 $p$ 而 $y$ 具有 $q$。
   - id: 14
     kind: body
     source: |-
       Given an abundant theory of properties according to which each (non-defective) predicate expresses a property, however, (R1) clearly fails, since it isn’t possible for there to be an $x$ and a $y$ such that $x$ has the property of being made of gold, and $y$ has the property of being such that nothing is made of gold. This defect with (R1) can be fixed by replacing (R1) with (R2).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，根据一种关于属性的丰富理论——按此理论，每个（无缺陷的）谓词都表达一个属性——(R1) 显然会失败，因为不可能存在 $x$ 与 $y$，使得 $x$ 具有由金制成这一属性，而 $y$ 具有“没有任何东西由金制成”这一属性。(R1) 的这一缺陷可以通过以 (R2) 替换 (R1) 来弥补。
+    step2: |-
+      然而，按照一种关于属性的丰富理论——按此理论，每个（无缺陷的）谓词都表达一个属性——(R1) 显然会失败：不可能存在 $x$ 与 $y$，使得 $x$ 具有由金制成这一属性，而 $y$ 具有“没有任何东西由金制成”这一属性。(R1) 的这一缺陷，可以通过以 (R2) 替换 (R1) 来弥补。
   - id: 15
     kind: body
     source: |-
       **(R2)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(R2)**
+    step2: |-
+      **(R2)**
   - id: 16
     kind: body
     source: |-
       For any *intrinsic* properties $p$ and $q$, it is possible that there are two wholly distinct things, $x$ and $y$, such that $x$ has $p$ and $y$ has $q$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对任意**内在的**属性 $p$ 与 $q$，可能存在两个完全相异的东西 $x$ 与 $y$，使得 $x$ 具有 $p$ 而 $y$ 具有 $q$。
+    step2: |-
+      对任意**内在的**属性 $p$ 与 $q$，可能存在两个完全相异的东西 $x$ 与 $y$，使得 $x$ 具有 $p$ 而 $y$ 具有 $q$。
   - id: 17
     kind: body
     source: |-
       While being made of gold and being such that nothing is made of gold refute (R1), they don’t refute (R2), since being such that nothing is made of gold is clearly non-intrinsic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由金制成与“没有任何东西由金制成”反驳了 (R1)，但它们并不反驳 (R2)，因为“没有任何东西由金制成”显然是非内在的。
+    step2: |-
+      由金制成与“没有任何东西由金制成”反驳了 (R1)，但它们并不反驳 (R2)，因为“没有任何东西由金制成”显然是非内在的。
   - id: 18
     kind: body
     source: |-
       In addition to the above four applications of the distinction between intrinsic and extrinsic properties, the distinction has also been employed for many other purposes. For example, it has been used to formulate principles of universalizability for moral principles and moral laws (Rabinowicz 1979)[^rabinowicz-1979], formulate a requirement on an explanation being a good explanation, namely that it be an intrinsic explanation (Field 1980, Maya 2014)[^field-1980], and formulate a non-trivial version of Mill’s principle of the uniformity of nature (Schlesinger 1990)[^schlesinger-1990]. The distinction (or distinctions definable in terms of it) has also been used to argue against the magical ersatz theory of possible worlds (Lewis 1986a, Sect. 3.4)[^lewis-1986a], defend the transitivity of causation (Hall 2000, Hall 2004)[^hall-2000][^hall-2004], defend the modal theory of essence (Denby 2014)[^denby-2014], argue for the immanent theory of properties (Audi 2019)[^audi-2019], and argue against the thesis that determinable facts are always soley grounded by determinate facts (Shumener 2022)[^shumener-2022].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除了上述内在与外在之区分的四种应用之外，这一区分还被用于许多其他目的。例如，它被用来为道德原则与道德法则制定可普遍化原则（Rabinowicz 1979）[^rabinowicz-1979]；被用来制定对解释之为好解释的一项要求，即它须是一个内在的解释（Field 1980、Maya 2014）[^field-1980]；还被用来制定密尔自然齐一性原则的一个非平凡版本（Schlesinger 1990）[^schlesinger-1990]。这一区分（或可用它定义的诸区分）还被用来反驳可能世界的魔术式替代理论（Lewis 1986a, Sect. 3.4）[^lewis-1986a]、为因果的传递性辩护（Hall 2000、Hall 2004）[^hall-2000][^hall-2004]、为本质的模态理论辩护（Denby 2014）[^denby-2014]、论证属性的内在理论（Audi 2019）[^audi-2019]，以及反驳“可确定的事实总是仅由确定的事实奠基”这一论题（Shumener 2022）[^shumener-2022]。
+    step2: |-
+      除了上述四种应用之外，内在与外在之区分还被用于许多其他目的。例如，它被用来为道德原则与道德法则制定可普遍化原则（Rabinowicz 1979）[^rabinowicz-1979]；被用来制定一项解释之为好解释的要求，即它须是一个内在的解释（Field 1980、Maya 2014）[^field-1980]；还被用来制定密尔自然齐一性原则的一个非平凡版本（Schlesinger 1990）[^schlesinger-1990]。这一区分（或可用它定义的诸区分）还被用来反驳可能世界的魔术式替代理论（Lewis 1986a, Sect. 3.4）[^lewis-1986a]、为因果的传递性辩护（Hall 2000、Hall 2004）[^hall-2000][^hall-2004]、为本质的模态理论辩护（Denby 2014）[^denby-2014]、论证属性的内在理论（Audi 2019）[^audi-2019]，以及反驳“可确定的事实总是仅由确定的事实奠基”这一论题（Shumener 2022）[^shumener-2022]。
   - id: 19
     kind: body
     source: |-
       Most of the philosophical applications of intrinsicality are independent of its precise analysis. Work on its analysis, however, has helped clarify these applications by allowing us to distinguish between different notions of intrinsicality and different notions in the vicinity of intrinsicality, and by giving us a greater understanding of these various notions and of what properties satisfy them. A good example of the latter kind of advance is Theodore Sider’s (2003) observation that most of the properties in folk theory are ‘maximal’ and hence not intrinsic properties. This observation provides a strong argument against various theories that appeal to the intuitive intrinsicality of some everyday property.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      内在性的大多数哲学应用都独立于对它的精确分析。不过，对其分析的研究也澄清了这些应用：它让我们得以区分不同的内在性概念以及内在性邻近的各种概念，并让我们更深入地理解这些不同的概念以及哪些属性满足它们。后一种进展的一个好例子，是 Theodore Sider（2003）的观察：民间理论中的大多数属性都是“最大的”（maximal），因而不是内在属性。这一观察为各种诉诸某个日常属性的直观内在性的理论提供了一个强有力的反驳。
+    step2: |-
+      内在性的大多数哲学应用都独立于对它的精确分析。不过，对其分析的研究也澄清了这些应用：它让我们得以区分不同的内在性概念以及内在性附近的各种概念，并让我们更深入地理解这些不同的概念，以及哪些属性满足它们。后一种进展的一个好例子，是 Theodore Sider（2003）的观察：民间理论中的大多数属性都是“最大的”（maximal），因而不是内在属性。这一观察为各种诉诸某个日常属性的直观内在性的理论提供了一个强有力的反驳。
   - id: 20
     kind: body
     source: |-
       ### 1.2 Global and Local
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.2. 全局与局部
+    step2: |-
+      ### 1.2. 全局与局部
   - id: 21
     kind: body
     source: |-
       In addition to the “global” concept of a property being intrinsic, there is a “local” concept of something having a property in an intrinsic fashion (see Humberstone 1996, p. 206)[^humberstone-1996]. For each of Lewis’s characterisations concerning the concept of an intrinsic property quoted in section 1.1, there is a corresponding characterisation for the concept of a thing having a property in an intrinsic fashion. These are:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除了属性之为内在的这一“全局”概念之外，还有一个“局部”概念，即某物以内在方式具有某属性（见 Humberstone 1996, p. 206）[^humberstone-1996]。对于第 1 节所引刘易斯关于内在属性概念的每一条刻画，都有一条针对“某物以内在方式具有某属性”这一概念的对应刻画。它们是：
+    step2: |-
+      除了属性之为内在的这一“全局”（global）概念之外，还有一个“局部”（local）概念，即某物以内在方式具有某属性（见 Humberstone 1996, p. 206）[^humberstone-1996]。对于第 1 节所引刘易斯关于内在属性概念的每一条刻画，都有一条对应刻画，针对“某物以内在方式具有某属性”这一概念。它们是：
   - id: 22
     kind: body
     source: |-
