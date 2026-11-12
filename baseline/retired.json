@@ -1,0 +1,128 @@
+{
+ "schema": "sep-cn-retired/1",
+ "updated_at": "2026-11-12T08:40:19Z",
+ "note": "官方已退休条目登记。SUMMARY 不收录；抓取物与译文已移除，内容见 git 历史（移除前 HEAD）。",
+ "entries": [
+  {
+   "slug": "scientific-explanation",
+   "title": "科学解释 scientific explanation (James Woodward and Lauren Ross)",
+   "authors": [],
+   "retired": true,
+   "notice": "Document Retired",
+   "checked_at": "2026-11-12",
+   "successor": "scientific-explanation-20th",
+   "successor_zh": "20 世纪的科学解释理论",
+   "archive_edition": "sum2024",
+   "zh_lines": 1,
+   "task": null,
+   "removed_at": "2026-11-12",
+   "content_recoverable_at": "19eb975e5a11bc3e174ce01f38165aca6c392095"
+  },
+  {
+   "slug": "wisdom",
+   "title": "智慧 wisdom (Sharon Ryan)",
+   "authors": [],
+   "retired": true,
+   "notice": "Document Retired",
+   "checked_at": "2026-11-12",
+   "successor": "wisdom-analytic",
+   "successor_zh": "当代分析哲学中的智慧",
+   "archive_edition": "fall2023",
+   "zh_lines": 170,
+   "task": [
+    "retranslate",
+    "done"
+   ],
+   "removed_at": "2026-11-12",
+   "content_recoverable_at": "19eb975e5a11bc3e174ce01f38165aca6c392095"
+  },
+  {
+   "slug": "wyclif-political",
+   "title": "约翰·威克里夫的政治哲学 John Wyclif’s Political Philosophy (Stephen Lahey)",
+   "authors": [
+    "Lahey, Stephen"
+   ],
+   "retired": true,
+   "notice": "Document Retired",
+   "checked_at": "2026-11-12",
+   "successor": "wyclif",
+   "successor_zh": "约翰·威克里夫",
+   "archive_edition": "spr2025",
+   "zh_lines": 1,
+   "task": [
+    "retranslate",
+    "pending"
+   ],
+   "removed_at": "2026-11-12",
+   "content_recoverable_at": "19eb975e5a11bc3e174ce01f38165aca6c392095"
+  },
+  {
+   "slug": "continental-rationalism",
+   "title": "大陆理性主义 Continental Rationalism (Shannon Dea, Julie Walsh, and Thomas M. Lennon)",
+   "authors": [],
+   "retired": true,
+   "notice": "Document Retired",
+   "checked_at": "2026-11-12",
+   "successor": "rationalism-early-modern",
+   "successor_zh": "早期近代理性主义",
+   "archive_edition": "spr2026",
+   "zh_lines": 1,
+   "task": [
+    "retranslate",
+    "pending"
+   ],
+   "removed_at": "2026-11-12",
+   "content_recoverable_at": "19eb975e5a11bc3e174ce01f38165aca6c392095"
+  },
+  {
+   "slug": "time-experience",
+   "title": "对时间的体验和知觉 the experience and perception of (Robin Le Poidevin)",
+   "authors": [],
+   "retired": true,
+   "notice": "Document Retired",
+   "checked_at": "2026-11-12",
+   "successor": "consciousness-temporal",
+   "successor_zh": "时间意识",
+   "archive_edition": "sum2024",
+   "zh_lines": 1,
+   "task": null,
+   "removed_at": "2026-11-12",
+   "content_recoverable_at": "19eb975e5a11bc3e174ce01f38165aca6c392095"
+  },
+  {
+   "slug": "pineal-gland",
+   "title": "笛卡尔与松果体 and the pineal gland (Gert-Jan Lokhorst)",
+   "authors": [
+    "Lokhorst, Gert-Jan"
+   ],
+   "retired": true,
+   "notice": "Document Retired",
+   "checked_at": "2026-11-12",
+   "successor": null,
+   "successor_zh": null,
+   "archive_edition": "spr2017",
+   "zh_lines": 1,
+   "task": null,
+   "removed_at": "2026-11-12",
+   "content_recoverable_at": "19eb975e5a11bc3e174ce01f38165aca6c392095"
+  },
+  {
+   "slug": "qm-action-distance",
+   "title": "量子力学中的超距作用 action at a distance in (Joseph Berkovitz)",
+   "authors": [],
+   "retired": true,
+   "notice": "Document Retired",
+   "checked_at": "2026-11-12",
+   "successor": null,
+   "successor_zh": null,
+   "archive_edition": "fall2019",
+   "zh_lines": 1,
+   "task": [
+    "retranslate",
+    "pending"
+   ],
+   "removed_at": "2026-11-12",
+   "content_recoverable_at": "19eb975e5a11bc3e174ce01f38165aca6c392095"
+  }
+ ]
+}

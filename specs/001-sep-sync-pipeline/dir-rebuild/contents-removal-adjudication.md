@@ -28,3 +28,12 @@
   f/fictionalism-mathematics.md（真实目标 nominalism-metaphysics 尚无文件，在 ADD 队列）。
 * 快照别名表 654 名中 68 个目标路径缺 SUMMARY 别名行，绝大多数随对应条目
   的 ADD 一并补齐。
+
+## 2026-11-12 改判（用户裁定）
+
+用户复核后裁定：官方已退休的 7 条不再保留于目录，全部删除。本裁定取代 2026-10-28 的“六条保留”及 wyclif-political 恢复项。
+
+* **删除范围**：scientific-explanation、wisdom、wyclif-political、continental-rationalism、time-experience、pineal-gland、qm-action-distance。
+* **处置**：SUMMARY 与 mu-lu-s 各删 1 行；删除中文文件、yuanwen 镜像、en 抓取物、任务 JSON（wisdom 为 done；wyclif-political、continental-rationalism、qm-action-distance 均为 pending）；baseline/entries.json 移除 7 条登记（1879 降至 1872）。
+* **留档**：`baseline/retired.json` 登记 slug、标题、作者、退休公告、接班条目、归档版名与删除前 HEAD；内容可于该提交取回。
+* **依据**：2026-11-12 逐条抓取官方 /entries/<slug>/，均返回 Document Retired；本地归档正文来自 /archives/<edition>/entries/<slug>/（baseline 的 source_url 可证），故“本地有完整正文”与“官方已退休”并不矛盾。

@@ -29068,45 +29068,6 @@
       }
     },
     {
-      "slug": "continental-rationalism",
-      "fetched_at": "2026-10-27T18:05:05Z",
-      "source_url": "https://plato.stanford.edu/archives/spr2026/entries/continental-rationalism/",
-      "title": null,
-      "authors": [],
-      "pubinfo": {
-        "first_published": "Nov 21, 2007",
-        "substantive_revision": "Nov 6, 2017"
-      },
-      "in_article_markers": true,
-      "zh_doc": "c/continental-rationalism.md",
-      "archinfo": {
-        "latest_edition": null,
-        "latest_change_type": null,
-        "history": []
-      },
-      "archive_edition": "spr2026",
-      "files": [
-        {
-          "path": "en/continental-rationalism/index.html",
-          "sha256": "eba049dd1b2e44f66c78a34a996f61a2203e10852a80a36f78afc284e6322634",
-          "bytes": 119690,
-          "kind": "main"
-        }
-      ],
-      "missing": [],
-      "yuanwen": {
-        "md": "yuanwen/c/continental-rationalism.md",
-        "sha256": "50da1c9acbff444d99d9ad0e9f541dd6d64530eb5734e470e704763183fc6275",
-        "source_sha256": "eba049dd1b2e44f66c78a34a996f61a2203e10852a80a36f78afc284e6322634",
-        "converted_at": "2026-10-30T19:21:21Z",
-        "cite_markers": 9,
-        "cite_defs": 94,
-        "supplements": [],
-        "images": [],
-        "notes": 0
-      }
-    },
-    {
       "slug": "continuity",
       "fetched_at": "2026-10-26T20:36:21Z",
       "source_url": "https://plato.stanford.edu/entries/continuity/",
@@ -111178,133 +111139,6 @@
       }
     },
     {
-      "slug": "pineal-gland",
-      "fetched_at": "2026-10-27T17:58:28Z",
-      "source_url": "https://plato.stanford.edu/archives/spr2017/entries/pineal-gland/",
-      "title": "Descartes and the Pineal Gland",
-      "authors": [
-        "Lokhorst, Gert-Jan"
-      ],
-      "pubinfo": {
-        "first_published": "Apr 25, 2005",
-        "substantive_revision": "Sep 18, 2013"
-      },
-      "in_article_markers": true,
-      "zh_doc": "p/pineal-gland.md",
-      "archinfo": {
-        "latest_edition": null,
-        "latest_change_type": null,
-        "history": []
-      },
-      "archive_edition": "spr2017",
-      "files": [
-        {
-          "path": "en/pineal-gland/index.html",
-          "sha256": "4cdaea259a0cff85dc4ab7566ba963b3f4394adc9036ff735a9667a9e542a6e1",
-          "bytes": 82719,
-          "kind": "main"
-        },
-        {
-          "path": "en/pineal-gland/figure1.html",
-          "sha256": "55192f8832ab6aae0a3c5002c8286caa573fcd59f2446d3578a9f4227d95b5fc",
-          "bytes": 14689,
-          "kind": "supplement"
-        },
-        {
-          "path": "en/pineal-gland/figure2.html",
-          "sha256": "7d719a85434fe59cf886018230dc5d98e70a20c55473544f62bd6c5b13830673",
-          "bytes": 12465,
-          "kind": "supplement"
-        },
-        {
-          "path": "en/pineal-gland/figure3.html",
-          "sha256": "89e9888b9ede545c493de571b0e3c37975a1eed3b99047489bce7e625ba1195c",
-          "bytes": 12208,
-          "kind": "supplement"
-        },
-        {
-          "path": "en/pineal-gland/figure4.html",
-          "sha256": "26b4260c36e27237d845e20113816a7c73f725bad18a4856725107051e249cb6",
-          "bytes": 12162,
-          "kind": "supplement"
-        },
-        {
-          "path": "en/pineal-gland/figure5.html",
-          "sha256": "47c8b58778a13c4bd1a587a3a3f2549851960e1145cbb758c88f7de229fac630",
-          "bytes": 12215,
-          "kind": "supplement"
-        },
-        {
-          "path": "en/pineal-gland/figure6.html",
-          "sha256": "92d06c78df05ca48cac8ffde67eec52fd440d79cc8e1943f069c24da2ab75c2b",
-          "bytes": 12148,
-          "kind": "supplement"
-        },
-        {
-          "path": "en/pineal-gland/berengario1530.jpg",
-          "sha256": "5bad9a5d33c170d64cdc6e82fe9a1cea9c3070d67c8254fd33efa6d7a4545925",
-          "bytes": 110098,
-          "kind": "referenced"
-        },
-        {
-          "path": "en/pineal-gland/cambridge1300.jpg",
-          "sha256": "eebcea68e2d4bcdd26f8e115bac199ba4edad7386789779f7740123874bcb336",
-          "bytes": 117788,
-          "kind": "referenced"
-        },
-        {
-          "path": "en/pineal-gland/descartes1664.jpg",
-          "sha256": "bbbcc7c08b1d1264c92dead0385a763fa6025689d85ce471509e983cbe3426a3",
-          "bytes": 74659,
-          "kind": "referenced"
-        },
-        {
-          "path": "en/pineal-gland/pineal.jpg",
-          "sha256": "6d76303f44c664c0d8ec75877ec4941b0218a1b2615c49827a43d84e42a69592",
-          "bytes": 188681,
-          "kind": "referenced"
-        },
-        {
-          "path": "en/pineal-gland/qusta.jpg",
-          "sha256": "330bf5ff587dd1957b2335023334c78ca0750c868fd2c4bd38d44deffbf39886",
-          "bytes": 30353,
-          "kind": "referenced"
-        },
-        {
-          "path": "en/pineal-gland/reisch1535.jpg",
-          "sha256": "52ab793d6c7733d63d9b9b6ed24b7d9acb08f9f59ce8f08d8a34d63b072f6baf",
-          "bytes": 86445,
-          "kind": "referenced"
-        }
-      ],
-      "missing": [],
-      "yuanwen": {
-        "md": "yuanwen/p/pineal-gland.md",
-        "sha256": "d76313ba0246a4b9d907c93a46476eb0abbc63b1109f149a4760488ed99c371c",
-        "source_sha256": "4cdaea259a0cff85dc4ab7566ba963b3f4394adc9036ff735a9667a9e542a6e1",
-        "converted_at": "2026-10-30T19:23:50Z",
-        "cite_markers": 36,
-        "cite_defs": 72,
-        "supplements": [
-          "pineal-gland.figure1.md",
-          "pineal-gland.figure2.md",
-          "pineal-gland.figure3.md",
-          "pineal-gland.figure4.md",
-          "pineal-gland.figure5.md",
-          "pineal-gland.figure6.md"
-        ],
-        "images": [
-          "yuanwen/assets/pineal-gland/berengario1530.jpg",
-          "yuanwen/assets/pineal-gland/cambridge1300.jpg",
-          "yuanwen/assets/pineal-gland/descartes1664.jpg",
-          "yuanwen/assets/pineal-gland/pineal.jpg",
-          "yuanwen/assets/pineal-gland/qusta.jpg",
-          "yuanwen/assets/pineal-gland/reisch1535.jpg"
-        ],
-        "notes": 0
-      }
-    },
-    {
       "slug": "plato",
       "fetched_at": "2026-10-26T20:44:42Z",
       "source_url": "https://plato.stanford.edu/entries/plato/",
@@ -119059,80 +118893,6 @@
           "yuanwen/assets/qm/figure2.gif"
         ],
         "notes": 13
-      }
-    },
-    {
-      "slug": "qm-action-distance",
-      "fetched_at": "2026-10-27T17:58:36Z",
-      "source_url": "https://plato.stanford.edu/archives/fall2019/entries/qm-action-distance/",
-      "title": null,
-      "authors": [],
-      "pubinfo": {
-        "first_published": "Jan 26, 2007",
-        "substantive_revision": null
-      },
-      "in_article_markers": true,
-      "zh_doc": "q/qm-action-distance.md",
-      "archinfo": {
-        "latest_edition": null,
-        "latest_change_type": null,
-        "history": []
-      },
-      "archive_edition": "fall2019",
-      "files": [
-        {
-          "path": "en/qm-action-distance/index.html",
-          "sha256": "ff173488f3af5780fc88db8c30ab82d783c1a57e30726605d7bed9de1940658d",
-          "bytes": 234750,
-          "kind": "main"
-        },
-        {
-          "path": "en/qm-action-distance/notes.html",
-          "sha256": "a70763fa4c5fd660d1540891a3d464619b697bf5a3faa7886a250c9ce1846660",
-          "bytes": 34267,
-          "kind": "notes"
-        },
-        {
-          "path": "en/qm-action-distance/figure1.jpg",
-          "sha256": "8eec4cf8b3b5e25da13742732e6b79484af05bbe7aa1a0ed3d4f1c87a01dc229",
-          "bytes": 14138,
-          "kind": "image"
-        },
-        {
-          "path": "en/qm-action-distance/figure2.jpg",
-          "sha256": "1612b410629d3e54b457af3f0843188b86a66cdf9c8802e4e1bebc43f9b5ebf1",
-          "bytes": 8337,
-          "kind": "image"
-        },
-        {
-          "path": "en/qm-action-distance/figure3.jpg",
-          "sha256": "82d2bd7bc43427299abf000ef261b520668cd2531671975f0cb90dab28af7943",
-          "bytes": 11308,
-          "kind": "image"
-        },
-        {
-          "path": "en/qm-action-distance/figure4.jpg",
-          "sha256": "bcc11614e43e441b5187ba53c07f72a64258cbe8c65ad4678abc121be6718586",
-          "bytes": 20243,
-          "kind": "image"
-        }
-      ],
-      "missing": [],
-      "yuanwen": {
-        "md": "yuanwen/q/qm-action-distance.md",
-        "sha256": "a9ceb9cbccd1c52bfd1e9600720a132347ffbd1863d32c2098ae671a2077e59d",
-        "source_sha256": "ff173488f3af5780fc88db8c30ab82d783c1a57e30726605d7bed9de1940658d",
-        "converted_at": "2026-10-30T19:24:05Z",
-        "cite_markers": 126,
-        "cite_defs": 217,
-        "supplements": [],
-        "images": [
-          "yuanwen/assets/qm-action-distance/figure1.jpg",
-          "yuanwen/assets/qm-action-distance/figure2.jpg",
-          "yuanwen/assets/qm-action-distance/figure3.jpg",
-          "yuanwen/assets/qm-action-distance/figure4.jpg"
-        ],
-        "notes": 45
       }
     },
     {
@@ -130302,57 +130062,6 @@
         "supplements": [],
         "images": [],
         "notes": 0
-      }
-    },
-    {
-      "slug": "scientific-explanation",
-      "fetched_at": "2026-10-27T17:58:44Z",
-      "source_url": "https://plato.stanford.edu/archives/sum2024/entries/scientific-explanation/",
-      "title": null,
-      "authors": [],
-      "pubinfo": {
-        "first_published": "May 9, 2003",
-        "substantive_revision": "May 10, 2021"
-      },
-      "in_article_markers": true,
-      "zh_doc": "s/scientific-explanation.md",
-      "archinfo": {
-        "latest_edition": null,
-        "latest_change_type": null,
-        "history": []
-      },
-      "archive_edition": "sum2024",
-      "files": [
-        {
-          "path": "en/scientific-explanation/index.html",
-          "sha256": "7a5d0afbc0362b4f6f4dd5f9a69070875c73798096f4045ef4530aad580cb855",
-          "bytes": 143148,
-          "kind": "main"
-        },
-        {
-          "path": "en/scientific-explanation/notes.html",
-          "sha256": "d5b9cd728377434fa0fa8ca339feffd3bb8ecb6b828ae9c34dc7d727d28d5568",
-          "bytes": 20003,
-          "kind": "notes"
-        },
-        {
-          "path": "en/scientific-explanation/local.js",
-          "sha256": "4807d31239bc93ce1785e68055de28e6b5981ce555802dabd085754df7810732",
-          "bytes": 171,
-          "kind": "referenced"
-        }
-      ],
-      "missing": [],
-      "yuanwen": {
-        "md": "yuanwen/s/scientific-explanation.md",
-        "sha256": "974f4c0b03f5d5a2b6f7a0fbd9aa3d5e9cfd2ad676b2629fc63944103727f3e8",
-        "source_sha256": "7a5d0afbc0362b4f6f4dd5f9a69070875c73798096f4045ef4530aad580cb855",
-        "converted_at": "2026-10-30T19:24:25Z",
-        "cite_markers": 28,
-        "cite_defs": 58,
-        "supplements": [],
-        "images": [],
-        "notes": 17
       }
     },
     {
@@ -143048,45 +142757,6 @@
       }
     },
     {
-      "slug": "time-experience",
-      "fetched_at": "2026-10-27T18:05:07Z",
-      "source_url": "https://plato.stanford.edu/archives/sum2024/entries/time-experience/",
-      "title": null,
-      "authors": [],
-      "pubinfo": {
-        "first_published": "Aug 28, 2000",
-        "substantive_revision": "May 10, 2019"
-      },
-      "in_article_markers": true,
-      "zh_doc": "t/time-experience.md",
-      "archinfo": {
-        "latest_edition": null,
-        "latest_change_type": null,
-        "history": []
-      },
-      "archive_edition": "sum2024",
-      "files": [
-        {
-          "path": "en/time-experience/index.html",
-          "sha256": "021e9489781e279c54c041daf235e75116ec061c60c956c2ce4538d7d561396d",
-          "bytes": 63286,
-          "kind": "main"
-        }
-      ],
-      "missing": [],
-      "yuanwen": {
-        "md": "yuanwen/t/time-experience.md",
-        "sha256": "bb107e17df7c432835eaafc71bac96fa0dccc16be0c6a3fcfb5f6db14cb25615",
-        "source_sha256": "021e9489781e279c54c041daf235e75116ec061c60c956c2ce4538d7d561396d",
-        "converted_at": "2026-10-30T19:24:49Z",
-        "cite_markers": 13,
-        "cite_defs": 74,
-        "supplements": [],
-        "images": [],
-        "notes": 0
-      }
-    },
-    {
       "slug": "time-machine",
       "fetched_at": "2026-10-26T20:47:58Z",
       "source_url": "https://plato.stanford.edu/entries/time-machine/",
@@ -150016,51 +149686,6 @@
       }
     },
     {
-      "slug": "wisdom",
-      "fetched_at": "2026-10-27T19:02:10Z",
-      "source_url": "https://plato.stanford.edu/archives/fall2023/entries/wisdom/",
-      "title": null,
-      "authors": [],
-      "pubinfo": {
-        "first_published": "Jan 8, 2007",
-        "substantive_revision": "Feb 4, 2013"
-      },
-      "in_article_markers": true,
-      "zh_doc": "w/wisdom.md",
-      "archinfo": {
-        "latest_edition": null,
-        "latest_change_type": null,
-        "history": []
-      },
-      "archive_edition": "fall2023",
-      "files": [
-        {
-          "path": "en/wisdom/index.html",
-          "sha256": "426a7c4138b12294f92e7f7e3f03b95c4d9aa2a3f025b3f28dd4ce2680f0d193",
-          "bytes": 52274,
-          "kind": "main"
-        },
-        {
-          "path": "en/wisdom/notes.html",
-          "sha256": "3aff00de202386a85f90c36b6cfb0c78ebb8f1784851f164bab89dcca7a192e2",
-          "bytes": 11887,
-          "kind": "notes"
-        }
-      ],
-      "missing": [],
-      "yuanwen": {
-        "md": "yuanwen/w/wisdom.md",
-        "sha256": "ba5f2ec8bcb5f6cadccda075c1d5d4ab77474f24372a8eb7e4dd5ea6ca322e46",
-        "source_sha256": "426a7c4138b12294f92e7f7e3f03b95c4d9aa2a3f025b3f28dd4ce2680f0d193",
-        "converted_at": "2026-10-30T19:25:01Z",
-        "cite_markers": 4,
-        "cite_defs": 19,
-        "supplements": [],
-        "images": [],
-        "notes": 3
-      }
-    },
-    {
       "slug": "wisdom-analytic",
       "fetched_at": "2026-10-26T21:18:49Z",
       "source_url": "https://plato.stanford.edu/entries/wisdom-analytic/",
@@ -150981,54 +150606,6 @@
       }
     },
     {
-      "slug": "wyclif-political",
-      "fetched_at": "2026-10-28T17:43:42Z",
-      "source_url": "https://plato.stanford.edu/archives/spr2025/entries/wyclif-political/",
-      "title": "John Wyclif’s Political Philosophy",
-      "authors": [
-        "Lahey, Stephen"
-      ],
-      "pubinfo": {
-        "first_published": "Jun 10, 2006",
-        "substantive_revision": "Apr 23, 2013"
-      },
-      "in_article_markers": true,
-      "zh_doc": "w/wyclif-political.md",
-      "archinfo": {
-        "latest_edition": null,
-        "latest_change_type": null,
-        "history": []
-      },
-      "archive_edition": "spr2025",
-      "files": [
-        {
-          "path": "en/wyclif-political/index.html",
-          "sha256": "d52203002ad60f305811ee5906038cf33485b8604bf9927bd881f6a654d71dbc",
-          "bytes": 64629,
-          "kind": "main"
-        },
-        {
-          "path": "en/wyclif-political/notes.html",
-          "sha256": "36ff1c53a443220b8be2a1a4733b27aa1ea8a5473c494c343d73f601475751ef",
-          "bytes": 15514,
-          "kind": "notes"
-        }
-      ],
-      "missing": [],
-      "source_sha256": "d52203002ad60f305811ee5906038cf33485b8604bf9927bd881f6a654d71dbc",
-      "yuanwen": {
-        "md": "yuanwen/w/wyclif-political.md",
-        "sha256": "d25f95bf5e2bd6f25f3d694e307226bcc110772aeb5301c072992a40ccc8af6e",
-        "source_sha256": "d52203002ad60f305811ee5906038cf33485b8604bf9927bd881f6a654d71dbc",
-        "converted_at": "2026-10-30T19:25:03Z",
-        "cite_markers": 0,
-        "cite_defs": 47,
-        "supplements": [],
-        "images": [],
-        "notes": 11
-      }
-    },
-    {
       "slug": "xenocrates",
       "fetched_at": "2026-10-26T21:18:56Z",
       "source_url": "https://plato.stanford.edu/entries/xenocrates/",
@@ -151816,5 +151393,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-09T17:00:39Z"
+  "updated_at": "2026-11-12T08:51:26Z"
 }

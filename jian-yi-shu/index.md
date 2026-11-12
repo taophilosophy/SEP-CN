@@ -618,7 +618,7 @@
 | 2.2 标题不一致 4 处 | 现状 0 处：四条路径在 SUMMARY 与 mu-lu-s 的标题逐字符一致（`a/antiochus-ascalon.md`、`d/disability-critical.md`、`m/medieval-futcont.md`、`i/innate-acquired.md`） | 无需改动（结构重建与干执行二已统一） |
 | 2.3 重复收录 5 处 | 现状 0 处：五条路径在 mu-lu-s 均只出现 1 次，全库无重复路径 | 无需改动 |
 | 2.4 别名 4 处 | 均已消解：consent 别名已不存在；action at a distance、pineal gland 转为正式子条目（`q/qm-action-distance.md`、`p/pineal-gland.md`）；recursion 改指 `recursive functions`，官方别名 recursive 在册 | 无需改动 |
-| 2.5 主条目 14 条 | 12 条为项目自建页；余 7 条为官方已退休条目（scientific-explanation、wisdom、wyclif-political、pineal-gland、qm-action-distance、continental-rationalism、time-experience），依 2026-10-28 撤稿裁定保留并建归档基线，不属目录缺陷。本节对 continental-rationalism“条目在线”的判断系软 404 误读（HTTP 200 加 Document Not Found 正文），已由该裁定更正 | 无需改动 |
+| 2.5 主条目 14 条 | 12 条为项目自建页；余 7 条经 2026-11-12 现行页面逐条核实，均为 Document Retired（含 continental-rationalism；本节原判“条目在线”系软 404 误读，HTTP 200 加 Document Not Found 正文） | 按用户 2026-11-12 裁定删除 7 条并登记 `baseline/retired.json`；其中 5 条有接班条目，2 条无 |
 | 2.6 作者名单 155 条 | 复核余 74 条：72 条按官方 `citation_author` 对齐（补录缺失作者 41、名单与顺序更新 16、格式规范化 15）；berlin、philosophy-mexico 两条经现行页面核对，本地署名已正确 | 已修复，提交 bf35f7d16（SUMMARY、mu-lu-s、H1 三处同步） |
 
 补充说明：2.6 的 155 条与本轮 74 条之差，源于干执行二（f25d0108）已对齐 263 处，本轮不再重复改动已一致项。作者判定以条目页 `citation_author` 为准；contents 页个别条目滞后（berlin、pascal、pragmatic-belief-god、nonwellfounded-set-theory），四处均经现行页面逐条核对后定夺。
