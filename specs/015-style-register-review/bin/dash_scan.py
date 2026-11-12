@@ -68,11 +68,16 @@ def scan_file(path: Path) -> dict:
 
 def main() -> None:
     rows = []
+    missing = []
     for raw in QUEUE.read_text(encoding="utf-8").splitlines():
         if not raw.strip():
             continue
         rec = json.loads(raw)
         fpath = HERE.parents[2] / rec["path"]
+        if not fpath.exists():
+            # queue.jsonl 是历史快照；官方退休/迁移后的词条可能已不在，跳过并提示
+            missing.append(rec["path"])
+            continue
         stat = scan_file(fpath)
         rows.append({"slug": rec["slug"], **stat})
     rows.sort(key=lambda r: (-r["per_1k"], -r["dash2"], r["slug"]))
@@ -80,6 +85,8 @@ def main() -> None:
         for r in rows:
             f.write(json.dumps(r, ensure_ascii=False) + "\n")
     print(f"scanned {len(rows)} entries -> {OUT}")
+    if missing:
+        print(f"  跳过队列中已不存在的词条 {len(missing)}: {', '.join(missing)}")
     top = rows[:10]
     for r in top:
         print(f"  {r['per_1k']:>7.2f}/千字  dash2={r['dash2']:<3} dash1={r['dash1']:<2} {r['slug']}")
