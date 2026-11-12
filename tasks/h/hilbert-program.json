@@ -44,7 +44,7 @@
       "status": "ok",
       "actor": "H-main-20261112",
       "at": "2026-11-11T20:19:36Z",
-      "evidence": "r1 全文回读+批量实修 33 处（script/r1_hilbert_program_fix.py 前置门+幂等+残余0）：H1 定名希尔伯特纲领并同步 SUMMARY 两行/mu-lu-s（英文补全上游全题，ADR-0024）；反斜杠ne 转义断损修复 1 处；源文 P,P 连写断句 2 处；斜体 CJK 转加粗 1 处；文言腔（所自出/希氏）2 处；引证形态汉名化 16 处（hare 先例）；有限/有穷概念域统一 4 处；交叉引用中文化 3 处（proof theory 词条/哥德尔不完备定理词条名/Mancosu 等）；Herbrand/Nelson 汉名化补全名。L95 补修 1 处（weak-verb+70 字长句拆分，prose 6→4 余 4 全为引块内部 ADR-0020 豁免）。登记 5 行（ren-ming Herbrand=埃尔布朗/Nelson=纳尔逊/Takeuti=竹内外史 三条联网查证，yi-zhe Hilbert's Program=希尔伯特纲领/incompleteness theorems 词条名裁定）。五维对账 H16:16 M110:110 D109:109 P52:51 byline 豁免"
+      "evidence": "r1 全文回读+批量实修 33 处（script/r1_hilbert_program_fix.py 前置门+幂等+残余0）：H1 定名希尔伯特纲领并同步 SUMMARY 两行/mu-lu-s（英文补全上游全题，ADR-0024）；反斜杠ne 转义断损修复 1 处；源文 P,P 连写断句 2 处；斜体 CJK 转加粗 1 处；文言腔（所自出/希氏）2 处；引证形态汉名化 16 处（hare 先例）；有限/有穷概念域统一 4 处；交叉引用中文化 3 处（proof theory 词条/哥德尔不完备定理词条名/Mancosu 等）；Herbrand/Nelson 汉名化补全名。L95 补修 1 处（weak-verb+70 字长句拆分，prose 6→4 余 4 全为引块内部 ADR-0020 豁免）。登记 5 行（ren-ming Herbrand=埃尔布朗/Nelson=纳尔逊/Takeuti=竹内外史 三条联网查证，yi-zhe Hilbert's Program=希尔伯特纲领/incompleteness theorems 词条名裁定）。五维对账 H16:16 M110:110 D109:109 P52:51 byline 豁免；语体：现代汉语学术书面语，无成段仿古或文言腔（ADR-0033 补记 2026-11-12，E 批会话代核 h/hilbert-program.md：粗筛 焉/矣/乎/者也 4 处，抽查均为“几乎/似乎/论者也”等常用词或引文）"
     },
     {
       "step": "r2",
