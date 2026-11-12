@@ -19,8 +19,11 @@
 | A Modern Introduction to Logic | — | 《逻辑学现代导论》 | 首译（stebbing） | 斯泰宾著作（1930）；书名体例译；凭证 2026-11-09 | 2026-11-09 |
 | A New Elucidation of the First Principles of Metaphysical Cognition | — | 《形而上学认识诸第一原则的新阐明》（简称《新阐明》） | kant-science | 学界通行；kant-leibniz 短形先例 | 2026-11-05 |
 | anaphora | — | 回指 | dynamic-semantics | 学界通行；凭证 2026-11-12 | 2026-11-12 |
+| anaphoric index | — | 回指索引 | dynamic-semantics | 学界通行（DMG/ITL 形式语义）；凭证 2026-11-12 | 2026-11-12 |
 | anorexia nervosa | — | 神经性厌食 | george-eliot 首译 | 医学通行 | 2026-11-12 |
 | antelapsarian state | status ante lapsum | 堕落前状态 | evil-kinds-origins | 神学通行（亚当堕落前的状态） | 2026-11-12 |
+| appositive | — | 同位语 | dynamic-semantics | 语法通行（与同位语从句同族）；凭证 2026-11-12 | 2026-11-12 |
+| assertoric force | — | 断言之力 | dynamic-semantics | 言语行为理论惯例（assertoric 断言的）；凭证 2026-11-12 | 2026-11-12 |
 | at-issue content | — | 议题内容 | dynamic-semantics | 学界惯例（与 non-at-issue 非议题内容对举）；凭证 2026-11-12 | 2026-11-12 |
 | Axis of Evil | — | 邪恶轴心 | evil-kinds-origins | 通行政名汉译（2002 年美国国情咨文） | 2026-11-12 |
 | battery（医疗语境） | — | 人身侵害 | informed-consent | 首译（未经同意而触碰身体的侵权；侵权法亦译“殴打”，正文两形并存） | 2026-11-12 |
@@ -732,6 +735,8 @@
 | caritas | caritas | 仁爱（亦作“博爱”） | 首现（justice-virtue） | 学界惯例（神学德性，托马斯·阿奎那）；凭证 2026-11-02 | 2026-11-02 |
 | carrier screening | — | 携带者筛查 | genetics | 医学遗传学通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
 | Cartesian product | — | 笛卡尔积 | logic-infinitary | 数学通行译法；凭证 2026-11-10 | 2026-11-09 |
+| context | — | 语境 | dynamic-semantics | 语言哲学/语用学通行（技术义，与日常"上下文"别）；凭证 2026-11-12 | 2026-11-12 |
+| coreference | — | 共指 | dynamic-semantics | 语言学通行（co-reference）；凭证 2026-11-12 | 2026-11-12 |
 | Cārvāka / Lokāyata | चार्वाक / लोकायत | 顺世论 | jayaraasi | 印度哲学史学界通行（唯物论派；音译“遮卢婆迦”较少用）；与既有 anumāna/pratyakṣa 因明系译名并行 | 2026-11-07 |
 | casus | casus | 情形（正文保留拉丁原词 *casus*，首现括注） | richard-sophister | 学界惯例（义务论辩研究保留拉丁术语） | 2026-11-04 |
 | catastematic pleasure | καταστηματικὴ ἡδονή | 静态快乐 | epicurus | 本词条译名（与 kinetic 动态快乐对举；西塞罗拉丁译 static） | 2026-11-12 |
@@ -1381,6 +1386,7 @@
 | dialogical | — | 对话性的 | gadamer-aesthetics | 学界惯例（诠释学通行） | 2026-11-01 |
 | Dialogue / Dialogus | Dialogus | 《对话》（首现括注） | ockham | Kilcullen 英译项目（英国学术院版）通行简称；凭证 2026-11-07 | 2026-11-07 |
 | dialysis | — | 透析 | organ-donation | 学界惯例（医学名词审定词；凭证 2026-11-06） | 2026-11-06 |
+| diamond modality | — | 菱形模态 | dynamic-semantics | 模态逻辑通行（◇ 算子图形名）；凭证 2026-11-12 | 2026-11-12 |
 | diamond splinters | — | 金刚屑因 | gorampa | 藏传中观五大因之一（rdo rje’i gzegs ma）；学界通行 | 2026-11-09 |
 | Dichotomy | — | 二分法（悖论名；亦作“二分”） | zeno-elea | 学界通行（《物理学》研究，苗力田译本传统）；凭证 2026-11-09 | 2026-11-09 |
 | dictator game | — | 独裁者博弈 | justice-moral-psych | 实验经济学通行汉译（亦作“独裁者游戏”）；凭证 2026-11-10 | 2026-11-10 |
@@ -1401,6 +1407,7 @@
 | dimension | — | 维数 | qm | 学界惯例（线性代数通行；审定库无直接命中）；凭证 2026-11-11 | 2026-11-11 |
 | dimensive quantity | — | 维度量 | omnipresence | 学界通行（经院术语 quantitas dimensiva）；凭证 2026-11-08 | 2026-11-08 |
 | Diodorean possibility | — | 狄奥多罗斯式可能性 | diodorus-cronus | 学界通行（可能者即现在为真或将为真）；凭证 2026-11-07 | 2026-11-07 |
+| discourse referent | — | 话语所指 | dynamic-semantics | DRT 文献通行（亦作"话语指称物"）；凭证 2026-11-12 | 2026-11-12 |
 | Dīpikā | दीपिका | 《明灯疏》 | early-modern-india | Annambhaṭṭa 自注书名义译（“灯”义；简称 TSD 沿用）；凭证 2026-11-10 | 2026-11-10 |
 | Dirac equation | — | 狄拉克方程 | spacetime-convensimul | 学界惯例（物理学通行） | 2026-11-06 |
 | direct / indirect realization（dngos rtogs / shugs rtogs） | — | 直证／间接证 | epistemology-language-tibetan | 藏传量论通行（亲证/影证） | 2026-11-04 |
@@ -3052,6 +3059,7 @@
 
 ## M
 
+| marker (DMG) | — | 标记 | dynamic-semantics | 学界惯例（DMG 的 marker，借程序变量义）；凭证 2026-11-12 | 2026-11-12 |
 | matter theory (of evil) | — | 质料论 | evil-kinds-origins | 本词条译名 | 2026-11-12 |
 | M-belief | — | M-信念 | religious-experience | 学界通行（普兰丁格术语） | 2026-11-05 |
 | mabādiʾ | مبادئ | 本原（mabdaʾ 复数；principles） | arabic-islamic-phil-math | 学界通行 | 2026-11-08 |
@@ -3142,6 +3150,7 @@
 | mathematical fuzzy logic | — | 数学模糊逻辑 | logic-fuzzy | Hájek 1998 以来的学科名通行译法；凭证 2026-11-09 | 2026-11-09 |
 | mathematical logic | — | 数理逻辑 | 语料回收 | 审定名词库（termonline-all·数学名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
 | mathematical pluralism | — | 数学多元主义 | 语料回收（mathematics-inconsistent 首译） | 数学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
+| multimodal Kripke models | — | 多模态克里普克模型 | dynamic-semantics | 模态逻辑通行（Kripke=克里普克通译）；凭证 2026-11-12 | 2026-11-12 |
 | mātra | — | 唯 | yogacara 首译 | 梵语“仅、只”（cittamātra／vijñaptimātra 构词成分）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | matter | — | 质料（亚里士多德 hylê 语境；近代物理语境译“物质”） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | matter field | — | 物质场 | spacetime-holearg | A 档（物理学通行译名） | 2026-10-28 |
@@ -4029,6 +4038,7 @@
 | Poincaré transformations | Poincaré transformations | 庞加莱变换 | spacetime-convensimul | 学界惯例（物理学通行） | 2026-11-06 |
 | point-coincidence argument | — | 点重合论证 | spacetime-holearg | B 档（Stachel 术语，学界通行译名） | 2026-10-28 |
 | point-mass | — | 质点 | newton | 力学通行；凭证 2026-11-08 | 2026-11-08 |
+| pointed model | — | 点模型 | dynamic-semantics | 模态逻辑通行（pointed epistemic model=点式认知模型，亦作"带点模型"）；凭证 2026-11-12 | 2026-11-12 |
 | pointer basis | — | 指针基 | quantum-bayesian | 退相干理论通行（沿 pointer observable 行“指针”口径，basis 作“基”与 Hilbert space 基一致）；凭证 2026-11-12 | 2026-11-12 |
 | pointer observable | — | 指针可观测量 | qm | 学界惯例（pointer 审定库作“指针”，observable 审定库作“可观测量”）；凭证 2026-11-11 | 2026-11-11 |
 | pointer variable | — | 指针变量 | qm-relational | 沿 qm 行“指针可观测量”；学界惯例；凭证 2026-11-11 | 2026-11-11 |
@@ -4089,6 +4099,8 @@
 | POVM | — | 正算子值测度 | quantum-bayesian | 审定名词库（物理学名词 positive operator-valued measure）；凭证 2026-11-12 | 2026-11-12 |
 | power set | — | 幂集 | quine-nf | 集合论通行译名；凭证 2026-11-09 | 2026-11-09 |
 | powerful qualities | — | 力量性质 | 首现（zombies） | 学界惯例（马丁-海尔术语；亦作“有力性质”，主形取力量性质）；凭证 2026-11-10 | 2026-11-10 |
+| precisification | — | 精确化 | dynamic-semantics | 模糊语义学通行（vague predicates 文献）；凭证 2026-11-12 | 2026-11-12 |
+| presupposition | — | 预设 | dynamic-semantics | 语言哲学/语言学通行（亦作"前提"）；凭证 2026-11-12 | 2026-11-12 |
 | Prābhākara | प्राभाकर | 钵罗跋迦罗派 | early-modern-india 首译 | 弥曼差两支派通行音译（驮摩罗波怛罗罗叉一系）；凭证 2026-11-10 | 2026-11-10 |
 | practical commitment | — | 实践承诺 | faith | 学界通行（信任与信仰哲学）；凭证 2026-11-11 | 2026-11-11 |
 | practical faith | — | 实践信仰 | august-rehberg 首译 | 康德研究通行；凭证 2026-11-08 | 2026-11-08 |
@@ -4663,6 +4675,7 @@
 | Sache selbst | Sache selbst | 事情本身（die Sache selbst；亦作“事情自身”） | gadamer-aesthetics | 学界惯例（现象学/诠释学通行） | 2026-11-01 |
 | Sachlichkeit | Sachlichkeit | 实事性 | yorck 首译 | 学界通行（德语 Sachlichkeit 实事性／就事论事；本册定“实事性”一形）；凭证 2026-11-11 | 2026-11-11 |
 | sacraments | — | 圣事 | 语料回收（marsilius-inghen 首译） | 天主教通行译法（新教多译“圣礼”）；凭证 2026-11-06 | 2026-11-06 |
+| state transition | — | 状态转移 | dynamic-semantics | 计算语义通行（类型 s→s→t 之对象）；凭证 2026-11-12 | 2026-11-12 |
 | sādhya | साध्य | 宗（所立） | jaina-philosophy | 因明传统译名（三支／五支之“宗”） | 2026-11-08 |
 | sādhyābhāvavad-avṛttitvam | — | 于所立之无处不转 | early-modern-india | V1 定义义译（源文自注 non-occurrence in the loci of absence of S）；凭证 2026-11-10 | 2026-11-10 |
 | sadistic conclusion | — | 施虐结论 | repugnant-conclusion | 学界惯例（Arrhenius 2000a 术语）；凭证 2026-11-11 | 2026-11-11 |
@@ -5324,6 +5337,7 @@
 | tafsīr | تفسير | 解释（经注） | ibn-taymiyya | 学界通行 | 2026-11-12 |
 | taint | — | 污染（沾染） | evil-kinds-origins | 本词条译名（象征污染逻辑） | 2026-11-12 |
 | tarakhê | ταραχή | 扰动 | epicurus | 本词条译名（与 ataraxia 心神宁静 对举） | 2026-11-12 |
+| test (dynamic semantics) | — | 测试 | dynamic-semantics | 程序语义借义（formula as test）；凭证 2026-11-12 | 2026-11-12 |
 | the all (to pan) | τὸ πᾶν | 万有 | epicurus | 本词条译名（亦作“宇宙整体”） | 2026-11-12 |
 | The Cyrenaics | — | 昔勒尼学派 | epicurus | SUMMARY 定名（c/cyrenaics；亦作“昔兰尼派”） | 2026-11-12 |
 | the Table of Evils | — | 恶之表 | evil-kinds-origins | 本词条译名（作者自制图表） | 2026-11-12 |
@@ -5855,6 +5869,7 @@
 | waḥdat al-wujūd | وحدة الوجود | 存在单一论（亦作“存在统一论”） | 语料回收 | 学界惯例（伊斯兰哲学（伊本·阿拉比学派））；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | wahm | وهم | 估量（阿维森纳内感官 estimative faculty；与 vis aestimativa 估量力行相区分） | arabic-islamic-phil-math | 学界通行（阿维森纳心理学文献） | 2026-11-08 |
 | wahmī / mawhūm | وهمي／موهوم | 估量性的／被想象物（estimative/imagined；估量性科学） | arabic-islamic-phil-math | 译名裁定（estimative 直译） | 2026-11-08 |
+| weakest precondition | — | 最弱前置条件 | dynamic-semantics | 程序逻辑通行（Dijkstra 术语）；凭证 2026-11-12 | 2026-11-12 |
 | wājib al-wujūd | واجب الوجود | 必然存在者 | ibn-kammuna | 伊斯兰哲学通行（“其存在为必然者”）；凭证 2026-11-10 | 2026-11-10 |
 | war of manoeuvre | — | 运动战 | gramsci | 葛兰西军事比喻术语，学界通行译名；凭证 2026-11-11（主会话直译 g/gramsci） | 2026-11-11 |
 | war of position | — | 阵地战 | gramsci | 葛兰西军事比喻术语，学界通行译名；凭证 2026-11-11（主会话直译 g/gramsci） | 2026-11-11 |
