@@ -2,7 +2,7 @@
   "slug": "evil-kinds-origins",
   "kind": "retranslate",
   "zh_doc": "e/evil-kinds-origins.md",
-  "state": "s1_checked",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -24,6 +24,20 @@
       "actor": "E-main-20261112",
       "at": "2026-11-12T15:19:52Z",
       "evidence": "s1 忠实度对账：逐段对照 yuanwen/e/evil-kinds-origins.md（459 行；pubinfo Dec 10 2021，Winter 2021 存档），导语＋七节＋表 1/2＋尾节全覆盖；五维：headings 源 ##7 ###8 ####4 = 中 7/8/4、markers 67:67、defs 69:69、blocks 121:120（byline 豁免）、年份 166:166；引文（OED、安瑟伦《论魔鬼的堕落》、普罗提诺《九章集》、约伯记 4:7–10、罗马书 8:22、Arendt 致 Jaspers、Wood、Jaspers、Kant AK 6:43、Augustine《忏悔录》卷二、Schelling、Plantinga 1989:58、Stone 2009:208）逐处核并对齐栏页"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "E-main-20261112",
+      "at": "2026-11-12T15:22:02Z",
+      "evidence": "s2 术语/人名对账：术语 30 行入册（缺失论/褫夺论/质料论/实在属性论、形而上学之恶/经验之恶/道德之恶/自然之恶/系统性恶/象征性恶/根本恶、恶之表、鬼魅式非人格、象征价值/象征负价值、可恶论 kakology、善的外观、存在巨链、灵魂塑造、堕落前状态、恶的平庸性、Unde malum、施图特霍夫、邪恶轴心/邪恶帝国，及《忏悔录》《失乐园》《纯然理性界限内的宗教》《地下室手记》《九章集》《约伯记》《罗马书》）；人名 15 行入册（尼采、波爱修、陀思妥耶夫斯基、艾希曼、图利、鲁佩尔、马勒布朗士、古劳尔、理查德·罗斯坦、奇格内尔、拉米雷斯、以利法、埃克哈德、科尔布、斯特格利希-彼得森、亚当斯母女/父子两行）；对齐既有行：skeptical theism 怀疑论神学、plenum 充实、安瑟伦、Mates 梅特斯、Margalit 玛格利特、Schelning/谢林、Ibn Sīnā、原罪；重复行（banality/Enneads/great chain/Iblis 已有同键行）据单一事实源删除本方重复；check_terms 自洽 exit 0。语体：现代汉语学术书面语，无成段仿古或文言腔（ADR-0033；393 行通读）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "E-main-20261112",
+      "at": "2026-11-12T15:22:04Z",
+      "evidence": "s3 四检：check_style --strict 0（表格内 CJK 斜体 10 处转粗）；check_academic --strict 硬错误 0；check_math 公式 missing/unbalanced 均 0（正文无公式）；check_summary 本词条 H1 一致（另 1 硬错误属并行会话在途件 g/global-democracy.md）；check_mulu_s HARD 0；check_prose 30→3，余 3 全在直引块内（《约伯记》4:7–10 一句 de-chain、Wood 2010:157 引文一长句＋de-chain），按 ADR-0020 豁免留痕"
     }
   ],
   "blockers": [],
