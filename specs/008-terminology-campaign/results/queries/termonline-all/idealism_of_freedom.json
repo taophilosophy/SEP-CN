@@ -2,10 +2,347 @@
  "key": "idealism of freedom",
  "term": "idealism of freedom",
  "provider": "termonline-all",
- "queried_at": "2026-11-12T04:06:14+00:00",
- "status": "error",
- "note": "variant=idealism of freedom; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "idealism of freedom: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T06:08:49+00:00",
+ "status": "ok",
+ "note": "variant=idealism of freedom; 审定公布名词库=10000; 海峡两岸名词对照库=7430; 其他来源数据库=1821; 预公布名词数据库=2697; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "自由",
+   "en": "freedom",
+   "code": "17.119",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_媒体与传播法_媒体责任与公共服务"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": "18.018",
+   "standard": "农学名词",
+   "subject": "农产品质量安全_农产品质量安全监测"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": "01.043",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_通论"
+  },
+  {
+   "cn": "言论自由",
+   "en": "freedom of speech",
+   "code": "17.054",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限"
+  },
+  {
+   "cn": "表达自由",
+   "en": "freedom of expression",
+   "code": "17.055",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限"
+  },
+  {
+   "cn": "信息自由",
+   "en": "freedom of information",
+   "code": "17.056",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": "01.1914",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震反演"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": "10.040",
+   "standard": "经济学名词",
+   "subject": "经济学_数量经济学"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": "04.0065",
+   "standard": "冶金学名词",
+   "subject": "冶金学_冶金物理化学_冶金过程热力学"
+  },
+  {
+   "cn": "信息自由",
+   "en": "freedom of information",
+   "code": "01.072",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_图书馆学情报学基础_一般概念"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": "02.0583",
+   "standard": "物理学名词",
+   "subject": "物理学_力学"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": "02.0216",
+   "standard": "化工名词(三)化学工程基础",
+   "subject": "化工（三）_化工热力学"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "理想化",
+   "en": "idealization",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "外汇自由兑换",
+   "en": "exchange freedom",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "区位自由",
+   "en": "locational freedom",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "理想板",
+   "en": "ideal plate\",\"ideal tray",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "理想品种",
+   "en": "ideal variety",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "自由",
+   "en": "Freedom",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "自由",
+   "en": "freedom",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "信息自由",
+   "en": "freedom of information",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "自由度",
+   "en": "Degrees of freedom problem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "理想跑动线路",
+   "en": "ideal line of running",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "单环",
+   "en": "Zero ideal",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "自由",
+   "en": "Acting Freely / Freedom",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "纳米化学",
+   "en": "Degrees of freedom (physics and chemistry)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "主理想整环",
+   "en": "principal ideal domain",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "应然数权",
+   "en": "ideal data rights",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "君子固穷",
+   "en": "A Man of Virtue Maintains His Ideals even in Frustrations.&nbsp;",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "七十七国集团",
+   "en": "Group of 77",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "自由",
+   "en": "freedom",
+   "code": "1.103",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "唯心主义",
+   "en": "idealism",
+   "code": "01.0004",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "思辨唯心主义",
+   "en": "speculative idealism",
+   "code": "01.0104",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "客观唯心主义",
+   "en": "objective idealism",
+   "code": "01.0199",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  },
+  {
+   "cn": "共产主义理想",
+   "en": "ideal of the communism",
+   "code": "03.0020",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "道德理想",
+   "en": "moral ideal",
+   "code": "1.02",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "职业理想",
+   "en": "professional ideal",
+   "code": "1.045",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "党的最高理想",
+   "en": "highest ideal of the Party",
+   "code": "03.0717",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "大众传媒的自由和责任",
+   "en": "freedom and responsibility of mass media",
+   "code": "3.8.2.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_文化社会学_大众传媒研究"
+  },
+  {
+   "cn": "土地与自由社",
+   "en": "land and freedom society",
+   "code": "04.0405",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要组织政党_列宁斯大林时期"
+  },
+  {
+   "cn": "共产主义理想信念",
+   "en": "communist ideals and beliefs",
+   "code": "03.0553",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "中国特色社会主义共同理想",
+   "en": "common ideal of socialism with chinese characteristics",
+   "code": "03.0698",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
  "raw": null
 }

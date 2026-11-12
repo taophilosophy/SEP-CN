@@ -2,10 +2,284 @@
  "key": "cantian",
  "term": "Cantian",
  "provider": "termonline-all",
- "queried_at": "2026-11-12T03:43:43+00:00",
- "status": "error",
- "note": "variant=Cantian; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Cantian: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T06:04:19+00:00",
+ "status": "ok",
+ "note": "variant=Cantian; 审定公布名词库=131; 海峡两岸名词对照库=42; 其他来源数据库=42; 预公布名词数据库=3; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "图片说明",
+   "en": "caption",
+   "code": "4.243",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻编辑"
+  },
+  {
+   "cn": "图片文字说明",
+   "en": "caption",
+   "code": "02.08.080",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_编辑_报刊编辑"
+  },
+  {
+   "cn": "黄原胶",
+   "en": "xanthan",
+   "code": "05.027",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物生理生化"
+  },
+  {
+   "cn": "食堂",
+   "en": "canteen,cafeteria",
+   "code": "02.0041",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑类型及组成_通用建筑类型及组成"
+  },
+  {
+   "cn": "船长",
+   "en": "master,captain",
+   "code": "13.0353",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_航行管理与法规"
+  },
+  {
+   "cn": "阳离子",
+   "en": "cation",
+   "code": "07.0130",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地壳流体科学_水化学性质"
+  },
+  {
+   "cn": "阳离子",
+   "en": "cation",
+   "code": "04.0411",
+   "standard": "冶金学名词",
+   "subject": "冶金学_冶金物理化学_冶金电化学"
+  },
+  {
+   "cn": "阳离子",
+   "en": "cation",
+   "code": "01.0018",
+   "standard": "化学名词",
+   "subject": "化学_无机化学_元素及无机化学"
+  },
+  {
+   "cn": "蓝田组",
+   "en": "Lantian Formation",
+   "code": "02.632",
+   "standard": "地质学名词",
+   "subject": "地质学_地史学和地层学"
+  },
+  {
+   "cn": "亚硝酰基阳离子",
+   "en": "nitrosyl cation,nitrosonium cation",
+   "code": "10.076",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_自由基生物学_氧化修饰与亚硝基化"
+  },
+  {
+   "cn": "卡尼阶",
+   "en": "Carnian Stage",
+   "code": "07.03.255",
+   "standard": "地质学名词",
+   "subject": "地质学_地史学与地层学_年代地层学"
+  },
+  {
+   "cn": "睑裂倾斜角",
+   "en": "canthal tilt",
+   "code": "15.088",
+   "standard": "整形外科名词",
+   "subject": "整形外科_眼睑整形与美容_眼部检查"
+  },
+  {
+   "cn": "坎蒂加",
+   "en": "cantiga",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "船长",
+   "en": "captain",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "阳离子",
+   "en": "cation",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "阳离子，正离子",
+   "en": "cation",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "阳离子",
+   "en": "cation",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "船长室",
+   "en": "captain room\",\"captains room",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "老挝风",
+   "en": "Laotian wind",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "火卫",
+   "en": "Martian satellite",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "火星大气",
+   "en": "Martian atmosphere",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "指导船长",
+   "en": "port captain",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "阳离子同化作用",
+   "en": "cation assimilation",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "阳离子置换",
+   "en": "cation exchange",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "卡尼期",
+   "en": "Carnian",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "警告",
+   "en": "caution",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "告诫",
+   "en": "caution",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "队长",
+   "en": "captain",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_手球名词"
+  },
+  {
+   "cn": "队长",
+   "en": "captain",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_水球名词"
+  },
+  {
+   "cn": "队长",
+   "en": "captain",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "黄牌警告",
+   "en": "caution",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "队长",
+   "en": "captain",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "队长",
+   "en": "captain",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_篮球名词"
+  },
+  {
+   "cn": "队长",
+   "en": "captain",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_乒乓球名词"
+  },
+  {
+   "cn": "队长",
+   "en": "captain",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "口头警告",
+   "en": "admonition\",\"caution",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "食堂卫生",
+   "en": "canteen hygiene",
+   "code": "5.6.2.7.3.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校"
+  },
+  {
+   "cn": "黄原胶",
+   "en": "xanthan gum",
+   "code": "6.1.14.5",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品添加剂_食品添加剂"
+  },
+  {
+   "cn": "单弦牌子曲",
+   "en": "danxian paiziqu",
+   "code": "4.0421",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  }
+ ],
+ "error": null,
  "raw": null
 }

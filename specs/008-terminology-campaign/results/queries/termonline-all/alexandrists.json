@@ -1,0 +1,61 @@
+{
+ "key": "alexandrists",
+ "term": "Alexandrists",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T06:01:19+00:00",
+ "status": "ok",
+ "note": "variant=Alexandrists; 审定公布名词库=5; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "变石",
+   "en": "alexandrite",
+   "code": "01.0265",
+   "standard": "化学名词",
+   "subject": "化学_无机化学_元素及无机化学"
+  },
+  {
+   "cn": "变石",
+   "en": "alexandrite",
+   "code": "07.0246",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_天然材料_矿物"
+  },
+  {
+   "cn": "翠绿宝石激光器",
+   "en": "alexandrite laser",
+   "code": "7.066",
+   "standard": "整形外科名词",
+   "subject": "整形外科_整形外科光声电治疗_光声电设备"
+  },
+  {
+   "cn": "金绿宝石激光器",
+   "en": "Alexandrite laser",
+   "code": "04.446",
+   "standard": "机械工程名词 第三分册",
+   "subject": "机械工程_仪器仪表_光学仪器_激光器件和激光设备_激光器名称"
+  },
+  {
+   "cn": "Q开关翠绿宝石脉冲激光器",
+   "en": "Q-switched alexandrite laser",
+   "code": "08.112",
+   "standard": "医学美学与美容医学名词",
+   "subject": "医学美学与美容医学_美容医疗应用技术"
+  },
+  {
+   "cn": "变石",
+   "en": "alexandrite",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "变石",
+   "en": "alexandrite",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

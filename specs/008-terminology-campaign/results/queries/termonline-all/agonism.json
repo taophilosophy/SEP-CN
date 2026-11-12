@@ -2,10 +2,235 @@
  "key": "agonism",
  "term": "agonism",
  "provider": "termonline-all",
- "queried_at": "2026-11-11T22:08:07+00:00",
- "status": "error",
- "note": "variant=agonism; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "agonism: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T06:01:19+00:00",
+ "status": "ok",
+ "note": "variant=agonism; 审定公布名词库=64; 海峡两岸名词对照库=27; 其他来源数据库=6; 预公布名词数据库=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "激动",
+   "en": "agonism",
+   "code": "07.132",
+   "standard": "药学名词",
+   "subject": "药学_药理学"
+  },
+  {
+   "cn": "零偏线",
+   "en": "agonic line",
+   "code": "04.0384",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地球电磁学_探测磁性的方法_仪器和应用"
+  },
+  {
+   "cn": "零偏线",
+   "en": "agonic line",
+   "code": null,
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_空间物理学"
+  },
+  {
+   "cn": "濒死期",
+   "en": "agonal stage",
+   "code": "10.065",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医病理及病理生理学"
+  },
+  {
+   "cn": "激动剂",
+   "en": "agonist",
+   "code": "1.0226",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_总论"
+  },
+  {
+   "cn": "激动剂",
+   "en": "agonist",
+   "code": "02.069",
+   "standard": "麻醉学名词",
+   "subject": "麻醉学_麻醉药理学_临床药理学"
+  },
+  {
+   "cn": "激动剂",
+   "en": "agonist",
+   "code": "17.201",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医药理学"
+  },
+  {
+   "cn": "激动剂",
+   "en": "agonist",
+   "code": "02.161",
+   "standard": "生理学名词",
+   "subject": "生理学_细胞生理学"
+  },
+  {
+   "cn": "原动肌",
+   "en": "agonist",
+   "code": "01.403",
+   "standard": "运动医学名词",
+   "subject": "运动医学_运动解剖_人体运动技术动作解剖学分析"
+  },
+  {
+   "cn": "激动剂",
+   "en": "agonist",
+   "code": "06.032",
+   "standard": "阿尔茨海默病名词",
+   "subject": "阿尔茨海默病_治疗与康复_临床与治疗"
+  },
+  {
+   "cn": "激动剂",
+   "en": "agonist",
+   "code": "04.083",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_神经生物物理学_神经递质与调质"
+  },
+  {
+   "cn": "激动剂",
+   "en": "agonist",
+   "code": "02.0363",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学相关基础学科_核药学"
+  },
+  {
+   "cn": "激动",
+   "en": "agonism",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "竞赛",
+   "en": "Agon",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "无磁偏差线, 零磁偏线",
+   "en": "agonic line",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "零磁偏线",
+   "en": "agonic line",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "零磁差线",
+   "en": "agonic line",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "激动剂",
+   "en": "agonist",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "激动剂",
+   "en": "agonist",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "激动剂",
+   "en": "agonist",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "激动药，激动剂",
+   "en": "agonist",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "性原细胞",
+   "en": "gonocyte\",\"gonium",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "利己主义,自我主义",
+   "en": "egoism",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "一元论",
+   "en": "monism",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "激动剂",
+   "en": "agonist",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "利己主义",
+   "en": "egoism",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "一元论",
+   "en": "Monism",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "部分激动剂",
+   "en": "partial agonist",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "反向激动剂",
+   "en": "inverse agonist",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "子宫腺肌病",
+   "en": "gonadotropin-releasing hormone agonist",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "利己主义",
+   "en": "egoism",
+   "code": "04.0293",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期"
+  },
+  {
+   "cn": "法律一元论",
+   "en": "legal monism",
+   "code": "1.0129",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -6,10 +6,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "查无": 4187,
-  "未查证": 4031,
-  "不一致": 727,
-  "一致": 1063
+  "查无": 4203,
+  "不一致": 731,
+  "一致": 1067,
+  "未查证": 4007
  },
  "results": [
   {
@@ -54,9 +54,11 @@
    "term": "Simple View",
    "trans": "简单观点",
    "basis": "首译（Bratman 1987 命名）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -1139,9 +1141,11 @@
    "term": "accidentality",
    "trans": "偶在性",
    "basis": "亚里士多德偶性（accident）范畴之存在方式义译；取“偶在性”以别于“偶然性”（contingency）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -2493,9 +2497,11 @@
    "term": "aesthetic puzzle",
    "trans": "美学谜题",
    "basis": "首译（Weatherson 2004 四谜之一）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -2927,9 +2933,11 @@
    "term": "agency-based approach",
    "trans": "基于能动性的进路",
    "basis": "首译（Tomasello 2024）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -3242,8 +3250,21 @@
    "term": "agonism",
    "trans": "对抗论",
    "basis": "本词条译名（Schneewind 论格劳秀斯把冲突不可根除之说引入伦理学）；凭证 2026-11-12",
-   "status": "查无",
-   "hits": [],
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "激动",
+     "en": "agonism",
+     "source": "药学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "激动",
+     "en": "agonism",
+     "source": "海峡两岸药学名词"
+    }
+   ],
    "providers": [
     "termonline-all"
    ]
@@ -3772,9 +3793,11 @@
    "term": "Alexandrists",
    "trans": "亚历山大派",
    "basis": "学界通行（亚历山大派亚里士多德主义者）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -3984,9 +4007,11 @@
    "term": "alief",
    "trans": "信念样态度",
    "basis": "首译（Gendler 2008；保留英文并注）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -9213,9 +9238,11 @@
    "term": "śramana",
    "trans": "沙门",
    "basis": "汉文古译传统译名；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -16019,9 +16046,11 @@
    "term": "all-out judgement",
    "trans": "全盘判断",
    "basis": "首译（Davidson 1978 全盘评价判断）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -17542,8 +17571,15 @@
    "term": "collective intentionality",
    "trans": "集体意向性",
    "basis": "学界通行（Tomasello；与 joint/shared intentionality 分列）；凭证 2026-11-12",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "集体意向性",
+     "en": "collective intentionality",
+     "source": "自然辩证法名词"
+    }
+   ],
    "providers": [
     "termonline-all"
    ]
@@ -20816,12 +20852,6 @@
      "provider": "termonline-all",
      "cn": "一致性",
      "en": "consistency",
-     "source": "电气工程名词"
-    },
-    {
-     "provider": "termonline-all",
-     "cn": "一致性",
-     "en": "consistency",
      "source": "海峡两岸大气科学名词"
     },
     {
@@ -21650,8 +21680,21 @@
    "term": "continuity principle",
    "trans": "连续性原理",
    "basis": "直觉主义数学通行（选择序列可处理性之原则；与连续性定理分立）；凭证 2026-11-12",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "连续性原理",
+     "en": "principle of continuity",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "连续原则",
+     "en": "principle of continuity",
+     "source": "心理学名词"
+    }
+   ],
    "providers": [
     "termonline-all"
    ]
@@ -38367,8 +38410,15 @@
    "term": "false-belief",
    "trans": "错误信念",
    "basis": "学界通行（心理理论测验）；凭证 2026-11-12",
-   "status": "查无",
-   "hits": [],
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "错误信念任务",
+     "en": "false belief task",
+     "source": "心理学名词"
+    }
+   ],
    "providers": [
     "termonline-all"
    ]
@@ -48594,9 +48644,11 @@
    "term": "guiding desire",
    "trans": "引导性欲求",
    "basis": "首译（Bratman 1987 对 intention 的替代分析）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -52659,9 +52711,24 @@
    "term": "imperfectivity",
    "trans": "不完全性",
    "basis": "首译（Thompson 2008）；凭证 2026-11-12",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "集体消费理论 collective consumption",
+     "en": null,
+     "source": "社会学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "净人口再生产率net reproductive rate",
+     "en": null,
+     "source": "社会学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -56266,9 +56333,30 @@
    "term": "intention",
    "trans": "意图",
    "basis": "学界通行（行动哲学核心）；凭证 2026-11-12",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "意图",
+     "en": "intention",
+     "source": "自然辩证法名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "意向",
+     "en": "intention",
+     "source": "自然辩证法名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "意向，意图",
+     "en": "intention",
+     "source": "海峡两岸信息科学技术名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -56276,9 +56364,11 @@
    "term": "intention-with-which",
    "trans": "行动所带的意图",
    "basis": "学界通行（Anscombe；Davidson 兼范畴分析）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -62094,9 +62184,11 @@
    "term": "intention in action",
    "trans": "行动中的意图",
    "basis": "学界通行（Searle 1983）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -73147,9 +73239,11 @@
    "term": "means-end coherence",
    "trans": "手段-目的融贯",
    "basis": "学界通行（Bratman）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -78692,12 +78786,6 @@
      "provider": "termonline-all",
      "cn": "一致性",
      "en": "consistency",
-     "source": "电气工程名词"
-    },
-    {
-     "provider": "termonline-all",
-     "cn": "一致性",
-     "en": "consistency",
      "source": "海峡两岸大气科学名词"
     },
     {
@@ -80354,8 +80442,171 @@
    "term": "pattern recognition",
    "trans": "模式识别",
    "basis": "学界通行；凭证 2026-11-12",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "模式识别",
+     "en": "pattern recognition",
+     "source": "农学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模式识别",
+     "en": "pattern recognition",
+     "source": "兽医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "图像识别",
+     "en": "pattern recognition",
+     "source": "地球物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "图样识别",
+     "en": "pattern recognition",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模式识别",
+     "en": "pattern recognition",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模式识别",
+     "en": "pattern recognition",
+     "source": "化学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模式识别",
+     "en": "pattern recognition",
+     "source": "心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模式识别",
+     "en": "pattern recognition",
+     "source": "药学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模式识别",
+     "en": "pattern recognition",
+     "source": "地理信息系统名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模式识别",
+     "en": "pattern recognition",
+     "source": "语言学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模式识别",
+     "en": "pattern recognition",
+     "source": "免疫学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模式识别",
+     "en": "pattern recognition",
+     "source": "地理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "图形识别",
+     "en": "pattern recognition",
+     "source": "海峡两岸大气科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模式识别",
+     "en": "pattern recognition",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模式识别",
+     "en": "pattern recognition",
+     "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模式识别",
+     "en": "pattern recognition",
+     "source": "海峡两岸化学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模式识别",
+     "en": "pattern recognition",
+     "source": "海峡两岸地理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模式识别",
+     "en": "pattern recognition",
+     "source": "海峡两岸免疫学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模式识别",
+     "en": "pattern recognition",
+     "source": "海峡两岸地理信息系统名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模式识别",
+     "en": "pattern recognition",
+     "source": "海峡两岸测绘学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模式识别",
+     "en": "pattern recognition",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模式识别",
+     "en": "pattern recognition",
+     "source": "海峡两岸药学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模式识别",
+     "en": "pattern recognition",
+     "source": "海峡两岸昆虫学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模糊模式识别",
+     "en": "fuzzy pattern recognition",
+     "source": "海峡两岸化学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模式识别",
+     "en": "pattern recognition",
+     "source": "大数据百科术语辞典"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模式识别受体",
+     "en": "pattern recognition receptor",
+     "source": "风湿免疫病学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模式识别受体",
+     "en": "pattern recognition receptor",
+     "source": "食品卫生学名词"
+    }
+   ],
    "providers": [
     "termonline-all"
    ]
@@ -85153,9 +85404,11 @@
    "term": "practical reasoning",
    "trans": "实践推理",
    "basis": "学界通行；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -88615,9 +88868,11 @@
    "term": "prospective intention",
    "trans": "面向未来的意图",
    "basis": "学界通行（与 intention in action 对举）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -96374,9 +96629,11 @@
    "term": "rough hero",
    "trans": "粗粝英雄",
    "basis": "首译（Hume 语，Eaton 2012 界定）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -96384,9 +96641,11 @@
    "term": "rough heroine",
    "trans": "粗粝女主角",
    "basis": "首译（Clavel-Vazquez 2018）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -98513,9 +98772,11 @@
    "term": "scholastic realism",
    "trans": "经院实在论",
    "basis": "学界通行；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -99046,9 +99307,11 @@
    "term": "second-order knowledge",
    "trans": "二阶知识",
    "basis": "布埃诺哲学通行（filosofía como saber de segundo grado）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -100185,8 +100448,15 @@
    "term": "self-respect",
    "trans": "自我尊重",
    "basis": "利科术语（respect de soi）；凭证 2026-11-11",
-   "status": "查无",
-   "hits": [],
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "敬谦",
+     "en": "expression in terms of respect or self depreciation",
+     "source": "语言学名词"
+    }
+   ],
    "providers": [
     "termonline-all"
    ]
@@ -100240,9 +100510,11 @@
    "term": "semantic consequence",
    "trans": "语义后承（亦作“语义蕴涵”）",
    "basis": "逻辑学通行（与演绎后承对举；⊨ 语义概念）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -101315,9 +101587,11 @@
    "term": "shared intentionality",
    "trans": "共享意向性",
    "basis": "学界通行（Tomasello）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -102151,9 +102425,11 @@
    "term": "significs",
    "trans": "意义学",
    "basis": "学界通行（曼努里学派交往行为分析；与语义学 semantics 分立）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -106441,9 +106717,11 @@
    "term": "starting theory",
    "trans": "起始理论",
    "basis": "首译（Gopnik 理论论）；凭证 2026-11-12",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
