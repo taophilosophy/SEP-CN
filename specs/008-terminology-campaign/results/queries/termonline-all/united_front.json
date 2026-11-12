@@ -2,10 +2,347 @@
  "key": "united front",
  "term": "united front",
  "provider": "termonline-all",
- "queried_at": "2026-11-12T01:39:02+00:00",
- "status": "error",
- "note": "variant=united front; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "united front: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T04:57:35+00:00",
+ "status": "ok",
+ "note": "variant=united front; 审定公布名词库=1948; 海峡两岸名词对照库=543; 其他来源数据库=123; 预公布名词数据库=85; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "额[部]",
+   "en": "front",
+   "code": "5.1885",
+   "standard": "动物学名词",
+   "subject": "动物学_无脊椎动物学_节肢动物门_甲壳动物亚门"
+  },
+  {
+   "cn": "队头",
+   "en": "front",
+   "code": "02.0030",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_数据结构"
+  },
+  {
+   "cn": "锋",
+   "en": "front",
+   "code": "02.082",
+   "standard": "林学名词",
+   "subject": "林学_林学基础_森林气象"
+  },
+  {
+   "cn": "额线",
+   "en": "front",
+   "code": "23.0682",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_动力机械_汽轮机和燃气轮机_燃气轮机_结构和辅机"
+  },
+  {
+   "cn": "锋[线]",
+   "en": "front",
+   "code": "06.207",
+   "standard": "大气科学名词",
+   "subject": "大气科学_天气学"
+  },
+  {
+   "cn": "锋",
+   "en": "front",
+   "code": "04.087",
+   "standard": "地理学名词",
+   "subject": "地理学_气候学"
+  },
+  {
+   "cn": "工作线",
+   "en": "front",
+   "code": "05.403",
+   "standard": "煤炭科学技术名词",
+   "subject": "煤炭科学技术_煤矿开采_露天开采"
+  },
+  {
+   "cn": "锋",
+   "en": "front",
+   "code": "07.0054",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_航海保证"
+  },
+  {
+   "cn": "岬角锋",
+   "en": "cape front,promontory front",
+   "code": "02.1037",
+   "standard": "海洋科技名词",
+   "subject": "海洋科学技术_海洋科学_海洋地质学、海洋地球物理学、海洋地理学和河口海岸学"
+  },
+  {
+   "cn": "三角洲前缘",
+   "en": "delta front,deltaic front",
+   "code": "02.0241",
+   "standard": "石油名词",
+   "subject": "石油_油气地质勘探_含油气盆地沉积学"
+  },
+  {
+   "cn": "前置式游梁抽油机",
+   "en": "back-crank pumping unit,front  mounted beam-pumping unit",
+   "code": "12.0413",
+   "standard": "石油名词",
+   "subject": "石油_石油钻采机械设备"
+  },
+  {
+   "cn": "额",
+   "en": "frons,front",
+   "code": "02.0425",
+   "standard": "古生物学名词",
+   "subject": "古生物学_古无脊椎动物学_节肢动物门"
+  },
+  {
+   "cn": "锋",
+   "en": "front",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "锋",
+   "en": "front",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "锋",
+   "en": "front",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "岬角锋",
+   "en": "promontory front\",\"cape front",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "额",
+   "en": "frons\",\"front",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "前鞭毛",
+   "en": "front flagellum",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "北极锋",
+   "en": "arctic front",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "飑锋",
+   "en": "squall front",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "波前",
+   "en": "wave front",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "不活跃锋",
+   "en": "inactive front",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "赤道锋",
+   "en": "equatorial front",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "地面锋",
+   "en": "surface front",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "爱国统一战线",
+   "en": "the Patriotic United Front",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "抗日民族统一战线",
+   "en": "Chinese united front against Japanese aggression",
+   "code": null,
+   "standard": "中央文献重要术语",
+   "subject": "其他"
+  },
+  {
+   "cn": "国际反法西斯统一战线",
+   "en": "the international anti-fascist united front",
+   "code": null,
+   "standard": "中央文献重要术语",
+   "subject": "其他"
+  },
+  {
+   "cn": "正面",
+   "en": "facial\",\"front",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "庭院",
+   "en": "Front yard",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "前弓面",
+   "en": "front bowface",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "前锋防守球员",
+   "en": "front defender",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_手球名词"
+  },
+  {
+   "cn": "前绊",
+   "en": "front trip",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "燕式平衡",
+   "en": "front scale",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "前轮",
+   "en": "front wheel",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "前空翻",
+   "en": "front somersault",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_蹦床名词"
+  },
+  {
+   "cn": "前空翻转体360度",
+   "en": "front-full",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_蹦床名词"
+  },
+  {
+   "cn": "统一战线",
+   "en": "united front",
+   "code": "03.0360",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "抗日民族统一战线",
+   "en": "antiJapanese national united front",
+   "code": "03.0365",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "人民民主统一战线",
+   "en": "peoples democratic united front",
+   "code": "03.0366",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "统一战线的领导权",
+   "en": "leadership of the united front",
+   "code": "03.0361",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "统一战线的政治基础",
+   "en": "political basis of united front",
+   "code": "03.0368",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "文化工作中的统一战线",
+   "en": "united front in the cultural field",
+   "code": "03.0455",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "工农民主统一战线",
+   "en": "workers and peasants democratic united front",
+   "code": "03.0364",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "统一战线的总策略",
+   "en": "general strategy of the united front",
+   "code": "03.0434",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "前线团体",
+   "en": "front groups",
+   "code": "3.14.4.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_环境社会学_对环境问题的应对和行动"
+  },
+  {
+   "cn": "文化战线",
+   "en": "cultural front",
+   "code": "03.0354",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "第二条战线",
+   "en": "second front",
+   "code": "03.0367",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "新时期爱国统一战线",
+   "en": "patriotic united front in the new period",
+   "code": "03.0605",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
  "raw": null
 }

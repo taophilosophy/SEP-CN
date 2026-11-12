@@ -2,10 +2,39 @@
  "key": "vipaka",
  "term": "vipāka",
  "provider": "termonline-all",
- "queried_at": "2026-11-12T01:46:33+00:00",
- "status": "error",
- "note": "variant=vipāka; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "vipāka: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T04:57:35+00:00",
+ "status": "ok",
+ "note": "variant=vipāka; 审定公布名词库=3; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "KA油氧化制己二酸工艺",
+   "en": "KA oil oxidation to adipic acid process",
+   "code": "04.458",
+   "standard": "化工名词 (二)基本有机化工",
+   "subject": "化工（二）_工艺过程与设备_石油化工"
+  },
+  {
+   "cn": "舒血管肠肽瘤",
+   "en": "VIPoma",
+   "code": "06.254",
+   "standard": "医学名词 第一分册",
+   "subject": "医学_内分泌病学"
+  },
+  {
+   "cn": "血管活性肠肽瘤",
+   "en": "vasoactive intestinal peptide tumor;VIPoma",
+   "code": "23.144",
+   "standard": "普通外科学名词",
+   "subject": "医学_普通外科学_胰腺外科"
+  },
+  {
+   "cn": "Ka波段",
+   "en": "Ka band",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  }
+ ],
+ "error": null,
  "raw": null
 }

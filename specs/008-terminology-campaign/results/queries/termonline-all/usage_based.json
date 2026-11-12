@@ -1,0 +1,348 @@
+{
+ "key": "usage-based",
+ "term": "usage-based",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T04:57:35+00:00",
+ "status": "ok",
+ "note": "variant=usage-based; 审定公布名词库=1616; 海峡两岸名词对照库=500; 其他来源数据库=176; 预公布名词数据库=86; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "用地性质",
+   "en": "land usage",
+   "code": "05.0017",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林规划_城乡规划"
+  },
+  {
+   "cn": "使用面积",
+   "en": "usage area",
+   "code": "07.0041",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林建筑_基础知识"
+  },
+  {
+   "cn": "密码子选用",
+   "en": "codon usage",
+   "code": "5.0353",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_遗传信息传递与基因表达调控_蛋白质合成与加工_修复"
+  },
+  {
+   "cn": "数据库使用统计",
+   "en": "usage statistics",
+   "code": "02.180",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_图书情报工作管理_业务统计"
+  },
+  {
+   "cn": "用法说明",
+   "en": "usage note",
+   "code": "06.074",
+   "standard": "语言学名词",
+   "subject": "语言学_辞书学_辞书编纂"
+  },
+  {
+   "cn": "用法标签",
+   "en": "usage label",
+   "code": "06.134",
+   "standard": "语言学名词",
+   "subject": "语言学_辞书学_辞书编纂"
+  },
+  {
+   "cn": "用法词典",
+   "en": "usage dictionary",
+   "code": "06.174",
+   "standard": "语言学名词",
+   "subject": "语言学_辞书学_辞书类型"
+  },
+  {
+   "cn": "限制性取用",
+   "en": "restricted usage",
+   "code": "2.268",
+   "standard": "免疫学名词",
+   "subject": "免疫学_免疫系统_免疫分子"
+  },
+  {
+   "cn": "使用费",
+   "en": "usage charge",
+   "code": "17.035",
+   "standard": "通信科学技术名词",
+   "subject": "通信科学技术_政策、法规与管理"
+  },
+  {
+   "cn": "惯用法词典",
+   "en": "usage dictionary,dictionary of usage",
+   "code": "06.209",
+   "standard": "语言学名词",
+   "subject": "语言学_辞书学_辞书类型"
+  },
+  {
+   "cn": "万维网使用挖掘",
+   "en": "Web usage mining",
+   "code": "07.0539",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库新技术"
+  },
+  {
+   "cn": "高效中继线",
+   "en": "high usage trunk",
+   "code": "21.149",
+   "standard": "电子学名词",
+   "subject": "电子学_通信"
+  },
+  {
+   "cn": "使用",
+   "en": "usage",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "非正式应用",
+   "en": "informal usage",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "国际惯例",
+   "en": "international usage",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "贸易惯例",
+   "en": "trace usage",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "密码子选用, 密码子使用",
+   "en": "codon usage",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "限制性取用",
+   "en": "restricted usage",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "密码子选用,密码子使用",
+   "en": "codon usage",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "词的使用度",
+   "en": "word usage",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "占用空间",
+   "en": "space usage",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "商业惯例",
+   "en": "usage of trade",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "高效中继线",
+   "en": "high usage trunk",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "互斥使用方式",
+   "en": "exclusive usage mode",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "数据用途",
+   "en": "data usage",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据使用策略",
+   "en": "data usage strategy",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "电源使用效率",
+   "en": "power usage effectiveness (PUE)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "基座",
+   "en": "base",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "垒位",
+   "en": "base",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "插座",
+   "en": "base",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "约定俗成",
+   "en": "Established Through Popular Usage / Accepted Through Common Practice",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "满垒",
+   "en": "bases full\",\"bases loaded",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "场景化",
+   "en": "scenario-based",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "底托",
+   "en": "base\",\"head",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "基期",
+   "en": "Base Period",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "碱基类似物",
+   "en": "Base analog",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "消毒剂使用量",
+   "en": "usage amount of disinfectant",
+   "code": "4.1.4.17",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_环境消毒"
+  },
+  {
+   "cn": "其他特殊用途饮料",
+   "en": "other special usage beverage",
+   "code": "5.13.5.5",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_饮料"
+  },
+  {
+   "cn": "基准深度",
+   "en": "base depth",
+   "code": "6.4.4.25",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_放射治疗"
+  },
+  {
+   "cn": "社会基础",
+   "en": "social base",
+   "code": "2.1.3.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会存在"
+  },
+  {
+   "cn": "群众基础",
+   "en": "mass base",
+   "code": "03.0723",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "居家照护",
+   "en": "home-based care",
+   "code": "11.3.17",
+   "standard": "社会医学名词",
+   "subject": "社区卫生"
+  },
+  {
+   "cn": "醇类消毒剂",
+   "en": "alcohol-based disinfectant",
+   "code": "2.1.7",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术_化学消毒"
+  },
+  {
+   "cn": "街居制",
+   "en": "residence-based administration",
+   "code": "3.4.13.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_城市社会学_中国现代城市"
+  },
+  {
+   "cn": "社区组织",
+   "en": "community-based organizations",
+   "code": "3.17.1.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_社区_实践中的社区"
+  },
+  {
+   "cn": "基于投入支付",
+   "en": "input-based payment",
+   "code": "10.2.5",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度"
+  },
+  {
+   "cn": "基于产出支付",
+   "en": "output-based payment",
+   "code": "10.2.6",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度"
+  },
+  {
+   "cn": "按病种支付",
+   "en": "disease-based payment",
+   "code": "10.2.16",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

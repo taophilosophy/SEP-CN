@@ -2,10 +2,18 @@
  "key": "vasana",
  "term": "vāsanā",
  "provider": "termonline-all",
- "queried_at": "2026-11-12T01:43:32+00:00",
- "status": "error",
- "note": "variant=vāsanā; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "vāsanā: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T04:57:35+00:00",
+ "status": "ok",
+ "note": "variant=vāsanā; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "SAN附接存储",
+   "en": "SAN attached storage,SAS",
+   "code": "09.0366",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_有线网络"
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -774,6 +774,24 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
     原教旨主义”；本行康德语境“基要主义者”学术通行形）。
 * 「risk perception」由二轮补亦作行（风险认知）转一致，差集出列 1 条。
 
+### 三、四轮清扫（191 项，a–t 段残差；2026-11-12）
+
+* 队列 `%TEMP%/az-term4.json` 191 项（三轮降级 error＋并行会话新登记行），`--start 0` 全量 191/191 收官；
+  守护按 mtime 记账，同名碰撞未再出现（轮次切换零手工）。
+* 审计刷新（裁定前）：一致 1060 / 不一致 730 / 查无 4187 / 未查证 4031；**裁定后复跑：一致 1063 / 不一致 727**
+  （3 条亦作各转一致一条）。登记册续增系并行会话持续入册。
+* **主译变更 0 条；补亦作 3 条**：initial segment「初始片段」亦作“初始段”（审定·数学集合论）；
+  interactor「交互者」亦作“互动子”（审定·自然辩证法生物学哲学；与 replicator“复制者”对举体例）；
+  modern synthesis「现代综合」亦作“现代综合论”（审定·自然辩证法生物学哲学/古生物学；全库 b/e/g 段多处带引号短语沿短形）。
+* **保留 16 条**：Robbins conjecture、fictionality、fictionality puzzle、idiolect（垃圾池命中）；
+  charity（caritas 基督教汉译“爱德”，审定“慈善事业/施舍”异义）；construction（构式语法“构式”）；
+  domain-general / domain-specific（认知科学对举；审定命中为“领域一般理论/领域特殊理论”全称）；
+  impossibility theorem（审定命中均为“阿罗［不可能］定理”全称）；incompleteness theorems（登记行已并存
+  词条名“不完备定理”与叙述“不完全性定理”）；inductive generalization（科学哲学通行“归纳概括”，审定“归纳泛化”为心理学义）；
+  latus rectum（“通径”，审定“半通径”为 semi-latus rectum 下位）；melancholy（存在论状况“忧郁”，审定“沉郁”为文艺学义）；
+  preparation（量子力学“制备”，审定“制剂/剂型”药学义）；restitution（格劳秀斯法学“返还”，审定“恢复/重建”异义）；
+  transversality condition（最优控制/增长理论“横截条件”，审定“强横截条件/横截性条件”为数学变体）。
+
 
 
 

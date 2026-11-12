@@ -2478,7 +2478,7 @@
 | inherent safety | — | 固有安全 | risk | 学界惯例（安全工程通行；亦作“本质安全”）；凭证 2026-11-09 | 2026-11-09 |
 | inhomogeneous Lorentz transformations | — | 非齐次洛伦兹变换 | spacetime-convensimul | 学界惯例（物理学通行；即庞加莱变换） | 2026-11-06 |
 | initial judgment | — | 初始判断 | reflective-equilibrium | 学界惯例；凭证 2026-11-11 | 2026-11-11 |
-| initial segment | — | 初始片段 | omnipotence 首译 | 模态形而上学通行（共享历史进路 S(W,t)）；凭证 2026-11-11 | 2026-11-11 |
+| initial segment | — | 初始片段（亦作“初始段”） | omnipotence 首译 | 模态形而上学通行（共享历史进路 S(W,t)）；凭证 2026-11-11；亦作记审定·数学（集合论）作“初始段”（裁定 2026-11-12） | 2026-11-12 |
 | injection | — | 单射 | quine-nf | 数学通行译名；凭证 2026-11-09 | 2026-11-09 |
 | innate ideas | — | 天赋观念 | rationalism-early-modern | 学界通行（笛卡尔—莱布尼茨一线；innate knowledge 作“先天知识”，ideas 从“观念”） | 2026-11-06 |
 | innate knowledge | — | 天赋知识 | 语料回收 | 学界惯例（古希腊/近代理性论文献通行；与 a priori knowledge 先天知识 分义，2026-11-09 反校撤“先天知识”别形）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
@@ -2538,7 +2538,7 @@
 | interaction axioms | — | 交互公理 | logic-preference | 模态逻辑公理化通行 | 2026-11-08 |
 | interactionism | Cartesian interactionism | 交互作用论（笛卡尔式交互作用论） | occasionalism 首译 | 学界通行汉译（心身问题）；凭证 2026-11-07 | 2026-11-07 |
 | interactivity | — | 交互性 | digital-art 首译 | 新媒体与游戏研究通行译名；凭证 2026-11-10 | 2026-11-10 |
-| interactor | — | 交互者 | genetics | Dawkins 演化论术语，学界通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
+| interactor | — | 交互者（亦作“互动子”） | genetics | Dawkins 演化论术语，学界通行译名；凭证 2026-11-11（主会话直译 g/genetics）；亦作记审定·自然辩证法（生物学哲学）作“互动子”，与 replicator 行对举体例（裁定 2026-11-12） | 2026-11-12 |
 | intercessory prayer | — | 代祷 | petitionary-prayer | 基督教神学通行译法（为他人代求）；凭证 2026-11-09 | 2026-11-09 |
 | interconnectedness | — | 互联性 | globalization | 社会理论通行汉译（跨边界社会互联） | 2026-11-10 |
 | interdefinable | — | 相互可定义 | necessary-sufficient | 逻辑学通行；凭证 2026-11-08 | 2026-11-08 |
@@ -3162,7 +3162,7 @@
 | model-based fusion | — | 基于模型的融合 | belief-merging | 学界通行（信念合并文献，与句法进路对举）；凭证 2026-11-10 | 2026-11-10 |
 | model-finder | — | 模型发现器 | ontology-is | 自动推理通行（model finding）；凭证 2026-11-11 | 2026-11-11 |
 | model-free reinforcement learning | — | 无模型强化学习 | moral-learning | 强化学习通行（与 model-based 基于模型相对）；凭证 2026-11-09 | 2026-11-09 |
-| modern synthesis | — | 现代综合 | genetics | 演化生物学通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
+| modern synthesis | — | 现代综合（亦作“现代综合论”） | genetics | 演化生物学通行译名；凭证 2026-11-11（主会话直译 g/genetics）；亦作记审定·自然辩证法（生物学哲学）/古生物学作“现代综合论”，全库多处带引号短语沿短形（裁定 2026-11-12） | 2026-11-12 |
 | modes of signifying | — | 意指方式（modi significandi；已废弃，见新行） | analogy-medieval 首译 | 学界通行（中世纪语法与语义理论）；凭证 2026-11-08 | 2026-11-08 |
 | modes of signifying | — | 意指样式（modi significandi） | analogy-medieval 首译；2026-11-10 改定 | 与 modi significandi 意指样式 统一（语料：erfurt 61 处、boethius-dacia 6 处）；“意谓”与 Frege Bedeutung 汉译“意谓”相混，不采；凭证 2026-11-10 | 2026-11-10 |
 | modesty | — | 谦逊 | modesty-humility | 学界通行译法（与 humility“谦卑”区分；凭证 2026-11-06） | 2026-11-06 |

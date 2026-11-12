@@ -2,10 +2,53 @@
  "key": "svartha",
  "term": "svārtha",
  "provider": "termonline-all",
- "queried_at": "2026-11-12T01:24:01+00:00",
- "status": "error",
- "note": "variant=svārtha; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "svārtha: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T04:53:05+00:00",
+ "status": "ok",
+ "note": "variant=svārtha; 审定公布名词库=3; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "SV波",
+   "en": "SV wave",
+   "code": "01.0653",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_基础理论"
+  },
+  {
+   "cn": "SV型静态混合器",
+   "en": "SV type static mixer",
+   "code": "3.1674",
+   "standard": "化工名词（八）化工装备",
+   "subject": "化工（八）_化工设备_搅拌与混合设备"
+  },
+  {
+   "cn": "1Sv剂量超额相对危险",
+   "en": "ERR at 1Sv",
+   "code": "12.055",
+   "standard": "放射医学与防护名词",
+   "subject": "放射医学与防护_放射流行病学_危险指标"
+  },
+  {
+   "cn": "SV40病毒(=猿猴空泡病毒40)",
+   "en": "[]",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "猿猴空泡病毒40，SV40病毒",
+   "en": "simian vacuolating virus 40\",\"SV40 virus",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "1Sv剂量超额相对危险",
+   "en": "ERR at 1Sv",
+   "code": "4.4.3.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标"
+  }
+ ],
+ "error": null,
  "raw": null
 }

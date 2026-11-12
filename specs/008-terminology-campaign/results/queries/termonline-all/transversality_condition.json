@@ -2,10 +2,347 @@
  "key": "transversality condition",
  "term": "transversality condition",
  "provider": "termonline-all",
- "queried_at": "2026-11-12T01:36:02+00:00",
- "status": "error",
- "note": "variant=transversality condition; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "transversality condition: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T04:57:35+00:00",
+ "status": "ok",
+ "note": "variant=transversality condition; 审定公布名词库=1651; 海峡两岸名词对照库=474; 其他来源数据库=25; 预公布名词数据库=30; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "强横截条件",
+   "en": "strong transversality condition",
+   "code": "06.0196",
+   "standard": "数学名词",
+   "subject": "数学_微分方程_积分方程_动力系统（数学）"
+  },
+  {
+   "cn": "横截性条件",
+   "en": "condition of transversality",
+   "code": "05.0706",
+   "standard": "数学名词",
+   "subject": "数学_分析学_变分法"
+  },
+  {
+   "cn": "横截性",
+   "en": "transversality",
+   "code": "08.0909",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_微分流形"
+  },
+  {
+   "cn": "颠换",
+   "en": "transversion",
+   "code": "06.107",
+   "standard": "农学名词",
+   "subject": "作物基因组学与遗传育种_作物遗传改良"
+  },
+  {
+   "cn": "颠换",
+   "en": "transversion",
+   "code": "10.087",
+   "standard": "生殖医学名词",
+   "subject": "生殖医学_生殖遗传"
+  },
+  {
+   "cn": "颠换",
+   "en": "transversion",
+   "code": "1.273",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "颠换",
+   "en": "transversion",
+   "code": "04.100",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_遗传育种_分子遗传学"
+  },
+  {
+   "cn": "颠换",
+   "en": "transversion",
+   "code": "03.174",
+   "standard": "遗传学名词",
+   "subject": "遗传学_分子遗传学"
+  },
+  {
+   "cn": "颠换",
+   "en": "transversion",
+   "code": "01.657",
+   "standard": "医学名词 第三分册",
+   "subject": "医学_医学遗传学"
+  },
+  {
+   "cn": "横截",
+   "en": "transversal",
+   "code": "08.0908",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_微分流形"
+  },
+  {
+   "cn": "易位牙",
+   "en": "transversion",
+   "code": "05.025",
+   "standard": "医学名词 第二分册",
+   "subject": "医学_口腔医学_口腔正畸学"
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "code": "02.0693",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_佩特里网"
+  },
+  {
+   "cn": "横[的]",
+   "en": "transverse",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "颠换",
+   "en": "transversion",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "颠换",
+   "en": "transversion",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "横向的",
+   "en": "transverse",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "条件式",
+   "en": "conditions",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "回潮",
+   "en": "conditioning",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "整备",
+   "en": "conditioning",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "制约",
+   "en": "conditioning",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "条件化",
+   "en": "conditioning",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "横线",
+   "en": "transverse line\",\"transverse ridge",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "腹横筋膜",
+   "en": "transverse fascia",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "横向",
+   "en": "cross\",\"transversal",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "条件数",
+   "en": "Condition number",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "身体素质",
+   "en": "physical condition",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "条件",
+   "en": "material conditional",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "条件概率",
+   "en": "conditional probability",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "有条件共享",
+   "en": "conditional sharing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "颞横回",
+   "en": "Transverse temporal gyrus",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "基础性疾病",
+   "en": "underlying medical conditions",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "医学词汇_其他医学词汇"
+  },
+  {
+   "cn": "书者，散也",
+   "en": "Calligraphy Expresses Inner Conditions.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "因地制宜",
+   "en": "adjusting measures to local conditions",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "重症患者",
+   "en": "patients in severe or critical condition",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "医学词汇_其他医学词汇"
+  },
+  {
+   "cn": "世异事异",
+   "en": "When Times Change, So Do Social Conditions.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "无菌状态",
+   "en": "sterility condition",
+   "code": "1.2.19.5",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒学_灭菌"
+  },
+  {
+   "cn": "培养条件",
+   "en": "culture condition",
+   "code": "3.1.5.9",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "生产条件",
+   "en": "production condition",
+   "code": "5.1.6",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_企业监管"
+  },
+  {
+   "cn": "仓储条件",
+   "en": "storage condition",
+   "code": "5.1.9",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_企业监管"
+  },
+  {
+   "cn": "亚临床状态",
+   "en": "subclinical condition",
+   "code": "1.1.5",
+   "standard": "社会医学名词",
+   "subject": "社会医学概述"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "code": "5.5.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_监测与评价"
+  },
+  {
+   "cn": "社会物质条件",
+   "en": "social material condition",
+   "code": "2.1.3.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会存在"
+  },
+  {
+   "cn": "结案条件",
+   "en": "condition for termination",
+   "code": "4.4.4.23",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的过程"
+  },
+  {
+   "cn": "社会制约",
+   "en": "social conditioning/constraint",
+   "code": "2.1.5.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会生活"
+  },
+  {
+   "cn": "低氧预习服",
+   "en": "hypoxic pre-conditioning",
+   "code": "5.4.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_高原军事卫生_高原习服"
+  },
+  {
+   "cn": "社会物质生活条件",
+   "en": "conditions of social material life",
+   "code": "01.0226",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  },
+  {
+   "cn": "伤势构成比",
+   "en": "proportion of conditions of injury",
+   "code": "15.3.2.4",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队卫生统计学_战时卫生统计"
+  }
+ ],
+ "error": null,
  "raw": null
 }

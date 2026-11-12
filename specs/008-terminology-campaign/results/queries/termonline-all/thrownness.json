@@ -1,0 +1,33 @@
+{
+ "key": "thrownness",
+ "term": "thrownness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T04:57:35+00:00",
+ "status": "ok",
+ "note": "variant=thrownness; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=1; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "道岔中途转换",
+   "en": "switch thrown under moving cars",
+   "code": "08.0700",
+   "standard": "铁道科学技术名词",
+   "subject": "铁道科学技术_铁道信号"
+  },
+  {
+   "cn": "三拐曲轴",
+   "en": "three-thrown crank shaft",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "被摔方",
+   "en": "competitor thrown\",\"uke",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

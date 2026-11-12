@@ -2,10 +2,347 @@
  "key": "welfare economics",
  "term": "welfare economics",
  "provider": "termonline-all",
- "queried_at": "2026-11-12T01:51:03+00:00",
- "status": "error",
- "note": "variant=welfare economics; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "welfare economics: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T05:00:35+00:00",
+ "status": "ok",
+ "note": "variant=welfare economics; 审定公布名词库=600; 海峡两岸名词对照库=172; 其他来源数据库=89; 预公布名词数据库=159; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "福利经济学",
+   "en": "welfare economics",
+   "code": "03.198",
+   "standard": "经济学名词",
+   "subject": "经济学_微观经济学"
+  },
+  {
+   "cn": "动物福利",
+   "en": "animal welfare",
+   "code": "03.0055",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林管理_行业和部门管理"
+  },
+  {
+   "cn": "福利管理",
+   "en": "welfare management",
+   "code": "07.077",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_企业经营管理"
+  },
+  {
+   "cn": "益世报",
+   "en": "Social Welfare",
+   "code": "3.072",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_新闻史_近代新闻史_中国"
+  },
+  {
+   "cn": "社会福利",
+   "en": "social welfare",
+   "code": "01.164",
+   "standard": "城乡规划学名词",
+   "subject": "城乡规划学_城乡规划总述_规划价值观和规划教育"
+  },
+  {
+   "cn": "福利性住房",
+   "en": "welfare housing",
+   "code": "05.024",
+   "standard": "城乡规划学名词",
+   "subject": "城乡规划学_社区与住房规划_住房政策与规划"
+  },
+  {
+   "cn": "动物福利",
+   "en": "animal welfare",
+   "code": "02.018",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_饲养管理_饲养管理基础"
+  },
+  {
+   "cn": "福利国家",
+   "en": "welfare state",
+   "code": "03.196",
+   "standard": "经济学名词",
+   "subject": "经济学_微观经济学"
+  },
+  {
+   "cn": "福利标准",
+   "en": "welfare criterion",
+   "code": "03.197",
+   "standard": "经济学名词",
+   "subject": "经济学_微观经济学"
+  },
+  {
+   "cn": "社会福利",
+   "en": "social welfare",
+   "code": "07.095",
+   "standard": "经济学名词",
+   "subject": "经济学_劳动经济学"
+  },
+  {
+   "cn": "社会福利",
+   "en": "social welfare",
+   "code": "02.0238",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_决策理论与方法"
+  },
+  {
+   "cn": "福祉管理",
+   "en": "welfare management",
+   "code": "04.0777",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_组织行为与人力资源管理_薪酬管理"
+  },
+  {
+   "cn": "福利经济学",
+   "en": "welfare economics",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "当事人权益，咨客权益",
+   "en": "client welfare",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "福利地理学",
+   "en": "welfare geography",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "福利国家",
+   "en": "welfare state",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "节能器",
+   "en": "economizer",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "经济器",
+   "en": "economizer",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "惠民和济局",
+   "en": "People's Welfare Pharmacies",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "行为经济学",
+   "en": "behavior economics",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "海洋经济学",
+   "en": "marine economics",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "生态经济学",
+   "en": "ecological economics",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "城市经济学",
+   "en": "urban economics",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "宏观经济学",
+   "en": "macro-economics",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "福利经济学",
+   "en": "welfare economics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会福利",
+   "en": "welfare",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "公共福利性",
+   "en": "nature of public welfare",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "合理化",
+   "en": "Rationalization (economics)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数理经济学",
+   "en": "mathematical economics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "发展经济学",
+   "en": "Development economics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "新兴技术",
+   "en": "economic competition",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "经济大脑",
+   "en": "Economic Brain",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "经济地图",
+   "en": "economic map",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "经济全景透视",
+   "en": "economic panorama",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "经济效率",
+   "en": "Economic efficiency",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "度量",
+   "en": "Measurement in economics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "福利国家",
+   "en": "welfare state",
+   "code": "4.3.1.13",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题"
+  },
+  {
+   "cn": "福利危机",
+   "en": "welfare crisis",
+   "code": "4.3.1.14",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题"
+  },
+  {
+   "cn": "福利多元主义",
+   "en": "welfare Pluralism",
+   "code": "4.3.4.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论"
+  },
+  {
+   "cn": "制度型福利",
+   "en": "institutional welfare",
+   "code": "4.3.5.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_福利模式"
+  },
+  {
+   "cn": "剩余型福利",
+   "en": "residual welfare",
+   "code": "4.3.5.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_福利模式"
+  },
+  {
+   "cn": "选择型福利",
+   "en": "selective welfare",
+   "code": "4.3.5.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_福利模式"
+  },
+  {
+   "cn": "社会福利",
+   "en": "social welfare",
+   "code": "4.3.6.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会福利"
+  },
+  {
+   "cn": "儿童福利",
+   "en": "child welfare",
+   "code": "4.4.9.13",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作实务"
+  },
+  {
+   "cn": "青少年福利",
+   "en": "youth welfare",
+   "code": "4.4.9.34",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作实务"
+  },
+  {
+   "cn": "福利国家论",
+   "en": "welfare statism",
+   "code": "05.0143",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外经济学理论"
+  },
+  {
+   "cn": "公益性",
+   "en": "public welfare",
+   "code": "5.1.6.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务供给"
+  },
+  {
+   "cn": "社会福利",
+   "en": "social welfare",
+   "code": "3.11.2",
+   "standard": "社会医学名词",
+   "subject": "健康社会决定因素"
+  }
+ ],
+ "error": null,
  "raw": null
 }
