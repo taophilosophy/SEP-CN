@@ -1230,6 +1230,8 @@ outline: [1, 6]
 
 ## 科学哲学史与学派
 
+> 维也纳学派、马赫主义并见 西方哲学史／现代哲学／实证主义与科学主义；此处只收以科学哲学名家的学派与人物。
+
 * [路德维克·弗莱克 Ludwik Fleck (Wojciech Sady)](f/fleck.md)
 * [皮埃尔·迪昂 Pierre Duhem (Roger Ariew)](d/duhem.md)
 * [卡尔·波普尔 Karl Popper (Stephen Thornton)](p/popper.md)
@@ -1240,6 +1242,8 @@ outline: [1, 6]
 * [逻辑经验主义 Logical Empiricism (Richard Creath)](l/logical-empiricism.md)
 
 ## 一般科学哲学
+
+> 女性主义科学哲学并见 哲学通论／女性主义哲学／女性主义理论（女性主义对科学的观点、女性主义认识论和科学哲学、女性主义生物学哲学）。
 
 ### 科学方法与推理
 

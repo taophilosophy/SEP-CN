@@ -1,0 +1,61 @@
+{
+ "key": "kakology",
+ "term": "kakology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T16:01:11+00:00",
+ "status": "ok",
+ "note": "variant=kakology; 审定公布名词库=5; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "细胞核学",
+   "en": "karyology",
+   "code": "01.012",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_总论"
+  },
+  {
+   "cn": "细胞核学",
+   "en": "karyology,caryology",
+   "code": "01.037",
+   "standard": "遗传学名词",
+   "subject": "遗传学_总论"
+  },
+  {
+   "cn": "道歉",
+   "en": "apology",
+   "code": "8.147",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_人际沟通_人际沟通能力与关系管理"
+  },
+  {
+   "cn": "行为分类学",
+   "en": "behavioral taxology",
+   "code": "1.068",
+   "standard": "行为医学名词",
+   "subject": "行为医学_总论_行为医学分支学科"
+  },
+  {
+   "cn": "细胞核学",
+   "en": "karyology;caryology",
+   "code": "1.025",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "细胞核学",
+   "en": "karyology",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "细胞核学",
+   "en": "karyology\",\"caryology",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

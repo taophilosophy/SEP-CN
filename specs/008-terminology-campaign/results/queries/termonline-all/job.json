@@ -1,0 +1,334 @@
+{
+ "key": "job",
+ "term": "Job",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T16:01:11+00:00",
+ "status": "ok",
+ "note": "variant=Job; 审定公布名词库=247; 海峡两岸名词对照库=92; 其他来源数据库=42; 预公布名词数据库=10; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "作业",
+   "en": "job",
+   "code": "05.0397",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_操作系统"
+  },
+  {
+   "cn": "工件",
+   "en": "job",
+   "code": "05.0392",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_生产运作管理与工业工程_生产运作管理"
+  },
+  {
+   "cn": "职位",
+   "en": "job",
+   "code": "11.0349",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_组织行为与人力资源管理_职位分析与设计"
+  },
+  {
+   "cn": "工作",
+   "en": "job",
+   "code": "11.248",
+   "standard": "教育学名词",
+   "subject": "教育学_职业技术教育"
+  },
+  {
+   "cn": "上岗证书",
+   "en": "job certification",
+   "code": "03.0334",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林管理_企业管理"
+  },
+  {
+   "cn": "工件作业车间",
+   "en": "job shop",
+   "code": "04.170",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程综合"
+  },
+  {
+   "cn": "招聘广告",
+   "en": "job ad",
+   "code": "05.05.198",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_发行与经营_发行信息与管理"
+  },
+  {
+   "cn": "职务紧张",
+   "en": "job stress",
+   "code": "7.089",
+   "standard": "行为医学名词",
+   "subject": "行为医学_健康相关行为_健康危害行为"
+  },
+  {
+   "cn": "职业倦怠",
+   "en": "job burnout",
+   "code": "7.092",
+   "standard": "行为医学名词",
+   "subject": "行为医学_健康相关行为_健康危害行为"
+  },
+  {
+   "cn": "作业文件",
+   "en": "job instruction",
+   "code": "04.109",
+   "standard": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "subject": "化工（五）_工程建设_工程设计"
+  },
+  {
+   "cn": "工作锁定",
+   "en": "job lock",
+   "code": "07.062",
+   "standard": "经济学名词",
+   "subject": "经济学_劳动经济学"
+  },
+  {
+   "cn": "工作搜寻",
+   "en": "job search",
+   "code": "07.119",
+   "standard": "经济学名词",
+   "subject": "经济学_劳动经济学"
+  },
+  {
+   "cn": "约伯",
+   "en": "Job",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "作业",
+   "en": "job",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "作业流",
+   "en": "job stream\",\"job flow",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "职位设计",
+   "en": "job design",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "工作满意感",
+   "en": "job satisfaction",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "岗位评价",
+   "en": "job evaluation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "轮岗",
+   "en": "job rotation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "工作安置",
+   "en": "job placement",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "工作丰富化",
+   "en": "job enrichment",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "工作扩大化",
+   "en": "job enlargement",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "工作专业化",
+   "en": "job specialization",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "工作样本",
+   "en": "job sample",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "云选会",
+   "en": "cloud job fair",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_社会治理"
+  },
+  {
+   "cn": "拓宽就地就近就业渠道",
+   "en": "to create more jobs locally   ",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_社会治理"
+  },
+  {
+   "cn": "数字技能和就业联盟（欧盟）",
+   "en": "Digital Skills and Jobs Coalition (EU)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "JOBS法案",
+   "en": "Jumpstart Our Business Startups Act (JOBS Act)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "高校学生毕业、招聘、考录",
+   "en": "graduation and job placement of college students",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_社会治理"
+  },
+  {
+   "cn": "公益岗位扶贫",
+   "en": "poverty alleviation by providing public welfare jobs",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "援企、稳岗、扩就业",
+   "en": "to assist businesses, stabilize employment, and create more jobs",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_社会治理"
+  },
+  {
+   "cn": "工欲善其事，必先利其器",
+   "en": "A Craftsman Must Sharpen His Tools to Do His Job.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "减负、稳岗、扩就业并举",
+   "en": "to take multi-pronged measures, including reducing corporate burdens, keeping the payroll stable, and creating more jobs",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_社会治理"
+  },
+  {
+   "cn": "踢球",
+   "en": "jab",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "刺拳",
+   "en": "jab",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "吊高球",
+   "en": "lob",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_网球名词"
+  },
+  {
+   "cn": "岗前培训",
+   "en": "pre-job training",
+   "code": "8.11.1.6.3",
+   "standard": "社会医学名词",
+   "subject": "卫生服务研究"
+  },
+  {
+   "cn": "在岗期间培训",
+   "en": "training during the job",
+   "code": "4.3.4.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射工作人员健康监护"
+  },
+  {
+   "cn": "岗位培训",
+   "en": "on-the-job training",
+   "code": "8.11.1.6.4",
+   "standard": "社会医学名词",
+   "subject": "卫生服务研究"
+  },
+  {
+   "cn": "培养军地两用人才",
+   "en": "training officers and soldiers suited for both military and civilian jobs",
+   "code": "04.0166",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期"
+  },
+  {
+   "cn": "觉囊派",
+   "en": "Jo nang pa",
+   "code": "3.0457",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "抗Jo-1抗体",
+   "en": "anti Jo-1 antibody",
+   "code": "1.5.3.14",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体"
+  },
+  {
+   "cn": "文成公主",
+   "en": "Vun shing kong jo",
+   "code": "3.0419",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "赤尊公主",
+   "en": "Khri btsun kong jo",
+   "code": "3.0387",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "《觉囊派教法史》",
+   "en": "Jo nang chos vbyung",
+   "code": "3.0379",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "柔巴依",
+   "en": "Jobayi, Rubai",
+   "code": "3.065",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_新疆研究"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
