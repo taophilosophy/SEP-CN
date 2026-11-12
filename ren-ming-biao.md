@@ -1608,6 +1608,7 @@
 | Ḥallāj | ابو المغيث الحسين بن منصور الحلاج | 哈拉智 | — | — | arabic-islamic-mysticism | 苏非研究通行汉译 | 2026-11-07 |
 | Halley, Edmond | — | 埃德蒙·哈雷 | — | — | descartes-works | 学界千年通行（哈雷彗星） | 2026-11-06 |
 | Hallywell, Henry | — | 亨利·哈利韦尔 | 英国 | 约 1642–1703 | cambridge-platonists | 学界通行音译（莫尔门人）；凭证 2026-11-09 | 2026-11-09 |
+| Halmos, Paul | — | 保罗·哈尔莫斯 | 匈牙利裔美国 | 1916–2006 | algebra-logic-tradition | 学界通行音译（多元代数创立者）；凭证 2026-11-12 | 2026-11-12 |
 | Halpern, Joseph Y. | — | 约瑟夫·哈尔彭 | — | — | social-procedures | 学界通行汉译（分布式系统与认知逻辑）；凭证 2026-11-07 | 2026-11-07 |
 | Hamacher, Elisabeth | — | 伊丽莎白·哈马赫 | 德国 | — | scholem | 德语名音译（朔勒姆与宗教学）；凭证 2026-11-08 | 2026-11-08 |
 | Hamacher, Werner | — | 维尔纳·哈马赫 | 德国 | 1948–2024 | scholem | 学界通行汉译（解构批评）；凭证 2026-11-08 | 2026-11-08 |
@@ -2203,10 +2204,10 @@
 | Koenig, Samuel | — | 塞缪尔·柯尼希 | — | — | emilie-du-chatelet | 学界惯例（沃尔夫派数学家，通行音译） | 2026-11-04 |
 | Koffka, Kurt | — | 考夫卡 | — | — | langer | 德裔美国格式塔心理学家（学界惯用“考夫卡”）；凭证 2026-11-08 | 2026-11-08 |
 | Kohler, Kaufmann | — | 考夫曼·科勒 | — | — | albo-joseph | JewishEncyclopedia.com 条目作者音译 | 2026-11-07 |
+| Kolodny, Niko | — | 尼科·科洛德尼 | — | — | intention | 音译（理性与意图）；凭证 2026-11-12 | 2026-11-12 |
 | Köhler, Wolfgang | Wolfgang Köhler | 沃尔夫冈·柯勒 | — | — | langer | 学界通行汉译（格式塔心理学；与 Kaufmann Kohler 考夫曼·科勒异人）；凭证 2026-11-08 | 2026-11-08 |
 | Kokoszyńska, Maria | — | Maria Kokoszyńska | — | — | lvov-warsaw | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Kolmogorov, Andrey | — | 安德烈·柯尔莫哥洛夫 | 苏联 | 1903–1987 | intuitionism | 学界通行汉译（BHK 解释）；凭证 2026-11-10 | 2026-11-10 |
-| Kolodny, Niko | — | 尼科·科洛德尼 | — | — | intention | 音译（理性与意图）；凭证 2026-11-12 | 2026-11-12 |
 | Komnene, Anna | — | 安娜·科穆宁娜 | — | — | john-italos | 学界通行汉译（《阿莱克修斯传》作者）；凭证 2026-11-06 | 2026-11-06 |
 | Kooi, Barteld | — | Barteld Kooi | — | — | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Koopmans, Tjalling | — | 恰林·科普曼斯 | 荷兰／美国／经济学家 | 1910–1985 | ramsey-economics | 学界通行音译（诺贝尔经济学奖）；凭证 2026-11-11 | 2026-11-11 |
@@ -3358,6 +3359,7 @@
 | Robert Post | — | Robert Post（现代学者正文保留英文；通行汉译“波斯特”备查） | — | — | academic-freedom | 学界通行；审定库模糊命中 20 条存查（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | Robert Rynasiewicz | — | 保留英文（无通行汉名） | — | — | spacetime-convensimul | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
 | Roberto Torretti | — | 罗伯托·托雷蒂 | — | — | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Robbins, Herbert | — | 赫伯特·罗宾斯 | 美国 | 1915–2001 | algebra-logic-tradition | 学界通行音译（罗宾斯猜想）；凭证 2026-11-12 | 2026-11-12 |
 | Robertson, G. | — | 罗伯逊 | — | — | william-jevons | 学界惯例（Mind 1876 批评 Jevons 形式体系之 G. Robertson；与 Jack Robertson 别为一人）；凭证 2026-11-07 | 2026-11-07 |
 | Robertson, H. P. | — | H. P. 罗伯逊 | — | — | cosmology-30s | 学界惯例（H. P. Robertson，罗伯逊—沃克度规；与 Jack/G. Robertson 别为一人）；凭证 2026-11-08 | 2026-11-08 |
 | Robertson, Jack | — | 杰克·罗伯逊 | — | — | social-procedures | 构词直译（切蛋糕算法研究者）；凭证 2026-11-07 | 2026-11-07 |
@@ -3763,6 +3765,7 @@
 | Stokes, Dustin | — | 达斯汀·斯托克斯 | — | — | imaginative-resistance | 音译（美学与认知）；凭证 2026-11-12 | 2026-11-12 |
 | Stokhof, Martin | — | Martin Stokhof | — | — | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Stotz, Karola | — | 卡罗拉·施托茨 | — | — | genetics | 基因概念哲学研究者，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11 | 2026-11-11 |
+| Stone, Marshall Harvey | — | 马歇尔·哈维·斯通 | 美国 | 1903–1989 | algebra-logic-tradition | 学界通行音译（斯通表示定理）；凭证 2026-11-12 | 2026-11-12 |
 | Stout, G. F. | — | G. F. 斯托特 | — | — | zombies | 学界通行汉译（《心灵》主编、心理哲学文献通行）；凭证 2026-11-10 | 2026-11-10 |
 | Stout, G.F. | — | 斯托特 | — | — | langer | 学界惯例（英国心理学与哲学）；凭证 2026-11-08 | 2026-11-08 |
 | Strabo | — | 斯特拉波 | — | — | 首现（timon-phlius） | 学界通行汉译（古希腊地理学家）；凭证 2026-11-07 | 2026-11-07 |

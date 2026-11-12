@@ -2254,6 +2254,7 @@
 | horoscope | — | 占星命盘 | spacetime-convensimul | 学界惯例（占星术通行） | 2026-11-06 |
 | hospice care | — | 临终关怀 | euthanasia-voluntary 首译 | 学界通行汉译 | 2026-11-11 |
 | hosshin / dharmakāya | 法身 | 法身 | kukai | 佛教汉语传统（三身译名；真言宗“法身说法”） | 2026-11-09 |
+| host（圣体） | host | 圣体 | gadamer-aesthetics | 本词条译名（天主教弥撒用语，伽达默尔喻作品承载超越意义）；凭证 2026-11-12 | 2026-11-12 |
 | Hou Han Shu | 後漢書 | 《后汉书》 | han-dynasty | 学界通行学名 | 2026-11-10 |
 | hrasva | ह्रस्व | 短 | early-modern-india | 胜论维度义译（与 dīrgha 长对举）；凭证 2026-11-10 | 2026-11-10 |
 | hua | 花 | 华（浮华） | han-dynasty | 王充（flowery）；上游原文作“花” | 2026-11-10 |
@@ -5246,6 +5247,7 @@
 | theoretical wisdom | — | 理论智慧 | 首现（wisdom） | 学界通行（亚里士多德 sophia）；凭证 2026-11-07 | 2026-11-07 |
 | theoretically/empirically progressive | — | 理论上／经验上进步 | 语料回收（lakatos 首译） | 科学研究纲领方法论通行译法；凭证 2026-11-06 | 2026-11-06 |
 | theōria | θεωρία | 静观（亦作“沉思”） | 语料回收 | 学界惯例（希腊哲学术语）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
+| theoros | theoros | 观礼者 | gadamer-aesthetics | 学界通行（古希腊节庆的观礼者，伽达默尔借用）；凭证 2026-11-12 | 2026-11-12 |
 | theory of deduction (Schlußlehre) | Schlußlehre | 推论学说 | reinach | 本词条首译（源文括注德文）；凭证 2026-11-09；拉丁/德语原形即键（2026-11-10 取证） | 2026-11-09 |
 | theory of mind | — | 心理理论 | innateness-cognition | 学界通行（亦作“心智理论”）；凭证 2026-11-12 | 2026-11-12 |
 | theory of play | — | 对局理论 | s/social-procedures 首译 | 学界通行译法（van Benthem 学派术语；亦作“博弈过程理论”）；凭证 2026-11-07 | 2026-11-07 |
