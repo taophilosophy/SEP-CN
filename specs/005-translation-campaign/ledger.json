@@ -24,9 +24,9 @@
   },
   "c": {
    "phase": "translate",
-   "claimed_by": "C-main-20261111",
-   "claimed_at": "2026-11-10T16:36:19Z",
-   "note": "续报（2026-11-09 第三段，C-main-20261109b 接手，用户裁定翻译线+复审收口都归本会话）：①在途件续作收口 2 条——cosmopolitanism（接手时 28/71 段，剩 43 段双版补齐；1-28 段 step2 文言体按 rules/02 白话标尺全数重写〔同 justus-lipsius 先例〕；引号「」→“”250 处；r 前置门 HARD=0）与 cancer（cleared 全新译，78 段双版、12,867 词）；均 compose→四检→draft/s1/s2/s3 入 s3_checked。②复审线收口 2 条入 done——creation-conservation（r1 补译脚注 3 条＋pubinfo 斜体＋脚注节序；r2 prose 26→0）、childhood（r1 体例 4 处；r2 prose 46→3〔3 条引文豁免〕）。③C 批实况：done 7、s3_checked 29（cosmology-30s/cosmopolitanism/cancer/childhood…等）、cleared 0、pending 137；r3 复审队列按体量升序（下一批 causation-medieval 6,441 → cognitive-science 6,544 → contractarianism 6,708），cambridge-platonists 留 REV-main-20261109 在途。④登记册：补登术语 100+ 行（世界主义/肿瘤生物学/演化医学三类）与人名 15 行；合并并行会话新增重复行 7 组（Pufendorf、moral intuition、Euripides、Herodotus、Hippolytus、Philolaus、Thales、Yaḥyā Ibn ʿAdī），术语门自洽违例 6→0。⑤跨批红项提报：P 批 paradox of suspense 登记「悬念悖论」vs 词汇表「悬疑悖论」冲突（后经修复）；登记册重复行根因疑在并行会话登记路径绕过 fold 键检测，建议其自查。",
+   "claimed_by": "C-main-20261113",
+   "claimed_at": "2026-11-12T19:00:34Z",
+   "note": "接手（2026-11-13，C-main-20261113，用户指令接手全部 C 条目翻译并授权随时 rebase+push、待裁定项不计成本解决）：①先收尾 8 条 s3_checked（cancer、chinese-phil-science、cloning、conceptual-art、conscience、copernicus、cosmology-30s、cosmopolitanism）r1–r3→done；②再从 pending 136 条按体量升序逐条 lq 账本流水线全量直译；③B 批 belief-merging.json 语体核验门禁红项系他会话在途，不在本会话范围。旧断点承接 2026-11-11 认领（27 done/8 s3_checked/136 pending）。",
    "advanced_at": "2026-11-09T04:36:25Z"
   },
   "d": {
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-12T16:34:39Z"
+ "updated_at": "2026-11-12T19:00:34Z"
 }
