@@ -18,4 +18,4 @@
 
 ## 门禁接线
 
-`tools/check_all.py` 已含 check_terms（三表模式）；audit/harvest/cnki_query 不进门禁（网络依赖），由战役批次自行驱动并在 execution-log.md 留凭证。
+`tools/check_all.py` 已含 check_terms（三表模式）；audit/harvest/cnki_query 不进门禁（网络依赖），由战役批次自行驱动并在 execution-log/ 留凭证。

@@ -6,7 +6,7 @@ description: SEP-CN 术语在线「审定名词库」批量查证全流程——
 # 术语在线审定库·批量查证全流程（specs/008）
 
 **适用**：D:\SEP-CN 仓库。法律依据：ADR-0012（译名依据优先级=知网系权威源→权威译本→学界惯例，**禁维基**）。
-**权威文档**（冲突时以此为准）：`specs/008-terminology-campaign/contracts/browser-channel.md`（S.O.P.）、`specs/008-terminology-campaign/session-handoff.md`（认领与状态）、`specs/008-terminology-campaign/execution-log.md`（机制记录）。
+**权威文档**（冲突时以此为准）：`specs/008-terminology-campaign/contracts/browser-channel.md`（S.O.P.）、`specs/008-terminology-campaign/session-handoff.md`（认领与状态）、`specs/008-terminology-campaign/execution-log/index.md`（机制记录；按轮次拆分，索引页起查）。
 
 ## 0. 开工三件事
 
