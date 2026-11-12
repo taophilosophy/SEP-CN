@@ -2,7 +2,7 @@
   "slug": "boethius",
   "kind": "retranslate",
   "zh_doc": "b/boethius.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "ABCDE-main-20261103",
       "at": "2026-11-02T20:57:31Z",
       "evidence": "check_style 0 issue；check_math 0；check_academic --strict 0 硬错误（门禁实拦）；拉丁校勘本文献条目照录合规"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "B-main-20261113",
+      "at": "2026-11-12T20:49:39Z",
+      "evidence": "全文回读完成（正文 1–150 逐行+尾节）；结构缺件回填：References 区恢复源文说明引块（含模板占位 [^key]，M 对账恢复 86=86）与五个空壳子标题（bessarion 先例）；五维对账 H 17=17、M 86=86、D 85=85、P 63=63（_efg P+86 为计数器口径差，自建块计数器证实相等）、X 25 处均在 defs 照录区/H1/空壳/学术工具英文表（bauer 同款惯例）；年份 extra 1120/1140=年代展开豁免；r1 实修 9 处：L7 衍字『在』删除、L11 玛尼乌斯→玛理乌斯（统一 ren-ming-biao L530 家法行）、L79 语病、L113 之间悬空、L115 她说来、L133 哲学（及哲学）重名、L141 十二世纪思想如断句、L149 双重否定缠结、L149 作为一个冠词直译"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "B-main-20261113",
+      "at": "2026-11-12T20:52:24Z",
+      "evidence": "人名登记补课 19 行（script/_b_boethius_names.py）：作者 Marenbon 马伦邦、现代学者 Shiel/Relihan/Magee/Martin,CJ/Noble,C/Rogers,K、中世纪与古代人物 Alcuin/Remigius of Auxerre/William of Conches/Trivet/Eutyches/Nestorius/Theoderic/Romulus Augustulus/Archytas/Demosthenes/Jean de Meun/Christine de Pizan；跨条既有复核 Themistius/De Libera/Gilbert of Poitiers/Alan of Lille/Leftow/Zagzebski/波爱修 L528/L530 家法行；prose 实修 40 处（102→53：长句 43→10 结构性豁免、de-chain 43→37 术语密度豁免、被动 9→6 术语/史实豁免、weak 4→0、as-one 2→0）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "B-main-20261113",
+      "at": "2026-11-12T21:05:52Z",
+      "evidence": "check_all 9 项全绿；四检 strict 复核（style issues=[]、academic OK、prose 53 全豁免定性、math 262 式零缺失）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "B-main-20261113",
+      "at": "2026-11-12T21:05:53Z",
+      "evidence": "s3_checked→done：References 缺件回填+九处叙事实修+prose 40 处实修+人名 19 行；提交随本步落地"
     }
   ],
   "blockers": [],
