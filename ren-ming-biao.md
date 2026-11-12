@@ -2555,6 +2555,7 @@
 | Levi ben Gerson (acronym Ralbag) | — | 列维·本·格尔松（缩写 Ralbag，拉尔巴格） | — | — | gersonides | 犹太哲学通行音译；与本条目主形“吉尔松尼德”同人，正文以本名与缩写并出 | 2026-11-09 |
 | Levi, Isaac | — | 艾萨克·莱维 | — | — | bayes-theorem | 学界惯例（不确定信念理论家，通行音译） | 2026-11-05 |
 | Lévinas, Emmanuel | Emmanuel Lévinas | 埃马纽埃尔·列维纳斯 | — | — | bergson | 学界通行汉译 | 2026-11-08 |
+| Levine, Joseph | — | 约瑟夫·莱文 | 美国 | 1952– | zombies | 学界通行音译（解释鸿沟 explanatory gap 提出者）；凭证 2026-11-13 | 2026-11-13 |
 | Levins, Richard | — | 理查德·莱文斯 | — | — | biology-philosophy | 学界通行汉译（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Levinson, Jerrold | — | 莱文森 | — | — | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08 | 2026-11-08 |
 | Levy, Arnon | — | 阿尔农·莱维 | 以色列 | — | information-biological | 音译（生物信息虚构主义）；凭证 2026-11-12 | 2026-11-12 |

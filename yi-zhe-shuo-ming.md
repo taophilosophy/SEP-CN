@@ -3976,6 +3976,7 @@
 | phase semantics | — | 相语义 | logic-linear | Girard 术语通行译法（phase semantics）；凭证 2026-11-10 | 2026-11-09 |
 | phase space | — | 相空间 | 语料回收 | 审定名词库（termonline-all·物理学名词，2026-10-30 浏览器通道凭证） | 2026-10-30 |
 | phenomenal concept | — | 现象概念 | 首现（zombies） | 学界惯例（现象概念策略文献通行）；凭证 2026-11-10 | 2026-11-10 |
+| phenomenal concept strategy | — | 现象概念策略 | 首现（zombies） | 学界惯例（Papineau、Loar、Stoljar 文献通行）；凭证 2026-11-13 | 2026-11-13 |
 | phenomenal consciousness | — | 现象意识 | 首译（stem-cells） | 学界惯例（意识研究通行）；凭证 2026-11-09 | 2026-11-09 |
 | phenomenalism | — | 现象主义 | anscombe 首现 | 学界通行（感觉材料论相邻立场）；凭证 2026-11-12 | 2026-11-12 |
 | Phenomenal Conservatism | — | 现象保守主义 | 首现（intuitionism-ethics） | 学界通行（Huemer 2006 起；亦作“现象保守论”） | 2026-11-09 |
@@ -4384,7 +4385,7 @@
 | quaestio | quaestio | 经院论辩（quaestio） | marsilius-padua | 学界通行（中世纪大学论辩体式）；凭证 2026-11-08 | 2026-11-08 |
 | quaestio disputata | quaestio disputata | 论辩问题 | gregory-rimini | 中世纪大学辩论体裁通行译法；正文括注拉丁；凭证 2026-11-10 | 2026-11-10 |
 | quaestiones | — | 问题集 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
-| qualia | — | 感受质 | democritus | 学界通行（现象意识性质；现代心灵哲学术语沿用） | 2026-11-06 |
+| qualia | — | 感质（亦作“感受质”） | democritus | 学界通行（现象意识性质；与 qualia 词条族正文及 SUMMARY 相关词条名一致，2026-11-13 归一主形） | 2026-11-06 |
 | qualitative (of properties) | — | 质性的 | 首现（zombies） | 学界惯例（与倾向性对举）；凭证 2026-11-10 | 2026-11-10 |
 | qualitative nature | — | 质性本性 | nominalism-metaphysics | 分析形而上学通行（qualitative 质性；与数值同一对举） | 2026-11-10 |
 | qualitative probability ordering | — | 定性概率排序 | 首现（imprecise-probabilities） | 学界惯例（概率哲学通行）；凭证 2026-11-08 | 2026-11-08 |

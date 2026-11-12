@@ -2,7 +2,7 @@
   "slug": "ehrenfels",
   "kind": "retranslate",
   "zh_doc": "e/ehrenfels.md",
-  "state": "s2_checked",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -31,6 +31,13 @@
       "actor": "E-main-20261111",
       "at": "2026-11-12T23:10:26Z",
       "evidence": "check_prose 34→9：叙述散文实修 22 处（长句拆分 12/de-chain 改写 9/两极漂移断句 1，经账本 step2 修正后重 compose 两轮），余 9 条全部为引文内部或引块（>）之 de-chain/long-sentence/passive-bei，按 ADR-0020 豁免留痕；check_style --strict 0 issues"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "E-main-20261111",
+      "at": "2026-11-12T23:38:25Z",
+      "evidence": "四检全绿：check_style --strict 0 issues；check_academic --strict 无硬错误；check_math 无缺失无不配对；check_summary HARD ERRORS 0；check_terms 册行复核通过（16 术语+23 人名已插，bisect 排序）"
     }
   ],
   "blockers": [],
