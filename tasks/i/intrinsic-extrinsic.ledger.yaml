@@ -941,32 +941,42 @@ segments:
     kind: body
     source: |-
       ### 3.1 Broadly Logical Theories
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1. 广义逻辑的理论
+    step2: |-
+      ### 3.1. 广义逻辑的理论
   - id: 116
     kind: body
     source: |-
       It would be good if we could analyse intrinsicality using only broadly logical notions, where broadly logical notions are exhausted by the narrowly logical notions of conjunction, negation and existential quantification, the modal notion of metaphysical possibility, the mereological notion of parthood, and the basic notions associated with property theory and set theory, such as the notions expressed by ‘state of affairs’, ‘property’, ‘relation’, ‘possible world’, ‘instantiates’, ‘is a member of’ and ‘set’. (The locution ‘state of affairs’ is used differently by different philosophers. Here it is being used to refer to the zero-place analogues of one-place properties and multiple place relations. Just as a property is a way of a thing is or fails to be, a state of affairs, under our usage, is a way things are or fail to be.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果我们能够只用广义逻辑概念来分析内在性，那将是一件好事。所谓广义逻辑概念，由以下概念穷尽：合取、否定与存在量化的狭义逻辑概念；形而上学可能性的模态概念；分体论的部分关系概念；以及与属性理论和集合论相关的基本概念，例如由"事态""属性""关系""可能世界""实例化""是……的元素"与"集合"所表达的概念。（"事态"这一说法被不同哲学家以不同方式使用。在这里，它被用来指一元属性与多元关系的零元类似物。正如属性是某物之所是或不之所是的一种方式，在我们的用法下，事态是事物之所是或不之所是的一种方式。）
+    step2: |-
+      如果我们能够只用广义逻辑（broadly logical）概念来分析内在性，那将是一件好事。所谓广义逻辑概念，由以下概念穷尽：合取、否定与存在量化的狭义逻辑概念；形而上学可能性的模态概念；分体论的部分关系（parthood）概念；以及与属性理论和集合论相关的基本概念，例如由"事态""属性""关系""可能世界""实例化""是……的元素"与"集合"所表达的概念。（"事态"这一说法被不同哲学家以不同方式使用。在这里，它被用来指一元属性与多元关系的零元类似物。正如属性是某物之所是或不之所是的一种方式，在我们的用法下，事态是事物之所是或不之所是的一种方式。）
   - id: 117
     kind: body
     source: |-
       It is at least initially appealing to think that, if an object has a property in an intrinsic fashion, then it has it independently of the way the rest of the world is. The rest of the world could disappear, and the object might still have that property. Hence a *lonely* object, an object that doesn’t coexist with any contingent objects wholly distinct from it, could have the property. Many extrinsic properties, on the other hand, cannot be possessed by lonely objects – no lonely object has the property of being six metres from a rhododendron, for example. This suggests an analysis of intrinsicality: $F$ is an intrinsic property iff it is possible for a lonely object to be $F$. This analysis is usually attributed to Kim (1982) (e.g. in Lewis 1983a and Sider 1993)[^lewis-1983a], though Humberstone (1996) dissents from this interpretation. If this analysis is successful then it would constitute a broadly logical analysis, since the expressions on the right hand side of the account can each be defined using only broadly logical vocabulary.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      至少初看之下，以下想法很有吸引力：如果一个对象以内在方式具有某属性，那么它独立于世界其余部分之所是而具有该属性。世界其余部分可以消失，而该对象或许仍具有那一属性。于是，一个**孤立的**对象——即不与任何完全相异于它的偶然对象共存的对象——可能具有该属性。另一方面，许多外在属性不能为孤立对象所具有——例如，没有任何孤立对象具有"距一株杜鹃花六米"这一属性。这提示了一种内在性分析：$F$ 是内在属性，当且仅当孤立对象可能是 $F$。这一分析通常归于金在权（Kim 1982）（例如 Lewis 1983a 与 Sider 1993 中即如此）[^lewis-1983a]，尽管 Humberstone 1996 不认同这一解读。如果这一分析成功，它就构成一个广义逻辑的分析，因为该说明右边各式都能只用广义逻辑词汇来定义。
+    step2: |-
+      至少初看之下，以下想法很有吸引力：如果一个对象以内在方式具有某属性，那么它独立于世界其余部分之所是而具有该属性。世界其余部分可以消失，而该对象或许仍具有那一属性。于是，一个**孤立的**（lonely）对象——即不与任何完全相异于它的偶然对象共存的对象——可能具有该属性。另一方面，许多外在属性不能为孤立对象所具有——例如，没有任何孤立对象具有"距一株杜鹃花六米"这一属性。这提示了一种内在性分析：$F$ 是内在属性，当且仅当孤立对象可能是 $F$。这一分析通常归于金在权（Kim 1982）（例如 Lewis 1983a 与 Sider 1993 中即如此）[^lewis-1983a]，尽管 Humberstone 1996 不认同这一解读。如果这一分析成功，它就构成一个广义逻辑的分析，因为该说明右边各式都能只用广义逻辑词汇来定义。
   - id: 118
     kind: body
     source: |-
       The major problem with this analysis is that the ‘if’ direction of the biconditional is clearly false. As Lewis (1983) pointed out, it is possible for a lonely object to have the property of being lonely, but the property of being lonely is not intrinsic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一分析的主要问题在于：双条件的"如果"方向显然为假。正如刘易斯（Lewis 1983）指出的，一个孤立对象可能具有"是孤立的"这一属性，但"是孤立的"这一属性不是内在的。
+    step2: |-
+      这一分析的主要问题在于：双条件的"如果"方向显然为假。正如刘易斯（Lewis 1983）指出的，一个孤立对象可能具有"是孤立的"这一属性，但"是孤立的"这一属性不是内在的。
   - id: 119
     kind: body
     source: |-
       One might try to deal with this problem by adding extra modal conditions to the above account. Say that a property $F$ is *independent of accompaniment* iff the following four conditions (taken from Langton and Lewis 1998)[^langton-1998] are met:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有人或许试图通过给上述说明添加额外的模态条件来处理这一问题。我们说属性 $F$ 是**独立于有伴的**，当且仅当以下四个条件（取自 Langton and Lewis 1998）[^langton-1998] 得到满足：
+    step2: |-
+      有人或许试图通过给上述说明添加额外的模态条件来处理这一问题。我们说属性 $F$ 是**独立于有伴的**（independent of accompaniment），当且仅当以下四个条件（取自 Langton and Lewis 1998）[^langton-1998] 得到满足：
   - id: 120
     kind: body
     source: |-
@@ -974,148 +984,206 @@ segments:
       2. Possibly, there exists a lonely non-$F$
       3. Possibly, there exists an accompanied (i.e. not lonely) $F$
       4. Possibly, there exists an accompanied non-$F$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 可能存在孤立的 $F$
+      2. 可能存在孤立的非 $F$
+      3. 可能存在有伴的（即非孤立的）$F$
+      4. 可能存在有伴的非 $F$
+    step2: |-
+      1. 可能存在孤立的 $F$
+      2. 可能存在孤立的非 $F$
+      3. 可能存在有伴的（即非孤立的）$F$
+      4. 可能存在有伴的非 $F$
   - id: 121
     kind: body
     source: |-
       At first glance, if $F$ is intrinsic, then whether or not an object has $F$ should not depend on whether it is lonely. If this is right, then all four of these conditions should be satisfied. We might therefore try to give the following broadly logical analysis: $F$ is intrinsic iff $F$ is independent of accompaniment.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      初看之下，如果 $F$ 是内在的，那么一个对象是否具有 $F$ 不应当依赖于它是否孤立。如果这是对的，那么这四个条件都应当得到满足。于是我们或许可以尝试给出如下广义逻辑分析：$F$ 是内在的，当且仅当 $F$ 独立于有伴。
+    step2: |-
+      初看之下，如果 $F$ 是内在的，那么一个对象是否具有 $F$ 不应当依赖于它是否孤立。如果这是对的，那么这四个条件都应当得到满足。于是我们或许可以尝试给出如下广义逻辑分析：$F$ 是内在的，当且仅当 $F$ 独立于有伴。
   - id: 122
     kind: body
     source: |-
       As Langton and Lewis (1998) point out, however, this strengthened analysis still fails (see also Lewis 1983a)[^lewis-1983a]. Given intrinsic properties, such as being a cube, are independent of accompaniment, the extrinsic property of being either a lonely cube or an accompanied non-cube is also independent of accompaniment. Hence, provided the strengthened analysis correctly classifies *being a cube* as intrinsic, it will falsely classify *being either a lonely cube or an accompanied non-cube* as intrinsic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，正如 Langton and Lewis 1998 指出的，这一强化后的分析仍然失败（另见 Lewis 1983a）[^lewis-1983a]。既然内在属性（如"是立方体"）独立于有伴，外在属性"是孤立的立方体或有伴的非立方体"也独立于有伴。于是，只要强化后的分析正确地把"是立方体"归为内在的，它就会错误地把"是孤立的立方体或有伴的非立方体"归为内在的。
+    step2: |-
+      然而，正如 Langton and Lewis 1998 指出的，这一强化后的分析仍然失败（另见 Lewis 1983a）[^lewis-1983a]。既然内在属性（如"是立方体"）独立于有伴，外在属性"是孤立的立方体或有伴的非立方体"也独立于有伴。于是，只要强化后的分析正确地把"是立方体"归为内在的，它就会错误地把"是孤立的立方体或有伴的非立方体"归为内在的。
   - id: 123
     kind: body
     source: |-
       In the face of this failure, we might still hope that a yet more sophisticated broadly logical analysis might succeed. An argument due to Marshall 2009 and Parsons 2001, however, shows that, given standard views about what is possible, and given the absence of special assumptions about the abundance and structure of properties, no such analysis can be given. This argument considers the intrinsic property of being an electron and the extrinsic property of being either an accompanied electron or a lonely positron. It then shows that, given certain common views about properties and possibility, these properties have the same pattern of instantiation through logical, mereological and set-theoretic space. Since formulas containing only broadly logical expressions cannot distinguish between properties having the same such pattern, it then follows that no broadly logical analysis of intrinsically is possible.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      面对这一失败，我们或许仍希望某种更精巧的广义逻辑分析能够成功。然而，一个出自 Marshall 2009 与 Parsons 2001 的论证表明：在关于何者为可能的标准观点下，且在对属性的丰富性与结构性缺乏特殊假设的情况下，这样的分析无法给出。该论证考察内在属性"是电子"与外在属性"是有伴电子或孤立正电子"。它进而表明：在关于属性与可能性的某些通行观点下，这两个属性在逻辑、分体论与集合论空间中具有相同的实例化模式。既然只含广义逻辑表达式的公式无法区分具有相同模式的属性，由此可得：内在性的广义逻辑分析是不可能的。
+    step2: |-
+      面对这一失败，我们或许仍希望某种更精巧的广义逻辑分析能够成功。然而，一个出自 Marshall 2009 与 Parsons 2001 的论证表明：在关于何者为可能的标准观点下，且在对属性的丰富性与结构性缺乏特殊假设的情况下，这样的分析无法给出。该论证考察内在属性"是电子"与外在属性"是有伴电子或孤立正电子"。它进而表明：在关于属性与可能性的某些通行观点下，这两个属性在逻辑、分体论与集合论空间中具有相同的实例化模式。既然只含广义逻辑表达式的公式无法区分具有相同这种模式的属性，由此可得：内在性的广义逻辑分析是不可能的。
   - id: 124
     kind: body
     source: |-
       To give more of an idea of how this argument works, suppose for simplicity that there are only three possible worlds, $w_1$, $w_2$ and $w_3$, and only four possible individuals $x_1$, $x_2$, $x_3$ and $x_4$. Suppose further that:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为了更直观地了解这一论证如何运作，为简单起见，假设只有三个可能世界 $w_1$、$w_2$ 与 $w_3$，以及只有四个可能个体 $x_1$、$x_2$、$x_3$ 与 $x_4$。再进一步假设：
+    step2: |-
+      为了更直观地了解这一论证如何运作，为简单起见，假设只有三个可能世界 $w_1$、$w_2$ 与 $w_3$，以及只有四个可能个体 $x_1$、$x_2$、$x_3$ 与 $x_4$。再进一步假设：
   - id: 125
     kind: body
     source: |-
       At $w_1$, $x_1$ and $x_2$ are the only things that exist, $x_1$ is an electron and $x_2$ is a positron
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 $w_1$ 中，$x_1$ 与 $x_2$ 是仅有的存在物；$x_1$ 是电子，$x_2$ 是正电子
+    step2: |-
+      在 $w_1$ 中，$x_1$ 与 $x_2$ 是仅有的存在物；$x_1$ 是电子，$x_2$ 是正电子
   - id: 126
     kind: body
     source: |-
       At $w_2$, $x_3$ is the only thing that exists and $x_3$ is an electron
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 $w_2$ 中，$x_3$ 是仅有的存在物，且 $x_3$ 是电子
+    step2: |-
+      在 $w_2$ 中，$x_3$ 是仅有的存在物，且 $x_3$ 是电子
   - id: 127
     kind: body
     source: |-
       At $w_3$, $x_4$ is the only thing that exists and $x_4$ is a positron.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 $w_3$ 中，$x_4$ 是仅有的存在物，且 $x_4$ 是正电子。
+    step2: |-
+      在 $w_3$ 中，$x_4$ 是仅有的存在物，且 $x_4$ 是正电子。
   - id: 128
     kind: body
     source: |-
       Now assume a possible worlds theory of properties, according to which the property of being $F = \{\langle x, w\rangle \mid x \text{ is } F \text{ at } w\}$. Given this theory of properties:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在假设一种关于属性的可能世界理论：是 $F$ 的属性 $= \{\langle x, w\rangle \mid x \text{ is } F \text{ at } w\}$。在这一属性理论下：
+    step2: |-
+      现在假设一种关于属性的可能世界理论：是 $F$ 的属性 $= \{\langle x, w\rangle \mid x \text{ is } F \text{ at } w\}$。在这一属性理论下：
   - id: 129
     kind: body
     source: |-
       $q_1$ = Being an electron = $\{\langle x_1, w_1 \rangle, \langle x_3, w_2\rangle\}.$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $q_1$ = 是电子 $= \{\langle x_1, w_1 \rangle, \langle x_3, w_2\rangle\}.$
+    step2: |-
+      $q_1$ = 是电子 $= \{\langle x_1, w_1 \rangle, \langle x_3, w_2\rangle\}.$
   - id: 130
     kind: body
     source: |-
       $q_2$ = Being either an accompanied electron or a lonely positron = $\{\langle x_1, w_1\rangle, \langle x_4, w_3\rangle\}.$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $q_2$ = 是有伴电子或孤立正电子 $= \{\langle x_1, w_1\rangle, \langle x_4, w_3\rangle\}.$
+    step2: |-
+      $q_2$ = 是有伴电子或孤立正电子 $= \{\langle x_1, w_1\rangle, \langle x_4, w_3\rangle\}.$
   - id: 131
     kind: body
     source: |-
       Suppose, for reductio, that the notion of an intrinsic property can be analysed in terms of broadly logical notions. Then, since analyses must be necessary, there is a formula $\varphi(p)$ such that (A) is necessarily true, where $\varphi$ contains only broadly logical vocabulary, such as variables, brackets, ‘&’, ‘$\vee$’, ‘$\exists$’, ‘is a possible world’, ‘at’ and ‘$\in$’.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      设为归谬：内在属性概念可以用广义逻辑概念来分析。那么，既然分析必须是必然的，就存在一个公式 $\varphi(p)$ 使得 (A) 是必然真的，其中 $\varphi$ 只含广义逻辑词汇，例如变元、括号、"&"、"$\vee$"、"$\exists$"、"是可能世界"、"在"与"$\in$"。
+    step2: |-
+      设为归谬（reductio）：内在属性概念可以用广义逻辑概念来分析。那么，既然分析必须是必然的，就存在一个公式 $\varphi(p)$ 使得 (A) 是必然真的，其中 $\varphi$ 只含广义逻辑词汇，例如变元、括号、"&"、"$\vee$"、"$\exists$"、"是可能世界"、"在"与"$\in$"。
   - id: 132
     kind: body
     source: |-
       **(A)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(A)**
+    step2: |-
+      **(A)**
   - id: 133
     kind: body
     source: |-
       $p$ is intrinsic iff $\varphi(p)$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $p$ 是内在的，当且仅当 $\varphi(p)$。
+    step2: |-
+      $p$ 是内在的，当且仅当 $\varphi(p)$。
   - id: 134
     kind: body
     source: |-
       Since $q_1$ is necessarily intrinsic, while $q_2$ is necessarily not intrinsic, it follows from the necessity of (A) that $\varphi(q_1)$ is necessarily true, while $\varphi(q_2)$ is necessarily false. In other words, if there is a broadly logical analysis of intrinsicality, then there is a formula $\varphi$ containing only broadly logical vocabulary that necessarily applies to $q_1$, and necessarily does not apply to $q_2$. However, it can be proved that there is no such formula. For example, while
 
       $$\text{‘}\exists w_1 \exists w_2 \exists x_1 \exists x_2 \exists x_3(p = \{\langle w_1, x_1\rangle , \langle w_2, x_3\rangle \})\text{’}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      既然 $q_1$ 必然是内在的，而 $q_2$ 必然不是内在的，由 (A) 的必然性可得：$\varphi(q_1)$ 是必然真的，而 $\varphi(q_2)$ 是必然假的。换言之，如果存在内在性的广义逻辑分析，那么就存在一个只含广义逻辑词汇的公式 $\varphi$，它必然适用于 $q_1$，且必然不适用于 $q_2$。然而，可以证明不存在这样的公式。例如，虽然
+
+      $$\text{’}\exists w_1 \exists w_2 \exists x_1 \exists x_2 \exists x_3(p = \{\langle w_1, x_1\rangle , \langle w_2, x_3\rangle \})\text{’}$$
+    step2: |-
+      既然 $q_1$ 必然是内在的，而 $q_2$ 必然不是内在的，由 (A) 的必然性可得：$\varphi(q_1)$ 是必然真的，而 $\varphi(q_2)$ 是必然假的。换言之，如果存在内在性的广义逻辑分析，那么就存在一个只含广义逻辑词汇的公式 $\varphi$，它必然适用于 $q_1$，且必然不适用于 $q_2$。然而，可以证明不存在这样的公式。例如，虽然
+
+      $$\text{’}\exists w_1 \exists w_2 \exists x_1 \exists x_2 \exists x_3(p = \{\langle w_1, x_1\rangle , \langle w_2, x_3\rangle \})\text{’}$$
   - id: 135
     kind: body
     source: |-
       applies to $q_1$, it also applies to $q_2$. Hence, the reductio assumption is false, and there is no broadly logical analysis of intrinsicality. This argument can easily be adapted to show that there is no broadly logical analysis of intrinsicality given more realistic assumptions about what possible worlds there are.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      它适用于 $q_1$，却同样适用于 $q_2$。因此，归谬假设为假：内在性的广义逻辑分析并不存在。只需对可能世界的存在情况做更现实的假设，这一论证便可轻易改造，以表明内在性的广义逻辑分析并不存在。
+    step2: |-
+      它适用于 $q_1$，却同样适用于 $q_2$。因此，归谬假设为假：内在性的广义逻辑分析并不存在。只需对可能世界的存在情况做更现实的假设，这一论证便可轻易改造，以表明内在性的广义逻辑分析并不存在。
   - id: 136
     kind: body
     source: |-
       It is important to note that, despite the existence of the above argument, one might still be able to analyse intrinsicality in terms of broadly logical notions if one is prepared to make special (and controversial) assumptions about properties. As an illustration of this, suppose one assumes that all intrinsic properties have no proper parts while all extrinsic properties do have proper parts. Then one might give a broadly logical analysis of intrinsicality by giving account (14).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      值得注意的是，尽管有上述论证，如果有人愿意对属性做出特殊（且有争议）的假设，他或许仍能用广义逻辑概念来分析内在性。作为说明：假设有人主张所有内在属性都没有真部分，而所有外在属性都有真部分。那么他就可以通过给出说明 (14) 来给出内在性的广义逻辑分析。
+    step2: |-
+      值得注意的是，尽管有上述论证，如果有人愿意对属性做出特殊（且有争议）的假设，他或许仍能用广义逻辑概念来分析内在性。作为说明：假设有人主张所有内在属性都没有真部分，而所有外在属性都有真部分。那么他就可以通过给出说明 (14) 来给出内在性的广义逻辑分析。
   - id: 137
     kind: body
     source: |-
       **(14)**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **(14)**
+    step2: |-
+      **(14)**
   - id: 138
     kind: body
     source: |-
       $p$ is an intrinsic property iff $p$ is a property that has no proper parts.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $p$ 是内在属性，当且仅当 $p$ 是一个没有真部分的属性。
+    step2: |-
+      $p$ 是内在属性，当且仅当 $p$ 是一个没有真部分的属性。
   - id: 139
     kind: body
     source: |-
       Even if an analysis like this one is true, however, its utility will be limited. For example, unless we already know somehow which properties have proper parts and which properties do not have proper parts, (14) will be useless in helping us to determine which properties are intrinsic and which properties are non-intrinsic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，即便这样的分析是真的，它的效用也将是有限的。例如，除非我们已经以某种方式知道哪些属性有真部分、哪些属性没有真部分，(14) 在帮助我们确定哪些属性是内在的、哪些属性是非内在的上将是无用的。
+    step2: |-
+      然而，即便这样的分析是真的，它的效用也将是有限的。例如，除非我们已经以某种方式知道哪些属性有真部分、哪些属性没有真部分，(14) 在帮助我们确定哪些属性是内在的、哪些属性是非内在的上将是无用的。
   - id: 140
     kind: body
     source: |-
       Two more sophisticated attempts to give a broadly logical analysis of intrinsicality are Yablo’s contractionist account discussed in section 3.4, and Francescotti’s relational account, which is discussed in the supplementary document:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      两个更精巧的广义逻辑分析尝试是：第 3.4 节讨论的雅布洛收缩论说明，以及在补充文档中讨论的 Francescotti 关系性说明：
+    step2: |-
+      两个更精巧的广义逻辑分析尝试是：第 3.4 节讨论的雅布洛（Yablo）收缩论说明，以及在补充文档中讨论的 Francescotti 关系性说明：
   - id: 141
     kind: body
     source: |-
       [The Relational Account of Intrinsicality](intrinsic-extrinsic.relational-theory.md).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [内在性的关系性说明](intrinsic-extrinsic.relational-theory.md)。
+    step2: |-
+      [内在性的关系性说明](intrinsic-extrinsic.relational-theory.md)。
   - id: 142
     kind: body
     source: |-
       Both these accounts rely on controversial assumptions about properties or related entities such as possible worlds. The most sophisticated attempt to give a purely broadly logical analysis of intrinsicality that has yet been proposed is that of Plate 2018. A response to Plate’s account is given in Marshall forthcoming.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这两种说明都依赖关于属性或可能世界等相关实体的有争议假设。迄今所提出的、给内在性以纯广义逻辑分析的最精巧尝试是 Plate 2018。对 Plate 说明的一个回应见 Marshall 即出。
+    step2: |-
+      这两种说明都依赖关于属性或可能世界等相关实体的有争议假设。迄今所提出的、给内在性以纯广义逻辑分析的最精巧尝试是 Plate 2018。对 Plate 说明的一个回应见 Marshall（即将出版）。
   - id: 143
     kind: body
     source: |-
       Given that we cannot give a satisfactory account of intrinsicality using only broadly logical notions, it is natural to investigate whether we can give a satisfactory account using a larger set of notions. In the next four subsections, we will consider whether intrinsicality can be analysed in terms of the notions of perfect naturalness, non-disjunctivity, possible world contractions, or metaphysical grounding.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      既然我们无法只用广义逻辑概念给出内在性的满意说明，很自然的做法是考察能否用更大的一组概念给出满意的说明。在接下来四个小节中，我们将考察内在性能否用完全自然性、非析取性、可能世界收缩或形而上学奠基这些概念来分析。
+    step2: |-
+      既然我们无法只用广义逻辑概念给出内在性的满意说明，很自然的做法是考察能否用更大的一组概念给出满意的说明。在接下来四个小节中，我们将考察内在性能否用完全自然性（perfect naturalness）、非析取性（non-disjunctivity）、可能世界收缩（possible world contraction）或形而上学奠基这些概念来分析。
   - id: 144
     kind: body
     source: |-
