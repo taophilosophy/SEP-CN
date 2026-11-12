@@ -1,0 +1,348 @@
+{
+ "key": "sender",
+ "term": "sender",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T09:45:45+00:00",
+ "status": "ok",
+ "note": "variant=sender; 审定公布名词库=1545; 海峡两岸名词对照库=520; 其他来源数据库=163; 预公布名词数据库=65; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "传送者",
+   "en": "sender",
+   "code": "6.107",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播总论_传播研究基础"
+  },
+  {
+   "cn": "发话人",
+   "en": "sender",
+   "code": "12.121",
+   "standard": "语言学名词",
+   "subject": "语言学_社会语言学_言语交际"
+  },
+  {
+   "cn": "发码器",
+   "en": "code sender",
+   "code": "07.0398",
+   "standard": "铁道科学技术名词",
+   "subject": "铁道科学技术_铁道通信"
+  },
+  {
+   "cn": "发卡机",
+   "en": "card sender",
+   "code": "03.330",
+   "standard": "公路交通科技名词",
+   "subject": "公路交通科学技术_交通工程"
+  },
+  {
+   "cn": "入射电压",
+   "en": "sending voltage",
+   "code": "04.0824",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机硬件_计算机工程设计"
+  },
+  {
+   "cn": "发送",
+   "en": "transmit,send",
+   "code": "01.071",
+   "standard": "通信科学技术名词",
+   "subject": "通信科学技术_通信原理与基本技术"
+  },
+  {
+   "cn": "盲发",
+   "en": "blind sending",
+   "code": "14.0143",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_水上通信"
+  },
+  {
+   "cn": "对外发出",
+   "en": "sending out records",
+   "code": "02.03.022",
+   "standard": "档案学名词",
+   "subject": "档案学_文件管理_公文处理"
+  },
+  {
+   "cn": "主送机关",
+   "en": "main sending agency",
+   "code": "02.04.020",
+   "standard": "档案学名词",
+   "subject": "档案学_文件管理_公文写作"
+  },
+  {
+   "cn": "发排",
+   "en": "send to typeset",
+   "code": "03.02.001",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_印刷_印前工艺"
+  },
+  {
+   "cn": "送端系统",
+   "en": "sending-end system",
+   "code": "04.054",
+   "standard": "电力名词",
+   "subject": "电力_电力系统"
+  },
+  {
+   "cn": "付印",
+   "en": "sending to the press;sending for printing",
+   "code": "02.05.038",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_编辑_校对"
+  },
+  {
+   "cn": "自动收发器",
+   "en": "automatic sender-receiver",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "发送端",
+   "en": "sending terminal",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "发送机",
+   "en": "sending set",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "入射电压",
+   "en": "sending voltage",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "盲发",
+   "en": "blind sending",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "发送端串音",
+   "en": "sending-end crosstalk",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "信息发送台",
+   "en": "information sending station",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "通播发射台",
+   "en": "collective broadcast sending station\",\"CBSS",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "选择性广播发射台",
+   "en": "selective broadcast sending station\",\"SBSS",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "性别",
+   "en": "gender",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "社会性别",
+   "en": "gender",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "供应船",
+   "en": "tender",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "罚出场",
+   "en": "send off",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "罚出场",
+   "en": "send off\",\"ejection\",\"sending off",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "罚出场",
+   "en": "send off\",\"ejection",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "罚出场",
+   "en": "exclude\",\"send off\",\"ejection\",\"exclusion\",\"expulsion\",\"sending off\",\"suspension",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "派出医疗小组协助抗疫",
+   "en": "to send medical teams to help combat the coronavirus",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "合作抗疫_国际合作"
+  },
+  {
+   "cn": "领先艇",
+   "en": "leader",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "中锋",
+   "en": "center",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_水球名词"
+  },
+  {
+   "cn": "击剑运动员",
+   "en": "fencer",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_现代五项名词"
+  },
+  {
+   "cn": "领先者",
+   "en": "leader",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "传中",
+   "en": "center",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "传中",
+   "en": "center",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "中锋",
+   "en": "center",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "社会性别",
+   "en": "gender",
+   "code": "5.1.3.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容"
+  },
+  {
+   "cn": "社会性别",
+   "en": "gender",
+   "code": "1.0218",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "虐待老年人",
+   "en": "elder",
+   "code": "3.15.6.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系"
+  },
+  {
+   "cn": "社会性别偏见",
+   "en": "gender bias",
+   "code": "1.0219",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference",
+   "code": "3.2.1.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别概念"
+  },
+  {
+   "cn": "性别平等",
+   "en": "gender equality",
+   "code": "3.2.1.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别概念"
+  },
+  {
+   "cn": "性别偏见",
+   "en": "gender bias",
+   "code": "3.2.1.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别概念"
+  },
+  {
+   "cn": "性别偏好",
+   "en": "gender preference",
+   "code": "3.2.1.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别概念"
+  },
+  {
+   "cn": "性别角色",
+   "en": "gender role",
+   "code": "3.2.1.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别概念"
+  },
+  {
+   "cn": "性别认同",
+   "en": "gender identity",
+   "code": "3.2.1.13",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别概念"
+  },
+  {
+   "cn": "性别意识",
+   "en": "gender consciousness",
+   "code": "3.2.1.14",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别概念"
+  },
+  {
+   "cn": "性别意识形态",
+   "en": "gender ideology",
+   "code": "3.2.1.15",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别概念"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
