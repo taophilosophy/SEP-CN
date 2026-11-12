@@ -1,0 +1,1058 @@
+version: 1
+slug: george-eliot
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      The work of George Eliot (1819–1880) challenges any strong disjunction between philosophy and art. Her deepest philosophical interests were in ethics, aesthetics, and the relation between them. Indebted above all to Spinozism and Romanticism, she developed her thinking in sustained dialogue with the European philosophical tradition, both before and after she began to write fiction under the pseudonym “George Eliot” in 1857. She wrote novels, shorter stories, poetry, and review essays, and throughout her career she experimented with literary form. Through her bestselling novels, her engagements with philosophy and with contemporary questions about morality, art, politics, feminism, religion and science reached wide readerships.
+    step1: |-
+      乔治·艾略特（1819–1880）的作品对哲学与艺术之间任何强烈的分离都构成挑战。她最深的哲学兴趣在伦理学、美学以及两者之间的关系。她最主要受惠于斯宾诺莎主义和浪漫主义，在与欧洲哲学传统的持续对话中发展自己的思想，无论在她1857年开始以“乔治·艾略特”的笔名写小说之前还是之后。她写小说、较短的故事、诗和评论文章，整个生涯都在试验文学形式。通过她的畅销小说，她对哲学的介入、她对同时代关于道德、艺术、政治、女性主义、宗教与科学诸问题的介入，抵达了广大读者。
+    step2: |-
+      乔治·艾略特（1819–1880）的作品，不承认哲学与艺术之间有任何强硬的分界。她最深的哲学兴趣落在伦理学、美学，以及两者的关系上。她最主要受惠于斯宾诺莎主义和浪漫主义，其思想一直在同欧洲哲学传统的持续对话中生长，无论1857年她开始用“乔治·艾略特”这个笔名写小说之前还是之后。她写小说、短篇、诗，也写评论文章，一生都在试验文学形式。靠着畅销的小说，她对哲学的介入、她对同时代道德、艺术、政治、女性主义、宗教与科学问题的介入，找到了大批读者。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Life and Works
+    step1: |-
+      ## 1. Life and Works
+    step2: |-
+      ## 1 生平与作品
+  - id: 3
+    kind: body
+    source: |-
+      George Eliot was born Mary Anne Evans on November 22, 1819. (Despite several changes of name over the course of her life, she will be referred to as “George Eliot” or “Eliot” throughout this entry.) She grew up in modest circumstances in rural Warwickshire, England. No one in her family received a university education, but she had access to an extensive library at Arbury Hall, the estate managed by her father. After learning French at school, she taught herself German, Latin, Greek, and, later in life, Hebrew. Her family were conservative Anglicans; in her youth Evans passed through a devout phase, then went on to question and criticize Christianity.
+    step1: |-
+      乔治·艾略特于1819年11月22日出生，本名玛丽·安·埃文斯。（尽管她一生中数次改名，本词条一律称她为“乔治·艾略特”或“艾略特”。）她在英格兰沃里克郡的乡下、清寒的境况中长大。她家里没有受过大学教育的人，但她在阿尔伯里庄园——她父亲经营的田产——得以使用一座藏书宏富的图书馆。她在学校里学了法语，之后自学德语、拉丁语、希腊语，晚年又自学希伯来语。她的家人是保守的英国国教徒；她年轻时曾经过一段虔信的时期，随后开始质疑并批评基督教。
+    step2: |-
+      乔治·艾略特1819年11月22日出生，本名玛丽·安·埃文斯。（她一生几次改名，本词条一律称她“乔治·艾略特”或“艾略特”。）她在英格兰沃里克乡的清寒人家中长大，家里没有一个人受过大学教育，但她父亲经管着阿尔伯里庄园，园中有藏书极富的图书馆，她得以取用。她先在学校学法文，随后自学德文、拉丁文、希腊文，晚年又学希伯来文。她一家都是保守的国教徒；她年轻时有一段非常虔信的时期，此后便开始质疑基督教、批评基督教。
+  - id: 4
+    kind: body
+    source: |-
+      Eliot’s first scholarly work, a translation of D. F. Strauss’s *Life of Jesus Critically Examined*, was published in 1846. In translating this controversial work, Eliot was following in the footsteps of Samuel Taylor Coleridge and Thomas Carlyle, who had produced English translations of important German works (by Schiller and Goethe respectively) during the first decades of the nineteenth century. Eliot was thus positioning herself as a modern woman of letters, within this broadly Romantic and Germanic intellectual movements (Ashton 1980; Newton 1981; Carlisle 2025)[^ashton-1980][^carlisle-2025][^newton-1981].
+    step1: |-
+      艾略特的第一桩学术工作，是翻译 D. F. 施特劳斯的《耶稣传：批判性考察》，1846年出版。翻译这部引发争议的书，她踏着塞缪尔·泰勒·柯勒律治和托马斯·卡莱尔的足迹——此二人在十九世纪头几十年各自把重要的德语作品译成了英文（分别译席勒和歌德）。她由此把自己摆在一个现代文字工作者的位置上，处在这一大体上属于浪漫主义、属于德意志的思想运动之中（Ashton 1980；Newton 1981；Carlisle 2025）[^ashton-1980][^carlisle-2025][^newton-1981]。
+    step2: |-
+      艾略特的第一项学术工作是翻译 D. F. 施特劳斯的《耶稣传，经批判性考察》，1846年出版。译这部招争议的书，她走的是塞缪尔·泰勒·柯勒律治和托马斯·卡莱尔走过的路——这两位在十九世纪头几十年各把一部重要的德意志著作译成英文，一位译席勒，一位译歌德。她由此把自己安放在一个现代文字工作者的位置上，置身于这一大体属浪漫主义、属德意志的思想运动（Ashton 1980；Newton 1981；Carlisle 2025）[^ashton-1980][^carlisle-2025][^newton-1981]。
+  - id: 5
+    kind: body
+    source: |-
+      In 1850 Eliot moved to London, adopted the name Marian Evans, and became *de facto* editor of *The Westminster Review*, a high-brow radical journal founded in 1824 by Jeremy Bentham and edited by John Stuart Mill from 1836 to 1840. Eliot was not the first female editor of a periodical, but she was the first women to be closely involved with such a prestigious quarterly journal (Dillane 2011)[^dillane-2011]. She co-edited *The Westminster Review* with the publisher John Chapman, who acquired it in 1851. In their “Prospectus”, printed in their first issue of January 1852, Chapman and Eliot highlighted the journal’s special interest in “Social Philosophy”; its commitment to free speech and “Progress”; and its support for gradual reform, including “a progressive extension of the suffrage, in proportion as the people become fitted for using it”. On religious questions, the editors declared their “uncompromising pursuit of truth” and their “conviction that religion has its foundation in man’s nature”, while recognizing religion to be closely connected to “moral”, “poetic”, and “emotional” development (Chapman & Eliot 1852). This progressive editorial agenda somewhat softened the radical politics and secularism of the *Westminster Review* under Bentham and Mill. A more significant difference was its greater emphasis on new and recent literary works (Gray 2000; Dillane 2011)[^dillane-2011][^gray-2000]. The issues co-edited by Eliot and Chapman carried substantial articles on contemporary literature in England, America, Germany, and France, propagating the very concept of a national literature. Eliot also oversaw innovations in the journal’s design and layout, including the addition of a substantial index.
+    step1: |-
+      1850年，艾略特迁居伦敦，改用玛丽安·埃文斯这个名字，并成为《威斯敏斯特评论》（*Westminster Review*）的实际编辑——这是一份由杰里米·边沁于1824年创办、由约翰·斯图亚特·密尔在1836至1840年主持的高级激进派期刊。艾略特不是第一位担任期刊编辑的女性，但却是第一位与这样一份有声誉的季刊密切合作的女性（Dillane 2011）[^dillane-2011]。她与出版人约翰·查普曼共同编辑《威斯敏斯特评论》，查普曼在1851年买下了这份刊物。在他们印于1852年1月第一期的《发刊词》中，查普曼与艾略特着重指出刊物对“社会哲学”的特殊兴趣、对言论自由与“进步”的承诺、对渐进改革的支持，其中包括“随着人民逐渐配得上使用选举权而逐步扩大选举权”。在宗教问题上，两位编辑宣示他们对“真理的不妥协追求”，宣示他们“确信宗教植根于人的本性”，同时承认宗教与“道德的”“诗的”“情感的”发展密切相关（Chapman & Eliot 1852）。这份渐进的编辑纲领，稍稍缓和了《威斯敏斯特评论》在边沁与密尔手底的激进政治与世俗主义。更重要的差别，是它对新近文学作品给予更多重视（Gray 2000；Dillane 2011）[^dillane-2011][^gray-2000]。由艾略特与查普曼共同编辑的各期，载有论及英格兰、美国、德国、法国当代文学的长篇论文，传播的正是“民族文学”这个概念本身。艾略特还主持了刊物版式与编排上的革新，包括增设一份篇幅可观的索引。
+    step2: |-
+      1850年，艾略特搬到伦敦，改叫玛丽安·埃文斯，成了《威斯敏斯特评论》的实际上编辑。这份高级趣味的激进刊物由杰里米·边沁1824年创办，1836至1840年由约翰·斯图亚特·密尔主持。艾略特不是第一位编期刊的女性，却是第一位同这样有声望的季刊发生密切关系的女性（Dillane 2011）[^dillane-2011]。她与出版人约翰·查普曼合编《威斯敏斯特评论》，此刊1851年由查普曼买下。两人在1852年1月创刊号上刊出《发刊词》，点出刊物对“社会哲学”的特别兴趣、对言论自由与“进步”的担当、对渐进改革的支持，其中包括“选举权应随人民渐能使用而渐次扩大”。宗教问题上，两位编辑声明要“毫不妥协地追求真理”，声明“确信宗教植根于人的本性”，同时承认宗教同“道德的”“诗的”“情感的”发展紧相关联（Chapman & Eliot 1852）。这套渐进的编辑纲领，把《威斯敏斯特评论》在边沁与密尔手里的激进政治和世俗主义稍稍软化。差别更大的一处，是它格外看重新的、近时的文学作品（Gray 2000；Dillane 2011）[^dillane-2011][^gray-2000]。艾略特与查普曼合编的那几期，登了论及英格兰、美国、德国、法国当代文学的分量十足的论文，传播的正是“民族文学”这个概念。艾略特还主持了刊物设计版式上的革新，比如添了一份篇幅可观的索引。
+  - id: 6
+    kind: body
+    source: |-
+      As editor at the *Westminster Review*, Eliot entered a network of influential intellectuals including J. S. Mill, Herbert Spencer, Harriet Martineau, James Froude, and George Henry Lewes. Lewes became her long-term partner and collaborator. In the late 1850s she took on the name “Marian Lewes”, though Lewes remained legally married to his estranged wife Agnes Lewes. Their relationship was widely regarded as scandalous, and ruined Eliot’s reputation. For years she was socially ostracized. While this changed when she became a celebrated author, the reputational damage from her partnership with Lewes continued to affect her life, work, and public image.
+    step1: |-
+      在《威斯敏斯特评论》做编辑期间，艾略特进入一个有影响的智识者的网络，其中有 J. S. 密尔、赫伯特·斯宾塞、哈丽雅特·马蒂诺、詹姆斯·弗劳德和乔治·亨利·刘易斯。刘易斯成了她长期的伴侣与合作者。十九世纪五十年代末，她采用“玛丽安·刘易斯”这个名字，虽然刘易斯在法律上仍与他分居的妻子阿格尼丝·刘易斯保持婚姻关系。他们的关系被舆论普遍看作丑闻，毁掉了艾略特的名声，此后多年她在社交上被人排斥。她成为有名望的作家之后，情况有所改变，但与刘易斯同居带来的名声损害，一直影响着她的生活、作品和公众形象。
+    step2: |-
+      在《威斯敏斯特评论》编稿期间，艾略特进了一个有影响的智识圈子，圈里有 J. S. 密尔、赫伯特·斯宾塞、哈丽雅特·马蒂诺、詹姆斯·弗劳德、乔治·亨利·刘易斯。刘易斯成了她终身的伴侣与合作者。五十年代末，她改用“玛丽安·刘易斯”之名，而刘易斯在法律上仍是其分居妻子阿格尼丝·刘易斯的丈夫。两人这事被公认为丑闻，艾略特的名声就此毁掉，此后多年她在社会上被人拒斥。她成了有名的作家，境况才变，但与刘易斯同居所伤的名声，一路影响着她的生活、她的作品、她的公众形象。
+  - id: 7
+    kind: body
+    source: |-
+      During the 1850s Eliot produced the first English translations of Ludwig Feuerbach’s *On the Essence of Christianity* (1854) and Spinoza’s *Ethics* (1856, but unpublished in her lifetime). Feuerbach, like Strauss, was a liberal German Protestant influenced by the German Idealists, especially Hegel; a reviewer of Eliot’s translation of *The Essence of Christianity* criticized the way it “exhibit[ed] the new Hegelian Atheism to English readers” (Anonymous 1854: 559)[^anonymous-1854]. Eliot admired Feuerbach’s ideas, and planned to publish an original essay titled “On the Idea of a Future Life”, advertised in the *Westminster Review* as forthcoming by the translator of Feuerbach. This lost essay may have resembled *The Essence of Christianity* in being a philosophical-theological treatise aimed at a broad cultured readership, and in applying Feuerbachian insights to the question of human immortality. Framing her professional identity as the translator of Strauss and Feuerbach suggests a plan to contribute in her own voice to the religious and philosophical debates carried out by these German thinkers.
+    step1: |-
+      十九世纪五十年代，艾略特产出了路德维希·费尔巴哈《基督教的本质》（1854）与斯宾诺莎《伦理学》（1856，但她生前未出版）的第一个英译本。费尔巴哈同施特劳斯一样，是受德国观念论、尤其是黑格尔影响的自由派德国新教徒；艾略特译的《基督教的本质》有一篇书评，批评它“把新的黑格尔式无神论呈给英国读者看”（Anonymous 1854: 559）[^anonymous-1854]。艾略特敬佩费尔巴哈的思想，并计划发表一篇自撰论文，题为《论来世观念》，《威斯敏斯特评论》曾预告此文出自费尔巴哈的译者之手。这篇后来散佚的论文，可能在两方面类似《基督教的本质》：它是一部哲学—神学论著，面向广大的有教养读者；它把费尔巴哈式的洞见应用于人的不朽这一问题。把自己的职业身份表述为“施特劳斯与费尔巴哈的译者”，暗示她原本打算以自己的声音，加入这些德国思想家进行的宗教与哲学论争。
+    step2: |-
+      五十年代，艾略特译出路德维希·费尔巴哈《基督教的本质》（1854）和斯宾诺莎《伦理学》（1856，但她生前未曾出版）的两种最早的英译本。费尔巴哈同施特劳斯一样，是自由派的德国新教徒，受过德国观念论、特别是黑格尔的影响。她译的《基督教的本质》有人写书评，指责它“把新的黑格尔式无神论摆到英国读者眼前”（Anonymous 1854: 559）[^anonymous-1854]。艾略特服膺费尔巴哈的思想，打算发表一篇自撰的《论来世观念》，《威斯敏斯特评论》也预告过这篇出自费尔巴哈译者之手的文章。这篇论文已经散佚，它可能像《基督教的本质》那样是一部面向广大有教养读者的哲学—神学论著，也可能同样把费尔巴哈式的洞见用到人的不朽问题上。她把“施特劳斯与费尔巴哈的译者”当作自己的职业身份，这暗示她本来打算用自己的声音，参加这些德国思想家正在进行的那些宗教与哲学论争。
+  - id: 8
+    kind: body
+    source: |-
+      In translating Spinoza, Eliot was going back to the most significant source of her intellectual milieu. Spinoza’s non-dualist metaphysics was a foundation for German Romanticism and Idealism alike, and thus formative for Strauss and Feuerbach. Although Eliot’s translation of the *Ethics* remained unpublished and therefore did not have the cultural impact it deserved, its effect on her own intellectual formation was both immediate and enduring. Its influence is evident on her *Westminster Review* essays on the popular Calvinist preacher John Cumming (Carlisle 2020a: 22–26)[^carlisle-2020a] and on Wilhelm Riehl’s *The Natural History of German Life* (Carlisle 2020b: 601–4)[^carlisle-2020b]. These substantial, authoritative, wide-ranging essays, marking the culmination of Eliot’s journalistic career, were both written during her immersion in Spinoza. Scholars have traced through the novels of George Eliot Spinozist ideas about freedom and determinism, emotion, human flourishing, and the work of imagination (Atkins 1978; Lynn 1996, Armstrong 2013; Gatens 2003, 2007, 2023; Frazer 2018; Anger 2001 [2019])[^anger-2001][^armstrong-2013][^atkins-1978][^frazer-2018][^gatens-2003][^lynn-1996]. Towards the end of her career, Eliot would examine questions about literary labour—scholarship, originality, appropriation, productivity, cultural transmission—and about the nature of Englishness that first arose during her generative period as a translator (Raterman 2013; Carlisle 2025)[^carlisle-2025][^raterman-2013].
+    step1: |-
+      翻译斯宾诺莎，是艾略特回到她智识环境最重要的源头。斯宾诺莎非二元论的形而上学，是德国浪漫主义与德国观念论共同的基座，也因此塑造了施特劳斯与费尔巴哈。虽然艾略特译的《伦理学》未曾出版，因而没有获得它应得的文化影响，但对她自己的智识养成，其作用是既直接又长久的。她的《威斯敏斯特评论》上论通俗加尔文宗布道家约翰·卡明的文章（Carlisle 2020a: 22–26）[^carlisle-2020a]，以及论威廉·里尔《德意志生活的自然史》的文章（Carlisle 2020b: 601–4）[^carlisle-2020b]，都显出这一影响。这两篇论文分量足、见地稳、涉及面广，标志她新闻写作生涯的顶点，都写于她沉浸于斯宾诺莎期间。学者们已经追踪出乔治·艾略特小说里的斯宾诺莎式观念，涉及自由与决定论、情感、人的繁盛、想象力的工作（Atkins 1978; Lynn 1996, Armstrong 2013; Gatens 2003, 2007, 2023; Frazer 2018; Anger 2001 [2019]）[^anger-2001][^armstrong-2013][^atkins-1978][^frazer-2018][^gatens-2003][^lynn-1996]。到生涯末期，艾略特回头考察了两类问题：一类关于文学生产——学问、原创性、挪用、生产力、文化传递；一类关于英格兰性之本性。这些问题最初在她作为译者那段多产的时期就已产生（Raterman 2013; Carlisle 2025）[^carlisle-2025][^raterman-2013]。
+    step2: |-
+      译斯宾诺莎，等于艾略特回到她智识环境最重要的源头。斯宾诺莎那个非二元论的形而上学，是德国浪漫主义与德国观念论共同的底座，也因此塑成施特劳斯与费尔巴哈。她译的《伦理学》没有出版，因而没得到它应得的文化影响；但对她自己的智识养成，这作用既直接又长久。她在《威斯敏斯特评论》上论通俗加尔文宗布道家约翰·卡明的文章（Carlisle 2020a: 22–26）[^carlisle-2020a]、论威廉·里尔《德意志生活的自然史》的文章（Carlisle 2020b: 601–4）[^carlisle-2020b]，都带着这一影响的痕迹。两篇文章分量足、见地稳、牵涉面广，是她新闻写作生涯的顶点，也都写成于她沉潜斯宾诺莎的那段日子。学者们已从乔治·艾略特的小说中追踪出斯宾诺莎式的观念，涉及自由与决定论、情感、人的繁盛、想象力的运作（Atkins 1978; Lynn 1996, Armstrong 2013; Gatens 2003, 2007, 2023; Frazer 2018; Anger 2001 [2019]）[^anger-2001][^armstrong-2013][^atkins-1978][^frazer-2018][^gatens-2003][^lynn-1996]。到生涯末尾，她回头考察两类问题：一类关于文学生产，涉及学问、原创性、挪用、生产力、文化传递；一类关于英格兰性的本性。这些问题最初起于她做译者那段多产的时期（Raterman 2013; Carlisle 2025）[^carlisle-2025][^raterman-2013]。
+  - id: 9
+    kind: body
+    source: |-
+      The pseudonym “George Eliot” was first adopted in 1857, a few weeks after Eliot published her first work of fiction in *Blackwood’s Magazine.* This debut was the first of three magazine stories, subsequently published together as *Scenes of Clerical Life* (1858). Eliot wrote seven novels: *Adam Bede* (1859), *The Mill on the Floss* (1860), *Silas Marner* (1861), *Romola* (1863), *Felix Holt: The Radical* (1866), *Middlemarch* (1871–2), and *Daniel Deronda* (1876). Her last published work was a semi-fictional, satirical and intensely ironic essay collection titled *Impressions of Theophrastus Such* (1879), after the Peripatetic philosopher Theophrastus. Eliot’s other works include the novellas *The Lifted Veil* (1859) and *Brother Jacob* (1864); the verse dramas *The Spanish Gypsy* (1868) and *Armgart* (1870); *The Legend of Jubal and Other Poems* (1874); and numerous critical essays that were published, mostly anonymously, throughout the 1840s, 50s and 60s.
+    step1: |-
+      “乔治·艾略特”这个笔名最先用于1857年，就在艾略特在《布莱克伍德杂志》发表她的第一部小说作品之后几周。这次亮相是三个杂志故事中的第一个，后来三篇合为一集，以《教区生活场景》（1858）出版。艾略特写了七部小说：《亚当·比德》（1859）、《弗洛斯河上的磨坊》（1860）、《织工马南》（1861）、《罗慕拉》（1863）、《费利克斯·霍尔特：激进派》（1866）、《米德尔马契》（1871–72）、《丹尼尔·德隆达》（1876）。她最后出版的作品，是一部半虚构、讽刺、反语密集的随笔集《特奥弗拉斯托斯·萨奇印象》（1879），书名取自那位逍遥派哲学家特奥弗拉斯托斯。艾略特的其他作品还包括中篇《揭开的面纱》（1859）与《雅各布兄弟》（1864）；诗剧《西班牙吉卜赛人》（1868）与《阿姆加特》（1870）；《尤巴尔的传说及其他诗》（1874）；以及大量批评文章，多在四十年代、五十年代、六十年代匿名发表。
+    step2: |-
+      “乔治·艾略特”这个笔名首用于1857年，就在她向《布莱克伍德杂志》交出第一部小说作品之后几周。这回亮相是那三个杂志故事中的第一个，后来三篇合成一集，题作《教区生活场景》（1858）。艾略特写了七部小说：《亚当·比德》（1859）、《弗洛斯河上的磨坊》（1860）、《织工马南》（1861）、《罗慕拉》（1863）、《费利克斯·霍尔特：激进派》（1866）、《米德尔马契》（1871–72）、《丹尼尔·德隆达》（1876）。她最后出版的作品是半虚构、讽刺、反语浓烈的随笔集《特奥弗拉斯托斯·萨奇印象》（1879），书名取那位逍遥派哲学家特奥弗拉斯托斯。她的其他作品还有中篇《揭开的面纱》（1859）、《雅各布兄弟》（1864），诗剧《西班牙吉卜赛人》（1868）、《阿姆加特》（1870），诗集《尤巴尔的传说及其他诗》（1874），以及大量批评文章，多在四十年代、五十年代、六十年代匿名刊出。
+  - id: 10
+    kind: body
+    source: |-
+      During the 1850s and 60s Eliot and Lewes travelled quite frequently to the European continent, especially the major cities of Germany and Italy. The couple did not have children, though Eliot was stepmother to Lewes’s three sons. Lewes died in 1878, and in the spring of 1880 Eliot married her old friend John Cross, a wealthy banker. She died in London on December 22, 1880. She was buried under the names “Mary Ann Cross” and “George Eliot” in North London’s Highgate Cemetery, next to Lewes’s grave. Her wish to be buried in Poet’s Corner in Westminster Abbey was denied by church leaders due to her “notorious antagonism to Christian practice in regard to marriage” (Carlisle 2023: 267–8)[^carlisle-2023].
+    step1: |-
+      十九世纪五十年代和六十年代，艾略特与刘易斯颇为频繁地前往欧陆，尤其是德国与意大利的大城市。两人没有子女，不过艾略特是刘易斯三个儿子的继母。刘易斯1878年去世；1880年春，艾略特嫁了旧友、富有的银行家约翰·克罗斯。她1880年12月22日在伦敦去世，以“玛丽·安·克罗斯”与“乔治·艾略特”两个名字葬在伦敦北的海格特公墓，紧挨着刘易斯的墓。她曾希望葬进威斯敏斯特教堂的诗人角，教会方面以她“在婚姻问题上对基督教实践的公然对抗”为由拒绝了（Carlisle 2023: 267–8）[^carlisle-2023]。
+    step2: |-
+      五十年代与六十年代，艾略特和刘易斯常去欧陆，尤其德国、意大利的大城市。两人没有亲生子女，但艾略特是刘易斯三个儿子的继母。1878年刘易斯去世；次年春，艾略特嫁给旧友、富有的银行家约翰·克罗斯。1880年12月22日她在伦敦去世，用“玛丽·安·克罗斯”和“乔治·艾略特”两个名字葬进伦敦北的海格特公墓，就在刘易斯墓旁。她想葬入威斯敏斯特教堂的诗人角，教会方面不许，理由是她在婚姻问题上“公然对抗基督教实践”（Carlisle 2023: 267–8）[^carlisle-2023]。
+  - id: 11
+    kind: body
+    source: |-
+      While Eliot usually described herself as an artist, many contemporaries regarded her as a philosopher. A few months after her death, an early volume of *MIND* carried a substantial article on “George Eliot’s Art” (Sully 1881)[^sully-1881]. During the twentieth century, her exploratory intellectual style, coupled with her decision to work in the medium of fiction, tended to occlude her significance for an increasingly professionalized and technical discipline of philosophy. Twenty-first-century scholars have been more keen to recognize Eliot’s contributions to philosophy, especially in view of the fact that Victorian women had to philosophize outside the academy. While British universities did not begin to admit women until the 1860s and restricted their access to higher qualifications and academic careers well into the twentieth century, philosophical thinking can be found in a wide variety of women’s writing, including letters, poems, novels, travel writing, memoir, and journalism (Stone 2023)[^stone-2023].
+    step1: |-
+      艾略特通常把自己说成艺术家，但许多同时代人把她看作哲学家。她死后几个月，《心灵》（*Mind*）杂志早期的一卷就刊出论“乔治·艾略特的艺术”的长文（Sully 1881）[^sully-1881]。在二十世纪，她那种探索性的思想风格，加上她选择在小说这一媒介中工作，使她的重要性对一个日益专业化、日益技术化的哲学学科趋于遮蔽。二十一世纪的学者更愿意承认艾略特对哲学的贡献，尤其考虑到维多利亚时代的女性不得不在学院之外做哲学这件事。英国大学直到十九世纪六十年代才开始接收女生，而把女性限制在高等学位与学术生涯之外，则一直延续到二十世纪；但哲学性的思考可以在妇女写作的各种体裁中找到，包括书信、诗、小说、游记、回忆录和新闻（Stone 2023）[^stone-2023]。
+    step2: |-
+      艾略特自己常说她是艺术家，许多同时代人却把她当哲学家。她死后不过几个月，《心灵》（*Mind*）杂志的早期一卷就登了论“乔治·艾略特的艺术”的长文（Sully 1881）[^sully-1881]。到了二十世纪，她那探索性的思想方式，加上她挑中小说这个媒介来做工，使她的重要性在一个日益专业化、日益技术化的哲学学科里趋于被遮蔽。二十一世纪的学者更愿意承认艾略特对哲学的贡献，尤其因为维多利亚时代的女性只能在学院之外做哲学。英国大学到十九世纪六十年代才开始收女生，而把女性挡在高等学位与学术生涯之外，一直拖到二十世纪；可是哲学性的思考到处存在于妇女的写作里：书信、诗、小说、游记、回忆录、新闻，都有（Stone 2023）[^stone-2023]。
+  - id: 12
+    kind: body
+    source: |-
+      ## 2. Philosophical Method
+    step1: |-
+      ## 2. Philosophical Method
+    step2: |-
+      ## 2 哲学方法
+  - id: 13
+    kind: body
+    source: |-
+      Eliot’s literary practice was integral to her philosophical method. Her style of thinking is often exploratory and dialectical, reflexive and self-problematizing. When doctrinal statements are made by a character or a narrator, we cannot assume they articulate Eliot’s own position. For these reasons, her philosophical claims can be difficult to pin down. Moreover, she argued against the application of “general doctrine[s]” (M III: 133) and “general rules” (MF III: 265) to the complexities of human life. Eliot aimed less to solve problems, or offer ready-made doctrines, than to undertake an open-ended enquiry alongside her readers. In 1875, while writing *Daniel Deronda*, she stated that “I don’t consider myself a teacher, but a companion in the struggle for thought” (Eliot to Mary Ponsonby, 11 February 1875; LGHL 3: 83).
+    step1: |-
+      艾略特的文学实践，是她哲学方法不可分割的一部分。她的思想方式常是探索性的、辩证性的，反身而自设难题。当某个人物或某个叙述者作出教义式的陈述时，我们不能假定那就是艾略特本人的立场。因此，她的哲学主张有时难以确定。再者，她还反对把“一般学说”（M III: 133）与“一般规则”（MF III: 265）应用于人类生活的复杂情形。与其解决问题、提供现成的学说，她的目标毋宁说是与读者一同从事一种没有终点的探询。1875年写《丹尼尔·德隆达》期间，她说过：“我不把自己看作教师，而是思想斗争中的同伴”（艾略特致玛丽·庞森比，1875年2月11日；LGHL 3: 83）。
+    step2: |-
+      艾略特的文学实践，本就是她哲学方法内在的一环。她的思想方式常是探索的、辩证的，反身自询，自己给自己设难题。人物或叙述者说出教义式的断言时，我们不能假定那就是艾略特本人的立场。她的哲学主张因此有时难以下定论。她还反对把“一般学说”（M III: 133）和“一般规则”（MF III: 265）套在人类生活的复杂情形上。她要做的与其说是解决问题、给出成套学说，不如说是同读者一起从事一场不见终点的探询。1875年写《丹尼尔·德隆达》时她说：“我不把自己当教师，而当思想这场角力中的同伴”（艾略特致玛丽·庞森比，1875年2月11日；LGHL 3: 83）。
+  - id: 14
+    kind: body
+    source: |-
+      Language was Eliot’s medium for this intellectual “struggle”, and one highly distinctive feature of her thought is the depth and breadth of her linguistic expertise. She was not only an immensely skilled literary writer, but a scholar of languages and a translator. Linguistic precision had enduring importance for Eliot: in an 1865 book review she laments
+    step1: |-
+      语言是艾略特进行这一智识“斗争”的媒介，而她思想的一个极显著特征，是她在语言上的专门知识之深之广。她不仅是一位极其娴熟的文学写作者，还是一位语言学者、一位译者。语言的精确对艾略特具有持久的重要性：在1865年的一篇书评中，她哀叹
+    step2: |-
+      语言是艾略特打这场智识“斗争”的媒介。她思想中有一处极显眼的特征：她在语言上的专门学问既深且广。她不只是极娴熟的文学写手，还是语言学者、译者。语言的精确，对艾略特始终要紧：1865年一篇书评里，她抱怨
+  - id: 15
+    kind: body
+    source: |-
+      > a fatiguing use of vague or shifting phrases, such as “modern civilization”, “spirit of the age”,…“habits of religious thought”, unbalanced by any precise definition. (Eliot 1865: 54)
+    step1: |-
+      > 令人疲惫地使用含糊或多变的说法，诸如“现代文明”“时代精神”……“宗教思想的习惯”，全无任何精确的定义来平衡。（Eliot 1865: 54）
+    step2: |-
+      > 令人疲倦地使用含混、游移的说法，诸如“现代文明”“时代精神”……“宗教思想的习惯”，没有一个精确的定义来平衡它们。（Eliot 1865: 54）
+  - id: 16
+    kind: body
+    source: |-
+      Yet precision, she observes, is always endangered by the subtleties, ambiguities and multivalences inherent in all natural languages. While some of her contemporaries—rather like modern analytic philosophers—sought to rectify this by constructing “a universal language on a rational basis…which effects the purpose of communication as perfectly and rapidly as algebraic signs”, Eliot argues that such a language “will never express *life*, which is a great deal more than science” (Eliot 1856b: 69). Furthermore, a purely logical language would lack all “power over the imagination” (Eliot 1856b: 69). Achieving truthfulness in writing therefore requires a literary skill close to “genius” to employ natural language with sufficient “definiteness and certainty” (Eliot 1856b: 69).
+    step1: |-
+      然而她指出，精确总是受到一切自然语言固有的微妙、歧义与多义所威胁。她的一些同时代人——颇像现代分析哲学家——想通过构造“一种在理性基础上的普遍语言……它以像代数符号一样完善而迅速的方式实现交流的目的”来矫正这一点；艾略特却论证说，这样一种语言“永远不能表达 *life*（生命），而生命远多于科学”（Eliot 1856b: 69）。再者，一种纯逻辑的语言会失去一切“对想象力的支配力”（Eliot 1856b: 69）。因此，要在写作中做到真实，就需要一种近乎“天才”的文学技巧，把自然语言运用得具有足够的“明确性与确定性”（Eliot 1856b: 69）。
+    step2: |-
+      可是她说，精确总是受威胁，威胁来自一切自然语言固有的微妙、歧义与多义。她的一些同时代人颇像今天的分析哲学家，想靠构造“一种以理性为基础的普遍语言……它能像代数符号那样完善而迅速地达成交流目的”来矫正这一点；艾略特则主张，这样的语言“永远表达不了 *life*（生命），而生命远多于科学”（Eliot 1856b: 69）。而且，纯逻辑的语言会失掉全部“支配想象力的力量”（Eliot 1856b: 69）。所以在写作中求真实，就得有一种近乎“天才”的文学本领，把自然语言使得足够“明确、足够确定”（Eliot 1856b: 69）。
+  - id: 17
+    kind: body
+    source: |-
+      Eliot created remarkably sophisticated literary works, and their full philosophical value cannot be appreciated separately from their aesthetic features. An excessive focus on the explicit philosophical pronouncements made by Eliot’s narrators, by her characters, or by Eliot herself, could give rise to the worry that assertions are being made without argument. Considered more holistically, her texts challenge the narrow definition of argument that underpins this concern.
+    step1: |-
+      艾略特创造出了极为精致的文学作品，其完整的哲学价值不能离开其审美特征来领会。过分聚焦于艾略特的叙述者、她的人物或她本人所作的显白哲学论断，可能引起一种担忧：这些断言是在没有论证的情况下作出的。若更整体地看待，她的文本恰恰挑战了支撑这一担忧的狭隘论证定义。
+    step2: |-
+      艾略特写出的文学作品极为精致，其哲学价值不能同审美特征拆开来领会。若过分盯住叙述者、人物或艾略特本人那些显白的哲学论断，就会生出一种担心：这些断言是不是没有论证就下了？把文本当作整体来看，她的作品恰恰在挑战支撑这一担心的那个狭隘的论证定义。
+  - id: 18
+    kind: body
+    source: |-
+      ## 3. The Human Condition: Key Concepts
+    step1: |-
+      ## 3. The Human Condition: Key Concepts
+    step2: |-
+      ## 3 人的处境：核心概念
+  - id: 19
+    kind: body
+    source: |-
+      ### 3.1 Character
+    step1: |-
+      ### 3.1 Character
+    step2: |-
+      ### 3.1 性格
+  - id: 20
+    kind: body
+    source: |-
+      As a creator of characters, Eliot confronted questions about the nature and significance of character throughout her literary career. In this way she contributed to wider philosophical debates: in 1843 John Stuart Mill proposed an “Exact Science of Human Nature” which would be a “science of character…including the formation of national or collective character as well as individual” (Mill 1843: bk. VI, ch. V, §4 [1889: 567])[^mill-1843]. Mill named this new science “Ethology”, thus placing it within an Aristotelian tradition of moral philosophy focused on the cluster of concepts—character, custom, habit, and way of life—signalled by the Greek word *ethos*. Eliot invokes this tradition explicitly by naming the narrator of her final work after Theophrastus, pupil of Aristotle and author of *The Characters* (Henry 1994; Brilmyer 2014)[^brilmyer-2014][^henry-1994]. The working title of *Impressions of Theophrastus Such* was “Characters and Characteristics of Theophrastus Such”.
+    step1: |-
+      作为性格的创造者，艾略特在整个文学生涯中都在面对关于性格之本性与意义的问题。她由此参与了更广的哲学论争：1843年，约翰·斯图亚特·密尔提出一门“关于人性的精确科学”，它将是一门“性格的科学……既包括个人性格的形成，也包括民族或集体性格的形成”（Mill 1843: bk. VI, ch. V, §4 [1889: 567]）[^mill-1843]。密尔把这门新科学命名为“Ethology（性格学）”，由此把它放进一个亚里士多德式的道德哲学传统，该传统聚焦于一组概念：性格、习俗、习惯、生活方式，其标志是希腊词 *ethos*。艾略特明确地援引这一传统：她给自己的最后一部作品中的叙述者取名特奥弗拉斯托斯，此人乃亚里士多德的学生，《人物志》的作者（Henry 1994; Brilmyer 2014）[^brilmyer-2014][^henry-1994]。《特奥弗拉斯托斯·萨奇印象》的暂定书名是“特奥弗拉斯托斯·萨奇的人物与性格”。
+    step2: |-
+      艾略特一生造人物，也就一生在同关于性格之本性与意义的问题打交道。她由此加入更大的哲学论争：1843年约翰·斯图亚特·密尔提出一门“关于人性的精确科学”，那将是一门“性格的科学……既包括个人性格的形成，也包括民族或集体性格的形成”（Mill 1843: bk. VI, ch. V, §4 [1889: 567]）[^mill-1843]。密尔给这门新科学取名“性格学”（Ethology），把它放进一个亚里士多德式的道德哲学传统里：那个传统围着性格、习俗、习惯、生活方式这一簇概念转，希腊词 *ethos* 就是它们的标记。艾略特明明白白援引这个传统：她最后一部作品的叙述者取名特奥弗拉斯托斯，此人是亚里士多德的学生、《人物志》的作者（Henry 1994; Brilmyer 2014）[^brilmyer-2014][^henry-1994]。《特奥弗拉斯托斯·萨奇印象》的暂定书名是《特奥弗拉斯托斯·萨奇的人物与性格》。
+  - id: 21
+    kind: body
+    source: |-
+      The concept of character was Eliot’s route into metaphysical questions of freedom and determinism (G. Levine 1962; Brilmyer 2015)[^brilmyer-2015][^levine-1962]. At stake in nineteenth-century debates about character was a dispute between biological determinists and defenders of a liberal doctrine of collective and individual moral improvement. Though influenced by the strict determinism she encountered while translating Spinoza’s *Ethics*, Eliot refuses the polarities of this debate and probes its complexities. Her art emphasizes social over biological constraints, and inter-dependence over both determinism and free will. Its explorations of habit and custom—laws that, to borrow Leibniz’s opportune phrase, “incline without necessitating” (Look 2008 [2022: § 4])[^look-2008]—open up a middle path through these alternatives. In “The Natural History of German Life”, an 1856 review of two works by the German sociologist Wilhelm Riehl, Eliot notes “the generic character of the German peasant” for whom “custom” is the “supreme law” (Eliot 1856b: 68; Dillane 2009)[^dillane-2009].
+    step1: |-
+      性格这个概念，是艾略特进入自由与决定论这一形而上学问题的入口（G. Levine 1962; Brilmyer 2015）[^brilmyer-2015][^levine-1962]。十九世纪关于性格的论争，争的是一件事：生物决定论者与主张集体及个人道德进步的自由主义学说之辩护者之间的一场争执。艾略特在翻译斯宾诺莎《伦理学》时接触到严格的决定论，受其影响，却拒绝这场论争的两极，转而探查其中的复杂性。她的艺术强调社会约束甚于生物约束，强调相互依赖甚于决定论与自由意志二者。它对习惯与习俗的探索——借用莱布尼茨那句恰切的说法，这类法则是“倾向而不强迫”（Look 2008 [2022: § 4]）[^look-2008]——在这些选项之间开出一条中间道路。在1856年评德国社会学家威廉·里尔两部著作的《德意志生活的自然史》一文中，艾略特指出“德意志农民的类性格”，对这种人来说“习俗”是“最高法则”（Eliot 1856b: 68; Dillane 2009）[^dillane-2009]。
+    step2: |-
+      性格这个概念，是艾略特走进自由与决定论那类形而上学问题的通道（G. Levine 1962; Brilmyer 2015）[^brilmyer-2015][^levine-1962]。十九世纪关于性格的论争，底子里是生物决定论者与主张集体和个人道德进步的自由主义者在争。艾略特译斯宾诺莎《伦理学》时碰上了严格的决定论，受了影响，却不肯接受那场论争的两极，偏要去探它的复杂。她的艺术看重社会约束胜过生物约束，看重相互依赖胜过决定论与自由意志两边。她探习惯与习俗——借莱布尼茨那句恰切的话，这类法则“倾向而不强迫”（Look 2008 [2022: § 4]）[^look-2008]——就在这些选项之间开出一条中路。1856年她评德国社会学家威廉·里尔的两部书，写成《德意志生活的自然史》，文中点出“德意志农民的类性格”：对这种人，“习俗”就是“最高法则”（Eliot 1856b: 68; Dillane 2009）[^dillane-2009]。
+  - id: 22
+    kind: body
+    source: |-
+      *Silas Marner* begins with a dismal vision of the mechanization of human character in an industrial age. Silas, a weaver, has degenerated into a biological-mechanical hybrid, “shrunk” and “bent” into “a constant mechanical relation to the objects of his life”:
+    step1: |-
+      《织工马南》开篇是一幅黯淡的景象：工业时代人的性格被机械化了。织工塞拉斯退化成了一个生物—机械的混合体，“缩”了，“弯”了，成了“与他生活对象的恒定机械关系”：
+    step2: |-
+      《织工马南》一开篇就是一幅灰暗的图景：人的性格在工业时代被机械化了。织工塞拉斯退化成一个生物与机械的混合物，“缩”着，“弯”着，成了“同他生活对象的一重恒定机械关系”：
+  - id: 23
+    kind: body
+    source: |-
+      > The livelong day he sat in his loom, his ear filled with its monotony, his eyes bent close down on the slow growth of sameness in the brownish web, his muscles moving with such even repetition that their pause seemed almost as much a constraint as the holding of his breath. (SM 29–31)
+    step1: |-
+      > 整日他坐在织机前，耳朵里塞满它的单调，眼睛俯贴那褐色织网上缓缓生长的千篇一律，肌肉以如此均匀的重复运动着，以致它们停下来的间歇几乎也成了一种强制，如同屏住呼吸。（SM 29–31）
+    step2: |-
+      > 一整日他坐在织机前，耳朵里灌满它的单调，眼睛紧盯着那片褐网上缓缓长出的千篇一律，肌肉以极匀的重复动着，以致停下来的间歇也像一种强制，跟屏住呼吸差不多。（SM 29–31）
+  - id: 24
+    kind: body
+    source: |-
+      Over the course of the novel, Silas is re-humanized by the love of an adopted daughter and new friendships with his neighbours. However, this story’s fable-like literary form strikes a warning that its hero’s happy ending is due to quasi-miraculous good fortune, not a freely-willed programme of self-improvement.
+    step1: |-
+      在小说的进程中，塞拉斯因一个养女的爱、因与邻人新的友谊而重新获得了人性。然而这个故事寓言般的文学形式敲响一记警钟：主人公的大团圆结局靠的是近乎奇迹的好运，而不是一个自由意志的自我改善方案。
+    step2: |-
+      小说的进程里，塞拉斯因一个养女的爱、因同邻人新结的友谊而重新成了人。可这个故事寓言式的形式敲了一记警钟：主角能得个圆满结局，靠的是近乎神迹的好运，不是自由意志定下的自我改善方案。
+  - id: 25
+    kind: body
+    source: |-
+      In *Middlemarch*, Eliot’s narrator observes that character is “a process and an unfolding” (M I: 226). The novel’s plot and literary form emphasize the dependence of this character “process” on social more than biological conditions. Its narrator inclines towards social determinism by claiming that “There is no creature whose inward being is so strong that it is not greatly determined by what lies outside it” (M III: 464; cf. Spinoza, *Ethics* IVp18s: “we can never bring ourselves to a state in which we should want nothing external in order to preserve our existence”). In keeping with its title, however, *Middlemarch* steers a middle course between determinism and free will, while drawing on biological metaphors (Brilmyer 2015)[^brilmyer-2015]. In one scene, Reverend Farebrother advises the novel’s heroine, Dorothea Brooke, that
+    step1: |-
+      在《米德尔马契》中，艾略特的叙述者评论说，性格是“一个过程，一种展开”（M I: 226）。小说的情节与文学形式强调：这一性格“过程”更多地依赖社会条件，而非生物条件。它的叙述者倾向于社会决定论，声言“没有哪个造物的内在生命强到不会被它之外的东西大大决定”（M III: 464；参斯宾诺莎《伦理学》IVp18s：“我们永远不能使自己达到一种状态，在其中我们为了保存自己的存在而不需要任何外在的东西”）。然而，如其标题所示，《米德尔马契》在决定论与自由意志之间取一条中道，同时借用生物学隐喻（Brilmyer 2015）[^brilmyer-2015]。有一场戏里，费尔布拉泽牧师劝小说的女主人公多萝西娅·布鲁克说：
+    step2: |-
+      《米德尔马契》里，叙述者说性格是“一个过程，一种展开”（M I: 226）。小说的情节与形式都强调：这个“过程”更靠社会条件，不靠生物条件。叙述者偏向社会决定论，声言“没有哪个造物的内在生命强到能不被外头的东西大大决定”（M III: 464；参斯宾诺莎《伦理学》IVp18s：“我们永远不能把自己带到一种状态，在其中为了保存自己的存在而一无所求于外”）。不过正如书名所示，《米德尔马契》在决定论与自由意志之间取中路，同时借用生物学的隐喻（Brilmyer 2015）[^brilmyer-2015]。有一场里，费尔布拉泽牧师劝女主人公多萝西娅·布鲁克：
+  - id: 26
+    kind: body
+    source: |-
+      > character is not cut in marble—it is not something solid and unalterable. It is something living and changing, and may become diseased as our bodies do;
+    step1: |-
+      > 性格不是在大理石上刻出来的——它不是某种坚实而不可改变的东西。它是活的、在变的，也可能像我们的身体一样生病；
+    step2: |-
+      > 性格不是在大理石上凿出来的，不是坚实而不能改动的东西。它活着，在变，也会像我们的身体那样生病；
+  - id: 27
+    kind: body
+    source: |-
+      “then it may be rescued and healed”, replies Dorothea (M III: 310). Yet any moral healing accomplished over the course of the novel is, at best, partial.
+    step1: |-
+      “那样它就可以被救回来、治好”，多萝西娅答道（M III: 310）。然而小说进程中完成的任何道德疗愈，至多是局部的。
+    step2: |-
+      “那样它还能救回来，能治好，”多萝西娅答道（M III: 310）。可小说里完成的任何道德疗愈，顶多是局部的。
+  - id: 28
+    kind: body
+    source: |-
+      ### 3.2 The Milieu
+    step1: |-
+      ### 3.2 The Milieu
+    step2: |-
+      ### 3.2 环境
+  - id: 29
+    kind: body
+    source: |-
+      Like character, the milieu is a crucial concept in Eliot’s art. In the early decades of the nineteenth century this concept emerged, within the new science of biology, to draw attention to the relations between an organism and its surrounding conditions of existence. Lamarck’s *les circonstances* and Geoffroy Saint-Hilaire’s *le milieu ambiant* preceded Auguste Comte’s use of *le milieu* in 1838, evoking “a certain intuition of a centred formation” (Canguilhem 2001: 11)[^canguilhem-2001]. Another new science, “sociology”, stretched the concept to encompass cultural as well as natural conditions of life. In the early 1850s, Eliot urged Herbert Spencer to read Comte’s *Cours de philosophie positive*; Spencer then developed Comte’s concept of milieu, proposing “environment” as a single term naming biological and social circumstances. His thesis that organisms are constantly adjusting to their environment anticipated the theory of adaptation presented in Darwin’s *Origin of Species*.
+    step1: |-
+      与性格一样，环境在艾略特的艺术中也是一个关键概念。在十九世纪最初几十年，这个概念在生物学这门新兴科学内部出现，用以引起人们对有机体与其周围生存条件之间关系的注意。拉马克的 *les circonstances*（周围条件）与若弗鲁瓦·圣伊莱尔的 *le milieu ambiant*（周围环境），早于奥古斯特·孔德1838年对 *le milieu* 的使用，后者唤起“对一种有中心之构型的某种直觉”（Canguilhem 2001: 11）[^canguilhem-2001]。另一门新兴科学“社会学”把这个概念伸展到文化的、以及自然的生活条件。十九世纪五十年代初，艾略特力劝赫伯特·斯宾塞读孔德的《实证哲学教程》；斯宾塞随后发展了孔德的环境概念，提出用“environment（环境）”这个单一术语来命名生物性的与社会性的境况。他关于有机体在不断适应其环境的论点，预示了达尔文《物种起源》所提出的适应理论。
+    step2: |-
+      环境同性格一样，是艾略特艺术里的关键概念。十九世纪头几十年，这个概念在生物学这门新科学里冒出来，用意在提醒人注意有机体同它周围生存条件的关系。拉马克的 *les circonstances*（周围条件）、若弗鲁瓦·圣伊莱尔的 *le milieu ambiant*（周围环境），都早于奥古斯特·孔德1838年用的 *le milieu*；孔德那个词唤起“对一种有中心之构型的某种直觉”（Canguilhem 2001: 11）[^canguilhem-2001]。另一门新科学“社会学”把概念拉宽，让它兼指文化的与自然的生活条件。五十年代初，艾略特劝赫伯特·斯宾塞去读孔德的《实证哲学教程》；斯宾塞随后发展了孔德的环境概念，提出用“environment（环境）”一个词统称生物的与社会的境况。他主张有机体不断在适应环境，这预示了达尔文《物种起源》里的适应理论。
+  - id: 30
+    kind: body
+    source: |-
+      For Eliot—unlike Spencer—science provides a model or analogy rather than a method for the investigation of human life.
+    step1: |-
+      对艾略特而言——与斯宾塞不同——科学提供的是模型或类比，而不是研究人类生活的方法。
+    step2: |-
+      在艾略特这里（与斯宾塞不同），科学给的是模型或类比，不是研究人类生活的方法。
+  - id: 31
+    kind: body
+    source: |-
+      > In natural science, I have understood, there is nothing petty to the mind that has a large vision of relations, and to which every single object suggests a vast sum of conditions. It is surely the same with the observation of human life,
+    step1: |-
+      > 在自然科学中，据我所理解，对一个有宏大关系视野的心灵来说，没有什么东西是琐屑的；对这样的心灵，每一个单个对象都提示出一大堆条件。对人生的观察，想必也是一样，
+    step2: |-
+      > 在自然科学里，据我所懂，凡有宏大关系视野的心灵，都不觉得有什么东西琐屑；对这样的心灵，每一个单个对象都提示出一大堆条件。观察人的生活，想必也是一样，
+  - id: 32
+    kind: body
+    source: |-
+      declares the urbane narrator of *The Mill on the Floss* (MF II: 151). Eliot sees human lives as “interwoven”, and construes the novelist’s task as “unravelling” a complex web of relations to reveal the interconnectedness of all things (M I: 214). At the same time, her artistic process entailed creating intricate literary webs; of her last novel, *Daniel Deronda*, she wrote that “I meant everything in the book to be related to everything else there” (Eliot to Barbara Bodichon, 2 October 1876; *Letters* 6: 290).
+    step1: |-
+      《弗洛斯河上的磨坊》那位文雅的叙述者如是宣称（MF II: 151）。艾略特把人类生活看作“交织在一起的”，并把小说家的任务理解为“解开”一张复杂的关系之网，以显出万物的相互联系（M I: 214）。同时，她的创作过程也就要织出精巧的文学之网；谈到她最后一部小说《丹尼尔·德隆达》，她写道：“我本意是要书里的一切都与其他一切相关”（艾略特致芭芭拉·博迪雄，1876年10月2日；*Letters* 6: 290）。
+    step2: |-
+      《弗洛斯河上的磨坊》里那位文雅的叙述者如是说（MF II: 151）。艾略特把人世看作“交织”在一起，把小说家的活计看作“解开”一张复杂的关系网，好显出万物的相互勾连（M I: 214）。同时，她的创作本身就是在织一张精巧的文学之网；说起最后一部小说《丹尼尔·德隆达》，她写道：“我要书里的一切都同其他一切相关”（艾略特致芭芭拉·博迪雄，1876年10月2日；*Letters* 6: 290）。
+  - id: 33
+    kind: body
+    source: |-
+      In his 1881 *MIND* article on “George Eliot’s Art”, James Sully highlights Eliot’s deployment of the concept of milieu:
+    step1: |-
+      詹姆斯·萨利1881年发表在《心灵》杂志上论“乔治·艾略特的艺术”的文章，着重指出艾略特对环境概念的运用：
+    step2: |-
+      詹姆斯·萨利1881年在《心灵》杂志上论“乔治·艾略特的艺术”，特意点出她对环境概念的运用：
+  - id: 34
+    kind: body
+    source: |-
+      > A character divorced from its surroundings is an abstraction. A personality is only a concrete living whole when we attach it by a network of organic filaments to its particular environment, physical and social… [Eliot] looks on these [surroundings] as having a living continuity with the people whom she sets among them. Their artistic value is but a reflection of all that they mean to those for whom they have made the nearer and habitually enclosing world. (Sully 1881: 382–3)[^sully-1881]
+    step1: |-
+      > 一个与周围环境割裂的性格只是一种抽象。只有当性格以一张有机丝缕之网系于其特殊的环境（自然的与社会的）时，一个人格才是一个具体的活的整体……［艾略特］把这些［周围事物］看作与她置于其中的人物有活的连续性。它们的艺术价值，不过反映了它们对那些人意味着的一切，因为对那些人来说，周围事物构成了更近的、习惯上包裹着他们的世界。（Sully 1881: 382–3）[^sully-1881]
+    step2: |-
+      > 一个与周围割裂的性格，只是抽象。只有当人格由一张有机丝缕的网系于它特定的环境（自然的与社会的），它才是一个具体的活的整体……［艾略特］把这些［周围之物］看作同她安放其中的人物有活的连续性。它们的艺术价值，只是映出它们对那些人意味着什么：对那些人来说，周围之物构成了更切近、习惯上包着他们的那个世界。（Sully 1881: 382–3）[^sully-1881]
+  - id: 35
+    kind: body
+    source: |-
+      Both the natural milieu and the social milieu are important subject-matter in Eliot’s art. Her attitude towards the social “world” or “medium” (as she sometimes translates *milieu*) is profoundly ambivalent. A tight-knit provincial milieu provides a nexus of meaning and belonging—in short, a home; it can also be overwhelming and constrictive. Ambitious, idealistic Dr Lydgate, for example, finds that “the petty medium of Middlemarch had been too strong for him” (M I: 285). Yet a more cosmopolitan milieu risks dislocating human lives from their habitat. “A human life, I think, should be well rooted in some spot of a native land”, opines the narrator of *Daniel Deronda*, and several characters in this novel’s modern setting suffer from the lack of “this blessed persistence in which affection can take root” (DD I: 26–7).
+    step1: |-
+      自然的环境与社会的环境，都是艾略特艺术中的重要题材。她对社会“世界”或“媒介”（她有时这样翻译 *milieu*）的态度极为矛盾。一个紧密的乡土环境提供意义与归属的连接点，简言之，一个家；它也可能令人窒息、束缚人。譬如，有抱负、有理想的利德盖特医生发现“米德尔马契那琐屑的媒介对他太强了”（M I: 285）。然而更世界主义的环境，又有让人的生活脱离其栖息地的风险。“我以为，一个人的生命应当好好扎根在故土某处”，《丹尼尔·德隆达》的叙述者如是说，而这部小说现代背景中的若干人物，正苦于缺少“这种蒙福的延续，使感情能够扎根”（DD I: 26–7）。
+    step2: |-
+      自然的和社会的环境，都是艾略特艺术的要紧题材。她对社会“世界”或“媒介”（她有时就把 *milieu* 这样译）的态度极为矛盾。一个紧密的乡土环境，是意义与归属的枢纽，简言之就是一个家；它也压人，也能把人箍住。有抱负、有理想的利德盖特医生就发现，“米德尔马契那点琐屑的媒介对他太强了”（M I: 285）。可环境一旦 cosmopolitan，人的生活又有脱离栖息地之虞。“人生，我以为，应当好好扎根在故土某处”，《丹尼尔·德隆达》的叙述者说；而这部小说现代背景里的几个人物，正苦于缺了“这份蒙福的延续，让感情扎得下根”（DD I: 26–7）。
+  - id: 36
+    kind: body
+    source: |-
+      In 1868, while working on *Middlemarch*, Eliot condensed her thoughts on the milieu in a short unpublished essay titled “Notes on Form in Art”. Here she defines form as “a limit determined partly by the intrinsic relations or composition of the object, and partly by the extrinsic action of other bodies upon it” (Eliot 1868 [1963: 434]). The formation of an artwork mirrors the formation of character insofar as it unfolds within an aesthetic and ethical milieu: “in adjustment with certain given conditions of sound, language, action, or environment”. Emphasizing relationality and interdependence, she elucidates a Spinozist
+    step1: |-
+      1868年写《米德尔马契》期间，艾略特在一篇未刊短论《艺术形式札记》中把关于环境的思考压缩起来。她在文中把形式定义为“一种界限，一部分由对象内在的关系或构成决定，一部分由其他物体对它的外在作用决定”（Eliot 1868 [1963: 434]）。艺术作品的成形，映照着性格的成形，因为它也在一个审美与伦理的环境中展开：“与声音、语言、行动或环境某些既定条件相调适”。她强调关系性与相互依赖，阐明一种斯宾诺莎式的
+    step2: |-
+      1868年写《米德尔马契》的时候，艾略特把关于环境的想法收进一篇未刊的短文《艺术形式札记》。她给形式下的定义是“一种界限，一半由对象内在的关系或构成决定，一半由其他物体对它的外在作用决定”（Eliot 1868 [1963: 434]）。作品成形，映着性格成形，因为它也在一个审美与伦理的环境里展开：“同声音、语言、行动或环境的某些既定条件相调适”。她强调关系与相互依赖，讲出一种斯宾诺莎式的
+  - id: 37
+    kind: body
+    source: |-
+      > conception of wholes composed of parts more and more multiplied and highly differenced, yet more and more absolutely bound together by various conditions of common likeness or mutual dependence. (Eliot 1868 [1963: 433])
+    step1: |-
+      > 关于整体的构想：这些整体由越来越多、越来越高度分化的部分构成，却越来越绝对地由共同相似或相互依赖的种种条件绑在一起。（Eliot 1868 [1963: 433]）
+    step2: |-
+      > 整体的构想：那些整体由愈益增多、愈益高度分化的部分合成，却又愈益牢固地被共同相似或相互依赖的种种条件绑在一起。（Eliot 1868 [1963: 433]）
+  - id: 38
+    kind: body
+    source: |-
+      Following Spinoza, she suggests that complexity corresponds to power; again, she seems to apply this principle to artworks as much as to organic wholes. When Eliot writes that
+    step1: |-
+      她随斯宾诺莎，提出复杂性与力量相对应；这里她似乎同样把这条原则用于艺术作品，也用于有机的整体。当艾略特写道：
+    step2: |-
+      她跟着斯宾诺莎，认为复杂性对应着力量；此处她又似乎把这条原则同样用到作品上，也用到有机整体上。艾略特写道：
+  - id: 39
+    kind: body
+    source: |-
+      > the highest Form, then, is the highest organism, [i.e.] the most varied group of relations bound together in a wholeness which again has the most varied relations with all other phenomena. (Eliot 1868 [1963: 433])
+    step1: |-
+      > 那么，最高的形式就是最高的有机体，［即］最多样的关系群，它们被绑在一个整体之中，而这个整体又与所有其他现象有着最多样的关系。（Eliot 1868 [1963: 433]）
+    step2: |-
+      > 那么最高的形式就是最高的有机体，［也就是］最多样的一组关系，它们被绑成一个整体，而这整体又同其他一切现象有最多样的关系。（Eliot 1868 [1963: 433]）
+  - id: 40
+    kind: body
+    source: |-
+      she articulates the ideal of literary form that guides her mature fiction. Eliot’s novels, above all *Middlemarch* and *Daniel Deronda*, depict the intricate connectedness of ecological, biological, social, political and psychological forces, often by constructing analogical relations between multiple characters and events (Mansell 1965a; Carlisle 2020b)[^carlisle-2020b][^mansell-1965a].
+    step1: |-
+      她由此阐明了引导她成熟期小说的文学形式理想。艾略特的小说，首先是《米德尔马契》与《丹尼尔·德隆达》，描绘生态的、生物的、社会的、政治的与心理的各种力量之间错综的联系，常用手法是在多个人物与事件之间构造类比关系（Mansell 1965a; Carlisle 2020b）[^carlisle-2020b][^mansell-1965a]。
+    step2: |-
+      她由此讲明了引导她成熟期小说的形式理想。艾略特的小说，尤其是《米德尔马契》和《丹尼尔·德隆达》，写生态的、生物的、社会的、政治的、心理的种种力量如何错综相连；手法常是在多个人物与事件之间搭起类比关系（Mansell 1965a; Carlisle 2020b）[^carlisle-2020b][^mansell-1965a]。
+  - id: 41
+    kind: body
+    source: |-
+      ### 3.3 Self-Centredness
+    step1: |-
+      ### 3.3 Self-Centredness
+    step2: |-
+      ### 3.3 自我中心
+  - id: 42
+    kind: body
+    source: |-
+      Selfishness is the most basic moral problem confronted in Eliot’s work. It is closely connected with her concept of the milieu, according to which every organism is, by definition, in the middle of its environment. On a psychological level, when human beings locate themselves at the centre of a world, their self-centring involves a failure to attend to others’ subjectivity. This failure is epistemic as well as moral; *Middlemarch*’s narrator declares that “We are all of us born in moral stupidity, taking the world as an udder to feed our supreme selves” (M I: 323). Eliot illustrates this claim by describing how Dorothea, a young wife, struggles to “conceive with that distinctness which is no longer reflection but feeling” that her husband has “an equivalent centre of self, whence the lights and shadows must always fall with a certain difference” (M I: 323).
+    step1: |-
+      利己是艾略特作品面对的最基本道德问题。它与她的环境概念密切联系：按这个概念，每个有机体就定义而言都处于其环境的中央。在心理层面，当人把自己安在一个世界的中心，这种自我中心化就意味着没有留意他人的主观性。这一缺失既是认知的，也是道德的；《米德尔马契》的叙述者宣称“我们生来都在道德上的愚昧之中，把世界当作喂养我们至尊自我的奶源”（M I: 323）。艾略特举例说明这一主张：年轻的多萝西娅是个新婚妻子，她努力去“设想，设想得不再只是反思而是感受”，她的丈夫也有“一个同等的自我中心，光与影从中投出时必带着某种差异”（M I: 323）。
+    step2: |-
+      利己是艾略特作品碰到的最基本的道德问题，它与她的环境概念扣得很紧：按那概念，凡有机体都按定义处在其环境的正中央。心理上，人把自己摆在一个世界的中心，这种自我居中就是不肯理会他人的主观性。这毛病既是认知上的，也是道德上的。《米德尔马契》的叙述者说：“我们都生来带着道德上的愚昧，把世界当成一只奶子，喂养各自的至尊自我”（M I: 323）。艾略特举例说明这话：年轻的多萝西娅初嫁，她努力“设想”，设想得“不再是反思而是感受”——她的丈夫也有“一个同等的自我中心，光与影从那里投出，必然带着几分不同”（M I: 323）。
+  - id: 43
+    kind: body
+    source: |-
+      In another key passage, the image of “concentric circles” around a “centre” evokes Eliot’s concept of milieu, while functioning more explicitly as a symbol of human egoism:
+    step1: |-
+      在另一处关键段落中，围绕一个“中心”的“同心圆”意象唤起艾略特的环境概念，同时更明白地充作人类利己主义的一则象征：
+    step2: |-
+      另一处关键段落里，“同心圆”绕着一个“中心”的意象，既唤起她的环境概念，又更直白地充当人类利己的比喻：
+  - id: 44
+    kind: body
+    source: |-
+      > An eminent philosopher among my friends…has shown me this pregnant little fact. Your pier-glass or extensive surface of polished steel made to be rubbed by a house maid, will be minutely and multitudinously scratched in all directions; but place now against it a lighted candle as a centre of illumination, and lo! the scratches will seem to arrange themselves in a fine series of concentric circles round that little sun. It is demonstrable that the scratches are going everywhere impartially, and it is only your candle which produces the flattering illusion of a concentric arrangement, its light falling with an exclusive optical selection. These things are a parable. The scratches are events, and the candle is the egoism of any person now absent — of Miss Vincy, for example. (M I: 403; Albrecht 2020: 59–88)[^albrecht-2020]
+    step1: |-
+      > 我朋友中间有一位居高的哲学家……向我指出这一富含意义的小事。你的穿衣镜，或供女仆擦拭的大片磨光钢面，会朝四面八方留下无数极细的划痕；可现在在它前面点上一支烛火，作为照明中心，瞧！那些划痕便像是自行排成了一列列精巧的同心圆，绕着那个小小的太阳。可以证明，划痕原是无偏地到处都在，只你的烛光用一种独占的取舍，造出这令人讨好的同心排列的幻觉。这些东西是一则比喻。划痕是事件，而烛光是在场之外某个人的利己——比如文西小姐。（M I: 403；Albrecht 2020: 59–88）[^albrecht-2020]
+    step2: |-
+      > 我朋友里有一位居高的哲学家……让我看这一桩寓意深长的小事。你的穿衣镜，或者够得上女仆去擦的一大片磨光钢面，上头四面八方都是极细极多的划痕；如今拿一支点着的蜡烛对着它，作照明的中心，瞧！划痕竟像自行排成一圈圈精巧的同心圆，绕着那个小太阳。其实可以证明，划痕原样到处分布，不偏不倚，只你那烛光凭一种独占的取舍，造出同心排列这种讨人欢心的幻觉。这些是一则比喻。划痕是事件，烛光是某个缺席者的利己——比如说，文西小姐。（M I: 403；Albrecht 2020: 59–88）[^albrecht-2020]
+  - id: 45
+    kind: body
+    source: |-
+      Eliot’s moral critique of egoism always involves self-critique. Interestingly, she saw this ordinary human egoism mirrored in her artistic work: “But what is fiction other than an arrangement of events or feigned correspondences according to predominant feeling? …we make what pleases us” (Eliot 1868 [1963: 434]; Albrecht 2020: 68–75)[^albrecht-2020].
+    step1: |-
+      艾略特对利己的道德批评总包含自我批评。有趣的是，她在这件平常的人类利己身上看到自己艺术作品的镜像：“但小说若不是依照占优势的情感来安排事件、安排虚构的对应关系，又是什么呢？……我们造我们所喜”（Eliot 1868 [1963: 434]; Albrecht 2020: 68–75）[^albrecht-2020]。
+    step2: |-
+      艾略特对利己的道德批评里总有自我批评。有意思的是，她看出这平常的人类利己正映在她的艺术作品里：“小说若不是按着占上风的情感去安排事件、安排假想的对应，又是什么？……我们造我们自己喜欢的”（Eliot 1868 [1963: 434]; Albrecht 2020: 68–75）[^albrecht-2020]。
+  - id: 46
+    kind: body
+    source: |-
+      ### 3.4 Triviality and significance
+    step1: |-
+      ### 3.4 Triviality and significance
+    step2: |-
+      ### 3.4 琐屑与重大
+  - id: 47
+    kind: body
+    source: |-
+      A persistent theme in Eliot’s work is the contrast, within human life, between significance and insignificance—and the unsettling of this distinction. Consider the rather conventional insight expressed here in a letter to a friend, written when Eliot was in her mid thirties:
+    step1: |-
+      艾略特作品中一个持续的主题，是人类生活内部重大与微不足道的对照，以及这一区分的被撼动。这里有一封她三十多岁写给友人的信，说的道理颇为平常：
+    step2: |-
+      艾略特作品里有个持续的主题：人世之中重大与渺小的对照，以及这对照被人撼动。且看她三十几岁给友人的一封信，讲的道理相当平常：
+  - id: 48
+    kind: body
+    source: |-
+      > When we are young we think our troubles a mighty business—that the world is spread out expressly as a stage for the particular drama of our lives… I have done enough of that in my time. But we begin at last to understand that these things are important only to one’s own consciousness, which is but a globule of dew on a rose-leaf that at mid-day there will be no trace of. (Eliot to Cara Bray, 19 May 1854; *Letters* 2: 156)
+    step1: |-
+      > 年轻时我们把自己的烦恼当作天大的事——以为世界特意铺开，做我们各自人生这出戏的舞台……我这种想法已经够多了。但人终于开始明白，这些事只对我们自己的意识才重要，而我们的意识不过是玫瑰叶上一颗露水，到正午就了无痕迹。（艾略特致卡拉·布雷，1854年5月19日；*Letters* 2: 156）
+    step2: |-
+      > 年轻时，我们把自己的烦恼当成莫大的事——以为世界特意摊开，专为我们这出人生的戏搭台……这种念头我过去够多了。人末了总开始明白：这些事只对自己的意识才要紧，而自己的意识不过是玫瑰叶上一滴露水，正午一到就没了痕迹。（艾略特致卡拉·布雷，1854年5月19日；*Letters* 2: 156）
+  - id: 49
+    kind: body
+    source: |-
+      Eliot’s novels frequently dramatize the inflated self-importance described in the first part of this quotation. However, they also subvert conventional judgements about relative importance and triviality.
+    step1: |-
+      艾略特的小说常常把这段引文前半所描写的膨胀的自我重要感戏剧化。然而它们同时颠覆关于轻重缓急的常规判断。
+    step2: |-
+      她小说里常演的，正是这段引文前半说的那种自我要紧要得夸张的样子。可它们同时也在翻掉人家常有的那份轻重判断。
+  - id: 50
+    kind: body
+    source: |-
+      The “great man” theory of history, prominent among Eliot’s contemporaries, epitomizes those conventional judgements. Notable examples (all of whom Eliot read closely) are Thomas Carlyle’s *On Heroes, Hero-Worship, and the Heroic in History* (1841); Auguste Comte’s positivist calendar (1849), with its thirteen lunar months named after eminent men such as Aristotle and Descartes; and Ralph Waldo Emerson’s *Representative Men* (1850). By contrast, Eliot placed obscure, mediocre lives at the centre of her fictional worlds. *Middlemarch* in particular directly challenges the “great man” paradigm by invoking a feminine exemplar, Saint Theresa, and by refracting her exemplarity through Dorothea Brooke’s “unhistoric” life (M III: 465).
+    step1: |-
+      在艾略特的同时代人中颇有影响的“伟人”历史学，是那些常规判断的典型。几个显例（艾略特都曾仔细读过）是托马斯·卡莱尔的《论英雄、英雄崇拜与历史上的英雄豪杰》（1841）；奥古斯特·孔德的实证主义历法（1849），其十三个月亮月以亚里士多德、笛卡尔等卓越人物命名；拉尔夫·沃尔多·爱默生的《代表人物》（1850）。相形之下，艾略特把她虚构世界的中心让给了无名而平庸的人生。《米德尔马契》尤其直接挑战“伟人”范式：它请出一位女性模范，圣特蕾莎，又让这位模范的示范性经由多萝西娅·布鲁克“无史可载”的人生折射出来（M III: 465）。
+    step2: |-
+      “伟人”史论在艾略特的同时代人中很有影响，那些常规判断就数它典型。显例有三（她都细读过）：托马斯·卡莱尔的《论英雄、英雄崇拜与历史上的英雄豪杰》（1841）；奥古斯特·孔德的实证主义历法（1849），十三个月亮月分别以亚里士多德、笛卡尔一类出众人物命名；拉尔夫·沃尔多·爱默生的《代表人物》（1850）。艾略特反其道而行，把她虚构世界的中心交给无名、平庸的人生。《米德尔马契》尤其径直顶撞“伟人”范式：它请出一位女性模范圣特蕾莎，又让这份示范性穿过多萝西娅·布鲁克“不留史迹”的人生折射出来（M III: 465）。
+  - id: 51
+    kind: body
+    source: |-
+      Eliot achieves these effects through narrative irony. Early in *Middlemarch*, the reader is encouraged to laugh at Dorothea’s grandiose aspirations.
+    step1: |-
+      艾略特靠叙事反讽达成这些效果。《米德尔马契》开头，读者被鼓励去笑多萝西娅那些宏大的志向。
+    step2: |-
+      这些效果，艾略特靠叙事反讽做成。《米德尔马契》前头，读者被引着去笑多萝西娅那份志向之大。
+  - id: 52
+    kind: body
+    source: |-
+      > There would be nothing trivial about our lives. Every-day things with us would mean the greatest things. It would be like marrying Pascal… I should see how it was possible to live a grand life here—now—in England,
+    step1: |-
+      > 我们的生活将无一事琐屑。我们的每日之事意味着最伟大的事。那会像嫁给帕斯卡……我将看见，在此处——此时——在英格兰，过一种宏大的生活如何可能，
+    step2: |-
+      > 我们的生活里就没有一件事是琐屑的。我们的每日之事都意味着顶顶大的事。那好比嫁给了帕斯卡……我就能看见，在这里——此刻——在英格兰，宏大的生活怎么过得出，
+  - id: 53
+    kind: body
+    source: |-
+      thinks Dorothea, as she contemplates marriage to Edward Casaubon, a petty-minded amateur scholar (M I: 40). Yet Eliot attributes an unseen moral grandeur to Dorothea’s struggles to live a good life, and (ironically) discloses this to the reader.
+    step1: |-
+      多萝西娅心想，她正考虑嫁给爱德华·卡苏朋，一个心胸狭小的业余学者（M I: 40）。然而艾略特把一种看不见的道德庄严归于多萝西娅过好好生活的挣扎，并且（反讽地）把这向读者挑明。
+    step2: |-
+      多萝西娅心里这样想，彼时她正盘算嫁给爱德华·卡苏朋——一个眼界狭小的业余学者（M I: 40）。可是艾略特把一种看不见的道德庄严，归到多萝西娅要好生活的那番挣扎上，而且（反讽的是）还把这向读者挑明。
+  - id: 54
+    kind: body
+    source: |-
+      Eliot is not only concerned with rethinking the question of *who* might count as significant, and morally exemplary. She is also occupied by the tension between the intense significance we accord to our own lives and the lives of those close to us, and their comic insignificance *sub specie aeternitatis.* This theme is prominent in *Middlemarch* and is further intensified in *Daniel Deronda*, which features a quintessentially trivial heroine, Gwendolen Harleth, who is preoccupied with her “small inferences of the way in which she could make her life pleasant” (DD I: 181). Gwendolen cuts a tiny figure in a novel set on the grand stage of world history, and at the enlarged scales of modern astronomy and ancient cosmology.
+    step1: |-
+      艾略特关心的，不只是重新思考 *谁* 算得上重大、算得上道德上可作模范。她同样被人生的强烈重要性与其喜剧性的微不足道之间的紧张所占据——前者是我们给予自己生命和亲近者生命的，后者是在 *sub specie aeternitatis*（永恒相下）看到的。这一主题在《米德尔马契》中很突出，在《丹尼尔·德隆达》里更被强化。该书的女主人公格温多琳·哈莱斯是十足的琐屑人物，满心是“她那点关于如何让自己日子好过的细小推论”（DD I: 181）。在一部把舞台设在世界历史、设在现代天文学与古代宇宙论的放大尺度上的小说里，格温多琳的身影小得可怜。
+    step2: |-
+      艾略特要重想的，不只是 *谁* 算重大、谁算道德上可作模范。她还被另一种紧张占住：我们给自己的生命、给亲近者的生命那份切身的重大，同它们在 *sub specie aeternitatis*（永恒相）下那份近乎滑稽的渺小。这一主题在《米德尔马契》已经很突出，到《丹尼尔·德隆达》更被拧紧。书里的女主人公格温多琳·哈莱斯是彻头彻尾的琐屑人物，满心是“她那点小小的推论：怎样叫自己日子过得舒坦”（DD I: 181）。一部小说把舞台搭在世界历史的大场上，把尺度放到现代天文学与古代宇宙论那么大，格温多琳在里面小得不值一提。
+  - id: 55
+    kind: body
+    source: |-
+      > What in the midst of that mighty drama are girls and their blind visions? Could there be a slenderer, more insignificant thread in human history than this consciousness of a girl…?
+    step1: |-
+      > 在那场伟大的戏剧中间，女孩子和她们盲目的幻象算什么呢？在人类历史中，还有比一个少女的意识……更细弱、更微不足道的线头吗？
+    step2: |-
+      > 在那样一场大戏中间，女孩子和她们盲目的幻象算得了什么？人类历史里，还有比一个少女的意识……更细、更无足轻重的线头吗？
+  - id: 56
+    kind: body
+    source: |-
+      asks the narrator (DD I: 181). This proves to be an ironic question, as Eliot uses Gwendolen’s marriage plot to stage a cosmic struggle between good and evil, drawing on the Kabbalistic myth of a human soul’s arduous journey to its divine source (Baker 1973; Carlisle 2023: 217–19, 340–42)[^baker-1973][^carlisle-2023].
+    step1: |-
+      叙述者如是问（DD I: 181）。事实证明这是一个反讽的问题，因为艾略特借格温多琳的婚姻情节，摆出一场善与恶的宇宙级争斗，并取资于卡巴拉神话中人的灵魂艰苦归向其神圣源头的情节（Baker 1973; Carlisle 2023: 217–19, 340–42）[^baker-1973][^carlisle-2023]。
+    step2: |-
+      叙述者这样问（DD I: 181）。结果这是一句反讽的问话：艾略特恰恰借格温多琳的婚姻情节，摆出一场善恶之间的宇宙级争斗，用的素材是卡巴拉神话里人的灵魂千辛万苦归向神圣源头那一套（Baker 1973; Carlisle 2023: 217–19, 340–42）[^baker-1973][^carlisle-2023]。
+  - id: 57
+    kind: body
+    source: |-
+      ### 3.5 Thought and feeling
+    step1: |-
+      ### 3.5 Thought and feeling
+    step2: |-
+      ### 3.5 思想与情感
+  - id: 58
+    kind: body
+    source: |-
+      The words “thought” and “feeling”, “think and feel”, frequently appear conjoined in Eliot’s writing. Her novels treat the integration of thought and feeling as an intellectual-affective ideal constitutive of human flourishing (which she tends to construe in terms of psychic and moral growth).
+    step1: |-
+      “思想”与“情感”，“思考”与“感受”这些词在艾略特的写作中常作并连出现。她的小说把思想与情感的整合当作一个智识—情感的理想来处理，视其为人的繁盛的构成要素（她倾向于把繁盛解释为心灵与道德的成长）。
+    step2: |-
+      “思想”“情感”，“思考与感受”这几个词，在艾略特笔下常是连着出现的。她的小说把思想与情感的合一体当一个智识与情感兼具的理想，把它看作人之繁盛的构成（她所说的繁盛，偏向心灵与道德的成长）。
+  - id: 59
+    kind: body
+    source: |-
+      This element of Eliot’s thought is influenced by her close study of both Spinoza and Comte during the 1850s (Gatens 2019)[^gatens-2019]. Spinoza’s *Ethics* devotes one of its five parts to an analysis of human emotions that treats them as universal and fully intelligible, comparable to the objects of geometry (*Ethics* III, Preface). Spinoza argues that both the imagination and the affects can be trained, though not eliminated, by the power of understanding. He regards the highest kind of knowing as intuitive, and distinguished by the immediacy of feeling:
+    step1: |-
+      艾略特思想的这一面，受她十九世纪五十年代对斯宾诺莎与孔德的精深研读影响（Gatens 2019）[^gatens-2019]。斯宾诺莎的《伦理学》五分之中，有一分专门分析人的情感，把情感当作普遍且完全可以理解的对象，可比几何学的对象（《伦理学》III 序言）。斯宾诺莎主张，想象力与情感都可以被理解之力训练，但不能被消除。他把最高一类的知识看作直觉的，其特征是感受的直接性：
+    step2: |-
+      她思想的这一面，出于她五十年代对斯宾诺莎与孔德的精读（Gatens 2019）[^gatens-2019]。斯宾诺莎《伦理学》共五部分，其中一部分专析人的情感，待它们如待几何对象，认为其普遍而完全可以理解（《伦理学》III 序言）。斯宾诺莎说，想象力与情感都能被理解之力训练，却不能被取消。他把最高一类知识看成直觉的，特征是感受的直接：
+  - id: 60
+    kind: body
+    source: |-
+      > we feel [*sentimus*], we experience, that we are eternal. For the mind no less feels [*sentit*] those things which it conceives by the understanding, than those which it has in the memory. (*Ethics* Vp23s)
+    step1: |-
+      > 我们 *感到*［sentimus］、体验到我们是永恒的。心灵对其凭理智所设想的东西之 *感到*［sentit］，不亚于对其记忆中的所有东西。（《伦理学》Vp23s）
+    step2: |-
+      > 我们 *感到*［sentimus］、体验到我们是永恒的。心灵对它凭理智所设想之物的 *感到*［sentit］，不下于对它记忆中所有一切之感到。（《伦理学》Vp23s）
+  - id: 61
+    kind: body
+    source: |-
+      According to Eliot’s interpretation of the *Ethics*, such intellectual feeling is continuous with emotional feeling: she consistently introduces the verb “to feel” into her translations of Spinoza’s discussions of the emotions. In his late work *The System of Positive Polity* (1855) Comte postulates a “unity” and “harmony” of human being comprising “a complete convergence both of the Feelings and of the Thoughts”; “the continuous union of the two principal elements, affective and speculative” (Comte 1875: 16–17)[^comte-1875]. For Comte, these elements are gendered female and male respectively, and their balance within society turns out to require women to devote themselves to domesticity and “surrender all claim to temporal authority”, even within the home (Comte 1875: 302)[^comte-1875]. In 1875, when the English translation of *The System of Positive Polity* was published, Eliot took detailed notes on Comte’s account of the relationship between emotion and knowledge (Wright 1986: 173–201; Anger 2001 [2019: 223])[^anger-2001][^wright-1986].
+    step1: |-
+      照艾略特对《伦理学》的解读，这种智性的感受与情感的感受是连续的：她在翻译斯宾诺莎论情感的段落时，一贯把“感到”这个动词引入译文。孔德在其晚期著作《实证政治体系》（1855）中设定人的存在有一种“统一”与“和谐”，包含“情感与思想的完全趋同”、“两个主要要素，情感的与思辨的，持续的结合”（Comte 1875: 16–17）[^comte-1875]。在孔德看来，这两个要素分别具有女性与男性的性别，而社会内部两者的平衡，竟要求女性把自己奉献给家务，即使在家庭之内也要“放弃一切对世俗权威的诉求”（Comte 1875: 302）[^comte-1875]。1875年，《实证政治体系》英译本出版，艾略特对孔德论情感与知识关系的说法作了详细的笔记（Wright 1986: 173–201; Anger 2001 [2019: 223]）[^anger-2001][^wright-1986]。
+    step2: |-
+      按艾略特对《伦理学》的了解，这类智性感受同情感感受本是一贯：她译斯宾诺莎论情感的段落，一贯把“感到”这个动词引进译文。孔德晚年《实证政治体系》（1855）设定人的存在有“统一”与“和谐”，其中“情感与思想完全汇合”、“两个主要要素，情感的与思辨的，持续联合”（Comte 1875: 16–17）[^comte-1875]。在孔德那里，这两个要素一属女一属男，而社会里两者的平衡，竟要女性献身家务，连在家中也“放弃对世俗权威的一切诉求”（Comte 1875: 302）[^comte-1875]。1875年《实证政治体系》英译本问世，艾略特对孔德讲情感与知识之关系，作了细密的笔记（Wright 1986: 173–201; Anger 2001 [2019: 223]）[^anger-2001][^wright-1986]。
+  - id: 62
+    kind: body
+    source: |-
+      Eliot suggests that knowledge pertaining to human life, particularly in its experiential and moral dimensions, is deficient if it lacks feeling. She went so far as to claim that her friend Herbert Spencer’s philosophical work—“his theorising, & his mode of pursuing arguments”—was “injuriously affected” by his “inadequate endowment of emotion” (Eliot to Mary Ponsonby, 11 February 1875; LGHL 3: 83). By contrast, the artist (see §4.3) can be a conduit or medium between thought and feeling. In *Middlemarch*, Will Ladislaw defines “the poet” as someone possessing “a soul in which knowledge passes instantaneously into feeling, and feeling flashes back as a new organ of knowledge” (M I: 341–2).
+    step1: |-
+      艾略特认为，关于人类生活的知识，尤其在经验与道德的层面，若缺少情感便有亏缺。她甚至说，友人赫伯特·斯宾塞的哲学工作——“他的理论化，与他推进论证的方式”——因他“情感禀赋的不足”而“受到损害”（艾略特致玛丽·庞森比，1875年2月11日；LGHL 3: 83）。相形之下，艺术家（见 §4.3）可以作思想与情感之间的通道或媒介。《米德尔马契》中，威尔·拉迪斯劳把“诗人”定义为“有这样一种灵魂：知识在其中瞬间转化为情感，而情感又闪回为新的认知器官”（M I: 341–2）。
+    step2: |-
+      艾略特以为，凡是关于人类生活的知识，尤其在其经验与道德的层面，缺了情感就不全。她甚至说，友人赫伯特·斯宾塞的哲学工作——“他那些理论化，他推进论证的路子”——因他“情感的天赋不足”而“受了损害”（艾略特致玛丽·庞森比，1875年2月11日；LGHL 3: 83）。艺术家（见 §4.3）相反，可以作思想与情感之间的通道、媒介。《米德尔马契》里，威尔·拉迪斯劳给“诗人”下的定义是：有这样的灵魂，“知识在其中一瞬就变成情感，情感又闪回来，成了新的认知器官”（M I: 341–2）。
+  - id: 63
+    kind: body
+    source: |-
+      Since feeling is essentially first-personal, its importance for Eliot is a cause for scepticism about knowledge of other human minds, which differ in their character as well as in their experiential contents. Eliot regards this as a practical difficulty that is not easily solved. Theoretically, her solution is the concept of sympathy (see §5.2), literally “feeling-with”. Sympathy extends affective knowing from the first-person singular to the first-person plural. In one of *Middlemarch*’s closing scenes, the heroine Dorothea tells her sister Celia that “You would have to feel with me, else you would never know” (M III: 442). This proposition can be read in a doubled semantic context: Dorothea’s communication with her sister on a particular question (how she got together with Will Ladislaw); and Eliot’s communication with her reader on a much broader philosophical question about the possibility of an adequate interpersonal knowledge that can underpin ethics.
+    step1: |-
+      由于感受本质上是第一人称的，它对艾略特的重要，便构成对他人心灵之知识的一种怀疑根据；他人心灵无论在经验内容上、还是在性格上都与自己不同。艾略特把这看作一种实践上的困难，不易解决。理论上，她的解决办法是同情概念（见 §5.2），字面意思即“与他人一同感受”。同情把情感上的知，从第一人称单数扩展到第一人称复数。《米德尔马契》结尾的一场戏里，女主人公多萝西娅对妹妹西莉亚说：“你得与我同感，否则你永远不知道”（M III: 442）。这句话可以在双重的语义语境中读：一是多萝西娅就一个具体问题同妹妹交流（她怎样与威尔·拉迪斯劳走到一起）；二是艾略特就一个宽泛得多的哲学问题同她的读者交流，即：足以支撑伦理学的人际知识是否可能。
+    step2: |-
+      感受本位在第一人称，所以在艾略特这里，它的重要反倒成为对他心之知的一种怀疑理由：别人无论性格还是经验内容都与我不同。她把这当作实践上的难处，不好解决。论理，她的解法是同情（见 §5.2），那词的字面就是“一同感受”。同情把情感之知从第一人称单数推到第一人称复数。《米德尔马契》收束的一场里，多萝西娅对妹妹西莉亚说：“你得跟我同感，不然你永不会知道”（M III: 442）。这句话可以两层来读：一层是多萝西娅同妹妹谈一件具体的事（她怎样同威尔·拉迪斯劳到了一起）；另一层是艾略特同读者谈一个大得多的哲学问题：足以立起伦理学的那种人际知识，可能吗？
+  - id: 64
+    kind: body
+    source: |-
+      ## 4. Philosophy of Art
+    step1: |-
+      ## 4. Philosophy of Art
+    step2: |-
+      ## 4 艺术哲学
+  - id: 65
+    kind: body
+    source: |-
+      Eliot developed her philosophy of art first as a critic and then as a practitioner. She construed her turn to fiction writing in the 1850s as the discovery of her artistic vocation, and consistently described herself as an artist. Taking a self-problematizing view of the moral purposes of literature, Eliot reflected critically on the ethics of sympathy dramatized in her fiction and exemplified in her narrative voice.
+    step1: |-
+      艾略特的艺术哲学，先是以批评家身份发展，后来以实践者身份发展。她把自己在十九世纪五十年代转向小说写作，理解为她发现了自己的艺术天命，并一贯把自己描述为艺术家。她对文学的道德目的持一种自设难题的看法，批判性地反思她小说中戏剧化、她叙述声音中示范出来的同情伦理。
+    step2: |-
+      艾略特的艺术哲学，先是做批评家时发展起来，后来自己做创作时又推进一层。她把五十年代转向小说，看成自己的艺术天命被发现，并且始终自称艺术家。她对待文学的道德目的，有一种自己给自己出难题的姿态：小说里演的那套同情伦理，叙述声音里示范的那套同情伦理，她都在批判性地反省（见 §5.2）。
+  - id: 66
+    kind: body
+    source: |-
+      ### 4.1 Realism
+    step1: |-
+      ### 4.1 Realism
+    step2: |-
+      ### 4.1 现实主义
+  - id: 67
+    kind: body
+    source: |-
+      Eliot diagnosed and criticized other-worldliness in art, as in religion: an aversion to life as it is (Eliot 1857). But what does it mean for art to be true to life? Eliot’s answer to this question draws on John Ruskin’s analysis of visual art to defend “realism”, defined as
+    step1: |-
+      艾略特诊断并批评艺术中的出世性，如同批评宗教中的出世性：那是一种对实际生活的厌弃（Eliot 1857）。但艺术忠于生活是什么意思？艾略特对这一问题的回答，借助约翰·罗斯金对视觉艺术的分析，为“现实主义”辩护，其定义是
+    step2: |-
+      艾略特诊断艺术里的出世倾向并加以批评，正如她批评宗教里的出世倾向：那是厌弃实际的生活（Eliot 1857）。可艺术忠于生活，是什么意思？回答这个问题，她借助约翰·罗斯金对视觉艺术的分析，替“现实主义”辩护。她给现实主义的定义是
+  - id: 68
+    kind: body
+    source: |-
+      > the doctrine that all truth and beauty are to be attained by a humble and faithful study of nature, and not by substituting vague forms, bred by imagination on the mists of feeling, in place of definite, substantial reality. (Eliot 1856a: 626; Henry & Levine 2019)[^henry-2019][^levine-2019]
+    step1: |-
+      > 一切真理与美，都要靠谦卑而忠实地研究自然来获得，不靠把想象在情感的雾气里养出的朦胧形体，拿去顶替确定、坚实的现实。（Eliot 1856a: 626; Henry & Levine 2019）[^henry-2019][^levine-2019]
+    step2: |-
+      > 一切真理与美，都要靠谦卑而忠实地研究自然而得，不靠把想象的朦胧形体——在情感的雾气里养出来的东西——拿来顶替确定、坚实的现实。（Eliot 1856a: 626; Henry & Levine 2019）[^henry-2019][^levine-2019]
+  - id: 69
+    kind: body
+    source: |-
+      This realism is qualified in two important respects. First, while Eliot here uses “imagination” and “feeling” pejoratively, she elsewhere uses these terms much more positively and does not usually oppose them to reality or truth. Explaining her own artistic purpose in 1859, she wrote that
+    step1: |-
+      这种现实主义在两个重要方面受到限制。第一，艾略特在这里把“想象力”与“情感”用作贬义，但她在别处用这两个词要正面得多，并且通常不把两者与现实或真理对立起来。1859年解释自己的艺术目的时，她写道：
+    step2: |-
+      这份现实主义有两处要紧的限定。第一，此处“想象力”“情感”是贬义用法；她在别处用这两个词正面得多，而且一般并不把它们同现实、同真理对立。1859年说自己的艺术目的，她写道：
+  - id: 70
+    kind: body
+    source: |-
+      > If Art does not enlarge men’s sympathies, it does nothing morally… the only effect I ardently long to produce by my writings, is that those who read them should be better able to *imagine* and to *feel* the pains and the joys of those who differ from themselves in everything but the broad fact of being struggling erring human creatures. (*Letters* 3: 111; emphasis in original)
+    step1: |-
+      > 如果艺术不能扩大人的同情，它在道德上就毫无作为……我写文章热切盼望产生的唯一效果，是读它们的人能更好地 *想象*、更能 *感受* 那些人的苦与乐——那些人除了“同为挣扎、犯错的造物”这一个大事实，与自己处处不同。（*Letters* 3: 111；着重为原文所有）
+    step2: |-
+      > 艺术若不能扩大人的同情，在道德上就一事无成……我写东西热切想做到的只有一件事：让读的人更能 *想象*、更能 *感受* 那些人的苦与乐——那些人除了“同为挣扎、犯错的人”这一个大事实，与自己无处相同。（*Letters* 3: 111；着重为原文所有）
+  - id: 71
+    kind: body
+    source: |-
+      Second, realism for Eliot (as for Ruskin) always entails interpretation. She regards art as “inevitably subjective” even when it attempts to be “purely imitative”: “the most active perception gives us rather a reflex of what we think and feel, than the real sum of the objects before us” (Eliot 1855a: 703). She suggests, via the narrator of *Adam Bede*, that in order to “avoid any…arbitrary picture” of life, the artist should give a “faithful…account of men and things as they have mirrored themselves in [his] mind” (AB I: 265; Mansell 1965b)[^mansell-1965b].
+    step1: |-
+      第二，对艾略特（如对罗斯金）来说，现实主义总意味着解释。她认为艺术即使力求“纯粹摹仿”，也“不可避免地是主观的”：“最活跃的知觉给我们的与其是眼前对象的实在总和，不如说是我们思想与情感的反映”（Eliot 1855a: 703）。她借《亚当·比德》的叙述者建议：为了“避免任何……任意的图画”，艺术家应当给出“忠实的……对人事的叙述，如同它们在他心中映出的样子”（AB I: 265; Mansell 1965b）[^mansell-1965b]。
+    step2: |-
+      第二，现实主义对艾略特（也如对罗斯金）总免不了解释。她认为艺术即便力求“纯粹摹仿”，也“免不得是主观的”：“最活跃的知觉给我们的，与其说是眼前对象的实在总和，不如说是我们思想与情感的反影”（Eliot 1855a: 703）。她让《亚当·比德》的叙述者献策：要避免“任何……任意的图画”，艺术家就该给出一段“忠实的……关于人与事的记述，照它们在他心里映成的样子”（AB I: 265; Mansell 1965b）[^mansell-1965b]。
+  - id: 72
+    kind: body
+    source: |-
+      So Eliot holds that truth in art is necessarily mediated by the artist’s subjectivity. She characterizes that subjectivity by the self-complicating metaphor of a mirror that is “defective”, possibly distorting. On this view, the artist may be unable to perceive accurately things as they are, yet must strive for honesty about what they *do* see. Thus Eliot casts doubt on epistemic truth while urging moral truthfulness:
+    step1: |-
+      所以艾略特认为，艺术中的真理必然经艺术家的主观性中介。她用一面“有缺陷的”、可能扭曲的镜子的自设难题式隐喻，来刻画这种主观性。照这种看法，艺术家可能无法准确知觉事物本身的样子，却必须力求对所 *确实* 见到的保持诚实。于是艾略特一方面怀疑认识的真理，一方面又要求道德的诚实：
+    step2: |-
+      所以艾略特认为，艺术里的真理必得过艺术家主观这一关。她刻画这层主观，用的是镜子这个自设难题的隐喻：镜子“有缺陷”，说不定还扭曲。照这看法，艺术家也许看不清事物本来的样子，但对自己 *确实* 看见的，必须尽力诚实。于是艾略特一边怀疑认识上的真理，一边要求道德上的诚实：
+  - id: 73
+    kind: body
+    source: |-
+      > the mirror is doubtless defective; the outlines will sometimes be disturbed, the reflection faint or confused; but I feel as much bound to tell you as precisely as I can what that reflection is, as if I were in the witness-box narrating my experience on oath. (AB I: 265–6; Albrecht 2020: 30–58)[^albrecht-2020]
+    step1: |-
+      > 镜子无疑是有缺陷的；轮廓有时会乱，映象或淡或糊；但我仍觉得自己有义务尽可能精确地告诉你那映象是什么，仿佛我在证人席上宣誓叙述我的经历。（AB I: 265–6; Albrecht 2020: 30–58）[^albrecht-2020]
+    step2: |-
+      > 镜子当然有毛病；轮廓有时会乱，映出的影子或淡或糊；可我照旧觉得自己非把那个影子是什么尽量准确告诉你不可，就像站在证人席上宣誓陈述我的经历。（AB I: 265–6; Albrecht 2020: 30–58）[^albrecht-2020]
+  - id: 74
+    kind: body
+    source: |-
+      The courtroom simile here accentuates realism’s moral seriousness. This passage also indicates that realism’s commitment to truthfulness entails careful attention to linguistic precision (see §2).
+    step1: |-
+      这里的法庭比喻，加重了现实主义的道德严肃性。这段话还表明，现实主义对诚实的承诺，意味着对语言精确的细心留意（见 §2）。
+    step2: |-
+      这个法庭的比喻，把现实主义的道德严肃加重了一层。这段话也说明：现实主义既然承诺诚实，就免不了细究语言的精确（见 §2）。
+  - id: 75
+    kind: body
+    source: |-
+      ### 4.2 The purposes of art
+    step1: |-
+      ### 4.2 The purposes of art
+    step2: |-
+      ### 4.2 艺术的目的
+  - id: 76
+    kind: body
+    source: |-
+      Eliot wrote in hope of literary communion with her readers. She construes this communion as both affective and intellectual. “What one’s soul thirsts for”, she wrote in 1873,
+    step1: |-
+      艾略特写作，盼着与读者有文学的相通。她把这种相通理解为既属情感、又属智识。“一个人的灵魂所渴求的”，她1873年写道，
+    step2: |-
+      艾略特写作，是希望同读者在文学上相通。她把这种相通看作兼有情感与智识两面。“一个人的灵魂渴的是什么”，她1873年写道，
+  - id: 77
+    kind: body
+    source: |-
+      > is…that what one meant has been perfectly seized, that the emotion which stirred one in writing is repeated in the mind of the reader. (*Letters* 5: 374)
+    step1: |-
+      > 是……自己本意被完全抓住，是写作时搅动自己的那份情感，在读者心里重新发生。（*Letters* 5: 374）
+    step2: |-
+      > 是自己的本意被人完全接住，是写的时候搅动自己的那份情感，在读者心里重演一遍。（*Letters* 5: 374）
+  - id: 78
+    kind: body
+    source: |-
+      The narrator of her very first story hopes that the reader will “learn with me to see” the wide range of affective experience that normally remains concealed within an ordinary “human soul” (SCL 67).
+    step1: |-
+      她第一篇小说故事的叙述者希望读者“随我一同学会看见”那通常藏在寻常“人的灵魂”里的广阔情感经验（SCL 67）。
+    step2: |-
+      她头一个故事的叙述者希望读者“跟我一起学会看见”那通常藏在平常“人的灵魂”里的广大情感经验（SCL 67）。
+  - id: 79
+    kind: body
+    source: |-
+      Her aesthetic realism has a clear moral purpose. It means endeavouring to depict human beings not as they ought to be, but as they are, since real human beings are the objects of our moral concern. In “The Natural History of German Life”, her programmatic 1856 review essay, Eliot asserts that
+    step1: |-
+      她的审美现实主义有明确的道德目的。它意味着努力把人画成他们实际的样子，而不是他们应当的样子，因为真实的人才是我们道德关切的对象。在1856年那篇纲领性的书评《德意志生活的自然史》中，艾略特声称：
+    step2: |-
+      她的审美现实主义有清楚的道德目的：努力把人写成他们实际的样子，不是他们应当的样子，因为真实的人才配我们道德上的关切。1856年那篇纲领性的书评《德意志生活的自然史》里，艾略特断言：
+  - id: 80
+    kind: body
+    source: |-
+      > A picture of human life such that a great artist can give, surprises even the trivial and the selfish into that attention to what is apart from themselves, which may be called the raw material of moral sentiment. [Art] is a mode of amplifying experience and extending our contact with our fellow-men beyond the bounds of our personal lot. (Eliot 1856b: 54; see also *Letters* 3: 111; 4: 472)
+    step1: |-
+      > 一幅伟大的艺术家所能给出的人生的图画，会令哪怕琐屑、自私的人也不由得留意那自身之外的东西，这种东西或可称为道德情感的原料。［艺术］是一种放大经验的方式，把同人同胞的接触扩展到个人命运之外。（Eliot 1856b: 54；另见 *Letters* 3: 111; 4: 472）
+    step2: |-
+      > 一幅人生的图画，若出自大艺术家之手，会叫哪怕琐屑、自私的人也不由得去留意自身之外的东西，这东西或可称作道德情感的原料。［艺术］是一种放大经验的方式，把同人同胞的接触扩展到个人遭际之外。（Eliot 1856b: 54；另见 *Letters* 3: 111; 4: 472）
+  - id: 81
+    kind: body
+    source: |-
+      This commitment is sharply inflected by class consciousness: Eliot seeks to rectify how working-class people, such as labourers and shopkeepers, are customarily judged by readers implicitly assumed to belong to a higher social class. She argues that
+    step1: |-
+      这一承诺带着鲜明的阶级意识：艾略特要纠正的是，读者——被默认属于更高社会阶层——习惯上如何评判工人阶级的人，如体力劳动者与店主。她论证说：
+    step2: |-
+      这份担当带很重的阶级意识：读者被默认出身高些的阶层，习惯上怎样评判工人、店员这类劳动者，艾略特就要纠正这个。她论证道：
+  - id: 82
+    kind: body
+    source: |-
+      > the thing for mankind to know is, not what are the motives and influences which the moralist thinks *ought* to act on the laborer or the artisan, but what are the motives and influences which *do* act on him. We want to be taught to feel, not for the heroic artisan or the sentimental peasant, but for the peasant in all his coarse apathy, and the artisan in all his suspicious selfishness. (Eliot 1856b: 54–5)
+    step1: |-
+      > 人类该知道的事，不是道德家以为 *应当* 作用于劳动者或工匠的动机与影响，而是 *确实* 作用于他的动机与影响。我们要受教的，不是为英雄式的工匠或感伤的农夫而感，而是为那带着一身粗钝麻木的农夫而感，为那带着一身猜疑自私的工匠而感。（Eliot 1856b: 54–5）
+    step2: |-
+      > 人类该知道的是：什么动机与影响 *真在* 支配一个工人或手艺人，而不是道德家以为 *该* 支配他的那些。我们该学的，不是替英雄气的工人、感伤的农夫去感，而是替那粗钝麻木到底的农夫感，替那猜疑自私到底的工人感。（Eliot 1856b: 54–5）
+  - id: 83
+    kind: body
+    source: |-
+      Eliot claims that artists offer new knowledge, insofar as art extends the range of our perceptions—not least by channelling attention to phenomena that have been veiled by habit, or by self-centred preoccupations. In “The Natural History of German Life”, this aesthetic cognitivism is underpinned by an account of imaginative, associative thinking drawn from Part 2 of Spinoza’s *Ethics* (*Ethics* IIp18). Eliot observes how a certain word (her example is “railways”) evokes in the mind of an ordinary person a limited “range of images” representing that person’s particular experiential history, whereas in the mind of an expert the same word will evoke a much fuller knowledge, comprising “all the essential facts in the existence and relations of the thing” (Eliot 1856b: 51–2). She argues that such a complete knowledge of the working classes can be gained by studying “their natural history”, and can be articulated by artists as well as by theorists. The distinction between “narrow” and “wide” mental capacities recurs continually in Eliot’s novels, marking a moral as well as a cognitive divide. The “Natural History” essay qualifies this distinction by suggesting that wide views must be matched by wide “observation” that yields “concrete knowledge” of particulars (Eliot 1856b: 51–2, 56). Wide views alone are not just insufficient, but potentially pernicious. They may produce a character such as *Middlemarch*’s Mr Brooke, whose mental openness is mere vacuity, just as his tolerance amounts to little more than neglect of his moral responsibilities, not least for his poor tenants who live in squalid conditions (Carlisle 2020b)[^carlisle-2020b].
+    step1: |-
+      艾略特主张艺术家提供新知识，因为艺术扩展我们知觉的范围，尤其是把注意力引向被习惯、被自我中心的牵挂所遮蔽的现象。在《德意志生活的自然史》中，这种审美认知主义由一种取自斯宾诺莎《伦理学》第二部分的想象性、联想性思维说明所支撑（《伦理学》IIp18）。艾略特观察：某个词（她的例子是“铁路”）在一个普通人心里唤起的，是有限的“一串意象”，代表此人特定的经验史；而在一个专家心里，同一个词会唤起充实得多的知识，包括“该物存在与关系中的全部本质事实”（Eliot 1856b: 51–2）。她论证说，对工人阶级的这种完整知识，可以通过研究“他们的自然史”获得，并且能由艺术家表述，也能由理论家表述。“狭窄”与“宽广”心智能力的区分在艾略特的小说中不断出现，标示出一条既是道德、也是认知的分界。《自然史》一文对这区分加以限定，指出宽广的见识必须配上宽广的“观察”，从而产出关于个别事物的“具体知识”（Eliot 1856b: 51–2, 56）。光有宽广的见识不止不够，还可能有害。它们可能造出《米德尔马契》中布鲁克先生那样的人物：他的心胸开阔只是空洞，他的宽容也不过是疏于道德责任，尤其是对他那些住在肮脏环境里的穷佃户的责任（Carlisle 2020b）[^carlisle-2020b]。
+    step2: |-
+      艾略特说艺术家给人新知识，因为艺术拓宽我们知觉的范围，尤其把注意力引向被习惯、被自我中心的牵挂蒙住的现象。《德意志生活的自然史》里，这套审美认知论底下有一份关于想象、联想的说明，取自斯宾诺莎《伦理学》第二部分（《伦理学》IIp18）。艾略特看：一个词（她举“铁路”）在平常人心里唤起的是有限“一串意象”，代表此人自己那点经验史；同一个词在专家心里唤起的知识就丰满得多，含“该物之存在与关系中的全部本质事实”（Eliot 1856b: 51–2）。她说，要得关于工人阶级的完整知识，可以去研究“他们的自然史”；这样的知识艺术家讲得出，理论家也讲得出。“窄”与“宽”两种心智能力的分野在她小说里一再出现，划出一条既是道德、也是认知的界线。《自然史》一文给这条界线加了限定：宽的眼界必须配宽的“观察”，才能生出关于个别的“具体知识”（Eliot 1856b: 51–2, 56）。单有宽的眼界，不止不够，还可能坏事儿。它会造出《米德尔马契》里布鲁克先生那种人：心胸开阔，只是空；待人宽容，只是不管自己的道德责任，尤其不管他那些住在污糟处的穷佃户（Carlisle 2020b）[^carlisle-2020b]。
+  - id: 84
+    kind: body
+    source: |-
+      Like her realism, Eliot’s view of the purpose of art is self-complicating. Despite the strong cognitivist strand theorized in her critical writings and pursued in her fiction, Eliot also valued epistemic humility. She expressed the hope that her own art might instil this epistemic virtue.
+    step1: |-
+      与她的现实主义一样，艾略特关于艺术目的的看法也是自设难题式的。尽管她的批评文字中发展出强烈的认知主义倾向，她的小说也追求这一倾向，艾略特同时看重认知上的谦逊。她表示希望自己的艺术能培养这种认知德性。
+    step2: |-
+      同她的现实主义一样，艾略特关于艺术目的的看法也自设难题。她批评文章里有一套很强的认知主义，小说里也在追它；可她也看重认知上的谦卑，还说自己盼着艺术能养出这份德性。
+  - id: 85
+    kind: body
+    source: |-
+      > I only wish I could write something that would contribute to heighten men’s reverence before the secrets of each other’s souls, that there might be less assumption of entire knowingness, as a datum from which inferences are to be drawn
+    step1: |-
+      > 我只愿能写出点东西，使人对彼此灵魂中的秘密多几分敬畏，少几分自以为全都知道的想当然，那种被拿来当推论起点的想当然，
+    step2: |-
+      > 我只盼能写出点什么，让人对彼此灵魂里的秘密多几分敬畏，少几分自以为全都知道的想当然，那种被拿来当推论起点的想当然，
+  - id: 86
+    kind: body
+    source: |-
+      she wrote to a friend in 1859 (*Letters* 3: 164).
+    step1: |-
+      她1859年写信给一位友人说（*Letters* 3: 164）。
+    step2: |-
+      她1859年给一位友人写信时这样说（*Letters* 3: 164）。
+  - id: 87
+    kind: body
+    source: |-
+      ### 4.3 The artist
+    step1: |-
+      ### 4.3 The artist
+    step2: |-
+      ### 4.3 艺术家
+  - id: 88
+    kind: body
+    source: |-
+      The influence of Romanticism meant that the figure of the artist loomed large for Eliot. Her treatment of this figure exemplifies her dialectical, self-critical mode of thinking. She depicts the artist as productively hyper-sensitive, while exploring the pitfalls of this sensitivity.
+    step1: |-
+      浪漫主义的影响，使艺术家的形象在艾略特这里格外高大。她处理这一形象的方式，正体现了她辩证而自省的思考方式。她把艺术家描绘成富有生产力地过度敏感的人，同时探查这种敏感的陷阱。
+    step2: |-
+      浪漫主义的影响，使艺术家这个形象在艾略特眼中格外高大。她处理这形象，正显出她那种辩证而自省的思法：把艺术家写成过度敏感而因此多产的人，同时去探这份敏感里的坑。
+  - id: 89
+    kind: body
+    source: |-
+      > [E]very great artist is a teacher..., by giving us his higher sensibility as a medium, a delicate acoustic or optical instrument, bringing home to our coarser senses what would otherwise be unperceived,
+    step1: |-
+      > ［每一个］伟大的艺术家都是教师……他把更高的感受力当作媒介给我们，当作一件精微的声学或光学仪器，把我们粗钝的感官原本察觉不到的东西送到我们跟前，
+    step2: |-
+      > ［每一个］伟大的艺术家都是教师……他把更高的感受力借给我们作媒介，像一件精密的声学或光学器械，把我们粗钝的感官本察觉不到的东西送到眼前，
+  - id: 90
+    kind: body
+    source: |-
+      she declares in an essay on Goethe (1855d: 289). However, Eliot’s melodramatic story “The Lifted Veil” (1859) probes the darker side of this hyper-perceptive artist, parodied by its clairvoyant and “morbidly sensitive” (1859 [1878: 297]) protagonist, Latimer, who is depressed, misanthropic, and destined to a lonely death. This is partly a self-portrait: Eliot refers to “my morbid sensibility” in a letter written in the same year as “The Lifted Veil” (*Letters* 3: 164). In *Middlemarch*, Eliot’s narrator appears to defend a kind of saving ignorance as a counterpoint to the perils of hypersensitivity:
+    step1: |-
+      她在1855年一篇论歌德的文章中说（1855d: 289）。然而艾略特的煽情故事《揭开的面纱》（1859）探查的，正是这种过度敏感觉察者的阴暗面：故事由一位能透视、又“病态敏感”的主人公拉蒂默加以示范（1859 [1878: 297]），他抑郁、厌世，注定孤独地死去。这在一定程度上是一幅自画像：艾略特在同一年的信里提到“我病态的敏感”（*Letters* 3: 164）。在《米德尔马契》中，艾略特的叙述者似乎在为某种救命的无知辩护，以对冲过度敏感的危险：
+    step2: |-
+      她在1855年论歌德的一篇文章里这样说（1855d: 289）。可她那篇煽情的故事《揭开的面纱》（1859）偏去探这种过度敏锐的反面：主人公拉蒂默能看穿人心，“病态地敏感”（1859 [1878: 297]），抑郁、厌世，命定孤独而死。这多少是一幅自画像：同年一封信里，艾略特说到“我病态的敏感”（*Letters* 3: 164）。《米德尔马契》里，她的叙述者像是在替一种救命的无知说话，用以对冲过度敏锐的危险：
+  - id: 91
+    kind: body
+    source: |-
+      > If we had a keen vision and feeling of all ordinary human life, it would be like hearing the grass grow and the squirrel’s heart beat, and we should die of that roar which lies on the other side of silence. As it is, the quickest of us walk about well wadded with stupidity. (M I: 297–8)
+    step1: |-
+      > 假若我们对寻常人生有敏锐的视与感，那就像听见草在长、松鼠的心在跳，我们会死于那声躺在寂静另一侧的轰鸣。事实上，我们中最敏捷的人，走路时也都裹着厚厚的愚蠢。（M I: 297–8）
+    step2: |-
+      > 假若我们对平常的人生有那样锐的视、那样锐的感，就会像听见草在长、听见松鼠的心跳，我们要被寂静另一侧那声轰鸣震死。事实上，我们当中最敏捷的人，走路时也裹着一层厚厚的愚钝。（M I: 297–8）
+  - id: 92
+    kind: body
+    source: |-
+      Eliot treats the artist’s creative egoism with similar ambivalence. We have seen (4.1) how Eliot’s artist mediates reality in the mirror of their own subjectivity and experience. This is depicted as an act of generosity or of narcissism—or possibly both at once. When the narrator of *Adam Bede* expounds his theory of literary realism, he rejects the idealizing alternative, which would “refashion life and character entirely after my own liking”, thereby creating an “arbitrary picture” (AB I: 265). Eliot uses similar phrasing to describe young Maggie Tulliver, the partially autobiographical heroine of *The Mill on the Floss*, “refashioning her little world into just what she should like it to be” (MF I: 69). Maggie, an avid reader, feels that “the world outside books was not a happy one” (MF II: 80). Perhaps Eliot’s implicit comment here is that Maggie’s imagination is shaped by idealizing, romanticizing literature of the type she criticizes. Yet the characterization may also involve a self-critique. Despite her realist commitment to truthfully depicting averagely flawed human beings, the distinctive compassionate tone of Eliot’s narrative voice nevertheless refashions the world as she would like it to be. The literary world of Eliot’s fiction is infused with sympathy and acceptance; it is, in other words, a world as it appears in the eyes of an attentive, loving mother. James Sully aptly described Eliot’s trademark “attitude of a large maternal charity” and “mood of compassionate tenderness touched with playful indulgence” (Sully 1881: 391)[^sully-1881]. In this respect Eliot’s fictive world is markedly different from the real world that its author herself experienced—a world formed both by narrowly moralistic human judgements, and by the doctrines of divine judgement espoused by patriarchal religion.
+    step1: |-
+      艾略特对艺术家的创造性利己，也以类似的矛盾态度对待。我们已经看到（4.1），艾略特的艺术家在自身主观性与经验的镜中中介实在。这既可描绘为一种慷慨之举，也可描绘为自恋，或许两者兼有。当《亚当·比德》的叙述者阐发他的文学现实主义理论时，他拒绝了理想化的替代方案，那种方案会“完全按我自己的喜好重塑生活与性格”，从而造出“任意的图画”（AB I: 265）。艾略特用类似的措辞描写《弗洛斯河上的磨坊》那位部分自传性的女主人公、年轻的玛吉·塔利弗，“把她的小世界重塑成她正好喜欢的样子”（MF I: 69）。玛吉是个贪婪的读者，她觉得“书外的世界并不是一个快乐的世界”（MF II: 80）。艾略特在此隐含的评论或许是：玛吉的想象力，被她所批评的那类理想化、浪漫化的文学塑成了。然而这一人物刻画也可能含有自我批评。尽管她怀着现实主义者的承诺，要忠实地描绘有寻常缺陷的人，艾略特叙述声音那独特的怜悯语调，却仍把世界重塑成她所喜欢的样子。她小说的文学世界浸润着同情与接纳；换句话说，那是一个为关切、慈爱的母亲眼中所看到的世界。詹姆斯·萨利恰当地描述了艾略特标志性的“博大母性慈爱的态度”与“掺着戏谑宽纵的悲悯温柔的情绪”（Sully 1881: 391）[^sully-1881]。在这方面，艾略特的虚构世界与作者本人所经验到的真实世界判然有别——后者既由狭隘道德主义的人间评判塑成，也由父权宗教所主张的神圣审判教义塑成。
+    step2: |-
+      艾略特对艺术家的创造性利己，态度同样两可。上面（4.1）已见：她的艺术家在自身主观与经验的镜子里中介实在。这既可算慷慨，也可算自恋，说不定两者同时。《亚当·比德》的叙述者讲他的文学现实主义，先否掉理想化那条路，因为那要“完全照我自己的喜好重造生活与性格”，造出一幅“任意的图画”（AB I: 265）。艾略特用差不多的措辞写《弗洛斯河上的磨坊》里那个半自传性的女主人公、少女玛吉·塔利弗：“把她的小世界重造成她恰好喜欢的样子”（MF I: 69）。玛吉读书贪多，她觉得“书外头的世界不是个快活世界”（MF II: 80）。艾略特在此的暗评也许是：塑成玛吉想象的，正是她所批评的那类理想化、浪漫化的文学。但这刻画也可能含自我批评。她既有现实主义者的承诺，要忠实地写有寻常缺陷的人，可她那独特的怜惜语调，仍旧把世界重造成她喜欢的样子。她小说的文学世界浸着同情与接纳；换句话说，那是一个慈爱而留心的母亲眼里所见的世界。詹姆斯·萨利说得恰当：艾略特标志性的“博大母爱的态度”，“掺着戏谑宽容的悲悯温柔的情调”（Sully 1881: 391）[^sully-1881]。就这一点言，她虚构的世界同作者本人经验到的真实世界判然有别：那个真实世界，一半由狭隘道德主义的人间评判塑成，一半由父权宗教所主张的神圣审判教义塑成。
+  - id: 93
+    kind: body
+    source: |-
+      ## 5. Moral Philosophy
+    step1: |-
+      ## 5. Moral Philosophy
+    step2: |-
+      ## 5 道德哲学
+  - id: 94
+    kind: body
+    source: |-
+      Eliot’s fiction explores situations of moral conflict and dilemma. For example, should a wife leave an abusive and/or adulterous marriage (see “Janet’s Repentance” and *Romola*)? Eliot also depicts protagonists struggling to choose an overall ethical orientation: between passion and duty (*The Mill on the Floss*), or between conformity and rebellion (*Romola* again). Her treatment of these cases consistently emphasizes their complexity, resists formulaic solutions, and rejects the view that absolute and general moral principles can reliably guide moral judgements. “There is no master key that will fit all cases”, states the narrator of *The Mill on the Floss*. Moral judgements must therefore be “checked and enlightened by a perpetual reference to the special circumstances that mark the individual lot” (MF III: 264).
+    step1: |-
+      艾略特的小说探查道德冲突与困境的情境。例如，妻子该不该离开一段虐待性的和／或不忠的婚姻（见《珍妮特的悔悟》与《罗慕拉》）？艾略特也描绘主人公挣扎着选择一种总体的伦理取向：在激情与责任之间（《弗洛斯河上的磨坊》），或在顺从与反抗之间（又是《罗慕拉》）。她对这类情形的处理，一贯强调其复杂性，抵制公式化的解决办法，并拒斥那种认为绝对而普遍的道德原则能可靠地指导道德判断的看法。《弗洛斯河上的磨坊》的叙述者说：“没有一把能开所有锁的万能钥匙。”因此道德判断必须“参照标志个人命运的那些特殊情形，不断加以检验与启发”（MF III: 264）。
+    step2: |-
+      艾略特的小说探问道德冲突与两难的处境。比方说，妻子该不该离开一段施虐的、或者不忠的婚姻（见《珍妮特的悔悟》和《罗慕拉》）？她也写主人公挣扎着给整个伦理取一个方向：在激情与责任之间（《弗洛斯河上的磨坊》），在顺从与反抗之间（还是《罗慕拉》）。她处理这类情形，一贯强调其中的复杂，不肯给公式化的解法，也不信绝对而普遍的道德原则能可靠地指导判断。《弗洛斯河上的磨坊》的叙述者说：“没有一把万能钥匙能开所有的锁。”所以道德判断必须“不断参照标志各人命运的特殊情形，加以检验与开明”（MF III: 264）。
+  - id: 95
+    kind: body
+    source: |-
+      The ethical outlook dramatized in Eliot’s fiction is resolutely humanist and secular. In an early essay she echoes Spinoza and Feuerbach in rejecting the supernaturalist doctrinal framework underpinning Christian ethics:
+    step1: |-
+      艾略特小说中戏剧化的伦理观，是一贯的人文主义与世俗的。在一篇早期文章中，她呼应斯宾诺莎与费尔巴哈，拒斥支撑基督教伦理的超自然主义教义框架：
+    step2: |-
+      她小说里演出的伦理观，决然是人本的、世俗的。一篇早年文章里，她呼应斯宾诺莎与费尔巴哈，否掉支撑基督教伦理的那套超自然主义教义：
+  - id: 96
+    kind: body
+    source: |-
+      > I am just and honest, not because I expect to live in another world, but because, having felt the pain of injustice and dishonesty towards myself, I have a fellow-feeling with other men, who would suffer the same pain if I were unjust or dishonest towards them… I have a tender love for my wife, and children, and friends, and through that love I sympathize with like affections in other men. It is a pang to me to witness the suffering of a fellow-being, and I feel his suffering the more acutely because he is *mortal*—because his life is so short. (Eliot 1857: 18)
+    step1: |-
+      > 我公正诚实，不是因为我盼着活到另一个世界，而是因为我自己尝过不公正、不诚实加于我身的痛，于是对别人有同感，我若对他们不公正、不诚实，他们也会尝到同样的痛……我疼我的妻子、孩子、朋友，借着这份爱，我同情别人心中相类的感情。看见同类受苦，我心里一紧；而因为他 *会死*，因为他的一生那样短，我感受他的苦格外深切。（Eliot 1857: 18）
+    step2: |-
+      > 我公正、诚实，不是因为我盼望到另一个世界去活，而是因为我自己尝过不公与欺诈加在身上的痛，于是对别人生出同感：我若以不公、欺诈待人，他们也要尝同样的痛……我疼我的妻、我的孩子、我的朋友，借着这份疼爱，我对别人心里相类的感情也抱同情。看见同为人者受苦，我心里一紧；而因为他 *会死*，因为他的一生那样短，我感受他的苦就格外地深。（Eliot 1857: 18）
+  - id: 97
+    kind: body
+    source: |-
+      Eliot believed that Jesus’s teachings, documented in the New Testament, included “false views and expectations”, and she argued that Christianity’s “dualistic theory—the antithesis of God and the world”—fostered “an egotistic seeking for ‘salvation’” (*Letters* 8: 26–7).
+    step1: |-
+      艾略特相信，耶稣的教导（记录于《新约》之中）含有“虚假的看法与期待”，她还论证说，基督教的“二元论学说，即上帝与世界的对立”，滋生了“一种利己地寻求‘得救’”（*Letters* 8: 26–7）。
+    step2: |-
+      艾略特相信，载于《新约》的耶稣教导里含着“虚假的看法与期待”；她还论证说，基督教那套“二元论学说，也就是上帝与世界的对立”，养出“一种利己地求‘得救’”（*Letters* 8: 26–7）。
+  - id: 98
+    kind: body
+    source: |-
+      Eliot also criticizes moralism, both in life and in art. She frequently draws a normative contrast between “narrow” and “wide” views, signifying, respectively, excessively moralistic judgement and sympathetic tolerance. In a review of Goethe’s novel *Wilhelm Meister’s Apprenticeship*, she argues that “the line between the virtuous and vicious, so far from being a necessary safeguard to morality, is itself an immoral fiction” (Eliot 1855b: 703).
+    step1: |-
+      艾略特也批评道德主义，无论在生活里还是在艺术里。她常在“狭窄”与“宽广”两种看法之间划出规范性对照，前者指过度道德主义的评判，后者指同情的宽容。在评歌德小说《威廉·迈斯特的学习时代》的文章中，她论证说：“有德者与邪恶者之间的界线，远非道德的必需防线，它本身就是一桩不道德的虚构”（Eliot 1855b: 703）。
+    step2: |-
+      艾略特也批道德主义，生活里批，艺术里也批。她常在“窄”与“宽”两种看法之间划一道规范性的对比：前者是过分道德主义的评判，后者是同情的宽容。她评歌德小说《威廉·迈斯特的学习时代》，论证道：“善人与恶人之间的界线，远不是什么道德的必需防线，它本身就是一桩不道德的虚构”（Eliot 1855b: 703）。
+  - id: 99
+    kind: body
+    source: |-
+      ### 5.1 Meta-ethical theory
+    step1: |-
+      ### 5.1 Meta-ethical theory
+    step2: |-
+      ### 5.1 元伦理理论
+  - id: 100
+    kind: body
+    source: |-
+      Eliot’s moral particularism led James Sully to claim that “George Eliot gives us a life-like picture of the moral struggle, and not a theory of it” (Sully 1881: 391)[^sully-1881]. However, this claim is too hasty: it is possible to reconstruct several meta-ethical claims from Eliot’s fiction. To begin with, the insistence on “circumstances” in the passage quoted above from *The Mill on the Floss* highlights the moral significance of the concept of the milieu deployed in Eliot’s novels (see §3.2). Duty is another moral concept that structures her thinking, accompanied by the claim that particular duties must be determined with reference to each individual’s situation. Eliot’s sustained interest in the concepts of character and habit situates her moral thinking within the virtue ethics tradition (see §3.1). At times she espouses an exemplarist moral theory that foregrounds the concept of imitation; here we may detect the influence of Spinoza’s *Ethics* as well as more contemporary works such as Carlyle’s *Heroes* and Emerson’s *Representative Men* (see §3.4). Her interest in the concept of a character “type”, going back to Theophrastus’s *Characters*, suggests a meta-ethical view that fuses virtue theory and exemplarism.
+    step1: |-
+      艾略特的道德特殊主义使詹姆斯·萨利断言“乔治·艾略特给我们的是一幅道德斗争的逼真图画，而不是关于它的理论”（Sully 1881: 391）[^sully-1881]。然而这断言过于仓促：从艾略特的小说中可以重构出若干元伦理主张。首先，上文所引《弗洛斯河上的磨坊》那段对“情形”的坚持，凸显了艾略特小说中运用的环境概念的道德意义（见 §3.2）。责任是另一个组织她思想的道德概念，与之相伴的主张是：具体的责任必须参照每个人的处境来确定。艾略特对性格与习惯这两个概念的持久兴趣，把她的道德思考置于德性伦理学传统之中（见 §3.1）。她有时主张一种突显模仿概念的范例论道德理论；这里我们可以察觉到斯宾诺莎《伦理学》的影响，也可以察觉到卡莱尔《英雄》、爱默生《代表人物》这类更当代的著作的影响（见 §3.4）。她对“类型”性格这一概念的兴趣可回溯到特奥弗拉斯托斯的《人物志》，这暗示一种融合了德性论与范例论的元伦理看法。
+    step2: |-
+      艾略特的道德特殊主义使詹姆斯·萨利断言：“乔治·艾略特给我们的是一幅道德斗争的逼真图画，不是关于它的理论”（Sully 1881: 391）[^sully-1881]。这话说得太急：从她的小说里可以重构出好几条元伦理主张。首先，上文引《弗洛斯河上的磨坊》时强调的“情形”，正显出她小说里那个环境概念的道德分量（见 §3.2）。另一个撑起她思想的概念是责任，随之而来的主张是：具体的责任须参照各人的处境来定。她对性格与习惯这两个概念一直有兴趣，这把她放进德性伦理学传统（见 §3.1）。她有时又主张一种突出模仿的范例论道德理论；这里看得见斯宾诺莎《伦理学》的影响，也看得见卡莱尔《英雄》、爱默生《代表人物》这类较近著作的影响（见 §3.4）。她对“类型”性格的兴趣可追到特奥弗拉斯托斯的《人物志》，这暗示一种把德性论与范例论合起来的元伦理看法。
+  - id: 101
+    kind: body
+    source: |-
+      Eliot is explicitly critical of utilitarianism, particularly insofar as this approach depends on the calculation of consequences. One line of argument appeals to the nature of moral agents. Eliot suggests that moral motivation is largely emotional, and that the emotions are fundamentally unsuited to calculative thinking. As the narrator of “Janet’s Repentance” puts it, “emotion is obstinately irrational: it insists on caring for individuals; it absolutely refuses to adopt the quantitative view of human anguish” (SCL 253). A second line of argument, also advanced in this text, focuses on the nature of suffering. This, Eliot claims, cannot be quantified: “human pain refuses to be settled by equations” (SCL 254). Such direct statements are only part of Eliot’s argumentative strategy, which is also dramatic or performative. The statements just quoted, for example, are made in the course of a narrative that has already engaged readers’ emotions to make them care intensely about an individual character and her particular life story.
+    step1: |-
+      艾略特明确批评功利主义，尤其是当这一进路依赖后果的计算时。一条论证路线诉诸道德行动者的本性。艾略特认为，道德动机大体上是情感的，而情感根本不适于计算性的思考。如《珍妮特的悔悟》的叙述者所说，“情感固执地不讲理：它坚持要顾念个体；它断然拒绝采用对人类苦难的量的看法”（SCL 253）。第二条论证路线也在同一文本中提出，聚焦于苦难的本性。艾略特声称，苦难无法被量化：“人的痛苦拒绝由方程式来结算”（SCL 254）。这类直白的陈述只是艾略特论证策略的一部分，其策略同时也是戏剧性的、施行性的。例如，刚才引用的这些陈述，是在一段叙述进程中被说出的，而那段叙述已经调动起读者的情感，使他们强烈关心一个个体人物及其特殊的人生故事。
+    step2: |-
+      艾略特明批功利主义，尤其批它依赖后果的计算。第一条论证诉诸道德行动者的本性：她说道德动机大体上是情感的，而情感根本不适合算计。《珍妮特的悔悟》的叙述者说：“情感顽固地不讲理：它非要顾念一个个的人；它断然不肯采用对人类苦难的量的看法”（SCL 253）。第二条也在这篇里，落在苦难的本性上。艾略特说苦难没法量化：“人的痛苦不肯由方程式来结清”（SCL 254）。这类直白的话只是她论证策略的一半，另一半是戏剧性的、施行性的。比方刚才引的那几句，是在一段叙述里说出的，而那段叙述早已掀起读者的情感，叫他们死死关心一个人物和她的那一段人生。
+  - id: 102
+    kind: body
+    source: |-
+      A third line of argument against utilitarianism targets consequentialism as such. While Eliot’s novels tend to insist that people cannot escape the consequences of their own actions, they also emphasize the difficulty of predicting consequences in advance. This idea is developed but also qualified in *Impression of Theophrastus Such*, where Eliot’s narrator voices scepticism about a consequentialist ethical theory based on concepts of rational deliberation and free choice:
+    step1: |-
+      第三条反对功利主义的论证，针对的是后果论本身。艾略特的小说倾向于坚持人无法逃避自己行为的后果，同时也强调预先预测后果的困难。这一想法在《特奥弗拉斯托斯·萨奇印象》中得到发展，也受到限定：在那里，艾略特的叙述者对一种基于理性审议与自由选择概念的后果论伦理理论表示怀疑：
+    step2: |-
+      第三条论证对着后果论本身去。艾略特的小说常坚持人逃不开自己行为的后果，同时又说后果难在事先预料。《特奥弗拉斯托斯·萨奇印象》把这想法推进一步，也给它加了限定：书中叙述者对一种以理性审议和自由选择为基的后果论伦理理论表示怀疑：
+  - id: 103
+    kind: body
+    source: |-
+      > Few lives are shaped, few characters formed, by the contemplation of definite consequences seen from a distance and made the goal of continuous effort or the beacon of a constantly avoided danger: such control by foresight, such vivid picturing and practical logic are the distinction of exceptionally strong natures; but society is chiefly made up of human beings whose daily acts are all performed either in unreflecting obedience to custom and routine or from immediate promptings of thought or feeling to execute an immediate purpose. (ITS 90–91)
+    step1: |-
+      > 少有人的一生是被塑造的，少有人的性格是被形成的——靠的是从远处见到确定的后果，把它当作持续努力的目标，或当作时时避开的危险的信标：这种由预见而来的控制，这种生动的构想与实践的逻辑，是格外强健的天性的标志；而社会主要由这样的人构成：他们的日常行为，或是出于对习俗与常规的不加反思的服从，或是出于思想或情感的即时提示，去执行一个即时的目的。（ITS 90–91）
+    step2: |-
+      > 少有人的一生由这样的事塑成，少有人的性格由此形成：从远处看见确定的后果，把它当作持续用力追求的目标，或当作时时避开的危险信号。这种由预见而来的掌控，这种鲜活的构想与实践的逻辑，是格外强健天性的标记；可社会主要由这样的人组成：他们日常的事，或出于对习俗和常规不加思索的遵奉，或出于思想、情感的即时提示，去办一件眼前的事。（ITS 90–91）
+  - id: 104
+    kind: body
+    source: |-
+      Here Eliot’s use of terms such as “few” and “chiefly” illustrates her principled resistance to universalist statements.
+    step1: |-
+      这里艾略特对“少”与“主要”这类词的用法，表明她对普遍主义陈述的原则性抵制。
+    step2: |-
+      她在这里用“少”“主要”这类词，正显出她对普遍主义语句的原则性抵触。
+  - id: 105
+    kind: body
+    source: |-
+      In *Middlemarch* Eliot offers a somewhat different epistemic critique of consequentialism, by claiming that consequences are difficult or impossible to know not only in advance, but also in retrospect. *Middlemarch*’s narrator concludes the novel by observing, of its heroine, that “the effect of [Dorothea’s] being on those around her was incalculably diffusive” (M III: 465). This claim is not restricted to Dorothea; it is itself diffused over an indefinite range of “acts” which contribute to the overall “good of the world”. The meta-ethical proposal here is that since the “effects” of actions cannot be calculated, they cannot provide a basis for moral judgement.
+    step1: |-
+      在《米德尔马契》中，艾略特对后果论提出了一种略为不同的认识论批评，主张后果不仅难以或不可能预先知道，而且难以或不可能回顾地知道。《米德尔马契》的叙述者在收束全书时，这样评论它的女主人公：“［多萝西娅］的存在对周围人的作用是无可计量的弥散”（M III: 465）。这一断言并不限于多萝西娅；它本身就弥散在一个不确定范围的“行为”之上，这些行为贡献于整体的“世间之善”。此处的元伦理提议是：既然行为的“效果”无法计算，它们就不能成为道德判断的基础。
+    step2: |-
+      《米德尔马契》里，艾略特换了个路子，从认识论上批评后果论：后果不但事先难知或无从知，事后也难知或无从知。叙述者在收尾处评女主人公：“［多萝西娅］的存在对周围人的作用，弥散得不可计量”（M III: 465）。这话不限于多萝西娅：它本身就弥散在一个不确定范围的“行为”上，而那些行为汇入“世间之善”这个整体。这里的元伦理主张是：行为的“效果”既算不出来，就做不了道德判断的底子。
+  - id: 106
+    kind: body
+    source: |-
+      ### 5.2 Sympathy
+    step1: |-
+      ### 5.2 Sympathy
+    step2: |-
+      ### 5.2 同情
+  - id: 107
+    kind: body
+    source: |-
+      The concept of sympathy at the heart of Eliot’s moral philosophy is indebted to Feuerbach, whose *Essence of Christianity*—which Eliot translated in the early 1850s—made “suffering in common” a foundation for ethical life (Feuerbach 1854: 53; see Griffin 2017; Anger 2001 [2019])[^feuerbach-1854][^anger-2001][^griffin-2017]. In Eliot’s novels, sympathy is a cognitive and emotional achievement, rooted in natural human feelings that are in need of cultivation and correction. Sympathy provides an antidote to another prevailing human tendency: harsh moral judgements of others. The narrator of “Janet’s Repentance” praises “deep-sighted sympathy which is wiser than all blame, more potent than all reproof” (SCL 203). In *Middlemarch*, sympathy’s cognitive power is accentuated through a key scene of emotional crisis, where Dorothea finds that all her “vivid sympathetic experience returned to her now as a power”, illuminating her practical reason “as acquired knowledge asserts itself and will not let us see as we saw in the day of our ignorance” (M II: 321).
+    step1: |-
+      艾略特道德哲学核心的同情概念，受惠于费尔巴哈；他的《基督教的本质》——艾略特在十九世纪五十年代初译出——把“共同受苦”当作伦理生活的根基（Feuerbach 1854: 53；见 Griffin 2017; Anger 2001 [2019]）[^feuerbach-1854][^anger-2001][^griffin-2017]。在艾略特的小说里，同情是一项认知与情感的成就，植根于人性的自然情感，而这些情感需要培养与校正。同情提供了对另一种流行人性倾向的解药：对他人严厉的道德评判。《珍妮特的悔悟》的叙述者称赞“深察的同情，它比一切责备更明智，比一切斥责更有力”（SCL 203）。在《米德尔马契》中，同情的认知力量通过一场情感危机的关键场景得到凸显：多萝西娅发现，她全部“鲜活的同情经验如今作为一股力量回到她身上”，照亮了她的实践理性，“如同既得的知识自行主张，不让我们再照无知之日那样看”（M II: 321）。
+    step2: |-
+      艾略特道德哲学的核心是同情这个概念，它受惠于费尔巴哈。费尔巴哈的《基督教的本质》由她在五十年代初译出，书中把“共同受苦”立为伦理生活的根基（Feuerbach 1854: 53；见 Griffin 2017; Anger 2001 [2019]）[^feuerbach-1854][^anger-2001][^griffin-2017]。在艾略特的小说里，同情是认知上、情感上双重的成就，根在人性的自然情感里，而这情感需要养、需要校正。同情还解另一种常见的人性毛病：苛刻地评判别人。《珍妮特的悔悟》的叙述者赞“深察的同情，它比一切责备明智，比一切斥责有力”（SCL 203）。《米德尔马契》里，同情的认知之力在一场情感危机中格外显出来：多萝西娅发觉，她全部“鲜活的同情经验如今回到身上，成了一种力”，照亮了她的实践理性，“就像既得的知识自己主张起来，不叫我们再照无知那日的样子看”（M II: 321）。
+  - id: 108
+    kind: body
+    source: |-
+      Like Spinoza and Hegel, Feuerbach set out an account of human relations that emphasizes both interdependence and difference:
+    step1: |-
+      费尔巴哈与斯宾诺莎、黑格尔一样，提出了一套强调相互依赖与差异两面的关于人际关系的说明：
+    step2: |-
+      费尔巴哈同斯宾诺莎、黑格尔一样，讲出一套人际关系之说，相互依赖与差异两面都顾到：
+  - id: 109
+    kind: body
+    source: |-
+      > we two cannot be without each other…only community constitutes humanity… between me and another human being there is an essential, qualitative distinction. (Feuerbach 1850: 158–9)
+    step1: |-
+      > 我们两人不能没有彼此……唯有共同体构成人性……在我与另一个人类存在者之间，有一种本质性的、质上的区别。（Feuerbach 1850: 158–9）
+    step2: |-
+      > 我与你二人不能没有彼此……唯有共同体才构成人性……在我与另一个人类存在者之间，有一种本质的、质的区别。（Feuerbach 1850: 158–9）
+  - id: 110
+    kind: body
+    source: |-
+      For Eliot, similarly, sympathy involves both commonality and otherness (Ermarth 1985)[^ermarth-1985]. Scholars have debated whether Eliot shifted her emphasis from commonality to difference over the course of her literary career, or maintained a more dialectical view of these two concepts throughout her work (Hollander 2013: 62–87; Albrecht 2020)[^albrecht-2020][^hollander-2013]. Either way, Eliot is certainly attentive to the limits of sympathy, and to its limited efficacy. *Middlemarch*’s Dorothea Brooke naively “expected to walk in full communion” with her husband (M II: 3), and finds herself unable to do so. In *The Mill on the Floss* Maggie Tulliver tells her brother Tom that
+    step1: |-
+      对艾略特来说同样，同情既包含共通性，也包含他异性（Ermarth 1985）[^ermarth-1985]。学者们争论：艾略特在文学生涯中是否把重心从共通性移到了差异，还是她在全部作品中一直对这两个概念持一种更辩证的看法（Hollander 2013: 62–87; Albrecht 2020）[^albrecht-2020][^hollander-2013]。无论哪种，艾略特必定留意同情的限度，以及它有限的效力。《米德尔马契》的多萝西娅·布鲁克天真地“盼望与丈夫同行在完全的相通之中”（M II: 3），却发现自己做不到。在《弗洛斯河上的磨坊》中，玛吉·塔利弗对兄弟汤姆说：
+    step2: |-
+      在艾略特这里也一样：同情里既有相通，也有他者的异（Ermarth 1985）[^ermarth-1985]。学者们争的是：艾略特在写作生涯中是否把重心从相通挪到了差异，还是她终其一生对这两个概念都持一种更辩证的看法（Hollander 2013: 62–87; Albrecht 2020）[^albrecht-2020][^hollander-2013]。不管哪种，她对同情的限度、对它有限的作用，总是留心的。《米德尔马契》的多萝西娅·布鲁克天真地“指望同丈夫走在完全的相通里”（M II: 3），结果做不到。《弗洛斯河上的磨坊》里，玛吉·塔利弗对哥哥汤姆说：
+  - id: 111
+    kind: body
+    source: |-
+      > You can’t quite judge for me—our natures are very different. You don’t know how differently things affect me from what they do you. (MF III: 59)
+    step1: |-
+      > 你不能完全替我判断——我们的本性很不一样。你不知道事情对我的作用，与对你的作用差多少。（MF III: 59）
+    step2: |-
+      > 你不能完全替我判断，我们的天性差得太远。同一件事在我身上生什么效，在你身上又生什么效，你并不知道。（MF III: 59）
+  - id: 112
+    kind: body
+    source: |-
+      Eliot, a famously consoling writer, can be sceptical about consolation.
+    step1: |-
+      艾略特是出了名的给人安慰的作家，却也可以对安慰抱怀疑。
+    step2: |-
+      艾略特是出了名会安慰人的作家，可她对安慰也能存疑。
+  - id: 113
+    kind: body
+    source: |-
+      > We are all islands…and this seclusion is sometimes the most intensely felt at the very moment your friend is caressing you or consoling you,
+    step1: |-
+      > 我们都是岛屿……而这种隔绝，有时恰恰在最强烈地感到的时候，正是你的朋友抚慰你、安慰你的时候，
+    step2: |-
+      > 我们都是一座座岛……而这种隔离，有时偏偏在你朋友抚着你、安慰你的时候，感得最深，
+  - id: 114
+    kind: body
+    source: |-
+      she wrote to a friend in 1854, a few weeks after completing her translation of Feuerbach (Eliot to Cara Bray, 19 May 1854; *Letters* 2: 156).
+    step1: |-
+      她1854年写信给一位友人说，那是她完成费尔巴哈译本之后几周（艾略特致卡拉·布雷，1854年5月19日；*Letters* 2: 156）。
+    step2: |-
+      她1854年给一位友人写信这么说，彼时她译完费尔巴哈不过几周（艾略特致卡拉·布雷，1854年5月19日；*Letters* 2: 156）。
+  - id: 115
+    kind: body
+    source: |-
+      The obstacles to sympathy are the obstacles to moral growth. Chief among them is egotism (see §3.3). Yet there are other, more aesthetic obstacles, such as snobbery and xenophobia. In an early essay Eliot denounces “the vulgarity of exclusiveness” (Eliot 1856b: 54) and her novels depict both social and aesthetic snobbery; she is not above exploring the difficulty of feeling common humanity with someone who is unattractive, overweight, or poorly dressed. “It is needful that I should have a fibre of sympathy connecting me with that vulgar citizen who weighs out my sugar in a vilely-assorted cravat and waistcoat” remarks the narrator of *Adam Bede* (AB I: 271). Insofar as the moral problem is aesthetic, so the remedy is aesthetic: Eliot’s novels dramatize a sympathetic way of “seeing”, or of paying attention. *Adam Bede*, for example, depicts unattractive people who are indeed loved, and therefore lovable.
+    step1: |-
+      同情的障碍就是道德成长的障碍。其中首要的是利己（见 §3.3）。然而还有别的、更偏审美的障碍，例如势利与仇外。在一篇早期文章中，艾略特斥责“排外的粗俗”（Eliot 1856b: 54）；她的小说既写社会的势利，也写审美的势利；她并不回避探查这件事的难处：对一个不漂亮、过胖或穿得寒酸的人，生出共同的人性之感。“我需要有一根同情的纤维，把我和那位粗俗的公民连起来，他用一条搭配得难看的领巾和马甲给我称糖”，《亚当·比德》的叙述者如是说（AB I: 271）。既然这道德问题是审美的，补救也就是审美的：艾略特的小说把一种同情的“看”法、一种留意的态度戏剧化。《亚当·比德》就描绘了不讨人喜欢的人确实被爱着，因而可爱。
+    step2: |-
+      同情的拦路石，也就是道德成长的拦路石。头一块是利己（见 §3.3）。此外还有更偏审美的障碍，比如势利、仇外。一篇早年文章里，艾略特斥“排他的俗气”（Eliot 1856b: 54）；她的小说既写社会上的势利，也写审美上的势利；她也不避讳去探这一层难处：对一个不好看、太胖、衣裳寒碜的人，怎么生出同为人一份子的感觉。“我需要有一根同情的纤维，把我和那位俗气的公民连上，他拿一条配得难看的领巾、一件马甲，给我称糖”，《亚当·比德》的叙述者说（AB I: 271）。道德问题既然是审美的，药方也是审美的：艾略特的小说把一种同情的“看”、一种留意的态度演出来。《亚当·比德》里那些不讨喜的人，确实被爱着，因此也可爱。
+  - id: 116
+    kind: body
+    source: |-
+      > Yes! thank God [exclaims the narrator], human feeling [i.e., love] is like the mighty rivers that bless the earth: it does not wait for beauty—it flows with resistless force and brings beauty with it. (AB I: 269)
+    step1: |-
+      > 是啊！赞美上帝［叙述者叹道］，人的感情［即爱］就像那哺育大地的巨川：它不等着美——它不可阻挡地流去，并把美一起带来。（AB I: 269）
+    step2: |-
+      > 是啊！感谢上帝［叙述者叹道］，人的感情［也就是爱］就像那滋养大地的巨川：它不等着美——它不可阻挡地流过去，把美一同带来。（AB I: 269）
+  - id: 117
+    kind: body
+    source: |-
+      This is precisely what the compassionate gaze of Eliot’s narrators attempts to do for her widely assorted characters, who possess various mixtures of physical and moral flaws.
+    step1: |-
+      这正是艾略特叙述者那同情的目光，试图为她笔下各种各样的人物所做的事；这些人物带着身体与道德上的种种缺陷的混合。
+    step2: |-
+      艾略特叙述者那同情的一瞥，正是想替她笔下形形色色的人物做这件事；这些人身上，身体与道德上的缺陷各样掺着。
+  - id: 118
+    kind: body
+    source: |-
+      The ideals of feeling-with, thinking-with, and seeing-with embedded in Eliot’s concept of sympathy are integral to the practice of intellectual companionship she undertakes as a philosopher and artist (see §2). Rational argument is considered a reliable philosophical tool insofar as reason is communicable and universal (or, more modestly, commands broad regional consensus). The affects have an equivalent claim to communicability and commonality (see §3.5) only if the “feeling” element within emotional intelligence and intuitive understanding carries a comparably compelling force. The communicative success of Eliot’s novels constitutes her primary argument in favour of this view.
+    step1: |-
+      艾略特同情概念中嵌着的“一同感受、一同思考、一同看见”这几种理想，是她作为哲学家与艺术家所从事的智识相伴实践的内在部分（见 §2）。理性论证被视为可靠的哲学工具，只要理性是可交流的、普遍的（或较谦逊地说，能取得广泛的地区性共识）。情感若要同样具有可交流性与共同性（见 §3.5），唯有当情感智能与直觉理解中的“感受”要素带有同等有力的分量。艾略特小说在交流上的成功，就是她支持这一看法的首要论证。
+    step2: |-
+      艾略特同情概念里嵌着“一同感受、一同思考、一同看见”这几样理想，它们是她做哲学家、做艺术家时所实践的智识相伴的一部分（见 §2）。理性论证被看作可靠的哲学工具，理由是理性可交流、是普遍的（说得谦逊些，能取得广泛的地区共识）。情感也有资格讲可交流性与共同性（见 §3.5），条件是情感智能与直觉理解里的“感受”要素有同样有说服力的力量。艾略特的小说在交流上成功，就是她支持这一看法的头一条论证。
+  - id: 119
+    kind: body
+    source: |-
+      ### 5.3 Social ethics
+    step1: |-
+      ### 5.3 Social ethics
+    step2: |-
+      ### 5.3 社会伦理
+  - id: 120
+    kind: body
+    source: |-
+      While Eliot’s writings frequently reference political events and issues, her approach to such matters is more moral than political. Broadly speaking, she maintained a hope for both individual and collective moral progress. Politically, she favoured gradual and moderate reform, rather than revolution, because she believed that continuity with the past is the essence of culture. From *Felix Holt: The Radical* onwards, her thinking about the role of art within the national political arena engaged closely with Mill’s “On Representative Government” and Matthew Arnold’s *Culture and Anarchy* (Gallagher 1985: 217–267)[^gallagher-1985]. Her consideration of these questions is characteristically attuned to ambiguity.
+    step1: |-
+      艾略特的写作虽常涉及政治事件与议题，她对这类事情的态度却更偏道德而非政治。宽泛地说，她对个人与集体的道德进步都抱有希望。政治上，她倾向于渐进、温和的改革，而不是革命，因为她相信与过去的连续性才是文化的本质。从《费利克斯·霍尔特：激进派》起，她关于艺术在民族政治场域中作用的思考，便与密尔的《论代议制政府》和阿诺德的《文化与无政府状态》密切交涉（Gallagher 1985: 217–267）[^gallagher-1985]。她对这些问题的考虑，一贯对含混之处保持敏感。
+    step2: |-
+      艾略特写的东西虽常涉及政治事件与议题，她待这类事的态度更偏道德，不偏政治。宽泛地说，她对个人和集体的道德进步都存着希望。政治上她倾向渐进、温和的改革，不倾向革命，因为她信文化之本质在于同过去的连续。从《费利克斯·霍尔特：激进派》起，她思考艺术在民族政治场里的作用，就紧贴着密尔《论代议制政府》与阿诺德《文化与无政府状态》（Gallagher 1985: 217–267）[^gallagher-1985]。她考虑这些问题，一向对含混处敏感。
+  - id: 121
+    kind: body
+    source: |-
+      Eliot’s art engages in intensive yet subtle ways with what Victorians called “the Woman Question”. She returns repeatedly to the question of female vocation; several of her female characters struggle to find intellectual or artistic fulfilment. Marriage is explored in all her novels, especially but not exclusively from a female point of view. In keeping with her moral particularism, Eliot considers broadly moral benefits and harms within a series of particular marriages. She gives close attention to marital violence and coercive control: variations on this theme appear in “Janet’s Repentance”, “The Lifted Veil”, *Romola*, *Middlemarch*, and *Daniel Deronda*. Her analysis of two unhappy marriages in *Middlemarch* mirrors Hegel’s account of the master-slave dialectic in *The Phenomenology of Spirit*, which Eliot studied while writing the novel. Drawing on the Hegelian theme of recognition, Eliot’s depiction of the Casaubons and the Lydgates explores how a partnership can be mutually destructive: all these partners misrecognize one another, because they imagine their prospective spouse according to their own desires (Armstrong 2020; Carlisle 2023: 190–98)[^armstrong-2020][^carlisle-2023]. Eliot’s most radically feminist critique of marriage occurs in *Daniel Deronda*, where the heroine, feeling compelled to marry for money, enters an abusive marriage portrayed as *de facto* prostitution, with disastrous psychological consequences.
+    step1: |-
+      艾略特的艺术以深入而微妙的方式与维多利亚人所谓“妇女问题”相交涉。她一再回到女性天命的问题；她笔下好几位女性人物挣扎着寻求智识或艺术上的成全。婚姻在她全部小说中都得到探查，尤其是、但并非只是从女性视角出发。与她的道德特殊主义相合，艾略特在一系列具体婚姻中考察宽泛意义上的道德得失。她对婚姻中的暴力与强制控制给予细致关注：“珍妮特的悔悟”、《揭开的面纱》、《罗慕拉》、《米德尔马契》、《丹尼尔·德隆达》中都出现这一主题的变体。她对《米德尔马契》中两桩不幸婚姻的分析，映照黑格尔《精神现象学》中主奴辩证法的说明，那部书是她在写这部小说期间研读的。艾略特借用黑格尔的承认主题，对卡苏朋家与利德盖特家的描绘探查了一段伴侣关系如何可能互相毁灭：这些伴侣全都彼此误认，因为他们按自己的欲望去想象未来的配偶（Armstrong 2020; Carlisle 2023: 190–98）[^armstrong-2020][^carlisle-2023]。艾略特对婚姻最具激进女性主义色彩的批评出现在《丹尼尔·德隆达》中：女主人公觉得不得不为钱而嫁，进入一段被描绘为实质上的卖淫的虐待性婚姻，后果在心理上是灾难性的。
+    step2: |-
+      艾略特的艺术同维多利亚人所谓的“妇女问题”打交道，方式既密集又细微。她一再回到女性的天命上；她笔下好几位女性人物都为求智识或艺术上的成全而挣扎。婚姻在她全部小说里都被探查，尤其从女性的角度看，但不限于此。同她的道德特殊主义相合，她在一桩桩具体的婚姻里考量宽泛意义上的道德得失。婚姻中的暴力与强制控制，她看得细：《珍妮特的悔悟》《揭开的面纱》《罗慕拉》《米德尔马契》《丹尼尔·德隆达》，都出现这一主题的变体。她分析《米德尔马契》里两桩不幸的婚姻，恰好映着黑格尔《精神现象学》的主奴辩证法，那书是她在写这部小说时读的。艾略特借黑格尔的承认主题，写卡苏朋家与利德盖特家，探一段伴侣关系怎样能彼此毁掉：这几对全都彼此误认，因为他们照自己的欲望去想象未来的配偶（Armstrong 2020; Carlisle 2023: 190–98）[^armstrong-2020][^carlisle-2023]。她对婚姻最激进的女性主义批评在《丹尼尔·德隆达》：女主人公觉得不得不为钱出嫁，进了一段被写成实质卖淫的虐待性婚姻，心理上的后果是灾难性的。
+  - id: 122
+    kind: body
+    source: |-
+      Eliot was cautiously supportive of widening women’s access to higher education. In 1869 her friends Barbara Bodichon and Emily Davies founded Cambridge’s first women’s college, to which Eliot—who was by then wealthy as a consequence of her bestselling novels—donated a relatively modest £50. Her writing is more emphatic in highlighting the paucity of women’s education and considering its diverse effects on different female characters. *Middlemarch*’s Rosamond Vincy, whose shallow education does nothing to reform her vain, self-centred character, exemplifies Mary Wollstonecraft’s ingenious argument that giving women equal access to education will be beneficial to men. In a brief essay on Wollstonecraft’s *The Vindication of the Rights of Women* (1792), Eliot endorses the view that “so far as obstinacy is concerned, your unreasoning animal is the most unmanageable of creatures”: in other words, an “unreasoning” wife will be troublesome to her husband (Eliot 1855c: 988–9; Carlisle 2023: 196–7)[^carlisle-2023]. The plot of *Middlemarch* exposes Dr Lydgate’s error in fearing intellectual women, since Rosamond, his wife, turns out to be a far more formidable adversary.
+    step1: |-
+      艾略特对扩大女性接受高等教育的机会持谨慎的支持态度。1869年，她的友人芭芭拉·博迪雄与埃米莉·戴维斯创办剑桥第一所女子学院，艾略特——其时因畅销小说而富有——捐了相对微薄的五十英镑。她的文字在凸显女性教育的贫乏、并考量这对不同女性人物的多样影响方面，态度要明确得多。《米德尔马契》的罗莎蒙德·文西受的教育浅薄，对她的虚荣与自我中心毫无矫正之功，恰好印证了玛丽·沃斯通克拉夫特那巧妙的论证：让女性平等地受教育，对男人也有好处。在一篇评沃斯通克拉夫特《女权辩护》（1792）的短文中，艾略特赞同这一看法：“就固执而言，你那不讲理的畜生是最难对付的造物”：换句话说，一个“不讲理”的妻子会给丈夫添麻烦（Eliot 1855c: 988–9; Carlisle 2023: 196–7）[^carlisle-2023]。《米德尔马契》的情节揭出利德盖特医生害怕有智识的女人的错误，因为他的妻子罗莎蒙德原来是个难对付得多的对手。
+    step2: |-
+      对扩大女性受高等教育的机会，艾略特谨慎地支持。1869年她的友人芭芭拉·博迪雄与埃米莉·戴维斯创办剑桥第一所女子学院，她那会儿已因畅销小说而有钱，却只捐了五十英镑，数目不大。她的文字在另一处要明白得多：点出女性教育的贫乏，考量这对不同女性人物的各样影响。《米德尔马契》的罗莎蒙德·文西受的教浅，对她那份虚荣和自我中心半点矫正之力也没有，恰印证了玛丽·沃斯通克拉夫特那个巧妙的论证：让女性同等地受教育，对男人也有好处。艾略特有一篇短文评沃斯通克拉夫特《女权辩护》（1792），赞同这话：“说到固执，你那不讲理的畜生是最难摆弄的造物”；换句话说，一个“不讲理”的妻子叫丈夫吃苦头（Eliot 1855c: 988–9; Carlisle 2023: 196–7）[^carlisle-2023]。《米德尔马契》的情节揭出利德盖特医生的错处：他怕有智识的女人，可他妻子罗莎蒙德恰恰是个可怕得多的对手。
+  - id: 123
+    kind: body
+    source: |-
+      In her late works *Daniel Deronda* and *Impressions of Theophrastus Such*, Eliot gives sustained attention to race and nationality. Both texts examine antisemitism, and advocate for a Jewish state (Anderson 1997)[^anderson-1997]. Less overtly, *Daniel Deronda* puts forward a moral critique of the British Empire, personified by the coercive cruelty of “white-handed” aristocrat Henleigh Grandcourt, and highlights the Church of England’s complicity in colonial and patriarchal violence via its depiction of a hypocritical clergyman, Henry Gascoigne (DD III: 74; Henry 2001 [2019]; Carlisle 2023: 221)[^carlisle-2023][^henry-2001]. In a letter to the American abolitionist Harriet Beecher Stowe, written shortly after the publication of *Daniel Deronda*, Eliot extends its critique of antisemitism to other forms of racism:
+    step1: |-
+      在晚期作品《丹尼尔·德隆达》与《特奥弗拉斯托斯·萨奇印象》中，艾略特持续关注种族与民族。两部文本都考察反犹主义，并主张建立一个犹太国家（Anderson 1997）[^anderson-1997]。较不显明地，《丹尼尔·德隆达》对不列颠帝国提出道德批评，其人格化体现在“白手”贵族亨利·格兰德库特的强制残酷上，并借一个虚伪的教士亨利·加斯科因的刻画，凸显英格兰教会在殖民暴力与父权暴力中的共谋（DD III: 74; Henry 2001 [2019]; Carlisle 2023: 221）[^carlisle-2023][^henry-2001]。在《丹尼尔·德隆达》出版后不久写给美国废奴主义者哈丽雅特·比彻·斯托的一封信中，艾略特把它对反犹主义的批评推及其他形式的种族主义：
+    step2: |-
+      晚期作品《丹尼尔·德隆达》和《特奥弗拉斯托斯·萨奇印象》里，艾略特持久盯住种族与民族。两部书都考察反犹主义，都主张要有一个犹太人的国家（Anderson 1997）[^anderson-1997]。不那么显眼的是，《丹尼尔·德隆达》还对不列颠帝国提出道德批评：它把帝国的强制与残酷放到一位“白手”贵族亨利·格兰德库特身上，又借一个虚伪的教士亨利·加斯科因，点出英格兰教会在殖民暴力、父权暴力里的共谋（DD III: 74; Henry 2001 [2019]; Carlisle 2023: 221）[^carlisle-2023][^henry-2001]。《丹尼尔·德隆达》出版不久，艾略特写信给美国废奴主义者哈丽雅特·比彻·斯托，把书里对反犹的批评推到别的种族主义上去：
+  - id: 124
+    kind: body
+    source: |-
+      > not only towards the Jews, but towards all oriental peoples with whom we English come into contact, a spirit of arrogance and contemptuous dictatorialness is observable which has become a national disgrace. There is nothing I should care more to do, if it were possible, than to rouse the imagination of men and women to a vision of human claims in those races of their fellow-men who most differ from them in their customs and beliefs. (*Letters* 6: 301)
+    step1: |-
+      > 不仅对犹太人，而且对我们英国人接触到的一切东方民族，都可以看到一种傲慢与轻蔑的独断精神，这已成国耻。若有可能，我最想做的一件事，就是唤起男男女女的想象，让他们看见那些在习俗与信仰上与自己差别最大的同类人有何主张。（*Letters* 6: 301）
+    step2: |-
+      > 不只是对犹太人，对我们英国人接触到的一切东方民族，都看得见一种傲慢与轻蔑的独断，这已是国耻。倘若可能，我最想做的事，莫过于唤醒男男女女的想象，叫他们看见那些在习俗信仰上与自己相去最远的同类，也有他们的主张。（*Letters* 6: 301）
+  - id: 125
+    kind: body
+    source: |-
+      Theophrastus Such, an Englishman, states directly that “we are a colonizing people, and it is we who have punished others” (ITS 264; Henry 2001 [2019])[^henry-2001].
+    step1: |-
+      特奥弗拉斯托斯·萨奇是个英国人，他直截了当地说：“我们是个殖民的民族，惩罚别人的正是我们”（ITS 264; Henry 2001 [2019]）[^henry-2001]。
+    step2: |-
+      特奥弗拉斯托斯·萨奇是个英国人，他直说：“我们是个殖民的民族，受我们惩罚的是别人”（ITS 264; Henry 2001 [2019]）[^henry-2001]。
+  - id: 126
+    kind: body
+    source: |-
+      ## 6. Influence
+    step1: |-
+      ## 6. Influence
+    step2: |-
+      ## 6 影响
+  - id: 127
+    kind: body
+    source: |-
+      At the end of *Middlemarch*, Eliot’s narrator remarks that its heroine’s influence on others has been “incalculably diffusive”. Although George Eliot, already during her lifetime a celebrated novelist whose works inspired reverence as well as critical acclaim, was very different from the obscure, “unhistoric” Dorothea Brooke, this remark does apply in one sense to Eliot herself. Her novels, in English and in translation, have been and continue to be very widely read (and re-read) by ordinary people, including schoolchildren. Few other philosophers are so diffusively influential as George Eliot.
+    step1: |-
+      《米德尔马契》结尾，艾略特的叙述者评论说，女主人公对他人的影响一直是“无可计量的弥散”。乔治·艾略特生前已是著名小说家，作品既引发敬仰，也得到批评界的好评，她与无名、“无史可载”的多萝西娅·布鲁克大不相同；然而这句话在某种意义上也适用于艾略特本人。她的小说，无论英文原著还是译本，一直并将继续被普通人广泛阅读（并重读），包括学童。很少有别的哲学家像乔治·艾略特这样具有弥散性的影响。
+    step2: |-
+      《米德尔马契》收尾时，叙述者说女主人公对别人的影响“弥散得不可计量”。乔治·艾略特生前就是享有盛名的小说家，作品既招人敬仰，也得好评；她与那个无名、“不留史迹”的多萝西娅·布鲁克大不一样。可这句话在某层意思上也适用于她自己。她的小说，英文的也好，译本的也好，一直为平常人所读（并重读），包括学童在内，往后也还会如此。难得有别的哲学家像乔治·艾略特这样，影响弥散得这么远。
+  - id: 128
+    kind: body
+    source: |-
+      It perhaps goes without saying that a nineteenth-century woman who pursued her philosophical work in the medium of fiction was taken less seriously, as a philosopher, than contemporaries such as J. S. Mill and Herbert Spencer. Nevertheless, Nietzsche took George Eliot seriously enough to deem her worthy of insult. In *Twilight of the Idols* he treats Eliot (a “little moral female”) as the prime example of English “moralists” who reject Christian belief only to cling more tightly to Christian morality (Nietzsche 1889: *Streifzüge eines Unzeitgemässen* §5 [2005: 193])[^nietzsche-1889]. Here Nietzsche displays his ignorance of the sophistication and complexity of Eliot’s moral thinking; his own naturalistic, physiological ethics were indebted to an English philosophical tradition that Eliot, along with Spencer and Lewes, helped to shape (see Staten 2014: 1–9)[^staten-2014]. In the 1870s and 80s Sigmund Freud read and admired *Middlemarch* and *Daniel Deronda*, and may have been influenced by Eliot’s study of the effects of “suppressed experience” (DD II: 120) on psychological and emotional development, as well as by her subtle explorations of female experience in particular (see Jones 1953: 131, 168, 174; Rotenberg 1999)[^jones-1953][^rotenberg-1999]. As a consequence of her abusive marriage, the heroine of *Daniel Deronda* displays symptoms of nervous disorders, such as hysteria and anorexia nervosa, that were receiving scientific attention at that time (Vrettos 1990; Matus 2008; Carlisle 2023: 221–2, 342–3)[^carlisle-2023][^matus-2008][^vrettos-1990].
+    step1: |-
+      也许不必说：一位以小说为媒介从事哲学工作的十九世纪女性，作为哲学家，得到的重视不如 J. S. 密尔、赫伯特·斯宾塞这类同时代人。尽管如此，尼采对乔治·艾略特足够重视，认为她值得一骂。在《偶像的黄昏》中，他把艾略特（一个“道德上的小女人”）当作英国“道德家”的首要例子：这些人否弃基督教信仰，只为更紧地攀住基督教道德（Nietzsche 1889: *Streifzüge eines Unzeitgemässen* §5 [2005: 193]）[^nietzsche-1889]。这里尼采显出他对艾略特道德思考之精微与复杂的无知；他自己那种自然主义的、生理学的伦理学，其实受惠于一个英国哲学传统，而这个传统是艾略特同斯宾塞、刘易斯一道帮助塑成的（见 Staten 2014: 1–9）[^staten-2014]。十九世纪七十与八十年代，西格蒙德·弗洛伊德读过并欣赏《米德尔马契》与《丹尼尔·德隆达》，可能受过艾略特关于“被压抑的经验”（DD II: 120）对心理与情感发展之作用的研究的影响，也受过她对女性经验的微妙探查的影响（见 Jones 1953: 131, 168, 174; Rotenberg 1999）[^jones-1953][^rotenberg-1999]。由于那段虐待性的婚姻，《丹尼尔·德隆达》的女主人公表现出当时正受到科学注意的神经疾患症状，如癔症与神经性厌食（Vrettos 1990; Matus 2008; Carlisle 2023: 221–2, 342–3）[^carlisle-2023][^matus-2008][^vrettos-1990]。
+    step2: |-
+      不必说，一个以小说为媒介做哲学的十九世纪女性，作为哲学家，受到重视远不如 J. S. 密尔、赫伯特·斯宾塞这类同时代人。尽管如此，尼采对乔治·艾略特足够重视，认为她配得上一顿骂。《偶像的黄昏》里，他把艾略特（一个“道德上的小女人”）当作英国“道德家”的首要例子：这帮人否掉基督教信仰，只为更紧地攥住基督教道德（Nietzsche 1889: *Streifzüge eines Unzeitgemässen* §5 [2005: 193]）[^nietzsche-1889]。这里尼采显出他对艾略特道德思考的精微与复杂一无所知；他自己那套自然主义的、生理学的伦理学，反倒是受惠于一个英国哲学传统，而那传统是艾略特同斯宾塞、刘易斯一道帮着塑成的（见 Staten 2014: 1–9）[^staten-2014]。七十与八十年代，西格蒙德·弗洛伊德读过并欣赏《米德尔马契》和《丹尼尔·德隆达》，也许受过她关于“被压抑的经验”（DD II: 120）如何作用于心理与情感发展的研究影响，也受过她对女性经验的细微探查影响（见 Jones 1953: 131, 168, 174; Rotenberg 1999）[^jones-1953][^rotenberg-1999]。因为那段虐待性的婚姻，《丹尼尔·德隆达》的女主人公显出神经疾患的症状，如癔症、神经性厌食，这些当时正受科学的注意（Vrettos 1990; Matus 2008; Carlisle 2023: 221–2, 342–3）[^carlisle-2023][^matus-2008][^vrettos-1990]。
+  - id: 129
+    kind: body
+    source: |-
+      While philosophers throughout history, at least since Plato, have experimented with literary form in ways that are not philosophically trivial, Eliot exerted a decisive influence on new convergences between philosophy and literature during the twentieth century. As some contemporary critics recognized, *Middlemarch* “marks an epoch in the history of fiction” insofar as its interest in subjectivity and inter-subjectivity determines “the form in which the conception is placed before us” (Simcox 1873)[^simcox-1873]. Eliot exerted a profound influence on Anglophone modernism, with its distinctive attention to the relation between truth and literary form. Virginia Woolf and Henry James, for example, were direct heirs to her literary innovations. Eliot’s novels, not least her semi-autobiographical *The Mill on the Floss*, were also formative for Proust and Simone de Beauvoir, whose own experiments in life-writing were the medium for their philosophical work (see Fraser 1994: 87–113; Gobeil 1965)[^fraser-1994][^gobeil-1965]. In light of such influence—and arguably because of, as well as despite, its diffusiveness—Eliot can justly be regarded as the progenitor of the modern philosophical novel.
+    step1: |-
+      历史上至少自柏拉图以来，哲学家们就在试验文学形式，这些试验在哲学上并非无足轻重；而艾略特对二十世纪哲学与文学之间新的汇合施加了决定性的影响。正如一些当代批评家所认识到的，《米德尔马契》“标志了小说史上的一个时代”，因为它对主体性与主体间性的兴趣决定了“把构想摆在我们面前的形式”（Simcox 1873）[^simcox-1873]。艾略特对英语现代主义有深远影响，后者独特地关注真理与文学形式的关系。弗吉尼亚·伍尔夫与亨利·詹姆斯，便是她文学创新的直接继承者。艾略特的小说，尤其是她半自传性的《弗洛斯河上的磨坊》，对普鲁斯特与西蒙娜·德·波伏娃也有塑成之功；后两人自己在人生书写上的试验，正是他们哲学工作的媒介（见 Fraser 1994: 87–113; Gobeil 1965）[^fraser-1994][^gobeil-1965]。鉴于这样的影响，而且可以说既因为它、也不顾它那种弥散性，艾略特可以被正当地看作现代哲学小说的先驱。
+    step2: |-
+      哲学家从柏拉图以来就在拿文学形式做试验，而这些试验在哲学上并不轻；艾略特则对二十世纪哲学与文学之间新的汇合起了决定作用。有些当代批评家已经看出：《米德尔马契》“在小说史上标志了一个时代”，因为它对主体性与主体间性的兴趣，决定了“那个构想被摆到我们面前时所取的形式”（Simcox 1873）[^simcox-1873]。艾略特对英语现代主义有深刻影响，现代主义那种独特的关切正是真理与文学形式的关系。弗吉尼亚·伍尔夫、亨利·詹姆斯，都是她文学创新的直接继承人。她的小说，尤其那部半自传的《弗洛斯河上的磨坊》，也塑成了普鲁斯特与西蒙娜·德·波伏娃；这两人自己在人生书写上的试验，正是他们哲学的媒介（见 Fraser 1994: 87–113; Gobeil 1965）[^fraser-1994][^gobeil-1965]。有这般影响，加上（可说是因为、也可说是不顾）它弥散得那样广，艾略特完全可以被看作现代哲学小说的先驱。
+  - id: 130
+    kind: body
+    source: |-
+      In the second half of the twentieth century, literary formalism shaped scholarly and critical practices in the humanities. This disciplinary development produced techniques of close reading that have been applied, in return, to Eliot’s novels—above all *Middlemarch*—to reveal their power, intricacy and originality as works of both art and philosophy.
+    step1: |-
+      二十世纪后半叶，文学形式主义塑造了人文学科的学术与批评实践。这一学科发展产生的细读技术，反过来被应用于艾略特的小说，首先是《米德尔马契》，以显出它们作为艺术与哲学双重作品的力量、繁复与原创性。
+    step2: |-
+      二十世纪后半叶，文学形式主义塑成了人文学界的学术与批评做法。这一学科演进出的细读技术，后来反过来用在艾略特的小说上，首先是《米德尔马契》，用以显明它们作为艺术品与哲学作品的力量、繁复与原创。
+  - id: 131
+    kind: oir
+    source: |-
+      - [George Eliot Archive](https://georgeeliotarchive.org/)
+      - [George Eliot Review Online](https://georgeeliotreview.org/)
+    step1: |-
+      - [George Eliot Archive](https://georgeeliotarchive.org/)
+      - [George Eliot Review Online](https://georgeeliotreview.org/)
+    step2: |-
+      - [George Eliot Archive](https://georgeeliotarchive.org/)
+      - [George Eliot Review Online](https://georgeeliotreview.org/)

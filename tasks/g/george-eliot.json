@@ -2,7 +2,7 @@
   "slug": "george-eliot",
   "kind": "retranslate",
   "zh_doc": "g/george-eliot.md",
-  "state": "cleared",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,41 @@
       "actor": "task_ops",
       "at": "2026-11-01T18:33:53Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-12T09:43:15Z",
+      "evidence": "账本 131 段（body 130 + oir 1）双版填毕；lq check HARD=0；compose 写回 39903 字符；主会话直译、无子代理。注：并行会话批量 clear 曾抹去成稿与账本，已按 script/_build_gel_p1-9.py 复原并重放润色（script/_gel_prosefix.py）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-12T09:43:15Z",
+      "evidence": "逐段回核：正文段 114:114、标题 28:28、引用键 169:169 同序、defs 96:96、公式 0；年份 463:463 同序（回读改正 2 处：补“1880 年春”、删与源无对应的“1855 年”）；Ruskin 依登记册统一作“拉斯金”"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-12T09:43:16Z",
+      "evidence": "语体：现代汉语学术书面语；破折号仅用于引文内插入与转折，无滥用；句法以短句为主，避免欧化长句。prose 60→2，余 2 处均为结构豁免（Eliot 1868 引文内三“的”、书名《弗洛斯河上的磨坊》固有“的”），ADR-0020 留痕"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-12T09:43:17Z",
+      "evidence": "术语与人名核查：check_terms 硬错误 0、词汇表滞后 0、孤儿键无新增；术语 13 行入 yi-zhe-shuo-ming（milieu 环境/性格学/道德特殊主义/范例论/出世性/妇女问题/自我中心/认知谦逊/主奴辩证法/癔症/神经性厌食/卡巴拉/道德情感），人名 16 行入 ren-ming-biao（艾略特、刘易斯、弗劳德、查普曼、施特劳斯、里尔、萨利、康吉莱姆、克罗斯、博迪雄、戴维斯、斯托、阿诺德、亨利·詹姆斯、圣特蕾莎、卡明）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-12T09:43:17Z",
+      "evidence": "r1 回读：四检复跑全绿（style/academic/math/summary）；五维对账全平（114:114/28:28/169:169/96:96/年份 463:463 同序）；语体复核同 s2：现代汉语学术书面语，破折号无滥用；prose 余 2 处结构豁免"
     }
   ],
   "blockers": [],

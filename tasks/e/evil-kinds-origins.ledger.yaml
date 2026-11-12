@@ -1,0 +1,1018 @@
+version: 1
+slug: evil-kinds-origins
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      *Unde malum?* What *is* evil—if it is anything at all—and whence does it arise? Is evil just badness by another name? Is it the inevitable “shadow side” of the good? Or is it more substantial: an active, striving force that is opposed to the good in a Star Wars, Manichean kind of way?
+    step1: |-
+      *Unde malum?* 恶究竟是什么——如果它毕竟存在的话——又从何而来？恶只是“坏”的另一个名字吗？它是善不可避免的“阴暗面”吗？抑或它更为实体化：是一股活跃而奋求的力量，以《星球大战》或摩尼教的方式与善相对抗？
+    step2: |-
+      *Unde malum?*（恶从何来？）恶到底是什么——倘若它真算个什么——它又起于何处？恶是否只是“坏”的别称？是否只是善那不可避免的“暗面”？还是说，它更具实体性：是一股活跃的、奋力以求的力量，像《星球大战》或摩尼教那样与善相抗？
+  - id: 2
+    kind: body
+    source: |-
+      Does evil always originate in the causal powers of nature? Is it sometimes based in the choices of moral agents? Or, perhaps most disturbingly, does evil sometimes have its source in something non-human and impersonal—a malevolent tendency in the universe not just to general winding-down but also to outbreaks of targeted hellishness?
+    step1: |-
+      恶是否总是源于自然的因果力？它有时是否以道德行动者的选择为根据？或者，也许最令人不安的是，恶有时是否以某种非人的、非人格的东西为源头——宇宙中有一种恶意的倾向，不仅使万物趋于普遍的耗散，还会爆发出有针对性的地狱般的景象？
+    step2: |-
+      恶总出于自然的因果力吗？它有时是否植根于道德行动者的抉择？又或者——这一设想最令人不安——它的源头有时竟是某种非人的、无人格的东西：宇宙里有一种恶意倾向，不只让万物渐渐耗散，还时不时爆出有针对性的炼狱景象？
+  - id: 3
+    kind: body
+    source: |-
+      Finally, what is *radical evil*, and how does it differ from other kinds of evil?
+    step1: |-
+      最后，什么是*根本恶*，它与其他种类的恶有何不同？
+    step2: |-
+      最后，*根本恶*又是什么？它跟别的恶有何分别？
+  - id: 4
+    kind: body
+    source: |-
+      These are some of the key *metaphysical* questions that philosophers have raised concerning evil. The goal of this entry is to provide a taxonomy of the most prominent answers: the main theories of evil’s *kinds* and *origins* on offer in the western philosophical tradition. This is meant to supplement the discussion in the entry on the concept of evil, although Section 1 begins with some conceptual and semantic issues.
+    step1: |-
+      这些是哲学家就恶提出的一些关键*形而上学*问题。本词条的目标是提供一份最著名答案的分类：西方哲学传统中关于恶之*种类*与*起源*的主要理论。这意在补充“恶的概念”词条中的讨论，不过第 1 节先从一些概念与语义问题谈起。
+    step2: |-
+      以上就是哲学家围绕恶所提出的若干关键*形而上学*问题。本词条要做的是列出一份分类表，把西方哲学传统中关于恶之*种类*与*起源*的主要理论收罗其中。它可以看作“恶的概念”一词条讨论的补充；不过第 1 节先处理一些概念与语义上的问题。
+  - id: 5
+    kind: body
+    source: |-
+      Section 2 introduces two key distinctions that are then further developed in Sections 3 and 4. The first distinction has to do with the *kinds* of evil: insofar as evil *is* anything at all, is it a deep *metaphysical* feature of things, or is it always (or at least sometimes) merely an *empirical* phenomenon? The second distinction has to do with the *origins* of evil: is evil ever (or always) based in entirely *natural* phenomena, or does it sometimes (or always) have a moral or supernatural origin?
+    step1: |-
+      第 2 节引入两个关键区分，第 3、4 节再进一步展开。第一个区分关乎恶的*种类*：只要恶*毕竟*是某种东西，它究竟是事物的深层*形而上学*特征，还是始终（或至少有时）只是*经验*现象？第二个区分关乎恶的*起源*：恶是否曾经（或总是）以全然*自然*的现象为根据，还是有时（或总是）有道德的或超自然的起源？
+    step2: |-
+      第 2 节先立两个关键区分，第 3、4 节分头展开。其一关乎恶的*种类*：恶倘若*毕竟*算什么，那它是事物的深层*形而上学*特征，还是始终（或至少有时）仅为*经验*现象？其二关乎恶的*起源*：恶可曾（或总是）奠基于纯然*自然*的现象，还是有时（或总是）另有道德或超自然的来历？
+  - id: 6
+    kind: body
+    source: |-
+      Sections 5 through 7 consider some puzzling cases of hard-to-categorize evils: systemic evil; symbolic evil; and so-called “radical” evil.
+    step1: |-
+      第 5 至第 7 节考察一些难以归类的恶的疑难案例：系统性恶、象征性恶，以及所谓“根本”恶。
+    step2: |-
+      第 5 至第 7 节则处理几类难以归位的恶：系统性恶、象征性恶，以及所谓“根本”恶。
+  - id: 7
+    kind: body
+    source: |-
+      ## 1. Speaking of Evil
+    step1: |-
+      ## 1. 论“恶”的言说
+    step2: |-
+      ## 1. 论“恶”的言说
+  - id: 8
+    kind: body
+    source: |-
+      “Evil” and related terms in the Germanic branch of Indo-European have referred, at various points, to suffering and wrongdoing, but also to defecation, latrines, spoiled fruit, diseases, prostitution, and (oddly enough) forks.
+    step1: |-
+      印欧语系日耳曼语支中的“恶”（evil）及相关词语，在不同时期既指苦难与恶行，也指排便、粪坑、腐烂的水果、疾病、卖淫，以及（说来奇怪）叉子。
+    step2: |-
+      在印欧语系的日耳曼语支里，“恶”及同族词历来所指甚杂：苦难、恶行固然在内，此外还有排便、茅厕、烂果子、疾病、卖淫，甚至（说来也怪）叉子。
+  - id: 9
+    kind: body
+    source: |-
+      The Greek term “*kakos*” may be related to the Proto-Indo-European term “*kakka*”—“defecation”. But only the first two meanings survive in English, and non-ironic uses of the term are relatively rare outside of ceremonial and literary contexts. Indeed, speaking of evil nowadays often feels like an exercise in anachronism—like speaking of wickedness, abomination, uncleanness, and iniquity.
+    step1: |-
+      希腊语词“*kakos*”可能与原始印欧语词“*kakka*”——“排便”——有关。但只有前两种含义在英语中留存下来，而在仪式与文学语境之外，非反讽地使用该词已相当少见。的确，如今谈论恶，往往像是在练习不合时宜的措辞——就像谈论邪恶、可憎、不洁与不义一样。
+    step2: |-
+      希腊语的“*kakos*”也许与原始印欧语“*kakka*”同源，后者意为“排便”。英语里只留下前两种意思；除礼仪与文学场合，正经八百地用这个词已不多见。时下谈起“恶”，常有一种不合时宜之感——就像谈“邪恶”“可憎”“不洁”“罪孽”一样。
+  - id: 10
+    kind: body
+    source: |-
+      The *Oxford English Dictionary* explains:
+    step1: |-
+      《牛津英语词典》的解释是：
+    step2: |-
+      《牛津英语词典》说得明白：
+  - id: 11
+    kind: body
+    source: |-
+      > In modern colloquial English it [*evil*]; is little used, such currency as it has being due to literary influence. In quite familiar speech the adjective is commonly superseded by *bad*; the noun is somewhat more frequent, but chiefly in the widest senses, the more specific senses being expressed by other words, such as *harm*, *injury*, *misfortune*, *disease*, etc. (“evil, *adj.* and *n.*1”, under A., abbreviations expanded, *OED Online*, accessed September 2021)
+    step1: |-
+      > 在现代英语口语中，它［*evil*］很少使用；其所以尚有一定流通，全赖文学影响。在日常言谈里，形容词通常已由 *bad* 取代；名词稍为常见，但主要用于最宽泛的意义，较具体的意义则由 *harm*、*injury*、*misfortune*、*disease* 等其他词表达。（“evil, *adj.* and *n.*1”，A 条下，缩略语已展开，《牛津英语词典》在线版，2021 年 9 月访问）
+    step2: |-
+      > 在现代英语口语里，它［*evil*］已少有人用；尚存的一点流通，靠的是文学影响。在日常说话中，形容词多半由 *bad* 取代；名词用得稍多，但大抵限于最宽泛的义项，更具体的含义则另用 *harm*、*injury*、*misfortune*、*disease* 等词来表达。（“evil, *adj.* and *n.*1”，见 A 条，缩略语已展开，*OED Online*，2021 年 9 月访问）
+  - id: 12
+    kind: body
+    source: |-
+      This trend is found in other modern languages, but not in all. Ruppel (2019) notes that in German-speaking lands “*das Übel*” declined just like “evil” did in England, but was soon replaced by “*das Böse*”, which is still alive and well in Germany.
+    step1: |-
+      这一趋势见于其他现代语言，但并非所有语言皆然。鲁佩尔（2019）指出，在德语地区，“*das Übel*”像英格兰的“evil”一样衰落，但很快被“*das Böse*”取代，后者在德国至今仍活跃而兴旺。
+    step2: |-
+      别的现代语言也有此势，却不是个个如此。鲁佩尔（Ruppel，2019）注意到：德语区的“*das Übel*”与英格兰的“evil”同样式微，但它很快让位于“*das Böse*”，而后者在德国至今活得好好的。
+  - id: 13
+    kind: body
+    source: |-
+      This slow erasure of “evil” and its cognates from many European languages, which began in the seventeenth century, was due to the rejection of the *concept* of evil, especially by elites. Doctors, moral philosophers, natural scientists, and even theologians shied away from *evil*—preferring more tractable notions like *badness*, *harm*, and *misfortune*, or quasi-quantifiable concepts like *pain*, *suffering*, *trauma*, and *disutility*. Traditional views of ontologically substantive and supernatural evil—something able to possess a body or terrorize a soul—came to be seen as quaint, unscientific, embarrassing (Ruppel 2019)[^ruppel-2019].
+    step1: |-
+      “恶”及其同源词从许多欧洲语言中缓慢消失，这一过程始于 17 世纪，原因是对恶之*概念*的拒斥，尤其是精英阶层的拒斥。医生、道德哲学家、自然科学家乃至神学家都回避*恶*——宁愿采用较易处理的概念，如*坏*、*损害*、*不幸*，或准可量化的概念，如*痛苦*、*苦难*、*创伤*、*负效用*。关于本体论上实在且超自然的恶——那种能够附体或威慑灵魂的东西——的传统看法，逐渐被视为古怪、不科学、令人难堪（Ruppel 2019）[^ruppel-2019]。
+    step2: |-
+      从 17 世纪起，“恶”及其同族词在许多欧洲语言里慢慢被抹去，根子在于人们——尤其是精英——弃置了恶的*概念*。医生、道德哲学家、自然科学家，连神学家也在内，都躲着*恶*字走，宁可拣*坏*、*损害*、*不幸*这类好对付的说法，或者*痛苦*、*苦难*、*创伤*、*负效用*这类近乎可计量的概念。至于传统上那种本体论上实在、带超自然色彩的恶——能附人之体、慑人之魂的东西——则渐渐被视为古怪、不科学、上不得台面（Ruppel 2019）[^ruppel-2019]。
+  - id: 14
+    kind: body
+    source: |-
+      Philosophers of religion are a half-exception to the rule. They did and do continue to speak of evil, at least when discussing the “problem” thereof. (See the entry on the problem of evil.) If pressed, though, they typically admit that this is because the great framers of the problem—Augustine, Aquinas, Leibniz, Bayle—used the term (in Latin or French), and then proceed to gloss it generically as, in Michael Tooley’s words, “any undesirable states of affairs” (2002 [2019]). Philosophers of religion in the broadly Continental tradition are less likely to assimilate evil to more general or anodyne notions in this way, and more likely to discuss the nature of evil as opposed to the “problem” it raises for theism (e.g., Kearney 2001 and Matuštík 2008)[^kearney-2001][^matuštík-2008].
+    step1: |-
+      宗教哲学家是这条规律的一半例外。他们过去和现在都继续谈论恶，至少在讨论恶的“问题”时如此。（参“恶的问题”词条。）但若追问下去，他们通常承认，这是因为该问题的伟大提出者——奥古斯丁、阿奎那、莱布尼茨、培尔——都使用过这个词（用拉丁文或法文），随后便笼统地把它解释为，用迈克尔·图利的话说，“任何不可取的事态”（2002 [2019]）。大体属于欧陆传统的宗教哲学家，较少这样把恶同化于更一般或更温和的概念，而更倾向于讨论恶的本性，而非恶为有神论所提出的“问题”（例如 Kearney 2001 与 Matuštík 2008）[^kearney-2001][^matuštík-2008]。
+    step2: |-
+      宗教哲学家算半个例外。他们过去谈恶，现在也谈，至少谈恶所引发的“问题”时还谈（参“恶的问题”词条）。可若追问下去，多半会得到这样的答复：之所以如此，是因为把这个问题立起来的几位大家——奥古斯丁、阿奎那、莱布尼茨、培尔——当年用的就是这个字（拉丁文或法文），于是他们沿用旧词，只是在解释时模糊处理，按迈克尔·图利（Michael Tooley）的说法，把它解作“任何不可欲的事态”（2002 [2019]）。至于大体属于欧陆传统的宗教哲学家，就较少这样把恶化约为更宽泛、更温和的概念；他们更愿意讨论恶本身的本性，而不限于恶给有神论出的“难题”（如 Kearney 2001、Matuštík 2008）[^kearney-2001][^matuštík-2008]。
+  - id: 15
+    kind: body
+    source: |-
+      Despite this widespread squeamishness about “evil” in both scientific culture and common parlance, there are moments when the pull of the ancient lexicon is irresistible—at the very least expressively, in the mode of both condemnation and lament. Premeditated mass shootings aren’t just bad or traumatic; rather, they are something else: here people still reach for “evil” or even “radical evil”. The years-long imprisonment and rape of children by their parents is a misfortune that produces negative utility, to be sure, but the transfixing horror of it seems only to be captured by the invocation of “evil”. The same is true of most instances of genocide, sex-trafficking, torture-slaying, terrorism, serial killing, and slavery: these are one and all bad, harmful, and traumatic activities, but they are also something else—something excessive, mesmerizing, and revolting all at once (see Stone 2009 for a psychologist’s account)[^stone-2009]. In the face of such acts, we—along with our spiritual leaders, newscasters, and politicians—are still willing to speak, preach, and tweet about “pure evil”.
+    step1: |-
+      尽管科学文化与日常言谈对“恶”都普遍感到不适，仍有一些时刻，古老词汇的引力不可抗拒——至少在表达层面如此，无论谴责还是哀悼。蓄意的群体枪击不只是坏或造成创伤；它们是别的东西：此时人们仍会伸手去抓“恶”乃至“根本恶”。父母长年囚禁并强奸自己的子女，这固然是一种产生负效用的不幸，但其令人怔住的恐怖，似乎只有借助“恶”的呼求才能被把握。种族灭绝、性贩卖、酷刑杀戮、恐怖主义、连环杀人、奴隶制等大多数事例亦然：它们都是坏的、有害的、造成创伤的活动，但同时也是别的东西——某种过度、摄人且令人作呕的东西（心理学家的叙述见 Stone 2009）[^stone-2009]。面对这类行径，我们——连同我们的精神领袖、新闻主播与政客——仍然愿意谈论、宣讲并发推文谈论“纯粹的恶”。
+    step2: |-
+      科学文化与街头巷议都对“恶”字心怀抵触，可总有那么些时刻，旧词自有一股拉力，叫人无法不伸手——至少在表达上是如此，无论责难还是哀恸。蓄意的大规模枪击，不只是“坏”，也不只是“创伤”；它是另一回事：此时人们偏要说出“恶”，甚至“根本恶”。父母经年囚禁、强暴自家子女，这当然是一桩产出负效用的不幸，可那令人怔住的恐怖，似乎非借“恶”字不能道出。种族灭绝也好，性奴交易、酷刑杀人、恐怖袭击、连环命案、蓄奴也罢，大多如此：都是坏的、有害的、伤人至深的行为，可又不止于此——还多出点什么，既过分，又摄人心魄，同时令人作呕（心理学家的说法见 Stone 2009）[^stone-2009]。面对这等行径，我们——连同精神导师、新闻主播、政客——仍旧愿意开口、登台、发推，谈“纯粹的恶”。
+  - id: 16
+    kind: body
+    source: |-
+      Thus after a school shooting in February 2017, Donald Trump (@realDonaldTrump) tweeted that “we must keep ‘evil’ out of our country”. (Despite the quotation marks, it was clear that he meant evil the entity, and not “evil” the word.) After the Las Vegas mass shooting in October 2017, Trump and many others in leadership referred to the event as “an act of pure evil” (Matuson 2017)[^matuson-2017]. Less recently, George W. Bush referred to Iran, Iraq, and North Korea as the “Axis of Evil” in a state of the union address on 29 January 2002 (see Other Internet Resources), and Ronald Reagan repeatedly characterized the Soviet Union as “the evil empire”, famously at a speech on 8 March 1983 to the National Association of Evangelicals (see Other Internet Resources).
+    step1: |-
+      因此，2017 年 2 月一起校园枪击案之后，唐纳德·特朗普（@realDonaldTrump）发推说：“我们必须把‘恶’挡在我国之外”。（尽管用了引号，他显然指恶这个实体，而不是“恶”这个字。）2017 年 10 月拉斯维加斯大规模枪击案之后，特朗普与许多领导人都把该事件称为“一桩纯粹的恶行”（Matuson 2017）[^matuson-2017]。更早一些，乔治·W. 布什在 2002 年 1 月 29 日的国情咨文中把伊朗、伊拉克与朝鲜称为“邪恶轴心”（见其他网络资源），罗纳德·里根则反复把苏联称为“邪恶帝国”，最著名的是 1983 年 3 月 8 日在全国福音派协会的演讲（见其他网络资源）。
+    step2: |-
+      2017 年 2 月一所学校发生枪击案后，唐纳德·特朗普（@realDonaldTrump）发推：“我们必须把‘恶’挡在国门之外”。（引号虽有，所指分明是恶这个实体，而非“恶”这个字。）同年 10 月拉斯维加斯枪击案后，特朗普与不少要人都称此案为“纯粹的恶行”（Matuson 2017）[^matuson-2017]。再往前，乔治·W. 布什 2002 年 1 月 29 日发表国情咨文，把伊朗、伊拉克、朝鲜点名为“邪恶轴心”（见其他网络资源）；罗纳德·里根则屡次称苏联为“邪恶帝国”，以 1983 年 3 月 8 日在全国福音派协会的演讲最为著名（见其他网络资源）。
+  - id: 17
+    kind: body
+    source: |-
+      But when we do this—when we speak of *evil*, *das Böse*, *il male* nowadays—what *is* it that we are referring to, and where does it *come from*?
+    step1: |-
+      但当我们这样做时——当我们如今谈论*恶*、*das Böse*、*il male* 时——我们所指的究竟是什么，它又从何而来？
+    step2: |-
+      可我们这样做的时候——如今说着*恶*、*das Böse*、*il male* 的时候——指的究竟是什么呢？它又*从何处来*？
+  - id: 18
+    kind: body
+    source: |-
+      Pressed with such questions, many people (philosophers included) revert to the more tractable terms. *Of course* what we are really talking about (whispering about, thundering about, shaking our heads about) in those moments of condemnation and lament is an extreme instance of suffering or disutility. *Of course* “evil” is to “bad” what “wicked” is to “immoral”: a conceptual vestige of a pre-scientific, credulous past that we invoke for the sake of solemnity, empathy, or emphasis. A concept that—outside of horror films and fiction—is best analyzed in terms of nature’s frustration of the basic needs of sentient creatures, or as the effects of illness and ill-parenting. Yes, evil happenings have an excessive, egregious quality that makes them notable, even transfixing. But they are not, in the end, *sui generis* or metaphysically mysterious: neuroscience, medicine, psychology, and law have domesticated evil. Taken to its logical extreme, the doctrine that characterizes this camp would be that *all* evil is “natural” (a product of various causal processes in nature).
+    step1: |-
+      面对这类追问，许多人（包括哲学家）退回到较易处理的概念。*当然*，我们在谴责与哀悼的时刻真正谈论的（窃窃私语的、雷霆万钧的、摇头叹息的），只是苦难或负效用的极端事例。*当然*，“恶”之于“坏”，正如“邪恶”之于“不道德”：一个前科学、轻信的过去所留下的概念残迹，我们为庄重、共情或强调而援引它。这个概念——在恐怖片与虚构之外——最好被分析为自然对有感觉生物基本需要的挫败，或被分析为疾病与不良养育的后果。是的，恶的事件有一种过度而骇人的性质，使其引人注目甚至摄人心魄。但它们归根到底并非*自成一类*或形而上学上神秘的：神经科学、医学、心理学与法律已经把恶驯化了。推到逻辑极端，这一阵营所持的学说将是：*一切*恶都是“自然的”（自然中各种因果过程的产物）。
+    step2: |-
+      被这样一问，许多人（哲学家也在内）便缩回那些好对付的词语。*当然*，我们在责难与哀恸之时所说的（低声说的、高声说的、摇着头说的），不过是苦难或负效用的极端例子。*当然*，“恶”之于“坏”，犹如“邪恶”之于“不道德”：只是前科学、易轻信的时代留下的概念残渣，我们借它来添几分庄重、几分共情、几分强调罢了。这个概念——把恐怖片与小说排除在外——最好解作自然对有感觉生灵之基本需要的挫伤，或解作疾病与失职养育的后果。不错，恶事自有一种过分而骇人的性质，引人注目，甚至摄人心魄。可归根到底，它并不*自成一类*，也不在形而上学上神秘：神经科学、医学、心理学、法律早已把它驯服。推到极端，这一派的学说便是：*一切*恶皆为“自然”（自然中诸种因果过程的结果）。
+  - id: 19
+    kind: body
+    source: |-
+      Others prefer to answer the questions about the origins of evil in terms of *choice, agency*, and *will*. For people in this camp, evil consists in malevolent intentions, malice with forethought, and self-conscious cruelty that leads to extreme suffering and tribulation. They may allow that there are contributing factors and preconditions, but ultimately hold the *agents themselves* responsible for evil. Note, however, that the appeal to human free will can also be seen as an effort to domesticate evil—to make it explicable in terms of familiar concepts, to set it on a continuum with other, familiar acts and events. Taken to its logical extreme, the doctrine held by people in this camp is that *all* evil has “moral” origins—it is a product of choice or agency of some sort.
+    step1: |-
+      另一些人宁愿以*选择、能动性*与*意志*来回答恶之起源的问题。在这一阵营看来，恶在于恶意的意图、预谋的歹念，以及导致极端苦难与折磨的自觉残忍。他们可以承认存在促成因素与先决条件，但最终认为*行动者自身*对恶负责。不过要注意，诉诸人的自由意志也可以被看作驯化恶的努力——用熟悉的概念使其可理解，把它与其他熟悉的行为和事件置于同一连续统上。推到逻辑极端，这一阵营所持的学说是：*一切*恶都有“道德”起源——是某种选择或能动性的产物。
+    step2: |-
+      另有一批人，宁愿拿*选择*、*能动性*、*意志*来回答恶从何而来。在他们看来，恶就是满怀恶意的意图，是深思熟虑的歹毒，是明知故犯、终致极端苦难的残酷。促成条件与前提，他们未必否认；但责任，最终要落在*行动者本人*头上。不过要留意：诉诸人的自由意志，同样可以看作驯化恶的一招——用熟知的概念把它讲通，让它与别的熟悉行为、事件排在同一条线上。推到极端，这一派的学说便是：*一切*恶皆源于“道德”——出于某种选择、某种能动性。
+  - id: 20
+    kind: body
+    source: |-
+      This debate about the roots of evil plays out not only in philosophy seminar rooms and psychology labs, but also on cable news stations and op-ed pages. People in the second camp tend to the political right, and sometimes even make a show of using “evil” because they think that people in the first camp (who tend to the political left) are uncomfortable with the idea of personal responsibility and blameworthiness.
+    step1: |-
+      这场关于恶之根源的争论不只在哲学研讨室与心理学实验室里上演，也出现在有线新闻台与社论版面上。第二阵营的人倾向政治右翼，有时甚至刻意使用“恶”一词，因为他们认为第一阵营的人（倾向政治左翼）对个人责任与可责性的观念感到不适。
+    step2: |-
+      恶之根源的这场争论，不只在哲学研讨室和心理学实验室里进行，有线新闻与报纸评论版上也吵得热闹。第二派政治上多偏右，有时还故意把“恶”字挂在嘴边，因为他们认定第一派（政治上偏左）见不得“个人责任”“该受责备”这类说法。
+  - id: 21
+    kind: body
+    source: |-
+      I said these were *the* two opposing camps. In truth there is another one—one that used to be very popular but now seems sparsely populated, at least among philosophers. People in this third camp eschew efforts to domesticate evil; for them, what we mean by “evil” is not equivalent to what we mean by “bad” or “wrong” or even “very very very bad” or “very very very wrong”. In other words, evil is not just illness, misfortune, or malevolent choices by another name but rather a positive, substantial rottenness in the universe. It is, or has its origin in, some non-agential force or shadow side of reality—something spooky, imperceptible, but out there (“in them woods”).
+    step1: |-
+      我说过这是*两个*对立阵营。其实还有第三个——它曾经非常流行，如今却似乎人丁稀少，至少在哲学家中如此。第三阵营的人拒斥驯化恶的努力；在他们看来，“恶”之所指，并不等同于“坏”“错”，甚至不等同于“非常非常非常坏”或“非常非常非常错”。换言之，恶不只是疾病、不幸或他人恶意选择的别名，而是宇宙中一种积极的、实在的腐朽。它就是某种非人格的力量，或实在的暗面，或以此为本源——某种鬼魅般的、不可感知的、却确实“在那林子里”的东西。
+    step2: |-
+      前面说对立的是*两*个阵营。其实还有第三个：从前极为流行，如今似乎人烟稀少，至少在哲学家里是这样。这一派人拒不驯化恶。在他们看来，“恶”的意思既不等于“坏”，也不等于“错”，连“极坏极坏”“极错极错”都不够。换句话说，恶并非疾病、不幸或他人恶意选择的别名；它是宇宙里一种积极的、实打实的腐朽。它本身就是某种非人格的力量，或是实在的暗面，或是这种东西的产物——鬼气森森，肉眼难见，却确实“在那边林子里”。
+  - id: 22
+    kind: body
+    source: |-
+      ## 2. Two Distinctions in Evil: Kinds and Origins
+    step1: |-
+      ## 2. 恶的两个区分：种类与起源
+    step2: |-
+      ## 2. 恶的两个区分：种类与起源
+  - id: 23
+    kind: body
+    source: |-
+      The late antique (Plotinus, Proclus, Augustine, Boethius), medieval (Anselm, Ibn Sina, Aquinas), and early modern (Descartes, Leibniz, Bayle, Kant) eras contain sophisticated traditions of reflection on questions about evil—about its being or non-being, its intrinsic features and natural manifestations, and its origins in nature, will, or supernature. Over the course of that centuries-long discussion, two main distinctions emerged.
+    step1: |-
+      晚期古代（普罗提诺、普罗克洛斯、奥古斯丁、波爱修）、中世纪（安瑟尔谟、伊本·西那、阿奎那）与早期现代（笛卡尔、莱布尼茨、培尔、康德）各时代，都拥有探讨恶之问题的精致思想传统——关于恶的存在与非存在、其内在特征与自然表现，以及其在自然、意志或超自然中的起源。在长达数百年的讨论中，出现了两个主要区分。
+    step2: |-
+      从晚期古代（普罗提诺、普罗克洛斯、奥古斯丁、波爱修）到中世纪（安瑟尔谟、伊本·西那、阿奎那），再到早期现代（笛卡尔、莱布尼茨、培尔、康德），每个时代都留下了琢磨恶的问题的精细传统：恶是有还是无，它本身有什么特征、在自然中怎样表现，它的源头在自然、在意志，还是在超自然。几百年的讨论下来，两个主要区分渐渐成形。
+  - id: 24
+    kind: body
+    source: |-
+      The first main distinction has to do with the *nature* or *kinds* of evil: is evil at bottom just an *empirical* phenomenon—something that is given in the causal, phenomenal world of our experience? Or is there a deeper, *metaphysical* aspect to some evils? Note that this is not an exclusive distinction: people who endorse the idea of metaphysical evil typically assume that it *also* has an empirical character or manifestation.
+    step1: |-
+      第一个主要区分关乎恶的*本性*或*种类*：恶归根到底只是*经验*现象——在我们的经验中、在因果现象界中给出的东西吗？还是某些恶有更深的*形而上学*方面？注意，这不是排他性区分：赞同形而上学恶之观念的人，通常也假定它*同样*具有经验性格或经验表现。
+    step2: |-
+      第一个主要区分，关乎恶的*本性*或*种类*：恶归根到底只是*经验*现象——只在我们经验的因果现象界里给出？还是说，某些恶另有更深的*形而上学*层面？要注意，这不是非此即彼的划分：承认形而上学之恶的人，通常也认为它*同时*有经验的性格或表现。
+  - id: 25
+    kind: body
+    source: |-
+      Suppose, for example, we come across the sort of scene that drove Friedrich Nietzsche mad in Turin: a coachman mercilessly beating his horse (Prideaux 2018)[^prideaux-2018]. In this version of the case, however, suppose that the coachman’s cruelty is a response to his having been recently diagnosed with terminal cancer. So here there is certainly some empirical evil: the cancerous disruption to the body, the cruelty of the man, the pain of the horse. Some philosophers will say that there is also metaphysical evil: neither the man nor the horse is metaphysically perfect, and so on the Absence Theory considered below (section 3.1.1) both are in that respect evil. We might also regard the body and character of the man as corrupted and conclude that he is metaphysically evil in a “privative” way too (see section 3.1.3). Metaphysical evils like these are distinct from the empirical evils of the cancer, the cruelty, and the suffering of the horse, though on many accounts they are the ground of the latter.
+    step1: |-
+      例如，假设我们遇到曾令弗里德里希·尼采在都灵发疯的那类场景：一个马车夫无情地抽打他的马（Prideaux 2018）[^prideaux-2018]。不过在这个版本的事例中，假设马车夫的残忍是对他最近被诊断出绝症的反应。那么这里当然有某种经验之恶：癌症对身体机能的破坏、此人的残忍、马的痛苦。有些哲学家会说，这里也有形而上学之恶：人与马都不是形而上学上完善的，因而按下文（3.1.1 节）所考察的缺失论，二者在这方面都是恶的。我们也可以把此人的身体与性格看作已败坏，从而断定他在“褫夺”意义上也是形而上学地恶的（见 3.1.3 节）。这类形而上学之恶不同于癌症、残忍与马之痛苦这些经验之恶，尽管在许多解释中前者是后者的根据。
+    step2: |-
+      举个例子。尼采在都灵街头发疯，起因是看见车夫狠命抽打自己的马（Prideaux 2018）[^prideaux-2018]。仍以此景为例，只添一个前提：车夫下此毒手，是因为刚查出绝症。这样一来，经验之恶肯定有：癌症对身体的摧残、车夫的残忍、马的痛楚。有些哲学家还会说，形而上学之恶也在其中：人与马都非形而上学意义上的完善者，故按下文 3.1.1 节所论的缺失论，二者于此皆为恶。还可以说此人的身体与品性已经败坏，于是他在“褫夺”意义上也属形而上学之恶（见 3.1.3 节）。诸如此类的形而上学之恶，与癌症、残忍、马之痛苦这些经验之恶不是一回事；不过在不少解释里，前者正是后者的根基。
+  - id: 26
+    kind: body
+    source: |-
+      The second main distinction has to do with the *origins* of evil, and tracks the differences between the three camps mentioned above. The first option here is to say that a specific evil arises *entirely* from *natural* phenomena for which no one is responsible. In the case of the man and his horse, it is common to think that their metaphysical finitude and incapacities, as well as the cancerous tumor and the canine pain, are “natural” in this way: they seem to be based in facts about the natures, events, and causal laws involved.
+    step1: |-
+      第二个主要区分关乎恶的*起源*，并对应上文提到的三个阵营之间的差异。这里的第一种选择是说，某一具体的恶*完全*产生于无人负责的*自然*现象。在人与马的事例中，人们通常认为，二者形而上学上的有限性与无能，以及癌性肿瘤与犬只的痛苦，都以这种方式是“自然的”：它们似乎以所涉本性、事件与因果律的事实为根据。
+    step2: |-
+      第二个主要区分，关乎恶的*起源*，与前面提到的三派相对应。第一种说法是：某一桩具体的恶，*全然*起于无人负责的*自然*现象。回到人与马的例子。人们通常认为，二者在形而上学上的有限与无能，连同癌瘤与犬只的疼痛，都属于这种“自然”：它们似乎扎根于某些关于本性、事件与因果律的事实。
+  - id: 27
+    kind: body
+    source: |-
+      An alternative is to say that a specific evil has its origin in *moral* actions and intentions. Applied to our case, it is common to think that the man’s agency—the choice to beat his vulnerable steed—is the origin of the cruelty and the pain. If there is metaphysical evil here, then it too might have a moral origin: on some religious pictures, for instance, the corrupted human nature that leads to disease, cruelty, and enmity between him and other creatures is a result of free choice on the part of his primordial ancestors. (If there is agency in any non-human creatures—animals or angelic—then it would also fit here.)
+    step1: |-
+      另一种选择是说，某一具体的恶起源于*道德*行动与意图。应用于我们的事例，人们通常认为，此人的能动性——选择抽打自己无助的坐骑——是残忍与痛苦的起源。如果这里有形而上学之恶，那么它也可能有道德起源：例如在某些宗教图景中，导致疾病、残忍以及人与其他造物之间敌意的那种已败坏的人性，是其原初祖先自由选择的结果。（如果在任何非人造物——动物或天使——中存在能动性，那么它也可归入此类。）
+    step2: |-
+      另一种说法是：某一桩具体的恶，起于*道德*行为与意图。用到本例：人们通常认为，残忍与痛苦源自车夫的能动性，即他决定抽打那匹无力自保的马。若此处还有形而上学之恶，它同样可以有一个道德的来历。比如在某些宗教图景中，人性之所以败坏、进而招来疾病、残忍，以及人与其他造物之间的敌意，是因为人的远祖当年自由选择所致。（倘若非人造物——动物或天使——也有能动性，那也归入此类。）
+  - id: 28
+    kind: body
+    source: |-
+      The third (and now-quite-unpopular) view about origins says that a specific evil arises ultimately not from nature or from choice but from something that is both supernatural and non-agential (call this a “spooky non-agential” origin). On such views there is a dark force or side of reality that is the ultimate origin of, say, the metaphysical evil in the man’s nature. It may also be the ultimate source of the empirical evil involved.
+    step1: |-
+      关于起源的第三种看法（如今已相当不受欢迎）是：某一具体的恶最终不起于自然，也不起于选择，而起于某种既超自然又非人格的东西（不妨称之为“鬼魅式非人格”起源）。按这类看法，实在中有一种黑暗力量或暗面，是诸如人之本性中的形而上学之恶的终极起源。它也可能是所涉经验之恶的终极来源。
+    step2: |-
+      第三种关于起源的看法如今已很不受待见。它说：某一桩具体的恶，最终既不起于自然，也不起于选择，而起于某种超自然且非人格的东西——不妨叫“鬼魅式非人格”起源。按这种看法，实在之中有一股黑暗的力量、或一个黑暗的侧面，譬如说，人本性中的形而上学之恶，其终极源头就在这里。所涉的经验之恶，终极源头或许也在此。
+  - id: 29
+    kind: body
+    source: |-
+      Three further preliminary notes:
+    step1: |-
+      还有三点预备说明：
+    step2: |-
+      另有三点需先交代：
+  - id: 30
+    kind: body
+    source: |-
+      1. The second main distinction here is often regarded as exclusive with respect to a specific evil, since we are asking about its *ultimate* origin. If the man’s cancer and ill-treatment of the horse originate entirely in the causal powers of the physical universe, then they are not also based in either free choice or supernatural spookiness (and vice versa). “Typically” here is key, however, since a compatibilist picture of free will (O’Connor & Franklin 2018 [2021])[^o’connor-2018] says that free choices themselves are determined by natural causes. On that view, perhaps, the origin of the man’s cruel act is *both* moral *and* natural. Compatibilisms between natural and spooky origins are also conceptually possible.
+      2. Although some theorists think that *all* instances of evil (whether metaphysical or empirical) are grounded in just one of these ultimate origins, most will allow that different evils have different ultimate origins. For instance, someone might coherently think that the man’s cancer has a natural origin, that his cruelty has a moral origin, and yet that the ferociousness of the beating has a spooky or “dark force” origin. Section 4 considers some historical efforts to suggest that *all* evils are ultimately moral in origin.
+      3. Although these conceptual distinctions are fairly clear, there is terminological variation in the historical and contemporary literature with respect to the term “natural evil”. Some philosophers and theologians use “natural evil” to refer not to an origin but to a kind—the kind that is here called “empirical evil”. When the distinctions are maintained, however, it should be clear that they are orthogonal: both metaphysical evil and empirical evil can have natural, moral, or spooky origins (see Figure 1).
+    step1: |-
+      1. 这里的第二个主要区分，对于某一具体的恶而言常被视为排他的，因为我们问的是它的*终极*起源。如果此人的癌症与对马的虐待完全起源于物理宇宙的因果力，那么它们就不同时以自由选择或超自然的鬼魅为根据（反之亦然）。不过，“通常”是关键，因为相容论的自由意志图景（O’Connor & Franklin 2018 [2021]）[^o’connor-2018] 认为，自由选择本身也是由自然原因决定的。按那种观点，此人的残忍行为之起源或许*既是*道德的*又是*自然的。自然起源与鬼魅起源之间的相容论，在概念上也是可能的。
+      2. 尽管有些理论家认为，*一切*恶的实例（无论形而上学还是经验）都只奠基于其中一种终极起源，多数人却会容许不同的恶有不同的终极起源。例如，某人可以前后一贯地认为：此人的癌症有自然起源，他的残忍有道德起源，而抽打的凶暴则有鬼魅或“黑暗力量”的起源。第 4 节考察历史上若干试图主张*一切*恶在终极上皆源于道德的努力。
+      3. 这些概念区分虽相当清楚，但历史与当代文献在“自然恶”一词上存在术语分歧。有些哲学家与神学家用“自然恶”不是指一种起源，而是指一种种类——即此处所称的“经验之恶”。不过，只要坚持这些区分，就应清楚它们彼此正交：形而上学之恶与经验之恶，都可以有自然的、道德的或鬼魅的起源（见图 1）。
+    step2: |-
+      1. 就某一桩具体的恶而言，第二个主要区分常被视为互斥的，因为我们问的是它的*终极*起源。假如此人的癌症与虐马之行全都起于物理宇宙的因果力，那它们就不 *同时*以自由选择或超自然的鬼魅为根源（反过来也一样）。但“常常”二字要紧：相容论的自由意志图景（O’Connor & Franklin 2018 [2021]）[^o’connor-2018] 主张，自由选择本身也由自然原因决定。照此说来，他的残忍之举，起源或许*既*在道德，*又*在自然。自然起源与鬼魅起源之间的相容论，在概念上同样说得通。
+      2. 有些理论家认为，*一切*恶（无论形而上学还是经验）只奠基于其中一种终极起源；多数人则容许不同的恶各有各的终极起源。比如，一个人完全可以一贯地主张：此人的癌症源于自然，他的残忍源于道德，而抽打之凶暴则源于鬼魅或“黑暗力量”。第 4 节会考察历史上几种试图说明*一切*恶终究皆源于道德的努力。
+      3. 这些概念区分虽说清楚，但“自然恶”一词在古今文献里用法不一。有些哲学家与神学家用它指的不是起源，而是种类——即此处所谓“经验之恶”。只要守住上述区分，就该明白二者互不相干：形而上学之恶与经验之恶，皆可有自然、道德或鬼魅三种起源（见图 1）。
+  - id: 31
+    kind: body
+    source: |-
+      *Figure 1.*
+    step1: |-
+      *图 1.*
+    step2: |-
+      *图 1.*
+  - id: 32
+    kind: body
+    source: |-
+      | Origins: | *Natural* | *Moral* | *Spooky non-agential* |
+      | --- | --- | --- | --- |
+      | Kinds: |   |   |   |
+      | *Metaphysical* | The finitude, susceptibility to pain and disease, and other incapacities essential to the coachman and the horse and that are ultimately based in facts about natures | The finitude, susceptibility to pain and disease, and the inclination to cruelty that are essential to the man and the result of damage to his nature and/or that of his species, which damage is ultimately based in facts about immoral acts and intentions (e.g., Original Sin) | The finitude, and susceptibility to pain and disease in the coachman and the horse, and the corruption in the coachman’s nature and/or that of his species, and that are ultimately based in facts about a dark force or shadow-side principle in reality |
+      | *Empirical* | The cancer of the coachman, whose ultimate explanation consists in causal facts about natural phenomena | The cruelty of the coachman and the suffering of the horse, whose ultimate explanation consists in facts about the man’s immoral acts and intentions. | The cancer, anger, cruelty, and suffering of the coachman and the horse whose ultimate explanation is based in facts about a dark force or shadow-side principle in reality. |
+    step1: |-
+      | 起源： | *自然* | *道德* | *鬼魅式非人格* |
+      | --- | --- | --- | --- |
+      | 种类： |   |   |   |
+      | *形而上学* | 车夫与马本质上具有的有限性、易受痛苦与疾病侵扰等无能，最终以关于本性的事实为根据 | 人本质上具有的有限性、易受痛苦与疾病侵扰，以及残忍的倾向，是其本性受损的结果，而该损害最终以关于不道德行为与意图的事实（如原罪）为根据 | 车夫与马本质上的有限性、易受痛苦与疾病侵扰，以及车夫本性（或其族类本性）的败坏，最终以关于实在中某种黑暗力量或暗面原则的事实为根据 |
+      | *经验* | 车夫的癌症，其终极解释在于关于自然现象的因果事实 | 车夫的残忍与马的痛苦，其终极解释在于关于此人不道德行为与意图的事实 | 车夫与马的癌症、愤怒、残忍与痛苦，其终极解释以关于实在中某种黑暗力量或暗面原则的事实为根据 |
+    step2: |-
+      | 起源： | *自然* | *道德* | *鬼魅式非人格* |
+      | --- | --- | --- | --- |
+      | 种类： |   |   |   |
+      | *形而上学* | 车夫与马生来俱有的有限、易病易痛及其他无能，其根据最终落在关于本性的事实上 | 人与马生来俱有的有限、易病易痛，加上残忍之倾向——此人本性（或其族类本性）受损所致，而受损的根据最终落在不道德行为与意图的事实上（如原罪） | 车夫与马的有限、易病易痛，车夫本性（或其族类本性）的败坏——其根据最终落在实在中黑暗力量或暗面原则的事实上 |
+      | *经验* | 车夫所患之癌，终极解释在于自然现象的因果事实 | 车夫之残忍与马之痛苦，终极解释在于此人不道德行为与意图的事实 | 车夫与马的癌症、怒气、残忍与痛苦，终极解释落在实在中黑暗力量或暗面原则的事实上 |
+  - id: 33
+    kind: body
+    source: |-
+      Figure 1. The Table of Evils, applied to Nietzsche case
+    step1: |-
+      图 1. 恶之表，应用于尼采事例
+    step2: |-
+      图 1. 恶之表，施用于尼采事例
+  - id: 34
+    kind: body
+    source: |-
+      The distinctions represented in the Table of Evil are the topics of Sections 3 and 4. Sections 5 through 7 look at three varieties of evil (systemic, symbolic, and radical) whose positions within the Table are more difficult to discern.
+    step1: |-
+      恶之表所呈现的这些区分，即第 3、4 节的主题。第 5 至第 7 节考察三类恶（系统性、象征性、根本性），它们在表中的位置较难辨认。
+    step2: |-
+      恶之表所列诸区分，正是第 3、4 节的题目。第 5 至第 7 节则考察三类恶：系统性恶、象征性恶、根本恶。这三者在表中该占哪一格，颇难断定。
+  - id: 35
+    kind: body
+    source: |-
+      ## 3. Kinds of Evil: Metaphysical and Empirical
+    step1: |-
+      ## 3. 恶的种类：形而上学之恶与经验之恶
+    step2: |-
+      ## 3. 恶的种类：形而上学之恶与经验之恶
+  - id: 36
+    kind: body
+    source: |-
+      The first key distinction is concerned with the *kinds* of evil—with what evil is or consists in, and thus with where and how it manifests. Again, the distinction is not exclusive: someone might hold that there is *both* metaphysical evil and empirical evil, and that the latter is typically a manifestation of metaphysical evil. Someone else, however, might hold that there is no such thing as metaphysical evil, and that all evils can be accounted for at the empirical, causal level.
+    step1: |-
+      第一个关键区分关乎恶的*种类*——关乎恶是什么、由什么构成，因而也关乎它在何处、以何种方式表现。同样，这一区分并非排他：有人可以主张*既*有形而上学之恶*又*有经验之恶，且后者通常是前者的表现。另一个人却可以主张根本不存在形而上学之恶，一切恶都能在经验的、因果的层面得到说明。
+    step2: |-
+      第一个关键区分指向恶的*种类*：恶是什么、成于何处，也决定了它在何处现身、如何现身。这同样不是互斥之分：有人可能认为*既*有形而上学之恶，*也*有经验之恶，且后者通常是前者的表现；另有人则认为形而上学之恶根本不存在，一切恶都能在经验的因果层面交代清楚。
+  - id: 37
+    kind: body
+    source: |-
+      ### 3.1 Metaphysical Evil
+    step1: |-
+      ### 3.1 形而上学之恶
+    step2: |-
+      ### 3.1 形而上学之恶
+  - id: 38
+    kind: body
+    source: |-
+      Many of the traditional kakologists believed in *metaphysical* evil—i.e., evil that has to do with the *way things exist or fail to exist.* Typically, metaphysical evil is supposed to be a function of a thing’s nature and characterized by a kind of unintelligiblity. As we have seen, many such theorists also typically assume that metaphysical evil has empirical manifestations.
+    step1: |-
+      传统恶论者中有许多人相信*形而上学*之恶——即与*事物如何存在或未能存在*相关的恶。形而上学之恶通常被设想为事物本性的函数，并以某种不可理解性为特征。如前所述，许多这类理论家通常也假定形而上学之恶有经验表现。
+    step2: |-
+      传统的“恶论者”（kakologists）之中，不少人相信*形而上学*之恶，即关乎*事物以何种方式存在、或在何处不存在的*那种恶。这类恶通常被视为事物本性的函数，并带有某种不可理解的性质。如前所述，持此说的理论家多半也认为，形而上学之恶会在经验中表现出来。
+  - id: 39
+    kind: body
+    source: |-
+      Both metaphysical and empirical evil have been described in terms of four main theory-templates: *Absence, Matter, Privation*, and *Real Property*. These templates are laid out in more detail in the discussion of metaphysical evil in this section, and applied again in section 3.2’s discussion of empirical evil.
+    step1: |-
+      形而上学之恶与经验之恶，都曾用四个主要理论模板来描述：*缺失、质料、褫夺*与*实在属性*。本节讨论形而上学之恶时会较详细地展开这些模板，3.2 节讨论经验之恶时再次运用。
+    step2: |-
+      无论是形而上学之恶还是经验之恶，前人都用四套主要理论模板来描述：*缺失*（Absence）、*质料*（Matter）、*褫夺*（Privation）与*实在属性*（Real Property）。本节论形而上学之恶时先把这四套模板讲细，3.2 节论经验之恶时再拿来用一遍。
+  - id: 40
+    kind: body
+    source: |-
+      #### 3.1.1 Absence Theory
+    step1: |-
+      #### 3.1.1 缺失论
+    step2: |-
+      #### 3.1.1 缺失论
+  - id: 41
+    kind: body
+    source: |-
+      The *Absence Theory of Evil* has its origins in the Platonic idea that there are different “degrees of being” corresponding to the number and kinds of capacities a thing has. Roughly speaking, the more numerous and impressive a thing’s capacities, the more *real* and thus *better* it is, metaphysically-speaking. A dog cannot stand erect; an ape can. A rock cannot pass through walls; an angel can. These lacks or absences are essential to being the kind of finite creature that a dog or a rock is; miracles aside, a rock is just the kind of thing that cannot pass through walls. All the same, the lack of that ability is an evil.
+    step1: |-
+      *恶的缺失论*源自柏拉图的观念：存在有不同的“等级”，对应于事物所具有的能力的数量与种类。大致说来，事物的能力越多、越可观，它在形而上学意义上就越*实在*，因而越*好*。狗不能直立；猿能。石头不能穿墙；天使能。这些缺失或缺欠，是作为狗或石头这类有限造物所固有的；除奇迹之外，石头恰恰就是不能穿墙的那类东西。尽管如此，缺乏那种能力仍是一种恶。
+    step2: |-
+      *恶的缺失论*（Absence Theory of Evil）出自柏拉图的一个想法：存在分“等级”，等级高低取决于一物所有能力的数量与种类。大略言之，一物的能力越多越强，在形而上学上就越*实在*，因而也就越*好*。狗不能直立，猿可以；石头不能穿墙，天使可以。这类缺欠是狗或石头这类有限造物所固有的：除非有奇迹，石头本来就是穿不了墙的东西。可即便如此，缺了这份本事，仍算一桩恶。
+  - id: 42
+    kind: body
+    source: |-
+      Absence theorists typically add a “plenum” thesis here: it is fitting, or beautiful, or perhaps even necessary, that *all* the different degrees of being are exemplified, and thus that every link in the “great chain of being” is occupied. Evil is a function of the way things ought to be or even must be.
+    step1: |-
+      缺失论者通常在此加上一条“充满”论题：让存在的所有不同等级都得到例示，因而让“存在巨链”的每一环都有其占据者，是合宜的、美的，或许甚至是必然的。恶是事物应当如此、甚至必然如此的方式的函数。
+    step2: |-
+      在这上头，缺失论者通常还要添一条“充满”（plenum）论题：存在的各个等级都该有实例，好叫“存在巨链”环环有人；这合宜，也美，或许还非如此不可。恶，就是事物“理应如此”乃至“必然如此”的那种格局的产物。
+  - id: 43
+    kind: body
+    source: |-
+      Absence Theory was popular across antiquity, but it was particularly attractive to philosophers in monotheistic traditions because it allowed them to say that evil is not a *thing*—and thus not some *thing* that a good, all-powerful God created or sustains. Anselm writes in *On the Fall of the Devil*:
+    step1: |-
+      缺失论在古代广受欢迎，但它对一神论传统中的哲学家尤具吸引力，因为它使他们可以说：恶不是一个*东西*——因而并非某个由善良全能的上帝所创造或维系的东西。安瑟尔谟在《论魔鬼的堕落》中写道：
+    step2: |-
+      缺失论在古代颇为流行，对一神论传统里的哲学家尤其有吸引力：有了它，便可说恶并非一个*物*，因而不是善良全能的上帝所造、所维系的某个东西。安瑟尔谟《论魔鬼的堕落》有言：
+  - id: 44
+    kind: body
+    source: |-
+      > Just as nothing that is not good comes from the Supreme Good, and every good is from the Supreme Good, likewise nothing that is not being [*essentia*] comes from the Supreme Being [*essentia*], and all being is from the Supreme Being. Since the Supreme Good is the Supreme Being, it follows that every being is a good thing and every good thing is a being. Therefore, just as nothing and non-being [*non esse*] are not being [*essentia*], likewise they are not good. So, nothing and non-being are not from He from whom nothing is unless it is good and being. (*De Casu Diaboli*, v.1, 235; translation by Sadler [Other Internet Resources])
+    step1: |-
+      > 正如凡不善者皆不来自至善，而一切善皆来自至善；同样，凡非存在［*essentia*］者皆不来自至善的存在［*essentia*］，而一切存在皆来自至善的存在。既然至善即是至高的存在，则凡存在者皆为善物，凡善物皆为存在者。因此，正如虚无与非存在［*non esse*］不是存在［*essentia*］，它们也不是善的。所以，虚无与非存在不来自那位“凡所出者若不是善与存在便无所出”者。（《论魔鬼的堕落》v.1, 235；Sadler 译［其他网络资源］）
+    step2: |-
+      > 凡不善者皆不出于至善，凡善者皆出于至善；同样，凡非存在者［*essentia*］皆不出于至高的存在［*essentia*］，凡存在者皆出于至高的存在。至善即至高的存在，故凡存在者皆善，凡善者皆存在。是故，虚无与非存在［*non esse*］既非存在［*essentia*］，亦非善。既然如此，它们便不出于那位“所出者若非善与存在，便无所出”者。（《论魔鬼的堕落》v.1, 235；Sadler 译［其他网络资源］）
+  - id: 45
+    kind: body
+    source: |-
+      A lingering problem in the theistic context, however, is that Absence Theory entails that finite things have a degree of evil *just in virtue of* not being at the top of the chain. So even if God does not *create* evil (because absence is uncreated), God creates beings that are *essentially* evil.
+    step1: |-
+      然而，在有神论语境中一个挥之不去的问题是：缺失论蕴含有限事物*仅凭*不在链条顶端便具有一定程度的恶。因此，即使上帝并不*创造*恶（因为缺失是非被造的），上帝所造的却是*本质上*恶的存在者。
+    step2: |-
+      可放在有神论语境里，总有个疙瘩解不开：缺失论蕴含，有限的造物*仅仅因为*不在链条顶端，便已带有几分恶。于是，纵然上帝并不*创造*恶（缺失非受造），他所造的却是一些*本质上*为恶的存在者。
+  - id: 46
+    kind: body
+    source: |-
+      #### 3.1.2 Matter Theory
+    step1: |-
+      #### 3.1.2 质料论
+    step2: |-
+      #### 3.1.2 质料论
+  - id: 47
+    kind: body
+    source: |-
+      Plotinus rejects Absence Theory for a related reason: it compels us
+    step1: |-
+      普罗提诺出于相关理由拒斥缺失论：它迫使我们
+    step2: |-
+      普罗提诺拒斥缺失论，理由与此相关：这理论逼我们
+  - id: 48
+    kind: body
+    source: |-
+      > to say that there are evils in the higher world too; for there the Soul is inferior to Intellect, and Intellect is lesser than [the One]. (*Enneads* I, 8, 13)
+    step1: |-
+      > 承认更高世界中也存在恶；因为在那里，灵魂低于理智，理智又低于［太一］。（《九章集》I, 8, 13）
+    step2: |-
+      > 承认上界亦有恶；在那里，灵魂低于理智，理智又逊于［太一］。（《九章集》I, 8, 13）
+  - id: 49
+    kind: body
+    source: |-
+      For Plotinus, it is not merely being *lower* than the highest One that makes something evil; rather, evil consists in being so low as to be associated with matter. Indeterminate or “unformed matter” is the final term on the cosmic chain from being to non-being—it is as far away from intelligence as possible, and thus equally far away from goodness. This is the *Matter Theory of Evil* that was influential in various gnosticisms, early Christian heresies, and late antique platonisms (see O’Meara 2019)[^o’meara-2019].
+    step1: |-
+      对普罗提诺来说，使某物为恶的并不只是它*低于*最高的太一；恶在于低到与质料相关联。不确定的或“未成形的质料”是从存在到非存在的宇宙链条上的最后一环——它离理智最远，因而离善也同样远。这就是*恶的质料论*，它在各种诺斯替主义、早期基督教异端与晚期古代柏拉图主义中颇有影响（见 O’Meara 2019）[^o’meara-2019]。
+    step2: |-
+      在普罗提诺看来，一物为恶，不只是因为*低于*至高的太一；恶在于低到与质料纠缠的地步。不确定的、“未成形”的质料，是从存在通往非存在的宇宙链条上最后一环：它离理智最远，离善也就同样远。这便是*恶的质料论*。诺斯替各派、早期基督教异端、晚期古代柏拉图主义者都受其影响（见 O’Meara 2019）[^o’meara-2019]。
+  - id: 50
+    kind: body
+    source: |-
+      #### 3.1.3 Privation Theory
+    step1: |-
+      #### 3.1.3 褫夺论
+    step2: |-
+      #### 3.1.3 褫夺论
+  - id: 51
+    kind: body
+    source: |-
+      Augustine, as well as many scholastics and early moderns, rejected Matter Theory on religious grounds. God *created* matter, and so it cannot be bad in itself. Instead of reverting to pure Absence Theory, however, these monotheists developed the *Privation Theory of Evil*. This can be construed as Absence Theory plus the Aristotelian idea that goodness is relative to a thing’s *kind*. Individuals of different kinds have different ends dictated by their natures: as long as the dog achieves the ends set out by its nature, it counts as *fully* good of its canine kind, even if it essentially lacks the good-making capacities (or “realities”) of beings higher on the chain. (For more on Augustine’s version, see King 2019; on Aquinas, see Davies 2019)[^davies-2019][^king-2019].
+    step1: |-
+      奥古斯丁以及许多经院哲学家和早期现代哲学家，出于宗教理由拒斥质料论。上帝*创造*了质料，所以质料本身不可能是坏的。然而，这些一神论者并未退回纯粹的缺失论，而是发展出*恶的褫夺论*。它可以被解释为缺失论加上亚里士多德的一个观念：善相对于事物的*种类*。不同种类的个体有由各自本性所规定的不同目的：只要狗达成了其本性所设定的目的，就算作其犬类中*完全*善的，即使它本质上缺乏链条上更高存在者那些成就善的能力（或“实在”）。
+    step2: |-
+      奥古斯丁连同许多经院学者、早期现代哲学家，都以宗教理由否弃质料论：质料是上帝*所造*，本身不可能坏。可他们并未退回纯粹的缺失论，而是另立*恶的褫夺论*（Privation Theory of Evil）。此说可解作缺失论再加上亚里士多德的一条：善是相对于事物的*种类*而言的。不同种类之物，其本性各有目的；狗只要达成犬类本性所立的目的，就算作犬类中*十足*的善，纵然它本质上缺少链条上更高存在者那些成就善的能力（或“实在”）。
+  - id: 52
+    kind: body
+    source: |-
+      Privation Theory thus reduces pressure on monotheism: evil is not a being but rather an absence, and so God did not create it. Moreover, evil is the kind of absence that is *not* a function of the essential natures of things, and so God cannot be faulted for creating things that are essentially evil. Failing to accomplish the end set out by one’s nature—failing to be the way one *ought* to be—*is* a privation, however, and so it is evil.
+    step1: |-
+      于是，褫夺论减轻了一神论所受的压力：恶不是一个存在者，而是一种缺失，因此上帝并未创造它。再者，恶是那种*并非*事物本质本性之函数的缺失，因此不能责怪上帝创造了本质上恶的事物。然而，未能达成自身本性所设定的目的——未能成为自己*应当*成为的样子——*就是*一种褫夺，因而就是恶。
+    step2: |-
+      褫夺论由此替一神论卸了些压力：恶不是存在者，只是一种缺失，所以上帝没有创造它。再者，恶这种缺失*并不*出于事物的本质本性，所以也不能怪上帝造出了本质上为恶的东西。可是，未能达成本性所立的目的——未能成为自己*应当*成为的样子——*本身*就是褫夺，也就是恶。
+  - id: 53
+    kind: body
+    source: |-
+      Friends of Privation Theory offer different accounts of how and why things fail to accomplish their natural end. Most ascribe the failure to something *in* the individual creature—culpable ignorance, Original Sin, free agency—rather than to God, thereby grounding metaphysical evil in moral evil (on which see section 4.1 below). The extent to which these appeals to privation succeed in getting God off the hook is, naturally, controversial.
+    step1: |-
+      褫夺论的支持者对事物如何以及为何未能达成其自然目的给出不同解释。多数人把失败归因于个体造物*之中*的某种东西——该受责备的无知、原罪、自由能动性——而非归于上帝，从而把形而上学之恶奠基于道德之恶（详见下文 4.1 节）。这些诉诸褫夺的论证在多大程度上真能让上帝脱责，自然是有争议的。
+    step2: |-
+      事物何以未能达成自然目的，褫夺论者各有说法。多数人把过失算在个体造物*内部*的什么东西上——咎由自取的无知、原罪、自由选择——而不算在上帝头上；形而上学之恶由此奠基于道德之恶（详见下文 4.1 节）。这类诉诸褫夺的论证究竟能让上帝卸下多少责任，自然聚讼纷纭。
+  - id: 54
+    kind: body
+    source: |-
+      Plotinus’s view is effectively a hybrid of Privation Theory and Matter Theory: for him, privation only occurs when some of the matter in something is unformed or unmastered by a form (see *Enneads* I, 8, 5, 19–26). But even if other Privation Theorists do not view privation in this way, the conception of evil as infinitely distant from reason and intelligibility survives. In other words, Ignorance, Original Sin, and other misuses of freedom are not necessarily a function of irrational *matter*, but they are still opposed to rational *mind*. Descartes is illustrative here: for him, the *only* teleology (and privation) in the world relates to the souls—and in particular the wills—of human beings. Material substance is mechanistic, and aggregates of it (in the forms of animals and plants) can be explained mechanistically, without invoking teleology or kind-relative values (compare Newlands 2019)[^newlands-2019].
+    step1: |-
+      普罗提诺的观点实际上是褫夺论与质料论的混合：在他看来，只有当某物中的部分质料未成形、未被形式统摄时，褫夺才会发生（见《九章集》I, 8, 5, 19–26）。但即便其他褫夺论者不这样看褫夺，“恶无限远离理性与可理解性”这一构想仍然留存。换言之，无知、原罪以及其他对自由的误用，未必是非理性*质料*的函数，但它们仍与理性*心灵*相对。笛卡尔在此可作说明：对他而言，世上*唯一*的目的论（以及褫夺）关乎人的灵魂——尤其是人的意志。物质实体是机械的，其聚集体（以动植物形式出现者）可以机械地解释，无须援引目的论或种类相对的价值（比较 Newlands 2019）[^newlands-2019]。
+    step2: |-
+      普罗提诺的立场，实际上把褫夺论与质料论混在一起：在他看来，只有一物中的部分质料未成形、未被形式驾驭时，才谈得上褫夺（见《九章集》I, 8, 5, 19–26）。不过，别的褫夺论者纵不如此理解褫夺，“恶与理性、与可理解性相距无限远”这一构想仍然留了下来。换句话说，无知、原罪以及对自由的其他误用，未必出于无理性的*质料*，却终究与理性的*心灵*相悖。笛卡尔可为例证：在他看来，世上*唯一*的目的论（以及褫夺）系于人的灵魂，尤其是人的意志。物质实体是机械的；物质聚成之物（动植物即其形态）尽可作机械解释，无须请出目的论，也无须谈什么种类相对的价值（比较 Newlands 2019）[^newlands-2019]。
+  - id: 55
+    kind: body
+    source: |-
+      #### 3.1.4 Real Property Theory
+    step1: |-
+      #### 3.1.4 实在属性论
+    step2: |-
+      #### 3.1.4 实在属性论
+  - id: 56
+    kind: body
+    source: |-
+      A fourth major account of the nature of metaphysical evil takes it to be something more substantive than absence, privation, or unformed matter. Call this the *Real Property Theory of Evil*: evil is some sort of *reality*—a determinate feature of certain finite beings (see J. Russell 1977, 1981, and Frankfurter 2006)[^frankfurter-2006][^russell-1977]. Some versions of this picture say that evil is ultimately dependent on the good. Other, more Manichaean versions take the two to be coeval and independent, locked in an eternal axiological struggle. Although the relevant “property” here is supposed to have more reality or substance than mere absence or privation, there is still a kind of unintelligibility to it. The evil side of reality, the dark force, or the malevolent will is a kind of black hole for the “natural light” of reason—positively real, but inaccessible to complete explanation.
+    step1: |-
+      关于形而上学恶之性质的第四种主要解释，认为它比缺失、褫夺或未成形质料更具实体性。不妨称之为*恶的实在属性论*：恶是某种*实在*——某些有限存在者的确定特征。这一图景的某些版本主张，恶终究依赖于善。另一些更接近摩尼教的版本则认为二者同时并存、彼此独立，陷于永恒的价值论斗争。尽管此处所谓“属性”被认为比单纯的缺失或褫夺更具实在性或实体性，它仍带有某种不可理解性。实在的暗面、黑暗力量或恶意意志，是理性“自然之光”的黑洞——确实实在，却无法得到完整的解释。
+    step2: |-
+      第四种关于形而上学之恶的主要解释，认为它比缺失、褫夺、未成形的质料都更实在。这就是*恶的实在属性论*：恶是一种*实在*，是某些有限存在者身上确定的特征。此说的某些版本仍让恶最终依赖于善；另一些版本更近摩尼教，主张善恶同时并存、各自独立，在价值论上永久角力。这里所谓的“属性”虽比单纯的缺失或褫夺更实在、更有实体味，却也仍带着某种不可理解性。实在的暗面、黑暗的力量、恶意的意志，之于理性的“自然之光”，犹如黑洞：确确实实在那儿，却怎么也照不透。
+  - id: 57
+    kind: body
+    source: |-
+      ### 3.2 Empirical Evil
+    step1: |-
+      ### 3.2 经验之恶
+    step2: |-
+      ### 3.2 经验之恶
+  - id: 58
+    kind: body
+    source: |-
+      *Empirical evil* is a capacious category: it covers bodily pain, damage, and disease as well as the psychological *concomitants* or *effects* of these physical phenomena—suffering, terror, depression, mental illness. Traditionally, it has also included social ills such as oppression, poverty, and structural injustice (see Sharpe 1909)[^sharpe-1909]. Philosophers who believe in metaphysical evil often take them to manifest in empirical evils. Philosophers who reject metaphysical evil, by contrast, take the empirical kind to be fundamental.
+    step1: |-
+      *经验之恶*是一个宽泛的范畴：它涵盖身体痛苦、损伤与疾病，也涵盖这些物理现象的心理*伴随物*或*效应*——苦难、恐惧、抑郁、精神疾病。传统上，它还包括压迫、贫困、结构性不义等社会弊害（见 Sharpe 1909）[^sharpe-1909]。相信形而上学之恶的哲学家，常认为它们表现于经验之恶中。相反，拒斥形而上学之恶的哲学家则认为经验层面才是根本。
+    step2: |-
+      *经验之恶*名目很宽：身体上的疼痛、损伤、疾病固然在内，这些物理现象在心理上的*伴随物*或*效应*——苦难、恐惧、抑郁、精神疾患——也算；传统上还捎上压迫、贫困、结构性不义这类社会弊病（见 Sharpe 1909）[^sharpe-1909]。信形而上学之恶的哲学家，多认为它要在经验之恶里现身；不承认形而上学之恶的哲学家，则把经验层面看作根本。
+  - id: 59
+    kind: body
+    source: |-
+      Calling pain an evil might raise eyebrows, since clearly some pain is beneficial: it protects us from collisions, diseases, and predators. But the idea is that, whatever instrumental uses it has, pain *qua phenomenal quality*—the *feeling* of it—is *intrinsically* bad (setting aside for these purposes tricky cases like that of the masochist who takes pleasure in experiencing pain). Pain in the horrendous amounts and kinds that we encounter in human history as well as in the “charnel house” of evolutionary history is sickeningly and obviously bad (Murray 2008; Martin & Watkins 2019)[^martin-2019][^murray-2008].
+    step1: |-
+      把痛苦称为恶，或许会让人挑眉，因为有些痛苦显然有益：它保护我们免于碰撞、疾病与掠食者。但这里的想法是：无论痛苦有何工具性用途，痛苦*作为现象性质*——痛苦之*感觉*——就*内在地*是坏的（此处姑且撇开受虐者从痛苦中取乐之类的棘手情形）。人类历史中以及进化史的“藏骸所”中所遇到的那种数量与种类骇人的痛苦，令人作呕地、显而易见地是坏的（Murray 2008；Martin & Watkins 2019）[^martin-2019][^murray-2008]。
+    step2: |-
+      把痛苦叫作恶，怕有人要皱眉：有些痛苦分明有益，能让人免于碰撞、疾病、猛兽。可这里的意思是：不管痛苦有多少工具性的用处，痛苦*作为现象性质*——那份*痛感*本身——就*内在地*坏（受虐者以痛为乐之类的棘手情形，此处搁置不论）。人类历史上、进化史那座“藏骸所”里所见的那种量与那种类的痛苦，恶心得明明白白，坏得不容置疑（Murray 2008；Martin & Watkins 2019）[^martin-2019][^murray-2008]。
+  - id: 60
+    kind: body
+    source: |-
+      The templates used to characterize metaphysical evil above can be applied to empirical evil, too. An *Absence Theory* of empirical evil construes it simply as the absence of physical-psychological states of pleasure, health, stability, justice, and even life. *Matter Theory* regards pain, disease, mental malaise, and social ills as effects of our standing as material beings, vulnerable to the “matter” in our organism breaking down or coming into conflict with other parts of material creation. *Privation Theory* says that empirical evil is the absence of some such good which *ought* to exist. There will then be different accounts of why the good ought to exist, and why it doesn’t—some of these will be based in a theory of metaphysical evil.
+    step1: |-
+      上文用以刻画形而上学之恶的模板，也可用于经验之恶。经验之恶的*缺失论*把它径直解释为快乐、健康、稳定、正义乃至生命等身心状态的缺失。*质料论*把痛苦、疾病、精神不适与社会弊害，视为我们作为物质存在者的处境所生的效应：我们机体中的“质料”会败坏，或与物质造物的其他部分相冲突。*褫夺论*则说，经验之恶是某种*本应*存在的善的缺失。至于那种善为何应当存在、又为何不存在，会有不同解释——其中一些以某种形而上学之恶的理论为根据。
+    step2: |-
+      上文刻画形而上学之恶的那几套模板，用到经验之恶上也合适。经验之恶的*缺失论*说得干脆：它就是快乐、健康、安稳、正义乃至生命这些身心状态的缺失。*质料论*则把痛苦、疾病、精神萎靡与社会弊病，看作我们身为物质存在者的处境所致：机体里的“质料”会坏，会跟物质造物的其他部分打架。*褫夺论*说：经验之恶是某种*本应*存在的善之缺失。至于那种善何以应当存在、又何以偏偏不在，各家解释不同，有些正立足于某种形而上学之恶的理论。
+  - id: 61
+    kind: body
+    source: |-
+      A *Real Property Theory* of empirical evil, by contrast, insists that pain and suffering are positive realities and not mere absences (it is thus compatible with Matter Theory, but not with Absence or Privation Theory). As Malebranche notes, this is problematic in theological contexts, since God is supposed to be the ground of all positive beings (see Malebranche 1674–5 [1997: 348 and 392])[^malebranche-1674]. In a letter to a mathematician named Arnold Eckhard, G.W. Leibniz discusses this issue, and suggests “with some scruples” that “pain too is a perfection” (1677 [1969: 177]). That is a fairly unusual view, one that is made particularly poignant by the fact that Leibniz himself spent the last few years of his life in immense pain. He apparently had a habit of sleeping in a chair near his writing desk, and it
+    step1: |-
+      相反，经验之恶的*实在属性论*坚持认为，痛苦与苦难是积极的实在，而不只是缺失（因此它与质料论相容，而与缺失论或褫夺论不相容）。正如马勒布朗士所指出的，这在神学语境中颇成问题，因为上帝被设想为一切积极存在者的根据（见 Malebranche 1674–5 [1997: 348 and 392]）[^malebranche-1674]。在致一位名叫阿诺德·埃克哈德的数学家的信中，莱布尼茨讨论了这个问题，并“带着几分疑虑”提出“痛苦也是一种完善”（1677 [1969: 177]）。这是个相当不寻常的观点，而莱布尼茨本人在生命最后几年饱受剧痛，更使这一观点显得格外酸楚。他显然习惯在书桌旁的椅子上睡觉，而这
+    step2: |-
+      与此相反，经验之恶的*实在属性论*一口咬定：痛苦与苦难是积极的实在，不止是缺失（故此说与质料论相容，与缺失论、褫夺论则不两立）。马勒布朗士早已指出，这在神学上很别扭：上帝按理是一切积极存在者的根据（见 Malebranche 1674–5 [1997: 348 and 392]）[^malebranche-1674]。莱布尼茨在写给数学家阿诺德·埃克哈德（Arnold Eckhard）的信里也碰到这问题，于是“颇有些迟疑地”提出：“痛苦也是一种完善”（1677 [1969: 177]）。这说法相当特别；更叫人唏嘘的是，莱布尼茨晚年正是被剧痛折磨了好几年。据说他惯于在书桌旁的椅子上打盹，结果
+  - id: 62
+    kind: body
+    source: |-
+      > led to his having an open sore on his right leg. This caused him difficulty in walking; he tried to remedy it, but only by putting blotting paper on it. Later, to reduce the pain and to make the nerves insensitive he had a number of wooden clamps made, and these he screwed onto himself wherever he felt pain. I suspect that by doing this he so damaged his nerves that eventually he could no longer use his feet and had to stay in bed. (Guhrauer 1842 [1966: vol 2, p.336]; quoted in Mates 1989: 29)[^guhrauer-1842][^mates-1989]
+    step1: |-
+      > 导致他右腿生了溃疡。这使他行走困难；他试图补救，却只是往上面贴吸墨纸。后来，为减轻疼痛、使神经麻木，他让人做了若干木夹，哪里疼就往哪里拧。我猜想，如此折腾之下，他的神经损伤过甚，最终双脚不能再走，只能卧床。（Guhrauer 1842 [1966: 第 2 卷, 第 336 页]；引自 Mates 1989: 29）[^guhrauer-1842][^mates-1989]
+    step2: |-
+      > 右腿落了个敞口的疮。走路因此艰难；他想治，办法却只是往疮上贴吸墨纸。后来为了止痛、让神经麻木，他叫人做了不少木夹子，哪儿疼就往哪儿拧。我猜这么一来，神经伤得太狠，末了双脚再也使不上，只能卧床。（Guhrauer 1842 [1966: 第 2 卷，第 336 页]；引自 Mates 1989: 29）[^guhrauer-1842][^mates-1989]
+  - id: 63
+    kind: body
+    source: |-
+      Although such pain is a “perfection” and thus a real property, for Leibniz, it still involves a kind of weakness or imperfection in the person who *has* it, and so God cannot, in the end, exemplify this “perfection”. Rather, God’s possession of maximal pleasure is somehow sufficient to ground the “reality” that is found in both pleasure and pain (Leibniz 1677 [1969: 177])[^leibniz-1677]. This seems fishy, and other philosophers argue against Leibniz that if pain is a real property (rather than a mere absence), then God as the “ground of all reality” must indeed exemplify it. Some recent theologians and philosophers even welcome this idea, arguing that a conception of God as grounding empirical evil by *suffering* it has advantages for projects in theodicy (Hartshorne 1984; Wolterstorff 1988)[^hartshorne-1984][^wolterstorff-1988].
+    step1: |-
+      尽管这种痛苦是一种“完善”，因而是实在属性，但在莱布尼茨看来，它仍涉及*拥有*该痛苦者身上的某种虚弱或不完善，所以上帝归根到底不能例示这种“完善”。毋宁说，上帝拥有最大限度的快乐，便以某种方式足以充当快乐与痛苦中同样可见的那种“实在”的根据（Leibniz 1677 [1969: 177]）[^leibniz-1677]。这显得可疑；其他哲学家反驳莱布尼茨说，如果痛苦是实在属性（而不只是缺失），那么作为“一切实在之根据”的上帝必定也例示它。一些晚近的神学家与哲学家甚至欢迎这一想法，主张把上帝设想为通过*承受*经验之恶而为其奠定根据，这对神义论方案有所助益（Hartshorne 1984；Wolterstorff 1988）[^hartshorne-1984][^wolterstorff-1988]。
+    step2: |-
+      在莱布尼茨看来，这种痛固然是“完善”，是实在属性；可它毕竟连着*有痛者*的某种虚弱与欠缺，所以上帝到头来不能例示这份“完善”。他宁可说：上帝享有至极的快乐，这已足以充当那份“实在”的根据——快乐与痛苦中所见的实在，皆出于此（Leibniz 1677 [1969: 177]）[^leibniz-1677]。这话听着可疑。别的哲学家便反驳说：痛苦若是实在属性，而非单纯的缺失，那么作为“一切实在之根据”的上帝，就非例示它不可。晚近有些神学家与哲学家反倒欢迎这个结论，认为把上帝设想为以*受苦*来为经验之恶奠基，于神义论方案有益（Hartshorne 1984；Wolterstorff 1988）[^hartshorne-1984][^wolterstorff-1988]。
+  - id: 64
+    kind: body
+    source: |-
+      Mental illnesses can be classified as “empirical evils” if we assume that they have empirical causes and neural bases (Bhattacharjee 2018)[^bhattacharjee-2018]. Such illness often generates further empirical evil in the form of inexplicably cruel or destructive behavior to self and others, as will be familiar to anyone who has tried to live (or love someone) with mental illnesses like posttraumatic stress disorder (PTSD), borderline personality disorder, schizophrenia, and so on. It is unclear whether the theologians just mentioned would want to say that this kind of empirical evil, too, must have its ground in the divine by way of exemplification. The theological consequences of such a suggestion seem unattractive, to say the least.
+    step1: |-
+      如果我们假定精神疾病有经验原因与神经基础，那么它们可被归入“经验之恶”（Bhattacharjee 2018）[^bhattacharjee-2018]。这类疾病常常产生进一步的经验之恶，其形式是对己对人难以解释的残忍或破坏行为；凡与创伤后应激障碍（PTSD）、边缘型人格障碍、精神分裂症等精神疾病共同生活过（或爱过这样的人）者，对此都不陌生。刚才提到的那些神学家是否愿意说，这类经验之恶也必须以上帝的例示为根据，尚不清楚。这种主张的神学后果，至少可以说并不讨人喜欢。
+    step2: |-
+      倘或认定精神疾患自有经验的原因与神经基础，它们便可归入“经验之恶”（Bhattacharjee 2018）[^bhattacharjee-2018]。这类病往往再生出经验之恶：对己对人做出匪夷所思的残忍或破坏之事。凡与创伤后应激障碍（PTSD）、边缘型人格障碍、精神分裂症之类的病共处过——或爱过这样的人——都晓得那是什么滋味。前面提到的那些神学家，是否肯说这类经验之恶也非得由上帝例示来奠基，尚未可知。真这么说，神学上的后果至少谈不上讨喜。
+  - id: 65
+    kind: body
+    source: |-
+      ## 4. Origins of Evil: Moral and Natural
+    step1: |-
+      ## 4. 恶的起源：道德的与自然的
+    step2: |-
+      ## 4. 恶的起源：道德的与自然的
+  - id: 66
+    kind: body
+    source: |-
+      ### 4.1 Moral Evil
+    step1: |-
+      ### 4.1 道德之恶
+    step2: |-
+      ### 4.1 道德之恶
+  - id: 67
+    kind: body
+    source: |-
+      *Moral evil* is metaphysical or empirical evil that arises out of the acts or intentions of agents: other traditional terms for it include “sin”, “wickedness”, “trespass”, and “iniquity”.
+    step1: TBD
+    step2: TBD
+  - id: 68
+    kind: body
+    source: |-
+      Philosophers in the Abrahamic tradition typically hold that we can be damaged by moral evil even before we have *performed* any actions whatsoever. Augustine, for example, characterizes Original Sin as a result of a primordial choice that *damaged* our very nature such that each member of the species is born already worthy of infinite punishment and strongly inclined to engage in further moral evil. So this is a case of metaphysical evil that has its origin in moral evil: bad choices on the part of the forefather led to damaged natures all the way down the spermatic line.
+    step1: TBD
+    step2: TBD
+  - id: 69
+    kind: body
+    source: |-
+      Such metaphysical evil will often manifest in empirical evil (although it need not do so); it also makes it likely that there will be further metaphysical evil. Thus an initial moral choice starts off a kind of snowballing into hellishness. It is clear why ancient and medieval and even some contemporary responses to the “*Unde Malum?*” question focus on how a morally uncorrupted creature (Adam, Eve, or Lucifer) could have started the process in the first place (see, e.g., Anselm *De Casu Diaboli*, vol.1 and Johnston forthcoming).
+    step1: TBD
+    step2: TBD
+  - id: 70
+    kind: body
+    source: |-
+      Kant appropriates this idea in a modern context, arguing that we are all originally afflicted by a *propensity* to moral evil (*Hang zum Bösen*), even apart from any specific actions that we perform. This “radical evil”—the metaphysical evil at the root of our nature (“*radix*” = Latin for “root”)—is something for which not Adam but *we* as individual agents (or perhaps the *species itself*) are somehow responsible. And this is reflected even in garden-variety peccadillos: any act that subordinates commitment to the moral law to something else is an expression of radical evil. This makes it clear that people who use “radical evil” to refer to something particularly horrendous or awful (Arendt 1951, Bernstein 2002)[^arendt-1951][^bernstein-2002] are departing from the Kantian concept (see Section 7 below). That said, whether it is intelligible to say that we are culpable for a status that is not *temporal* is a notoriously open question in Kant-interpretation (see Card 2010, Wood 2010, and other essays in Anderson-Gold & Muchnik 2010)[^anderson-gold-2010][^card-2010][^wood-2010].
+    step1: TBD
+    step2: TBD
+  - id: 71
+    kind: body
+    source: |-
+      Although moral evildoing *often* leads to empirical evil, it needn’t do so, at least on non-utilitarian accounts. Some crimes can be “victimless” at the empirical level.
+    step1: TBD
+    step2: TBD
+  - id: 72
+    kind: body
+    source: |-
+      Once again, the four traditional theoretical templates can be used to further characterize the evil acts and intentions that make an evil “moral”. *Absence Theory* says that the *absence* of a good will—either because something lacks a will altogether, or because its will is not good—is evil just by way of being an absence. *Privation Theory* says that a will is evil when it *ought* not have the absence of good orientation that it does. *Matter Theory* says that our embodiment and other engagements with matter explain the misorientation of our will. *Real Property Theory* insists that a will that is oriented to the bad is a *real* thing, and that its orientation to the bad is a *real* feature of it, not just a privation.
+    step1: TBD
+    step2: TBD
+  - id: 73
+    kind: body
+    source: |-
+      Declaring that moral evil is rooted in the will does not fully *explain* it. We would need a further account of *how* evil choices are made—of what sort of moral psychology could explain them. For Kant, explanation ceases at some point; evil choices, at bottom, are irrational—surds that we can identify and impute, but never fully explain. “There is no conceivable ground for us, therefore, from which moral evil could first have come in us” (Kant 1793 [AK 6:43; 1998: 64])[^kant-1793].
+    step1: TBD
+    step2: TBD
+  - id: 74
+    kind: body
+    source: |-
+      Other philosophers offer partial explanations. Augustine says that although there is no *determining* cause of the devil’s choice, it is able to be partly “rationalized” in terms of Satan’s self-obsessed delight in his own powers (see King 2019)[^king-2019]. This is an early version of what is now called a “dispositional” account of evil agency (L. Russell 2014: ch.10; Kamtekar 2019)[^kamtekar-2019][^russell-2014]. Early Islamic interpreters of the Qu’ran, by contrast, offer explanations in terms of ignorance: there is something that the supremely evil agent (Iblis) didn’t realize, or an inference that he failed to make, and this is what explains his orientation to the bad (see Germann 2019)[^germann-2019].
+    step1: TBD
+    step2: TBD
+  - id: 75
+    kind: body
+    source: |-
+      Moral evil is what contemporary people—including philosophers—tend to have in mind when they talk of “evil”. Extreme forms of it are viewed by many philosophers view as “unintelligible”—as defying ordinary explanation in significant and threatening ways. Such extreme and unintelligible moral evils are what many philosophers (though not Kant) are referring to when they speak of “radical” evil (Arendt 1951; L. Russell 2014; see also Section 7)[^arendt-1951][^russell-2014].
+    step1: TBD
+    step2: TBD
+  - id: 76
+    kind: body
+    source: |-
+      ### 4.2 Natural Evil
+    step1: TBD
+    step2: TBD
+  - id: 77
+    kind: body
+    source: |-
+      *Natural evil* refers to metaphysical and/or empirical evils whose origins are “natural”—i.e., grounded in the natures of things and/or the natural laws. The very nature of a horse makes it incapable of language: if that incapacity is a metaphysical evil (as it would be on Absence Theory), then given its origin it also counts as a natural rather than a moral evil. Likewise, cancer, pandemics, earthquakes, meteor strikes, aging and perhaps even death itself are (typically) regarded as natural rather than moral evils. In the tradition there are characterizations of natural evil that use one or more of the four templates discussed earlier: *Absence*, *Privation*, malfunctions in *Matter*, or some other *Real Property*.
+    step1: TBD
+    step2: TBD
+  - id: 78
+    kind: body
+    source: |-
+      Outside of religious contexts, however, many philosophers (and people generally) will be reluctant to characterize hurricanes, diseases, and meteor strikes as a source of “evil”. The very idea of natural *evil* seems most at home in theological debates: can the Author of Nature be supremely good, wise, and powerful and yet still create a world that contains so much pain and suffering, not to mention Category Five hurricanes, animal predation, and Alzheimer’s Disease?
+    step1: TBD
+    step2: TBD
+  - id: 79
+    kind: body
+    source: |-
+      There are different kinds of responses to the problem of natural evil in theological traditions: *Aesthetic* responses say that we don’t presently have the right perspective to see the overall beauty of the natural system, and thus that there really is no natural evil; *Soul-making* responses say that this present vale of natural evil is justified because it gives us the chance to become virtuous; *Skeptical theistic* responses say that given our limited faculties we cannot reasonably *expect* to understand why God would allow natural evils. (For more on these responses see M. Adams 1998, Tooley 2002 [2019])[^adams-1998][^tooley-2002].
+    step1: TBD
+    step2: TBD
+  - id: 80
+    kind: body
+    source: |-
+      A very different kind of response involves recharacterizing at least some natural evils as moral evils. For instance, we might focus on ways in which human activity has set in motion the kinds of environmental, climatic, microbial, and biospheric changes that lead to “natural” disasters, pandemics, famines, and other empirical evils. Or, in a more religious context, we might seek to explain the suffering and misery caused by “nature” by appeal to sin, karmic law, or divine justice.
+    step1: TBD
+    step2: TBD
+  - id: 81
+    kind: body
+    source: |-
+      On some versions of this view, the morally responsible agent can be someone other than the victim: Adam sins, and now the non-human “creation has been growning” (*Romans* 8:22, NRSV)—and makes the rest of us groan along with it. Or: we emit the greenhouse gasses, and our descendants three generations later suffer.
+    step1: TBD
+    step2: TBD
+  - id: 82
+    kind: body
+    source: |-
+      Other versions insist that the fault lies with the victim of natural evil himself: Eliphaz the Temanite says to Job
+    step1: TBD
+    step2: TBD
+  - id: 83
+    kind: body
+    source: |-
+      > Think now, who that was innocent ever perished? Or where were the upright cut off? As I have seen, those who plow iniquity and sow trouble reap the same. By the breath of God they perish, and by the blast of his anger they are consumed. The roar of the lion, the voice of the fierce lion, and the teeth of the young lions are broken. (*Job* 4: 7–10, NRSV)
+    step1: TBD
+    step2: TBD
+  - id: 84
+    kind: body
+    source: |-
+      Eliphaz suggests that if Job continues to suffer, then there must be some explanation for these natural evils in Job’s own past behavior. The risk in this kind of doctrine will be obvious to less ancient sensibilities: to suggest that a victim of natural evil must be morally responsible for it seems like the very definition of adding insult to injury.
+    step1: TBD
+    step2: TBD
+  - id: 85
+    kind: body
+    source: |-
+      Another way to recharacterize natural evil as moral evil is by appealing to the actions of moral agents who are neither divine nor human. This appears to have been Augustine’s position in places; more recently, it has been invoked by Alvin Plantinga as an at least *broadly logically possible* scenario which could be used in a “defense” against the logical problem of evil (Tooley 2002 [2019])[^tooley-2002]. The scenario says that
+    step1: TBD
+    step2: TBD
+  - id: 86
+    kind: body
+    source: |-
+      > [n]atural evil is due to the free actions of nonhuman persons; there is a balance of good over evil with respect to the actions of these nonhuman persons; and it was not within the power of God to create a world that contains a more favorable balance of good over evil with respect to the actions of the nonhuman persons it contains. (Plantinga 1989: 58)[^plantinga-1989]
+    step1: TBD
+    step2: TBD
+  - id: 87
+    kind: body
+    source: |-
+      A final way to recharacterize natural evil as moral would simply be to hold *God alone* morally blameworthy for it, since God created a world in which sentient creatures suffer so terribly. Obviously this would not be a winning strategy if the goal is a successful theodicy. Indeed, some theistic traditions block this route *a priori* by saying that it is conceptually impossible for God to do wrong: a perfect creator is either unbound by moral principles, or essentially incapable of violating them (see Murphy 2017)[^murphy-2017].
+    step1: TBD
+    step2: TBD
+  - id: 88
+    kind: body
+    source: |-
+      If these efforts to locate a moral basis for natural evil (whether empirical or metaphysical) are unsuccessful, then “natural” remains a distinct category of evil’s origin.
+    step1: TBD
+    step2: TBD
+  - id: 89
+    kind: body
+    source: |-
+      Here again is our Table of Evils, now with more examples that go beyond Nietzsche’s horse case:
+    step1: TBD
+    step2: TBD
+  - id: 90
+    kind: body
+    source: |-
+      *Figure 2.*
+    step1: TBD
+    step2: TBD
+  - id: 91
+    kind: body
+    source: |-
+      | Origins: | *Natural* | *Moral* | *Spooky non-agential* |
+      | --- | --- | --- | --- |
+      | Kinds: |   |   |   |
+      | *Metaphysical* | The finitude and other limitations that are essential to an individual or species-nature and that are ultimately based in facts about natures. | The finitude, limitations, and corruption that are essential to an individual or species-nature and the result of damage to natures, which damage is ultimately based in facts about immoral acts and intentions (e.g., Original Sin) | The finitude, limitations, and corruption that are essential to an individual or species-nature and are ultimately based in facts about a dark force or shadow-side principle in reality. |
+      | *Empirical* | Pain, suffering, and illness (including mental) whose ultimate explanation consists in causal facts (e.g., aging, accidents, genetic defects, disasters and other natural phenomena). | Pain, suffering, and illness (including mental) whose ultimate explanation consists in facts about immoral acts and intentions (e.g., interpersonal violence, social ills, self-harm) | Pain, suffering, and illness (including mental) whose ultimate explanation consists in facts about a dark force or shadow-side principle in reality. |
+    step1: TBD
+    step2: TBD
+  - id: 92
+    kind: body
+    source: |-
+      Figure 2. The Table of Evils, with general examples
+    step1: TBD
+    step2: TBD
+  - id: 93
+    kind: body
+    source: |-
+      Some types of evil do not seem to fit nicely in the Table of Evils. The three dealt with in what follows are *systemic evil, symbolic evil*, and *radical evil*. The nature and the origins of such evils are difficult to discern, and may require an expansion of the Table.
+    step1: TBD
+    step2: TBD
+  - id: 94
+    kind: body
+    source: |-
+      ## 5. Systemic Evil
+    step1: TBD
+    step2: TBD
+  - id: 95
+    kind: body
+    source: |-
+      *Systemic evil* is the kind of evil that exists at the level of systems or groups rather than merely at the level of individuals. Organized structures like governments, corporations, teams, and religious institutions can be evil in this way; so can more loosely-organized systems such as “Academia”, “White Supremacy”, and “Wall Street”. Indeed, Google includes the motto “Don’t Be Evil” in its *Company Code of Conduct* (for the origins of this, see Chang 2019)[^chang-2019]; disgruntled employees later sued the company alleging that it had violated that pledge (Allyn 2021)[^allyn-2021].
+    step1: TBD
+    step2: TBD
+  - id: 96
+    kind: body
+    source: |-
+      Systemic evil seems empirical rather than metaphysical, but its origins are difficult to identify. It does not appear to be a merely natural phenomenon, or a spooky non-agential one, and yet its supra-agential character makes it seem not entirely moral either.
+    step1: TBD
+    step2: TBD
+  - id: 97
+    kind: body
+    source: |-
+      Hannah Arendt’s early work on totalitarianism (1951) depicts systemic evil as a kind of empirical evil for which *no* individual or even collection of individuals is fully responsible. The cogs in the machine, as well as the leader or leadership, may be the origin of some of the harms involved, but the evil of the whole structure (on Arendt’s view) is somehow greater than the sum produced by its parts.
+    step1: TBD
+    step2: TBD
+  - id: 98
+    kind: body
+    source: |-
+      Racism is another prominent example of systemic evil. Recent accounts of entrenched racist structures in certain societies (the United States, for instance) suggest that such evil has its origin not merely in actions and intentions but also in *omissions* and *passivity:* people who do *not* explicitly support the systemic evil can count as agents of it. If this is right, then active work against the evil in question—“anti-racist” activity rather than “non-racist” activity, for example—becomes morally required (Kendi 2019)[^kendi-2019]. But even such active opposition efforts may not be sufficient to avoid complicity in systemic evil: some theorists argue that even anti-racist people living in racist societies are “tainted” by its evil all the same (Rothstein 2017)[^rothstein-2017]. That leads to the next kind of problem case.
+    step1: TBD
+    step2: TBD
+  - id: 99
+    kind: body
+    source: |-
+      ## 6. Symbolic Evil
+    step1: TBD
+    step2: TBD
+  - id: 100
+    kind: body
+    source: |-
+      *Symbolic value* is a less familiar idea in philosophy than it is in Anthropology, Religious Studies, and the other social sciences that deal with production, exchange, and consumption. The main idea is that an object or act can have far more “symbolic” value to a certain individual than its exchange or monetary value on some market or other, typically because of its causal history. That bauble given to you by a now-deceased friend has far more symbolic value (to you, at least) than the monetary or exchange value that it would fetch at auction. This is because the gift had its origin in the generosity of a friend who has since died, has the ability to invoke his memory, and so on.
+    step1: TBD
+    step2: TBD
+  - id: 101
+    kind: body
+    source: |-
+      Symbolic *disvalue* works in an analogous way. Products that fetch a certain monetary value on an open market may have significant symbolic *disvalue* that is not reflected in their price. This disvalue often arises, again, from the product’s provenance: an industrial chicken sandwich is a result of the obscene degradation of animals, workers, and the environment on the part of an industry that pays revolving-door lobbyists to promote food policy that, in turn, keeps production costs and prices artificially low, in part by externalizing most of the harms it causes. In some cases, such disvalue may be significant enough to make purchasing the product wrong, even if doing so does not lead, causally, to any actual harm or rights-infringement (see Chignell 2016)[^chignell-2016].
+    step1: TBD
+    step2: TBD
+  - id: 102
+    kind: body
+    source: |-
+      The term “evil” is typically only applied in cases of symbolic disvalue when there is something excessive about them. Stepping on a flag or consuming a chicken sandwich might have some symbolic disvalue, but it would be strange to say that these are cases of symbolic *evil*. Having anything to do with soap made from the body fat of people murdered at the Stutthof concentration camp, by contrast, seems downright evil, even if the intended consequences (i.e., getting oneself clean) are good. Indeed, the symbolic evil attached to such a product may “touch” everyone who was part of the society that permitted its manufacture, whether they were directly involved or not. The evil of sustained chattel slavery may have a similar sort of symbolic power, even generations later.
+    step1: TBD
+    step2: TBD
+  - id: 103
+    kind: body
+    source: |-
+      Both the nature and the origins of symbolic evil are hard to characterize; thus it is hard to see where it fits in the Table of Evils. Is there a metaphysical aspect to symbolic evil, or is it fully empirical? Is its origin entirely natural, or moral, or is there something spooky and non-agential about it? A related set of difficulties has to do with the fact that, in some contexts anyway, the transfer of symbolic disvalue operates via the complex logic of “taint”, contagion, or uncleanness. Some philosophers who write about symbolic value argue that the only way to avoid being “touched” by such evil is via active and explicit *dissociation*—a symbolic “standing with the good” (R. Adams 1999)[^adams-1999]. In other words, even if our abstinence does not make a difference, we must *symbolically* oppose an evil practice by, say, explicitly signaling opposition and (where possible) refusing to consume or benefit from its results (see Hill 1983; Appiah 1986)[^appiah-1986][^hill-1983].
+    step1: TBD
+    step2: TBD
+  - id: 104
+    kind: body
+    source: |-
+      ## 7. Radical Evil: Four Conceptions
+    step1: TBD
+    step2: TBD
+  - id: 105
+    kind: body
+    source: |-
+      Kant is the source of “radical evil”, but his way of using the term is now out of favor. In fact, most people writing on this issue use the term in a precisely non-Kantian way to refer to something spectacularly excessive—an act or event whose badness is deeper and more mysterious than the badness of ordinary states or activities (Bernstein 2002)[^bernstein-2002].
+    step1: TBD
+    step2: TBD
+  - id: 106
+    kind: body
+    source: |-
+      In her famous account of the trial of Adolf Eichmann in Jerusalem, Arendt (1963) promoted the idea that even the worst evils can be “banal” and bureaucratical. A decade earlier, however, she conceived of “radical evil” quite differently. In a March 1951 letter to Karl Jaspers she wrote:
+    step1: TBD
+    step2: TBD
+  - id: 107
+    kind: body
+    source: |-
+      > We know that the greatest evils or radical evil has nothing to do anymore with humanly understandable, sinful motives. What radical evil is I don’t know, but it seems to me to somehow have to do with the following phenomenon: *making human beings as human beings superfluous*. (Arendt & Jaspers 1992: 166, emphasis added)[^arendt-1992]
+    step1: TBD
+    step2: TBD
+  - id: 108
+    kind: body
+    source: |-
+      Arendt went on in the letter to insist that “making human beings as human beings superfluous” is not the same as treating them as “mere means to an end”. She thus rejected the Kantian view that radical evil—no matter how benign or awful the effects—has its root (Latin: *radix*) in the willful violation of the categorical imperative by individual free agents (see Louden 2010: 98)[^louden-2010].
+    step1: TBD
+    step2: TBD
+  - id: 109
+    kind: body
+    source: |-
+      Jaspers’s view of radical evil, by contrast, was consistently non-exotic and Kantian: “there is evil because there is freedom. *It is only possible for the will alone to be evil*” (Jaspers 1947 [1958: 532], emphasis added)[^jaspers-1947]. According to one commentator, this focus on human freedom as the root of *all* evil is “significant and commendable”:
+    step1: TBD
+    step2: TBD
+  - id: 110
+    kind: body
+    source: |-
+      > Kant [and following him Jaspers] refuses to cater to our prurient craving for a special account that applies especially to the most extreme cases of evil…. He fears that occupying our imaginations with extreme cases of evil may be merely a way of indulging some of our nastier human traits—rationalizing our resentment and vindictiveness by supplying it with an object that would seem to justify it. (Wood 2010: 157)[^wood-2010]
+    step1: TBD
+    step2: TBD
+  - id: 111
+    kind: body
+    source: |-
+      The concerns expressed in these passages are common in discussions of the nature and origins of evil. Call them *Jaspersian concerns* for short. They are second-order concerns about how we should conceive and speak of evil, especially when calling it “radical”. The concerns fall into two broad kinds: (1) concerns about *exoticizing* wrongdoing with excess-locutions like “evil” and “radical”; and (2) concerns about *tainting* people and things that are touched by such evil, beyond the straightforward condemnation of the perpetrators (for more on such concerns, see Card 2002, Cole 2006, and Calder 2013 [2018])[^calder-2013][^card-2002][^cole-2006].
+    step1: TBD
+    step2: TBD
+  - id: 112
+    kind: body
+    source: |-
+      The Kantian conception of radical evil is considered in the next sub-section. Sections 7.2–7.4 survey three other conceptions and look at how each might raise Jaspersian concerns.
+    step1: TBD
+    step2: TBD
+  - id: 113
+    kind: body
+    source: |-
+      ### 7.1 Radical Evil as Violation of the Moral Law
+    step1: TBD
+    step2: TBD
+  - id: 114
+    kind: body
+    source: |-
+      Kant argues in *Religion within the Bounds of Reason Alone* (1793) that free choices against the moral law are unintelligible in the sense that they are *irrational*; our propensity to make them is thus an inexplicable mystery at the “root” (*radix*) of our moral psychology. The post-Kantian idealist F.W. J. Schelling, picking up the refrain, rejects the Privation Theory of radical evil in favor of the view that it has its origin in the positive, irrational decision to prefer self-advantage over the moral law, though “just how the decision for good or evil comes to pass in the individual, that is still wrapped in total darkness” (Schelling 1809 [1936: 59])[^schelling-1809].
+    step1: TBD
+    step2: TBD
+  - id: 115
+    kind: body
+    source: |-
+      On the Kantian view of radical evil, then, there is a normative sense in which it is “unintelligible”: it is an *irrational* propensity and thus cannot be “understood” in the sense that it cannot be sanctioned by proper reason. Likewise, an immoral choice cannot be fully explained: full explanations appeal to good reasons, and there are no good reasons for wrongdoing.
+    step1: TBD
+    step2: TBD
+  - id: 116
+    kind: body
+    source: |-
+      There is a broader sense of “understand” or “explain”, however, in which such evil is no mystery at all: it is the most depressingly familiar thing in the world. Everyday immoral agents presumably see what they are doing under the aspect of *some* good or other—good for their company, good for their bonuses, good for their reelection efforts—even if they also know that what they are doing is ultimately wrong. If we interpret the war cry of Milton’s Satan—“Evil be thou my good!” (1667, *Paradise Lost*, Bk IV, line 110)—as implying that he is taking evil under the guise of the good, then it is not absurd. But it is still not *wholly* intelligible, either.
+    step1: TBD
+    step2: TBD
+  - id: 117
+    kind: body
+    source: |-
+      The Kantian conception of radical evil, then, says that that the unintelligibility of wrongdoing does not prevent us from assigning blame, holding perpetrators responsible, and refusing to taint the innocent. This explains why Jaspers found the conception so attractive:
+    step1: TBD
+    step2: TBD
+  - id: 118
+    kind: body
+    source: |-
+      > To rank the will to happiness, which dominates among men’s motives, above the unconditioned law that shows itself in reason—*that* is the root of evil, the “propensity” which Kant calls “radical evil”. (Jaspers 1962: 321)[^jaspers-1962]
+    step1: TBD
+    step2: TBD
+  - id: 119
+    kind: body
+    source: |-
+      ### 7.2. Radical Evil as Choosing Evil for its own Sake
+    step1: TBD
+    step2: TBD
+  - id: 120
+    kind: body
+    source: |-
+      Some philosophers, and more than a few novelists and screenwriters, find the view that agents are always choosing under “the guise of the good” as inadequate to the psychology of extreme malevolence. It may have suited the melioristic conceptions of the Enlightenment, but the well-publicized, mechanized horrors of the recent past allegedly demand a bleaker picture of perpetrator psychology. Serial killers, murderous dictators, torturers, derivatives traders: the idea is that at least some of these malign actors *see their own actions as atrocious*—as making the world worse rather than better on the whole (and sometimes worse for themselves)—and yet still choose to perform them. They are thus not saying “Evil be thou my good”, at least on the interpretation just offered. Rather, they are self-consciously *male-volent:* they *will the bad under the aspect of the bad*. And yet they are not insane—this is what makes their actions especially difficult for the rest of us to understand. This is a second common way in which the term “radical evil” is used. (See Pauer-Studer and Velleman 2015 for a reading of Milton according to which Satan’s war cry is interpreted in this way.)[^pauer-studer-2015]
+    step1: TBD
+    step2: TBD
+  - id: 121
+    kind: body
+    source: |-
+      Augustine reports in his *Confessions* that during the pears incident he took pleasure in
+    step1: TBD
+    step2: TBD
+  - id: 122
+    kind: body
+    source: |-
+      > the theft and sin itself.… Behold, now, let me heart tell Thee what it was seeking there, that I should be gratuitously wanton, having no inducement to evil but the evil itself. It was foul, and I loved it … I loved my own error – not that for which I erred, but the error itself. (*Confessions* Bk 2, Chap. IV, paragraph 9 [1876: 30])
+    step1: TBD
+    step2: TBD
+  - id: 123
+    kind: body
+    source: |-
+      It is tempting to say that in “loving the sin itself”, Augustine was in some sense taking it to be good. But he at least gestures here at this second conception of radical evil: some acts can be performed under the aspect of their own abject deformation and rottenness—as ultimately bad even for the agent himself.
+    step1: TBD
+    step2: TBD
+  - id: 124
+    kind: body
+    source: |-
+      As we have seen, the Prussian philosopher who coined the term “radical evil” 1400 years later did *not* think that it can involve choosing evil for its own sake. In fact, Kant argues that such a “diabolical” conception of evil is incoherent or at least psychologically inapplicable to human beings. Kant’s skepticism, however, did not prevent Dostoyevsky from composing *Notes from the Underground* (1864) as an extended and somewhat plausible portrait of one man’s effort to choose evil *qua* evil. And there are more recent accounts of people who confess—in private diaries or braggadocios depositions—that they did what they did *because* it was evil.
+    step1: TBD
+    step2: TBD
+  - id: 125
+    kind: body
+    source: |-
+      In this context, consider (if you can bear it) Stone 2009’s portraits of the worst serial killers: although some perpetrators report that they take what they are doing to be good—ridding the world of “garbage women”, giving someone his “just deserts”, correctly following the orders of the voices in their head, and so on—others openly admit that what they are doing is bad, wrong, evil, despicable, and so on. In such cases, the perpetrators are not making a series of unsound inferences, or mistaking the bad for the good. Rather, they seem to be engaged in a self-conscious turning away from anything that could be regarded as good by *anyone*. Radical evil on this conception is sometimes described as a self-conscious turning away from *being itself* (Eagleton 2009: 16; L. Russell 2014: 23)[^eagleton-2009][^russell-2014].
+    step1: TBD
+    step2: TBD
+  - id: 126
+    kind: body
+    source: |-
+      If Augustine’s confessions about the pears—or these more spectacular recent confessions—are accurate, then there may be (*contra* Kant) a baffling diabolical state that some people can fall into, and that the rest of us cannot entirely fathom. The unintelligibility here thus threatens to raise Jaspersian concerns about exoticization and taint.
+    step1: TBD
+    step2: TBD
+  - id: 127
+    kind: body
+    source: |-
+      ### 7.3. Radical Evil as Repudiation of the Moral Law
+    step1: TBD
+    step2: TBD
+  - id: 128
+    kind: body
+    source: |-
+      A third conception of “radical evil” takes the term to refer to acts or practices (like slavery and genocide) that do not merely violate rational principles but also constitute an effort to *repudiate* moral rationality altogether, or at least to transcend it. When we steal or lie, there is a sense in which we might be failing to treat others with the respect that they deserve. And as we have seen, Kant does not hesitate to view such irrational choices as stemming from our propensity to “radical evil”. But radical evil on this third conception is different: it involves an intentional refusal to acknowledge that some group of persons has *any moral standing at all*—the kind of moral standing that would prohibit us from instigating or complying with their humiliation, degradation, or extinction.
+    step1: TBD
+    step2: TBD
+  - id: 129
+    kind: body
+    source: |-
+      Radical evil of this sort, in other words, denies the universal scope—and thus, perhaps, the very existence—of the moral sphere altogether. It is *anti-rational* rather than *merely irrational*: this is what threatens to make it incomprehensible or inexplicable in a unique way. This is also presumably what the early Arendt means when she says that radical evil involves making human beings “superfluous”.
+    step1: TBD
+    step2: TBD
+  - id: 130
+    kind: body
+    source: |-
+      By way of analogy: suppose that ordinary moral wrongdoing is like making a bad move in chess, or like cheating by moving one’s pieces in an illegal way when one’s opponent isn’t looking. A radically evil act on the present conception, by contrast, would be like crushing all of the opponent’s pieces and upending the table. The player who does the latter is no longer or perhaps never was a player: she cannot explain her behavior by saying that she was trying to win by making what turned out to be a bad move or a cheat. She cannot explain her behavior *in terms of chess* at all. Likewise, a radically evil act is supposed to transcend the terms of moral rationality.
+    step1: TBD
+    step2: TBD
+  - id: 131
+    kind: body
+    source: |-
+      The analogy extends only so far, however. That’s because there are still some reasonable explanations left to our non-player—explanations external to the game:
+    step1: TBD
+    step2: TBD
+  - id: 132
+    kind: body
+    source: |-
+      > I was hungry, so I crushed all of your pieces and swept them off the board in the hopes that you would suggest lunch.
+    step1: TBD
+    step2: TBD
+  - id: 133
+    kind: body
+    source: |-
+      By contrast, it is not obvious how there can be *any* credible reason given for doing something that constitutes a denial of *reason* altogether. That is why radical evil in the repudiative sense threatens to be uniquely unintelligible and troubling. If someone—not a beast or a machine, but a human being—acts in a way that entirely disclaims not just an awareness of moral authority but also the basic rules of moral reason altogether, he effectively places himself in an antelapsarian state, unburdened with the knowledge of good and evil. His act asserts that he has transcended entirely the moral sphere—that what he does *cannot* be wrong.
+    step1: TBD
+    step2: TBD
+  - id: 134
+    kind: body
+    source: |-
+      Can human beings really perpetrate radical evil in this sense? Richard Ramirez, the “Night Stalker” serial killer in 1980’s Los Angeles, certainly took himself to be doing so. He repeatedly snuck into people’s houses to rape and kill them, sometimes cutting off body parts and taking them with him. After his fourteenth murder, he was caught and then boasted to his captors:
+    step1: TBD
+    step2: TBD
+  - id: 135
+    kind: body
+    source: |-
+      > You don’t understand me… you are not capable of it. I am beyond good and evil…I love to kill people. I love to watch them die. I would shoot them in the head and they would wiggle and squirm… I love all that blood. (quoted in Stone 2009: 208)[^stone-2009].
+    step1: TBD
+    step2: TBD
+  - id: 136
+    kind: body
+    source: |-
+      This idea—that a human being could do something that would *enact* his own transcendence of moral norms, make other persons superfluous, and establish his own status as somehow “beyond good and evil”—is what concerned Karl Jaspers, and what he was hoping Arendt would resist. In her face-to-face confrontation with the quotidian, bureaucratic evil of Adolf Eichmann, she seems to have changed her mind (though see Cesarani 2007 and Margalit 2019 for a portrait of Eichmann that resists her famous “banality thesis”)[^cesarani-2007][^margalit-2019]. But even if Arendt ultimately repudiated the repudiative conception of radical evil, others remain sympathetic to some version of it (e.g., Bernstein 2002 and Motzkin 2019)[^bernstein-2002][^motzkin-2019].
+    step1: TBD
+    step2: TBD
+  - id: 137
+    kind: body
+    source: |-
+      ### 7.4. Radical Evil as Systemic Evil: Human Beings Made Superfluous in Another Way
+    step1: TBD
+    step2: TBD
+  - id: 138
+    kind: body
+    source: |-
+      “Systemic” or “structural” evil exists at the level of groups, networks, races, and collectives rather than merely at the level of individuals (see section 5). The fourth conception of “radical evil” applies the concept to particularly rampant or entrenched evils of the systemic sort.
+    step1: TBD
+    step2: TBD
+  - id: 139
+    kind: body
+    source: |-
+      Although Arendt’s interest was in totalitarian state systems, contemporary philosophers are equally interested in non-state but still super-human systems: corporations, collectives, markets, artificial intelligences. These are now some of the most potent sources of value and disvalue at work in the world. As noted in section 5, the nature of systemic evil is empirical, but its origin is more difficult to grasp. Corporations have boardrooms and executive suites, and are even treated as persons by some legal systems, but (as investigation after investigation indicates) it is hard to find the heart of their darkness when assigning responsibility. Still-powerful systems of white supremacy are based in structures of which no individual human mind was or is fully aware (Rothstein 2017)[^rothstein-2017]. Likewise, markets, algorithms, blockchains, and various forms of artificial intelligence arise out of innumerable individual human efforts, but are also *designed* to make human beings superfluous in a literal and unprecedented way. Some of this is and will be for the good—there are already fewer back-broken menial laborers in the fields or exhaust-guzzling toll collectors on the highways. But some will surely be for the bad, and in ways that are not foreseeable. Radical systemic evil—especially in a technological age—does not seem natural or spooky, but it does not seem fully moral either.
+    step1: TBD
+    step2: TBD
+  - id: 140
+    kind: body
+    source: |-
+      In sum: although natural, moral, and spooky non-agential conceptions of the origins of evil were the focus of most traditional discussions of the origins of evil, it looks like some varieties of radical evil have a different origin altogether—one that is not entirely intelligible. This raises Jaspersian concerns: a world in which (non-Kantian) radical evils are widespread is one in which ascriptions of moral responsibility are increasingly difficult to make.
+    step1: TBD
+    step2: TBD
+  - id: 141
+    kind: oir
+    source: |-
+      - Bush, George W., 2002, [State of the Union Address](https://georgewbush-whitehouse.archives.gov/news/releases/2002/01/20020129-11.html), January 29, 2002.
+      - Reagan, Ronald, 1983, [Evil Empire Speech](https://nationalcenter.org/ncppr/2001/11/04/ronal-reagans-evil-empire-speech-to-the-national-association-of-evangelicals-1983/), to the National Association of Evangelicals, March 8, 1983
+      - [The Philosophical Lexicon](https://web.archive.org/web/20210415085544/http://www.philosophicallexicon.com/), by Daniel Dennett and Asbjørn Steglich-Peterson
+      - “[Anselm of Canterbury 1033–1109](https://iep.utm.edu/anselm/)”, *Internet Encyclopedia of Philosophy*.
+    step1: TBD
+    step2: TBD
+  - id: 142
+    kind: ack
+    source: |-
+      The author wishes to thank participants in a workshop at the Princeton Project in Philosophy and Religion, as well as Brendan Kolb and an anonymous referee, for helpful comments on an earlier draft. Thanks also to Oxford University Press for permission to incorporate some passages from Chignell 2019a and 2019b into this entry.
+    step1: TBD
+    step2: TBD
