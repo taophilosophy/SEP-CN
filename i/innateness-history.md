@@ -1,4 +1,4 @@
-# 围绕先天的历史争议 historical controversies (Jerry Samet)
+# 围绕先天的历史争议 The Historical Controversies Surrounding Innateness (Jerry Samet)
 
 *首次发表于 2008 年 6 月 19 日；2019 年 3 月 27 日实质修订。*
 

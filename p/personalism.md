@@ -1,1 +1,1 @@
-# 人格主义 personalism (Thomas D. Williams and Jan Olof Bengtsson)
+# 人格主义 Personalism (Thomas D. Williams and Jan Olof Bengtsson)

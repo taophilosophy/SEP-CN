@@ -1,1 +1,1 @@
-# 搭便车问题 free rider problem (Garrett Cullity)
+# 搭便车问题 The Free Rider Problem (Garrett Cullity)

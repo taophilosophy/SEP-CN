@@ -1,1 +1,1 @@
-# 伊曼努尔·康德 Kant, Immanuel (Michael Rohlf)
+# 伊曼努尔·康德 Immanuel Kant (Michael Rohlf)

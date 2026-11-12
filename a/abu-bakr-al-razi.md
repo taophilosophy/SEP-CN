@@ -1,4 +1,4 @@
-# 拉齐 al-Razi, Abu Bakr (Peter Adamson)
+# 拉齐 Abu Bakr al-Razi (Peter Adamson)
 
 **首次发表于 2021 年 5 月 19 日；2025 年 5 月 14 日实质修订。**
 

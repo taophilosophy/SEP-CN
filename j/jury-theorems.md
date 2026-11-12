@@ -1,1 +1,1 @@
-# 陪审团定理 jury theorems (Franz Dietrich and Kai Spiekermann)
+# 陪审团定理 Jury Theorems (Franz Dietrich and Kai Spiekermann)

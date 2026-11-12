@@ -1,1 +1,1 @@
-# 博弈论 game theory (Don Ross)
+# 博弈论 Game Theory (Don Ross)

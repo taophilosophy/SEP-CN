@@ -1,1 +1,1 @@
-# 黑格尔的美学 aesthetics (Stephen Houlgate)
+# 黑格尔的美学 Hegel’s Aesthetics (Stephen Houlgate)

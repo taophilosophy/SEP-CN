@@ -1,1 +1,1 @@
-# 心理表征 mental representation (David Pitt)
+# 心理表征 Mental Representation (David Pitt)

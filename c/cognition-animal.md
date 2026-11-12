@@ -1,1 +1,1 @@
-# 动物认知 cognition (Kristin Andrews and Susana Monsó)
+# 动物认知 Animal Cognition (Kristin Andrews and Susana Monsó)

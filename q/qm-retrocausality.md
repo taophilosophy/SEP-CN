@@ -1,1 +1,1 @@
-# 量子力学中的逆因果关系 retrocausality (Simon Friederich and Peter W. Evans)
+# 量子力学中的逆因果关系 Retrocausality in Quantum Mechanics (Simon Friederich and Peter W. Evans)

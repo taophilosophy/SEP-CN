@@ -1,1 +1,1 @@
-# 悉尼·胡克 Hook, Sidney (David Sidorsky and Robert Talisse)
+# 悉尼·胡克 Sidney Hook (David Sidorsky and Robert Talisse)

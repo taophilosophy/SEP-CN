@@ -1,4 +1,4 @@
-# 抽象对象 abstract objects (José L. Falguera, Concha Martínez-Vidal, and Gideon Rosen)
+# 抽象对象 Abstract Objects (José L. Falguera, Concha Martínez-Vidal, and Gideon Rosen)
 
 **首次发表于 2001 年 7 月 19 日；2025 年 8 月 21 日实质修订。**
 

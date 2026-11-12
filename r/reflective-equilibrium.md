@@ -1,4 +1,4 @@
-# 反思平衡 reflective equilibrium (Carl Knight)
+# 反思平衡 Reflective Equilibrium (Carl Knight)
 
 *首次发表于 2023 年 11 月 27 日。*
 

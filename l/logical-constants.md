@@ -1,1 +1,1 @@
-# 逻辑常项 logical constants (John MacFarlane)
+# 逻辑常项 Logical Constants (John MacFarlane)

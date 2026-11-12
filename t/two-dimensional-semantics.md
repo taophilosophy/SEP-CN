@@ -1,1 +1,1 @@
-# 二维语义学 two-dimensional (Laura Schroeter)
+# 二维语义学 Two-Dimensional Semantics (Laura Schroeter)

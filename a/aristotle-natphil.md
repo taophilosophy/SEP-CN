@@ -1,1 +1,1 @@
-# 亚里士多德的自然哲学 natural philosophy (Istvan Bodnar)
+# 亚里士多德的自然哲学 Aristotle’s Natural Philosophy (Istvan Bodnar)

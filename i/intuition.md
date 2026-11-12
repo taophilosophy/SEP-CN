@@ -1,1 +1,1 @@
-# 直觉 intuition (Joel Pust)
+# 直觉 Intuition (Joel Pust)

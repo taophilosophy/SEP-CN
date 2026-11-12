@@ -1,4 +1,4 @@
-# 确定性 certainty (Baron Reed)
+# 确定性 Certainty (Baron Reed)
 
 *首次发表于 2008 年 2 月 2 日；2022 年 2 月 21 日实质修订。*
 

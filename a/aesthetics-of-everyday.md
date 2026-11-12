@@ -1,4 +1,4 @@
-# 日常美学 aesthetics of the everyday (Yuriko Saito)
+# 日常美学 Aesthetics of the Everyday (Yuriko Saito)
 
 **首次发表于 2015 年 9 月 30 日；2025 年 11 月 29 日实质修订。**
 

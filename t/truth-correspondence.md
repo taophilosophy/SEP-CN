@@ -1,1 +1,1 @@
-# 真理符合论 correspondence theory of (Marian David)
+# 真理符合论 The Correspondence Theory of Truth (Marian David)

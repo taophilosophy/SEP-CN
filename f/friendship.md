@@ -1,1 +1,1 @@
-# 友谊 friendship (Bennett Helm)
+# 友谊 Friendship (Bennett Helm)

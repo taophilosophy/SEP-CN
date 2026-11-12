@@ -1,4 +1,4 @@
-# 动态选择 choice, dynamic (Chrisoula Andreou)
+# 动态选择 Dynamic Choice (Chrisoula Andreou)
 
 *首次发表于 2007 年 10 月 15 日；2025 年 5 月 12 日实质修订。*
 

@@ -1,4 +1,4 @@
-# 德西德里乌斯·伊拉斯谟 Erasmus, Desiderius (Erika Rummel and Eric MacPhail)
+# 德西德里乌斯·伊拉斯谟 Desiderius Erasmus (Erika Rummel and Eric MacPhail)
 
 **首次发表于 2017 年 9 月 27 日；2025 年 9 月 19 日实质修订。**
 

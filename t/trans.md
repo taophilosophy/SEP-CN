@@ -1,1 +1,1 @@
-# 跨性别哲学 trans philosophy (Perry Zurn)
+# 跨性别哲学 Trans Philosophy (Perry Zurn)

@@ -1,1 +1,1 @@
-# 全善 goodness, perfect (Mark Murphy)
+# 全善 Perfect Goodness (Mark Murphy)

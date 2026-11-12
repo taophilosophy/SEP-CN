@@ -1,1 +1,1 @@
-# 价值论 value theory (Mark Schroeder)
+# 价值论 Value Theory (Mark Schroeder)

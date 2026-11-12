@@ -1,1 +1,1 @@
-# 创造力 creativity (Elliot Samuel Paul and Dustin Stokes)
+# 创造力 Creativity (Elliot Samuel Paul and Dustin Stokes)

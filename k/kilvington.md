@@ -1,4 +1,4 @@
-# 理查德·基尔文顿 Kilvington, Richard (Elzbieta Jung)
+# 理查德·基尔文顿 Richard Kilvington (Elzbieta Jung)
 
 *首次发表于 2001 年 8 月 7 日；2022 年 9 月 6 日实质修订。*
 

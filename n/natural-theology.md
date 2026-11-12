@@ -1,1 +1,1 @@
-# 自然神学与自然宗教 theology, natural and natural religion (Andrew Chignell and Derk Pereboom)
+# 自然神学与自然宗教 Natural Theology and Natural Religion (Andrew Chignell and Derk Pereboom)

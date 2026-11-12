@@ -1,4 +1,4 @@
-# 中世纪的类比理论 medieval theories of analogy (E. Jennifer Ashworth and Domenic D’Ettore)
+# 中世纪的类比理论 Medieval Theories of Analogy (E. Jennifer Ashworth and Domenic D’Ettore)
 
 **首次发表于 1999 年 11 月 29 日；2025 年 12 月 3 日实质修订。**
 

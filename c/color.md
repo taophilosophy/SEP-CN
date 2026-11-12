@@ -1,1 +1,1 @@
-# 颜色 color (Barry Maund)
+# 颜色 Color (Barry Maund)

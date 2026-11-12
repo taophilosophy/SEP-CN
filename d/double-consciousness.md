@@ -1,1 +1,1 @@
-# 双重意识 double consciousness (John P. Pittman)
+# 双重意识 Double Consciousness (John P. Pittman)

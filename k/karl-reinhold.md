@@ -1,4 +1,4 @@
-# 卡尔·莱昂哈德·莱因霍尔德 Reinhold, Karl Leonhard (Dan Breazeale and John Walsh)
+# 卡尔·莱昂哈德·莱因霍尔德 Karl Leonhard Reinhold (Dan Breazeale and John Walsh)
 
 *首次发表于 2003 年 4 月 30 日；2026 年 9 月 23 日实质修订。*
 

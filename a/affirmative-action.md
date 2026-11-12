@@ -1,1 +1,1 @@
-# 肯定性行动 affirmative action (Robert Fullinwider)
+# 肯定性行动 Affirmative Action (Robert Fullinwider)

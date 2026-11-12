@@ -1,4 +1,4 @@
-# 数学中的逻辑代数 the mathematics of (J. Donald Monk)
+# 数学中的逻辑代数 The Mathematics of Boolean Algebra (J. Donald Monk)
 
 *首次发表于 2002 年 7 月 5 日；2018 年 7 月 11 日实质修订。*
 

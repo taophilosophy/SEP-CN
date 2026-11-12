@@ -1,1 +1,1 @@
-# 杰里米·边沁 Bentham, Jeremy (James E. Crimmins)
+# 杰里米·边沁 Jeremy Bentham (James E. Crimmins)

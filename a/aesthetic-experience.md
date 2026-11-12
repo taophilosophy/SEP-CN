@@ -1,4 +1,4 @@
-# 审美体验 aesthetic experience (Antonia Peacocke)
+# 审美体验 Aesthetic Experience (Antonia Peacocke)
 
 **首次发表于 2023 年 1 月 20 日。**
 

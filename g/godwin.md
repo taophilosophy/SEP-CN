@@ -1,4 +1,4 @@
-# 威廉·戈德温 Godwin, William (Mark Philp)
+# 威廉·戈德温 William Godwin (Mark Philp)
 
 *首次发表于 2000 年 1 月 16 日；2025 年 3 月 24 日实质修订。*
 

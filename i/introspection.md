@@ -1,1 +1,1 @@
-# 内省 introspection (Eric Schwitzgebel)
+# 内省 Introspection (Eric Schwitzgebel)

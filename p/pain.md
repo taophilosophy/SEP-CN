@@ -1,1 +1,1 @@
-# 疼痛 pain (Murat Aydede)
+# 疼痛 Pain (Murat Aydede)

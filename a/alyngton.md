@@ -1,4 +1,4 @@
-# 罗伯特·阿林顿 Alyngton, Robert (Alessandro Conti)
+# 罗伯特·阿林顿 Robert Alyngton (Alessandro Conti)
 
 **首次发表于 2001 年 7 月 25 日；2022 年 1 月 17 日实质修订。**
 

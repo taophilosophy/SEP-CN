@@ -1,1 +1,1 @@
-# 亚里士多德的修辞学 rhetoric (Christof Rapp)
+# 亚里士多德的修辞学 Aristotle’s Rhetoric (Christof Rapp)

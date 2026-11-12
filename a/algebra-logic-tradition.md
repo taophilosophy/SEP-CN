@@ -1,4 +1,4 @@
-# 逻辑代数的传统 algebra of logic tradition (Stanley Burris and Javier Legris)
+# 逻辑代数的传统 The Algebra of Logic Tradition (Stanley Burris and Javier Legris)
 
 *首次发表于 2009 年 3 月 2 日；2021 年 2 月 12 日实质修订。*
 

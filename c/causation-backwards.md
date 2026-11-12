@@ -1,1 +1,1 @@
-# 逆向因果关系 backward (Jan Faye)
+# 逆向因果关系 Backward Causation (Jan Faye)

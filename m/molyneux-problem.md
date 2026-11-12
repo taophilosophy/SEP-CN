@@ -1,4 +1,4 @@
-# 莫利纽克斯问题 Molyneux’s problem (Brian Glenney, Gabriele Ferretti, and Marjolein Degenaar)
+# 莫利纽克斯问题 Molyneux’s Problem (Brian Glenney, Gabriele Ferretti, and Marjolein Degenaar)
 
 *首次发表于 2005 年 6 月 30 日；2026 年 1 月 8 日实质修订。*
 

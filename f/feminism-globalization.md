@@ -1,1 +1,1 @@
-# 女性主义对全球化的观点 perspectives on globalization (Serena Parekh and Shelley Wilcox)
+# 女性主义对全球化的观点 Feminist Perspectives on Globalization (Serena Parekh and Shelley Wilcox)

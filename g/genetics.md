@@ -1,4 +1,4 @@
-# 遗传学 genetics (James Tabery)
+# 遗传学 Genetics (James Tabery)
 
 *首次发表于 2019 年 8 月 13 日；2023 年 9 月 7 日实质修订。*
 

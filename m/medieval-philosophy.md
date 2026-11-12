@@ -1,1 +1,1 @@
-# 中世纪哲学 medieval philosophy (John Marenbon)
+# 中世纪哲学 Medieval Philosophy (John Marenbon)

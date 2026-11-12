@@ -1,4 +1,4 @@
-# 全球化 globalization (William Scheuerman)
+# 全球化 Globalization (William Scheuerman)
 
 *首次发表于 2002 年 6 月 21 日；2023 年 1 月 9 日实质修订。*
 

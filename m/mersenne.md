@@ -1,1 +1,1 @@
-# 马兰·梅森 Mersenne, Marin (Philippe Hamou)
+# 马兰·梅森 Marin Mersenne (Philippe Hamou)

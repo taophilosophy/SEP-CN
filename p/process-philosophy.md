@@ -1,1 +1,1 @@
-# 过程哲学 process philosophy (Johanna Seibt)
+# 过程哲学 Process Philosophy (Johanna Seibt)

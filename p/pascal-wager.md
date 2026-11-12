@@ -1,1 +1,1 @@
-# 帕斯卡的赌注 Pascal’s wager (Alan Hájek)
+# 帕斯卡的赌注 Pascal’s Wager (Alan Hájek)

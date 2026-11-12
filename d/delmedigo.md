@@ -1,4 +1,4 @@
-# 以利亚·德尔·梅第戈 Delmedigo, Elijah (Michael Engel)
+# 以利亚·德尔·梅第戈 Elijah Delmedigo (Michael Engel)
 
 *首次发表于 2019 年 1 月 29 日；2023 年 6 月 2 日实质修订。*
 

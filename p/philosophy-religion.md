@@ -1,1 +1,1 @@
-# 宗教哲学 philosophy of (Charles Taliaferro)
+# 宗教哲学 Philosophy of Religion (Charles Taliaferro)

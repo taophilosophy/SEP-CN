@@ -1,1 +1,1 @@
-# 模糊性 vagueness (Roy Sorensen)
+# 模糊性 Vagueness (Roy Sorensen)

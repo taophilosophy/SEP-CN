@@ -1,1 +1,1 @@
-# 含义 implicature (Wayne Davis)
+# 含义 Implicature (Wayne Davis)

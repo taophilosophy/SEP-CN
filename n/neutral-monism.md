@@ -1,1 +1,1 @@
-# 中立一元论 neutral monism (Leopold Stubenberg and Donovan Wishon)
+# 中立一元论 Neutral Monism (Leopold Stubenberg and Donovan Wishon)

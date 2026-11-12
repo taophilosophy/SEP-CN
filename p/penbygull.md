@@ -1,4 +1,4 @@
-# 威廉·彭比尔 Penbygull, William (Alessandro Conti)
+# 威廉·彭比尔 William Penbygull (Alessandro Conti)
 
 *首次发表于 2001 年 7 月 25 日；2026 年 6 月 19 日实质修订。*
 

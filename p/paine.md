@@ -1,1 +1,1 @@
-# 托马斯·潘恩 Paine, Thomas (Mark Philp)
+# 托马斯·潘恩 Thomas Paine (Mark Philp)

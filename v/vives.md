@@ -1,1 +1,1 @@
-# 胡安·路易斯·维夫斯 Vives, Juan Luis (Lorenzo Casini)
+# 胡安·路易斯·维夫斯 Juan Luis Vives [Joannes Ludovicus Vives] (Lorenzo Casini)

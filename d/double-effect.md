@@ -1,4 +1,4 @@
-# 双重效应原则 double effect, doctrine of (Alison McIntyre)
+# 双重效应原则 Doctrine of Double Effect (Alison McIntyre)
 
 *首次发表于 2004 年 7 月 28 日；2023 年 7 月 17 日实质修订。*
 

@@ -1,1 +1,1 @@
-# 利他主义 altruism (Richard Kraut)
+# 利他主义 Altruism (Richard Kraut)

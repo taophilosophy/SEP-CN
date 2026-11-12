@@ -1,1 +1,1 @@
-# 伊曼纽尔·列维纳斯 Levinas, Emmanuel (Bettina Bergo)
+# 伊曼纽尔·列维纳斯 Emmanuel Levinas (Bettina Bergo)

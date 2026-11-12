@@ -1,1 +1,1 @@
-# 真理 truth (Michael Glanzberg)
+# 真理 Truth (Michael Glanzberg)

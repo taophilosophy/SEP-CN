@@ -1,4 +1,4 @@
-# 达尔文：从《物种起源》到《人类的由来》 from the Origin of Species to the Descent of Man (Phillip Sloan)
+# 达尔文：从《物种起源》到《人类的由来 Darwin: From the Origin of Species to the Descent of Man (Phillip Sloan)
 
 *首次发表于 2019 年 6 月 17 日；2024 年 3 月 13 日实质修订。*
 

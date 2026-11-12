@@ -1,1 +1,1 @@
-# 内隐偏见 bias, implicit (Michael Brownstein)
+# 内隐偏见 Implicit Bias (Michael Brownstein)

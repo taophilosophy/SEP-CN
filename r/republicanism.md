@@ -1,1 +1,1 @@
-# 共和主义 republicanism (Frank Lovett)
+# 共和主义 Republicanism (Frank Lovett)

@@ -1,1 +1,1 @@
-# 社群主义 communitarianism (Daniel Bell)
+# 社群主义 Communitarianism (Daniel Bell)

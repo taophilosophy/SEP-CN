@@ -1,1 +1,1 @@
-# 结构化命题 structured (Jeffrey C. King)
+# 结构化命题 Structured Propositions (Jeffrey C. King)

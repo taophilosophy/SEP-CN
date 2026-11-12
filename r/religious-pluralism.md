@@ -1,1 +1,1 @@
-# 宗教多样性 religious diversity (David Basinger)
+# 宗教多样性 Religious Diversity (Pluralism) (David Basinger)

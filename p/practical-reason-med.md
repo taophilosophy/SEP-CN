@@ -1,1 +1,1 @@
-# 中世纪的实践理性 medieval theories of (Anthony Celano)
+# 中世纪的实践理性 Medieval Theories of Practical Reason (Anthony Celano)

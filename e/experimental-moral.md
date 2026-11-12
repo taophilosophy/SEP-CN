@@ -1,1 +1,1 @@
-# 实验伦理学 experimental moral philosophy (Mark Alfano, Edouard Machery, Alexandra Plakias, and Don Loeb)
+# 实验伦理学 Experimental Moral Philosophy (Mark Alfano, Edouard Machery, Alexandra Plakias, and Don Loeb)

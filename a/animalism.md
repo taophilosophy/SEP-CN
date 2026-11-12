@@ -1,1 +1,1 @@
-# 动物主义 animalism (Stephan Blatti)
+# 动物主义 Animalism (Stephan Blatti)

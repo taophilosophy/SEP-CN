@@ -1,1 +1,1 @@
-# 全球正义 global (Gillian Brock and Nicole Hassoun)
+# 全球正义 Global Justice (Gillian Brock and Nicole Hassoun)

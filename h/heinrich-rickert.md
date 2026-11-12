@@ -1,1 +1,1 @@
-# 海因里希·李凯尔特 Rickert, Heinrich (Andrea Staiti and Luca Oliva)
+# 海因里希·李凯尔特 Heinrich Rickert (Andrea Staiti and Luca Oliva)

@@ -1,1 +1,1 @@
-# 科学理性的历史主义 historicist theories of (Thomas Nickles)
+# 科学理性的历史主义 Historicist Theories of Scientific Rationality (Thomas Nickles)

@@ -1,1 +1,1 @@
-# 政治义务 political obligation (Richard Dagger and David Lefkowitz)
+# 政治义务 Political Obligation (Richard Dagger and David Lefkowitz)

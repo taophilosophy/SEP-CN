@@ -1,1 +1,1 @@
-# 罗吉尔·培根 Bacon, Roger (Jeremiah Hackett)
+# 罗吉尔·培根 Roger Bacon (Jeremiah Hackett)

@@ -1,4 +1,4 @@
-# 非精确概率 probabilities, imprecise (Seamus Bradley)
+# 非精确概率 Imprecise Probabilities (Seamus Bradley)
 
 *首次发表于 2014 年 12 月 20 日；2019 年 2 月 19 日实质修订。*
 

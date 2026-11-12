@@ -1,4 +1,4 @@
-# 认知基础关系 basing relation, epistemic (Keith Allen Korcz)
+# 认知基础关系 The Epistemic Basing Relation (Keith Allen Korcz)
 
 *首次发表于 2002 年 10 月 31 日；2026 年 3 月 16 日实质修订。*
 

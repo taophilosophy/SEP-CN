@@ -1,1 +1,1 @@
-# 数学哲学 mathematics, philosophy of (Leon Horsten)
+# 数学哲学 Philosophy of Mathematics (Leon Horsten)

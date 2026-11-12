@@ -1,1 +1,1 @@
-# 他心问题 other minds (Anita Avramides)
+# 他心问题 Other Minds (Anita Avramides)

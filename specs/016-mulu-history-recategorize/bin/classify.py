@@ -114,10 +114,23 @@ S = {
     'C73': f'{W} > 五、现代哲学（1830–） > 5.7 分析哲学 > 后实证科学哲学',
     'C74': f'{W} > 五、现代哲学（1830–） > 5.7 分析哲学 > 分析形而上学与语言哲学',
     'C75': f'{W} > 五、现代哲学（1830–） > 5.7 分析哲学 > 分析伦理学与政治哲学',
-    'C8': f'{W} > 五、现代哲学（1830–） > 5.8 批判理论',
-    'C9': f'{W} > 五、现代哲学（1830–） > 5.9 结构主义与后结构主义',
+    'C8': f'{W} > 五、现代哲学（1830–） > 5.8 批判理论（法兰克福学派）',
+    'C81': f'{W} > 五、现代哲学（1830–） > 5.8 批判理论（法兰克福学派） > 法兰克福学派',
+    'C82': f'{W} > 五、现代哲学（1830–） > 5.8 批判理论（法兰克福学派） > 哈贝马斯与交往行为理论',
+    'C83': f'{W} > 五、现代哲学（1830–） > 5.8 批判理论（法兰克福学派） > 批判理论的当代发展',
+    'C9': f'{W} > 五、现代哲学（1830–） > 5.9 结构主义、后结构主义与解构',
+    'C91': f'{W} > 五、现代哲学（1830–） > 5.9 结构主义、后结构主义与解构 > 结构主义',
+    'C92': f'{W} > 五、现代哲学（1830–） > 5.9 结构主义、后结构主义与解构 > 后结构主义',
+    'C93': f'{W} > 五、现代哲学（1830–） > 5.9 结构主义、后结构主义与解构 > 解构',
+    'C94': f'{W} > 五、现代哲学（1830–） > 5.9 结构主义、后结构主义与解构 > 后现代主义',
     'C10': f'{W} > 五、现代哲学（1830–） > 5.10 实用主义与过程哲学',
     'C11p': f'{W} > 五、现代哲学（1830–） > 5.11 政治哲学与法哲学',
+    'C20': f'{W} > 五、现代哲学（1830–） > 5.12 科学哲学',
+    'C201': f'{W} > 五、现代哲学（1830–） > 5.12 科学哲学 > 波普尔与批判理性主义',
+    'C202': f'{W} > 五、现代哲学（1830–） > 5.12 科学哲学 > 库恩、拉卡托斯与历史主义',
+    'C203': f'{W} > 五、现代哲学（1830–） > 5.12 科学哲学 > 费耶阿本德与无政府主义认识论',
+    'C204': f'{W} > 五、现代哲学（1830–） > 5.12 科学哲学 > 科学实在论与反实在论',
+    'C205': f'{W} > 五、现代哲学（1830–） > 5.12 科学哲学 > 科学解释与科学方法论',
     # 犹太
     'J1': f'{W} > 六、犹太哲学（跨期传统） > 6.1 古代与中世纪犹太哲学',
     'J2': f'{W} > 六、犹太哲学（跨期传统） > 6.2 近代犹太哲学',
@@ -493,6 +506,37 @@ put('N13', 'emilie-du-chatelet')
 put('N11', 'astell')
 put('N22', 'lady-masham')
 put('R1', 'lucrezia-marinella madeleine-scudery')
+
+# 补充：唯名论与实在论、神秘主义、理性与信仰、文艺复兴斯多亚与怀疑、
+# 法国唯物主义、德国通俗哲学、19 世纪学院哲学、存在主义与解释学、
+# 法兰克福学派、结构主义/后结构主义/解构、科学哲学。
+put('M65', '''
+ockham walter-chatton crathorn francis-marchia gregory-rimini wodeham
+buridan albert-saxony marsilius-inghen nicole-oresme burley wyclif fitzralph
+sharpe paul-venice penbygull alyngton erfurt radulphus-brito
+''')
+put('M64', 'meister-eckhart')
+put('M33', 'condemnation boethius-dacia')
+put('R23', 'justus-lipsius montaigne francisco-sanches')
+put('N35', 'diderot holbach condillac')
+put('N36', 'mendelssohn jacobi hamann')
+put('C41', 'neo-kantianism friedrich-lange natorp wilhelm-windelband cohen heinrich-rickert')
+put('C42', 'green bosanquet bradley bradley-moral bradley-regress')
+put('C43', 'james-ward fechner wilhelm-wundt dilthey hermann-lotze')
+put('C61', 'existentialism camus jaspers marcel sartre authenticity gasset bergson')
+put('C62', 'hermeneutics gadamer gadamer-aesthetics ricoeur yorck')
+put('C81', 'adorno marcuse horkheimer benjamin')
+put('C82', 'habermas')
+put('C83', 'critical-theory')
+put('C91', 'lacan')
+put('C92', 'foucault deleuze')
+put('C93', 'derrida')
+put('C94', 'lyotard baudrillard postmodernism')
+put('C201', 'popper')
+put('C202', 'thomas-kuhn lakatos')
+put('C203', 'feyerabend fleck')
+put('C204', '')
+put('C205', 'hempel reichenbach physics-Rpcc wesley-salmon duhem')
 
 # 现节 fallback
 HISTORY_FALLBACK = {

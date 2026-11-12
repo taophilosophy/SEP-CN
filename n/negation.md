@@ -1,1 +1,1 @@
-# 否定 negation (Laurence R. Horn and Heinrich Wansing)
+# 否定 Negation (Laurence R. Horn and Heinrich Wansing)

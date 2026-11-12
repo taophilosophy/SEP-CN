@@ -1,1 +1,1 @@
-# 宇宙学与神学 and theology (Hans Halvorson and Helge Kragh)
+# 宇宙学与神学 Cosmology and Theology (Hans Halvorson and Helge Kragh)

@@ -1,1 +1,1 @@
-# 宽容 toleration (Rainer Forst)
+# 宽容 Toleration (Rainer Forst)

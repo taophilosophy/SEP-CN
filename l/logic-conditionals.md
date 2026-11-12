@@ -1,1 +1,1 @@
-# 条件逻辑 conditionals (Paul Egré and Hans Rott)
+# 条件逻辑 The Logic of Conditionals (Paul Egré and Hans Rott)

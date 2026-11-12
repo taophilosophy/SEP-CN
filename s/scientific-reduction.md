@@ -1,1 +1,1 @@
-# 科学还原论 reduction, scientific (Raphael van Riel and Robert Van Gulick)
+# 科学还原论 Scientific Reduction (Raphael van Riel and Robert Van Gulick)

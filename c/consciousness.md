@@ -1,1 +1,1 @@
-# 意识 consciousness (Robert Van Gulick)
+# 意识 Consciousness (Robert Van Gulick)

@@ -1,1 +1,1 @@
-# 道德实在论 moral realism (Geoff Sayre-McCord)
+# 道德实在论 Moral Realism (Geoff Sayre-McCord)

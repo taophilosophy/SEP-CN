@@ -1,1 +1,1 @@
-# 科学多元主义 scientific pluralism (David Ludwig and Stéphanie Ruphy)
+# 科学多元主义 Scientific Pluralism (David Ludwig and Stéphanie Ruphy)

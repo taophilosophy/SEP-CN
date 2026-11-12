@@ -1,1 +1,1 @@
-# 弗雷格的逻辑学 logic (Roy Cook)
+# 弗雷格的逻辑学 Frege’s Logic (Roy Cook)

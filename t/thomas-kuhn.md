@@ -1,1 +1,1 @@
-# 托马斯·库恩 Kuhn, Thomas (Alexander Bird)
+# 托马斯·库恩 Thomas Kuhn (Alexander Bird)

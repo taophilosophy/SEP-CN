@@ -1,4 +1,4 @@
-# 全在 omnipresence (Edward Wierenga)
+# 全在 Omnipresence (Edward Wierenga)
 
 *首次发表于 2005 年 7 月 15 日；2026 年 6 月 1 日实质修订。*
 

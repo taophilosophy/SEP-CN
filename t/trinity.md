@@ -1,1 +1,1 @@
-# 三位一体 trinity (Dale Tuggy)
+# 三位一体 Trinity (Dale Tuggy)

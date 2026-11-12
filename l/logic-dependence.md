@@ -1,1 +1,1 @@
-# 依赖逻辑 dependence (Pietro Galliani)
+# 依赖逻辑 Dependence Logic (Pietro Galliani)

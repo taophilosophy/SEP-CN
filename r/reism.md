@@ -1,4 +1,4 @@
-# 事物论 reism (Jan Woleński)
+# 事物论 Reism (Jan Woleński)
 
 *首次发表于 2004 年 8 月 17 日；2020 年 4 月 10 日实质修订。*
 

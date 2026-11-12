@@ -1,1 +1,1 @@
-# 一阶模型论 first-order (Wilfrid Hodges and Thomas Scanlon)
+# 一阶模型论 First-order Model Theory (Wilfrid Hodges and Thomas Scanlon)

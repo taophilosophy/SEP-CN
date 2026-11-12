@@ -1,1 +1,1 @@
-# 共同知识 common knowledge (Peter Vanderschraaf and Giacomo Sillari)
+# 共同知识 Common Knowledge (Peter Vanderschraaf and Giacomo Sillari)

@@ -1,1 +1,1 @@
-# 洛克论自由 on freedom (Samuel Rickless)
+# 洛克论自由 Locke On Freedom (Samuel Rickless)

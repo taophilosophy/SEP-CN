@@ -1,1 +1,1 @@
-# 早期现代哲学中的经济学 in early modern philosophy (Margaret Schabas)
+# 早期现代哲学中的经济学 Economics in Early Modern Philosophy (Margaret Schabas)

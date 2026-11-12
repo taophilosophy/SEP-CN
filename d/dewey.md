@@ -1,1 +1,1 @@
-# 约翰·杜威 Dewey, John (David Hildebrand)
+# 约翰·杜威 John Dewey (David Hildebrand)

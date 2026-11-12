@@ -1,1 +1,1 @@
-# 尊严 dignity (Remy Debes)
+# 尊严 Dignity (Remy Debes)

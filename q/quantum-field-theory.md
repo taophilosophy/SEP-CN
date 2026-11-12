@@ -1,1 +1,1 @@
-# 量子场论 quantum field theory (Meinard Kuhlmann)
+# 量子场论 Quantum Field Theory (Meinard Kuhlmann)

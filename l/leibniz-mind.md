@@ -1,4 +1,4 @@
-# 莱布尼茨的心灵哲学 philosophy of mind (Mark Kulstad and Laurence Carlin)
+# 莱布尼茨的心灵哲学 Leibniz’s Philosophy of Mind (Mark Kulstad and Laurence Carlin)
 
 **首次发表于 1997 年 9 月 22 日；2020 年 6 月 29 日实质修订。**
 

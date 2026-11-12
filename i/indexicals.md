@@ -1,1 +1,1 @@
-# 指代词 indexicals (David Braun and Alexandru Radulescu)
+# 指代词 Indexicals (David Braun and Alexandru Radulescu)

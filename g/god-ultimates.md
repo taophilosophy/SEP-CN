@@ -1,1 +1,1 @@
-# 上帝与其他终极存在 and other ultimates (Jeanine Diller)
+# 上帝与其他终极存在 God and Other Ultimates (Jeanine Diller)

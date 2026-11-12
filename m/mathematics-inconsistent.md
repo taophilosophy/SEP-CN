@@ -1,4 +1,4 @@
-# 不一致数学 inconsistent (Chris Mortensen)
+# 不一致数学 Inconsistent Mathematics (Chris Mortensen)
 *首次发表于 1996 年 7 月 2 日；2022 年 11 月 30 日实质修订。*
 
 不一致数学研究这样一类数学理论：把经典数学公理安置在一种能容忍矛盾、而不使一切句子皆成定理的（非经典）逻辑框架之中，由此得到的理论。

@@ -1,1 +1,1 @@
-# 广义量词 generalized quantifiers (Dag Westerståhl)
+# 广义量词 Generalized Quantifiers (Dag Westerståhl)

@@ -1,1 +1,1 @@
-# 亚里士多德论数学 mathematics (Henry Mendell)
+# 亚里士多德论数学 Aristotle and Mathematics (Henry Mendell)

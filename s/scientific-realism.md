@@ -1,1 +1,1 @@
-# 科学实在论 scientific realism (Anjan Chakravartty)
+# 科学实在论 Scientific Realism (Anjan Chakravartty)

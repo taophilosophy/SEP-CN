@@ -1,1 +1,1 @@
-# 拉丁美洲的自由主义 in Latin America (Faviola Rivera)
+# 拉丁美洲的自由主义 Liberalism in Latin America (Faviola Rivera)

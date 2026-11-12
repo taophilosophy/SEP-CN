@@ -1,1 +1,1 @@
-# 选择公理 choice, axiom of (John L. Bell)
+# 选择公理 The Axiom of Choice (John L. Bell)

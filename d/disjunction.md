@@ -1,1 +1,1 @@
-# 析取/逻辑或 disjunction (Maria Aloni)
+# 析取/逻辑或 Disjunction (Maria Aloni)

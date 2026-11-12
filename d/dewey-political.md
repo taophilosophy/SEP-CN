@@ -1,4 +1,4 @@
-# 杜威的政治哲学 political philosophy (Matthew Festenstein)
+# 杜威的政治哲学 Dewey’s Political Philosophy (Matthew Festenstein)
 
 *首次发表于 2005 年 2 月 9 日；2023 年 2 月 9 日实质修订。*
 

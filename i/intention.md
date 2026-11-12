@@ -1,4 +1,4 @@
-# 意图 intention (Kieran Setiya)
+# 意图 Intention (Kieran Setiya)
 
 *首次发表于 2009 年 8 月 31 日；2022 年 7 月 20 日实质修订。*
 

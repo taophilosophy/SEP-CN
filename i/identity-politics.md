@@ -1,4 +1,4 @@
-# 身份政治 identity politics (Cressida Heyes)
+# 身份政治 Identity Politics (Cressida Heyes)
 
 *首次发表于 2002 年 7 月 16 日；2024 年 11 月 1 日实质修订。*
 

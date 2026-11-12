@@ -1,1 +1,1 @@
-# 连接逻辑 connexive (Heinrich Wansing)
+# 连接逻辑 Connexive Logic (Heinrich Wansing)

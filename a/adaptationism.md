@@ -1,4 +1,4 @@
-# 适应主义 adaptationism (Steven Hecht Orzack and Patrick Forber)
+# 适应主义 Adaptationism (Steven Hecht Orzack and Patrick Forber)
 
 **首次发表于 2010 年 7 月 22 日。**
 

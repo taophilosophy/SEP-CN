@@ -1,1 +1,1 @@
-# 玻姆力学 Bohmian mechanics (Sheldon Goldstein)
+# 玻姆力学 Bohmian Mechanics (Sheldon Goldstein)

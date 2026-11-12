@@ -1,4 +1,4 @@
-# 约瑟夫·阿尔博 Albo, Joseph (Dror Ehrlich and Shira Weiss)
+# 约瑟夫·阿尔博 Joseph Albo (Dror Ehrlich and Shira Weiss)
 
 **首次发表于 2006 年 7 月 20 日；2024 年 4 月 14 日实质修订。**
 

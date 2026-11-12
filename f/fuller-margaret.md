@@ -1,4 +1,4 @@
-# 玛格丽特·富勒 Fuller, Margaret (Daniel Howe and Sonia Di Loreto)
+# 玛格丽特·富勒 Margaret Fuller (Daniel Howe and Sonia Di Loreto)
 
 *首次发表于 2021 年 5 月 25 日；2026 年 3 月 16 日实质修订。*
 

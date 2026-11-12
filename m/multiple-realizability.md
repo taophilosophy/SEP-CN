@@ -1,1 +1,1 @@
-# 多重可实现性 multiple realizability (John Bickle)
+# 多重可实现性 Multiple Realizability (John Bickle)

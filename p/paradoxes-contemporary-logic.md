@@ -1,1 +1,1 @@
-# 悖论与现代逻辑 and contemporary logic (Andrea Cantini and Riccardo Bruni)
+# 悖论与现代逻辑 Paradoxes and Contemporary Logic (Andrea Cantini and Riccardo Bruni)

@@ -1,1 +1,1 @@
-# 物理实验 experiment in (Allan Franklin and Slobodan Perovic)
+# 物理实验 Experiment in Physics (Allan Franklin and Slobodan Perovic)

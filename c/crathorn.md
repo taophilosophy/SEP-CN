@@ -1,4 +1,4 @@
-# 威廉·克雷索恩 Crathorn, William (Aurélien Robert)
+# 威廉·克雷索恩 William Crathorn (Aurélien Robert)
 
 **首次发表于 2005 年 8 月 12 日；2022 年 2 月 24 日实质修订。**
 

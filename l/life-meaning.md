@@ -1,1 +1,1 @@
-# 生命的意义 meaning of (Thaddeus Metz)
+# 生命的意义 The Meaning of Life (Thaddeus Metz)

@@ -1,1 +1,1 @@
-# 不可通约性价值 incommensurable (Henrik Andersson and Nien-hê Hsieh)
+# 不可通约性价值 Incommensurable Values (Henrik Andersson and Nien-hê Hsieh)

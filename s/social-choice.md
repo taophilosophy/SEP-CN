@@ -1,1 +1,1 @@
-# 社会选择理论 social choice theory (Christian List)
+# 社会选择理论 Social Choice Theory (Christian List)

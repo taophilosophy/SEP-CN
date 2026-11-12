@@ -1,1 +1,1 @@
-# 妄想 delusion (Lisa Bortolotti)
+# 妄想 Delusion (Lisa Bortolotti)

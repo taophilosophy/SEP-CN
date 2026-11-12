@@ -1,1 +1,1 @@
-# 逻辑与游戏 and games (Wilfrid Hodges and Jouko Väänänen)
+# 逻辑与游戏 Logic and Games (Wilfrid Hodges and Jouko Väänänen)

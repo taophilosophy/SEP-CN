@@ -1,4 +1,4 @@
-# 康德对形而上学的批判 critique of metaphysics (Michelle Grier)
+# 康德对形而上学的批判 Kant’s Critique of Metaphysics (Michelle Grier)
 
 *首次发表于 2004 年 2 月 29 日；2022 年 9 月 14 日实质修订。*
 

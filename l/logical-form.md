@@ -1,1 +1,1 @@
-# 逻辑形式 logical form (Paul Pietroski)
+# 逻辑形式 Logical Form (Paul Pietroski)

@@ -1,1 +1,1 @@
-# 比较宗教哲学 comparative philosophy of (Mikel Burley)
+# 比较宗教哲学 Comparative Philosophy of Religion (Mikel Burley)

@@ -1,1 +1,1 @@
-# 艾伦·图灵 Turing, Alan (Andrew Hodges)
+# 艾伦·图灵 Alan Turing (Andrew Hodges)

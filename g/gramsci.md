@@ -1,4 +1,4 @@
-# 安东尼奥·葛兰西 Gramsci, Antonio (James Martin)
+# 安东尼奥·葛兰西 Antonio Gramsci (James Martin)
 
 *首次发表于 2023 年 1 月 13 日。*
 

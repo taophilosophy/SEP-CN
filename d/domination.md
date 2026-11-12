@@ -1,1 +1,1 @@
-# 支配 domination (Richard C. McCammon)
+# 支配 Domination (Richard C. McCammon)

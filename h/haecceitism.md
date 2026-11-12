@@ -1,4 +1,4 @@
-# 此性论 haecceitism (Sam Cowling)
+# 此性论 Haecceitism (Sam Cowling)
 
 **首次发表于 2015 年 10 月 15 日；2022 年 12 月 31 日实质修订。**
 

@@ -1,4 +1,4 @@
-# 格肖姆·朔勒姆 Scholem, Gershom (Daniel Weidner)
+# 格肖姆·朔勒姆 Gershom Scholem (Daniel Weidner)
 
 *首次发表于 2026 年 4 月 14 日。*
 

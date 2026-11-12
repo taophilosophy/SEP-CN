@@ -1,4 +1,4 @@
-# 中世纪哲学中的心理表征 in medieval philosophy (Henrik Lagerlund)
+# 中世纪哲学中的心理表征 Mental Representation in Medieval Philosophy (Henrik Lagerlund)
 
 *首次发表于 2004 年 5 月 28 日；2023 年 12 月 18 日实质修订。*
 

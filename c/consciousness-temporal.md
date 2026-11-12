@@ -1,1 +1,1 @@
-# 时间意识 temporal (Barry Dainton)
+# 时间意识 Temporal Consciousness (Barry Dainton)

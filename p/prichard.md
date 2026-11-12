@@ -1,1 +1,1 @@
-# 哈罗德·阿瑟·普里查德 Prichard, Harold Arthur (Jonathan Dancy)
+# 哈罗德·阿瑟·普里查德 Harold Arthur Prichard (Jonathan Dancy)

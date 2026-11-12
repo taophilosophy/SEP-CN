@@ -1,4 +1,4 @@
-# 伽达默尔的美学 aesthetics (Nicholas Davey and Cynthia Nielsen)
+# 伽达默尔的美学 Gadamer’s Aesthetics (Nicholas Davey and Cynthia Nielsen)
 
 *首次发表于 2007 年 6 月 13 日；2023 年 9 月 6 日实质修订。*
 

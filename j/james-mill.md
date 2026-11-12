@@ -1,1 +1,1 @@
-# 詹姆斯·密尔 Mill, James (Terence Ball and Antis Loizides)
+# 詹姆斯·密尔 James Mill (Terence Ball and Antis Loizides)

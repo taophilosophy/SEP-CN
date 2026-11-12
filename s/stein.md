@@ -1,1 +1,1 @@
-# 埃迪特·施泰因 Stein, Edith (Thomas Szanto and Dermot Moran)
+# 埃迪特·施泰因 Edith Stein (Thomas Szanto and Dermot Moran)

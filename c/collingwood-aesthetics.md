@@ -1,4 +1,4 @@
-# 罗宾·乔治·柯林武德的美学 aesthetics (Gary Kemp)
+# 罗宾·乔治·柯林武德的美学 Collingwood’s Aesthetics (Gary Kemp)
 
 *首次发表于 2007 年 8 月 21 日；2021 年 11 月 30 日实质修订。*
 

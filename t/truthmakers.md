@@ -1,1 +1,1 @@
-# 使真者 truthmakers (Fraser MacBride and Christopher Daly)
+# 使真者 Truthmakers (Fraser MacBride and Christopher Daly)

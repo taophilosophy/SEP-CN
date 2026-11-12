@@ -1,4 +1,4 @@
-# 塞缪尔·亚历山大 Alexander, Samuel (Emily A. E. Thomas)
+# 塞缪尔·亚历山大 Samuel Alexander (Emily A. E. Thomas)
 
 *首次发表于 2014 年 6 月 2 日；2026 年 10 月 6 日实质修订。*
 

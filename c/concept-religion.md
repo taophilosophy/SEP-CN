@@ -1,1 +1,1 @@
-# 宗教的定义 concept of (Kevin Schilbrack)
+# 宗教的定义 The Concept of Religion (Kevin Schilbrack)

@@ -1,1 +1,1 @@
-# 18 世纪苏格兰哲学 in the 18th Century (Alexander Broadie and Craig Smith)
+# 18 世纪苏格兰哲学 Scottish Philosophy in the 18th Century (Alexander Broadie and Craig Smith)

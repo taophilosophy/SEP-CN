@@ -1,1 +1,1 @@
-# 正义与厄运 justice and bad luck (Kasper Lippert-Rasmussen)
+# 正义与厄运 Justice and Bad Luck (Kasper Lippert-Rasmussen)

@@ -1,1 +1,1 @@
-# 商业伦理学 business (Jeffrey Moriarty)
+# 商业伦理学 Business Ethics (Jeffrey Moriarty)

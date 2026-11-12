@@ -1,1 +1,1 @@
-# 法律惩罚 punishment, legal (Zachary Hoskins and Antony Duff)
+# 法律惩罚 Legal Punishment (Zachary Hoskins and Antony Duff)

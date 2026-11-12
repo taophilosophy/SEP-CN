@@ -1,1 +1,1 @@
-# 集合论 set theory (Joan Bagaria)
+# 集合论 Set Theory (Joan Bagaria)

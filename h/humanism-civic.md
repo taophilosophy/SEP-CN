@@ -1,4 +1,4 @@
-# 公民人文主义 civic humanism (Cary Nederman)
+# 公民人文主义 Civic Humanism (Cary Nederman)
 
 *首次发表于 2019 年 3 月 19 日；2024 年 1 月 2 日实质修订。*
 

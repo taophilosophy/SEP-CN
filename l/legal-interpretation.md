@@ -1,1 +1,1 @@
-# 法律解释 legal interpretation (Mark Greenberg)
+# 法律解释 Legal Interpretation (Mark Greenberg)

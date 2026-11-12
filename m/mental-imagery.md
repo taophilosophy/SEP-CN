@@ -1,1 +1,1 @@
-# 心理意象 mental imagery (Bence Nanay)
+# 心理意象 Mental Imagery (Bence Nanay)

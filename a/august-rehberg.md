@@ -1,4 +1,4 @@
-# 奥古斯特·威廉·雷贝格 Rehberg, August Wilhelm (Frederick C. Beiser)
+# 奥古斯特·威廉·雷贝格 August Wilhelm Rehberg (Frederick C. Beiser)
 
 **首次发表于 2007 年 1 月 11 日。**
 

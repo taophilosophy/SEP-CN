@@ -1,1 +1,1 @@
-# 神经伦理学 neuroethics (Adina Roskies)
+# 神经伦理学 Neuroethics (Adina Roskies)

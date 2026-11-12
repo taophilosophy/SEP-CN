@@ -1,4 +1,4 @@
-# 生物利他主义 biological (Samir Okasha)
+# 生物利他主义 Biological Altruism (Samir Okasha)
 
 *首次发表于 2003 年 6 月 3 日；2013 年 7 月 21 日实质修订。*
 

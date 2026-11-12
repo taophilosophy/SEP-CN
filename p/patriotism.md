@@ -1,1 +1,1 @@
-# 爱国主义 patriotism (Igor Primoratz)
+# 爱国主义 Patriotism (Igor Primoratz)

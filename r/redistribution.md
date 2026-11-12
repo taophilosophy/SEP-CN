@@ -1,4 +1,4 @@
-# 再分配 redistribution (Christian Barry)
+# 再分配 Redistribution (Christian Barry)
 
 *首次发表于 2004 年 7 月 2 日；2018 年 2 月 7 日实质修订。*
 

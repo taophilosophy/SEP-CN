@@ -1,1 +1,1 @@
-# 自我认识 self-knowledge (Brie Gertler)
+# 自我认识 Self-Knowledge (Brie Gertler)

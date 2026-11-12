@@ -1,4 +1,4 @@
-# 克罗齐的美学 aesthetics (Gary Kemp)
+# 克罗齐的美学 Croce’s Aesthetics (Gary Kemp)
 
 *首次发表于 2008 年 5 月 4 日；2021 年 10 月 8 日实质修订。*
 

@@ -1,1 +1,1 @@
-# 女性主义哲学 feminist philosophy (Noëlle McAfee, Ann Garry, Anita Superson, Heidi Grasswick, and Serene Khader)
+# 女性主义哲学 Feminist Philosophy (Noëlle McAfee, Ann Garry, Anita Superson, Heidi Grasswick, and Serene Khader)

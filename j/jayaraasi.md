@@ -1,1 +1,1 @@
-# 阇耶罗师·跋陀 Jayarāśi Bhaṭṭa (Piotr Balcerowicz)
+# 阇耶罗师·跋陀 Jayarāśi (Piotr Balcerowicz)

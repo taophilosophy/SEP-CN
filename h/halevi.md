@@ -1,4 +1,4 @@
-# 犹大·哈列维 Halevi, Judah (Ehud Krinis)
+# 犹大·哈列维 Judah Halevi (Ehud Krinis)
 
 *首次发表于 2026 年 7 月 30 日。*
 

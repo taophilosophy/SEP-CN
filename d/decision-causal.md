@@ -1,1 +1,1 @@
-# 因果决策理论 causal (Paul Weirich)
+# 因果决策理论 Causal Decision Theory (Paul Weirich)

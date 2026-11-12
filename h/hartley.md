@@ -1,1 +1,1 @@
-# 大卫·哈特利 Hartley, David (Richard Allen)
+# 大卫·哈特利 David Hartley (Richard Allen)

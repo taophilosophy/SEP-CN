@@ -1,1 +1,1 @@
-# 基础性 fundamentality (Tuomas E. Tahko)
+# 基础性 Fundamentality (Tuomas E. Tahko)

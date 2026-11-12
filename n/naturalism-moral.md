@@ -1,1 +1,1 @@
-# 道德自然主义 moral (Matthew Lutz)
+# 道德自然主义 Moral Naturalism (Matthew Lutz)

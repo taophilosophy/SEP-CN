@@ -1,1 +1,1 @@
-# 中世纪的三段论理论 medieval theories of (Henrik Lagerlund)
+# 中世纪的三段论理论 Medieval Theories of the Syllogism (Henrik Lagerlund)

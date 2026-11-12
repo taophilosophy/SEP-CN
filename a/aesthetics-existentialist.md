@@ -1,4 +1,4 @@
-# 存在主义美学 existentialist aesthetics (Jean-Philippe Deranty)
+# 存在主义美学 Existentialist Aesthetics (Jean-Philippe Deranty)
 
 **首次发表于 2009 年 6 月 26 日；2025 年 2 月 27 日实质修订。**
 

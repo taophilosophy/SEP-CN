@@ -1,1 +1,1 @@
-# 意识表征理论 representational theories of (William Lycan)
+# 意识表征理论 Representational Theories of Consciousness (William Lycan)

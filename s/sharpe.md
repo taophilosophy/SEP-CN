@@ -1,4 +1,4 @@
-# 约翰·夏普 Sharpe, Johannes (Alessandro Conti)
+# 约翰·夏普 Johannes Sharpe (Alessandro Conti)
 
 *首次发表于 2001 年 9 月 24 日；2021 年 12 月 1 日实质修订。*
 

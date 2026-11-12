@@ -1,1 +1,1 @@
-# 遗传系统 inheritance systems (Ehud Lamm)
+# 遗传系统 Inheritance Systems (Ehud Lamm)

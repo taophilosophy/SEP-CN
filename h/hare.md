@@ -1,4 +1,4 @@
-# 理查德·默尔文·黑尔 Hare, Richard Mervyn (Anthony Price)
+# 理查德·默尔文·黑尔 Richard Mervyn Hare (Anthony Price)
 
 *首次发表于 2014 年 6 月 4 日；2019 年 5 月 10 日实质修订。*
 

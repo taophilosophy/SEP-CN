@@ -1,4 +1,4 @@
-# 藏传认识论与语言哲学 Tibetan epistemology and philosophy of language (Pascale Hugon)
+# 藏传认识论与语言哲学 Tibetan Epistemology and Philosophy of Language (Pascale Hugon)
 
 **首次发表于 2011 年 2 月 2 日；2025 年 3 月 16 日实质修订。**
 

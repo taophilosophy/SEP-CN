@@ -1,1 +1,1 @@
-# 科学中理论与观察 theory and observation in (Nora Mills Boyd and James Bogen)
+# 科学中理论与观察 Theory and Observation in Science (Nora Mills Boyd and James Bogen)

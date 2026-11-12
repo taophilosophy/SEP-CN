@@ -1,4 +1,4 @@
-# 康德的先验论证 transcendental arguments (Derk Pereboom)
+# 康德的先验论证 Kant’s Transcendental Arguments (Derk Pereboom)
 
 *首次发表于 2009 年 8 月 21 日；2026 年 10 月 24 日实质修订。*
 

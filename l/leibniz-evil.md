@@ -1,4 +1,4 @@
-# 莱布尼茨论恶的问题 on the problem of evil (Thomas Feeney)
+# 莱布尼茨论恶的问题 Leibniz on the Problem of Evil (Thomas Feeney)
 
 *首次发表于 2026 年 1 月 12 日。*
 

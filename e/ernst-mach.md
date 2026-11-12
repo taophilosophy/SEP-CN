@@ -1,1 +1,1 @@
-# 恩斯特·马赫 Mach, Ernst (Pietro Gori and Luca Guzzardi)
+# 恩斯特·马赫 Ernst Mach (Pietro Gori and Luca Guzzardi)

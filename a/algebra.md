@@ -1,1 +1,1 @@
-# 代数 algebra (Vaughan Pratt)
+# 代数 Algebra (Vaughan Pratt)

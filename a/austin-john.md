@@ -1,4 +1,4 @@
-# 约翰·奥斯丁 Austin, John (Brian Bix)
+# 约翰·奥斯丁 John Austin (Brian Bix)
 
 **首次发表于 2001 年 2 月 24 日；2026 年 1 月 12 日实质修订。**
 

@@ -1,1 +1,1 @@
-# 思维语言假说 language of thought hypothesis (Michael Rescorla)
+# 思维语言假说 The Language of Thought Hypothesis (Michael Rescorla)

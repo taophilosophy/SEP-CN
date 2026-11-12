@@ -1,1 +1,1 @@
-# 实践理性与行动结构 and the structure of actions (Elijah Millgram and Margaret Bowman)
+# 实践理性与行动结构 Practical Reason and the Structure of Actions (Elijah Millgram and Margaret Bowman)

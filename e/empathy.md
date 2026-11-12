@@ -1,1 +1,1 @@
-# 同理心 empathy (Karsten Stueber)
+# 同理心 Empathy (Karsten Stueber)

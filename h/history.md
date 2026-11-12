@@ -1,1 +1,1 @@
-# 历史哲学 history, philosophy of (Daniel Little)
+# 历史哲学 Philosophy of History (Daniel Little)

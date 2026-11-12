@@ -1,4 +1,4 @@
-# 韩国儒学 Confucianism (Kevin N. Cawley)
+# 韩国儒学 Korean Confucianism (Kevin N. Cawley)
 
 *首次发表于 2021 年 11 月 24 日；2026 年 4 月 15 日实质修订。*
 

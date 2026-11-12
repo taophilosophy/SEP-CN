@@ -1,4 +1,4 @@
-# 拉尔夫·库德沃斯 Cudworth, Ralph (Sarah Hutton)
+# 拉尔夫·库德沃斯 Ralph Cudworth (Sarah Hutton)
 
 *首次发表于 2021 年 5 月 7 日；2025 年 8 月 15 日实质修订。*
 

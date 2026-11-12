@@ -1,1 +1,1 @@
-# 道德推理 moral (Henry S. Richardson)
+# 道德推理 Moral Reasoning (Henry S. Richardson)

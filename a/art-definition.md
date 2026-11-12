@@ -1,1 +1,1 @@
-# 艺术的定义 art, definition of (Thomas Adajian)
+# 艺术的定义 The Definition of Art (Thomas Adajian)

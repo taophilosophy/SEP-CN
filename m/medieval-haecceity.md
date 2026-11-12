@@ -1,1 +1,1 @@
-# 中世纪的此性理论 medieval theories of (Richard Cross)
+# 中世纪的此性理论 Medieval Theories of Haecceity (Richard Cross)

@@ -1,1 +1,1 @@
-# 自我定位信念 self-locating beliefs (Andy Egan and Michael G. Titelbaum)
+# 自我定位信念 Self-Locating Beliefs (Andy Egan and Michael G. Titelbaum)

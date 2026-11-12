@@ -1,1 +1,1 @@
-# 弗朗索瓦·普兰·德拉巴尔 Poulain de la Barre, François (Martina Reuter)
+# 弗朗索瓦·普兰·德拉巴尔 François Poulain de la Barre (Martina Reuter)

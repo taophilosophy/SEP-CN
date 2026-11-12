@@ -1,1 +1,1 @@
-# 摩尔的伦理学 moral philosophy (Thomas Hurka)
+# 摩尔的伦理学 Moore’s Moral Philosophy (Thomas Hurka)

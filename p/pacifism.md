@@ -1,1 +1,1 @@
-# 和平主义 pacifism (Andrew Fiala)
+# 和平主义 Pacifism (Andrew Fiala)

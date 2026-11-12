@@ -1,1 +1,1 @@
-# 群体权利 group (Peter Jones)
+# 群体权利 Group Rights (Peter Jones)

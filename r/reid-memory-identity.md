@@ -1,4 +1,4 @@
-# 里德论记忆与人格同一性 on memory and personal identity (Rebecca Copenhaver)
+# 里德论记忆与人格同一性 Reid on Memory and Personal Identity (Rebecca Copenhaver)
 
 *首次发表于 2009 年 3 月 18 日；2024 年 11 月 7 日实质修订。*
 

@@ -1,4 +1,4 @@
-# 身体意识 bodily awareness (Frédérique de Vignemont)
+# 身体意识 Bodily Awareness (Frédérique de Vignemont)
 
 *首次发表于 2011 年 8 月 9 日；2024 年 9 月 20 日实质修订。*
 

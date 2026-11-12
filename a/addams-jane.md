@@ -1,4 +1,4 @@
-# 简·亚当斯 Addams, Jane (Maurice Hamington)
+# 简·亚当斯 Jane Addams (Maurice Hamington)
 
 **首次发表于 2006 年 6 月 7 日；2026 年 8 月 11 日实质修订。**
 

@@ -1,1 +1,1 @@
-# 临床研究伦理 clinical research (David Wendler)
+# 临床研究伦理 The Ethics of Clinical Research (David Wendler)

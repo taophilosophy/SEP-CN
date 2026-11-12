@@ -1,1 +1,1 @@
-# 社会制度 social institutions (Seumas Miller)
+# 社会制度 Social Institutions (Seumas Miller)

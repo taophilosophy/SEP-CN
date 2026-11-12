@@ -1,1 +1,1 @@
-# 代际正义 intergenerational (Lukas Meyer)
+# 代际正义 Intergenerational Justice (Lukas Meyer)

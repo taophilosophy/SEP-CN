@@ -1,1 +1,1 @@
-# 阿尔弗雷德·舒茨 Schutz, Alfred (Michael Barber)
+# 阿尔弗雷德·舒茨 Alfred Schutz (Michael Barber)

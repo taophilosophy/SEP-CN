@@ -1,4 +1,4 @@
-# 伯多禄·达弥盎 Damian, Peter (Toivo J. Holopainen)
+# 伯多禄·达弥盎 Peter Damian (Toivo J. Holopainen)
 
 *首次发表于 2003 年 8 月 27 日；2024 年 10 月 7 日实质修订。*
 

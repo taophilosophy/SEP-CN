@@ -1,1 +1,1 @@
-# 似真性 truthlikeness (Graham Oddie and Gustavo Cevolani)
+# 似真性 Truthlikeness (Graham Oddie and Gustavo Cevolani)

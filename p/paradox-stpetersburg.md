@@ -1,1 +1,1 @@
-# 圣彼得堡悖论 St. Petersburg paradox (Martin Peterson)
+# 圣彼得堡悖论 The St. Petersburg Paradox (Martin Peterson)

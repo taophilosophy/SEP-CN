@@ -1,1 +1,1 @@
-# 功利主义 consequentializing (Douglas W. Portmore)
+# 功利主义 Consequentializing (Douglas W. Portmore)

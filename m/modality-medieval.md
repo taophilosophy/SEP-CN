@@ -1,1 +1,1 @@
-# 中世纪的模态理论 medieval theories of (Simo Knuuttila)
+# 中世纪的模态理论 Medieval Theories of Modality (Simo Knuuttila)

@@ -1,1 +1,1 @@
-# 道教 religious (Fabrizio Pregadio)
+# 道教 Religious Daoism (Fabrizio Pregadio)

@@ -1,1 +1,1 @@
-# 人权 human (James Nickel and Adam Etinson)
+# 人权 Human Rights (James Nickel and Adam Etinson)

@@ -1,1 +1,1 @@
-# 宗教与科学 and science (Helen De Cruz)
+# 宗教与科学 Religion and Science (Helen De Cruz)

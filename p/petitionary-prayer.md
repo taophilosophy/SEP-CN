@@ -1,4 +1,4 @@
-# 祈求式祷告 petitionary (Scott A. Davison)
+# 祈求式祷告 Petitionary Prayer (Scott A. Davison)
 
 *首次发表于 2012 年 8 月 15 日；2026 年 5 月 18 日实质修订。*
 

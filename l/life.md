@@ -1,1 +1,1 @@
-# 生命 life (Carlos Mariscal)
+# 生命 Life (Carlos Mariscal)

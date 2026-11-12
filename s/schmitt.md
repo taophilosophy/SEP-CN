@@ -1,1 +1,1 @@
-# 卡尔·施米特 Schmitt, Carl (Lars Vinx)
+# 卡尔·施米特 Carl Schmitt (Lars Vinx)

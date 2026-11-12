@@ -1,1 +1,1 @@
-# 现象学 phenomenology (David Woodruff Smith)
+# 现象学 Phenomenology (David Woodruff Smith)

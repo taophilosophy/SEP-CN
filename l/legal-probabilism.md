@@ -1,1 +1,1 @@
-# 法律概然性 legal probabilism (Rafal Urbaniak and Marcello Di Bello)
+# 法律概然性 Legal Probabilism (Rafal Urbaniak and Marcello Di Bello)

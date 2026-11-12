@@ -1,1 +1,1 @@
-# 实用主义真理观 pragmatic theory of (John Capps)
+# 实用主义真理观 The Pragmatic Theory of Truth (John Capps)

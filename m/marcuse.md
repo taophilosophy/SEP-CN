@@ -1,1 +1,1 @@
-# 赫伯特·马尔库塞 Marcuse, Herbert (Arnold Farr)
+# 赫伯特·马尔库塞 Herbert Marcuse (Arnold Farr)

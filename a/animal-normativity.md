@@ -1,1 +1,1 @@
-# 动物规范性 normativity (Simon Fitzpatrick)
+# 动物规范性 Animal Normativity (Simon Fitzpatrick)

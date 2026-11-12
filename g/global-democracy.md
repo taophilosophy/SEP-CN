@@ -1,1 +1,1 @@
-# 全球民主 global (Jonathan Kuyper)
+# 全球民主 Global Democracy (Jonathan Kuyper)

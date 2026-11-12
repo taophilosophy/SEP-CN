@@ -1,1 +1,1 @@
-# 中国易经哲学 philosophy of change (Tze-Ki Hon)
+# 中国易经哲学 Chinese Philosophy of Change (Yijing) (Tze-Ki Hon)

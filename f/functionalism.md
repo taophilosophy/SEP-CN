@@ -1,1 +1,1 @@
-# 功能主义 functionalism (Janet Levin)
+# 功能主义 Functionalism (Janet Levin)

@@ -1,1 +1,1 @@
-# 神启 revelation, divine (Mats Wahlberg)
+# 神启 Divine Revelation (Mats Wahlberg)

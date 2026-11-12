@@ -1,1 +1,1 @@
-# 自然主义 naturalism (David Papineau)
+# 自然主义 Naturalism (David Papineau)

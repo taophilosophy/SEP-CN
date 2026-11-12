@@ -1,1 +1,1 @@
-# 过程神学 process theism (Donald Viney)
+# 过程神学 Process Theism (Donald Viney)

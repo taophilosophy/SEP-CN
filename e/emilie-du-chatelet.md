@@ -1,4 +1,4 @@
-# 夏特莱侯爵夫人 Châtelet, Émilie du (Karen Detlefsen)
+# 夏特莱侯爵夫人 Émilie du Châtelet (Karen Detlefsen)
 
 **首次发表于 2013 年 5 月 29 日；2014 年 6 月 13 日实质修订。**
 

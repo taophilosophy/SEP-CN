@@ -1,1 +1,1 @@
-# 怀疑论式有神论 skeptical theism (Timothy Perrine)
+# 怀疑论式有神论 Skeptical Theism (Timothy Perrine)

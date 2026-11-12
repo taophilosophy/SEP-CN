@@ -1,1 +1,1 @@
-# 自动推理 automated (Frederic Portoraro)
+# 自动推理 Automated Reasoning (Frederic Portoraro)

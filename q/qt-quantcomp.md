@@ -1,1 +1,1 @@
-# 量子计算 quantum computing (Michael Cuffaro and Amit Hagar)
+# 量子计算 Quantum Computing (Michael Cuffaro and Amit Hagar)

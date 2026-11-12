@@ -1,1 +1,1 @@
-# 日本净土宗哲学 Pure Land (Dennis Hirota)
+# 日本净土宗哲学 Japanese Pure Land Philosophy (Dennis Hirota)

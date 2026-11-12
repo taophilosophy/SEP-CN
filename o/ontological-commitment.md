@@ -1,1 +1,1 @@
-# 本体论承诺 ontological commitment (Phillip Bricker)
+# 本体论承诺 Ontological Commitment (Phillip Bricker)

@@ -1,1 +1,1 @@
-# 社会规范 social norms (Cristina Bicchieri, Ryan Muldoon, and Alessandro Sontuoso)
+# 社会规范 Social Norms (Cristina Bicchieri, Ryan Muldoon, and Alessandro Sontuoso)

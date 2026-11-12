@@ -1,4 +1,4 @@
-# 真理融贯论 coherence theory of (James O. Young)
+# 真理融贯论 The Coherence Theory of Truth (James O. Young)
 
 *首次发表于 1996 年 9 月 3 日；2025 年 12 月 27 日实质修订。*
 

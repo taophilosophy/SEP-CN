@@ -1,4 +1,4 @@
-# 亚历山大·克鲁梅尔 Crummell, Alexander (Stephen Thompson)
+# 亚历山大·克鲁梅尔 Alexander Crummell (Stephen Thompson)
 
 **首次发表于 2011 年 6 月 6 日；2024 年 12 月 19 日实质修订。**
 

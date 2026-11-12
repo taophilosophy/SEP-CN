@@ -1,1 +1,1 @@
-# 遗传漂变 genetic drift (Roberta L. Millstein)
+# 遗传漂变 Genetic Drift (Roberta L. Millstein)

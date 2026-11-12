@@ -1,1 +1,1 @@
-# 本体论依赖 dependence, ontological (Tuomas E. Tahko and E. Jonathan Lowe)
+# 本体论依赖 Ontological Dependence (Tuomas E. Tahko and E. Jonathan Lowe)

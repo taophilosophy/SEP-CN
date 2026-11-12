@@ -1,1 +1,1 @@
-# 女性主义美学 aesthetics (Carolyn Korsmeyer and Peg Brand Weiser)
+# 女性主义美学 Feminist Aesthetics (Carolyn Korsmeyer and Peg Brand Weiser)

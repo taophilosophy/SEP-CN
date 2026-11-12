@@ -1,4 +1,4 @@
-# 约翰内斯·开普勒 Kepler, Johannes (Daniel A. Di Liscia)
+# 约翰内斯·开普勒 Johannes Kepler (Daniel A. Di Liscia)
 
 *首次发表于 2011 年 5 月 2 日；2025 年 9 月 14 日实质修订。*
 

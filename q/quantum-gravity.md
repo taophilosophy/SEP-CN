@@ -1,1 +1,1 @@
-# 量子引力 quantum gravity (Steven Weinstein and Dean Rickles)
+# 量子引力 Quantum Gravity (Steven Weinstein and Dean Rickles)

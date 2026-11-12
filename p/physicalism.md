@@ -1,1 +1,1 @@
-# 物理主义 physicalism (Daniel Stoljar)
+# 物理主义 Physicalism (Daniel Stoljar)

@@ -1,4 +1,4 @@
-# 残疾与医疗卫生配给 disability and health care rationing (Jerome Bickenbach)
+# 残疾与医疗卫生配给 Disability and Health Care Rationing (Jerome Bickenbach)
 
 *首次发表于 2016 年 1 月 29 日。*
 

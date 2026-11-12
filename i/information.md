@@ -1,1 +1,1 @@
-# 信息 information (Pieter Adriaans)
+# 信息 Information (Pieter Adriaans)

@@ -1,1 +1,1 @@
-# 量子逻辑和概率论 quantum logic and probability theory (Alexander Wilce)
+# 量子逻辑和概率论 Quantum Logic and Probability Theory (Alexander Wilce)

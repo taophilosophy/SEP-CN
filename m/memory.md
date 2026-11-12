@@ -1,1 +1,1 @@
-# 记忆 memory (Kourken Michaelian and John Sutton)
+# 记忆 Memory (Kourken Michaelian and John Sutton)

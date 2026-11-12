@@ -1,1 +1,1 @@
-# 真理同一论 identity theory of (Richard Gaskin)
+# 真理同一论 The Identity Theory of Truth (Richard Gaskin)

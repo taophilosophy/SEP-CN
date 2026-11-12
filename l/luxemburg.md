@@ -1,4 +1,4 @@
-# 罗莎·卢森堡 Luxemburg, Rosa (Lea Ypi)
+# 罗莎·卢森堡 Rosa Luxemburg (Lea Ypi)
 
 *首次发表于 2022 年 4 月 13 日。*
 

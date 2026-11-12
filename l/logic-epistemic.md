@@ -1,1 +1,1 @@
-# 认知逻辑 epistemic (Rasmus Rendsvig, John Symons, and Yanjing Wang)
+# 认知逻辑 Epistemic Logic (Rasmus Rendsvig, John Symons, and Yanjing Wang)

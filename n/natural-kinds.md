@@ -1,1 +1,1 @@
-# 自然类 natural kinds (Alexander Bird and Emma Tobin)
+# 自然类 Natural Kinds (Alexander Bird and Emma Tobin)

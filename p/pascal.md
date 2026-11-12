@@ -1,1 +1,1 @@
-# 布莱士·帕斯卡 Pascal, Blaise (Desmond Clarke and William Wood)
+# 布莱士·帕斯卡 Blaise Pascal (Desmond Clarke and William Wood)

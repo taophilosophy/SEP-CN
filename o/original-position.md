@@ -1,1 +1,1 @@
-# 原初状态 original position (Samuel Freeman)
+# 原初状态 Original Position (Samuel Freeman)

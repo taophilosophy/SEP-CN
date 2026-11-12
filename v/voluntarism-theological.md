@@ -1,1 +1,1 @@
-# 神学意志主义 voluntarism, theological (Mark Murphy)
+# 神学意志主义 Theological Voluntarism (Mark Murphy)

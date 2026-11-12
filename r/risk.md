@@ -1,4 +1,4 @@
-# 风险 risk (Sven Ove Hansson)
+# 风险 Risk (Sven Ove Hansson)
 
 *首次发表于 2007 年 3 月 13 日；2022 年 12 月 8 日实质修订。*
 

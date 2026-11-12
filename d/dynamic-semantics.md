@@ -1,1 +1,1 @@
-# 动态语义 dynamic (Rick Nouwen, Adrian Brasoveanu, Jan van Eijck, and Albert Visser)
+# 动态语义 Dynamic Semantics (Rick Nouwen, Adrian Brasoveanu, Jan van Eijck, and Albert Visser)

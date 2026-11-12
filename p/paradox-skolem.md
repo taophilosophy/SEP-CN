@@ -1,1 +1,1 @@
-# 斯科伦悖论 Skolem’s (Timothy Bays)
+# 斯科伦悖论 Skolem’s Paradox (Timothy Bays)

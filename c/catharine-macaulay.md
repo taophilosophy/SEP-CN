@@ -1,1 +1,1 @@
-# 凯瑟琳·麦考利 Macaulay, Catharine (Karen Green)
+# 凯瑟琳·麦考利 Catharine Macaulay (Karen Green)

@@ -1,4 +1,4 @@
-# 亨利·柏格森 Bergson, Henri (Leonard Lawlor and Valentine Moulard-Leonard)
+# 亨利·柏格森 Henri Bergson (Leonard Lawlor and Valentine Moulard-Leonard)
 
 **首次发表于 2004 年 5 月 18 日；2025 年 10 月 22 日实质修订。**
 

@@ -1,1 +1,1 @@
-# 托马斯·杰斐逊 Jefferson, Thomas (M. Andrew Holowchak)
+# 托马斯·杰斐逊 Thomas Jefferson (M. Andrew Holowchak)

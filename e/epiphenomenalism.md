@@ -1,4 +1,4 @@
-# 副现象主义 epiphenomenalism (William Robinson)
+# 副现象主义 Epiphenomenalism (William Robinson)
 
 *首次发表于 1999 年 1 月 18 日；2023 年 6 月 15 日实质修订。*
 

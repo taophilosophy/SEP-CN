@@ -1,4 +1,4 @@
-# 预言 prophecy (Scott A. Davison)
+# 预言 Prophecy (Scott A. Davison)
 
 *首次发表于 2005 年 2 月 18 日；2022 年 10 月 18 日实质修订。*
 

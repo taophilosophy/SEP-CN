@@ -1,1 +1,1 @@
-# 古德曼的美学 aesthetics (Alessandro Giovannelli)
+# 古德曼的美学 Goodman’s Aesthetics (Alessandro Giovannelli)

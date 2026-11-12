@@ -1,1 +1,1 @@
-# 马尔西利奥·费奇诺 Ficino, Marsilio (Christopher S. Celenza)
+# 马尔西利奥·费奇诺 Marsilio Ficino (Christopher S. Celenza)

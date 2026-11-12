@@ -1,4 +1,4 @@
-# 皮埃尔·培尔 Bayle, Pierre (Michael Hickson)
+# 皮埃尔·培尔 Pierre Bayle (Michael Hickson)
 
 **首次发表于 2003 年 2 月 7 日；2023 年 1 月 12 日实质修订。**
 

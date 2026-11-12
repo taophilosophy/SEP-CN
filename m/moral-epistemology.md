@@ -1,1 +1,1 @@
-# 道德认识论 moral epistemology (Richmond Campbell)
+# 道德认识论 Moral Epistemology (Richmond Campbell)

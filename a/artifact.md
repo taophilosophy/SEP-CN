@@ -1,1 +1,1 @@
-# 人造物 artifact (Beth Preston)
+# 人造物 Artifact (Beth Preston)

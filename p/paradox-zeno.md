@@ -1,1 +1,1 @@
-# 芝诺悖论 Zeno’s paradoxes (Nick Huggett)
+# 芝诺悖论 Zeno’s Paradoxes (Nick Huggett)

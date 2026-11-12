@@ -1,1 +1,1 @@
-# 大卫·休谟 Hume, David (Hsueh Qu and Elizabeth S. Radcliffe)
+# 大卫·休谟 David Hume (Hsueh Qu and Elizabeth S. Radcliffe)

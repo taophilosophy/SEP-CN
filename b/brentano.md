@@ -1,4 +1,4 @@
-# 弗朗兹·布伦塔诺 Brentano, Franz (Wolfgang Huemer)
+# 弗朗兹·布伦塔诺 Franz Brentano (Wolfgang Huemer)
 
 *首次发表于 2002 年 12 月 4 日；2019 年 1 月 30 日实质修订。*
 

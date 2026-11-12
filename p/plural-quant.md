@@ -1,1 +1,1 @@
-# 多元量化 plural quantification (Øystein Linnebo)
+# 多元量化 Plural Quantification (Øystein Linnebo)

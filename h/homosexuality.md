@@ -1,4 +1,4 @@
-# 同性恋 homosexuality (Brent Pickett)
+# 同性恋 Homosexuality (Brent Pickett)
 
 *首次发表于 2002 年 8 月 6 日；2020 年 4 月 28 日实质修订。*
 

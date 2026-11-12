@@ -1,1 +1,1 @@
-# 认识语境论 contextualism, epistemic (Patrick Rysiew)
+# 认识语境论 Epistemic Contextualism (Patrick Rysiew)

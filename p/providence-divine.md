@@ -1,1 +1,1 @@
-# 神意 providence, divine (Hugh J. McCann and Daniel M. Johnson)
+# 神意 Divine Providence (Hugh J. McCann and Daniel M. Johnson)

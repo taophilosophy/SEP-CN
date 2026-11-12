@@ -1,1 +1,1 @@
-# 联邦主义 federalism (Andreas Follesdal)
+# 联邦主义 Federalism (Andreas Follesdal)

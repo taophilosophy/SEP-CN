@@ -1,1 +1,1 @@
-# 私人语言 private language (Stewart Candlish and George Wrisley)
+# 私人语言 Private Language (Stewart Candlish and George Wrisley)

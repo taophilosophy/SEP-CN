@@ -1,1 +1,1 @@
-# 莫里斯·梅洛-庞蒂 Merleau-Ponty, Maurice (Ted Toadvine)
+# 莫里斯·梅洛-庞蒂 Maurice Merleau-Ponty (Ted Toadvine)

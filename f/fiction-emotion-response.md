@@ -1,1 +1,1 @@
-# 对虚构的情感反应 emotional responses to (Katie Tullmann)
+# 对虚构的情感反应 Emotional Responses to Fiction (Katie Tullmann)

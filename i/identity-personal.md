@@ -1,4 +1,4 @@
-# 人格同一性 personal identity (Eric T. Olson)
+# 人格同一性 Personal Identity (Eric T. Olson)
 
 *首次发表于 2002 年 8 月 20 日；2023 年 6 月 30 日实质修订。*
 

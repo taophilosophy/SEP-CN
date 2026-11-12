@@ -1,1 +1,1 @@
-# 约翰·安德森 Anderson, John (Creagh McLean Cole)
+# 约翰·安德森 John Anderson (Creagh McLean Cole)

@@ -1,1 +1,1 @@
-# 优绩主义 meritocracy (Thomas Mulligan)
+# 优绩主义 Meritocracy (Thomas Mulligan)

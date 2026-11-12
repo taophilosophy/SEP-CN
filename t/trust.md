@@ -1,1 +1,1 @@
-# 信任 trust (Carolyn McLeod)
+# 信任 Trust (Carolyn McLeod)

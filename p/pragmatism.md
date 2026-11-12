@@ -1,1 +1,1 @@
-# 实用主义 pragmatism (Catherine Legg and Christopher Hookway)
+# 实用主义 Pragmatism (Catherine Legg and Christopher Hookway)

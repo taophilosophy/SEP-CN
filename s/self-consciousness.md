@@ -1,1 +1,1 @@
-# 自我意识 self-consciousness (Joel Smith)
+# 自我意识 Self-Consciousness (Joel Smith)

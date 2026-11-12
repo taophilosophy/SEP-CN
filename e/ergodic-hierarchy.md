@@ -1,1 +1,1 @@
-# 遍历层次 ergodic hierarchy (Roman Frigg, Joseph Berkovitz, and Fred Kronz)
+# 遍历层次 The Ergodic Hierarchy (Roman Frigg, Joseph Berkovitz, and Fred Kronz)

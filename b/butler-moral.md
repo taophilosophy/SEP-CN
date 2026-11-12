@@ -1,4 +1,4 @@
-# 约瑟夫·巴特勒的伦理学 moral philosophy (Aaron Garrett)
+# 约瑟夫·巴特勒的伦理学 Joseph Butler’s Moral Philosophy (Aaron Garrett)
 
 **首次发表于 2012 年 10 月 17 日；2023 年 11 月 27 日实质修订。**
 

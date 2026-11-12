@@ -1,4 +1,4 @@
-# 康德的社会与政治哲学 social and political philosophy (Frederick Rauscher)
+# 康德的社会与政治哲学 Kant’s Social and Political Philosophy (Frederick Rauscher)
 
 *首次发表于 2007 年 7 月 24 日；2026 年 6 月 8 日实质修订。*
 

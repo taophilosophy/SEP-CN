@@ -1,4 +1,4 @@
-# 热罗·德·科尔德穆瓦 Cordemoy, Géraud de (Fred Ablondi)
+# 热罗·德·科尔德穆瓦 Géraud de Cordemoy (Fred Ablondi)
 
 **首次发表于 2005 年 1 月 8 日；2026 年 5 月 7 日实质修订。**
 

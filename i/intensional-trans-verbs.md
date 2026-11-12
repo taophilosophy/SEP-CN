@@ -1,4 +1,4 @@
-# 内涵及物动词 intensional transitive verbs (Graeme Forbes)
+# 内涵及物动词 Intensional Transitive Verbs (Graeme Forbes)
 
 *首次发表于 2004 年 11 月 3 日；2025 年 5 月 29 日实质修订。*
 

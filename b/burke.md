@@ -1,1 +1,1 @@
-# 埃德蒙·伯克 Burke, Edmund (Ian Harris)
+# 埃德蒙·伯克 Edmund Burke (Ian Harris)

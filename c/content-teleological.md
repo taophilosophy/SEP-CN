@@ -1,1 +1,1 @@
-# 心理内容的目的论 teleological theories of (Peter Schulte and Karen Neander)
+# 心理内容的目的论 Teleological Theories of Mental Content (Peter Schulte and Karen Neander)

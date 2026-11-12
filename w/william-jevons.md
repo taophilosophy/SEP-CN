@@ -1,4 +1,4 @@
-# 威廉·斯坦利·杰文斯 Jevons, William Stanley (Bert Mosselmans)
+# 威廉·斯坦利·杰文斯 William Stanley Jevons (Bert Mosselmans)
 
 *首次发表于 2007 年 1 月 22 日；2015 年 2 月 12 日实质修订。*
 

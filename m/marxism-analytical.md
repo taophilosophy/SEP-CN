@@ -1,1 +1,1 @@
-# 分析马克思主义 Marxism, analytical (David Leopold)
+# 分析马克思主义 Analytical Marxism (David Leopold)

@@ -1,1 +1,1 @@
-# 布拉德雷倒退 Regress (Katarina Perovic)
+# 布拉德雷倒退 Bradley’s Regress (Katarina Perovic)

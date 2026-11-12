@@ -1,1 +1,1 @@
-# 荷兰赌论证 Dutch book arguments (Susan Vineberg)
+# 荷兰赌论证 Dutch Book Arguments (Susan Vineberg)

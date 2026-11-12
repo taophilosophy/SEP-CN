@@ -1,4 +1,4 @@
-# 恩斯特·布洛赫 Bloch, Ernst (Ivan Boldyrev)
+# 恩斯特·布洛赫 Ernst Bloch (Ivan Boldyrev)
 
 *首次发表于 2023 年 1 月 25 日。*
 

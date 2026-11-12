@@ -1,1 +1,1 @@
-# 亚里士多德的逻辑学 logic (Robin Smith)
+# 亚里士多德的逻辑学 Aristotle’s Logic (Robin Smith)

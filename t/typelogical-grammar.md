@@ -1,1 +1,1 @@
-# 类型语法 typelogical (Michael Moortgat)
+# 类型语法 Typelogical Grammar (Michael Moortgat)

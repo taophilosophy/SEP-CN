@@ -1,1 +1,1 @@
-# 描绘 depiction (John Hyman and Katerina Bantinaki)
+# 描绘 Depiction (John Hyman and Katerina Bantinaki)

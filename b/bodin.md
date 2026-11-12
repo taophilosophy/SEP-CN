@@ -1,1 +1,1 @@
-# 让·博丹 Bodin, Jean (Mario Turchetti)
+# 让·博丹 Jean Bodin (Mario Turchetti)

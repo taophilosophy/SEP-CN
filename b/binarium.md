@@ -1,4 +1,4 @@
-# 最著名的一对 binarium famosissimum [= most famous pair] (Paul Vincent Spade)
+# 最著名的一对 Binarium Famosissimum (Paul Vincent Spade)
 
 **首次发表于 2003 年 7 月 14 日；2008 年 6 月 16 日实质修订。**
 

@@ -1,1 +1,1 @@
-# 让-保罗·萨特 Sartre, Jean-Paul (Jack Reynolds and Pierre-Jean Renaudie)
+# 让-保罗·萨特 Jean-Paul Sartre (Jack Reynolds and Pierre-Jean Renaudie)

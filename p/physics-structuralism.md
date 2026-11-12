@@ -1,1 +1,1 @@
-# 物理学中的结构主义 structuralism in (Heinz-Juergen Schmidt)
+# 物理学中的结构主义 Structuralism in Physics (Heinz-Juergen Schmidt)

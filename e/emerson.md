@@ -1,4 +1,4 @@
-# 拉尔夫·沃尔多·爱默生 Emerson, Ralph Waldo (Russell Goodman)
+# 拉尔夫·沃尔多·爱默生 Ralph Waldo Emerson (Russell Goodman)
 
 
 ![爱默生照片](../yuanwen/assets/emerson/emerson.jpg)

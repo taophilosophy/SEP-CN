@@ -1,1 +1,1 @@
-# 社会生物学 sociobiology (Catherine Driscoll)
+# 社会生物学 Sociobiology (Catherine Driscoll)

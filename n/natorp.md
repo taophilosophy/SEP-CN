@@ -1,1 +1,1 @@
-# 保罗·那托普 Natorp, Paul (Alan Kim)
+# 保罗·那托普 Paul Natorp (Alan Kim)

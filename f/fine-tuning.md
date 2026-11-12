@@ -1,1 +1,1 @@
-# 微调 fine-tuning (Simon Friederich)
+# 微调 Fine-Tuning (Simon Friederich)

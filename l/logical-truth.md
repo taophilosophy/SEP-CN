@@ -1,1 +1,1 @@
-# 逻辑真理 logical truth (Mario Gómez-Torrente)
+# 逻辑真理 Logical Truth (Mario Gómez-Torrente)

@@ -1,4 +1,4 @@
-# 经济民主 economic (Lisa Herzog)
+# 经济民主 Economic Democracy (Lisa Herzog)
 
 **首次发表于 2026 年 5 月 14 日。**
 

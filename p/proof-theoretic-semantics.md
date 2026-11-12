@@ -1,1 +1,1 @@
-# 证明论语义 proof-theoretic (Peter Schroeder-Heister)
+# 证明论语义 Proof-Theoretic Semantics (Peter Schroeder-Heister)

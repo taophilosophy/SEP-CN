@@ -1,1 +1,1 @@
-# 自我欺骗 self-deception (Ian Deweese-Boyd)
+# 自我欺骗 Self-Deception (Ian Deweese-Boyd)

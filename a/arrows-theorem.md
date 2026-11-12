@@ -1,1 +1,1 @@
-# 阿罗定理 Arrow’s theorem (Michael Morreau)
+# 阿罗定理 Arrow’s Theorem (Michael Morreau)

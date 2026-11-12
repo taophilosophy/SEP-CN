@@ -1,4 +1,4 @@
-# 创造与保全 creation and conservation (David Vander Laan)
+# 创造与保全 Creation and Conservation (David Vander Laan)
 
 *首次发表于 2017 年 11 月 9 日；2022 年 3 月 8 日实质修订。*
 

@@ -1,4 +1,4 @@
-# 哈斯代·克雷斯卡斯 Crescas, Hasdai (Shalom Sadik)
+# 哈斯代·克雷斯卡斯 Hasdai Crescas (Shalom Sadik)
 
 *首次发表于 2012 年 1 月 4 日；2024 年 2 月 7 日实质修订。*
 

@@ -1,1 +1,1 @@
-# 弗里德里希·哈耶克 Hayek, Friedrich (David Schmidtz and Peter Boettke)
+# 弗里德里希·哈耶克 Friedrich Hayek (David Schmidtz and Peter Boettke)

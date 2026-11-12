@@ -1,1 +1,1 @@
-# 宽恕 forgiveness (Luke Russell and Brandon Warmke)
+# 宽恕 Forgiveness (Luke Russell and Brandon Warmke)

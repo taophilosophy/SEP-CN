@@ -1,4 +1,4 @@
-# 凯瑟琳·特洛特·考克本 Cockburn, Catharine Trotter (Patricia Sheridan)
+# 凯瑟琳·特洛特·考克本 Catharine Trotter Cockburn (Patricia Sheridan)
 
 **首次发表于 2005 年 1 月 8 日；2023 年 11 月 10 日实质修订。**
 

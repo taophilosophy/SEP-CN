@@ -1,1 +1,1 @@
-# 威廉·惠威尔 Whewell, William (Laura J. Snyder)
+# 威廉·惠威尔 William Whewell (Laura J. Snyder)

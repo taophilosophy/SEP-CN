@@ -1,1 +1,1 @@
-# 柏拉图的美学 aesthetics (Nickolas Pappas)
+# 柏拉图的美学 Plato’s Aesthetics (Nickolas Pappas)

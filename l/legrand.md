@@ -1,4 +1,4 @@
-# 安托万·勒·格兰德 Le Grand, Antoine (Patricia Easton)
+# 安托万·勒·格兰德 Antoine Le Grand (Patricia Easton)
 
 *首次发表于 2001 年 9 月 14 日；2023 年 7 月 26 日实质修订。*
 

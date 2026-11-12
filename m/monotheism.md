@@ -1,1 +1,1 @@
-# 一神论 monotheism (William Wainwright)
+# 一神论 Monotheism (William Wainwright)

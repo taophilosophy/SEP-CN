@@ -1,1 +1,1 @@
-# 人类基因组计划 human genome project (Lisa Gannett)
+# 人类基因组计划 The Human Genome Project (Lisa Gannett)

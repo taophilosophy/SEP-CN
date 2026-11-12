@@ -1,1 +1,1 @@
-# 道德责任的认知条件 the epistemic condition (Fernando Rudy-Hiller)
+# 道德责任的认知条件 The Epistemic Condition for Moral Responsibility (Fernando Rudy-Hiller)

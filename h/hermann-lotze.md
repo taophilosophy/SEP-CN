@@ -1,1 +1,1 @@
-# 赫尔曼·洛采 Lotze, Hermann (David Sullivan)
+# 赫尔曼·洛采 Hermann Lotze (David Sullivan)

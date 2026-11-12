@@ -1,1 +1,1 @@
-# 约翰·克里斯托夫·施图尔姆 Sturm, Johann (Andrea Sangiacomo and Christian Henkel)
+# 约翰·克里斯托夫·施图尔姆 Johann Sturm (Andrea Sangiacomo and Christian Henkel)

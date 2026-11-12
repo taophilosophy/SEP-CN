@@ -1,1 +1,1 @@
-# 法律与语言 and language (Timothy Endicott)
+# 法律与语言 Law and Language (Timothy Endicott)

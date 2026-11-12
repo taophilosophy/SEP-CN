@@ -1,1 +1,1 @@
-# 约翰·诺里斯 Norris, John (June Yang)
+# 约翰·诺里斯 John Norris (June Yang)

@@ -1,1 +1,1 @@
-# 威廉·文德尔班 Windelband, Wilhelm (Katherina Kinzel)
+# 威廉·文德尔班 Wilhelm Windelband (Katherina Kinzel)

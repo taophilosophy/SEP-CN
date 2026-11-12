@@ -1,1 +1,1 @@
-# 多元真理论 pluralist theories of (Nikolaj Jang Lee Linding Pedersen and Cory Wright)
+# 多元真理论 Pluralist Theories of Truth (Nikolaj Jang Lee Linding Pedersen and Cory Wright)

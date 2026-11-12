@@ -1,1 +1,1 @@
-# 量子理论的哲学问题 philosophical issues in (Wayne Myrvold)
+# 量子理论的哲学问题 Philosophical Issues in Quantum Theory (Wayne Myrvold)

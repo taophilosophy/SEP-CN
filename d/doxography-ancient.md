@@ -1,4 +1,4 @@
-# 古代哲学学说史 doxography of ancient philosophy (Jaap Mansfeld and David Runia)
+# 古代哲学学说史 Doxography of Ancient Philosophy (Jaap Mansfeld and David Runia)
 
 **首次发表于 2004 年 3 月 18 日；2024 年 6 月 10 日实质修订。**
 

@@ -1,1 +1,1 @@
-# 矛盾 contradiction (Laurence R. Horn)
+# 矛盾 Contradiction (Laurence R. Horn)

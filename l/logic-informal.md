@@ -1,1 +1,1 @@
-# 非形式逻辑 informal (Leo Groarke)
+# 非形式逻辑 Informal Logic (Leo Groarke)

@@ -1,1 +1,1 @@
-# 柏拉图的短篇伦理学著作 shorter ethical works (Paul Woodruff)
+# 柏拉图的短篇伦理学著作 Plato’s Shorter Ethical Works (Paul Woodruff)

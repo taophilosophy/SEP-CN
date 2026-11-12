@@ -1,4 +1,4 @@
-# 达玛里斯·库德沃斯·马沙姆 Masham, Lady Damaris (Sarah Hutton)
+# 达玛里斯·库德沃斯·马沙姆 Lady Damaris Masham (Sarah Hutton)
 
 *首次发表于 2003 年 1 月 14 日；2020 年 11 月 25 日实质修订。*
 

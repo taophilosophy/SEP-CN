@@ -1,1 +1,1 @@
-# 信念修正的逻辑 of belief revision (Sven Ove Hansson)
+# 信念修正的逻辑 Logic of Belief Revision (Sven Ove Hansson)

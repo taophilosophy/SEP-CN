@@ -1,4 +1,4 @@
-# 量子力学 quantum mechanics (Jenann Ismael)
+# 量子力学 Quantum Mechanics (Jenann Ismael)
 
 *首次发表于 2000 年 11 月 29 日；2025 年 1 月 18 日实质修订。*
 

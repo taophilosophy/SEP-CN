@@ -1,4 +1,4 @@
-# 僵尸 zombies (Robert Kirk)
+# 僵尸 Zombies (Robert Kirk)
 
 *首次发表于 2003 年 9 月 8 日；2023 年 3 月 25 日实质修订。*
 

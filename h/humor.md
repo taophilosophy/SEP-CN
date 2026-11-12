@@ -1,1 +1,1 @@
-# 幽默哲学 humor, philosophy of (John Morreall)
+# 幽默哲学 Philosophy of Humor (John Morreall)

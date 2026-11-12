@@ -1,4 +1,4 @@
-# 奥特古的尼克拉 Nicholas of Autrecourt [de Altricuria, Autricuria, Ultricuria, Autricort] (Hans Thijssen)
+# 奥特古的尼克拉 Nicholas of Autrecourt (Hans Thijssen)
 
 **首次发表于 2001 年 10 月 14 日；2026 年 9 月 10 日实质修订。**
 

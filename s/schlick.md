@@ -1,1 +1,1 @@
-# 莫里茨·石里克 Schlick, Moritz (Thomas Oberdan and Friedrich Stadler)
+# 莫里茨·石里克 Moritz Schlick (Thomas Oberdan and Friedrich Stadler)

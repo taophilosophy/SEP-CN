@@ -1,4 +1,4 @@
-# 量子纠缠与信息 quantum entanglement and information (Jeffrey Bub)
+# 量子纠缠与信息 Quantum Entanglement and Information (Jeffrey Bub)
 
 *首次发表于 2001 年 8 月 13 日；2023 年 5 月 2 日实质修订。*
 

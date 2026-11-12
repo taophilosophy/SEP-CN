@@ -1,4 +1,4 @@
-# 詹姆斯·沃德 Ward, James (Pierfrancesco Basile)
+# 詹姆斯·沃德 James Ward (Pierfrancesco Basile)
 
 *首次发表于 2009 年 7 月 18 日；2021 年 9 月 2 日实质修订。*
 

@@ -1,1 +1,1 @@
-# 网络社交与伦理学 social networking and ethics (Shannon Vallor)
+# 网络社交与伦理学 Social Networking and Ethics (Shannon Vallor)

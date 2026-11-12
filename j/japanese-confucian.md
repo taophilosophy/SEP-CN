@@ -1,1 +1,1 @@
-# 日本儒学 Confucian (John Tucker)
+# 日本儒学 Japanese Confucian Philosophy (John Tucker)

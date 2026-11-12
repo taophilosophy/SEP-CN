@@ -1,1 +1,1 @@
-# 虚构主义 fictionalism (Matti Eklund)
+# 虚构主义 Fictionalism (Matti Eklund)

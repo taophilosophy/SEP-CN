@@ -1,1 +1,1 @@
-# 感觉材料 sense data (Gary Hatfield)
+# 感觉材料 Sense Data (Gary Hatfield)

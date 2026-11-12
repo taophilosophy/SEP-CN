@@ -1,4 +1,4 @@
-# 移民 immigration (Christopher Heath Wellman)
+# 移民 Immigration (Christopher Heath Wellman)
 
 *首次发表于 2010 年 5 月 10 日；2024 年 10 月 23 日实质修订。*
 

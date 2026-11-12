@@ -1,1 +1,1 @@
-# 死亡 death (Steven Luper)
+# 死亡 Death (Steven Luper)

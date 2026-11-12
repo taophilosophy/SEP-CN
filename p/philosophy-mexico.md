@@ -1,1 +1,1 @@
-# 墨西哥哲学 philosophy in (Guillermo Hurtado and Robert Eli Sanchez, Jr.)
+# 墨西哥哲学 Philosophy in Mexico (Guillermo Hurtado and Robert Eli Sanchez, Jr.)

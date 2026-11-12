@@ -1,1 +1,1 @@
-# 感质 qualia (Michael Tye)
+# 感质 Qualia (Michael Tye)

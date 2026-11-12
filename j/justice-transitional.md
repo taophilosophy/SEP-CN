@@ -1,1 +1,1 @@
-# 转型正义 transitional (Nir Eisikovits)
+# 转型正义 Transitional Justice (Nir Eisikovits)

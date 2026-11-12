@@ -1,4 +1,4 @@
-# 利己主义 egoism (Robert Shaver)
+# 利己主义 Egoism (Robert Shaver)
 
 **首次发表于 2002 年 11 月 4 日；2023 年 1 月 9 日实质修订。**
 

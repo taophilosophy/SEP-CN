@@ -1,1 +1,1 @@
-# 可能对象 possible objects (Takashi Yagisawa)
+# 可能对象 Possible Objects (Takashi Yagisawa)

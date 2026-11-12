@@ -1,1 +1,1 @@
-# 歧视 discrimination (Anthony Sangiuliano)
+# 歧视 Discrimination (Anthony Sangiuliano)

@@ -1,1 +1,1 @@
-# 巴鲁赫·斯宾诺莎 Spinoza, Baruch (Steven Nadler)
+# 巴鲁赫·斯宾诺莎 Baruch Spinoza (Steven Nadler)

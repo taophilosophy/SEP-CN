@@ -1,4 +1,4 @@
-# 休谟的美学 aesthetics (Theodore Gracyk)
+# 休谟的美学 Hume’s Aesthetics (Theodore Gracyk)
 
 *首次发表于 2003 年 12 月 17 日；2020 年 4 月 21 日实质修订。*
 

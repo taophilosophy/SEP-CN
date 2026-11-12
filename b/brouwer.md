@@ -1,4 +1,4 @@
-# 勒伊岑·艾赫贝特斯·扬·布劳威尔 Brouwer, Luitzen Egbertus Jan (Mark van Atten)
+# 勒伊岑·艾赫贝特斯·扬·布劳威尔 Luitzen Egbertus Jan Brouwer (Mark van Atten)
 
 *首次发表于 2003 年 3 月 26 日；2020 年 2 月 26 日实质修订。*
 

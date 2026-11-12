@@ -1,1 +1,1 @@
-# 知情同意 informed consent (Nir Eyal)
+# 知情同意 Informed Consent (Nir Eyal)

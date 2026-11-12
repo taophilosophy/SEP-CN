@@ -1,4 +1,4 @@
-# 美学的概念 aesthetic, concept of the (James Shelley)
+# 美学的概念 The Concept of the Aesthetic (James Shelley)
 
 **首次发表于 2009 年 9 月 11 日；2026 年 8 月 24 日实质修订。**
 

@@ -1,1 +1,1 @@
-# 约翰·库克·威尔逊 Wilson, John Cook (Mathieu Marion)
+# 约翰·库克·威尔逊 John Cook Wilson (Mathieu Marion)

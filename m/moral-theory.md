@@ -1,1 +1,1 @@
-# 道德理论 moral theory (Julia Driver)
+# 道德理论 Moral Theory (Julia Driver)

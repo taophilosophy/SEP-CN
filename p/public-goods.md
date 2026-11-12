@@ -1,1 +1,1 @@
-# 公共物品 public goods (Julian Reiss)
+# 公共物品 Public Goods (Julian Reiss)

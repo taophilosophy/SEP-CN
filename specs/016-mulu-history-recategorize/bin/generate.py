@@ -17,13 +17,15 @@ OUT = os.path.join(ROOT, 'specs', '016-mulu-history-recategorize', 'results', 'm
 ORDER = [
     'A11', 'A12', 'A13', 'A21', 'A22', 'A23', 'A24', 'A25',
     'A31', 'A32', 'A33', 'A34', 'A35', 'A9',
-    'M11', 'M12', 'M13', 'M14', 'M21', 'M22', 'M31', 'M32',
-    'M41', 'M42', 'M51', 'M52', 'M61', 'M62', 'M63', 'M71', 'M72', 'M8', 'M9',
-    'R1', 'R21', 'R22', 'R3', 'R4',
-    'N10', 'N11', 'N12', 'N13', 'N14', 'N21', 'N22', 'N23', 'N24', 'N25',
-    'N31', 'N32', 'N33', 'N34', 'N26', 'N41', 'N42', 'N43', 'N44', 'N5',
+    'M11', 'M12', 'M13', 'M14', 'M21', 'M22', 'M31', 'M32', 'M33',
+    'M41', 'M42', 'M51', 'M52', 'M65', 'M61', 'M62', 'M63', 'M64', 'M71', 'M72', 'M8', 'M9',
+    'R1', 'R21', 'R22', 'R23', 'R3', 'R4',
+    'N10', 'N11', 'N12', 'N13', 'N14', 'N21', 'N22', 'N23', 'N24', 'N25', 'N26',
+    'N31', 'N32', 'N33', 'N34', 'N35', 'N36', 'N41', 'N42', 'N43', 'N44', 'N5',
     'C11', 'C12', 'C13', 'C21', 'C22', 'C23', 'C31', 'C32', 'C33', 'C34',
-    'C4', 'C5', 'C6', 'C71', 'C72', 'C73', 'C74', 'C75', 'C8', 'C9', 'C10', 'C11p',
+    'C41', 'C42', 'C43', 'C5', 'C61', 'C62', 'C71', 'C72', 'C73', 'C74', 'C75',
+    'C81', 'C82', 'C83', 'C91', 'C92', 'C93', 'C94', 'C10', 'C11p',
+    'C20', 'C201', 'C202', 'C203', 'C204', 'C205',
     'J1', 'J2', 'J3',
     'CH1', 'CH2', 'CH3', 'CH4', 'CH5', 'CH6', 'CH7', 'CH8', 'CH9',
     'IN1', 'IN2', 'IN3', 'IN4', 'IN5', 'IN6', 'IN7',
@@ -175,8 +177,8 @@ def parse_original():
     start = next(i for i, l in enumerate(lines) if l.startswith('# 前言'))
     about = next(i for i, l in enumerate(lines) if l.startswith('# 关于'))
     west = next(i for i, l in enumerate(lines) if l.startswith('# 西方哲学史'))
-    region = next(i for i, l in enumerate(lines) if l.startswith('# 区域哲学'))
     theory = next(i for i, l in enumerate(lines) if l.startswith('# 哲学通论'))
+    region = next((i for i, l in enumerate(lines) if l.startswith('# 区域哲学') or l.startswith('# 欧美以外哲学史')), theory)
     return lines, start, about, west, region, theory
 
 

@@ -1,1 +1,1 @@
-# 自由主义 liberalism (Shane D. Courtland, Gerald Gaus, and David Schmidtz)
+# 自由主义 Liberalism (Shane D. Courtland, Gerald Gaus, and David Schmidtz)

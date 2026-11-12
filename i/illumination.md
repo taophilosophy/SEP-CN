@@ -1,4 +1,4 @@
-# 神圣光照论 illumination (Robert Pasnau)
+# 神圣光照论 Divine Illumination (Robert Pasnau)
 
 *首次发表于 1999 年 11 月 2 日；2024 年 5 月 22 日实质修订。*
 

@@ -1,4 +1,4 @@
-# 行为主义 behaviorism (George Graham)
+# 行为主义 Behaviorism (George Graham)
 
 **首次发表于 2000 年 5 月 26 日；2023 年 1 月 13 日实质修订。**
 
