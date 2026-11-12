@@ -459,50 +459,66 @@ segments:
     kind: body
     source: |-
       Like most of Brentano’s students, Ehrenfels also wrote various works on the philosophy of mathematics: first of all his 1885 dissertation on “*Größenrelationen und Zahlen: eine psychologische Studie*” (“Relations of Magnitude and Numbers: a Psychological Study”), then his article “*Zur Philosophie der Mathematik*” (“On the Philosophy of Mathematics”) in 1891, the same year as Husserl’s *Philosophy of Arithmetic*, and finally in 1922 his booklet on *Das Primzahlengesetz* (*The Law of Prime Numbers*). As Simons (1988, 10) observes, his early mathematical works are representative of the Brentanian approach as it can also be found in Husserl’s and Stumpf’s habilitation works.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与布伦塔诺的大多数弟子一样，埃伦费尔斯也写了多种数学哲学方面的著作：首先是其 1885 年学位论文《量度关系与数：一项心理学研究》（“*Größenrelationen und Zahlen: eine psychologische Studie*”）；然后是 1891 年的论文《论数学哲学》（“*Zur Philosophie der Mathematik*”），与胡塞尔的《算术哲学》同年；最后是 1922 年的小册子《素数定律》（*Das Primzahlengesetz*，*The Law of Prime Numbers*）。正如西蒙斯（1988, 10）所观察到的，他早期的数学著作代表了布伦塔诺式的进路，这种进路在胡塞尔与斯图姆夫的任教资格论文中也能见到。
+    step2: |-
+      布伦塔诺门下弟子大多在数学哲学上留下笔墨，埃伦费尔斯也不例外：先是 1885 年的学位论文《量度关系与数：一项心理学研究》（“*Größenrelationen und Zahlen: eine psychologische Studie*”）；继而是 1891 年的文章《论数学哲学》（“*Zur Philosophie der Mathematik*”）——恰与胡塞尔的《算术哲学》同年；最后是 1922 年的小册子《素数定律》（*Das Primzahlengesetz*，*The Law of Prime Numbers*）。西蒙斯（1988, 10）看得准：他早年的数学著作，正是布伦塔诺式进路的标本——同一进路也见于胡塞尔与斯图姆夫的任教资格论文。
   - id: 58
     kind: body
     source: |-
       Indeed, in his (Ehrenfels 1885, Ierna 2017a)[^ehrenfels-1885][^ierna-2017a] dissertation Ehrenfels presents an account of the concept of number and the philosophy of mathematics that is for the most part the traditional Brentanian one, though unsurprisingly including many Meinongian elements. Ehrenfels claims that by abstracting from all particularities of two objects and considering them merely as the foundations of a relation of difference, we obtain the concept of two. If we then add another object, we need to compare and distinguish not only the first-order relations among the foundations, but also the second-order relation of difference among the first-order relations of difference, and so on for every additional element. This leads to a rapid increase in complication, as illustrated in Husserl’s critique of such an approach in the second chapter of the *Philosophy of Arithmetic*. Ehrenfels likewise concludes that this process of distinction soon leads beyond our limited presentational capacities and requires more convenient, though indirect, ways of presenting numbers. Hence, he argues that higher numbers can only be reached by successive presentations of partial numbers, e.g. nine by three times three.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      确实，在其 1885 年学位论文中（Ehrenfels 1885, Ierna 2017a）[^ehrenfels-1885][^ierna-2017a]，埃伦费尔斯给出的数的概念与数学哲学的说明，大体上就是传统的布伦塔诺式说明，不过毫不意外地包含许多迈农式元素。埃伦费尔斯主张：通过对两个对象的一切特殊性进行抽象、把它们仅仅视为一个差异关系的基础，我们便得到“二”的概念。若再加一个对象，我们就不仅要比较并区分各基础之间的一阶关系，还要区分诸一阶差异关系之间的二阶差异关系，如此对每个新增元素类推。这导致复杂性急剧上升，胡塞尔在《算术哲学》第二章对这种进路的批评就说明了这一点。埃伦费尔斯同样得出结论：这种区分过程很快就会超出我们有限的表象能力，因而需要更方便——尽管是间接的——呈现数的方式。于是他主张，更高的数只能通过对部分数的相继表象来达到，例如九由三乘三得到。
+    step2: |-
+      他 1885 年的学位论文（Ehrenfels 1885, Ierna 2017a）[^ehrenfels-1885][^ierna-2017a]讲的数的概念与数学哲学，大体不出传统布伦塔诺框架，但掺进许多迈农式元素，这毫不奇怪。埃伦费尔斯的说法是：撇开两个对象的一切特殊之处，只把它们当作一个差异关系的基础来考虑，“二”的概念便到手了。再添一个对象呢？那就不止要比较、分辨诸基础之间的一阶关系，还要分辨一阶差异关系之间的二阶差异关系；每加一个元素，照此类推。复杂性于是陡升——胡塞尔在《算术哲学》第二章里对这条进路的批评，把这副光景画得淋漓尽致。埃伦费尔斯自己同样收束到这一点：区分这道工序很快就顶穿了我们那点有限的表象能力，得另找更顺手——尽管是间接的——呈现数的路子。所以他主张：更高的数只能靠对部分数的相继表象逐步抵达，比如九，就靠三乘三。
   - id: 59
     kind: body
     source: |-
       Ehrenfels presents an interesting account of the golden ratio (1:1.618) as the point where the relations of similarity and difference are in balance, i.e., two magnitudes that stand to each other in the golden ratio are as similar as they are different. Towards the end of the work Ehrenfels’ discussion of higher-order relations and of comparisons of relations independently of their foundations leads him into formulations that could be seen as anticipating his later concept of *Gestalt* qualities.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      埃伦费尔斯对黄金分割（1:1.618）给出了一个有趣的说明：它是相似关系与差异关系达到平衡之点，也就是说，处于黄金分割关系中的两个量，其相似程度与差异程度恰好相当。在这部著作接近尾声处，埃伦费尔斯对高阶关系的讨论、以及对关系独立于其基础的比较，把他引向了一些可以看作预演其后来格式塔质概念的表述。
+    step2: |-
+      黄金分割（1:1.618）在埃伦费尔斯手里有个有趣的解读：相似与差异两股关系在那里打成平手——凡互为黄金分割的两个量，相似几分，就恰也相异几分。全书临近收尾处，他一路谈高阶关系、谈把关系脱开基础来比较，笔下的若干表述，日后回头看，俨然是格式塔质概念的先声。
   - id: 60
     kind: body
     source: |-
       In his article on the philosophy of mathematics Ehrenfels starts with an analysis of the presentation of number and the concepts of unity and multiplicity. He denies an empirical basis to number presentations: “The presentation of number is not extracted from external perception, but is actually inserted into it” (Ehrenfels 1891, 287)[^ehrenfels-1891]. Ehrenfels takes relations of difference as the foundation for the concept of multiplicity and goes on to describe the construction of numbers through counting, by successive addition of unities (Ehrenfels 1891, 289 ff.)[^ehrenfels-1891]. Like other Brentanists, he comments on the limits of our cognitive capacities and points out that we can have a presentation of higher numbers only indirectly, i.e., symbolically (Ehrenfels 1891, 292, also see 289 where he refers to Husserl 1887)[^ehrenfels-1891][^husserl-1887]. Ehrenfels here chooses the Meinongian terminology, speaking of indirect or founded contents (see his notes on 292 ff.), but also follows Brentano’s approach when remarking on the power of signs to function as surrogates for presentations (Ehrenfels 1891, 296)[^ehrenfels-1891]. He gives an extensive critique of Kant’s famous doctrine that “7+5=12” would be an example of a synthetic proposition a priori, with a quite idiosyncratic argumentation, stating that the a priori or a posteriori character of the sum would depend on the possibility of a direct intuition of its elements, i.e., a proper presentation. If we have to externalize the process by use of signs when the numbers exceed our cognitive capacities, then how can we claim to be able to perform such calculations a priori? Ehrenfels lists several examples that involve external aids, such as the use of logarithmic tables: looking up a number on a list is hardly an “a priori” cognitive act (Ehrenfels 1891, 329)[^ehrenfels-1891]. The interesting aspect of his approach is that he takes mathematics in this way as an essentially computational science, relying on external artifacts (“physical aides”) and hence as a science which necessarily has a large a posteriori component (Ehrenfels 1891, 331)[^ehrenfels-1891]. In the second half of the article, however, Ehrenfels provides a critique of J.S. Mill and empiricism in mathematics, along the same lines as Stumpf had done in his habilitation work. Like Husserl and fellow Meinong-student Konrad Zindler, he points out that in the progress of calculation with signs one often hits on “unpresentable” combinations, i.e., combinations of signs that cannot be combined into a proper presentation (Ehrenfels 1891, 342)[^ehrenfels-1891]. Yet, these “impossible” combinations do then lead to correct results. (This paragraph is based in part on Ierna 2011)[^ierna-2011].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在论数学哲学的文章中，埃伦费尔斯从对数的表象以及统一性与多样性概念的分析入手。他否认数表象有经验的基础：“数的表象不是从外部知觉中提取出来的，毋宁是被插进外部知觉之中”（Ehrenfels 1891, 287）[^ehrenfels-1891]。埃伦费尔斯把差异关系当作多样性概念的基础，接着描述了通过计数、通过单位的相继加法构造数的过程（Ehrenfels 1891, 289 ff.）[^ehrenfels-1891]。像其他布伦塔诺派学者一样，他评论了我们认知能力的限度，并指出我们只能间接地、即符号式地拥有更高数的表象（Ehrenfels 1891, 292，另见 289，他在那里援引 Husserl 1887）[^ehrenfels-1891][^husserl-1887]。埃伦费尔斯在这里选择了迈农式术语，谈间接的或奠定的内容（见其 292 ff. 的注记），但在评论符号充当表象之替代品的力量时，也遵循布伦塔诺的进路（Ehrenfels 1891, 296）[^ehrenfels-1891]。他对康德那条著名学说——“7+5=12”是先天综合命题的一例——作了广泛的批评，论证相当独到：和的先天或后天性质，将取决于对其元素进行直接直观的可能性，即一种本真表象的可能性。如果数超出我们的认知能力时，我们必须借助符号把演算过程外化，那我们凭什么宣称能够先天完成这类演算？埃伦费尔斯列举了若干借助外部辅助的例子，如对数表的使用：在一张表上查一个数，很难算是“先天”的认知行为（Ehrenfels 1891, 329）[^ehrenfels-1891]。他这条进路有趣的地方在于：他由此把数学当作一门本质上是计算的科学，依赖外部人工物（“物理辅助”），因而是一门必然带有大量后天成分的科学（Ehrenfels 1891, 331）[^ehrenfels-1891]。不过在文章后半，埃伦费尔斯又沿着斯图姆夫在其任教资格论文中走过的路数，批评了 J.S. 密尔与数学中的经验主义。与胡塞尔以及同为迈农弟子的康拉德·青德勒（Konrad Zindler）一样，他指出：在用符号演算的进程中，人们常会撞上“不可表象的”组合，即无法合并成一个本真表象的符号组合（Ehrenfels 1891, 342）[^ehrenfels-1891]。然而，这些“不可能的”组合偏偏能导出正确的结果。（本段部分基于 Ierna 2011）[^ierna-2011]。
+    step2: |-
+      在那篇数学哲学文章里，埃伦费尔斯从数的表象以及“一”与“多”概念的分析开笔。数表象没有经验地基，这是他的断语：“数的表象并非从外部知觉中提取，反倒实实在在是插进外部知觉里去的”（Ehrenfels 1891, 287）[^ehrenfels-1891]。他把差异关系立在多样性概念的根基处，继而描述数如何经由计数、经由单位的逐一累加而构造出来（Ehrenfels 1891, 289 ff.）[^ehrenfels-1891]。与其他布伦塔诺派同人一样，他掂量了我们认知能力的家底，指出更高的数我们只能间接地——亦即符号式地——表象（Ehrenfels 1891, 292，另见 289 处援引 Husserl 1887）[^ehrenfels-1891][^husserl-1887]。此处他取的是迈农式术语，谈间接内容或奠定内容（见其 292 ff. 的注记）；但说到符号可以顶替表象的能耐，他又跟着布伦塔诺的调子走（Ehrenfels 1891, 296）[^ehrenfels-1891]。康德的名论——“7+5=12”是先天综合命题的例子——挨了埃伦费尔斯一顿细密的批评，论证路数相当独特：和式究竟先天还是后天，得看能否对其元素直接直观，也就是看能否有一个本真表象。数一旦超出认知能力，演算过程就得靠符号外化；既如此，凭什么还敢说这类演算可以先天完成？埃伦费尔斯摆出好几个借助外物的例子，对数表便是：对着一张表格查个数，怎么也算不得“先天”的认知行为（Ehrenfels 1891, 329）[^ehrenfels-1891]。他这条进路有趣就有趣在：数学经他这么一摆弄，成了一门骨子里做计算的科学，离不了外部人工物（“物理辅助”），因而必然带着一大块后天成分（Ehrenfels 1891, 331）[^ehrenfels-1891]。可到了文章后半，埃伦费尔斯调转枪口，沿着斯图姆夫任教资格论文的老路数，批起 J.S. 密尔与数学中的经验主义来。他和胡塞尔、以及迈农另一位弟子康拉德·青德勒（Konrad Zindler）一样，点出：用符号演算的进程里，常会撞见“不可表象的”组合——符号与符号凑在一起，却并不成一个本真表象（Ehrenfels 1891, 342）[^ehrenfels-1891]。偏偏这些“不可能的”组合，给出的结果回回正确。（本段部分基于 Ierna 2011）[^ierna-2011]。
   - id: 61
     kind: body
     source: |-
       Ehrenfels himself assigns an important biographical role to his last major work in the philosophy of mathematics, while its actual philosophical and mathematical significance is much more modest, as we will see. Ehrenfels states in the preface to *Das Primzahlengesetz* that, after a long depression following WWI, the contemplation of the “field of numbers and their eternal, necessary connections” soothed his agonized spirit (“*Weltangst*”) (Ehrenfels 1922, III)[^ehrenfels-1922][^ehrenfels-1922-2]. In the preface to the work he retraces the development of the core idea of the book, describing very poetically how in April 1919 the idea “blossomed” in his mind about the distribution of prime numbers (Ehrenfels 1922, IV: “An einem warmen Aprilvormittag 1919 ist mir – in der Sonne gelagert neben der Gruft meines Vaters – ”der Knopf aufgegangen“ für das Wesentliche der Lösung.”)[^ehrenfels-1922][^ehrenfels-1922-2] Ehrenfels himself at first took it only as a rediscovery of already well-established mathematical insights, but having been informed by his friend and colleague the mathematician Gerhard Kowalewski that the matter of the distribution of primes was far from settled, Ehrenfels tried to work out his idea in a more systematic fashion, convinced to have hit on something new and worthwhile.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      埃伦费尔斯本人给他这部数学哲学最后的主要作品分配了一个重要的生平角色，而它实际的哲学与数学意义却谦逊得多，我们马上会看到。埃伦费尔斯在《素数定律》序言中说，一战之后他长期抑郁，对“数的领域及其永恒、必然的联系”的沉思安抚了他痛苦的灵魂（“*Weltangst*”）（Ehrenfels 1922, III）[^ehrenfels-1922][^ehrenfels-1922-2]。在该书序言中，他回溯了书之核心观念的发展过程，以十分诗意的笔法描述 1919 年 4 月这个关于素数分布的想法如何在他心中“绽放”（Ehrenfels 1922, IV：“An einem warmen Aprilvormittag 1919 ist mir – in der Sonne gelagert neben der Gruft meines Vaters – ”der Knopf aufgegangen“ für das Wesentliche der Lösung.”）[^ehrenfels-1922][^ehrenfels-1922-2] 埃伦费尔斯起初只把这当作对早已确立的数学洞见的重新发现；但当他的朋友兼同行、数学家格哈德·科瓦莱夫斯基（Gerhard Kowalewski）告知他素数分布问题远未解决后，埃伦费尔斯便试图以更系统的方式展开他的想法，坚信自己撞上了某种新颖而有价值的东西。
+    step2: |-
+      埃伦费尔斯自己给他这部数学哲学压轴之作派了一个重要的生平角色；至于它在哲学与数学上的实际分量，可比这谦逊得多——下文自见。他在《素数定律》序言里交代：一战之后他抑郁缠身良久，是对“数的领域及其永恒而必然的联系”的沉思，抚慰了他痛苦的灵魂（“*Weltangst*”）（Ehrenfels 1922, III）[^ehrenfels-1922][^ehrenfels-1922-2]。在同一篇序言里，他回溯全书核心观念的生长史，笔法相当诗意：1919 年 4 月，这个关于素数分布的念头如何在他心里“开了花”（Ehrenfels 1922, IV：“An einem warmen Aprilvormittag 1919 ist mir – in der Sonne gelagert neben der Gruft meines Vaters – ”der Knopf aufgegangen“ für das Wesentliche der Lösung.”）[^ehrenfels-1922][^ehrenfels-1922-2] 起初，埃伦费尔斯只当自己是把早已确立的数学洞见重新发现了一遍；可朋友兼同行、数学家格哈德·科瓦莱夫斯基（Gerhard Kowalewski）告诉他，素数分布这道题远没有定案，他便试着把自己的想法弄得更成体系，并且深信自己撞上了某种既新又有分量的东西。
   - id: 62
     kind: body
     source: |-
       Ehrenfels’ core idea in *Das Primzahlengesetz* is to apply the notion of *Gestalt* to number series to find the law-like regularities in the distribution of prime numbers. Therefore Ehrenfels decided to include the entire text of his 1890 article “*Über Gestaltqualitäten*” in the work, unchanged, though split into two parts. In the course of his discussion, Ehrenfels once again goes down the familiar road of Brentanist mathematics: a discussion of proper and symbolic presentations of number, the limits of our presentational capacity, proper number conceptions as based on (higher order) relations of distinction, etc. (Ehrenfels 1922, 30 ff.)[^ehrenfels-1922][^ehrenfels-1922-2] He explicitly considers the proper number presentations as *Gestalt* qualities, and to be precise, as presentations of “second order”. Collections of numbers, which he calls *Zahlenfiguren*, would be of third order. These number figures play a central role in, literally, “figuring out” the prime numbers: by generating series of number figures corresponding to all multiples of a base number, which can then be combined in such a way as to filter out the primes.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      埃伦费尔斯在《素数定律》中的核心想法，是把格式塔概念应用于数列，以寻找素数分布中类似定律的规律性。为此，埃伦费尔斯决定把自己 1890 年论文《论格式塔质》（“*Über Gestaltqualitäten*”）的全文原封不动地收进这部著作，只是拆成两部分。在讨论过程中，埃伦费尔斯又一次走上布伦塔诺式数学的熟路：对本真表象与符号表象的讨论、表象能力的限度、以（高阶）区别关系为本的数的本真概念等（Ehrenfels 1922, 30 ff.）[^ehrenfels-1922][^ehrenfels-1922-2] 他明确把数的本真表象视为格式塔质，确切地说，视为“第二阶”的表象。数的集合——他称之为数的图形（*Zahlenfiguren*）——则属于第三阶。这些数的图形在“弄清”（figuring out）素数这件事上扮演核心角色：生成对应于某个基数的所有倍数的数图形序列，然后以某种方式把它们组合起来，把素数筛出来。
+    step2: |-
+      《素数定律》的核心想法，是把格式塔概念安到数列上，去捉素数分布里那类规律性的形迹。为这个目的，埃伦费尔斯干脆把 1890 年那篇《论格式塔质》（“*Über Gestaltqualitäten*”）一字不动地整篇收进书里，只拆作两半。讨论途中，他再次踏进布伦塔诺式数学的熟路：数的本真表象与符号表象、表象能力的边界、以（高阶）区别关系为根基的数的本真概念，等等（Ehrenfels 1922, 30 ff.）[^ehrenfels-1922][^ehrenfels-1922-2] 他明明白白把数的本真表象当作格式塔质——精确说，是“第二阶”的表象。至于数的集合，他起名数的图形（*Zahlenfiguren*），算第三阶。这些数图形在素数这桩事上挑大梁，真真是“摆图形把素数算出来”（figuring out）：先生成与某个基数的所有倍数相应的数图形序列，再把它们组合起来，素数便被滤了出来。
   - id: 63
     kind: body
     source: |-
       However, in the end the result of this procedure turns out to be quite trivial from a mathematical perspective: “It actually merely leads to a simplification of the method known as the ”Sieve of Eratosthenes“ already being practiced for more than 2000 years” (Ehrenfels 1922, 48)[^ehrenfels-1922][^ehrenfels-1922-2]. The method of the sieve consists in identifying and then eliminating all divisible numbers by generating them from multiplications of primes. If one wants to find all the prime numbers between 0 and 100, one would proceed by striking all multiples of two, then all multiples of three, etc. until only the primes remain. Ehrenfels’ approach shortens the process by avoiding repeated strikings, as would happen e.g. with 6 as multiple of both 2 and 3 (Ehrenfels 1922, 49)[^ehrenfels-1922][^ehrenfels-1922-2]. As Simons (1986, 112) argues, this is merely computationally faster than the traditional method of the sieve of Eratosthenes (but slower than other methods, as experimentally verified by Simons 1988, 12)[^simons-1988], but not a substantially new algorithm.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，到头来，这一套流程的结果从数学的观点看相当平凡：“它实际上只是把那项已践行两千多年、名为‘埃拉托色尼筛法’的方法作了一番简化”（Ehrenfels 1922, 48）[^ehrenfels-1922][^ehrenfels-1922-2]。筛法的内容在于：通过素数相乘生成一切可整除的数，把它们一一辨认出来然后划掉。要找 0 与 100 之间的全部素数，就先划掉 2 的所有倍数，再划掉 3 的所有倍数，如此继续，直到只剩素数。埃伦费尔斯的做法缩短了流程，办法是避免重复划除——比如 6 既是 2 也是 3 的倍数，传统方法就会划它两次（Ehrenfels 1922, 49）[^ehrenfels-1922][^ehrenfels-1922-2]。正如西蒙斯（1986, 112）所论，这只是在计算上比传统的埃拉托色尼筛法快一些（但比其他方法慢，西蒙斯 1988, 12 以实验验证）[^simons-1988]，并非实质上的新算法。
+    step2: |-
+      可到头来，这套流程从数学的眼光看实在平淡：“它其实不过是把那门已经练了两千多年、号称‘埃拉托色尼筛法’的手艺简化了一下”（Ehrenfels 1922, 48）[^ehrenfels-1922][^ehrenfels-1922-2]。筛法的门道是：用素数相乘把所有可整除的数生出来，认出一个、划掉一个。想在 0 到 100 之间找出全部素数？先把 2 的倍数划尽，再把 3 的倍数划尽，如此下去，剩下的就是素数。埃伦费尔斯的路子省的是重复劳动——比如 6 既是 2 的也是 3 的倍数，老办法就得划两遍（Ehrenfels 1922, 49）[^ehrenfels-1922][^ehrenfels-1922-2]。西蒙斯（1986, 112）说得明白：这不过是比传统埃拉托色尼筛法在计算上快一点（比别的法子反倒慢，西蒙斯 1988, 12 以实验证实）[^simons-1988]，算不上什么实质的新算法。
   - id: 64
     kind: body
     source: |-
       ## 6. Cosmology
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6. 宇宙论
+    step2: |-
+      ## 6. 宇宙论
   - id: 65
     kind: body
     source: |-
