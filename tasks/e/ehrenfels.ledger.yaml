@@ -523,32 +523,42 @@ segments:
     kind: body
     source: |-
       In his 1916 *Kosmogonie*, Ehrenfels aims at laying out the fundamental *Gestalt* of the world as a whole. Ehrenfels wants to elucidate the origin, development, and ultimate destiny of the universe. On the one hand, he considers it as a *Kosmos* in the classical sense of an ordered, harmonious whole, governed by an ordering principle that establishes the wholeness and unity of the world. However, Ehrenfels also acknowledges a principle of disunity and entropy: chaos and chance. For Ehrenfels, the world as we know it is generated through the complementary activity of these two cosmic principles (compare PSII, 44 ff.; Valent 2016, 195; Höfer 2017, 46; Ierna 2017b, §3)[^höfer-2017][^ierna-2017b][^valent-2016]. The process of creation and generation is itself a *Gestaltic* one, since “All causal powers are Gestalting tendencies” (Ehrenfels 1916; Fabian 1990, 156)[^ehrenfels-1916]. Ehrenfels in this context discusses both biological reproduction as well as cultural production, which both lead to higher order or “superimposed *Gestalten*” (Ehrenfels 1916, 102, 136)[^ehrenfels-1916]. Ehrenfels also connects this process to the theory of evolution.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在其 1916 年的《宇宙发生论》（*Kosmogonie*）中，埃伦费尔斯意在铺陈世界整体的根本格式塔。他想要阐明宇宙的起源、发展与终极命运。一方面，他把宇宙看作古典意义上的 *Kosmos*，即一个有序、和谐的整体，受一个确立世界完整性与统一性的秩序原则支配。然而，埃伦费尔斯也承认一个不统一与熵的原则：混沌与偶然。对埃伦费尔斯来说，我们所知的世界由这两种宇宙原则的互补活动生成（比较 PSII, 44 ff.；Valent 2016, 195；Höfer 2017, 46；Ierna 2017b, §3）[^höfer-2017][^ierna-2017b][^valent-2016]。创造与生成的过程本身就是格式塔式的，因为“一切因果力量都是格式塔化的倾向”（Ehrenfels 1916；Fabian 1990, 156）[^ehrenfels-1916]。埃伦费尔斯在此语境下既讨论生物繁殖，也讨论文化生产，二者都通向高阶的或“叠置的格式塔”（Ehrenfels 1916, 102, 136）[^ehrenfels-1916]。埃伦费尔斯还把这一过程与演化论联系起来。
+    step2: |-
+      1916 年的《宇宙发生论》（*Kosmogonie*）里，埃伦费尔斯要给世界整体勾出那个根本的格式塔。宇宙从何而来、如何开展、终归何处——这是他想讲清楚的事。一头，他把宇宙当作古典意义上的 *Kosmos*：一个有序而和谐的整体，由一条秩序原则统治，是这条原则确立了世界的完整与统一。可另一头，埃伦费尔斯也认账：还有一条不统一与熵的原则——混沌与偶然。我们所知的这个世界，就由这两条宇宙原则互补协作生成（比较 PSII, 44 ff.；Valent 2016, 195；Höfer 2017, 46；Ierna 2017b, §3）[^höfer-2017][^ierna-2017b][^valent-2016]。创造与生成的过程本身就是一场格式塔作业，因为“一切因果力量都是格式塔化的倾向”（Ehrenfels 1916；Fabian 1990, 156）[^ehrenfels-1916]。生物繁殖也好，文化生产也罢，埃伦费尔斯在这一语境下双管齐下——两者都通向高阶的“叠置格式塔”（Ehrenfels 1916, 102, 136）[^ehrenfels-1916]。他还把这条线索挂到演化论上。
   - id: 66
     kind: body
     source: |-
       This results in a religious dualism. The contraposition of chaos and cosmos explains the presence of both good and evil, reason and chance, etc. in the world, allowing Ehrenfels to provide a theodicy. Nevertheless, the cosmic principles themselves cannot be straightforwardly regarded as absolutely good or evil. Moreover, although Ehrenfels calls the ordering principle “God”, it cannot be understood as the omnipotent creator of western monotheism (also dubbed “solotheism” by Ehrenfels), since neither cosmic principle is absolute in itself. Creation can only be achieved by both principles working together and consists in God ordering and “shaping” or “forming” (“*Gestalten*” in its verbal form) the world in perpetual contrast with chaos. Hence, the *Kosmogonie* does not carry the tone of a typically Christian religious work, nor is it simply a transposition of ancient or eastern mythologies into modern Europe. Rather, Ehrenfels had the ambition to formulate a general framework for a (utopian) future world-spanning religion, based on a firm scientific foundation (Ehrenfels 1916, 150, also see PSII, 52)[^ehrenfels-1916]. Indeed, Ehrenfels presents his dualism explicitly as a scientific hypothesis to be investigated and proven, and concludes that it can in fact explain the world as it is and can be confirmed by experience (Ehrenfels 1916, 23, 35)[^ehrenfels-1916].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这导致一种宗教二元论。混沌与宇宙的对立解释了世界中善与恶、理性与偶然等等的并存，使埃伦费尔斯得以提出一种神义论。尽管如此，这两条宇宙原则本身都不能被径直看作绝对善或绝对恶。此外，虽然埃伦费尔斯把秩序原则称为“上帝”，它却不能被理解为西方一神教中那个全能的造物主（埃伦费尔斯也把后者讥为“独神论”），因为没有任何一条宇宙原则自身是绝对的。创造只能由两条原则协力完成，其内容就是上帝在与混沌的永恒对照中整理并“塑造”或“赋形”（动词形式的“*Gestalten*”）这个世界。因此，《宇宙发生论》并没有典型的基督教宗教作品那种调子，也不是把古代或东方神话简单搬进现代欧洲。毋宁说，埃伦费尔斯的抱负是为一门（乌托邦式的）未来的世界宗教拟定一个总框架，而以坚实的科学奠基（Ehrenfels 1916, 150，另见 PSII, 52）[^ehrenfels-1916]。的确，埃伦费尔斯把他的二元论明确当作一个有待研究、有待证明的科学假说提出来，并总结说，它实际上能够解释世界的现状，而且能够被经验证实（Ehrenfels 1916, 23, 35）[^ehrenfels-1916]。
+    step2: |-
+      落到宗教上，这就是一种二元论。混沌与宇宙两相对峙，世间的善与恶、理性与偶然等等并存共生，由此得了个说法——埃伦费尔斯的神义论也顺势立起。不过，这两条宇宙原则自身，谁也称不上绝对的善或绝对的恶。还有一层：埃伦费尔斯虽把秩序原则唤作“上帝”，这位上帝却不能照西方一神教那位全能造物主来理解（埃伦费尔斯还讥那一套为“独神论”）——两条宇宙原则中没有哪条自身即是绝对。创造必须两原则合力方能成事：上帝在永与混沌的对照之中整理世界、“塑”之“造”之（动词的“*Gestalten*”）。所以《宇宙发生论》通篇没有典型基督教宗教作品的调门，也不是把古代或东方神话原样搬进现代欧洲。埃伦费尔斯的抱负另有所在：为（乌托邦式的）未来普世宗教立一个总纲，脚下还得踩着实打实的科学地基（Ehrenfels 1916, 150，另见 PSII, 52）[^ehrenfels-1916]。他确实把这套二元论当科学假说来亮牌——有待研究、有待证明——并宣称：它其实解释得了世界的现状，经验也证得实（Ehrenfels 1916, 23, 35）[^ehrenfels-1916]。
   - id: 67
     kind: body
     source: |-
       In the fourth paragraph of the sixth chapter, Ehrenfels formulates six dogmas for his new religion: 1) The world is the combined product of the active principle of order and form (“*Gestaltung*”) and the passive principle of chaos. 2) The world has a beginning but no end. Order and form are eternally progressing and increasing. 3) The principle of unity is bodiless and rather “soul-like”. 4) The eternal progress of the world proceeds from an eternal internal development in the principle of unity. 5) The world is not a result of a purposeful will, but of a blind forming (“*Gestalten*”). 6) We human beings are part of the divine and hence collaborators in the divine works.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在第六章第四段，埃伦费尔斯为新宗教拟定了六条信条：1）世界是主动的秩序与赋形原则（“*Gestaltung*”）与被动的混沌原则的共同产物。2）世界有开端而无终点；秩序与赋形永恒地进展并增长。3）统一原则是无形的，毋宁说“类灵魂”。4）世界的永恒进步出自统一原则中一种永恒的内在发展。5）世界并非一个有目的的意志的结果，而是一种盲目的赋形（“*Gestalten*”）的结果。6）我们人类是神圣者的一部分，因而是神圣事业的协作者。
+    step2: |-
+      第六章第四段，埃伦费尔斯给新宗教开出六条信条：1）世界是两条原则的共同产品——主动的秩序与赋形原则（“*Gestaltung*”），加上被动的混沌原则。2）世界有始而无终；秩序与赋形永远在推进、在增长。3）统一原则没有形体，倒有几分“灵魂相”。4）世界的永恒进步，源自统一原则内部一场永恒的内在发展。5）世界不出自一个有目的的意志，而出自一场盲目的赋形（“*Gestalten*”）。6）我们人类分有神圣者，故而是神圣事业的合伙人。
   - id: 68
     kind: body
     source: |-
       These last two points are particularly relevant, because Ehrenfels will conclude the *Kosmogonie* with the admittedly unsubstantiated claim that the principle of unity and order is coming to self-awareness through the human mind and that it is in and through human beings that its blind creative impulse can acquire a purpose (Ehrenfels 1916, 86, 207)[^ehrenfels-1916].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后两条尤其要紧，因为埃伦费尔斯将以一个他自认未曾论证的主张来结束《宇宙发生论》：统一与秩序原则正在通过人类心灵走向自我意识；正是在人类之中、经由人类，它那盲目的创造冲动才能获得一个目的（Ehrenfels 1916, 86, 207）[^ehrenfels-1916]。
+    step2: |-
+      末两条分量最重。埃伦费尔斯收束《宇宙发生论》靠的就是一个主张——他自己也认账，这主张并未给出论证：统一与秩序原则正借人类心灵走向自我觉知；也唯有在人类之中、经由人类，那股盲目的创造冲动才可能觅得一个目的（Ehrenfels 1916, 86, 207）[^ehrenfels-1916]。
   - id: 69
     kind: body
     source: |-
       The mere formulation of the six dogmas, as Ehrenfels clearly states at the end of the fourth paragraph of the sixth chapter, cannot have the pretension to constitute without further ado a fully formed religion. In his 1922 *Gedanken über die Religion der Zukunft*, Ehrenfels then sketches in more detail what is still missing in the *Kosmogonie*. Here, as well as in the *Kosmogonie*, he provides a description or morphology of religion rather than a definition (in the *Kosmogonie* he spoke of a physiognomy as *Weltbeschreibung*). Religions in general consist of four aspects:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如埃伦费尔斯在第六章第四段末尾明确指出的，单是拟定这六条信条，还没有资格径直就算一个成形的宗教。在其 1922 年的《关于未来宗教的思考》（*Gedanken über die Religion der Zukunft*）中，埃伦费尔斯接着更细致地勾勒《宇宙发生论》尚缺的东西。在此处，如同在《宇宙发生论》中一样，他给出的是对宗教的描述或形态学，而非定义（在《宇宙发生论》中他谈的是作为世界描述的“面相学”）。一般而言，宗教由四个方面构成：
+    step2: |-
+      埃伦费尔斯在第六章第四段末尾说得明明白白：光有这六条信条，还够不上一个成形的宗教。到了 1922 年的《关于未来宗教的思考》（*Gedanken über die Religion der Zukunft*），他才细画《宇宙发生论》还短些什么。在这里，一如在《宇宙发生论》中，他交出的是对宗教的描述或形态学，而不是定义（在《宇宙发生论》里，他把这叫作世界描述意义上的“面相学”）。大凡宗教，由四个方面构成：
   - id: 70
     kind: body
     source: |-
@@ -556,20 +566,32 @@ segments:
       2. a *Morallehre* or moral standard that tells us which actions are good or evil, allowed or reprehensible;
       3. a *Kultus*, or a system of traditional practices that allow the faithful to relate to whichever powers of the cosmos they acknowledge;
       4. exemplary *Idealgestalten*, imaginary or historical figures to emulate, i.e., heroes and saints.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 一种 *Weltanschauung*（世界观）：建立在形而上学假定之上的总体世界图景，回应为何、何来、何往这些“大问题”；
+      2. 一种 *Morallehre*（道德学说）或道德标准：告诉我们哪些行为善、哪些恶，哪些可容、哪些当斥；
+      3. 一种 *Kultus*（礼仪）：一套传统实践体系，让信众得以与其承认的种种宇宙力量建立关系；
+      4. 楷模性的 *Idealgestalten*（理想形象）：可供效法的想象或历史人物，即英雄与圣徒。
+    step2: |-
+      1. 一种 *Weltanschauung*（世界观）——立于形而上学假定之上的总体世界图景，答“为何、何来、何往”这几桩“大问题”；
+      2. 一种 *Morallehre*（道德学说）或道德准绳——断哪些行为为善为恶、可容当斥；
+      3. 一种 *Kultus*（礼仪）——一整套传统实践，凭它信众与各自认领的宇宙力量攀上关系；
+      4. 楷模性的 *Idealgestalten*（理想形象）——供人效法的想象或历史人物：英雄与圣徒。
   - id: 71
     kind: body
     source: |-
       However, Ehrenfels in this writing renounces the soul-like nature of the divine and formulates a new theory of the “superposition of units of consciousness”. Ehrenfels claims that wherever there is a living cell, there we can speak of some form of “consciousness”. This would hold not only for unicellular organisms, but also for plants, animals and humans. If every living cell of my body is somehow conscious, then also the individual cells in my brain must be. Yet while each and every individual neuron is conscious in itself, collectively they also constitute my unitary consciousness as a human being. This leads Ehrenfels through analogy to formulate the idea of “personalities of higher order”, indeed a *Volksseele* would be more than a mere poetic fiction. As support for this thesis Ehrenfels points to organic metaphors for social processes (such as competition for limited resources) as well as the purposeful unity displayed by bee swarms that collectively act like a single organism. Similarly, a few years later in *Die Religion der Zukunft*, he also states explicitly that all intellects participate in the divine intellect (Ehrenfels 1929, in PSIV, 286).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不过，在这部著作中，埃伦费尔斯放弃了神圣者的类灵魂性质，并提出了一个关于“意识单位之叠置”的新理论。埃伦费尔斯主张，凡有活细胞之处，我们就可以谈某种形式的“意识”。这不仅适用于单细胞生物，也适用于植物、动物与人。如果我身体的每一个活细胞都以某种方式有意识，那么我大脑中的单个细胞也必定如此。而每一个单独的神经元固然自身有意识，它们集合起来也构成我作为人的统一意识。由此出发，埃伦费尔斯经类比提出“高阶人格”的观念：这么一来，一部 *Volksseele*（民族灵魂）就不只是诗意的虚构了。为这一论题辩护，埃伦费尔斯指出社会过程的有机隐喻（如对有限资源的竞争），以及蜂群显示出的有目的的统一——它们集体行动如同单一有机体。类似地，几年之后在《未来宗教》中，他也明确说一切理智都分有神圣理智（Ehrenfels 1929, in PSIV, 286）。
+    step2: |-
+      但在这部著作里，埃伦费尔斯不再坚持神圣者的类灵魂性，转而立起一套“意识单位之叠置”的新理论。他的主张是：哪里有活细胞，哪里就可以谈某种形式的“意识”。单细胞生物固然在内，植物、动物与人无一例外。倘若我身上每一个活细胞都以某种方式有意识，我脑中的单个细胞自然也逃不掉。单个神经元个个自己有意识，而它们凑在一起，又构成了我这个人统一的意识。顺着这条类比，埃伦费尔斯提出了“高阶人格”的观念——这么一路推下去，连一部 *Volksseele*（民族灵魂）也不只是诗人的空想。给这一论题撑腰的，是给社会过程打上的有机隐喻（如对有限资源的竞争），还有蜂群那种齐整如单一有机体的目的性统一。几年之后的《未来宗教》里，他把话说得更白：一切理智都分有神圣理智（Ehrenfels 1929, in PSIV, 286）。
   - id: 72
     kind: body
     source: |-
       Ehrenfels’ thoughts and writings about cosmology and religion didn’t remain at the level of mere academic “armchair” speculations. Besides his engagement for sexual reform and the racial question in opinion pieces and speeches, he also actively sought to concretely establish the new religion sketched above. Indeed, Ehrenfels went so far as to publicly appeal in an open letter to the president of Czechoslovakia, his former fellow Brentano-pupil Thomas Masaryk, to act as the founder of the new religion (Ehrenfels 1929, in PSIV, 289 ff.). Although sympathetic to his concerns, Masaryk politely rebuffed him, clearly distinguishing between his personal religious thoughts and his public political role (see Masaryk’s letter to Ehrenfels in PSIV, 294 ff.).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      埃伦费尔斯关于宇宙论与宗教的思想和写作，并未停留在学院式“扶手椅”玄思的层面。除了在时评与演讲中为性改革与种族问题奔走之外，他还积极谋求把上述新宗教具体建立起来。埃伦费尔斯甚至公开致函捷克斯洛伐克总统——他昔日同为布伦塔诺弟子的托马斯·马萨里克——请求他出任新宗教的创立者（Ehrenfels 1929, in PSIV, 289 ff.）。马萨里克对他的关切虽有同情，还是客气地回绝了，明确区分了他个人的宗教思考与他的公共政治角色（见马萨里克致埃伦费尔斯的信，PSIV, 294 ff.）。
+    step2: |-
+      埃伦费尔斯的宇宙论与宗教之思，可没有停在学院“扶手椅”里打转。时评、演讲里为性改革和种族问题鼓呼之外，他还真刀真枪要把上面那幅新宗教蓝图落地。他甚至发公开信致捷克斯洛伐克总统——当年同门的布伦塔诺弟子托马斯·马萨里克——请他出山当新宗教的开山祖师（Ehrenfels 1929, in PSIV, 289 ff.）。马萨里克对这番关切虽表同情，终究客气地回绝，公私两本账分得清清楚楚：个人的宗教思考是一回事，公共的政治角色是另一回事（见马萨里克致埃伦费尔斯函，PSIV, 294 ff.）。
   - id: 73
     kind: body
     source: |-
