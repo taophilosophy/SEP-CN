@@ -62,6 +62,7 @@ ROOT_ALLOW = {
     '.zcode': 'AI 代理配置',
     '.secrets': '本地凭证（忽略，不入库）',
     '.workbuddy': '本地工具态（忽略，不入库）',
+    '.workbuddy-ai': 'AI 工作区态（忽略，不入库；ADR-0035）',
     # 顶层叙事文档（单一事实源与访客文档）
     'AGENTS.md': 'AI 代理入口指引',
     'CODE_OF_CONDUCT.md': '行为准则',
