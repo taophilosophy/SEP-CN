@@ -1,0 +1,348 @@
+{
+ "key": "linear operator",
+ "term": "linear operator",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T23:20:54+00:00",
+ "status": "ok",
+ "note": "variant=linear operator; 审定公布名词库=4200; 海峡两岸名词对照库=895; 其他来源数据库=111; 预公布名词数据库=134; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "线性算符",
+   "en": "linear operator",
+   "code": "01.0356",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_数学"
+  },
+  {
+   "cn": "线性算子",
+   "en": "linear operator",
+   "code": "07.0175",
+   "standard": "数学名词",
+   "subject": "数学_泛函分析_算子"
+  },
+  {
+   "cn": "紧线性算子",
+   "en": "compact linear operator",
+   "code": "07.0179",
+   "standard": "数学名词",
+   "subject": "数学_泛函分析_算子"
+  },
+  {
+   "cn": "无界线性算子",
+   "en": "unbounded linear operator",
+   "code": "07.0181",
+   "standard": "数学名词",
+   "subject": "数学_泛函分析_算子"
+  },
+  {
+   "cn": "有界线性算子",
+   "en": "bounded linear operator",
+   "code": "07.0176",
+   "standard": "数学名词",
+   "subject": "数学_泛函分析_算子"
+  },
+  {
+   "cn": "连续线性算子",
+   "en": "continuous linear operator",
+   "code": "07.0177",
+   "standard": "数学名词",
+   "subject": "数学_泛函分析_算子"
+  },
+  {
+   "cn": "[非线性]弗雷德霍姆算子",
+   "en": "[non-linear] Fredholm operator",
+   "code": "07.0345",
+   "standard": "数学名词",
+   "subject": "数学_泛函分析_非线性泛函分析"
+  },
+  {
+   "cn": "[非线性]紧算子",
+   "en": "[non-linear] compact operator",
+   "code": "07.0346",
+   "standard": "数学名词",
+   "subject": "数学_泛函分析_非线性泛函分析"
+  },
+  {
+   "cn": "最大线性工作转速",
+   "en": "maximum linear operation speed",
+   "code": "07.490",
+   "standard": "电气工程名词",
+   "subject": "电气工程_电机"
+  },
+  {
+   "cn": "线性",
+   "en": "linear",
+   "code": "02.0394",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学相关基础学科_辐射损伤与放射生物学"
+  },
+  {
+   "cn": "线性[的]",
+   "en": "linear",
+   "code": "07.0003",
+   "standard": "数学名词",
+   "subject": "数学_泛函分析_泛函分析基础"
+  },
+  {
+   "cn": "线性化",
+   "en": "linearization",
+   "code": "03.02.079",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_印刷_印前工艺"
+  },
+  {
+   "cn": "线性的",
+   "en": "linear",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "线性",
+   "en": "linearity",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "线性化",
+   "en": "linearization",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "线性度",
+   "en": "linearity",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "线性四分子（=直列四分体）",
+   "en": "linear tetrad",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "直列四分体，线性四分子",
+   "en": "linear tetrad",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "直线迁移",
+   "en": "linear migration",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "线性变换",
+   "en": "linear transformation",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "线性波",
+   "en": "linear wave",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "线性插值",
+   "en": "linear interpolation",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "线性反演",
+   "en": "linear inversion",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "线性相关",
+   "en": "linear correlation",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "连续线性算子",
+   "en": "continuous linear operator)(：continuous linear mapping)。",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "线性表",
+   "en": "Linear List",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "里程碑",
+   "en": "Linear referencing",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "线性组合",
+   "en": "Linear combination",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "线性规划",
+   "en": "Linear Programming",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "线性规划",
+   "en": "linear programming",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "线性结构",
+   "en": "linear structure",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "线性映射",
+   "en": "linear map",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "线性代数",
+   "en": "linear algebra",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "中子发生器",
+   "en": "Linear particle accelerator",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "工作人员",
+   "en": "operator",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_排球名词"
+  },
+  {
+   "cn": "μ算子",
+   "en": "μ operator",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "线性表位",
+   "en": "linear epitope",
+   "code": "3.4.23",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食物过敏"
+  },
+  {
+   "cn": "直线加速器",
+   "en": "linear accelerator",
+   "code": "6.5.1.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_工业应用的放射防护_加速器应用"
+  },
+  {
+   "cn": "线性回归",
+   "en": "linear regression",
+   "code": "1.2.5.83",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "线性生长",
+   "en": "linear growth",
+   "code": "2.2.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_体格发育"
+  },
+  {
+   "cn": "线衰减系数",
+   "en": "linear attenuation coefficient",
+   "code": "3.2.3.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量"
+  },
+  {
+   "cn": "电子直线加速器",
+   "en": "electron linear accelerator",
+   "code": "6.5.1.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_工业应用的放射防护_加速器应用"
+  },
+  {
+   "cn": "质子直线加速器",
+   "en": "proton linear accelerator",
+   "code": "6.5.1.8",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_工业应用的放射防护_加速器应用"
+  },
+  {
+   "cn": "对数线性模型",
+   "en": "log-linear model",
+   "code": "1.2.5.107",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "线碰撞阻止本领",
+   "en": "linear collision stopping power",
+   "code": "3.2.3.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量"
+  },
+  {
+   "cn": "线辐射阻止本领",
+   "en": "linear radioactive stopping power",
+   "code": "3.2.3.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量"
+  },
+  {
+   "cn": "线能量转移系数",
+   "en": "linear energy transfer coefficient",
+   "code": "3.2.3.8",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量"
+  },
+  {
+   "cn": "线能量吸收系数",
+   "en": "linear energy absorption coefficient",
+   "code": "3.2.3.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

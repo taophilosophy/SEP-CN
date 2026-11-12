@@ -1,0 +1,348 @@
+{
+ "key": "dispositional property",
+ "term": "dispositional property",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T22:58:26+00:00",
+ "status": "ok",
+ "note": "variant=dispositional property; 审定公布名词库=546; 海峡两岸名词对照库=142; 其他来源数据库=181; 预公布名词数据库=36; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "植物配置",
+   "en": "plant disposition",
+   "code": "09.0289",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林植物_风景园林植物规划设计"
+  },
+  {
+   "cn": "文件处置",
+   "en": "records disposition",
+   "code": "03.02.003",
+   "standard": "档案学名词",
+   "subject": "档案学_档案管理_档案鉴定"
+  },
+  {
+   "cn": "处置效应",
+   "en": "disposition effect",
+   "code": "07.0151",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_金融工程_原理"
+  },
+  {
+   "cn": "药物处置",
+   "en": "drug disposition",
+   "code": "07.043",
+   "standard": "药学名词",
+   "subject": "药学_药理学"
+  },
+  {
+   "cn": "文件处置办法",
+   "en": "Records Disposition Regulations",
+   "code": "08.02.038",
+   "standard": "档案学名词",
+   "subject": "档案学_中国档案事业史_档案工作制度"
+  },
+  {
+   "cn": "属性",
+   "en": "property",
+   "code": "02.066",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_自然哲学_基本概念"
+  },
+  {
+   "cn": "物业",
+   "en": "property",
+   "code": "09.0127",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_项目管理与工程管理_管理阶段与模式"
+  },
+  {
+   "cn": "物业",
+   "en": "property",
+   "code": "06.0118",
+   "standard": "建筑学名词",
+   "subject": "建筑学_市场管理与工程建设程序_房地产市场"
+  },
+  {
+   "cn": "星特性",
+   "en": "star-property,*-property",
+   "code": "10.0265",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_信息安全_信息系统安全防护技术"
+  },
+  {
+   "cn": "黏结性",
+   "en": "caking property,bonding property",
+   "code": "02.252",
+   "standard": "化工名词 (二)基本有机化工",
+   "subject": "化工（二）_原料与产品"
+  },
+  {
+   "cn": "本性归因",
+   "en": "dispositional attribution,personal attribution",
+   "code": "07.028",
+   "standard": "心理学名词",
+   "subject": "心理学_社会心理学"
+  },
+  {
+   "cn": "办毕公文处置",
+   "en": "disposition of official records",
+   "code": "02.03.002",
+   "standard": "档案学名词",
+   "subject": "档案学_文件管理_公文处理"
+  },
+  {
+   "cn": "本性",
+   "en": "disposition",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "本性归因,素质归因",
+   "en": "dispositional attribution",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "配置略图",
+   "en": "disposition sketch",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "配置轴",
+   "en": "disposition axis",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "药物处置",
+   "en": "disposition of drug",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "财物",
+   "en": "property",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "次要特质",
+   "en": "secondary trait\",\"secondary disposition",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "个人特质",
+   "en": "individual trait\",\"personal disposition",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "巡航编队与部署",
+   "en": "cruising formation and disposition",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "大气特性",
+   "en": "atmospheric property",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "总体性质",
+   "en": "bulk property",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "临界性质",
+   "en": "critical property",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "金融风险处置",
+   "en": "financial risk disposition",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "财产",
+   "en": "property",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据处分权",
+   "en": "right to data disposition",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "分类变量",
+   "en": "qualitative property",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "知识产权",
+   "en": "intellectual property",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "网络财产",
+   "en": "network property",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "属性图",
+   "en": "property graph",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "系统属性",
+   "en": "System Property",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "财产权",
+   "en": "property right",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "虚拟财产",
+   "en": "virtual property",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "泛性质",
+   "en": "Universal property",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "结合律",
+   "en": "associative property",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "财产",
+   "en": "property",
+   "code": "04.0038",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_马克思恩格斯时期"
+  },
+  {
+   "cn": "抗渗水性",
+   "en": "waterproof property",
+   "code": "1.7.1.18",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒学_防护"
+  },
+  {
+   "cn": "财产性收入",
+   "en": "property income",
+   "code": "02.0426",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "族产",
+   "en": "clan property",
+   "code": "4.0149",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "测量性能",
+   "en": "measurement property",
+   "code": "5.3.2",
+   "standard": "社会医学名词",
+   "subject": "生命质量"
+  },
+  {
+   "cn": "家庭财产调查",
+   "en": "family property survey",
+   "code": "4.3.9.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会救助"
+  },
+  {
+   "cn": "产权清晰",
+   "en": "clearly defined property rights",
+   "code": "02.0423",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "医院产权理论",
+   "en": "hospital property right theory ",
+   "code": "14.2.3.1.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_医生与医院行为_医院行为"
+  },
+  {
+   "cn": "《家庭、私有制和国家的起源》",
+   "en": "Origin of Family, Private Property and State",
+   "code": "1.0592",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "贫困",
+   "en": "poverty",
+   "code": "4.3.9.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会救助"
+  },
+  {
+   "cn": "贫困",
+   "en": "poverty",
+   "code": "03.0132",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "共同富裕",
+   "en": "common prosperity",
+   "code": "03.0554",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

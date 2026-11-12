@@ -1,0 +1,82 @@
+{
+ "key": "faith",
+ "term": "faith",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T22:58:27+00:00",
+ "status": "ok",
+ "note": "variant=faith; 审定公布名词库=5; 海峡两岸名词对照库=0; 其他来源数据库=2; 预公布名词数据库=3; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "信仰",
+   "en": "faith",
+   "code": "1.082",
+   "standard": "行为医学名词",
+   "subject": "行为医学_总论_行为决定健康"
+  },
+  {
+   "cn": "信仰疗法",
+   "en": "faith therapy",
+   "code": "08.122",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科技伦理_医学伦理学"
+  },
+  {
+   "cn": "诚实信用",
+   "en": "good faith",
+   "code": "04.034",
+   "standard": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "subject": "化工（五）_工程建设_工程项目管理"
+  },
+  {
+   "cn": "忠实模",
+   "en": "faithful module",
+   "code": "04.0877",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_模论"
+  },
+  {
+   "cn": "忠实函子",
+   "en": "faithful functor",
+   "code": "04.1590",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_范畴论"
+  },
+  {
+   "cn": "信",
+   "en": "Good Faith",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "讲信修睦",
+   "en": "Keep Good Faith and Pursue Harmony",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "信仰",
+   "en": "faith",
+   "code": "1.083",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "信仰疗法",
+   "en": "faith healing",
+   "code": "5.046",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_临床诊疗伦理"
+  },
+  {
+   "cn": "信仰治疗",
+   "en": "faith healing",
+   "code": "1.0241",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

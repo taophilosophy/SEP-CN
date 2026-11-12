@@ -1,0 +1,348 @@
+{
+ "key": "genetics",
+ "term": "genetics",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T22:58:28+00:00",
+ "status": "ok",
+ "note": "variant=genetics; 审定公布名词库=698; 海峡两岸名词对照库=324; 其他来源数据库=16; 预公布名词数据库=24; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "遗传学",
+   "en": "genetics",
+   "code": "3.146",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为的生物学基础_遗传学基础_遗传学"
+  },
+  {
+   "cn": "遗传学",
+   "en": "genetics",
+   "code": "1.001",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "遗传学",
+   "en": "genetics",
+   "code": "11.0358",
+   "standard": "物理学名词",
+   "subject": "物理学_交叉学科_生物物理学"
+  },
+  {
+   "cn": "遗传学",
+   "en": "genetics",
+   "code": "01.001",
+   "standard": "遗传学名词",
+   "subject": "遗传学_总论"
+  },
+  {
+   "cn": "基株",
+   "en": "genet",
+   "code": "13.0066",
+   "standard": "植物学名词",
+   "subject": "植物学_植物生态学_克隆植物生态学"
+  },
+  {
+   "cn": "基株",
+   "en": "genet",
+   "code": "05.017",
+   "standard": "生态学名词",
+   "subject": "生态学_种群生态学"
+  },
+  {
+   "cn": "法医遗传学",
+   "en": "medicolegal genetics,forensic  genetics",
+   "code": "01.018",
+   "standard": "医学名词 第三分册",
+   "subject": "医学_医学遗传学"
+  },
+  {
+   "cn": "遗传进展",
+   "en": "genetic gain,genetic progress",
+   "code": "04.403",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_遗传育种_数量遗传学"
+  },
+  {
+   "cn": "作物遗传学",
+   "en": "crop genetics",
+   "code": "01.102",
+   "standard": "农学名词",
+   "subject": "总论_农业科学"
+  },
+  {
+   "cn": "遗传内分泌学",
+   "en": "endocrine genetics",
+   "code": "01.012",
+   "standard": "内分泌代谢病学名词",
+   "subject": "总论_学科概述"
+  },
+  {
+   "cn": "正向遗传学",
+   "en": "forward genetics",
+   "code": "15.027",
+   "standard": "农学名词",
+   "subject": "农业生物技术_基因工程"
+  },
+  {
+   "cn": "反向遗传学",
+   "en": "reversed genetics",
+   "code": "15.028",
+   "standard": "农学名词",
+   "subject": "农业生物技术_基因工程"
+  },
+  {
+   "cn": "遗传学",
+   "en": "genetics",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "基株",
+   "en": "genet",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "基株",
+   "en": "genet",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "反求遗传学,替代遗传学",
+   "en": "reverse genetics\",\"surrogate genetics",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "法医遗传学,法医物证学",
+   "en": "medicolegal genetics\",\"forensic genetics",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "遗传互补（=遗传拯救）",
+   "en": "genetic complementation (=genetic rescue)",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "分子遗传学",
+   "en": "molecular genetics",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "进化遗传学",
+   "en": "evolutionary genetics",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "植物遗传学",
+   "en": "plant genetics",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "行为遗传学",
+   "en": "behavioral genetics",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "种群遗传学",
+   "en": "population genetics",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "生态遗传学",
+   "en": "ecological genetics",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "遗传学",
+   "en": "Classical genetics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "植物遗传学",
+   "en": "Plant Genetics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "遗传算法",
+   "en": "Genetic Algorithm",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "基因污染",
+   "en": "Genetic pollution",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "遗传算法",
+   "en": "genetic algorithm",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "遗传标记",
+   "en": "genetic marker",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "基因结构",
+   "en": "genetic structure",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "医学词汇_医疗科研"
+  },
+  {
+   "cn": "基因序列",
+   "en": "genetic sequence",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "医学词汇_医疗科研"
+  },
+  {
+   "cn": "孟德尔定律",
+   "en": "History of genetics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "基因检测大数据",
+   "en": "genetic testing big data",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "分享病毒基因序列",
+   "en": "to share the genetic sequence of the virus",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "合作抗疫_国际合作"
+  },
+  {
+   "cn": "DeepVariant（可将基因组信息转换成图像进行分析）",
+   "en": "DeepVariant (an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "遗传效应",
+   "en": "genetic effect",
+   "code": "4.1.1.1.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词"
+  },
+  {
+   "cn": "遗传影响",
+   "en": "genetic influence",
+   "code": "2.8.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_生长发育影响因素"
+  },
+  {
+   "cn": "遗传咨询",
+   "en": "genetic counseling",
+   "code": "3.3.1.3.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_围婚期保健"
+  },
+  {
+   "cn": "遗传效应",
+   "en": "genetic effect",
+   "code": "8.8.11",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_核武器医学防护学_辐射防护基础"
+  },
+  {
+   "cn": "家族性遗传影响",
+   "en": "familial genetic influence",
+   "code": "2.8.1.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_生长发育影响因素"
+  },
+  {
+   "cn": "种族性遗传影响",
+   "en": "racial genetic influence",
+   "code": "2.8.1.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_生长发育影响因素"
+  },
+  {
+   "cn": "生活方式-遗传失配",
+   "en": "lifestyle - genetic mismatch",
+   "code": "1.6.1.5",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论"
+  },
+  {
+   "cn": "胚胎植入前遗传学检测",
+   "en": "preimplantation genetic screening",
+   "code": "5.7.2.3",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_生育调节_辅助生殖技术"
+  },
+  {
+   "cn": "分子遗传学方法",
+   "en": "molecular genetic methods.",
+   "code": "2.1.1.67",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品生物性危害因素"
+  },
+  {
+   "cn": "有遗传意义剂量",
+   "en": "genetically significant dose",
+   "code": "3.3.1.11",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量"
+  },
+  {
+   "cn": "胚胎植入前遗传学诊断",
+   "en": "pre-implantation genetic diagnosis",
+   "code": "3.5.2.2.3.4",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_孕产期保健"
+  },
+  {
+   "cn": "遗传代谢性疾病筛查",
+   "en": "genetic metabolic disease screening",
+   "code": "4.3.1.16",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

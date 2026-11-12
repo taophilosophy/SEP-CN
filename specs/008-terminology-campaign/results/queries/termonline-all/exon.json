@@ -1,0 +1,187 @@
+{
+ "key": "exon",
+ "term": "exon",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T22:58:27+00:00",
+ "status": "ok",
+ "note": "variant=exon; 审定公布名词库=98; 海峡两岸名词对照库=56; 其他来源数据库=1; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "外显子",
+   "en": "exon",
+   "code": "15.006",
+   "standard": "农学名词",
+   "subject": "农业生物技术_基因工程"
+  },
+  {
+   "cn": "外显子",
+   "en": "exon",
+   "code": "5.0263",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_遗传信息传递与基因表达调控_合成与加工_修复"
+  },
+  {
+   "cn": "外显子",
+   "en": "exon",
+   "code": "03.062",
+   "standard": "男科及性医学名词",
+   "subject": "男科及性医学_生殖系统遗传"
+  },
+  {
+   "cn": "外显子",
+   "en": "exon",
+   "code": "3.269",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "外显子",
+   "en": "exon",
+   "code": "04.078",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_遗传育种_分子遗传学"
+  },
+  {
+   "cn": "外显子",
+   "en": "exon",
+   "code": "10.0162",
+   "standard": "植物学名词",
+   "subject": "植物学_植物遗传学"
+  },
+  {
+   "cn": "外显子",
+   "en": "exon",
+   "code": "05.385",
+   "standard": "药学名词",
+   "subject": "药学_生物药学"
+  },
+  {
+   "cn": "外显子",
+   "en": "exon",
+   "code": "07.243",
+   "standard": "放射医学与防护名词",
+   "subject": "放射医学与防护_放射生物学_放射分子生物学"
+  },
+  {
+   "cn": "外显子",
+   "en": "exon",
+   "code": "07.129",
+   "standard": "细胞生物学名词",
+   "subject": "细胞生物学_细胞遗传"
+  },
+  {
+   "cn": "外显子",
+   "en": "exon",
+   "code": "03.135",
+   "standard": "遗传学名词",
+   "subject": "遗传学_分子遗传学"
+  },
+  {
+   "cn": "外显子",
+   "en": "exon",
+   "code": "01.712",
+   "standard": "医学名词 第三分册",
+   "subject": "医学_医学遗传学"
+  },
+  {
+   "cn": "外显子捕获",
+   "en": "exon trapping",
+   "code": "11.0858",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术"
+  },
+  {
+   "cn": "外显子",
+   "en": "exon",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "外显子",
+   "en": "exon",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "外显子",
+   "en": "exon",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "外显子",
+   "en": "exon",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "外显子",
+   "en": "exon",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "外显子捕获",
+   "en": "exon trapping",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "外显子混编,外显子洗牌",
+   "en": "exon shuffling",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "外显子互换",
+   "en": "exon exchange",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "外显子捕获",
+   "en": "exon trapping",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "外显子插入",
+   "en": "exon insertion",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "外显子重复",
+   "en": "exon duplication",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "外显子混编",
+   "en": "exon shuffling",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "外显子",
+   "en": "Exon",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,180 @@
+{
+ "key": "fiducial",
+ "term": "fiducial",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T22:58:27+00:00",
+ "status": "ok",
+ "note": "variant=fiducial; 审定公布名词库=30; 海峡两岸名词对照库=17; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "基准温度",
+   "en": "fiducial temperature",
+   "code": "15.03.048",
+   "standard": "地质学名词",
+   "subject": "地质学_地热地质学_地热资源勘查与利用"
+  },
+  {
+   "cn": "框标",
+   "en": "fiducial mark",
+   "code": "03.131",
+   "standard": "测绘学名词",
+   "subject": "测绘学_摄影测量学与遥感"
+  },
+  {
+   "cn": "引用不确定度",
+   "en": "fiducial uncertainty",
+   "code": "02.137",
+   "standard": "电力名词",
+   "subject": "电力_电测与计量"
+  },
+  {
+   "cn": "引用值",
+   "en": "fiducial value",
+   "code": "02.147",
+   "standard": "电力名词",
+   "subject": "电力_电测与计量"
+  },
+  {
+   "cn": "引用误差",
+   "en": "fiducial error",
+   "code": "02.153",
+   "standard": "电力名词",
+   "subject": "电力_电测与计量"
+  },
+  {
+   "cn": "基准点",
+   "en": "fiducial point",
+   "code": "01.0282",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "置信概率",
+   "en": "fiducial probability",
+   "code": "01.0281",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "基准标记",
+   "en": "fiducial marker",
+   "code": "02.383",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_分子与结构生物学_电子显微三维重构技术"
+  },
+  {
+   "cn": "基准基团",
+   "en": "fiducial group",
+   "code": "02.0781",
+   "standard": "化学名词",
+   "subject": "化学_有机化学_物理有机化学_有机立体化学"
+  },
+  {
+   "cn": "引用误差",
+   "en": "fiducial error",
+   "code": "01.139",
+   "standard": "计量学名词",
+   "subject": "计量学_计量学通用名词_测量仪器特性"
+  },
+  {
+   "cn": "引用误差",
+   "en": "fiducial error",
+   "code": "01.030",
+   "standard": "机械工程名词 第三分册",
+   "subject": "机械工程_仪器仪表_总论_仪器仪表基本名词"
+  },
+  {
+   "cn": "基准值",
+   "en": "fiducial value",
+   "code": "26.118",
+   "standard": "电气工程名词",
+   "subject": "电气工程_电磁测量和电离辐射测量"
+  },
+  {
+   "cn": "基准基团",
+   "en": "fiducial group",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "框标",
+   "en": "fiducial mark",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "框标点",
+   "en": "fiducial point",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "框标坐标轴",
+   "en": "fiducial axis",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "角框标",
+   "en": "corner fiducial mark",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "信托",
+   "en": "fiduciary",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "信托机构",
+   "en": "fiduciary institution",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "信托基金",
+   "en": "fiduciary trust",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "信托投资",
+   "en": "fiduciary contribution",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "信托业务",
+   "en": "fiduciary business",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "信托资金",
+   "en": "fiduciary fund",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "信用储备",
+   "en": "fiduciary reserve",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

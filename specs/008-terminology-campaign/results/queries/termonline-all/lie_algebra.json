@@ -1,0 +1,348 @@
+{
+ "key": "lie algebra",
+ "term": "Lie algebra",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T23:20:54+00:00",
+ "status": "ok",
+ "note": "variant=Lie algebra; 审定公布名词库=4234; 海峡两岸名词对照库=1351; 其他来源数据库=295; 预公布名词数据库=166; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "李代数",
+   "en": "Lie algebra",
+   "code": "04.1490",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_非结合环"
+  },
+  {
+   "cn": "代数的李代数",
+   "en": "algebraic Lie algebra",
+   "code": "04.1993",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_代数群"
+  },
+  {
+   "cn": "伴随李代数",
+   "en": "adjoint Lie algebra",
+   "code": "04.1500",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_非结合环"
+  },
+  {
+   "cn": "可解李代数",
+   "en": "solvable Lie algebra",
+   "code": "04.1501",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_非结合环"
+  },
+  {
+   "cn": "幂零李代数",
+   "en": "nilpotent Lie algebra",
+   "code": "04.1503",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_非结合环"
+  },
+  {
+   "cn": "分裂李代数",
+   "en": "split Lie algebra",
+   "code": "04.1504",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_非结合环"
+  },
+  {
+   "cn": "单李代数",
+   "en": "simple Lie algebra",
+   "code": "04.1518",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_非结合环"
+  },
+  {
+   "cn": "模李代数",
+   "en": "modular Lie algebra",
+   "code": "04.1553",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_非结合环"
+  },
+  {
+   "cn": "商李代数",
+   "en": "quotient Lie algebra",
+   "code": "04.1495",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_非结合环"
+  },
+  {
+   "cn": "阿贝尔李代数",
+   "en": "Abelian Lie algebra",
+   "code": "04.1502",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_非结合环"
+  },
+  {
+   "cn": "自由李代数",
+   "en": "free Lie algebra",
+   "code": "04.1524",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_非结合环"
+  },
+  {
+   "cn": "约化李代数",
+   "en": "reductive Lie algebra",
+   "code": "04.1512",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_非结合环"
+  },
+  {
+   "cn": "测谎",
+   "en": "lie detection",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "测谎仪",
+   "en": "lie detector",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "测谎量表",
+   "en": "lie scale",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "地理代数",
+   "en": "geo-algebra",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "地图代数",
+   "en": "map algebra",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "关系代数",
+   "en": "relational algebra",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "布尔代数",
+   "en": "Boolean algebra",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "程序代数",
+   "en": "program algebra",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "关系代数",
+   "en": "relational algebra",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "代数模型",
+   "en": "algebraic model",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "代数规约",
+   "en": "algebraic specification",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "代数简化",
+   "en": "algebraic simplification",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "布尔逻辑",
+   "en": "Boolean algebra",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数值代数",
+   "en": "numerical algebra",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "进程代数",
+   "en": "process algebra",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "线性代数",
+   "en": "linear algebra",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "外代数",
+   "en": "Exterior algebra",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "微分代数",
+   "en": "Differential algebra",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "表面",
+   "en": "algebraic surface",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "界线",
+   "en": "boundary line\",\"line",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_手球名词"
+  },
+  {
+   "cn": "谎言",
+   "en": "lie",
+   "code": "1.093",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "寿命",
+   "en": "life",
+   "code": "6.1.15.2.1",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_理化检验"
+  },
+  {
+   "cn": "生命",
+   "en": "life",
+   "code": "2.016",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医学伦理学的基本理论与基本观点"
+  },
+  {
+   "cn": "羯",
+   "en": "Jie",
+   "code": "3.0075",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族称谓"
+  },
+  {
+   "cn": "人的生命",
+   "en": "human life",
+   "code": "2.017",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医学伦理学的基本理论与基本观点"
+  },
+  {
+   "cn": "使用寿命",
+   "en": "useful life",
+   "code": "3.2.3.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒相关用品"
+  },
+  {
+   "cn": "承诺寿命",
+   "en": "promised life",
+   "code": "6.1.15.2.3",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_理化检验"
+  },
+  {
+   "cn": "平均寿命",
+   "en": "mean life",
+   "code": "3.2.1.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量"
+  },
+  {
+   "cn": "活时间",
+   "en": "live time",
+   "code": "5.1.1.15",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量"
+  },
+  {
+   "cn": "社会生活",
+   "en": "social life",
+   "code": "2.1.5.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会生活"
+  },
+  {
+   "cn": "生命历程",
+   "en": "life course",
+   "code": "2.3.1.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会化_社会化"
+  },
+  {
+   "cn": "生活机会",
+   "en": "life-chances",
+   "code": "2.6.6.16",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_社会分层理论"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

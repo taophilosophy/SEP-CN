@@ -1,0 +1,348 @@
+{
+ "key": "material inference",
+ "term": "material inference",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T23:31:24+00:00",
+ "status": "ok",
+ "note": "variant=material inference; 审定公布名词库=3913; 海峡两岸名词对照库=1356; 其他来源数据库=98; 预公布名词数据库=260; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "推理",
+   "en": "inference",
+   "code": "09.043",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_智能化工制造系统"
+  },
+  {
+   "cn": "推论",
+   "en": "inference",
+   "code": "04.049",
+   "standard": "全科医学与社区卫生名词",
+   "subject": "全科医学与社区卫生_全科医疗服务"
+  },
+  {
+   "cn": "推理",
+   "en": "inference,reasoning",
+   "code": "02.643",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "似真推理",
+   "en": "plausible inference",
+   "code": "03.255",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "code": "09.006",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_智能化工制造系统"
+  },
+  {
+   "cn": "似然推理",
+   "en": "plausible inference",
+   "code": "09.045",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_智能化工制造系统"
+  },
+  {
+   "cn": "定性推理",
+   "en": "qualitative inference",
+   "code": "09.046",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_智能化工制造系统"
+  },
+  {
+   "cn": "正向推理",
+   "en": "forward inference",
+   "code": "09.049",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_智能化工制造系统"
+  },
+  {
+   "cn": "反向推理",
+   "en": "backward inference",
+   "code": "09.050",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_智能化工制造系统"
+  },
+  {
+   "cn": "双向推理",
+   "en": "bidirectional inference",
+   "code": "09.051",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_智能化工制造系统"
+  },
+  {
+   "cn": "任意推断",
+   "en": "arbitrary inference",
+   "code": "2.109",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为医学基本理论_认知理论"
+  },
+  {
+   "cn": "统计推断",
+   "en": "statistical inference",
+   "code": "10.118",
+   "standard": "经济学名词",
+   "subject": "经济学_数量经济学"
+  },
+  {
+   "cn": "推理",
+   "en": "inference\",\"reasoning",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "推理",
+   "en": "inference\",\"reasoning",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "武断推论",
+   "en": "arbitrary inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "无意识推理",
+   "en": "unconscious inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "直接推理",
+   "en": "direct inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "对应推论",
+   "en": "correspondent inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "类别推理",
+   "en": "categorical inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "统计推断",
+   "en": "statistical inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "归纳推理",
+   "en": "inductive inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "统计推断",
+   "en": "statistical inference",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "意图推断",
+   "en": "intent inference",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "因果推断",
+   "en": "causal inference",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "知识推理",
+   "en": "knowledge inference",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "条件",
+   "en": "material conditional",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "淤泥",
+   "en": "granular material",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "易裂变材料",
+   "en": "fissile material",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "材料科学",
+   "en": "materials science",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "先进材料",
+   "en": "Advanced Materials",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "强关联",
+   "en": "Strongly correlated material",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "人工智能基础材料",
+   "en": "basic AI material",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "物料需求计划",
+   "en": "Material Requirements Planning",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "物料清单",
+   "en": "bill of materials",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "唯物主义",
+   "en": "materialism",
+   "code": "01.0003",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "物化",
+   "en": "materialization",
+   "code": "01.0133",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "标准物质",
+   "en": "reference material",
+   "code": "1.5.57",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险监测"
+  },
+  {
+   "cn": "半导体材料",
+   "en": "semiconductor material",
+   "code": "2.2.7.2.3.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术_物理消毒"
+  },
+  {
+   "cn": "透气材料",
+   "en": "breathable material",
+   "code": "3.1.7",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "抗菌材料",
+   "en": "antibacterial material",
+   "code": "3.1.13.8",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "投料批",
+   "en": "material batch",
+   "code": "5.1.7.1",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_企业监管"
+  },
+  {
+   "cn": "原料",
+   "en": "raw material",
+   "code": "5.1.8.1",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_企业监管"
+  },
+  {
+   "cn": "材料相容性",
+   "en": "material compatibility",
+   "code": "6.3.3",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_安全性检验"
+  },
+  {
+   "cn": "核材料",
+   "en": "nuclear material",
+   "code": "6.6.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_核工业的放射防护"
+  },
+  {
+   "cn": "源材料",
+   "en": "source material",
+   "code": "6.6.7.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_核工业的放射防护"
+  },
+  {
+   "cn": "物质文化",
+   "en": "material culture",
+   "code": "2.2.2.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_文化与文明_文化的结构与功能"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

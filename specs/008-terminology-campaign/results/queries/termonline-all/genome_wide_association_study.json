@@ -1,0 +1,348 @@
+{
+ "key": "genome-wide association study",
+ "term": "genome-wide association study",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T22:58:28+00:00",
+ "status": "ok",
+ "note": "variant=genome-wide association study; 审定公布名词库=3785; 海峡两岸名词对照库=1591; 其他来源数据库=209; 预公布名词数据库=148; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "全基因组关联分析",
+   "en": "whole genome association study,genome-wide association study",
+   "code": "04.463",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_遗传育种_分子数量遗传学"
+  },
+  {
+   "cn": "全基因组关联分析",
+   "en": "genome-wide association study,GWAS",
+   "code": "06.090",
+   "standard": "生物物理学名词",
+   "subject": "生物物理学_生物信息学_遗传与表观遗传数据分析"
+  },
+  {
+   "cn": "全基因组关联分析",
+   "en": "genome-wide association study,GWAS",
+   "code": "12.0127",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机交叉学科_生物信息学"
+  },
+  {
+   "cn": "全基因组关联分析",
+   "en": "genome-wide association study; GWAS",
+   "code": "06.458",
+   "standard": "农学名词",
+   "subject": "作物基因组学与遗传育种_组学育种"
+  },
+  {
+   "cn": "全基因组关联分析",
+   "en": "genome-wide association study;GWAS",
+   "code": "11.0632",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_方法与技术_测序技术_层析技术"
+  },
+  {
+   "cn": "全基因组关联分析",
+   "en": "genome wide association study;GWAS",
+   "code": "8.026",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "表观全基因组关联分析",
+   "en": "epi genome-wide association study; epiGWAS",
+   "code": "15.319",
+   "standard": "农学名词",
+   "subject": "农业生物技术_生物大数据和人工智能"
+  },
+  {
+   "cn": "全转录物组关联分析",
+   "en": "transcriptome-wide association study",
+   "code": "06.459",
+   "standard": "农学名词",
+   "subject": "作物基因组学与遗传育种_组学育种"
+  },
+  {
+   "cn": "全蛋白质组关联分析",
+   "en": "proteome-wide association study",
+   "code": "06.460",
+   "standard": "农学名词",
+   "subject": "作物基因组学与遗传育种_组学育种"
+  },
+  {
+   "cn": "代谢组关联分析",
+   "en": "metabolome-wide association study; MWAS",
+   "code": "15.318",
+   "standard": "农学名词",
+   "subject": "农业生物技术_生物大数据和人工智能"
+  },
+  {
+   "cn": "关联分析",
+   "en": "association study",
+   "code": "04.462",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_遗传育种_分子数量遗传学"
+  },
+  {
+   "cn": "全基因组选择育种",
+   "en": "genome-wide selection breeding",
+   "code": "15.098",
+   "standard": "农学名词",
+   "subject": "农业生物技术_基因工程"
+  },
+  {
+   "cn": "基因组",
+   "en": "genome",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "基因组",
+   "en": "genome",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "基因组",
+   "en": "genome",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "基因组",
+   "en": "genome",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "基因组",
+   "en": "genome",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "基因组",
+   "en": "genome",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "基因组",
+   "en": "genome",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "基因组",
+   "en": "genome",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "基因组",
+   "en": "genome",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "基因组学",
+   "en": "genomics",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "基因组学",
+   "en": "genomics",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "基因组学",
+   "en": "genomics",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "宽握",
+   "en": "wide grip",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_举重名词"
+  },
+  {
+   "cn": "疼痛",
+   "en": "International Association for the Study of Pain",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "基因组编辑",
+   "en": "genome editing",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "基因组岛",
+   "en": "Genomic island",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "双生子研究",
+   "en": "twin study",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "格",
+   "en": "Examine / Study",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "队列研究",
+   "en": "cohort study",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "技术战略",
+   "en": "Strategic studies",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "核心竞争力",
+   "en": "Strategic studies",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "建筑学",
+   "en": "Architectural studies",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "传播学",
+   "en": "Communication studies",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "竞争优势",
+   "en": "Strategic studies",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "基因组学",
+   "en": "genomics",
+   "code": "4.1.5.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射生物效应及其机制"
+  },
+  {
+   "cn": "结社",
+   "en": "association",
+   "code": "1.0281",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "关联",
+   "en": "association",
+   "code": "1.2.5.69",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "协会",
+   "en": "association",
+   "code": "2.5.8.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_群体和组织_社团组织"
+  },
+  {
+   "cn": "基因组编辑",
+   "en": "genome editing",
+   "code": "9.1.4.1.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_生物武器医学防护学_生物武器"
+  },
+  {
+   "cn": "基因组工程",
+   "en": "genome engineering",
+   "code": "9.1.4.1.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_生物武器医学防护学_生物武器"
+  },
+  {
+   "cn": "基因组突变",
+   "en": "genomic mutation",
+   "code": "16.1.5.3.4",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事毒理学_军事毒理学基础"
+  },
+  {
+   "cn": "队列研究",
+   "en": "cohort study",
+   "code": "4.4.1.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计"
+  },
+  {
+   "cn": "个案研究",
+   "en": "case study",
+   "code": "1.2.1.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_方法论"
+  },
+  {
+   "cn": "跨文化研究",
+   "en": "crosscultural study",
+   "code": "4.2.7.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_人类学方法"
+  },
+  {
+   "cn": "案例分析",
+   "en": "case study",
+   "code": "5.2.2.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法"
+  },
+  {
+   "cn": "学习指导",
+   "en": "study guidance",
+   "code": "6.4.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "学校心理健康促进"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,306 @@
+{
+ "key": "dimension",
+ "term": "dimension",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T22:58:26+00:00",
+ "status": "ok",
+ "note": "variant=dimension; 审定公布名词库=589; 海峡两岸名词对照库=133; 其他来源数据库=7; 预公布名词数据库=11; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "尺寸",
+   "en": "dimension",
+   "code": "03.0193",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械设计与制图_机械制图_二维制图"
+  },
+  {
+   "cn": "维[度]",
+   "en": "dimension",
+   "code": "01.0314",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "量纲",
+   "en": "dimension",
+   "code": "01.0313",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "维度",
+   "en": "dimension",
+   "code": "03.0570",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学设备与操作_图像分析技术"
+  },
+  {
+   "cn": "维",
+   "en": "dimension",
+   "code": "03.0358",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_决策支持系统"
+  },
+  {
+   "cn": "尺寸",
+   "en": "dimension",
+   "code": "09.0119",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑设计_建筑表现与识图"
+  },
+  {
+   "cn": "维[数]",
+   "en": "dimension",
+   "code": "08.0585",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_一般拓扑学"
+  },
+  {
+   "cn": "尺度传感器",
+   "en": "dimension transducer,dimension sensor",
+   "code": "06.0076",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械测量与控制_机械传感器"
+  },
+  {
+   "cn": "时间维度",
+   "en": "time dimension,temporal dimension",
+   "code": "01.0030",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "尺寸方案",
+   "en": "dimension plan",
+   "code": "07.0713",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械零件_滚动轴承_滚动轴承尺寸"
+  },
+  {
+   "cn": "尺寸系列",
+   "en": "dimension series",
+   "code": "07.0715",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械零件_滚动轴承_滚动轴承尺寸"
+  },
+  {
+   "cn": "尺寸链",
+   "en": "dimension chain",
+   "code": "03.0293",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械设计与制图_机械制图_公差、偏差与配合"
+  },
+  {
+   "cn": "维[数]",
+   "en": "dimension",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "因次，量纲",
+   "en": "dimension",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "量纲",
+   "en": "dimension",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "因次",
+   "en": "dimension",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "维度",
+   "en": "dimension",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "维",
+   "en": "dimension",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "石材",
+   "en": "dimension stone",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "尺度风格",
+   "en": "dimension style",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "尺度要素",
+   "en": "dimension feature",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "尺寸驱动的",
+   "en": "dimension-driven",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "尺度传感器",
+   "en": "dimension transducer",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "降维",
+   "en": "dimension reduction",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "场景维度",
+   "en": "scenario dimension",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "三维",
+   "en": "three dimensions",
+   "code": null,
+   "standard": "外语中文译写规范部际联席会议专家委员会",
+   "subject": "其他"
+  },
+  {
+   "cn": "四维",
+   "en": "four dimensions",
+   "code": null,
+   "standard": "外语中文译写规范部际联席会议专家委员会",
+   "subject": "其他"
+  },
+  {
+   "cn": "高维统计",
+   "en": "high-dimensional statistics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "全维空间",
+   "en": "full-dimensional space",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "三维集成电路",
+   "en": "three dimensional integrated circuits",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "三维散点图",
+   "en": "three-dimensional scatter plot",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "维度",
+   "en": "dimension",
+   "code": "1.2.4.50",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据收集"
+  },
+  {
+   "cn": "规格板",
+   "en": "dimension board",
+   "code": "6.2.5.5",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_消毒学试验"
+  },
+  {
+   "cn": "多元分层",
+   "en": "multi-dimension stratification",
+   "code": "2.6.1.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_社会分层"
+  },
+  {
+   "cn": "六维健康调查简表",
+   "en": "short form-6 dimension,SF-6D",
+   "code": "12.1.6.1.4.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生经济学评价_卫生经济学评价"
+  },
+  {
+   "cn": "生长发育评价维度",
+   "en": "dimension of growth and development appraisal",
+   "code": "2.7.2.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_生长发育调查与评价"
+  },
+  {
+   "cn": "课桌椅功能尺寸",
+   "en": "functional dimension of desk and chair",
+   "code": "9.4.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校环境与教学设备卫生_课桌椅卫生"
+  },
+  {
+   "cn": "欧洲五维健康量表",
+   "en": "EuroQol five dimensions questionnaire,EQ-5D",
+   "code": "12.1.6.1.4.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生经济学评价_卫生经济学评价"
+  },
+  {
+   "cn": "欧洲生存质量测定量表",
+   "en": "the EuroQoL five-dimension questionnaire, EQ-5D",
+   "code": "5.4.2.4",
+   "standard": "社会医学名词",
+   "subject": "生命质量"
+  },
+  {
+   "cn": "引水节",
+   "en": "Water Diversion Festival",
+   "code": "4.0192",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "核材料转用",
+   "en": "diversion of nuclear material",
+   "code": "6.6.7.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_核工业的放射防护"
+  },
+  {
+   "cn": "三维适形放射治疗",
+   "en": "three-dimensional conformal radiotherapy，3D-CRT",
+   "code": "6.4.4.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_放射治疗"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

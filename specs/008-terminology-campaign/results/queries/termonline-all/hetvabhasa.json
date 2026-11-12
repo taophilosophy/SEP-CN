@@ -1,0 +1,47 @@
+{
+ "key": "hetvabhasa",
+ "term": "hetvābhāsa",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T22:58:28+00:00",
+ "status": "ok",
+ "note": "variant=hetvābhāsa; 审定公布名词库=2; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "抗Sa抗体",
+   "en": "anti-Sa antibody",
+   "code": "2.329",
+   "standard": "免疫学名词",
+   "subject": "免疫学_免疫系统_免疫分子"
+  },
+  {
+   "cn": "BH结构域",
+   "en": "Bcl-2 homology domain;BH domain",
+   "code": "8.025",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体"
+  },
+  {
+   "cn": "抗Sa抗体",
+   "en": "anti-Sa antibody",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "Sa型星系",
+   "en": "Sa galaxy",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "抗Sa抗体",
+   "en": "anti-Sa antibody",
+   "code": "1.5.3.27",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

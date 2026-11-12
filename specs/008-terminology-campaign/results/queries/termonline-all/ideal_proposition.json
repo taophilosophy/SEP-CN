@@ -1,0 +1,348 @@
+{
+ "key": "ideal proposition",
+ "term": "ideal proposition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T22:58:28+00:00",
+ "status": "ok",
+ "note": "variant=ideal proposition; 审定公布名词库=357; 海峡两岸名词对照库=82; 其他来源数据库=14; 预公布名词数据库=48; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "命题",
+   "en": "proposition",
+   "code": "01.0014",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "全称命题",
+   "en": "universal proposition",
+   "code": "03.075",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_意义标准"
+  },
+  {
+   "cn": "命题语料库",
+   "en": "proposition bank",
+   "code": "08.0499",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_计算语言学"
+  },
+  {
+   "cn": "直言命题",
+   "en": "categorical proposition",
+   "code": "08.0119",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_自动推理"
+  },
+  {
+   "cn": "价值主张",
+   "en": "value proposition",
+   "code": "08.0294",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_市场营销_营销战略"
+  },
+  {
+   "cn": "米勒–莫迪利安尼定理",
+   "en": "MillerModigliani proposition",
+   "code": "06.0558",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_会计_公司财务"
+  },
+  {
+   "cn": "命题演算",
+   "en": "proposition calculus",
+   "code": "11.097",
+   "standard": "语言学名词",
+   "subject": "语言学_计算语言学_形式化方法"
+  },
+  {
+   "cn": "逆命题",
+   "en": "converse proposition",
+   "code": "01.0016",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "否命题",
+   "en": "negative proposition",
+   "code": "01.0015",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "命题态度",
+   "en": "propositional attitudes",
+   "code": "03.520",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学"
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "code": "02.0937",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_程序理论"
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "code": "02.540",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "归纳命题",
+   "en": "inductive proposition",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "命题逻辑",
+   "en": "propositional logic",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "理想化",
+   "en": "idealization",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "理想板",
+   "en": "ideal plate\",\"ideal tray",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "理想品种",
+   "en": "ideal variety",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "理想流体",
+   "en": "ideal fluid",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "理想气候",
+   "en": "ideal climate",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "理想循环",
+   "en": "ideal cycle",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "理想流动",
+   "en": "ideal flow",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "理想混合物",
+   "en": "ideal mixture",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "命题",
+   "en": "proposition",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "单环",
+   "en": "Zero ideal",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "主理想整环",
+   "en": "principal ideal domain",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "应然数权",
+   "en": "ideal data rights",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "理想跑动线路",
+   "en": "ideal line of running",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "君子固穷",
+   "en": "A Man of Virtue Maintains His Ideals even in Frustrations.&nbsp;",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "意不称物，文不逮意",
+   "en": "Ideas Cannot Match Actual Things and Words Cannot Fully Express Ideas.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "文以载道",
+   "en": "Literature Is the Vehicle of Ideas.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "《产业战略：人工智能领域行动》（英国）",
+   "en": "Industrial Strategy: Artificial Intelligence Sector Deal (UK)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "三不朽",
+   "en": "Set Moral Examples, Perform Great Deeds, and Spread Noble Ideas",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "道不欲杂",
+   "en": "The Fundamental Principle Should Not Be a Mixture of Ideas.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "夺胎换骨",
+   "en": "Express the Ideas in Earlier&nbsp;Literary Works in a New Way",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "唯心主义",
+   "en": "idealism",
+   "code": "01.0004",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "道德理想",
+   "en": "moral ideal",
+   "code": "1.02",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "职业理想",
+   "en": "professional ideal",
+   "code": "1.045",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "思辨唯心主义",
+   "en": "speculative idealism",
+   "code": "01.0104",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "客观唯心主义",
+   "en": "objective idealism",
+   "code": "01.0199",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  },
+  {
+   "cn": "共产主义理想",
+   "en": "ideal of the communism",
+   "code": "03.0020",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "共产主义理想信念",
+   "en": "communist ideals and beliefs",
+   "code": "03.0553",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "党的最高理想",
+   "en": "highest ideal of the Party",
+   "code": "03.0717",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "中国特色社会主义共同理想",
+   "en": "common ideal of socialism with chinese characteristics",
+   "code": "03.0698",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "发展两岸关系促进祖国和平统一的八项主张",
+   "en": "eight propositions on the developing the crossstrait relations and promoting the peaceful reunification of the motherland",
+   "code": "04.0189",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期"
+  },
+  {
+   "cn": "观念",
+   "en": "idea",
+   "code": "01.0016",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "共付比",
+   "en": "co-pay proportion",
+   "code": "11.4.4",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_健康保险_健康保险费用分担机制"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

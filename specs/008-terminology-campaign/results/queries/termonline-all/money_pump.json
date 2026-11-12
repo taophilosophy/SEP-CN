@@ -1,0 +1,348 @@
+{
+ "key": "money-pump",
+ "term": "money-pump",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T23:38:55+00:00",
+ "status": "ok",
+ "note": "variant=money-pump; 审定公布名词库=2057; 海峡两岸名词对照库=566; 其他来源数据库=73; 预公布名词数据库=36; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "货币",
+   "en": "money",
+   "code": "01.014",
+   "standard": "经济学名词",
+   "subject": "经济学_总论"
+  },
+  {
+   "cn": "货币",
+   "en": "money",
+   "code": "07.0027",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_金融工程_基本概念"
+  },
+  {
+   "cn": "砖茶货币",
+   "en": "tea money ",
+   "code": "8.0103",
+   "standard": "草学名词",
+   "subject": "草学_草原文化"
+  },
+  {
+   "cn": "牲畜货币",
+   "en": "livestock money ",
+   "code": "8.0104",
+   "standard": "草学名词",
+   "subject": "草学_草原文化"
+  },
+  {
+   "cn": "世界货币",
+   "en": "universal money",
+   "code": "02.048",
+   "standard": "经济学名词",
+   "subject": "经济学_政治经济学"
+  },
+  {
+   "cn": "外生货币",
+   "en": "exogenous money",
+   "code": "04.046",
+   "standard": "经济学名词",
+   "subject": "经济学_宏观经济学"
+  },
+  {
+   "cn": "法定货币",
+   "en": "fiat money",
+   "code": "04.048",
+   "standard": "经济学名词",
+   "subject": "经济学_宏观经济学"
+  },
+  {
+   "cn": "银根紧缩",
+   "en": "tight money",
+   "code": "09.033",
+   "standard": "经济学名词",
+   "subject": "经济学_公共部门经济学"
+  },
+  {
+   "cn": "基础货币",
+   "en": "base money",
+   "code": "12.003",
+   "standard": "经济学名词",
+   "subject": "经济学_货币理论与货币政策"
+  },
+  {
+   "cn": "货币流通",
+   "en": "money circulation",
+   "code": "12.004",
+   "standard": "经济学名词",
+   "subject": "经济学_货币理论与货币政策"
+  },
+  {
+   "cn": "货币供应量",
+   "en": "money supply",
+   "code": "12.013",
+   "standard": "经济学名词",
+   "subject": "经济学_货币理论与货币政策"
+  },
+  {
+   "cn": "货币需求",
+   "en": "money demand",
+   "code": "12.014",
+   "standard": "经济学名词",
+   "subject": "经济学_货币理论与货币政策"
+  },
+  {
+   "cn": "保证金",
+   "en": "security money",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "保证金",
+   "en": "warrant money",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "本国货币",
+   "en": "home money",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "标准货币",
+   "en": "standard money",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "补偿金",
+   "en": "compensation money",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "不兑现纸币",
+   "en": "fiat money",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "次级货币",
+   "en": "secondary money",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "代表货币",
+   "en": "representative money",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "代用货币",
+   "en": "substitute money",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "低息贷款",
+   "en": "cheap money",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "低息资金",
+   "en": "easy money",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "抵押资金",
+   "en": "mortgage money",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "货币市场",
+   "en": "Money Market",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "广义货币供应量",
+   "en": "Broad Money",
+   "code": null,
+   "standard": "外语中文译写规范部际联席会议专家委员会",
+   "subject": "其他"
+  },
+  {
+   "cn": "狭义货币供应量",
+   "en": "Money Supply",
+   "code": null,
+   "standard": "外语中文译写规范部际联席会议专家委员会",
+   "subject": "其他"
+  },
+  {
+   "cn": "信用货币",
+   "en": "credit money",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "可编程货币",
+   "en": "programmable money",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "气筒",
+   "en": "pump",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "反洗钱",
+   "en": "anti-money laundering",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "网络洗钱",
+   "en": "online money laundering",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "齿轮泵",
+   "en": "gear pump, gear pumps, gear wheel pump",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "喷水推进器",
+   "en": "Pump-jet",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "离心泵",
+   "en": "centrifugal pump",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "计量泵",
+   "en": "metering pump",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "货币",
+   "en": "money",
+   "code": "02.0068",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "纸币",
+   "en": "paper money",
+   "code": "02.0078",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "世界货币",
+   "en": "universal money",
+   "code": "02.0086",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "货币工资",
+   "en": "money wage",
+   "code": "02.0149",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "货币资本",
+   "en": "money capital",
+   "code": "02.0183",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "货币经济",
+   "en": "money economy",
+   "code": "02.0184",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "货币地租",
+   "en": "money rent",
+   "code": "02.0276",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "货币拜物教",
+   "en": "money fetishism",
+   "code": "04.0008",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_马克思恩格斯时期"
+  },
+  {
+   "cn": "主币与辅币",
+   "en": "standard money and subsidiary money",
+   "code": "02.0079",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "货币社会学",
+   "en": "sociology of money",
+   "code": "3.5.3.59",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_经济社会学_新经济社会学"
+  },
+  {
+   "cn": "计算货币",
+   "en": "money of account",
+   "code": "02.0072",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "货币的社会意义",
+   "en": "social meaning of money",
+   "code": "3.5.3.39",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_经济社会学_新经济社会学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

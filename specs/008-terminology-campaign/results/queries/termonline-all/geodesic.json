@@ -1,0 +1,215 @@
+{
+ "key": "geodesic",
+ "term": "geodesic",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T22:58:28+00:00",
+ "status": "ok",
+ "note": "variant=geodesic; 审定公布名词库=107; 海峡两岸名词对照库=101; 其他来源数据库=5; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "大地线",
+   "en": "geodesic",
+   "code": "02.331",
+   "standard": "测绘学名词",
+   "subject": "测绘学_大地测量学与导航定位"
+  },
+  {
+   "cn": "测地线",
+   "en": "geodesic",
+   "code": "08.015",
+   "standard": "船舶工程名词",
+   "subject": "船舶工程_船舶通信导航"
+  },
+  {
+   "cn": "测地线",
+   "en": "geodesic",
+   "code": "04.0008",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_电子航海"
+  },
+  {
+   "cn": "测地线",
+   "en": "geodesic",
+   "code": "08.0995",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_微分几何学"
+  },
+  {
+   "cn": "测地线",
+   "en": "geodesic line,geodesics",
+   "code": "06.0286",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_相对论"
+  },
+  {
+   "cn": "测地完备性",
+   "en": "geodesic completeness",
+   "code": "06.0282",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_相对论"
+  },
+  {
+   "cn": "测地距离",
+   "en": "geodesic distance",
+   "code": "08.0297",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_机器学习"
+  },
+  {
+   "cn": "短程线穹顶",
+   "en": "geodesic dome",
+   "code": "05.055",
+   "standard": "土木工程名词",
+   "subject": "土木工程_建筑结构_空间结构"
+  },
+  {
+   "cn": "测地曲率",
+   "en": "geodesic curvature",
+   "code": "08.0991",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_微分几何学"
+  },
+  {
+   "cn": "测地坐标",
+   "en": "geodesic coordinates",
+   "code": "08.0997",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_微分几何学"
+  },
+  {
+   "cn": "测地流",
+   "en": "geodesic flow",
+   "code": "08.1048",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_微分几何学"
+  },
+  {
+   "cn": "测地线环路",
+   "en": "geodesic loop",
+   "code": "08.1075",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_微分几何学"
+  },
+  {
+   "cn": "测地线",
+   "en": "geodesic",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "大地线",
+   "en": "geodesic",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "测地线",
+   "en": "geodesic",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "测地坐标",
+   "en": "geodesic coordinates",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "短程透镜天线",
+   "en": "geodesic lens antenna",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "测地岁差",
+   "en": "geodetic precession\",\"geodesic precession",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "测地章动",
+   "en": "geodetic nutation\",\"geodesic nutation",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "大地线微分方程",
+   "en": "differential equation of geodesic",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "晶洞，晶腺",
+   "en": "geode",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "截面差改正",
+   "en": "correction from normal section to  geodesic",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "大地测量学",
+   "en": "geodesy",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "大地测量学",
+   "en": "geodesy",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "测地线",
+   "en": "geodesic",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "大地测量学",
+   "en": "Satellite geodesy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "物理大地测量学",
+   "en": "Physical geodesy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "空间大地测量学",
+   "en": "Space geodesy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "2000国家大地坐标系",
+   "en": "China Geodetic Coordinate System 2000",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,348 @@
+{
+ "key": "molecular genetics",
+ "term": "molecular genetics",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T23:38:55+00:00",
+ "status": "ok",
+ "note": "variant=molecular genetics; 审定公布名词库=1419; 海峡两岸名词对照库=655; 其他来源数据库=31; 预公布名词数据库=32; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "分子遗传学",
+   "en": "molecular genetics",
+   "code": "1.0017",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_总论"
+  },
+  {
+   "cn": "分子遗传学",
+   "en": "molecular genetics",
+   "code": "3.164",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为的生物学基础_遗传学基础_遗传学"
+  },
+  {
+   "cn": "分子遗传学",
+   "en": "molecular genetics",
+   "code": "1.01",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "分子遗传学",
+   "en": "molecular genetics",
+   "code": "01.015",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_总论"
+  },
+  {
+   "cn": "分子遗传学",
+   "en": "molecular genetics",
+   "code": "01.008",
+   "standard": "遗传学名词",
+   "subject": "遗传学_总论"
+  },
+  {
+   "cn": "分子遗传学",
+   "en": "molecular genetics",
+   "code": "05.239",
+   "standard": "水产名词",
+   "subject": "水产_水产生物育种学"
+  },
+  {
+   "cn": "分子遗传学",
+   "en": "molecular genetics",
+   "code": "01.008",
+   "standard": "医学名词 第三分册",
+   "subject": "医学_医学遗传学"
+  },
+  {
+   "cn": "医学分子遗传学",
+   "en": "medical molecular genetics",
+   "code": "1.011",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "分子遗传学检测技术",
+   "en": "molecular genetics detection technology",
+   "code": "10.229",
+   "standard": "生殖医学名词",
+   "subject": "生殖医学_生殖遗传"
+  },
+  {
+   "cn": "林木分子遗传学",
+   "en": "forest tree molecular genetics",
+   "code": "04.004",
+   "standard": "林学名词",
+   "subject": "林学_林木遗传育种_林木遗传"
+  },
+  {
+   "cn": "遗传学",
+   "en": "genetics",
+   "code": "3.146",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为的生物学基础_遗传学基础_遗传学"
+  },
+  {
+   "cn": "遗传学",
+   "en": "genetics",
+   "code": "1.001",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "分子遗传学",
+   "en": "molecular genetics",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "分子遗传学",
+   "en": "molecular genetics",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  },
+  {
+   "cn": "分子遗传学",
+   "en": "molecular genetics",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "分子遗传学",
+   "en": "molecular genetics",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "遗传学",
+   "en": "genetics",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "基株",
+   "en": "genet",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "基株",
+   "en": "genet",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "反应分子数",
+   "en": "molecularity",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "反应分子数",
+   "en": "molecularity",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "反求遗传学,替代遗传学",
+   "en": "reverse genetics\",\"surrogate genetics",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "法医遗传学,法医物证学",
+   "en": "medicolegal genetics\",\"forensic genetics",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "遗传互补（=遗传拯救）",
+   "en": "genetic complementation (=genetic rescue)",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "遗传学",
+   "en": "Classical genetics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "植物遗传学",
+   "en": "Plant Genetics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "遗传算法",
+   "en": "Genetic Algorithm",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "基因污染",
+   "en": "Genetic pollution",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "遗传算法",
+   "en": "genetic algorithm",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "遗传标记",
+   "en": "genetic marker",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "基因结构",
+   "en": "genetic structure",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "医学词汇_医疗科研"
+  },
+  {
+   "cn": "基因序列",
+   "en": "genetic sequence",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "医学词汇_医疗科研"
+  },
+  {
+   "cn": "分子克隆",
+   "en": "Molecular cloning",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "分子标记",
+   "en": "Molecular marker",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "分子生物学",
+   "en": "molecular biology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "分子式",
+   "en": "Molecular graph",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "分子遗传学方法",
+   "en": "molecular genetic methods.",
+   "code": "2.1.1.67",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品生物性危害因素"
+  },
+  {
+   "cn": "遗传效应",
+   "en": "genetic effect",
+   "code": "4.1.1.1.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词"
+  },
+  {
+   "cn": "遗传影响",
+   "en": "genetic influence",
+   "code": "2.8.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_生长发育影响因素"
+  },
+  {
+   "cn": "遗传咨询",
+   "en": "genetic counseling",
+   "code": "3.3.1.3.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_围婚期保健"
+  },
+  {
+   "cn": "遗传效应",
+   "en": "genetic effect",
+   "code": "8.8.11",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_核武器医学防护学_辐射防护基础"
+  },
+  {
+   "cn": "分子生物学",
+   "en": "molecular biology",
+   "code": "1.5.1.1",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法"
+  },
+  {
+   "cn": "分子蒸馏",
+   "en": "molecular distillation",
+   "code": "6.3.3.8",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品添加剂_食品用香精香料"
+  },
+  {
+   "cn": "家族性遗传影响",
+   "en": "familial genetic influence",
+   "code": "2.8.1.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_生长发育影响因素"
+  },
+  {
+   "cn": "种族性遗传影响",
+   "en": "racial genetic influence",
+   "code": "2.8.1.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_生长发育影响因素"
+  },
+  {
+   "cn": "生活方式-遗传失配",
+   "en": "lifestyle - genetic mismatch",
+   "code": "1.6.1.5",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论"
+  },
+  {
+   "cn": "胚胎植入前遗传学检测",
+   "en": "preimplantation genetic screening",
+   "code": "5.7.2.3",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_生育调节_辅助生殖技术"
+  },
+  {
+   "cn": "分子放射生物学",
+   "en": "molecular radiation biology",
+   "code": "4.1.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射生物效应及其机制"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,110 @@
+{
+ "key": "oblateness",
+ "term": "oblateness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T23:55:25+00:00",
+ "status": "ok",
+ "note": "variant=oblateness; 审定公布名词库=5; 海峡两岸名词对照库=9; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "扁率",
+   "en": "oblateness,flattening",
+   "code": "01.0335",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_数学"
+  },
+  {
+   "cn": "太阳扁率",
+   "en": "solar oblateness",
+   "code": "09.010",
+   "standard": "天文学名词",
+   "subject": "天文学_太阳"
+  },
+  {
+   "cn": "地球扁率",
+   "en": "earth oblateness",
+   "code": "02.082",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天运载器"
+  },
+  {
+   "cn": "扁椭球",
+   "en": "oblate spheroid",
+   "code": "01.0333",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_数学"
+  },
+  {
+   "cn": "扁管冷却器",
+   "en": "oblate tube cooler",
+   "code": "06.414",
+   "standard": "船舶工程名词",
+   "subject": "船舶工程_船舶机械"
+  },
+  {
+   "cn": "扁椭球",
+   "en": "oblate spheroid\",\"oblate ellipsoid",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "扁率",
+   "en": "oblateness\",\"flattening",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "扁率",
+   "en": "oblateness\",\"flattening",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "力学扁率",
+   "en": "dynamical oblateness",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "太阳扁率",
+   "en": "solar oblateness",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "扁球体",
+   "en": "oblate spheroid",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "扁椭圆体",
+   "en": "oblate ellipsoid",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "扁椭球",
+   "en": "oblate ellipsoid",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "旋转椭球体",
+   "en": "ellipsoid of rotation\",\"oblate  ellipsoid of rotation",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

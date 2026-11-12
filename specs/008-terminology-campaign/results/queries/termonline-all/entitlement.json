@@ -1,0 +1,61 @@
+{
+ "key": "entitlement",
+ "term": "entitlement",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-11T22:58:26+00:00",
+ "status": "ok",
+ "note": "variant=entitlement; 审定公布名词库=3; 海峡两岸名词对照库=3; 其他来源数据库=1; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "受资助城市",
+   "en": "entitlement city",
+   "code": "19.228",
+   "standard": "地理学名词",
+   "subject": "地理学_城市地理学"
+  },
+  {
+   "cn": "欠田",
+   "en": "qian tian;land that is entitled to a person but not yet distributed",
+   "code": "5.174",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_隋唐五代_社会经济_田土租赋"
+  },
+  {
+   "cn": "反[物质]元素",
+   "en": "antielement",
+   "code": "09.1053",
+   "standard": "物理学名词",
+   "subject": "物理学_原子核物理学、粒子物理学_粒子物理学"
+  },
+  {
+   "cn": "受资助城市",
+   "en": "entitlement city",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "权利管理信息",
+   "en": "entitlement management message",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "权利控制信息",
+   "en": "entitlement control message",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "《GB/T 36329-2018 信息技术 软件资产管理 授权管理》",
+   "en": "GB/T 36329-2018 Information technology — Software asset management — Entitlement management",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
