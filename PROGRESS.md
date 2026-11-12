@@ -2,11 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-<<<<<<< HEAD
-生成时间：2026-11-11 23:39（UTC）
-=======
-生成时间：2026-11-12 01:55（UTC）
->>>>>>> 48694d6ba (change 评审线收口 done：r3 五维全等，四检绿，mu-lu-s 标题随 SUMMARY 同步（分类目录门禁复绿）)
+生成时间：2026-11-12 02:12（UTC）
 
 ## 总览
 
@@ -18,54 +14,35 @@
 |已建英文基线|1879|
 |已建任务|1183|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|355|
-<<<<<<< HEAD
-|在途（drafted 起、done 前）|187|
-=======
-|在途（drafted 起、done 前）|182|
->>>>>>> 48694d6ba (change 评审线收口 done：r3 五维全等，四检绿，mu-lu-s 标题随 SUMMARY 同步（分类目录门禁复绿）)
+|已完成（done）|360|
+|在途（drafted 起、done 前）|184|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-<<<<<<< HEAD
-|pending|641|
-|cleared|139|
-|drafted|2|
-|s1_checked|1|
-|s3_checked|44|
-|r1_reviewed|1|
-=======
-|pending|646|
-|cleared|136|
+|pending|639|
+|cleared|137|
 |drafted|1|
 |s1_checked|1|
-|s2_checked|1|
 |s3_checked|43|
->>>>>>> 48694d6ba (change 评审线收口 done：r3 五维全等，四检绿，mu-lu-s 标题随 SUMMARY 同步（分类目录门禁复绿）)
-|done|355|
+|r1_reviewed|2|
+|done|360|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
-<<<<<<< HEAD
-|A|160|160|160|58|
-|B|62|62|62|16|
-|C|172|172|172|24|
-=======
-|A|160|160|160|57|
+|A|160|160|160|59|
 |B|62|62|62|17|
 |C|172|172|172|25|
->>>>>>> 48694d6ba (change 评审线收口 done：r3 五维全等，四检绿，mu-lu-s 标题随 SUMMARY 同步（分类目录门禁复绿）)
-|D|92|92|92|21|
+|D|92|92|92|22|
 |E|99|99|99|26|
 |F|96|96|96|5|
 |G|49|49|49|14|
 |H|61|61|61|17|
-|I|75|75|75|31|
+|I|75|75|75|32|
 |J|38|38|38|9|
 |K|36|36|36|21|
 |L|144|144|30|30|
@@ -103,11 +80,8 @@
 |al-farabi-soc-rel|retranslate|cleared|task_ops 2026-10-31|
 |al-ghazali|retranslate|cleared|task_ops 2026-10-31|
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
-<<<<<<< HEAD
-|alexander|retranslate|s3_checked|A-main-20261112 2026-11-11|
-|aristotle-noncontradiction|retranslate|cleared|task_ops 2026-11-11|
-=======
->>>>>>> 48694d6ba (change 评审线收口 done：r3 五维全等，四检绿，mu-lu-s 标题随 SUMMARY 同步（分类目录门禁复绿）)
+|algebra-logic-tradition|retranslate|cleared|task_ops 2026-11-12|
+|aristotle-noncontradiction|retranslate|s3_checked|A-main-20261112 2026-11-12|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
 |beardsley-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |beauty|retranslate|cleared|task_ops 2026-11-01|
@@ -164,12 +138,11 @@
 |cosmology-30s|retranslate|s3_checked|C-main-20261109 2026-11-09|
 |cosmopolitanism|retranslate|s3_checked|C-main-20261109b 2026-11-09|
 |davidson|retranslate|s3_checked|D-main-20261110 2026-11-09|
-|deductivism-mathematics|retranslate|s3_checked|D-main-20261107 2026-11-07|
 |demonstration-medieval|retranslate|s3_checked|sub-demonstration-medieval 2026-11-01|
 |diodorus-cronus|retranslate|s3_checked|D-main-20261107 2026-11-07|
 |disability|retranslate|s3_checked|D-main-20261109 2026-11-09|
 |disability-care-rationing|retranslate|s3_checked|D-main-20261108 2026-11-08|
-|existentialism-mexican|retranslate|cleared|task_ops 2026-11-11|
+|existentialism-mexican|retranslate|s3_checked|E-main-20261112 2026-11-12|
 |fitness|retranslate|cleared|task_ops 2026-11-11|
 |gadamer-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |galen|retranslate|cleared|task_ops 2026-11-01|
@@ -206,10 +179,10 @@
 |hume-freewill|retranslate|cleared|task_ops 2026-11-01|
 |hume-moral|retranslate|cleared|task_ops 2026-11-01|
 |humor|retranslate|cleared|task_ops 2026-11-01|
-|imaginative-resistance|retranslate|cleared|task_ops 2026-11-01|
 |immunology|retranslate|cleared|task_ops 2026-11-01|
 |impossible-worlds|retranslate|cleared|task_ops 2026-11-01|
 |information-biological|retranslate|cleared|task_ops 2026-11-01|
+|intention|retranslate|cleared|task_ops 2026-11-12|
 |intrinsic-extrinsic|retranslate|cleared|task_ops 2026-11-01|
 |jaina-philosophy|retranslate|cleared|task_ops 2026-11-10|
 |james-mill|retranslate|cleared|task_ops 2026-11-10|
@@ -262,13 +235,9 @@
 |montessori-maria|retranslate|s3_checked|M-main-20261111 2026-11-10|
 |moral-learning|retranslate|s3_checked|M-main-20261109b 2026-11-09|
 |music|retranslate|s3_checked|M-main-20261109b 2026-11-09|
-|newton-stm|retranslate|cleared|task_ops 2026-11-11|
+|newton-stm|retranslate|s3_checked|N-main-20261112 2026-11-12|
 |omnipotence|retranslate|cleared|task_ops 2026-11-10|
-<<<<<<< HEAD
-|quantum-bayesian|retranslate|s3_checked|Q-main-20261112 2026-11-11|
-=======
-|quantum-bayesian|retranslate|s2_checked|Q-main-20261112 2026-11-11|
->>>>>>> 48694d6ba (change 评审线收口 done：r3 五维全等，四检绿，mu-lu-s 标题随 SUMMARY 同步（分类目录门禁复绿）)
+|quantum-bayesian|retranslate|r1_reviewed|Q-main-20261112 2026-11-12|
 |repugnant-conclusion|retranslate|s1_checked|R-main-20261111 2026-11-11|
 |sign-language-semantics|retranslate|cleared|task_ops 2026-11-10|
 |tarski-truth|retranslate|cleared|task_ops 2026-11-08|
