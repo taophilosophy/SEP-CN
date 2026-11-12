@@ -30,7 +30,7 @@
       "status": "ok",
       "actor": "主代理",
       "at": "2026-11-01T08:56:10Z",
-      "evidence": "自校二：check_academic --strict 0 硬错误，引用键解析完整"
+      "evidence": "自校二：check_academic --strict 0 硬错误，引用键解析完整；语体：现代汉语学术书面语，无成段仿古或文言腔（ADR-0033 补记 2026-11-12，E 批会话代核 c/concept-emotion-india.md：粗筛 焉/矣/乎 6 处、者也 0 处，抽查均为常用词或引文）"
     },
     {
       "step": "s3",
