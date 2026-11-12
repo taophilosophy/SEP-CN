@@ -2,10 +2,347 @@
  "key": "objective probability",
  "term": "objective probability",
  "provider": "termonline-all",
- "queried_at": "2026-11-11T23:55:25+00:00",
- "status": "error",
- "note": "variant=objective probability; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "objective probability: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T04:30:19+00:00",
+ "status": "ok",
+ "note": "variant=objective probability; 审定公布名词库=976; 海峡两岸名词对照库=350; 其他来源数据库=48; 预公布名词数据库=58; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "客观概率",
+   "en": "objective probability",
+   "code": "02.0191",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_决策理论与方法"
+  },
+  {
+   "cn": "主观/客观概率",
+   "en": "subjective/objective probability",
+   "code": "03.316",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "code": "04.0675",
+   "standard": "冶金学名词",
+   "subject": "冶金学_冶金物理化学_计算冶金物理化学"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "code": "05.133",
+   "standard": "肠外肠内营养学名词",
+   "subject": "肠外肠内营养学_基础研究与临床研究_临床研究"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "code": "05.0522",
+   "standard": "物理学名词",
+   "subject": "物理学_热学、统计物理学_统计物理学"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "code": "03.0127",
+   "standard": "化学名词",
+   "subject": "化学_分析化学_化学计量学"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "code": "07.243",
+   "standard": "大气科学名词",
+   "subject": "大气科学_气候学"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "code": "01.043",
+   "standard": "电气工程名词",
+   "subject": "电气工程_电工基础及通用名词"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "code": "09.0029",
+   "standard": "数学名词",
+   "subject": "数学_概率论_数理统计_概率空间"
+  },
+  {
+   "cn": "物镜",
+   "en": "objective",
+   "code": "09.036",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物学技术"
+  },
+  {
+   "cn": "物镜",
+   "en": "objective",
+   "code": "04.067",
+   "standard": "机械工程名词 第三分册",
+   "subject": "机械工程_仪器仪表_光学仪器_光学仪器一般名词"
+  },
+  {
+   "cn": "概率流",
+   "en": "probability current,probability flux",
+   "code": "06.0534",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "物镜",
+   "en": "objective",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "物镜",
+   "en": "objective",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "客体",
+   "en": "object",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "客观性",
+   "en": "objectivity",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "对象",
+   "en": "object",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "对象",
+   "en": "object",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "客体",
+   "en": "object",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "量子马尔可夫链",
+   "en": "Quantum probability",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "p值",
+   "en": "Realization (probability)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "条件概率",
+   "en": "conditional probability",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "先验概率",
+   "en": "Prior probability",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "双目标",
+   "en": "dual objectives",
+   "code": null,
+   "standard": "中央文献重要术语",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据对象",
+   "en": "data object",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "对象模型",
+   "en": "object model",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "客体重用",
+   "en": "object reuse",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "目标代码",
+   "en": "Object code",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "客观信用体系",
+   "en": "objective credit system",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "道器",
+   "en": "Dao and Objects",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "客观",
+   "en": "objective",
+   "code": "01.0164",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "客体",
+   "en": "object",
+   "code": "01.0161",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "客体性",
+   "en": "objectivity",
+   "code": "01.0162",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "客观性",
+   "en": "objectivity",
+   "code": "01.0165",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "概率抽样",
+   "en": "probability sampling",
+   "code": "1.2.5.47",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "死亡概率",
+   "en": "mortality probability",
+   "code": "4.5.3.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_人口社会学_死亡"
+  },
+  {
+   "cn": "暴露概率",
+   "en": "exposure probability",
+   "code": "1.4.4.71",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "概率抽样",
+   "en": "probability sampling",
+   "code": "4.1.1",
+   "standard": "社会医学名词",
+   "subject": "社会医学研究方法"
+  },
+  {
+   "cn": "客观分析",
+   "en": "objective analysis",
+   "code": "01.0166",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "客观精神",
+   "en": "objective spirit",
+   "code": "01.0167",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "客观世界",
+   "en": "objective world",
+   "code": "01.0168",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "客观规律",
+   "en": "objective law",
+   "code": "01.0169",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  }
+ ],
+ "error": null,
  "raw": null
 }

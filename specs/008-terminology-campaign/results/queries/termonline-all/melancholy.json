@@ -1,0 +1,61 @@
+{
+ "key": "melancholy",
+ "term": "melancholy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T04:22:48+00:00",
+ "status": "ok",
+ "note": "variant=melancholy; 审定公布名词库=4; 海峡两岸名词对照库=1; 其他来源数据库=2; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "悲忧伤肺",
+   "en": "melancholy impairing lung",
+   "code": "03.475",
+   "standard": "中医药学名词",
+   "subject": "中医药学_中医基础理论_病因"
+  },
+  {
+   "cn": "忧郁症",
+   "en": "melancholia",
+   "code": "03.160",
+   "standard": "精神医学名词",
+   "subject": "精神医学_诊断分类_情感障碍"
+  },
+  {
+   "cn": "忧郁症",
+   "en": "melancholia",
+   "code": "08.198",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_精神病学"
+  },
+  {
+   "cn": "抑郁质",
+   "en": "melancholic temperament",
+   "code": "02.755",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "抑郁质，忧郁质",
+   "en": "melancholic temperament",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "沉郁",
+   "en": "Melancholy",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "怊怅述情",
+   "en": "Release of Melancholic Feelings",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

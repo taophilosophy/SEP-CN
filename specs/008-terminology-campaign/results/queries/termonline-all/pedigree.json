@@ -2,10 +2,200 @@
  "key": "pedigree",
  "term": "pedigree",
  "provider": "termonline-all",
- "queried_at": "2026-11-12T00:05:56+00:00",
- "status": "error",
- "note": "variant=pedigree; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "pedigree: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T04:33:19+00:00",
+ "status": "ok",
+ "note": "variant=pedigree; 审定公布名词库=30; 海峡两岸名词对照库=16; 其他来源数据库=1; 预公布名词数据库=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "系谱",
+   "en": "pedigree",
+   "code": "06.150",
+   "standard": "农学名词",
+   "subject": "作物基因组学与遗传育种_作物遗传改良"
+  },
+  {
+   "cn": "系谱",
+   "en": "pedigree",
+   "code": "10.27",
+   "standard": "生殖医学名词",
+   "subject": "生殖医学_生殖遗传"
+  },
+  {
+   "cn": "系谱",
+   "en": "pedigree",
+   "code": "1.332",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "系谱",
+   "en": "pedigree",
+   "code": "02.132",
+   "standard": "遗传学名词",
+   "subject": "遗传学_经典遗传学"
+  },
+  {
+   "cn": "系谱",
+   "en": "pedigree",
+   "code": "05.132",
+   "standard": "水产名词",
+   "subject": "水产_水产生物育种学"
+  },
+  {
+   "cn": "系谱",
+   "en": "pedigree",
+   "code": "01.415",
+   "standard": "医学名词 第三分册",
+   "subject": "医学_医学遗传学"
+  },
+  {
+   "cn": "谱系",
+   "en": "lineage,pedigree",
+   "code": "02.0218",
+   "standard": "植物学名词",
+   "subject": "植物学_系统与进化植物学"
+  },
+  {
+   "cn": "系谱分析",
+   "en": "pedigree analysis",
+   "code": "06.151",
+   "standard": "农学名词",
+   "subject": "作物基因组学与遗传育种_作物遗传改良"
+  },
+  {
+   "cn": "系谱法",
+   "en": "pedigree method",
+   "code": "06.296",
+   "standard": "农学名词",
+   "subject": "作物基因组学与遗传育种_作物遗传改良"
+  },
+  {
+   "cn": "系谱分析",
+   "en": "pedigree analysis",
+   "code": "10.272",
+   "standard": "生殖医学名词",
+   "subject": "生殖医学_生殖遗传"
+  },
+  {
+   "cn": "系统育种",
+   "en": "pedigree breeding ",
+   "code": "4.0509",
+   "standard": "草学名词",
+   "subject": "草学_种子和育种_草类植物育种"
+  },
+  {
+   "cn": "系谱分析",
+   "en": "pedigree analysis",
+   "code": "1.333",
+   "standard": "医学遗传学名词",
+   "subject": "医学遗传学_医学遗传学基础_总论"
+  },
+  {
+   "cn": "系谱,家谱",
+   "en": "pedigree",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "谱系，系谱",
+   "en": "lineage\",\"pedigree",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "系谱（=谱系）",
+   "en": "lineage\",\"pedigree",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "系谱分析,家谱分析",
+   "en": "pedigree analysis",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "系谱图",
+   "en": "pedigree diagram",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "人类多态研究中心家系,CEPH家族",
+   "en": "Centre d’Etude du Polymorphisme Humain family\",\"CEPH family\",\"CEPH pedigree",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "近地点",
+   "en": "perigee",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "近地点",
+   "en": "perigee",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "近地点",
+   "en": "perigee",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "近地点",
+   "en": "perigee",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "近地点",
+   "en": "perigee",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "近地点",
+   "en": "perigee",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "谱系",
+   "en": "pedigree",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "系谱法",
+   "en": "pedigree analysis",
+   "code": "1.0669",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "族谱",
+   "en": "clan pedigree",
+   "code": "4.015",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  }
+ ],
+ "error": null,
  "raw": null
 }

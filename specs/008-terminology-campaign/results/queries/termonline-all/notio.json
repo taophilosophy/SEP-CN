@@ -1,0 +1,47 @@
+{
+ "key": "notio",
+ "term": "notio",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T04:30:19+00:00",
+ "status": "ok",
+ "note": "variant=notio; 审定公布名词库=4; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "柏拉图意义观",
+   "en": "Platos notion of meaning,Platonic notion of meaning",
+   "code": "05.021",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_语义学与语义理论"
+  },
+  {
+   "cn": "亚里士多德意义观",
+   "en": "Aristotles notion of meaning,Aristotelian notion of meaning",
+   "code": "05.022",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_语义学与语义理论"
+  },
+  {
+   "cn": "中国国家地震台网",
+   "en": "China Natio-nal Seismic Network; CNSN",
+   "code": "01.2513",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震观测技术"
+  },
+  {
+   "cn": "名义剂量",
+   "en": "notional dose",
+   "code": "05.126",
+   "standard": "放射医学与防护名词",
+   "subject": "放射医学与防护_放射防护_放射防护监测"
+  },
+  {
+   "cn": "名义剂量",
+   "en": "notional dose",
+   "code": "5.5.8",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_监测与评价"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

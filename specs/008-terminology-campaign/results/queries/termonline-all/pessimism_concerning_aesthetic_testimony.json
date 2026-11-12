@@ -2,10 +2,326 @@
  "key": "pessimism concerning aesthetic testimony",
  "term": "pessimism concerning aesthetic testimony",
  "provider": "termonline-all",
- "queried_at": "2026-11-12T00:10:26+00:00",
- "status": "error",
- "note": "variant=pessimism concerning aesthetic testimony; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "pessimism concerning aesthetic testimony: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T04:33:19+00:00",
+ "status": "ok",
+ "note": "variant=pessimism concerning aesthetic testimony; 审定公布名词库=427; 海峡两岸名词对照库=30; 其他来源数据库=24; 预公布名词数据库=9; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "悲观",
+   "en": "pessimism",
+   "code": "04.198",
+   "standard": "阿尔茨海默病名词",
+   "subject": "阿尔茨海默病_精神与心理认知学"
+  },
+  {
+   "cn": "技术悲观主义",
+   "en": "technological pessimism",
+   "code": "04.156",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_技术哲学_一般技术哲学"
+  },
+  {
+   "cn": "目击证言",
+   "en": "eyewitness testimony",
+   "code": "13.059",
+   "standard": "心理学名词",
+   "subject": "心理学_法律心理学"
+  },
+  {
+   "cn": "证言广告策略",
+   "en": "testimony advertising strategy",
+   "code": "21.282",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_广告_广告作品"
+  },
+  {
+   "cn": "证言心理学",
+   "en": "psychology of testimony",
+   "code": "13.008",
+   "standard": "心理学名词",
+   "subject": "心理学_法律心理学"
+  },
+  {
+   "cn": "横切关注点",
+   "en": "crosscutting concerns",
+   "code": "06.0384",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_软件工程"
+  },
+  {
+   "cn": "约束关心",
+   "en": "constraint concern",
+   "code": "01.0991",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_企业理论"
+  },
+  {
+   "cn": "美学性",
+   "en": "aesthetics",
+   "code": "05.0556",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_生产运作管理与工业工程_质量管理"
+  },
+  {
+   "cn": "美学",
+   "en": "aesthetics",
+   "code": "01.095",
+   "standard": "教育学名词",
+   "subject": "教育学_教育基本理论"
+  },
+  {
+   "cn": "微眼",
+   "en": "aesthete",
+   "code": "5.1803",
+   "standard": "动物学名词",
+   "subject": "动物学_无脊椎动物学_软体动物门"
+  },
+  {
+   "cn": "非贸易关注",
+   "en": "non-trade concern",
+   "code": "19.191",
+   "standard": "农学名词",
+   "subject": "农业经济与管理_农业市场与贸易"
+  },
+  {
+   "cn": "关注污染物",
+   "en": "contaminant of concern",
+   "code": "02.618",
+   "standard": "化工名词（四）安全·环保·可持续发展",
+   "subject": "化工（四）_炼油与化工企业健康-安全-环境管理_环境监测与统计"
+  },
+  {
+   "cn": "悲观",
+   "en": "pessimism",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "证词",
+   "en": "testimony",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "目击证言,视觉证言",
+   "en": "eye witness testimony",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "微眼",
+   "en": "aesthete",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "审美心理学",
+   "en": "aesthetic psychology",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "审美享受",
+   "en": "aesthetic pleasure",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "旅游美学",
+   "en": "tourism aesthetics",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "美感测验",
+   "en": "Aesthetic Perception Test",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "船舶碰撞民事管辖权某些规定的国际公约",
+   "en": "International Convention on Certain Rules Concerning Civil Jurisdiction in Matters of Collision",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "统一国有船舶豁免某些规定的国际公约",
+   "en": "International Convention for the Unification of Certain Rules Concerning the Immunity of State-owned Ships",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "最劣度",
+   "en": "pessimum",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "小协奏曲",
+   "en": "concertino",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "对比赛装备的抗议",
+   "en": "protest concerning equipment",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_铁人三项名词"
+  },
+  {
+   "cn": "对参赛资格的抗议",
+   "en": "protest concerning eligibility",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_铁人三项名词"
+  },
+  {
+   "cn": "意境",
+   "en": "Aesthetic Conception",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "艺术分",
+   "en": "aesthetic score",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_蹦床名词"
+  },
+  {
+   "cn": "艺术裁判员",
+   "en": "aesthetic judge",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_蹦床名词"
+  },
+  {
+   "cn": "对比赛线路的抗议",
+   "en": "protest concerning the course",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_铁人三项名词"
+  },
+  {
+   "cn": "对比赛的抗议",
+   "en": "protest concerning the race",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_铁人三项名词"
+  },
+  {
+   "cn": "对计时和成绩的抗议",
+   "en": "protest concerning timing and results",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_铁人三项名词"
+  },
+  {
+   "cn": "数据资源权益",
+   "en": "rights and interests concerning data resource",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "高度重视公共利益",
+   "en": "serious concern for the public good",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_社会治理"
+  },
+  {
+   "cn": "及时回应社会关切",
+   "en": "to provide timely responses to public concerns",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "理念举措_具体措施"
+  },
+  {
+   "cn": "国际关注的突发公共卫生事件",
+   "en": "public health emergency of international concern (PHEIC)",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_百姓生活"
+  },
+  {
+   "cn": "亲民",
+   "en": "people-concerned",
+   "code": "1.1.1.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想"
+  },
+  {
+   "cn": "审美",
+   "en": "aesthetic",
+   "code": "1.0254",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "审美文化",
+   "en": "aesthetic culture",
+   "code": "3.8.3.30",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_文化社会学_文化的制度结构"
+  },
+  {
+   "cn": "老龄工作",
+   "en": "work concerning the aging",
+   "code": "3.15.1.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_老年和老龄化研究_个人老化"
+  },
+  {
+   "cn": "关注浓度水平",
+   "en": "concentration level of concern",
+   "code": "1.5.45",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险监测"
+  },
+  {
+   "cn": "关注水平",
+   "en": "level of concern, LOC",
+   "code": "1.4.5.1",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "毒理学关注阈值",
+   "en": "threshold of toxicological concern, TTC",
+   "code": "1.4.3.54",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "统筹兼顾",
+   "en": "unified planning with due consideration for all concerned",
+   "code": "02.0428",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "权为民所用情为民所系利为民所谋",
+   "en": "exercising power for the people showing concern for them and working for their interests",
+   "code": "03.0766",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -2,10 +2,347 @@
  "key": "poetic discourse",
  "term": "poetic discourse",
  "provider": "termonline-all",
- "queried_at": "2026-11-12T00:14:57+00:00",
- "status": "error",
- "note": "variant=poetic discourse; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "poetic discourse: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T04:33:19+00:00",
+ "status": "ok",
+ "note": "variant=poetic discourse; 审定公布名词库=637; 海峡两岸名词对照库=162; 其他来源数据库=44; 预公布名词数据库=23; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "话语",
+   "en": "discourse",
+   "code": "03.198",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_后现代主义科学哲学"
+  },
+  {
+   "cn": "话语",
+   "en": "discourse",
+   "code": "6.068",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播总论_传播研究基础"
+  },
+  {
+   "cn": "话语",
+   "en": "discourse",
+   "code": "04.162",
+   "standard": "心理学名词",
+   "subject": "心理学_理论心理学与心理学史"
+  },
+  {
+   "cn": "话语",
+   "en": "discourse",
+   "code": "01.159",
+   "standard": "语言学名词",
+   "subject": "语言学_理论语言学_核心术语"
+  },
+  {
+   "cn": "诗刊",
+   "en": "poetic periodical",
+   "code": "07.03.039",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_出版物_报纸期刊"
+  },
+  {
+   "cn": "元话语",
+   "en": "meta-discourse",
+   "code": "03.200",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_后现代主义科学哲学"
+  },
+  {
+   "cn": "话语分析",
+   "en": "discourse analysis",
+   "code": "07.092",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学、技术与社会_科学与社会"
+  },
+  {
+   "cn": "商谈伦理",
+   "en": "discourse ethics",
+   "code": "08.053",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科技伦理_工程伦理"
+  },
+  {
+   "cn": "组织话语",
+   "en": "organizational discourse",
+   "code": "9.021",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_组织传播_组织传播概论"
+  },
+  {
+   "cn": "话语视角",
+   "en": "discourse perspective",
+   "code": "10.039",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_跨文化传播_跨文化传播理论"
+  },
+  {
+   "cn": "政治话语",
+   "en": "political discourse",
+   "code": "12.013",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_政治传播_政治传播基础"
+  },
+  {
+   "cn": "话语分析",
+   "en": "discourse analysis",
+   "code": "15.037",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播与社会发展_理论与方法"
+  },
+  {
+   "cn": "话语",
+   "en": "discourse",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "话语",
+   "en": "discourse",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "话语模型",
+   "en": "discourse model",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "话语生成",
+   "en": "discourse generation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "论域",
+   "en": "universe of discourse",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "思维科学",
+   "en": "noetic science",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "催吐药",
+   "en": "emetic",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "主动脉孔",
+   "en": "aortic opening\",\"aortic aperture",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "吐酒石",
+   "en": "emetic tartar\",\"tartar emetic",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "承诺不可撤销的拨付额",
+   "en": "irrevocable commitments to disburse",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "视沟",
+   "en": "optic groove\",\"optic sulcus",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "视交叉",
+   "en": "optic chiasma\",\"optic chiasm",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "歌行体",
+   "en": "Poetic Song",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "西昆体",
+   "en": "The Xikun Poetic Style",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "永明体",
+   "en": "The Yongming Poetic Style",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "诗家三昧",
+   "en": "The Key to Poetic Creation",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "宋杂剧",
+   "en": "Poetic Drama of the Song Dynasty",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "以诗为词",
+   "en": "Writing Ci Poems in a General Poetic Style",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "嵇志清峻，阮旨遥深",
+   "en": "Elevated Clarity, and Unfathomable Obscurity: the Poetic Voices of Ji Kang and Ruan Ji",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "质子溶剂",
+   "en": "protic solvents",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "主动脉瓣",
+   "en": "aortic valve",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "植酸",
+   "en": "phytic acid",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "诗史",
+   "en": "Historical Poetry",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "诗",
+   "en": "Shi (Poetry)",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "话语",
+   "en": "discourse",
+   "code": "5.0053",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "文化诗学",
+   "en": "cultural poetics",
+   "code": "1.0234",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "话语分析",
+   "en": "discourse analysis",
+   "code": "1.2.1.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_方法论"
+  },
+  {
+   "cn": "环境话语",
+   "en": "environmental discourse",
+   "code": "3.14.4.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_环境社会学_对环境问题的应对和行动"
+  },
+  {
+   "cn": "商谈伦理",
+   "en": "discourse ethics",
+   "code": "05.0038",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "话语分析",
+   "en": "discourse analysis",
+   "code": "5.0054",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "青年话语",
+   "en": "discourse on youth",
+   "code": "3.16.7.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_青少年研究_青年参与"
+  },
+  {
+   "cn": "中华民族共同体话语体系",
+   "en": "discourse system of the Chinese National community",
+   "code": "2.0111",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族理论_马克思主义民族理论中国化"
+  },
+  {
+   "cn": "催吐剂",
+   "en": "emetic",
+   "code": "6.3.3.13",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内污染医学处理"
+  },
+  {
+   "cn": "表音文字",
+   "en": "phonetic script",
+   "code": "5.0196",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_语言状况与规划"
+  },
+  {
+   "cn": "音读",
+   "en": "phonetic reading",
+   "code": "5.0069",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "植酸",
+   "en": "phytic acid",
+   "code": "5.10.4.10",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_食用油脂"
+  }
+ ],
+ "error": null,
  "raw": null
 }

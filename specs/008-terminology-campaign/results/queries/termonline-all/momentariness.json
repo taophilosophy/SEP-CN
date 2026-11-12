@@ -1,0 +1,96 @@
+{
+ "key": "momentariness",
+ "term": "momentariness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T04:25:48+00:00",
+ "status": "ok",
+ "note": "variant=momentariness; 审定公布名词库=8; 海峡两岸名词对照库=2; 其他来源数据库=2; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "瞬间充电",
+   "en": "momentary charge",
+   "code": "09.026",
+   "standard": "电子学名词",
+   "subject": "电子学_电源"
+  },
+  {
+   "cn": "[电动机]短时工作制",
+   "en": "[motor] momentary duty",
+   "code": "23.201",
+   "standard": "电力名词",
+   "subject": "电力_配电与用电"
+  },
+  {
+   "cn": "飞升转速",
+   "en": "maximum momentary speed",
+   "code": "23.0836",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_动力机械_汽轮机和燃气轮机_燃气轮机_运行"
+  },
+  {
+   "cn": "瞬态压力变化率",
+   "en": "momentary pressure variation ratio",
+   "code": "25.0215",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_动力机械_水轮机"
+  },
+  {
+   "cn": "瞬态转速变化率",
+   "en": "momentary speed variation ratio",
+   "code": "25.0219",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_动力机械_水轮机"
+  },
+  {
+   "cn": "水轮机最大瞬态转速",
+   "en": "maximum momentary overspeed of turbine",
+   "code": "25.0217",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_动力机械_水轮机"
+  },
+  {
+   "cn": "水轮机最大瞬态压力",
+   "en": "maximum momentary pressure of turbine",
+   "code": "25.0214",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_动力机械_水轮机"
+  },
+  {
+   "cn": "蓄能泵的最大瞬态反向转速",
+   "en": "momentary counterrotation speed of storage pump",
+   "code": "25.0218",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_动力机械_水轮机"
+  },
+  {
+   "cn": "瞬间充电",
+   "en": "momentary charge",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "瞬时过载",
+   "en": "momentary overload",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "短促支撑",
+   "en": "momentary support",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "滚桥",
+   "en": "roll over the shoulders\",\"momentary bridge",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
