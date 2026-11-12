@@ -240,7 +240,35 @@
 | Arthur Eddington | — | 爱丁顿（Arthur Eddington） | — | — | spacetime-convensimul | 学界惯例（物理学通行汉译） | 2026-11-06 |
 | Arthur Schopenhauer | — | 阿图尔·叔本华 | — | — | landmann-kalischer | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-04 |
 | Artiga, Marc | — | 马克·阿蒂加 | — | — | information-biological | 音译（本词条作者）；凭证 2026-11-12 | 2026-11-12 |
+| Bardi, Andrea | — | Andrea Bardi（现代学者，保留英文） | — | — | copernicus | ADR-0022：无通行汉名者保留英文；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Blåsjö, Viktor | — | 维克托·布洛舍 | 瑞典 | — | copernicus | 数学史通行音译；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Blumenberg, Hans | — | 汉斯·布卢门贝格 | 德国 | 1920–1996 | copernicus | 学界通行汉译（《哥白尼世界的起源》）；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Bruno, Giordano | — | 乔尔丹诺·布鲁诺 | 意大利 | 1548–1600 | copernicus | 学界千年通行汉译；与 Bauer, Bruno 异人分立；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Crowe, Michael | — | 迈克尔·克罗 | 美国 | — | copernicus | 科学史通行音译；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Finocchiaro, Maurice | — | 莫里斯·芬诺基阿罗 | 美国 | — | copernicus | 学界通行音译（布鲁诺与伽利略审判研究）；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Gingerich, Owen | — | 欧文·金格里奇 | 美国 | 1930–2023 | copernicus | 天文学史通行汉译（《无人阅读的书》作者）；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Goddu, André | — | 安德烈·古杜 | 美国 | — | copernicus | 科学史通行音译（哥白尼与亚里士多德传统研究）；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Goldstein, Bernard R. | — | 伯纳德·戈德斯坦 | 美国 | — | copernicus | 科学史通行音译（中世纪天文学）；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Grendler, Paul | — | 保罗·格伦德勒 | 美国 | — | copernicus | 教育史通行音译（意大利文艺复兴大学研究）；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Hallyn, Fernand | — | 费尔南·哈林 | 比利时 | — | copernicus | 学界通行音译（《世界的诗性结构》作者）；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
 | Hamilton, William D. | — | 威廉·D. 汉密尔顿 | 英国 | 1936–2000 | altruism-biological | 学界通行音译（亲缘选择理论；与苏格兰哲学家 William Hamilton 分立）；凭证 2026-11-12 | 2026-11-12 |
+| Koestler, Arthur | — | 阿瑟·库斯勒 | 匈牙利/英国 | 1905–1983 | copernicus | 学界通行汉译（《梦游者》作者）；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Kuhn, Thomas | — | 托马斯·库恩 | 美国 | 1922–1996 | copernicus | 学界千年通行汉译（《科学革命的结构》）；与 Kuhn, Helmut 异人分立；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Maestlin, Michael | — | 米夏埃尔·马埃斯特林 | 德国 | 1550–1631 | copernicus | 天文学史通行音译（开普勒之师）；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Morrison, Robert | — | 罗伯特·莫里森 | 美国 | — | copernicus | 科学史通行音译（犹太中介研究）；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Neugebauer, Otto | — | 奥托·诺伊格鲍尔 | 奥地利/美国 | 1899–1990 | copernicus | 数学史与天文学史通行汉译；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Omodeo, Pietro Daniel | — | 彼得罗·达尼埃莱·奥莫德奥 | 意大利 | — | copernicus | 学界通行音译（《哥白尼与文艺复兴文化论争》作者）；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Osiander, Andreas | — | 安德鲁·奥西安德尔 | 德国 | 1498–1552 | copernicus | 宗教改革家、《天体运行论》匿名序言作者；正文照源文作 Andrew；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Petreius, Johann | — | 约翰·彼得雷乌斯 | 德国 | 1497–1550 | copernicus | 出版史通行音译（《天体运行论》印行者）；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Peucer, Caspar | — | 卡斯帕·佩伊策 | 德国 | 1525–1602 | copernicus | 学界通行音译（梅兰希顿女婿）；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Ragep, F. Jamil | — | F. J. 拉杰普 | 美国/加拿大 | — | copernicus | 伊斯兰天文学史通行音译；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Reinhold, Erasmus | — | 伊拉斯谟·莱因霍尔德 | 德国 | 1511–1553 | copernicus | 天文学史通行音译（《普鲁士表》编者）；与 Reinhold, Karl Leonhard 异人分立；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Rosen, Edward | — | 爱德华·罗森 | 美国 | — | copernicus | 科学史通行汉译（哥白尼著作英译者）；与 Knorr von Rosenroth 异人分立；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Saliba, George | — | 乔治·萨利巴 | 美国 | — | copernicus | 伊斯兰科学史通行音译；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Shumaker, Wayne | — | 韦恩·舒梅克 | 美国 | — | copernicus | 学界通行音译（文艺复兴秘术研究）；与 Shoemaker 异人分立；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Siraisi, Nancy | — | 南希·西拉伊西 | 美国 | — | copernicus | 医学史通行音译；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Spina, Bartolomeo | — | 巴尔托洛梅奥·斯皮纳 | 意大利 | 1474–1546 | copernicus | 学界通行音译（比萨教省总代理）；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Swerdlow, Noel | — | 诺埃尔·斯韦德洛 | 美国 | — | copernicus | 科学史通行音译（《天体运行论》数学研究）；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
 | Trivers, Robert | — | 罗伯特·特里弗斯 | 美国 | 1943– | altruism-biological | 学界通行音译（互惠利他理论）；凭证 2026-11-12 | 2026-11-12 |
 | Āryadeva | — | 提婆 | — | — | gorampa | 龙树弟子、中观论师通行汉译 | 2026-11-09 |
 | Asaṅga | — | 无著 | 古印度／瑜伽行派 | 约 4–5 世纪 | yogacara | 汉传佛典千年通行译名（《摄大乘论》作者）；凭证 2026-11-11 | 2026-11-11 |
@@ -273,6 +301,8 @@
 | Axiothea | — | 阿克西奥特亚 | — | — | dialectical-school | 学界通行汉译（女性哲人，见于 DL 7.75 例证）；凭证 2026-11-07 | 2026-11-07 |
 | Ayala, F. J. | — | F. J. 阿亚拉 | — | — | biology-philosophy | 学界通行汉译（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Azarenka, Victoria | — | 维多利亚·阿扎伦卡 | — | — | cloning | 学界惯例（体育界通行译名，词条作假设例）；凭证 2026-11-07 | 2026-11-07 |
+| Westman, Robert | — | 罗伯特·韦斯特曼 | 美国 | — | copernicus | 科学史通行音译（《哥白尼问题》作者）；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
+| Yates, Frances | — | 弗朗西丝·耶茨 | 英国 | 1899–1981 | copernicus | 学界通行汉译（《布鲁诺与赫尔墨斯传统》）；与 Yates, Robin D. S.（叶山）异人分立；凭证 2026-11-12 copernicus r2 | 2026-11-12 |
 | ʿAbd al-Jabbār | عبد الجبار | 阿卜杜·贾巴尔（穆尔太齐赖派） | 波斯（阿萨达巴德）／穆阿塔齐拉 | 935–1025 | 语料回收（arabic-islamic-*） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | ʿAbd al-Laṭīf al-Baghdādī | عبداللطيف البغدادي | 阿卜杜勒·拉蒂夫·巴格达迪 | — | — | theology-aristotle | 学界惯例（12–13 世纪巴格达学者）；凭证 2026-11-08 | 2026-11-08 |
 | ʿAyn al-Quḍāt | — | 艾因·古达特（哈马丹的艾因·古达特；亦作“艾因·库扎特”） | — | — | al-qudat；语料回收（arabic-islamic-mysticism） | 学界惯例（SUMMARY 定名沿用；波斯苏菲哲学家）；2026-11-08 重复行合并：正形从 SUMMARY 题名“艾因·古达特”，旧行“艾因·库扎特”并此 | 2026-11-06 |
@@ -1923,8 +1953,7 @@
 
 | Iacona, Andrea | — | Andrea Iacona（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09 | 2026-11-09 |
 | Iamblichus | — | 杨布里科斯 | — | — | neoplatonism | SUMMARY 定名沿用（i/iamblichus）；学界亦作“扬布利科斯” | 2026-11-07 |
-| Iblīs | إِبْلِيسْ | 伊布利斯 | — | — | al-qudat | 学界惯例（《古兰经》堕落天使，通行音译） | 2026-11-06 |
-| Iblis | إبليس | 伊布利斯 | — | — | evil-kinds-origins | 伊斯兰传统通行汉译（撒旦名） | 2026-11-12 |
+| Iblīs | إِبْلِيسْ | 伊布利斯 | — | — | al-qudat（evil-kinds-origins 同条） | 学界惯例（《古兰经》堕落天使，通行音译）；2026-11-12 合并重复行 | 2026-11-12 |
 | Ibn Abi Usaybi'a | — | 伊本·阿比·乌赛比阿 | 叙利亚／阿拉伯医学史家 | c. 1203–1270 | israeli | 阿拉伯医学史通行汉译；凭证 2026-11-11 | 2026-11-11 |
 | Ibn al-Haytham / Alhazen | Ibn al-Haytham / Alhazen | 伊本·海赛姆（阿尔哈增） | — | — | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
 | Ibn al-Jazzar | Ibn al-Jazzar | 伊本·贾扎尔 | — | — | israeli | 阿拉伯医学史通行汉译 | 2026-11-06 |
