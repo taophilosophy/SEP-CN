@@ -800,6 +800,15 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
   false-belief（“错误信念”，审定命中“错误信念任务”为测验下位，反向佐证）、imperfectivity（Thompson“不完全性”，垃圾池命中）、
   self-respect（利科 respect de soi“自我尊重”，审定“敬谦”假阳性）。
 
+### 五、六轮清扫与术语表收敛（8 项；2026-11-12）
+
+* 队列 `%TEMP%/az-term6.json` 8 项（单批），全部 ok；此后 `--emit --unverified --table term` 归零
+  （除并行会话后续新登记行），术语表未查证队列至此清空。
+* 审计刷新（裁定前）：一致 1067 / 不一致 732 / 查无 4202 / 未查证 4007；**裁定后：一致 1068 / 不一致 731**。
+* **主译变更 1 条**：amniocentesis「羊膜穿刺术」→「羊膜腔穿刺术」（审定·医学名词四库一致；旧形降亦作；
+  `g/genetics.md` 1 处看齐）。其余 7 项：查无 5（goal-directed agency、immortality of the soul、intention in action、
+  poverty of stimulus、provability），一致 2（consistency、world-picture）。
+
 
 
 

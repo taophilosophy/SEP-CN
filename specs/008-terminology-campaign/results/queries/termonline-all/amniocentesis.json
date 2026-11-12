@@ -2,10 +2,95 @@
  "key": "amniocentesis",
  "term": "amniocentesis",
  "provider": "termonline-all",
- "queried_at": "2026-11-12T06:04:19+00:00",
- "status": "error",
- "note": "variant=amniocentesis; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "amniocentesis: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T06:52:11+00:00",
+ "status": "ok",
+ "note": "variant=amniocentesis; 审定公布名词库=6; 海峡两岸名词对照库=5; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "羊膜腔穿刺术",
+   "en": "amniocentesis",
+   "code": "12.07",
+   "standard": "妇产科学名词",
+   "subject": "遗传咨询、产前筛查与产前诊断_产前诊断"
+  },
+  {
+   "cn": "羊膜腔穿刺术",
+   "en": "amniocentesis",
+   "code": "07.157",
+   "standard": "兽医学名词",
+   "subject": "兽医学_家畜胚胎学"
+  },
+  {
+   "cn": "羊膜腔穿刺术",
+   "en": "amniocentesis",
+   "code": "10.254",
+   "standard": "生殖医学名词",
+   "subject": "生殖医学_生殖遗传"
+  },
+  {
+   "cn": "羊膜腔穿刺术",
+   "en": "amniocentesis",
+   "code": "01.429",
+   "standard": "医学名词 第三分册",
+   "subject": "医学_医学遗传学"
+  },
+  {
+   "cn": "羊膜腔穿刺[术]",
+   "en": "amniotomy,amniocentesis",
+   "code": "03.319",
+   "standard": "计划生育名词",
+   "subject": "计划生育_计划生育临床_手术"
+  },
+  {
+   "cn": "经腹羊膜腔穿刺术",
+   "en": "transabdominal amniocentesis",
+   "code": "03.281",
+   "standard": "计划生育名词",
+   "subject": "计划生育_计划生育临床_手术"
+  },
+  {
+   "cn": "羊膜穿刺",
+   "en": "amniocentesis",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "羊膜［腔］穿刺术",
+   "en": "amniocentesis",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "羊膜穿刺[术]",
+   "en": "amniocentesis",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "羊膜形成",
+   "en": "amniogenesis",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "羊膜形成",
+   "en": "amniogenesis",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "羊膜腔穿刺术",
+   "en": "amniocentesis",
+   "code": "3.5.2.2.3.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_孕产期保健"
+  }
+ ],
+ "error": null,
  "raw": null
 }
