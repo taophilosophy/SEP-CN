@@ -2,7 +2,7 @@
   "slug": "gomez-pereira",
   "kind": "retranslate",
   "zh_doc": "g/gomez-pereira.md",
-  "state": "r1_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,27 @@
       "actor": "G-main-20261112",
       "at": "2026-11-11T23:09:39Z",
       "evidence": "r1 全文回读（引文块与 AM/NVM 引证编号逐条核）：实修 12 处（一经…作用/作者有理由相信/在人手里受的苦/雄性…精液/或因为…或因为/笛卡尔也许在尼德兰/倍加称许/唯有/是如此直接/人是造物中最复杂的存在/整体缺乏统一性/自然与他时代的理论前提）；语体：现代汉语学术书面语；对账五维一致"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-12T06:37:49Z",
+      "evidence": "r2 复审逐句回核（冷置：跨 gadamer-aesthetics 全周期后）：年份序列 34:34 同序零缺、AM 卷页段引证 32:32 同序；拉丁引文与书目键原样；漏译增译 0；语体：现代汉语学术书面语"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-12T06:37:50Z",
+      "evidence": "r3 终审：check_style 0、check_academic --strict 0 硬错误、check_math 0、check_terms 0 硬错误；尾节序齐备；段落/defs/引用键 64:64、50:50、48:48"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "G-main-20261112",
+      "at": "2026-11-12T06:37:50Z",
+      "evidence": "G 批 gomez-pereira 收口 done：主会话直译全周期，r2/r3 冷置后复核"
     }
   ],
   "blockers": [],
