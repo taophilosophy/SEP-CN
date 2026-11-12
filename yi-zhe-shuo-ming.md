@@ -12,6 +12,7 @@
 | A Modern Elementary Logic | — | 《逻辑学现代基础》 | 首译（stebbing） | 斯泰宾著作（1943）；书名体例译；凭证 2026-11-09 | 2026-11-09 |
 | A Modern Introduction to Logic | — | 《逻辑学现代导论》 | 首译（stebbing） | 斯泰宾著作（1930）；书名体例译；凭证 2026-11-09 | 2026-11-09 |
 | A New Elucidation of the First Principles of Metaphysical Cognition | — | 《形而上学认识诸第一原则的新阐明》（简称《新阐明》） | kant-science | 学界通行；kant-leibniz 短形先例 | 2026-11-05 |
+| Simple View | — | 简单观点 | intention | 首译（Bratman 1987 命名）；凭证 2026-11-12 | 2026-11-12 |
 | a posteriori | a posteriori | 后验 | logical-consequence | 哲学通行译法；凭证 2026-11-09；拉丁/德语原形即键（2026-11-10 取证） | 2026-11-09 |
 | a posteriori necessity | — | 后天必然性 | 首现（zombies） | 学界惯例（同上）；凭证 2026-11-10 | 2026-11-10 |
 | a priori | a priori | 先天（康德传统；与“先验”transzendental 相区分） | logical-consequence；语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
@@ -750,6 +751,7 @@
 | Chunqiu | 春秋 | 《春秋》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
 | Chunqiu Fanlu | 春秋繁露 | 《春秋繁露》 | han-dynasty | 学界通行学名 | 2026-11-10 |
 | Church Fathers | — | 教父 | ancient-soul 首译 | 学界通行（基督教思想史） | 2026-11-09 |
+| all-out judgement | — | 全盘判断 | intention | 首译（Davidson 1978 全盘评价判断）；凭证 2026-11-12 | 2026-11-12 |
 | chymistry | — | 化学论（早期近代“化学”） | locke-on-medicine | 化学史 Newman 传统通行（chymical 形容词作“化学论的”，以别于后牛顿化学） | 2026-11-05 |
 | ch’e-yong（體用） | 體用 | 体用 | korean-philosophy | 汉文传统写法（儒佛共享范式；源文汉字 體用） | 2026-11-05 |
 | ciphers of transcendence | Chiffre | 超越之密码 | jaspers 首译 | 学界通行（雅斯贝尔斯密码学说；Chiffre 密码）；凭证 2026-11-09 | 2026-11-09 |
@@ -2188,6 +2190,7 @@
 | heterozygote advantage | — | 杂合子优势 | ecological-genetics 首译 | 学界通行译名（群体遗传学文献）；凭证 2026-11-10 | 2026-11-10 |
 | hetu | हेतु | 因（证因） | jaina-philosophy | 因明传统译名（三支／五支之“因”） | 2026-11-08 |
 | Hetubindu | — | 《因滴论》 | yogacara 首译 | 梵题汉译（法称造，无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| guiding desire | — | 引导性欲求 | intention | 首译（Bratman 1987 对 intention 的替代分析）；凭证 2026-11-12 | 2026-11-12 |
 | hetvābhāsa | हेत्वाभास | 推理谬误（似因） | early-modern-india | 因明“似因”通行（fallacy）；凭证 2026-11-11 | 2026-11-11 |
 | hexagon of opposition | — | 对当六角形 | 首现（william-sherwood） | 学界惯例（舍伍德纳入单称命题后的方阵扩展）；凭证 2026-11-07 | 2026-11-07 |
 | hexis | — | 习性状态 | john-italos | 亚里士多德伦理学通行（ἕξις；参见既有 esse habituale 行“习性”译法） | 2026-11-06 |
@@ -2375,6 +2378,7 @@
 | impartial spectator | — | 公正旁观者 | conscience 首译 | 学界通行（亚当·斯密术语）；凭证 2026-11-08 | 2026-11-08 |
 | impassibility | — | 不动情性 | petitionary-prayer | 神学通行译法（divine impassibility：不受外物影响）；凭证 2026-11-09 | 2026-11-09 |
 | imperative content | — | 命令式内容 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
+| imperfectivity | — | 不完全性 | intention | 首译（Thompson 2008）；凭证 2026-11-12 | 2026-11-12 |
 | imperialism | — | 帝国主义 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | impermanence | — | 无常 | japanese-aesthetics | 学界惯例（佛教哲学通行译法“无常”） | 2026-11-02 |
 | impetus | — | 冲力 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
@@ -2522,6 +2526,8 @@
 | intensional entity | — | 内涵性实体 | schema | 学界惯例（逻辑哲学通行） | 2026-11-06 |
 | intensional logic | — | 内涵逻辑 | 首译（sharpe） | 逻辑学通行（intensional 与 extensional 外延相对）；凭证 2026-11-09 | 2026-11-09 |
 | intensity interpretation | — | 强度解释 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| intention | — | 意图 | intention | 学界通行（行动哲学核心）；凭证 2026-11-12 | 2026-11-12 |
+| intention-with-which | — | 行动所带的意图 | intention | 学界通行（Anscombe；Davidson 兼范畴分析）；凭证 2026-11-12 | 2026-11-12 |
 | intentional action | — | 意向行动 | 语料回收（标题词） | 学界惯例（行动哲学核心（action 词条×53））；凭证 2026-11-01 | 2026-11-01 |
 | intentional agency | — | 意向性能动性 | innateness-cognition | 首译（Tomasello 2022）；凭证 2026-11-12 | 2026-11-12 |
 | intentional inexistence | — | 意向内的存在（布伦塔诺） | 语料回收（标题词） | 学界惯例（布伦塔诺现象学术语）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
@@ -2822,6 +2828,7 @@
 | Lie group | — | 李群 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | Lienü Zhuan | 列女傳 | 《列女传》 | han-dynasty | 刘向书，学界通行学名 | 2026-11-10 |
 | Liezi | 列子 | 《列子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
+| intention in action | — | 行动中的意图 | intention | 学界通行（Searle 1983）；凭证 2026-11-12 | 2026-11-12 |
 | life worth living | — | 值得过的生活 | repugnant-conclusion | 学界惯例；凭证 2026-11-11 | 2026-11-11 |
 | life-manifestation | — | 生命表现 | dilthey 首译 | 狄尔泰通行（Lebensausdruck/Lebensäußerung）；凭证 2026-11-10 | 2026-11-10 |
 | light cone | — | 光锥 | spacetime-convensimul | 学界惯例（相对论通行） | 2026-11-06 |
@@ -3350,6 +3357,7 @@
 | necromancy / geomancy / divination | — | 死灵术／地占术／占卜 | condemnation 首译 | 中世纪禁书类目通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | need of being heard (Vernehmungsbedürftigkeit) | Vernehmungsbedürftigkeit | 需被听闻性 | reinach | 本词条首译（源文括注德文）；凭证 2026-11-09；拉丁/德语原形即键（2026-11-10 取证） | 2026-11-09 |
 | Needham problem | 李约瑟问题 | 李约瑟问题 | chinese-phil-science | 学界通行；凭证 2026-11-07 | 2026-11-07 |
+| means-end coherence | — | 手段-目的融贯 | intention | 学界通行（Bratman）；凭证 2026-11-12 | 2026-11-12 |
 | negative attributes | — | 否定属性 | albo-joseph 首译 | 迈蒙尼德否定神学语境通行 | 2026-11-07 |
 | negative dialectics | — | 否定的辩证法 | adorno | 学界通行汉译（aesthetics-critical-theory 既定书名形沿用）；审定库无查询件（termonline-all 目录现查 2026-11-10） | 2026-11-10 |
 | negative heuristic | — | 反面启发法 | 语料回收（lakatos 首译） | 科学研究纲领方法论中译本通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -3934,6 +3942,7 @@
 | pragmatics | — | 语用学 | 首译（stebbing） | 语言学通行汉译（与句法学、语义学三分）；凭证 2026-11-09 | 2026-11-09 |
 | pragmatism | — | 实用主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | Prajñāpāramitā | — | 《般若波罗蜜多经》 | yogacara 首译 | 汉文古译（般若经类通称）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| practical reasoning | — | 实践推理 | intention | 学界通行；凭证 2026-11-12 | 2026-11-12 |
 | prajñapti | — | 假立（施设） | yogacara 首译 | 汉传佛典通行（假名／施设）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | prakāra | प्रकार | 能别（特征） | early-modern-india | 新正理知觉论（qualifier；与 viśeṣaṇa 互用）；凭证 2026-11-11 | 2026-11-11 |
 | pramā | प्रमा | 真认知（正智） | early-modern-india | 因明“正智/量果”通行（true cognition；与 pramāṇa 量对举）；凭证 2026-11-10；正文作“真认知”，因明旧译“正智”备查（校 2026-11-11）| 2026-11-10 |
@@ -4111,6 +4120,7 @@
 | prospect | — | 前景 | 首现（imprecise-probabilities） | 学界惯例（决策论通行）；凭证 2026-11-08 | 2026-11-08 |
 | prospect emotion | — | 预期情绪 | paradox-suspense | 构词直译（Ortony/Clore/Collins 的情绪分类：prospect emotions）；凭证 2026-11-09 | 2026-11-09 |
 | prospect theory | — | 前景理论 | risk | 学界惯例（Kahneman & Tversky；亦作“展望理论”）；凭证 2026-11-09 | 2026-11-09 |
+| prospective intention | — | 面向未来的意图 | intention | 学界通行（与 intention in action 对举）；凭证 2026-11-12 | 2026-11-12 |
 | protectionism | — | 贸易保护主义 | cosmopolitanism | 学界通行（国际贸易政治经济学）；与美学域 aesthetic protectionism 区分；凭证 2026-11-09 | 2026-11-09 |
 | protective agency | — | 保护性能动 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | protective belt | — | 保护带 | 语料回收（lakatos 首译） | 科学研究纲领方法论通行译法；凭证 2026-11-06 | 2026-11-06 |

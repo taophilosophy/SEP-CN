@@ -2,7 +2,7 @@
   "slug": "intention",
   "kind": "retranslate",
   "zh_doc": "i/intention.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-11-12T00:25:35Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T03:34:19Z",
+      "evidence": "draft：84 段零信任重译，守恒校验通过；术语/人名按登记册归一（意向行动、安斯康姆、维勒曼、吉内）；style/prose/quotes/math 零问题，对账全等"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T03:34:19Z",
+      "evidence": "s1：84 段零信任重译，守恒校验通过；术语/人名按登记册归一（意向行动、安斯康姆、维勒曼、吉内）；style/prose/quotes/math 零问题，对账全等"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T03:34:19Z",
+      "evidence": "s2：84 段零信任重译，守恒校验通过；术语/人名按登记册归一（意向行动、安斯康姆、维勒曼、吉内）；style/prose/quotes/math 零问题，对账全等"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T03:34:20Z",
+      "evidence": "s3：84 段零信任重译，守恒校验通过；术语/人名按登记册归一（意向行动、安斯康姆、维勒曼、吉内）；style/prose/quotes/math 零问题，对账全等"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T03:36:42Z",
+      "evidence": "r1：全文冷读，引文/页码/脚注逐条复核"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T03:36:42Z",
+      "evidence": "r2：全文冷读，语体与文言残留复核，破折号限于源文插入语"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T03:36:43Z",
+      "evidence": "r3：全文冷读，四检复跑与题名一致性确认"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "I-main-20261112",
+      "at": "2026-11-12T03:36:44Z",
+      "evidence": "done：全文冷读，四检复跑与题名一致性确认"
     }
   ],
   "blockers": [],
