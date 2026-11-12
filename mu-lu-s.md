@@ -1307,7 +1307,7 @@ outline: [1, 6]
 * [内涵及物动词 intensional transitive verbs (Graeme Forbes)](i/intensional-trans-verbs.md)
 * [说谎者悖论 liar paradox (Jc Beall, Michael Glanzberg, Ellie Ripley, and Lorenzo Rossi)](l/liar-paradox.md)
 * [物质名词的逻辑 logic of (David Nicolas)](l/logic-massexpress.md)
-* [动态语义 dynamic (Rick Nouwen, Adrian Brasoveanu, Jan van Eijck, and Albert Visser)](d/dynamic-semantics.md)
+* [动态语义 dynamic semantics (Rick Nouwen, Adrian Brasoveanu, Jan van Eijck, and Albert Visser)](d/dynamic-semantics.md)
 * [手语语义学 Sign Language Semantics (Philippe Schlenker, Jonathan Lamberton, and Jeremy Kuhn)](s/sign-language-semantics.md)
 * [蒙太古语义学 Montague (Theo M. V. Janssen and Thomas Ede Zimmermann)](m/montague-semantics.md)
 * [证明论语义 proof-theoretic (Peter Schroeder-Heister)](p/proof-theoretic-semantics.md)

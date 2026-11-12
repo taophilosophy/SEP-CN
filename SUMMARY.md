@@ -2423,7 +2423,7 @@
 * [\*语义整体论——见意义整体论 semantic holism — see meaning holism](m/meaning-holism.md)
 * [\*语义 semantics](README.md)
   * [\*默认——见语义和语用中的默认 Defaults in Semantics and Pragmatics — see defaults in semantics and pragmatics](d/defaults-semantics-pragmatics.md)
-  * [动态语义 dynamic (Rick Nouwen, Adrian Brasoveanu, Jan van Eijck, and Albert Visser)](d/dynamic-semantics.md)
+  * [动态语义 dynamic semantics (Rick Nouwen, Adrian Brasoveanu, Jan van Eijck, and Albert Visser)](d/dynamic-semantics.md)
   * [蒙太古语义学 Montague (Theo M. V. Janssen and Thomas Ede Zimmermann)](m/montague-semantics.md)
   * [证明论语义 proof-theoretic (Peter Schroeder-Heister)](p/proof-theoretic-semantics.md)
   * [\*手语语义学——见手语语义学 Sign Language Semantics — see sign language semantics](s/sign-language-semantics.md)
