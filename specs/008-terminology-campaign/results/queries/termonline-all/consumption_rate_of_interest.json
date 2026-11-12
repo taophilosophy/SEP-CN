@@ -2,10 +2,347 @@
  "key": "consumption rate of interest",
  "term": "consumption rate of interest",
  "provider": "termonline-all",
- "queried_at": "2026-11-11T22:08:21+00:00",
- "status": "error",
- "note": "variant=consumption rate of interest; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "consumption rate of interest: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T03:46:43+00:00",
+ "status": "ok",
+ "note": "variant=consumption rate of interest; 审定公布名词库=10000; 海峡两岸名词对照库=8529; 其他来源数据库=2065; 预公布名词数据库=2921; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "利率",
+   "en": "interest rate",
+   "code": "13.003",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_化工技术经济"
+  },
+  {
+   "cn": "利率",
+   "en": "interest rate",
+   "code": "07.0028",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_金融工程_基本概念"
+  },
+  {
+   "cn": "燃料消耗量",
+   "en": "fuel consumption,fuel consumption rate",
+   "code": "24.0176",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_动力机械_内燃机_发动机设计和运行"
+  },
+  {
+   "cn": "燃料消耗量",
+   "en": "fuel consumption,fuel consumption rate",
+   "code": "24.0176",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_动力机械_锅炉_参数"
+  },
+  {
+   "cn": "基质消耗速率",
+   "en": "substrate consumption rate",
+   "code": "03.082",
+   "standard": "化工名词（六）生物化工",
+   "subject": "化工（六）_生物反应工程与生物反应器_发酵工程_混合微生物发酵"
+  },
+  {
+   "cn": "单位耗水率",
+   "en": "water consumption rate",
+   "code": "16.091",
+   "standard": "电力名词",
+   "subject": "电力_水电站机电设备"
+  },
+  {
+   "cn": "燃油消耗率",
+   "en": "fuel consumption rate",
+   "code": "02.1281",
+   "standard": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "subject": "化工（一）_分析、化验、评定"
+  },
+  {
+   "cn": "氧消耗率",
+   "en": "oxygen consumption rate",
+   "code": "04.254",
+   "standard": "药学名词",
+   "subject": "药学_微生物药学"
+  },
+  {
+   "cn": "氧消耗速率",
+   "en": "oxygen consumption rate",
+   "code": "08.052",
+   "standard": "微生物学名词",
+   "subject": "微生物学_应用微生物学"
+  },
+  {
+   "cn": "比消耗速率",
+   "en": "specific consumption rate",
+   "code": "06.184",
+   "standard": "化学工程名词",
+   "subject": "化学工程_生物化学工程_生化反应工程_细胞生长与代谢"
+  },
+  {
+   "cn": "耗氧速率",
+   "en": "oxygen consumption rate",
+   "code": "06.203",
+   "standard": "化学工程名词",
+   "subject": "化学工程_生物化学工程_生化反应工程_细胞生长与代谢"
+  },
+  {
+   "cn": "阳极消耗率",
+   "en": "anode consumption rate",
+   "code": "09.0359",
+   "standard": "石油名词",
+   "subject": "石油_油气收集与储运工程_油田集输的腐蚀"
+  },
+  {
+   "cn": "利率",
+   "en": "rate of interest",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "耗氧速率",
+   "en": "oxygen consumption rate",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "氧消耗率",
+   "en": "oxygen consumption rate",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "本身利率",
+   "en": "own rate of interest",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "边际利率",
+   "en": "marginal rate of interest",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "贷款利率",
+   "en": "lending rate of interest",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "负利率",
+   "en": "negative rate of interest",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "货币利率",
+   "en": "money rate of interest",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "基本利率",
+   "en": "basic rate of interest",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "均衡利率",
+   "en": "equilibrium rate of interest",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "利率管制",
+   "en": "control of interest rate",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "利率结构",
+   "en": "structure of interest rate",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "利率风险",
+   "en": "interest rate risk",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "服务消费",
+   "en": "consumption of services",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_社会治理"
+  },
+  {
+   "cn": "实物消费",
+   "en": "consumption of products ",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_社会治理"
+  },
+  {
+   "cn": "无风险利率",
+   "en": "risk-free interest rate",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "消费多元化",
+   "en": "diversified consumption",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "协同消费",
+   "en": "collaborative consumption",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "移动消费",
+   "en": "mobile consumption",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "智慧用能",
+   "en": "intelligent energy consumption",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "定级",
+   "en": "rating",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "兴趣点推荐",
+   "en": "point-of-interest recommendation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "消费贷款利率风险定价",
+   "en": "risk-based pricing of interest rates in consumer loans",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "消费扶贫体验活动",
+   "en": "experience of poverty alleviation through consumption",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "利息率",
+   "en": "interest rate",
+   "code": "02.0237",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "消费",
+   "en": "consumption",
+   "code": "02.0024",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "消费社会学",
+   "en": "sociology of consumption",
+   "code": "3.5.3.41",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_经济社会学_新经济社会学"
+  },
+  {
+   "cn": "消费文化",
+   "en": "culture of consumption",
+   "code": "3.5.3.44",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_经济社会学_新经济社会学"
+  },
+  {
+   "cn": "卫生消费弹性系数",
+   "en": "elasticity of health consumption",
+   "code": "2.4.3.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生总费用_卫生总费用分析"
+  },
+  {
+   "cn": "炫耀性消费",
+   "en": "conspicuous consumption",
+   "code": "3.5.3.28",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_经济社会学_新经济社会学"
+  },
+  {
+   "cn": "符号消费",
+   "en": "symbolic consumption",
+   "code": "3.5.3.42",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_经济社会学_新经济社会学"
+  },
+  {
+   "cn": "文化消费",
+   "en": "cultural consumption",
+   "code": "3.8.3.28",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_文化社会学_文化的制度结构"
+  },
+  {
+   "cn": "个人消费",
+   "en": "individual consumption",
+   "code": "02.0157",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "生产消费",
+   "en": "productive consumption",
+   "code": "02.0158",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "消费异化",
+   "en": "consumption alienation",
+   "code": "05.0080",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "健康消费",
+   "en": "health consumption",
+   "code": "3.1.3.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_健康需求_健康需求"
+  }
+ ],
+ "error": null,
  "raw": null
 }

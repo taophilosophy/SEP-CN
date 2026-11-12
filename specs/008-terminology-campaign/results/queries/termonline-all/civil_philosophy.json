@@ -2,10 +2,347 @@
  "key": "civil philosophy",
  "term": "civil philosophy",
  "provider": "termonline-all",
- "queried_at": "2026-11-11T22:08:20+00:00",
- "status": "error",
- "note": "variant=civil philosophy; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "civil philosophy: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T03:43:43+00:00",
+ "status": "ok",
+ "note": "variant=civil philosophy; 审定公布名词库=219; 海峡两岸名词对照库=35; 其他来源数据库=30; 预公布名词数据库=57; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "文明",
+   "en": "civilization",
+   "code": "11.038",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_国际传播_全球传播"
+  },
+  {
+   "cn": "机械论哲学",
+   "en": "mechanical philosophy",
+   "code": "03.032",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学实在论"
+  },
+  {
+   "cn": "系统哲学",
+   "en": "systems philosophy",
+   "code": "03.777",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学"
+  },
+  {
+   "cn": "政治哲学",
+   "en": "political philosophy",
+   "code": "03.813",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学"
+  },
+  {
+   "cn": "社会哲学",
+   "en": "social philosophy",
+   "code": "03.814",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学"
+  },
+  {
+   "cn": "编辑思想",
+   "en": "editorial philosophy",
+   "code": "01.02.006",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_综论_编辑基础"
+  },
+  {
+   "cn": "HELP哲学观",
+   "en": "HELP philosophy",
+   "code": "06.064",
+   "standard": "运动医学名词",
+   "subject": "运动医学_医务监督_体适能"
+  },
+  {
+   "cn": "信息哲学",
+   "en": "information philosophy",
+   "code": "01.179",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_图书馆学情报学基础_情报学"
+  },
+  {
+   "cn": "图书馆哲学",
+   "en": "library philosophy",
+   "code": "01.120",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_图书馆学情报学基础_图书馆学"
+  },
+  {
+   "cn": "管理哲学",
+   "en": "management philosophy",
+   "code": "01.0023",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_基本概念"
+  },
+  {
+   "cn": "制造理念",
+   "en": "manufacturing philosophy",
+   "code": "05.0024",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_生产运作管理与工业工程_生产运作管理"
+  },
+  {
+   "cn": "教父哲学",
+   "en": "patristic philosophy",
+   "code": "04.044",
+   "standard": "教育学名词",
+   "subject": "教育学_外国教育史_古代"
+  },
+  {
+   "cn": "地理学哲学",
+   "en": "geographical philosophy",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "政治哲学",
+   "en": "political philosophy",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "自然环境保护哲学",
+   "en": "conservationist philosophy",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "民用日",
+   "en": "civil day",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "民用时",
+   "en": "civil time",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "民用晨昏蒙影",
+   "en": "civil twilight",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "民用年",
+   "en": "civil year",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "民用日",
+   "en": "civil day",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "民用时",
+   "en": "civil time",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "民用日",
+   "en": "civil day",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "民用时",
+   "en": "civil time",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "民船",
+   "en": "civil ship",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "生态文明理念",
+   "en": "the philosophy of ecological civilization",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据哲学",
+   "en": "Data Philosophy",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "治理理念",
+   "en": "governance philosophy",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "民事权利",
+   "en": "civil rights",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "民法典",
+   "en": "civil code",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "民用航空",
+   "en": "Civil aviation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "公民社会",
+   "en": "civil society",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "土木工程",
+   "en": "civil engineering",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生态文明",
+   "en": "Industrial civilization",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "文明",
+   "en": "Wenming (Civilization)",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "同理心文明",
+   "en": "empathic civilization",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数字文明",
+   "en": "digital civilization",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "哲学",
+   "en": "philosophy",
+   "code": "01.0001",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "文明",
+   "en": "civilization",
+   "code": "2.2.4.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_文化与文明_文明"
+  },
+  {
+   "cn": "文明",
+   "en": "civilization",
+   "code": "1.0021",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "社会哲学",
+   "en": "social philosophy",
+   "code": "2.1.7.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会意识"
+  },
+  {
+   "cn": "马克思主义哲学",
+   "en": "Marxist philosophy",
+   "code": "01.0002",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "思辩哲学",
+   "en": "speculative philosophy",
+   "code": "01.0102",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "实践哲学",
+   "en": "practical philosophy",
+   "code": "05.0009",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "无调哲学",
+   "en": "atonal philosophy",
+   "code": "05.0030",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "星丛哲学",
+   "en": "constellation philosophy",
+   "code": "05.0031",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "医学哲学",
+   "en": "medical philosophy",
+   "code": "1.1740000000000002",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科"
+  },
+  {
+   "cn": "道德哲学",
+   "en": "moral philosophy",
+   "code": "1.0070000000000001",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "公民自治",
+   "en": "civil autonomy",
+   "code": "1.1.2.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想"
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -2,10 +2,46 @@
  "key": "bliss",
  "term": "Bliss",
  "provider": "termonline-all",
- "queried_at": "2026-11-11T22:08:18+00:00",
- "status": "error",
- "note": "variant=Bliss; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Bliss: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T03:39:13+00:00",
+ "status": "ok",
+ "note": "variant=Bliss; 审定公布名词库=4; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "布利斯分类法",
+   "en": "Bliss Classification,Bliss Bibliographic Classification,BC",
+   "code": "04.181",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_分类法"
+  },
+  {
+   "cn": "蓝激光成像技术",
+   "en": "blue laser imaging;BLI",
+   "code": "7.018",
+   "standard": "消化内镜学名词",
+   "subject": "消化内镜学_消化内镜诊断技术_图像增强内镜检查术"
+  },
+  {
+   "cn": "叶盘转子结构",
+   "en": "blisk rotor configuration",
+   "code": "05.144",
+   "standard": "航空科学技术名词",
+   "subject": "航空科学技术_推进技术与航空动力装置"
+  },
+  {
+   "cn": "一粒小麦",
+   "en": "einkorn wheat; Triticum boeoticum Boiss.",
+   "code": "02.029",
+   "standard": "农学名词",
+   "subject": "粮食作物_谷类作物"
+  },
+  {
+   "cn": "布利斯",
+   "en": "Bliss\",\"Arthur(英国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  }
+ ],
+ "error": null,
  "raw": null
 }

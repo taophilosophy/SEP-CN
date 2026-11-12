@@ -1,0 +1,348 @@
+{
+ "key": "cogito ergo sum",
+ "term": "cogito ergo sum",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T03:43:43+00:00",
+ "status": "ok",
+ "note": "variant=cogito ergo sum; 审定公布名词库=700; 海峡两岸名词对照库=194; 其他来源数据库=20; 预公布名词数据库=40; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "和",
+   "en": "sum",
+   "code": "04.0010",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_算术"
+  },
+  {
+   "cn": "梯图求和",
+   "en": "ladder sum",
+   "code": "05.0971",
+   "standard": "物理学名词",
+   "subject": "物理学_热学、统计物理学_统计物理学"
+  },
+  {
+   "cn": "求和定则",
+   "en": "sum rule",
+   "code": "04.1741",
+   "standard": "物理学名词",
+   "subject": "物理学_光学、声学_光学_光谱学、激光、非线性光学"
+  },
+  {
+   "cn": "矢量[求]和",
+   "en": "vector sum",
+   "code": "01.0369",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_数学"
+  },
+  {
+   "cn": "平方和",
+   "en": "quadratic sum",
+   "code": "01.0321",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_数学"
+  },
+  {
+   "cn": "格点和",
+   "en": "lattice sum",
+   "code": "08.0411",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_结构"
+  },
+  {
+   "cn": "和频",
+   "en": "sum frequency",
+   "code": "04.2374",
+   "standard": "物理学名词",
+   "subject": "物理学_光学、声学_光学_光谱学、激光、非线性光学"
+  },
+  {
+   "cn": "检验和",
+   "en": "check sum",
+   "code": "03.0259",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机体系结构_处理系统"
+  },
+  {
+   "cn": "和检测",
+   "en": "sum check",
+   "code": "02.0371",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "暂列金额",
+   "en": "provisional sum",
+   "code": "09.0328",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_项目管理与工程管理_费用管理"
+  },
+  {
+   "cn": "暂估价",
+   "en": "provisional sum",
+   "code": "05.0033",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑经济_工程造价"
+  },
+  {
+   "cn": "距离和",
+   "en": "range sum",
+   "code": "07.398",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天测控与通信"
+  },
+  {
+   "cn": "保证金额",
+   "en": "guarantee sum",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "和波束",
+   "en": "sum beam",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "平方和",
+   "en": "sum of squares",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "零和博弈,零和对策",
+   "en": "zero sum game",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "秩和检验",
+   "en": "rank-sum test",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "一次总付补助金",
+   "en": "lump-sum subsidy",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "一次总付税",
+   "en": "lump-sum tax",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "一次总付制度",
+   "en": "lump-sum system",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "一揽子投资",
+   "en": "lump-sum interest",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "整笔付清费用",
+   "en": "lump-sum fee",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "总额清算",
+   "en": "lump-sum settlement",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "伪多色射线和",
+   "en": "pseudopolychromatic ray sum",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "沙漠",
+   "en": "Erg",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "非参数回归",
+   "en": "Multinomial logit",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "ERG理论",
+   "en": "ERG Theory",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "植物胶",
+   "en": "gum",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "相扑",
+   "en": "sumo",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "口香糖",
+   "en": "Chewing gum",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "真太阳",
+   "en": "true sun",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "黄原胶",
+   "en": "Xanthan gum",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "侗水语支",
+   "en": "Kam–Sui peoples",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "亚符号表示",
+   "en": "sub-symbolic representation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "次烟煤",
+   "en": "Sub-Bituminous coal",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "少子化",
+   "en": "Sub-replacement fertility",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "零和权力",
+   "en": "zero-sum power",
+   "code": "3.6.2.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_政治社会学_权力与支配"
+  },
+  {
+   "cn": "“一笔过”拨款",
+   "en": "lump sum grant",
+   "code": "4.4.3.28",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施"
+  },
+  {
+   "cn": "松巴堪布益喜班觉",
+   "en": "Sum pa ye shes dpal vbyor",
+   "code": "3.0412",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_藏学"
+  },
+  {
+   "cn": "酸酯总量",
+   "en": "sum of total acid and total ester",
+   "code": "5.12.5.7",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_酒类"
+  },
+  {
+   "cn": "麦角",
+   "en": "ergot",
+   "code": "5.1.29",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_粮食"
+  },
+  {
+   "cn": "对数单位",
+   "en": "logit",
+   "code": "1.2.5.102",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "麦角生物碱",
+   "en": "ergot alkaloid",
+   "code": "2.2.5.13",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品化学性危害因素"
+  },
+  {
+   "cn": "对数单位模型",
+   "en": "logit model",
+   "code": "1.2.5.103",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "贫民窟",
+   "en": "slum",
+   "code": "3.4.8.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_城市社会学_城市贫困与不平等"
+  },
+  {
+   "cn": "苏穆人",
+   "en": "Sumu",
+   "code": "6.0398",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_世界民族_美洲地区"
+  },
+  {
+   "cn": "朗姆酒",
+   "en": "rum",
+   "code": "5.12.2.5",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_酒类"
+  },
+  {
+   "cn": "亚文化",
+   "en": "sub-culture",
+   "code": "2.2.1.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_文化与文明_文化概念"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

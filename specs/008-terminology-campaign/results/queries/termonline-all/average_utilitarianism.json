@@ -2,10 +2,340 @@
  "key": "average utilitarianism",
  "term": "average utilitarianism",
  "provider": "termonline-all",
- "queried_at": "2026-11-11T22:08:16+00:00",
- "status": "error",
- "note": "variant=average utilitarianism; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "average utilitarianism: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T03:39:13+00:00",
+ "status": "ok",
+ "note": "variant=average utilitarianism; 审定公布名词库=496; 海峡两岸名词对照库=238; 其他来源数据库=11; 预公布名词数据库=110; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "效用论",
+   "en": "utilitarianism",
+   "code": "08.089",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科技伦理_医学伦理学"
+  },
+  {
+   "cn": "功利主义",
+   "en": "utilitarianism",
+   "code": "14.003",
+   "standard": "经济学名词",
+   "subject": "经济学_经济思想史"
+  },
+  {
+   "cn": "功利主义伦理学",
+   "en": "utilitarianism ethics",
+   "code": "08.027",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科技伦理_常规技术伦理"
+  },
+  {
+   "cn": "行动效用论",
+   "en": "act-utilitarianism",
+   "code": "08.090",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科技伦理_医学伦理学"
+  },
+  {
+   "cn": "规则效用论",
+   "en": "rule-utilitarianism",
+   "code": "08.091",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科技伦理_医学伦理学"
+  },
+  {
+   "cn": "平均数",
+   "en": "average",
+   "code": "06.124",
+   "standard": "全科医学与社区卫生名词",
+   "subject": "全科医学与社区卫生_社区公共卫生"
+  },
+  {
+   "cn": "海损",
+   "en": "average",
+   "code": "10.091",
+   "standard": "水产名词",
+   "subject": "水产_渔业工程与渔港"
+  },
+  {
+   "cn": "伦理的功利观",
+   "en": "utilitarian view of ethics",
+   "code": "01.0029",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_基本概念"
+  },
+  {
+   "cn": "平均寿命",
+   "en": "average life",
+   "code": "03.875",
+   "standard": "急救医学名词",
+   "subject": "急救医学_日常医学急救_老年学_老年流行病学"
+  },
+  {
+   "cn": "报刊中度读者",
+   "en": "average reader",
+   "code": "05.01.049",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_发行与经营_发行基础"
+  },
+  {
+   "cn": "平均受众",
+   "en": "average audience",
+   "code": "19.134",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传媒经济_传媒经济研究"
+  },
+  {
+   "cn": "平均接触率",
+   "en": "average frequency",
+   "code": "19.148",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传媒经济_传媒经济研究"
+  },
+  {
+   "cn": "功利主义",
+   "en": "utilitarianism",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "功利主义",
+   "en": "utilitarianism",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "功利主义者",
+   "en": "utilitarians",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "平均",
+   "en": "average",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "海损",
+   "en": "average",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "海损理算员",
+   "en": "averager",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "集成平均",
+   "en": "consensus average\",\"consensus averaging",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "长期平均，周期平均",
+   "en": "period average",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "平均功率",
+   "en": "average power",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "平均偏差",
+   "en": "average departure",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "平均速度",
+   "en": "average velocity",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "平均误差",
+   "en": "average error",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "得失分率",
+   "en": "goal-average\",\"point average",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_篮球名词"
+  },
+  {
+   "cn": "平均数",
+   "en": "Mean, Average",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "得失分率",
+   "en": "goal-average",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "C值",
+   "en": "set-average",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_排球名词"
+  },
+  {
+   "cn": "Z值",
+   "en": "point average",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_排球名词"
+  },
+  {
+   "cn": "分段平均成绩",
+   "en": "partial average time",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "分段平均时间",
+   "en": "partial average time",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "指数平滑移动平均线",
+   "en": "Moving Average Convergence and Divergence",
+   "code": null,
+   "standard": "外语中文译写规范部际联席会议专家委员会",
+   "subject": "其他"
+  },
+  {
+   "cn": "企业平均数据中心效率",
+   "en": "corporate average data center efficiency (CADE)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "全民参保精准识别",
+   "en": "accurate identification for universal social insurance coverage",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "各国应该联手加大宏观政策对冲力度。",
+   "en": "Countries need to leverage and coordinate their macro policies to counteract the negative impact.",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "合作抗疫_国际合作"
+  },
+  {
+   "cn": "功利论",
+   "en": "utilitarianism",
+   "code": "2.008",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医学伦理学的基本理论与基本观点"
+  },
+  {
+   "cn": "功利",
+   "en": "utilitarian",
+   "code": "1.126",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "行为功利论",
+   "en": "act utilitarianism",
+   "code": "2.01",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医学伦理学的基本理论与基本观点"
+  },
+  {
+   "cn": "规则功利论",
+   "en": "rule utilitarianism",
+   "code": "2.009",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医学伦理学的基本理论与基本观点"
+  },
+  {
+   "cn": "平均利润",
+   "en": "average profit",
+   "code": "02.0220",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "平均共产主义",
+   "en": "Average communism",
+   "code": "04.0285",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期"
+  },
+  {
+   "cn": "平均产量",
+   "en": "average production",
+   "code": "5.2.7.2.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务生产"
+  },
+  {
+   "cn": "平均成本",
+   "en": "average cost",
+   "code": "5.3.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务供给成本"
+  },
+  {
+   "cn": "家庭平均户规模",
+   "en": "average family size",
+   "code": "4.5.8.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_人口社会学_婚姻与家庭"
+  },
+  {
+   "cn": "平均固定成本",
+   "en": "average fixed cost",
+   "code": "5.3.2.2.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务供给成本"
+  },
+  {
+   "cn": "平均可变成本",
+   "en": "average variable cost",
+   "code": "5.3.2.2.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务供给成本"
+  },
+  {
+   "cn": "一般性危险型",
+   "en": "average risk type",
+   "code": "7.3.4",
+   "standard": "社会医学名词",
+   "subject": "健康管理"
+  }
+ ],
+ "error": null,
  "raw": null
 }

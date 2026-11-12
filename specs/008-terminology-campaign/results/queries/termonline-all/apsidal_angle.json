@@ -2,10 +2,277 @@
  "key": "apsidal angle",
  "term": "apsidal angle",
  "provider": "termonline-all",
- "queried_at": "2026-11-11T22:08:11+00:00",
- "status": "error",
- "note": "variant=apsidal angle; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "apsidal angle: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T03:36:12+00:00",
+ "status": "ok",
+ "note": "variant=apsidal angle; 审定公布名词库=1368; 海峡两岸名词对照库=405; 其他来源数据库=24; 预公布名词数据库=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "拱线",
+   "en": "apsidal line",
+   "code": "03.056",
+   "standard": "天文学名词",
+   "subject": "天文学_天体力学"
+  },
+  {
+   "cn": "拱线共振",
+   "en": "apsidal resonance",
+   "code": "03.178",
+   "standard": "天文学名词",
+   "subject": "天文学_天体力学"
+  },
+  {
+   "cn": "角",
+   "en": "angle",
+   "code": "08.0028",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_欧几里得几何学"
+  },
+  {
+   "cn": "平面角",
+   "en": "angle,plane angle",
+   "code": "02.005",
+   "standard": "计量学名词",
+   "subject": "计量学_几何量_基础名词"
+  },
+  {
+   "cn": "角度传感器",
+   "en": "angle transducer,angle sensor",
+   "code": "06.0064",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械测量与控制_机械传感器"
+  },
+  {
+   "cn": "高度角",
+   "en": "elevation angle,altitude angle",
+   "code": "02.253",
+   "standard": "测绘学名词",
+   "subject": "测绘学_大地测量学与导航定位"
+  },
+  {
+   "cn": "关断角",
+   "en": "extinction angle,margin angle",
+   "code": "21.112",
+   "standard": "电力名词",
+   "subject": "电力_高压直流输电"
+  },
+  {
+   "cn": "高炉炉身角",
+   "en": "stack angle,shaft angle",
+   "code": "05.0832",
+   "standard": "冶金学名词",
+   "subject": "冶金学_钢铁冶金_炼铁"
+  },
+  {
+   "cn": "掠射角",
+   "en": "glancing angle,grazing angle",
+   "code": "04.0122",
+   "standard": "物理学名词",
+   "subject": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学"
+  },
+  {
+   "cn": "偏移角",
+   "en": "offset angle,shift angle",
+   "code": "02.0431",
+   "standard": "物理学名词",
+   "subject": "物理学_力学"
+  },
+  {
+   "cn": "辙叉角",
+   "en": "frog angle,crossing angle",
+   "code": "08.268",
+   "standard": "土木工程名词",
+   "subject": "土木工程_铁路工程_道岔"
+  },
+  {
+   "cn": "视角",
+   "en": "visual angle,viewing angle",
+   "code": "22.123",
+   "standard": "电气工程名词",
+   "subject": "电气工程_电气照明"
+  },
+  {
+   "cn": "拱线",
+   "en": "apsidal line",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "拱线",
+   "en": "apsidal line",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "拱线进动",
+   "en": "advance of apsidal line\",\"apsidal motion",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "角[度]",
+   "en": "angle",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "高度角",
+   "en": "elevation angle\",\"altitude angle",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "时角",
+   "en": "hour angle\",\"meridian angle",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "视角",
+   "en": "visual angle\",\"vision angle",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "反射角",
+   "en": "reflection angle\",\"reflecting angle",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "舵角",
+   "en": "helm angle\",\"rudder angle",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "舵角",
+   "en": "rudder angle\",\"helm angle",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "横摇角",
+   "en": "roll-angle\",\"rolling angle",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "临界角",
+   "en": "critical angle\",\"danger angle",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "角",
+   "en": "angle",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "二面角",
+   "en": "dihedral angle",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "箭靶角度",
+   "en": "buttress angle",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "羽片角度",
+   "en": "fletching angle",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "太阳高度角",
+   "en": "solar elevation angle",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "小梁网",
+   "en": "Anterior chamber angle",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "攻角",
+   "en": "Angle of attack",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "出手角度",
+   "en": "angle of release",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "助跑角度",
+   "en": "angle of approach",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "起跳角度",
+   "en": "take-off angle",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跳水名词"
+  },
+  {
+   "cn": "小角度射门",
+   "en": "sharp-angled shot",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "起跳角度",
+   "en": "angle of the take-off",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "固定立体角法",
+   "en": "defined-solid angle counting method",
+   "code": "5.1.1.13",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量"
+  },
+  {
+   "cn": "盎格鲁-萨克逊人",
+   "en": "Anglo-Saxon",
+   "code": "6.0304",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_世界民族_欧洲地区"
+  }
+ ],
+ "error": null,
  "raw": null
 }

@@ -1,0 +1,96 @@
+{
+ "key": "circumstance",
+ "term": "circumstance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T03:43:43+00:00",
+ "status": "ok",
+ "note": "variant=circumstance; 审定公布名词库=7; 海峡两岸名词对照库=4; 其他来源数据库=1; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "气候环境",
+   "en": "climatic circumstance ",
+   "code": "3.0507",
+   "standard": "草学名词",
+   "subject": "草学_草地资源与利用"
+  },
+  {
+   "cn": "噪声环境",
+   "en": "noise circumstance",
+   "code": "01.0370",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震科学总论"
+  },
+  {
+   "cn": "气候环境",
+   "en": "climatic circumstance",
+   "code": "08.048",
+   "standard": "资源科学技术名词",
+   "subject": "资源科学技术_气候资源学"
+  },
+  {
+   "cn": "特殊情况",
+   "en": "special circumstances",
+   "code": "09.0159",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_船舶操纵与避碰"
+  },
+  {
+   "cn": "交食概况",
+   "en": "circumstances of eclipse",
+   "code": "03.133",
+   "standard": "天文学名词",
+   "subject": "天文学_天体力学"
+  },
+  {
+   "cn": "睡眠环境",
+   "en": "circumstances for sleep",
+   "code": "5.154",
+   "standard": "睡眠医学名词",
+   "subject": "睡眠医学_睡眠疾病治疗学_睡眠环境与睡眠卫生"
+  },
+  {
+   "cn": "低温环境混凝土",
+   "en": "concrete under cryogenic circumstance",
+   "code": "04.488",
+   "standard": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "subject": "化工（五）_工程建设_工程设计"
+  },
+  {
+   "cn": "特殊情况",
+   "en": "special circumstances",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "交食概况",
+   "en": "circumstances of eclipse",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "威风凛凛进行曲集",
+   "en": "March of Pomp and Circumstance",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "交货受阻通知书",
+   "en": "advice of circumstance preventing delivery",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "情节提取",
+   "en": "circumstance retrieval and reorganization",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

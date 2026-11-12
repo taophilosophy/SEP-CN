@@ -1,0 +1,348 @@
+{
+ "key": "charity",
+ "term": "charity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T03:43:43+00:00",
+ "status": "ok",
+ "note": "variant=charity; 审定公布名词库=749; 海峡两岸名词对照库=450; 其他来源数据库=13; 预公布名词数据库=16; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "慈善组织",
+   "en": "charity organization",
+   "code": "11.0552",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_公共管理_非政府组织管理"
+  },
+  {
+   "cn": "慈善学校",
+   "en": "charity school",
+   "code": "04.102",
+   "standard": "教育学名词",
+   "subject": "教育学_外国教育史_近现代"
+  },
+  {
+   "cn": "贫民日校",
+   "en": "charity day school",
+   "code": "04.104",
+   "standard": "教育学名词",
+   "subject": "教育学_外国教育史_近现代"
+  },
+  {
+   "cn": "义仓",
+   "en": "yi cang;charity granary",
+   "code": "5.2",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_隋唐五代_社会经济_田土租赋"
+  },
+  {
+   "cn": "义集",
+   "en": "yi ji;charity market",
+   "code": "8.444",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_明清_社会经济_工商等"
+  },
+  {
+   "cn": "安济坊",
+   "en": "an ji fang;charity ward",
+   "code": "6.305",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_两宋_社会经济_工商等"
+  },
+  {
+   "cn": "漏泽园",
+   "en": "lou ze yuan;charity cemetery",
+   "code": "6.307",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_两宋_社会经济_工商等"
+  },
+  {
+   "cn": "普济堂",
+   "en": "pu ji tang;charity hall",
+   "code": "8.445",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_明清_社会经济_工商等"
+  },
+  {
+   "cn": "广惠仓",
+   "en": "guang hui cang;public charity granary",
+   "code": "6.304",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_两宋_社会经济_工商等"
+  },
+  {
+   "cn": "明晰度",
+   "en": "clarity",
+   "code": "10.0252",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑物理_建筑声学"
+  },
+  {
+   "cn": "澄清度",
+   "en": "clarity",
+   "code": "06.098",
+   "standard": "药学名词",
+   "subject": "药学_药物分析"
+  },
+  {
+   "cn": "清晰性",
+   "en": "clarity",
+   "code": "04.319",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_控制技术_控制技术计算机应用"
+  },
+  {
+   "cn": "澄清度",
+   "en": "clarity",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "导向蛋白",
+   "en": "chartin",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "腔体",
+   "en": "cavity",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "奇偶性",
+   "en": "parity",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "稀有度",
+   "en": "rarity",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "奇偶性",
+   "en": "parity",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "奇偶[性]",
+   "en": "parity",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "空泡",
+   "en": "cavity",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "海图",
+   "en": "chart",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "图表",
+   "en": "chart",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "地图清晰性",
+   "en": "map clarity",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "关节腔",
+   "en": "articular cavity\",\"joint cavity",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "航海图",
+   "en": "chart\",\"nautical chart",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "胸腔",
+   "en": "thoracic cavity chest cavity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "体腔",
+   "en": "body cavity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "多腔磁控管",
+   "en": "Cavity magnetron",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "腹腔",
+   "en": "abdominal cavity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "鼓室",
+   "en": "tympanic cavity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "子宫腔",
+   "en": "Uterine cavity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "大清明",
+   "en": "Great Clarity and Brightness",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "海图",
+   "en": "Nautical chart",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "购买力平价",
+   "en": "Purchasing power parity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "元音图",
+   "en": "vowel diagramvowel chart",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "电子海图显示与信息系统",
+   "en": "ECDIS, Electronic Chart Display and Information System",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "慈善事业",
+   "en": "charity",
+   "code": "4.3.9.17",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会救助"
+  },
+  {
+   "cn": "施舍",
+   "en": "charity",
+   "code": "1.078",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "公益捐赠",
+   "en": "charity donation",
+   "code": "4.4.3.29",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施"
+  },
+  {
+   "cn": "慈善组织会社",
+   "en": "charity organization society",
+   "code": "4.4.2.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展"
+  },
+  {
+   "cn": "产次",
+   "en": "parity",
+   "code": "3.5.2.1.3",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_孕产期保健"
+  },
+  {
+   "cn": "贞操",
+   "en": "virtue/chastity",
+   "code": "3.2.2.14",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_女性主义"
+  },
+  {
+   "cn": "关节腔",
+   "en": "articular cavity",
+   "code": "1.2.2.4",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织"
+  },
+  {
+   "cn": "背景图",
+   "en": "context chart",
+   "code": "1.2.5.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "组织结构图",
+   "en": "organization chart",
+   "code": "2.5.9.11",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_群体和组织_组织结构"
+  },
+  {
+   "cn": "死因谱",
+   "en": "death chart",
+   "code": "2.5.4",
+   "standard": "社会医学名词",
+   "subject": "医学模式"
+  },
+  {
+   "cn": "关节腔穿刺",
+   "en": "joint cavity paracentesis",
+   "code": "1.5.1.34",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法"
+  },
+  {
+   "cn": "质量控制图",
+   "en": "quality control chart",
+   "code": "1.5.74",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险监测"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -2,10 +2,347 @@
  "key": "freedom of association",
  "term": "freedom of association",
  "provider": "termonline-all",
- "queried_at": "2026-11-11T22:58:27+00:00",
- "status": "error",
- "note": "variant=freedom of association; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "freedom of association: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T03:58:44+00:00",
+ "status": "ok",
+ "note": "variant=freedom of association; 审定公布名词库=10000; 海峡两岸名词对照库=7562; 其他来源数据库=1847; 预公布名词数据库=2732; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "自由",
+   "en": "freedom",
+   "code": "17.119",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_媒体与传播法_媒体责任与公共服务"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": "18.018",
+   "standard": "农学名词",
+   "subject": "农产品质量安全_农产品质量安全监测"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": "01.043",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_通论"
+  },
+  {
+   "cn": "言论自由",
+   "en": "freedom of speech",
+   "code": "17.054",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限"
+  },
+  {
+   "cn": "表达自由",
+   "en": "freedom of expression",
+   "code": "17.055",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限"
+  },
+  {
+   "cn": "信息自由",
+   "en": "freedom of information",
+   "code": "17.056",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": "01.1914",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_地震反演"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": "10.040",
+   "standard": "经济学名词",
+   "subject": "经济学_数量经济学"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": "04.0065",
+   "standard": "冶金学名词",
+   "subject": "冶金学_冶金物理化学_冶金过程热力学"
+  },
+  {
+   "cn": "信息自由",
+   "en": "freedom of information",
+   "code": "01.072",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_图书馆学情报学基础_一般概念"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": "02.0583",
+   "standard": "物理学名词",
+   "subject": "物理学_力学"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": "02.0216",
+   "standard": "化工名词(三)化学工程基础",
+   "subject": "化工（三）_化工热力学"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "自由度",
+   "en": "degree of freedom",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "外汇自由兑换",
+   "en": "exchange freedom",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "区位自由",
+   "en": "locational freedom",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "关联系数",
+   "en": "coefficient of association",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "观念联想",
+   "en": "association of ideas",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "星系协",
+   "en": "association of galaxies",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "自由",
+   "en": "Freedom",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "自由",
+   "en": "freedom",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_马术名词"
+  },
+  {
+   "cn": "信息自由",
+   "en": "freedom of information",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "自由度",
+   "en": "Degrees of freedom problem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "自由",
+   "en": "Acting Freely / Freedom",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "国际男子职业网球协会",
+   "en": "Association of Tennis Professionals",
+   "code": null,
+   "standard": "外语中文译写规范部际联席会议专家委员会",
+   "subject": "其他"
+  },
+  {
+   "cn": "纳米化学",
+   "en": "Degrees of freedom (physics and chemistry)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "关联规则",
+   "en": "association rule",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "级别协会",
+   "en": "class association",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "联想网络",
+   "en": "associative network",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "联想记忆",
+   "en": "associative memory",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "结合律",
+   "en": "associative property",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "自由",
+   "en": "freedom",
+   "code": "1.103",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "关联强度",
+   "en": "strength of association",
+   "code": "1.2.5.72",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "结社",
+   "en": "association",
+   "code": "1.0281",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "关联",
+   "en": "association",
+   "code": "1.2.5.69",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "协会",
+   "en": "association",
+   "code": "2.5.8.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_群体和组织_社团组织"
+  },
+  {
+   "cn": "差异交往理论",
+   "en": "theory of differential association",
+   "code": "2.10.2.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨"
+  },
+  {
+   "cn": "大众传媒的自由和责任",
+   "en": "freedom and responsibility of mass media",
+   "code": "3.8.2.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_文化社会学_大众传媒研究"
+  },
+  {
+   "cn": "团体标准",
+   "en": "association standard",
+   "code": "9.2.1.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生法规标准_放射卫生标准"
+  },
+  {
+   "cn": "同乡会",
+   "en": "hometown association",
+   "code": "1.1.2.41",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想"
+  },
+  {
+   "cn": "关联模型",
+   "en": "association model",
+   "code": "1.2.5.70",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "自由人联合体",
+   "en": "community association",
+   "code": "03.0018",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "自由联合",
+   "en": "free association",
+   "code": "03.0239",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  }
+ ],
+ "error": null,
  "raw": null
 }

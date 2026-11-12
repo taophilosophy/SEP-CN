@@ -2,10 +2,347 @@
  "key": "government house utilitarianism",
  "term": "Government House Utilitarianism",
  "provider": "termonline-all",
- "queried_at": "2026-11-11T22:58:28+00:00",
- "status": "error",
- "note": "variant=Government House Utilitarianism; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Government House Utilitarianism: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T04:03:14+00:00",
+ "status": "ok",
+ "note": "variant=Government House Utilitarianism; 审定公布名词库=830; 海峡两岸名词对照库=150; 其他来源数据库=243; 预公布名词数据库=126; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "效用论",
+   "en": "utilitarianism",
+   "code": "08.089",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科技伦理_医学伦理学"
+  },
+  {
+   "cn": "功利主义",
+   "en": "utilitarianism",
+   "code": "14.003",
+   "standard": "经济学名词",
+   "subject": "经济学_经济思想史"
+  },
+  {
+   "cn": "功利主义伦理学",
+   "en": "utilitarianism ethics",
+   "code": "08.027",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科技伦理_常规技术伦理"
+  },
+  {
+   "cn": "行动效用论",
+   "en": "act-utilitarianism",
+   "code": "08.090",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科技伦理_医学伦理学"
+  },
+  {
+   "cn": "规则效用论",
+   "en": "rule-utilitarianism",
+   "code": "08.091",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科技伦理_医学伦理学"
+  },
+  {
+   "cn": "机壳",
+   "en": "housing",
+   "code": "25.0129",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_动力机械_水轮机"
+  },
+  {
+   "cn": "政府",
+   "en": "government",
+   "code": "04.058",
+   "standard": "经济学名词",
+   "subject": "经济学_宏观经济学"
+  },
+  {
+   "cn": "管辖",
+   "en": "government",
+   "code": "01.144",
+   "standard": "语言学名词",
+   "subject": "语言学_理论语言学_核心术语"
+  },
+  {
+   "cn": "上门推销",
+   "en": "house-to-house selling",
+   "code": "08.0667",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_市场营销_营销组合"
+  },
+  {
+   "cn": "保障性住房",
+   "en": "subsidized housing,affordable housing",
+   "code": "05.022",
+   "standard": "城乡规划学名词",
+   "subject": "城乡规划学_社区与住房规划_住房政策与规划"
+  },
+  {
+   "cn": "住宅组团",
+   "en": "housing cluster,housing group",
+   "code": "07.0269",
+   "standard": "建筑学名词",
+   "subject": "建筑学_城乡规划_详细规划"
+  },
+  {
+   "cn": "伦理的功利观",
+   "en": "utilitarian view of ethics",
+   "code": "01.0029",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_基本概念"
+  },
+  {
+   "cn": "功利主义",
+   "en": "utilitarianism",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "功利主义",
+   "en": "utilitarianism",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "功利主义者",
+   "en": "utilitarians",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "宫",
+   "en": "sign\",\"house",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "干燥房",
+   "en": "drying house",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "电槽室",
+   "en": "cell house",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "保付商行",
+   "en": "confirming house",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "房地产经纪人",
+   "en": "house agent",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "公司内部汇票",
+   "en": "house bill",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "海关",
+   "en": "customs house",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "金融商行",
+   "en": "financial house",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "进口代办行",
+   "en": "indent house",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "靶房",
+   "en": "house",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "电子政府",
+   "en": "electronic government (e-government)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "移动政务",
+   "en": "mobile government (m-government)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "别墅",
+   "en": "country house”",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "内庭",
+   "en": "Inner House",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "高抛靶房",
+   "en": "high house",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "低抛靶房",
+   "en": "low house",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "智慧安居",
+   "en": "Smart Housing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "电子政务",
+   "en": "e-government",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "政府数据",
+   "en": "government data",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "政府信息",
+   "en": "government information",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "无缝隙政府",
+   "en": "seamless government",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "功利论",
+   "en": "utilitarianism",
+   "code": "2.008",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医学伦理学的基本理论与基本观点"
+  },
+  {
+   "cn": "功利",
+   "en": "utilitarian",
+   "code": "1.126",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "保障性住房",
+   "en": "government subsidized house",
+   "code": "4.3.8.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_住房保障服务"
+  },
+  {
+   "cn": "行为功利论",
+   "en": "act utilitarianism",
+   "code": "2.01",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医学伦理学的基本理论与基本观点"
+  },
+  {
+   "cn": "规则功利论",
+   "en": "rule utilitarianism",
+   "code": "2.009",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医学伦理学的基本理论与基本观点"
+  },
+  {
+   "cn": "治理",
+   "en": "governance",
+   "code": "3.6.2.12",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_政治社会学_权力与支配"
+  },
+  {
+   "cn": "治理",
+   "en": "governance",
+   "code": "6.1",
+   "standard": "社会医学名词",
+   "subject": "健康治理"
+  },
+  {
+   "cn": "茶肆",
+   "en": "tea house",
+   "code": "4.0112",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "赫尔大厦",
+   "en": "Hull House",
+   "code": "4.4.2.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展"
+  },
+  {
+   "cn": "牙行",
+   "en": "broker-house",
+   "code": "4.0081",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "公共住房",
+   "en": "public housing",
+   "code": "3.4.11.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_城市社会学_城市政策"
+  },
+  {
+   "cn": "住房社会政策",
+   "en": "housing policy",
+   "code": "4.3.3.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会政策对象及领域"
+  }
+ ],
+ "error": null,
  "raw": null
 }

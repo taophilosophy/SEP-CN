@@ -1,0 +1,33 @@
+{
+ "key": "arhat",
+ "term": "arhat",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-12T03:36:12+00:00",
+ "status": "ok",
+ "note": "variant=arhat; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "罗汉床",
+   "en": "arhat bed",
+   "code": "11.0256",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林艺术_陈设艺术"
+  },
+  {
+   "cn": "阿糖胸苷",
+   "en": "thymine arabinoside;araT",
+   "code": "6.0131",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_糖类_单糖_单糖衍生物"
+  },
+  {
+   "cn": "阿糖胸苷",
+   "en": "thymine arabinoside\",\"araT",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

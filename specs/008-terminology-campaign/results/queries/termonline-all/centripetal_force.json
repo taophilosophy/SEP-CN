@@ -2,10 +2,347 @@
  "key": "centripetal force",
  "term": "centripetal force",
  "provider": "termonline-all",
- "queried_at": "2026-11-11T22:08:20+00:00",
- "status": "error",
- "note": "variant=centripetal force; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "centripetal force: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T03:43:43+00:00",
+ "status": "ok",
+ "note": "variant=centripetal force; 审定公布名词库=1193; 海峡两岸名词对照库=261; 其他来源数据库=42; 预公布名词数据库=33; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "向心力",
+   "en": "centripetal force",
+   "code": "01.0303",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机构与机器人学_机构动力学"
+  },
+  {
+   "cn": "向心力",
+   "en": "centripetal force",
+   "code": "02.0160",
+   "standard": "物理学名词",
+   "subject": "物理学_力学"
+  },
+  {
+   "cn": "向心力",
+   "en": "centripetal force",
+   "code": null,
+   "standard": "力学名词",
+   "subject": "力学_力学通类"
+  },
+  {
+   "cn": "离心力和向心力",
+   "en": "centrifugal and centripetal forces",
+   "code": "19.178",
+   "standard": "地理学名词",
+   "subject": "地理学_城市地理学"
+  },
+  {
+   "cn": "向心叶轮",
+   "en": "centripetal wheel",
+   "code": "08.1279",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_传动_液力传动_叶轮及结构参数"
+  },
+  {
+   "cn": "向心加速度",
+   "en": "centripetal acceleration",
+   "code": "02.0072",
+   "standard": "物理学名词",
+   "subject": "物理学_力学"
+  },
+  {
+   "cn": "向心展开",
+   "en": "centripetal development",
+   "code": "06.385",
+   "standard": "药学名词",
+   "subject": "药学_药物分析"
+  },
+  {
+   "cn": "向心加速度",
+   "en": "centripetal acceleration",
+   "code": "01.084",
+   "standard": "大气科学名词",
+   "subject": "大气科学_大气"
+  },
+  {
+   "cn": "向心加速度",
+   "en": "centripetal acceleration",
+   "code": null,
+   "standard": "力学名词",
+   "subject": "力学_力学通类"
+  },
+  {
+   "cn": "最大向心加速度",
+   "en": "maximum centripetal acceleration",
+   "code": "03.174",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_汽车行驶性能_操纵稳定性"
+  },
+  {
+   "cn": "操舵力的向心加速度影响系数",
+   "en": "coefficient of centripetal acceleration effect on steering force",
+   "code": "03.223",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_汽车行驶性能_操纵稳定性"
+  },
+  {
+   "cn": "径流式涡轮",
+   "en": "centripetal turbine,radial turbine",
+   "code": "24.0426",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_动力机械_内燃机_增压及进排气管系统"
+  },
+  {
+   "cn": "向心力",
+   "en": "centripetal force",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "向心力",
+   "en": "centripetal force",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "离心力和向心力",
+   "en": "centrifugal and centripetal forces",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "向心加速度",
+   "en": "centripetal acceleration",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "向心加速度",
+   "en": "centripetal acceleration",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "向心展开[法]",
+   "en": "centripetal development",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "向心水系",
+   "en": "centripetal drainage",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "向心模型",
+   "en": "centripetal model",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "向心式涡轮",
+   "en": "centripetal turbine",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "向心花序（=无限花序）",
+   "en": "centripetal inflorescence (=indefinite inflorescence)",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "力",
+   "en": "force",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "浮力",
+   "en": "buoyancy force\",\"buoyant force",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "力",
+   "en": "force",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "熵力",
+   "en": "entropic force",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "表面力",
+   "en": "Surface force",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "封杀出局",
+   "en": "force out",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "封杀",
+   "en": "force play",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_棒垒球名词"
+  },
+  {
+   "cn": "受迫性失误",
+   "en": "forced error",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "力量动作",
+   "en": "force part\",\"strength part\",\"force element",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "原子力显微镜",
+   "en": "Atomic Force Microscope",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "力线",
+   "en": "Line of force",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "气",
+   "en": "Qi (Vital Force)",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "血气",
+   "en": "Vitality / Vital Force",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "中国远征军",
+   "en": "Chinese Expeditionary Force",
+   "code": null,
+   "standard": "中央文献重要术语",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会力量",
+   "en": "social force",
+   "code": "2.1.6.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会活动"
+  },
+  {
+   "cn": "物质力量",
+   "en": "material force",
+   "code": "01.0184",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "劳动力",
+   "en": "labor force",
+   "code": "02.0093",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "反革命势力",
+   "en": "counterrevolutionary force",
+   "code": "03.0054",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "生产力",
+   "en": "productive forces",
+   "code": "02.0005",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "进步力量",
+   "en": "progressive forces",
+   "code": "03.0369",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "中间势力",
+   "en": "middle forces",
+   "code": "03.0370",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "顽固势力",
+   "en": "diehard forces",
+   "code": "03.0371",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "强迫喂养",
+   "en": "forced feeding",
+   "code": "6.2.5.5",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇幼营养_儿童营养"
+  },
+  {
+   "cn": "第一生产力",
+   "en": "primary productive force",
+   "code": "03.0566",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "产力",
+   "en": "force of labor",
+   "code": "3.5.3.9",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_孕产期保健"
+  },
+  {
+   "cn": "发展生产力的社会动力",
+   "en": "social motive force of developing productive forces",
+   "code": "03.0517",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
  "raw": null
 }
