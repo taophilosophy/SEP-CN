@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-12 07:06（UTC）
+生成时间：2026-11-12 07:37（UTC）
 
 ## 总览
 
@@ -14,21 +14,21 @@
 |已建英文基线|1879|
 |已建任务|1183|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|370|
-|在途（drafted 起、done 前）|175|
+|已完成（done）|366|
+|在途（drafted 起、done 前）|178|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|638|
-|cleared|135|
+|pending|639|
+|cleared|136|
 |drafted|1|
 |s1_checked|1|
-|s3_checked|37|
-|r1_reviewed|1|
-|done|370|
+|s3_checked|38|
+|r1_reviewed|2|
+|done|366|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -36,13 +36,13 @@
 |---|---|---|---|---|
 |A|160|160|160|59|
 |B|62|62|62|17|
-|C|172|172|172|26|
-|D|92|92|92|26|
+|C|172|172|172|27|
+|D|92|92|92|24|
 |E|99|99|99|27|
 |F|96|96|96|5|
-|G|49|49|49|16|
+|G|49|49|49|14|
 |H|61|61|61|17|
-|I|75|75|75|34|
+|I|75|75|75|33|
 |J|38|38|38|9|
 |K|36|36|36|21|
 |L|144|144|30|30|
@@ -130,15 +130,16 @@
 |cancer|retranslate|s3_checked|C-main-20261109b 2026-11-09|
 |chinese-phil-science|retranslate|s3_checked|C-main-20261107 2026-11-07|
 |cloning|retranslate|s3_checked|CD-main-20261106 2026-11-06|
-|concept-emotion-india|retranslate|s3_checked|主代理 2026-11-01|
 |conceptual-art|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |conscience|retranslate|s3_checked|C-main-20261108b 2026-11-08|
 |copernicus|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |cosmology-30s|retranslate|s3_checked|C-main-20261109 2026-11-09|
 |cosmopolitanism|retranslate|s3_checked|C-main-20261109b 2026-11-09|
 |davidson|retranslate|s3_checked|D-main-20261110 2026-11-09|
-|epicurus|retranslate|cleared|task_ops 2026-11-12|
+|diodorus-cronus|retranslate|s3_checked|D-main-20261107 2026-11-07|
+|disability|retranslate|s3_checked|D-main-20261109 2026-11-09|
 |fitness|retranslate|cleared|task_ops 2026-11-11|
+|gadamer-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |galen|retranslate|cleared|task_ops 2026-11-01|
 |galileo|retranslate|cleared|task_ops 2026-11-01|
 |games-abstraction|retranslate|cleared|task_ops 2026-11-01|
@@ -150,6 +151,7 @@
 |george-eliot|retranslate|cleared|task_ops 2026-11-01|
 |global-democracy|retranslate|cleared|task_ops 2026-11-01|
 |goedel|retranslate|cleared|task_ops 2026-11-01|
+|gomez-pereira|retranslate|r1_reviewed|G-main-20261112 2026-11-11|
 |goodman|retranslate|cleared|task_ops 2026-11-01|
 |habermas|retranslate|cleared|task_ops 2026-11-11|
 |haecceitism|retranslate|cleared|task_ops 2026-11-01|
@@ -174,6 +176,7 @@
 |humor|retranslate|cleared|task_ops 2026-11-01|
 |immunology|retranslate|cleared|task_ops 2026-11-01|
 |impossible-worlds|retranslate|cleared|task_ops 2026-11-01|
+|information-biological|retranslate|cleared|task_ops 2026-11-01|
 |intrinsic-extrinsic|retranslate|cleared|task_ops 2026-11-01|
 |jaina-philosophy|retranslate|cleared|task_ops 2026-11-10|
 |james-mill|retranslate|cleared|task_ops 2026-11-10|

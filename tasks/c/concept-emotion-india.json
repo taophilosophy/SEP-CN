@@ -2,7 +2,7 @@
   "slug": "concept-emotion-india",
   "kind": "retranslate",
   "zh_doc": "c/concept-emotion-india.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "R-main-20261112",
       "at": "2026-11-12T07:16:16Z",
       "evidence": "r2 复审（R-main-20261112，异于初译主代理）：逐句回核原文与逻辑——r1 所修 17 处回读语境连贯；五节论证链（正理—胜论缺陷说→不二吠檀多心之性质→数论—瑜伽双重障碍→佛教 vijñāna/kleśa 说明）完整；经论引用（NB/NS/NV/VS/VSU/NM/BSBh/YS/SSu/PV/TS/TSP）位置与源逐一对应；梵语术语括注（*rāga*/*dveṣa*/*harṣa*/*bhaya*/*śoka*、*sattva*/*rajas*/*tamas*、*kleśas*、*vijñāna*、*uparāga* 等）与源一一对应。人名回核：发现并修正 1 处异形冲突——正文『乌地陀迦罗』对册定『乌底耶多迦罗』（Uddyotakara，ren-ming-biao 行 3953，early-modern-india 2026-11-10 定名），正文对齐 1 处；古典印度学者在册者直接沿用：法称 Dharmakīrti、寂护 Śāntarakṣita、莲花戒 Kamalaśīla、商羯罗 Śaṅkara、无著 Asaṅga、弥勒 Maitreya；补登 9 行（先登后用补课，来源 concept-emotion-india，凭证 2026-11-12 r2）：Patañjali 波颠阇利、Vyāsa 毗耶娑、Vātsyāyana 筏蹉衍那、Jayanta Bhaṭṭa 阇衍陀·跋陀、Śaṅkara Miśra 商羯罗·弥尸罗（与吠檀多商羯罗异人分立）；现代学者无通行汉名者 4 行按 ADR-0022 保留英文：Franco, Eli／Jha, Ganganatha／Lutz, Catherine／Sinha, Jadunath；registry_azsort 干跑守恒 4277 行、周界 0，9 行按折叠键就位（Jha<Ji、Franco<Franck、Patañjali<Pateman、Jayanta<Jayarāśi、Vyāsa<Vygotsky、Vātsyāyana<Vattimo、Lutz<Luxemburg、Sinha 于 Sin Hudam 后、Śaṅkara Miśra 于 Śaṅkara 后）。check_terms 硬错误 0（冲突 0+自洽 0）。观察项：参考文献采用表格形态（[BSBh] 等键 + 版本行 + GRETIL），与脚注式条目并存，属源文形态照录，不改形。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "R-main-20261112",
+      "at": "2026-11-12T07:33:57Z",
+      "evidence": "r3 终审（R-main-20261112，终读距 r1/r2 落定已隔提交与门禁两轮，冷置回读）：218 行全文终读未见 Critical/Major 残留；结构对账——正文段 54:54、节 9:9、脚注定义 23:23 键集同序、原始文献表 13 个键（BSBh/NB/NM/NS/NV/PV/SPB/SSu/TS/TSP/VS/VSU/YS）齐备；无重复长行、无控制字符、无 ASCII 直引号。四检复跑——check_style 0 issue／check_academic --strict OK／check_math 0 式 0 缺失 0 失衡／check_terms 硬错误 0；check_prose 余 36 按 r1 分类豁免留痕（de-chain 27 梵语术语偏正、长句 8 源文周期句、passive 1）。check_all 九项中红项均属外部：垃圾与产物入库（根目录 debug.log 与 .workbuddy-ai/ 为外部工具散件，非本项目跟踪物）；单体文件大小与管线单元测试同源——specs/016-mulu-history-recategorize/results/mu-lu-s.preview.md 2530 行/182626 字节超限（016 生成物，非本源产出）；哲学学术规范已转绿（本轮顺手追补 confucius s2 语体留痕）。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "R-main-20261112",
+      "at": "2026-11-12T07:35:29Z",
+      "evidence": "全周期收口（评审线：初译主代理 2026-11-01 → r1/r2/r3 R-main-20261112）：218 行、正文段 54、脚注定义 23、原始文献表 13 键守恒；四检 style 0/academic OK/math 0/terms 硬错 0；实修累计 27 处（体例 7 含节标题去句点 5 与 References 子标题回英文 2、prose 10、人名 10 含 Uddyotakara 正形 1＋补登 9 行），豁免按 ADR-0020 分类留痕 36；s3_checked 存量 40→39。"
     }
   ],
   "blockers": [],
