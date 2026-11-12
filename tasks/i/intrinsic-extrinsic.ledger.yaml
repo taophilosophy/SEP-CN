@@ -1055,9 +1055,9 @@ segments:
     source: |-
       Now assume a possible worlds theory of properties, according to which the property of being $F = \{\langle x, w\rangle \mid x \text{ is } F \text{ at } w\}$. Given this theory of properties:
     step1: |-
-      现在假设一种关于属性的可能世界理论：是 $F$ 的属性 $= \{\langle x, w\rangle \mid x \text{ is } F \text{ at } w\}$。在这一属性理论下：
+      现在假设一种关于属性的可能世界理论：是 $F = \{\langle x, w\rangle \mid x \text{ is } F \text{ at } w\}$ 的属性。在这一属性理论下：
     step2: |-
-      现在假设一种关于属性的可能世界理论：是 $F$ 的属性 $= \{\langle x, w\rangle \mid x \text{ is } F \text{ at } w\}$。在这一属性理论下：
+      现在假设一种关于属性的可能世界理论：是 $F = \{\langle x, w\rangle \mid x \text{ is } F \text{ at } w\}$ 的属性。在这一属性理论下：
   - id: 129
     kind: body
     source: |-
