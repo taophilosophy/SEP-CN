@@ -36,6 +36,8 @@ CLOSED = [
     "lady-masham", "kaspi-joseph", "lawphil-theory", "telesio", "olympiodorus",
     "leibniz-logic-influence", "dai-zhen", "kepler", "al-farabi", "leibniz-ethics",
     "reid-memory-identity", "kilvington", "kant-leibniz",
+    # 2026-11-12/13 收口追加
+    "leibniz-mind", "lakatos", "luxemburg",
 ]
 
 
@@ -103,6 +105,10 @@ def main():
             diff = git("show", "-U0", sha, "--", path)
             for old, new in pairs_from_diff(diff):
                 if not (re.search(r"[\u4e00-\u9fff]", old) and re.search(r"[\u4e00-\u9fff]", new)):
+                    continue
+                # 只审破折号修复：该行破折号数须有增减。否则顿号化等全局标点提交
+                # （旧行含 dash 但改动与本线无关）会把 pure 洪流误算进来
+                if old.count("—") == new.count("—"):
                     continue
                 cat, why = classify(old, new)
                 if not cat:

@@ -1,0 +1,1030 @@
+version: 1
+slug: axiom-choice
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      The principle of set theory known as the *Axiom of Choice* has been hailed as “probably the most interesting and, in spite of its late appearance, the most discussed axiom of mathematics, second only to Euclid’s axiom of parallels which was introduced more than two thousand years ago” (Fraenkel, Bar-Hillel & Levy 1973, §II.4). The fulsomeness of this description might lead those unfamiliar with the axiom to expect it to be as startling as, say, the Principle of the Constancy of the Velocity of Light or the Heisenberg Uncertainty Principle. But in fact the Axiom of Choice as it is usually stated appears humdrum, even self-evident. For it amounts to nothing more than the claim that, given any collection of mutually disjoint nonempty sets, it is possible to assemble a new set—a *transversal* or *choice set*—containing exactly one element from each member of the given collection. Nevertheless, this seemingly innocuous principle has far-reaching mathematical consequences—many indispensable, some startling—and has come to figure prominently in discussions on the foundations of mathematics. It (or its equivalents) have been employed in countless mathematical papers, and a number of monographs have been exclusively devoted to it.
+    step1: TBD
+    step2: TBD
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Origins and Chronology of the Axiom of Choice
+    step1: TBD
+    step2: TBD
+  - id: 3
+    kind: body
+    source: |-
+      In 1904 Ernst Zermelo formulated the Axiom of Choice (abbreviated as *AC* throughout this article) in terms of what he called *coverings* (Zermelo 1904)[^zermelo-1904]. He starts with an arbitrary set $M$ and uses the symbol $M'$ to denote an arbitrary nonempty subset of $M$, the collection of which he denotes by M. He continues:
+    step1: TBD
+    step2: TBD
+  - id: 4
+    kind: body
+    source: |-
+      > Imagine that with every subset $M'$ there is associated an arbitrary element $m_{1}'$, that occurs in $M'$ itself; let $m_{1}'$ be called the “distinguished” element of $M'$. This yields a “covering” $g$ of the set $M$ by certain elements of the set $M$. The number of these coverings is equal to the product [of the cardinalities of all the subsets $M'$] and is certainly different from 0.
+    step1: TBD
+    step2: TBD
+  - id: 5
+    kind: body
+    source: |-
+      The last sentence of this quotation—which asserts, in effect, that coverings always exist for the collection of nonempty subsets of any (nonempty) set—is Zermelo’s first formulation of the Axiom of Choice[^note-1]. This is now usually stated in terms of *choice functions*: here a choice function on a collection $\sH$ of nonempty sets is a map $f$ with domain $\sH$ such that $f(X) \in X$ for every $X \in \sH$.
+    step1: TBD
+    step2: TBD
+  - id: 6
+    kind: body
+    source: |-
+      As a very simple example, let $\sH$ be the collection of nonempty subsets of $\{0, 1\}$, i.e., $\sH = \{\{0\}, \{1\}, \{0,1\}\}$. Then $\sH$ has the two distinct choice functions $f_{1}$ and $f_{2}$ given by:
+    step1: TBD
+    step2: TBD
+  - id: 7
+    kind: body
+    source: |-
+      \begin{align} f_{1}(\{0\}) &= 0 \\ f_{1}(\{1\}) &= 1 \\ f_{1}(\{0, 1\}) &= 0 \\ f_{2}(\{0\}) &= 0 \\ f_{2}(\{1\}) &= 1 \\ f_{2}(\{0, 1\}) &= 1 \end{align}
+    step1: TBD
+    step2: TBD
+  - id: 8
+    kind: body
+    source: |-
+      A more interesting example of a choice function is provided by taking $\sH$ to be the set of (unordered) pairs of real numbers and the function to be that assigning to each pair its least element. A different choice function is obtained by assigning to each pair its greatest element. Clearly many more choice functions on $\sH$ can be defined.
+    step1: TBD
+    step2: TBD
+  - id: 9
+    kind: body
+    source: |-
+      Stated in terms of choice functions, Zermelo’s first formulation of *AC* reads:
+    step1: TBD
+    step2: TBD
+  - id: 10
+    kind: body
+    source: |-
+      **AC1**: Any collection of nonempty sets has a choice function.
+    step1: TBD
+    step2: TBD
+  - id: 11
+    kind: body
+    source: |-
+      **AC1** can be reformulated in terms of *indexed* or *variable sets*. An indexed collection of sets $\sA = \{A_{i}: i \in I\}$ may be conceived as a *variable set*, to wit, as a set *varying* over the index set $I$. Each $A_{i}$ is then the “value” of the variable set $\sA$ at *stage* $i$. A *choice function* on $\sA$ is a map $f: I \rightarrow \bigcup_{i\in I} A_{i}$ such that $f(i) \in A_{i}$ for all $i\in I$. A choice function on $\sA$ is thus a “choice” of an element of the variable set $\sA$ at each stage; in other words, a choice function on $\sA$ is a *variable element* of $\sA$. **AC1** is then equivalent to the assertion
+    step1: TBD
+    step2: TBD
+  - id: 12
+    kind: body
+    source: |-
+      **AC2**: Any indexed collection of sets has a choice function.
+    step1: TBD
+    step2: TBD
+  - id: 13
+    kind: body
+    source: |-
+      Informally speaking, **AC2** amounts to the assertion that a variable set with an element at each stage has a variable element.
+    step1: TBD
+    step2: TBD
+  - id: 14
+    kind: body
+    source: |-
+      **AC1** can also be reformulated in terms of relations, viz.
+    step1: TBD
+    step2: TBD
+  - id: 15
+    kind: body
+    source: |-
+      **AC3**: For any relation $R$ between sets $A$, $B$,
+
+      $$ {\forall x\inn A}\ \exists y\inn B[R(x,y)] \Rightarrow \exists f[f: A \rightarrow B \amp {\forall x\inn A}[R(x,fx)]]. $$
+    step1: TBD
+    step2: TBD
+  - id: 16
+    kind: body
+    source: |-
+      In other words, every relation contains a function having the same domain.
+    step1: TBD
+    step2: TBD
+  - id: 17
+    kind: body
+    source: |-
+      Finally **AC3** is easily shown to be equivalent (in the usual set theories) to:[^note-2]
+    step1: TBD
+    step2: TBD
+  - id: 18
+    kind: body
+    source: |-
+      **AC4**: Any surjective function has a right inverse.
+    step1: TBD
+    step2: TBD
+  - id: 19
+    kind: body
+    source: |-
+      In a 1908 paper Zermelo introduced a modified form of *AC*. Let us call a *transversal* (or *choice set*) for a family of sets $\sH$ any subset $T \subseteq \bigcup \sH$ for which each intersection $T \cap X$ for $X \in \sH$ has exactly one element. As a very simple example, let $\sH = \{\{0\}, \{1\}, \{2, 3\}\}$. Then $\sH$ has the two transversals $\{0, 1, 2\}$ and $\{0, 1, 3\}$. A more substantial example is afforded by letting $\sH$ be the collection of all lines in the Euclidean plane parallel to the $x$-axis. Then the set $T$ of points on the $y$-axis is a transversal for $\sH$.
+    step1: TBD
+    step2: TBD
+  - id: 20
+    kind: body
+    source: |-
+      Stated in terms of transversals, then, Zermelo’s second (1908) formulation of *AC* amounts to the assertion that any family of mutually disjoint nonempty sets has a transversal.[^note-3]
+    step1: TBD
+    step2: TBD
+  - id: 21
+    kind: body
+    source: |-
+      Zermelo asserts that “the purely objective character” of this principle “is immediately evident.” In making this assertion Zermelo meant to emphasize the fact that in this form the principle makes no appeal to the possibility of making “choices”. It may also be that Zermelo had the following “combinatorial” justification of the principle in mind. Given a family $\sH$ of mutually disjoint nonempty sets, call a subset $S \subseteq \bigcup \sH$ a *selector* for $\sH$ if $S\cap X \ne \varnothing$ for all $X \in \sH$. Clearly selectors for $\sH$ exist; $\bigcup \sH$ itself is an example. Now one can imagine taking a selector $S$ for $\sH$ and “thinning out” each intersection $S \cap X$ for $X\in \sH$ until it contains just a single element. The result is a transversal for $\sH$. This argument, suitably refined, yields a precise derivation of *AC* in this formulation from the set-theoretical principle known as *Zorn’s lemma* (see below).
+    step1: TBD
+    step2: TBD
+  - id: 22
+    kind: body
+    source: |-
+      Let us call Zermelo’s 1908 formulation the *combinatorial* axiom of choice:
+    step1: TBD
+    step2: TBD
+  - id: 23
+    kind: body
+    source: |-
+      **CAC**: Any collection of mutually disjoint nonempty sets has a transversal.
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      It is to be noted that **AC1** and **CAC** for *finite* collections of sets are both provable (by induction) in the usual set theories. But in the case of an *infinite* collection, even when each of its members is finite, the question of the existence of a choice function or a transversal is problematic[^note-4]. For example, as already mentioned, it is easy to come up with a choice function for the collection of pairs of real numbers (simply choose the smaller element of each pair). But it is by no means obvious how to produce a choice function for the collection of pairs of *arbitrary sets* of real numbers.
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      Zermelo’s original purpose in introducing *AC* was to establish a central principle of Cantor’s set theory, namely, that every set admits a well-ordering and so can also be assigned a cardinal number. Zermelo’s 1904 introduction of the axiom, as well as the use to which he put it, provoked considerable criticism from the mathematicians of the day. The chief objection raised was to what some saw as its highly non-constructive, even idealist, character: while the axiom asserts the possibility of making a number of—perhaps even an uncountable number—of arbitrary “choices”, it gives no indication whatsoever of how these latter are actually to be effected, of how, otherwise put, choice functions are to be *defined*. This was particularly objectionable to mathematicians of a “constructive” bent such as the so-called French Empiricists Baire, Borel and Lebesgue, for whom a mathematical object could be asserted to exist only if it can be defined in such a way as to characterize it uniquely. Zermelo’s response to his critics came in the form in two papers in 1908. In the first of these, as remarked above, he reformulated *AC* in terms of transversals; in the second (1908a) he made explicit the further assumptions needed to carry through his proof of the well-ordering theorem. These assumptions constituted the first explicit presentation of an axiom system for set theory.
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      As the debate concerning the Axiom of Choice rumbled on, it became apparent that the proofs of a number of significant mathematical theorems made essential use of it, thereby leading many mathematicians to treat it as an indispensable tool of their trade. Hilbert, for example, came to regard *AC* as an essential principle of mathematics[^note-5] and employed it in his defence of classical mathematical reasoning against the attacks of the intuitionists. Indeed his ε-operators are essentially just choice functions (see the entry on the epsilon calculus).
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      Although the usefulness of *AC* quickly become clear, doubts about its soundness remained. These doubts were reinforced by the fact that it had certain strikingly counterintuitive consequences. The most spectacular of these was Banach and Tarski’s *paradoxical decompositions of the sphere* (Banach and Tarski 1924)[^banach-1924]: any solid sphere can be split into finitely many pieces which can be reassembled to form two solid spheres of the same size; and any solid sphere can be split into finitely many pieces in such a way as to enable them to be reassembled to form a solid sphere of arbitrary size. (See Wagon 1993.)[^wagon-1993]
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      It was not until the middle 1930s that the question of the soundness of *AC* was finally put to rest with Kurt Gödel’s proof of its consistency relative to the other axioms of set theory.
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      Here is a brief chronology of *AC*:[^note-6]
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      | 1904/1908 | Zermelo introduces axioms of set theory, explicitly formulates *AC* and uses it to prove the well-ordering theorem, thereby raising a storm of controversy. |
+      | --- | --- |
+      | 1904 | Russell recognizes *AC* as the *multiplicative axiom*: the product of arbitrary nonzero cardinal numbers is nonzero. |
+      | 1914 | Hausdorff derives from *AC* the existence of nonmeasurable sets in the “paradoxical” form that $\bfrac{1}{2}$ of a sphere is congruent to $\bfrac{1}{3}$ of it (Hausdorff 1914)[^hausdorff-1914]. |
+      | 1922 | Fraenkel introduces the “permutation method” to establish independence of *AC* from a system of set theory with atoms (Fraenkel 1922)[^fraenkel-1922]. |
+      | 1924 | Building on the work of Hausdorff, Banach and Tarski derive from *AC* their paradoxical decompositions of the sphere. |
+      | 1926 | Hilbert introduces into his proof theory the “transfinite” or “epsilon” axiom as a version of *AC* . (Hilbert 1926)[^hilbert-1926]. |
+      | 1936 | Lindenbaum and Mostowski extend and refine Fraenkel’s permutation method, and prove the independence of various statements of set theory weaker than *AC* . (Lindenbaum and Tarski 1938)[^lindenbaum-1938] |
+      | 1935–38 | Gödel establishes relative consistency of *AC* with the axioms of set theory (Gödel 1938a, 1938b, 1939, 1940)[^gödel-1938a]. |
+      | 1950s | Mendelson, Shoenfield and Specker, working independently, use the permutation method to establish the independence of various forms of *AC* from a system of set theory without atoms, but also lacking the axiom of foundation (Mendelson 1956, 1958, Shoenfield 1955, Specker 1957)[^mendelson-1956][^shoenfield-1955][^specker-1957]. |
+      | 1963 | Paul Cohen proves independence of *AC* from the standard axioms of set theory (Cohen 1963, 1964)[^cohen-1963]. |
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      ## 2. Independence and Consistency of the Axiom of Choice
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      As stated above, in 1922 Fraenkel proved the independence of *AC* from a system of set theory containing “atoms”. Here by an *atom* is meant a pure individual, that is, an entity having no members and yet distinct from the empty set (so *a fortiori* an atom cannot be a set). In a system of set theory with atoms it is assumed that one is given an infinite set $A$ of atoms. One can build a universe $V(A)$ of sets over $A$ by starting with $A$, adding all the subsets of $A$, adjoining all the subsets of the result, etc., and iterating transfinitely. $V(A)$ is then a model of set theory with atoms. The kernel of Fraenkel’s method for proving the independence of *AC* is the observation that, since atoms cannot be set-theoretically distinguished, any permutation of the set $A$ of atoms induces a structure-preserving permutation—an *automorphism*—of the universe $V(A)$ of sets built from $A$. This idea may be used to construct another model $Sym(V)$ of set theory—a *permutation* or *symmetric model*—in which a set of mutually disjoint pairs of elements of $A$ has no choice function.
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      Now let us suppose that we are given a group $G$ of automorphisms of $A$. Let us say that an automorphism $\pi$; of $A$ *fixes* an element $x$ of $V(A)$ if $\pi(x) = x$. Clearly, if $\pi \in G$ fixes every element of $A$, it also fixes every element of $V(A)$. Now it may be the case that, for certain elements $x \in V(A)$, the fixing of the elements of a *subset* of $A$ by any $\pi\in G$ suffices to fix $x$. We are therefore led to define a *support* for $x$ to be a subset $X$ of $A$ such that, whenever $\pi\in G$ fixes each member of $X$, it also fixes $x$. Members of $V(A)$ possessing a *finite* support are called *symmetric*.
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      We next define the universe $Sym(V)$ to consist of the *hereditarily symmetric* members of $V(A)$, that is, those $x\in V(A)$ such that $x$, the elements of $x$, the elements of elements of $x$, etc., are all symmetric. $Sym(V)$ is also a model of set theory with set of atoms $A$, and $\pi$ induces an automorphism of $Sym(V)$.
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      Now suppose $A$ to be partitioned into a (necessarily infinite) mutually disjoint set $P$ of pairs. Take $G$ to be the group of permutations of $A$ which fix all the pairs in $P$. Then $P\in Sym(V)$; it can now be shown that $Sym(V)$ contains no choice function on $P$. For suppose $f$ were a choice function on $P$ and $f \in Sym(V)$. Then $f$ has a finite support which may be taken to be of the form $\{a_{1}, \ldots, a_{n}, b_{1},\ldots,b_{n}\} with each pair \{a_{i}, b_{i}\} \in P$. Since $P$ is infinite, we may select a pair $\{c, d\} = U$ from $P$ different from all the $\{a_{i}, b_{i}\}$. Now we define $\pi \in G$ so that $\pi$ fixes each $a_{i}$ and $b_{i}$ and interchanges $c$ and $d$. Then $\pi$ also fixes $f$. Since $f$ was supposed to be a choice function on $P$, and $U \in P$, we must have $f(U) \in U$, that is, $f(U) = c$ or $f(U) = d$. Since $\pi$ interchanges $c$ and $d$, it follows that $\pi(f(U)) \ne f(U)$. But since $\pi$ is an automorphism, it also preserves function application, so that $\pi(f(U)) = \pi f(\pi(U))$. But $\pi(U) = U$ and $\pi f = f$, whence $\pi(f(U)) = f(U)$. We have duly arrived at a contradiction, showing that the universe $Sym(V)$ contains no choice function on $P$.
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      The point here is that for a symmetric function $f$ defined on $P$ there is a finite list $L$ of pairs from $P$ the fixing of all of whose elements suffices to fix $f$, and hence also all the values of $f$. Now, for any pair $U$ in $P$ but not in $L$ , a permutation $\pi$ can always be found which fixes all the elements of the pairs in $L$, but does not fix the members of $U$. Since $\pi$ must fix the value of $f$ at $U$, that value cannot lie in $U$. Therefore $f$ cannot “choose” an element of $U$, so *a fortiori* $f$ cannot be a choice function on $P$.
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      This argument shows that collections of *sets of atoms* need not necessarily have choice functions, but it fails to establish the same fact for the “usual” sets of mathematics, for example the set of real numbers. This had to wait until 1963 when Paul Cohen showed that it is consistent with the standard axioms of set theory (which preclude the existence of atoms) to assume that a countable collection of pairs of sets of real numbers fails to have a choice function. The core of Cohen’s method of proof—the celebrated method of *forcing*—was vastly more general than any previous technique; nevertheless his independence proof also made essential use of permutation and symmetry in essentially the form in which Fraenkel had originally employed them.
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      Gödel’s proof of the relative consistency of *AC* with the axioms of set theory (see the entry on Kurt Gödel) rests on an entirely different idea: that of *definability*. He introduced a new hierarchy of sets—the *constructible* hierarchy—by analogy with the cumulative type hierarchy. We recall that the latter is defined by the following recursion on the ordinals, where $\sP(X)$ is the power set of $X$, $\alpha$ is an ordinal, and $\lambda$ is a limit ordinal::
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      \begin{align} V_0 &= \varnothing \\ V_{\alpha+1} &= \sP(V_{\alpha}) \\ V_{\lambda} &= {\bigcup}_{\alpha \lt \lambda} V_{\alpha} \end{align}
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      The constructible hierarchy is defined by a similar recursion on the ordinals, where $\Def(X)$ is the set of all subsets of $X$ which are first-order definable in the structure $(X, \in, (x)_{x\in X})$:[^note-7]
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      \begin{align} L_0 &= \varnothing \\ L_{\alpha+1} &= \Def(L_{\alpha}) \\ L_{\lambda} &= {\bigcup}_{\alpha\lt \lambda} L_{\alpha} \end{align}
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      The *constructible universe* is the class $L = \bigcup_{\alpha\in \Ord} L_{\alpha}$; the members of $L$ are the *constructible sets*. Gödel showed that (assuming the axioms of Zermelo-Fraenkel set theory **ZF**) the structure $(L, \in)$ is a model of **ZF** and also of *AC* as well as the Generalized Continuum Hypothesis). The relative consistency of *AC* with **ZF** follows.
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      It was also observed by Gödel (1964) (and, independently, by Myhill and Scott 1971, Takeuti 1963 and Post 1951)[^myhill-1971] that a simpler proof of the relative consistency of *AC* can be formulated in terms of *ordinal definability*. If we write $\rD(X)$ for the set of all subsets of $X$ which are first-order definable in the structure $(X, \in)$, then the class OD of *ordinal definable sets* is defined to be the union $\bigcup_{\alpha\in \Ord} D(V_{\alpha})$. The class HOD of *hereditarily ordinal definable sets* consists of all sets $a$ for which $a$, the members of $a$, the members of members of $a$, … etc., are all ordinal definable. It can then be shown that the structure (HOD, $\in$) is a model of **ZF** + *AC* , from which the relative consistency of *AC* with **ZF** again follows.[^note-8]
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      ## 3. Maximal Principles and Zorn’s Lemma
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      The Axiom of Choice is closely allied to a group of mathematical propositions collectively known as *maximal principles*. Broadly speaking, these propositions assert that certain conditions are sufficient to ensure that a partially ordered set contains at least one *maximal element*, that is, an element such that, with respect to the given partial ordering, no element strictly exceeds it.
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      To see the connection between the idea of a maximal element and *AC*, let us return to the latter’s formulation **AC2** in terms of indexed sets. Accordingly suppose we are given an indexed family of nonempty sets $\sA = \{A_{i}:i \in I\}.$ Let us define a *potential choice function* on $\sA$ to be a function $f$ whose domain is a subset of $I$ such that $f(i) \in A_{i}$ for all $i\in J$. (Here the use of the qualifier *potential* is suggested by the fact that the domain is a subset of $I$; recall that a choice function $f$ on $\sA$ has the same properties as what we are now calling potential choice functions except that the domain of $f$ is required to be all of $I$, not just a subset.) The set $P$ of potential choice functions on $\sA$ can be partially ordered by inclusion: we agree that, for potential choice functions $f, g \in P$, the relation $f \le g$ holds provided that the domain of $f$ is included in that of $g$ and the value of $f$ at an element of its domain coincides with the value of $g$ there. It is now easy to see that the maximal elements of $P$ with respect to the partial ordering $\le$ are precisely the choice functions on $\sA$.
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      *Zorn’s Lemma*is the best-known principle ensuring the existence of such maximal elements. To state it, we need a few definitions. Given a partially ordered set $(P, \le)$, an *upper bound* for a subset $X$ of $P$ is an element $a\in P$ for which $x\le a$ for every $x\in X$; a *maximal element* of $P$ may then be defined as an element $a$ for which the set of upper bounds of $\{a\}$ coincides with $\{a\}$, which essentially means that no element of $P$ is strictly larger than $a$. A *chain* in $(P,\le)$ is a subset $C$ of $P$ such that, for any $x$, $y\in P$, either $x\le y$ or $y\le x$. $P$ is said to be *inductive* if every chain in $P$ has an upper bound. Now Zorn’s Lemma asserts:
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      **Zorn’s Lemma** (**ZL**): Every nonempty inductive partially ordered set has a maximal element.
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      Why is Zorn’s Lemma plausible? Here is an informal argument. Given a nonempty inductive partially ordered set $(P,\le)$, pick an arbitrary element $p_{0}$ of $P$. If $p_{0}$ is maximal, stop there. Otherwise pick an element $p_{1} \gt p_{0}$; if $p_{1}$ is maximal, stop there. Otherwise pick an element $p_{2} \gt p_{1}$, and repeat the process. If none of the elements $p_{0} \lt p_{1} \lt p_{2} \lt \ldots \lt p_{n} \lt \ldots$ is maximal, the $p_{i}$ form a chain which, since $P$ is inductive, has an upper bound $q_{0}$. If $q_{0}$ is maximal, stop there. Otherwise the procedure can be repeated with $q_{0} \lt q_{1}$, …, and then iterated. This process must eventually terminate, since otherwise the union of the chains so generated would constitute a proper class, making $P$ itself a proper class contrary to assumption. The point at which the process terminates yields a maximal element of $P$.
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      This argument, suitably rigorized, gives a proof[^note-9] of **ZL** from **AC1** in Zermelo-Fraenkel set theory: in this proof **AC1** is used to “pick” the elements referred to in the informal argument.
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      Another version of Zorn’s Lemma can be given in terms of collections of sets. Given a collection $\sH$ of sets, let us call a *nest* in $\sH$ any subcollection $\sN$ of $\sH$ such that, for any pair of members of $\sN$, one is included in the other.[^note-10] Call $\sH$ *strongly inductive* if the union of any nest in $\sH$ is a member of $\sH$. Zorn’s Lemma may then be equivalently restated as the assertion that any nonempty strongly inductive collection $\sH$ of sets has a maximal member, that is, a member properly included in no member of $\sH$. This may in turn be formulated in a dual form. Call a family of sets *strongly reductive* if it is closed under intersections of nests. Then any nonempty strongly reductive family of sets has a *minimal* element, that is, a member properly including no member of the family.
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      **AC2** is now easily derived from Zorn’s Lemma in this alternative form. For the set $P$ of potential choice functions on an indexed family of sets $\sA$ is clearly nonempty and is readily shown to be strongly inductive; so Zorn’s lemma yields the existence of a choice function on $\sA$.
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      **CAC** can be derived from **ZL** in a way echoing the “combinatorial” justification of **CAC** sketched above. Accordingly suppose we are given a family $\sH$ of mutually disjoint nonempty sets; call a subset $S \subseteq \bigcup \sH$ a *sampling* for $\sH$ if, for any $X\in \sH$, either $X \subseteq S$ or $S \cap X$ is nonempty and finite. Minimal samplings are precisely transversals for $\sH$;[^note-11] and the collection $\sT$ of samplings is clearly nonempty since it contains $\bigcup \sH$. So if it can be shown that $\sT$ is strongly reductive,[^note-12] Zorn’s lemma will yield a minimal element of $\sT$ and so a transversal for $\sH$. The strong reductiveness of $\sT$ may be seen as follows: suppose that $\{S_{i}: i\in I\}$ is a nest of samplings; let $S = {\bigcap}_{i\in I} S_{i}$. We need to show that $S$ is itself a sampling; to this end let $X \in \sH$ and suppose $\neg(X \subseteq S)$. Then there is $i \in I$ for which $\neg(X \subseteq S_{i})$; since $S_{i}$ is a sampling, $S_{i}\cap X$ is finite and nonempty, say $S_{i}\cap X = \{x_{1}, \ldots, x_{n}\}$. Clearly $S\cap X$ is then finite; suppose for the sake of contradiction that $S\cap X = \varnothing$. Then for each $k = 1,\ldots,n$ there is $i_k \in I$ for which $\neg(x_k \in S_{i_k})$. It follows that $\neg(S_{i} \subseteq S_{i_k})$, for $k = 1, \ldots, n$. So, since the $S_{i}$ form a chain, each $S_{i_k}$ is a subset of $S_{i}$. Let $S_{j}$ be the least of $S_{i_1},\ldots, S_{i_k}$; then $S_{j}\subseteq S_{i}$. But since $\neg(x_{k} \in S_{j})$, for $k = 1, \ldots, n$, it now follows that $S_{j} \cap X = \varnothing$, contradicting the fact that $S_{j}$ is a sampling. Therefore $S \cap X\ne \varnothing$; and $S$ is a sampling as claimed.
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      We note that while Zorn’s lemma and the Axiom of Choice are set-theoretically equivalent, it is much more difficult to derive the former from the latter than vice-versa.
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      Here is a brief chronology of maximal principles.
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      | 1909 | Hausdorff introduces first explicit formulation of a maximal principle and derives it from *AC* (Hausdorff 1909)[^hausdorff-1909] |
+      | --- | --- |
+      | 1914 | Hausdorff’s *Grundzüge der Mengenlehre* (one of the first books on set theory and general topology) includes several maximal principles. |
+      | 1922 | Kuratowski formulates and employs several maximal principles in avoiding use of transfinite ordinals (Kuratowski 1922)[^kuratowski-1922]. |
+      | 1926–28 | Bochner and others independently introduce maximal principles (Bochner 1928, Moore 1932)[^bochner-1928][^moore-1932]. |
+      | 1935 | Max Zorn, apparently unacquainted with previous formulations of maximal principles, publishes (Zorn 1935)[^zorn-1935] his definitive version thereof later to become celebrated as his lemma (**ZL**). **ZL** was first formulated in Hamburg in 1933, where Chevalley and Artin quickly “adopted” it. It seems to have been Artin who first recognized that **ZL** would yield *AC*, so that the two are equivalent (over the remaining axioms of set theory). Zorn regarded his principle less as a theorem than as an *axiom*—he hoped that it would supersede cumbersome applications in algebra of transfinite induction and well-ordering, which algebraists in the Noether school had come to regard as “transcendental” devices. |
+      | 1939–40 | Teichmüller, Bourbaki and Tukey independently reformulate **ZL** in terms of “properties of finite character”(Bourbaki 1939, Teichmuller 1939, Tukey 1940)[^bourbaki-1939][^teichmuller-1939]. |
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      ## 4. Mathematical Applications of the Axiom of Choice
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      The Axiom of Choice has numerous applications in mathematics, a number of which have proved to be formally equivalent to it[^note-13]. Historically the most important application was the first, namely:
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      **The Well-Ordering Theorem** (Zermelo 1904, 1908)[^zermelo-1904]. Every set can be well-ordered.
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      After Zermelo published his 1904 proof of the well-ordering theorem from *AC*, it was quickly seen that the two are equivalent.
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      Another early equivalent of *AC* is
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: body
+    source: |-
+      **The Multiplicative Axiom** (Russell 1906)[^russell-1906]. The product of any set of non-zero cardinal numbers is non-zero.
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: body
+    source: |-
+      Early applications of *AC* include:
+    step1: TBD
+    step2: TBD
+  - id: 64
+    kind: body
+    source: |-
+      - Every infinite set has a denumerable subset. This principle, again weaker than *AC*, cannot be proved without it in the context of the remaining axioms of set theory.
+      - Every infinite cardinal number is equal to its square. This was proved equivalent to *AC* in Tarski 1924.
+      - Every vector space has a basis (initiated by Hamel 1905)[^hamel-1905]. This was proved equivalent to *AC* in Blass 1984.
+      - Every field has an algebraic closure (Steinitz 1910)[^steinitz-1910]. This assertion is weaker than *AC*, indeed is a consequence of the (weaker) compactness theorem for first-order logic (see below).
+      - There is a Lebesgue nonmeasurable set of real numbers (Vitali 1905)[^vitali-1905]. This was shown much later to be a consequence of **BPI** (see below) and hence weaker than *AC*. Solovay (1970) established its independence of the remaining axioms of set theory.
+    step1: TBD
+    step2: TBD
+  - id: 65
+    kind: body
+    source: |-
+      A significant “folklore” equivalent of *AC* is
+    step1: TBD
+    step2: TBD
+  - id: 66
+    kind: body
+    source: |-
+      **The Set-Theoretic Distributive Law**. For an arbitrary doubly-indexed family of sets $\{M_{i,j}: i \in I,j \in J\}$, and where $J^I$ is the set of all functions with domain $I$ and which take values in $J$:
+
+      $$ \bigcap_{i\in I} \bigcup_{j\in J} M_{i,j} = \bigcup_{f\in J^I} \bigcap_{i\in I} M_{i,f(i)} $$
+    step1: TBD
+    step2: TBD
+  - id: 67
+    kind: body
+    source: |-
+      A much-studied special case of *AC* is the
+    step1: TBD
+    step2: TBD
+  - id: 68
+    kind: body
+    source: |-
+      **Principle of Dependent Choices** (Bernays 1942, Tarski 1948)[^bernays-1942][^tarski-1948]. For any nonempty relation $R$ on a set $A$ for which $\range(R) \subseteq \domain(R)$, there is a function $f: \omega \rightarrow A$ such that, for all $n\in \omega, R(f(n),f(n+1))$. This principle, although (much) weaker than *AC*, cannot be proved without it in the context of the remaining axioms of set theory.
+    step1: TBD
+    step2: TBD
+  - id: 69
+    kind: body
+    source: |-
+      Mathematical equivalents of *AC* include:
+    step1: TBD
+    step2: TBD
+  - id: 70
+    kind: body
+    source: |-
+      - **Tychonov’s Theorem** (1930): the product of compact topological spaces is compact. This was proved equivalent to *AC* in Kelley 1950. But for compact Hausdorff spaces it is equivalent to **BPI** (see below) and hence weaker than *AC*
+      - **Löwenheim-Skolem-Tarski Theorem** (Löwenheim 1915, Skolem 1920, Tarski and Vaught 1957)[^tarski-1957]: a first-order sentence having a model of infinite cardinality $\kappa$ also has a model of any infinite cardinality $\mu$ such that $\mu \le \kappa$. This was proved equivalent to *AC* by Tarski.
+      - **Krein-Milman Theorem**: the unit ball $B$ of the dual of a real normed linear space has an extreme point, that is, one which is not an interior point of any line segment in $B$. This was proved equivalent to *AC* in Bell and Fremlin 1972a. There it is shown that, given any indexed family $\sA$ of nonempty sets, there is a natural bijection between choice functions on $\sA$ and the extreme points of the unit ball of the dual of a certain real normed linear space constructed from $\sA$.
+      - Every distributive lattice has a maximal ideal. This was proved equivalent to *AC* in Klimovsky 1958, and for lattices of sets in Bell and Fremlin 1972.
+      - Every commutative ring with identity has a maximal ideal. This was proved equivalent to *AC* by Hodges 1979.
+    step1: TBD
+    step2: TBD
+  - id: 71
+    kind: body
+    source: |-
+      There are a number of mathematical consequences of *AC* which are known to be weaker[^note-14] than it, in particular:
+    step1: TBD
+    step2: TBD
+  - id: 72
+    kind: body
+    source: |-
+      - **The Boolean Prime Ideal Theorem** (**BPI**): every Boolean algebra has a maximal (or prime) ideal. This was shown to be weaker than *AC* in Halpern and Levy 1971.
+      - **The Stone Representation Theorem for Boolean algebras** (Stone 1936)[^stone-1936]: every Boolean algebra is isomorphic to a field of sets. This is equivalent to **BPI** and hence weaker than *AC*
+      - **Compactness Theorem for First-Order Logic** (Gödel 1930, Malcev 1937, others): if every finite subset of a set of first-order sentences has a model, then the set has a model. This was shown, in Henkin 1954, to be equivalent to **BPI**, and hence weaker than *AC*.
+      - **Completeness Theorem for First-Order Logic** (Gödel 1930, Henkin 1954): each consistent set of first-order sentences has a model. This was shown by Henkin in 1954 to be equivalent to **BPI**, and hence weaker than *AC*. If the cardinality of the model is specified in the right way, the assertion becomes equivalent to *AC*.
+    step1: TBD
+    step2: TBD
+  - id: 73
+    kind: body
+    source: |-
+      Finally, there is
+    step1: TBD
+    step2: TBD
+  - id: 74
+    kind: body
+    source: |-
+      - **The Sikorski Extension Theorem for Boolean algebras** (Sikorski 1949): every complete Boolean algebra is injective, i.e., for any Boolean algebra $A$ and any complete Boolean algebra $B$, any homomorphism of a subalgebra of $A$ into $B$ can be extended to the whole of $A$.
+    step1: TBD
+    step2: TBD
+  - id: 75
+    kind: body
+    source: |-
+      The question of the equivalence of this with *AC* is one of the few remaining interesting open questions in this area; while it clearly implies **BPI**, it was proved independent of **BPI** in Bell 1983.
+    step1: TBD
+    step2: TBD
+  - id: 76
+    kind: body
+    source: |-
+      Many of these theorems are discussed in Bell and Machover (1977).
+    step1: TBD
+    step2: TBD
+  - id: 77
+    kind: body
+    source: |-
+      ## 5. The Axiom of Choice and Logic
+    step1: TBD
+    step2: TBD
+  - id: 78
+    kind: body
+    source: |-
+      An initial connection between *AC* and logic emerges by returning to its formulation **AC3** in terms of relations, namely: any binary relation contains a function with the same domain. This version of **AC** is naturally expressible within a second-order language $L$ with individual variables $x$, $y$, $z$, … and function variables $f$, $g$, $h$, …. In $L$, binary relations are represented by formulas $\phi(x, y)$ with two free individual variables $x$, $y$. The counterpart in $L$ of the assertion **AC3** is then
+    step1: TBD
+    step2: TBD
+  - id: 79
+    kind: body
+    source: |-
+      > **ACL**: $\forall x \exists y \phi(x, y) \rightarrow \exists f \forall x \phi(x, fx).$
+    step1: TBD
+    step2: TBD
+  - id: 80
+    kind: body
+    source: |-
+      This scheme of sentences is the standard logical form of *AC*.
+    step1: TBD
+    step2: TBD
+  - id: 81
+    kind: body
+    source: |-
+      Zermelo’s original form of the Axiom of Choice, **AC1**, can be expressed as a scheme of sentences within a suitably strengthened version of $L$. Accordingly we now suppose $L$ to contain in addition predicate variables $X$, $Y$, $Z$, … and second-order function variables $F$, $G$, $H$, …. Here a second-order function variable $F$ may be applied to a predicate variable $X$ to yield an individual term $FX$. The scheme of sentences
+    step1: TBD
+    step2: TBD
+  - id: 82
+    kind: body
+    source: |-
+      > **AC1L**: $\forall X [\Phi(X) \rightarrow \exists x X(x)] \rightarrow \exists F \forall X[\Phi(X) \rightarrow X(FX)]$
+    step1: TBD
+    step2: TBD
+  - id: 83
+    kind: body
+    source: |-
+      is the direct counterpart of **AC1** in this strengthened second-order language. In words, **AC1L** asserts that, if each predicate having a certain property $\Phi$ has instances, then there is a function $F$ on predicates such that, for any predicate $X$ satisfying $\Phi$, $FX$ is an instance of $X$. Here predicates are playing the role of sets.
+    step1: TBD
+    step2: TBD
+  - id: 84
+    kind: body
+    source: |-
+      Up to now we have tacitly assumed our background logic to be the usual classical logic. But the true depth of the connection between **AC** and logic emerges only when *intuitionistic* or *constructive* logic is brought into the picture. It is a remarkable fact that, assuming only the framework of intuitionistic logic together with certain mild further presuppositions, the Axiom of Choice can be shown to entail the cardinal rule of classical logic, the law of excluded middle—the assertion that $A \vee \neg A$ for any proposition $A$. To be precise, using the rules of intuitionistic logic within our augmented language $L$, we shall derive[^note-15] the law of excluded middle from **AC1L** conjoined with the following additional principles:
+    step1: TBD
+    step2: TBD
+  - id: 85
+    kind: body
+    source: |-
+      **Predicative Comprehension**: $\exists X \forall x[X(x) \leftrightarrow \phi(x)]$, where $\phi$ contains no bound function or predicate variables.
+    step1: TBD
+    step2: TBD
+  - id: 86
+    kind: body
+    source: |-
+      **Extensionality of Functions**: $\forall X \forall Y \forall F[X \approx Y \rightarrow FX = FY]$, where $X \approx Y$ is an abbreviation for $\forall x[X(x) \leftrightarrow Y(x)]$, that is, $X$ and $Y$ are *extensionally equivalent*.
+    step1: TBD
+    step2: TBD
+  - id: 87
+    kind: body
+    source: |-
+      **Two Distinct Individuals**: $\uO \ne \uI$, where $\uO$ and $\uI$ are individual constants.
+    step1: TBD
+    step2: TBD
+  - id: 88
+    kind: body
+    source: |-
+      Now let $A$ be a given proposition. By Predicative Comprehension, we may introduce predicate constants $U$, $V$ together with the assertions
+    step1: TBD
+    step2: TBD
+  - id: 89
+    kind: body
+    source: |-
+      \begin{align} \tag{1} &\forall x[U(x) \leftrightarrow (A \vee x = 0)] \\ \notag &\forall x[V(x) \leftrightarrow (A \vee x = 1)] \end{align}
+    step1: TBD
+    step2: TBD
+  - id: 90
+    kind: body
+    source: |-
+      Let $\Phi(X)$ be the formula $X \approx U \vee X \approx V$. Then clearly we may assert $\forall X[\Phi(X) \rightarrow \exists xX(x)]$ so **AC1L** may be invoked to assert $\exists F \forall X[\Phi(X) \rightarrow X(FX)]$. Now we can introduce a function constant $K$ together with the assertion
+
+      $$ \tag{2} \forall X[\Phi(X) \rightarrow X(KX)]. $$
+    step1: TBD
+    step2: TBD
+  - id: 91
+    kind: body
+    source: |-
+      Since evidently we may assert $\Phi(U)$ and $\Phi(V)$, it follows from (2) that we may assert $U(KU)$ and $V(KV)$, whence also, using (1),
+
+      $$ [A \vee KU = 0] \wedge [A \vee KV = 1]. $$
+    step1: TBD
+    step2: TBD
+  - id: 92
+    kind: body
+    source: |-
+      Using the distributive law (which holds in intuitionistic logic), it follows that we may assert
+
+      $$ A \vee [KU = 0 \wedge KV = 1]. $$
+    step1: TBD
+    step2: TBD
+  - id: 93
+    kind: body
+    source: |-
+      From the presupposition that $0 \ne 1$ it follows that
+
+      $$ \tag{3} A \vee KU \ne KV $$
+    step1: TBD
+    step2: TBD
+  - id: 94
+    kind: body
+    source: |-
+      is assertable. But it follows from (1) that we may assert $A \rightarrow U ≈ V$, and so also, using the Extensionality of Functions, $A \rightarrow KU = KV$. This yields the assertability of $KU \ne KV \rightarrow \neg A$, which, together with (3) in turn yields the assertability of
+
+      $$ A \vee \neg A $$
+    step1: TBD
+    step2: TBD
+  - id: 95
+    kind: body
+    source: |-
+      that is, the law of excluded middle.
+    step1: TBD
+    step2: TBD
+  - id: 96
+    kind: body
+    source: |-
+      The fact that the Axiom of Choice implies Excluded Middle seems at first sight to be at variance with the fact that the former is often taken as a *valid* principle in systems of constructive mathematics governed by intuitionistic logic, e.g. Bishop’s Constructive Analysis[^note-16] and Martin-Löf’s Constructive Type Theory[^note-17], in which Excluded Middle is not affirmed. In Bishop’s words, “A choice function exists in constructive mathematics because a choice is *implied by the very meaning of existence*.” Thus, for example, the antecedent $\forall x \exists y \phi(x,y)$ of **ACL**, given a constructive construal, just *means* that we have a procedure which, applied to each $x$, yields a $y$ for which $\phi(x, y)$. But this is precisely what is expressed by the consequent $\exists f \forall x \phi(x,fx)$ of **ACL**.
+    step1: TBD
+    step2: TBD
+  - id: 97
+    kind: body
+    source: |-
+      To resolve the difficulty, we note that in deriving Excluded Middle from **ACL1** essential use was made of the principles of Predicative Comprehension and Extensionality of Functions[^note-18]. It follows that, in systems of constructive mathematics affirming **AC** (but not Excluded Middle) *either the principle of Predicative Comprehension or the principle of Extensionality of Functions must fail*. While the principle of Predicative Comprehension can be given a constructive justification, no such justification can be provided for the principle of Extensionality of Functions. Functions on predicates are given intensionally, and satisfy just the corresponding principle of Intensionality $\forall X \forall Y \forall F[X = Y \rightarrow FX = FY]$. The principle of Extensionality can easily be made to fail by considering, for example, the predicates $P$: *rational featherless biped* and $Q$: *human being* and the function $K$ on predicates which assigns to each predicate the number of words in its description. Then we can agree that $P \approx Q$ but $KP = 3$ and $KQ = 2$.
+    step1: TBD
+    step2: TBD
+  - id: 98
+    kind: body
+    source: |-
+      In intuitionistic set theory (that is, set theory based on intuitionistic as opposed to classical logic—we shall abbreviate this as **IST**) and in topos theory the principles of Predicative Comprehension and Extensionality of Functions (both appropriately construed) hold and so there **AC** implies Excluded Middle.[^note-19] ^{,} [^note-20]
+    step1: TBD
+    step2: TBD
+  - id: 99
+    kind: body
+    source: |-
+      The derivation of Excluded Middle from *AC* was first given by Diaconescu (1975) in a category-theoretic setting. His proof employed essentially different ideas from the proof presented above; in particular, it makes no use of extensionality principles but instead employs the idea of the quotient of an object (or set) by an equivalence relation. It is instructive to formulate Diaconescu’s argument within **IST**. To do this, let us call a subset $U$ of a set $A$ *detachable* if there is a subset $V$ of $A$ for which $U \cap V = \varnothing$ and $U \cup V = A$. Diaconescu’s argument amounts to a derivation from **AC4** (see above) of the assertion that every subset of a set is detachable, from which Excluded Middle readily follows. Here it is.
+    step1: TBD
+    step2: TBD
+  - id: 100
+    kind: body
+    source: |-
+      First, given $U \subseteq A$, an *indicator* for $U$ (in $A$) is a map $g: A \times 2 \rightarrow 2$ satisfying
+
+      $$ U = \{ x \in A: g(x,0) = g(x,1) \} $$
+    step1: TBD
+    step2: TBD
+  - id: 101
+    kind: body
+    source: |-
+      It is then easy to show that a subset is detachable if and only if it has an indicator.
+    step1: TBD
+    step2: TBD
+  - id: 102
+    kind: body
+    source: |-
+      Now we show that, if **AC4** holds, then any subset of a set has an indicator, and hence is detachable.
+    step1: TBD
+    step2: TBD
+  - id: 103
+    kind: body
+    source: |-
+      For $U \subseteq A$, let $R$ be the binary relation on $A + A = A \times \{0\} \cup A \times \{1\}$ given by
+
+      $$ R = \{ ((x,0),(x,0)) : x \in A \} \cup \{ ((x,1),(x,1)) : x \in A \} \cup \{ ((x,0),(x,1) : x \in A \} \cup \{ ((x,1),(x,0) \} : x \in A $$
+    step1: TBD
+    step2: TBD
+  - id: 104
+    kind: body
+    source: |-
+      It can be checked that $R$ is an equivalence relation. Write $r$ for the natural map from $A + A$ to the quotient[^note-21] $Q$ of $(A + A)$ by $R$ which carries each member of $A + A$ to its $R-$equivalence class.
+    step1: TBD
+    step2: TBD
+  - id: 105
+    kind: body
+    source: |-
+      Now apply **AC4** to obtain a map $f: Q \rightarrow A + A$ satisfying $f(X) \in X$ for all $X \in Q$. It is then not hard to show that, writing $\pi_{1}$ for projection on the first coordinate,
+
+      $$ \tag{*} \mbox{for } n=0,1 \mbox{ and } x \in A, \pi_1(f(r(x,n))) = x; $$
+    step1: TBD
+    step2: TBD
+  - id: 106
+    kind: body
+    source: |-
+      and
+
+      $$ \tag{**} x \in U \leftrightarrow f(r(x,0)) = f(r(x,1)). $$
+    step1: TBD
+    step2: TBD
+  - id: 107
+    kind: body
+    source: |-
+      Now define $g: A \times 2 \rightarrow 2$ by $g = \pi_{2} \circ f \circ r$, where $\pi_2$ is a projection on the second coordinate. Then $g$ is an indicator for $U$, as the following equivalences show:
+    step1: TBD
+    step2: TBD
+  - id: 108
+    kind: body
+    source: |-
+      \begin{align} x \in U &\leftrightarrow f(r(x,0))=f(r(x,1)) \ldots \mbox{by (**)} \\ &\leftrightarrow \pi_{1}(f(r(x,0))) = \pi_{1}(f(r(x,1))) \wedge \pi_{2}(f(r(x,0))) = \pi_{2}(f(r(x,1))) \\ &\leftrightarrow \pi_{2}(f(r(x,0))) = \pi_{2}(f(r(x,1))) \ldots \mbox{using (*)} \\ &\leftrightarrow g(x,0) = g(x,1). \end{align}
+    step1: TBD
+    step2: TBD
+  - id: 109
+    kind: body
+    source: |-
+      The proof is complete.
+    step1: TBD
+    step2: TBD
+  - id: 110
+    kind: body
+    source: |-
+      It can be shown (Bell 2006)[^bell-2006] that each of a number of intuitionistically invalid logical principles, including the law of excluded middle, is *equivalent* (in intuitionistic set theory) to a suitably weakened version of the axiom of choice. Accordingly these logical principles may be viewed as choice principles.
+    step1: TBD
+    step2: TBD
+  - id: 111
+    kind: body
+    source: |-
+      Here are the logical principles at issue:
+    step1: TBD
+    step2: TBD
+  - id: 112
+    kind: body
+    source: |-
+      | **SLEM** | $\alpha \vee \neg \alpha$ ($\alpha$ any sentence) |
+      | --- | --- |
+      | **Lin** | $(\alpha \rightarrow \beta) \vee (\beta \rightarrow \alpha)$ ($\alpha$, $\beta$ any sentences) |
+      | **Stone** | $\neg \alpha \vee \neg\neg \alpha$ ($\alpha$ any sentence) |
+      | **Ex** | $\exists x[ \exists x \alpha(x) \rightarrow \alpha(x)]$ ($\alpha(x)$ any formula with at most $x$ free) |
+      | **Un** | $\exists x[\alpha(x) \rightarrow \forall x\alpha(x)]$ ($\alpha(x)$ any formula with at most $x$ free) |
+      | **Dis** | $\forall x[\alpha \vee \beta(x)] \rightarrow \alpha\vee\forall x\beta(x)$ ($\alpha$ any sentence, $\beta(x)$ any formula with at most $x$ free) |
+    step1: TBD
+    step2: TBD
+  - id: 113
+    kind: body
+    source: |-
+      Over intuitionistic logic, **Lin**, **Stone** and **Ex** are consequences of **SLEM**; and **Un** implies **Dis**. All of these schemes follow, of course, from the full law of excluded middle, that is **SLEM** for arbitrary formulas.
+    step1: TBD
+    step2: TBD
+  - id: 114
+    kind: body
+    source: |-
+      In what follows the empty set is denoted by 0, $\{0\}$ by 1, and $\{0, 1\}$ by 2.
+    step1: TBD
+    step2: TBD
+  - id: 115
+    kind: body
+    source: |-
+      We formulate the following choice principles—here $X$ is an arbitrary set, $\Fun(X)$ the class of functions with domain $X$ and $\phi(x,y)$ an arbitrary formula of the language of set theory with at most the free variables $x$, $y$:
+    step1: TBD
+    step2: TBD
+  - id: 116
+    kind: body
+    source: |-
+      | **AC**$_X$ | $\forall x\in X\ \exists y \phi(x,y) \rightarrow \exists f \in \Fun(X)\ \forall x \in X\ \phi(x,fx)$ |
+      | --- | --- |
+      | **AC**$^*_X$ | ${\exists f \inn \Fun(X)} [{\forall x\inn X}\ \exists y \phi(x,y) \rightarrow {\forall x \inn X}\ \phi(x,fx)]$ |
+      | **DAC**$_X$ | $\forall f \inn Fun(X)\ {\exists x \inn X}\ \phi(x,fx) \rightarrow {\exists x \inn X}\ \forall y \phi(x,y)$ |
+      | **DAC**$^*_X$ | ${\exists f \inn \Fun(X)}\ [{\exists x\inn X}\ \phi(x,fx) \rightarrow {\exists x \inn X}\ \forall y \phi(x,y)]$ |
+    step1: TBD
+    step2: TBD
+  - id: 117
+    kind: body
+    source: |-
+      The first two of these are forms of *AC* for $X$; while classically equivalent, in **IST** **AC**$^*_X$ implies **AC**$_X$, but not conversely. The principles **DAC**$_X$ and **DAC**$^*_X$ are *dual* forms of the axiom of choice for $X$: classically they are both equivalent to **AC**$_X$ and **AC**$^*_X$ but intuitionistically **DAC**$^*_X$ implies **DAC**$_X$, and not conversely.
+    step1: TBD
+    step2: TBD
+  - id: 118
+    kind: body
+    source: |-
+      We also formulate the *weak extensional selection principle*, in which $\alpha(x)$ and $\beta(x)$ are any formulas with at most the variable $x$ free:
+    step1: TBD
+    step2: TBD
+  - id: 119
+    kind: body
+    source: |-
+      **WESP**: ${\exists x\inn 2}\ \alpha(x) \wedge {\exists x \inn 2}\ \beta(x) \rightarrow {\exists x \inn 2}\ {\exists y \inn 2}\ [\alpha(x) \wedge \beta(y) \wedge [{\forall x \inn 2}\ [\alpha(x) \leftrightarrow \beta(x)] \rightarrow x = y]].$
+    step1: TBD
+    step2: TBD
+  - id: 120
+    kind: body
+    source: |-
+      This principle, a straightforward consequence of the axiom of choice, asserts that, for any pair of instantiated properties of members of 2, instances may be assigned to the properties in a manner that depends just on their extensions.
+    step1: TBD
+    step2: TBD
+  - id: 121
+    kind: body
+    source: |-
+      Each of the logical principles tabulated above is equivalent (in **IST**) to a choice principle. In fact:
+    step1: TBD
+    step2: TBD
+  - id: 122
+    kind: body
+    source: |-
+      - **WESP** and **SLEM** are equivalent over **IST**.
+      - **AC**$^*_1$ and **Ex** are equivalent over **IST**.
+    step1: TBD
+    step2: TBD
+  - id: 123
+    kind: body
+    source: |-
+      Further, while **DAC**$_1$ is easily seen to be provable in **IST**, we have
+    step1: TBD
+    step2: TBD
+  - id: 124
+    kind: body
+    source: |-
+      - **DAC**$^*_1$ and **Un** are equivalent over **IST**.
+    step1: TBD
+    step2: TBD
+  - id: 125
+    kind: body
+    source: |-
+      Next, while **AC**$_2$ is easily proved in **IST**, by contrast we have
+    step1: TBD
+    step2: TBD
+  - id: 126
+    kind: body
+    source: |-
+      - **DAC**$_2$ and **Dis** are equivalent over **IST**.
+      - Over **IST**, **DAC**$^*_2$ is equivalent to **Un**, and hence also to **DAC**$^*_1$.
+    step1: TBD
+    step2: TBD
+  - id: 127
+    kind: body
+    source: |-
+      In order to provide choice schemes equivalent to **Lin** and **Stone** we introduce
+    step1: TBD
+    step2: TBD
+  - id: 128
+    kind: body
+    source: |-
+      **ac**$^*_X$: ${\exists f \inn 2^X} [{\forall x\inn X}\ {\exists y \inn 2}\ \phi(x,y) \rightarrow {\exists x \inn X}\ \phi(x,fx)]$
+    step1: TBD
+    step2: TBD
+  - id: 129
+    kind: body
+    source: |-
+      **wac**$^*_X$: ${\exists f \inn 2^X} [{\forall x \inn X}\ {\exists y \inn 2}\ \phi(x,y) \rightarrow {\forall x \inn X}\ \phi(x,fx)]$ provided it is provable in **IST** that $\forall x[\phi(x,0) \rightarrow \neg\phi(x,1)]$
+    step1: TBD
+    step2: TBD
+  - id: 130
+    kind: body
+    source: |-
+      Clearly **ac**$^*_X$ is equivalent to
+    step1: TBD
+    step2: TBD
+  - id: 131
+    kind: body
+    source: |-
+      ${\exists f \inn 2^X}[{\forall x \inn X}[\phi(x,0) \vee \phi(x,1)] \rightarrow {\forall x \inn X}\ \phi(x,fx)]$
+    step1: TBD
+    step2: TBD
+  - id: 132
+    kind: body
+    source: |-
+      and similarly for **dac**$^*_X$.
+    step1: TBD
+    step2: TBD
+  - id: 133
+    kind: body
+    source: |-
+      Then, over **IST**, **ac**$^*_1$ and **dac**$^*_1$ are equivalent, respectively, to **Lin** and **Stone**.
+    step1: TBD
+    step2: TBD
+  - id: 134
+    kind: body
+    source: |-
+      These results show just how deeply choice principles interact with logic, when the background logic is assumed to be intuitionistic. In a classical setting where the Law of Excluded Middle is assumed these connections are obliterated.
+    step1: TBD
+    step2: TBD
+  - id: 135
+    kind: body
+    source: |-
+      Readers interested in the topic of the axiom of choice and type theory may consult the following supplementary document:
+    step1: TBD
+    step2: TBD
+  - id: 136
+    kind: body
+    source: |-
+      > [The Axiom of Choice and Type Theory](axiom-choice.choice-and-type-theory.md)
+    step1: TBD
+    step2: TBD
+  - id: 137
+    kind: oir
+    source: |-
+      - [A home page for the axiom of choice](http://www.math.vanderbilt.edu/~schectex/ccc/choice.html), maintained by Eric Schecter (Vanderbilt).
+    step1: TBD
+    step2: TBD
+  - id: 138
+    kind: ack
+    source: |-
+      The author and editors would like to thank Jesse Alama for carefully reading this piece and making many valuable suggestions for improvement.
+    step1: TBD
+    step2: TBD
+  - id: 139
+    kind: note
+    source: |-
+      [^note-1]: Zermelo does not, however, actually give the principle an explicit name at this point. ( He does so only in 1908, where he uses the term “postulate of choice”. We note that Zermelo here uses the term “product” , which is the reason why a number of mathematicians (in particular Russell and Ramsey) referred to the axiom as the “multiplicative axiom” (see §4 below).
+    step1: TBD
+    step2: TBD
+  - id: 140
+    kind: note
+    source: |-
+      [^note-2]: A function $f$: $A \rightarrow B$ is *surjective* if for any element $b \in B$ there is $a \in A$ such that $f(a) = b$. A *right inverse* to $f$ is a function $g: B \rightarrow A$ such that, for any $x\in B$, $f(g(x) = x$.
+    step1: TBD
+    step2: TBD
+  - id: 141
+    kind: note
+    source: |-
+      [^note-3]: Zermelo’s formulation reads literally:
+
+      > A set $S$ that can be decomposed into a set of disjoint parts $A$, $B$, $C$, … , each containing at least one element, possess at least one subset $S_{1}$ having exactly one element with each of the parts $A$, $B$, $C$, … , considered.
+    step1: TBD
+    step2: TBD
+  - id: 142
+    kind: note
+    source: |-
+      [^note-4]: The difficulty here is amusingly illustrated by an anecdote due to Bertrand Russell. A millionaire possesses an infinite number of pairs of shoes, and an infinite number of pairs of socks. One day, in a fit of eccentricity, the millionaire summons his valet and asks him to select one shoe from each pair. When the valet, accustomed to receiving precise instructions, asks for details as to how to perform the selection, the millionaire suggests that the left shoe be chosen from each pair. Next day the millionaire proposes to the valet that he select one *sock* from each pair. When asked as to how *this* operation is to be carried out, the millionaire is at a loss for a reply, since, unlike shoes, there is no intrinsic way of distinguishing one sock of a pair from the other. In other words, the selection of the socks must be truly arbitrary.
+    step1: TBD
+    step2: TBD
+  - id: 143
+    kind: note
+    source: |-
+      [^note-5]: In 1923 Hilbert asserted:
+
+      > The essential idea on which the axiom of choice is based constitutes a general logical principle which, even for the first elements of mathematical inference, is indispensable.
+
+      (Quoted in section 4.8 of Moore 1982.)[^moore-1982]
+    step1: TBD
+    step2: TBD
+  - id: 144
+    kind: note
+    source: |-
+      [^note-6]: For a detailed history of the Axiom of Choice, see Moore 1982.
+    step1: TBD
+    step2: TBD
+  - id: 145
+    kind: note
+    source: |-
+      [^note-7]: Here ($x)_{x\in X}$ indicates that all the members of $X$ are taken as designated elements of the structure, i.e. as being named by constant symbols in the associated first-order language.
+    step1: TBD
+    step2: TBD
+  - id: 146
+    kind: note
+    source: |-
+      [^note-8]: For a detailed account of the proof of the independence of the Axiom of Choice, see Bell 2005 or Jech 1973.
+    step1: TBD
+    step2: TBD
+  - id: 147
+    kind: note
+    source: |-
+      [^note-9]: For the proof of *ZL* from *AC* in **ZF**, see Mendelson 1987 (Ch. 4, sect. 5). For a proof not using ordinals, and so formulable in Zermelo set theory, see Bourbaki 1950 or Lawvere and Rosebrugh 2003 (Appendix B).
+    step1: TBD
+    step2: TBD
+  - id: 148
+    kind: note
+    source: |-
+      [^note-10]: Thus a nest in $S$ is a chain in $S$ partially ordered by set inclusion.
+    step1: TBD
+    step2: TBD
+  - id: 149
+    kind: note
+    source: |-
+      [^note-11]: That minimal samplings are transversals requires demonstration. Suppose $S$ is a minimal sampling; then, given $X\in \sI$ either (1) $S\cap X$ is finite nonempty or (2) $X \subseteq S$. In case (1) $S\cap X$ cannot contain two distinct elements because the removal of one of them from $S$ would yield a sampling smaller than $S$, violating its minimality. So in this case $S\cap X$ must be a singleton. In case (2) $S$ cannot contain two distinct elements $a$, $b$ since, if it did, $S' = [(S - X) \cup \{a\}]$ would be a sampling smaller than $S$ (notice that $S' \cap X = \{a\}$ and the relations of $S'$ with the members of $\sI - \{X\}$ are the same as those of $S$), again violating the minimality of $S$. So in this case $X$, and *a fortiori* $S\cap X$ must be a singleton.
+    step1: TBD
+    step2: TBD
+  - id: 150
+    kind: note
+    source: |-
+      [^note-12]: Had we elected to follow more closely the intuitive combinatorial derivation of *AC* as sketched above by using selectors instead of samplings we would have encountered the obstacle that—unlike the set of samplings—the set of selectors is not necessarily reductive.
+    step1: TBD
+    step2: TBD
+  - id: 151
+    kind: note
+    source: |-
+      [^note-13]: For equivalents of the Axiom of Choice, see Rubin and Rubin 1985; for consequences, see Howard and Rubin 1998.
+    step1: TBD
+    step2: TBD
+  - id: 152
+    kind: note
+    source: |-
+      [^note-14]: “Weaker” here means that, within the context of the axioms of set theory (minus, of course, *AC*), the proposition in question is entailed by *AC*, but not vice-versa.
+    step1: TBD
+    step2: TBD
+  - id: 153
+    kind: note
+    source: |-
+      [^note-15]: The idea of the proof goes back to Goodman and Myhill 1978, which was itself built on a result of Diaconescu 1975. See below.
+    step1: TBD
+    step2: TBD
+  - id: 154
+    kind: note
+    source: |-
+      [^note-16]: See Bishop and Bridges 1985.
+    step1: TBD
+    step2: TBD
+  - id: 155
+    kind: note
+    source: |-
+      [^note-17]: See Supplementary Document. For an analysis of various versions of *AC* within constructive type theory, see Martin-Löf 2006.
+    step1: TBD
+    step2: TBD
+  - id: 156
+    kind: note
+    source: |-
+      [^note-18]: Also, of course, use was made of $0 \ne 1$, but this assumption is so weak that it may be consistently added to virtually any axiomatic system.
+    step1: TBD
+    step2: TBD
+  - id: 157
+    kind: note
+    source: |-
+      [^note-19]: But in weak set theories lacking the axiom of extensionality the derivation of Excluded Middle from *AC* does not go through: some form of extensionality, or the existence of quotient sets for equivalence relations, needs to be assumed. See Bell 2008.
+    step1: TBD
+    step2: TBD
+  - id: 158
+    kind: note
+    source: |-
+      [^note-20]: With Zorn’s Lemma the situation is otherwise. For despite its equivalence to *AC* in classical set theory, in intuitionistic set theory Zorn’s Lemma *does not imply* **LEM:** in fact, it has no “non-constructive” logical consequences whatsoever (Grayson 1975, Bell 1997)[^bell-1997][^grayson-1975]. Thus Zorn’s Lemma is considerably weaker than *AC* in intuitionistic set theory. Intuitionistic equivalents of Zorn’s Lemma are scarce; a few have been formulated in Bell 2003.
+    step1: TBD
+    step2: TBD
+  - id: 159
+    kind: note
+    source: |-
+      [^note-21]: That is, the set of all $R$-equivalence classes of members of $A$.
+    step1: TBD
+    step2: TBD

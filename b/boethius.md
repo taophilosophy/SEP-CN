@@ -152,6 +152,18 @@
 
 **以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
 
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+### Primary Literature
+
+#### Texts by Boethius in Latin
+
+#### Other Primary Texts
+
+#### Selected English (and other) Translations of Primary Texts
+
+### Secondary Literature
+
 [^de-1867]: *De institutione musica*, G. Friedlein (ed.), Leipzig: Teubner, 1867.
 
 [^de-1999]: *De arithmetica*, H. Oosthout and J. Schilling (eds.), Turnhout: Brepols, 1999 (Corpus Christianorum series latina 94a).

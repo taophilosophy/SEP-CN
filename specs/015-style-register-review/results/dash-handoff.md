@@ -10,9 +10,11 @@
 4. **样板修复**：`m/mathematics-inconsistent.md` 完成——22 段 58 处破折号句全部整句回源重译，残余 0；`check_prose` 回落 s2 豁免基线 8 条（无新增）；`check_style`／`check_academic --strict` 过。复核记录见 dash-verdicts 末条。
 5. **机械替换回溯审计（2026-11-12，用户裁定「存在机械替换情况，禁止，必须重译」）**：新工具 `bin/mech_audit.py` 对全部已收口条目的修复 commit 逐行做 diff 分类（pure＝去标点逐字同＝纯符号替换；conn＝相似度≥0.95 且增删≤4 字＝连接词级补丁；susp＝0.85–0.95＝须人工判读），产出 `results/mech-spots.json`。首轮覆盖 17 条收口词条、438 处候选＋20 处 susp，**逐处回 `yuanwen/` 源句比对后实修 29 处、9 条词条判定零实修**（明细见 dash-verdicts 2026-11-12 各条）。查出的硬伤示例：kepler 诸行星「并不规则」↔源文 moved irregularly（语义翻转）、mathematics-inconsistent「特例微积分」连读（删对破折号）、al-farabi「哲学家—先知—统治者」被擅改为「兼……兼」（合规连接号误改，已回滚）。结论：符号层替换集中在 early 批次，且多数恰与源句结构对应（such as→括注、that is→即）；**「相似度高」不等于违规，必须回源定性**。
 
+**并行会话收编造成的审计噪声（2026-11-12/13，luxemburg）**：他会话会把本会话在途改动并入自己的混合提交（luxemburg 被 85b804909、8d666e62e 两次收编，提交信息皆「！」，禁 amend 无法追改）。此后 `mech_audit` 会为每个被改段落生成整段配对候选（本库一行即一整段），pure/conn/susp 数量随之放大。判读口径：**只看 `cur_lineno` 是否仍定位**——pure 未定位＝旧文本已被后续整句重译覆盖（luxemburg 7 处即此情形，无需再改）；pure 仍定位＝纯符号替换未消，必改（luxemburg L95 已由 accceb9cf 整句重译）；conn/susp 未定位可略，定位者回源判「保持」并写进 verdicts evidence。
+
 ## 续做队列（按 dash-scan 密度降序）
 
-lambert-auxerre→dai-zhen→…→kilvington→leibniz-mind→lakatos **等 19 条已收口且通过机械替换回溯审计**（见 dash-verdicts `action=none`）。**下一条：luxemburg（136 对，7.86/千字）**，其后 leibniz-evil（144）→ lorenzo-valla（116）→ karl-reinhold（98）→ ockham（156）→ duhem（98）→ 18thGerman-preKant（139）→ kochen-specker（118）→ abrabanel（78）→ …（余 32 条全清单见 dash-verdicts.jsonl `action=fix`，动手前以 dash_scan.py 最新复扫为准）。
+lambert-auxerre→dai-zhen→…→kilvington→leibniz-mind→lakatos→luxemburg **等 20 条已收口且通过机械替换回溯审计**（见 dash-verdicts `action=none`）。**下一条：leibniz-evil（144 对，7.83/千字）**，其后 lorenzo-valla（116，7.82）→ karl-reinhold（98，7.68）→ ockham（156，7.65）→ duhem（98，7.60）→ 18thGerman-preKant（139，7.44）→ kochen-specker（118，7.26）→ abrabanel（78，7.26）→ …（余 32 条全清单见 dash-verdicts.jsonl `action=fix`，动手前以 dash_scan.py 最新复扫为准）。
 
 **并行安全（2026-11-12 血泪）**：本仓库多会话共用一个工作区，他会话的「门禁清障／rebase autostash」会**清空未提交改动**（lakatos 一次 224 处改动被整篇回滚、无 git 对象可恢复）。因此：① 一条词条**改完立即 `git add` + commit**，不要攒着；② 大批量替换写成幂等脚本（`script/_<slug>_dash_fix.py`，每对 old/new 断言唯一命中、已应用则跳过）一次跑完再核；③ 动手前 `stat` 目标文件 mtime，若数分钟内在变，先等其落定。
 
