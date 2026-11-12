@@ -2,10 +2,32 @@
  "key": "sabab",
  "term": "sabab",
  "provider": "termonline-all",
- "queried_at": "2026-11-12T14:29:41+00:00",
- "status": "error",
- "note": "variant=sabab; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "sabab: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T16:16:12+00:00",
+ "status": "ok",
+ "note": "variant=sabab; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "撒坝猪",
+   "en": "Saba pig",
+   "code": "03.060",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_家畜家禽品种_猪品种_地方猪品种"
+  },
+  {
+   "cn": "伊拉克入侵科威特",
+   "en": "Fahad Al-Ahmed Al-Jaber Al-Sabah",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "撒班节",
+   "en": "Saban Festival",
+   "code": "3.0655",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_新疆研究"
+  }
+ ],
+ "error": null,
  "raw": null
 }

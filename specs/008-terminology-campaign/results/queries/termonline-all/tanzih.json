@@ -2,10 +2,25 @@
  "key": "tanzih",
  "term": "tanzīh",
  "provider": "termonline-all",
- "queried_at": "2026-11-12T14:29:41+00:00",
- "status": "error",
- "note": "variant=tanzīh; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "tanzīh: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-12T16:23:43+00:00",
+ "status": "ok",
+ "note": "variant=tanzīh; 审定公布名词库=0; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "德意志舞曲",
+   "en": "deutscher Tanz",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "邀舞",
+   "en": "Aufforderung zum Tanz",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  }
+ ],
+ "error": null,
  "raw": null
 }
