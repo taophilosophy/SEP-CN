@@ -42,7 +42,7 @@ On the other hand, when the ambient logic is intuitionist, $\BI_{\igen}$ is much
 
 In his 1960, Spector gave a consistency proof of $\bZ_2$ by means of a functional interpretation. To find a class of functionals sufficient unto the task of lifting the D-interpretation to $\bZ_2$, he defined the so-called bar recursive functionals. The crucial step in the interpretation is to furnish a functional interpretation of the negative translation of $\BI_{\igen}$, which by Theorem C.2 gives rise to an interpretation of $\bZ_2$. For this he extended intuitionist $\BI_{\igen}$ to all finite types. Bar induction for type $\sigma$, $\BI_{\sigma}$, is formulated similar to $\BI_{\igen}$, the difference being that instead of just looking at the tree of all finite sequences of natural numbers $\bbN^*$, one takes the full tree of finite sequences $\langle F_1,\ldots,F_r\rangle$ of objects $F_i$ of type $\sigma$, $\cT_{\sigma}$. A bar of the latter is defined in complete analogy to a bar of $\bbN^*$.
 
-Instead of $\BI_{\sigma}$, Spector’s extension of T has a scheme, $\bBR_{\sigma}$ for defining functionals by *bar recursion* on the tree $\cT_{\sigma}$. The first step is to interpret the theory $\bHA^{\sharp}+\BI_{\sigma}$ in Spector’s $\bT+\bBR_{\sigma}$, where $\bHA^{\sharp}$ is the theory $\bHA^{\omega}$ augmented by the axioms
+Instead of $\BI_{\sigma}$, Spector’s extension of **T** has a scheme, $\bBR_{\sigma}$ for defining functionals by *bar recursion* on the tree $\cT_{\sigma}$. The first step is to interpret the theory $\bHA^{\sharp}+\BI_{\sigma}$ in Spector’s $\bT+\bBR_{\sigma}$, where $\bHA^{\sharp}$ is the theory $\bHA^{\omega}$ augmented by the axioms
 
 $$ \tag{c1}\label{D} A\leftrightarrow A^D $$
 

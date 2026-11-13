@@ -261,7 +261,7 @@ Special thanks for their comments to Susanna Siegel, Rebecca Copenhaver, and to 
 
 [^chomanski-2018]: Chomanski, Bartek, and Elijah Chudnoff, 2018, “How Perception Generates, Preserves, and Mediates Justification.” *Inquiry: An Interdisciplinary Journal of Philosophy* 61 (5–6): 559–68. doi:10.1080/0020174x.2017.1385531
 
-[^chudnoff-2018]: Chudnoff, Elijah, 2018, “The Epistemic Significance of Perceptual Learning”, *Inquiry,*61(5-6): 520–542.
+[^chudnoff-2018]: Chudnoff, Elijah, 2018, “The Epistemic Significance of Perceptual Learning”, *Inquiry,* 61(5-6): 520–542.
 
 [^chudnoff-2020]: –––, 2020, *Forming Impressions: Expertise in Perception and Intuition*. Oxford: Oxford University Press.
 
@@ -387,7 +387,7 @@ Special thanks for their comments to Susanna Siegel, Rebecca Copenhaver, and to 
 
 [^matthen-2014]: Matthen, Mohan, 2014, “How to Be Sure: Sensory Exploration and Empirical Certainty”, *Philosophy and Phenomenological Research*, 88(1): 38–69. doi:10.1111/j.1933-1592.2011.00548.x
 
-[^matthen-2015]: –––, 2015, “Play, Skill, and the Origins of Perceptual Art”, *British Journal of Aesthetics,*55(2):173–197
+[^matthen-2015]: –––, 2015, “Play, Skill, and the Origins of Perceptual Art”, *British Journal of Aesthetics,* 55(2):173–197
 
 [^meltzoff-1977]: Meltzoff, Andrew N. & M. Keith Moore, 1977, “Imitation of Facial and Manual Gestures by Human Neonates”, *Science*, 198(4312): 75–78. doi:10.1126/science.198.4312.75
 
@@ -469,7 +469,7 @@ Special thanks for their comments to Susanna Siegel, Rebecca Copenhaver, and to 
 
 [^stanley-2017]: Stanley, Jason & Timothy Williamson, 2017, “Skill”, *Noûs*, (4):713–726 doi:10.1111/nous.12144
 
-[^stokes-2014]: Stokes, Dustin, 2014, “Cognitive Penetration and the Perception of Art,” *Dialectica,*68(1): pp. 1–34.
+[^stokes-2014]: Stokes, Dustin, 2014, “Cognitive Penetration and the Perception of Art,” *Dialectica,* 68(1): pp. 1–34.
 
 [^stokes-2015]: –––, 2015, “Towards a Consequentialist Understanding of Cognitive Penetration”, in Zeimbekis & Raftopoulos 2015: pp. 75–100. doi:10.1093/acprof:oso/9780198738916.003.0003
 
@@ -485,7 +485,7 @@ Special thanks for their comments to Susanna Siegel, Rebecca Copenhaver, and to 
 
 [^vaassen-2016]: Vaassen, Bram M.K., 2016, “Basic Beliefs and the Perceptual Learning Problem: A Substantial Challenge for Moderate Foundationalism”, *Episteme*, 13(1): 133–149. doi:10.1017/epi.2015.58
 
-[^watanabe-2015]: Watanabe, Takeo, & Sasaski, Yuka, 2015, “Perceptual learning: Toward a comprehensive theory” , *Annual Review of Psychology,*66: pp. 197–221.
+[^watanabe-2015]: Watanabe, Takeo, & Sasaski, Yuka, 2015, “Perceptual learning: Toward a comprehensive theory” , *Annual Review of Psychology,* 66: pp. 197–221.
 
 [^webster-2012]: Webster, Michael A., 2012, “Evolving Concepts of Sensory Adaptation”, *F1000 Biology Reports*, 4: 21. doi:10.3410/B4-21 [[Webster 2012 available online](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3501690/)]
 

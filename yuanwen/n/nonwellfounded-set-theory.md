@@ -333,7 +333,8 @@ This entry reflects the influence of all of these sources. To be sure, we shall 
 
 We conclude this section with links to the two following supplementary documents:
 
-> [Universal Harsanyi Type Spaces](nonwellfounded-set-theory.harsanyi-type-spaces.md) [Self-similar Sets of Real Numbers](nonwellfounded-set-theory.self-similar-sets.md)
+> [Universal Harsanyi Type Spaces](nonwellfounded-set-theory.harsanyi-type-spaces.md)
+> [Self-similar Sets of Real Numbers](nonwellfounded-set-theory.self-similar-sets.md)
 
 These contain introductory points on two issues that we shall revisit (again, in supplementary documents) at the end of this entry. The reason for the separation is that the issues discussed pertain to game theory and measure theory on the one hand, and fractals and metric spaces on the other. That is, the discussions are not entirely set theoretic. In addition, the mathematical prerequisites for all our supplements are greater than for the main body of this entry. They may be omitted without losing the main thread. However, we emphasize that the overall theory presented in this entry does treat all of these instances of circularity “under the same roof.”
 

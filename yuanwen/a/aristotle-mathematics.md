@@ -223,7 +223,8 @@ To say that a line is comprised of an infinity of potential points is no more th
 
 Suppose I have a line *AB* and cut it at *C*. The lines *AC* and *CB* are distinct. Is *C* one point or two?
 
-> *C* is one point in number. *C* is two points in its being or formula (*logos*).
+> *C* is one point in number.
+> *C* is two points in its being or formula (*logos*).
 
 This merely means that we can treat it once or twice or as many times as we choose. Note that Aristotle says the same thing about a continuous proportion. in *a* : *b* = *b* : *c*, *b* is one magnitude in being, but is used as two.
 

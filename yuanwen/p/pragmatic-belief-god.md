@@ -469,7 +469,7 @@ God, arguments for the existence of: moral arguments | James, William | life: me
 
 [^mavrodes-1986]: Mavrodes, George, 1986. “Religion and the Queerness of Morality,” in *Rationality, Religious Belief, and Moral Commitment: New Essays in the Philosophy of Religion*, R. Audi & W. Wainwright (eds.), Ithaca: Cornell University Press, pp. 213–26.
 
-[^mawson-2019]: Mawson, T.J. 2019. *Monotheism and the Meaning of Life.*Cambridge: Cambridge University Press.
+[^mawson-2019]: Mawson, T.J. 2019. *Monotheism and the Meaning of Life.* Cambridge: Cambridge University Press.
 
 [^metz-2019]: Metz, Thaddeus, 2019. *God,* *Soul and the Meaning of Life*. Cambridge: Cambridge University Press.
 

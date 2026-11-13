@@ -277,7 +277,7 @@ Abner of Burgos | al-Ghazali | Aristotle | free will | Ibn Rushd [Averroes] | Ib
 
 [^haliva-2020]: Haliva, Racheli. 2020, *Isaac Polqar – A Jewish Philosopher or a Philosopher and a Jew*? Philosophy and Religion in Isaac Polqar’s ʿEzer ha-Dat and Teshuvat Apikoros, Berlin & Boston: De Gruyter.
 
-[^haliva-2019]: –––, 2019, “The Mosaic Commandments—an Anti-Skeptical Approach in Jewish Averroism,” in: *Falsafa. Yearbook for Islamic Philosophy of Religion***,**Ahmad Milad Karimi (ed.), pp. 36–55.
+[^haliva-2019]: –––, 2019, “The Mosaic Commandments—an Anti-Skeptical Approach in Jewish Averroism,” in: *Falsafa. Yearbook for Islamic Philosophy of Religion***,** Ahmad Milad Karimi (ed.), pp. 36–55.
 
 [^haliva-2018]: –––, 2018, The Origin of the World – An Anti-Sceptical Approach in Medieval Jewish Averroism, in: *Scepticism and Anti-Scepticism in Jewish Philosophy and Thought*, Racheli Haliva (ed.), Berlin & Boston: De Gruyter, pp. 130–145.
 
@@ -327,7 +327,7 @@ Abner of Burgos | al-Ghazali | Aristotle | free will | Ibn Rushd [Averroes] | Ib
 
 [^roth-1992]: –––, 1992, “Isaac Polgar y su Libro Contra un Converso”, in Del Valle 1992: 67–73.
 
-[^sadik-2015]: Sadik, Shalom, 2015, “Negation of Political Success in the Thought of Rabbi Isaac Pulgar,” *AJS*39:1, 1–13. [Hebrew]
+[^sadik-2015]: Sadik, Shalom, 2015, “Negation of Political Success in the Thought of Rabbi Isaac Pulgar,” *AJS* 39:1, 1–13. [Hebrew]
 
 [^sadik-2014]: –––, 2014, “God’s Will, God’s Knowledge and Human’s Will in the Thought of Rabbi Isaac Polqar”, *Daʿat* 76: 147–172. [Hebrew]
 

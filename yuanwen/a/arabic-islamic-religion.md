@@ -62,7 +62,8 @@ Ironically, the philosopher Ibn Rushd, who was a critic of Ghazālī, shared a s
 
 The issue is how to determine which Qur’anic passages and prophetic statements must be taken literally and which ones metaphorically. Ibn Rushd’s view concerning theoretical matters treated in religion, though not in practical and ethical issues, is that there simply is no consensus (*ijmāʿ*). Muslim scholars, for Ibn Rushd, simply do not universally agree as to which scriptures and traditions must be taken literally and which can be taken metaphorically. Hence, there is no religious basis for precluding metaphorical interpretation of any text or prophetic saying treating theoretical issues whose apparent meaning conflicts with a demonstration. The only obligation on the religious scholar is that he must not share metaphorical interpretations of sacred sources with those who are incapable of grasping a demonstration. The greatest proponent of Islamic philosophical mysticism, Ibn ʿArabī (d. 1240), also shared this inclusive view of scripture’s intended meaning. For him, every word, verse and chapter of the Qur’an have an indefinite number of senses and interpretations, and God intended all of them. Thus, in the *Meccan Revelations*, he writes,
 
-> When a meaning repeats itself for someone who is reciting the Qur’an, he has not recited it as it should be. This is proof of his ignorance. (cited in Chittick 2005: 18 = (Ibn al-ʿArabī al-Futūḥāt al-Makkiyya (a), IV, 367.3)
+> When a meaning repeats itself for someone who is reciting the Qur’an, he has not recited it as it should be. This is proof of his ignorance. (cited in Chittick 2005: 18 = (Ibn al-ʿArabī *al-Futūḥāt
+> al-Makkiyya* (a), IV, 367.3)
 
 ### 1.3 Conflicts between religious teachings and science/philosophy
 

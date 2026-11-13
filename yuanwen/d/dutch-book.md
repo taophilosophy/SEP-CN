@@ -456,7 +456,7 @@ Special thanks to Branden Fitelson, Alan Hájek, and an anonymous SEP referee fo
 
 [^teller-1973]: Teller, Paul, 1973, “Conditionalization and Observation”, *Synthese*, 26: 218–258.
 
-[^fraassen-1995]: van Fraassen, Bas, 1995, “Belief and the Problem of Ulysses and the Sirens”,*Philosophical Studies*, 77: 7–37.
+[^fraassen-1995]: van Fraassen, Bas, 1995, “Belief and the Problem of Ulysses and the Sirens”, *Philosophical Studies*, 77: 7–37.
 
 [^fraassen-1984]: –––, 1984, “Belief and the Will”, *Journal of Philosophy*, 81 (May): 235–256.
 

@@ -364,7 +364,8 @@ In a couple of papers, Chisholm tried to show how the central concepts of axiolo
 
 In “The Ethics of Requirement”, Chisholm uses ‘*pRq*’ to abbreviate ‘*p* would require *q*’. The relevant concept of requirement is operative in the statement ‘If I were to promise to meet you for lunch that would require my meeting you for lunch.’ An actual requirement for *q* comes into being when *q* is required by something, *p*, *and p actually occurs*. Thus, if I actually did promise to meet you for lunch, then there is a requirement that I show up. But even if actual, the requirement is defeasible. It may be overridden. When an action is actually required in this way, it counts at least as a prima facie obligation. If I meet an injured stranger on the way to lunch, and I alone am qualified to tend to his injuries, then this further state of affairs overrides my prima facie obligation to meet you for lunch. In light of this, Chisholm defines all-in, or all things considered, obligation as non-overridden requirement. In other words:
 
-> *q* is all things considered obligatory =_{*df*}     ∃*p*(*pRq* & *p* occurs & ~∃*s*(*s* occurs & ~((*p*&*s*)*Rq*)))
+> *q* is all things considered obligatory =_{*df*}
+>     ∃*p*(*pRq* & *p* occurs & ~∃*s*(*s* occurs & ~((*p*&*s*)*Rq*)))
 
 This concept of obligation is not restricted to actions. It is a concept of the “ought to be”. In order to explain the “ought to do”, Chisholm introduces another operator, ‘*A*’. ‘*Ap*’ expresses the idea that a person *S* *succeeds in bringing about* the state of affairs *p*. Making use this further expression, Chisholm defines the ought to do by saying that the statement that *S* ought to bring about some state of affairs *p* just means *OAp*.
 

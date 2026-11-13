@@ -1024,7 +1024,7 @@ Thanks to Robert Audi, Alan Nelson, Ram Neta, and Shaun Nichols, for helpful dis
 
 [^nelson-1997]: Nelson, Alan, 1997. “Descartes’s Ontology of Thought,” *Topoi*, 16: 163–178.
 
-[^nelson-2007]: –––, 2007. “Cartesian Innateness,” in *A Companion to Descartes*, ed. Janet Broughton and John Carriero, Oxford: Blackwell, 319–33.
+[^nelson-2007]: –––, 2007. “Cartesian Innateness,” in *A Companion to Descartes* , ed. Janet Broughton and John Carriero, Oxford: Blackwell, 319–33.
 
 [^nelson-2016]: –––, 2016. “The Cartesian Circle,” in *The Cambridge Descartes Lexicon*, ed. L. Nolan, Cambridge University Press, 109–18.
 
@@ -1038,7 +1038,7 @@ Thanks to Robert Audi, Alan Nelson, Ram Neta, and Shaun Nichols, for helpful dis
 
 [^newman-2006]: –––, 2006. “Descartes’ Rationalist Epistemology,” in *A Companion to Rationalism*, ed. Alan Nelson, Oxford: Blackwell, 179–205.
 
-[^newman-2007]: –––, 2007. “Descartes on the Will in Judgment,” in *A Companion to Descartes*, ed. Janet Broughton and John Carriero, Oxford: Blackwell, 334–52.
+[^newman-2007]: –––, 2007. “Descartes on the Will in Judgment,” in *A Companion to Descartes* , ed. Janet Broughton and John Carriero, Oxford: Blackwell, 334–52.
 
 [^newman-2009]: –––, 2009. “Ideas, Pictures, and the Directness of Perception in Descartes and knowledge,” *Philosophy Compass*, 4: 134–54.
 

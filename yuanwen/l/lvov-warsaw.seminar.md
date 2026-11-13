@@ -8,6 +8,7 @@
 
 > ![Twardowski's last seminar](../assets/lvov-warsaw/TwardowskiSeminar.jpg)
 >
+>
 > | *Top row from left*: | Henryk Mehlberg, unidentified student, Walter Auerbach, unidentified student, Leopold Blaustein |
 > | --- | --- |
 > | *Middle row from left*: | unidentified student, Maria Kokoszynska, Twardowski, Izydora Dąmbska, Seweryna Łuszczewska, unidentified student |

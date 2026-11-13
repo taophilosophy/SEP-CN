@@ -518,11 +518,11 @@ I am grateful to the Chicago Early Modern Round Table for helpful feedback on an
 
 [^gordon-roth-2015-3]: –––, 2015, “Catharine Trotter Cockburn’s *Defence* of Locke”, *The Monist*, 98(1): 64–76. doi:10.1093/monist/onu008
 
-[^gordon-roth-2019]: –––, 2019, “Tracing Reid’s ‘Brave Officer’ Objection Back to Berkeley—and Beyond”, *Berkeley Studies*28: 3–22.
+[^gordon-roth-2019]: –––, 2019, “Tracing Reid’s ‘Brave Officer’ Objection Back to Berkeley—and Beyond”, *Berkeley Studies* 28: 3–22.
 
 [^gordon-roth-2021]: –––, 2021, “John Locke”, *Wiley-Blackwell Encyclopedia of Philosophy of Religion*, Stewart Goetz and Charles Taliaferro (eds).
 
-[^gordon-roth-2022]: –––, 2022, “The Prince and the Cobbler, by John Locke,” in *Philosophy Illustrated: Forty-Two Thought Experiments to Broaden Your Mind,*Helen De Cruz (ed.), Oxford: Oxford University Press.
+[^gordon-roth-2022]: –––, 2022, “The Prince and the Cobbler, by John Locke,” in *Philosophy Illustrated: Forty-Two Thought Experiments to Broaden Your Mind,* Helen De Cruz (ed.), Oxford: Oxford University Press.
 
 [^gordon-roth-2022-2]: Gordon-Roth, Jessica and Shelley Weinberg (eds), 2022, *The Lockean Mind*, London: Routledge.
 

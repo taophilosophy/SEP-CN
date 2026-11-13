@@ -130,15 +130,20 @@ Has Malory done the right thing? The virtuous thing? Malory has broken a promise
 
 The following are some toy examples that exhibit differing structural features for moral theories and set out different criteria:
 
-> *Consequentialism*. The right action is the action that *produces* good amongst the options open to the agent at the time of action (Singer). The most well-known version of this theory is Classical Utilitarianism, which holds that the right action promotes pleasure (Mill).
+> *Consequentialism*.
+> The right action is the action that *produces* good amongst the options open to the agent at the time of action (Singer). The most well-known version of this theory is Classical Utilitarianism, which holds that the right action promotes pleasure (Mill).
 >
-> *Kantian Deontology*. The morally worthy action is in accordance with the Categorical Imperative, which requires an agent refrain from acting in a way that fails to respect the rational nature of other persons (Kant).
+> *Kantian Deontology*.
+> The morally worthy action is in accordance with the Categorical Imperative, which requires an agent refrain from acting in a way that fails to respect the rational nature of other persons (Kant).
 >
-> *Rossian Deontology*. The right action is the action that best accords with the fulfillment and/or non-violation of one’s *prima facie* duties (Ross).
+> *Rossian Deontology*.
+> The right action is the action that best accords with the fulfillment and/or non-violation of one’s *prima facie* duties (Ross).
 >
-> *Contractualism*. An action is morally wrong if it is an act that would be forbidden by principles that rational persons could not reasonably reject (Scanlon).
+> *Contractualism*.
+> An action is morally wrong if it is an act that would be forbidden by principles that rational persons could not reasonably reject (Scanlon).
 >
-> *Virtue Ethics*. The right action is the action that a virtuous person would characteristically perform in the circumstances (Hursthouse 1999)[^hursthouse-1999].
+> *Virtue Ethics*.
+> The right action is the action that a virtuous person would characteristically perform in the circumstances (Hursthouse 1999)[^hursthouse-1999].
 
 These principles set out the *criterion* or *standard* for evaluation of actions. They do not necessarily tell us *how* to perform right actions, and are not, in themselves, decision-procedures, though they can easily be turned into decision procedures, such as: you ought to try to perform the action that maximizes the good amongst the options available to you at the time of action. This might not be, and in ordinary circumstance probably isn’t, a very good decision-procedure, and would itself need to be evaluated according to the criterion set out by the theory.
 

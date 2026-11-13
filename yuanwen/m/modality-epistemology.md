@@ -534,7 +534,7 @@ For other discussions involving abduction see Hanrahan (2017).
 
 However, Fischer’s TEM appears to hold that Berkeley must first believe with justification Idealism, for him to believe that a tree cannot exist unperceived by anyone. This result appears to contradict how we sometimes use conceivability to gain justification in order to believe a theory. (For further critical discussion of Fischer’s account, see Biggs 2017 and Wirling 2020)[^biggs-2017][^biggs-2017-2][^biggs-2020][^wirling-2020].
 
-**The Completeness Question:**Biggs and Wilson admit that the theories themselves might contain or imply modal propositions. As a consequence, one might wonder if the account in Biggs (2011), which is later developed, is a complete account of the epistemology of modality. If some theories already contain modal propositions, is it true that all modal propositions gain *prima facie* justification for a subject through the method Biggs offers? Is abduction the best explanation for all instances of modal knowledge or just a competitor to other accounts such as conceivability?
+**The Completeness Question:** Biggs and Wilson admit that the theories themselves might contain or imply modal propositions. As a consequence, one might wonder if the account in Biggs (2011), which is later developed, is a complete account of the epistemology of modality. If some theories already contain modal propositions, is it true that all modal propositions gain *prima facie* justification for a subject through the method Biggs offers? Is abduction the best explanation for all instances of modal knowledge or just a competitor to other accounts such as conceivability?
 
 ## 8. Modalism and Normativism
 

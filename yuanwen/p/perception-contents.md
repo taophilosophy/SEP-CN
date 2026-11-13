@@ -215,6 +215,7 @@ Peacocke’s and Cussins’ theories differ in that scenario contents are assess
 Another debate about the representation of spatial properties concerns the phenomenal difference between the experiences of seeing a four-sided equilateral figure as a square and seeing it as a regular diamond. (The example is from Mach 1914).
 
 > ![Image 1](../assets/perception-contents/image1.jpg)
+>
 
 In one version of this contrast, there are two figures differing only in their orientation to the viewer (on a page, the top and bottom of the square is parallel with the top and bottom of the page; while the diamond is just like the square except rotated 45 degrees around its center.) Assuming that the property of being a square is the same as the property of being a regular diamond (an assumption defended by Peacocke in 1993, contested by Tye 2003, but granted by Tye 2004), this appears to be a case in which there is a phenomenal difference without any difference in the properties represented. The options, then, are similar to the ones listed in the discussion of the inverted color qualia: (i) deny that there is a difference in content corresponding to the phenomenal difference; (ii) hold that there are differences in the *way* the property of being square is represented, i.e., invoke different modes of presentation of this property (Peacocke 2001a, 2001b)[^peacocke-2001a]; (iii) find some other property that is represented in one experience but not the other, such as the viewer-relative property of resting on a side, or the property having two horizontal sides (properties allegedly attributed by experience to the square but not the diamond); and the property of standing on a point or the property of having inclined sides (properties allegedly attributed by the experience to the diamond but not to the square) (Tye 2005)[^tye-2005]. Here we have another case of a debate between Fregean and Russellian positions on the nature of experience content.
 
@@ -597,7 +598,7 @@ consciousness | consciousness: representational theories of | consciousness: tem
 
 [^ducasse-1965]: –––, 1965. “Causation: Perceived or Only Inferred?” *Philosophy and Phenomenological Research*, 26: 173–79.
 
-[^egan-2006a]: Egan, A., 2006a. “Appearance Properties?” *Noûs*, 40 (3): 495–521.
+[^egan-2006a]: Egan, A., 2006a. “Appearance Properties?” *Noûs* , 40 (3): 495–521.
 
 [^egan-2006b]: –––, 2006b. “Secondary Qualities and Self-Location,” *Philosophy and Phenomenological Research*, 72 (1): 97–119.
 

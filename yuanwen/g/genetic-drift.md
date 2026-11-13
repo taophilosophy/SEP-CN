@@ -305,7 +305,7 @@ Thanks to Jon Hodge, Charles Pence, Anya Plutynski, and an anonymous referee for
 
 [^bouchard-2004]: Bouchard, Frédéric, and Alex Rosenberg, 2004, “Fitness, Probability, and the Principles of Natural Selection”, *British Journal for the Philosophy of Science*, 55: 693–712.
 
-[^bourrat-2018]: Bourrat, Pierrick, 2018, “Natural Selection and Drift as Individual-Level Causes of Evolution”, *Acta Biotheoretica,*66:159–176.
+[^bourrat-2018]: Bourrat, Pierrick, 2018, “Natural Selection and Drift as Individual-Level Causes of Evolution”, *Acta Biotheoretica,* 66:159–176.
 
 [^brandon-1990]: Brandon, Robert N., 1990, *Adaptation and Environment*, Princeton, NJ: Princeton University Press.
 

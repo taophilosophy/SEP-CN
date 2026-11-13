@@ -142,7 +142,8 @@ as required.
 
 Next, since $\mathcal{E}$ is partitional, let $\{E(w) : w \in \mathcal{W}\} = \{E_1, \ldots, E_n\}$. Now suppose $R$ is an available updating plan in $\mathcal{E}$, and write $R_i$ for the credence function it endorses at any world at which $E_i$ is true. Next, write $\mathcal{F} = \{X_1, \ldots, X_m\}$, represent a credence function $C$ by the vector $(C(X_1), \ldots, C(X_m))$, write $C \frown C'$ for the concatenation of $C$ and $C'$, which is $(C(X_1), \ldots, C(X_m), C'(X_1), \ldots, C'(X_m))$, and define
 
-> $ \overline{R} = \{V_w \frown R_1 \frown \ldots \frown R_{i-1} \frown V_w \frown R_{i+1} \frown \ldots \frown R_n : $     $ i = 1, \ldots, n\ \&\ w \in E_i\} $
+> $ \overline{R} = \{V_w \frown R_1 \frown \ldots \frown R_{i-1} \frown V_w \frown R_{i+1} \frown \ldots \frown R_n : $
+>     $ i = 1, \ldots, n\ \&\ w \in E_i\} $
 
 Then, if $R$ is not a conditionalizing plan for $C$,
 
@@ -154,7 +155,10 @@ $$ C^* \frown R^*_1 \frown \ldots \frown R^*_n \in \overline{R}^+ $$
 
 such that, for all $i = 1, \ldots, n$ and all $w$ in $E_i$,
 
-> $ D_s(V_w, C) + D_s(R_1, R_1) + \ldots + D_s(R_{i-1}, R_{i-1})\ + $     $ D_s(V_w, R_i) + D_s(R_{i+1}, R_{i+1}) + \ldots + D_s(R_n, R_n)\ \gt $ $ D_s(V_w, C^*) + D_s(R_1, R^*_1) + \ldots + D_s(R_{i-1}, R^*_{i-1})\ + $     $D_s(V_w, R^*_i) + D_s(R_{i+1}, R^*_{i+1}) + \ldots + D_s(R_n, R^*_n) $
+> $ D_s(V_w, C) + D_s(R_1, R_1) + \ldots + D_s(R_{i-1}, R_{i-1})\ + $
+>     $ D_s(V_w, R_i) + D_s(R_{i+1}, R_{i+1}) + \ldots + D_s(R_n, R_n)\ \gt $
+> $ D_s(V_w, C^*) + D_s(R_1, R^*_1) + \ldots + D_s(R_{i-1}, R^*_{i-1})\ + $
+>     $D_s(V_w, R^*_i) + D_s(R_{i+1}, R^*_{i+1}) + \ldots + D_s(R_n, R^*_n) $
 
 But then, since $D_s(C, C) = 0$, $D_s(R_i, R_i) = 0$, and $D_s(R_i, R^*_i) \geq 0$,
 

@@ -99,7 +99,11 @@ It was, perhaps, originally thought that the five physical substances and the fi
 
 The orthodox Vaiśeṣika view is that each physical substance is characterised by the possession of a particular type of sensible quality and the absence of certain others. Thus, earth is the substance endowed with odour, water with taste but not odour, fire with colour but not taste or odour, etc. A drawback of such definitions is that we cannot infer, from the detection of a sensible quality, which type of substance is present. Later Vaiśeṣika therefore looks for a diagnostic set of definitions, one which seeks to find, for each substance, a particular sensible quality whose presence is indicative of that substance. The *Manual of Reason* (TS 10–14):
 
-> Earth is (specifically) endowed with odour Water is (specifically) endowed with cold touch Fire is (specifically) endowed with hot touch Air is (specifically) endowed with touch without colour *ākāśa* is (specifically) endowed with sound.
+> Earth is (specifically) endowed with odour
+> Water is (specifically) endowed with cold touch
+> Fire is (specifically) endowed with hot touch
+> Air is (specifically) endowed with touch without colour
+> *ākāśa* is (specifically) endowed with sound.
 
 Thus, although earth, water, and fire are all tactile, only water allegedly has cold touch. It seems that it could find no positive distinguishing trait for air, and thus reverted to the older style of definition.
 

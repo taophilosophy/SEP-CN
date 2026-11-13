@@ -177,11 +177,23 @@ The Buddhist tradition generally sees war and violence as deeply morally problem
 
 In general, the Buddhist attitude toward violence is expressed in verses X. 1–2 of the *Dhammapada*:
 
-> Everybody fears being struck by a rod. Everybody fears death. Therefore, knowing this, feeling for others as for yourself, Do not kill others or cause others to kill. Everybody fears being struck by a rod, Life being dear to all. Therefore, knowing this, feeling for others as for yourself, Do not kill others or cause others to kill. (Maitreya, trans, 1995, 37)
+> Everybody fears being struck by a rod.
+> Everybody fears death.
+> Therefore, knowing this, feeling for others as for yourself,
+> Do not kill others or cause others to kill.
+> Everybody fears being struck by a rod,
+> Life being dear to all.
+> Therefore, knowing this, feeling for others as for yourself,
+> Do not kill others or cause others to kill.
+> (Maitreya, trans, 1995, 37)
 
 The phrase translated “feeling for others as for yourself” is the Pāli *attānaṃ* *upamaṃ* *katvā*, which might be more literally rendered as “having made an analogy with oneself.” Here a form of moral reasoning is used that is quite similar to the Golden Rule: imaginatively put yourself in the place of others, and you will see that certain ways of treating them are morally impermissible. The Dhammapada also tells us:
 
-> Whoever withholds the rod from creatures Both weak and strong, Abstaining from killing and causing killing Him do I call a Noble One. (Maitreya, trans, 1995, 107)
+> Whoever withholds the rod from creatures
+> Both weak and strong,
+> Abstaining from killing and causing killing
+> Him do I call a Noble One.
+> (Maitreya, trans, 1995, 107)
 
 Buddhists explicitly reject the Hindu teaching that a soldier in a just war will be reborn in a heavenly realm. Instead, Buddhists hold that those who die in battle are likely to be reborn as animals or in the hells, especially if they die with a feeling of anger or hatred toward the soldiers on the other side. In his commentary on the *Four Hundred Stanzas* (*Catuḥśataka*) of Āryadeva, Candrakīrti expresses a very low opinion of those who give their lives in battle for their king and country: “In this world people who give up all of their possessions for gambling, liquor, and prostitutes are not entitled to respect. Virtuous-minded people do not honor the sacrifice of these people, since they pursue an addiction. In the same way, the sacrifice of life in battle should not be respected, since this is the basis for harmful actions” (Lang trans., 2003, 200). He also criticizes the view that kings may permissibly engage in warfare, and offers what looks like a general statement of pacifism: “a sage is inferior when his treatises explain violence as virtuous behavior. A mediocre sage has doubts: ‘it may be so or it may not be so.’ A superior sage does not regard violence as virtuous behavior” (Lang trans., 2003, 197).
 

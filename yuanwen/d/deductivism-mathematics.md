@@ -339,7 +339,7 @@ For comments on previous drafts and presentations, we are very grateful to Wes W
 
 [^frege-1976]: Frege, Gottlob, 1976 [1980], *Wissenschaftlicher Briefwechsel*, volume 2 of *Nachgelassene Schriften und Wissenschaftlicher Briefwechsel*, Gottfried Gabriel, Hans Hermes, Friedrich Kambartel, Christian Thiel, and Albert Veraart (eds), Hamburg: Meiner. Abridged version translated as *Philosophical and Mathematical Correspondence*, Brian McGuinness (ed.), Hans Kaal (trans.), Chicago: University of Chicago Press and Oxford: Blackwell.
 
-[^gödel-1930]: Gödel, Kurt, 1930, “Die Vollständigkeit der Axiome des logischen Funktionenkalküls”, *Monatshefte für Mathematik und Physik,*37(1): 349–60. doi:10.1007/BF01696781.
+[^gödel-1930]: Gödel, Kurt, 1930, “Die Vollständigkeit der Axiome des logischen Funktionenkalküls”, *Monatshefte für Mathematik und Physik,* 37(1): 349–60. doi:10.1007/BF01696781.
 
 [^gödel-1931]: –––, 1931, “Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I”, *Monatshefte für Mathematik und Physik,* 38(1): 173–98. doi:10.1007/BF01700692.
 

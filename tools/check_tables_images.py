@@ -1,0 +1,238 @@
+# -*- coding: utf-8 -*-
+"""表格与图片预检（ADR-0036；019 表格图片复核战役的候选清单生成器）。
+
+检查项（zh 模式，默认扫顶层字母目录译文）：
+  1. table-cols      —— 表头/分隔/数据行列数不一致（客观）；
+  2. table-center    —— 分隔行非 `:---:` 居中（rules/02；候选，逐个定性）；
+  3. table-compact   —— 非空单元格管道内侧带空格（rules/02 紧凑风格；候选）；
+  4. table-en-prose  —— 单元格去代码/数学后 ≥4 英文词且无汉字（未译候选，
+                        逐个定性：文献条目照录待括注汉译／漏译）；
+  5. alt-lang        —— 图片 alt 无汉字（ADR-0036：alt 译中文；候选）；
+  6. img-base        —— 中文词条图片引用不以 `../assets/` 开头
+                        （rules/01、ADR-0036 决策 4；客观违例）；
+  7. img-resolve     —— 图片引用解析不到本地文件（客观）。
+
+--yuanwen：扫 yuanwen/ 镜像，只查 table-cols 与 img-resolve（镜像保持源样，
+不套 zh 体例）；镜像引用 `../assets/<slug>/…` 相对 yuanwen/<letter>/ 解析。
+--corpus <file>：写出全部表格/图片词条并集清单（019 台账初始化数据）。
+
+口径：
+  * 只报告不改内容；所有发现默认告警级（exit 0），--gate 把客观项
+    （img-base、img-resolve）升为硬错误（exit 1）；候选项永不升格。
+  * 机器预检只出候选清单，正确性与一致性由人眼逐处定性（019 spec A3）。
+"""
+import argparse
+import io
+import json
+import os
+import re
+import sys
+
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8') if (
+    getattr(sys.stdout, 'encoding', '').lower().replace('-', '') != 'utf8'
+    and hasattr(sys.stdout, 'buffer')) else sys.stdout
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+CJK = re.compile(r'[\u4e00-\u9fff]')
+EN_WORD = re.compile(r'[A-Za-z]{3,}')
+IMG_MD = re.compile(r'!\[([^\]]*)\]\(([^)\s]+)[^)]*\)')
+TABLE_LINE = re.compile(r'^(?:>\s?)?\|')
+SEP_CELL = re.compile(r'^:?-+:?$')
+HARD_RULES = ('img-base', 'img-resolve')
+
+
+def strip_code_math(cell):
+    cell = re.sub(r'`[^`]*`', '', cell)
+    cell = re.sub(r'\$[^$]*\$', '', cell)
+    return cell
+
+
+def split_row(line):
+    body = re.sub(r'^>\s?', '', line).strip()
+    body = body[1:] if body.startswith('|') else body
+    body = body[:-1] if body.endswith('|') else body
+    return [c.replace('\\|', '|').strip() for c in body.split('|')]
+
+
+def parse_tables(lines):
+    """产出 [ (起始行号, 节标题, [ [cell,...], ... ] ), ... ]；连续表行聚一块。
+
+    节标题取该块之前最近的 `## ` 行文本，供样板表分类（Academic Tools）。
+    """
+    blocks, cur, start, heading = [], [], None, ''
+    for i, line in enumerate(lines, 1):
+        m = re.match(r'^##\s+(.+?)\s*$', line)
+        if m:
+            heading = m.group(1)
+        if TABLE_LINE.match(line):
+            if start is None:
+                start = i
+            cur.append(split_row(line))
+        else:
+            if cur:
+                blocks.append((start, heading, cur))
+                cur, start = [], None
+    if cur:
+        blocks.append((start, heading, cur))
+    return blocks
+
+
+def is_boilerplate(heading):
+    """样板表（Academic Tools）——每词条同构，转换单测覆盖，不做逐词条人眼。"""
+    h = heading.strip().lower()
+    return h in ('academic tools', '学术工具')
+
+
+def check_file(path, yuanwen=False):
+    issues = []
+    text = open(path, encoding='utf-8').read()
+    lines = text.split('\n')
+    for start, heading, rows in parse_tables(lines):
+        if yuanwen and is_boilerplate(heading):
+            continue
+        if not rows:
+            continue
+        ncols = [len(r) for r in rows]
+        if len(set(ncols)) > 1:
+            issues.append((start, 'table-cols',
+                           f'列数不一致 {sorted(set(ncols))}'))
+        if not yuanwen:
+            sep = next((r for r in rows if all(SEP_CELL.match(c) for c in r if c)
+                        and any(c for c in r)), None)
+            if sep is not None and any(c != ':---:' for c in sep):
+                issues.append((start, 'table-center',
+                               '分隔行非 :---: 居中：' + '|'.join(sep)))
+            for ri, row in enumerate(rows):
+                if sep is not None and rows[ri] is sep:
+                    continue
+                for cell in row:
+                    if cell and (cell != cell.strip() or cell.startswith(' ') or cell.endswith(' ')):
+                        issues.append((start, 'table-compact',
+                                       f'单元格带空格：{cell[:40]!r}'))
+                        break
+                cleaned = strip_code_math('|'.join(row))
+                words = EN_WORD.findall(cleaned)
+                if len(words) >= 4 and not CJK.search(cleaned):
+                    issues.append((start, 'table-en-prose',
+                                   f'未译候选：{words[:4]}'))
+    base = os.path.dirname(path)
+    for i, line in enumerate(lines, 1):
+        for alt, src in IMG_MD.findall(line):
+            if yuanwen:
+                if src.startswith('../assets/'):
+                    resolved = os.path.normpath(os.path.join(base, src))
+                    if not os.path.isfile(resolved):
+                        issues.append((i, 'img-resolve', f'解析不到：{src}'))
+                continue
+            if not CJK.search(alt):
+                issues.append((i, 'alt-lang', f'alt 非中文：{alt[:40]!r}'))
+            if not src.startswith('../assets/'):
+                issues.append((i, 'img-base', f'基座违规：{src}'))
+                resolved = os.path.normpath(os.path.join(base, src))
+            else:
+                resolved = os.path.normpath(os.path.join(base, src))
+            if not os.path.isfile(resolved):
+                issues.append((i, 'img-resolve', f'解析不到：{src}'))
+    return issues
+
+
+def iter_zh():
+    for name in sorted(os.listdir(ROOT)):
+        d = os.path.join(ROOT, name)
+        if os.path.isdir(d) and len(name) == 1 and name.isalpha():
+            for f in sorted(os.listdir(d)):
+                if f.endswith('.md'):
+                    yield os.path.join(d, f)
+
+
+def iter_yuanwen():
+    yw = os.path.join(ROOT, 'yuanwen')
+    for letter in sorted(os.listdir(yw)):
+        d = os.path.join(yw, letter)
+        if os.path.isdir(d):
+            for f in sorted(os.listdir(d)):
+                if f.endswith('.md'):
+                    yield os.path.join(d, f)
+
+
+def corpus(out_path):
+    """019 台账初始化：并集清单（zh 译文按 slug 对应 yuanwen 件）。"""
+    yw_tables, yw_imgs = {}, {}
+    for p in iter_yuanwen():
+        slug = os.path.splitext(os.path.basename(p))[0]
+        text = open(p, encoding='utf-8').read()
+        n_tab = sum(1 for _, h, rows in parse_tables(text.split('\n'))
+                    if rows and not is_boilerplate(h))
+        n_img = len(IMG_MD.findall(text))
+        if n_tab:
+            yw_tables.setdefault(slug, []).append(p)
+        if n_img:
+            yw_imgs.setdefault(slug, []).append(p)
+    entries = []
+    for p in iter_zh():
+        slug = os.path.splitext(os.path.basename(p))[0]
+        text = open(p, encoding='utf-8').read()
+        n_tab = sum(1 for _, h, rows in parse_tables(text.split('\n'))
+                    if rows and not is_boilerplate(h))
+        n_img = len(IMG_MD.findall(text))
+        zh_tab = slug in yw_tables or n_tab
+        zh_img = slug in yw_imgs or n_img
+        if zh_tab or zh_img:
+            entries.append({'zh': os.path.relpath(p, ROOT), 'slug': slug,
+                            'tables': n_tab, 'images': n_img,
+                            'yw_tables': len(yw_tables.get(slug, [])),
+                            'yw_images': len(yw_imgs.get(slug, []))})
+    seen = {e['slug'] for e in entries}
+    for slug, paths in sorted(yw_tables.items()):
+        if slug not in seen:
+            entries.append({'zh': None, 'slug': slug,
+                            'tables': 0, 'images': 0,
+                            'yw_tables': len(paths),
+                            'yw_images': len(yw_imgs.get(slug, []))})
+    for slug, paths in sorted(yw_imgs.items()):
+        if slug not in seen:
+            entries.append({'zh': None, 'slug': slug,
+                            'tables': 0, 'images': 0,
+                            'yw_tables': len(yw_tables.get(slug, [])),
+                            'yw_images': len(paths)})
+    entries.sort(key=lambda e: e['slug'])
+    with open(out_path, 'w', encoding='utf-8') as fh:
+        json.dump(entries, fh, ensure_ascii=False, indent=1)
+    print(f'corpus: {len(entries)} 词条 → {out_path}')
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument('--yuanwen', action='store_true')
+    ap.add_argument('--corpus')
+    ap.add_argument('--gate', action='store_true')
+    args = ap.parse_args()
+    if args.corpus:
+        corpus(args.corpus)
+        return
+    issues = []
+    files = iter_yuanwen() if args.yuanwen else iter_zh()
+    n_files = 0
+    for p in files:
+        n_files += 1
+        for lineno, rule, msg in check_file(p, yuanwen=args.yuanwen):
+            issues.append({'path': os.path.relpath(p, ROOT).replace('\\', '/'),
+                           'line': lineno, 'rule': rule, 'msg': msg})
+    by_rule = {}
+    for it in issues:
+        by_rule.setdefault(it['rule'], []).append(it)
+    print(f'scan: {n_files} 个文件 | 发现 {len(issues)} 处')
+    for rule in sorted(by_rule):
+        print(f'  {rule}: {len(by_rule[rule])}')
+    if not args.yuanwen:
+        json.dump(issues, open(os.path.join(ROOT, 'state', 'tables-images-report.json'),
+                               'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    if args.gate and any(it['rule'] in HARD_RULES for it in issues):
+        hard = [it for it in issues if it['rule'] in HARD_RULES]
+        for it in hard:
+            print(f"  [HARD] {it['path']}:{it['line']} {it['rule']} {it['msg']}")
+        sys.exit(1)
+
+
+if __name__ == '__main__':
+    main()

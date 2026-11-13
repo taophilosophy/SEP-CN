@@ -171,7 +171,11 @@ Natural philosophers thus consider signs, rather than causes (PHK 108), but thei
 
 Regularity provides a foundation for one of Berkeley’s responses to the objection summarized in the famous limerick:
 
-> There was a young man who said God, must think it exceedingly odd if he finds that the tree continues to be when no one’s about in the Quad.[^note-18]
+> There was a young man who said God,
+> must think it exceedingly odd
+> if he finds that the tree
+> continues to be
+> when no one’s about in the Quad.[^note-18]
 
 The worry, of course, is that if to be is to be perceived (for non-spirits), then there are no trees in the Quad at 3 a.m. when no one is there to perceive them and there is no furniture in my office when I leave and close the door. Interestingly, in the *Principles* Berkeley seems relatively unperturbed by this natural objection to idealism. He claims that there is no problem for
 
@@ -183,7 +187,11 @@ Unfortunately, this analysis has counterintuitive consequences when coupled with
 
 Another strategy, however, is suggested by Berkeley’s reference in PHK 3 and 48 to “some other spirit,” a strategy summarized in a further limerick:
 
-> Dear Sir, your astonishment’s odd I am always about in the Quad And that’s why the tree continues to be since observed by, Yours faithfully, God
+> Dear Sir, your astonishment’s odd
+> I am always about in the Quad
+> And that’s why the tree
+> continues to be
+> since observed by, Yours faithfully, God
 
 If the other spirit in question is God, an omnipresent being, then perhaps his perception can be used to guarantee a completely continuous existence to every physical object. In the *Three Dialogues*, Berkeley very clearly invokes God in this context. Interestingly, whereas in the *Principles*, as we have seen above, he argued that God must exist in order to *cause* our ideas of sense, in the Dialogues (212, 214–5) he argues that our ideas must *exist in* God when not perceived by us.[^note-20] If our ideas exist in God, then they presumably exist continuously. Indeed, they must exist continuously, since standard Christian doctrine dictates that God is unchanging.
 

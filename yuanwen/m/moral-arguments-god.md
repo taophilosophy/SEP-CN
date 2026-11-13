@@ -155,7 +155,12 @@ For Kant the argument from practical reason for belief in God is not a form of w
 
 Perhaps the right way to think of practical moral arguments is not to see them as justifying belief without evidence, but as shifting the amount of evidence seen as necessary. This is the lesson some would draw from the phenomenon of “pragmatic encroachment” that has been much discussed in recent epistemology. Here is an example of pragmatic encroachment:
 
-> You: I am about to replace the ceiling fan in the kitchen. Spouse: Did you turn off the main electrical power to the house? You: Yes. Spouse: If you forgot you could electrocute yourself. You: I better go back and check. (See McBrayer 2014, Rizzieri 2013)[^mcbrayer-2014][^rizzieri-2013].
+> You: I am about to replace the ceiling fan in the kitchen.
+> Spouse: Did you turn off the main electrical power to the house?
+> You: Yes.
+> Spouse: If you forgot you could electrocute yourself.
+> You: I better go back and check.
+> (See McBrayer 2014, Rizzieri 2013)[^mcbrayer-2014][^rizzieri-2013].
 
 A plausible interpretation of this scenario is that ordinarily claims such as the one I made, based on memory, are justified, and count as knowledge. However, in this situation, the stakes are raised because my life is at risk, and my knowledge is lost because the pragmatic situation has “encroached” on the normal truth-oriented conditions for knowledge. Pragmatic encroachment is controversial and the idea of such encroachment is rejected by some epistemologists. However, defenders hold that it is reasonable to consider the pragmatic stakes in considering evidence for a belief that underlies significant action (see Fantl and McGrath 2007)[^fantl-2007]. If this is correct, then it seems reasonable to consider the pragmatic situation in determining how much evidence is sufficient to justify religious beliefs. In theory the adjustment could go in either direction, depending on what costs are associated with a mistake and on which side those costs lie.
 

@@ -22,13 +22,13 @@ Any vector space **V** is automatically associated with other vector spaces, suc
 
 A *Riemannian metric* **g** on the *n*-manifold <**M**,**A**> is a tensor field of rank 2 on **M**. Thus, **g** assigns to each *P* in **M** a bilinear function **g**_{*P*} on *T*_{*P*}**M**. For any *P* in **M** and any vectors **v**, **w**, in *T*_{*P*}**M**, **g**_{*P*} must meet these requirements:
 
-1. **g**_{*P*}(**v**,**w**) = **g**_{*P*}(**w**,**v**)       (symmetry)
-2. **g**_{*P*}(**v**,**w**) = 0 for all vectors **w** in *T*_{*P*}**M** if and only if **v** is the 0-vector       (non-degeneracy)
-3. **g**_{*P*}(**v**,**v**) > 0 unless **v** is the 0-vector       (positive definiteness).
+1. **g**_{*P*}(**v**, **w**) = **g**_{*P*}(**w**, **v**)       (symmetry)
+2. **g**_{*P*}(**v**, **w**) = 0 for all vectors **w** in *T*_{*P*}**M** if and only if **v** is the 0-vector       (non-degeneracy)
+3. **g**_{*P*}(**v**, **v**) > 0 unless **v** is the 0-vector       (positive definiteness).
 
 It is worth noting that the so-called Lorentzian metrics defined by relativity theory on its spacetime models meet requirements (i) and (ii), but not (iii), and are therefore usually said to be *semi-Riemannian* or *pseudo-Riemannian*.
 
-The length λ(**v**) of a vector **v** in *T*_{*P*}**M** is defined by |λ(**v**)|² = **g**_{*P*}(**v**,**v**). Let γ be a curve in **M**. Let γ·(*u*) be the tangent to γ at the point γ(*u*). The length of γ's path from γ(*a*) to γ(*b*) is measured by the integral
+The length λ(**v**) of a vector **v** in *T*_{*P*}**M** is defined by |λ(**v**)|² = **g**_{*P*}(**v**, **v**). Let γ be a curve in **M**. Let γ·(*u*) be the tangent to γ at the point γ(*u*). The length of γ's path from γ(*a*) to γ(*b*) is measured by the integral
 
 > | ∫ | *b* *a* | λ(γ·(*u*))*du* |
 > | --- | --- | --- |

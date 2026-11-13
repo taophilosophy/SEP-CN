@@ -443,7 +443,7 @@ We are grateful to Fernando Bahr (Argentina), José Tomás Alvarado (Chile), Mau
 
 [^gómez-2002]: Gómez, Adolfo Léon, 2002, *Descartes ayer y hoy*, Cali, Colombia: Alego Editores.
 
-[^gonzález-2010]: González, Catalina, 2010, “Ironía y escepticismo en*Sobre el suicidio* de David Hume”, in Felipe Castañeda (ed.), *Francisco de Vitoria: Relección sobre el homicidio*, Bogotá, Colombia: Universidad de Los Andes, pp. 243–260.
+[^gonzález-2010]: González, Catalina, 2010, “Ironía y escepticismo en *Sobre el suicidio* de David Hume”, in Felipe Castañeda (ed.), *Francisco de Vitoria: Relección sobre el homicidio*, Bogotá, Colombia: Universidad de Los Andes, pp. 243–260.
 
 [^gonzález-2011]: –––, 2011, “Pyrrhonism vs. Academic Skepticism in Kant’s *Critique of Pure Reason*”, *Philosophy Today*, 55: 225–230.
 

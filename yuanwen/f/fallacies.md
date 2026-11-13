@@ -36,7 +36,8 @@ Here it is ‘excellence’ that is the property in question. The fallacy of com
 
 Another version of begging the question can occur in contexts of argumentation where there are unsettled questions about key terms. Suppose, for example, that everyone agrees that to murder someone requires doing something that is wrong, but not everyone agrees that capital punishment is a form of ‘murder’; some think it is justified killing. Then, should an arguer gives this argument:
 
-> Capital punishment requires an act of murdering human beings. So, capital punishment is wrong.
+> Capital punishment requires an act of murdering human beings.
+> So, capital punishment is wrong.
 
 one could say that this is question-begging because in this context of argumentation, the arguer is smuggling in as settled a question that remains open. That is, if the premise is accepted without further justification, the arguer is assuming the answer to a controversial question without argument.
 

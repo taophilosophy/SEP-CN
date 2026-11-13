@@ -162,7 +162,7 @@ Philosophy of mathematics, especially 19th century geometry
 - "Causalidad, intervención y determinismo". *Diálogos*, 87: 217–222 (2006).
 - "The problem of time's arrow historico-critically reexamined". *Studies in the History and Philosophy of Modern Physics*, 38: 732–756 (2007).
 - "‘Rod contraction’ and ‘clock retardation’: Two harmless misnomers?". In: Fabio Minazzi, ed., *Filosofia, scienza e bioetica nel dibattito contemporaneo: Studi internazionali in onore di Evandro Agazzi*, Roma: Istituto Poligrafico e Zecca dello Stato, 2007. Pp. 1029-1039.
-- "Getting rid of the Ether: Could Physics have achieved it sooner, with better assistance from Philosophy?".*Theoria*, 60: 353–374 (2007).
+- "Getting rid of the Ether: Could Physics have achieved it sooner, with better assistance from Philosophy?". *Theoria*, 60: 353–374 (2007).
 - "Nuevos ensayos de filosofía de la biología". *Revista de Filosofía* (Chile), LXIV: 215-229 (2008).
 - "Objectivity: A Kantian Perspective". In: Michela Massimi, ed., *Kant and Philosophy of Science Today*, Royal Institute of Philosophy Supplement 63. Cambridge: Cambridge University Press, 2008. Pp. 81-94.
 - "Diseños y designios". *Estudios Públicos*, 115: 49-74 (2009).

@@ -614,7 +614,7 @@ logic, history of: modal logic | logic: classical | logic: deontic | logic: free
 
 [^stalnaker-1968]: Stalnaker, R., 1968, “A Theory of Conditionals,”, in N. Rescher (ed.), *Studies in Logical Theory*, Oxford: Blackwell, 98–112.
 
-[^stephanou-2002]: Stephanou, Y., 2002, “Investigations into Quantified Modal Logic,” *Notre Dame Journal of Formal Logic,*43, #4: 193–220.
+[^stephanou-2002]: Stephanou, Y., 2002, “Investigations into Quantified Modal Logic,” *Notre Dame Journal of Formal Logic,* 43, #4: 193–220.
 
 [^thomason-1984]: Thomason, R., 1984, “Combinations of Tense and Modality”, in D. Gabbay and F. Guenthner (eds.), *Handbook of Philosophical Logic*, II.3, Dordrecht: D. Reidel, 135–165.
 

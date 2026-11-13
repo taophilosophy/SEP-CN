@@ -400,7 +400,9 @@ What was Lakatos’s response to this dilemma? It is sometimes suggested, not le
 
 However, aside from these threats, a developed answer to Feyerabend’s dilemma is conspicuous by its absence. One is reminded of King Lear:
 
-> I will do such things,— What they are, yet I know not: but they shall be The terrors of the earth.
+> I will do such things,—
+> What they are, yet I know not: but they shall be
+> The terrors of the earth.
 
 The upshot is that if there is a Lakatosian answer to Feyerabend’s dilemma, it is an answer that has to be concocted on his behalf. One of us has a go in Musgrave 1976, but for the Methodology of Scientific Research Programmes, it is still, very much, an open problem.
 

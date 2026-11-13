@@ -600,7 +600,7 @@ I am grateful to Valia Allori, Jean Bricmont, Joanne Gowa, Dustin Lazarovici, Tr
 
 [^goldstein-2012]: Goldstein, Sheldon, 2012, “Typicality and Notions of Probability in Physics”, in Y. Ben-Menahem and M. Hemmo (eds), *Probability in Physics*, Berlin: Springer-Verlag, pp. 59–71. [[Goldstein 2012 preprint available online](https://sites.math.rutgers.edu/~oldstein/papers/typ.pdf)]
 
-[^goldstein-2011]: Goldstein, Sheldon, Travis Norsen, Daniel Victor Tausk, and Nino Zanghì, 2011, “Bell’s Theorem”, *Scholarpedia*, 6(10): 8378, revision #91049. doi:10.4249/scholarpedia.8378 URL = <[http://www.scholarpedia.org/article/Bell%27s_theorem](http://www.scholarpedia.org/article/Bell%27s_theorem)>
+[^goldstein-2011]: Goldstein, Sheldon, Travis Norsen, Daniel Victor Tausk, and Nino Zanghì, 2011, “Bell’s Theorem”, *Scholarpedia* , 6(10): 8378, revision #91049. doi:10.4249/scholarpedia.8378 URL = <[http://www.scholarpedia.org/article/Bell%27s_theorem](http://www.scholarpedia.org/article/Bell%27s_theorem)>
 
 [^goldstein-2007]: Goldstein, Sheldon and Ward Struyve, 2007, “On the Uniqueness of Quantum Equilibrium in Bohmian Mechanics”, *Journal of Statistical Physics*, 128(5): 1197–1209. doi:10.1007/s10955-007-9354-5 [[Goldstein & Struyve 2007 preprint available online](https://arxiv.org/abs/0704.3070)]
 

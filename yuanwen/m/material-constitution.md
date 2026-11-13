@@ -271,7 +271,7 @@ These initial observations bring out one disanalogy between the ontological deba
 
 [^myro-1985]: Myro, G., 1985, “Identity and Time,” in R. Grandy and R. Warner (eds.), *Philosophical Grounds of Rationality*: *Intentions, Categories, Ends*, Oxford: Oxford University Press.
 
-[^o’leary-hawthorne-1995]: O’Leary-Hawthorne, J. and Cortens, A., 1995, “Towards Ontological Nihilism,”*Philosophical Studies*, 79: 143–165.
+[^o’leary-hawthorne-1995]: O’Leary-Hawthorne, J. and Cortens, A., 1995, “Towards Ontological Nihilism,” *Philosophical Studies*, 79: 143–165.
 
 [^o’leary-hawthorne-1996]: O’Leary-Hawthorne, J. and Michael, M., 1996, “Compatibilist Semantics in Metaphysics: A Case Study,” *Australasian Journal of Philosophy*, 72: 117–134.
 

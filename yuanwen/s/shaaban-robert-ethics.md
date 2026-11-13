@@ -27,29 +27,60 @@ The above approach to ethics is often referred to in English as “consequential
 
 Let us put together in summary Shaaban’s teachings about the importance of a virtuous life. First, Shaaban teaches that when we have physical life, it is not enough just that we are alive. Rather, it is good that we keep healthy, because it is only a good, healthy life that is worth living. He says (KL 22):
 
-> *Maisha jambo la heri, uyapatapo kamili*, *Isipungue kadiri, afya katika mwili*, *Kisha upate urari, wa hekima kila hali*, *Maisha ni jambo bora, uyapatapo kamili*.
+> *Maisha jambo la heri, uyapatapo kamili*,
+> *Isipungue kadiri, afya katika mwili*,
+> *Kisha upate urari, wa hekima kila hali*,
+> *Maisha ni jambo bora, uyapatapo kamili*.
 >
-> (Life is a blessed thing when you have it in full, It should never lose bodily value, And it should always be with a good balance of wisdom at all times, Life is a good thing when you have it in full.)
+> (Life is a blessed thing when you have it in full,
+> It should never lose bodily value,
+> And it should always be with a good balance of wisdom at all times,
+> Life is a good thing when you have it in full.)
 >
-> *Jambo la kwanza maisha, uhai katika mwili*, *Lakini hayatatosha, afya ikiwa mbali*, *Afya inaunganisha, roho na kiwiliwili*, *Maisha ni jambo bora, uyapatapo kamili*.
+> *Jambo la kwanza maisha, uhai katika mwili*,
+> *Lakini hayatatosha, afya ikiwa mbali*,
+> *Afya inaunganisha, roho na kiwiliwili*,
+> *Maisha ni jambo bora, uyapatapo kamili*.
 >
-> (First thing in life, is to be physically alive, But not enough, without good health, Good health connects soul and spirit, Life is a good thing when you have it in full.)
+> (First thing in life, is to be physically alive,
+> But not enough, without good health,
+> Good health connects soul and spirit,
+> Life is a good thing when you have it in full.)
 >
-> *Tena twataka hekima, ili itawale mwili*, *Tuchague mambo mema, maovu tuweke mbali*, *Tungalikuwa wanyama, kasoro umbo la mwili*, *Maisha ni jambo bora, uyapatapo kamili*.
+> *Tena twataka hekima, ili itawale mwili*,
+> *Tuchague mambo mema, maovu tuweke mbali*,
+> *Tungalikuwa wanyama, kasoro umbo la mwili*,
+> *Maisha ni jambo bora, uyapatapo kamili*.
 >
-> (We also need wisdom, that it may control the body, That we may choose what is good, and reject what is evil, For without wisdom, we would be like beasts, Except for bodily differences, Life is a good thing when you have it in full.)
+> (We also need wisdom, that it may control the body,
+> That we may choose what is good, and reject what is evil,
+> For without wisdom, we would be like beasts,
+> Except for bodily differences,
+> Life is a good thing when you have it in full.)
 
 It is important to note that Shaaban distinguishes human life from other forms of life by virtue of humans’ capacity for knowledge or wisdom (*hekima*[^note-4]). Knowledge, or wisdom, he says, is the foundation of the ability to distinguish between good and evil. We say in English that our conscience tells or alerts us about the moral value of our actions, so in this regard, the KiSwahili word “*hekima*” incorporates all the senses of the foundation of the human ability to become aware that actions have a value, and this, like we said above, is in regard to the moral worth or value of human conduct which is measured in terms of its possible moral effects or consequences. That is the difference between the (two-legged) human and (four-legged) beastly life which he addresses in *Utubora Mkulima*. We say of a wise person (*Mtu mwenye hekima*) that they are diligent by habit; that they weigh matters, especially their own, or other people’s actions when they are asked for counsel, for purposes of directing conduct to be based on right choices at all times and in all instances. He says in KiSwahili: *upate urari, wa hekima kila hali* – that is, “that you may have a good balance of wisdom at all times.” In other words, humans ought to act with due diligence at all times, otherwise they risk being like beasts in their actions. We also see in this section that Shaaban distinguished reason as a faculty or capacity from knowledge or wisdom as its product when reason is carefully and diligently applied to consideration of matters of life. Not once should humans ever let their guard down that they fail in this fundamental and defining expectation. Elsewhere in *Koja la Lugha* he says that without intelligence the human body is just like a tree, for even botanical trees, though they may not have mouths, yet they eat, drink, and dance to the music of the wind (KL 8–9). And if you saw humans so comparable, you would not know what to call them. He says (KL 8):
 
-> *Kuuliza ni thawabu, wanenaji wamenena*, *Jambo likikupa taabu, usilinyamaze sana*, *Uliza wenye vitabu, na wajuao maana*, *Nani aliyeona, mti kucheza taarabu*?
+> *Kuuliza ni thawabu, wanenaji wamenena*,
+> *Jambo likikupa taabu, usilinyamaze sana*,
+> *Uliza wenye vitabu, na wajuao maana*,
+> *Nani aliyeona, mti kucheza taarabu*?
 >
-> ([Ability for] asking questions is a human gift, When you have trouble understanding anything,
+> ([Ability for] asking questions is a human gift,
+> When you have trouble understanding anything,
 >
-> Do not suppress it with silence, Ask the scholars, and experts in the matter, Who has ever seen a tree dance to music?)
+> Do not suppress it with silence,
+> Ask the scholars, and experts in the matter,
+> Who has ever seen a tree dance to music?)
 >
-> *Mti uchezao ngoma, nimepata kuuona*, *Umefungwa mahazama, kama kwamba msichana*, *Achezae lelemama, kasoro kichwa hapana*, *Ndivyo nilivyoona, nilipokwenda tazama*.
+> *Mti uchezao ngoma, nimepata kuuona*,
+> *Umefungwa mahazama, kama kwamba msichana*,
+> *Achezae lelemama, kasoro kichwa hapana*,
+> *Ndivyo nilivyoona, nilipokwenda tazama*.
 >
-> (But I have seen one, a tree that dances to music, Adorned with pendants, as if a young woman, That she dances through the night, except she has no head, That’s what I observed, when I went to look.)
+> (But I have seen one, a tree that dances to music,
+> Adorned with pendants, as if a young woman,
+> That she dances through the night, except she has no head,
+> That’s what I observed, when I went to look.)
 
 ## 2. The guidance of reason in a life of righteousness
 
@@ -57,9 +88,15 @@ According to Shaaban, what defines a good and attractive life is not physical lo
 
 It is Shaaban’s view that the moral well-being of a society is cultivated and sustained through generations in cycles of responsibility: good people teach and prepare the youth to be good, and they too take over the same leadership in society, and thus a communal or social character is planted. It is the responsibility of elders to instill good intellectual and moral growth and development in young people, and they should do so by teaching and by practical examples, because children, besides the ability to learn from their teachers, are also good imitators. So Shaaban starts by asking God to gift those who are in charge of bringing up the youth with intelligence and ability for good judgement. He says (KL 27):
 
-> *Mungu wape majazi, wenye kulea vijana*, *Hao ndio waongozi wa kuwatenga na laana.* *Ibariki yao kazi, yakue yao majina*, *Wafundisheni imani, watoto mkiwalea.*
+> *Mungu wape majazi, wenye kulea vijana*,
+> *Hao ndio waongozi wa kuwatenga na laana.*
+> *Ibariki yao kazi, yakue yao majina*,
+> *Wafundisheni imani, watoto mkiwalea.*
 >
-> (God, fill them with gifts, those who bring up the youth, For it is they who will protect the youth from curses, God, bless their work, and make their names to grow, Teach faith to the youth as you bring them up.)
+> (God, fill them with gifts, those who bring up the youth,
+> For it is they who will protect the youth from curses,
+> God, bless their work, and make their names to grow,
+> Teach faith to the youth as you bring them up.)
 
 It is apparent from the above lines that Shaaban is giving affirmation to the moral teachings he received in the Madrasa as having given him a good foundation through faith. But he moves quickly to assert that moral goodness is all about diligent exercise of the intellect. Also, however, it is not clear what sense of “faith (*imani*)”[^note-6] – religious, or secular – Shaaban had in mind here, for the KiSwahili verb “*kuamini*” from which the noun “*imani*” is derived, sometimes only means “to believe,” or “to trust.” But we can assume that even in this secular sense, Shaaban implied some form of religious affirmation of the supremacy of God since he (Shaaban) begins by appealing to the recognition of the origin of the abilities of the teachers of the youth as divine gifts. Yet, as used in the stanza above, the term “*imani*” could imply merely exhorting teachers of morality to be those whose own moral standing in speech and actions was exemplary in order to elicit trust from the youth whom they were entrusted with teaching. It is trust in them as both moral teachers and role models that would cause their names to grow in recognition and reputation.
 
@@ -69,9 +106,15 @@ Shaaban appears to strongly recognize the importance of religious faith in regar
 
 In *Kusadikika*, *Utobora Mkulima*, *Adili na Nduguze*, and *Maisha Yangu na Baada ya Miaka Hamsini* Shaaban paints a picture of the world of his time as deeply unjust and in need of radical transformation. At the end of *Maisha Yangu na Baada ya Miaka Hamsini* (MY 102–104), Shaaban glorifies Allah as the Maxim of greatness and exhorts believers and all humans to pay tribute to Allah who, out of His unlimited goodness and gentleness, gifts humans, first with life, and then with anything else they may ask for. The world, he writes, is worthless, except for the stupid and self-conceited who do not recognize their finitude and indebtedness to Allah for their existence and everything they are or have. It is Allah who confers goodness, and for this humans ought to be cognizant and grateful. He writes:
 
-> *Nusura kushika zani, roho nikaikalifu*, *Nikarudi mawazoni, kufuta moyo uchafu*; *Dunia ni kkity duni, ila kwa aliye dufu*, *Alhamdudillahi*, *namshukuru Latifu*.
+> *Nusura kushika zani, roho nikaikalifu*,
+> *Nikarudi mawazoni, kufuta moyo uchafu*;
+> *Dunia ni kkity duni, ila kwa aliye dufu*,
+> *Alhamdudillahi*, *namshukuru Latifu*.
 >
-> (I almost fell into waywardness, and blemished my soul, But reconsidered, and cleaned my heart; The world is in an abject state, except for the morally blind and ignorant, But I thank Him who is Absolute Goodness.)
+> (I almost fell into waywardness, and blemished my soul,
+> But reconsidered, and cleaned my heart;
+> The world is in an abject state, except for the morally blind and ignorant,
+> But I thank Him who is Absolute Goodness.)
 
 Shaaban argues that the value of faith is practical and should be seen in the cultivation of character which, in turn, should be seen in one’s moral conduct. A society in which individuals live by the four virtues (*Wiqāh*, *Şidq*, *Iffah*, and *Adi*) shall be a peaceful, harmonious, and just society in which people take care of one another. He observes that the general communal or societal atmosphere – the common good – that results and prevails when everyone lives by these virtues is an atmosphere of happiness, and this is what is desirable as a specifically human experience. It is an experience guided by right reason rather than one in which the pursuit of worldly goods and social status is made the focus of life. This is the lesson that Shaaban, through Utubora the fictional character, aims to pass to a society clamoring for liberation, justice, and restoration of their human dignity when Utubora defies those with misplaced senses of values, like his employer Bwana Ahmed, and his caretaker Bihaya in *Utubora Mkulima* (UM 13–25).
 
@@ -89,7 +132,10 @@ According to Shaaban, the pursuit of happiness or of what is good often faces ob
 
 Shaaban unleashes a scathing critique of the attitude of aristocratic and racial superiority shown by Arab settlers toward Black Africans in the East African coast, including Tanganyika and Zanzibar at the beginning of *Kusadikika*. There, Shaaban indicates that neither physical attributes, nor race, nor class, nor social status, either makes one virtuous, or gives them the freedom or right to treat other humans anyhow they like. According to him, such attitudes create, and have become, obstacles to the attainment of a just society. They have become impediments to their victims' pursuit of happiness. In *Maisha Yangu na Baada ya Miaka Hamsini* (MY 1–2), Shaaban narrates that *Ubora*, that is, perfection, was an ideal he strove diligently to attain in all aspects of his daily life. He did this both privately and publicly in the course of discharging his duties at work. In life, he says, one must not depend on luck either to become good or to achieve what they deserve, fo luck is unreliable, and does not deliver as one would desire. Sometimes, it just doesn’t come altogether. Instead, people ought to rely solely on their own diligence. Hard work, discipline, honesty, and doing what is right at all times is what delivers. And these are the virtues that bring development, that is, the good and right change, to individuals and to a nation when practiced by citizens. Then, in the moving autobiographical poem in *Koja la Lugha* (KL 72–74) titled “*Jina Langu Nimewapa* (I gave Them My Name, but really meaning ‘I honestly and transparently laid down my dispositions toward perfect conduct’)” he spells out these strivings – different aspects or types of virtuous conduct that lead to perfection. He narrates there specifically that (KL 72–74):
 
-> *Miaka kumi na nane nilifanya kazi hizo*, *Mimi na watu wengine, bila ovu na mzozo*, *Nia yangu waone, watu wenye mawazo*, *Rangi siyo chukizo, kuwa sawa na wengine*.
+> *Miaka kumi na nane nilifanya kazi hizo*,
+> *Mimi na watu wengine, bila ovu na mzozo*,
+> *Nia yangu waone, watu wenye mawazo*,
+> *Rangi siyo chukizo, kuwa sawa na wengine*.
 >
 > (For eighteen years I worked in the Customs Department in Dar es Salaam with other, different colleagues without any ill feelings or fracas toward them, so thoughtful people would realize that race is not a cause for hatred or inferiority, but of equality.)
 

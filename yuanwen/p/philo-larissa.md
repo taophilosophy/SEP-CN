@@ -180,7 +180,7 @@ Antiochus of Ascalon | Arcesilaus | Carneades | Cicero | skepticism
 
 [^mette-1986]: Mette, Hans Joachim, 1986–7, “Philon von Larisa und Antiochus von Askalon”, *Lustrum*, 28–9: 9–63. [The evidence on Philo in Greek and Latin, with German translations.]
 
-[^reinhardt-2023a]: Reinhardt, Tobias, 2023a, *Cicero’s*Academici libri *and*Lucullus*: A Commentary with Introduction and Translations*, Oxford and New York: Oxford University Press. [English translation of Reinhardt’s edition of the text, with appendices of translations of additional Academic sources.]
+[^reinhardt-2023a]: Reinhardt, Tobias, 2023a, *Cicero’s* Academici libri *and* Lucullus*: A Commentary with Introduction and Translations*, Oxford and New York: Oxford University Press. [English translation of Reinhardt’s edition of the text, with appendices of translations of additional Academic sources.]
 
 [^anonymous-1990]: Anonymous, *Prolégomènes à la Philosophie de Platon*, Leendert Gerrit Westerink (ed.), Jean Trouillard & Alain Philippe Segonds (trans.), Paris: Collection des Universités de France, 1990. [Greek text with French translation of the *Introduction to Plato*.]
 
@@ -260,7 +260,7 @@ Antiochus of Ascalon | Arcesilaus | Carneades | Cicero | skepticism
 
 [^fleischer-2018]: –––, 2018, “Philon of Larissa”, in *The Encyclopedia of Ancient History*, Roger S Bagnall, Kai Brodersen, Craige B Champion, Andrew Erskine, and Sabine R Huebner (eds.), Hoboken: John Wiley & Sons, 2 pages. doi:10.1002/9781444338386.wbeah30445
 
-[^fleischer-2022]: –––, 2022, “Philo or Philio of Larissa?”, *The Classical Quarterly*72.1: 222–32.
+[^fleischer-2022]: –––, 2022, “Philo or Philio of Larissa?”, *The Classical Quarterly* 72.1: 222–32.
 
 [^görler-1994]: Görler, Woldemar, 1994, “Älterer Pyrrhonismus—Jüngere Akademie, Antiochos aus Askalon”, in *Die Philosophie der Antike 4: Die Hellenistische Philosophie*, Helmut Flashar (ed.), Basel: Schwabe & Co., pp. 915–937.
 

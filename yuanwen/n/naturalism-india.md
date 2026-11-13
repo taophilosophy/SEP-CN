@@ -25,7 +25,8 @@ There are two contending theories of the natural world in India. According to th
 
 Like Greek atomism, Indian atomism was speculative and local. The roots of Indian atomism can be traced back to the Upaniṣadic doctrine of five elements (pañca-mahābhūtas), viz., earth, water, fire, air, and vyom or ākāśa. According to the Nyāya-Vaiśeṣika philosophers, the first four elements are of two types—eternal and non-eternal. Atoms are eternal, while composite ‘wholes’ are non-eternal, since every product is eventually destroyed. Atoms, it is claimed, possess the smallest magnitude (aṇu-parimāṇa), are spherical (parimaṇḍala), indivisible, and eternal. Though quantitatively identical, each type of atom has specific attribute. An earth atom has odour, a water atom taste, a fire atom colour and an air atom has touch as specific attribute. What motivates an atomistic conception of nature? Nyāya-Vaiśeṣika thinkers offer a two-step argument to establish the existence of atoms. The first step is:
 
-> Every visible substance is composed of parts. Therefore, the smallest visible composite thing—say, the smallest mote seen in a sunbeam—is also composed of parts, as it is visible, like a piece of cloth.
+> Every visible substance is composed of parts.
+> Therefore, the smallest visible composite thing—say, the smallest mote seen in a sunbeam—is also composed of parts, as it is visible, like a piece of cloth.
 
 There are two presuppositions of this argument: (1) A part of a whole is always smaller in size than a whole—a thesis of which no counter-instance is available in our world; and (2) the parts of the smallest visible composite thing are imperceptible. The second step of the argument runs as follows:
 

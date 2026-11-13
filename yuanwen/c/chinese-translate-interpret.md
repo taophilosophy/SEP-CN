@@ -99,7 +99,8 @@ The text has been translated to English over 500 times, as a religious, politica
 
 The opening line of Chapter I reads:
 
-> 道 可 道 非 常 道 *Dào kě dào fēi cháng dào*. (*Dào* can-be *dào*-ed is-not constant *dào*)
+> 道 可 道 非 常 道
+> *Dào kě dào fēi cháng dào*. (*Dào* can-be *dào*-ed is-not constant *dào*)
 
 道*dào* way, road
 
@@ -121,7 +122,8 @@ Literally, then, we have something like ”*dao* can be *dao-ed; (It) is* not in
 
 The second line illustrates the role of parallelism:
 
-> 名 可 名 非常名 *Míng kě míng fēi cháng míng* (name can/may-be named is-not constant name)
+> 名 可 名 非常名
+> *Míng kě míng fēi cháng míng* (name can/may-be named is-not constant name)
 
 Everything is the same except the metaphorical *dào* is replaced by the overtly linguistic *name* (名 *míng* term, word). So, ”Names can be named. They are not inevitable names.“
 

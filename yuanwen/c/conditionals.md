@@ -358,7 +358,8 @@ Second, it is hard to see that there are any alternatives to her suggestion that
 
 Third, sticking with the epistemic “must” as the unpronounced modal operator leads to difficulties. Consider the following exchange:
 
-> A: Will Jane accept if she is offered the job? B: No, it is certainly not the case that she will accept if offered the job [for not all offer-possibilities are accept-possibilities]. But she might well accept if she is offered the job.
+> A: Will Jane accept if she is offered the job?
+> B: No, it is certainly not the case that she will accept if offered the job [for not all offer-possibilities are accept-possibilities]. But she might well accept if she is offered the job.
 
 B’s remark sounds contradictory. (Stalnaker (1981 p. 100) made essentially the same point, about counterfactuals, comparing his view with Lewis’s: Lewis’s counterfactuals go plain false when not *all* closest $A$-worlds are $B$-worlds, although some are.) Thus, while the restrictor view has some plausibility, its treatment of the “bare conditional” as a modalised proposition is problematic.
 

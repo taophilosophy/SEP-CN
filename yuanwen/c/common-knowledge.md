@@ -461,7 +461,8 @@ Lewis concludes that a necessary condition for agents to be following a conventi
 > 4. everyone prefers that everyone conform to $R$, on condition that at least all but one conform to R;
 > 5. everyone would prefer that everyone conform to $R'$, on condition that at least all but one conform to $R'$,
 >
-> where $R'$ is some possible regularity in the behavior of members of $P$ in $S$, such that no one in any instance of $S$ among members of $P$ could conform both to $R'$ and to $R$. (Lewis 1969, p. 76)[^lewis-1969][^lewis-1969-2][^note-22]
+> where $R'$ is some possible regularity in the behavior of members of $P$ in $S$, such that no one in any instance of $S$ among members of $P$ could conform both to $R'$ and to $R$.
+> (Lewis 1969, p. 76)[^lewis-1969][^lewis-1969-2][^note-22]
 
 Lewis includes the requirement that there be an alternate coordination equilibrium $R'$ besides the equilibrium $R$ that all follow in order to capture the fundamental intuition that how the agents who follow a convention behave depends crucially upon how they expect the others to behave.
 

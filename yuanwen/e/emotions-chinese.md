@@ -375,7 +375,16 @@ The *Laozi* (老子), also known as *Dao De Jing* (道德經 *The Book of Dao an
 
 He states that
 
-> I have three treasures that I hold on to and preserve: The first I call loving kindness [*ci* 慈]; The second I call frugality [*jian* 儉]; The third I call never daring to put oneself first in the world. The kind can be courageous [*yong* 勇]; The frugal can be generous; Those who never dare to put themselves first in the world can become leaders of the various officials. Now to be courageous without frugality, To put oneself first without putting oneself behind others, These will lead to death. (*Laozi*, 67; Ivanhoe 2002: 70)[^ivanhoe-2002]
+> I have three treasures that I hold on to and preserve:
+> The first I call loving kindness [*ci* 慈];
+> The second I call frugality [*jian* 儉];
+> The third I call never daring to put oneself first in the world.
+> The kind can be courageous [*yong* 勇];
+> The frugal can be generous;
+> Those who never dare to put themselves first in the world can become leaders of the various officials.
+> Now to be courageous without frugality,
+> To put oneself first without putting oneself behind others,
+> These will lead to death. (*Laozi*, 67; Ivanhoe 2002: 70)[^ivanhoe-2002]
 
 In this passage, Laozi mentions loving kindness, frugality and not being self-interested or self-centered as the three treasures and explains how they influence the success and failure of people. Among them, loving kindness and courage are affective dispositions that help individuals to be successful leaders but lacking them would lead to failure and death.
 
@@ -393,7 +402,14 @@ One of the frequently discussed emotions in the *Laozi* is desire (*yu* 欲). De
 
 Laozi’s reproving approach to desire, however, should be carefully understood since he does not say that one should simply reject or suppress one’s desire. In the first chapter of the *Laozi*, he makes a paradoxical statement about desire and desirelessness in their relations to the ultimate Way:
 
-> A Way that can be followed is not a constant Way. A name that can be named is not a constant Way. Nameless, it is the beginning of Heaven and earth. Named, it is the mother of the myriad creatures. And so, Always eliminate desires in order to observe its [Way’s] mysteries; Always have desires in order to observe its [Way’s] manifestations. (*Laozi*, 1; Ivanhoe 2002: 1)[^ivanhoe-2002].
+> A Way that can be followed is not a constant Way.
+> A name that can be named is not a constant Way.
+> Nameless, it is the beginning of Heaven and earth.
+> Named, it is the mother of the myriad creatures.
+> And so,
+> Always eliminate desires in order to observe its [Way’s] mysteries;
+> Always have desires in order to observe its [Way’s] manifestations.
+> (*Laozi*, 1; Ivanhoe 2002: 1)[^ivanhoe-2002].
 
 Laozi, as he does in many chapters of the *Laozi*, presents an intriguing paradox of desire and desirelessness in this passage. The passage can be interpreted in many different ways. From a contextual viewpoint, desire (*yu*) can be beneficial, harmful, cultivated, or eliminated as courage (*yong*) can be beneficial or deadly in certain situations to certain people (*Laozi*, 73). From a psychological viewpoint, certain aspects of desire (such as exclusive promotion of self-interest, sensual indulgence, or self-centered viewpoint) are harmful but others (such as a natural inclination to satisfy one’s basic needs) are acceptable. However, considering the significance of this chapter, i.e., the beginning chapter of the *Laozi* where the ultimate Way and the linguistic or conceptual limitation of properly identifying and describing it are discussed, the paradox of desire and desirelessness can be understood from the viewpoint of the intriguing relation between desire and the Way. The relation between the two can be explained in two opposite ways: desire may distort the Way (in this case, desirelessness is needed) but it helps us to initiate our journey toward the Way (in this case, desire is needed). These conflicting approaches to desire show both the limitation and the openness of desire in our journey to understand the Way (the ultimate truth and truthfulness of the world). Perhaps the relation between the Way and desire can be characterized as a form of affective intentionality where emotions open, guide, and change our emotional responsiveness to the world and the Way. Regardless of these interpretations of desire, it is clear that Laozi’s view is not simply ascetic and eliminative toward desire, even though he cautions against its potentially harmful and destructive nature, specifically the exclusive pursuit of self-interest and self-centered viewpoint that can generate confrontational, narrow-minded and myopic understanding of the self and others.
 
@@ -411,7 +427,12 @@ In this passage, Zhuangzi lists emotions along with natural organisms and their 
 
 It is, therefore, meaningless to feel emotions as positive, negative, attractive, or repulsive as it is equally meaningless to describe day and night as positive or negative. Zhuangzi believes that developing likes or dislikes (affective interpretations or evaluations of our sensory and perceptual interaction with the world) is an inappropriate way to feel or understand naturally arising emotions and can hurt individuals who are caught by their likes and dislikes. Thus, he says that one should not “by his likes and dislikes do any inward harm to himself” (*Zhuangzi*, 5.6). In the following conversation, he explains his thoughts on how one should feel and understand emotions.
 
-> Huizi said to Zhuangzi, “Can a man really be without feelings [*qing*]?” Zhuangzi: “Yes”. Huizi: “But a man who has no feelings [*qing*] —how can you call him a man?” Zhuangzi: “The Way gave him a face; Heaven gave him a form—why can’t you call him a man?” Huizi: “But if you’ve already called him a man, how can he be without feelings [*qing*]?” Zhuangzi: “That’s not what I mean by feelings [*qing* ]. When I talk about having no [*qing*] feelings, I mean that a man doesn’t allow likes or dislikes to get in and do him harm. He just lets things be the way they are and doesn’t try to help life along”. (*Zhuangzi*, 5.6; Watson 2013: 40–41)[^watson-2013]
+> Huizi said to Zhuangzi, “Can a man really be without feelings [*qing*]?”
+> Zhuangzi: “Yes”.
+> Huizi: “But a man who has no feelings [*qing*] —how can you call him a man?”
+> Zhuangzi: “The Way gave him a face; Heaven gave him a form—why can’t you call him a man?”
+> Huizi: “But if you’ve already called him a man, how can he be without feelings [*qing*]?”
+> Zhuangzi: “That’s not what I mean by feelings [*qing* ]. When I talk about having no [*qing*] feelings, I mean that a man doesn’t allow likes or dislikes to get in and do him harm. He just lets things be the way they are and doesn’t try to help life along”. (*Zhuangzi*, 5.6; Watson 2013: 40–41)[^watson-2013]
 
 In this passage, Zhuangzi distinguishes two different forms of *qing*. When he says “a man has no feelings”, he is talking about the feelings of likes and dislikes with specific evaluations and judgments. This type of feelings can affect us and motivate us to accept and follow certain viewpoints, rules, or norms. However, natural feelings come to one’s mind without bringing in any suppositions or judgments of acceptance and rejection. In their analysis of this passage, Ma and van Brakel (2021: 137) state by quoting Graham (1981 [2001: 82]) that
 

@@ -208,7 +208,7 @@ feminist philosophy, interventions: political philosophy | Feuerbach, Ludwig And
 
 [^all-1844]: 1844, “Umrisse zu einer Kritik der Nationalökonomie”, in *Deutsch-Französische Jahrbücher*, ed. Arnold Ruge and Karl Marx, Paris; translated as “Outlines of a Critique of Political Economy”, in MECW 3: 418–443.
 
-[^all-1845]: 1845 (coauthored with Marx), *Die heilige Familie, oder Kritik der kritischen Kritik. Gegen Bruno Bauer und Consorten*, Frankfurt am Main; translated as*The Holy Family, or Critique of Critical Criticism: Against Bruno Bauer and Company*, by Richard Dixon and Celemens Dutt, in MECW 4: 5–211.
+[^all-1845]: 1845 (coauthored with Marx), *Die heilige Familie, oder Kritik der kritischen Kritik. Gegen Bruno Bauer und Consorten*, Frankfurt am Main; translated as *The Holy Family, or Critique of Critical Criticism: Against Bruno Bauer and Company*, by Richard Dixon and Celemens Dutt, in MECW 4: 5–211.
 
 [^all-1845-2]: 1845, *Die Lage der arbeitenden Klasse in England. Nach eigner Anschauung und authentischen Quellen*, Leipzig; translated as *The Condition of the Working-Class in England: From Personal Observation and Authentic Sources*, by Florence Kelley-Wischnewetzky, in MECW 4: 295–583.
 

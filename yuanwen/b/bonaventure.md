@@ -77,7 +77,9 @@ To understand theology as a “science” making faith intelligible, Bonaventure
 
 Bonaventure does not explicitly address the principles of theology. But he further clarifies its “subject” in a way that points to those principles. To faith, Scripture adds the notion of “authority”, and to the faith and authority of Scriptural revelation, theology adds “proof”. Theology presupposes faith but adds to it rational demonstrations about matters of faith. Consequently, Bonaventure adds a telling qualification to his description of the subject of theology. Theology’s subject is the object of belief
 
-> in so far as the *object of belief* *passes over into intelligibility by the addition of reasoning*. *prout tamen credibile transit in rationem intelligibilis, et hoc per additionem rationis.* (*In I Sent.* prol., q. 1 conclusio [Quaracchi I: 7b]; trans. Houser and Noone 2013, 4)[^houser-2013]
+> in so far as the *object of belief* *passes over into intelligibility by the addition of reasoning*.
+> *prout tamen credibile transit in rationem intelligibilis, et hoc per additionem rationis.*
+> (*In I Sent.* prol., q. 1 conclusio [Quaracchi I: 7b]; trans. Houser and Noone 2013, 4)[^houser-2013]
 
 With this concise formula, Bonaventure includes within theology both religious belief transformed by arguments from natural reason and natural reason transformed by arguments based on religious revelation. If so, then theology must have the kinds of principles that make possible both kinds of arguments: the fundamental truths of faith drawn from the Bible and tradition, but also fundamental truths of reason. What makes all such basic truths theological is their argumentative function. Theological arguments may draw from revelation by using revealed truths as premises and they may draw from reason by using rational truths as premises. Both kinds of arguments are theological because of the use to which they are put. In this way, philosophical *reasoning* has an integral place within the domain of Bonaventurean theology.
 
@@ -207,7 +209,8 @@ The aitiological argument is “more certain”, because it begins with a real e
 
 For his *empirical* premise Bonaventure turns again to truth, but ontological truth. All creatures are true to the extent that they actualize the potential perfections of their natures, and they are false to the extent that they fail to do so, because ontological truth is “the indivision of act and potency”. So “in a *creature* there is indivision combined with difference between act and potency”. All creatures are *partial* actualizations of truth. Ontological truth takes us to the heart of Bonaventurean metaphysics. Aristotle’s definition of prime matter as pure potency means that everything that contains potency of any sort, even an angel, must contain matter. This universal hylomorphism leads in turn to Bonaventure’s doctrine of being:
 
-> Matter gives independent existence (*existere*) to form, while form gives the act of being (*essendi actum*) to matter. *Existere dat materia formae, sed essendi actum dat forma materiae* (*In II Sent.* d. 3, pars 1, art. 2, q. 3 concl. [Quaracchi II: 110]; trans. authors)
+> Matter gives independent existence (*existere*) to form, while form gives the act of being (*essendi actum*) to matter.
+> *Existere dat materia formae, sed essendi actum dat forma materiae* (*In II Sent.* d. 3, pars 1, art. 2, q. 3 concl. [Quaracchi II: 110]; trans. authors)
 
 Every created being (*ens*) is an ontological composite of independent existence (*existere*) and being (*esse*), where *esse* signifies the nature or essence of the thing. From rocks to angels, all creatures are true to the extent that the potencies of their “existence” given by matter are realized through the perfection of their “being” through form.
 

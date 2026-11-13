@@ -53,7 +53,8 @@ The “informational gene” conception, as James R. Griesemer (2005) terms it, 
 
 And yet, this kind of hylomorphism has remained, even in science. Biologists have argued that form determined many properties of organisms in ways that could not be reduced to the actions of their parts, and this kind of thinking remained and was co-opted by the molecular biologists and geneticists. Thus, we get the Central Dogma of molecular biology:
 
-> The Central Dogma This states that once ‘information’ has passed into protein *it cannot get out again*. In more detail, the transfer of information from nucleic acid to nucleic acid, or from nucleic acid to protein may be possible, but transfer from protein to protein, or from protein to nucleic acid is impossible. Information means here the *precise* determination of sequence, either of bases in the nucleic acid or of amino acid residues in the protein. (Crick 1958)[^crick-1958]
+> The Central Dogma
+> This states that once ‘information’ has passed into protein *it cannot get out again*. In more detail, the transfer of information from nucleic acid to nucleic acid, or from nucleic acid to protein may be possible, but transfer from protein to protein, or from protein to nucleic acid is impossible. Information means here the *precise* determination of sequence, either of bases in the nucleic acid or of amino acid residues in the protein. (Crick 1958)[^crick-1958]
 
 Read physically, this means only that the structure of the DNA molecule is not reproduced from the structure of proteins, a perfectly reasonable account of the molecular processes. However, because Crick used the word “information”, some scientists, including Dawkins, took this to mean that genes are informational entities, which “code” for organismic traits from the molecular level up to the entire organism and even beyond. This is striking in a purple passage of *The Blind Watchmaker*, where Dawkins describes genes as follows:
 

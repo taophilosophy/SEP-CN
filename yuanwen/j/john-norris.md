@@ -153,7 +153,12 @@ Norris also believed that the Quakers were guilty of the sin of schism. Certain 
 
 Other than his writings on toleration, his sole other published political work is *A Murnival of Knaves* issued in 1683 against the Parliamentarians. Norris was a Royalist, but he was not much engaged in the volatile politics of his day. A poem in his *Miscellanies* reveals his attitude towards politics:
 
-> NO, I shan’t envy him whoe’er he be That stand upon the *Battlements* of State, Stand there who will for me, I’d rather be *secure* than *great*. Of being so *high* the *pleasure* is but *small*, But *long the Ruine* if I chance to *fall*. (29)
+> NO, I shan’t envy him whoe’er he be
+> That stand upon the *Battlements* of State,
+> Stand there who will for me,
+> I’d rather be *secure* than *great*.
+> Of being so *high* the *pleasure* is but *small*,
+> But *long the Ruine* if I chance to *fall*. (29)
 
 The ruination of one’s soul for the chance to achieve temporary greatness runs against Norris’ basic convictions, the foremost of which was a life dedicated to the service of God focused upon the afterlife. This dearth of political writings reveals a philosopher who engaged in intellectual activity because it reveals an orderly universe governed by the Christian God. Humility is also an important virtue for the Christian, as Norris explains in *A Practical Treatise concerning Humility* published in 1707. In Creation, humanity has a humble role to play – to love and serve God. Political and intellectual endeavors are tools to achieve that end. All human thought and institutions should be utilized to serve God’s purposes. This theme is also reflected in Norris’ 1705 *The Distinction between High Church and Low Church, distinctly considered and fairly treated*.
 

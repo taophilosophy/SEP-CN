@@ -148,7 +148,7 @@
 - Caicedo, Xavier, George Metcalfe, Ricardo Oscar Rodríguez, and Jonas Rogger, 2017, “Decidability of order-based modal logics”, *Journal of Computer and System Sciences*, 88: 53–74. doi:10.1016/j.jcss.2017.03.012
 - Caicedo, Xavier and Ricardo Oscar Rodríguez, 2010, “Standard Gödel Modal Logics”, *Studia Logica*, 94(2): 189–214.
 - –––, 2015, “Bi-modal Gödel logic over [0, 1]-valued Kripke frames”, *Journal of Logic and Computation*, 25(1): 37–55. doi: 10.1093/logcom/exs036
-- Cintula, Petr, Paula Menchón, and Carles Noguera, 2019, “Toward a general frame semantics for modal many-valued logics”, *Soft Computing*, 23(7): 2233–2241. doi: 10.1007/s00500-018-3369-5
+- Cintula, Petr, Paula Menchón, and Carles Noguera, 2019, “Toward a general frame semantics for modal many-valued logics”, *Soft Computing* , 23(7): 2233–2241. doi: 10.1007/s00500-018-3369-5
 - Hansoul, Georges and Bruno Teheux, 2013, “Extending Łukasiewicz Logics with a Modality: Algebraic Approach to Relational Semantics”, *Studia Logica*, 101(3): 505–545, doi: 10.1007/s11225-012-9396-9.
 - Rodríguez, Ricardo Oscar and Amanda Vidal, 2021, “Axiomatization of Crisp Gödel Modal Logic”, *Studia Logica*, 109(2): 367–395. doi: 10.1007/s11225-020-09910-5
 - Teheux, Bruno, 2016, “Modal definability based on Łukasiewicz validity relations”, *Studia Logica*, 104(2): 343–363. doi: 10.1007/s11225-015-9643-y

@@ -505,7 +505,7 @@ It is planned that future editions of this article further elaborate on machine-
 - **Tableau method:** Kohlhase[^note-4] 1995, 1998; Brown & Smolka 2010; Backes & Brown 2011.
 - **Paramodulation calculi:** Benzmüller 1999a,b; Steen 2018, Steen & Benzmüller 2018, 2021.
 - **Superposition calculi:** Bentkamp et al. 2018, Bentkamp et al. 2021, Bentkamp et al. 2023a,c
-- **Combinator-based superposition calculi:**Bhayat & Reger 2020
+- **Combinator-based superposition calculi:** Bhayat & Reger 2020
 
 ### 4.2 Proof Assistants
 
@@ -772,7 +772,7 @@ Portions of this material are adapted from Andrews 2002 and Andrews 2001, with p
 
 [^farmer-2008]: Farmer, William M., 2008, “The Seven Virtues of Simple Type Theory”, *Journal of Applied Logic*, 6(3): 267–286. doi:10.1016/j.jal.2007.11.001
 
-[^farmer-2023]: Farmer, William M., 2023, “Simple Type Theory - A Practical Logic for Expressing and Reasoning About Mathematical Ideas”, Cham: Birkhäuser. doi:10.1007/978-3-031-21112-6****
+[^farmer-2023]: Farmer, William M., 2023, “Simple Type Theory - A Practical Logic for Expressing and Reasoning About Mathematical Ideas”, Cham: Birkhäuser. doi:10.1007/978-3-031-21112-6
 
 [^farmer-1993]: Farmer, William M., Joshua D. Guttman, and F. Javier Thayer, 1993, “IMPS: An Interactive Mathematical Proof System”, *Journal of Automated Reasoning*, 11(2): 213–248. doi:10.1007/BF00881906
 

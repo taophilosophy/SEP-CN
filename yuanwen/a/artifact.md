@@ -242,7 +242,7 @@ abstract objects | aesthetics: environmental | aesthetics of the everyday | ethi
 
 [^franssen-2014-2]: Franssen, Maarten, Peter Kroes, Thomas A.C. Reydon, and Pieter E. Vermaas (eds.), 2014, *Artefact Kinds: Ontology and the Human-Made World*, Cham: Springer. doi:10.1007/978-3-319-00801-1
 
-[^franssen-2018]: Franssen, Maarten, Gert-Jan Lokhorst, and Ibo van de Poel, 2018, “Philosophy of Technology”, *The Stanford Encyclopedia of Philosophy*(Fall 2018 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2018/entries/technology/>.
+[^franssen-2018]: Franssen, Maarten, Gert-Jan Lokhorst, and Ibo van de Poel, 2018, “Philosophy of Technology”, *The Stanford Encyclopedia of Philosophy* (Fall 2018 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2018/entries/technology/>.
 
 [^frugé-2022]: Frugé, Christopher, 2022, “Artifactual Normativity”, *Synthese* 200: 126 doi:10.1007/s11229-022-03621-1
 
@@ -394,7 +394,7 @@ abstract objects | aesthetics: environmental | aesthetics of the everyday | ethi
 
 [^searle-1995]: Searle, John R., 1995, *The Construction of Social Reality*, New York: The Free Press.
 
-[^shields-2022]: Shields, Christopher, 2022, “Aristotle”, *The Stanford Encyclopedia of Philosophy*(Spring 2022 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2022/entries/aristotle/>.
+[^shields-2022]: Shields, Christopher, 2022, “Aristotle”, *The Stanford Encyclopedia of Philosophy* (Spring 2022 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2022/entries/aristotle/>.
 
 [^shott-2015]: Shott, Michael J. (ed.), 2015, *Works in Stone: Contemporary Perspectives in Lithic Analysis*, Salt Lake City, UT: University of Utah Press.
 

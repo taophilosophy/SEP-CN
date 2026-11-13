@@ -201,7 +201,11 @@ The English poet Samuel Taylor Coleridge, in his critical and philosophical essa
 
 A retrospective reverence for the ancient Greek arts was a touchstone of the Romantics, who thought its pursuit of beauty precisely allowed it to attain “objectivity.” The English poet John Keats concluded his famous *Ode on a Grecian Urn* (1820) with these lines (46–50):
 
-> When old age shall this generation waste,   Thou shalt remain, in midst of other woe Than ours, a friend to man, to whom thou say’st,   “Beauty is truth, truth beauty—that is all     Ye know on earth, and all ye need to know.”
+> When old age shall this generation waste,
+>   Thou shalt remain, in midst of other woe
+> Than ours, a friend to man, to whom thou say’st,
+>   “Beauty is truth, truth beauty—that is all
+>     Ye know on earth, and all ye need to know.”
 
 (For criticism of Keats on this point, see Ruskin 1843–60 [2004])[^ruskin-1843]. The German philosopher Friedrich Schlegel made this claim explicitly in his essay “On the Study of Greek Poetry” (1795). He thought Sophocles composed terrific tragedy effortlessly, just by letting the harmonious structure of nature flow through him into his drama.
 

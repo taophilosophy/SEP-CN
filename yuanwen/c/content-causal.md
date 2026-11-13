@@ -230,7 +230,8 @@ To illustrate the principle, suppose we say that gold is identical to the elemen
 
 So, here is the argument
 
-> P1. It is a true constitutive claim that all “X”s with content X are reliably caused by Xs. P2. If it is a true constitutive claim that all “X”s with content X are reliably caused by Xs, then it is not an implemented law that all “X”s with content X are reliably caused by Xs.
+> P1. It is a true constitutive claim that all “X”s with content X are reliably caused by Xs.
+> P2. If it is a true constitutive claim that all “X”s with content X are reliably caused by Xs, then it is not an implemented law that all “X”s with content X are reliably caused by Xs.
 
 Therefore, by *modus ponens* on P1 and P2,
 

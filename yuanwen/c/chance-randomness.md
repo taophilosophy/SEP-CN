@@ -163,7 +163,8 @@ Such sequences do indeed violate at least one property of stochasticity, as it t
 
 Von Mises and Church identified a class of sequences, those with limit frequencies invariant under recursive place selections, that satisfied a number of the measure one stochastic properties of sequences that are thought characteristic of randomness. But the class they identified was too inclusive. The next insight in this area was due to (Martin-Löf 1966)[^martin-löf-1966], who realised that rather than looking for another *single* property of sequences that would entail that the sequence met all the further conditions on randomness, it was simpler to adopt as a definition that a sequence is random iff the sequence has all the measure one properties of randomness that can be specified. Here again recursion theory plays a role, for the idea of *a measure one property of randomness that can be specified* is equivalent to the requirement that there be an effective procedure for testing whether a sequence violates the property. This prompts the following very bold approach to the definition of random sequences:
 
-> **Martin-Löf Randomness**: A random sequence is one which cannot be effectively determined to violate a measure one randomness property (Downey and Hirschfeldt 2010: §5.2; Dasgupta 2011: §6.1; Porter 2016: 461–2)[^dasgupta-2011][^downey-2010][^porter-2016].
+> **Martin-Löf Randomness**:
+> A random sequence is one which cannot be effectively determined to violate a measure one randomness property (Downey and Hirschfeldt 2010: §5.2; Dasgupta 2011: §6.1; Porter 2016: 461–2)[^dasgupta-2011][^downey-2010][^porter-2016].
 
 Recalling the definition of effective measure zero from supplement B.2, Martin-Löf suggests that a random sequence is any that does not belong to any effective measure zero set of sequences, and thus belongs to every effective measure one set of sequences. An effective measure zero set of sequences will contain sequences which can be effectively determined to have a ‘special hallmark’ (for example, having a ‘1’ at every seventh place, or never having the string ‘000000’ occurring as a subsequence). It is part of von Mises’ insight that no random sequence will possess any of these effectively determinable special hallmarks: such hallmarks would permit exploitation as part of a gambling system. But Martin-Löf notices that all of the commonly used measure one properties of stochasticity are effective measure one. Any sequence which violates the property of large numbers, or the law of symmetric oscillations, etc., will do so on increasingly long initial subsequences. So the violation of any such property will also be a special hallmark of a non-random sequence, an indicator that the sequence which possesses it is an unusual one. Since the unusual properties of non-stochasticity in question are effective measure zero, we can therefore say that the random sequences are those which are not special in any effectively determinable way. To formalise this, Martin-Löf appeals to the language of significance testing. His main result is sometimes put as the claim that random sequences as those which pass all recursive significance tests for sequences (Schnorr 1971: §1)[^schnorr-1971]—they are never atypical enough to prompt us to reject the hypothesis that they are random. See supplement B.1.1 for more detail on this point.
 
@@ -207,7 +208,8 @@ Such a universal function Kolmogorov called *asymptotically optimal* (for as $\l
 
 Choose some such asymptotically optimal function $u$, and define the complexity (simpliciter) $C(\sigma) = C_u (\sigma)$. Since $u$ is optimal, it is near-superior to the identity function; it follows that there exists a $k$ such that $C(\sigma) \le \lvert\sigma\rvert + k$. On the other hand, we also know that the number of strings for which $C(\sigma) \le \lvert\sigma\rvert - k$ is at most $\frac{1}{2} ^k$. We know therefore that all except $1 - 2^k$ sequences of length $n$ have a complexity within $k$ of $n$. As $n$ increases, for fixed large $k$, therefore, we see that almost all sequences have complexity of approximately their length. All this can be used to make precise the definition of randomness sketched above.
 
-> **Kolmogorov random**: We say that a sequence $\sigma$ is *Kolmogorov-random* iff $C(\sigma) \approx \lvert\sigma\rvert$.
+> **Kolmogorov random**:
+> We say that a sequence $\sigma$ is *Kolmogorov-random* iff $C(\sigma) \approx \lvert\sigma\rvert$.
 
 It follows from what we have just said that there exist random sequences for any chosen length $n$, and that as $n$ increases with respect to $k$, random sequences come to be the overwhelming majority of sequences of that length.
 
@@ -233,7 +235,8 @@ Since the set of prefix-free codes is a subset of the set of all possible codes,
 
 With prefix-free complexity in hand, we may define:
 
-> **Prefix-free Kolmogorov Randomness**: A string $\sigma$ is Prefix-free Kolmogorov random iff $K(\sigma) \ge \lvert\sigma\rvert$ (modulo an additive constant).
+> **Prefix-free Kolmogorov Randomness**:
+> A string $\sigma$ is Prefix-free Kolmogorov random iff $K(\sigma) \ge \lvert\sigma\rvert$ (modulo an additive constant).
 
 Again, there do exist prefix-free random sequences, since we know that there are plain random sequences, and given the greater length of a prefix-free encoding, we know that the prefix-free code of ordinary random sequence will be generally longer than an arbitrary code of it, and thus random too. Indeed, there will be more prefix-free random sequences because strings compress less effectively under $K$ than $C$. Yet $K$ and $C$ behave similarly enough that the success of plain Kolmogorov complexity at capturing our intuitions about randomness carry over to prefix-free Kolmogorov randomness, and the label ‘Kolmogorov random’ has come to be used generally to refer to prefix-free Kolmogorov random sequences.
 
@@ -273,13 +276,16 @@ The notions of chance and randomness discussed and clarified in the previous two
 
 With these precise notions in mind, we can return to the Commonplace Thesis CT connecting chance and randomness. Two readings make themselves available, depending on whether we take single outcomes or sequences of outcomes to be primary:
 
-> $\mathbf{CTa}$: A sequence of outcomes happens by chance iff that sequence is random.
+> $\mathbf{CTa}$:
+> A sequence of outcomes happens by chance iff that sequence is random.
 >
-> $\mathbf{CTb}$: An outcome happens by chance iff there is a random sequence of outcomes including it.
+> $\mathbf{CTb}$:
+> An outcome happens by chance iff there is a random sequence of outcomes including it.
 
 Given the standard probability calculus, any sequence of outcomes is itself an outcome (in the domain of the chance function defined over a $\sigma$-algebra of outcomes, as in standard mathematical probability); so we may without loss of generality consider only (CTb). But a problem presents itself, if we consider chancy outcomes in possible situations in which only very few events ever occur. It may be that the events which do occur, by chance, are all of the same type, in which case the sequence of outcomes won’t be random. This problem is analogous to the ‘problem of the single case’ for frequency views of chance (Hájek 2012: §3.3)[^hájek-2012], because randomness is, like frequency, a property of an outcome sequence. The problem arises because the outcomes may be too few or too orderly to properly represent the randomness of the entire sequence of which they are part (all infinite random sequences have at least some non-random initial subsequences). The most common solution in the case of frequentism was to opt for a hypothetical outcome sequence—a sequence of outcomes produced under the same conditions with a stable limit frequency (von Mises 1957: 14–5)[^mises-1957]. Likewise, we may refine the commonplace thesis as follows:
 
-> $\mathbf{RCT}$: An outcome happens by chance iff, were the trial which generated that outcome repeated often enough under the same conditions, we would obtain a random sequence including the outcome (or of which the outcome is a subsequence).
+> $\mathbf{RCT}$:
+> An outcome happens by chance iff, were the trial which generated that outcome repeated often enough under the same conditions, we would obtain a random sequence including the outcome (or of which the outcome is a subsequence).
 
 Here the idea is that chancy outcomes would, if repeated often enough, produce an appropriately homogenous sequence of outcomes which is random. If the trial is actually repeated often enough, this sequence should be the actual sequence of outcomes; the whole point of Kolmogorov randomness was to permit finite sequences to be random.
 
@@ -476,15 +482,19 @@ The left-to-right direction of CTU looks relatively secure when we attend just t
 
 One last hope for the thesis that chancy outcomes are random comes from the connection of both notions with indeterminism. Consider this argument:
 
-> $\mathbf{P1}$: An outcome happens by chance iff it is produced by an indeterministic process.
+> $\mathbf{P1}$:
+> An outcome happens by chance iff it is produced by an indeterministic process.
 >
-> $\mathbf{P2}$: A possible sequence of outcomes is random iff a repeated indeterministic process could produce all of the outcomes.
+> $\mathbf{P2}$:
+> A possible sequence of outcomes is random iff a repeated indeterministic process could produce all of the outcomes.
 >
-> $\mathbf{RCT}$: Therefore, an outcome happens by chance iff there is a possible random sequence of outcomes, produced by the same process, of which it is a member.
+> $\mathbf{RCT}$:
+> Therefore, an outcome happens by chance iff there is a possible random sequence of outcomes, produced by the same process, of which it is a member.
 
 This argument is valid. If the premises are true, we have a direct argument for RCT. We have no direct response to the objections raised in §§4–5, but somehow, if this argument succeeds, those objections must miss the point. The premises have some initial plausibility (though P2 is dubious: surely a properly indeterministic process could produce any sequence of outcomes whatsoever, including many non-random sequences? We discuss this further in §7.2). The thesis that indeterminism is necessary and sufficient for chance has long been a popular claim. And randomness and indeterminism also seem to have a close connection. But to evaluate them, we will need to be more precise than we have been about determinism.
 
-> **Earman-Montague Determinism**: A scientific theory is *deterministic* iff any two sequences of states in models of that theory which share some state at some time share every state at every time. A theory is *indeterministic* iff it is not deterministic; equivalently, if two systems can be in the same state at one time and evolve into distinct states. A system is (in)deterministic iff the theory which completely and correctly describes it (of which it is a model) is (in)deterministic. (Earman 1986; Montague 1974)[^earman-1986][^montague-1974]
+> **Earman-Montague Determinism**:
+> A scientific theory is *deterministic* iff any two sequences of states in models of that theory which share some state at some time share every state at every time. A theory is *indeterministic* iff it is not deterministic; equivalently, if two systems can be in the same state at one time and evolve into distinct states. A system is (in)deterministic iff the theory which completely and correctly describes it (of which it is a model) is (in)deterministic. (Earman 1986; Montague 1974)[^earman-1986][^montague-1974]
 
 Determinism so stated is a supervenience thesis: as Schaffer (2007: 115) puts it, ‘A world $w$ is deterministic iff: for all times $t$ in $w$, the total occurrent history of $w$ supervenes on the occurrent state of $w$ at $t$ together with the laws of $w$.’
 
@@ -510,7 +520,8 @@ The proof of this theorem relies on the fact that a theory can be non-trivially 
 
 Moreover, since we’ve already seen (§4.1) that it is possible for a chancy and indeterministic process to produce a non-random sequence of outcomes, and such a sequence would not be random, we also have a counterexample to claim (i). Claim (i) could be saved if we made a more robust claim about what could happen under indeterminism. There is a sense in which, while it is possible that a fair coin could land heads an infinite number of times, it *would not*. That is, the counterfactual ‘If I tossed the coin an infinite number of times, it wouldn’t land all heads’ is apparently true. There is some question whether the counterfactual really is true; Lewis (1979a) and Williams (2008) argue that it is, while Hawthorne (2005) argues that it is not. But if it is, the way lies open to defend a modified counterfactual version of P2:
 
-> **P$2'$**: A possible sequence of outcomes is random iff it is not the case that, were an indeterministic process to be repeated infinitely, it would not produce that sequence of outcomes.
+> **P$2'$**:
+> A possible sequence of outcomes is random iff it is not the case that, were an indeterministic process to be repeated infinitely, it would not produce that sequence of outcomes.
 
 But this is highly controversial; and the problem for claim (ii) would still stand.
 

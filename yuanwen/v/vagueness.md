@@ -49,7 +49,15 @@ Once we shift from literal to figurative usage, we gain fictive control over our
 
 Given that speakers lack any literal discretion over vague terms, we ought not to chide them for indecisiveness. Where there is no decision to be made, there is no scope for vice. Speakers would have literal discretion if statements applying a predicate to its borderline cases were just permissible variations in linguistic usage. For the sake of comparison, consider discretion between alternative spellings. Professor Letterman uses ‘judgment’ instead of ‘judgement’ because he wants to promote the principle that a silent E signals a long vowel. He still has fond memories of Tom Lehrer’s 1971 children’s song “Silent E”:
 
-> Who can turn a can into a cane? Who can turn a pan into a pane? It’s not too hard to see, It’s Silent E. Who can turn a cub into a cube? Who can turn a tub into a tube? It’s elementary For Silent E.
+> Who can turn a can into a cane?
+> Who can turn a pan into a pane?
+> It’s not too hard to see,
+> It’s Silent E.
+>
+> Who can turn a cub into a cube?
+> Who can turn a tub into a tube?
+> It’s elementary
+> For Silent E.
 
 Professor Letterman disapproves of those who add the misleading E but concedes that ‘judgement’ is a permissible spelling; he does not penalize his students for misspelling when they make their hard-hearted choice of ‘judgement’. Indeed, Professor Letterman scolds students if they fail to stick with the same spelling throughout the composition. Choose but stick to your choice!
 
@@ -73,11 +81,14 @@ Generality is obviously useful. Often, lessons about a particular $F$ can be pro
 
 Every natural language is both vague and ambiguous. However, both features seem eliminable. Indeed, both are eliminated in miniature languages such as checkers notation, computer programming languages, and mathematical descriptions. Moreover, it seems that both vagueness and ambiguity ought to be minimized. ‘Vague’ and ‘ambiguous’ are pejorative terms. And they deserve their bad reputations. Think of all the automotive misery that has been prefaced by
 
-> Driver: Do I turn left? Passenger: Right.
+> Driver: Do I turn left?
+> Passenger: Right.
 
 English can be lethal. Philosophers have long motivated appeals for an ideal language by pointing out how ambiguity creates the menace of equivocation:
 
-> No child should work. Every person is a child of someone. Therefore, no one should work.
+> No child should work.
+> Every person is a child of someone.
+> Therefore, no one should work.
 
 Happily, we know how to criticize and correct all equivocations. Indeed, every natural language is self-disambiguating in the sense that each has all the resources needed to uniquely specify any reading one desires.
 

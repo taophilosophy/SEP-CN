@@ -529,7 +529,7 @@ fMRI technology provides a way to measure directly the amount of oxygenation or 
 
 [^rupert-2009]: Rupert, Robert D., 2009, *Cognitive Systems and the Extended Mind*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195379457.001.0001
 
-[^sacks-1985]: Sacks, Oliver, 1985, *The Man Who Mistook his Wife for a Hat and Other Clinical Tales*, New York: Summit Books
+[^sacks-1985]: Sacks, Oliver, 1985, *The Man Who Mistook his Wife for a Hat and Other Clinical Tales* , New York: Summit Books
 
 [^schaffner-1992]: Schaffner, Kenneth F., 1992, “Philosophy of Medicine”, in *Introduction to the Philosophy of Science: A Text by Members of the Department of the History and Philosophy of Science of the University of Pittsburg*, Merrilee H. Salmon, John Earman, Clark Glymour, James G. Lennox, Peter Machamer, J. E. McGuire. John D. Norton, Wesley C. Salmon, and Kenneth F. Schaffner (eds.), Englewood Cliffs, NJ: Prentice-Hall, pp. 310–345.
 

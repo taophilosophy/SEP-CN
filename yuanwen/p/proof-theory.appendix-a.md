@@ -23,14 +23,14 @@ Where we indicated the ellipsis, Dedekind inserted a remarkable statement, in pa
 
 > (an absolutely reliable method of such an analysis consists for me in the replacement of all *Kunstausdrücke* [technical terms or terms of art] by arbitrary newly invented (up to now meaningless words): the edifice, if properly constructed, must not collapse, and I claim for example that my theory of real numbers passes this test).
 
-What is Dedekind’s *theory* of real numbers?—It is best understood as the theory of *complete* (or continuous) *ordered* fields. The notion of a *field*, prominent in Dedekind’s work on algebraic number theory, was introduced in a supplement to Lejeune Dirichlet et al. 1871. It is highlighted in the 1872 essay already in section 1, entitled “Properties of rational numbers”. The system $\rR$ of rational numbers is said to have, with respect to the four fundamental operations (addition, subtraction, multiplication and division), that “completeness and closure” which he designated in the Supplement as the *characteristic property* (*Merkmal*) of a number field. In this very section, Dedekind also introduces the usual ordering between rational numbers that is compatible with the algebraic operations. Dedekind’s treatment foreshadows that of simply infinite systems in the later and methodologically sophisticated essay *Was sind und was sollen die Zahlen?* (1888). There, any system N of “things” is simply infinite just in case there is an element 1 in N and a mapping $\varphi$ of N, such that
+What is Dedekind’s *theory* of real numbers?—It is best understood as the theory of *complete* (or continuous) *ordered* fields. The notion of a *field*, prominent in Dedekind’s work on algebraic number theory, was introduced in a supplement to Lejeune Dirichlet et al. 1871. It is highlighted in the 1872 essay already in section 1, entitled “Properties of rational numbers”. The system $\rR$ of rational numbers is said to have, with respect to the four fundamental operations (addition, subtraction, multiplication and division), that “completeness and closure” which he designated in the Supplement as the *characteristic property* (*Merkmal*) of a number field. In this very section, Dedekind also introduces the usual ordering between rational numbers that is compatible with the algebraic operations. Dedekind’s treatment foreshadows that of simply infinite systems in the later and methodologically sophisticated essay *Was sind und was sollen die Zahlen?* (1888). There, any system **N** of “things” is simply infinite just in case there is an element 1 in **N** and a mapping $\varphi$ of **N**, such that
 
-1. $\varphi[{\bN}]$ is a subset of N,
-2. N is the chain of the system $\{1\}$,
+1. $\varphi[{\bN}]$ is a subset of **N**,
+2. **N** is the chain of the system $\{1\}$,
 3. 1 is not an element of $\varphi[{\bN}]$, and
 4. the mapping $\varphi$ is injective.[^note-35]
 
-Using this approach, any system R of things is a *complete ordered field* just in case there is an ordering O and there are four operations on R, such that (1) R with O is a continuous ordered system (in Dedekind’s sense) and (2) R with the four operations is a field (and the operations are compatible with the ordering). Dedekind’s theory of real numbers is thus given as a “structural definition”.
+Using this approach, any system **R** of things is a *complete ordered field* just in case there is an ordering **O** and there are four operations on **R**, such that (1) **R** with **O** is a continuous ordered system (in Dedekind’s sense) and (2) **R** with the four operations is a field (and the operations are compatible with the ordering). Dedekind’s theory of real numbers is thus given as a “structural definition”.
 
 Hilbert’s theory of real numbers is formulated in Hilbert 1900a also as a structural definition. It is assumed that a system exists whose elements satisfy the conditions Hilbert calls *axioms*. Hilbert points out the parallelism with the method of geometry.
 
@@ -161,7 +161,7 @@ Von Neumann communicated the outcome of his reflections to Gödel in a letter of
 
 ## Notes（原文脚注，引自主文）
 
-[^note-35]: 35. These four conditions correspond to the conditions $(\alpha)$ through $(\delta)$ of $\#71$ in Dedekind 1888; they are easily seen to be equivalent to the so-called Peano axioms. The *chain* of the system $\{1\}$ (with respect to the mapping $\varphi$ of N) is the intersection of all systems that contain 1 as an element and are closed under $\varphi$.
+[^note-35]: 35. These four conditions correspond to the conditions $(\alpha)$ through $(\delta)$ of $\#71$ in Dedekind 1888; they are easily seen to be equivalent to the so-called Peano axioms. The *chain* of the system $\{1\}$ (with respect to the mapping $\varphi$ of **N**) is the intersection of all systems that contain 1 as an element and are closed under $\varphi$.
 
 [^note-36]: 36. In Torretti 1978 [1984: 234], for example, one finds the following observation:
 

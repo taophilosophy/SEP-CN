@@ -530,7 +530,7 @@ We thank Robyn Bluhm and Maya Goldenberg for their comments on the original vers
 
 [^rastogi-2014]: Rastogi, Sanjeev, 2014, “Ayurvedic Principles of Food and Nutrition: Translating Theory into Evidence-Based Practice,” in Sanjeev Rastogi (ed.), *Ayurvedic Science of Food and Nutrition*, New York: Springer, pp. 3–14.
 
-[^reiss-2016]: Reiss, Julian and Rachel A. Ankeny, “Philosophy of Medicine”, *The Stanford Encyclopedia of Philosophy*(Summer 2016 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL =<https://plato.stanford.edu/archives/win2025/entries/medicine/>.
+[^reiss-2016]: Reiss, Julian and Rachel A. Ankeny, “Philosophy of Medicine”, *The Stanford Encyclopedia of Philosophy* (Summer 2016 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL =<https://plato.stanford.edu/archives/win2025/entries/medicine/>.
 
 [^ritunnano-2022]: Ritunnano, Rosa, 2022, “Overcoming Hermeneutical Injustice in Mental Health: A Role for Critical Phenomenology,” *Journal of the British Society for Phenomenology*, 53(3): 243–260.
 

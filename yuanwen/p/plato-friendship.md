@@ -165,7 +165,7 @@ feminist philosophy, interventions: history of philosophy | friendship | love | 
 
 [^bett-1986]: Bett, Richard, 1986, “Immortality and the Nature of the Soul in the *Phaedrus*,” *Phronesis*, 31: 1–26.
 
-[^bryan-2021]: Bryan, Jenny, 2021, “The Role of Lysias*’*Speech in Plato’s *Phaedrus*,” *Cambridge Classical Journal*, 67: 1–24.
+[^bryan-2021]: Bryan, Jenny, 2021, “The Role of Lysias*’* Speech in Plato’s *Phaedrus*,” *Cambridge Classical Journal*, 67: 1–24.
 
 [^bury-1973]: Bury, R. G., 1973, *The Symposium of Plato*, 2nd edition, Warminster: Aris and Phillips.
 

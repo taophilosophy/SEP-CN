@@ -45,7 +45,7 @@ There are many instances of Socrates’s influence in arts and letters outside a
 - 1979, “[Socrates Superstar](https://eurovisionworld.com/eurovision/1979/greece),” performed by Elpida, Greek entry in the Eurovision Song Contest, Jerusalem
 - 1983, Mark Morris Dance Group, *The Death of Socrates*
 - 2010, Mark Morris Dance Group, *Socrates*
-- 2015, Michael Levy, “The Death of Socrates,”*The Ancient Greek Tortoise-Shell Lyre*, DVD
+- 2015, Michael Levy, “The Death of Socrates,” *The Ancient Greek Tortoise-Shell Lyre*, DVD
 - 2022, Taylor Mac and Matt Ray, *The Hang*, HERE Mainstage Prototype Festival, jazz opera
 
 ### The Visual Arts
@@ -67,10 +67,10 @@ There are many instances of Socrates’s influence in arts and letters outside a
 
 - 2006, Pamela Dell, *Socrates: Ancient Greek in Search of Truth*, Minneapolis: Compass Point
 - 2011, David M. Johnson, *Socrates and Athens*, Cambridge: Cambridge University Press
-- 2022, Devra Lehman, *Socrates: A Life Worth Living,*New York: Seven Stories
+- 2022, Devra Lehman, *Socrates: A Life Worth Living,* New York: Seven Stories
 
 ### Miscellany
 
 - 1963, Leo Rosten, “They Made Our World,” *LOOK*, June 18 issue
-- 1968, Cary Bates, “Superman, That Has-Been Hero” and “Exit Superman,” *World’s Finest Comics,*Nos. 178 & 180, DC Comics
-- 2008, Joe Kelly and Scott Kollins, “The Man Who Stole Superman’s Powers,” *Batman/Superman Annual*#2, DC Comics
+- 1968, Cary Bates, “Superman, That Has-Been Hero” and “Exit Superman,” *World’s Finest Comics,* Nos. 178 & 180, DC Comics
+- 2008, Joe Kelly and Scott Kollins, “The Man Who Stole Superman’s Powers,” *Batman/Superman Annual* #2, DC Comics

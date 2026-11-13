@@ -3,7 +3,8 @@
 
 *Hájek, Alan*
 
-> *Probability is the most important concept in modern science, especially as nobody has the slightest notion what it means.* —Bertrand Russell, 1929 Lecture (cited in Bell 1945, 587)[^bell-1945]
+> *Probability is the most important concept in modern science, especially as nobody has the slightest notion what it means.* —Bertrand Russell, 1929 Lecture
+> (cited in Bell 1945, 587)[^bell-1945]
 
 One regularly reads and hears probabilistic claims like the following:
 
@@ -529,7 +530,8 @@ I thank Branden Fitelson, Matthias Hild, Christopher Hitchcock, Leon Leontyev, R
 
 Let $I$ be the empty class; then for all $B, P(I, B) = 1$. But his A3 states:
 
-> If $B$ and $C$ are mutually exclusive, then $P(A, B \cup C) =$    $P(A, B) + P(A, C)$.
+> If $B$ and $C$ are mutually exclusive, then $P(A, B \cup C) =$
+>    $P(A, B) + P(A, C)$.
 
 Then for any $X, P(I, X \cup \overline{X}) = P(I, X) + P(I, \overline{X}) = 1 + 1 = 2$, which contradicts his normalization axiom A1. Carnap (1950, 341) notes a similar inconsistency in Jeffreys’ (1939) axiomatization. This problem is easily remedied — simply add the qualification in A2 that $A$ is non-empty — but it is instructive. It suggests that we ought not take the admissibility criterion too seriously. After all, Salmon’s subsequent discussion of the merits and demerits of the various interpretations, as judged by the ascertainability and applicability criteria, still stands, and that is where the real interest lies.
 

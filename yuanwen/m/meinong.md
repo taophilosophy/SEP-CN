@@ -197,7 +197,8 @@ and
 
 but he would also have admitted the theses:
 
-> ∃*F*∃*x*[*Fx* ∧ (~*F*)*x*] ∃*F*∃*x* ¬[*Fx* ∨ (~*F*)*x*]
+> ∃*F*∃*x*[*Fx* ∧ (~*F*)*x*]
+> ∃*F*∃*x* ¬[*Fx* ∨ (~*F*)*x*]
 
 More recent philosophical work shows that characterizing determinations can be constructed which go against any classical logical law. The object *the square such that it is not the case that it is square* is characterized as being square and also being such that it is not the case that it is square. These two determinations, however, lead to a contradiction involving external negation. (See Routley 1980; Simons 1992: 185; Thrush 2001b.)[^routley-1980][^simons-1992][^thrush-2001b]
 

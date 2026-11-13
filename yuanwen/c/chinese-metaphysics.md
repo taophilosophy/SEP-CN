@@ -160,11 +160,17 @@ While the last three positions all had prominent advocates in China, the final p
 
 The relationship between reality and illusion is one of the central debates within Chinese Buddhism (Kantor 2015)[^kantor-2015]. The most famous expression of this debate appears in the *Platform Sutra of the Sixth Patriarch*, a foundational text for Chan Buddhism. The star disciple (Shen Xiu) first composes this poem:
 
-> The body is the tree of insight; The mind is like a clear mirror. Always clean and polish it; Never allow dirt or dust!
+> The body is the tree of insight;
+> The mind is like a clear mirror.
+> Always clean and polish it;
+> Never allow dirt or dust!
 
 Hui Neng (638–713 CE), the central figure of the text, writes this poem in reply:
 
-> Insight originally has no tree; The bright mirror has no stand. Buddha-nature is always pure and clean; How could there ever be dirt or dust? (trans. from Ivanhoe 2009, 15–16)[^ivanhoe-2009]
+> Insight originally has no tree;
+> The bright mirror has no stand.
+> Buddha-nature is always pure and clean;
+> How could there ever be dirt or dust? (trans. from Ivanhoe 2009, 15–16)[^ivanhoe-2009]
 
 The contrast between the two poems marks the split between the gradual and sudden enlightenment schools of Chan.
 

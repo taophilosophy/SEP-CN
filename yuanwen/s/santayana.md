@@ -41,11 +41,18 @@ The rise of Mussolini in the 1930s initially seemed positive to Santayana. He vi
 
 Santayana asked that he be buried in unconsecrated ground, affirming his naturalism to the end. However, the only such cemetery ground in Rome was reserved for criminals. The Spanish Consulate at Rome would not permit Santayana to be buried in such a place and provided the “Panteon de la Obra Pia espanola” in the Campo Verano cemetery as a suitable burial ground, turning it into a memorial for the lifelong Spanish citizen. At the graveside, Daniel Cory read lines from Santayana’s “The Poet’s Testament,” a poem affirming his naturalistic outlook:
 
-> I give back to the earth what the earth gave, All to the furrow, nothing to the grave. The candle’s out, the spirit’s vigil spent; Sight may not follow where the vision went.
+> I give back to the earth what the earth gave,
+> All to the furrow, nothing to the grave.
+> The candle’s out, the spirit’s vigil spent;
+> Sight may not follow where the vision went.
 
 In the United States, Wallace Stevens commemorated his teacher in “To an Old Philosopher in Rome.”
 
-> Total grandeur of a total edifice, Chosen by an inquisitor of structures For himself. He stops upon this threshold, As if the design of all his words takes form And frame from thinking and is realized.
+> Total grandeur of a total edifice,
+> Chosen by an inquisitor of structures
+> For himself. He stops upon this threshold,
+> As if the design of all his words takes form
+> And frame from thinking and is realized.
 
 ## 2. Philosophy, Literature, and Culture
 

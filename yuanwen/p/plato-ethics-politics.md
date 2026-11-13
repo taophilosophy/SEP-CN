@@ -533,7 +533,7 @@ The author thanks Ryan Balot, Richard Kraut, Casey Perin, and Eric Wiland for th
 
 [^nettleship-1902]: Nettleship, R.L., [1902] 1961, *Lectures on the Republic of Plato*, New York: St. Martin’s Press .
 
-[^notomi-2013]: Notomi, N., and L. Brisson (eds.), 2013, *Dialogues on Plato’s*Politeia: Selected Papers from the Ninth Symposium Platonicum, Sankt Augustin: Academia Verlag.
+[^notomi-2013]: Notomi, N., and L. Brisson (eds.), 2013, *Dialogues on Plato’s* Politeia: Selected Papers from the Ninth Symposium Platonicum, Sankt Augustin: Academia Verlag.
 
 [^nussbaum-1980]: Nussbaum, M.C., 1980, “Shame, Separateness, and Political Unity: Aristotle’s Criticism of Plato,” in Rorty, A.O. (ed.), *Essays on Aristotle’s Ethics*, Berkeley and Los Angeles: University of California Press, pp. 395–435.
 

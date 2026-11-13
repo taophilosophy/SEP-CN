@@ -221,7 +221,7 @@ Since the 1990s, interest in Suhrawardi’s work and *ishraqi* philosophical sys
 
 al-Razi, Fakhr al-Din | Arabic and Islamic Philosophy, historical and methodological topics in: influence of Arabic and Islamic Philosophy on Judaic thought | Arabic and Islamic Philosophy, special topics in: mysticism | Ibn Kammūna | Ibn Sina [Avicenna] | Mulla Sadra
 
-### Acknowledgement
+### **Acknowledgement**
 
 The author would like to thank both Professor Saeed Anvari for his invaluable suggestions on the update published in [April 2012] (we regret having been unable to address his queries before he completed his Persian translation, cf. [Suhrawardi](https://qoqnoos.ir/%D8%B3%D9%87%D8%B1%D9%88%D8%B1%D8%AF%DB%8C-61), Tehran: Quqnus, 2016), and Professor Sajjad Rizvi for his equally invaluable suggestions that led to improvements in the update published in March 2019.
 
@@ -267,7 +267,7 @@ The author would like to thank both Professor Saeed Anvari for his invaluable su
 
 [^mir-1977]: –––, 1977, *Al-Qabasat*, ed. Mehdi Mohaghegh, Toshihiko Izutsu *et al.*, Tehran: University of Tehran / McGill University, Institute of Islamic Studies, Tehran Branch.
 
-[^mulla-2010]: Mulla Sadra (Sadr al-Din al-Shirazi), 2010, *Addenda on the commentary on the* Philosophy of Illumination: *Part One on the Rules of Thought*(*al-Taʻliqat ʻala Sharh Hikmat al-Ishraq*), critical ed., into. Hossein Ziai, Costa Mesa, CA: Mazda.
+[^mulla-2010]: Mulla Sadra (Sadr al-Din al-Shirazi), 2010, *Addenda on the commentary on the* Philosophy of Illumination: *Part One on the Rules of Thought* (*al-Taʻliqat ʻala Sharh Hikmat al-Ishraq*), critical ed., into. Hossein Ziai, Costa Mesa, CA: Mazda.
 
 [^nurbakhsh-2007]: Nurbakhsh, Sima, 2007, *Ayat-i Ishraq: Tafsir va Ta’wil-i Ayat-i Qur’an-i Karim dar Athar-i Suhrawardi*, Tehran: Mihr Niyusha.
 
@@ -285,7 +285,7 @@ The author would like to thank both Professor Saeed Anvari for his invaluable su
 
 [^suhrawardi-2014]: Suhrawardi, Shihab al-Din, 2014, *al-Mashari‘ wa al-Mutarahat, al-Tabi‘iyyat*, ed. and intro. Najafquli Habibi, Tehran: Kitabkhana-yi Majlis-i Shura-yi Islami [section on physics; metaphysics in Suhrawardi 1993a, 193–506].
 
-[^suhrawardi-2009]: –––, 2009, *al-Talwihat al-Lawhiyya wa al-‘Arshiyya*, ed. and intro. Najafquli Habibi, Tehran: Mu’assasa-yi Pazhuhishi Hikmat va Falsafa-yi Iran.
+[^suhrawardi-2009]: –––, 2009, *al-Talwihat al-Lawhiyya wa al-‘Arshiyya* , ed. and intro. Najafquli Habibi, Tehran: Mu’assasa-yi Pazhuhishi Hikmat va Falsafa-yi Iran.
 
 [^suhrawardi-2009b]: –––, 2009b, *Kitab al-Muqawamat*, ed. and study Yasin Husayn al-Wisi, Damascus: Dar al-Farqad lil-Tiba‘ah wal-Nashr wal-Tawzi‘.
 
@@ -425,7 +425,7 @@ The author would like to thank both Professor Saeed Anvari for his invaluable su
 
 [^muwahhid-1995]: Muwahhid, Samad D., 1995, *Sar Chishmaha-yi* Hikmat-i Ishraq: *Nigahi bih Manabi‘i Fikri Shaykh-i Ishraq*, Tehran: Fararavan.
 
-[^nasr-2010]: Nasr, S. Hossein and Mehdi Aminrazavi (eds.), 2010, “Fakhr al-Din Razi,” in S. Hossein Nasr and Mehdi Aminrazavi (ed.). *An Anthology of PHilosophy in Persia. Vol. 3, Philosophical Theology in the Middle Ages and Beyond from Mu‘tazili and Ash‘ari to Shi‘i Texts*, London: I.B. Tauris, 185–188.
+[^nasr-2010]: Nasr, S. Hossein and Mehdi Aminrazavi (eds.), 2010, “Fakhr al-Din Razi,” in S. Hossein Nasr and Mehdi Aminrazavi (ed.). *An Anthology of PHilosophy in Persia. Vol. 3, Philosophical Theology in the Middle Ages and Beyond from Mu‘tazili and Ash‘ari to Shi‘i Texts* , London: I.B. Tauris, 185–188.
 
 [^nasr-1964]: Nasr, S. Hossein, 1964, *Three Muslim Sages: Avicenna, Suhrawardi, Ibn ‘Arabi*, Cambridge, MA: Harvard University Press.
 

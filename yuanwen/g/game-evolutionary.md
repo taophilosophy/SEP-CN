@@ -415,11 +415,17 @@ A *strategy for the sender* (what Lewis called a “communicator’s contingency
 
 How many sender strategies are there? Because we allow for the possibility of the same signal to be sent for multiple states of the world, there are two choices for which signal to send given state $S_1$ and two choices for which signal to send given state $S_2$. This means there are four possible sender strategies. These strategies are as follows (where $\mathrm{`}X \rightarrow Y\text{'}$ means that when the state of the world is $X$ the sender will send signal $Y)$:
 
-> **Sender 1:** $S_1 \rightarrow \sigma_1, S_2 \rightarrow \sigma_1$. **Sender 2:** $S_1 \rightarrow \sigma_1, S_2 \rightarrow \sigma_2$. **Sender 3:** $S_1 \rightarrow \sigma_2, S_2 \rightarrow \sigma_1$. **Sender 4:** $S_1 \rightarrow \sigma_2, S_2 \rightarrow \sigma_2$.
+> **Sender 1:** $S_1 \rightarrow \sigma_1, S_2 \rightarrow \sigma_1$.
+> **Sender 2:** $S_1 \rightarrow \sigma_1, S_2 \rightarrow \sigma_2$.
+> **Sender 3:** $S_1 \rightarrow \sigma_2, S_2 \rightarrow \sigma_1$.
+> **Sender 4:** $S_1 \rightarrow \sigma_2, S_2 \rightarrow \sigma_2$.
 
 What is a strategy for a receiver? Here, it proves useful to deviate from Lewis’s original definition of the “audience’s contingency plan”. Instead, let us take a receiver’s strategy to be a function from the set of signals into the set of responses. As in the case of the sender, we allow the receiver to perform the same response for more than one signal. By symmetry, this means there are $\mathbf{4}$ possible receiver strategies. These receiver strategies are:
 
-> **Receiver 1:** $\sigma_1 \rightarrow r_1, \sigma_2 \rightarrow r_1$. **Receiver 2:** $\sigma_1 \rightarrow r_1, \sigma_2 \rightarrow r_2$. **Receiver 3:** $\sigma_1 \rightarrow r_2, \sigma_2 \rightarrow r_1$. **Receiver 4:** $\sigma_1 \rightarrow r_2, \sigma_2 \rightarrow r_2$.
+> **Receiver 1:** $\sigma_1 \rightarrow r_1, \sigma_2 \rightarrow r_1$.
+> **Receiver 2:** $\sigma_1 \rightarrow r_1, \sigma_2 \rightarrow r_2$.
+> **Receiver 3:** $\sigma_1 \rightarrow r_2, \sigma_2 \rightarrow r_1$.
+> **Receiver 4:** $\sigma_1 \rightarrow r_2, \sigma_2 \rightarrow r_2$.
 
 If the roles of Sender and Receiver are permanently assigned to individuals — as Lewis envisaged — then there are only two signaling systems: $\langle$Sender 2, Receiver 2$\rangle$ and $\langle$Sender 3, Receiver 3$\rangle$. All other possible combinations of strategies result in the players failing to coordinate. The coordination failure occurs because the Sender and Receiver only pair the appropriate action with the state of the world in one instance, as with $\langle$Sender 1, Receiver 1$\rangle$, or not at all, as with $\langle$Sender 2, Receiver 3$\rangle$.
 

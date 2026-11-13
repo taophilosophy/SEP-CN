@@ -98,7 +98,8 @@ The original KS proof operates on a three-dimensional complex Hilbert space H₃
 
 We consider an arbitrary operator *Q* on H₃ with three distinct eigenvalues *q*₁, *q*₂, *q*₃, its eigenvectors |*q*₁>, |*q*₂>, |*q*₃>, and projection operators *P*₁, *P*₂, *P*₃ projecting on the rays spanned by these vectors. Now, *P*₁, *P*₂, *P*₃ are themselves observables (namely, *P*ᵢ is a ‘yes-no observable’ corresponding to the question ‘Does the system have value *q*ᵢ for Q?’). Moreover, *P*₁, *P*₂, *P*₃ are mutually compatible, so we can apply the Sum Rule and Product Rule, and thereby derive a constraint on the assignment of values ([VC1 Proof](kochen-specker.proofvc1.md)):
 
-> (VC1)   *v*(*P*₁) + *v*(*P*₂) + *v*(*P*₃) = 1, where *v*(*P*_{*i*}) = 1 or 0, for *i* = 1, 2, 3.
+> (VC1)   *v*(*P*₁) + *v*(*P*₂) + *v*(*P*₃) = 1, where *v*(*P*_{*i*}) = 1 or 0,
+> for *i* = 1, 2, 3.
 
 The arbitrary choice of an observable *Q* defines new observables *P*₁, *P*₂, *P*₃ which, in turn, select rays in H₃. So, to impose that observables *P*₁, *P*₂, *P*₃ all have values means to assign numbers to rays in H₃, and VC1, in particular, means that of an arbitrary triple of orthogonal rays, specified by choice of an arbitrary *Q* (briefly: an orthogonal triple in H₃), exactly one of its rays is assigned 1, the others 0. Now, if we introduce different incompatible observables *Q*, *Q*′, *Q*″, … these observables select different orthogonal triples in H₃. Assumption (1) of the KS theorem (which, effectively, is VD) now tells us that every one of these triples has three values, and VC1 tells us that these values must be for every triple, exactly {1, 0, 0}. What KS now shows is that, *for a specific finite set of orthogonal triples in H₃, an assignment of numbers* {1, 0, 0} *to every one of them (matching in common rays) is impossible*. Further reflection yields that while H₃ is complex, it is in fact enough to consider a real three-dimensional Hilbert space R₃. For we can show that if an assignment of values according to VC1 is possible on H₃, then it is possible on R₃. Contrapositively, if the assignment is impossible on R₃, then it is impossible on H₃. So we can fulfill the conditions necessary to get the KS proof started and at the same time reduce the problem to one on R₃. Now, the equivalent in R₃ of an arbitrary orthogonal triple in H₃, is, again, an arbitrary triple of orthogonal rays (briefly: an orthogonal triple in R₃). So, if KS want to show that, for a specific set of *n* orthogonal triples in H₃ (where *n* is a natural number), an assignment of numbers {1, 0, 0} to every one of them is impossible, it is enough for them to show that, *for a specific set of n orthogonal triples in* R₃, *an assignment of numbers* {1, 0, 0} *to every one of them is impossible*. And this is exactly what they do.
 
@@ -106,7 +107,8 @@ It should be stressed that at this point there is no direct connection between R
 
 KS themselves, in the abstract, proceed in exactly the same way, but they illustrate with an example that *does* establish a direct connection with physical space. It is important to see this connection, but also to be clear that it is produced by KS’s example and is not inherent in their mathematical result. KS propose to consider a one-particle spin-1 system and the measurement of the squared components of orthogonal directions of spin in physical space *Sₓ*², *S_{y}*², *S_{z}*², which are compatible (while *Sₓ*, *S_{y}*, *S_{z}* themselves are not).[^note-7] Measurement of a squared component of spin determines only its absolute value. Here, they derive a slightly different constraint on value assignments, again using the Sum Rule and the Product Rule ([VC2 Proof](kochen-specker.proofvc2.md)):
 
-> (VC2)   *v*(*Sₓ*²) + *v*(*S_{y}*²) + *v*(*S_{z}*²) = 2, where *v*(*S*_{α}²) = 1 or 0, for α = *x*, *y*, *z*.
+> (VC2)   *v*(*Sₓ*²) + *v*(*S_{y}*²) + *v*(*S_{z}*²) = 2, where *v*(*S*_{α}²) = 1 or 0,
+> for α = *x*, *y*, *z*.
 
 Now, since *Sₓ*², *S_{y}*², *S_{z}*² are compatible, there is an observable O such that *Sₓ*², *S_{y}*², *S_{z}*² are all functions of O. So, the choice of an arbitrary such O fixes *Sₓ*², *S_{y}*², *S_{z}*² and, since the latter can be directly associated with mutually orthogonal rays in H₃, again fixes the choice of an orthogonal triple in H₃. The resulting problem here is to assign numbers {1, 1, 0} to an orthogonal triple in H₃ specified by the choice of O or, more directly, of *Sₓ*², *S_{y}*², *S_{z}*². This is, of course, the mirror-image of our previous problem of assigning numbers {1, 0, 0} to such a triple, and we need not consider it separately.
 
@@ -126,13 +128,16 @@ KS proceed in two steps.
 
 (1) In the first (and decisive) step they show *that two rays with opposite colours cannot be arbitrarily close*. They first show that the diagram Γ₁ depicted in Fig. 1 (where for the time being we ignore the colours specified in the figure) can be constructed, only if a₀ and a₉ are separated by an angle θ with 0 ≤ θ ≤ sin^{−1}(1/3) ([Step 1 Proof](kochen-specker.step1.md)).
 
-> ![fig1](../assets/kochen-specker/fig1.gif) Figure 1: Ten-point KS graph Γ₁ with inconsistent colouring.
+> ![fig1](../assets/kochen-specker/fig1.gif)
+> Figure 1: Ten-point KS graph Γ₁ with inconsistent colouring.
 
 Consider now (for a *reductio ad absurdum*) that a₀ and a₉ have different colours. We arbitrarily colour a₀ white and a₉ black. The colouring constraints then force us to colour the rest of the diagram as is done in Fig. 1, but this requires that a₅ and a₆ are orthogonal and both white — which is forbidden. Hence, two points closer than sin^{−1}(1/3) cannot have different colours. Contrapositively, two points of different colour cannot be closer than sin^{−1}(1/3).
 
 (2) KS now construct another quite complicated KS diagram Γ₂ in the following way. They consider a realization of Γ₁ for an angle θ=18° < sin^{−1}(1/3). Now they choose three orthogonal points *p*₀, *q*₀, *r*₀ and space interlocking copies of Γ₁ between them such that every instance of point a₉ of one copy of Γ₁ is identified with the instance of a₀ of the next copy. In this way five interlocking copies of Γ₁ are spaced between *p*₀ and *q*₀ and all five instances of a₈ are identified with *r*₀ (likewise five such interlocking copies are spaced between *q*₀ and *r*₀, identifying all copies of a₈ with *p*₀, and between *p*₀ and *r*₀, identifying all copies of a₈ with *q*₀). That Γ₂ is constructible is borne out directly by the construction itself. Spacing out five copies of Γ₁ with angles θ=18° between instances of a₀ will space out an angle of 5x18° = 90° which is exactly what is required. Moreover, wandering from one copy of Γ₁ to the next between, say, *p*₀ and *q*₀ is equivalent to a rotation by 18° of the copy about the axis through the origin and *r*₀, which evidently conserves the orthogonality between the points a₀ and a₉ of the copy and *r*₀.
 
-> ![fig2](../assets/kochen-specker/fig2.gif) Figure 2: 117-point KS graph Γ₂ (*From* Kochen and Specker 1967, 69; *by permission of the Indiana University Mathematics Journal*)[^kochen-1967]
+> ![fig2](../assets/kochen-specker/fig2.gif)
+> Figure 2: 117-point KS graph Γ₂
+> (*From* Kochen and Specker 1967, 69; *by permission of the Indiana University Mathematics Journal*)[^kochen-1967]
 
 However, although Γ₂ is constructible it is *not* consistently colourable. From the first step we know that a copy of Γ₁ with θ=18° requires that points a₀ and a₉ have equal colour. Now, since a₉ in one copy of Γ₁ is identical to a₀ in the next copy, a₉ in the second copy must have the same colour as a₀ in the first. Indeed, by repetition of this argument all instances of a₀ must have the same colour. Now, *p*₀, *q*₀, *r*₀ are identified with points a₀, so they must be either all white or all black — both of which are inconsistent with the colouring constraint that exactly one of them be white.
 
@@ -144,7 +149,8 @@ Note that in the construction of Γ₁, i.e. the set of 10 points forming 22 int
 
 Recall KS’s first step, which establishes that two points with opposite colour cannot be arbitrarily close. It is this first step which carries the whole force of the argument. Bell had established it in a different way and had then argued that in a noncontextual HV interpretation points with opposite colour must be arbitrarily close. It is this first step that Clifton exploits in an argument that combines Bell’s and KS’s ideas.
 
-> ![fig3](../assets/kochen-specker/fig3.gif) Figure 3: 8-point KS-Clifton graph Γ₃ with inconsistent colouring.
+> ![fig3](../assets/kochen-specker/fig3.gif)
+> Figure 3: 8-point KS-Clifton graph Γ₃ with inconsistent colouring.
 
 Consider the KS diagram Γ₃ shown in Figure 3 which obviously is a part of KS’s Γ₁, but which has additional concrete assignments of eight points satisfying the orthogonality relations (and thus proving directly that Γ₃ is constructible). From our previous colouring constraints (joined points are not both white and a triangle has exactly one white point) we see immediately that Γ₃ is colourable only if the outermost points are not both white (which would require, as shown in Fig. 3, that two joined points are white — contrary to the constraints). Moreover, we easily calculate the angle between the two outermost points to be cos^{−1}(1/3).[^note-8] So we conclude that if one wants to colour all eight points and wants to colour white one of the outer ones, then the other must be black. Taking into account that we can insert a diagram between any two points in R₃ which are separated by exactly the angle cos^{−1}(1/3) and translating our problem back from a colouring problem into KS’s example (constraint VC2), we end with a constraint VC2′:
 
@@ -317,7 +323,8 @@ quantum mechanics: modal interpretations of | quantum theory: philosophical issu
 
 [^note-10]: A state of a spin-1 particle where prob(*v*(*S*_{*x*}²)=0)=1 is |*S*_{*x*}=0>. Expanding this state in the eigenvectors of *S*_{*x*′} yields
 
-> |*S*_{*x*}=0> = cos φ (1 + sin² φ) ^{−½} |*S*_{*x*′} = 0> + sin φ (1 + sin² φ) ^{−½} (|*S*_{*x*′} = −1> − |*S*_{*x*′} = +1>)
+> |*S*_{*x*}=0> =
+> cos φ (1 + sin² φ) ^{−½} |*S*_{*x*′} = 0> + sin φ (1 + sin² φ) ^{−½} (|*S*_{*x*′} = −1> − |*S*_{*x*′} = +1>)
 
 Now, with cos φ=1/3, we get:
 

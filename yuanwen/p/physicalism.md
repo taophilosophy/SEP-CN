@@ -91,7 +91,7 @@ How to respond to the sufficiency problem? Some respond by denying the coherence
 
 ### 2.2 Identity Physicalism
 
-Suppose then that (1) provides a necessary condition for physicalism but not a sufficient condition; how might we strengthen it to make it more plausible? The most obvious thing to do is to appeal to identity. Indeed, in the history of attempts to answer the completeness question, the appeal to identity predates the appeal to supervenience. Nevertheless, this version of physicalism—*identity physicalism* as we may call it—runs into serious problems.
+Suppose then that (1) provides a necessary condition for physicalism but not a sufficient condition; how might we strengthen it to make it more plausible? The most obvious thing to do is to appeal to identity. Indeed, in the history of attempts to answer the completeness question, the appeal to identity predates the appeal to supervenience. Nevertheless, this version of physicalism— *identity physicalism* as we may call it—runs into serious problems.
 
 #### 2.2.1 Token Physicalism
 

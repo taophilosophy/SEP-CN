@@ -148,7 +148,7 @@ One approach to the problem of delineating the contour of the Tarski Boundary is
 
 One can show that CT₀ has enough capacities to eliminate all the pathologies of type (1)-(4) (and much more; for (1)-(3) this is rather straightforward, for (4) requires a more involved argument). Another, more direct way to do this is to adopt an axiom stating that the extension of the truth predicate is closed under reasoning in the first-order logic. More precisely: every sentence that can be derived from true (in the sense of the truth predicate) premises, is true, formally $\forall \phi(Prov_{T}(\phi)\rightarrow T(\phi))$(GRP(T)). As oberved in Cieśliński (2010b), this principle is on the non-conservative side of the Tarski Boundary and indeed, it proves that all induction axioms are true, hence delivering GRP(PA). Actually, the same holds for its natural weakening expressing that all tautologies of the first-order logic are true, formally $\forall \phi(Prov_{\emptyset}(\phi)\rightarrow T(\phi))$ (Cieśliński 2010b)[^cieśliński-2010b]. In order to eliminate pathologies of more propositional nature, such as the ones of type (1) and (3), it is enough to assume that the set of true sentences (in the sense of the truth predicate) is closed under the deductions in propositional logic (let us call it the Propositional Reflection Principle for T, PRP(T)). This principle was shown to be equivalent to CT₀ in Cieśliński (2010a). Consequently, over CT⁻(PA), various natural and seemingly weak reflection principles (GRP(T), GRP($\emptyset$), PRP(T)) are equivalent to GRP(PA) and to CT₀. The set of arithmetical consequences of this theory can be axiomatized by the union of all finite iterations of the uniform reflection over PA (RFN^{$<\omega$}(PA)) or, equivalently, transfinite induction up to the ordinal $\varepsilon_{\omega}$ (for the theory CT⁻(PA) + GRP(PA) this is essentially due to Kotlarski (1986) and Smoryński (1977), see also Łelyk (2023) and Beklemishev and Pakhomov (2022) for different arguments).
 
-The list of various equivalent axiomatizations of CT_{0 }can be further extended with two more innocent-looking principles. The first one considers the truth conditions for disjunctions with arbitrary finite number of disjuncts. More precisely, the principle, called *disjunctive correctness*(DC), expresses that for every *n* and for every collection of formulas $\{\phi_1,\ldots, \phi_n\},$the disjunction $\bigvee_{i\leq n} \phi_i$ is true if and only if there is $i\leq n$ such that $\phi_i$ is true. In Enayat and Pakhomov (2019) it was shown that, over CT⁻(PA), DC is already enough to prove $\Delta_0(\mathcal{L}_T)$-induction. Since DC is also a straightforward consequence of PRP(T), it follows that, over CT⁻(PA), DC is actually equivalent to GRP(PA). This result was fine-tuned in Cieśliński, Łełyk and Wcisło (2024): it was shown that already “one half” of DC, “if $\bigvee_{i\leq n} \phi_i$ is true, then there is $i\leq n$ such that $\phi_i$ is true” (DC-out), entails CT₀, while its converse, “if there is $i\leq n$ such that $\phi_i$ is true, then the disjunction $\bigvee_{i\leq n} \phi_i$ is true” lies on the conservative side of Tarski Boundary. This gives a very precise limitation on what kind of pathologies are always admitted by extensions of CT⁻(PA) from the conservative side of the Tarski Boundary: each such theory will have a model in which DC-out fails, so in that model there must be a true disjunction whose all disjuncts are actually false. This result was used by Fujimoto (2022) to formulate a stronger version of the conservativeness argument against the deflationism (see also Horsten, Luo and Roberts (2024) for its critique).
+The list of various equivalent axiomatizations of CT_{0 }can be further extended with two more innocent-looking principles. The first one considers the truth conditions for disjunctions with arbitrary finite number of disjuncts. More precisely, the principle, called *disjunctive correctness* (DC), expresses that for every *n* and for every collection of formulas $\{\phi_1,\ldots, \phi_n\},$the disjunction $\bigvee_{i\leq n} \phi_i$ is true if and only if there is $i\leq n$ such that $\phi_i$ is true. In Enayat and Pakhomov (2019) it was shown that, over CT⁻(PA), DC is already enough to prove $\Delta_0(\mathcal{L}_T)$-induction. Since DC is also a straightforward consequence of PRP(T), it follows that, over CT⁻(PA), DC is actually equivalent to GRP(PA). This result was fine-tuned in Cieśliński, Łełyk and Wcisło (2024): it was shown that already “one half” of DC, “if $\bigvee_{i\leq n} \phi_i$ is true, then there is $i\leq n$ such that $\phi_i$ is true” (DC-out), entails CT₀, while its converse, “if there is $i\leq n$ such that $\phi_i$ is true, then the disjunction $\bigvee_{i\leq n} \phi_i$ is true” lies on the conservative side of Tarski Boundary. This gives a very precise limitation on what kind of pathologies are always admitted by extensions of CT⁻(PA) from the conservative side of the Tarski Boundary: each such theory will have a model in which DC-out fails, so in that model there must be a true disjunction whose all disjuncts are actually false. This result was used by Fujimoto (2022) to formulate a stronger version of the conservativeness argument against the deflationism (see also Horsten, Luo and Roberts (2024) for its critique).
 
 The second principle is connected to a common weakening of PRP(T) and GRP($\emptyset$), namely the principle stating that all substitutional instances of propositional tautologies are true (PRP($\emptyset)$). While the strength of CT⁻(PA) + PRP($\emptyset$) is still unknown (despite the fact that this problem was posed already in Cieśliński 2010a)[^cieśliński-2010a], a slight extension of this theory is in fact equivalent to CT₀. Before we state it, recall that there is an arithmetically definable truth predicate for quantifier-free sentences, Tr₀(*x*). It was shown in Wcisło (2024) that if CT⁻(PA) + PRP($\emptyset$) is supplied with a principle expressing that each quantifier-free sentence, which is true in the sense of $Tr_{qf}$ is true, formally $\forall \phi(Tr_{qf}(\phi)\rightarrow T(\phi)),$the resulting theory is equivalent to CT₀. The result gives us a one more limitation on which pathologies can be excluded by a conservative extension of CT⁻(PA): each such theory will admit a model with either a true contradictory (that is: refutable in pure propositional logic) sentence or a true quantifier-free sentence which is deemed false by $Tr_{qf}$.
 
@@ -334,9 +334,9 @@ compositionality | Davidson, Donald | Gödel, Kurt | Gödel, Kurt: incompletenes
 
 [^enayat-2015]: Enayat, Ali and Albert Visser, 2015, “New constructions of satisfaction classes”, in *Unifying the Philosophy of Truth*, T. Achourioti, H. Galinon, K. Fujimoto, and J. Martínez-Fernández (eds.), Dordrecht: Springer, 321–335.
 
-[^enayat-2020]: Enayat, Ali, Mateusz Łełyk and Bartosz Wcisło, 2020, “Truth and feasible reducibility”, *Journal of Symbolic Logic,*85: 367–421.
+[^enayat-2020]: Enayat, Ali, Mateusz Łełyk and Bartosz Wcisło, 2020, “Truth and feasible reducibility”, *Journal of Symbolic Logic,* 85: 367–421.
 
-[^enayat-nd]: Enayat, Ali and Fedor Pakhomov, “Truth, disjunction and induction”, *Archive for Mathematical Logic,*58: 753–766.
+[^enayat-nd]: Enayat, Ali and Fedor Pakhomov, “Truth, disjunction and induction”, *Archive for Mathematical Logic,* 58: 753–766.
 
 [^feferman-1962]: Feferman, Solomon, 1962, “Transfinite recursive progressions of axiomatic theories”, *Journal of Symbolic Logic*, 27: 259–316.
 
@@ -352,9 +352,9 @@ compositionality | Davidson, Donald | Gödel, Kurt | Gödel, Kurt: incompletenes
 
 [^field-2008]: –––, 2008, *Saving Truth from Paradox*, Oxford: Oxford University Press.
 
-[^fischer-2014]: Fischer, Martin, 2014, “Truth and speed-up”, *Review of Symbolic Logic,*7: 319–340.
+[^fischer-2014]: Fischer, Martin, 2014, “Truth and speed-up”, *Review of Symbolic Logic,* 7: 319–340.
 
-[^fischer-2015]: Fischer, Martin and Horsten, Leon, 2015, “The expressive power of truth”, *Review of Symbolic Logic,*8: 345–369.
+[^fischer-2015]: Fischer, Martin and Horsten, Leon, 2015, “The expressive power of truth”, *Review of Symbolic Logic,* 8: 345–369.
 
 [^franzén-2004]: Franzén, Torkel, 2004, *Inexhaustibility: a non-exhaustive treatment*, Association for Symbolic Logic.
 
@@ -364,7 +364,7 @@ compositionality | Davidson, Donald | Gödel, Kurt | Gödel, Kurt: incompletenes
 
 [^fujimoto-2012]: Fujimoto, Kentaro 2012, “Classes and truths in set theory”, *Annals of Pure and Applied Logic*, 163: 1484–1523.
 
-[^fujimoto-2022]: –––, 2022, “The function of truth and the conservativeness argument”, *Mind,*131: 129–157.
+[^fujimoto-2022]: –––, 2022, “The function of truth and the conservativeness argument”, *Mind,* 131: 129–157.
 
 [^glanzberg-2015]: Glanzberg, Michael, 2015, “Complexity and hierarchy in truth predicates”, in *Unifying the Philosophy of Truth*, T. Achourioti, H. Galinon, K. Fujimoto, and J. Martínez-Fernández (eds.), Dordrecht: Springer, 211–243.
 
@@ -426,7 +426,7 @@ compositionality | Davidson, Donald | Gödel, Kurt | Gödel, Kurt: incompletenes
 
 [^leitgeb-2001]: Leitgeb, Hannes, 2001, “Theories of truth which have no standard models”, *Studia Logica*, 68: 69–87.
 
-[^mateusz-2023]: Łełyk, Mateusz, 2023, “Model theory and proof theory of the Global Reflection Principle”, *Journal of Symbolic Logic,*88: 738–779.
+[^mateusz-2023]: Łełyk, Mateusz, 2023, “Model theory and proof theory of the Global Reflection Principle”, *Journal of Symbolic Logic,* 88: 738–779.
 
 [^mateusz-2025]: Łełyk, Mateusz and Wcisło, Bartosz, 2025, “Universal properties of truth”, *Journal of Mathematical Logic*, (published online), 2450031. doi:10.1142/s0219061324500314
 

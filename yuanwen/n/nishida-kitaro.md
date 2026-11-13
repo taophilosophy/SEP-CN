@@ -17,11 +17,18 @@ Because of his prestige as Japan’s premier philosopher, government officials�
 
 Nishida’s private life, reflected only faintly in his philosophical work, nevertheless left its stamp on its tenor. His perseverance through turmoil explains perhaps some of the intensity of his writing. Comprehending reality for him was an emotive as well as intellectual achievement; his calligraphy and poetry, renowned in their own right, evince an acute awareness of transience and transcendence. Nishida experienced the death of his first wife and four of his eight children. Upon the passing of his first son he wrote this *waka* poem:
 
-> Having lived healthily till twenty-three how could he disappear like a dream (quoted in Yusa 2002: 314–18)[^yusa-2002].
+> Having lived
+> healthily
+> till twenty-three
+> how could he disappear
+> like a dream
+> (quoted in Yusa 2002: 314–18)[^yusa-2002].
 
 Three years later he was able to write
 
-> The bottom of my soul has such depth; Neither joy nor the waves of sorrow can reach it (Nishida 1958, frontispiece, trans. by Robert Schinzinger).
+> The bottom of my soul has such depth;
+> Neither joy nor the waves of sorrow can reach it
+> (Nishida 1958, frontispiece, trans. by Robert Schinzinger).
 
 ## 2. Theory of Experience and Consciousness
 

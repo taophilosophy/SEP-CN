@@ -411,7 +411,7 @@ The theme here is of a “proper turning to God with a purified spirit.”
 
 [^comparato-1981-2]: Comparato, Vittor Ivo (ed.), 1981, *“La République” di J. Bodin*, Atti del Convegno di Perugia, 14–15 nov. 1980, in *Il* *pensiero politico*, 14.
 
-[^conti-2007]: Conti Odorisio, Ginevra, 2007, *La famille et l’État dans* La République*de Jean Bodin*, Paris: l’Harmattan.
+[^conti-2007]: Conti Odorisio, Ginevra, 2007, *La famille et l’État dans* La République *de Jean Bodin*, Paris: l’Harmattan.
 
 [^cornu-1907]: Cornu, Pierre, 1907, “Jean Bodin de Monguichet”, *Revue de l’Anjou*, 56 (Janvier-Février): 109-111.
 

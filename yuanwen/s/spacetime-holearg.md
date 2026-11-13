@@ -225,7 +225,7 @@ Belot (2018) argues against a single decision univocally in favor or contrary to
 
 ## 10. Broader Significance of the Hole Argument
 
-The hole argument has had a broader significance in the philosophy of science, pertaining *inter alia*to realism about theoretical entities, to theories of quantum gravity, and to the issue of gauge freedoms in our physical theories. We discuss all three of these relations in this section; there is also a supplementary document which expands upon the third.
+The hole argument has had a broader significance in the philosophy of science, pertaining *inter alia* to realism about theoretical entities, to theories of quantum gravity, and to the issue of gauge freedoms in our physical theories. We discuss all three of these relations in this section; there is also a supplementary document which expands upon the third.
 
 ### 10.1 A Limit to Scientific Realism
 
@@ -350,7 +350,7 @@ As before, any attempt to suggest that the differences between the two sets repr
 
 [^brighouse-1994]: Brighouse, Carolyn, 1994, “Spacetime and Holes,” in D. Hull, M. Forbes and R. M. Burian (eds.), *PSA 1994*, Volume 1, pp. 117–125.
 
-[^brighouse-2020]: –––, 2020, “Confessions of a (Cheap) Sophisticated Substantivalist”, *Foundations of Physics*, 50: 348–359.
+[^brighouse-2020]: –––, 2020, “Confessions of a (Cheap) Sophisticated Substantivalist”, *Foundations of Physics* , 50: 348–359.
 
 [^butterfield-1988]: Butterfield, Jeremy, 1988, “Albert Einstein meets David Lewis,” in A. Fine and J. Leplin (eds.), *PSA 1988*, Volume 2, pp. 56–64.
 
@@ -378,7 +378,7 @@ As before, any attempt to suggest that the differences between the two sets repr
 
 [^einstein-1916]: Einstein, Albert, 1916, “The Foundation of the General Theory of Relativity,” in H.A. Lorentz et al., *The Principle of Relativity*, New York: Dover, 1952, pp. 111–164.
 
-[^friedman-1983]: Friedman, Michael, 1983. *Foundations of Space-Time Theories: Relativistic Physics and Philosophy of Science,*Princeton, NJ: Princeton University Press.
+[^friedman-1983]: Friedman, Michael, 1983. *Foundations of Space-Time Theories: Relativistic Physics and Philosophy of Science,* Princeton, NJ: Princeton University Press.
 
 [^giovanelli-2013]: Giovanelli, Marco, 2013 “Erich Kretschmann as a Proto-Logical-Empiricist: Adventures and Misadventures of the Point-Coincidence Argument,” *Studies in History and Philosophy of Modern Physics*, 44: 115–134.
 
@@ -454,7 +454,7 @@ As before, any attempt to suggest that the differences between the two sets repr
 
 [^pooley-2006a]: –––, 2006a, “A Hole Revolution, or are We Back Where We Started?”, *Studies in History and Philosophy of Modern Physics*, 37(2): 372–380.
 
-[^pooley-2006b]: –––, 2006b, “Points, Particles, and Structural Realism,” in D. Rickles *et al.*(eds), *The Structural Foundations of Quantum Gravity*, Oxford: Oxford University Press, pp. 83–120.
+[^pooley-2006b]: –––, 2006b, “Points, Particles, and Structural Realism,” in D. Rickles *et al.* (eds), *The Structural Foundations of Quantum Gravity*, Oxford: Oxford University Press, pp. 83–120.
 
 [^pooley-2013]: –––, 2013, “Substantivalist and Relationalist Approaches to Spacetime,” in R. W. Batterman (ed.), *The Oxford Handbook of Philosophy of Physics*, Oxford: Oxford University Press, pp. 522–586.
 
@@ -464,7 +464,7 @@ As before, any attempt to suggest that the differences between the two sets repr
 
 [^pooley-2021-2]: Pooley, Oliver and Read, James, 2021, “On the Mathematics and Metaphysics of the Hole Argument”, *British Journal for the Philosophy of Science*.
 
-[^read-2023]: Read, James, 2023, *Background Independence in Classical and Quantum Gravity,*Oxford: Oxford University Press.
+[^read-2023]: Read, James, 2023, *Background Independence in Classical and Quantum Gravity,* Oxford: Oxford University Press.
 
 [^renn-2007]: Renn, Juergen, *et al*. (eds.), 2007, *The Genesis of General Relativity: Sources and Interpretations*, (Boston Studies in the Philosophy of Science, Volume 250), 4 Volumes, Berlin: Springer.
 

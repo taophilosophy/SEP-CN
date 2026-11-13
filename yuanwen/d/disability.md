@@ -246,7 +246,7 @@ Whether and to what extent the practical aims these various models of disability
 
 ## Other Internet Resources
 
-- [ADA] [[*Americans with Disabilities Act of 1990, As Amended*](https://www.ada.gov/pubs/ada.htm)
+- [ADA] [[*Americans with Disabilities Act of 1990, As Amended* ](https://www.ada.gov/pubs/ada.htm)
 - [*American Philosophical Association Studies* (formerly Newsletters)](https://www.apaonline.org/page/APAStudies), These includes (among others) studies/newsletters on: Philosophy and the Black Experience; Feminism and Philosophy; Philosophy and Lesbian, Gay, Bisexual, and Transgender Issues; Hispanic/Latino Issues in Philosophy.
 - [*Disability Discrimination Act 1995*](https://www.legislation.gov.uk/ukpga/1995/50/contents), United Kingdom
 - [International Classification of Functioning, Disability and Health](https://www.who.int/classifications/international-classification-of-functioning-disability-and-health), World Health Organization web page.

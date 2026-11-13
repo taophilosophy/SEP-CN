@@ -366,7 +366,7 @@ For excellent comments, thanks are due to Jennifer Hawkins, as well as Dan Brock
 
 [^kant-1996]: Kant, Immanuel, 1996. Groundwork of the Metaphysics of Morals. In *Practical Philosophy*, M. J. Gregor (ed.), Cambridge: Cambridge University Press.
 
-[^kass-1996]: Kass, Nancy E. et al., 1996. Trust, the fragile foundation of contemporary biomedical research.*Hastings Center report*, 26 (5): 25–29.
+[^kass-1996]: Kass, Nancy E. et al., 1996. Trust, the fragile foundation of contemporary biomedical research. *Hastings Center report*, 26 (5): 25–29.
 
 [^keren-2022]: Keren, Arnon and Ori Lev, 2022. Informed Consent, Error and Suspending Ignorance: Providing Knowledge or Preventing Error? *Ethical Theory and Moral Practice*, 25 (2): 351–368.
 

@@ -71,7 +71,9 @@ The passage continues. Real sages:
 
 Since the whole point of the *Zhuangzi* passage is to oppose “guiding and pulling” and other longevity techniques to true sagehood, it does not dwell on their details. We can get a better idea of what he might have been talking about from other sources. Some of these ideas are elaborated in a chapter of the *Guanzi* titled “Inner Cultivation” (*Nei ye*), which describes the cultivation of qi, as well as vital essence (*jing*), and spirit (*shen*). It describes Dao as literally pervading the body or the person of a sage:
 
-> So long as the wellspring is not exhausted, The passages of the nine apertures will remain clear. Thus it is possible to explore the limits of Heaven and Earth, and cover the four seas. (*Guanzi* 16.3a8–3b1; trans. Rickett 1998, 48)[^rickett-1998].
+> So long as the wellspring is not exhausted,
+> The passages of the nine apertures will remain clear.
+> Thus it is possible to explore the limits of Heaven and Earth, and cover the four seas. (*Guanzi* 16.3a8–3b1; trans. Rickett 1998, 48)[^rickett-1998].
 
 The *Zhuangzi* and other texts refer to the figure of the spirit person or *shen ren* 神人 as someone who has effectively transformed the physical body and the *qi* that constitutes it. The *Zhuangzi* describes spirit person of Guye, who concentrates his spirit (*shen*), avoids the five grains, rides the clouds, and, through the concentration of his *shen* protects others against sicknesses and epidemics and makes the harvest ripen (*Zhuangzi* 1, 28; cf. Graham, 1986a, 46). This passage suggests that a sage can have a nurturing effect on the world by acting at a distance, possibly as an unintended by-product of self-cultivation practices.
 
@@ -232,7 +234,7 @@ Chinese Philosophy: science | Daoism
 
 [^keegan-1988]: Keegan, D. J., 1988, “The Huang-ti Nei-ching: The Structure of the Compilation; The Significance of the Structure,” Doctoral dissertation, University of California, Berkeley.
 
-[^knoblock-2000]: Knoblock, J. and J. Riegel, 2000, *The Annals of Lü Buwei: A Complete Translation and Study*, Palo Alto: Stanford University Press.
+[^knoblock-2000]: Knoblock, J. and J. Riegel, 2000, *The Annals of Lü Buwei: A Complete Translation and Study* , Palo Alto: Stanford University Press.
 
 [^lai-1998]: Lai Chi-Tim, 1998, “Ko Hung’s Discourse of Hsien-Immortality: A Taoist Configuration of an Alternate Ideal Self-Identity,” *Numen*, 45 (2): 183–220.
 

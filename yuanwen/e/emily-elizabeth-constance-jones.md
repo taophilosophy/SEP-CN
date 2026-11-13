@@ -35,7 +35,8 @@ The distinction between the intension (or connotation) and extension (or denotat
 
 Jones’s “New Law of Thought”—the law of significant assertion—incorporates the distinction as follows.
 
-> *The Law of Significant Assertion:* Any Subject of Predication is an identity of denotation in diversity of intension. (Jones 1910–11, 169; 1911b, 2)
+> *The Law of Significant Assertion:*
+> Any Subject of Predication is an identity of denotation in diversity of intension. (Jones 1910–11, 169; 1911b, 2)
 
 The general idea is quite straightforward and will have a familiar ring to anyone acquainted with Frege’s sense-reference distinction (or Russell’s pre-“On Denoting” distinction between meaning and denotation), even if the formulation is slightly clumsy: when we predicate a property of an individual or collection *x*, we first identify *x* via an intension *f* and then assert its identity with an individual or collection *y*, where *y* is itself identified via a distinct intension, *g*. We thus combine “identity of denotation” or “denotational oneness” with “diversity of intension”. As she puts it as early as 1893, “the very essence of Categorical statements… is the reference (in affirmatives) of two terms to one object, in such a way as to indicate that the object (or group) pointed out by the one term has also the characteristics signified by the other…” (1893a, 219). Or, as Stout writes in his Preface to Jones (1911b), “every affirmative proposition asserts, and every negative proposition denies, the union of different attributes within the unity of the same thing” (Stout 1911, v)[^stout-1911].
 

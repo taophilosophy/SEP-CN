@@ -191,7 +191,8 @@ Frege used the a Greek epsilon with a smooth breathing mark above it as part of 
 
 where the first occurrence of the Greek $\varepsilon$ (with the smooth breathing mark above it) is a ‘variable-binding operator’ which we might read as ‘the course-of-values of’. To avoid the appearance of variable clash, we may also use a Greek $\alpha$ (also with a smooth breathing mark above) as a variable-binding operator. Using this notation, Frege formally represented Basic Law V in his system as:
 
-> **Basic Law V** $ \stackrel{,}{\varepsilon}\!\!f(\varepsilon) = \, \stackrel{,}{\alpha}\!g(\alpha) \equiv \forall x(f(x) = g(x)) $
+> **Basic Law V**
+> $ \stackrel{,}{\varepsilon}\!\!f(\varepsilon) = \, \stackrel{,}{\alpha}\!g(\alpha) \equiv \forall x(f(x) = g(x)) $
 
 (Actually, Frege used an identity sign instead of the biconditional as the main connective of this principle, for reasons described above.)
 
@@ -385,7 +386,10 @@ Frege’s seminal paper in the philosophy of language is ‘Über Sinn und Bedeu
 
 Here are some examples of identity statements:
 
-> $117+136 = 253$. The morning star is identical to the evening star. Mark Twain is Samuel Clemens. Bill is Debbie’s father.
+> $117+136 = 253$.
+> The morning star is identical to the evening star.
+> Mark Twain is Samuel Clemens.
+> Bill is Debbie’s father.
 
 Frege believed that these statements all have the form ‘$a=b$’, where ‘$a$’ and ‘$b$’ are either names or descriptions that *denote* individuals. He naturally assumed that a sentence of the form ‘$a=b$’ is true if and only if the object $a$ just is (identical to) the object $b$. For example, the sentence ‘$117+136 = 253$’ is true if and only if the number $117+136$ just is the number $253$. And the statement ‘Mark Twain is Samuel Clemens’ is true if and only if the person Mark Twain just is the person Samuel Clemens.
 
@@ -397,7 +401,11 @@ So the puzzle Frege discovered is: how do we account for the difference in cogni
 
 Frege is generally credited with identifying the following puzzle about propositional attitude reports, even though he didn’t quite describe the puzzle in the terms used below. A propositional attitude is a psychological relation between a person and a proposition. Belief, desire, intention, discovery, knowledge, etc., are all psychological relationships between persons, on the one hand, and propositions, on the other. When we report the propositional attitudes of others, these reports all have a similar logical form:
 
-> $x$ believes that $p$ $x$ desires that $p$ $x$ intends that $p$ $x$ discovered that $p$ $x$ knows that $p$
+> $x$ believes that $p$
+> $x$ desires that $p$
+> $x$ intends that $p$
+> $x$ discovered that $p$
+> $x$ knows that $p$
 
 If we replace the variable ‘$x$’ by the name of a person and replace the variable ‘$p$’ with a sentence that describes the propositional object of their attitude, we get specific attitude reports. So by replacing ‘$x$’ by ‘John’ and ‘$p$’ by ‘Mark Twain wrote *Huckleberry Finn*’ in the first example, the result would be the following specific belief report:
 
@@ -405,11 +413,15 @@ If we replace the variable ‘$x$’ by the name of a person and replace the var
 
 To see the problem posed by the analysis of propositional attitude reports, consider what appears to be a simple principle of reasoning, namely, the Principle of Identity Substitution (this is not to be confused with the Rule of Substitution discussed earlier). If a name, say $n$, appears in a true sentence $S$, and the identity sentence $n=m$ is true, then the Principle of Identity Substitution tells us that the substitution of the name $m$ for the name $n$ in $S$ does not affect the truth of $S$. For example, let $S$ be the true sentence ‘Mark Twain was an author’, let $n$ be the name ‘Mark Twain’, and let $m$ be the name ‘Samuel Clemens’. Then since the identity sentence ‘Mark Twain = Samuel Clemens’ is true, we can substitute ‘Samuel Clemens’ for ‘Mark Twain’ without affecting the truth of the sentence. And indeed, the resulting sentence ‘Samuel Clemens was an author’ is true. In other words, the following argument is valid:
 
-> Mark Twain was an author. Mark Twain = Samuel Clemens. Therefore, Samuel Clemens was an author.
+> Mark Twain was an author.
+> Mark Twain = Samuel Clemens.
+> Therefore, Samuel Clemens was an author.
 
 Similarly, the following argument is valid.
 
-> $4 \gt 3$ $4 = 8/2$ Therefore, $8/2 \gt 3$
+> $4 \gt 3$
+> $4 = 8/2$
+> Therefore, $8/2 \gt 3$
 
 In general, then, the Principle of Identity Substitution seems to take the following form, where $S$ is a sentence, $n$ and $m$ are names, and $S(n)$ differs from $S(m)$ only by the fact that at least one occurrence of $m$ replaces $n$:
 
@@ -419,7 +431,9 @@ This principle seems to capture the idea that if we say something true about an 
 
 But Frege, in effect, noticed the following counterexample to the Principle of Identity Substitution. Consider the following argument:
 
-> John believes that Mark Twain wrote *Huckleberry Finn*. Mark Twain = Samuel Clemens. Therefore, John believes that Samuel Clemens wrote *Huckleberry Finn*.
+> John believes that Mark Twain wrote *Huckleberry Finn*.
+> Mark Twain = Samuel Clemens.
+> Therefore, John believes that Samuel Clemens wrote *Huckleberry Finn*.
 
 This argument is not valid. There are circumstances in which the premises are true and the conclusion false. We have already described such circumstances, namely, one in which John learns the name ‘Mark Twain’ by reading *Huckleberry Finn* but learns the name ‘Samuel Clemens’ in the context of learning about 19th century American authors (without learning that the name ‘Mark Twain’ was a pseudonym for Samuel Clemens). John may *not* believe that Samuel Clemens wrote *Huckleberry Finn*. The premises of the above argument, therefore, do not logically entail the conclusion. So the Principle of Identity Substitution appears to break down in the context of propositional attitude reports. The puzzle, then, is to say what causes the principle to fail in these contexts. Why aren’t we still saying something true about the man in question if all we have done is changed the name by which we refer to him?
 
@@ -429,13 +443,19 @@ To explain these puzzles, Frege suggested (1892a) that in addition to having a d
 
 Moreover, Frege proposed that when a term (name or description) follows a propositional attitude verb, it no longer denotes what it ordinarily denotes. Instead, Frege claims that in such contexts, a term denotes its ordinary sense. This explains why the Principle of Identity Substitution fails for terms following the propositional attitude verbs in propositional attitude reports. The Principle asserts that truth is preserved when we substitute one name for another having the same denotation. But, according to Frege’s theory, the names ‘Mark Twain’ and ‘Samuel Clemens’ denote different senses when they occur in the following sentences:
 
-> John believes that Mark Twain wrote *Huckleberry Finn*. John believes that Samuel Clemens wrote *Huckleberry Finn*.
+> John believes that Mark Twain wrote *Huckleberry Finn*.
+> John believes that Samuel Clemens wrote *Huckleberry Finn*.
 
 If they don’t denote the same object, then there is no reason to think that substitution of one name for another would preserve truth.
 
 Frege developed the theory of sense and denotation into a thoroughgoing philosophy of language. This philosophy can be explained, at least in outline, by considering a simple sentence such as ‘John loves Mary’. In Frege’s view, the words ‘John’ and ‘Mary’ in this sentence are names, the expression ‘loves’ signifies a function, and, moreover, the sentence as a whole is a complex name. Each of these expressions has both a sense and a denotation. The sense and denotation of the names are basic; but sense and denotation of the sentence as a whole can be described in terms of the sense and denotation of the names and the way in which those words are arranged in the sentence alongside the expression ‘loves’ (though see Heck & May 2011 for discussion on whether the sense of a predicate maps the sense of a name to a thought)[^heck-2011]. Let us refer to the denotation and sense of the words as follows:
 
-> $d[j]$ refers to the denotation of the name ‘John’. $d[m]$ refers to the denotation of the name ‘Mary’. $d[L]$ refers to the denotation of the expression ‘loves’. $s[j]$ refers to the sense of the name ‘John’. $s[m]$ refers to the sense of the name ‘Mary’. $s[L]$ refers to the sense of the expression ‘loves’.
+> $d[j]$ refers to the denotation of the name ‘John’.
+> $d[m]$ refers to the denotation of the name ‘Mary’.
+> $d[L]$ refers to the denotation of the expression ‘loves’.
+> $s[j]$ refers to the sense of the name ‘John’.
+> $s[m]$ refers to the sense of the name ‘Mary’.
+> $s[L]$ refers to the sense of the expression ‘loves’.
 
 We now work toward a theoretical description of the denotation of the sentence as a whole. On Frege’s view, $d[j]$ and $d[m]$ are the real individuals John and Mary, respectively. $d[L]$ is a function that maps $d[m]$ (i.e., Mary) to the function ( ) *loves Mary*. This latter function serves as the denotation of the predicate ‘loves Mary’ and we can use the notation $d[Lm]$ to refer to it semantically. Now the function $d[Lm]$ maps $d[j]$ (i.e., John) to the denotation of the sentence ‘John loves Mary’. Let us refer to the denotation of the sentence as $d[jLm]$. Frege identifies the denotation of a sentence as one of the two truth values. Because $d[Lm]$ maps objects to truth values, it is a concept. Thus, $d[jLm]$ is the truth value The True if John falls under the concept $d[Lm]$; otherwise it is the truth value The False. So, on Frege’s view, the sentence ‘John loves Mary’ names a truth value.[^note-6]
 

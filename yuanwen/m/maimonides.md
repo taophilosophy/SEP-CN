@@ -236,13 +236,13 @@ Aristotle, General Topics: psychology | cosmological argument | Maimonides: the 
 
 [^pines-1963]: Pines, S. (trans.), *The Guide of the Perplexed*, Chicago: University of Chicago Press, 1963.
 
-[^goodman-2024]: Goodman, L. E and Lieberman, P. I. (trans.), *The Guide to the Perplexed: A New Translation*, Stanford: Stanford University Press, 2024. Cited as [GP].
+[^goodman-2024]: Goodman, L. E and Lieberman, P. I. (trans.), *The Guide to the Perplexed: A New Translation*, Stanford: Stanford University Press, 2024. Cited as [**GP**].
 
 [^kafih-1972]: Kafih, Y. (trans.), *Moreh Nevukhim*, Jerusalem: Mosad ha-Rav Kook, 1972.
 
 [^schwarz-2002]: Schwarz, M. (trans.), *Moreh Nevukhim*, Tel Aviv: Tel Aviv University Press, 2002.
 
-[^frankel-2000]: Frankel, S. (ed.), *Mishneh Torah*, 12 vols., Jerusalem: Jerusalem: Hotzaat Shabse Frankel, 2000. Cited as [MT].
+[^frankel-2000]: Frankel, S. (ed.), *Mishneh Torah*, 12 vols., Jerusalem: Jerusalem: Hotzaat Shabse Frankel, 2000. Cited as [**MT**].
 
 [^hershman-1949]: Hershman, A. (trans.), *The Code of Maimonides, Book Fourteen: The Book of Judges*, New Haven: Yale University Press, 1949.
 

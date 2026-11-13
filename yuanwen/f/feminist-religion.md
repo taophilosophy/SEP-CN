@@ -275,7 +275,7 @@ feminist philosophy, approaches: psychoanalytic philosophy | feminist philosophy
 
 [^anderson-2004]: Anderson, Pamela Sue and Beverley Clack (eds.), 2004, *Feminist Philosophy of Religion: Critical Readings*, Oxford: Blackwell Publishers.
 
-[^anzaldúa-2015]: Anzaldúa, Gloria and AnaLouise Keating (eds.) 2015, *Light in the Dark/Luz en lo Oscuro: Rewriting Identity, Spirituality, Reality,*Durham: Duke University Press.
+[^anzaldúa-2015]: Anzaldúa, Gloria and AnaLouise Keating (eds.) 2015, *Light in the Dark/Luz en lo Oscuro: Rewriting Identity, Spirituality, Reality,* Durham: Duke University Press.
 
 [^armour-1999]: Armour, Ellen T., 1999, *Deconstruction, Feminist Theology, and the Problem of Difference: Subverting the Race/Gender Divide*, Chicago: University of Chicago Press.
 
@@ -317,7 +317,7 @@ feminist philosophy, approaches: psychoanalytic philosophy | feminist philosophy
 
 [^castelli-2001]: Castelli, Elizabeth with the assistance of Rosamond Rodman (eds.), 2001, *Women, Gender, Religion: A Reader*, New York: Palgrave.
 
-[^clack-2021]: Clack, Beverly, 2021, *Feminism, Religion and Practical Reason,*Cambridge, Cambridge University Press.
+[^clack-2021]: Clack, Beverly, 2021, *Feminism, Religion and Practical Reason,* Cambridge, Cambridge University Press.
 
 [^clayton-2004]: Clayton, Philip and Arthur Peacocke, 2004, *In Whom We Live and Move and Have Our Being: Panentheistic Reflections on God’s Presence in a Scientific World*, Grand Rapids, MI: Eerdmans.
 

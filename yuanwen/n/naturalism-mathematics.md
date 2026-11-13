@@ -325,7 +325,7 @@ abstract objects | Brouwer, Luitzen Egbertus Jan | dependence, ontological | eps
 
 [^bigelow-1988-2]: Bigelow, J., 1988, *The Reality of Numbers*, Oxford: Clarendon Press.
 
-[^bueno-2020]: Bueno, O, 2020, “Nominalism in the Philosophy of Mathematics”, *The Stanford Encyclopedia of Philosophy,*(Spring 2025 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <[https://plato.stanford.edu/archives/fall2020/entries/nominalism-mathematics/](https://plato.stanford.edu/archives/fall2020/entries/nominalism-mathematics/)>.
+[^bueno-2020]: Bueno, O, 2020, “Nominalism in the Philosophy of Mathematics”, *The Stanford Encyclopedia of Philosophy,* (Spring 2025 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <[https://plato.stanford.edu/archives/fall2020/entries/nominalism-mathematics/](https://plato.stanford.edu/archives/fall2020/entries/nominalism-mathematics/)>.
 
 [^burgess-1983]: Burgess, J., 1983, “Why I Am Not a Nominalist”, *Notre Dame Journal of Formal Logic*, 24: 93–105.
 

@@ -47,7 +47,7 @@ If variation in empty worlds can be sustained by differences in the laws that ap
 
 John Heil (2013) is bemused by this War of the Possible Worlds. Having dispensed with the Law Maker, we should repudiate the Laws of Nature. Once we return to a self-governed world, there will be no worry about the world as a lucky accident. As Immanuel Kant emphasized in his explanation of why science cannot establish necessary truths, we do not literally see actual states of affairs as being contingent rather than necessary. Contingency, unlike color or shape, is not perceptible. Nor is there any presumption for regarding states of affairs as contingent.
 
-Subjective chance does not suffice for objective chance. To demonstrate the impossibility of long-term prediction, Daniel Kahneman, Oliver Sibony and Cass Sunstein invite the reader to “consider the fact that at the instant of conception, there was an even chance that every significant figure in history (and also the insignificant onces) would be born with a different gender”. (2021, 141) Those who believe in the necessity of origins will disagree. According to Saul Kripke (1990, 112–113), Socrates could not have originated from a sperm-egg combination other than the one from which he actually originated. Since the Y chromosome of his father dictated Socrates’ biological gender, Socrates is as essentially male as he is essentially human. When we imagine Sophroniscus siring a daughter with Phaenarete in 469 BC, we are imagining Socrates failing to exist. Kripke’s metaphysics also precludes the consolation Richard Dawkins offers in *Unweaving the Rainbow:*“We are going to die, and that makes us the lucky ones. Most people are never going to die because they are never going to be born. The potential people who could have been here in my place outnumber the sand grains of Arabia.” (1998, 1). From Kripke’s perspective, the number of non-existent people is zero. When we speak of those who are never conceived, we are imagining a possible world with a population originating from alternative sperm-egg combinations. They would have existed but do not exist.
+Subjective chance does not suffice for objective chance. To demonstrate the impossibility of long-term prediction, Daniel Kahneman, Oliver Sibony and Cass Sunstein invite the reader to “consider the fact that at the instant of conception, there was an even chance that every significant figure in history (and also the insignificant onces) would be born with a different gender”. (2021, 141) Those who believe in the necessity of origins will disagree. According to Saul Kripke (1990, 112–113), Socrates could not have originated from a sperm-egg combination other than the one from which he actually originated. Since the Y chromosome of his father dictated Socrates’ biological gender, Socrates is as essentially male as he is essentially human. When we imagine Sophroniscus siring a daughter with Phaenarete in 469 BC, we are imagining Socrates failing to exist. Kripke’s metaphysics also precludes the consolation Richard Dawkins offers in *Unweaving the Rainbow:* “We are going to die, and that makes us the lucky ones. Most people are never going to die because they are never going to be born. The potential people who could have been here in my place outnumber the sand grains of Arabia.” (1998, 1). From Kripke’s perspective, the number of non-existent people is zero. When we speak of those who are never conceived, we are imagining a possible world with a population originating from alternative sperm-egg combinations. They would have existed but do not exist.
 
 Notoriously, the modal realist David Lewis (1986) contends that people in other possible worlds exist just as much as actual people. These people have no more reason to envy us than we have for envying them. Relative to the world of these potential people, *we* are the non-actual people. ‘Actual’ is an indexical term on a par with ‘here’ and ‘now’. I can pity my freezing friends in Canada for not being here now in the mild winter of Austin, Texas. But that is because the Canadians could travel to Austin. There is no travel between possible worlds. According to Lewis, no object exists in more than one possible world. When you imagine yourself not existing, you are thinking about a possible world that resembles the actual world except there is no counterpart of you. *Your* existence in the actual world is not a matter of luck. The feeling that you've won the lottery for existence arises from the striking resemblance between the actual world and a possible world in which some other child is conceived by counterparts of your parents.
 
@@ -145,7 +145,7 @@ Philosophers have had much trouble vindicating any of these intuitions. They sti
 
 Were it not for the threat to social order, one might stand the intuition on its head: Negative truths are more fundamental than positive truths. From a logical point of view, there is greater promise in a reduction of positive truths to negative truths. Positive truths can be analyzed as the negations of negative truths or perhaps as frustrated disbelief. Positive truths would then be the redundant hanger-ons, kept in circulation by our well-documented difficulty in coping with negative information. Think of photographic negatives. They seem less informative than positive prints. But since the prints are manufactured from the negatives, the negatives must be merely more difficult for us to process.
 
-As difficult as negation might be psychologically, it is easier to work with than the alternatives suggested by Henry Sheffer. In 1913, he demonstrated that all of the logical connectives can be defined in terms of the dual of conjunction, now known as NAND (short for NOT AND). Sheffer translates ‘*p* NAND *q*’ as ‘either not*p* or not *q*’. ‘Not *p*’ is defined as ‘*p* NAND *p*’. Sheffer notes that the dual of disjunction, NOR (short for NOT OR), can also define all the connectives. Sheffer translates ‘*p* NOR *q*’ as ‘neither *p* nor *q*’. From a logical point of view, negation is dispensable. This raises hope that all of Parmenides’ paradoxes of negation can be translated away.
+As difficult as negation might be psychologically, it is easier to work with than the alternatives suggested by Henry Sheffer. In 1913, he demonstrated that all of the logical connectives can be defined in terms of the dual of conjunction, now known as NAND (short for NOT AND). Sheffer translates ‘*p* NAND *q*’ as ‘either not *p* or not *q*’. ‘Not *p*’ is defined as ‘*p* NAND *p*’. Sheffer notes that the dual of disjunction, NOR (short for NOT OR), can also define all the connectives. Sheffer translates ‘*p* NOR *q*’ as ‘neither *p* nor *q*’. From a logical point of view, negation is dispensable. This raises hope that all of Parmenides’ paradoxes of negation can be translated away.
 
 Bertrand Russell quickly incorporated NAND into *Principia Mathematica*. Sheffer’s functions have also been a great economy to the assembly line symbol manipulation of computers (as witnessed by the popularity of NAND gates and NOR gates). However, human beings have trouble achieving fluency with Sheffer’s connectives. Even Sheffer translates them negatively. Psychologically, the phrases ‘either not *p* or not *q*’ and ‘neither *p* nor *q*’ are each heard as a double dose of negation rather than as an alternative to negation.
 
@@ -327,7 +327,7 @@ Another emotional reader of Schopenhauer, Ludwig Wittgenstein, characterizes thi
 >
 > 6.5 When an answer cannot be put into words, neither can the question—the riddle does not exist. (From Tractatus Logico-Philosophicus)
 
-This visceral characterization persists into Wittgenstein’s later philosophy. In*Lectures on Ethics*, Wittgenstein uses the language of seeing-as. ‘Why is there something rather than nothing?’ is a prompt to see the world as a miracle. This gestalt switch is not a mistake. Nor is it an insight. Even the logical positivists were willing to grant the question has emotive meaning (just not cognitive meaning).
+This visceral characterization persists into Wittgenstein’s later philosophy. In *Lectures on Ethics*, Wittgenstein uses the language of seeing-as. ‘Why is there something rather than nothing?’ is a prompt to see the world as a miracle. This gestalt switch is not a mistake. Nor is it an insight. Even the logical positivists were willing to grant the question has emotive meaning (just not cognitive meaning).
 
 The characteristic phenomenology of the question has also been suggested as a resource in explaining why we fail to recognize the radical ambiguity of the question. Andrew Brenner (2016, 1319) conjectures that the multiplicity of interpretations is masked by the emotional unity.
 
@@ -367,7 +367,12 @@ Carnap also needs to consider the possibility that Heidegger’s sentences are i
 
 Other critics deny that *What is Metaphysics?* suffers from an absence of meaning. Just the reverse: they think Heidegger’s passages about nothing involve *too many* meanings. When Heidegger connects negation with nothingness and death, these logicians are put in mind of an epitaph that toys with the principle of excluded middle: *Mrs Nott was Nott Alive and is Nott Dead*. According to these critics, Heidegger’s writings can only be understood in the way we understand the solution to equivocal riddles:
 
-> What does a man love more than life? Hate more than death or mortal strife? That which contented men desire, The poor have, the rich require, The miser spends, the spendthrift saves, And all men carry to their graves?
+> What does a man love more than life?
+> Hate more than death or mortal strife?
+> That which contented men desire,
+> The poor have, the rich require,
+> The miser spends, the spendthrift saves,
+> And all men carry to their graves?
 >
 > (Leeming, 1953, 201)
 
@@ -432,7 +437,7 @@ abstract objects | condemnation of 1277 | existence | existentialism | holes | J
 
 [^dallmayr-1992]: Dallmayr, Fred, 1992, “Nothingness and *Śūnyatā*: A Comparison of Heidegger and Nishitani”, *Philosophy East and West*, 42/1: 37–48. doi:10.2307/1399690
 
-[^dawkins-1998]: Dawkins, Richard, 1998, *Unweaving the Rainbow*Boston: Houghton Mifflin.
+[^dawkins-1998]: Dawkins, Richard, 1998, *Unweaving the Rainbow* Boston: Houghton Mifflin.
 
 [^efird-2005]: Efird, D. and Stoneham, T., 2005, “The Subtraction Argument for Metaphysical Nihilism”, *Journal of Philosophy*, 102: 303–325.
 
@@ -508,7 +513,7 @@ abstract objects | condemnation of 1277 | existence | existentialism | holes | J
 
 [^mcdaniel-2013]: McDaniel, Kris, 2013, “Ontological Pluralism, the Gradation of Being, and the Question ‘Why is there Something Rather Than Nothing?’”, in *The Puzzle of Existence*, Tyron Goldschmidt (ed.), New York: Routledge, 272–286.
 
-[^mumford-2021]: Mumford, Stephen 2021, *Absence and Nothing: the Philosophy of What There is Not*Clarendon: Oxford University Press.
+[^mumford-2021]: Mumford, Stephen 2021, *Absence and Nothing: the Philosophy of What There is Not* Clarendon: Oxford University Press.
 
 [^munitz-1965]: Munitz, M. K., 1965, *The Mystery of Existence*, New York: Appleton-Century-Crofts.
 

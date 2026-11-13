@@ -279,7 +279,7 @@ Thanks to various anonymous referees for their helpful suggestions on earlier ve
 
 [^davidson-1980]: –––, 1980. *Essays on Actions and Events*, Oxford: Oxford University Press.
 
-[^dorr-2005]: Dorr, C., 2005. ‘What We Disagree About When We Disagree About Ontology’,’ in *Fictionalist Approaches to Metaphysics*, Mark Kalderon (ed.), Oxford: Oxford University Press, 234–286.
+[^dorr-2005]: Dorr, C., 2005. ‘What We Disagree About When We Disagree About Ontology’,’ in *Fictionalist Approaches to Metaphysics* , Mark Kalderon (ed.), Oxford: Oxford University Press, 234–286.
 
 [^dorr-2016]: –––, 2016. ‘To be F is to be G,’ *Philosophical Perspectives*, 30: 39–134.
 

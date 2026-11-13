@@ -17,7 +17,7 @@ An alternative approach, that of Lawvere (1963, 1966), begins by characterizing 
 
 Here is the original definition of a category.
 
-**Definition** (Eilenberg & Mac Lane 1945)[^eilenberg-1945]: A category $\mathbf{C}$ is an aggregate $\mathbf{Ob}$ of abstract elements, called the *objects* of $\mathbf{C}$, and abstract elements Map, called *mappings* of the category. The mappings are subject to the following five axioms:
+**Definition** (Eilenberg & Mac Lane 1945)[^eilenberg-1945]: A category $\mathbf{C}$ is an aggregate $\mathbf{Ob}$ of abstract elements, called the *objects* of $\mathbf{C}$, and abstract elements **Map**, called *mappings* of the category. The mappings are subject to the following five axioms:
 
 (C1) Given three mappings $\alpha_1, \alpha_2$ and $\alpha_3$, the triple product $\alpha_3 (\alpha_2\alpha_1)$ is defined if and only if $(\alpha_3\alpha_2)\alpha_1$ is defined. When either is defined, the associative law
 

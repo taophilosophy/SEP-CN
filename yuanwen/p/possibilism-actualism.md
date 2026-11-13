@@ -406,7 +406,7 @@ And, accordingly:
 
 The definitions of truth, satisfiability and logical truth are unchanged. Call the logic determined by Kripke semantics KQML.
 
-A Note on “Serious” Actualism. KQML takes over the semantics of predicates from SQML without modification: the extension $\pi_w^\calK$ that a Kripke interpretation $\calK$ assigns to a predicate at a world consists of arbitrary *n*-tuples of individuals in $D.$ However, as Kripke himself (1963b, p. 86, fn 1) notes,
+**A Note on “Serious” Actualism**. KQML takes over the semantics of predicates from SQML without modification: the extension $\pi_w^\calK$ that a Kripke interpretation $\calK$ assigns to a predicate at a world consists of arbitrary *n*-tuples of individuals in $D.$ However, as Kripke himself (1963b, p. 86, fn 1) notes,
 
 > [i]t is natural to assume that [a predicate] should be *false* in a world…of all those individuals not existing in that world….
 
@@ -1231,7 +1231,13 @@ A moment’s reflection reveals that all we need is a single individual $c$ and 
 
 [^note-52]: More formally demonstrated, consider the following simple interpretation $\calI$ for $\scrL^\Box$: let $D = \{c\}$, $W = \{w^\ast,w\}$, and let $\textit{dom}(w^\ast) = \{c\}$ and $\textit{dom}(w) = \varnothing$. It should be obvious that **N** is false in $\calI$, as $c$ exists in the “actual world” $w^\ast$ of $\calI$ but not in $w$. However, it might be useful to verify this by stepping through the truth conditional clauses for KQML:
 
-> **N** is true in $\calI$ iff $\forall \sfx\Box\exists \sfy\,\sfx=\sfy$ is true$_{w^\ast}^{\calI}$ iff for all $a\in\textit{dom}(w^\ast)$, $\Box\exists \sfy\,\sfx=\sfy$ is true$_{w^\ast}^{\calI[\frac{\sfx}{a}]}$ iff, for all $a\in\textit{dom}(w^\ast)$ and for all worlds $u\in W$, $\exists \sfy\,\sfx=\sfy$ is true$_{u}^{\calI[\frac{\sfx}{a}]}$ iff, for all $a\in\textit{dom}(w^\ast)$ and for all worlds $u\in W$ and for some $b\in dom(u)$, $\sfx=\sfy$ is true$_{u}^{\calI[\frac{\sfx}{a}][\frac{\sfy}{b}]}$, i.e., iff, for all $a\in\textit{dom}(w^\ast)$ and for all worlds $u\in W$ and for some $b\in dom(u)$, $b$ is identical to $a$, i.e., iff, for all $a\in\textit{dom}(w^\ast)$ and for all worlds $u\in W$, $a\in dom(u)$.
+> **N** is true in $\calI$
+> iff $\forall \sfx\Box\exists \sfy\,\sfx=\sfy$ is true$_{w^\ast}^{\calI}$
+> iff for all $a\in\textit{dom}(w^\ast)$, $\Box\exists \sfy\,\sfx=\sfy$ is true$_{w^\ast}^{\calI[\frac{\sfx}{a}]}$
+> iff, for all $a\in\textit{dom}(w^\ast)$ and for all worlds $u\in W$, $\exists \sfy\,\sfx=\sfy$ is true$_{u}^{\calI[\frac{\sfx}{a}]}$
+> iff, for all $a\in\textit{dom}(w^\ast)$ and for all worlds $u\in W$ and for some $b\in dom(u)$, $\sfx=\sfy$ is true$_{u}^{\calI[\frac{\sfx}{a}][\frac{\sfy}{b}]}$,
+> i.e., iff, for all $a\in\textit{dom}(w^\ast)$ and for all worlds $u\in W$ and for some $b\in dom(u)$, $b$ is identical to $a$,
+> i.e., iff, for all $a\in\textit{dom}(w^\ast)$ and for all worlds $u\in W$, $a\in dom(u)$.
 
 But the latter is obviously false for $a=c$ and $u=w$, since $\textit{dom}(w)$ is empty. Hence, $\forall \sfx\Box\exists \sfy\,\sfx=\sfy$ is not true$_{w^\ast}^{\calI}$, i.e., **N** is not true in $\calI$.
 

@@ -974,7 +974,7 @@ I would like to thank James Joyce and Edward Zalta for their comments on various
 
 [^clark-1997]: Clark, A. (1997). *Being There*, Cambridge, MA: MIT Press.
 
-[^clark-2016]: ––– (2016).*Surfing Uncertainty*, Cambridge, MA: MIT Press.
+[^clark-2016]: ––– (2016). *Surfing Uncertainty*, Cambridge, MA: MIT Press.
 
 [^danielson-1992]: Danielson, P. (1992). *Artificial Morality*, London: Routledge
 

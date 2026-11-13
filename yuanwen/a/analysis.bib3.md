@@ -67,7 +67,7 @@ This section of the bibliography corresponds to Section 3 of the main entry, and
 - Priest, Graham, 1995, *Beyond the Limits of Thought*, Cambridge: Cambridge University Press
 - ––– 2018, *The Fifth Corner of Four: An Essay on Buddhist Metaphysics and the Catuṣkoṭi*, Oxford: Oxford University Press
 - Siderits, Mark, 1991, *Indian Philosophy of Language*, Dordrecht: Kluwer [ch. 3: sense/reference distinction; ch. 4: empty terms]
-- Staal, Frits, 1973,‘The Concept of *Pakṣa* in Indian Logic’, *Journal of Indian Philosophy*2: 156–66
+- Staal, Frits, 1973,‘The Concept of *Pakṣa* in Indian Logic’, *Journal of Indian Philosophy* 2: 156–66
 - Tillemans, Tom, 2020, ‘Dharmakīrti’, in *Stanford Encyclopedia of Philosophy* (Spring 2021 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2021/entries/dharmakiirti/>.
 - Vaidya, Anand, 2020, ‘*Arthāpatti*: An Anglo-Indo-Analytic Attempt at Cross-Cultural Conceptual Engineering’, in Keating 2020, 311–32
 - Westerhoff, Jan, 2018, *The Golden Age of Indian Buddhist Philosophy*, Oxford: Oxford University Press [ch. 4 on the School of Dignāga and Dharmakīrti, 253–6 on four levels of philosophical analysis in Dharmakīrti’s approach] {§3.3}

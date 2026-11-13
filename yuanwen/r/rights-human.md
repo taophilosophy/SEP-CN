@@ -436,7 +436,7 @@ For the 2024 update, Adam Etinson has joined James Nickel in authoring and revis
 
 [^kamm-2007]: –––, 2007, *Intricate Ethics: Rights, Responsibilities, and Permissible Harm* (Oxford Ethics Series), Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780195189698.001.0001
 
-[^kant-1785]: Kant, Immanuel, 1785 [1996], *The Metaphysics of Morals*, in Mary J. Gregor, ed., *Practical Philosophy,*Cambridge: Cambridge University Press, 37–108. doi:10.1017/CBO9780511813306.007.
+[^kant-1785]: Kant, Immanuel, 1785 [1996], *The Metaphysics of Morals*, in Mary J. Gregor, ed., *Practical Philosophy,* Cambridge: Cambridge University Press, 37–108. doi:10.1017/CBO9780511813306.007.
 
 [^kateb-2011]: Kateb, George, 2011, *Human Dignity*, Cambridge, MA: Belknap Press of Harvard University Press.
 

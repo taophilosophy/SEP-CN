@@ -941,7 +941,7 @@ We dedicate our work to the memory of Horacio Arló-Costa. We are grateful to Vi
 
 [^grahne-1998]: Grahne, Gösta, 1998, “Updates and Counterfactuals”, *Journal of Logic and Computation*, 8(1): 87–117. doi:10.1093/logcom/8.1.87
 
-[^guerzoni-2007]: Guerzoni, Elena, & Lim, Dongsik (2007). “Even if, factivity and focus”, in *Proceedings of Sinn und Bedeutung,*vol. 11: 276–290. doi:10.18148/sub/2007.v11i0.645
+[^guerzoni-2007]: Guerzoni, Elena, & Lim, Dongsik (2007). “Even if, factivity and focus”, in *Proceedings of Sinn und Bedeutung,* vol. 11: 276–290. doi:10.18148/sub/2007.v11i0.645
 
 [^günther-2018]: Günther, Mario, 2018, “Learning conditional information by Jeffrey imaging on Stalnaker conditionals”, *Journal of Philosophical Logic*, 47(5), 851–876. doi:10.1007/s10992-017-9452-z
 

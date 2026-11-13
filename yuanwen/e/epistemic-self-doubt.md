@@ -3,7 +3,9 @@
 
 *Roush, Sherrilyn*
 
-> And if I claim to be a wise man, Well, it surely means that I don't know. *—Kansas*
+> And if I claim to be a wise man,
+> Well, it surely means that I don't know.
+> *—Kansas*
 
 It is possible to direct doubt at oneself over many things. One can doubt one’s own motives, or one’s competence to drive a car. One can doubt that one is up to the challenge of fighting a serious illness. Epistemic self-doubt is the special case where what we doubt is our ability to achieve an epistemically favorable state, for example, to achieve true beliefs. Given our obvious fallibility, epistemic self-doubt seems a natural thing to engage in, and there is definitely nothing logically problematic about doubting someone else’s competence to judge. However when we turn such doubt on ourselves, incoherence seems to threaten because one is using one’s judgment to make a negative assessment of one’s judgment. Even if this kind of self-doubt can be seen as coherent, there are philosophical challenges concerning how to resolve the inner conflict involved in such a judgment, whether one’s initial judgment or one’s doubt should win, and why.
 

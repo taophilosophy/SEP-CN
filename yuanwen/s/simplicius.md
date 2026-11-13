@@ -421,7 +421,7 @@ I would very much like to thank my collaborators at the University of Cologne An
 
 [^baltussen-2002]: Baltussen, Han, 2002, “Philology or Philosophy? Simplicius on the Use of Quotations”, in *Epea and Grammata. Oral and Written Communication in Ancient Greece*, Ian Worthington and John Foley (eds.), Leiden: Brill, 173–189. doi:10.1163/9789004350922_016
 
-[^baltussen-2015]: –––, 2015, “Simplicius on Elements and Causes in Greek Philosophy: Critical Appraisal or Philosophical Synthesis?”, in*Causation and Creation in Late Antiquity*, Anna Marmodoro and Brian D. Prince (eds.), Cambridge: Cambridge University Press, 111–128. doi:10.1017/CBO9781107447974.008
+[^baltussen-2015]: –––, 2015, “Simplicius on Elements and Causes in Greek Philosophy: Critical Appraisal or Philosophical Synthesis?”, in *Causation and Creation in Late Antiquity*, Anna Marmodoro and Brian D. Prince (eds.), Cambridge: Cambridge University Press, 111–128. doi:10.1017/CBO9781107447974.008
 
 [^baltussen-2016]: –––, 2016, *The Peripatetics: Aristotle’s Heirs 322 BCE - 200 CE*, London: Routledge. doi:10.4324/9781315719092
 

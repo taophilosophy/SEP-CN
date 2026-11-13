@@ -346,7 +346,7 @@ analytic/synthetic distinction | *a priori* justification and knowledge | imposs
 
 [^kment-2014]: –––, 2014, *Modality and Explanatory Reasoning*, Oxford: Oxford University Press.
 
-[^kment-2015a]: –––, 2015a, “Modality, Metaphysics, and Method”,*Palgrave Handbook of Philosophical Methods*, New York: Palgrave Macmillan, pp. 179–207.
+[^kment-2015a]: –––, 2015a, “Modality, Metaphysics, and Method”, *Palgrave Handbook of Philosophical Methods*, New York: Palgrave Macmillan, pp. 179–207.
 
 [^kment-2015b]: –––, 2015b, “Replies to Sullivan and Lange”, *Philosophy and Phenomenological Research*, 91: 516–539.
 
@@ -366,7 +366,7 @@ analytic/synthetic distinction | *a priori* justification and knowledge | imposs
 
 [^lange-2005]: –––, 2005, “A Counterfactual Analysis of the Concepts of Logical Truth and Necessity”, *Philosophical Studies*, 125: 277–303.
 
-[^lange-2015]: –––, 2015, “Comments on Kment’s *Modality and Explanatory Reasoning*”,*Philosophy and Phenomenological Research*, 91: 508–515.
+[^lange-2015]: –––, 2015, “Comments on Kment’s *Modality and Explanatory Reasoning*”, *Philosophy and Phenomenological Research*, 91: 508–515.
 
 [^lewis-1973a]: Lewis, D., 1973a, *Counterfactuals*, Cambridge, MA: Harvard University Press.
 

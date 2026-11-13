@@ -213,17 +213,32 @@ I am grateful to the following for extremely useful comments on previous version
 
 [^note-4]: See Hobbes 1688:
 
-> The persecuted faith recovered strength with the proclamations of Luther who, speaking with a great voice, reached the people, And cut the net of the Pope in more than a hundred places; nets that had been woven, but badly woven, by the famous Schools (1688 [2008: 573])
+> The persecuted faith recovered strength with the proclamations of Luther
+> who, speaking with a great voice, reached the people,
+> And cut the net of the Pope in more than a hundred places; nets that
+> had been woven, but badly woven, by the famous Schools (1688 [2008: 573])
 >
-> Luther…did not want Faith to be a slave… So, as it rose, the new doctrine of the Saxon Luther shook off the spiritual yoke of the Pope. (1688 [2008: 577])
+> Luther…did
+> not want Faith to be a slave…
+> So, as it rose, the new doctrine of the Saxon Luther shook off the spiritual yoke of the Pope. (1688 [2008: 577])
 
 In an anonymous 1722 paraphrase, which departs from the text of 1688, these lines are made even more dramatic:
 
-> But Luther once from German coasts will come, To blast the honours, and the pomp of Rome; He’ll fetch their pious frauds to public show, And with his Saxon thunder strike them low; (Hobbes 1722: 130–31)[^hobbes-1722]
+> But Luther once from German coasts will come,
+> To blast the honours, and the pomp of Rome;
+> He’ll fetch their pious frauds to public show,
+> And with his Saxon thunder strike them low; (Hobbes 1722: 130–31)[^hobbes-1722]
 >
-> When Luther first, in Saxon realms, arose, To rouse the faith, in many parts, he rends, Their frauds exposes, and the faith defends; Explodes their old prevaricating rules, Taught by the Fathers and upheld by Schools; (1722: 181)
+> When Luther first, in Saxon realms, arose,
+> To rouse the faith, in many parts, he rends,
+> Their frauds exposes, and the faith defends;
+> Explodes their old prevaricating rules,
+> Taught by the Fathers and upheld by Schools; (1722: 181)
 >
-> So when the morning of the Gospel shone, And mists of Roman ignorance were flown, Luther (great man) the Papal fetters broke, And rescued Lands threw off the heavy yoke. (1722:184)
+> So when the morning of the Gospel shone,
+> And mists of Roman ignorance were flown,
+> Luther (great man) the Papal fetters broke,
+> And rescued Lands threw off the heavy yoke. (1722:184)
 
 [^note-5]: For a full discussion of this debate, which sets it in historical context, see Jackson 2007. Selections from works on both sides can be found in Hobbes and Bramhall 1999.
 

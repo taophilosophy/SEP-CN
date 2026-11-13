@@ -19,7 +19,10 @@ In addition, Wang started to turn his back on Daoism and Buddhism, which he came
 
 A life–changing event for Wang occurred in 1506. A eunuch who had assumed illegitimate influence at court had several able officials imprisoned for opposing him. Wang wrote a “memorial” to the emperor in protest. The eunuch responded by having Wang publicly beaten and exiled to an insignificant position in a semi–civilized part of what is now Guizhou Province. Wang had to face considerable physical and psychological hardship in this post, but through these challenges he achieved a deep philosophical awakening (1508), which he later expressed in a poem he wrote for his students:
 
-> Everyone has within an unerring compass; The root and source of the myriad transformations lies in the mind. I laugh when I think that, earlier, I saw things the other way around; Following branches and leaves, I searched outside! (Ivanhoe 2009, 181)[^ivanhoe-2009]
+> Everyone has within an unerring compass;
+> The root and source of the myriad transformations lies in the mind.
+> I laugh when I think that, earlier, I saw things the other way around;
+> Following branches and leaves, I searched outside! (Ivanhoe 2009, 181)[^ivanhoe-2009]
 
 In other words, looking outside oneself for moral truth, as he and his friend Qian had tried to do when studying the bamboos, was ignoring the root of moral insight, which is one’s own innate understanding.
 

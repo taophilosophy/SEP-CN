@@ -272,7 +272,7 @@ This section of the bibliography corresponds to Section 4 of the main entry, and
 - Posy, Carl J., (ed.), 1992, *Kant’s Philosophy of Mathematics*, Dordrecht: Kluwer [includes Brittan 1992, Friedman 1985, Hintikka 1967, 1984, Kitcher 1975, Parsons 1969, Young 1984]
 - Priest, Graham, 2002, *Beyond the Limits of Thought*, Oxford: Oxford University Press [ch. 6: Kant’s antinomies] {§5.8, §6.5}
 - Proust, Joelle, 1986, *Questions de forme*, Paris: Fayard, tr. as *Questions of Form: Logic and the Analytic Proposition from Kant to Carnap* by A.A. Brenner, Minneapolis: University of Minnesota Press, 1989 [I: Kant] {§1.2}
-- Raysmith, Thomas, ‘Kant's Original Space and Time as Mere Grounds for Possibilities’, *Kantian Review*27.1: 23–42, [https://doi.org/10.1017/S1369415421000182](https://doi.org/10.1017/S1369415421000182)
+- Raysmith, Thomas, ‘Kant's Original Space and Time as Mere Grounds for Possibilities’, *Kantian Review* 27.1: 23–42, [https://doi.org/10.1017/S1369415421000182](https://doi.org/10.1017/S1369415421000182)
 - Shabel, Lisa, 1998, ‘Kant on the “Symbolic Construction” of Mathematical Concepts’, *Studies in History and Philosophy of Science* 29: 589–621
 - –––, 2003, *Mathematics in Kant’s Critical Philosophy*, New York: Routledge
 - Walker, Ralph C.S., (ed.), 1982, *Kant on Pure Reason*, Oxford: Oxford University Press [includes Parsons 1969]
@@ -320,7 +320,7 @@ This section of the bibliography corresponds to Section 4 of the main entry, and
 - Potter, Karl H., (ed.), 1978, *Indian Metaphysics and Epistemology: The Tradition of Nyāya-Vaiśeṣika up to Gaṅgeśa*, Encyclopedia of Indian Philosophies, Vol. 2, Princeton: Princeton University Press
 - Potter, Karl H. and Sibajiban Bhattacharya, (eds.), 1992, *Indian Philosophical Analysis: Nyāya-Vaiśeṣika from Gaṅgeśa to Raghunātha Siromaṇ**i*, Encyclopedia of Indian Philosophies, Vol. 6, Princeton: Princeton University Press
 - Siderits, Mark, 1991, *Indian Philosophy of Language*, Dordrecht: Kluwer [ch. 3: sense/reference distinction; ch. 4: empty terms]
-- Staal, Frits, 1973,‘The Concept of *Pakṣa* in Indian Logic’, *Journal of Indian Philosophy,*2: 156–66
+- Staal, Frits, 1973,‘The Concept of *Pakṣa* in Indian Logic’, *Journal of Indian Philosophy,* 2: 156–66
 - Vaidya, Anand, 2020, ‘*Arthāpatti*: An Anglo-Indo-Analytic Attempt at Cross-Cultural Conceptual Engineering’, in Keating 2020, pp. 311–32
 - Wada, Toshihiro, 2001, ‘The Analytical Method of Navya-Nyāya’, *Journal of Indian Philosophy* 29.5/6: 519–30
 - ––– 2007, *The Analytical Method of Navya-Nyāya*, Groningen: Egbert Forsten
@@ -329,7 +329,7 @@ This section of the bibliography corresponds to Section 4 of the main entry, and
 
 - Angle, Stephen C. and Justin Tiwald, 2017, *Neo-Confucianism: A Philosophical Introduction*, Cambridge: Polity Press
 - Chan, Wing-tsit, (ed.), 1987, *A Sourcebook in Chinese Philosophy*, Princeton: Princeton University Press
-- De Bary, Wm Theodore, (ed.), 1975, *The Unfolding of Neo-Confucianism,*New York: Columbia University Press
+- De Bary, Wm Theodore, (ed.), 1975, *The Unfolding of Neo-Confucianism,* New York: Columbia University Press
 - ––– 1991, *The Trouble with Confucianism*, Cambridge, MA: Harvard University Press
 - De Bary, Wm Theodore and Irene Bloom, (eds.), 1979, *Principle and Practicality: Essays in Neo-Confucianism and Practical Learning*, New York: Columbia University Press
 - Elman, Benjamin A., 2001, *From Philosophy to Philology: Intellectual and Social Aspects of Change in Late Imperial China*, 2nd edn., Los Angeles: UCLA Asian Pacific Monograph series; 1st edn. 1984

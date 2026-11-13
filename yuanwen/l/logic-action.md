@@ -204,7 +204,9 @@ Interestingly, the origin of the intelligent agent concept lies in philosophy.
 
 First of all there is a direct link with *practical reasoning* in the classical philosophical tradition going back to Aristotle. Here one is concerned with reasoning about action in a syllogistic manner, such as the following example taken from Audi 1999, p. 729:
 
-> Would that I exercise. Jogging is exercise. Therefore, I shall go jogging.
+> Would that I exercise.
+> Jogging is exercise.
+> Therefore, I shall go jogging.
 
 Although this has the form of a deductive syllogism in the familiar Aristotelian tradition of theoretical reasoning, on closer inspection it appears that this syllogism does not express a purely logical deduction. (The conclusion does not follow logically from the premises.) It rather constitutes a representation of a decision of the agent (going to jog), where this decision is based on mental attitudes of the agent, *viz*. his/her beliefs (jogging is exercise) and his/her desires or goals (would that I exercise). So, practical reasoning is reasoning directed toward action, the process of figuring out what to do, as Wooldridge (2000) puts it. The process of reasoning about what to do next on the basis of mental states such as beliefs and desires is called deliberation.
 

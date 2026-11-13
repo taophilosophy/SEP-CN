@@ -230,11 +230,14 @@ But the purposes and functions of things, and the relations they bear to their p
 
 Specific proposals of a recent linguistics text about the semantic structure of some English words make the problem particularly vivid. Laurel Brinton (2000) writes, for example, that:
 
-> Trot – requires [+QUADRUPED] subject {The horse, *the money, *the spider} trotted home
+> Trot – requires [+QUADRUPED] subject
+> {The horse, *the money, *the spider} trotted home
 
-> Fly – requires [+WINGED] subject {The airplane, the bird, *the goat} flew north
+> Fly – requires [+WINGED] subject
+> {The airplane, the bird, *the goat} flew north
 >
-> Admire – requires [+HUMAN] subject {Judy, *the goldfish} admires Mozart (Brinton 2000, p. 154)
+> Admire – requires [+HUMAN] subject
+> {Judy, *the goldfish} admires Mozart (Brinton 2000, p. 154)
 
 Set aside the straightforward empirical inadequacies of the proposals (don’t missiles and balls fly through the air without wings?). Even if they matched speakers’ intuitions, there would still be the issue of their significance. It would, of course, be certainly surprising to encounter trotting spiders, flying goats, and goldfish admiring Mozart, but it’s hard to see why we should conclude that our surprise is due to *constraints of the I-language* rather than merely to *commonplace beliefs* about spiders, goats and goldfish. Perhaps there are meaning constraints in the vicinity of these examples (*trots* requires legs, *admire* a mental agent), but the challenge is to provide a principled basis for insisting upon specific ones.[^note-31]
 

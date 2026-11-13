@@ -143,31 +143,43 @@ Aenesidemus (first century BCE) was discontented with the views discussed in the
 
 (i) Conflicting Appearances or Causal Invariance. The Ten Modes are preserved in Diogenes Laertius (9.78–88), Philo of Alexandria (*On Drunkenness* 169–202), and Sextus. Diogenes’ account of the Ten Modes may postdate Sextus’ (Sedley 2015)[^sedley-2015]. Sextus gives extensive illustrations, and integrates the Ten Modes into his general account of Pyrrhonism (*PH* 1.36–163; cf. *M* 7.345 for ascription of the Ten Modes to Aenesidemus; cf. Annas-Barnes 1985 and Hankinson 1995, 268; the sequence below follows Sextus)[^annas-1985][^hankinson-1995]. Here is the first of the Ten Modes, interpreted in two ways.
 
-> **10–1**: Arguments concerning oppositions based on the differences between kinds of animals.
+> **10–1**:
+> Arguments concerning oppositions based on the differences between kinds of animals.
 >
-> **Conflicting Appearances Interpretation:** *X* appears *F* to animal of kind *A* (e.g., humans) and *F** to animal of kind *B* [where *F* and *F** are opposite or otherwise incompatible properties]. We cannot judge how *X* really is, because we are a party to the dispute.
+> **Conflicting Appearances Interpretation:**
+> *X* appears *F* to animal of kind *A* (e.g., humans) and *F** to animal of kind *B* [where *F* and *F** are opposite or otherwise incompatible properties]. We cannot judge how *X* really is, because we are a party to the dispute.
 >
-> **Causal Invariance Interpretation:** For something to be ‘really’ *F*, it would have to consistently affect different perceivers as *F*. But different constitutions of different animals cause different impressions of the same thing. For different animals, something is *F* and *F** (where *F* and *F** are opposite or otherwise incompatible properties). Therefore, things do not seem to really be *F* or *F**.
+> **Causal Invariance Interpretation:**
+> For something to be ‘really’ *F*, it would have to consistently affect different perceivers as *F*. But different constitutions of different animals cause different impressions of the same thing. For different animals, something is *F* and *F** (where *F* and *F** are opposite or otherwise incompatible properties). Therefore, things do not seem to really be *F* or *F**.
 
 The Conflicting Appearances Interpretation is based on Sextus’ account (Annas-Barnes 1985)[^annas-1985]. The focus here is on the idea that every kind of animal, perceiver, sensory faculty, thinker, or judger (depending on which mode we consider) is only one of several animals, perceivers, sensory faculties, thinkers, or judgers. The object is perceived or considered from a particular point of view. Everyone is a party to the dispute, and there is no ‘view from nowhere.’ Accordingly, the dispute cannot be decided. The Causal Invariance Interpretation, on the other hand, suggests that the focus on decidability is introduced by Sextus. Aenesidemus may (implicitly or explicitly) have endorsed the following idea: if *X* were *F* by nature, *X* would affect everyone as *F*. If *X* affects different people (living beings, sensory faculties, etc.) as *F* and *F**, *X* is by nature neither *F* nor *F**. For example, if *X* is harmful to *A* and beneficial to *B*, it is neither harmful nor beneficial in its nature (Woodruff 2010, Bett 2000)[^bett-2000][^woodruff-2010]. The Ten Modes can generally be construed as engaging either with conflicts between appearances or with causal invariance:
 
-> **10–2**: Arguments based on the differences among human beings (differences in body and in soul).
+> **10–2**:
+> Arguments based on the differences among human beings (differences in body and in soul).
 >
-> **10–3**: Arguments based on the differences between the senses and on the complexity of perceived objects.
+> **10–3**:
+> Arguments based on the differences between the senses and on the complexity of perceived objects.
 >
-> **10–4**: Arguments based on states (dispositions and conditions of a human being, such as age, motion versus rest, emotions, etc.).
+> **10–4**:
+> Arguments based on states (dispositions and conditions of a human being, such as age, motion versus rest, emotions, etc.).
 >
-> **10–5**: Arguments based on positions, distances, and places.
+> **10–5**:
+> Arguments based on positions, distances, and places.
 >
-> **10–6**: Arguments based on mixtures (objects in conjunction with external things like air and humidity; physical constituents of sense organs; physiology of thought).
+> **10–6**:
+> Arguments based on mixtures (objects in conjunction with external things like air and humidity; physical constituents of sense organs; physiology of thought).
 >
-> **10–7**: Arguments based on the composition of the perceived object.
+> **10–7**:
+> Arguments based on the composition of the perceived object.
 >
-> **10–8**: Arguments based on relativity (to the judging subject, to circumstances, etc.). 10–8 comprises at least 10–1 to 10–7, or all Ten Modes.
+> **10–8**:
+> Arguments based on relativity (to the judging subject, to circumstances, etc.). 10–8 comprises at least 10–1 to 10–7, or all Ten Modes.
 >
-> **10–9**: Arguments based on constancy or rarity of occurrence.
+> **10–9**:
+> Arguments based on constancy or rarity of occurrence.
 >
-> **10–10**: Arguments concerned with ways of life, customs, laws, mythical beliefs, and dogmatic assumptions, all of which can be put into opposition to each other.
+> **10–10**:
+> Arguments concerned with ways of life, customs, laws, mythical beliefs, and dogmatic assumptions, all of which can be put into opposition to each other.
 
 (ii) Skepticism, Relativism, Epicureanism. Consider first the relationship between skepticism and relativism (cf. Bett 2000; Vogt 2012a, ch. 4)[^bett-2000][^vogt-2012a]. Relativism, as envisaged in Plato’s *Theaetetus*, looks at a similar range of phenomena. Things appear different to different kinds of animals; to different people; and so on. Relativism embraces the intuition that there is (as we would say today) faultless disagreement. That is, you and I disagree, but neither of us is wrong. Accordingly, metaphysical relativism claims we must give up the intuition that we both refer to the same thing. In the *Theaetetus*, the world dissolves into radical flux: there are no stable items with stable properties that we both refer to.
 
@@ -189,15 +201,20 @@ Scholars have asked whether it is a problem for skepticism if the Ten Modes appe
 
 Almost nothing is known about Agrippa (1ˢᵗ to 2ⁿᵈ century CE; SE *PH* 1.164–177; DL 9.88–89). However, the modes of argument that Sextus calls the Five Modes are attributed to him. These modes are among the most famous arguments of ancient skepticism (Barnes 1990, Hankinson 2010)[^hankinson-2010].
 
-> 5–1 *Diaphônia*: The mode that argues from disagreement. With respect to some matter that presents itself, there is undecided (*anepikriton*) conflict, both among the views of ordinary life and the views held by philosophers. Due to this, we are unable to choose or reject one thing, and must fall back on suspension.
+> 5–1 *Diaphônia*:
+> The mode that argues from disagreement. With respect to some matter that presents itself, there is undecided (*anepikriton*) conflict, both among the views of ordinary life and the views held by philosophers. Due to this, we are unable to choose or reject one thing, and must fall back on suspension.
 >
-> 5–2 *Eis apeiron ekballonta*: Arguments that throw one into an infinite *regress*. That which is brought forward to make a given matter credible needs yet something else to make *it* credible, and so on *ad infinitum*. Since we thus have no starting point for our argument, suspension of judgment follows.
+> 5–2 *Eis apeiron ekballonta*:
+> Arguments that throw one into an infinite *regress*. That which is brought forward to make a given matter credible needs yet something else to make *it* credible, and so on *ad infinitum*. Since we thus have no starting point for our argument, suspension of judgment follows.
 >
-> 5–3 *Pros ti*: Arguments from *relativity*. *X* only ever appears such-and-such in relation to the subject judging and to the things observed together with it. Suspension on how *X* really is follows.
+> 5–3 *Pros ti*:
+> Arguments from *relativity*. *X* only ever appears such-and-such in relation to the subject judging and to the things observed together with it. Suspension on how *X* really is follows.
 >
-> 5–4 *Hypothesis*: Someone makes an assumption without providing argument. A dogmatist, if thrown back into an infinite regress of arguments, just assumes something as a starting-point, without providing an argument (*anapodeiktôs*). We suspend over mere hypotheses—they could be false, opposite hypotheses could be formulated, and so on.
+> 5–4 *Hypothesis*:
+> Someone makes an assumption without providing argument. A dogmatist, if thrown back into an infinite regress of arguments, just assumes something as a starting-point, without providing an argument (*anapodeiktôs*). We suspend over mere hypotheses—they could be false, opposite hypotheses could be formulated, and so on.
 >
-> 5–5 *Ton diallêlon*: Arguments that disclose a *circularity*. This mode is used when that which ought to confirm a given investigated matter requires confirmation (*pistis*—credibility) from that matter. We are unable to assume either in order to establish the other. We suspend judgment on both.
+> 5–5 *Ton diallêlon*:
+> Arguments that disclose a *circularity*. This mode is used when that which ought to confirm a given investigated matter requires confirmation (*pistis*—credibility) from that matter. We are unable to assume either in order to establish the other. We suspend judgment on both.
 
 It is a commonplace to say that, while the Ten Modes, as presented in Sextus, are concerned with conflicting appearances, the Five Modes are about argument or proof. In these modes, the skeptics develop strategies by which to attack theories that the dogmatists defend. If this is how we characterize the Modes, Aristotle’s objection (section 2.3) immediately comes to mind. Do the Five Modes reveal the skeptic’s lack of understanding because they presuppose that everything is subject to proof? (Barnes 1990; Hankinson 1995, 182–92; Long 2006, ch.3)[^hankinson-1995][^long-2006] The three so-called formal modes—Regress, Hypothesis, and Circularity—can be construed in this fashion: when employing them, the skeptic can argue that every premise must be supported by argument; if it is not so supported, the theory begins from a mere hypothesis (on earlier uses of the term *hupothesis* in Plato and in medicine, cf. Cooper 2002 [2004a])[^cooper-2002]; or it is ultimately circular.
 

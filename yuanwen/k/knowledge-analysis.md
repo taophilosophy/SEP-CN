@@ -116,7 +116,9 @@ Although such cases have been discussed throughout the history of Eastern and We
 
 > Let us suppose that Smith has strong evidence for the following proposition: (f) Jones owns a Ford. … Smith has another friend, Brown, of whose whereabouts he is totally ignorant. Smith selects three place-names quite at random, and constructs the following three propositions:
 >
-> (g) Either Jones owns a Ford, or Brown is in Boston; (h) Either Jones owns a Ford, or Brown is in Barcelona; (i) Either Jones owns a Ford, or Brown is in Brest-Litovsk.
+> (g) Either Jones owns a Ford, or Brown is in Boston;
+> (h) Either Jones owns a Ford, or Brown is in Barcelona;
+> (i) Either Jones owns a Ford, or Brown is in Brest-Litovsk.
 >
 > Each of these propositions is entailed by (f). … Smith is therefore completely justified in believing each of these three propositions. Smith, of course, has no idea where Brown is. But imagine now that two further conditions hold. First, Jones does *not* own a Ford, but is at present driving a rented car. And secondly, by the sheerest coincidence, and entirely unknown to Smith, the place mentioned in proposition (h) happens really to be the place where Brown is. (Gettier 1963: 123)[^gettier-1963]
 
@@ -440,7 +442,7 @@ As of the 2026 update, Jonathan Ichikawa has taken sole responsibility for updat
 
 [^note-18]: Ichikawa (2011) offers a semantics for counterfactuals in which, *pace* Sosa, sensitivity and safety *are* equivalent.
 
-[^note-19]: Suppose *S* truly believes that *P*. On Lewis’s view, to evaluate the subjunctive conditional, “if *S*were to believe that *P*, it would not be false that *P,*” we examine all the nearest worlds in which *S*believes *P*. The actual world is the unique nearest such world, and *P*is (by stipulation) not false in that world, so the conditional is true.
+[^note-19]: Suppose *S* truly believes that *P*. On Lewis’s view, to evaluate the subjunctive conditional, “if *S* were to believe that *P*, it would not be false that *P,*” we examine all the nearest worlds in which *S* believes *P*. The actual world is the unique nearest such world, and *P* is (by stipulation) not false in that world, so the conditional is true.
 
 [^note-20]: See e.g., Goldman 1967, 1976; Armstrong 1973; Dretske 1981. See also Sturgeon 1993. Kornblith (2008, 7) suggests that the decline in attention for such views is attributable to Goldman’s (1979) shift from his previous position to one in which knowledge requires justification, where the latter is understood as reliability, but questions the motivation for Goldman’s move.
 

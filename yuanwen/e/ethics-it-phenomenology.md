@@ -122,17 +122,17 @@ The phenomenological analysis and critique of virtuality is important because it
 
 The purpose of this entry is to provide the reader with a sense of the phenomenological approach to information technology and its social and ethical implications by contrasting it with two other approaches. It might be useful to summarize our discussion in the Table below. Obviously such a summary must be seen within the context of the whole entry and will be subject to the normal problems of such summative statements, namely that they do not always do justice to the ideas so summarized. Nevertheless, as a general guide it might help to further clarify some of the contrasts that the entry tried to suggest as useful in understanding the distinctiveness of the phenomenological approach.
 
-|   | Artifact / tool Approach |
+|   | **Artifact / tool Approach** |
 | --- | --- |
 | *View of technology / society relationship* | Technologies are tools that society draws upon to do certain things it would not otherwise be able to do. When tools become incorporated in practices it tends to have a more or less determinable impact on those practices. |
 | *Approach to ethical implications of technology* | The task of ethics is to analyze the impact of technology on practices by applying existing or new moral theories to construct guidelines or policies that will ‘correct’ the injustices or infringements of rights caused by the implementation and use of the particular technology. |
 
-|   | Social Constructivist Approach |
+|   | **Social Constructivist Approach** |
 | --- | --- |
 | *View of technology / society relationship* | Technology and society co-construct each other from the start. There is an ongoing interplay between the social practices and the technological artifacts (both in its design and in its use). This ongoing interplay means that technological artifacts and human practices become embedded in a multiplicity of ways that are mostly not determinable in any significant way. |
 | *Approach to ethical implications of technology* | The task of ethics if to be actively involved in disclosing the assumptions, values and interests being ‘built into’ the design, implementation and use of the technology. The task of ethics is not to prescribe policies or corrective action as such but to continue to open the ‘black box’ for scrutiny and ethical consideration and deliberation. |
 
-|   | Phenomenological Approach |
+|   | **Phenomenological Approach** |
 | --- | --- |
 | *View of technology / society relationship* | Technology and society co-constitute each other from the start. They are each other’s condition of possibility to be. Technology is not the artifact alone it is also the technological attitude or disposition that made the artifact appear as meaningful and necessary in the first instance. However, once in existence artifacts and the disposition that made them meaningful also discloses the world beyond the mere presence of the artifacts. |
 | *Approach to ethical implications of technology* | The task of ethics is ontological disclosure. To open up and reveal the conditions of possibility that make particular technologies show up as meaningful and necessary (and others not). It seeks to interrogate these constitutive conditions (beliefs, assumptions, attitudes, moods, practices, discourses, etc.) so as to problematize and question the fundamental constitutive sources of our ongoing being-with technology. |
@@ -159,7 +159,7 @@ The purpose of this entry is to provide the reader with a sense of the phenomeno
 
 computing: and moral responsibility | information technology: and moral values | phenomenology | technology, philosophy of
 
-[^achterhuis-2001]: Achterhuis, H. (ed.), 2001, *American Philosophy of Technology: The Empirical Turn*, Bloomington: Indiana University Press.
+[^achterhuis-2001]: Achterhuis, H. (ed.), 2001, *American Philosophy of Technology: The Empirical Turn* , Bloomington: Indiana University Press.
 
 [^baudrillard-1983]: Baudrillard, J., 1983, *Simulations*, New York: Semiotext(e).
 

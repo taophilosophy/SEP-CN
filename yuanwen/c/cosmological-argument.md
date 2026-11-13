@@ -422,7 +422,7 @@ Furthermore, suppose Grünbaum is correct that the Big Bang singularity is not a
 
 Grünbaum (1991) also argues that defenders of the *kalām* argument cannot make sense of the claim that the universe began to exist.
 
-> The question of its beginning is not, “If the universe did have a bounded past of finite duration, what was the cause of its initial event *t*=0?” *There simply did not exist any instants of time*before*t*=0!
+> The question of its beginning is not, “If the universe did have a bounded past of finite duration, what was the cause of its initial event *t*=0?” *There simply did not exist any instants of time* before *t*=0!
 
 One simply cannot ask what happened before *t*=0; the question makes no sense. And if we cannot ask that question, then we cannot inquire whether the Big Bang was an effect, for nothing temporal preceded it. Questions about creation occur in time in the universe, not outside of it (Hawking 1987: 650–51)[^hawking-1987].
 

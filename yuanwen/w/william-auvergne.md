@@ -285,7 +285,7 @@ Arabic and Islamic Philosophy, historical and methodological topics in: influenc
 
 [^bülow-1897]: Bülow, Georg (ed.), 1897, *Des Dominicus Gundissalinus Schrift von der Unsterblichkeit der Seele nebst einem Anhange, enthaltend die Abhandlung des Wilhelm von Paris (Auvergne)* De immortalitate animae (Beiträge zur Geschichte der Philosophie des Mittelalters, II, 3), Münster: Aschendorff. An edition of *De immortalitate animae*. Bülow’s attribution of this work to Dominicus Gundissalinus is now generally rejected.
 
-[^corti-1966]: Corti, Guglielmo (ed.), 1966, *Il*Tractatus de gratia*di Guglielmo d’Auvergne*, Rome: Lateran University, 1966. An edition of *De gratia et libero arbitrio*.
+[^corti-1966]: Corti, Guglielmo (ed.), 1966, *Il* Tractatus de gratia *di Guglielmo d’Auvergne*, Rome: Lateran University, 1966. An edition of *De gratia et libero arbitrio*.
 
 [^o’donnell-1946a]: O’Donnell, J. Reginald (ed.), 1946a, “Tractatus Magistri Guillelmi Alvernensis *De bono et malo*”, *Mediaeval Studies*, 8: 245–299.
 
@@ -315,7 +315,7 @@ Arabic and Islamic Philosophy, historical and methodological topics in: influenc
 
 [^teske-1989]: Teske, Roland J., and Francis C. Wade (trans.), 1989, *The Trinity, or the First Principle* (Medieval Philosophical Texts in Translation 28), Milwaukee, WI: Marquette University Press. Translation of *De Trinitate*.
 
-[^barnes-2020]: Barnes, Corey L., 2020, “Providence and Causality in the *Summa Halensis*”, in Lydia Schumacher (ed.), *The*Summa Halensis: *Doctrines and Debates*, Berlin/Boston: De Gruyter, pp. 89–106. For William on providence, see pp. 89–94 [[Barnes 2020 available online](https://doi.org/10.1515/9783110685008-008)].
+[^barnes-2020]: Barnes, Corey L., 2020, “Providence and Causality in the *Summa Halensis*”, in Lydia Schumacher (ed.), *The* Summa Halensis: *Doctrines and Debates*, Berlin/Boston: De Gruyter, pp. 89–106. For William on providence, see pp. 89–94 [[Barnes 2020 available online](https://doi.org/10.1515/9783110685008-008)].
 
 [^bazán-1969]: Bazán, B. Carlos, 1969, “Pluralisme de formes ou dualisme de substances?”, *Revue philosophique de Louvain*, 67: 30–73.
 
@@ -353,7 +353,7 @@ Arabic and Islamic Philosophy, historical and methodological topics in: influenc
 
 [^grice-2020]: Grice, Deborah, 2020, *Church, Society and University: The Paris Condemnation of 1241/4*, London/New York: Routledge.
 
-[^hasse-2000]: Hasse, Dag N., 2000, *Avicenna’s*De anima *in the Latin West: The Formation of a Peripatetic Philosophy of the Soul, 1160–1300*, London/Turin: The Warburg Institute – Nino Aragno Editore.
+[^hasse-2000]: Hasse, Dag N., 2000, *Avicenna’s* De anima *in the Latin West: The Formation of a Peripatetic Philosophy of the Soul, 1160–1300*, London/Turin: The Warburg Institute – Nino Aragno Editore.
 
 [^iribarren-2017]: Iribarren, Isabel, 2017, “L’Empyrée et ses habitants au Moyen Âge”, *Revue des sciences religieuses*, 91(2): 181–192 [[Iribarren 2017 available online](https://doi.org/10.4000/rsr.3895)].
 
@@ -415,7 +415,7 @@ Arabic and Islamic Philosophy, historical and methodological topics in: influenc
 
 [^smith-2005]: –––, 2005, “William of Auvergne and the Law of the Jews and the Muslims”, in Thomas Heffernan and Thomas E. Burman (eds.), *Scripture and Pluralism: Reading the Bible in the Religiously Plural Worlds of the Middle Ages and Renaissance*, Leiden/Boston: Brill, pp. 123–142.
 
-[^smith-2020]: –––, 2020, “Slippers in Heaven: William of Auvergne Preaching to the Brethren”, in Lydia Schumacher (ed.), *The*Summa Halensis: *Sources and Context*, Berlin/Boston: De Gruyter, pp. 285–298 [[Smith 2020 available online](https://doi.org/10.1515/9783110685022-019)].
+[^smith-2020]: –––, 2020, “Slippers in Heaven: William of Auvergne Preaching to the Brethren”, in Lydia Schumacher (ed.), *The* Summa Halensis: *Sources and Context*, Berlin/Boston: De Gruyter, pp. 285–298 [[Smith 2020 available online](https://doi.org/10.1515/9783110685022-019)].
 
 [^teske-1990]: Teske, Roland J., 1990, “The Identity of the *Italici* in William of Auvergne’s Discussion of the Eternity of the World”, *Proceedings of the PMR Conference*, 15: 191–203; reprinted in Teske 2006, pp. 53–63.
 

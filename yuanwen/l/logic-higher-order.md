@@ -61,7 +61,7 @@ In order to define the semantics of second-order logic we have to agree what our
 
 We use the same concept of an *L*-structure (or equivalently, an *L*-model) as in first order logic. That is, an *L*-*structure* $\mm$ has a *domain* *M*, which is any non-empty set, an *interpretation* $c^\mm \in M$ of any constant symbol *c* of *L*, an interpretation $R^\mm \subseteq M^n$ of any *n*-ary relation symbol *R* of *L*, as well as an interpretation $H^\mm : M^n \to M$ of any *n*-ary function symbol *H* of *L*. In principle, the domain could be a class but we disregard this possibility here. For a discussion on the set/class distinction in this context, we refer to Shapiro (1991, p. 16).
 
-Convention: Whenever we use upper case Fraktur letters, such as $\mm,\mn$ etc, to name a structure, we use the upper case Italic versions of those letters, such as $M,N$ etc, to name the domain of the structure.
+**Convention:** Whenever we use upper case Fraktur letters, such as $\mm,\mn$ etc, to name a structure, we use the upper case Italic versions of those letters, such as $M,N$ etc, to name the domain of the structure.
 
 Given an *L*-structure $\mm$, an *assignment* is a function *s* from variables to the domain *M* of $\mm$ such that: if *x* is an individual variable, then $s(x) \in M$; if *X* is relation variable of arity *n*, then $s(X) \subseteq M^n$; if *F* is function variable of arity *n*, then $s(F) : M^n \to M$. We use $s(P/X)$ to denote the assignment which is otherwise as *s* except that the value at *X* has been changed to *P*. Similarly $s(a/x)$ and $s(f/F)$.
 

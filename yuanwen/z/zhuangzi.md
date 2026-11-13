@@ -468,7 +468,7 @@ The weak skeptical conclusion is most strikingly expressed in the observation th
 
 Chinese Philosophy: epistemology | Chinese Philosophy: ethics | Chinese Philosophy: Mohism | Chinese Philosophy: Mohist Canons | Daoism | Laozi | Neo-Daoism | School of Names
 
-[^for-nd]: For the convenience of the internet reader, citations from classical texts are referenced to the chapter and paragraph number in [Online Original https://ctext.org](https://ctext.org/). Translations of the *Zhuangzi* in this article are those of its author. A public domain translation accompanies the Online Original on the site and the reader can easily access a character-by-character standard dictionary translation of the passages by clicking the blue “jump to dictionary” icon. Other tranlsations of the *Zhuangzi*include:
+[^for-nd]: For the convenience of the internet reader, citations from classical texts are referenced to the chapter and paragraph number in [Online Original https://ctext.org](https://ctext.org/). Translations of the *Zhuangzi* in this article are those of its author. A public domain translation accompanies the Online Original on the site and the reader can easily access a character-by-character standard dictionary translation of the passages by clicking the blue “jump to dictionary” icon. Other tranlsations of the *Zhuangzi* include:
 
 [^graham-1981]: Graham, Angus C. (trans.), 1981, *Chuang-tzŭ: The Seven Inner Chapters and Other Writings from the Book Chuang-tzŭ*, Boston: Allen and Unwin.
 

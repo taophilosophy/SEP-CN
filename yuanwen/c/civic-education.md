@@ -38,7 +38,7 @@ All persons, whatever their occupations or tasks, were teachers, and the purpose
 
 ### 1.2 Classical Liberalism
 
-Ancient and medieval thinkers generally assumed that good government and good citizenship were intimately related, because a regime would degenerate unless its people actively and virtuously supported it. Aristotle regarded his *Politics* and his *Ethics*as part of the same subject. In his view, a city-state could not be just and strong unless its people were virtuous, and men could not exercise the political virtues (which were intrinsically admirable, dignified, and satisfying) unless they lived in a just polity. Civic virtue was especially important in a democratic or mixed regime, but even in a monarchy or oligarchy, people were expected to sustain the political community.
+Ancient and medieval thinkers generally assumed that good government and good citizenship were intimately related, because a regime would degenerate unless its people actively and virtuously supported it. Aristotle regarded his *Politics* and his *Ethics* as part of the same subject. In his view, a city-state could not be just and strong unless its people were virtuous, and men could not exercise the political virtues (which were intrinsically admirable, dignified, and satisfying) unless they lived in a just polity. Civic virtue was especially important in a democratic or mixed regime, but even in a monarchy or oligarchy, people were expected to sustain the political community.
 
 Today, the view that the best life is one of active participation in a community that relies on and encourages active engagement is often called “civic republicanism,” and it has been developed by authors like Wolin (1989), Barber (1992) and Hannah Arendt.
 

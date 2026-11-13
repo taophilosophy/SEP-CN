@@ -210,13 +210,13 @@ In the moral *Enquiry* Hume is more explicit about what he takes to be the error
 
 Hume, David | property and ownership
 
-[^treatise-2007]: *A Treatise of Human Nature: A Critical Edition*, David Fate Norton and Mary J. Norton (eds.), Oxford, Clarendon Press, 2007. (References to this work start with T and are followed by Book, Part, Section and paragraph number, in parentheses in the text.)
+[^treatise-2007]: *A Treatise of Human Nature: A Critical Edition*, David Fate Norton and Mary J. Norton (eds.), Oxford, Clarendon Press, 2007. (References to this work start with **T** and are followed by Book, Part, Section and paragraph number, in parentheses in the text.)
 
 [^treatise-2000]: *A Treatise of Human Nature* (Oxford Philosophical Texts), David Fate Norton and Mary J. Norton (eds.), Oxford, Clarendon Press, 2000.
 
 [^treatise-1975]: *A Treatise of Human Nature*, L. A. Selby-Bigge (ed.), 2nd ed. revised by P.H. Nidditch, Oxford: Clarendon Press, 1975.
 
-[^an-1998]: *An Enquiry Concerning the Principles of Morals*, Tom L. Beauchamp (ed.) (The Claredon Edition of the Works of David Hume), Oxford, Oxford University Press, 1998. (References to this work start with EPM and are followed by Part, Section (if any), and paragraph number, in parentheses within the text.)
+[^an-1998]: *An Enquiry Concerning the Principles of Morals*, Tom L. Beauchamp (ed.) (The Claredon Edition of the Works of David Hume), Oxford, Oxford University Press, 1998. (References to this work start with **EPM** and are followed by Part, Section (if any), and paragraph number, in parentheses within the text.)
 
 [^enquiry-1975]: *Enquiry concerning Human Understanding*, in *Enquiries concerning Human Understanding and concerning the Principles of Morals*, L. A. Selby-Bigge (ed.), 3rd ed revised by P. H. Nidditch, Oxford: Clarendon Press, 1975
 

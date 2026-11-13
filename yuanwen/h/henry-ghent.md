@@ -355,7 +355,7 @@ The author would like to thank Lisa Adams for checking over the entry with an ey
 
 [^porro-2011]: ––– (2011). “*Res a reor reris* / *Res a ratitudine*, Autour d’Henri de Gand,” in I. Atucha / D. Calma / C. König-Pralong / I. Zavattero, eds., *Mots médiévaux offerts à Ruedi Imbach*, Turnhout: Brepols (Textes et Études du Moyen Âge, 57), pp. 617-628.
 
-[^porro-2013]: ––– (2013). “*Prudentia universalis*,*prudentia experimentalis* e virtù morali: Enrico di Gand sul circolo aristotelico di saggezza e bontà, ” in A. Fidora / A. Niederberger / M. Scattola, eds., *Phronêsis - Prudentia - Klugheit. Das Wissen des Klugen in Mittelalter, Renaissance und Neuzeit. La prudenza del saggio nel Medioevo, nel Rinascimento e nell’età moderna*, Porto: Fidem (Textes et Études du Moyen Âge, 68), pp. 93-121.
+[^porro-2013]: ––– (2013). “*Prudentia universalis*, *prudentia experimentalis* e virtù morali: Enrico di Gand sul circolo aristotelico di saggezza e bontà, ” in A. Fidora / A. Niederberger / M. Scattola, eds., *Phronêsis - Prudentia - Klugheit. Das Wissen des Klugen in Mittelalter, Renaissance und Neuzeit. La prudenza del saggio nel Medioevo, nel Rinascimento e nell’età moderna*, Porto: Fidem (Textes et Études du Moyen Âge, 68), pp. 93-121.
 
 [^porro-2014]: ––– (2014). “*Prima rerum creatarum est esse*: Henri de Gand, Gilles de Rome et la quatrième proposition du *De causis*, ” in V. Cordonier / T. Suarez-Nani, eds., *L'aristotélisme exposé. Aspects du débat philosophique entre Henri de Gand et Gilles de Rome*, Fribourg: Academic Press (Dokimion, 38), pp. 55-81.
 

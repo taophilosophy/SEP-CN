@@ -55,7 +55,9 @@ If *H* then I do not know that $p$.
 
 For any statement $p$ about the world around me that I believe and every hypothesis *H* that satisfies (C1) and (C2) for my belief that $p$, there is a corresponding Cartesian skeptical argument of the form:
 
-> If I know that $p$, then I know that not *H*. I do not know that not *H*. Therefore, I do not know that $p$.
+> If I know that $p$, then I know that not *H*.
+> I do not know that not *H*.
+> Therefore, I do not know that $p$.
 
 Arguments of this form are designed “to convince us, on the basis of assumptions we ourselves hold, that all or a large part of our claims about the empirical world cannot amount to knowledge” (Putnam 1994: 284)[^putnam-1994].
 

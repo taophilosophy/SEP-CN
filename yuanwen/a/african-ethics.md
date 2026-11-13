@@ -120,7 +120,8 @@ These two concepts, humanity and brotherhood, feature prominently in African soc
 
 We start our discussion with the Akan maxim:
 
-> Humanity has no boundary. (*Honam mu nni nhanoa*)
+> Humanity has no boundary.
+> (*Honam mu nni nhanoa*)
 
 The Akan maxim literally means: ‘In human flesh there is no edge of cultivation—no boundary’ (*nhanoa).* The maxim can be interpreted as meaning that ‘all humankind is one species’, thus, that ‘Humanity has no boundary.’ When the farmer cultivates his land, he does it up to a limit, an edge (in Akan: *nhanoa*, edge, boundary) where he has to stop, otherwise he would trespass on another farmer's land. There is, thus, a limit to the area of cultivation of land. But this, the maxim invites us to realize, is not so in the cultivation of the friendship and fellowship of human beings; the boundaries of *that* form of cultivation are limitless. For, humanity is of one kind; all humankind is one species, with shared basic values, feelings, hopes, and desires.
 
@@ -128,7 +129,9 @@ This is most probably the reason why in almost all the autochthonous African lan
 
 The common membership of one universal human family constitutes (should constitute) a legitimate basis for the idea of universal human brotherhood (or unity). This idea is depicted in, for instance, the Akan maxim:
 
-> A human being's brother is a (or another) human being. (Or, ‘Man's brother is man.’) (*Onipa nua ne onipa*)
+> A human being's brother is a (or another) human being.
+> (Or, ‘Man's brother is man.’)
+> (*Onipa nua ne onipa*)
 
 The maxim asserts unmistakably that a human being can be related *only* to another human being, *not* to a beast. Implicit in the African perception of humanity is the recognition of all persons, irrespective of their racial or ethnic backgrounds, as brothers. This is the reason why in African cultures the word ‘brother’ is used to cover various and complex family relationships linked by blood ties. But the word is also used, significantly, by persons between whom there are no blood ties; thus, the word is used comprehensively. The comprehensive meaning given to the word ‘brother’ in African cultures is intended, indeed, to lift people up from the purely biologically determined blood relation level onto the human level, the level where the essence of humanity is held as transcending the contingencies of human biology, race, ethnicity, or culture.
 
@@ -144,7 +147,8 @@ Most people, including foreign visitors to Africa, often testify, in amazement, 
 
 As regards the African conception of the worth and dignity of the human being, there is time to refer only to a couple of Akan maxims. One such maxim is:
 
-> The human being is more beautiful than gold. (*onipa ye fe sen sika*)
+> The human being is more beautiful than gold.
+> (*onipa ye fe sen sika*)
 
 In this maxim a human being is depicted as beautiful. That which is beautiful is enjoyed for its own sake, not for the sake of anything else. What the maxim is saying, therefore, is that a human being is to be enjoyed for his or her own sake. To enjoy a human being for his/her own sake means you should appreciate his value as a human being and demonstrate that appreciation by showing compassion, generosity, and hospitality. It means you should be open to the interests and welfare of others and feel it a moral duty to offer help where it is needed. To enjoy a human being also means you should recognize the other person as a fellow individual whose worth as a human being is equal to yours and with whom you undoubtedly share basic values, ideals, and sentiments. Thus, the main intent of the maxim is to point out the worth of a human being and the respect that ought to be given to her by virtue of her humanity. Recognition of the worth of a human being is, according to the maxim, more important than caring for wealth.
 
@@ -180,31 +184,37 @@ A humanistic morality, whose central focus is the concern for the welfare and in
 
 African social ethic is expressed in many maxims (or, proverbs) that emphasize the importance of the values of mutual helpfulness, collective responsibility, cooperation, interdependence, and reciprocal obligations. Let me refer to a few of these, from the Akan repertoire:
 
-> The well-being of man depends on his fellow man. (*onipa yieye firi onipa*)
+> The well-being of man depends on his fellow man.
+> (*onipa yieye firi onipa*)
 
 The point of this proverb is, not that a person should always look to another (or others) for his well-being and the attainment of his goals, but that there are occasions when the demonstration by another person (or other persons) of goodwill, sympathy, compassion, and the willingness to help can be a great boost to a person's attempts to achieve his goals, to fulfill his life. The dependency noted in the foregoing proverb is to be put down to the limited nature of the possibilities of the human individual. Human limitations are in fact expressed in the following Akan proverb:
 
-> Man is not a palm-tree that he should be complete (or, self sufficient). (*onipa nye abe na ne ho ahyia ne ho*)
+> Man is not a palm-tree that he should be complete (or, self sufficient).
+> (*onipa nye abe na ne ho ahyia ne ho*)
 
 The proverb points up the inadequacies of the human being that make it impossible for him to fulfill his life, socially, economically, emotionally, psychologically, and so on. It is evidently true that in the context of the society, in terms of functioning or flourishing in a human society, the human individual is not sufficient, for her capacities, talents, and dispositions are not adequate for the realization of her potential and basic needs. It is only through cooperation with other human beings that the needs and goals of the individual can be fulfilled. With his self-sufficiency whittled away by man's natural condition, the individual requires the succor and relationships of others in order to satisfy his basic needs. A social ethic that recognizes the importance of the values of mutual help, goodwill, and reciprocity is the kind of ethic that will counter the lack of human self-sufficiency in respect of talents and capacities and in many ways help realize his basic needs.
 
 Reciprocity and interdependence are forthrightly expressed in the following Akan maxims:
 
-> The right arm washes the left arm and the left arm washes the right arm. (*wo nsa nifa hohorow benkum, na benkum nso hohorow nifa*)
+> The right arm washes the left arm and the left arm washes the right arm.
+> (*wo nsa nifa hohorow benkum, na benkum nso hohorow nifa*)
 
 That the left arm cannot wash itself is of course a matter of everyday experience. It is when the two arms wash each other that both become clean: thus, the need for interdependence.
 
-> Life is mutual aid. (*Obra ye nnoboa*)
+> Life is mutual aid.
+> (*Obra ye nnoboa*)
 
 The Akan word *nnoboa* means ‘helping each other to work on the farm’. In the farming communities of rural Ghana, when a farmer realizes that work on the farm cannot be completed within a certain time if he did it single-handedly, he would request the assistance and support of other farmers in the community. The other farmers would readily lend a helping hand to that farmer, who would, in this way, achieve his productivity goals and do so on time. The same request would, when necessary, be made by the other farmers on different occasions. It is this kind of experience that led an Akan traditional thinker to create this proverb which, because of the word ‘life’ (*obra*), has been made to cover other spheres of the human life than the purely economic (or agricultural). Refusing to offer help to others and consistently seeking one's own good and disregarding the good of others will result in one's being denied the help and goodwill that may be necessary to achieve certain ends. Since you refused to help someone who needed your help or someone who was in distress, you are likely to meet the same refusal or denial when you need some help—perhaps more help at that. The morality of a shared life, as in any community, thus demands mutuality or reciprocity as a moral mandate in a world in which human beings, weak and limited in many ways, are subject to vulnerable situations. Mutual aid, then, becomes a moral obligation.
 
 That a human being, due to her limitations, deserved to be helped is expressed in the following maxim:
 
-> A human being needs help. (*onipa hia moa*)
+> A human being needs help.
+> (*onipa hia moa*)
 
 The Akan word translated ‘needs’ is *hia*, which, as used in this maxim, has a normative connotation; thus, it does more than simply expressing a fact about human life or the human condition. The real meaning of the maxim, then, is that a human being deserves, and therefore ought, to be helped. It also means that a human being must be regarded as an object of moral concern and should therefore be entitled to help by others in the appropriate circumstances. The reason why you should help someone in need is also given in the following maxim, among others:
 
-> Your neighbor's situation is [potentially] your situation. (*Wo yonko da ne wo da*)
+> Your neighbor's situation is [potentially] your situation.
+> (*Wo yonko da ne wo da*)
 
 Two important things about this maxim need to be pointed out. One is that the maxim is uttered in references only to the pitiable, miserable or unfortunate situation of another person (referred to in the maxim as “your neighbor”—*wo yonko*) or other people (your “neighbors”). These unfortunate situations or circumstances insistently call for the demonstration of sympathy, compassion, and willingness to offer some help. The other important thing about this maxim is that the word ‘neighbor’ in the maxim does not necessarily refer to the person next door or in one's community but to *any* other person in your community and beyond: even in far-off places.
 
@@ -212,7 +222,8 @@ The basic or ultimate thrust of the maxim is that you should not show insensitiv
 
 Insensitivity to the needs and hardships or suffering situations of others is repudiated in Akan morality, as it is, indeed, repudiated in the moralities of all human cultures. In Akan moral thought and practice, a maxim that rebukes the lack of feeling for others is put thus:
 
-> When it sticks into your neighbor's flesh, it is as if it stuck into a piece of wood. (*etua wo yonko ho a, etua dua mu*)
+> When it sticks into your neighbor's flesh, it is as if it stuck into a piece of wood.
+> (*etua wo yonko ho a, etua dua mu*)
 
 “Sticking into your neighbor's flesh (or, body)” is another way of referring to the suffering, misfortune, hardship, or pain of another person. When something, such as a needle, sticks into your own flesh or body, you feel the pain. If it stuck into another person's—your neighbor's—flesh, you would not directly feel the pain. Even so, you should not feel insensitive to the pain or suffering of that person and shrug off your moral shoulders, for the other person's body is certainly *not* a piece of wood that cannot feel pain.
 

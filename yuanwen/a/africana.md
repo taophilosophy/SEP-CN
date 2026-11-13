@@ -708,7 +708,7 @@ Africana Philosophy: contemporary | African Philosophy: ethics | African Philoso
 
 [^madhubuti-1992]: Madhubuti, Haki R., 1992, *Don’t Cry, Scream*, Chicago, IL: Third World Press.
 
-[^madhubuti-1994]: –––, 1994, *Claiming Earth: Race Rage, Rape*,*Redemption: Blacks Seeking a Culture of Enlightened Empowerment*, Chicago, IL: Third World Press.
+[^madhubuti-1994]: –––, 1994, *Claiming Earth: Race Rage, Rape*, *Redemption: Blacks Seeking a Culture of Enlightened Empowerment*, Chicago, IL: Third World Press.
 
 [^madhubuti-2020]: –––, 2020, *Taught By Women, Poems as Resistance Language*, Chicago, IL: Third World Press.
 

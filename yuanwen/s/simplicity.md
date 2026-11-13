@@ -259,7 +259,8 @@ Ranged against the principles of parsimony discussed in previous sections is an 
 
 A related counter-principle was later defended by Kant:
 
-> The variety of entities should not be rashly diminished (Kant 1781/1787, p. 541)[^kant-1781]. *Entium varietates non temere esse minuendas*.
+> The variety of entities should not be rashly diminished (Kant 1781/1787, p. 541)[^kant-1781].
+> *Entium varietates non temere esse minuendas*.
 
 There is no inconsistency in the coexistence of these two families of principles, for they are not in direct conflict with each other. Considerations of parsimony and of explanatory sufficiency function as mutual counter-balances, penalizing theories which stray into explanatory inadequacy or ontological excess.[^note-23] What we see here is an historical echo of the contemporary debate among statisticians concerning the proper trade-off between simplicity and goodness of fit.
 

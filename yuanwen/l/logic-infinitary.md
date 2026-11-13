@@ -14,7 +14,7 @@ Given a pair κ, λ of infinite cardinals such that λ ≤ κ, we define a class
 Let L — the (finitary) *base language* — be an arbitrary but fixed first-order language with any number of extralogical symbols. The infinitary language L(κ,λ) has the following *basic symbols*:
 
 - All symbols of L
-- A set Var of individual variables, where the cardinality of Var (written: |Var|) is κ
+- A set **Var** of individual variables, where the cardinality of **Var** (written: |**Var**|) is κ
 - A logical operator ∧ (*infinitary conjunction*)
 
 The class of *preformulas* of L(κ,λ) is defined recursively as follows:
@@ -22,7 +22,7 @@ The class of *preformulas* of L(κ,λ) is defined recursively as follows:
 - Each formula of L is a preformula;
 - if φ and ψ are preformulas, so are φ∧ψ and ¬φ;
 - if Φ is a set of preformulas such that |Φ| < κ, then ∧Φ is a preformula;
-- if φ is a preformula and *X* ⊆ Var is such that |*X*| < λ, then ∃*X*φ is a preformula;
+- if φ is a preformula and *X* ⊆ **Var** is such that |*X*| < λ, then ∃*X*φ is a preformula;
 - all preformulas are defined by the above clauses.
 
 If Φ is a set of preformulas indexed by a set *I*, say Φ = {φ_{*i*} : *i* ∈ *I*}, then we agree to write ∧Φ for:
@@ -51,7 +51,7 @@ Notice the following *anomaly* which can arise in an infinitary language but not
 
 where L contains the binary relation symbol <. For this reason we make the following
 
-> Definition. A *formula* of L(κ,λ) is a preformula which contains < λ free variables. The set of all formulas of L(κ,λ) will be denoted by Form(L(κ,λ)) or simply Form(κ,λ) and the set of all sentences by Sent(L(κ,λ)) or simply Sent(κ,λ).
+> **Definition**. A *formula* of L(κ,λ) is a preformula which contains < λ free variables. The set of all formulas of L(κ,λ) will be denoted by **Form**(L(κ,λ)) or simply **Form**(κ,λ) and the set of all sentences by **Sent**(L(κ,λ)) or simply **Sent**(κ,λ).
 
 In this connection, observe that, in general, nothing would be gained by considering “languages” L(κ,λ) with λ > κ. For example, in the “language” L(ω,ω₁), formulas will have only finitely many free variables, while there will be a host of “useless” quantifiers able to bind infinitely many free variables.[^note-2]
 
@@ -61,19 +61,19 @@ Having defined the syntax of L(κ,λ), we next sketch its *semantics*. Since the
 >
 > ∃*X*φ is satisfied in *A*  ⇔  there is a sequence of elements from the domain of *A* in bijective correspondence with *X* which satisfies φ in *A*.
 
-These informal definitions need to be tightened up in a rigorous development, but their meaning should be clear to the reader. Now the usual notions of *truth, validity, satisfiability*, and *model* for formulas and sentences of L(κ,λ) become available. In particular, if *A* is an L-structure and σ ∈ Sent(κ,λ), we shall write *A* ⊨ σ for A is a model of σ, and ⊨ σ for σ *is valid*, that is, for all *A*, *A* ⊨ σ. If Δ ⊆ Sent(κ,λ), we shall write Δ ⊨ σ for σ *is a logical consequence of* Δ, that is, each model of Δ is a model of σ.
+These informal definitions need to be tightened up in a rigorous development, but their meaning should be clear to the reader. Now the usual notions of *truth, validity, satisfiability*, and *model* for formulas and sentences of L(κ,λ) become available. In particular, if *A* is an L-structure and σ ∈ **Sent**(κ,λ), we shall write *A* ⊨ σ for **A** is a model of σ, and ⊨ σ for σ *is valid*, that is, for all *A*, *A* ⊨ σ. If Δ ⊆ **Sent**(κ,λ), we shall write Δ ⊨ σ for σ *is a logical consequence of* Δ, that is, each model of Δ is a model of σ.
 
 We now give some examples intended to display the expressive power of the infinitary languages L(κ,λ) with κ ≥ ω₁. In each case it is well-known that the notion in question cannot be expressed in any first-order language.
 
-Characterization of the standard model of arithmetic in L(ω₁,ω). Here the *standard model of arithmetic* is the structure N = ⟨*N*, +, ·, *s*, 0⟩, where *N* is the set of natural numbers, +, ·, and 0 have their usual meanings, and *s* is the successor operation. Let L be the first-order language appropriate for N. Then the class of L-structures isomorphic to N coincides with the class of models of the conjunction of the following L(ω₁,ω) sentences (where 0 is a name of 0):
+**Characterization of the standard model of arithmetic in** L(ω₁,ω). Here the *standard model of arithmetic* is the structure **N** = ⟨*N*, +, ·, *s*, 0⟩, where *N* is the set of natural numbers, +, ·, and 0 have their usual meanings, and *s* is the successor operation. Let L be the first-order language appropriate for **N**. Then the class of L-structures isomorphic to **N** coincides with the class of models of the conjunction of the following L(ω₁,ω) sentences (where **0** is a name of 0):
 
-> ∧_{*m*∈ω} ∧_{*n*∈ω} *s*^{*m*}0 + *s*^{*n*}0 = *s*^{*m*+*n*}0
+> ∧_{*m*∈ω} ∧_{*n*∈ω} *s*^{*m*}**0** + *s*^{*n*}**0** = *s*^{*m*+*n*}**0**
 >
-> ∧_{*m*∈ω} ∧_{*n*∈ω} *s*^{*m*}0 · *s*^{*n*}0 = *s*^{*m*·*n*}0
+> ∧_{*m*∈ω} ∧_{*n*∈ω} *s*^{*m*}**0** · *s*^{*n*}**0** = *s*^{*m*·*n*}**0**
 >
-> ∧_{*m*∈ω} ∧_{*n*∈ω−{*m*}} *s*^{*m*}0 ≠ *s*^{*n*}0
+> ∧_{*m*∈ω} ∧_{*n*∈ω−{*m*}} *s*^{*m*}**0** ≠ *s*^{*n*}**0**
 >
-> ∀*x*∨_{*m*∈ω} *x* = *s*^{*m*}0
+> ∀*x*∨_{*m*∈ω} *x* = *s*^{*m*}**0**
 
 The terms *sⁿx* are defined recursively by
 
@@ -81,21 +81,21 @@ The terms *sⁿx* are defined recursively by
 > | --- | --- | --- |
 > | *s*^{*n*+1}*x* | = | *s*(*sⁿx*) |
 
-Characterization of the class of all finite sets in L(ω₁,ω). Here the base language has no extralogical symbols. The class of all finite sets then coincides with the class of models of the L(ω₁,ω)-sentence
+**Characterization of the class of all finite sets in** L(ω₁,ω). Here the base language has no extralogical symbols. The class of all finite sets then coincides with the class of models of the L(ω₁,ω)-sentence
 
 > ∨_{*n*∈ω} ∃*v*₀ … ∃*vₙ*∀*x*(*x* = *v*₀ ∨ … ∨ *x* = *vₙ*).
 
-Truth definition in L(ω₁,ω) for a countable base language L. Let L be a countable first-order language (for example, the language of arithmetic or set theory) which contains a name *n* for each natural number *n*, and let σ₀, σ₁, … be an enumeration of its sentences. Then the L(ω₁,ω)-formula
+**Truth definition in** L(ω₁,ω) **for a countable base language** L. Let L be a countable first-order language (for example, the language of arithmetic or set theory) which contains a name *n* for each natural number *n*, and let σ₀, σ₁, … be an enumeration of its sentences. Then the L(ω₁,ω)-formula
 
-> Tr(*x*)  =*_{df}*  ∨_{*n*∈ω} (x = n ∧ σ*ₙ*)
+> **Tr**(*x*)  =*_{df}*  ∨_{*n*∈ω} (x = **n** ∧ σ*ₙ*)
 
 is a *truth predicate* for L inasmuch as the sentence
 
-> Tr(*n*) ↔ σ*ₙ*
+> **Tr**(*n*) ↔ σ*ₙ*
 
 is valid for each *n*.
 
-Characterization of well-orderings in L(ω₁,ω₁). The base language L here includes a binary predicate symbol ≤. Let σ₁ be the usual L-sentence characterizing linear orderings. Then the class of L-structures in which the interpretation of ≤ is a well-ordering coincides with the class of models of the L(ω₁,ω₁) sentence σ = σ₁ ∧ σ₂, where
+**Characterization of well-orderings in** L(ω₁,ω₁). The base language L here includes a binary predicate symbol ≤. Let σ₁ be the usual L-sentence characterizing linear orderings. Then the class of L-structures in which the interpretation of ≤ is a well-ordering coincides with the class of models of the L(ω₁,ω₁) sentence σ = σ₁ ∧ σ₂, where
 
 > σ₂ =*_{df}* (∀*vₙ*)_{*n*∈ω} ∃*x* [∨_{*n*∈ω} (*x = vₙ*) ∧ ∧_{*n*∈ω} (*x* ≤ *vₙ*)].
 
@@ -103,11 +103,11 @@ Notice that the sentence σ₂ contains an *infinite quantifier*: it expresses t
 
 Many extensions of first-order languages can be *translated* into infinitary languages. For example, consider the generalized quantifier language L(*Q*₀) obtained from L by adding a new quantifier symbol *Q*₀ and interpreting *Q*₀*x*φ(*x*) as *there exist infinitely many x such that* φ(*x*). It is easily seen that the sentence *Q*₀*x*φ(*x*) has the same models as the L(ω₁,ω)-sentence
 
-> ¬∨_{*n*∈ω} ∃*v*₀…∃*vₙ*∀*x*[φ(*x*) → (*x = v*₀ ∨ … ∨ *x = vₙ*)].
+> ¬∨_{*n*∈ω} ∃*v*₀…∃*vₙ*∀ *x*[φ(*x*) → (*x = v*₀ ∨ … ∨ *x = vₙ*)].
 
 Thus L(*Q*₀) is, in a natural sense, translatable into L(ω₁,ω). Another language translatable into L(ω₁,ω) in this sense is the *weak second-order language* obtained by adding a countable set of monadic predicate variables to L which are then interpreted as ranging over all *finite* sets of individuals.
 
-Languages with arbitrarily long conjunctions, disjunctions and (possibly) quantifications may also be introduced. For a fixed infinite cardinal λ, the language L(∞,λ) is defined by specifying its class of formulas, Form(∞,λ), to be the union, over all κ ≥ λ, of the sets Form(κ,λ). Thus L(∞,λ) allows arbitrarily long conjunctions and disjunctions, in the sense that if Φ is an arbitrary subset of Form(∞,λ), then both ∧Φ and ∨Φ are members of Form(∞,λ). But L(∞,λ) admits only quantifications of length < λ: all its formulas have < λ free variables. The language L(∞,∞) is defined in turn by specifying its class of formulas, Form(∞,∞), to be the union, over all infinite cardinals λ, of the classes Form(∞,λ). So L(∞,∞) allows arbitrarily long quantifications in addition to arbitrarily long conjunctions and disjunctions. Note that Form(∞,λ) and Form(∞,∞) are proper classes in the sense of Gödel-Bernays set theory. Satisfaction of formulas of L(∞,λ) and L(∞,∞) in a structure may be defined by an obvious extension of the corresponding notion for L(κ,λ).
+Languages with arbitrarily long conjunctions, disjunctions and (possibly) quantifications may also be introduced. For a fixed infinite cardinal λ, the language L(∞,λ) is defined by specifying its class of formulas, **Form**(∞,λ), to be the union, over all κ ≥ λ, of the sets **Form**(κ,λ). Thus L(∞,λ) allows arbitrarily long conjunctions and disjunctions, in the sense that if Φ is an arbitrary subset of **Form**(∞,λ), then both ∧Φ and ∨Φ are members of **Form**(∞,λ). But L(∞,λ) admits only quantifications of length < λ: all its formulas have < λ free variables. The language L(∞,∞) is defined in turn by specifying its class of formulas, **Form**(∞,∞), to be the union, over all infinite cardinals λ, of the classes **Form**(∞,λ). So L(∞,∞) allows arbitrarily long quantifications in addition to arbitrarily long conjunctions and disjunctions. Note that **Form**(∞,λ) and **Form**(∞,∞) are proper classes in the sense of Gödel-Bernays set theory. Satisfaction of formulas of L(∞,λ) and L(∞,∞) in a structure may be defined by an obvious extension of the corresponding notion for L(κ,λ).
 
 ## 2. Finite-Quantifier Languages
 
@@ -117,7 +117,7 @@ The language L(ω₁,ω) occupies a special place among infinitary languages bec
 
 > ∧Φ → φ
 
-for any countable set Φ ⊆ Form(ω₁,ω) and any φ ∈ Φ, together with the new rule of inference
+for any countable set Φ ⊆ **Form**(ω₁,ω) and any φ ∈ Φ, together with the new rule of inference
 
 > | φ₀, φ₁, …, φ*ₙ*, … |
 > | --- |
@@ -125,15 +125,15 @@ for any countable set Φ ⊆ Form(ω₁,ω) and any φ ∈ Φ, together with the
 
 and allow deductions to be of countable length. Writing ⊢* for deducibility in this sense, we then have the
 
-> L(ω₁,ω)-Completeness Theorem. For any σ ∈ Sent(ω₁,ω), ⊨ σ  ⇔  ⊢*σ
+> L(ω₁,ω)-**Completeness Theorem**. For any σ ∈ **Sent**(ω₁,ω), ⊨ σ  ⇔  ⊢*σ
 
-As an immediate corollary we infer that this deductive apparatus is *adequate for deductions from countable sets of premises in* L(ω₁,ω). That is, with the obvious extension of notation, we have, for any *countable* set Δ ⊆ Sent(ω₁,ω)
+As an immediate corollary we infer that this deductive apparatus is *adequate for deductions from countable sets of premises in* L(ω₁,ω). That is, with the obvious extension of notation, we have, for any *countable* set Δ ⊆ **Sent**(ω₁,ω)
 
 > (2.1) Δ ⊨ σ  ⇔  Δ⊢*σ
 
 This completeness theorem can be proved by modifying the usual Henkin completeness proof for first-order logic, or by employing Boolean-algebraic methods. Similar arguments, applied to suitable further augmentations of the axioms and rules of inference, yield analogous completeness theorems for many other finite-quantifier languages.
 
-If just deductions of countable length are admitted, then no deductive apparatus for L(ω₁,ω) can be set up which is adequate for deductions from *arbitrary* sets of premises, that is, for which (2.1) would hold for every set Δ ⊆ Sent(ω₁,ω), *regardless of cardinality*. This follows from the simple observation that there is a first-order language L and an uncountable set Γ of L(ω₁,ω)-sentences such that Γ *has no model but every countable subset of* Γ *does*. To see this, let L be the language of arithmetic augmented by ω₁ new constant symbols {c_{ξ} : ξ < ω₁} and let Γ be the set of L(ω₁,ω)-sentences {σ} ∪ {*c*_{ξ} ≠ c_{η} : ξ ≠ η}, where σ is the L(ω₁,ω)-sentence characterizing the standard model of arithmetic. This example also shows that the *compactness theorem* fails for L(ω₁,ω) and so also for any L(κ,λ) with κ ≥ ω₁.
+If just deductions of countable length are admitted, then no deductive apparatus for L(ω₁,ω) can be set up which is adequate for deductions from *arbitrary* sets of premises, that is, for which (2.1) would hold for every set Δ ⊆ **Sent**(ω₁,ω), *regardless of cardinality*. This follows from the simple observation that there is a first-order language L and an uncountable set Γ of L(ω₁,ω)-sentences such that Γ *has no model but every countable subset of* Γ *does*. To see this, let L be the language of arithmetic augmented by ω₁ new constant symbols {**c**_{ξ} : ξ < ω₁} and let Γ be the set of L(ω₁,ω)-sentences {σ} ∪ {*c*_{ξ} ≠ **c**_{η} : ξ ≠ η}, where σ is the L(ω₁,ω)-sentence characterizing the standard model of arithmetic. This example also shows that the *compactness theorem* fails for L(ω₁,ω) and so also for any L(κ,λ) with κ ≥ ω₁.
 
 Another result which holds in the first-order case but fails for L(κ,ω) with κ ≥ ω₁ (and also for L(ω₁,ω₁), although this is more difficult to prove) is the *prenex normal form theorem*. A sentence is *prenex* if all its quantifiers appear at the front; we give an example of an L(ω₁,ω)-sentence which is not equivalent to a conjunction of prenex sentences. Let L be the first-order language without extralogical symbols and let σ be the L(ω₁,ω)-sentence which characterizes the class of finite sets. Suppose that σ were equivalent to a conjunction
 
@@ -145,11 +145,11 @@ of prenex L(ω₁,ω)-sentences σ*ᵢ*. Then each σ*ᵢ* is of the form
 
 where each *Qₖ* is ∀ or ∃ and φ*ᵢ* is a (possibly infinitary) conjunction or disjunction of formulas of the form *xₖ* = *xₗ* or *xₖ* ≠ *xₗ*. Since each σ*ᵢ* is a sentence, there are only finitely many variables in each φ*ᵢ*, and it is easy to see that each φ*ᵢ* is then equivalent to a first-order formula. Accordingly each σ*ᵢ* may be taken to be a first-order sentence. Since σ is assumed to be equivalent to the conjunction of the σ*ᵢ*, it follows that σ and the set Δ = {σ*ᵢ* : *i* ∈ *I*} have the same models. But obviously σ, and hence also Δ, have models of all finite cardinalities; the compactness theorem for sets of first-order sentences now implies that Δ, and hence also σ, has an infinite model, contradicting the definition of σ.
 
-Turning to the *Löwenheim-Skolem theorem*, we find that the *downward* version has adequate generalizations to L(ω₁,ω) (and, indeed, to all infinitary languages). In fact, one can show in much the same way as for sets of first-order sentences that if Δ ⊆ Sent(ω₁,ω) has an infinite model of cardinality ≥ |Δ|, it has a model of cardinality the larger of ℵ₀, |Δ|. In particular, any L(ω₁,ω)-sentence with an infinite model has a countable model.
+Turning to the *Löwenheim-Skolem theorem*, we find that the *downward* version has adequate generalizations to L(ω₁,ω) (and, indeed, to all infinitary languages). In fact, one can show in much the same way as for sets of first-order sentences that if Δ ⊆ **Sent**(ω₁,ω) has an infinite model of cardinality ≥ |Δ|, it has a model of cardinality the larger of ℵ₀, |Δ|. In particular, any L(ω₁,ω)-sentence with an infinite model has a countable model.
 
 On the other hand, the *upward* Löwenheim-Skolem theorem in its usual form *fails* for all infinitary languages. For example, the L(ω₁,ω)-sentence characterizing the standard model of arithmetic has a model of cardinality ℵ₀ but no models of any other cardinality. However, all is not lost here, as we shall see.
 
-We define the *Hanf number* h(L) of a language L to be the least cardinal κ such that, if an L-sentence has a model of cardinality κ, it has models of arbitrarily large cardinality. The existence of h(L) is readily established. For each L-sentence σ not possessing models of arbitrarily large cardinality let κ(σ) be the least cardinal κ such that σ does not have a model of cardinality κ. If λ is the supremum of all the κ(σ), then, if a sentence of L has a model of cardinality λ, it has models of arbitrarily large cardinality.
+We define the *Hanf number* **h(L)** of a language L to be the least cardinal κ such that, if an **L**-sentence has a model of cardinality κ, it has models of arbitrarily large cardinality. The existence of **h(L)** is readily established. For each **L**-sentence σ not possessing models of arbitrarily large cardinality let κ(σ) be the least cardinal κ such that σ does not have a model of cardinality κ. If λ is the supremum of all the κ(σ), then, if a sentence of **L** has a model of cardinality λ, it has models of arbitrarily large cardinality.
 
 Define the cardinals μ(α) recursively by
 
@@ -160,30 +160,31 @@ Define the cardinals μ(α) recursively by
 
 Then it can be shown that
 
-> h(L(ω₁,ω)) = μ(ω₁),
+> **h**(L(ω₁,ω)) = μ(ω₁),
 
 similar results holding for other finite-quantifier languages. The values of the Hanf numbers of infinite-quantifier languages such as L(ω₁,ω₁) are sensitive to the presence or otherwise of large cardinals, but must in any case greatly exceed that of L(ω₁,ω).
 
 A result for L which generalizes to L(ω₁,ω) but to no other infinitary language is the
 
-> Craig Interpolation Theorem: If σ,τ ∈ Sent(ω₁,ω) are such that ⊨ σ → τ, then there is θ ∈ Sent(ω₁,ω) such that ⊨ σ → θ and ⊨ θ → τ, and each extralogical symbol occurring in θ occurs in both σ and τ.
+> **Craig Interpolation Theorem**: If σ,τ ∈ **Sent**(ω₁,ω) are such that ⊨ σ → τ, then there is θ ∈ **Sent**(ω₁,ω) such that ⊨ σ → θ and ⊨ θ → τ, and each extralogical symbol occurring in θ occurs in both σ and τ.
 
 The proof is a reasonably straightforward extension of the first-order case.
 
 Finally, we mention one further result which generalizes nicely to L(ω₁,ω) but to no other infinitary language. It is well known that, if *A* is any finite L-structure with only finitely many relations, there is an L-sentence σ characterizing *A* up to isomorphism. For L(ω₁,ω) we have the following generalization known as
 
-> Scott's Isomorphism Theorem. If *A* is a countable L-structure with only countably many relations, then there is an L(ω₁,ω)-sentence whose class of countable models coincides with the class of L-structures isomorphic with *A*.
+> **Scott's Isomorphism Theorem**. If *A* is a countable L-structure with only countably many relations, then there is an L(ω₁,ω)-sentence whose class of countable models coincides with the class of L-structures isomorphic with *A*.
 
 The restriction to *countable* structures is essential because countability cannot in general be expressed by an L(ω₁,ω)-sentence.
 
 The language L(∞,ω) may also be counted as a finite-quantifier language. The concept of equivalence of structures with respect to this language is of especial significance: we call two (similar) structures *A* and *B* (∞,ω)-*equivalent*, written *A* ≡_{∞ω} *B*, if the same sentences of L(∞,ω) hold in both *A* and *B*. This relation can, first of all, be characterized in terms of the notion of partial isomorphism. A *partial isomorphism* between *A* and *B* is a nonempty family *P* of maps such that:
 
-- For each *p* ∈ *P*, dom(*p*) is a substructure of *A*, ran(*p*) is a substructure of B, and *p* is an isomorphism of its domain onto its range; and
+- For each *p* ∈ *P*, dom(*p*) is a substructure of *A*, ran(*p*) is a substructure of **B**, and *p* is an isomorphism of its domain onto its range; and
 - If *p* ∈ *P*, *a* ∈ *A*, *b* ∈ *B*, then there exist *r*, *s* ∈ *P* both extending *p* such that *a* ∈ dom(*r*), *b* ∈ ran(*s*) (“back and forth” property).
 
-If a partial isomorphism exists between *A* and *B*, we say that *A* and *B* are partially isomorphic and write *A* ≅_{*p*} B. We then have
+If a partial isomorphism exists between *A* and *B*, we say that *A* and *B* are partially isomorphic and write *A* ≅_{*p*} **B**. We then have
 
-> Karp's Partial Isomorphism Theorem. For any similar structures *A*, *B*, *A* ≡_{∞ω} *B* ⇔ *A* ≅_{*p*} *B*.
+> **Karp's Partial Isomorphism Theorem.**
+> For any similar structures *A*, *B*, *A* ≡_{∞ω} *B* ⇔ *A* ≅_{*p*} *B*.
 
 There is also a version of Scott's isomorphism theorem for L(∞,ω), namely,
 
@@ -197,30 +198,31 @@ and then setting
 
 > *V*^{(*B*)} = {*x*: ∃α(*x* ∈ *V*_{α}^{(*B*)})}.
 
-Members of *V*^{(*B*)} are called *B-valued sets*. It is now easily seen that a *B*-valued set is precisely a *B*-valued function with domain a set of *B*-valued sets. Now let L be the first-order language of set theory and let L^{(*B*)} be the language obtained by adding to L a name for each element of *V*^{(*B*)} (we shall use the same symbol for the element and its name). One can now construct a mapping [·]^{(*B*)} of the (sentences of the) language L^{(*B*)} into *B*: for each sentence σ of L^{(*B*)}, the element [σ]^{(*B*)} of *B* is the “Boolean truth value” of σ in *V*^{(*B*)}. This mapping [·]^{(*B*)} is defined so as to send all the theorems of Zermelo-Fraenkel set theory to the top element 1 of *B*, i.e., to “truth”; accordingly, *V*^{(*B*)} may be thought of as a *Boolean-valued model of set theory*. In general, if [σ]^{(*B*)} = 1, we say that σ is *valid* in *V*^{(*B*)}, and write *V*^{(*B*)} ⊨ σ.
+Members of *V*^{(*B*)} are called *B-valued sets*. It is now easily seen that a *B*-valued set is precisely a *B*-valued function with domain a set of *B*-valued sets. Now let **L** be the first-order language of set theory and let **L**^{(*B*)} be the language obtained by adding to **L** a name for each element of *V*^{(*B*)} (we shall use the same symbol for the element and its name). One can now construct a mapping [·]^{(*B*)} of the (sentences of the) language **L**^{(*B*)} into *B*: for each sentence σ of **L**^{(*B*)}, the element [σ]^{(*B*)} of *B* is the “Boolean truth value” of σ in *V*^{(*B*)}. This mapping [·]^{(*B*)} is defined so as to send all the theorems of Zermelo-Fraenkel set theory to the top element 1 of *B*, i.e., to “truth”; accordingly, *V*^{(*B*)} may be thought of as a *Boolean-valued model of set theory*. In general, if [σ]^{(*B*)} = 1, we say that σ is *valid* in *V*^{(*B*)}, and write *V*^{(*B*)} ⊨ σ.
 
 Now each *x* ∈ *V* has a canonical representative *x* in *V*^{(*B*)}, satisfying
 
-> *x* = *y* iff *V*^{(*B*)} ⊨ *x* = *y* *x* ∈ *y* iff *V*^{(*B*)} ⊨ *x* ∈ *y*
+> *x* = *y* iff *V*^{(*B*)} ⊨ *x* = *y*
+> *x* ∈ *y* iff *V*^{(*B*)} ⊨ *x* ∈ *y*
 
 We say that two similar structures *A*, *B* are Boolean isomorphic, written *A* ≅_{*b*} *B*, if, for some complete Boolean algebra *B*, we have *V*^{(*B*)} ⊨ *A* ≅ *B*, that is, if there is a Boolean extension of the universe of sets in which the canonical representatives of *A* and *B* are isomorphic with Boolean value 1. It can then be shown that:
 
 > (2.3) *A* ≡_{∞ω} *B* ⇔ *A* ≅_{*b*} *B*.
 
-This result can be strengthened through category-theoretic formulation. For this we require the concept of a(n) (elementary) *topos*. To introduce this concept, we start with the familiary category of Set of sets and mappings. Set has the following key properties:
+This result can be strengthened through category-theoretic formulation. For this we require the concept of a(n) (elementary) *topos*. To introduce this concept, we start with the familiary category of **Set** of sets and mappings. **Set** has the following key properties:
 
 1. There is a “terminal” object 1 such that, for any object *X*, there is a unique map *X* → 1 (for 1 we may take any one-element set, in particular, {0}).
 2. Any pair of objects *X*,Y has a Cartesian product *X* × *Y*.
 3. for any pair of objects one can form the “exponential” object *Y*^{*X*} of all maps from *X* → *Y*.
 4. There is a “truth-value” object Ω such that for each object *X* there is a natural correspondence between subobjects (subsets) of *X* and maps *X* → Ω. (For Ω we may take the set 2 = {0,1}; maps *X* → Ω are then *characteristic functions* on *X*.)
 
-All four of these conditions can be formulated in category-theoretic language — a category satisfying them is called a *topos*. The category Set is a topos; so also are (i) the category Set^{(*B*)} of Boolean-valued sets and mappings in any Boolean extension *V*^{(*B*)} of the universe of sets; (ii) the category of sheaves of sets on a topological space; (iii) the category of all diagrams of maps of sets
+All four of these conditions can be formulated in category-theoretic language — a category satisfying them is called a *topos*. The category **Set** is a topos; so also are (i) the category **Set**^{(*B*)} of Boolean-valued sets and mappings in any Boolean extension *V*^{(*B*)} of the universe of sets; (ii) the category of sheaves of sets on a topological space; (iii) the category of all diagrams of maps of sets
 
 > *X*₀ → *X*₁ → *X*₂ → …
 
-The objects of each of these categories may be regarded as sets which are *varying* in some manner: in case (i) over a *Boolean algebra*; in case (ii) over a topological *space*; in case (iii) over (discrete) time. A topos may be conceived, then, as a universe of “variable” sets. The familiar category Set is the special limiting case of a topos in which the “variation” of the objects has been reduced to zero.
+The objects of each of these categories may be regarded as sets which are *varying* in some manner: in case (i) over a *Boolean algebra*; in case (ii) over a topological *space*; in case (iii) over (discrete) time. A topos may be conceived, then, as a universe of “variable” sets. The familiar category **Set** is the special limiting case of a topos in which the “variation” of the objects has been reduced to zero.
 
-Just as in set theory, “logical operators” can be defined on the truth-value object in any topos. These are maps ¬: Ω → Ω; ∧, ∨, ⇒: Ω × Ω → Ω corresponding to the logical operations of negation, conjunction, disjunction and implication. With these operations, Ω becomes a Heyting algebra, thus embodying in general the laws not of classical but of intutionistic logic. In this sense intuitionistic logic is “internalized” in a topos: intuitionistic logic is the logic of variable sets. (Of course, classical logic is internalized in certain toposes, for instance Set and Set^{(*B*)} for any complete Boolean algebra *B*.)
+Just as in set theory, “logical operators” can be defined on the truth-value object in any topos. These are maps ¬: Ω → Ω; ∧, ∨, ⇒: Ω × Ω → Ω corresponding to the logical operations of negation, conjunction, disjunction and implication. With these operations, Ω becomes a Heyting algebra, thus embodying in general the laws not of classical but of intutionistic logic. In this sense intuitionistic logic is “internalized” in a topos: intuitionistic logic is the logic of variable sets. (Of course, classical logic is internalized in certain toposes, for instance **Set** and **Set**^{(*B*)} for any complete Boolean algebra *B*.)
 
 Any topos may be conceived as possible “universe of discourse” in which mathematical assertions may be interpreted and mathematical constructions may be performed. Mathematical assertions are rendered interpretable in a topos E by expression within E's *internal language* — a type-theoretic version of the usual language of set theory. In a manner analogous to Boolean-valued validity, one can introduce an appropriate notion of validity in E of a sentence σ of its internal language. Again, we write E ⊨ σ for “σ is valid in E”.
 
@@ -236,7 +238,7 @@ Accordingly (∞,ω)-equivalence may be regarded as isomorphism in the extremely
 
 As we have seen, the compactness theorem in its usual form fails for all infinitary languages. Nevertheless, it is of some interest to determine whether infinitary languages satisfy some suitably modified version of the theorem. This so-called *compactness problem* turns out to have a natural connection with purely set-theoretic questions involving “large” cardinal numbers.
 
-We construct the following definition. Let κ be an infinite cardinal. A language L is said to be κ-*compact* (resp. *weakly* κ*-compact*) if whenever Δ is a set of L-sentences (resp. a set of L-sentences of cardinality ≤ κ) and each subset of Δ of cardinality < κ has a model, so does Δ. Notice that the usual compactness theorem for L is precisely the assertion that L is ω-compact. One reason for according significance to the κ-compactness property is the following. Call L κ-*complete* (resp. *weakly* κ-*complete*) if there is a deductive system *P* for L with deductions of length < κ such that, if Δ is a *P*-consistent[^note-4] set of L-sentences (resp. such that |Δ| ≤ κ), then Δ has a model. Observe that such a *P* will be adequate for deductions from arbitrary sets of premises (of cardinality ≤ κ) in the sense of §2. It is easily seen that if L is κ-complete or weakly κ-complete, then L is κ-compact or weakly κ-compact. Thus, if we can show that a given language is *not* (weakly) κ-compact, then there can be no deductive system for it with deductions of length < κ adequate for deductions from arbitrary sets of premises (of cardinality ≤ κ).
+We construct the following definition. Let κ be an infinite cardinal. A language **L** is said to be κ-*compact* (resp. *weakly* κ*-compact*) if whenever Δ is a set of **L**-sentences (resp. a set of **L**-sentences of cardinality ≤ κ) and each subset of Δ of cardinality < κ has a model, so does Δ. Notice that the usual compactness theorem for L is precisely the assertion that L is ω-compact. One reason for according significance to the κ-compactness property is the following. Call **L** κ-*complete* (resp. *weakly* κ-*complete*) if there is a deductive system *P* for **L** with deductions of length < κ such that, if Δ is a *P*-consistent[^note-4] set of **L**-sentences (resp. such that |Δ| ≤ κ), then Δ has a model. Observe that such a *P* will be adequate for deductions from arbitrary sets of premises (of cardinality ≤ κ) in the sense of §2. It is easily seen that if **L** is κ-complete or weakly κ-complete, then **L** is κ-compact or weakly κ-compact. Thus, if we can show that a given language is *not* (weakly) κ-compact, then there can be no deductive system for it with deductions of length < κ adequate for deductions from arbitrary sets of premises (of cardinality ≤ κ).
 
 It turns out, in fact, that most languages L(κ,λ) fail to be even weakly κ-compact, and, for those that are, κ must be an exceedingly *large* cardinal. We shall need some definitions.
 
@@ -262,17 +264,17 @@ Let us call a cardinal κ *compact* (resp. *weakly compact*) if the language L(�
 >
 > (3.4) κ *is compact* ⇒ κ *is inaccessible*. (But, by the result immediately above, the converse fails.)
 
-Let Constr stand for Gödel's axiom of constructibility; recall that Constr is consistent with the usual axioms of set theory.
+Let **Constr** stand for Gödel's axiom of constructibility; recall that **Constr** is consistent with the usual axioms of set theory.
 
-> (3.5) *If* Constr *holds, then there are no compact cardinals*.
+> (3.5) *If* **Constr** *holds, then there are no compact cardinals*.
 >
-> (3.6) *Assume* Constr *and let* κ *be inaccessible. Then* κ *is weakly compact* ⇔ L(ω₁,ω) *is weakly* κ-*compact for all* L.
+> (3.6) *Assume* **Constr** *and let* κ *be inaccessible. Then* κ *is weakly compact* ⇔ L(ω₁,ω) *is weakly* κ-*compact for all* L.
 >
-> (3.7) *If* Constr *holds, then there are no cardinals* κ *for which* L(ω₁,ω) *is compact*. Accordingly, it is consistent with the usual axioms of set theory to suppose that there is no cardinal κ such that all languages L(ω₁,ω) are κ-complete. This result is to be contrasted with the fact that *all* first-order languages are ω-complete.
+> (3.7) *If* **Constr** *holds, then there are no cardinals* κ *for which* L(ω₁,ω) *is compact*. Accordingly, it is consistent with the usual axioms of set theory to suppose that there is no cardinal κ such that all languages L(ω₁,ω) are κ-complete. This result is to be contrasted with the fact that *all* first-order languages are ω-complete.
 
 The import of these results is that the compactness theorem fails very badly for most languages L(κ,λ) with κ ≥ ω₁.
 
-Some historical remarks are in order here. In the 1930s mathematicians investigated various versions of the so-called *measure problem* for sets, a problem which arose in connection with the theory of Lebesgue measure on the continuum. In particular, the following very simple notion of measure was formulated. If *X* is a set, a (countably additive two-valued nontrivial) *measure* on *X* is a map μ on the power set P*X* to the set {0, 1} satisfying:
+Some historical remarks are in order here. In the 1930s mathematicians investigated various versions of the so-called *measure problem* for sets, a problem which arose in connection with the theory of Lebesgue measure on the continuum. In particular, the following very simple notion of measure was formulated. If *X* is a set, a (countably additive two-valued nontrivial) *measure* on *X* is a map μ on the power set **P***X* to the set {0, 1} satisfying:
 
 > (a) μ(*X*) = 1,
 >
@@ -284,30 +286,30 @@ Obviously, whether a given set supports such a measure depends only on its cardi
 
 ## 4. Incompleteness of Infinite-Quantifier Languages
 
-Probably the most important result about first-order languages is the *Gödel completeness theorem* which of course says that the set of all valid formulas of any first-order language L can be generated from a simple set of axioms by means of a few straightforward rules of inference. A major consequence of this theorem is that, if the formulas of L are coded as natural numbers in some constructive way, then the set of (codes of) valid sentences is *recursively enumerable*. Thus, the completeness of a first-order language implies that the set of its valid sentences is *definable* in a particularly simple way. It would accordingly seem reasonable, given an *arbitrary* language L, to turn this implication around and suggest that, if the set of valid L-sentences is *not* definable in some simple fashion, then *no* meaningful completeness result can be established for L, or, as we shall say, that L is *incomplete*. In this section we are going to employ this suggestion in sketching a proof that “most” *infinite quantifier* languages are incomplete in this sense.
+Probably the most important result about first-order languages is the *Gödel completeness theorem* which of course says that the set of all valid formulas of any first-order language L can be generated from a simple set of axioms by means of a few straightforward rules of inference. A major consequence of this theorem is that, if the formulas of L are coded as natural numbers in some constructive way, then the set of (codes of) valid sentences is *recursively enumerable*. Thus, the completeness of a first-order language implies that the set of its valid sentences is *definable* in a particularly simple way. It would accordingly seem reasonable, given an *arbitrary* language **L**, to turn this implication around and suggest that, if the set of valid **L**-sentences is *not* definable in some simple fashion, then *no* meaningful completeness result can be established for **L**, or, as we shall say, that **L** is *incomplete*. In this section we are going to employ this suggestion in sketching a proof that “most” *infinite quantifier* languages are incomplete in this sense.
 
-Let us first introduce the formal notion of *definability* as follows. If L is a language, *A* an L-structure, and *X* a subset of the domain *A* of *A*, we say that *X* is *definable in* *A* by a formula φ(*x, y*₁,…,*yₙ*) of L if there is a sequence *a*₁,…,*aₙ* of elements of *A* such that *X* is the subset of all elements *x* ∈ *A* for which φ(*x, a*₁,…,*aₙ*) holds in *A*.
+Let us first introduce the formal notion of *definability* as follows. If **L** is a language, *A* an **L**-structure, and *X* a subset of the domain *A* of *A*, we say that *X* is *definable in* *A* by a formula φ(*x, y*₁,…,*yₙ*) of **L** if there is a sequence *a*₁,…,*aₙ* of elements of *A* such that *X* is the subset of all elements *x* ∈ *A* for which φ(*x, a*₁,…,*aₙ*) holds in *A*.
 
-Now write *Val*(L) for the set of all the *valid* L-sentences, i.e., those that hold in every L-structure. In order to assign a meaning to the statement “*Val*(L) is definable”, we have to specify
+Now write *Val*(**L**) for the set of all the *valid* **L**-sentences, i.e., those that hold in every **L**-structure. In order to assign a meaning to the statement “*Val*(**L**) is definable”, we have to specify
 
-1. a structure *C*(L)—the *coding structure* for L;
-2. a particular one-one map—the *coding map*—of the set of formulas of L into the domain of *C*(L).
+1. a structure *C*(**L**)—the *coding structure* for **L**;
+2. a particular one-one map—the *coding map*—of the set of formulas of **L** into the domain of *C*(**L**).
 
-Then, if we identify *Val*(L) with its image in *C*(L) under the coding map, we shall interpret the statement “*Val*(L) is definable” as the statement “*Val*(L), regarded as a subset of the domain of *C*(L), is definable in *C*(L) by a formula of L.”
+Then, if we identify *Val*(**L**) with its image in *C*(**L**) under the coding map, we shall interpret the statement “*Val*(**L**) is definable” as the statement “*Val*(**L**), regarded as a subset of the domain of *C*(**L**), is definable in *C*(**L**) by a formula of **L**.”
 
-For example, when L is the first-order language L of arithmetic, Gödel originally used as coding structure the standard model of arithmetic ℕ and as coding map the well-known function obtained from the prime factorization theorem for natural numbers. The recursive enumerability of *Val*(L) then means simply that the set of codes (“Gödel numbers”) of members of *Val*(L) is definable in ℕ by an L-formula of the form ∃*y*φ(*x, y*), where φ(*x, y*) is a recursive formula.
+For example, when **L** is the first-order language L of arithmetic, Gödel originally used as coding structure the standard model of arithmetic ℕ and as coding map the well-known function obtained from the prime factorization theorem for natural numbers. The recursive enumerability of *Val*(L) then means simply that the set of codes (“Gödel numbers”) of members of *Val*(L) is definable in ℕ by an L-formula of the form ∃*y*φ(*x, y*), where φ(*x, y*) is a recursive formula.
 
 Another, equivalent, coding structure for the first-order language of arithmetic is the structure[^note-5] ⟨*H*(ω), ∈ ⨡ *H*(ω)⟩ of *hereditarily finite sets*, where a set *x* is *hereditarily finite* if *x*, its members, its members of members, etc., are all finite. This coding structure takes account of the fact that first-order formulas are naturally regarded as finite sets.
 
-Turning now to the case in which L is an infinitary language L(κ,λ), what would be a suitable coding structure in this case? We remarked at the beginning that infinitary languages were suggested by the possibility of thinking of formulas as set-theoretical objects, so let us try to obtain our coding structure by thinking about what kind of set-theoretical objects we should take infinitary formulas to be. Given the fact that, for each φ∈Form(κ,λ), φ and its subformulas, subsubformulas, etc., are all of length < κ,[^note-6] a moment's reflection reveals that formulas of L(κ,λ) “correspond” to sets *x hereditarily of cardinality* < κ in the sense that *x*, its members, its members of members, etc., are all of cardinality < κ. The collection of all such sets is written *H*(κ). *H*(ω) is the collection of *hereditarily finite* sets introduced above, and *H*(ω₁) that of all *hereditarily countable* sets.
+Turning now to the case in which **L** is an infinitary language L(κ,λ), what would be a suitable coding structure in this case? We remarked at the beginning that infinitary languages were suggested by the possibility of thinking of formulas as set-theoretical objects, so let us try to obtain our coding structure by thinking about what kind of set-theoretical objects we should take infinitary formulas to be. Given the fact that, for each φ∈**Form**(κ,λ), φ and its subformulas, subsubformulas, etc., are all of length < κ,[^note-6] a moment's reflection reveals that formulas of L(κ,λ) “correspond” to sets *x hereditarily of cardinality* < κ in the sense that *x*, its members, its members of members, etc., are all of cardinality < κ. The collection of all such sets is written *H*(κ). *H*(ω) is the collection of *hereditarily finite* sets introduced above, and *H*(ω₁) that of all *hereditarily countable* sets.
 
 For simplicity let us suppose that the only extralogical symbol of the base language L is the binary predicate symbol ∈ (the discussion is easily extended to the case in which L contains additional extralogical symbols). Guided by the remarks above, as coding structure for L(κ,λ) we take the structure,
 
 > H(κ) =*_{df}* ⟨*H*(κ), ∈ ⨡ *H*(κ)⟩.
 
-Now we can define the coding map of Form(κ,λ) into H(κ). First, to each basic symbol *s* of L(κ,λ) we assign a code object ^{⌈}*s*^{⌉} ∈ *H*(κ) as follows. Let {*v*_{ξ}: ξ < κ} be an enumeration of the individual variables of L(κ,λ).
+Now we can define the coding map of **Form**(κ,λ) into H(κ). First, to each basic symbol *s* of L(κ,λ) we assign a code object ^{⌈}*s*^{⌉} ∈ *H*(κ) as follows. Let {*v*_{ξ}: ξ < κ} be an enumeration of the individual variables of L(κ,λ).
 
-> | Symbol | Code Object | Notation |
+> | **Symbol** | **Code Object** | **Notation** |
 > | --- | --- | --- |
 > | ¬ | 1 | ^{⌈}¬^{⌉} |
 > | ∧ | 2 | ^{⌈}∧^{⌉} |
@@ -317,13 +319,13 @@ Now we can define the coding map of Form(κ,λ) into H(κ). First, to each basic
 > | = | 6 | ^{⌈}=^{⌉} |
 > | *v*_{ξ} | ⟨0,ξ⟩ | ^{⌈}*v*_{ξ}^{⌉} |
 
-Then, to each φ ∈ Form(κ,λ) we assign the code object ^{⌈}φ^{⌉} recursively as follows:
+Then, to each φ ∈ **Form**(κ,λ) we assign the code object ^{⌈}φ^{⌉} recursively as follows:
 
 > ^{⌈}*v*_{ξ} = *v*_{η}^{⌉}  =*_{df}*  ⟨^{⌈}*v*_{ξ}^{⌉}, ^{⌈}=^{⌉}, ^{⌈}*v*_{η}^{⌉}⟩,
 >
 > ^{⌈}*v*_{ξ} ∈ *v*_{η}^{⌉}  =*_{df}*  ⟨^{⌈}*v*_{ξ}^{⌉}, ^{⌈}∈^{⌉}, ^{⌈}*v*_{η}^{⌉}⟩;
 
-for φ, ψ ∈ Form(κ,λ),
+for φ, ψ ∈ **Form**(κ,λ),
 
 > ^{⌈}φ ∧ ψ^{⌉}  =*_{df}*  ⟨^{⌈}φ^{⌉}, ^{⌈}∧^{⌉}, ^{⌈}ψ^{⌉}⟩
 >
@@ -331,11 +333,11 @@ for φ, ψ ∈ Form(κ,λ),
 >
 > ^{⌈}∃*X*φ^{⌉}  =*_{df}*  ⟨^{⌈}∃^{⌉}, {^{⌈}*x*^{⌉}: *x* ∈ *X*}, ^{⌈}φ^{⌉}⟩;
 
-and finally if Φ ⊆ Form(κ,λ) with |Φ| < κ,
+and finally if Φ ⊆ **Form**(κ,λ) with |Φ| < κ,
 
 > ^{⌈}∧Φ^{⌉}  =*_{df}*  ⟨^{⌈}∧^{⌉}, {^{⌈}φ^{⌉}: φ ∈ Φ}⟩.
 
-The map φ ↦ ^{⌈}φ^{⌉} from Form(κ,λ) into *H*(κ) is easily seen to be one-one and is the required coding map. Accordingly, we agree to identify *Val*(L(κ,λ)) with its image in *H*(κ) under this coding map.
+The map φ ↦ ^{⌈}φ^{⌉} from **Form**(κ,λ) into *H*(κ) is easily seen to be one-one and is the required coding map. Accordingly, we agree to identify *Val*(L(κ,λ)) with its image in *H*(κ) under this coding map.
 
 When is *Val*(L(κ,λ)) a *definable* subset of H(κ)? In order to answer this question we require the following definitions.
 
@@ -351,7 +353,7 @@ Thus the notions of Δ₀- and Σ₁-set may be regarded as generalizations of t
 
 The completeness theorem for L implies that *Val*(L) — regarded as a subset of *H*(ω) — is recursively enumerable, and hence Σ₁ on *H*(ω). Similarly, the completeness theorem for L(ω₁,ω) (see §2) implies that *Val*(L(ω₁,ω)) — regarded as a subset of *H*(ω₁) — is Σ₁ on *H*(ω₁). However, this pleasant state of affairs collapses completely as soon as L(ω₁,ω₁) is reached. For one can prove
 
-> Scott's Undefinability Theorem for L(ω₁,ω₁). *Val*(L(ω₁,ω₁)) *is not definable in* H(ω₁) *even by an* L(ω₁,ω₁)-*formula*; *hence* a fortiori *Val*(L(ω₁,ω₁)) *is not* Σ₁ *on* *H*(ω₁).
+> **Scott's Undefinability Theorem for** L(ω₁,ω₁). *Val*(L(ω₁,ω₁)) *is not definable in* H(ω₁) *even by an* L(ω₁,ω₁)-*formula*; *hence* a fortiori *Val*(L(ω₁,ω₁)) *is not* Σ₁ *on* *H*(ω₁).
 
 This theorem is proved in much the same way as the well-known result that the set of (codes of) valid sentences of the second-order language of arithemetic L² is not second-order definable in its coding structure ℕ. To get this latter result, one first observes that ℕ is characterized by a single L²-sentence, and then shows that, if the result were false, then “truth in ℕ” for L²-sentences would be definable by an L²-formula, thereby violating Tarski's theorem on the undefinability of truth.
 
@@ -395,27 +397,27 @@ Given what we now know about infinitary languages, it would seem that L(ω₁,ω
 
 Recall from §4 that we may code the formulas of a first-order language L as hereditarily finite sets, i.e., as members of *H*(ω). In that case each finite set of (codes of) L-sentences is also a member of *H*(ω), and it follows that the compactness theorem for L can be stated in the form:
 
-> (5.1) If Δ ⊆ Sent(L) is such that each subset Δ₀ ⊆ Δ, Δ₀ ∈ *H*(ω) has a model, so does Δ.
+> (5.1) If Δ ⊆ **Sent**(L) is such that each subset Δ₀ ⊆ Δ, Δ₀ ∈ *H*(ω) has a model, so does Δ.
 
 Now it is well-known that (5.1) is an immediate consequence of the *generalized completeness theorem* for L, which, stated in a form similar to that of (5.1), becomes the assertion:
 
-> (5.2) If Δ ⊆ Sent(L) and σ ∈ Sent(L) satisfy Δ ⊨ σ, then there is a deduction *D* of σ from Δ such that *D* ∈ *H*(ω).[^note-8]
+> (5.2) If Δ ⊆ **Sent**(L) and σ ∈ **Sent**(L) satisfy Δ ⊨ σ, then there is a deduction *D* of σ from Δ such that *D* ∈ *H*(ω).[^note-8]
 
-In §2 we remarked that the compactness theorem for L(ω₁,ω) fails very strongly; in fact, we constructed a set Γ ⊆ Sent(ω₁,ω) such that
+In §2 we remarked that the compactness theorem for L(ω₁,ω) fails very strongly; in fact, we constructed a set Γ ⊆ **Sent**(ω₁,ω) such that
 
 > (5.3) Each countable subset of Γ has a model but Γ does not.
 
 Recall also that we introduced the notion of *deduction* in L(ω₁,ω); since such deductions are of countable length it quickly follows from (5.3) that
 
-> (5.4) There is a sentence[^note-9]σ ∈ Sent(ω₁,ω) such that Γ ⊨ σ, but there is no deduction of σ in L(ω₁,ω) from Γ.
+> (5.4) There is a sentence[^note-9]σ ∈ **Sent**(ω₁,ω) such that Γ ⊨ σ, but there is no deduction of σ in L(ω₁,ω) from Γ.
 
 Now the formulas of L(ω₁, ω) can be coded as members of H(ω₁), and it is clear that H(ω₁) is closed under the formation of countable subsets and sequences. Accordingly (5.3) and (5.4) may be written:
 
 > (5.3 *bis*) Each Γ₀ ⊆ Γ such that Γ₀ ∈ H(ω₁) has a model, but Γ does not;
 >
-> (5.4 *bis*) There is a sentence σ ∈ Sent(ω₁,ω) such that Γ ⊨ σ, but there is no deduction *D* ∈ *H*(ω₁) of σ from Γ.
+> (5.4 *bis*) There is a sentence σ ∈ **Sent**(ω₁,ω) such that Γ ⊨ σ, but there is no deduction *D* ∈ *H*(ω₁) of σ from Γ.
 
-It follows that (5.1) and (5.2) fail when “L” is replaced by “L(ω₁,ω)” and “H(ω)” by “H(ω₁)”. Moreover, it can be shown that the set Γ ⊆ Sent(ω₁,ω) in (5.3 *bis*) and (5.4 *bis*) may be taken to be Σ₁ on *H*(ω₁). Thus the compactness and generalized completeness theorems fail even for Σ₁-sets of L(ω₁, ω)-sentences.
+It follows that (5.1) and (5.2) fail when “L” is replaced by “L(ω₁,ω)” and “H(ω)” by “H(ω₁)”. Moreover, it can be shown that the set Γ ⊆ **Sent**(ω₁,ω) in (5.3 *bis*) and (5.4 *bis*) may be taken to be Σ₁ on *H*(ω₁). Thus the compactness and generalized completeness theorems fail even for Σ₁-sets of L(ω₁, ω)-sentences.
 
 We see from (5.4 *bis*) that the reason why the generalized completeness theorem fails for Σ₁-sets in L(ω₁,ω) is that, roughly speaking, *H*(ω₁) is not “closed” under the formation of deductions from Σ₁-sets of sentences in *H*(ω₁). So in order to remedy this it would seem natural to replace *H*(ω₁) by sets *A* which are, in some sense, closed under the formation of such deductions, and then to consider just those formulas whose codes are in *A*.
 
@@ -423,7 +425,7 @@ We now give a sketch of how this can be done.
 
 First, we identify the symbols and formulas of L(ω₁,ω) with their codes in *H*(ω₁), as in §4. For each countable transitive[^note-10] set *A*, let
 
-> L_{*A*} = Form(L(ω₁,ω)) ∩ *A*.
+> L_{*A*} = **Form**(L(ω₁,ω)) ∩ *A*.
 
 We say that L*_{A}* is a *sublanguage* of L(ω₁,ω) if the following conditions are satisfied:
 
@@ -440,26 +442,26 @@ Let *A* be a countable transitive set such that L*_{A}* is a sublanguage of L(ω
 
 From Barwise's result one obtains immediately the
 
-> Barwise Compactness Theorem. *Let* A *be a countable admissible set and let* Δ *be a set of sentences of* L_{*A*} *which is* Σ₁ *on* A. *If each* Δ′ ⊆ Δ *such that* Δ′ ∈ A *has a model, then so does* Δ.
+> **Barwise Compactness Theorem.** *Let* A *be a countable admissible set and let* Δ *be a set of sentences of* L_{*A*} *which is* Σ₁ *on* A. *If each* Δ′ ⊆ Δ *such that* Δ′ ∈ A *has a model, then so does* Δ.
 
 The presence of “Σ₁” here indicates that this theorem is a generalization of the compactness theorem for *recursively enumerable* sets of sentences.
 
-Another version of the Barwise compactness theorem, useful for constructing models of set theory, is the following. Let ZFC be the usual set of axioms for Zermelo-Fraenkel set theory, including the axiom of choice. Then we have:
+Another version of the Barwise compactness theorem, useful for constructing models of set theory, is the following. Let **ZFC** be the usual set of axioms for Zermelo-Fraenkel set theory, including the axiom of choice. Then we have:
 
-> 5.5 Theorem. Let A be a countable transitive set such that A = ⟨*A*, ∈ ⨡ *A*⟩ is a model of ZFC. *If* Δ *is a set of sentences of* L*_{A}* which is definable in A by a formula of the language of set theory and if each Δ′ ⊆ Δ *such that* Δ′ ∈ *A has a model, so does* Δ.
+> **5.5 Theorem**. Let A be a countable transitive set such that **A** = ⟨*A*, ∈ ⨡ *A*⟩ is a model of **ZFC**. *If* Δ *is a set of sentences of* L*_{A}* which is definable in **A** by a formula of the language of set theory and if each Δ′ ⊆ Δ *such that* Δ′ ∈ *A has a model, so does* Δ.
 
-To conclude, we give a simple application of this theorem. Let *A* = ⟨*A*, ∈ ⨡ *A*⟩ be a model of ZFC. A model *B* = ⟨*B, E*⟩ of ZFC is said to be a *proper end-extension* of *A* if (i) *A* ⊆ *B*, (ii) *A* ≠ *B*, (iii) *a* ∈ *A, b* ∈ *B*, *bEa* ⇒ *b*∈*A*. Thus a proper end-extension of a model of ZFC is a proper extension in which no “new” element comes “before” any “old” element. As our application of 5.5 we prove
+To conclude, we give a simple application of this theorem. Let *A* = ⟨*A*, ∈ ⨡ *A*⟩ be a model of **ZFC**. A model *B* = ⟨*B, E*⟩ of **ZFC** is said to be a *proper end-extension* of *A* if (i) *A* ⊆ *B*, (ii) *A* ≠ *B*, (iii) *a* ∈ *A, b* ∈ *B*, *bEa* ⇒ *b*∈*A*. Thus a proper end-extension of a model of **ZFC** is a proper extension in which no “new” element comes “before” any “old” element. As our application of **5.5** we prove
 
-> 5.6 Theorem. Each countable transitive model of ZFC has a proper end-extension.
+> **5.6 Theorem**. Each countable transitive model of **ZFC** has a proper end-extension.
 >
-> Proof. Let *A* = ⟨*A*, ∈ ⨡ *A*⟩ be a transitive model of ZFC and let L be the first-order language of set theory augmented by a name a for each *a* ∈ *A*, and an additional constant c. Let Δ be the set of L*_{A}*-sentences comprising:
+> **Proof**. Let *A* = ⟨*A*, ∈ ⨡ *A*⟩ be a transitive model of **ZFC** and let L be the first-order language of set theory augmented by a name **a** for each *a* ∈ *A*, and an additional constant **c**. Let Δ be the set of L*_{A}*-sentences comprising:
 >
-> - all axioms of ZFC;
-> - c ≠ a, for each *a* ∈ *A*;
-> - ∀*x*(*x* ∈ a → ∨_{*b*∈*a*} *x* = b), for each *a* ∈ *A*;
-> - a ∈ b, for each *a* ∈ *b* ∈ *A*.
+> - all axioms of **ZFC**;
+> - **c** ≠ **a**, for each *a* ∈ *A*;
+> - ∀*x*(*x* ∈ **a** → ∨_{*b*∈*a*} *x* = **b**), for each *a* ∈ *A*;
+> - **a** ∈ **b**, for each *a* ∈ *b* ∈ *A*.
 >
-> It is easily shown that Δ is a subset of *A* which is definable in *A* by a formula of the language of set theory. Also, each subset Δ′ ⊆ Δ such that Δ′ ∈ *A* has a model. For the set *C* of all *a* ∈ *A* for which a occurs in Δ′ belongs to *A* — since Δ′ does — and so, if we interpret c as any member of the (necessarily nonempty) set *A − C*, then *A* is a model of Δ′. Accordingly, (5.5) implies that Δ has a model ⟨*B, E*⟩. If we interpret each constant a as the element *a* ∈ *A*, then ⟨*B, E*⟩ is a proper end-extension of *A*. The proof is complete.
+> It is easily shown that Δ is a subset of *A* which is definable in *A* by a formula of the language of set theory. Also, each subset Δ′ ⊆ Δ such that Δ′ ∈ *A* has a model. For the set *C* of all *a* ∈ *A* for which **a** occurs in Δ′ belongs to *A* — since Δ′ does — and so, if we interpret **c** as any member of the (necessarily nonempty) set *A − C*, then *A* is a model of Δ′. Accordingly, (5.5) implies that Δ has a model ⟨*B, E*⟩. If we interpret each constant **a** as the element *a* ∈ *A*, then ⟨*B, E*⟩ is a proper end-extension of *A*. The proof is complete.
 
 The reader will quickly see that the first-order compactness theorem will not yield this result.
 
@@ -473,19 +475,19 @@ A nonempty transitive set *A* is said to be *admissible* when the following cond
 
 Condition (ii) — the Δ₀-*separation scheme* — is a restricted version of Zermelo's axiom of separation. Condition (iii) — a similarly weakened version of the axiom of replacement — may be called the Δ₀-*replacement scheme*.
 
-It is quite easy to see that if *A* is a transitive set such that <*A*, ∈ | *A*> is a model of ZFC, then *A* is admissible. More generally, the result continues to hold when the power set axiom is omitted from ZFC, so that both *H*(ω) and *H*(ω₁) are admissible. However, since the latter is uncountable, the Barwise compactness theorem fails to apply to it.
+It is quite easy to see that if *A* is a transitive set such that <*A*, ∈ | *A*> is a model of **ZFC**, then *A* is admissible. More generally, the result continues to hold when the power set axiom is omitted from **ZFC**, so that both *H*(ω) and *H*(ω₁) are admissible. However, since the latter is uncountable, the Barwise compactness theorem fails to apply to it.
 
 ## 6. Historical and Bibliographical Remarks
 
-§§1 and 2. Infinitary propositional and predicate languages seem to have made their first explicit appearance in print with the papers of Scott and Tarski [1958] and Tarski [1958]. The completeness theorem for L(ω₁,ω), as well as for other infinitary languages, was proved by Karp [1964]. The Hanf number calculations for L(ω₁,ω) were first performed by Morley [1965]. The nondefinability of well-orderings in finite-quantifier languages was proved by Karp [1965] and Lopez-Escobar [1966]. The interpolation theorem for L(ω₁,ω) was proved by Lopez-Escobar [1965] and Scott's isomorphism theorem for L(ω₁,ω) by Scott [1965]. Negri [2021] extends the idea of geometric logic originating in topos theory to L(ω₁,ω).
+§§**1** and **2**. Infinitary propositional and predicate languages seem to have made their first explicit appearance in print with the papers of Scott and Tarski [1958] and Tarski [1958]. The completeness theorem for L(ω₁,ω), as well as for other infinitary languages, was proved by Karp [1964]. The Hanf number calculations for L(ω₁,ω) were first performed by Morley [1965]. The nondefinability of well-orderings in finite-quantifier languages was proved by Karp [1965] and Lopez-Escobar [1966]. The interpolation theorem for L(ω₁,ω) was proved by Lopez-Escobar [1965] and Scott's isomorphism theorem for L(ω₁,ω) by Scott [1965]. Negri [2021] extends the idea of geometric logic originating in topos theory to L(ω₁,ω).
 
 Karp's partial isomorphism theorem was first proved in Karp [1965]; see also Barwise [1973]. Result (2.2) appears in Chang [1968], result (2.3) in Ellentuck [1976] and result (2.4) in Bell [1981].
 
-§3. Results (3.2) and (3.3) are due to Hanf [1964], with some refinements by Lopez-Escobar [1966] and Dickmann [1975], while (3.4) was proved by Tarski. Result (3.5) is due to Scott [1961], (3.6) to Bell [1970] and [1972]; and (3.7) to Bell [1974]. Measurable cardinals were first considered by Ulam [1930] and Tarski [1939]. The fact that measurable cardinals are weakly compact was noted in Tarski [1962].
+§**3**. Results (3.2) and (3.3) are due to Hanf [1964], with some refinements by Lopez-Escobar [1966] and Dickmann [1975], while (3.4) was proved by Tarski. Result (3.5) is due to Scott [1961], (3.6) to Bell [1970] and [1972]; and (3.7) to Bell [1974]. Measurable cardinals were first considered by Ulam [1930] and Tarski [1939]. The fact that measurable cardinals are weakly compact was noted in Tarski [1962].
 
-§4. Concerning the undefinability theorem for L(ω₁,ω₁). Carol Karp remarks (1964, 166), “At the International Congress of Logic, Methodology and the Philosophy of Science at Stanford University in 1960, Dana Scott circulated an outline of a proof of the impossibility of a complete definable formal system for (γ+, γ+) languages with a single two-place predicate symbol in addition to the equality symbol.” Scott never published his result, and a fully detailed proof first appeared in Karp [1964]. The approach to the theorem adopted here is based on the account given in Dickmann [1975].
+§**4**. Concerning the undefinability theorem for L(ω₁,ω₁). Carol Karp remarks (1964, 166), “At the International Congress of Logic, Methodology and the Philosophy of Science at Stanford University in 1960, Dana Scott circulated an outline of a proof of the impossibility of a complete definable formal system for (γ+, γ+) languages with a single two-place predicate symbol in addition to the equality symbol.” Scott never published his result, and a fully detailed proof first appeared in Karp [1964]. The approach to the theorem adopted here is based on the account given in Dickmann [1975].
 
-§5. The original motivation for the results presented in this section came from Kreisel; in his [1965] he pointed out that there were no compelling grounds for choosing infinitary formulas solely on the grounds of “length”, and proposed instead that definability or “closure” criteria be employed. Kreisel's suggestion was taken up with great success by Barwise [1967], where his compactness theorem was proved. The notion of admissible set is due to Platek [1966]. Theorem (5.6) is taken from Keisler [1974].
+§**5**. The original motivation for the results presented in this section came from Kreisel; in his [1965] he pointed out that there were no compelling grounds for choosing infinitary formulas solely on the grounds of “length”, and proposed instead that definability or “closure” criteria be employed. Kreisel's suggestion was taken up with great success by Barwise [1967], where his compactness theorem was proved. The notion of admissible set is due to Platek [1966]. Theorem (5.6) is taken from Keisler [1974].
 
 For further reading on the subject of infinitary languages, see Aczel [1973], Dickmann [1975], Karp [1964], Keisler [1974], and Makkai [1977]. A useful account of the connection between infinitary languages and large cardinals can be found in Chapter 10 of Drake [1974].
 

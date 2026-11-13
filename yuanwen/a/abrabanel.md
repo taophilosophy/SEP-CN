@@ -21,7 +21,17 @@ By profession, Judah was a doctor, one who had a very good reputation and who se
 
 Judah seems also to have been well connected at the Spanish court and was one of the physicians who attended the royal family. After the edict of expulsion had been issued, Ferdinand and Isabella requested that he remain in Spain. To do this, however, he still would have had to convert to Christianity. Yet, in order to try and keep Judah in Spain, a plot was hatched to kidnap his firstborn son, Isaac ben Judah. Judah, however, discovered the plot and sent his son, along with his Christian nanny, on to Portugal, where he hoped to meet up with them. Upon hearing that a relative of Isaac Abrabanel had re-entered Portugal, Joao II had the young boy seized and forcefully converted to Christianity. It is uncertain whether or not Judah ever saw or heard from his son again. In a moving poem, entitled *Telunah ‘al ha-zeman* (“The Travails of Time”), he writes:
 
-> > Time with his pointed shafts has hit my heart and split my guts, laid open my entrails, landed me a blow that will not heal knocked me down, left me in lasting pain… He did not stop at whirling me around, exiling me while yet my days were green sending me stumbling, drunk, to roam the world… He scattered everyone I care for northward, eastward, or to the west, so that I have no rest from constant thinking, planning— and never a moment’s peace, for all my plans.[^note-5]
+> > Time with his pointed shafts has hit my heart
+> > and split my guts, laid open my entrails,
+> > landed me a blow that will not heal
+> > knocked me down, left me in lasting pain…
+> > He did not stop at whirling me around,
+> > exiling me while yet my days were green
+> > sending me stumbling, drunk, to roam the world…
+> > He scattered everyone I care for northward,
+> > eastward, or to the west, so that
+> > I have no rest from constant thinking, planning—
+> > and never a moment’s peace, for all my plans.[^note-5]
 
 Like many of those Jews who refused to convert, Judah and his immediate family, including his father, made their way to Naples. There, Ferdinand II of Aragon, the king of Naples, warmly welcomed the Abrabanel family, owing to its many contacts in international trade. In 1495, however, the French took control of Naples, and Judah was again forced to flee, first to Genoa, then to Barletta, and subsequently to Venice. It seems that he also traveled around Tuscany, and there is some debate as to whether or not he actually met the famous Florentine Humanist, Giovanni Pico della Mirandola (it seems unlikely that he did). In 1501, after the defeat of the French in Naples, he was invited back to be the personal physician of the Viceroy of Naples, Fernandez de Córdoba. Among all of these peregrinations, Judah found the time to write (but not publish) his *magnum opus*, the *Dialoghi d’amore*. He seems to have died sometime after 1521. Other than these basic facts, we know very little of the life of Judah Abrabanel.
 

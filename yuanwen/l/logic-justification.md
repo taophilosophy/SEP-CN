@@ -201,9 +201,9 @@ For each axiom $A$ and any constants $e_{1} , e_{2}, \ldots, e_{n}$, $$e_{n} : e
 
 We may now specify:
 
-Logic of Justifications with given Constant Specification: Let $CS$ be a constant specification. $\mathsf{J}_{CS}$ is the logic $\mathsf{J}_{0}$ + $CS$ ; the axioms are those of $\mathsf{J}_{0}$ together with the members of $CS$, and the only rule of inference is *Modus Ponens*. Note that $\mathsf{J}_{0}$ is $\mathsf{J}_{\varnothing}$.
+**Logic of Justifications with given Constant Specification**: Let $CS$ be a constant specification. $\mathsf{J}_{CS}$ is the logic $\mathsf{J}_{0}$ + $CS$ ; the axioms are those of $\mathsf{J}_{0}$ together with the members of $CS$, and the only rule of inference is *Modus Ponens*. Note that $\mathsf{J}_{0}$ is $\mathsf{J}_{\varnothing}$.
 
-Logic of Justifications: $\mathsf{J}$ is the logic $\mathsf{J}_{0}$ + **Axiom Internalization Rule**. The new rule states:
+**Logic of Justifications**: $\mathsf{J}$ is the logic $\mathsf{J}_{0}$ + **Axiom Internalization Rule**. The new rule states:
 
 For each axiom $A$ and any constants $e_{1} , e_{2}, \ldots, e_{n}$ infer $e_{n} : e_{n- 1} : \ldots : e_{1} : A$.
 
@@ -725,7 +725,7 @@ Beginning with the 2024 update, Thomas Studer has taken responsibility for updat
 
 [^kuznets-2008]: –––, 2008. *Complexity Issues in Justification Logic*, Ph. D. dissertation, Computer Science Department, City University of New York Graduate Center.
 
-[^kuznets-2010]: –––, 2010. “A note on the abnormality of realizations of S4LP”, in K. Brünnler and T. Studer (eds.), *Proof, Computation, Complexity PCC 2010, International Workshop, Proceedings*, IAM Technical Reports IAM-10-001, Institute of Computer Science and Applied Mathematics, University of Bern.
+[^kuznets-2010]: –––, 2010. “A note on the abnormality of realizations of **S4LP**”, in K. Brünnler and T. Studer (eds.), *Proof, Computation, Complexity PCC 2010, International Workshop, Proceedings*, IAM Technical Reports IAM-10-001, Institute of Computer Science and Applied Mathematics, University of Bern.
 
 [^kuznets-2021]: Kuznets, R., S. Marin, and L. Strassburger, 2021. “Justification logic for constructive modal logic”, *Journal of Applied Logics*, 8(8): 2313– 2332.
 
@@ -745,7 +745,7 @@ Beginning with the 2024 update, Thomas Studer has taken responsibility for updat
 
 [^nogina-2006]: Nogina, E., 2006. “On logic of proofs and provability”, in *2005 Summer Meeting of the Association for Symbolic Logic, Logic Colloquium’05, Athens, Greece* (July 28–August 3, 2005), *The Bulletin of Symbolic Logic*, 12(2): 356.
 
-[^nogina-2007]: –––, 2007. “Epistemic completeness of GLA”, in *2007 Annual Meeting of the Association for Symbolic Logic, University of Florida, Gainesville, Florida* (March 10–13, 2007), *The Bulletin of Symbolic Logic*, 13(3): 407.
+[^nogina-2007]: –––, 2007. “Epistemic completeness of **GLA**”, in *2007 Annual Meeting of the Association for Symbolic Logic, University of Florida, Gainesville, Florida* (March 10–13, 2007), *The Bulletin of Symbolic Logic*, 13(3): 407.
 
 [^pacuit-2006]: Pacuit, E., 2006. “A Note on Some Explicit Modal Logics”, Technical Report PP–2006–29, Institute for Logic, Language and Computation, University of Amsterdam.
 

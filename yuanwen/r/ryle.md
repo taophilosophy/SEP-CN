@@ -378,7 +378,7 @@ This article uses material from my *Re-thinking Ryle*, in progress; “Une Carto
 
 ## Notes to Gilbert Ryle
 
-[^note-1]: Anecdotal evidence (thanks to David Pears) is that Elizabeth Anscombe was scathing about *The Concept of Mind* when it was published. But what of Wittgenstein himself? On the one hand, in his letters he seemed dismissive of Ryle’s work (McGuinness and Von Wright, 284); on the other, he is quoted (Monk, 436) as having told Ryle’s cousin that Ryle was one of only two philosophers who understood his work. (Monk wonders whether this was a matter of mere *politesse*but there is reason to believe it was not.)
+[^note-1]: Anecdotal evidence (thanks to David Pears) is that Elizabeth Anscombe was scathing about *The Concept of Mind* when it was published. But what of Wittgenstein himself? On the one hand, in his letters he seemed dismissive of Ryle’s work (McGuinness and Von Wright, 284); on the other, he is quoted (Monk, 436) as having told Ryle’s cousin that Ryle was one of only two philosophers who understood his work. (Monk wonders whether this was a matter of mere *politesse* but there is reason to believe it was not.)
 
 [^note-2]: Compare Wittgenstein:
 

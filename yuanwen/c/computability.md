@@ -388,4 +388,4 @@ Church, Alonzo: logic, contributions to | Church-Turing Thesis | computational c
 
 [^whitehead-1910]: Whitehead, Alfred North and Bertrand Russell, 1910–1913, *Principia Mathematica*, first edition, Cambridge: Cambridge University Press.
 
-[^zhuk-2020]: Zhuk, Dmitriy, 2020, “A Proof of CSP Dichotomy Conjecture”,*Journal of the ASM*, 30: 1–78.
+[^zhuk-2020]: Zhuk, Dmitriy, 2020, “A Proof of CSP Dichotomy Conjecture”, *Journal of the ASM*, 30: 1–78.

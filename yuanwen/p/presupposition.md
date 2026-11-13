@@ -196,21 +196,21 @@ The early literature on presupposition almost exclusively revolved around defini
 
 Strawson’s intuition, which can be traced back to Frege (1892), leads to the following definition:[^note-3]
 
-Definition 1 (Strawsonian presupposition) One sentence presupposes another *iff* whenever the first is true or false, the second is true.
+**Definition 1** **(Strawsonian presupposition)** One sentence presupposes another *iff* whenever the first is true or false, the second is true.
 
 Another definition that is often used is this:
 
-Definition 2 (Presupposition via negation) One sentence presupposes another *iff* whenever the first sentence is true, the second is true, and whenever the negation of the first sentence is true, the second sentence is true.[^note-4]
+**Definition 2** **(Presupposition via negation)** One sentence presupposes another *iff* whenever the first sentence is true, the second is true, and whenever the negation of the first sentence is true, the second sentence is true.[^note-4]
 
 These two definitions are equivalent if negation maps true onto false, false onto true, and is undefined when its argument is undefined. However, the second definition is notable in the context of the above discussion of projection, because it seems to directly encode the projection properties of at least one operator: negation. Specifically, it says that presuppositions are inferences that survive embedding under negation.[^note-5]
 
 It is clear that if the above assumptions about presupposition are made, then the presuppositions of a sentence will be the same as the presuppositions of the negation of the sentence. But what about projection from embeddings other than negation? A very simple account of projection is based on the *cumulative hypothesis*, first discussed by Morgan (1969) and Langendoen and Savin (1971). This is the idea that presuppositions always project from embedding, as if there were no effects like cancellation. A trivalent semantics that yields this behavior is obtained by using the *Weak Kleene* connectives (Kleene, 1952). Assume (for all the partial/multivalent semantics given in this article) that for classically valued arguments, the connectives behave classically. Then Weak Kleene connectives (also known as the Bochvar Internal connectives) are defined as follows:
 
-Definition 3 (Weak Kleene) If any argument of a sentence with a Weak Kleene connective lacks a classical truth value, then the sentence as a whole lacks a truth value.
+**Definition 3** **(Weak Kleene)** If any argument of a sentence with a Weak Kleene connective lacks a classical truth value, then the sentence as a whole lacks a truth value.
 
 Weak Kleene fails as a theory of presupposition because it entails that presuppositions project uniformly, whereas in fact they do not. Another system of Kleene’s, the Strong Kleene connectives, does not have this property:
 
-Definition 4 (Strong Kleene) If the classically-valued arguments of a sentence with a Strong Kleene connective would suffice to determine a truth value in standard logic, then the sentence as a whole has that value; otherwise it doesn’t have a classical value.
+**Definition 4** **(Strong Kleene)** If the classically-valued arguments of a sentence with a Strong Kleene connective would suffice to determine a truth value in standard logic, then the sentence as a whole has that value; otherwise it doesn’t have a classical value.
 
 For example, in classical logic a conjunction is bound to be false if one of its conjuncts is false, and therefore the same holds for Strong Kleene “and”. Similarly, since in classical logic a disjunction must be true if one of its disjuncts is true, the same holds for Strong Kleene “or”. We obtain the following truth tables for the main binary connectives:
 
@@ -269,7 +269,7 @@ There is a contrast among pragmatic approaches to presupposition as regards whet
 
 Cancellation accounts can be traced back in spirit to Stalnaker’s account of semifactives, discussed above, in which presuppositions are defeated by competing conversational inferences: the general idea is simply to make presuppositions into defaults, and wipe them out whenever they would cause pragmatic embarrassment. Gazdar provided a remarkably straightforward formalization of this account, as well as extending to many other projection phenomena, based on a general principle he characterizes as “All the news that fits”. In Gazdar’s model, the strategy for a hearer is first to identify sets of entailments, conversational implicatures, and presuppositions, and then to try adding them to the speaker’s set of commitments.
 
-Definition 5 (Gazdar: cancellation) Implicatures and entailments defeat presuppositions, so a hearer adds to his or her commitments only those presuppositions that are compatible with both implicatures and entailments. All remaining presuppositions are cancelled.
+**Definition 5** **(Gazdar: cancellation)** Implicatures and entailments defeat presuppositions, so a hearer adds to his or her commitments only those presuppositions that are compatible with both implicatures and entailments. All remaining presuppositions are cancelled.
 
 Consider (16a), and assume there are no relevant pre-existing commitments:
 
@@ -287,7 +287,7 @@ But now consider (16b), repeated from (12). Here there is an implicature that th
 
 Within the space of cancellation-based accounts of presupposition, it is hard to beat Gazdar’s for its conceptual and technical simplicity, and its empirical coverage. Some conceptual questions remain, however, such as why it should be that *presuppositions* are the last things to be added in the process of updating commitments. Van der Sandt’s (1982, 1988) reformulation of the cancellation model gives us an alternative way to think about this, by modeling projection in terms of whether presuppositions could have come first.
 
-Definition 6 (Van der Sandt: cancellation) Project only those presuppositions that could be conjoined to the beginning of the sentence while leaving the utterance consistent with (neo-Gricean) conversational principles.[^note-12]
+**Definition 6** **(Van der Sandt: cancellation)** Project only those presuppositions that could be conjoined to the beginning of the sentence while leaving the utterance consistent with (neo-Gricean) conversational principles.[^note-12]
 
 The intuitive idea underlying van der Sandt’s proposal is that presuppositions are *given* information, and in this sense “precede” their carrier sentences, if not *de facto* then at least *de jure*, in the sense that the context would have legitimated their presence. In the case of (16), fronting the presupposition that there are some tarts yields the sentences in (17).
 
@@ -313,7 +313,7 @@ It should be noted, however, that even if (18b) is redundant, it is arguably a f
 
 A more recent pragmatic approach situates presuppositions in a wider taxonomy of projective content based on the property of at-issueness. Once we’ve identified the QUD, we can identify content that is meant to be relevant towards answering it. In other words, content that is at-issue. Simons et al (2010) propose that this pragmatic property is relevant to projection such that only not-at-issue content projects.
 
-Definition 7 (Cancellation via at-issueness) Project only those presuppositions that are not-at-issue.
+**Definition 7** **(Cancellation via at-issueness)** Project only those presuppositions that are not-at-issue.
 
 Consider examples (19) and (20) from Beaver (2010). These examples involve the factive verb "discover", and hence are expected to trigger a presupposition that its complement is true, i.e. that the addressee’s work is plagiarized. In (19), where "discover" is stressed, this presupposition seems to project, with the implication that, absent the T.A. finding out what’s going on, the speaker is prepared to overlook the plagiarism. In this case, we might say that what is at-issue is the question of whether the T.A. finds out about the plagiarism. However, in (20), where stress in on "plagiarized", it is far less clear whether the speaker believes the addressee’s work is plagiarized. This can be explained if stress on "plagiarized" is marking the proposition that the work is plagiarized as at-issue. So, the generalization in Definition 7 predicts that this proposition does not project.
 
@@ -337,7 +337,7 @@ In static theories of meaning, such as the trivalent accounts of presupposition 
 
 While a number of authors have noted that presuppositions behave in some respects like anaphors (e.g., Kripke 2009 and Soames 1989)[^kripke-2009][^soames-1989], it was van der Sandt (1989; 1992) who brought out the connection the most forcefully. He noted that for every configuration of anaphors and antecedents where a pronoun is interpreted anaphorically but is not interpretable as a bound variable, a similar configuration is possible with presuppositions.[^note-13] In each of the following quadruples, we illustrate some configuration in the (a) and (b) examples, while the (c) and (d) cases show that a slight divergence from the original configurations (i.e. those in (a) and (b)), produces infelicity. Note that the (a) and (c) examples include an anaphoric pronoun (“it”), and the (b) and (d) examples include the factive verb “knows”, which triggers a presupposition that its propositional complement is true (i.e., that Fred left). So, anaphora is felicitous in configurations in which presuppositions are felicitous, and anaphora is infelicitous in configurations in which presuppositions are infelicitous. It is clear that connections between anaphoric pronouns and their antecedents on the one hand, and presupposition triggers and their antecedents on the other, are sensitive to very similar configurational requirements.
 
-Inter-sentential (discourse) anaphora
+**Inter-sentential (discourse) anaphora**
 
 **(21a)**
 
@@ -355,7 +355,7 @@ Fred left. Mary knows that Fred left.
 
 #Mary knows that Fred left. Fred left.
 
-Donkey anaphora
+**Donkey anaphora**
 
 **(22a)**
 
@@ -373,7 +373,7 @@ If Fred left then Mary knows that Fred left.
 
 #If Fred didn’t leave left then Mary knows that Fred left.
 
-Modal subordination
+**Modal subordination**
 
 **(23a)**
 
@@ -391,7 +391,7 @@ Fred might have left. Mary would know that Fred has left.
 
 #Fred might have left. Mary knows that Fred has left.
 
-Bathroom anaphora
+**Bathroom anaphora**
 
 **(24a)**
 
@@ -455,7 +455,7 @@ If Mary owns a sheep then Mary owns an animal. (*Truth-conditionally equivalent 
 
 Now we use this idea of left redundancy, which echoes the above van der Sandt analysis of the effect of fronting presuppositions, to define the crucial notion in Karttunen’s (1974) account.
 
-Definition 8 (Karttunen/Schlenker: Presupposition via satisfaction) A presupposition *P* is *satisfied* at point *X* in *S* iff *P* would be left-redundant if added at point *X*. A sentence presupposes whatever propositions must hold in global contexts of utterance such that each locally triggered presupposition is satisfied where its trigger occurs.
+**Definition 8 (Karttunen/Schlenker: Presupposition via satisfaction)** A presupposition *P* is *satisfied* at point *X* in *S* iff *P* would be left-redundant if added at point *X*. A sentence presupposes whatever propositions must hold in global contexts of utterance such that each locally triggered presupposition is satisfied where its trigger occurs.
 
 As an example, let us consider the presuppositions predicted for (27), repeated below:
 
@@ -477,11 +477,11 @@ If there is a knave, then the knave stole the tarts.
 
 Although Karttunen’s (1974) model is distinct conceptually from any of its predecessors, we have already noted that it shares at least some predictions with Strong Kleene. An observation made by Peters (1979) showed that the 1974 model is surprisingly closely related to the semantic accounts of presupposition discussed above. In particular, Peters showed that Karttunen’s way of calculating presuppositions for the truth conditional connectives is equivalent to what would be obtained within a three-valued logic, but with special non-symmetric connectives. Here is a general way of defining the Peters Connectives, inspired both by Schlenker (2009; 2008) and George (2008):
 
-Definition 9 (Middle Kleene/Peters connectives) Go from left to right through the sentence. For each argument *X* that takes a non-classical value, check whether on the basis of material on its left, assigning an arbitrary classical value to *X* could conceivably have an effect on the overall value. If so, the sentence as a whole lacks a classical truth value. If not, just assign *X* an arbitrary value, and carry on. If this procedure allows all non-classical values to be filled in classically, then the sentence can be assigned a classical value.
+**Definition 9** **(Middle Kleene/Peters connectives)** Go from left to right through the sentence. For each argument *X* that takes a non-classical value, check whether on the basis of material on its left, assigning an arbitrary classical value to *X* could conceivably have an effect on the overall value. If so, the sentence as a whole lacks a classical truth value. If not, just assign *X* an arbitrary value, and carry on. If this procedure allows all non-classical values to be filled in classically, then the sentence can be assigned a classical value.
 
 For example, this procedure makes a conjunction classical if both its arguments are classical, false if the left conjunct is false, and undefined otherwise. Thus undefinedness of the left conjunct forces undefinedness of the entire conjunction, whereas undefinedness of the right conjunct only sometimes yields undefinedness of the entire conjunct, as seen in the following comparison of truth tables in various systems. The net effect is that presuppositions of the left conjunct project in the Middle Kleene system, just as in the Weak Kleene system, but presuppositions of the right conjunct are conditionalized, just as in the Strong Kleene system. This behavior precisely mirrors that of the Karttunen (1974) model.
 
-Definition 10 (Trivalent truth tables for conjunction)
+**Definition 10** **(Trivalent truth tables for conjunction)**
 
 | Weak Kleene （嵌套表：\| φ ∧ ψ \| t \| f \| ✭ \| \| --- \| --- \| --- \| --- \| \| t \| t \| f \| ✭ \| \| f \| f \| f \| ✭ \| \| ✭ \| ✭ \| ✭ \| ✭ \|） | Middle Kleene/Peters （嵌套表：\| φ ∧ ψ \| t \| f \| ✭ \| \| --- \| --- \| --- \| --- \| \| t \| t \| f \| ✭ \| \| f \| f \| f \| f \| \| ✭ \| ✭ \| ✭ \| ✭ \|） | Strong Kleene （嵌套表：\| φ ∧ ψ \| t \| f \| ✭ \| \| --- \| --- \| --- \| --- \| \| t \| t \| f \| ✭ \| \| f \| f \| f \| f \| \| ✭ \| ✭ \| f \| ✭ \|） |
 | --- | --- | --- |
@@ -492,11 +492,11 @@ The equivalence between Peters’ connectives and Karttunen’s model paved the 
 
 Although Karttunen’s (1974) model turned out to be equivalent to a system which, from a purely technical point of view, is in the Frege-Strawson tradition, Karttunen (1974) was one of the seminal papers of the dynamic zeitgeist that swept through semantics and pragmatics in the last decades of the twentieth century. Also relevant here are Hamblin (1970), Stalnaker (1972; 1974) , Gazdar (1979) and Lewis (1979), all of whom advanced dynamic models of pragmatics in which the (joint) commitments of speakers and hearers evolve as new assertions are made and their content becomes part of the linguistic context available for future utterances. It is against this background that Heim (1982; 1983) offered the first dynamic semantic account of presupposition. Heim’s model utilizes Stalnaker’s notion of a context as a set of all possible worlds compatible with what has been established at that point in a conversation, but involves a crucial twist adapted from Karttunen. In Stalnaker’s model, a single *global* context is updated each time new information is asserted, but in Heim’s model the context is updated *locally* in the process of computing the meanings of subparts of a complex expression.[^note-18] We can define a simplified version of Heim’s system as follows:
 
-Definition 11 (Dynamic Semantics) Assuming that the *context set* *C* is a set of possible worlds and *S* and *S*′ are sentences:
+**Definition 11** **(Dynamic Semantics)** Assuming that the *context set* *C* is a set of possible worlds and *S* and *S*′ are sentences:
 
 1. *C* + *S* = the subset of worlds in *C* that are compatible with *S*, but this is defined *iff* *S*’s presuppositions (if any) are true in all worlds in *C*.
 2. *C* + ¬*S* = *C* − (*C* + *S*)
-3. *C* + *S*∧ *S*′ = (*C* + *S*) + *S*′
+3. *C* + *S* ∧ *S*′ = (*C* + *S*) + *S*′
 4. *C* + *S* ○ *S*′, where ○ is some truth functional operator, is given by the simplest classical definition of ○ in terms of ¬ and ∧ that preserves the order of the two sub-clauses.
 5. *S* is *satisfied* in a context *C* iff *C* + *S* = *C* (i.e., updating *C* with *S* has no effect).
 6. *S* *presupposes* *S*′ iff *S*′ is satisfied in all contexts where update with *S* is defined.
@@ -615,7 +615,7 @@ Another problem with van der Sandt’s generalization is that it is not clear ho
 
 Local satisfaction is at the heart of dynamic theories of presupposition, but we’ve already seen that it faces some empirical challenges in accounting for conditionalized presuppositions. Specifically, sometimes satisfaction theories generate weaker conditional presuppositions when intuitively the speaker is presupposing a stronger, unconditionalized presupposition. Geurts (1996,1999a) deems this "The Proviso Problem," and the data surrounding this problem has left quite a mess for proponents of satisfaction theories to clean up.[^note-22]
 
-According to satisfaction theories, only weak conditional presuppositions should follow from embedding presuppositions in certain constructions, notably conditionals themselves. For example, imagine that you are about to go surfing for the first time in the cold waters of Northern California, and you and your interlocutor suspect that a common acquaintance, Theo, is a scuba diver, and that he may be able to help. In this context, the use of *his*in (38a) intuitively leads to the conditional inference in (38c):
+According to satisfaction theories, only weak conditional presuppositions should follow from embedding presuppositions in certain constructions, notably conditionals themselves. For example, imagine that you are about to go surfing for the first time in the cold waters of Northern California, and you and your interlocutor suspect that a common acquaintance, Theo, is a scuba diver, and that he may be able to help. In this context, the use of *his* in (38a) intuitively leads to the conditional inference in (38c):
 
 **(38a)**
 
@@ -1013,7 +1013,7 @@ Assuming again that “the knave” is the only source of presupposition, it is 
 
 [^beaver-2008]: Beaver, David, 2008, “As brief as possible (but no briefer)”, *Theoretical Linguistics*, 34: 213–228.
 
-[^beaver-2010]: Beaver, D. (2010). "Have You Noticed that Your Belly Button Lint Color is Related to the Color of Your Clothing?", in R. Bauerle, U. Reyle, and T. Zimmermann (eds.) *Presuppositions and discourse: Essays offered to Hans Kamp,*Brill, 65–100.
+[^beaver-2010]: Beaver, D. (2010). "Have You Noticed that Your Belly Button Lint Color is Related to the Color of Your Clothing?", in R. Bauerle, U. Reyle, and T. Zimmermann (eds.) *Presuppositions and discourse: Essays offered to Hans Kamp,* Brill, 65–100.
 
 [^beaver-2003]: Beaver, David and Condoravdi, Cleo, 2003, “A uniform analysis of ”before“ and ”after“”, in *Proceedings of Semantics and Linguistic Theory XIII*, Cornell, Ithaca: CLC Publications, 37–54.
 

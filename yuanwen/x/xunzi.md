@@ -285,11 +285,11 @@ Chinese Philosophy: emotions in early Chinese Philosophy | Chinese Philosophy: e
 
 [^liu-2013]: Liu Guirong, 2013, 劉桂榮西漢時期荀子思想接受研究, Hefei: Hefei Gongye Daxue.
 
-[^liu-2024]: Liu Meihui, 2024, “Repetitions within and between Chapters in the *Xunzi* 荀子: Traces of Liu Xiang’s 劉向 Editorial Work.” *T*’*oung Pao,*110.3–4: 305-45. doi:10.1163/15685322-11003002
+[^liu-2024]: Liu Meihui, 2024, “Repetitions within and between Chapters in the *Xunzi* 荀子: Traces of Liu Xiang’s 劉向 Editorial Work.” *T*’*oung Pao,* 110.3–4: 305-45. doi:10.1163/15685322-11003002
 
 [^liu-2006]: Liu Youming 劉又銘, 2006, “Xunzi de zhexue dianfan jiqi zai houdai de bianqian zhuanyi” 荀子的哲學典範及其在後代的變遷轉移, *Hanxue yanjiu jikan* 漢學研究集刊, 3: 33–54.
 
-[^machle-1993]: Machle, Edward J., 1993, *Nature and Heaven in the Xunzi: A Study of the Tian lun,*Albany, NY: State University of New York Press.
+[^machle-1993]: Machle, Edward J., 1993, *Nature and Heaven in the Xunzi: A Study of the Tian lun,* Albany, NY: State University of New York Press.
 
 [^perkins-2014]: Perkins, Franklin, 2014, *Heaven and Earth Are Not Humane: The Problem of Evil in Classical Chinese Philosophy*, Bloomington and Indianapolis: Indiana University Press.
 

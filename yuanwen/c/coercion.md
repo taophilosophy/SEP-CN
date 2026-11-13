@@ -164,7 +164,8 @@ Nozick explains the idea of the baseline by calling it the “normal or natural 
 
 Nozick offers two of the best known cases in which the normative and non-normative baselines would appear to diverge. Here’s one of them (Nozick 1969, 450–51)[^nozick-1969]:[^note-10]
 
-> **The slave case:** *P* is a slave owner who regularly beats his slave *Q*. One day *P* proposes to spare *Q* his regular beating if and only if *Q* now does *A*.
+> **The slave case:**
+> *P* is a slave owner who regularly beats his slave *Q*. One day *P* proposes to spare *Q* his regular beating if and only if *Q* now does *A*.
 
 *Q* prefers not to be beaten, so we look to the conditional
 

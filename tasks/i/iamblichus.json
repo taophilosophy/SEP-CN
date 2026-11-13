@@ -2,7 +2,7 @@
   "slug": "iamblichus",
   "kind": "retranslate",
   "zh_doc": "i/iamblichus.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-12T17:50:42Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "I-main-20261113",
+      "at": "2026-11-12T23:54:38Z",
+      "evidence": "lq 账本 105 段全填（反思两步 step1≠step2），守恒门绿：source 与 yuanwen 逐字符一致、脚注键/$/\\*\\* 计数全守恒；compose --write 出 58687 字符"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "I-main-20261113",
+      "at": "2026-11-12T23:54:38Z",
+      "evidence": "对照核销：44/44 脚注键零缺失零多余；defs 210 键含源生未内引条目；节数 12 vs 11＝致谢升节 compose 体例；相关词条行按 SUMMARY 定名重写（范畴→亚里士多德的范畴论）；引注组照录"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "I-main-20261113",
+      "at": "2026-11-13T00:01:01Z",
+      "evidence": "check_prose 实修 44 处（长句拆分/被动化除/弱动词/de-chain），残余 31 全豁免留痕：术语排比列举（德性五层七层/神灵传统/数之类型等）、引文内部被动、概念性定语（ADR-0020）；check_style --strict 0、check_academic --strict 绿、check_math 绿"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "I-main-20261113",
+      "at": "2026-11-13T00:01:04Z",
+      "evidence": "终检对账：正文键 44=源 44 零差；阿尔库塔斯按登记册 boethius 行回改 9 处、西里阿努斯按 SUMMARY 定名回改 14 处、杨布里科斯形统一 21 处、斯多亚形统一 6 处；守恒门复跑 105 段绿；人名 32 行＋术语册补课同批提交"
     }
   ],
   "blockers": [],

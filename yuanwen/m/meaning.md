@@ -333,7 +333,8 @@ A first challenge for Fregeanism is the challenge of giving a non-metaphorical e
 
 A first step toward answering this challenge is provided by a criterion for telling when two expressions differ in meaning, which might be stated as follows. In his 1906 paper, “A Brief Survey of My Logical Doctrines”, Frege seems to endorse the following criterion:
 
-> *Frege’s criterion of difference for senses* Two sentences *S* and *S** differ in sense if and only if some rational agent who understood both could, on reflection, judge that *S* is true without judging that *S** is true.
+> *Frege’s criterion of difference for senses*
+> Two sentences *S* and *S** differ in sense if and only if some rational agent who understood both could, on reflection, judge that *S* is true without judging that *S** is true.
 
 Consider (17) and (18), which we saw make trouble for Millian-Russellian views of content. Someone could clearly understand both and, on reflection, judge that (17) is true and (18) false. (Lois Lane is such a person.) Frege’s criterion would then imply that the sentences have different senses, which is what we want.[^note-8]
 

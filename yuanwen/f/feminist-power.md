@@ -241,7 +241,7 @@ Arendt, Hannah | Beauvoir, Simone de | critical theory | existentialism | femini
 
 [^collins-2011]: Collins, Patricia Hill, 2011. “Piecing Together a Genealogical Puzzle: Intersectionality and American Pragmatism,” *European Journal of Pragmatism and American Philosophy*, 3(2): 88–112.
 
-[^collins-2019]: –––, 2019.*Intersectionality as Critical Social Theory*, Durham, NC: Duke University Press.
+[^collins-2019]: –––, 2019. *Intersectionality as Critical Social Theory*, Durham, NC: Duke University Press.
 
 [^collins-2002]: Collins, Patricia Hill, *et al*., 2002. “Symposium on West and Fenstermaker’s ‘Doing Difference’,” in Sarah Fenstermaker and Candace West (eds.), *Doing Gender, Doing Difference*, New York: Routledge.
 
@@ -363,7 +363,7 @@ Arendt, Hannah | Beauvoir, Simone de | critical theory | existentialism | femini
 
 [^lorde-1984]: Lorde, Audre, 1984. *Sister/Outsider: Essays and Speeches by Audre Lorde*, Freedom, CA: Crossing Press.
 
-[^lugones-2003]: Lugones, María, 2003.*Pilgrimages/Peregrinajes: Theorizing Coalition against Multiple Oppressions*, Lanham, MD: Rowman and Littlefield.
+[^lugones-2003]: Lugones, María, 2003. *Pilgrimages/Peregrinajes: Theorizing Coalition against Multiple Oppressions*, Lanham, MD: Rowman and Littlefield.
 
 [^lugones-2007]: –––, 2007. “Heterosexualism and the Colonial/Modern Gender System,” *Hypatia*, 22 (1): 186–209.
 

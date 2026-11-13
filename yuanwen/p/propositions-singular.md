@@ -23,11 +23,14 @@ Frege argued for the distinctness of sense from reference as follows. Suppose, f
 
 An expression's sense is intended to capture its *cognitive value*. The above argument is intended to show that coreferential proper names can present the same object in different ways and it can be a cognitive achievement to come to learn that the object presented in those different ways is one and the same. Reference alone, Frege persuasively argued, cannot capture cognitive value. Capturing the cognitive significance of an expression is a primary role senses played in Frege's system. But they also played several other roles as well: They are the primary bearers of truth values, the indirect references of sentences and hence the objects denoted by that clauses like ‘that Frege denied the existence of singular propositions’, and the objects of propositional attitudes, most importantly. These roles give rise to the following theses concerning the individuation of senses.
 
-> **Truth** If two sentences have different truth values, then they have different senses.
+> **Truth**
+> If two sentences have different truth values, then they have different senses.
 >
-> **Accept** For any pair of sentences, *s₁* and *s₂*, if a competent speaker can rationally, reflectively, and sincerely accept *s₁* while rejecting *s₂*, then *s₁* and *s₂* have different senses.
+> **Accept**
+> For any pair of sentences, *s₁* and *s₂*, if a competent speaker can rationally, reflectively, and sincerely accept *s₁* while rejecting *s₂*, then *s₁* and *s₂* have different senses.
 >
-> **Attitude** For any pair of sentences, *s₁* and *s₂*, and propositional attitude verb *V*s, if the truth of ^{⌈}*a V*s that *s₁*^{⌉} is consistent with the falsity of ^{⌈}*a V*s that *s₂*^{⌉}, then *s₁* and *s₂* have different senses.
+> **Attitude**
+> For any pair of sentences, *s₁* and *s₂*, and propositional attitude verb *V*s, if the truth of ^{⌈}*a V*s that *s₁*^{⌉} is consistent with the falsity of ^{⌈}*a V*s that *s₂*^{⌉}, then *s₁* and *s₂* have different senses.
 
 Frege's case for the sense-reference distinction is also a case that singular propositions are not the semantic contents of natural language sentences and are not the objects of the propositional attitudes. Singular propositions are too coarse-grained to account for what a competent speaker understands in virtue of grasping the meaning of a sentence. But the content of a sentence is, intuitively, what an agent grasps when she understands a sentence and what she believes when she accepts it. Frege concluded that singular propositions are ill-suited for the purposes of semantics and psychology, as they lead to violations of **Accept** and **Attitude**. (For further discussion, see the entry Frege.)
 
@@ -59,7 +62,8 @@ Suppose that David is standing at a table with Charles to his immediate left and
 
 David has said something about Paul. Call the proposition David has expressed **p**. **p** is distinct from the propositions expressed by the following sentences.
 
-> (2) The person on David's immediate right (at *t*) lives in New Jersey. (3) The person David demonstrated (at *t*) lives in New Jersey.
+> (2) The person on David's immediate right (at *t*) lives in New Jersey.
+> (3) The person David demonstrated (at *t*) lives in New Jersey.
 
 Both of the latter propositions are about Paul indirectly, in virtue of the properties he contingently has (namely, being to David's right at *t* and being demonstrated at *t* by David, respectively). Now consider a counterfactual circumstance in which Paul and Charles have switched places but in which everything else about them remained the same, consistent with this switch, and, in particular, in which Paul still lived in New Jersey and Charles in Illinois. **p** is true at this circumstance, as Paul lives in New Jersey, while the propositions expressed by (2) and (3) are false at this circumstance, as Charles is both to David's right and demonstrated by David and he doesn't live in New Jersey. So, **p** is distinct from the propositions expressed by (2) and (3).
 
@@ -71,7 +75,8 @@ There are two main responses to the modal argument in the literature. The first 
 
 The second response involves moving from contingent properties like those involved in (2) and (3) to necessary properties, and in particular to what, following Plantinga in (1974), we will call an *individual essence*, which is a property that, necessarily, if *x* exists, then it has that property and, necessarily, only *x* has. The property *being on David's right* is not an individual essence of Paul, as Paul might have existed without having had it and Charles might have had it instead. But it is easy to turn such contingent properties into necessary ones by *rigidifiying* them. Paul necessarily has the property of *actually* being on David's right. For any world **w**, Paul has that rigidified property in **w** just in case in the actual world Paul has the (contingent) property of being on David's right. And, if Paul is the only person to have that property in the actual world, then the rigidified property is not only a necessary property of Paul but also an individual essence of Paul. Such a property “tracks” Paul across every possible world. Consider then the propositions expressed by (4) and (5).
 
-> (4) The person *actually* on David's immediate right (at *t*) lives in New Jersey. (5) The person *actually* David demonstrated (at *t*) lives in New Jersey.
+> (4) The person *actually* on David's immediate right (at *t*) lives in New Jersey.
+> (5) The person *actually* David demonstrated (at *t*) lives in New Jersey.
 
 As far as the modal argument goes, these propositions can be identified with **p**, as, for every world **w**, they have exactly the same truth value at **w** as **p** intuitively has at **w**.
 
@@ -161,7 +166,8 @@ Consider the following proposition.
 
 (The number designates the proposition actually expressed by ‘George Bush does not exist’, not the sentence itself.) While (7) is false, it might have been true. But suppose (7) is a singular proposition, involving George Bush as a constituent. Then there are problems, given the following two principles.
 
-> (P1) Necessarily, for all propositions **p**, had **p** been true, then **p** would have existed. (P2) Necessarily, if (7) were true, then George would not have existed.
+> (P1) Necessarily, for all propositions **p**, had **p** been true, then **p** would have existed.
+> (P2) Necessarily, if (7) were true, then George would not have existed.
 
 Both principles are highly plausible. (P1) is plausible because *being true* is a property and there must be something that has a property in order for that property to be instantiated. So, had it been that a given proposition were true, then there must have been something — namely, that proposition — that would have had the property of being true. (P2) states the intuitive truth conditions of (7), being an instance of the modalized propositional equivalent of the Tarski truth-schema *s* is true iff *s*. But these principles seem to entail that, if (7) is a singular proposition, then it is not possibly true. For suppose it were. Then there is a world **w** in which (7) is true. By (P1), (7) exists in **w**. But then all of its constituents exists in **w** as well, as a complex does not exist in a world unless all of its constituents exist in that world. But then George Bush exists in **w**. So, by (P2), (7) is not true in **w**, which contradicts our original assumption that it is true in **w**. So, either (7) is not a singular proposition or it is not possibly true.
 

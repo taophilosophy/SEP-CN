@@ -42,7 +42,8 @@ The same distinction can be found with both modals and temporal modifiers. (4) b
 
 This very natural and elegant explanation of the ambiguity in (1) leads us to the first conception of the *de re/de dicto* distinction.
 
-> Syntactically *de re*/*de dicto*: A sentence is *syntactically de re* just in case it contains a pronoun or free variable within the scope of an opacity verb that is anaphoric on or bound by a singular term or quantifier outside the scope of that verb. Otherwise, it is *syntactically de dicto*.
+> Syntactically *de re*/*de dicto*:
+> A sentence is *syntactically de re* just in case it contains a pronoun or free variable within the scope of an opacity verb that is anaphoric on or bound by a singular term or quantifier outside the scope of that verb. Otherwise, it is *syntactically de dicto*.
 
 So, (2) and its quasi-formalization (2*) are syntactically *de dicto* because the quantifier ‘someone’ occurs within the scope of ‘believes’ along with the variable it binds. (3) and its quasi-formalization (3*), on the other hand, are syntactically *de re* because the quantifier ‘someone’ occurs outside the scope of ‘believes’ and yet binds a variable within its scope. Similarly, (5) and (6) below are syntactically *de dicto* while (7) and (8) are syntactically *de re*.
 
@@ -68,7 +69,8 @@ But then whether or not Ortcutt satisfies the open formula ‘Ralph believes tha
 
 We’ll return to this argument shortly. First, however, let’s introduce our second conception of the *de re/de dicto* distinction. We shall call it “the semantically *de re/de dicto* distinction.”
 
-> Semantically *de re*/*de dicto*: A sentence is *semantically de re* just in case it permits substitution of co-designating terms *salva veritate*. Otherwise, it is *semantically de dicto*.
+> Semantically *de re*/*de dicto*:
+> A sentence is *semantically de re* just in case it permits substitution of co-designating terms *salva veritate*. Otherwise, it is *semantically de dicto*.
 
 (7) from above non-controversially counts as semantically *de re*. Suppose that Bill is Sally’s brother. Then (7) is true iff (11) below is true.
 
@@ -110,7 +112,8 @@ At best Henry is indirectly, if at all, involved in the truth of (15) in virtue 
 
 With this in mind, we can formulate our third conception of the de re/de dicto distinction as follows.
 
-> Metaphysically *de re*/*de dicto*: An attribution is metaphysically *de re* with respect to an object **o** just in case it directly attributes a property to **o**.
+> Metaphysically *de re*/*de dicto*:
+> An attribution is metaphysically *de re* with respect to an object **o** just in case it directly attributes a property to **o**.
 
 Are belief attributions metaphysically *de re*? While it seems clear that a sentence like (5) is metaphysically *de re* with respect to Sally, is there also a sense in which it is metaphysically *de re* with respect to Bill, the object of Sally’s belief? And how does our third conception of the *de re* relate to the other two conceptions introduced earlier? The answers to these questions differ depending on the theory of belief attributions one adopts.
 

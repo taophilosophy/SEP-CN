@@ -439,7 +439,7 @@ Helpful discussions on numerous topics treated in this paper with Guido Bacciaga
 
 [^bruza-2015]: Bruza, P.D., Kitto, K., Ramm, B.R., and Sitbon, L., 2015, “A probabilistic framework for analysing the compositionality of conceptual combinations”, *Journal of Mathematical Psychology*, 67: 26–38.
 
-[^burdick-2019]: Burdick, R.K., Villabona-Monsalve, J.P., Mashour, G.A., and Goodson, T. III, 2019, “Modern anesthetic ethers demonstrate quantum interactions with entangled photons,” *Scientific Reports*, 9: 11351.
+[^burdick-2019]: Burdick, R.K., Villabona-Monsalve, J.P., Mashour, G.A., and Goodson, T. III, 2019, “Modern anesthetic ethers demonstrate quantum interactions with entangled photons,” *Scientific Reports* , 9: 11351.
 
 [^busemeyer-2012]: Busemeyer, J.R., and Bruza, P.D., 2012, *Quantum Models of Cognition and Decision*, Cambridge: University Press. Second, expanded edition in press.
 

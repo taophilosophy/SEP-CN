@@ -39,11 +39,11 @@ Ethicists who are concerned that their theories not allow for moral dilemmas hav
 
 But failing to be uniquely action-guiding is not the only reason that the existence of moral dilemmas is thought to be troublesome. Just as important, the existence of dilemmas does lead to inconsistencies if certain other widely held theses are true. Here we shall consider two different arguments, each of which shows that one cannot consistently acknowledge the reality of moral dilemmas while holding selected (and seemingly plausible) principles.
 
-The first argument shows that two standard principles of deontic logic are, when conjoined, incompatible with the existence of moral dilemmas. The first of these is the principle of deontic consistency
+The first argument shows that two standard principles of deontic logic are, when conjoined, incompatible with the existence of moral dilemmas. The first of these is the **principle of deontic consistency**
 
 $$\tag{PC} OA \rightarrow \neg O\neg A. $$
 
-Intuitively this principle just says that the same action cannot be both obligatory and forbidden. Note that as initially described, the existence of dilemmas does not conflict with PC. For as described, dilemmas involve a situation in which an agent ought to do $A$, ought to do $B$, but cannot do both $A$ and $B$. But if we add a principle of deontic logic, then we obtain a conflict with PC:
+Intuitively this principle just says that the same action cannot be both obligatory and forbidden. Note that as initially described, the existence of dilemmas does not conflict with PC. For as described, dilemmas involve a situation in which an agent ought to do $A$, ought to do $B$, but cannot do both $A$ and $B$. But if we add a **principle of deontic logic**, then we obtain a conflict with PC:
 
 $$\tag{PD} \Box(A \rightarrow B) \rightarrow(OA \rightarrow OB). $$
 

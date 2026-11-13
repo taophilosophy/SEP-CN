@@ -139,7 +139,8 @@ where $S, A$, and $E$ are each formulated in expressive language and concern par
 
 Objective judgements include not only perceptual judgements like “There is a white piece of paper before me” in which we conceptualize and interpret a given experience by relating it to other possible experiences, but also a vast number of other beliefs about the material world supported by our perceptual beliefs, e.g. statements about the future outcome of space explorations, or generalizations like “All men have noses”, or non-analytic statements about theoretical entities. Objective judgements don’t strictly imply terminating judgements of the form $(S \amp A) \rightarrow E$ (Lewis 1946, 237). Instead, the sense meaning of objective judgments consists of an indefinitely large set of general probabilistically qualified conditional judgements of the form “If it were the case that $S \amp A$, then, in all likelihood, $E$” (Lewis 1946, 237). Any objective perceptual judgement $P$ thus analytically entails and is entailed by, an indefinitely large set of hypothetical or conditional judgements of the form,
 
-> $(S \amp A) \rightarrow(h)E$, where $(h)E$ means that, in all probability $E$, and expresses, not the probability of the conditional $(S \amp A) \rightarrow E)$, but “a relation of probability” between $E, S$, and $A$ (Lewis 1946, 250).
+> $(S \amp A) \rightarrow(h)E$,
+> where $(h)E$ means that, in all probability $E$, and expresses, not the probability of the conditional $(S \amp A) \rightarrow E)$, but “a relation of probability” between $E, S$, and $A$ (Lewis 1946, 250).
 
 Lewis also calls these conditional judgements terminating judgements, but they are neither decisively verifiable nor decisively falsifiable. Nonetheless, as expressing real connections, they are confirmable and disconfirmable by experience, as are the objective judgements whose sense meaning they constitute.
 

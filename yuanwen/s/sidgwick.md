@@ -390,7 +390,11 @@ Still, perhaps the larger point of Sidgwick’s worries about the dualism and re
 
 It was, plausibly, this spectre of an unfriendly universe, of a perverse Cosmos and a fragmented self in which reason is schizophrenic or indeterminate, and the Wages of Virtue all too often dust, that most deeply disturbed Sidgwick, even if he sometimes articulated the issue in drier philosophical terms. And any successful but more limited defense of one side or another of the dualism may well have been, for him, only a very partial victory, a battle rather than the war. His deepest convictions were more Tennysonian—the allusions to “wages” being to Tennyson’s poem of that title, the last stanza of which reads:
 
-> The wages of sin is death: if the wages of Virtue be dust, Would she have heart to endure for the life of the worm and the fly? She desires no isles of the blest, no quiet seats of the just, To rest in a golden grove, or to bask in a summer sky; Give her the wages of going on, and not to die.
+> The wages of sin is death: if the wages of Virtue be dust,
+> Would she have heart to endure for the life of the worm and the fly?
+> She desires no isles of the blest, no quiet seats of the just,
+> To rest in a golden grove, or to bask in a summer sky;
+> Give her the wages of going on, and not to die.
 
 At the least, as Phillips (2022: 230–31) observes in connection with the debunking argument of de Lazari-Radek and Singer,
 

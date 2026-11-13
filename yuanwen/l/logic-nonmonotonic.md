@@ -21,14 +21,14 @@ Reasoning may also turn defeasible when applied to an inconsistent stock of info
 
 Let $\Sigma$ be a possibly inconsistent set of formulas and let $\mathrm{MCS}(\Sigma)$ be the set of maximal consistent subsets of $\Sigma$. The set $\mathrm{Free}(\Sigma)$ of *innocent bystanders in $\Sigma$* is obtained by intersecting all members of $\mathrm{MCS}(\Sigma)$.
 
-- Free consequences. $\phi$ is a free consequence of $\Sigma$, denoted by $\Sigma \nc_{\mathrm{free}} \phi$, if and only if it is (classically) entailed by the set of all the innocent bystanders $\mathrm{Free}(\Sigma)$.
-- Inevitable consequence. $\phi$ is an inevitable consequence of $\Sigma$, denoted by $\Sigma \nc_{\mathrm{ie}} \phi$, if and only if it is (classically) entailed by each member of $\mathrm{MCS}(\Sigma)$.
+- **Free consequences**. $\phi$ is a free consequence of $\Sigma$, denoted by $\Sigma \nc_{\mathrm{free}} \phi$, if and only if it is (classically) entailed by the set of all the innocent bystanders $\mathrm{Free}(\Sigma)$.
+- **Inevitable consequence**. $\phi$ is an inevitable consequence of $\Sigma$, denoted by $\Sigma \nc_{\mathrm{ie}} \phi$, if and only if it is (classically) entailed by each member of $\mathrm{MCS}(\Sigma)$.
 
 In our example, the innocent bystander $s$ is both a free and inevitable consequence, while $q$ is merely an inevitable consequence. In order to highlight the defeasible character of this type of reasoning, consider the situation in which we obtain additionally the information $\neg s$. We now have the additional two maximal consistent subsets $\Gamma_{3} = \{p \wedge q, \neg s\}$ and $\Gamma_{4} = \{p \wedge \neg q, \neg s\}$ in view of which $s$ is neither a free nor an inevitable consequence. E.g., although $\Gamma \nc_{\mathrm{free}} s$ we have $\Gamma \cup \{\neg s\} \nnc_{\mathrm{free}} s$.
 
 This kind of dynamics is characteristic for non-monotonic logics, in fact it is the reason for their name. They violate the Monotony property, which holds for deductive reasoning, for instance, for the relation of logical consequence $\vDash$ of CL (see the entry on classical logic for details on the relation $\vDash$):
 
-- Monotony: If $\Sigma \nc \phi$ then also $\Sigma \cup \Sigma' \nc \phi$.
+- **Monotony**: If $\Sigma \nc \phi$ then also $\Sigma \cup \Sigma' \nc \phi$.
 
 Monotony states that consequence sets are robust under the addition of information: If $\phi$ is a consequence of $\Sigma$ then it is also a consequence of any set containing $\Sigma$ as a subset. Most of scholarly attention has been paid to the type of dynamics underlying defeasible reasoning that results in violations of Montony due to the retraction of inferences in view of conflicting new information. It has been called the *synchronic* (Pollock 2008)[^pollock-2008] or the *external dynamics* (Batens 2004)[^batens-2004] of defeasible reasoning.
 
@@ -38,14 +38,14 @@ In addition to the external dynamic, defeasible reasoning also comes with *diach
 
 Let us return to non-monotonicity as a property of the consequence relation. Given that Monotony is abandoned in NMLs, we are naturally led to the question which formal properties are to replace Monotony and whether some weakened forms of robustness of the consequence set under the addition of new information is also to be expected in the realm of defeasible reasoning. We state here two of the most central properties considered in the literature.
 
-- Cautious Monotony: If $\Sigma \nc \psi$ and $\Sigma \nc \phi$, then also $\Sigma \cup \{\phi\} \nc \psi$.
-- Rational Monotony: If $\Sigma \nc \psi$ and $\Sigma \nnc \neg \phi$, then also $\Sigma \cup \{\phi\} \nc \psi$.
+- **Cautious Monotony**: If $\Sigma \nc \psi$ and $\Sigma \nc \phi$, then also $\Sigma \cup \{\phi\} \nc \psi$.
+- **Rational Monotony**: If $\Sigma \nc \psi$ and $\Sigma \nnc \neg \phi$, then also $\Sigma \cup \{\phi\} \nc \psi$.
 
 Both Cautious and Rational Monotony are restricted forms of Monotony.
 
 Cautious Monotony is the converse of Cut:
 
-- Cut: If $\Sigma \nc \phi$ and $\Sigma \cup \{\phi\} \nc \psi$, then $\Sigma \nc \psi$.
+- **Cut**: If $\Sigma \nc \phi$ and $\Sigma \cup \{\phi\} \nc \psi$, then $\Sigma \nc \psi$.
 
 Cautious Montony (resp. Cut) states that adding a consequence $\phi$ to the premise set $\Sigma$ does not lead to any *decrease* (resp. *increase*) in inferential power. Taken together, these principles express that inference is a cumulative enterprise: we can keep drawing consequences that can, in turn, be used as additional premises, without affecting the set of conclusions. In Gabbay (1985) it has been shown that some basic and intuitive assumptions about non-monotonic derivations give rise to consequence relations which satisfy Cautious Monotony, Cut and Reflexivity (If $\phi \in \Sigma$ then $\Sigma \nc \phi$). Consequently, these properties are commonly taken to be central principles of NML.[^note-1]
 
@@ -53,7 +53,7 @@ Rational Monotony states that conclusions of $\Sigma$ are not lost when adding f
 
 Weaker properties than Rational Monotony have been proposed, such as Disjunctive Rationality (Makinson (1994)). It states that $ \psi $ does not follow from $ \Sigma \cup \{ \phi_1 \vee \phi_2 \} $ if it neither follows from $ \Sigma \cup \{ \phi_1 \} $ nor from $ \Sigma \cup \{ \phi_2 \} $. We state the contraposition formally:
 
-- Disjunctive Rationality: If $ \Sigma \cup \{ \phi_1 \vee \phi_2 \} \nc \psi $ then $ \Sigma \cup \{ \phi_1 \} \nc \psi $ or $ \Sigma \cup \{ \phi_2 \} \nc \psi $.
+- **Disjunctive Rationality**: If $ \Sigma \cup \{ \phi_1 \vee \phi_2 \} \nc \psi $ then $ \Sigma \cup \{ \phi_1 \} \nc \psi $ or $ \Sigma \cup \{ \phi_2 \} \nc \psi $.
 
 ## 2. Dealing with conflicts
 
@@ -169,7 +169,8 @@ In basic logic programs $\tau$ is a logical atom and $\phi_1, \dotsc, \phi_n, \p
 
 Such rules read as expected, but with a small twist. As usual, the rule licenses its conclusion if the formulas in the antecedent (right-hand side) hold. The twist is that the falsity of (default) negated formulas such as *penguin* need not be positively established: Their falsity is assumed in the absence of a proof of the opposite. In our example, if *penguin* cannot be proved then *not penguin* is considered to hold (“by default”). A logic program for our Tweety example may consist of the rule above and
 
-> *not-flies* $~~\leftarrow~~$ *penguin* *bird* $~~\leftarrow~~$ *penguin*
+> *not-flies* $~~\leftarrow~~$ *penguin*
+> *bird* $~~\leftarrow~~$ *penguin*
 
 Suppose first all we know is *bird*. The latter two rules will not be triggered. The first rule will be applicable: *bird* is the case and we have no proof of *penguin* whence *not penguin* is assumed. This allows us to infer *flies*. Now suppose we know *penguin*. In this case, the first rule is not applicable since the default negation of *penguin* is false, but the latter two rules are triggered and we derive *bird* and *not-flies*.
 
@@ -369,19 +370,19 @@ In order to warrant that there are such minimal states, $\prec$ is considered to
 
 Preferential structures enjoy a central role in NML since they characterize *preferential consequence relations*, i.e., non-monotonic consequence relations $\nc$ that fulfill the following central properties, also referred to as the *core properties* or the *conservative core* of non-monotonic reasoning systems or as the *KLM-properties* (in reference to the authors of Kraus, Lehmann, Magidor 1990):
 
-- Reflexivity: $\phi \nc \phi$.
-- Cut: If $\phi \wedge \psi \nc \tau$ and $\phi \nc \psi$, then $\phi \nc \tau$.
-- Cautious Monotony: If $\phi \nc \psi$ and $\phi \nc \tau$ then $\phi \wedge \psi \nc \tau$.
-- Left Logical Equivalence: If $\vDash \phi \equiv \psi$ and $\phi \nc \tau$, then $\psi \nc \tau$.
-- Right Weakening: If $\vDash \phi \supset \psi$ and $\tau \nc \phi$, then $\tau\nc \psi$.
-- OR: If $\phi \nc \psi$ and $\tau \nc \psi$, then $\phi \vee \tau \nc \psi$.
+- **Reflexivity**: $\phi \nc \phi$.
+- **Cut**: If $\phi \wedge \psi \nc \tau$ and $\phi \nc \psi$, then $\phi \nc \tau$.
+- **Cautious Monotony**: If $\phi \nc \psi$ and $\phi \nc \tau$ then $\phi \wedge \psi \nc \tau$.
+- **Left Logical Equivalence**: If $\vDash \phi \equiv \psi$ and $\phi \nc \tau$, then $\psi \nc \tau$.
+- **Right Weakening**: If $\vDash \phi \supset \psi$ and $\tau \nc \phi$, then $\tau\nc \psi$.
+- **OR**: If $\phi \nc \psi$ and $\tau \nc \psi$, then $\phi \vee \tau \nc \psi$.
 
 The former three properties are those we have already seen above. According to Left Logical Equivalence, classically equivalent formulas have the same non-monotonic consequences. Where $\psi$ is classically entailed by $\phi$, Right Weakening expresses that whenever $\phi$ is a non-monotonic consequence of $\tau$ then so is $\psi$.
 
 Without further commentary we state two important derived rules:
 
-- AND: If $\phi \nc \psi$ and $\phi \nc \tau$ then $\phi \nc \psi \wedge \tau$.
-- S: If $\phi \wedge \psi \nc \tau$ then $\phi \nc \psi \supset \tau$.
+- **AND**: If $\phi \nc \psi$ and $\phi \nc \tau$ then $\phi \nc \psi \wedge \tau$.
+- **S**: If $\phi \wedge \psi \nc \tau$ then $\phi \nc \psi \supset \tau$.
 
 In Kraus et al. (1990) it is shown that a consequence relation $\nc$ is preferential if and only if $\nc = \nc^S$ for some preferential structure $S$.
 
@@ -428,7 +429,7 @@ In Gilio (2002) an approach, is presented in which conditionals $\alpha \nc \bet
 
 Preferential consequence relations do not in general validate
 
-- Rational Monotony: If $\phi \nc \tau$ and $\phi \nnc \neg \psi$, then $\phi \wedge \psi \nc \tau$.
+- **Rational Monotony**: If $\phi \nc \tau$ and $\phi \nnc \neg \psi$, then $\phi \wedge \psi \nc \tau$.
 
 A preferential consequence relation $\nc$ that satisfies Rational Monotony is called a *rational consequence relation*. These are characterized by *ranked structures* which are preferential structures $S = (\Omega, \prec)$ for which $\prec$ is *modular*, that is, for all $M, M', M'' \in \Omega$, if $M \prec M'$ then $M'' \prec M'$ or $M \prec M''$. One can picture this as follows: models in $\Omega$ are arranged in linearly ordered levels, and the level of a model reflects its degree of normality (its rank).
 
@@ -450,9 +451,9 @@ In Lehmann and Magidor (1992) a *Rational Closure* for conditional knowledge bas
 
 In our example *Quaker $\wedge$ worker* has rank 0, just like *Quaker*. This is strictly less than rank 1 of *Quaker $\wedge$ ¬Pacifist* and *Quaker $\wedge$ worker $\wedge$ ¬Pacifist*. This means that the desired *Quaker* $\wedge$ *worker* $\nc$ *Pacifist* is in the Rational Closure of our $\mathbf{K}$.
 
-A system equivalent to Rational Closure has been independently proposed under the name system Z based on $\epsilon$-semantics in Pearl (1990). A weaker version of Rational Closure has been proposed in Booth and Varzinczak (2021): it invalidates Rational Monotony, but validates Disjunctive Rationality.
+A system equivalent to Rational Closure has been independently proposed under the name system **Z** based on $\epsilon$-semantics in Pearl (1990). A weaker version of Rational Closure has been proposed in Booth and Varzinczak (2021): it invalidates Rational Monotony, but validates Disjunctive Rationality.
 
-One may consider it a drawback of Rational Closure that it suffers from the Drowning Problem (see above). To see this, consider the following conditional knowledge base KL:
+One may consider it a drawback of Rational Closure that it suffers from the Drowning Problem (see above). To see this, consider the following conditional knowledge base **KL**:
 
 > ![logic-course.png](../assets/logic-nonmonotonic/logic-course.png)
 

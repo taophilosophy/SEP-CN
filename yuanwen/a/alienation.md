@@ -262,7 +262,7 @@ I am grateful to Jan Kandiyali, Paul Lodge, Lucinda Rumsey, and two anonymous SE
 
 [^jaeggi-2014]: Jaeggi, Rahel, 2014, *Alienation*, Frederick Neuhouser (ed.), with a Foreword by Axel Honneth, New York: Columbia University Press.
 
-[^jaeggi-2018]: –––, 2018, *Critique of Forms of Life,*Cambridge MA: Harvard University Press.
+[^jaeggi-2018]: –––, 2018, *Critique of Forms of Life,* Cambridge MA: Harvard University Press.
 
 [^kandiyali-2020]: Kandiyali, Jan, 2020, “The Importance of Others: Marx, Unalienated Production and Meaningful Work,” *Ethics*, 130 (4): 555–587.
 

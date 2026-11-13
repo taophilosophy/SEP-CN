@@ -367,15 +367,42 @@ Second, romantic poetry is essentially ironic insofar as it brings our finitude,
 
 Wordsworth’s description of nature is possibly the most powerful portrayal of the awe-inspiring character of nature as it is revealed by the poetic imagination:
 
-> A sense sublime Of something far more deeply interfused, Whose dwelling is the light of setting suns, And the round ocean, and the living air, And the blue sky, in the mind of man, A motion and a spirit, that impels, All thinking things, all objects of all thought, And rolls through all things. … I, so long A worshipper of Nature, hither came, Unwearied in that service: rather say With warmer love, oh! With far deeper zeal Of holier love. (Wordsworth, “Lines Written a Few Miles above Tintern Abbey” (1798), lines 96–103 and 154–57, in LB)
+> A sense sublime
+> Of something far more deeply interfused,
+> Whose dwelling is the light of setting suns,
+> And the round ocean, and the living air,
+> And the blue sky, in the mind of man,
+> A motion and a spirit, that impels,
+> All thinking things, all objects of all thought,
+> And rolls through all things.
+> …
+> I, so long
+> A worshipper of Nature, hither came,
+> Unwearied in that service: rather say
+> With warmer love, oh! With far deeper zeal
+> Of holier love.
+> (Wordsworth, “Lines Written a Few Miles above Tintern Abbey” (1798), lines 96–103 and 154–57, in LB)
 
 Through the romantic lens, then, nature becomes alive and a locus of Spirit. Rather than an alien force, nature speaks to us as we speak to it and to each other.
 
-> Nature is a temple where living columns Sometimes let confused words come out; Man walks through these forests of symbols Which observe him with a familiar gaze. (La Nature est un temple où de vivants piliers Laissent parfois sortir de confuses paroles L'homme y passe à travers des forêts de symbols Qui l'observent avec des regards familiers) (Baudelaire, *Correspondences*, 1861 [2000])
+> Nature is a temple where living columns
+> Sometimes let confused words come out;
+> Man walks through these forests of symbols
+> Which observe him with a familiar gaze.
+> (La Nature est un temple où de vivants piliers
+> Laissent parfois sortir de confuses paroles
+> L'homme y passe à travers des forêts de symbols
+> Qui l'observent avec des regards familiers) (Baudelaire, *Correspondences*, 1861 [2000])
 
 This is liberating and re-enchanting, but it also puts certain demands on us, for example, the demands to love nature as we love other human beings:
 
-> Oh, most magnificent and noble Nature! Have I not worshipped thee with such a love As never mortal man before displayed? Adored thee in thy majesty of visible creation, And searched into thy hidden and mysterious ways As Poet, as Philosopher, as Sage? (unknown date, Humphry Davy [1778–1829], *Fragmentary Remains*, 14)
+> Oh, most magnificent and noble Nature!
+> Have I not worshipped thee with such a love
+> As never mortal man before displayed?
+> Adored thee in thy majesty of visible creation,
+> And searched into thy hidden and mysterious ways
+> As Poet, as Philosopher, as Sage?
+> (unknown date, Humphry Davy [1778–1829], *Fragmentary Remains*, 14)
 
 As eccentric as the romantic call to poeticize nature and science may initially seem, it is arguably of relevance today. The organic and re-enchanted conception of nature did not only anticipate some currents in the modern ecological movement, but it also contains resources for further developments in contemporary environmental philosophy and philosophy of science.
 

@@ -7,11 +7,15 @@ Metaphor is a poetically or rhetorically ambitious use of words, a *figurative* 
 
 ## 1. Naming of Parts
 
-> But soft, what light through yonder window breaks? It is the east and Juliet is the sun! (William Shakespeare, *Romeo and Juliet*, 2. 2. 2–3)
+> But soft, what light through yonder window breaks?
+> It is the east and Juliet is the sun!
+> (William Shakespeare, *Romeo and Juliet*, 2. 2. 2–3)
 
-> —History, Stephen said, is a nightmare from which I am trying to awake. (James Joyce, *Ulysses*, chap. 2)
+> —History, Stephen said, is a nightmare from which I am trying to awake.
+> (James Joyce, *Ulysses*, chap. 2)
 
-> A work is a death mask of its conception. (Walter Benjamin, *Einbahnstraße*)
+> A work is a death mask of its conception.
+> (Walter Benjamin, *Einbahnstraße*)
 
 When we resort to metaphor, we contrive to talk about two things at once; two different and disparate subject matters are mingled to rich and unpredictable effect. One of these subject matters is already under discussion or at least up for consideration when a speaker resorts to metaphor in the first place. This is the metaphor’s *primary subject* or *tenor:* the young girl Juliet in the case of Romeo’s metaphor; history, Ireland’s history or the world’s, in the case of Stephen’s; works, prose writings in general, in the case of Benjamin’s. The second subject matter is newly introduced with an eye to temporarily enriching our resources for thinking and talking about the first. This is the metaphor’s *secondary subject* or *vehicle:* the sun; nightmares from which one tries to awake; death masks, i.e., death masks in general. The primary subject of a metaphor may be a particular thing, or it may be a whole kind of thing, and likewise for the secondary subject—with the result that the metaphor itself may take the verbal form of an identity statement (*X is Y*) as with Romeo; a predication or membership statement (*X is a G*) as with Stephen Daedalus; or a statement of inclusion (*Fs are Gs*) as with Benjamin.
 
@@ -19,13 +23,18 @@ If we ask how primary and secondary subjects are brought into relation by being 
 
 Metaphor is but one of many techniques, named and unnamed, for likening one thing to another by means of words. We may employ an explicit comparison of one thing to another, built around *like*, *as*, or some other explicit comparative construction, in what’s known as *simile:*
 
-> One walking a fall meadow finds on all sides The Queen-Anne’s lace lying *like* lilies on water. (Richard Wilbur, “The Beautiful Changes”)
+> One walking a fall meadow finds on all sides
+> The Queen-Anne’s lace lying *like* lilies on water.
+> (Richard Wilbur, “The Beautiful Changes”)
 
-> He looked about *as* inconspicuous *as* a tarantula on a slice of angel food. (Raymond Chandler, *Farewell, My Lovely*, chap. 1)
+> He looked about *as* inconspicuous *as* a tarantula on a slice of angel food.
+> (Raymond Chandler, *Farewell, My Lovely*, chap. 1)
 
 We may interweave parallel observations about two different subject matters by means of *so* and *too* and *thus*. We may liken a whole bunch of things to one another by making conspicuously parallel statements about each, inviting our listener to register the parallelism and ponder its significance. Or we may simply juxtapose mention of a first thing with mention of a second in a suitably conspicuous and suggestive manner:
 
-> The apparition of these faces in the crowd; Petals on a wet, black bough. (Ezra Pound, *In a Station of The Metro*)
+> The apparition of these faces in the crowd;
+> Petals on a wet, black bough.
+> (Ezra Pound, *In a Station of The Metro*)
 
 Part of what is distinctive about *metaphorical* likening in particular is that in resorting to it, we speak of one thing or kind (the primary subject) *as* and *in terms of* a second thing or kind (the secondary subject). Our deployment of language takes place *as if* primary subject and secondary subject (Juliet and the sun) were one and the same; or *as if* the primary subject (history) were an instance of the secondary subject (nightmares); or *as if* the primary subject (works) were included within the secondary subject (death masks). In this sense, the primary subject is spoken of *as* the secondary subject. Words, idioms, and other ways of talking customarily deployed in connection with the secondary subject (the sun, death masks) are appropriated and redeployed for use in thinking and talking about the primary subject (Juliet, prose works). In this sense, the primary subject is spoken of and thought about *in terms of* the secondary subject. It is easy to feel that in Romeo’s metaphor, familiar fragments of sun-talk come to be about Juliet without ceasing to be about the sun. If so, the double aboutness exhibited by metaphorical language is something philosophers must strive to understand.
 
@@ -41,7 +50,8 @@ while other metaphors are *implicit* in that they eschew such simple alignments,
 
 > I shall flutter helplessly closer and closer until you burn me to death at last.
 
-> The path of my fixed purpose is laid with iron rails, whereon my soul is grooved to run. Over unsounded gorges, through the rifled hearts of mountains, under torrents’ beds, unerringly I rush. Naught’s an obstacle, naught’s an angle to the iron way! —Ahab (Melville, *Moby-Dick*, chap. 38)
+> The path of my fixed purpose is laid with iron rails, whereon my soul is grooved to run. Over unsounded gorges, through the rifled hearts of mountains, under torrents’ beds, unerringly I rush. Naught’s an obstacle, naught’s an angle to the iron way!
+> —Ahab (Melville, *Moby-Dick*, chap. 38)
 
 Within the confines of a given metaphor, we distinguish pretty readily between words and phrases that are to be taken metaphorically and others that are to be taken only literally. To take an expression metaphorically is one way to take it figuratively, and to take an expression figuratively is to *re*interpret it, to construe it in a manner that departs from but remains informed by some relevant prior literal construal of it. Various other kinds of figurative reinterpretation are exhibited in various other recognized figures of speech: metonymy (This policy covers you from *the cradle* to *the grave*), irony (*You’re a fine friend*), hyperbole (*loud enough to wake the dead*), and so on.
 
@@ -53,7 +63,9 @@ The portion of a metaphor that undergoes figurative reinterpretation is its *foc
 
 Or it may be an extended phrase, rich in internal syntactic structure:
 
-> An aged man is but *a paltry thing*, *A tattered coat upon a stick* … (W.B. Yeats, “Sailing to Byzantium”)
+> An aged man is but *a paltry thing*,
+> *A tattered coat upon a stick* …
+> (W.B. Yeats, “Sailing to Byzantium”)
 
 Philosophers need to elucidate (a) the nature of the difference between taking language literally and taking it metaphorically, the nature, if you will, of the reinterpretation language undergoes when we take it metaphorically, and (b) the nature of the division of expressive labor between a metaphor’s focus and its frame.
 
@@ -171,7 +183,9 @@ Four basic scenarios are possible here.
 
 (1) Sometimes *P* and *P* alone is what *S* is out to get across, despite the fact that getting *P* and *P* alone across by means of *W* manifestly violates some particular maxim. In that case *S* may be designedly calling attention to, hence trying to vouch for the truth of, some plausible account of why her informational and expressive resources leave her in a position where some such violation couldn’t be helped—confront her with a *clash* of maxims.
 
-> A: Where does *C* live? B: Somewhere in the South of France. [B implicitly signals that he can’t be adequately informative and truthful at the same time, hence implicates that he doesn’t know which town *C* lives in.] (32)
+> A: Where does *C* live?
+> B: Somewhere in the South of France.
+> [B implicitly signals that he can’t be adequately informative and truthful at the same time, hence implicates that he doesn’t know which town *C* lives in.] (32)
 
 (2) Sometimes getting *P* and *P* alone across by means of *W* would manifestly violate some maxim or other *if S* were in a position to vouch for any of various manifestly more desirable propositions by expressing one of them via any of various manifestly available sequences of words. In that case *S* may be designedly calling attention to, hence trying to vouch for the truth of, some plausible account of why she couldn’t do this—why her respect for the maxims actually puts each of these more desirable-looking contributions off limits.
 
@@ -179,7 +193,9 @@ Four basic scenarios are possible here.
 
 (3) Sometimes the expression of *P* by means of *W* would manifestly violate some particular maxim if *P and P alone* were what *S* was out to get across, but the natural inference is that what she was out to get across was *P and then some:* the expression of *P* by means of *W* readily calls to mind some unique more inclusive story *Q* about the world of which *P* forms an essential part, such that *S* might plausibly be in a position to vouch for *Q*’s truth and such that doing so by means of *W*, *if it could be managed*, might plausibly comply with all the maxims. In that case *S* may be designedly calling attention to, hence trying to vouch for the truth of, the whole of *Q*.
 
-> A: I am out of petrol. B: There’s a garage around the corner. [B implicates that the garage in question *may* be open and *may* have gas to sell, hence *may* be an efficient way to satisfy A’s declared need, since only against this background could the expressed fact that the garage is around the corner be expected to be relevant to A’s informational needs.] (32)
+> A: I am out of petrol.
+> B: There’s a garage around the corner.
+> [B implicates that the garage in question *may* be open and *may* have gas to sell, hence *may* be an efficient way to satisfy A’s declared need, since only against this background could the expressed fact that the garage is around the corner be expected to be relevant to A’s informational needs.] (32)
 
 (4) Last but not least, sometimes the expression of *P* by means of *W* would manifestly violate some particular maxim if *P* formed *any essential part* of what *S* was out to get across, and the natural inference is that what she was out to get across is *something entirely different:* the expression of *P* by means of *W* readily calls to mind some unique alternative message *Q* about the world of which *P* forms no part whatsoever, such that *S* might plausibly be in a position to vouch for *Q*’s truth and such that doing so by means of *W*, *if it could be managed*, might plausibly comply with all the maxims. (Such is the residual force of the idea that verbal expressions of *P* are equipment for asserting *P* that *S* will still be viewed as vouching for the truth of *P* as well unless doing so is manifestly out of the question in the circumstances at hand, as it often will be. What she *won’t* be vouching for is *P*’s *value* or *interest* in the light of her listener’s presumed informational needs.)
 
@@ -189,7 +205,8 @@ There are two main ways to play out this scenario.
 
 On the first, *Q* admits of intelligible and compact expression but is something the speaker is understandably reluctant to assert outright. The notorious letter of recommendation example is of this kind.
 
-> A: Dear Sir, Mr. X’s command of English is excellent, and his attendance at tutorials has been regular. “[A] cannot be unable, through ignorance, to say more, since the man is his pupil; moreover, he knows more information than this is wanted [and information of a different kind: A would be in violation of Quantity if what he said formed *any part* of what he meant]. He must, therefore, be wishing to impart information he is reluctant to write down. This supposition is only tenable if he thinks Mr. X is no good at philosophy. This, then, is what he is implicating.” (33)
+> A: Dear Sir, Mr. X’s command of English is excellent, and his attendance at tutorials has been regular.
+> “[A] cannot be unable, through ignorance, to say more, since the man is his pupil; moreover, he knows more information than this is wanted [and information of a different kind: A would be in violation of Quantity if what he said formed *any part* of what he meant]. He must, therefore, be wishing to impart information he is reluctant to write down. This supposition is only tenable if he thinks Mr. X is no good at philosophy. This, then, is what he is implicating.” (33)
 
 On the second, *Q* is so extensive or so resistant to intelligible compact expression for other reasons that the benefits to speaker and listener alike of a terse and simple utterance outweigh the inferential costs to the listener involved in extracting a large message from a small package. This is often the case with allusions, for instance. Where outright explicit assertion can’t be managed or can be managed only with excessive effort on both sides, suggestion has to suffice and will violate no general conversational norms.
 
@@ -205,7 +222,8 @@ One and the same metaphor can often be plausibly paraphrased in substantively di
 
 There is also the phenomenon of *twice-apt* metaphor (Hills, 1997, 2008). Consider Romeo’s death speech:
 
-> Romeo: Here’s to my love! [He drinks] O true apothecary! Thy drugs are quick. Thus with a kiss I die.—5.3.119–120
+> Romeo: Here’s to my love! [He drinks] O true apothecary!
+> Thy drugs are quick. Thus with a kiss I die.—5.3.119–120
 
 Who’s the true apothecary? The impoverished pharmacist who sold Romeo the poison, or death itself? Both, surely. From time to time we are induced to construe one and the same utterance *both* literally *and* metaphorically. In such cases an utterance is *already* apt, *already* in complete accord with pertinent conversational norms, when regarded as an effort to mean what one says, no more and no less. Yet a metaphoric reconstrual of the utterance comes to mind anyway, *without* the spur of any threatened impropriety in the initial literal construal on which it is based, and listeners view the speaker as vouching for the truth of both construals at once.
 
@@ -265,7 +283,16 @@ Relevance theoretic accounts of metaphor and other forms of figurative language 
 
 Ancient Greek poetry was rich in extended explicit comparisons—similes—of the sort we now call *epic* or *Homeric*. At *Iliad* 20.164–73, Aeneas is bearing down on Achilles when the roles of attacker and attacked are abruptly reversed; this is a literal rendering from (Stott, 2006):
 
-> … He rushed against him like a rapacious lion that men are eager to kill, the whole town, once they have gathered. He ignores them going his own way, but when one of the young men, swift in battle, strikes him with a spear, then he crouches down with open mouth, foam appears around his teeth, and his brave spirit groans in his heart, and he lashes his ribs and flanks with his tail on both sides, urging himself to fight. With glowing eyes he charges forcefully forward to see if he will kill one of the men or himself be slain in the crowd.
+> … He rushed against him like a rapacious lion
+> that men are eager to kill, the whole town,
+> once they have gathered. He ignores them
+> going his own way, but when one of the young men, swift in battle,
+> strikes him with a spear, then he crouches down with open mouth,
+> foam appears around his teeth, and his brave spirit groans in his heart,
+> and he lashes his ribs and flanks with his tail
+> on both sides, urging himself to fight.
+> With glowing eyes he charges forcefully forward
+> to see if he will kill one of the men or himself be slain in the crowd.
 
 Ancient rhetoricians would maintain that Homer’s simile and a metaphor employing the epithet “the lion” so as to manifestly refer to the man Achilles are alike in that they make or present one and the same comparison, each in its own way: both bits of language *compare* Achilles *to* a lion. Aristotle goes on to contend that “similes are metaphors needing an explanatory word” (*Poetics* 1407a)—as if the difference between “The lion [Achilles] rushed” (metaphor) and “He [Achilles] rushed as a lion” (simile) came down to the presence in the latter of a stage direction indicating that Achilles went on the attack *in the guise of* a lion. A simile is thus a lengthened metaphor. Quintilian turns things round, speaking of metaphors as shortened similes:
 
@@ -357,7 +384,9 @@ The second inspiring idea is an account of the framing effect itself, on which i
 
 Sometimes a brief but powerful poetic utterance consists solely of the juxtaposed mentionings of two different things or sights or situations, managed so as to suggest that one of the two is there to shed light on the other. In Buson’s haiku:
 
-> A sudden chill— in our room my dead wife’s comb, underfoot. (Stryk and Ikemoto, 1995, 50)
+> A sudden chill—
+> in our room my dead wife’s
+> comb, underfoot. (Stryk and Ikemoto, 1995, 50)
 
 the light source, the chill, comes first. More commonly, as in Pound’s “In a Station of the Metro,” it comes second. Critics often regard such poetic miniatures as limiting cases—in a nonprejudicial sense, degenerate cases—of metaphor or simile. Northrop Frye (1957, 123) speaks of “metaphor by juxtaposition”; he’d have us regard Pound’s semicolon as the ghost of a departed metaphor-forging form of the verb *to be:*
 
@@ -439,7 +468,10 @@ Such demonstrations are possible because once properly set up and properly deplo
 
 Lakoff and his collaborators maintain that metaphor is at bottom a conceptual matter, a matter of thinking of one thing as and in terms of another. What Lakoff calls a *conceptual metaphor* or *cross-domain map* (e.g. love is a journey) is a standing pervasive culture-wide disposition to conceive one fixed sort of thing (e.g. love affairs), as and in terms of another fixed sort of thing (e.g. journeys). Such a cognitive disposition sets up a standing correspondence between particular standard love-affair concepts on the one hand and particular standard journey concepts on the other, with the effect that each time the relevant conceptual metaphor is invoked (in connection, perhaps, with a new pair of lovers),
 
-> The lovers correspond to travelers. The love relationship corresponds to the vehicle. The lovers’ common goals correspond to their common destinations on the journey. Difficulties in the relationship correspond to impediments to travel. (Lakoff 1993, 207)[^lakoff-1993]
+> The lovers correspond to travelers.
+> The love relationship corresponds to the vehicle.
+> The lovers’ common goals correspond to their common destinations on the journey.
+> Difficulties in the relationship correspond to impediments to travel. (Lakoff 1993, 207)[^lakoff-1993]
 
 And so on. By exploiting these correspondences, we can and do redeploy familiar, easy patterns of thinking about one familiar sort of thing lending itself to direct sensorimotor representation (journeys) in novel and strenuous bouts of thinking about a second, more elusive sort of thing (love affairs):
 

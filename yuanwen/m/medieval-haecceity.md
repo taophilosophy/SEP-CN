@@ -213,11 +213,11 @@ Duns Scotus, John | possibilism-actualism debate | universals: the medieval prob
 
 [^dumont-1995]: –––, 1995, “The Question on Individuation in Scotus’s ‘Quaestiones super Metaphysicam,’” in Leonardo Sileo (ed.), *Via Scoti: Methodologica ad mentem Joannis Duns Scoti. Atti del Congresso Scotistico Internazionale. Roma 9–11 Marzo 1993*, 2 vols., Rome: Antonianum, 1: 193–227.
 
-[^henninger-1994]: Henninger, Mark, 1994, “Henry of Harclay,” in Jorge J. E. Gracia (ed.),*Individuation in Scholasticism: The Later Middle Ages and the Counter-Reformation*, SUNY Series in Philosophy, Albany: State University of New York Press, 333–346.
+[^henninger-1994]: Henninger, Mark, 1994, “Henry of Harclay,” in Jorge J. E. Gracia (ed.), *Individuation in Scholasticism: The Later Middle Ages and the Counter-Reformation*, SUNY Series in Philosophy, Albany: State University of New York Press, 333–346.
 
 [^king-1992]: King, Peter, 1992, “Duns Scotus on the Common Nature and the Individual Differentia,” *Philosophical Topics*, 20: 50–76.
 
-[^maurer-1994]: Maurer, Armand, 1994, “William of Ockham,” in Jorge J. E. Gracia (ed.),*Individuation in Scholasticism: The Later Middle Ages and the Counter-Reformation*, SUNY Series in Philosophy, Albany: State University of New York Press, 373–396.
+[^maurer-1994]: Maurer, Armand, 1994, “William of Ockham,” in Jorge J. E. Gracia (ed.), *Individuation in Scholasticism: The Later Middle Ages and the Counter-Reformation*, SUNY Series in Philosophy, Albany: State University of New York Press, 373–396.
 
 [^moody-1935]: Moody, Ernest A., 1935, *The Logic of William of Ockham*, London: Sheed and Ward.
 

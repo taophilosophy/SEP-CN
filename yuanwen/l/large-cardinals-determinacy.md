@@ -249,11 +249,13 @@ In fact, Levy noted that this is the case in the original model introduced by Co
 
 Putting everything together we have the following: (1) If ZFC is consistent, then ZFC cannot determine whether all Σ̰12 sets have the property of Baire and are Lebesgue measurable. (2) If ZFC + “There is a strongly inaccessible cardinal” is consistent, then ZFC cannot determine whether all Π̰11 sets have the perfect set property. (3) If ZFC is consistent, then ZFC cannot determine the pattern of the uniformization property; more precisely, it is consistent with ZFC that the uniformization property has either the pattern
 
-> ![This is a 2 row by 5 column, on the first row is 4 Sigmas each with a tilde underneath and a superscript of 1, and respectively a subscript of 1 through 4. The second row has 4 Pi symbols, each with a tilde below and a superscript of 1 and respectively a subscript of 1 through 4. The fifth column has '...' set on the top row. Pi 1,1 is circled and link to Sigma 1,2 which is also circled which, in turn links to each successive Sigma -- all circled.](../assets/large-cardinals-determinacy/fig1.png) Figure 1: Uniformization under *V* = *L*.
+> ![This is a 2 row by 5 column, on the first row is 4 Sigmas each with a tilde underneath and a superscript of 1, and respectively a subscript of 1 through 4. The second row has 4 Pi symbols, each with a tilde below and a superscript of 1 and respectively a subscript of 1 through 4. The fifth column has '...' set on the top row. Pi 1,1 is circled and link to Sigma 1,2 which is also circled which, in turn links to each successive Sigma -- all circled.](../assets/large-cardinals-determinacy/fig1.png)
+> Figure 1: Uniformization under *V* = *L*.
 
 or the pattern
 
-> ![This is a 2 row by 5 column, on the first row is 4 Sigmas each with a tilde underneath and a superscript of 1, and respectively a subscript of 1 through 4. The second row has 4 Pi symbols, each with a tilde below and a superscript of 1 and respectively a subscript of 1 through 4. The fifth column has '...' set midway between the two rows. Pi 1,1 is circled and link to Sigma 1,2 which is also circled.](../assets/large-cardinals-determinacy/fig2.png) Figure 2: Uniformization in the Cohen model.
+> ![This is a 2 row by 5 column, on the first row is 4 Sigmas each with a tilde underneath and a superscript of 1, and respectively a subscript of 1 through 4. The second row has 4 Pi symbols, each with a tilde below and a superscript of 1 and respectively a subscript of 1 through 4. The fifth column has '...' set midway between the two rows. Pi 1,1 is circled and link to Sigma 1,2 which is also circled.](../assets/large-cardinals-determinacy/fig2.png)
+> Figure 2: Uniformization in the Cohen model.
 
 *Further Reading*: For more on the history of classical descriptive set theory see Kanamori (1995). For more on the mathematics of classical descriptive set theory see sections 12 and 13 of Kanamori (2003), Kechris (1995), and Moschovakis (1980).
 
@@ -305,7 +307,8 @@ In a similar fashion, axioms of definable determinacy extend the results on the 
 
 Thus, under PD the uniformization property has the following pattern:
 
-> ![This is a 2 row by 5 column, on the first row is 4 Sigmas each with a tilde underneath and a superscript of 1, and respectively a subscript of 1 through 4, the fifth element is '...'. The second row has 4 Pi symbols, each with a tilde below and a superscript of 1 and respectively a subscript of 1 through 4, the fifth column has '...'. Pi 1,1 is circled and link to Sigma 1,2 which is circled and linked to Pi 1,3 which is circled and linked to Sigma 1,4 which is circled and linked to '...'](../assets/large-cardinals-determinacy/fig3.png) Figure 3: Uniformization under PD.
+> ![This is a 2 row by 5 column, on the first row is 4 Sigmas each with a tilde underneath and a superscript of 1, and respectively a subscript of 1 through 4, the fifth element is '...'. The second row has 4 Pi symbols, each with a tilde below and a superscript of 1 and respectively a subscript of 1 through 4, the fifth column has '...'. Pi 1,1 is circled and link to Sigma 1,2 which is circled and linked to Pi 1,3 which is circled and linked to Sigma 1,4 which is circled and linked to '...'](../assets/large-cardinals-determinacy/fig3.png)
+> Figure 3: Uniformization under PD.
 
 This pattern recurs at higher levels under stronger forms of determinacy. For example, under AD^{*L*(ℝ)} the pattern recurs throughout the transfinite extension of the projective sets within *L*(ℝ). For all of *L*(ℝ) one has:
 
@@ -412,11 +415,13 @@ The axiom Δ̰11-determinacy (equivalently, Borel-determinacy) is a theorem of Z
 
 Many descriptive set theorists take these consequences to be intrinsically plausible. Moreover, they have found the particular pattern of the uniformization property provided by AD^{*L*(ℝ)} to be a plausible extension of the pattern initiated in ZFC. For this last point consider the first ω many levels and compare the case of *V* = *L* with that of PD. In ZFC, the uniformization property propagates from Π̰11 to Σ̰12. It is natural to expect it to continue to zig-zag back and forth. However, under *V* = *L* it stabilizes:
 
-> ![This is a 2 row by 5 column, on the first row is 4 Sigmas each with a tilde underneath and a superscript of 1, and respectively a subscript of 1 through 4. The fifth element is '...'. The second row has 4 Pi symbols, each with a tilde below and a superscript of 1 and respectively a subscript of 1 through 4, no fifth element. Pi 1,1 is circled and link to Sigma 1,2 which is also circled and linked to Sigma 1,3 which is circled and linked to Sigma 1,4 which is circled and linked to the '...'.](../assets/large-cardinals-determinacy/fig1.png) Figure 4: Uniformization under *V* = *L*.
+> ![This is a 2 row by 5 column, on the first row is 4 Sigmas each with a tilde underneath and a superscript of 1, and respectively a subscript of 1 through 4. The fifth element is '...'. The second row has 4 Pi symbols, each with a tilde below and a superscript of 1 and respectively a subscript of 1 through 4, no fifth element. Pi 1,1 is circled and link to Sigma 1,2 which is also circled and linked to Sigma 1,3 which is circled and linked to Sigma 1,4 which is circled and linked to the '...'.](../assets/large-cardinals-determinacy/fig1.png)
+> Figure 4: Uniformization under *V* = *L*.
 
 In contrast, PD provides what appears to be the correct extrapolation:
 
-> ![This is a 2 row by 5 column, on the first row is 4 Sigmas each with a tilde underneath and a superscript of 1, and respectively a subscript of 1 through 4, the fifth element is '...'. The second row has 4 Pi symbols, each with a tilde below and a superscript of 1 and respectively a subscript of 1 through 4, the fifth column has '...'. Pi 1,1 is circled and link to Sigma 1,2 which is circled and linked to Pi 1,3 which is circled and linked to Sigma 1,4 which is circled and linked to '...'](../assets/large-cardinals-determinacy/fig3.png) Figure 5: Uniformization under PD.
+> ![This is a 2 row by 5 column, on the first row is 4 Sigmas each with a tilde underneath and a superscript of 1, and respectively a subscript of 1 through 4, the fifth element is '...'. The second row has 4 Pi symbols, each with a tilde below and a superscript of 1 and respectively a subscript of 1 through 4, the fifth column has '...'. Pi 1,1 is circled and link to Sigma 1,2 which is circled and linked to Pi 1,3 which is circled and linked to Sigma 1,4 which is circled and linked to '...'](../assets/large-cardinals-determinacy/fig3.png)
+> Figure 5: Uniformization under PD.
 
 Again, this “periodicity phenomenon” occurs at higher levels in *L*(ℝ).
 

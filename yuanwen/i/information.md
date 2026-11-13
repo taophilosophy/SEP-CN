@@ -127,11 +127,13 @@ These insights later led to the doctrine of the difference between primary quali
 
 A pivotal thinker in this transformation is René Descartes (1596–1650 CE). In his *Meditationes*, after “proving” that the matter (*res extensa*) and mind (*res cogitans*) are different substances (i.e., forms of being existing independently), the question of the interaction between these substances becomes an issue. The malleability of wax is for Descartes an explicit argument against influence of the *res extensa* on the *res cogitans* (*Meditationes* II, 15). The fact that a piece of wax loses its form and other qualities easily when heated, implies that the senses are not adequate for the identification of objects in the world. True knowledge thus can only be reached via “inspection of the mind”. Here the wax metaphor that for more than 1500 years was used to *explain* sensory impression is used to argue *against* the possibility to reach knowledge via the senses. Since the essence of the *res extensa* is extension, thinking fundamentally can not be understood as a spatial process. Descartes still uses the terms “form” and “idea” in the original scholastic non-geometric (atemporal, aspatial) sense. An example is the short formal proof of God’s existence in the second answer to Mersenne in the *Meditationes de Prima Philosophia*
 
-> I use the term idea to refer to the *form* of any given thought, immediate perception of which makes me aware of the thought. (Idea nomine intelligo cujuslibet cogitationis *formam* illam, per cujus immediatam perceptionem ipsius ejusdem cogitationis conscious sum)
+> I use the term idea to refer to the *form* of any given thought, immediate perception of which makes me aware of the thought.
+> (Idea nomine intelligo cujuslibet cogitationis *formam* illam, per cujus immediatam perceptionem ipsius ejusdem cogitationis conscious sum)
 
 I call them “ideas” says Descartes
 
-> only in so far as they make a difference to the mind itself when they *inform* that part of the brain. (sed tantum quatenus mentem ipsam in illam cerebri partem conversam **informant**). (Descartes, 1641, *Ad Secundas Objections, Rationes, Dei existentiam & anime distinctionem probantes, more Geometrico dispositae.*)
+> only in so far as they make a difference to the mind itself when they *inform* that part of the brain.
+> (sed tantum quatenus mentem ipsam in illam cerebri partem conversam **informant**). (Descartes, 1641, *Ad Secundas Objections, Rationes, Dei existentiam & anime distinctionem probantes, more Geometrico dispositae.*)
 
 Because the *res extensa* and the *res cogitans* are different substances, the act of thinking can never be emulated in space: machines can not have the universal faculty of reason. Descartes gives two separate motivations:
 

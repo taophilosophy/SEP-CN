@@ -590,7 +590,7 @@ Brentano, Franz | Brentano, Franz: theory of judgement | Husserl, Edmund | Lotze
 
 [^twardowski-1999]: Twardowski, K., 1999, *On Actions, Products and other Topics in Philosophy*, J. Brandl & J. Wolenski (eds.), Amsterdam: Rodopi.
 
-[^valentine-2000]: Valentine, E., 2000, “Carl Stumpf and English Music Psychology”,*Brentano Studien*, 9: 251–265.
+[^valentine-2000]: Valentine, E., 2000, “Carl Stumpf and English Music Psychology”, *Brentano Studien*, 9: 251–265.
 
 [^wertheimer-1918]: Wertheimer, M., 1918, “Feier zu Carl Stumpf 70. Geburtstag, 21. April 1918,” Ms. [Max Wertheimer Papers, Colorado].
 

@@ -27,13 +27,17 @@ In these examples, the conclusions do not follow logically from the premises. Fo
 
 Abduction is normally thought of as being one of three major types of inference, the other two being deduction and induction. The distinction between deduction, on the one hand, and induction and abduction, on the other hand, corresponds to the distinction between necessary and non-necessary inferences. In deductive inferences, what is inferred is *necessarily* true if the premises from which it is inferred are true; that is, the truth of the premises *guarantees* the truth of the conclusion. A familiar type of example is inferences instantiating the schema
 
-> All *A*s are *B*s. *a* is an *A*. Hence, *a* is a *B*.
+> All *A*s are *B*s.
+> *a* is an *A*.
+> Hence, *a* is a *B*.
 
 But not all inferences are of this variety. Consider, for instance, the inference of “John is rich” from “John lives in Chelsea” and “Most people living in Chelsea are rich.” Here, the truth of the first sentence is not guaranteed (but only made likely) by the joint truth of the second and third sentences. Differently put, it is not necessarily the case that if the premises are true, then so is the conclusion: it is logically compatible with the truth of the premises that John is a member of the minority of non-rich inhabitants of Chelsea. The case is similar regarding your inference to the conclusion that Tim and Harry are friends again on the basis of the information that they have been seen jogging together. Perhaps Tim and Harry are former business partners who still had some financial matters to discuss, however much they would have liked to avoid this, and decided to combine this with their daily exercise; this is compatible with their being firmly decided never to make up.
 
-It is standard practice to group non-necessary inferences into *inductive* and *abductive*ones. Inductive inferences form a somewhat heterogeneous class, but for present purposes they may be characterized as those inferences that are based purely on statistical data, such as observed frequencies of occurrences of a particular feature in a given population. An example of such an inference would be this:
+It is standard practice to group non-necessary inferences into *inductive* and *abductive* ones. Inductive inferences form a somewhat heterogeneous class, but for present purposes they may be characterized as those inferences that are based purely on statistical data, such as observed frequencies of occurrences of a particular feature in a given population. An example of such an inference would be this:
 
-> 96 per cent of the Flemish college students speak both Dutch and French. Louise is a Flemish college student. Hence, Louise speaks both Dutch and French.
+> 96 per cent of the Flemish college students speak both Dutch and French.
+> Louise is a Flemish college student.
+> Hence, Louise speaks both Dutch and French.
 
 However, the relevant statistical information may also be more vaguely given, as in the premise, “Most people living in Chelsea are rich.” (There is much discussion about whether the conclusion of an inductive argument can be stated in purely qualitative terms or whether it should be a quantitative one—for instance, that it holds with a probability of .96 that Louise speaks both Dutch and French—or whether it can *sometimes* be stated in qualitative terms—for instance, if the probability that it is true is high enough—and sometimes not. On these and other issues related to induction, see Kyburg 1990 (Ch. 4). It should also be mentioned that Harman (1965) conceives induction as a special type of abduction. See also Weintraub 2013 for discussion.)
 
@@ -89,7 +93,7 @@ The first option is to modify the rule so as to have it require an absolute prem
 
 **ABD2**
 
-Given evidence *E* and candidate explanations *H*₁,…, *H*_{*n*} of *E*, infer the truth of *that**H*_{*i*} which explains *E* best, provided *H*_{*i*} is satisfactory/good enough *qua* explanation.
+Given evidence *E* and candidate explanations *H*₁,…, *H*_{*n*} of *E*, infer the truth of *that* *H*_{*i*} which explains *E* best, provided *H*_{*i*} is satisfactory/good enough *qua* explanation.
 
 Needless to say, ABD2 needs supplementing by a criterion for the satisfactoriness of explanations, or their being good enough, which, however, we are still lacking.
 
@@ -137,7 +141,7 @@ To this, Stathis Psillos (1999, Ch. 4) has responded by invoking a distinction c
 
 Even if the use of abduction in Boyd’s argument might have led to the conclusion that abduction is *not* reliable, one may still have worries about the argument’s being rule-circular. For suppose that some scientific community relied not on abduction but on a rule that we may dub “Inference to the Worst Explanation” (IWE), a rule that sanctions inferring to the *worst* explanation of the available data. We may safely assume that the use of this rule mostly would lead to the adoption of very unsuccessful theories. Nevertheless, the said community might justify its use of IWE by dint of the following reasoning: “Scientific theories tend to be hugely unsuccessful. These theories were arrived at by application of IWE. That IWE is a reliable rule of inference—that is, a rule of inference mostly leading from true premises to true conclusions—is surely the worst explanation of the fact that our theories are so unsuccessful. Hence, by application of IWE, we may conclude that IWE is a reliable rule of inference.” While this would be an utterly absurd conclusion, the argument leading up to it cannot be convicted of being viciously circular anymore than Boyd’s argument for the reliability of abduction can (if Psillos is right). It would appear, then, that there must be something else amiss with rule-circularity.
 
-It is fair to note that for Psillos, the fact that a rule-circular argument does not guarantee a positive conclusion about the rule at issue is not sufficient for such an argument to be valid. A further necessary condition is “that one should not have reason to doubt the reliability of the rule—that there is nothing currently available which can make one distrust the rule” (Psillos 1999, 85)[^psillos-1999]. And there is plenty of reason to doubt the reliability of IWE; in fact, the above argument *supposes*that it is unreliable. Two questions arise, however. First, why should we accept the additional condition? Second, do we really have *no* reason to doubt the reliability of abduction? Certainly *some* of the abductive inferences we make lead us to accept *falsehoods*. How many falsehoods may we accept on the basis of abduction before we can legitimately begin to distrust this rule? No clear answers have been given to these questions.
+It is fair to note that for Psillos, the fact that a rule-circular argument does not guarantee a positive conclusion about the rule at issue is not sufficient for such an argument to be valid. A further necessary condition is “that one should not have reason to doubt the reliability of the rule—that there is nothing currently available which can make one distrust the rule” (Psillos 1999, 85)[^psillos-1999]. And there is plenty of reason to doubt the reliability of IWE; in fact, the above argument *supposes* that it is unreliable. Two questions arise, however. First, why should we accept the additional condition? Second, do we really have *no* reason to doubt the reliability of abduction? Certainly *some* of the abductive inferences we make lead us to accept *falsehoods*. How many falsehoods may we accept on the basis of abduction before we can legitimately begin to distrust this rule? No clear answers have been given to these questions.
 
 Be this as it may, even if rule-circularity is neither vicious nor otherwise problematic, one may still wonder how Boyd’s argument is to convert a critic of abduction, given that it relies on abduction. But Psillos makes it clear that the point of philosophical argumentation is not always, and in any case need not be, to convince an opponent of one’s position. Sometimes the point is, more modestly, to assure or reassure oneself that the position one endorses, or is tempted to endorse, is correct. In the case at hand, we need not think of Boyd’s argument as an attempt to convince the opponent of abduction of its reliability. Rather, it may be thought of as justifying the rule from within the perspective of someone who is already sympathetic towards abduction; see Psillos 1999 (89).
 
@@ -371,7 +375,7 @@ epistemology: Bayesian | induction: problem of | Peirce, Charles Sanders | scien
 
 [^pargetter-1984]: Pargetter, R., 1984. “The Scientific Inference to Other Minds,” *Australasian Journal of Philosophy*, 62: 158–163.
 
-[^peirce-1931]: Peirce, C. S. [CP]. *Collected Papers of Charles Sanders Peirce*, edited by C. Hartshorne, P. Weiss, and A. Burks, 1931–1958, Cambridge MA: Harvard University Press.
+[^peirce-1931]: Peirce, C. S. [**CP**]. *Collected Papers of Charles Sanders Peirce*, edited by C. Hartshorne, P. Weiss, and A. Burks, 1931–1958, Cambridge MA: Harvard University Press.
 
 [^pettigrew-2021]: Pettigrew, R., 2021. “On the Pragmatic and Epistemic Virtues of Inference to the Best Explanation,” *Synthese*, 199: 12407–12438.
 

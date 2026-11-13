@@ -414,7 +414,8 @@ Carnap (1923, 100) had already noted the additional degrees of freedom in the se
 
 To avoid these problems, Ramsey (1929a, [FM] 231) suggests a way of applying a theory without defining the secondary terms:
 
-> The best way to write our theory seems to be this: $(\exists \alpha, \beta, \gamma)$: *dictionary* $\cdot$ *axioms*.
+> The best way to write our theory seems to be this:
+> $(\exists \alpha, \beta, \gamma)$: *dictionary* $\cdot$ *axioms*.
 
 $\alpha$, $\beta$, and $\gamma$ are variables for the terms of the secondary system and are interpreted purely extensionally, so that the theory states “There are extensions $\alpha$, $\beta$, and $\gamma$ that satisfy the sentences of the dictionary and the axioms”. In contemporary presentations, the axioms are usually denoted $T$ (for ‘theory’), the dictionary is denoted $C$ (for ‘correspondence rules’), and the secondary terms $T_1,\ldots ,T_n$ are treated as parameters in $T$ and $C$, so that the conjunction of axioms and dictionary is written as $TC(T_1,\ldots ,T_n)$. What is now called the ‘Ramsey sentence’ ${TC}^R$ is then written as
 
@@ -570,19 +571,23 @@ The SEP editors would like to thank Fraser MacBride for helping us to organize t
 
 [^note-2]: The derivation of the ‘equal difference in utility’ definition proceeds as follows. Where $p$ is ethically neutral and the subject not indifferent between $\omega_1$ and $\omega_2$, $bel(p) = 0.5$ whenever the subject is indifferent between ‘$\omega_1$ if $p$, $\omega_2$ otherwise’ and ‘$\omega_2$ if $p$, $\omega_1$ otherwise’. To see this, note that under Ramsey's assumed 'general psychological theory', the indifference holds iff
 
-> $bel(p)des(\omega_1 \,\&\, p) + (1 - bel(p))des(\omega_2 \,\&\, \neg{}p) =$    $ bel(p)des(\omega_2 \,\&\, p) + (1 - bel(p))des(\omega_1 \,\&\, \neg{}p)$
+> $bel(p)des(\omega_1 \,\&\, p) + (1 - bel(p))des(\omega_2 \,\&\, \neg{}p) =$
+>    $ bel(p)des(\omega_2 \,\&\, p) + (1 - bel(p))des(\omega_1 \,\&\, \neg{}p)$
 
 Assuming that $p$ is ethically neutral, this can be re-written:
 
-> $bel(p)des(\omega_1) + (1 - bel(p))des(\omega_2) =$    $bel(p)des(\omega_2) + (1 - bel(p))des(\omega_1)$
+> $bel(p)des(\omega_1) + (1 - bel(p))des(\omega_2) =$
+>    $bel(p)des(\omega_2) + (1 - bel(p))des(\omega_1)$
 
 where $des(\omega_1) \neq des(\omega_2)$. From there we can derive by that $bel(p) = 0.5$. Now suppose that $p$ is an ethically neutral proposition of probability 0.5, and that the subject is indifferent between ‘$\omega_1$ if $p$, $\omega_4$ if $\neg{p}$’ and ‘$\omega_2$ if $p$, $\omega_3$ if $\neg{p}$’. This holds iff
 
-> $bel(p)des(\omega_1 \,\&\, p) + (1 - bel(p))des(\omega_4 \,\&\, \neg{}p) =$    $bel(p)des(\omega_2 \,\&\, p) + (1 - bel(p))des(\omega_3 \,\&\, \neg{}p)$
+> $bel(p)des(\omega_1 \,\&\, p) + (1 - bel(p))des(\omega_4 \,\&\, \neg{}p) =$
+>    $bel(p)des(\omega_2 \,\&\, p) + (1 - bel(p))des(\omega_3 \,\&\, \neg{}p)$
 
 which we can now reduce to
 
-> $bel(p)des(\omega_1) + (1 - bel(p))des(\omega_4) =$    $bel(p)des(\omega_2) + (1 - bel(p))des(\omega_3)$
+> $bel(p)des(\omega_1) + (1 - bel(p))des(\omega_4) =$
+>    $bel(p)des(\omega_2) + (1 - bel(p))des(\omega_3)$
 
 Since $bel(p) = 1 - bel(p)$, we can drop out the constant factor, leaving us with
 

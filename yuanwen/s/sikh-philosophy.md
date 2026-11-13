@@ -193,7 +193,10 @@ Clearly, Guru Nanak’s moral standard of egoloss, the *gurmukh*, takes us beyon
 
 ### Primary Sources:
 
-> *Hear, O mind, this truth I tell*: *Seek refuge with the Lord*, *Give up your tricks and cleverness* *To be absorbed in Him*.
+> *Hear, O mind, this truth I tell*:
+> *Seek refuge with the Lord*,
+> *Give up your tricks and cleverness*
+> *To be absorbed in Him*.
 
 ### Secondary Sources
 

@@ -127,7 +127,8 @@ By the same token, however, Darwinism has evolved. As one example of this truth,
 
 ## 3. The Six Core Philosophical Problems Today
 
-> Theories need both essences and histories. Stephen Jay Gould (2002, 1)
+> Theories need both essences and histories.
+> Stephen Jay Gould (2002, 1)
 
 So reads the heading of the very first section of the first chapter of Gould’s monumental *The Structure of Evolutionary Theory*. Opening with a subtle reading of an exchange of letters in 1863 between paleontologist Hugh Falconer and Charles Darwin, Gould eventually explains what he has in mind by this section heading:
 

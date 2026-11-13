@@ -209,7 +209,7 @@ analogy: medieval theories of | Buridan, John [Jean] | haecceity: medieval theor
 
 [^domingo-1980]: Domingo de Soto. *Summulae*, Salamanca: 1554–55; rpr. Hildesheim-New York: Georg Olms, 1980.
 
-[^donatus-1981]: Donatus, *Ars Maior*, in Louis Holtz, *Donat et la tradition de l’enseignement grammatical, étude sur l’Ars Donati et sa diffusion (IVᵉ-IXᵉ siècles)*, Paris: CNRS éditions: 1981.****
+[^donatus-1981]: Donatus, *Ars Maior*, in Louis Holtz, *Donat et la tradition de l’enseignement grammatical, étude sur l’Ars Donati et sa diffusion (IVᵉ-IXᵉ siècles)*, Paris: CNRS éditions: 1981.
 
 [^john-1964]: John Buridan. *Kommentar zur Aristotelischen Metaphysik.* Paris: 1588 [actually 1518]; reprinted as *In Metaphysicen Aristotelis Quaestiones*, Frankfurt a. M.: Minerva, 1964.
 

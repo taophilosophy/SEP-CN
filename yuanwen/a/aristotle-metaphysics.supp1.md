@@ -12,7 +12,9 @@ At the center of the controversy is the interpretation of Aristotle’s definiti
 
 > *x* is in *y* =_{df}
 >
-> > (a) *x* belongs to *y*, and (b) *x* is not a part of *y*, and (c) *x* cannot exist separately from *y*.
+> > (a) *x* belongs to *y*, and
+> > (b) *x* is not a part of *y*, and
+> > (c) *x* cannot exist separately from *y*.
 
 On this understanding, the only thing that can, strictly speaking, be ‘in’ a particular subject (e.g., Socrates) is something that cannot exist separately from that subject. The color ‘in’ Socrates, in this sense, could not exist ‘in’ anything else. Indeed, the only thing that can be ‘in’ a particular substance, in this sense, is something that cannot exist separately from that substance.
 
@@ -33,7 +35,9 @@ A third reading of Aristotle’s definition is that of Frede 1987:
 
 > *x* is in something as its subject =_{df}
 >
-> > There is a subject, *y*, such that     (a) *x* is not a part of *y*, and     (b) *x* cannot exist independently of *y*.
+> > There is a subject, *y*, such that
+> >     (a) *x* is not a part of *y*, and
+> >     (b) *x* cannot exist independently of *y*.
 
 Frede’s reading is different from the other two in some ways, yet shares features of each. One difference is that Frede takes ‘part’ to mean *conceptual part*, i.e., part of the definition. Since clause (a) thus tells us that *x* is not part of the definition of *y*, clauses (a) and (b) together guarantee that *x* belongs accidentally to *y*. A more important difference for present purposes is that on Frede’s reading Aristotle is defining the one-place predicate ‘*x* is in a subject’, not the two-place predicate ‘*x* is in *y*’. That is, he is defining what it is to be an *accident*, the sort of thing that is ‘in’ a subject, rather than what it is for *x* to be ‘in’ *y*. This reading, like Owen’s, allows a generic quality, such as *white* or *color*, to be ‘in’ a particular substance. *White* can be ‘in’ Socrates because it is an accident (i.e., it is an ‘in a subject’ sort of thing) and belongs to (i.e., is an accident of) Socrates. Yet, like Ackrill’s, it has a specific “inseparability” requirement. That is, in order for *x* to be an accident, there must be some sort of thing that *x* is incapable of existing separately from. In the case of *color*, that thing is *body*.
 

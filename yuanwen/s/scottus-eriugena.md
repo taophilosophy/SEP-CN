@@ -264,9 +264,9 @@ al-Kindi | Augustine of Hippo | Boethius, Anicius Manlius Severinus | Christian 
 
 [^natura-1996]: liber primus, *Natura quae creat et non creatur*, (Corpus Christianorum Continuatio Mediaevalis 161), 1996.
 
-[^natura-1997]: iber secundus, *Natura quae creatur et creat*,(Corpus Christianorum Continuatio Mediaevalis 162), 1997.
+[^natura-1997]: iber secundus, *Natura quae creatur et creat* ,(Corpus Christianorum Continuatio Mediaevalis 162), 1997.
 
-[^natura-1999]: liber tertius, *Natura quae creatur et non creat*, (Corpus Christianorum Continuatio Mediaevalis 163), 1999.
+[^natura-1999]: liber tertius, *Natura quae creatur et non creat* , (Corpus Christianorum Continuatio Mediaevalis 163), 1999.
 
 [^de-2000]: liber quartus, *De homine*, (Corpus Christianorum Continuatio Mediaevalis 164), 2000.
 

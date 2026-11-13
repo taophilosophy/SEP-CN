@@ -953,7 +953,7 @@ But the point is that if one were to turn Kanazawa’s approach into a semantics
 
 [^krifka-1996b]: –––, 1996b, “Pragmatic strengthening in plural predications and donkey sentences”, *6th Semantics and Linguistic Theory Conference (SALT 6)*, 136–153.
 
-[^križ-2016]: Križ, Manuel, 2016, “Homogeneity, non-maximality, and *all*”, *Journal of Semantics*, 33(3): 493–539.
+[^križ-2016]: Križ, Manuel, 2016, “Homogeneity, non-maximality, and *all* ”, *Journal of Semantics*, 33(3): 493–539.
 
 [^kuhn-2016]: Kuhn, Jeremy, 2016, “ASL Loci: Variables or Features?”, *Journal of Semantics*.
 

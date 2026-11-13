@@ -1581,7 +1581,7 @@ One could also use a primitive notion of general sum, though a proper treatment 
 
 [^link-1983]: Link, G., 1983, ‘The Logical Analysis of Plural and Mass Terms: A Lattice-Theoretical Approach’, in R. Bäuerle *et al.* (eds.), *Meaning, Use, and Interpretation of Language*, Berlin: de Gruyter, pp. 303–323.
 
-[^link-2014]: –––, 2014, *Collegium Logicum: Logische Grundlagen der Philosophie und der Wissenschaften, Band 2*, Münster: Mentis.
+[^link-2014]: –––, 2014, *Collegium Logicum: Logische Grundlagen der Philosophie und der Wissenschaften, Band 2* , Münster: Mentis.
 
 [^lipman-2021]: Lipman, M.A., 2021, ‘On Relativist Approaches to Many-One Identity’, *Synthese*, 198: 4453–4465.
 

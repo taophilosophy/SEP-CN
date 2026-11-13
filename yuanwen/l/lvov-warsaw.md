@@ -55,7 +55,8 @@ The discovery of many-valued logic is commonly considered to be one of the major
 
 Łukasiewicz observed that no functor of classical propositional calculus could be read as “it is possible that” and provided that the formula *Mp* (it is possible that *p*) is extensional (i.e., that its value depends solely on the value of *p*). The difficulty can be solved if we admit a third value. Sentences about future contingent states of affairs are natural candidates for having the third value (½). For example, the sentence “I will visit Warszawa next year”, is neither true nor false, it is merely possible and has the value ½. Its negation has the same value. This idea led to three-valued logic. The usual equalities for *N*, *A*, *K*and *C* are supplemented by (I list only some cases) *p* = ½ = *Np*, *K* ½½ = ½, *A*½½ = ½. Easy calculations shows that *ApNp* and *NKpNp* have the value ½ for *p* = ½. This means that the laws of contradiction and excluded middle do not hold in three-valued logic. Later, Łukasiewicz generalized it to logics with an arbitrary finite number of values and finally to an countably infinite number of values. The sense of implication is given by the equations:
 
-> *Cpq* = 1, for *p*≤*q* *Cpq* = 1−(*p + q*), for *p*>*q*,
+> *Cpq* = 1, for *p*≤*q*
+> *Cpq* = 1−(*p + q*), for *p*>*q*,
 
 and the sense of negation by the equation:
 

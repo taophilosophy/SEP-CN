@@ -494,7 +494,7 @@ This entry, beginning with the July 2017 version, is almost entirely written by 
 
 [^goff-2021]: –––, 2021, “Putting Consciousness First”, in Goff and Moran 2021, 289–328.
 
-[^goff-2021-2]: Goff, Philip & Moran, Alex, (eds.) 2021, *Is Consciousness Everywhere? Essays on Panpsychism*, special issue of *Journal of Consciousness Studies,*28(9-10).
+[^goff-2021-2]: Goff, Philip & Moran, Alex, (eds.) 2021, *Is Consciousness Everywhere? Essays on Panpsychism*, special issue of *Journal of Consciousness Studies,* 28(9-10).
 
 [^griffin-1998]: Griffin, David Ray, 1998, *Unsnarling the World-Knot: Consciousness, Freedom, and the Mind-Body Problem*, Minneapolis: University of Minnesota Press.
 
@@ -650,7 +650,7 @@ This entry, beginning with the July 2017 version, is almost entirely written by 
 
 [^russell-1927]: –––, 1927, *The Analysis of Matter*, London: George Allen and Unwin.
 
-[^schaffer-2010]: Schaffer, Jonathan, 2010, “Monism: The Priority of the Whole”,*Philosophical Review*, 119(1): 31–76; reprinted in P. Goff (ed.), 2012, *Spinoza on Monism*, London: Palgrave Macmillan, pp. 9–50. doi:10.1215/00318108-2009-025
+[^schaffer-2010]: Schaffer, Jonathan, 2010, “Monism: The Priority of the Whole”, *Philosophical Review*, 119(1): 31–76; reprinted in P. Goff (ed.), 2012, *Spinoza on Monism*, London: Palgrave Macmillan, pp. 9–50. doi:10.1215/00318108-2009-025
 
 [^schneider-2018]: Schneider, Susan, 2018, “Spacetime Emergence, Panpsychism, and the Nature of Consciousness”, *Scientific American*, https://blogs.scientificamerican.com/observations/spacetime-emergence-panpsychism-and-the-nature-of-consciousness/
 

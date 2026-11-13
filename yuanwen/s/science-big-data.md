@@ -134,7 +134,7 @@ By contrast, within the relational view an object can only be identified as datu
 
 This view accounts for the mobility and repurposing that characterises big data use, and for the possibility that objects that were not originally generated in order to serve as evidence may be subsequently adopted as such. Consider Mayo and Spanos’s “minimal scientific principle for evidence”, which they define as follows:
 
-> Data x₀ provide poor evidence for *H* if they result from a method or procedure that has little or no ability of finding flaws in *H*, even if *H* is false. (Mayo & Spanos 2009b)[^mayo-2009b]
+> Data **x**₀ provide poor evidence for *H* if they result from a method or procedure that has little or no ability of finding flaws in *H*, even if *H* is false. (Mayo & Spanos 2009b)[^mayo-2009b]
 
 This principle is compatible with the relational view of data since it incorporates cases where the methods used to generate and process data may not have been geared towards the testing of a hypothesis H: all it asks is that such methods can be made relevant to the testing of H, at the point in which data are used as evidence for H (I shall come back to the role of hypotheses in the handling of evidence in the next section).
 

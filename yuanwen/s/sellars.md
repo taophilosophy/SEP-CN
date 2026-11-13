@@ -157,7 +157,9 @@ But Sellars is not, in the end, a reliabilist. Thermometers may be highly reliab
 
 > [T]o be fully a master of his language, Jones must know [some] facts about what is involved in learning to use perceptual sentences in perceptual contexts. Thus, Jones too must know that other specifiable things being equal, the fact that a person says ‘Lo! Here is a red apple’ is a good reason to believe that he is indeed in the presence of a red apple. Thus, Jones, too, can reason:
 >
-> > I just thought-out-loud ‘Lo! Here is a red apple’ (no countervailing conditions obtain); So, there is good reason to believe that there is a red apple in front of me. (SK II §40: 325)
+> > I just thought-out-loud ‘Lo! Here is a red apple’
+> > (no countervailing conditions obtain);
+> > So, there is good reason to believe that there is a red apple in front of me. (SK II §40: 325)
 
 The point is not simply that knowers are capable of metajudgments. Sellars has a larger condition in mind: “The essential point is that in characterizing an episode or a state as that of *knowing*, we are not giving an empirical description of that episode or state; we are placing it in the logical space of reasons, of justifying and being able to justify what one says” (EPM: §36, in SPR: 169; in KMG: 248). This dictum needs to be combined with another well-known Sellarsian pronouncement: “Now the idea that epistemic facts can be analysed without remainder—even ‘in principle’—into non-epistemic facts, whether phenomenal or behavioural, public or private, with no matter how lavish a sprinkling of subjunctives and hypotheticals is, I believe, a radical mistake—a mistake of a piece with the so-called ‘naturalistic fallacy’ in ethics” (EPM: §5, in SPR: 131; in KMG: 209).
 
@@ -245,7 +247,8 @@ In a world that science teaches us is a blooming, buzzing confusion of unobserva
 
 If this argument is right, then the postulation of sense impressions must differ in some important ways from the kind of theoretical postulation that typically results in a belief in new microentities. And this is what Sellars argues.
 
-> [T]he theory of sense impressions does not *introduce*, for example, cubical volumes of pink. It reinterprets the *categorial* status of the cubical volumes of pink of which we are perceptually aware. Conceived in the manifest image as, in standard cases, *constituents* of physical objects and in abnormal cases, as somehow ‘unreal’ or ‘illusory’, they are *recategorized* as sensory states of the perceiver and assigned various explanatory roles in the theory of perception… . 47. The pinkness of a pink sensation is ‘analogous’ to the pinkness of a manifest pink ice cube, not by being a *different quality* which is in some respect analogous to pinkness (as the quality a Martian experiences in certain magnetic fields might be analogous to pink with respect to its place in a quality space), but by being the same ‘content’ in a different categorical ‘form’ (FMPP III: 73).
+> [T]he theory of sense impressions does not *introduce*, for example, cubical volumes of pink. It reinterprets the *categorial* status of the cubical volumes of pink of which we are perceptually aware. Conceived in the manifest image as, in standard cases, *constituents* of physical objects and in abnormal cases, as somehow ‘unreal’ or ‘illusory’, they are *recategorized* as sensory states of the perceiver and assigned various explanatory roles in the theory of perception… .
+> 47. The pinkness of a pink sensation is ‘analogous’ to the pinkness of a manifest pink ice cube, not by being a *different quality* which is in some respect analogous to pinkness (as the quality a Martian experiences in certain magnetic fields might be analogous to pink with respect to its place in a quality space), but by being the same ‘content’ in a different categorical ‘form’ (FMPP III: 73).
 
 Sellars holds, then, that the logical space of the sensible qualities has been successively recategorized in different stages of human development. He proposes that this history will take one more turn as science develops further: unable to reduce or eliminate the sensibles, science will postulate a distinctive set of entities, *sensa*, to be the final embodiment of the sensible qualities, physical₁ but not physical₂. Sellars is a physicalist about color, not because he thinks colors can be reduced to more basic properties and relations of physical objects, but because physics will have to expand to accommodate the sensible qualities, color included, as primitive entities.
 
@@ -397,7 +400,10 @@ Sellars distinguishes two different kinds of ‘oughts’ or rules. There are *o
 
 Sellars’s other ‘ought’ is the *ought-to-be*, aka rules of criticism. For example, it ought to be the case that dogs come when their masters call. Such a rule speaks to no agent in particular, and it is certainly not a rule that dogs *obey* in the paradigmatic sense. It simply endorses a particular state of affairs without regard for any mode of achieving it. Still, dogs can exhibit a pattern of behavior that accords with the rule, and they can do so *because* of the rule, if their masters train them to come when called because the masters have reasoned along the following lines:
 
-> It ought to be the case that dogs come when their masters call. Therefore, it ought to be the case that my dog comes when I call. My dog will come when called only if I train it to do so. Therefore, I ought to train my dog to come when called.
+> It ought to be the case that dogs come when their masters call.
+> Therefore, it ought to be the case that my dog comes when I call.
+> My dog will come when called only if I train it to do so.
+> Therefore, I ought to train my dog to come when called.
 
 This reasoning moves from an ought-to-be to a relevant ought-to-do and comes to full fruition not in a belief about one’s obligations, but in a set of actions that result in one’s dog learning to come when called. Ought-to-be’s imply ought-to-do’s; and ought-to-do’s typically lead to action.
 

@@ -125,9 +125,11 @@ Kant was interested not only in the inanimate bodies studied by physics, but als
 
 It is just these peculiarities that create philosophical challenges not met with in physics and chemistry. Kant tackles them in the latter half of his third magnum opus, the *Critique of the Power of Judgment* (1790). In particular, he claims that attempting to explain organisms creates an inevitable conflict within reflective judgment, the faculty we employ in empirical concept formation, taxonomic classification, and the explanatory unification of particular laws. Kant describes that conflict in the Antinomy of Teleological Judgment (*CJ* §§ 69–78; 5: 385–415). The Antinomy obtains between two regulative principles, herein prefixed by an ‘R’ to distinguish them from two similar *constitutive* principles that Kant briefly discusses in the same place:
 
-> **R-thesis**: All generation of material things and their forms must be judged as possible in accordance with merely mechanical laws.
+> **R-thesis**:
+> All generation of material things and their forms must be judged as possible in accordance with merely mechanical laws.
 >
-> **R-antithesis**: Some products of material nature cannot be judged as possible according to merely mechanical laws (judging them requires an entirely different law of causality, namely that of final causality) (5: 387).
+> **R-antithesis**:
+> Some products of material nature cannot be judged as possible according to merely mechanical laws (judging them requires an entirely different law of causality, namely that of final causality) (5: 387).
 
 A great deal of scholarship has aimed to elucidate this antinomy, and in the last decade these interpretive efforts have gained new momentum (see also the entry “Kant’s Aesthetics and Teleology” in this encyclopedia). In particular, sustained attention has been given to three questions: In what sense are organisms inexplicable mechanically, for Kant? What exactly is the contradiction that generates the Antinomy? And precisely how does Kant solve it?
 

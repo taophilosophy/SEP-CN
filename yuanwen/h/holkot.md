@@ -253,7 +253,7 @@ All translations are by the authors.
 
 [^incandela-1994]: Incandela, Joseph M., 1994. “Robert Holcot, O.P., on Prophecy, the Contingency of Revelation, and the Freedom of God,” *Medieval Philosophy and Theology*, 4: 165–188.
 
-[^keele-2007]: Keele, Rondo, 2007. “Oxford *Quodlibeta* from Ockham to Holcot,” in *Theological*quodlibeta*in the Middle Ages: the Fourteenth Century*, Christopher Schabel (ed.), Leiden: Brill, 651–692
+[^keele-2007]: Keele, Rondo, 2007. “Oxford *Quodlibeta* from Ockham to Holcot,” in *Theological* quodlibeta *in the Middle Ages: the Fourteenth Century*, Christopher Schabel (ed.), Leiden: Brill, 651–692
 
 [^kennedy-1993]: Kennedy, Leonard A., 1993. *The Philosophy of Robert Holcot, Fourteenth-Century Skeptic* (Studies in the History of Philosophy, Number 27), Lewiston, NY: Edwin Mellon Press.
 

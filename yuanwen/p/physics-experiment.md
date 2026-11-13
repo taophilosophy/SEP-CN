@@ -514,11 +514,13 @@ We are grateful to Professor Carl Craver for both his comments on the manuscript
 
 [^note-1]: As the late Richard Feynman, one of the leading theoretical physicists of the twentieth century, wrote:
 
-> The principle of science, the definition, almost, is the following: *The test of all knowledge is experiment*. Experiment is the *sole judge* of scientific ‘truth’. (Feynman, Leighton and Sands 1963, p. 1-1)
+> The principle of science, the definition, almost, is the following: *The test of all knowledge is experiment*. Experiment is the *sole judge* of scientific ‘truth’.
+> (Feynman, Leighton and Sands 1963, p. 1-1)
 
 In these postmodern times this might seem to be an old-fashioned view, but it is, I believe, correct. Not everyone would agree. As Andy Pickering has remarked,
 
-> …there is no obligation upon anyone framing a view of the world to take account of what twentieth-century science has to say. (Pickering 1984a, p. 413)[^pickering-1984a]
+> …there is no obligation upon anyone framing a view of the world to take account of what twentieth-century science has to say.
+> (Pickering 1984a, p. 413)[^pickering-1984a]
 
 [^note-2]: By valid, I mean that the experimental result has been argued for in the correct way, by use of epistemological strategies such as those discussed below.
 
@@ -610,7 +612,8 @@ Although Collins seems to regard Harrison’s problems with replication as casti
 >
 > I admit that my way out may look rather improbable at first since if the neutron existed it would have been seen long ago. But nothing ventured, nothing gained. The gravity of the situation with the continuous beta spectrum was illuminated by a remark by my distinguished predecessor in office, Mr. DeBye, who recently said to me in Brussels, “Oh, that’s a problem like the new taxes; one had best not think about it at all.” So one ought to discuss seriously any way that may lead to salvation. Well, dear radioactive friends, weigh it and pass sentence! Unfortunately, I cannot appear personally in Tubingen, for I cannot get away from Zurich on account of a ball which is held here on the night of December 6–7. With best regards to you and to Mr. Baek,
 >
-> Your most obedient servant,     W. Pauli
+> Your most obedient servant,
+>     W. Pauli
 >
 > (Quoted in Ford 1968, p. 849.)[^ford-1968]
 

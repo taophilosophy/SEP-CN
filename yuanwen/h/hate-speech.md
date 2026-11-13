@@ -171,7 +171,8 @@ One issue expressivist views have been thought to have trouble with is *derogato
 
 Jeshion (2013a) attempts to answer this objection by arguing that her expressivist view “is only incompatible with versions of derogatory variation that stipulate that the variation derives from the semantics” (243). Jeshion maintains that focusing on slurring terms rather than particular utterances of those terms causes us to reflect on various factors at play that contribute to their power to offend. In effect, such focusing obscures the various factors brought to bear on judgments of offensiveness. Thus, Jeshion claims we ought to think our intuitive judgments about varying offense support the following thesis:
 
-> *Derogatory Variation-Utterance*: Utterances of different slurring terms engender different degrees of intensity of offensiveness. (2013a, 244)
+> *Derogatory Variation-Utterance*:
+> Utterances of different slurring terms engender different degrees of intensity of offensiveness. (2013a, 244)
 
 Jeshion argues that this thesis is compatible with her account because weaponized uses of slurs are offensive for several reasons: semantic, pragmatic, sociocultural, and historical. As a result, there should be no expectation that a semantic view like hers need explain derogatory variation semantically.
 
@@ -294,11 +295,13 @@ The juxtaposition of sentences in (3.11) is supposed to strike the reader as con
 
 According to a third view, code words are neither ambiguous nor multidimensional, but possess only nonracial meaning. What explains the phenomenon associated with terms like ‘inner city’ is the presence of an antecedent belief in the audience member that then allows them to infer the racial component. For example, an audience member may already believe
 
-> *Pre-existing Belief* (PB): The inner city is mostly populated by poor African Americans,
+> *Pre-existing Belief* (PB):
+> The inner city is mostly populated by poor African Americans,
 
 so that when hearing a politician proclaim (3.5), the audience member comes to infer
 
-> *Racial Inference* (RI): The food stamp program will primarily benefit poor African Americans.
+> *Racial Inference* (RI):
+> The food stamp program will primarily benefit poor African Americans.
 
 A contrasting view that draws on the same simple semantics is what Khoo calls the *association-driven* theory of code words. On this view, there is “an association between ‘inner city’ (or the concept INNER CITY) and the concept AFRICAN AMERICAN (or maybe just RACE) which then primes racist beliefs and prejudices” (2017, 50).
 
@@ -333,7 +336,8 @@ The specific mechanics of silencing—along with the underlying theory that best
 
 Laura Caponetto (2021) distinguishes four different types of silencing, demonstrating the breadth of the concept. First, there is *essential* silencing, which consists in the hearer’s failure to recognize the illocutionary point of a speech act. Second, there is *authority* silencing, where a hearer fails to acknowledge a speaker’s authority in a relevant domain. Third, there is *sincerity* silencing, when the speaker’s utterance is inaccurately taken as insincere. Fourth and finally, there is *seriousness* silencing, which consists in the hearer’s failure to acknowledge the speaker’s words as appropriately serious. Given these fine-grained ways of understanding silencing, a broad, comprehensive definition of silencing may be put as follows:
 
-> *Illocutionary Silencing* A speaker *S* putting forth a speech act *A* addressed to a hearer *H* is illocutionarily silenced iff (i) *H* fails to recognize the obtaining of some conditions for *A*’s success; (ii) *S*’s attempt at *A*-ing meets the conditions that *H* fails to recognize; (iii) normal input and output conditions are met; (iv) the recognition failure on *H*’s part is systematic. (Caponetto, 2021)
+> *Illocutionary Silencing*
+> A speaker *S* putting forth a speech act *A* addressed to a hearer *H* is illocutionarily silenced iff (i) *H* fails to recognize the obtaining of some conditions for *A*’s success; (ii) *S*’s attempt at *A*-ing meets the conditions that *H* fails to recognize; (iii) normal input and output conditions are met; (iv) the recognition failure on *H*’s part is systematic. (Caponetto, 2021)
 
 In nearly all discussions of silencing, one common piece of contention concerns the notion of ‘uptake.’ On different understanding of what uptake consists in—ranging from the hearer’s recognition of a speaker’s intent, or the type of speech act being performed, up to the material consequences of a speech act—we are led to different conclusions about whether a speaker was silenced or not. Disagreement about the conditions of uptake poses difficulty, therefore, for many accounts of silencing. Drawing on these difficulties, Samia Hesni (2018) has argued that the standard account of silencing needs significant retooling, in part because the necessary distinction between illocutionary silencing and perlocutionary silencing cannot hold, as it relies on a problematic—and arguably conceptually untenable—notion of uptake (Hesni, 2018, 957). In an attempt to avoid these difficulties, we might prefer an account of silencing that uses a Gricean, rather than Austinian or Searlian framework, bypassing the need to fully differentiate the illocutionary from the perlocutionary (see Maitra, 2009).
 

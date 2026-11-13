@@ -736,7 +736,7 @@ action | Bayes’ Theorem | economics [normative] and economic justice | epistem
 
 [^giocoli-2003]: Giocoli, Nicola, 2003. *Modeling Rational Agents: From Interwar Economics to Early Modern Game Theory*, Cheltenham: Edward Elgar.
 
-[^glimcher-2010]: Glimcher, P., 2010. *Foundations of Neuroeconomic Analysis.*New York: Oxford University Press.
+[^glimcher-2010]: Glimcher, P., 2010. *Foundations of Neuroeconomic Analysis.* New York: Oxford University Press.
 
 [^glimcher-2009]: Glimcher, P., C. Camerer, R. Poldrack, and E. Fehr (eds.), 2009. *Neuroeconomics: Decision Making and the Brain*, Amsterdam: Elsevier.
 
@@ -884,7 +884,7 @@ action | Bayes’ Theorem | economics [normative] and economic justice | epistem
 
 [^hodgson-2004]: –––, 2004. *The Evolution of Institutional Economics*, London: Routledge.
 
-[^hodgson-2013]: –––, 2013. *From Pleasure Machines to Moral Communities: An Evolutionary Economics without Homo economicus.*London: University of Chicago Press.
+[^hodgson-2013]: –––, 2013. *From Pleasure Machines to Moral Communities: An Evolutionary Economics without Homo economicus.* London: University of Chicago Press.
 
 [^hodgson-2016]: –––, 2016. *Conceptualizing Capitalism: Institutions, Evolution, Future*, London: University of Chicago Press.
 
@@ -1340,7 +1340,7 @@ action | Bayes’ Theorem | economics [normative] and economic justice | epistem
 
 [^ricardo-1817]: Ricardo, D., 1817. *On the Principles of Political Economy and Taxation* (Volume 1: The Collected Works of David Ricardo), P. Sraffa and M. Dobb (eds.), Cambridge: Cambridge University Press, 1951.
 
-[^richter-2015]: Richter, R. (ed.), 2015, *Essays on New Institutional Economics.*New York: Springer.
+[^richter-2015]: Richter, R. (ed.), 2015, *Essays on New Institutional Economics.* New York: Springer.
 
 [^robbins-1932]: Robbins, L., 1932. *An Essay on the Nature and Significance of Economic Science*, London: Macmillan; 2nd edition, 1935; 3rd edition, 1983.
 

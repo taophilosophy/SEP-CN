@@ -444,7 +444,7 @@ Brentano, Franz | Frege, Gottlob | Hegel, Georg Wilhelm Friedrich: dialectics | 
 
 [^aa-1960]: 1960, “Some Neglected Issues in the Philosophy of G. E. Moore”, Presented to the Cambridge Moral Sciences Club and the Royal Institute of Philosophy, 1960; reprinted in LMV: ch 14 and in *G.E. Moore, Essays in Retrospect*, Alice Ambrose and Morris Lazerowitz (eds.), London: Allen and Unwin, 1970, pp. 64–79.
 
-[^aa-1961a]: 1961a, “The Methodology of Normative Ethics”:,*Journal of Philosophy*, 58(24): 757–764; reprinted in LMV: ch 15. doi:10.2307/2023601
+[^aa-1961a]: 1961a, “The Methodology of Normative Ethics”:, *Journal of Philosophy*, 58(24): 757–764; reprinted in LMV: ch 15. doi:10.2307/2023601
 
 [^aa-1961b]: 1961b, part 2 of “Use, Usage and Meaning”, Gilbert Ryle and J. N. Findlay, *Aristotelian Society Supplementary Volume*, 35: 231–242; reprinted in *Clarity Is Not Enough: Essays in Criticism of Linguistic Philosophy*, Hywel David Lewis (ed.), London: Allen & Unwin., 1963, ch 19; reprinted in *The Theory of Meaning*, G.H.R. Parkinson (ed.), London: Oxford University Press, 1968, ch 5. doi:10.1093/aristoteliansupp/35.1.223
 

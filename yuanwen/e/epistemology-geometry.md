@@ -282,7 +282,7 @@ Up until his death, those ideas remained private knowledge, shared by the ‘inn
 
 ### 5.2 Helmholtz and Poincaré
 
-Riemann’s ideas in turn influenced Hermann von Helmholtz, who published some influential essays on how our knowledge of space and geometry is possible. Initially motivated by his studies on the physiology of vision, Helmholtz endeavoured to show how only a limited number of geometries can be constructed in which there is a concept of rigid body motion. Interestingly, where Riemann talked about ‘hypotheses’, Helmholtz’s title referred to “the *factual*foundations of geometry” (“Über die tatsächlichen Grundlagen der Geometrie”, 1868), making explicit a key difference in their views. He argued that our experience of spatial measurements is based on the congruence of rigid bodies, and that teaches us what space is like.
+Riemann’s ideas in turn influenced Hermann von Helmholtz, who published some influential essays on how our knowledge of space and geometry is possible. Initially motivated by his studies on the physiology of vision, Helmholtz endeavoured to show how only a limited number of geometries can be constructed in which there is a concept of rigid body motion. Interestingly, where Riemann talked about ‘hypotheses’, Helmholtz’s title referred to “the *factual* foundations of geometry” (“Über die tatsächlichen Grundlagen der Geometrie”, 1868), making explicit a key difference in their views. He argued that our experience of spatial measurements is based on the congruence of rigid bodies, and that teaches us what space is like.
 
 Helmholtz tried to show that the requirement of free mobility of rigid bodies, without deformation, ultimately implies that the geometry of space is Euclidean. Thus he claimed that a two-dimensional space that complies with the “Axiom of Free Mobility” would either be the Euclidean plane or the sphere (infinite extension would then decide for Euclid). But Beltrami wrote to him to point out that he had overlooked the possibility of Lobachevskian (non-Euclidean) geometry, and Helmholtz agreed, coming to the same conclusion as Riemann had before him (see the entry on Helmholtz).
 
@@ -430,7 +430,7 @@ As of the 2021 version, José Ferreirós has taken responsibility for updating a
 
 [^ferreirós-2020]: –––, and M. J. García-Pérez, 2020, “Beyond Natural Geometry: On the Nature of Proto-Geometry”, *Philosophical Psychology*, 33(2): 181–205.
 
-[^frege-1884]: Frege, Gottlob, 1884, *Die Grundlagen der Arithmetik*, Breslau: Koebner.
+[^frege-1884]: Frege, Gottlob, 1884, Die Grundlagen der Arithmetik, Breslau: Koebner.
 
 [^frege-1918]: –––, 1918, “Der Gedanke: Eine logische Untersuchung”, *Beiträge zur Philosophie des deutschen Idealismus*, 1: 58–77.
 

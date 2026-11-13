@@ -248,7 +248,7 @@ Thanks to Tad Brennan, Stephen Menn, and John Cooper for their helpful comments 
 
 [^rist-1982]: Rist, J., 1982. ‘Are you a Stoic? The case of Marcus Aurelius,’ in B.F. Meyer and E.P. Sanders (eds.), *Jewish and Christian Self-Definition*, Philadelphia: Fortress Press, 23–45.
 
-[^rutherford-1989]: Rutherford, R. B., 1989. *The*Meditations*of Marcus Aurelius. A Study*, Oxford: Oxford University Press.
+[^rutherford-1989]: Rutherford, R. B., 1989. *The* Meditations *of Marcus Aurelius. A Study*, Oxford: Oxford University Press.
 
 [^sellars-2021]: Sellars, J., 2021. *Marcus Aurelius: Philosophy in the Roman World*, Abingdon: Routledge.
 

@@ -430,7 +430,7 @@ Various philosophers have offered various ways of defining physicalism to allow 
 
 Jackson offers the following:
 
-> Any world which is a minimal physical duplicate of our world is a duplicate *simpliciter*(Jackson, 1998, 12).
+> Any world which is a minimal physical duplicate of our world is a duplicate *simpliciter* (Jackson, 1998, 12).
 
 where a minimal physical duplicate is what results from duplicating all the physical facts and “stopping right there.” And David Chalmers says that physicalism is true in a world w just in case every positive fact that obtains in w also obtains in any world physically indiscernible from w (1996, 39–40). Each of these three definitions allows for worlds in which physicalism fails: worlds that are physical duplicates of the actual world, and in which there are ghosts or souls.
 
@@ -448,7 +448,7 @@ The third issue is closely related to the second, though it doesn’t turn on ne
 
 Some think that these concerns can be avoided by moving from characterizing physicalism in terms of supervenience to characterizing physicalism in terms of grounding (e.g. Rosen 2010, 111; Dasgupta 2014, 557; Schaffer 2017, section 4)[^dasgupta-2014][^rosen-2010][^schaffer-2017]. Because grounding is supposed to be hyperintensional, it is not the case that necessary beings or facts are grounded by just anything. And grounding is supposed to back explanations as well.
 
-However, whether the appeal to grounding really advances anything is a matter of dispute (Wilson 2016)[^wilson-2016]. See Stoljar’s entry on physicalism for further discussion. Further, note that we have only raised challenges for the claim that a strong global supervenience thesis is *sufficient*for physicalism. It remains open that some such thesis is *necessary* for physicalism. If it is, then grounding physicalism needs to entail supervenience physicalism. (For considerations against, see Skiles 2014; for considerations in favor, see Bennett 2017, 3.3.)[^bennett-2017][^skiles-2014] And if it is, physicalism would remain testable by exposing it to would-be arguments by appeal to FISTS, such as the zombie argument.
+However, whether the appeal to grounding really advances anything is a matter of dispute (Wilson 2016)[^wilson-2016]. See Stoljar’s entry on physicalism for further discussion. Further, note that we have only raised challenges for the claim that a strong global supervenience thesis is *sufficient* for physicalism. It remains open that some such thesis is *necessary* for physicalism. If it is, then grounding physicalism needs to entail supervenience physicalism. (For considerations against, see Skiles 2014; for considerations in favor, see Bennett 2017, 3.3.)[^bennett-2017][^skiles-2014] And if it is, physicalism would remain testable by exposing it to would-be arguments by appeal to FISTS, such as the zombie argument.
 
 ### 5.5 Coincident Entities and the “Grounding Problem”
 
@@ -520,7 +520,7 @@ anomalous monism | dependence, ontological | emergent properties | externalism a
 
 [^bennett-2017]: –––, 2017, *Making Things Up*, Oxford: Oxford University Press.
 
-[^bernstein-2017]: Bernstein, Sara, 2017, “Grounding is Not Causation,” *Philosophical Perspectives*30: 21–38.
+[^bernstein-2017]: Bernstein, Sara, 2017, “Grounding is Not Causation,” *Philosophical Perspectives* 30: 21–38.
 
 [^blackburn-1973]: Blackburn, Simon, 1973, “Moral Realism,” reprinted (1993) in *Essays in Quasi-Realism*, Oxford: Oxford University Press.
 
@@ -546,7 +546,7 @@ anomalous monism | dependence, ontological | emergent properties | externalism a
 
 [^chalmers-1996]: Chalmers, David, 1996, *The Conscious Mind*, New York: Oxford University Press.
 
-[^chalmers-2006]: –––, 2006, “Strong and Weak Emergence,” in P. Clayton and P. Davies, eds., *The Re-Emergence of Emergence*, Oxford University Press, 244–254.
+[^chalmers-2006]: –––, 2006, “Strong and Weak Emergence,” in P. Clayton and P. Davies, eds., *The Re-Emergence of Emergence* , Oxford University Press, 244–254.
 
 [^dasgupta-2014]: Dasgupta, Shamik, 2014, “The Possibility of Physicalism,” *The Journal of Philosophy*, 111: 557–592.
 

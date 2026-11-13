@@ -81,7 +81,7 @@ A comprehensive series of essays that introduce to the issues that matter to inf
 
 ## 2. Systems of IL
 
-As Hansen (2012) emphasizes, there are many different tools and methods informal logicians use to analyze and assess instances of argument. It would be a mistake to write as though there was *one* informal logic. As a field, IL is characterized by a shared goal (a logic of everyday argument) that is pursued in many different ways by commentators who propose and apply different systems of informal logic. In view of this, there are many different informal logics (as there are many different formal logics).
+As Hansen (2012) emphasizes, there are many different tools and methods informal logicians use to analyze and assess instances of argument. It would be a mistake to write as though there was *one* informal logic. As a field, IL is characterized by a shared goal (a logic of everyday argument) that is pursued in many different ways by commentators who propose and apply different systems of informal logic. In view of this, there are many different informal logic**s** (as there are many different formal logics).
 
 I will take an informal logic *system* to be a collection of principles and methods designed to serve the (epistemic) assessment of real-life arguments. Considered from this point of view, informal logic is a field devoted to the creation, study and application of systems of informal logic.
 
@@ -107,7 +107,9 @@ EXAMPLE 2 is taken from an opinion piece (in the *Western Courier* 25/10/08) whi
 
 This is an argument that can be summarized as follows.
 
-> *Premise*: Fetuses are being aborted anyway (whether conservatives like it or not). *Premise*: Lives could be saved and vastly improved if scientists were allowed to use embryos that are otherwise being tossed in the garbage. *Conclusion*: The conservative opposition to embryonic research is shortsighted and stubborn.
+> *Premise*: Fetuses are being aborted anyway (whether conservatives like it or not).
+> *Premise*: Lives could be saved and vastly improved if scientists were allowed to use embryos that are otherwise being tossed in the garbage.
+> *Conclusion*: The conservative opposition to embryonic research is shortsighted and stubborn.
 
 Like EXAMPLE 1, this is a simple argument. In real life arguing, complex arguments may contain tens (or hundreds) of premises, and usually consist of layers of inference that proceed from initial premises to intermediate conclusions which are premises for further conclusions, culminating in some “main” or “principal” conclusion.
 
@@ -119,7 +121,7 @@ Different theoretical backgrounds often inform different systems of informal log
 
 Theoretical underpinnings may demarcate a specific system of IL or, more commonly, a family of systems that share core theoretical commitments. Following Hamblin, some informal logicians have, to take one example, embraced fallacy theory as a way to build a logic of real-life arguing. In doing so they build systems of informal logic (as in the case of Paul and Elder 2019, or Bennett 2018)[^bennett-2018] but are at the same time, members of a broader family of informal logics that adopt the fallacy approach (but vary their definitions and lists of fallacies, or their accounts of other aspects of argument analysis).
 
-### 2.3 The Language of Argument (NL and NL+)
+### 2.3 The Language of Argument (**NL** and **NL+**)
 
 A key element of informal logic is its focus on arguments as they occur within natural rather than formal languages.
 
@@ -139,7 +141,11 @@ EXAMPLE 3
 
 We can summarize the argument as follows.
 
-> EXAMPLE 3: *(Visual) Premise*: What we see in the bottom left hand corner of the first photograph of the dig. *(Visual) Premise*: What we see in the bottom left hand corner of the second photograph of the dig. *(Verbal) Premise*: The most plausible way to explain the changes we see (the disappearance of the white crust) is by understanding it as water ice. *Conclusion*: There is water on the planet Mars.
+> EXAMPLE 3:
+> *(Visual) Premise*: What we see in the bottom left hand corner of the first photograph of the dig.
+> *(Visual) Premise*: What we see in the bottom left hand corner of the second photograph of the dig.
+> *(Verbal) Premise*: The most plausible way to explain the changes we see (the disappearance of the white crust) is by understanding it as water ice.
+> *Conclusion*: There is water on the planet Mars.
 
 This argument depends on visual and verbal premises. Visual premises because our *seeing* of the difference between the photographs is a non-verbal way of providing evidence that supports the conclusion. The argument combines this visual element with a key verbal component provided by the scientists’ explanation of this seeing. The conclusion is established by combining these visual and verbal components.
 
@@ -165,7 +171,9 @@ This is a clever caricature, something more than a simple caricature, for the ca
 
 The argument we can extract from the cartoon can be understood as follows.
 
-> *Premise*: Napoleon declares that “The Empire embodies peace” (“L’Empire c’est la paix”). *Premise*: Napoleon has surrounded himself with many armaments (like a porcupine surrounds itself with quills). *Conclusion*: Napoleon seems inoffensive when he says that “The Empire embodies peace,” but his build up of him armaments shows that we should be wary of the empire he has built.
+> *Premise*: Napoleon declares that “The Empire embodies peace” (“L’Empire c’est la paix”).
+> *Premise*: Napoleon has surrounded himself with many armaments (like a porcupine surrounds itself with quills).
+> *Conclusion*: Napoleon seems inoffensive when he says that “The Empire embodies peace,” but his build up of him armaments shows that we should be wary of the empire he has built.
 
 This is a visual argument because it depends on visual meanings (conveyed with an NL+ rather than a mere NL). The verbal paraphrase summarizes the apparent logic of the argument, though the non-verbal visual elements leave open the possibility of further interpretation. Notably, the Napoleon-III-as-porcupine caricature may be an allusion to a different “Louis” King of France–to Louis XII, who ruled from 1498 to 1515. On this interpretation, the argument claims that Napoleon III is acting like Louis XII, who rebuilt the French army (and harnessed its power in military campaigns), suggesting that this provides another reason to be wary of him. The reference makes visual sense given that Louis XII was known as the “porcupine” King of France, having adopted the animal as his royal emblem–an emblem he favoured because it was popularly believed that a porcupine could shoot its quills, symbolizing an army’s ability to shoot.
 
@@ -182,6 +190,7 @@ The “auditory” (or “acoustic”) modes of arguing is employed when reasoni
 Other modes of arguing invoke the senses in other ways. p> Here is an example from a wine tasting.
 
 > EXAMPLE 5:
+>
 >
 > A wine steward attempts to convince a customer that Napa Valley “Frogs Leap PS 2015” is an exceptional Petite Syrah by quoting high praise in a wine guide, and by handing them a glass, inviting them to taste it.
 
@@ -244,9 +253,11 @@ Different systems of IL may standardize arguments in different ways. In its simp
 
 > EXAMPLE 6:
 >
+>
 > - The weather report indicates heavy rain this afternoon, so you should take an umbrella to work.
 >
 > EXAMPLE 6 STANDARDIZED:
+>
 >
 > - *Premise*: The weather report indicates heavy rain this afternoon.
 > - *Conclusion*: You should take an umbrella to work.
@@ -261,11 +272,15 @@ The following report from the New Hampshire *Rockingham News* (30/8/2002) commen
 
 > EXAMPLE 7:
 >
+>
 > A co-ordinator for the Humane Society supported a prison sentence, claiming that the minor penalties normally associated with misdemeanor convictions are not a sufficient deterrent in this case.
 
 We can standardize the co-ordinator’s argument as follows.
 
-> *Premise*: The minor penalties normally associated with misdemeanor convictions are not a sufficient deterrent in this case. *Implicit Premise 1* Penalties for crimes should have a deterrent effect. *Implicit Premise 2*: Prison will have a more sufficient deterrent effect. *Conclusion*: A prison sentence, but not the minor penalties normally associated with misdemeanor convictions, is appropriate.
+> *Premise*: The minor penalties normally associated with misdemeanor convictions are not a sufficient deterrent in this case.
+> *Implicit Premise 1* Penalties for crimes should have a deterrent effect.
+> *Implicit Premise 2*: Prison will have a more sufficient deterrent effect.
+> *Conclusion*: A prison sentence, but not the minor penalties normally associated with misdemeanor convictions, is appropriate.
 
 In an analysis of the argument it is important to recognize the assumptions rendered as *Implicit Premise 1* and *Implicit Premise 2* (which provide a “warrant” for the inference). For these are claims the argument depends on. If it is not true that penalties for crimes should have a deterrent effect, or not true that prison has such an effect, then the premises of the argument do not establish its conclusion.
 
@@ -275,11 +290,16 @@ Arguments with implicit premises or conclusions are recognized in traditional di
 
 > EXAMPLE 8 (from a report in the *New York Times*, 15/11/2001):
 >
+>
 > “The basic proposition here is that somebody who comes into the United States of America illegally ... is not a lawful combatant.... They don’t [therefore] deserve to be treated as a prisoner of war.”
 
 We can standardize the argument as:
 
-> EXAMPLE 8: *Premise*: Anyone who comes into the United States of America illegally ... is not a lawful combatant. *Implicit Premise*: All people who deserve to be treated as prisoners of war are people who are lawful combatants. *Conclusion*: Anyone who comes into the United States of America illegally doesn’t deserve to be treated as a prisoner of war.
+> EXAMPLE 8:
+> *Premise*: Anyone who comes into the United States of America illegally ... is not a lawful combatant.
+> *Implicit Premise*: All people who deserve to be treated as prisoners of war are people who are lawful combatants.
+> *Conclusion*: Anyone who comes into the United States of America illegally doesn’t deserve to be treated as a prisoner of war.
+>
 
 As in many other cases, this argument’s implicit premise identifies the link that ties the explicit premise to the conclusion. In other enthymemes, the conclusion of an argument may be implicit. In a debate over the question whether witnesses to a particular crime can be trusted, an arguer might state: “*They* are friends of the accused, and no friends of the accused can be trusted.” In this context, such claims clearly imply that the witnesses cannot be trusted. This is a claim that needs to be recognized as an implicit conclusion in an attempt to standardize this argument.
 
@@ -295,7 +315,10 @@ The image in the advertisement is an obvious visual metaphor which suggests that
 
 We might standardize this visual argument as follows.
 
-> EXAMPLE 9: *(Visual) Premise*: The image [which conveys the message that adding vodka can transform your sleepy night life, as it transforms the quiet village in the image into an exciting urban landscape] *Implicit Premise*: An exciting urban nightlife is preferable to a quiet night in a village. *Conclusion*: You should “Just Add Vodka” to your life.
+> EXAMPLE 9:
+> *(Visual) Premise*: The image [which conveys the message that adding vodka can transform your sleepy night life, as it transforms the quiet village in the image into an exciting urban landscape]
+> *Implicit Premise*: An exciting urban nightlife is preferable to a quiet night in a village.
+> *Conclusion*: You should “Just Add Vodka” to your life.
 
 I have treated the image in the advertisement as the first premise in this argument because it is the metaphorical transformation it visually depicts that is the core claim that it depends on. The implicit premise in the argument is not explicitly stated (verbally or visually) but it is a key assumption that allows the move from the visual premise to the verbal conclusion.
 
@@ -375,7 +398,7 @@ Almost all systems of informal logics understand a good (strong) argument to be 
 
 In classical logic, an argument is (deductively) valid if it is impossible for its premises to be true and its conclusion false. On this account, the ultimate aim of arguing is a “sound” argument: i.e. a valid argument with true premises.
 
-Within informal logic, the simplest criterion for good arguments is an informal analogue of soundness. It understands a good argument to be an argument that justifies its conclusion by providing good (strong, credible, etc.) reasons for believing it. Within the argument, this implies premises which are “acceptable” and a conclusion that follows from them. Following Johnson and Blair (1977, 1994), many systems of informal logic adopt an ARS version of these AV criteria, making “Acceptability, Relevance and Sufficiency” the requirements for good argument. On this account, premises are acceptable when they are true or acceptable in some other way; relevant when they provide some (i.e. any) support for the conclusion of the argument; and sufficient when they provide enough support to warrant its acceptance — as likely, true, plausible, etc.
+Within informal logic, the simplest criterion for good arguments is an informal analogue of soundness. It understands a good argument to be an argument that justifies its conclusion by providing good (strong, credible, etc.) reasons for believing it. Within the argument, this implies premises which are “acceptable” and a conclusion that follows from them. Following Johnson and Blair (1977, 1994), many systems of informal logic adopt an **ARS** version of these **AV** criteria, making “Acceptability, Relevance and Sufficiency” the requirements for good argument. On this account, premises are acceptable when they are true or acceptable in some other way; relevant when they provide some (i.e. any) support for the conclusion of the argument; and sufficient when they provide enough support to warrant its acceptance — as likely, true, plausible, etc.
 
 > *Premise Acceptability*
 
@@ -397,7 +420,7 @@ In such a situation, an attempt to assess an argument raises the question whethe
 
 > *Inference Validity*
 
-In an attempt to account for a broad range of real life arguing, IL has expanded traditional notions of premise acceptability. It has moved in a similar way in the case of inference validity, expanding both elements in the AV criteria for good argument.
+In an attempt to account for a broad range of real life arguing, IL has expanded traditional notions of premise acceptability. It has moved in a similar way in the case of inference validity, expanding both elements in the **AV** criteria for good argument.
 
 In the case of inference validity, this expansion has been accomplished by treating deductive validity as traditionally construed as one variant of inference validity. Alternatives are deductive validity understood in a “defeasible” way (making a judgment of validity tentative, and open to reversal if some “defeater” undermines it), and a variety of non-deductive ways in which premises may entail a conclusion.
 
@@ -409,7 +432,7 @@ Strong “abductive” arguments are convincing instances of “inference to the
 
 ### 4.2 Fallacy Theory
 
-AV criteria are in many ways an extension of classical logic’s notion of good argument. In their search for ways to deal with real life arguments, some informal logicians have looked elsewhere for a normative account of real-life arguments, reviving fallacy theory as an alternative way to judge argument. Hamblin 1970 is a touchstone for moves in this direction.
+**AV** criteria are in many ways an extension of classical logic’s notion of good argument. In their search for ways to deal with real life arguments, some informal logicians have looked elsewhere for a normative account of real-life arguments, reviving fallacy theory as an alternative way to judge argument. Hamblin 1970 is a touchstone for moves in this direction.
 
 Systems of informal logic that rely on fallacies test arguments by asking whether their proponents are guilty of fallacious reasoning. While there is no agreed-upon taxonomy of fallacies, many standard fallacies play a role in systems of IL. They include formal fallacies like affirming the consequent and denying the antecedent (but see Burke 1994)[^burke-1994]; and informal fallacies like *ad hominem* (“against the person”), slippery slope, *ad baculum* (“appeal to threat or force”), *ad misericordiam* (“appeal to pity”), “hasty generalization,” and “two wrongs” reasoning (as in the maxim: “two wrongs don’t make a right”). Textbooks often elaborate fallacies in ways that add more specialized variants of the standard list of fallacies (“misleading vividness” designating the misuse of vivid anecdotal evidence in a hasty generalizations, and so on.)
 
@@ -449,17 +472,22 @@ NLD’s plausibility (or implausibility) as a system of IL turns on its account 
 
 A 2015 blog by a professional dietician (Dr. Cristina Sutter) criticizes arguments that justify the claim that garcinia cambogia is a miracle weight loss pill by appealing to the authority of the popular television personality “Dr. Oz.” — an appeal that is an instance of the reasoning “Dr. Oz Says It, So It Must Be True.” We can standardize the argument and the pattern of argument she criticizes as:
 
-> EXAMPLE 16: *Premise*: Dr. Oz says: that gracinia cambogia is a miracle weight loss pill. *Conclusion*: This must be true.
+> EXAMPLE 16:
+> *Premise*: Dr. Oz says: that gracinia cambogia is a miracle weight loss pill.
+> *Conclusion*: This must be true.
 
 If one judges by the explicit premise in this argument (“Dr. Oz says...”), this is not a deductively valid argument, for it is obvious that the premise could be true and the conclusion false: Dr. Oz could say gracinia cambogia is a miracle weight loss pill and (obviously) be wrong. The deductivist can still treat this as a deductive argument by recognizing its associated conditional as an implicit premise, allowing us to standardize the argument as:
 
-> *Premise*: Dr. Oz says [that gracinia cambogia is a miracle weight loss pill]. *Implicit Premise*: If Dr. Oz says this, it must be true. *Conclusion*: This must be true.
+> *Premise*: Dr. Oz says [that gracinia cambogia is a miracle weight loss pill].
+> *Implicit Premise*: If Dr. Oz says this, it must be true.
+> *Conclusion*: This must be true.
 
 So understood, the Dr. Oz argument is deductively valid, but still an unsound argument, for this makes it a valid argument with a problematic implicit premise.
 
 NLD deals with inductive generalizations in a similar way. Consider the following example from a conversation about French men.
 
-> EXAMPLE 17: “French men are fastidious about their appearance. I have worked with many and this was what I found.”
+> EXAMPLE 17:
+> “French men are fastidious about their appearance. I have worked with many and this was what I found.”
 
 In this example, the move from the premise to the conclusion of the argument assumes that the sample of French men the arguer is familiar with are a representative sample of French men. If this is not likely, then the sample does not provide a good reason for concluding that French men are, in general, as fastidious if they are. If we recognize this assumption as an implicit premise when we standardize the argument, then the argument is deductively valid, for a representative sample is a subset of a population that has traits which are the traits of the larger group.
 
@@ -475,13 +503,29 @@ Rules of inference like *modus ponens* and *modus tollens* can be understood as 
 
 The most common approach to argument schemes combines a pattern of argument with a set of “critical questions” with which it is associated. The scheme *Argument from Authority* (“Appeal to Authority,” “Appeal to Expert Opinion”) and the critical questions it raises can be formally defined as follows.
 
-> *Argument from Authority Scheme:* A is an authority in domain D. A says that T is true. T is within D. (Therefore) T is true.
+> *Argument from Authority Scheme:*
+> A is an authority in domain D.
+> A says that T is true.
+> T is within D.
+> (Therefore) T is true.
 
-> *Critical questions*: 1. How credible is A? 2. Is A an authority in domain D? 3. What did A assert that implies T? 4. Is A someone who can be trusted? 5. Is T consistent with what other experts assert? 6. Is A’s assertion of T based on evidence?
+> *Critical questions*:
+> 1. How credible is A?
+> 2. Is A an authority in domain D?
+> 3. What did A assert that implies T?
+> 4. Is A someone who can be trusted?
+> 5. Is T consistent with what other experts assert?
+> 6. Is A’s assertion of T based on evidence?
+>
 
 Prakken 2010b understands argument schemes as inference rules. On this account, some critical questions ensuring the truth of an argument’s premises, others ensuring that the context of the inference is appropriate. Another approach to schemes builds the answers to critical questions into a ‘full’ definition of the scheme, treating them as required premises in convincing instances of the scheme. Taking this approach, the scheme *Argument from Authority* can be defined as follows.
 
-> A is a credible authority in the domain D. A asserted X, which implies T. A can be trusted and T is within domain D. T is consistent with what other experts in domain D assert. A’s assertion of T is based on evidence. (Therefore) T is true.
+> A is a credible authority in the domain D.
+> A asserted X, which implies T.
+> A can be trusted and T is within domain D.
+> T is consistent with what other experts in domain D assert.
+> A’s assertion of T is based on evidence.
+> (Therefore) T is true.
 
 The critical question approach to schemes suggests that a credible argument from authority must include acceptable premises of the form outlined in the definition of the scheme, and is valid if it can be backed by answers to the scheme’s critical questions. Taking the ‘full’ approach, a valid argument from authority must include the premises that define it as as a good argument as explicit (or possibly implicit) premises. In both cases, the result is an account of premise acceptability and validity tailored to arguments from authority.
 
@@ -489,7 +533,13 @@ When a student essay claims that “we should not stockpile nuclear weapons” b
 
 The attempt to satisfy the requirements this implies produces a version of the argument which can be summarized as follows.
 
-> EXAMPLE 18 *expanded to satisfy the criteria for a convincing argument from authority*: 1. Einstein (A) is a credible authority on nuclear weapons (D). 2. Einstein (A) asserted that the stockpiling of nuclear weapons would precipitate “destruction even more terrible than the present destruction of life” (X), which implies that we should not stockpile nuclear weapons (T). 3. Einstein (A) can be trusted and questions about stockpiling nuclear weapons (T) are questions about nuclear weapons (D). 4. The claim that we should not stockpile nuclear weapons (T) is consistent with what other experts on nuclear weapons (D) assert. 5. Einstein’s (A’s) assertion that we should not stockpile nuclear weapons (T) is based on evidence. 6. (Therefore) We should not stockpile nuclear weapons (T).
+> EXAMPLE 18 *expanded to satisfy the criteria for a convincing argument from authority*:
+> 1. Einstein (A) is a credible authority on nuclear weapons (D).
+> 2. Einstein (A) asserted that the stockpiling of nuclear weapons would precipitate “destruction even more terrible than the present destruction of life” (X), which implies that we should not stockpile nuclear weapons (T).
+> 3. Einstein (A) can be trusted and questions about stockpiling nuclear weapons (T) are questions about nuclear weapons (D).
+> 4. The claim that we should not stockpile nuclear weapons (T) is consistent with what other experts on nuclear weapons (D) assert.
+> 5. Einstein’s (A’s) assertion that we should not stockpile nuclear weapons (T) is based on evidence.
+> 6. (Therefore) We should not stockpile nuclear weapons (T).
 
 This analysis shows that EXAMPLE 18 fails to satisfy the conditions for a good instance of argument from authority, for that requires assent to the six claims in our list, and a number of them are problematic. The latter include 4, for other experts on military matters disagree with Einstein. More fundamentally, 1 is questionable and is founded on too loose an account of nuclear weapons as a domain of expertise. Einstein can be said to be a renowned expert on nuclear physics, but this does not make him an expert on *the social and political issues* raised by nuclear weapons.
 

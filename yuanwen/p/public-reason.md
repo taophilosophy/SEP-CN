@@ -466,7 +466,7 @@ Thanks to Samuel Freeman, Andrew Lister, Micah Schwartzman, Rebecca Stone, and J
 
 [^wall-2013]: –––, 2013, “Public Reason and Moral Authoritarianism,” *The Philosophical Quarterly*, 63(250): 160–169.
 
-[^wall-2021]: –––, 2021, “Perfectionism in Moral and Political Philosophy,”*The Stanford Encyclopedia of Philosophy* (Fall 2021 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2021/entries/perfectionism-moral/](https://plato.stanford.edu/archives/fall2021/entries/perfectionism-moral/)>.
+[^wall-2021]: –––, 2021, “Perfectionism in Moral and Political Philosophy,” *The Stanford Encyclopedia of Philosophy* (Fall 2021 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2021/entries/perfectionism-moral/](https://plato.stanford.edu/archives/fall2021/entries/perfectionism-moral/)>.
 
 [^watson-2018]: Watson, L., and C. Hartley, 2018, *Equal Citizenship and Public Reason: A Feminist Political Liberalism*, New York: Oxford University Press.
 

@@ -12,7 +12,7 @@ With the notable exception of Zalta (1983, 1993), a pervasive problem for nearly
 
 To illustrate: Plantinga (1985) offers up a proof of the *extensional adequacy* of his notion of a possible world, that is, a proof of:
 
-| EA |   | For every SOA *s*, *s* is possible iff there is a possible world that includes *s*. |
+| **EA** |   | For every SOA *s*, *s* is possible iff there is a possible world that includes *s*. |
 | --- | --- | --- |
 
 The proof of the left-to-right direction, however — which is, in fact, offered as a general proof that possible worlds exist — depends upon a metaphysical analog of the compactness theorem for first-order logic that is demonstrably false in the context of Plantinga's rich ontology of states of affairs. (See Menzel 1989 for details.)

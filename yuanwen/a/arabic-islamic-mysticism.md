@@ -43,7 +43,9 @@ Also, one must mention Ḥamīd al-Dīn Kirmānī (d. 996–1021 CE) and his num
 
 Perhaps the most important figure of the Ismā‘īlīs tradition, one who was both poet and philosopher, is Nāṣir-i Khusraw (1004–c.1072 CE). Whether in his collection of mystical and didactic poems known as *Divān*, or his mystically oriental works such as *The Sum of the Two Wisdoms* (*Jāmi‘ al-ḥikmattayīn*) and *Knowledge and Liberation* (*Gushāyesh wa rahāyesh*), he relentlessly offers advice on the catharsis of the soul and the pursuing of the spiritual journey. Nāṣir-i Khusraw’s attempt to reconcile Sufism and reason is seen in his *The Sum of the Two Wisdoms*, where he argues that the “sages of real religion” (*ḥukamāy-i dīn-i ḥaqq*) and the philosophers are in agreement. For Nāṣir-i Khusraw, the science of the soul is the way to attain real knowledge, knowledge which transcends the difference between the perceiver and perception. He writes:
 
-> Between the knower and the known. There lies a distinction by one who Has awakened from sleep of heedlessness.
+> Between the knower and the known.
+> There lies a distinction by one who
+> Has awakened from sleep of heedlessness.
 
 Nāṣir-i Khusraw offers specific instructions how a novice should follow the spiritual path, relying on specific ascetic practices. Similar to the figures of St. Augustine and St. Francis of Assisi, Nāṣir-i Khusraw pursued a hedonistic lifestyle in the early part of his life but underwent a spiritual metamorphosis and dedicated himself to the Sufi path. Echoes from both phases of his life can be seen through out his works (Hunsburger 2000)[^hunsburger-2000].
 
@@ -69,7 +71,10 @@ Recent scholarship, such as that by Qasim Kaka'i in the *Journal of Andishah-yi
 
 Among other philosophers of this period not necessarily affiliated with the School of Shirāz, but interested in Sufism, are Naṣīr al-Dīn Ṭūsī (1201–1274) who wrote a work on Sufi ethics entitled *Description of Nobles* (*Awṣāf al-ashrāf*), as well as Afd’al al-Dīn Kāshānī (d. 1213), a Sufi poet and philosopher. The latter was a strict Aristotelian who wrote extensive commentary on logic and other aspects of Aristotelian thought. While the majority of his fifty-two works are philosophical in nature, Kāshānī sees the task of philosophy to be the facilitation of “following the path of God,” as the title of one of his works suggests. His commentary on Ibn ‘Arabī, his references to other gnostics and Sufis, and his mystical poetry, have identified him more as a Sufi than a rationalistic philosopher. Writing quatrains in the style of Omar Khayyam (1048–1131), it is in his poetry that Sufism is most apparent. In a quatrain he says,
 
-> O pure Sufi seeking God, He has no place, from where do you seek him If you do know Him, why do you seek Him? If you don’t know Him, whom are you seeking? (Chittick 2001)[^chittick-2001]
+> O pure Sufi seeking God,
+> He has no place, from where do you seek him
+> If you do know Him, why do you seek Him?
+> If you don’t know Him, whom are you seeking? (Chittick 2001)[^chittick-2001]
 
 Moving from Persia to India, in the 11ᵗʰ century CE., when the Persian dynasty of Ghaznavids began to rule in India, philosophical mysticism and the practice of Sufism became popular among the Indian Muslim philosophers. Among the central figures of this movement are Shaykh Yousef Gardiī Multānī, Shaykh Ismā‘īl Lahorī, Imām Ḥasan San‘ānī, and Shaykh Abu’l-Ḥasan ‘Alī Hujwaīrī, the philosopher-Sufi and the author of *Unveiling of the Veiled* (*Kashf al-maḥjūb*). At that time, the Ismā‘īlī missionaries, who had spread the gnostic interpretation of Islam in India had already created a receptive intellectual milieu for the Sufi and gnostic ideas. By the 14ᵗʰ century CE., due to the migration of Persian philosophers and their students to northern India, the more mystically oriented philosophy of the above figures gained popularity in India as well.
 
@@ -99,7 +104,8 @@ The above works, all of which are continuations of Ṣadrian philosophy, further
 
 Muḥammad Jalāl al-Dīn Balkhī, better known as “Rūmī,” is regarded by many to be one of the greatest Sufi poets of the Islamic tradition. In his magnum opus, *Mathnawī*, which has been called by some “The Persian Qur‘an,” Rūmī scorns discursive thought and ridicules philosophers for walking on wobbly stilts:
 
-> Rationalists’ legs are just like stilts; How unfixed and stolid are feet of wood! (Nicholson, I: 2127)
+> Rationalists’ legs are just like stilts;
+> How unfixed and stolid are feet of wood! (Nicholson, I: 2127)
 
 Nevertheless, he became an influential figure in the tradition of post-Avicennian philosophical Sufism.
 
@@ -107,35 +113,85 @@ Rūmī’s critique of Peripatetic philosophy is closer to Ghazzālī’s critiq
 
 In his *Mathnawī*, Rūmī criticizes the reliability of truth claims based on sensory perception as well:
 
-> All the senses of man are impermanent For in the presence of the light of the Day of Resurrection they’re naught. The light of the senses and spirits of our fathers Is not totally evanescent and naught like plants (Nicholson, IV: 431–33)
+> All the senses of man are impermanent
+> For in the presence of the light of the Day of Resurrection they’re naught.
+> The light of the senses and spirits of our fathers
+> Is not totally evanescent and naught like plants (Nicholson, IV: 431–33)
 
 While the senses provide us with some knowledge, it is not a type of knowledge that can lead to the discovery of spiritual and existential truth.
 
 Rūmī also rejects the idea of “truth by authority” and alludes to the dangers of blindly following those who claim to know the truth. His critique is particularly aimed at Muslim jurists who adhere to the Divine command theory.
 
-> A myriad servile conformists who follow conjecture Are cast down into the lowest depths, struck by scruples. For the speculative following of precedent and logical supposition Is their foundation and the very feather and wing of their flight. Their inner devil arouses doubts and specious arguments in them Till benightedly they plummet headlong down like blind folk (Nicholson, IV: 2125–27)
+> A myriad servile conformists who follow conjecture
+> Are cast down into the lowest depths, struck by scruples.
+> For the speculative following of precedent and logical supposition
+> Is their foundation and the very feather and wing of their flight.
+> Their inner devil arouses doubts and specious arguments in them
+> Till benightedly they plummet headlong down like blind folk (Nicholson, IV: 2125–27)
 
 As to the application of reason, which is at the heart of philosophical enterprise, Rūmī divides the intellect into universal intellect (*‘aql-i kullī*) and particular intellect (*‘aql-i juz’ī*). Whereas the universal intellect attends to the affairs of the Divine realm, the particular intellect’s scope is restricted to this world. In response to the Muslim rationalists (Mu‘tazilites), Rūmī states:
 
-> The difference among intellects was intrinsic in origin – You should hear the doctrine according to the traditionalists —Contrary to the opinion of the Mu‘tazilites, Who maintain all intellects in their origin were basically equal, But by experience and learning, minds increase or decrease So one is made more knowledgeable than the other one – Their doctrine is false because even a boy’s counsel Who has no experience in any course of action —From that young child a thought will spring up Which a wise old sage with manifold experience has no inkling (Nicholson, III: 1539–43)
+> The difference among intellects was intrinsic in origin –
+> You should hear the doctrine according to the traditionalists
+> —Contrary to the opinion of the Mu‘tazilites,
+> Who maintain all intellects in their origin were basically equal,
+> But by experience and learning, minds increase or decrease
+> So one is made more knowledgeable than the other one –
+> Their doctrine is false because even a boy’s counsel
+> Who has no experience in any course of action
+> —From that young child a thought will spring up
+> Which a wise old sage with manifold experience has no inkling (Nicholson, III: 1539–43)
 
 And again Rūmī asserts:
 
-> The animal man who by deceit and cunning knows… The intricacies of the science of geometry Or astronomy, medicine and philosophy Which are concerned with this world Is barred from finding the way to seventh heaven. All those sciences are fit for building a stable; They serve as columns for the abode of camels and cows. Their purpose is but to let the animal survive a day or two And yet these imbeciles call those sciences “mysteries” (Nicholson, IV: 1519–1516)
+> The animal man who by deceit and cunning knows…
+> The intricacies of the science of geometry
+> Or astronomy, medicine and philosophy
+> Which are concerned with this world
+> Is barred from finding the way to seventh heaven.
+> All those sciences are fit for building a stable;
+> They serve as columns for the abode of camels and cows.
+> Their purpose is but to let the animal survive a day or two
+> And yet these imbeciles call those sciences “mysteries” (Nicholson, IV: 1519–1516)
 
 Having criticized theories of truth by correspondence, authority, and reasoning, Rūmī advocates a more existential understanding of truth which he, along with many Islamic Philosophers, refer to as the universal intellect. He tells us:
 
-> The other intellect is a gift from God, Whose source is like a spring within the soul. When the water of knowledge gushes forth from the heart, It neither becomes fetid, grows old nor wilts. If its path where it flows is blocked, why worry? For like a spring it gushes forth from the house constantly. The acquired intellect is like a water sluice Running down into houses from the hills; If the path of water is obstructed, it’s undone: Seek the spring from within yourself (Nicholson, IV: 1964–68)
+> The other intellect is a gift from God,
+> Whose source is like a spring within the soul.
+> When the water of knowledge gushes forth from the heart,
+> It neither becomes fetid, grows old nor wilts.
+> If its path where it flows is blocked, why worry?
+> For like a spring it gushes forth from the house constantly.
+> The acquired intellect is like a water sluice
+> Running down into houses from the hills;
+> If the path of water is obstructed, it’s undone:
+> Seek the spring from within yourself (Nicholson, IV: 1964–68)
 
 Philosophers’ reliance on reason alone clashes with the validity of knowledge by intuition and divine revelation according to Rūmī:
 
-> The philosopher through thought and surmise is in denial – Tell him go and smash his head against this wall. The language of water, of earth and mire Is comprehensible to the senses of the heart’s adepts. The philosopher who is sceptical about the moaning pillar[^note-1] Is himself estranged from the senses of the sages. Such things are, he says, but a reflection of melancholic passions Which generate these wild fantasies in people’s heads (Nicholson, I: 3278–81)
+> The philosopher through thought and surmise is in denial –
+> Tell him go and smash his head against this wall.
+> The language of water, of earth and mire
+> Is comprehensible to the senses of the heart’s adepts.
+> The philosopher who is sceptical about the moaning pillar[^note-1]
+> Is himself estranged from the senses of the sages.
+> Such things are, he says, but a reflection of melancholic passions
+> Which generate these wild fantasies in people’s heads (Nicholson, I: 3278–81)
 
 Where Rūmī and some philosophers agree upon is the existence of the very faculty of intuition, which is often associated with the universal intellect. According to Rūmī, this faculty, which must be ‘awakened’ by practicing the arduous process of the mystical path, leads to the awakening of the five *internal spiritual* *senses* that complement the five external physical senses. All the ten senses are controlled by the symbolic “heart”—the organ of supersensory perception.
 
-> There are five [spiritual] senses besides these five [physical] senses The former are like red gold and the latter like copper. In the marketplace where the expert connoisseurs are busy How should the copper and golden senses be priced the same? The physical senses’ nutriment is murky and tenebrous; The spiritual sense sups and dines on the sun (Nicholson, II: 49–51)
+> There are five [spiritual] senses besides these five [physical] senses
+> The former are like red gold and the latter like copper.
+> In the marketplace where the expert connoisseurs are busy
+> How should the copper and golden senses be priced the same?
+> The physical senses’ nutriment is murky and tenebrous;
+> The spiritual sense sups and dines on the sun (Nicholson, II: 49–51)
 >
-> Be silent, be silent, drink silently. Veil yourself, veil yourself for you are the hidden treasure. Speak not, speak not of this exposition of my heart So you be not bewildered, so you do not remain perplexed (*Kulliyāt-i Shams*, vol. 2, ghazal 637, vv. 6649, 6653)
+> Be silent, be silent, drink silently.
+> Veil yourself, veil yourself for you are the hidden treasure.
+> Speak not, speak not of this exposition of my heart
+> So you be not bewildered, so you do not remain perplexed
+> (*Kulliyāt-i Shams*, vol. 2, ghazal 637, vv. 6649, 6653)
 
 Rūmī’s impact on Islamic philosophy can be seen in various commentaries on philosophical gnosticism that were influenced by Rūmī’s works. The tradition of writing commentaries or quoting Rūmī, which appears in the works of Mullā Ṣadrā, Lāhijī, and Sabziwārī continues well into the modern era.
 

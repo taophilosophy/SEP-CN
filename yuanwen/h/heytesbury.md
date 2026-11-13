@@ -711,7 +711,7 @@ Other contexts include [IHT] arg. 11. Also, disjunctive and conditional form of 
 
 [^dutilh-2005]: Dutilh Novaes, Catarina, 2005, “Medieval *Obligationes* as Logical Games of Consistency Maintenance”, *Synthese* 145(3): 371–395. doi: https://doi.org/10.1007/s11229-005-6197-y
 
-[^dutilh-2007a]: –––, 2007a,*Formalizing Medieval Logical Theories: Suppositio, Consequentiae and Obligationes*, Dordrecht: Springer. doi: https://doi.org/10.1007/978-1-4020-5853-0
+[^dutilh-2007a]: –––, 2007a, *Formalizing Medieval Logical Theories: Suppositio, Consequentiae and Obligationes*, Dordrecht: Springer. doi: https://doi.org/10.1007/978-1-4020-5853-0
 
 [^dutilh-2007b]: –––, 2007b, “Theory of Supposition vs. Theory of Fallacies in Ockham”, *Vivarium*, 45(2): 343–359. doi:10.1163/156853407X217812
 
@@ -791,7 +791,7 @@ Other contexts include [IHT] arg. 11. Also, disjunctive and conditional form of 
 
 [^read-2022b]: –––, 2022b, “‘Everything True Will Be False’: Paul of Venice and a Medieval Yablo Paradox”, *History and Philosophy of Logic*, 43: 332–346. doi: 10.1080/01445340.2022.2040797
 
-[^read-2023]: –––, 2023, “Medieval Theories: Properties of Terms”, *The Stanford Encyclopedia of Philosophy*(Spring 2023 Edition), Edward N. Zalta and Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/spr2023/entries/medieval-terms/>.
+[^read-2023]: –––, 2023, “Medieval Theories: Properties of Terms”, *The Stanford Encyclopedia of Philosophy* (Spring 2023 Edition), Edward N. Zalta and Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/spr2023/entries/medieval-terms/>.
 
 [^rommevaux-tani-2017]: Rommevaux-Tani, Sabine, 2017, *La détermination de la rapidité d’augmentation dans le ‘De sex inconvenientibus’: comparaison avec les développements sur le même sujet de William Heytesbury*, in “Miroir de l’amitié: mélanges offerts à Joël Biard”, Christophe Grellard (ed.), Paris: Vrin, pp. 153–162.
 

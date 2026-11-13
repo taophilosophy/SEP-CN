@@ -374,7 +374,8 @@ If $T$ is the truth about the weather then theory $A$, in $h$-$r$-$w$-ese, seems
 
 There are two live responses to this criticism. But before detailing them, note a dead one: the likeness theorist cannot object that $h$-$m$-$a$ is somehow logically inferior to $h$-$r$-$w$, on the grounds that the primitives of the latter are essentially “biconditional” whereas the primitives of the former are not. This is because there is a perfect symmetry between the two sets of primitives. Starting within $h$-$m$-$a$-ese we can arrive at the original primitives by exactly analogous definitions:
 
-> *rainy* $ =_{df}$ *hot* if and only if *minnesotan* *windy* $ =_{df}$ *hot* if and only if *arizonan*
+> *rainy* $ =_{df}$ *hot* if and only if *minnesotan*
+> *windy* $ =_{df}$ *hot* if and only if *arizonan*
 
 Thus if we are going to object to $h$-$m$-$a$-ese it will have to be on other than purely logical grounds.
 

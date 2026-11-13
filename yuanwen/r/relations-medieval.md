@@ -439,7 +439,7 @@ I am grateful to Gyula Klima, Lloyd Newton, Paul Studtmann, Jack Zupko, and espe
 
 [^note-47]: *Commentaries on Boethius*, 79. Gilbert’s division of the intellectual disciplines follows Boethius’s discussion in *De Trinitate* 2.
 
-[^note-48]: Cf.*Commentaries on Boethius*, 193, 223, and 227. For a helpful discussion of the relevant texts, to which my own discussion is indebted, see MacDonald 1999.
+[^note-48]: Cf. *Commentaries on Boethius*, 193, 223, and 227. For a helpful discussion of the relevant texts, to which my own discussion is indebted, see MacDonald 1999.
 
 [^note-49]: One of Ockham’s most influential followers, John Buridan (d. 1358/61) even goes so far as to say that everything is a relation (*relativum*, though not *relatio*, since like Ockham he construes the latter as a term of second intention). For everything can be conceived of in terms of a relative concept, since everything is identical with itself and distinct from everything else. Cf. *Summulae de Dialectica* 3.4.1.
 

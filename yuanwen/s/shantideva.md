@@ -39,15 +39,36 @@ As articulated in early Buddhist texts and in the philosophical works belonging 
 
 This picture is quite different from how we ordinarily understand human life and agency; the *ŚS* contains several passages intended to help us come to grips with what a world of impersonal causation would be like. An especially illuminating analogy can be found at *ŚS* 262:
 
-> I have taught the aspects of action, But no agent exists in the ten directions. It’s just like when trees, agitated by the wind, Produce fire: The wind and the trees do not think, “We should generate this fire.” However, fire arises. The performance of action is similar.
+> I have taught the aspects of action,
+> But no agent exists in the ten directions.
+> It’s just like when trees, agitated by the wind,
+> Produce fire:
+> The wind and the trees do not think,
+> “We should generate this fire.”
+> However, fire arises.
+> The performance of action is similar.
 
 A helpful sketch of the overall picture at work in these texts can be found at *ŚS* 238:
 
-> Compounded things proceed by means Of causes and conditions, Mutual causality and dependent arising; Foolish people don’t realize this. For example, by the power of effort, *Muñja* grass and *balbaja* grass can be woven together into a rope; A water-wheel turns, but The individual parts can’t turn by themselves. In the same way, all the aspects of being Exist in dependence on the combination of the others; From the most distant past to the farthest future, One of these existing by itself is not apprehended. (SS-G: 230)
+> Compounded things proceed by means
+> Of causes and conditions,
+> Mutual causality and dependent arising;
+> Foolish people don’t realize this.
+> For example, by the power of effort,
+> *Muñja* grass and *balbaja* grass can be woven together into a rope;
+> A water-wheel turns, but
+> The individual parts can’t turn by themselves.
+> In the same way, all the aspects of being
+> Exist in dependence on the combination of the others;
+> From the most distant past to the farthest future,
+> One of these existing by itself is not apprehended. (SS-G: 230)
 
 The Tibetan *ŚS* quotes at 226 a passage from the *Rice Sheaf Sūtra* that offers an interesting analogy that responds to the perennial question of how rebirth could be possible when there is no self. Many people, when confronted with the teaching of no self, ask how we could possibly understand the process of rebirth if there is nothing that travels from this life to the next. But as the sūtra points out, the moon can be reflected in still water, even though the moon does not travel down to the earth. In the same way, a causal process of dependent arising can lead to a kind of continuity from one life to another, even though there is no real, substantial thing that travels from this body into the next. Another analogy intended to make a similar point is found at 239:
 
-> Although a seal produces a seal impression, We don’t apprehend that the seal transmigrates. It isn’t there [in the impression,] but nor are they wholly different. In the same way, composite things are not annihilated and not eternal.
+> Although a seal produces a seal impression,
+> We don’t apprehend that the seal transmigrates.
+> It isn’t there [in the impression,] but nor are they wholly different.
+> In the same way, composite things are not annihilated and not eternal.
 
 Though Śāntideva devotes considerable effort to expounding the reductionist views of the Abhidharma tradition, he does not regard them as the final word in Buddhist philosophy. We can see this especially in Chapter IX of the *BCA*, which engages with philosophical disagreements between Buddhists and non-Buddhists and between different schools of thought within the Buddhist tradition. This chapter is so formidably technical, and so terse and compressed, as to be open to a range of different interpretations; at places it is almost impenetrable. One thing at least is very clear: the views expressed fall within the Madhyamaka or Middle Way School, a philosophical tradition founded by Nāgārjuna that has been prestigious and influential in China and utterly dominant in Tibet. The teachings of the Madhyamaka pose notorious and formidable difficulties of interpretation; fortunately, much valuable scholarship has recently become available that is of great help in delineating the range of plausible interpretations and the considerations that can be advanced to support them. (See especially Siderits and Katsura (trans.) 2013; Westerhoff 2009; Garfield 2015: ch. 3; Arnold 2012: ch. 6.)
 
@@ -168,7 +189,10 @@ In response to the objection that personal identity justifies special concern, �
 
 The fourth argument from metaphysics to ethics analyzed by Lele relies on the Madhyamaka view that, for Śāntideva, is the deepest expression of the Buddha’s message. This argument is in a way much simpler than the previous ones: It makes no sense to be attached to something that does not ultimately exist. But nothing at all exists ultimately. So it makes no sense to be attached to anything. As Śāntideva writes at *BCA* IX.150–51,
 
-> When all things are empty in this way, what can be received, what taken away? Who can be honored or humiliated by whom? From what can there be happiness or misery, what can be liked and what loathed? What craving can there be? (C&S: 131; see Lele 2015: 32)[^lele-2015]
+> When all things are empty in this way, what can be received, what taken away?
+> Who can be honored or humiliated by whom?
+> From what can there be happiness or misery, what can be liked and what loathed?
+> What craving can there be? (C&S: 131; see Lele 2015: 32)[^lele-2015]
 
 This profound reasoning could nevertheless be questioned. Once we understand that, as major Indian and Tibetan Mādhyamika authors are at pains to insist, being empty of intrinsic nature is compatible both with existence and with the capacity to perform a function (see Tsong kha pa, GT: ch. 14–15), is the argument still convincing? Many Western scholars have had their doubts. Nevertheless, the view that the ability to see the world of experience directly as empty will lead to the extinction of attachment and suffering in the practitioner’s mind is a core commitment of Mahāyāna Buddhism, and its truth or falsity is an empirical matter of the psychology of meditation that does not depend on the cogency of Śāntideva’s reasoning on the topic.
 
@@ -340,7 +364,7 @@ Buddha | ethics: in Indian Buddhism | Madhyamaka | Nāgārjuna | Śāntarakṣit
 
 [^tatz-1994]: ––– (trans.), 1994, *The Skill in Means (Upāya-kauśalya) Sūtra*, Delhi: Motilal Banarsidass.
 
-[^tsong-2002]: Tsong kha pa, [GT], *The Great Treatise on the Stages of the Path to Enlightenment*, vol. 3. Lamrim Chenmo Translation Committee (trans.), Ithaca: Snow Lion, 2002.
+[^tsong-2002]: Tsong kha pa, [**GT**], *The Great Treatise on the Stages of the Path to Enlightenment*, vol. 3. Lamrim Chenmo Translation Committee (trans.), Ithaca: Snow Lion, 2002.
 
 [^westerhoff-2009]: Westerhoff, Jan, 2009, *Nāgārjuna’s Madhyamaka: A Philosophical Introduction*, New York: Oxford University Press.
 

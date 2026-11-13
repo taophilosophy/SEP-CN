@@ -457,7 +457,7 @@ where $\varepsilon \in [0,1]$ is the confidence interval determining the agents 
 
 [^andersen-2010]: Andersen, Hanne, 2010, “Joint Acceptance and Scientific Change: A Case Study”, *Episteme*, 7(3): 248–265. doi:10.3366/epi.2010.0206
 
-[^anderson-1995]: Anderson, Elizabeth, 1995, “Knowledge, Human Interests, and Objectivity in Feminist Epistemology”:,*Philosophical Topics*, 23(2): 27–58. doi:10.5840/philtopics199523213
+[^anderson-1995]: Anderson, Elizabeth, 1995, “Knowledge, Human Interests, and Objectivity in Feminist Epistemology”:, *Philosophical Topics*, 23(2): 27–58. doi:10.5840/philtopics199523213
 
 [^angere-2017]: Angere, Staffan and Erik J. Olsson, 2017, “Publish Late, Publish Rarely!: Network Density and Group Performance in Scientific Communication”, in Boyer-Kassem, Mayo-Wilson, and Weisberg 2017: 34–62 (ch. 2).
 
@@ -859,7 +859,7 @@ where $\varepsilon \in [0,1]$ is the confidence interval determining the agents 
 
 [^steel-2018]: Steel, Daniel, Sina Fazelpour, Kinley Gillette, Bianca Crewe, and Michael Burgess, 2018, “Multiple Diversity Concepts and Their Ethical-Epistemic Implications”, *European Journal for Philosophy of Science*, 8(3): 761–780. doi:10.1007/s13194-018-0209-5
 
-[^strevens-2003]: Strevens, Michael, 2003, “The Role of the Priority Rule in Science”:,*Journal of Philosophy*, 100(2): 55–79. doi:10.5840/jphil2003100224
+[^strevens-2003]: Strevens, Michael, 2003, “The Role of the Priority Rule in Science”:, *Journal of Philosophy*, 100(2): 55–79. doi:10.5840/jphil2003100224
 
 [^strevens-2011]: –––, 2011, “Economic Approaches to Understanding Scientific Norms”, *Episteme*, 8(2): 184–200. doi:10.3366/epi.2011.0015
 

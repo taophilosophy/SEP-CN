@@ -97,7 +97,9 @@ The importance of *sabi* for the way of tea was affirmed by the great fifteenth-
 
 The feeling of *sabi* is also evoked in the haiku of the famous seventeenth-century poet Matsuo Bashō, where its connection with the word *sabishii* (solitary, lonely) is emphasized. The following haiku typifies *sabi(shii)* in conveying an atmosphere of solitude or loneliness that undercuts, as Japanese poetry usually does, the distinction between subjective and objective:
 
-> Solitary now — Standing amidst the blossoms Is a cypress tree.
+> Solitary now —
+> Standing amidst the blossoms
+> Is a cypress tree.
 
 Contrasting with the colorful beauty of the blossoms, the more subdued gracefulness of the cypress—no doubt older than the person seeing it but no less solitary—typifies the poetic mood of *sabi*.
 
