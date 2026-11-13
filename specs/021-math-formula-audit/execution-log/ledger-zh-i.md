@@ -1,0 +1,16 @@
+# 译文侧公式审计台账 — I
+
+判定口径：`公式数`=站点渲染真值口径（math-plugin protectMath）；
+`宏展开`=按 local.js 表就地展开的处数；`缺陷`=D1 残留下界定符 / D2 公式内中文 /
+D3 零宽字符 / D4 % / D5 # / D6 $ 不成对 / D7 与 en 多重集差分。
+
+| 词条 | 公式数 | 宏展开 | 缺陷 | 残余可渲染失败 |
+| ---- | ---- | ---- | ---- | ---- |
+| i/identity-indiscernible.md | 111 | — | 0 | 0（全量编译通过） |
+| i/implicature-optimality-games.md | 175 | llbracket×20；rrbracket×20；rsquo×4 | D7 15 | 0（全量编译通过） |
+| i/impossible-worlds.md | 414 | — | D6 1；D7 31 | 0（全量编译通过） |
+| i/imprecise-probabilities.md | 368 | — | D2 1；D7 8 | 0（全量编译通过） |
+| i/information-biological.md | 6 | — | 0 | 0（全量编译通过） |
+| i/information-semantic.md | 227 | tcont×7；cmapsto×5；tCont×3 | D7 4 | 0（全量编译通过） |
+| i/intrinsic-extrinsic.md | 502 | — | D7 12 | 0（全量编译通过） |
+| i/intuitionism.md | 323 | — | D1 29 | 0（全量编译通过） |

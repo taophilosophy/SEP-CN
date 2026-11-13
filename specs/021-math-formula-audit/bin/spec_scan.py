@@ -26,6 +26,16 @@ RESULTS = os.path.join(HERE, '..', 'results')
 
 sys.path.insert(0, HERE)
 from align import load, norm, strip_delims  # noqa: E402
+from expand_macros import expand_span  # noqa: E402
+
+
+def en_body(slug, body, table):
+    """en 公式体先按词条宏表展开，再与已展开的译文比对（口径对齐）。"""
+    macros = table.get(slug) if table else None
+    if not macros:
+        return body
+    used = collections.Counter()
+    return expand_span(body, macros, used)
 
 CJK_RE = re.compile(r'[\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff]')
 TEXTCMD_RE = re.compile(
@@ -72,6 +82,10 @@ def main(argv):
     en_path = os.path.join(RESULTS, 'en-formulas.jsonl')
     zhseq = load(zh_path)
     enseq = load(en_path)
+    table = {}
+    tpath = os.path.join(RESULTS, 'macro-table.json')
+    if os.path.exists(tpath):
+        table = json.load(open(tpath, encoding='utf-8'))
     out = open(os.path.join(RESULTS, 'zh-defects.jsonl'), 'w', encoding='utf-8')
     summary = collections.Counter()
 
@@ -99,7 +113,8 @@ def main(argv):
                 f'{slug}/{base.split(".")[-1]}.html']
         eh = next((c for c in cand if c in enseq), None)
         if eh:
-            ec = collections.Counter(norm(x) for _, x in enseq[eh])
+            ec = collections.Counter(norm(en_body(slug, x, table))
+                                     for _, x in enseq[eh])
             zc = collections.Counter(norm(x) for _, x in seq)
             for body, n in (ec - zc).items():
                 summary['D7_missing_bodies'] += n

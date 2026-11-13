@@ -21,9 +21,26 @@ RESULTS = os.path.join(HERE, '..', 'results')
 MACRO_DIR = os.path.join(REPO, 'state', 'mathval', 'macros')
 
 KEY_RE = re.compile(r'([A-Za-z][A-Za-z0-9_]*)\s*:\s*')
-# 支持双引号与单引号 JS 字符串（logic-propositional 等词条用单引号）
-STR_RE = re.compile(r'''(["'])((?:[^"'\\]|\\[\s\S])*?)\1''')
+# 双引号与单引号分开匹配：双引号串内可含撇号（如 arrp: "{...}'..."），
+# 统一 [^"'] 类的粗正则会被撇号截断（实证 dynamic-epistemic:arrp 漏收）。
+DQ_RE = re.compile(r'"((?:[^"\\]|\\.)*)"')
+SQ_RE = re.compile(r"'((?:[^'\\]|\\.)*)'")
 NUM_RE = re.compile(r'\s*,\s*(\d+)\s*\]')
+
+
+def _match_str(rest, allow_array=False):
+    """在 rest 开头匹配 JS 字符串（可带 [ 前缀）；返回 (tmpl, end_offset)。"""
+    off = 0
+    if allow_array:
+        m = re.match(r'\[\s*', rest)
+        if not m:
+            return None, 0
+        off = m.end()
+    for pat in (DQ_RE, SQ_RE):
+        m = pat.match(rest, off)
+        if m:
+            return _unescape(m.group(1)), m.end()
+    return None, 0
 
 
 def _unescape(val):
@@ -75,22 +92,22 @@ def parse_macros(text):
         name = km.group(1)
         rest = body[km.end():]
         if rest.startswith('['):
-            am = re.match(r'''\[\s*(["'])((?:[^"'\\]|\\[\s\S])*?)\1''', rest)
-            if not am:
+            tmpl, end_off = _match_str(rest, allow_array=True)
+            if tmpl is None:
                 pos = km.end()
                 continue
-            tmpl = _unescape(am.group(2))
-            nm = NUM_RE.match(rest, am.end())
+            nm = NUM_RE.match(rest, end_off)
             nargs = int(nm.group(1)) if nm else tmpl.count('#')
             out[name] = {'tmpl': tmpl, 'n': nargs}
-            pos = km.end() + (nm.end() if nm else am.end())
+            pos = km.end() + (nm.end() if nm else end_off)
         else:
-            sm = STR_RE.match(rest.lstrip())
-            if not sm:
+            stripped = rest.lstrip()
+            tmpl, end_off = _match_str(stripped)
+            if tmpl is None:
                 pos = km.end()
                 continue
-            out[name] = {'tmpl': _unescape(sm.group(2)), 'n': 0}
-            pos = km.end() + (len(rest) - len(rest.lstrip())) + sm.end()
+            out[name] = {'tmpl': tmpl, 'n': 0}
+            pos = km.end() + (len(rest) - len(stripped)) + end_off
     return out
 
 

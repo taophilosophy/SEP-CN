@@ -1396,6 +1396,10 @@
    "n": 0,
    "tmpl": "{\\,{\\gg}\\,}"
   },
+  "arrp": {
+   "n": 0,
+   "tmpl": "{\\,{\\gg}'\\,}"
+  },
   "bisim": {
    "n": 0,
    "tmpl": "\\mathrel{\\overset{\\leftrightarrow}{\\_}}"
@@ -4970,6 +4974,10 @@
   }
  },
  "physics-experiment": {
+  "KOp": {
+   "n": 0,
+   "tmpl": "{\\mathrm{K}^{0'}}"
+  },
   "bH": {
    "n": 0,
    "tmpl": "{\\mathbf{H}}"
@@ -7349,6 +7357,10 @@
   "amp": {
    "n": 0,
    "tmpl": "\\mathbin{\\&}"
+  },
+  "spq": {
+   "n": 0,
+   "tmpl": "\\textrm{'}"
   }
  }
 }

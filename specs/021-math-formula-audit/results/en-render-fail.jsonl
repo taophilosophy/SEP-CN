@@ -67,15 +67,6 @@
 {"f":"computational-complexity/notes.html","i":213,"k":"inline","x":"\\(Q_1 x_i \\ldots Q_n x_n\\psi \\in \\sc{TQBF}\\)","err":"Undefined control sequence \\sc"}
 {"f":"computational-complexity/notes.html","i":297,"k":"inline","x":"\\(\\sc{VALID} \\in \\textbf{coNP}\\)","err":"Undefined control sequence \\sc"}
 {"f":"computational-complexity/notes.html","i":301,"k":"inline","x":"\\(\\phi \\in \\sc{VALID} \\Leftrightarrow \\exists y \\leq p(\\lvert \\phi\\rvert) R(\\ulcorner \\phi \\urcorner,y)\\)","err":"Undefined control sequence \\sc"}
-{"f":"dynamic-epistemic/appendix-K-evidence.html","i":16,"k":"inline","x":"\\(c_F\\arrp F\\)","err":"Undefined control sequence \\arrp"}
-{"f":"dynamic-epistemic/appendix-K-evidence.html","i":17,"k":"inline","x":"\\(t\\arrp(F\\to G)\\)","err":"Undefined control sequence \\arrp"}
-{"f":"dynamic-epistemic/appendix-K-evidence.html","i":18,"k":"inline","x":"\\(s\\arrp F\\)","err":"Undefined control sequence \\arrp"}
-{"f":"dynamic-epistemic/appendix-K-evidence.html","i":19,"k":"inline","x":"\\((t\\cdot s)\\arrp G\\)","err":"Undefined control sequence \\arrp"}
-{"f":"dynamic-epistemic/appendix-K-evidence.html","i":20,"k":"inline","x":"\\(t\\arrp F\\)","err":"Undefined control sequence \\arrp"}
-{"f":"dynamic-epistemic/appendix-K-evidence.html","i":21,"k":"inline","x":"\\(s\\arrp G\\)","err":"Undefined control sequence \\arrp"}
-{"f":"dynamic-epistemic/appendix-K-evidence.html","i":22,"k":"inline","x":"\\((t+s)\\arrp F\\)","err":"Undefined control sequence \\arrp"}
-{"f":"dynamic-epistemic/appendix-K-evidence.html","i":25,"k":"inline","x":"\\((s+t)\\arrp F\\)","err":"Undefined control sequence \\arrp"}
-{"f":"dynamic-epistemic/appendix-K-evidence.html","i":113,"k":"display","x":"\\[\\begin{gather*}\nt\\arr F \\text{ for each }t \\text{ and }F \\text{ such that }t\\arrp F\\\\\n\\lnot(t\\arr F) \\text{ for each } t \\text{ and } F \\text{ such that not }t\\arrp F\n \\end{gather*}\\]","err":"Undefined control sequence \\arrp"}
 {"f":"epistemic-game/index.html","i":263,"k":"inline","x":"\\(X\\succeq_i Y\\text{ if, and\nonly if, \\(x\\succeq_i y\\)","err":"Missing close brace"}
 {"f":"epistemic-game/index.html","i":406,"k":"inline","x":"\\(\\Rat_i = \\{w \\mid \\mbox{ \\(i\\)","err":"Missing close brace"}
 {"f":"frege-logic/index.html","i":128,"k":"display","x":"\\[\\begin{aligned} -->\n<!-- ~ & (\\forall a_1)(\\forall a_2)\\dots (\\forall a_n)(\\forall -->\n<!-- b_1)(\\forall b_2)\\dots (\\forall b_m)(\\forall c_1)(\\forall c_2)\\dots -->\n<!-- (\\forall c_k)\\\\ -->\n<!-- &(\\Phi_1(a_1, a_2, \\dots a_n, b_1, b_2, \\dots b_m) \\rightarrow -->\n<!-- \\Phi_2(a_1, a_2, \\dots a_n, c_1,","err":"Misplaced \\hline"}
@@ -91,7 +82,6 @@
 {"f":"logical-form/index.html","i":204,"k":"display","x":"\\[!x:Y(x)[X(x)] = \\textbf{T} \\text{ iff the extensions of } X \n\\text{ and } Y \\text{ intersect & } |Y| = 1.\\]","err":"'&' can not be used here"}
 {"f":"nonexistent-objects/notes.html","i":33,"k":"inline","x":"\\(\\iota x\\forall F^n(F^n x \\equiv B^n \\Rightarrow\nF^n).</p>\n</div>\n\n<div id=\"note-33\">\n\n<p>\n\n <a href=\"index.html#ref-33\">33.</a> This\n doctrine raises a difficult question: what is the difference between\nan extranuclear property and its nuclear counterpart? For a discussion\nof this problem see Reic","err":"You can't use 'macro parameter character #' in math mode"}
 {"f":"phil-multimodallogic/index.html","i":640,"k":"inline","x":"\\(U \\in \\U_b\\)","err":"Undefined control sequence \\U"}
-{"f":"physics-experiment/app2.html","i":34,"k":"inline","x":"\\(\\KOp\\)","err":"Undefined control sequence \\KOp"}
 {"f":"possibilism-actualism/notes.html","i":288,"k":"inline","x":"\\(@.\\)","err":"Misplaced @"}
 {"f":"public-goods/index.html","i":12,"k":"inline","x":"\\(x\n= €10,\\)","err":"Cannot read properties of null (reading '4')"}
 {"f":"public-goods/index.html","i":13,"k":"inline","x":"\\(€20.\\)","err":"Cannot read properties of null (reading '4')"}
@@ -99,12 +89,3 @@
 {"f":"public-goods/index.html","i":15,"k":"inline","x":"\\(€0,\\)","err":"Cannot read properties of null (reading '4')"}
 {"f":"public-goods/index.html","i":16,"k":"inline","x":"\\(€10\\)","err":"Cannot read properties of null (reading '4')"}
 {"f":"typelogical-grammar/index.html","i":0,"k":"inline","x":"\\(<em>B</em> ⊗ <em>A</em>)</li>\n </ul>\n </li>\n\n<li>lifting: \n <ul>\n <li><em>A</em> ⊢ <em>B</em>/(<em>A</em>\\<em>B</em>)</li>\n <li><em>A</em> ⊢ (<em>B</em>/<em>A</em>)\\<em>B</em></li>\n </ul>\n </li>\n\n<li>monotonicity: from <em>A</em> ⊢ <em>B</em> and <em>C</em>\n⊢ <em>D</em> infer any of the following:","err":"Undefined control sequence \\<"}
-{"f":"wittgenstein-mathematics/index.html","i":1,"k":"inline","x":"\\(a, x, O \\spq x\\)","err":"Undefined control sequence \\spq"}
-{"f":"wittgenstein-mathematics/index.html","i":3,"k":"inline","x":"\\(O \\spq a\\)","err":"Undefined control sequence \\spq"}
-{"f":"wittgenstein-mathematics/index.html","i":4,"k":"inline","x":"\\(O \\spq O\n\\spq a\\)","err":"Undefined control sequence \\spq"}
-{"f":"wittgenstein-mathematics/index.html","i":5,"k":"inline","x":"\\(\\Omega\\spq(\\overline{\\eta})\\)","err":"Undefined control sequence \\spq"}
-{"f":"wittgenstein-mathematics/index.html","i":6,"k":"display","x":"\\[\n[\\overline{\\xi}, N(\\overline{\\xi})]\\spq (\\overline{\\eta}) (= [\\overline{\\eta}, \\overline{\\xi}, N(\\overline{\\xi})]).  (6.01)\n\\]","err":"Undefined control sequence \\spq"}
-{"f":"wittgenstein-mathematics/index.html","i":9,"k":"inline","x":"\\(a, x, O \\spq\nx\\)","err":"Undefined control sequence \\spq"}
-{"f":"wittgenstein-mathematics/index.html","i":11,"k":"inline","x":"\\(O \\spq x\\)","err":"Undefined control sequence \\spq"}
-{"f":"wittgenstein-mathematics/index.html","i":20,"k":"inline","x":"\\(\\Omega^t \\spq x = \\Omega^s \\spq x\\)","err":"Undefined control sequence \\spq"}
-{"f":"wittgenstein-mathematics/index.html","i":21,"k":"inline","x":"\\(\\Omega^{2 \\times 2}\\spq x = \\Omega^{4}\\spq\nx\\)","err":"Undefined control sequence \\spq"}
