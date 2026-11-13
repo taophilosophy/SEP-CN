@@ -18,7 +18,9 @@
 
 ## 续做队列（按 dash-scan 密度降序）
 
-lambert-auxerre→dai-zhen→…→kilvington→leibniz-mind→lakatos→luxemburg **等 20 条已收口且通过机械替换回溯审计**（见 dash-verdicts `action=none`）。**下一条：leibniz-evil（144 对，7.83/千字）**，其后 lorenzo-valla（116，7.82）→ karl-reinhold（98，7.68）→ ockham（156，7.65）→ duhem（98，7.60）→ 18thGerman-preKant（139，7.44）→ kochen-specker（118，7.26）→ abrabanel（78，7.26）→ …（余 32 条全清单见 dash-verdicts.jsonl `action=fix`，动手前以 dash_scan.py 最新复扫为准）。
+lambert-auxerre→dai-zhen→…→kilvington→leibniz-mind→lakatos→luxemburg **等 20 条已收口且通过机械替换回溯审计**（见 dash-verdicts `action=none`）。leibniz-evil（2026-11-13，144→4）、lorenzo-valla（2026-11-14，116→0）已收口（见 dash-verdicts `action=none`）。**下一条：karl-reinhold（98，7.68）**，其后 ockham（156，7.65）→ duhem（98，7.60）→ 18thGerman-preKant（139，7.44）→ kochen-specker（118，7.26）→ abrabanel（78，7.26）→ …（余 32 条全清单见 dash-verdicts.jsonl `action=fix`，动手前以 dash_scan.py 最新复扫为准）。
+
+**lorenzo-valla 收口要点（2026-11-14）**：① 账本 step2 落后于 md 时（他线已做术语收口而账本未跟上，本例 斯多亚→斯多葛、解释学→诠释学），先整块对齐落后段再上重译对，否则按 md 文本写的 old 串在账本必 MISS；② 首轮 85 句重译后 mech_audit 仍判 8 处 pure（段内只动了符号、词面未变）——按裁定必须二次整句重译（改词序措辞），pure 未定位后才算收口；③ 重译可能引入 de-chain（的-三连或单句≥6 个的），prose 须回归改前基线，超出即再调句法。
 
 **并行安全（2026-11-12 血泪）**：本仓库多会话共用一个工作区，他会话的「门禁清障／rebase autostash」会**清空未提交改动**（lakatos 一次 224 处改动被整篇回滚、无 git 对象可恢复）。因此：① 一条词条**改完立即 `git add` + commit**，不要攒着；② 大批量替换写成幂等脚本（`script/_<slug>_dash_fix.py`，每对 old/new 断言唯一命中、已应用则跳过）一次跑完再核；③ 动手前 `stat` 目标文件 mtime，若数分钟内在变，先等其落定。
 
