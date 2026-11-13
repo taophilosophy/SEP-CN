@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
-"""表格与图片预检（ADR-0036；019 表格图片复核战役的候选清单生成器）。
+"""表格与图片预检（ADR-0036；020 表格图片复核战役的候选清单生成器）。
 
 检查项（zh 模式，默认扫顶层字母目录译文）：
   1. table-cols      —— 表头/分隔/数据行列数不一致（客观）；
-  2. table-center    —— 分隔行非 `:---:` 居中（rules/02；候选，逐个定性）；
-  3. table-compact   —— 非空单元格管道内侧带空格（rules/02 紧凑风格；候选）；
+  2. academic-table  —— `## 学术工具` 节用表格形态（ADR-0037 归一为列表）；
+  3. table-compact   —— 非空单元格管道内侧多空格填充（禁对齐填充；单空格合法）；
+     table-fullwidth —— 单元格含全角空格（rules/02 一律改半角）；
   4. table-en-prose  —— 单元格去代码/数学后 ≥4 英文词且无汉字（未译候选，
                         逐个定性：文献条目照录待括注汉译／漏译）；
   5. alt-lang        —— 图片 alt 无汉字（ADR-0036：alt 译中文；候选）；
@@ -14,12 +15,12 @@
 
 --yuanwen：扫 yuanwen/ 镜像，只查 table-cols 与 img-resolve（镜像保持源样，
 不套 zh 体例）；镜像引用 `../assets/<slug>/…` 相对 yuanwen/<letter>/ 解析。
---corpus <file>：写出全部表格/图片词条并集清单（019 台账初始化数据）。
+--corpus <file>：写出全部表格/图片词条并集清单（020 台账初始化数据）。
 
 口径：
   * 只报告不改内容；所有发现默认告警级（exit 0），--gate 把客观项
     （img-base、img-resolve）升为硬错误（exit 1）；候选项永不升格。
-  * 机器预检只出候选清单，正确性与一致性由人眼逐处定性（019 spec A3）。
+  * 机器预检只出候选清单，正确性与一致性由人眼逐处定性（020 spec A3）。
 """
 import argparse
 import io
@@ -51,15 +52,17 @@ def split_row(line):
     body = re.sub(r'^>\s?', '', line).strip()
     body = body[1:] if body.startswith('|') else body
     body = body[:-1] if body.endswith('|') else body
-    return [c.replace('\\|', '|').strip() for c in body.split('|')]
+    # 按未转义管道切分（单元格内 `\|` 是字面管道，不切）
+    cells = re.split(r'(?<!\\)\|', body)
+    return [c.replace('\\|', '|').strip() for c in cells]
 
 
 def parse_tables(lines):
-    """产出 [ (起始行号, 节标题, [ [cell,...], ... ] ), ... ]；连续表行聚一块。
+    """产出 [ (起始行号, 节标题, 原始行表, [[cell,...],...] ), ... ]；连续表行聚一块。
 
     节标题取该块之前最近的 `## ` 行文本，供样板表分类（Academic Tools）。
     """
-    blocks, cur, start, heading = [], [], None, ''
+    blocks, cur, raw, start, heading = [], [], [], None, ''
     for i, line in enumerate(lines, 1):
         m = re.match(r'^##\s+(.+?)\s*$', line)
         if m:
@@ -68,17 +71,17 @@ def parse_tables(lines):
             if start is None:
                 start = i
             cur.append(split_row(line))
-        else:
-            if cur:
-                blocks.append((start, heading, cur))
-                cur, start = [], None
+            raw.append(line.strip())
+        elif cur:
+            blocks.append((start, heading, raw, cur))
+            cur, raw, start = [], [], None
     if cur:
-        blocks.append((start, heading, cur))
+        blocks.append((start, heading, raw, cur))
     return blocks
 
 
 def is_boilerplate(heading):
-    """样板表（Academic Tools）——每词条同构，转换单测覆盖，不做逐词条人眼。"""
+    """样板节（Academic Tools）——每词条同构；源头单测覆盖，译文侧只查形态。"""
     h = heading.strip().lower()
     return h in ('academic tools', '学术工具')
 
@@ -87,34 +90,43 @@ def check_file(path, yuanwen=False):
     issues = []
     text = open(path, encoding='utf-8').read()
     lines = text.split('\n')
-    for start, heading, rows in parse_tables(lines):
-        if yuanwen and is_boilerplate(heading):
-            continue
+    for start, heading, raw, rows in parse_tables(lines):
         if not rows:
             continue
         ncols = [len(r) for r in rows]
         if len(set(ncols)) > 1:
             issues.append((start, 'table-cols',
                            f'列数不一致 {sorted(set(ncols))}'))
-        if not yuanwen:
-            sep = next((r for r in rows if all(SEP_CELL.match(c) for c in r if c)
+        if yuanwen:
+            if is_boilerplate(heading):
+                continue
+            continue
+        if is_boilerplate(heading):
+            issues.append((start, 'academic-table',
+                           '学术工具节为表格形态，应改列表（ADR-0037）'))
+        sep_idx = next((i for i, r in enumerate(rows)
+                        if all(SEP_CELL.match(c) for c in r if c)
                         and any(c for c in r)), None)
-            if sep is not None and any(c != ':---:' for c in sep):
-                issues.append((start, 'table-center',
-                               '分隔行非 :---: 居中：' + '|'.join(sep)))
-            for ri, row in enumerate(rows):
-                if sep is not None and rows[ri] is sep:
-                    continue
-                for cell in row:
-                    if cell and (cell != cell.strip() or cell.startswith(' ') or cell.endswith(' ')):
-                        issues.append((start, 'table-compact',
-                                       f'单元格带空格：{cell[:40]!r}'))
-                        break
-                cleaned = strip_code_math('|'.join(row))
-                words = EN_WORD.findall(cleaned)
-                if len(words) >= 4 and not CJK.search(cleaned):
-                    issues.append((start, 'table-en-prose',
-                                   f'未译候选：{words[:4]}'))
+        for off, rawline in enumerate(raw):
+            if sep_idx is not None and off == sep_idx:
+                continue
+            body = re.sub(r'^(?:>\s?)?\|', '', rawline)
+            body = body[:-1] if body.endswith('|') else body
+            for cell in body.split('|'):
+                core = cell.strip()
+                if '　' in cell:
+                    issues.append((start + off, 'table-fullwidth',
+                                   f'单元格含全角空格：{core[:40]!r}'))
+                    break
+                if core and (len(cell) - len(cell.lstrip(' ')) >= 2
+                             or len(cell) - len(cell.rstrip(' ')) >= 2):
+                    issues.append((start + off, 'table-compact',
+                                   f'单元格多空格填充：{core[:40]!r}'))
+                    break
+        cleaned = strip_code_math('|'.join(c for row in rows for c in row))
+        words = EN_WORD.findall(cleaned)
+        if len(words) >= 4 and not CJK.search(cleaned):
+            issues.append((start, 'table-en-prose', f'未译候选：{words[:4]}'))
     base = os.path.dirname(path)
     for i, line in enumerate(lines, 1):
         for alt, src in IMG_MD.findall(line):
@@ -156,7 +168,7 @@ def iter_yuanwen():
 
 
 def corpus(out_path):
-    """019 台账初始化：并集清单（zh 译文按 slug 对应 yuanwen 件）。"""
+    """020 台账初始化：并集清单（zh 译文按 slug 对应 yuanwen 件）。"""
     yw_tables, yw_imgs = {}, {}
     for p in iter_yuanwen():
         slug = os.path.splitext(os.path.basename(p))[0]
