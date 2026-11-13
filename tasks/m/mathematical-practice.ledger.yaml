@@ -11,182 +11,242 @@ segments:
     kind: body
     source: |-
       “Philosophy of Mathematical Practice” (PMP) refers to a broad cluster of approaches in the philosophy of mathematics. These approaches share a common focus on philosophical issues arising from actual mathematical practice. It is also characteristic of PMP to consider philosophical problems in the context of specific historical or current mathematical practices. While there have been attempts to more precisely define the notion of mathematical practice, all that needs to be understood by this, as a first approximation, is mathematics as practiced by mathematicians ranging from heuristic informal strategies to formalized developments.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “数学实践的哲学”（Philosophy of Mathematical Practice，缩写 PMP）指数学哲学中一大批彼此相近的进路。这些进路有一个共同的关注点：由实际数学实践引出的哲学问题。PMP 的另一个特征，是把哲学问题放到具体的、历史的或当下的数学实践语境中来考量。虽然已有不少尝试想更精确地界定“数学实践”这个概念，但作为初步理解，只需把它理解为数学家们所从事的数学即可——从启发式的非正式策略到形式化的发展，都在其列。
+    step2: |-
+      “数学实践的哲学”（Philosophy of Mathematical Practice，缩写 PMP）指数学哲学中一大批彼此相近的进路。这些进路有一个共同关注点：由实际数学实践引出的哲学问题。PMP 的另一特征，是把哲学问题放到具体数学实践的语境——历史的或当下的——中来考量。界定“数学实践”概念的更精确尝试虽有多种，但作为初步理解，只需把它理解为数学家所从事的数学即可：从启发式的非正式策略到形式化的发展，都在其列。
   - id: 2
     kind: body
     source: |-
       Typically, approaches within PMP reject a-historical conceptions of mathematics and are open to interdisciplinary research. PMP has been characterized by an innovative focus on aspects of mathematics largely neglected in 20ᵗʰ-century analytic philosophy of mathematics. Foundational concerns and the problem of access to abstract mathematical entities, despite their importance, resulted in an impoverished approach to the philosophy of mathematics, which was often limited to the discussion of set theory and arithmetic. The questions philosophers of mathematical practice ask call for a dramatic extension of the domain of philosophical investigation as conceived in the previous tradition, as well for alternative perspectives on traditional problems. Examples of such questions are: Why do mathematicians prove the same theorem multiple times? Are there virtues of proofs other than correctness? What is mathematical explanation? What are the epistemic roles of visualization in mathematics? What are mathematical notations, and how do they function? What constitutes progress in mathematics, and how is it achieved? How does the use of computational tools influence mathematical practice? Not all these questions are new, and PMP recognizes its debt to certain aspects of investigation that had emerged from Lakatos’ (1976) approach to the philosophy of mathematics as well as to particular trends of investigations (such as Maddy 1997)[^maddy-1997] within the more traditional analytic philosophy of mathematics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      通常来说，PMP 内部的各种进路都拒斥非历史的数学观，并对跨学科研究持开放态度。PMP 的显著特点，是创新性地聚焦于 20 世纪分析数学哲学大体忽略的数学面向。基础问题与抽象数学对象的可达性问题固然重要，但围绕它们的研究却造成了一种贫瘠的数学哲学——它往往被局限于对集合论与算术的讨论。数学实践哲学家提出的问题，要求把先前传统所设想的哲学研究疆域大幅扩展，也要求对传统问题给出另类视角。这类问题的例子有：数学家为什么反复证明同一定理？证明除正确性之外还有别的德性吗？什么是数学解释？可视化在数学中扮演什么认识论角色？数学记号是什么，如何起作用？数学中的进步由什么构成，又如何达成？计算工具的使用如何影响数学实践？这些问题并非全是新的；PMP 也承认自己受惠于若干探究脉络——既有从拉卡托斯（Lakatos 1976）的数学哲学进路中生长出来的，也有更传统的分析数学哲学内部的特定潮流（如 Maddy 1997）[^maddy-1997]。
+    step2: |-
+      通常，PMP 内部的各种进路都拒斥非历史的数学观，并对跨学科研究持开放态度。PMP 的显著特点，是创新性地聚焦于 20 世纪分析数学哲学大体忽略的数学面向。基础问题与抽象数学对象的可达性问题固然重要，围绕它们的研究却造成了一种贫瘠的数学哲学：其讨论往往局限于集合论与算术。数学实践哲学家提出的问题，要求把先前传统所设想的哲学研究疆域大幅扩展，也要求对传统问题给出另类视角。这类问题例如：数学家为什么反复证明同一定理？证明除正确性之外还有别的德性吗？什么是数学解释？可视化在数学中有什么认识论角色？数学记号是什么，如何起作用？数学中的进步由什么构成，又如何达成？计算工具的使用如何影响数学实践？这些问题并非全是新的；PMP 也承认自己受惠于若干探究脉络——既有从拉卡托斯（1976）的数学哲学进路中生长出来的，也有更传统的分析数学哲学内部的特定潮流（如 Maddy 1997）[^maddy-1997]。
   - id: 3
     kind: body
     source: |-
       PMP pushes the boundaries of the philosophy of mathematics by endorsing a broad conception of what areas of mathematics should be object of philosophical attention, extending the range of questions, and introducing new methodologies. Although the philosophy of mathematical practice is placed under the heading ‘the Future’ in the entry on philosophy of mathematics, it has dramatically increased in popularity in the past decades and has generated a remarkable amount of philosophical research. For instance, a considerable number of articles in PMP are included in the recent massive volume (of more than 3,000 pages) *Handbook of the History and Philosophy of Mathematical Practice* (Sriraman 2024)[^sriraman-2024]. Moreover, some of the themes first canvassed within the philosophy of mathematical practice are becoming of more general interest. Indeed, in some cases, such as explanation in mathematics – a topic whose analysis was pioneered by philosophers of mathematical practice – the area has become one of the most widely discussed by analytic philosophers of mathematics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      PMP 拓展了数学哲学的边界：它主张数学的哪些领域应成为哲学关注对象，对此持一种宽泛的理解；它扩充问题的范围；它引入新的方法论。虽然数学实践的哲学在“数学哲学”词条中被归入“未来”一栏，但过去几十年里它的受欢迎程度急剧上升，产生的哲学研究成果也相当可观。例如，近年出版的皇皇巨著《数学实践史与哲学手册》（*Handbook of the History and Philosophy of Mathematical Practice*，三千余页，Sriraman 2024）[^sriraman-2024]就收录了大量 PMP 方面的文章。不仅如此，数学实践的哲学率先探讨的某些主题，如今正获得更普遍的关注。确实，在某些情形下——比如数学中的解释，这一专题的分析正是由数学实践哲学家开创的——该领域已成为分析数学哲学中被讨论得最多的领域之一。
+    step2: |-
+      PMP 拓展了数学哲学的边界：它对哪些数学领域应成为哲学关注对象持宽泛的理解，扩充问题的范围，并引入新的方法论。数学实践的哲学虽在“数学哲学”词条中被归入“未来”一栏，过去几十年里却人气急升，产出的哲学研究成果相当可观。例如，近年出版的皇皇巨著《数学实践史与哲学手册》（*Handbook of the History and Philosophy of Mathematical Practice*，三千余页；Sriraman 2024）[^sriraman-2024]就收录了大量 PMP 方面的文章。不仅如此，数学实践的哲学率先探讨的某些主题，如今正获得更普遍的关注。在某些情形下——例如数学中的解释，这一专题的分析正是由数学实践哲学家开创的——该领域已成为分析数学哲学中被讨论最多的领域之一。
   - id: 4
     kind: body
     source: |-
       ## 1. Overview of Practice-Based Approaches to Mathematics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1. 基于实践的数学进路总览
+    step2: |-
+      ## 1. 基于实践的数学进路总览
   - id: 5
     kind: body
     source: |-
       The central commitment of philosophers of mathematical practice is to tackle philosophical issues that arise by considering the inner workings of mathematics. This common core leaves plenty of leeway in choosing specific questions and deciding how to pursue them. In particular, the way in which mathematics is characterized, as well as the methodology adopted, shape radically different approaches within PMP. We survey such approaches below, highlighting the differences between them and more traditional approaches in the philosophy of mathematics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      数学实践哲学家的核心承诺，是处理通过考察数学内部运作而产生的哲学问题。这一共同内核为具体问题的选择及其研究方式留出了充分余地。尤其是，如何刻画数学、采取什么方法论，塑造了 PMP 内部彼此迥异的进路。下文将对这些进路作一概览，凸显它们与数学哲学中更传统进路之间的差别。
+    step2: |-
+      数学实践哲学家的核心承诺，是处理通过考察数学内部运作而产生的哲学问题。这一共同内核为具体问题的选择及其研究方式留出充分余地。尤其是，对数学的刻画方式与所采方法论，塑造了 PMP 内部彼此迥异的诸进路。下文概览这些进路，凸显它们与数学哲学中更传统进路的差别。
   - id: 6
     kind: body
     source: |-
       We will describe different approaches to mathematics by specifying (1) what areas of mathematics are taken into consideration, (2) who are the mathematical subjects (some would say agents) under investigation and what kind of activities they are engaged in, and (3) the methodology adopted.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们将通过明确以下几点来刻画不同的数学进路：（1）考察的是数学的哪些领域；（2）被研究的数学主体（有人会说“行动者”）是谁，他们从事何种活动；（3）采用什么方法论。
+    step2: |-
+      我们将通过明确以下几点来刻画不同的数学进路：（1）考察数学的哪些领域；（2）被研究的数学主体（有人会说“行动者”）是谁、他们从事何种活动；（3）采用什么方法论。
   - id: 7
     kind: body
     source: |-
       Our aim in this section is to provide a broad taxonomy that will be helpful in navigating between specific positions within PMP. However, the reader should not infer that the taxonomy is exhaustive and that all the positions in the taxonomy have been investigated to the same extent or have yielded the same amount of philosophical success.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本节的目标是给出一个宽泛的分类框架，帮助读者在 PMP 内部的诸具体立场之间导航。但读者不应由此推论：这个分类是穷尽的，框架中所有立场都得到了同等程度的研究，或取得了同等的哲学成果。
+    step2: |-
+      本节的目标是给出一个宽泛的分类框架，帮助读者在 PMP 内部诸具体立场之间导航。但读者不应由此推论：这一分类是穷尽的，框架中所有立场都得到了同等程度的研究、取得了同等的哲学成果。
   - id: 8
     kind: body
     source: |-
       Needless to say, the proposed taxonomy is not the only way of organizing the landscape created by philosophers of mathematical practice. For alternatives, we recommend the following surveys (Carter 2019b, 2024b; Giardino 2017; Hamami and Morris 2020; Mancosu 2008a; Rittberg 2019; Van Bendegem 2014)[^carter-2019b][^giardino-2017][^hamami-2020][^mancosu-2008a][^rittberg-2019][^van-2014].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不用说，这里提出的分类并不是组织数学实践哲学家所开辟之版图的唯一方式。其他分类法，可参看以下综述（Carter 2019b, 2024b; Giardino 2017; Hamami and Morris 2020; Mancosu 2008a; Rittberg 2019; Van Bendegem 2014）[^carter-2019b][^giardino-2017][^hamami-2020][^mancosu-2008a][^rittberg-2019][^van-2014]。
+    step2: |-
+      不用说，这一分类并非组织数学实践哲学家所辟版图的唯一方式。其他分类法，可参看以下综述（Carter 2019b, 2024b; Giardino 2017; Hamami and Morris 2020; Mancosu 2008a; Rittberg 2019; Van Bendegem 2014）[^carter-2019b][^giardino-2017][^hamami-2020][^mancosu-2008a][^rittberg-2019][^van-2014]。
   - id: 9
     kind: body
     source: |-
       ### 1.1 Areas of Mathematics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.1 数学的领域
+    step2: |-
+      ### 1.1 数学的领域
   - id: 10
     kind: body
     source: |-
       It is notoriously difficult to define what mathematics is. Nonetheless, philosophers of mathematics usually share certain assumptions about the nature of mathematics. These assumptions include what domains should be investigated. 20ᵗʰ-century foundational approaches have mainly focused on arithmetic, set theory, and logic (and to a more limited extent on elementary geometry). Instead, PMP considers all areas of mathematics to be under its purview.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      众所周知，给数学下定义是件难事。不过，数学哲学家对数学的本性通常共享一些假设。这些假设包括：应当研究哪些领域。20 世纪的基础主义进路主要聚焦于算术、集合论与逻辑（在更有限的程度上也涉及初等几何）。与此不同，PMP 把数学的所有领域都纳入自己的管辖范围。
+    step2: |-
+      众所周知，给数学下定义是件难事。不过，数学哲学家对数学的本性通常共享一些假设，其中包括：应当研究哪些领域。20 世纪的基础主义进路主要聚焦算术、集合论与逻辑（在更有限程度上也涉及初等几何）。与此不同，PMP 把数学的所有领域都纳入自己的管辖范围。
   - id: 11
     kind: body
     source: |-
       The oldest areas of mathematics are geometry and arithmetic, which originated from the everyday activities of measuring and counting. With time, more abstract areas developed, such as topology, abstract algebra, real and complex analysis, set theory, and category theory. Logic, as the study of reasoning, also originates in antiquity but became a mathematical theory only in the 19ᵗʰ century.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最古老的数学领域是几何与算术，它们源自测量与计数这些日常活动。随着时间推移，更抽象的领域相继发展起来，如拓扑学、抽象代数、实分析与复分析、集合论、范畴论。逻辑作为对推理的研究，同样起源于古代，但直到 19 世纪才成为一门数学理论。
+    step2: |-
+      最古老的数学领域是几何与算术，源自测量与计数这些日常活动。随着时间推移，更抽象的领域相继发展：拓扑学、抽象代数、实分析与复分析、集合论、范畴论。逻辑作为对推理的研究同样起源于古代，但直到 19 世纪才成为一门数学理论。
   - id: 12
     kind: body
     source: |-
       Geometry has been considered the paradigm of rigorous mathematics for about two millennia, from Euclid’s time all the way to the end of the 18ᵗʰ century. While the historical development is complicated, there is no denying that in the 19ᵗʰ century arithmetic and algebra became more central to foundational concerns, for instance in the works of Gauss, Bolzano, Dedekind, and Frege.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      大约两千年来——从欧几里得的时代一直到 18 世纪末——几何学一直被视为严格性数学的典范。历史发展固然复杂，但无可否认：19 世纪，算术与代数成为基础问题的核心，例如高斯、波尔查诺、戴德金与弗雷格的工作。
+    step2: |-
+      大约两千年来——从欧几里得的时代直到 18 世纪末——几何学一直被视为严格数学的典范。历史发展固然复杂，但无可否认：19 世纪，算术与代数成了基础问题的核心，例如高斯、波尔查诺、戴德金与弗雷格的工作。
   - id: 13
     kind: body
     source: |-
       Indeed, foundational approaches have mostly concentrated on arithmetic because they take it to be representative or more fundamental. Frege’s logicism is a prime example of this – the primary aim of Frege’s logicism is to reduce arithmetic (not all mathematics!) to logic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      确实，基础主义进路大多聚焦于算术，因为它们把算术当作有代表性或更根本的领域。弗雷格的逻辑主义就是典型——它的首要目标，是把算术（而不是全部数学！）还原为逻辑。
+    step2: |-
+      确实，基础主义进路大多聚焦算术，因为它们把算术当作有代表性或更根本的领域。弗雷格的逻辑主义就是典型——其首要目标是把算术（而非全部数学！）还原为逻辑。
   - id: 14
     kind: body
     source: |-
       Moreover, 20ᵗʰ-century analytical philosophy of mathematics has almost exclusively focused on general epistemological and ontological questions that by and large could be framed in terms of set theory. This has led to reducing philosophical discussions about mathematics to philosophical discussions about sets (what are they? How can we have access to them?), thus neglecting the specificities of different branches of mathematics. Jeremy Avigad is explicit about the negative effect that this had on the philosophy of mathematics:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，20 世纪的分析数学哲学几乎只聚焦于一般性的认识论与本体论问题，而这些大体都能用集合论的术语来框定。其结果是，关于数学的哲学讨论被化约为关于集合的哲学讨论（集合是什么？我们如何通达它们？），数学各分支的特殊性则被忽视。杰里米·阿维加德（Jeremy Avigad）对这种做法给数学哲学带来的负面效应说得很明白：
+    step2: |-
+      此外，20 世纪的分析数学哲学几乎只聚焦一般性的认识论与本体论问题，而这些大体都能用集合论术语框定。其结果是，关于数学的哲学讨论被化约为关于集合的哲学讨论（集合是什么？我们如何通达它们？），数学各分支的特殊性则遭忽视。杰里米·阿维加德（Jeremy Avigad）对这种做法的负面效应说得很明白：
   - id: 15
     kind: body
     source: |-
       > The problem is that set-theoretic idealisation idealises too much. Mathematical thought is messy. When we dig beneath the neatly composed surface we find a great buzzing, blooming confusion of ideas, and we have a lot to learn about how mathematics channels these wellsprings of creativity into rigorous scientific discourse. But that requires doing hard work and getting our hands dirty. And so the call of the sirens is pleasant and enticing: mathematics is set theory! Just tell us a really good story about abstract objects, and the secrets of the Universe will be unlocked. This siren song has held the philosophy of mathematics in thrall, leaving it to drift into the rocky shores. (2018a, 6)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 问题在于，集合论式的理想化理想化得过了头。数学思想是杂乱的。在整洁的表层之下挖下去，我们会发现一片嗡嗡作响、纷然杂陈的观念丛林；数学如何把这些创造的泉源引入严格的科学话语，这方面我们还有很多要学。但这需要下硬功夫，需要把手弄脏。于是海妖的歌声显得悦耳而诱人：数学就是集合论！只要给我们讲一个关于抽象对象的好故事，宇宙的秘密就将被解开。这首塞壬之歌把数学哲学迷得神魂颠倒，任它漂向礁石。（2018a, 6）
+    step2: |-
+      > 问题在于，集合论式的理想化理想化得过了头。数学思想是杂乱的。在整洁的表层之下挖下去，会发现一片嗡嗡作响、纷然杂陈的观念丛林；数学如何把这些创造泉源引入严格的科学话语，这方面我们还有很多要学。但这需要下硬功夫、把手弄脏。于是海妖的歌声显得悦耳诱人：数学就是集合论！只要给我们讲一个关于抽象对象的好故事，宇宙的秘密就将被解开。这首塞壬之歌把数学哲学迷得神魂颠倒，任它漂向礁石。（2018a, 6）
   - id: 16
     kind: body
     source: |-
       Philosophers of mathematical practice tend to get their hands dirty with all sorts of different mathematics. They recognize that mathematics is not monolithic but multiform. The common thought is that focusing on a few areas such as arithmetic and set theory results in a lost opportunity for philosophical analyses of mathematics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      数学实践哲学家则乐于把手弄脏，涉足五花八门的数学。他们承认，数学不是铁板一块，而是形态多样。共同的看法是：只盯着算术、集合论这几个领域，就错失了对数学作哲学分析的机会。
+    step2: |-
+      数学实践哲学家则乐于把手弄脏，涉足五花八门的数学。他们承认，数学不是铁板一块，而是形态多样。共同看法是：只盯住算术、集合论这几个领域，便错失了对数学作哲学分析的机会。
   - id: 17
     kind: body
     source: |-
       For example, it is evident that in order to pursue an epistemological analysis of visualization and diagrammatic reasoning, we cannot avoid considering geometry and topology – and indeed we cannot avoid considering other areas of mathematics as well (e.g., analysis (Carter 2010)[^carter-2010] and algebra (De Toffoli 2017)). Moreover, in order to study whether computational technology can enhance mathematical understanding, it is helpful to look into combinatorics and related areas (Avigad 2022)[^avigad-2022]. What is more, these themes and many other themes, like mathematical explanation and mathematical understanding, are transversal, and it would be artificial to restrict them to specific mathematical areas.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      例如，显然要对可视化与图式推理作认识论分析，就免不了考察几何与拓扑——事实上也免不了考察其他数学领域（如分析学（Carter 2010）[^carter-2010]与代数（De Toffoli 2017））。再者，要研究计算技术能否增进数学理解，考察组合数学及相关领域会很有帮助（Avigad 2022）[^avigad-2022]。更有甚者，这些主题以及许多别的主题——如数学解释与数学理解——都是横贯性的，把它们限定在特定的数学领域内就太人为了。
+    step2: |-
+      例如，要对可视化与图式推理作认识论分析，显然免不了考察几何与拓扑——事实上也免不了考察其他数学领域（如分析学（Carter 2010）[^carter-2010]与代数（De Toffoli 2017））。再者，要研究计算技术能否增进数学理解，考察组合数学及相关领域会很有帮助（Avigad 2022）[^avigad-2022]。而且，这些主题与许多别的主题——如数学解释与数学理解——都是横贯性的，把它们限定在特定数学领域内未免人为。
   - id: 18
     kind: body
     source: |-
       ### 1.2 Subjects Doing Mathematics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.2 从事数学的主体
+    step2: |-
+      ### 1.2 从事数学的主体
   - id: 19
     kind: body
     source: |-
       Philosophers of mathematics engaged in foundationalist projects often conceive of mathematics as a collection of theories that can be expressed in specific formal systems. This conception gives little if no role to the diachronic nature of mathematics as well as to the subjects doing mathematics. While acknowledging the importance of the synchronic analysis of mathematics for certain goals, philosophers of mathematical practice give, when appropriate, special attention to the history of mathematics and to how specific features (cognitive or otherwise) of the subjects engaged in mathematical activity might affect the development and constitution of mathematics. To emphasize the activity in which the mathematicians engage in, some prefer to speak of agents (Ferreirós 2020; Hamami 2024)[^ferreirós-2020][^hamami-2024][^hamami-2024-2].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      投身基础主义项目的数学哲学家，常把数学设想为一组可用特定形式系统表达的理论。这种构想几乎没有给数学的历时性、也没有给从事数学的主体留出什么位置。数学实践哲学家并不否认对数学作共时态分析对某些目标有其重要性，但他们在恰当之处会特别关注数学史，以及从事数学活动的主体之特定特征（认知的或其他方面的）会如何影响数学的发展与构成。为强调数学家所从事的活动，一些学者宁可用“行动者”一语（Ferreirós 2020; Hamami 2024）[^ferreirós-2020][^hamami-2024][^hamami-2024-2]。
+    step2: |-
+      投身基础主义项目的数学哲学家，常把数学设想为一组可用特定形式系统表达的理论。这种构想几乎没有给数学的历时性、也没给从事数学的主体留出位置。数学实践哲学家并不否认共时态分析对某些目标有其重要性，但在恰当之处会特别关注数学史，以及从事数学活动的主体之特定特征（认知的或其他方面的）如何影响数学的发展与构成。为强调数学家所从事的活动，一些学者宁用“行动者”一语（Ferreirós 2020; Hamami 2024）[^ferreirós-2020][^hamami-2024][^hamami-2024-2]。
   - id: 20
     kind: body
     source: |-
       By considering mathematics as a static body of truths rather than a discipline in evolution, philosophers of mathematics engaged in foundational projects have by and large paid very little attention to the history of mathematics, contenting themselves with some references to the arithmetization of analysis (and its role in the development of logic and set theory) and the development of non-Euclidean geometries in the 19ᵗʰ century (as a prelude to an understanding of Hilbert’s approach to axiomatics). After all, the project is to provide solid foundations for current, rigorous mathematics, rather than engaging in historical exegesis. To be sure, there are exceptions, and we can mention, by way of example, two cases pre-dating the 1970s. On the philosophical side, one could mention the work by Cavaillès (1938), which was driven by foundational concerns and yet displayed a fine attention to historical nuance. On the mathematical side, one can mention Robinson’s (1966) interest in the historical debates concerning Leibnizian infinitesimals as a way to provide a perspective on the importance of non-standard analysis. Of course, things have much improved in the last fifty years with detailed studies of, among others, Dedekind, Frege, Cantor, and Hilbert. Still, the majority of efforts in the foundationalist tradition do not need to concern themselves with the historical aspects of the discipline and squarely focus on modern mathematics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      把数学看作静态的真理集合体而非演化中的学科，投身基础项目的数学哲学家便大体上很少关注数学史，只满足于提几句分析学的算术化（及其在逻辑与集合论发展中的作用）、19 世纪非欧几何的发展（把它当作理解希尔伯特公理化进路的序幕）。毕竟，这个项目是要为当前的严格数学提供坚实基础，而不是从事历史考释。当然也有例外，这里可举 1970 年代前的两个例子。哲学方面，可提卡瓦耶斯（Cavaillès 1938）的工作：它由基础关切驱动，却对历史细节显示出了精到的注意。数学方面，可提罗宾逊（Robinson 1966）对莱布尼茨无穷小量历史论辩的兴趣——他借此为非标准分析的重要性提供了一个视角。当然，最近五十年情况已大为改观，对戴德金、弗雷格、康托尔、希尔伯特等人的研究都很细致。但基础主义传统中的多数工作仍无须关心这门学科的历史面向，而径直聚焦现代数学。
+    step2: |-
+      把数学看作静态真理体而非演化中的学科，投身基础项目的数学哲学家便大体很少关注数学史，只满足于提几句分析学的算术化（及其在逻辑与集合论发展中的作用）、19 世纪非欧几何的发展（视之为理解希尔伯特公理化进路的序幕）。毕竟，这一项目要为当前的严格数学提供坚实基础，而非从事历史考释。当然也有例外，这里举 1970 年代前的两例。哲学方面，可提卡瓦耶斯（Cavaillès 1938）的工作：它由基础关切驱动，却对历史细节显示精到的注意。数学方面，可提罗宾逊（Robinson 1966）对莱布尼茨无穷小量历史论辩的兴趣——他借此为非标准分析的重要性提供了一个视角。最近五十年情况已大为改观，对戴德金、弗雷格、康托尔、希尔伯特等人的研究都很细致。但基础主义传统的多数工作仍无须关心学科的历史面向，而径直聚焦现代数学。
   - id: 21
     kind: body
     source: |-
       Moreover, focusing on general worries about the nature of abstract objects and our access to them has, by and large, led philosophers of mathematics to put at the center of their epistemological inquiries highly idealized subjects in isolation. A common assumption is that epistemic access worries only arise with respect to the axioms of a theory and what follows from what is taken to be epistemically unproblematic as if the underlying subjects were logically omniscient subjects.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      再者，聚焦于抽象对象的本性及我们对它们的通达这类一般性忧虑，大体上使数学哲学家把高度理想化的、孤立的主体放到其认识论研究的中心。一个常见的假设是：认识论通达的忧虑只出现在理论的公理以及从公理推出的命题上，仿佛底层主体是逻辑上全知的主体。
+    step2: |-
+      再者，聚焦抽象对象的本性及我们对它们的通达这类一般性忧虑，大体使数学哲学家把高度理想化的孤立主体放到认识论研究的中心。一个常见假设是：认识论通达的忧虑只出现在理论的公理及从公理推出的命题上，仿佛底层主体是逻辑全知的主体。
   - id: 22
     kind: body
     source: |-
       By contrast, since philosophers of mathematical practice address a number of epistemological issues that are in many cases unrelated to the foundations of mathematics or to the problem of access, they tend to be more inclusive both in terms of the historical practices considered and of who are the subjects engaged in mathematics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      相比之下，数学实践哲学家处理的一系列认识论问题，多数情况下与数学基础或可达性问题无关，所以无论就所考察的历史实践，还是就从事数学的主体而言，他们的态度都更包容。
+    step2: |-
+      相比之下，数学实践哲学家处理的一系列认识论问题多数与数学基础或可达性问题无关，故无论就所考察的历史实践，还是就从事数学的主体而言，他们的态度都更包容。
   - id: 23
     kind: body
     source: |-
       In the introduction to the volume *The Philosophy of Mathematical Practice*, Paolo Mancosu explains:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在《数学实践的哲学》（*The Philosophy of Mathematical Practice*）这部文集的导言中，保罗·马科苏（Paolo Mancosu）解释道：
+    step2: |-
+      在《数学实践的哲学》（*The Philosophy of Mathematical Practice*）文集的导言中，保罗·马科苏（Paolo Mancosu）解释道：
   - id: 24
     kind: body
     source: |-
       > The authors in this collection believe that the single-minded focus on the problem of ‘access’ has reduced the epistemology of mathematics to a torso. They believe that the epistemology of mathematics needs to be extended well beyond its present confines to address epistemological issues having to do with fruitfulness, evidence, visualization, diagrammatic reasoning, understanding, explanation, and other aspects of mathematical epistemology which are orthogonal to the problem of access to ‘abstract objects.’ (2008b, 1–2)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 本文集的作者们认为，对“通达”问题的单向度聚焦，已把数学认识论缩减成了一具残躯。他们认为，数学认识论必须远远越出当前的疆界，去处理与丰饶性、证据、可视化、图式推理、理解、解释等有关的认识论问题——这些数学认识论的面向，与“抽象对象”的通达问题正交。（2008b, 1–2）
+    step2: |-
+      > 本文集的作者们认为，对“通达”问题的单向度聚焦，已把数学认识论缩减成一具残躯。他们认为，数学认识论必须远远越出当前疆界，去处理与丰饶性、证据、可视化、图式推理、理解、解释等有关的认识论问题——这些数学认识论的面向，与“抽象对象”的通达问题正交。（2008b, 1–2）
   - id: 25
     kind: body
     source: |-
       The volume contains several contributions devoted to the topics listed above and treated for the most part using a methodology of conceptual analysis. We will return in Section 3 to some of the areas listed in the above quote but for the moment we would like to point out that broadening the confines of the epistemology of mathematics has led to an analysis of historical mathematical practices such as, for instance, Euclidean geometry (as developed in Euclid’s *Elements* and not only in a contemporary axiomatic framework).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这部文集收录了多篇致力于上述主题的论文，大多采用概念分析的方法论。上引文字所列的部分领域，我们将在第 3 节再谈；这里只想指出：拓宽数学认识论的疆界，带动了对历史数学实践的分析——例如欧几里得几何（如《几何原本》中所发展出来的，而不仅在当代公理化框架中）。
+    step2: |-
+      这部文集收录了多篇致力于上述主题的论文，大多采用概念分析的方法论。上引所列的部分领域，第 3 节再谈；这里只想指出：拓宽数学认识论的疆界，带动了对历史数学实践的分析——例如欧几里得几何（如《几何原本》中发展的形态，而不仅在当代公理化框架中）。
   - id: 26
     kind: body
     source: |-
       In addition, the extension of the range of the epistemology of mathematics has led to changes in the underlying assumptions concerning the subjects practicing mathematics, which has, in some cases, brought about fruitful interactions also with cognitive psychology and mainstream epistemology. For instance, in the study of notations and diagrammatic reasoning, it is crucial to assume that those who do mathematics are subjects sharing broad features of our human cognitive architecture. This is a natural and uncontroversial assumption, but one that is not necessarily needed if the only epistemological problems about mathematics, as conceived in the traditional analytical approach, are linked to the problem of access to abstract objects. It is thus unsurprising that philosophers of mathematical practice working on these issues have engaged with studies on mathematical cognition (Giaquinto 2007; Schlimm 2018)[^giaquinto-2007][^schlimm-2018].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，数学认识论范围的扩展，也改变了关于从事数学之主体的底层假设，某些情形下还促成了与认知心理学及主流认识论富有成果的互动。例如，研究记号与图式推理时，关键前提是：从事数学者是共享人类认知架构基本特征的主体。这是一个自然而无可争议的假设；但若按传统分析进路的设想，数学的认识论问题只关乎抽象对象的通达，这个假设就未必必要。因此，致力于这些问题的数学实践哲学家与数学认知研究发生互动，也就不足为奇了（Giaquinto 2007; Schlimm 2018）[^giaquinto-2007][^schlimm-2018]。
+    step2: |-
+      此外，数学认识论范围的扩展也改变了关于从事数学之主体的底层假设，某些情形下还促成与认知心理学及主流认识论富有成果的互动。例如，研究记号与图式推理时，关键前提是：从事数学者是共享人类认知架构基本特征的主体。这个假设自然而无可争议；但若按传统分析进路的设想，数学的认识论问题只关乎抽象对象的通达，它就未必必要。因此，致力于这些问题的数学实践哲学家与数学认知研究发生互动，不足为奇（Giaquinto 2007; Schlimm 2018）[^giaquinto-2007][^schlimm-2018]。
   - id: 27
     kind: body
     source: |-
       Other examples of the interaction between cognitive psychology and PMP include the application of the theory of embodied cognition to mathematics. One early work in this direction is Lakoff and Núñez 2000; more recent studies are Giardino 2018; Pantsar 2019b.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      认知心理学与 PMP 互动的其他例子，还包括把具身认知理论应用于数学。这一方向的早期工作是 Lakoff and Núñez 2000；较近的研究有 Giardino 2018; Pantsar 2019b。
+    step2: |-
+      认知心理学与 PMP 互动的其他例子，还包括把具身认知理论应用于数学。此方向的早期工作是 Lakoff and Núñez 2000；较近的研究有 Giardino 2018; Pantsar 2019b。
   - id: 28
     kind: body
     source: |-
       Interactions between PMP and mainstream epistemology include discussions on epistemic defeaters (Easwaran 2015)[^easwaran-2015] and fallibility (De Toffoli 2021a; Dove 2003; Easwaran 2009)[^dove-2003][^easwaran-2009]. Moreover, themes of social epistemology are also being investigated within PMP. Mathematicians rely on each other (and at times on machines) to check the correctness of their putative proofs. They also commonly rely on results without proving them for themselves. Focusing on the social dimension of mathematics has shown that themes that are gaining traction in social epistemology could be fruitfully applied to the philosophy of mathematics, and scholars working in PMP have been especially sensitive to incorporating these developments. These themes include group knowledge and justification (Habgood-Coote and Tanswell 2021)[^habgood-coote-2021][^tanswell-2021], testimony (Geist, Löwe, and Van Kerkhove 2010; Andersen, Andersen, and Sørensen 2021), trust (De Toffoli and Tanswell 2025), epistemic exclusions (Rittberg 2023)[^rittberg-2023], epistemic injustice (Rittberg, Tanswell, and Van Bendegem 2020; Hunsicker and Rittberg 2022)[^hunsicker-2022], and the epistemic significance of disagreement (Aberdein 2023; De Toffoli and Fontanari 2023; Kant 2025)[^aberdein-2023][^kant-2025].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      PMP 与主流认识论的互动，包括关于认知挫败者的讨论（Easwaran 2015）[^easwaran-2015]与可错论的讨论（De Toffoli 2021a; Dove 2003; Easwaran 2009）[^dove-2003][^easwaran-2009]。此外，社会认识论的主题也在 PMP 内部得到研究。数学家彼此依赖（有时依赖机器）来核查其候选证明的正确性；他们也常常径直引用结果而不亲自证明。聚焦数学的社会维度表明：社会认识论中日渐走红的主题，可以富有成果地应用于数学哲学；从事 PMP 的学者对吸纳这些发展尤为敏感。这些主题包括：群体知识与辩护（Habgood-Coote and Tanswell 2021）[^habgood-coote-2021][^tanswell-2021]、证言（Geist, Löwe, and Van Kerkhove 2010; Andersen, Andersen, and Sørensen 2021）、信任（De Toffoli and Tanswell 2025）、认知排斥（Rittberg 2023）[^rittberg-2023]、认知不正义（Rittberg, Tanswell, and Van Bendegem 2020; Hunsicker and Rittberg 2022）[^hunsicker-2022]，以及分歧的认识论意义（Aberdein 2023; De Toffoli and Fontanari 2023; Kant 2025）[^aberdein-2023][^kant-2025]。
+    step2: |-
+      PMP 与主流认识论的互动，包括关于认知挫败者的讨论（Easwaran 2015）[^easwaran-2015]与可错论的讨论（De Toffoli 2021a; Dove 2003; Easwaran 2009）[^dove-2003][^easwaran-2009]。社会认识论的主题也在 PMP 内部得到研究。数学家彼此依赖（有时依赖机器）核查候选证明的正确性；他们也常径直引用结果而不亲自证明。聚焦数学的社会维度表明：社会认识论中日渐走红的主题可富有成果地应用于数学哲学，从事 PMP 的学者对吸纳这些发展尤为敏感。这些主题包括：群体知识与辩护（Habgood-Coote and Tanswell 2021）[^habgood-coote-2021][^tanswell-2021]、证言（Geist, Löwe, and Van Kerkhove 2010; Andersen, Andersen, and Sørensen 2021）、信任（De Toffoli and Tanswell 2025）、认知排斥（Rittberg 2023）[^rittberg-2023]、认知不正义（Rittberg, Tanswell, and Van Bendegem 2020; Hunsicker and Rittberg 2022）[^hunsicker-2022]，以及分歧的认识论意义（Aberdein 2023; De Toffoli and Fontanari 2023; Kant 2025）[^aberdein-2023][^kant-2025]。
   - id: 29
     kind: body
     source: |-
       Mainstream philosophy of action has also been put into service in the study of mathematical practice. In particular, in (Hamami and Morris 2023, 2024)[^hamami-2023], the authors propose an account of mathematical understanding inspired by Bratman’s (1987) classic account of planning and practical reasons. But the focus on agents has also brought contributions in the area of social ontology, which are surveyed in a Special Issue of *Topoi* edited by Cantù and Testa (2023).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      主流行动哲学也被引入数学实践的研究。特别是在（Hamami and Morris 2023, 2024）[^hamami-2023]中，作者们受布拉特曼（Bratman 1987）关于规划与实践理性的经典说明启发，提出了一个数学理解的说明。但聚焦行动者也带来了社会本体论方面的贡献，Cantù 与 Testa（2023）主编的《Topoi》专号对此有综述。
+    step2: |-
+      主流行动哲学也被引入数学实践研究。特别是在（Hamami and Morris 2023, 2024）[^hamami-2023]中，作者们受布拉特曼（Bratman 1987）关于规划与实践理性的经典说明启发，提出了一种数学理解的说明。聚焦行动者也带来了社会本体论方面的贡献，Cantù 与 Testa（2023）主编的《Topoi》专号对此有综述。
   - id: 30
     kind: body
     source: |-
       Summarizing the above, we can say that, in addition to contributions that address problems of mathematical practice with a more traditional methodology of conceptual analysis, a more detailed attention to mathematical practice and the subjects practicing it has led several scholars engaged in PMP to take into account the cognitive architecture of the subjects and the social dimension of the epistemic activities in which mathematicians are engaged in, at times in consonance with parallel developments in mainstream analytic philosophy.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      概括以上所述：除了以较传统的概念分析方法处理数学实践问题的贡献之外，对数学实践及其实践者的更细致关注，也促使若干从事 PMP 的学者去考虑主体的认知架构、数学家所从事认识论活动的社会维度——有时与主流分析哲学的平行发展相呼应。
+    step2: |-
+      概括而言：除了以较传统的概念分析方法处理数学实践问题的贡献之外，对数学实践及其实践者的细致关注，也促使若干从事 PMP 的学者考虑主体的认知架构、数学家所从事认识论活动的社会维度——有时与主流分析哲学的平行发展相呼应。
   - id: 31
     kind: body
     source: |-
