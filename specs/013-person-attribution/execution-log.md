@@ -167,3 +167,15 @@
 **留队的高价值歧义**：Darwin、Baudelaire、Chalmers、Charles Mills、Cicero、Thomasius、Samuel Clarke、Cayley、Clement V、Cohen, Joshua——均因同姓多值且尚无可据的单一记录，留待另源或指定首现词条后处理。
 
 **验收**：硬错误 0；人名缺项 3137 → 3095；数据与凭证同批提交（eada9bf14）。
+
+## 2026-11-14 GND F 段（47 行）
+
+**范围**：续取 120 行（Cole 至 de Sitter），命中 55（exact 47／variant 8）、歧义 17、查无 44。采信 47 行；凭证 `results/verify-2026-11-14-gnd-f.tsv`。
+
+**拒采 4 条实体错配**：`Costa, Paul`（命中 1672–1726 木雕家 Costa, Pau）、`Crupi, Vincenzo`（命中 1952 年文学研究者，与逻辑哲学家不合）、`Dana Scott`（命中 Spears, Dana Scott，非 1932 年生逻辑学家）、`David Hull`（命中 Holmes, David H.，1865–1918 古典学家）。
+
+**口径校正**：Condillac 取“法国／哲学”（GND 三值含意大利、瑞士为游历与出版著录）；Columbus 取“意大利／西班牙”（按出生地与卒地次序）。
+
+**跳过**：Cohen 类无地域码者（Cowie、Cullen），以及 17 位同姓多值者（含 Donald Davidson、Stephen Davies、Richard Dawkins、Daniel Bell、Robert Dahl）。
+
+**验收**：硬错误 0；人名缺项 3095 → 3048；数据与凭证同批提交（a04185529）。
