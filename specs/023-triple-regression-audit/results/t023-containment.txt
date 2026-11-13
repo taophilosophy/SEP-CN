@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "C:\Users\ykla\Documents\SEP-CN\specs\023-triple-regression-audit\bin\t023_containment.py", line 23, in <module>
+    SUBSUP = str.maketrans('₀₁₂₃₄₅₆₇₈₉⁰¹²³⁴⁵⁶⁷⁸⁹ⁿ⁺⁻'
+             ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+                           'ᵃᵇᶜᵈᵉᶠᵍʰⁱʲᵏˡᵐⁿᵒᵖʳˢᵗᵘᵛʷˣʸᶻ'
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+                           'abcdefghijklmnopqrstuvwxyz'
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                           'βγρφχ')
+                           ^^^^^^^^
+ValueError: the first two maketrans arguments must have equal length

@@ -35,11 +35,15 @@ def norm(s):
 
 
 def en_rows(slug):
-    """en 正文顶层表 → [(表序, 行文本, 原始行前 90 字符)]。"""
+    """en 正文顶层表 → [(表序, 行文本, 原始行前 90 字符)]。
+
+    与转换器同法先剥完整注释（编辑性注释一贯丢弃，注释内表格不入对账）；
+    Academic Tools 三行（PDF 预览/InPhO/PhilPapers）为设计性豁免，过滤。"""
     p = os.path.join(ROOT, 'en', slug, 'index.html')
     if not os.path.isfile(p):
         return None
     text = open(p, encoding='utf-8', errors='replace').read()
+    text = re.sub(r'<!--.*?-->', '', text, flags=re.S)
     out = []
     for ti, (_, seg) in enumerate([t for t in _split_tables(text) if t[0]]):
         seg = re.sub(r'<table[^>]*>', '', seg, count=1, flags=re.I)
@@ -49,6 +53,8 @@ def en_rows(slug):
                      for td in re.findall(r'<t[dh]\b.*?</t[dh]>', tr, re.S)]
             txt = re.sub(r'\s+', ' ', htmllib.unescape(' '.join(cells))).strip()
             if not txt:
+                continue
+            if re.search(r'Preview the PDF|Friends of the SEP Society|InPhO|PhilPapers', txt, re.I):
                 continue
             out.append((ti, ri, txt))
     return out
