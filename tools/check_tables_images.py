@@ -64,7 +64,16 @@ def parse_tables(lines):
     节标题取该块之前最近的 `## ` 行文本，供样板表分类（Academic Tools）。
     """
     blocks, cur, raw, start, heading = [], [], [], None, ''
+    fence = False
     for i, line in enumerate(lines, 1):
+        if line.lstrip().startswith('```'):
+            fence = not fence
+            if cur:
+                blocks.append((start, heading, raw, cur))
+                cur, raw, start = [], [], None
+            continue
+        if fence:
+            continue
         m = re.match(r'^##\s+(.+?)\s*$', line)
         if m:
             heading = m.group(1)
@@ -130,7 +139,13 @@ def check_file(path, yuanwen=False):
         if len(words) >= 4 and not CJK.search(cleaned):
             issues.append((start, 'table-en-prose', f'未译候选：{words[:4]}'))
     base = os.path.dirname(path)
+    fence = False
     for i, line in enumerate(lines, 1):
+        if line.lstrip().startswith('```'):
+            fence = not fence
+            continue
+        if fence:
+            continue
         for alt, src in IMG_MD.findall(line):
             if yuanwen:
                 if src.startswith('../assets/'):
@@ -150,6 +165,9 @@ def check_file(path, yuanwen=False):
     return issues
 
 
+ROOT_TABLES = ('ren-ming-biao.md', 'shu-yu-biao.md', 'yi-zhe-shuo-ming.md')
+
+
 def iter_zh():
     for name in sorted(os.listdir(ROOT)):
         d = os.path.join(ROOT, name)
@@ -157,6 +175,11 @@ def iter_zh():
             for f in sorted(os.listdir(d)):
                 if f.endswith('.md'):
                     yield os.path.join(d, f)
+    # 根级登记册与说明页（020 战役补：原扫描漏掉，导致人名/术语两册文字墙长期未入检）
+    for name in ROOT_TABLES:
+        p = os.path.join(ROOT, name)
+        if os.path.isfile(p):
+            yield p
 
 
 def iter_yuanwen():
