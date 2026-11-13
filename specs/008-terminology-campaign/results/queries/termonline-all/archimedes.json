@@ -1,0 +1,103 @@
+{
+ "key": "archimedes",
+ "term": "Archimedes",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T10:48:20+00:00",
+ "status": "ok",
+ "note": "variant=Archimedes; 审定公布名词库=13; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "阿基米德螺线",
+   "en": "Archimedes spiral",
+   "code": "08.0105",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_传动_齿轮传动_一般名词"
+  },
+  {
+   "cn": "阿基米德法",
+   "en": "Archimedes method",
+   "code": "04.0639",
+   "standard": "冶金学名词",
+   "subject": "冶金学_冶金物理化学_冶金物理化学研究方法"
+  },
+  {
+   "cn": "阿基米德原理",
+   "en": "Archimedes' principle",
+   "code": "02.0833",
+   "standard": "物理学名词",
+   "subject": "物理学_力学"
+  },
+  {
+   "cn": "阿基米德原理",
+   "en": "Archimedes principle",
+   "code": null,
+   "standard": "力学名词",
+   "subject": "力学_力学通类"
+  },
+  {
+   "cn": "阿基米德螺旋面",
+   "en": "Archimedes helicoid,screw helicoid",
+   "code": "08.0120",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_传动_齿轮传动_一般名词"
+  },
+  {
+   "cn": "阿基米德多面体",
+   "en": "Archimedean polyhedra",
+   "code": "04.1919",
+   "standard": "化学名词",
+   "subject": "化学_物理化学_晶体化学"
+  },
+  {
+   "cn": "龙尾车",
+   "en": "Archimedean screw",
+   "code": "11.129",
+   "standard": "水利科学技术名词",
+   "subject": "水利科学技术_灌溉与排水_井灌（水利）"
+  },
+  {
+   "cn": "阿基米德公理",
+   "en": "Archimedean axiom",
+   "code": "08.0011",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_欧几里得几何学"
+  },
+  {
+   "cn": "阿基米德序域",
+   "en": "Archimedean ordered field",
+   "code": "04.0454",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_域·多项式"
+  },
+  {
+   "cn": "阿基米德绝对值",
+   "en": "Archimedean absolute value",
+   "code": "04.0482",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_域·多项式"
+  },
+  {
+   "cn": "非阿基米德几何[学]",
+   "en": "non-Archimedean geometry",
+   "code": "08.0332",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_解析几何学"
+  },
+  {
+   "cn": "非阿基米德序域",
+   "en": "non-Archimedean ordered field",
+   "code": "04.0463",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_域·多项式"
+  },
+  {
+   "cn": "阿基米德螺线[形]天线",
+   "en": "Archimedean spiral antenna\",\"Archimedean  spiral antenna",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
