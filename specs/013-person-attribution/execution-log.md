@@ -179,3 +179,13 @@
 **跳过**：Cohen 类无地域码者（Cowie、Cullen），以及 17 位同姓多值者（含 Donald Davidson、Stephen Davies、Richard Dawkins、Daniel Bell、Robert Dahl）。
 
 **验收**：硬错误 0；人名缺项 3095 → 3048；数据与凭证同批提交（a04185529）。
+
+## 2026-11-14 GND G 段（56 行）
+
+**范围**：续取 120 行（Dekker 至 Eliot），命中 67（exact 57／variant 10）、歧义 10、查无 42，采信 56（跳过无地域码者 11）。凭证 `results/verify-2026-11-14-gnd-g.tsv`。
+
+**拒采 1 条**：`Edward Stillingfleet`（GND 命中 1802–1862 的同名者，键所指神学家为 1635–1699）。
+**口径校正**：Descartes 取“法国／哲学”（GND 双值为游历著录）；Duns Scotus 取“英国／法国／神学”。
+**留队歧义 10 人**：Dennett、Dewey、Dworkin、Edith Stein、Pierre Duhem、Dickie、Dietrich、Dodwell、Dorothea Veit、Edgar Bauer。
+
+**验收**：硬错误 0；人名缺项 3048 → 2992，首次降到 3000 以下。凭证表头首次生成时有误，已重建并复核后再写回（e3907d0f2）。

@@ -53,6 +53,15 @@
 
 其后各条不再逐行列表，**以 `verdicts.jsonl` 中 `kind=repair` 记录为准**（只追加，一条一词条；`fixed` 为改动、`verified` 为经核判不改）。截至 2026-11-14T05:10Z 已偿还 40 条、改动 66 处、经核不改 9 处；经核不改的典型：doxography-ancient（长句属文风）、aesthetics-critical-theory／aesthetics-of-everyday（同上）、identity-personal（通俗义与哲学术语有意分译）、independence-large-cardinals（译者译注）、integrity（五分法漏项系 SEP 源文疏漏）、aesthetic-concept（两名并存系原文并列）、incompatibilism-theories（YEAR 占位系 SEP 缺陷，已按正文补 2003）。
 
+## 2026-11-14 源头修正：en 勘误＋转换器缺陷＋全量重转（ADR-0038）
+
+* 偿还途中回 `en/` 核对，查实「正文零键标」这一大类主要不在译者：`tools/yuanwen.py` 的 `build_cite_keys` 匹配式「姓氏＋非逗号非括号 60 字内＋年份」卡死在逗号上，SEP 通行的「姓, 年份」式一格不命中。全库 1872 条中 124 条 `cite_markers=0` 而其 `cite_defs` 最高 262（african-ethics 34／analogy-medieval 75／althusser 126／arabic-islamic-metaphysics 262）。
+* 已修：匹配式容许逗号（分号仍作边界），三条回归测试锁死（`tools/tests/test_yuanwen.py`）。
+* 依 ADR-0038（用户裁定「en 就地改正＋重算哈希」）：`en/` 十六文件二十二处源头勘误（`YEAR`、`3s`、`Limmbo`、`511229`、`Einstein1949b`、`Shelby-Bigge`、`Birkaüser`、`Sijthooff`、`Pyschology`、`Complexiy`、`Cambridh=ge`、`die Alcmeone`、`Nazionnale`、`tradtion`、`Selgson`、`O'Neil`、`Lakatos1978a`、`Axelrod 198,`、Axelrod 两条并录等），逐条凭证见 `specs/001-sep-sync-pipeline/results/en-errata.md`；可争议年份（Mansfeld 2013、Scanlon/Nagel 1981、Alesina 1999、Hutcheson 1744）与 langer 键名前缀体系列为「待考不改」。
+* 全量重转 `--all-baselined --summary`：1872 条零失败，`cite_markers` 145,251 → 161,312（+16,061），`cite_defs` 231,060 → 231,061（Axelrod 拆条＋1）；零挂键条目 124 → 98，其余 98 条多为「年份＋页码」无作者式的引称组或缺作者-年份括注（如 albert-saxony 按题名引称），属设计边界，需更强启发式，暂不强挂。
+* 重转后自检：34 个补充材料文件的 `note-*` 悬空引用为**重转前既有**（binarium 26、burke 1 等），非本次回归。
+* 影响：已译成品的「正文未挂键」不再是「原文没键」——偿还时以新版 `yuanwen` 为基准补挂；同一引证组挂多键时按文献表顺序追加，中文侧补挂须按句内顺序人工确认。
+
 ## 注意
 
 * 置空会改变 `PROGRESS.md` 的 done 计数与批次统计（生成物实时推导），不要手工回填。
