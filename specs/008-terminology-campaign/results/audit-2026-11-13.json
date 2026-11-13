@@ -6,8 +6,8 @@
   "youdao-aux"
  ],
  "counts": {
-  "查无": 4537,
-  "不一致": 795,
+  "查无": 4536,
+  "不一致": 796,
   "一致": 1179,
   "未查证": 4406
  },
@@ -1914,8 +1914,57 @@
    "term": "action theory",
    "trans": "行动理论",
    "basis": "学界惯例（行动哲学核心分支）；凭证 2026-11-12",
-   "status": "查无",
-   "hits": [],
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "集体行动理论",
+     "en": "collective action theory",
+     "source": "管理科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "交往行动理论",
+     "en": "theory of communicative action",
+     "source": "自然辩证法名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "理性行为理论",
+     "en": "theory of reasoned action",
+     "source": "行为医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "归因-情绪-行动理论",
+     "en": "attribution affect action theory",
+     "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "理性行为理论",
+     "en": "theory of reasoned action\",\"TRA",
+     "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "交往行为理论",
+     "en": "theory of communicative action",
+     "source": "马克思主义"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "交往行为理论",
+     "en": "theory of communicative action",
+     "source": "医学伦理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "理性行为理论",
+     "en": "theory of reasoned action, TRA",
+     "source": "儿少与学校卫生学名词"
+    }
+   ],
    "providers": [
     "termonline-all"
    ]

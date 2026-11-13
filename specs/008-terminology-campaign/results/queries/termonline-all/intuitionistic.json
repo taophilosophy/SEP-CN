@@ -2,10 +2,32 @@
  "key": "intuitionistic",
  "term": "Intuitionistic",
  "provider": "termonline-all",
- "queried_at": "2026-11-13T05:05:12+00:00",
- "status": "error",
- "note": "variant=Intuitionistic; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [],
- "error": "Intuitionistic: degraded shape (3 db, all-zero)",
+ "queried_at": "2026-11-13T05:09:35+00:00",
+ "status": "ok",
+ "note": "variant=Intuitionistic; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "直觉主义数学",
+   "en": "intuitionistic mathematics",
+   "code": "02.0126",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_证明论"
+  },
+  {
+   "cn": "直觉主义逻辑",
+   "en": "intuitionist logic",
+   "code": "02.0123",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_证明论"
+  },
+  {
+   "cn": "直觉主义逻辑",
+   "en": "intuitionistic logic",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  }
+ ],
+ "error": null,
  "raw": null
 }
