@@ -23,13 +23,13 @@ Both (1) and (2) presuppose that Meryl fed the animals. But (1) and (2) still di
 
 **(3)**
 
-Beryl saw Meryl sprinkle the white powder on Cheryl’s dinner. The white powder was the most deadly poison. Beryl saw Meryl sprinkle the most deadly poison on Cheryl’s dinner.
+
 
 In contrast to (3), the first sentence in (4) has an interpretation that renders the inference in (4) invalid.
 
 **(4)**
 
-Beryl saw that Meryl sprinkled the white powder on Cheryl’s dinner. The white powder was the most deadly poison. Beryl saw that Meryl sprinkled the most deadly poison on Cheryl’s dinner.
+
 
 A semantic analysis of direct perception reports has to explain what it is that forces their complements to be transparent. Barwise 1981 proposes to analyze direct perception reports like (1) along the lines of (5):
 
@@ -157,7 +157,7 @@ The above conclusion might look inevitable, but it is not. It is true that on th
 
 **(18)**
 
-a. [[*might*]]^{*c*} λ*p*λ*s* ∃*s*′[Acc_{*c*}(*s*)(*s*′) & *p*(*s*′)] b. [[(17)]]^{*c*} λ*s* ∃*s*′ [Acc_{*c*}(*s*)(*s*′) & grizzly(ι*x* bear(*x*)(*s*′))(*s*′)]
+
 
 (18) assumes an intensional semantics that is based on possible situations. In possible situation semantics, propositions are sets of possible situations, or characteristic functions of such sets, and all predicates are evaluated with respect to a possible situation. 18(b) is the proposition expressed by (17) in context *c*. That proposition is a property that is true of a situation *s* iff there is a situation *s*′ that is accessible from *s* and the unique bear in *s*′ is a grizzly in *s*′. The modal *might* introduces existential quantification over possible situations that are accessible from the evaluation situation *s* (see the entry modal logic). The kind of accessibility relation is determined by the lexical meaning of the modal in interaction with properties of the utterance context *c* (see the entry indexicals). In our example, the modality is a particular kind of epistemic modality that relates two situations *s* and *s*′ in a context *c* just in case *s* and *s*′ are equivalent with respect to the information available in *c*, that is, whatever evidence about *s* is available in *c* isn’t specific enough to distinguish between *s* and *s*′ (*epistemic contextualism*). Evidence that counts as available for epistemic modals might include the distributed knowledge of the discourse participants (see von Fintel & Gillies 2011)[^fintel-2011], other available sources of information like ship’s logs or computer printouts (Hacking 1967, von Fintel & Gillies 2011)[^fintel-2011][^hacking-1967], but, interestingly, not necessarily information that happens to be hidden from sight like test results in sealed envelopes (de Rose 1991)[^rose-1991], babies in wombs (Teller 1972)[^teller-1972], weather conditions behind drawn curtains (Gillies 2001)[^gillies-2001], or details of animals obscured by darkness. Suppose the actual bear in Bear Sighting is in fact a black bear, and not a grizzly. Since it is night and we can’t see the bear very well, the evidence we have about Bear Sighting when I utter (17) cannot distinguish the real situation from many merely possible ones, including some where the bear is a grizzly and not a black bear. This is what makes my utterance of (17) true.
 
@@ -531,13 +531,13 @@ Minimal interpretations of sentences are a common phenomenon and are not only fo
 
 **(53)**
 
-Josephine: Who caught anything? Beatrice: Jason and Willie did.
+
 
 We tend to understand Beatrice’s answer as suggesting that Jason and Willie were the only ones who caught something. This is the exhaustive interpretation of Beatrice’s answer. Non-exhaustive or “mention some” answers are often marked with special intonation or particles, as in (54), for example:
 
 **(54)**
 
-Josephine: Who caught anything? Beatrice: Jason and Willie did for sure.
+
 
 In this case, Beatrice indicates that she does not mean her answer to be understood exhaustively. In combination with Groenendijk and Stokhof’s 1984 analysis of questions, the exemplification relation allows a strikingly simple characterization of exhaustive and non-exhaustive answers. If we import Groenendijk and Stokhof’s analysis into a situation semantics, the extension of Josephine’s question in (54) is the proposition in (55):
 
@@ -549,7 +549,7 @@ In this case, Beatrice indicates that she does not mean her answer to be underst
 
 **(56)**
 
-**Question extension** A proposition. The set of situations that answer the question in the same way as the actual world does. **Austinian topic situations** All actual situations that exemplify the question extension. **Exhaustive answers** Propositional answers that are understood as exemplified by the topic situations. **Non-exhaustive answers** Propositional answers that are understood as true in the topic situations.
+
 
 The proposition expressed by Beatrice’s exhaustive answer in (53) is understood as exemplified by the topic situations determined by Josephine’s question, and that implies that Jason and Willie were the only ones who caught anything. In contrast, Beatrice’s non-exhaustive answer in (54) is understood as being true in the topic situations, and that allows for the possibility that there were others who caught something.
 

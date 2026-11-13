@@ -466,24 +466,39 @@ In each case and figure, Avicenna distinguishes the moods also according to the 
 
 **First figure:** predicate of the consequent of the conditional = subject of the categorical major
 
-1. universal affirmative conditional premise Hyp. Barbara $\textrm{Cat-}(\textrm{a-}\mathbb{C})\textrm{-}(\textrm{a-}\mathbb{C})$ BaC; $(\textrm{a-}\mathbb{C})p\textrm{-AaB} ⊢ (\textrm{a-}\mathbb{C})p\textrm{-AaC}$ Every B is C; Always, if H is Z, then every A is B ⊢ Always, if H is Z, then every A is C (where *p* stands for “H is Z”) Hyp. Celarent $\textrm{Cat-}(\textrm{a-}\mathbb{C})\textrm{-}(\textrm{a-}\mathbb{C})$ BeC; $(\textrm{a-}\mathbb{C})p\textrm{-AaB} ⊢ (\textrm{a-}\mathbb{C})p\textrm{-AeC}$ Hyp. Darii $\textrm{Cat-}(\textrm{a-}\mathbb{C})\textrm{-}(\textrm{a-}\mathbb{C})$ BaC; $(\textrm{a-}\mathbb{C})p\textrm{-AiB} ⊢ (\textrm{a-}\mathbb{C})p\textrm{-AiC}$ Hyp. Ferio $\textrm{Cat-}(\textrm{a-}\mathbb{C})\textrm{-}(\textrm{a-}\mathbb{C})$ BeC; $(\textrm{a-}\mathbb{C})p\textrm{-AiB} ⊢ (\textrm{a-}\mathbb{C})p\textrm{-AoC}$
+1. universal affirmative conditional premise
+
+   
 2. particular affirmative conditional premise: Avicenna simply states that there are four productive moods, presumably the analogues of the above where the minor premise and the conclusion are i-conditionals.
-3. universal negative conditional premise: in this case, the fact that the conditional premise is negative affects the categorical consequent, which is denied at all times and under all circumstances. Avicenna presents three moods that are in fact equivalent, in virtue of the relations of mutual implication discussed in *Qiyās* VII.1, to three moods of case (a) (he does not explicitly discuss the hypothetical equivalent of Celarent, which is also productive via the corresponding Ferio): Hyp. Barbara* $\textrm{Cat-}(\textrm{e-}\mathbb{C})\textrm{-}(\textrm{e-}\mathbb{C})$ BaC; $(\textrm{e-}\mathbb{C})p\textrm{-AoB} ⊢ (\textrm{e-}\mathbb{C})p\textrm{-AoC}$[^note-21] [Hyp. Celarent* $\textrm{Cat-}(\textrm{e-}\mathbb{C})\textrm{-}(\textrm{e-}\mathbb{C})$ BeC; $(\textrm{e-}\mathbb{C})p\textrm{-AoB} ⊢ (\textrm{e-}\mathbb{C})p\textrm{-AiC}$] Hyp. Darii* $\textrm{Cat-}(\textrm{e-}\mathbb{C})\textrm{-}(\textrm{e-}\mathbb{C})$ BaC; $(\textrm{e-}\mathbb{C})p\textrm{-AeB} ⊢ (\textrm{e-}\mathbb{C})p\textrm{-AeC}$ Hyp. Ferio* $\textrm{Cat-}(\textrm{e-}\mathbb{C})\textrm{-}(\textrm{e-}\mathbb{C})$ BeC; $(\textrm{e-}\mathbb{C})p\textrm{-AeB} ⊢ (\textrm{e-}\mathbb{C})p\textrm{-AaC}$
+3. universal negative conditional premise: in this case, the fact that the conditional premise is negative affects the categorical consequent, which is denied at all times and under all circumstances. Avicenna presents three moods that are in fact equivalent, in virtue of the relations of mutual implication discussed in *Qiyās* VII.1, to three moods of case (a) (he does not explicitly discuss the hypothetical equivalent of Celarent, which is also productive via the corresponding Ferio):
+
+   
 4. particular negative conditional premise: Avicenna states that there are four productive moods, which must presumably be particular versions of the previous case, if we supplement the latter with a counterpart of BeC; $(\textrm{e-}\mathbb{C})p\textrm{-AoB} ⊢ (\textrm{e-}\mathbb{C})p\textrm{-AiC}$ (Avicenna does not discuss this mood explicitly, but it is compatible with the general criteria of productivity he adopts, namely that the categorical major should be universal and the consequent of the conditional negative).
 
 **Second figure:** predicate of the consequent of the conditional = predicate of the categorical major
 
-1. universal affirmative conditional premise Hyp. Cesare $\textrm{Cat-}(\textrm{a-}\mathbb{C})\textrm{-}(\textrm{a-}\mathbb{C})$ CeB; $(\textrm{a-}\mathbb{C})p\textrm{-AaB} ⊢ (\textrm{a-}\mathbb{C})p\textrm{-AeC}$ Hyp. Camestres $\textrm{Cat-}(\textrm{a-}\mathbb{C})\textrm{-}(\textrm{a-}\mathbb{C})$ CaB; $(\textrm{a-}\mathbb{C})p\textrm{-AeB} ⊢ (\textrm{a-}\mathbb{C})p\textrm{-AeC}$ Hyp. Festino $\textrm{Cat-}(\textrm{a-}\mathbb{C})\textrm{-}(\textrm{a-}\mathbb{C})$ CeB; $(\textrm{a-}\mathbb{C})p\textrm{-AiB} ⊢ (\textrm{a-}\mathbb{C})p\textrm{-AoC}$ Hyp. Baroco $\textrm{Cat-}(\textrm{a-}\mathbb{C})\textrm{-}(\textrm{a-}\mathbb{C})$ CaB; $(\textrm{a-}\mathbb{C})p\textrm{-AoB} ⊢ (\textrm{a-}\mathbb{C})p\textrm{-AoC}$ When the conditional is particular, Avicenna contends that there are four additional moods. Negative (universals) are treated in general terms: their criteria of productivity require the categorical major and the consequent of the conditional minor to be both affirmative or both negative, and the categorical to be universal. For example, Hyp. Cesare* $\textrm{Cat-}(\textrm{e-}\mathbb{C})\textrm{-}(\textrm{a-}\mathbb{C})$ CeB; $(\textrm{e-}\mathbb{C})p\textrm{-AoB} ⊢ (\textrm{e-}\mathbb{C})p\textrm{-AiC}$ is valid in virtue of the familiar rules of transformation.[^note-22]
+1. universal affirmative conditional premise
+
+   
+   When the conditional is particular, Avicenna contends that there are four additional moods. Negative (universals) are treated in general terms: their criteria of productivity require the categorical major and the consequent of the conditional minor to be both affirmative or both negative, and the categorical to be universal. For example,
+
+   
+   is valid in virtue of the familiar rules of transformation.[^note-22]
 
 **Third figure:** subject of the consequent of the conditional = subject of the categorical major
 
-1. universal affirmative conditional premise Hyp. Darapti $\textrm{Cat-}(\textrm{a-}\mathbb{C})\textrm{-}(\textrm{a-}\mathbb{C})$ BaC; $(\textrm{a-}\mathbb{C})p\textrm{-BaA} ⊢ (\textrm{a-}\mathbb{C})p\textrm{-AiC}$ Hyp. Felapton $\textrm{Cat-}(\textrm{a-}\mathbb{C})\textrm{-}(\textrm{a-}\mathbb{C})$ BeC; $(\textrm{a-}\mathbb{C})p\textrm{-BaA} ⊢ (\textrm{a-}\mathbb{C})p\textrm{-AoC}$ Hyp. Datisi $\textrm{Cat-}(\textrm{a-}\mathbb{C})\textrm{-}(\textrm{a-}\mathbb{C})$ BaC; $(\textrm{a-}\mathbb{C})p\textrm{-BiA} ⊢ (\textrm{a-}\mathbb{C})p\textrm{-AiC}$ Hyp. Disamis $\textrm{Cat-}(\textrm{a-}\mathbb{C})\textrm{-}(\textrm{a-}\mathbb{C})$ BiC; $(\textrm{a-}\mathbb{C})p\textrm{-BaA} ⊢ (\textrm{a-}\mathbb{C})p\textrm{-AiC}$ Hyp. Bocardo $\textrm{Cat-}(\textrm{a-}\mathbb{C})\textrm{-}(\textrm{a-}\mathbb{C})$ BoC; $(\textrm{a-}\mathbb{C})p\textrm{-BaA} ⊢ (\textrm{a-}\mathbb{C})p\textrm{-AoC}$ Hyp. Ferison $\textrm{Cat-}(\textrm{a-}\mathbb{C})\textrm{-}(\textrm{a-}\mathbb{C})$ BeC; $(\textrm{a-}\mathbb{C})p\textrm{-BiA} ⊢ (\textrm{a-}\mathbb{C})p\textrm{-AoC}$ When the conditional premises is quantified differently, the moods will be revised forms of the above, just as in the case of the first and second figure.
+1. universal affirmative conditional premise
+
+   
+   When the conditional premises is quantified differently, the moods will be revised forms of the above, just as in the case of the first and second figure.
 
 **Case 2:** conditional major, categorical minor, sharing in the consequent of the conditional; in three figures (*Qiyās* VI.4, 331.10–336.8).
 
 **First figure:** subject of the consequent of the conditional = predicate of the categorical minor
 
-1. universal affirmative conditional premise Hyp. Barbara $(\textrm{a-}\mathbb{C})\textrm{-Cat-}(\textrm{a-}\mathbb{C})$ $(\textrm{a-}\mathbb{C})p\textrm{-BaC; AaB} ⊢ (\textrm{a-}\mathbb{C})p\textrm{-AaC}$[^note-23] Always, if H is Z, then every B is C; Every A is B ⊢ Always, if H is Z, then every A is C Hyp. Celarent $(\textrm{a-}\mathbb{C})\textrm{-Cat-}(\textrm{a-}\mathbb{C})$ $(\textrm{a-}\mathbb{C})p\textrm{-BeC; AaB} ⊢ (\textrm{a-}\mathbb{C})p\textrm{-AeC}$ Hyp. Darii $(\textrm{a-}\mathbb{C})\textrm{-Cat-}(\textrm{a-}\mathbb{C})$ $(\textrm{a-}\mathbb{C})p\textrm{-BaC; AiB} ⊢ (\textrm{a-}\mathbb{C})p\textrm{-AiC}$ Hyp. Ferio $(\textrm{a-}\mathbb{C})\textrm{-Cat-}(\textrm{a-}\mathbb{C})$ $(\textrm{a-}\mathbb{C})p\textrm{-BeC; AiB} ⊢ (\textrm{a-}\mathbb{C})p\textrm{-AoC}$
+1. universal affirmative conditional premise
+
+   
 
 When the conditional premise is (e-$\mathbb{C}$), (i-$\mathbb{C}$) or (o-$\mathbb{C}$), the moods are four in each case, in virtue of the canonical equivalences.
 

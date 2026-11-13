@@ -149,23 +149,187 @@ If $\Gamma$ or $\Delta$ are empty then they are respectively valid or unsatisfia
 
 | Axioms | Cut Rule |   |   |
 | --- | --- | --- | --- |
-| （嵌套表：\| \| \| --- \| \| $\Gamma , \alpha \rightarrow \Delta , \alpha$ \|） | （嵌套表：\| $\Gamma \rightarrow \Delta , \alpha$ \| $\alpha , \lambda \rightarrow \Sigma$ \| \| --- \| --- \| \| $\Gamma , \lambda \rightarrow \Delta , \Sigma$ \| \|） |   |   |
+| <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="border-bottom:1px solid black;"> &nbsp;&nbsp; </td> </tr>
+<tr>
+  <td style="padding:0px;"> $\Gamma , \alpha \rightarrow \Delta ,
+\alpha$ </td> </tr>
+</table> | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="border-bottom:1px solid black;"> $\Gamma \rightarrow
+\Delta , \alpha$ </td>
+  <td style="border-bottom:1px solid black;"> $\alpha , \lambda
+\rightarrow \Sigma$ </td> </tr>
+<tr>
+  <td colspan="2" style="padding:0px;"> $\Gamma , \lambda \rightarrow
+\Delta , \Sigma$ </td> </tr>
+</table> |   |   |
 | Antecedent Rules $(\Theta \rightarrow)$ | Succedent Rules $(\rightarrow \Theta)$ |   |   |
-| $\amp\rightarrow$ | （嵌套表：\| $\Gamma , \alpha , \beta \rightarrow \Delta$ \| \| --- \| \| $\Gamma , \alpha \amp \beta \rightarrow \Delta$ \|） | $\rightarrow\amp$ | （嵌套表：\| $\Gamma \rightarrow \Delta , \alpha$ \| $\Gamma \rightarrow \Delta , \beta$ \| \| --- \| --- \| \| $\Gamma \rightarrow \Delta , \alpha \amp \beta$ \| \|） |
-| $\vee \rightarrow$ | （嵌套表：\| $\Gamma , \alpha \rightarrow \Delta$ \| $\Gamma , \beta \rightarrow \Delta$ \| \| --- \| --- \| \| $\Gamma , \alpha \vee \beta \rightarrow \Delta$ \| \|） | $\rightarrow \vee$ | （嵌套表：\| $\Gamma \rightarrow \Delta , \alpha , \beta$ \| \| --- \| \| $\Gamma \rightarrow \Delta , \alpha \vee \beta$ \|） |
-| $\supset \rightarrow$ | （嵌套表：\| $\Gamma \rightarrow \Delta , \alpha$ \| $\Gamma , \beta \rightarrow \Delta$ \| \| --- \| --- \| \| $\Gamma , \alpha \supset \beta \rightarrow \Delta$ \| \|） | $\rightarrow \supset$ | （嵌套表：\| $\Gamma , \alpha \rightarrow \Delta , \beta$ \| \| --- \| \| $\Gamma \rightarrow \Delta , \alpha \supset \beta$ \|） |
-| $\supset \equiv$ | （嵌套表：\| $\Gamma , \alpha , \beta \rightarrow \Delta$ \| $\Gamma \rightarrow \Delta , \alpha , \beta$ \| \| --- \| --- \| \| $\Gamma , \alpha \equiv \beta \rightarrow \Delta$ \| \|） | $\equiv \supset$ | （嵌套表：\| $\Gamma , \alpha \rightarrow \Delta , \beta$ \| $\Gamma , \beta , \rightarrow \Delta , \alpha$ \| \| --- \| --- \| \| $\Gamma \rightarrow \Delta , \alpha \equiv \beta$ \| \|） |
-| ${\sim}\rightarrow$ | （嵌套表：\| $\Gamma \rightarrow \Delta , \alpha$ \| \| --- \| \| $\Gamma , {\sim}\alpha \rightarrow \Delta$ \|） | $\rightarrow{\sim}$ | （嵌套表：\| $\Gamma , \alpha \rightarrow \Delta$ \| \| --- \| \| $\Gamma \rightarrow \Delta , {\sim}\alpha$ \|） |
-| $\exists \rightarrow$ | （嵌套表：\| $\Gamma , \alpha(a/x) \rightarrow \Delta$ \| \| --- \| \| $\Gamma , \exists x\alpha(x) \rightarrow \Delta$ \|） | $\rightarrow \exists$ | （嵌套表：\| $\Gamma \rightarrow \Delta , \alpha(t/x), \exists x\alpha(x)$ \| \| --- \| \| $\Gamma \rightarrow \Delta , \exists x\alpha(x)$ \|） |
-| $\forall \rightarrow$ | （嵌套表：\| $\Gamma , \alpha(t/x), \forall x\alpha(x) \rightarrow \Delta$ \| \| --- \| \| $\Gamma , \forall x\alpha(x) \rightarrow \Delta$ \|） | $\rightarrow \forall$ | （嵌套表：\| $\Gamma \rightarrow \Delta , \alpha(a/x)$ \| \| --- \| \| $\Gamma \rightarrow \Delta , \forall x\alpha(x)$ \|） |
+| $\amp\rightarrow$ | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="border-bottom:1px solid black;"> $\Gamma , \alpha ,
+\beta \rightarrow \Delta$ </td> </tr>
+<tr>
+  <td style="padding:0px;"> $\Gamma , \alpha \amp \beta \rightarrow
+\Delta$ </td> </tr>
+</table> | $\rightarrow\amp$ | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="border-bottom:1px solid black;"> $\Gamma \rightarrow
+\Delta , \alpha$ </td>
+  <td style="border-bottom:1px solid black;"> $\Gamma \rightarrow
+\Delta , \beta$ </td> </tr>
+<tr>
+  <td colspan="2" style="padding:0px;"> $\Gamma \rightarrow \Delta ,
+\alpha \amp \beta$ </td> </tr>
+</table> |
+| $\vee \rightarrow$ | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="border-bottom:1px solid black;"> $\Gamma , \alpha
+\rightarrow \Delta$ </td>
+  <td style="border-bottom:1px solid black;"> $\Gamma , \beta
+\rightarrow \Delta$ </td> </tr>
+<tr>
+  <td colspan="2" style="padding:0px;"> $\Gamma , \alpha \vee \beta
+\rightarrow \Delta$ </td> </tr>
+</table> | $\rightarrow \vee$ | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="border-bottom:1px solid black;"> $\Gamma \rightarrow
+\Delta , \alpha , \beta$ </td> </tr>
+<tr>
+  <td style="padding:0px;"> $\Gamma \rightarrow \Delta , \alpha \vee
+\beta$ </td> </tr>
+</table> |
+| $\supset \rightarrow$ | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="border-bottom:1px solid black;"> $\Gamma \rightarrow
+\Delta , \alpha$ </td>
+  <td style="border-bottom:1px solid black;"> $\Gamma , \beta
+\rightarrow \Delta$ </td> </tr>
+<tr>
+  <td colspan="2" style="padding:0px;"> $\Gamma , \alpha \supset
+\beta \rightarrow \Delta$ </td> </tr>
+</table> | $\rightarrow \supset$ | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="border-bottom:1px solid black;"> $\Gamma , \alpha
+\rightarrow \Delta , \beta$ </td> </tr>
+<tr>
+  <td style="padding:0px;"> $\Gamma \rightarrow \Delta , \alpha
+\supset \beta$ </td> </tr>
+</table> |
+| $\supset \equiv$ | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="border-bottom:1px solid black;"> $\Gamma , \alpha ,
+\beta \rightarrow \Delta$ </td>
+  <td style="border-bottom:1px solid black;"> $\Gamma \rightarrow
+\Delta , \alpha , \beta$ </td> </tr>
+<tr>
+  <td colspan="2" style="padding:0px;"> $\Gamma , \alpha \equiv \beta
+\rightarrow \Delta$ </td> </tr>
+</table> | $\equiv \supset$ | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="border-bottom:1px solid black;"> $\Gamma , \alpha
+\rightarrow \Delta , \beta$ </td>
+  <td style="border-bottom:1px solid black;"> $\Gamma , \beta ,
+\rightarrow \Delta , \alpha$ </td> </tr>
+<tr>
+  <td colspan="2" style="padding:0px;"> $\Gamma \rightarrow \Delta ,
+\alpha \equiv \beta$ </td> </tr>
+</table> |
+| ${\sim}\rightarrow$ | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="border-bottom:1px solid black;"> $\Gamma \rightarrow
+\Delta , \alpha$ </td> </tr>
+<tr>
+  <td style="padding:0px;"> $\Gamma , {\sim}\alpha \rightarrow
+\Delta$ </td> </tr>
+</table> | $\rightarrow{\sim}$ | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="border-bottom:1px solid black;"> $\Gamma , \alpha
+\rightarrow \Delta$ </td> </tr>
+<tr>
+  <td style="padding:0px;"> $\Gamma \rightarrow \Delta ,
+{\sim}\alpha$ </td> </tr>
+</table> |
+| $\exists \rightarrow$ | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="border-bottom:1px solid black;"> $\Gamma , \alpha(a/x)
+\rightarrow \Delta$ </td> </tr>
+<tr>
+  <td style="padding:0px;"> $\Gamma , \exists x\alpha(x) \rightarrow
+\Delta$ </td> </tr>
+</table> | $\rightarrow \exists$ | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="border-bottom:1px solid black;"> $\Gamma \rightarrow
+\Delta , \alpha(t/x), \exists x\alpha(x)$ </td> </tr>
+<tr>
+  <td style="padding:0px;"> $\Gamma \rightarrow \Delta , \exists
+x\alpha(x)$ </td> </tr>
+</table> |
+| $\forall \rightarrow$ | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="border-bottom:1px solid black;"> $\Gamma , \alpha(t/x),
+\forall x\alpha(x) \rightarrow \Delta$ </td> </tr>
+<tr>
+  <td style="padding:0px;"> $\Gamma , \forall x\alpha(x) \rightarrow
+\Delta$ </td> </tr>
+</table> | $\rightarrow \forall$ | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="border-bottom:1px solid black;"> $\Gamma \rightarrow
+\Delta , \alpha(a/x)$ </td> </tr>
+<tr>
+  <td style="padding:0px;"> $\Gamma \rightarrow \Delta , \forall
+x\alpha(x)$ </td> </tr>
+</table> |
 
 The sequents above a rule’s line are called the **rule’s premises** and the sequent below the line is the **rule’s conclusion**. The quantification rules $\exists \rightarrow$ and $\rightarrow \forall$ have an eigenvariable condition that restricts their applicability, namely that $a$ must not occur in $\Gamma , \Delta$ or in the quantified sentence. The purpose of this restriction is to ensure that the choice of parameter, $a$, used in the substitution process is completely “arbitrary”.
 
 Proofs in LK are represented as trees where each node in the tree is labeled with a sequent, and where the original sequent sits at the root of the tree. The children of a node are the premises of the rule being applied at that node. The leaves of the tree are labeled with axioms. Here is the LK-proof of $\exists xR(x)$ from the set $\{\forall x(P(x) \vee Q(x)), \forall x(P(x) \supset R(x)),\forall x(Q(x) \supset R(x))\}$. In the tree below, $\Gamma$ stands for this set:
 
-| （嵌套表：\| $\Gamma ,P(a) \rightarrow$ $P(a),R(a),\exists xR(x)$ \| $\Gamma ,P(a),R(a) \rightarrow$ $R(a),\exists xR(x)$ \| \| --- \| --- \| \| $\Gamma ,P(a),P(a) \supset R(a) \rightarrow R(a),\exists xR(x)$ \| \| \| $\Gamma ,P(a) \rightarrow R(a),\exists xR(x)$ \| \|） | （嵌套表：\| $\Gamma ,Q(a) \rightarrow$ $Q(a),R(a),\exists xR(x)$ \| $\Gamma ,Q(a),R(a) \rightarrow$ $R(a),\exists xR(x)$ \| \| --- \| --- \| \| $\Gamma ,Q(a),Q(a) \supset R(a) \rightarrow R(a),\exists xR(x)$ \| \| \| $\Gamma ,Q(a) \rightarrow R(a),\exists xR(x)$ \| \|） |
+| <table class="cellpad-med-dense" style="margin-bottom:0px;">
+<tr>
+  <td style="border-bottom:1px solid black;"> $\Gamma ,P(a)
+\rightarrow$
+
+ $P(a),R(a),\exists xR(x)$ </td>
+  <td style="border-bottom:1px solid black;"> $\Gamma ,P(a),R(a)
+\rightarrow$
+
+ $R(a),\exists xR(x)$ </td> </tr>
+<tr>
+  <td colspan="2" style="border-bottom:1px solid black;"> $\Gamma
+,P(a),P(a) \supset R(a) \rightarrow R(a),\exists xR(x)$ </td> </tr>
+<tr>
+  <td colspan="2"> $\Gamma ,P(a) \rightarrow R(a),\exists xR(x)$
+</td> </tr>
+</table> | <table class="cellpad-med-dense" style="border-spacing:0px; margin-bottom:0px;">
+<tr>
+  <td style="border-bottom:1px solid black;"> $\Gamma ,Q(a)
+\rightarrow$
+
+ $Q(a),R(a),\exists xR(x)$ </td>
+  <td style="border-bottom:1px solid black;"> $\Gamma ,Q(a),R(a)
+\rightarrow$
+
+ $R(a),\exists xR(x)$ </td> </tr>
+<tr>
+  <td colspan="2" style="border-bottom:1px solid black;"> $\Gamma
+,Q(a),Q(a) \supset R(a) \rightarrow R(a),\exists xR(x)$ </td> </tr>
+<tr>
+  <td colspan="2"> $\Gamma ,Q(a) \rightarrow R(a),\exists xR(x)$
+</td> </tr>
+</table> |
 | --- | --- |
-| （嵌套表：\| $\Gamma ,P(a) \vee Q(a) \rightarrow R(a),\exists xR(x)$ \| \| --- \| \| $\Gamma \rightarrow R(a),\exists xR(x)$ \| \| $\Gamma \rightarrow \exists xR(x)$ \|） |   |
+| <table class="centered cellpad-med-dense centercell">
+<tr>
+  <td style="border-bottom:1px solid black;"> $\Gamma ,P(a) \vee Q(a)
+\rightarrow R(a),\exists xR(x)$ </td> </tr>
+<tr>
+  <td style="border-bottom:1px solid black;"> $\Gamma \rightarrow
+R(a),\exists xR(x)$ </td> </tr>
+<tr>
+  <td> $\Gamma \rightarrow \exists xR(x)$ </td> </tr>
+</table> |   |
 
 In our example, all the leaves in the proof tree are labeled with axioms. This establishes the validity of $\Gamma \rightarrow \exists xR(x)$ and, hence, the fact that $\Gamma \vDash \exists xR(x)$. LK takes an indirect approach at proving the conclusion and this is an important difference between LK and NK. While NK constructs an actual proof (of the conclusion from the given assumptions), LK instead constructs a proof that proves the existence of a proof (of the conclusion from the assumptions). For instance, to prove that $\alpha$ is entailed by $\Gamma$, NK constructs a step-by-step proof of $\alpha$ from $\Gamma$ (assuming that one exists); in contrast, LK first constructs the sequent $\Gamma \rightarrow \alpha$ which then attempts to prove valid by showing that it cannot be made false. This is done by searching for a counterexample that makes (all the sentences in) $\Gamma$ true and makes $\alpha$ false: If the search fails then a counterexample does not exist and the sequent is therefore valid. In this respect, proof trees in LK are actually refutation proofs. Like resolution, LK is refutation complete: If $\Gamma \vDash \alpha$ then the sequent $\Gamma \rightarrow \alpha$ has a proof tree.
 
@@ -181,26 +345,168 @@ Although LK and NK are both commonly labeled as “natural deduction” systems,
 
 | Introduction Rules $(\Theta \mathbf{I})$ | Elimination Rules $(\Theta \mathbf{E})$ |   |   |
 | --- | --- | --- | --- |
-| $\amp$I | （嵌套表：\| $\alpha$ \| $\beta$ \| \| --- \| --- \| \| $\alpha \amp \beta$ \| \|） | $\amp$E | （嵌套表：\| $\alpha_1 \amp \alpha_2$ \| \| --- \| \| $\alpha_i$ (for $i = 1,2)$ \|） |
-| $\vee$I | （嵌套表：\| $\alpha_i$ (for $i = 1,2)$ \| \| --- \| \| $\alpha_1 \vee \alpha_2$ \|） | $\vee$E | （嵌套表：\| $\alpha \vee \beta$ \| [$\alpha$ — $\gamma$] \| [$\beta$ — $\gamma$] \| \| --- \| --- \| --- \| \| $\gamma$ \| \| \|） |
-| $\supset$I | （嵌套表：\| [$\alpha$ — $\beta$] \| \| --- \| \| $\alpha \supset \beta$ \|） | $\supset$E | （嵌套表：\| $\alpha$ \| $\alpha \supset \beta$ \| \| --- \| --- \| \| $\beta$ \| \|） |
-| $\equiv$I | （嵌套表：\| [$\alpha$ — $\beta$] \| [$\beta$ — $\alpha$] \| \| --- \| --- \| \| $\alpha \equiv \beta$ \| \|） | $\equiv$E | （嵌套表：\| $\alpha_i (i = 0,1)$ \| $\alpha_0 \equiv \alpha_1$ \| \| --- \| --- \| \| $\alpha_{1-i}$ \| \|） |
-| ${\sim}$I | （嵌套表：\| [$\alpha$ — $\bot$] \| \| --- \| \| ${\sim}\alpha$ \|） | ${\sim}$E | （嵌套表：\| [${\sim}\alpha$ — $\bot$] \| \| --- \| \| $\alpha$ \|） |
-| $\exists$I | （嵌套表：\| $\alpha(t/x)$ \| \| --- \| \| $\exists x\alpha(x)$ \|） | $\exists$E | （嵌套表：\| $\exists x\alpha(x)$ \| [$\alpha(a/x)$ — $\beta$] \| \| --- \| --- \| \| $\beta$ \| \|） |
-| $\forall$I | （嵌套表：\| $\alpha(a/x)$ \| \| --- \| \| $\forall x\alpha(x)$ \|） | $\forall$E | （嵌套表：\| $\forall x\alpha(x)$ \| \| --- \| \| $\alpha(t/x)$ \|） |
+| $\amp$I | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="padding:0px;border-bottom:1px solid black; text-align:center;">
+$\alpha$ </td>
+  <td style="padding:0px;border-bottom:1px solid black; text-align:center;">
+$\beta$ </td> </tr>
+<tr>
+  <td style="padding:0px; text-align:center;" colspan="2"> $\alpha
+\amp \beta$ </td> </tr>
+</table> | $\amp$E | <table class="no-rules centered" style="border-spacing:0px;">
+<tr>
+  <td style="padding:0px;border-bottom:1px solid black; text-align:center;">
+$\alpha_1 \amp \alpha_2$ </td> </tr>
+<tr>
+  <td style="padding:0px; text-align:center;"> $\alpha_i$ (for $i =
+1,2)$ </td> </tr>
+</table> |
+| $\vee$I | <table class="no-rules centered" style="border-spacing:0px;">
+<tr>
+  <td style="padding:0px;border-bottom:1px solid black; text-align:center;">
+$\alpha_i$ (for $i = 1,2)$ </td> </tr>
+<tr>
+  <td> $\alpha_1 \vee \alpha_2$ </td> </tr>
+</table> | $\vee$E | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="border-bottom:1px solid black; text-align:center;">
+$\alpha \vee \beta$ </td>
+  <td style="border-bottom:1px solid black; text-align:center;">
+[$\alpha$ &mdash; $\gamma$] </td>
+  <td style="border-bottom:1px solid black; text-align:center;">
+[$\beta$ &mdash; $\gamma$] </td> </tr>
+<tr>
+  <td style="padding:0px; text-align:center;" colspan="3"> $\gamma$
+</td> </tr>
+</table> |
+| $\supset$I | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="padding:0px;border-bottom:1px solid black; text-align:center;">
+[$\alpha$ &mdash; $\beta$] </td> </tr>
+<tr>
+  <td style="padding:0px; text-align:center;"> $\alpha \supset
+\beta$ </td> </tr>
+</table> | $\supset$E | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="border-bottom:1px solid black; text-align:center;">
+$\alpha$ </td>
+  <td style="border-bottom:1px solid black; text-align:center;">
+$\alpha \supset \beta$ </td> </tr>
+<tr>
+  <td colspan="2"> $\beta$ </td> </tr>
+</table> |
+| $\equiv$I | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="border-bottom:1px solid black; text-align:center;">
+[$\alpha$ &mdash; $\beta$] </td>
+  <td style="border-bottom:1px solid black; text-align:center;">
+[$\beta$ &mdash; $\alpha$] </td> </tr>
+<tr>
+  <td colspan="2"> $\alpha \equiv \beta$ </td> </tr>
+</table> | $\equiv$E | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="border-bottom:1px solid black; text-align:center;">
+$\alpha_i (i = 0,1)$ </td>
+  <td style="border-bottom:1px solid black; text-align:center;">
+$\alpha_0 \equiv \alpha_1$ </td> </tr>
+<tr>
+  <td colspan="2"> $\alpha_{1-i}$ </td> </tr>
+</table> |
+| ${\sim}$I | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="padding:0px;border-bottom:1px solid black; text-align:center;">
+[$\alpha$ &mdash; $\bot$] </td> </tr>
+<tr>
+  <td style="padding:0px; text-align:center;"> ${\sim}\alpha$ </td>
+</tr>
+</table> | ${\sim}$E | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="padding:0px;border-bottom:1px solid black; text-align:center;">
+[${\sim}\alpha$ &mdash; $\bot$] </td> </tr>
+<tr>
+  <td style="padding:0px; text-align:center;"> $\alpha$ </td> </tr>
+</table> |
+| $\exists$I | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="padding:0px;border-bottom:1px solid black; text-align:center;">
+$\alpha(t/x)$ </td> </tr>
+<tr>
+  <td style="padding:0px; text-align:center;"> $\exists x\alpha(x)$
+</td> </tr>
+</table> | $\exists$E | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="border-bottom:1px solid black; text-align:center;">
+$\exists x\alpha(x)$ </td>
+  <td style="border-bottom:1px solid black; text-align:center;">
+[$\alpha(a/x)$ &mdash; $\beta$] </td> </tr>
+<tr>
+  <td colspan="2"> $\beta$ </td> </tr>
+</table> |
+| $\forall$I | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="padding:0px;border-bottom:1px solid black; text-align:center;">
+$\alpha(a/x)$ </td> </tr>
+<tr>
+  <td style="padding:0px; text-align:center;"> $\forall x\alpha(x)$
+</td> </tr>
+</table> | $\forall$E | <table class="no-rules cellpad-med-dense centered">
+<tr>
+  <td style="padding:0px;border-bottom:1px solid black; text-align:center;">
+$\forall x\alpha(x)$ </td> </tr>
+<tr>
+  <td style="padding:0px; text-align:center;"> $\alpha(t/x)$ </td>
+</tr>
+</table> |
 
 A few remarks: First, the expression [$\alpha$—$ \gamma$] represents the fact that $\alpha$ is an auxiliary assumption in the proof of $\gamma$ that eventually gets discharged, i.e. discarded. For example, $\exists$E tells us that if in the process of constructing a proof one has already derived $\exists x\alpha(x)$ and also $\beta$ with $\alpha(a/x)$ as an auxiliary assumption then the inference to $\beta$ is allowed. Second, the eigenparameter, $a$, in $\exists$E and $\forall$I must be foreign to the premises, undischarged—“active”—assumptions, to the rule’s conclusion and, in the case of $\exists$E, to $\exists x\alpha(x)$. Third, $\bot$ is shorthand for two contradictory formulas, $\beta$ and ${\sim}\beta$. Finally, NK is complete: If $\Gamma \vDash \alpha$ then there is a proof of $\alpha$ from $\Gamma$ using the rules of NK.
 
 As in LK, proofs constructed in NK are represented as trees with the proof’s conclusion sitting at the root of the tree, and the problem’s assumptions sitting at the leaves. (Proofs are also typically given as sequences of judgements, $\Gamma \vdash \alpha$, running from the top to the bottom of the printed page.) Here is a natural deduction proof tree of $\exists xR(x)$ from $\forall x(P(x) \vee Q(x)), \forall x(P(x) \supset R(x))$ and $\forall x(Q(x) \supset R(x))$:
 
-| （嵌套表：\| $\forall x(P(x)\vee Q(x))$ \| \| --- \| \| $P(a)\vee Q(a)$ \|） | $\forall x(P(x)\supset R(x))$ |
-| --- | --- |
-| $P(a)\supset R(a)$ |   |
-| $R(a)$ |   |
-| $\forall x(Q(x)\supset R(x))$ |   |
-| $Q(a)\supset R(a)$ |   |
-| $R(a)$ |   |
-| （嵌套表：\| $R(a)$ \| \| --- \| \| $\exists xR(x)$ \|） |   |
+| <table class="cellpad-med-dense" style="margin-bottom:0px;">
+<tr>
+  <td style="border-bottom:1px solid black;"> $\forall x(P(x)\vee
+Q(x))$ </td> </tr>
+<tr>
+  <td> $P(a)\vee Q(a)$ </td> </tr>
+</table> | <table class="cellpad-med-dense" style="margin-bottom:0px;">
+<tr style="vertical-align:bottom;">
+  <td style="border-bottom:1px solid black;">
+
+<table class="cellpad-med-dense" style="margin-bottom:0px;">
+<tr>
+  <td style="border-bottom:1px solid black;"> $\forall x(P(x)\supset
+R(x))$ </td> </tr>
+<tr>
+  <td> $P(a)\supset R(a)$ </td> </tr>
+</table> </td>
+  <td style="border-bottom:1px solid black;">
+[$P(a)$&mdash;$R(a)$] </td> </tr>
+<tr>
+  <td colspan="2"> $R(a)$ </td> </tr>
+</table> | <table class="cellpad-med-dense" style="margin-bottom:0px;">
+<tr style="vertical-align:bottom;">
+  <td style="border-bottom:1px solid black;">
+
+<table class="cellpad-med-dense" style="margin-bottom:0px;">
+<tr>
+  <td style="border-bottom:1px solid black;"> $\forall x(Q(x)\supset
+R(x))$ </td> </tr>
+<tr>
+  <td> $Q(a)\supset R(a)$ </td> </tr>
+</table> </td>
+  <td style="border-bottom:1px solid black;">
+[$Q(a)$&mdash;$R(a)$]</td> </tr>
+<tr>
+  <td colspan="2"> $R(a)$ </td> </tr>
+</table> |
+| --- | --- | --- |
+| <table class="centered cell-center" style="margin-bottom:0px">
+<tr>
+  <td style="border-bottom:1px solid black;">$R(a)$</td></tr>
+<tr>
+  <td>$\exists xR(x)$ </td></tr>
+</table> |   |   |
 
 As in LK, a forward-chaining strategy for proof construction is not well focused. So, although proofs are *read* forwards, that is, from leaves to root or, logically speaking, from assumptions to conclusion, that is not the way in which they are typically *constructed*. A backward-chaining strategy implemented by applying the rules in reverse order is more effective. Many of the obstacles that were discussed above in the implementation of sequent deduction are applicable to natural deduction as well. These issues can be handled in a similar way, but natural deduction introduces some issues of its own. For example, as suggested by the $\supset$-Introduction rule, to prove a goal of the form $\alpha \supset \beta$ one could attempt to prove $\beta$ on the assumption that $\alpha$. But note that although the goal $\alpha \supset \beta$ does not match the conclusion of any other introduction rule, it matches the conclusion of all *elimination* rules and the reasoning program would need to consider those routes too. Similarly to forward-chaining, here there is the risk of setting goals that are irrelevant to the proof and that could lead the program astray. To wit: What prevents a program from entering the never-ending process of building, say, larger and larger conjunctions? Or, what is there to prevent an uncontrolled chain of backward applications of, say, $\supset$-Elimination? Fortunately, NK enjoys the **subformula property** in the sense that each formula entering into a natural deduction proof can be restricted to being a subformula of $\Gamma \cup \Delta \cup \{\alpha \}$, where $\Delta$ is the set of auxiliary assumptions made by the ${\sim}$-Elimination rule. By exploiting the subformula property a natural deduction automated theorem prover can drastically reduce its search space and bring the backward application of the elimination rules under control (Portoraro 1998, Sieg & Byrnes 1996)[^portoraro-1998][^sieg-1996]. Further gains can be realized if one is willing to restrict the scope of NK’s logic to its intuitionistic fragment where every proof has a normal form in the sense that no formula is obtained by an introduction rule and then is eliminated by an elimination rule (Prawitz 1965)[^prawitz-1965].
 

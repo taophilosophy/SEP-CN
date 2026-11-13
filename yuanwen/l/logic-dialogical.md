@@ -206,11 +206,21 @@ Example 1.
 
 Play for $(\Pa\supset(\Pa\lor\Qa))$
 
-- **Moves 0–2:** in accordance with the Starting Rule SR0, the play starts with the proponent stating the thesis at move 0. Then the opponent chooses her repetition rank (in this case she chooses $\rank{1}$ as her rank) at move 1, and the proponent chooses his at move 2. **O** **P** move statement challenge to move challenge to move statement move $\state (\Pa\supset(Pa\lor{}\Qa))$ 0 1 $\mathtt{n} :=\rank{1}$ $\mathtt{m} :=\rank{1}$ 2
-- **Move 3:** applying the particle rule for material implication, the opponent **O** challenges the thesis by stating the antecedent. Accordingly, the number of the challenged move is indicated in the inner column. **O** **P** move statement challenge to move challenge to move statement move $\state (\Pa\supset(\Pa\lor{}\Qa))$ 0 1 $\mathtt{n} :=\rank{1}$ $\mathtt{m}:=\rank{1}$ 2 3 $\state \Pa$ (0)
-- **Move 4:** also applying the particle rule for material implication, the proponent **P** states the consequent in order to answer **O**’s challenge. In this case, the consequent is a disjunction. **O** **P** move statement challenge to move challenge to move statement move $\state (\Pa\supset(\Pa\lor{}\Qa))$ 0 1 $\mathtt{n} :=\rank{1}$ $\mathtt{m}:=\rank{1}$ 2 3 $\state \Pa$ (0) $\state (\Pa\lor{}\Qa)$ 4
-- **Move 5:** the opponent **O** challenges **P**’s last statement, in accordance with the particle rule for disjunction. **O** **P** move statement challenge to move challenge to move statement move $\state (\Pa\supset(\Pa\lor{}\Qa))$ 0 1 $\mathtt{n} :=\rank{1}$ $\mathtt{m}:=\rank{1}$ 2 3 $\state \Pa$ (0) $\state (\Pa\lor{}\Qa)$ 4 5 $\rqst_{\lor}$ (4)
-- **Move 6:** in order to answer **O**’s challenge at move 5, the proponent needs to choose a disjunct and state it. Because of the Formal Rule SR2, he is not allowed to choose $\Qa$ because the opponent has not previously stated it. However, **P** is allowed to choose $\Pa$ because **O** stated it at move 3. **O** **P** move statement challenge to move challenge to move statement move $\state (\Pa\supset(\Pa\lor{}\Qa))$ 0 1 $\mathtt{n} :=\rank{1}$ $\mathtt{m}:=\rank{1}$ 2 3 $\state \Pa$ (0) $\state (\Pa\lor{}\Qa)$ 4 5 $\rqst_{\lor}$ (4) $\state \Pa$ 6 **P** wins the play.
+- **Moves 0–2:** in accordance with the Starting Rule SR0, the play starts with the proponent stating the thesis at move 0. Then the opponent chooses her repetition rank (in this case she chooses $\rank{1}$ as her rank) at move 1, and the proponent chooses his at move 2.
+
+  
+- **Move 3:** applying the particle rule for material implication, the opponent **O** challenges the thesis by stating the antecedent. Accordingly, the number of the challenged move is indicated in the inner column.
+
+  
+- **Move 4:** also applying the particle rule for material implication, the proponent **P** states the consequent in order to answer **O**’s challenge. In this case, the consequent is a disjunction.
+
+  
+- **Move 5:** the opponent **O** challenges **P**’s last statement, in accordance with the particle rule for disjunction.
+
+  
+- **Move 6:** in order to answer **O**’s challenge at move 5, the proponent needs to choose a disjunct and state it. Because of the Formal Rule SR2, he is not allowed to choose $\Qa$ because the opponent has not previously stated it. However, **P** is allowed to choose $\Pa$ because **O** stated it at move 3.
+
+  
 
 The opponent has no further possible move. Because her repetition rank is $\rank{1}$, she cannot challenge again the proponent’s move, as established in the Game-playing Rule SR1i. Notice that moves 3 to 6 follow the rule SR1i: after the repetition ranks have been chosen, each move is a challenge or a defence in reaction to a previous move. Since **O** cannot make any move after move 6, the proponent wins the play according to the Winning Rule SR3.
 
@@ -220,17 +230,30 @@ The next example involves a quantifier: $(\forall xPx\supset{}\Pa)$
 
 This example illustrates the importance of keeping track of the order of the moves (outer columns).
 
-- **Moves 0–3:** similarly to the previous example, the play starts with **P** stating the thesis and both players choosing their repetition ranks, in accordance with SR0. Then **O** challenges the thesis at move 3 by stating the antecedent while applying the particle rule for the material implication. **O** **P** move statement challenge to move challenge to move statement move $\state (\forall xPx\supset{}\Pa)$ 0 1 $\mathtt{n} :=\rank{1}$ $\mathtt{m}:=\rank{1}$ 2 3 $\state \forall xPx$ (0)
-- **Move 4:** in order to defend himself, the proponent would need to play an elementary statement which has not yet been stated by the opponent. Because of the Formal Rule, this is not allowed. But there is something else the proponent can do: he can challenge the statement **O** made at move 3. **O** **P** move statement challenge to move challenge to move statement move $\state (\forall xPx\supset{}\Pa)$ 0 1 $\mathtt{n} :=\rank{1}$ $\mathtt{m}:=\rank{1}$ 2 3 $\state \forall xPx$ (0) (3) $\rqst [x/a]$ 4 *Note that move 4 does not appear in front of move 3 since it is not a defence against that move: it is a new challenge. With his challenge, the proponent applies the particle rule for universal quantification and chooses the individual constant $a$.*
-- **Moves 5–6:** **O** defends her universal quantification by instanciating her statement with **P**’s choice of instance (see the particle rule). By doing so, she states the elementary statement that the proponent needed in order to answer to move 3: he does so with move 6, which is written in front of the corresponding challenge. With this the proponent wins the play. **O** **P** move statement challenge to move challenge to move statement move $\state (\forall xPx\supset{}\Pa)$ 0 1 $\mathtt{n} :=\rank{1}$ $\mathtt{m}:=\rank{1}$ 2 3 $\state \forall xPx$ (0) $\state \Pa$ 6 5 $\state \Pa$ (3) $\rqst [x/a]$ 4 **P** wins the play.
+- **Moves 0–3:** similarly to the previous example, the play starts with **P** stating the thesis and both players choosing their repetition ranks, in accordance with SR0. Then **O** challenges the thesis at move 3 by stating the antecedent while applying the particle rule for the material implication.
+
+  
+- **Move 4:** in order to defend himself, the proponent would need to play an elementary statement which has not yet been stated by the opponent. Because of the Formal Rule, this is not allowed. But there is something else the proponent can do: he can challenge the statement **O** made at move 3.
+
+  
+  *Note that move 4 does not appear in front of move 3 since it is not a defence against that move: it is a new challenge. With his challenge, the proponent applies the particle rule for universal quantification and chooses the individual constant $a$.*
+- **Moves 5–6:** **O** defends her universal quantification by instanciating her statement with **P**’s choice of instance (see the particle rule). By doing so, she states the elementary statement that the proponent needed in order to answer to move 3: he does so with move 6, which is written in front of the corresponding challenge. With this the proponent wins the play.
+
+  
 
 Example 3.
 
 The third example illustrates the *Last Duty First* restriction of the Intuitionistic Game-playing Rule: $(\Pa\lor\neg{}\Pa)$
 
-- **Moves 0–3:** the play starts with **P** stating the thesis and both players choosing their repetition ranks, in accordance with SR0. Then **O** challenges the thesis at move 3 by applying the particle rule for disjunction (request). **O** **P** move statement challenge to move challenge to move statement move $\state \Pa\lor\neg{}\Pa$ 0 1 $\mathtt{n} :=\rank{1}$ $\mathtt{m}:=\rank{2}$ 2 3 $\rqst_{\lor}$ (0)
-- **Move 4:** in order to defend himself, the proponent must choose one of the components of the disjunction. But one is an elementary statement which has not yet been played by the opponent. So the proponent’s only choice is to choose the other disjunct and state $\neg{}\Pa$. **O** **P** move statement challenge to move challenge to move statement move $\state \Pa\lor\neg{}\Pa$ 0 1 $\mathtt{n} :=\rank{1}$ $\mathtt{m}:=\rank{2}$ 2 3 $\rqst_{\lor}$ (0) $\state \neg{}\Pa$ 4
-- **Move 5:** the opponent challenges this statement by stating $\Pa$, in accordance with the particle rule for negation. According to the particle rule for negation, there is no move that the proponent may play to defend himself against the opponent’s last challenge. There is nothing **P** can challenge, since **O**’s only statement is elementary. He loses the play. **O** **P** move statement challenge to move challenge to move statement move $\state \Pa\lor\neg{}\Pa$ 0 1 $\mathtt{n} :=\rank{1}$ $\mathtt{m}:=\rank{2}$ 2 3 $\rqst_{\lor}$ (0) $\state \neg{}\Pa$ 4 5 $\state \Pa$ (4) **O** wins the play.
+- **Moves 0–3:** the play starts with **P** stating the thesis and both players choosing their repetition ranks, in accordance with SR0. Then **O** challenges the thesis at move 3 by applying the particle rule for disjunction (request).
+
+  
+- **Move 4:** in order to defend himself, the proponent must choose one of the components of the disjunction. But one is an elementary statement which has not yet been played by the opponent. So the proponent’s only choice is to choose the other disjunct and state $\neg{}\Pa$.
+
+  
+- **Move 5:** the opponent challenges this statement by stating $\Pa$, in accordance with the particle rule for negation. According to the particle rule for negation, there is no move that the proponent may play to defend himself against the opponent’s last challenge. There is nothing **P** can challenge, since **O**’s only statement is elementary. He loses the play.
+
+  
 
 What about answering a second time to the opponent’s move 3? Even though his repetition rank is $\rank{2}$ and the opponent stated $\Pa$ at move 5, the proponent cannot answer a second time to move 3 by choosing the first disjunct. This is because move 3 is no longer the last unanswered challenge made by the opponent: at this point, move 5 is the last one. Thus, the proponent has no further possible move and he loses the play. Notice that, unlike the proof-theoretic account of intuitionistic logic, the meaning of the Excluded Third does not amount to knowing what could count as having a proof of it but to the fact that it can constitute the thesis of a play that ends with one of the players winning or losing. The proof-theoretic account of knowing what counts as having a proof manifests itself, in a dialogical setting, in terms of having a winning *strategy*. See Section 2.2.1 for classical dialogical games which have rules that allow **P** to win.
 
@@ -571,12 +594,24 @@ The structural rules in the Immanent Reasoning framework are modified to allow f
 
 Example: play for $(\forall x:A)(B(x)\supset B(x))$, with explanations
 
-- **Moves 0–4:** the proponent states the thesis, the players choose their repetition ranks. The opponent challenges the thesis using the *synthesis rule* for universal quantification and the proponent defends by instantiating his universal claim. **O** **P** move statement challenge to move challenge to move statement move $\state (\forall x:A)(B(x)\supset B(x))$ 0 1 $\mathtt{n} :=\rank{1}$ $\mathtt{m}:=\rank{2}$ 2 3 $p_1 : A$ (0) $p_2 : B(p_1) \supset B(p_1)$ 4
-- **Move 5:** the opponent challenges the implication with local reason (analysis rule). A local reason for an implication is complex: it has a left part for the antecedent, and a right part for the consequent. She thus uses an instruction to take only the left part of $p_2$ as the reason for the antecedent. **O** **P** move statement challenge to move challenge to move statement move $\state (\forall x:A)(B(x)\supset B(x))$ 0 1 $\mathtt{n} :=\rank{1}$ $\mathtt{m}:=\rank{2}$ 2 3 $p_1 : A$ (0) $p_2 : B(p_1) \supset B(p_1)$ 4 5 $L^{\supset}(p_2) : B(p_1)$ (4)
-- **Moves 6–7:** before answering the opponent’s challenge, the proponent requests that she resolves the instruction in move 5, i.e., that she gives a proper local reason instead of an instruction (structural rule, resolution of instructions). The opponent resolves the instruction of move 5 and provides a proper local reason for her statement. Note that “$\rqst \dots/L^{\supset}(p_2)$” can be read as requesting what local reasons stand for $L^{\supset}(p_2)$, thus asking the adversary to fill in the dots. **O** **P** move statement challenge to move challenge to move statement move $\state (\forall x:A)(B(x)\supset B(x))$ 0 1 $\mathtt{n} :=\rank{1}$ $\mathtt{m}:=\rank{2}$ 2 3 $p_1 : A$ (0) $p_2 : B(p_1) \supset B(p_1)$ 4 5 $L^{\supset}(p_2) : B(p_1)$ (4) 7 $p_{2.1} : B(p_1)$ (5) $\rqst \dots /L^{\supset}(p_2)$ 6
-- **Moves 8–9:** the proponent answers the pending challenge on the implication by using an instruction that selects the right part of the local reason for the implication, thus backing the consequent. The opponent requests the resolution of that instruction. **O** **P** move statement challenge to move challenge to move statement move $\state (\forall x:A)(B(x)\supset B(x))$ 0 1 $\mathtt{n} :=\rank{1}$ $\mathtt{m}:=\rank{2}$ 2 3 $p_1 : A$ (0) $p_2 : B(p_1) \supset B(p_1)$ 4 5 $L^{\supset}(p_2) : B(p_1)$ (4) $R^{\supset}(p_2) : B(p_1)$ 8 7 $p_{2.1} : B(p_1)$ (5) $\rqst \dots /L^{\supset}(p_2)$ 6 9 $\rqst \dots / R^{\supset}(p_2)$ (8)
-- **Moves 10–11:** the proponent resolves the instruction by providing a proper local reason, $p_{2.1}$. He is entitled to this elementary statement since the opponent has already stated it (move 7). The opponent however requests that the link with her own statements be made explicit, she asks that the local reason be justified by an equality with her own local reasons (structural Socratic Rule). **O** **P** move statement challenge to move challenge to move statement move $\state (\forall x:A)(B(x)\supset B(x))$ 0 1 $\mathtt{n} :=\rank{1}$ $\mathtt{m}:=\rank{2}$ 2 3 $p_1 : A$ (0) $p_2 : B(p_1) \supset B(p_1)$ 4 5 $L^{\supset}(p_2) : B(p_1)$ (4) $R^{\supset}(p_2) : B(p_1)$ 8 7 $p_{2.1} : B(p_1)$ (5) $\rqst \dots /L^{\supset}(p_2)$ 6 9 $\rqst \dots / R^{\supset}(p_2)$ (8) $p_{2.1} : B(p_1)$ 10 11 $\rqst = p_{2.1}$ (10)
-- **Move 12:** the proponent uses the Socratic Rule in order to explicit where his local reason comes from: it is exactly the same reason that the opponent used in order to resolve the instruction $L^{\supset}(p_2)$. In other words, in this case, the reason for stating the consequent (i.e., the resolution of $R^{\supset}(p_2)$) is exactly the same as the reason for stating the antecedent of the implication. **O** **P** move statement challenge to move challenge to move statement move $\state (\forall x:A)(B(x)\supset B(x))$ 0 1 $\mathtt{n} :=\rank{1}$ $\mathtt{m}:=\rank{2}$ 2 3 $p_1 : A$ (0) $p_2 : B(p_1) \supset B(p_1)$ 4 5 $L^{\supset}(p_2) : B(p_1)$ (4) $R^{\supset}(p_2) : B(p_1)$ 8 7 $p_{2.1} : B(p_1)$ (5) $\rqst \dots /L^{\supset}(p_2)$ 6 9 $\rqst \dots / R^{\supset}(p_2)$ (8) $p_{2.1} : B(p_1)$ 10 11 $\rqst = p_{2.1}$ (10) $L^{\supset}(p_2) = p_{2.1} : B(p_1)$ 12 **P** wins the play.
+- **Moves 0–4:** the proponent states the thesis, the players choose their repetition ranks. The opponent challenges the thesis using the *synthesis rule* for universal quantification and the proponent defends by instantiating his universal claim.
+
+  
+- **Move 5:** the opponent challenges the implication with local reason (analysis rule). A local reason for an implication is complex: it has a left part for the antecedent, and a right part for the consequent. She thus uses an instruction to take only the left part of $p_2$ as the reason for the antecedent.
+
+  
+- **Moves 6–7:** before answering the opponent’s challenge, the proponent requests that she resolves the instruction in move 5, i.e., that she gives a proper local reason instead of an instruction (structural rule, resolution of instructions). The opponent resolves the instruction of move 5 and provides a proper local reason for her statement. Note that “$\rqst \dots/L^{\supset}(p_2)$” can be read as requesting what local reasons stand for $L^{\supset}(p_2)$, thus asking the adversary to fill in the dots.
+
+  
+- **Moves 8–9:** the proponent answers the pending challenge on the implication by using an instruction that selects the right part of the local reason for the implication, thus backing the consequent. The opponent requests the resolution of that instruction.
+
+  
+- **Moves 10–11:** the proponent resolves the instruction by providing a proper local reason, $p_{2.1}$. He is entitled to this elementary statement since the opponent has already stated it (move 7). The opponent however requests that the link with her own statements be made explicit, she asks that the local reason be justified by an equality with her own local reasons (structural Socratic Rule).
+
+  
+- **Move 12:** the proponent uses the Socratic Rule in order to explicit where his local reason comes from: it is exactly the same reason that the opponent used in order to resolve the instruction $L^{\supset}(p_2)$. In other words, in this case, the reason for stating the consequent (i.e., the resolution of $R^{\supset}(p_2)$) is exactly the same as the reason for stating the antecedent of the implication.
+
+  
 
 #### 3.2.3 Formation dialogues
 
@@ -604,7 +639,9 @@ The thesis is $(\forall x:A)(B(x)\supset B(x))$. Before applying the synthesis r
 | 1 | $\mathtt{n} :=\rank{1}$ |   |   | $\mathtt{m}:=\rank{2}$ | 2 |
 | 3 | $\rqst_{\bprop}$ | (0) |   | $(\forall x:A)(B(x)\supset B(x)):\bprop$ | 4 |
 
-- **Move 5:** the opponent can challenge this statement by applying the formation rule for universal quantification given in the table above, and chooses one of the possible challenges: she asks for the first part of the expression with “$\rqst_{\forall{}1}$”. **O** **P** move statement challenge to move challenge to move statement move $\state (\forall x:A)(B(x)\supset B(x))$ 0 1 $\mathtt{n} :=\rank{1}$ $\mathtt{m}:=\rank{2}$ 2 3 $\rqst_{\bprop}$ (0) $(\forall x:A)(B(x)\supset B(x)):\bprop$ 4 5 $\rqst_{\forall{}1}$ (4)
+- **Move 5:** the opponent can challenge this statement by applying the formation rule for universal quantification given in the table above, and chooses one of the possible challenges: she asks for the first part of the expression with “$\rqst_{\forall{}1}$”.
+
+  
 
 The proponent wants to answer that $A$ is a set, which would trigger material considerations (is $A$ a set or not?). See below for material dialogues (Section 3.2.4). In order to avoid (for whatever reason) these material considerations, *initial concessions* may be added to the thesis in square brackets, for instance $A: \bset$. When accepting to play, the opponent also accepts these concessions for the sake of the argument.
 
@@ -625,7 +662,10 @@ The proponent states the thesis (move 0), the opponent starts playing: she accep
 | 3 | $\rqst_{\bprop}$ | (0) |   | $(\forall x:A)(B(x)\supset B(x)):\bprop$ | 4 |
 | 5 | $\rqst_{\forall{}1}$ | (4) |   |   |   |
 
-- **Moves 6–7:** the proponent is entitled to the elementary statement $A: \bset$, since the opponent has already stated it (concession 0.1). Since the opponent’s repetition rank is $\rank{1}$, she cannot attack anymore, the formation dialogue is over and she challenges the universal quantifier of the thesis. The rest of the play is, except for the move labels, the same as above. **O** **P** move statement challenge to move challenge to move statement move 0.1 $A: \bset$ $(\forall x:A)(B(x)\supset B(x))$ 0 0.2 $B(x) : \bprop{} [x : A]$ $[A: \bset ; B(x) : \bprop [x : A]]$ 1 $\mathtt{n} :=\rank{1}$ $\mathtt{m}:=\rank{2}$ 2 3 $\rqst_{\bprop}$ (0) $(\forall x:A)(B(x)\supset B(x)):\bprop$ 4 5 $\rqst_{\forall{}1}$ (4) $A: \bset$ 6 7 $p_1 : A$ (0) *Note: if the opponent wants to challenge both sides of the formation of the universal quantification in the same play, she must choose repetition rank 2.*
+- **Moves 6–7:** the proponent is entitled to the elementary statement $A: \bset$, since the opponent has already stated it (concession 0.1). Since the opponent’s repetition rank is $\rank{1}$, she cannot attack anymore, the formation dialogue is over and she challenges the universal quantifier of the thesis. The rest of the play is, except for the move labels, the same as above.
+
+  
+  *Note: if the opponent wants to challenge both sides of the formation of the universal quantification in the same play, she must choose repetition rank 2.*
 
 #### 3.2.4 Material dialogues
 

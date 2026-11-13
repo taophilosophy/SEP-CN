@@ -231,7 +231,9 @@ As in spoken language, it is possible to modulate some conventional words in an 
 
 **(18)**
 
-Different iconic modulations of the sign *GROW* in ASL (*Picture credits:* M. Bonnet) **Slow movement** **Fast movement** Narrow endpoints ![two drawings of a human with the first showing their left hand clasping the clenched fist of the right in front of the upper chest region and the second with the two hands spread and separated horizontally but still in front of the chest.](../assets/sign-language-semantics/image012-crop.png) small amount, slowly small amount, quickly Medium endpoints ![two drawings of a human with the first showing their left hand clasping the clenched fist of the right in front of the upper chest region and the second with the two hands spread and separated horizontally and in front of the shoulders.](../assets/sign-language-semantics/image013-crop.png) medium amount, slowly medium amount, quickly Broad endpoints ![two drawings of a human with the first showing their left hand clasping the clenched fist of the right in front of the upper chest region and the second with the two hands spread and separated horizontally and far outside the chest region.](../assets/sign-language-semantics/image014-crop.png) large amount, slowly large amount, quickly
+Different iconic modulations of the sign *GROW* in ASL (*Picture credits:* M. Bonnet)
+
+
 
 In English, iconic modulations can arguably be at-issue and thus interpreted in the scope of grammatical operators. An example is the following sentence: *If the talk is loooong*, *I’ll leave before the end*. This means that if the talk is very long, I’ll leave before the end (but if it’s only moderately long, maybe not); here, the iconic contribution is interpreted in the scope of the *if-*clause, just like normal at-issue contributions. The iconic modulation of *GROW* has similarly been argued to be at-issue (Schlenker 2018b)[^schlenker-2018b]. (See Section 5.2 for further discussion on the at-issue vs. non-at-issue semantic contributions.)
 
