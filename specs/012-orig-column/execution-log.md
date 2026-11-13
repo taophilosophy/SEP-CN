@@ -176,3 +176,21 @@
 **验收**：`check_terms.py` 原文告警 **169 → 157**（净偿还 12 条），硬错误 0；`check_all.py` 9 项全绿。
 
 **遗留**：157 条以藏文 Wylie、阿拉伯／波斯术语、日文与希腊文为主，本地语料无配对，须逐批走权威工具书通道。按 ADR-0030 第 4 条，「工具书查无者」在依据列注明后保留 `—`，但 `check_terms` 告警口径不变，故该类告警在现行规则下不可全量归零；要么持续多轮逐行补证，要么由用户对「查无行的告警豁免」作规则层裁定（走 ADR）。
+
+## 2026-11-13 B2 联网查证批（希腊／日文／希伯来／原词即键，14 采 + 4 留—）
+
+**方法**：对剩余 157 条按文字系统分组后选第一批（希腊转写 6、日文罗马字 6、希伯来 1、德／西／英原词 5），联网检索权威辞书与专条。**采信判据收紧为“辞书标目或专条显式印出词形”**：LSJ 词头（Perseus 页直引）、JAANUS 专条、Mimesis 国际美学辞典标目、Britannica 条目＋国会图书馆规范题名；德／西／英原词沿用 012 B1「拉丁原拼写先例」（证据=键列本体＋SEP 书目同形）。
+
+**采信 14 行**：`asōmata`→ἀσώματα、`boêtheia`→βοήθεια、`ennoēma`→ἐννόημα、`historiê`→ἱστορίη（伊奥尼亚形，阿提卡 ἱστορία 留注）、`dōshakuga`→道釈画、`kakuriyo / yūmeikai`→幽り世（复合键内 yūmeikai 无据留查）、`kire-tsuzuki`→切れ続き、`Nō`→能、`Sefer ha-Zohar`→ספר הזוהר、`Lebensbezüge`／`Lebensgefühl`／`grupo Hiperión`／`battery（医疗语境）`／`ψ-ontic`→原文即键。
+
+**留 — 注明 4 行（不采，按 ADR-0030 第 4 条处置）**：`skeptosunê`（Bett 2010 转引蒂蒙用例仅拉丁转写，TLG 未核、辞书无标目）；`unfused union (asynchytos henōsis)`（迦克墩信条副词 ἀσυγχύτως 显式，但整短语属现代归纳、无辞书标目，不拼合）；`makoto no shintō`（分词誠有据、整句组合无标目）；`mikunigokoro`（结构类比可推定、无独立条目）。
+
+**凭证**：`results/orig-verify-2026-11-13-b2.tsv`（18 行含已验证 URL）；工具沿用 `bin/apply_orig_column.py --ledger`，干跑残余 0 写回，复跑幂等。**验收**：`check_terms.py` 原文告警 **157 → 143**，本方行硬错误 0；同期并行会话在人名表在途去重造成 `Theodor W. Adorno` 废弃链断裂 1 条硬错误，属他方在途面不代改（rules/05 先例），本方文件照常入库。
+
+## 2026-11-13 B3 联网查证批（Cologne 一手词条接口，6 行）
+
+**通道定型**：Cologne 数字梵语词典库的原生词条接口（`getword.php?dict=mw&key=<SLP1>&input=slp1&output=deva`）逐词可用，返回带原书页码的词条页，天城体词头显式渲染。此前聚合检索未取到词头的原因是 SLP1 拼写错置（ā 应作 `A`，如 `Alambana`，误作 `alaMbana` 即 not found；ś=`S`、ṣ=`z`、ñ=`Y`）。MW 无独立词头的佛学复合词（manovijñāna）改取 Edgerton BHSD 转录页（wisdomlib 显式印出）。
+
+**采信 6 行**：`ālambana`→आलम्बन（MW p.153）、`anuśaya`→अनुशय（MW p.39）、`bīja`→बीज（MW p.732，另记异写 वीज）、`kleśa`→क्लेश（MW p.324）、`manovijñāna`→मनोविज्ञान（Edgerton BHSD 转录页）、`nairātmya`→नैरात्म्य（Edgerton/MW/PW 转录页；阴性 नैरात्म्या 为本尊名另形留注不混）。凭证 `results/orig-verify-2026-11-13-b3.tsv`（含逐条接口 URL）。
+
+**验收**：`check_terms.py` 原文告警 **143 → 137**；硬错误 0（并行会话在途废弃链断裂已由其自行修复）；`check_all.py` 复跑以收工为准。**剩余**：137 条，以梵文书名类（Abhidharmakośa 等约 25 条，宜走 Edgerton BHSD／84000 词表）、藏文 Wylie 约 18 条（宜走 Tsadra）、阿拉伯／波斯约 20 条（宜走 Wiktionary 阿语词条／EI）、日文余量与阿拉伯格纹术语为主；继续按本批通道逐批偿还。

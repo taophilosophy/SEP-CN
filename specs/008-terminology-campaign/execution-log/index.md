@@ -9,6 +9,8 @@
 | 审定库长跑与二轮补查 | 2026-11-11 | TL-main-20261111 正批与续批 | [shen-ding-ku-chang-pao.md](shen-ding-ku-chang-pao.md) |
 | 三轮清扫收官 | 2026-11-12 | TL-main-20261112 续 | [san-lun-qing-sao-shou-guan.md](san-lun-qing-sao-shou-guan.md) |
 | 词汇表并网收官 | 2026-11-13 | ADR-0036 结构收口 + 412 行分流 | [ci-hui-bing-wang-shou-guan.md](ci-hui-bing-wang-shou-guan.md) |
+| 人名表分段长跑 | 2026-11-13 起 | TL-main-20261113 首段 0–200 | [ren-ming-biao-fen-duan.md](ren-ming-biao-fen-duan.md) |
+| 两册去重 | 2026-11-13 | 人名 156 组 / 术语 22 组纯变体 | [liang-ce-qu-zhong.md](liang-ce-qu-zhong.md) |
 
 * 拆分依据：ADR-0004（单体文件治理）；门禁 `tools/check_doc_size.py` 实拦，拆分后各文件均在阈值内。
 * 历史追溯：`git log --follow specs/008-terminology-campaign/execution-log/index.md` 可追至拆分前的单文件历史。
