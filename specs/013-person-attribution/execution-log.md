@@ -198,3 +198,13 @@
 **留队歧义 16 人**：Engel, Johann Jakob、Eno、Erdős、Meumann、Ernst Schröder、Euler、Evans, Gareth、Falk、Feigl、Ferguson、Feuerbach、Finch 两人、Flynn、Forster, Thomas、Foucault, Léon。
 
 **验收**：硬错误 0；人名缺项 2992 → 2947。
+
+## 2026-11-14 GND I 段（56 行）
+
+**范围**：续取 120 行（Glisson 至 Gilbertus Porretanus），命中 61（exact 52／variant 9）、歧义 22、查无 36，采信 56。凭证 `results/verify-2026-11-14-gnd-i.tsv`。
+
+**口径校正 1 处**：Hegel 取“德国／哲学”（GND 双值含瑞士，系著述出版与游历著录）。
+**跳过**：Furlanus（无地域码）、George Boolos（GND 无地域码）等 6 人。
+**留队歧义 22 人**：Engels、Ebert、Simmel、Gentile、Gentzen、Garber、Harvey Friedman、Friedmann、Georg Forster、Georg Ernst Stahl、Bilfinger、Washington、Froben 两人、Gale 两人等。
+
+**验收**：硬错误 0；人名缺项 2947 → 2891。
