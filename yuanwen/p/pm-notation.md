@@ -30,7 +30,28 @@ Below the reader will find, in the order in which they are introduced in PM, the
 | $\phi x$, $\psi x$, $\phi(x,y)$, etc. | open atomic formulas in which both “$x$” and “$\phi$” are free. [An alternative interpretation is to view “$\phi x$” as a schematic letter standing for a formula in which the variable “$x$” is free.] |
 | $\hat{\phantom{x}}$ | the circumflex; when placed over a variable in an open formula (as in “$\phi \hat{x}$”) results in a term for a function. [This matter is controversial. See Landini 1998.][^landini-1998] When the circumflected variable precedes a complex variable, the result indicates a class, as in $\hat{x}\phi x$ which is the class of $ x $ which are $ \phi $, $ \{ x \mid \phi x\} $ in modern notation. |
 | $\phi\hat{x}, \psi\hat{x}, \phi(\hat{x},\hat{z}),$ etc. | Terms for propositional functions. Here are examples of such terms which are constants: “$\hat{x}$ is happy”, “$\hat{x}$ is bald and $\hat{x}$ is happy”, “$4 \lt \hat{x} \lt 6$”, etc. If we apply, for example, the function “$\hat{x}$ is bald and $\hat{x}$ is happy” to the particular individual $b$, the result is the proposition “$b$ is bald and $b$ is happy”. |
-| $\exists$ and ( ) | are the *quantifiers* “there exists” and “for all” (“every”), respectively. For example, where $\phi x$ is a simple or complex open formula, （嵌套表：\| $(\exists x)\phi x$ \| asserts \| “there exists an $x$ such that $\phi x$” \| \| --- \| --- \| --- \| \| $(\exists \phi)\phi x$ \| asserts \| “there exists a propositional function $\phi$ such that $\phi x$” \| \| $(x)\phi x$ \| asserts \| “every $x$ is such that $\phi x$” \| \| $(\phi)\phi x$ \| asserts \| “every propositional function $\phi$ is such that $\phi x$” \|） [These were used by Peano. More recently, $\forall$ has been added for symmetry with $\exists$. Some scholars see the quantfiers $(\phi)$ and $(\exists \phi$) as substitutional.] |
+| $\exists$ and ( ) | are the *quantifiers* “there exists” and “for all” (“every”), respectively. For example, where $\phi x$ is a simple or complex open formula, <table class="cellpad-med">
+<tbody>
+<tr>
+  <td>$(\exists x)\phi x$</td>
+  <td>asserts</td>
+  <td>&ldquo;there exists an $x$ such that $\phi x$&rdquo;</td>
+</tr>
+<tr>
+  <td>$(\exists \phi)\phi x$</td>
+  <td>asserts</td>
+  <td>&ldquo;there exists a propositional function $\phi$ such that
+$\phi x$&rdquo;</td> </tr>
+<tr>
+  <td>$(x)\phi x$</td>
+  <td>asserts</td>
+  <td>&ldquo;every $x$ is such that $\phi x$&rdquo;</td> </tr>
+<tr>
+  <td>$(\phi)\phi x$</td>
+  <td>asserts</td>
+  <td>&ldquo;every propositional function $\phi$ is such that $\phi
+x$&rdquo;</td> </tr> </tbody>
+</table> [These were used by Peano. More recently, $\forall$ has been added for symmetry with $\exists$. Some scholars see the quantfiers $(\phi)$ and $(\exists \phi$) as substitutional.] |
 | $\phi x \supset_x \psi x$ $\phi x \equiv_x \psi x$ | This is notation that is used to abbreviate universally quantified variables. In modern notation, these become $\forall x(\phi x \supset \psi x)$ and $\forall x(\phi x \equiv \psi x)$, respectively. See the definitions for this notation at the end of Section 3.2 below. |
 | $\bang$ | pronounced “shriek”; indicates that a function is *predicative*, as in $\phi \bang x$ or $\phi\bang \hat{x}$. See Section 7. |
 | = | the identity symbol; expresses *identity*, which is a defined notion in PM, not primitive as in contemporary logic. |

@@ -65,7 +65,25 @@ In pursuing his consistency program, Gentzen set as his first task the analysis 
 
 Assumptions, instead, are analyzed into their components through elimination rules that give, by and large, immediate consequences of the assumptions. For example, a conjunction used as an assumption can be decomposed into its constituents, as in the rules
 
-> | （嵌套表：\| *A* & *B* \| &E₁ \| \| --- \| --- \| \| *A* \| \|） |   | （嵌套表：\| *A* & *B* \| &E₂ \| \| --- \| --- \| \| *B* \| \|） |
+> | <table style="border-collapse:collapse;">
+> <tr><td style="padding:0px;border-bottom:1px solid black; text-align:center;">
+>   <em>A</em> &amp; <em>B</em> 
+> </td><td rowspan="2">
+> &nbsp;&amp;E<sub>1</sub>
+> </td></tr>
+> <tr><td style="text-align:center;">
+>   <em>A</em>
+> </td></tr>
+> </table> |   | <table style="border-collapse:collapse;">
+> <tr><td style="padding:0px;border-bottom:1px solid black; text-align:center;">
+>   <em>A</em> &amp; <em>B</em> 
+> </td><td rowspan="2">
+> &nbsp;&amp;E<sub>2</sub>
+> </td></tr>
+> <tr><td style="text-align:center;">
+>   <em>B</em>
+> </td></tr>
+> </table> |
 > | --- | --- | --- |
 
 Gentzen developed and studied the system of natural deduction during 1932, and had arrived by September 1932 at a calculus of natural deduction (ND for short) that is standard today. By this time, he had noticed that if an introduction, say a derivation of *A* & *B* from *A* and *B* separately, is followed by the corresponding elimination, say a derivation of *A*, the formula *A* & *B* constitutes a local maximum, a “hillock”, that can be eliminated. He also called such hillocks “detours”, and what is now called a detour conversion removes such unnecessary pairs of introduction-elimination steps. The result of the steps of “normalization” is a derivation in “normal form”.
@@ -96,11 +114,56 @@ Sequent calculus, SC for short, can be seen as a formal representation of the de
 
 | **Conjunction** |   |   |
 | --- | --- | --- |
-| （嵌套表：\| Γ **→** Δ, *A*   Γ → Δ, *B* \| R& \| \| --- \| --- \| \| Γ **→** Δ, *A* & *B* \| \|） | （嵌套表：\| *A*, Γ **→** Δ \| L&₁ \| \| --- \| --- \| \| *A* & *B*, Γ **→** Δ \| \|） | （嵌套表：\| *B*, Γ **→** Δ \| L&₂ \| \| --- \| --- \| \| *A* & *B*, Γ **→** Δ \| \|） |
+| <table style="border-collapse:collapse;">
+<tr><td style="padding:0px;border-bottom:1px solid black; text-align:center;">
+  &Gamma; <strong>&rarr;</strong> &Delta;, <em>A</em> &nbsp; &Gamma; &rarr; &Delta;, <em>B</em>
+</td><td rowspan="2">
+  &nbsp;R&amp;
+</td></tr>
+<tr><td style="text-align:center;">
+  &Gamma; <strong>&rarr;</strong> &Delta;, <span class="nw"><em>A</em> &amp; <em>B</em></span>
+</td></tr>
+</table> | <table style="border-collapse:collapse;">
+<tr><td style="padding:0px;border-bottom:1px solid black; text-align:center;">
+ <em>A</em>, &Gamma; <strong>&rarr;</strong> &Delta;
+</td><td rowspan="2">
+ &nbsp;L&amp;<sub>1</sub>
+</td></tr>
+<tr><td style="text-align:center;">
+ <em>A</em> &amp; <em>B</em>, &Gamma; <strong>&rarr;</strong> &Delta;
+</td></tr>
+</table> | <table style="border-collapse:collapse;">
+<tr><td style="padding:0px;border-bottom:1px solid black; text-align:center;">
+  <em>B</em>, &Gamma; <strong>&rarr;</strong> &Delta;
+</td><td rowspan="2">
+  &nbsp;L&amp;<sub>2</sub>
+</td></tr>
+<tr><td style="text-align:center;">
+  <em>A</em> &amp; <em>B</em>, &Gamma; <strong>&rarr;</strong> &Delta;
+</td></tr>
+</table> |
 
 | **Implication** |   |
 | --- | --- |
-| （嵌套表：\| *A*, Γ **→** Δ, *B* \| R⊃ \| \| --- \| --- \| \| Γ **→** Δ, *A* ⊃ *B* \| \|） | （嵌套表：\| Γ **→** Θ, *A*   *B*, Δ **→** Λ \| L⊃ \| \| --- \| --- \| \| *A* ⊃ *B*, Γ, Δ **→** Θ, Λ \| \|） |
+| <table style="border-collapse:collapse;">
+<tr><td style="padding:0px;border-bottom:1px solid black; text-align:center;">
+ <em>A</em>, &Gamma; <strong>&rarr;</strong> &Delta;, <em>B</em>
+</td><td rowspan="2">
+  &nbsp;R&sup;
+</td></tr>
+<tr><td style="text-align:center;">
+ &Gamma; <strong>&rarr;</strong> &Delta;, <span class="nw"><em>A</em> &sup; <em>B</em></span>
+</td></tr>
+</table> | <table style="border-collapse:collapse;">
+<tr><td style="padding:0px;border-bottom:1px solid black; text-align:center;">
+ &Gamma; <strong>&rarr;</strong> &Theta;, <em>A</em> &nbsp; <em>B</em>, &Delta; <strong>&rarr;</strong> &Lambda;
+</td><td rowspan="2">
+ &nbsp;L&sup;
+</td></tr>
+<tr><td style="text-align:center;">
+ <em>A</em> &sup; <em>B</em>, &Gamma;, &Delta; <strong>&rarr;</strong> &Theta;, &Lambda;
+</td></tr>
+</table> |
 
 This is not the place to explain the details of ND and SC (but see the entry on automated reasoning). Gentzen formulated the latter, denoted LK, so that it gave an intuitionistic calculus, denoted LJ, as a special case, the one in which the conclusion is a list of at most one case. He then proved the analogue of the normalization theorem for the classical calculus, the calculus and the proof carefully formulated so that the result for the intuitionistic calculus was a special case of the one for the classical calculus. In LJ and LK, L stands for “logistic”, a term by which Gentzen refers to the axiomatic calculi of logic of Frege, Russell, and Hilbert and Bernays. In such calculi, each line in a derivation is correct in itself, i.e., a logical truth, whence the term. The letters K and J come from the German words *klassisch* and *intuitionistisch*. (The latter should thus be upper case "I", but older German uses upper case "J" for upper case "I".)
 
@@ -154,7 +217,25 @@ The Curry-Howard correspondence has made intuitionistic natural deduction part o
 
 Gentzen's doctoral thesis marked the birth of structural proof theory, as contrasted to the old axiomatic proof theory of Hilbert. A remarkable step ahead in the development of systems of sequent calculus was taken by Oiva Ketonen in his doctoral thesis of 1944. Ketonen, a student of mathematics and philosophy in Helsinki, went to Göttingen in 1938 to study proof theory with Gentzen—being the closest to a student the latter ever had. The connection seems to have been established by Ketonen's philosophy professor Eino Kaila who had met Gentzen in 1936 in Münster. Ketonen recollected later that Gentzen was “a sympathetic young man of few words” who gave him an introduction to the proof-theoretical systems and results. Ketonen's best-known discovery is a sequent calculus for classical propositional logic the logical rules of which are all invertible, meaning that whenever a sequent is of a form that matches the conclusion of a logical rule, the corresponding premisses, defined uniquely from the given sequent and the rule, are also derivable. The reverse is immediate (just apply the rule). Rules L& and L⊃, for example, are modified into
 
-> | （嵌套表：\| *A*, *B*, Γ **→** Δ \| L& \| \| --- \| --- \| \| *A* & *B*, Γ **→** Δ \| \|） |   | （嵌套表：\| Γ **→** Δ, *A*   *B*, Γ **→** Δ \| L⊃ \| \| --- \| --- \| \| *A* ⊃ *B*, Γ **→** Δ \| \|） |
+> | <table style="border-collapse:collapse;">
+> <tr><td style="padding:0px;border-bottom:1px solid black; text-align:center;">
+>  <em>A</em>, <em>B</em>, &Gamma; <strong>&rarr;</strong> &Delta;
+> </td><td rowspan="2">
+>  &nbsp;L&amp;
+> </td></tr>
+> <tr><td style="text-align:center;">
+>  <em>A</em> &amp; <em>B</em>, &Gamma; <strong>&rarr;</strong> &Delta;
+> </td></tr>
+> </table> |   | <table style="border-collapse:collapse;">
+> <tr><td style="padding:0px;border-bottom:1px solid black; text-align:center;">
+>  &Gamma; <strong>&rarr;</strong> &Delta;, <em>A</em> &nbsp; <em>B</em>, &Gamma; <strong>&rarr;</strong> &Delta;
+> </td><td rowspan="2">
+>  &nbsp;L&sup;
+> </td></tr>
+> <tr><td style="text-align:center;">
+>  <em>A</em> &sup; <em>B</em>, &Gamma; <strong>&rarr;</strong> &Delta;
+> </td></tr>
+> </table> |
 > | --- | --- | --- |
 
 There is just one left rule for conjunction (and dually just one right rule for disjunction). The left implication rule has what are called “shared contexts”: the assumptions and cases in the conclusion, except for the formula with the connective, are repeated identically in both premisses. Ketonen's idea was to define a system of proof search: one starts from a given sequent to be derived, chooses a formula in it, and writes the premisses of a rule that can conclude the given sequent. By invertibility, the question of derivability is replaced by one or two equivalent questions of derivability on simpler sequents. The new rules are needed to ensure uniquely defined premisses in such “root-first” decomposition.
@@ -169,7 +250,25 @@ Kleene's work of the early 1950s also pioneered a remarkable development in sequ
 
 > | **Weakening** |   | **Contraction** |
 > | --- | --- | --- |
-> | （嵌套表：\| Γ **→** Δ \| Wk \| \| --- \| --- \| \| *A*, Γ **→** Δ \| \|） |   | （嵌套表：\| *A*, *A*, Γ **→** Δ \| Ctr \| \| --- \| --- \| \| *A*, Γ **→** Δ \| \|） |
+> | <table style="border-collapse:collapse;">
+> <tr><td style="padding:0px;border-bottom:1px solid black; text-align:center;">
+>  &Gamma; <strong>&rarr;</strong> &Delta;
+> </td><td rowspan="2">
+>  &nbsp;Wk
+> </td></tr>
+> <tr><td style="text-align:center;">
+>  <em>A</em>, &Gamma; <strong>&rarr;</strong> &Delta;
+> </td></tr>
+> </table> |   | <table style="border-collapse:collapse;">
+> <tr><td style="padding:0px;border-bottom:1px solid black; text-align:center;">
+>  <em>A</em>, <em>A</em>, &Gamma; <strong>&rarr;</strong> &Delta;
+> </td><td rowspan="2">
+>   &nbsp;Ctr
+> </td></tr>
+> <tr><td style="text-align:center;">
+>  <em>A</em>, &Gamma; <strong>&rarr;</strong> &Delta;
+> </td></tr>
+> </table> |
 
 Analogous rules permit weakening and contraction in the right, succedent parts of sequents. Weakening is made an eliminable rule by letting initial sequents have the form *A*, Γ **→** Δ, *A* instead of Gentzen's *A* → *A*. Contraction is likewise made eliminable by a suitable formulation of the rules. The import is that in root-first proof search, no rules need be applied that would produce a duplication of a formula in a premiss. Without this result, non-termination of proof search would not follow.
 

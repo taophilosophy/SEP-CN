@@ -141,21 +141,266 @@ Here is a class of objects which we shall call *trees*:[^note-4]
 
 Trees may be specified by *tree systems* (of equations). Here is one such system:
 
-> | (6) |   |   |   |   |   |   |
-> | --- | --- | --- | --- | --- | --- | --- |
-> | *s* | ≈ |   |   | * |   |   |
-> |   | / |   | \ |   |   |   |
-> | *t* |   |   |   | *u* |   |   |
-> | *u* | ≈ |   |   | * |   |   |
-> |   | / |   | \ |   |   |   |
-> | *x* |   |   |   | *y* |   |   |
+> | (6) |   |   |
+> | --- | --- | --- |
+> | <table>
+>   <tr>
+>   <td><em>s</em>&nbsp;&nbsp;</td>
+>   <td> &asymp; </td>
+>   <td valign="middle" align="center">
+>      <table>
+>      <tr>
+>      <td></td>
+>      <td></td>
+>      <td>*</td>
+>      <td></td>
+>      <td></td>
+>      </tr>
+>
+>      <tr>
+>      <td></td>
+>      <td>/</td>
+>      <td></td>
+>      <td>\</td>
+>      <td></td>
+>      </tr>
+>
+>      <tr>
+>      <td><em>t</em></td>
+>      <td></td>
+>      <td></td>
+>      <td></td>
+>      <td><em>u</em></td>
+>      </tr>
+>      </table>
+>   </td>
+>   </tr>
+>   </table> | <table>
+>   <tr>
+>   <td><em>t</em>&nbsp;&nbsp;</td>
+>   <td> &asymp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+>   <td>&bull;<br />&#124;<br /><em>s</em></td>
+>   </tr>
+>   </table> | <table>
+>   <tr>
+>   <td><em>u</em>&nbsp;&nbsp;</td>
+>   <td> &asymp; </td>
+>   <td valign="middle" align="center">
+>      <table>
+>      <tr>
+>      <td></td>
+>      <td></td>
+>      <td>*</td>
+>      <td></td>
+>      <td></td>
+>      </tr>
+>
+>      <tr>
+>      <td></td>
+>      <td>/</td>
+>      <td></td>
+>      <td>\</td>
+>      <td></td>
+>      </tr>
+>
+>      <tr>
+>      <td><em>x</em></td>
+>      <td></td>
+>      <td></td>
+>      <td></td>
+>      <td><em>y</em></td>
+>      </tr>
+>      </table>
+>   </td>
+>   </tr>
+>   </table> |
 
 Again, we use the ≈ notation in variables for which we want to solve, and we superscript variables with a dagger in the solution. In this case, the one and only solution of this system might be pictured as
 
-> | *s*^{†} | = | （嵌套表：\| \| \| \| \| \| \| \| \| * \| \| \| \| \| \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| \| \| \| \| \| \| \| \| / \| \| \ \| \| \| \| \| \| \| \| \| \| \| • \| \| \| \| * \| \| \| \| \| \| \| \| \| / \| \| \| \| / \| \| \ \| \| \| \| \| \| \| * \| \| \| \| *x* \| \| \| \| *y* \| \| \| \| \| / \| \| \ \| \| \| \| \| \| \| \| \| \| \| • \| \| \| \| * \| \| \| \| \| \| \| \| \| / \| \| \| \| / \| \| \ \| \| \| \| \| \| \| … \| \| \| \| *x* \| \| \| \| *y* \| \| \| \| \|） | （嵌套表：\| *t*^{†} \| = \| • \\| ![triangle](../assets/nonwellfounded-set-theory/triangle-s-dagger.jpg) \| \| --- \| --- \| --- \|） | *u*^{†} | = |   |   | * |   |   |
-> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> |   | / |   | \ |   |   |   |   |   |   |   |
-> | *x* |   |   |   | *y* |   |   |   |   |   |   |
+> | *s*^{†} | = | <table>
+>    <tr>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td>*</td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    </tr>
+>
+>    <tr>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td>/</td>
+>    <td></td>
+>    <td>\</td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    </tr>
+>
+>    <tr>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td>&bull;</td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td>*</td>
+>    <td></td>
+>    <td></td>
+>    </tr>
+>
+>    <tr>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td>/</td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td>/</td>
+>    <td></td>
+>    <td>\</td>
+>    <td></td>
+>    </tr>
+>
+>    <tr>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td>*</td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td><em>x</em></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td><em>y</em></td>
+>    </tr>
+>
+>    <tr>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td>/</td>
+>    <td></td>
+>    <td>\</td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    </tr>
+>
+>    <tr>
+>    <td></td>
+>    <td></td>
+>    <td>&bull;</td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td>*</td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    </tr>
+>
+>    <tr>
+>    <td></td>
+>    <td>/</td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td>/</td>
+>    <td></td>
+>    <td>\</td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    </tr>
+>
+>    <tr>
+>    <td>&hellip;</td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td><em>x</em></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td><em>y</em></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    <td></td>
+>    </tr>
+>    </table> | <table>
+>  <tr>
+>  <td><em>t</em><sup>&dagger;</sup>&nbsp;&nbsp;</td> 
+>  <td> = </td>
+>  <td align="center">&bull;<br />&#124;<br /><img src="../assets/nonwellfounded-set-theory/triangle-s-dagger.jpg" alt="triangle" /></td>
+>  </tr>
+>  </table> | <table>
+>   <tr>
+>   <td><em>u</em><sup>&dagger;</sup>&nbsp;&nbsp;</td>
+>   <td> = </td>
+>   <td valign="middle" align="center">
+>      <table>
+>      <tr>
+>      <td></td>
+>      <td></td>
+>      <td>*</td>
+>      <td></td>
+>      <td></td>
+>      </tr>
+>
+>      <tr>
+>      <td></td>
+>      <td>/</td>
+>      <td></td>
+>      <td>\</td>
+>      <td></td>
+>      </tr>
+>
+>      <tr>
+>      <td><em>x</em></td>
+>      <td></td>
+>      <td></td>
+>      <td></td>
+>      <td><em>y</em></td>
+>      </tr>
+>      </table>
+>   </td>
+>   </tr>
+>   </table> |
+> | --- | --- | --- | --- | --- |
 
 It will be useful to recast the definition of our trees in terms of pairs and triples:
 
@@ -214,7 +459,87 @@ We conclude by putting an arrow from *w* to *y*, since ∅ ∈ {∅}.
 
 Now we want to forget the identity of the nodes. We could either trade in the four sets that we used for numbers (to mention just one way), or else finesse the issue entirely. We would get one of the pictures below:
 
-> | （嵌套表：\| \| \| 1 \| \| \| \| --- \| --- \| --- \| --- \| --- \| \| \| ![southwest arrow](../assets/nonwellfounded-set-theory/swarrow.jpg) \| \| ![southeast arrow](../assets/nonwellfounded-set-theory/searrow.jpg) \| \| \| 2 \| \| ← \| \| 3 \| \| \| \| ![northwest arrow](../assets/nonwellfounded-set-theory/nwarrow.jpg) \| \| ↓ \| \| \| \| \| \| 4 \|） | （嵌套表：\| \| \| ![circ](../assets/nonwellfounded-set-theory/circ.jpg) \| \| \| \| --- \| --- \| --- \| --- \| --- \| \| \| ![southwest arrow](../assets/nonwellfounded-set-theory/swarrow.jpg) \| \| ![southeast arrow](../assets/nonwellfounded-set-theory/searrow.jpg) \| \| \| ![circ](../assets/nonwellfounded-set-theory/circ.jpg) \| \| ← \| \| ![circ](../assets/nonwellfounded-set-theory/circ.jpg) \| \| \| \| ![northwest arrow](../assets/nonwellfounded-set-theory/nwarrow.jpg) \| \| ↓ \| \| \| \| \| \| ![circ](../assets/nonwellfounded-set-theory/circ.jpg) \|） |
+> | <table>
+>  <tr>
+>  <td></td>
+>  <td></td>
+>  <td>1</td>
+>  <td></td>
+>  <td></td>
+>  </tr>
+>
+>  <tr>
+>  <td></td>
+>  <td><img src="../assets/nonwellfounded-set-theory/swarrow.jpg" alt="southwest arrow" /></td>
+>  <td></td>
+>  <td><img src="../assets/nonwellfounded-set-theory/searrow.jpg" alt="southeast arrow" /></td>
+>  <td></td>
+>  </tr>
+>
+>  <tr>
+>  <td>2</td>
+>  <td></td>
+>  <td>&larr;</td>
+>  <td></td>
+>  <td>3</td>
+>  </tr>
+>
+>  <tr>
+>  <td></td>
+>  <td></td>
+>  <td><img src="../assets/nonwellfounded-set-theory/nwarrow.jpg" alt="northwest arrow" /></td>
+>  <td></td>
+>  <td>&darr;</td>
+>  </tr>
+>
+>  <tr>
+>  <td></td>
+>  <td></td>
+>  <td></td>
+>  <td></td>
+>  <td>4</td>
+>  </tr>
+>  </table> | <table>
+>  <tr>
+>  <td></td>
+>  <td></td>
+>  <td><img src="../assets/nonwellfounded-set-theory/circ.jpg" alt="circ" /></td>
+>  <td></td>
+>  <td></td>
+>  </tr>
+>
+>  <tr>
+>  <td></td>
+>  <td><img src="../assets/nonwellfounded-set-theory/swarrow.jpg" alt="southwest arrow" /></td>
+>  <td></td>
+>  <td><img src="../assets/nonwellfounded-set-theory/searrow.jpg" alt="southeast arrow" /></td>
+>  <td></td>
+>  </tr>
+>
+>  <tr>
+>  <td><img src="../assets/nonwellfounded-set-theory/circ.jpg" alt="circ" /></td>
+>  <td></td>
+>  <td>&larr;</td>
+>  <td></td>
+>  <td><img src="../assets/nonwellfounded-set-theory/circ.jpg" alt="circ" /></td>
+>  </tr>
+>
+>  <tr>
+>  <td></td>
+>  <td></td>
+>  <td><img src="../assets/nonwellfounded-set-theory/nwarrow.jpg" alt="northwest arrow" /></td>
+>  <td></td>
+>  <td>&darr;</td>
+>  </tr>
+>
+>  <tr>
+>  <td></td>
+>  <td></td>
+>  <td></td>
+>  <td></td>
+>  <td><img src="../assets/nonwellfounded-set-theory/circ.jpg" alt="circ" /></td>
+>  </tr>
+>  </table> |
 > | --- | --- |
 
 Incidentally, in building this graph, we allowed ourselves to share the node *y* both times we came to ∅. It would be possible to avoid doing this, using different nodes. The end result would be a tree:
@@ -718,7 +1043,57 @@ Here is a basic example that illustrates why these are called *algebras*. Let’
 
 For the object *N* of natural numbers, *HN* is thus two copies of *N*×*N*. We’ll use colors to indicate the different copies, with red for the first copy and blue for the second. So we can view *HN* as
 
-> | （嵌套表：\| (0,0) \| (0,1) \| (0,2) \| … \| \| --- \| --- \| --- \| --- \| \| (1,0) \| (1,1) \| (1,2) \| … \| \| (2,0) \| (2,1) \| (2,2) \| … \| \| … \| … \| … \| … \|） | （嵌套表：\| (0,0) \| (0,1) \| (0,2) \| … \| \| --- \| --- \| --- \| --- \| \| (1,0) \| (1,1) \| (1,2) \| … \| \| (2,0) \| (2,1) \| (2,2) \| … \| \| … \| … \| … \| … \|） |
+> | <table cellpadding="+3">
+> <tr>
+> <td>(0,0)</td>
+> <td>(0,1)</td>
+> <td>(0,2)</td>
+> <td>&hellip;</td> 
+> </tr>
+> <tr>
+> <td>(1,0)</td>
+> <td>(1,1)</td>
+> <td>(1,2)</td>
+> <td>&hellip;</td> 
+> </tr>
+> <tr>
+> <td>(2,0)</td>
+> <td>(2,1)</td>
+> <td>(2,2)</td>
+> <td>&hellip;</td> 
+> </tr>
+> <tr>
+> <td>&hellip;</td>
+> <td>&hellip;</td>
+> <td>&hellip;</td>
+> <td>&hellip;</td> 
+> </tr>
+> </table> | <table cellpadding="+3">
+> <tr>
+> <td>(0,0)</td>
+> <td>(0,1)</td>
+> <td>(0,2)</td>
+> <td>&hellip;</td> 
+> </tr>
+> <tr>
+> <td>(1,0)</td>
+> <td>(1,1)</td>
+> <td>(1,2)</td>
+> <td>&hellip;</td> 
+> </tr>
+> <tr>
+> <td>(2,0)</td>
+> <td>(2,1)</td>
+> <td>(2,2)</td>
+> <td>&hellip;</td> 
+> </tr>
+> <tr>
+> <td>&hellip;</td>
+> <td>&hellip;</td>
+> <td>&hellip;</td>
+> <td>&hellip;</td> 
+> </tr>
+> </table> |
 > | --- | --- |
 
 One example of an algebra for this functor is (*N*, *α*), where α(*a*, *b*) = *a + b* and α(*a*, *b*) = *a* × *b*. In other words, α operates on the red pairs by adding and on the blue pairs by multiplying.

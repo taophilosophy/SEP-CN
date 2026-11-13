@@ -46,6 +46,7 @@
 ## 快速判例
 
 * 新任务或需求含糊 → 先写方向声明（用户到底要什么、目标/非目标、验收判据），再选手段（[08](08-intent-first.md)）。
+* 批量批次（波次/战役）开工 → 先立卡钉基准、列作废条件；新手段先小样本试金石；自报完成须独立复算；返工先按四元组归因登记（specs/004 §五）再返工，同一缺口二次发案必须升级防线（[08](08-intent-first.md) §9–12，ADR-0039）。
 * 想用子代理（`Agent`／`Task`／workflow 扇出）跑任务 → 不许：主代理单干，翻译/检索/核对/工具一律主会话亲自做；仅当用户本轮提示词显式批准才可派发（[06](06-governance.md) §子代理禁用，ADR-0034）。
 * 改标题 → 只改 `SUMMARY.md`，再跑 `python tools/check_summary.py --sync-headers` 同步 H1；门禁与 CI 同器实拦，CI 不写回（[01](01-repository-structure.md)、ADR-0024）。
 * 新术语 → 先登记 `shu-yu-biao.md`，再使用（[03](03-terminology.md)；ADR-0036 改名）。
