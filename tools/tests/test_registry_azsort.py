@@ -47,7 +47,13 @@ class TestLetterHeader(unittest.TestCase):
         out = render_text(src)
         for row in ROWS_A + ROWS_B:
             self.assertIn(row, out)
-        self.assertEqual(sum(1 for l in out.splitlines() if l.startswith('|')), 3)
+        data = [l for l in out.splitlines()
+                if l.startswith('|') and l.strip() not in az.TERM_HEADER
+                and l.strip() not in az.PERSON_HEADER]
+        self.assertEqual(len(data), 3)
+        # 每节必带表头与分隔行（020：登记册原为裸管道网格，站点渲染成文字墙）
+        self.assertEqual(out.count(az.TERM_HEADER[0]), 2, out)
+        self.assertEqual(out.count(az.TERM_HEADER[1]), 2, out)
 
 
 class TestMainPaths(unittest.TestCase):
