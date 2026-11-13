@@ -56,8 +56,6 @@
 - 结构细节：`(*due faccie*) ,`、`(*amiamo…corpe*) ,` 源文逗号前空格忠实保留✓；`16th- and 17th -century` 源文空格错位忠实保留✓；`[^davidson-1983]` 的 `*“*Medieval`（em 跨引号）与源一致✓
 - 结论：零转换缺陷；译文无需同步。
 
-<!-- 接力指针：下一词条 abraham-daud（yuanwen/a/abraham-daud.md；en/abraham-daud/index.html） -->
-
 ## abhidharma（正式；译文 a/abhidharma.md 存在）
 
 - 源：en/abhidharma/index.html（2048 行）↔ yuanwen/a/abhidharma.md（354 行 → 重转后同）
@@ -67,5 +65,15 @@
   - F7 notes.html 页标题泄漏：`## Notes to <Entry>` 与转换器 `## Notes（原文脚注）` 双标题（全库 692 处）→ 页首 500 字符内 Notes 标题剥除。
 - 重转回归（第 3 轮全量）：OTHER 3 例全部定性——SUMMARY.md 刷新（合法）、a/abhidharma（+1 标记：`Gethin 1992b` 现正确命中年份键）、i/intuitionistic-logic-development（−2 标记：旧版三个 `brouwer-1975*` 幻键中两个指向 1918B/1919A，现归位）
 - 系统行为（实证确认，不改）：书目说明段转 `[^pali-nd]` 脚注定义（内容保全）；正文 `[^note-N]` 与 `[^key]` 混排正常
+
+## abraham-daud（正式；译文 a/abraham-daud.md 存在）
+
+- 源：en/abraham-daud/index.html（1563 行）↔ yuanwen/a/abraham-daud.md（290 行）
+- 逐段核：preamble 1 段✓；标题行 + pubinfo 斜体行✓；作者行 = citation_author 双作者（`*Fontaine, Resianne, Eran, Amira*`）✓；§1（2 段）✓；§2（3 段）✓；§3（7 块：4 `<p>` + 1 无 `<p>` 裸文本块 + 2 `<p>`，裸块源文无句末句号，忠实保留）✓；§4.1（2 段）✓；§4.2（1 段）✓；§5.1（3 段）✓；§5.2（2 段 + 1 引块 + 1 段）✓；§5.3（2 段 + 1 引块 + 1 段）✓；§5.4（3 段）✓；§5.5（3 段，成对 en dash「– thanks to his specific knowledge –」保留）✓；§5.6（4 段 + 1 引块，次序 段-引块-3 段）✓；§5.7（4 段）✓；§6（5 段，[^note-1]/[^note-2] 落位与源 `<sup>` 一致）✓；§7（2 段，10 段 en dash 链条逐字对位）✓；脚注 `[^note-1..2]` ↔ notes.html 定义 2 条✓（notes.html 页标题「Notes to Abraham Ibn Daud」已按 F7 剥除，无双标题）；书目 **58 条**（Abraham ibn Daud 6 + Maimonides 1 + Monographs 5 + Surveys 4 + Specific Topics 42）逐条比对，`<li>` 与脚注定义 58:58、分组次序与源完全一致✓；Academic Tools 4 行表✓；OIR✓；Related Entries 7 条同序✓
+- 结构细节：`Fons`/`Vitae` 两个并列 `<em>` 转 `*Fons* *Vitae*`（不合并）✓；`Seder&#703;Olam Rabba`→`SederʿOlam Rabba`、`Ma&#7789;&#363;t`→`Maṭūt`、`Yi&#7779;&#7717;aq`→`Yiṣḥaq` 实体转码✓；`13<sup>th</sup>`→13ᵗʰ、`1<sup>st</sup>`→1ˢᵗ✓；eran-1993 条 `“`/`”` 各包在独立 `<em>` 内（`<em>&ldquo;</em>Hashpa‘at …<em>&rdquo;</em>`）转 `*“*…*”*` 与源一致✓
+- 源文瑕疵忠实保留（零信任，不作「修正」）：§2 引用组末尾 `Freudenthal 2016; .`（括号未闭合、)` 缺失）→ 该组因 `GROUP_RE` 要求成对括号而不附 [^key] 标记（源文自身残缺所致，非转换缺陷）；§2 「G.D.Cohen」缺空格；§3 「The purpose of *Sefer ha-Emunah ha-Ramah*」书名与正文他处不一致；note-2 「Samuelson 199a」年份缺位；fontaine-2024 「41: [forthcoming)」括号方向错；harvey-2022 「Late Antiquity ad the Middle Ages」、vehlow-2023 期刊名未做斜体、polloni-2017 「FIDEM 19–49」缺冒号——均与源 html 逐字一致
+- 结论：零转换缺陷；译文无需同步。
+
+<!-- 接力指针：下一词条 abstract-objects（yuanwen/a/abstract-objects.md；en/abstract-objects/index.html） -->
 
 
