@@ -29,7 +29,7 @@
 
 * 用户裁定「软全局复核」= 覆盖不软、处置软：全量逐条通读照旧，但本轮**只写 verdicts＋证据句，不 reopen 不置空**，汇总后另行裁定处置。
 * 首批 5 条（M 批 done，兼补 s2 语体留痕）：mandeville、marsilius-padua、model-organisms、moral-learning、music，全部判 `modern`（`dash=ok`），`action=none`；证据句见 `verdicts.jsonl`。s2 evidence 已按 ADR-0033 追补「语体：」结论，`check_all` 9 项复绿。
-* 台账口径：`verdicts.jsonl` 累计 60 条（modern 49／classical 7／mixed 4）。
+* 台账口径：`verdicts.jsonl` 累计 80 条（modern 69／classical 7／mixed 4）。按 done 时间升序推进，每 5 条一批提交；A 批（a/ 首段队列）已全部通读完毕。
 
 
 ## 注意
