@@ -131,3 +131,15 @@
 **存疑留队**：`Balme, David`（GND 地域码 USA，与常见英国说异，不落表）。
 
 **验收**：`check_terms.py` 人名缺项告警 **3282 → 3234**（净偿还 48 条），硬错误 0；`check_all.py` 见收工记录。累计两批 A/B 段 94 行，命中率约 45%，拒采率约 6%（14/235 命中中 14 条实体错配）。
+
+## 2026-11-14 GND C 段与歧义另核（52＋10 行）
+
+**范围**：GND 续取 120 行（B 段之后），命中 63（exact 54／variant 9）、歧义 22、查无 35。逐行复核后采信 52 行；另有 A/B 段遗留的歧义与错配 13 人另源核实，采信 10 行。凭证 `results/verify-2026-11-14-gnd-c.tsv`、`results/verify-2026-11-14-alt.tsv`。
+
+**C 段复核要点**：拒采 `Booker T. Washington`（GND 命中蓝调乐手 Bukka White，本名恰为 Booker T. Washington White，与十九世纪教育家非一人）；人工改正五处籍属口径：Batson 补国别（美国／心理学）、Bolyai 补匈牙利、Spinoza 取荷兰（GND 双值 Germany 为接受史著录）、Boethius of Dacia 补丹麦、Benedict XII 改神学（原以“外交”充学科）；`Blund, John` 生年 1185 与通行 c. 1175 异说留痕。`Bocheński` 两键同号并存待并档。
+
+**另源核实**：Armstrong（澳大利亚，1926–2014）、Arnauld（法国，1612–1694）、Alison（苏格兰，1757–1839，与其子 1792–1867 别）、Amy Allen（美国，1970–）、Elizabeth Anderson（美国，1959–）、Michael Anderson（美国，1951–）、Ackermann（德国，1896–1962）、Alexander V（希腊／意大利，c. 1339–1410）、Larry Alexander（美国，1943–）、Balme（英国，1912–1989，ODNB；GND 地域码 USA 异说留痕）。查无：Barber、Bartel、Barrio。
+
+**并发事故与处置**：本批写回期间另一会话连续执行合并与清理，两次抹去未提交的登记册改动与未跟踪凭证；已由 `script/_tmp/gnd-c.tsv` 重建 C 段凭证、按会话记录重建另源凭证，重放后即时提交。合并另带入 4 处空重复行（Apt、Benedict XII、Benedict XVI 等），按“同键同译、一有一无”删除空行，硬错误归零。
+
+**验收**：`check_terms.py` 硬错误 0；人名缺项 3236 → 3187（含并行会话新增行与本次净偿还）；`check_all.py` 除并行会话在途的 `tasks/b/brouwer.json` 学术项外全绿。
