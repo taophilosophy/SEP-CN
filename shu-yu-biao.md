@@ -197,7 +197,7 @@
 | al-ṣifāt al-ikhtiyāriyya | الصفات الاختيارية | 自愿属性 | ibn-taymiyya | 首译（伊本·泰米叶术语；与无时间永恒属性对举） | 2026-11-12 |
 | al-uṣūl al-mawḍūʿa | — | 假设（hypotheses；欧几里得传统对译） | arabic-islamic-phil-math | 译名裁定（hypothesis 对译） | 2026-11-08 |
 | al-uṣūl al-mutaʿārafa | — | 共同概念／公理（common notions/axioms；欧几里得传统对译） | arabic-islamic-phil-math | 译名裁定（common notion 对译） | 2026-11-08 |
-| ālambana | — | 所缘 | yogacara 首译 | 玄奘译“所缘”（《观所缘缘论》）；原文列待考（源页未给天城体配对）；凭证 2026-11-11 | 2026-11-11 |
+| ālambana | आलम्बन | 所缘 | yogacara 首译 | 玄奘译“所缘”（《观所缘缘论》）（源页未给天城体配对）；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》ā-lambana 条（p. 153 col. 2，Cologne 词（2026-11-13 查，凭证 orig-verify-2026-11-13-b3.tsv） | 2026-11-13 |
 | Ālambanaparīkṣā | — | 《观所缘缘论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | ālayavijñāna | आलयविज्ञान | 阿赖耶识 | yogacara 首译 | 汉传唯识学千年通行译名（玄奘译）；凭证 2026-11-11；原文列联网查证：Edgerton《佛教混合梵语辞典》ālaya-vijñāna 条（2026-11-13 查，凭证 orig-verify-2026-11-13.tsv） | 2026-11-13 |
 | alethic properties | — | 真势属性 | reinach | 学界惯例（模态逻辑通行）；凭证 2026-11-09 | 2026-11-09 |
@@ -320,7 +320,7 @@
 | anupalabdhi-hetu | अनुपलब्धिहेतु | 未觉因 | early-modern-india | 法称“未觉”推理（inference from non-apprehension）；凭证 2026-11-11 | 2026-11-11 |
 | anuprekṣā | अनुप्रेक्षा | 随念 | jaina-philosophy | 耆那教学界通行（十二随念） | 2026-11-08 |
 | anusandhāna | अनुसन्धान | 再认统觉 | early-modern-india | 义译（re-identifying awareness；统觉对齐既有行 apperception）；凭证 2026-11-10 | 2026-11-10 |
-| anuśaya | — | 随眠 | yogacara 首译 | 汉传阿毗达磨与唯识学通行译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| anuśaya | अनुशय | 随眠 | yogacara 首译 | 汉传阿毗达磨与唯识学通行译名；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》anu-śaya 条（p. 39 col. 2，Cologne 词条页（2026-11-13 查，凭证 orig-verify-2026-11-13-b3.tsv） | 2026-11-13 |
 | anvaya | अन्वय | 同有 | early-modern-india | 因明“同品有”通行（agreement in presence；与 vyatireka 同无对举）；凭证 2026-11-10 | 2026-11-10 |
 | anvaya-vyatirekin | अन्वयव्यतिरेकिन् | 同有同无（推理） | early-modern-india | 印度逻辑三分推理之一（positive-and-negative）；凭证 2026-11-11 | 2026-11-11 |
 | anyāpoha（gzhan sel） | — | 遮他（anyāpoha，Tib. gzhan sel） | epistemology-language-tibetan | 佛学界通行 | 2026-11-04 |
@@ -593,7 +593,7 @@
 | Big Bang | — | 大爆炸 | kant-development | 物理学与宇宙论通行汉译；凭证 2026-11-11 | 2026-11-11 |
 | Big Data | — | 大数据 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移，待 008 审定库复核）；词汇表并网（ADR-0036） | 2026-11-13 |
 | Big Five | — | 大五人格 | justice-moral-psych | 人格心理学通行汉译（五因素模型）；凭证 2026-11-10 | 2026-11-10 |
-| bīja | — | 种子 | yogacara 首译 | 汉传唯识学千年通行（种子说）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| bīja | बीज | 种子 | yogacara 首译 | 汉传唯识学千年通行（种子说）；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》bīja 条（p. 732 col. 2，Cologne 词条页 de（2026-11-13 查，凭证 orig-verify-2026-11-13-b3.tsv） | 2026-11-13 |
 | bijection | — | 双射 | quine-nf | 数学通行译名；凭证 2026-11-09 | 2026-11-09 |
 | Bildlichkeit | Bildlichkeit | 图像性 | yorck 首译 | B 档：词面直译（Bild 图像；作者英译 projection of formed images）；凭证 2026-11-11 | 2026-11-11 |
 | Bildung | Bildung | 教化（伽达默尔语境） | 语料回收 | 学界惯例（伽达默尔《真理与方法》通行）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
@@ -2919,7 +2919,7 @@
 | KK principle | — | KK 原则 | epistemology-latin-america 首译 | 学界通行（保留缩写；知即知其知） | 2026-11-11 |
 | Kleene–Mostowski hierarchy | — | Kleene–Mostowski 层级 | lvov-warsaw | 递归论术语照录；凭证 2026-11-09 | 2026-11-09 |
 | Kleinstaat | Kleinstaat | 小邦国 | august-rehberg 首译 | 德国史通行（保留德文）；凭证 2026-11-08 | 2026-11-08 |
-| kleśa | — | 烦恼 | yogacara 首译 | 汉传佛典千年通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| kleśa | क्लेश | 烦恼 | yogacara 首译 | 汉传佛典千年通行；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》kleśa 条（p. 324，Cologne 词条页 deva 渲染）（2026-11-13 查，凭证 orig-verify-2026-11-13-b3.tsv） | 2026-11-13 |
 | kliṣṭamanas | — | 染污意（末那识） | yogacara 首译 | 玄奘译“染污意”，亦名末那识；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | knack | — | 诀窍 | knowledge-how | 与技能对举义（天赋式巧熟）；凭证 2026-11-10 | 2026-11-10 |
 | Knobe effect | — | 诺布效应（亦作“副作用效应”） | double-effect 首译 | 实验哲学通行（Knobe 2003/2006；规范性判断影响意图归因）；凭证 2026-11-11 | 2026-11-11 |
@@ -3182,7 +3182,7 @@
 | manifold (Kantian) | — | 杂多 | kant-transcendental | 康德研究通行（与册内 manifold“流形”数学义分立，限定键区分）；凭证 2026-11-10 | 2026-11-10 |
 | manifold of events | — | 事件流形 | spacetime-holearg | B 档（manifold 通行译名 + 词条语境） | 2026-10-28 |
 | manipulated memory | — | 被操纵的记忆 | ricoeur | 利科术语（mémoire manipulée）；凭证 2026-11-11 | 2026-11-11 |
-| manovijñāna | — | 意识 | yogacara 首译 | 汉传唯识学通行（与既有 manas 意 分键）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| manovijñāna | मनोविज्ञान | 意识 | yogacara 首译 | 汉传唯识学通行（与既有 manas 意 分键）；凭证 2026-11-11；原文列联网查证：Edgerton《佛教混合梵语辞典》mano-vijñāna 条（Cologne 转录，wisdomlib 词条（2026-11-13 查，凭证 orig-verify-2026-11-13-b3.tsv） | 2026-11-13 |
 | Mantrayāna | — | 真言乘 | kukai | 真言宗汉语传统 | 2026-11-09 |
 | many-valued hybrid logic | — | 多值混合逻辑 | logic-hybrid | 学界通行（many-valued logic 多值逻辑）；凭证 2026-11-09 | 2026-11-09 |
 | many-valued logic | — | 多值逻辑 | logic-fuzzy | 逻辑学通行译法；凭证 2026-11-09 | 2026-11-09 |
@@ -3554,7 +3554,7 @@
 | nacherleben | nacherleben | 再体验（nacherleben；狄尔泰） | gadamer-aesthetics | 学界惯例（狄尔泰研究通行） | 2026-11-01 |
 | nafs al-ʾamr | نفس الأمر | 事情本身（字面义；技术义指事物自在之所是；与 die Sache selbst 行同形异源，勿混） | arabic-islamic-phil-math | 译名裁定（the thing itself 直译；图西技术化首用） | 2026-11-08 |
 | naimittikī | नैमित्तिकी | 自然种类词 | early-modern-india | 词义学义译（basis for application is a universal）；凭证 2026-11-10 | 2026-11-10 |
-| nairātmya | — | 无我 | yogacara 首译 | 汉传佛典千年通行译名（人无我、法无我）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| nairātmya | नैरात्म्य | 无我 | yogacara 首译 | 汉传佛典千年通行译名（人无我、法无我）；凭证 2026-11-11；原文列联网查证：Edgerton《佛教混合梵语辞典》与 Monier-Williams、Böhtlingk–Roth 各条（wi（2026-11-13 查，凭证 orig-verify-2026-11-13-b3.tsv） | 2026-11-13 |
 | naive comprehension | — | 朴素概括公理 | logic-relevance | 集合论通行译法（naïve comprehension axiom）；凭证 2026-11-09 | 2026-11-09 |
 | naïve realism | naïve realism | 朴素实在论 | 语料回收 | 审定名词库（termonline-all·自然辩证法名词·科学哲学，2026-10-30 浏览器通道凭证） | 2026-10-30 |
 | naive set theory | — | 朴素集合论 | 语料回收（mathematics-inconsistent 首译） | 数理逻辑界通行译法；凭证 2026-11-06 | 2026-11-06 |
