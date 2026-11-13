@@ -230,7 +230,7 @@
 * Ekstrom, Laura Waddell, 2000. *Free Will: A Philosophical Study*, Boulder: Westview Press.
 * –––, 2003. “Free Will, Chance, and Mystery,” *Philosophical Studies*, 113: 153–80.
 * –––, 2019. “Toward a Plausible Event-Causal Indeterminist Account of Free Will,” *Synthese*, 196: 127–144.
-* Feldman, Richard and Andrei A. Buckareff, YEAR. “Reasons Explanations and Pure Agency,” *Philosophical Studies*, 112: 135–45.
+* Feldman, Richard and Andrei A. Buckareff, 2003. “Reasons Explanations and Pure Agency,” *Philosophical Studies*, 112: 135–45.
 * Fischer, John Martin, 1995. “Libertarianism and Avoidability: A Reply to Widerker,” *Faith and Philosophy*, 12: 119–25.
 * Frankfurt, Harry G., 1969. “Alternate Possibilities and Moral Responsibility,” *Journal of Philosophy*, 66: 828–39.
 * Franklin, Christopher, 2011a. “The Problem of Enhanced Control,” *Australasian Journal of Philosophy*, 89: 687–706.
