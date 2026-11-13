@@ -232,7 +232,7 @@ Levi 还主张，个体行动者同样可能像群体那般处于冲突之中，
 
 图 1：
 
-![[A square with four quadrants, first column is labeled 'H' and second 'not H'; first row is labeled 'X' and second 'not X'. First quadrant (first column/first row) is shaded and has an 'a' on it; second quadrant (second column, first row) is not shaded and has a 'b' on it; third quadrant (first column, second row) is unshaded and has a 'c' on it; and last quadrant (second column, second row) is shaded and has a 'd' on it.]](../assets/imprecise-probabilities/two-by-two.png)
+![正方形分四象限：左列标“H”、右列标“非 H”，上行标“X”、下行标“非 X”。左上象限有阴影，标 a；右上象限无阴影，标 b；左下象限无阴影，标 c；右下象限有阴影，标 d。](../assets/imprecise-probabilities/two-by-two.png)
 
 图 1：依 Seidenfeld（1994）所作的关系图；$Y$ 为阴影区域
 
@@ -250,7 +250,7 @@ White 视膨胀为问题，因为得知 $Y$ *seems*（似乎）与 $H$ 无关：
 
 图 2：
 
-![[A square with two columns labeled 'H' and 'not H' and two rows, a narrow one labeled 'X' and a wide one labeled 'not X'. The first quadrant (first column, first row) is shaded and has a 'Y' on it; second quadrant (second column, first row) is not shaded and has a 'not Y' on it; third quadrant (first column, second row) is unshaded with a 'not Y' on it and the fourth quadrant (second column, second row) is shaded and has a 'Y' on it.]](../assets/imprecise-probabilities/joyces-diagram.png)
+![正方形分两列（标“H”与“非 H”）两行（窄行标“X”，宽行标“非 X”）。左上象限有阴影，标 Y；右上象限无阴影，标 非 Y；左下象限无阴影，标 非 Y；右下象限有阴影，标 Y。](../assets/imprecise-probabilities/joyces-diagram.png)
 
 图 2：信度委员会的一位成员（依 Joyce（2011））
 

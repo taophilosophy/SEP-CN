@@ -22,5 +22,6 @@
 ## 会话接力点
 
 - 2026-11-13 会话 1：战役立项，spec 落盘。自 `a` 批 `abduction` 起按字母序推进。
-- 2026-11-13 会话 1 更正：spec A3「yuanwen/ 为 gitignore 本地库」证伪——yuanwen/ 自 ADR-0027 起入库（4260 文件），修复产生 git 变更；表格图片两维抽为 019 战役先行（specs/019-table-image-audit/），其发现项同步记本台账。
+- 2026-11-13 会话 1 更正：spec A3「yuanwen/ 为 gitignore 本地库」证伪——yuanwen/ 自 ADR-0027 起入库（4260 文件），修复产生 git 变更；表格图片两维抽为 020 战役先行（specs/020-table-image-audit/），其发现项同步记本台账。
+- 2026-11-13 会话 1（020 战役代记）：表格/图片两维全库对账完成，**镜像侧缺陷清单**见 `specs/020-table-image-audit/results/mirror-defects.md`：嵌套表降级 16 件 128 处（字面 `（嵌套表：\| … \|）` 混入英文镜像）、整表丢失 8 件（logic-dialogical 48→29 等）、findlay 缩写表断尾 6 行、图片未引用 13 件、mereology 单表被拆多块。均属转换器（本战役维护），待修后由 020 复跑 `script/t020_cmp.py` 复核。
 - 接力规则：后继会话先读本索引覆盖表，再读当前字母台账末尾的「接力指针」，从指到的词条继续；禁止跳条。

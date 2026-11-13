@@ -251,7 +251,7 @@ Norton 把这一点再推一步，与他关于归纳推理的“实质理论”�
 
 **图 2。**
 
-![[一幅树状图：S 为源域，T 为目标域。左下角首节点为 P(S)&Q(S)，以虚线箭头连至顶部中间的 (x)(P(x) superset Q(x))，后者以实线箭头连至 P(T)，其下一行为右下角的 P(T) superset Q(T)，再由实线箭头连至其下方的 Q(T)。]](../yuanwen/assets/reasoning-analogy/example.png)
+![[一幅树状图：S 为源域，T 为目标域。左下角首节点为 P(S)&Q(S)，以虚线箭头连至顶部中间的 (x)(P(x) superset Q(x))，后者以实线箭头连至 P(T)，其下一行为右下角的 P(T) superset Q(T)，再由实线箭头连至其下方的 Q(T)。]](../assets/reasoning-analogy/example.png)
 
 图 2。
 

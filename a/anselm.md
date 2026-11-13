@@ -128,6 +128,7 @@
 **以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
 
 | *DLA* | = | *De libertate arbitrii* |
+| --- | --- | --- |
 | *DV* | = | *De veritate* |
 | *M* | = | *Monologion* |
 | *P* | = | *Proslogion* |
