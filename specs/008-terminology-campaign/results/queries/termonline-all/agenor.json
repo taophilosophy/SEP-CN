@@ -1,0 +1,348 @@
+{
+ "key": "agenor",
+ "term": "Agenor",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T09:54:17+00:00",
+ "status": "ok",
+ "note": "variant=Agenor; 审定公布名词库=977; 海峡两岸名词对照库=359; 其他来源数据库=21; 预公布名词数据库=107; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "能动性",
+   "en": "agency",
+   "code": "03.527",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学"
+  },
+  {
+   "cn": "代理",
+   "en": "agency",
+   "code": "05.03.046",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_发行与经营_发行交易"
+  },
+  {
+   "cn": "代理",
+   "en": "agency",
+   "code": "09.0568",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_项目管理与工程管理_采购与合同管理"
+  },
+  {
+   "cn": "代办站",
+   "en": "agency",
+   "code": "06.127",
+   "standard": "公路交通科技名词",
+   "subject": "公路交通科学技术_汽车运输"
+  },
+  {
+   "cn": "行动者",
+   "en": "agent",
+   "code": "03.698",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学"
+  },
+  {
+   "cn": "主体",
+   "en": "agent",
+   "code": "11.045",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_生态工业系统工程"
+  },
+  {
+   "cn": "代理人",
+   "en": "agent",
+   "code": "05.004",
+   "standard": "经济学名词",
+   "subject": "经济学_制度经济学"
+  },
+  {
+   "cn": "智能体",
+   "en": "agent",
+   "code": "08.0146",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_多智能体系统"
+  },
+  {
+   "cn": "代理商",
+   "en": "agent",
+   "code": "08.0570",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_市场营销_营销组合"
+  },
+  {
+   "cn": "代理人",
+   "en": "agent",
+   "code": "01.1016",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_企业理论"
+  },
+  {
+   "cn": "施事",
+   "en": "agent",
+   "code": "04.220",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_句法篇章"
+  },
+  {
+   "cn": "本体",
+   "en": "tenor",
+   "code": "08.117",
+   "standard": "语言学名词",
+   "subject": "语言学_修辞学_修辞方法"
+  },
+  {
+   "cn": "代理",
+   "en": "agent",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "主体",
+   "en": "agent",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "代理人",
+   "en": "agent",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "年龄常模",
+   "en": "age norm",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "发泡剂",
+   "en": "blowing agent\",\"foam agent\",\"inflating agent",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "络合剂",
+   "en": "complex agent\",\"complexing agent",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "脱模剂",
+   "en": "mold-release agent\",\"parting agent\",\"release agent\",\"stripping agent",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "报关代理行",
+   "en": "customs agency",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "代理背书",
+   "en": "agency endorsement",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "代理期票",
+   "en": "agency bill",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "代理手续费，佣金",
+   "en": "agency commission",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "托收代理行",
+   "en": "collection agency",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "道德责任",
+   "en": "Moral agency",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "抗心律失常药",
+   "en": "Antiarrhythmic agents",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "用户代理",
+   "en": "user agent",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "膨松剂",
+   "en": "Leavening agent",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "行为智能体",
+   "en": "behavioral agent",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "离散剂",
+   "en": "chaotropic agent",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "大前帆",
+   "en": "genoa jib",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "国际能源署",
+   "en": "International Energy Agency",
+   "code": null,
+   "standard": "外语中文译写规范部际联席会议专家委员会",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据交易机构",
+   "en": "data trading agency",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《连通2020目标议程》",
+   "en": "Connect 2020 Agenda",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "国际原子能机构",
+   "en": "International Atomic Energy Agency",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "国际原子能机构",
+   "en": "International Atomic Energy Agency",
+   "code": null,
+   "standard": "外语中文译写规范部际联席会议专家委员会",
+   "subject": "其他"
+  },
+  {
+   "cn": "代理人",
+   "en": "agent",
+   "code": "4.0569999999999995",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医疗人际关系"
+  },
+  {
+   "cn": "全身中毒性毒剂",
+   "en": "systemic agents",
+   "code": "10.5.7",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_化学武器医学防护学_化学战剂"
+  },
+  {
+   "cn": "志愿团体",
+   "en": "voluntary agency",
+   "code": "2.5.2.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_群体和组织_组织化群体"
+  },
+  {
+   "cn": "机构督导",
+   "en": "agency supervisor",
+   "code": "4.4.11.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作实习"
+  },
+  {
+   "cn": "免疫抑制剂",
+   "en": "immunosuppressive agents",
+   "code": "1.7.1.5",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_治疗药物"
+  },
+  {
+   "cn": "刺激剂",
+   "en": "irritant agents",
+   "code": "16.3.4.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事毒理学_军用化学物质毒理安全评价"
+  },
+  {
+   "cn": "结晶剂",
+   "en": "crystallizing agents",
+   "code": "6.2.13",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品添加剂_食品工业用加工助剂"
+  },
+  {
+   "cn": "脱皮剂",
+   "en": "peeling agents",
+   "code": "6.2.22",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品添加剂_食品工业用加工助剂"
+  },
+  {
+   "cn": "议程设置",
+   "en": "agenda setting",
+   "code": "10.1.2.1.2",
+   "standard": "社会医学名词",
+   "subject": "政策与策略"
+  },
+  {
+   "cn": "脱毛剂",
+   "en": "depilatory agents",
+   "code": "6.2.23",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品添加剂_食品工业用加工助剂"
+  },
+  {
+   "cn": "住宿式服务机构",
+   "en": "residential care agency，accommodation-service agency",
+   "code": "4.4.3.10",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施"
+  },
+  {
+   "cn": "抗寄生虫剂",
+   "en": "antiparasitic agent",
+   "code": "2.2.2.4",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品化学性危害因素"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
