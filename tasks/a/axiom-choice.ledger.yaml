@@ -226,9 +226,9 @@ segments:
     source: |-
       Although the usefulness of *AC* quickly become clear, doubts about its soundness remained. These doubts were reinforced by the fact that it had certain strikingly counterintuitive consequences. The most spectacular of these was Banach and Tarski’s *paradoxical decompositions of the sphere* (Banach and Tarski 1924)[^banach-1924]: any solid sphere can be split into finitely many pieces which can be reassembled to form two solid spheres of the same size; and any solid sphere can be split into finitely many pieces in such a way as to enable them to be reassembled to form a solid sphere of arbitrary size. (See Wagon 1993.)[^wagon-1993]
     step1: |-
-      尽管 *AC* 的用处很快变得清楚，对其可靠性的怀疑仍然存在。这些怀疑因该公理有一些引人注目的反直觉后果而得到加强。其中最壮观的是巴拿赫与塔斯基的**球体悖论分解**（Banach and Tarski 1924）[^banach-1924]：任意实心球都可以分成有限多块，这些块可以重新拼合成两个同样大小的实心球；并且任意实心球都可以分成有限多块，使它们能重新拼合成一个任意大小的实心球。（见 Wagon 1993。）[^wagon-1993]
+      尽管 *AC* 的用处很快变得清楚，对其可靠性的怀疑仍然存在。这些怀疑因该公理有一些引人注目的反直觉后果而得到加强。其中最壮观的是巴拿赫与塔尔斯基的**球体悖论分解**（Banach and Tarski 1924）[^banach-1924]：任意实心球都可以分成有限多块，这些块可以重新拼合成两个同样大小的实心球；并且任意实心球都可以分成有限多块，使它们能重新拼合成一个任意大小的实心球。（见 Wagon 1993。）[^wagon-1993]
     step2: |-
-      尽管 *AC* 的用处很快变得清楚，对其可靠性的怀疑仍然存在。这些怀疑因该公理有一些引人注目的反直觉后果而得到加强。其中最壮观的是巴拿赫与塔斯基的**球体悖论分解**（Banach and Tarski 1924）[^banach-1924]：任意实心球都可以分成有限多块，这些块可以重新拼合成两个同样大小的实心球；并且任意实心球都可以分成有限多块，使它们能重新拼合成一个任意大小的实心球。（见 Wagon 1993。）[^wagon-1993]
+      尽管 *AC* 的用处很快变得清楚，对其可靠性的怀疑仍然存在。这些怀疑因该公理有一些引人注目的反直觉后果而得到加强。其中最壮观的是巴拿赫与塔尔斯基的**球体悖论分解**（Banach and Tarski 1924）[^banach-1924]：任意实心球都可以分成有限多块，这些块可以重新拼合成两个同样大小的实心球；并且任意实心球都可以分成有限多块，使它们能重新拼合成一个任意大小的实心球。（见 Wagon 1993。）[^wagon-1993]
   - id: 28
     kind: body
     source: |-
@@ -265,11 +265,11 @@ segments:
       | 1904 | 罗素认识到 *AC* 即**乘法公理**：任意非零基数的积非零。 |
       | 1914 | 豪斯多夫从 *AC* 推出不可测集的存在，其“悖论式”形式是：球的 $\bfrac{1}{2}$ 与它的 $\bfrac{1}{3}$ 全等（Hausdorff 1914）[^hausdorff-1914]。 |
       | 1922 | 弗兰克尔引入“置换方法”，以确立 *AC* 相对于带原子的集合论系统的独立性（Fraenkel 1922）[^fraenkel-1922]。 |
-      | 1924 | 巴拿赫与塔斯基在豪斯多夫工作的基础上，从 *AC* 推出他们的球体悖论分解。 |
+      | 1924 | 巴拿赫与塔尔斯基在豪斯多夫工作的基础上，从 *AC* 推出他们的球体悖论分解。 |
       | 1926 | 希尔伯特在其证明论中引入“超限”或“epsilon”公理，作为 *AC* 的一个版本。（Hilbert 1926）[^hilbert-1926]。 |
       | 1936 | 林登鲍姆与莫斯托夫斯基扩展并改进了弗兰克尔的置换方法，并证明了若干弱于 *AC* 的集合论陈述的独立性。（Lindenbaum and Tarski 1938）[^lindenbaum-1938] |
       | 1935–38 | 哥德尔确立 *AC* 相对于集合论公理的一致性（Gödel 1938a, 1938b, 1939, 1940）[^gödel-1938a]。 |
-      | 1950s | 门德尔松、舍恩菲尔德与施佩克各自独立地使用置换方法，确立 *AC* 的各种形式相对于一个既无原子、又缺少基础公理的集合论系统的独立性（Mendelson 1956, 1958, Shoenfield 1955, Specker 1957）[^mendelson-1956][^shoenfield-1955][^specker-1957]。 |
+      | 1950s | 门德尔松、舍恩菲尔德与斯佩克各自独立地使用置换方法，确立 *AC* 的各种形式相对于一个既无原子、又缺少基础公理的集合论系统的独立性（Mendelson 1956, 1958, Shoenfield 1955, Specker 1957）[^mendelson-1956][^shoenfield-1955][^specker-1957]。 |
       | 1963 | 保罗·科恩证明 *AC* 相对于集合论标准公理的独立性（Cohen 1963, 1964）[^cohen-1963]。 |
     step2: |-
       | 1904/1908 | 策梅洛引入集合论公理，明确表述 *AC* 并用它证明良序定理，由此激起轩然大波。 |
@@ -277,11 +277,11 @@ segments:
       | 1904 | 罗素认识到 *AC* 即**乘法公理**：任意非零基数的积非零。 |
       | 1914 | 豪斯多夫从 *AC* 推出不可测集的存在，其“悖论式”形式是：球的 $\bfrac{1}{2}$ 与它的 $\bfrac{1}{3}$ 全等（Hausdorff 1914）[^hausdorff-1914]。 |
       | 1922 | 弗兰克尔引入“置换方法”，以确立 *AC* 相对于带原子的集合论系统的独立性（Fraenkel 1922）[^fraenkel-1922]。 |
-      | 1924 | 巴拿赫与塔斯基在豪斯多夫工作的基础上，从 *AC* 推出他们的球体悖论分解。 |
+      | 1924 | 巴拿赫与塔尔斯基在豪斯多夫工作的基础上，从 *AC* 推出他们的球体悖论分解。 |
       | 1926 | 希尔伯特在其证明论中引入“超限”或“epsilon”公理，作为 *AC* 的一个版本。（Hilbert 1926）[^hilbert-1926]。 |
       | 1936 | 林登鲍姆与莫斯托夫斯基扩展并改进了弗兰克尔的置换方法，并证明了若干弱于 *AC* 的集合论陈述的独立性。（Lindenbaum and Tarski 1938）[^lindenbaum-1938] |
       | 1935–38 | 哥德尔确立 *AC* 相对于集合论公理的一致性（Gödel 1938a, 1938b, 1939, 1940）[^gödel-1938a]。 |
-      | 1950s | 门德尔松、舍恩菲尔德与施佩克各自独立地使用置换方法，确立 *AC* 的各种形式相对于一个既无原子、又缺少基础公理的集合论系统的独立性（Mendelson 1956, 1958, Shoenfield 1955, Specker 1957）[^mendelson-1956][^shoenfield-1955][^specker-1957]。 |
+      | 1950s | 门德尔松、舍恩菲尔德与斯佩克各自独立地使用置换方法，确立 *AC* 的各种形式相对于一个既无原子、又缺少基础公理的集合论系统的独立性（Mendelson 1956, 1958, Shoenfield 1955, Specker 1957）[^mendelson-1956][^shoenfield-1955][^specker-1957]。 |
       | 1963 | 保罗·科恩证明 *AC* 相对于集合论标准公理的独立性（Cohen 1963, 1964）[^cohen-1963]。 |
   - id: 31
     kind: body
@@ -384,9 +384,9 @@ segments:
     source: |-
       It was also observed by Gödel (1964) (and, independently, by Myhill and Scott 1971, Takeuti 1963 and Post 1951)[^myhill-1971] that a simpler proof of the relative consistency of *AC* can be formulated in terms of *ordinal definability*. If we write $\rD(X)$ for the set of all subsets of $X$ which are first-order definable in the structure $(X, \in)$, then the class OD of *ordinal definable sets* is defined to be the union $\bigcup_{\alpha\in \Ord} D(V_{\alpha})$. The class HOD of *hereditarily ordinal definable sets* consists of all sets $a$ for which $a$, the members of $a$, the members of members of $a$, … etc., are all ordinal definable. It can then be shown that the structure (HOD, $\in$) is a model of **ZF** + *AC* , from which the relative consistency of *AC* with **ZF** again follows.[^note-8]
     step1: |-
-      哥德尔（1964）还注意到（迈希尔与斯科特 1971、竹内外史 1963 与波斯特 1951 也独立注意到）[^myhill-1971]，*AC* 相对一致性的一个更简单证明可以用**序数可定义性**表述。若用 $\rD(X)$ 表示 $X$ 的所有在结构 $(X, \in)$ 中一阶可定义的子集之集，则**序数可定义集**的类 OD 定义为并 $\bigcup_{\alpha\in \Ord} D(V_{\alpha})$。**遗传序数可定义集**的类 HOD 由所有这样的集合 $a$ 组成：$a$、$a$ 的成员、$a$ 的成员的成员……等等全是序数可定义的。于是可以证明结构 (HOD, $\in$) 是 **ZF** + *AC* 的模型，由此再次得到 *AC* 相对于 **ZF** 的一致性。[^note-8]
+      哥德尔（1964）还注意到（Myhill与斯科特 1971、竹内外史 1963 与波斯特 1951 也独立注意到）[^myhill-1971]，*AC* 相对一致性的一个更简单证明可以用**序数可定义性**表述。若用 $\rD(X)$ 表示 $X$ 的所有在结构 $(X, \in)$ 中一阶可定义的子集之集，则**序数可定义集**的类 OD 定义为并 $\bigcup_{\alpha\in \Ord} D(V_{\alpha})$。**遗传序数可定义集**的类 HOD 由所有这样的集合 $a$ 组成：$a$、$a$ 的成员、$a$ 的成员的成员……等等全是序数可定义的。于是可以证明结构 (HOD, $\in$) 是 **ZF** + *AC* 的模型，由此再次得到 *AC* 相对于 **ZF** 的一致性。[^note-8]
     step2: |-
-      哥德尔（1964）还注意到（迈希尔与斯科特 1971、竹内外史 1963 与波斯特 1951 也独立注意到）[^myhill-1971]，*AC* 相对一致性的一个更简单证明可以用**序数可定义性**表述。若用 $\rD(X)$ 表示 $X$ 的所有在结构 $(X, \in)$ 中一阶可定义的子集之集，则**序数可定义集**的类 OD 定义为并 $\bigcup_{\alpha\in \Ord} D(V_{\alpha})$。**遗传序数可定义集**的类 HOD 由所有这样的集合 $a$ 组成：$a$、$a$ 的成员、$a$ 的成员的成员……等等全是序数可定义的。于是可以证明结构 (HOD, $\in$) 是 **ZF** + *AC* 的模型，由此再次得到 *AC* 相对于 **ZF** 的一致性。[^note-8]
+      哥德尔（1964）还注意到（Myhill与斯科特 1971、竹内外史 1963 与波斯特 1951 也独立注意到）[^myhill-1971]，*AC* 相对一致性的一个更简单证明可以用**序数可定义性**表述。若用 $\rD(X)$ 表示 $X$ 的所有在结构 $(X, \in)$ 中一阶可定义的子集之集，则**序数可定义集**的类 OD 定义为并 $\bigcup_{\alpha\in \Ord} D(V_{\alpha})$。**遗传序数可定义集**的类 HOD 由所有这样的集合 $a$ 组成：$a$、$a$ 的成员、$a$ 的成员的成员……等等全是序数可定义的。于是可以证明结构 (HOD, $\in$) 是 **ZF** + *AC* 的模型，由此再次得到 *AC* 相对于 **ZF** 的一致性。[^note-8]
   - id: 44
     kind: body
     source: |-
@@ -641,13 +641,13 @@ segments:
       - Every commutative ring with identity has a maximal ideal. This was proved equivalent to *AC* by Hodges 1979.
     step1: |-
       - **吉洪诺夫定理**（1930）：紧拓扑空间之积是紧的。这在 Kelley 1950 中被证明等价于 *AC*。但对紧豪斯多夫空间，它等价于 **BPI**（见下文），因而弱于 *AC*。
-      - **勒文海姆—斯科伦—塔斯基定理**（Löwenheim 1915, Skolem 1920, Tarski and Vaught 1957）[^tarski-1957]：具有无限基数 $\kappa$ 的模型的一阶语句，也具有任意无限基数 $\mu$ 的模型，只要 $\mu \le \kappa$。塔斯基证明它等价于 *AC*。
+      - **勒文海姆—斯科伦—塔尔斯基定理**（Löwenheim 1915, Skolem 1920, Tarski and Vaught 1957）[^tarski-1957]：具有无限基数 $\kappa$ 的模型的一阶语句，也具有任意无限基数 $\mu$ 的模型，只要 $\mu \le \kappa$。塔尔斯基证明它等价于 *AC*。
       - **克莱因—米尔曼定理**：实赋范线性空间的对偶空间中的单位球 $B$ 有端点，即不是 $B$ 中任何线段的内部点的点。这在 Bell and Fremlin 1972a 中被证明等价于 *AC*。该文表明：给定任意非空集的索引族 $\sA$，$\sA$ 上的选择函数与由 $\sA$ 构造的某个实赋范线性空间对偶单位球的端点之间存在自然双射。
       - 每个分配格都有极大理想。这在 Klimovsky 1958 中被证明等价于 *AC*，对集合格则在 Bell and Fremlin 1972 中证明。
       - 每个含单位元的交换环都有极大理想。这被 Hodges 1979 证明等价于 *AC*。
     step2: |-
       - **吉洪诺夫定理**（1930）：紧拓扑空间之积是紧的。这在 Kelley 1950 中被证明等价于 *AC*。但对紧豪斯多夫空间，它等价于 **BPI**（见下文），因而弱于 *AC*。
-      - **勒文海姆—斯科伦—塔斯基定理**（Löwenheim 1915, Skolem 1920, Tarski and Vaught 1957）[^tarski-1957]：具有无限基数 $\kappa$ 的模型的一阶语句，也具有任意无限基数 $\mu$ 的模型，只要 $\mu \le \kappa$。塔斯基证明它等价于 *AC*。
+      - **勒文海姆—斯科伦—塔尔斯基定理**（Löwenheim 1915, Skolem 1920, Tarski and Vaught 1957）[^tarski-1957]：具有无限基数 $\kappa$ 的模型的一阶语句，也具有任意无限基数 $\mu$ 的模型，只要 $\mu \le \kappa$。塔尔斯基证明它等价于 *AC*。
       - **克莱因—米尔曼定理**：实赋范线性空间的对偶空间中的单位球 $B$ 有端点，即不是 $B$ 中任何线段的内部点的点。这在 Bell and Fremlin 1972a 中被证明等价于 *AC*。该文表明：给定任意非空集的索引族 $\sA$，$\sA$ 上的选择函数与由 $\sA$ 构造的某个实赋范线性空间对偶单位球的端点之间存在自然双射。
       - 每个分配格都有极大理想。这在 Klimovsky 1958 中被证明等价于 *AC*，对集合格则在 Bell and Fremlin 1972 中证明。
       - 每个含单位元的交换环都有极大理想。这被 Hodges 1979 证明等价于 *AC*。
@@ -919,9 +919,9 @@ segments:
     source: |-
       The derivation of Excluded Middle from *AC* was first given by Diaconescu (1975) in a category-theoretic setting. His proof employed essentially different ideas from the proof presented above; in particular, it makes no use of extensionality principles but instead employs the idea of the quotient of an object (or set) by an equivalence relation. It is instructive to formulate Diaconescu’s argument within **IST**. To do this, let us call a subset $U$ of a set $A$ *detachable* if there is a subset $V$ of $A$ for which $U \cap V = \varnothing$ and $U \cup V = A$. Diaconescu’s argument amounts to a derivation from **AC4** (see above) of the assertion that every subset of a set is detachable, from which Excluded Middle readily follows. Here it is.
     step1: |-
-      从 *AC* 推出排中律，最早由迪亚科内斯库（1975）在范畴论背景中给出。他的证明使用了与上述证明实质上不同的想法；特别是，它没有使用外延性原理，而是使用了对象（或集合）对一个等价关系的商这一想法。在 **IST** 内表述迪亚科内斯库的论证是有启发性的。为此，我们把集合 $A$ 的子集 $U$ 称为**可分离的**，如果存在 $A$ 的子集 $V$，使得 $U \cap V = \varnothing$ 且 $U \cup V = A$。迪亚科内斯库的论证相当于从 **AC4**（见上文）推出如下断言：集合的每个子集都是可分离的；由此容易推出排中律。论证如下。
+      从 *AC* 推出排中律，最早由Diaconescu（1975）在范畴论背景中给出。他的证明使用了与上述证明实质上不同的想法；特别是，它没有使用外延性原理，而是使用了对象（或集合）对一个等价关系的商这一想法。在 **IST** 内表述Diaconescu的论证是有启发性的。为此，我们把集合 $A$ 的子集 $U$ 称为**可分离的**，如果存在 $A$ 的子集 $V$，使得 $U \cap V = \varnothing$ 且 $U \cup V = A$。Diaconescu的论证相当于从 **AC4**（见上文）推出如下断言：集合的每个子集都是可分离的；由此容易推出排中律。论证如下。
     step2: |-
-      从 *AC* 推出排中律，最早由迪亚科内斯库（1975）在范畴论背景中给出。他的证明使用了与上述证明实质上不同的想法；特别是，它没有使用外延性原理，而是使用了对象（或集合）对一个等价关系的商这一想法。在 **IST** 内表述迪亚科内斯库的论证是有启发性的。为此，我们把集合 $A$ 的子集 $U$ 称为**可分离的**，如果存在 $A$ 的子集 $V$，使得 $U \cap V = \varnothing$ 且 $U \cup V = A$。迪亚科内斯库的论证相当于从 **AC4**（见上文）推出如下断言：集合的每个子集都是可分离的；由此容易推出排中律。论证如下。
+      从 *AC* 推出排中律，最早由Diaconescu（1975）在范畴论背景中给出。他的证明使用了与上述证明实质上不同的想法；特别是，它没有使用外延性原理，而是使用了对象（或集合）对一个等价关系的商这一想法。在 **IST** 内表述Diaconescu的论证是有启发性的。为此，我们把集合 $A$ 的子集 $U$ 称为**可分离的**，如果存在 $A$ 的子集 $V$，使得 $U \cap V = \varnothing$ 且 $U \cup V = A$。Diaconescu的论证相当于从 **AC4**（见上文）推出如下断言：集合的每个子集都是可分离的；由此容易推出排中律。论证如下。
   - id: 100
     kind: body
     source: |-
@@ -1295,9 +1295,9 @@ segments:
     source: |-
       The author and editors would like to thank Jesse Alama for carefully reading this piece and making many valuable suggestions for improvement.
     step1: |-
-      作者与编辑感谢杰西·阿拉马仔细阅读本文并提出许多有价值的改进建议。
+      作者与编辑感谢Jesse Alama仔细阅读本文并提出许多有价值的改进建议。
     step2: |-
-      作者与编辑感谢杰西·阿拉马仔细阅读本文并提出许多有价值的改进建议。
+      作者与编辑感谢Jesse Alama仔细阅读本文并提出许多有价值的改进建议。
   - id: 139
     kind: note
     source: |-
@@ -1433,9 +1433,9 @@ segments:
     source: |-
       [^note-15]: The idea of the proof goes back to Goodman and Myhill 1978, which was itself built on a result of Diaconescu 1975. See below.
     step1: |-
-      [^note-15]: 该证明的想法可追溯到 Goodman and Myhill 1978，而后者本身建立在迪亚科内斯库 1975 年的一个结果之上。见下文。
+      [^note-15]: 该证明的想法可追溯到 Goodman and Myhill 1978，而后者本身建立在Diaconescu 1975 年的一个结果之上。见下文。
     step2: |-
-      [^note-15]: 该证明的想法可追溯到 Goodman and Myhill 1978，而后者本身建立在迪亚科内斯库 1975 年的一个结果之上。见下文。
+      [^note-15]: 该证明的想法可追溯到 Goodman and Myhill 1978，而后者本身建立在Diaconescu 1975 年的一个结果之上。见下文。
   - id: 154
     kind: note
     source: |-
