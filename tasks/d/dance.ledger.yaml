@@ -3,262 +3,344 @@ slug: dance
 params:
   model: "GLM-5.3-Flash（ZCode 主会话直译）"
   temperature: 0.2
-  batch_segments: all
-  rate_limit_s: 0
-  timeout_s: 60
+  batch_
 segments:
   - id: 1
     kind: body
     source: |-
       What counts as “philosophy” of dance? This is a vexed methodological question. The array of academic approaches undertaken to promote serious investigation into the distinctive nature, and human importance, of dancing evidences the complexity of capturing movement in words. Some writers utilize tools familiar from Anglo-American analytic philosophical traditions. Others develop conceptual resources from existentialism, phenomenology and, more recently, somaesthetics. Many equally rigorous ways of addressing philosophically resonant aspects of dance are pursued by thinkers who start from embodied or practice-based foundations. Thought-provoking analyses incorporate insights and methods used by dance studies scholars, sociologists, historians, educators, anthropologists, ethnographers, practitioners, dance critics, evolutionary biologists, cognitive scientists, and psychologists. As a field, philosophy of dance has grown to encompass an array of resources needed to understand the varied cultural and personal dimensions of dancing.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      何以算作舞蹈的"哲学"？这是一个棘手的方法论问题。学术界为推进对舞蹈之独特性质及其对人类之重要性的严肃考察而采取的种种进路，表明了用文字捕捉运动的复杂性。一些作者使用英美分析哲学传统中为人熟悉的工具。另一些人从存在主义、现象学以及晚近的身体美学（somaesthetics）中发展概念资源。许多同样严格的、处理舞蹈中能与哲学发生共鸣之面向的方式，由那些从具身或实践基础出发的思想家所追求。发人深省的分析吸纳了舞蹈研究学者、社会学家、历史学家、教育学家、人类学家、民族志研究者、从业者、舞蹈评论家、演化生物学家、认知科学家与心理学家的洞见与方法。作为一个领域，舞蹈哲学已经成长到足以涵盖理解舞蹈之多样文化维度与个人维度所需的一整套资源。
+    step2: |-
+      什么样的探究才算舞蹈的"哲学"？这是一个令人困扰的方法论问题。围绕舞蹈的独特性质及其对人类的意义，学术界已展开多种严肃考察；进路之纷繁，本身就说明用文字捕捉身体运动何其困难。有的作者沿用英美分析哲学传统的工具，有的从存在主义、现象学以及晚近的身体美学（somaesthetics）中汲取概念资源，还有许多思想家从具身或实践的根基出发，以同样严格的方式处理舞蹈中那些能与哲学产生共鸣的面向。舞蹈研究学者、社会学家、历史学家、教育学家、人类学家、民族志研究者、从业者、舞蹈评论家、演化生物学家、认知科学家与心理学家的洞见和方法，都被纳入这些发人深省的分析之中。作为一个领域，舞蹈哲学已成长为一门足以理解舞蹈之多重文化维度与个人维度的学问，并掌握了为此所需的一整套资源。
   - id: 2
     kind: body
     source: |-
       The potential for this area of inquiry is enormous. This is, in part, because dance engages many branches of philosophy, including metaphysics, epistemology, the philosophy of mind, ethical theory, aesthetics, and the philosophy of art. The topic is also intellectually rich because humans have danced throughout all of recorded history for artistic, educational, therapeutic, social, political, religious and other purposes. In addition, there are dance-like undertakings on the margins of what many regard as dance-proper, such as digital/animated dance or forms of competitive dancing analogous to sports like gymnastics or ice-skating (see McFee 1992). As a result, the question of what counts as “dance” can arise readily alongside the question of what counts as the philosophy *of* dance, generating both philosophical and meta-philosophical opportunities for sustained deliberation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一探究领域的潜能是巨大的。这部分是因为舞蹈牵涉哲学的许多分支，包括形而上学、认识论、心灵哲学、伦理学理论、美学与艺术哲学。这一论题在智识上也很丰富，因为人类在有记载的整个历史中一直在跳舞，出于艺术的、教育的、治疗的、社会的、政治的、宗教的以及其他目的。此外，在许多人视为严格意义舞蹈的边缘地带，也存在类似舞蹈的事业，例如数字/动画舞蹈，或类似体操、滑冰等体育项目的竞技性舞蹈形式（见 McFee 1992）。因此，"什么算作舞蹈"的问题很容易与什么算作舞蹈*的*哲学的问题一并出现，为持续的深思同时生成哲学与元哲学的机会。
+    step2: |-
+      这一领域的探究潜力极大。原因之一是舞蹈牵动着哲学的众多分支：形而上学、认识论、心灵哲学、伦理学理论、美学以及艺术哲学。另一个原因是智识上的丰厚：自有文字记载以来，人类出于艺术、教育、治疗、社交、政治、宗教等种种目的一直在跳舞。此外还有许多处于"严格意义舞蹈"边缘的类舞蹈活动，例如数字/动画舞蹈，或堪比体操、滑冰等体育项目的竞技舞蹈形式（见 McFee 1992）。于是，"什么算作舞蹈"的问题会随时与"什么算作舞蹈*的*哲学"相伴而生，为持续的思考同时提供哲学与元哲学的双重契机。
   - id: 3
     kind: body
     source: |-
       The challenge for any scholar in dance philosophy is to draw together a multiplicity of approaches and concerns so they are in productive dialogue with one another. While there are marked differences in academic style across the field, all participants have an intellectual stake in illuminating our dancerly lives so we might better understand just *what* dance is and appreciate *why* it matters. The primary aim of this entry is to introduce several basic families of concern that recur across disciplinary domains and to offer resources for further research at the end of each section.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      舞蹈哲学对任何学者的挑战在于，把多种多样的进路与关切汇聚起来，使它们彼此处于富有成效的对话之中。尽管该领域内部学术风格差异显著，所有参与者都有共同的智识关切：照亮我们富有舞者身份的生活，从而更好地理解舞蹈究竟是*什么*，并领会它*为何*重要。本词条的首要目标是介绍几个在各学科领域中反复出现的基本关切家族，并在每节末尾为进一步研究提供资源。
+    step2: |-
+      舞蹈哲学对学者的挑战，在于把繁多的进路与关切汇聚到富有成效的对话之中。这一领域内部学术风格差异显著，但所有参与者都有一份共同的智识投入：照亮我们以舞者身份度过的生活，从而更好地理解舞蹈究竟是*什么*、又*为何*重要。本词条的首要目标，是介绍几组在各学科领域中反复出现的基本关切，并在每节末尾为进一步研究提供文献资源。
   - id: 4
     kind: body
     source: |-
       For more on the relationship between philosophy and dance, as well as detailed treatments of questions about dance philosophy and interdisciplinarity, see Boyce 2013, 2021; Burt 2009; Carroll 2003; Challis 1999; Cohen 1962; Colebrook 2005; Conroy 2012, 2019; cf. Cull Ó Maoilearca 2018; Cvejić 2015b; DeFrantz 2005; Farinas and Van Camp 2021b; Foster, Rothfield, and Dunagan 2005; Fraleigh 1999; cf. Franko 2014a; Friedman and Bresnahan 2021; Levin 1983; T. Lewis 2007; McFee 2013a; Pakes 2019b; Redfern 1983; Sheets-Johnstone 1984; Shusterman 2005; Sparshott 1982a, 1982b, 1983, 1988, 1993, 1995, 2004; and Van Camp 1996a, 2009, 2021a.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于哲学与舞蹈之间关系的更多内容，以及关于舞蹈哲学与跨学科性问题的详细讨论，见 Boyce 2013, 2021；Burt 2009；Carroll 2003；Challis 1999；Cohen 1962；Colebrook 2005；Conroy 2012, 2019；参较 Cull Ó Maoilearca 2018；Cvejić 2015b；DeFrantz 2005；Farinas and Van Camp 2021b；Foster, Rothfield, and Dunagan 2005；Fraleigh 1999；参较 Franko 2014a；Friedman and Bresnahan 2021；Levin 1983；T. Lewis 2007；McFee 2013a；Pakes 2019b；Redfern 1983；Sheets-Johnstone 1984；Shusterman 2005；Sparshott 1982a, 1982b, 1983, 1988, 1993, 1995, 2004；以及 Van Camp 1996a, 2009, 2021a。
+    step2: |-
+      若想进一步了解哲学与舞蹈的关系，以及舞蹈哲学与跨学科性问题的详细讨论，参见 Boyce 2013, 2021；Burt 2009；Carroll 2003；Challis 1999；Cohen 1962；Colebrook 2005；Conroy 2012, 2019；参较 Cull Ó Maoilearca 2018；Cvejić 2015b；DeFrantz 2005；Farinas and Van Camp 2021b；Foster, Rothfield, and Dunagan 2005；Fraleigh 1999；参较 Franko 2014a；Friedman and Bresnahan 2021；Levin 1983；T. Lewis 2007；McFee 2013a；Pakes 2019b；Redfern 1983；Sheets-Johnstone 1984；Shusterman 2005；Sparshott 1982a, 1982b, 1983, 1988, 1993, 1995, 2004；以及 Van Camp 1996a, 2009, 2021a。
   - id: 5
     kind: body
     source: |-
       ## 1. Analytic Approaches to Dance as Art
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1 舞蹈作为艺术的分析进路
+    step2: |-
+      ## 1 舞蹈作为艺术的分析进路
   - id: 6
     kind: body
     source: |-
       Although many dance-related topics have been treated by philosophers of a broadly analytic persuasion, thinkers in this intellectual community have had an overriding interest in dance qua artform. Hence, they have attended primarily to concert or theater dance, and have given sustained thought to three central questions: What is the difference between a movement event that is dance and one that is non-dance? (The definitional question.) What kind of thing is a work of dance art? (The ontological question.) What conditions must be satisfied for the same work of dance art to be performed on multiple occasions? (The identity question.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管许多与舞蹈相关的论题已被持广义分析倾向的哲学家处理过，这一智识共同体中的思想家最突出的兴趣在于舞蹈之为艺术形式。因此，他们主要关注剧场舞蹈，并对三个核心问题给予了持续思考：一个运动事件是舞蹈而另一个是非舞蹈，其间的差别是什么？（定义问题。）舞蹈艺术作品是哪一类东西？（本体论问题。）同一舞蹈艺术作品在多个场合被表演，必须满足什么条件？（同一性问题。）
+    step2: |-
+      许多与舞蹈相关的论题早已进入广义分析取向哲学家的视野，但这一智识共同体最持久的兴趣在于舞蹈之为艺术形式（dance qua artform）本身。因此他们主要关注剧场舞蹈，并围绕三个核心问题持续思考：一个运动事件何以是舞蹈，另一运动事件何以是非舞蹈？（定义问题。）舞蹈艺术作品是哪一类存在物？（本体论问题。）同一件舞蹈艺术作品要在不同场合上演，须满足哪些条件？（同一性问题。）
   - id: 7
     kind: body
     source: |-
       The definitional question preoccupied a number of early contributors to the field of dance philosophy from roughly the 1950s to the 1990s. Their shared goal was to offer an account that could distinguish the dancing in concert performances from other kinds of movement that might be seen on stage and, thereby, to indicate what makes dance, as a form of human moving, special. Well-known suggestions highlighted, among other things, the expressive qualities of the movements performed (Beardsley 1982)[^beardsley-1982], the symbolic potential of the movement performance (Langer 1953a and b; cf. Conroy 2015)[^conroy-2015][^langer-1953a], or the performance’s relationship to artistic institutions and dance art practices (Carroll and Banes 1982)[^carroll-1982]. (See Section 2.) Several influential philosophers of dance, however, resisted the definitional project, arguing that it must suffer from underinclusivity given the wide array of extant dance styles and forms (Sparshott 1988; cf. Sparshott 1995)[^sparshott-1988][^sparshott-1995] or urging that the attempt to offer essentialist definitions is futile (McFee 2021b)[^mcfee-2021b]. In recent decades, attention in so-called “analytic aesthetics” has shifted away from various attempts to define dance and toward explorations that highlight its distinctiveness by emphasizing metaphysical and appreciative issues.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从大约 1950 年代到 1990 年代，定义问题占据着舞蹈哲学领域早期一批贡献者的心思。他们共同的目标是给出一种说明，能够把剧场表演中的舞蹈与其他可能在舞台上看到的运动区分开来，从而指明舞蹈作为人类运动的一种形式何以为特殊。几种著名的建议各自强调：所表演运动的表现性质（Beardsley 1982）[^beardsley-1982]、运动表演的符号潜能（Langer 1953a and b；参较 Conroy 2015）[^conroy-2015][^langer-1953a]，或表演与艺术建制及舞蹈艺术实践的关系（Carroll and Banes 1982）[^carroll-1982]。（见第 2 节。）然而，一些有影响的舞蹈哲学家抵制这一定义工程，认为鉴于现存舞蹈风格与形式之广泛，定义必定失之过窄（Sparshott 1988；参较 Sparshott 1995）[^sparshott-1988][^sparshott-1995]，或主张给出本质主义定义的尝试是徒劳的（McFee 2021b）[^mcfee-2021b]。近几十年来，所谓"分析美学"中的注意力已从各种定义舞蹈的尝试，转向通过强调形而上学与欣赏问题来凸显舞蹈独特性的探究。
+    step2: |-
+      大致从 20 世纪 50 年代到 90 年代，定义问题占据着舞蹈哲学早期一批贡献者的心思。他们共同的追求，是给出一种能把剧场表演中的舞蹈与其他舞台运动区分开来的说明，进而指明舞蹈作为人类运动的一种形式何以为特殊。几种著名主张分别强调：所表演之运动的表现性质（Beardsley 1982）[^beardsley-1982]、运动表演的符号潜能（Langer 1953a and b；参较 Conroy 2015）[^conroy-2015][^langer-1953a]，或表演同艺术建制及舞蹈艺术实践之间的关系（Carroll and Banes 1982）[^carroll-1982]。（见第 2 节。）不过，几位有影响力的舞蹈哲学家抵制这一定义工程：有人认为，现存舞蹈风格与形式过于多样，定义必定失之偏狭（Sparshott 1988；参较 Sparshott 1995）[^sparshott-1988][^sparshott-1995]；有人则干脆断言，一切本质主义定义的尝试注定徒劳（McFee 2021b）[^mcfee-2021b]。近几十年来，所谓"分析美学"的关注点已从各种定义舞蹈的尝试，转向以形而上学与欣赏议题凸显舞蹈之独特性的探究。
   - id: 8
     kind: body
     source: |-
       Those projects that address the ontological question introduced above center on identifying *what kind of thing* the product of dance art-making is—an object, an abstract entity, an event, a more fluid process, or something else. It should be noted, however, that philosophers differ with regard to which aspects of dance as art should be given primacy of place for the purposes of pursuing ontology. Dance art practices recognize an array of metaphysically relevant features that one might aim to accommodate, including the seemingly “commonsense facts” that many works of dance art are repeatable (they can be performed on more than one occasion), underdetermined (they permit of performances that differ qualitatively from one another), created by humans at a certain time in history (they are not eternally existing Forms), and potentially modally flexible (the original dancemaker could have chosen some different intrinsic or identity-constitutive features) (see Carroll 2019; D. Davies 2011 and 2024; McFee 1992, 2011, and 2018; Pakes 2020)[^carroll-2019][^davies-2024][^pakes-2020].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      处理上文引入的本体论问题的那些工程，集中在识别舞蹈艺术制作的产物是*哪一类东西*——一个对象、一个抽象实体、一个事件、一个更流动的过程，还是别的什么。但应当注意，哲学家们对于在追求本体论时舞蹈之为艺术的哪些方面应当占据首位，意见并不一致。舞蹈艺术实践承认一系列形而上学上相关的特征，人们或许力图容纳它们，包括那些看似"常识性的事实"：许多舞蹈艺术作品是可重复的（它们可以在不止一个场合被表演）、欠决定的（它们允许在质上彼此不同的表演）、由人类在历史上某个时刻创造（它们不是永恒存在的型相），并且在模态上潜在可变（原初的舞蹈制作者本可以选择某些不同的内在或构成同一性的特征）（见 Carroll 2019；D. Davies 2011 and 2024；McFee 1992, 2011, and 2018；Pakes 2020）[^carroll-2019][^davies-2024][^pakes-2020]。
+    step2: |-
+      处理上述本体论问题的工程，其核心是识别舞蹈艺术创作的产物属于*哪一类东西*：一个对象？一个抽象实体？一个事件？一个更流动的过程？还是别的什么？不过应当注意，就追求本体论时应当优先考虑舞蹈之为艺术的哪些方面而言，哲学家之间并不一致。舞蹈艺术实践呈现出一系列形而上学上相关的特征，理论者可能想要容纳它们，其中包括一些看似"常识性的事实"：许多舞蹈艺术作品是可重复的（可以在不止一个场合上演）、欠决定的（容许彼此在性质上有所不同的表演）、由人类在历史上某个时刻创造（并非永恒存在的理念），并在模态上潜在可变（舞蹈的原创者本可以选择另一些内在的或构成同一性的特征）（见 Carroll 2019；D. Davies 2011 and 2024；McFee 1992, 2011, and 2018；Pakes 2020）[^carroll-2019][^davies-2024][^pakes-2020]。
   - id: 9
     kind: body
     source: |-
       With considerations such as these in mind, several widely debated ontological accounts of dance qua art have emphasized repeatable choreographic structures. For Nelson Goodman, such structures are typically described as being anchored metaphysically in an actual score for the dance work that specifies its essential features (Goodman 1976; cf. McFee 2012, Pakes 2020, and Van Camp 2019a)[^goodman-1976][^mcfee-2012][^pakes-2020][^van-2019a]. A competing structure-based approach, defended by Graham McFee, argues that works of dance art are types that can be tokened in live performance, where the parameters of the type that constitutes any particular dance artwork are established by an in principle possible score or a work “recipe” (McFee 1992b, 2011b, and 2018)[^mcfee-1992b]. Several more recent accounts depart from the details of McFee’s view, but embrace his core insight that works of dance art are fundamentally “performables” that are also typically multiples, i.e., they are works of art made for performance that can have more than one correct instance. For example, Noël Carroll recasts the ontological question to ask, “What makes something a dance-art-work?” and suggests that the answer lies in the “constitutive purposes” of the choreography as these would be appropriately understood by someone embedded in the particular community for whom the dancemaker creates (Carroll 2019: 74)[^carroll-2019]. Other more metaphysically complex alternatives include accounts that construe dance artworks as indicated action-types answerable to both contemporary danceworld norms and historical considerations (Pakes 2020)[^pakes-2020] or as “Wollheimian types” grounded in dance art appreciative practices (D. Davies 2024)[^davies-2024].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      考虑到这类因素，若干被广泛讨论的舞蹈之为艺术的本体论学说强调可重复的编舞结构。对纳尔逊·古德曼而言，这类结构通常被描述为在形而上学上锚定于舞蹈作品的实际舞谱，该舞谱规定了作品的本质特征（Goodman 1976；参较 McFee 2012、Pakes 2020 与 Van Camp 2019a）[^goodman-1976][^mcfee-2012][^pakes-2020][^van-2019a]。一种由 Graham McFee 捍卫的竞争性基于结构的进路主张，舞蹈艺术作品是这样一些类型，它们可以在现场表演中获得殊例，而构成任何特定舞蹈艺术作品的类型之诸参数，由一份原则上可能的舞谱或一部作品"配方"确立（McFee 1992b, 2011b, and 2018）[^mcfee-1992b]。晚近的几种学说背离了 McFee 观点的细节，但接受其核心洞见，即舞蹈艺术作品根本上是"可表演之物"（performables），而且通常是可多例化的（multiples），即它们是为表演而制作的艺术作品，可以拥有不止一个正确事例。例如，Noël Carroll 重塑了本体论问题，问"什么使某物成为一件舞蹈艺术作品？"，并暗示答案在于编舞的"构成性目的"（constitutive purposes），正如那些内嵌于舞蹈制作者为之创作的特定共同体中的人所恰当理解的那样（Carroll 2019: 74）[^carroll-2019]。其他形而上学上更复杂的备选方案包括：把舞蹈艺术作品构想为被指示的行动类型（indicated action-types），它们既对当代舞蹈界规范负责，也对历史性考量负责（Pakes 2020）[^pakes-2020]，或构想为奠基于舞蹈艺术欣赏实践的"沃尔海姆式类型"（D. Davies 2024）[^davies-2024]。
+    step2: |-
+      基于这类考量，若干广受讨论的舞蹈本体论学说都强调可重复的编舞结构。在纳尔逊·古德曼那里，这类结构在形而上学上被锚定于舞蹈作品的实际舞谱，由舞谱规定作品的本质特征（Goodman 1976；参较 McFee 2012、Pakes 2020 与 Van Camp 2019a）[^goodman-1976][^mcfee-2012][^pakes-2020][^van-2019a]。Graham McFee 捍卫了另一种基于结构的竞争性进路：舞蹈艺术作品是类型，可以在现场表演中获得殊例，而构成任何特定舞蹈艺术作品的那个类型，其参数由一份原则上可能的舞谱或一部作品"配方"来确立（McFee 1992b, 2011b, and 2018）[^mcfee-1992b]。若干较晚近的学说虽在细节上不同于 McFee，却接受他的核心洞见：舞蹈艺术作品根本上是"可表演之物"（performables），且通常是可多例化的（multiples）——即为表演而造的艺术作品，可以有不止一个正确实例。例如，Noël Carroll 把本体论问题重述为"什么使某物成为一件舞蹈艺术作品？"，并主张答案在于编舞的"构成性目的"（constitutive purposes），而这要由内嵌于特定共同体——舞蹈制作者正是为其而创作——的人来恰当地理解（Carroll 2019: 74）[^carroll-2019]。其余形而上学上更复杂的备选方案，包括把舞蹈艺术作品理解为被指示的行动类型（indicated action-types）——它们既须对当代舞蹈界的规范负责，也须对历史性考量负责（Pakes 2020）[^pakes-2020]——或理解为奠基于舞蹈艺术欣赏实践的"沃尔海姆式类型"（D. Davies 2024）[^davies-2024]。
   - id: 10
     kind: body
     source: |-
       Despite their differences, all such approaches are united insofar as they stand in contrast to those adopted by dance philosophers who think that the art-relevant focus of dance might be something other than the structure of the dance “work” construed as some kind of artistic *object*. Such thinkers tend to observe that dance art creations typically lack supplementary texts and are often developed without the use of any written plan (see Franko 1989, 2011a, and 2017; and Pakes 2017)[^franko-1989]. They also note that even when there is a notated score, it is not always used as an “essentialist recipe” for generating future performances as it may, instead, serve as inspiration for a novel theatrical presentation (see Franko 1989)[^franko-1989]. Furthermore, standardized dance notation systems are controversial, and none is used or accepted universally (see Franko 2011a and Van Camp 1998)[^franko-2011a][^van-1998]. Finally, many philosophers begin their theorizing from the belief that what makes dance art *special*, and, therefore, worthy of focused philosophical attention, lies in dance’s bodily, tactile, dynamic, felt, perceived or intuited aspects (sometimes referred to as its kinaesthetic or somatic elements). For these theorists, the central foci of theory and appreciation should be features of performance events and evolving danceworld experiences, rather than static scores or underlying abstract structures. (See Sections 2 and 3.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管彼此有别，所有这类进路的共同点在于：它们与另一些舞蹈哲学家的立场形成对照，后者认为舞蹈的与艺术相关的焦点可能不是被构想为某种艺术*对象*的舞蹈"作品"的结构。这类思想家往往观察到，舞蹈艺术创作通常缺少补充性文本，且常常在没有使用任何书面计划的情况下发展出来（见 Franko 1989, 2011a, and 2017；以及 Pakes 2017）[^franko-1989]。他们还注意到，即便存在记谱的舞谱，它也并不总是被用作生成未来表演的"本质主义配方"，而可能反而作为一次新颖剧场呈现的灵感来源（见 Franko 1989）[^franko-1989]。此外，标准化的舞蹈记谱体系有争议，没有一个被普遍使用或接受（见 Franko 2011a 与 Van Camp 1998）[^franko-2011a][^van-1998]。最后，许多哲学家从如下信念开始其理论化：使舞蹈艺术*特殊*、因而值得集中哲学关注的，是舞蹈的身体性、触觉性、动态性、被感受到的、被知觉的或被直觉到的方面（有时被称为其动觉或身体的要素）。对这些理论家来说，理论与欣赏的核心焦点应当是表演事件与不断演化的舞蹈界经验的特征，而不是静态的舞谱或背后的抽象结构。（见第 2 节与第 3 节。）
+    step2: |-
+      学说彼此有别，但共同点是：它们都对立于另一部分舞蹈哲学家的立场——后者认为，舞蹈与艺术相关的焦点，也许根本不在于把舞蹈"作品"当作某种艺术*对象*来看待的那种结构。持后一种立场的人往往指出：舞蹈艺术创作通常缺少附加文本，也常常在没有书面计划的情况下发展成形（见 Franko 1989, 2011a, and 2017；以及 Pakes 2017）[^franko-1989]；即使存在记谱舞谱，它也未必被当作生成未来表演的"本质主义配方"，反倒可能只是某次新颖剧场呈现的灵感来源（见 Franko 1989）[^franko-1989]；何况标准化的舞蹈记谱体系本身就有争议，没有任何一种得到普遍使用或接受（见 Franko 2011a 与 Van Camp 1998）[^franko-2011a][^van-1998]。此外，许多哲学家的理论化出发点是这样一个信念：舞蹈艺术之所以*特殊*、值得哲学集中关注，正在于舞蹈那些身体的、触觉的、动态的、被感受到的、被知觉到的或被直觉到的方面（有时称为其动觉或身体要素）。对这些理论家而言，理论与欣赏的核心焦点应当是表演事件和不断演化的舞蹈界经验，而非静态舞谱或背后的抽象结构。（见第 2 节与第 3 节。）
   - id: 11
     kind: body
     source: |-
       For more on the general question, “What is dance?”, see D. Carr 1987; Carroll 2003, Copeland and Cohen 1983; McFee 1998a and 2013a; Pakes 2019b; Sparshott 1988; and Van Camp 1981. For more on meaning, expression, authenticity and communication as central or definitive aspects of dance art, see D. Carr 1997; Best 1974; Franko 2014b; Hanna 1983 and 1979 [1987]; Martin 1933a, 1939, and 1946; and Van Camp 1996b. For an extended treatment of the dance art appreciative practices to which an ontological account might aim to be responsive, see D. Davies 2024. See also Meskin 1999 for an alternative view of dancework ontology that holds that dance audiences experience *three* works of art: a choreographic-work, a production-work, and a performance-interpretation work; cf. Thom 2019. For discussion of "dance as text" and a replete history of this idea, see Franko 1993, 2011a, and 2011b; cf. Pakes 2020.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于"什么是舞蹈？"这一一般问题的更多内容，见 D. Carr 1987；Carroll 2003, Copeland and Cohen 1983；McFee 1998a and 2013a；Pakes 2019b；Sparshott 1988；以及 Van Camp 1981。关于意义、表现、本真性与传达作为舞蹈艺术之核心或界定性方面的更多内容，见 D. Carr 1997；Best 1974；Franko 2014b；Hanna 1983 and 1979 [1987]；Martin 1933a, 1939, and 1946；以及 Van Camp 1996b。关于本体论学说可能力求回应的舞蹈艺术欣赏实践的扩展讨论，见 D. Davies 2024。另见 Meskin 1999，其对舞蹈作品本体论提出一种另类观点，认为舞蹈观众体验到的是*三部*艺术作品：一部编舞作品、一部制作作品与一部表演-诠释作品；参较 Thom 2019。关于"作为文本的舞蹈"及这一思想的完整历史，见 Franko 1993, 2011a, and 2011b；参较 Pakes 2020。
+    step2: |-
+      关于"什么是舞蹈？"这一总的问题，参见 D. Carr 1987；Carroll 2003, Copeland and Cohen 1983；McFee 1998a and 2013a；Pakes 2019b；Sparshott 1988；以及 Van Camp 1981。关于意义、表现、本真性与传达如何成为舞蹈艺术的核心或界定性方面，参见 D. Carr 1997；Best 1974；Franko 2014b；Hanna 1983 and 1979 [1987]；Martin 1933a, 1939, and 1946；以及 Van Camp 1996b。想深入了解本体论学说所应回应的舞蹈艺术欣赏实践，参见 D. Davies 2024。另参 Meskin 1999：该文对舞蹈作品本体论另立一说，认为舞蹈观众体验到的其实是*三部*艺术作品——编舞作品、制作作品与表演-诠释作品；参较 Thom 2019。关于"作为文本的舞蹈"及这一观念的完整历史，参见 Franko 1993, 2011a, and 2011b；参较 Pakes 2020。
   - id: 12
     kind: body
     source: |-
       ### 1.1 Problems of Identity and “Re”-Activities
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.1 同一性问题与"再"类活动
+    step2: |-
+      ### 1.1 同一性问题与"再"类活动
   - id: 13
     kind: body
     source: |-
       The ontological question is pressing for many philosophers because it bears directly on a number of other important issues pertaining to dance preservation and dance art appreciation. As mentioned briefly above, there are many potential “problems of identity” for dance that arise in analytic aesthetics, where these are all related to the basic issue of how the numerical identity of any given work is secured across different performances (cf. Fraleigh 2004 for an alternative usage of the word “identity” for dance)[^fraleigh-2004]. One concern is that, as a matter of practice, the occasion on which a dance is composed does not “fix” the creative product for all time. Although dance works are usually known by the name and date of their first performance, subsequent iterations and casts can change structural and qualitative features of the inaugural presentation, sometimes substantially. A related concern is that many dance art creations simply have no notated score. Even for those that are preserved via video or other form of tangible fixation, later performances may still deviate from these frameworks in significant ways.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本体论问题对许多哲学家来说是紧迫的，因为它直接关涉舞蹈保存与舞蹈艺术欣赏中的许多其他重要问题。如上文简要提及的，分析美学中出现了许多针对舞蹈的潜在"同一性问题"，它们都与一个基本问题相关：任何给定作品的数字同一性如何在不同表演之间得到保障（参较 Fraleigh 2004，其对舞蹈的"同一性"一词有另一种用法）[^fraleigh-2004]。一个令人忧虑之处在于，作为实践问题，舞蹈被创作出来的那个场合并不"固定"其创造性产品于一劳永逸。虽然舞蹈作品通常以其首演的名称与日期为人所知，但后续的迭代与演出版可能改变首演呈现的结构性与性质性特征，有时甚至是实质性的改变。一个相关的忧虑是，许多舞蹈艺术创作根本没有记谱舞谱。即使那些通过录像或其他有形固定形式保存下来的作品，后来的表演仍可能以显著的方式偏离这些框架。
+    step2: |-
+      对许多哲学家而言，本体论问题之所以紧迫，是因为它直接关系到舞蹈保存与舞蹈艺术欣赏中的一系列重要议题。上文已简略提及，分析美学中涌现出许多关于舞蹈的"同一性问题"，它们最终都指向同一个基本问题：任何给定作品的数字同一性如何跨越不同表演而得到保障（参较 Fraleigh 2004，其中"同一性"一词另作他用）[^fraleigh-2004]。首先令人不安的是：从实践层面看，舞蹈被创作出来的那个场合，并不能一劳永逸地"固定"这件创造性产品。舞蹈作品虽通常以首演的名称与日期为人所知，但后续的排演与演出版可能改变首演呈现的结构与性质特征，有时改变得还很彻底。与此相关的另一重忧虑是：许多舞蹈艺术创作根本没有记谱舞谱；即便有些作品借助录像或其他有形定着形式得以保存，后来的表演仍可能在重要方面偏离这些框架。
   - id: 14
     kind: body
     source: |-
       There are additional complications to consider. For example, in those relatively rare cases where there is a score from which dance artists work (roughly, as an architect builds from a blueprint), following notated instructions might not produce performances that are *experientially* identifiable as the “same” work of art. Furthermore, a dance notation might function as the jumping-off point from which to make a radically new kind of dance, rather than as a limitation on innovation that constrains future choreographers and dancers. There is also the issue that what a dance “is” in practice, or for purposes of public appreciation, may not be identical to what a dance “is” for purposes of numerical identity and historical preservation. In this way dance is not unlike music (for more on this see S. Davies 1991)[^davies-1991].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      还有其他复杂性需要考虑。例如，在那些相对罕见的、有舞谱可供舞蹈艺术家依据（大致如建筑师依据蓝图建造）的情形中，遵循记谱指示可能产生不出在*体验上*可识别为"同一"艺术作品的表演。此外，舞蹈舞谱可能起到跳板的作用，从中做出一种全新类型的舞蹈，而不是作为一种限制来约束未来的编舞者与舞者。还有一个问题是，舞蹈在实践中"是"什么，或者就公共欣赏而言"是"什么，可能不同于就数字同一性与历史保存而言舞蹈"是"什么。在这一点上，舞蹈与音乐并无不同（关于这一点详见 S. Davies 1991）[^davies-1991]。
+    step2: |-
+      还有别的复杂情形。例如，在相对罕见地存在舞谱、舞蹈艺术家据以工作（大致如同建筑师依据蓝图建造）的情况下，遵循记谱指示未必能产生出在*体验上*仍可识别为"同一件"艺术作品的表演。舞谱还可能充当跳板——据此发展出一种全新类型的舞蹈——而不是一种束缚未来编舞者与舞者创新的限制。此外还有一个问题：舞蹈在实践意义上"是"什么，或者就公共欣赏而言"是"什么，未必等同于就数字同一性与历史保存而言舞蹈"是"什么。在这一点上，舞蹈与音乐颇为相似（关于这一点详见 S. Davies 1991）[^davies-1991]。
   - id: 15
     kind: body
     source: |-
       Another complication arises from the fact that there are different kinds of “re”-activities commonly undertaken in dance, and the distinctions between them are not clear from the way language is used by members of the danceworld. Philosophers of dance, dance studies scholars, and practitioners, for instance, recognize the possibility of re-performing a dance art creation, reviving one that has languished but not fallen prey to the vicissitudes of time and memory, reconstructing a “lost” piece of dance art history from scholarly resources and personal interviews, and reenacting historically important dance moments or ideas by mounting performances that re-visit them in a new way. The possibility of returning to our dance art past under these various descriptions raises a number of questions. Is it desirable to attempt to reconstruct a work, or is it more profitable to reenact important elements of a choreographer’s *oeuvre*? If historical reconstruction aims to recover a forgotten piece of dance history, must it thereby be understood as an enterprise that aims to preserve the numerical identity of the reconstructed work? What is the difference (if any) between revival and reconstruction, and why should dance insiders pursue either of these “re”-activities rather than creating new works of dance art? Can reenactment provide historical knowledge about our dance pasts?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一个复杂性来自这样的事实：舞蹈中通常进行着不同种类的"再"字类活动，而舞蹈界成员的语言用法并未把这些区分弄清楚。例如，舞蹈哲学家、舞蹈研究学者与从业者都承认以下可能性：重新表演一件舞蹈艺术创作；复排一件已经沉寂但尚未沦为时间与记忆之变迁牺牲品的创作；从学术资源与个人访谈出发重建一段"失落的"舞蹈艺术史；以及通过上演以新方式重访历史上重要舞蹈时刻或观念的表演来重现它们。在这些不同描述下回到我们舞蹈艺术过去的可能性提出了一连串问题。试图重建一件作品是可取的吗？还是重现编舞者*oeuvre*（全部作品）中的重要元素更有益？如果历史重建旨在找回一段被遗忘的舞蹈史，它是否因此必须被理解为一项旨在保全所重建作品之数字同一性的事业？复排与重建之间有什么区别（如果有区别的话）？舞蹈界内部人士为何应当从事这两种"再"字类活动中的任何一种，而不去创作新的舞蹈艺术作品？重演能够提供关于我们舞蹈过去的历史知识吗？
+    step2: |-
+      再一类复杂性来自"再"字头活动本身的多样性：舞蹈中常见多种"再"类活动，而舞蹈界成员的日常用语并未把它们区分清楚。例如，舞蹈哲学家、舞蹈研究学者与从业者都承认这样几种可能：重新表演（re-perform）一件舞蹈艺术创作；复排（revive）一件虽已沉寂、却尚未被时间与记忆吞没的作品；依据学术资料与当事人口述重建（reconstruct）一段"失落的"舞蹈艺术史；以及重现（reenact）舞蹈史上重要的时刻或观念——以新的方式编排演出，让它们重新登场。带着这些不同的说法回到舞蹈艺术的过去，就会引出一连串问题：尝试重建一部作品是可取的吗？还是说，重现某位编舞者*oeuvre*（全部作品）中的重要元素更有价值？如果历史重建志在寻回一段被遗忘的舞蹈史，它是否因此必须被理解为以保全所重建作品之数字同一性为目标的事业？复排与重建之间有何区别（倘若确有区别）？舞蹈界内部人士为何要投入这两种"再"类活动中的任何一种，而不去创作新的舞蹈艺术作品？重演能否为我们提供关于舞蹈之过去的历史知识？
   - id: 16
     kind: body
     source: |-
       For detailed treatment of these issues by multiple authors (who are both theorists and practitioners), see anthologies edited by Jordan 2000, Franko 2017, and Main 2017**.** For more on various issues surrounding dance work identity and “re”-activities, see D. Carr 1997; Cohen 1982; Conroy 2013b; Franko 1989 and 2017b; McFee 1994, 1998a, and 2011b; Pakes 2017 and 2020; Rubidge 2000; Sparshott 1988 and 1995; Thomas 2018; and Van Camp 1981 and 2019a. For more on the role of scores in dance, see Armelagos and Sirridge 1978; D. Davies 2011b; Goodman 1976; McFee 2011b and 2018.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于这些问题由多位作者（他们既是理论家也是从业者）所做的详细讨论，见 Jordan 2000、Franko 2017 与 Main 2017 编辑的文集**。**关于舞蹈作品同一性与"再"字类活动诸问题的更多内容，见 D. Carr 1997；Cohen 1982；Conroy 2013b；Franko 1989 and 2017b；McFee 1994, 1998a, and 2011b；Pakes 2017 and 2020；Rubidge 2000；Sparshott 1988 and 1995；Thomas 2018；以及 Van Camp 1981 and 2019a。关于舞谱在舞蹈中作用的更多内容，见 Armelagos and Sirridge 1978；D. Davies 2011b；Goodman 1976；McFee 2011b and 2018。
+    step2: |-
+      关于这些问题的多作者详细讨论（既有理论家也有从业者），参见 Jordan 2000、Franko 2017 与 Main 2017 所编文集**。**关于舞蹈作品同一性与"再"类活动诸议题的更多文献，参见 D. Carr 1997；Cohen 1982；Conroy 2013b；Franko 1989 and 2017b；McFee 1994, 1998a, and 2011b；Pakes 2017 and 2020；Rubidge 2000；Sparshott 1988 and 1995；Thomas 2018；以及 Van Camp 1981 and 2019a。关于舞谱在舞蹈中之作用的更多讨论，参见 Armelagos and Sirridge 1978；D. Davies 2011b；Goodman 1976；McFee 2011b and 2018。
   - id: 17
     kind: body
     source: |-
       ### 1.2 Dance as an Ephemeral Artform
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.2 舞蹈作为一种短暂的艺术形式
+    step2: |-
+      ### 1.2 舞蹈作为一种短暂的艺术形式
   - id: 18
     kind: body
     source: |-
       One feature of dance as a performing art that is often noted, and contributes to the challenge of offering a philosophical answer to the identity question, is that it moves and changes, both during the course of any given performance and over time. A catchall phrase for this sort of impermanence—reflecting the lack of entirely stable art objects in this artistic milieu—is that “dance is an ephemeral art.” While it admits of alternative interpretations (see Conroy 2012; Copeland and Cohen 1983; Copeland 1993; Jollimore 2019; and Pakes 2020)[^conroy-2012][^copeland-1993][^copeland-1983][^jollimore-2019][^pakes-2020], in no case should this common locution be taken to imply that dance art is insubstantial or unserious. Instead, it signals that there is something vital about dance that disappears *as* the dancers perform, and its use is often meant to encourage philosophers to regard this as a significant, or even central, feature of dance qua artform.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      舞蹈作为表演艺术有一个常被提及的特征，它加深了为同一性问题给出哲学回答的难度：无论在任何给定表演的进程中还是随时间推移，舞蹈都在运动与变化。概括这种无常——它反映出这一艺术领域中缺乏完全稳定的艺术对象——的笼统说法是："舞蹈是一门短暂的艺术。"这一惯用语容许不同的解释（见 Conroy 2012；Copeland and Cohen 1983；Copeland 1993；Jollimore 2019；以及 Pakes 2020）[^conroy-2012][^copeland-1993][^copeland-1983][^jollimore-2019][^pakes-2020]，但无论取哪种解释，都不应把它理解为舞蹈艺术空洞或不严肃。它标示的是：舞蹈中有什么至关重要的东西*正当*舞者表演的同时消逝；人们使用这一说法，往往正是想促使哲学家把这看作舞蹈之为艺术形式的显著乃至核心特征。
+    step2: |-
+      舞蹈作为表演艺术有一个常被论及的特征，它恰恰加重了回答同一性问题的哲学难度：无论在任何一场表演的进程中，还是随岁月流逝，舞蹈都处于运动与变化之中。概括这种无常——它反映出这门艺术中不存在完全稳定的艺术对象——的笼统说法是："舞蹈是一门短暂的艺术。"这一惯用语容许多种解读（见 Conroy 2012；Copeland and Cohen 1983；Copeland 1993；Jollimore 2019；以及 Pakes 2020）[^conroy-2012][^copeland-1993][^copeland-1983][^jollimore-2019][^pakes-2020]，但无论取哪一种解读，都不应由此推论舞蹈艺术空洞或轻浮。它真正要标示的是：舞蹈中有某种至关重要的东西*正当*舞者表演时随之消逝；人们使用这个说法，往往正是想促使哲学家把这视为舞蹈之为艺术形式的显著特征，甚至是核心特征。
   - id: 19
     kind: body
     source: |-
       To wit, dance critic Marcia Siegel famously wrote that dance “exists at a perpetual vanishing point” which, for Siegel, means that dance exists in “an event that disappears in the very act of materializing” (1972: 1). She posits that artistic dance escaped the mass marketing of the industrial revolution “precisely because it doesn’t lend itself to any reproduction…” (1972: 5). The most conservative ontological interpretation of Siegel’s claims might be that dance *performances* are one-time, transient events (Conroy 2012)[^conroy-2012]. This, however, would not be a philosophically consquential reading because it is (relatively) uncontroversial that all theatrical performances are events and all events are transient. Hence, what seems to be at stake in describing dance art as ineluctably ephemeral is the idea that its fleetingness is *more significant appreciatively* than is the transience characteristic of the other performing arts, such as music and theater. If this is true, then it will be crucial for every full-blooded philosophical account of dance to address the nature and aesthetic-artistic importance of its fragility.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      具体而言，舞蹈评论家 Marcia Siegel 有一句名言：舞蹈"存在于一个永恒的消逝点上"，对她来说，这意味着舞蹈存在于"一个在物质化的行动中消失的事件"之中（1972: 1）。她提出，艺术舞蹈之所以逃脱了工业革命的大规模市场营销，"恰恰因为它不容许任何复制……"（1972: 5）。对 Siegel 论断最保守的本体论解读或许是：舞蹈*表演*是一次性的、短暂的事件（Conroy 2012）[^conroy-2012]。然而，这不是一个有哲学意义的读法，因为下述观点（相对而言）没有争议：所有剧场表演都是事件，所有事件都是短暂的。因此，把舞蹈艺术描述为不可避免地短暂，其中利害似乎在于这样一种观念：舞蹈的转瞬即逝比起音乐、戏剧等其他表演艺术所特有的短暂性，在欣赏层面上*更重要*。如果这一点为真，那么任何一种充分的舞蹈哲学说明都必须处理舞蹈之脆弱性的本性与审美-艺术重要性。
+    step2: |-
+      具体来说，舞蹈评论家 Marcia Siegel 有一句名言：舞蹈"存在于一个永恒的消逝点上"；在她看来，这意味着舞蹈存在于"一个在物质化的行动中消失的事件"之中（1972: 1）。她进而提出，艺术舞蹈之所以躲过了工业革命的大规模市场营销，"恰恰因为它不容许任何复制……"（1972: 5）。对 Siegel 这一论断最保守的本体论解读也许是：舞蹈*表演*是一次性的、转瞬即逝的事件（Conroy 2012）[^conroy-2012]。但这个读法谈不上有哲学分量，因为下面这点（相对而言）并无争议：一切剧场表演都是事件，而一切事件皆短暂。因此，把舞蹈艺术说成不可避免地短暂，真正利害攸关的似乎是这样一个想法：与音乐、戏剧等其他表演艺术的短暂性相比，舞蹈之转瞬即逝在*欣赏层面上*分量更重。倘若果真如此，那么任何一种完整的舞蹈哲学说明，都必须正面处理舞蹈之脆弱性的本性及其审美-艺术意义。
   - id: 20
     kind: body
     source: |-
       One way to address this challenge is to adopt a negative view of the ephemerality of dance art. To this end, one might argue that dance’s natural tendency to “evaporate” in real time threatens the possibility of presenting the same dance artwork on multiple occasions and, thereby, puts pressure on the idea that dance falls under the “classical paradigm” discussed by D. Davies (2011b) and upheld by Goodman (1976) and McFee (2011b and 2018). Another tactic is to emphasize facts about the practical realities of life in the dance art community. Because dance artists do not trade in writing scores or scripts, and dance practitioners are highly tolerant of making adjustments for both artistic and pragmatic reasons, many dance art creations simply do not survive for very long unless they continue to be performed consistently.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      应对这一挑战的一种方式是对舞蹈艺术的短暂性采取一种否定性观点。为此，有人可能主张：舞蹈在实时中"蒸发"的自然倾向威胁着在多个场合呈现同一舞蹈艺术作品的可能性，从而对舞蹈是否落入 D. Davies（2011b）所讨论、由 Goodman（1976）与 McFee（2011b and 2018）所维护的"经典范式"构成压力。另一种策略是强调舞蹈艺术共同体生活之实际现实的事实。由于舞蹈艺术家并不以书写舞谱或剧本为业，而舞蹈从业者在艺术与务实两方面都高度容忍调整，许多舞蹈艺术创作除非被持续表演，否则根本存续不了多久。
+    step2: |-
+      应对这一挑战的一种方式，是对舞蹈艺术的短暂性采取否定立场。持此立场者可以论证：舞蹈在实时中"蒸发"的自然倾向，威胁着在多个场合呈现同一舞蹈艺术作品的可能性，进而对舞蹈是否落入 D. Davies（2011b）所讨论、并由 Goodman（1976）与 McFee（2011b and 2018）所维护的"经典范式"（classical paradigm）构成压力。另一种策略是强调舞蹈艺术共同体生活的实际情形：舞蹈艺术家并不靠书写舞谱或剧本营生，而舞蹈从业者出于艺术或现实原因都极愿意调整，于是许多舞蹈艺术创作若非被持续表演，根本存续不了多久。
   - id: 21
     kind: body
     source: |-
       A contrary approach takes the ephemeral character of dance to be one of its good-making features. On this positive view, we ought to appreciate, rather than decry, dance’s ever-changing and disappearing nature (Jollimore 2019)[^jollimore-2019]. Defenders of this view often note that ephemerality is a key attribute that makes a performance of a dance into a *vital experience* for both the dance performers and the audience. The positive proposal celebrates the live nature of the dance event and aims to explain why kinesthetic responses to dance art performances could be both appreciatively relevant and viscerally powerful. It also suggests that ephemerality might serve an important aesthetic role for dance insofar as it provides a uniquely robust “you had to be there” theatrical experience. (See Bresnahan 2014a for an account of improvisational artistry in live dance performance consistent with this perspective.)[^bresnahan-2014a] Depending on how it is cashed out, this interpretation of the idea that dance “exists at a perpetual vanishing point” might or might not be tension with contemporary theoretical approaches that regard dance art as in a new era of “post-ephemerality” (Franko 2018b)[^franko-2018b].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一种相反的进路把舞蹈的短暂品格当作其优良特征之一。在这种肯定性观点看来，我们应当欣赏而非哀叹舞蹈不断变化与消逝的本性（Jollimore 2019）[^jollimore-2019]。这一观点的辩护者常常指出，短暂性是一个关键属性，它使一场舞蹈表演对舞者与观众都成为一种*鲜活的体验*。这一肯定性主张赞颂舞蹈事件的现场性，并旨在说明为何对舞蹈艺术表演的动觉回应既与欣赏相关，又具有直击脏腑的力量。它还暗示，短暂性或许在审美上对舞蹈发挥重要作用，因为它提供了一种无比真切的"你必须亲临现场"的剧场体验。（关于一种与此视角相一致的现场舞蹈表演即兴技艺的说明，见 Bresnahan 2014a。）[^bresnahan-2014a]取决于如何落实，对舞蹈"存在于一个永恒的消逝点上"这一观念的这种解读，可能与当代一些把舞蹈艺术视为进入"后短暂性"（post-ephemerality）新时期的理论进路相容，也可能不相容（Franko 2018b）[^franko-2018b]。
+    step2: |-
+      相反的进路则把舞蹈的短暂品格视为其优点之一。在这种肯定性观点看来，对舞蹈不断变化、不断消逝的本性，我们应当欣赏而非哀叹（Jollimore 2019）[^jollimore-2019]。持此观点的人常指出：短暂性正是一个关键属性，它使一场舞蹈表演对舞者与观众都成为一次*鲜活的体验*。这一肯定性主张礼赞舞蹈事件的现场性，并力图说明，为何观众对舞蹈艺术表演的动觉回应既与欣赏相关，又有直击脏腑的力量。它还暗示：短暂性或许在审美上对舞蹈有着重要作用——它提供了一种无可替代的、"你必须亲临现场"（you had to be there）的剧场体验。（与这一视角相容的现场舞蹈即兴技艺说明，见 Bresnahan 2014a。）[^bresnahan-2014a]对舞蹈"存在于一个永恒的消逝点上"这一观念的解读最终如何落实，决定它与当代理论是否相容——有些进路认为舞蹈艺术已进入"后短暂性"（post-ephemerality）的新时期（Franko 2018b）[^franko-2018b]。
   - id: 22
     kind: body
     source: |-
       ## 2. Dance, Action, and Agency
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 舞蹈、行动与能动性
+    step2: |-
+      ## 2 舞蹈、行动与能动性
   - id: 23
     kind: body
     source: |-
       Philosophers of dance frame questions about action and agency in markedly different ways, though most embrace the basic view that dancing is an activity and, therefore, not something that can be done accidentally (see McFee 1992, 2011b, and 2018). Those with an interest in dance as a form of expert action (akin to sports) tend to center their analyses on technical and athletic prowess, as well as on artistic skills like moving with expressivity or grace, and to focus on dance as art (see Montero 2016)[^montero-2016]. Others with an interest in vernacular or communal dance forms explore puzzles that can arise when movers coalesce into temporary dancing communities that seem, for the duration of the dance event, to have an agential component that exceeds, and is distinct from, that of any particular dancer in the group (see Kronsted 2021 and 2023)[^kronsted-2021][^kronsted-2023]. The presumption that dance is not mere physical movement opens up a number of roles for intentional action to play in any philosophical treatment of dance as art or social activity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      舞蹈哲学家以显著不同的方式提出关于行动与能动性的问题，尽管大多数人接受这样一个基本观点：跳舞是一种活动，因而不是可以偶然做出的东西（见 McFee 1992, 2011b, and 2018）。那些对舞蹈作为专家行动形式（类似于体育）感兴趣的人，往往把他们的分析集中在技术与运动才能上，以及富有表现力或优雅地运动这类艺术技能上，并把焦点放在作为艺术的舞蹈上（见 Montero 2016）[^montero-2016]。另一些对通俗或共同体舞蹈形式感兴趣的人，则探讨当运动者聚合成临时的舞蹈共同体时可能出现的难题——这些共同体似乎在舞蹈事件的持续期间，拥有一种超出且不同于群体中任何特定舞者的能动性成分（见 Kronsted 2021 and 2023）[^kronsted-2021][^kronsted-2023]。舞蹈不只是单纯的身体运动，这一预设为有意行动在任何把舞蹈作为艺术或社会活动的哲学处理中发挥作用开辟了许多位置。
+    step2: |-
+      舞蹈哲学家提出行动与能动性问题的方式差别很大，但多数人接受一个基本判断：跳舞是一种活动，因而不是可以偶然做成的事（见 McFee 1992, 2011b, and 2018）。把舞蹈当作专家型行动（类似体育）来关心的人，往往聚焦技术与运动上的造诣，以及富有表现力、优雅移动之类的艺术技能，并把舞蹈作为艺术来研究（见 Montero 2016）[^montero-2016]。另一些关心通俗或社群舞蹈形式的人，则探讨运动者聚成临时舞蹈共同体时出现的难题：在舞蹈事件持续期间，这些共同体似乎拥有一种超出群体中任何单个舞者、也不同于任何单个舞者的能动性成分（见 Kronsted 2021 and 2023）[^kronsted-2021][^kronsted-2023]。"舞蹈不只是单纯的身体运动"这一预设，为有意行动在舞蹈的哲学处理——无论是作为艺术还是作为社会活动——中发挥作用，开辟了广阔空间。
   - id: 24
     kind: body
     source: |-
       One family of philosophical interests is responsive to the definitional question mentioned in Section 1. To this end, one could characterize dance as an artform that involves “action” in a specific way in virtue of its expressive character. Dance historian Selma Jean Cohen (1962) claims that expressiveness is present in all dance, inspiring Monroe C. Beardsley (1982) to argue that this might be a necessary, if not sufficient, condition for dance as art. Borrowing explicitly from action theory, Beardsley notes that one bodily action can, under the right circumstances, *sortally generate* another kind of action. Thus, the act of running can, if conditions are right, become artistically expressive and, thereby, be part of the performance of a dance art creation (see Beardlsey 1982 and Van Camp 1981; cf. Khatchadourian 1978, who argues that dance movements are *not* actions)[^khatchadourian-1978][^van-1981].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有一族哲学兴趣回应第 1 节提到的定义问题。为此，人们可以把舞蹈刻画为一种因其表现性格而以特定方式涉及"行动"的艺术形式。舞蹈史学家 Selma Jean Cohen（1962）主张，表现性存在于一切舞蹈之中，这促使 Monroe C. Beardsley（1982）论证，这可能是舞蹈作为艺术的一个必要条件，即使不是充分条件。Beardsley 明显借用行动理论指出，一个身体行动在适当的环境下可以*按种类生成*另一类行动。因此，跑步的行动在条件合适时可以变得在艺术上有表现力，从而成为舞蹈艺术作品表演的一部分（见 Beardlsey 1982 与 Van Camp 1981；参较 Khatchadourian 1978，后者主张舞蹈运动*不是*行动）[^khatchadourian-1978][^van-1981]。
+    step2: |-
+      有一族哲学关切直接回应第 1 节的定义问题。沿着这条线，可以把舞蹈刻画为一种艺术形式：它凭其表现性格，以特定方式涉及"行动"。舞蹈史学家 Selma Jean Cohen（1962）主张一切舞蹈都有表现性；Monroe C. Beardsley（1982）受此启发，论证这可能是舞蹈之为艺术的必要条件——即便不充分。Beardsley 明确借用行动理论指出：一个身体行动在合适的环境下可以*按种类生成*另一类行动。于是，跑步这一行动在条件合适时可以在艺术上变得富有表现力，从而成为舞蹈艺术作品表演的一部分（见 Beardlsey 1982 与 Van Camp 1981；参较 Khatchadourian 1978——后者主张舞蹈运动*不是*行动）[^khatchadourian-1978][^van-1981]。
   - id: 25
     kind: body
     source: |-
       A famous alternative that also addresses definition, broadly construed, is offered by Susanne K. Langer (1953b), who holds that dance as art is a symbol-making endeavor. For Langer, dance’s symbolic character, or “primary illusion”, is what she calls “virtual power” or gesture, in contrast to virtual time (for music), virtual space (for the plastic arts) or the illusion of life (for some poetry and some drama). This semiotic theory implicates action in both the creation and performance of dance artworks and suggests that dance art is constituted of much more intentionally rich ingredients than mere movements or strings of choreographic sequences. Sondra Horton Fraleigh (1996) offers a different conceptual approach, but maintains with other authors considered in this section that dance is necessarily expressive and transitive *action*. (See Meskin 1999 for more on dances as action sequences rather than mere movements. See Carroll and Banes 1982 for a critique of Beardsley’s theory of dance as expressive action.)[^carroll-1982][^meskin-1999]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个也处理广义定义的著名替代方案由 Susanne K. Langer（1953b）提出，她认为舞蹈作为艺术是一种制造符号的事业。对 Langer 来说，舞蹈的符号性格或"基本幻象"，是她所称的"虚拟力"或姿态，相对于（音乐的）虚拟时间、（造型艺术的）虚拟空间或生命幻象（某些诗歌与某些戏剧）。这一符号学理论把行动牵涉进舞蹈艺术作品的创作与表演之中，并暗示舞蹈艺术由比单纯运动或编舞序列的串接远为富有意图的成分构成。Sondra Horton Fraleigh（1996）提供了一种不同的概念进路，但与本节考虑的其他作者一道，坚持舞蹈是必然有表现力的、传递性的*行动*。（关于舞蹈作为行动序列而非单纯运动的更多内容，见 Meskin 1999。关于对 Beardsley 表现性行动舞蹈理论的批评，见 Carroll and Banes 1982。）[^carroll-1982][^meskin-1999]
+    step2: |-
+      一个同样回应广义定义问题的著名替代方案来自 Susanne K. Langer（1953b）：舞蹈作为艺术是一种制造符号的事业。在 Langer 看来，舞蹈的符号性格亦即其"基本幻象"（primary illusion），是她所说的"虚拟力"（virtual power）或姿态——与音乐的虚拟时间、造型艺术的虚拟空间、某些诗歌与戏剧的生命幻象相对。这套符号学理论把行动牵入舞蹈艺术作品的创作与表演两方，并暗示：构成舞蹈艺术的成分，远比单纯的运动或编舞序列的串接更富于意图。Sondra Horton Fraleigh（1996）提供了另一种概念进路，但与本节讨论的其他作者一样坚持：舞蹈必然是具有表现性的、及物的*行动*。（关于舞蹈作为行动序列而非单纯运动的进一步讨论，见 Meskin 1999。对 Beardsley 表现性行动舞蹈理论的批评，见 Carroll and Banes 1982。）[^carroll-1982][^meskin-1999]
   - id: 26
     kind: body
     source: |-
       Another set of concerns about action in dance relates more readily to the ontological question (see Section 1). For instance, Anna Pakes’ view of dance works as indicated or initiated action-types appeals to action to articulate what kind of things such artworks *are* at the most fundamental metaphysical level (Pakes 2020)[^pakes-2020]. Pakes agrees that action is a necessary feature of dance in general (2013) and, with Aaron Meskin (1999), urges that the embodiment of dance in physical, intentional events renders works of dance art better construed as created action-structures than eternal types or Platonic Forms. Considerations about the embodied nature of dancing also incline Pakes to be wary of the idea that there could be such a thing as purely “conceptual dance”, i.e., a dance artwork in which the actions that constitute the dancing are merely a means to some further artistic-intellectual end (Pakes 2019a)[^pakes-2019a]. A distinct, but obliquely related, topic in this domain is how to understand the *normativity* embedded in dance art as the product of intentional actions undertaken in the appropriate contexts, issuing from the right kind of psychological states (McFee 2021b)[^mcfee-2021b].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于舞蹈中行动的另一组关切与本体论问题（见第 1 节）的关联更为直接。例如，Anna Pakes 把舞蹈作品视为被指示或被发起的行动类型的观点，诉诸行动来阐明这些艺术作品在最基本的形而上学层面上*是*哪一类东西（Pakes 2020）[^pakes-2020]。Pakes 同意行动一般而言是舞蹈的必要特征（2013），并与 Aaron Meskin（1999）一道主张，舞蹈在身体性的、有意图的事件中的具身化，使舞蹈艺术作品更宜被理解为被创造出来的行动结构，而不是永恒的类型或柏拉图式理念。关于跳舞之具身性质的考量，也使 Pakes 警惕纯粹"概念舞蹈"的可能性，即其中的行动仅仅是通往某种更远的艺术-智识目的之手段的舞蹈艺术作品（Pakes 2019a）[^pakes-2019a]。这一领域中一个不同但间接相关的论题，是如何理解舞蹈艺术中嵌入的*规范性*，后者是那些在适当语境中发端于恰当心理状态的、有意图的行动的产物（McFee 2021b）[^mcfee-2021b]。
+    step2: |-
+      关于舞蹈中行动的另一组关切，与本体论问题（见第 1 节）的关联更直接。例如，Anna Pakes 把舞蹈作品看作被指示或被发起的行动类型（indicated or initiated action-types），并诉诸行动来阐明这类艺术作品在最基本的形而上学层面上*是*什么（Pakes 2020）[^pakes-2020]。Pakes 同意行动是舞蹈的必要特征（2013），并与 Aaron Meskin（1999）一道主张：舞蹈具身于身体性的、有意图的事件之中，因此把舞蹈艺术作品理解为被创造的行动结构，比理解为永恒的类型或柏拉图式理念更恰当。跳舞的具身性质也促使 Pakes 对"纯粹概念舞蹈"的可能性保持警惕——那是指这样一种舞蹈艺术作品：构成舞蹈的行动只是通往某种更远的艺术-智识目的的手段（Pakes 2019a）[^pakes-2019a]。这个领域还有一个不同但间接相关的论题：舞蹈艺术中嵌入的*规范性*（normativity）——作为在适当语境中、从恰当心理状态出发的有意行动的产物——该如何理解（McFee 2021b）[^mcfee-2021b]。
   - id: 27
     kind: body
     source: |-
       Other contemporary dance philosophers regard the minded *agency* involved in creating choreography, performing dance, or both, as a primary area of philosophical interest. Often their accounts are connected to normative, epistemic and ontological commitments about what dance is and why it matters. Many such theorists (including Bresnahan 2014a, 2017a, and 2019b; Kronsted 2020 and 2023; Merritt 2015; and Montero 2016)[^bresnahan-2014a][^kronsted-2023][^merritt-2015][^montero-2016] utilize tools from both analytic and phenomenological traditions, coupled with insights from research in the cognitive sciences. (See Section 4.) Some attend to the activities and agency of audience members qua appreciators, but most focus on the intentional and embodied activities of dancers.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一些当代舞蹈哲学家把创造编舞、表演舞蹈或两者兼有的心智性*能动性*视为首要的哲学兴趣领域。他们的说明常与关于舞蹈是什么、为何重要的规范性、认识性与本体论承诺相连。许多这类理论家（包括 Bresnahan 2014a, 2017a, and 2019b；Kronsted 2020 and 2023；Merritt 2015；以及 Montero 2016）[^bresnahan-2014a][^kronsted-2023][^merritt-2015][^montero-2016]同时利用分析传统与现象学传统的工具，并结合认知科学研究的洞见。（见第 4 节。）有些理论家关注作为欣赏者的观众成员的活动与能动性，但大多数聚焦舞者有意图的、具身的活动。
+    step2: |-
+      另一些当代舞蹈哲学家则把创造编舞、表演舞蹈（或两者兼具）时的心智性*能动性*（agency）当作首要的哲学兴趣所在。他们的学说往往与关于舞蹈是什么、舞蹈为何重要的规范性、认识论与本体论承诺交织在一起。许多这类理论家（包括 Bresnahan 2014a, 2017a, and 2019b；Kronsted 2020 and 2023；Merritt 2015；以及 Montero 2016）[^bresnahan-2014a][^kronsted-2023][^merritt-2015][^montero-2016]同时调用分析传统与现象学传统的工具，并吸纳认知科学研究的洞见。（见第 4 节。）其中一些关注观众成员作为欣赏者的活动与能动性，但多数聚焦舞者有意图的、具身的活动。
   - id: 28
     kind: body
     source: |-
       It is helpful to keep in mind that three disctinct, though not mutually exclusive, kinds of agency are often explored in connection with dance performers. First, there is a “thin” sense of agency that simply distinguishes dancing persons from, say, Boston Dynamic robots on the grounds that the former, but not the latter, execute movements under intentional descriptions (McFee 2018)[^mcfee-2018]. Second, there is a “thicker” sense of agency that tracks the degree to which dancers are afforded various kinds of opportunities to make free decisions that express their intentionality, and unique personalities, as they perform (Bresnahan 2014a)[^bresnahan-2014a]. Third, there is a phenomenon one might call “mixed” agency that refers to cases in which dancers have the conflicted experience of being both the authors of their movements and of losing executive control to a partner or larger group (Kronsted 2021 and 2023)[^kronsted-2021][^kronsted-2023].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      牢记下述内容是有帮助的：与舞蹈表演者相关，人们常探讨三种彼此不同（尽管并非互斥）的能动性。第一，有一种"薄的"能动性含义，它仅仅把跳舞的人与比如说波士顿动力机器人区分开来，理由是前者而非后者是在有意描述下执行运动的（McFee 2018）[^mcfee-2018]。第二，有一种"较厚的"能动性含义，它追踪舞者在表演时被给予各种机会、以作出表达其意图性与独特个性的自由决定的程度（Bresnahan 2014a）[^bresnahan-2014a]。第三，有一种或可称为"混合的"能动性的现象，指舞者既是其运动的作者、又对一个舞伴或更大群体失去执行控制而体验冲突的那些情形（Kronsted 2021 and 2023）[^kronsted-2021][^kronsted-2023]。
+    step2: |-
+      有益的做法是记住：围绕舞蹈表演者，人们常探讨三种能动性，它们彼此不同，但并不互斥。第一种是"薄的"（thin）能动性：它只是把跳舞的人与比方说波士顿动力的机器人区分开来——前者在有意的描述下执行运动，后者则不然（McFee 2018）[^mcfee-2018]。第二种是"较厚的"能动性：它追踪的是，舞者在表演中被给予多大程度的机会，去作出那些表达其意图性与独特个性的自由决定（Bresnahan 2014a）[^bresnahan-2014a]。第三种或可称为"混合的"（mixed）能动性：指舞者既是自身运动的作者、又对一个舞伴或更大群体失去执行控制，从而体验到内在冲突的情形（Kronsted 2021 and 2023）[^kronsted-2021][^kronsted-2023]。
   - id: 29
     kind: body
     source: |-
       For more on dance agency and intentional action see Bunker, Pakes and Rowell 2013; D. Carr 1987; J. Carr 2013; Conroy 2021; Noland 2009; and Sheets-Johnstone 1981, 1999, 2011, and 2012.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于舞蹈能动性与有意行动的更多内容，见 Bunker, Pakes and Rowell 2013；D. Carr 1987；J. Carr 2013；Conroy 2021；Noland 2009；以及 Sheets-Johnstone 1981, 1999, 2011, and 2012。
+    step2: |-
+      关于舞蹈能动性与有意行动的更多文献，参见 Bunker, Pakes and Rowell 2013；D. Carr 1987；J. Carr 2013；Conroy 2021；Noland 2009；以及 Sheets-Johnstone 1981, 1999, 2011, and 2012。
   - id: 30
     kind: body
     source: |-
       ### 2.1 Choreography, Authorship, and Copyright
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.1 编舞、作者身份与版权
+    step2: |-
+      ### 2.1 编舞、作者身份与版权
   - id: 31
     kind: body
     source: |-
       In an extension of the thicker sense of agency articulated above, Van Camp (1980) holds that, for purposes of art-critical judgment and artistic appreciation, it is sometimes the case that the dancer “creates” and is not limited to merely interpreting the dance that is viewed. Dancers often supply structural and stylistic elements in the course of rehearsing and presenting a dance piece that were neither specified, nor provided by, the choreographer during the compositional process. If these additions are artistically significant, then what the dancer contributes might be better understood as a kind of dancerly “creation” than taken to be a mere performance “interpretation” of an already completed work.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      作为对上文阐明的较厚含义能动性的延伸，Van Camp（1980）主张，就艺术批评判断与艺术欣赏的目的而言，有时情况是这样的：舞者"创造"了舞蹈，而不局限于仅仅诠释所见之舞。舞者在排练和呈现舞蹈作品的过程中常常提供结构与风格元素，它们既未被编舞者规定，也未被编舞者提供。如果这些添加具有艺术上的重要性，那么舞者所贡献的东西，与其被当作对一件已完成作品的单纯表演"诠释"，不如被理解为一种舞者式的"创造"。
+    step2: |-
+      把上文所说的"较厚"含义的能动性再推进一步：Van Camp（1980）主张，就艺术批评判断与艺术欣赏而言，有时舞者是在"创造"舞蹈，而不只是诠释眼前之舞。舞者在排练和呈现作品的过程中，常常补入编舞者既未规定、也未提供的结构与风格元素。倘若这些添补在艺术上举足轻重，那么舞者的贡献与其说是对已完成作品的表演"诠释"，不如说是一种舞者式的"创造"。
   - id: 32
     kind: body
     source: |-
       This suggestion is opposed by McFee (2011b, 2013c and 2018), who argues that works of dance art are *authored* by choreographers but *embodied* by dancers to render the dancemaker’s creative choices visible to audiences. (See also Chris Challis 1999.)[^challis-1999] On the choreographer-as-sole-dancework-creator view, the dancer’s role is both instrumental and subsidiary to the dancemaker’s vision. Furthermore, on this account, a dancer’s area of expertise qua embodier is the activity of dancing, not dance-art-making. It follows from this that, while dancers contribute the raw material for dance performances, they are more like skilled technicians or artisans than author-artists.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一建议受到 McFee（2011b, 2013c and 2018）的反对，他主张舞蹈艺术作品由编舞者*署名创作*（authored），由舞者*具身化*（embodied），以使舞蹈制作者的创作选择对观众可见。（另见 Chris Challis 1999。）[^challis-1999]按照编舞者作为舞蹈作品唯一创造者的观点，舞者的角色既是工具性的，又从属于舞蹈制作者的构想。此外，按照这一说明，舞者作为具身化者的专长领域是跳舞的活动，而非舞蹈艺术制作。由此推知，虽然舞者为舞蹈表演提供原材料，但他们更像熟练的技术人员或工匠，而不是作者-艺术家。
+    step2: |-
+      这一主张遭到 McFee（2011b, 2013c and 2018）的反对。他主张：舞蹈艺术作品由编舞者*署名创作*（authored），由舞者*具身化*（embodied），后者使舞蹈制作者的创作选择向观众显现。（另见 Chris Challis 1999。）[^challis-1999]按这种"编舞者作为舞蹈作品唯一创造者"的观点，舞者的角色既是工具性的，又从属于舞蹈制作者的构想。而且在这套说明下，舞者作为具身化者的专长领域是跳舞这一活动，而非舞蹈艺术制作。由此可以推出：舞者虽然为舞蹈表演提供原材料，但他们更接近熟练的技术人员或工匠，而非作者型艺术家。
   - id: 33
     kind: body
     source: |-
       Two points are important to clarify this view. First, it does not entail that choreographers cannot dance their own works; but it does maintain that, in their role *as dancers* of works they have created, they are to be assessed as interpreters rather than makers. Second, it recognizes that dancers often contribute substantially to the choreographic and qualitative contours of the works we see on stage, but holds that these kinds of contributions are insufficient to render the performers “co-authors” with the choreographer. This is because it is the dancemaker, rather than the dancer, who ultimately decides what elements of the work will be regarded as necessary and what aspects will remain underdetermined, thereby providing those who embody the work on stage opportunities to exercise interpretive license in performance.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有两点对于澄清这一观点是重要的。第一，它并不蕴含编舞者不能亲自跳他们自己的作品；但它确实主张，在*作为舞者*表演其所创作品的角色中，他们应当作为诠释者而非制作者来评价。第二，它承认舞者常常对我们所见作品之编舞与性质轮廓有实质贡献，但主张这些类型的贡献不足以使表演者成为与编舞者并列的"共同作者"。这是因为，最终决定作品中哪些元素将被视为必然、哪些方面将保持欠决定的，是舞蹈制作者而非舞者，从而为那些在舞台上具身化作品的人提供了在表演中行使诠释许可的机会。
+    step2: |-
+      有两点有助于澄清这一观点。第一，它并不否认编舞者可以亲自跳自己创作的作品；但它确实主张：当他们*作为舞者*表演自己创作的作品时，应当按诠释者而非制作者来评价。第二，它承认舞者常常对台上作品的编舞与性质轮廓作出实质贡献，但坚持这类贡献不足以让表演者成为编舞者的"共同作者"（co-authors）。理由在于：最终决定作品中哪些元素被当作必然、哪些方面保持欠决定的，是舞蹈制作者而非舞者——正是这种决定，为在舞台上具身化作品的人留出了在表演中行使诠释许可的空间。
   - id: 34
     kind: body
     source: |-
       This view has been criticized in various ways for neglecting the artistic significance of the performers’ role in making and performing dances (see Alpert 2016; Bresnahan 2013; and Pakes 2020)[^alpert-2016][^bresnahan-2013][^pakes-2020]. It has also been suggested that the dancer might be rightly regarded as a co-author (with the choreographer) of a different kind of artistic product, the “performed work”, a concatenation of the performable crafted by the dancemaker and the performance interpretation created by the dancers (see Thom 2019)[^thom-2019]. McFee (2018) bolsters his controversial account with the idea that *authorship* of dance artworks is, and should be, attributable only to those who bear both generative and artistic responsibility for them. This comes close to, yet stops short of, equating authorial credit for dances with intellectual property rights. It is worth noting, therefore, that it is by no means the case (particularly in the U.S.) that those who create works of dance art are the persons given public credit for, or granted legal copyright over, them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一观点因忽视表演者在制作与表演舞蹈中的艺术重要性而受到各种批评（见 Alpert 2016；Bresnahan 2013；以及 Pakes 2020）[^alpert-2016][^bresnahan-2013][^pakes-2020]。也有人提出，舞者或许可以被恰当地视为另一种艺术产品——"被表演的作品"——的共同作者（与编舞者一道），后者是舞蹈制作者制作的可表演之物与舞者创造的表演诠释的串接（见 Thom 2019）[^thom-2019]。McFee（2018）以如下观念强化其有争议的说明：舞蹈艺术作品的*作者身份*属于、且应当只属于那些对作品同时负有生成性责任与艺术性责任的人。这一说法接近于把舞蹈的作者性功劳等同于知识产权，但又止步于此。因此值得指出的是：创作舞蹈艺术作品的人恰恰就是被给予公开功劳或被授予法律版权的人，这种情况绝非必然（尤其在美国）。
+    step2: |-
+      这一观点因忽视表演者在舞蹈创作与表演中的艺术意义而受到多方面批评（见 Alpert 2016；Bresnahan 2013；以及 Pakes 2020）[^alpert-2016][^bresnahan-2013][^pakes-2020]。也有人建议：舞者或许可以被恰当地当作另一种艺术产品——"被表演的作品"（performed work）——的共同作者（与编舞者并列）；这种产品是舞蹈制作者制作的可表演之物与舞者创造的表演诠释的串接（见 Thom 2019）[^thom-2019]。McFee（2018）用如下观念来加固他那有争议的立场：舞蹈艺术作品的*作者身份*（authorship）属于、且应当只属于那些对作品同时承担生成性责任与艺术性责任的人。这个说法与"把舞蹈的作者功劳等同于知识产权"仅一步之遥，但终究止步于此。因此值得指出：舞蹈艺术作品的创作者与获得公开署名或法定版权的人未必是同一批人——在美国尤其如此。
   - id: 35
     kind: body
     source: |-
       For more on creative decision-making and choreography in dance see Cvejić 2015a and 2017; Foster 2011; and Melrose 2017. For an article on video choreography see Salzer and Baer 2015. Cf. S. Davies 1991 for a discussion of whether creative additions to a “thin” work of art can “thicken” it. For more on issues of authorship in dance and copyright, see Kraut 2010, 2011 and 2016; Pakes 2020; and Van Camp 1994. For a book on dance, disability and the law see Whatley et al. 2018.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于舞蹈中创造性决策与编舞的更多内容，见 Cvejić 2015a and 2017；Foster 2011；以及 Melrose 2017。关于视频编舞的一篇文章见 Salzer and Baer 2015。参较 S. Davies 1991，其讨论了对一件"薄的"艺术作品的创造性添加能否使它"变厚"。关于舞蹈作者身份与版权问题的更多内容，见 Kraut 2010, 2011 and 2016；Pakes 2020；以及 Van Camp 1994。关于舞蹈、残障与法律的一本书见 Whatley et al. 2018。
+    step2: |-
+      关于舞蹈中的创造性决策与编舞，参见 Cvejić 2015a and 2017；Foster 2011；以及 Melrose 2017。讨论视频编舞的文章，见 Salzer and Baer 2015。参较 S. Davies 1991：该文讨论对一件"薄的"艺术作品的创造性添加能否使之"变厚"。关于舞蹈中的作者身份与版权问题，参见 Kraut 2010, 2011 and 2016；Pakes 2020；以及 Van Camp 1994。讨论舞蹈、残障与法律的专著，见 Whatley et al. 2018。
   - id: 36
     kind: body
     source: |-
       ### 2.2 Dance Improvisation
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2 舞蹈即兴
+    step2: |-
+      ### 2.2 舞蹈即兴
   - id: 37
     kind: body
     source: |-
       “Improvisation” in dance often refers to the agency and intentional action of dance-makers and performers (who might or might not be the same people) rather than to the *result* of their activity. Three kinds of improvisation in theater dance, as articulated by Curtis Carter, are often discussed (Carter 2000: 182)[^carter-2000]: (1) embellishments where set choreography persists, (2) improvisation as spontaneous free movement for use in established choreography, and (3) improvisation for its own sake brought to a high level of performance. An example of (1) is a case in which a dance performer is allowed to amplify existing movements (doing a triple pirouette in place of a double, for example) or permitted to add a stylistic flourish (such as an extra flick of the wrist or tilt of the head). An example of (2) is a sitution in which no choreography has been provided for eight bars of music and the dancers are instructed to move as they wish in this compositional gap. Finally, (3) covers cases of what D. Davies (2011b) calls a “work performance”, that is, situations in which a dance work is choreographed by the dancers *while* dancing. It also includes cases where either the whole performance, or a substantial part of it, is improvised from start to finish. Dances comprised of Steve Paxton’s “contact improvisation”, for example, could count as improvisation in this third sense (see Paxton 1975 and 1981)[^paxton-1975][^paxton-1981].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      舞蹈中的"即兴"常常指舞蹈制作者与表演者（他们可能是也可能不是同一批人）的能动性与有意行动，而非其活动的*结果*。Curtis Carter 阐明的剧场舞蹈中的三种即兴常被讨论（Carter 2000: 182）[^carter-2000]：（1）在既定编舞持续存在时的装饰性发挥；（2）作为自发的自由运动的即兴，用于既定编舞之中；（3）为即兴本身而做的即兴，达到高度的表演水平。（1）的一个例子是：允许舞蹈表演者放大既有的运动（例如以三圈单足旋转替代两圈），或允许其添加风格性的花饰（例如手腕多抖一下或头部多倾一下）。（2）的一个例子是：八小节的音乐没有提供编舞，舞者被指示在这个创作空档中随意运动。最后，（3）涵盖 D. Davies（2011b）所称"作品表演"的情形，即舞蹈作品由舞者在*跳舞的同时*加以编舞的情形。它还包括整场表演或其中相当一部分从头到尾即兴的情形。例如，由 Steve Paxton 的"接触即兴"构成的舞蹈可以算作这第三种意义上的即兴（见 Paxton 1975 and 1981）[^paxton-1975][^paxton-1981]。
+    step2: |-
+      舞蹈中的"即兴"（improvisation）常常指舞蹈制作者与表演者——二者可能是也可能不是同一批人——的能动性与有意行动，而非其活动的*结果*。Curtis Carter 区分了剧场舞蹈中的三种即兴，经常被援引（Carter 2000: 182）[^carter-2000]：（1）在既定编舞保持不变时的装饰性发挥；（2）作为自发自由运动的即兴，嵌入既定编舞之中；（3）以即兴本身为目的、被提升到高度表演水平的即兴。（1）的例子：允许舞者放大既有动作（比如把两圈单足旋转改成三圈），或允许其添一笔风格性的花饰（比如手腕多抖一下、头部多倾一下）。（2）的例子：某八小节音乐没有编舞，舞者受命在这个创作空档里随意舞动。最后，（3）涵盖 D. Davies（2011b）所说的"作品表演"（work performance）：舞蹈作品由舞者在*跳舞的同时*编创出来。它也包括整场表演或其中相当一部分从头至尾即兴的情形。例如，由 Steve Paxton 的"接触即兴"（contact improvisation）构成的舞蹈，就属于这第三种意义上的即兴（见 Paxton 1975 and 1981）[^paxton-1975][^paxton-1981]。
   - id: 38
     kind: body
     source: |-
       Danielle Goldman (2010) offers critical analysis of the idea of “freedom” implicit in the second kind of improvisation. She suggests that we examine social and historical constraints on the genuine possibility of “freedom”, since creative liberty cannot exist in oppressive cultural conditions where prohibitive social and physical barriers prevail or exert pressure. Goldman thus suggests an alternative conception of improvisation as
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Danielle Goldman（2010）对第二种即兴中隐含的"自由"观念提供了批判性分析。她建议我们考察对"自由"之真正可能性的社会与历史约束，因为创造性自由不可能存在于压迫性的文化条件之下，在那里禁止性的社会与身体障碍盛行或施加压力。Goldman 因此提出一种替代性的即兴构想，即：
+    step2: |-
+      Danielle Goldman（2010）对第二种即兴中暗含的"自由"观念作了批判性分析。她提醒我们检视社会与历史条件对"自由"之真实可能性的约束：在压迫性的文化环境里，禁令式的社会与身体障碍无处不在、无时不施压，创造性的自由无从谈起。由此，Goldman 给出另一种即兴构想，即：
   - id: 39
     kind: body
     source: |-
       > a rigorous mode of making oneself ready for a range of potential situations…an incessant preparation, grounded in the present while open to the next moment’s possible actions and constraints. (2010: 142)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 一种让自己为多种潜在情势做准备的严格模式……一种不间断的准备，扎根于当下，同时对下一时刻可能的行动与约束保持开放。（2010: 142）
+    step2: |-
+      > 一种使自己为种种潜在情势做好准备的严格方式……一种不间断的准备：立足于当下，同时又向下一刻可能的行动与约束敞开。（2010: 142）
   - id: 40
     kind: body
     source: |-
       Susan Leigh Foster (2003) shares Goldman’s view that it is the moment immediately *before* an actual dance movement occurs that lends a distinctive aesthetic quality to dance improvisation when used in art-presentational contexts. “[I]t is,” she claims,“this suspense-filled plenitude of the not-quite-known that gives live performance its special brilliance” (2003: 4). She also offers a phenomenological account of the kind of agency involved in dance improvisation, equating the lived experience of improvising with the use of a “middle voice” in which a dancer finds herself in a flow of movement that occupies an intermediate position between deliberative choice-making and passive direction.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Susan Leigh Foster（2003）与 Goldman 共享如下观点：正是在实际舞蹈运动发生*之前*的那个时刻，赋予在艺术呈现语境中使用的舞蹈即兴一种独特的审美品质。她主张："［正是］这种对尚未全然知晓之物的充满悬念的丰盈，赋予现场表演其特殊的光彩"（2003: 4）。她还对舞蹈即兴所涉及的那类能动性提供了一个现象学说明，把即兴的生活体验等同于"中动语态"（middle voice）的运用，其中舞者发现自己身处一种运动的流之中，该流占据着深思性的选择制定与被动指引之间的中间位置。
+    step2: |-
+      Susan Leigh Foster（2003）在一点上与 Goldman 所见相同：正是实际舞蹈动作发生*之前*的那个时刻，赋予艺术呈现语境中的舞蹈即兴一种独特的审美品质。她主张："［正是］这种对尚未全然知晓之物的、充满悬念的丰盈，赋予现场表演其特殊的光彩"（2003: 4）。她还就舞蹈即兴所涉及的能动性给出了现象学说明：即兴的生活体验（lived experience）如同"中动语态"（middle voice）的运用——舞者发现自己身处一股运动之流，其位置介于深思的选择制定与被动的被指引之间。
   - id: 41
     kind: body
     source: |-
       Dance philosophers have identified other forms of dance improvisation that do not fit neatly into Carter’s three categories. Kent de Spain (2003), for example, draws attention to a kind of improvisation practiced by dancers to achieve a movement-based somatic state. Somatic improvisation, or the results of such improvisational exercises, may be included in a theater performance for an audience, but need not be. Constance Valis Hill (2003) includes “challenge dance” performances, stemming from the African-American tradition of dance “battles”, where the goal is to win an ever-escalating competition of skill and style. Like somatic improvisation, challenge dance improvisation can be offered for audience appreciation in a concert context, but need not be—it often takes place in social and street settings for pure entertainment or socio-political purposes. In addition, Aili Bresnahan (2014a) defends the claim that *all* live dance performance involves improvisational artistry, and argues that the ineluctably improvisatory nature of artistic dancing can be regarded as a form of embodied and extended agency (continuous with 4-E accounts advanced in the philosophy of mind, esp. Clark 2011)[^clark-2011].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      舞蹈哲学家已经识别出其他一些不能整齐地归入 Carter 三范畴的舞蹈即兴形式。例如，Kent de Spain（2003）提请人们注意舞者为了达到一种基于运动的身体状态而练习的一种即兴。身体学的即兴，或这类即兴练习的结果，可以被纳入为观众的剧场表演之中，但不必如此。Constance Valis Hill（2003）则把"挑战舞"表演包括进来，后者源于非裔美国人舞蹈"对决"的传统，其目标是在技巧与风格不断升级的竞争中获胜。与身体学的即兴一样，挑战舞即兴可以在音乐会语境中提供给观众欣赏，但不必如此——它常常在社交与街头场合中进行，纯粹为了娱乐或社会-政治目的。此外，Aili Bresnahan（2014a）捍卫这一主张：*一切*现场舞蹈表演都涉及即兴技艺，并论证艺术舞蹈那不可避免的即兴性格可被视为一种具身的、延展的能动性（与心灵哲学中提出的 4E 学说连续，特别是 Clark 2011）[^clark-2011]。
+    step2: |-
+      舞蹈哲学家还识别出一些无法整齐归入 Carter 三范畴的即兴形式。例如，Kent de Spain（2003）提请注意舞者为达到某种基于运动的身体状态而练习的一种即兴。这类身体学（somatic）即兴——或此类即兴练习的结果——可以被纳入面向观众的剧场表演，但并非必须。Constance Valis Hill（2003）则讨论了"挑战舞"（challenge dance）表演：它源自非裔美国人"斗舞"（dance battles）的传统，目标是在技巧与风格不断升级的较量中取胜。与身体学即兴一样，挑战舞可以放进音乐会语境供观众欣赏，但并非必须——它更常发生在社交与街头场合，纯粹为了娱乐或社会-政治目的。此外，Aili Bresnahan（2014a）捍卫如下主张：*一切*现场舞蹈表演都含有即兴技艺；她并论证，艺术舞蹈不可避免的即兴性格可以被视为一种具身的、延展的能动性（与心灵哲学中的 4E 学说一脉相承，尤其见 Clark 2011）[^clark-2011]。
   - id: 42
     kind: body
     source: |-
       For more on improvisation in dance, see Albright and Gere 2003; Clemente 1990; De Spain 1993, 2014, and 2019; Kloppenberg 2010; Matheson 2005; Novack 1990 and 1988 [2010]; Pallant 2006; Paxton 1975 and 1981; Zaporah 2003; and *The Oxford Handbook of Improvisation in Dance* (Midgelow 2019)[^midgelow-2019]. For more on improvisation in the arts, see the *Journal of Aesthetics and Art Criticism* special issue on Improvisation in the Arts, Spring, 2000 (Hagberg 2000)[^hagberg-2000]; Alperson 1984, 1998, and 2010; Bresnahan 2015; Brown 1996; Hagberg 1998; G. Lewis 2014; the *Oxford Handbook of Critical Improvisation Studies* (2 volumes, Lewis and Piekut 2016/Piekut and Lewis 2016)[^lewis-2016][^piekut-2016]; and Sawyer 2000. Cf. Symposium, 2010, “Musical Improvisation” in *The Journal of Aesthetics and Art Criticism*. For recent discussion of improvisation in vernacular dance forms, particularly those that often include dance battles, see Kronsted 2021 and 2023.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于舞蹈即兴的更多内容，见 Albright and Gere 2003；Clemente 1990；De Spain 1993, 2014, and 2019；Kloppenberg 2010；Matheson 2005；Novack 1990 and 1988 [2010]；Pallant 2006；Paxton 1975 and 1981；Zaporah 2003；以及《牛津舞蹈即兴手册》（Midgelow 2019）[^midgelow-2019]。关于艺术中的即兴的更多内容，见《美学与艺术批评杂志》2000 年春季号"艺术中的即兴"专刊（Hagberg 2000）[^hagberg-2000]；Alperson 1984, 1998, and 2010；Bresnahan 2015；Brown 1996；Hagberg 1998；G. Lewis 2014；《牛津批判即兴研究手册》（两卷本，Lewis and Piekut 2016/Piekut and Lewis 2016）[^lewis-2016][^piekut-2016]；以及 Sawyer 2000。参较《美学与艺术批评杂志》2010 年"音乐即兴"座谈会。关于通俗舞蹈形式——尤其是那些常含舞蹈对决的形式——中即兴的晚近讨论，见 Kronsted 2021 and 2023。
+    step2: |-
+      关于舞蹈中的即兴，参见 Albright and Gere 2003；Clemente 1990；De Spain 1993, 2014, and 2019；Kloppenberg 2010；Matheson 2005；Novack 1990 and 1988 [2010]；Pallant 2006；Paxton 1975 and 1981；Zaporah 2003；以及《牛津舞蹈即兴手册》（Midgelow 2019）[^midgelow-2019]。关于各艺术门类中的即兴，参见《美学与艺术批评杂志》2000 年春季号"艺术中的即兴"专刊（Hagberg 2000）[^hagberg-2000]；Alperson 1984, 1998, and 2010；Bresnahan 2015；Brown 1996；Hagberg 1998；G. Lewis 2014；《牛津批判即兴研究手册》（两卷本，Lewis and Piekut 2016/Piekut and Lewis 2016）[^lewis-2016][^piekut-2016]；以及 Sawyer 2000。参较《美学与艺术批评杂志》2010 年"音乐即兴"座谈会。关于通俗舞蹈形式——尤其是常有斗舞的那些形式——中即兴的晚近讨论，见 Kronsted 2021 and 2023。
   - id: 43
     kind: body
     source: |-
