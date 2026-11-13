@@ -117,7 +117,51 @@ $$ \begin{align} & \tval{EpNp} = \tval{E \tfrac{1}{2} \tfrac{1}{2}} = 1 \end{ali
 
 This is, with minor changes, the way in which Łukasiewicz introduces the third value in his first published paper on the subject, which bears the title “On the Concept of Possibility”. This short paper is based on a talk given on 5 June 1920 in Lwów. Two weeks later a second talk in the same place was more transparently titled “On Three-Valued Logic”. In this, Łukasiewicz sets out principles governing implication and equivalence involving the third value. These in effect determine the truth-tables[^note-2] for these connectives:
 
-| （嵌套表：\| $C$ \| 1 \| ½ \| 0 \| \| --- \| --- \| --- \| --- \| \| 1 \| 1 \| ½ \| 0 \| \| ½ \| 1 \| 1 \| ½ \| \| 0 \| 1 \| 1 \| 1 \|） |   | （嵌套表：\| $E$ \| 1 \| ½ \| 0 \| \| --- \| --- \| --- \| --- \| \| 1 \| 1 \| ½ \| 0 \| \| ½ \| ½ \| 1 \| ½ \| \| 0 \| 0 \| ½ \| 1 \|） |
+| <table class="cellpad-small two-rules">
+<tbody>
+<tr>
+  <td>$C$</td>
+  <td>1</td>
+  <td>&frac12;</td>
+  <td>0</td> </tr>
+<tr>
+  <td>1</td>
+  <td>1</td>
+  <td>&frac12;</td>
+  <td>0</td> </tr>
+<tr>
+  <td>&frac12;</td>
+  <td>1</td>
+  <td>1</td>
+  <td>&frac12;</td> </tr>
+<tr>
+  <td>0</td>
+  <td>1</td>
+  <td>1</td>
+  <td>1</td> </tr> </tbody>
+</table> |   | <table class="cellpad-small two-rules">
+<tbody>
+<tr>
+  <td>$E$</td>
+  <td>1</td>
+  <td>&frac12;</td>
+  <td>0</td> </tr>
+<tr>
+  <td>1</td>
+  <td>1</td>
+  <td>&frac12;</td>
+  <td>0</td> </tr>
+<tr>
+  <td>&frac12;</td>
+  <td>&frac12;</td>
+  <td>1</td>
+  <td>&frac12;</td> </tr>
+<tr>
+  <td>0</td>
+  <td>0</td>
+  <td>&frac12;</td>
+  <td>1</td> </tr> </tbody>
+</table> |
 | --- | --- | --- |
 
 Together with the assumed definitions of negation, conjunction and disjunction as, respectively
@@ -126,7 +170,65 @@ $$ \begin{align} Np & = Cp0 \\ Apq & = CCpqq \\ Kpq & = NANpNq \end{align} $$
 
 this yields truth-tables for these connectives as
 
-| （嵌套表：\| $N$ \| \| \| --- \| --- \| \| 1 \| 0 \| \| ½ \| ½ \| \| 0 \| 1 \|） |   | （嵌套表：\| $A$ \| 1 \| ½ \| 0 \| \| --- \| --- \| --- \| --- \| \| 1 \| 1 \| 1 \| 1 \| \| ½ \| 1 \| ½ \| ½ \| \| 0 \| 1 \| ½ \| 0 \|） |   | （嵌套表：\| $K$ \| 1 \| ½ \| 0 \| \| --- \| --- \| --- \| --- \| \| 1 \| 1 \| ½ \| 0 \| \| ½ \| ½ \| ½ \| 0 \| \| 0 \| 0 \| 0 \| 0 \|） |
+| <table class="cellpad-small two-rules">
+<tbody>
+<tr>
+  <td>$N$</td>
+  <td>&nbsp;</td> </tr>
+<tr>
+  <td>1</td>
+  <td>0</td> </tr>
+<tr>
+  <td>&frac12;</td>
+  <td>&frac12;</td> </tr>
+<tr>
+  <td>0</td>
+  <td>1</td> </tr> </tbody>
+</table> |   | <table class="cellpad-small two-rules">
+<tbody>
+<tr>
+  <td>$A$</td>
+  <td>1</td>
+  <td>&frac12;</td>
+  <td>0</td> </tr>
+<tr>
+  <td>1</td>
+  <td>1</td>
+  <td>1</td>
+  <td>1</td> </tr>
+<tr>
+  <td>&frac12;</td>
+  <td>1</td>
+  <td>&frac12;</td>
+  <td>&frac12;</td> </tr>
+<tr>
+  <td>0</td>
+  <td>1</td>
+  <td>&frac12;</td>
+  <td>0</td> </tr> </tbody>
+</table> |   | <table class="cellpad-small two-rules">
+<tbody>
+<tr>
+  <td>$K$</td>
+  <td>1</td>
+  <td>&frac12;</td>
+  <td>0</td> </tr>
+<tr>
+  <td>1</td>
+  <td>1</td>
+  <td>&frac12;</td>
+  <td>0</td> </tr>
+<tr>
+  <td>&frac12;</td>
+  <td>&frac12;</td>
+  <td>&frac12;</td>
+  <td>0</td> </tr>
+<tr>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td> </tr> </tbody>
+</table> |
 | --- | --- | --- | --- | --- |
 
 Łukasiewicz proudly declares “that three-valued logic has, above all, theoretical significance as the first attempt to create a non-Aristotelian logic” (*PL*, 18; *SW*, 88). What its practical significance is, he thinks awaits to be seen, and for this we need “to compare with experience the consequences of the indeterministic view which is the metaphysical basis of the new logic” (ibid.).
