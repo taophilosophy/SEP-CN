@@ -1,0 +1,47 @@
+{
+ "key": "caligula",
+ "term": "Caligula",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T15:13:17+00:00",
+ "status": "ok",
+ "note": "variant=Caligula; 审定公布名词库=2; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "舌突",
+   "en": "ligula",
+   "code": "5.2582",
+   "standard": "动物学名词",
+   "subject": "动物学_无脊椎动物学_苔藓动物门"
+  },
+  {
+   "cn": "唇舌",
+   "en": "ligula",
+   "code": "03.112",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫外部形态"
+  },
+  {
+   "cn": "舌叶",
+   "en": "ligula",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "唇舌",
+   "en": "ligula",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "加利富纳人",
+   "en": "Califuna",
+   "code": "6.0395",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_世界民族_美洲地区"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
