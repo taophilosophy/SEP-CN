@@ -1,0 +1,348 @@
+{
+ "key": "progress",
+ "term": "Progress",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T03:44:16+00:00",
+ "status": "ok",
+ "note": "variant=Progress; 审定公布名词库=2142; 海峡两岸名词对照库=755; 其他来源数据库=55; 预公布名词数据库=67; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "层递",
+   "en": "progressive",
+   "code": "02.04.041",
+   "standard": "档案学名词",
+   "subject": "档案学_文件管理_公文写作"
+  },
+  {
+   "cn": "进展",
+   "en": "progression",
+   "code": "09.047",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_结核病学"
+  },
+  {
+   "cn": "循序[的]",
+   "en": "progressive",
+   "code": "09.0220",
+   "standard": "数学名词",
+   "subject": "数学_概率论_数理统计_随机过程"
+  },
+  {
+   "cn": "科学进步",
+   "en": "scientific progress",
+   "code": "03.029",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学实在论"
+  },
+  {
+   "cn": "技术进步",
+   "en": "technological progress",
+   "code": "07.122",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学、技术与社会_技术与社会"
+  },
+  {
+   "cn": "遗传进度",
+   "en": "genetic progress",
+   "code": "3.156",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为的生物学基础_遗传学基础_遗传学"
+  },
+  {
+   "cn": "技术进步",
+   "en": "technological progress",
+   "code": "01.020",
+   "standard": "经济学名词",
+   "subject": "经济学_总论"
+  },
+  {
+   "cn": "技术进步",
+   "en": "technological progress",
+   "code": "10.0168",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_科技管理与技术创新_技术管理"
+  },
+  {
+   "cn": "施工进度计划",
+   "en": "programme,progress plan,progress schedule",
+   "code": "13.055",
+   "standard": "土木工程名词",
+   "subject": "土木工程_工程施工_施工管理"
+  },
+  {
+   "cn": "进步同盟",
+   "en": "Progressive Bloc",
+   "code": "05.0287",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人"
+  },
+  {
+   "cn": "进步主义运动",
+   "en": "Progressive Movement",
+   "code": "03.0120",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_美国"
+  },
+  {
+   "cn": "进步党",
+   "en": "Progressive Party",
+   "code": "03.0128",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_美国"
+  },
+  {
+   "cn": "进步",
+   "en": "progress",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "技术进步",
+   "en": "technological progress",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "开发进展",
+   "en": "development progress",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "递进法则，渐进律",
+   "en": "progressive rule",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "渐进律（=递进法则）",
+   "en": "progressive rule",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "渐进式进化",
+   "en": "progressive evolution",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "渐进衰老",
+   "en": "progressive senescence",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "进展演替",
+   "en": "progressive succession",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "前进波",
+   "en": "progressing wave",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "逐步冷冻法",
+   "en": "progressive freezing",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "调性移动",
+   "en": "progressive tonality",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "进行性遗忘",
+   "en": "progressive amnesia",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "累计时间",
+   "en": "progressive time",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "进行性多灶性白质脑病",
+   "en": "Progressive multifocal leukoencephalopathy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "公共事业振兴署",
+   "en": "Works Progress Administration, WPA",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "增加重量",
+   "en": "increase of weight\",\"progress of the loading\",\"weight progression",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_举重名词"
+  },
+  {
+   "cn": "急进性肾小球肾炎",
+   "en": "Rapidly progressive glomerulonephritis(RPGN)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "《共建“一带一路”倡议：进展、贡献与展望》",
+   "en": "The Belt and Road Initiative: Progress, Contributions and Prospects",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "稳中求进工作总基调",
+   "en": "the underlying principle of pursuing progress while ensuring stability",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "行程",
+   "en": "process",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "随机过程",
+   "en": "Stochastic process  Random process",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "维纳过程",
+   "en": "Wiener process",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "随机测度",
+   "en": "Cox process",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "整体煤气化联合循环",
+   "en": "Claus process",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "进步",
+   "en": "progress",
+   "code": "3.13.4.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴"
+  },
+  {
+   "cn": "进步",
+   "en": "progress",
+   "code": "04.0047",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_马克思恩格斯时期"
+  },
+  {
+   "cn": "社会进步",
+   "en": "social progress",
+   "code": "2.1.6.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会活动"
+  },
+  {
+   "cn": "社会进步",
+   "en": "social progress",
+   "code": "03.0161",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "渐进反应",
+   "en": "progressive response",
+   "code": "3.1.4.4.4",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "进步力量",
+   "en": "progressive forces",
+   "code": "03.0369",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "进步的研究纲领",
+   "en": "progressive research programme",
+   "code": "03.167",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向"
+  },
+  {
+   "cn": "累进性筹资",
+   "en": "progressivity of financing",
+   "code": "9.6.2.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生筹资_卫生筹资系统评价"
+  },
+  {
+   "cn": "党的先进性",
+   "en": "progressiveness of the Party",
+   "code": "03.0625",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "进行性假性类风湿性发育不良症",
+   "en": "progressive pseudorheumathoid dysplasia, PPD",
+   "code": "2.18.7.12",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_遗传性疾病"
+  },
+  {
+   "cn": "进行性骨化性肌炎",
+   "en": "myositis ossificans progressive, MOP",
+   "code": "2.13.15",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_常见风湿免疫病_儿童风湿免疫病"
+  },
+  {
+   "cn": "社会主义精神文明建设",
+   "en": "socialist ideological and ethical progress",
+   "code": "03.0589",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,348 @@
+{
+ "key": "reflexive pronoun",
+ "term": "reflexive pronoun",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T03:47:16+00:00",
+ "status": "ok",
+ "note": "variant=reflexive pronoun; 审定公布名词库=616; 海峡两岸名词对照库=87; 其他来源数据库=15; 预公布名词数据库=13; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "反身代词",
+   "en": "reflexive pronoun",
+   "code": "04.086",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "代词",
+   "en": "pronoun",
+   "code": "04.048",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "人称代词",
+   "en": "personal pronoun",
+   "code": "04.083",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "指示代词",
+   "en": "demonstrative pronoun",
+   "code": "04.085",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "反射",
+   "en": "reflex",
+   "code": "03.149",
+   "standard": "急救医学名词",
+   "subject": "急救医学_日常医学急救_内科学_神经系统"
+  },
+  {
+   "cn": "反射",
+   "en": "reflex",
+   "code": "04.021",
+   "standard": "兽医学名词",
+   "subject": "兽医学_动物生理学"
+  },
+  {
+   "cn": "反射",
+   "en": "reflex",
+   "code": "3.048",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为的生物学基础_生理学基础_神经生理学"
+  },
+  {
+   "cn": "反射",
+   "en": "reflex",
+   "code": "02.0036",
+   "standard": "手外科学名词",
+   "subject": "手外科学_手外科学基础"
+  },
+  {
+   "cn": "反射",
+   "en": "reflex",
+   "code": "03.124",
+   "standard": "生理学名词",
+   "subject": "生理学_神经生理学"
+  },
+  {
+   "cn": "反射",
+   "en": "reflex",
+   "code": "04.068",
+   "standard": "呼吸病学名词",
+   "subject": "呼吸病学_呼吸运动调节_呼吸调节"
+  },
+  {
+   "cn": "自反性",
+   "en": "reflexivity",
+   "code": "02.0088",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_基本概念"
+  },
+  {
+   "cn": "反射",
+   "en": "reflex",
+   "code": "06.0052",
+   "standard": "人体解剖学名词",
+   "subject": "人体解剖学_神经系统_总论"
+  },
+  {
+   "cn": "反射",
+   "en": "reflex",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "新生儿反射",
+   "en": "neonatal reflex\",\"newborn reflex",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "反射弧",
+   "en": "reflex arc",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "反射性排卵",
+   "en": "reflex ovulation",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "轴突反射",
+   "en": "axon reflex",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "巴宾斯基反射",
+   "en": "Babinski reflex",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "视动反射",
+   "en": "optokinetic reflex",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "吮吸反射",
+   "en": "sucking reflex",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "退缩反射",
+   "en": "withdrawal reflex",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "牵张反射",
+   "en": "stretch reflex",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "非条件反射",
+   "en": "unconditioned reflex",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "莫罗反射",
+   "en": "Moro reflex",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "反射弧",
+   "en": "reflex arc",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "原始反射",
+   "en": "Primitive reflexes",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "角膜反射",
+   "en": "corneal reflex",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "全身麻醉药",
+   "en": "righting reflex",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "平衡觉",
+   "en": "Vestibulo–ocular reflex",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "增透膜",
+   "en": "Anti-reflective coating",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "弱酸",
+   "en": "Proton affinity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "弱碱",
+   "en": "Proton affinity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "酸碱质子理论",
+   "en": "Proton affinity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "无机酸",
+   "en": "Proton affinity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "酸碱指示剂",
+   "en": "Proton affinity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "pH值",
+   "en": "Proton affinity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "反身性",
+   "en": "reflexivity",
+   "code": "3.2.3.13",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别研究"
+  },
+  {
+   "cn": "自反性现代化",
+   "en": "reflexive modernization",
+   "code": "3.14.2.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_环境社会学_现代环境社会学理论"
+  },
+  {
+   "cn": "反思人类学",
+   "en": "reflexive anthropology",
+   "code": "1.0617",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "觅食反射",
+   "en": "rooting reflex",
+   "code": "4.3.1.2",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健"
+  },
+  {
+   "cn": "语言强化运动条件反射法",
+   "en": "language enhanced motor conditioned reflex",
+   "code": "8.4.4.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价"
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "code": "3.1.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_核物理基本概念"
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "code": "8.1.5",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_核武器医学防护学_核武器"
+  },
+  {
+   "cn": "质子回旋加速器",
+   "en": "proton cyclotron",
+   "code": "6.5.1.9",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_工业应用的放射防护_加速器应用"
+  },
+  {
+   "cn": "反冲质子谱仪",
+   "en": "recoil proton spectrometer",
+   "code": "5.2.3.5",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测设备_中子监测设备"
+  },
+  {
+   "cn": "质子放射治疗",
+   "en": "proton radiation therapy",
+   "code": "6.4.4.11",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_放射治疗"
+  },
+  {
+   "cn": "质子直线加速器",
+   "en": "proton linear accelerator",
+   "code": "6.5.1.8",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_工业应用的放射防护_加速器应用"
+  },
+  {
+   "cn": "太阳质子事件",
+   "en": "solar proton event",
+   "code": "11.2.4.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_航空和航天医学_航天医学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,348 @@
+{
+ "key": "post-newtonian",
+ "term": "Post-Newtonian",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T03:39:43+00:00",
+ "status": "ok",
+ "note": "variant=Post-Newtonian; 审定公布名词库=1851; 海峡两岸名词对照库=531; 其他来源数据库=98; 预公布名词数据库=123; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "后牛顿近似",
+   "en": "post-Newtonian approximation",
+   "code": "03.183",
+   "standard": "天文学名词",
+   "subject": "天文学_天体力学"
+  },
+  {
+   "cn": "后牛顿近似",
+   "en": "post-Newtonian approximation",
+   "code": "06.0346",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_相对论"
+  },
+  {
+   "cn": "后牛顿天体力学",
+   "en": "post-Newtonian celestial mechanics",
+   "code": "03.198",
+   "standard": "天文学名词",
+   "subject": "天文学_天体力学"
+  },
+  {
+   "cn": "参数化后牛顿形式",
+   "en": "parameterized post-Newtonian formalism",
+   "code": "02.310",
+   "standard": "天文学名词",
+   "subject": "天文学_天体测量学"
+  },
+  {
+   "cn": "牛顿流体",
+   "en": "Newtonian Fluid",
+   "code": "09.02.136",
+   "standard": "地质学名词",
+   "subject": "地质学_构造地质学_应力与应变"
+  },
+  {
+   "cn": "牛顿焦点",
+   "en": "Newtonian focus",
+   "code": "06.039",
+   "standard": "天文学名词",
+   "subject": "天文学_天文仪器与技术"
+  },
+  {
+   "cn": "牛顿流体",
+   "en": "Newtonian fluid",
+   "code": "01.221",
+   "standard": "麻醉学名词",
+   "subject": "麻醉学_麻醉学基础_循环系统_心血管系统解剖"
+  },
+  {
+   "cn": "牛顿宇宙学",
+   "en": "Newtonian cosmology",
+   "code": "07.008",
+   "standard": "天文学名词",
+   "subject": "天文学_星系和宇宙学"
+  },
+  {
+   "cn": "牛顿规范",
+   "en": "Newtonian gauge",
+   "code": "07.617",
+   "standard": "天文学名词",
+   "subject": "天文学_星系和宇宙学"
+  },
+  {
+   "cn": "牛顿流体",
+   "en": "Newtonian fluid",
+   "code": "01.1565",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地震科学_震源"
+  },
+  {
+   "cn": "牛顿望远镜",
+   "en": "Newtonian telescope",
+   "code": "20.073",
+   "standard": "光学名词",
+   "subject": "光学_显微镜与望远镜"
+  },
+  {
+   "cn": "牛顿流体",
+   "en": "Newtonian fluid",
+   "code": "05.0349",
+   "standard": "机械工程名词 第一分册",
+   "subject": "机械工程（一）_机械表面与界面_摩擦学_润滑"
+  },
+  {
+   "cn": "牛顿冷却",
+   "en": "Newtonian cooling",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "牛顿流体",
+   "en": "Newtonian fluid",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "牛顿反射望远镜",
+   "en": "Newtonian reflector",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "牛顿焦点",
+   "en": "Newtonian focus",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "牛顿型望远镜",
+   "en": "Newtonian telescope",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "牛顿宇宙论",
+   "en": "Newtonian cosmology",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "牛顿流体",
+   "en": "Newtonian fluid",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "牛顿流体",
+   "en": "Newtonian fluid",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "牛顿反射式望远镜",
+   "en": "Newtonian reflector",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "牛顿流体",
+   "en": "Newtonian fluid",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "标桩",
+   "en": "post",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "非牛顿流体",
+   "en": "non-Newtonian fluid",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "牛顿流体",
+   "en": "Newtonian fluid",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "网柱",
+   "en": "post",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_沙滩排球名词"
+  },
+  {
+   "cn": "位置",
+   "en": "post",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_手球名词"
+  },
+  {
+   "cn": "网柱",
+   "en": "post",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "门柱",
+   "en": "post",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "包裹",
+   "en": "Parcel post",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "角柱",
+   "en": "corner post",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_拳击名词"
+  },
+  {
+   "cn": "球门柱",
+   "en": "goal post",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_手球名词"
+  },
+  {
+   "cn": "球门柱",
+   "en": "goal post",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_水球名词"
+  },
+  {
+   "cn": "终点标志",
+   "en": "finishing post",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_田径名词"
+  },
+  {
+   "cn": "球门柱",
+   "en": "goal post",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "艉支柱",
+   "en": "stern post",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "后涂尔干主义",
+   "en": "post-Durkheimism",
+   "code": "2.6.6.23",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_社会分层理论"
+  },
+  {
+   "cn": "后现代性",
+   "en": "post-modernity",
+   "code": "3.13.4.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴"
+  },
+  {
+   "cn": "后生产主义",
+   "en": "post-productivism",
+   "code": "3.14.2.14",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_环境社会学_现代环境社会学理论"
+  },
+  {
+   "cn": "后殖民主义",
+   "en": "post colonialism",
+   "code": "4.2.8.14",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_人类学理论"
+  },
+  {
+   "cn": "事件事后评估",
+   "en": "post evaluation",
+   "code": "3.6.1.8.3.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理"
+  },
+  {
+   "cn": "灾后消毒",
+   "en": "post-disaster disinfection",
+   "code": "4.1.4.23",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_环境消毒"
+  },
+  {
+   "cn": "复制后修复",
+   "en": "post-replication repair",
+   "code": "4.1.5.2.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射生物效应及其机制"
+  },
+  {
+   "cn": "上岗前培训",
+   "en": "pre-post training",
+   "code": "4.3.4.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射工作人员健康监护"
+  },
+  {
+   "cn": "后工业社会",
+   "en": "post-industrial society",
+   "code": "2.1.2.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会形式"
+  },
+  {
+   "cn": "后现代社会",
+   "en": "post-modern society",
+   "code": "2.1.2.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会形式"
+  },
+  {
+   "cn": "后工业化城市",
+   "en": "post-industrial city",
+   "code": "3.4.2.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_城市社会学_城市的变迁"
+  },
+  {
+   "cn": "后工业社会主义",
+   "en": "post industrial socialism",
+   "code": "05.0231",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

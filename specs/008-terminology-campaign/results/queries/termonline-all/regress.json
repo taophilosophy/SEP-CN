@@ -1,0 +1,348 @@
+{
+ "key": "regress",
+ "term": "Regress",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T03:51:47+00:00",
+ "status": "ok",
+ "note": "variant=Regress; 审定公布名词库=304; 海峡两岸名词对照库=168; 其他来源数据库=12; 预公布名词数据库=19; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "海退",
+   "en": "regression",
+   "code": "08.02.046",
+   "standard": "地质学名词",
+   "subject": "地质学_第四纪地质学_第四纪冰期与古气候"
+  },
+  {
+   "cn": "退行",
+   "en": "regression",
+   "code": "10.075",
+   "standard": "行为医学名词",
+   "subject": "行为医学_应激与应激相关障碍_应激"
+  },
+  {
+   "cn": "退行",
+   "en": "regression",
+   "code": "15.017",
+   "standard": "心理学名词",
+   "subject": "心理学_咨询心理学"
+  },
+  {
+   "cn": "回归",
+   "en": "regression",
+   "code": "06.133",
+   "standard": "全科医学与社区卫生名词",
+   "subject": "全科医学与社区卫生_社区公共卫生"
+  },
+  {
+   "cn": "退行",
+   "en": "regression",
+   "code": "02.265",
+   "standard": "物理医学与康复名词",
+   "subject": "物理医学与康复_康复功能评定_认知与精神心理功能障碍评定"
+  },
+  {
+   "cn": "海退",
+   "en": "regression",
+   "code": "02.1159",
+   "standard": "海洋科技名词",
+   "subject": "海洋科学技术_海洋科学_海洋地质学、海洋地球物理学、海洋地理学和河口海岸学"
+  },
+  {
+   "cn": "退化",
+   "en": "regression",
+   "code": "04.017",
+   "standard": "生态学名词",
+   "subject": "生态学_进化生态学"
+  },
+  {
+   "cn": "回归",
+   "en": "regression",
+   "code": "25.090",
+   "standard": "地理学名词",
+   "subject": "地理学_数量地理学"
+  },
+  {
+   "cn": "消退",
+   "en": "regression",
+   "code": "08.262",
+   "standard": "医学名词 第六分册",
+   "subject": "医学_创伤学"
+  },
+  {
+   "cn": "海退",
+   "en": "regression",
+   "code": "02.060",
+   "standard": "地质学名词",
+   "subject": "地质学_地史学和地层学"
+  },
+  {
+   "cn": "海退退覆",
+   "en": "regressive offlap",
+   "code": "07.01.110",
+   "standard": "地质学名词",
+   "subject": "地质学_地史学与地层学_总论"
+  },
+  {
+   "cn": "回归分析",
+   "en": "regression analysis",
+   "code": "16.228",
+   "standard": "农学名词",
+   "subject": "农业信息_农业信息技术"
+  },
+  {
+   "cn": "回归",
+   "en": "regression",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "回归",
+   "en": "regression",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "退行",
+   "en": "regression",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "回归",
+   "en": "regression",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "海退",
+   "en": "regression",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "海退",
+   "en": "regression",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "回归",
+   "en": "regression",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "回归",
+   "en": "regression",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "退行性染色",
+   "en": "regressive staining",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "退化种",
+   "en": "regression species",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "回归方程",
+   "en": "regression equation",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "回归分析",
+   "en": "regression analysis",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "回归分析",
+   "en": "regression analysis",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "回归树",
+   "en": "regression tree",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "分位数回归",
+   "en": "Quantile regression",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "岭回归",
+   "en": "ridge regression",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "并行逻辑回归",
+   "en": "parallel logistic regression",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "补偿",
+   "en": "redress",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "公共事业振兴署",
+   "en": "Works Progress Administration, WPA",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "自由度",
+   "en": "Degrees of freedom problem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "纳米化学",
+   "en": "Degrees of freedom (physics and chemistry)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "《共建“一带一路”倡议：进展、贡献与展望》",
+   "en": "The Belt and Road Initiative: Progress, Contributions and Prospects",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "增加重量",
+   "en": "increase of weight\",\"progress of the loading\",\"weight progression",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_举重名词"
+  },
+  {
+   "cn": "稳中求进工作总基调",
+   "en": "the underlying principle of pursuing progress while ensuring stability",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "回归分析",
+   "en": "regression analysis",
+   "code": "1.2.5.82",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "线性回归",
+   "en": "linear regression",
+   "code": "1.2.5.83",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "多元回归",
+   "en": "multiple regression",
+   "code": "1.2.5.84",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "逻辑斯蒂回归",
+   "en": "logistic regression",
+   "code": "1.2.5.104",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "泊松回归",
+   "en": "poisson regression",
+   "code": "1.2.5.105",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "累退性筹资",
+   "en": "regressivity of financing",
+   "code": "9.6.2.4",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生筹资_卫生筹资系统评价"
+  },
+  {
+   "cn": "泊松回归模型",
+   "en": "Poisson regression model",
+   "code": "4.4.3.20",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标"
+  },
+  {
+   "cn": "归元-赋权-控制模式",
+   "en": "multiplicity and regression-empowerment-control",
+   "code": "17.1.2.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队健康教育与健康促进_军队健康教育"
+  },
+  {
+   "cn": "进步",
+   "en": "progress",
+   "code": "3.13.4.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴"
+  },
+  {
+   "cn": "进步",
+   "en": "progress",
+   "code": "04.0047",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_马克思恩格斯时期"
+  },
+  {
+   "cn": "社会进步",
+   "en": "social progress",
+   "code": "2.1.6.8",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会活动"
+  },
+  {
+   "cn": "社会进步",
+   "en": "social progress",
+   "code": "03.0161",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

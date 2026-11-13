@@ -1,0 +1,348 @@
+{
+ "key": "property",
+ "term": "property",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T03:44:16+00:00",
+ "status": "ok",
+ "note": "variant=property; 审定公布名词库=521; 海峡两岸名词对照库=128; 其他来源数据库=179; 预公布名词数据库=36; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "属性",
+   "en": "property",
+   "code": "02.066",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_自然哲学_基本概念"
+  },
+  {
+   "cn": "物业",
+   "en": "property",
+   "code": "09.0127",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_项目管理与工程管理_管理阶段与模式"
+  },
+  {
+   "cn": "物业",
+   "en": "property",
+   "code": "06.0118",
+   "standard": "建筑学名词",
+   "subject": "建筑学_市场管理与工程建设程序_房地产市场"
+  },
+  {
+   "cn": "星特性",
+   "en": "star-property,*-property",
+   "code": "10.0265",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_信息安全_信息系统安全防护技术"
+  },
+  {
+   "cn": "黏结性",
+   "en": "caking property,bonding property",
+   "code": "02.252",
+   "standard": "化工名词 (二)基本有机化工",
+   "subject": "化工（二）_原料与产品"
+  },
+  {
+   "cn": "产权",
+   "en": "property right",
+   "code": "19.219",
+   "standard": "农学名词",
+   "subject": "农业经济与管理_农业制度经济"
+  },
+  {
+   "cn": "物性获取",
+   "en": "property retrieving",
+   "code": "02.035",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟"
+  },
+  {
+   "cn": "性质集成",
+   "en": "property integration",
+   "code": "04.160",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程综合"
+  },
+  {
+   "cn": "性质算子",
+   "en": "property operator",
+   "code": "04.161",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程综合"
+  },
+  {
+   "cn": "性质夹点",
+   "en": "property pinch",
+   "code": "04.164",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_过程综合"
+  },
+  {
+   "cn": "产业",
+   "en": "property;estate",
+   "code": "07.205",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学、技术与社会_工程与社会"
+  },
+  {
+   "cn": "财产权",
+   "en": "property right",
+   "code": "08.02.026",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_著作权_著作权客体"
+  },
+  {
+   "cn": "财物",
+   "en": "property",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "财产税",
+   "en": "property tax",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "性质变化",
+   "en": "property change",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "性质关联式",
+   "en": "property relationship",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "属性页",
+   "en": "property page",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "界址线",
+   "en": "property line",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "大气特性",
+   "en": "atmospheric property",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "总体性质",
+   "en": "bulk property",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "临界性质",
+   "en": "critical property",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "结块性",
+   "en": "caking property",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "热物理性质",
+   "en": "thermophysical property",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "驻点性质",
+   "en": "stagnation property",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "财产",
+   "en": "property",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "属性图",
+   "en": "property graph",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "财产权",
+   "en": "property right",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "分类变量",
+   "en": "qualitative property",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "知识产权",
+   "en": "intellectual property",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "网络财产",
+   "en": "network property",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "系统属性",
+   "en": "System Property",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "虚拟财产",
+   "en": "virtual property",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "泛性质",
+   "en": "Universal property",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "结合律",
+   "en": "associative property",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "智慧物业",
+   "en": "smart property management",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "知识产权",
+   "en": "intellectual property right",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "财产",
+   "en": "property",
+   "code": "04.0038",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_马克思恩格斯时期"
+  },
+  {
+   "cn": "财产性收入",
+   "en": "property income",
+   "code": "02.0426",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "抗渗水性",
+   "en": "waterproof property",
+   "code": "1.7.1.18",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒学_防护"
+  },
+  {
+   "cn": "族产",
+   "en": "clan property",
+   "code": "4.0149",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "测量性能",
+   "en": "measurement property",
+   "code": "5.3.2",
+   "standard": "社会医学名词",
+   "subject": "生命质量"
+  },
+  {
+   "cn": "家庭财产调查",
+   "en": "family property survey",
+   "code": "4.3.9.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会救助"
+  },
+  {
+   "cn": "产权清晰",
+   "en": "clearly defined property rights",
+   "code": "02.0423",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "医院产权理论",
+   "en": "hospital property right theory ",
+   "code": "14.2.3.1.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_医生与医院行为_医院行为"
+  },
+  {
+   "cn": "《家庭、私有制和国家的起源》",
+   "en": "Origin of Family, Private Property and State",
+   "code": "1.0592",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "贫困",
+   "en": "poverty",
+   "code": "4.3.9.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会救助"
+  },
+  {
+   "cn": "贫困",
+   "en": "poverty",
+   "code": "03.0132",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "共同富裕",
+   "en": "common prosperity",
+   "code": "03.0554",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
