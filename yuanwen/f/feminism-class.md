@@ -154,8 +154,6 @@ anarchism | Beauvoir, Simone de | Engels, Friedrich | feminist philosophy, inter
 
 ## Notes（原文脚注）
 
-## Notes to Feminist Perspectives on Class and Work
-
 [^note-1]: According to a feminist variant of this theory, women were the first slaves, seized in warfare between nomadic tribes (Lerner, 1986)
 
 [^note-2]: Cf. also Eisenstein (1979), Sargent (1981) and Ferguson (1989).

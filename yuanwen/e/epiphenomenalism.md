@@ -191,8 +191,6 @@ consciousness | Descartes, René | dualism | emergent properties | functionalism
 
 ## Notes（原文脚注）
 
-## Notes to Epiphenomenalism
-
 [^note-1]: Strictly speaking, one can distinguish two versions of epiphenomenalism, (a) mental events have no effects; and (b) mental events may have effects on other mental events, so long as the latter do not have any physical effects, nor any effects on further mental events that eventually have any physical effects. Because observing this distinction would contribute nothing but a tedious duplication of arguments that would differ only trivially, it will be ignored in the remainder of the article.
 
 [^two-nd]: Two extensive bibliographies are available on line under entries for epiphenomenalism in (1) the PhilPapers’s bibliography (Other Internet Resources) and (2) *The Philosopher’s Index*. (The latter restricts entry to subscribers.) The following list contains all items referred to in the foregoing article, and a few other sources that offer particularly helpful discussions.

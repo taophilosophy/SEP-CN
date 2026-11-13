@@ -234,8 +234,6 @@ definitions | religion: philosophy of | skepticism | Wittgenstein, Ludwig
 
 ## Notes（原文脚注）
 
-## Notes to The Concept of Religion
-
 [^note-1]: This is a list of the “world” religions represented at the World Columbian Exhibition in Chicago in 1893. Like the concept *religion*, the idea that some religions constitute a subcategory of “world” religions is today heavily criticized (e.g., Masuzawa 2005)[^masuzawa-2005].
 
 [^note-2]: Herbert’s view that monotheism was culturally universal was not idiosyncratic. Martin Luther, for example, held that there is “universal knowledge of God among all the heathen, that is, that the whole world talks about the Godhead”, treating this as the plain sense of Romans 1:19 (Luther 1526 [1973: 53]).

@@ -406,8 +406,6 @@ I would like to thank Alison Simmons and Samuel Newlands for their helpful sugge
 
 ## Notes（原文脚注）
 
-## Notes to Seventeenth-Century Theories of Consciousness
-
 [^note-1]: The bracketed phrase “or by representation” was added to the 1647 French edition of the Meditations and is not in the original 1641 Latin edition.
 
 [^note-2]: Descartes expresses these claims fairly explicitly. In the Fourth Set of Replies, he claims that there are no thoughts of which we are unconscious (CSM II 171 / AT VII 246), which endorses the first half of the transparency thesis. The second half is made explicit in the Second Medition where Descartes argues that while the sensory perceptions he feels can be doubted, he goes on to say that “I *seem* to see, to hear, and to be warmed. This cannot be false” (CSM II 19 / AT VII 29). But, although he says these things rather clearly, there is much debate over just how strong of a thesis Descartes is committed to. See Wilson 1978; Radner 1988; and McRae 1972.

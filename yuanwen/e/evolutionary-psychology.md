@@ -141,8 +141,6 @@ Thanks to Austin Booth, David Buller, Marc Ereshefsky, Matt Haber, Ron Mallon, S
 
 ## Notes（原文脚注）
 
-## Notes to Evolutionary Psychology
-
 [^note-1]: Buller refers to “evolutionary psychology” as a “paradigm”. Here we adopt Laudan’s ‘research tradition’ terminology as research traditions have a more fluid structure than paradigms and Laudan allows for sharing of theoretical resources between research traditions.
 
 [^note-2]: Ethology has since moved away from this line of thinking (Ereshefsky 2007)[^ereshefsky-2007].

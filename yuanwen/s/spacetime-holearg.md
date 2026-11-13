@@ -278,8 +278,6 @@ We are grateful to Erik Curiel, Robert Rynasiewicz and Edward N. Zalta for helpf
 
 ## Notes（原文脚注）
 
-## Notes to The Hole Argument
-
 [^note-1]: The form of the argument follows that originally laid out in Earman and Norton (1987). For a development of the hole argument at a technical level intermediate between the body of this article and these notes, see Norton (1992a, Section 5.12).
 
 In general, the class of theories in which the hole argument is mounted are “local spacetime theories.” These are theories whose models consist of $n+1$ tuples

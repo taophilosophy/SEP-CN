@@ -197,8 +197,6 @@ Thanks to Jacob Beck, David Chalmers, Paul Horwich, Muhammad Ali Khalidi, Ernie 
 
 ## Notes（原文脚注）
 
-## Notes to Meaning Holism
-
 [^note-1]: There have been other ways of characterizing holism and atomism, most notably Fodor and Lepore’s characterization of holism in terms of the metaphysical thesis that “A property is holistic just in case if anything has it, then lots of things do” (Fodor & Lepore 1992: 6)[^fodor-1992]. However, this typically isn’t how meaning holism is defined, and holists in the more typical sense presented above might admit that there could be a language with just one word, yet still insist that for whatever number of words a language had, the meanings of those words would have to be interdependent (see Antony 1993: 141)[^antony-1993]. In particular, while they could admit that there could be languages with a single word, they would still insist that *English* is not one of them, and that the meanings of English terms were determined holistically (see Khalidi 1993)[^khalidi-1993]. Or, conversely, it might be that meanings were constitutively independent, but if there was one, there would have to be many for some other (perhaps physiological) reason (see Antony 1993, Pagin 2006, Dresner 2012)[^antony-1993][^dresner-2012][^pagin-2006]. In what follows, then, I will be assuming that holism is characterized in terms of some version of the interdependence view.
 
 [^note-2]: So while Harman (1973) typically characterizes meaning in terms of inferential role, he is happy to claim that “What our words mean depends on *everything* we believe, on *all* the assumptions we are making” (Harman 1973: 14)[^harman-1973].

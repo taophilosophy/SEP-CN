@@ -841,8 +841,6 @@ convention | game theory | logic: epistemic | prisoner’s dilemma | social norm
 
 ## Notes（原文脚注）
 
-## Notes to Common Knowledge
-
 [^note-1]: Thanks to Scott Boorman, Johan van Benthem, and Brian Skyrms, who called our attention on Friedell’s work.
 
 [^note-2]: Thanks to Alan Hájek for this example, the only example in this section which does not appear elsewhere in the literature.

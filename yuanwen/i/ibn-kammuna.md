@@ -171,8 +171,6 @@ Much of the research for this entry was carried out during tenure of a grant fro
 
 ## Notes（原文脚注）
 
-## Notes to Ibn Kammūna
-
 [^note-1]: The most thorough analyses of this key chapter in the history of psychology, and the basis for all subsequent research (even if not always given their proper due by some scholars), remain the two articles of Shlomo Pines, “La Conception de la Conscience de soi chez Avicenne et chez Abu‘l-Barakat al-Baghdadi” (1954) and “Studies in Abu‘l-Barakat’s Poetics and Metaphysics” (1960), both of which are reprinted in the first volume of Pines 1979–1989. There are some passing references to Ibn Kammūna in these seminal studies.
 
 [^note-2]: Interpretations differ concerning the precise role of intuition in Suhrawardi’s thought; for a good overview, see Marcotte 1996.

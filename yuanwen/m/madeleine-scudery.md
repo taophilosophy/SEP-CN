@@ -317,8 +317,6 @@ Descartes, René | ethics: virtue | feminist philosophy | Montaigne, Michel de |
 
 ## Notes（原文脚注）
 
-## Notes to Madeleine de Scudéry
-
 [^note-1]: France’s leading dramatist, Pierre Corneille (1606–84) was especially noted for his tragedy *Le Cid* (1637).
 
 [^note-2]: Jean-Louis Guez de Balzac (1597–1654) was a French author known for his letters and literary dialogues, often criticized for their libertine sentiments.

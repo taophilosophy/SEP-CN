@@ -787,8 +787,6 @@ Some passages in this entry first appeared in W. Sieg, *Hilbert’s Programs and
 
 ## Notes（原文脚注）
 
-## Notes to Proof Theory
-
 [^note-1]: The evolution of this methodological perspective to formal axiomatics is described in [Appendix A](proof-theory.appendix-a.md).
 
 [^note-2]: The term “finit” is used without much explanation; one is led to think that it was a thoroughly familiar one. Indeed, the 1919 article by Bernstein calls “finit” all considerations that have a constructive feature, from Kronecker through Poincaré to Brouwer. It is obviously used also to emphasize the contrast with “transfinit”. The term was also prominently used by Weyl in *Das Kontinuum* (1918).

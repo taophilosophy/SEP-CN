@@ -239,8 +239,6 @@ Tom Doyle, Andreas Hüttemann, Ken Waters, Rob Wilson, and two anonymous referee
 
 ## Notes（原文脚注）
 
-## Notes to Reductionism in Biology
-
 [^note-1]: James Griesemer (2000, 2002, 2011) argues that scientists deploy a heuristic use of reduction in attempts to relate different theories and models to one another. Although this account is clearly methodological, it does not focus on how scientists discover molecular mechanisms or develop reductive explanations of wholes in terms of parts. Thus, it is distinct from the sense of methodological reductionism used here.
 
 [^note-2]: The issue of reduction has played a substantial role in both philosophy of mind and philosophy of social science. In the former, a central question is whether and in what sense mental phenomena can be reduced to physical phenomena. Philosophers of mind have developed sophisticated accounts that concentrate on ontological reduction and mereological constitution (e.g., supervenience; see Kim 1998, 2005)[^kim-1998]. In philosophy of social science, key questions include whether social phenomena can be explained solely in terms of the interactions of individuals (in contrast to some methodological holism), whether different fields of social science can be reduced to economics, and whether social science as a whole can be reduced to one or more of the natural sciences (Kincaid 1997)[^kincaid-1997]. Regardless of whether reduction is considered within philosophy of biology, mind, or social science, similar ideas and arguments have been used in these different fields (e.g., multiple realization; see Section 4.2).

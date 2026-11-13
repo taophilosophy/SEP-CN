@@ -259,8 +259,6 @@ I’d like to thank Anne Farrell and the SEP’s reviewer for their helpful comm
 
 ## Notes（原文脚注）
 
-## Notes to Ancient Theories of Freedom and Determinism
-
 [^note-1]: It’s worth noting that, as an Academic skeptic, Carneades denies that anything can be known, and he devised novel philosophical arguments and positions simply for the sake of argument, often with the goal of inducing suspension of judgment (Cicero, *Fin.* 5.20, LS 64G; *Academica* 2.139, LS 69L). So when I speak of Carneades’ arguments and positions, these are ones that he advanced, but probably not ones that he endorsed.
 
 [^note-2]: Unfortunately, Cicero gives “Socrates will die on such-and-such day” as an example of a simple outcome, which is quite inapt, as the precise time of his death depends on what he does. See Bobzien (1998a: 199–233) for a detailed discussion of Cicero and other sources on Chrysippus’ reply to the lazy argument, and of how Cicero may have gotten his examples mixed up.

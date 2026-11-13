@@ -698,8 +698,6 @@ Thanks to Elena Derksen, Frank Hong, Emma McClure, Julia Smith, and Micah Smith 
 
 ## Notes（原文脚注）
 
-## Notes to Formal Epistemology
-
 [^note-1]: Strictly speaking, this should read, “For any proposition *that has a well-defined probability at all*…”. For technical reasons we won’t go into here, some propositions cannot have any well-defined probability, at least not on the standard approach to probability.
 
 [^note-2]: We could use a different scale, from 0 to 2 for example. But the math would end up messier.

@@ -18,4 +18,24 @@
   - 扫描期间发现第 4 类：`&nbsp;`（`\xa0`）是诗行与书信缩进正文内容，`<br>` 拆分时若用 `\s*` 连带吞掉即丢缩进（aesthetic-experience 诗行、physics-experiment 书信署名等 15 例）→ 已改为只吞 ASCII 空白并补单测。
 - 并行会话冲突留痕：本会话译文修正曾于并行批量改写中被覆盖回滚一次，提交前已复查并重新落盘；`a/abduction.md` 现含 3 处同步修正（行27/34 引块拆行、行361 [**CP**]）。
 
-<!-- 接力指针：下一词条 abelard（yuanwen/a/abelard.md，96KB；en/abelard/index.html 116KB） -->
+## abelard（正式；译文 a/abelard.md 存在）
+
+- 源：en/abelard/index.html（2278 行）↔ yuanwen/a/abelard.md（463 行）
+- 逐段核：preamble 1 段✓；§1/1.1（7 段）✓；§1.2（13 段 + 7 个书目式项目列表，圆点列表逐项对位）✓；§2（8 段）✓；§3（5 段）✓；§4（11 段 + 2 引块）✓；§5（9 段）✓；§6（12 段 + 1 引块）✓；§7（9 段 + 1 引块）✓；书目 **97 条逐一比对**（拉丁原始文献 29 含 LI 四子条、英译 13、二手文献 55；html `<li>` 与 md 脚注定义 97:97，条目文字含 URL/在线链接一致）✓；Academic Tools 4 行✓；OIR 8 条✓；Related Entries 8 条同序✓；作者行=citation_author 双作者✓
+- 源文瑕疵忠实保留（不作「修正」，零信任口径）：§2 “in separation form the body”（源 html 同误，form←from）；§4 “the fact that that we can”（源同）；§2 行内 “Abelard‘s” 误用左单引（源 `&lsquo;` 同）
+- 系统行为（实证确认，不改）：Bibliography→「References（引用注释）」+ 条目全量转文末脚注定义；三个文献子标题（Primary texts in Latin / English translation / Selected Secondary）在 md 中成为空壳，因条目已移入脚注定义，**顺序仍按原三分组排列**（29/13/55），信息不丢；中文侧 a/abelard.md 同形态（3 空壳 + 97 定义），两侧一致
+- 结论：本轮转换后 **零缺陷**；BR/em/b 三类历史缺陷在本词条未复现（验证转换器修复生效）。译文无需同步改动。
+
+<!-- 接力指针：下一词条 abhidharma（yuanwen/a/abhidharma.md；en/abhidharma/index.html） -->
+
+## abhidharma（正式；译文 a/abhidharma.md 存在）
+
+- 源：en/abhidharma/index.html（2048 行）↔ yuanwen/a/abhidharma.md（354 行 → 重转后同）
+- 逐段核：preamble 2 段✓；§1（5 段）✓；§1.1（4 段）✓；§1.2（4 段）✓；§2（8 段）✓；§3（8 段）✓；§4（6 段）✓；§5（6 段）✓；§6（10 段）✓；书目 **78 条**（Primary 27 + Secondary 51，另说明段 1）逐条比对✓；脚注 `[^note-1..17]` ↔ 定义 17 条✓（含 [^note-5] 内嵌引块）；Academic Tools✓；OIR 两小节 4 链接✓；Related Entries 14 条✓；作者行✓
+- 新发现系统缺陷（已修入转换器，单测 27 项全绿，全量重转）：
+  - F6 年份大写后缀键退化：`1992A/2004B/1918B` 旧正则因尾 `\b` 与后缀大写冲突，**整条年份匹配失败**，退而匹配条目正文内的页引年份（如 1918B 条被命名 `brouwer-1975`），键名与条目错位；全库 18 处/5 文件键名错位。修法：后缀扩 `[a-eA-E]` + lower。
+  - F7 notes.html 页标题泄漏：`## Notes to <Entry>` 与转换器 `## Notes（原文脚注）` 双标题（全库 692 处）→ 页首 500 字符内 Notes 标题剥除。
+- 重转回归（第 3 轮全量）：OTHER 3 例全部定性——SUMMARY.md 刷新（合法）、a/abhidharma（+1 标记：`Gethin 1992b` 现正确命中年份键）、i/intuitionistic-logic-development（−2 标记：旧版三个 `brouwer-1975*` 幻键中两个指向 1918B/1919A，现归位）
+- 系统行为（实证确认，不改）：书目说明段转 `[^pali-nd]` 脚注定义（内容保全）；正文 `[^note-N]` 与 `[^key]` 混排正常
+
+

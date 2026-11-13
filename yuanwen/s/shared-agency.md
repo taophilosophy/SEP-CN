@@ -162,8 +162,6 @@ I would like to thank Michael Bratman for helpful comments on a draft.
 
 ## Notes（原文脚注）
 
-## Notes to Shared Agency
-
 [^note-1]: To take examples from Gilbert 1990, Bratman 1992, and Searle 1990.
 
 [^note-2]: Compare the passage from Wittgenstein (PI 621): “…when ‘I raise my arm’, my arm goes up. And the problem arises: what is left over if I subtract the fact that my arm goes up from the fact that I raise my arm?”

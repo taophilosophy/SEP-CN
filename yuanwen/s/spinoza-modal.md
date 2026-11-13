@@ -313,8 +313,6 @@ Descartes, René | Leibniz, Gottfried Wilhelm | ontological arguments | possibil
 
 ## Notes（原文脚注）
 
-## Notes to Spinoza’s Modal Metaphysics
-
 [^note-1]: *Cf.* Oldenburg’s remark in Ep74, “But once this [necessitarianism] has been asserted and granted, they say the sinews of all laws, of all virtue and religion are cut, and all rewards and punishments are useless,” and Jonathan Bennett’s observation: “This implies that every particular proposition is itself necessary, that being the dangerously false thesis towards which his explanatory rationalism is pushing him” (Bennett 1984, 121)[^bennett-1984].
 
 [^note-2]: For the most part, I will ignore the thorny issue of how to fit the attributes into Spinoza’s ontology. Spinoza claims that attributes somehow constitute the essence of substance (Id4), and in Ip4d he suggests that attributes are identical to substance itself, though it is far from obvious how to understand this one-to-many identity claim.

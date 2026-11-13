@@ -329,8 +329,6 @@ Bell’s Theorem | causal models | causation: and manipulability | causation: co
 
 ## Notes（原文脚注）
 
-## Notes to Causation in Physics
-
 [^note-1]: The labels “Humean” and “non-Humean” have become customary for this division. To what extent David Hume himself was a “Humean” is a subject of active philosophical debate.
 
 [^note-2]: See Sider (2011: 19, fn.7) for a similar comment about the causation literature more generally.

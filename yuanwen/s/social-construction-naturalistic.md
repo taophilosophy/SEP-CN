@@ -202,8 +202,6 @@ epistemology: social | evolution: cultural | feminist philosophy, topics: perspe
 
 ## Notes（原文脚注）
 
-## Notes to Naturalistic Approaches to Social Construction
-
 [^note-1]: Alexander Bird (2005) interestingly notes the novelty of Kuhn’s appeal to psychological evidence and the respect in which, in his reliance on various sorts of evidence (psychological and historical), his earlier work is more naturalistic than what followed.
 
 [^note-2]: To varying degrees, Alan Nelson (1994), Arthur Fine (1996), and Ian Hacking (1999) explore the further suggestion that constructionist work sometimes seems to support what Fine calls “social particularism”—a view on which (due to the influence of numerous and highly idiosyncratic social factors in every scientific investigation) no very general account of scientific process, including its causes and outcomes, can be given.

@@ -245,8 +245,6 @@ Thanks to the Georgetown Institute for the Study of Markets and Ethics at George
 
 ## Notes（原文脚注）
 
-## Notes to Friedrich Hayek
-
 [^note-1]: As Hayek knew, *principal-agent* problems can and do afflict private as well as public bureaucracies. In either setting, agents gamble with other people’s money when they can, and seek a “bailout” when their gambles do not pay off. The theoretical and practical question is whether a private company’s board of directors is in a better position than taxpayers are to contain and limit the damage caused by wayward agents.
 
 [^note-2]: Although “spontaneous order and organization will always coexist, it is still not possible to mix these two principles of order in any way we like” (Hayek 1973, 48).

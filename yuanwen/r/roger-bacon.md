@@ -444,8 +444,6 @@ al-Farabi | al-Kindi | Aquinas, Thomas | Aristotle | Aristotle, General Topics: 
 
 ## Notes（原文脚注）
 
-## Notes to Roger Bacon
-
 [^note-1]: [WFB] III, 534: “*Si quidem utile genus eorum est, qui de theoriis non admodum socciciti, mechanica quadam subtilitate rerum inventarum extensions prehendunt; qualis est Bacon*.”
 
 [^note-2]: Rosier 1994 is a very careful and thorough treatment of early and later Bacon on grammar, logic, semantics, and semiotics.

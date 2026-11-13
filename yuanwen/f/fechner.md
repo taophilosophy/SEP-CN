@@ -232,8 +232,6 @@ Hegel, Georg Wilhelm Friedrich | Herbart, Johann Friedrich | Lotze, Hermann | me
 
 ## Notes（原文脚注）
 
-## Notes to Gustav Theodor Fechner
-
 [^note-1]: The two passages cited by Heidelberger are from *Zend-Avesta* (1851b: II, 348) and *Ueber die Seelenfrage* (1861: 221). Some of Heidelberger’s evidence for Fechner’s materialism (2004: 30) is purely anecdotal, deriving from the impressions of contemporaries.
 
 [^note-2]: *Ueber die Seelenfrage* (1861) is not covered here, because it clarifies issues already raised in *Nanna* and *Zend-Avesta*; *Die Drei Motive und Gründe des Glaubens* (1863) is a defense of *Zend-Avesta*; *Die Tagesansicht gegenüber die Nachtansicht* is essentially a reprise and summary of earlier work. Unfortunately, there is insufficient space to discuss Fechner’s two volume work on aesthetics, *Vorschule der Aesthetik* (1876).

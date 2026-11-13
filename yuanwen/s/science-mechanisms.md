@@ -469,8 +469,6 @@ Aristotle, Special Topics: causality | biology: experiment in | biomedicine, phi
 
 ## Notes（原文脚注）
 
-## Notes to Mechanisms in Science
-
 [^note-1]: These views on interlevel explanation, the metaphysics of reduction, interlevel causation, and emergence are all articulated in terms of a very specific idea of a “level of mechanisms” (introduced in Section 2.1.5) and do not apply to other notions of level, such as size scales, disciplinary differences, and levels of complexity (see Craver 2007a: Chapter 5 for a critical review). There is because of this considerable danger of equivocation and misunderstanding.
 
 [^aizawa-2009]: Aizawa, Kenneth, and Carl Gillett, 2009, “The (Multiple) Realization of Psychological and Other Properties in the Sciences”, *Mind & Language*, 24(2): 181–208. doi:10.1111/j.1468-0017.2008.01359.x

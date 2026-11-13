@@ -207,8 +207,6 @@ al-Farabi | al-Kindi | al-razi | Alexander of Aphrodisias | Arabic and Islamic P
 
 ## Notes（原文脚注）
 
-## Notes to Arabic and Islamic Psychology and Philosophy of Mind
-
 [^note-1]: F.E. Peters, Aristoteles Arabus (Leiden, E.J. Brill, 1968), pp. 40–47. The views expressed by John Philoponus circulated as well, though we have no Arabic translation of his commentary on *De anima*.
 
 [^note-2]: Peter Adamson, “Vision, Light and Color in Al-Kindî, Ptolemy and the Ancient Commentators,” Arabic Sciences and Philosophy 16 (2006), 207–36.

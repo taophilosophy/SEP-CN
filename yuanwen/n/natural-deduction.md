@@ -439,8 +439,6 @@ We’d like to thank Chris Menzel for prompting us to make some improvements to 
 
 ## Notes（原文脚注）
 
-## Notes to Natural Deduction Systems in Logic
-
 [^note-1]: It might be noted, however, that Gödel and Bernays both presented natural deduction systems in lectures, at Notre Dame and Princeton respectively, in the late 1930s. Details are in Došen and Adžić (2018) for Gödel and in von Plato (2008) for Bernays. A detailed historical account of the textbooks can be found in Pelletier (1999).
 
 [^note-2]: This phrase seems to have been used (with the appropriate mock-religious fervor) first by Routley and Meyer (1973: 199):

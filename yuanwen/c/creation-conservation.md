@@ -166,8 +166,6 @@ occasionalism | Suárez, Francisco
 
 ## Notes（原文脚注）
 
-## Notes to Creation and Conservation
-
 [^note-1]: Louis E. Loeb regards occasionalism as a straightforward consequence of continuous creation theory. See Loeb 1981, 220.
 
 [^note-2]: Pavelich (2007) in turn challenges the grounds of Quinn’s intuition.

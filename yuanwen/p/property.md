@@ -224,8 +224,6 @@ As of the 2026 update, James Penner has taken responsibility for updating and ma
 
 ## Notes（原文脚注）
 
-## Notes to Property and Ownership
-
 [^note-1]: Of course, *B*’s use of *A*’s intellectual product may interfere with *A*’s ability to profit from it. But that begs the question of property—for *A*’s profiting is simply her exploitation of a right that her property in the product would confer, viz., the right to exclude others from the using the product if they will not pay her for the privilege.
 
 [^note-2]: Cf. Blackstone’s (1765–1769 Bk II, ch 1, para 2) definition of property as “that sole and despotic dominion which one man claims and exercises over the external things of the world, in total exclusion of the right of any other individual in the universe”.

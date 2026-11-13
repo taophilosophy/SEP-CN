@@ -260,8 +260,6 @@ The editors and authors thank Jack Painter for spotting and notifying us of seve
 
 ## Notes（原文脚注）
 
-## Notes to Doing vs. Allowing Harm
-
 [^note-1]: Sarah McGrath (2003) argues that some behavior involves both doing and allowing harm. Such behavior would not count as allowing for the purposes of a moral distinction between doing and allowing harm.
 
 [^note-2]: This issue is relevant also to the debate over abortion, the debate over capital punishment, and the more theoretical debate over consequentialism. See Scheffler (1982), Smart (1973) and Williams (1973). See also Haydar (2010)

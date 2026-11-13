@@ -622,8 +622,6 @@ I am grateful to John McCarthy, who read an early draft of this article and prov
 
 ## Notes（原文脚注）
 
-## Notes to Logic-Based Artificial Intelligence
-
 [^note-1]: For readers who would like an in-depth orientation to the field of AI, I recommend Russell & Norvig 2010.
 
 [^note-2]: For some of the historical background, see Davis 1988.

@@ -288,8 +288,6 @@ aesthetics: German, in the 18th century | Châtelet, Émilie du | German Philoso
 
 ## Notes（原文脚注）
 
-## Notes to Christian Wolff
-
 [^note-1]: For information concerning Wolff’s life, the reader can consult, among other sources, Wolff’s own autobiography (published in Wuttke 1841)[^wuttke-1841] and the recent biography by Kertscher (2018).
 
 [^note-2]: A German professor of philosophy typically lectured on several sub-disciplines, such as logic, metaphysics, ethics, as well as physics, politics, economics, grammar and rhetoric. For a general discussion, see Paulsen 1902 [1906].

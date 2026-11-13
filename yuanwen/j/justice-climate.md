@@ -346,8 +346,6 @@ capability approach | climate science | egalitarianism | ethics: environmental |
 
 ## Notes（原文脚注）
 
-## Notes to Climate Justice
-
 [^note-1]: For empirical evidence see the assessment reports of the Intergovernmental Panel on Climate Change (IPCC). The five Assessment Reports (published in, respectively, 1990, 1996, 2001, 2007, & 2013/2014) can be found at Other Internet Resources. See also the Special Report on “Global Warming of 1.5ºC” (IPCC 2019)[^ipcc-2019].
 
 [^note-2]: There are complications here concerning negative emissions technologies. These seek to extract greenhouse gases from the atmosphere. The size of the budget thus depends on the volume of greenhouse gases emitted, the extent of greenhouse gas sinks, and the extent to which it is possible to extract greenhouse gases from the atmosphere.

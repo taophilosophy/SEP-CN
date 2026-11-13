@@ -236,8 +236,6 @@ I would like to thank Jill Kraye and Robert Pasnau for comments and helpful sugg
 
 ## Notes（原文脚注）
 
-## Notes to Probability in Medieval and Renaissance Philosophy
-
 [^note-1]: The three Kolmogorov axioms specify that (a) probability is a positive real number, (b) absolutely certain events have value 1, and (c) the probability of the conjunction of some mutually exclusive events is the sum of the events’ probabilities (see Hájek 2011, sec. 1)[^hájek-2011].
 
 [^note-2]: There are some rare earlier examples for the calculation of chances, mainly for games of chance, but no calculus for chances was established; see Bellhouse (2000), Hald (2003, Chap. 4), Schneider (1988).

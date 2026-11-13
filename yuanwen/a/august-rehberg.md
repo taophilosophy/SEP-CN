@@ -127,8 +127,6 @@ conservatism | Jacobi, Friedrich Heinrich | Kant, Immanuel: moral philosophy | R
 
 ## Notes（原文脚注）
 
-## Notes to August Wilhelm Rehberg
-
 [^note-1]: See Rehberg to Nicolovius, September 25, 1790, *Kant, Briefwechsel,* ed.Otto Schöndorffer (Hamburg: Meiner, 1972), pp. 472-474. The query was directed to Kant through Nicolovius. Rehberg later gave his account of the correspondence in the introduction to his *Sämmtliche Schriften* (Hannover: Hahn, 1828-31), I, 52-60.
 
 [^note-2]: See Kant to Rehberg September 25, 1790, *Gesammelte Schriften* ed. Prussian Academy of the Sciences (Berlin: de Gruyter, 1902ff), XI 195-199.

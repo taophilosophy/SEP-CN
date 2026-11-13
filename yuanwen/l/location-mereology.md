@@ -757,8 +757,6 @@ We want to thank the editors of the *Stanford Encyclopedia of Philosophy* and es
 
 ## Notes（原文脚注）
 
-## Notes to Location and Mereology
-
 [^note-1]: See Yablo (1993) and Chalmers (2002) for distinctions between various sorts of conceivability and for discussion of how each of them connects or fails to connect to metaphysical possibility. For relevant criticism see the entry on the epistemology of modality, especially §4.1.
 
 [^note-2]: Different authors, and different time-slices of the same author, use different phrases to express the given relation.

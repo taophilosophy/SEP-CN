@@ -334,8 +334,6 @@ Brentano, Franz | Frege, Gottlob | Hegel, Georg Wilhelm Friedrich: dialectics | 
 
 ## Notes（原文脚注）
 
-## Notes to John Niemeyer Findlay
-
 [^note-1]: Most of the information in this biography is derived from Findlay’s “My Life” in *Studies in the Philosophy of J. N. Findlay* (1985) confirmed when possible in other sources.
 
 [^note-2]: . Findlay’s South African background obviously provokes questions about his politics. He never commented, publicly or privately, on the South African liberation struggle. If this is a fault, so also it was a fault in Camus never to comment on the struggle for the liberation of Algeria. Camus was a *pied noir*; Findlay a *pied blanc*, and they were both more loyal to their friends than to an idea. On most matters, Findlay’s sympathies leaned to the left: at one time he even ran a left-wing bookstore that later proved to be Communist front.

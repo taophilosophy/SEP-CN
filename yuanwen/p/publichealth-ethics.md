@@ -455,8 +455,6 @@ We thank Anne Barnhill and Michael DiStefano for helpful feedback on earlier ver
 
 ## Notes（原文脚注）
 
-## Notes to Public Health Ethics
-
 [^note-1]: For example, the Institute of Medicine defines public health as “what we, as a society, do collectively to assure the conditions in which people can be healthy” (IOM 1988; IOM 2003).
 
 [^note-2]: The 2014–2015 Ebola outbreaks in multiple West African countries are some of the many examples illustrating the limitations of national efforts in the control of infectious disease.

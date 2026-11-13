@@ -183,8 +183,6 @@ autonomy: in moral and political philosophy | autonomy: personal | Beauvoir, Sim
 
 ## Notes（原文脚注）
 
-## Notes to Authenticity
-
 [^note-1]: It should be noted that there is a disagreement in the literature whether or not Heidegger should be counted as an existentialist. In many ways, much depends on whether one uses the term existentialism in a narrow or more general manner. In a narrow sense, only Sartre and Beauvoir would count as existentialists—they both embraced the term ‘existentialism’ after it was coined in 1940s. In the broad sense, however, existentialism deals with the existential question of what it means “to be” human. In this sense, much of Heidegger's work, and particularly the early work that is important for this entry, is ‘existential’ in that it commences from the situated, concrete, and embodied practices of everyday life (see also Aho 2014)[^aho-2014].
 
 [^note-2]: Such a vocational commitment is apparent in religious figures and artists, but it is also found among people in rather dreary jobs, who feel they are making a sacrifice for their children and for their families (see Sennett and Cobb 1972)[^sennett-1972].

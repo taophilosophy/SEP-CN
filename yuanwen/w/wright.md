@@ -163,8 +163,6 @@ Comte, Auguste | Darwin | induction: problem of | James, William | Mach, Ernst |
 
 ## Notes（原文脚注）
 
-## Notes to Chauncey Wright
-
 [^note-1]: Earlier treatments of Wright in relation to pragmatism are Kennedy 1935, Ratner 1936, Schneider 1946, 439–441, and Wiener, 1945 and 1949. See Schneider’s review, 1950, of Wiener; also Madden 1953 and 1963, and Giuffrida 1978. A recent treatment of Darwin in relation to American pragmatism is Pearce 2020, which includes many references to Wright. Ratner, Kennedy, and Wiener all see a close connection between Wright’s scientific methodology and pragmatism, while Schneider emphasizes Wright’s relation to traditional empiricism. Madden and Giuffrida analyze Wright’s verificationism, contrasting it to Peirce, James, and the later logical positivists. Some of these articles are collected, along with other interpretations of Wright, in Ryan and Madden 2000, vol. 3.
 
 [^note-2]: For testimony to Wright’s influence on all three, see Peirce’s “A Definition of Pragmatic or Pragmatism” in Peirce 1960, 5.12 and 5.64. For his influence on William James, see Perry 1935, I, ch. XXXI. For Wright’s influence on Holmes, see Holmes 1953, I, 565, where Holmes began his appreciation of Wright by expressing skepticism about Peirce:

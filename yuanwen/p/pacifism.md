@@ -297,8 +297,6 @@ Addams, Jane | anarchism | civil disobedience | ethics: in Indian Buddhism | Jam
 
 ## Notes（原文脚注）
 
-## Notes to Pacifism
-
 [^note-1]: This entry focuses on pacifism, which is dialectically related to the ideas and discussions found in the just war theory. There is no space in the present article to adequately consider the detailed and evolving literature on just war theory. Although this entry mentions some key ideas and issues that arise out of the just war theory, its primary focus is on pacifist responses to and interpretant of these ideas. Several key authors and important texts in the just war tradition are mentioned in this article and are listed in the bibliography. Among these are Ramsey 1968 and 1985; Walzer 1977; Luban 1980; Orend, 2000 and 2016; Rodin 2002; Lucas 2006; Teson 2006; McMahan 2009; Fabre 2012; Fabre and Lazar (eds.) 2014; Frowe 2014; Draper 2015; Chan 2016; Orend 2016; May (ed.) 2018; Miesels 2018; Frowe and Lazar (eds.) 2018. For further discussion of just war theory see entry on war.
 
 [^ackerman-2000]: Ackerman, Peter and Jack Duvall, *A Force More Powerful*, New York: St. Martin’s Press, 2000.

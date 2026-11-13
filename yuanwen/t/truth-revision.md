@@ -625,8 +625,6 @@ Curry’s paradox | definitions | liar paradox | Tarski, Alfred: truth definitio
 
 ## Notes（原文脚注）
 
-## Notes to The Revision Theory of Truth
-
 [^note-1]: Kripke prefers to treat *neither* not as a third truth value but as the absence of a truth value.
 
 [^note-2]: The RTT is also designed to avoid contradictions in these situations, so the last step, to (1) being both true and not true, will be blocked. See Section 4, below.

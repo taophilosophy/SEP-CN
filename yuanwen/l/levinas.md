@@ -1065,8 +1065,6 @@ Buber, Martin | Cohen, Hermann | Derrida, Jacques | existentialism | Heidegger, 
 
 ## Notes（原文脚注）
 
-## Notes to Emmanuel Levinas
-
 [^note-1]: Levinas will call the face-to-face relationship “meta-physical”. He does this repeatedly in *Totality and Infinity*. Cf. TI, 39–41; 64; 79–81. Also TI, p. 84. There he says
 
 > we have called this relation metaphysical. It is premature and…insufficient to qualify it, by opposition to negativity, as positive. It would be false to qualify it as theological.

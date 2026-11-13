@@ -511,8 +511,6 @@ I thank Christopher Hunter Lean (Philosophy Department, University of Sydney) wh
 
 ## Notes（原文脚注）
 
-## Notes to Biodiversity
-
 [^note-1]: Jetzkowitz et al. (2018: S42) argue
 
 > biodiversity is not defined as a set of entities but rather as diversity among different entities, that is, as a disposition. Thus, epistemologically, one can ask in which form biodiversity exists as well as, ethically, why we should conserve a disposition (rather than entities). It is disputable whether it is appropriate to attribute “intrinsic value” to the concept of variability at all.

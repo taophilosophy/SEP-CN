@@ -380,8 +380,6 @@ language of thought hypothesis | mental representation | mental representation: 
 
 ## Notes（原文脚注）
 
-## Notes to The Medieval Problem of Universals
-
 [^note-1]: In a somewhat free translation: “I like Plato, but I like the truth even more.” Cf. Aristotle, *The Nicomachean Ethics*, 1096a15, in *The Complete Works of Aristotle*.
 
 [^note-2]: These are the opposing, yet complementary attitudes (universals come “from above”, for Plato, and “from below”, for Aristotle) that are famously immortalized in the gestures of the two philosophers in the center of Raphael’s picture “The School of Athens”.

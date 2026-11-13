@@ -171,8 +171,6 @@ The author gratefully acknowledge the assistance that I have received from Matth
 
 ## Notes（原文脚注）
 
-## Notes to Harriet Taylor Mill
-
 [^note-1]: Friedrich Hayek gives the date as 10 October (2015, 19); Jacobs, in the introductory material to *The Complete Works of Harriet Taylor Mill*, gives it as 8 October ([CW] 1998, xli).
 
 [^note-2]: Jacobs also collects a biographical essay on the printer William Caxton, which appears in a book published by the Society for the Diffusion of Useful Knowledge in 1833, in the *Complete Works* ([CW] 1998, 238–91). In her prefactory remarks on this essay, she comments that the fragmentary drafts in Taylor Mill’s and John Taylor’s hand, which were apparently written several years earlier, bear little resemblance to the published version (1998, 237). This may indicate that Taylor Mill continued to edit and polish the essay over a considerable period, as Jacob supposes. Another explanation, however, is suggested by the fact that other sources attribute the published essay to a different author, a William Stevenson. These fragments may instead have been intended to serve as part of a review of Caxton’s work, a hypothesis endorsed by both Hayek (2015, 22) and McCabe (2022). McCabe further notes that most of the fragmentary drafts are in John Taylor’s handwriting, not Taylor Mill’s.

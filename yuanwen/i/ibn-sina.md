@@ -186,8 +186,6 @@ Arabic and Islamic Philosophy, historical and methodological topics in: Greek so
 
 ## Notes（原文脚注）
 
-## Notes to Ibn Sina [Avicenna]
-
 [^note-1]: This entry is based on, and sections 3 and 4 are adapted freely from, Gutas 2014a, “Coda,” pp. 359–386, to which the reader is referred for fuller presentation and documentation of the theses stated here. The codes in parentheses following the first mention of a work by Avicenna refer, for purposes of identification, to its serial number in the inventory of his writings in that publication, from which are also taken most of the translations of the cited passages.
 
 [^note-2]: It should be borne in mind that in the early Islamic period, as also in antiquity and (for the most part) late antiquity, philosophy and science were synonymous. Philosophy was a generic term that referred both to what we call science and also to the humanities, as is obvious from the work of Aristotle himself (metaphysics *and* biology and physics, and also politics and poetics) and from the classification of the different parts or subjects of philosophy given below in Section 1.1. To avoid using the unwieldy term philosophy/science every time, the two words are used interchangeably, asking the reader to remember that what is meant by them both are the subjects that we treat in all three of *our* classification of the sciences: humanities (what we call philosophy, ethics, rhetoric, literature/poetics), social sciences (politics, economics), and hard sciences (biology, math, etc.).

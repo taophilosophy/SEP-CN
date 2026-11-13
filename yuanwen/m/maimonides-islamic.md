@@ -485,8 +485,6 @@ Special thanks to Dr. David Shatz and Dr. T. M. Rudavksy for being my first Maim
 
 ## Notes（原文脚注）
 
-## Notes to The Influence of Islamic Thought on Maimonides
-
 [^note-1]: See Pines 1963, lvii-cxxxiv. One might note too Steven Harvey's further work on the themes addressed by Pines; see for example Harvey 1991, 31-59.
 
 [^note-2]: Stroumsa points to Davidson 2005, 80; see Stroumsa 2009, 25, n. 3.

@@ -489,8 +489,6 @@ Thanks to Hakwan Lau and Susanna Siegel and especially Dave Chalmers who referee
 
 ## Notes（原文脚注）
 
-## Notes to The Neuroscience of Consciousness
-
 [^note-1]: If one had to pick a rubric for the type of neuroscience discussed here, it would be *cognitive neuroscience*, a label that both psychologists and neuroscientists gravitate towards and which refers to the task of identifying the neural basis of states that have some connection to *cognition* broadly construed, with much recent focus on perception, decision making, and memory.
 
 [^note-2]: Information as used in neuroscience is typically not a semantic notion (see the entry on information. The relevant notion of information in neuroscience is a statistical notion about reducing uncertainty regarding a random variable. It is not a notion of semantic content. See the entry on the contents of perception. For an accessible deployment of similar notions of information in philosophy of mind as a basis for semantic content, see (Dretske 1981)[^dretske-1981].

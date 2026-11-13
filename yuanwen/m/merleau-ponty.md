@@ -233,8 +233,6 @@ The author would like to thank Corinne Lajoie for helpful suggestions on revisin
 
 ## Notes（原文脚注）
 
-## Notes to Maurice Merleau-Ponty
-
 [^note-1]: This biographical sketch is particularly indebted to Noble 2011. See also Emmanuelle Garcia, “Vie et oeuvre”, in Merleau-Ponty 2010; Geraets 1971; Jean-Paul Sartre, “Merleau-Ponty *vivant*” (in Stewart 1998)[^stewart-1998].
 
 [^note-2]: The correspondence between Merleau-Ponty and Beauvoir has been published in Beauvoir, Lacoin, and Merleau-Ponty 2022c.

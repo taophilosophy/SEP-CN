@@ -231,8 +231,6 @@ The authors note that Sections 2.2 and 2.4 of the 2021 update was written by the
 
 ## Notes（原文脚注）
 
-## Notes to Feminist History of Philosophy
-
 [^note-1]: Freeland cites the following texts: *Politics* 1, 13, 1260a23; *Physics* 1, 9, 192a22–3; *Historia Animalium* 2, 3, 501b19-21; *De Generatione Animalium* 4, 1, 765b9-10 and 4, 6, 775a15; *Poetics* 15, 1454a21, 23-4..
 
 [^note-2]: Kant’s derogatory remarks about women are in his pre-critical work *Observations on the Feeling of the Beautiful and Sublime* (Kant 1764 [1960: 111])[^kant-1764]. Robin Schott presents a critical, feminist reading of Kant’s conceptual framework in Schott 1988 and 1997.

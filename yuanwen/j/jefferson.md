@@ -446,8 +446,6 @@ The SEP Editors would like to thank Fairley Cessna for discovering and reporting
 
 ## Notes（原文脚注）
 
-## Notes to Thomas Jefferson
-
 [^note-1]: In this entry, we shall not insert the Latin ‘*sic.*’ after spellings or literary conventions that differed in Jefferson’s day (e.g., ‘decieve’).
 
 [^note-2]: Jefferson’s thinking here is similar to that of the Scottish philosopher Lord Kames, who states deity has created humans so that their sensory impressions are of utmost use, not that they accord with the nature of things (1758: 113–14).

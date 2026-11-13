@@ -165,8 +165,6 @@ This entry was originally composed by Bernard R. Boxill, and substantially revis
 
 ## Notes（原文脚注）
 
-## Notes to Black Reparations
-
 [^note-1]: The genealogical conception of ethnicity on which this construal of blacks is based is set forth and defended in Corlett (2003: Chapters 2–3) and is designed to refute the idea that self-identification is either a necessary or sufficient condition of ethnic identification concerning public policy considerations. In academia, there seems to be in recent years an epidemic of sorts of ethnic fraud, i.e., faculty claiming to belong to ethnic groups to which they do not belong, genealogically (Viren 2021)[^viren-2021]. The genealogical conception of ethnic identification is specifically devised to, among other things, combat fraudulent or otherwise inaccurate claims to blackness concerning claims to reparations for U.S. slavery.
 
 [^note-2]: Much of the content of this section is based on Boxill (2003b).

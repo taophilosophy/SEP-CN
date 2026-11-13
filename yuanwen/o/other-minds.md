@@ -251,8 +251,6 @@ analogy and analogical reasoning | animal: cognition | cognition: embodied | Dha
 
 ## Notes（原文脚注）
 
-## Notes to Other Minds
-
 [^note-1]: While this may seem obvious, it is arguable that some accounts that are put forward are in danger of losing sight of this imporatnt fact.
 
 [^note-2]: Wright points out that “it is of the essence of asserting that one seeks to transfer information which can be *acted on*” (1984 [1993: 389]), the implication being that indefeasibility is not required for action.

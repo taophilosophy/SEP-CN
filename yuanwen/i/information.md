@@ -1146,8 +1146,6 @@ Aristotle, Special Topics: causality | Church-Turing Thesis | epistemic paradoxe
 
 ## Notes（原文脚注）
 
-## Notes to Information
-
 [^note-1]: The Royal Prussian Academy of Sciences (*Königlich Preussische Academie der Wissenschaften* or *Académie Royale des Sciences et des Belles-Lettres* of Berlin) had annual essay contests starting in 1744. This one was issued in 1769 and the prize awarded in 1771 to Johann Gottfried Herder (see entry).
 
 [^note-2]: From article 2 of the regulations issued in 1866:

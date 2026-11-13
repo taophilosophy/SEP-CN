@@ -520,8 +520,6 @@ I thank Branden Fitelson, Matthias Hild, Christopher Hitchcock, Leon Leontyev, R
 
 ## Notes（原文脚注）
 
-## Notes to Interpretations of Probability
-
 [^note-1]: Compare: apart from the assignment of ‘true’ to tautologies and ‘false’ to contradictions, deductive logic is silent regarding the assignment of truth values.
 
 [^note-2]: It turns out that the axiomatization that Salmon gives (p. 59) is inconsistent, and thus that by his lights no interpretation could be admissible. His axiom A2 states:

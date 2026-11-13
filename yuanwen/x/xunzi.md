@@ -177,8 +177,6 @@ Chinese Philosophy: emotions in early Chinese Philosophy | Chinese Philosophy: e
 
 ## Notes（原文脚注）
 
-## Notes to Xunzi
-
 [^note-1]: For the alternation between the surnames Sun 孫 and Xun 荀, see Knoblock 1988–94: I, 233–39.
 
 [^note-2]: Sections 2–8 of this entry are based on Goldin 2011: 67–98, with revisions and corrections.

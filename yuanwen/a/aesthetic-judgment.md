@@ -260,8 +260,6 @@ aesthetic, concept of the | aesthetic experience | Aristotle, General Topics: ae
 
 ## Notes（原文脚注）
 
-## Notes to Aesthetic Judgment
-
 [^note-1]: What Mary Mothersill calls her “Second Thesis” in her book *Beauty Restored* is the thesis that a judgment of taste, such as “Beethoven’s first Rasumovsky quartet … is beautiful (has artistic merit)” (1984: 145) “is a ‘genuine’ judgment” (1984: 146). However, as she realizes, we then need to know what makes a judgment a *genuine* judgment. She mentions truth, but wisely does not stop there. What she then adds in order to explain this are various normative characteristics, such as the aspiration to correctness (1984: 157–170). So, in the end her view on this matter converges with the normative idea already described.
 
 [^note-2]: For this reason, it is difficult to be gripped by the central puzzle of Mary Mothersill’s *Beauty Restored*—which is how there can be aesthetic truths without aesthetic laws—although this problem is perhaps a cousin of the problem that Hume and Kant think is central.

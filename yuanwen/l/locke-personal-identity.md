@@ -296,8 +296,6 @@ I am grateful to the Chicago Early Modern Round Table for helpful feedback on an
 
 ## Notes（原文脚注）
 
-## Notes to Locke on Personal Identity
-
 [^note-1]: Unless noted, all references to Locke’s *Essay* are to Nidditch’s edition (L-N): Book, Chapter, Section.
 
 [^note-2]: For a discussion of the ways in which the place-time-kind principle has been interpreted by Locke scholars, see Jessica Gordon-Roth’s “Locke’s Place-Time-Kind Principle” (2015) in *Philosophy Compass*.

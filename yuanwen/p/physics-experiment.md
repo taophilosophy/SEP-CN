@@ -510,8 +510,6 @@ We are grateful to Professor Carl Craver for both his comments on the manuscript
 
 ## Notes（原文脚注）
 
-## Notes to Experiment in Physics
-
 [^note-1]: As the late Richard Feynman, one of the leading theoretical physicists of the twentieth century, wrote:
 
 > The principle of science, the definition, almost, is the following: *The test of all knowledge is experiment*. Experiment is the *sole judge* of scientific ‘truth’.

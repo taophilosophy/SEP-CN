@@ -282,8 +282,6 @@ belief, ethics of | consequentialism | consequentialism: rule | decision theory 
 
 ## Notes（原文脚注）
 
-## Notes to Philosophy of Money and Finance
-
 [^note-1]: We largely ignore here the much larger sociology of finance literature (see Cetina & Preda (eds) 2012 for an overview) as well as most of the more economics-oriented work in economic methodology mainly published in *Journal of Economic Methodology*, and formal work touching on issues of normative decision theory mainly published in *Theory and Decision*.
 
 [^note-2]: Additional questions could be raised about finance and gender justice. See, e.g., for rather different aspects, Jaggar 2002, Russell & Villiers 2017, or Thorgeirsdottir 2015.

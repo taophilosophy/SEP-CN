@@ -287,8 +287,6 @@ The author thanks Adam Krashniak for help with the 2018 revision. The editors wo
 
 ## Notes（原文脚注）
 
-## Notes to Inheritance Systems
-
 [^note-1]: More broadly, a trait is hereditary if offspring have a higher probability of resembling the corresponding trait of the parent (e.g., eye color) than would otherwise be the case, or if similarity between parent and offspring is caused by inheritance processes. This sidesteps various complications, for example the effects of sexual reproduction and phenomena such alternation of generations, which are handled differently by the various conceptual frameworks discussed below. For a useful recent discussion of the notions of heredity and reproduction, see Godfrey-Smith (2009).
 
 [^note-2]: The tables below provide a detailed comparison of the inheritance systems of Jablonka and Lamb. These tables are reproduced with permission from Eva Jablonka and Marion J. Lamb (2005/2014).

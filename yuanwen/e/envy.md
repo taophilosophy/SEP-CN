@@ -115,8 +115,6 @@ egalitarianism | equality | justice: distributive
 
 ## Notes（原文脚注）
 
-## Notes to Envy
-
 [^note-1]: Although the term is widely enough used that various non-emotional patterns of behavior and motivation can be called “envious” without linguistic impropriety, it seems clear that these are so called because of their resemblance to the emotional syndrome.
 
 [^note-2]: This test case, and its upshot, are explored in Farrell (1980).

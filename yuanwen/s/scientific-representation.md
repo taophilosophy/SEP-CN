@@ -339,8 +339,6 @@ Goodman, Nelson: aesthetics | imagination | mathematics, philosophy of | mathema
 
 ## Notes（原文脚注）
 
-## Notes to Scientific Representation
-
 [^note-1]: Different formulations of this problem can be found in Frigg (2002: 2, 17), Morrison (2008: 70), and Suárez (2003: 230), and many contributors to the debate tacitly assume a formulation of the problem in terms of necessary and sufficient conditions. Analysing concepts in terms of necessary and sufficient conditions has had some bad press in other corners of philosophy; see Laurence and Margolis (1999) for a review and discussion. Space constraints prevent us from pursuing this issue. We want to flag, however, that, if restricted to core cases, the standard arguments against such an analysis lose much of their bite.
 
 [^note-2]: There seems to be widespread agreement on this point. Bolinska (2013) and Contessa (2007) both refer to models “epistemic representations”, and Bailer-Jones (2003: 59), Frigg (2006: 51), Liu (2013: 93), Morgan and Morrison (1999: 11); Suárez (2003: 229) and Weisberg (2013: 150) have, in different ways, emphasised that studying a scientific representation must be able to inform us about the nature of a target system. A noteworthy exception is Callender and Cohen (2006); we discuss their views in Section 2.

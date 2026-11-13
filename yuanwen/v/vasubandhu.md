@@ -343,8 +343,6 @@ Abhidharma | Buddha | Dharmakīrti | Madhyamaka | mind: in Indian Buddhist Philo
 
 ## Notes（原文脚注）
 
-## Notes to Vasubandhu
-
 [^note-1]: Vasubandhu's dating is contested, though the present author feels that scholars such as Anacker (1998) and Deleanu (2006) have provided convincing resolutions to the most difficult problems (see Gold 2015). See Skilling (2000) and sources noted therein on the problem of authorship. Buescher (2013) reviews this literature from an opposing perspective.
 
 [^note-2]: Current scholarship not only calls into question the distinctiveness of the Sautrāntika school (Kritzer 2003)[^kritzer-2003], but also the solidity of the difference, once thought essential, between so-called “Śrāvaka” and “Mahāyāna” traditions up to and during Vasubandhu's lifetime. In this article there will appear evident continuities among works of Vasubandhu's that straddle this divide. These continuities are underlined in Gold (2015).

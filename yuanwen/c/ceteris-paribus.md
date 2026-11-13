@@ -531,8 +531,6 @@ We would like to thank Alexander Bird, Carl Craver, Matthias Hösch, Beate Krick
 
 ## Notes（原文脚注）
 
-## Notes to *Ceteris Paribus* Laws
-
 [^note-1]: Cf. M. Tullii Ciceronis de Officiis Ad Marcum Filium Libri Tres, lib.I, cap.15: “Sed in collocando beneficio, & in referenda gratia, si caetera paria sint, hoc maximè opis indigeat, ita ei potissimùm opitulari: quod contra fit à plerisque; à quo enim plurimum sperant, etiamsi ille his non eget, tamen ei potissimùm inserviunt.”
 
 [^note-2]: De contractibus (1295) q.8, d.5; cf. Kaufer (1997).

@@ -172,8 +172,6 @@ Aristotle | atheism and agnosticism | doxography of ancient philosophy | Plato |
 
 ## Notes（原文脚注）
 
-## Notes to Protagoras
-
 [^note-1]: Protagoras, like many thinkers of his day, does not distinguish between the mind and sense-perceptions as though they concerned two completely different domains (i.e. the intelligible world and the sensible one): cf. 80A1 DK on the soul.
 
 [^note-2]: Very interesting reflections are also to be found in Most 1986, who stresses the importance of the interpretation of literary texts as a distinctive feature of the sophists. Indeed, the sophists’ penchant for the written word constitutes a distinguishing element with respect to the oral culture in which poets found themselves operating.

@@ -487,8 +487,6 @@ I owe thanks to Reuven Brandt, Aaron Cobb, Sam Clark, Fred Kroon, John Skorupski
 
 ## Notes（原文脚注）
 
-## Notes to John Stuart Mill
-
 [^note-1]: There is, however, an additional class of names which Mill claims are non-connotative. Besides singular and general, names also divide, Mill tells us, into *concrete* and *abstract*. Concrete names denote *objects*; abstract names denote *attributes*. “*Old* is a name of things; *old age* is a name of one of their attributes” (*System*, VII: 29). Many abstract names are themselves connotative. This is merely to say, of course, that the application of an attribute-term can itself be guided by whether that attribute has some further set of attributes. In contrast, there are some primitive abstract names which are not applied because they themselves connote anything further—“whiteness” is an abstract name denoting the phenomenal attribute of our white sensations, but is not applied on the grounds of that attribute possessing some further attributes which guide our application of the term (*System*, VII: 105–6).
 
 [^note-2]: Though see Mill’s claim that we have *reason* to trust our memory, which itself is primitive and cannot be grounded in induction (*Examination*, IX: 164–6n). If this is so, this may well represent an additional theoretical norm in Mill’s philosophy. The case is ambiguous, however, because often memory is treated by Mill as a species of observation and therefore as self-certifying (see, for instance, *System*, VIII: 642). Given Mill’s claim—discussed below in section 3.5—that “[a] great part of what seems observation is really inference”, the ambiguity is difficult to resolve. See Miller (2010: 17–8) for useful discussion of the status of memory in Mill’s work.

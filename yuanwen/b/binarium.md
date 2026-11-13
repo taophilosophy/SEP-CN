@@ -118,8 +118,6 @@ Aquinas, Thomas | Bonaventure | Duns Scotus, John | Giles of Rome | Godfrey of F
 
 ## Notes（原文脚注）
 
-## Notes to *Binarium Famosissimum*
-
 1. The phrase “doctrinal complex”was used by Gilson (for example, Gilson [1955], p. 340). Without denying medieval authors' very real disagreements in many areas, these historians nevertheless found a loose consensus among scholastics on a variety of important issues. This “common teaching” (the phrase is used by Weisheipl [1980], p. 242) was associated with the name and authority of Saint Augustine, although in fact the particular forms it took owed much to Boethius and to later Islamic and Jewish thought. One speaks therefore of an “Augustinianism” in the thirteenth century, a conservative, “traditional” teaching in contrast to the “innovations” introduced by followers of the newly translated and increasingly popular Aristotle. Gilson [1955], p. 340, says:
 
 > Representatives of this doctrinal complex are to be found everywhere in the second part of the thirteenth century, at Paris, Oxford and in Italy. … Augustinians belonged to all the religious Orders, but most of them were Franciscan Brothers, …

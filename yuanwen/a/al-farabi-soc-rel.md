@@ -175,8 +175,6 @@ al-Farabi | al-Farabi: metaphysics | al-Farabi: psychology and epistemology | Ar
 
 ## Notes（原文脚注）
 
-## Notes to al-Farabi’s Philosophy of Society and Religion
-
 [^note-1]: The adjective *madaniyya* (fem. of *madani*) derives from the noun *madina* (literally city). As such, *madina* is the Arabic term for Greek *polis*; the adjective *madani* renders *politikē*. For a discussion of the implications of these terms, see Rudolph 2012a: 444–447; Gutas 2004.
 
 [^note-2]: In this connection, the distinction between “perfect” (*kamil*) and “excellent” (*fadil*) should be emphasized: while ‘perfect’ in the quoted passages refers to the completeness of the starting conditions, ‘excellent’ indicates the soundness of the pursued goal, corresponding to the natural *telos*.

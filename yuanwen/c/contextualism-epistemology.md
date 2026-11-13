@@ -402,8 +402,6 @@ epistemic closure | epistemic paradoxes | epistemology | epistemology: social | 
 
 ## Notes（原文脚注）
 
-## Notes to Epistemic Contextualism
-
 [^note-1]: For other useful overviews of some of the history leading up to EC, to which the discussion of this section is indebted, see Pryor 2001, DeRose 1999, and the opening pages of Sosa 1988.
 
 [^note-2]: See DeRose 1999 on the distinction between ‘subject’ and ‘attributor contextualism’.

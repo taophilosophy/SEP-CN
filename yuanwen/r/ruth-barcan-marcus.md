@@ -624,8 +624,6 @@ I thank Graham Moore who has assisted me in the early stages of preparation of t
 
 ## Notes（原文脚注）
 
-## Notes to Ruth Barcan Marcus
-
 [^note-1]: We are concerned with logical systems that meet contemporary standards of formality and systematicity. Lewis and Langford (1932: 178–198) put forward a postulate which quantifies over propositions, but do not develop first-order modal systems. Carnap 1946, which was published just a few months after Barcan’s paper, fully develops a first-order quantified modal system.
 
 [^note-2]: This entry adopts $\rightarrow$ for material implication in place of Lewis’s and Barcan’s horseshoe, $\Rightarrow$ for strict implication in place of their fishhook sign, $\leftrightarrow$ for material equivalence in place of the triple bar, $\Leftrightarrow$ for strict equivalence in place of the quadruple bar, and $\land$ in place of $\cdot$ for conjunction. Additional divergences from various authors, including Barcan, won’t be signalled unless needed to avoid confusion. With a few exceptions, the formal symbols are also used to refer to themselves, as in this note.

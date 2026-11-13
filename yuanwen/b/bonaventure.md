@@ -323,8 +323,6 @@ Anselm of Canterbury [Anselm of Bec] | Aristotle | Augustine of Hippo | divine: 
 
 ## Notes（原文脚注）
 
-## Notes to Bonaventure
-
 [^note-1]: Bonaventure wrote two pieces of hagiography on Francis of Assisi: *The Legenda Maior* a text mean to be read aloud within Franciscan houses and the *Legenda Minor* a liturgical text meant to be read during the eight day celebration of Francis's feast within the Order of Friars Minor. The critical edition of the *Legenda Maior* and *Minor* is in the *Analecta Franciscana*, volume X. Often scholars cite a reprinting of this edition without all of its notes an apparatus from the collection *Fontes Franciscani*, eds. Enrico Menestò and Stefano Brufani (Assisi: Edizioni Porziuncola, 1995). The translation of all of Bonaventure's texts on St. Francis may be found in the collection Francis of Assisi Early Documents (FA:ED), volume 2.
 
 [^note-2]: For Bonaventure’s chronology, see Bougerol 1961 earlier study of Distelbrink 1975.

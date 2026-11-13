@@ -157,8 +157,6 @@ The editors would like to thank Gintautas Miliauskas (Vilnius University) and Ni
 
 ## Notes（原文脚注）
 
-## Notes to Communitarianism
-
 [^note-1]: Both Taylor and Walzer identify themselves as liberals in Gutmann 1992. MacIntyre (1991) says “In spite of rumors to the contrary, I am not and never have been a communitarian”. Sandel (1998) uses the label republican rather than communitarian.
 
 [^note-2]: This essay draws on the threefold distinction in Bell 1993. For a similar threefold distinction, see Caney 1992. But for an expanded fivefold classification of arguments, see Mulhall & Swift 1996.

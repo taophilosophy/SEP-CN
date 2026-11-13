@@ -125,8 +125,6 @@ African Philosophy: sage philosophy | animals: moral status of | personal identi
 
 ## Notes（原文脚注）
 
-## Notes to Akan Philosophy of the Person
-
 [^note-1]: The Akan, of course, are not unique in distinguishing between persons and humans. In the United States, for instance, corporations are treated as ‘artificial persons’ under the law and given many of the same protections granted to so-called ‘natural persons’ by the Constitution.
 
 [^note-2]: It should here be noted that personhood is an open-ended climb, since one can theoretically climb higher and higher and higher in the achievement of personhood. There is, however, also a downward limit to how far a person can fall, since one cannot descend below the level at which one becomes a mere human being with certain minimum irreducible rights and responsibilities.

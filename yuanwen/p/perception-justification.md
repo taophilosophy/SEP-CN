@@ -483,8 +483,6 @@ Many thanks for their help to David Chalmers, Andrew Chignell, Fiona Macpherson,
 
 ## Notes（原文脚注）
 
-## Notes to Perceptual Experience and Perceptual Justification
-
 [^note-1]: Source for Figure 1: Image by “Fibonacci”, from a [Wikipedia SVG file](http://en.wikipedia.org/wiki/M%C3%BCller-Lyer_illusion#mediaviewer/File:M%C3%BCller-Lyer_illusion.svg), created 16 March 2007, [GNU Free Documentation License](http://en.wikipedia.org/wiki/GNU_Free_Documentation_License), Creative Commons Attribution ShareAlike 2.5, accessed on July 8 2014.]
 
 [^note-2]: Source for Figure 2: Posted to [Flickr](https://www.flickr.com/photos/13945871@N00/2429580081) by Davee, taken on April 10, 2008, [Creative Commons/Attribution 2.0 Generic License](https://creativecommons.org/licenses/by/2.0/), accessed on June 2 2014.

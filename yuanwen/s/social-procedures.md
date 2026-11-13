@@ -243,8 +243,6 @@ I would like to express my gratitude to Jan van Eijck for the enjoyable time of 
 
 ## Notes（原文脚注）
 
-## Notes to Formal Approaches to Social Procedures
-
 [^note-1]: “Social software” is also used as a name for Internet communication applications like MSN Messenger, Twitter, and Skype. This is not what this entry is about. And what is sometimes called “social software engineering” is again something different: it is a name for the subdiscipline of software engineering that studies its aspect of social interaction.
 
 [^note-2]: Başkent (2017) convincingly argues that it is useful to look beyond classical logic only when analyzing social procedures. He shows that for some examples’s from Parikh’s work on social software, a para-consistent logic provides a useful perspective (see also entry on paraconsistent logic).

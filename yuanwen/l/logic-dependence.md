@@ -401,8 +401,6 @@ compositionality | game-theoretic semantics and pragmatics | logic: and games | 
 
 ## Notes（原文脚注）
 
-## Notes to Dependence Logic
-
 [^note-1]: Since, for simplicity, we are working with expressions in negation normal form, there is no need of a third element to indicate whether the current subformula is or is not negated as a component of the sentence.
 
 [^abramsky-2009]: Abramsky, Samson and Jouko Väänänen, 2009, “From IF to BI: A Tale of Dependence and Separation”, *Synthese*, 167(2): 207–230. doi:10.1007/s11229-008-9415-6

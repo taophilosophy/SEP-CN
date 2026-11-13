@@ -564,8 +564,6 @@ Thanks are due to Peter Norvig and Prentice-Hall for allowing figures from *AIMA
 
 ## Notes（原文脚注）
 
-## Notes to Artificial Intelligence
-
 [^note-1]: The pair of parentheticals here are indispensable, and worth noting, since some AI researchers and/or engineers will surely not see themselves as striving to build animals and/or persons. Nonetheless, if they are operating under any of the orthodox accounts (some of which are explored below) of what artifacts AI research and engineering is to produce, the bottom line is that the artifacts that are intended to be built are accurately said to be artificial correlates of the only non-artificial intelligent beings the human race has been able to locate so far: viz., animals of the non-human variety, and us. It’s true, however, that some aspire to build artificial creatures that greatly exceed the cognitive powers of what nature has supplied; we discuss this issue separately, below.
 
 [^note-2]: Alas, none of the original attendees are still with us.

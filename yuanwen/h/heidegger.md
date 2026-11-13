@@ -1070,8 +1070,6 @@ Arendt, Hannah | artificial intelligence | authenticity | death: definition of |
 
 ## Notes（原文脚注）
 
-## Notes to Martin Heidegger
-
 [^note-1]: These included lectures on Aristotle, Plato, Aquinas, Descartes, Spinoza, Leibniz, Kant, and Dilthey.
 
 [^note-2]: See also Carman 2003: 17; Rouse 2005: 174; Sheehan 2001: 191; and Käufer 2005: 483: being is “the meaning-conditions that make entities as such intelligible”

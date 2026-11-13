@@ -476,8 +476,6 @@ Descartes, René | Hume, David | idealism | Locke, John | Malebranche, Nicolas |
 
 ## Notes（原文脚注）
 
-## Notes to George Berkeley
-
 [^note-1]: Berkeley also argues against abstractionism in *Alciphron* and *A Defense of Free-thinking in Mathematics* (Berkeley [W] 3:292–293, 331–335; 4:134–5). See also the first draft of IP (Introduction” to the *Principles*), which differs in important ways from the published version ([W] 2:121–145).
 
 [^note-2]: Interpreters have usefully distinguished several different types of abstract ideas attacked by Berkeley. See Pappas 2000, 40–44.

@@ -153,8 +153,6 @@ feminist philosophy, interventions: history of philosophy | friendship | love | 
 
 ## Notes（原文脚注）
 
-## Notes to Plato on Friendship and Eros
-
 [^note-1]: The proverb is that “good men go uninvited to an inferior man's feast” (Eupolis fr. 289).
 
 [^note-2]: The relevance of the *Protagoras* to the *Symposium* was drawn to my attention by Teçusan 1990.

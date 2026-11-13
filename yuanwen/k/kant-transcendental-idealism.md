@@ -776,8 +776,6 @@ Kant, Immanuel | Kant, Immanuel: view of mind and consciousness of self | Kant, 
 
 ## Notes（原文脚注）
 
-## Notes to Kant’s Transcendental Idealism
-
 [^note-1]: Ever since the publication of the *Critique*, this claim, the so-called “doctrine of noumenal affection”, has been especially controversial since it apparently involves predicating a category (cause-effect) of things in themselves. This controversy is discussed below, in section 3.4.
 
 [^note-2]: In the *Critique of Practical Reason*, transcendental idealism is invoked to secure the possibility of the highest good (Ak. 5:134–136); in the *Critique of Judgment,* it is invoked to prove the possibility of a reflective judgment of taste (Ak. 5:338–351) and the possibility of a reflective judgment of purposiveness (Ak. 5:405–415).

@@ -539,8 +539,6 @@ categories | compositionality | meaning, theories of | pragmatics | presuppositi
 
 ## Notes（原文脚注）
 
-## Notes to Category Mistakes
-
 [^note-1]: For some exceptions see Gotham (2015), §5.1 and Malik (2021). Mankowitz (forthcoming) raises and then dismisses the possibility of characterizing category mistakes using ERP results centering on N400 effects.
 
 [^note-2]: *Metaphysics* VII.5, 1030ᵇ28–35. Other relevant discussions are Aristotle’s remarks on negation in *Categories* 10, 13ᵇ22–24, and his discussion of predication in *Posterior Analytics* 1.4.

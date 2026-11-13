@@ -299,8 +299,6 @@ I would also like to thank an anonymous reader and the editors for suggestions o
 
 ## Notes（原文脚注）
 
-## Notes to Intergenerational Justice
-
 [^note-1]: See Section 4 for a sufficientarian interpretation of future people’s welfare rights vis-à-vis currently living people.
 
 [^note-2]: See Heyd 1992: chs. 1 and 4. Whether future people can be said to and have a right to non-existence under certain circumstances is the central issue of “wrongful life” cases, which are to be distinguished from both “wrongful birth” and “wrongful pregnancy” cases. The latter two concern interests of *parents* in not giving birth to a defective child and in not having an unwanted pregnancy, respectively. “Wrongful life” cases concern the interests of *children* in not being brought into existence under certain circumstances.

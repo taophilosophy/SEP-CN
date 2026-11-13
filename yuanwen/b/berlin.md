@@ -328,8 +328,6 @@ The authors would like to thank George Crowder, Johnny Lyons, Beata Polanowska-S
 
 ## Notes（原文脚注）
 
-## Notes to Isaiah Berlin
-
 [^note-1]: The distinction between the human or cultural ‘sciences’ (as Berlin rarely called them in his own voice) – history, philosophy, law and the various social ‘sciences’, such as sociology, economics, anthropology etc. – had become a major issue in nineteenth-century German philosophy. It continued to play an important part in Germany in the earlier twentieth century, and also became a significant issue in the English-speaking world, as a result both of the influence of the Vienna Circle and of the emergence of the social sciences as an increasingly self-confident and respected field of study. Berlin’s work, even though it invoked earlier figures such as Giambattista Vico and J. G. Herder, closely resembled, and was influenced by, attempts by such thinkers as Heinrich Rickert, Wilhelm Dilthey and Max Weber to explain the nature of the ‘Geisteswissenschaften’, the German word for the humanities, usually translated as ‘human sciences’.
 
 Berlin’s use of the terms ‘humanities’ and ‘humane studies’ is motivated by his insistence that their aims and methods differ radically – a position that would be masked by using the term ‘human sciences’, which is the normal rendering of ‘Geisteswissenschaften’, as opposed to ‘Naturwissenschaften’, the ‘natural sciences’. The *locus classicus* for his distinction is ‘The Divorce between the Sciences and the Humanities’ (in Berlin 1979). ‘Humanities’ is by far his most frequent term, and the one we adopt here except in historical contexts that make ‘human sciences’ more natural (Berlin’s own practice). See also note 6.

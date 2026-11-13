@@ -404,8 +404,6 @@ As of the 2026 update, Jonathan Ichikawa has taken sole responsibility for updat
 
 ## Notes（原文脚注）
 
-## Notes to The Analysis of Knowledge
-
 [^note-1]: For more detail about the distinctions, see Ichikawa and Jenkins 2017: 116.
 
 [^note-2]: Hazlett takes this to motivate divorcing semantic considerations about the verb “to know” from knowledge, the state of traditional epistemic interest. Though he thinks “to know” is not a factive verb, even Hazlett accepts that knowledge itself is a state that can only obtain if its content is true (Hazlett 2010)[^hazlett-2010].

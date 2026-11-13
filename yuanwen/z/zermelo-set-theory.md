@@ -361,8 +361,6 @@ Russell’s paradox | set theory | set theory: alternative axiomatic theories | 
 
 ## Notes（原文脚注）
 
-## Notes to Zermelo’s Axiomatization of Set Theory
-
 [^note-1]: Page number specifications on their own will refer to Zermelo (1908b). The translations of Zermelo are all taken from Zermelo (2010), where the original pagination is preserved and where the original German can be found.
 
 [^note-2]: As Russell admits:

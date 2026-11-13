@@ -425,8 +425,6 @@ The author is grateful to Philipp Hünnebeck, Kelsey Seymour, Song Xiaokun, and 
 
 ## Notes（原文脚注）
 
-## Notes to Religious Daoism
-
 [^note-1]: . Translations and definitions of these terms are complex. To give one example, *qi* is also rendered as “pneuma,” “vapor,” “energy,” and in other ways. While “breath” covers some, but not all, of the senses of *qi*, this translation has the advantage of preserving the correspondence between the *qi* of the Dao and the *qi* of the human being, which manifests itself primarily in breathing.
 
 [^andersen-1979]: Andersen, Poul, 1979, *The Method of Holding the Three Ones: A Taoist Manual of Meditation of the Fourth Century A.D.*, London and Malmö: Curzon Press.

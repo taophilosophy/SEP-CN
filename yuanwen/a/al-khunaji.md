@@ -399,8 +399,6 @@ al-Razi, Fakhr al-Din | Arabic and Islamic Philosophy, disciplines in: philosoph
 
 ## Notes（原文脚注）
 
-## Notes to Afḍal al-Dīn al-Khūnajī
-
 [^note-1]: All translations are by the author of this entry.
 
 [^khulāṣa-2018]: [*Khulāṣa*] *Khulāṣat al-afkār wa-naqāwat al-asrār*, edited by M. ʿAẓīmī and H. Qurbānī, Tehran: Iranian Institute of Philosophy, 2018.

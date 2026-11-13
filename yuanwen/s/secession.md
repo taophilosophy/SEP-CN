@@ -281,8 +281,6 @@ citizenship | constitutionalism | democracy | federalism | identity politics | l
 
 ## Notes（原文脚注）
 
-## Notes to Secession
-
 [^note-1]: *Reference re Secession of Quebec*. 1998. 2 S.C.R.
 
 [^note-2]: Sunstein does not distinguish between an explicit constitutional right to secede and a constitutional sanction for secession in the absence of an explicit constitutional right to secede, as when secession can be achieved through constitutional amendment.

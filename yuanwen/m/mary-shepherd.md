@@ -162,8 +162,6 @@ The author thanks Jennifer McRobert for sharing some of her research on Shepherd
 
 ## Notes（原文脚注）
 
-## Notes to Mary Shepherd
-
 [^note-1]: Boyle (2020b) argues that seeming evidence that Shepherd published an earlier book is incorrect.
 
 [^note-2]: To be clear, the union of pre-existing objects is not the cause of the newly formed object; rather that object is the cause of newly formed qualities. Shepherd often uses “arises from”, “results in”, or “elicits” to refer to the generation of causes of novel qualities.

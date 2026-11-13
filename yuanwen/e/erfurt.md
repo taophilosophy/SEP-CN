@@ -91,8 +91,6 @@ Buridan, John [Jean] | categories: medieval theories of | Duns Scotus, John | He
 
 ## Notes（原文脚注）
 
-## Notes to Thomas of Erfurt
-
 [^note-1]: The factual information in this section and the next has been gathered from Lorenz 1989, still the definitive source for Thomas of Erfurt’s life and writings.
 
 [^note-2]: Stephan Grotz comments on the remarkable similarities between the commentaries of Siger and Thomas on Porphyry’s *Isagoge* and Aristotle’s *Categories* (1998: vii, n. 1). Likewise, Jan Pinborg notes that “long passages of the *Grammatica speculativa* [i.e. *De modis significandi*] are simply taken over from Radulphus Brito” (Pinborg 1974: 372; see also Pinborg 1967)[^pinborg-1967][^pinborg-1974].

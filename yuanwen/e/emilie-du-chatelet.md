@@ -180,8 +180,6 @@ Condillac, Étienne Bonnot de | Descartes, René | feminist philosophy, interven
 
 ## Notes（原文脚注）
 
-## Notes to Émilie du Châtelet
-
 [^note-1]: Thanks to Andrew Janiak for alerting me to this fact.
 
 [^note-2]: For similar analyses of Du Châtelet's position on Descartes and Cartesianism, see Janik 1982, 87; Alic 1986 (139); Barber 1967 (208); and Hutton 2004a (517).

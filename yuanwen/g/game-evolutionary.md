@@ -516,8 +516,6 @@ altruism | altruism: biological | evolution | evolution: cultural | game theory 
 
 ## Notes（原文脚注）
 
-## Notes to Evolutionary Game Theory
-
 [^note-1]: An earlier, logically equivalent, definition of an evolutionarily stable strategy can be found in the Maynard Smith and Price paper “The Logic of Animal Conflict”, *Nature*, vol. 246, pp. 15–18 (1973). In the introduction to his 1972 collection of essays entitled *On Evolution*, Maynard Smith gives credit to George Price for the idea: “I would probably not have had the idea for this essay if I had not seen an unpublished manuscript on the evolution of fighting by Dr George Price […] Unfortunately, Dr Price is better at having ideas than at publishing them. The best I can do therefore is acknowledge that if there is anything in the idea, the credit should go to Dr Price and not to me.”
 
 [^note-2]: In a mixed strategy, a player assigns a probability to each pure strategy, and chooses which strategy to play using a randomization device. For the Hawk-Dove game, one mixed strategy would assign equal probabilities to playing Hawk or Dove, and decide which to play in a given case by flipping a fair coin.

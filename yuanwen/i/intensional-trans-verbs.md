@@ -411,8 +411,6 @@ compositionality | Frege, Gottlob | generic generalizations | logic: intensional
 
 ## Notes（原文脚注）
 
-## Notes to Intensional Transitive Verbs
-
 [^note-1]: 1. The domain invoked may be a domain of (specific) fictional entities, as in “Guercino drew all Santa’s reindeers” (Donner, Blitzen, etc.). The coda ‘but no particular ones’ is no more successful in this case than with “Guercino drew all Aldrovandi’s dogs”. See further discussion at the end of this article.
 
 [^note-2]: 2. We have to say ‘fears-true’ since the simple ‘fears’ would result in the claim that Lex is afraid of the proposition. With other clausal verbs, such as ‘believes’, the ‘-true’ is not obligatory. For discussion of these phenomena, see section 6.

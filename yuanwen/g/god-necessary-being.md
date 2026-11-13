@@ -200,8 +200,6 @@ Thanks to Edward Wierenga, Timothy Simmons, Anthony Macias, and an anonymous ref
 
 ## Notes（原文脚注）
 
-## Notes to God and Other Necessary Beings
-
 [^note-1]: The sort of necessity referenced here and throughout is necessity of the metaphysical or *broadly logical* sort (see Plantinga 1974)[^plantinga-1974].
 
 [^note-2]: There are philosophers who use terms like “proposition”, “property”, “relations”, and “states of affairs” in ways such that these, or some of these, are contingent entities. (For instance, those who think that there are Russellian singular propositions or Armstrongian states of affairs with immanent universals as constituents probably would think some of these contingently existing.) Here we will think of propositions and states affairs in the way Plantinga (1974, 2003) conceives of them, and properties and relations the way van Inwagen (2014) conceives of them.

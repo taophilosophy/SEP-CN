@@ -573,8 +573,10 @@ def build_cite_keys(entry_texts):
         if not text:
             continue
         continued = text.startswith('–––') or text.startswith('———')
-        ym = re.search(r'\b(1[6-9]\d\d|20\d\d)([a-e]?)\b', text)
-        year, suffix = (ym.group(1), ym.group(2)) if ym else (None, '')
+        # 年份后缀大小写都认（2026-11-13 审计：1992A/2004B 旧正则只认小写，
+        # 被当无年份条目，键退化为 gethin-nd / cox-nd-2，键名与年份脱钩）
+        ym = re.search(r'\b(1[6-9]\d\d|20\d\d)([a-eA-E]?)\b', text)
+        year, suffix = (ym.group(1), ym.group(2).lower()) if ym else (None, '')
         if continued:
             surnames = list(prev_surnames)
             if not surnames:
@@ -640,6 +642,9 @@ def link_citations(md_text, keys):
 
 NOTE_ANCHOR_RE = re.compile(
     r'<(?:a|div|p|li|dt|dd)\b[^>]*\bid="(note-[A-Za-z0-9_-]+)"[^>]*>', re.I)
+# notes.html 自带页标题（如 <h2>Notes to Abhidharma</h2>）：正文侧已由转换器
+# 输出「## Notes（原文脚注）」节标题，保留即双标题（2026-11-13 审计 692 处）
+NOTES_TITLE_RE = re.compile(r'<h[1-4][^>]*>(?:(?!</h[1-4]>).)*?</h[1-4]>', re.S | re.I)
 BACKLINK_RE = re.compile(
     r'<a\b[^>]*\bhref="index\.html#[^"]*"[^>]*>\s*(?:\d+\.?|\^)?\s*</a>', re.I | re.S)
 
@@ -682,6 +687,12 @@ def convert_notes(html, slug):
     m, e = parser.HEAD_RE.search(html), parser.TAIL_RE.search(html)
     article = html[m.end():e.start()] if (m and e) else html
     article = strip_closed_comments(article)
+    # 丢掉 notes.html 自带页标题（仅限页首 500 字符内的 Notes 标题，避免误删注内标题）
+    m0 = NOTES_TITLE_RE.search(article)
+    if m0 and m0.start() < 500:
+        htext = re.sub(r'<[^>]+>', '', m0.group(0))
+        if re.search(r'\bnotes?\b', unescape(htext), re.I):
+            article = article[:m0.start()] + article[m0.end():]
     article, stash = protect_cross_block_math(article)
     defs = []
     marks = [(mm.start(), mm.group(1)) for mm in NOTE_ANCHOR_RE.finditer(article)]

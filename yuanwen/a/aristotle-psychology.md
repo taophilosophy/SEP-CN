@@ -172,8 +172,6 @@ Aristotle, General Topics: ethics | Aristotle, General Topics: metaphysics
 
 ## Notes（原文脚注）
 
-## Notes to Aristotle’s Psychology
-
 ### Notes to The Active Mind of *De Anima* iii 5
 
 [^note-1]: 1. For useful collections of references to a representative sample of the voluminous literature on this chapter, see Wedin (1988, 160–1 nn. 1–4) and Caston (1999, 199 n.1). For a somewhat older but still extremely valuable collection of interpretations, see Hicks (1907).

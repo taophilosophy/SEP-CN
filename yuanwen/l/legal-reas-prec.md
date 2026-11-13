@@ -245,8 +245,6 @@ I am grateful to Liam Murphy and Joseph Raz for their very helpful comments on a
 
 ## Notes（原文脚注）
 
-## Notes to Precedent and Analogy in Legal Reasoning
-
 [^note-1]: It is often said of such systems that in *practice* earlier decisions are used by later courts in ways parallel to their use in jurisdictions with an official doctrine of precedent, i.e., that there is an unofficial practice of precedent (see many of the essays in MacCormick and Summers 1997)[^maccormick-1997]. But it is also possible that this practice reflects a genuinely held belief that such decisions possess *theoretical* authority, i.e., that they *are* more likely to be correct given considerations such as the judges on appellate courts being more experienced and able than lower court judges, their judges sitting in large benches and being able to pool their experience and judgement into a single view, and the amount of time they have to consider the matter. In legal systems with a career judiciary (appointed immediately after their academic education) such beliefs are not implausible.
 
 [^note-2]: Indeed the Common Law already does this for a special class of wrongly decided cases known as *per incuriam*: a later court is not bound by an earlier decision in which the earlier court failed to consider a precedent binding on *it*.

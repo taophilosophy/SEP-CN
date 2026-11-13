@@ -299,8 +299,6 @@ Thanks for research assistance by Mikolaj Barczentewicz, and for helpful comment
 
 ## Notes（原文脚注）
 
-## Notes to Law and Language
-
 [^note-1]: John Rawls wrote that ‘notions of meaning and analyticity play no essential role in moral theory as I conceive of it’ (Rawls 1999, xx)[^rawls-1999]. On the notion that legal philosophers are political philosophers, see Edmundson 2014.
 
 [^note-2]: This point is actually more complicated than I have said, because a written constitution may itself be created by the linguistic act of a law-making authority that already has legal power in the system. But the complication does not matter.

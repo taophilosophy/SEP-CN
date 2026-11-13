@@ -230,8 +230,6 @@ Cassirer, Ernst | Cohen, Hermann | general relativity: early philosophical inter
 
 ## Notes（原文脚注）
 
-## Notes to Neo-Kantianism
-
 [^note-1]: There were, of course, other members of the two schools. For reasons of space, this article covers only Cohen, Natorp, Cassirer, Windelband, Rickert, and Lask.
 
 [^note-2]: Please note that this article concerns what might be called “classical” Neo-Kantianism: the self-identified philosophical schools of late nineteenth and early twentieth century Germany centered around Marburg and southwestern Germany. Many philosophers are “neo-Kantian” in the broader sense that they draw significant inspiration from aspects of Kant’s philosophy: for instance, earlier nineteenth century philosophers such as Herbart or Schopenhauer were neo-Kantian in this broad sense, as were other philosophers contemporary with the classical Neo-Kantians—for instance, Hans Vaihinger or Wilhelm Dilthey in Germany, Alois Riehl in Austria, Émile Boutroux or Léon Brunschvicg in France, and Robert Adamson or T.H. Green in Britain. There are principled reasons, articulated in section 1 of this article, for distinguishing the classical Neo-Kantians of the Marburg and SW schools from “neo-Kantians” in this broader sense. An article on neo-Kantianism in this broad sense would almost constitute a complete history of philosophy from Kant up into the twentieth century.

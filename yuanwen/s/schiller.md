@@ -239,8 +239,6 @@ aesthetics: 19th Century Romantic | aesthetics: German, in the 18th century | be
 
 ## Notes（原文脚注）
 
-## Notes to Friedrich Schiller
-
 [^note-1]: In order to favor no single European language, the hymn itself, although based on Beethoven’s setting of Schiller’s poem, does not in fact include Schiller’s text, or indeed any text. Hart recounts the remarkable trajectory of this poem, including its relationship to censorship in Schiller’s time and its status, via Beethoven’s setting, in both contemporary popular and political culture (Hart 2008: 485, 490).
 
 [^note-2]: Beiser points out that Schiller’s medical dissertations had philosophical roots; he also published an epistolary philosophical treatise entitled *Philosophische Briefe* in 1786. See Beiser 2005:18–41; Hinderer 1991: 197; Deligiorgi 2013; Macor 2011: 111.

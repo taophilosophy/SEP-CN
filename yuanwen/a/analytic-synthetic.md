@@ -427,8 +427,6 @@ I’m grateful to many readers for calling attention to errors in previous editi
 
 ## Notes（原文脚注）
 
-## Notes to The Analytic/Synthetic Distinction
-
 [^note-1]: Hence “analytic philosophy,” which has dominated Anglophone philosophy since the early work of G.E. Moore (1903) and Bertrand Russell (1905), although it has long ceased to have any commitment to actual “analyses” of meanings, or even to the viability of the analytic/synthetic distinction. It now refers more generally to philosophy done in the associated closely reasoned style that is associated with philosophy centered in (but by no means confined to) the Anglo-American world. Thus (with all due respect to other traditions) “philosophers” in this entry will be taken to refer largely to philosophy in this tradition. But it’s important to note that broadly “analytic” methods have a complex history from ancient Greece to modern philosophy in both Western and Eastern Europe (and likely elsewhere) beyond what it will be possible to include here (see the entry on analysis, as well as Coffa 1991 and Wolenski 2004 (pp. 30–53), for rich details of some of that history, particularly from Kant to Carnap).
 
 [^note-2]: That providing a serious, positive account of the “analytic” was not Kant’s concern is perhaps brought out by his scepticism at his (1787 [1998], B755–760), at least about definitions outside of mathematics.

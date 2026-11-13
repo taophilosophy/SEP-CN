@@ -108,8 +108,6 @@ Burley [Burleigh], Walter | Ockham [Occam], William | Simon of Faversham | *soph
 
 ## Notes（原文脚注）
 
-## Notes to Richard the Sophister
-
 [^note-1]: In Albert of Saxony’s introductory remarks regarding the exceptive term “*tantum*” in his *Perutilis Logica* we read this definition of the term “*abstractio*”: “*Abstractio est dubitabilium propositionum collectio* (An abstraction is a collection of puzzling propositions)” (Erfurt ms., Amploniana, Cod. Q 242, f. 33v). This section of Albert’s treatise is not edited in the 1518 Venice edition. The only other known treatise from the Middle Ages with the title “*Abstractiones*” is that of a certain Hervaeus Sophista, edited in de Libera 1986. The term “*abstractio*”, then, seems to refer to a “collection” of sophisms, perhaps with some emphasis upon the “excerpted” nature of such a collection. Indeed, the collection of Hervaeus consists of some 298 sophisms within a space of a mere five folios. Richard considers some 305 sophisms within a space of almost thirty folios in the Digby 24 manuscript.
 
 [^note-2]: De Rijk 1962–67, Vol. II, pt 1., 62–85 and 444–447.

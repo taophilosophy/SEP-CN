@@ -513,8 +513,6 @@ Boolean algebra: the mathematics of | category theory | logic: classical
 
 ## Notes（原文脚注）
 
-## Notes to Infinitary Logic
-
 [^note-1]: Observe, however, that while the formation rules for L(κ,λ) allow the deployment of infinitely many quantifiers, each preformula can contain only finitely many *alternations* of quantifiers. Languages permitting infinite quantifier alternations have been developed in the literature, but we shall not discuss them here.
 
 [^note-2]: This remark loses its force when the base language contains predicate symbols with infinitely many argument places. However, this possibility is excluded here since our base language is a conventional first-order language.

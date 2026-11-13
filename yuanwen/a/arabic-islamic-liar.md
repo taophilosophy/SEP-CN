@@ -451,8 +451,6 @@ al-Farabi | al-Farabi: philosophy of logic and language | al-Razi, Fakhr al-Din 
 
 ## Notes（原文脚注）
 
-## Notes to The Liar Paradox in Arabic and Islamic Philosophy
-
 [^note-1]: ‘Saying’ is the best of several bad options for translating the Arabic words ‘*qawl*’ and ‘*kalām*’ into English. Both are used interchangeably to pick out the grammatical category of “complete”—that is, sentence-length—utterances. Compare to Barnes (2007: 2 n. 3) on the Greek word ‘logos’ as used in grammar.
 
 [^most-2026]: Most of the works discussed in this article are only just becoming available in English translation. Alwishah and Sanson (2026) contains a complete translation of al-Dawānī’s *Final Word*, along with translations of all the passages discussed in this article.

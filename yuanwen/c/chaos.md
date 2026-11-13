@@ -465,8 +465,6 @@ determinism: causal | Kuhn, Thomas | mind/brain identity theory | models in scie
 
 ## Notes（原文脚注）
 
-## Notes to Chaos
-
 [^note-1]: Factorial and double exponential would be examples.
 
 [^note-2]: The “theory” part of his definition has to do with the “qualitative study” of such systems (§2).

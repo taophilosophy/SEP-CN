@@ -256,8 +256,6 @@ ethics: virtue | integrity | moral dilemmas
 
 ## Notes（原文脚注）
 
-## Notes to Corruption
-
 [^note-1]: Machiavelli has received considerable attention among philosophers in relation to his arguments, notably in *The Prince*, regarding so-called “Dirty Hands”, i.e., rulers, in particular, doing wrong to achieve good. See the entry on the problem of dirty hands.
 
 [^note-2]: For one of the most influential statements of the abuse of public office for private gain definitions see Nye 1967: 417–27.

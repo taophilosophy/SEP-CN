@@ -213,8 +213,6 @@ Burley [Burleigh], Walter | consequence, medieval theories of | Heytesbury, Will
 
 ## Notes（原文脚注）
 
-## Notes to Medieval Theories of *Obligationes*
-
 [^note-1]: Spade spells the name as ‘Fland’. See Read and Thakkar 2016 on correcting the spelling.
 
 [^note-2]: Medieval logicians did not discuss propositions as abstract entities of the Fregean type but rather thought of the logical truth carrier as an actual uttered or written indicative sentence. In modern discussions of medieval logic, the Latin word ‘*propositio*’ is therefore usually translated as ‘proposition’, and the entry follows suit here.

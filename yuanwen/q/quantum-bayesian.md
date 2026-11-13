@@ -324,8 +324,6 @@ epistemology: Bayesian | Lewis, David | pragmatism | probability, interpretation
 
 ## Notes（原文脚注）
 
-## Notes to Quantum-Bayesian and Pragmatist Views of Quantum Theory
-
 [^note-1]: Terminology here is fluid: except when quoting or paraphrasing others, this entry uses “quantum theory” to label a genus of which quantum field theories as well as non-relativistic quantum mechanics are species.
 
 [^note-2]: SIC abbreviates Symmetric, Informationally Complete positive operator-valued measure (POVM): see Renes, Blume-Cohout, Scott, and Caves 2004.

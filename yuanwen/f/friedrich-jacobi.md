@@ -153,8 +153,6 @@ This entry was rewritten by Paolo Livieri in 2023, but since it retains the enti
 
 ## Notes（原文脚注）
 
-## Notes to Friedrich Heinrich Jacobi
-
 [^note-1]: Where possible, the entry will refer to both the English edition (*The Main Philosophical Writings and the Novel Allwill*, G. di Giovanni (ed. and trans.), Montréal & Kingston: McGill-Queen’s University Press, 1994; paperback edition, with new Preface, 2009; and the German critical edition. This will make it easier for everyone to navigate Jacobi’s texts.
 
 [^note-2]: To mention only a few among the most relevant contributions that would connect with Jacobi’s arguments: Hilary Putnam, *Reason, Truth, and History*, Cambridge: Cambridge University Press, 1981, esp. chapter 1: 1–21; Crispin Wright, ‘Facts and Certainty’, *Proceedings of the British Academy*, 71 (1985): 429–472; Barry McLaughlin, ‘Self-Knowledge, Externalism, and Skepticism’, in *Proceedings of the Aristotelian Society* (Supplementary Volume), 74 (2000): 93–117.

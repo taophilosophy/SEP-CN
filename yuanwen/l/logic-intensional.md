@@ -450,8 +450,6 @@ logic: classical | logic: modal | logic: temporal | type theory: Church’s type
 
 ## Notes（原文脚注）
 
-## Notes to Intensional Logic
-
 [^note-1]: Actually, in the original 1946 paper, Marcus is working in S2, and she uses the fishhook, ![fishhook](../assets/logic-intensional/fishhook.jpg), representing “necessary implication”, to formulate the Barcan formula, not material implication. It doesn’t make a difference in the more usual modal logics, but it is important to know how the original was formulated.
 
 [^anderson-1984]: Anderson, C. A. (1984). “General intensional logic,” in D. Gabbay and F. Guenthner (Eds.), *Handbook of Philosophical Logic*, Volume II, Chapter II.7, pp. 355–385, Dordrecht: D. Reidel.

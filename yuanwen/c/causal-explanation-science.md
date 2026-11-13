@@ -203,8 +203,6 @@ Thanks to Carl Craver, Michael Strevens and an anonymous referee for helpful com
 
 ## Notes（原文脚注）
 
-## Notes to Causal Approaches to Scientific Explanation
-
 [^note-1]: For an excellent review of differences across mechanism accounts, see Anderson (2014a, 2014b).
 
 [^note-2]: The issues surrounding this disagreement are complex and contested. In addition to the considerations described in the text above and in Section 4, Craver (personal correspondence) denies that he is committed to a “more details the better” claim, pointing out that in Craver (2006) and elsewhere he acknowledges that an “ideally complete” explanation will often be very unwieldy and that details are often (perhaps always) omitted from mechanistic explanations for legitimate pragmatic reasons. This raises questions that are beyond the scope of this entry about the notion of an “ideal” explanation and the connection of this to so-called “pragmatic” factors – in particular how we should think about an ideal that perhaps never should be realized for pragmatic reasons.

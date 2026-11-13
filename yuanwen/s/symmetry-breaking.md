@@ -227,8 +227,6 @@ quantum mechanics | quantum theory: identity and individuality in | space and ti
 
 ## Notes（原文脚注）
 
-## Notes to Symmetry and Symmetry Breaking
-
 [^note-1]: Symmetry considerations were used by R.J. Haüy to characterize and classify crystal structure and formation (see his 1801 *Traité de minéralogie*, Volume 1), and with this, crystallography emerged as a discipline distinct from mineralogy.
 
 [^note-2]: A group is defined to be a set G, together with a product operation (·), such that: for any two elements g₁ and g₂ of G, g₁ · g₂  is again an element of G; the group operation is associative; the group contains the identity element; and for each element there exists an inverse.

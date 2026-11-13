@@ -257,8 +257,6 @@ biological individuals | gene | genetics: molecular | human genome project | inf
 
 ## Notes（原文脚注）
 
-## Notes to Genomics and Postgenomics
-
 [^note-1]: DNA methylation refers to the process in which a methyl group (-CH₃) is covalently added to another molecule (in this case DNA). The importance of this process will be discussed further below.
 
 [^note-2]: A minor problem that we shall not discuss is that some viruses do not contain DNA at all, but use RNA to serve their basic genetic functions. This is a fairly technical problem and not too hard to resolve with a qualification to the definition. We should note, however, that it is not a problem at all for the account of the genome that we favour (below).

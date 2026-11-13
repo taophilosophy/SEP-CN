@@ -376,8 +376,6 @@ For comments on this entry over the years, my thanks to Carla Bagnoli, Graham Bi
 
 ## Notes（原文脚注）
 
-## Notes to Kant’s Account of Reason
-
 [^note-1]: See also the entry on rationalism vs. empiricism.
 
 [^note-2]: We might also note Kant’s view of logical reasoning. In the Introduction to the Transcendental Dialectic, Kant distinguishes “logical” from “real” or “pure” uses of reason. The logical use of reason represents a “subordinate faculty” (A305/B362) of drawing inferences (syllogisms), and Kant says relatively little about it in the *Critique*. It is the “pure” use, whereby reason “itself contains the origin of certain concepts and principles” (A299/B355), that demands critique: hence, of course, the book’s title. For extended discussion of this distinction, see Patrone 2008: Ch. 3.

@@ -263,8 +263,6 @@ cognitivism vs. non-cognitivism, moral | Kant, Immanuel: moral philosophy | mora
 
 ## Notes（原文脚注）
 
-## Notes to Reasons for Action: Internal vs. External
-
 [^note-1]: Shafer-Landau here only has an ‘if’, and not an ‘only if’, but in this form the argument is invalid.
 
 [^anscombe-1963]: Anscombe, G. E. M., 1963. *Intention*, 2nd Edition. Ithaca: Cornell University Press.

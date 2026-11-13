@@ -572,8 +572,6 @@ Many thanks to Floris Roelofsen, Luca Incurvati, Martin Stokhof and Ivano Ciarde
 
 ## Notes（原文脚注）
 
-## Notes to Disjunction
-
 [^note-1]: “De vraag naar de geldigheid van het principium *tertii exclusi* is dus aequivalent met de vraag naar de mogelijkheid van onoplosbare wiskundige problemen. Voor de wel eens uitgesproken overtuiging, dat onoplosbare wiskundige problemen niet bestaan, is geen aanwijzing van een bewijs aanwezig (It follows that the question of the validity of the principium *tertii exclusi* is equivalent to the question *whether unsolvable mathematical problems can exist*. There is not a shred of a proof for the conviction, which has sometimes been put forward that there exist no unsolvable mathematical problems)” (Brouwer 1908, page 109 of Heyting 1975)[^brouwer-1908][^heyting-1975].
 
 [^note-2]: “Suppose we see the following notice put up in a bookstore: *Customers who are teachers or college students are entitled to a special reduction.* Here the word *or* is undoubtedly used in the first [inclusive] sense, since it is not intended to refuse the reduction to a teacher who is at the same time a college student. If, on the other hand, a child asked to be taken on a hike in the morning and to a theatre in the afternoon, and we reply: *No, we are going on a hike or we are going to the theatre,* then our usage of the word *or* is obviously of the second [exclusive] kind since we intend to comply with only one of the two requests” (Tarski 1939: 21)[^tarski-1939]. As Gamut (1991: 200) however observes, Tarski’s second example is not very convincing since the word *No* which precedes the disjunction seems to convey precisely the exclusive “not both” inference, which then needs not be part of the semantic contribution of *or*.

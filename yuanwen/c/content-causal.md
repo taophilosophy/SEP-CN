@@ -273,8 +273,6 @@ consciousness: representational theories of | externalism about the mind | inten
 
 ## Notes（原文脚注）
 
-## Notes to Causal Theories of Mental Content
-
 [^note-1]: Theories of mental content are typically supposed to work for all kinds of attitudes towards contents, e.g., for belief, hope, desire, wonder, but for simplicity of exposition we will generally not mention these other attitudes.
 
 [^note-2]: Sometimes the terms “assigned” and “unassigned” or “conventional” and “non-conventional” are used to mark this distinction. Underived meaning is also sometimes described as “original” or “intrinsic”.

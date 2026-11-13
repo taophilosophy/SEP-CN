@@ -369,8 +369,6 @@ The author wishes to thank John Cooper, Thomas Hurka, David Phillips, and Robert
 
 ## Notes（原文脚注）
 
-## Notes to William David Ross
-
 [^note-1]: In RG, Ross says what we are obliged to do is a certain act; that is, we are obliged to bring about a certain state of affairs, e.g., that a friend receives a book one promised to send her (RG 42–46). However, he changed his mind about this in FE, where he argues (following Prichard 1932)[^prichard-1932] that what we obliged to do is to set ourselves to do something rather than bring about a state of affairs (FE 108, 153–154, 160–161).
 
 [^note-2]: Ross says pleasure is only *prima facie* good because in some cases pleasure is bad, e.g., when it is taken in lust or in cruelty (RG 136–137). For criticism of Ross’s claim that pleasure is *prima facie* good, see Stratton-Lake 2002b: 125-128.

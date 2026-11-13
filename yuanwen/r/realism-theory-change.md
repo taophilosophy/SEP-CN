@@ -496,8 +496,6 @@ Many thanks to Ludwig Fahrbach, Stavros Ioannidis, Moti Mizrahi, Nathan Oseroff,
 
 ## Notes（原文脚注）
 
-## Notes to Realism and Theory Change in Science
-
 [^note-1]: For more on the Bankruptcy of Science debate, see Paul (1968).
 
 [^note-2]: For a more detailed account of Duhem’s theory of theory-change see Guegeun and Psillos (2017).

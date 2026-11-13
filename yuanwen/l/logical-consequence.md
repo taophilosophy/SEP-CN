@@ -192,8 +192,6 @@ Aristotle, General Topics: logic | Bolzano, Bernard | Carnap, Rudolf | Frege, Go
 
 ## Notes（原文脚注）
 
-## Notes to Logical Consequence
-
 [^note-1]: The foregoing section owes much to the work of John MacFarlane in his thesis MacFarlane 2000 (Other Internet Resources). MacFarlane distinguished the three kinds of formality at which we have merely waved at here, and he provides a detailed discussion of the notions, making many distinctions over which we have passed.
 
 [^coffa-1993]: Coffa, J. Alberto, 1993, *The Semantic Tradition from Kant to Carnap*, Linda Wessels (ed.), Cambridge: Cambridge University Press. An historical account of the Kantian origins of the rise of analytic philosophy and its development from Bolzano to Carnap.

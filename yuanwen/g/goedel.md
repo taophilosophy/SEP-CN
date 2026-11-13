@@ -614,8 +614,6 @@ This entry was very much improved by discussion and correspondence with the foll
 
 ## Notes（原文脚注）
 
-## Notes to Kurt Gödel
-
 [^note-1]: Though of course Gödel disagreed with many aspects of the Hilbert program, most notably with the thought that mathematics could be formally reconstructed in a content free manner.
 
 [^note-2]: Reprinted with a facing English translation in Gödel 1986. Henceforth all references to Gödel’s papers will be to those as appear in his Collected Works, Volumes I to V. In particular all page references, as well as the numbering scheme for Gödel’s papers, refer to that of the Collected Works. (So for example Gödel’s paper “On intuitionistic arithmetic and number theory” is referred to below as 1933e, the number of it in volume I of the Collected Works, Gödel 1986.)[^gödel-1986] In relevant cases the bibliography will cite original publication data as well.

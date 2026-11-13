@@ -155,8 +155,6 @@ Bergson, Henri | Darwinism | Descartes, René | Dewey, John | feminist philosoph
 
 ## Notes（原文脚注）
 
-## Notes to Intersections Between Pragmatist and Continental Feminism
-
 [^note-1]: The two figures on this list who are considered part of the canon of American philosophy but who are not pragmatists are Whitehead (a process philosopher and British citizen) and Royce (a neo-Hegelian idealist philosopher). Composed in the United States, Whitehead’s process philosophy bears a strong affinity with Dewey’s and James’s pragmatist ontologies, and for that reason, I include continental feminists who draw from his work, such as Donna Haraway, in this essay. I should also mention that Peirce, the “father” of American pragmatism, had an uneasy relationship with the field as it was developed by James and Dewey. In his later writings, Peirce abandoned the term “pragmatism” for that of “pragmaticism,” which he hoped was “ugly enough to be safe from kidnappers” (2000b, 108). Thus like “continental philosophy,” “American pragmatist philosophy” should be understood as something of an umbrella term.
 
 [^note-2]: For feminist responses to Rorty’s neo-pragmatism that are more skeptical, to varying degrees, of its value for feminism, see Bickford 1993; Fraser 1990a and 1990b; Leland 1988; Lovibond 1992; Schultz 1999; and Wilson 1992. See also Rorty 1991 and 1993 for his two published essays that explicitly address the intersections of pragmatism and feminism.

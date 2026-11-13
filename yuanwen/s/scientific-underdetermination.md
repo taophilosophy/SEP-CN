@@ -125,8 +125,6 @@ I have benefited from discussing both the organization and content of this artic
 
 ## Notes（原文脚注）
 
-## Notes to Underdetermination of Scientific Theory
-
 [^note-1]: For example, if the evidence we have supports the generalization “all donuts are delicious”, then it will equally well support the generalization “all donuts are shmelicious”, where ‘schmelicious’ means “delicious if made and eaten before the year 2028 and inedible if made or eaten afterwards”. But we will have very different expectations about the taste of the first donut we bite into in 2028 if we believe that what we’ve been accumulating all these years is evidence for the schmeliciousness rather than the deliciousness of donuts. Goodman recognizes the temptation to dismiss predicates like “schmelicious” as artificial or contrived, but insists that such artificiality is simply a consequence of the “entrenchment” in our language of other predicates we accept, rather than a language-independent fact about the world. For more details see his (1955).
 
 [^note-2]: Donald Gilles (1993) and Larry Laudan (1990) have each also suggested that multiple, distinct theses have been mistakenly conflated as “the” thesis of underdetermination, but each proceeds to divide up the terrain much differently than I have. Perhaps most importantly, in these discussions their attention is confined almost exclusively to versions of what I am calling holist underdetermination.

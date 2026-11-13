@@ -259,8 +259,6 @@ cosmopolitanism | democracy | identity politics | immigration | liberalism | nat
 
 ## Notes（原文脚注）
 
-## Notes to Citizenship
-
 [^note-1]: The *Encyclopédie* defines the citizen as “celui qui est membre d’une société libre de plusieurs familles, qui partage les droits de cette société, et qui jouit de ses franchises.” (Translation: member of a free society of many families, who shares in the rights of this society and enjoys its immunities.) For the *Encyclopédie*, a citizen can only be male and families are the uncontested building blocks of society.
 
 [^note-2]: If a central element of citizenship consisted in participating in the business of ruling, as Aristotle and the republican tradition claimed, the corollary was that citizenship is impossible in a monarchy, where one can obly be a ‘subject’: having the obligation to obey the law of the realm and enjoying its protection, without the right to participate in its formulation. In other words, citizen and subject would be opposites. Against this dangerous idea, Hobbes had argued that “Whether a Common-wealth be Monarchicall, or Popular, the freedome is still the same” (Hobbes 1991, 149). According to Hobbes, whether we live in a monarchy or a republic, our obligation to obey the law is the same and our liberty “lyeth therefore only in those things, which in regulating [our]actions, the Soveraign hath praetermitted” (Hobbes 1991, 148).

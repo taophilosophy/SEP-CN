@@ -202,8 +202,6 @@ The authors thank Meredith Varie and Samuel Benson for their assisting us in edi
 
 ## Notes（原文脚注）
 
-## Notes to Afterlife
-
 [^note-1]: Over a period of time Theseus’ ship had every one of its planks removed and replaced, so that none of the original wood remained. However, the original planks were kept, and eventually reassembled into a ship. The question, of course, is, Which is the “real” ship of Theseus?
 
 [^note-2]: “Materialism” will be used here to refer to the view that *human beings* are purely material creatures; the persons so identified do not in general hold that God is a material being.

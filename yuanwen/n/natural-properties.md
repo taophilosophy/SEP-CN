@@ -414,8 +414,6 @@ Thanks to the editors and to Jeremy Goodman, John Hawthorne, Marko Malink, Jessi
 
 ## Notes（原文脚注）
 
-## Notes to Natural Properties
-
 [^note-1]: As Lewis (1986b, 61) puts it: “A property is natural or unnatural *simpliciter*, not relative to one or another world”. Cameron (2010) is, unusually, open to its being contingent which properties are more natural than which.
 
 [^note-2]: This is not to say that there will be no work for philosophers to do: even with a “final theory” in hand, it may be far from obvious how to use it to settle questions about perfect naturalness.

@@ -175,8 +175,6 @@ coercion | ethics: deontological | exploitation | Kant, Immanuel: moral philosop
 
 ## Notes（原文脚注）
 
-## Notes to Treating Persons as Means
-
 [^note-1]: Alan Wertheimer notes (2010: 201) that some accounts of exploitation themselves invoke “the Kantian notion that one wrongfully exploits when one treats another instrumentally or merely as a means”.
 
 [^note-2]: Citations from Kant’s texts refer to page numbers in the Königlichen Preußischen (later Deutschen) Akademie edition (see bibliography), which are included in the margins of Immanuel Kant: Practical Philosophy (see bibliography). This article occasionally modifies slightly the translations from this English edition. Some Kant scholars have argued (Kleingeld 2020: 398–399)[^kleingeld-2020] that the Formula of Humanity should be translated to say: “So act that you use humanity … never merely as a means” on the grounds that “use” more accurately reflects Kant’s text than “treat”.

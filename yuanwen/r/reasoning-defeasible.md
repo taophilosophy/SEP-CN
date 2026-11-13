@@ -479,8 +479,6 @@ artificial intelligence: logic-based | causation: probabilistic | epistemology: 
 
 ## Notes（原文脚注）
 
-## Notes to Defeasible Reasoning
-
 [^note-1]: Gärdernfors proved that no non-trivial belief revision system satisfies the following five conditions:
 
 1. The set of belief states is closed under expansions.

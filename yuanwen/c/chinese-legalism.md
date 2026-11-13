@@ -291,8 +291,6 @@ This research was supported by the Israel Science Foundation (grant No. 568/19) 
 
 ## Notes（原文脚注）
 
-## Notes to Legalism in Chinese Philosophy
-
 [^note-1]: This famous political slogan remained significant throughout traditional and modern China’s history; in its abbreviated form (*fuqiang* 富强, “strong and powerful”) it stands as the first of the so-called Core Socialist Values as defined by the Communist Party of China in 2012. Notably, its earliest occurrence is attested precisely in the *Book of Lord Shang* and in *Han Feizi*
 
 [^note-2]: Han Fei’s statement above was approvingly cited by China’s president, Xi Jinping (during an interview on March 19, 2013) as reflecting the mechanism of selecting officials in PRC. Xi gave an example of his own ascendancy from the Party secretary in a rural production brigade, through “county, municipal [i.e. prefecture-level], provincial and central levels” (Xi 2018: 457). For more about China’s current meritocratic system, see Bell 2015.

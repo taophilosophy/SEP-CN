@@ -266,8 +266,6 @@ Bayes’ Theorem | epistemology | evidence | legal probabilism | probability, in
 
 ## Notes（原文脚注）
 
-## Notes to The Legal Concept of Evidence
-
 [^note-1]: It is an indication of the breadth and unsettledness of the field that philosophical surveys of legal evidence differ greatly on the issues that are covered. For other surveys, see, e.g., Schum 1998, Goldman 2005, and Jackson and Doran 2010.
 
 [^note-2]: The law of evidence deals with evidence and proof in connection with resolving disputes of fact. Lawyers argue in court not just over propositions of fact but also over propositions of law. This entry does not deal with how lawyers argue about the law. Lawson 2017 claims that propositions of fact and propositions of law are amenable to analysis under the same formal structure of proof.

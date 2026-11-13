@@ -135,8 +135,6 @@ I am grateful to Sven Nyholm for prodding me to see ways in which I could improv
 
 ## Notes（原文脚注）
 
-## Notes to Personal Autonomy
-
 [^note-1]: Frankfurt has modified his original account many times. Thus, for example, he has responded to the sort of regress worries mentioned later in the entry by appealing, first, to an agent’s “decisive commitments,” and more recently, to her “satisfaction” with her motives -- an absence of “restlessness or resistance” in response to their motivating force. (Frankfurt 1999b)[^frankfurt-1999b]
 
 [^note-2]: Whereas hierarchical accounts tend to reflect sympathies with Hume’s philosophy of mind, Watson explicitly allies himself with Plato.

@@ -293,8 +293,6 @@ We gratefully acknowledge funding by the Deutsche Forschungsgemeinschaft (Centre
 
 ## Notes（原文脚注）
 
-## Notes to Structural Rationality
-
 [^note-1]: Though the sense of ‘cohere’ involved here is fairly broad, it (usually) isn’t so broad as to include relations of *positive support* between one’s mental states, but rather refers to the absence of conflicts between them. In this respect it contrasts with the richer notion of *explanatory* coherence often invoked in philosophy of science and parts of epistemology. See §1.3 for related discussion.
 
 [^note-2]: The term was previously used by Nida-Rümelin (2001), but with a somewhat different meaning.

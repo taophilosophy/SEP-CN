@@ -273,8 +273,6 @@ Ava-Udeane Ellis, Amelia Lang, and Natalie Pennisi provided valuable research as
 
 ## Notes（原文脚注）
 
-## Notes to Academic Freedom
-
 [^note-1]: Samuel Huntington (1968:196) offered as a half-joking summary of political strategies in contentious politics and unstable polities, “the wealthy bribe, students riot, workers strike, mobs demonstrate, and the military coup.”
 
 [^barnhizer-1993]: Barnhizer, David, 1993, “Freedom to Do What? Institutional Neutrality, Academic Freedom, and Academic Responsibility”, *Journal of Legal Education*, 43(3): 346–57.

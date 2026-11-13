@@ -415,8 +415,6 @@ statistical physics: Boltzmann’s work in | supervenience
 
 ## Notes（原文脚注）
 
-## Notes to The Ergodic Hierarchy
-
 [^note-1]: The use of the term ‘space’ in physics might cause confusion. On the one hand the term is used in its ordinary meaning to refer to the three-dimensional space of our everyday experience. On the other hand, an entire class of mathematical structures are referred to as ‘spaces’ even though they have nothing in common with the space of everyday experience (except some abstract algebraic properties, which is why these structures earned the title ‘spaces’ in the first place). Phase spaces are abstract mathematical spaces.
 
 [^note-2]: Sometimes a fourth component is mentioned in the definition: a sigma algebra $\sigma$. Although in certain circumstances it is convenient to add $\sigma$, it is not strictly necessary since the main purpose of $\sigma$ is to provide a basis to define the measure $\mu$, and so $\sigma$ is always present in the background when there is a measure $\mu$ and it is not necessary to mention it explicitly. For a discussion of sigma algebras and measures see Appendix B.

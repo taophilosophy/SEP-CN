@@ -202,8 +202,6 @@ causation: backward | free will: divine foreknowledge and | identity: over time 
 
 ## Notes（原文脚注）
 
-## Notes to Time Travel
-
 [^note-1]: The following selection of cases is not intended to be exhaustive.
 
 [^note-2]: For this sort of time travel scenario, see for example episodes of the BBC series *Doctor* *Who* from the mid to late 1970s (the Fourth Doctor years).

@@ -324,8 +324,6 @@ dualism | epiphenomenalism | physicalism | propositional attitude reports | qual
 
 ## Notes（原文脚注）
 
-## Notes to Qualia: The Knowledge Argument
-
 [^note-1]: Thought experiments such as Broad’s and indeed Jackson’s are descendants of Leibniz’s famous mill argument against materialism in his Monadology (1998, 270; originally published 1714).
 
 [^note-2]: Some writers who defend the knowledge intuition (e.g., Russell and Dunne) do not use it to argue against physicalism. Therefore, their discussions are best thought of as precursors to the Knowledge Argument rather than early versions of it. Stoljar & Nagasawa suggest that it is not clear that Maxwell offers a version of the Knowledge Argument, since he does not use the knowledge intuition to argue that physicalism is false (2004, 25–26 n13). However, Maxwell certainly comes very close to claiming just this, e.g., when he concludes “‘*X* is experiencing the visual sensation of *P*’ is a fact about what is happening to *X* which cannot be described or understood in terms of any physical theory” (1968, 135; compare with the conclusions of the different versions of the Knowledge Argument outlined below in Section 3.1).

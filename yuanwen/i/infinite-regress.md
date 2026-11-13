@@ -224,8 +224,6 @@ Thanks to Elizabeth Barnes, Trenton Merricks, Daniel Nolan, Jonathan Schaffer, J
 
 ## Notes（原文脚注）
 
-## Notes to Infinite Regress Arguments
-
 [^note-1]: Talk of ‘first’ and ‘last’ members here is just a matter of convention. We could just as well have said that an infinite regress is a series of appropriately related elements with a last member but no first member, where each element relies upon or is generated from the previous in some sense. What direction we see the regress going in does not signify anything important.
 
 [^note-2]: This entry will be focused on philosophical issues that arise when considering various regress arguments in different domains. It will not be especially concerned with an issue that some writers have focused on: whether there is a general form of argument under which all regress arguments can be subsumed: see *inter alia* Black 1996, Gratton 1997 and 2009, Löwenstein 2017, Passmore 1961 (Ch. 2), and Wieland 2013a, 2013b and 2014 for relevant discussion. We will also not take a stand here on the issue of whether every infinite regress that is vicious is vicious for the same reason. See Nolan (2001, 2019) and Cameron (2022, section 1.2).

@@ -305,8 +305,6 @@ Bradley, Francis Herbert | properties | relations | states of affairs | tropes
 
 ## Notes（原文脚注）
 
-## Notes to Bradley’s Regress
-
 [^note-1]: Some interpreters might disagree with my unqualified use of “real” in this context. They see Bradley as holding that all attributions of reality and truth come in degrees. On such a reading, Bradley did not think that internal relations have a better chance of being real; rather, he thought of internal relations as having a higher degree of reality than external relations, with neither kind of relation enjoying the highest degree of reality. I disagree with this reading mainly because I do not see Bradley at this stage engaging and applying his doctrine of degrees of truth and reality (which he expounds in chapter XXIV of *AR*) to relations. The aim of the initial chapters of *AR* strikes me as purely destructive when it comes to relations.
 
 [^note-2]: Bradley’s monism is not easy to characterize. He certainly seems committed to the existence of only one thing but it is not always clear how, according to him, the plurality is to be treated within such unity. For more on different types of monism, see the entry on monism (Schaffer 2016)[^schaffer-2016]. For more on Bradley’s particular type of monism, see the entry F. H. Bradley (Candlish and Basile 2017)[^candlish-2017], and Phemister 2016.

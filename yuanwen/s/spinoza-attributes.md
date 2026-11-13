@@ -198,8 +198,6 @@ Descartes, René | Descartes, René: physics | dualism | Spinoza, Baruch | Spino
 
 ## Notes（原文脚注）
 
-## Notes to Spinoza’s Theory of Attributes
-
 [^note-1]: All the Spinoza references are from *The Collected Works of Spinoza*, Vol. I, trans. Edwin Curley, Princeton: Princeton University Press, 1985. The following common abbreviations have been used to refer to Spinoza’s writings: E = *Ethics*, Ep = Correspondence (*epistolae*), KV= *Short Treatise on God, Man and his Well-being.* When referring to the *Ethics* these common forms and abbreviations are used: ax. = axiom, cor. = corollary, dem. = demonstration, P = proposition, Schol. = scholium, e.g. “2P47” refers to Part Two of the *Ethics*, Proposition 47. References in the *Short Treatise* are given by referring to the pagination in the Gerbhart edition of *Spinoza Opera,* 4 vols. (Heidelberg: Carl Winter, 1925). These references are indicated thus, e.g. I/25= Vol. I, p. 25.
 
 [^note-2]: A more detailed characterization of the basic structure of Spinoza’s metaphysics is heavily affected by the different ways in which the theory of attributes can be interpreted. For example, the construal of the infinity of attributes as numeric or as totality affects the number of attributes involved, and thus alters the characterization. This is why it is stressed that this depiction is merely rudimentary.

@@ -133,8 +133,6 @@ bodily awareness | cognition: embodied | Molyneux’s problem | perception: audi
 
 ## Notes（原文脚注）
 
-## Notes to Touch
-
 [^note-1]: On the evolution of the most central underlying elements of human touch (somatosensory and motor cortex), see Kaas 2004.
 
 [^note-2]: For a discussion of the issues raised by bodily awareness itself, see the entry on bodily awareness.

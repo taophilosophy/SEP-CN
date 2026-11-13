@@ -160,8 +160,6 @@ consequentialism | Machiavelli, Niccolò | perfectionism, in moral and political
 
 ## Notes（原文脚注）
 
-## Notes to The Problem of Dirty Hands
-
 [^note-1]: In fact, the supreme emergency may “justify” very little of the terror bombing since the likelihood of a German invasion of Britain ended with the victory of RAF fighter pilots in the Battle of Britain in the summer of 1940.
 
 [^note-2]: There has been much debate in recent years about the status of morality vis-à-vis other reason-giving aspirations. Key texts in the debate include Wolf (1982) and Louden (1992).

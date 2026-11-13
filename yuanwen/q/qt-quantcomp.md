@@ -271,8 +271,6 @@ Bell’s Theorem | Church-Turing Thesis | computability and complexity | computa
 
 ## Notes（原文脚注）
 
-## Notes to Quantum Computing
-
 [^note-1]: Equivalently, the class NP can be characterised as the class that contains all those computational decision problems for which a proposed solution can be *verified* by a DTM in polynomial time given a “proof” of (i.e. a certificate for) that solution. The two definitions are equivalent. For a given problem and an NTM that solves it there is by definition a polynomial-length sequence of transitions of the NTM which will result in a particular solution. One can use this sequence as a certificate or “proof” of that solution which can then be fed to a DTM to verify it in polynomial time. Conversely, suppose there is a DTM $M_D$ which is such that, given a polynomial-length certificate for a particular solution, $M_D$ can verify the solution in polynomial time. Then one can construct a polynomial-time NTM, $M_N$, which ‘chooses’ a certificate from among the set of possible polynomial-length strings. Upon choosing a certificate, $M_N$ then feeds that certificate to $M_D$, and transitions to ‘yes’ only if $M_D$ outputs ‘yes’ (Arora and Barak 2009, 42)[^arora-2009].
 
 [^aaronson-2013a]: Aaronson, S., 2013a, *Quantum Computing Since Democritus*, New York: Cambridge University Press.

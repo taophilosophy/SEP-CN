@@ -478,8 +478,6 @@ This research was supported by the European Research Council through Starting In
 
 ## Notes（原文脚注）
 
-## Notes to Simpson’s Paradox
-
 [^note-1]: We write variables $X$, $Y$, etc., in italics and their (binary) realizations $\r{X}$, $\neg\r{X}$, etc. in roman script.
 
 [^note-2]: Whereas theorists of probabilistic causality viewed *events* as the causal relata, throughout this article, we use *variables*, which can represent a range of relata. We write binary and numerical variables $V$ in italics and their instantiations $\r{V}$ and $\neg\r{V}$ in roman letters.

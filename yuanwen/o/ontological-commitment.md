@@ -450,8 +450,6 @@ Carnap, Rudolf | existence | Frege, Gottlob | grounding, metaphysical | logic: a
 
 ## Notes（原文脚注）
 
-## Notes to Ontological Commitment
-
 [^note-1]: See Van Inwagen (1998), who coined the term ‘meta-ontology’. Hofweber (2013) draws the border between ontology and meta-ontology somewhat differently.
 
 [^note-2]: Similar statements of the criterion occur in Quine (1951a: 11, 1951b: 67, 1953: 103, 1960: 242). Quine sometimes uses the slogan: “to be is to the value of a variable” (Quine 1948: 15)[^quine-1948]. But the lack of explicit reference to a theory has the potential to mislead.

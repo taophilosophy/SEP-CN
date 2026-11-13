@@ -441,8 +441,6 @@ Alyngton, Robert | Buridan, John [Jean] | Burley [Burleigh], Walter | Curry’s 
 
 ## Notes（原文脚注）
 
-## Notes to Insolubles
-
 [^note-1]: Singular *insolubile,* with the stress on the antepenultimate syllable.
 
 [^note-2]: “Eubulides the Milesian belongs to Euclides’s school. He raised many arguments in dialectic: the Liar, the Unnoticed, Electra, the [Man] in a Veil, the Heap, the Horns, the Bald Head.”

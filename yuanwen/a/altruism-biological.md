@@ -163,8 +163,6 @@ game theory: evolutionary | natural selection | natural selection: units and lev
 
 ## Notes（原文脚注）
 
-## Notes to Biological Altruism
-
 [^note-1]: Though if each individual interacts with only one or a few other individuals throughout its lifetime, reciprocal altruism may evolve without the ability for individual recognition. See Axelrod and Hamilton (1981) and Maynard Smith (1982) for discussion of this point.
 
 [^abbot-2011]: Abbot, P. et. al., 2011, ‘Inclusive Fitness Theory and Eusociality’, *Nature*, 471: E1–E4.

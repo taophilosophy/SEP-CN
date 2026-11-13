@@ -308,8 +308,6 @@ I would especially like to thank Michael Friedman for many discussions of the is
 
 ## Notes（原文脚注）
 
-## Notes to Kant’s Views on Space and Time
-
 [^note-1]: See, *inter alia*, Buchdahl 1969, 587–9; Kemp Smith 1918, 140–2; Paton 1936, 1: 171–6; Broad 1978, 50–1; Heidegger 1962, 155; Martin 1955, 12–15; Wolff 1963, 4–8; Allison 1983, 12, 107–111; Guyer 1987, 350–6; and, van Cleve 1999, 114.
 
 [^note-2]: In §1 of the Jäsche Logic (Ak 9: 91), Kant writes: “All cognitions [*Erkenntnisse*], that is, all representations consciously referred to an object, are either *intuitions* or *concepts*. Intuition is a singular representation (*repraesentatio singularis*), the concept is a *general* (*repraesentatio per notas communes*) or *reflected* representation (*repraesentatio discursiva*).” For an illuminating discussion of these issues, see Thompson 1972, 323 and Allais 2007.

@@ -269,8 +269,6 @@ Editors Note: Kelly Parker contributed Sections 1 (“Life”) and 2 (“Philoso
 
 ## Notes（原文脚注）
 
-## Notes to Josiah Royce
-
 [^note-1]: Tommy J. Curry cautions that King’s vision of the Beloved Community was not identical to Royce’s; he argues that the two versions are in fact incompatible (2018, 190–97).
 
 [^note-2]: There have been a number of articles and conference presentations on this debate; the “Symposium on Curry’s *Another white Man’s Burden*,” 2021, *Pluralist*, 16(2), provides an overview of the debate, along with six papers and a review of Curry’s book.

@@ -234,8 +234,6 @@ animal: cognition | animal: consciousness | belief | concepts | consciousness: r
 
 ## Notes（原文脚注）
 
-## Notes to Nonconceptual Mental Content
-
 [^note-1]: Although this has been disputed. See section 3 below.
 
 [^note-2]: This need not follow if nonconceptual content is understood along the lines of the “state” view of the nonconcepual debate. For more on the “state” view, see section 3.

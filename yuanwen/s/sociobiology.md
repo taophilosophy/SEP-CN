@@ -142,8 +142,6 @@ Thanks to Colin Allen for many helpful comments on an earlier version; and to Jo
 
 ## Notes（原文脚注）
 
-## Notes to Sociobiology
-
 [^note-1]: They are also referred to as “evolutionary psychology” with a lower case “e” and “p” by Buller (2005); this terminology is not used in this article because of its tendency to underplay the difference between the psychological focus of the so called “Santa Barbara school” of evolutionary psychology and the behavioral focus of human behavioral ecology.
 
 [^note-2]: A local fitness currency is a property of an organism or its environment that reliably correlates with the fitness of that organism (e.g. the quantity of food collected by the organism per unit time, the number of mating opportunities presented to an organism, etc.)

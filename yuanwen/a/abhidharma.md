@@ -27,7 +27,7 @@ The texts of the canonical Abhidharma are works that evolved over decades, if no
 
 The second characteristic of Abhidharma literature is its bent for discursive hermeneutics through catechetical exposition. The texts seem to be the products of discussions about the doctrine within the early Buddhist community. Again, such discussions are already found in the Āgama/Nikāya collections (e.g., *M* I 292–305, III 202–257): they often begin with a doctrinal point to be clarified and proceed to expound the topic at stake using a pedagogical method of question and answer. The texts also record more formal methods of argumentation and refutation of rival theories that shed light on the evolution of the Abhidharma as responding to the demands of an increasingly polemical environment. The process of institutionalization undergone by Buddhist thought at the time and the spread of the Buddhist community across the Indian subcontinent coincided with a transition from oral to written methods of textual transmission and with the rise of monastic debates concerning the doctrine among the various Buddhist schools. Intellectual assimilation and doctrinal disputes also existed between the Buddhist monastic community and the contemporaneous Sanskrit Grammarians, Jains, and Brahmanical schools with their evolving scholastic and analytical movements, which must also have contributed to the Abdhidharma discursive hermeneutics and argumentative style. The dialectic format and the display of awareness of differences in doctrinal interpretation are the hallmarks of the *Kathāvatthu* and the *Vijñānakāya*. Later on, post-canonical Abhidharma texts became complex philosophical treatises employing sophisticated methods of argumentation and independent investigations that resulted in doctrinal conclusions quite far removed from their canonical antecedents.
 
-Abhidharma literature, then, arose from two approaches to discussing the Dharma within the early Buddhist community: the first intended to summarize and analyze the significant points of the Buddha’s teachings, the second to elaborate on and interpret the doctrines by means of monastic disputations (Bronkhorst 2016, 29–46; Cousins 1983, 10; Dessein 2016, 4–7; Gethin 1992b, 165; Gethin 2022, 227–242)[^bronkhorst-2016][^cousins-1983][^dessein-2016][^gethin-2022].
+Abhidharma literature, then, arose from two approaches to discussing the Dharma within the early Buddhist community: the first intended to summarize and analyze the significant points of the Buddha’s teachings, the second to elaborate on and interpret the doctrines by means of monastic disputations (Bronkhorst 2016, 29–46; Cousins 1983, 10; Dessein 2016, 4–7; Gethin 1992b, 165; Gethin 2022, 227–242)[^bronkhorst-2016][^cousins-1983][^dessein-2016][^gethin-1992b][^gethin-2022].
 
 ### 1.2 Abhidharma exegesis: from *Dharma* to *dharmas*
 
@@ -159,8 +159,6 @@ atomism: 17th to 20th century | atomism: ancient | Buddha | consciousness: and i
 
 ## Notes（原文脚注）
 
-## Notes to Abhidharma
-
 [^note-1]: The Sautrāntikas and Dārṣṭāntikas appear to represent the same doctrinal party within the Sarvāstivāda that criticized orthodox Sarvāstivāda ontology (see section 5 below). On the groups within the Sarvāstivāda branch see Cox 2004B, 505.
 
 [^note-2]: On the history of the Buddhist schools see, e.g., Cousins 2001; Cox 1995, 29; Gethin 1998, 50–53; Lamotte 1988, 520–521. On the relationship between the evolving practice of exegesis and the emergence of the early Buddhist schools see Cox 2009, 53–63.
@@ -273,9 +271,9 @@ atomism: 17th to 20th century | atomism: ancient | Buddha | consciousness: and i
 
 [^cox-1995]: Cox, C., 1995, *Disputed Dharmas: Early Buddhist Theories on Existence—an annotated translation of the section on factors dissociated from thought from Saṅghabhadra’s Nyāyānusāra*, Tokyo: Studia Philologica Buddhica XI, The International Institute for Buddhist Studies.
 
-[^cox-nd]: –––, 2004A, “From Category to Ontology: The Changing Role of *Dharma* in Sarvāstivāda Abhidharma,” *Journal of Indian Philosophy*, 32: 543–597.
+[^cox-2004a]: –––, 2004A, “From Category to Ontology: The Changing Role of *Dharma* in Sarvāstivāda Abhidharma,” *Journal of Indian Philosophy*, 32: 543–597.
 
-[^cox-nd-2]: –––, 2004B, “Mainstream Buddhist Schools,” in *Encyclopedia of Buddhism*, R. Buswell (ed.), NY: McMillan, pp. 501–507.
+[^cox-2004b]: –––, 2004B, “Mainstream Buddhist Schools,” in *Encyclopedia of Buddhism*, R. Buswell (ed.), NY: McMillan, pp. 501–507.
 
 [^cox-2009]: –––, 2009, “What’s in a Name? School Affiliation in an Early Buddhist Gāndhārī Manuscript,” *Bulletin of the Asia Institute*, 23: 53–63.
 
@@ -287,9 +285,9 @@ atomism: 17th to 20th century | atomism: ancient | Buddha | consciousness: and i
 
 [^frauwallner-1956]: Frauwallner, E., 1956, *The Earliest Vinaya and the Beginnings of Buddhist Literature*, trans. L. Petech, Rome: Is. M.E.
 
-[^gethin-nd]: Gethin, R., 1992A, *The Buddhist Path to Awakening: A Study of bodhi-pakkhiyā dhammā*, Leiden: E.J. Brill.
+[^gethin-1992a]: Gethin, R., 1992A, *The Buddhist Path to Awakening: A Study of bodhi-pakkhiyā dhammā*, Leiden: E.J. Brill.
 
-[^gethin-nd-2]: –––, 1992B, “The *mātikās:* Memorization, Mindfulness, and the List,” in *In the Mirror of Memory: Reflections on Mindfulness and Remembrance in Indian and Tibetan Buddhism*, J. Gyatso (ed.), New York: SUNY Press, pp. 149–172.
+[^gethin-1992b]: –––, 1992B, “The *mātikās:* Memorization, Mindfulness, and the List,” in *In the Mirror of Memory: Reflections on Mindfulness and Remembrance in Indian and Tibetan Buddhism*, J. Gyatso (ed.), New York: SUNY Press, pp. 149–172.
 
 [^gethin-1994]: –––, 1994, “*Bhavaṅga* and Rebirth According to the Abhidhamma,” in *The Buddhist Forum III*, T. Skorupski and U. Pagel (eds.), London: School of Oriental and African Studies, University of London, pp. 11–35.
 

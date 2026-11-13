@@ -315,8 +315,6 @@ For the update to this entry published in the summer of 2011, Claude Panaccio be
 
 ## Notes（原文脚注）
 
-## Notes to William of Ockham
-
 [^note-1]: For an account of Ockham’s life, including a discussion of how these dates are calculated in Ockham’s case, see Wood 1997, Chap. 1. For further details of Ockham’s life, see Courtenay 1999.
 
 [^note-2]: By this time Latin was virtually no one’s native language. Ockham’s first language was probably Middle English. Latin was exclusively a second language that lived primarily in very specialized contexts: academic, ecclesiastical, legal, diplomatic. This fact suggests that it is probably wrong to look for “ordinary language” considerations in the Latin philosophical writings of this period, whether by Ockham or anyone else.

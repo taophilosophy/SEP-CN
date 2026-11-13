@@ -288,8 +288,6 @@ citizenship | common good | feminist philosophy, topics: perspectives on sex and
 
 ## Notes（原文脚注）
 
-## Notes to Solidarity in Social and Political Philosophy
-
 [^note-1]: Compare the common refrain heard within the feminist movement, where orthodox “second-wave” feminism is often charged with being too white, (unconsciously) exclusionary, and middle class. See, e.g., Zakaria 2021; Spelman 1988; Crenshaw 1991; hooks 1981 [2015].
 
 [^note-2]: We thank Barry Maguire for discussion.

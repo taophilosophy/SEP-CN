@@ -612,8 +612,6 @@ common knowledge | Heytesbury, William | impossible worlds | logic: and informat
 
 ## Notes（原文脚注）
 
-## Notes to Epistemic Logic
-
 [^note-1]: In his 1969, Hintikka writes
 
 > My basic assumption (slightly oversimplified) is that an attribution of any propositional attitude to the person in question involves a division of all possible worlds (more precisely, all the worlds which we can distinguish in the part of language we use in making the attribution) into two classes: into those possible worlds which are in accordance with the attitude in question and into those worlds which are incompatible with it. (p. 25)

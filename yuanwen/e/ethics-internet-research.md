@@ -406,8 +406,6 @@ ethics, biomedical: clinical research | ethics: deontological | informed consent
 
 ## Notes（原文脚注）
 
-## Notes to Internet Research Ethics
-
 [^note-1]: With thanks to David Dittrich, University of Washington Applied Physics Laboratory for these examples.
 
 [^note-2]: See [Amazon’s Mechanical Turk](https://www.mturk.com/mturk/welcome).

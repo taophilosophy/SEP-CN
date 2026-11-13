@@ -330,8 +330,6 @@ We’re grateful to Claudine Verheggen for helpful comments. Thanks, too, to the
 
 ## Notes（原文脚注）
 
-## Notes to Rule-Following and Intentionality
-
 [^note-1]: We’re following Paul Boghossian (1989) in this respect. We won’t address the issue of the extent to which Kripke’s interpretation is faithful to Wittgenstein’s text. Note that Kripke does not actually endorse either the sceptical argument or the sceptical solution, but rather “expounds Wittgenstein’s argument as it struck Kripke, as it presented a problem for him” (1982: 5). For ease of exposition, we largely ignore this in the text. For recent discussion of what is at stake in Wittgenstein’s rule-following considerations, see, among others, Stroud 2011, Goldfarb 2012, Ebbs 2016, and Ginsborg 2020. Other works that foreground the importance of the rule-following investigations in Wittgenstein’s later philosophy include Wright (1980) and Fogelin (1976 [1987]). A discussion of the rule-following considerations that locates them in a philosophical tradition going back to Kant can be found in Haase (2009).
 
 [^note-2]: In his 1989, Boghossian appears to suggest that, for the sceptical arguments to get going at the level of content, we need to assume that mental content properties are carried by linguistic-bearers, although it is left open whether we need to view these bearers as, in Fodorian Language of Thought fashion, syntactically and semantically structured; we agree with the more liberal line taken in Boghossian 1990, where Boghossian recognizes that we don’t need to exploit any facts about the putative bearers of content in order to get the sceptical arguments going.

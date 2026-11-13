@@ -365,8 +365,6 @@ Thanks to Henry Laycock, author of the original SEP entry for ‘Object’; we l
 
 ## Notes（原文脚注）
 
-## Notes to Object
-
 [^note-1]: On ontological categories, see Aristotle *Categories*, Thomasson (1997, 2008), van Inwagen (2021, 2023), and Westerhoff (2005). See also entries on metaphysics and categories.
 
 [^note-2]: On *object* and closely related concepts, see Ayer (1952), Casati (2004), Denkel (1996: ch 2 and 3), Frege (1892), Goodman (1972), Heller (1990: ch 2), Hirsch (1993: 88–96), Hoffman & Rosenkrantz (1997: 1–42), Keyt (1963), Laycock (1989, 2005, 2006), Ludwig (1976), Markosian (2000), Miller (1990), Quine (1957), Saunders (2006), Strawson (1954, 1959), and van Inwagen (2007: 199).

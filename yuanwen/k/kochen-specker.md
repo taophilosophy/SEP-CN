@@ -295,8 +295,6 @@ quantum mechanics: modal interpretations of | quantum theory: philosophical issu
 
 ## Notes（原文脚注）
 
-## Notes to The Kochen-Specker Theorem
-
 [^note-1]: One of the main ideas of Bohmian Mechanics is that position is the only basic observable to which all other observables of orthodox QM can be reduced. So, Bohmian Mechanics will qualify VD as follows: “Not all observables defined in orthodox QM for a physical system are defined in Bohmian Mechanics, but those that are (i.e. only position) do have definite values at all times.” Both this modification of VD and the rejection of NC immediately immunize Bohmian Mechanics against any no HV argument from the Kochen Specker Theorem. See sec.s 10 and 11 of the entry on Bohmian Mechanics for further discussion.
 
 [^note-2]: Note that if we understand the ‘expectation’ values deriving from the hidden states as what someone knowing such a state should expect as the average measurement result, then this claim is correct only given an assumption of faithful measurement (FM). FM is another typical assumption of a realist (or noncontextualist HV) interpretation of QM. The KS argument can be given without FM, since it makes claims about possessed values, not measured values. Only in statistical arguments, like von Neumann’s and Clifton’s, FM must be assumed. We suppress FM in the main text with the exception of Contextuality (see Section 5.3).

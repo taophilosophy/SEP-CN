@@ -977,8 +977,6 @@ I was motivated to write the present entry after reading an early draft of an es
 
 ## Notes（原文脚注）
 
-## Notes to Frege’s Theorem and Foundations for Arithmetic
-
 [^note-1]: For those who are curious, the following brief table will give one just a *hint* as to some of the differences between the modern notation and Frege’s:
 
 | **Logical Notion** | **Modern Notation** | **Frege-style Notation** |

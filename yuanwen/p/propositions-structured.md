@@ -401,8 +401,6 @@ Thanks go to Mark Brown for spotting a use/mention error in Section 2 and for id
 
 ## Notes（原文脚注）
 
-## Notes to Structured Propositions
-
 [^note-1]: Though sometimes speakers’ intuition about speakers “saying the same thing” in uttering sentences clearly does not track sameness of proposition expressed, as when you utter ‘I am hungry’ sometime after I did, and someone else present judges that I said the same thing earlier. This raises interesting methodological questions. See King [2009a] for discussion.
 
 [^note-2]: Of course there are always dissenters. For example, Mark Richard [1982] argues that modal operators operate on sentence meanings (functions from contexts and times to propositions). Thus it would seem that it is sentence meanings that have modal properties for Richard. Further, there is some controversy as to whether propositions are the things that possess “tense properties” (e.g. having been true, etc.) and are the things tense operators operate on. Kaplan [1977] thinks so. Richard [1982] and Salmon [1989b] think not.

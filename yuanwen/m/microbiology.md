@@ -232,8 +232,6 @@ biological individuals | biology: experiment in | biology: philosophy of | genet
 
 ## Notes（原文脚注）
 
-## Notes to Philosophy of Microbiology
-
 [^note-1]: The earlier phase of philosophy of biology occurred from the 1930s onwards, and did not underpin the second phase from the perspective of many of its later practitioners. For an overview of some of this earlier biological work within philosophy of science, see Byron (2007). At least one of the articles published near the end of this early phase was about microbes, specifically the nature of eukaryotic microbes (Gregg 1959)[^gregg-1959], but it has seldom been cited.
 
 [^note-2]: All of these features actually have microbial analogues or precursors, as the discussion of microbial models in Section 4 will reveal.

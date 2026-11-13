@@ -144,8 +144,6 @@ affirmative action | critical philosophy of race | democracy | disability: and j
 
 ## Notes（原文脚注）
 
-## Notes to Civil Rights
-
 [^note-1]: On the EU and European countries, see EU Article 21, and also see Chang and Rucker-Chang 2020; Porsdam 2009; de Vries, de Waele and Granger [eds] 2018; on International law, see the International Convention on the Elimination of All Forms of Racial Discrimination (1965), and the Convention on the Elimination of Discrimination Against Women, or CEDAW; on Ireland, see Section 42 of Irish Human Rights and Equality and Commission Act and also see Bosi 2006, Dooley 1998; on the distinctively criminal law approach to antidiscrimination law in Latin America, see Hernandez 2019; on Israel, see the International Covenant on the Elimination of All Forms of Discrimination, and also see Barak-Erez 1998, Tirosh 2020; on South Africa, see The Promotion of Equality and Prevention of Unfair Discrimination Act, Act No. 4 of 2000, and see also Robins 2008; on the United Kingdom, see the Equality Act 2010, and see also Ruxton & Karim 2001; on Indonesia, see Articles 5 and 6 of Chapter III of the Labor Law, and see also Thung 2004).
 
 [^note-2]: Key passages from [U.S. Constitution Amendment XIV](https://en.wikisource.org/wiki/Additional_amendments_to_the_United_States_Constitution#Amendment_XIV), ratified 9 July 1868

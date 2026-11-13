@@ -231,8 +231,6 @@ Thanks to Elizabeth Hackett, Ann Garry, Heidi Grasswick, and the members of the 
 
 ## Notes（原文脚注）
 
-## Notes to Feminist Metaphysics
-
 [^note-1]: This section draws on Haslanger 2005.
 
 [^note-2]: Like Hacking, we use the terms ‘idea’ and ‘concept’ without making precise distinctions between them for the purposes of our discussion. In contrast to concepts, ideas are often propositional, and plausibly more specific to the individual.

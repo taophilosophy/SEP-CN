@@ -459,8 +459,6 @@ Thanks to Salvatore Florio, Allen Hazen, Frode Kjosavik, Tom McKay, David Nicola
 
 ## Notes（原文脚注）
 
-## Notes to Plural Quantification
-
 [^note-1]: *Second-order* logic has quantifiers that bind variables taking predicate position. These quantifiers are typically understood as ranging over concepts and relations. *Monadic* second-order logic is the subsystem of second-order logic which admits only quantification over concepts, not over (polyadic) relations.
 
 [^note-2]: See Boolos 1984: 432–3 [1998a: 57] for an ingenious proof, which he attributes to David Kaplan. The basic idea is as follows. Assume for simplicity that the domain consists only of critics. Then the sentence can be formalized as

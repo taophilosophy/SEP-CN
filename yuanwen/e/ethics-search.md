@@ -419,8 +419,6 @@ I am grateful to the following colleagues for their helpful suggestions on earli
 
 ## Notes（原文脚注）
 
-## Notes to Search Engines and Ethics
-
 [^note-1]: For those interested in more detail about some of the technical concepts described here (such as TCP/IP, FTP, etc.), as well as the important roles that these technologies and protocols played in the historical development of the Internet, some excellent resources are available. See, for example, Abbate 1999.
 
 [^note-2]: For a theory of privacy that defends the notion of “limited control,” as opposed to a full-blown “control theory” of privacy, see Moor 1997; Tavani and Moor 2001; Tavani 2007.

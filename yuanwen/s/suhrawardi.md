@@ -227,8 +227,6 @@ The author would like to thank both Professor Saeed Anvari for his invaluable su
 
 ## Notes（原文脚注）
 
-## Notes to Suhrawardi
-
 [^note-1]: Rather than indicating page and line numbers to refer to the Walbridge/Ziai and the Corbin editions of the *Philosophy of Illumination* (*Hikmat al-Ishraq*), references will consist only of paragraph (§ or §§) numbers (which are similar in both editions).
 
 [^note-2]: Michael Privot and Haruo Kobayashi are currently, independently of each other, preparing a critical edition of Shahrazuri’s *Divine Symbols and Proverbs* (*al-Rumuz wa al-Amthal al-Lahutiyya fi al-Anwar al-Mujarrada al-Malakutiyya*).

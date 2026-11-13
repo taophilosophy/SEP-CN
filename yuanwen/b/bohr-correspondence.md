@@ -321,8 +321,6 @@ physics: intertheory relations in | quantum mechanics: Copenhagen interpretation
 
 ## Notes（原文脚注）
 
-## Notes to Bohr’s Correspondence Principle
-
 [^note-1]: Throughout, ‘BCW’ refers to *Niels Bohr Collected Works*, where most of Bohr’s papers can be readily found, followed by the relevant volume number.
 
 [^note-2]: This familiar way of expressing the quantum condition does not appear in Bohr (1913). For an excellent historical review of Bohr’s work on the old quantum theory, including a discussion of Bohr’s quantum conditions, see Darrigol (1992), Chapters V and VI.

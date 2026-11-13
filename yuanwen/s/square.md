@@ -321,8 +321,6 @@ Aristotle, General Topics: logic | Brentano, Franz: theory of judgement | contra
 
 ## Notes（原文脚注）
 
-## Notes to The Traditional Square of Opposition
-
 [^note-1]: Church 1965, 422 finds it first (implicitly) in Cayley 1871, explicitly in Brentano 1874, and in Peirce 1880, 15–57.
 
 [^note-2]: This argument is given e.g. in Kneale & Kneale 1962, 55–60.

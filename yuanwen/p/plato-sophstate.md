@@ -285,8 +285,6 @@ Plato | Plato: *Cratylus* | Plato: middle period metaphysics and epistemology | 
 
 ## Notes（原文脚注）
 
-## Notes to Method and Metaphysics in Plato’s *Sophist* and *Statesman*
-
 [^note-1]: On the Sophistic movement itself, which owes its negative assessment largely to Plato, see Kerferd 1981, Barney 2006; and with special reference to Plato’s *Sophist*, Notomi 1999, ch. 2.
 
 [^note-2]: The most important sections about being are the Battle of Gods and Giants (*Sophist* 245e–249d) and the aporetic passage that follows (*Sophist* 249d–251a). The Gods are friends of the forms and look a lot like middle period Platonists (committed to separate immaterial forms), and the Giants are materialists. The Stranger tries to reconcile the two groups by getting them to agree on a definition of being. He offers the reformed Giants a definition (*horos*) of being as a capacity (*dunamis*) to do something to something else or to be affected by something else (*Sophist* 247d–e), and then tries unsuccessfully to get the Gods to agree (*Sophist* 248a–e). For different interpretations of the Battle of Gods and Giants, see Owen 1966, Keyt 1969, Brown 1998, and Gill 2012, chs. 3 and 7.

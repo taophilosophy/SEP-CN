@@ -178,8 +178,6 @@ Addams, Jane | behaviorism | childhood, the philosophy of | cosmopolitanism | Da
 
 ## Notes（原文脚注）
 
-## Notes to George Herbert Mead
-
 [^note-1]: There are those who find the notion of emergence useless as a category or marker, for it appears to be in the eye of the beholder. However, Mead's qualitative or experiential pluralism, which he shares with Dewey and James, would view this criticism as failing to address genuine novelty and the “objective reality of perspectives.” See below for a discussion the latter.
 
 [^note-2]: In “Philanthropy from the Point of View of Ethics,” Mead wrote:

@@ -249,8 +249,6 @@ Thanks to various anonymous referees for their helpful suggestions on earlier ve
 
 ## Notes（原文脚注）
 
-## Notes to Logic and Ontology
-
 [^note-1]: This is an exaggeration, of course, since words like “are” have to be fixed as well, as in “All men are mortal, all mortals are doomed, thus all men are doomed.”
 
 [^note-2]: For much more on all these issues related to the philosophy of logic, Engel 1991 is recommended as an introduction to the philosophy of logic. It covers many more topics than we can touch on here. However, it does not specifically deal with the relationship between logic and ontology. A classic, but opinionated, introduction to the philosophy of logic is Quine 1970. Other introductory texts in the philosophy of logic include Haack 1978 and Reid 1995.

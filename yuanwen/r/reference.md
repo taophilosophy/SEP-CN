@@ -268,8 +268,6 @@ Editor’s note: In 2014, Eliot Michaelson took over responsibility for updating
 
 ## Notes（原文脚注）
 
-## Notes to Reference
-
 [^note-1]: For more on the reference of mental states, see the entries on mental representation, causal theories of mental content, externalism about mental content, and teleological theories of mental content. For more on the reference of pictures, see the entry on Goodman’s aesthetics.
 
 [^note-2]: Searle (1983) claims that to construe reference-determining content as in all cases specifiable linguistically, is to misconstrue the nature of such content. Some such content may (for instance) be perceptually based, but not linguistically specifiable. See also Frege (1892).

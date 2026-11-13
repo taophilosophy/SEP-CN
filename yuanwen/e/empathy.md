@@ -153,8 +153,6 @@ Collingwood, Robin George | folk psychology: as mental simulation | hermeneutics
 
 ## Notes（原文脚注）
 
-## Notes to Empathy
-
 [^note-1]: In his *Cartesian Meditations,* Husserl still seems to address the problem of other minds from within the framework of a Cartesian conception of the mind; at least in the sense that he gives epistemic priority to the first person perspective. Nevertheless, pace Descartes, he stresses in his fifth *Meditations* that at the most basic level we experience ourselves as a psychophysical unity, as a lived body (Leib) and not merely as a physical body (Körper).
 
 [^note-2]: In their 2006 article, psychologists Jolliffe and Farrington try to argue for the validity of what they call the Basic Empathy Scale. Their use of the term “basic empathy” has to be strictly distinguished from the term as understood in this entry as referring to a developmentally early capacity to grasp the mindedness of other agents. Joliffe and Farrington try to develop a scale measuring empathy, where empathy is properly distinguished from sympathy.

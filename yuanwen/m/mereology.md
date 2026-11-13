@@ -753,8 +753,6 @@ The author would like to thank Claudio Calosi, Ben Caplan, Aaron Cotnoir, Mauree
 
 ## Notes（原文脚注）
 
-## Notes to Mereology
-
 [^note-1]: The term was coined in 1927, in Polish, by Stanisław Leśniewski (see below), probably as a variant of the term ‘merology’ originally used to indicate the field of anatomy concerned with body fluids and elementary tissues; see Simons (1997a: 90, n. 4). In some literature, ‘mereology’ is also used with reference to work in General Systems Theory devoted to the study of system decomposition, as in Mesarović *et al.* (1970), or for the school of ecological thought that seeks to explain higher levels of organization in terms of individual organisms, following Hutchinson (1978: 214ff). Such uses are not covered in this entry.
 
 [^note-2]: For more on the history of mereology, see Burkhardt and Dufour (1991) and the historical entries in Burkhardt *et al.* (2017). On ancient theories, especially Plato’s and Aristotle’s, see also Barnes (1988), Harte (2002), Koslicki (2006, 2008), and Arci (2012), whereas Oosthout (2025) focuses on the Neoplatonists. On the medieval period, see Andrew Arlig’s entry *medieval mereology* and references therein. On modern views, see Costa (2022) along with e.g., Gruszczyński (2022) on Galileo; Peterman (2019) on Cavendish; Burkhardt and Degen (1990), R. Cook (2000), Mugnai (2019), and Costantini (2025) on Leibniz; and Baxter (1988c) and Holden (2002) on Hume. On Kant, see e.g., Marschall (2019).

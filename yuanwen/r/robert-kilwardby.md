@@ -445,8 +445,6 @@ Aristotle | Augustine of Hippo | Bacon, Roger | *binarium famosissimum* [= most 
 
 ## Notes（原文脚注）
 
-## Notes to Robert Kilwardby
-
 [^note-1]: I am indebted to Alessandro Conti who generously made available to me his forthcoming edition of Kilwardby’s commentaries on the *Isagoge* and on the *Peri Hermeneias*.
 
 [^note-2]: In his study on the first ethical commentaries in the Latin West (Celano 2016)[^celano-2016] and more recently in his edition of the commentary [ET], Anthony Celano provides conclusive evidence for Kilwardby’s authorship.

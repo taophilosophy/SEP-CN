@@ -549,8 +549,6 @@ I am inordinately grateful to Eileen O’Neill for her extensive comments on an 
 
 ## Notes（原文脚注）
 
-## Notes to Margaret Lucas Cavendish
-
 [^note-1]: Letter to Cavendish from “Your Graces, Just Honourer, and most Intirely Devoted Servant, Walter Charleton,” May 7, 1667, in *A Collection of Letters and Poems* (1678), pp. 116-117.
 
 [^note-2]: This is Cavendish’s *Philosophical Letters*. For Cavendish’s own reflections on the matter, see Cavendish 1664, 506–7, and preface, fifth page; Cavendish 1668a, 12–13, 21; Cavendish 1663, 442–3. For more on the interaction between Cavendish and her contemporaries, see O’Neill 1998, 22–3; and 2002, 641–652.

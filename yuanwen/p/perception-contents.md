@@ -462,8 +462,6 @@ consciousness | consciousness: representational theories of | consciousness: tem
 
 ## Notes（原文脚注）
 
-## Notes to The Contents of Perception
-
 [^note-1]: Distinctions close to that between attitude and content are Frege's distinction between force and sense, and from nineteenth-century German psychologists Carl Stümpf and Oswald Külpe, who distinguished between content and function. For discussion, see Boring (1929).
 
 [^note-2]: So far we have been discussing how space is represented in experience. For discussion of how time is represented in experience, see entry on temporal consciousness.

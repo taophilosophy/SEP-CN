@@ -289,8 +289,6 @@ The author wishes to thank Michael Baumgartner, Samuel Schindler and an anonymou
 
 ## Notes（原文脚注）
 
-## Notes to Experiment in Biology
-
 [^note-1]: Description of the depiction of the Meselson-Stahl experiment. On the first row: a picture of a cell with a double helix labelled “Bacteria growing in N¹⁵. All its DNA is heavy.”; next two cells labelled, “Transfer to N¹⁴ medium.”; finally four cells labelled, “Continued growth in N¹⁴ medium.”
 
 Next row a label, “DNA isolated from the cells is mixed with CsCl solution (6M; density ~ 1.7) and placed in ultracentrifuge cell.” and below it a centrifuge with two test tubes labelled “centrifuge cell”.

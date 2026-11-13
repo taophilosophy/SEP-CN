@@ -328,8 +328,6 @@ The authors thank James Beebe, Gunnar Björnsson, Wesley Buckwalter, Roxanne Des
 
 ## Notes（原文脚注）
 
-## Notes to Experimental Moral Philosophy
-
 [^note-1]: Others prominently expressing concern about the bearing of experimental results such as these on philosophers’ reliance on moral intuitions include Kwame Anthony Appiah (2008) and Peter Singer (2005).
 
 [^note-2]: This and related research are discussed in more detail in subsection 2.3.

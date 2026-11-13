@@ -254,8 +254,6 @@ logic: classical | logic: second-order and higher-order | model theory | model t
 
 ## Notes（原文脚注）
 
-## Notes to Skolem’s Paradox
-
 [^note-1]: . This is probably the place to highlight some notational conventions. Throughout this entry, we will let =, ¬, →, and ∃ constitute the official first-order logical vocabulary, and we will treat ∧, ∨, ↔, and ∀ as abbreviations. (We will make free use of these abbreviations wherever they seem to improve readability.) Unless otherwise noted, we work in the language of first-order set theory—i.e., the language which has “∈” as its sole non-logical primitive. We say that a formula is *in* this language when it is built up from ∈ together with the standard logical connectives.
 
 Throughout this entry, we will use boldface letters to denote models and the corresponding unbolded letters to denote the domains of those models: so, **M** is a model and *M* is its domain, **N** is a model and *N* is its domain, etc. That being said, we will often abuse notation and write things like “**M** is countable” or “*m* ∈ **M**” when we really mean that “*M* is countable” or that “*m* ∈ *M* ”; in context, this should never cause any confusion. Finally, unless otherwise specified, all models should be assumed to be for the language of set theory—i.e., as above, the language with ∈ as its sole non-logical primitive.

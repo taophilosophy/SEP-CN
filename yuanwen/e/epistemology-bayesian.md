@@ -783,8 +783,6 @@ I thank Alan Hájek for his incredibly extensive, extremely helpful comments. I 
 
 ## Notes（原文脚注）
 
-## Notes to Bayesian Epistemology
-
 [^note-1]: For *enumerative induction*, see Fitelson (2006) and section 3.2.1 of the entry on interpretations of probability. For *Ockham’s razor*, see Rosenkrantz (1983: sec. 3) and Sprenger & Hartmann (2019: ch. 10). For *inference to the best explanation*, see sections 3.1 and 4 of the entry on abduction. For *statistical inference*, see section 4 of the entry on philosophy of statistics. For *causal inference*, see Howson & Urbach (2006: sec. 8.e) and Heckerman (1996 [2008]). For Bayesian replies to Hume’s argument for *inductive skepticism* (the view that there is no good argument for any kind of induction), see section 3.2.2 of the entry on the problem of induction. For Bayesians’ contributions to the controversies about *predictivism* (the thesis that predictions are superior to accommodations in the assessment of scientific theories), see sections 5, 6.1, and 7 of the entry on prediction versus accommodation. There is also the *Duhem-Quine problem* (which concerns when a body of evidence tells against a theory rather than one of its auxiliary hypotheses, as explained in sections 1 and 2 of the entry on underdetermination of scientific theory); for Bayesians’ attempts to solve that problem, see Dorling (1979), Earman (1992: sec. 3.7), Strevens (2001), Fitelson & Waterman (2005), and the survey by Ivanova (2021: ch. 4).
 
 [^note-2]: A less general but quite common setting requires also that $\cal A$ be closed under countable unions; in that case, $\cal A$ is called a *σ-algebra*.

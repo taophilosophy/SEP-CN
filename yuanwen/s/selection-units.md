@@ -704,8 +704,6 @@ altruism: biological | biological individuals | biology: philosophy of | develop
 
 ## Notes（原文脚注）
 
-## Notes to Units and Levels of Selection
-
 [^note-1]: These are questions addressed by a number of researchers, including Piter Bijma, Austin Booth, Pierrick Bourrat, Robert Brandon, Ellen Clarke, Richard Dawkins, Ford Doolittle, Devin Drown, John Dupré, Marcus Feldman, Andy Gardner, Scott Gilbert, Peter Godfrey-Smith, Charles Goodnight, Alan Grafen, James Griesemer, Paul Griffiths, William Hamilton, David Hull, Ben Kerr, Philip Kitcher, Richard Lewontin, Elisabeth Lloyd, Sandra Mitchell, Maureen O’Malley, Samir Okasha, Alex Rosenberg, Eugene Rosenberg, Ayelet Shavit, Deborah Shelton, John Maynard Smith, Subrena Smith, Elliott Sober, Kim Sterelny, Elisabeth Vrba, Michael Wade, Ken Waters, Stuart West, George C. Williams, David S. Wilson, Edward O. Wilson, William Wimsatt, Sewall Wright, Ilana Zilber-Rosenberg, and others cited in these references, among *many* others in both philosophy and biology.
 
 [^note-2]: It was then argued that the force of this distinction between replicator and interactor had been underappreciated, that the question about interactors should more accurately be called the “levels of selection” debate to distinguish it from, the “units of selection debate” title, about replicators (Brandon 1982; Mitchell 1987)[^brandon-1982][^mitchell-1987].

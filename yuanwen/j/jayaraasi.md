@@ -186,8 +186,6 @@ Early Modern India, analytic philosophy in | Madhyamaka | perception: the proble
 
 ## Notes（原文脚注）
 
-## Notes to Jayarāśi
-
 [^note-1]: This point is misinterpreted by Bhattacharya (2009: 76 and n. 43), who takes it surprisingly as evidence that Jayarāśi refers to Bṛhaspati ‘as a god or demi-god’ and therefore ‘that Jayarāśi was not a Cārvāka/Lokāyata’.
 
 [^note-2]: For a different understanding of the passage, see Franco (1987: 7) and  Bhattacharya (2017: 353–354).

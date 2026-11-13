@@ -571,7 +571,7 @@ Over the years, many readers and a few wise and conscientious referees have offe
 
 [^brouwer-1923]: –––, 1923 [1954], “On the significance of the principle of excluded middle in mathematics, especially in function theory,” “Addenda and corrigenda,” and “Further addenda and corrigenda,” English translation in van Heijenoort (ed.) 1967: 334–345.
 
-[^brouwer-1925]: –––, 1923C, “Intuitionistische Zerlegung mathematischer Grundbegriffe,” *Jahresbericht der Deutschen Mathematiker-Vereinigung*, 33 (1925): 251–256; reprinted in Heyting (ed.) 1975, 275–280.
+[^brouwer-1923c]: –––, 1923C, “Intuitionistische Zerlegung mathematischer Grundbegriffe,” *Jahresbericht der Deutschen Mathematiker-Vereinigung*, 33 (1925): 251–256; reprinted in Heyting (ed.) 1975, 275–280.
 
 [^brouwer-1927]: –––, 1927, “Intuitionistic reflections on formalism,” originally published in 1927, English translation in van Heijenoort (ed.) 1967: 490–492.
 

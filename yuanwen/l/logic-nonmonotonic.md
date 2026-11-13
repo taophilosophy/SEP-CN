@@ -626,8 +626,6 @@ artificial intelligence | artificial intelligence: logic-based | computability a
 
 ## Notes（原文脚注）
 
-## Notes to Non-monotonic Logic
-
 [^note-1]: Note though that in some formalisms some input may be treated in a defeasible way so that Reflexivity need not hold. For instance, in corrective approaches such as the Free Consequences contradictory premises are not consequences.
 
 [^note-2]: We speak about *super-arguments* in the intuitive sense that e.g., $A_1 \rightarrow \ldots \rightarrow A_n$ is a super-argument of $A_1 \rightarrow \ldots \rightarrow A_m$ where $m \lt n$.

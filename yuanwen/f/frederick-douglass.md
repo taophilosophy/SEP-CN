@@ -255,8 +255,6 @@ Emerson, Ralph Waldo | ethics: natural law tradition | liberalism | Locke, John 
 
 ## Notes（原文脚注）
 
-## Notes to Frederick Douglass
-
 [^note-1]: For excellent biographies of Frederick Douglass, see Waldo E. Martin’s *The Mind of Frederick Douglass* (1984), and David W. Blight’s *Frederick Douglass’ Civil War: Keeping Faith in Jubilee* (1989) and his *Frederick Douglass: Prophet of Freedom* (2018). See note 4, infra.
 
 [^note-2]: Scholarly research into the year of Douglass’ birth has yielded no consensus. He was born either at the beginning of 1817 or the beginning of 1818. No official record of his birth exists, but the historian Dickson J. Preston argues that the date of 1818 is supported by the documents of the family of his master. Douglass himself, in his last autobiography, *Life and Times of Frederick Douglass* (1892), states that,

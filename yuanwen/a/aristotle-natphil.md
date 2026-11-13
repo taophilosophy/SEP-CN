@@ -157,8 +157,6 @@ Aristotle, General Topics: biology | Aristotle, General Topics: logic | Aristotl
 
 ## Notes（原文脚注）
 
-## Notes to Aristotle’s Natural Philosophy
-
 [^note-1]: Note, however, that the second half of *Physics* is less integrated than the first: it contains the apparently self-standing treatment of the unmoved mover and of the eternity of motion in bk. 8 (see Falcon 2015)[^falcon-2015]. Note, furthermore, that Aristotle, at *Physics* 8.5, 257a34f refers to a proof in bk. 6 as one from the general discussion of *nature,* i.e. as to something which featured in a different work.
 
 Moreover, the way bk. 7 was joined to these discussions, is somewhat problematic: Aristotle’s disciple, Eudemus, when putting together his own *Physics*, according to Simplicius’ testimony (*Commentary on the Physics*, p. 1036f) did not discuss the material in bk. 7, although he followed the discussion of both Aristotelian inquiries. Furthermore, unlike the other books, part of bk. 7 is transmitted in two significantly different versions.

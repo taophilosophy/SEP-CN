@@ -299,8 +299,6 @@ Bradley, Francis Herbert | facts | Frege, Gottlob | Meinong, Alexius | Moore, Ge
 
 ## Notes（原文脚注）
 
-## Notes to The Identity Theory of Truth
-
 [^note-1]: Throughout “that”-clauses in relevant positions are italicized for clarity and ease of reading: the italicization has no grammatical significance, and could be omitted without solecism.
 
 [^note-2]: The inclusion of (8) in the definition of the identity theory pushes it in the direction of idealism: this emerges clearly from Hornsby’s discussion (at 1997: 9; cf. Candlish and Damnjanovic 2018: 277–8)[^candlish-2018]. That might be objectionable to some upholders of the theory; so for that reason too it makes sense to keep the two positions (i.e., (5)/(7) and (8)) definitionally separate.

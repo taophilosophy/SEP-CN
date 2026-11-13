@@ -465,8 +465,6 @@ analytic/synthetic distinction | Aristotle, Special Topics: on non-contradiction
 
 ## Notes（原文脚注）
 
-## Notes to Logical Pluralism
-
 [^note-1]: More carefully: their adherents take them to disagree; whether or not that disagreement is genuine is another controversial issue.
 
 [^note-2]: The word “true” in the common term of art “One True Logic” is most naturally understood by analogy with the expression in phrases like “one true king”, “one true love”, or “true calling”; most saliently, it is not intended to be restricted to objects which are potential bearers of the familiar semantic properties of truth and falsehood, and it means something like “genuine” or “legitimate”.

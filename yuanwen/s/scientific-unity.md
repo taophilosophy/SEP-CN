@@ -343,8 +343,6 @@ adaptationism | Aristotle | atomism: 17th to 20th century | Bacon, Roger | bioco
 
 ## Notes（原文脚注）
 
-## Notes to The Unity of Science
-
 [^note-1]: The chief North American delegate was Paul Carus, editor of Open Court and *The Monist*.
 
 [^note-2]: While Morrison refers to unifying and explanatory mechanisms as formal representations involving interaction or connection parameters, she does not think of them as being mechanistic. The causal mechanisms behind those “mechanisms” are, for her, the real source of explanatory understanding. Much of the confusion comes from the ambiguity in her use of the term “mechanism”.

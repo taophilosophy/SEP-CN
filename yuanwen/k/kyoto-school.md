@@ -399,8 +399,6 @@ Daoism | existentialism | Hegel, Georg Wilhelm Friedrich | Heidegger, Martin | J
 
 ## Notes（原文脚注）
 
-## Notes to The Kyoto School
-
 [^note-1]: Japanese names are written here in the Japanese order of family name first, followed by given name. Exceptions are in the cases of Masao Abe (Abe Masao in Japanese) and D. T. Suzuki (Suzuki Daisetsu in Japanese), who write their given names first for their publications in Western languages.
 
 [^note-2]: Keeping in mind that all the Kyoto School thinkers drew inspiration from multiple religious traditions, it is nevertheless possible to see the School’s generations of chair holders at Kyoto University as loosely alternating between primarily Zen Buddhism (Z) oriented thinkers and primarily Shin Buddhism (S) oriented thinkers: Nishida (Z and also S); Tanabe (S and also Z); Hisamatsu Shinichi and Nishitani Keiji (Z); Takeuchi Yoshinori (S); Tsujimura Kōichi and Ueda Shizuteru (Z); Hase Shōtō and Keta Masako (S).

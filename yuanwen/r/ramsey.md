@@ -565,8 +565,6 @@ The SEP editors would like to thank Fraser MacBride for helping us to organize t
 
 ## Notes（原文脚注）
 
-## Notes to Frank Ramsey
-
 [^note-1]: Wittgenstein’s recollection is apparently mistaken, since he went back to Cambridge in January 1929 and could only have met Ramsey during the last year of his life.
 
 [^note-2]: The derivation of the ‘equal difference in utility’ definition proceeds as follows. Where $p$ is ethically neutral and the subject not indifferent between $\omega_1$ and $\omega_2$, $bel(p) = 0.5$ whenever the subject is indifferent between ‘$\omega_1$ if $p$, $\omega_2$ otherwise’ and ‘$\omega_2$ if $p$, $\omega_1$ otherwise’. To see this, note that under Ramsey's assumed 'general psychological theory', the indifference holds iff

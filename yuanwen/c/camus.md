@@ -219,8 +219,6 @@ aesthetics: existentialist | existentialism | Husserl, Edmund | life: meaning of
 
 ## Notes（原文脚注）
 
-## Notes to Albert Camus
-
 [^note-1]: The story is told by Aristotle and cited by Plutarch (*Moralia*, II, Consolation to Apollonius, 27).
 
 [^note-2]: In his brief essay, “Remarque sur la Révolte” (Camus 1965, 1682–97), published in 1945, Camus mentioned *Being and Nothingness* twice while first laying out his idea of revolt. His *Notebooks* also refer to his reading it in November, 1943 (91).

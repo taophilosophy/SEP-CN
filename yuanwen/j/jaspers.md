@@ -190,8 +190,6 @@ Arendt, Hannah | existentialism | Hegel, Georg Wilhelm Friedrich | Kant, Immanue
 
 ## Notes（原文脚注）
 
-## Notes to Karl Jaspers
-
 [^note-1]: The starting point of the controversy about the terms ‘understanding’ (*Verstehen*) and ‘explaining’ (*Erkläraen*) is in the debate between Dilthey and Droysen regarding the methodical distinction between the human sciences and the natural sciences, based on both the different phenomena and approaches. See: Wilhelm Dilthey, *Der Aufbau der Geschichtlichen Welt in den Geisteswissenschaften*, Bd. VII, Stuttgart: B.G. Teubner and Göttingen: Vandenhoeck & Ruprecht, 1968, pp.88-120. See also: Rudolf Boehm, “‘Erklären’ und ‘Verstehen’ bei Dilthey”, *Zeitschrift für philosophische Forschung*, Bd. 5, H. 3 (1951): 410–417.
 
 [^bakewell-2017]: Bakewell, Sarah, 2017, *At the Existentialist Café: Freedom, Being, and Apricot Cocktails with Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Maurice Merleau-Ponty and Others*, New York: Other Press.

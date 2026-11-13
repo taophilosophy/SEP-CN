@@ -612,8 +612,6 @@ Parts of Sections 1.1–1.3, 2, 3.1–3.2, 5.2, and 6.2 are based on the [first 
 
 ## Notes（原文脚注）
 
-## Notes to Singularities and Black Holes
-
 [^note-1]: A generalized affine parameter is defined as follows. Fix a curve on spacetime and an arbitrary zero point on it; fix also an orthonormal frame at the zero point, *i.e.*, a basis for the vector space of tangent vectors at the point comprising four mutually orthogonal vectors (one timelike and three spacelike) each of unit length. Now, propagate this frame along the curve parallel to itself with respect to the affine structure of spacetime. The tangent vector to the curve can be written at each point as a weighted sum of the vectors in the frame at that point, the weighting factors being the components of the tangent vector in the coordinate system the frame defines in the tangent space over the point. We can define in this tangent space the Euclidean length of the vector by the standard formula in terms of the coordinate system, which will always be a positive number for a non-zero vector. The generalized affine length at that point, then, is the ordinary integral of those Euclidean lengths of the tangent vectors along the curve starting from the zero point. It is, in other words, just the ordinary, necessarily positive length of the curve according to the Euclidean distance function that the family of orthonormal frames along the curve determines.
 
 [^note-2]: The technical definition is: a spacetime is *effectively complete* if, for every future or past incomplete timelike geodesic, and every open set containing the geodesic, there is no isometric embedding of the spacetime into another one such that the image of the incomplete curve has future and past endpoints.

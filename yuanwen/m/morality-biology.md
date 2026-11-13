@@ -365,8 +365,6 @@ altruism: biological | evolution: cultural | metaethics | moral anti-realism | m
 
 ## Notes（原文脚注）
 
-## Notes to Morality and Evolutionary Biology
-
 [^note-1]: “Moral Thinking: Biology Invades a Field Philosophers Thought Was Safely Theirs,” *The Economist*, February 21, 2008. [[available online by subscription](http://www.economist.com/science/displaystory.cfm?story_id=10717915)]
 
 [^note-2]: It is important not to be misled by this terminology. Morality in the *empirical* sense obviously involves beliefs and social codes about what *ought* to be done, and so in that sense morality in the empirical sense might also be said to be ‘normative’: it involves beliefs and codes with *normative content*. But insofar as we investigate these beliefs or codes simply as empirical phenomena to be explained causally, they are just like any other empirical phenomena; we do not, for example, take on any normative commitments ourselves in investigating the causal genesis of people’s various normative beliefs or social codes, any more than we do in investigating the causal genesis of their cosmological beliefs. By contrast, if we speak of what is required by morality, using ‘morality’ in the *normative* sense, we are asking a normative question ourselves.

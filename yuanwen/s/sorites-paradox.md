@@ -277,8 +277,6 @@ Curry’s paradox | dialetheism | Frege, Gottlob | logic: fuzzy | logic: many-va
 
 ## Notes（原文脚注）
 
-## Notes to Sorites Paradox
-
 [^note-1]: Other parts of speech—e.g., verbs, adverbs, names, even indexicals—also appear to be soritical, but predicates have received the most attention in the literature. See, e.g., Ellis 2004 for relevant discussion.
 
 [^note-2]: Oms & Zardini 2019, fn.14 propose counterexamples to this necessary condition; see also Zardini 2021, 501.

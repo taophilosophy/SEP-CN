@@ -265,8 +265,6 @@ afterlife | atheism and agnosticism | Bauer, Bruno | Bayle, Pierre | death | ego
 
 ## Notes（原文脚注）
 
-## Notes to Ludwig Andreas Feuerbach
-
 [^note-1]: See Harvey, 1995, where Harvey seeks to describe and evaluate a theory of projection contained in Feuerbach’s later writings on religion that he regards as incompatible with the account contained in *The Essence of Christianity* before going on (cf. pp. 229–280) to compare the former with several contemporary theories of religious projection.
 
 [^note-2]: For analyses of this influence, see Brudney 1998 and Gooch 2019.

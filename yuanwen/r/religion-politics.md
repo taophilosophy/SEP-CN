@@ -291,8 +291,6 @@ Thanks to David Billings, Rebecca Konyndyk DeYoung, Kevin Vallier, Paul Weithman
 
 ## Notes（原文脚注）
 
-## Notes to Religion and Political Theory
-
 [^note-1]: Strauss borrows the phrase from Spinoza. Smith (2006) lucidly explores Strauss' views.
 
 [^note-2]: It proves tricky to distinguish religious from secular reasons. For our purposes, we'll assume that a secular reason is a set of claims that does not include among its members any claim that has more or less explicit theistic content, such as the claims *that God exists*, *that the Bible has been inspired by God*, or *that the Pope accurately represents the divine will*. A religious reason, by contrast, is a set of claims that does include as a member a claim that has such content. Far more complicated is what to make of the concept of a “plausible” or “adequate” secular rationale. Advocates of the standard position have articulated widely varying accounts. We broach this issue in the next section.

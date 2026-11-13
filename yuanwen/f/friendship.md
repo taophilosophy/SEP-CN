@@ -199,8 +199,6 @@ Aristotle, General Topics: ethics | character, moral | cognitivism vs. non-cogni
 
 ## Notes（原文脚注）
 
-## Notes to Friendship
-
 [^note-1]: For more details, see the entry on love.
 
 [^note-2]: Cooper (1977a) tries to refute this understanding of Aristotle. We should not, he thinks, interpret the sense in which we wish our friends well because they are useful to us as providing a justification; the “because” here rather signals a causal connection between our friends’ usefulness and our wishing them well: “Understanding the ‘because’ in this causal way makes it at least as much retrospective as prospective; the well-wishing and well-doing are responses to what the person is and has done rather than merely the expression of a hope as to what he will be and may do in the future” (633). Consequently, he claims, even pleasure and utility friends are wished well for their sakes rather than for our own. (For further arguments along these lines, see Grunebaum 2005.)[^grunebaum-2005]

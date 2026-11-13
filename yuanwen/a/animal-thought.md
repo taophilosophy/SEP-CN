@@ -195,8 +195,6 @@ animal: cognition | comparative cognition, methods in | concepts | language of t
 
 ## Notes（原文脚注）
 
-## Notes to Animal Thought
-
 [^note-1]: But see Clark 1996, Millikan 2004, Barrett 2011, and Siegel 2014 for more nuanced views that incorporate (deflated) representations in their reading of how animals perceive environmental affordances.
 
 [^note-2]: This also involves a notion of self (the traveler) and a sense of time (Suddendorf & Busby 2003)[^suddendorf-2003].

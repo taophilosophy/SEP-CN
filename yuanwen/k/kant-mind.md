@@ -409,8 +409,6 @@ Thanks to Paul Guyer, Paul Raymont, Rick DeVidi, Julian Wuerth, Kirsta Anderson,
 
 ## Notes（原文脚注）
 
-## Notes to Kant’s View of the Mind and Consciousness of Self
-
 [^note-1]: All further references to Kant will be to this work unless otherwise noted. ‘A’ refers to passages in the first edition, ‘B’ to passages in the second. ‘=’ means that the passage occurs in both editions.
 
 [^note-2]: Section 3 largely repeats things said in Section 2, indeed twice, once beginning at A115, and a second time beginning just before A120, so we will focus on Section 2.

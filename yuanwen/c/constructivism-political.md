@@ -425,8 +425,6 @@ For helpful comments or discussions, I am grateful to Paula Casal, Tom Christian
 
 ## Notes（原文脚注）
 
-## Notes to Constructivism in Political Philosophy
-
 [^note-1]: Rawls refers to Dworkin (1973), Brink (1987, 1989), and O’Neill (1989) but does not mention how these authors’ conceptions of constructivism diverge from his own. At least some differences, however, are apparent. Dworkin, who coined the term, understands the “constructive model” as providing a non-epistemological account of the point of achieving reflective equilibrium, according to which political morality gives us reasons to make our considered convictions coherent regardless of whether those convictions are observations of a mind-independent reality (1973: 513). Like Dworkin, Brink (1989: Appendix 4; 1987; and cp. Street 2008)[^street-2008], also assumes that constructivism provides a non-epistemological account of the point of achieving reflective equilibrium, but on Brink’s interpretation the constructivist’s account is metaphysical since it (mistakenly, Brink argues) treats coherence as constitutive of moral truth. Like Brink, O’Neill (1989; 2002) understands constructivism as a comprehensive meta-ethical doctrine opposed to various forms of moral realism, and so distinct from Rawls’s less meta-ethically partisan political constructivism.
 
 [^adler-2012]: Adler, Matthew D., 2012, *Well-Being and Fair Distribution: Beyond Cost-Benefit Analysis*, New York/Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195384994.001.0001

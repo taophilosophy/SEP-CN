@@ -213,8 +213,6 @@ democracy | money and finance, philosophy of | socialism | work and labor
 
 ## Notes（原文脚注）
 
-## Notes to Economic Democracy
-
 [^note-1]: Most of this discussion, like many discussions in political philosophy, takes the situation in industrialized countries of the Global North as given. This entry presents this discussion, but without claiming universality for it. More dialogue with researchers from the Global South, about their understanding of economic institutions and practices and the potentials for democratization, is a desideratum for future research (see also §5.3).
 
 [^note-2]: Here one also comes to the underlying question of whether *monetary* policy could be democratized, instead of being delegated to experts in central banks, as is currently mostly the case. See §5.1 of the entry on the philosophy of money and finance

@@ -605,8 +605,6 @@ The version of this entry published on September 24, 2018 is essentially a new e
 
 ## Notes（原文脚注）
 
-## Notes to Turing Machines
-
 [^note-1]: The new version of this entry published in September 2018 was influenced by the work of S. Barry Cooper in 2015. He was going to update an older version of the entry, but he died shortly after he began work. His most important change at that time was to sketch some of the points he was planning to discuss in an updated entry. We used these points as a guideline to shape the 2018 version. They can be summarized as follows:
 
 1. The description of the algorithmic activity is explicitly aimed at the machine, rather than at an attendant human. And this activity is reduced by Turing to its simplest elements, yielding an honesty about the work done appropriate to the measuring of computational complexity or allowing more general computations of infinite length.

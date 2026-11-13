@@ -319,8 +319,6 @@ The editors would like to thank Cord-Friedrich Berghahn for working on the 2022 
 
 ## Notes（原文脚注）
 
-## Notes to Wilhelm von Humboldt
-
 [^note-1]: There is a French translation of Humboldt’s Parisian Diaries: Beyer, Elisabeth: Wilhelm von Humboldt. *Journal Parisien (1797–1799)*. Solin/Actes Sud, 2001.
 
 [^note-2]: Humboldt’s correspondence with the French linguist Abel-Rémusat has been published in France in an excellent edition by Jean Rousseau and Denis Thouard: *Lettres Édifiantes et Curieuses sur la Langue Chinoise*. Humboldt/Abel Rémusat (1821–1831). Villeneuve and Paris: Presses Universitaires du Septentrion, 1999.

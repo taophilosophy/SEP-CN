@@ -148,8 +148,6 @@ My warmest thanks go to Deborah L. Black for her help with the English of this e
 
 ## Notes（原文脚注）
 
-## Notes to Greek Sources in Arabic and Islamic Philosophy
-
 [^note-1]: Cognate words are *faylasuf* and its plural *falasifa*. Saʿid al-Andalusi (d. 1070) gives the following account: “The language of the Greeks (*Yunaniyun*) is called Greek (*ighriqiya*). It is one of the richest and most important languages in the world. As to religion, the Greeks are Sabians, that is, worshippers of the stars and idolaters. Their scholars used to be called philosophers (*falasifa*). Philosopher (*faylasuf*) means in Greek ‘friend of wisdom’. The Greek philosophers belong to the highest class of human beings and to the greatest scholars, since they showed a genuine interest in all branches of wisdom, mathematics, logic, natural science and metaphysics, as well as economics and politics”: trans. Rosenthal (1975, 39).
 
 [^note-2]: So Nasr (1996a) and (1996b), protesting against those who conceive of Islamic philosophy as “simply an extension of Greek philosophy” (31) and coming to the conclusion that “Islamic philosophy is Islamic not only by virtue of the fact that it was cultivated in the Islamic world by Muslims but because it derives its principles, inspiration and many of the questions with which it has been concerned from the sources of Islamic revelation” (27). According to Nasr, it is “essentially a philosophical hermeneutics of the Sacred Text while making use of the rich philosophical heritage of antiquity” (37). In the same vein of Nasr, see Jambet (2011). The standard work on the notions of science (*ʿilm*) and wisdom (*hikma*) in Islam is Rosenthal (1970).

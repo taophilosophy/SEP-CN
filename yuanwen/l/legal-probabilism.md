@@ -812,8 +812,6 @@ For comments on an earlier version of this entry, many thanks to Ronald Allen, A
 
 ## Notes（原文脚注）
 
-## Notes to Legal Probabilism
-
 [^note-1]: Some call it “normalized likelihood” and reserve the expression “Bayesian factor” for what later in §1.3 is called the “likelihood ratio”
 
 [^aitken-2010]: Aitken, Colin, Paul Roberts, and Graham Jackson, 2010, “Fundamentals of Probability and Statistical Evidence in Criminal Proceedings: Guidance for Judges, Lawyers, Forensic Scientists and Expert Witnesses” (Practitioners Guide No 1), Royal Statistical Society’s *Working Group on Statistics and the Law*. [[Aitken, Roberts, and Jackson 2010 available online](https://rss.org.uk/news-publication/publications/law-guides/)]

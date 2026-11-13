@@ -396,8 +396,6 @@ adaptationism | biology: philosophy of | creationism | developmental biology: ev
 
 ## Notes（原文脚注）
 
-## Notes to Darwinism
-
 [^note-1]: So described, Darwinism denotes not so much a theory as a ‘research tradition’ (Laudan, 1976) or a ‘scientific practice’ (Kitcher 1993)[^kitcher-1993]; that is, at any given time in its history Darwinism consists of a family of theories related by a shared ontology, methodology and goals; and through time, it consists of a lineage of such theories. The word ‘theory’ above is being used in the very broad sense in which, from early on in his notebooks, Darwin kept referring to ‘my theory’.
 
 [^note-2]: The word ‘scientist’ was coined by William Whewell during Darwin’s lifetime, but very few of Darwin’s contemporaries owned up to it.

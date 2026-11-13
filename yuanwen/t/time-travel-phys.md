@@ -360,8 +360,6 @@ causation: backward | determinism: causal | quantum mechanics | quantum mechanic
 
 ## Notes（原文脚注）
 
-## Notes to Time Travel and Modern Physics
-
 [^note-1]: There is a large philosophical literature on the first two paradoxes (and others), see, e.g., the entry on time travel, Wasserman (2018), and Effingham (2020), but very little on the easy knowledge paradox (emphasized by Deutsch 1991, discussed further below)[^deutsch-1991]. Our approach differs from the literature surveyed in these two books by focusing on the physical—rather than metaphysical—possibility of time travel.
 
 [^note-2]: Multiple collisions are handled in the obvious way by continuity considerations: just continue straight lines through the collision point and identify which particle is which by their ordering in space.

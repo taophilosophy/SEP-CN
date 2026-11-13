@@ -242,8 +242,6 @@ analysis | Austin, John Langshaw | capability approach | Cooper, Anna Julia | Da
 
 ## Notes（原文脚注）
 
-## Notes to Analytic Feminism
-
 [^note-1]: Although it can be very useful to draw distinctions among various terms, e.g., “androcentrism”, “sexism”, “male bias”, “masculism”, etc., in this essay “male bias” is a shorthand way to identify a category that includes the others. See Anderson (1995), E. Lloyd (1995a), and Harding (1986, 1991) for various sets of useful distinctions among such categories.
 
 [^note-2]: In a book of interviews edited by Giovanna Borradori, *The American Philosopher* (1994), W.V. Quine acquiesces to being labeled post-analytic, and Hilary Putnam notes that mid-twentieth-century analytic philosophers wouldn’t recognize what is called analytic philosophy today. Philosophers seem not to use “neo-analytic” to identify either themselves or others. This might result from the ongoing internal process of change in analytic philosophy (in contrast with pragmatists/neo-pragmatists) or from the fact that there are more specific descriptions that characterize the changes, e.g., social epistemology.

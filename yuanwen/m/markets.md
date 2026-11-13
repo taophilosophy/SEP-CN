@@ -146,8 +146,6 @@ The author would like to thank Andrew Walton, Anca Gheaus, Simon Derpmann, Karl 
 
 ## Notes（原文脚注）
 
-## Notes to Markets
-
 [^note-1]: However, there is now an increased interest in alternatives to hierarchical firms, specifically democratic firms. Building on earlier debates about participatory democracy (e.g. Pateman 1970)[^pateman-1970], there have been various more recent discussions (e.g. Ferreras 2017, Anderson 2017, Herzog 2018)[^anderson-2017][^ferreras-2017][^herzog-2018]. Interest in these topics is partly motivated by changes in the organization of work resulting from new digital technologies (e.g. “gig work”) and partly by broader concerns about the preservation of democracy and the need to shift to a more environmentally and socially sustainable economic system. One question that this raises is the compatibility of workplace democracy and markets; while some see workplace democracy as an alternative to democratization via democratic rule-setting (Mildenberg 2020)[^mildenberg-2020], others ask whether workplace democracy requires the introduction of stronger market regulation (Vrousalis 2019)[^vrousalis-2019]. Some authors, notably Ellerman (e.g. 2021), argue for the general impermissibility of “selling labor” in standard work contracts between employees and non-democratic firms.
 
 [^note-2]: The influence of Protestantism on the rise of capitalist markets – Max Weber's classical thesis (2002) [1905] – is still under debate, as are the general reasons for why market economies first became predominant in Western Europe and North America. Becker and Woessmann (2009) have recently argued that the influence of Protestantism was indirect, namely through the propagation of literacy, which supported economic development.

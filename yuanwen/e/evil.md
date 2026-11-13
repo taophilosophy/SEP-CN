@@ -831,8 +831,6 @@ In revising this piece, I took into account some helpful suggestions and critica
 
 ## Notes（原文脚注）
 
-## Notes to The Problem of Evil
-
 [^note-1]: For additional critical discussion of this, see Conway (1988), p. 35, and Robert Adams (1985), pp. 225 and 240.
 
 [^note-2]: One feature of the above formulation of the argument should be noted, namely, that the predicate ‘$x$ prevents the existence of $y$’ introduces an intensional context; the fact that $x$ prevents the existence of $y$ entails the non-existence of $y$. Since intensional contexts are rather puzzling from a logical point of view, one might very well prefer to avoid this. This could be done by recasting the argument so that one talks instead of preventing the existence of states of affairs of a given type. See the supplementary document [An Alternative Formulation of the Argument](evil.alternate.md)

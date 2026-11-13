@@ -447,8 +447,6 @@ causation: the metaphysics of | Hume, David | Hume, David: Newtonianism and Anti
 
 ## Notes（原文脚注）
 
-## Notes to Kant and Hume on Causality
-
 [^note-1]: Lewis White Beck’s well-known essay, “A Prussian Hume and a Scottish Kant” (1978), sketches these events in Kant’s intellectual development and firmly decides for the latter alternative. In footnote 20 of this work Beck credits Robert Paul Wolff (1960) especially for developing the idea of “Kant’s debt to Hume via Beattie”; in this note, and the following one, Beck also provides further helpful discussion (and references) concerning the relationship between Kant, Hume, and Beattie.
 
 [^note-2]: There are a number of other passages in Kant’s 1766 essay which are also clearly reminiscent of the *Enquiry*, and this much, moreover, is not controversial. The existence of such parallels is even emphasized by Beck (1978)—who, however, maintains that they do not show that Kant directly derived his ideas from the *Enquiry*. We follow the discussion of *Dreams of a Spirit-Seer* by Alison Laywine (1993, chapter 6) in thinking that these parallels do suggest that Kant very likely had Hume’s *Enquiry* firmly in mind in his essay of 1766, especially when read against the background of Kant’s earlier discussion of the same topic in the essay on *Negative Magnitudes*. The remainder of the present section will provide further evidence in support of this view.

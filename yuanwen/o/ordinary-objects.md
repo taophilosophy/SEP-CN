@@ -663,8 +663,6 @@ How do these stances on fundamentality—that ordinary objects are not fundament
 
 ## Notes（原文脚注）
 
-## Notes to Ordinary Objects
-
 [^note-1]: For defenses of conservatism, see Sanford (1993), Hirsch (1993, 2002a, 2005), Markosian (1998a, 2008, 2014), Elder (2004, 2011), Simons (2006), Lowe (2007), Koslicki (2008), Gilmore (2010), Korman (2010, 2015b, 2020), Kriegel (2011), Carmichael (2015), Beebee (2017), McKenzie and Muller (2017), Pearce (2017), Remhof (2017: ch.8), Bowers (2019), Petersen (2019), Waetcher and Ladyman (2019: §1), Bird (2023), and Emery (2023: §6, forthcoming: §5.4). See deRosset (2020) on how (not) to formulate conservatism.
 
 [^note-2]: See van Inwagen (1990: 17) and Markosian (2000) for more on the relevant use of ‘object’. See Simons (1987: 11) on the reflexive use of ‘part’. See van Inwagen (1990: 29) for a more demanding use of ‘compose’, which prohibits things that share parts (e.g., my hand and fingers) from together composing something.

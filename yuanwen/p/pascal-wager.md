@@ -277,8 +277,6 @@ I thank Bronwyn Finnigan and Liz Jackson for helpful comments.
 
 ## Notes（原文脚注）
 
-## Notes to Pascal’s Wager
-
 [^note-1]: Hájek 2012 argues that in fact this is too quick. This article considers a series of increasingly strong senses of “superdominance” (the one considered here is “superdominance+”), and he argues that none of them is strong enough to confer such a requirement. This, in turn, casts doubt on the validity of the first of Pascal’s wagers. However, the details get somewhat intricate, and I have chosen not to get into them in this exposition.
 
 [^note-2]: Those interested in the reconstruction over the years of the text itself should consult Lafuma 1954.

@@ -845,8 +845,6 @@ For advice and assistance I am very grateful to Jonathan Cohen, Tyler Doggett, A
 
 ## Notes（原文脚注）
 
-## Notes to Inverted Qualia
-
 [^note-1]: For example, in *Purple Haze* (2001) Levine clearly assumes that experiences can have both $Q_{R}$ and $Q_{G}$—can be both “reddish” and “greenish”, in his terminology (see, e.g., 102, 111).
 
 [^note-2]: For the view that an extensive range of states/events have qualia, see Horgan and Tienson 2002; for the view that episodes of conscious thought have qualia, see Strawson 1994, Ch. 1. A useful collection on “cognitive phenomenology” is Bayne and Montague 2011.

@@ -233,8 +233,6 @@ attention | blame | bounded rationality | computing: and moral responsibility | 
 
 ## Notes（原文脚注）
 
-## Notes to Empirical Approaches to Moral Responsibility
-
 [^note-1]: Murray and Vargas (2020) actually defend a slightly different position that invokes contextually appropriate normative standards for conduct. They argue that Randy has the capacity to appropriately manage and control his thinking, which makes it appropriate to demand certain standards for his conduct and hold him responsible for failing to meet those standards. This nuance is being put aside for the purposes of exposition.
 
 [^note-2]: There is another way we can fill in the *Bourbon* case, one in which Randy’s priority map when he is near the store *is* accurate in depicting omission thoughts as higher in value than bourbon thoughts. This version of the case would presumably be one in which Randy cares deeply about philosophical questions and cares much less about keeping his promises. Overall, in this setting in which the original case is underdescribed, the role of empirical theory and data is more modest. It does not deliver a verdict on its own. Rather, it tells us what details must be filled in with respect to Randy’s psychology for Randy to be exculpated or convicted in terms of moral responsibility.

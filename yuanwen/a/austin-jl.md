@@ -424,8 +424,6 @@ Thanks to Cora Diamond, Ruth Groff, Henry Hardy, Barry Lee, Hemdat Lerman, Matth
 
 ## Notes（原文脚注）
 
-## Notes to John Langshaw Austin
-
 [^note-1]: Austin’s emphasis on the good standing of distinctions drawn within ordinary language echoes a similar emphasis in Cook Wilson. See Marion 2009. It is recapitulated and developed in Grice and Strawson 1956 and Putnam 1962.
 
 [^note-2]: Ultimately, the dispute between Austin’s approach and approaches based broadly on Grice’s work turns on delicate issues concerning the extent to which, and ways in which, ordinary judgments, and our views about the sources and status of ordinary judgments, can be overturned either on the basis of attempts to systematize and generalize those judgments, or on the basis of our commitment to general principles taken to govern specific judgments. Grice recognizes a special case of the general issue in his *Studies* (1989: 49).

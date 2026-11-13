@@ -122,8 +122,6 @@ Cicero | Democritus | Epicureanism | Epicurus | Presocratic Philosophy | skeptic
 
 ## Notes（原文脚注）
 
-## Notes to Doxography of Ancient Philosophy
-
 [^note-1]: For the sources for Hellenistic philosophy (Cicero, Diogenes Laërtius etc.) see e.g., Mansfeld 1999; for editions of texts see Algra *et al* 1999.
 
 [^note-2]: See further Runia 1996b.

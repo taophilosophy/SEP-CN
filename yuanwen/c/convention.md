@@ -453,8 +453,6 @@ analytic/synthetic distinction | Aristotle, General Topics: logic | Bayes’ The
 
 ## Notes（原文脚注）
 
-## Notes to Convention
-
 [^note-1]: An exception to this trend is John Searle, who discusses money in *The Social Construction of Reality* (1995). Searle analyzes money not through convention but rather through his proprietary framework of constitutive rules.
 
 [^note-2]: Whether or not they are *true* is another matter. Liam Murphy and Thomas Nagel advocate conventionalism about property in *The Myth of Ownership* (2002), a book whose title suggests that claims about property rights are, strictly speaking, false. In the body of the text, however, Murphy and Nagel seem to argue instead that claims about property rights are *made true* by convention, which presumably entails that such claims are *true*. A similar ambivalence sometimes seems to inform Hume’s exposition.

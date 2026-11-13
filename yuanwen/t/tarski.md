@@ -298,8 +298,6 @@ I thank Paolo Mancosu and Richard Zach for helpful comments on an earlier versio
 
 ## Notes（原文脚注）
 
-## Notes to Alfred Tarski
-
 [^note-1]: Hodges (1985/6) claims that no notion defined by Tarski in the monograph on truth possesses all the crucial features of the notion of truth in a structure, and thus that this notion is not really defined by Tarski at this time. (See also Milne 1999. Gómez-Torrente 2001 contains a critique of Hodges’s claim.)[^gómez-torrente-2001][^milne-1999]
 
 [^note-2]: The claim that in the 1936 paper Tarski is primarily thinking of languages with the conventions of LAr is controversial. It is defended in Gómez-Torrente (1996), (2009) and disputed e.g. in Mancosu (2006), (2010). According to Mancosu, Tarski is paradigmatically thinking of languages like LAr*: LAr* is like LAr except that quantifications need not be relativized to “*N*”, and the range of the variables is the set of all individuals of some underlying type theory. See the next footnote.

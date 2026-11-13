@@ -458,8 +458,6 @@ analogy and analogical reasoning | anomalous monism | causation: the metaphysics
 
 ## Notes（原文脚注）
 
-## Notes to The Computational Theory of Mind
-
 [^note-1]: There is an alternative usage of “analog,” on which analog computation exploits some kind of structural *analogy* between computational states and a represented domain (Ulmann 2023, p. 2)[^ulmann-2023]. Analog computation in this sense need not be continuous. For example, a Turing machine might use stroke marks on the machine tape to count the number of words in an input text. If the Turing machine appropriately exploits the analogy between number of strokes and number of words, then its computations could count as analog according to the alternative usage. Lewis (1971) offers an influential explication of the alternative usage. Maley (2011, 2023) offers a similar explication.
 
 [^note-2]: The label “classical” is sometimes taken to include additional doctrines beyond the core thesis that mental activity is Turing-style computation: e.g., that mental computation manipulates symbols with representational content; or that mental computation manipulates mental representations with part/whole constituency structure; or that mental computation instantiates something like the Von Neumann architecture for digital computers. Note also that the abbreviation “CCTM” is sometimes instead used as shorthand for the *connectionist computational theory of mind.*

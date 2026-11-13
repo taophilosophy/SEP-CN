@@ -755,8 +755,6 @@ Many thanks to Fabrizio Cariani, Eddy Chen, Alan Hájek, Justin Khoo, Gianni Kle
 
 ## Notes（原文脚注）
 
-## Notes to Counterfactuals
-
 [^note-1]: The actual pair in Adams 1970 is *If Oswald hadn’t shot Kennedy, Kennedy would be alive today* and *If Oswald didn’t shoot Kennedy, Kennedy is alive today*. Adams only claims that the former is *justified* while the latter is unjustified. Adams did not claim the former is true while the latter is false, as he denied conditionals could be true or false in the first place. See section 6.2 and the entries on indicative conditionals and the logic of conditionals.
 
 [^note-2]: These labels are used to distinguish two broad functional categories of verbal mood across languages that indicates different commitments toward the reality of the event described (Palmer 1986: §1.1.2)[^palmer-1986]. Indicative indicates the clause is being committed to, while the subjunctive is noncommittal (it often includes imperatives, optatives, interrogatives). Some languages have a widely used subjunctive mood, but do not employ it in the relevant conditionals (Palmer 1986; Iatridou 2000)[^iatridou-2000][^palmer-1986]. Many linguists working on non-Indo-European languages use the labels “realis” and “irrealis” in a related but different way (Palmer 1986: §§6-7)[^palmer-1986]. Stone (1997: 8) suggests the terminology *remote* vs. *vivid* modality. von Fintel and Iatridou (2023) prefer the term “X-marking”, since subjunctive marking is also found in other constructions, such as wish reports and ought claims. Some theorists argue the indicative-subjunctive is more of a spectrum than a binary distinction (Comrie 1986)[^comrie-1986].

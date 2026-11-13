@@ -448,8 +448,6 @@ Beginning with the 2021 update, Chad Mohler has taken over responsibility for up
 
 ## Notes（原文脚注）
 
-## Notes to Constructive Empiricism
-
 [^note-1]: Van Fraassen nevertheless insists that whatever additional aims might be included in a more comprehensive account of science’s activity, the constructive empiricist will insist that they do not include truth about the unobservable; and the preeminent aim is still ensuring the empirically adequacy of theories. In this way, constructive empiricism still distinguishes itself from scientific realism.
 
 [^note-2]: Van Fraassen does not make explicit reference to case (3), but it is included here for completeness.

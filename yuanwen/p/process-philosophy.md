@@ -169,8 +169,6 @@ This entry owes inspiration, both in structure as well in scope, as well as some
 
 ## Notes（原文脚注）
 
-## Notes to Process Philosophy
-
 [^note-1]: Among the main theoretical alternatives for an ontological interpretation of the temporal existence of things, contemporary analytical ontology discusses so-called “four-dimensionalism,” “eternalism,” and the “stage theory,” which, interestingly, are all *static* varieties of Leibniz’ analysis.
 
 [^note-2]: On the first three topics see Fortescue 2001, Brown 2005, and Herstein 2005, respectively, on the fourth see note 19 below. Process philosophy in the letter or spirit of Whitehead has been the most visible strand of contemporary process philosophy, carried by a larger group of philosophers (see section 7. on institutionalization). Without wanting to diminish the significance of Whiteheadian process philosophy, either in itself nor for process philosophy, this entry is written with the aim to convey that process philosophy is a longstanding and highly diversified enterprise that should not be too closely associated with any particular school or movement.

@@ -367,8 +367,6 @@ atomism: ancient | Boyle, Robert | color | Democritus | Descartes, René | Locke
 
 ## Notes（原文脚注）
 
-## Notes to Primary and Secondary Qualities in Early Modern Philosophy
-
 [^note-1]: Galileo is fascinated by light, but declines to say what he believes it might be; see Crombie 1972: 81–7.
 
 [^note-2]: This entry follows the standard conventions for citing works of Descartes. “CSM” stands for *The Philosophical Writings of Descartes* edited by John Cottingham. Robert Stoothoff,and Dugald Murdoch; “AT” stands for *Oeuvres de Descartes*, edited by John Adam and Paul Tannery.

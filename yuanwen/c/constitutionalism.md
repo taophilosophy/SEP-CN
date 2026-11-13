@@ -168,8 +168,6 @@ A special word of thanks to Scott Shapiro for his very helpful comments on an ea
 
 ## Notes（原文脚注）
 
-## Notes to Constitutionalism
-
 [^note-1]: Unless otherwise indicated, the word ‘power’ should be taken to mean normative power of the kind associated with the theory developed by legal theorist Wesley Hohfeld. A normative power, on this understanding, is the capacity or ability to effect a change in the relevant normative landscape of rights, duties, privileges, and so on. When a legislature enacts a new law it exercises its normative power to alter existing legal rights, duties, etc., or create new ones that did not exist before that legal power was exercised.
 
 [^note-2]: Unless otherwise indicated, the term “constitutional” (and its cognate terms “constitutionalism”, “constitution”, and so on) should henceforth be understood to carry this richer meaning.

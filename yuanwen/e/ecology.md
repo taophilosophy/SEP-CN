@@ -290,8 +290,6 @@ I would like to thank the PhiLiSci team at University of Bielefeld for helpful c
 
 ## Notes（原文脚注）
 
-## Notes to Ecology
-
 [^note-1]: Other accounts have not been extensively discussed in the context of ecology. For example, when mechanisms are invoked in discussions of ecological levels, they are primarily at the level of the individual (Pâslaru 2018)[^pâslaru-2018], perhaps because mechanistic accounts do not seem to work so well above the level of the organism (DiFrisco 2017)[^difrisco-2017].
 
 [^antonovics-1992]: Antonovics, Janis, 1992, “Toward Community Genetics”, in *Plant Resistance to Herbivores and Pathogens: Ecology, Evolution, and Genetics*, Robert S. Fritz and Ellen Louise Simms (eds), Chicago: University of Chicago Press, 426–449 (ch. 18).

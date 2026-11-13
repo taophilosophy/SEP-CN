@@ -215,8 +215,6 @@ Special thanks for their comments to Susanna Siegel, Rebecca Copenhaver, and to 
 
 ## Notes（原文脚注）
 
-## Notes to Perceptual Learning
-
 [^note-1]: On a natural reading, it seems that Gibson’s definition limits perceptual learning in the following way. She writes that in perceptual learning, practice or experience with a stimulus array yields a perceptual change when one later perceives *that same* stimulus array. However, it becomes clear in her own examples that practice or experience with previous stimulus arrays can also yield perceptual changes when one confronts similar but new stimulus arrays (see especially E.J. Gibson 1969: Chapter 1 for numerous examples of this, including the case of chick sexing and the case of reading X-rays)[^gibson-1969].
 
 [^note-2]: Cf. Lyons 2005: 243–46, and 2009: section 2.3, for some possible exceptions.

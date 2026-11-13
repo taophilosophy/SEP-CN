@@ -296,8 +296,6 @@ I am grateful to the following for extremely useful comments on previous version
 
 ## Notes（原文脚注）
 
-## Notes to Martin Luther
-
 [^note-1]: Research on the wider cultural significance of that upbringing and education has been summarized by Nicholas Boyle:
 
 > It has been calculated that, even excluding philosophers, 120 major literary figures writing in German and born between 1676 and 1804 had either studied theology or were the children of Protestant pastors. (Boyle 2008: 10.)[^boyle-2008]

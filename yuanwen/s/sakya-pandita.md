@@ -160,8 +160,6 @@ Dharmakīrti | Gorampa [go rams pa] | Indian Philosophy (Classical): epistemolog
 
 ## Notes（原文脚注）
 
-## Notes to Sakya Paṇḍita [sa skya paṇ ḍi ta]
-
 [^note-1]: This summary is necessarily brief and selective. For precision and detail, see Jackson 1987: 15–29 and the sources discussed there, as well as Stearns 2001:159–169.
 
 [^note-2]: For fuller treatment of the topics in this section, see Dreyfus (1997), Kapstein (2000:85-120), Hugon (2008, 2009, 2014), Stolz (2006, 2008), and Gold (2014).

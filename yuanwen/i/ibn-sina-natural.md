@@ -292,8 +292,6 @@ al-Ghazali | Alexander of Aphrodisias | Arabic and Islamic Philosophy, disciplin
 
 ## Notes（原文脚注）
 
-## Notes to Ibn Sina’s Natural Philosophy
-
 [^note-1]: In Avicenna’s cosmological system, the Giver of Forms (*wāhib al-ṣuwar*) is the last of the emanated Intellects, which itself is associated with the intellect of the Moon. It is also identified with the Active or Agent intellect (*ʿaql faʿʿāl*) in psychology. There is some dispute over the exact function of the Giver of Forms. On one side, there are those who see the Giver of Forms as the cause of each particular substantial forms that comes to be, e.g., my form of humanity, your form of humanity, etc.; this position is the more traditional reading (Aquinas, *De Potentia*, q., a. 8; Davidson 1992, pp. 78–79; Janssens 2006)[^davidson-1992][^janssens-2006]. Alternatively, it has recently been persuasively argued that the Giver of Forms is the cause merely of the forms as universals not of their individual instantiation in the physical world (Richardson 2012)[^richardson-2012].
 
 [^note-2]: According to Aristotelian and Neoplatonic cosmology the motions of the various heavenly bodies, whether the apparent daily motion of the stars, the seemingly erratic and wandering motions of the planets, sun and moon, are all the result of distinct souls uniquely associated with each of those bodies. In other words, for this tradition the heavenly bodies were seen as alive and as such must have a principle of life and animation, which accounts for that specific and particular body’s characteristic motions and actions. A soul just is the principle of life and animation, accounting for a body’s characteristic motions and actions.

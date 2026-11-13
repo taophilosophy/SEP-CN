@@ -215,8 +215,6 @@ Thanks for their help to Daniel Calcutt, Christopher Coope, Roger Crisp, Wojdjec
 
 ## Notes（原文脚注）
 
-## Notes to Bernard Williams
-
 [^note-1]: Cp. MSH 156: “the overwhelming Englishness of [Sidgwick’s *Methods of Ethics*] extends even to a similarity to a cricket match, which has the very sophisticated feature that one can appreciate the significant detail of the monotony that lies before one at a given time only because one understands remote and hypothetical moments of excitement that might grow from it.”
 
 [^note-2]: In his 1983 ‘The uses of Philosophy’ interview.

@@ -364,8 +364,6 @@ The 2020 update was supported by the Italian Ministry of Education, University a
 
 ## Notes（原文脚注）
 
-## Notes to Properties
-
 [^note-1]: On viewing Plato’s forms as universals, cf. Harte (2008). As Harte makes it clear, this interpretation is common, but not unanimous. For a recent challenge to it, see Marmodoro (forthcoming), according to whom, it is Aristotle who “‘discovers’ universals”. The universal/particular distinction, which we are taking for granted here, though typical and widespread, is not uncontroversial; MacBride (2018) questions it, on the basis of a reconstruction of its manifestations in early analytic philosophy.
 
 [^note-2]: As is well-known, Quine (1948) rejects quantification over predicates and this is why he views predicates as devoid of ontological commitment. Castañeda (1976: §3) argues against this.

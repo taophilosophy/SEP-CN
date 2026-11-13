@@ -202,8 +202,6 @@ Berkeley, George | conservatism | ethics: natural law tradition | ideas | Locke,
 
 ## Notes（原文脚注）
 
-## Notes to Edmund Burke
-
 1. References to quotations from Burke's writings and speeches have not been given, in order to save space, if the source is obvious, i.e. where quotation is made from a well-known work identified in the text.
 
 [^note-2]: Though he does appear in encyclopaedias, see e.g. Freeman, M., 1992.

@@ -416,8 +416,6 @@ The author would like to thank the executive and subject editors who suggested a
 
 ## Notes（原文脚注）
 
-## Notes to Fallacies
-
 [^note-1]: A similar inventory of fallacies has been dubbed “the gang of eighteen” by John Woods (1992).
 
 [^note-2]: *Meditations on First Philosophy*, Dedication.

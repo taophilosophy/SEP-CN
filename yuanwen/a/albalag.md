@@ -221,8 +221,6 @@ al-Ghazali | Arabic and Islamic Philosophy, historical and methodological topics
 
 ## Notes（原文脚注）
 
-## Notes to Isaac Albalag
-
 [^note-1]: Throughout the treatise, Albalag addresses his critiques to al-Ghazali and, in most cases, refers to the Avicennian background of the latter’s errors.
 
 [^note-2]: Albalag specifies that this premise, namely from what is one and simple only one thing may proceed, is wrong because it mistakenly treats two distinct things under the same standards. Albalag contends, a divine cause is different from empirical and natural causes. Thus, if an empirical cause produces only one effect at a time, it does not follow that the same is true in regard to divine causes.

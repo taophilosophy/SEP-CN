@@ -535,8 +535,6 @@ Bradley, Francis Herbert | Davidson, Donald | definitions | Frege, Gottlob | Hei
 
 ## Notes（原文脚注）
 
-## Notes to Primitivist Theories of Truth
-
 [^note-1]: §§2–3 draw and significantly expand upon the discussion in Wyatt (2022: §2).
 
 [^note-2]: See also Moore (1901–2). Moore (1899: 182) also says that “our conclusion is that truth is itself a simple concept; that it is logically prior to any proposition”, which initially suggests that Moore also takes the concept truth to be primitive. However, we must again remember that the early Moore’s notion of a concept is importantly different from the now standard notion that was detailed in §1.

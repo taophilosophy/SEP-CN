@@ -173,8 +173,6 @@ compatibilism | evil: problem of | free will | free will: divine foreknowledge a
 
 ## Notes（原文脚注）
 
-## Notes to Divine Providence
-
 [^note-1]: Contemporary arguments of this type may be seen as beginning with Plantinga (1974, 26). Essentially the same argument has been endorsed by many other writers.
 
 [^note-2]: Contemporary defenses of the view that God is timelessly eternal include Helm (1988) and Leftow (1991).

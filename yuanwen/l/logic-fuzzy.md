@@ -177,8 +177,6 @@ logic: algebraic propositional | logic: many-valued | logic: substructural | pro
 
 ## Notes（原文脚注）
 
-## Notes to Fuzzy Logic
-
 [^note-1]: Note that truth-functionality implies that degrees of truth cannot be interpreted as probabilities or degrees of beliefs, since the latter do not combine functionally: the probability that “The sun shines at noon tomorrow and it rains at midnight” is not (just) determined by the probabilities of the two indicated events, since they are not independent in general.
 
 [^note-2]: The equivalence does not hold for infinite sets of premises. Perhaps surprisingly, the general consequence relation is nevertheless compact in the usual sense: an infinite set of formulas is satisfiable, i.e., there is an evaluation evaluating all its formulas to $1$, whenever each finite subset is satisfiable.

@@ -481,8 +481,6 @@ The author is very grateful to Lou Goble, whose extensive comments on two earlie
 
 ## Notes（原文脚注）
 
-## Notes to Mally’s Deontic Logic
-
 [^note-1]: *Im Jahre 1919 wurde mir das Wort Selbstbestimmung, das in aller Leute Munde war, Anlaß eines Versuches, mir einen klaren Begriff zu dem Wort zu bilden. Natürlich stieß ich dabei alsbald auf die Schwierigkeiten und Dunkelheiten des Sollensbegriffes: das Problem wandelte sich. Grundbegriff aller Ethik, kann der Begriff des Sollens ein brauchbares Fundament ihres Aufbaus nur geben, wenn er in einem System von Axiomen festgelegt ist. Ein solches Axiomensystem führe ich hier vor* (Mally 1926, Preface, p. I)[^mally-1926].
 
 [^note-2]: *Man kann sehr wohl etwas wünschen, sofern esuns angenehm oder sonst wertvoll ist, aber die unangenehme Kehrseite des Tatbestandes gar nicht wünschen*. (Mally 1926, p. 15)[^mally-1926].

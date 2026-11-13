@@ -83,8 +83,6 @@ In addition to his account of the origins and history of civil society developed
 
 ## Notes（原文脚注）
 
-## Notes to Giambattista Vico
-
 [^note-1]: Vita di Giambattista Vico scritta da se medesimo (1725-31), The Autobiography of Giambattista Vico with the Continuation by Villarosa [1818], translated by Max Harold Fisch and Thomas Goddard Bergin. (Ithaca: Cornell University Press, 1944, revised 1963), p.136. Hereafter "Vita."
 
 [^note-2]: For a concise and informative account of Vico's influence, see the translators' Introduction to The Autobiography of Giambattista Vico, translated by Max Harold Fisch and Thomas Goddard Bergin. (Ithaca: Cornell University Press, 1944, revised 1963), pp.61-107. See also Benedetto Croce, Bibliografia vichiana, revised and enlarged by Fausto Nicolini, 2 volumes (Naples: Ricciardi, 1947-48).

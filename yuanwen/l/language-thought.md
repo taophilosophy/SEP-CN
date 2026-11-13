@@ -389,8 +389,6 @@ I owe a profound debt to the Murat Aydede, author of the [previous entry](https:
 
 ## Notes（原文脚注）
 
-## Notes to The Language of Thought Hypothesis
-
 [^note-1]: Fodor (1987: 16) calls the conjunction of (1) and (2) *the representational theory of mind* (RTM). However, it seems better to reserve that name for the more general view that mental representations exist. One can accept the general view while rejecting (1) and (2). For example, one can say that mental representations figure in subpersonal perceptual activity but deny that they figure in thought.
 
 [^note-2]: Fodor and Pylyshyn (2015: 28) claim that pictures have parts but not constituents. They argue on that basis against imagistic theories of thought.

@@ -253,8 +253,6 @@ Descartes, René | Descartes, René: modal metaphysics | determinism: causal | i
 
 ## Notes（原文脚注）
 
-## Notes to Spinoza’s Physical Theory
-
 [^note-1]: On Peterman's (2012, 2015) account, according to which Spinoza means something different than Descartes' (and everybody else) by “extension“, this agreement is merely nominal. Peterman argues that Spinoza denies that it is of the essence of physical, extended things that they take up space, and holds that extension itself in not dimensional.
 
 [^note-2]: Leibniz famously criticized Descartes on this point, arguing that what is preserved in interactions is a function not of speed and bulk, but of velocity and what we now think of as mass; that is, it is momentum that is preserved. Leibniz took this to entail that there are powers of bodies that are not reducible to or accountable for in terms of their extensive quantities; this essentially entails a rejection of the Cartesian idea that the essence of body is exhausted by extension. Spinoza was unaware of Leibniz's criticism of Descartes' conservation law. Given the experimental basis of Leibniz's argument, it is a fair question whether Spinoza would have accepted Leibniz's reasoning even if he had been aware of it.

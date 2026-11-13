@@ -374,8 +374,6 @@ Alexander of Aphrodisias | Ammonius | Aristotle, commentators on | Aristotle, Ge
 
 ## Notes（原文脚注）
 
-## Notes to Ancient Logic
-
 [^note-1]: The title is almost certainly not by Aristotle.
 
 [^note-2]: This somewhat outlandish sounding claim becomes comprehensible when one takes into account (i) that logic was mostly practiced orally, and (ii) that, even in written form, no quotation marks were available. Hence ‘a wagon has six letters’ and ‘a wagon has wheels’ could each express a true assertible, but each would then denote a different subject.

@@ -479,8 +479,6 @@ compositionality | game theory | generalized quantifiers | logic: and games | lo
 
 ## Notes（原文脚注）
 
-## Notes to Independence Friendly Logic
-
 [^note-1]: The work of providing solid foundations to analysis was initiated by Augustin Cauchy (1789–1857).
 
 [^note-2]: For references to uses of the device ‘depends on…but not on…’ in actual mathematical literature, see Dechesne (2005), Hintikka (1996), Hintikka & Kulas (1983), Hodges (1997a, 1997b), Mann *et al.* (2011), Mostowski & Krynicki (1995), Pietarinen (2001); for dependent quantifiers, see also Quine (1970). Bazzoni (2015) criticizes Hintikka’s remarks about the expressibility of uniformity concepts in IF logic, arguing that such remarks cannot show the relevance of IF logic to mathematical theorizing.

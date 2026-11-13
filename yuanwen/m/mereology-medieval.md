@@ -331,8 +331,6 @@ Abelard [Abailard], Peter | Aquinas, Thomas | Boethius, Anicius Manlius Severinu
 
 ## Notes（原文脚注）
 
-## Notes to Medieval Mereology
-
 [^note-1]: Thirteenth- and fourteenth-century logicians take great pains to distinguish these different distributive functions of terms because they believe that this will help them to resolve a number of sophisms (*sophismata*). Some of these sophisms involve the terms “whole” and “part”. For example, a number of later logicians tackled such sophisms as “The whole Socrates is less than Socrates” (*Totus Sortes est minor Sorte*) and “The whole Socrates is a part of Socrates” (*Totus Sortes est pars Sortis*). For an overview of syncategorematic terms and the application of the theory of distributive terms to the resolution of various *sophismata*, see Kretzmann 1982. On the categorematic and syncategorematic senses of “whole” and their application to mereologically themed questions, see Zupko 2003, 158–61, and Fitzgerald, 2009.
 
 [^note-2]: One must remember that Aristotle and his medieval students lived in periods of time well before organ transplants were even conceivable. I leave it as an exercise for the reader to think through the implications of modern medical technology on the Aristotelian distinction between substantial and accidental forms.

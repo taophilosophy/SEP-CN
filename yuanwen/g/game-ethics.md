@@ -383,8 +383,6 @@ We would like to thank Bruno Verbeek and Christopher Morris whose earlier versio
 
 ## Notes（原文脚注）
 
-## Notes to Game Theory and Ethics
-
 [^note-1]: Diana Richards first suggested the term *conflictual coordination game*. Such games are often referred to by the more colloquial names *Battle of the Sexes* (Luce & Raiffa 1957: 90–91)[^luce-1957] or *Hawk-Dove* (Maynard Smith 1982: 11–12)[^maynard-1982]. The “hawk” and “dove” labels we’ve utilized are borrowed from the Maynard Smith model which was developed to help explain behavioral strategies that animals might employ to protect or acquire resources. While the label for the Luce and Raiffa model is a reference to scenarios where both partners in a couple desire to do something together, but have conflicting preferences over what they would most prefer to do.
 
 [^note-2]: A point $x=(x_1,\ldots,x_n)$ is weakly Pareto superior to a point $y=(y_1,\ldots,y_n)$ if $x_i \ge y_i$ for each $i \in \{1,\ldots,n\}$ and $x_i > y_i$ for at least one $i \in \{1,\ldots,n\}$. x is Pareto superior to y if $x_i > y_i$ for each $i \in \{1,\ldots,n\}$.

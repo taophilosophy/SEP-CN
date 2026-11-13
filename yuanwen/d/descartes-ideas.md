@@ -153,8 +153,6 @@ I thank Alan Nelson for helpful comments on earlier drafts of this entry, and I 
 
 ## Notes（原文脚注）
 
-## Notes to Descartes’ Theory of Ideas
-
 [^note-1]: In this entry, the Adam and Tannery volumes, *Oeuvres De Descartes*, (11 volumes) are cited. Such citations are abbreviated as **AT**, followed by the appropriate volume and page numbers. I have whenever possible used the Cottingham, Stoothoff, and Murdoch translation, *The Philosophical Writings Of Descartes* (3 volumes), abbreviated as **CSM**. Volume 3 includes Anthony Kenny as a translator. This has been abbreviated as **CSMK**, followed by the appropriate volume and page numbers. The **AT** and **CSM**/**CSMK** numbers are cited side by side, separated by a semicolon. Thus, the citation for the letter to Gibeuf is: AT III 474; CSMK III 201.
 
 [^adams-1987]: Adams, Marilyn, 1987. *William Ockham. Vols. 1–2*. South Bend, IN: University of Notre Dame Press.

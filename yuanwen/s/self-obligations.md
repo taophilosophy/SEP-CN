@@ -350,8 +350,6 @@ autonomy: in moral and political philosophy | Hobbes, Thomas | informed consent 
 
 ## Notes（原文脚注）
 
-## Notes to Obligations to Oneself
-
 [^note-1]: Guyer (2002, 79, fn.5) argues that Kant ultimately endorses a duty to oneself to promote one’s own happiness; Kahn (2018) argues that Kant does *not* endorse such a duty, but could and should have. (Kant’s doubts stem from his assumption that we are “unavoidably” self-loving, plus his belief that such love leaves no room for duty (*MM* 6:386, 451).) My citations of Kant will follow the standard Akademie pagination; I will use the translations featured in the Cambridge Editions of *Practical Philosophy* (1996) and *Lectures on Ethics* (1997).
 
 [^note-2]: Kant also invokes the legal maxim that a willing party is never wronged—*volenti non fit iniuria*—in an argument for why only the united will of the people can pass laws (*MM* 6:314; see also *MM* 6:422). Here Kant echoes Rousseau’s (2014, 174) discussion in Chapter 7 of *On the Social Contract*, which argues that a citizen can owe duties to the sovereign even though it is a “maxim of civil right that no one is bound to commitments toward himself.” Rousseau reasons that, though each citizen is *part* of the sovereign, they are not the *whole* sovereign—and indeed the sovereign cannot owe obligations to itself.

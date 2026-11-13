@@ -411,8 +411,6 @@ Chinese Philosophy: ethics | Chinese Philosophy: Han Dynasty | Chinese Philosoph
 
 ## Notes（原文脚注）
 
-## Notes to Daoism
-
 [^note-1]: The Classical *masters* were names given to collections of writings allegedly inspired by a teacher, apocryphal or actual. Most of the “chapters” of the extant “books” were originally bamboo scrolls arranged in such named collections and copied, edited, abridged and or elaborated by multiple hands guided by a range of intentions. For convenience, we attribute a passage to the named master when it is regarded as part of this collection. It rarely if ever entails that the named master authored the passage in the Western sense. For readers’ convenience, reference to these texts will be keyed to the online versions at ctext.org. That site includes public domain translations which the reader may compare with the translations here which are the author’s. That site also allows the reader to access a “character by character” translation.
 
 [^note-2]: For ease in reading, this entry will introduce Chinese concepts with an italicized English translation followed by the Chinese term and other usual translations. We treat subsequent uses of the italicized English term as using the Chinese concept, not its translation. For terms that are frequent and central to Daoist reasoning, e.g., *dào*, or whose roles in reasoning differ importantly, we may also use the Pinyin Mandarin romanization and parenthesize the character and some relevant translations.

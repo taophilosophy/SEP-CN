@@ -268,8 +268,6 @@ conditionals | Diodorus Cronus | doxography of ancient philosophy | fatalism | f
 
 ## Notes（原文脚注）
 
-## Notes to Dialectical School
-
 [^note-1]: According to Aristotle, some Megarian philosophers maintained that the possibility of an event implies its actuality (Aristotle, *Metaphysics* Θ 3 1046b29–32). Perhaps Diodorus endeavored to keep the spirit of this concept of possibility.
 
 [^note-2]: ‘If a proposition neither is nor will be true, then it has been the case that the corresponding state of affairs will never be the case’ would be more precise. However, in Cicero, *On Fate* 13 and 17, in a related context, we find a switch from something’s being true to its being the case similar to (VI).

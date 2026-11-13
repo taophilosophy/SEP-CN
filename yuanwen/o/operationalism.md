@@ -229,8 +229,6 @@ behaviorism | cosmology: methodological debates in the 1930s and 1940s | logical
 
 ## Notes（原文脚注）
 
-## Notes to Operationalism
-
 [^note-1]: This was the title of a collection of his essays (Bridgman 1955)[^bridgman-1955].
 
 [^note-2]: On Bridgman’s life and work in general, see Walter 1990, Holton 1995a, and Moyer 1991.

@@ -289,8 +289,6 @@ The author would like to acknowledge the research assistance by René de Nicolay
 
 ## Notes（原文脚注）
 
-## Notes to Ancient Political Philosophy
-
 [^note-1]: I will use both “city” and “city-state” to refer to the *polis*, though neither of these nor any English word fully captures its meaning; unlike our “city,” the *polis* encompassed both an urban area and a rural hinterland, while unlike our “state,” its political identity was not conceived as distinct from the body of active citizens which comprised it.
 
 [^note-2]: This is roughly translatable by the British ‘the great and the good’, but with those two terms synonymous rather than disjunctive: not a separate group of ‘the good’ such as the bishops still sitting in the House of Lords, but rather ‘the good’ as precisely the wealthy and well-born.

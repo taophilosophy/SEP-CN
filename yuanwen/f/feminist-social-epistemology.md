@@ -184,8 +184,6 @@ epistemology: social | epistemology: virtue | feminist philosophy, approaches: a
 
 ## Notes（原文脚注）
 
-## Notes to Feminist Social Epistemology
-
 [^note-1]: Feminist work since the 1990s has questioned this divide between sex and gender and criticized both categories, suggesting both that sex is not a biological given, and that the category of gender suffers from an overgeneralization across women’s varying experiences (Nicholson 1998)[^nicholson-1998]. Even in such criticism, however, feminists’ interest in the social and cultural aspects of sex remains.
 
 [^note-2]: Such theories might better be defined as “feminine epistemologies” rather than “feminist epistemologies”, however insofar as an argument can be made that feminine ways of knowing have been undervalued and a reversal of this valuation helps in the feminist project of improving the situation of women, they could be considered forms of feminist epistemology.

@@ -267,8 +267,6 @@ epistemology | justification, epistemic: coherentist theories of | justification
 
 ## Notes（原文脚注）
 
-## Notes to Foundationalist Theories of Epistemic Justification
-
 [^note-1]: Various contemporary views hold that justification is the more fundamental concept—our understanding of knowledge depends upon our understanding of justification—and we will continue to suppose that this is the case. It should be noted, however, that some have argued that knowledge is the more fundamental concept, and that various other epistemic concepts are best understood in terms of knowledge. In a highly influential book, Timothy Williamson (2000) argues that knowledge is unanalyzable and that our evidence simply consists in everything we know. Justification may have foundations but only because we end a regress of justification with propositions that are known; the evidential foundation on which all justified belief rests is knowledge (2000: 186).
 
 [^note-2]: Foundational knowledge or justified belief has also been called by foundationalists direct knowledge (justification), immediate knowledge, intuitive knowledge (justification); and the truths known have been referred to as self-evident truths, directly evident truths, self-presenting truths, and the given. This last locution “the given” is, however, ambiguous as between *truths* that are said to be known directly and *facts* or features of the world that are said to be immediately “before” consciousness.

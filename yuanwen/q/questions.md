@@ -761,8 +761,6 @@ The authors are listed alphabetically. Cross wrote sections 1, 3, and 4; Roelofs
 
 ## Notes（原文脚注）
 
-## Notes to Questions
-
 [^note-1]: The latter condition ensures that questions can be truthfully resolved in every possible world. That is, if the propositions that make up a question meaning are required to cover the entire logical space, then for any question meaning $I$ and any world $w$, there is always at least one proposition $\alpha$ in $I$ that contains $w$. This proposition corresponds to a response that is true in $w$ and resolves the given question. The condition that questions can be truthfully resolved in every possible world is weakened in *presuppositional* extensions of $\Inq_B$, see section 2.3.2.
 
 [^note-2]: A note on terminology: the term *inquisitive semantics* was initially used to refer to the system developed in Groenendijk 2009 and Mascarenhas 2009, discussed in section 2.2.2 above, but is currently generally used to refer to the system $\Inq_B$ and its extensions. Here, to avoid confusion, we use it only to refer to the latter.

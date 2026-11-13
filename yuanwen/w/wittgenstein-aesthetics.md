@@ -175,8 +175,6 @@ Everything covered here concerning the impoverishing and blinding superimpositio
 
 ## Notes（原文脚注）
 
-## Notes to Wittgenstein’s Aesthetics
-
 [^note-1]: For a discussion of the use of the phrase “language game” and its significance for aesthetics, see Hagberg 1994: 9–44.
 
 [^note-2]: For a discussion of gestures and their relations to pictures, see Lüdeking 1990.

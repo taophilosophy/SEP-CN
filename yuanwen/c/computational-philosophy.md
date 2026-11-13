@@ -592,8 +592,6 @@ The authors are grateful to Anthony Beavers, Christoph Benzmüller, Gregor Betz,
 
 ## Notes（原文脚注）
 
-## Notes to Computational Philosophy
-
 [^note-1]: Although not included here, Billy Wheeler has made an appeal for computational models in metaphysics (Wheeler 2019)[^wheeler-2019]. Since 1994 Magnani Lorenzo has directed a [Computational Philosophy Lab](http://www-9.unipv.it/webphilos_lab/wordpress/) at the University of Pavia, emphasizing abduction and model-based cognition.
 
 [^note-2]: Argument undoubtedly has a history as old as human communication, and the self-conscious consideration of what makes an argument valid cannot have been far behind. The latter is clearly evident in the Sophists and Plato (see Bobzien 2019). The first structured and systematized formalization of valid argument, however, is generally credited to Aristotle. The vision of formalization embodied in Aristotle is breathtaking: that properties crucial to the rationality of something as richly human and context-dependent as argument, tied to content and intended for social persuasion, can be captured in a skeleton of icy symbolism that has neither human content nor social context. It is that vision of formalization as capturing the validity of argument—of various forms and regardless of application—that continues through the 2500 years of the development of logic since Aristotle.

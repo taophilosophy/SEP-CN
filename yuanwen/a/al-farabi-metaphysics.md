@@ -313,8 +313,6 @@ al-Farabi | al-Farabi: philosophy of logic and language | al-Farabi: philosophy 
 
 ## Notes（原文脚注）
 
-## Notes to al-Fārābī’s Metaphysics
-
 [^note-1]: These are all issues which Fārābī in *On the Aims of the Metaphysics* says (rather tendentiously) that Aristotle treats in *Metaphysics* XII (see further in Section 2), and which Fārābī himself treats in accord with his interpretation of Aristotelian metaphysics in the *Perfect City* and *Political Regime* (see Section 4). But Fārābī thinks that the scientific resolution of these issues depends on a technical substructure discussing less immediately appealing issues, including the logical syntax of being and unity (see Section 3).
 
 [^note-2]: He says “*ʿilm al-tawḥīd*”, literally “science of unification”, i.e., the knowledge that there is only one God: this is a standard way of referring to *kalām*.

@@ -386,8 +386,6 @@ Ayer, Alfred Jules | Berkeley, George | Boyle, Robert | Hume, David | Hume, Davi
 
 ## Notes（原文脚注）
 
-## Notes to Hume’s Newtonianism and Anti-Newtonianism
-
 [^note-1]: The passages in Hume cited in this entry can be found in the editions listed in the “Primary Sources” section of the Bibliography.
 
 [^note-2]: A reprint is available to scholars as: “Is a New Material of David Hume by himself? [sic] A Treatise of Fluxions, by Mr. George Campbell: Professor of Mathematicks in Edinburgh, Written by David Home, 1726”. Edited by Yukihiko Kawashima. *The Journal of Tokyo International University: The School of Business and Commerce* No. 70, 20 September 2004.

@@ -299,8 +299,6 @@ Bradley, Francis Herbert | common good | Hegel, Georg Wilhelm Friedrich | ideali
 
 ## Notes（原文脚注）
 
-## Notes to Thomas Hill Green
-
 [^note-1]: Further details about Green’s life can be found in Nettleship 1888 and in Richter 1964.
 
 [^note-2]: Bradley divided the text into books, chapters, and sections, supplied minor notes (e.g., explaining references and providing translations), and constructed a very useful analytical table of contents. Green left no indication about the contents of this projected addition to the *Prolegomena*, though it may have included a further discussion of Kant’s ethics, apparently advertised at *PE* §156.

@@ -361,8 +361,6 @@ behaviorism | belief | bias, implicit | Brentano, Franz | consciousness | consci
 
 ## Notes（原文脚注）
 
-## Notes to Introspection
-
 [^note-1]: The key difference between Tye’s 2000 account on the one hand and the Nichols and Stich account on the other that warrants the classification of Tye’s view here rather than in the section on self-detection models is this: Tye rejects the idea that the process is one of internal detection, while Nichols and Stich stress that idea. To adjudicate the dispute between those two positions, and to determine whether it might, in fact, be merely nominal, it would be helpful to have a clearer sense than has so far been given of what it means to say that one subpersonal system detects, or “monitors” or “scans”, the states or contents of another.
 
 [^note-2]: A related concern in contemporary discussion is the *refrigerator light illusion*. The refrigerator-light illusion is named after the error a child might make in thinking that the refrigerator light is always on because it’s always on whenever she looks to see whether it is. We fall victim to this illusion, it’s sometimes suggested, if we think we have constant visual experience of the far periphery of the visual field or constant tactile experience of our feet in our shoes. On this view, we do not have such constant peripheral experiences, it’s suggested, but whenever we *think*, or introspect, about such matters, we *create* such experiences, resulting in the illusion that such experiences are always there. See Jaynes 1976; Dennett 1991; Thomas 1999; Noë 2004; Block 2007; Schwitzgebel 2007a. Among those who hold that we *do* have constant peripheral experiences are James 1890/1981 and Searle 1992.

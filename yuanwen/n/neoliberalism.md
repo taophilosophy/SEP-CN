@@ -403,8 +403,6 @@ bounded rationality | capitalism | democracy | economics: philosophy of | econom
 
 ## Notes（原文脚注）
 
-## Notes to Neoliberalism
-
 [^note-1]: This entry understands Mises as a neoliberal precursor, as he adopted sharper limits on the state than anyone normally classified as a neoliberal. But see Slobodian (2018) and Whyte (2019: 31) for a different take.
 
 [^note-2]: Angus Burgin places Hayek and Friedman, as well as Buchanan, near the center of what *others* call neoliberalism. See Burgin 2012: 118.

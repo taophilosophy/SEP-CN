@@ -344,8 +344,6 @@ al-Ghazali | al-Razi, Fakhr al-Din | Arabic and Islamic Philosophy, disciplines 
 
 ## Notes（原文脚注）
 
-## Notes to Arabic and Islamic Philosophy of Religion
-
 [^note-1]: There is debate in the secondary literature whether Abū Bakr al-Rāzī actually maintained this strong position, particularly since the reports are from hostile witnesses; see Stroumsa 1999, 107–20, who defends the traditional understanding of al-Rāzī’s stance towards religion and prophecy, and Rashed 2000 and Adamson 2021, ch. “Prophecy”, who are more skeptical.
 
 [^note-2]: It is certainly worth noting that Ibn Sīnā himself presents this objection against his position. His response involves a technical account of when actual infinities are possible and impossible. In general, however, he asserts that he has demonstrations that the world and humans have existed infinitely into the past and that human souls are immortal, and so he has a demonstration that a certain kind of actual infinity must be possible. In contrast, the detractors only have an intuition that actual infinities are impossible. For Ibn Sīnā, a demonstration trumps an intuition. See Marmura 1960, McGinnis 2010a.

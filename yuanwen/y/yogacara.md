@@ -183,8 +183,6 @@ Abhidharma | Buddha | Dharmakīrti | idealism | Indian Philosophy (Classical): e
 
 ## Notes（原文脚注）
 
-## Notes to Yogācāra
-
 [^note-1]: The tradition of Asaṅga and Vasubandhu is sometimes called the “followers of scripture” (Sanskrit: **āgamānusārin*; Tibetan: *lung gi rjes ’brangs*), which refers primarily to the *Yogācārabhūmi*, the representative text of the tradition. The logico-epistemological tradition of Dignāga and Dharmakīrti is also called the “followers of reasoning” (Sanskrit: **nyāyānusārin*; Tibetan: *rigs pa’i rjes ’brangs*). See Hopkins 1996: 174‒176; Deleanu 2012: 4, n. 4.
 
 [^note-2]: The term “Yogācārin”, which we often find in the secondary literature, has no textual support (Silk 2000: 267)[^silk-2000].

@@ -204,8 +204,6 @@ Agrippa von Nettesheim, Heinrich Cornelius | Aristotle, Special Topics: causalit
 
 ## Notes（原文脚注）
 
-## Notes to Lucrezia Marinella
-
 [^note-1]: Earlier contributions to the debate by women in Italian include: Moderata Fonte, *The Worth of Women* (1600) (this work is almost contemporaneous with Marinella’s *The Nobility and Excellence of Women and the Defects and Vices of Men*), Tullia D’Aragona, *Dialogue on the Infinity of Love* (1547) (*Dialogue on the Infinity of Love*, trans. and eds. Rinaldina Russell and Bruce Merry, University of Chicago Press, 1997), Laura Cereta’s epistolary essays in response to Boccaccio (~1488) (*Collected Letters of a Renaissance Feminist*, trans. and ed. Diana Robin, University of Chicago Press, 1997), and Isotta Nogarola, *Dialogue on the Equal or Unequal Sin of Adam and Eve* (1451) (*Complete Writings: Letterbook, Dialogue on Adam and Eve, and Orations*, trans. and eds. Margaret L. King and Diana Robin, University of Chicago Press, 2003).
 
 [^note-2]: For the view that ensouled beings are better than those without souls, see Aristotle, *Generation of Animals* 2.1. For Pizan’s argument, see *The Book of the City of Ladies*, 1.9.2. Agrippa says, “Woman is superior to man by reason of the material of her creation, because she was made not from something inanimate, not from vile clay as man was, but from a purified material, endowed with life and soul, I mean a rational soul, sharing the divine intelligence,” (50, Rabil trans. modified).

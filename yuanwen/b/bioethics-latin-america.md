@@ -264,8 +264,6 @@ The authors would like to thank Bernardo Aguilera, Arleen Salles, Rodolfo Vázqu
 
 ## Notes（原文脚注）
 
-## Notes to Bioethics in Latin America
-
 [^note-1]: There are several accounts of the evolution of bioethics in Latin America: Lolas Stepke 2005; Mainetti 2010; Álvarez Díaz 2012a; Lamm 2012; Garcia et al. 2019.
 
 [^note-2]: A detailed country-by-country study of the regulation of surrogacy can be found in Espejo-Yaksic, Fenton-Glynn, and Scherpe 2023.

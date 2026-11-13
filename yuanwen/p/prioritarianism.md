@@ -503,8 +503,6 @@ common good | consequentialism | consequentialism: rule | economics [normative] 
 
 ## Notes（原文脚注）
 
-## Notes to Prioritarianism as a Theory of Value
-
 [^note-1]: Defenses of prioritarianism include Adler (2012, 2019, 2022a); Adler and Holtug (2019); Arneson (2000, 2007, 2022); Holtug (2010); Hooker (2000); Hyams (2015); McKerlie (2007); Nebel (2017); O’Neill (2012); Parfit (2000, 2012); Porter (2011, 2012); Segall (2015); Weirich (1983); and Williams (2012). See also Adler and Norheim (2022a) for a survey of prioritarianism’s implications for public policy.
 
 [^note-2]: Space constraints preclude addressing a number of topics: picking a specific transformation function within the class of such functions (Adler 2022a)[^adler-2022a][^adler-2022a-2]; shifting from lifetime to time-slice well-being (Adler 2012; Andrić and Herlitz 2022; Holtug 2010; McKerlie 1997, 2001a, 2001b, 2007, 2013)[^adler-2012][^andrić-2022][^holtug-2010][^mckerlie-1997]; adjusting well-being to take account of individual desert or opportunity (Adler 2018; Arneson 2007, 2022; Brunori, Ferreira, and Peragine 2022)[^adler-2018][^arneson-2007]; shifting to a “local” prioritarianism that regulates distribution only within societies, rather than globally (Nagel 1991; cf. Holtug 2009)[^holtug-2009][^nagel-1991]; specifying prioritarianism as a deontic rather than axiological view (Nebel 2017; Williams 2012)[^nebel-2017][^williams-2012]; and, as mentioned, including non-human animals within the population of concern.

@@ -607,8 +607,6 @@ Beginning with the 2024 update, Thomas Studer has taken responsibility for updat
 
 ## Notes（原文脚注）
 
-## Notes to Justification Logic
-
 [^note-1]: For better readability brackets ‘[’, ‘]’ will be used in terms, and parentheses ‘(’, ‘)’ in formulas. Both will be avoided when it is safe.
 
 [^note-2]: One could devise a formalization of the Red Barn Example in a bi-modal language with distinct modalities for knowledge and belief. However, it seems that such a resolution must involve reproducing justification-tracking arguments in a way that obscures, rather than reveals, the truth. Such a bi-modal formalization would distinguish $u:B$ from [$a\cdot v]:B$ not because they have different reasons (which reflects the true epistemic structure of the problem), but rather because the former is labelled ‘belief’ and the latter ‘knowledge.’ But what if one needs to keep track of a larger number of different unrelated reasons? By introducing a multiplicity of distinct modalities and then imposing various assumptions governing the inter-relationships between these modalities, one would essentially end up with a reformulation of the language of Justification Logic itself (with distinct terms replaced by distinct modalities). This suggests that there may not be a satisfactory ‘halfway point’ between the modal language and the language of Justification Logic, at least inasmuch as one tries to capture the essential structure of examples involving the deductive nature of knowledge.

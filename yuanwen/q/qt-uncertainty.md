@@ -486,8 +486,6 @@ quantum mechanics | quantum mechanics: Bohmian mechanics | quantum mechanics: Co
 
 ## Notes（原文脚注）
 
-## Notes to The Uncertainty Principle
-
 [^note-1]: The translation of *anschaulich* as “intuitive” is obviously the best candidate, since it has a corresponding etymological root. Unfortunately, this term is often used to refer to a kind of understanding which bypasses reasoning. This is not intended here.
 
 [^note-2]: Although this claim by Schrödinger seems to have been accepted by his contemporaries, his argument was incomplete. A satisfactory proof of the equivalence of wave mechanics and matrix mechanics was only provided later, when von Neumann (1932) showed that both approaches could be seen as different realisations of an abstract Hilbert space formalism (see Muller 1997, for historical details)[^muller-1997].

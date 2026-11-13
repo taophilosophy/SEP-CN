@@ -347,8 +347,6 @@ memory: epistemological problems of
 
 ## Notes（原文脚注）
 
-## Notes to Memory
-
 [^note-1]: The discussion of the epistemic theory in this section draws on Bernecker 2008 and Frise 2015.
 
 [^note-2]: The discussion of content externalism in this section draws on Bernecker & Bogart 2015.

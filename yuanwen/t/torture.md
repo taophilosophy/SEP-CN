@@ -268,8 +268,6 @@ autonomy: in moral and political philosophy | autonomy: personal | dirty hands, 
 
 ## Notes（原文脚注）
 
-## Notes to Torture
-
 [^note-1]: Earlier versions of especially the last three sections appeared in Miller 2005 and Miller 2009 (Chapter 7).
 
 [^note-2]: See also Shue 1978. Shue seems to be arguing, implicitly at least, that in practice torture is never justifiable. However, he does countenance the possibility of an extreme emergency – a ticking bomb scenario – in which torture would be morally justifiable.

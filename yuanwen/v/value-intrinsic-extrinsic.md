@@ -155,8 +155,6 @@ Many thanks to Fred Feldman, Noah Lemos, Terry McConnell, and Toni Rønnow-Rasmu
 
 ## Notes（原文脚注）
 
-## Notes to Intrinsic vs. Extrinsic Value
-
 [^note-1]: Epicurus 1926. This formulation of hedonism is rough, since hedonists often allow for the intrinsic goodness and badness of things *other* than, but containing, pleasure and pain (things such as lives and worlds, for example).
 
 [^note-2]: Although this is how the term “intrinsic value” is often understood, it has been understood in other ways, too. Sometimes it appears to be used simply as a synonym of “nonderivative value” after all. Also, at one point G. E. Moore uses it to refer to any kind of value that supervenes solely on the intrinsic nature of the value-bearer. See Moore 1922, p. 260.

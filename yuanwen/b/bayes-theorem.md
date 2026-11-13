@@ -359,8 +359,6 @@ epistemology: Bayesian | probability, interpretations of
 
 ## Notes（原文脚注）
 
-## Notes to Bayes’ Theorem
-
 [^note-1]: Though one can view conditional probabilities as basic, and even make sense of them when the conditioning event has probability zero, we stick to the standard definition here. Whenever **P***_{E}* appears it is assumed that *E*'s probabilty is positive. For discussion of generalized conditional probabilities and useful references see (Renyi, 1955), (Harper, 1976), (Sphon, 1986), (Hammond, 1994), (McGee, 1994) and (Joyce 1999, 201-213)[^joyce-1999].
 
 [^note-2]: **P***_{E}* must be a real-valued function, bounded between zero and one, that satisfies:

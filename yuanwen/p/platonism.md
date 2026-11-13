@@ -674,8 +674,6 @@ abstract objects | existence | fiction: fictional entities | mathematics, philos
 
 ## Notes（原文脚注）
 
-## Notes to Platonism in Metaphysics
-
 [^note-1]: Dodd (2007) and Friedell (2020) argue for this view; Juvshik (2018) argues against it.
 
 [^note-2]: The view that properties are tropes goes back at least to William of Ockham, and you might reasonably think that Locke, Berkeley, and Hume endorse this view. More recently, the view has been endorsed more recently by Stout (1921), Williams (1953a,b), Campbell (1990), and Moltmann (2013b).

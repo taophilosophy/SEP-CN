@@ -208,8 +208,6 @@ analytic/synthetic distinction | *a priori* justification and knowledge | imposs
 
 ## Notes（原文脚注）
 
-## Notes to Varieties of Modality
-
 [^note-1]: Philosophers who believe that it is impossible for an agent to have no empirical evidence whatsoever need to tweak the foregoing definitions. Instead of beginning with an agent-relative notion of epistemic necessity, they can start by defining a concept of epistemic necessity that is relative to a set of empirical evidence, and can then define *a prioricity* by considering the limiting case where that set is empty.
 
 [^note-2]: According to this definition, every proposition that is not *a priori* is *a posteriori*. The definition does not entail that every *a posteriori* proposition is decidable on the basis of empirical evidence. For some *a posteriori* propositions, it may simply be unknowable whether they are true.

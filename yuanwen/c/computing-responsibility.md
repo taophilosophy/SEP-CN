@@ -196,8 +196,6 @@ This material is based upon work supported by the National Science Foundation un
 
 ## Notes（原文脚注）
 
-## Notes to Computing and Moral Responsibility
-
 [^note-1]: The term technological artifacts here refers to the (socially) constructed material or physical objects such as computers, cars and refrigerators, that human beings create and use to achieve a particular purpose or goal. This conception of technological artifacts is often used in social and historical studies to distinguish artifacts from natural objects and other socially constructed artifacts like regulatory laws (Hughes 1982; Bijker et al. 1987)[^bijker-1987]. For more on the concept of artifacts see the entry Artifacts.
 
 [^note-2]: According to Bijker et al. interpretive flexibility of technological artifacts means that “there is flexibility in how people think of, or interpret, artefacts” and “that there is flexibility in how artefacts are designed” (Bijker et al. 1995, p. 40). That is, different ‘relevant social groups’ have varying criteria for judging what makes a design superior or even workable, depending on, often competing, goals and interests, as well as on distinct ideas about what a particular artifact should do.

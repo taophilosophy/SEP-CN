@@ -463,8 +463,6 @@ I am grateful to Jennifer Lackey and Sandy Goldberg for some *very* helpful feed
 
 ## Notes（原文脚注）
 
-## Notes to Epistemological Problems of Testimony
-
 [^note-1]: See the entry on feminist social epistemology for an extended discussion of this debate.
 
 [^note-2]: The status of moral testimony, or testimony with moral content, has gained considerable attention in the recent literature. Authors working in this area tend to fall into one of two camps: *Pessimists* and *Optimists*. On the one hand, Pessimists argue that there is something problematic about relying on the say-so of others when it comes to moral issues, e.g., it is impossible to acquire moral knowledge via testimony, there something rationally unacceptable about relying on moral testimony, etc. On the other hand, Optimists argue that insofar as non-moral testimony is unproblematic, moral testimony is unproblematic too. See K. Jones (1999), Driver (2006), Nickel (2001), Cholbi (2007), Hopkins (2007), McGrath (2009, 2011), Hills (2009, 2013), Markovits (2012), Sliwa (2012), Crisp (2014), Enoch (2014), Groll and Decker (2014), Howell (2014), Wiland (2017), and McShane (2018a, 2018b, forthcoming) for more on the different versions of Pessimism and Optimism about moral testimony, as well as related issues pertaining to moral expertise and morally worthy action.

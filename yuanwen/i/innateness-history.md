@@ -121,8 +121,6 @@ concepts | Descartes, René | Descartes, René: epistemology | Descartes, René:
 
 ## Notes（原文脚注）
 
-## Notes to The Historical Controversies Surrounding Innateness
-
 [^note-1]: Kirk & Raven (1957), fragment 454, p. 343
 
 [^note-2]: Kirk & Raven (1957), fragment 538, p. 394

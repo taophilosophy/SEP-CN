@@ -266,8 +266,6 @@ Many thanks to Lieven Decock, Wim de Jong, Iris Loeb, Venanzio Raspa, Stefan Ros
 
 ## Notes（原文脚注）
 
-## Notes to Kazimierz Twardowski
-
 [^note-1]: The ELV-AKT project based at the IHPST Paris is a Franco-Polish cooperation involving among others digitalizations, editions and translations in XML/TEI of manuscripts of both Twardowski and the philosophers of his School which will be hosted on [elv-akt.net](http://www.elv-akt.net). The original manuscripts are located at the Library of the Institute of Philosophy and Sociology of the University of Warsaw and at the Polish Academy of Sciences (see Likus 2000)[^likus-2000]. Manuscripts recently edited are the German lectures *Logik 1894/5* (by Arianna Betti and Venanzio Raspa, see Twardowski 1894/5), and *Die Unsterblichkeitsfrage* (1895) (by Michał Sepioło, see Twardowski 1895). The first set of notes of Twardowski's lectures in logic in Polish given in Lvov is contained in *Logik 1895/6*. Of these notes there exist an unpublished draft edition and an English summary by Arianna Betti (Twardowski 1895/6). See bibliography of primary works below. See also the [operations](http://www.elv-akt.net/recherches/operations.php?ordre=titre&option=asc) on the ELV-AKT site.
 
 [^note-2]: On method as unifying factor among Twardowski's students, Dąmbska wrote:

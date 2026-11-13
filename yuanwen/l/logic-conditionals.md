@@ -775,8 +775,6 @@ We dedicate our work to the memory of Horacio Arló-Costa. We are grateful to Vi
 
 ## Notes（原文脚注）
 
-## Notes to The Logic of Conditionals
-
 [^note-1]: See for example Chemla, Égré, and Spector (2017) for a proof that order-theoretic validity in $n$-valued logic (i.e. $A$ follows from $\Gamma$ provided $A$ is designated when all the $\Gamma$s are designated, for all upsets of designated truth values) is not definable in terms of the preservation of a fixed designated set of truth values when $n>2$.
 
 [^note-2]: See the comments on **NP** by Lehmann and Magidor (1992: 23–24) and Arló-Costa and Shapiro (1992). D. Lewis (1973) rejects the Limit Assumption, but his principal truth condition is formulated in terms of systems of spheres, not in terms of selection functions or minimal models. Thus his logic satisfies CMon, as can be proved it from his axiom system R1–R3 and A1–A5 (Lewis 1973: 132)[^lewis-1973].

@@ -297,8 +297,6 @@ game theory: and ethics | game theory: evolutionary | Hobbes, Thomas: moral and 
 
 ## Notes（原文脚注）
 
-## Notes to The Free Rider Problem
-
 [^note-1]: Using this classification, a battle-of-the-sexes problem presents a collective action problem but not a coordination problem, because it does not satisfy the last clause.
 
 [^note-2]: This is a revised and slightly amplified version of the list discussed (with sources for the labels) in the appendix to Cullity 1995.

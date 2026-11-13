@@ -208,8 +208,6 @@ Jackie Leach Scully would like to extend gratitude and remembrance to Anne Donch
 
 ## Notes（原文脚注）
 
-## Notes to Feminist Bioethics
-
 [^note-1]: In this entry “ethics of care” refers to the overarching ethical theory, and “care ethics” to indicate the normative frameworks of particular practices of care.
 
 [^several-2017]: Several recent handbooks or encyclopedias of bioethics or feminist philosophy have contained chapters on feminist bioethics. These include the entry by Wendy Rogers in the *Routledge Companion to Feminist Philosophy* (edited by Ann Garry, Serene J. Khader, and Alison Stone, 2017) and the chapter by Jackie Leach Scully in the *Oxford Handbook of Feminist Philosophy* (2021, edited by Kim Q. Hall and Ásta). The first Handbook dedicated to feminist bioethics, *The Routledge Handbook of Feminist Bioethics*, edited by Wendy Rogers, Jackie Leach Scully, Stacy Carter, Catherine Mills and Vikki Entwistle, was published in 2022.

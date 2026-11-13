@@ -387,8 +387,6 @@ Many thanks to Erica Moretti, Laura Di Paolo, Emma Perrone, Joke Verheul, and Kr
 
 ## Notes（原文脚注）
 
-## Notes to Maria Montessori
-
 [^note-1]: Hereafter, references to *The Montessori Series* (24 volumes, Montessori-Pierson Publishing, published starting in 2007), will simply refer to the volume and page number in that series. If necessary to avoid confusion, the abbreviation, MS, might prefix this.
 
 [^note-2]: The term “normal” here distinguishes this pedagogy from the medicalized approach to children she had engaged in as co-director of the orthophrenic school.

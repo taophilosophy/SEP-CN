@@ -507,8 +507,6 @@ The author would like to thank Alfred J. Freddoso for his help with Section 6.2.
 
 ## Notes（原文脚注）
 
-## Notes to Antoine Arnauld
-
 [^note-1]: Phillipe Sellier has said that this translation is “a literary and religious monument not unworthy of comparison with Luther’s Bible in Germany and the King James version in England” (*La Bible*, ed. Philippe Sellier, p. xi).
 
 [^note-2]: He adds an important qualification: “I say, *principally*, because nothing prevents one from using authorities in philosophical questions as well, if they are used for illustration rather than to decide the questions” (*OA*, 40:153).

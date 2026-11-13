@@ -984,8 +984,6 @@ I would like to thank Edward Zalta and Uri Nodelman for their advice, encouragem
 
 ## Notes（原文脚注）
 
-## Notes to Non-wellfounded Set Theory
-
 [^note-1]: The interesting feature of the Thue-Morse sequence is that is has no three-in-a-row repeats: for every finite non-empty sequence *w* of 0s and 1s, the infinite sequence *t* does not contain *www* anywhere.
 
 [^note-2]: The main move in the theory of hypersets studied in this entry is to keep the standard modeling of pairs but to change the underlying set theory. Formulating matters this way suggests that it might be possible to keep the Foundation Axiom but alter the treatment of pairs. This point is made by Forster (1994) and Paulson (1999). We discuss this point further at the end of Section 4.5.

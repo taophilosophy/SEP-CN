@@ -307,8 +307,6 @@ Thanks to Philip Ebert, Leon Horsten, James Ladyman, Hannes Leitgeb, David Liggi
 
 ## Notes（原文脚注）
 
-## Notes to Platonism in the Philosophy of Mathematics
-
 [^note-1]: Does platonism directly *contradict* physicalism? The answer will depend on how physicalism is defined. If physicalism is defined as the view that everything supervenes on the physical, and if all mathematical truths are necessary, then the two views will be formally consistent. For assuming S5, any two worlds are alike with respect to necessary truths. Thus *a fortiori*, any two worlds that are alike with respect to physical truths are also alike with respect to mathematical truths. But this is a standard definition of the claim that mathematical truths supervene on the physical. If on the other hand physicalism is defined as the view that all entities are composed of, or constituted by, fundamental physical entities, then the two views will contradict each other. (See the entry on physicalism.)
 
 [^note-2]: For instance, there is wide-spread agreement among mathematicians about the guiding problems of their field and about the kinds of methods that are permissible when attempting to solve these problems. Moreover, using these methods, mathematicians have made, and continue to make, great progress towards solving these guiding problems.

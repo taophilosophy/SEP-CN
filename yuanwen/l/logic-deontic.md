@@ -849,8 +849,6 @@ Various people have helped with this and prior renditions. We thank Ruth Barcan 
 
 ## Notes（原文脚注）
 
-## Notes to Deontic Logic
-
 [^note-1]: The term “*deontic* logic” appears to have arisen in English as the result of C. D. Broad’s suggestion to von Wright (von Wright 1951a)[^wright-1951a]; Mally used “Deontik” earlier to describe his work (Mally 1926)[^mally-1926]. Both terms derive from the Greek term, δεον, for “that which is binding”, and ικ, a common Greek adjective-forming suffix for “after the manner of”, “of the nature of”, “pertaining to”, “of”, thus suggesting roughly the idea of a logic of duty. (The intervening “τ” in “δεοντικ” is inserted for phonetic reasons.)
 
 [^note-2]: To be sure, some of these notions (e.g., “ought”) have received more attention in deontic logic than others. However, virtually everyone working in this area would see logical systems designed to model the logical contributions of these notions as part of deontic logic proper.

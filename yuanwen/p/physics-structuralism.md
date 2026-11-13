@@ -243,8 +243,6 @@ The author is indebted to John D. Norton, Edward N. Zalta, and Susanne Z. Riehem
 
 ## Notes（原文脚注）
 
-## Notes to Structuralism in Physics
-
 [^note-1]: Einstein’s resolution of this conundrum is celebrated. He took the practical indistinguishability to betoken a deeper identity and, in his Principle of Equivalence, asserted that the two cases are the same. In effect acceleration produces a gravitational field. The theoretical underdetermination is eliminated by declaring that the inertial force $-m\ba$ is really a gravitational force after all. The two $T$-theoretical terms are really just the same; and an inertial system with a homogeneous gravitational field just is the same thing as a uniformly accelerated system without a gravitational field.
 
 [^this-1994]: This bibliography is mainly restricted to a selection of a few books which are of some importance for the three structuralistic programs. An extended ‘Bibliography of Structuralism’ connected to Sneed’s program appeared in *Erkenntnis*, Volume 44 (1994). Another recent volume of *Erkenntnis* (79(8), 2014) is devoted to new perspectives on structuralism. We will cite below a few articles of this volume and other articles that are of relevance for the present entry. Unfortunately, the central books of Ludwig (1978) and Scheibe (1997, 1999) are not yet translated into English, but see Ludwig and Thurler (2006). For an introduction into the respective theories, English readers could consult chapter XIII of Ludwig (1987) and chapter V of Scheibe (2001).

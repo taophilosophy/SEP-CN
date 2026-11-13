@@ -480,8 +480,6 @@ al-Farabi | Arabic and Islamic Philosophy, special topics in: essence and existe
 
 ## Notes（原文脚注）
 
-## Notes to Umar Khayyam
-
 [^note-1]: While the exact date of his birth is not known, Swami Govinda Tirtha mentions 439 AH, while Tabrizī in his *Tarabkhānah* mentions 455 AH as the likely date. Most scholars seem to accept the 439 AH as the probable date. See Tirtha (1941).
 
 [^note-2]: Some have suggested his death took place before 515 AH/1124 CE, but most contemporary scholars seem to think that 517 AH/1126 CE is a more likely date. For more information on his place of birth, see: Bayhaqī (1932/1351 AH), 116–7.

@@ -372,8 +372,6 @@ The first author takes responsibility for the text of this entry but couldn’t 
 
 ## Notes（原文脚注）
 
-## Notes to al-Farabi’s Philosophy of Logic and Language
-
 [^note-1]: See Gutas 1983. Gutas finds a less edited version inside Ibn Miskawayh’s book *Tartīb*; Miskawayh’s version is available in Arabic and in a Hungarian translation by Maróth. For the influence of the Alexandrian school on al-Fārābī more generally, see Vallat 2004.
 
 [^note-2]: This was a misunderstanding. The *Organon* was assembled after Aristotle’s death by editors of his writings; see Gottschalk 1990. The version that survived in the West lacked *Rhetoric* and *Poetics.*

@@ -239,8 +239,6 @@ Dharmakīrti | Indian Philosophy (Classical): epistemology | Indian Philosophy (
 
 ## Notes（原文脚注）
 
-## Notes to Ratnakīrti
-
 [^note-1]: See Thakur 1975a: 14, Mimaki 1992, and Ruegg 1981: 110 for some notes on Ratnakīrti’s life.
 
 [^note-2]: These dialectics constitute what is often called a commentarial tradition. See McCrea and Patil 2006: 303–305 for a characterisation of such a commentarial tradition. In a similar vein, McClintock 2010: 91–95 emphasises the balance that Buddhist authors had to maintain between tradition and innovation. The forces driving the development of the theories are difficult to assess due to the lack of historical information. An influential assessment of Buddhist philosophers as authors primarily motivated by the defense of core Buddhist beliefs is found in Eltschinger 2014, the first chapter of which

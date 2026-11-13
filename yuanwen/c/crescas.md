@@ -214,8 +214,6 @@ Section 2 on the life of Hasdai Crescas is based on Harvey (2010).
 
 ## Notes（原文脚注）
 
-## Notes to Hasdai Crescas
-
 [^note-1]: On the situation of the Jewish community of Spain during his period, see Baer 1992 and Ben Shalom 2012.
 
 [^note-2]: On the utilization of scholastic sources by Rabbi Nissim of Gerondi see Harvey 1992.

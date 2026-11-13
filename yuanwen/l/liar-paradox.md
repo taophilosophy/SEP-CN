@@ -551,8 +551,6 @@ The authors would like to thank the referee for helpful comments.
 
 ## Notes（原文脚注）
 
-## Notes to Liar Paradox
-
 [^note-1]: Thus, a paradox nearly occurs in the New Testament. For a delightful discussion, see Anderson (1970). For a more thorough discussion of the history of the Liar, see Sorensen (2003). There has been some important recent work on medieval theories of the Liar, and their relevance to current approaches. See the papers in Rahman, Tulenheimo, and Genot (2008), and, for instance, Read (2002, 2006); Restall (2008); and Simmons (1993).
 
 [^note-2]: Terminology here is not uniform. Van Fraassen (1968) introduced the term ‘strengthened Liar’ to name what we are calling the simple-untruth Liar. Van Fraassen’s term, however, has been more often used for a ‘revenge-like’ paradox in the manner of C. Parsons (1974), as we discuss in §4.1.3.

@@ -285,8 +285,6 @@ dialetheism | epistemic paradoxes | epistemic utility arguments for epistemic no
 
 ## Notes（原文脚注）
 
-## Notes to The Normative Status of Logic
-
 [^note-1]: To be clear: an argument is valid just in case its conclusion is a logical consequence of its premises.
 
 [^note-2]: But even if an account of the normative status of logic does not aim to pin down the correct consequence relation, it may still play an important role in settling disputes between advocates of different logics. For instance, Steinberger (2016), following the lead of Fitelson (2008), Harman (1986) and MacFarlane (MF2004), argues that an influential argument for paraconsistent logic is unsuccessful because it relies on a philosophically untenable conception of the normative role of logic in reasoning.

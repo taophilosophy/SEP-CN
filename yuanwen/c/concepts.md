@@ -231,8 +231,6 @@ abilities | animal: cognition | belief | cognition: embodied | connectionism | F
 
 ## Notes（原文脚注）
 
-## Notes to Concepts
-
 [^note-1]: In an earlier version of this entry, we cited Millikan (2000) as an example of the abilities view of concepts. But since Millikan thinks of concepts as abilities to produce and use representations, it is perhaps best to consider her a proponent of the mental representation view regarding ontology.
 
 [^adams-1999]: Adams, F. & Campbell, K. (1999). Modality and Abstract Concepts. *Behavioral and Brain Sciences*, 22: 610.

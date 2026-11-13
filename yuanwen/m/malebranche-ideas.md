@@ -250,8 +250,6 @@ Descartes, René | Desgabets, Robert | Le Grand, Antoine | Leibniz, Gottfried Wi
 
 ## Notes（原文脚注）
 
-## Notes to Malebranche’s Theory of Ideas and Vision in God
-
 [^note-1]: Incidentally, Malebranche belongs to a tradition even older than Augustine and Aquinas which finds philosophical significance in claims made about the Word in the prologue to St. John's Gospel: the Word is not just the second person of the Trinity but the divine Logos which has links with the Stoic philosophical tradition, which includes such thinkers as Philo of Alexandria.
 
 [^arnauld-1990]: Arnauld, A., *On True and False Ideas*, E. J. Kremer (trans.), Lewiston: The Edwin Mellen Press, 1990.

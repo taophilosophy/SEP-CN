@@ -371,8 +371,6 @@ adaptationism | biology: philosophy of | developmental biology | developmental b
 
 ## Notes（原文脚注）
 
-## Notes to Phylogenetic Inference
-
 [^note-1]: Conventionally, phylogenetic trees are often oriented with time passing from left to right or bottom to top, with many exceptions. The oldest part of a tree is called the “root”, with branches and nodes describing the genealogical path to “terminal taxa” at the tree’s tips. In figure 1 the terminal taxa are extant groups, though they need not be. Likewise, in figure 1 the branch lengths represent the amount of molecular evolution along the branch, whereas on other trees, branch lengths could represent time or other units, or, in many cases, not be biologically meaningful at all.
 
 [^note-2]: Systematics is the study of biological diversity and its origins, and generally encompasses biological classification, nomenclature, and taxonomy.

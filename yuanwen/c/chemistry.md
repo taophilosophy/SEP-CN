@@ -487,8 +487,6 @@ The authors would like to thank Brad Berman, Mark Goodwin, Roald Hoffmann, Deena
 
 ## Notes（原文脚注）
 
-## Notes to Philosophy of Chemistry
-
 [^note-1]: *DG* abbreviates *De Generatione et Corruptione*. All quotations from Aristotle are from *The Complete Works* (ed. Barnes) unless otherwise indicated.
 
 [^note-2]: This can be confusing for modern readers with some knowledge of chemistry in view of the distinction commonly drawn between compounds and solutions, both of which may well be homogeneous. But in deference to philosophical tradition we follow this usage here conscious that Aristotle recognized no such distinction.

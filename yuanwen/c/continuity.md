@@ -614,8 +614,6 @@ For a comprehensive account of the evolution of the concepts of continuity and t
 
 ## Notes（原文脚注）
 
-## Notes to Continuity and Infinitesimals
-
 [^note-1]: The word “continuous” derives from the Latin *continēre* meaning “to hang together” or “to cohere”; this same root gives us the nouns “continent”—an expanse of land unbroken by sea—and “continence”—self-restraint in the sense of “holding oneself together”. Synonyms for “continuous” include: connected, entire, unbroken, uninterrupted.
 
 [^note-2]: The word “discrete” derives from a Latin *discernere* meaning “to separate”. This same root yields the verb “discern”—to recognize as distinct or separate—and the cognate “discreet”—to show discernment, hence “well-behaved”. It is a curious fact that, while “continuity” and “discreteness” are antonyms, “continence” and “discreetness” are synonyms. Synonyms for “discrete” include separate, distinct, detached, disjunct.

@@ -604,8 +604,6 @@ I am grateful to Dirk van Dalen and Göran Sundholm for discussions of some of t
 
 ## Notes（原文脚注）
 
-## Notes to The Development of Intuitionistic Logic
-
 [^note-1]: The *locus classicus* here is Tarski 1953. A recent treatment of formalized interpretability is Joosten 2004.
 
 [^note-2]: One will want to impose various (structural) constraints on the interpretation, to avoid trivial ones that map for example all formulas of U to an axiom of V.
@@ -614,7 +612,7 @@ I am grateful to Dirk van Dalen and Göran Sundholm for discussions of some of t
 
 [^note-4]: This is subjective time (one may think here of Husserl’s notion of inner time consciousness) rather than objective or scientific time (time as it figures in physics and that one measures with a clock); the latter, according to Brouwer, presupposes mathematics (Brouwer 1907: 99n.2 [1975: 61n.2])[^brouwer-1907].
 
-[^note-5]: The *Collected Works* have “Formal language accompanies mathematics as the weather-map accompanies the atmospheric processes” instead (Brouwer 1975: 451)[^brouwer-1975][^brouwer-1975-2][^brouwer-1975-3], but that translation was based on the book version of the so-called signific dialogues (Brouwer et al. 1939)[^brouwer-1939], not on the original publication in the journal *Synthese* (Brouwer et al. 1937)[^brouwer-1937]. The book was edited by Mannoury, but it is not clear who changed the simile. To my mind, the original is better, because a symphony is also a construction.
+[^note-5]: The *Collected Works* have “Formal language accompanies mathematics as the weather-map accompanies the atmospheric processes” instead (Brouwer 1975: 451)[^brouwer-1975], but that translation was based on the book version of the so-called signific dialogues (Brouwer et al. 1939)[^brouwer-1939], not on the original publication in the journal *Synthese* (Brouwer et al. 1937)[^brouwer-1937]. The book was edited by Mannoury, but it is not clear who changed the simile. To my mind, the original is better, because a symphony is also a construction.
 
 [^note-6]: See Brouwer 1924N: 2 [van Heijenoort 1967: 336][^heijenoort-1967]; 1929A: 423–424 [Mancosu 1998: 49–50][^mancosu-1998]; 1949C: 492; 1952B: 510–511.
 
@@ -758,61 +756,61 @@ Note that Gödel did not take this earlier opportunity to announce his translati
 
 [^brouwer-1907]: Brouwer, L.E.J., 1907, *Over de Grondslagen der Wiskunde* (On the Foundations of Mathematics), Ph.D. thesis, Universiteit van Amsterdam. English translation in Brouwer 1975: 11–101.
 
-[^brouwer-2017]: –––, 1908C, “De onbetrouwbaarheid der logische principes” (The Unreliability of the Logical Principles), *Tijdschrift voor Wijsbegeerte*, 2: 152–158. English translation in Van Atten and Sundholm 2017. An older English translation is in Brouwer 1975: 107–111. doi:10.1016/B978-0-7204-2076-0.50009-X
+[^brouwer-1908c]: –––, 1908C, “De onbetrouwbaarheid der logische principes” (The Unreliability of the Logical Principles), *Tijdschrift voor Wijsbegeerte*, 2: 152–158. English translation in Van Atten and Sundholm 2017. An older English translation is in Brouwer 1975: 107–111. doi:10.1016/B978-0-7204-2076-0.50009-X
 
-[^brouwer-1975]: –––, 1918B, “Begründung der Mengenlehre unabhängig vom logischen Satz vom ausgeschlossenen Dritten. Erster Teil, Allgemeine Mengenlehre”, *KNAW Verhandelingen*, 5: 1–43. Also in Brouwer 1975: 150–190 (in German). doi:10.1016/B978-0-7204-2076-0.50015-5
+[^brouwer-1918b]: –––, 1918B, “Begründung der Mengenlehre unabhängig vom logischen Satz vom ausgeschlossenen Dritten. Erster Teil, Allgemeine Mengenlehre”, *KNAW Verhandelingen*, 5: 1–43. Also in Brouwer 1975: 150–190 (in German). doi:10.1016/B978-0-7204-2076-0.50015-5
 
-[^brouwer-1975-2]: –––, 1919A, “Begründung der Mengenlehre unabhängig vom logischen Satz vom ausgeschlossenen Dritten. Zweiter Teil, Theorie der Punktmengen”, *KNAW Verhandelingen*, 7: 1–33. Also in Brouwer 1975: 191–221 (in German). doi:10.1016/B978-0-7204-2076-0.50016-7
+[^brouwer-1919a]: –––, 1919A, “Begründung der Mengenlehre unabhängig vom logischen Satz vom ausgeschlossenen Dritten. Zweiter Teil, Theorie der Punktmengen”, *KNAW Verhandelingen*, 7: 1–33. Also in Brouwer 1975: 191–221 (in German). doi:10.1016/B978-0-7204-2076-0.50016-7
 
-[^brouwer-1998]: –––, 1919D, “Intuitionistische Mengenlehre”, *Jahresbericht D.M.V.*, 28: 203–208. English translation in Mancosu 1998: 23–27.
+[^brouwer-1919d]: –––, 1919D, “Intuitionistische Mengenlehre”, *Jahresbericht D.M.V.*, 28: 203–208. English translation in Mancosu 1998: 23–27.
 
-[^brouwer-1998-2]: –––, 1921A, “Besitzt jede reelle Zahl eine Dezimalbruchentwicklung?”, *Mathematische Annalen*, 83(3–4): 201–210. English translation in Mancosu 1998: 28–35. doi:10.1007/BF01458382
+[^brouwer-1921a]: –––, 1921A, “Besitzt jede reelle Zahl eine Dezimalbruchentwicklung?”, *Mathematische Annalen*, 83(3–4): 201–210. English translation in Mancosu 1998: 28–35. doi:10.1007/BF01458382
 
-[^brouwer-1998-3]: –––, 1924D1, “Bewijs dat iedere volle functie gelijkmatig continu is”, *KNAW verslagen*, 33: 189–193. English translation in Mancosu 1998: 36–39.
+[^brouwer-1998]: –––, 1924D1, “Bewijs dat iedere volle functie gelijkmatig continu is”, *KNAW verslagen*, 33: 189–193. English translation in Mancosu 1998: 36–39.
 
 [^brouwer-1967]: –––, 1924N, “Über die Bedeutung des Satzes vom ausgeschlossenen Dritten in der Mathematik, insbesondere in der Funktionentheorie”, *Journal für die reine und angewandte Mathematik*, 154: 1–7. English translation in van Heijenoort 1967: 335–341.
 
-[^brouwer-1998-4]: –––, 1925E, “Intuitionistische Zerlegung mathematischer Grundbegriffe”, *Jahresbericht D.M.V.*, 33: 251–256. English translation in Mancosu 1998: 287–289 (sections 2–4), 290–292 (section 1).
+[^brouwer-1925e]: –––, 1925E, “Intuitionistische Zerlegung mathematischer Grundbegriffe”, *Jahresbericht D.M.V.*, 33: 251–256. English translation in Mancosu 1998: 287–289 (sections 2–4), 290–292 (section 1).
 
-[^brouwer-nd]: –––, 1926A, “Zur Begründung der intuitionistischen Mathematik, II”, *Mathematische Annalen*, 95: 453–472. doi:10.1007/BF01206621
+[^brouwer-1926a]: –––, 1926A, “Zur Begründung der intuitionistischen Mathematik, II”, *Mathematische Annalen*, 95: 453–472. doi:10.1007/BF01206621
 
-[^brouwer-nd-2]: –––, 1926B2, “Intuitionistische Einführung des Dimensionsbegriffes”, *Proceedings Koninklijke Akademie van Wetenschappen Amsterdam*, 29: 855–873.
+[^brouwer-nd]: –––, 1926B2, “Intuitionistische Einführung des Dimensionsbegriffes”, *Proceedings Koninklijke Akademie van Wetenschappen Amsterdam*, 29: 855–873.
 
-[^brouwer-1967-2]: –––, 1927B, “Über Definitionsbereiche von Funktionen”, *Mathematische Annalen*, 97: 60–75. English translation of sections 1–3 in van Heijenoort 1967: 457–463. doi:10.1007/BF01447860
+[^brouwer-1927b]: –––, 1927B, “Über Definitionsbereiche von Funktionen”, *Mathematische Annalen*, 97: 60–75. English translation of sections 1–3 in van Heijenoort 1967: 457–463. doi:10.1007/BF01447860
 
-[^brouwer-1998-5]: –––, 1928A2, “Intuitionistische Betrachtungen über den Formalismus”, *Proceedings Koninklijke Akademie van Wetenschappen Amsterdam*, 31: 374–379. English translation in Mancosu 1998: 40–44. [[Brouwer 1928A2 available online](http://www.dwc.knaw.nl/DL/publications/PU00015590.pdf)]
+[^brouwer-1998-2]: –––, 1928A2, “Intuitionistische Betrachtungen über den Formalismus”, *Proceedings Koninklijke Akademie van Wetenschappen Amsterdam*, 31: 374–379. English translation in Mancosu 1998: 40–44. [[Brouwer 1928A2 available online](http://www.dwc.knaw.nl/DL/publications/PU00015590.pdf)]
 
-[^brouwer-1998-6]: –––, 1929A, “Mathematik, Wissenschaft und Sprache”, *Monatshefte für Mathematik und Physik*, 36: 153–164. English translation in Mancosu 1998: 45–53. doi:10.1007/BF02307611
+[^brouwer-1929a]: –––, 1929A, “Mathematik, Wissenschaft und Sprache”, *Monatshefte für Mathematik und Physik*, 36: 153–164. English translation in Mancosu 1998: 45–53. doi:10.1007/BF02307611
 
-[^brouwer-1998-7]: –––, 1930A, *Die Struktur des Kontinuums*, Wien: Komitee zur Veranstaltung von Gastvorträgen ausländischer Gelehrter der exakten Wissenschaften. English translation in Mancosu 1998: 54–63.
+[^brouwer-1930a]: –––, 1930A, *Die Struktur des Kontinuums*, Wien: Komitee zur Veranstaltung von Gastvorträgen ausländischer Gelehrter der exakten Wissenschaften. English translation in Mancosu 1998: 54–63.
 
 [^brouwer-1990]: –––, 1933A2, “Willen, weten, spreken” (Volition, Knowledge, Language), in *De Uitdrukkingswijze der Wetenschap*, L.E.J. Brouwer et al., Groningen: Noordhoff, 45–63. English translation in van Stigt 1990: 418–431. Partial English translation in Brouwer 1975: 443–446.
 
-[^brouwer-1942]: –––, 1942A, “Zum freien Werden von Mengen und Funktionen”, *Proceedings Nederlandse Akademie van Wetenschappen Amsterdam*, 45: 322–323. Also *Indagationes Mathematicae*, 4 (1942): 107–108.
+[^brouwer-1942a]: –––, 1942A, “Zum freien Werden von Mengen und Funktionen”, *Proceedings Nederlandse Akademie van Wetenschappen Amsterdam*, 45: 322–323. Also *Indagationes Mathematicae*, 4 (1942): 107–108.
 
-[^brouwer-1942-2]: –––, 1942B, “Die repräsentierende Menge der stetigen Funktionen des Einheitskontinuums”, *Proceedings Nederlandse Akademie van Wetenschappen Amsterdam*, 45: 443. Also *Indagationes Mathematicae*, 4 (1942): 154.
+[^brouwer-1942b]: –––, 1942B, “Die repräsentierende Menge der stetigen Funktionen des Einheitskontinuums”, *Proceedings Nederlandse Akademie van Wetenschappen Amsterdam*, 45: 443. Also *Indagationes Mathematicae*, 4 (1942): 154.
 
-[^brouwer-1948]: –––, 1948A, “Essentieel negatieve eigenschappen” (Essentially Negative Properties), *Proceedings Koninklijke Nederlandse Akademie van Wetenschappen Amsterdam*, 51: 963–964. Also *Indagationes Mathematicae*, 10 (1948): 322–323. English translation in Brouwer 1975: 478–479. doi:10.1016/B978-0-7204-2076-0.50053-2
+[^brouwer-1948a]: –––, 1948A, “Essentieel negatieve eigenschappen” (Essentially Negative Properties), *Proceedings Koninklijke Nederlandse Akademie van Wetenschappen Amsterdam*, 51: 963–964. Also *Indagationes Mathematicae*, 10 (1948): 322–323. English translation in Brouwer 1975: 478–479. doi:10.1016/B978-0-7204-2076-0.50053-2
 
-[^brouwer-1949]: –––, 1949A, “De non-aequivalentie van de constructieve en de negatieve orderelatie in het continuum” (The Non-Equivalence of the Constructive and the Negative Order Relation on the Continuum), *Proceedings Koninklijke Nederlandse Akademie van Wetenschappen Amsterdam*, 52:122–124. Also *Indagationes Mathematicae*, 11 (1949): 37–39. English translation in Brouwer 1975: 495–496. doi:10.1016/B978-0-7204-2076-0.50055-6
+[^brouwer-1949a]: –––, 1949A, “De non-aequivalentie van de constructieve en de negatieve orderelatie in het continuum” (The Non-Equivalence of the Constructive and the Negative Order Relation on the Continuum), *Proceedings Koninklijke Nederlandse Akademie van Wetenschappen Amsterdam*, 52:122–124. Also *Indagationes Mathematicae*, 11 (1949): 37–39. English translation in Brouwer 1975: 495–496. doi:10.1016/B978-0-7204-2076-0.50055-6
 
-[^brouwer-1949-2]: –––, 1949B, “Contradictoriteit der elementaire meetkunde” (Contradictority of Elementary Geometry), *Proceedings Koninklijke Nederlandse Akademie van Wetenschappen Amsterdam*, 52: 315–316. Also *Indagationes Mathematicae*, 11 (1949): 89–90. English translation in Brouwer 1975: 497–498. doi:10.1016/B978-0-7204-2076-0.50056-8
+[^brouwer-1949b]: –––, 1949B, “Contradictoriteit der elementaire meetkunde” (Contradictority of Elementary Geometry), *Proceedings Koninklijke Nederlandse Akademie van Wetenschappen Amsterdam*, 52: 315–316. Also *Indagationes Mathematicae*, 11 (1949): 89–90. English translation in Brouwer 1975: 497–498. doi:10.1016/B978-0-7204-2076-0.50056-8
 
-[^brouwer-1948-2]: –––, 1949C, “Consciousness, Philosophy and Mathematics”, *Proceedings of the 10th International Congress of Philosophy, Amsterdam 1948*, Amsterdam: North-Holland, 3: 1235–1249.
+[^brouwer-1949c]: –––, 1949C, “Consciousness, Philosophy and Mathematics”, *Proceedings of the 10th International Congress of Philosophy, Amsterdam 1948*, Amsterdam: North-Holland, 3: 1235–1249.
 
-[^brouwer-nd-3]: –––, 1952B, “Historical Background, Principles and Methods of Intuitionism”, *South African Journal of Science*, 49: 139–146.
+[^brouwer-1952b]: –––, 1952B, “Historical Background, Principles and Methods of Intuitionism”, *South African Journal of Science*, 49: 139–146.
 
-[^brouwer-1954]: –––, 1954A, “Points and Spaces”, *Canadian Journal of Mathematics*, 6: 1–17. doi:10.4153/CJM-1954-001-9
+[^brouwer-1954a]: –––, 1954A, “Points and Spaces”, *Canadian Journal of Mathematics*, 6: 1–17. doi:10.4153/CJM-1954-001-9
 
-[^brouwer-1954-2]: –––, 1954F, “An Example of Contradictority in Classical Theory of Functions”, *Proceedings Koninklijke Nederlandse Akademie van Wetenschappen Amsterdam*, 57: 204–205. Also *Indagationes Mathematicae*, 16 (1954): 204–205. doi:10.1016/S1385-7258(54)50030-2
+[^brouwer-1954]: –––, 1954F, “An Example of Contradictority in Classical Theory of Functions”, *Proceedings Koninklijke Nederlandse Akademie van Wetenschappen Amsterdam*, 57: 204–205. Also *Indagationes Mathematicae*, 16 (1954): 204–205. doi:10.1016/S1385-7258(54)50030-2
 
 [^brouwer-1955]: –––, 1955, “The Effect of Intuitionism on Classical Algebra of Logic”, *Proceedings of the Royal Irish Academy*, 57: 113–116.
 
-[^brouwer-1975-3]: –––, 1975, *Collected Works. I: Philosophy and Foundations of Mathematics*, Arend Heyting (ed.), Amsterdam: North-Holland.
+[^brouwer-1975]: –––, 1975, *Collected Works. I: Philosophy and Foundations of Mathematics*, Arend Heyting (ed.), Amsterdam: North-Holland.
 
 [^brouwer-1977]: –––, 1977, *Collected Works. II: Geometry, Analysis, Topology and Mechanics*, H. Freudenthal (ed.), Amsterdam: North-Holland.
 
-[^brouwer-nd-4]: –––, 1981A, *Brouwer’s Cambridge Lectures on Intuitionism*, Cambridge: Cambridge University Press.
+[^brouwer-1981a]: –––, 1981A, *Brouwer’s Cambridge Lectures on Intuitionism*, Cambridge: Cambridge University Press.
 
 [^brouwer-1937]: Brouwer, L.E.J., Fred. van Eeden, J. van Ginneken, and S.J.G. Mannoury, 1937, “Signifiese dialogen”, *Synthese*, 2: 168–174, 261–268, 316–324. doi:10.1007/BF00880415 doi:10.1007/BF00880431 doi:10.1007/BF00880440
 
@@ -990,17 +988,17 @@ Note that Gödel did not take this earlier opportunity to announce his translati
 
 [^heyting-1930]: –––, 1930, “Die formalen Regeln der intuitionistischen Logik I”, *Sitzungsberichte der Preussischen Akademie der Wissenschaften*, 42–56. English translation in Mancosu 1998: 311–327.
 
-[^heyting-nd]: –––, 1930A, “Die formalen Regeln der intuitionistischen Logik II”, *Sitzungsberichte der Preussischen Akademie der Wissenschaften*, 57–71.
+[^heyting-1930a]: –––, 1930A, “Die formalen Regeln der intuitionistischen Logik II”, *Sitzungsberichte der Preussischen Akademie der Wissenschaften*, 57–71.
 
-[^heyting-nd-2]: –––, 1930B, “Die formalen Regeln der intuitionistischen Logik III”, *Sitzungsberichte der Preussischen Akademie der Wissenschaften*, 158–169.
+[^heyting-1930b]: –––, 1930B, “Die formalen Regeln der intuitionistischen Logik III”, *Sitzungsberichte der Preussischen Akademie der Wissenschaften*, 158–169.
 
-[^heyting-1998]: –––, 1930C, “Sur la logique intuitionniste”, *Académie Royale de Belgique, Bulletin de la Classe des Sciences*, 16: 957–963. English translation in Mancosu 1998: 306–310.
+[^heyting-1930c]: –––, 1930C, “Sur la logique intuitionniste”, *Académie Royale de Belgique, Bulletin de la Classe des Sciences*, 16: 957–963. English translation in Mancosu 1998: 306–310.
 
 [^heyting-1931]: –––, 1931, “Die intuitionistische Grundlegung der Mathematik” (The Intuitionist Foundations of Mathematics), *Erkenntnis*, 2: 106–115. English translation in Benacerraf & Putnam 1983: 52–61. doi:10.1017/CBO9781139171519.003 and doi:10.1007/BF02028143
 
 [^heyting-1932]: –––, 1932, “A propos d’un article de MM. Barzin et Errera”, *Enseignement Mathématique*, 31: 121–122.
 
-[^heyting-1932-2]: –––, 1932C, “Anwendung der intuitionistischen Logik auf die Definition der Vollständigkeit eines Kalküls”, in *Verhandlungen des Internationalen Mathematikerkongresses Zürich 1932*, W. Saxer (ed.), Zürich: Orell Füssli, vol. 2, 344–345.
+[^heyting-1932c]: –––, 1932C, “Anwendung der intuitionistischen Logik auf die Definition der Vollständigkeit eines Kalküls”, in *Verhandlungen des Internationalen Mathematikerkongresses Zürich 1932*, W. Saxer (ed.), Zürich: Orell Füssli, vol. 2, 344–345.
 
 [^heyting-1934]: –––, 1934, *Mathematische Grundlagenforschung, Intuitionismus, Beweistheorie*, Berlin: Springer.
 
@@ -1012,11 +1010,11 @@ Note that Gödel did not take this earlier opportunity to announce his translati
 
 [^heyting-1956]: –––, 1956, *Intuitionism, an Introduction*, Amsterdam: North–Holland.
 
-[^heyting-1746]: –––, 1958A, “Blick von der intuitionistischen Warte”, *Dialectica*, 12(3–4): 332–345. doi:10.1111/j.1746-8361.1958.tb01468.x
+[^heyting-1958a]: –––, 1958A, “Blick von der intuitionistischen Warte”, *Dialectica*, 12(3–4): 332–345. doi:10.1111/j.1746-8361.1958.tb01468.x
 
-[^heyting-nd-3]: –––, 1958C, “Intuitionism in Mathematics”, in *La philosophie au milieu du vingtième siècle*, Raymond Klibansky (ed.), Firenze: La nuova Italia, vol. 1, 101–115.
+[^heyting-1958c]: –––, 1958C, “Intuitionism in Mathematics”, in *La philosophie au milieu du vingtième siècle*, Raymond Klibansky (ed.), Firenze: La nuova Italia, vol. 1, 101–115.
 
-[^heyting-nd-4]: –––, 1968A, “L.E.J. Brouwer”, in *Logic and Foundations of Mathematics*, (Contemporary Philosophy. A Survey, Vol.1), Raymond Klibansky (ed.), Firenze: La Nuova Italia editrice, 308–315.
+[^heyting-1968a]: –––, 1968A, “L.E.J. Brouwer”, in *Logic and Foundations of Mathematics*, (Contemporary Philosophy. A Survey, Vol.1), Raymond Klibansky (ed.), Firenze: La Nuova Italia editrice, 308–315.
 
 [^heyting-1974]: –––, 1974, “Intuitionistic views on the nature of mathematics”, *Synthese*, 27(1–2): 79–91. doi:10.1007/BF00660890
 

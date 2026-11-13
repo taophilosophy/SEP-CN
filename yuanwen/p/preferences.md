@@ -495,8 +495,6 @@ behaviorism | decision theory | economics: philosophy of | economics [normative]
 
 ## Notes（原文脚注）
 
-## Notes to Preferences
-
 [^note-1]: Bundles of goods are represented as vectors, where each position in the vector represents a specific good, and the scalar at that position denotes the number of units of that good. For convenience, economists often operate in two-goods worlds, where one good—the *numeraire*—stands for all the other goods (money is the most common numeraire). The countability of such bundles allows formulating two important preference properties.
 
 Preferences are *monotone* if larger bundles are always preferred to smaller bundles of the same goods, i.e. if $A=\langle a_1,\ldots,a_n\rangle$ is preference ranked and there is a bundle $B=\langle b_1,\ldots,b_n \rangle$ such that for at least one $i$: $a_i\gt b_i$ and for all other $j$: $a_j\ge b_j$, then $A\succ B$.

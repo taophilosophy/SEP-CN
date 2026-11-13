@@ -259,8 +259,6 @@ Anderson, John | Bradley, Francis Herbert | Collingwood, Robin George | emergent
 
 ## Notes（原文脚注）
 
-## Notes to Samuel Alexander
-
 [^note-1]: The first phrase reads, “He erred with Spinoza”. Muirhead’s alternative reads, “Even if Spinoza philosophised otherwise”. My translation.
 
 [^note-2]: In a letter to Broad dated 4 August 1920, Alexander discusses his claim that space and time are the same thing considered from two sides. Afterwards, Alexander adds, “The fact is I have an obstinate belief that the proposition is true, but I also think it more than possible I have slipped in the proof”. Held at John Rylands Library, reference ALEX/A/1/1/37/2.

@@ -363,8 +363,6 @@ For helpful suggestions, we are grateful to Mark Alfano, C. Daniel Batson, Willi
 
 ## Notes（原文脚注）
 
-## Notes to Empirical Approaches to Altruism
-
 [^note-1]: A note on terminology. In this entry the terms “egoism” and “altruism” are used for descriptive views about the nature of human motivation. Other authors prefer to call these views “psychological egoism” and “psychological altruism” to distinguish them from “ethical egoism” and “ethical altruism,” which are *prescriptive* views about how people should behave.
 
 [^note-2]: Interpretation of historical texts is, of course, often less than straightforward. While there are passages in the works of each of these philosophers that can be interpreted as advocating psychological egoism, scholars might debate whether these passages reflect the author's considered option.

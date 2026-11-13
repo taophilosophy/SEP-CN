@@ -355,8 +355,6 @@ anarchism | ethics: deontological | justice: distributive | libertarianism | Raw
 
 ## Notes（原文脚注）
 
-## Notes to Robert Nozick’s Political Philosophy
-
 [^note-1]: All citations just by page number in the text are to *Anarchy, State and Utopia*.
 
 [^note-2]: Three book-length and highly critical discussions of the Nozickean doctrine are Wolff 1991, Cohen 1995, and Hailwood 1996. Two equally sophisticated but more sympathetic treatments are Bader 2013 and Hunt 2015. Three important collections of essays are: Paul 1981, Schmidtz 2002, and Bader and Meadowcroft 2011. Mack 2002a and 2002b is a systematic critique of Cohen on Nozick. Also see Mack 2018: 41–55 and 76–92. For an interesting account of the composition of *ASU* see Bader forthcoming-b.

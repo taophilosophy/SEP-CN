@@ -295,8 +295,6 @@ Aristotle, General Topics: metaphysics | Châtelet, Émilie du | grounding, meta
 
 ## Notes（原文脚注）
 
-## Notes to Principle of Sufficient Reason
-
 [^note-1]: The common formulation of the Identity of Indiscernibles—$\forall F(Fx \leftrightarrow Fy) \rightarrow x=y$—seems to assume identity as such a default position. Thus, if both $x$ and $y$ were to have no properties at all, the above formulation of the Identity of Indiscernibles would deem them identical.
 
 [^note-2]: Yet, see Garber 2015 for a critique of the ascription of the Principle to Spinoza, and Della Rocca 2015 for a defense of such ascription.

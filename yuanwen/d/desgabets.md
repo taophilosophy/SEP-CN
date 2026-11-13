@@ -107,8 +107,6 @@ Cordemoy, Géraud de | Descartes, René | Gassendi, Pierre | Malebranche, Nicola
 
 ## Notes（原文脚注）
 
-## Notes to Robert Desgabets
-
 [^note-1]: Dom Robert Desgabets (1983), *Oeuvres philosophiques inédites*, Analecta Cartesiana 2, ed., J. Beaude with introduction by G. Rodis-Lewis, Amsterdam: Quadratures. This essential but not widely available collection of Desgabets’s philosophical writings comes in 7 opuscules; it includes works that previously existed only in manuscript form, *Traité de l’indéfectibilité des créatures* (c. 1653-74), *Supplément à la philosophie de M. Descartes* (1675), *Guide de la raison  naturelle* (1671), and *Traité de l’union de l’âme et du corps.* This work will be referred to by abbreviated title, OPD, opuscule number, and page number. The page numbering is continuous from opuscule to opuscule. For example, (OPD 5, 152), refers to *Oeuvres philosophiques inédites*, opuscule 5, page 152. All translations from the French are mine.
 
 [^note-2]: All three published works were published anonymously: Dom R. Desgabets *Critique de la critique de la Recherche de la vérité* (Paris, 1675); *Discours de la communication ou transfusion du sang* (Paris, 1668); and *Considérations sur l’état présent de la controverse touchant le T. S. Sacrement de l’autel* (Paris, 1671).

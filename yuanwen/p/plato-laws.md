@@ -686,8 +686,6 @@ Plato: ethics | Plato: ethics and politics in *The Republic* | Plato: middle per
 
 ## Notes（原文脚注）
 
-## Notes to Plato’s *Laws*
-
 [^note-1]: On authenticity, see Guthrie (1978: 321–2), and Jowett (1875: 3–29). The anonymous 6ᵗʰ century CE *Prolegomena in Platonis Philosophiam* (25.6–8) has a report similar to that in Diogenes, see Morrow (1960: 515–8). For a qualified rejection of the *Laws*’ authenticity, see Nails and Thesleff 2003. Their view, however, requires some highly controversial assumptions, cf. Irwin 2019.
 
 [^note-2]: On issues concerning stylometry, see Brandwood 1990, 2022; Kahn 1996: 36–70; Keyser 1991, 1992; Ledger 1989; Nails 1992; Charles Young 1994.
