@@ -108,7 +108,7 @@ python tools/term_audit.py     # 四态报告落 specs/008/results/audit-<日期
 - 审定命中是下位词（如 confirmation theory 对「贝叶斯验证理论」）不改，只在日志记一笔；
 - match=2 模糊池污染词（含 ibn/the 的查询返回巨型同名结果集）需 `match=1` 精确补查后再裁定。
 
-变更操作：Edit `yi-zhe-shuo-ming.md` / `ren-ming-biao.md`（五列：新主译 + 旧形降为「亦作"…"」+ 依据列写「审定名词库（termonline-all·库名，日期 浏览器通道凭证）」+ 裁定日期）→ `qian-yan/ci-hui-biao.md` 弱势方向同步看齐 → 门禁 → 提交。
+变更操作：Edit `shu-yu-biao.md` / `ren-ming-biao.md`（五列：新主译 + 旧形降为「亦作"…"」+ 依据列写「审定名词库（termonline-all·库名，日期 浏览器通道凭证）」+ 裁定日期）→ 门禁 → 提交（ADR-0036：发布词汇表已并网删除，无同步步骤）。
 
 ## 4. 门禁与提交
 

@@ -370,7 +370,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '分类目录', link: '/mu-lu-s' },
       { text: '词汇表', link: '/qian-yan/ci-hui-biao' },
-      { text: '术语对照', link: '/yi-zhe-shuo-ming' },
+      { text: '术语对照', link: '/shu-yu-biao' },
     ],
     sidebar: {
       '/yuanwen/': enSidebar,

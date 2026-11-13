@@ -5,7 +5,7 @@ outline: [1, 6]
 # 前言
 
 * [日志与编辑规划](qian-yan/ri-zhi-yu-bian-ji-gui-hua.md)
-* [词汇表](qian-yan/ci-hui-biao.md)
+* [术语表](shu-yu-biao.md)
 
 # 关于
 
