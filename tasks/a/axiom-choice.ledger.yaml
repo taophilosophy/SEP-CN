@@ -414,7 +414,7 @@ segments:
   - id: 47
     kind: body
     source: |-
-      *Zorn’s Lemma*is the best-known principle ensuring the existence of such maximal elements. To state it, we need a few definitions. Given a partially ordered set $(P, \le)$, an *upper bound* for a subset $X$ of $P$ is an element $a\in P$ for which $x\le a$ for every $x\in X$; a *maximal element* of $P$ may then be defined as an element $a$ for which the set of upper bounds of $\{a\}$ coincides with $\{a\}$, which essentially means that no element of $P$ is strictly larger than $a$. A *chain* in $(P,\le)$ is a subset $C$ of $P$ such that, for any $x$, $y\in P$, either $x\le y$ or $y\le x$. $P$ is said to be *inductive* if every chain in $P$ has an upper bound. Now Zorn’s Lemma asserts:
+      *Zorn’s Lemma* is the best-known principle ensuring the existence of such maximal elements. To state it, we need a few definitions. Given a partially ordered set $(P, \le)$, an *upper bound* for a subset $X$ of $P$ is an element $a\in P$ for which $x\le a$ for every $x\in X$; a *maximal element* of $P$ may then be defined as an element $a$ for which the set of upper bounds of $\{a\}$ coincides with $\{a\}$, which essentially means that no element of $P$ is strictly larger than $a$. A *chain* in $(P,\le)$ is a subset $C$ of $P$ such that, for any $x$, $y\in P$, either $x\le y$ or $y\le x$. $P$ is said to be *inductive* if every chain in $P$ has an upper bound. Now Zorn’s Lemma asserts:
     step1: |-
       **佐恩引理**是确保此类极大元存在的最著名原理。为陈述它，我们需要几个定义。给定偏序集 $(P, \le)$，$P$ 的子集 $X$ 的**上界**是元素 $a\in P$，使得对每个 $x\in X$ 都有 $x\le a$；于是 $P$ 的**极大元**可以定义为这样的元素 $a$：$\{a\}$ 的上界之集与 $\{a\}$ 重合，这实质上意味着 $P$ 中没有元素严格大于 $a$。$(P,\le)$ 中的**链**是 $P$ 的子集 $C$，使得对任意 $x$，$y\in P$，或者 $x\le y$，或者 $y\le x$。若 $P$ 中每条链都有上界，就说 $P$ 是**归纳的**。现在佐恩引理断言：
     step2: |-
@@ -727,11 +727,14 @@ segments:
   - id: 79
     kind: body
     source: |-
-      > **ACL**: $\forall x \exists y \phi(x, y) \rightarrow \exists f \forall x \phi(x, fx).$
+      > **ACL**:
+      > $\forall x \exists y \phi(x, y) \rightarrow \exists f \forall x \phi(x, fx).$
     step1: |-
-      > **ACL**：$\forall x \exists y \phi(x, y) \rightarrow \exists f \forall x \phi(x, fx).$
+      > **ACL**：
+      > $\forall x \exists y \phi(x, y) \rightarrow \exists f \forall x \phi(x, fx).$
     step2: |-
-      > **ACL**：$\forall x \exists y \phi(x, y) \rightarrow \exists f \forall x \phi(x, fx).$
+      > **ACL**：
+      > $\forall x \exists y \phi(x, y) \rightarrow \exists f \forall x \phi(x, fx).$
   - id: 80
     kind: body
     source: |-
@@ -751,11 +754,14 @@ segments:
   - id: 82
     kind: body
     source: |-
-      > **AC1L**: $\forall X [\Phi(X) \rightarrow \exists x X(x)] \rightarrow \exists F \forall X[\Phi(X) \rightarrow X(FX)]$
+      > **AC1L**:
+      > $\forall X [\Phi(X) \rightarrow \exists x X(x)] \rightarrow \exists F \forall X[\Phi(X) \rightarrow X(FX)]$
     step1: |-
-      > **AC1L**：$\forall X [\Phi(X) \rightarrow \exists x X(x)] \rightarrow \exists F \forall X[\Phi(X) \rightarrow X(FX)]$
+      > **AC1L**：
+      > $\forall X [\Phi(X) \rightarrow \exists x X(x)] \rightarrow \exists F \forall X[\Phi(X) \rightarrow X(FX)]$
     step2: |-
-      > **AC1L**：$\forall X [\Phi(X) \rightarrow \exists x X(x)] \rightarrow \exists F \forall X[\Phi(X) \rightarrow X(FX)]$
+      > **AC1L**：
+      > $\forall X [\Phi(X) \rightarrow \exists x X(x)] \rightarrow \exists F \forall X[\Phi(X) \rightarrow X(FX)]$
   - id: 83
     kind: body
     source: |-

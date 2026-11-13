@@ -153,7 +153,14 @@ def check_file(path, rel):
         # C2 内侧空白（仅行内）
         if not disp:
             if inner[:1].isspace() or inner[-1:].isspace():
-                if not (inner.lstrip().startswith("\\") and len(inner) > 2):
+                head_ok = inner.lstrip().startswith("\\") and len(inner) > 2
+                # 尾随空白剥掉后以 \ 结尾＝LaTeX 强制空格收尾（en 上游拆行公式
+                # 形态 `\ $ $`，math-plugin 可配对、MathJax 合法），豁免；
+                # 裸 \ 收尾（真缺陷）不豁免。
+                tail_ok = (inner[-1:].isspace()
+                           and inner.rstrip().endswith("\\")
+                           and len(inner.rstrip()) > 1)
+                if not (head_ok or tail_ok):
                     issues.append(("C2", start, "行内定界符内侧空白：" + body[:40]))
         # C3 不可见字符
         if INVIS_RE.search(inner):
