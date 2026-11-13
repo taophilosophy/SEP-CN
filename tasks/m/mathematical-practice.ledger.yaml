@@ -251,44 +251,58 @@ segments:
     kind: body
     source: |-
       ### 1.3 Methodology
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.3 方法论
+    step2: |-
+      ### 1.3 方法论
   - id: 32
     kind: body
     source: |-
       Although most results within PMP deploy traditional philosophical methodology, they tend to endorse a *bottom-up* rather than a *top-down* approach. In other words, they tend to draw philosophical conclusions by basing them on the detailed analysis of case studies rather than on general principles. In addition, focusing on mathematical practice provides solutions specific to mathematics to general epistemological problems, such as the problem of access to abstract objects, that might not generalize across the board (Panza 2024)[^panza-2024].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      PMP 内部的大多数成果虽采用传统哲学方法论，但倾向于自下而上而非自上而下的进路。换句话说，它们倾向于通过个案研究的细致分析来得出哲学结论，而不是从一般原则出发。此外，聚焦数学实践还能为一般认识论问题——如抽象对象的通达问题——提供数学特有的解法，而这些解法未必能普遍推广（Panza 2024）[^panza-2024]。
+    step2: |-
+      PMP 内部的大多数成果虽采用传统哲学方法论，却倾向自下而上而非自上而下的进路。换言之，它们倾向于立足于个案研究的细致分析得出哲学结论，而非从一般原则出发。此外，聚焦数学实践还能为一般认识论问题——如抽象对象的通达问题——提供数学特有的解法，这些解法未必能普遍推广（Panza 2024）[^panza-2024]。
   - id: 33
     kind: body
     source: |-
       The difference between these approaches can be clearly appreciated by looking at works on mathematical explanation (see Section 3.3 for more details). Top-down approaches were typical of the earlier analytic tradition (even when motivated by the desire to include more attention to mathematical practice) and offered general characterizations of mathematical explanation. Influential proposals are Steiner’s (1978) account of explanation in terms of a “characteristic property” and Kitcher’s (1981) unificationist account. While important in having brought the attention of philosophers to mathematical explanation, these proposals have been criticized by scholars looking at detailed case studies from the practice of mathematics, thus adopting a bottom-up approach. See, for example, Hafner and Mancosu 2005, 2008 for specific criticisms of Steiner and Kitcher, respectively, and Mancosu, Poggiolesi, and Pincock 2023 for a comprehensive overview of this area.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      考察数学解释方面的著作，可以清楚地看到这两种进路的差别（详见 3.3 节）。自上而下的进路是早期分析传统的典型（即便其动机是想更多地关注数学实践），它给出的是数学解释的一般性刻画。有影响的方案有：斯坦纳（Steiner 1978）以“特征性质”来解释说明的方案，以及基切尔（Kitcher 1981）的统一主义说明。这些方案在把哲学家的注意力引向数学解释方面功不可没，但遭到了从数学实践中考察细致个案的学者——即采用自下而上进路的学者——的批评。例如，Hafner and Mancosu 2005, 2008 分别批评了斯坦纳与基切尔，Mancosu, Poggiolesi, and Pincock 2023 则给出这一领域的全面综述。
+    step2: |-
+      考察数学解释方面的著作，可清楚看到两种进路的差别（详见 3.3 节）。自上而下的进路是早期分析传统的典型（即便动机是想更多关注数学实践），它给出数学解释的一般性刻画。有影响的方案有：斯坦纳（Steiner 1978）以“特征性质”作解释的方案，以及基切尔（Kitcher 1981）的统一主义说明。这些方案把哲学家的注意力引向数学解释，功不可没；但从数学实践中考察细致个案的学者——即采用自下而上进路的学者——对它们提出了批评。例如 Hafner and Mancosu 2005, 2008 分别批评斯坦纳与基切尔；Mancosu, Poggiolesi, and Pincock 2023 则全面综述这一领域。
   - id: 34
     kind: body
     source: |-
       Different methodologies within PMP can also be identified by locating them along the spectrum between normative and descriptive analyses of mathematical practice. Consider, for example, epistemology. A purely normative analysis articulating norms governing mathematical justification and knowledge will float free from actual practice – for instance, it won’t be a problem if it leads to the skeptical conclusion that we do not know much mathematics after all. However, when the normative analysis integrates a descriptive component, the norms are taken to be at least partially successfully implemented in practice. For example, some scholars have spelled out norms for proofs with an eye toward what gets accepted in practice. See Tymoczko 1979 for a by-now classic analysis. For more recent proposals, see Easwaran 2009, where it is suggested that proofs should be “transferable”, and De Toffoli 2021a, where it is argued that proofs should be “shareable.”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      PMP 内部的不同方法论，还可以沿数学实践的规范性分析与描述性分析之间的光谱来定位。以认识论为例。一项阐明数学辩护与数学知识之规范的纯规范性分析，会脱离实际实践自由漂浮——例如，即便它导向怀疑论结论“我们其实并不知晓多少数学”，也无妨。但当规范性分析融入描述性成分时，这些规范就被认为至少在实践中有部分成功落实。例如，一些学者在阐明证明的规范时，着眼于实践中被接受的东西。Tymoczko 1979 是这方面的经典分析。较近的方案见 Easwaran 2009——其中建议证明应当“可转移”；以及 De Toffoli 2021a——其中主张证明应当“可共享”。
+    step2: |-
+      PMP 内部的不同方法论，还可沿数学实践的规范性分析与描述性分析之间的光谱定位。以认识论为例。阐明数学辩护与数学知识之规范的纯规范性分析，会脱离实际实践自由漂浮——例如，即便它导向“我们其实并不知晓多少数学”的怀疑论结论，也无妨。但当规范性分析融入描述性成分时，规范就被认为至少在实践中有部分落实。例如，一些学者阐明证明规范时着眼于实践中被接受的东西。Tymoczko 1979 是这方面的经典分析。较近方案见 Easwaran 2009——建议证明应当“可转移”；以及 De Toffoli 2021a——主张证明应当“可共享”。
   - id: 35
     kind: body
     source: |-
       While traditional efforts in 20th-century mainstream philosophy of mathematics are almost entirely on the normative side, philosophers of mathematical practice tend to inform their normative assessments with a descriptive component. This integration comes in degrees. The more extreme branches of PMP tend to abandon the normative analysis altogether by focusing almost exclusively on a descriptive endeavor, which can, for example, consist of a detailed account of specific episodes in the history of mathematics or in sociological descriptions of how particular mathematical communities are regulated. The different positions along the normative/descriptive dimension are also related by how the term practice is understood, to which we turn in the next section.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      20 世纪主流数学哲学的传统工作几乎完全站在规范性一边，数学实践哲学家则倾向于用描述性成分来充实其规范性评估。这种融合有程度之别。PMP 中较极端的分支干脆放弃规范性分析，几乎只专注于描述性工作——例如细致刻画数学史上的特定事件，或对社会学意义上特定数学共同体如何被规制作描述。规范/描述维度上的不同立场，还与“实践”一词如何理解有关，这是下一节的话题。
+    step2: |-
+      20 世纪主流数学哲学的传统工作几乎全在规范性一边，数学实践哲学家则倾向用描述性成分充实其规范性评估。这种融合有程度之别。PMP 中较极端的分支干脆放弃规范性分析，几乎只专注描述性工作——如细致刻画数学史上的特定事件，或描述特定数学共同体如何被规制。规范/描述维度上的不同立场，还与“实践”一词如何理解有关，此为下一节话题。
   - id: 36
     kind: body
     source: |-
       This discussion leads us to a more general observation. One problem in the area of PMP is to navigate the porous boundary between aspects of mathematical practice that can be the object of investigation on the part of different sciences and the aspects that are more properly classified as belonging to PMP. The reason why the boundary is porous is that mathematical practice can be studied from a variety of perspectives which include historical, sociological, educational, ethnomathematical, cultural, linguistic, semiotic, biological, and cognitive approaches (see, for example, Van Bendegem 2014)[^van-2014]. While in our opinion these approaches are to be considered in principle separate from the philosophy of mathematical practice, specific results emerging from these disciplines, as we have pointed out above, might provide important elements of reflection or evidence for philosophical claims in PMP. However, we must point out that more radical approaches to PMP call for a closer symbiosis with one or more of the areas just mentioned.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      以上讨论引出一个更一般的观察。PMP 领域的一个问题，是如何穿行于多孔的边界：一边是可被不同科学当作研究对象的数学实践面向，另一边是更应当归入 PMP 的面向。边界之所以多孔，是因为数学实践可以从多种视角来研究——历史的、社会学的、教育的、民族数学的、文化的、语言的、符号学的、生物学的、认知的进路等等（例如 Van Bendegem 2014）[^van-2014]。在我们看来，这些进路原则上应当与数学实践的哲学分开；但正如上文指出的，这些学科涌现的具体成果，可以为 PMP 中的哲学主张提供重要的反思素材或证据。不过必须指出，PMP 中较为激进的进路，要求与上述一个或多个领域建立更紧密的共生关系。
+    step2: |-
+      以上讨论引出一个更一般的观察。PMP 领域的一个问题，是如何穿行多孔的边界：一边是可被不同科学当作研究对象的数学实践面向，另一边是更应归入 PMP 的面向。边界多孔，是因为数学实践可从多种视角研究——历史的、社会学的、教育的、民族数学的、文化的、语言的、符号学的、生物学的、认知的进路等等（例如 Van Bendegem 2014）[^van-2014]。在我们看来，这些进路原则上应与数学实践的哲学分开；但如上文指出的，这些学科涌现的具体成果可为 PMP 中的哲学主张提供重要的反思素材或证据。不过必须指出：PMP 中较激进的进路，要求与上述一个或多个领域建立更紧密的共生关系。
   - id: 37
     kind: body
     source: |-
       In the remaining part of the entry, we will refer to these different fields sparingly, but this does not imply that we downplay their potential, and in some cases actual, relevance to PMP, if only as catalysts for philosophical reflection. Among the studies we have in mind, let us mention:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在本词条余下的部分，我们会节制地提及这些不同领域，但这并不意味着我们低估它们对 PMP 的潜在——有时是现实的——关联，哪怕只作为哲学反思的催化剂。我们心目中的研究有：
+    step2: |-
+      在本词条余下部分，我们会节制地提及这些不同领域，但这并不意味着低估它们对 PMP 的潜在——有时是现实的——关联，哪怕只作为哲学反思的催化剂。我们心目中的研究有：
   - id: 38
     kind: body
     source: |-
@@ -301,140 +315,202 @@ segments:
       7. *Cultural approaches*. Wilder 1981 can be seen as antecedent with recent work by Larvor 2016a for some connections to PMP.
       8. *Linguistic approaches*. See, for instance, the analysis of instructions and imperatives in mathematical texts carried out in Tanswell and Inglis 2024.
       9. *Mathematics education*. See Hamami and Morris 2020 and Weber and Inglis 2024 for two overviews from mathematics educators and philosophers of mathematical practice. See also the Special Issue of the *Journal of Mathematical Behavior* edited by De Toffoli, Inglis, Hamami, and Mejia-Ramos (forthcoming).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. *数学史*。Chemla 2012 与 Ferreirós and Gray 2006 是两个重要例子，但这一领域资源多得难以尽收。可以说，数学史为 PMP 的许多个案研究提供了材料；同样，PMP 的发展也在影响许多数学史家更关注某些问题（图式推理的历史研究或许就是这种互动的首要例子）。
+      2. *关于数学之社会维度的研究*。见 Bloor 1976; Restivo 1985 与综述文章 Barany and Kremakova 2024。把这一研究方向引入 PMP 的尝试，见 Löwe and Müller 2008; Jean Paul Van Bendegem and Van Kerkhove 2007。
+      3. *认知心理学*。见 Butterworth 1999; Dehaene 1999; Kosslyn 1994；Giaquinto 2007 是把认知心理学问题纳入 PMP 的最佳例子（综述另见 Mancosu, Jørgensen, and Pedersen 2005 与 Giaquinto 2020）[^giaquinto-2020]。
+      4. *民族数学*。见 Everett and Madora 2012 与 François and Van Bendegem 2007，它们是民族数学、数学教育与 PMP 互动的例子。
+      5. *演化生物学*。动物与发展心理学方面见 Dehaene and Brannon 2011 与 Lorenzi, Perrino, and Vallortigara 2021；与 PMP 相关的近期工作见 Pantsar 2023, 2019a。
+      6. *符号学*。皮尔士是这里的奠基人物，见 Carter 2014；应用于 PMP 的工作见 Gastaldi 2024; Wagner 2017; Waszek 2024。
+      7. *文化进路*。Wilder 1981 可视为先声；与 PMP 的关联见 Larvor 2016a 的近期工作。
+      8. *语言学进路*。例如 Tanswell and Inglis 2024 对数学文本中的指令与祈使句所作的分析。
+      9. *数学教育*。Hamami and Morris 2020 与 Weber and Inglis 2024 分别是数学教育者与数学实践哲学家的两篇综述。另见 De Toffoli、Inglis、Hamami 与 Mejia-Ramos 主编的《数学行为杂志》（*Journal of Mathematical Behavior*）专号（即将出版）。
+    step2: |-
+      1. *数学史*。Chemla 2012 与 Ferreirós and Gray 2006 是两个重要例子，但这一领域资源多得难以尽收。可以说，数学史为 PMP 的许多个案研究提供了材料；同样，PMP 的发展也在影响许多数学史家更关注某些问题（图式推理的历史研究或许就是这种互动的首要例子）。
+      2. *关于数学之社会维度的研究*。见 Bloor 1976; Restivo 1985 与综述文章 Barany and Kremakova 2024。把这一方向引入 PMP 的尝试，见 Löwe and Müller 2008; Jean Paul Van Bendegem and Van Kerkhove 2007。
+      3. *认知心理学*。见 Butterworth 1999; Dehaene 1999; Kosslyn 1994；Giaquinto 2007 是把认知心理学问题纳入 PMP 的最佳例子（综述另见 Mancosu, Jørgensen, and Pedersen 2005 与 Giaquinto 2020）[^giaquinto-2020]。
+      4. *民族数学*。见 Everett and Madora 2012 与 François and Van Bendegem 2007，二者是民族数学、数学教育与 PMP 互动的例子。
+      5. *演化生物学*。动物与发展心理学方面见 Dehaene and Brannon 2011 与 Lorenzi, Perrino, and Vallortigara 2021；与 PMP 相关的近期工作见 Pantsar 2023, 2019a。
+      6. *符号学*。皮尔士是奠基人物，见 Carter 2014；应用于 PMP 的工作见 Gastaldi 2024; Wagner 2017; Waszek 2024。
+      7. *文化进路*。Wilder 1981 可视为先声；与 PMP 的关联见 Larvor 2016a 的近期工作。
+      8. *语言学进路*。例如 Tanswell and Inglis 2024 对数学文本中指令与祈使句的分析。
+      9. *数学教育*。Hamami and Morris 2020 与 Weber and Inglis 2024 分别是数学教育者与数学实践哲学家的两篇综述。另见 De Toffoli、Inglis、Hamami 与 Mejia-Ramos 主编的《数学行为杂志》（*Journal of Mathematical Behavior*）专号（即将出版）。
   - id: 39
     kind: body
     source: |-
       We should also add that analytic philosophy of mathematics has also been faced with similar boundary issues. If Frege’s warning in the *Grundlagen* that psychology could not contribute anything to the foundations of mathematics became for a long time the standard position, the reliance of analytic philosophy on linguistic analyses created a porous boundary between linguistics and analytic philosophy of mathematics (consider for instance the study of number words in linguistics and their use in making various ontological claims about the nature of numbers in philosophy of mathematics, see Moltmann 2013)[^moltmann-2013].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      还应补充：分析数学哲学也曾面对类似的边界问题。弗雷格在《算术基础》（*Grundlagen*）中警告心理学对数学基础不会有任何贡献，这一警告长期成为标准立场；而分析哲学对语言学分析的依赖，则在语言学与分析数学哲学之间划出了多孔的边界（例如语言学中对数词的研究，以及数学哲学中借数词对数之本性的各种本体论主张，见 Moltmann 2013）[^moltmann-2013]。
+    step2: |-
+      还应补充：分析数学哲学也曾面对类似的边界问题。弗雷格在《算术基础》（*Grundlagen*）中警告心理学对数学基础不会有任何贡献，此警告长期成为标准立场；而分析哲学对语言学分析的依赖，则在语言学与分析数学哲学之间划出多孔边界（例如语言学对数词的研究，以及数学哲学借数词对数之本性的各种本体论主张，见 Moltmann 2013）[^moltmann-2013]。
   - id: 40
     kind: body
     source: |-
       ### 1.4 Practice: Product or Process?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.4 实践：产物还是过程？
+    step2: |-
+      ### 1.4 实践：产物还是过程？
   - id: 41
     kind: body
     source: |-
       We surveyed how different approaches within PMP can be distinguished by 1) what areas of mathematics are considered, 2) who are the subjects doing mathematics taken to be and what this doing is taken to consists in, and 3) the adopted methodology.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们已概览了 PMP 内部诸进路如何依三点区分：1）考察数学的哪些领域；2）把从事数学的主体看作谁、这种从事又被看作由什么构成；3）所采的方法论。
+    step2: |-
+      我们已概览 PMP 内部诸进路如何依三点区分：1）考察数学的哪些领域；2）把从事数学的主体看作谁、这种从事由什么构成；3）所采方法论。
   - id: 42
     kind: body
     source: |-
       These approaches can be seen to derive from different understandings of the term ‘practice’ in ‘philosophy of mathematical practice.’ This term suffers from a typical process/product ambiguity. Practice can either refer to the process or activity of doing mathematics, or to the product of such process. Some of the major differences among philosophers of mathematical practice have to do with this same ambiguity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些进路可以说源自对“数学实践的哲学”中“实践”一词的不同理解。这个词患有典型的过程/产物歧义。实践既可以指做数学的过程或活动，也可以指这一过程的产物。数学实践哲学家之间的若干重大分歧，正与这一歧义有关。
+    step2: |-
+      这些进路可以说源自对“数学实践的哲学”中“实践”一词的不同理解。这个词患有典型的过程/产物歧义。实践既可指做数学的过程或活动，也可指这一过程的产物。数学实践哲学家之间的若干重大分歧，正与这一歧义有关。
   - id: 43
     kind: body
     source: |-
       It is crucial to note, however, that the product/process ambiguity does not give rise to a dichotomy, but rather to a spectrum. We saw that different methodologies within PMP can be located in various positions along the normative/descriptive methodological dimension – similarly, they can be located in various positions along the product/process dimension. While foundational efforts and studies on mathematical platonism will be at the product end of the product/process dimension, studies within PMP will occupy intermediate positions. Still, many of them will be closer to the product than the process end of the spectrum.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而关键在于：产物/过程歧义造成的不是二分，而是一道光谱。我们看到，PMP 内部的不同方法论可以定位于规范/描述方法学维度上的不同位置——同样，它们也可以定位于产物/过程维度上的不同位置。基础主义工作与数学柏拉图主义研究处于产物/过程维度的产物端，PMP 内部的研究则占据中间位置。不过，其中许多研究在光谱上仍更靠近产物端而非过程端。
+    step2: |-
+      但关键在于：产物/过程歧义造成的不是二分，而是一道光谱。我们看到，PMP 内部的不同方法论可定位于规范/描述方法学维度的不同位置——同样，也可定位于产物/过程维度的不同位置。基础主义工作与数学柏拉图主义研究处于产物/过程维度的产物端，PMP 内部的研究则占中间位置。不过其中许多研究在光谱上仍更靠近产物端而非过程端。
   - id: 44
     kind: body
     source: |-
       For instance, the contributors of some of the most influential edited volumes and Special Issues in the field (Mancosu 2005, 2008b; Mumma and Panza 2012)[^mancosu-2005][^mancosu-2005-2][^mumma-2012][^panza-2012] zoom in on the precipitate of mathematical activity, i.e., the product: explanations, diagrammatic inferences, etc.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      例如，本领域一些最有影响的文集与专号的撰稿人（Mancosu 2005, 2008b; Mumma and Panza 2012）[^mancosu-2005][^mancosu-2005-2][^mumma-2012][^panza-2012]，聚焦的是数学活动的沉淀物，即产物：解释、图式推理等等。
+    step2: |-
+      例如，本领域一些最有影响的文集与专号的撰稿人（Mancosu 2005, 2008b; Mumma and Panza 2012）[^mancosu-2005][^mancosu-2005-2][^mumma-2012][^panza-2012]聚焦数学活动的沉淀物，即产物：解释、图式推理等等。
   - id: 45
     kind: body
     source: |-
       This approach can be contrasted with more traditional approaches in the philosophy of mathematics since the products on which philosophers of mathematical practice have been focusing are more heterogeneous compared to the products analyzed by traditional philosophers of mathematics. This is because it is the precipitate of a wider range of mathematical activities, including historical ones.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这种做法可以与数学哲学中更传统的进路相对照：数学实践哲学家所聚焦的产物，比传统数学哲学家分析的产物更为异质。因为它是更广范围数学活动的沉淀物——包括历史上的活动。
+    step2: |-
+      这种做法可与数学哲学中更传统的进路对照：数学实践哲学家聚焦的产物，比传统数学哲学家分析的产物更异质，因为它是更广范围数学活动——包括历史活动——的沉淀物。
   - id: 46
     kind: body
     source: |-
       Moreover, focusing mainly on the product does not mean that the activity or the subjects engaged in it are entirely ignored. For instance, when looking at diagrammatic reasoning in Euclid, Manders (2008) refers to the ‘discipline of control’ specific to the community of geometers involved. Still, the focus is on the arguments themselves, not the activity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      而且，主要聚焦产物并不意味着活动或参与活动的主体被完全忽略。例如，曼德斯（Manders 2008）考察欧几里得的图式推理时，就提到了相关几何学家共同体特有的“控制纪律”。尽管如此，焦点仍在论证本身，而非活动。
+    step2: |-
+      而且，主要聚焦产物并不意味着活动或参与活动的主体被完全忽略。例如曼德斯（Manders 2008）考察欧几里得的图式推理时，就提到相关几何学家共同体特有的“控制纪律”。尽管如此，焦点仍在论证本身，而非活动。
   - id: 47
     kind: body
     source: |-
       A similar, intermediate position that works at the intersection of the process and the product is that found in Philip Kitcher’s Millian analysis of mathematics. In *The Nature of Mathematical Knowledge* (1984), Kitcher defines a mathematical practice in terms of five elements: 1) the language adopted, intended as the “vehicle for the performance of mathematical operations as well as its reporting on those operations,” 2) the metamathematical views, such as goals and values, 3) the sets of accepted statements, 4) the methods of reasoning, and 5) the questions (*ibid.* p. 163). Kitcher mainly focuses on the products of the mathematical activity but keeps in mind the specific origin of these products.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个类似的、工作于过程与产物交汇处的中间立场，见于菲利普·基切尔对数学的密尔式分析。在《数学知识的本性》（*The Nature of Mathematical Knowledge*，1984）中，基切尔用五个要素定义一种数学实践：1）所采的语言，意指“执行数学运算的载体，以及对这些运算的报告”；2）元数学观点，如目标与价值；3）被接受的语句集；4）推理方法；5）问题（同上，第 163 页）。基切尔主要聚焦数学活动的产物，但也记着这些产物特殊的来历。
+    step2: |-
+      一个类似的、工作于过程与产物交汇处的中间立场，见于菲利普·基切尔对数学的密尔式分析。在《数学知识的本性》（*The Nature of Mathematical Knowledge*，1984）中，基切尔以五要素定义一种数学实践：1）所采语言，意指“执行数学运算的载体及对这些运算的报告”；2）元数学观点，如目标与价值；3）被接受的语句集；4）推理方法；5）问题（同上，第 163 页）。基切尔主要聚焦数学活动的产物，但也记着这些产物特殊的来历。
   - id: 48
     kind: body
     source: |-
       Even studies applying the techniques of social epistemology to the philosophy of mathematics often focus on the product. For example, it is by analyzing specific proofs, such as proofs that require large-scale collaborations like the one for the classification theorem for finite simple groups, that new epistemological evaluations are developed (Habgood-Coote and Tanswell 2021; Steingart 2012)[^habgood-coote-2021][^steingart-2012][^tanswell-2021].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      即便把社会认识论技术应用于数学哲学的研究，也常常聚焦产物。例如，正是通过分析特定证明——如需要大规模协作的有限单群分类定理的证明——新的认识论评估才得以发展（Habgood-Coote and Tanswell 2021; Steingart 2012）[^habgood-coote-2021][^steingart-2012][^tanswell-2021]。
+    step2: |-
+      即便把社会认识论技术应用于数学哲学的研究，也常聚焦产物。例如，正是通过分析特定证明——如需要大规模协作的有限单群分类定理证明——新的认识论评估才得以发展（Habgood-Coote and Tanswell 2021; Steingart 2012）[^habgood-coote-2021][^steingart-2012][^tanswell-2021]。
   - id: 49
     kind: body
     source: |-
       By contrast, other philosophers of mathematical practice are better understood as located towards the process end of the product/process dimension. They focus on the process and the subjects carrying out the process, conceiving of mathematics as formed by many practices. For example, Van Bendegem and Van Kerkhove (2005, 534) characterize mathematical practices in a way that puts the community of mathematicians at the core. The other aspects of mathematical practices are, according to their view, a research program, a formal language, proof methods, concepts, argumentative methods, and proof strategies. Ferreirós (2016) offers yet another proposal, one that is inspired by Kitcher’s. He suggests revising Kitcher’s characterization of mathematical practice by emphasizing the active role of the practitioners, whom he prefers to call ‘agents,’ and by stressing the co-existence of different mathematical and proto-mathematical practices interacting with each other. Of course, the use of the singular noun ‘mathematical practice’ in other authors in no way carries the implication that mathematics is a monolithic activity, in the same way in which speaking of the nature of physical experiment is compatible with the position that physical experiments are heterogeneous.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      相比之下，另一些数学实践哲学家更适合被理解为位于产物/过程维度的过程端。他们聚焦过程与执行过程的主体，把数学设想为由诸多实践构成。例如，Van Bendegem and Van Kerkhove（2005, 534）刻画数学实践的方式，就把数学家共同体放到核心。在他们看来，数学实践的其他方面还有：研究纲领、形式语言、证明方法、概念、论证方法与证明策略。费雷罗斯（Ferreirós 2016）提出又一个方案，其灵感来自基切尔。他建议修订基切尔对数学实践的刻画：强调实践者的能动角色——他宁称之为“行动者”——并强调彼此互动的诸数学实践与原数学实践之共存。当然，其他作者使用“数学实践”这个单数名词，绝无数学是铁板一块活动之意，正如谈论物理实验的本性，与主张物理实验是异质的，二者可以相容。
+    step2: |-
+      相比之下，另一些数学实践哲学家更适合被理解为位于产物/过程维度的过程端。他们聚焦过程与执行过程的主体，把数学设想为由诸多实践构成。例如 Van Bendegem and Van Kerkhove（2005, 534）刻画数学实践的方式就把数学家共同体放到核心。在他们看来，数学实践的其他方面还有：研究纲领、形式语言、证明方法、概念、论证方法与证明策略。费雷罗斯（Ferreirós 2016）提出又一个方案，灵感来自基切尔。他建议修订基切尔对数学实践的刻画：强调实践者的能动角色——他宁称之为“行动者”——并强调彼此互动的诸数学实践与原数学实践之共存。当然，其他作者使用“数学实践”这一单数名词，绝无数学是铁板一块之意，正如谈论物理实验的本性与主张物理实验异质二者可以相容。
   - id: 50
     kind: body
     source: |-
       For some researchers, especially those influenced by sociological and ethnographic considerations, the notion of mathematical practice (even intended in the plural) is too narrow. They are even further towards the process end of the product/process dimensions – and they also tend to be positioned towards the descriptive end of the normative/descriptive methodological dimension. They aim to replace the notion of mathematical practice with the more general concept of mathematical culture (Larvor 2016a; Selin 2000)[^larvor-2016a][^selin-2000].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对一些研究者——尤其是受社会学与民族志考量影响的研究者——来说，数学实践（即便是复数意义上的）这个概念太窄。他们在产物/过程维度上更靠近过程端——在规范/描述方法学维度上也倾向于靠近描述端。他们想用更一般的概念“数学文化”来取代数学实践的概念（Larvor 2016a; Selin 2000）[^larvor-2016a][^selin-2000]。
+    step2: |-
+      对一些研究者——尤其受社会学与民族志考量影响者——来说，数学实践（即便取复数义）这个概念太窄。他们在产物/过程维度上更靠近过程端，在规范/描述方法学维度上也倾向靠近描述端。他们想用更一般的概念“数学文化”取代数学实践（Larvor 2016a; Selin 2000）[^larvor-2016a][^selin-2000]。
   - id: 51
     kind: body
     source: |-
       ## 2. Above and Beyond Traditional Philosophy of Mathematics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2. 超出并越传统数学哲学
+    step2: |-
+      ## 2. 超越传统数学哲学
   - id: 52
     kind: body
     source: |-
       In this section, we list the main motivations that led to the development of practice-based approaches in the philosophy of mathematics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本节列举促成数学哲学中基于实践之进路发展的主要动机。
+    step2: |-
+      本节列举促成数学哲学中基于实践之进路发展的主要动机。
   - id: 53
     kind: body
     source: |-
       By the mid-20ᵗʰ century, many philosophers of mathematics seemed to have reached a consensus. Mathematics was seen as a science that yields objective and a priori knowledge. Arithmetic and logic (including set theory) were considered to be paradigmatic domains of mathematics. The main philosophical questions revolved around the possibility of mathematical knowledge, the nature of mathematical objects, and the several positions on the foundations of mathematics (usually represented by formalism, intuitionism and logicism). This philosophical outlook emerged from research on the foundations of mathematics in the late 19ᵗʰ century, especially from the work of Frege and Hilbert. Because of its popularity, it has been referred to as “mainstream philosophy of mathematics,” or, because of the central role of foundational questions, as “foundationalism” (see Horsten 2019)[^horsten-2019].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      到 20 世纪中叶，许多数学哲学家似乎达成了共识。数学被视为产生客观且先天知识的科学。算术与逻辑（包括集合论）被视为数学的范型领域。主要的哲学问题围绕数学知识的可能性、数学对象的性质，以及数学基础上的若干立场（通常以形式主义、直觉主义与逻辑主义为代表）。这一哲学图景脱胎于 19 世纪晚期的数学基础研究，尤其是弗雷格与希尔伯特的工作。因其流行，它被称为“主流数学哲学”；又因基础问题的中心地位，也被称为“基础主义”（见 Horsten 2019）[^horsten-2019]。
+    step2: |-
+      到 20 世纪中叶，许多数学哲学家似已达成共识。数学被视为产生客观且先天知识的科学。算术与逻辑（包括集合论）被视为数学的范型领域。主要哲学问题围绕数学知识的可能性、数学对象的性质，以及数学基础上的若干立场（通常以形式主义、直觉主义与逻辑主义为代表）。这一哲学图景脱胎于 19 世纪晚期的数学基础研究，尤其是弗雷格与希尔伯特的工作。因其流行，它被称为“主流数学哲学”；又因基础问题的中心地位，也称“基础主义”（见 Horsten 2019）[^horsten-2019]。
   - id: 54
     kind: body
     source: |-
       As noted above, the development of the philosophy of mathematical practice involved a broadening of the underlying conception of mathematics. Interestingly, this was pursued at the same time from within the foundationalist tradition in the philosophy of mathematics (e.g., by Kitcher (1984) and Maddy (1990, 1997, 2011) and from without (e.g., by philosophers like Lakatos (1976), Tymoczko (1979), and mathematicians like Davis and Hersh (1999)). In both cases, this broadening was presented as being in stark opposition to mainstream approaches in the philosophy of mathematics. The relation to analogous developments in the philosophy of science is worth noting. A practical turn in the philosophy of science occurred in the wake of Thomas Kuhn’s groundbreaking *The Structure of Scientific Revolutions* (1962) – see Soler et al. (2014).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如上所述，数学实践的哲学的发展伴随着底层数学观的拓宽。有趣的是，这一拓宽同时从数学哲学的基础主义传统内部（如 Kitcher 1984 与 Maddy 1990, 1997, 2011）与外部（如拉卡托斯（1976）、Tymoczko（1979）等哲学家，以及 Davis and Hersh（1999）等数学家）得到推进。两种情形下，这种拓宽都被呈现为与数学哲学主流进路的尖锐对立。它与科学哲学中类似发展的关系值得注意。托马斯·库恩的开创性著作《科学革命的结构》（*The Structure of Scientific Revolutions*，1962）之后，科学哲学发生了一次实践转向——见 Soler et al.（2014）。
+    step2: |-
+      如上所述，数学实践的哲学之发展伴随着底层数学观的拓宽。有趣的是，这一拓宽同时从数学哲学基础主义传统的内部（如 Kitcher 1984 与 Maddy 1990, 1997, 2011）与外部（如拉卡托斯（1976）、Tymoczko（1979）等哲学家，及 Davis and Hersh（1999）等数学家）得到推进。两种情形下，这种拓宽都被呈现为与数学哲学主流进路的尖锐对立。它与科学哲学中类似发展的关系值得注意：托马斯·库恩的开创性著作《科学革命的结构》（*The Structure of Scientific Revolutions*，1962）之后，科学哲学发生了一次实践转向——见 Soler et al.（2014）。
   - id: 55
     kind: body
     source: |-
       In this section, we present some of the main considerations that played in favor of extending the range of philosophical studies about mathematics. We end by distinguishing two camps into which philosophers of mathematical practice can be divided: an ecumenical one that emphasizes the continuity and complementarity with foundational projects and an anti-foundational one.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本节呈现支持拓展数学哲学研究范围的若干主要考量。最后我们将区分数学实践哲学家可以划入的两个阵营：一个强调与基础项目之连续性与互补性的大公阵营，以及一个反基础的阵营。
+    step2: |-
+      本节呈现支持拓展数学哲学研究范围的若干主要考量。最后区分数学实践哲学家可划入的两个阵营：强调与基础项目连续、互补的大公阵营，与反基础阵营。
   - id: 56
     kind: body
     source: |-
       ### 2.1 Pressures on Foundationalist Programs
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.1 基础主义纲领承受的压力
+    step2: |-
+      ### 2.1 基础主义纲领承受的压力
   - id: 57
     kind: body
     source: |-
       Part of the impetus to explore new directions in the philosophy of mathematics came from what was perceived as a failure of the main schools in the foundations of mathematics, namely logicism, formalism, and intuitionism (see the entry on philosophy of mathematics). All three schools ran into difficulties that some have perceived as insurmountable.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      探索数学哲学新方向的推动力，部分来自人们察觉到数学基础诸主要学派的失败，即逻辑主义、形式主义与直觉主义（见“数学哲学”词条）。三个学派都遭遇了某些人视为不可逾越的困难。
+    step2: |-
+      探索数学哲学新方向的推动力，部分来自人们察觉数学基础诸主要学派的失败，即逻辑主义、形式主义与直觉主义（见“数学哲学”词条）。三学派都遭遇了某些人视为不可逾越的困难。
   - id: 58
     kind: body
     source: |-
       In brief, Frege’s attempt to reduce arithmetic and analysis to logic was halted by Russell’s Paradox – and Russell’s own version of logicism had to accept principles (the Axiom of Infinity and the Axiom of Reducibility) that could hardly be considered logical. Hilbert’s program found an impasse in Gödel’s Incompleteness Theorems, which showed some principled limitations to what could be proved in formal systems. Brouwer’s intuitionism rejected widely used mathematical principles, such as the law of excluded middle, and could therefore not become a viable account of generally accepted mathematics. This is not to say that new versions of Fregeanism (neo-logicism), modified versions of Hilbert’s program, and varieties of constructive mathematics are not still viable possibilities, but only that the original foundational schools did encounter significant impasses.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      简要说来：弗雷格把算术与分析还原为逻辑的尝试，被罗素悖论打断——而罗素自己的逻辑主义版本也不得不接受难以算作逻辑的原则（无穷公理与可归约性公理）。希尔伯特纲领在哥德尔不完备性定理处陷入僵局——这些定理显示了形式系统可证范围的原则性限度。布劳威尔的直觉主义拒绝排中律这类广泛使用的数学原则，因此无法成为对公认数学的可行说明。这不是说弗雷格式立场的新版本（新逻辑主义）、希尔伯特纲领的修正版本与构造数学的诸变体不再是可行的可能，而只是说，原来的基础学派确实遭遇了重大僵局。
+    step2: |-
+      简要说来：弗雷格把算术与分析还原为逻辑的尝试，被罗素悖论打断——罗素自己的逻辑主义版本也不得不接受难以算作逻辑的原则（无穷公理与可归约性公理）。希尔伯特纲领在哥德尔不完备性定理处陷入僵局——这些定理显示了形式系统可证范围的原则性限度。布劳威尔的直觉主义拒绝排中律这类广泛使用的数学原则，故无法成为对公认数学的可行说明。这不是说弗雷格式立场的新版本（新逻辑主义）、希尔伯特纲领的修正版本与构造数学的诸变体不再可行，而只是说，原来的基础学派确实遭遇了重大僵局。
   - id: 59
     kind: body
     source: |-
       This might also be the place to point out that the development of foundationalist positions often demands a deep understanding of important aspects of mathematical practice. Just to give one example, how different areas of mathematics are affected by foundational restrictions (say, what can be rescued of classical analysis when your principles are restricted to set-existence axioms limited in various ways such as in reverse mathematics (Simpson 2009; Stillwell 2018)[^simpson-2009][^stillwell-2018] is a type of foundational investigation that requires intimate knowledge of mathematical practice. Of course, proponents of PMP would go on to point out that one cannot limit attention to only these aspects of the mathematical activity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这里也正适合指出：基础主义立场的发展，常常要求对数学实践的重要面向有深入理解。仅举一例：数学的各个领域如何受基础限制的影响（比如，当原则被限定为以各种方式受限的集存在公理时——如反推数学（Simpson 2009; Stillwell 2018）[^simpson-2009][^stillwell-2018]——经典分析还能挽救多少），这类基础研究就要求对数学实践有贴身的知识。当然，PMP 的支持者会接着指出：不能只把注意力限于数学活动的这些面向。
+    step2: |-
+      这里也正适合指出：基础主义立场的发展常要求对数学实践的重要面向有深入理解。仅举一例：数学各领域如何受基础限制的影响（比如，当原则被限定为以各种方式受限的集存在公理时——如反推数学（Simpson 2009; Stillwell 2018）[^simpson-2009][^stillwell-2018]——经典分析还能挽救多少），这类基础研究要求对数学实践的贴身知识。当然，PMP 的支持者会接着指出：不能只把注意力限于数学活动的这些面向。
   - id: 60
     kind: body
     source: |-
       ### 2.2 Overly General Questions
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2 过于一般的问题
+    step2: |-
+      ### 2.2 过于一般的问题
   - id: 61
     kind: body
     source: |-
