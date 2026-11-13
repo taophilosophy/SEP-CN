@@ -21,7 +21,7 @@
 
 Robert K. Meyer（1976）看来是第一个想到不一致算术理论的人。彼时他更关心一个一致理论的命运，即他的相干算术 R#：相当于皮亚诺算术的公理，配以量化相干逻辑 RQ 作底；Meyer 盼望相干逻辑这个较弱的基础能容纳更多模型。他料中了。事实证明存在整整一族不一致算术理论；例如见 Meyer and Mortensen（1984）。与上文复兴逻辑主义的议论相呼应，Meyer 主张：这些算术理论为复兴的希尔伯特纲领提供了基础。希尔伯特纲领，是严格形式化数学、再以简单的有穷/归纳程序证明其一致性的工程；人们普遍认为它已被哥德尔第二不完备性定理重创：按该定理，算术的一致性在算术内部不可证。但 Meyer 构造的一个后果是：在他的算术 R# 之内，可以用有穷手段证明，无论碰巧有什么矛盾，它们都伤不了任何数值计算。于是，只要改用容忍不一致的逻辑，希尔伯特“确凿证明数学无虞”的目标就在很大程度上可以实现。
 
-Meyer 与 Mortensen 所用的算术模型，后来被证明允许对真谓词作不一致表示；它们还允许表示自然数算术之外的结构，如环与域，连同其序性质；公理化亦已给出。最近，有限不一致算术塌缩模型（一个严格大于 Meyer 与 Mortensen 模型类的类）已被 Graham Priest 完全刻画。塌缩模型的造法：把经典模型的论域塌缩到由各种同余关系生成的同余类。同一同余类的成员一经等同，所得理论便是不一致的。例如，Meyer 的初始构造把整数按 **模 2** 同余塌缩：0 与 2 落入同一个同余类，于是在某个合适的三值逻辑里，0=2 与非-(0=2) 同时成立。Priest 证明这类模型取某种一般形式（见 Priest 1997、2000）。严格说来，Priest 把“小集团模型”也纳入其中，走得略远了些；Paris 与 Pathmanathan（2006）后来修正了这一点，Paris 与 Sirokfskich（2008）又推广到无穷情形。更近，Tedder（2015）换用不同的背景逻辑（Avron 的 A3），为有限塌缩模型类取得了公理化。
+Meyer 与 Mortensen 所用的算术模型，后来被证明允许对真谓词作不一致表示；它们还允许表示自然数算术之外的结构，如环与域，连同其序性质；公理化亦已给出。最近，有限不一致算术塌缩模型（一个严格大于 Meyer 与 Mortensen 模型类的类）已被 Graham Priest 完全刻画。塌缩模型的造法：把经典模型的论域塌缩到由各种同余关系生成的同余类。同一同余类的成员一经等同，所得理论便是不一致的。例如，Meyer 的初始构造把整数按 **模 2** 同余塌缩：0 与 2 落入同一个同余类，于是在某个合适的三值逻辑里，0=2 与非-(0=2) 同时成立。Priest 证明这类模型取某种一般形式（见 Priest 1997、2000）。严格说来，Priest 把“小集团模型”也纳入其中，走得略远了些；Paris 与 Pathmanathan（2006）后来修正了这一点，Paris 与 Sirokofskich（2008）又推广到无穷情形。更近，Tedder（2015）换用不同的背景逻辑（Avron 的 A3），为有限塌缩模型类取得了公理化。
 
 ## 3 分析
 
@@ -37,7 +37,7 @@ Meyer 对自然数的原初进路（即 R#）是公理化的，不是模型论�
 
 范畴论照亮了许多数学结构；它确实曾被提议为数学的另一种基础。这般普遍性不可避免地撞上与集合论概括类似的难题；例如见 Hatcher 1982（pp. 255–260）。因此，不一致解有同样的用武之地。还有一族重要的范畴结构，即拓扑斯（toposes）：它们支持开集逻辑的方式，与集合支持布尔逻辑的方式恰成平行。许多人以此作为直觉主义之基础观点的辩护。然而可以证明：拓扑斯支持闭集逻辑，一如它们支持开集逻辑；这是迄今为止唯一的弗协调逻辑范畴论语义。但这不该视作对直觉主义的反驳，而该视作一个论证：不一致的理论作为数学研究对象同样合理。见 Mortensen（1995 第 11 章，合著者 Lavers）。这一立场如今已被 Estrada-González（2010, 2015a, 2015b）接手、扩展并有力辩护。同一作者（2016）进而为平凡理论提供范畴论描述，意在表明：平凡性对数学理论而言并非那么无趣的特征。笔者仍然不被说服，因为平凡理论对数学计算肯定无用；但这些论证的巧妙必须承认。
 
-不完备／直觉主义与不一致／弗协调之间的对偶，至少有两副面孔。其一是上述拓扑（开/闭）对偶；其二则是 Routley 星对偶。句子集 *S* 的 Routley 星 ＊ 定义为 *S** =_{*df*} {*A*: ~*A* 不属于 *S*}。它由 Routley 夫妇（1972）发现，原是相干逻辑的语义工具：＊ 运算在大类德摩根逻辑的不一致理论与不完备理论之间往返对偶。例如，对皮亚诺算术施加星运算，便得到一个演绎封闭、不一致、完备、非平凡、包含全部 PA 的经典算术理论，给哥德尔不完备性结果出了道有趣的难题（见 Mortensen 2013）。两种对偶还会相互作用：* 为开集与闭集算术理论给出独特的对偶定理与不变性定理。基于这些结果，我们尽可以说：直觉主义的与弗协调的这两种数学同样合理。
+不完备／直觉主义与不一致／弗协调之间的对偶，至少有两副面孔。其一是上述拓扑（开/闭）对偶；其二则是 Routley 星对偶。句子集 *S* 的 Routley 星 ＊ 定义为 *S*\* =*df* {*A*: ~*A* 不属于 *S*}。它由 Routley 夫妇（1972）发现，原是相干逻辑的语义工具：＊ 运算在大类德摩根逻辑的不一致理论与不完备理论之间往返对偶。例如，对皮亚诺算术施加星运算，便得到一个演绎封闭、不一致、完备、非平凡、包含全部 PA 的经典算术理论，给哥德尔不完备性结果出了道有趣的难题（见 Mortensen 2013）。两种对偶还会相互作用：* 为开集与闭集算术理论给出独特的对偶定理与不变性定理。基于这些结果，我们尽可以说：直觉主义的与弗协调的这两种数学同样合理。
 
 ## 4 几何不一致
 
@@ -63,11 +63,11 @@ Meyer 对自然数的原初进路（即 R#）是公理化的，不是模型论�
 
 应当再次强调：这些结构绝不挑战或拒斥现有数学，而是拓展我们对“数学上可能”的构想。这反过来又把数学多元主义的问题磨得更尖；例如见 Davies（2005）、Hellman 与 Bell（2006）或 Priest（2013）。诸家对数学多元主义的版本各异，但大意是：不相容的数学理论可以同样为真。其理据在于这样的观察：存在不同的数学“宇宙”，其中成立着不同的、乃至不相容的数学定理或定律。著名例子：经典数学与直觉主义数学互不相容；带选择公理与不带选择公理的 ZF 式集合宇宙互不相容。倘若它们都是数学上良态理论的合法例子，那么说带选择公理的 ZF 是真数学、不带选择公理的 ZF 是假数学，就荒谬了。
 
-数学哲学的首要问题无疑是 **数学是什么**。拓扑对偶、Routley 星这类对偶运算强化了这一点：不完备／不一致的对偶，作为数学的例子同样合理。从这个角度看，关于该接受直觉主义数学、经典数学还是不一致数学的争论，似乎没有意义；它们全是数学论题的一部分。Shapiro（2014；对照见其 2002）有力地提出了这一点。Shapiro 的独特立场还有别的成分：数学作为结构的科学；数学多元主义蕴涵逻辑多元主义（逻辑多元主义另见 Beall and Restall 2006）[^beall-2006]。但这些此处不表。
+数学哲学的首要问题无疑是 **数学是什么**。拓扑对偶、Routley 星这类对偶运算强化了这一点：不完备／不一致的对偶，作为数学的例子同样合理。从这个角度看，关于该接受直觉主义数学、经典数学还是不一致数学的争论，似乎没有意义；它们全是数学论题的一部分。Shapiro（2014；对照见其 2002）[^shapiro-2014][^shapiro-2002]有力地提出了这一点。Shapiro 的独特立场还有别的成分：数学作为结构的科学；数学多元主义蕴涵逻辑多元主义（逻辑多元主义另见 Beall and Restall 2006）[^beall-2006]。但这些此处不表。
 
 无论如何，笔者以为：若把数学首先看作允许不一致的数学理论、其次才看作那些理论内部的对象，那么某种版本的数学多元主义显然为真。当然，把不相容的理论视为命题结构，它们的共存没有任何问题。理论的优先性也合乎一个自然的观察：数学的认识论是演绎证明。只有当人把“数学对象优先、作为理论的真理制造者”当作出发点时，才须操心这些对象如何设法共存。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
@@ -81,7 +81,7 @@ Meyer 对自然数的原初进路（即 R#）是公理化的，不是模型论�
 [^brady-2006]: –––, 2006, *Universal Logic*, Stanford: CSLI Publications.
 [^brown-2004]: Brown, B., and G. Priest, 2004, “Chunk and Permeate: A Paraconsistent Inference Strategy. Part I: The Infinitesimal Calculus”, *The Journal of Philosophical Logic*, 33: 379–388.
 [^burgess-1981]: Burgess, J., 1981, “Relevance, a Fallacy?”, *Notre Dame Journal of Formal Logic*, 22: 97–104.
-[^colyvan-2000]: Colyvan, M., 2000, “Applying Inconsistent Mathematics”, *New Waves in the Philosophy of Mathematics*, O.Bueno and O. Limmbo (eds.), London: Palgrave McMillan, 160-172.
+[^colyvan-2000]: Colyvan, M., 2000, “Applying Inconsistent Mathematics”, *New Waves in the Philosophy of Mathematics*, O. Bueno and Ø. Linnebo (eds.), London: Palgrave McMillan, 160-172.
 [^da-1974]: Da Costa, Newton C.A., 1974, “On the Theory of Inconsistent Formal Systems”, *Notre Dame Journal of Formal Logic*, 15: 497–510.
 [^da-2000]: –––, 2000, “Paraconsistent Mathematics”, in D. Batens *et al*. (eds.), *Frontiers of Paraconsistent Logic*, Hertfordshire: Research Studies Press, 165–180.
 [^davies-2005]: Davies, E.B., 2005 “A Defence of Mathematical Pluralism ”, *Philosophia Mathematica*, 13: 252–276.
@@ -122,13 +122,13 @@ Meyer 对自然数的原初进路（即 R#）是公理化的，不是模型论�
 [^robinson-1974]: Robinson, A., 1974, *Non-standard Analysis*, Amsterdam: North-Holland, revised edition.
 [^routley-1972]: Routley, R. and V. Routley, 1972, “The Semantics of First Degree Entailment”, *Noûs*, 6: 335–359.
 [^shapiro-2002]: Shapiro, S., 2002, “Inconsistency and Incompleteness”, *Mind*, 111: 817–832.
-[^shapiro-nd]: –––, “Structures and Logics: a Case for (a) Relativism”, *Erkenntnis*, 79: 309–329.
+[^shapiro-2014]: –––, 2014, “Structures and Logics: a Case for (a) Relativism”, *Erkenntnis*, 79: 309–329.
 [^tedder-2015]: Tedder, A., 2015,“Axioms for Finite Collapse Models of Arithmetic”, *The Review of Symbolic Logic*, 8(3): 529-539.
 [^van-2014]: Van Bendegem, J-P., 2014, “Inconsistency in Mathematics and the Mathematics of Inconsistency”, *Synthese*, 191(13), 3063-3078.
 [^weber-2010]: Weber, Z., 2010, “Transfinite Numbers in Paraconsistent Set Theory”, *The Review of Symbolic Logic*, 3(1): 71-92.
 [^weber-2012]: –––, 2012, “Transfinite Cardinals in Paraconsistent Set Theory”, *The Review of Symbolic Logic*, 5(2): 269–293.
 [^weber-2013]: –––, 2013, “Notes on Inconsistent Set Theory”, in K. Tanaka, F. Berto, E. Mares and F. Paoli (eds.), *Paraconsistency: Logic and Applications*, Dordrecht: Springer, 315–328.
-[^weber-2015]: ––– and Cotnoir, A.J., 2015, “Inconsistent Boundaries”, *Synthese*, 192: 1267–1294. doi:10.1007/511229-014-0614-2
+[^weber-2015]: ––– and Cotnoir, A.J., 2015, “Inconsistent Boundaries”, *Synthese*, 192: 1267–1294. doi:10.1007/s11229-014-0614-2
 [^weber-2017]: Weber, Z., and M. McKubre-Jordens, 2017, “Paraconsistent Measurement of the Circle”, *Australasian Journal of Logic*, 14(1): doi:10.26686/ajl.v14i1.4034
 
 ## 学术工具

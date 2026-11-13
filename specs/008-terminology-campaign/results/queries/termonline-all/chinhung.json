@@ -1,0 +1,33 @@
+{
+ "key": "chinhung",
+ "term": "Chinhŭng",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T18:15:09+00:00",
+ "status": "ok",
+ "note": "variant=Chinhŭng; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "NG2蛋白聚糖",
+   "en": "neuron-glial antigen 2 proteoglycan;NG2 proteoglycan",
+   "code": "6.0302",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_糖类_糖复合物_单糖衍生物"
+  },
+  {
+   "cn": "表面微机械加工术",
+   "en": "surface microma-chining",
+   "code": "09.360",
+   "standard": "光学名词",
+   "subject": "光学_光无源器件"
+  },
+  {
+   "cn": "NG2 蛋白聚糖",
+   "en": "NG2 proteoglycan",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

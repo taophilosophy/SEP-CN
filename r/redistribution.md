@@ -40,13 +40,13 @@
 
 ### 2.1 历时再分配
 
-基线分布可以 **历时地**（diachronically）规定——依据某个较早时间的分布。例如经济学家常说某些政策具有再分配效应：它们造成了不同于先前的持有模式。此意义上的财富再分配，只要持有模式（在某组主体中）因某项政策或其他社会机制而随时间变动，即告发生。按这一理解，判定再分配是否发生，须识别：（1）刻画初始分布的时间 *t*₁ 持有模式；（2）刻画后来分布的时间 *t*₂ 持有模式；以及 ^{}（3）某项政策或其他社会机制——无论有意与否——引起了 *t*₁ 与 *t*₂ 之间持有模式的变动。[^note-2]凡诉诸这种历时性基线的再分配，称为“历时再分配”。历时再分配的实现途径多样：社会制度的改革（如侵权法、竞争规则、贸易与税收政策、资本与劳动市场的结构）、主流社会风气的变迁，或政府对市场及其他领域的特定干预。
+基线分布可以 **历时地**（diachronically）规定——依据某个较早时间的分布。例如经济学家常说某些政策具有再分配效应：它们造成了不同于先前的持有模式。此意义上的财富再分配，只要持有模式（在某组主体中）因某项政策或其他社会机制而随时间变动，即告发生。按这一理解，判定再分配是否发生，须识别：（1）刻画初始分布的时间 *t*₁ 持有模式；（2）刻画后来分布的时间 *t*₂ 持有模式；以及（3）某项政策或其他社会机制——无论有意与否——引起了 *t*₁ 与 *t*₂ 之间持有模式的变动。[^note-2]凡诉诸这种历时性基线的再分配，称为“历时再分配”。历时再分配的实现途径多样：社会制度的改革（如侵权法、竞争规则、贸易与税收政策、资本与劳动市场的结构）、主流社会风气的变迁，或政府对市场及其他领域的特定干预。
 
 #### 2.1.1 有目的的历时再分配
 
 再分配也常被理解得更窄：仅指持有模式随时间的社会性改变，且这些改变得以实施（至少部分地），正是料到它们会带来这些改变。[^note-3]这一较窄意义，即所谓“有目的的历时再分配”。
 
-有目的的历时再分配通常与税收、产权制度的变动相联（当然不限于此）。市场结构、生产系统、货币政策、中小学教育公共资金的分配、最低工资水平的变动，都至少部分地以改变持有模式为目的而被采纳。例如 Alberto Alesina 等人（1999）在近期研究中论证：意大利把公共部门职位重度集中于较贫穷南方地区的做法是“再分配性的”——采纳它正是为了在南北之间造就更平等的经济机会分布。有目的的历时再分配，涉及这样一类制度与政策的成功实施：其意图正是改变诸主体的持有。按此解释，判定再分配是否发生须识别：（1）一组主体在时间 *t*₁ 的持有；（2）这些主体在政策或制度变动后（时间 *t*₂）的持有；（3）制定了引发持有变动的政策或制度变革的一个或一组行动者；（4）这些行动者促成变动的目的。
+有目的的历时再分配通常与税收、产权制度的变动相联（当然不限于此）。市场结构、生产系统、货币政策、中小学教育公共资金的分配、最低工资水平的变动，都至少部分地以改变持有模式为目的而被采纳。例如 Alberto Alesina 等人（1999）[^alesina-2001]在近期研究中论证：意大利把公共部门职位重度集中于较贫穷南方地区的做法是“再分配性的”——采纳它正是为了在南北之间造就更平等的经济机会分布。有目的的历时再分配，涉及这样一类制度与政策的成功实施：其意图正是改变诸主体的持有。按此解释，判定再分配是否发生须识别：（1）一组主体在时间 *t*₁ 的持有；（2）这些主体在政策或制度变动后（时间 *t*₂）的持有；（3）制定了引发持有变动的政策或制度变革的一个或一组行动者；（4）这些行动者促成变动的目的。
 
 识别此意义上的再分配是否发生并不总是容易：选择并实施政策者的目的往往不透明；政策与制度的变动出于集体决定，卷入其中者目的多样、常相冲突。例如美国前总统克林顿 1996 年的最低工资立法，看来边际地提高了收入分布最低五分位工人的持有；它是否属于有目的的历时再分配，则不那么清楚：它也许是改善最弱势者处境的总体规划之一环；也许并非代表劳动市场低端者的系统性干预，其意图只在安抚有组织的劳工与普遍不满的公众。还有些政策以改变持有模式为目的而被采纳，却未能奏效——或因政策自身的内在缺陷，或因其他因素的抵消性压力。
 
@@ -94,7 +94,7 @@
 
 #### 2.2.2 道德化的虚拟基线
 
-关于再分配的讨论常聚焦于征税的可容许性，于是人们可能忍不住径以税前收入为基线。然而并非所有的税都被一般认为再分配性。经济学家与法律理论家通常区分“**再分配性的**”税与“**受益**”税：受益税通常被理解为（Biehl 1982, Cappelen 2000）[^biehl-1982]使用费；亦即为使用公共与私人物品、服务及使能性社会条件（安全、法制、社会凝聚、公共卫生等）而缴纳的税，这些条件由政府或征税当局保障。
+关于再分配的讨论常聚焦于征税的可容许性，于是人们可能忍不住径以税前收入为基线。然而并非所有的税都被一般认为再分配性。经济学家与法律理论家通常区分“**再分配性的**”税与“**受益**”税：受益税通常被理解为（Biehl 1982, Cappelen 2001）[^biehl-1982][^cappelen-2001]使用费；亦即为使用公共与私人物品、服务及使能性社会条件（安全、法制、社会凝聚、公共卫生等）而缴纳的税，这些条件由政府或征税当局保障。
 
 这类税实质上是使用费。再分配性税收还通常与庇古税（得名于经济学家 Arthur Pigou）——或最恰当地称作“补偿”税——相区分：后者偿付人们以其活动对环境或他人造成的损害。[^note-11]碳排放税、海上倾倒税、不可再生资源开采税乃至货币交易税，都常被如此刻画。这一理解，称为“作为税收与转移的再分配”。
 
@@ -102,9 +102,9 @@
 
 有时，主张实行再分配性政策者所诉诸的基线，是 **倘若人人得其应得便会有的** 那组持有。于是，再分配被理解为侵犯产权的持有转移。当然，在此意义上，资源可以从纳税人处 **再** 分配给受领者，而纳税人可能从未实际占有过这些资源。人们通常只收到净收入工资，从未实际掌握毛收入；但按某些人的看法，他们对毛收入有权利主张，故毛净之差即代表着对其应得持有物的转移。这一再分配解释，称为“侵犯权利的转移”。判定其是否发生，显然取决于对产权之性质与范围的说明，须规定：（1）谁拥有该权利；（2）权利的对象是什么；（3）他人因该权利对权利人负有哪些义务。[^note-12]
 
-一个实践涉及作为税收与转移的再分配或侵犯权利，这一事实有基本的道德意义吗？多数人似乎同意有。诺齐克与其平等主义批评者的争论，一般正关乎：一项政策在这两种意义上是再分配性的，是否提供了拒绝它的 **决定性** 道德理由。Nozick（1974, p.ix）与其他自由至上主义者主张有——他反对说：“国家不得把它的强制机器用于让一些公民援助其他公民。”平等主义的批评者则坚持：这类实践或许是一种令人遗憾的必需。例如 Thomas Scanlon（1981, p. 199）论证：“或许正如诺齐克所说，存在一个从税收延伸到强迫劳动的干预连续统，每一项都比前一项多封闭一些选择。但存在这样一个连续统，并不意味着我们必须对它上面的任意两点漠然无别。”Thomas Nagel（1981, p. 201）补充：“突然征收某人一半储蓄，与预先给活动、支出和收入附加货币条件——税收的通常形式——之间有着巨大差别。后者对人格的侵害远不如前者粗暴。”
+一个实践涉及作为税收与转移的再分配或侵犯权利，这一事实有基本的道德意义吗？多数人似乎同意有。诺齐克与其平等主义批评者的争论，一般正关乎：一项政策在这两种意义上是再分配性的，是否提供了拒绝它的 **决定性** 道德理由。Nozick（1974, p.ix）与其他自由至上主义者主张有——他反对说：“国家不得把它的强制机器用于让一些公民援助其他公民。”平等主义的批评者则坚持：这类实践或许是一种令人遗憾的必需。例如 Thomas Scanlon（1981, p. 199）[^scanlon-1982]论证：“或许正如诺齐克所说，存在一个从税收延伸到强迫劳动的干预连续统，每一项都比前一项多封闭一些选择。但存在这样一个连续统，并不意味着我们必须对它上面的任意两点漠然无别。”Thomas Nagel（1981, p. 201）[^nagel-1982]补充：“突然征收某人一半储蓄，与预先给活动、支出和收入附加货币条件——税收的通常形式——之间有着巨大差别。后者对人格的侵害远不如前者粗暴。”
 
-然而争论双方都错了：他们径直假定福利与其他社会项目在这两种意义上是再分配性的。例如常有人说：福利与社会项目是税收与转移的显例，因为其岁入来自那些很少（若曾有的话）使用这些项目的人。但这假定了一种过窄的理解——人们如何能从这类项目受益；尤其忽视了项目提供给资助者的 **间接** 利益：提供体面社会最低保障的项目，可保护资助者免受更高的犯罪率；或促成更高的增长率、受教育程度更高的劳动力，以及种种使他们多方面受益的社会善（Murphy & Nagel 2003, 第四章）[^murphy-2003]。退一步，即便资助社会最低保障者能免于犯罪风险、不受这些项目的其他社会利益影响——这能表明他们所缴之税是再分配性的吗？也许；但同样可以说得通：正因为他们不支持这类项目，其所缴其余税款在资助一组制度安排，而这些安排 **损害** 着深陷匮乏的人。以一个市场经济为特征的社会系统为例，其结构倾向造成显著的不平等与贫困；在此系统下，许多人——并非自己的过错——无法获得基本的教育机会、医疗保健与满足最低营养所需的食物。有人会论证：只要境况极糟者未获补偿、也无人努力为其创造更多机会，他们就被这个社会系统 **损害** 了；那些以缴税、守规则等方式支持该系统的人，便是在损害而非仅仅未惠及较不利的参与者。因此，确保人们满足基本需要的税收，也许必须加到经济系统之上，以免该系统的施行构成对穷人的损害（Pogge 2002）。政治理论家已强调这一点：他们以预分配（predistribution）表述分配正义的要求（Hacker 2011, O’Neill and Williamson 2012, Thomas 2017）[^hacker-2011][^o’neil-2012][^thomas-2017]——呼吁纠正性行动，抵消政策变动的代价：那些变动利在巨富、削弱弱势者（例如削减其组织权利）。在此语境下，税收与转移可视为对权利预分配中倒退性变化的补偿——否则弱势者将受其害。
+然而争论双方都错了：他们径直假定福利与其他社会项目在这两种意义上是再分配性的。例如常有人说：福利与社会项目是税收与转移的显例，因为其岁入来自那些很少（若曾有的话）使用这些项目的人。但这假定了一种过窄的理解——人们如何能从这类项目受益；尤其忽视了项目提供给资助者的 **间接** 利益：提供体面社会最低保障的项目，可保护资助者免受更高的犯罪率；或促成更高的增长率、受教育程度更高的劳动力，以及种种使他们多方面受益的社会善（Murphy & Nagel 2003, 第四章）[^murphy-2003]。退一步，即便资助社会最低保障者能免于犯罪风险、不受这些项目的其他社会利益影响——这能表明他们所缴之税是再分配性的吗？也许；但同样可以说得通：正因为他们不支持这类项目，其所缴其余税款在资助一组制度安排，而这些安排 **损害** 着深陷匮乏的人。以一个市场经济为特征的社会系统为例，其结构倾向造成显著的不平等与贫困；在此系统下，许多人——并非自己的过错——无法获得基本的教育机会、医疗保健与满足最低营养所需的食物。有人会论证：只要境况极糟者未获补偿、也无人努力为其创造更多机会，他们就被这个社会系统 **损害** 了；那些以缴税、守规则等方式支持该系统的人，便是在损害而非仅仅未惠及较不利的参与者。因此，确保人们满足基本需要的税收，也许必须加到经济系统之上，以免该系统的施行构成对穷人的损害（Pogge 2002）。政治理论家已强调这一点：他们以预分配（predistribution）表述分配正义的要求（Hacker 2011, O’Neill and Williamson 2012, Thomas 2017）[^hacker-2011][^o-neil-2012][^thomas-2017]——呼吁纠正性行动，抵消政策变动的代价：那些变动利在巨富、削弱弱势者（例如削减其组织权利）。在此语境下，税收与转移可视为对权利预分配中倒退性变化的补偿——否则弱势者将受其害。
 
 举一个国际例子：有人支持 James Tobin（1996）对国际货币兑换征税的提议，理由是资本市场的现行结构，使重大冲击与金融危机比必要的更频繁、更痛苦；这类冲击常给更贫穷、更脆弱的经济体造成严重而持久的损害。按此看法，对这类交易征税并非再分配性的——其目的在纠正并最小化这些市场在无人管制时可能造成的损害。循此思路，受托宾启发的“罗宾汉税”——针对高风险金融交易——正在英国等国获得声势（见其他网络资源一节的罗宾汉税链接）。资源开采、燃料、碳乃至全球收入税，也有人类似主张。
 
@@ -114,7 +114,7 @@
 
 上述考量本身并未表明——正如 Liam Murphy 与 Thomas Nagel（2003）所论——“税收并未拿走纳税人事先拥有的东西；就评价税收系统的正义而言，税前收入没有作为道德基线的地位”。的确，自由至上主义者等仍可立论说发生了侵犯权利的再分配：只要他们规定并证成一些产生权利主张的规则；若被接受，这些规则 **就会** 让税前收入作为道德基线具有意义。例如他们可以论证：毛收入有道德意义，因为它显示了一个人的社会合作贡献在他人眼中的价值，或因为它（至少粗略地）代表着个人对总生产贡献的差异。[^note-16]
 
-借再分配概念，自由至上主义者与其平等主义批评者都使自由放任制度显得自然、显得规定了基线分布；于是双方似乎共有这样一个信念：平等主义者想通过再分配性转移 **事后** 修正这些分布。但这预设了自由至上主义者对权利生成过程的规定正确无误——正是该过程产生初始分布。特定形式的税收常被看作此意义上的再分配性——这归因于一个默会预设：某种非常特定的自由市场方案应当充当道德上受优待的基准。[^note-17]对称地，认为唯有更平等的社会安排才在伦理上可辩护者，会把自由放任市场方案下出现的分布看作涉及侵犯权利的再分配。这里同样：这场争论更恰当的理解，是关于权利的预分配怎样才算正确应当是什么（O’Neill and Williamson 2012）[^o’neil-2012]。
+借再分配概念，自由至上主义者与其平等主义批评者都使自由放任制度显得自然、显得规定了基线分布；于是双方似乎共有这样一个信念：平等主义者想通过再分配性转移 **事后** 修正这些分布。但这预设了自由至上主义者对权利生成过程的规定正确无误——正是该过程产生初始分布。特定形式的税收常被看作此意义上的再分配性——这归因于一个默会预设：某种非常特定的自由市场方案应当充当道德上受优待的基准。[^note-17]对称地，认为唯有更平等的社会安排才在伦理上可辩护者，会把自由放任市场方案下出现的分布看作涉及侵犯权利的再分配。这里同样：这场争论更恰当的理解，是关于权利的预分配怎样才算正确应当是什么（O’Neill and Williamson 2012）[^o-neil-2012]。
 
 ## 3 结论
 
@@ -158,7 +158,7 @@
 
 [^note-17]: G.A. Cohen 曾对这一预设的“自然性”给出如下解释：“凡是——仅就实情而言——我们的活动大量围绕其组织起来的结构，人们倾向于把它当作人类存在的一般结构的一部分。在资本主义社会，私有财产制度就是这样的结构。它被视为如此给定，以致它给自由设置的障碍无人察觉，而对它的任何触碰却动辄引人注意。”见 Cohen [1982], p. 14。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
@@ -171,7 +171,7 @@
 [^bhagwati-2000]: Bhagwati, Jagdish, 2000, *The Wind of a Hundred Days: How Washington Mismanaged Globalization*, Cambridge, MA: MIT Press.
 [^biehl-1982]: Biehl, Dieter, 1982, “A Taxonomy of International Taxation Principles,” *Public Finance*, 2: 189–205.
 [^brock-2008]: Brock, Gillian, 2008, “Taxation and Global Justice: Closing the Gap between Theory and Practice,” *Journal of Social Philosophy*, 39(2): 161–84.
-[^brody-1983]: Brody, Baruch, 1983, “Redistribution without Egalitarianism,”, *Social Philosophy and Policy*, 1(1): 71–87.
+[^brody-1983]: Brody, Baruch, 1983, “Redistribution without Egalitarianism,” *Social Philosophy and Policy*, 1(1): 71–87.
 [^caney-2005]: Caney, Simon, 2005, *Justice Beyond Borders: A Global Political Theory*, New York: Oxford University Press.
 [^cappelen-2001]: Cappelen, Alexander, 2001, “The Moral Rationale for International Fiscal Law,” *Ethics & International Affairs*, 15(1): 97–110.
 [^cohen-1982]: Cohen, G.A., 1982, “Capitalism, the Proletarian and Freedom,” in Alan Ryan (ed.), *The Idea of Freedom*, New York: Oxford University Press.
@@ -179,10 +179,10 @@
 [^fraser-2003]: Fraser, Nancy, and Axel Honneth, 2003, *Redistribution or Recognition?: A Political Philosophical Exchange*, London: Verso.
 [^freeman-1999]: Freeman, Richard, 1999, *Solving the New Inequality*, Boston: Beacon Press.
 [^hacker-2011]: Hacker, Jacob, 2011, “The Institutional Foundations of Middle Class Democracy,” in Olaf Cramme (ed.), *Priorities for a new political economy: Memos to the left*, London: Policy Network, [available online](https://web.archive.org/web/20110806110958/http://www.policy-network.net/publications_download.aspx?ID=7447), .
-[^hale-1989]: Hale, David, 1989, “Picking up Reagan’s Foreign Policy Tab,”, *Foreign Policy*, 74: 145–167.
+[^hale-1989]: Hale, David, 1989, “Picking up Reagan’s Foreign Policy Tab,” *Foreign Policy*, 74: 145–167.
 [^hinsch-2001]: Hinsch, Wilfried, 2001, “Global Distributive Justice,” *Metaphilosophy*, 32(1–2): 58–78.
 [^holmes-1999]: Holmes, Stephen, and Cass Sunstein, 1999, *The Cost of Rights, Why Liberty Depends on Taxes*, New York: W.W. Norton.
-[^kuo-1984]: Kuo, Shirley, Ranis, Gustav, and Fei, John, 1984, “Rapid Growth with Improved Income Distribution: the Taiwan Success Story” in Mitchel Selgson (ed.), *The Gap Between the Rich and the Poor*, Boulder, CO: Westview.
+[^kuo-1984]: Kuo, Shirley, Ranis, Gustav, and Fei, John, 1984, “Rapid Growth with Improved Income Distribution: the Taiwan Success Story” in Mitchell Seligson (ed.), *The Gap Between the Rich and the Poor*, Boulder, CO: Westview.
 [^miller-2007]: Miller, David, 2007, *National Responsibility and Global Justice*, Oxford: Oxford University Press.
 [^murphy-2001]: Murphy, Liam and Nagel, Thomas, 2001, “Taxes, Redistribution and Public Provision,” *Philosophy and Public Affairs*, 30(1): 53–71.
 [^murphy-2003]: –––, 2003, *The Myth of Ownership*, New York: Oxford University Press.
@@ -191,7 +191,7 @@
 [^narveson-2002]: –––, 2002, *Respecting Persons in Theory and Practice*, Boston: Rowman and Littlefield.
 [^narveson-2003]: –––, 2003, “We Don’t Owe Them a Thing! A Tough Minded but Soft-Hearted View of Aid to the Faraway Needy,” *The Monist*, 86(3): 419–33.
 [^nozick-1974]: Nozick, Robert, 1974, *Anarchy, State, and Utopia*, New York: Basic Books.
-[^o’neil-2012]: O’Neil, Martin, and Williamson, Thad, 2012 “The promise of pre-distribution,” *Policy Network*, published online 28 September 2012, [available online](http://www.academia.edu/3620045/_The_Promise_of_Predistribution_Policy_Network_2012_).
+[^o-neil-2012]: O’Neill, Martin, and Williamson, Thad, 2012 “The promise of pre-distribution,” *Policy Network*, published online 28 September 2012, [available online](http://www.academia.edu/3620045/_The_Promise_of_Predistribution_Policy_Network_2012_).
 [^pogge-1998]: Pogge, Thomas, 1998, “A Global Resources Dividend,” in Crocker, David A. and Toby Linden, eds, *The Ethics of Consumption: The Good Life, Justice, and Global Stewardship*, New York: Rowman & Littlefield.
 [^pogge-1994]: –––, 1994, “An Egalitarian Law of Peoples,” *Philosophy & Public Affairs*, 23(3): 195–224.
 [^pogge-1989]: –––, 1989, *Realizing Rawls*, Ithaca: Cornell University Press, chapters 1–2.

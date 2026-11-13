@@ -432,7 +432,7 @@
 | ativyāpti | अतिव्याप्ति | 过遍 | early-modern-india 首译 | 因明定义过失义通行（over-covering；与 avyāpti 不遍对举）；凭证 2026-11-10 | 2026-11-10 |
 | atlas | — | 图册 | geometry-19th.supplement | 微分几何通行译名（坐标卡之集）；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | ātmadṛṣṭi | — | 我见 | yogacara 首译 | 汉传唯识学四烦恼之一；原文列待考；凭证 2026-11-11 | 2026-11-11 |
-| ātmamāna | — | 我慢 | yogacara 首译 | 汉传唯识学四烦恼之一；与 ahaṃkāra 同形，正文括注原词消歧；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| ātmamāna | आत्ममान | 我慢 | yogacara 首译 | 汉传唯识学四烦恼之一；与 ahaṃkāra 同形，正文括注原词消歧；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》“Ātmamāna”条（2026-11-14 查，凭证 orig-verify-2026-11-14-b6.tsv） | 2026-11-14 |
 | ātmamoha | — | 我痴 | yogacara 首译 | 汉传唯识学四烦恼之一；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | ātman | आत्मन् | 自我（我） | early-modern-india | 印度哲学通行（胜论第九实；佛典古译“我”）；凭证 2026-11-10 | 2026-11-10 |
 | ātmasneha | — | 我爱 | yogacara 首译 | 汉传唯识学四烦恼之一；原文列待考；凭证 2026-11-11 | 2026-11-11 |
@@ -3293,7 +3293,7 @@
 | mathematical fuzzy logic | — | 数学模糊逻辑 | logic-fuzzy | Hájek 1998 以来的学科名通行译法；凭证 2026-11-09 | 2026-11-09 |
 | mathematical logic | — | 数理逻辑 | 语料回收 | 审定名词库（termonline-all·数学名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
 | mathematical pluralism | — | 数学多元主义 | 语料回收（mathematics-inconsistent 首译） | 数学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
-| mātra | — | 唯 | yogacara 首译 | 梵语“仅、只”（cittamātra／vijñaptimātra 构词成分）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| mātra | मात्र | 唯 | yogacara 首译 | 梵语“仅、只”（cittamātra／vijñaptimātra 构词成分）；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》／Apte《实用梵英辞典》“Mātra”条（2026-11-14 查，凭证 orig-verify-2026-11-14-b6.tsv） | 2026-11-14 |
 | matter | — | 质料（亚里士多德 hylê 语境；近代物理语境译“物质”） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | matter field | — | 物质场 | spacetime-holearg | A 档（物理学通行译名） | 2026-10-28 |
 | matter theory (of evil) | — | 质料论 | evil-kinds-origins | 本词条译名 | 2026-11-12 |
@@ -3720,10 +3720,10 @@
 | nijiriguchi | 躙口 | 躙口 | japanese-aesthetics | 学界惯例（日本茶室研究通行译法“躙口”） | 2026-11-02 |
 | nilpotent | — | 幂零 | peirce-benjamin | 抽象代数通行译名（与“幂等”idempotent 对举）；凭证 2026-11-09 | 2026-11-09 |
 | nimitta-kāraṇa | निमित्तकारण | 工具因 | early-modern-india | 胜论三种因之一（instrumental cause）；凭证 2026-11-11 | 2026-11-11 |
-| nirākāra | — | 无相 | yogacara 首译 | 汉传量论研究通行（无相说，与 sākāra 有相相对）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| nirākāra | निराकार | 无相 | yogacara 首译 | 汉传量论研究通行（无相说，与 sākāra 有相相对）；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》／Apte《实用梵英辞典》“Nirākāra”条（2026-11-14 查，凭证 orig-verify-2026-11-14-b6.tsv） | 2026-11-14 |
 | nirjarā | निर्जरा | 灭除 | jaina-philosophy | 耆那教学界通行（业质渐次脱离） | 2026-11-08 |
 | Nirmala | Nirmalā | 尼尔马拉派 | 首译（sikh-philosophy） | 锡克研究通行（高等学府 akhāṛā 传承）；凭证 2026-11-09 | 2026-11-09 |
-| nirodhasamāpatti | — | 灭尽定 | yogacara 首译 | 汉传阿毗达磨与唯识学通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| nirodhasamāpatti | निरोधसमापत्ति | 灭尽定 | yogacara 首译 | 汉传阿毗达磨与唯识学通行；凭证 2026-11-11；原文列联网查证：Edgerton《佛教混合梵语辞典》“Nirodhasamāpatti”条（2026-11-14 查，凭证 orig-verify-2026-11-14-b6.tsv） | 2026-11-14 |
 | nirvāṇa | निर्वाण | 涅槃 | yogacara 首译 | 汉传佛典千年通行译名；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》nirvāṇa 条（2026-11-13 查，凭证 orig-verify-2026-11-13.tsv） | 2026-11-13 |
 | nirvikalpaka | निर्विकल्पक | 无分别（现量） | early-modern-india | 因明传统译名（与 savikalpaka 有分别对举）；凭证 2026-11-10 | 2026-11-10 |
 | niṣprakāraka | निष्प्रकारक | 无分别（同义） | early-modern-india | nirvikalpaka 同义形（non-qualificative）；凭证 2026-11-11 | 2026-11-11 |
@@ -6115,7 +6115,7 @@
 | variance | — | 方差 | risk | 审定名词库统计学术语通行译名；凭证 2026-11-09 | 2026-11-09 |
 | variation (lunar) | — | 二均差 | newton-principia | 月球运动理论通行（月球不等项之一）；凭证 2026-11-11 | 2026-11-11 |
 | varietas / falsitas | — | 多样性／虚假性 | gianfrancesco-pico | 源文拉丁对举，正文保留拉丁原词并括注；Gianfrancesco 论证核心 | 2026-11-09 |
-| vāsanā | — | 习气（熏习） | yogacara 首译 | 汉传唯识学通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| vāsanā | वासना | 习气（熏习） | yogacara 首译 | 汉传唯识学通行；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》／Edgerton《佛教混合梵语辞典》“Vāsanā”条（2026-11-14 查，凭证 orig-verify-2026-11-14-b6.tsv） | 2026-11-14 |
 | Vatican Sayings | — | 《梵蒂冈格言》 | epicurus | 本词条译名（*VS*） | 2026-11-12 |
 | vector | — | 矢量 | qm | 物理学通行（数学名词作“向量”；本库沿 qt 批“矢量空间”用法）；凭证 2026-11-11 | 2026-11-11 |
 | vector space | — | 矢量空间 | qm | 学界惯例（数学名词作“向量空间”；审定库检索无命中）；凭证 2026-11-11 | 2026-11-11 |
@@ -6145,14 +6145,14 @@
 | vicarious harm | — | 替代性伤害 | organ-donation | 学界惯例（Feinberg 伤害理论中译；凭证 2026-11-06） | 2026-11-06 |
 | Vienna Circle | Wiener Kreis | 维也纳学派 | 首译（stebbing） | 学界通行汉译；凭证 2026-11-09 | 2026-11-09 |
 | vijñāna | विज्ञान | 识（佛教） | 语料回收 | 审定名词库（termonline-all·哲学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
-| vijñānavāda | — | 唯识论 | yogacara 首译 | 学界通行（vijñāna 识＋vāda 论）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| vijñānavāda | विज्ञानवाद | 唯识论 | yogacara 首译 | 学界通行（vijñāna 识＋vāda 论）；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》／Böhtlingk–Roth《大彼得堡梵语词典》“Vijñānavā（2026-11-14 查，凭证 orig-verify-2026-11-14-b6.tsv） | 2026-11-14 |
 | vijñapti | विज्ञप्ति | 了别 | yogacara 首译 | 玄奘译“了别”（识之了别义；vijñaptimātra 唯识）；凭证 2026-11-11；原文列联网查证：Edgerton《佛教混合梵语辞典》vijñapti 条（Cologne 数字词典天城体词头渲染）（2026-11-13 查，凭证 orig-verify-2026-11-13-b4.tsv） | 2026-11-13 |
 | vijñaptimātra | — | 唯识 | yogacara 首译 | 汉传唯识学千年通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | vikalpa | — | 分别（虚妄分别） | yogacara 首译 | 汉传唯识学通行；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | Viṃśikā | — | 《唯识二十论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | vinaya | विनय | 毗奈耶 | gelukpa | 佛学界通行译名（律藏） | 2026-11-01 |
 | violinist case | — | 小提琴家案例 | 语料回收（标题词） | 学界惯例（汤姆森思想实验（abortion 词条））；凭证 2026-11-01 | 2026-11-01 |
-| vipāka | — | 异熟 | yogacara 首译 | 汉传唯识学千年通行译名；原文列待考；凭证 2026-11-11 | 2026-11-11 |
+| vipāka | विपाक | 异熟 | yogacara 首译 | 汉传唯识学千年通行译名；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》／Edgerton《佛教混合梵语辞典》“Vipāka”条（2026-11-14 查，凭证 orig-verify-2026-11-14-b6.tsv） | 2026-11-14 |
 | vipakṣa | विपक्ष | 异品 | early-modern-india | 因明传统译名（disagreeing case；与 sapakṣa 同品对举）；凭证 2026-11-10 | 2026-11-10 |
 | viparyaya | विपर्यय | 假（颠倒） | early-modern-india | 因明四颠倒通行（false cognition；认知分类表）；凭证 2026-11-10；认知分类表作“假”，因明旧译“颠倒”备查（校 2026-11-11）| 2026-11-10 |
 | Vipassana | विपस्सना | 内观（保留拉丁 vipassanā） | religious-experience | 学界通行（上座部佛教） | 2026-11-05 |

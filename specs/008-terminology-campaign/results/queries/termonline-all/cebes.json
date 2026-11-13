@@ -1,0 +1,33 @@
+{
+ "key": "cebes",
+ "term": "Cebes",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T17:45:07+00:00",
+ "status": "ok",
+ "note": "variant=Cebes; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "谷神星",
+   "en": "Ceres",
+   "code": "10.047",
+   "standard": "天文学名词",
+   "subject": "天文学_太阳系"
+  },
+  {
+   "cn": "综合回声测距与测深",
+   "en": "combined echo ranging and echo sounding,CERES",
+   "code": "08.0666",
+   "standard": "石油名词",
+   "subject": "石油_海洋石油技术_海上油田建设与生产设施"
+  },
+  {
+   "cn": "谷神星(小行星1号)",
+   "en": "Ceres",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
