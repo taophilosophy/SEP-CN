@@ -182,11 +182,10 @@ Mark Csikszentmihalyi（2004）把它们描述为自我修养实践的“具身�
 
 ## 学术工具
 
-> | | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=chinese-phil-medicine). |
-> | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/chinese-phil-medicine/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=chinese-phil-medicine&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | | [Enhanced bibliography for this entry](http://philpapers.org/sep/chinese-phil-medicine/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=chinese-phil-medicine)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/chinese-phil-medicine/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/chinese-phil-medicine/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=chinese-phil-medicine&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](http://philpapers.org/sep/chinese-phil-medicine/) 查看本词条的增强文献目录及其数据库链接。
 
 ## 其他网络资源
 

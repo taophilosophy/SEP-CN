@@ -90,9 +90,9 @@ Philippe Vallat（2015a, 2015b, 2016）最近揭示的材料可以证实后一�
 
 **以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
 
-### Primary sources and translations
+### 原始文献与译本（Primary sources and translations）
 
-#### Works by Abū Bakr Muhammad al-Rāzī
+#### Abū Bakr Muhammad al-Rāzī 的著作（Works by Abū Bakr Muhammad al-Rāzī）
 
 | [RF] | al-Rāzī, 1939, *Rasāʾil falsafiyya* (*The Philosophical Way of Life*), Paul Kraus (ed.), Cairo: Paul Barbey. |
 | --- | --- |
@@ -101,7 +101,7 @@ Philippe Vallat（2015a, 2015b, 2016）最近揭示的材料可以证实后一�
 | [PWL] | al-Rāzī, selections from several works, in *Classical Arabic Philosophy: an Anthology of Sources*, Jon McGinnis and David C. Reisman (trans.), Indianapolis, IN: Hackett, 2007, 36–43. |
 | [DG] | al-Rāzī, Abū Bakr, *Doutes sur Galien* (Scientia Graeco-Arabica, 25), Pauline Koetschet (ed./trans.), Berlin: de Gruyter, 2019. Arabic critical edition with French translation. |
 
-#### Works by other authors
+#### 其他作者的著作（Works by other authors）
 
 | [AHR] | Abū Ḥātim al-Rāzī, *The Proofs of Prophecy: A Parallel English-Arabic Text* (*Aʻlām al-nubūwah*), Tarif Khalidi, Provo, UT: Brigham Young University Press, 2011. |
 | --- | --- |
@@ -112,9 +112,9 @@ Philippe Vallat（2015a, 2015b, 2016）最近揭示的材料可以证实后一�
 | [CTP] | Galen, *Compendium Timaei Platonis*, Paul Kraus and Richard Walzer, London: Warburg Institute, 1951. |
 | [HDK] | Ḥamid al-Din al-Kirmāni, *al-Aqwāl al-dhahabiyya*, ed. S. al-Sāwi, Tehran: Anjuman-e Shāhanshāhī-e Falsafa-e Īrān, 1977. |
 | [NK] | Nāṣir-e Khosraw, 2014, *Zād al-musāfir* (*Provision for the Traveler*), Tehran. |
-| [GP] | Maimonides, *The Guide of the Perplexed*, trans. S. Pines, Chicago: University of Chicago Press, 1963. |
+| [GP] | Maimonides, *The Guide of the Perplexed*（《迷途指津》）, trans. S. Pines, Chicago: University of Chicago Press, 1963. |
 
-### Secondary Sources
+### 二手文献（Secondary Sources）
 
 [^adamson-2008a]: Adamson, Peter, 2008a, “Platonic Pleasures in Epicurus and al-Rāzī”, in Adamson 2008b: 71–94.
 

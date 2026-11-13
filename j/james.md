@@ -2,7 +2,7 @@
 
 *首次发表于 2000 年 9 月 7 日；2021 年 11 月 3 日实质修订。*
 
-![威廉·詹姆斯照片](../yuanwen/assets/james/james.gif)（约 1895 年，载《威廉·詹姆斯书信集》（*The Letters of William James*），亨利·詹姆斯（Henry James）编，波士顿，1920 年）
+![威廉·詹姆斯照片](../assets/james/james.gif)（约 1895 年，载《威廉·詹姆斯书信集》（*The Letters of William James*），亨利·詹姆斯（Henry James）编，波士顿，1920 年）
 
 威廉·詹姆斯是一位原创思想家，其思考既在生理学、心理学与哲学各学科之内展开，又贯穿于诸学科之间。他那部一千二百页的巨著《心理学原理》（1890），熔生理学、心理学、哲学与个人反思于一炉；“思想流”以及婴儿对世界的印象——“一大片繁盛、嗡嗡作响的混乱”（PP 462）——等观念，皆出自此书。书中蕴含着实用主义与现象学的种子，影响了欧美数代思想家，包括埃德蒙德·胡塞尔（Edmund Husserl）、伯特兰·罗素（Bertrand Russell）、约翰·杜威（John Dewey）与路德维希·维特根斯坦（Ludwig Wittgenstein）。詹姆斯曾就读于哈佛的劳伦斯科学学院与医学院，但他的著述从一开始就兼有哲学与科学的双重品格。《关于斯宾塞“心灵即对应”概念的几点评论》（1878）与《理性感》（1879、1882）预示了他后来的实用主义与多元主义，并首次表述了他的观点：哲学理论是哲学家气质的反映。
 
@@ -321,11 +321,10 @@
 
 ## 学术工具
 
-> | | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=james). |
-> | --- | ------------------------------------------------------------------------------------------------------------------------ |
-> | | [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/james/)（[SEP 之友协会](https://leibniz.stanford.edu/friends/)）。 |
-> | | [查找与本词条相关的话题与思想家](https://www.inphoproject.org/entity?sep=james&redirect=True)（互联网哲学本体论项目，InPhO）。 |
-> | | [本词条的增强文献目录](https://philpapers.org/sep/james/)（[PhilPapers](https://philpapers.org/)），含其数据库链接。 |
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=james)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/james/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/james/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=james&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/james/) 查看本词条的增强文献目录及其数据库链接。
 
 ## 其他网络资源
 

@@ -332,11 +332,10 @@ Sandel（2007，52–7）的相关关切是：克隆以及一般的增强技术�
 
 ## 学术工具
 
-> | | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=cloning)。 |
-> | --- | --- |
-> | | 在 [SEP 学会之友（Friends of the SEP Society）](https://leibniz.stanford.edu/friends/) 预览本词条的 [PDF 版本](https://leibniz.stanford.edu/friends/preview/cloning/)。 |
-> | | 在互联网哲学本体论项目（InPhO）[查找与本词条相关的话题与思想家](https://www.inphoproject.org/entity?sep=cloning&redirect=True)。 |
-> | | 在 [PhilPapers](https://philpapers.org/) 查看本词条的[增强文献目录](https://philpapers.org/sep/cloning/)及其数据库链接。 |
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=cloning)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/cloning/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=cloning&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
 
 ## 其他网络资源
 

@@ -221,7 +221,7 @@ $t_i$ 起、随 $A_i$ 而来的行动序列，好于 $t_i$ 起、随相对于 $t
 
 *Figure 1:*
 
-![a decision tree: link to extended description below](../assets/actualism-possibilism-ethics/figure1.svg)
+![决策树，扩展描述见下方](../assets/actualism-possibilism-ethics/figure1.svg)
 
 图 1：［图 1 的扩展描述见补充材料。］
 

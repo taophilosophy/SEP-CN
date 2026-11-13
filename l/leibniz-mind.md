@@ -127,7 +127,7 @@
 | **LA** | *The Leibniz-Arnauld Correspondence*. Translated and edited by H.T. Mason. Manchester: Manchester UP, 1967. |
 | **MP** | *Philosophical Writings*. Translated and edited by Mary Morris and G.H.R. Parkinson. London: Dent, 1973. |
 | **P** | *Leibniz: Logical Papers*. Translated and edited by G.H.R. Parkinson. Oxford: Oxford UP, 1966. |
-| **RB** | *New Essays on Human Understanding*. Translated and edited by Peter Remnant and Jonathon Bennett. Cambridge: Cambridge UP, 1982. |
+| **RB** | *New Essays on Human Understanding*（《人类理智新论》）. Translated and edited by Peter Remnant and Jonathon Bennett. Cambridge: Cambridge UP, 1982. |
 | **S** | *Monadology and Other Philosophical Essays*. Translated and edited by Paul Schrecker and Anne Martin Schrecker. New York: Bobbs-Merrill Co., 1965. |
 | **W&F** | *Leibniz’s ‘New System’ and Associated Contemporary Texts*. Edited and translated by R.S. Woolhouse and Richard Francks. Oxford: Clarendon, 1997. |
 | **W** | *Leibniz: Selections*. Edited by Philip P. Wiener. New York: Charles Scribner’s Sons, 1951. |

@@ -100,9 +100,9 @@
 
 ### Primary Sources
 
-| **[P]** | *Philosophiae Naturalis Principia Mathematica* (“*Mathematical Principles of Natural Philosophy*”), London, 1687; Cambridge, 1713; London, 1726. *Isaac Newton's Philosophiae Naturalis Principia Mathematica, the Third Edition with Variant Readings*, ed. A. Koyré and I. B. Cohen, 2 vols., Cambridge: Harvard University Press and Cambridge: Cambridge University Press, 1972. *The Principia: Mathematical Principles of Natural Philosophy: A New Translation*, tr. I. B. Cohen and Anne Whitman, preceded by “A Guide to Newton's*Principia*” by I. B. Cohen, Berkeley: University of California Press, 1999. |
+| **[P]** | *Philosophiae Naturalis Principia Mathematica* (“*Mathematical Principles of Natural Philosophy*”)（《自然哲学之数学原理》）, London, 1687; Cambridge, 1713; London, 1726. *Isaac Newton's Philosophiae Naturalis Principia Mathematica, the Third Edition with Variant Readings*, ed. A. Koyré and I. B. Cohen, 2 vols., Cambridge: Harvard University Press and Cambridge: Cambridge University Press, 1972. *The Principia: Mathematical Principles of Natural Philosophy: A New Translation*, tr. I. B. Cohen and Anne Whitman, preceded by “A Guide to Newton's*Principia*” by I. B. Cohen, Berkeley: University of California Press, 1999. |
 | --- | --- |
-| **[O]** | *Opticks or A Treatise of the Reflections, Refractions, Inflections & Colors of Light***,** London, 1704 (English)*,* 1706 (Latin), 1717/18 (English). Now available under the same title, but based on the fourth posthumous edition of 1730, New York: Dover Publications, 1952. |
+| **[O]** | *Opticks or A Treatise of the Reflections, Refractions, Inflections & Colors of Light*（《光学》）**,** London, 1704 (English)*,* 1706 (Latin), 1717/18 (English). Now available under the same title, but based on the fourth posthumous edition of 1730, New York: Dover Publications, 1952. |
 | **[A]** | *The Chronology of Ancient Kingdoms Amended*, ed. John Conduit, London,1728. |
 | **[S]** | *The System of the World,* London, 1728. The original version of the third book of the *Principia*, retitled by the translator and reissued in reprint form, London: Dawsons of Pall Mall, 1969. |
 | **[O]** | *Observations upon the Prophecies of Daniel and the Apocalypse of St John*, ed. Benjamin Smith, London and Dublin,1733. |

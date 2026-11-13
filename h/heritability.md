@@ -38,7 +38,7 @@ $$ \begin{array}{cccl} & \rE a & \rE b & \text{Height results} \ldots \\ \hline 
 
 图 2
 
-![image](../yuanwen/assets/heritability/heritability-height.png)
+![中亲身高与中子代身高的回归图示](../assets/heritability/heritability-height.png)
 
 图 2
 
@@ -84,7 +84,7 @@ $$\tag{5} h^2 = \frac{R}{S} $$
 
 图 3
 
-![ACE model diagram](../yuanwen/assets/heritability/fig2.png)
+![ACE 模型图示](../assets/heritability/fig2.png)
 
 图 3
 
@@ -152,7 +152,7 @@ SNP 遗传力有几个值得注意的特点。其一，它不把分析局限于�
 
 图 4
 
-![norm of reaction graphs](../yuanwen/assets/heritability/Lewontin-norms.jpg)
+![反应规范曲线图示](../assets/heritability/Lewontin-norms.jpg)
 
 图 4
 

@@ -24,7 +24,7 @@
 
 *Figure 1*
 
-![a series of nodes from left to right. 'Information source' with arrow to 'Transmitter' (combo labeled Message) with arrow labeled 'Signal' to an unlabeled node with another arrow labeled 'Received Signal' with arrow to 'Receiver' with arrow to 'Destination' (last two also labeled 'Message'). A node below labeled 'Noise Source' has an arrow to the unlabeled node in the middle.](../assets/information-biological/figure1.svg)
+![自左向右的节点序列：“信息源”以箭头指向“发送器”（与“消息”合并标注），经标注“信号”的箭头指向一个未标注节点；该节点再经标注“接收信号”的箭头指向“接收器”，后者以“消息”标注指向“目的地”。下方标注“噪声源”的节点以箭头指向中间的未标注节点。](../assets/information-biological/figure1.svg)
 
 图 1
 

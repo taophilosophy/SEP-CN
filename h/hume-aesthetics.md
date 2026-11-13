@@ -186,12 +186,12 @@
 
 ### Hume’s Works
 
-| [T] | *A Treatise of Human Nature*, edited by L. A. Selby-Bigge, 2nd ed. revised by P.H. Nidditch, Oxford: Clarendon Press, 1975. [Page references above are to this edition.] |
+| [T] | *A Treatise of Human Nature*（《人性论》）, edited by L. A. Selby-Bigge, 2nd ed. revised by P.H. Nidditch, Oxford: Clarendon Press, 1975. [Page references above are to this edition.] |
 | --- | --- |
-|   | *A Treatise of Human Nature*, edited by David Fate Norton and Mary J. Norton, Oxford/New York: Oxford University Press, 2000. |
-| [EHU] | *An Enquiry concerning Human Understanding*, in *Enquiries concerning Human Understanding and concerning the Principles of Morals*, edited by L. A. Selby-Bigge, 3rd edition revised by P. H. Nidditch, Oxford: Clarendon Press, 1975. |
+|   | *A Treatise of Human Nature*（《人性论》）, edited by David Fate Norton and Mary J. Norton, Oxford/New York: Oxford University Press, 2000. |
+| [EHU] | *An Enquiry concerning Human Understanding*（《人类理解研究》）, in *Enquiries concerning Human Understanding and concerning the Principles of Morals*, edited by L. A. Selby-Bigge, 3rd edition revised by P. H. Nidditch, Oxford: Clarendon Press, 1975. |
 | [EHUa] | *An Enquiry concerning Human Understanding*, edited by Tom L. Beauchamp, Oxford/New York: Oxford University Press, 1999. |
-| [EPM] | *An Enquiry concerning the Principles of Morals*, in *Enquiries concerning Human Understanding and concerning the Principles of Morals*, edited by L. A. Selby-Bigge, 3rd edition revised by P. H. Nidditch, Oxford: Clarendon Press, 1975.[Page references above are to this edition.] |
+| [EPM] | *An Enquiry concerning the Principles of Morals*（《道德原则研究》）, in *Enquiries concerning Human Understanding and concerning the Principles of Morals*, edited by L. A. Selby-Bigge, 3rd edition revised by P. H. Nidditch, Oxford: Clarendon Press, 1975.[Page references above are to this edition.] |
 |   | *Enquiry concerning the Principles of Morals*, edited by Tom L. Beauchamp, Oxford/New York: Oxford University Press, 1998. |
 | [HL] | *The Letters of David Hume*, edited by J.Y.T. Greig, 2 volumes, Oxford: Clarendon Press, 1932. |
 | [PW] | *The Philosophical Works of David Hume*, edited by T. H. Green and T. H. Grose. 4 volumes, London: Longman, Green, 1874–75. [Page references below to individual essays are to volume 3 of this edition.] |

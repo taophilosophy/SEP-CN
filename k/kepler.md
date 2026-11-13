@@ -30,7 +30,7 @@
 
 **图 1。**
 
-![figure 1](../yuanwen/assets/kepler/figure1.jpg)
+![开普勒模型图示：五种正多面体内接于行星假想球之间](../assets/kepler/figure1.jpg)
 
 图 1。《宇宙的奥秘》中的表 3：开普勒的模型显示五种正多面体内接于诸行星假想球之间的情形（参 KGW 1, pp. 26–27）。
 
@@ -100,7 +100,7 @@
 
 **图 2。**
 
-![figure 2](../yuanwen/assets/kepler/figure2.jpg)
+![开普勒椭圆第一定律与面积第二定律图示](../assets/kepler/figure2.jpg)
 
 图 2。开普勒的椭圆第一定律与面积第二定律（现代表示，偏心率大大夸大）。
 

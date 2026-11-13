@@ -19,7 +19,7 @@
 
 **图 1。**
 
-![图 1](../yuanwen/assets/repugnant-conclusion/fig1.png)
+![图 1](../assets/repugnant-conclusion/fig1.png)
 
 图 1
 
@@ -29,7 +29,7 @@
 
 **图 2。**
 
-![图 2](../yuanwen/assets/repugnant-conclusion/fig2.png)
+![图 2](../assets/repugnant-conclusion/fig2.png)
 
 图 2
 

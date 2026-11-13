@@ -149,7 +149,7 @@
 
 | [LLP] | *Logical Papers*. Translated and edited by G. H. R. Parkinson. Oxford: Clarendon Press, 1966. |
 | --- | --- |
-| [RB] | *New Essays on Human Understanding*. Translated by Peter Remnant and Jonathan Bennett. Cambridge: Cambridge University Press, 1981. |
+| [RB] | *New Essays on Human Understanding*（《人类理智新论》）. Translated by Peter Remnant and Jonathan Bennett. Cambridge: Cambridge University Press, 1981. |
 | [AG] | *Philosophical Essays*. Translated and edited by Roger Ariew and Daniel Garber. Indianapolis: Hackett, 1989. |
 | [L] | *Philosophical Papers and Letters*. Edited and translated by Leroy E. Loemker. 2d ed., Dordrect: D. Reidel, 1969. |
 | [G] | *Die philosophischen Schriften*. 7 vols. Edited by C. I. Gerhardt. Berlin, 1875–90. Reprint, Hildesheim: Georg Olms, 1965. Cited by volume and page number |

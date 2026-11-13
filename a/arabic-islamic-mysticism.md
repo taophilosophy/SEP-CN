@@ -158,11 +158,10 @@
 
 ## 学术工具
 
-> | | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=arabic-islamic-mysticism)。 |
-> | --- | --- |
-> | | 在 [Friends of the SEP Society](https://leibniz.stanford.edu/friends/) 预览本词条的 [PDF 版](https://leibniz.stanford.edu/friends/preview/arabic-islamic-mysticism/)。 |
-> | | 在 Internet Philosophy Ontology Project (InPhO) [查找与本词条相关的主题与思想家](https://www.inphoproject.org/entity?sep=arabic-islamic-mysticism&redirect=True)。 |
-> | | 在 [PhilPapers](https://philpapers.org/) 查阅本词条的[增强书目](https://philpapers.org/sep/arabic-islamic-mysticism/)，含数据库链接。 |
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=arabic-islamic-mysticism)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/arabic-islamic-mysticism/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=arabic-islamic-mysticism&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
 
 ## 其他网络资源
 

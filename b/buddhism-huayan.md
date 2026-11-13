@@ -350,11 +350,10 @@
 
 ## 学术工具
 
-> | | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=buddhism-huayan). |
-> | :---: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-> | | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/buddhism-huayan/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=buddhism-huayan&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | | [Enhanced bibliography for this entry](https://philpapers.org/sep/buddhism-huayan/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=buddhism-huayan)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/buddhism-huayan/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/buddhism-huayan/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=buddhism-huayan&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/buddhism-huayan/) 查看本词条的增强文献目录及其数据库链接。
 
 ## 其他网络资源
 

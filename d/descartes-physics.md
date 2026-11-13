@@ -68,7 +68,7 @@
 
 图 1.
 
-![Refract](../assets/descartes-physics/refract.jpg)
+![光的折射图示](../assets/descartes-physics/refract.jpg)
 
 图 1.《光学》中的图示。
 
@@ -102,7 +102,7 @@
 
 图 2.
 
-![Stone](../assets/descartes-physics/stone1.jpg)
+![落石图示](../assets/descartes-physics/stone1.jpg)
 
 图 2. 伴随 Pr III 57 的图示。
 
@@ -126,7 +126,7 @@
 
 图 3.
 
-![Plate](../assets/descartes-physics/plate.jpg)
+![充满体旋涡图示](../assets/descartes-physics/plate.jpg)
 
 图 3.《哲学原理》中的充满体旋涡，Pr III 53。
 

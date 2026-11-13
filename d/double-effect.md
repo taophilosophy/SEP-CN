@@ -177,11 +177,10 @@ Timothy E. Quill 医学博士、Rebecca Dresser 法学博士和 Dan W. Brock 哲
 
 ## 学术工具
 
-> | | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=double-effect). |
-> | --- | --------------------------------------------------------------------------------------------------------------------------------- |
-> | | [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/double-effect/) 于 [SEP 之友学会](https://leibniz.stanford.edu/friends/)。 |
-> | | [查找与本词条相关的主题和思想家](https://www.inphoproject.org/entity?sep=double-effect&redirect=True) 于互联网哲学本体论项目（InPhO）。 |
-> | | [本词条的增强书目](https://philpapers.org/sep/double-effect/) 于 [PhilPapers](https://philpapers.org/)，并附其数据库链接。 |
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=double-effect)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/double-effect/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/double-effect/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=double-effect&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/double-effect/) 查看本词条的增强文献目录及其数据库链接。
 
 ## 其他网络资源
 

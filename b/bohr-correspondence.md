@@ -66,7 +66,7 @@ $$\tag{5} P_{n' \rightarrow n''} \propto |C_{\tau}(n)|^2 \text{ for large } n. $
 
 *Figure 1.*
 
-![sum of harmonics](../yuanwen/assets/bohr-correspondence/Figure1.png)
+![谐波之和](../assets/bohr-correspondence/Figure1.png)
 
 图 1：一个古典周期轨道 $x(t)$ 可以表示为“谐波”的傅里叶和，这些谐波是基频 $\omega$ 的整数倍，代表运动的周期性。按照选择定则解释，对应原理是玻尔的如下洞见：定态之间每一条允许的跃迁，都对应于古典运动的一个谐波成分。（据 Fedak and Prentis 2002 图 3）[^fedak-2002]
 
@@ -112,7 +112,7 @@ Bokulich（2008，以及 2009［其他网络资源］）主张：以选择定则
 
 *Figure 2.*
 
-![missing text, please inform](../yuanwen/assets/bohr-correspondence/Figure2a.png) ![missing text, please inform](../yuanwen/assets/bohr-correspondence/Figure2b.png)
+![原文缺图注，请告知](../assets/bohr-correspondence/Figure2a.png) ![原文缺图注，请告知](../assets/bohr-correspondence/Figure2b.png)
 
 图 2：氢原子可见区巴尔末系的红、绿谱线
 
@@ -370,11 +370,10 @@ $$ x(t,n) = \sum_{k=1}^{\infty} C_k(n)\cos(k\omega(n)t) $$
 
 ## 学术工具
 
-> | | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=bohr-correspondence)。 |
-> | --- | --- |
-> | | 在 [Friends of the SEP Society](https://leibniz.stanford.edu/friends/) 预览本词条的 [PDF 版](https://leibniz.stanford.edu/friends/preview/bohr-correspondence/)。 |
-> | | 在 Internet Philosophy Ontology Project (InPhO) [查找与本词条相关的主题与思想家](https://www.inphoproject.org/entity?sep=bohr-correspondence&redirect=True)。 |
-> | | 在 [PhilPapers](https://philpapers.org/) 查阅本词条的[增强书目](https://philpapers.org/sep/bohr-correspondence/)，含数据库链接。 |
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=bohr-correspondence)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/bohr-correspondence/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=bohr-correspondence&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
 
 ## 其他网络资源
 

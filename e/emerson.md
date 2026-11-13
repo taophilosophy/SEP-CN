@@ -1,7 +1,7 @@
 # 拉尔夫·沃尔多·爱默生 Ralph Waldo Emerson (Russell Goodman)
 
 
-![爱默生照片](../yuanwen/assets/emerson/emerson.jpg)
+![爱默生照片](../assets/emerson/emerson.jpg)
 
 *照片出自 Amos Bronson Alcott 1882 年所编的一本书。*
 # 拉尔夫·沃尔多·爱默生

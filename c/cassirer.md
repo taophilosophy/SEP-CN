@@ -100,11 +100,10 @@
 
 ## 学术工具
 
-> | | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=cassirer)。 |
-> | :---: | :---: |
-> | | 在 [SEP 之友](https://leibniz.stanford.edu/friends/)网站预览本词条的 [PDF 版本](https://leibniz.stanford.edu/friends/preview/cassirer/)。 |
-> | | 在 [国际哲学本体论项目（InPhO）](https://www.inphoproject.org/entity?sep=cassirer&redirect=True)查找与本词条相关的话题与思想家。 |
-> | | 在 [PhilPapers](https://philpapers.org/sep/cassirer/)查看本词条的增强文献目录及其数据库链接。 |
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=cassirer)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/cassirer/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=cassirer&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/cassirer/) 查看本词条的增强文献目录及其数据库链接。
 
 ## 其他网络资源
 

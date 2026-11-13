@@ -81,7 +81,7 @@ $$\iota(\sigma) = 1 - \Theta(\sigma)^2$$
 
 $\iota$ 的值从 0 到 1，并被映射到笛卡尔图表的 y 轴上。图 1 展示了当我们把假 $\sigma$ 的负值包括进来时由 (10) 生成的图像。$\Theta$ 从 $-1 = \mathord{\perp}$ 到 $1 = \mathord{\top}$：
 
-![一张曲线图：曲线自 (-1,0) 起，标注为“必然为假”，升至 (0,1) 后降至 (1,0)，标注为“必然为真”；x 小于 0 的象限标注为“不准确”；x 大于 0 的象限标注为“空洞”。其余说明见上文。](../yuanwen/assets/information-semantic/informativeness.svg)
+![一张曲线图：曲线自 (-1,0) 起，标注为“必然为假”，升至 (0,1) 后降至 (1,0)，标注为“必然为真”；x 小于 0 的象限标注为“不准确”；x 大于 0 的象限标注为“空洞”。其余说明见上文。](../assets/information-semantic/informativeness.svg)
 
 **图 1**
 
