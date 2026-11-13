@@ -30,7 +30,7 @@
       "status": "ok",
       "actor": "U-main-20261113",
       "at": "2026-11-13T19:01:05Z",
-      "evidence": "check_prose 实修 61 处（fix_u_prose.py 45+fix_u_prose2.py 15+inline 2：de-chain 34、long-sentence 23、passive-bei 2、as-one 1、weak-verb 1，叙述散文逐条改写）；余 13 处豁免留痕（ADR-0020）：诗/引文块 8（L5/L57×2/L108/L146/L65/L124/L156）、书名内「的」结构 1（L59）、术语结构 4（L164/L220/L166×2）"
+      "evidence": "check_prose 实修 61 处（fix_u_prose.py 45+fix_u_prose2.py 15+inline 2：de-chain 34、long-sentence 23、passive-bei 2、as-one 1、weak-verb 1，叙述散文逐条改写）；余 13 处豁免留痕（ADR-0020）：诗/引文块 8（L5/L57×2/L108/L146/L65/L124/L156）、书名内「的」结构 1（L59）、术语结构 4（L164/L220/L166×2）；语体：现代汉语学术书面语（回溯补验 2026-11-14，REV2-main-20261114：吾人/矣/者也/若夫/要之=0，盖 1 处为「掩盖」词素、焉 1 处为「习焉不察」成语，哉 2 处全在 Whinfield 2001 译诗引块内属引文照录豁免；通读无文言句式与仿古成段，补记原 U 批会话 s2 evidence 未含「语体」关键词致门禁 attest 缺项）"
     },
     {
       "step": "s3",
