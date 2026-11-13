@@ -1,0 +1,348 @@
+{
+ "key": "latin west",
+ "term": "Latin West",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T03:20:12+00:00",
+ "status": "ok",
+ "note": "variant=Latin West; 审定公布名词库=4637; 海峡两岸名词对照库=975; 其他来源数据库=87; 预公布名词数据库=225; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "拉丁语",
+   "en": "Latin",
+   "code": "02.0491",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_罗马"
+  },
+  {
+   "cn": "拉丁十字形",
+   "en": "Latin cross",
+   "code": "03.0338",
+   "standard": "建筑学名词",
+   "subject": "建筑学_中外建筑历史_外国19世纪末叶以前建筑"
+  },
+  {
+   "cn": "拉丁美洲",
+   "en": "Latin America",
+   "code": "04.0557",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_拉丁美洲综合"
+  },
+  {
+   "cn": "拉丁帝国",
+   "en": "Latin Empire",
+   "code": "02.0536",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_西欧"
+  },
+  {
+   "cn": "拉丁矩",
+   "en": "Latin rectangle",
+   "code": "09.0873",
+   "standard": "数学名词",
+   "subject": "数学_概率论_数理统计_试验设计"
+  },
+  {
+   "cn": "拉丁方",
+   "en": "Latin square",
+   "code": "09.0874",
+   "standard": "数学名词",
+   "subject": "数学_概率论_数理统计_试验设计"
+  },
+  {
+   "cn": "正交拉丁方",
+   "en": "orthogonal Latin squares,Greco- -Latin square",
+   "code": "09.0875",
+   "standard": "数学名词",
+   "subject": "数学_概率论_数理统计_试验设计"
+  },
+  {
+   "cn": "拉丁方设计",
+   "en": "Latin square design",
+   "code": "06.0266",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学研究_核医学临床研究"
+  },
+  {
+   "cn": "拉丁方设计",
+   "en": "Latin square design",
+   "code": "03.0287",
+   "standard": "化学名词",
+   "subject": "化学_分析化学_化学计量学"
+  },
+  {
+   "cn": "拉丁方设计",
+   "en": "Latin square design",
+   "code": "02.085",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "拉丁文法学校",
+   "en": "latin grammar school",
+   "code": "04.049",
+   "standard": "教育学名词",
+   "subject": "教育学_外国教育史_古代"
+  },
+  {
+   "cn": "拉丁修辞学校",
+   "en": "latin rhetoric school",
+   "code": "04.050",
+   "standard": "教育学名词",
+   "subject": "教育学_外国教育史_古代"
+  },
+  {
+   "cn": "拉丁方",
+   "en": "Latin square",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "拉丁方设计",
+   "en": "Latin square design",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "拉丁方设计",
+   "en": "Latin square design",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "西",
+   "en": "west",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "向西航行",
+   "en": "westing",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "拉丁美洲经济体系",
+   "en": "Latin American Economic System",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "拉美共同市场",
+   "en": "Latin American Common Market",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "西点",
+   "en": "west point",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "西风爆发",
+   "en": "west burst",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "西距角，西大距",
+   "en": "west elongation",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "西偏差，西磁差",
+   "en": "west declination",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "西方标",
+   "en": "west mark",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "拉美型打法",
+   "en": "Latin American football",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "拉丁美洲一体化协会",
+   "en": "Latin American Integration Association",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "英属西非",
+   "en": "British West Africa",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "英属西非国民大会",
+   "en": "National Congress of British West Africa",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "中拉命运共同体",
+   "en": "the community with a shared future for China and Latin America",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "谱写中拉全面合作伙伴关系新篇章",
+   "en": "jointly writing a new chapter in China-Latin America comprehensive cooperative partnership",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "中国—中亚—西亚经济走廊",
+   "en": "China-Central Asia-West Asia Economic Corridor",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "东西部扶贫协作",
+   "en": "east-west pairing-off cooperation for poverty alleviation",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "W阵型",
+   "en": "W formation",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_排球名词"
+  },
+  {
+   "cn": "F检验",
+   "en": "George W. Snedecor",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "超核",
+   "en": "W′_and_Z′_bosons",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "无质量粒子",
+   "en": "W′_and_Z′_bosons",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "拉美模式",
+   "en": "latin american model",
+   "code": "2.9.7.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_发展社会学_发展模式"
+  },
+  {
+   "cn": "拉美社会主义",
+   "en": "Latin American socialism",
+   "code": "05.0250",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派"
+  },
+  {
+   "cn": "拉美世纪社会主义",
+   "en": "TwentyFirst century socialism in Latin America",
+   "code": "05.0255",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派"
+  },
+  {
+   "cn": "《西域水道记》",
+   "en": "Records on the Water Ways in the West of China",
+   "code": "3.027",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族文化"
+  },
+  {
+   "cn": "静止",
+   "en": "rest",
+   "code": "01.0023",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "抗链球菌溶血素O试验",
+   "en": "antistreptolysin O test, ASO test",
+   "code": "1.5.2.7",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_炎症指标"
+  },
+  {
+   "cn": "适合性检验",
+   "en": "fit test",
+   "code": "1.7.1.15",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒学_防护"
+  },
+  {
+   "cn": "泄露测试",
+   "en": "leak test",
+   "code": "3.1.3.10.13",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "产品检验",
+   "en": "production test",
+   "code": "5.1.11",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_企业监管"
+  },
+  {
+   "cn": "崩解试验",
+   "en": "disintegration test",
+   "code": "6.1.14",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_理化检验"
+  },
+  {
+   "cn": "稳定性试验",
+   "en": "stability test",
+   "code": "6.1.15",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_理化检验"
+  },
+  {
+   "cn": "消毒学试验",
+   "en": "disinfectionology test",
+   "code": "6.2",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

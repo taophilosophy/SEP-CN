@@ -1,0 +1,159 @@
+{
+ "key": "justification",
+ "term": "Justification",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T03:20:12+00:00",
+ "status": "ok",
+ "note": "variant=Justification; 审定公布名词库=14; 海峡两岸名词对照库=3; 其他来源数据库=1; 预公布名词数据库=5; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "辩护",
+   "en": "justification",
+   "code": "03.123",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_说明"
+  },
+  {
+   "cn": "正当性",
+   "en": "justification",
+   "code": "07.050",
+   "standard": "医学影像技术学名词",
+   "subject": "医学影像技术学_X射线防护_X射线防护要求"
+  },
+  {
+   "cn": "正当性",
+   "en": "justification",
+   "code": "02.0434",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学相关基础学科_放射防护与剂量学"
+  },
+  {
+   "cn": "正当性",
+   "en": "justification",
+   "code": "05.003",
+   "standard": "放射医学与防护名词",
+   "subject": "放射医学与防护_放射防护_基础名词"
+  },
+  {
+   "cn": "码速调整",
+   "en": "justification",
+   "code": "01.262",
+   "standard": "通信科学技术名词",
+   "subject": "通信科学技术_通信原理与基本技术"
+  },
+  {
+   "cn": "论证",
+   "en": "justification",
+   "code": "01.0034",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "调整",
+   "en": "justification,justify",
+   "code": "04.1317",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_计算机硬件_计算机管理"
+  },
+  {
+   "cn": "归纳辩护",
+   "en": "inductive justification",
+   "code": "03.085",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_归纳"
+  },
+  {
+   "cn": "干预正当性",
+   "en": "justification of intervention",
+   "code": "07.068",
+   "standard": "医学影像技术学名词",
+   "subject": "医学影像技术学_X射线防护_X射线防护要求"
+  },
+  {
+   "cn": "[辐射照射]实践的正当性",
+   "en": "justification of practice",
+   "code": "06.0392",
+   "standard": "化学名词",
+   "subject": "化学_放射化学_辐射化学与辐射防护"
+  },
+  {
+   "cn": "干预正当性",
+   "en": "justification of intervention",
+   "code": "05.244",
+   "standard": "放射医学与防护名词",
+   "subject": "放射医学与防护_放射防护_职业和公众照射防护"
+  },
+  {
+   "cn": "辩护的语境",
+   "en": "context of justification",
+   "code": "03.124",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_说明"
+  },
+  {
+   "cn": "不充分理由，理由不足",
+   "en": "insufficient justification",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "线确认",
+   "en": "line justification",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "调整",
+   "en": "○1justification○2 adjustment",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "师出有名",
+   "en": "Fighting a War with a Moral Justification",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "伦理辩护",
+   "en": "ethical justification",
+   "code": "1.062",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "医学伦理辩护",
+   "en": "medical ethical justification",
+   "code": "1.2229999999999999",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究对象"
+  },
+  {
+   "cn": "辐射实践正当性",
+   "en": "justification of radiation practice",
+   "code": "6.1.2.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_放射防护三原则"
+  },
+  {
+   "cn": "医疗照射正当性",
+   "en": "justification of medical exposure",
+   "code": "8.1.7.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生监管_医用辐射监管"
+  },
+  {
+   "cn": "辐射实践正当性",
+   "en": "justification of radiological practice",
+   "code": "8.8.18",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_核武器医学防护学_辐射防护基础"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
