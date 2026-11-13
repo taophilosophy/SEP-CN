@@ -81,19 +81,19 @@ Marwan Rashed（2009）通过严肃地质疑法拉比《两位圣贤观点之调
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Research Tools
+### 研究工具
 
-#### Bibliographies
+#### 文献目录
 
-#### Dictionary
+#### 辞典
 
-### Primary Literature
+### 原始文献
 
-#### Works by al-Fārābī
+#### 法拉比著作
 
-#### Works by other authors
+#### 其他作者著作
 
-### Secondary Literature
+### 二手文献
 
 ## 学术工具
 
@@ -104,12 +104,12 @@ Marwan Rashed（2009）通过严肃地质疑法拉比《两位圣贤观点之调
 
 ## 其他网络资源
 
-* [Al-Farabi at muslimphilosophy.com](https://www.muslimphilosophy.com/farabi/). (This page has links to a few complete texts of al-Fārābī, some in Arabic and some in English translation.)
-* [Al-Farabi at thegreatthinkers.org](https://thegreatthinkers.org/al-farabi/).
+* [muslimphilosophy.com 上的法拉比专页](https://www.muslimphilosophy.com/farabi/)。该页收录若干法拉比完整文本链接，部分为阿拉伯语、部分为英译。
+* [thegreatthinkers.org 上的法拉比专页](https://thegreatthinkers.org/al-farabi/)。
 
 ## 相关词条
 
-al-Farabi: metaphysics | al-Farabi: philosophy of logic and language | al-Farabi: philosophy of society and religion | al-Farabi: psychology and epistemology | Arabic and Islamic Philosophy, disciplines in: metaphysics | music: philosophy of
+法拉比：形而上学 | 法拉比：逻辑与语言哲学 | 法拉比：社会与宗教哲学 | 法拉比：心理学与知识论 | 阿拉伯与伊斯兰哲学诸学科：形而上学 | 音乐哲学
 
 [^al-mawrid-1975]: *Al-Mawrid* (Special Issue on Al-Farabi), 4(3), 1975.
 

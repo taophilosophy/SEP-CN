@@ -66,14 +66,6 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### 原始文献（Primary Sources）
-
-### 其他英译本（Other English Translations）
-
-### 二手文献（Secondary Sources）
-
-### 其他有用文献（Other Helpful Sources）
-
 [^adam-nd]: In the above, the Adam and Tannery volumes, *Oeuvres De Descartes*, (11 volumes) are cited. Such citations are abbreviated as AT, followed by the appropriate volume and page numbers. I have whenever possible used the Cottingham, Stoothoff, and Murdoch translation, *The Philosophical Writings Of Descartes* (3 volumes). Volume 3 includes Anthony Kenny as a translator. This has been abbreviated as CSMK, followed by the appropriate volume and page numbers. The AT and CSMK numbers are cited, side by side, separated by a semicolon.
 
 [^oeuvres-1983]: *Oeuvres De Descartes*, 11 vols., edited by Charles Adam and Paul Tannery, Paris: Librairie Philosophique J. Vrin, 1983.
@@ -203,7 +195,7 @@
 
 ## 其他网络资源
 
-* [Descartes E Il Seicento](http://www.cartesius.net/)，由朱莉娅·贝尔焦约索（笛卡尔与十七世纪研究中心主任）、让-罗贝尔·阿尔莫加特（笛卡尔研究中心）及其同事维护。一个极佳的笛卡尔网站。
+* [Descartes E Il Seicento（笛卡尔与十七世纪）](http://www.cartesius.net/)，由朱莉娅·贝尔焦约索（笛卡尔与十七世纪研究中心主任）、让-罗贝尔·阿尔莫加特（笛卡尔研究中心）及其同事维护。一个极佳的笛卡尔网站。
 
 ## 相关词条
 

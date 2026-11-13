@@ -92,12 +92,6 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### 文本（Texts）
-
-### 概览（Overviews）
-
-### 二手文献（Secondary Sources）
-
 [^diels-1951]: Diels, H and W. Kranz, *Die Fragmente der Vorsokratiker*, 6ᵗʰ edition, Berlin: Weidmann, 1951 (cited as **DK**).
 
 [^graham-2010]: Graham, Daniel W., 2010, *The Texts of Early Greek Philosophy: The Complete Fragments and Selected Testimonies of the Major Presocratics*, Cambridge: Cambridge University Press.
@@ -209,8 +203,8 @@
 
 古代原子论 | 古代哲学文献学 | 伊壁鸠鲁 | 留基伯 | 卢克莱修 | 墨利索斯 | 巴门尼德 | 爱利亚的芝诺 | 芝诺悖论
 
-### 致谢
+（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）
+
+## 致谢
 
 我感谢古代哲学编辑约翰·库珀、A.P.D. 穆雷拉托斯和蒂姆·奥基夫的有益评论与建议。
-
-（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）

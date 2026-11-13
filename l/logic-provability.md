@@ -353,37 +353,37 @@ $$ \text{若 } \mbox{GL} \vdash \Box A \rightarrow A, \text{ 则 } \mbox{GL} \vd
 
 [^note-3]: Holliday 与 Litak（2019）强化了这一结果：GLB 不仅相对 Kripke 框架不完全，甚至相对于 $\unicode{x2B26}$ 算子*完全可加*的布尔代数也不完全——所谓完全可加，是说对任意元素集 $X$，只要 $\bigvee X$ 存在，$\bigvee\{\unicode{x2B26} x \mid x \in X \}$ 便也存在，且 $\unicode{x2B26}\bigvee X = \bigvee\{\unicode{x2B26} x \mid x \in X \}$。这一结果有一个漂亮的侧面：双模可证性逻辑 GLB 是第一个在完全可加布尔代数上表现出这种不完全性的自然出现的模态逻辑。还应注意，Van Benthem（1979）最初用来证明存在模态不完全逻辑的那个逻辑，同样是可证性逻辑的一个（略显人工的）变体——即 $K$ 再加一条额外公理 $\Box\unicode{x2B26}\top\rightarrow \Box(\Box(\Box p \rightarrow p) \rightarrow p)$，它是 GL 的一个弱化。
 
-## References（引用注释）
+## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### General references on provability logic
+### 可证性逻辑通论文献
 
-### History
+### 历史
 
-### Cut-elimination for provability logic
+### 可证性逻辑的切消
 
-### The fixed point theorem
+### 不动点定理
 
-### Possible worlds semantics and topological semantics
+### 可能世界语义与拓扑语义
 
-### Provability and Peano Arithmetic
+### 可证性与皮亚诺算术
 
-### The scope of provability logic: boundaries
+### 可证性逻辑的范围：边界
 
-### Interpretability logic
+### 可解释性逻辑
 
-### Propositional quantifiers
+### 命题量词
 
-### Japaridze’s bimodal and polymodal provability logics
+### Japaridze 的双模与多模可证性逻辑
 
-### Predicate provability logic
+### 谓词可证性逻辑
 
-### Other generalizations
+### 其他推广
 
-### Philosophical significance
+### 哲学意义
 
 [^artemov-2006]: Artemov, S.N., 2006, “Modal Logic in Mathematics,” in P. Blackburn, et al. (eds.), *Handbook of Modal Logic*, Amsterdam: Elsevier, pp. 927–970.
 [^artemov-2004]: Artemov, S.N. and L.D. Beklemishev, 2004, “Provability Logic,” in *Handbook of Philosophical Logic*, Second Edition, D. Gabbay and F. Guenthner, eds., Volume 13, Dordrecht: Kluwer, pp. 229–403.
@@ -497,7 +497,7 @@ $$ \text{若 } \mbox{GL} \vdash \Box A \rightarrow A, \text{ 则 } \mbox{GL} \vd
 [^mcgee-1987]: McGee, V. and G. Boolos, 1987, “The Degree of the Set of Sentences of Predicate Provability Logic that are True under Every Interpretation,” *Journal of Symbolic Logic*, 52: 165–171.
 [^montagna-1984]: Montagna, F., 1984, “The Predicate Modal Logic of Provability,” *Notre Dame Journal of Formal Logic*, 25(2): 179–189.
 [^rybakov-2023]: Rybakov, M., 2023, “Predicate Counterparts of Modal Logics of Provability: High Undecidability and Kripke Incompleteness,” *Logic Journal of the IGPL*, first online 28 February 2023. doi:10.1093/jigpal/jzad002
-[^vardanyan-1986]: Vardanyan, V.A., 1986, “Arithmetic Complexiy of Predicate Logics of Provability and their Fragments,” *Doklady Akademii Nauk SSSR*, 288: 11–14 (in Russian); English translation in *Soviet Mathematics Doklady*, 33: 569–572.
+[^vardanyan-1986]: Vardanyan, V.A., 1986, “Arithmetic Complexity of Predicate Logics of Provability and their Fragments,” *Doklady Akademii Nauk SSSR*, 288: 11–14 (in Russian); English translation in *Soviet Mathematics Doklady*, 33: 569–572.
 [^visser-2006]: Visser, A. and M. de Jonge, 2006, “No Escape from Vardanyan’s Theorem,” *Archive of Mathematical Logic*, 45(5): 539–554.
 [^aguilera-2017]: Aguilera, J.P. and Fernández-Duque, D., 2017, “Strong Completeness of Provability Logic for Ordinal Spaces,” *The Journal of Symbolic Logic*, 82(2): 608–628.
 [^alberucci-2009]: Alberucci, L., and A. Facchini, 2009, “On Modal μ-Calculus and Gödel-Löb logic,” *Studia Logica*, 91: 145–169.
@@ -585,7 +585,7 @@ $$ \text{若 } \mbox{GL} \vdash \Box A \rightarrow A, \text{ 则 } \mbox{GL} \vd
 [^franzén-2005]: Franzén, T., 2005, *Gödel’s Theorem: An Incomplete Guide to its Use and Abuse*, Boca Raton, Florida: CRC Press.
 [^gödel-1946]: Gödel, K., 1946, “Remarks Before the Princeton Bicentennial Conference on Problems in Mathematics,” reprinted in S. Feferman et al. (eds.), *Kurt Gödel Collected Works, Volume II: Publications 1938–1975*, New York, Oxford: Oxford University Press, 1990, pp. 150–153.
 [^kaplan-1960]: Kaplan, D. and R. Montague, 1960, “A Paradox Regained,” *Notre Dame Journal of Formal Logic*, 1(3): 79–90.
-[^kennedy-2014]: Kennedy, J., 2014, “Gödel’s 1946 Princeton Bicentennial Lecture: An Appreciation,” in J. Kennedy (ed.), *Interpreting Gödel: Critical Essays*, Cambridge: Cambridh=ge University Press, pp.109–130.
+[^kennedy-2014]: Kennedy, J., 2014, “Gödel’s 1946 Princeton Bicentennial Lecture: An Appreciation,” in J. Kennedy (ed.), *Interpreting Gödel: Critical Essays*, Cambridge: Cambridge University Press, pp. 109–130.
 [^koellner-2016]: Koellner, P., 2016, “Gödel’s Disjunction,” in L. Horsten and P. Welch (eds.), *Gödel’s Disjunction: The Scope and Limits of Mathematical Knowledge*, Oxford: Oxford University Press, pp. 148–188.
 [^kreisel-1967]: Kreisel, G., 1967, “Informal Rigour and Completeness Proofs,” in I. Lakatos (ed.), *Problems in the Philosophy of Mathematics*, Amsterdam: North-Holland, pp. 138–157.
 [^leach-krouse-2013]: Leach-Krouse, G.E., 2013, “Conceptions of Absolute Provability,” Ph.D. Thesis, Note Dame: Notre Dame University.
