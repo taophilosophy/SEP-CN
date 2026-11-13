@@ -2,7 +2,7 @@
   "slug": "ci-hui-biao",
   "kind": "glossary-maintenance",
   "zh_doc": "qian-yan/ci-hui-biao.md",
-  "state": "round1_augmented",
+  "state": "done",
   "steps": [
     {
       "step": "review-2026-10-27",
@@ -45,6 +45,13 @@
       "actor": "zcode-词汇表复核",
       "at": "2026-10-27T06:30:00+08:00",
       "evidence": "第二轮：候选库深挖发布 23 条（物理主义/直觉主义/经典逻辑/学术自由/贝尔定理裸变体等，c8357dae）；第三轮：academic-freedom 定向取词 5 条（Lernfreiheit/Lehrfreiheit/Libertas philosophandi 等，afc5dd60）；第四轮：manifest 入库 tasks/manifests/（3 件）、extract_terms 补数学记号停用词、度量更新。发布表 594→659 行（三批 65 条），全程 lint/check_all 全绿"
+    },
+    {
+      "step": "bing-wang-2026-11-13",
+      "status": "ok",
+      "actor": "zcode-词汇表并网",
+      "at": "2026-11-13T00:00:00+08:00",
+      "evidence": "ADR-0036 并网收官：发布表 1384 键行分流两登记册（两册均无 410 行逐行审阅：术语/书名 229、人名 27、归并 7、废弃 149；精确同键 975 行校对废弃）；登记册改名 shu-yu-biao.md；check_terms 两表化；词汇表文件删除。决策账 specs/008/results/bing-wang-2026-11-13.json；执行记录 execution-log/ci-hui-bing-wang-shou-guan.md"
     }
   ],
   "todo": [
@@ -79,5 +86,5 @@
   ],
   "blockers": [],
   "created_at": "2026-10-27T02:40:00+08:00",
-  "notes": "任务文件按 tasks/a/alcmaeon.json 的模式扩展 todo 数组；lint 工具 script/glossary_lint.py（白名单已裁定例外）。"
+  "notes": "2026-11-13 随 ADR-0036 并网收官：发布词汇表已删除，本任务账留档不再推进。遗留送审 5 条人名译法冲突见执行记录第四节。"
 }

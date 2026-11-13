@@ -33,7 +33,6 @@ EXEMPT = {
     "shu-yu-biao.md",  # 术语登记册（ADR-0036 改名，原 yi-zhe-shuo-ming.md）
     "ren-ming-biao.md",  # ADR-0012 人名登记册，同性质豁免
     "PROGRESS.md",
-    "qian-yan/ci-hui-biao.md",  # ADR-0036 并网过渡豁免：行分流完成后随文件删除一并移除
 }
 
 # 工具生成物（逐日重建、非叙事文档，ADR-0004 豁免表）：术语审阅报告由

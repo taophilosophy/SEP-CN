@@ -8,6 +8,7 @@
 | 接管批与 A–Z 分节定型 | 2026-11-09 | TL-main-20261109、TL-az-20261109 | [jie-guan-pi-yu-az-fen-jie.md](jie-guan-pi-yu-az-fen-jie.md) |
 | 审定库长跑与二轮补查 | 2026-11-11 | TL-main-20261111 正批与续批 | [shen-ding-ku-chang-pao.md](shen-ding-ku-chang-pao.md) |
 | 三轮清扫收官 | 2026-11-12 | TL-main-20261112 续 | [san-lun-qing-sao-shou-guan.md](san-lun-qing-sao-shou-guan.md) |
+| 词汇表并网收官 | 2026-11-13 | ADR-0036 结构收口 + 412 行分流 | [ci-hui-bing-wang-shou-guan.md](ci-hui-bing-wang-shou-guan.md) |
 
 * 拆分依据：ADR-0004（单体文件治理）；门禁 `tools/check_doc_size.py` 实拦，拆分后各文件均在阈值内。
 * 历史追溯：`git log --follow specs/008-terminology-campaign/execution-log/index.md` 可追至拆分前的单文件历史。
