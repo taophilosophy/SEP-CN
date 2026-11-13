@@ -608,8 +608,13 @@ def build_cite_keys(entry_texts):
         if ym:
             for name in (joined, first, acronym):
                 if name and len(name) >= 3:
+                    # 2026-11-14 全量回归：SEP 正文通行「姓, 年份」带逗号式，
+                    # 旧式 [^,;()\[\]] 卡死在逗号上，致 124 条词条 cite_markers=0
+                    # （african-ethics 34 条定义零挂键、althusser 126 条等）。
+                    # 改后只排除分号/圆括号/方括号：同组内多引证仍按分号隔离，
+                    # 不会跨条误配。
                     pats.append(re.compile(
-                        re.escape(name) + r'[^,;()\[\]]{0,60}?\b' +
+                        re.escape(name) + r'[^;()\[\]]{0,60}?\b' +
                         re.escape(year) + re.escape(suffix) + r'\b'))
         keys.append({'key': key, 'pats': pats, 'text': text})
     return keys

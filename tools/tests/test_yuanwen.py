@@ -116,6 +116,30 @@ class TestCitations(unittest.TestCase):
         self.assertTrue(keys[0]['key'].startswith('leibniz-nd'))
         self.assertEqual(keys[0]['pats'], [])
 
+    def test_comma_style_citation_linked(self):
+        # 2026-11-14 全量回归：SEP 正文通行「姓, 年份」带逗号式，旧匹配式
+        # 卡在逗号上（124 条词条 cite_markers=0），此处锁定修复
+        keys = build_cite_keys(['Opoku, K. A., 1978, West African Traditional Religion.'])
+        new, n, used = link_citations('(Opoku, 1978: 152)', keys)
+        self.assertIn('[^opoku-1978]', new)
+        self.assertEqual(n, 1)
+
+    def test_group_with_several_citations(self):
+        keys = build_cite_keys(['Gbadegesin, Segun, 1991, African Philosophy.',
+                                'Opoku, K. A., 1978, West African Traditional Religion.'])
+        new, n, used = link_citations('(Gbadegesin, 1991: 45; Opoku 1978: 152)', keys)
+        self.assertIn('[^gbadegesin-1991]', new)
+        self.assertIn('[^opoku-1978]', new)
+        self.assertEqual(n, 2)
+
+    def test_semicolon_blocks_cross_match(self):
+        # 分号仍是引证边界：A 的作者不得与 B 的年份配成一条
+        keys = build_cite_keys(['Smith, A., 1990, Book One.'])
+        new, n, used = link_citations('(Smith, 1990; Jones, 1991)', keys)
+        self.assertEqual(n, 1)
+        new2, n2, _ = link_citations('(Smith, 1999; Jones, 1991)', keys)
+        self.assertEqual(n2, 0)
+
 
 class TestMathFidelity(unittest.TestCase):
     """2026-10-27 数学保真裁定的回归测试（全量抓取轮发现的丢失路径）。"""
