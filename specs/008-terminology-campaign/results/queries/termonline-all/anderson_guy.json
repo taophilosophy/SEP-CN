@@ -1,0 +1,348 @@
+{
+ "key": "anderson, guy",
+ "term": "Anderson, Guy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T10:28:49+00:00",
+ "status": "ok",
+ "note": "variant=Anderson, Guy; 审定公布名词库=486; 海峡两岸名词对照库=83; 其他来源数据库=23; 预公布名词数据库=20; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "缆绳",
+   "en": "guy",
+   "code": "01.0586",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_物料搬运机械_起重机械_桅杆起重机"
+  },
+  {
+   "cn": "稳索",
+   "en": "guy",
+   "code": "08.0376",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_船艺"
+  },
+  {
+   "cn": "牵索",
+   "en": "guy,slewing guy",
+   "code": "05.171",
+   "standard": "船舶工程名词",
+   "subject": "船舶工程_船舶舾装"
+  },
+  {
+   "cn": "安德森绝缘体",
+   "en": "Anderson insulator",
+   "code": "08.2407",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_固体及其性质"
+  },
+  {
+   "cn": "安德森转变",
+   "en": "Anderson transition",
+   "code": "08.0678",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_结构"
+  },
+  {
+   "cn": "安德森判据",
+   "en": "Anderson criterion",
+   "code": "08.0681",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_结构"
+  },
+  {
+   "cn": "安德森局域[化]",
+   "en": "Anderson localization",
+   "code": "08.0680",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_结构"
+  },
+  {
+   "cn": "安德森定域",
+   "en": "Anderson localization",
+   "code": "06.0266",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_半导体材料_非晶和微晶半导体材料"
+  },
+  {
+   "cn": "井架绷绳",
+   "en": "derrick guy,guy line",
+   "code": "12.0163",
+   "standard": "石油名词",
+   "subject": "石油_石油钻采机械设备"
+  },
+  {
+   "cn": "拉线",
+   "en": "guy,stay",
+   "code": "14.0583",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑设备与系统_强电系统与设备部件"
+  },
+  {
+   "cn": "绷索",
+   "en": "guy line",
+   "code": "10.322",
+   "standard": "林学名词",
+   "subject": "林学_森林工程_林业机械与设备"
+  },
+  {
+   "cn": "锚碇",
+   "en": "guy anchor",
+   "code": "01.0588",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_物料搬运机械_起重机械_桅杆起重机"
+  },
+  {
+   "cn": "稳索",
+   "en": "guy",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "牵索",
+   "en": "guy",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "安德森定域化",
+   "en": "Anderson localization",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "安德森，玛利安",
+   "en": "Anderson\",\"Marian(美国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "稳索眼板",
+   "en": "guy eye",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "古伊",
+   "en": "Gui\",\"Vittorio(意大利)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "拉索塔",
+   "en": "guyed tower",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "罗帕尔茨",
+   "en": "Ropartz\",\"Joseph Guy(法国)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "图形用户界面",
+   "en": "graphical user interface\",\"GUI",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "图形用户界面",
+   "en": "graphic user interface\",\"GUI",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "安德森智力与认知发展理论",
+   "en": "Anderson’s theory of intelligence and cog nitive development",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "树胶",
+   "en": "gum",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "支索",
+   "en": "guy",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "牵索",
+   "en": "guy cable",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "下曳索",
+   "en": "down haul\",\"guy\",\"preventer",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "氯喹",
+   "en": "Hans Andersag",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "最佳线性无偏预测",
+   "en": "Charles Roy Henderson",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "植物胶",
+   "en": "gum",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "枪",
+   "en": "gun",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "鸣炮",
+   "en": "gun",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "射钉枪",
+   "en": "nail gun",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "口香糖",
+   "en": "Chewing gum",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "黄原胶",
+   "en": "Xanthan gum",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "火药",
+   "en": "gun powder",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "男同性恋",
+   "en": "gay",
+   "code": "3.3.5.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性社会学_性取向"
+  },
+  {
+   "cn": "植入枪",
+   "en": "implant gun",
+   "code": "6.4.3.26",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_核医学"
+  },
+  {
+   "cn": "电子枪",
+   "en": "electron gun",
+   "code": "6.5.1.17",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_工业应用的放射防护_加速器应用"
+  },
+  {
+   "cn": "同性恋家庭",
+   "en": "gay family",
+   "code": "3.1.1.19",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_家庭社会学_家庭"
+  },
+  {
+   "cn": "黄原胶",
+   "en": "xanthan gum",
+   "code": "6.1.14.5",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品添加剂_食品添加剂"
+  },
+  {
+   "cn": "古儿汗",
+   "en": "Gur Qaghan",
+   "code": "3.0217",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族政治"
+  },
+  {
+   "cn": "阿拉伯胶",
+   "en": "gum arabic",
+   "code": "6.1.14.3",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品添加剂_食品添加剂"
+  },
+  {
+   "cn": "刺梧桐胶",
+   "en": "karaya gum",
+   "code": "6.1.21.2",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品添加剂_食品添加剂"
+  },
+  {
+   "cn": "胶基配料",
+   "en": "gum based ingredient",
+   "code": "6.1.10.1",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品添加剂_食品添加剂"
+  },
+  {
+   "cn": "胶基糖果",
+   "en": "gum based candy",
+   "code": "5.17.8",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_糖果"
+  },
+  {
+   "cn": "戈瑞",
+   "en": "Gray, Gy",
+   "code": "2.2.2.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术_物理消毒"
+  },
+  {
+   "cn": "党指挥枪",
+   "en": "Party commands the gun",
+   "code": "03.0405",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

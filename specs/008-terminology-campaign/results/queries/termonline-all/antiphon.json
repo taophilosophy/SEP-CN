@@ -1,0 +1,68 @@
+{
+ "key": "antiphon",
+ "term": "Antiphon",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-13T10:36:20+00:00",
+ "status": "ok",
+ "note": "variant=Antiphon; 审定公布名词库=5; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "抗蛋白酶肽",
+   "en": "antipain",
+   "code": "3.0761",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_酶_核酶及其他_易位酶"
+  },
+  {
+   "cn": "反 μ 子",
+   "en": "antimuon",
+   "code": "09.0952",
+   "standard": "物理学名词",
+   "subject": "物理学_原子核物理学、粒子物理学_粒子物理学"
+  },
+  {
+   "cn": "反双荷子",
+   "en": "antidyon",
+   "code": "09.1028",
+   "standard": "物理学名词",
+   "subject": "物理学_原子核物理学、粒子物理学_粒子物理学"
+  },
+  {
+   "cn": "反 K 介子",
+   "en": "antikaon",
+   "code": "09.0966",
+   "standard": "物理学名词",
+   "subject": "物理学_原子核物理学、粒子物理学_粒子物理学"
+  },
+  {
+   "cn": "抗吞噬细胞因子1成分抗原",
+   "en": "antipha-gocytic fraction 1 antigen",
+   "code": "03.0776",
+   "standard": "感染病学名词",
+   "subject": "感染病学_病原体感染_细菌感染"
+  },
+  {
+   "cn": "交替圣歌",
+   "en": "antiphon",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "交替歌唱",
+   "en": "antiphonal singing",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "抗蛋白酶肽",
+   "en": "antipain",
+   "code": null,
+   "standard": "海峡两岸生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
