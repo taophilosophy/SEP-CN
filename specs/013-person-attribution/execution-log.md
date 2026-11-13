@@ -105,3 +105,29 @@
 **既有值冲突（不改他方数据）**：`Alvarado, José Tomás` 登记册已有「哥斯达黎加」，GND 地域码作 Chile；按 013 非目标（不改既有列）本批不覆盖，另立核对项。
 
 **验收**：`check_terms.py` 人名缺项告警 **3328 → 3282**（净偿还 46 条），硬错误 0；`check_all.py` 九项全绿。**规模事实**：A 段 110 行命中率 45%（50/110），其中 5 行须拒采、12 行须另核；按此比率，余量 3282 行在 5 秒礼貌间隔下约需 60 小时持续作业，非单会话可清，须按批推进。
+
+## 2026-11-13 GND 规范标目批（B 段 48 行）
+
+**范围**：接 A 段（110 行）续取 120 行（Anselm of Canterbury 至 Bartolus of Sassoferrato）。命中 55 行（exact 40／variant 15）、歧义 14、查无 51。逐行复核采信 48 行，凭证 `results/verify-2026-11-13-gnd-b.tsv`。
+
+**逐行复核的拒采（9 行）**：
+
+| 键 | 抓取结果 | 拒采理由 |
+| ---- | ---- | ---- |
+| Antoine Le Grand | Arnauld, Antoine（1612–1694） | 同姓异人：勒格朗（1629–1699）与阿尔诺非一人 |
+| Arthur Schopenhauer | Keller, Arthur S.（1891–） | 姓名检索错配；改为人工定位 gnd 118610465（1788–1860）后采信 |
+| Ash, Michael | Ash, Michael R.（1961–，作者） | 职业不足以定人，身份存疑 |
+| Ashton, Michael | 1968–，金融分析师 | 与键所指不合 |
+| Ashkenazi, Shaul | 1470–1523，地域码「Land unbekannt」 | 无籍属可据，留队 |
+| Auriol, Peter | Hill, Peter Murray（1908–1957，演员） | 同姓异人；奥里奥尔（c. 1280–1322）另论 |
+| Barber, Alex | 2005–，儿童文学作者 | 生年与键所指学者不合 |
+| Barrio, Eduardo | Matos Barrio, Eduardo（1904–1995，摄影师） | 同姓异人；键所指为当代逻辑学家 |
+| Bartel, Christopher | 1987–，医生 | 同姓异人 |
+
+**人工定位（7 行，专名检索被同名者挤占后按生卒与身份取号）**：Schopenhauer gnd 118610465、Francis Bacon 118505696、Jane Austen 118505173、Alexander Bain 116040793、John Austin 118505181、Susan B. Anthony 118645331、Ernest Barker 119237350——逐条取单条记录核验生卒、地域码与职业后落表。
+
+**歧义留队（14 行）**：Susan B. Anthony（自动检索）、Anton Ulrich、Armstrong, David、Arnauld, Antoine、Arnold Ruge、Austen, Jane（自动检索）、Austin, John（自动检索）、Bacon, Francis（自动检索）、Bain, Alexander（自动检索）、Francke, August Hermann、Barker, Chris、Barker, Ernest（自动检索）、Barnes, Elizabeth、Barr, Michael——其中 7 条已由人工定位解决，其余 7 条待另核。
+
+**存疑留队**：`Balme, David`（GND 地域码 USA，与常见英国说异，不落表）。
+
+**验收**：`check_terms.py` 人名缺项告警 **3282 → 3234**（净偿还 48 条），硬错误 0；`check_all.py` 见收工记录。累计两批 A/B 段 94 行，命中率约 45%，拒采率约 6%（14/235 命中中 14 条实体错配）。
