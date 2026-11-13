@@ -41,6 +41,16 @@
 * 统计口径：`Counter(r['verdict'])` 类批次计数一律先滤 `r.get('kind')!='repair'`；`queue.jsonl` 只认 verdict 记录。
 * 偿还完成后自本卡「待办 1」的断点（第 43 批之后）继续逐条通读，此后边读边修，不再积压。
 
+### 偿还流水（按台账顺序，逐条一提交）
+
+| 词条 | 修项 | 提交 |
+| ---- | ---- | ---- |
+| advance-directives | 2 处英文残留（robust／otherwise）＋L49 句法残缺 | 540b5f0df |
+| action | L333 英文残留 presumably | 92e60f3d8 |
+| actualism-possibilism-ethics | 现实主义定义两处标记残缺、§2.4 强调符错乱、§4.2 *M*/M**、两处《拖延教授∗》、a fortiori 未译 | bd5702865 |
+| abduction | L167 拉丁语 a fortiori 未译 | 65a3070c5 |
+| al-khunaji | L40 两处斜体残缺、L223／L225 英文论题名未译、L262 阿语术语标记错乱 | d185ce435 |
+
 ## 注意
 
 * 置空会改变 `PROGRESS.md` 的 done 计数与批次统计（生成物实时推导），不要手工回填。
