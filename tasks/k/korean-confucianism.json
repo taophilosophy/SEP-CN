@@ -2,7 +2,7 @@
   "slug": "korean-confucianism",
   "kind": "retranslate",
   "zh_doc": "k/korean-confucianism.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "REV2-main-20261114",
       "at": "2026-11-13T19:35:20Z",
       "evidence": "r2 复审（REV2-main-20261114；r1 已全文通读逐句回核，本步不复查旧错，只做登记与一致性新增核验）：①登记册复核——ren-ming-biao.md 27 个本词条人名逐一 grep 全在册（李柬/安珦/白颐正/李齐贤/李穑/白文宝/郑梦周/李成桂/权日身/慎后聃/李睟光/奇正镇/李恒老/李震相/李檗/李承薰/丁若铨/丁若钟/尹鑴/朴世堂/山崎暗斋/庞迪我/任允挚堂/姜静一堂/崔汉绮/崔济愚/韩元震，各恰 1 行），挂 korean-confucianism 标记 24 行，与 s1 留痕『补 24 行』吻合；②术语登记口径——shu-yu-biao.md 四端/七情/四端七情之辩/湖洛之辩/实学/东学/体用 均在册；心统性情/未发/已发/本然气质之性/性嗜好说/洙泗学 不入册，判定为合规：源文自带汉字（心統性情圖/未發/已發/性嗜好說/洙泗學）中文照录无定名决策，与同簇 done 先例 korean-philosophy 登记口径一致（只登罗马字→中文定名项）；③术语无漂移——性理学 44 处、理学（理學）括注 1 处=源文 hanzi 照录；理学派 1/气学派 3/理派 1 与源文 the i and ki schools/materialist core of the ki school/proponents of Principle 逐一对应；④直引语逐字保留——《中庸》喜怒哀乐之未发谓之中、《论语》未能事人焉能事鬼·未知生焉知死、《孟子》五伦、《佛氏杂辨》佛氏之学有敬以正内而无义以直外 四组经引逐字在位；⑤逻辑回核——韩元震（气本然/唯物论内核/人性物性异）vs 李柬（理先/本心遍在/圣凡同本）立场未对调，四七辩两轮归属（退溪-高峰、栗谷-牛溪）正确，茶山上帝三段（拆卸理气/属性化理/自主职权权衡性嗜好说）叙述链与源文一致，r1 实修『无所不见』与下文『有人格、有意志』语境相容"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "REV2-main-20261114",
+      "at": "2026-11-13T19:45:59Z",
+      "evidence": "r3 终审（REV2-main-20261114）：终态四检全绿——check_style --strict 0 issue、check_academic --strict 0 硬错误（在途豁免 45 属 s3_checked/r1_reviewed 正常态）、check_math 0 缺失 0 失衡、check_prose 57 条与 s2 豁免档一致无新增；check_all 九项 9/9 全绿（r3 CI 判据）；r1 实修与 r2 登记、漂移、引文、逻辑四路核验无遗留；复核独立性：初译 actor K-main-20261108/08b，评审会话 REV2-main-20261114 独立（ISO 17100）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "REV2-main-20261114",
+      "at": "2026-11-13T19:45:59Z",
+      "evidence": "收口：korean-confucianism 全周期九步完成（clear→draft→s1→s2→s3→r1→r2→r3→done），r1 回源实修 1 处（all-seeing→无所不见），登记 27 人名在册，四检与 check_all 9/9 全绿，版本钉 pubinfo 2026-04-15/Summer 2026/SHA-256 513f16fe 在位"
     }
   ],
   "blockers": [],
