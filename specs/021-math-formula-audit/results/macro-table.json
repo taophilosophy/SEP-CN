@@ -1,0 +1,7354 @@
+{
+ "action": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "actualism-possibilism-ethics": {
+  "at": {
+   "n": 0,
+   "tmpl": "\\textrm{ at }"
+  },
+  "lamp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "rO": {
+   "n": 0,
+   "tmpl": "\\mathrm{O}"
+  }
+ },
+ "al-khunaji": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "algebra": {
+  "XOR": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\mathrm{\\scriptsize XOR}}"
+  }
+ },
+ "algebra-logic-tradition": {
+  "ORjev": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\cdot\\kern-.3em\\mid\\kern-.3em\\cdot}"
+  }
+ },
+ "apriori": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "artificial-intelligence": {
+  "Guilty": {
+   "n": 0,
+   "tmpl": "{\\mathit Guilty}"
+  },
+  "Intuition": {
+   "n": 0,
+   "tmpl": "{\\mathit Intuition}"
+  },
+  "P": {
+   "n": 0,
+   "tmpl": "\\mathbf{P}"
+  },
+  "PriceTChina": {
+   "n": 0,
+   "tmpl": "{\\mathit PriceTChina}"
+  },
+  "Weapon": {
+   "n": 0,
+   "tmpl": "{\\mathit Weapon}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "argmax": {
+   "n": 0,
+   "tmpl": "\\mathop{\\arg\\,\\max}"
+  },
+  "bE": {
+   "n": 0,
+   "tmpl": "\\mathbf{E}"
+  },
+  "false": {
+   "n": 0,
+   "tmpl": "{\\mathit false}"
+  },
+  "ff": {
+   "n": 0,
+   "tmpl": "\\mathbf{f}"
+  },
+  "gg": {
+   "n": 0,
+   "tmpl": "\\mathbf{g}"
+  },
+  "gggiven": {
+   "n": 0,
+   "tmpl": "\\mathrel{\\Big\\vert}"
+  },
+  "ggiven": {
+   "n": 0,
+   "tmpl": "\\mathrel{\\big\\vert}"
+  },
+  "given": {
+   "n": 0,
+   "tmpl": "\\mid"
+  },
+  "hh": {
+   "n": 0,
+   "tmpl": "\\mathbf{h}"
+  },
+  "hutterresponse": {
+   "n": 0,
+   "tmpl": "{\\left\\langle p_{n+1}, r_{n+1} \\right\\rangle}"
+  },
+  "opt": {
+   "n": 0,
+   "tmpl": "{\\rm opt}"
+  },
+  "rr": {
+   "n": 0,
+   "tmpl": "\\mathbf{r}"
+  },
+  "true": {
+   "n": 0,
+   "tmpl": "{\\mathit true}"
+  },
+  "watsonfeatvec": {
+   "n": 0,
+   "tmpl": "\\mathsf{v}_{\\langle \\mathsf{Q},\\mathsf{A_i}\\rangle}"
+  }
+ },
+ "axiom-choice": {
+  "Def": {
+   "n": 0,
+   "tmpl": "{\\mathrm{Def}}"
+  },
+  "Fun": {
+   "n": 0,
+   "tmpl": "{\\mathrm{Fun}}"
+  },
+  "Ord": {
+   "n": 0,
+   "tmpl": "{\\mathrm{Ord}}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bA": {
+   "n": 0,
+   "tmpl": "{\\mathbf{A}}"
+  },
+  "bB": {
+   "n": 0,
+   "tmpl": "{\\mathbf{B}}"
+  },
+  "bOne": {
+   "n": 0,
+   "tmpl": "{\\mathbf{1}}"
+  },
+  "bPhi": {
+   "n": 0,
+   "tmpl": "{\\mathbf{\\Phi}}"
+  },
+  "bfrac": {
+   "n": 2,
+   "tmpl": "{^{#1}\\unicode{x2044}_{#2}}"
+  },
+  "brightarrow": {
+   "n": 0,
+   "tmpl": "{\\mathbf{\\rightarrow}}"
+  },
+  "domain": {
+   "n": 0,
+   "tmpl": "{\\mathrm{domain}}"
+  },
+  "inn": {
+   "n": 0,
+   "tmpl": "\\,{\\in}\\,"
+  },
+  "rD": {
+   "n": 0,
+   "tmpl": "{\\mathrm{D}}"
+  },
+  "range": {
+   "n": 0,
+   "tmpl": "{\\mathrm{range}}"
+  },
+  "sA": {
+   "n": 0,
+   "tmpl": "{\\mathcal{A}}"
+  },
+  "sH": {
+   "n": 0,
+   "tmpl": "{\\mathcal{H}}"
+  },
+  "sI": {
+   "n": 0,
+   "tmpl": "{\\mathcal{I}}"
+  },
+  "sN": {
+   "n": 0,
+   "tmpl": "{\\mathcal{N}}"
+  },
+  "sP": {
+   "n": 0,
+   "tmpl": "{\\mathcal{P}}"
+  },
+  "sT": {
+   "n": 0,
+   "tmpl": "{\\mathcal{T}}"
+  },
+  "uI": {
+   "n": 0,
+   "tmpl": "{\\underline{1}}"
+  },
+  "uO": {
+   "n": 0,
+   "tmpl": "{\\underline{0}}"
+  }
+ },
+ "belief-merging": {
+  "IC": {
+   "n": 0,
+   "tmpl": "\\textit{IC}"
+  },
+  "mymax": {
+   "n": 0,
+   "tmpl": "\\textit{Max}"
+  },
+  "mymin": {
+   "n": 0,
+   "tmpl": "\\textit{min}"
+  },
+  "mymod": {
+   "n": 0,
+   "tmpl": "\\textit{mod}"
+  }
+ },
+ "bell-theorem": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "degr": {
+   "n": 0,
+   "tmpl": "\\unicode{xB0}"
+  },
+  "ket": {
+   "n": 1,
+   "tmpl": "{\\lvert #1 \\rangle}"
+  }
+ },
+ "bohr-correspondence": {
+  "rH": {
+   "n": 0,
+   "tmpl": "\\mathrm{H}"
+  }
+ },
+ "bolzano": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bfrac": {
+   "n": 2,
+   "tmpl": "{^{#1}\\!\\unicode{x2044}_{\\!#2}}"
+  }
+ },
+ "bolzano-logic": {
+  "cr": {
+   "n": 0,
+   "tmpl": "\\mathrm{cr}"
+  },
+  "ext": {
+   "n": 0,
+   "tmpl": "\\mathord{\\textrm{ext}\\;}"
+  },
+  "pr": {
+   "n": 0,
+   "tmpl": "\\mathrm{pr}"
+  }
+ },
+ "boolalg-math": {
+  "dom": {
+   "n": 0,
+   "tmpl": "\\text{dom}"
+  },
+  "range": {
+   "n": 0,
+   "tmpl": "\\text{range}"
+  },
+  "val": {
+   "n": 1,
+   "tmpl": "{\\lVert #1 \\rVert}"
+  }
+ },
+ "boole": {
+  "rF": {
+   "n": 0,
+   "tmpl": "\\mathrm{F}"
+  },
+  "rT": {
+   "n": 0,
+   "tmpl": "\\mathrm{T}"
+  }
+ },
+ "bounded-rationality": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bfrac": {
+   "n": 2,
+   "tmpl": "{^{#1}\\!\\unicode{x2044}_{\\!#2}}"
+  }
+ },
+ "branching-time": {
+  "TRL": {
+   "n": 0,
+   "tmpl": "\\textit{TRL}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "carnap": {
+  "Ae": {
+   "n": 0,
+   "tmpl": "\\mathrel{\\textit{Ae}}"
+  },
+  "Er": {
+   "n": 0,
+   "tmpl": "\\mathrel{\\textit{Er}}"
+  },
+  "Th": {
+   "n": 0,
+   "tmpl": "\\textit{Th}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "df": {
+   "n": 0,
+   "tmpl": "\\textrm{df}"
+  },
+  "erl": {
+   "n": 0,
+   "tmpl": "\\textit{erl}"
+  }
+ },
+ "category-theory": {
+  "Arrows": {
+   "n": 0,
+   "tmpl": "\\text{Arrows}"
+  },
+  "Objects": {
+   "n": 0,
+   "tmpl": "\\text{Objects}"
+  },
+  "id": {
+   "n": 0,
+   "tmpl": "\\text{id}"
+  }
+ },
+ "causal-models": {
+  "CEU": {
+   "n": 0,
+   "tmpl": "\\mathrm{CEU}"
+  },
+  "Diamond": {
+   "n": 0,
+   "tmpl": "\\unicode{x2B26}"
+  },
+  "EEU": {
+   "n": 0,
+   "tmpl": "\\mathrm{EEU}"
+  },
+  "Pr": {
+   "n": 0,
+   "tmpl": "\\mathrm{P}"
+  },
+  "Ur": {
+   "n": 0,
+   "tmpl": "\\mathrm{U}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bA": {
+   "n": 0,
+   "tmpl": "\\mathbf{A}"
+  },
+  "bB": {
+   "n": 0,
+   "tmpl": "\\mathbf{B}"
+  },
+  "bC": {
+   "n": 0,
+   "tmpl": "\\mathbf{C}"
+  },
+  "bDE": {
+   "n": 0,
+   "tmpl": "\\textbf{DE}"
+  },
+  "bG": {
+   "n": 0,
+   "tmpl": "\\mathbf{G}"
+  },
+  "bI": {
+   "n": 0,
+   "tmpl": "\\mathbf{I}"
+  },
+  "bPA": {
+   "n": 0,
+   "tmpl": "\\textbf{PA}"
+  },
+  "bS": {
+   "n": 0,
+   "tmpl": "\\mathbf{S}"
+  },
+  "bU": {
+   "n": 0,
+   "tmpl": "\\mathbf{U}"
+  },
+  "bV": {
+   "n": 0,
+   "tmpl": "\\mathbf{V}"
+  },
+  "bW": {
+   "n": 0,
+   "tmpl": "\\mathbf{W}"
+  },
+  "bX": {
+   "n": 0,
+   "tmpl": "\\mathbf{X}"
+  },
+  "bY": {
+   "n": 0,
+   "tmpl": "\\mathbf{Y}"
+  },
+  "bZ": {
+   "n": 0,
+   "tmpl": "\\mathbf{Z}"
+  },
+  "bfrac": {
+   "n": 2,
+   "tmpl": "{^{#1}\\unicode{x2044}_{#2}}"
+  },
+  "boxright": {
+   "n": 0,
+   "tmpl": "\\mathbin{{\\square}\\kern-1.5pt{\\raise.7pt{\\rightarrow}}}"
+  },
+  "bx": {
+   "n": 0,
+   "tmpl": "\\mathbf{x}"
+  },
+  "by": {
+   "n": 0,
+   "tmpl": "\\mathbf{y}"
+  },
+  "bz": {
+   "n": 0,
+   "tmpl": "\\mathbf{z}"
+  },
+  "dproves": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\rvert\\!{\\sim}}"
+  },
+  "frasl": {
+   "n": 0,
+   "tmpl": "\\unicode{x2044}"
+  },
+  "ido": {
+   "n": 0,
+   "tmpl": "\\textit{do}"
+  },
+  "llbracket": {
+   "n": 0,
+   "tmpl": "[\\!["
+  },
+  "notdproves": {
+   "n": 0,
+   "tmpl": "\\mathop{\\mathrel{\\rlap{\\hskip .2em/}}\\rvert\\!{\\sim}}"
+  },
+  "rrbracket": {
+   "n": 0,
+   "tmpl": "]\\!]"
+  }
+ },
+ "causation-backwards": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "rP": {
+   "n": 0,
+   "tmpl": "\\mathrm{P}"
+  }
+ },
+ "causation-mani": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "do": {
+   "n": 0,
+   "tmpl": "\\operatorname{\\textit{do}}"
+  }
+ },
+ "causation-metaphysics": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "boxto": {
+   "n": 0,
+   "tmpl": "\\mathbin{{\\square}\\kern-1.5pt{\\raise.7pt{\\to}}}"
+  },
+  "coloneqq": {
+   "n": 0,
+   "tmpl": ":="
+  }
+ },
+ "causation-physics": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "causation-probabilistic": {
+  "BH": {
+   "n": 0,
+   "tmpl": "\\textit{BH}"
+  },
+  "BS": {
+   "n": 0,
+   "tmpl": "\\textit{BS}"
+  },
+  "BT": {
+   "n": 0,
+   "tmpl": "\\textit{BT}"
+  },
+  "DE": {
+   "n": 0,
+   "tmpl": "\\textbf{DE}"
+  },
+  "PA": {
+   "n": 0,
+   "tmpl": "\\textbf{PA}"
+  },
+  "PP": {
+   "n": 0,
+   "tmpl": "\\mathrm{P}"
+  },
+  "PR": {
+   "n": 0,
+   "tmpl": "\\textrm{PR}"
+  },
+  "SH": {
+   "n": 0,
+   "tmpl": "\\textit{SH}"
+  },
+  "ST": {
+   "n": 0,
+   "tmpl": "\\textit{ST}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bG": {
+   "n": 0,
+   "tmpl": "\\mathbf{G}"
+  },
+  "bH": {
+   "n": 0,
+   "tmpl": "\\mathbf{H}"
+  },
+  "bJ": {
+   "n": 0,
+   "tmpl": "\\mathbf{J}"
+  },
+  "bU": {
+   "n": 0,
+   "tmpl": "\\mathbf{U}"
+  },
+  "bV": {
+   "n": 0,
+   "tmpl": "\\mathbf{V}"
+  },
+  "bW": {
+   "n": 0,
+   "tmpl": "\\mathbf{W}"
+  },
+  "bX": {
+   "n": 0,
+   "tmpl": "\\mathbf{X}"
+  },
+  "bY": {
+   "n": 0,
+   "tmpl": "\\mathbf{Y}"
+  },
+  "bZ": {
+   "n": 0,
+   "tmpl": "\\mathbf{Z}"
+  },
+  "bu": {
+   "n": 0,
+   "tmpl": "\\mathbf{u}"
+  },
+  "bw": {
+   "n": 0,
+   "tmpl": "\\mathbf{w}"
+  },
+  "bx": {
+   "n": 0,
+   "tmpl": "\\mathbf{x}"
+  },
+  "bz": {
+   "n": 0,
+   "tmpl": "\\mathbf{z}"
+  },
+  "do": {
+   "n": 0,
+   "tmpl": "\\textit{do}"
+  },
+  "nsim": {
+   "n": 0,
+   "tmpl": "\\mathord{\\sim}"
+  }
+ },
+ "causation-regularity": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "infd": {
+   "n": 0,
+   "tmpl": "\\mathbin{{|}\\mkern-3mu{\\sim}}"
+  },
+  "infdn": {
+   "n": 0,
+   "tmpl": "\\mathbin{{|}\\mkern-3mu{\\not\\sim}}"
+  }
+ },
+ "ceteris-paribus": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "dproves": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\rvert\\!{\\sim}}"
+  },
+  "ran": {
+   "n": 0,
+   "tmpl": "\\text{ran}"
+  }
+ },
+ "chance-randomness": {
+  "Ch": {
+   "n": 0,
+   "tmpl": "\\mathrm{Ch}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "chance": {
+   "n": 0,
+   "tmpl": "\\textit{chance}"
+  }
+ },
+ "change": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "chaos": {
+  "abs": {
+   "n": 1,
+   "tmpl": "\\left|{#1}\\right|"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bF": {
+   "n": 0,
+   "tmpl": "\\boldsymbol{F}"
+  },
+  "bJ": {
+   "n": 0,
+   "tmpl": "\\boldsymbol{J}"
+  },
+  "bfrac": {
+   "n": 2,
+   "tmpl": "{^{#1}\\unicode{x2044}_{#2}}"
+  },
+  "bx": {
+   "n": 0,
+   "tmpl": "\\boldsymbol{x}"
+  },
+  "by": {
+   "n": 0,
+   "tmpl": "\\boldsymbol{y}"
+  }
+ },
+ "church": {
+  "Tr": {
+   "n": 0,
+   "tmpl": "\\textrm{Tr}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "approxB": {
+   "n": 0,
+   "tmpl": "\\mathrel{\\boldsymbol{\\approx}}"
+  },
+  "cP": {
+   "n": 0,
+   "tmpl": "\\mathcal{P}"
+  },
+  "conv": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\textrm{conv}}"
+  },
+  "hdot": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\mathbf{.}}"
+  },
+  "het": {
+   "n": 0,
+   "tmpl": "\\textrm{het}"
+  },
+  "hhdot": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\boldsymbol{:}}"
+  },
+  "nsim": {
+   "n": 0,
+   "tmpl": "\\mathord{\\sim}"
+  },
+  "rF": {
+   "n": 0,
+   "tmpl": "\\mathrm{F}"
+  },
+  "rL": {
+   "n": 0,
+   "tmpl": "\\mathrm{L}"
+  },
+  "sequiv": {
+   "n": 0,
+   "tmpl": "\\mathrel{≣}"
+  },
+  "stF": {
+   "n": 0,
+   "tmpl": "\\mathbf{F}"
+  },
+  "stK": {
+   "n": 0,
+   "tmpl": "\\mathbf{K}"
+  },
+  "stL": {
+   "n": 0,
+   "tmpl": "\\mathbf{L}"
+  },
+  "stN": {
+   "n": 0,
+   "tmpl": "\\mathbf{N}"
+  },
+  "ste": {
+   "n": 0,
+   "tmpl": "\\mathbf{e}"
+  },
+  "stm": {
+   "n": 0,
+   "tmpl": "\\mathbf{m}"
+  },
+  "stp": {
+   "n": 0,
+   "tmpl": "\\mathbf{p}"
+  },
+  "str": {
+   "n": 0,
+   "tmpl": "\\mathbf{r}"
+  },
+  "stw": {
+   "n": 0,
+   "tmpl": "\\mathbf{w}"
+  },
+  "val": {
+   "n": 0,
+   "tmpl": "\\textrm{val}"
+  }
+ },
+ "church-turing": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "common-knowledge": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "indi": {
+   "n": 0,
+   "tmpl": "\\mathbin{ind_i}"
+  },
+  "indj": {
+   "n": 0,
+   "tmpl": "\\mathbin{ind_j}"
+  }
+ },
+ "compositionality": {
+  "b": {
+   "n": 1,
+   "tmpl": "\\mathbf{#1}"
+  },
+  "bB": {
+   "n": 0,
+   "tmpl": "\\mathbf{B}"
+  },
+  "bK": {
+   "n": 0,
+   "tmpl": "\\mathbf{K}"
+  },
+  "bN": {
+   "n": 0,
+   "tmpl": "\\mathbf{N}"
+  },
+  "bQ": {
+   "n": 0,
+   "tmpl": "\\mathbf{Q}"
+  },
+  "bR": {
+   "n": 0,
+   "tmpl": "\\mathbf{R}"
+  },
+  "ba": {
+   "n": 0,
+   "tmpl": "\\mathbf{a}"
+  },
+  "bb": {
+   "n": 0,
+   "tmpl": "\\mathbf{b}"
+  },
+  "bh": {
+   "n": 0,
+   "tmpl": "\\mathbf{h}"
+  }
+ },
+ "computability": {
+  "EXPTIME": {
+   "n": 0,
+   "tmpl": "{\\mathrm{EXPTIME}}"
+  },
+  "NP": {
+   "n": 0,
+   "tmpl": "{\\mathrm{NP}}"
+  },
+  "P": {
+   "n": 0,
+   "tmpl": "{\\mathrm{P}}"
+  },
+  "PSPACE": {
+   "n": 0,
+   "tmpl": "{\\mathrm{PSPACE}}"
+  },
+  "SPACE": {
+   "n": 0,
+   "tmpl": "{\\mathrm{SPACE}}"
+  },
+  "TIME": {
+   "n": 0,
+   "tmpl": "{\\mathrm{TIME}}"
+  }
+ },
+ "computational-complexity": {
+  "llbracket": {
+   "n": 0,
+   "tmpl": "\\mathopen{[\\![}"
+  },
+  "rrbracket": {
+   "n": 0,
+   "tmpl": "\\mathclose{]\\!]}"
+  }
+ },
+ "conditionals": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bp": {
+   "n": 0,
+   "tmpl": "\\mathbf{p}"
+  }
+ },
+ "confirmation": {
+  "Log": {
+   "n": 0,
+   "tmpl": "{\\mathrm{Log}}"
+  },
+  "bL": {
+   "n": 0,
+   "tmpl": "{\\mathbf{L}}"
+  },
+  "bP": {
+   "n": 0,
+   "tmpl": "{\\mathbf{P}}"
+  },
+  "bfrac": {
+   "n": 2,
+   "tmpl": "{^{#1}\\unicode{x2044}_{#2}}"
+  }
+ },
+ "connectives-logic": {
+  "Glo": {
+   "n": 0,
+   "tmpl": "\\textit{Glo}"
+  },
+  "Knot": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\sc{Knot}}"
+  },
+  "Mod": {
+   "n": 0,
+   "tmpl": "\\textit{Mod}"
+  },
+  "Sat": {
+   "n": 0,
+   "tmpl": "\\textit{Sat}"
+  },
+  "Sun": {
+   "n": 0,
+   "tmpl": "\\textit{Sun}"
+  },
+  "Tonk": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\sc{Tonk}}"
+  },
+  "Val": {
+   "n": 0,
+   "tmpl": "\\textit{Val}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "hash": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\#}"
+  },
+  "ldquo": {
+   "n": 0,
+   "tmpl": "{\\text{“}}"
+  },
+  "or": {
+   "n": 0,
+   "tmpl": "\\mathbin{{\\scriptsize\\text{OR}}}"
+  },
+  "rF": {
+   "n": 0,
+   "tmpl": "\\text{F}"
+  },
+  "rT": {
+   "n": 0,
+   "tmpl": "\\text{T}"
+  },
+  "rdquo": {
+   "n": 0,
+   "tmpl": "{\\text{”}}"
+  },
+  "sc": {
+   "n": 1,
+   "tmpl": "\\style{font-variant-caps: small-caps}{\\text{#1}}"
+  }
+ },
+ "conservation-biology": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "continuity": {
+  "D": {
+   "n": 0,
+   "tmpl": "\\mathit{d}"
+  },
+  "Dx": {
+   "n": 0,
+   "tmpl": "\\mathop{\\D x}"
+  },
+  "Dy": {
+   "n": 0,
+   "tmpl": "\\mathop{\\D y}"
+  },
+  "In": {
+   "n": 0,
+   "tmpl": "\\textit{In}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "apart": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\#}"
+  },
+  "bN": {
+   "n": 0,
+   "tmpl": "\\mathbf{N}"
+  },
+  "bNs": {
+   "n": 0,
+   "tmpl": "\\mathbf{N^*}"
+  },
+  "bR": {
+   "n": 0,
+   "tmpl": "\\mathbf{R}"
+  },
+  "bbN": {
+   "n": 0,
+   "tmpl": "\\mathbb{N}"
+  },
+  "cF": {
+   "n": 0,
+   "tmpl": "\\mathcal{F}"
+  },
+  "cL": {
+   "n": 0,
+   "tmpl": "\\mathcal{L}"
+  },
+  "cP": {
+   "n": 0,
+   "tmpl": "\\mathcal{P}"
+  },
+  "fA": {
+   "n": 0,
+   "tmpl": "\\mathfrak{A}"
+  },
+  "fU": {
+   "n": 0,
+   "tmpl": "\\mathfrak{U}"
+  },
+  "wamp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\;\\&\\;}"
+  },
+  "wland": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\;\\land\\;}"
+  },
+  "wlor": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\;\\lor\\;}"
+  }
+ },
+ "contradiction": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "convention": {
+  "bfrac": {
+   "n": 2,
+   "tmpl": "{^{#1}\\unicode{x2044}_{#2}}"
+  }
+ },
+ "cosmology": {
+  "coloneqq": {
+   "n": 0,
+   "tmpl": "\\mathbin{:=}"
+  }
+ },
+ "counterfactuals": {
+  "Diamond": {
+   "n": 0,
+   "tmpl": "\\unicode{x2B26}"
+  },
+  "strictif": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\unicode{x297d}}"
+  }
+ },
+ "death": {
+  "ED": {
+   "n": 0,
+   "tmpl": "\\mathrm{ED}"
+  },
+  "SD": {
+   "n": 0,
+   "tmpl": "\\mathrm{SD}"
+  },
+  "T": {
+   "n": 0,
+   "tmpl": "\\mathrm{T}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "harm": {
+   "n": 0,
+   "tmpl": "\\mathrm{harm}"
+  }
+ },
+ "decision-causal": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "util": {
+   "n": 0,
+   "tmpl": "\\,\\textit{U}"
+  }
+ },
+ "decision-theory": {
+  "bB": {
+   "n": 0,
+   "tmpl": "\\mathbf{B}"
+  },
+  "bF": {
+   "n": 0,
+   "tmpl": "\\mathbf{F}"
+  },
+  "bL": {
+   "n": 0,
+   "tmpl": "\\mathbf{L}"
+  },
+  "bO": {
+   "n": 0,
+   "tmpl": "\\mathbf{O}"
+  },
+  "bS": {
+   "n": 0,
+   "tmpl": "\\mathbf{S}"
+  },
+  "cbrel": {
+   "n": 0,
+   "tmpl": "\\mathrel{.\\prec.}"
+  },
+  "wcbrel": {
+   "n": 0,
+   "tmpl": "\\mathrel{.\\precsim.}"
+  },
+  "wcbsim": {
+   "n": 0,
+   "tmpl": "\\mathrel{.\\sim.}"
+  }
+ },
+ "decision-theory-descriptive": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "nicefrac": {
+   "n": 2,
+   "tmpl": "#1/#2"
+  }
+ },
+ "definitions": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "eqdf": {
+   "n": 0,
+   "tmpl": "\\,=_{\\textrm{df}}\\,"
+  }
+ },
+ "dependence-ontological": {
+  "Rrel": {
+   "n": 0,
+   "tmpl": "\\mathbin{R}"
+  }
+ },
+ "diodorus-cronus": {
+  "Diamond": {
+   "n": 0,
+   "tmpl": "\\unicode{x2B26}"
+  }
+ },
+ "discourse-representation-theory": {
+  "R": {
+   "n": 1,
+   "tmpl": "\\mathrm{#1}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "cb": {
+   "n": 1,
+   "tmpl": "{\\color{DarkMagenta}{#1}}"
+  },
+  "rar": {
+   "n": 0,
+   "tmpl": "\\mathrel{\\supset\\kern-.1em\\subset}"
+  },
+  "ul": {
+   "n": 1,
+   "tmpl": "\\underline{#1}"
+  },
+  "ulR": {
+   "n": 1,
+   "tmpl": "\\underline{\\mathrm{#1}}"
+  }
+ },
+ "disjunction": {
+  "dance": {
+   "n": 0,
+   "tmpl": "\\textbf{dance}"
+  },
+  "man": {
+   "n": 0,
+   "tmpl": "\\textbf{man}"
+  },
+  "sing": {
+   "n": 0,
+   "tmpl": "\\textbf{sing}"
+  },
+  "vcap": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\style{font-family:Times}{\\text{v̑}}}"
+  }
+ },
+ "dispositions": {
+  "rsquo": {
+   "n": 0,
+   "tmpl": "{\\text{’}}"
+  }
+ },
+ "dutch-book": {
+  "cr": {
+   "n": 0,
+   "tmpl": "\\mathrm{cr}"
+  },
+  "pr": {
+   "n": 0,
+   "tmpl": "\\mathrm{pr}"
+  }
+ },
+ "dynamic-epistemic": {
+  "AM": {
+   "n": 0,
+   "tmpl": "{\\mathsf{AM}}"
+  },
+  "AMC": {
+   "n": 0,
+   "tmpl": "{\\mathsf{AM}{+}C}"
+  },
+  "AMS": {
+   "n": 0,
+   "tmpl": "{{\\mathsf{AM{+}S}}}"
+  },
+  "APAL": {
+   "n": 0,
+   "tmpl": "{\\mathsf{APAL}}"
+  },
+  "APUL": {
+   "n": 0,
+   "tmpl": "{\\mathsf{APUL}}"
+  },
+  "At": {
+   "n": 0,
+   "tmpl": "{\\mathsf{At}}"
+  },
+  "CDL": {
+   "n": 0,
+   "tmpl": "{\\mathsf{CDL}}"
+  },
+  "CPAM": {
+   "n": 0,
+   "tmpl": "{\\mathsf{CPAM}}"
+  },
+  "CU": {
+   "n": 0,
+   "tmpl": "{\\mathsf{CU}}"
+  },
+  "CaU": {
+   "n": 0,
+   "tmpl": "{\\mathsf{CaU}}"
+  },
+  "Cl": {
+   "n": 0,
+   "tmpl": "{\\mathsf{Cl}}"
+  },
+  "DEL": {
+   "n": 0,
+   "tmpl": "{\\mathsf{DEL}}"
+  },
+  "DEUL": {
+   "n": 0,
+   "tmpl": "{\\mathsf{DEUL}}"
+  },
+  "EAL": {
+   "n": 0,
+   "tmpl": "{\\mathsf{EAL}}"
+  },
+  "EALC": {
+   "n": 0,
+   "tmpl": "{\\mathsf{EAL}{+}C}"
+  },
+  "EALS": {
+   "n": 0,
+   "tmpl": "{\\mathsf{EAL{+}S}}"
+  },
+  "EUM": {
+   "n": 0,
+   "tmpl": "{\\mathsf{EUM}}"
+  },
+  "GDDL": {
+   "n": 0,
+   "tmpl": "{\\mathsf{GDDL}}"
+  },
+  "GML": {
+   "n": 0,
+   "tmpl": "{\\mathsf{GML}}"
+  },
+  "JBG": {
+   "n": 0,
+   "tmpl": "{\\mathsf{JBG}}"
+  },
+  "KBox": {
+   "n": 0,
+   "tmpl": "{\\mathsf{K}\\Box}"
+  },
+  "L": {
+   "n": 0,
+   "tmpl": "{\\mathsf{L}}"
+  },
+  "LCC": {
+   "n": 0,
+   "tmpl": "{\\mathsf{LCC}}"
+  },
+  "LEAL": {
+   "n": 0,
+   "tmpl": "{(\\mathsf{L}{+}\\text{EAL})}"
+  },
+  "LPAL": {
+   "n": 0,
+   "tmpl": "{(\\L\\text{+PAL})}"
+  },
+  "LRCKP": {
+   "n": 0,
+   "tmpl": "{(\\L\\text{+RCK+P})}"
+  },
+  "Lang": {
+   "n": 0,
+   "tmpl": "{\\mathcal L}"
+  },
+  "MPri": {
+   "n": 0,
+   "tmpl": "{\\mathsf{MPri}}"
+  },
+  "PAL": {
+   "n": 0,
+   "tmpl": "{\\mathsf{PAL}}"
+  },
+  "PALC": {
+   "n": 0,
+   "tmpl": "{\\mathsf{PAL}{+}C}"
+  },
+  "PAM": {
+   "n": 0,
+   "tmpl": "{\\mathsf{PAM}}"
+  },
+  "Pri": {
+   "n": 0,
+   "tmpl": "{\\mathsf{Pri}}"
+  },
+  "Pub": {
+   "n": 0,
+   "tmpl": "{\\mathsf{Pub}}"
+  },
+  "RCK": {
+   "n": 0,
+   "tmpl": "{\\mathsf{RCK}}"
+  },
+  "RCKP": {
+   "n": 0,
+   "tmpl": "{\\mathsf{RCK{+}P}}"
+  },
+  "Up": {
+   "n": 0,
+   "tmpl": "{\\Uparrow}"
+  },
+  "arr": {
+   "n": 0,
+   "tmpl": "{\\,{\\gg}\\,}"
+  },
+  "bisim": {
+   "n": 0,
+   "tmpl": "\\mathrel{\\overset{\\leftrightarrow}{\\_}}"
+  },
+  "cc": {
+   "n": 0,
+   "tmpl": "{\\mathsf{cc}}"
+  },
+  "ccoloneqq": {
+   "n": 0,
+   "tmpl": "\\;{\\mathrel{::=}}\\;"
+  },
+  "col": {
+   "n": 0,
+   "tmpl": "{\\,{:}\\,}"
+  },
+  "coloneqq": {
+   "n": 0,
+   "tmpl": "{\\mathrel{\\;:=\\;}}"
+  },
+  "con": {
+   "n": 0,
+   "tmpl": "{\\mathsf{con}}"
+  },
+  "may": {
+   "n": 1,
+   "tmpl": "{\\langle}{#1}{\\rangle}"
+  },
+  "pre": {
+   "n": 0,
+   "tmpl": "{\\mathsf{pre}}"
+  },
+  "rPri": {
+   "n": 0,
+   "tmpl": "{\\mathsf{rPri}}"
+  },
+  "rPub": {
+   "n": 0,
+   "tmpl": "{\\mathsf{rPub}}"
+  },
+  "sA": {
+   "n": 0,
+   "tmpl": "{\\mathcal A}"
+  },
+  "sC": {
+   "n": 0,
+   "tmpl": "{\\mathcal C}"
+  },
+  "sP": {
+   "n": 0,
+   "tmpl": "{\\mathcal P}"
+  },
+  "sem": {
+   "n": 1,
+   "tmpl": "{\\lbrack\\!\\lbrack{#1}\\rbrack\\!\\rbrack}"
+  },
+  "sub": {
+   "n": 0,
+   "tmpl": "{\\mathsf{sub}}"
+  },
+  "taglabel": {
+   "n": 1,
+   "tmpl": "{\\tag{#1}\\label{#1}}"
+  },
+  "up": {
+   "n": 0,
+   "tmpl": "{\\uparrow}"
+  }
+ },
+ "dynamic-semantics": {
+  "mcaret": {
+   "n": 0,
+   "tmpl": "\\mathbin{{}^{\\wedge}}"
+  }
+ },
+ "ecological-genetics": {
+  "rE": {
+   "n": 0,
+   "tmpl": "\\mathrm{E}"
+  },
+  "rG": {
+   "n": 0,
+   "tmpl": "\\mathrm{G}"
+  }
+ },
+ "emily-elizabeth-constance-jones": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "epistemic-game": {
+  "A": {
+   "n": 0,
+   "tmpl": "{N}"
+  },
+  "Act": {
+   "n": 0,
+   "tmpl": "{\\textit{Act}}"
+  },
+  "Agt": {
+   "n": 0,
+   "tmpl": "{N}"
+  },
+  "Ann": {
+   "n": 0,
+   "tmpl": "{\\textrm{Ann}}"
+  },
+  "At": {
+   "n": 0,
+   "tmpl": "{\\mathsf At}"
+  },
+  "Bob": {
+   "n": 0,
+   "tmpl": "{\\textrm{Bob}}"
+  },
+  "CB": {
+   "n": 0,
+   "tmpl": "{\\textit{CB}}"
+  },
+  "CK": {
+   "n": 0,
+   "tmpl": "{\\textit{CK}}"
+  },
+  "E": {
+   "n": 0,
+   "tmpl": "{\\mathcal E}"
+  },
+  "EU": {
+   "n": 0,
+   "tmpl": "{\\textit{EU}}"
+  },
+  "L": {
+   "n": 0,
+   "tmpl": "{\\mathcal L}"
+  },
+  "Max": {
+   "n": 0,
+   "tmpl": "{\\textit{Max}}"
+  },
+  "Out": {
+   "n": 0,
+   "tmpl": "{\\textit{Out}}"
+  },
+  "Rat": {
+   "n": 0,
+   "tmpl": "{\\mathsf{Rat}}"
+  },
+  "SB": {
+   "n": 0,
+   "tmpl": "{\\textit{SB}}"
+  },
+  "SRat": {
+   "n": 0,
+   "tmpl": "{\\mathsf{SRat}}"
+  },
+  "bigtimes": {
+   "n": 0,
+   "tmpl": "{\\mathsf X}"
+  },
+  "cC": {
+   "n": 0,
+   "tmpl": "{\\mathcal C}"
+  },
+  "cM": {
+   "n": 0,
+   "tmpl": "{\\mathcal M}"
+  },
+  "cT": {
+   "n": 0,
+   "tmpl": "{\\mathcal T}"
+  },
+  "epprobmodel": {
+   "n": 0,
+   "tmpl": "{\\langle W, \\{\\Pi_i\\}_{i\\in N}, \\{p_i\\}_{i\\in N},\\sigma\\rangle}"
+  },
+  "kripkemodel": {
+   "n": 0,
+   "tmpl": "{\\langle W, \\{\\Pi_i\\}_{i\\in N}, \\sigma\\rangle}"
+  },
+  "lang": {
+   "n": 0,
+   "tmpl": "{\\mathcal L}"
+  },
+  "oU": {
+   "n": 0,
+   "tmpl": "{\\overline\\{U\\}}"
+  },
+  "ou": {
+   "n": 0,
+   "tmpl": "{\\overline\\{u\\}}"
+  },
+  "out": {
+   "n": 0,
+   "tmpl": "{\\textit{out}}"
+  },
+  "plausmodel": {
+   "n": 0,
+   "tmpl": "{\\langle W, \\{\\Pi_i\\}_{i\\in N}, \\{\\preceq_i\\}_{i\\in N},\\sigma\\rangle}"
+  },
+  "pow": {
+   "n": 0,
+   "tmpl": "{\\wp}"
+  }
+ },
+ "epistemic-paradoxes": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "epistemic-self-doubt": {
+  "PR": {
+   "n": 0,
+   "tmpl": "\\textit{PR}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "cdd": {
+   "n": 0,
+   "tmpl": "\\mathbin{.}"
+  }
+ },
+ "epistemic-utility": {
+  "dag": {
+   "n": 0,
+   "tmpl": "{\\dagger}"
+  },
+  "gt": {
+   "n": 0,
+   "tmpl": "\\mathbin{>}"
+  },
+  "lt": {
+   "n": 0,
+   "tmpl": "\\mathbin{<}"
+  },
+  "pr": {
+   "n": 0,
+   "tmpl": "{\\succeq}"
+  }
+ },
+ "epistemology-bayesian": {
+  "Ch": {
+   "n": 0,
+   "tmpl": "\\textrm{Ch}"
+  },
+  "Cr": {
+   "n": 0,
+   "tmpl": "\\textrm{Cr}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "mcomplement": {
+   "n": 0,
+   "tmpl": "\\smallsetminus"
+  },
+  "ovrightarrow": {
+   "n": 1,
+   "tmpl": "\\overset{\\text{#1}}{\\longrightarrow}"
+  },
+  "wcdot": {
+   "n": 0,
+   "tmpl": "\\cdot"
+  }
+ },
+ "epistemology-evolutionary": {
+  "Pr": {
+   "n": 0,
+   "tmpl": "\\text{Pr}"
+  },
+  "frasl": {
+   "n": 0,
+   "tmpl": "\\unicode{x2044}"
+  }
+ },
+ "epistemology-visual-thinking": {
+  "re": {
+   "n": 0,
+   "tmpl": "\\mathrm{e}"
+  },
+  "rf": {
+   "n": 0,
+   "tmpl": "\\mathrm{f}"
+  },
+  "rr": {
+   "n": 0,
+   "tmpl": "\\mathrm{r}"
+  },
+  "rs": {
+   "n": 0,
+   "tmpl": "\\mathrm{s}"
+  },
+  "rv": {
+   "n": 0,
+   "tmpl": "\\mathrm{v}"
+  }
+ },
+ "equivME": {
+  "Li": {
+   "n": 0,
+   "tmpl": "\\text{Li}"
+  },
+  "S": {
+   "n": 0,
+   "tmpl": "\\text{S}"
+  },
+  "Si": {
+   "n": 0,
+   "tmpl": "\\text{Si}"
+  },
+  "rel": {
+   "n": 0,
+   "tmpl": "\\textit{rel}"
+  }
+ },
+ "ergodic-hierarchy": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "essential-accidental": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "rSocrates": {
+   "n": 0,
+   "tmpl": "\\text{Socrates}"
+  },
+  "rexists": {
+   "n": 0,
+   "tmpl": "\\text{ exists}"
+  }
+ },
+ "evil": {
+  "Pr": {
+   "n": 0,
+   "tmpl": "{\\bf Pr}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "negt": {
+   "n": 0,
+   "tmpl": "{\\sim}"
+  }
+ },
+ "facts": {
+  "CES": {
+   "n": 0,
+   "tmpl": "\\textrm{ces}"
+  },
+  "DES": {
+   "n": 0,
+   "tmpl": "\\textrm{des}"
+  },
+  "ES": {
+   "n": 0,
+   "tmpl": "\\textrm{es}"
+  },
+  "TS": {
+   "n": 0,
+   "tmpl": "\\textrm{ts}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "setsub": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\backslash}"
+  }
+ },
+ "fictionalism-modal": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "fine-tuning": {
+  "FH": {
+   "n": 0,
+   "tmpl": "\\textrm{H}"
+  },
+  "Fphys": {
+   "n": 0,
+   "tmpl": "\\textrm{phys}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "fitch-paradox": {
+  "A": {
+   "n": 0,
+   "tmpl": "\\mathrm{A}"
+  },
+  "P": {
+   "n": 0,
+   "tmpl": "\\mathrm{P}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "formal-belief": {
+  "Bel": {
+   "n": 0,
+   "tmpl": "\\mathbf{B}"
+  },
+  "Cn": {
+   "n": 0,
+   "tmpl": "\\mathrm{Cn}"
+  },
+  "Nu": {
+   "n": 0,
+   "tmpl": "\\mathrm{N}"
+  },
+  "Pl": {
+   "n": 0,
+   "tmpl": "\\mathrm{Pl}"
+  },
+  "Pr": {
+   "n": 0,
+   "tmpl": "\\mathrm{Pr}"
+  },
+  "Sophia": {
+   "n": 0,
+   "tmpl": "\\textrm{Sophia}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bB": {
+   "n": 0,
+   "tmpl": "\\mathbf{B}"
+  },
+  "bL": {
+   "n": 0,
+   "tmpl": "\\mathbf{L}"
+  },
+  "bN": {
+   "n": 0,
+   "tmpl": "\\mathbf{N}"
+  },
+  "bfrac": {
+   "n": 2,
+   "tmpl": "{^{#1}\\unicode{x2044}_{#2}}"
+  },
+  "dproves": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\rvert\\!{\\sim}}"
+  },
+  "m": {
+   "n": 0,
+   "tmpl": "\\mathrm{m}"
+  },
+  "ndproves": {
+   "n": 0,
+   "tmpl": "\\not\\mkern-7mu\\dproves"
+  },
+  "preccurlyneq": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\unicode{x2AB1}}"
+  },
+  "rI": {
+   "n": 0,
+   "tmpl": "\\mathrm{I}"
+  },
+  "rP": {
+   "n": 0,
+   "tmpl": "\\mathrm{P}"
+  }
+ },
+ "formal-epistemology": {
+  "bwedge": {
+   "n": 0,
+   "tmpl": "\\boldsymbol{\\wedge}"
+  },
+  "qed": {
+   "n": 0,
+   "tmpl": "\\blacksquare"
+  }
+ },
+ "formalism-mathematics": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "frege": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "apprxclose": {
+   "n": 0,
+   "tmpl": "\\,{\\approx}\\,"
+  },
+  "eqabbr": {
+   "n": 0,
+   "tmpl": "\\: =_{abbr} \\,"
+  },
+  "eqclose": {
+   "n": 0,
+   "tmpl": "\\,{=}\\,"
+  },
+  "eqdef": {
+   "n": 0,
+   "tmpl": "\\: =_{df} \\,"
+  },
+  "equivwide": {
+   "n": 0,
+   "tmpl": "\\,\\equiv\\,"
+  },
+  "eqwide": {
+   "n": 0,
+   "tmpl": "\\,=\\,"
+  },
+  "inclose": {
+   "n": 0,
+   "tmpl": "\\,{\\in}\\,"
+  },
+  "neqclose": {
+   "n": 0,
+   "tmpl": "\\,{\\neq}\\,"
+  },
+  "notinclose": {
+   "n": 0,
+   "tmpl": "\\,{\\notin}\\,"
+  },
+  "sm": {
+   "n": 1,
+   "tmpl": "{\\stackrel{,}{#1}}"
+  },
+  "towide": {
+   "n": 0,
+   "tmpl": "\\,\\to\\,"
+  }
+ },
+ "frege-theorem": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "apprxclose": {
+   "n": 0,
+   "tmpl": "\\,{\\approx}\\,"
+  },
+  "eqabbr": {
+   "n": 0,
+   "tmpl": "\\: =_{abbr} \\,"
+  },
+  "eqclose": {
+   "n": 0,
+   "tmpl": "\\,{=}\\,"
+  },
+  "eqdef": {
+   "n": 0,
+   "tmpl": "\\: =_{\\mathit{df}} \\,"
+  },
+  "equivwide": {
+   "n": 0,
+   "tmpl": "\\,\\equiv\\,"
+  },
+  "eqwide": {
+   "n": 0,
+   "tmpl": "\\,=\\,"
+  },
+  "inclose": {
+   "n": 0,
+   "tmpl": "\\,{\\in}\\,"
+  },
+  "neqclose": {
+   "n": 0,
+   "tmpl": "\\,{\\neq}\\,"
+  },
+  "notinclose": {
+   "n": 0,
+   "tmpl": "\\,{\\notin}\\,"
+  },
+  "towide": {
+   "n": 0,
+   "tmpl": "\\,{\\to}\\,"
+  }
+ },
+ "future-contingents": {
+  "Diamond": {
+   "n": 0,
+   "tmpl": "\\unicode{x2B26}"
+  },
+  "Ock": {
+   "n": 0,
+   "tmpl": "\\textit{Ock}"
+  },
+  "Peirce": {
+   "n": 0,
+   "tmpl": "\\textit{Peirce}"
+  },
+  "TRL": {
+   "n": 0,
+   "tmpl": "\\textit{TRL}"
+  },
+  "TRUE": {
+   "n": 0,
+   "tmpl": "\\textit{TRUE}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "back": {
+   "n": 0,
+   "tmpl": "\\textit{back}"
+  },
+  "dur": {
+   "n": 0,
+   "tmpl": "\\textit{dur}"
+  },
+  "ldquo": {
+   "n": 0,
+   "tmpl": "{\\text{“}}"
+  },
+  "next": {
+   "n": 0,
+   "tmpl": "\\textit{next}"
+  },
+  "rdquo": {
+   "n": 0,
+   "tmpl": "{\\text{”}}"
+  },
+  "temp": {
+   "n": 0,
+   "tmpl": "\\textit{temp}"
+  }
+ },
+ "game-ethics": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "be": {
+   "n": 0,
+   "tmpl": "\\mathbf{e}"
+  },
+  "bu": {
+   "n": 0,
+   "tmpl": "\\mathbf{u}"
+  },
+  "bw": {
+   "n": 0,
+   "tmpl": "\\mathbf{w}"
+  },
+  "bx": {
+   "n": 0,
+   "tmpl": "\\mathbf{x}"
+  }
+ },
+ "game-evolutionary": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "frasl": {
+   "n": 0,
+   "tmpl": "\\unicode{x2044}"
+  }
+ },
+ "games-abstraction": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "blbr": {
+   "n": 0,
+   "tmpl": "[\\ ]"
+  },
+  "lll": {
+   "n": 0,
+   "tmpl": "\\mathopen{[\\![}"
+  },
+  "opDownarrow": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\Downarrow}"
+  },
+  "opUparrow": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\Uparrow}"
+  },
+  "opuparrow": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\uparrow}"
+  },
+  "rll": {
+   "n": 0,
+   "tmpl": "\\mathclose{]\\!]}"
+  }
+ },
+ "gauge-theories": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "generalized-quantifiers": {
+  "Eq": {
+   "n": 0,
+   "tmpl": "\\,\\iff\\,"
+  },
+  "FO": {
+   "n": 0,
+   "tmpl": "\\textit{FO}"
+  },
+  "LFP": {
+   "n": 0,
+   "tmpl": "\\textit{LFP}"
+  },
+  "M": {
+   "n": 0,
+   "tmpl": "\\mathcal{M}"
+  },
+  "ST": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\textrm{s.t.}}"
+  },
+  "TC": {
+   "n": 0,
+   "tmpl": "\\textit{TC}"
+  },
+  "abar": {
+   "n": 0,
+   "tmpl": "\\bar{a}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bbar": {
+   "n": 0,
+   "tmpl": "\\bar{b}"
+  },
+  "cbar": {
+   "n": 0,
+   "tmpl": "\\bar{c}"
+  },
+  "emp": {
+   "n": 0,
+   "tmpl": "\\emptyset"
+  },
+  "f": {
+   "n": 0,
+   "tmpl": "\\varphi"
+  },
+  "p": {
+   "n": 0,
+   "tmpl": "\\psi"
+  },
+  "textsc": {
+   "n": 1,
+   "tmpl": "\\scriptsize{\\text{#1}}"
+  },
+  "xbar": {
+   "n": 0,
+   "tmpl": "\\bar{x}"
+  },
+  "ybar": {
+   "n": 0,
+   "tmpl": "\\bar{y}"
+  },
+  "zbar": {
+   "n": 0,
+   "tmpl": "\\bar{z}"
+  }
+ },
+ "geometry-finitism": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "goedel": {
+  "Con": {
+   "n": 0,
+   "tmpl": "\\textrm{Con}"
+  },
+  "Cons": {
+   "n": 0,
+   "tmpl": "\\textit{Cons}"
+  },
+  "Prf": {
+   "n": 0,
+   "tmpl": "\\textrm{Prf}"
+  },
+  "Prov": {
+   "n": 0,
+   "tmpl": "\\textrm{Prov}"
+  },
+  "True": {
+   "n": 0,
+   "tmpl": "\\textit{True}"
+  },
+  "impl": {
+   "n": 0,
+   "tmpl": "\\textit{impl}"
+  },
+  "lsq": {
+   "n": 0,
+   "tmpl": "{\\text{‘}}"
+  },
+  "num": {
+   "n": 0,
+   "tmpl": "{\\raise1pt{\\scriptsize\\#}}"
+  },
+  "rsq": {
+   "n": 0,
+   "tmpl": "{\\text{’}}"
+  }
+ },
+ "goedel-incompleteness": {
+  "Cons": {
+   "n": 0,
+   "tmpl": "\\textit{Cons}"
+  },
+  "Prf": {
+   "n": 0,
+   "tmpl": "\\textit{Prf}"
+  },
+  "Prov": {
+   "n": 0,
+   "tmpl": "\\textit{Prov}"
+  },
+  "True": {
+   "n": 0,
+   "tmpl": "\\textit{True}"
+  },
+  "impl": {
+   "n": 0,
+   "tmpl": "\\textit{impl}"
+  },
+  "lsq": {
+   "n": 0,
+   "tmpl": "{\\text{‘}}"
+  },
+  "num": {
+   "n": 0,
+   "tmpl": "\\boldsymbol{\\raise1pt{\\scriptsize\\#}}"
+  },
+  "rsq": {
+   "n": 0,
+   "tmpl": "{\\text{’}}"
+  }
+ },
+ "goodman": {
+  "fusion": {
+   "n": 0,
+   "tmpl": "{\\mathbin{\\mbox{Fu}}}"
+  },
+  "overlaps": {
+   "n": 0,
+   "tmpl": "{\\mathbin{\\mathbf{o}}}"
+  }
+ },
+ "hempel": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "df": {
+   "n": 0,
+   "tmpl": "\\textrm{df}"
+  }
+ },
+ "heritability": {
+  "COV": {
+   "n": 0,
+   "tmpl": "\\mathrm{COV}"
+  },
+  "DZ": {
+   "n": 0,
+   "tmpl": "\\textrm{DZ}"
+  },
+  "MZ": {
+   "n": 0,
+   "tmpl": "\\textrm{MZ}"
+  },
+  "bfrac": {
+   "n": 2,
+   "tmpl": "{^{#1}\\unicode{x2044}_{#2}}"
+  },
+  "rC": {
+   "n": 0,
+   "tmpl": "\\mathrm{C}"
+  },
+  "rE": {
+   "n": 0,
+   "tmpl": "\\mathrm{E}"
+  }
+ },
+ "higher-order-evidence": {
+  "Cr": {
+   "n": 0,
+   "tmpl": "\\textrm{Cr}"
+  },
+  "Pr": {
+   "n": 0,
+   "tmpl": "\\textrm{Pr}"
+  }
+ },
+ "hilbert-program": {
+  "EA": {
+   "n": 0,
+   "tmpl": "\\text{EA}"
+  },
+  "PA": {
+   "n": 0,
+   "tmpl": "\\text{PA}"
+  },
+  "PRA": {
+   "n": 0,
+   "tmpl": "\\text{PRA}"
+  },
+  "PV": {
+   "n": 0,
+   "tmpl": "\\text{PV}"
+  }
+ },
+ "hyperintensionality": {
+  "rP": {
+   "n": 0,
+   "tmpl": "\\mathop{\\mathrm{P}}"
+  }
+ },
+ "ibn-sina-logic": {
+  "aC": {
+   "n": 0,
+   "tmpl": "\\textrm{a-}\\mathbb{C}"
+  },
+  "aD": {
+   "n": 0,
+   "tmpl": "\\textrm{a-}\\mathbb{D}"
+  },
+  "eC": {
+   "n": 0,
+   "tmpl": "\\textrm{e-}\\mathbb{C}"
+  },
+  "eD": {
+   "n": 0,
+   "tmpl": "\\textrm{e-}\\mathbb{D}"
+  },
+  "iC": {
+   "n": 0,
+   "tmpl": "\\textrm{i-}\\mathbb{C}"
+  },
+  "oD": {
+   "n": 0,
+   "tmpl": "\\textrm{o-}\\mathbb{D}"
+  },
+  "opa": {
+   "n": 0,
+   "tmpl": "\\mathop{\\!\\mathrm{a}\\!}"
+  },
+  "opo": {
+   "n": 0,
+   "tmpl": "\\mathop{\\!\\mathrm{o}}\\!"
+  },
+  "rA": {
+   "n": 0,
+   "tmpl": "\\mathrm{A}"
+  },
+  "rB": {
+   "n": 0,
+   "tmpl": "\\mathrm{B}"
+  },
+  "rC": {
+   "n": 0,
+   "tmpl": "\\mathrm{C}"
+  },
+  "ra": {
+   "n": 0,
+   "tmpl": "\\mathrm{a}"
+  },
+  "ro": {
+   "n": 0,
+   "tmpl": "\\mathrm{o}"
+  }
+ },
+ "identity-relative": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "identity-time": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "implicature-optimality-games": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "llbracket": {
+   "n": 0,
+   "tmpl": "[\\!["
+  },
+  "rrbracket": {
+   "n": 0,
+   "tmpl": "]\\!]"
+  },
+  "rsquo": {
+   "n": 0,
+   "tmpl": "{\\text{’}}"
+  }
+ },
+ "incompatibilism-arguments": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "infinite-regress": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "infinity": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "rL": {
+   "n": 0,
+   "tmpl": "\\mathrm{L}"
+  },
+  "rR": {
+   "n": 0,
+   "tmpl": "\\mathrm{R}"
+  },
+  "rd": {
+   "n": 0,
+   "tmpl": "\\mathrm{d}"
+  }
+ },
+ "information": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "ket": {
+   "n": 1,
+   "tmpl": "{\\lvert #1 \\rangle}"
+  }
+ },
+ "information-semantic": {
+  "cmapsto": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\overset{c}{\\mapsto}}"
+  },
+  "tCont": {
+   "n": 0,
+   "tmpl": "\\text{Cont}"
+  },
+  "tcont": {
+   "n": 0,
+   "tmpl": "\\text{cont}"
+  }
+ },
+ "intuition": {
+  "Diamond": {
+   "n": 0,
+   "tmpl": "\\unicode{x2B26}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "boxright": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\Box\\kern-1.5pt\\hbox{\\(\\mathord{\\rightarrow}\\)}}"
+  }
+ },
+ "intuitionistic-logic-development": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "jury-theorems": {
+  "Maj": {
+   "n": 0,
+   "tmpl": "\\textit{Maj}"
+  }
+ },
+ "justep-coherence": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bfrac": {
+   "n": 2,
+   "tmpl": "{^{#1}\\unicode{x2044}_{#2}}"
+  }
+ },
+ "kant-religion": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "lambda-calculus": {
+  "Pred": {
+   "n": 0,
+   "tmpl": "\\mathop{\\mathbf{Pred}}"
+  },
+  "Succ": {
+   "n": 0,
+   "tmpl": "\\mathop{\\mathbf{Succ}}"
+  },
+  "Zero": {
+   "n": 0,
+   "tmpl": "\\mathop{\\mathbf{Zero}}"
+  },
+  "addone": {
+   "n": 0,
+   "tmpl": "{\\mathbf{\\scriptsize ADD}\\text{-}\\mathbf{\\scriptsize ONE}}"
+  },
+  "addtwosubtractone": {
+   "n": 0,
+   "tmpl": "{\\mathbf{\\scriptsize ADD}\\text{-}\\mathbf{\\scriptsize TWO}\\text{-}\\mathbf{\\scriptsize SUBTRACT}\\text{-}\\mathbf{\\scriptsize ONE}}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bB": {
+   "n": 0,
+   "tmpl": "\\mathbf{B}"
+  },
+  "bC": {
+   "n": 0,
+   "tmpl": "\\mathbf{C}"
+  },
+  "bF": {
+   "n": 0,
+   "tmpl": "\\mathbf{F}"
+  },
+  "bI": {
+   "n": 0,
+   "tmpl": "\\mathbf{I}"
+  },
+  "bK": {
+   "n": 0,
+   "tmpl": "\\mathbf{K}"
+  },
+  "bS": {
+   "n": 0,
+   "tmpl": "\\mathbf{S}"
+  },
+  "bT": {
+   "n": 0,
+   "tmpl": "\\mathbf{T}"
+  },
+  "bTheta": {
+   "n": 0,
+   "tmpl": "\\mathbf{\\Theta}"
+  },
+  "bY": {
+   "n": 0,
+   "tmpl": "\\mathbf{Y}"
+  },
+  "bc": {
+   "n": 0,
+   "tmpl": "\\mathbf{c}"
+  },
+  "ifthenelse": {
+   "n": 0,
+   "tmpl": "\\mathbf{if}\\text{-}\\mathbf{then}\\text{-}\\mathbf{else}"
+  },
+  "john": {
+   "n": 0,
+   "tmpl": "{\\mathbf{\\scriptsize JOHN}}"
+  },
+  "llbracket": {
+   "n": 0,
+   "tmpl": "[\\!["
+  },
+  "loves": {
+   "n": 0,
+   "tmpl": "{\\mathrm{loves}}"
+  },
+  "mary": {
+   "n": 0,
+   "tmpl": "{\\mathbf{\\scriptsize MARY}}"
+  },
+  "rrbracket": {
+   "n": 0,
+   "tmpl": "]\\!]"
+  }
+ },
+ "language-thought": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "braket": {
+   "n": 2,
+   "tmpl": "{\\langle #1 {\\mid} #2 \\rangle}"
+  },
+  "fishhook": {
+   "n": 0,
+   "tmpl": "\\unicode{x297d}"
+  }
+ },
+ "legal-probabilism": {
+  "BT": {
+   "n": 0,
+   "tmpl": "\\textit{BT}"
+  },
+  "Pr": {
+   "n": 0,
+   "tmpl": "\\textsf{Pr}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "match": {
+   "n": 0,
+   "tmpl": "\\textsf{m}"
+  },
+  "pmid": {
+   "n": 0,
+   "tmpl": "\\mid"
+  },
+  "slashfrac": {
+   "n": 2,
+   "tmpl": "#1/#2"
+  },
+  "source": {
+   "n": 0,
+   "tmpl": "\\textsf{s}"
+  }
+ },
+ "leibniz-physics": {
+  "Mass": {
+   "n": 0,
+   "tmpl": "\\text{Mass}"
+  },
+  "Velocity": {
+   "n": 0,
+   "tmpl": "\\text{Velocity}"
+  },
+  "after": {
+   "n": 0,
+   "tmpl": "\\text{after}"
+  },
+  "before": {
+   "n": 0,
+   "tmpl": "\\text{before}"
+  }
+ },
+ "lesniewski": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "isa": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\varepsilon}"
+  },
+  "koppa": {
+   "n": 0,
+   "tmpl": "\\unicode{x3d9}"
+  },
+  "rN": {
+   "n": 0,
+   "tmpl": "\\mathrm{N}"
+  },
+  "rS": {
+   "n": 0,
+   "tmpl": "\\mathrm{S}"
+  },
+  "rs": {
+   "n": 0,
+   "tmpl": "\\mathrm{s}"
+  }
+ },
+ "lewis-ci": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "fishhook": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\unicode{x297d}}"
+  }
+ },
+ "lewis-metaphysics": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "lt": {
+   "n": 0,
+   "tmpl": "\\mathbin{<}"
+  }
+ },
+ "liar-paradox": {
+  "Def": {
+   "n": 0,
+   "tmpl": "\\mathop{\\textit{Def}}"
+  },
+  "Tr": {
+   "n": 0,
+   "tmpl": "\\mathop{\\textit{Tr}}"
+  }
+ },
+ "location-mereology": {
+  "CN": {
+   "n": 0,
+   "tmpl": "\\textit{CN}"
+  },
+  "EL": {
+   "n": 0,
+   "tmpl": "\\textit{EL}"
+  },
+  "PL": {
+   "n": 0,
+   "tmpl": "\\textit{PL}"
+  },
+  "PP": {
+   "n": 0,
+   "tmpl": "\\textit{PP}"
+  },
+  "PPL": {
+   "n": 0,
+   "tmpl": "\\textit{PPL}"
+  },
+  "WKL": {
+   "n": 0,
+   "tmpl": "\\textit{WKL}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "df": {
+   "n": 0,
+   "tmpl": "\\textit{df}"
+  }
+ },
+ "logic-action": {
+  "Poss": {
+   "n": 0,
+   "tmpl": "{\\mathrm{Poss}}"
+  },
+  "cstit": {
+   "n": 0,
+   "tmpl": "{\\mathsf{cstit}}"
+  },
+  "diamond": {
+   "n": 0,
+   "tmpl": "\\unicode{x2B26}"
+  },
+  "dstit": {
+   "n": 0,
+   "tmpl": "{\\mathsf{dstit}}"
+  },
+  "lact": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\mathsf{\\scriptsize{ACT}}}"
+  },
+  "lbel": {
+   "n": 0,
+   "tmpl": "{\\mathsf{\\scriptsize{BEL}}}"
+  },
+  "lcommit": {
+   "n": 0,
+   "tmpl": "{\\mathsf{\\small{commit}}}"
+  },
+  "lcontract": {
+   "n": 0,
+   "tmpl": "{\\mathsf{\\small{contract}}}"
+  },
+  "ldes": {
+   "n": 0,
+   "tmpl": "{\\mathsf{\\scriptsize{DES}}}"
+  },
+  "ldo": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\mathsf{\\scriptsize{DO}}}"
+  },
+  "ldone": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\mathsf{\\scriptsize{DONE}}}"
+  },
+  "lelse": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\mathsf{\\scriptsize{ELSE}}}"
+  },
+  "lexpand": {
+   "n": 0,
+   "tmpl": "{\\mathsf{\\small{expand}}}"
+  },
+  "lfailed": {
+   "n": 0,
+   "tmpl": "{\\mathsf{\\small{failed}}}"
+  },
+  "lgoal": {
+   "n": 0,
+   "tmpl": "{\\mathsf{\\scriptsize{GOAL}}}"
+  },
+  "lhappens": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\mathsf{\\scriptsize{HAPPENS}}}"
+  },
+  "lif": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\mathsf{\\scriptsize{IF}}}"
+  },
+  "lintend": {
+   "n": 0,
+   "tmpl": "{\\mathsf{\\scriptsize{INTEND}}}"
+  },
+  "llbracket": {
+   "n": 0,
+   "tmpl": "\\mathopen{[\\![}"
+  },
+  "lrevise": {
+   "n": 0,
+   "tmpl": "{\\mathsf{\\small{revise}}}"
+  },
+  "lsucceeded": {
+   "n": 0,
+   "tmpl": "{\\mathsf{\\small{succeded}}}"
+  },
+  "lthen": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\mathsf{\\scriptsize{THEN}}}"
+  },
+  "luncommit": {
+   "n": 0,
+   "tmpl": "{\\mathsf{\\small{uncommit}}}"
+  },
+  "luntil": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\mathsf{\\scriptsize{UNTIL}}}"
+  },
+  "lwhile": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\mathsf{\\scriptsize{WHILE}}}"
+  },
+  "rrbracket": {
+   "n": 0,
+   "tmpl": "\\mathclose{]\\!]}"
+  },
+  "stit": {
+   "n": 0,
+   "tmpl": "{\\mathsf{stit}}"
+  }
+ },
+ "logic-ai": {
+  "Alive": {
+   "n": 0,
+   "tmpl": "\\textsf{Alive}"
+  },
+  "Holds": {
+   "n": 0,
+   "tmpl": "\\texttt{Holds}"
+  },
+  "Loaded": {
+   "n": 0,
+   "tmpl": "\\textsf{Loaded}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "load": {
+   "n": 0,
+   "tmpl": "\\textsf{load}"
+  },
+  "ra": {
+   "n": 0,
+   "tmpl": "\\mathrm{a}"
+  },
+  "rs": {
+   "n": 0,
+   "tmpl": "\\mathrm{s}"
+  },
+  "sc": {
+   "n": 1,
+   "tmpl": "\\style{font-variant-caps: small-caps}{\\text{#1}}"
+  },
+  "scResult": {
+   "n": 0,
+   "tmpl": "\\sc{Result}"
+  },
+  "shoot": {
+   "n": 0,
+   "tmpl": "\\textsf{shoot}"
+  },
+  "ttAlive": {
+   "n": 0,
+   "tmpl": "\\texttt{Alive}"
+  },
+  "ttLoaded": {
+   "n": 0,
+   "tmpl": "\\texttt{Loaded}"
+  },
+  "ttResult": {
+   "n": 0,
+   "tmpl": "\\texttt{Result}"
+  },
+  "ttload": {
+   "n": 0,
+   "tmpl": "\\texttt{load}"
+  },
+  "ttshoot": {
+   "n": 0,
+   "tmpl": "\\texttt{shoot}"
+  },
+  "ttwait": {
+   "n": 0,
+   "tmpl": "\\texttt{wait}"
+  }
+ },
+ "logic-algebraic-propositional": {
+  "bA": {
+   "n": 0,
+   "tmpl": "\\mathbf{A}"
+  },
+  "bAlg": {
+   "n": 0,
+   "tmpl": "\\mathbf{Alg}"
+  },
+  "bB": {
+   "n": 0,
+   "tmpl": "\\mathbf{B}"
+  },
+  "bCPL": {
+   "n": 0,
+   "tmpl": "\\mathbf{CPL}"
+  },
+  "bFm": {
+   "n": 0,
+   "tmpl": "\\mathbf{Fm}"
+  },
+  "bIL": {
+   "n": 0,
+   "tmpl": "\\mathbf{IL}"
+  },
+  "bILL": {
+   "n": 0,
+   "tmpl": "\\mathbf{ILL}"
+  },
+  "bILsubZ": {
+   "n": 0,
+   "tmpl": "\\mathbf{IL_0}"
+  },
+  "bK": {
+   "n": 0,
+   "tmpl": "\\mathbf{K}"
+  },
+  "bL": {
+   "n": 0,
+   "tmpl": "\\mathbf{L}"
+  },
+  "bM": {
+   "n": 0,
+   "tmpl": "\\mathbf{M}"
+  },
+  "bMA": {
+   "n": 0,
+   "tmpl": "\\mathbf{MA}"
+  },
+  "bOmega": {
+   "n": 0,
+   "tmpl": "\\mathbf{\\Omega}"
+  },
+  "bPML": {
+   "n": 0,
+   "tmpl": "\\mathbf{PML}"
+  },
+  "bR": {
+   "n": 0,
+   "tmpl": "\\mathbf{R}"
+  },
+  "bRMatr": {
+   "n": 0,
+   "tmpl": "\\mathbf{RMatr}"
+  },
+  "bRal": {
+   "n": 0,
+   "tmpl": "\\mathbf{Ral}"
+  },
+  "bSilK": {
+   "n": 0,
+   "tmpl": "\\mathbf{SilK}"
+  },
+  "bgK": {
+   "n": 0,
+   "tmpl": "\\mathbf{gK}"
+  },
+  "bgLambda": {
+   "n": 0,
+   "tmpl": "\\mathbf{g\\Lambda}"
+  },
+  "blK": {
+   "n": 0,
+   "tmpl": "\\mathbf{lK}"
+  },
+  "blLambda": {
+   "n": 0,
+   "tmpl": "\\mathbf{l\\Lambda}"
+  },
+  "bsigma": {
+   "n": 0,
+   "tmpl": "\\mathbf{\\sigma}"
+  },
+  "bv": {
+   "n": 0,
+   "tmpl": "\\boldsymbol{v}"
+  },
+  "cA": {
+   "n": 0,
+   "tmpl": "\\mathcal{A}"
+  },
+  "cB": {
+   "n": 0,
+   "tmpl": "\\mathcal{B}"
+  },
+  "cC": {
+   "n": 0,
+   "tmpl": "\\mathcal{C}"
+  },
+  "cM": {
+   "n": 0,
+   "tmpl": "\\mathcal{M}"
+  },
+  "iEq": {
+   "n": 0,
+   "tmpl": "\\textit{Eq}"
+  },
+  "tD": {
+   "n": 0,
+   "tmpl": "\\mathrm{D}"
+  },
+  "tE": {
+   "n": 0,
+   "tmpl": "\\mathrm{E}"
+  },
+  "tEq": {
+   "n": 0,
+   "tmpl": "\\textrm{Eq}"
+  },
+  "tFi": {
+   "n": 0,
+   "tmpl": "\\textrm{Fi}"
+  },
+  "tMP": {
+   "n": 0,
+   "tmpl": "\\textrm{MP}"
+  },
+  "tR": {
+   "n": 0,
+   "tmpl": "\\textrm{R}"
+  },
+  "tRe": {
+   "n": 0,
+   "tmpl": "\\textrm{Re}"
+  },
+  "tS": {
+   "n": 0,
+   "tmpl": "\\textrm{S}"
+  },
+  "tT": {
+   "n": 0,
+   "tmpl": "\\textrm{T}"
+  },
+  "tTH": {
+   "n": 0,
+   "tmpl": "\\textrm{Th}"
+  },
+  "txtiff": {
+   "n": 0,
+   "tmpl": "\\;\\textrm{ iff }\\;"
+  }
+ },
+ "logic-belief-revision": {
+  "Cn": {
+   "n": 0,
+   "tmpl": "\\mathrm{Cn}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bP": {
+   "n": 0,
+   "tmpl": "\\mathbf{P}"
+  },
+  "bp": {
+   "n": 0,
+   "tmpl": "\\mathbf{p}"
+  },
+  "smbot": {
+   "n": 0,
+   "tmpl": "{\\scriptsize \\bot}"
+  },
+  "smtop": {
+   "n": 0,
+   "tmpl": "{\\scriptsize \\top}"
+  }
+ },
+ "logic-classical": {
+  "LKe": {
+   "n": 0,
+   "tmpl": "\\mathcal{L}1K{=}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "logic-combining": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "obcirc": {
+   "n": 0,
+   "tmpl": "{\\raise.3ex\\scriptsize \\bigcirc}"
+  }
+ },
+ "logic-conditionals": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bangle": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\angle}"
+  },
+  "cK": {
+   "n": 0,
+   "tmpl": "\\mathcal{K}"
+  },
+  "cP": {
+   "n": 0,
+   "tmpl": "\\mathcal{P}"
+  },
+  "iCn": {
+   "n": 0,
+   "tmpl": "\\textit{Cn}"
+  },
+  "nicefrac": {
+   "n": 2,
+   "tmpl": "\\mathchoice{\\frac{#1}{#2}}{{#1}/{#2}}{\\frac{#1}{#2}}{\\frac{#1}{#2}}"
+  },
+  "npipsim": {
+   "n": 0,
+   "tmpl": "\\mathbin{{|}\\mkern-3mu{\\not\\sim}}"
+  },
+  "pipsim": {
+   "n": 0,
+   "tmpl": "\\mathbin{{|}\\mkern-3mu{\\sim}}"
+  },
+  "tiff": {
+   "n": 0,
+   "tmpl": "\\mathop{\\text{ iff }}"
+  }
+ },
+ "logic-deontic": {
+  "AB": {
+   "n": 0,
+   "tmpl": "\\mathord{\\textbf{A}\\mathrm{B}}"
+  },
+  "BA": {
+   "n": 0,
+   "tmpl": "\\mathord{\\textbf{B}\\mathrm{A}}"
+  },
+  "IM": {
+   "n": 0,
+   "tmpl": "\\mathord{\\textbf{I}\\mathrm{M}}"
+  },
+  "IN": {
+   "n": 0,
+   "tmpl": "\\mathord{\\textbf{I}\\mathrm{N}}"
+  },
+  "NO": {
+   "n": 0,
+   "tmpl": "\\mathord{\\textbf{N}\\mathrm{O}}"
+  },
+  "NS": {
+   "n": 0,
+   "tmpl": "\\mathord{\\textbf{N}\\mathrm{S}}"
+  },
+  "OB": {
+   "n": 0,
+   "tmpl": "\\mathord{\\textbf{O}\\mathrm{B}}"
+  },
+  "OBT": {
+   "n": 0,
+   "tmpl": "\\mathord{\\textbf{O}\\mathrm{BT}}"
+  },
+  "OM": {
+   "n": 0,
+   "tmpl": "\\mathord{\\textbf{O}\\mathrm{M}}"
+  },
+  "OP": {
+   "n": 0,
+   "tmpl": "\\mathord{\\textbf{O}\\mathrm{P}}"
+  },
+  "PE": {
+   "n": 0,
+   "tmpl": "\\mathord{\\textbf{P}\\mathrm{E}}"
+  },
+  "PEU": {
+   "n": 0,
+   "tmpl": "\\mathord{\\textbf{P}\\mathrm{EU}}"
+  },
+  "PV": {
+   "n": 0,
+   "tmpl": "\\mathord{\\textbf{P}\\mathrm{V}}"
+  },
+  "RF": {
+   "n": 0,
+   "tmpl": "\\mathord{\\textbf{R}\\mathrm{F}}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bP": {
+   "n": 0,
+   "tmpl": "\\mathord{\\textbf{P}}"
+  },
+  "eqdf": {
+   "n": 0,
+   "tmpl": "\\stackrel{\\tiny\\textit{def}}{=}"
+  },
+  "rN": {
+   "n": 0,
+   "tmpl": "\\mathrm{N}"
+  }
+ },
+ "logic-dependence": {
+  "Diamond": {
+   "n": 0,
+   "tmpl": "\\unicode{x2B26}"
+  },
+  "boy": {
+   "n": 0,
+   "tmpl": "{\\scriptsize \\textrm{BOY}}"
+  },
+  "crazy": {
+   "n": 0,
+   "tmpl": "{\\scriptsize \\textrm{CRAZY}}"
+  },
+  "eqord": {
+   "n": 0,
+   "tmpl": "\\mathord{=}"
+  },
+  "girl": {
+   "n": 0,
+   "tmpl": "{\\scriptsize \\textrm{GIRL}}"
+  },
+  "loves": {
+   "n": 0,
+   "tmpl": "{\\scriptsize \\textrm{LOVES}}"
+  },
+  "person": {
+   "n": 0,
+   "tmpl": "{\\scriptsize \\textrm{PERSON}}"
+  }
+ },
+ "logic-dialogical": {
+  "Id": {
+   "n": 0,
+   "tmpl": "\\textit{Id}"
+  },
+  "Pa": {
+   "n": 0,
+   "tmpl": "\\textit{Pa}"
+  },
+  "Qa": {
+   "n": 0,
+   "tmpl": "\\textit{Qa}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bprop": {
+   "n": 0,
+   "tmpl": "\\textbf{prop}"
+  },
+  "bset": {
+   "n": 0,
+   "tmpl": "\\textbf{set}"
+  },
+  "rank": {
+   "n": 1,
+   "tmpl": "\\mathtt{#1}"
+  },
+  "rqst": {
+   "n": 0,
+   "tmpl": "\\mathop{?}"
+  },
+  "state": {
+   "n": 0,
+   "tmpl": "\\mathop{!}"
+  }
+ },
+ "logic-dynamic": {
+  "ldquo": {
+   "n": 0,
+   "tmpl": "{\\text{“}}"
+  },
+  "rdquo": {
+   "n": 0,
+   "tmpl": "{\\text{”}}"
+  }
+ },
+ "logic-epistemic": {
+  "Act": {
+   "n": 0,
+   "tmpl": "\\textit{Act}"
+  },
+  "Adam": {
+   "n": 0,
+   "tmpl": "\\textrm{Adam}"
+  },
+  "Atom": {
+   "n": 0,
+   "tmpl": "\\textit{Atom}"
+  },
+  "Bob": {
+   "n": 0,
+   "tmpl": "\\textrm{Bob}"
+  },
+  "Came": {
+   "n": 0,
+   "tmpl": "\\mathop{\\textrm{Came}}"
+  },
+  "Dave": {
+   "n": 0,
+   "tmpl": "\\textrm{Dave}"
+  },
+  "Murder": {
+   "n": 0,
+   "tmpl": "\\mathop{\\textrm{Murder}}"
+  }
+ },
+ "logic-firstorder-emergence": {
+  "pdot": {
+   "n": 0,
+   "tmpl": "\\mathord{\\,.\\,}"
+  },
+  "revc": {
+   "n": 0,
+   "tmpl": "\\mathord{\\unicode{x3fd}}"
+  }
+ },
+ "logic-free": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bD": {
+   "n": 0,
+   "tmpl": "\\boldsymbol{D}"
+  },
+  "bI": {
+   "n": 0,
+   "tmpl": "\\boldsymbol{I}"
+  },
+  "bL": {
+   "n": 0,
+   "tmpl": "\\boldsymbol{L}"
+  },
+  "bM": {
+   "n": 0,
+   "tmpl": "\\boldsymbol{M}"
+  },
+  "bR": {
+   "n": 0,
+   "tmpl": "\\boldsymbol{R}"
+  },
+  "bU": {
+   "n": 0,
+   "tmpl": "\\boldsymbol{U}"
+  },
+  "bV": {
+   "n": 0,
+   "tmpl": "\\boldsymbol{V}"
+  },
+  "cD": {
+   "n": 0,
+   "tmpl": "\\mathcal{D}"
+  },
+  "eqdf": {
+   "n": 0,
+   "tmpl": "\\mathbin{=_{\\text{df}}}"
+  },
+  "rE": {
+   "n": 0,
+   "tmpl": "\\mathrm{E}"
+  },
+  "rF": {
+   "n": 0,
+   "tmpl": "\\mathrm{F}"
+  },
+  "rI": {
+   "n": 0,
+   "tmpl": "\\mathrm{I}"
+  },
+  "rT": {
+   "n": 0,
+   "tmpl": "\\mathrm{T}"
+  }
+ },
+ "logic-games": {
+  "EF": {
+   "n": 0,
+   "tmpl": "\\text{EF}"
+  },
+  "R": {
+   "n": 0,
+   "tmpl": "\\mathrm{R}"
+  },
+  "W": {
+   "n": 0,
+   "tmpl": "\\mathrm{W}"
+  }
+ },
+ "logic-higher-order": {
+  "AC": {
+   "n": 0,
+   "tmpl": "\\textit{AC}"
+  },
+  "G": {
+   "n": 0,
+   "tmpl": "\\mathcal{G}"
+  },
+  "Mod": {
+   "n": 0,
+   "tmpl": "\\textrm{Mod}"
+  },
+  "P": {
+   "n": 0,
+   "tmpl": "\\mathcal{P}"
+  },
+  "ZFC": {
+   "n": 0,
+   "tmpl": "\\textrm{ZFC}"
+  },
+  "categ": {
+   "n": 0,
+   "tmpl": "\\textrm{CATEG}"
+  },
+  "isom": {
+   "n": 0,
+   "tmpl": "\\textrm{ISOM}"
+  },
+  "ma": {
+   "n": 0,
+   "tmpl": "\\mathfrak{A}"
+  },
+  "mb": {
+   "n": 0,
+   "tmpl": "\\mathfrak{B}"
+  },
+  "mm": {
+   "n": 0,
+   "tmpl": "\\mathfrak{M}"
+  },
+  "mn": {
+   "n": 0,
+   "tmpl": "\\mathfrak{N}"
+  },
+  "mon": {
+   "n": 0,
+   "tmpl": "\\textrm{MON-}"
+  },
+  "oC": {
+   "n": 0,
+   "tmpl": "\\mathbb{C}"
+  },
+  "oN": {
+   "n": 0,
+   "tmpl": "\\mathbb{N}"
+  },
+  "oQ": {
+   "n": 0,
+   "tmpl": "\\mathbb{Q}"
+  },
+  "oR": {
+   "n": 0,
+   "tmpl": "\\mathbb{R}"
+  },
+  "sA": {
+   "n": 0,
+   "tmpl": "A^{\\text{re}}_n"
+  },
+  "sF": {
+   "n": 0,
+   "tmpl": "A^{\\text{fu}}_n"
+  },
+  "si": {
+   "n": 0,
+   "tmpl": "s^{\\text{in}}"
+  },
+  "sr": {
+   "n": 0,
+   "tmpl": "s_n^{\\text{re}}"
+  }
+ },
+ "logic-hybrid": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "logic-if": {
+  "TRUE": {
+   "n": 0,
+   "tmpl": "\\textit{TRUE}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "rM": {
+   "n": 0,
+   "tmpl": "\\mathrm{M}"
+  }
+ },
+ "logic-inductive": {
+  "BETADIST": {
+   "n": 0,
+   "tmpl": "\\textrm{BETADIST}"
+  },
+  "E": {
+   "n": 0,
+   "tmpl": "\\textrm{E}"
+  },
+  "EQI": {
+   "n": 0,
+   "tmpl": "\\textrm{EQI}"
+  },
+  "LR": {
+   "n": 0,
+   "tmpl": "\\textit{LR}"
+  },
+  "Q": {
+   "n": 0,
+   "tmpl": "\\textrm{Q}"
+  },
+  "QI": {
+   "n": 0,
+   "tmpl": "\\textrm{QI}"
+  },
+  "Random": {
+   "n": 0,
+   "tmpl": "\\textrm{Random}"
+  },
+  "Rnd": {
+   "n": 0,
+   "tmpl": "\\textrm{Rnd}"
+  },
+  "Size": {
+   "n": 0,
+   "tmpl": "\\textrm{Size}"
+  },
+  "V": {
+   "n": 0,
+   "tmpl": "\\textrm{V}"
+  },
+  "VQI": {
+   "n": 0,
+   "tmpl": "\\textrm{VQI}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bE": {
+   "n": 0,
+   "tmpl": "\\overline{\\textrm{E}}"
+  },
+  "bEQI": {
+   "n": 0,
+   "tmpl": "\\overline{\\textrm{EQI}}"
+  },
+  "bV": {
+   "n": 0,
+   "tmpl": "\\overline{\\textrm{V}}"
+  },
+  "bVQI": {
+   "n": 0,
+   "tmpl": "\\overline{\\textrm{VQI}}"
+  },
+  "ifft": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\ \\textrm{ iff }\\ }"
+  },
+  "lsq": {
+   "n": 0,
+   "tmpl": "{\\text{‘}}"
+  },
+  "nsim": {
+   "n": 0,
+   "tmpl": "\\mathord{\\sim}"
+  },
+  "pmid": {
+   "n": 0,
+   "tmpl": "\\mid"
+  },
+  "rsq": {
+   "n": 0,
+   "tmpl": "{\\text{’}}"
+  }
+ },
+ "logic-information": {
+  "Diamond": {
+   "n": 0,
+   "tmpl": "\\unicode{x2B26}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bfrac": {
+   "n": 2,
+   "tmpl": "{^{#1}\\unicode{x2044}_{#2}}"
+  },
+  "dproves": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\rvert\\!{\\sim}}"
+  },
+  "frasl": {
+   "n": 0,
+   "tmpl": "\\unicode{x2044}"
+  },
+  "llangle": {
+   "n": 0,
+   "tmpl": "\\langle\\!\\langle"
+  },
+  "llbracket": {
+   "n": 0,
+   "tmpl": "[\\!["
+  },
+  "notdproves": {
+   "n": 0,
+   "tmpl": "\\mathop{\\mathrel{\\rlap{\\hskip .2em/}}\\rvert\\!{\\sim}}"
+  },
+  "rrangle": {
+   "n": 0,
+   "tmpl": "\\rangle\\!\\rangle"
+  },
+  "rrbracket": {
+   "n": 0,
+   "tmpl": "]\\!]"
+  }
+ },
+ "logic-intensional": {
+  "atoi": {
+   "n": 0,
+   "tmpl": "{\\class{atoir}{\\unicode[Times]{x3b9}}}"
+  },
+  "bD": {
+   "n": 0,
+   "tmpl": "{\\mathbf{D}}"
+  },
+  "bF": {
+   "n": 0,
+   "tmpl": "{\\mathbf{F}}"
+  },
+  "bG": {
+   "n": 0,
+   "tmpl": "{\\mathbf{G}}"
+  },
+  "bI": {
+   "n": 0,
+   "tmpl": "{\\mathbf{I}}"
+  },
+  "bP": {
+   "n": 0,
+   "tmpl": "{\\mathbf{P}}"
+  },
+  "bQ": {
+   "n": 0,
+   "tmpl": "{\\mathbf{Q}}"
+  },
+  "bR": {
+   "n": 0,
+   "tmpl": "{\\mathbf{R}}"
+  },
+  "bS": {
+   "n": 0,
+   "tmpl": "{\\mathbf{S}}"
+  },
+  "bV": {
+   "n": 0,
+   "tmpl": "{\\mathbf{V}}"
+  },
+  "bZ": {
+   "n": 0,
+   "tmpl": "{\\mathbf{Z}}"
+  },
+  "bd": {
+   "n": 0,
+   "tmpl": "{\\mathbf{d}}"
+  },
+  "bx": {
+   "n": 0,
+   "tmpl": "{\\mathbf{x}}"
+  },
+  "cM": {
+   "n": 0,
+   "tmpl": "{\\mathcal{M}}"
+  },
+  "even": {
+   "n": 0,
+   "tmpl": "{\\textit{even}}"
+  }
+ },
+ "logic-intuitionistic": {
+  "dotminus": {
+   "n": 0,
+   "tmpl": "\\mathbin{{-}\\hspace{-.5em}{\\raise 1ex{\\scriptsize .}}\\hspace{.3em}}"
+  },
+  "oldand": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "primepred": {
+   "n": 0,
+   "tmpl": "\\mathop{\\mathrm{prime}}"
+  },
+  "realizesrel": {
+   "n": 0,
+   "tmpl": "\\mathrel{\\mathrm{re}}"
+  }
+ },
+ "logic-justification": {
+  "lp": {
+   "n": 0,
+   "tmpl": "\\textsf{LP}"
+  }
+ },
+ "logic-linear": {
+  "Down": {
+   "n": 3,
+   "tmpl": "{#1};{#2} \\Downarrow {#3}"
+  },
+  "Up": {
+   "n": 3,
+   "tmpl": "{#1};{#2} \\Uparrow {#3}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bang": {
+   "n": 0,
+   "tmpl": "\\mathop{!}"
+  },
+  "limp": {
+   "n": 0,
+   "tmpl": "\\mathbin{-\\hspace{-0.70mm}\\circ}"
+  },
+  "lpar": {
+   "n": 0,
+   "tmpl": "\\mathrel{\\unicode{x214b}}"
+  },
+  "lvdash": {
+   "n": 1,
+   "tmpl": "\\mathbin{|\\hspace{-0.70mm}\\raise 2mm {\\scriptstyle\\underline{\\,#1\\,}}}\\;"
+  },
+  "one": {
+   "n": 0,
+   "tmpl": "\\mathbf{1}"
+  },
+  "ot": {
+   "n": 0,
+   "tmpl": "\\otimes"
+  },
+  "quest": {
+   "n": 0,
+   "tmpl": "\\mathop{?}"
+  },
+  "zero": {
+   "n": 0,
+   "tmpl": "\\mathbf{0}"
+  }
+ },
+ "logic-many-sorted": {
+  "Antisymm": {
+   "n": 0,
+   "tmpl": "\\textrm{Anti-symm}"
+  },
+  "Asymm": {
+   "n": 0,
+   "tmpl": "\\textrm{Asymm}"
+  },
+  "Atom": {
+   "n": 0,
+   "tmpl": "\\textrm{Atom}"
+  },
+  "Comph": {
+   "n": 0,
+   "tmpl": "\\textrm{Comph}"
+  },
+  "Conv": {
+   "n": 0,
+   "tmpl": "\\textrm{Conv}"
+  },
+  "Def": {
+   "n": 0,
+   "tmpl": "\\textrm{Def}"
+  },
+  "Disj": {
+   "n": 0,
+   "tmpl": "\\textrm{Disj}"
+  },
+  "Dom": {
+   "n": 0,
+   "tmpl": "\\textrm{Dom}"
+  },
+  "Ex": {
+   "n": 0,
+   "tmpl": "\\textrm{Ex}"
+  },
+  "Ext": {
+   "n": 0,
+   "tmpl": "\\textrm{Ext}"
+  },
+  "FOL": {
+   "n": 0,
+   "tmpl": "\\textrm{FOL}"
+  },
+  "Free": {
+   "n": 0,
+   "tmpl": "\\textrm{Free}"
+  },
+  "Join": {
+   "n": 0,
+   "tmpl": "\\textrm{Join}"
+  },
+  "MS": {
+   "n": 0,
+   "tmpl": "\\textrm{MS}"
+  },
+  "MSL": {
+   "n": 0,
+   "tmpl": "\\textrm{MSL}"
+  },
+  "MXL": {
+   "n": 0,
+   "tmpl": "\\textrm{MXL}"
+  },
+  "Mod": {
+   "n": 0,
+   "tmpl": "\\textrm{Mod}"
+  },
+  "OperDSym": {
+   "n": 0,
+   "tmpl": "\\textrm{Oper.Sym}"
+  },
+  "OperSym": {
+   "n": 0,
+   "tmpl": "\\textrm{OperSym}"
+  },
+  "PA": {
+   "n": 0,
+   "tmpl": "\\textrm{PA}"
+  },
+  "PDL": {
+   "n": 0,
+   "tmpl": "\\textrm{PDL}"
+  },
+  "PML": {
+   "n": 0,
+   "tmpl": "\\textrm{PML}"
+  },
+  "Rank": {
+   "n": 0,
+   "tmpl": "\\textrm{Rank}"
+  },
+  "Rec": {
+   "n": 0,
+   "tmpl": "\\textrm{Rec}"
+  },
+  "Reflexive": {
+   "n": 0,
+   "tmpl": "\\textrm{Reflexive}"
+  },
+  "Rel": {
+   "n": 0,
+   "tmpl": "\\textrm{Rel}"
+  },
+  "SOL": {
+   "n": 0,
+   "tmpl": "\\textrm{SOL}"
+  },
+  "ST": {
+   "n": 0,
+   "tmpl": "\\textrm{ST}"
+  },
+  "Sent": {
+   "n": 0,
+   "tmpl": "\\textrm{Sent}"
+  },
+  "Sort": {
+   "n": 0,
+   "tmpl": "\\textrm{Sort}"
+  },
+  "Sorts": {
+   "n": 0,
+   "tmpl": "\\textrm{Sorts}"
+  },
+  "Str": {
+   "n": 0,
+   "tmpl": "\\textrm{Str}"
+  },
+  "Th": {
+   "n": 0,
+   "tmpl": "\\textrm{Th}"
+  },
+  "Trans": {
+   "n": 0,
+   "tmpl": "\\textrm{Trans}"
+  },
+  "Transitive": {
+   "n": 0,
+   "tmpl": "\\textrm{Transitive}"
+  },
+  "Un": {
+   "n": 0,
+   "tmpl": "\\textrm{Un}"
+  },
+  "VAL": {
+   "n": 0,
+   "tmpl": "\\textrm{VAL}"
+  },
+  "Val": {
+   "n": 0,
+   "tmpl": "\\textrm{Val}"
+  },
+  "XL": {
+   "n": 0,
+   "tmpl": "\\textrm{XL}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "ddag": {
+   "n": 0,
+   "tmpl": "\\ddagger"
+  },
+  "llbracket": {
+   "n": 0,
+   "tmpl": "[\\!["
+  },
+  "nnf": {
+   "n": 0,
+   "tmpl": "\\textrm{nnf}"
+  },
+  "rrbracket": {
+   "n": 0,
+   "tmpl": "]\\!]"
+  }
+ },
+ "logic-manyvalued": {
+  "At": {
+   "n": 0,
+   "tmpl": "\\textit{At}"
+  },
+  "CL": {
+   "n": 0,
+   "tmpl": "\\textrm{CL}"
+  },
+  "DM": {
+   "n": 0,
+   "tmpl": "\\text{DM}"
+  },
+  "ETL": {
+   "n": 0,
+   "tmpl": "\\text{ETL}"
+  },
+  "Fm": {
+   "n": 0,
+   "tmpl": "\\textit{Fm}"
+  },
+  "G": {
+   "n": 0,
+   "tmpl": "\\mathrm{G}"
+  },
+  "Hom": {
+   "n": 0,
+   "tmpl": "\\textrm{H}{\\small{\\textrm{OM}}}"
+  },
+  "K": {
+   "n": 0,
+   "tmpl": "\\mathrm{K}"
+  },
+  "KA": {
+   "n": 0,
+   "tmpl": "\\text{KA}"
+  },
+  "L": {
+   "n": 0,
+   "tmpl": "\\mathrm{L}"
+  },
+  "WK": {
+   "n": 0,
+   "tmpl": "\\text{WK}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "andt": {
+   "n": 0,
+   "tmpl": "\\quad\\text{and}\\quad"
+  },
+  "copyright": {
+   "n": 0,
+   "tmpl": "\\mathord{©}"
+  },
+  "ifft": {
+   "n": 0,
+   "tmpl": "\\quad\\text{iff}\\quad"
+  },
+  "impliest": {
+   "n": 0,
+   "tmpl": "\\quad\\text{implies}\\quad"
+  },
+  "infer": {
+   "n": 2,
+   "tmpl": "\\dfrac{#2}{#1}"
+  },
+  "llbracket": {
+   "n": 0,
+   "tmpl": "\\mathopen{[\\![}"
+  },
+  "rrbracket": {
+   "n": 0,
+   "tmpl": "\\mathclose{]\\!]}"
+  },
+  "sfrac": {
+   "n": 2,
+   "tmpl": "\\tfrac{#1}{#2}"
+  },
+  "squarear": {
+   "n": 4,
+   "tmpl": "\\scriptsize\\begin{array}{c|c}#1 & #2 \\\\\\hline #3 & #4\\\\\\end{array}"
+  }
+ },
+ "logic-modal": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bK": {
+   "n": 0,
+   "tmpl": "\\mathbf{K}"
+  },
+  "fishhook": {
+   "n": 0,
+   "tmpl": "\\unicode{x297d}"
+  },
+  "rK": {
+   "n": 0,
+   "tmpl": "\\mathrm{K}"
+  },
+  "win": {
+   "n": 0,
+   "tmpl": "\\textit{win}"
+  }
+ },
+ "logic-modal-origins": {
+  "Diamond": {
+   "n": 0,
+   "tmpl": "\\unicode{x2B26}"
+  },
+  "mvDash": {
+   "n": 0,
+   "tmpl": "\\mathord{\\vDash\\,}"
+  },
+  "mvdash": {
+   "n": 0,
+   "tmpl": "\\mathord{\\vdash\\,}"
+  },
+  "nmvDash": {
+   "n": 0,
+   "tmpl": "\\mathord{\\nvDash}"
+  },
+  "nmvdash": {
+   "n": 0,
+   "tmpl": "\\mathord{\\nvdash}"
+  }
+ },
+ "logic-nonmonotonic": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "dproves": {
+   "n": 0,
+   "tmpl": "\\mathbin{{\\rvert}\\!{\\sim}}"
+  },
+  "nc": {
+   "n": 0,
+   "tmpl": "\\mathop{{\\rvert}\\!{\\sim}}"
+  },
+  "nnc": {
+   "n": 0,
+   "tmpl": "\\mathop{\\mathrel{\\rlap{\\hskip .2em/}}\\rvert\\!{\\sim}}"
+  },
+  "notdproves": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\mathrel{\\rlap{\\hskip .2em/}}\\rvert\\!{\\sim}}"
+  },
+  "notrightarrow": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\mathrel{\\rlap{\\hskip .2em/}}\\rightarrow}"
+  },
+  "rP": {
+   "n": 0,
+   "tmpl": "\\mathrm{P}"
+  }
+ },
+ "logic-normative": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "logic-ontology": {
+  "lsquo": {
+   "n": 0,
+   "tmpl": "{\\text{‘}}"
+  },
+  "rsquo": {
+   "n": 0,
+   "tmpl": "{\\text{’}}"
+  }
+ },
+ "logic-paraconsistent": {
+  "Diamond": {
+   "n": 0,
+   "tmpl": "\\unicode{x2B26}"
+  }
+ },
+ "logic-power-games": {
+  "enskip": {
+   "n": 0,
+   "tmpl": "\\hspace{.5em}"
+  }
+ },
+ "logic-preference": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "coloneq": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\,:=\\,}"
+  },
+  "llbracket": {
+   "n": 0,
+   "tmpl": "\\mathopen{[\\![}"
+  },
+  "rrbracket": {
+   "n": 0,
+   "tmpl": "\\mathclose{]\\!]}"
+  }
+ },
+ "logic-probability": {
+  "Diamond": {
+   "n": 0,
+   "tmpl": "\\unicode{x2B26}"
+  }
+ },
+ "logic-propositional": {
+  "CPC": {
+   "n": 0,
+   "tmpl": "\\text{CPC}"
+  },
+  "CTT": {
+   "n": 0,
+   "tmpl": "\\text{CTT}"
+  },
+  "IPC": {
+   "n": 0,
+   "tmpl": "\\text{IPC}"
+  },
+  "Lrightarrow": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\Large\\rightarrow}"
+  },
+  "ND": {
+   "n": 0,
+   "tmpl": "\\text{ND}"
+  },
+  "PK": {
+   "n": 0,
+   "tmpl": "\\text{PK}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bF": {
+   "n": 0,
+   "tmpl": "\\mathbf{F}"
+  },
+  "bP": {
+   "n": 0,
+   "tmpl": "\\mathbf{P}"
+  },
+  "bT": {
+   "n": 0,
+   "tmpl": "\\mathbf{T}"
+  },
+  "calD": {
+   "n": 0,
+   "tmpl": "\\mathcal{D}"
+  },
+  "calM": {
+   "n": 0,
+   "tmpl": "\\mathcal{M}"
+  },
+  "calS": {
+   "n": 0,
+   "tmpl": "\\mathcal{S}"
+  },
+  "calT": {
+   "n": 0,
+   "tmpl": "\\mathcal{T}"
+  },
+  "calU": {
+   "n": 0,
+   "tmpl": "\\mathcal{U}"
+  },
+  "calV": {
+   "n": 0,
+   "tmpl": "\\mathcal{V}"
+  },
+  "cnf": {
+   "n": 0,
+   "tmpl": "\\textit{cnf}"
+  },
+  "dnf": {
+   "n": 0,
+   "tmpl": "\\textit{dnf}"
+  },
+  "dturnstile": {
+   "n": 1,
+   "tmpl": "\\mathbin{\\scriptsize\\begin{array}{|c}\\kern-.6em \\xlongequal[\\raise 3pt {#1}]{}\\end{array}\\kern-.3em}"
+  },
+  "iddots": {
+   "n": 0,
+   "tmpl": "{\\cdot^{\\textstyle\\cdot^{\\textstyle\\cdot}}}"
+  },
+  "olddturnstile": {
+   "n": 1,
+   "tmpl": "{\\large |}\\kern-.4em\\xlongequal[#1]{}"
+  },
+  "oldmturnstile": {
+   "n": 1,
+   "tmpl": "{\\mathbin{{{} \\abovewithdelims | . 1px {\\scriptstyle #1}}}}"
+  },
+  "oldturnstile": {
+   "n": 1,
+   "tmpl": "\\mathbin{\\scriptsize\\begin{array}{|c}{}\\\\ \\hline #1\\end{array}}"
+  },
+  "parr": {
+   "n": 0,
+   "tmpl": "\\mathbin{{\\raise.1em{\\class{atoir}{\\&}}}}"
+  },
+  "rA": {
+   "n": 0,
+   "tmpl": "\\text{A}"
+  },
+  "rB": {
+   "n": 0,
+   "tmpl": "\\text{B}"
+  },
+  "rC": {
+   "n": 0,
+   "tmpl": "\\text{C}"
+  },
+  "rD": {
+   "n": 0,
+   "tmpl": "\\text{D}"
+  },
+  "rE": {
+   "n": 0,
+   "tmpl": "\\text{E}"
+  },
+  "rG": {
+   "n": 0,
+   "tmpl": "\\text{G}"
+  },
+  "rK": {
+   "n": 0,
+   "tmpl": "\\text{K}"
+  },
+  "rR": {
+   "n": 0,
+   "tmpl": "\\text{R}"
+  },
+  "rS": {
+   "n": 0,
+   "tmpl": "\\text{S}"
+  },
+  "rT": {
+   "n": 0,
+   "tmpl": "\\text{T}"
+  },
+  "rV": {
+   "n": 0,
+   "tmpl": "\\text{V}"
+  },
+  "rddots": {
+   "n": 0,
+   "tmpl": "\\cdot^{\\textstyle\\cdot^{\\textstyle\\cdot}}"
+  },
+  "riddots": {
+   "n": 0,
+   "tmpl": "\\unicode{x22F0}"
+  },
+  "sfrac": {
+   "n": 2,
+   "tmpl": "(#1/#2)"
+  },
+  "turnstile": {
+   "n": 1,
+   "tmpl": "\\mathbin{\\scriptsize\\begin{array}{|c}\\kern-.7em\\frac{\\strut}{\\strut #1\\ }\\end{array}\\kern-.3em}"
+  }
+ },
+ "logic-provability": {
+  "Diamond": {
+   "n": 0,
+   "tmpl": "\\unicode{x2B26}"
+  },
+  "GL": {
+   "n": 0,
+   "tmpl": "\\mbox{GL}"
+  },
+  "PA": {
+   "n": 0,
+   "tmpl": "\\mbox{PA}"
+  },
+  "Proof": {
+   "n": 0,
+   "tmpl": "{\\textsf{Proof}}"
+  },
+  "Prov": {
+   "n": 0,
+   "tmpl": "{\\textsf{Prov}}"
+  },
+  "bs": {
+   "n": 0,
+   "tmpl": "{\\bf s}"
+  },
+  "interprets": {
+   "n": 0,
+   "tmpl": "\\vartriangleright"
+  }
+ },
+ "logic-relevance": {
+  "False": {
+   "n": 0,
+   "tmpl": "\\mathrm{F}"
+  },
+  "True": {
+   "n": 0,
+   "tmpl": "\\mathrm{T}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "prurel": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\unicode{x22b0}}"
+  }
+ },
+ "logic-substructural": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "logical-consequence": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "tonk": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\mathrm{\\scriptsize{TONK}}}"
+  }
+ },
+ "logical-constants": {
+  "and": {
+   "n": 0,
+   "tmpl": "\\,\\&\\,"
+  },
+  "cq": {
+   "n": 1,
+   "tmpl": "{\\ulcorner #1 \\urcorner}"
+  },
+  "dq": {
+   "n": 1,
+   "tmpl": "{\\text{“}#1\\text{”}}"
+  },
+  "refp": {
+   "n": 1,
+   "tmpl": "(\\ref{#1})"
+  }
+ },
+ "logical-construction": {
+  "bS": {
+   "n": 0,
+   "tmpl": "{\\bf S}"
+  },
+  "rR": {
+   "n": 0,
+   "tmpl": "{\\mathrm R}"
+  }
+ },
+ "logical-form": {
+  "lsquo": {
+   "n": 0,
+   "tmpl": "{\\text{‘}}"
+  },
+  "rsquo": {
+   "n": 0,
+   "tmpl": "{\\text{’}}"
+  }
+ },
+ "logical-pluralism": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "ldquo": {
+   "n": 0,
+   "tmpl": "\\textrm{“}"
+  },
+  "rdquo": {
+   "n": 0,
+   "tmpl": "\\textrm{”}"
+  }
+ },
+ "logicism": {
+  "Con": {
+   "n": 0,
+   "tmpl": "\\text{Con}"
+  }
+ },
+ "logics-for-games": {
+  "G": {
+   "n": 0,
+   "tmpl": "\\mathcal{G}"
+  },
+  "best": {
+   "n": 0,
+   "tmpl": "\\textsf{best}"
+  },
+  "move": {
+   "n": 0,
+   "tmpl": "\\textsf{move}"
+  },
+  "rat": {
+   "n": 0,
+   "tmpl": "\\textsf{rat}"
+  },
+  "sfend": {
+   "n": 0,
+   "tmpl": "\\textsf{end}"
+  },
+  "turn": {
+   "n": 0,
+   "tmpl": "\\textsf{turn}"
+  },
+  "win": {
+   "n": 0,
+   "tmpl": "\\textsf{win}"
+  }
+ },
+ "lukasiewicz": {
+  "apos": {
+   "n": 0,
+   "tmpl": "{\\,\\text{’}}"
+  },
+  "tval": {
+   "n": 1,
+   "tmpl": "{\\lvert #1 \\rvert}"
+  }
+ },
+ "mathematics-constructive": {
+  "BDN": {
+   "n": 0,
+   "tmpl": "\\mathsf{BD}\\text{-}\\mathbf{N}"
+  },
+  "FTD": {
+   "n": 0,
+   "tmpl": "\\mathbf{FT}_D"
+  },
+  "abs": {
+   "n": 1,
+   "tmpl": "{\\lvert #1 \\rvert}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bA": {
+   "n": 0,
+   "tmpl": "\\mathbf{A}"
+  },
+  "bN": {
+   "n": 0,
+   "tmpl": "\\mathbf{N}"
+  },
+  "bQ": {
+   "n": 0,
+   "tmpl": "\\mathbf{Q}"
+  },
+  "bR": {
+   "n": 0,
+   "tmpl": "\\mathbf{R}"
+  },
+  "bZ": {
+   "n": 0,
+   "tmpl": "\\mathbf{Z}"
+  },
+  "ba": {
+   "n": 0,
+   "tmpl": "\\mathbf{a}"
+  },
+  "bb": {
+   "n": 0,
+   "tmpl": "\\mathbf{b}"
+  },
+  "bfrac": {
+   "n": 2,
+   "tmpl": "{^{#1}\\!\\unicode{x2044}_{\\!#2}}"
+  },
+  "bx": {
+   "n": 0,
+   "tmpl": "\\mathbf{x}"
+  },
+  "cov": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\mathrm{cov}}"
+  },
+  "covs": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\mathrm{cov}_S}"
+  }
+ },
+ "meaning": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "nsim": {
+   "n": 0,
+   "tmpl": "\\mathord{\\sim}"
+  }
+ },
+ "meaning-normativity": {
+  "CP": {
+   "n": 0,
+   "tmpl": "\\textrm{CP}"
+  },
+  "CR": {
+   "n": 0,
+   "tmpl": "\\textrm{CR}"
+  },
+  "MD": {
+   "n": 0,
+   "tmpl": "\\textrm{MD}"
+  },
+  "ME": {
+   "n": 0,
+   "tmpl": "\\textrm{ME}"
+  },
+  "NB": {
+   "n": 0,
+   "tmpl": "\\textrm{NB}"
+  },
+  "PA": {
+   "n": 0,
+   "tmpl": "\\textrm{PA}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "medieval-syllogism": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "miracles": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "modality-epistemology": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "boxarrow": {
+   "n": 0,
+   "tmpl": "\\mathrel{{\\Box}\\kern-1.5pt\\raise1pt{\\rightarrow}}"
+  }
+ },
+ "model-theory": {
+  "Mod": {
+   "n": 0,
+   "tmpl": "\\text{Mod}"
+  }
+ },
+ "monism": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "montague-semantics": {
+  "llbracket": {
+   "n": 0,
+   "tmpl": "[\\!["
+  },
+  "rrbracket": {
+   "n": 0,
+   "tmpl": "]\\!]"
+  }
+ },
+ "moral-decision-uncertainty": {
+  "EU": {
+   "n": 0,
+   "tmpl": "\\textit{EU}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "moral-dilemmas": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "names": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "natural-deduction": {
+  "sout": {
+   "n": 1,
+   "tmpl": "#1"
+  },
+  "tonk": {
+   "n": 0,
+   "tmpl": "{\\mathbin{\\small\\rm\\ TONK\\ }}"
+  }
+ },
+ "natural-language-ontology": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "natural-properties": {
+  "lsquo": {
+   "n": 0,
+   "tmpl": "{\\text{‘}}"
+  },
+  "rsquo": {
+   "n": 0,
+   "tmpl": "{\\text{’}}"
+  }
+ },
+ "negation": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "coimp": {
+   "n": 0,
+   "tmpl": "\\mathbin{-\\kern-.5em<}"
+  },
+  "coloneq": {
+   "n": 0,
+   "tmpl": "\\mathrel{:=}"
+  },
+  "copy": {
+   "n": 0,
+   "tmpl": "\\unicode{xa9}"
+  },
+  "llbracket": {
+   "n": 0,
+   "tmpl": "[\\!["
+  },
+  "osim": {
+   "n": 0,
+   "tmpl": "\\mathord{\\sim}"
+  },
+  "rrbracket": {
+   "n": 0,
+   "tmpl": "]\\!]"
+  },
+  "slashrel": {
+   "n": 0,
+   "tmpl": "\\mathrel{/}"
+  }
+ },
+ "nonexistent-objects": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "rE": {
+   "n": 0,
+   "tmpl": "\\text{E}"
+  }
+ },
+ "omnipotence": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "paradox-simpson": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "b": {
+   "n": 1,
+   "tmpl": "\\mathbf{#1}"
+  },
+  "do": {
+   "n": 0,
+   "tmpl": "\\textrm{do}"
+  },
+  "i": {
+   "n": 1,
+   "tmpl": "\\mathit{#1}"
+  },
+  "r": {
+   "n": 1,
+   "tmpl": "\\mathrm{#1}"
+  }
+ },
+ "paradox-stpetersburg": {
+  "reu": {
+   "n": 0,
+   "tmpl": "\\textit{REU}"
+  }
+ },
+ "paradoxes-contemporary-logic": {
+  "Val": {
+   "n": 0,
+   "tmpl": "\\mathrm{Val}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "rmA": {
+   "n": 0,
+   "tmpl": "\\mathrm{A}"
+  },
+  "rmT": {
+   "n": 0,
+   "tmpl": "\\mathrm{T}"
+  }
+ },
+ "peirce-logic": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bcomma": {
+   "n": 0,
+   "tmpl": "\\mathord{,}"
+  },
+  "binary": {
+   "n": 1,
+   "tmpl": "\\mathit{#1}"
+  },
+  "cunion": {
+   "n": 0,
+   "tmpl": "\\mathbin{+\\kern-.3em,}"
+  },
+  "inclusion": {
+   "n": 0,
+   "tmpl": "\\mathbin{-\\kern-.5em<}"
+  },
+  "ternary": {
+   "n": 1,
+   "tmpl": "\\boldsymbol{#1}"
+  },
+  "unary": {
+   "n": 1,
+   "tmpl": "\\mathrm{#1}"
+  }
+ },
+ "phil-multimodallogic": {
+  "Diamond": {
+   "n": 0,
+   "tmpl": "\\unicode{x2B26}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bcap": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\boldsymbol{\\cap}}"
+  },
+  "bcup": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\boldsymbol{\\cup}}"
+  },
+  "bdash": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\boldsymbol{-}}"
+  },
+  "cL": {
+   "n": 0,
+   "tmpl": "\\mathcal{L}"
+  },
+  "cM": {
+   "n": 0,
+   "tmpl": "\\mathcal{M}"
+  },
+  "cU": {
+   "n": 0,
+   "tmpl": "\\mathcal{U}"
+  },
+  "dashV": {
+   "n": 0,
+   "tmpl": "\\require{HTML} \\style{display: inline-block; transform: rotate(180deg)}{\\Vdash}"
+  },
+  "hC": {
+   "n": 0,
+   "tmpl": "\\widehat{C}"
+  },
+  "hD": {
+   "n": 0,
+   "tmpl": "\\widehat{D}"
+  },
+  "hI": {
+   "n": 0,
+   "tmpl": "\\widehat{I}"
+  },
+  "hK": {
+   "n": 0,
+   "tmpl": "\\widehat{K}"
+  },
+  "iffdef": {
+   "n": 0,
+   "tmpl": "\\mathrel{\\text{iff}_{\\textit{def}}}"
+  },
+  "llbracket": {
+   "n": 0,
+   "tmpl": "\\mathopen{[\\![}"
+  },
+  "oB": {
+   "n": 1,
+   "tmpl": "B_{#1}"
+  },
+  "oBox": {
+   "n": 0,
+   "tmpl": "\\Box"
+  },
+  "oDiamond": {
+   "n": 0,
+   "tmpl": "\\Diamond"
+  },
+  "oK": {
+   "n": 1,
+   "tmpl": "K_{#1}"
+  },
+  "ohC": {
+   "n": 0,
+   "tmpl": "\\hC"
+  },
+  "ohD": {
+   "n": 0,
+   "tmpl": "\\hD"
+  },
+  "onDiamond": {
+   "n": 0,
+   "tmpl": "\\mathord{\\lnot\\Diamond}"
+  },
+  "oubracket": {
+   "n": 2,
+   "tmpl": "\\overset{\\Rule{1pt}{1pt}{.5ex}\\Rule{#1}{1pt}{0pt}\\Rule{1pt}{1pt}{.5ex}}{\\underset{\\Rule{1pt}{1ex}{0pt}\\Rule{#1}{1pt}{0pt}\\Rule{1pt}{1ex}{0pt}}{#2}}"
+  },
+  "qbin": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\boldsymbol{?}}"
+  },
+  "rrbracket": {
+   "n": 0,
+   "tmpl": "\\mathclose{]\\!]}"
+  },
+  "sX": {
+   "n": 0,
+   "tmpl": "\\mathscr{X}"
+  },
+  "sY": {
+   "n": 0,
+   "tmpl": "\\mathscr{Y}"
+  },
+  "scbin": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\boldsymbol{;}}"
+  },
+  "tiff": {
+   "n": 0,
+   "tmpl": "\\text{iff}"
+  },
+  "ttA": {
+   "n": 0,
+   "tmpl": "\\mathtt{A}"
+  }
+ },
+ "physics-Rpcc": {
+  "ND": {
+   "n": 0,
+   "tmpl": "\\textbf{ND}"
+  },
+  "PA": {
+   "n": 0,
+   "tmpl": "\\textbf{PA}"
+  }
+ },
+ "physics-experiment": {
+  "bH": {
+   "n": 0,
+   "tmpl": "{\\mathbf{H}}"
+  },
+  "bJ": {
+   "n": 0,
+   "tmpl": "{\\mathbf{J}}"
+  },
+  "bL": {
+   "n": 0,
+   "tmpl": "{\\mathbf{L}}"
+  },
+  "bS": {
+   "n": 0,
+   "tmpl": "{\\mathbf{S}}"
+  },
+  "bfrac": {
+   "n": 2,
+   "tmpl": "{^{#1}\\unicode{x2044}_{#2}}"
+  },
+  "bp": {
+   "n": 0,
+   "tmpl": "{\\mathbf{p}}"
+  },
+  "iso": {
+   "n": 2,
+   "tmpl": "{\\mathrm{^{#1}{#2}}}"
+  },
+  "rmn": {
+   "n": 1,
+   "tmpl": "{\\mathrm{#1}}"
+  }
+ },
+ "physics-interrelate": {
+  "BL": {
+   "n": 0,
+   "tmpl": "\\textrm{BL}"
+  }
+ },
+ "physics-structuralism": {
+  "bF": {
+   "n": 0,
+   "tmpl": "\\boldsymbol{F}"
+  },
+  "ba": {
+   "n": 0,
+   "tmpl": "\\boldsymbol{a}"
+  }
+ },
+ "platonism": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "plural-quant": {
+  "Diamond": {
+   "n": 0,
+   "tmpl": "\\unicode{x2B26}"
+  },
+  "EExists": {
+   "n": 0,
+   "tmpl": "\\mathrm{E}"
+  },
+  "Exists": {
+   "n": 1,
+   "tmpl": "\\mathop{\\exists\\hspace{.05em} #1}"
+  },
+  "Forall": {
+   "n": 1,
+   "tmpl": "\\mathop{\\forall\\hspace{.05em} #1}"
+  },
+  "Rarel": {
+   "n": 0,
+   "tmpl": "\\mathrel{R^*}"
+  },
+  "Rrel": {
+   "n": 0,
+   "tmpl": "\\mathrel{R}"
+  },
+  "Tr": {
+   "n": 0,
+   "tmpl": "\\textit{Tr}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "mstop": {
+   "n": 0,
+   "tmpl": "\\mathbin{.}"
+  }
+ },
+ "pm-notation": {
+  "Cl": {
+   "n": 0,
+   "tmpl": "\\mathrm{Cl}"
+  },
+  "Cls": {
+   "n": 0,
+   "tmpl": "\\mathrm{Cls}"
+  },
+  "Df": {
+   "n": 0,
+   "tmpl": "\\mathrm{Df}"
+  },
+  "Pp": {
+   "n": 0,
+   "tmpl": "\\mathrm{Pp}"
+  },
+  "Rl": {
+   "n": 0,
+   "tmpl": "\\mathrm{Rl}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "atoi": {
+   "n": 0,
+   "tmpl": "{\\raise .3ex{\\class{atoir}{\\unicode[Times]{x3b9}}}}"
+  },
+  "backd": {
+   "n": 0,
+   "tmpl": "{\\class{mirror}{\\unicode{x44}}}"
+  },
+  "bang": {
+   "n": 0,
+   "tmpl": "\\mathord{\\kern.1em !\\kern.1em}"
+  },
+  "colon": {
+   "n": 0,
+   "tmpl": "{\\;:\\;}"
+  },
+  "colondot": {
+   "n": 0,
+   "tmpl": "{\\;:.\\;}"
+  },
+  "colons": {
+   "n": 0,
+   "tmpl": "{\\;::\\;}"
+  },
+  "ex": {
+   "n": 0,
+   "tmpl": "\\mathrm{ex}"
+  },
+  "excl": {
+   "n": 0,
+   "tmpl": "\\mathrm{excl}"
+  },
+  "ldot": {
+   "n": 0,
+   "tmpl": "{\\;.\\;}"
+  },
+  "osim": {
+   "n": 0,
+   "tmpl": "{\\sim}"
+  },
+  "sdot": {
+   "n": 0,
+   "tmpl": "\\mathbin{.}"
+  },
+  "venus": {
+   "n": 0,
+   "tmpl": "\\unicode{x2640}"
+  }
+ },
+ "possibilism-actualism": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "astAbang": {
+   "n": 0,
+   "tmpl": "^{*}_{\\sfA!}"
+  },
+  "astQ": {
+   "n": 0,
+   "tmpl": "^{*}_{Q}"
+  },
+  "calH": {
+   "n": 0,
+   "tmpl": "\\mathcal{H}"
+  },
+  "calI": {
+   "n": 0,
+   "tmpl": "\\mathcal{I}"
+  },
+  "calK": {
+   "n": 0,
+   "tmpl": "\\mathcal{K}"
+  },
+  "calM": {
+   "n": 0,
+   "tmpl": "\\mathcal{M}"
+  },
+  "eqdf": {
+   "n": 0,
+   "tmpl": "\\mathbin{=_{\\textit{df}}}"
+  },
+  "llbracket": {
+   "n": 0,
+   "tmpl": "[\\!["
+  },
+  "rS": {
+   "n": 0,
+   "tmpl": "\\mathrm{S}"
+  },
+  "rrbracket": {
+   "n": 0,
+   "tmpl": "]\\!]"
+  },
+  "scrL": {
+   "n": 0,
+   "tmpl": "\\mathscr{L}"
+  },
+  "sfA": {
+   "n": 0,
+   "tmpl": "\\mathsf{A}"
+  },
+  "sfB": {
+   "n": 0,
+   "tmpl": "\\mathsf{B}"
+  },
+  "sfC": {
+   "n": 0,
+   "tmpl": "\\mathsf{C}"
+  },
+  "sfE": {
+   "n": 0,
+   "tmpl": "\\mathsf{E}"
+  },
+  "sfF": {
+   "n": 0,
+   "tmpl": "\\mathsf{F}"
+  },
+  "sfG": {
+   "n": 0,
+   "tmpl": "\\mathsf{G}"
+  },
+  "sfH": {
+   "n": 0,
+   "tmpl": "\\mathsf{H}"
+  },
+  "sfK": {
+   "n": 0,
+   "tmpl": "\\mathsf{K}"
+  },
+  "sfL": {
+   "n": 0,
+   "tmpl": "\\mathsf{L}"
+  },
+  "sfP": {
+   "n": 0,
+   "tmpl": "\\mathsf{P}"
+  },
+  "sfS": {
+   "n": 0,
+   "tmpl": "\\mathsf{S}"
+  },
+  "sfT": {
+   "n": 0,
+   "tmpl": "\\mathsf{T}"
+  },
+  "sfa": {
+   "n": 0,
+   "tmpl": "\\mathsf{a}"
+  },
+  "sfb": {
+   "n": 0,
+   "tmpl": "\\mathsf{b}"
+  },
+  "sfg": {
+   "n": 0,
+   "tmpl": "\\mathsf{g}"
+  },
+  "sfp": {
+   "n": 0,
+   "tmpl": "\\mathsf{p}"
+  },
+  "sfs": {
+   "n": 0,
+   "tmpl": "\\mathsf{s}"
+  },
+  "sfw": {
+   "n": 0,
+   "tmpl": "\\mathsf{w}"
+  },
+  "sfx": {
+   "n": 0,
+   "tmpl": "\\mathsf{x}"
+  },
+  "sfy": {
+   "n": 0,
+   "tmpl": "\\mathsf{y}"
+  },
+  "sfz": {
+   "n": 0,
+   "tmpl": "\\mathsf{z}"
+  }
+ },
+ "prediction-accommodation": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "preferences": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "principia-mathematica": {
+  "Df": {
+   "n": 0,
+   "tmpl": "\\mathrm{Df}"
+  },
+  "Domain": {
+   "n": 0,
+   "tmpl": "\\textit{Domain}"
+  },
+  "Pp": {
+   "n": 0,
+   "tmpl": "\\mathrm{Pp}"
+  },
+  "Range": {
+   "n": 0,
+   "tmpl": "\\textit{Range}"
+  },
+  "Rast": {
+   "n": 0,
+   "tmpl": "\\mathrm{R}^{\\ast}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "atoi": {
+   "n": 0,
+   "tmpl": "{\\class{atoir}{\\unicode[Times]{x3b9}}}"
+  },
+  "backd": {
+   "n": 0,
+   "tmpl": "{\\class{mirror}{\\unicode{x44}}}"
+  },
+  "bang": {
+   "n": 0,
+   "tmpl": "\\mathord{\\kern.1em !\\kern.1em}"
+  },
+  "colon": {
+   "n": 0,
+   "tmpl": "{\\;:\\;}"
+  },
+  "colondot": {
+   "n": 0,
+   "tmpl": "{\\;:.\\;}"
+  },
+  "colons": {
+   "n": 0,
+   "tmpl": "{\\;::\\;}"
+  },
+  "eqdf": {
+   "n": 0,
+   "tmpl": "\\mathrel{=_{\\textit{df}}}"
+  },
+  "ldot": {
+   "n": 0,
+   "tmpl": "{\\;.\\;}"
+  },
+  "lnot": {
+   "n": 0,
+   "tmpl": "{\\mathord{\\sim}}"
+  },
+  "osim": {
+   "n": 0,
+   "tmpl": "{\\sim}"
+  },
+  "pmdq": {
+   "n": 0,
+   "tmpl": "``"
+  },
+  "pmlt": {
+   "n": 0,
+   "tmpl": "<"
+  },
+  "pmsq": {
+   "n": 0,
+   "tmpl": "`"
+  },
+  "rN": {
+   "n": 0,
+   "tmpl": "\\mathrm{N}"
+  },
+  "rV": {
+   "n": 0,
+   "tmpl": "\\mathrm{V}"
+  },
+  "relP": {
+   "n": 0,
+   "tmpl": "\\rels{P}"
+  },
+  "relQ": {
+   "n": 0,
+   "tmpl": "\\rels{Q}"
+  },
+  "relR": {
+   "n": 0,
+   "tmpl": "\\rels{R}"
+  },
+  "relS": {
+   "n": 0,
+   "tmpl": "\\rels{S}"
+  },
+  "relSast": {
+   "n": 0,
+   "tmpl": "\\rels{S^{\\ast}}"
+  },
+  "relbR": {
+   "n": 0,
+   "tmpl": "\\rels{\\breve{R}}"
+  },
+  "relbS": {
+   "n": 0,
+   "tmpl": "\\rels{\\breve{S}}"
+  },
+  "rels": {
+   "n": 1,
+   "tmpl": "\\mathord{#1}"
+  },
+  "sdot": {
+   "n": 0,
+   "tmpl": "\\mathbin{.}"
+  },
+  "smor": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\textit{smor}}"
+  }
+ },
+ "prior": {
+  "Diamond": {
+   "n": 0,
+   "tmpl": "\\unicode{x2B26}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "prisoner-dilemma": {
+  "bA": {
+   "n": 0,
+   "tmpl": "{\\bf A}"
+  },
+  "bC": {
+   "n": 0,
+   "tmpl": "{\\bf C}"
+  },
+  "bCu": {
+   "n": 0,
+   "tmpl": "{\\bf Cu}"
+  },
+  "bD": {
+   "n": 0,
+   "tmpl": "{\\bf D}"
+  },
+  "bDu": {
+   "n": 0,
+   "tmpl": "{\\bf Du}"
+  },
+  "bI": {
+   "n": 0,
+   "tmpl": "{\\bf I}"
+  },
+  "bN": {
+   "n": 0,
+   "tmpl": "{\\bf N}"
+  },
+  "bO": {
+   "n": 0,
+   "tmpl": "{\\bf O}"
+  },
+  "bP": {
+   "n": 0,
+   "tmpl": "{\\bf P}"
+  },
+  "bR": {
+   "n": 0,
+   "tmpl": "{\\bf R}"
+  },
+  "bS": {
+   "n": 0,
+   "tmpl": "{\\bf S}"
+  },
+  "ba": {
+   "n": 0,
+   "tmpl": "{\\bf a}"
+  },
+  "bi": {
+   "n": 0,
+   "tmpl": "{\\bf i}"
+  },
+  "bj": {
+   "n": 0,
+   "tmpl": "{\\bf j}"
+  },
+  "bone": {
+   "n": 0,
+   "tmpl": "{\\bf 1}"
+  },
+  "bs": {
+   "n": 0,
+   "tmpl": "{\\bf s}"
+  },
+  "btwo": {
+   "n": 0,
+   "tmpl": "{\\bf 2}"
+  },
+  "ra": {
+   "n": 0,
+   "tmpl": "\\text{a}"
+  },
+  "rb": {
+   "n": 0,
+   "tmpl": "\\text{b}"
+  },
+  "rc": {
+   "n": 0,
+   "tmpl": "\\text{c}"
+  }
+ },
+ "probability-interpret": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "proof-theoretic-semantics": {
+  "imp": {
+   "n": 0,
+   "tmpl": "\\textit{imp}"
+  }
+ },
+ "proof-theory": {
+  "ACA": {
+   "n": 0,
+   "tmpl": "\\textbf{ACA}"
+  },
+  "ATR": {
+   "n": 0,
+   "tmpl": "\\textbf{ATR}"
+  },
+  "BI": {
+   "n": 0,
+   "tmpl": "\\textbf{BI}"
+  },
+  "Con": {
+   "n": 0,
+   "tmpl": "\\textrm{Con}"
+  },
+  "Corner": {
+   "n": 1,
+   "tmpl": "\\mathord{\\ulcorner #1\\urcorner}"
+  },
+  "Hy": {
+   "n": 0,
+   "tmpl": "\\textrm{-}"
+  },
+  "KP": {
+   "n": 0,
+   "tmpl": "\\mathbf{KP}"
+  },
+  "ON": {
+   "n": 0,
+   "tmpl": "\\textit{ON}"
+  },
+  "PA": {
+   "n": 0,
+   "tmpl": "\\textbf{PA}"
+  },
+  "PL": {
+   "n": 0,
+   "tmpl": "\\textbf{PL}"
+  },
+  "PRA": {
+   "n": 0,
+   "tmpl": "\\textbf{PRA}"
+  },
+  "RCA": {
+   "n": 0,
+   "tmpl": "\\textbf{RCA}"
+  },
+  "WKL": {
+   "n": 0,
+   "tmpl": "\\textbf{WKL}"
+  },
+  "WQO": {
+   "n": 0,
+   "tmpl": "\\textrm{WQO}"
+  },
+  "ZFC": {
+   "n": 0,
+   "tmpl": "\\textbf{ZFC}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bAC": {
+   "n": 0,
+   "tmpl": "\\textbf{AC}"
+  },
+  "bBR": {
+   "n": 0,
+   "tmpl": "\\textbf{BR}"
+  },
+  "bCA": {
+   "n": 0,
+   "tmpl": "\\textbf{CA}"
+  },
+  "bCR": {
+   "n": 0,
+   "tmpl": "\\textbf{CR}"
+  },
+  "bF": {
+   "n": 0,
+   "tmpl": "\\mathbf{F}"
+  },
+  "bHA": {
+   "n": 0,
+   "tmpl": "\\textbf{HA}"
+  },
+  "bID": {
+   "n": 0,
+   "tmpl": "\\textbf{ID}"
+  },
+  "bL": {
+   "n": 0,
+   "tmpl": "\\mathrm{L}"
+  },
+  "bN": {
+   "n": 0,
+   "tmpl": "\\mathbf{N}"
+  },
+  "bPi": {
+   "n": 0,
+   "tmpl": "\\mathbf{\\Pi}"
+  },
+  "bR": {
+   "n": 0,
+   "tmpl": "\\mathbf{R}"
+  },
+  "bRA": {
+   "n": 0,
+   "tmpl": "\\textbf{RA}"
+  },
+  "bS": {
+   "n": 0,
+   "tmpl": "\\mathbf{S}"
+  },
+  "bT": {
+   "n": 0,
+   "tmpl": "\\mathbf{T}"
+  },
+  "bZ": {
+   "n": 0,
+   "tmpl": "\\mathbf{Z}"
+  },
+  "bbA": {
+   "n": 0,
+   "tmpl": "\\mathbb{A}"
+  },
+  "bbB": {
+   "n": 0,
+   "tmpl": "\\mathbb{B}"
+  },
+  "bbN": {
+   "n": 0,
+   "tmpl": "\\mathbb{N}"
+  },
+  "bbR": {
+   "n": 0,
+   "tmpl": "\\mathbb{R}"
+  },
+  "cB": {
+   "n": 0,
+   "tmpl": "\\mathcal{B}"
+  },
+  "cC": {
+   "n": 0,
+   "tmpl": "\\mathcal{C}"
+  },
+  "cD": {
+   "n": 0,
+   "tmpl": "\\mathcal{D}"
+  },
+  "cH": {
+   "n": 0,
+   "tmpl": "\\mathcal{H}"
+  },
+  "cK": {
+   "n": 0,
+   "tmpl": "\\mathcal{K}"
+  },
+  "cL": {
+   "n": 0,
+   "tmpl": "\\mathcal{L}"
+  },
+  "cO": {
+   "n": 0,
+   "tmpl": "\\mathcal{O}"
+  },
+  "cR": {
+   "n": 0,
+   "tmpl": "\\mathcal{R}"
+  },
+  "cT": {
+   "n": 0,
+   "tmpl": "\\mathcal{T}"
+  },
+  "coloneqq": {
+   "n": 0,
+   "tmpl": "\\mathbin{:=}"
+  },
+  "fB": {
+   "n": 0,
+   "tmpl": "\\mathfrak{B}"
+  },
+  "fE": {
+   "n": 0,
+   "tmpl": "\\mathfrak{E}"
+  },
+  "fN": {
+   "n": 0,
+   "tmpl": "\\mathfrak{N}"
+  },
+  "fP": {
+   "n": 0,
+   "tmpl": "\\mathfrak{P}"
+  },
+  "frakA": {
+   "n": 0,
+   "tmpl": "\\mathfrak{A}"
+  },
+  "fraka": {
+   "n": 0,
+   "tmpl": "\\mathfrak{a}"
+  },
+  "frakb": {
+   "n": 0,
+   "tmpl": "\\mathfrak{b}"
+  },
+  "iRef": {
+   "n": 0,
+   "tmpl": "\\textit{Ref}"
+  },
+  "iTran": {
+   "n": 0,
+   "tmpl": "\\textit{Tran}"
+  },
+  "iddots": {
+   "n": 0,
+   "tmpl": "\\unicode{x22F0}"
+  },
+  "igen": {
+   "n": 0,
+   "tmpl": "\\textit{gen}"
+  },
+  "iproof": {
+   "n": 0,
+   "tmpl": "\\operatorname{\\textit{proof}}"
+  },
+  "ldot": {
+   "n": 0,
+   "tmpl": "\\mathord{.}"
+  },
+  "monus": {
+   "n": 0,
+   "tmpl": "\\mathop{\\unicode{8760}}"
+  },
+  "ord": {
+   "n": 0,
+   "tmpl": "\\operatorname{\\textit{ord}}"
+  },
+  "proof": {
+   "n": 0,
+   "tmpl": "\\textsf{Proof}"
+  },
+  "qed": {
+   "n": 0,
+   "tmpl": "\\Box"
+  },
+  "qf": {
+   "n": 0,
+   "tmpl": "\\textit{qf}"
+  },
+  "rAC": {
+   "n": 0,
+   "tmpl": "\\textrm{AC}"
+  },
+  "rACC": {
+   "n": 0,
+   "tmpl": "\\textrm{ACC}"
+  },
+  "rAcc": {
+   "n": 0,
+   "tmpl": "\\textrm{Acc}"
+  },
+  "rBR": {
+   "n": 0,
+   "tmpl": "\\textrm{BR}"
+  },
+  "rCODE": {
+   "n": 0,
+   "tmpl": "\\textrm{CODE}"
+  },
+  "rIP": {
+   "n": 0,
+   "tmpl": "\\textrm{IP}"
+  },
+  "rK": {
+   "n": 0,
+   "tmpl": "\\mathrm{K}"
+  },
+  "rL": {
+   "n": 0,
+   "tmpl": "\\mathrm{L}"
+  },
+  "rR": {
+   "n": 0,
+   "tmpl": "\\mathrm{R}"
+  },
+  "rS": {
+   "n": 0,
+   "tmpl": "\\mathrm{S}"
+  },
+  "rT": {
+   "n": 0,
+   "tmpl": "\\mathrm{T}"
+  },
+  "rTI": {
+   "n": 0,
+   "tmpl": "\\textrm{TI}"
+  },
+  "rW": {
+   "n": 0,
+   "tmpl": "\\mathrm{W}"
+  },
+  "relLTcO": {
+   "n": 0,
+   "tmpl": "\\mathrel{<_{\\lower{.5ex}{\\scriptscriptstyle\\mathcal{O}}}}"
+  },
+  "rform": {
+   "n": 0,
+   "tmpl": "\\textrm{form}"
+  },
+  "rlim": {
+   "n": 0,
+   "tmpl": "\\operatorname{lim}"
+  },
+  "rproof": {
+   "n": 0,
+   "tmpl": "\\textrm{PROOF}"
+  },
+  "rsuc": {
+   "n": 0,
+   "tmpl": "\\textrm{suc}"
+  },
+  "sCNF": {
+   "n": 0,
+   "tmpl": "{\\scriptscriptstyle \\textit{CNF}}"
+  },
+  "sOmega": {
+   "n": 0,
+   "tmpl": "\\scriptscriptstyle \\Omega"
+  },
+  "sfPr": {
+   "n": 0,
+   "tmpl": "\\textsf{Pr}"
+  },
+  "ssM": {
+   "n": 0,
+   "tmpl": "{\\scriptscriptstyle M}"
+  },
+  "ssfB": {
+   "n": 0,
+   "tmpl": "{\\scriptscriptstyle\\mathfrak{B}}"
+  },
+  "stile": {
+   "n": 2,
+   "tmpl": "\\mathbin{|\\hspace{-.15em}\\scriptstyle\\begin{array}{l}\\,#1\\,\\\\\\hline\\,#2\\,\\end{array}}"
+  },
+  "zL": {
+   "n": 0,
+   "tmpl": "\\mathbf{L}"
+  }
+ },
+ "properties": {
+  "PLUG": {
+   "n": 0,
+   "tmpl": "\\textbf{PLUG}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bP": {
+   "n": 0,
+   "tmpl": "\\mathbf{P}"
+  },
+  "bQ": {
+   "n": 0,
+   "tmpl": "\\mathbf{Q}"
+  },
+  "bR": {
+   "n": 0,
+   "tmpl": "\\mathbf{R}"
+  },
+  "bd": {
+   "n": 0,
+   "tmpl": "\\mathbf{d}"
+  },
+  "rN": {
+   "n": 0,
+   "tmpl": "\\mathrm{N}"
+  }
+ },
+ "propositional-function": {
+  "Loves": {
+   "n": 0,
+   "tmpl": "\\textit{Loves}"
+  }
+ },
+ "propositions": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bel": {
+   "n": 0,
+   "tmpl": "\\text{bel}"
+  },
+  "ent": {
+   "n": 0,
+   "tmpl": "\\text{ent}"
+  },
+  "gtb": {
+   "n": 0,
+   "tmpl": "{\\gt}"
+  },
+  "holds": {
+   "n": 0,
+   "tmpl": "\\text{holds}"
+  },
+  "ltb": {
+   "n": 0,
+   "tmpl": "{\\lt}"
+  }
+ },
+ "qm": {
+  "braket": {
+   "n": 2,
+   "tmpl": "{\\langle #1 \\mid #2 \\rangle}"
+  },
+  "ket": {
+   "n": 1,
+   "tmpl": "{\\lvert #1 \\rangle}"
+  }
+ },
+ "qm-bohm": {
+  "Im": {
+   "n": 0,
+   "tmpl": "\\textrm{Im}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "di": {
+   "n": 0,
+   "tmpl": "\\mathrm{i}"
+  }
+ },
+ "qm-collapse": {
+  "ket": {
+   "n": 1,
+   "tmpl": "{\\lvert #1 \\rangle}"
+  },
+  "near": {
+   "n": 0,
+   "tmpl": "\\ \\mathrm{near}\\ "
+  }
+ },
+ "qm-decoherence": {
+  "ket": {
+   "n": 1,
+   "tmpl": "{\\lvert #1 \\rangle}"
+  }
+ },
+ "qm-everett": {
+  "ldquo": {
+   "n": 0,
+   "tmpl": "{\\text{“}}"
+  },
+  "rdquo": {
+   "n": 0,
+   "tmpl": "{\\text{”}}"
+  }
+ },
+ "qm-manyworlds": {
+  "ket": {
+   "n": 1,
+   "tmpl": "{\\lvert #1 \\rangle}"
+  },
+  "lg": {
+   "n": 1,
+   "tmpl": "{\\large #1}"
+  },
+  "object": {
+   "n": 0,
+   "tmpl": "{\\text{OBJECT}}"
+  },
+  "universe": {
+   "n": 0,
+   "tmpl": "{\\text{UNIVERSE}}"
+  },
+  "world": {
+   "n": 0,
+   "tmpl": "{\\text{WORLD}}"
+  }
+ },
+ "qm-modal": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bra": {
+   "n": 1,
+   "tmpl": "{\\langle #1 \\rvert}"
+  },
+  "braket": {
+   "n": 2,
+   "tmpl": "{\\langle #1 \\mid #2 \\rangle}"
+  },
+  "ket": {
+   "n": 1,
+   "tmpl": "{\\lvert #1 \\rangle}"
+  },
+  "norm": {
+   "n": 1,
+   "tmpl": "{\\lvert #1 \\rvert}"
+  },
+  "univ": {
+   "n": 0,
+   "tmpl": "\\textit{univ}"
+  }
+ },
+ "qm-relational": {
+  "ket": {
+   "n": 1,
+   "tmpl": "{\\lvert #1 \\rangle}"
+  },
+  "lsq": {
+   "n": 0,
+   "tmpl": "{\\text{‘}}"
+  },
+  "rsq": {
+   "n": 0,
+   "tmpl": "{\\text{’}}"
+  }
+ },
+ "qt-entangle": {
+  "ket": {
+   "n": 1,
+   "tmpl": "{\\lvert #1 \\rangle}"
+  }
+ },
+ "qt-issues": {
+  "D": {
+   "n": 0,
+   "tmpl": "{\\mathrm{d}}"
+  },
+  "abs": {
+   "n": 1,
+   "tmpl": "{\\lvert #1 \\rvert}"
+  },
+  "ket": {
+   "n": 1,
+   "tmpl": "{\\left\\lvert #1 \\right\\rangle}"
+  }
+ },
+ "qt-nvd": {
+  "Eta": {
+   "n": 0,
+   "tmpl": "\\mathcal{H}"
+  },
+  "braket": {
+   "n": 2,
+   "tmpl": "{\\langle #1 {\\mid} #2 \\rangle}"
+  }
+ },
+ "qt-quantlog": {
+  "Im": {
+   "n": 0,
+   "tmpl": "\\textrm{Im}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "binbot": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\bot}"
+  },
+  "di": {
+   "n": 0,
+   "tmpl": "\\mathrm{i}"
+  },
+  "llvert": {
+   "n": 0,
+   "tmpl": "{\\lvert}{\\lvert}"
+  },
+  "rran": {
+   "n": 0,
+   "tmpl": "\\textit{ran}"
+  },
+  "rrvert": {
+   "n": 0,
+   "tmpl": "{\\rvert}{\\rvert}"
+  }
+ },
+ "qt-uncertainty": {
+  "abs": {
+   "n": 1,
+   "tmpl": "{\\lvert #1 \\rvert}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bA": {
+   "n": 0,
+   "tmpl": "\\boldsymbol{A}"
+  },
+  "bB": {
+   "n": 0,
+   "tmpl": "\\boldsymbol{B}"
+  },
+  "bP": {
+   "n": 0,
+   "tmpl": "\\boldsymbol{P}"
+  },
+  "bQ": {
+   "n": 0,
+   "tmpl": "\\boldsymbol{Q}"
+  },
+  "braket": {
+   "n": 2,
+   "tmpl": "{\\langle #1 {\\mid} #2 \\rangle}"
+  },
+  "expval": {
+   "n": 1,
+   "tmpl": "{\\langle #1 \\rangle}"
+  },
+  "expvalexp": {
+   "n": 2,
+   "tmpl": "{\\langle #2 {\\mid} #1 {\\mid} #2 \\rangle}"
+  },
+  "ket": {
+   "n": 1,
+   "tmpl": "{\\lvert #1 \\rangle}"
+  }
+ },
+ "qualia-inverted": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "questions": {
+  "Inq": {
+   "n": 0,
+   "tmpl": "\\mathsf{Inq}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "rP": {
+   "n": 0,
+   "tmpl": "\\mathrm{P}"
+  }
+ },
+ "quine-nf": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "rsquo": {
+   "n": 0,
+   "tmpl": "{\\text{’}}"
+  }
+ },
+ "quotation": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "tokenquote": {
+   "n": 1,
+   "tmpl": "{^{\\scriptsize \\searrow}{#1}^{\\scriptsize \\swarrow}}"
+  }
+ },
+ "ramsey": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bel": {
+   "n": 0,
+   "tmpl": "\\textit{bel}"
+  },
+  "given": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\text{given}}"
+  }
+ },
+ "rationality-normative-nonutility": {
+  "BLACK": {
+   "n": 0,
+   "tmpl": "\\textrm{BLACK}"
+  },
+  "CEU": {
+   "n": 0,
+   "tmpl": "\\textrm{CEU}"
+  },
+  "Des": {
+   "n": 0,
+   "tmpl": "\\textrm{Des}"
+  },
+  "EU": {
+   "n": 0,
+   "tmpl": "\\textrm{EU}"
+  },
+  "RED": {
+   "n": 0,
+   "tmpl": "\\textrm{RED}"
+  },
+  "REU": {
+   "n": 0,
+   "tmpl": "\\textrm{REU}"
+  },
+  "YELLOW": {
+   "n": 0,
+   "tmpl": "\\textrm{YELLOW}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "cO": {
+   "n": 0,
+   "tmpl": "\\mathcal{O}"
+  },
+  "cP": {
+   "n": 0,
+   "tmpl": "\\mathcal{P}"
+  },
+  "cQ": {
+   "n": 0,
+   "tmpl": "\\mathcal{Q}"
+  },
+  "cR": {
+   "n": 0,
+   "tmpl": "\\mathcal{R}"
+  },
+  "cS": {
+   "n": 0,
+   "tmpl": "\\mathcal{S}"
+  },
+  "cU": {
+   "n": 0,
+   "tmpl": "\\mathcal{U}"
+  },
+  "cX": {
+   "n": 0,
+   "tmpl": "\\mathcal{X}"
+  },
+  "lfrac": {
+   "n": 2,
+   "tmpl": "#1/#2"
+  },
+  "rB": {
+   "n": 0,
+   "tmpl": "\\mathrm{B}"
+  },
+  "rM": {
+   "n": 0,
+   "tmpl": "\\textrm{M}"
+  },
+  "rR": {
+   "n": 0,
+   "tmpl": "\\mathrm{R}"
+  },
+  "rY": {
+   "n": 0,
+   "tmpl": "\\mathrm{Y}"
+  },
+  "relT": {
+   "n": 0,
+   "tmpl": "\\mathrel{\\mathrm{T}}"
+  },
+  "uf": {
+   "n": 0,
+   "tmpl": "\\mathit{u}"
+  }
+ },
+ "rationality-normative-utility": {
+  "amp": {
+   "n": 0,
+   "tmpl": "{\\, \\& \\,}"
+  },
+  "dry": {
+   "n": 0,
+   "tmpl": "{\\textit{dry}}"
+  },
+  "encumbered": {
+   "n": 0,
+   "tmpl": "{\\textit{encumbered}}"
+  },
+  "free": {
+   "n": 0,
+   "tmpl": "{\\textit{free}}"
+  },
+  "leave": {
+   "n": 0,
+   "tmpl": "{\\textit{leave}}"
+  },
+  "take": {
+   "n": 0,
+   "tmpl": "{\\textit{take}}"
+  },
+  "wet": {
+   "n": 0,
+   "tmpl": "{\\textit{wet}}"
+  }
+ },
+ "rationality-structural": {
+  "rBO": {
+   "n": 0,
+   "tmpl": "\\text{BO}"
+  },
+  "rI": {
+   "n": 0,
+   "tmpl": "\\text{I}"
+  },
+  "rR": {
+   "n": 0,
+   "tmpl": "\\text{R}"
+  }
+ },
+ "reasoning-automated": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "der": {
+   "n": 0,
+   "tmpl": "\\textit{der}"
+  },
+  "ess": {
+   "n": 0,
+   "tmpl": "\\mathrel{\\textit{ess}}"
+  }
+ },
+ "reasoning-defeasible": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "dproves": {
+   "n": 0,
+   "tmpl": "\\mathbin{{\\rvert}\\!{\\sim}}"
+  },
+  "notdproves": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\mathrel{\\rlap{\\hskip .2em/}}\\rvert\\!{\\sim}}"
+  },
+  "notrightarrow": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\mathrel{\\rlap{\\hskip .2em/}}\\rightarrow}"
+  }
+ },
+ "recursive-functions": {
+  "HP": {
+   "n": 0,
+   "tmpl": "\\textit{HP}"
+  },
+  "TOT": {
+   "n": 0,
+   "tmpl": "\\textit{TOT}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "const": {
+   "n": 0,
+   "tmpl": "\\textit{const}"
+  },
+  "darrow": {
+   "n": 0,
+   "tmpl": "{\\downarrow}"
+  },
+  "divides": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\mid}"
+  },
+  "dotminus": {
+   "n": 0,
+   "tmpl": " \\mathbin{\\scriptstyle\\dot{\\smash{\\raise -.1ex \\textstyle-}}}"
+  },
+  "fact": {
+   "n": 0,
+   "tmpl": "\\textit{fact}"
+  },
+  "fib": {
+   "n": 0,
+   "tmpl": "\\textit{fib}"
+  },
+  "nextPrime": {
+   "n": 0,
+   "tmpl": "\\textit{nextPrime}"
+  },
+  "notdivides": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\not\\mid}"
+  },
+  "sc": {
+   "n": 1,
+   "tmpl": "\\style{font-variant-caps: small-caps}{\\text{#1}}"
+  },
+  "uarrow": {
+   "n": 0,
+   "tmpl": "{\\uparrow}"
+  },
+  "udots": {
+   "n": 0,
+   "tmpl": "\\unicode{x22F0}"
+  }
+ },
+ "relations": {
+  "Rel": {
+   "n": 0,
+   "tmpl": "\\mathbin{R}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "fR": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\mathfrak{R}}"
+  }
+ },
+ "reliabilism": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "reverse-mathematics": {
+  "ACA": {
+   "n": 0,
+   "tmpl": "\\mathsf{ACA}"
+  },
+  "ARITH": {
+   "n": 0,
+   "tmpl": "\\textrm{ARITH}"
+  },
+  "ATR": {
+   "n": 0,
+   "tmpl": "\\mathsf{ATR}"
+  },
+  "CA": {
+   "n": 0,
+   "tmpl": "\\mathsf{CA}"
+  },
+  "HYP": {
+   "n": 0,
+   "tmpl": "\\textrm{HYP}"
+  },
+  "IVT": {
+   "n": 0,
+   "tmpl": "\\textrm{IVT}"
+  },
+  "LUB": {
+   "n": 0,
+   "tmpl": "\\textrm{LUB}"
+  },
+  "PA": {
+   "n": 0,
+   "tmpl": "\\mathrm{PA}"
+  },
+  "PRA": {
+   "n": 0,
+   "tmpl": "\\textrm{PRA}"
+  },
+  "REC": {
+   "n": 0,
+   "tmpl": "\\textrm{REC}"
+  },
+  "RT": {
+   "n": 0,
+   "tmpl": "\\textrm{RT}"
+  },
+  "Seq": {
+   "n": 0,
+   "tmpl": "\\textrm{Seq}"
+  },
+  "WKL": {
+   "n": 0,
+   "tmpl": "\\mathsf{WKL}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bbN": {
+   "n": 0,
+   "tmpl": "\\mathbb{N}"
+  },
+  "bbQ": {
+   "n": 0,
+   "tmpl": "\\mathbb{Q}"
+  },
+  "bbR": {
+   "n": 0,
+   "tmpl": "\\mathbb{R}"
+  },
+  "bbZ": {
+   "n": 0,
+   "tmpl": "\\mathbb{Z}"
+  },
+  "calA": {
+   "n": 0,
+   "tmpl": "\\mathcal{A}"
+  },
+  "calL": {
+   "n": 0,
+   "tmpl": "\\mathcal{L}"
+  },
+  "calM": {
+   "n": 0,
+   "tmpl": "\\mathcal{M}"
+  },
+  "calR": {
+   "n": 0,
+   "tmpl": "\\mathcal{R}"
+  },
+  "calS": {
+   "n": 0,
+   "tmpl": "\\mathcal{S}"
+  },
+  "concat": {
+   "n": 0,
+   "tmpl": "{\\overparen{}}"
+  },
+  "lh": {
+   "n": 1,
+   "tmpl": "\\left| #1\\right|"
+  },
+  "powset": {
+   "n": 1,
+   "tmpl": "\\mathcal{P}(#1)"
+  },
+  "restr": {
+   "n": 1,
+   "tmpl": "\\restriction_{#1}"
+  },
+  "rmI": {
+   "n": 0,
+   "tmpl": "\\textrm{I}"
+  },
+  "rmRCA": {
+   "n": 0,
+   "tmpl": "\\textrm{RCA}"
+  },
+  "set": {
+   "n": 1,
+   "tmpl": "\\{ #1\\}"
+  },
+  "sfIND": {
+   "n": 0,
+   "tmpl": "\\mathsf{IND}"
+  },
+  "sfInd": {
+   "n": 0,
+   "tmpl": "\\mathsf{Ind}"
+  },
+  "sfRCA": {
+   "n": 0,
+   "tmpl": "\\mathsf{RCA}"
+  },
+  "sfZ": {
+   "n": 0,
+   "tmpl": "\\mathsf{Z}"
+  },
+  "str": {
+   "n": 1,
+   "tmpl": "\\langle #1\\rangle"
+  },
+  "wck": {
+   "n": 0,
+   "tmpl": "\\omega_{1}^{\\textrm{CK}}"
+  }
+ },
+ "rule-following": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "ques": {
+   "n": 0,
+   "tmpl": "\\mathord{?}"
+  }
+ },
+ "russell": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "russell-paradox": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "ruth-barcan-marcus": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "df": {
+   "n": 0,
+   "tmpl": "\\textit{df}"
+  },
+  "llbracket": {
+   "n": 0,
+   "tmpl": "[\\!["
+  },
+  "mID": {
+   "n": 0,
+   "tmpl": "\\mathbin{I_m}"
+  },
+  "modalB": {
+   "n": 0,
+   "tmpl": "\\mathord{\\square}"
+  },
+  "modalD": {
+   "n": 0,
+   "tmpl": "\\mathord{\\Diamond}"
+  },
+  "necessityN": {
+   "n": 0,
+   "tmpl": "\\mathord{\\mathrm{N}}"
+  },
+  "notionI": {
+   "n": 0,
+   "tmpl": "\\mathbin{I}"
+  },
+  "nsim": {
+   "n": 0,
+   "tmpl": "\\mathord{\\sim}"
+  },
+  "rrbracket": {
+   "n": 0,
+   "tmpl": "]\\!]"
+  },
+  "uID": {
+   "n": 0,
+   "tmpl": "\\mathbin{I}"
+  }
+ },
+ "scientific-explanation-20th": {
+  "Pr": {
+   "n": 0,
+   "tmpl": "\\textsf{Pr}"
+  }
+ },
+ "scientific-progress": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bfrac": {
+   "n": 2,
+   "tmpl": "{^{#1}\\unicode{x2044}_{#2}}"
+  },
+  "rmms": {
+   "n": 0,
+   "tmpl": "\\textrm{ms}"
+  },
+  "rmsum": {
+   "n": 0,
+   "tmpl": "\\textrm{sum}"
+  }
+ },
+ "scientific-reduction": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "scientific-representation": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bfrac": {
+   "n": 2,
+   "tmpl": "{^{#1}\\unicode{x2044}_{#2}}"
+  },
+  "ket": {
+   "n": 1,
+   "tmpl": "{\\lvert #1 \\rangle}"
+  }
+ },
+ "scientific-reproducibility": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "nneg": {
+   "n": 0,
+   "tmpl": "\\mathord{\\sim}"
+  }
+ },
+ "scientific-unity": {
+  "P": {
+   "n": 0,
+   "tmpl": "\\mathrm{P}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "self-reference": {
+  "ext": {
+   "n": 0,
+   "tmpl": "\\text{ext}"
+  },
+  "het": {
+   "n": 0,
+   "tmpl": "\\text{het}"
+  },
+  "inumeral": {
+   "n": 0,
+   "tmpl": "i\\unicode{x332}\\!\\!"
+  }
+ },
+ "settheory-alternative": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "sorites-paradox": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "apos": {
+   "n": 0,
+   "tmpl": "{\\text{’}}"
+  }
+ },
+ "spacetime-supertasks": {
+  "ket": {
+   "n": 1,
+   "tmpl": "{\\lvert #1 \\rangle}"
+  }
+ },
+ "spinoza-modal": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "statphys-Boltzmann": {
+  "dbar": {
+   "n": 0,
+   "tmpl": "\\unicode{x111}"
+  }
+ },
+ "structure-scientific-theories": {
+  "bP": {
+   "n": 0,
+   "tmpl": "{\\bf P}"
+  },
+  "bT": {
+   "n": 0,
+   "tmpl": "{\\bf T}"
+  },
+  "bU": {
+   "n": 0,
+   "tmpl": "{\\bf U}"
+  },
+  "bff": {
+   "n": 0,
+   "tmpl": "{\\bf f}"
+  },
+  "bgenet": {
+   "n": 0,
+   "tmpl": "{\\bf genet}"
+  },
+  "bm": {
+   "n": 0,
+   "tmpl": "{\\bf m}"
+  }
+ },
+ "sylvan-routley": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "twiddle": {
+   "n": 0,
+   "tmpl": "\\mathop{\\sim}"
+  }
+ },
+ "teleological-arguments": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "tense-aspect": {
+  "Diamond": {
+   "n": 0,
+   "tmpl": "\\unicode{x2B26}"
+  },
+  "bF": {
+   "n": 0,
+   "tmpl": "\\mathbf{F}"
+  },
+  "bG": {
+   "n": 0,
+   "tmpl": "\\mathbf{G}"
+  },
+  "bH": {
+   "n": 0,
+   "tmpl": "\\mathbf{H}"
+  },
+  "bP": {
+   "n": 0,
+   "tmpl": "\\mathbf{P}"
+  },
+  "sM": {
+   "n": 0,
+   "tmpl": "\\mathscr{M}"
+  }
+ },
+ "theoretical-terms-science": {
+  "Diamond": {
+   "n": 0,
+   "tmpl": "\\unicode{x2B26}"
+  },
+  "EXT": {
+   "n": 0,
+   "tmpl": "\\mathord{\\textit{EXT}}"
+  },
+  "MOD": {
+   "n": 0,
+   "tmpl": "\\mathord{\\textit{MOD}}"
+  },
+  "TC": {
+   "n": 0,
+   "tmpl": "\\mathord{\\textit{TC}}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "bfrac": {
+   "n": 2,
+   "tmpl": "{^{#1}\\unicode{x2044}_{#2}}"
+  },
+  "dproves": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\rvert\\!{\\sim}}"
+  },
+  "frasl": {
+   "n": 0,
+   "tmpl": "\\unicode{x2044}"
+  },
+  "llbracket": {
+   "n": 0,
+   "tmpl": "[\\!["
+  },
+  "notdproves": {
+   "n": 0,
+   "tmpl": "\\mathop{\\mathrel{\\rlap{\\hskip .2em/}}\\rvert\\!{\\sim}}"
+  },
+  "rrbracket": {
+   "n": 0,
+   "tmpl": "]\\!]"
+  }
+ },
+ "time-thermo": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "time-travel-phys": {
+  "sqt": {
+   "n": 0,
+   "tmpl": "{\\frac{1}{\\sqrt{2}}}"
+  },
+  "vc": {
+   "n": 1,
+   "tmpl": "{\\lvert{#1}\\rangle}"
+  }
+ },
+ "transmission-justification-warrant": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "notQ": {
+   "n": 0,
+   "tmpl": "\\textrm{Not-Q}"
+  },
+  "rE": {
+   "n": 0,
+   "tmpl": "\\mathrm{E}"
+  },
+  "rP": {
+   "n": 0,
+   "tmpl": "\\mathrm{P}"
+  },
+  "rQ": {
+   "n": 0,
+   "tmpl": "\\mathrm{Q}"
+  },
+  "rR": {
+   "n": 0,
+   "tmpl": "\\mathrm{R}"
+  }
+ },
+ "truth-deflationary": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "ldquo": {
+   "n": 0,
+   "tmpl": "{\\text{“}}"
+  },
+  "rdquo": {
+   "n": 0,
+   "tmpl": "{\\text{”}}"
+  }
+ },
+ "truth-identity": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "truth-pluralist": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "truth-revision": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "lsquo": {
+   "n": 0,
+   "tmpl": "{\\text{‘}}"
+  },
+  "rsquo": {
+   "n": 0,
+   "tmpl": "{\\text{’}}"
+  }
+ },
+ "truth-values": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "dd": {
+   "n": 0,
+   "tmpl": "\\textrm{-}"
+  },
+  "minus": {
+   "n": 0,
+   "tmpl": "\\mathord{-}"
+  },
+  "textsc": {
+   "n": 1,
+   "tmpl": "{\\scriptsize\\textrm{#1}}"
+  }
+ },
+ "truthlikeness": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ },
+ "turing-machine": {
+  "opL": {
+   "n": 0,
+   "tmpl": "\\mathbin{L}"
+  },
+  "opR": {
+   "n": 0,
+   "tmpl": "\\mathbin{R}"
+  }
+ },
+ "two-dimensional-semantics": {
+  "BO": {
+   "n": 0,
+   "tmpl": "\\mathrm{BO}"
+  },
+  "Diamond": {
+   "n": 0,
+   "tmpl": "\\unicode{x2B26}"
+  },
+  "HC": {
+   "n": 0,
+   "tmpl": "\\mathrm{HC}"
+  },
+  "JM": {
+   "n": 0,
+   "tmpl": "\\mathrm{JM}"
+  },
+  "PQTI": {
+   "n": 0,
+   "tmpl": "\\text{PQTI}"
+  },
+  "Red": {
+   "n": 0,
+   "tmpl": "\\text{Red}"
+  },
+  "Shiny": {
+   "n": 0,
+   "tmpl": "\\text{Shiny}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "boo": {
+   "n": 0,
+   "tmpl": "\\asdf"
+  },
+  "cr": {
+   "n": 0,
+   "tmpl": "\\text{cr}"
+  }
+ },
+ "type-theory": {
+  "Pow": {
+   "n": 0,
+   "tmpl": "\\text{Pow}"
+  },
+  "imply": {
+   "n": 0,
+   "tmpl": "\\text{imply}"
+  }
+ },
+ "type-theory-church": {
+  "atoi": {
+   "n": 0,
+   "tmpl": "{\\raise.1em{\\class{atoir}{\\unicode[Times]{x3b9}}}}"
+  },
+  "bA": {
+   "n": 0,
+   "tmpl": "{\\mathbf{A}}"
+  },
+  "bB": {
+   "n": 0,
+   "tmpl": "{\\mathbf{B}}"
+  },
+  "bC": {
+   "n": 0,
+   "tmpl": "{\\mathbf{C}}"
+  },
+  "bD": {
+   "n": 0,
+   "tmpl": "{\\mathbf{D}}"
+  },
+  "bE": {
+   "n": 0,
+   "tmpl": "{\\mathbf{E}}"
+  },
+  "bF": {
+   "n": 0,
+   "tmpl": "{\\mathbf{F}}"
+  },
+  "bP": {
+   "n": 0,
+   "tmpl": "{\\mathbf{P}}"
+  },
+  "bc": {
+   "n": 0,
+   "tmpl": "{\\mathbf{c}}"
+  },
+  "bu": {
+   "n": 0,
+   "tmpl": "{\\mathbf{u}}"
+  },
+  "bv": {
+   "n": 0,
+   "tmpl": "{\\mathbf{v}}"
+  },
+  "bx": {
+   "n": 0,
+   "tmpl": "{\\mathbf{x}}"
+  },
+  "by": {
+   "n": 0,
+   "tmpl": "{\\mathbf{y}}"
+  },
+  "bz": {
+   "n": 0,
+   "tmpl": "{\\mathbf{z}}"
+  },
+  "cD": {
+   "n": 0,
+   "tmpl": "{\\mathcal{D}}"
+  },
+  "cH": {
+   "n": 0,
+   "tmpl": "{\\mathcal{H}}"
+  },
+  "cM": {
+   "n": 0,
+   "tmpl": "{\\mathcal{M}}"
+  },
+  "cQ": {
+   "n": 0,
+   "tmpl": "{\\mathcal{Q}}"
+  },
+  "cS": {
+   "n": 0,
+   "tmpl": "{\\mathcal{S}}"
+  },
+  "cT": {
+   "n": 0,
+   "tmpl": "{\\mathcal{T}}"
+  },
+  "cV": {
+   "n": 0,
+   "tmpl": "{\\mathcal{V}}"
+  },
+  "const": {
+   "n": 1,
+   "tmpl": "{\\textsf{#1}}"
+  },
+  "conv": {
+   "n": 0,
+   "tmpl": "{\\mathbin{\\textrm{ conv }}}"
+  },
+  "frI": {
+   "n": 0,
+   "tmpl": "{\\mathfrak{I}}"
+  },
+  "nsim": {
+   "n": 0,
+   "tmpl": "{{\\sim}}"
+  },
+  "rE": {
+   "n": 0,
+   "tmpl": "{\\text{E}}"
+  },
+  "rQ": {
+   "n": 0,
+   "tmpl": "{\\text{Q}}"
+  },
+  "sfF": {
+   "n": 0,
+   "tmpl": "{\\mathsf{F}}"
+  },
+  "sfQ": {
+   "n": 0,
+   "tmpl": "{\\mathsf{Q}}"
+  },
+  "sfT": {
+   "n": 0,
+   "tmpl": "{\\mathsf{T}}"
+  }
+ },
+ "type-theory-intuitionistic": {
+  "CZF": {
+   "n": 0,
+   "tmpl": "\\mathbf{CZF}"
+  },
+  "E": {
+   "n": 0,
+   "tmpl": "\\mathrm{E}"
+  },
+  "GT": {
+   "n": 0,
+   "tmpl": "\\mathrm{GT}"
+  },
+  "HA": {
+   "n": 0,
+   "tmpl": "\\mathbf{HA}"
+  },
+  "I": {
+   "n": 0,
+   "tmpl": "\\mathrm{I}"
+  },
+  "J": {
+   "n": 0,
+   "tmpl": "\\mathrm{J}"
+  },
+  "K": {
+   "n": 0,
+   "tmpl": "\\mathrm{K}"
+  },
+  "List": {
+   "n": 0,
+   "tmpl": "\\textrm{List}"
+  },
+  "N": {
+   "n": 0,
+   "tmpl": "\\mathrm{N}"
+  },
+  "R": {
+   "n": 0,
+   "tmpl": "\\mathrm{R}"
+  },
+  "Set": {
+   "n": 0,
+   "tmpl": "\\textrm{Set}"
+  },
+  "T": {
+   "n": 0,
+   "tmpl": "\\mathrm{T}"
+  },
+  "U": {
+   "n": 0,
+   "tmpl": "\\mathrm{U}"
+  },
+  "V": {
+   "n": 0,
+   "tmpl": "\\mathrm{V}"
+  },
+  "W": {
+   "n": 0,
+   "tmpl": "\\mathrm{W}"
+  },
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "cons": {
+   "n": 0,
+   "tmpl": "\\textrm{cons}"
+  },
+  "divi": {
+   "n": 0,
+   "tmpl": "\\textrm{div}"
+  },
+  "nil": {
+   "n": 0,
+   "tmpl": "\\textrm{nil}"
+  },
+  "r": {
+   "n": 0,
+   "tmpl": "\\mathrm{r}"
+  },
+  "s": {
+   "n": 0,
+   "tmpl": "\\mathrm{s}"
+  }
+ },
+ "vagueness": {
+  "rsquo": {
+   "n": 0,
+   "tmpl": "{\\text{’}}"
+  }
+ },
+ "voting-methods": {
+  "BS": {
+   "n": 0,
+   "tmpl": "\\textit{BS}"
+  },
+  "Borda": {
+   "n": 0,
+   "tmpl": "\\textit{Borda}"
+  },
+  "bA": {
+   "n": 0,
+   "tmpl": "\\mathbf{A}"
+  },
+  "bB": {
+   "n": 0,
+   "tmpl": "\\mathbf{B}"
+  },
+  "bC": {
+   "n": 0,
+   "tmpl": "\\mathbf{C}"
+  },
+  "bD": {
+   "n": 0,
+   "tmpl": "\\mathbf{D}"
+  },
+  "bP": {
+   "n": 0,
+   "tmpl": "\\mathbf{P}"
+  },
+  "bR": {
+   "n": 0,
+   "tmpl": "\\mathbf{R}"
+  },
+  "bX": {
+   "n": 0,
+   "tmpl": "\\mathbf{X}"
+  },
+  "bb": {
+   "n": 0,
+   "tmpl": "\\mathbf{b}"
+  },
+  "gA": {
+   "n": 0,
+   "tmpl": "{\\color{lightgray} A}"
+  },
+  "gB": {
+   "n": 0,
+   "tmpl": "{\\color{lightgray} B}"
+  },
+  "gC": {
+   "n": 0,
+   "tmpl": "{\\color{lightgray} C}"
+  },
+  "gD": {
+   "n": 0,
+   "tmpl": "{\\color{lightgray} D}"
+  },
+  "s": {
+   "n": 0,
+   "tmpl": "\\hspace{.6em}"
+  }
+ },
+ "wesley-salmon": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  },
+  "msim": {
+   "n": 0,
+   "tmpl": "\\mathord{\\sim}"
+  }
+ },
+ "weyl": {
+  "bfrac": {
+   "n": 2,
+   "tmpl": "{^{#1}\\unicode{x2044}_{#2}}"
+  },
+  "diag": {
+   "n": 0,
+   "tmpl": "{\\mathrm{diag}}"
+  }
+ },
+ "wittgenstein-mathematics": {
+  "amp": {
+   "n": 0,
+   "tmpl": "\\mathbin{\\&}"
+  }
+ }
+}

@@ -1,0 +1,776 @@
+{"f": "a/abstract-objects.md", "i": 50, "code": "D3", "x": "​x"}
+{"f": "a/abstract-objects.md", "i": 51, "code": "D3", "x": "​x"}
+{"f": "a/abstract-objects.md", "i": 52, "code": "D3", "x": "​y"}
+{"f": "a/abstract-objects.md", "i": 53, "code": "D3", "x": "​x"}
+{"f": "a/abstract-objects.md", "i": 54, "code": "D3", "x": "​y"}
+{"f": "a/abstract-objects.md", "i": 55, "code": "D3", "x": "​x"}
+{"f": "a/abstract-objects.md", "i": 56, "code": "D3", "x": "​y"}
+{"f": "a/abstract-objects.md", "i": 57, "code": "D3", "x": "​x"}
+{"f": "a/abstract-objects.md", "i": 58, "code": "D3", "x": "​y"}
+{"f": "a/abstract-objects.md", "i": 139, "code": "D3", "x": "​x_1,\\ldots ,x_n"}
+{"f": "a/abstract-objects.md", "i": 142, "code": "D3", "x": "​x"}
+{"f": "a/abstract-objects.md", "i": 218, "code": "D3", "x": "​a"}
+{"f": "a/abstract-objects.md", "i": 219, "code": "D3", "x": "​b"}
+{"f": "a/abstract-objects.md", "code": "D7-missing", "x": "f(a)\\! =\\! f(b) \\text{ if and only if } Rab", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-missing", "x": "a", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-missing", "x": "b", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-missing", "x": "x", "n": 3}
+{"f": "a/abstract-objects.md", "code": "D7-missing", "x": "y", "n": 4}
+{"f": "a/abstract-objects.md", "code": "D7-missing", "x": "(O!)", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-missing", "x": "(A!)", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-missing", "x": "(x_1,\\ldots ,x_n", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-missing", "x": "(x", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-missing", "x": "F^1).", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-missing", "x": "(O!x \\to \\Box \\neg \\exists FxF).", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-missing", "x": "(xF \\to \\Box xF).", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-missing", "x": "X\\text{s}", "n": 2}
+{"f": "a/abstract-objects.md", "code": "D7-extra", "x": "\\{\\textrm{Joe Biden}\\}", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-extra", "x": "f(a)\\! =\\! f(b) \\text{ 当且仅当 } Rab", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-extra", "x": "F", "n": 5}
+{"f": "a/abstract-objects.md", "code": "D7-extra", "x": "​x", "n": 6}
+{"f": "a/abstract-objects.md", "code": "D7-extra", "x": "​y", "n": 4}
+{"f": "a/abstract-objects.md", "code": "D7-extra", "x": "X", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-extra", "x": "Y", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-extra", "x": "A", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-extra", "x": "B", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-extra", "x": "O!", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-extra", "x": "A!", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-extra", "x": "​x_1,\\ldots ,x_n", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-extra", "x": "F^1", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-extra", "x": "O!x \\to \\Box \\neg \\exists FxF", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-extra", "x": "xF \\to \\Box xF", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-extra", "x": "​a", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-extra", "x": "​b", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-extra", "x": "n\\geq 2", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-extra", "x": "n\\! =\\! 0", "n": 1}
+{"f": "a/abstract-objects.md", "code": "D7-extra", "x": "\\{\\textrm{Socrates}\\}", "n": 1}
+{"f": "a/action.md", "code": "D7-extra", "x": "\\exists x( \\textrm{Buttering}(x, \\textrm{Donald}, \\textrm{toast}, \\textrm{bathroom}))", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "i": 4, "code": "D2", "x": "。但卡斯塔涅达主张：给定 (U)，执行"}
+{"f": "a/actualism-possibilism-ethics.md", "i": 60, "code": "D2", "x": "t'**φ **会** 发生的事，好于如果 *S* 在"}
+{"f": "a/actualism-possibilism-ethics.md", "i": 91, "code": "D2", "x": "t'**φ **会** 发生的事，好于如果 *S* 在"}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "\\langle A \\lamp B\\rangle", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "\\langle A\\rangle", "n": 8}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "\\langle B\\rangle", "n": 2}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "t_1", "n": 2}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "\\langle C\\rangle", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "\\langle{\\sim}B\\rangle", "n": 6}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "\\phi", "n": 19}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "\\langle a\\rangle", "n": 9}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "\\langle b\\rangle", "n": 5}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "\\langle{\\sim} a\\rangle", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "\\langle{\\sim}b\\rangle", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "\\langle Z\\rangle", "n": 3}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "\\langle Y\\rangle", "n": 3}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "t'", "n": 4}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "\\langle X\\rangle", "n": 10}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "\\langle a\\textrm{-s}\\rangle", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "\\langle X\\textrm{-ing}\\rangle", "n": 2}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "t_1 +N", "n": 3}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "{\\sim}\\phi", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "\\langle{\\sim}a\\rangle", "n": 7}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "\\langle a \\lamp b\\rangle", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "\\langle{\\sim}a \\lamp{\\sim}b\\rangle", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "\\langle A \\rangle", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "\\langle{\\sim}A\\rangle", "n": 2}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "S", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "t_1)", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "X.", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "t_j (t_i \\lt t_j)", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "\\Phi", "n": 4}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "t_5)", "n": 3}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "n (n \\ge 1)", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "\\phi_{x,t} = 1", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "\\phi_{x,t} = 2", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "_n", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "m \\lt n)", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "_1", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-missing", "x": "_2", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-extra", "x": "。但卡斯塔涅达主张：给定 (U)，执行", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-extra", "x": "\\langle A\\ran**e", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-extra", "x": "t'**φ **会** 发生的事，好于如果 *S* 在", "n": 2}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-extra", "x": "t_1+N", "n": 3}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-extra", "x": "t_j", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-extra", "x": "t_i \\lt t_j", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-extra", "x": "t_5", "n": 3}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-extra", "x": "\\phi_{x,t}", "n": 2}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-extra", "x": "n \\ge 1", "n": 1}
+{"f": "a/actualism-possibilism-ethics.md", "code": "D7-extra", "x": "m \\lt n", "n": 1}
+{"f": "a/al-khunaji.md", "code": "D7-missing", "x": "(A \\to B) \\to \\neg (A \\to \\neg B)", "n": 1}
+{"f": "a/al-khunaji.md", "code": "D7-missing", "x": "(A \\to \\neg B) \\to \\neg (A \\to B)", "n": 1}
+{"f": "a/arabic-islamic-phil-math.md", "code": "D7-missing", "x": "i≥1,", "n": 1}
+{"f": "a/arabic-islamic-phil-math.md", "code": "D7-missing", "x": "B_{i}C_{i}.", "n": 1}
+{"f": "a/arabic-islamic-phil-math.md", "code": "D7-extra", "x": "i≥1", "n": 1}
+{"f": "a/arabic-islamic-phil-math.md", "code": "D7-extra", "x": "BC", "n": 1}
+{"f": "a/arabic-islamic-phil-math.md", "code": "D7-extra", "x": "B_{i}C_{i}", "n": 1}
+{"f": "a/axiom-choice.md", "code": "D7-missing", "x": "\\{a_{1}, \\ldots, a_{n}, b_{1},\\ldots,b_{n}\\} with each pair \\{a_{i}, b_{i}\\} \\in P", "n": 1}
+{"f": "a/axiom-choice.md", "code": "D7-missing", "x": "R-", "n": 1}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "f", "n": 2}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "A", "n": 3}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "B", "n": 2}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "R", "n": 2}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "S", "n": 10}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "X", "n": 2}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "\\{a_{1}, \\ldots, a_{n}, b_{1},\\ldots,b_{n}\\}", "n": 1}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "a", "n": 1}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "C", "n": 2}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "X \\subseteq S", "n": 1}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "S\\cap X", "n": 4}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "0 \\ne 1", "n": 1}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "A \\rightarrow B", "n": 1}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "b \\in B", "n": 1}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "a \\in A", "n": 1}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "f(a) = b", "n": 1}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "g: B \\rightarrow A", "n": 1}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "x\\in B", "n": 1}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "f(g(x) = x", "n": 1}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "S_{1}", "n": 1}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "(x)_{x\\in X}", "n": 1}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "X\\in \\sI", "n": 1}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "b", "n": 1}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "S' = [(S - X) \\cup \\{a\\}]", "n": 1}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "S' \\cap X = \\{a\\}", "n": 1}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "S'", "n": 1}
+{"f": "a/axiom-choice.md", "code": "D7-extra", "x": "\\sI - \\{X\\}", "n": 1}
+{"f": "b/belief-merging.md", "code": "D7-missing", "x": "(A\\subseteq L", "n": 1}
+{"f": "b/belief-merging.md", "code": "D7-missing", "x": "(\\neg \\neg \\varphi", "n": 1}
+{"f": "b/belief-merging.md", "code": "D7-missing", "x": "x_1,\\ldots, x_{n}, x, y \\in R^{+}, D", "n": 1}
+{"f": "b/belief-merging.md", "code": "D7-extra", "x": "A\\subseteq L", "n": 1}
+{"f": "b/belief-merging.md", "code": "D7-extra", "x": "\\neg \\neg \\varphi", "n": 1}
+{"f": "b/belief-merging.md", "code": "D7-extra", "x": "\\Delta", "n": 1}
+{"f": "b/belief-merging.md", "code": "D7-extra", "x": "x_1,\\ldots, x_{n}, x, y \\in R^{+}", "n": 1}
+{"f": "b/belief-merging.md", "code": "D7-extra", "x": "D_{\\Sigma}", "n": 1}
+{"f": "b/belief-merging.md", "code": "D7-extra", "x": "(1,0,0)", "n": 1}
+{"f": "b/belief-merging.md", "code": "D7-extra", "x": "(\\forall \\omega, \\omega', \\omega'' \\in W", "n": 1}
+{"f": "b/belief-merging.md", "code": "D7-extra", "x": "d(\\omega, \\omega') \\le d(\\omega, \\omega'') + d(\\omega'', \\omega'))", "n": 1}
+{"f": "b/belief-merging.md", "code": "D7-extra", "x": "\\IC_{\\textit{It}}", "n": 1}
+{"f": "b/belief-merging.md", "code": "D7-extra", "x": "\\varphi \\vdash \\IC", "n": 1}
+{"f": "b/belief-merging.md", "code": "D7-extra", "x": "\\exists n \\Delta_{\\IC}^{n} (E,\\varphi) \\vdash\\varphi", "n": 1}
+{"f": "b/belief-merging.md", "code": "D7-extra", "x": "\\varphi * \\IC= \\Delta_{\\IC}(\\varphi)", "n": 1}
+{"f": "b/belief-merging.md", "code": "D7-extra", "x": "*", "n": 1}
+{"f": "b/bohr-correspondence.md", "code": "D7-missing", "x": "(\\tau = 1)", "n": 1}
+{"f": "b/bohr-correspondence.md", "code": "D7-missing", "x": "(\\tau = 3)", "n": 1}
+{"f": "b/bohr-correspondence.md", "code": "D7-missing", "x": "n)", "n": 1}
+{"f": "b/bohr-correspondence.md", "code": "D7-missing", "x": "\\rH_{\\alpha}", "n": 4}
+{"f": "b/bohr-correspondence.md", "code": "D7-missing", "x": "\\rH_{\\beta}", "n": 4}
+{"f": "b/bohr-correspondence.md", "code": "D7-extra", "x": "n", "n": 2}
+{"f": "b/bohr-correspondence.md", "code": "D7-extra", "x": "x(t)", "n": 1}
+{"f": "b/bohr-correspondence.md", "code": "D7-extra", "x": "\\omega", "n": 1}
+{"f": "b/bohr-correspondence.md", "code": "D7-extra", "x": "\\tau", "n": 1}
+{"f": "b/bohr-correspondence.md", "code": "D7-extra", "x": "\\tau = 1", "n": 1}
+{"f": "b/bohr-correspondence.md", "code": "D7-extra", "x": "\\tau = 3", "n": 1}
+{"f": "b/bohr-correspondence.md", "code": "D7-extra", "x": "H_{\\alpha}", "n": 4}
+{"f": "b/bohr-correspondence.md", "code": "D7-extra", "x": "H_{\\beta}", "n": 4}
+{"f": "b/bohr-correspondence.md", "code": "D7-extra", "x": "F(x)", "n": 1}
+{"f": "b/bohr-correspondence.md", "code": "D7-extra", "x": "\\tau \\omega", "n": 1}
+{"f": "b/bohr-correspondence.md", "code": "D7-extra", "x": "x(t,n)", "n": 1}
+{"f": "b/bohr-correspondence.md", "code": "D7-extra", "x": "x(t,n) = \\sum_{k=1}^{\\infty} C_k(n)\\cos(k\\omega(n)t)", "n": 1}
+{"f": "b/boolalg-math.md", "code": "D7-missing", "x": "+)", "n": 1}
+{"f": "b/boolalg-math.md", "code": "D7-missing", "x": "\\cdot)", "n": 1}
+{"f": "b/boolalg-math.md", "code": "D7-missing", "x": "-)", "n": 1}
+{"f": "b/boolalg-math.md", "code": "D7-extra", "x": "\\cdot", "n": 1}
+{"f": "b/boolalg-math.md", "code": "D7-extra", "x": "+", "n": 1}
+{"f": "b/boolalg-math.md", "code": "D7-extra", "x": "f", "n": 1}
+{"f": "b/boolalg-math.md", "code": "D7-extra", "x": "\\pi", "n": 1}
+{"f": "c/change.md", "code": "D7-missing", "x": "B", "n": 1}
+{"f": "c/change.md", "code": "D7-missing", "x": "(n", "n": 1}
+{"f": "c/change.md", "code": "D7-missing", "x": "is", "n": 1}
+{"f": "c/change.md", "code": "D7-missing", "x": "(a", "n": 1}
+{"f": "c/change.md", "code": "D7-missing", "x": "G))", "n": 2}
+{"f": "c/change.md", "code": "D7-extra", "x": "n", "n": 1}
+{"f": "c/change.md", "code": "D7-extra", "x": "a", "n": 2}
+{"f": "c/change.md", "code": "D7-extra", "x": "t", "n": 1}
+{"f": "c/change.md", "code": "D7-extra", "x": "(", "n": 1}
+{"f": "c/change.md", "code": "D7-extra", "x": ")", "n": 1}
+{"f": "c/change.md", "code": "D7-extra", "x": "G", "n": 2}
+{"f": "c/change.md", "code": "D7-extra", "x": "))", "n": 2}
+{"f": "c/change.md", "code": "D7-extra", "x": "p", "n": 1}
+{"f": "c/change.md", "code": "D7-extra", "x": "I", "n": 3}
+{"f": "c/change.md", "code": "D7-extra", "x": "b", "n": 1}
+{"f": "c/computability.md", "code": "D7-missing", "x": "(\\Sigma", "n": 1}
+{"f": "c/computability.md", "code": "D7-missing", "x": "\\sigma_{h}, \\delta", "n": 1}
+{"f": "c/computability.md", "code": "D7-missing", "x": "\\sigma , \\delta(q,\\sigma)", "n": 1}
+{"f": "c/computability.md", "code": "D7-missing", "x": "w, U", "n": 1}
+{"f": "c/computability.md", "code": "D7-missing", "x": "m: M(n) = m", "n": 1}
+{"f": "c/computability.md", "code": "D7-missing", "x": "(n)", "n": 1}
+{"f": "c/computability.md", "code": "D7-missing", "x": "0, \\zeta", "n": 1}
+{"f": "c/computability.md", "code": "D7-missing", "x": "1, \\eta(n) = n", "n": 1}
+{"f": "c/computability.md", "code": "D7-missing", "x": "1, \\sigma(n) = n +1", "n": 1}
+{"f": "c/computability.md", "code": "D7-missing", "x": "\\begin{align} h(0,x_{1},\\ldots ,x_{k}) &= f(x_{1},\\ldots ,x_{k}); \\text{ and,} \\\\ h(n+1,x_{1},\\ldots ,x_{k}) &= g(h(n,x_{1},\\ldots ,x_{k}), n,x_{1},\\ldots ,x_{k}). \\end{align}", "n": 1}
+{"f": "c/computability.md", "code": "D7-missing", "x": "E", "n": 3}
+{"f": "c/computability.md", "code": "D7-missing", "x": "H(2,2) = 2^{4} = 16, H(3,3) = 2^{256}", "n": 1}
+{"f": "c/computability.md", "code": "D7-missing", "x": "D", "n": 1}
+{"f": "c/computability.md", "code": "D7-missing", "x": "\\mu[f", "n": 1}
+{"f": "c/computability.md", "code": "D7-missing", "x": "j \\lt i, f(j,x_{1},\\ldots ,x_{k})", "n": 1}
+{"f": "c/computability.md", "code": "D7-missing", "x": "n, M(w)", "n": 1}
+{"f": "c/computability.md", "code": "D7-missing", "x": "(A \\le B)", "n": 1}
+{"f": "c/computability.md", "code": "D7-missing", "x": "\\tau", "n": 1}
+{"f": "c/computability.md", "code": "D7-missing", "x": "\\in B \\Leftrightarrow", "n": 1}
+{"f": "c/computability.md", "code": "D7-missing", "x": "\\in A", "n": 1}
+{"f": "c/computability.md", "code": "D7-missing", "x": "G", "n": 1}
+{"f": "c/computability.md", "code": "D7-missing", "x": "w \\in S", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "\\Sigma", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "\\sigma_{h}", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "\\delta", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "\\sigma", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "\\delta(q,\\sigma)", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "U", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "w", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "M", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "m", "n": 2}
+{"f": "c/computability.md", "code": "D7-extra", "x": "M(n) = m", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "M(n)", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "\\zeta", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "\\eta(n) = n", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "\\sigma(n) = n +1", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "k", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "\\begin{align} h(0,x_{1},\\ldots ,x_{k}) &= f(x_{1},\\ldots ,x_{k}); \\text{ 以及，} \\\\ h(n+1,x_{1},\\ldots ,x_{k}) &= g(h(n,x_{1},\\ldots ,x_{k}), n,x_{1},\\ldots ,x_{k}). \\end{align}", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "E(0,0)", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "E(10,10)", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "E(50,50)", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "H(2,2) = 2^{4} = 16", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "H(3,3) = 2^{256}", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "\\mu[f]", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "j \\lt i", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "f(j,x_{1},\\ldots ,x_{k})", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "M(w)", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "A \\le B", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "\\tau(w) \\in B \\Leftrightarrow w \\in A", "n": 1}
+{"f": "c/computability.md", "code": "D7-extra", "x": "w\\in S", "n": 1}
+{"f": "d/deductivism-mathematics.md", "code": "D7-missing", "x": "Ax)", "n": 1}
+{"f": "d/deductivism-mathematics.md", "code": "D7-missing", "x": "we", "n": 1}
+{"f": "d/deductivism-mathematics.md", "code": "D7-extra", "x": "x", "n": 3}
+{"f": "d/deductivism-mathematics.md", "code": "D7-extra", "x": "Ax", "n": 1}
+{"f": "d/deductivism-mathematics.md", "code": "D7-extra", "x": "\\phi(0), \\phi(1), \\phi(2),\\ldots", "n": 1}
+{"f": "d/deductivism-mathematics.md", "code": "D7-extra", "x": "n", "n": 1}
+{"f": "d/deductivism-mathematics.md", "code": "D7-extra", "x": "\\phi(n)", "n": 1}
+{"f": "d/diodorus-cronus.md", "code": "D7-missing", "x": "p)", "n": 1}
+{"f": "d/diodorus-cronus.md", "code": "D7-missing", "x": "t)n", "n": 1}
+{"f": "d/diodorus-cronus.md", "code": "D7-missing", "x": "tn)", "n": 1}
+{"f": "d/diodorus-cronus.md", "code": "D7-missing", "x": "t_{n+ 1/2}", "n": 4}
+{"f": "d/diodorus-cronus.md", "code": "D7-missing", "x": "(p", "n": 3}
+{"f": "d/diodorus-cronus.md", "code": "D7-missing", "x": "q)", "n": 2}
+{"f": "d/diodorus-cronus.md", "code": "D7-missing", "x": "-q)", "n": 1}
+{"f": "d/diodorus-cronus.md", "code": "D7-missing", "x": "M 2 115)", "n": 1}
+{"f": "d/diodorus-cronus.md", "code": "D7-missing", "x": "b, b", "n": 1}
+{"f": "d/diodorus-cronus.md", "code": "D7-missing", "x": "n= 9998", "n": 1}
+{"f": "d/diodorus-cronus.md", "code": "D7-missing", "x": "(a", "n": 2}
+{"f": "d/diodorus-cronus.md", "code": "D7-missing", "x": "y)", "n": 1}
+{"f": "d/diodorus-cronus.md", "code": "D7-missing", "x": "z)", "n": 1}
+{"f": "d/diodorus-cronus.md", "code": "D7-extra", "x": "p", "n": 4}
+{"f": "d/diodorus-cronus.md", "code": "D7-extra", "x": "a", "n": 2}
+{"f": "d/diodorus-cronus.md", "code": "D7-extra", "x": "t_n", "n": 2}
+{"f": "d/diodorus-cronus.md", "code": "D7-extra", "x": "t_{n+1/2}", "n": 4}
+{"f": "d/diodorus-cronus.md", "code": "D7-extra", "x": "q", "n": 3}
+{"f": "d/diodorus-cronus.md", "code": "D7-extra", "x": "M 2 115", "n": 1}
+{"f": "d/diodorus-cronus.md", "code": "D7-extra", "x": "b", "n": 1}
+{"f": "d/diodorus-cronus.md", "code": "D7-extra", "x": "n = 9998", "n": 1}
+{"f": "d/diodorus-cronus.md", "code": "D7-extra", "x": "y", "n": 1}
+{"f": "d/diodorus-cronus.md", "code": "D7-extra", "x": "z", "n": 1}
+{"f": "d/dynamic-semantics.md", "code": "D7-missing", "x": "P)", "n": 1}
+{"f": "d/dynamic-semantics.md", "code": "D7-missing", "x": "\\top)", "n": 1}
+{"f": "d/dynamic-semantics.md", "code": "D7-missing", "x": "w)", "n": 1}
+{"f": "d/dynamic-semantics.md", "code": "D7-missing", "x": "M)", "n": 1}
+{"f": "d/dynamic-semantics.md", "code": "D7-missing", "x": "i+1)", "n": 1}
+{"f": "d/dynamic-semantics.md", "code": "D7-extra", "x": "M", "n": 1}
+{"f": "d/dynamic-semantics.md", "code": "D7-extra", "x": "P", "n": 1}
+{"f": "d/dynamic-semantics.md", "code": "D7-extra", "x": "\\top", "n": 1}
+{"f": "d/dynamic-semantics.md", "code": "D7-extra", "x": "w", "n": 1}
+{"f": "d/dynamic-semantics.md", "code": "D7-extra", "x": "i+1", "n": 1}
+{"f": "e/epsilon-calculus.md", "code": "D7-missing", "x": "L, F(s_1, \\ldots, s_k)", "n": 1}
+{"f": "e/epsilon-calculus.md", "code": "D7-missing", "x": "L, R(s_1, \\ldots, s_k)", "n": 1}
+{"f": "e/epsilon-calculus.md", "code": "D7-missing", "x": "t.", "n": 1}
+{"f": "e/epsilon-calculus.md", "code": "D7-missing", "x": "\\bigvee_j B_j", "n": 1}
+{"f": "e/epsilon-calculus.md", "code": "D7-missing", "x": "j \\ne i)", "n": 1}
+{"f": "e/epsilon-calculus.md", "code": "D7-missing", "x": "C \\vee D)", "n": 1}
+{"f": "e/epsilon-calculus.md", "code": "D7-missing", "x": "A, A \\rightarrow A^H", "n": 1}
+{"f": "e/epsilon-calculus.md", "code": "D7-missing", "x": "\\begin{align} \\Gamma &\\text{ proves } A \\\\ \\Gamma &\\text{ proves } A^H \\\\ \\Gamma^S &\\text{ proves }A \\\\ \\Gamma^S &\\text{ proves } A^H \\end{align}", "n": 1}
+{"f": "e/epsilon-calculus.md", "code": "D7-missing", "x": "(\\iota", "n": 1}
+{"f": "e/epsilon-calculus.md", "code": "D7-missing", "x": "a^*", "n": 1}
+{"f": "e/epsilon-calculus.md", "code": "D7-missing", "x": "\\varepsilon_{a^*}y \\mathrm{Donkey} (y)", "n": 1}
+{"f": "e/epsilon-calculus.md", "code": "D7-extra", "x": "L", "n": 2}
+{"f": "e/epsilon-calculus.md", "code": "D7-extra", "x": "t", "n": 2}
+{"f": "e/epsilon-calculus.md", "code": "D7-extra", "x": "F(s_1, \\ldots, s_k)", "n": 1}
+{"f": "e/epsilon-calculus.md", "code": "D7-extra", "x": "R(s_1, \\ldots, s_k)", "n": 1}
+{"f": "e/epsilon-calculus.md", "code": "D7-extra", "x": "A", "n": 1}
+{"f": "e/epsilon-calculus.md", "code": "D7-extra", "x": "j \\ne i", "n": 1}
+{"f": "e/epsilon-calculus.md", "code": "D7-extra", "x": "C \\vee D", "n": 1}
+{"f": "e/epsilon-calculus.md", "code": "D7-extra", "x": "A \\rightarrow A^H", "n": 1}
+{"f": "e/epsilon-calculus.md", "code": "D7-extra", "x": "\\begin{align} \\Gamma &\\text{ 证明 } A \\\\ \\Gamma &\\text{ 证明 } A^H \\\\ \\Gamma^S &\\text{ 证明 }A \\\\ \\Gamma^S &\\text{ 证明 } A^H \\end{align}", "n": 1}
+{"f": "e/epsilon-calculus.md", "code": "D7-extra", "x": "\\iota", "n": 1}
+{"f": "e/epsilon-calculus.md", "code": "D7-extra", "x": "a^**", "n": 1}
+{"f": "e/epsilon-calculus.md", "code": "D7-extra", "x": "\\varepsilon_{a^**}y \\mathrm{Donkey} (y)", "n": 1}
+{"f": "f/fitness.md", "code": "D7-missing", "x": "> .5", "n": 2}
+{"f": "f/fitness.md", "code": "D7-extra", "x": ".5", "n": 2}
+{"f": "h/hilbert-program.md", "code": "D7-missing", "x": "P, P", "n": 2}
+{"f": "h/hilbert-program.md", "code": "D7-missing", "x": "\\PRA.", "n": 1}
+{"f": "h/hilbert-program.md", "code": "D7-missing", "x": "\\EA)", "n": 1}
+{"f": "h/hilbert-program.md", "code": "D7-missing", "x": "S \\vdash TI(\\alpha_T)\\rightarrow Con_T)", "n": 1}
+{"f": "h/hilbert-program.md", "code": "D7-missing", "x": "T)", "n": 1}
+{"f": "h/hilbert-program.md", "code": "D7-extra", "x": "P", "n": 4}
+{"f": "h/hilbert-program.md", "code": "D7-extra", "x": "\\PRA", "n": 1}
+{"f": "h/hilbert-program.md", "code": "D7-extra", "x": "\\EA", "n": 1}
+{"f": "h/hilbert-program.md", "code": "D7-extra", "x": "T", "n": 1}
+{"f": "h/hilbert-program.md", "code": "D7-extra", "x": "S \\vdash TI(\\alpha_T)\\rightarrow Con_T", "n": 1}
+{"f": "i/implicature-optimality-games.md", "code": "D7-missing", "x": "P(A\\cap B)/P(A))", "n": 1}
+{"f": "i/implicature-optimality-games.md", "code": "D7-missing", "x": "i. \\langle f',i\\rangle \\gt \\langle f,i\\rangle", "n": 1}
+{"f": "i/implicature-optimality-games.md", "code": "D7-missing", "x": "i_j, i_b", "n": 1}
+{"f": "i/implicature-optimality-games.md", "code": "D7-missing", "x": "r (U_s", "n": 1}
+{"f": "i/implicature-optimality-games.md", "code": "D7-missing", "x": "U_r)", "n": 1}
+{"f": "i/implicature-optimality-games.md", "code": "D7-extra", "x": "i", "n": 1}
+{"f": "i/implicature-optimality-games.md", "code": "D7-extra", "x": "P(A\\cap B)/P(A)", "n": 1}
+{"f": "i/implicature-optimality-games.md", "code": "D7-extra", "x": "\\langle f',i\\rangle \\gt \\langle f,i\\rangle", "n": 1}
+{"f": "i/implicature-optimality-games.md", "code": "D7-extra", "x": "i_j", "n": 1}
+{"f": "i/implicature-optimality-games.md", "code": "D7-extra", "x": "i_b", "n": 1}
+{"f": "i/implicature-optimality-games.md", "code": "D7-extra", "x": "r", "n": 1}
+{"f": "i/implicature-optimality-games.md", "code": "D7-extra", "x": "U_s", "n": 1}
+{"f": "i/implicature-optimality-games.md", "code": "D7-extra", "x": "U_r", "n": 1}
+{"f": "i/implicature-optimality-games.md", "code": "D7-extra", "x": "\\langle \\text{and, or} \\rangle", "n": 1}
+{"f": "i/implicature-optimality-games.md", "code": "D7-extra", "x": "\\langle \\text{all, most, some} \\rangle", "n": 1}
+{"f": "i/impossible-worlds.md", "code": "D6", "x": "unpaired $ count=329"}
+{"f": "i/impossible-worlds.md", "code": "D7-missing", "x": "A \\vDash A)", "n": 3}
+{"f": "i/impossible-worlds.md", "code": "D7-missing", "x": "^+)", "n": 1}
+{"f": "i/impossible-worlds.md", "code": "D7-missing", "x": "B.", "n": 1}
+{"f": "i/impossible-worlds.md", "code": "D7-missing", "x": "e)", "n": 1}
+{"f": "i/impossible-worlds.md", "code": "D7-missing", "x": "\\begin{align} v_w (\\Box A) &= 0 \\\\ v_w (\\Diamond A) &= 1 \\end{align}", "n": 1}
+{"f": "i/impossible-worlds.md", "code": "D7-missing", "x": "A (S \\vDash A)", "n": 1}
+{"f": "i/impossible-worlds.md", "code": "D7-missing", "x": "ww_1 w_2, B", "n": 1}
+{"f": "i/impossible-worlds.md", "code": "D7-missing", "x": "w, Rww_1 w_2", "n": 1}
+{"f": "i/impossible-worlds.md", "code": "D7-missing", "x": "w, B", "n": 1}
+{"f": "i/impossible-worlds.md", "code": "D7-missing", "x": "\\text{At } w: (A \\wedge \\neg A)", "n": 1}
+{"f": "i/impossible-worlds.md", "code": "D7-missing", "x": "(\\text{At } w: A) \\wedge \\neg (\\text{at } w: A).", "n": 1}
+{"f": "i/impossible-worlds.md", "code": "D7-missing", "x": "w: (A \\wedge \\neg A)", "n": 2}
+{"f": "i/impossible-worlds.md", "code": "D7-missing", "x": "w: A", "n": 2}
+{"f": "i/impossible-worlds.md", "code": "D7-missing", "x": "\\neg A.", "n": 1}
+{"f": "i/impossible-worlds.md", "code": "D7-missing", "x": "w: A) \\wedge \\neg", "n": 1}
+{"f": "i/impossible-worlds.md", "code": "D7-missing", "x": "w: A)", "n": 1}
+{"f": "i/impossible-worlds.md", "code": "D7-extra", "x": "A", "n": 5}
+{"f": "i/impossible-worlds.md", "code": "D7-extra", "x": "\\neg A", "n": 1}
+{"f": "i/impossible-worlds.md", "code": "D7-extra", "x": "B", "n": 3}
+{"f": "i/impossible-worlds.md", "code": "D7-extra", "x": "w", "n": 7}
+{"f": "i/impossible-worlds.md", "code": "D7-extra", "x": "A \\vDash A", "n": 3}
+{"f": "i/impossible-worlds.md", "code": "D7-extra", "x": "^+", "n": 1}
+{"f": "i/impossible-worlds.md", "code": "D7-extra", "x": "e", "n": 1}
+{"f": "i/impossible-worlds.md", "code": "D7-extra", "x": "\\begin{align} v_w (\\Box A) &= 0 \\ v_w (\\Diamond A) &= 1 \\end{align}", "n": 1}
+{"f": "i/impossible-worlds.md", "code": "D7-extra", "x": "(S \\vDash A)", "n": 1}
+{"f": "i/impossible-worlds.md", "code": "D7-extra", "x": "Rww_1 w_2", "n": 1}
+{"f": "i/impossible-worlds.md", "code": "D7-extra", "x": "ww_1 w_2", "n": 1}
+{"f": "i/impossible-worlds.md", "code": "D7-extra", "x": "\\text{在 } w \\text{ 处：} (A \\wedge \\neg A)", "n": 1}
+{"f": "i/impossible-worlds.md", "code": "D7-extra", "x": "(\\text{在 } w \\text{ 处：} A) \\wedge \\neg (\\text{在 } w \\text{ 处：} A).", "n": 1}
+{"f": "i/impossible-worlds.md", "code": "D7-extra", "x": "(A \\wedge \\neg A)", "n": 2}
+{"f": "i/impossible-worlds.md", "code": "D7-extra", "x": "\\wedge \\neg", "n": 1}
+{"f": "i/imprecise-probabilities.md", "i": 347, "code": "D2", "x": "，否则赢"}
+{"f": "i/imprecise-probabilities.md", "code": "D7-missing", "x": "X", "n": 1}
+{"f": "i/imprecise-probabilities.md", "code": "D7-missing", "x": "P(X) = \\{p(X) : p\\in P \\}", "n": 1}
+{"f": "i/imprecise-probabilities.md", "code": "D7-missing", "x": "r+y < y +b", "n": 1}
+{"f": "i/imprecise-probabilities.md", "code": "D7-missing", "x": "\\alpha", "n": 1}
+{"f": "i/imprecise-probabilities.md", "code": "D7-missing", "x": "1- \\alpha", "n": 1}
+{"f": "i/imprecise-probabilities.md", "code": "D7-extra", "x": "P(X) = \\{p(X) : p\\in P\\}", "n": 1}
+{"f": "i/imprecise-probabilities.md", "code": "D7-extra", "x": "r+y < y+b", "n": 1}
+{"f": "i/imprecise-probabilities.md", "code": "D7-extra", "x": "，否则赢", "n": 1}
+{"f": "i/information-semantic.md", "code": "D7-missing", "x": "p", "n": 1}
+{"f": "i/information-semantic.md", "code": "D7-missing", "x": "s,", "n": 1}
+{"f": "i/information-semantic.md", "code": "D7-extra", "x": "s", "n": 1}
+{"f": "i/information-semantic.md", "code": "D7-extra", "x": "\\psi", "n": 2}
+{"f": "i/intrinsic-extrinsic.md", "code": "D7-missing", "x": "\\psi", "n": 1}
+{"f": "i/intrinsic-extrinsic.md", "code": "D7-missing", "x": "v, x", "n": 2}
+{"f": "i/intrinsic-extrinsic.md", "code": "D7-missing", "x": "\\{\\langle x_1, w_1 \\rangle, \\langle x_3, w_2\\rangle\\}.", "n": 1}
+{"f": "i/intrinsic-extrinsic.md", "code": "D7-missing", "x": "\\{\\langle x_1, w_1\\rangle, \\langle x_4, w_3\\rangle\\}.", "n": 1}
+{"f": "i/intrinsic-extrinsic.md", "code": "D7-missing", "x": "\\text{‘}\\exists w_1 \\exists w_2 \\exists x_1 \\exists x_2 \\exists x_3(p = \\{\\langle w_1, x_1\\rangle , \\langle w_2, x_3\\rangle \\})\\text{’}", "n": 1}
+{"f": "i/intrinsic-extrinsic.md", "code": "D7-missing", "x": "w, x", "n": 1}
+{"f": "i/intrinsic-extrinsic.md", "code": "D7-extra", "x": "\\phi", "n": 1}
+{"f": "i/intrinsic-extrinsic.md", "code": "D7-extra", "x": "v", "n": 2}
+{"f": "i/intrinsic-extrinsic.md", "code": "D7-extra", "x": "= \\{\\langle x_1, w_1 \\rangle, \\langle x_3, w_2\\rangle\\}.", "n": 1}
+{"f": "i/intrinsic-extrinsic.md", "code": "D7-extra", "x": "= \\{\\langle x_1, w_1\\rangle, \\langle x_4, w_3\\rangle\\}.", "n": 1}
+{"f": "i/intrinsic-extrinsic.md", "code": "D7-extra", "x": "\\text{’}\\exists w_1 \\exists w_2 \\exists x_1 \\exists x_2 \\exists x_3(p = \\{\\langle w_1, x_1\\rangle , \\langle w_2, x_3\\rangle \\})\\text{’}", "n": 1}
+{"f": "i/intrinsic-extrinsic.md", "code": "D7-extra", "x": "w", "n": 1}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\({\\bf KS}\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\(A\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\((A \\rightarrow B)\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\(B\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\({\\bf DP}\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\({\\bf WC\\mbox{-}N}\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\({\\bf C\\mbox{-}N}\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\(x\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\(x\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\({\\bf FAN}\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\({\\bf BI}\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\({\\bf AC\\mbox{-}N}\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\({\\bf DC\\mbox{-}N}\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\({\\bf NEP}\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\({\\bf MR}\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\({\\bf CS1}\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\(n\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\({\\bf CS2}\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\({\\bf CS3}\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\({\\bf CS3}^+\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\(\\neg \\Box_n A\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\(\\Box_n A\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\(\\alpha_i(n)\\neq 1\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\(m\\leq n\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\(\\alpha_i(m)=1\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\(k \\lt m\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\(\\alpha_i(k)=1.\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\(\\Box_m (n \\not\\in X)\\)"}
+{"f": "i/intuitionism.md", "code": "D1", "x": "\\(\\Box_m (n \\not\\in X)\\)"}
+{"f": "j/justep-coherence.md", "code": "D7-missing", "x": "A, B", "n": 1}
+{"f": "j/justep-coherence.md", "code": "D7-missing", "x": "(A", "n": 1}
+{"f": "j/justep-coherence.md", "code": "D7-missing", "x": "E", "n": 1}
+{"f": "j/justep-coherence.md", "code": "D7-missing", "x": "S)", "n": 1}
+{"f": "j/justep-coherence.md", "code": "D7-extra", "x": "A", "n": 2}
+{"f": "j/justep-coherence.md", "code": "D7-extra", "x": "S", "n": 1}
+{"f": "j/justep-coherence.md", "code": "D7-extra", "x": "C_2", "n": 1}
+{"f": "j/justice-moral-psych.md", "code": "D6", "x": "unpaired $ count=11"}
+{"f": "k/kepler.md", "code": "D7-missing", "x": "\\left(\\frac{T_1}{T_2}\\right)^2 = \\left(\\frac{a_1}{a_2}\\right)^3", "n": 1}
+{"f": "k/kepler.md", "code": "D7-extra", "x": "\\left( rac{T_1}{T_2} ight)^2 = \\left( rac{a_1}{a_2} ight)^3", "n": 1}
+{"f": "l/logic-dynamic.md", "code": "D7-missing", "x": "V([\\alpha]A) = \\{x \\mid \\text{for all worlds } y, \\text{ if } xR(\\alpha)y \\text{ then } y \\in V(A)\\}", "n": 1}
+{"f": "l/logic-dynamic.md", "code": "D7-missing", "x": "\\frac{\\{A\\}\\alpha_1 \\{B\\}\\quad\\{B\\} \\alpha_2\\{C\\}} {\\{A\\} \\alpha_1;\\alpha_2\\{C\\}} \\text{ (rule of composition)}", "n": 1}
+{"f": "l/logic-dynamic.md", "code": "D7-missing", "x": "\\frac{\\{A \\land B\\}\\alpha\\{A\\}} {\\{A\\} \\mathsf{while}~B~\\mathsf{do}~\\alpha \\{\\lnot B \\land A\\}} \\text{ (rule of iteration)}", "n": 1}
+{"f": "l/logic-dynamic.md", "code": "D7-missing", "x": "\\frac{\\{A\\}\\alpha\\{B\\}\\quad B \\rightarrow C} {\\{A\\} \\alpha \\{C\\}} \\text{ (rule of consequence 1)}", "n": 1}
+{"f": "l/logic-dynamic.md", "code": "D7-missing", "x": "\\frac{C\\rightarrow A\\quad \\{A\\}\\alpha\\{B\\}} {\\{C\\}\\alpha\\{B\\}} \\text{ (rule of consequence 2)}", "n": 1}
+{"f": "l/logic-dynamic.md", "code": "D7-missing", "x": "W = \\{(i,j) : j \\text{ and } i \\text{ integers}, 1 \\leq j \\leq i\\} \\cup \\{ u \\}", "n": 1}
+{"f": "l/logic-dynamic.md", "code": "D7-extra", "x": "V([\\alpha]A) = \\{x \\mid \\text{对所有世界 } y，\\text{若 } xR(\\alpha)y \\text{ 则 } y \\in V(A)\\}", "n": 1}
+{"f": "l/logic-dynamic.md", "code": "D7-extra", "x": "\\frac{\\{A\\}\\alpha_1 \\{B\\}\\quad\\{B\\} \\alpha_2\\{C\\}} {\\{A\\} \\alpha_1;\\alpha_2\\{C\\}} \\text{（合成规则）}", "n": 1}
+{"f": "l/logic-dynamic.md", "code": "D7-extra", "x": "\\frac{\\{A \\land B\\}\\alpha\\{A\\}} {\\{A\\} \\mathsf{while}~B~\\mathsf{do}~\\alpha \\{\\lnot B \\land A\\}} \\text{（迭代规则）}", "n": 1}
+{"f": "l/logic-dynamic.md", "code": "D7-extra", "x": "\\frac{\\{A\\}\\alpha\\{B\\}\\quad B \\rightarrow C} {\\{A\\} \\alpha \\{C\\}} \\text{（后承规则 1）}", "n": 1}
+{"f": "l/logic-dynamic.md", "code": "D7-extra", "x": "\\frac{C\\rightarrow A\\quad \\{A\\}\\alpha\\{B\\}} {\\{C\\}\\alpha\\{B\\}} \\text{（后承规则 2）}", "n": 1}
+{"f": "l/logic-dynamic.md", "code": "D7-extra", "x": "W = \\{(i,j) : j \\text{ 与 } i \\text{ 为整数}, 1 \\leq j \\leq i\\} \\cup \\{ u \\}", "n": 1}
+{"f": "l/logic-fuzzy.md", "code": "D6", "x": "unpaired $ count=507"}
+{"f": "l/logic-fuzzy.md", "code": "D7-missing", "x": "(\\varphi \\to \\psi) \\lor (\\psi \\to \\varphi).", "n": 1}
+{"f": "l/logic-fuzzy.md", "code": "D7-missing", "x": "\\neg\\varphi \\vee ((\\varphi\\to\\varphi\\mathbin{\\&}{{\\psi}})\\to{{\\psi}}).", "n": 1}
+{"f": "l/logic-fuzzy.md", "code": "D7-extra", "x": "0", "n": 1}
+{"f": "l/logic-fuzzy.md", "code": "D7-extra", "x": "1", "n": 2}
+{"f": "l/logic-fuzzy.md", "code": "D7-extra", "x": "\\&", "n": 1}
+{"f": "l/logic-fuzzy.md", "code": "D7-extra", "x": "\\min", "n": 1}
+{"f": "l/logic-fuzzy.md", "code": "D7-extra", "x": "x\\leq y", "n": 1}
+{"f": "l/logic-fuzzy.md", "code": "D7-extra", "x": "\\to", "n": 1}
+{"f": "l/logic-fuzzy.md", "code": "D7-extra", "x": "(\\varphi \\to \\psi) \\lor (\\psi \\to \\varphi)", "n": 1}
+{"f": "l/logic-fuzzy.md", "code": "D7-extra", "x": "\\neg\\varphi \\vee ((\\varphi\\to\\varphi\\mathbin{\\&}{{\\psi}})\\to{{\\psi}})", "n": 1}
+{"f": "l/logic-fuzzy.md", "code": "D7-extra", "x": "\\max", "n": 1}
+{"f": "l/logic-fuzzy.md", "code": "D7-extra", "x": "x \\ast 1 \\leq y", "n": 1}
+{"f": "l/logic-fuzzy.md", "code": "D7-extra", "x": "1 \\leq x\\Rightarrow y", "n": 1}
+{"f": "l/logic-fuzzy.md", "code": "D7-extra", "x": "x\\Rightarrow y = 1", "n": 1}
+{"f": "l/logic-fuzzy.md", "code": "D7-extra", "x": "\\mathbf A", "n": 4}
+{"f": "l/logic-fuzzy.md", "code": "D7-extra", "x": "\\wedge, \\vee, \\overline{0}, \\overline{1}", "n": 1}
+{"f": "l/logic-fuzzy.md", "code": "D7-extra", "x": "\\models_{\\mathbf A}", "n": 1}
+{"f": "l/logic-fuzzy.md", "code": "D7-extra", "x": "\\overline{1}", "n": 1}
+{"f": "l/logic-fuzzy.md", "code": "D7-extra", "x": "\\Gamma\\vdash_\\mathrm{MTL}\\varphi", "n": 1}
+{"f": "l/logic-fuzzy.md", "code": "D7-extra", "x": "\\Gamma\\models_{\\mathbf A}\\varphi", "n": 1}
+{"f": "l/logic-fuzzy.md", "code": "D7-extra", "x": "\\varphi \\mathbin{\\&} (\\varphi \\to \\psi) \\to \\psi", "n": 1}
+{"f": "l/logic-hybrid.md", "i": 238, "code": "D2", "x": "，使得 i) 任何独立公式皆相对于"}
+{"f": "l/logic-hybrid.md", "i": 240, "code": "D2", "x": "。更形式地说，约定"}
+{"f": "l/logic-hybrid.md", "code": "D7-missing", "x": "t_0", "n": 3}
+{"f": "l/logic-hybrid.md", "code": "D7-missing", "x": "(M,t_0), g \\vDash \\mathtt{\\phi}", "n": 1}
+{"f": "l/logic-hybrid.md", "code": "D7-extra", "x": "，使得 i) 任何独立公式皆相对于", "n": 1}
+{"f": "l/logic-hybrid.md", "code": "D7-extra", "x": "。更形式地说，约定", "n": 1}
+{"f": "l/logic-linear.md", "code": "D7-missing", "x": "\\frac{\\Up{\\Psi}{\\Delta,F}{L}}{\\Up{\\Psi}{\\Delta}{F,L}} \\ [R\\Uparrow]\\ \\text{provided that $F$ is not asynchronous}", "n": 1}
+{"f": "l/logic-linear.md", "code": "D7-missing", "x": "\\frac{\\Up{\\Psi}{\\Delta}{F}}{\\Down{\\Psi}{\\Delta}{F}} \\ [R\\Downarrow]\\ \\text{provided that $F$ is either asynchronous or an atom}", "n": 1}
+{"f": "l/logic-linear.md", "code": "D7-missing", "x": "\\frac{}{\\Down{\\Psi}{A}{A^{\\perp}}} \\ [I_1] \\qquad \\frac{}{\\Down{\\Psi,A}{\\cdot}{A^{\\perp}}} \\ [I_2]\\ \\text{where } A \\text{ is an atom}", "n": 1}
+{"f": "l/logic-linear.md", "code": "D7-missing", "x": "\\frac{\\Down{\\Psi}{\\Delta}{F}}{\\Up{\\Psi}{\\Delta,F}{\\cdot}} \\ [D_1] \\qquad \\frac{\\Down{\\Psi}{\\Delta}{F}}{\\Up{\\Psi,F}{\\Delta}{\\cdot}} \\ [D_2]\\ \\text{where } F \\text{ is a positive formula}", "n": 1}
+{"f": "l/logic-linear.md", "code": "D7-missing", "x": "L)", "n": 1}
+{"f": "l/logic-linear.md", "code": "D7-extra", "x": "\\frac{\\Up{\\Psi}{\\Delta,F}{L}}{\\Up{\\Psi}{\\Delta}{F,L}} \\ [R\\Uparrow]\\ \\text{前提是 $F$ 非异步}", "n": 1}
+{"f": "l/logic-linear.md", "code": "D7-extra", "x": "\\frac{\\Up{\\Psi}{\\Delta}{F}}{\\Down{\\Psi}{\\Delta}{F}} \\ [R\\Downarrow]\\ \\text{前提是 $F$ 或为异步公式，或为原子}", "n": 1}
+{"f": "l/logic-linear.md", "code": "D7-extra", "x": "\\frac{}{\\Down{\\Psi}{A}{A^{\\perp}}} \\ [I_1] \\qquad \\frac{}{\\Down{\\Psi,A}{\\cdot}{A^{\\perp}}} \\ [I_2]\\ \\text{其中 } A \\text{ 为原子}", "n": 1}
+{"f": "l/logic-linear.md", "code": "D7-extra", "x": "\\frac{\\Down{\\Psi}{\\Delta}{F}}{\\Up{\\Psi}{\\Delta,F}{\\cdot}} \\ [D_1] \\qquad \\frac{\\Down{\\Psi}{\\Delta}{F}}{\\Up{\\Psi,F}{\\Delta}{\\cdot}} \\ [D_2]\\ \\text{其中 } F \\text{ 为正公式}", "n": 1}
+{"f": "l/logic-linear.md", "code": "D7-extra", "x": "L", "n": 1}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(A_1\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(>\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(A_2\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(>\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(A_3\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(\\equiv\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(A_4\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(\\equiv\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(A_5\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(\\equiv\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(A_6\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(>\\equiv\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(A_7\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(>\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(A_8\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(\\equiv\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(B_6\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(B_7\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(V_1\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(>\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(V_2\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(>\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(V_3\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(>\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(V_4\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(V_5\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(>\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(\\equiv\\)"}
+{"f": "l/logic-preference.md", "code": "D1", "x": "\\(>\\)"}
+{"f": "l/logic-preference.md", "i": 320, "code": "D2", "x": "\n\n它们被解释为标准的 *PDL* 程序操作：测试 $?\\varphi$、顺序复合 $“;”$ 与选择 $“\\cup”$。\n\n在双层框架中，有趣的是看优先动态如何映射偏好动态。例如，可以通过改变世界层的偏好关系，也可以通过修改优先基，来实现由“建议”算子引起的偏好改变。若新命题 A 以并列方式加入既有基 $\\mathscr{B}$，偏好关系便被更新——如下面的交换图所示：\n\n图 A：\n\n![交换图"}
+{"f": "l/logic-preference.md", "i": 320, "code": "D5", "x": "\n\n它们被解释为标准的 *PDL* 程序操作：测试 $?\\varphi$、顺序复合 $“;”$ 与选择 $“\\cup”$。\n\n在双层框架中，有趣的是看优先动态如何映射偏好动态。例如，可以通过改变世界层的偏好关系，也可以通过修改优先基，来实现由“建议”算子引起的偏好改变。若新命题 A 以并列方式加入既有基 $\\mathscr{B}$，偏好关系便被更新——如下面的交换图所示：\n\n图 A：\n\n![交换图"}
+{"f": "l/logic-preference.md", "i": 321, "code": "D2", "x": "\n\n其中 $\\Gamma$ 为任意公式集。这样一来，“相同”本身就进入了形式语言。在语义上，$\\Gamma$ 刻画一个可能世界的等价类。例如，$w \\approx_{\\Gamma} v$ 表示 w 与 v 就 $\\Gamma$ 而言等同——二者满足 $\\Gamma$ 中的同一组公式。\n\n其余条件相同的偏好模型是四元组 $\\mathcal{M}$= $(W, \\succeq, \\triangleri"}
+{"f": "l/logic-preference.md", "i": 321, "code": "D5", "x": "\n\n其中 $\\Gamma$ 为任意公式集。这样一来，“相同”本身就进入了形式语言。在语义上，$\\Gamma$ 刻画一个可能世界的等价类。例如，$w \\approx_{\\Gamma} v$ 表示 w 与 v 就 $\\Gamma$ 而言等同——二者满足 $\\Gamma$ 中的同一组公式。\n\n其余条件相同的偏好模型是四元组 $\\mathcal{M}$= $(W, \\succeq, \\triangleri"}
+{"f": "l/logic-preference.md", "i": 322, "code": "D2", "x": "\n\n那么一个结果就是 $o = \\{X_1 = a_1, X_2 = b_2, X_3 = c_1\\}$。\n\n遵循其余条件相同的假定——即在保持所有其他变量不变的情况下比较结果——如果我们尊重每个变量的 CPT 中规定的条件偏好，就可以得到结果上的偏好。\n\n例如，若 $X_2$ 的 CPT 规定在 $X_1 = a_1$ 时 $b_1 \\succ b_2$，则：\n\n"}
+{"f": "l/logic-preference.md", "i": 323, "code": "D2", "x": "\n\n可以设计算法在 CP 网中高效地找到最优结果——见 Boutilier、Brafman 等人（2004）、Wilson（2004）与 Goldsmith、Lang 等人（2008）的工作。\n\n通过只捕捉相关的条件偏好，CP 网避免了枚举所有可能结果之偏好所导致的组合爆炸。CP 网在 AI 驱动的决策中已显示重要价值，应用于推荐系统与产品配置等领域。它在计算机科学与人工智能领域吸引了大量关注，如"}
+{"f": "l/logic-preference.md", "i": 323, "code": "D5", "x": "\n\n可以设计算法在 CP 网中高效地找到最优结果——见 Boutilier、Brafman 等人（2004）、Wilson（2004）与 Goldsmith、Lang 等人（2008）的工作。\n\n通过只捕捉相关的条件偏好，CP 网避免了枚举所有可能结果之偏好所导致的组合爆炸。CP 网在 AI 驱动的决策中已显示重要价值，应用于推荐系统与产品配置等领域。它在计算机科学与人工智能领域吸引了大量关注，如"}
+{"f": "l/logic-preference.md", "i": 324, "code": "D2", "x": "\n\n于是我们也有：条件句“若 $\\varphi$ 则 $\\psi$”定义为 $\\varphi\\land \\psi$ 优于 $\\varphi\\land \\neg \\psi$：\n\n"}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\varphi", "n": 4}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\psi", "n": 4}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\Gamma", "n": 7}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\mathcal{M}", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\succeq", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "w\\succ v", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "v \\models \\varphi.", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "d_1", "n": 3}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "d_2", "n": 4}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\neg BC(x),", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "B\\neg C(x),", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\mathscr{B}", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\pi:=?\\varphi \\mid R\\mid R^{<} \\mid \\top\\mid ;\\mid \\cup.", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "?\\varphi", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "``;\"", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "``\\cup\"", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\xymatrix{ \\langle \\mathscr{B}, \\lt \\rangle \\ar[r]^{\\parallel A} \\ar[d] & \\langle \\mathscr{B} \\parallel A, \\lt \\rangle \\ar[d] \\\\ \\langle W, \\preceq \\rangle \\ar[r]^{\\sharp A} & \\langle W, \\sharp A(\\pre", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "(\\mathscr{B}, <)", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\xymatrix{ \\langle \\mathscr{B}, \\lt \\rangle \\ar[r]^{A; \\mathscr{B}} \\ar[d] & \\langle A; \\mathscr{B}, \\lt \\rangle \\ar[d] \\\\ \\langle W, \\preceq \\rangle \\ar[r]^{\\Uparrow A} & \\langle W, \\Uparrow A(\\prece", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\textit{del}(\\mathscr{B})", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\Omega", "n": 3}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\mathcal{E}(\\Omega)", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\eta", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\mathcal{P}(\\mathcal{P}(\\Omega))\\rightarrow\\mathcal{E} (\\Omega)", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\{p, q, \\ldots\\}", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\eta(p, q, \\ldots)", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "w\\,\\eta(p,q,\\ldots)\\, w^{\\prime}", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "w\\approx_{ mod\\, p,q,\\ldots} w^{\\prime}", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "p, q, \\ldots", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "w^{\\prime}", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\langle \\Gamma \\rangle\\varphi", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "p\\mid \\neg \\varphi\\mid \\varphi\\land \\psi \\mid\\langle \\Gamma \\rangle^{>}\\varphi\\mid \\langle \\Gamma \\rangle^{\\geq}\\varphi\\mid \\langle \\Gamma \\rangle\\varphi,", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "w \\approx_{\\Gamma} v", "n": 3}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "(W, \\succeq, \\trianglerighteq_{\\Gamma}, V)", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\trianglerighteq_{\\Gamma}", "n": 3}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "w\\trianglerighteq_{\\Gamma}v", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "w\\succeq v", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\mathcal{M}, w \\models \\langle \\Gamma \\rangle^{\\geq}\\varphi", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\exists v", "n": 3}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "v \\trianglerighteq_{\\Gamma} w", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\mathcal{M}, v\\models \\varphi", "n": 3}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\mathcal{M}, w \\models \\langle \\Gamma \\rangle^{>}\\varphi", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "v \\vartriangleright_{\\Gamma} w", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\mathcal{M}, w \\models \\langle \\Gamma \\rangle\\varphi", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "v \\approx_{\\Gamma} w", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\varphi\\in\\Gamma", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\langle \\Gamma \\rangle\\varphi\\rightarrow\\varphi", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\langle \\Gamma \\rangle\\neg \\varphi\\rightarrow\\neg\\varphi", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\Gamma \\subseteq\\Gamma^{\\prime}", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\langle \\Gamma^{\\prime} \\rangle\\varphi\\rightarrow\\langle \\Gamma \\rangle\\varphi", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\langle \\Gamma^{\\prime} \\rangle^{\\geq}\\varphi\\rightarrow\\langle \\Gamma \\rangle\\varphi", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\langle \\Gamma^{\\prime} \\rangle^{>}\\varphi\\rightarrow\\langle \\Gamma \\rangle\\varphi", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\pm\\varphi\\land \\langle \\Gamma \\rangle(\\alpha\\land \\pm \\varphi)\\rightarrow\\langle \\Gamma \\cup\\{\\varphi\\} \\rangle\\alpha", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\pm\\varphi\\land \\langle \\Gamma \\rangle^{\\geq}(\\alpha\\land \\pm \\varphi)\\rightarrow\\langle \\Gamma \\cup\\{\\varphi\\} \\rangle^{\\geq}\\alpha", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\pm\\varphi\\land \\langle \\Gamma \\rangle^{>}(\\alpha\\land \\pm \\varphi)\\rightarrow\\langle \\Gamma \\cup\\{\\varphi\\} \\rangle^{>}\\alpha", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\langle\\Gamma\\rangle\\varphi", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "V = \\{X_1, X_2, \\ldots, X_n\\}", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "X_i", "n": 9}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\text{Dom}(X_i)", "n": 2}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\text{Pa}(X_i)", "n": 2}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "X_j", "n": 2}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\succ_{u}", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\text{Pa}(X_i) = \\{A, B\\},", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "V = \\{X_1, X_2, X_3\\}", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\text{Dom}(X_1) = \\{a_1, a_2\\}, \\quad \\text{Dom}(X_2) = \\{b_1, b_2\\}, \\quad \\text{Dom}(X_3) = \\{c_1, c_2\\},", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "o = \\{X_1 = a_1, X_2 = b_2, X_3 = c_1\\}", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "X_2", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "b_1 \\succ b_2", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "X_1 = a_1", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\begin{align*} \\text{if } &o_1 = \\{X_1 = a_1, X_2 = b_1, X_3 = c_1\\} \\text{ and }\\\\ &o_2 = \\{X_1 = a_1, X_2 = b_2, X_3 = c_1\\}, \\text{then } o_1 \\succ o_2.\\\\ \\end{align*}", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "p\\geq^{\\forall\\exists}q", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\varphi\\Rightarrow \\psi", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\varphi\\lor \\psi", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\varphi\\geq^{\\forall\\exists} \\psi :=\\neg ((\\varphi\\lor \\psi)\\Rightarrow \\neg \\varphi).", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\varphi\\land \\psi", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\varphi\\land \\neg \\psi", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-missing", "x": "\\varphi\\Rightarrow \\psi := (\\psi\\land \\varphi)>^{\\forall\\exists}(\\neg \\psi\\land \\varphi).", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-extra", "x": "v \\models \\varphi", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-extra", "x": "\\neg BC(x)", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-extra", "x": "B\\neg C(x)", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-extra", "x": "\\alpha", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-extra", "x": "它们被解释为标准的 *PDL* 程序操作：测试 $?\\varphi$、顺序复合 $“;”$ 与选择 $“\\cup”$。 在双层框架中，有趣的是看优先动态如何映射偏好动态。例如，可以通过改变世界层的偏好关系，也可以通过修改优先基，来实现由“建议”算子引起的偏好改变。若新命题 A 以并列方式加入既有基 $\\mathscr{B}$，偏好关系便被更新——如下面的交换图所示： 图 A： ![交换图：扩展描述", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-extra", "x": "其中 $\\Gamma$ 为任意公式集。这样一来，“相同”本身就进入了形式语言。在语义上，$\\Gamma$ 刻画一个可能世界的等价类。例如，$w \\approx_{\\Gamma} v$ 表示 w 与 v 就 $\\Gamma$ 而言等同——二者满足 $\\Gamma$ 中的同一组公式。 其余条件相同的偏好模型是四元组 $\\mathcal{M}$= $(W, \\succeq, \\triangleright", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-extra", "x": "那么一个结果就是 $o = \\{X_1 = a_1, X_2 = b_2, X_3 = c_1\\}$。 遵循其余条件相同的假定——即在保持所有其他变量不变的情况下比较结果——如果我们尊重每个变量的 CPT 中规定的条件偏好，就可以得到结果上的偏好。 例如，若 $X_2$ 的 CPT 规定在 $X_1 = a_1$ 时 $b_1 \\succ b_2$，则：", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-extra", "x": "可以设计算法在 CP 网中高效地找到最优结果——见 Boutilier、Brafman 等人（2004）、Wilson（2004）与 Goldsmith、Lang 等人（2008）的工作。 通过只捕捉相关的条件偏好，CP 网避免了枚举所有可能结果之偏好所导致的组合爆炸。CP 网在 AI 驱动的决策中已显示重要价值，应用于推荐系统与产品配置等领域。它在计算机科学与人工智能领域吸引了大量关注，如 Al", "n": 1}
+{"f": "l/logic-preference.md", "code": "D7-extra", "x": "于是我们也有：条件句“若 $\\varphi$ 则 $\\psi$”定义为 $\\varphi\\land \\psi$ 优于 $\\varphi\\land \\neg \\psi$：", "n": 1}
+{"f": "l/logic-provability.md", "code": "D1", "x": "\\(\\Pi^0_1\\)"}
+{"f": "l/logic-provability.md", "i": 322, "code": "D2", "x": "，两个公式"}
+{"f": "l/logic-provability.md", "code": "D7-missing", "x": "A(p),", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "B", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "\\Box\\Diamond A \\rightarrow \\Box B", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "A(p)", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "\\Diamond", "n": 3}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "\\vdash \\Box\\Diamond A \\rightarrow \\Box B", "n": 2}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "，两个公式", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "\\neg C", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "\\Diamond C", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "\\neg\\Box\\neg C", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "C, D", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "\\vdash C \\rightarrow D", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "\\vdash \\Box C \\rightarrow \\Box D", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "\\vdash \\bot \\rightarrow \\neg A", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "\\vdash \\Box \\bot \\rightarrow \\Box\\neg A", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "\\vdash \\bot \\rightarrow B", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "\\vdash \\Box\\bot \\rightarrow \\Box B", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "\\vdash \\Box(\\Box \\bot \\rightarrow \\bot) \\rightarrow \\Box\\bot", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "\\vdash \\Box(\\Box \\bot \\rightarrow \\bot) \\rightarrow \\Box B", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "\\vdash \\Diamond A \\rightarrow (\\Box \\bot \\rightarrow \\bot)", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "\\vdash \\Box\\Diamond A \\rightarrow \\Box(\\Box \\bot \\rightarrow \\bot)", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "\\Box\\Diamond A", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "\\Box\\bot", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "\\Box B", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "\\neg\\Box\\neg", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "X", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "\\bigvee X", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "\\bigvee\\{\\Diamond x \\mid x \\in X \\}", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "\\Diamond\\bigvee X = \\bigvee\\{\\Diamond x \\mid x \\in X \\}", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "K", "n": 1}
+{"f": "l/logic-provability.md", "code": "D7-extra", "x": "\\Box\\Diamond\\top\\rightarrow \\Box(\\Box(\\Box p \\rightarrow p) \\rightarrow p)", "n": 1}
+{"f": "l/logic-relevance.md", "code": "D7-missing", "x": "c", "n": 1}
+{"f": "l/logic-relevance.md", "code": "D7-missing", "x": "(R", "n": 1}
+{"f": "l/logic-relevance.md", "code": "D7-missing", "x": "a, b", "n": 1}
+{"f": "l/logic-relevance.md", "code": "D7-missing", "x": "a,b", "n": 1}
+{"f": "l/logic-relevance.md", "code": "D7-missing", "x": "b, c", "n": 1}
+{"f": "l/logic-relevance.md", "code": "D7-missing", "x": "\\neg A\\vee B)", "n": 1}
+{"f": "l/logic-relevance.md", "code": "D7-missing", "x": "\\mathbf{NR})", "n": 1}
+{"f": "l/logic-relevance.md", "code": "D7-extra", "x": "a", "n": 1}
+{"f": "l/logic-relevance.md", "code": "D7-extra", "x": "b", "n": 1}
+{"f": "l/logic-relevance.md", "code": "D7-extra", "x": "R", "n": 1}
+{"f": "l/logic-relevance.md", "code": "D7-extra", "x": "a,b,c", "n": 1}
+{"f": "l/logic-relevance.md", "code": "D7-extra", "x": "b,c", "n": 1}
+{"f": "l/logic-relevance.md", "code": "D7-extra", "x": "\\neg A\\vee B", "n": 1}
+{"f": "l/logic-relevance.md", "code": "D7-extra", "x": "\\mathbf{NR}", "n": 1}
+{"f": "l/logic-substructural.md", "code": "D7-missing", "x": "X)", "n": 1}
+{"f": "l/logic-substructural.md", "code": "D7-missing", "x": "c - b)", "n": 1}
+{"f": "l/logic-substructural.md", "code": "D7-missing", "x": "p)", "n": 1}
+{"f": "l/logic-substructural.md", "code": "D7-missing", "x": "X,Y", "n": 1}
+{"f": "l/logic-substructural.md", "code": "D7-missing", "x": "Y, X)", "n": 1}
+{"f": "l/logic-substructural.md", "code": "D7-missing", "x": "(p\\vdash q", "n": 1}
+{"f": "l/logic-substructural.md", "code": "D7-missing", "x": "q)", "n": 1}
+{"f": "l/logic-substructural.md", "code": "D7-missing", "x": "(p)", "n": 1}
+{"f": "l/logic-substructural.md", "code": "D7-missing", "x": "(p \\rightarrow q", "n": 1}
+{"f": "l/logic-substructural.md", "code": "D7-missing", "x": "X \\vdash A)", "n": 1}
+{"f": "l/logic-substructural.md", "code": "D7-missing", "x": "Y)", "n": 2}
+{"f": "l/logic-substructural.md", "code": "D7-missing", "x": "y, B", "n": 1}
+{"f": "l/logic-substructural.md", "code": "D7-missing", "x": "z)", "n": 1}
+{"f": "l/logic-substructural.md", "code": "D7-missing", "x": "is", "n": 1}
+{"f": "l/logic-substructural.md", "code": "D7-extra", "x": "p", "n": 2}
+{"f": "l/logic-substructural.md", "code": "D7-extra", "x": "q", "n": 1}
+{"f": "l/logic-substructural.md", "code": "D7-extra", "x": "X", "n": 1}
+{"f": "l/logic-substructural.md", "code": "D7-extra", "x": "Y", "n": 2}
+{"f": "l/logic-substructural.md", "code": "D7-extra", "x": "B", "n": 1}
+{"f": "l/logic-substructural.md", "code": "D7-extra", "x": "p \\rightarrow q", "n": 1}
+{"f": "l/logic-substructural.md", "code": "D7-extra", "x": "c - b", "n": 1}
+{"f": "l/logic-substructural.md", "code": "D7-extra", "x": "X, Y", "n": 1}
+{"f": "l/logic-substructural.md", "code": "D7-extra", "x": "Y, X", "n": 1}
+{"f": "l/logic-substructural.md", "code": "D7-extra", "x": "p\\vdash q", "n": 1}
+{"f": "l/logic-substructural.md", "code": "D7-extra", "x": "X \\vdash A", "n": 1}
+{"f": "l/logic-substructural.md", "code": "D7-extra", "x": "y,z", "n": 1}
+{"f": "q/qm-relational.md", "code": "D7-missing", "x": "(\\psi \\sim \\exp iS/\\hslash)", "n": 1}
+{"f": "q/qm-relational.md", "code": "D7-missing", "x": "S, S'", "n": 1}
+{"f": "q/qm-relational.md", "code": "D7-extra", "x": "\\psi \\sim \\exp iS/\\hslash", "n": 1}
+{"f": "q/qm-relational.md", "code": "D7-extra", "x": "(S, S')", "n": 1}
+{"f": "q/qm.md", "code": "D7-missing", "x": "\\psi(i))", "n": 1}
+{"f": "q/qm.md", "code": "D7-extra", "x": "\\ket{A}", "n": 1}
+{"f": "q/qm.md", "code": "D7-extra", "x": "N", "n": 2}
+{"f": "q/qm.md", "code": "D7-extra", "x": "\\psi(i)", "n": 1}
+{"f": "q/qm.md", "code": "D7-extra", "x": "H_A \\otimes H_B", "n": 1}
+{"f": "q/qm.md", "code": "D7-extra", "x": "(v_{i}^A, u_{j}^B)", "n": 1}
+{"f": "q/qm.md", "code": "D7-extra", "x": "S", "n": 1}
+{"f": "q/qm.md", "code": "D7-extra", "x": "|v| = 0", "n": 1}
+{"f": "q/qm.md", "code": "D7-extra", "x": "v", "n": 2}
+{"f": "q/qm.md", "code": "D7-extra", "x": "v^A\\otimes 0 = 0 = 0\\otimes u^B", "n": 1}
+{"f": "q/qm.md", "code": "D7-extra", "x": "@ \\ket{A}", "n": 1}
+{"f": "q/qm.md", "code": "D7-extra", "x": "@", "n": 1}
+{"f": "q/qm.md", "code": "D7-extra", "x": "i \\frac{dv}{dt} = \\mathbf{H}v", "n": 1}
+{"f": "q/qm.md", "code": "D7-extra", "x": "\\mathbf{H}", "n": 1}
+{"f": "q/qt-entangle.md", "code": "D7-missing", "x": "c_1", "n": 1}
+{"f": "q/quantum-bayesian.md", "code": "D7-missing", "x": "1.1 \\times 10^{-9}", "n": 1}
+{"f": "q/quantum-bayesian.md", "code": "D7-missing", "x": "\\psi", "n": 2}
+{"f": "q/quantum-bayesian.md", "code": "D7-extra", "x": "\\,1.1 \\times 10^{-9}", "n": 1}
+{"f": "q/quantum-bayesian.md", "code": "D7-extra", "x": "d", "n": 1}
+{"f": "q/quantum-bayesian.md", "code": "D7-extra", "x": "d=2-53", "n": 1}
+{"f": "q/quantum-bayesian.md", "code": "D7-extra", "x": "d=2-193", "n": 1}
+{"f": "q/quine-nf.md", "code": "D7-missing", "x": "w, 1", "n": 1}
+{"f": "q/quine-nf.md", "code": "D7-missing", "x": "(=", "n": 1}
+{"f": "q/quine-nf.md", "code": "D7-missing", "x": "y) + 1", "n": 1}
+{"f": "q/quine-nf.md", "code": "D7-missing", "x": "(\\varrho", "n": 1}
+{"f": "q/quine-nf.md", "code": "D7-extra", "x": "y", "n": 1}
+{"f": "q/quine-nf.md", "code": "D7-extra", "x": "w", "n": 1}
+{"f": "q/quine-nf.md", "code": "D7-extra", "x": "=", "n": 1}
+{"f": "q/quine-nf.md", "code": "D7-extra", "x": "\\varrho", "n": 1}
+{"f": "r/ramsey-economics.md", "i": 295, "code": "D4", "x": "\\begin{align} \\tag*{Cline (1992)} \\sigma = 1.5 \\quad &\\text{and} \\quad \\delta = 0 \\\\ \\tag*{Nordhaus (1994)} \\sigma = 1 \\quad &\\text{and} \\quad \\delta = 0.03 \\text{ (3% a year)} \\\\ \\tag*{Stern (2007)} "}
+{"f": "r/ramsey-economics.md", "code": "D7-missing", "x": "\\tau", "n": 1}
+{"f": "r/ramsey-economics.md", "code": "D7-missing", "x": "(t = 0)", "n": 1}
+{"f": "r/ramsey-economics.md", "code": "D7-missing", "x": "\\{C(t)\\}.", "n": 1}
+{"f": "r/ramsey-economics.md", "code": "D7-missing", "x": "V(0) = \\int^{\\infty}_0 [U(C(t))]dt.”", "n": 1}
+{"f": "r/ramsey-economics.md", "code": "D7-missing", "x": "V(0) = \\int^{\\infty}_0 [U(C(t))-B]dt.”", "n": 1}
+{"f": "r/ramsey-economics.md", "code": "D7-missing", "x": "t)", "n": 1}
+{"f": "r/ramsey-economics.md", "code": "D7-missing", "x": "V(0) = \\int^{\\infty}_0 [U(C(t))e^{-\\delta t}]dt, \\delta \\gt 0.”", "n": 1}
+{"f": "r/ramsey-economics.md", "code": "D7-missing", "x": "(V(0)", "n": 1}
+{"f": "r/ramsey-economics.md", "code": "D7-missing", "x": "\\mu", "n": 1}
+{"f": "r/ramsey-economics.md", "code": "D7-missing", "x": "\\sigma \\rightarrow 1.)", "n": 1}
+{"f": "r/ramsey-economics.md", "code": "D7-extra", "x": "t", "n": 1}
+{"f": "r/ramsey-economics.md", "code": "D7-extra", "x": "\\tau \\to \\infty", "n": 1}
+{"f": "r/ramsey-economics.md", "code": "D7-extra", "x": "\\{C(t)\\}", "n": 1}
+{"f": "r/ramsey-economics.md", "code": "D7-extra", "x": "t = 0", "n": 1}
+{"f": "r/ramsey-economics.md", "code": "D7-extra", "x": "V(0) = \\int^{\\infty}_0 [U(C(t))]dt.", "n": 1}
+{"f": "r/ramsey-economics.md", "code": "D7-extra", "x": "V(0)", "n": 1}
+{"f": "r/ramsey-economics.md", "code": "D7-extra", "x": "V(0) = \\int^{\\infty}_0 [U(C(t))-B]dt.", "n": 1}
+{"f": "r/ramsey-economics.md", "code": "D7-extra", "x": "V(0) = \\int^{\\infty}_0 [U(C(t))e^{-\\delta t}]dt, \\delta \\gt 0.", "n": 1}
+{"f": "r/ramsey-economics.md", "code": "D7-extra", "x": "1/\\mu", "n": 1}
+{"f": "r/ramsey-economics.md", "code": "D7-extra", "x": "\\sigma \\rightarrow 1", "n": 1}
+{"f": "r/reasoning-analogy.md", "code": "D7-missing", "x": "n \\ge 1)", "n": 1}
+{"f": "r/reasoning-analogy.md", "code": "D7-missing", "x": "P_i)", "n": 1}
+{"f": "r/reasoning-analogy.md", "code": "D7-extra", "x": "n \\ge 1", "n": 1}
+{"f": "r/reasoning-analogy.md", "code": "D7-extra", "x": "P_i", "n": 1}
+{"f": "r/risk.md", "code": "D6", "x": "unpaired $ count=47"}
+{"f": "s/schema.md", "code": "D7-missing", "x": "\\Phi)", "n": 1}
+{"f": "s/schema.md", "code": "D7-extra", "x": "\\Phi", "n": 1}
+{"f": "s/scientific-explanation-20th.md", "code": "D7-missing", "x": "R", "n": 1}
+{"f": "s/scientific-explanation-20th.md", "code": "D7-missing", "x": "R^*", "n": 1}
+{"f": "s/scientific-explanation-20th.md", "code": "D7-extra", "x": "P_k", "n": 1}
+{"f": "s/scientific-explanation-20th.md", "code": "D7-extra", "x": "R^**", "n": 1}
+{"f": "s/social-procedures.md", "code": "D7-extra", "x": "r", "n": 2}
+{"f": "s/social-procedures.md", "code": "D7-extra", "x": "k", "n": 1}
+{"f": "s/social-procedures.md", "code": "D7-extra", "x": "c", "n": 2}
+{"f": "s/social-procedures.md", "code": "D7-extra", "x": "F(m, k + 1)", "n": 1}
+{"f": "s/social-procedures.md", "code": "D7-extra", "x": "F(m, k)", "n": 1}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "n+1", "n": 1}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "(M, O_1 , \\ldots ,O_n)", "n": 3}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "O_1 , \\ldots ,O_n", "n": 1}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "M", "n": 5}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "L_1 =0, \\ldots ,L_m =0", "n": 1}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "L_i", "n": 1}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "O_i", "n": 1}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "O", "n": 1}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "h", "n": 2}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "h^* O", "n": 1}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "(M, O_1 , \\ldots ,O_n) \\text{ and } (hM, h^* O_1 , \\ldots ,h^* O_n)", "n": 1}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "(hM, h^* O_1 , \\ldots ,h^* O_n)", "n": 1}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "U", "n": 1}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "\\Delta U = -4\\pi \\varrho", "n": 1}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "\\varrho", "n": 1}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "U(r)", "n": 1}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "U(r)+K(t)", "n": 1}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "\\Delta K(t) = 0", "n": 1}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "\\Delta(U(r)+K(t)) = \\Delta U(r)", "n": 1}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "\\mathbf{E}", "n": 5}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "\\mathbf{B}", "n": 5}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "\\phi", "n": 1}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "\\mathbf{A}", "n": 1}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "\\begin{align} \\mathbf{B} &= \\boldsymbol{\\nabla} \\times \\mathbf{A} \\\\ \\mathbf{E} &= -\\boldsymbol{\\nabla} \\phi - \\partial \\mathbf{A}/\\partial t \\end{align}", "n": 1}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "\\begin{align} \\mathbf{A}' &= \\mathbf{A} - \\boldsymbol{\\nabla} \\lambda \\\\ \\phi' &= \\phi + \\partial \\lambda /\\partial t \\end{align}", "n": 1}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "\\lambda", "n": 3}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "(\\phi , \\mathbf{A})", "n": 1}
+{"f": "s/spacetime-holearg.md", "code": "D7-extra", "x": "(\\phi ', \\mathbf{A}')", "n": 1}
+{"f": "t/tarski-truth.md", "code": "D7-missing", "x": "y)", "n": 1}
+{"f": "t/tarski-truth.md", "code": "D7-missing", "x": "(=, \\neg", "n": 1}
+{"f": "t/tarski-truth.md", "code": "D7-missing", "x": "X, F(a,b)", "n": 1}
+{"f": "t/tarski-truth.md", "code": "D7-extra", "x": "y", "n": 1}
+{"f": "t/tarski-truth.md", "code": "D7-extra", "x": "=, \\neg", "n": 1}
+{"f": "t/tarski-truth.md", "code": "D7-extra", "x": "F(a,b)", "n": 1}
+{"f": "u/umar-khayyam.md", "code": "D7-missing", "x": "A/C = (A/B) (B/C)", "n": 1}
+{"f": "u/umar-khayyam.md", "code": "D7-extra", "x": "A/C = (A/B)(B/C)", "n": 1}

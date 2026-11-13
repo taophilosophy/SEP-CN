@@ -101,7 +101,7 @@ def check_file(path, yuanwen=False):
         sep_idx = next((i for i, r in enumerate(rows)
                         if all(SEP_CELL.match(c) for c in r if c)
                         and any(c for c in r)), None)
-        if sep_idx is None and len(rows) >= 2:
+        if sep_idx is None:
             issues.append((start, 'table-no-sep',
                            '表块无分隔行，渲染不成表格（首行会被当作段落）'))
         if yuanwen:

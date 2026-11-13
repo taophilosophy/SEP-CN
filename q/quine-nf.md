@@ -10,7 +10,7 @@ $$ \forall x\forall y[x=y \leftrightarrow \forall z(z \in x \leftrightarrow z \i
 
 $$ \exists x\forall y(y \in x \leftrightarrow \Phi) $$
 
-这里 ‘$x$’ 在 $\Phi$ 中不自由出现，而 $\Phi$ 是（弱）分层的。后一条件的意思是：存在一个函数 $\sigma$（即一个“分层”），它把 $\Phi$ 中 **约束** 变量映到自然数的一个初始段上，并且满足——若 ‘$u \in v$’ 是 $\Phi$ 的子公式，则 $\sigma(`v{\text{’}}) = \sigma(`u{\text{’}}) + 1$；若 $`u = v{\text{’}}$ 是 $\Phi$ 的子公式，则 $\sigma(`v{\text{’}}) = \sigma(`u{\text{’}})$。这一约束从何而来，下文自有交代。
+这里 ‘$x$’ 在 $\Phi$ 中不自由出现，而 $\Phi$ 是（弱）分层的。后一条件的意思是：存在一个函数 $\sigma$（即一个“分层”），它把 $\Phi$ 中 **约束** 变量映到自然数的一个初始段上，并且满足——若 ‘$u \in v$’ 是 $\Phi$ 的子公式，则 $\sigma(`v{\text{’}}) = \sigma(`u{\text{’}}) + 1$；若 $`u = v{\text{’}}$ 是 $\Phi$ 的子公式，则 $\sigma(`v{\text{’}}) = \sigma(`u{\text{’}})$。这一约束从何而来，下文自有交代。
 
 看几个例子就明白了：$x \in x$ 不可分层，$x \in y$ 可以分层。可见，分层公式的代入实例未必仍然分层。$y = \wp(x)$ 是分层的（花体 P 指幂集），此时变量 $y$ 的类型比 $x$ 高一。要核对这一点，得先把 ‘$y = \wp(x)$’ 写成原始记法。（写成原始记法后，该公式为：$\forall z(z \in y \leftrightarrow \forall w(w \in z \rightarrow w \in x))$。给 $w$ 赋 0、$z$ 赋 1、$x$ 赋 2，便得到它的一个分层。）一般说来，总得把公式还原成原始记法——至少在你熟练之前是这样。
 

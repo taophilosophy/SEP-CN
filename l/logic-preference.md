@@ -494,7 +494,7 @@ $$\sigma(\preceq_{\mathscr{B}}, A) = \preceq_{\alpha(\mathscr{B}, A).}$$
 
 若一个操作 $\alpha$ 借助语言中公式的测试、弱与强基本偏好关系 R、以及全称关系，并允许任意并集与顺序复合，而诱导出一个 *PDL*-可定义的关系变换器 $\sigma$，则称 $\alpha$ 为 *PDL*-可定义操作：
 
-\pi:=?\varphi \mid R\mid R^{<} \mid \top\mid ;\mid \cup.$$
+$$\pi:=?\varphi \mid R\mid R^{<} \mid \top\mid ;\mid \cup.$$
 
 它们被解释为标准的 *PDL* 程序操作：测试 $?\varphi$、顺序复合 $“;”$ 与选择 $“\cup”$。
 
