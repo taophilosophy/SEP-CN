@@ -273,7 +273,7 @@ Ficino, Marsilio | hermetism | humanism: in the Renaissance | Neoplatonism: in t
 
 [^secret-1992]: –––, 1992, *Hermétisme et Kabbale*, Naples: Bibliopolis.
 
-[^schmidt-biggerman-2012]: Schmidt-Biggerman, Wilhelm, 2012, *Geschchte der Kristlicher Kabbala: 15. und 16. Jahrhundert*, Stuttgart-Bad Cannstatt: Fromman-Holzoobog.
+[^schmidt-biggerman-2012]: Schmidt-Biggerman, Wilhelm, 2012, *Geschchte der Kristlicher Kabbala: 15. und 16. Jahrhundert*, Stuttgart-Bad Cannstatt: Frommann-Holzboog.
 
 [^schmitt-1967]: Schmitt, Charles B., 1967, *Gianfrancesco Pico della Mirandola (1469–1533) and His Critique of Aristotle*, The Hague: Nijhoff.
 
@@ -285,7 +285,7 @@ Ficino, Marsilio | hermetism | humanism: in the Renaissance | Neoplatonism: in t
 
 [^zambelli-1965]: Zambelli, Paola, 1965, “Cornelio Agrippa. Scritti inediti e dispersi”, *Rinascimento*, II s., 5: 195–323.
 
-[^zambelli-1972]: –––, 1972, “Cornelio Agrippa, Sisto da Siena e gli inquisitori”, *Memorie Doemicane* (new series), 3: 147–64.
+[^zambelli-1972]: –––, 1972, “Cornelio Agrippa, Sisto da Siena e gli inquisitori”, *Memorie Domenicane* (new series), 3: 147–64.
 
 [^zambelli-1976]: –––, 1976, “Magic and Radical Reformation in Agrippa of Nettesheim”, *Journal of the Warburg and Courtauld Institutes*, 39: 69–103. doi:10.2307/751133
 

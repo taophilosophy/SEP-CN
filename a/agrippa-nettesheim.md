@@ -122,7 +122,7 @@
 
 [^raymundi-nd]: *In artem brevem Raymundi Lullii commentaria*, in Opera, II, pp. 315–451.
 
-[^aristotle-1984]: Aristotle, *De anima*, in Barnes, Jonathan (ed.), *The Complete Works of Aristotle*, I, Princeton: Princenton University Press, 1984.
+[^aristotle-1984]: Aristotle, *De anima*, in Barnes, Jonathan (ed.), *The Complete Works of Aristotle*, I, Princeton: Princeton University Press, 1984.
 
 [^augustine-1982]: Augustine, Aurelius, *The Literal Meaning of Genesis*, translated by John H. Taylor, New York: Newman, 1982.
 
@@ -130,7 +130,7 @@
 
 [^tabula-1926]: *Tabula smaragdina*, edited in Julius Ruska, *Tabula smaragdina. Ein Beitrag zur Geschichte der Hermetischen Literatur*, Heidelberg: Winter, 1926.
 
-[^ficino-1989]: Ficino, Marsilio, *Three Books of Life*, edited and and translated by Carol V. Kaske and John R. Clark, Binghamton: Medieval and Renaissance Texts and Studies, 1989.
+[^ficino-1989]: Ficino, Marsilio, *Three Books of Life*, edited and translated by Carol V. Kaske and John R. Clark, Binghamton: Medieval and Renaissance Texts and Studies, 1989.
 
 [^hermes-1992]: Hermes Trismegistus, *Hermetica. The Greek Corpus Hermeticum and the Latin Asclepius*, translated by Brian P. Copenhaver, Cambridge: Cambridge University Press, 1992.
 
@@ -156,7 +156,7 @@
 
 [^plato-1997]: Plato, *Symposium*, in John M. Cooper (ed.), *Plato: Complete Works*, Indianapolis: Hackett, 1997, pp. 457–505.
 
-[^pliny-1893]: Pliny the Elder, *Natural History*, translated by Henry T. Riley and John Bostock, London and New York: Bell, 1893–1890.
+[^pliny-1893]: Pliny the Elder, *Natural History*, translated by Henry T. Riley and John Bostock, London and New York: Bell, 1890–1893.
 
 [^reuchlin-nd]: Reuchlin, Johannes, *De arte cabalistica*, Hagenau: Thomas Anshelmus, 1517.
 
@@ -210,7 +210,7 @@
 
 [^müller-jahncke-1975]: Müller-Jahncke, Wolf-Dieter, 1975, “The Attitude of Agrippe von Nettesheim (1486–1535) towards Alchemy”, *Ambix*, 22: 134–50. doi:10.1179/amb.1975.22.2.134
 
-[^naudé-1644]: Naudé, Gabriel, 1644, *Advis pour dresser une biliothèque*, Paris: Rolet le duc.
+[^naudé-1644]: Naudé, Gabriel, 1644, *Advis pour dresser une bibliothèque*, Paris: Rolet le duc.
 
 [^nauert-1965]: Nauert, Charles G., Jr, 1965, *Agrippa and the Crisis of Renaissance Thought*, Urbana, Ill.: University of Illinois Press.
 
@@ -248,7 +248,7 @@
 
 [^secret-1992]: –––, 1992, *Hermétisme et Kabbale*, Naples: Bibliopolis.
 
-[^schmidt-biggerman-2012]: Schmidt-Biggerman, Wilhelm, 2012, *Geschchte der Kristlicher Kabbala: 15. und 16. Jahrhundert*, Stuttgart-Bad Cannstatt: Fromman-Holzoobog.
+[^schmidt-biggerman-2012]: Schmidt-Biggerman, Wilhelm, 2012, *Geschichte der christlichen Kabbala: 15. und 16. Jahrhundert*, Stuttgart-Bad Cannstatt: Frommann-Holzboog.
 
 [^schmitt-1967]: Schmitt, Charles B., 1967, *Gianfrancesco Pico della Mirandola (1469–1533) and His Critique of Aristotle*, The Hague: Nijhoff.
 
@@ -260,7 +260,7 @@
 
 [^zambelli-1965]: Zambelli, Paola, 1965, “Cornelio Agrippa. Scritti inediti e dispersi”, *Rinascimento*, II s., 5: 195–323.
 
-[^zambelli-1972]: –––, 1972, “Cornelio Agrippa, Sisto da Siena e gli inquisitori”, *Memorie Doemicane* (new series), 3: 147–64.
+[^zambelli-1972]: –––, 1972, “Cornelio Agrippa, Sisto da Siena e gli inquisitori”, *Memorie Domenicane* (new series), 3: 147–64.
 
 [^zambelli-1976]: –––, 1976, “Magic and Radical Reformation in Agrippa of Nettesheim”, *Journal of the Warburg and Courtauld Institutes*, 39: 69–103. doi:10.2307/751133
 
@@ -279,11 +279,11 @@
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=agrippa-nettesheim)。
 * [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/agrippa-nettesheim/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=agrippa-nettesheim&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
+* 在 [PhilPapers](https://philpapers.org/sep/agrippa-nettesheim/) 查看本词条的增强文献目录及其数据库链接。
 
 ## 其他网络资源
 
-- Nauert, Charles, “Heinrich Cornelius Agrippa von Nettesheim,” *Stanford Encyclopedia of Philosophy*（2010 年秋季版），Edward N. Zalta（编），URL = <[https://plato.stanford.edu/archives/win2016/entries/agrippa-nettesheim/](https://plato.stanford.edu/archives/win2016/entries/agrippa-nettesheim/)>.〔这是《斯坦福哲学百科全书》此前关于冯·内特斯海姆的词条——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=agrippa-nettesheim)。〕
+- Nauert, Charles, “Heinrich Cornelius Agrippa von Nettesheim,” *Stanford Encyclopedia of Philosophy*（2016 年冬季版），Edward N. Zalta（编），URL = <[https://plato.stanford.edu/archives/win2016/entries/agrippa-nettesheim/](https://plato.stanford.edu/archives/win2016/entries/agrippa-nettesheim/)>.〔这是《斯坦福哲学百科全书》此前关于冯·内特斯海姆的词条——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=agrippa-nettesheim)。〕
 
 ## 相关词条
 
